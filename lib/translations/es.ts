@@ -48092,7 +48092,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de un dia completo desde Colombo que visita Dambulla Royal Cave Temple and Golden Temple, Sigiriya Lion Rock y Minneriya Wild Safaris. Ofrecido por Top Guide Sri Lanka."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado (auto/furgoneta)",
    "Conductor que habla ingles",
    "Agua embotellada"
@@ -48450,14 +48450,14 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Ella: Little Adam's Peak, puente de los nueve arcos, cascada R...",
   "metaDescription": "Una excursion de medio dia desde Ella que visita Tuk tuk, Little Adam's Peak, Tuk tuk y Ravana Falls. Ofrecido por Ella Tuk Tuk Safari.",
   "shortDescription": "Una excursion de medio dia desde Ella que visita Tuk tuk, Little Adam's Peak, Tuk tuk y Ravana Falls. Ofrecido por Ella Tuk Tuk Safari.",
-  "fullDescription": "Una excursion de medio dia desde Ella, que recorre Tuk tuk, Little Adam's Peak, Tuk tuk y Ravana Falls. La parada mas larga es Tuk tuk, con una duracion de unos 1 hora. Hay 7 paradas en total.\n\nEl orden de la ruta es Tuk tuk (30 min), luego Little Adam's Peak, luego Tuk tuk (40 min), luego Ravana Falls (30 min), luego Tuk tuk (1h).\n\nEl precio incluye tour de un dia completo en tuk-tuk, visita a Little Adam's Peak, visita al puente de los nueve arcos y visita a la fabrica de te Halpewatte. No incluye comidas y tarifas de entrada, por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una excursion de medio dia desde Ella, que recorre Tuk tuk, Little Adam's Peak, Tuk tuk y Ravana Falls. La parada mas larga es Tuk tuk, con una duracion de unos 1 hora. Hay 7 paradas en total.\n\nEl orden de la ruta es Tuk tuk (30 min), luego Little Adam's Peak, luego Tuk tuk (40 min), luego Ravana Falls (30 min), luego Tuk tuk (1h).\n\nEl precio incluye tour de un dia completo en tuk-tuk, visita a Little Adam's Peak, visita al puente de los Nueve Arcos y visita a la fabrica de te Halpewatte. No incluye comidas y tarifas de entrada, por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Una excursion de medio dia desde Ella que visita Tuk tuk, Little Adam's Peak, Tuk tuk y Ravana Falls. Ofrecido por Ella Tuk Tuk Safari."
   ],
   "included": [
    "Tour de un dia completo en tuk-tuk",
    "Visita a Little Adam's Peak",
-   "Visita al puente de los nueve arcos",
+   "Visita al puente de los Nueve Arcos",
    "Visita a la fabrica de te Halpewatte"
   ],
   "notIncluded": [
@@ -48714,7 +48714,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de medio dia desde Colombo que visita Gangaramaya Temple, Old Dutch Hospital y Independence Square, Colombo. Ofrecido por Ceylon Traveline (PVT) LTD."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado",
    "Agua de coco king coconut",
    "Agua embotellada"
@@ -48948,7 +48948,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Descubra la rica historia y cultura de Sri Lanka en un tour de 12 dias"
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Guia turistico que habla ingles",
    "Transporte en furgoneta con aire acondicionado",
    "Viaje panoramico en tren de Nuwara Eliya a Ella"
@@ -49029,7 +49029,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "included": [
    "Transporte en vehiculo con aire acondicionado",
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Conductor que habla ingles",
    "Botella de agua"
   ],
@@ -49143,7 +49143,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de un dia completo desde Kandy que visita Tuk tuk, Sigiriya Fortress, Dambulla Royal Cave Temple and Golden Temple y Hindu temple. Ofrecido por Sri lanka Happy Tour."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Conductor que habla ingles",
    "Transporte en tuk-tuk/minifurgoneta/auto (segun la opcion elegida)",
    "Boletos de estacionamiento"
@@ -49170,7 +49170,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Almuerzo tradicional de Sri Lanka"
   ],
   "notIncluded": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Gastos personales",
    "Propinas y gratificaciones"
   ]
@@ -49330,7 +49330,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de un dia completo desde Kandy que visita Bahirawakanda Temple, Kandy, Ambuluwawa Tower y Pinnawala Elephant Orphanage. Ofrecido por Lanka Budget Tours."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Visita al templo de Bahirawakanda",
    "Asgiri Maha Viharaya",
    "Visita a la torre de Ambuluwawa"
@@ -49351,7 +49351,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Safari en tuk-tuk de Kandy a Sigiriya, trayecto panoramico por el campo"
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Visita al templo hindu de Matale",
    "Exploracion del templo de las cuevas de Dambulla",
    "Tour por el jardin de hierbas, canela, y especias"
@@ -49412,7 +49412,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de un dia completo desde Kandy que visita Dambulla Royal Cave Temple and Golden Temple y Sigiriya Lion Rock. Ofrecido por Inpura Travels."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado (auto/furgoneta/bus)",
    "Conductor que habla ingles",
    "Agua embotellada"
@@ -49474,7 +49474,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Explore la fortaleza de la Roca del Leon"
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado",
    "Conductor/guia",
    "Wi-Fi"
@@ -49556,7 +49556,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Descubra el templo de la Reliquia del Diente, uno de los sitios mas sagrados de Sri Lanka"
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Boleto de viaje panoramico en tren",
    "Guia profesional",
    "2 noches de alojamiento con desayuno"
@@ -49577,7 +49577,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de un dia completo desde Kandy que visita Sigiriya Lion Rock, Dambulla Royal Cave Temple and Golden Temple y Pidurangala. Ofrecido por Lanka Budget Tours."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en tuk-tuk privado",
    "Guia local"
   ],
@@ -49638,7 +49638,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visite 18 increibles atracciones turisticas en este tour privado guiado de 4 dias por Sri Lanka"
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte con aire acondicionado",
    "3 noches de alojamiento en hoteles estandar",
    "3 desayunos"
@@ -49698,7 +49698,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de un dia completo desde Galle que visita Ella, Sri Lanka. Ofrecido por TRAVEL WITH ARCHELLOLK (PVT) LTD."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado (auto/furgoneta/autobus)",
    "Conductor",
    "Cargos de peaje de autopista"
@@ -50043,7 +50043,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de medio dia desde Colombo que visita Tuk tuk, Tuk tuk y Tuk tuk. Ofrecido por Traveli Ceylon."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Vehiculo con aire acondicionado",
    "Chofer que habla ingles",
    "Entradas"
@@ -50087,7 +50087,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Anecdotas cautivadoras y discusiones esclarecedoras"
   ],
   "notIncluded": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Comidas",
    "Visitas a tiendas"
   ]
@@ -50102,7 +50102,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de un dia completo desde Ella que visita Ella Rock, Demodara Railway Loop Viewpoint, Nine Arch Bridge y Ravana Falls. Ofrecido por Sri Lanka Trekking Club."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Guia/conductor experimentado y experto",
    "Transporte en tuk-tuk"
   ],
@@ -50161,7 +50161,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de un dia completo desde Kandy que visita Tuk tuk, Bahirawakanda Temple, Royal Botanic Gardens, Kandy y Temple of the Sacred Tooth Relic. Ofrecido por Lanka Budget Tours."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Estupa de Asgiriya (entrada gratuita)",
    "Templo del Gran Buda (1,5 USD)"
   ],
@@ -50267,7 +50267,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "10 platos variados"
   ],
   "notIncluded": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Propinas",
    "Gastos de naturaleza personal"
   ]
@@ -50304,7 +50304,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de medio dia en Kandy. . Ofrecido por Lanka Happy Tour."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Tuk-tuk privado con guia/conductor local amable",
    "Itinerario flexible y personalizable",
    "Visita a la estupa de Asgiriya, entrada gratuita"
@@ -50914,7 +50914,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de un dia completo desde Kandy que visita Pinnawala, Ambuluwawa Tower, The Tea Factory & The Tea Museum y Temple of the Sacred Tooth Relic. Ofrecido por Cadyshack Taxis (Pvt) Ltd."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo privado con aire acondicionado",
    "Botella de agua",
    "Todos los impuestos y tarifas"
@@ -51078,7 +51078,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "included": [
    "Recogida y regreso al hotel en la zona de Sigiriya/Habarana",
    "Jeep de safari con combustible incluido",
-   "Conductor/guia profesional que habla ingles",
+   "Conductor/guia profesional que habla ingles.",
    "Entrada al parque nacional (si esta incluida en el paquete)"
   ],
   "notIncluded": [
@@ -51176,7 +51176,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de un dia completo en Colombo. . Ofrecido por Cadyshack Taxis (Pvt) Ltd."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo privado con aire acondicionado",
    "Botella de agua",
    "Todos los impuestos y tarifas"
@@ -51419,7 +51419,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "included": [
    "Tour por el mercado",
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Clase de cocina con un chef profesional",
    "Bebida de bienvenida"
   ],
@@ -51827,7 +51827,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de 3 dia(s) en Kandy. . Ofrecido por Serendipity tours (private) Limited."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado con conductor/guia",
    "Tour por la ciudad de Kandy",
    "Viaje en tren con todo incluido por las tierras altas"
@@ -51929,9 +51929,9 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de un dia completo desde Kandy que visita Kandy view point, Bahirawakanda Temple, Natural Gems & Gemological Museum y Royal Botanic Gardens, Kandy. Ofrecido por Lanka Safe Tours."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Vehiculo de lujo con aire acondicionado/tuk-tuk",
-   "Conductor/guia profesional que habla ingles",
+   "Conductor/guia profesional que habla ingles.",
    "Visita a una fabrica de te y degustacion"
   ],
   "notIncluded": [
@@ -51973,7 +51973,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "included": [
    "Alojamiento de 2 noches en hoteles de 3 estrellas, habitacion privada con aire acondicionado y bano propio",
    "2 desayunos",
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado con conductor/guia",
    "Tour por la ciudad de Kandy"
   ],
@@ -52379,7 +52379,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Viva un viaje relajante lleno de vistas"
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado (auto/furgoneta/autobus)",
    "Boletos de tren (tren normal)",
    "Cargos de peaje de autopista"
@@ -52515,7 +52515,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de medio dia en Kandy. . Ofrecido por Ceylon IT Tours."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Estupa de Asgiriya",
    "Lago Kandy",
    "Mirador de la ciudad de Kandy"
@@ -52556,7 +52556,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de medio dia desde Colombo que visita Independence Square, Colombo, Gangaramaya Temple, Old Parliament House y Colombo Lighthouse. Ofrecido por Lanka tours and transfers."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Vehiculo con aire acondicionado",
    "Transporte privado",
    "Tarifas de estacionamiento y otros gastos relacionados con el transporte"
@@ -53066,7 +53066,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de un dia completo desde Kandy que visita Horton Plains National Park, Nuwara Eliya, Postal Office ,Nuwara Eliya and Glenloch Tea Factory y Tea Center. Ofrecido por Apple Vacations Sri Lanka and Maldives."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Agua embotellada",
    "Conductor profesional y experto (que habla ingles)",
    "Transporte en vehiculo con aire acondicionado, tour compartido"
@@ -53089,7 +53089,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "included": [
    "Agua embotellada",
    "Conductor profesional y experto (que habla ingles)",
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado, tour compartido"
   ],
   "notIncluded": [
@@ -53108,7 +53108,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de 3 dia(s) en Kandy. . Ofrecido por Apple Vacations Sri Lanka and Maldives."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado",
    "Conductor/guia",
    "Alojamiento en hotel de 3 estrellas"
@@ -53171,7 +53171,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de un dia completo desde Sigiriya que visita BadullaCar, Local restaurant, Dambulla Royal Cave Temple and Golden Temple y Sigiriya Lion Rock. Ofrecido por FEULANSE (PVT) LTD."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado (auto/furgoneta/bus)",
    "Conductor que habla ingles",
    "Agua embotellada"
@@ -53212,7 +53212,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de 2 dia(s) en Sigiriya. . Ofrecido por Apple Vacations Sri Lanka and Maldives."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado, traslado compartido",
    "Conductor/guia",
    "Alojamiento"
@@ -53254,7 +53254,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de un dia completo en Kandy. . Ofrecido por Kandy Explore Tours."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Guia turistico",
    "Mirador de la ciudad de Kandy",
    "Fabrica de te de Ceilan"
@@ -53273,7 +53273,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de un dia completo en Kandy. . Ofrecido por Ceylon IT Tours."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Tarifa de entrada a la fabrica de te de Ceilan",
    "Tarifa de entrada a la plantacion de te",
    "Tarifa de entrada al templo hindu Seetha Amman"
@@ -53338,7 +53338,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Fotos"
   ],
   "notIncluded": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Comida y bebidas"
   ]
  },
@@ -53358,7 +53358,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cubrecabeza elastico desechable"
   ],
   "notIncluded": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Comida y bebidas"
   ]
  },
@@ -53396,7 +53396,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Agua"
   ],
   "notIncluded": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Comidas"
   ]
  },
@@ -53468,7 +53468,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de un dia completo en Colombo. . Ofrecido por Serendipity tours (private) Limited."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Todas las tarifas de entrada",
    "Todos los cargos de actividades",
    "Conductor/guia"
@@ -53488,7 +53488,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de medio dia en Kandy. . Ofrecido por Dinesh Perera."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Guia/conductor privado",
    "Itinerario personalizable",
    "Visita a la estupa de Asgiriya (entrada gratuita)"
@@ -53527,7 +53527,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de un dia completo en Colombo. . Ofrecido por Leisure Sri Lanka."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Wi-Fi gratis",
    "Agua embotellada",
    "Vehiculo con aire acondicionado"
@@ -53547,7 +53547,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de un dia completo en Colombo. . Ofrecido por Wanderluxe Ceylon."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado completamente nuevo",
    "Conductor/guia que habla ingles",
    "Wi-Fi gratis"
@@ -53569,7 +53569,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "included": [
    "Alojamiento de una noche en un hotel de 3 estrellas con desayuno",
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado",
    "Servicio de un chofer-guia que habla ingles"
   ],
@@ -53652,7 +53652,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de medio dia desde Sigiriya que visita Dambulla y Dambulla. Ofrecido por Serendipity tours (private) Limited."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado",
    "Conductor que habla ingles",
    "Agua embotellada"
@@ -53698,7 +53698,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Cualquier gasto de naturaleza personal",
    "Propinas y cargos de porteo",
-   "Recogida y regreso al hotel"
+   "Recogida y regreso al hotel."
   ]
  },
  "colombo-airport-cmb-to-any-city-transfer-in-sri": {
@@ -53752,7 +53752,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de un dia completo desde Colombo que visita Handunugoda Tea Estate, Galle Dutch Fort y Kosgoda. Ofrecido por Lakpura®."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte durante todo el tour",
    "Servicio de chofer-guia",
    "1 litro de agua mineral embotellada por persona"
@@ -53855,7 +53855,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de un dia completo desde Colombo que visita Dambulla Royal Cave Temple and Golden Temple y Sigiriya Lion Rock. Ofrecido por Top Guide Sri Lanka."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado (auto/furgoneta/bus)",
    "Conductor que habla ingles",
    "Asistencia de guia en la Roca del Leon de Sigiriya (ingles, aleman, frances, espanol)",
@@ -53982,7 +53982,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "included": [
    "Transporte en tuk-tuk de lujo privado",
-   "Conductor/guia profesional que habla ingles",
+   "Conductor/guia profesional que habla ingles.",
    "Recogida y regreso al hotel (dentro de los limites de la ciudad de Colombo)",
    "Agua embotellada durante el tour"
   ],
@@ -54171,7 +54171,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "included": [
    "Chofer-guia profesional",
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado",
    "Safari en jeep privado"
   ],
@@ -54346,7 +54346,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Gastos personales",
    "Propinas",
-   "Seguro de viaje"
+   "Seguro de viaje."
   ]
  },
  "colombo-private-ella-tour-with-dowa-temple-tea": {
@@ -54465,7 +54465,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "included": [
    "Transporte privado",
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Safari en barco por el rio Madu",
    "Visita a la isla de canela"
   ],
@@ -54590,7 +54590,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "included": [
    "Transporte privado",
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Safari en barco por el rio Bentota",
    "Visita al Brief Garden"
   ],
@@ -54972,7 +54972,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tarifa de entrada a Upper Diyaluma (aproximadamente 1 a 1,5 USD, pagadera en el lugar)",
    "Gastos personales y recuerdos",
    "Propinas (opcional)",
-   "Seguro de viaje"
+   "Seguro de viaje."
   ]
  },
  "colombo-ogf-bowling-experience": {
@@ -55003,7 +55003,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "included": [
    "Vehiculo privado con aire acondicionado",
-   "Conductor/guia profesional que habla ingles",
+   "Conductor/guia profesional que habla ingles.",
    "Recogida y regreso al hotel en Colombo",
    "Transporte privado durante todo el tour"
   ],
@@ -55063,7 +55063,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de un dia completo en Galle. . Ofrecido por Tuk Tuk Safari Tangalle."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Tour de observacion de ballenas",
    "Visita al faro de Dondra",
    "Tripulacion y conductor locales experimentados"
@@ -55177,7 +55177,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Almuerzo",
    "Gastos personales",
-   "Seguro de viaje"
+   "Seguro de viaje."
   ]
  },
  "sri-lanka-2-day-cultural-triangle-tour-with-tuk": {
@@ -55309,6 +55309,109 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tarifas de visa y gastos relacionados con el pasaporte"
   ]
  },
+ "from-mirissa-2-day-south-coast-tour-with-galle": {
+  "title": "Desde Mirissa: tour de 2 dias por la costa sur con visita al fuerte de Galle",
+  "metaTitle": "Desde Mirissa: tour de 2 dias por la costa sur con visita al f...",
+  "metaDescription": "Experiencia de 2 dia(s) en Mirissa. . Ofrecido por Padraig Lanka Tours.",
+  "shortDescription": "Experiencia de 2 dia(s) en Mirissa. . Ofrecido por Padraig Lanka Tours.",
+  "fullDescription": "Una experiencia de 2 dia(s) en Mirissa. Explore Mirissa Beach, Coconut Tree Hill, Parrot Rock and enjoy coastal views.\n\nPadraig Lanka Tours la organiza, y 8 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye transporte privado, chofer-guia que habla ingles, agua embotellada y fuerte de Galle. No incluye gastos personales y recuerdos, comida y bebidas adicionales no especificadas y cualquier actividad o servicio no mencionado en el itinerario, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de 2 dia(s) en Mirissa. . Ofrecido por Padraig Lanka Tours."
+  ],
+  "included": [
+   "Transporte privado",
+   "Chofer-guia que habla ingles",
+   "Agua embotellada",
+   "Fuerte de Galle"
+  ],
+  "notIncluded": [
+   "Gastos personales y recuerdos",
+   "Comida y bebidas adicionales no especificadas",
+   "Cualquier actividad o servicio no mencionado en el itinerario"
+  ]
+ },
+ "from-kandy-to-ella-2-night-adventure-via-adams": {
+  "title": "De Kandy a Ella: aventura de 2 noches via el Pico de Adan",
+  "metaTitle": "De Kandy a Ella: aventura de 2 noches via el Pico de Adan",
+  "metaDescription": "Experiencia de 2 dia(s) en Kandy. . Ofrecido por kandy super tours.",
+  "shortDescription": "Experiencia de 2 dia(s) en Kandy. . Ofrecido por kandy super tours.",
+  "fullDescription": "Una experiencia de 2 dia(s) en Kandy. Hike to the spectacular Ambuluwawa Tower and enjoy panoramic mountain views.\n\nkandy super tours la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida en su hotel en la ciudad de Kandy, regreso a su hotel en Ella, vehiculo privado con aire acondicionado y conductor-guia que habla ingles. No incluye alojamiento, comidas y tarifas de entrada opcionales a atracciones de Nuwara Eliya (si corresponde), por lo que debe presupuestar eso por separado. Dos viajeros pagan 491 $ juntos en lugar de 355 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de 2 dia(s) en Kandy. . Ofrecido por kandy super tours."
+  ],
+  "included": [
+   "Recogida en su hotel en la ciudad de Kandy",
+   "Regreso a su hotel en Ella",
+   "Vehiculo privado con aire acondicionado",
+   "Conductor-guia que habla ingles"
+  ],
+  "notIncluded": [
+   "Alojamiento",
+   "Comidas",
+   "Tarifas de entrada opcionales a atracciones de Nuwara Eliya (si corresponde)"
+  ]
+ },
+ "mirissa-authentic-sri-lankan-dining-experience": {
+  "title": "Mirissa: experiencia gastronomica autentica de Sri Lanka",
+  "metaTitle": "Mirissa: experiencia gastronomica autentica de Sri Lanka",
+  "metaDescription": "Una excursion de 2 hora(s) desde Mirissa que visita Tuk tuk y Food Lover Mirissa Restaurant. Ofrecido por Food Lover Mirissa Restaurant.",
+  "shortDescription": "Una excursion de 2 hora(s) desde Mirissa que visita Tuk tuk y Food Lover Mirissa Restaurant. Ofrecido por Food Lover Mirissa Restaurant.",
+  "fullDescription": "Una excursion de 2 hora(s) desde Mirissa, que recorre Tuk tuk y Food Lover Mirissa Restaurant. Hay 2 paradas en total.\n\nEl orden de la ruta es Tuk tuk (10 min), luego Food Lover Mirissa Restaurant.\n\nEl precio incluye experiencia gastronomica de Sri Lanka seleccionada, jugo de bienvenida fresco o bebida de bienvenida, plato principal segun la opcion elegida y guarniciones tradicionales de Sri Lanka. No incluye bebidas alcoholicas, comida y bebidas adicionales no mencionadas y recogida y regreso fuera de la zona de Mirissa, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de 2 hora(s) desde Mirissa que visita Tuk tuk y Food Lover Mirissa Restaurant. Ofrecido por Food Lover Mirissa Restaurant."
+  ],
+  "included": [
+   "Experiencia gastronomica de Sri Lanka seleccionada",
+   "Jugo de bienvenida fresco o bebida de bienvenida",
+   "Plato principal segun la opcion elegida",
+   "Guarniciones tradicionales de Sri Lanka"
+  ],
+  "notIncluded": [
+   "Bebidas alcoholicas",
+   "Comida y bebidas adicionales no mencionadas",
+   "Recogida y regreso fuera de la zona de Mirissa"
+  ]
+ },
+ "bentota-madu-river-safari-and-turtle-hatchery-tour": {
+  "title": "Bentota: safari en el rio Madu y tour al criadero de tortugas",
+  "metaTitle": "Bentota: safari en el rio Madu y tour al criadero de tortugas",
+  "metaDescription": "Una excursion de medio dia desde Bentota que visita Madu Ganga. Ofrecido por Serendipity tours (private) Limited.",
+  "shortDescription": "Una excursion de medio dia desde Bentota que visita Madu Ganga. Ofrecido por Serendipity tours (private) Limited.",
+  "fullDescription": "Una excursion de medio dia desde Bentota, que recorre Madu Ganga. La parada mas larga es Madu Ganga, con una duracion de unos 2 horas.\n\nEl precio incluye recogida y regreso al hotel, transporte privado con aire acondicionado, guia/conductor local experimentado y safari en barco por el rio Madu. No incluye comida y comidas, actividades o experiencias opcionales no mencionadas en el itinerario y cualquier tarifa de entrada adicional no especificada en las inclusiones, por lo que debe presupuestar eso por separado. Dos viajeros pagan 203 $ juntos en lugar de 169 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de medio dia desde Bentota que visita Madu Ganga. Ofrecido por Serendipity tours (private) Limited."
+  ],
+  "included": [
+   "Recogida y regreso al hotel.",
+   "Transporte privado con aire acondicionado",
+   "Guia/conductor local experimentado",
+   "Safari en barco por el rio Madu"
+  ],
+  "notIncluded": [
+   "Comida y comidas",
+   "Actividades o experiencias opcionales no mencionadas en el itinerario",
+   "Cualquier tarifa de entrada adicional no especificada en las inclusiones"
+  ]
+ },
+ "from-kandy-nanu-oya-to-ella-train-journey-tea": {
+  "title": "Desde Kandy: viaje en tren de Nanu Oya a Ella y tierras altas de te",
+  "metaTitle": "Desde Kandy: viaje en tren de Nanu Oya a Ella y tierras altas ...",
+  "metaDescription": "Una excursion de medio dia desde Kandy que visita Ramboda Falls View Point, Ramboda Falls, Srilanka, Blue Field Tea Center y Nuwara Eliya. Ofrecido por mysrilanka...",
+  "shortDescription": "Una excursion de medio dia desde Kandy que visita Ramboda Falls View Point, Ramboda Falls, Srilanka, Blue Field Tea Center y Nuwara Eliya. Ofrecido por mysrilankatrip.",
+  "fullDescription": "Una excursion de medio dia desde Kandy, que recorre Ramboda Falls View Point, Ramboda Falls, Srilanka, Blue Field Tea Center y Nuwara Eliya. La parada mas larga es Blue Field Tea Center, con una duracion de unos 1 hora. Hay 6 paradas en total.\n\nEl orden de la ruta es Ramboda Falls View Point, luego Ramboda Falls, Srilanka, luego Blue Field Tea Center (1h), luego Nuwara Eliya, luego Thalawakele.\n\nEl precio incluye recogida privada desde el alojamiento en Kandy, viaje panoramico por las tierras altas centrales, visita a una cascada de las tierras altas y oportunidades fotograficas entre plantaciones de te. No incluye comida y bebidas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de medio dia desde Kandy que visita Ramboda Falls View Point, Ramboda Falls, Srilanka, Blue Field Tea Center y Nuwara Eliya. Ofrecido por mysrilankatrip."
+  ],
+  "included": [
+   "Recogida privada desde el alojamiento en Kandy",
+   "Viaje panoramico por las tierras altas centrales",
+   "Visita a una cascada de las tierras altas",
+   "Oportunidades fotograficas entre plantaciones de te"
+  ],
+  "notIncluded": [
+   "Comida y bebidas"
+  ]
+ },
  "from-colombo-galle-fort-jungle-beach-boat-safari": {
   "title": "Desde Colombo: fuerte de Galle, Jungle Beach, safari en barco, excursion de un dia",
   "metaTitle": "Desde Colombo: fuerte de Galle, Jungle Beach, safari en barco,...",
@@ -55328,6 +55431,398 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comida y bebidas"
   ]
  },
+ "colombo-private-transfer-to-sigiriya-dambulla-or": {
+  "title": "Colombo: traslado privado a Sigiriya, Dambulla, o Kandy",
+  "metaTitle": "Colombo: traslado privado a Sigiriya, Dambulla, o Kandy",
+  "metaDescription": "Experiencia de medio dia en Colombo. . Ofrecido por My Sri Lanka Journey.",
+  "shortDescription": "Experiencia de medio dia en Colombo. . Ofrecido por My Sri Lanka Journey.",
+  "fullDescription": "Una experiencia de medio dia en Colombo. Private transfer from Colombo Airport to Sigiriya, Dabulla Or Kandy.\n\nMy Sri Lanka Journey la organiza, y 10 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recepcion en el aeropuerto con cartel personalizado con su nombre, vehiculo privado con aire acondicionado, conductor que habla ingles y recogida en el hotel en Negombo o cerca del aeropuerto de Colombo. No incluye entradas a atracciones, tarifa de entrada al templo de la cueva de Dambulla y entrada a la roca de Sigiriya, por lo que debe presupuestar eso por separado. Dos viajeros pagan 136 $ juntos en lugar de 136 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de medio dia en Colombo. . Ofrecido por My Sri Lanka Journey."
+  ],
+  "included": [
+   "Recepcion en el aeropuerto con cartel personalizado con su nombre",
+   "Vehiculo privado con aire acondicionado",
+   "Conductor que habla ingles",
+   "Recogida en el hotel en Negombo o cerca del aeropuerto de Colombo"
+  ],
+  "notIncluded": [
+   "Entradas a atracciones",
+   "Tarifa de entrada al templo de la cueva de Dambulla",
+   "Entrada a la roca de Sigiriya"
+  ]
+ },
+ "mirissa-fishing-trip-with-beer-and-bbq": {
+  "title": "Mirissa: excursion de pesca con cerveza y barbacoa",
+  "metaTitle": "Mirissa: excursion de pesca con cerveza y barbacoa",
+  "metaDescription": "Experiencia de medio dia en Mirissa. . Ofrecido por Ceylon Pass.",
+  "shortDescription": "Experiencia de medio dia en Mirissa. . Ofrecido por Ceylon Pass.",
+  "fullDescription": "Una experiencia de medio dia en Mirissa. Experience fishing like a real fisherman out on the sea.\n\nCeylon Pass la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel dentro de un radio de 10 km del centro de Mirissa, experiencia de pesca (4 horas), tripulacion y experiencia de barbacoa. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 1689 $ juntos en lugar de 1689 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de medio dia en Mirissa. . Ofrecido por Ceylon Pass."
+  ],
+  "included": [
+   "Recogida y regreso al hotel dentro de un radio de 10 km del centro de Mirissa",
+   "Experiencia de pesca (4 horas)",
+   "Tripulacion",
+   "Experiencia de barbacoa"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "sigiriya-and-dambulla-2-day-guided-tour": {
+  "title": "Sigiriya y Dambulla: tour guiado de 2 dias",
+  "metaTitle": "Sigiriya y Dambulla: tour guiado de 2 dias",
+  "metaDescription": "Una excursion de 2 dia(s) desde Sigiriya que visita Guided Climb Sigiriya Rock and Village Tour and Dambulla Cave Temple y Minneriya Jeep Safari. Ofrecido por Sri...",
+  "shortDescription": "Una excursion de 2 dia(s) desde Sigiriya que visita Guided Climb Sigiriya Rock and Village Tour and Dambulla Cave Temple y Minneriya Jeep Safari. Ofrecido por Sri Ceilao Tours.",
+  "fullDescription": "Una excursion de 2 dia(s) desde Sigiriya, que recorre Guided Climb Sigiriya Rock and Village Tour and Dambulla Cave Temple y Minneriya Jeep Safari. Hay 2 paradas en total.\n\nEl orden de la ruta es Guided Climb Sigiriya Rock and Village Tour, luego Dambulla Cave Temple and Minneriya Jeep Safari.\n\nEl precio incluye vehiculo privado con aire acondicionado y transporte durante 2 dias, conductor/guia profesional que habla ingles, seguro de viaje y recogida y regreso al hotel. No incluye tarifas de entrada a la fortaleza rocosa de Sigiriya y al templo de la cueva de Dambulla, tarifas de entrada al parque nacional de Minneriya y comidas y bebidas no especificadas en el itinerario, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de 2 dia(s) desde Sigiriya que visita Guided Climb Sigiriya Rock and Village Tour and Dambulla Cave Temple y Minneriya Jeep Safari. Ofrecido por Sri Ceilao Tours."
+  ],
+  "included": [
+   "Vehiculo privado con aire acondicionado y transporte durante 2 dias.",
+   "Conductor/guia profesional que habla ingles.",
+   "Seguro de viaje.",
+   "Recogida y regreso al hotel."
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a la fortaleza rocosa de Sigiriya y al templo de la cueva de Dambulla.",
+   "Tarifas de entrada al parque nacional de Minneriya.",
+   "Comidas y bebidas no especificadas en el itinerario."
+  ]
+ },
+ "colombo-private-limousine-city-tour-with-photo": {
+  "title": "Colombo: tour privado por la ciudad en limusina con paradas fotograficas",
+  "metaTitle": "Colombo: tour privado por la ciudad en limusina con paradas fo...",
+  "metaDescription": "Una excursion de 1 hora(s) desde Colombo que visita Limousine, Colombo y Limousine. Ofrecido por Lakpura®.",
+  "shortDescription": "Una excursion de 1 hora(s) desde Colombo que visita Limousine, Colombo y Limousine. Ofrecido por Lakpura®.",
+  "fullDescription": "Una excursion de 1 hora(s) desde Colombo, que recorre Limousine, Colombo y Limousine. La parada mas larga es Limousine, con una duracion de unos 1 hora. Hay 3 paradas en total.\n\nEl orden de la ruta es Limousine (1h), luego Colombo (1h), luego Limousine (15 min).\n\nEl precio incluye limusina privada para el tour, chofer profesional, recorrido turistico por la ciudad de Colombo y paradas fotograficas seleccionadas. No incluye recogida y regreso al hotel fuera de Colombo, a menos que se especifique, comida y bebidas y pastel y decoraciones de cumpleanos, a menos que esten incluidos en el paquete elegido, por lo que debe presupuestar eso por separado. Dos viajeros pagan 871 $ juntos en lugar de 871 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de 1 hora(s) desde Colombo que visita Limousine, Colombo y Limousine. Ofrecido por Lakpura®."
+  ],
+  "included": [
+   "Limusina privada para el tour",
+   "Chofer profesional",
+   "Recorrido turistico por la ciudad de Colombo",
+   "Paradas fotograficas seleccionadas"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel fuera de Colombo, a menos que se especifique",
+   "Comida y bebidas",
+   "Pastel y decoraciones de cumpleanos, a menos que esten incluidos en el paquete elegido"
+  ]
+ },
+ "sri-lanka-sigiriya-rock-fortress-tour-with-massage": {
+  "title": "Sri Lanka: tour a la fortaleza rocosa de Sigiriya con masaje",
+  "metaTitle": "Sri Lanka: tour a la fortaleza rocosa de Sigiriya con masaje",
+  "metaDescription": "Experiencia de medio dia en Sigiriya. . Ofrecido por Elephant Kingdom Safaris Sigiriya.",
+  "shortDescription": "Experiencia de medio dia en Sigiriya. . Ofrecido por Elephant Kingdom Safaris Sigiriya.",
+  "fullDescription": "Una experiencia de medio dia en Sigiriya. Marvel at the majestic Sigiriya Rock Fortress at sunset.\n\nElephant Kingdom Safaris Sigiriya la organiza, y 4 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye visita a la fortaleza rocosa de Sigiriya, experiencia de masaje ayurvedico, vistas panoramicas del paisaje y transporte. No incluye comidas y bebidas, tarifa de entrada a Sigiriya y tarifa de masaje, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de medio dia en Sigiriya. . Ofrecido por Elephant Kingdom Safaris Sigiriya."
+  ],
+  "included": [
+   "Visita a la fortaleza rocosa de Sigiriya",
+   "Experiencia de masaje ayurvedico",
+   "Vistas panoramicas del paisaje",
+   "Transporte"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "Tarifa de entrada a Sigiriya",
+   "Tarifa de masaje"
+  ]
+ },
+ "quick-drop-nuwara-eliya-tuk-tuk-tour": {
+  "title": "Tour rapido de Nuwara Eliya en tuk-tuk",
+  "metaTitle": "Tour rapido de Nuwara Eliya en tuk-tuk",
+  "metaDescription": "Una excursion de medio dia desde Nuwara Eliya que visita Tuk tuk, Tuk tuk y Tuk tuk. Ofrecido por Quick Drop Nuwaraeliya.",
+  "shortDescription": "Una excursion de medio dia desde Nuwara Eliya que visita Tuk tuk, Tuk tuk y Tuk tuk. Ofrecido por Quick Drop Nuwaraeliya.",
+  "fullDescription": "Una excursion de medio dia desde Nuwara Eliya, que recorre Tuk tuk, Tuk tuk y Tuk tuk. Hay 3 paradas en total.\n\nEl orden de la ruta es Tuk tuk (30 min), luego Tuk tuk (15 min), luego Tuk tuk (10 min).\n\nEl precio incluye guia turistico local licenciado, transporte privado en tuk-tuk, itinerarios personalizados y recogida en el hotel o en la estacion de tren. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 72 $ juntos en lugar de 72 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de medio dia desde Nuwara Eliya que visita Tuk tuk, Tuk tuk y Tuk tuk. Ofrecido por Quick Drop Nuwaraeliya."
+  ],
+  "included": [
+   "Guia turistico local licenciado",
+   "Transporte privado en tuk-tuk",
+   "Itinerarios personalizados",
+   "Recogida en el hotel o en la estacion de tren"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "udawatta-kele-sanctuary-guided-nature-walk": {
+  "title": "Santuario de Udawatta Kele: paseo natural guiado y observacion de aves",
+  "metaTitle": "Santuario de Udawatta Kele: paseo natural guiado y observacion...",
+  "metaDescription": "Experiencia de medio dia en Kandy. . Ofrecido por With Local Traveler.",
+  "shortDescription": "Experiencia de medio dia en Kandy. . Ofrecido por With Local Traveler.",
+  "fullDescription": "Una experiencia de medio dia en Kandy. Explore a Historic royal rainforest located above the temple of tooth in kandy.\n\nWith Local Traveler la organiza, y 4 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye guia naturalista que habla ingles, paseo guiado por el bosque y sesion de observacion de aves, agua potable embotellada y recogida y regreso al hotel. No incluye tarifas de entrada a todos los sitios, propinas y gastos personales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 43 $ juntos en lugar de 23 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de medio dia en Kandy. . Ofrecido por With Local Traveler."
+  ],
+  "included": [
+   "Guia naturalista que habla ingles.",
+   "Paseo guiado por el bosque y sesion de observacion de aves",
+   "Agua potable embotellada",
+   "Recogida y regreso al hotel."
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a todos los sitios",
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
+ "kandy-private-lake-boat-tour-with-city-views": {
+  "title": "Kandy: tour privado en barco por el lago con vistas de la ciudad",
+  "metaTitle": "Kandy: tour privado en barco por el lago con vistas de la ciudad",
+  "metaDescription": "Experiencia de 0,5 hora(s) en Kandy. . Ofrecido por Ceylon Pass.",
+  "shortDescription": "Experiencia de 0,5 hora(s) en Kandy. . Ofrecido por Ceylon Pass.",
+  "fullDescription": "Una experiencia de 0,5 hora(s) en Kandy. Enjoy a boat tour on Kandy Lake, a historic man-made lake.\n\nCeylon Pass la organiza, y 1 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye paseo en barco por el lago Kandy (30 minutos). No incluye recogida y regreso al hotel o villa, por lo que debe presupuestar eso por separado. Dos viajeros pagan 101 $ juntos en lugar de 101 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de 0,5 hora(s) en Kandy. . Ofrecido por Ceylon Pass."
+  ],
+  "included": [
+   "Paseo en barco por el lago Kandy (30 minutos)"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel o villa"
+  ]
+ },
+ "8-days-sri-lanka-tour-nature-culture-adventure": {
+  "title": "Tour de 8 dias por Sri Lanka: naturaleza, cultura, aventura",
+  "metaTitle": "Tour de 8 dias por Sri Lanka: naturaleza, cultura, aventura",
+  "metaDescription": "Una excursion de 8 dia(s) desde Colombo que visita Dambulla Golden Temple, Overnight Stay in Sigiriya, Early Morning Sigiriya Lion Rock Climb y Sigiriya Village T...",
+  "shortDescription": "Una excursion de 8 dia(s) desde Colombo que visita Dambulla Golden Temple, Overnight Stay in Sigiriya, Early Morning Sigiriya Lion Rock Climb y Sigiriya Village Tour. Ofrecido por Sanjeewa and Thirandi Tours - Sri Lanka.",
+  "fullDescription": "Una excursion de 8 dia(s) desde Colombo, que recorre Dambulla Golden Temple, Overnight Stay in Sigiriya, Early Morning Sigiriya Lion Rock Climb y Sigiriya Village Tour. Hay 25 paradas en total.\n\nEl orden de la ruta es Dambulla Golden Temple, luego Overnight Stay in Sigiriya, luego Early Morning Sigiriya Lion Rock Climb, luego Sigiriya Village Tour, luego Traditional Sri Lankan Village Lunch.\n\nEl precio incluye recogida y regreso desde el aeropuerto internacional de Colombo Bandaranaike, vehiculo con aire acondicionado con conductor-guia que habla ingles, costos de combustible y cargos de estacionamiento. No incluye vuelos internacionales, entradas para las atracciones y comidas no especificadas en el itinerario, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de 8 dia(s) desde Colombo que visita Dambulla Golden Temple, Overnight Stay in Sigiriya, Early Morning Sigiriya Lion Rock Climb y Sigiriya Village Tour. Ofrecido por Sanjeewa and Thirandi Tours - Sri Lanka."
+  ],
+  "included": [
+   "Recogida y regreso desde el aeropuerto internacional de Colombo Bandaranaike",
+   "Vehiculo con aire acondicionado con conductor-guia que habla ingles",
+   "Costos de combustible",
+   "Cargos de estacionamiento"
+  ],
+  "notIncluded": [
+   "Vuelos internacionales",
+   "Entradas para las atracciones",
+   "Comidas no especificadas en el itinerario"
+  ]
+ },
+ "from-colombonegambo-kandy-sigiriya-ella-3-day-tour": {
+  "title": "Desde Colombo/Negombo: tour de 3 dias Kandy, Sigiriya, y Ella",
+  "metaTitle": "Desde Colombo/Negombo: tour de 3 dias Kandy, Sigiriya, y Ella",
+  "metaDescription": "Una excursion de 3 dia(s) desde Colombo que visita Arrival in Kandy and Kandy city tour, Visiting special places from Kandy to Dambulla and Sigiriya y Kandy to Nu...",
+  "shortDescription": "Una excursion de 3 dia(s) desde Colombo que visita Arrival in Kandy and Kandy city tour, Visiting special places from Kandy to Dambulla and Sigiriya y Kandy to NuwaraEliya Via Nanuoya Drop & Ella Train Ride. Ofrecido por Oshi Lanka Tours.",
+  "fullDescription": "Una excursion de 3 dia(s) desde Colombo, que recorre Arrival in Kandy and Kandy city tour, Visiting special places from Kandy to Dambulla and Sigiriya y Kandy to NuwaraEliya Via Nanuoya Drop & Ella Train Ride. Hay 3 paradas en total.\n\nEl orden de la ruta es Arrival in Kandy and Kandy city tour, luego Visiting special places from Kandy to Dambulla and Sigiriya, luego Kandy to NuwaraEliya Via Nanuoya Drop & Ella Train Ride.\n\nEl precio incluye paquete de viaje de 3 dias, boletos de tren, autos confortables y con aire acondicionado, guias, conductores, y autos separados para cada tour y viaje en tren de Nanuoya a Ella. No incluye gastos personales, entradas y alojamiento, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de 3 dia(s) desde Colombo que visita Arrival in Kandy and Kandy city tour, Visiting special places from Kandy to Dambulla and Sigiriya y Kandy to NuwaraEliya Via Nanuoya Drop & Ella Train Ride. Ofrecido por Oshi Lanka Tours."
+  ],
+  "included": [
+   "Paquete de viaje de 3 dias",
+   "Boletos de tren",
+   "Autos confortables y con aire acondicionado",
+   "Guias, conductores, y autos separados para cada tour",
+   "Viaje en tren de Nanuoya a Ella"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Entradas",
+   "Alojamiento"
+  ]
+ },
+ "from-colombo-south-yala-safari-ella-day-trip": {
+  "title": "Desde Colombo y el Sur: safari en Yala y excursion a Ella",
+  "metaTitle": "Desde Colombo y el Sur: safari en Yala y excursion a Ella",
+  "metaDescription": "Una excursion de un dia completo desde Colombo que visita Yala National Park y Little Adam's Peak. Ofrecido por HASH ONE CEYLON TOURS (PVT) LTD.",
+  "shortDescription": "Una excursion de un dia completo desde Colombo que visita Yala National Park y Little Adam's Peak. Ofrecido por HASH ONE CEYLON TOURS (PVT) LTD.",
+  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Yala National Park y Little Adam's Peak. La parada mas larga es Yala National Park, con una duracion de unos 6 horas. Hay 2 paradas en total.\n\nEl orden de la ruta es Yala National Park (6h), luego Little Adam's Peak (2h).\n\nEl precio incluye recogida temprano en la mañana en South Beach, safari matutino en jeep en el parque nacional de Yala, visita a Ella y aventura opcional en la laguna de agua azul Nil Diya Pokuna. No incluye almuerzo o refrescos y tarifas de entrada a actividades opcionales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 1555 $ juntos en lugar de 1268 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de un dia completo desde Colombo que visita Yala National Park y Little Adam's Peak. Ofrecido por HASH ONE CEYLON TOURS (PVT) LTD."
+  ],
+  "included": [
+   "Recogida temprano en la mañana en South Beach",
+   "Safari matutino en jeep en el parque nacional de Yala",
+   "Visita a Ella",
+   "Aventura opcional en la laguna de agua azul Nil Diya Pokuna"
+  ],
+  "notIncluded": [
+   "Almuerzo o refrescos",
+   "Tarifas de entrada a actividades opcionales"
+  ]
+ },
+ "kandy-to-galle-private-transfer-with-optional": {
+  "title": "Kandy a Galle: traslado privado con paradas opcionales",
+  "metaTitle": "Kandy a Galle: traslado privado con paradas opcionales",
+  "metaDescription": "Experiencia de medio dia en Kandy. . Ofrecido por Travelers Arc Sri Lanka.",
+  "shortDescription": "Experiencia de medio dia en Kandy. . Ofrecido por Travelers Arc Sri Lanka.",
+  "fullDescription": "Una experiencia de medio dia en Kandy. Travel from Kandy to Galle in a private, air-conditioned vehicle.\n\nTravelers Arc Sri Lanka la organiza, y 9 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye transporte privado de ida de Kandy a Galle, vehiculo privado confortable con aire acondicionado, vehiculo seleccionado segun el tamano del grupo y conductor-guia que habla ingles. No incluye guia especializado licenciado en las atracciones, entradas a atracciones y comida y bebidas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 186 $ juntos en lugar de 186 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de medio dia en Kandy. . Ofrecido por Travelers Arc Sri Lanka."
+  ],
+  "included": [
+   "Transporte privado de ida de Kandy a Galle",
+   "Vehiculo privado confortable con aire acondicionado",
+   "Vehiculo seleccionado segun el tamano del grupo",
+   "Conductor-guia que habla ingles"
+  ],
+  "notIncluded": [
+   "Guia especializado licenciado en las atracciones",
+   "Entradas a atracciones",
+   "Comida y bebidas"
+  ]
+ },
+ "negombo-private-tuk-tuk-city-tour-with-optional": {
+  "title": "Negombo: tour privado por la ciudad en tuk-tuk con safari en barco opcional",
+  "metaTitle": "Negombo: tour privado por la ciudad en tuk-tuk con safari en b...",
+  "metaDescription": "Una excursion de 3 hora(s) desde Negombo que visita Tuk tuk, Negombo y Tuk tuk. Ofrecido por Zeylona Travels.",
+  "shortDescription": "Una excursion de 3 hora(s) desde Negombo que visita Tuk tuk, Negombo y Tuk tuk. Ofrecido por Zeylona Travels.",
+  "fullDescription": "Una excursion de 3 hora(s) desde Negombo, que recorre Tuk tuk, Negombo y Tuk tuk. Hay 3 paradas en total.\n\nEl orden de la ruta es Tuk tuk (15 min), luego Negombo, luego Tuk tuk (10 min).\n\nEl precio incluye tour privado por la ciudad de Negombo en tuk-tuk, safari opcional en barco por la laguna de Negombo, plato de frutas tropicales frescas de cortesia durante el safari en barco y visita al mercado de pescado de Negombo. No incluye comidas, gastos personales y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 85 $ juntos en lugar de 60 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de 3 hora(s) desde Negombo que visita Tuk tuk, Negombo y Tuk tuk. Ofrecido por Zeylona Travels."
+  ],
+  "included": [
+   "Tour privado por la ciudad de Negombo en tuk-tuk",
+   "Safari opcional en barco por la laguna de Negombo",
+   "Plato de frutas tropicales frescas de cortesia durante el safari en barco",
+   "Visita al mercado de pescado de Negombo"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "from-mirissa-sacred-lake-monasteries-artisans": {
+  "title": "Desde Mirissa: lago sagrado, monasterios, artesanos, y Galle",
+  "metaTitle": "Desde Mirissa: lago sagrado, monasterios, artesanos, y Galle",
+  "metaDescription": "Una excursion de un dia completo desde Mirissa que visita Galle Region. Ofrecido por Sritrailsjourney.",
+  "shortDescription": "Una excursion de un dia completo desde Mirissa que visita Galle Region. Ofrecido por Sritrailsjourney.",
+  "fullDescription": "Una excursion de un dia completo desde Mirissa, que recorre Galle Region.\n\nEl precio incluye recogida y regreso al hotel desde Mirissa, transporte en auto privado con aire acondicionado, guia turistico local que habla ingles y viaje en barco privado por el lago Koggala. No incluye entradas a todos los sitios, atracciones, templos, y museos de pago, excepto la tarifa incluida del barco en el lago Koggala, entrada al museo del fuerte de Galle, comidas, comida, y bebidas adicionales, actividades opcionales y experiencias de pago y compras personales en lugares de especias, gemas, joyeria, talla en madera, o artesania, por lo que debe presupuestar eso por separado. Dos viajeros pagan 246 $ juntos en lugar de 246 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de un dia completo desde Mirissa que visita Galle Region. Ofrecido por Sritrailsjourney."
+  ],
+  "included": [
+   "Recogida y regreso al hotel desde Mirissa",
+   "Transporte en auto privado con aire acondicionado",
+   "Guia turistico local que habla ingles",
+   "Viaje en barco privado por el lago Koggala"
+  ],
+  "notIncluded": [
+   "Entradas a todos los sitios, atracciones, templos, y museos de pago, excepto la tarifa incluida del barco en el lago Koggala",
+   "Entrada al museo del fuerte de Galle",
+   "Comidas, comida, y bebidas adicionales",
+   "Actividades opcionales y experiencias de pago",
+   "Compras personales en lugares de especias, gemas, joyeria, talla en madera, o artesania"
+  ]
+ },
+ "ella-private-yala-safari-south-coast-hotel": {
+  "title": "Ella: safari privado en Yala y traslado al hotel de la costa sur",
+  "metaTitle": "Ella: safari privado en Yala y traslado al hotel de la costa sur",
+  "metaDescription": "Una excursion de un dia completo desde Ella que visita Yala National Park. Ofrecido por Taxi service yala.",
+  "shortDescription": "Una excursion de un dia completo desde Ella que visita Yala National Park. Ofrecido por Taxi service yala.",
+  "fullDescription": "Una excursion de un dia completo desde Ella, que recorre Yala National Park. La parada mas larga es Yala National Park, con una duracion de unos 5 horas.\n\nEl precio incluye recogida en hoteles y alojamientos de la zona de Ella, auto o furgoneta privada con aire acondicionado para el traslado por carretera, jeep de safari 4x4 privado dentro del parque nacional de Yala y conductor de jeep de safari experimentado. No incluye entradas al parque nacional de Yala y cargos gubernamentales del parque, comida y bebidas y alojamiento de huespedes, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de un dia completo desde Ella que visita Yala National Park. Ofrecido por Taxi service yala."
+  ],
+  "included": [
+   "Recogida en hoteles y alojamientos de la zona de Ella",
+   "Auto o furgoneta privada con aire acondicionado para el traslado por carretera",
+   "Jeep de safari 4x4 privado dentro del parque nacional de Yala",
+   "Conductor de jeep de safari experimentado"
+  ],
+  "notIncluded": [
+   "Entradas al parque nacional de Yala y cargos gubernamentales del parque",
+   "Comida y bebidas",
+   "Alojamiento de huespedes"
+  ]
+ },
+ "tea-field-cycling-and-local-food-tour": {
+  "title": "Ciclismo por campos de te y tour gastronomico local",
+  "metaTitle": "Ciclismo por campos de te y tour gastronomico local",
+  "metaDescription": "Experiencia de medio dia en Nuwara Eliya. . Ofrecido por ROLLTRIPS.",
+  "shortDescription": "Experiencia de medio dia en Nuwara Eliya. . Ofrecido por ROLLTRIPS.",
+  "fullDescription": "Una experiencia de medio dia en Nuwara Eliya. Cycle through the scenic tea country of Nuwara Eliya with a local guide.\n\nROLLTRIPS la organiza, y 7 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye bicicleta, casco, guia local y recogida y regreso al hotel dentro de la zona designada de Nuwara Eliya. No incluye gastos personales, propinas y cualquier tarifa de entrada no listada especificamente, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de medio dia en Nuwara Eliya. . Ofrecido por ROLLTRIPS."
+  ],
+  "included": [
+   "Bicicleta",
+   "Casco",
+   "Guia local",
+   "Recogida y regreso al hotel dentro de la zona designada de Nuwara Eliya"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas",
+   "Cualquier tarifa de entrada no listada especificamente"
+  ]
+ },
+ "ella-make-your-own-ceylon-tea-hand-picking-rolling": {
+  "title": "Ella: haga su propio te de Ceilan, recoleccion y enrollado a mano",
+  "metaTitle": "Ella: haga su propio te de Ceilan, recoleccion y enrollado a mano",
+  "metaDescription": "Una excursion de 2 hora(s) desde Ella que visita V24Q+C77 y V24Q+C77. Ofrecido por Ceylon Tea & Tales.",
+  "shortDescription": "Una excursion de 2 hora(s) desde Ella que visita V24Q+C77 y V24Q+C77. Ofrecido por Ceylon Tea & Tales.",
+  "fullDescription": "Una excursion de 2 hora(s) desde Ella, que recorre V24Q+C77 y V24Q+C77. Hay 2 paradas en total.\n\nEl orden de la ruta es V24Q+C77, luego V24Q+C77.\n\nEl precio incluye anfitrion local que habla ingles, recoleccion de te guiada en la selva, experiencia de enrollado manual de te en una cabana de madera y te de Ceilan y bocadillos de aldea local. No incluye recogida y regreso al hotel, transporte hasta el lugar y gastos personales, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de 2 hora(s) desde Ella que visita V24Q+C77 y V24Q+C77. Ofrecido por Ceylon Tea & Tales."
+  ],
+  "included": [
+   "Anfitrion local que habla ingles",
+   "Recoleccion de te guiada en la selva",
+   "Experiencia de enrollado manual de te en una cabana de madera",
+   "Te de Ceilan y bocadillos de aldea local"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel.",
+   "Transporte hasta el lugar",
+   "Gastos personales"
+  ]
+ },
+ "nelligala-international-buddhist-center-morning": {
+  "title": "Centro budista internacional Nelligala: tour matutino al templo",
+  "metaTitle": "Centro budista internacional Nelligala: tour matutino al templo",
+  "metaDescription": "Una excursion de 3 hora(s) desde Kandy que visita Tuk tuk. Ofrecido por With Local Traveler.",
+  "shortDescription": "Una excursion de 3 hora(s) desde Kandy que visita Tuk tuk. Ofrecido por With Local Traveler.",
+  "fullDescription": "Una excursion de 3 hora(s) desde Kandy, que recorre Tuk tuk.\n\nWith Local Traveler la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye botellas de agua de cortesia, organizacion de un taxi para el siguiente destino a precio razonable*, servicio de recogida y regreso al hotel disponible y guia que habla ingles con fluidez. No incluye no incluye tarifas de entrada a atracciones, no incluye tarifas de entrada a atracciones, pero le guiare para obtener las entradas, comida y bebidas y gastos personales y propinas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de 3 hora(s) desde Kandy que visita Tuk tuk. Ofrecido por With Local Traveler."
+  ],
+  "included": [
+   "Botellas de agua de cortesia",
+   "Organizacion de un taxi para el siguiente destino a precio razonable*",
+   "Servicio de recogida y regreso al hotel disponible",
+   "Guia que habla ingles con fluidez"
+  ],
+  "notIncluded": [
+   "No incluye tarifas de entrada a atracciones",
+   "No incluye tarifas de entrada a atracciones, pero le guiare para obtener las entradas",
+   "Comida y bebidas",
+   "Gastos personales y propinas"
+  ]
+ },
+ "ella-tuk-tuk-tour-with-waterfalls-peak-temple": {
+  "title": "Ella: tour en tuk-tuk con cascadas, pico, y visita al templo",
+  "metaTitle": "Ella: tour en tuk-tuk con cascadas, pico, y visita al templo",
+  "metaDescription": "Una excursion de un dia completo desde Ella que visita Tuk tuk, Nine Arch Bridge, Tuk tuk y Little Adam's Peak. Ofrecido por Chana Tuk Tuk Tours Ella.",
+  "shortDescription": "Una excursion de un dia completo desde Ella que visita Tuk tuk, Nine Arch Bridge, Tuk tuk y Little Adam's Peak. Ofrecido por Chana Tuk Tuk Tours Ella.",
+  "fullDescription": "Una excursion de un dia completo desde Ella, que recorre Tuk tuk, Nine Arch Bridge, Tuk tuk y Little Adam's Peak. La parada mas larga es Pallewela Waterfall, con una duracion de unos 2 horas. Hay 10 paradas en total.\n\nEl orden de la ruta es Tuk tuk (20 min), luego Nine Arch Bridge (50 min), luego Tuk tuk (25 min), luego Little Adam's Peak, luego Ella Mountain Range View Point (15 min).\n\nEl precio incluye paseo en tuk-tuk, tour guiado a pie, caminata hasta Little Adam's Peak y visita al puente de los Nueve Arcos. No incluye comida y bebidas y gastos personales, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de un dia completo desde Ella que visita Tuk tuk, Nine Arch Bridge, Tuk tuk y Little Adam's Peak. Ofrecido por Chana Tuk Tuk Tours Ella."
+  ],
+  "included": [
+   "Paseo en tuk-tuk",
+   "Tour guiado a pie",
+   "Caminata hasta Little Adam's Peak",
+   "Visita al puente de los Nueve Arcos"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Gastos personales"
+  ]
+ },
  "bentota-river-safari-temple-turtle-hatchery-brief": {
   "title": "Bentota: safari fluvial, templo, criadero de tortugas, y Brief Garden",
   "metaTitle": "Bentota: safari fluvial, templo, criadero de tortugas, y Brief...",
@@ -55338,7 +55833,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de un dia completo en Bentota. . Ofrecido por Serendib Tours."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte privado con aire acondicionado",
    "Safari en barco por el rio Bentota",
    "Conductor/guia que habla ingles"
@@ -55359,7 +55854,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de medio dia desde Sigiriya que visita Jeep / SUV y Sigiriya. Ofrecido por Minneriya Wilderness Co."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Jeep de safari privado",
    "Tarifa de entrada.",
    "Botella de agua"
@@ -55578,7 +56073,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de un dia completo en Colombo. . Ofrecido por Sri Lanka car and private driver hire."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado"
   ],
   "notIncluded": [
@@ -55596,7 +56091,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de un dia completo en Colombo. . Ofrecido por Ceylon Vacation."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado (auto/furgoneta/bus)",
    "Conductor que habla ingles",
    "Agua embotellada"
@@ -55700,7 +56195,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "included": [
    "Guia experto",
-   "Recogida y regreso al hotel"
+   "Recogida y regreso al hotel."
   ],
   "notIncluded": [
    "Comidas y bebidas",
@@ -55718,7 +56213,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Disfrute de impresionantes vistas desde la fortaleza rocosa de Sigiriya"
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado (auto/furgoneta/bus)",
    "Conductor que habla ingles",
    "Agua embotellada"
@@ -55741,7 +56236,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "included": [
    "Agua embotellada",
    "Conductor que habla ingles",
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte con aire acondicionado"
   ],
   "notIncluded": [
@@ -55816,7 +56311,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de un dia completo desde Galle que visita Kurunegala, Dambulla Royal Cave Temple and Golden Temple, Sigiriya Fortress y Local restaurant. Ofrecido por Apple Vacations Sri Lanka and Maldives."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado (auto/furgoneta/bus)",
    "Conductor que habla ingles",
    "Agua embotellada"
@@ -55881,7 +56376,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una excursion de un dia completo desde Kandy que visita Train, Little Adam's Peak, Nine Arch Bridge y Uva Halpewatte Tea Factory Tour. Ofrecido por Apple Vacations Sri Lanka and Maldives."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte en vehiculo con aire acondicionado",
    "Conductor que habla ingles",
    "Agua embotellada"
@@ -55902,7 +56397,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de 3 hora(s) en Colombo. . Ofrecido por Leisure Sri Lanka."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Vehiculo con aire acondicionado",
    "Chofer que habla ingles",
    "Wi-Fi gratis"
@@ -55922,8 +56417,8 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "included": [
    "Transporte privado",
-   "Recogida y regreso al hotel",
-   "Conductor/guia profesional que habla ingles",
+   "Recogida y regreso al hotel.",
+   "Conductor/guia profesional que habla ingles.",
    "Vehiculo con aire acondicionado"
   ],
   "notIncluded": [
@@ -55965,11 +56460,32 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "included": [
    "Transporte privado en tuk-tuk",
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Conductor-guia local",
    "Visita al mercado de pescado de Negombo"
   ],
   "notIncluded": [
+   "Comida y bebidas",
+   "Gastos personales"
+  ]
+ },
+ "nuwara-eliya-tea-plantation-and-waterfalls": {
+  "title": "Nuwara Eliya: plantacion de te y cascadas, excursion privada de un dia",
+  "metaTitle": "Nuwara Eliya: plantacion de te y cascadas, excursion privada d...",
+  "metaDescription": "Una excursion de un dia completo desde Nuwara Eliya que visita Pedro Tea Factory, Ramboda Falls, Srilanka, Lake Gregory y Hakgala Botanical Gardens. Ofrecido por ...",
+  "shortDescription": "Una excursion de un dia completo desde Nuwara Eliya que visita Pedro Tea Factory, Ramboda Falls, Srilanka, Lake Gregory y Hakgala Botanical Gardens. Ofrecido por Travel with Vasi.",
+  "fullDescription": "Una excursion de un dia completo desde Nuwara Eliya, que recorre Pedro Tea Factory, Ramboda Falls, Srilanka, Lake Gregory y Hakgala Botanical Gardens. La parada mas larga es Ramboda Falls, Srilanka, con una duracion de unos 1 hora. Hay 4 paradas en total.\n\nEl orden de la ruta es Pedro Tea Factory (45 min), luego Ramboda Falls, Srilanka (1h), luego Lake Gregory (1h), luego Hakgala Botanical Gardens (25 min).\n\nEl precio incluye vehiculo privado con aire acondicionado, conductor que habla ingles, recogida y regreso al hotel y agua potable embotellada. No incluye entradas, comida y bebidas y gastos personales, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de un dia completo desde Nuwara Eliya que visita Pedro Tea Factory, Ramboda Falls, Srilanka, Lake Gregory y Hakgala Botanical Gardens. Ofrecido por Travel with Vasi."
+  ],
+  "included": [
+   "Vehiculo privado con aire acondicionado",
+   "Conductor que habla ingles",
+   "Recogida y regreso al hotel.",
+   "Agua potable embotellada"
+  ],
+  "notIncluded": [
+   "Entradas",
    "Comida y bebidas",
    "Gastos personales"
   ]
@@ -55984,7 +56500,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de un dia completo en Kandy. . Ofrecido por Kandy Explore Tours."
   ],
   "included": [
-   "Recogida y regreso al hotel",
+   "Recogida y regreso al hotel.",
    "Transporte privado",
    "Guia local experimentado.",
    "Visita al templo de la cueva de Dambulla"
@@ -55992,6 +56508,27 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas",
    "Tarifas de entrada"
+  ]
+ },
+ "sri-lanka-private-car-driver": {
+  "title": "Sri Lanka: auto privado y conductor",
+  "metaTitle": "Sri Lanka: auto privado y conductor",
+  "metaDescription": "Experiencia de 3 hora(s) en Kandy. . Ofrecido por Fabloos Lanka Travels.",
+  "shortDescription": "Experiencia de 3 hora(s) en Kandy. . Ofrecido por Fabloos Lanka Travels.",
+  "fullDescription": "Una experiencia de 3 hora(s) en Kandy. Travel across Sri Lanka comfortably with a private car and driver.\n\nFabloos Lanka Travels la organiza, y 8 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye vehiculo privado con aire acondicionado, conductor profesional que habla ingles, costos de combustible y tarifas de peaje de autopista. No incluye entradas a atracciones, comida y bebidas y alojamiento, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de 3 hora(s) en Kandy. . Ofrecido por Fabloos Lanka Travels."
+  ],
+  "included": [
+   "Vehiculo privado con aire acondicionado",
+   "Conductor profesional que habla ingles",
+   "Costos de combustible",
+   "Tarifas de peaje de autopista"
+  ],
+  "notIncluded": [
+   "Entradas a atracciones",
+   "Comida y bebidas",
+   "Alojamiento"
   ]
  },
  "sigiriya-night-safari-adventurediscover-wildlife": {
