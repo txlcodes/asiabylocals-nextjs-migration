@@ -47506,6 +47506,423 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mittag- und Abendessen"
   ]
  },
+ "kandy-nuwara-eliya-or-ambewala-raiway-station": {
+  "title": "Kandy: Tour mit Absetzen am Bahnhof Nuwara Eliya oder Ambewala",
+  "metaTitle": "Kandy: Tour mit Absetzen am Bahnhof Nuwara Eliya oder Ambewala",
+  "metaDescription": "ganztaegigees Erlebnis in Kandy. . Angeboten von Ranweli Tours.",
+  "shortDescription": "ganztaegigees Erlebnis in Kandy. . Angeboten von Ranweli Tours.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Kandy. Discover Sri Lanka’s traditional crafts at a gem museum and batik factory.\n\nRanweli Tours fuehrt es durch, und 10 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet kostenlose Kandy-Stadtrundfahrt, transfer von Kandy nach Nuwara Eliya oder Nanuoya, besuch des Edelstein- und Gemmologischen Museums und besuch einer Holzschnitzwerkstatt. Nicht enthalten sind mahlzeiten, persoenliche Ausgaben und trinkgelder, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 153 $ statt 153 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "ganztaegigees Erlebnis in Kandy. . Angeboten von Ranweli Tours."
+  ],
+  "included": [
+   "Kostenlose Kandy-Stadtrundfahrt",
+   "Transfer von Kandy nach Nuwara Eliya oder Nanuoya",
+   "Besuch des Edelstein- und Gemmologischen Museums",
+   "Besuch einer Holzschnitzwerkstatt"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persoenliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "kandy-sigiriya-dambulla-and-anuradhapura-day-tour": {
+  "title": "Kandy: Tagestour zu Sigiriya, Dambulla, und Anuradhapura",
+  "metaTitle": "Kandy: Tagestour zu Sigiriya, Dambulla, und Anuradhapura",
+  "metaDescription": "ganztaegigees Erlebnis in Kandy. Entdecken Sie die Geheimnisse srilankischer Gewuerze in einem traditionellen Gewuerzgarten. Angeboten von Inpura Travels.",
+  "shortDescription": "ganztaegigees Erlebnis in Kandy. Entdecken Sie die Geheimnisse srilankischer Gewuerze in einem traditionellen Gewuerzgarten. Angeboten von Inpura Travels.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Kandy. Entdecken Sie die Geheimnisse srilankischer Gewuerze in einem traditionellen Gewuerzgarten.\n\nInpura Travels fuehrt es durch, und 8 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet komfortables klimatisiertes Fahrzeug, englischsprachiger Fahrer-Guide, felsenfestung und antikes Koenigreich. Nicht enthalten sind persoenliche Ausgaben und jegliche Einkaeufe waehrend der Tour, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 423 $ statt 423 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Entdecken Sie die Geheimnisse srilankischer Gewuerze in einem traditionellen Gewuerzgarten"
+  ],
+  "included": [
+   "Komfortables klimatisiertes Fahrzeug",
+   "Englischsprachiger Fahrer-Guide",
+   "Felsenfestung",
+   "Antikes Koenigreich"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben und jegliche Einkaeufe waehrend der Tour"
+  ]
+ },
+ "negombo-sunset-lagoon-safari-with-fishermen": {
+  "title": "Negombo: Sonnenuntergangs-Lagunensafari mit Fischern und Wildtieren",
+  "metaTitle": "Negombo: Sonnenuntergangs-Lagunensafari mit Fischern und Wildt...",
+  "metaDescription": "Ein 2-stuendigeer Ausflug ab Negombo, der Tuk tuk und Negombo Lagoon besucht. Angeboten von Traveli Ceylon.",
+  "shortDescription": "Ein 2-stuendigeer Ausflug ab Negombo, der Tuk tuk und Negombo Lagoon besucht. Angeboten von Traveli Ceylon.",
+  "fullDescription": "Ein 2-stuendigeer Ausflug ab Negombo, der Tuk tuk und Negombo Lagoon umfasst. Der laengste Halt ist Negombo Lagoon, mit etwa 2 Stunden. Es gibt insgesamt 2 Stopps.\n\nDie Reihenfolge ist Tuk tuk (10 min), dann Negombo Lagoon (2h).\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt in Negombo, bootssafari; Affeninsel, Jesus-Insel (Issan Duwa) und frisches srilankisches Obst, serviert mitten in der Lagune. Nicht enthalten sind wasserschuhe, wasserdichte Taschen und trinkwasser, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 176 $ statt 97 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein 2-stuendigeer Ausflug ab Negombo, der Tuk tuk und Negombo Lagoon besucht. Angeboten von Traveli Ceylon."
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt in Negombo",
+   "Bootssafari; Affeninsel, Jesus-Insel (Issan Duwa)",
+   "Frisches srilankisches Obst, serviert mitten in der Lagune"
+  ],
+  "notIncluded": [
+   "Wasserschuhe",
+   "Wasserdichte Taschen",
+   "Trinkwasser"
+  ]
+ },
+ "negombocolombo-to-elephant-orphanage-tea-kandy": {
+  "title": "Ab Negombo/Colombo: Elefantenwaisenhaus, Tee, und Kandy-Tagestour",
+  "metaTitle": "Ab Negombo/Colombo: Elefantenwaisenhaus, Tee, und Kandy-Tagestour",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Colombo, der New Giragama Tea factory & Restaurant, Temple of the Sacred Tooth Relic und Royal Botanic Gardens, Kandy besucht. Angebo...",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Colombo, der New Giragama Tea factory & Restaurant, Temple of the Sacred Tooth Relic und Royal Botanic Gardens, Kandy besucht. Angeboten von Ethereal Ceylon.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Colombo, der New Giragama Tea factory & Restaurant, Temple of the Sacred Tooth Relic und Royal Botanic Gardens, Kandy umfasst. Der laengste Halt ist Temple of the Sacred Tooth Relic, mit etwa 1 Stunde. Es gibt insgesamt 3 Stopps.\n\nDie Reihenfolge ist New Giragama Tea factory & Restaurant (45 min), dann Temple of the Sacred Tooth Relic (1h), dann Royal Botanic Gardens, Kandy (1h).\n\nDer Preis beinhaltet hotel- oder Flughafenabholung und Rueckfahrt, lizenzierter Reiseleiter, eintritt zum Zahnreliquien-Tempel in Kandy und koeniglicher Botanischer Garten Peradeniya (optional). Nicht enthalten sind mittagessen und elefantenwaisenhaus Pinnawala, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Colombo, der New Giragama Tea factory & Restaurant, Temple of the Sacred Tooth Relic und Royal Botanic Gardens, Kandy besucht. Angeboten von Ethereal Ceylon."
+  ],
+  "included": [
+   "Hotel- oder Flughafenabholung und Rueckfahrt",
+   "Lizenzierter Reiseleiter",
+   "Eintritt zum Zahnreliquien-Tempel in Kandy",
+   "Koeniglicher Botanischer Garten Peradeniya (optional)"
+  ],
+  "notIncluded": [
+   "Mittagessen",
+   "Elefantenwaisenhaus Pinnawala"
+  ]
+ },
+ "ella-cinnamon-spice-garden-waterfall-tour": {
+  "title": "Ella: Zimt-, Gewuerzgarten-, und Wasserfall-Tour",
+  "metaTitle": "Ella: Zimt-, Gewuerzgarten-, und Wasserfall-Tour",
+  "metaDescription": "halbtaegigees Erlebnis in Ella. Erleben Sie die traditionelle Zimtherstellung und geniessen Sie verschiedene Arten von Zimttee. Angeboten von Ranjani.",
+  "shortDescription": "halbtaegigees Erlebnis in Ella. Erleben Sie die traditionelle Zimtherstellung und geniessen Sie verschiedene Arten von Zimttee. Angeboten von Ranjani.",
+  "fullDescription": "Ein halbtaegigees Erlebnis in Ella. Erleben Sie die traditionelle Zimtherstellung und geniessen Sie verschiedene Arten von Zimttee.\n\nRanjani fuehrt es durch, und 5 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet jeepfahrt zu und von allen Aktivitaeten ab dem Busbahnhof Ella, zimtgarten, gewuerzgarten und eintrittsgebuehr Wasserfall. Nicht enthalten sind mittagessen, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Erleben Sie die traditionelle Zimtherstellung und geniessen Sie verschiedene Arten von Zimttee"
+  ],
+  "included": [
+   "Jeepfahrt zu und von allen Aktivitaeten ab dem Busbahnhof Ella",
+   "Zimtgarten",
+   "Gewuerzgarten",
+   "Eintrittsgebuehr Wasserfall"
+  ],
+  "notIncluded": [
+   "Mittagessen"
+  ]
+ },
+ "negombo-private-tour-market-temples-canal": {
+  "title": "Negombo: private Tour, Markt, Tempel, und Kanal",
+  "metaTitle": "Negombo: private Tour, Markt, Tempel, und Kanal",
+  "metaDescription": "Ein 3-stuendigeer Ausflug ab Negombo, der St. Sebastian's Church - Sea Street, Sri Singama Kali Amman Kovil, St. Mary's Church und Fish Market, Negombo besucht. A...",
+  "shortDescription": "Ein 3-stuendigeer Ausflug ab Negombo, der St. Sebastian's Church - Sea Street, Sri Singama Kali Amman Kovil, St. Mary's Church und Fish Market, Negombo besucht. Angeboten von Fivemo Tours.",
+  "fullDescription": "Ein 3-stuendigeer Ausflug ab Negombo, der St. Sebastian's Church - Sea Street, Sri Singama Kali Amman Kovil, St. Mary's Church und Fish Market, Negombo umfasst. Es gibt insgesamt 6 Stopps.\n\nDie Reihenfolge ist St. Sebastian's Church - Sea Street (15 min), dann Sri Singama Kali Amman Kovil (20 min), dann St. Mary's Church (30 min), dann Fish Market, Negombo (30 min), dann Dutch Canal (15 min).\n\nDer Preis beinhaltet besuch des Fischmarkts von Negombo und besichtigung der St.-Marien-Kirche. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 62 $ statt 55 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein 3-stuendigeer Ausflug ab Negombo, der St. Sebastian's Church - Sea Street, Sri Singama Kali Amman Kovil, St. Mary's Church und Fish Market, Negombo besucht. Angeboten von Fivemo Tours."
+  ],
+  "included": [
+   "Besuch des Fischmarkts von Negombo",
+   "Besichtigung der St.-Marien-Kirche"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "colombo-3-day-toursigiriyadambullakandyella": {
+  "title": "Colombo: 3-Tages-Tour, Sigiriya/Dambulla/Kandy/Ella mit malerischer Zugfahrt",
+  "metaTitle": "Colombo: 3-Tages-Tour, Sigiriya/Dambulla/Kandy/Ella mit maleri...",
+  "metaDescription": "Ein 3-taegigeer Ausflug ab Colombo, der Sigiriya und Nuwara Eliya District besucht. Angeboten von Serendipity tours (private) Limited.",
+  "shortDescription": "Ein 3-taegigeer Ausflug ab Colombo, der Sigiriya und Nuwara Eliya District besucht. Angeboten von Serendipity tours (private) Limited.",
+  "fullDescription": "Ein 3-taegigeer Ausflug ab Colombo, der Sigiriya und Nuwara Eliya District umfasst. Der laengste Halt ist Sigiriya, mit etwa 8 Stunden. Es gibt insgesamt 2 Stopps.\n\nDie Reihenfolge ist Sigiriya (8h), dann Nuwara Eliya District (8h).\n\nDer Preis beinhaltet 2 Naechte Unterkunft in Standardhotels, 2 Fruehstuecke, hotel- oder Flughafenabholung und Rueckfahrt und besichtigung des Goldenen Tempels von Dambulla. Nicht enthalten sind minneriya-Nationalpark-Safari, 80 USD pro Person, eintrittsgebuehren fuer den Sigiriya-Felsen 35 USD pro Person, Dambulla-Tempel 10 USD pro Person, und Kandy-Tempel 10 USD pro Person, eintrittsgebuehren fuer den Botanischen Garten Peradeniya, 15 USD pro Person und mittagessen und Getraenke, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 1069 $ statt 805 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein 3-taegigeer Ausflug ab Colombo, der Sigiriya und Nuwara Eliya District besucht. Angeboten von Serendipity tours (private) Limited."
+  ],
+  "included": [
+   "2 Naechte Unterkunft in Standardhotels",
+   "2 Fruehstuecke",
+   "Hotel- oder Flughafenabholung und Rueckfahrt",
+   "Besichtigung des Goldenen Tempels von Dambulla"
+  ],
+  "notIncluded": [
+   "Minneriya-Nationalpark-Safari, 80 USD pro Person",
+   "Eintrittsgebuehren fuer den Sigiriya-Felsen 35 USD pro Person, Dambulla-Tempel 10 USD pro Person, und Kandy-Tempel 10 USD pro Person",
+   "Eintrittsgebuehren fuer den Botanischen Garten Peradeniya, 15 USD pro Person",
+   "Mittagessen und Getraenke"
+  ]
+ },
+ "kandy-7-falls-hiking-tour-in-the-knuckles": {
+  "title": "Kandy: Wandertour zu 7 Wasserfaellen im Knuckles-Gebirge",
+  "metaTitle": "Kandy: Wandertour zu 7 Wasserfaellen im Knuckles-Gebirge",
+  "metaDescription": "Ein halbtaegigeer Ausflug ab Kandy, der Thangappuwa, Knuckles Mountain Range und Thangappuwa besucht. Angeboten von Knuckles Wild Trails.",
+  "shortDescription": "Ein halbtaegigeer Ausflug ab Kandy, der Thangappuwa, Knuckles Mountain Range und Thangappuwa besucht. Angeboten von Knuckles Wild Trails.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Kandy, der Thangappuwa, Knuckles Mountain Range und Thangappuwa umfasst. Der laengste Halt ist Thangappuwa, mit etwa 4 Stunden. Es gibt insgesamt 3 Stopps.\n\nDie Reihenfolge ist Thangappuwa (4h), dann Knuckles Mountain Range, dann Thangappuwa.\n\nDer Preis beinhaltet erfahrener lokaler Guide, flaschenwasser und leichte Snacks, erste-Hilfe-Set und Sicherheitsausruestung und gefuehrte Tour durch das Knuckles-Gebirge und alle sieben Wasserfaelle. Nicht enthalten sind jegliche zusaetzlichen Aktivitaeten oder Dienstleistungen, die nicht in der Reiseroute erwaehnt sind und persoenliche Wanderausruestung (z.B. Stiefel, Rucksaecke, Regenjacken), dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein halbtaegigeer Ausflug ab Kandy, der Thangappuwa, Knuckles Mountain Range und Thangappuwa besucht. Angeboten von Knuckles Wild Trails."
+  ],
+  "included": [
+   "Erfahrener lokaler Guide.",
+   "Flaschenwasser und leichte Snacks.",
+   "Erste-Hilfe-Set und Sicherheitsausruestung.",
+   "Gefuehrte Tour durch das Knuckles-Gebirge und alle sieben Wasserfaelle."
+  ],
+  "notIncluded": [
+   "Jegliche zusaetzlichen Aktivitaeten oder Dienstleistungen, die nicht in der Reiseroute erwaehnt sind.",
+   "Persoenliche Wanderausruestung (z.B. Stiefel, Rucksaecke, Regenjacken)."
+  ]
+ },
+ "kandy-4-day-hill-country-wonders-with-yala-safari": {
+  "title": "Kandy: 4-Tage-Bergland-Wunder mit Yala-Safari",
+  "metaTitle": "Kandy: 4-Tage-Bergland-Wunder mit Yala-Safari",
+  "metaDescription": "4-taegigees Erlebnis in Colombo. Erkunden Sie die malerische Stadt Nuwara Eliya, umgeben von Teeplantagen. Angeboten von Serendipity tours (private) Limited.",
+  "shortDescription": "4-taegigees Erlebnis in Colombo. Erkunden Sie die malerische Stadt Nuwara Eliya, umgeben von Teeplantagen. Angeboten von Serendipity tours (private) Limited.",
+  "fullDescription": "Ein 4-taegigees Erlebnis in Colombo. Erkunden Sie die malerische Stadt Nuwara Eliya, umgeben von Teeplantagen.\n\nSerendipity tours (private) Limited fuehrt es durch, und 11 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet 3 Naechte Unterkunft in einem Standard-Touristenhotel, 3x Fruehstueck, tickets fuer die Zugfahrten im Bergland und besuche der Neun-Bogen-Bruecke und des Mini Adam's Peak. Nicht enthalten sind trinkgelder, mittag- und Abendessen und getraenke, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 2333 $ statt 1508 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Erkunden Sie die malerische Stadt Nuwara Eliya, umgeben von Teeplantagen"
+  ],
+  "included": [
+   "3 Naechte Unterkunft in einem Standard-Touristenhotel",
+   "3x Fruehstueck",
+   "Tickets fuer die Zugfahrten im Bergland",
+   "Besuche der Neun-Bogen-Bruecke und des Mini Adam's Peak"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Mittag- und Abendessen",
+   "Getraenke"
+  ]
+ },
+ "ella-private-day-tour-from-kandy-with-scenic": {
+  "title": "Ella: private Tagestour ab Kandy mit malerischer Zugfahrt",
+  "metaTitle": "Ella: private Tagestour ab Kandy mit malerischer Zugfahrt",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Kandy, der Ramboda Falls, Srilanka, Damro Tea Factory, Nanuoya und Ella, Sri Lanka besucht. Angeboten von SIGIRITRIP TOURS (PVT) LTD.",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Kandy, der Ramboda Falls, Srilanka, Damro Tea Factory, Nanuoya und Ella, Sri Lanka besucht. Angeboten von SIGIRITRIP TOURS (PVT) LTD.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Kandy, der Ramboda Falls, Srilanka, Damro Tea Factory, Nanuoya und Ella, Sri Lanka umfasst. Es gibt insgesamt 6 Stopps.\n\nDie Reihenfolge ist Ramboda Falls, Srilanka (30 min), dann Damro Tea Factory (45 min), dann Nanuoya, dann Ella, Sri Lanka, dann Nine Arch Bridge (20 min).\n\nDer Preis beinhaltet abhol- und Rueckfahrservice, gefuehrte Tour durch eine Teefabrik, teepfluecken-Erlebnis und tasse frisch gebruehten Ceylon-Tees. Nicht enthalten sind mahlzeiten und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 609 $ statt 507 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Kandy, der Ramboda Falls, Srilanka, Damro Tea Factory, Nanuoya und Ella, Sri Lanka besucht. Angeboten von SIGIRITRIP TOURS (PVT) LTD."
+  ],
+  "included": [
+   "Abhol- und Rueckfahrservice",
+   "Gefuehrte Tour durch eine Teefabrik",
+   "Teepfluecken-Erlebnis",
+   "Tasse frisch gebruehten Ceylon-Tees"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persoenliche Ausgaben"
+  ]
+ },
+ "sri-lanka10-day-peaks-beaks-tour-entry-adventures": {
+  "title": "Sri Lanka: 10-Tage-Peaks-&-Beaks-Tour, Eintritt und Abenteuer",
+  "metaTitle": "Sri Lanka: 10-Tage-Peaks-&-Beaks-Tour, Eintritt und Abenteuer",
+  "metaDescription": "10-taegigees Erlebnis in Kandy. Erleben Sie den Nervenkitzel des Wildwasser-Raftings und Canyonings in Kitulgala. Angeboten von Z R I Adventures (Private) Limited.",
+  "shortDescription": "10-taegigees Erlebnis in Kandy. Erleben Sie den Nervenkitzel des Wildwasser-Raftings und Canyonings in Kitulgala. Angeboten von Z R I Adventures (Private) Limited.",
+  "fullDescription": "Ein 10-taegigees Erlebnis in Kandy. Erleben Sie den Nervenkitzel des Wildwasser-Raftings und Canyonings in Kitulgala.\n\nZ R I Adventures (Private) Limited fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet begruessung und Hilfe am Flughafen, transport in einem privaten klimatisierten Fahrzeug, service eines englischsprachigen Fahrers und lokale Regierungssteuer. Nicht enthalten sind trinkgelder fuer Guides/Fahrer, eintrittsgebuehr fuer jegliche Besichtigung ausser den in den Einschluessen genannten und jegliche Schwankungen des Dollarbestandteils wirken sich auf die Kosten aus, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 4634 $ statt 3443 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Erleben Sie den Nervenkitzel des Wildwasser-Raftings und Canyonings in Kitulgala"
+  ],
+  "included": [
+   "Begruessung und Hilfe am Flughafen.",
+   "Transport in einem privaten klimatisierten Fahrzeug.",
+   "Service eines englischsprachigen Fahrers",
+   "Lokale Regierungssteuer"
+  ],
+  "notIncluded": [
+   "Trinkgelder fuer Guides/Fahrer.",
+   "Eintrittsgebuehr fuer jegliche Besichtigung ausser den in den Einschluessen genannten.",
+   "Jegliche Schwankungen des Dollarbestandteils wirken sich auf die Kosten aus."
+  ]
+ },
+ "colombo-to-yala-via-sigiriya-kandy-private-4-day": {
+  "title": "Von Colombo nach Yala via Sigiriya, Kandy, private 4-Tages-Tour",
+  "metaTitle": "Von Colombo nach Yala via Sigiriya, Kandy, private 4-Tages-Tour",
+  "metaDescription": "Ein 4-taegigeer Ausflug ab Colombo, der Sigiriya, Nuwara Eliya und Yala, Sri Lanka besucht. Angeboten von Serendipity tours (private) Limited.",
+  "shortDescription": "Ein 4-taegigeer Ausflug ab Colombo, der Sigiriya, Nuwara Eliya und Yala, Sri Lanka besucht. Angeboten von Serendipity tours (private) Limited.",
+  "fullDescription": "Ein 4-taegigeer Ausflug ab Colombo, der Sigiriya, Nuwara Eliya und Yala, Sri Lanka umfasst. Der laengste Halt ist Sigiriya, mit etwa 8 Stunden. Es gibt insgesamt 3 Stopps.\n\nDie Reihenfolge ist Sigiriya (8h), dann Nuwara Eliya (8h), dann Yala, Sri Lanka (8h).\n\nDer Preis beinhaltet 4-Tage-(3-Naechte-)Unterkunft in Standardhotels, 3 Fruehstuecke und 3 Abendessen, klimatisiertes Fahrzeug und gST/MwSt./Servicegebuehren. Nicht enthalten sind mittagessen, eintrittsgebuehren fuer den Sigiriya-Felsen, den Dambulla-Tempel, Polonnaruwa, den Zahntempel, Nationalparks, und Botanische Gaerten, jegliche persoenlichen Ausgaben wie Waschereikosten, Trinkgelder, usw, fruehes Check-in und spaetes Check-out, 4x4-Jeep fuer Safaris und alles, was in den obigen Einschluessen nicht erwaehnt ist, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 1690 $ statt 936 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein 4-taegigeer Ausflug ab Colombo, der Sigiriya, Nuwara Eliya und Yala, Sri Lanka besucht. Angeboten von Serendipity tours (private) Limited."
+  ],
+  "included": [
+   "4-Tage-(3-Naechte-)Unterkunft in Standardhotels",
+   "3 Fruehstuecke und 3 Abendessen",
+   "Klimatisiertes Fahrzeug",
+   "GST/MwSt./Servicegebuehren"
+  ],
+  "notIncluded": [
+   "Mittagessen",
+   "Eintrittsgebuehren fuer den Sigiriya-Felsen, den Dambulla-Tempel, Polonnaruwa, den Zahntempel, Nationalparks, und Botanische Gaerten",
+   "Jegliche persoenlichen Ausgaben wie Waschereikosten, Trinkgelder, usw.",
+   "Fruehes Check-in und spaetes Check-out",
+   "4x4-Jeep fuer Safaris",
+   "Alles, was in den obigen Einschluessen nicht erwaehnt ist"
+  ]
+ },
+ "galle-sri-lankan-cuisine-cooking-experience": {
+  "title": "Galle: srilankisches Kocherlebnis",
+  "metaTitle": "Galle: srilankisches Kocherlebnis",
+  "metaDescription": "3-stuendigees Erlebnis in Galle. Lernen Sie, traditionelle srilankische Gerichte in einer Familienkueche zuzubereiten. Angeboten von Galle Gedara.",
+  "shortDescription": "3-stuendigees Erlebnis in Galle. Lernen Sie, traditionelle srilankische Gerichte in einer Familienkueche zuzubereiten. Angeboten von Galle Gedara.",
+  "fullDescription": "Ein 3-stuendigees Erlebnis in Galle. Lernen Sie, traditionelle srilankische Gerichte in einer Familienkueche zuzubereiten.\n\nGalle Gedara fuehrt es durch, und 5 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet traditioneller srilankischer Kochkurs, praktisches Erlebnis mit einem lokalen Gastgeber, alle Zutaten zum Kochen und mahlzeit mit der Gastfamilie geteilt. Nicht enthalten sind transport zu und von Galle House, trinkgelder (optional) und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Lernen Sie, traditionelle srilankische Gerichte in einer Familienkueche zuzubereiten"
+  ],
+  "included": [
+   "Traditioneller srilankischer Kochkurs",
+   "Praktisches Erlebnis mit einem lokalen Gastgeber",
+   "Alle Zutaten zum Kochen",
+   "Mahlzeit mit der Gastfamilie geteilt"
+  ],
+  "notIncluded": [
+   "Transport zu und von Galle House",
+   "Trinkgelder (optional)",
+   "Persoenliche Ausgaben"
+  ]
+ },
+ "sri-lanka-10-day-private-tour-with-4-half": {
+  "title": "Sri Lanka: 10-Tage-private Tour mit 4-Sterne-Halbpensionshotels",
+  "metaTitle": "Sri Lanka: 10-Tage-private Tour mit 4-Sterne-Halbpensionshotels",
+  "metaDescription": "10-taegigees Erlebnis in Kandy. . Angeboten von Ceylon Paradise Travels.",
+  "shortDescription": "10-taegigees Erlebnis in Kandy. . Angeboten von Ceylon Paradise Travels.",
+  "fullDescription": "Ein 10-taegigees Erlebnis in Kandy. Explore Sri Lanka’s top attractions in 10 days.\n\nCeylon Paradise Travels fuehrt es durch, und 10 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet 4-Sterne-Hotelunterkunft, 9x Abendessen (Hotelbuffet), 9x Fruehstueck (Hotelbuffet) und klimatisiertes Fahrzeug. Nicht enthalten sind mittagessen, flugtickets und eintrittskarten fuer Attraktionen (falls zutreffend), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 4037 $ statt 2868 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "10-taegigees Erlebnis in Kandy. . Angeboten von Ceylon Paradise Travels."
+  ],
+  "included": [
+   "4-Sterne-Hotelunterkunft",
+   "9x Abendessen (Hotelbuffet)",
+   "9x Fruehstueck (Hotelbuffet)",
+   "Klimatisiertes Fahrzeug"
+  ],
+  "notIncluded": [
+   "Mittagessen",
+   "Flugtickets",
+   "Eintrittskarten fuer Attraktionen (falls zutreffend)"
+  ]
+ },
+ "hiriketiyatangalla-private-yala-safari-transfer": {
+  "title": "Hiriketiya/Tangalla: private Yala-Safari und Transfer nach Ella",
+  "metaTitle": "Hiriketiya/Tangalla: private Yala-Safari und Transfer nach Ella",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Galle, der Yala National Park und Finish at: besucht. Angeboten von Yala Dreams wild Safari Tours Sri Lanka.",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Galle, der Yala National Park und Finish at: besucht. Angeboten von Yala Dreams wild Safari Tours Sri Lanka.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Galle, der Yala National Park und Finish at: umfasst. Der laengste Halt ist Yala National Park, mit etwa 5 Stunden. Es gibt insgesamt 2 Stopps.\n\nDie Reihenfolge ist Yala National Park (5h), dann Finish at:.\n\nDer Preis beinhaltet komfortabler, klimatisierter PRIVATER Auto-/Van-Transport (NUR IHRE FAMILIE IM FAHRZEUG), hotelabholung und Rueckfahrt enthalten, wasser inklusive, mautgebuehren enthalten und experte Fahrweise mit Guiding-Service inklusive. Nicht enthalten sind das Eintrittsticket fuer den Nationalpark ist nicht enthalten. Sie koennen Ihr Ticket am Eingangsschalter des Parks kaufen. Die Kosten betragen etwa 40 USD (13.000 LKR) pro Person, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Galle, der Yala National Park und Finish at: besucht. Angeboten von Yala Dreams wild Safari Tours Sri Lanka."
+  ],
+  "included": [
+   "Komfortabler, klimatisierter PRIVATER Auto-/Van-Transport (NUR IHRE FAMILIE IM FAHRZEUG)",
+   "Hotelabholung und Rueckfahrt enthalten",
+   "Wasser inklusive",
+   "Mautgebuehren enthalten",
+   "Experte Fahrweise mit Guiding-Service inklusive"
+  ],
+  "notIncluded": [
+   "Das Eintrittsticket fuer den Nationalpark ist nicht enthalten. Sie koennen Ihr Ticket am Eingangsschalter des Parks kaufen. Die Kosten betragen etwa 40 USD (13.000 LKR) pro Person."
+  ]
+ },
+ "colombo-tea-plantation-and-rubber-estate-tour": {
+  "title": "Colombo: Tee- und Kautschukplantagen-Tour mit Mittagessen",
+  "metaTitle": "Colombo: Tee- und Kautschukplantagen-Tour mit Mittagessen",
+  "metaDescription": "ganztaegigees Erlebnis in Colombo. Erleben Sie die Herzlichkeit der lokalen Kultur und erfahren Sie mehr ueber die Geschichte der Region. Angeboten von Isle Route...",
+  "shortDescription": "ganztaegigees Erlebnis in Colombo. Erleben Sie die Herzlichkeit der lokalen Kultur und erfahren Sie mehr ueber die Geschichte der Region. Angeboten von Isle Routes Sri Lanka.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Colombo. Erleben Sie die Herzlichkeit der lokalen Kultur und erfahren Sie mehr ueber die Geschichte der Region.\n\nIsle Routes Sri Lanka fuehrt es durch, und 7 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet gefuehrte Teeplantagen-Tour, gummiherstellungsprozess, wandern in den Bergen und wasserfall-Erkundung. Nicht enthalten sind transport zur und von der Plantage und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Erleben Sie die Herzlichkeit der lokalen Kultur und erfahren Sie mehr ueber die Geschichte der Region"
+  ],
+  "included": [
+   "Gefuehrte Teeplantagen-Tour",
+   "Gummiherstellungsprozess",
+   "Wandern in den Bergen",
+   "Wasserfall-Erkundung"
+  ],
+  "notIncluded": [
+   "Transport zur und von der Plantage",
+   "Persoenliche Ausgaben"
+  ]
+ },
+ "from-colombo-10-day-sri-lanka-tour-with-guide": {
+  "title": "Ab Colombo: 10-Tages-Sri-Lanka-Tour mit Guide und Hotel",
+  "metaTitle": "Ab Colombo: 10-Tages-Sri-Lanka-Tour mit Guide und Hotel",
+  "metaDescription": "10-taegigees Erlebnis in Colombo. Wildtiersafari im Yala-Nationalpark und Minneriya-Nationalpark. Angeboten von TRAVEL WITH ARCHELLOLK (PVT) LTD.",
+  "shortDescription": "10-taegigees Erlebnis in Colombo. Wildtiersafari im Yala-Nationalpark und Minneriya-Nationalpark. Angeboten von TRAVEL WITH ARCHELLOLK (PVT) LTD.",
+  "fullDescription": "Ein 10-taegigees Erlebnis in Colombo. Wildtiersafari im Yala-Nationalpark und Minneriya-Nationalpark.\n\nTRAVEL WITH ARCHELLOLK (PVT) LTD fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet 10-Tage-(9-Naechte-)Unterkunft in Standard-Touristenhotels, 9 Fruehstuecke, 8 Abendessen und eintrittskarten. Nicht enthalten sind mittagessen, weitere Ausschluesse (Flugtickets/Visagebuehren), jegliche persoenlichen Ausgaben wie Waschereikosten, Trinkgelder, usw und fruehes Check-in und spaetes Check-out, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 4054 $ statt 3549 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Wildtiersafari im Yala-Nationalpark und Minneriya-Nationalpark"
+  ],
+  "included": [
+   "10-Tage-(9-Naechte-)Unterkunft in Standard-Touristenhotels",
+   "9 Fruehstuecke",
+   "8 Abendessen",
+   "Eintrittskarten"
+  ],
+  "notIncluded": [
+   "Mittagessen",
+   "Weitere Ausschluesse (Flugtickets/Visagebuehren)",
+   "Jegliche persoenlichen Ausgaben wie Waschereikosten, Trinkgelder, usw.",
+   "Fruehes Check-in und spaetes Check-out"
+  ]
+ },
+ "wake-boarding-in-mirissa": {
+  "title": "Wakeboarding in Mirissa",
+  "metaTitle": "Wakeboarding in Mirissa",
+  "metaDescription": "0,25-stuendigees Erlebnis in Mirissa. Wakeboarding. Angeboten von Z R I Adventures (Private) Limited.",
+  "shortDescription": "0,25-stuendigees Erlebnis in Mirissa. Wakeboarding. Angeboten von Z R I Adventures (Private) Limited.",
+  "fullDescription": "Ein 0,25-stuendigees Erlebnis in Mirissa. Wakeboarding.\n\nZ R I Adventures (Private) Limited fuehrt es durch, und 3 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet wakeboard, sicherheitsausruestung und briefing. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Wakeboarding"
+  ],
+  "included": [
+   "Wakeboard",
+   "Sicherheitsausruestung",
+   "Briefing"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "donut-tube-ride-in-mirissa": {
+  "title": "Donut-Schlauchboot-Fahrt in Mirissa",
+  "metaTitle": "Donut-Schlauchboot-Fahrt in Mirissa",
+  "metaDescription": "0,25-stuendigees Erlebnis in Mirissa. . Angeboten von Z R I Adventures (Private) Limited.",
+  "shortDescription": "0,25-stuendigees Erlebnis in Mirissa. . Angeboten von Z R I Adventures (Private) Limited.",
+  "fullDescription": "Ein 0,25-stuendigees Erlebnis in Mirissa. Donut.\n\nZ R I Adventures (Private) Limited fuehrt es durch, und 2 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet sicherheitsausruestung und briefing. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "0,25-stuendigees Erlebnis in Mirissa. . Angeboten von Z R I Adventures (Private) Limited."
+  ],
+  "included": [
+   "Sicherheitsausruestung",
+   "Briefing"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "mirissa-paddle-boarding-experience": {
+  "title": "Mirissa: Stand-Up-Paddleboarding-Erlebnis",
+  "metaTitle": "Mirissa: Stand-Up-Paddleboarding-Erlebnis",
+  "metaDescription": "1-stuendigees Erlebnis in Mirissa. . Angeboten von Z R I Adventures (Private) Limited.",
+  "shortDescription": "1-stuendigees Erlebnis in Mirissa. . Angeboten von Z R I Adventures (Private) Limited.",
+  "fullDescription": "Ein 1-stuendigees Erlebnis in Mirissa. Paddle Boarding.\n\nZ R I Adventures (Private) Limited fuehrt es durch, und 2 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet sicherheitsausruestung und briefing. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "1-stuendigees Erlebnis in Mirissa. . Angeboten von Z R I Adventures (Private) Limited."
+  ],
+  "included": [
+   "Sicherheitsausruestung",
+   "Briefing"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "mirissa-canoeing-experience": {
+  "title": "Mirissa: Kanu-Erlebnis",
+  "metaTitle": "Mirissa: Kanu-Erlebnis",
+  "metaDescription": "1-stuendigees Erlebnis in Mirissa. . Angeboten von Z R I Adventures (Private) Limited.",
+  "shortDescription": "1-stuendigees Erlebnis in Mirissa. . Angeboten von Z R I Adventures (Private) Limited.",
+  "fullDescription": "Ein 1-stuendigees Erlebnis in Mirissa. Canoeing.\n\nZ R I Adventures (Private) Limited fuehrt es durch, und 2 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet sicherheitsausruestung und briefing. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "1-stuendigees Erlebnis in Mirissa. . Angeboten von Z R I Adventures (Private) Limited."
+  ],
+  "included": [
+   "Sicherheitsausruestung",
+   "Briefing"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Flyboard-Erlebnis in Pattaya",
   "fullDescription": "Dies ist ein 30-minütiges Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Flyboard-Erlebnis, Betreuung durch einen Instructor, Sicherheitsausrüstung und Duschen. Nicht enthalten sind Fotos und Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
