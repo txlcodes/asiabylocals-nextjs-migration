@@ -86859,6 +86859,387 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintritt zum Louvre Abu Dhabi"
   ]
  },
+ "la-perle-by-dragone-show-tickets-dubai": {
+  "title": "Dubai: Tickets fuer die Show La Perle by Dragone",
+  "metaTitle": "Dubai: Show La Perle by Dragone",
+  "metaDescription": "Franco Dragones residente Wassershow in Al Habtoor City: eine Buehne, die mit 2,7 Millionen Litern Wasser flutet, mit Tauchgang und Akrobatik.",
+  "shortDescription": "Franco Dragone baute die Shows, die Cirque du Soleil beruehmt machten, und verbrachte dann eine Karriere damit, Wasser auf der Buehne Dinge tun zu lassen. La Perle ist seine residente Dubai-Produktion, in einem eigens errichteten Wassertheater in Al Habtoor City, und das Gebaeude ist Teil der Show...",
+  "fullDescription": "Franco Dragone baute die Shows, die Cirque du Soleil beruehmt machten, und verbrachte dann eine Karriere damit, Wasser auf der Buehne Dinge tun zu lassen. La Perle ist seine residente Dubai-Produktion, in einem eigens errichteten Wassertheater in Al Habtoor City, und das Gebaeude ist Teil der Show: die Buehne flutet mit rund 2,7 Millionen Litern Wasser und laeuft innerhalb von Sekunden wieder ab, wiederholt, waehrend der ganzen Show.\n\nWas darauf passiert, ist Luftarbeit, Hochsprung vom Dach des Theaters, Motorraeder, und eine Besetzung von rund fuenfundsechzig Darstellern. Es gibt keinen Dialog, also geht nichts in der Uebersetzung verloren und es funktioniert fuer jedes Alter.\n\nDas Theater ist rund und steil ansteigend, kein Sitz ist weit von der Buehne entfernt, obwohl die vorderen Reihen offiziell eine Spritzzone sind, und das ist kein Scherz.\n\nLaeuft etwas ueber neunzig Minuten ohne Pause.\n\nLounge-Zugang, Getraenke und Snacks haengen davon ab, welches Ticket Sie nehmen, entscheiden Sie das also bei der Buchung. Kommen Sie dreissig Minuten frueher, Nachzuegler werden bis zu einer Pause in der Vorstellung hinten gehalten, und bei einer so durchgehenden Show kann das eine lange Wartezeit sein.",
+  "highlights": [
+   "Franco Dragones residente Dubai-Show in einem eigens errichteten Wassertheater",
+   "Eine Buehne, die mit 2,7 Millionen Litern flutet und in Sekunden abfliesst",
+   "Luftarbeit, Hochsprung vom Dach, Motorraeder, fuenfundsechzig Darsteller",
+   "Kein Dialog, also funktioniert es in jeder Sprache und in jedem Alter",
+   "Achtung: vordere Reihen sind eine echte Spritzzone, kommen Sie dreissig Minuten frueher"
+  ],
+  "included": [
+   "Ticket fuer La Perle",
+   "Lounge-Zugang (falls Option gewaehlt)",
+   "Getraenke und Snacks (falls Option gewaehlt)"
+  ],
+  "notIncluded": [
+   "Merchandise",
+   "Valet-Parking"
+  ]
+ },
+ "abu-dhabi-dune-bashing-safari-with-camel-farm-visit": {
+  "title": "Abu Dhabi: Dune-Bashing-Safari mit Besuch einer Kamelfarm",
+  "metaTitle": "Abu Dhabi: Dune Bashing, Kamelfarm",
+  "metaDescription": "Vier Stunden Safari morgens oder abends in den Duenen von Abu Dhabi, mit Dune Bashing, Sandboarding und einer aktiven Kamelfarm.",
+  "shortDescription": "Vier Stunden in der Wueste ausserhalb von Abu Dhabi, als Morgen- oder Abendfahrt verfuegbar, eine Entscheidung, die durchdacht werden sollte statt per Standard gewaehlt.",
+  "fullDescription": "Vier Stunden in der Wueste ausserhalb von Abu Dhabi, als Morgen- oder Abendfahrt verfuegbar, eine Entscheidung, die durchdacht werden sollte statt per Standard gewaehlt.\n\nDie Morgen-Safari ist kuehler, ruhiger und besser fuer Fotos der Duenen selbst, mit niedrigem Licht und geriffeltem, unberuehrtem Sand. Die Abend-Safari gibt Ihnen den Sonnenuntergang und danach die Camp-Atmosphaere. Beide beinhalten denselben Kern: Dune Bashing im 4x4-Land-Cruiser mit abgelassenen Reifen, Sandboarding, und ein Stopp an einer aktiven Kamelfarm mit einem kurzen Ritt.\n\nUnbegrenztes Wasser und Softdrinks reisen im Fahrzeug mit, was zwischen Juni und September kein Luxus ist.\n\nDie Kamelfarm ist der Teil, der dies vom Standardlauf unterscheidet, es ist eine aktive Farm statt eines Fotostopps am Strassenrand, und zu sehen, wie die Tiere tatsaechlich gehalten werden, ist interessanter als der Ritt selbst.\n\nAchtung: Dune Bashing ist absichtlich ruppig. Jeder, der schwanger ist, Ruecken- oder Nackenprobleme hat, oder zu Reisekrankheit neigt, sollte das bei der Buchung angeben, der Fahrer waehlt dann eine sanfte Linie und niemand ist verpflichtet, die harte Version zu machen. Hotelabholung und Rueckbringung in Abu Dhabi sind enthalten.",
+  "highlights": [
+   "Morgens oder abends, wirklich unterschiedliche Erlebnisse, Ihre Wahl",
+   "Dune Bashing im 4x4-Land-Cruiser mit abgelassenen Reifen",
+   "Eine aktive Kamelfarm statt eines Fotostopps am Strassenrand",
+   "Sandboarding, und unbegrenztes Wasser und Softdrinks im Fahrzeug",
+   "Vier Stunden mit Hotelabholung in Abu Dhabi"
+  ],
+  "included": [
+   "Abholung und Rueckbringung in Abu Dhabi",
+   "Wuestensafari im Allradfahrzeug",
+   "Dune Bashing",
+   "Sandboarding",
+   "Stopp an der Kamelfarm und Kamelritt",
+   "Unbegrenztes Wasser und Softdrinks",
+   "Traditionelle arabische Kleidung (fuer Fotos)",
+   "BBQ-Dinner (nur Abendtour)",
+   "Bauchtanz",
+   "Arabischer Tee, Kaffee und Datteln (nur Abendtour)",
+   "Tanoura-Tanz",
+   "Falke (fuer Fotos, nur Abendtour)"
+  ],
+  "notIncluded": [
+   "Alkoholische Getraenke (koennen gekauft werden)",
+   "Quad (gegen Aufpreis verfuegbar)"
+  ]
+ },
+ "abu-dhabi-grand-mosque-and-qasr-al-watan-private-transfer-tour": {
+  "title": "Abu Dhabi: private Tour zur Grossen Moschee und Qasr Al Watan",
+  "metaTitle": "Abu Dhabi: Grosse Moschee und Qasr Al Watan",
+  "metaDescription": "Private Tour mit Fahrzeug und Fahrer zur Sheikh Zayed Grand Mosque und zum Praesidentenpalast Qasr Al Watan.",
+  "shortDescription": "Die zwei Gebaeude, die zusammen das moderne Abu Dhabi erklaeren, privat besucht statt per Bus, mit einem Fahrer und einem Fahrzeug nur fuer Sie.",
+  "fullDescription": "Die zwei Gebaeude, die zusammen das moderne Abu Dhabi erklaeren, privat besucht statt per Bus, mit einem Fahrer und einem Fahrzeug nur fuer Sie.\n\nDie Sheikh Zayed Grand Mosque fasst vierzigtausend Menschen. Der Hauptgebetsraum hat den groessten handgeknuepften Teppich der Welt, und die floralen Marmoreinlagen im Hof verdienen genauso viel Aufmerksamkeit wie die Kuppeln darueber. Der Eintritt ist kostenlos, die Abaya, die Frauen brauchen, wird an der Tuer gestellt.\n\nQasr Al Watan ist der arbeitende Praesidentenpalast und einer der sehr wenigen weltweit, die der Oeffentlichkeit zugaenglich sind. Die Great Hall, die Bibliothek und die Sammlung von Staatsgeschenken sind in Ihrem Ticket enthalten, das Teil dieser Buchung ist statt eines Extras.\n\nPrivat zu gehen bedeutet, dass das Tempo Ihres ist. Die Moschee lohnt es, sich dort aufzuhalten, und Busgruppen erlauben das selten.\n\nAchtung: zwei Schliesszeiten, um die man herum planen muss: die Moschee laesst freitagvormittags keine Besucher zu, und Qasr Al Watan schliesst kurzfristig fuer Staatsveranstaltungen. Geben Sie uns Ihr Datum und wir bestaetigen beides, bevor Sie bezahlen. Kleidungsregeln gelten fuer alle an der Moschee, Schultern und Knie bedeckt, nichts Durchsichtiges oder Enges.",
+  "highlights": [
+   "Privates Fahrzeug und Fahrer, keine Busgruppe",
+   "Sheikh Zayed Grand Mosque mit an der Tuer gestellter Abaya",
+   "Eintrittskarte fuer Qasr Al Watan inklusive, kein Extra",
+   "Wasser in Flaschen und ein professioneller Fahrer durchgehend",
+   "Achtung: wir bestaetigen, dass beide an Ihrem Datum geoeffnet sind, bevor Sie bezahlen"
+  ],
+  "included": [
+   "Privater Transfer",
+   "Professioneller Fahrer",
+   "Wasser in Flaschen",
+   "Eintrittskarte fuer Qasr Al Watan",
+   "Eintritt zur Sheikh-Zayed-Moschee"
+  ],
+  "notIncluded": [
+   "Sonstige persoenliche Ausgaben"
+  ]
+ },
+ "seaworld-abu-dhabi-general-admission-ticket": {
+  "title": "Abu Dhabi: allgemeine Eintrittskarte fuer SeaWorld",
+  "metaTitle": "Abu Dhabi: SeaWorld, allgemeiner Eintritt",
+  "metaDescription": "Der groesste Indoor-Meerespark der Welt auf Yas Island, acht Reiche und ein riesiges zentrales Aquarium, vollstaendig drinnen.",
+  "shortDescription": "Der groesste Indoor-Meerespark der Welt, auf Yas Island, aufgebaut um acht Reiche und ein riesiges, mehrstoeckiges Aquarium in ihrer Mitte.",
+  "fullDescription": "Der groesste Indoor-Meerespark der Welt, auf Yas Island, aufgebaut um acht Reiche und ein riesiges, mehrstoeckiges Aquarium in ihrer Mitte.\n\nEs ist nicht das SeaWorld der amerikanischen Parks. Es gibt keine Orcas und keine Stadionshows dieser Art, der Park ist um ein Forschungs- und Rettungszentrum herum aufgebaut, mit Reichen, die die Arktis, die Antarktis, die Pazifikriffe, den tropischen Ozean und den endlosen Ozean abdecken, plus ein Microterra-Reich ueber das sehr Kleine. Fahrgeschaefte und Tierpraesentationen laufen den ganzen Tag.\n\nVollstaendig drinnen zu sein ist der praktische Punkt. Zwischen Juni und September, wenn Yas Waterworld schon am Vormittag haertet, sind dies und Warner Bros. World, was die Leute tatsaechlich tun.\n\nIhr Ticket hier ist allgemeiner Eintritt, der die Reiche, Fahrgeschaefte, Praesentationen und das Aquarium fuer den ganzen Tag abdeckt.\n\nAchtung: die Zusatzerlebnisse, Tierbegegnungen und Blick-hinter-die-Kulissen-Zugang, werden separat verkauft und beinhalten nicht den Eintritt. Sie brauchen dieses Ticket zusaetzlich zu jedem Extra. Sagen Sie uns, welches Sie wollen, und wir stellen sicher, dass beides gebucht ist statt nur eines.",
+  "highlights": [
+   "Der groesste Indoor-Meerespark der Welt",
+   "Acht Reiche um ein mehrstoeckiges zentrales Aquarium",
+   "Fahrgeschaefte, Tierpraesentationen und ein Forschungs- und Rettungszentrum",
+   "Vollstaendig drinnen, die Sommerwahl auf Yas Island",
+   "Achtung: Tierbegegnungs-Extras kosten zusaetzlich und beinhalten nicht den Eintritt"
+  ],
+  "included": [
+   "Unbegrenzter Tageszugang zu den Fahrgeschaeften, Attraktionen, Tiershows und Erlebniswelten von SeaWorld Abu Dhabi",
+   "Wichtig: Zusatzerlebnisse beinhalten nicht den Eintritt zu SeaWorld Abu Dhabi. Ein gueltiges allgemeines Eintrittsticket ist erforderlich, um den Park zu betreten und diese Erlebnisse einzuloesen",
+   "Kostenlose Parkmoeglichkeiten und kostenloser Shuttleservice innerhalb von Yas Island"
+  ],
+  "notIncluded": [
+   "Quick-Pass-/Fast-Track-Upgrades sind nicht enthalten und koennen separat in den Parks erworben werden",
+   "Essen und Getraenke"
+  ]
+ },
+ "dibba-fujairah-snorkelling-day-trip-from-dubai": {
+  "title": "Dibba Fujairah: Tagesausflug zum Schnorcheln ab Dubai",
+  "metaTitle": "Dibba Fujairah: Schnorcheln ab Dubai",
+  "metaDescription": "Schnorcheln im Golf von Oman ab Dibba, flache Riffe, Clownfische und Schildkroeten, Transport Dubai-Fujairah mit 160 AED Aufpreis.",
+  "shortDescription": "Der Golf von Oman ist ein anderes Meer als das, an dem Dubai liegt: kuehler, klarer, und mit Riffen nah genug an der Kueste, dass Schnorcheln von einem Boot wirklich etwas zeigt. Dibba, an der Fujairah-Kueste, ist der Abfahrtsort der Boote...",
+  "fullDescription": "Der Golf von Oman ist ein anderes Meer als das, an dem Dubai liegt: kuehler, klarer, und mit Riffen nah genug an der Kueste, dass Schnorcheln von einem Boot wirklich etwas zeigt. Dibba, an der Fujairah-Kueste, ist der Abfahrtsort der Boote, und es sind etwa zwei Stunden quer durch das Land von Dubai.\n\nDer Tag wird auf dem Wasser mit mehreren Stopps verbracht. Die Sicht ist hier die meiste Zeit des Jahres gut, und die flachen Riffe beherbergen Clownfische, Papageifische, Rochen und Schildkroeten; die Berge fallen direkt zur Kuestenlinie hinter Ihnen ab, was die Westkueste nicht bietet.\n\nAusruestung, Schwimmwesten, Wasser, Softdrinks und Snacks sind enthalten, und die Crew behaelt jeden im Blick, der kein sicherer Schwimmer ist, Schwimmwesten bedeuten, dass man schnorcheln kann, ohne gut schwimmen zu koennen.\n\nAchtung: eine Sache, die man vor der Buchung genau lesen sollte: der Transport zwischen Dubai und Fujairah ist nicht kostenlos. Er wird fuer Sie organisiert, aber es gibt einen Aufpreis von 160 AED, der bei der Ankunft an den Betreiber zu zahlen ist. Wir wuerden Sie das lieber jetzt wissen lassen als am Abholpunkt.\n\nAcht Stunden Tuer zu Tuer, das meiste davon lohnt sich wegen des Wassers.",
+  "highlights": [
+   "Der Golf von Oman, klarer und kuehler als die Dubai-Kueste",
+   "Flache Riffe mit Clownfischen, Papageifischen, Rochen und Schildkroeten",
+   "Berge, die direkt zur Kuestenlinie hinter Ihnen abfallen",
+   "Ausruestung, Schwimmwesten, Snacks und Getraenke inklusive",
+   "Achtung: der Transport Dubai-Fujairah hat einen Aufpreis von 160 AED, bei Ankunft zu zahlen"
+  ],
+  "included": [
+   "Schnorchelausruestung",
+   "Schwimmweste",
+   "Wasser und Softdrinks",
+   "Snacks",
+   "Transport: Der Transport zwischen Dubai und Fujairah ist mit einem Aufpreis von 160 AED enthalten, der bei Ankunft zu zahlen ist, dies deckt Hin- und Rueckfahrt ab"
+  ],
+  "notIncluded": [
+   "Essen"
+  ]
+ },
+ "dubai-parasailing-over-the-marina-with-palm-and-jbr-views": {
+  "title": "Dubai: Parasailing ueber der Marina mit Blick auf Palm und JBR",
+  "metaTitle": "Dubai: Parasailing ueber der Marina",
+  "metaDescription": "Zehn bis zwoelf Minuten in der Luft ueber dem Arabischen Golf, von JBR aus, mit der Marina-Skyline und der Palm auf beiden Seiten.",
+  "shortDescription": "Zehn bis zwoelf Minuten in der Luft ueber dem Arabischen Golf, von einem Boot vor JBR geschleppt, mit der Marina-Skyline auf einer Seite und der Palm auf der anderen.",
+  "fullDescription": "Zehn bis zwoelf Minuten in der Luft ueber dem Arabischen Golf, von einem Boot vor JBR geschleppt, mit der Marina-Skyline auf einer Seite und der Palm auf der anderen.\n\nDer ganze Ausflug dauert etwa eine Stunde, davon ist das meiste die Bootsfahrt hinaus und die Rotation aller an Bord. Der Flug selbst ist ruhiger, als man erwartet, Sie werden allmaehlich vom Deck hochgewinscht und wieder heruntergelassen, es gibt also keinen Anlauf und keine Wasserlandung, ausser Sie bitten um einen Tauchgang, den die Crew auf Wunsch macht.\n\nSie koennen solo oder im Tandem fliegen, und Tandem ist die uebliche Wahl fuer jeden, der nervoes ist. Es ist keine Faehigkeit erforderlich, man sitzt in einem Gurt und schaut.\n\nUnterweisung, Sicherheitsausruestung, Handtuecher, Trinkwasser und Musik an Bord sind enthalten.\n\nZwei Hinweise. Es ist vollkommen wetterabhaengig, Wind, der am Boden gut anfuehlt, kann das Fliegen stoppen, und die Crew wird Sie verlegen statt Sie unter falschen Bedingungen hochzuschicken. Und bringen Sie ein Band fuer die Sonnenbrille mit oder lassen Sie sie zurueck, sie ist das, was Leute am Golf am haeufigsten verlieren.",
+  "highlights": [
+   "Zehn bis zwoelf Minuten ueber dem Golf mit Marina und Palm in Sicht",
+   "Vom Bootsdeck hochgewinscht und wieder heruntergelassen, kein Anlauf, keine nasse Landung",
+   "Solo oder im Tandem, mit Tandem als einfache Wahl fuer Erstflieger",
+   "Unterweisung, Sicherheitsausruestung, Handtuecher und Wasser inklusive",
+   "Achtung: wetterabhaengig, und Sonnenbrillen gehen jede Woche ueber Bord"
+  ],
+  "included": [
+   "Unterweisung und Sicherheitsausruestung",
+   "Handtuecher",
+   "Trinkwasser",
+   "Musik an Bord",
+   "10-12-minuetiger Parasailing-Flug waehrend eines 45-60-minuetigen Ausflugs"
+  ],
+  "notIncluded": [
+   "Fotopaket (optional beim Check-in)",
+   "Hotelabholung und Rueckbringung (zusaetzliche Kosten)",
+   "Schliessfach"
+  ]
+ },
+ "atlantis-aquaventure-waterpark-day-pass-dubai": {
+  "title": "Dubai: Tagespass fuer den Wasserpark Atlantis Aquaventure",
+  "metaTitle": "Dubai: Atlantis Aquaventure",
+  "metaDescription": "Der groesste Wasserpark im Nahen Osten auf der Palm, ueber hundert Rutschen, privater Strand und das Lost Chambers Aquarium inklusive.",
+  "shortDescription": "Der groesste Wasserpark im Nahen Osten, auf der Palm, mit ueber hundert Rutschen und einem angeschlossenen privaten Strand, und ein ganzer Tag ist wirklich noetig, um ihn zu nutzen.",
+  "fullDescription": "Der groesste Wasserpark im Nahen Osten, auf der Palm, mit ueber hundert Rutschen und einem angeschlossenen privaten Strand, und ein ganzer Tag ist wirklich noetig, um ihn zu nutzen.\n\nDie Hauptrutschen befinden sich in den beiden Tuermen: nahezu senkrechte Abfaelle, eine Rutsche, die einen durch eine mit Haien gefuellte Lagune schickt, und eine Gruppen-Floss-Fahrt, fuer die die meisten zweimal anstehen. Darum herum eine Wellenreiter-Anlage zum Surfen, ein langer Lazy River mit Stromschnellen, und die Splashers-Zonen fuer juengere Kinder, die weit genug getrennt sind, dass Familien nicht beides gleichzeitig versuchen muessen.\n\nIhr Pass deckt auch das Lost Chambers Aquarium im Resort ab, aufzubewahren fuer die Mitte des Tages, wenn die Sonne am schlimmsten und die Rutschen-Schlangen am laengsten sind.\n\nZwei praktische Dinge. Der private Strand ist enthalten und die meisten Besucher vergessen, dass er existiert, er ist der ruhigste Teil des Parks. Und Schliessfaecher und Handtuecher werden separat berechnet, bringen Sie also Ihr eigenes Handtuch und etwas Bargeld fuer ein Schliessfach mit, wenn Sie nicht doppelt bezahlen moechten.\n\nZwischen Juni und September kommen Sie zur Oeffnung. Bis Mittag sind sowohl die Hitze als auch die Schlangen am hoechsten.",
+  "highlights": [
+   "Ueber hundert Rutschen, der groesste Wasserpark im Nahen Osten",
+   "Eine Hai-Lagunen-Rutsche, nahezu senkrechte Abfaelle und eine Surf-Wellenanlage",
+   "Zugang zum privaten Strand inklusive, und meist der ruhigste Teil",
+   "Das Lost Chambers Aquarium auf demselben Pass",
+   "Achtung: Handtuecher und Schliessfaecher kosten extra, bringen Sie Ihr eigenes Handtuch"
+  ],
+  "included": [
+   "Ganztages-Wasserpark-Pass mit Zugang zu ueber 105 rekordbrechenden Rutschen, einschliesslich privatem Strand und der Surf's-up-Wellenanlage",
+   "Zugang zu den Splashers-Zonen fuer Kinder",
+   "Eintritt zum Lost Chambers Aquarium (falls Option gewaehlt)"
+  ],
+  "notIncluded": [
+   "Aqua Xpress - Fast Pass (vor Ort erhaeltlich) fuer 225 bis 795 AED je nach Saison/Besuchsdatum",
+   "Handtuch- und Schliessfachverleih (vor Ort erhaeltlich)",
+   "Mahlzeiten"
+  ]
+ },
+ "dubai-jet-ski-tour-to-the-palm-jbr-and-burj-al-arab": {
+  "title": "Dubai: Jetski-Tour zur Palm, JBR und dem Burj Al Arab",
+  "metaTitle": "Dubai: Jetski, Palm, JBR, Burj Al Arab",
+  "metaDescription": "Dreissig Minuten Jetski mit Guide ab der Marina, entlang JBR, Ain Dubai, der Palm und dem Burj Al Arab, Fotos inklusive.",
+  "shortDescription": "Dreissig Minuten auf Ihrer eigenen Maschine mit einem Guide an Ihrer Seite, ab der Marina und entlang der Kueste vorbei an JBR, Ain Dubai auf Bluewaters, der Palm und dem Burj Al Arab.",
+  "fullDescription": "Dreissig Minuten auf Ihrer eigenen Maschine mit einem Guide an Ihrer Seite, ab der Marina und entlang der Kueste vorbei an JBR, Ain Dubai auf Bluewaters, der Palm und dem Burj Al Arab.\n\nSie fahren selbst. Kein Fuehrerschein ist noetig und keine Erfahrung wird vorausgesetzt, es gibt ein Briefing an Land, der Gasgriff ist einfach, und der Guide gibt das Tempo und die Linie vor, damit niemand sich verirrt oder irgendwo landet, wo er nicht sein sollte. Wenn Sie noch nie auf einem waren, sagen Sie es, und das Tempo wird reduziert.\n\nDer Guide macht auch Fotos vom Wasser aus auf Ihrem Handy und schickt sie danach, was enthalten ist und wie die meisten Leute das Foto von sich selbst mit dem Burj Al Arab im Hintergrund bekommen.\n\nSchwimmweste, Jetski, Guide und Trinkwasser sind alle enthalten.\n\nWert zu wissen: Sie werden nass, tragen Sie also etwas, das nass werden darf, und bringen Sie einen Wechsel mit, falls Sie danach noch Plaene haben. Laengere Dauern sind verfuegbar, wenn dreissig Minuten kurz klingen, es reicht fuer die Sehenswuerdigkeiten, aber Leute wuenschen sich regelmaessig, sie haetten eine Stunde gebucht.",
+  "highlights": [
+   "Ihr eigener Jetski mit einem Guide an Ihrer Seite, kein Fuehrerschein noetig",
+   "Vorbei an JBR, Ain Dubai, der Palm und dem Burj Al Arab",
+   "Fotos vom Wasser aus auf Ihrem Handy gemacht, inklusive",
+   "Zuerst Briefing an Land, Erstfahrer willkommen",
+   "Laengere Dauern verfuegbar; dreissig Minuten gehen schnell vorbei"
+  ],
+  "included": [
+   "Schwimmweste",
+   "Jetski",
+   "Guide",
+   "Kostenlose Handyfotos",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Handtuecher",
+   "Duschmoeglichkeiten (in der Marina nicht erlaubt, um ihre gehobene und saubere Umgebung zu erhalten)",
+   "Umkleideraeume (in der Marina nicht erlaubt, um ihre gehobene und saubere Umgebung zu erhalten)"
+  ]
+ },
+ "burj-khalifa-124-125-and-dubai-aquarium-combo-ticket": {
+  "title": "Kombiticket Burj Khalifa Ebenen 124 & 125 und Dubai Aquarium",
+  "metaTitle": "Burj Khalifa 124-125 + Aquarium",
+  "metaDescription": "Burj Khalifa mit 828 Metern, Aussichtsdecks auf Ebene 124 und 125 bei rund 450 Metern, kombiniert mit dem Dubai Aquarium.",
+  "shortDescription": "Die zwei Attraktionen, die fast jeder in Dubai macht, zusammen gekauft und beide innerhalb der Dubai Mall, sodass das Paar eine Fahrt kostet statt zwei.",
+  "fullDescription": "Die zwei Attraktionen, die fast jeder in Dubai macht, zusammen gekauft und beide innerhalb der Dubai Mall, sodass das Paar eine Fahrt kostet statt zwei.\n\nDer Burj Khalifa ist 828 Meter hoch und die Aussichtsdecks auf Ebene 124 und 125 liegen bei rund 450 Metern. Ihr Ticket ist fuer ein festes Eintrittsfenster, das bei der Buchung gewaehlt wird, und das Zeitfenster zaehlt hier mehr als alles andere: Sonnenuntergang ist Wochen vorher ausverkauft und kostet mehr, der spaete Vormittag ist ruhig und klar, und der fruehe Nachmittag im Sommer geht oft im Dunst verloren.\n\nUnten ist das Zehn-Millionen-Liter-Becken des Dubai Aquarium das, an dem Sie schon vorbeigelaufen sind, wenn Sie in der Mall waren, das Ticket fuegt den Durchgangstunnel, den Underwater Zoo darueber, die Pinguine und die Aufzuchtstation hinzu.\n\nPlanen Sie etwa neunzig Minuten fuer den Turm ein, Sicherheit inklusive, und eine Stunde fuer das Aquarium.\n\nZwei praktische Hinweise. Der Eintritt zum Burj Khalifa ist strikt zur gebuchten Zeit, planen Sie also den Weg durch die Mall ein, die groesser ist, als sie aussieht. Und es gibt ein separates, hoeheres Deck auf Ebene 148, dieses Ticket beinhaltet es nicht; sagen Sie uns, wenn Sie das stattdessen wollen.",
+  "highlights": [
+   "Burj Khalifa Ebenen 124 und 125, bei rund 450 Metern",
+   "Das Zehn-Millionen-Liter-Tunnel des Dubai Aquarium, Underwater Zoo und Pinguine",
+   "Beide innerhalb der Dubai Mall, sodass es eine Fahrt statt zwei ist",
+   "Festes Eintrittsfenster fuer den Turm, bei der Buchung gewaehlt",
+   "Achtung: Ebene 148 ist ein separates, hoeheres Deck und nicht enthalten"
+  ],
+  "included": [
+   "Eintrittskarte fuer den Burj Khalifa (zur gewaehlten Zeit Ihrer Buchung)",
+   "Eintritt zum Dubai-Aquarium-Tunnel und Underwater Zoo",
+   "Unterwasser-Observatorium",
+   "Eintritt zu Ebene 124 und 125"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke"
+  ]
+ },
+ "abu-dhabi-half-day-tour-with-airport-or-cruise-port-pickup": {
+  "title": "Abu Dhabi: Halbtagestour mit Abholung vom Flughafen oder Kreuzfahrtterminal",
+  "metaTitle": "Abu Dhabi: Halbtag, Flughafen/Hafen",
+  "metaDescription": "Fuenf Stunden fuer Flughafen-Zwischenstopp oder Kreuzfahrttag: Grosse Moschee, Qasr Al Watan und das Etihad-Towers-Aussichtsdeck auf 300 Metern.",
+  "shortDescription": "Gebaut fuer die zwei Situationen, in denen eine normale Stadttour nicht funktioniert: ein langer Zwischenstopp am Flughafen Abu Dhabi, und ein Kreuzfahrtschiff, das fuer den Tag am Zayed Port anlegt. Abholung erfolgt von beiden...",
+  "fullDescription": "Gebaut fuer die zwei Situationen, in denen eine normale Stadttour nicht funktioniert: ein langer Zwischenstopp am Flughafen Abu Dhabi, und ein Kreuzfahrtschiff, das fuer den Tag am Zayed Port anlegt. Abholung erfolgt von beiden, und das Timing wird um Ihren Flug oder Ihre Abfahrt herum organisiert statt um eine feste Abfahrt.\n\nFuenf Stunden decken die drei Dinge ab, die es zu sehen lohnt, wenn Sie nur eine Chance haben. Die Sheikh Zayed Grand Mosque, kostenloser Eintritt, mit einer an der Tuer fuer Frauen gestellten Abaya. Qasr Al Watan, der arbeitende Praesidentenpalast, fuer Besucher geoeffnet und innen deutlich beeindruckender, als das Aeussere vermuten laesst. Und das Etihad-Towers-Aussichtsdeck auf 300 Metern, von wo aus die Corniche und die Inseln endlich als Layout Sinn ergeben.\n\nEin lizenzierter Guide begleitet Sie durchgehend, das ist der Unterschied zwischen diese Gebaeude ansehen und sie verstehen.\n\nAchtung: zwei Schliesszeiten, um die man herum planen muss: die Moschee laesst freitagvormittags keine Besucher zu, und Qasr Al Watan schliesst kurzfristig fuer Staatsveranstaltungen. Sagen Sie uns Ihr Datum und wir bestaetigen beides, bevor Sie bezahlen, das zaehlt hier mehr als sonst, weil ein Zwischenstopp keine zweite Chance hat.",
+  "highlights": [
+   "Abholung vom Flughafen Abu Dhabi oder dem Kreuzfahrtterminal, nach Ihrem Zeitplan",
+   "Sheikh Zayed Grand Mosque mit an der Tuer gestellter Abaya",
+   "Qasr Al Watan, der arbeitende Praesidentenpalast, von innen",
+   "Etihad-Towers-Aussichtsdeck auf 300 Metern",
+   "Achtung: wir bestaetigen, dass Moschee und Palast an Ihrem Datum offen sind, bevor Sie bezahlen"
+  ],
+  "included": [
+   "Abholung und Rueckbringung ab Abu Dhabi",
+   "Transport im klimatisierten modernen Fahrzeug",
+   "Lizenzierter Reiseleiter",
+   "Besuch der Sheikh Zayed Grand Mosque",
+   "Besuch des Qasr-Al-Watan-Palastes",
+   "Besuch des Etihad-Towers-Aussichtsdecks",
+   "Fotostopp am Louvre-Museum",
+   "Abaya fuer Damen waehrend des Moscheebesuchs (nach Gebrauch zurueckzugeben)",
+   "Kaltes Mineralwasser"
+  ],
+  "notIncluded": [
+   "Abholung ab Dubai",
+   "Zusaetzliche Leistungen oder Ausgaben (ausser dem oben Genannten)"
+  ]
+ },
+ "warner-bros-world-abu-dhabi-entry-ticket": {
+  "title": "Abu Dhabi: Eintrittskarte fuer Warner Bros. World",
+  "metaTitle": "Abu Dhabi: Warner Bros. World",
+  "metaDescription": "Sechs Themenwelten unter einem Dach, neunundzwanzig Fahrgeschaefte und Attraktionen, vollstaendig drinnen und klimatisiert.",
+  "shortDescription": "Sechs Themenwelten unter einem Dach, Gotham City, Metropolis, Cartoon Junction, Bedrock, Dynamite Gulch und Warner Bros. Plaza, mit neunundzwanzig Fahrgeschaeften und Attraktionen zwischen ihnen.",
+  "fullDescription": "Sechs Themenwelten unter einem Dach, Gotham City, Metropolis, Cartoon Junction, Bedrock, Dynamite Gulch und Warner Bros. Plaza, mit neunundzwanzig Fahrgeschaeften und Attraktionen zwischen ihnen.\n\nDie nuetzlichste Tatsache ueber diesen Park ist, dass er vollstaendig drinnen liegt. Jede Welt, jeder Gang, jede Schlange ist klimatisiert. In einem Abu-Dhabi-Juli, wenn die Outdoor-Parks schon um elf Uhr morgens zu einem Ausdauertest werden, bleibt dieser von der Oeffnung bis zur Schliessung angenehm, und genau deshalb bringen Einheimische hier im Sommer ihre Kinder her.\n\nDie Fahrgeschaefte reichen von einer Batman-Dark-Ride und einem Justice-League-Simulator bis zu sanften Looney-Tunes-Karussells, sodass es ueber eine breite Altersspanne hinweg funktioniert statt nur Teenager anzusprechen.\n\nIhr Ticket ist allgemeiner Eintritt und deckt alle Fahrgeschaefte und Attraktionen des Tages ab.\n\nWenn Ferrari World oder SeaWorld auch auf Ihrer Liste stehen, kostet der Yas-Island-Multi-Park-Pass weniger als separate Eintritte und bleibt mehrere Tage gueltig, es lohnt sich, uns vorher nach dem Preis zu fragen, bevor Sie dies allein buchen.",
+  "highlights": [
+   "Sechs Themenwelten und neunundzwanzig Fahrgeschaefte, alle unter einem Dach",
+   "Vollstaendig drinnen und klimatisiert, inklusive jeder Schlange",
+   "Batman- und Justice-League-Fahrgeschaefte neben sanften Looney-Tunes-Fahrten",
+   "Ganztages-Allgemeineintritt zu allem",
+   "Die Sommerwahl auf Yas Island, und was Einheimische tatsaechlich tun"
+  ],
+  "included": [
+   "Allgemeines Eintrittsticket",
+   "Alle Fahrgeschaefte",
+   "Alle Attraktionen"
+  ],
+  "notIncluded": [
+   "Quick Pass (kann separat erworben werden)",
+   "Essen und Getraenke"
+  ]
+ },
+ "ferrari-world-abu-dhabi-entry-ticket": {
+  "title": "Abu Dhabi: Eintrittskarte fuer Ferrari World",
+  "metaTitle": "Abu Dhabi: Ferrari World",
+  "metaDescription": "Der erste Ferrari-Themenpark der Welt, vollstaendig drinnen, mit Formula Rossa bei rund 240 km/h, der schnellsten Achterbahn.",
+  "shortDescription": "Der erste Ferrari-markierte Themenpark der Welt, unter einem roten Dach, das gross genug ist, um von der Strasse aus als Landmarke zu dienen, und, wichtig fuer jeden, der zwischen Juni und September besucht, vollstaendig drinnen und klimatisiert.",
+  "fullDescription": "Der erste Ferrari-markierte Themenpark der Welt, unter einem roten Dach, das gross genug ist, um von der Strasse aus als Landmarke zu dienen, und, wichtig fuer jeden, der zwischen Juni und September besucht, vollstaendig drinnen und klimatisiert.\n\nFormula Rossa ist die Hauptattraktion. Sie erreicht rund 240 km/h in unter fuenf Sekunden, was sie zur schnellsten Achterbahn der Welt macht und der Grund, warum den Fahrern Schutzbrillen ausgehaendigt werden: bei dieser Geschwindigkeit wuerde ein Insekt Schaden anrichten. Flying Aces klettert zum steilsten nicht invertierten Abfall jeder Achterbahn ueberhaupt. Dazwischen liegen sanftere Fahrten, eine lebensgrosse Nachbildung der Werkshalle von Maranello, und die Ferrari-Galerie.\n\nDas Ticket hier ist allgemeiner Eintritt, der alle Fahrgeschaefte und Attraktionen des Tages abdeckt.\n\nZwei Dinge wert zu planen. Fahren Sie die beiden grossen Achterbahnen zuerst, die Schlangen wachsen stetig ab dem spaeten Vormittag, und am Nachmittag kann allein Formula Rossa eine Stunde dauern. Und wenn Sie Yas-Island-Parks kombinieren, ist der Multi-Park-Pass guenstiger als separate Tickets, fragen Sie uns und wir berechnen beides.\n\nParken ist kostenlos und der Park liegt eine kurze Shuttle-Fahrt von den anderen Yas-Attraktionen entfernt.",
+  "highlights": [
+   "Formula Rossa, rund 240 km/h, die schnellste Achterbahn der Welt",
+   "Vollstaendig drinnen und klimatisiert, was von Juni bis September zaehlt",
+   "Flying Aces, der steilste nicht invertierte Achterbahn-Abfall ueberhaupt",
+   "Ganztages-Allgemeineintritt zu jedem Fahrgeschaeft und jeder Attraktion",
+   "Kostenloses Parken, mit einem Shuttle zu den anderen Yas-Island-Parks"
+  ],
+  "included": [
+   "Nur allgemeines Eintrittsticket fuer Ferrari World Abu Dhabi"
+  ],
+  "notIncluded": [
+   "Quick Pass (kann separat erworben werden)",
+   "Karting und Scuderia-Challenge-F1-Simulationsfahrten",
+   "Essen und Getraenke",
+   "Transfers zum Vergnuegungspark"
+  ]
+ },
+ "yas-island-multi-park-pass-abu-dhabi-two-three-or-four-parks": {
+  "title": "Yas Island Multi-Park-Pass: zwei, drei oder vier Parks in Abu Dhabi",
+  "metaTitle": "Yas Island: Multi-Park-Pass",
+  "metaDescription": "Ein Pass fuer Ferrari World, SeaWorld, Yas Waterworld und Warner Bros. World auf Yas Island, mehrere Tage gueltig.",
+  "shortDescription": "Yas Island hat vier grosse Parks in Gehdistanz zueinander, und sie separat zu kaufen kostet erheblich mehr als ein kombinierter Pass. Das ist dieser Pass, in zwei-, drei- oder vier-Park-Versionen.",
+  "fullDescription": "Yas Island hat vier grosse Parks in Gehdistanz zueinander, und sie separat zu kaufen kostet erheblich mehr als ein kombinierter Pass. Das ist dieser Pass, in zwei-, drei- oder vier-Park-Versionen.\n\nDie vier sind Ferrari World, mit Formula Rossa, bei rund 240 km/h die schnellste Achterbahn der Welt, schnell genug, dass man Schutzbrillen ausgehaendigt bekommt; SeaWorld Abu Dhabi, der groesste Indoor-Meerespark ueberhaupt; Yas Waterworld, emiratisch thematisiert und im Freien; und Warner Bros. World, vollstaendig drinnen und klimatisiert.\n\nDie Flexibilitaet ist der Punkt: Sie waehlen die Parks nach und nach statt bei der Buchung, und der Pass bleibt mehrere Tage gueltig, sodass Sie nicht gezwungen sind, zwei Parks an einem erschoepfenden Tag zu machen.\n\nWelchen Sie waehlen, haengt davon ab, wann Sie kommen. Zwischen Juni und September ist der Outdoor-Wasserpark am Nachmittag hart, und die zwei vollstaendig Indoor-Parks sind, wohin Einheimische gehen, Warner Bros. World sieht insbesondere nie die Sonne. Im Winter ist es umgekehrt und Yas Waterworld ist der, den man priorisieren sollte.\n\nParken auf Yas Island ist kostenlos und die Parks sind durch einen Shuttle verbunden.",
+  "highlights": [
+   "Zwei, drei oder vier Parks, nach und nach gewaehlt statt bei der Buchung",
+   "Ferrari World und Formula Rossa, die schnellste Achterbahn der Welt",
+   "SeaWorld Abu Dhabi, der groesste Indoor-Meerespark ueberhaupt",
+   "Warner Bros. World und Yas Waterworld auf demselben Pass",
+   "Mehrere Tage gueltig, sodass Sie nicht zwei Parks in einen Tag quetschen muessen"
+  ],
+  "included": [
+   "2-, 3- oder 4-Park-Pass mit der Freiheit, Ihre Parks nach und nach zu waehlen",
+   "Besuchen Sie jede Kombination aus Ferrari World Abu Dhabi, SeaWorld Abu Dhabi, Yas Waterworld und Warner Bros. World Abu Dhabi",
+   "Gueltig fuer 6 Tage ab Ihrem ersten Parkbesuch",
+   "Kostenloser Shuttlebus-Service zwischen den Yas-Island-Themenparks, Hotels und der Yas Mall",
+   "Kostenloses Parken in allen Themenparks",
+   "Kostenloser Shuttleservice ab Abu Dhabi und Dubai"
+  ],
+  "notIncluded": [
+   "Quick-Pass-/Fast-Track-Upgrades sind nicht enthalten und koennen separat in den Parks erworben werden",
+   "Essen und Getraenke",
+   "Optionale Premium-Erlebnisse und Extras",
+   "Souvenirs und persoenliche Ausgaben"
+  ]
+ },
+ "dubai-superyacht-cruise-with-live-dj-swim-stop-and-open-bar": {
+  "title": "Dubai: Superyacht-Kreuzfahrt mit Live-DJ, Schwimmstopp und Open Bar",
+  "metaTitle": "Dubai: Superyacht, DJ, Open Bar",
+  "metaDescription": "Drei Stunden auf einer Superyacht ab Dubai Harbour, mit Live-DJ, Open Bar und einem echten Schwimmstopp, vorbei an der Palm und Atlantis.",
+  "shortDescription": "Drei Stunden auf einer Superyacht ab Dubai Harbour, und anders als die meisten Kreuzfahrten an dieser Kueste haelt sie tatsaechlich an und laesst Sie ins Wasser.",
+  "fullDescription": "Drei Stunden auf einer Superyacht ab Dubai Harbour, und anders als die meisten Kreuzfahrten an dieser Kueste haelt sie tatsaechlich an und laesst Sie ins Wasser.\n\nDie Route verlaeuft an der Palm, Atlantis und dem Burj Al Arab vorbei, mit den Marina-Tuermen im Hintergrund. Es gibt einen Live-DJ, eine Open Bar mit erstklassigen Spirituosen, und einen Schwimmstopp, bei dem die Crew die Leiter herunterlaesst, bringen Sie Badebekleidung und ein Handtuch mit, denn die meisten, die es nicht taten, bereuten es.\n\nEs gibt auch eine Mario-Kart-Konsole an Bord, was absurd klingt und genau die Art von Sache ist, die eine dreistuendige Kreuzfahrt anders vergehen laesst, sobald die Sonne untergeht.\n\nEssen haengt von der gewaehlten Option ab, lesen Sie das also bei der Buchung: es gibt Mittag- und Abendessen-Sitzungen, und die kuerzeren Optionen beinhalten keines von beiden.\n\nZwei ehrliche Hinweise. Hotelabholung ist nicht enthalten, Sie machen sich selbst auf den Weg zum Hafen, was per Taxi unkompliziert ist. Und dies ist eine geteilte Kreuzfahrt auf einem grossen Boot, gesellig statt privat; wenn Sie Ruhe wollen, nehmen Sie die Morgenfahrt statt die zum Sonnenuntergang.",
+  "highlights": [
+   "Drei Stunden ab Dubai Harbour vorbei an der Palm, Atlantis und dem Burj Al Arab",
+   "Ein echter Schwimmstopp mit heruntergelassener Leiter, nicht nur eine langsame Vorbeifahrt",
+   "Live-DJ und Open Bar mit erstklassigen Spirituosen",
+   "Mario Kart an Bord, besser als es klingt",
+   "Achtung: Mahlzeiten haengen von der gewaehlten Option ab; Hotelabholung ist nicht enthalten"
+  ],
+  "included": [
+   "Guide",
+   "Kapitaen",
+   "Yacht-Kreuzfahrt",
+   "Live-DJ",
+   "Schwimmzeit",
+   "Mario-Kart-Spielkonsole",
+   "Schwimmweste",
+   "Getraenke (Wasser, Softdrinks, Saft, Bier, Wein)",
+   "Mittag-/Abendessen (je nach gewaehlter Option)",
+   "Live-Sushi (falls VIP-Option gewaehlt)"
+  ],
+  "notIncluded": [
+   "Hoteltransfers",
+   "Fotografien",
+   "Cocktails"
+  ]
+ },
+ "dubai-dinner-in-the-sky-three-course-meal-at-fifty-metres": {
+  "title": "Dubai: Dinner in the Sky, Drei-Gaenge-Menue auf fuenfzig Metern",
+  "metaTitle": "Dubai: Dinner in the Sky",
+  "metaDescription": "Ein Tisch fuer zweiundzwanzig, von einem Kran auf fuenfzig Meter gehoben, Drei-Gaenge-Menue, zubereitet und serviert in der Hoehe.",
+  "shortDescription": "Ein Tisch fuer zweiundzwanzig, an eine Plattform geschraubt, von einem Kran auf fuenfzig Meter gehoben und dort gelassen, waehrend Sie essen. Die Koeche und die Crew fahren mit Ihnen in der Mitte hinauf, was das Detail ist, das es funktionieren laesst...",
+  "fullDescription": "Ein Tisch fuer zweiundzwanzig, an eine Plattform geschraubt, von einem Kran auf fuenfzig Meter gehoben und dort gelassen, waehrend Sie essen. Die Koeche und die Crew fahren mit Ihnen in der Mitte hinauf, was das Detail ist, das es funktionieren laesst, das Essen wird in der Hoehe gekocht und serviert statt kalt hochgetragen.\n\nDrei Gaenge, mit Menuewahl. Das Angus-Beef-Short-Rib-Menue beginnt mit italienischer Burrata, dann die Rippe mit Reis, dann eine Schokoladenkugel mit Eis; es gibt vegetarische und andere Optionen, die bei der Buchung gewaehlt werden. Es dauert etwas ueber eine Stunde, und die Plattform dreht sich langsam, damit niemand das ganze Essen in die falsche Richtung schaut.\n\nDie Aussicht ist der Grund zu kommen. Downtown, der Burj Khalifa und die Kueste, aus einem Winkel, den kein Restaurant bekommt.\n\nPraktische Hinweise, die man vorher kennen sollte. Sie sind in einem flugzeugartigen Gurt angeschnallt und koennen den Tisch nicht verlassen, sobald Sie oben sind, gehen Sie vor dem Einsteigen zur Toilette. Es gibt ein Mindestalter und ein Hoechstgewicht pro Sitz, und das Ganze ist wetterabhaengig, starker Wind verschiebt oder sagt eine Sitzung ab, und man sagt es Ihnen am Tag selbst. Nicht geeignet fuer jeden, der sich mit Hoehen unwohl fuehlt.",
+  "highlights": [
+   "Ein Drei-Gaenge-Menue fuenfzig Meter hoch, auf der Plattform gekocht und serviert",
+   "Menueauswahl inklusive vegetarisch, bei der Buchung gewaehlt",
+   "Langsame Drehung, damit jeder den Blick auf Downtown und den Burj Khalifa bekommt",
+   "Etwas ueber eine Stunde in der Luft",
+   "Achtung: angeschnallt ohne den Tisch verlassen zu koennen, und Wetter kann Ihren Termin verschieben"
+  ],
+  "included": [
+   "3-Gaenge-Menue",
+   "Option 1: Angus Beef Short Rib, eine Vorspeise aus italienischer Burrata, ein Hauptgang aus Angus-Beef-Short-Rib mit Reis mit nahoestlichen Noten, und eine Schokoladenkugel mit Eis als Dessert",
+   "Option 3: vegetarische Tortellini oder vegane Penne-Pasta, Ihre Wahl zwischen Tortellini mit weisser Sauce (vegetarisch) oder Penne mit roter Sauce (vegan)",
+   "Frischer Saft und Softdrinks",
+   "Kaffee und Tee"
+  ],
+  "notIncluded": []
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
