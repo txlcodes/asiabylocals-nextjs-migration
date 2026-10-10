@@ -54591,7 +54591,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "included": [
    "Transporte privado",
    "Recogida y regreso al hotel",
-   "Safari en barco por el rio Bentota",
+   "Safari en barco por el rio Bentota.",
    "Visita al Brief Garden"
   ],
   "notIncluded": [
@@ -60940,6 +60940,521 @@ export const ES_TOURS: Record<string, TourT> = {
    "Recogida fuera de la zona gratuita, a menos que se organice con antelacion"
   ]
  },
+ "sri-lanka-4-days-tour-sigiriya-kandy-nuwara-eliya": {
+  "title": "Sri Lanka: tour de 4 dias: Sigiriya, Kandy, Nuwara Eliya, y Ella",
+  "metaTitle": "Sri Lanka: tour de 4 dias: Sigiriya, Kandy, Nuwara Eliya, y Ella",
+  "metaDescription": "Una excursion de 4 dia(s) desde Kandy que visita Dambulla Cave Temple, Sigiriya Rock Fortress, Sigiriya Village Area y Optional Village Tour. Ofrecido por Bookmar...",
+  "shortDescription": "Una excursion de 4 dia(s) desde Kandy que visita Dambulla Cave Temple, Sigiriya Rock Fortress, Sigiriya Village Area y Optional Village Tour. Ofrecido por Bookmark tours.",
+  "fullDescription": "Una excursion de 4 dia(s) desde Kandy, que recorre Dambulla Cave Temple, Sigiriya Rock Fortress, Sigiriya Village Area y Optional Village Tour. Hay 22 paradas en total.\n\nEl orden de la ruta es Dambulla Cave Temple, luego Sigiriya Rock Fortress, luego Sigiriya Village Area, luego Optional Village Tour, luego Spice Garden, Matale.\n\nEl precio incluye recogida y regreso desde Colombo o Negombo, vehiculo privado con aire acondicionado, conductor profesional que habla ingles, combustible, tarifas de estacionamiento, y peajes de autopista y agua embotellada durante el tour. No incluye alojamiento de 3 noches, tarifas de entrada a atracciones y comidas y bebidas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 761 $ juntos en lugar de 761 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de 4 dia(s) desde Kandy que visita Dambulla Cave Temple, Sigiriya Rock Fortress, Sigiriya Village Area y Optional Village Tour. Ofrecido por Bookmark tours."
+  ],
+  "included": [
+   "Recogida y regreso desde Colombo o Negombo",
+   "Vehiculo privado con aire acondicionado",
+   "Conductor profesional que habla ingles",
+   "Combustible, tarifas de estacionamiento, y peajes de autopista",
+   "Agua embotellada durante el tour"
+  ],
+  "notIncluded": [
+   "Alojamiento de 3 noches",
+   "Tarifas de entrada a atracciones",
+   "Comidas y bebidas"
+  ]
+ },
+ "negombo-life-lagoon-hidden-gems-tour-with-a-local": {
+  "title": "Negombo: vida local, laguna, y tesoros ocultos con un amigo local",
+  "metaTitle": "Negombo: vida local, laguna, y tesoros ocultos con un amigo local",
+  "metaDescription": "Experiencia de medio dia en Negombo. . Ofrecido por KaaZ Fdo.",
+  "shortDescription": "Experiencia de medio dia en Negombo. . Ofrecido por KaaZ Fdo.",
+  "fullDescription": "Una experiencia de medio dia en Negombo. Immerse yourself in the local culture of Negombo with a photographer guide.\n\nKaaZ Fdo la organiza, y 8 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye visita al mercado de pescado, viaje a lo largo del canal holandes, exploracion de los caminos de la aldea y visita a miradores ocultos de la laguna. No incluye gastos personales, almuerzo y barco en la laguna (opcional), por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de medio dia en Negombo. . Ofrecido por KaaZ Fdo."
+  ],
+  "included": [
+   "Visita al mercado de pescado",
+   "Viaje a lo largo del canal holandes",
+   "Exploracion de los caminos de la aldea",
+   "Visita a miradores ocultos de la laguna"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Almuerzo",
+   "Barco en la laguna (opcional)"
+  ]
+ },
+ "colombo-classic-city-tour-by-private-tuk-tuk-with": {
+  "title": "Colombo: tour clasico por la ciudad en tuk-tuk privado con guia",
+  "metaTitle": "Colombo: tour clasico por la ciudad en tuk-tuk privado con guia",
+  "metaDescription": "Una excursion de medio dia desde Colombo que visita Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk y Colombo Port Maritime Museum. Ofrecido por Sri L...",
+  "shortDescription": "Una excursion de medio dia desde Colombo que visita Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk y Colombo Port Maritime Museum. Ofrecido por Sri Lanka car and private driver hire.",
+  "fullDescription": "Una excursion de medio dia desde Colombo, que recorre Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk y Colombo Port Maritime Museum. Hay 17 paradas en total.\n\nEl orden de la ruta es Tuk tuk (10 min), luego Colombo Fort Old Lighthouse & Clock Tower (10 min), luego Tuk tuk (5 min), luego Colombo Port Maritime Museum (10 min), luego Old Parliament Building, Colombo (10 min).\n\nEl precio incluye transporte privado en tuk-tuk, guia/conductor local profesional, recogida y regreso al hotel y agua embotellada. No incluye entradas para el templo Gangaramaya y la torre Lotus, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de medio dia desde Colombo que visita Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk y Colombo Port Maritime Museum. Ofrecido por Sri Lanka car and private driver hire."
+  ],
+  "included": [
+   "Transporte privado en tuk-tuk",
+   "Guia/conductor local profesional",
+   "Recogida y regreso al hotel",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Entradas para el templo Gangaramaya y la torre Lotus"
+  ]
+ },
+ "from-kandy-nuwara-eliya-day-tour-ramboda-hike": {
+  "title": "Desde Kandy: excursion a Nuwara Eliya y caminata en Ramboda",
+  "metaTitle": "Desde Kandy: excursion a Nuwara Eliya y caminata en Ramboda",
+  "metaDescription": "Una excursion de un dia completo desde Kandy que visita Nuwara Eliya. Ofrecido por kandy super tours.",
+  "shortDescription": "Una excursion de un dia completo desde Kandy que visita Nuwara Eliya. Ofrecido por kandy super tours.",
+  "fullDescription": "Una excursion de un dia completo desde Kandy, que recorre Nuwara Eliya. La parada mas larga es Nuwara Eliya, con una duracion de unos 3 horas.\n\nEl precio incluye recogida en el hotel desde Kandy, regreso al hotel en Kandy o Nuwara Eliya, vehiculo con aire acondicionado y conductor-guia que habla ingles. No incluye almuerzo y comidas adicionales, gastos personales y tarifas de entrada opcionales a atracciones no incluidas en el itinerario, por lo que debe presupuestar eso por separado. Dos viajeros pagan 220 $ juntos en lugar de 207 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de un dia completo desde Kandy que visita Nuwara Eliya. Ofrecido por kandy super tours."
+  ],
+  "included": [
+   "Recogida en el hotel desde Kandy",
+   "Regreso al hotel en Kandy o Nuwara Eliya",
+   "Vehiculo con aire acondicionado",
+   "Conductor-guia que habla ingles"
+  ],
+  "notIncluded": [
+   "Almuerzo y comidas adicionales",
+   "Gastos personales",
+   "Tarifas de entrada opcionales a atracciones no incluidas en el itinerario"
+  ]
+ },
+ "kandy-city-tour-with-lake-boat-ride-all-inclusive": {
+  "title": "Kandy: tour por la ciudad con paseo en barco por el lago, todo incluido",
+  "metaTitle": "Kandy: tour por la ciudad con paseo en barco por el lago, todo...",
+  "metaDescription": "Experiencia de un dia completo en Kandy. . Ofrecido por kandy super tours.",
+  "shortDescription": "Experiencia de un dia completo en Kandy. . Ofrecido por kandy super tours.",
+  "fullDescription": "Una experiencia de un dia completo en Kandy. Enjoy a scenic boat ride on Kandy Lake, a unique way to experience the city.\n\nkandy super tours la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel en Kandy, vehiculo privado con aire acondicionado, conductor-guia que habla ingles y entrada al templo del Diente. No incluye almuerzo y cena, gastos personales y comida y bebidas adicionales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 322 $ juntos en lugar de 197 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de un dia completo en Kandy. . Ofrecido por kandy super tours."
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Kandy",
+   "Vehiculo privado con aire acondicionado",
+   "Conductor-guia que habla ingles",
+   "Entrada al templo del Diente"
+  ],
+  "notIncluded": [
+   "Almuerzo y cena",
+   "Gastos personales",
+   "Comida y bebidas adicionales"
+  ]
+ },
+ "sri-lanka-8-day-private-heritage-safari-marine": {
+  "title": "Sri Lanka: aventura privada de 8 dias, patrimonio, safari, y vida marina",
+  "metaTitle": "Sri Lanka: aventura privada de 8 dias, patrimonio, safari, y v...",
+  "metaDescription": "Una excursion de 8 dia(s) desde Sigiriya que visita Private 4x4 Jeep Safari in Wilpattu National Park, Overnight at Thibiri Wewa Hotel, Guided Walk of Dambulla Ca...",
+  "shortDescription": "Una excursion de 8 dia(s) desde Sigiriya que visita Private 4x4 Jeep Safari in Wilpattu National Park, Overnight at Thibiri Wewa Hotel, Guided Walk of Dambulla Cave Rock y Dambulla Local Vegetable Market Visit. Ofrecido por Hai Sri Lanka Tours.",
+  "fullDescription": "Una excursion de 8 dia(s) desde Sigiriya, que recorre Private 4x4 Jeep Safari in Wilpattu National Park, Overnight at Thibiri Wewa Hotel, Guided Walk of Dambulla Cave Rock y Dambulla Local Vegetable Market Visit. Hay 26 paradas en total.\n\nEl orden de la ruta es Private 4x4 Jeep Safari in Wilpattu National Park, luego Overnight at Thibiri Wewa Hotel, luego Guided Walk of Dambulla Cave Rock, luego Dambulla Local Vegetable Market Visit, luego Authentic Rural Village Tour & Local Lunch.\n\nEl precio incluye recogida desde el aeropuerto o cualquier hotel, y regreso al final del tour, transporte privado en vehiculo con aire acondicionado con chofer-guia profesional que habla ingles, aleman, ruso, o polaco, alojamiento de 7 noches en hoteles seleccionados de 3 a 4 estrellas, plan de media pension (desayuno y cena diarios en los hoteles), jeeps de safari 4x4 para safaris de fauna en el parque nacional de Wilpattu y Minneriya/Kaudulla, boletos para el viaje panoramico en tren a Ella, tour responsable en barco de observacion de ballenas y delfines, kayak, y esnorquel costero en Mirissa, safari en barco por el rio Bentota y tour tradicional de aldea de Sri Lanka con demostracion culinaria y almuerzo local. No incluye entradas a monumentos historicos y parques nacionales, almuerzos diarios (excepto el almuerzo tradicional de aldea en Sigiriya) y propinas para el chofer-guia y proveedores de actividades locales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 3874 $ juntos en lugar de 2789 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de 8 dia(s) desde Sigiriya que visita Private 4x4 Jeep Safari in Wilpattu National Park, Overnight at Thibiri Wewa Hotel, Guided Walk of Dambulla Cave Rock y Dambulla Local Vegetable Market Visit. Ofrecido por Hai Sri Lanka Tours."
+  ],
+  "included": [
+   "Recogida desde el aeropuerto o cualquier hotel, y regreso al final del tour.",
+   "Transporte privado en vehiculo con aire acondicionado con chofer-guia profesional que habla ingles, aleman, ruso, o polaco.",
+   "Alojamiento de 7 noches en hoteles seleccionados de 3 a 4 estrellas.",
+   "Plan de media pension (desayuno y cena diarios en los hoteles).",
+   "Jeeps de safari 4x4 para safaris de fauna en el parque nacional de Wilpattu y Minneriya/Kaudulla.",
+   "Boletos para el viaje panoramico en tren a Ella.",
+   "Tour responsable en barco de observacion de ballenas y delfines, kayak, y esnorquel costero en Mirissa.",
+   "Safari en barco por el rio Bentota.",
+   "Tour tradicional de aldea de Sri Lanka con demostracion culinaria y almuerzo local."
+  ],
+  "notIncluded": [
+   "Entradas a monumentos historicos y parques nacionales.",
+   "Almuerzos diarios (excepto el almuerzo tradicional de aldea en Sigiriya).",
+   "Propinas para el chofer-guia y proveedores de actividades locales."
+  ]
+ },
+ "sigiriya-kaudulla-safari-with-english-speaking": {
+  "title": "Sigiriya: safari en Kaudulla con conductor que habla ingles",
+  "metaTitle": "Sigiriya: safari en Kaudulla con conductor que habla ingles",
+  "metaDescription": "Una excursion de medio dia desde Sigiriya que visita Jeep / SUV y Kaudulla National Park. Ofrecido por Sri Lanka Jeep Safari.",
+  "shortDescription": "Una excursion de medio dia desde Sigiriya que visita Jeep / SUV y Kaudulla National Park. Ofrecido por Sri Lanka Jeep Safari.",
+  "fullDescription": "Una excursion de medio dia desde Sigiriya, que recorre Jeep / SUV y Kaudulla National Park. La parada mas larga es Kaudulla National Park, con una duracion de unos 4 horas. Hay 2 paradas en total.\n\nEl orden de la ruta es Jeep / SUV (40 min), luego Kaudulla National Park (4h).\n\nEl precio incluye safari en jeep privado en el parque nacional de Kaudulla, vehiculo de expedicion privado 4x4, guia de campo experto que habla ingles y guia experto con conocimiento local. No incluye entradas al parque nacional (35 USD/pers.) y gastos personales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 116 $ juntos en lugar de 107 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de medio dia desde Sigiriya que visita Jeep / SUV y Kaudulla National Park. Ofrecido por Sri Lanka Jeep Safari."
+  ],
+  "included": [
+   "Safari en jeep privado en el parque nacional de Kaudulla",
+   "Vehiculo de expedicion privado 4x4",
+   "Guia de campo experto que habla ingles",
+   "Guia experto con conocimiento local"
+  ],
+  "notIncluded": [
+   "Entradas al parque nacional (35 USD/pers.)",
+   "Gastos personales"
+  ]
+ },
+ "bentota-whale-watching-galle-fort-turtle-day-tour": {
+  "title": "Bentota: observacion de ballenas, fuerte de Galle, y excursion de tortugas",
+  "metaTitle": "Bentota: observacion de ballenas, fuerte de Galle, y excursion...",
+  "metaDescription": "Una excursion de un dia completo desde Galle que visita Mirissa Harbor, Galle Fort, Kosgoda Sea Turtle Conservation y Meetiyagoda Moonstone Mine. Ofrecido por Rei...",
+  "shortDescription": "Una excursion de un dia completo desde Galle que visita Mirissa Harbor, Galle Fort, Kosgoda Sea Turtle Conservation y Meetiyagoda Moonstone Mine. Ofrecido por Reisenova Travels & Tours.",
+  "fullDescription": "Una excursion de un dia completo desde Galle, que recorre Mirissa Harbor, Galle Fort, Kosgoda Sea Turtle Conservation y Meetiyagoda Moonstone Mine. Hay 4 paradas en total.\n\nEl orden de la ruta es Mirissa Harbor, luego Galle Fort, luego Kosgoda Sea Turtle Conservation, luego Meetiyagoda Moonstone Mine.\n\nEl precio incluye entradas de observacion de ballenas, recogida y regreso al hotel, transporte privado y vehiculo con aire acondicionado. No incluye almuerzo, entradas al criadero de tortugas y gastos personales, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de un dia completo desde Galle que visita Mirissa Harbor, Galle Fort, Kosgoda Sea Turtle Conservation y Meetiyagoda Moonstone Mine. Ofrecido por Reisenova Travels & Tours."
+  ],
+  "included": [
+   "Entradas de observacion de ballenas",
+   "Recogida y regreso al hotel",
+   "Transporte privado",
+   "Vehiculo con aire acondicionado"
+  ],
+  "notIncluded": [
+   "Almuerzo",
+   "Entradas al criadero de tortugas",
+   "Gastos personales"
+  ]
+ },
+ "nuwara-eliya-tea-tour-nature-experience-waterfall": {
+  "title": "Nuwara Eliya: tour de te, experiencia de naturaleza, y cascada (privado)",
+  "metaTitle": "Nuwara Eliya: tour de te, experiencia de naturaleza, y cascada...",
+  "metaDescription": "Experiencia de un dia completo en Nuwara Eliya. . Ofrecido por TUK TUK TEA FLOWER ADVENTURE.",
+  "shortDescription": "Experiencia de un dia completo en Nuwara Eliya. . Ofrecido por TUK TUK TEA FLOWER ADVENTURE.",
+  "fullDescription": "Una experiencia de un dia completo en Nuwara Eliya. Explore Nuwara Eliya's tea country in a private tuk-tuk.\n\nTUK TUK TEA FLOWER ADVENTURE la organiza, y 10 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye transporte privado en tuk-tuk (recogida y regreso al hotel en la zona de Nuwara Eliya), visita a la fabrica de te Labookellie con degustacion, visita a la fabrica de te Blue Field con recoleccion y degustacion de te y visita a la cascada y mirador de Ramboda. No incluye gastos personales, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de un dia completo en Nuwara Eliya. . Ofrecido por TUK TUK TEA FLOWER ADVENTURE."
+  ],
+  "included": [
+   "Transporte privado en tuk-tuk (recogida y regreso al hotel en la zona de Nuwara Eliya)",
+   "Visita a la fabrica de te Labookellie con degustacion",
+   "Visita a la fabrica de te Blue Field con recoleccion y degustacion de te",
+   "Visita a la cascada y mirador de Ramboda"
+  ],
+  "notIncluded": [
+   "Gastos personales"
+  ]
+ },
+ "sigiriya-lion-rock-minneriya-safari-with-english": {
+  "title": "Roca del Leon de Sigiriya y safari en Minneriya con conductor que habla ingles",
+  "metaTitle": "Roca del Leon de Sigiriya y safari en Minneriya con conductor ...",
+  "metaDescription": "Una excursion de un dia completo desde Sigiriya que visita Jeep / SUV, Sigiriya Fortress, Jeep / SUV y Minneriya National Park. Ofrecido por Green Life Tours.",
+  "shortDescription": "Una excursion de un dia completo desde Sigiriya que visita Jeep / SUV, Sigiriya Fortress, Jeep / SUV y Minneriya National Park. Ofrecido por Green Life Tours.",
+  "fullDescription": "Una excursion de un dia completo desde Sigiriya, que recorre Jeep / SUV, Sigiriya Fortress, Jeep / SUV y Minneriya National Park. La parada mas larga es Minneriya National Park, con una duracion de unos 4 horas. Hay 5 paradas en total.\n\nEl orden de la ruta es Jeep / SUV (1h), luego Sigiriya Fortress (3h), luego Jeep / SUV (40 min), luego Minneriya National Park (4h), luego Jeep / SUV (30 min).\n\nEl precio incluye jeep de safari 4x4 privado para maxima comodidad, conductor de safari profesional con amplio conocimiento de la fauna, guia-rastreador licenciado del parque nacional y asistencia en ingles durante todo el tour. No incluye entrada a la Roca del Leon de Sigiriya (35 USD/pers.), entrada al parque nacional de Minneriya (35 USD/pers.) y guia oficial de Sigiriya, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de un dia completo desde Sigiriya que visita Jeep / SUV, Sigiriya Fortress, Jeep / SUV y Minneriya National Park. Ofrecido por Green Life Tours."
+  ],
+  "included": [
+   "Jeep de safari 4x4 privado para maxima comodidad",
+   "Conductor de safari profesional con amplio conocimiento de la fauna",
+   "Guia-rastreador licenciado del parque nacional",
+   "Asistencia en ingles durante todo el tour"
+  ],
+  "notIncluded": [
+   "Entrada a la Roca del Leon de Sigiriya (35 USD/pers.)",
+   "Entrada al parque nacional de Minneriya (35 USD/pers.)",
+   "Guia oficial de Sigiriya"
+  ]
+ },
+ "mirissa-turtle-snorkeling-free-underwater-photos": {
+  "title": "Mirissa: esnorquel con tortugas, fotos submarinas gratis, y recogida",
+  "metaTitle": "Mirissa: esnorquel con tortugas, fotos submarinas gratis, y re...",
+  "metaDescription": "Una excursion de 1 hora(s) desde Mirissa que visita Tuk tuk y Mirissa. Ofrecido por Diving mirissa snorkeling tours.",
+  "shortDescription": "Una excursion de 1 hora(s) desde Mirissa que visita Tuk tuk y Mirissa. Ofrecido por Diving mirissa snorkeling tours.",
+  "fullDescription": "Una excursion de 1 hora(s) desde Mirissa, que recorre Tuk tuk y Mirissa. La parada mas larga es Mirissa, con una duracion de unos 1 hora. Hay 2 paradas en total.\n\nEl orden de la ruta es Tuk tuk (15 min), luego Mirissa (1h).\n\nEl precio incluye experiencia guiada de esnorquel con tortugas, charla de seguridad, equipo de esnorquel (mascara, tubo, chaleco salvavidas), asistencia en barco (si es necesario), fotos submarinas gratis y videos submarinos gratis. No incluye comida y bebidas, gastos personales y transporte fuera de la zona de recogida (radio de 5 km), por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de 1 hora(s) desde Mirissa que visita Tuk tuk y Mirissa. Ofrecido por Diving mirissa snorkeling tours."
+  ],
+  "included": [
+   "Experiencia guiada de esnorquel con tortugas",
+   "Charla de seguridad",
+   "Equipo de esnorquel (mascara, tubo, chaleco salvavidas)",
+   "Asistencia en barco (si es necesario)",
+   "Fotos submarinas gratis",
+   "Videos submarinos gratis"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Gastos personales",
+   "Transporte fuera de la zona de recogida (radio de 5 km)"
+  ]
+ },
+ "kandy-to-sigiriya-private-car-tour-with-minneriya": {
+  "title": "De Kandy a Sigiriya: tour privado en auto con safari en Minneriya",
+  "metaTitle": "De Kandy a Sigiriya: tour privado en auto con safari en Minneriya",
+  "metaDescription": "Experiencia de un dia completo en Kandy. . Ofrecido por Lakpura®.",
+  "shortDescription": "Experiencia de un dia completo en Kandy. . Ofrecido por Lakpura®.",
+  "fullDescription": "Una experiencia de un dia completo en Kandy. Climb the iconic Sigiriya Rock Fortress (Lion Rock), a World Heritage Site.\n\nLakpura® la organiza, y 7 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye caminata a la roca de Sigiriya, safari salvaje en el parque nacional de Minneriya, transporte privado y jeep de safari privado. No incluye tarifa de entrada a la roca de Sigiriya (35 USD por persona), tarifa de entrada al parque nacional de Minneriya (35 USD por persona) y tour de aldea, 10 USD por persona, opcional, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de un dia completo en Kandy. . Ofrecido por Lakpura®."
+  ],
+  "included": [
+   "Caminata a la roca de Sigiriya",
+   "Safari salvaje en el parque nacional de Minneriya",
+   "Transporte privado",
+   "Jeep de safari privado"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada a la roca de Sigiriya (35 USD por persona)",
+   "Tarifa de entrada al parque nacional de Minneriya (35 USD por persona)",
+   "Tour de aldea, 10 USD por persona, opcional"
+  ]
+ },
+ "colombo-3-day-private-tour-with-kandy-sigiriya-by": {
+  "title": "Colombo: tour privado de 3 dias a Kandy y Sigiriya en auto",
+  "metaTitle": "Colombo: tour privado de 3 dias a Kandy y Sigiriya en auto",
+  "metaDescription": "Experiencia de 3 dia(s) en Colombo. . Ofrecido por Minneriya Wild Tours.",
+  "shortDescription": "Experiencia de 3 dia(s) en Colombo. . Ofrecido por Minneriya Wild Tours.",
+  "fullDescription": "Una experiencia de 3 dia(s) en Colombo. Private VIP 3-day tour from Colombo to Sigiriya to Kandy with official guides.\n\nMinneriya Wild Tours la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye vehiculo privado con aire acondicionado con conductor durante todo el tour, recogida y regreso al hotel/aeropuerto (Colombo a Kandy), alojamiento de 2 noches (con aire acondicionado) en un hotel en Sigiriya o Dambulla y desayuno incluido en el hotel. No incluye sin costos ocultos, por lo que debe presupuestar eso por separado. Dos viajeros pagan 2390 $ juntos en lugar de 2390 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de 3 dia(s) en Colombo. . Ofrecido por Minneriya Wild Tours."
+  ],
+  "included": [
+   "Vehiculo privado con aire acondicionado con conductor durante todo el tour",
+   "Recogida y regreso al hotel/aeropuerto (Colombo a Kandy)",
+   "Alojamiento de 2 noches (con aire acondicionado) en un hotel en Sigiriya o Dambulla",
+   "Desayuno incluido en el hotel"
+  ],
+  "notIncluded": [
+   "Sin costos ocultos"
+  ]
+ },
+ "mirissa-turtle-snorkeling-tour-with-gear": {
+  "title": "Mirissa: tour de esnorquel con tortugas con equipo incluido",
+  "metaTitle": "Mirissa: tour de esnorquel con tortugas con equipo incluido",
+  "metaDescription": "Experiencia de 2 hora(s) en Mirissa. . Ofrecido por Mirissa Sea Life Diving Center.",
+  "shortDescription": "Experiencia de 2 hora(s) en Mirissa. . Ofrecido por Mirissa Sea Life Diving Center.",
+  "fullDescription": "Una experiencia de 2 hora(s) en Mirissa. Swim in crystal-clear waters and see sea turtles in their habitat.\n\nMirissa Sea Life Diving Center la organiza, y 6 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye experiencia de esnorquel guiada de 2 horas, guias privados profesionales, equipo de esnorquel y equipo de seguridad. No incluye , por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de 2 hora(s) en Mirissa. . Ofrecido por Mirissa Sea Life Diving Center."
+  ],
+  "included": [
+   "Experiencia de esnorquel guiada de 2 horas",
+   "Guias privados profesionales",
+   "Equipo de esnorquel",
+   "Equipo de seguridad"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "mirissa-blue-whale-snorkeling-expedition": {
+  "title": "Mirissa: expedicion de esnorquel con ballenas azules",
+  "metaTitle": "Mirissa: expedicion de esnorquel con ballenas azules",
+  "metaDescription": "Una excursion de medio dia desde Mirissa que visita Tuk tuk y Mirissa. Ofrecido por Mirissa Whale Snorkeling & Fishing Club.",
+  "shortDescription": "Una excursion de medio dia desde Mirissa que visita Tuk tuk y Mirissa. Ofrecido por Mirissa Whale Snorkeling & Fishing Club.",
+  "fullDescription": "Una excursion de medio dia desde Mirissa, que recorre Tuk tuk y Mirissa. La parada mas larga es Mirissa, con una duracion de unos 4 horas. Hay 2 paradas en total.\n\nEl orden de la ruta es Tuk tuk (15 min), luego Mirissa (4h).\n\nEl precio incluye barco privado o compartido (a elegir al reservar), guias marinos profesionales, charla de seguridad antes de entrar al agua y navegacion experta de avistamiento de ballenas por un capitan experimentado. No incluye , por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de medio dia desde Mirissa que visita Tuk tuk y Mirissa. Ofrecido por Mirissa Whale Snorkeling & Fishing Club."
+  ],
+  "included": [
+   "Barco privado o compartido (a elegir al reservar)",
+   "Guias marinos profesionales",
+   "Charla de seguridad antes de entrar al agua",
+   "Navegacion experta de avistamiento de ballenas por un capitan experimentado"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "udawalawe-ella-drop-with-lunch-waterfalls-and": {
+  "title": "Udawalawe: regreso en Ella con almuerzo, cascadas, y visita al templo",
+  "metaTitle": "Udawalawe: regreso en Ella con almuerzo, cascadas, y visita al...",
+  "metaDescription": "Una excursion de un dia completo desde Ella que visita Buduruwagala Temple, Ella, Upper Diyaluma Waterfall, Ravana Falls y Finish at:. Ofrecido por Kumaru Lanka T...",
+  "shortDescription": "Una excursion de un dia completo desde Ella que visita Buduruwagala Temple, Ella, Upper Diyaluma Waterfall, Ravana Falls y Finish at:. Ofrecido por Kumaru Lanka Tours.",
+  "fullDescription": "Una excursion de un dia completo desde Ella, que recorre Buduruwagala Temple, Ella, Upper Diyaluma Waterfall, Ravana Falls y Finish at:. La parada mas larga es Buduruwagala Temple, Ella, con una duracion de unos 1 hora. Hay 4 paradas en total.\n\nEl orden de la ruta es Buduruwagala Temple, Ella (1h), luego Upper Diyaluma Waterfall, luego Ravana Falls, luego Finish at:.\n\nEl precio incluye recogida en la zona de Udawalawe o en la entrada del parque nacional de Udawalawe, regreso al hotel o lugar preferido en Ella, vehiculo privado con aire acondicionado y visita al templo de Buduruwagala. No incluye gastos personales, propinas y gratificaciones y comida y bebidas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de un dia completo desde Ella que visita Buduruwagala Temple, Ella, Upper Diyaluma Waterfall, Ravana Falls y Finish at:. Ofrecido por Kumaru Lanka Tours."
+  ],
+  "included": [
+   "Recogida en la zona de Udawalawe o en la entrada del parque nacional de Udawalawe",
+   "Regreso al hotel o lugar preferido en Ella",
+   "Vehiculo privado con aire acondicionado",
+   "Visita al templo de Buduruwagala"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas y gratificaciones",
+   "Comida y bebidas"
+  ]
+ },
+ "negombo-2-day-sinharaja-rainforest-private-trip": {
+  "title": "Negombo: viaje privado de 2 dias a la selva tropical de Sinharaja",
+  "metaTitle": "Negombo: viaje privado de 2 dias a la selva tropical de Sinharaja",
+  "metaDescription": "Experiencia de 2 dia(s) en Negombo. . Ofrecido por Ceylonova Tours.",
+  "shortDescription": "Experiencia de 2 dia(s) en Negombo. . Ofrecido por Ceylonova Tours.",
+  "fullDescription": "Una experiencia de 2 dia(s) en Negombo. Immerse yourself in the lush beauty of Sinharaja Rainforest on a 2-day tour.\n\nCeylonova Tours la organiza, y 6 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel, transporte privado, conductor-guia que habla ingles y combustible. No incluye comidas y tarifas de entrada a la reserva forestal de Sinharaja, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de 2 dia(s) en Negombo. . Ofrecido por Ceylonova Tours."
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Transporte privado",
+   "Conductor-guia que habla ingles",
+   "Combustible"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Tarifas de entrada a la reserva forestal de Sinharaja"
+  ]
+ },
+ "mirissa-private-fishing-and-turtle-snorkeling-tour": {
+  "title": "Mirissa: tour privado de pesca y esnorquel con tortugas",
+  "metaTitle": "Mirissa: tour privado de pesca y esnorquel con tortugas",
+  "metaDescription": "Una excursion de medio dia desde Mirissa que visita Tuk tuk, Speedboat y Secret stop. Ofrecido por Mirissa Sea Life Diving Center.",
+  "shortDescription": "Una excursion de medio dia desde Mirissa que visita Tuk tuk, Speedboat y Secret stop. Ofrecido por Mirissa Sea Life Diving Center.",
+  "fullDescription": "Una excursion de medio dia desde Mirissa, que recorre Tuk tuk, Speedboat y Secret stop. La parada mas larga es Secret stop, con una duracion de unos 3 horas. Hay 3 paradas en total.\n\nEl orden de la ruta es Tuk tuk (10 min), luego Speedboat (30 min), luego Secret stop (3h).\n\nEl precio incluye recogida en el hotel en tuk-tuk, guia de pesca local profesional que habla ingles, barco de pesca privado y equipo de pesca. No incluye , por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de medio dia desde Mirissa que visita Tuk tuk, Speedboat y Secret stop. Ofrecido por Mirissa Sea Life Diving Center."
+  ],
+  "included": [
+   "Recogida en el hotel en tuk-tuk",
+   "Guia de pesca local profesional que habla ingles",
+   "Barco de pesca privado",
+   "Equipo de pesca"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "galle-city-tour-with-hotelairport-pickup-and-drop": {
+  "title": "Galle: tour por la ciudad con recogida y regreso al hotel/aeropuerto",
+  "metaTitle": "Galle: tour por la ciudad con recogida y regreso al hotel/aero...",
+  "metaDescription": "Una excursion de un dia completo desde Galle que visita Galle Fort. Ofrecido por Alvis Travels.",
+  "shortDescription": "Una excursion de un dia completo desde Galle que visita Galle Fort. Ofrecido por Alvis Travels.",
+  "fullDescription": "Una excursion de un dia completo desde Galle, que recorre Galle Fort. La parada mas larga es Galle Fort, con una duracion de unos 2 horas.\n\nEl precio incluye transporte en auto privado, recogida y regreso al hotel, visita a criaderos de tortugas y visita a jardines de especias. No incluye comidas, tarifas de entrada a atracciones y gastos personales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 229 $ juntos en lugar de 229 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de un dia completo desde Galle que visita Galle Fort. Ofrecido por Alvis Travels."
+  ],
+  "included": [
+   "Transporte en auto privado",
+   "Recogida y regreso al hotel",
+   "Visita a criaderos de tortugas",
+   "Visita a jardines de especias"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Tarifas de entrada a atracciones",
+   "Gastos personales"
+  ]
+ },
+ "sigiriya-kalawewa-national-park-elephant-safari": {
+  "title": "Sigiriya: safari de elefantes en el parque nacional de Kalawewa, con recogida",
+  "metaTitle": "Sigiriya: safari de elefantes en el parque nacional de Kalawew...",
+  "metaDescription": "Experiencia de medio dia en Sigiriya. . Ofrecido por Shan Jeep Safari & Tour.",
+  "shortDescription": "Experiencia de medio dia en Sigiriya. . Ofrecido por Shan Jeep Safari & Tour.",
+  "fullDescription": "Una experiencia de medio dia en Sigiriya. Feel the thrill of seeing wild elephants in their natural habitat.\n\nShan Jeep Safari & Tour la organiza, y 3 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida en el hotel desde Sigiriya, Dambulla, o Habarana, safari en jeep privado y conductor local experimentado. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 193 $ juntos en lugar de 186 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de medio dia en Sigiriya. . Ofrecido por Shan Jeep Safari & Tour."
+  ],
+  "included": [
+   "Recogida en el hotel desde Sigiriya, Dambulla, o Habarana",
+   "Safari en jeep privado",
+   "Conductor local experimentado"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "sigiriya-traditional-village-tour-with-roti": {
+  "title": "Sigiriya: tour tradicional de aldea con elaboracion de roti o almuerzo",
+  "metaTitle": "Sigiriya: tour tradicional de aldea con elaboracion de roti o ...",
+  "metaDescription": "Experiencia de 3 hora(s) en Sigiriya. . Ofrecido por Watching Lanka.",
+  "shortDescription": "Experiencia de 3 hora(s) en Sigiriya. . Ofrecido por Watching Lanka.",
+  "fullDescription": "Una experiencia de 3 hora(s) en Sigiriya. Ride a nostalgic bullock cart through the peaceful Sigiriya countryside.\n\nWatching Lanka la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye paseo en carreta de bueyes por la aldea, paseo en catamaran por el gran lago Kimbissa, visita a una casa de arcilla tradicional con bienvenida cultural y eleccion entre una clase practica de elaboracion de roti de coco o un almuerzo tradicional de Sri Lanka. No incluye recogida y regreso al hotel, propinas para conductores y anfitriones de aldea y bebidas alcoholicas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 68 $ juntos en lugar de 43 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de 3 hora(s) en Sigiriya. . Ofrecido por Watching Lanka."
+  ],
+  "included": [
+   "Paseo en carreta de bueyes por la aldea",
+   "Paseo en catamaran por el gran lago Kimbissa",
+   "Visita a una casa de arcilla tradicional con bienvenida cultural",
+   "Eleccion entre una clase practica de elaboracion de roti de coco o un almuerzo tradicional de Sri Lanka"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Propinas para conductores y anfitriones de aldea",
+   "Bebidas alcoholicas"
+  ]
+ },
+ "kandy-dambulla-sigiriya-polonnaruwa-girithale-day": {
+  "title": "Kandy: Dambulla, Sigiriya, Polonnaruwa, y Girithale, excursion de un dia",
+  "metaTitle": "Kandy: Dambulla, Sigiriya, Polonnaruwa, y Girithale, excursion...",
+  "metaDescription": "Experiencia de un dia completo en Kandy. . Ofrecido por mysrilankatrip.",
+  "shortDescription": "Experiencia de un dia completo en Kandy. . Ofrecido por mysrilankatrip.",
+  "fullDescription": "Una experiencia de un dia completo en Kandy. Explore Sigiriya, Dambulla, and Polonnaruwa in one day.\n\nmysrilankatrip la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel desde Kandy, transporte privado con aire acondicionado, conductor que habla ingles y parada en el mirador del lago Girithale. No incluye entrada a Sigiriya (35 USD por persona), entrada a Dambulla (10 USD por persona) y entrada a Polonnaruwa (35 USD por persona), por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de un dia completo en Kandy. . Ofrecido por mysrilankatrip."
+  ],
+  "included": [
+   "Recogida y regreso al hotel desde Kandy",
+   "Transporte privado con aire acondicionado",
+   "Conductor que habla ingles",
+   "Parada en el mirador del lago Girithale"
+  ],
+  "notIncluded": [
+   "Entrada a Sigiriya (35 USD por persona)",
+   "Entrada a Dambulla (10 USD por persona)",
+   "Entrada a Polonnaruwa (35 USD por persona)"
+  ]
+ },
+ "sigiriya-kaudulla-or-minneriya-national-park": {
+  "title": "Sigiriya: safari en el parque nacional de Kaudulla o Minneriya",
+  "metaTitle": "Sigiriya: safari en el parque nacional de Kaudulla o Minneriya",
+  "metaDescription": "Experiencia de medio dia en Sigiriya. . Ofrecido por Royal kandy tours.",
+  "shortDescription": "Experiencia de medio dia en Sigiriya. . Ofrecido por Royal kandy tours.",
+  "fullDescription": "Una experiencia de medio dia en Sigiriya. Feel the thrill of a wildlife safari in Kaudulla or Minneriya National Park.\n\nRoyal kandy tours la organiza, y 4 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel, safari en jeep 4x4, conductor de safari experimentado y agua embotellada fria. No incluye comidas y gastos personales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 136 $ juntos en lugar de 119 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de medio dia en Sigiriya. . Ofrecido por Royal kandy tours."
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Safari en jeep 4x4",
+   "Conductor de safari experimentado",
+   "Agua embotellada fria"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Gastos personales"
+  ]
+ },
+ "sigiriya-dambulla-13-attractions-with-kandy-drop": {
+  "title": "Sigiriya y Dambulla: 13 atracciones con regreso en Kandy",
+  "metaTitle": "Sigiriya y Dambulla: 13 atracciones con regreso en Kandy",
+  "metaDescription": "Una excursion de un dia completo desde Kandy que visita Dambulla Royal Cave Temple and Golden Temple, Nalanda Gedige, GJG7+VJ2 y Aluvihare Rock Cave Temple. Ofrec...",
+  "shortDescription": "Una excursion de un dia completo desde Kandy que visita Dambulla Royal Cave Temple and Golden Temple, Nalanda Gedige, GJG7+VJ2 y Aluvihare Rock Cave Temple. Ofrecido por mysrilankatrip.",
+  "fullDescription": "Una excursion de un dia completo desde Kandy, que recorre Dambulla Royal Cave Temple and Golden Temple, Nalanda Gedige, GJG7+VJ2 y Aluvihare Rock Cave Temple. La parada mas larga es Gunatilake Batiks, con una duracion de unos 5 horas. Hay 14 paradas en total.\n\nEl orden de la ruta es Dambulla Royal Cave Temple and Golden Temple (15 min), luego Nalanda Gedige (1h), luego GJG7+VJ2, luego Aluvihare Rock Cave Temple (3h), luego Sri Muththumari Amman Kovil - Matale,.\n\nEl precio incluye recogida en el hotel desde Sigiriya o Dambulla, transporte en vehiculo con aire acondicionado, conductor/guia que habla ingles y experiencia de aldea. No incluye tarifas de entrada a todos los sitios, comida y bebidas y propinas (opcional), por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de un dia completo desde Kandy que visita Dambulla Royal Cave Temple and Golden Temple, Nalanda Gedige, GJG7+VJ2 y Aluvihare Rock Cave Temple. Ofrecido por mysrilankatrip."
+  ],
+  "included": [
+   "Recogida en el hotel desde Sigiriya o Dambulla",
+   "Transporte en vehiculo con aire acondicionado",
+   "Conductor/guia que habla ingles",
+   "Experiencia de aldea"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a todos los sitios",
+   "Comida y bebidas",
+   "Propinas (opcional)"
+  ]
+ },
+ "sri-lanka-6n7-day-highlights-tour-sigiriya-kandy": {
+  "title": "Sri Lanka: tour de puntos destacados de 6-7 dias, Sigiriya, Kandy, y Ella",
+  "metaTitle": "Sri Lanka: tour de puntos destacados de 6-7 dias, Sigiriya, Ka...",
+  "metaDescription": "Experiencia de 7 dia(s) en Kandy. . Ofrecido por Royal kandy tours.",
+  "shortDescription": "Experiencia de 7 dia(s) en Kandy. . Ofrecido por Royal kandy tours.",
+  "fullDescription": "Una experiencia de 7 dia(s) en Kandy. Immerse yourself in Sri Lanka's rich history and culture on a 7-day tour.\n\nRoyal kandy tours la organiza, y 10 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al aeropuerto, experiencia nocturna en templo cerca de Ridee Viharaya, desayuno budista tradicional y ceremonia de puja a Buda y exploracion de la antigua ciudad de Anuradhapura. No incluye su alojamiento, comidas no mencionadas y gastos personales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 1014 $ juntos en lugar de 1014 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de 7 dia(s) en Kandy. . Ofrecido por Royal kandy tours."
+  ],
+  "included": [
+   "Recogida y regreso al aeropuerto",
+   "Experiencia nocturna en templo cerca de Ridee Viharaya",
+   "Desayuno budista tradicional y ceremonia de puja a Buda",
+   "Exploracion de la antigua ciudad de Anuradhapura"
+  ],
+  "notIncluded": [
+   "Su alojamiento",
+   "Comidas no mencionadas",
+   "Gastos personales"
+  ]
+ },
  "bentota-river-safari-temple-turtle-hatchery-brief": {
   "title": "Bentota: safari fluvial, templo, criadero de tortugas, y Brief Garden",
   "metaTitle": "Bentota: safari fluvial, templo, criadero de tortugas, y Brief...",
@@ -60952,7 +61467,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "included": [
    "Recogida y regreso al hotel",
    "Transporte privado con aire acondicionado",
-   "Safari en barco por el rio Bentota",
+   "Safari en barco por el rio Bentota.",
    "Conductor/guia que habla ingles"
   ],
   "notIncluded": [
@@ -60978,6 +61493,25 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Cena"
+  ]
+ },
+ "mirissa-whale-snorkeling-tour-with-meal": {
+  "title": "Mirissa: tour de esnorquel con ballenas con comida",
+  "metaTitle": "Mirissa: tour de esnorquel con ballenas con comida",
+  "metaDescription": "Una excursion de medio dia desde Mirissa que visita Tuk tuk y Mirissa. Ofrecido por Mirissa Whale & Turtle Snorkeling Club.",
+  "shortDescription": "Una excursion de medio dia desde Mirissa que visita Tuk tuk y Mirissa. Ofrecido por Mirissa Whale & Turtle Snorkeling Club.",
+  "fullDescription": "Una excursion de medio dia desde Mirissa, que recorre Tuk tuk y Mirissa. La parada mas larga es Mirissa, con una duracion de unos 4 horas. Hay 2 paradas en total.\n\nEl orden de la ruta es Tuk tuk (15 min), luego Mirissa (4h).\n\nEl precio incluye barco privado o compartido (a elegir al reservar), guias marinos profesionales, charla de seguridad antes de entrar al agua y navegacion experta de avistamiento de ballenas por un capitan experimentado. No incluye , por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de medio dia desde Mirissa que visita Tuk tuk y Mirissa. Ofrecido por Mirissa Whale & Turtle Snorkeling Club."
+  ],
+  "included": [
+   "Barco privado o compartido (a elegir al reservar)",
+   "Guias marinos profesionales",
+   "Charla de seguridad antes de entrar al agua",
+   "Navegacion experta de avistamiento de ballenas por un capitan experimentado"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "from-colombo-galle-fort-madu-river-safari-escape": {
@@ -61517,6 +62051,27 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tarifas de entrada"
   ]
  },
+ "sigiriya-lion-rock-hike-minneriya-national-park": {
+  "title": "Caminata a la Roca del Leon de Sigiriya y safari en el parque nacional de Minneriya",
+  "metaTitle": "Caminata a la Roca del Leon de Sigiriya y safari en el parque ...",
+  "metaDescription": "Una excursion de medio dia desde Sigiriya que visita Jeep / SUV, Sigiriya Lion Rock y Minneriya National Park. Ofrecido por Online Sigiriya.",
+  "shortDescription": "Una excursion de medio dia desde Sigiriya que visita Jeep / SUV, Sigiriya Lion Rock y Minneriya National Park. Ofrecido por Online Sigiriya.",
+  "fullDescription": "Una excursion de medio dia desde Sigiriya, que recorre Jeep / SUV, Sigiriya Lion Rock y Minneriya National Park. La parada mas larga es Minneriya National Park, con una duracion de unos 4 horas. Hay 3 paradas en total.\n\nEl orden de la ruta es Jeep / SUV (30 min), luego Sigiriya Lion Rock (3h), luego Minneriya National Park (4h).\n\nEl precio incluye jeep de safari 4x4 privado para maxima comodidad, conductor de safari profesional con amplio conocimiento de la fauna, guia-rastreador licenciado del parque nacional y asistencia en ingles durante todo el tour. No incluye entrada a la Roca del Leon de Sigiriya (35 USD/pers.), entrada al parque nacional de Minneriya (35 USD/pers.) y guia oficial de Sigiriya, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de medio dia desde Sigiriya que visita Jeep / SUV, Sigiriya Lion Rock y Minneriya National Park. Ofrecido por Online Sigiriya."
+  ],
+  "included": [
+   "Jeep de safari 4x4 privado para maxima comodidad",
+   "Conductor de safari profesional con amplio conocimiento de la fauna",
+   "Guia-rastreador licenciado del parque nacional",
+   "Asistencia en ingles durante todo el tour"
+  ],
+  "notIncluded": [
+   "Entrada a la Roca del Leon de Sigiriya (35 USD/pers.)",
+   "Entrada al parque nacional de Minneriya (35 USD/pers.)",
+   "Guia oficial de Sigiriya"
+  ]
+ },
  "from-colombo-exclusive-madu-river-safari-turtle": {
   "title": "Desde Colombo: safari exclusivo en el rio Madu y criadero de tortugas",
   "metaTitle": "Desde Colombo: safari exclusivo en el rio Madu y criadero de t...",
@@ -61808,6 +62363,25 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entradas para la torre Lotus y el templo Gangaramaya"
   ]
  },
+ "mirissa-whale-snorkeling-tour-with-free-breakfast": {
+  "title": "Mirissa: tour de esnorquel con ballenas con desayuno gratis",
+  "metaTitle": "Mirissa: tour de esnorquel con ballenas con desayuno gratis",
+  "metaDescription": "Una excursion de medio dia desde Mirissa que visita Mirissa Harbor. Ofrecido por Mirissa Whale & Turtle Snorkeling Club.",
+  "shortDescription": "Una excursion de medio dia desde Mirissa que visita Mirissa Harbor. Ofrecido por Mirissa Whale & Turtle Snorkeling Club.",
+  "fullDescription": "Una excursion de medio dia desde Mirissa, que recorre Mirissa Harbor.\n\nEl precio incluye barco privado o compartido (a elegir al reservar), guias marinos profesionales, charla de seguridad antes de entrar al agua y navegacion experta de avistamiento de ballenas por un capitan experimentado. No incluye , por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de medio dia desde Mirissa que visita Mirissa Harbor. Ofrecido por Mirissa Whale & Turtle Snorkeling Club."
+  ],
+  "included": [
+   "Barco privado o compartido (a elegir al reservar)",
+   "Guias marinos profesionales",
+   "Charla de seguridad antes de entrar al agua",
+   "Navegacion experta de avistamiento de ballenas por un capitan experimentado"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "kandy-private-tuk-tuk-tour-with-tea-tasting-hotel": {
   "title": "Kandy: tour privado en tuk-tuk con degustacion de te y recogida en el hotel",
   "metaTitle": "Kandy: tour privado en tuk-tuk con degustacion de te y recogid...",
@@ -61826,6 +62400,25 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas",
    "Gastos personales"
+  ]
+ },
+ "mirissa-whale-snorkeling-tour-with-breakfast": {
+  "title": "Mirissa: tour de esnorquel con ballenas con desayuno",
+  "metaTitle": "Mirissa: tour de esnorquel con ballenas con desayuno",
+  "metaDescription": "Una excursion de medio dia desde Mirissa que visita Tuk tuk y Mirissa. Ofrecido por Mirissa Whale & Turtle Snorkeling Club.",
+  "shortDescription": "Una excursion de medio dia desde Mirissa que visita Tuk tuk y Mirissa. Ofrecido por Mirissa Whale & Turtle Snorkeling Club.",
+  "fullDescription": "Una excursion de medio dia desde Mirissa, que recorre Tuk tuk y Mirissa. La parada mas larga es Mirissa, con una duracion de unos 4 horas. Hay 2 paradas en total.\n\nEl orden de la ruta es Tuk tuk (15 min), luego Mirissa (4h).\n\nEl precio incluye barco privado o compartido (a elegir al reservar), guias marinos profesionales, charla de seguridad antes de entrar al agua y navegacion experta de avistamiento de ballenas por un capitan experimentado. No incluye , por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de medio dia desde Mirissa que visita Tuk tuk y Mirissa. Ofrecido por Mirissa Whale & Turtle Snorkeling Club."
+  ],
+  "included": [
+   "Barco privado o compartido (a elegir al reservar)",
+   "Guias marinos profesionales",
+   "Charla de seguridad antes de entrar al agua",
+   "Navegacion experta de avistamiento de ballenas por un capitan experimentado"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "sri-lanka-private-car-driver": {
