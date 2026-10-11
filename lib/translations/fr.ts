@@ -62473,6 +62473,530 @@ export const FR_TOURS: Record<string, TourT> = {
    "Hebergement"
   ]
  },
+ "kandy-to-ella-go-by-car-to-nanuoya-join": {
+  "title": "De Kandy a Ella : en voiture jusqu'a Nanuoya puis en train vers Ella",
+  "metaTitle": "De Kandy a Ella : en voiture jusqu'a Nanuoya puis en train ver...",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Kandy passant par Ramboda, Nuwara Eliya, Railway Station - Nanuoya et Train. Propose par Kandy Explore Tours.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Kandy passant par Ramboda, Nuwara Eliya, Railway Station - Nanuoya et Train. Propose par Kandy Explore Tours.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Kandy, passant par Ramboda, Nuwara Eliya, Railway Station - Nanuoya et Train. Il y a 5 arrets au total.\n\nL'ordre de visite est Ramboda (1 min), puis Nuwara Eliya (30 min), puis Railway Station - Nanuoya, puis Train, puis Finish at:.\n\nLe prix comprend billets de train (compartiment de 2e ou 3e classe), prise en charge a l'hotel, prise en charge depuis Kandy et guide experimente. Il ne comprend pas nous ne delivrons pas de billets le mercredi, billets d'entree et depenses personnelles, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Kandy passant par Ramboda, Nuwara Eliya, Railway Station - Nanuoya et Train. Propose par Kandy Explore Tours."
+  ],
+  "included": [
+   "Billets de train (compartiment de 2e ou 3e classe)",
+   "Prise en charge a l'hotel",
+   "Prise en charge depuis Kandy",
+   "Guide experimente"
+  ],
+  "notIncluded": [
+   "Nous ne delivrons pas de billets le mercredi",
+   "Billets d'entree",
+   "Depenses personnelles"
+  ]
+ },
+ "from-kandy-sigiriya-rock-dambulla-cave-safari-day": {
+  "title": "Depuis Kandy : rocher de Sigiriya, grotte de Dambulla, et safari, excursion d'une journee",
+  "metaTitle": "Depuis Kandy : rocher de Sigiriya, grotte de Dambulla, et safa...",
+  "metaDescription": "Experience d'une journee complete a Kandy. . Propose par Lanka Budget Tours.",
+  "shortDescription": "Experience d'une journee complete a Kandy. . Propose par Lanka Budget Tours.",
+  "fullDescription": "Une experience d'une journee complete a Kandy. Climb the iconic Sigiriya Rock Fortress.\n\nLanka Budget Tours s'en charge, et 9 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend eau en bouteille fournie pendant toute la visite, transport confortable depuis Kandy, guide expert accompagnant pendant toute la visite et experience de safari animalier au parc eco de Hurulu, a Minneriya, ou au parc national de Kaudulla. Il ne comprend pas repas (dejeuner), depenses personnelles et achats et pourboires pour le guide et le chauffeur (optionnel), prevoyez donc un budget separe.",
+  "highlights": [
+   "Experience d'une journee complete a Kandy. . Propose par Lanka Budget Tours."
+  ],
+  "included": [
+   "Eau en bouteille fournie pendant toute la visite.",
+   "Transport confortable depuis Kandy.",
+   "Guide expert accompagnant pendant toute la visite.",
+   "Experience de safari animalier au parc eco de Hurulu, a Minneriya, ou au parc national de Kaudulla."
+  ],
+  "notIncluded": [
+   "Repas (dejeuner)",
+   "Depenses personnelles et achats.",
+   "Pourboires pour le guide et le chauffeur (optionnel)."
+  ]
+ },
+ "ella-tea-plantations-and-nine-arch-bridge-cycling": {
+  "title": "Ella : plantations de the et visite a velo du pont des Neuf Arches",
+  "metaTitle": "Ella : plantations de the et visite a velo du pont des Neuf Ar...",
+  "metaDescription": "Experience d'une demi-journee a Ella. . Propose par Lanka Travel Hub.",
+  "shortDescription": "Experience d'une demi-journee a Ella. . Propose par Lanka Travel Hub.",
+  "fullDescription": "Une experience d'une demi-journee a Ella. Cycle through scenic tea plantations and mountain landscapes.\n\nLanka Travel Hub s'en charge, et 7 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge et depose a l'hotel depuis Ella, Bandarawela, ou Haputale, velo et casque, guide cycliste anglophone, vehicule de soutien de secours, eau en bouteille et the/cafe et collations. Il ne comprend pas dejeuner et depenses personnelles, nourriture et boissons supplementaires non mentionnees et pourboires, prevoyez donc un budget separe. Deux voyageurs paient 160 $ ensemble plutot que 107 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Experience d'une demi-journee a Ella. . Propose par Lanka Travel Hub."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel depuis Ella, Bandarawela, ou Haputale",
+   "Velo et casque",
+   "Guide cycliste anglophone",
+   "Vehicule de soutien de secours",
+   "Eau en bouteille",
+   "The/cafe et collations"
+  ],
+  "notIncluded": [
+   "Dejeuner et depenses personnelles",
+   "Nourriture et boissons supplementaires non mentionnees",
+   "Pourboires"
+  ]
+ },
+ "ella-countryside-bike-tour-with-ravana-and": {
+  "title": "Ella : circuit a velo a la campagne avec les chutes Ravana et Ellawala",
+  "metaTitle": "Ella : circuit a velo a la campagne avec les chutes Ravana et ...",
+  "metaDescription": "Experience d'une demi-journee a Ella. . Propose par Lanka Travel Hub.",
+  "shortDescription": "Experience d'une demi-journee a Ella. . Propose par Lanka Travel Hub.",
+  "fullDescription": "Une experience d'une demi-journee a Ella. Cycle through scenic mountain roads and tea plantation landscapes.\n\nLanka Travel Hub s'en charge, et 7 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge et depose a l'hotel depuis Ella, Bandarawela, ou Haputale, velo et casque, guide cycliste anglophone, vehicule de soutien de secours, eau en bouteille et the/cafe et collations. Il ne comprend pas dejeuner et depenses personnelles, nourriture et boissons supplementaires non mentionnees et pourboires, prevoyez donc un budget separe. Deux voyageurs paient 193 $ ensemble plutot que 134 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Experience d'une demi-journee a Ella. . Propose par Lanka Travel Hub."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel depuis Ella, Bandarawela, ou Haputale",
+   "Velo et casque",
+   "Guide cycliste anglophone",
+   "Vehicule de soutien de secours",
+   "Eau en bouteille",
+   "The/cafe et collations"
+  ],
+  "notIncluded": [
+   "Dejeuner et depenses personnelles",
+   "Nourriture et boissons supplementaires non mentionnees",
+   "Pourboires"
+  ]
+ },
+ "ella-countryside-cycling-tour-with-waterfalls-and": {
+  "title": "Ella : circuit cycliste a la campagne avec cascades et Demodara",
+  "metaTitle": "Ella : circuit cycliste a la campagne avec cascades et Demodara",
+  "metaDescription": "Experience d'une journee complete a Ella. . Propose par Lanka Travel Hub.",
+  "shortDescription": "Experience d'une journee complete a Ella. . Propose par Lanka Travel Hub.",
+  "fullDescription": "Une experience d'une journee complete a Ella. Cycle through scenic tea plantations and mountain roads.\n\nLanka Travel Hub s'en charge, et 7 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge et depose a l'hotel depuis Ella, Bandarawela, ou Haputale, velo et casque, guide cycliste anglophone, vehicule de soutien pendant toute la visite, eau en bouteille et the/cafe et collations. Il ne comprend pas dejeuner et depenses personnelles, nourriture et boissons supplementaires non mentionnees et pourboires, prevoyez donc un budget separe. Deux voyageurs paient 193 $ ensemble plutot que 134 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Experience d'une journee complete a Ella. . Propose par Lanka Travel Hub."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel depuis Ella, Bandarawela, ou Haputale",
+   "Velo et casque",
+   "Guide cycliste anglophone",
+   "Vehicule de soutien pendant toute la visite",
+   "Eau en bouteille",
+   "The/cafe et collations"
+  ],
+  "notIncluded": [
+   "Dejeuner et depenses personnelles",
+   "Nourriture et boissons supplementaires non mentionnees",
+   "Pourboires"
+  ]
+ },
+ "talpe-traditional-ring-gemstone-workshop": {
+  "title": "Talpe : atelier traditionnel de bague et de pierre precieuse",
+  "metaTitle": "Talpe : atelier traditionnel de bague et de pierre precieuse",
+  "metaDescription": "Experience de 3 heure(s) a Galle. . Propose par True Trails Sri Lanka.",
+  "shortDescription": "Experience de 3 heure(s) a Galle. . Propose par True Trails Sri Lanka.",
+  "fullDescription": "Une experience de 3 heure(s) a Galle. Feel the thrill of creating your own ring in a hands-on workshop.\n\nTrue Trails Sri Lanka s'en charge, et 4 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend tous les outils, instruction experte, acces a la fabrique et rafraichissements. Il ne comprend pas le materiau en argent utilise pendant le cours et toute pierre precieuse restent la propriete de la fabrique et ne sont pas inclus a emporter, prevoyez donc un budget separe.",
+  "highlights": [
+   "Experience de 3 heure(s) a Galle. . Propose par True Trails Sri Lanka."
+  ],
+  "included": [
+   "Tous les outils",
+   "instruction experte",
+   "acces a la fabrique",
+   "rafraichissements"
+  ],
+  "notIncluded": [
+   "Le materiau en argent utilise pendant le cours et toute pierre precieuse restent la propriete de la fabrique et ne sont pas inclus a emporter."
+  ]
+ },
+ "haputale-to-ella-guided-cycling-tour-with-pickup": {
+  "title": "De Haputale a Ella : circuit cycliste guide avec prise en charge",
+  "metaTitle": "De Haputale a Ella : circuit cycliste guide avec prise en charge",
+  "metaDescription": "Experience d'une demi-journee a Ella. . Propose par Lanka Travel Hub.",
+  "shortDescription": "Experience d'une demi-journee a Ella. . Propose par Lanka Travel Hub.",
+  "fullDescription": "Une experience d'une demi-journee a Ella. Cycle through the scenic highlands of Sri Lanka with a guide.\n\nLanka Travel Hub s'en charge, et 9 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend velo et casque, eau en bouteille, collations et rafraichissements de the ou cafe. Il ne comprend pas nourriture et boissons supplementaires non specifiees, depenses personnelles et pourboires (optionnel), prevoyez donc un budget separe. Deux voyageurs paient 140 $ ensemble plutot que 107 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Experience d'une demi-journee a Ella. . Propose par Lanka Travel Hub."
+  ],
+  "included": [
+   "Velo et casque",
+   "Eau en bouteille",
+   "Collations",
+   "Rafraichissements de the ou cafe"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons supplementaires non specifiees",
+   "Depenses personnelles",
+   "Pourboires (optionnel)"
+  ]
+ },
+ "from-kandy-sigiriya-dambulla-pidurangala-day-trip": {
+  "title": "Depuis Kandy : Sigiriya, Dambulla, et Pidurangala, excursion d'une journee en voiture",
+  "metaTitle": "Depuis Kandy : Sigiriya, Dambulla, et Pidurangala, excursion d...",
+  "metaDescription": "Experience d'une journee complete a Kandy. . Propose par Kandy Explore Tours.",
+  "shortDescription": "Experience d'une journee complete a Kandy. . Propose par Kandy Explore Tours.",
+  "fullDescription": "Une experience d'une journee complete a Kandy. Marvel at the ancient rock fortress of Sigiriya and its stunning views.\n\nKandy Explore Tours s'en charge, et 12 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge et depose a l'hotel, visite privee depuis Kandy, voiture confortable climatisee et excursions privees d'une journee. Il ne comprend pas repas et frais d'entree et billets, prevoyez donc un budget separe. Deux voyageurs paient 117 $ ensemble plutot que 117 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Experience d'une journee complete a Kandy. . Propose par Kandy Explore Tours."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel",
+   "Visite privee depuis Kandy",
+   "Voiture confortable climatisee",
+   "Excursions privees d'une journee"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Frais d'entree et billets"
+  ]
+ },
+ "kandy-sigiriya-dambulla-caves-tuk-tuk-trip": {
+  "title": "Kandy : Sigiriya et grottes de Dambulla, excursion en tuk-tuk",
+  "metaTitle": "Kandy : Sigiriya et grottes de Dambulla, excursion en tuk-tuk",
+  "metaDescription": "Experience d'une journee complete a Kandy. . Propose par Ceylon CK Tours.",
+  "shortDescription": "Experience d'une journee complete a Kandy. . Propose par Ceylon CK Tours.",
+  "fullDescription": "Une experience d'une journee complete a Kandy. Explore hidden backroads and scenic viewpoints in a private, open-air Tuk-Tuk.\n\nCeylon CK Tours s'en charge, et 6 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge et depose privees a l'hotel a Kandy, transport en tuk-tuk confortable et propre, chauffeur et guide local anglophone experimente et eau en bouteille fraiche et legeres collations locales. Il ne comprend pas billets d'entree a la forteresse rocheuse de Sigiriya, billets d'entree au temple des grottes de Dambulla et dejeuner et boissons alcoolisees, prevoyez donc un budget separe. Deux voyageurs paient 81 $ ensemble plutot que 81 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Experience d'une journee complete a Kandy. . Propose par Ceylon CK Tours."
+  ],
+  "included": [
+   "Prise en charge et depose privees a l'hotel a Kandy",
+   "Transport en tuk-tuk confortable et propre",
+   "Chauffeur et guide local anglophone experimente",
+   "Eau en bouteille fraiche et legeres collations locales"
+  ],
+  "notIncluded": [
+   "Billets d'entree a la forteresse rocheuse de Sigiriya",
+   "Billets d'entree au temple des grottes de Dambulla",
+   "Dejeuner et boissons alcoolisees"
+  ]
+ },
+ "colombo-airport-private-transfer-to": {
+  "title": "Aeroport de Colombo : transfert prive vers Sigiriya/Dambulla/Kandy",
+  "metaTitle": "Aeroport de Colombo : transfert prive vers Sigiriya/Dambulla/K...",
+  "metaDescription": "Experience de 0,5 heure(s) a Colombo. . Propose par Sun & sand travel ceylon.",
+  "shortDescription": "Experience de 0,5 heure(s) a Colombo. . Propose par Sun & sand travel ceylon.",
+  "fullDescription": "Une experience de 0,5 heure(s) a Colombo. Meet & greet service at Colombo Airport with private vehicle.\n\nSun & sand travel ceylon s'en charge, et 12 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend service d'accueil a l'aeroport de Colombo (CMB), vehicule prive climatise, chauffeur anglophone professionnel, depose a l'hotel a Sigiriya, Dambulla, Habarana, Kandalama, ou Kandy, frais de carburant et de peage autoroutier, service de transfert aeroport et ville 24h/24 et assistance aux bagages. Il ne comprend pas le depassement de la limite kilometrique entraine un supplement de 0,65 USD par km supplementaire par groupe, frais d'entree aux attractions et monuments et billet d'entree au temple des grottes de Dambulla, prevoyez donc un budget separe. Deux voyageurs paient 46 $ ensemble plutot que 46 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Experience de 0,5 heure(s) a Colombo. . Propose par Sun & sand travel ceylon."
+  ],
+  "included": [
+   "Service d'accueil a l'aeroport de Colombo (CMB)",
+   "Vehicule prive climatise",
+   "Chauffeur anglophone professionnel",
+   "Depose a l'hotel a Sigiriya, Dambulla, Habarana, Kandalama, ou Kandy",
+   "Frais de carburant et de peage autoroutier",
+   "Service de transfert aeroport et ville 24h/24",
+   "Assistance aux bagages"
+  ],
+  "notIncluded": [
+   "Le depassement de la limite kilometrique entraine un supplement de 0,65 USD par km supplementaire par groupe",
+   "Frais d'entree aux attractions et monuments",
+   "Billet d'entree au temple des grottes de Dambulla"
+  ]
+ },
+ "bambarakanda-waterfall-hike-lanka-ella-trekking": {
+  "title": "Randonnee a la cascade de Bambarakanda et trekking Lanka Ella",
+  "metaTitle": "Randonnee a la cascade de Bambarakanda et trekking Lanka Ella",
+  "metaDescription": "Une excursion d'une journee complete au depart de Ella passant par Haputale, Bambarakanda Falls, Bambarakanda Falls et Lanka Ella Waterfall. Propose par Explore C...",
+  "shortDescription": "Une excursion d'une journee complete au depart de Ella passant par Haputale, Bambarakanda Falls, Bambarakanda Falls et Lanka Ella Waterfall. Propose par Explore Ceylona.",
+  "fullDescription": "Une excursion d'une journee complete au depart de Ella, passant par Haputale, Bambarakanda Falls, Bambarakanda Falls et Lanka Ella Waterfall. Le plus long arret est Bambarakanda Falls, d'environ 3 heures. Il y a 5 arrets au total.\n\nL'ordre de visite est Haputale (30 min), puis Bambarakanda Falls (30 min), puis Bambarakanda Falls (3h), puis Lanka Ella Waterfall (2h), puis Ella, Sri Lanka (50 min).\n\nLe prix comprend transport sur et confortable, guide anglophone professionnel, photographie et videographie (drone et camera d'action) et tous les billets d'entree. Il ne comprend pas , prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une journee complete au depart de Ella passant par Haputale, Bambarakanda Falls, Bambarakanda Falls et Lanka Ella Waterfall. Propose par Explore Ceylona."
+  ],
+  "included": [
+   "Transport sur et confortable",
+   "Guide anglophone professionnel",
+   "Photographie et videographie (drone et camera d'action)",
+   "Tous les billets d'entree"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "sri-lanka-guided-tour-with-temple-of-the-rawan": {
+  "title": "Sri Lanka : visite guidee avec le temple de Rawan",
+  "metaTitle": "Sri Lanka : visite guidee avec le temple de Rawan",
+  "metaDescription": "Experience d'une journee complete a Colombo. . Propose par Delhi Agra Jaipur Holiday.",
+  "shortDescription": "Experience d'une journee complete a Colombo. . Propose par Delhi Agra Jaipur Holiday.",
+  "fullDescription": "Une experience d'une journee complete a Colombo. Immerse yourself in the vibrant culture of Colombo, Sri Lanka's capital.\n\nDelhi Agra Jaipur Holiday s'en charge, et 12 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend visite de Colombo, visite de Kandy, visite de Nuwara Eliya et visite de Sigiriya. Il ne comprend pas repas non mentionnes, depenses personnelles et assurance voyage, prevoyez donc un budget separe.",
+  "highlights": [
+   "Experience d'une journee complete a Colombo. . Propose par Delhi Agra Jaipur Holiday."
+  ],
+  "included": [
+   "Visite de Colombo",
+   "Visite de Kandy",
+   "Visite de Nuwara Eliya",
+   "Visite de Sigiriya"
+  ],
+  "notIncluded": [
+   "Repas non mentionnes",
+   "Depenses personnelles",
+   "Assurance voyage"
+  ]
+ },
+ "sigiriya-pidurangala-rock-sunrise-or-sunset-tuk": {
+  "title": "Sigiriya : rocher de Pidurangala au lever ou coucher du soleil en tuk-tuk",
+  "metaTitle": "Sigiriya : rocher de Pidurangala au lever ou coucher du soleil...",
+  "metaDescription": "Une excursion de 3 heure(s) au depart de Sigiriya passant par Tuk tuk et Pidurangala. Propose par Ceyloney Premium.",
+  "shortDescription": "Une excursion de 3 heure(s) au depart de Sigiriya passant par Tuk tuk et Pidurangala. Propose par Ceyloney Premium.",
+  "fullDescription": "Une excursion de 3 heure(s) au depart de Sigiriya, passant par Tuk tuk et Pidurangala. Il y a 2 arrets au total.\n\nL'ordre de visite est Tuk tuk (15 min), puis Pidurangala.\n\nLe prix comprend transport prive en tuk-tuk, randonnee guidee a Pidurangala, randonnee au rocher-lion de Sigiriya (optionnel) et prise en charge et depose a l'hotel depuis Sigiriya ou Dambulla. Il ne comprend pas frais d'entree au rocher de Pidurangala (5 USD), prevoyez donc un budget separe. Deux voyageurs paient 89 $ ensemble plutot que 76 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Une excursion de 3 heure(s) au depart de Sigiriya passant par Tuk tuk et Pidurangala. Propose par Ceyloney Premium."
+  ],
+  "included": [
+   "Transport prive en tuk-tuk",
+   "Randonnee guidee a Pidurangala",
+   "Randonnee au rocher-lion de Sigiriya (optionnel)",
+   "Prise en charge et depose a l'hotel depuis Sigiriya ou Dambulla"
+  ],
+  "notIncluded": [
+   "Frais d'entree au rocher de Pidurangala (5 USD)"
+  ]
+ },
+ "sigiriya-minneriya-national-park-elephant-safari": {
+  "title": "Sigiriya : safari aux elephants au parc national de Minneriya avec guide",
+  "metaTitle": "Sigiriya : safari aux elephants au parc national de Minneriya ...",
+  "metaDescription": "Experience d'une demi-journee a Sigiriya. . Propose par Online Sigiriya.",
+  "shortDescription": "Experience d'une demi-journee a Sigiriya. . Propose par Online Sigiriya.",
+  "fullDescription": "Une experience d'une demi-journee a Sigiriya. Watch elephants calmly without chasing or disturbing their natural behavior.\n\nOnline Sigiriya s'en charge, et 6 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend guide local passionne qui respecte les elephants et la faune, du temps pour observer les elephants calmement a votre rythme, eau en bouteille offerte pendant le safari, une experience de safari memorable et emouvante, pas juste un trajet et explications sur le comportement des elephants sauvages par votre guide. Il ne comprend pas billets d'entree au parc national de Minneriya, pourboires pour le guide/chauffeur (optionnel) et nourriture ou repas, prevoyez donc un budget separe. Deux voyageurs paient 112 $ ensemble plutot que 111 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Experience d'une demi-journee a Sigiriya. . Propose par Online Sigiriya."
+  ],
+  "included": [
+   "Guide local passionne qui respecte les elephants et la faune",
+   "Du temps pour observer les elephants calmement a votre rythme",
+   "Eau en bouteille offerte pendant le safari",
+   "Une experience de safari memorable et emouvante, pas juste un trajet",
+   "Explications sur le comportement des elephants sauvages par votre guide"
+  ],
+  "notIncluded": [
+   "Billets d'entree au parc national de Minneriya",
+   "Pourboires pour le guide/chauffeur (optionnel)",
+   "Nourriture ou repas"
+  ]
+ },
+ "mirissa-catch-cook-fishing-with-breakfast": {
+  "title": "Mirissa : peche attrape-et-cuisine avec petit-dejeuner",
+  "metaTitle": "Mirissa : peche attrape-et-cuisine avec petit-dejeuner",
+  "metaDescription": "Experience d'une demi-journee a Mirissa. . Propose par Turtle Snorkeling Mirissa by Blue Horizon.",
+  "shortDescription": "Experience d'une demi-journee a Mirissa. . Propose par Turtle Snorkeling Mirissa by Blue Horizon.",
+  "fullDescription": "Une experience d'une demi-journee a Mirissa. Experience a unique \\.\n\nTurtle Snorkeling Mirissa by Blue Horizon s'en charge, et 8 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend charter de bateau prive avec capitaine et equipage professionnels, cannes a peche de haute qualite, equipement de traine, et appats frais, petit-dejeuner frais prepare servi a bord, preparation locale de la peche cuisinee (accompagnement ou poisson a emporter), boissons gazeuses et eau en bouteille offertes et gilets de sauvetage et tout l'equipement de securite necessaire. Il ne comprend pas depose a l'hotel (la visite se termine au port de Mirissa), pourboires pour l'equipage (optionnel) et boissons alcoolisees, prevoyez donc un budget separe.",
+  "highlights": [
+   "Experience d'une demi-journee a Mirissa. . Propose par Turtle Snorkeling Mirissa by Blue Horizon."
+  ],
+  "included": [
+   "Charter de bateau prive avec capitaine et equipage professionnels",
+   "Cannes a peche de haute qualite, equipement de traine, et appats frais",
+   "Petit-dejeuner frais prepare servi a bord",
+   "Preparation locale de la peche cuisinee (accompagnement ou poisson a emporter)",
+   "Boissons gazeuses et eau en bouteille offertes",
+   "Gilets de sauvetage et tout l'equipement de securite necessaire"
+  ],
+  "notIncluded": [
+   "Depose a l'hotel (la visite se termine au port de Mirissa)",
+   "Pourboires pour l'equipage (optionnel)",
+   "Boissons alcoolisees"
+  ]
+ },
+ "colombo-private-city-tour-by-car-with-expert": {
+  "title": "Colombo : visite privee de la ville en voiture avec guide local expert",
+  "metaTitle": "Colombo : visite privee de la ville en voiture avec guide loca...",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Colombo passant par Colombo Fort Old Lighthouse & Clock Tower, Colombo Port Maritime Museum, Old Parliament Building...",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Colombo passant par Colombo Fort Old Lighthouse & Clock Tower, Colombo Port Maritime Museum, Old Parliament Building et Galle Face Green. Propose par Sri Lanka car and private driver hire.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Colombo, passant par Colombo Fort Old Lighthouse & Clock Tower, Colombo Port Maritime Museum, Old Parliament Building et Galle Face Green. Il y a 15 arrets au total.\n\nL'ordre de visite est Colombo Fort Old Lighthouse & Clock Tower (10 min), puis Colombo Port Maritime Museum (10 min), puis Old Parliament Building (10 min), puis Galle Face Green (20 min), puis Gangaramaya Temple (10 min).\n\nLe prix comprend voiture privee climatisee avec chauffeur-guide, eau de noix de coco king coconut (boisson de bienvenue), eau en bouteille et tous les frais de parking. Il ne comprend pas billets pour le temple Gangaramaya et la tour Lotus, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Colombo passant par Colombo Fort Old Lighthouse & Clock Tower, Colombo Port Maritime Museum, Old Parliament Building et Galle Face Green. Propose par Sri Lanka car and private driver hire."
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide",
+   "Eau de noix de coco king coconut (boisson de bienvenue)",
+   "Eau en bouteille",
+   "Tous les frais de parking"
+  ],
+  "notIncluded": [
+   "Billets pour le temple Gangaramaya et la tour Lotus"
+  ]
+ },
+ "kandy-nuwara-eliya-scenic-tour-ella-train-drop": {
+  "title": "Kandy : visite panoramique de Nuwara Eliya et depose en train vers Ella",
+  "metaTitle": "Kandy : visite panoramique de Nuwara Eliya et depose en train ...",
+  "metaDescription": "Experience d'une journee complete a Kandy. . Propose par Heritage Tours Sri Lanka.",
+  "shortDescription": "Experience d'une journee complete a Kandy. . Propose par Heritage Tours Sri Lanka.",
+  "fullDescription": "Une experience d'une journee complete a Kandy. Savor the flavors of freshly brewed Ceylon tea at a working tea factory.\n\nHeritage Tours Sri Lanka s'en charge, et 12 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend transport en tuk-tuk/mini voiture (selon l'option choisie), prise en charge a l'hotel a Kandy, vehicule prive climatise et chauffeur-guide local experimente. Il ne comprend pas repas, depenses personnelles et frais d'entree, prevoyez donc un budget separe. Deux voyageurs paient 99 $ ensemble plutot que 99 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Experience d'une journee complete a Kandy. . Propose par Heritage Tours Sri Lanka."
+  ],
+  "included": [
+   "Transport en tuk-tuk/mini voiture (selon l'option choisie)",
+   "Prise en charge a l'hotel a Kandy",
+   "Vehicule prive climatise",
+   "Chauffeur-guide local experimente"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Depenses personnelles",
+   "Frais d'entree"
+  ]
+ },
+ "sri-lanka-3-day-rainforest-hike-whale-watching": {
+  "title": "Sri Lanka : randonnee en foret tropicale de 3 jours, observation des baleines, et visite du fort",
+  "metaTitle": "Sri Lanka : randonnee en foret tropicale de 3 jours, observati...",
+  "metaDescription": "Experience de 3 jour(s) a Galle. . Propose par Believe it tours.",
+  "shortDescription": "Experience de 3 jour(s) a Galle. . Propose par Believe it tours.",
+  "fullDescription": "Une experience de 3 jour(s) a Galle. Experience the thrill of whale watching in Mirissa.\n\nBelieve it tours s'en charge, et 11 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge et depose a l'hotel, billets d'entree, visite d'observation des baleines avec petit-dejeuner et aventure de plongee avec tuba. Il ne comprend pas hebergement, diner et depenses personnelles, prevoyez donc un budget separe.",
+  "highlights": [
+   "Experience de 3 jour(s) a Galle. . Propose par Believe it tours."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel",
+   "Billets d'entree",
+   "Visite d'observation des baleines avec petit-dejeuner",
+   "Aventure de plongee avec tuba"
+  ],
+  "notIncluded": [
+   "Hebergement",
+   "Diner",
+   "Depenses personnelles"
+  ]
+ },
+ "capital-city-tour-by-ceylon-tuk-tuk": {
+  "title": "Visite de la capitale en tuk-tuk Ceylon",
+  "metaTitle": "Visite de la capitale en tuk-tuk Ceylon",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Colombo passant par Tuk tuk, Tuk tuk et Colombo Town Hall. Propose par CEYLON TUK TUK.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Colombo passant par Tuk tuk, Tuk tuk et Colombo Town Hall. Propose par CEYLON TUK TUK.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Colombo, passant par Tuk tuk, Tuk tuk et Colombo Town Hall. Il y a 3 arrets au total.\n\nL'ordre de visite est Tuk tuk (10 min), puis Tuk tuk (5 min), puis Colombo Town Hall (10 min).\n\nLe prix comprend prise en charge et depose a l'hotel n'importe ou a Colombo, billets d'attractions touristiques tout compris et frais de parking, tuk-tuk prive avec chauffeur-guide experimente et eau en bouteille. Il ne comprend pas lequel et nourriture, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Colombo passant par Tuk tuk, Tuk tuk et Colombo Town Hall. Propose par CEYLON TUK TUK."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel n'importe ou a Colombo",
+   "Billets d'attractions touristiques tout compris et frais de parking",
+   "Tuk-tuk prive avec chauffeur-guide experimente",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "lequel",
+   "Nourriture"
+  ]
+ },
+ "colombo-private-city-tour-with-driver-and-car": {
+  "title": "Colombo : visite privee de la ville avec chauffeur et voiture",
+  "metaTitle": "Colombo : visite privee de la ville avec chauffeur et voiture",
+  "metaDescription": "Une excursion d'une journee complete au depart de Colombo passant par Gangaramaya Temple, Independence Square, Colombo, Colombo Port City Beach et Pettah Market. ...",
+  "shortDescription": "Une excursion d'une journee complete au depart de Colombo passant par Gangaramaya Temple, Independence Square, Colombo, Colombo Port City Beach et Pettah Market. Propose par HASH ONE CEYLON TOURS (PVT) LTD.",
+  "fullDescription": "Une excursion d'une journee complete au depart de Colombo, passant par Gangaramaya Temple, Independence Square, Colombo, Colombo Port City Beach et Pettah Market. Le plus long arret est Pettah Market, d'environ 2 heures. Il y a 5 arrets au total.\n\nL'ordre de visite est Gangaramaya Temple, puis Independence Square, Colombo (1h), puis Colombo Port City Beach, puis Pettah Market (2h), puis Galle Face Green.\n\nLe prix comprend visite privee de la ville en voiture, visite du temple Gangaramaya, visite du memorial de l'Independance et visite du marche de Pettah. Il ne comprend pas frais d'entree aux attractions, repas et boissons et depenses personnelles, prevoyez donc un budget separe. Deux voyageurs paient 102 $ ensemble plutot que 102 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Une excursion d'une journee complete au depart de Colombo passant par Gangaramaya Temple, Independence Square, Colombo, Colombo Port City Beach et Pettah Market. Propose par HASH ONE CEYLON TOURS (PVT) LTD."
+  ],
+  "included": [
+   "Visite privee de la ville en voiture",
+   "Visite du temple Gangaramaya",
+   "Visite du memorial de l'Independance",
+   "Visite du marche de Pettah"
+  ],
+  "notIncluded": [
+   "Frais d'entree aux attractions",
+   "Repas et boissons",
+   "Depenses personnelles"
+  ]
+ },
+ "kandy-village-walk-cooking-experience-with-local": {
+  "title": "Kandy : promenade au village et experience culinaire avec une famille locale",
+  "metaTitle": "Kandy : promenade au village et experience culinaire avec une ...",
+  "metaDescription": "Experience de 3 heure(s) a Kandy. . Propose par Kandia Tours.",
+  "shortDescription": "Experience de 3 heure(s) a Kandy. . Propose par Kandia Tours.",
+  "fullDescription": "Une experience de 3 heure(s) a Kandy. Enjoy a guided village walk and explore real local life in Kandy.\n\nKandia Tours s'en charge, et 6 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend promenade guidee au village, experience culinaire avec une famille locale, ingredients frais du jardin et cuisine traditionnelle au pot d'argile. Il ne comprend pas transport jusqu'au lieu, depenses personnelles et pourboires et gratifications, prevoyez donc un budget separe.",
+  "highlights": [
+   "Experience de 3 heure(s) a Kandy. . Propose par Kandia Tours."
+  ],
+  "included": [
+   "Promenade guidee au village",
+   "Experience culinaire avec une famille locale",
+   "Ingredients frais du jardin",
+   "Cuisine traditionnelle au pot d'argile"
+  ],
+  "notIncluded": [
+   "Transport jusqu'au lieu",
+   "Depenses personnelles",
+   "Pourboires et gratifications"
+  ]
+ },
+ "mirissa-sinharaja-forest-reserve-guided-trek-tea": {
+  "title": "Mirissa : randonnee guidee dans la reserve forestiere de Sinharaja et visite du the",
+  "metaTitle": "Mirissa : randonnee guidee dans la reserve forestiere de Sinha...",
+  "metaDescription": "Une excursion d'une journee complete au depart de Mirissa passant par Sinharaja Forest Reserve. Propose par Nidu Lanka tours.",
+  "shortDescription": "Une excursion d'une journee complete au depart de Mirissa passant par Sinharaja Forest Reserve. Propose par Nidu Lanka tours.",
+  "fullDescription": "Une excursion d'une journee complete au depart de Mirissa, passant par Sinharaja Forest Reserve. Le plus long arret est Sinharaja Forest Reserve, d'environ 6 heures.\n\nLe prix comprend prise en charge a l'hotel depuis Mirissa, randonnee guidee dans la reserve forestiere de Sinharaja, visite d'une cascade en pleine jungle et experience locale du the et de la cannelle. Il ne comprend pas repas et depenses personnelles, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une journee complete au depart de Mirissa passant par Sinharaja Forest Reserve. Propose par Nidu Lanka tours."
+  ],
+  "included": [
+   "Prise en charge a l'hotel depuis Mirissa",
+   "Randonnee guidee dans la reserve forestiere de Sinharaja",
+   "Visite d'une cascade en pleine jungle",
+   "Experience locale du the et de la cannelle"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Depenses personnelles"
+  ]
+ },
+ "mirissa-bentota-day-trip-with-cinnamon-mask": {
+  "title": "Mirissa : excursion a Bentota avec cannelle et atelier de masques",
+  "metaTitle": "Mirissa : excursion a Bentota avec cannelle et atelier de masques",
+  "metaDescription": "Experience d'une journee complete a Bentota. . Propose par Nidu Lanka tours.",
+  "shortDescription": "Experience d'une journee complete a Bentota. . Propose par Nidu Lanka tours.",
+  "fullDescription": "Une experience d'une journee complete a Bentota. Immerse yourself in the local culture with a traditional cinnamon experience.\n\nNidu Lanka tours s'en charge, et 9 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge matinale depuis Mirissa, experience traditionnelle de la cannelle, safari en bateau dans la lagune de mangrove et visite d'un atelier de sculpture de masques. Il ne comprend pas depenses personnelles et pourboires, prevoyez donc un budget separe.",
+  "highlights": [
+   "Experience d'une journee complete a Bentota. . Propose par Nidu Lanka tours."
+  ],
+  "included": [
+   "Prise en charge matinale depuis Mirissa",
+   "Experience traditionnelle de la cannelle",
+   "Safari en bateau dans la lagune de mangrove",
+   "Visite d'un atelier de sculpture de masques"
+  ],
+  "notIncluded": [
+   "Depenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "kandy-city-tour-by-tuk-tuk-with-temple-of": {
+  "title": "Kandy : visite de la ville en tuk-tuk avec ceremonie du temple de la Dent",
+  "metaTitle": "Kandy : visite de la ville en tuk-tuk avec ceremonie du temple...",
+  "metaDescription": "Experience d'une demi-journee a Kandy. . Propose par Thara Lanka Tours.",
+  "shortDescription": "Experience d'une demi-journee a Kandy. . Propose par Thara Lanka Tours.",
+  "fullDescription": "Une experience d'une demi-journee a Kandy. Feel the thrill of riding a tuk-tuk through the winding hills of Kandy.\n\nThara Lanka Tours s'en charge, et 10 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend visite privee en tuk-tuk, guide local professionnel, visite du grand Bouddha de Bahirawakanda et visite d'une fabrique de the. Il ne comprend pas , prevoyez donc un budget separe.",
+  "highlights": [
+   "Experience d'une demi-journee a Kandy. . Propose par Thara Lanka Tours."
+  ],
+  "included": [
+   "Visite privee en tuk-tuk",
+   "Guide local professionnel",
+   "Visite du grand Bouddha de Bahirawakanda",
+   "Visite d'une fabrique de the"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "cultural-heritage-tour-sigiriya-to-kandy": {
+  "title": "Circuit du patrimoine culturel : de Sigiriya a Kandy",
+  "metaTitle": "Circuit du patrimoine culturel : de Sigiriya a Kandy",
+  "metaDescription": "Experience d'une journee complete a Kandy. . Propose par Heritage Tours Sri Lanka.",
+  "shortDescription": "Experience d'une journee complete a Kandy. . Propose par Heritage Tours Sri Lanka.",
+  "fullDescription": "Une experience d'une journee complete a Kandy. Marvel at the ancient frescoes and panoramic views from Sigiriya Lion Rock.\n\nHeritage Tours Sri Lanka s'en charge, et 11 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend transport en tuk-tuk, mini voiture, ou van (selon l'option choisie), prise en charge a l'hotel a Sigiriya, visite du rocher-lion de Sigiriya, visite du rocher de Pidurangala, visite du temple des grottes de Dambulla et visite du village d'epices et d'herbes a Matale. Il ne comprend pas repas et frais d'entree, prevoyez donc un budget separe.",
+  "highlights": [
+   "Experience d'une journee complete a Kandy. . Propose par Heritage Tours Sri Lanka."
+  ],
+  "included": [
+   "Transport en tuk-tuk, mini voiture, ou van (selon l'option choisie)",
+   "Prise en charge a l'hotel a Sigiriya",
+   "Visite du rocher-lion de Sigiriya",
+   "Visite du rocher de Pidurangala",
+   "Visite du temple des grottes de Dambulla",
+   "Visite du village d'epices et d'herbes a Matale"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Frais d'entree"
+  ]
+ },
  "sigiriya-private-wildlife-night-safari-fireflies": {
   "title": "Sigiriya : safari nocturne prive de la faune et des lucioles",
   "metaTitle": "Sigiriya : safari nocturne prive de la faune et des lucioles",
