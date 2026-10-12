@@ -116,8 +116,13 @@ const nextConfig: NextConfig = {
       // grep this file for the launched country's slug before assuming a
       // launch is live. Make this the LAST step of every country launch,
       // not an afterthought.
-      { source: '/:c(macau|myanmar|south-korea)', destination: '/explore', permanent: true },
-      { source: '/:c(macau|myanmar|south-korea)/:path*', destination: '/explore', permanent: true },
+      // South Korea (570 tours, Seoul+Busan) launched 2026-10-13 and came off
+      // this list the same way. Myanmar stays here deliberately - the only
+      // GYG listing for it turned out to be 100% Thailand Chiang Rai/Chiang
+      // Mai border-region content with zero genuine Myanmar tours, so it has
+      // nothing to launch.
+      { source: '/:c(macau|myanmar)', destination: '/explore', permanent: true },
+      { source: '/:c(macau|myanmar)/:path*', destination: '/explore', permanent: true },
       // City hubs with no supply (GSC held 25 of them as noindex for months). Send them to
       // the live country page until they get tours; delete the line when a city launches.
       { source: '/india/:c(bangalore|leh-ladakh|mysore)', destination: '/india', permanent: true },
