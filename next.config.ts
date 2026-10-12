@@ -107,15 +107,17 @@ const nextConfig: NextConfig = {
       // tours across Siem Reap and Phnom Penh - leaving it here 308s the whole
       // country to /explore, including every tour, guide and itinerary page.
       // Malaysia (830 tours), Singapore (318 tours), China (1,628 tours),
-      // Hong Kong (197 tours) and Philippines (677 tours, Manila+Cebu)
-      // launched 2026-10-03 through 2026-10-12 and came off this list the
-      // same way each time - every one of their live tour pages was
-      // 308-redirecting to /explore until this line was caught. Hong Kong
-      // and Philippines were BOTH still sitting here well after launch,
-      // caught only when this comment was next revisited - grep this file
-      // for the launched country's slug before assuming a launch is live.
-      { source: '/:c(macau|taiwan|myanmar|south-korea)', destination: '/explore', permanent: true },
-      { source: '/:c(macau|taiwan|myanmar|south-korea)/:path*', destination: '/explore', permanent: true },
+      // Hong Kong (197 tours), Philippines (677 tours, Manila+Cebu) and
+      // Taiwan (157 tours, Taipei) launched 2026-10-03 through 2026-10-12
+      // and came off this list the same way each time - every one of their
+      // live tour pages was 308-redirecting to /explore until this line was
+      // caught. Hong Kong and Philippines were BOTH still sitting here well
+      // after launch, caught only when this comment was next revisited -
+      // grep this file for the launched country's slug before assuming a
+      // launch is live. Make this the LAST step of every country launch,
+      // not an afterthought.
+      { source: '/:c(macau|myanmar|south-korea)', destination: '/explore', permanent: true },
+      { source: '/:c(macau|myanmar|south-korea)/:path*', destination: '/explore', permanent: true },
       // City hubs with no supply (GSC held 25 of them as noindex for months). Send them to
       // the live country page until they get tours; delete the line when a city launches.
       { source: '/india/:c(bangalore|leh-ladakh|mysore)', destination: '/india', permanent: true },
