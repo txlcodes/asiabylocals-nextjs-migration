@@ -128,7 +128,11 @@ const nextConfig: NextConfig = {
       { source: '/india/:c(bangalore|leh-ladakh|mysore)', destination: '/india', permanent: true },
       { source: '/thailand/:c(ko-lanta|hua-hin|ayutthaya|ko-samui)', destination: '/thailand', permanent: true },
       { source: '/indonesia/yogyakarta', destination: '/indonesia', permanent: true },
-      { source: '/nepal/:c(lumbini|chitwan)', destination: '/nepal', permanent: true },
+      // Lumbini came OFF this list 2026-10-13 when Nepal's relaunch gave it 20
+      // live tours - leaving it here would have 308'd every one of them to
+      // /nepal, the exact bug that hit China/Malaysia/Singapore/Hong Kong/
+      // Philippines/Taiwan/South Korea's launches this same session.
+      { source: '/nepal/:c(chitwan)', destination: '/nepal', permanent: true },
       ...Object.entries(slugRedirects).map(([oldSlug, newSlug]) => ({
         source: `/:country/:city/${oldSlug}`,
         destination: `/:country/:city/${newSlug}`,
