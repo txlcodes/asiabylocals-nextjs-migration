@@ -97865,6 +97865,215 @@ export const DE_TOURS: Record<string, TourT> = {
    "persoenliche Ausgaben"
   ]
  },
+ "liptons-seat-a-tea-factory-and-diyaluma-falls-day-tour-from-ella": {
+  "title": "Lipton’s Seat, eine Teefabrik und die Diyaluma-Wasserfaelle: Tagestour ab Ella",
+  "metaTitle": "Lipton’s Seat, Fabrik und Diyaluma",
+  "metaDescription": "Ein Tag mit den zwei grossen Aussichtspunkten Uvas: Sonnenaufgang an Lipton’s Seat oberhalb von Haputale und die 220 Meter hohen Diyaluma-Faelle.",
+  "shortDescription": "Ein Tag mit den zwei grossen Aussichtspunkten Uvas: Sonnenaufgang an Lipton’s Seat oberhalb von Haputale, die Dambatenne-Fabrik, die er 1890 errichtete, und die 220 Meter hohen Diyaluma-Faelle am Nachmittag.",
+  "fullDescription": "Thomas Lipton kaufte seine ersten Ceylon-Plantagen 1890 und errichtete die Dambatenne-Fabrik, die noch heute laeuft. Der Geschichte zufolge ritt er zu einem Felsvorsprung darueber, um alles zu betrachten, was er besass, und dieser Vorsprung, Lipton’s Seat, auf etwa 1.970 Metern, blickt an einem klaren Morgen ueber fuenf Provinzen.\n\nDer Schwerpunkt liegt auf dem Morgen. Gegen neun oder zehn Uhr fuellt sich das Tal darunter mit Wolken, und es gibt ueberhaupt nichts mehr zu sehen. Das ist dasselbe Problem wie bei World’s End und hat dieselbe Loesung, weshalb dieser Ausflug vor Tagesanbruch beginnt.\n\nDambatenne selbst ist eine der aeltesten noch aktiven Fabriken Sri Lankas, und die Besichtigung fuehrt das Blatt von den Welktrogen ueber Rollen, Oxidation und Trocknen bis zur Sortiertabelle.\n\nDiyaluma ist der Nachmittag. Mit 220 Metern ist er der zweithoechste Wasserfall des Landes, faellt in einer einzigen Schicht von einem Steilhang, und ist vollstaendig von der Strasse aus sichtbar. Der Aufstieg zu den natuerlichen Infinity Pools an der Spitze dauert etwa 45 Minuten auf steilem, losem Grund und ist der Teil, der sich lohnt, wenn Sie die Beine und die Schuhe dafuer haben.\n\nZurueck in Ella am spaeten Nachmittag.\n\nElla ist ein Dorf auf 1.040 Metern in den Bergen des Sueden, erreichbar mit dem Zug aus Kandy, den die meisten fuer die schoenste Bahnfahrt Asiens halten, und seine Sehenswuerdigkeiten liegen alle nur wenige Kilometer entfernt: die Neun-Bogen-Bruecke, ein Backsteinviadukt von 1921 in einer Teeschlucht, das mehrmals taeglich von einem Zug ueberquert wird; der Little Adam’s Peak, ein 40-minuetiger Spaziergang durch Teefelder zu einem Kamm; Ella Rock, ein anspruchsvollerer dreistuendiger Aufstieg; und die Ravana-Wasserfaelle an der Strasse nach Wellawaya. Die Morgen sind klar, und an Nachmittagen der feuchten Monate zieht Wolken in den Pass, deshalb finden Wanderungen frueh statt. Tuk-Tuks sind das Verkehrsmittel, und jede Pension kann eines besorgen.",
+  "highlights": [
+   "Sonnenaufgang an Lipton’s Seat, mit Blick ueber fuenf Provinzen an einem klaren Tag",
+   "Die Dambatenne-Fabrik, die Thomas Lipton 1890 errichtete, noch in Betrieb",
+   "Diyaluma, Sri Lankas zweithoechster Wasserfall auf 220 Metern",
+   "Der optionale Aufstieg zu den natuerlichen Infinity Pools am Rand des Falls",
+   "Abholung in Ella, Bandarawela oder Haputale"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt",
+   "alle Fahrten und Stopps",
+   "Kraftstoff"
+  ],
+  "notIncluded": [
+   "Der Eintritt zur Teefabrik",
+   "Mahlzeiten und Getraenke",
+   "Teekaeufe",
+   "Trinkgelder",
+   "ein lokaler Guide bei den Wasserfaellen, falls engagiert"
+  ]
+ },
+ "ella-to-arugam-bay-guided-transfer-with-waterfalls-temples": {
+  "title": "Gefuehrter Transfer von Ella nach Arugam Bay mit Wasserfaellen, Tempeln und Buduruwagala",
+  "metaTitle": "Ella nach Arugam Bay mit Buduruwagala",
+  "metaDescription": "Die Fahrt vom Bergland zur Surferstadt Arugam Bay an der Ostkueste, mit Wasserfaellen, einem Gewuerzgarten und den Felsenbuddhas von Buduruwagala.",
+  "shortDescription": "Die Fahrt vom Bergland zur Surferstadt Arugam Bay an der Ostkueste, mit Wasserfaellen, einem Gewuerzgarten und den Felsenbuddhas von Buduruwagala auf dem Weg.",
+  "fullDescription": "Arugam Bay ist Sri Lankas Surferstadt an der Ostkueste, und sie laeuft nach dem entgegengesetzten Kalender wie der Rest der Standardroute: ihre Saison geht etwa von Mai bis September, genau dann, wenn Westkueste und Suedkueste vom Suedwestmonsun aufgewuehlt werden. Diese Umkehrung ist der Grund, warum ein Reiseplan im Juli oder August, der sonst ein Kompromiss waere, eine sehr gute Reise sein kann.\n\nDort von Ella aus hinzukommen dauert etwa vier Stunden Fahrt den Uva-Steilhang hinab und hinaus ueber das trockene Tiefland, und die Strasse fuehrt an mehreren haltenswerten Dingen vorbei.\n\nDie Ravana-Wasserfaelle kommen zuerst, eine breite Kaskade unterhalb von Ella. Diyaluma, mit 220 Metern der zweithoechste Sri Lankas, folgt.\n\nBuduruwagala ist der Stopp, der die Route rechtfertigt. Sieben Figuren, im neunten oder zehnten Jahrhundert in eine Felswand gehauen, der zentrale stehende Buddha sechzehn Meter hoch, mit Spuren des urspruenglichen Stucks und der orangenen Farbe noch auf dem Stein. Es ist Mahayana statt Theravada, was hier ungewoehnlich ist, und steht in trockenem Buschwerk fast ohne Menschen.\n\nEin Gewuerzgarten bei Wellawaya umfasst Zimt, Pfeffer und die ayurvedischen Pflanzen, die in jedem Dorf hier angebaut werden. Sie erreichen die Kueste am Nachmittag.\n\nElla ist ein Dorf auf 1.040 Metern in den Bergen des Sueden, erreichbar mit dem Zug aus Kandy, den die meisten fuer die schoenste Bahnfahrt Asiens halten, und seine Sehenswuerdigkeiten liegen alle nur wenige Kilometer entfernt: die Neun-Bogen-Bruecke, ein Backsteinviadukt von 1921 in einer Teeschlucht, das mehrmals taeglich von einem Zug ueberquert wird; der Little Adam’s Peak, ein 40-minuetiger Spaziergang durch Teefelder zu einem Kamm; Ella Rock, ein anspruchsvollerer dreistuendiger Aufstieg; und die Ravana-Wasserfaelle an der Strasse nach Wellawaya. Die Morgen sind klar, und an Nachmittagen der feuchten Monate zieht Wolken in den Pass, deshalb finden Wanderungen frueh statt. Tuk-Tuks sind das Verkehrsmittel, und jede Pension kann eines besorgen.",
+  "highlights": [
+   "Die Ueberfahrt vom Bergland zur Ostkueste, trocken von Mai bis September",
+   "Die Ravana-Wasserfaelle und Diyaluma, Sri Lankas zweithoechster Wasserfall",
+   "Die sieben Felsenfiguren von Buduruwagala mit noch sichtbarer urspruenglicher Farbe",
+   "Eine seltene Mahayana-Staette in einem Theravada-Land, und fast leer",
+   "Ein aktiver Gewuerzgarten bei Wellawaya"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung",
+   "alle Stopps auf der Route",
+   "Absetzen an Ihrem Hotel in Arugam Bay",
+   "Gepaecktransport durchgehend"
+  ],
+  "notIncluded": [
+   "Die Eintrittsgebuehr fuer Buduruwagala",
+   "Mahlzeiten und Getraenke",
+   "Gewuerzkaeufe",
+   "Trinkgelder"
+  ]
+ },
+ "ella-day-trip-from-nuwara-eliya-with-a-tea-factory-and-the-nine-arch": {
+  "title": "Ella-Tagesausflug ab Nuwara Eliya mit Teefabrik und Neun-Bogen-Bruecke",
+  "metaTitle": "Ella ab Nuwara Eliya",
+  "metaDescription": "Ein Tagesausflug hin und zurueck von Nuwara Eliya nach Ella, mit einer aktiven Teefabrik, einem buddhistischen Tempel, der Neun-Bogen-Bruecke und Little Adam’s Peak.",
+  "shortDescription": "Ein Tagesausflug hin und zurueck von Nuwara Eliya nach Ella, mit einer aktiven Teefabrik, einem buddhistischen Tempel, der Neun-Bogen-Bruecke, Little Adam’s Peak und den Ravana-Wasserfaellen.",
+  "fullDescription": "Von Nuwara Eliya nach Ella sind es nur etwa zwei Stunden pro Strecke, was dies zu einem der wenigen Tagesausfluege Sri Lankas macht, bei denen die Fahrt nicht den Tag dominiert.\n\nDie Strasse faellt neunhundert Meter zwischen den beiden Staedten, und der Wechsel ist leicht zu fuehlen: Nuwara Eliya auf 1.900 Metern ist kalt, formell und britisch gebaut, und Ella auf 1.000 ist warm, locker und voller Wanderer. Die Plantagen dazwischen sind der am hoechsten angebaute Tee des Landes.\n\nVor Ort deckt der Tag ab, wofuer Ella bekannt ist. Eine aktive Teefabrik fuehrt das Blatt vom Welktrog zur Sortiertabelle in etwa fuenfundvierzig Minuten. Little Adam’s Peak ist 45 Minuten einen gestuften Pfad hinauf fuer die Aussicht durch die Ella Gap. Die Neun-Bogen-Bruecke, 91 Meter Stein, errichtet ohne Stahl waehrend des Ersten Weltkriegs, liegt einen zwanzigminuetigen Spaziergang unterhalb der Stadt. Die Ravana-Wasserfaelle liegen an der Strasse nach Sueden.\n\nWenn Ella sowieso Ihr naechster Stopp ist, kostet die einfache Transferversion dieser Route weniger und erspart Ihnen vier Stunden im Auto, aber als Tagesausflug ab einer Basis in Nuwara Eliya funktioniert dies.\n\nElla ist ein Dorf auf 1.040 Metern in den Bergen des Sueden, erreichbar mit dem Zug aus Kandy, den die meisten fuer die schoenste Bahnfahrt Asiens halten, und seine Sehenswuerdigkeiten liegen alle nur wenige Kilometer entfernt: die Neun-Bogen-Bruecke, ein Backsteinviadukt von 1921 in einer Teeschlucht, das mehrmals taeglich von einem Zug ueberquert wird; der Little Adam’s Peak, ein 40-minuetiger Spaziergang durch Teefelder zu einem Kamm; Ella Rock, ein anspruchsvollerer dreistuendiger Aufstieg; und die Ravana-Wasserfaelle an der Strasse nach Wellawaya. Die Morgen sind klar, und an Nachmittagen der feuchten Monate zieht Wolken in den Pass, deshalb finden Wanderungen frueh statt. Tuk-Tuks sind das Verkehrsmittel, und jede Pension kann eines besorgen.",
+  "highlights": [
+   "Ein seltener Tagesausflug in Sri Lanka, bei dem die Fahrt nicht den Tag dominiert",
+   "Der 900-Meter-Abstieg von Nuwara Eliyas kalter Formalitaet zu Ellas Waerme",
+   "Eine aktive Teefabrik in den hoechstgelegenen Plantagen der Insel",
+   "Little Adam’s Peak und die Aussicht durch die Ella Gap",
+   "Die Neun-Bogen-Bruecke und die Ravana-Wasserfaelle"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Nuwara Eliya",
+   "alle Fahrten und Stopps",
+   "Kraftstoff und Parken"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren, falls zutreffend",
+   "Mahlzeiten und Getraenke",
+   "Teekaeufe",
+   "Trinkgelder"
+  ]
+ },
+ "ella-all-inclusive-private-day-trip-with-the-train-ella-rock": {
+  "title": "Ella-Komplett-Privattagestour mit Zugfahrt, Ella Rock und Zipline",
+  "metaTitle": "Ella komplett: Zug, Rock und Zipline",
+  "metaDescription": "Der vollstaendigste private Ella-Tag: Little Adam’s Peak, Ella Rock, die Demodara-Schleife, eine Zugfahrt, die Neun-Bogen-Bruecke und die Zipline.",
+  "shortDescription": "Der vollstaendigste private Ella-Tag: Little Adam’s Peak, Ella Rock, die Demodara-Schleife, eine Etappe auf der Bergbahn, die Neun-Bogen-Bruecke, die Ravana-Wasserfaelle und die Zipline.",
+  "fullDescription": "Dies ist Ella ohne Auslassungen, und es ist ein langer Tag. Zwei Wanderungen, eine Zugfahrt, ein Viadukt, ein Wasserfall und eine Zipline, privat organisiert, sodass sich die Reihenfolge nach dem Wetter und den tatsaechlichen Zugbewegungen des Tages richten kann.\n\nLittle Adam’s Peak eroeffnet ihn im ersten Licht, 45 Minuten einen gestuften Pfad hinauf fuer die Aussicht durch die Ella Gap. Ella Rock ist die schwerere, drei Stunden hin und zurueck ueber unmarkierte Plantagenpfade, und das ist der Grund, warum ein Guide hier sein Honorar verdient: Die Kreuzung, an der die Route die Bahnlinie verlaesst, hat keine Beschilderung und mehrere plausible Alternativen.\n\nDie Demodara-Schleife ist das Stueck, das fast niemand sieht. Die Eisenbahn vollzieht eine volle Schleife, um an Hoehe zu gewinnen, und passiert unter dem Bahnhof, den sie gerade verlassen hat, und das ist eine echte Kuriositaet aus der Zeit, als diese Strecke gebaut wurde.\n\nEine kurze Zugfahrt bringt Sie auf die Bergbahn statt nur daneben, und die Neun-Bogen-Bruecke, 91 Meter Stein, errichtet ohne Stahl waehrend des Ersten Weltkriegs, folgt als naechstes.\n\nDie Ravana-Wasserfaelle und die Zipline ueber dem Tal schliessen den Nachmittag ab. Wenn das nach zu viel fuer einen Tag klingt, ist es das wahrscheinlich; die private Buchung bedeutet, dass Sie weglassen koennen, was Sie nicht wollen.\n\nElla ist ein Dorf auf 1.040 Metern in den Bergen des Sueden, erreichbar mit dem Zug aus Kandy, den die meisten fuer die schoenste Bahnfahrt Asiens halten, und seine Sehenswuerdigkeiten liegen alle nur wenige Kilometer entfernt: die Neun-Bogen-Bruecke, ein Backsteinviadukt von 1921 in einer Teeschlucht, das mehrmals taeglich von einem Zug ueberquert wird; der Little Adam’s Peak, ein 40-minuetiger Spaziergang durch Teefelder zu einem Kamm; Ella Rock, ein anspruchsvollerer dreistuendiger Aufstieg; und die Ravana-Wasserfaelle an der Strasse nach Wellawaya. Die Morgen sind klar, und an Nachmittagen der feuchten Monate zieht Wolken in den Pass, deshalb finden Wanderungen frueh statt. Tuk-Tuks sind das Verkehrsmittel, und jede Pension kann eines besorgen.",
+  "highlights": [
+   "Beide Ella-Wanderungen an einem Tag, mit einem Guide fuer die unmarkierte Ella-Rock-Route",
+   "Die Demodara-Schleife, wo die Eisenbahn unter sich selbst hindurchfuehrt",
+   "Eine Etappe auf der Bergbahn statt nur ein Blick darauf",
+   "Die Neun-Bogen-Bruecke und die Ravana-Wasserfaelle",
+   "Eine private Buchung, sodass Sie weglassen koennen, was Sie nicht wollen"
+  ],
+  "included": [
+   "Privatfahrzeug mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Ella",
+   "Fuehrung auf beiden Wanderungen",
+   "alle Fahrten"
+  ],
+  "notIncluded": [
+   "Zugtickets",
+   "die Zipline-Gebuehr",
+   "Eintrittsgebuehren",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder"
+  ]
+ },
+ "ella-in-half-a-day-by-tuk-tuk-ten-stops-around-the-town": {
+  "title": "Ella in einem halben Tag im Tuk-Tuk: zehn Stopps rund um die Stadt",
+  "metaTitle": "Ella im Tuk-Tuk, halber Tag",
+  "metaDescription": "Eine kompakte private Tuk-Tuk-Schleife zu Ellas Aussichtspunkten und Stopps: der Bahnhof, die Teefabrik, die Ravana-Wasserfaelle und die Neun-Bogen-Bruecke.",
+  "shortDescription": "Eine kompakte private Tuk-Tuk-Schleife zu Ellas Aussichtspunkten und Stopps: der Bahnhof, die Teefabrik, die Ravana-Wasserfaelle, die Zipline und die Neun-Bogen-Bruecke, in etwa drei Stunden.",
+  "fullDescription": "Ella ist klein, seine Sehenswuerdigkeiten verteilen sich auf wenige Kilometer, und die Strassen dazwischen sind eng und steil. Ein Tuk-Tuk deckt alles in drei Stunden ab, weshalb dies der Ausflug ist, den Leute an einem Ankunftsnachmittag oder einem Abreisemorgen machen statt als ganzen Tag.\n\nDie Route umfasst die Aussichtspunkte oberhalb der Stadt, den Bahnhof Ella und den Beginn der Bahnlinienwanderung, die Ravana-Wasserfaelle und die Hoehle darueber, eine Teefabrik, den geheimen Wasserfall am Ende eines unmarkierten Pfads, und die Neun-Bogen-Bruecke. Little Adam’s Peak oder Ella Rock sind nicht enthalten, das sind Wanderungen und sie brauchen einen eigenen Vormittag.\n\nWas ein Tuk-Tuk hier kauft, sind die Strassen. Die Wege oberhalb von Ella sind steil, eng und voller Serpentinen, und offen seitlich in dieser Hoehe und Geschwindigkeit zu sein, ist der grosste Teil des Vergnuegens. Ihr Fahrer ist auch der Guide, und in einer Stadt dieser Groesse bedeutet das normalerweise jemanden, der an diesen Haengen aufgewachsen ist.\n\nDrei Stunden, privat, und passt an beide Enden eines Tages.\n\nGehen Sie am Morgen, wenn Sie die Wahl haben. Ella liegt auf etwa 1.000 Metern gegen den Steilhang, und die Wolken bauen sich typischerweise ueber den Nachmittag auf, was die Aussichtspunkte und die Ella Gap schliesst, um die die ganze Route gebaut ist. An der Neun-Bogen-Bruecke arbeitet Ihr Fahrer mit den tatsaechlichen Zugbewegungen des Tages statt dem gedruckten Fahrplan, die Zuege sind routinemaessig verspaetet und die Bruecke lohnt das Warten nur, wenn tatsaechlich einer kommt.",
+  "highlights": [
+   "Zehn Stopps rund um Ella in etwa drei Stunden",
+   "Die steilen Wege oberhalb der Stadt, offen seitlich im Tuk-Tuk befahren",
+   "Der Bahnhof Ella, die Teefabrik, die Ravana-Wasserfaelle und die Hoehle darueber",
+   "Der unmarkierte geheime Wasserfall, den die meisten Besucher nie finden",
+   "Ein privater Fahrer-Guide, meist aus diesen Haengen stammend"
+  ],
+  "included": [
+   "Privates Tuk-Tuk mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Ella",
+   "alle Fahrten",
+   "Kraftstoff"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren",
+   "die Zipline",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder"
+  ]
+ },
+ "udawalawe-national-park-full-day-safari-from-the-galle-and-mirissa-coast": {
+  "title": "Udawalawe-Nationalpark Ganztagessafari von der Kueste Galle und Mirissa",
+  "metaTitle": "Udawalawe-Safari von Galle/Mirissa",
+  "metaDescription": "Ein privater Tag ins Landesinnere von der Suedkueste zu Udawalawe fuer Elefanten, Krokodile, Bueffel und Voegel, mit eigenem Jeep und Spurenleser.",
+  "shortDescription": "Ein privater Tag ins Landesinnere von der Suedkueste zu Udawalawe fuer Elefanten, Krokodile, Bueffel und Voegel, mit eigenem Jeep und Spurenleser statt einem geteilten Sitzplatz.",
+  "fullDescription": "Udawalawe liegt zweieinhalb Stunden landeinwaerts vom Streifen Galle bis Mirissa, und es ist der Park, den man von der Kueste aus nehmen sollte, wenn man tatsaechlich Tiere sehen will, statt es zu hoffen.\n\nDer Grund ist das Gelaende. Udawalawe wurde 1972 um einen neuen Stausee angelegt, und das ueberflutete Ackerland wurde zu offenem Grasland. Es gibt nirgends einen Unterschlupf fuer einen Elefanten, weshalb die rund sechshundert ansaessigen Tiere hier ueblicherweise innerhalb von zwanzig Minuten nach dem Tor sichtbar sind, und warum Sichtungen fast sicher statt gluecklich sind. Yala, drei Stunden weiter, hat die Leoparden und die Menschenmengen; Udawalawe hat die Elefanten und den Platz.\n\nWasserbueffel, Axishirsche, Goldschakale und Sumpfkrokodile am Rand des Stausees runden die Fahrt ab, und die Vogelbeobachtung ist wirklich gut, Haubenschlangenadler, Wandelhabichtsadler, Nimmersatt-Stoerche, und ein starker Wintereinfall.\n\nEin privater Jeep ist das, was dies von der geteilten Version unterscheidet. Der Spurenleser arbeitet besser, wenn das Fahrzeug keinem Zeitplan folgt, und Sie koennen so lange an einem Wasserloch bleiben, wie die Tiere dort sind, statt weiterzuziehen, weil neun andere Leute bereit sind.\n\nSri Lankas Nationalparks werden von einem offenen Jeep aus erlebt, und jeder hat etwas, wofuer er am besten ist. Yala, im Suedosten, hat die hoechste Leopardendichte ueberhaupt, meist fruh morgens auf den Felsen und Strassen von Block 1 gesehen; er ist einen Teil von September und Oktober jedes Jahr geschlossen. Udawalawe sind die Elefanten, verlaesslich, auf offenem Grasland um einen Stausee, mit dem Elephant Transit Home fuer Waisen in der Naehe. Minneriya und Kaudulla, nahe Sigiriya, beherbergen von etwa Juli bis Oktober das Gathering, wenn mehrere hundert Elefanten am spaeten Nachmittag zu den schrumpfenden Reservoirs kommen. Wilpattu, im Nordwesten, ist der groesste und ruhigste Park, mit Leoparden, Lippenbaeren und Villus, den natuerlichen Seen. Safaris finden um 6:00 und 14:30 Uhr statt, dauern drei bis vier Stunden, und das Parkticket wird zusaetzlich zum Jeep am Tor bezahlt.",
+  "highlights": [
+   "Rund 600 ansaessige Elefanten auf offenem Grasland, wo sich nichts verstecken kann",
+   "Ein privater Jeep und Spurenleser statt eines geteilten Sitzplatzes",
+   "Krokodile, Bueffel, Schakale und ausgezeichnete Vogelbeobachtung am Stausee",
+   "Fast sichere Sichtungen statt der Leoparden-Lotterie in Yala",
+   "Hotelabholung ueberall zwischen Galle und Mirissa"
+  ],
+  "included": [
+   "Privatfahrzeug mit Fahrer ab Ihrem Hotel an der Suedkueste",
+   "ein privater 4x4-Safari-Jeep mit Fahrer und Spurenleser",
+   "die Pirschfahrt",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Die Nationalparkgenehmigung, bar am Tor zu zahlen",
+   "Mahlzeiten",
+   "Trinkgelder fuer Fahrer und Spurenleser"
+  ]
+ },
+ "ella-rock-guided-hike-with-the-nine-arch-bridge-and-ravana-falls": {
+  "title": "Gefuehrte Ella-Rock-Wanderung mit der Neun-Bogen-Bruecke und den Ravana-Wasserfaellen",
+  "metaTitle": "Ella Rock gefuehrt mit der Bruecke",
+  "metaDescription": "Ein gefuehrter Aufstieg zum Ella Rock, gefolgt von einem buddhistischen Tempel, der Neun-Bogen-Bruecke und den Ravana-Wasserfaellen.",
+  "shortDescription": "Ein gefuehrter Aufstieg zum Ella Rock, der schwereren der beiden Ella-Wanderungen und jener, auf der sich Leute verirren, gefolgt von einem buddhistischen Tempel, der Neun-Bogen-Bruecke und den Ravana-Wasserfaellen.",
+  "fullDescription": "Ella Rock ist die Wanderung, die einen Guide braucht, und hier ist der Grund: Die Route beginnt entlang der Bahnlinie ab dem Bahnhof Ella, verlaeuft etwa zwanzig Minuten nach Suedwesten, und verlaesst dann die Strecke an einer Kreuzung ohne Beschilderung, mehreren plausiblen Pfaden und nur einer richtigen Antwort. Von dort fuehrt sie durch Plantagenland, wo sich die Pfade staendig verzweigen.\n\nLeute verirren sich jede Woche auf Ella Rock. Einheimische erscheinen an den Kreuzungen und bieten an, Sie zu fuehren, und verlangen dann Geld, was manchmal hilfreich und manchmal eine Abzocke ist, und ohne Guide oder Offline-Karte anzukommen ist, wie Besucher vier Stunden lang auf Teehaengen umherirren.\n\nDie Wanderung selbst ist technisch nicht schwierig, drei Stunden hin und zurueck, ein langer Anstieg auf unebenem Grund durch Tee und Eukalyptus, endend auf einem offenen Gipfelkamm mit weitem Blick zurueck ueber Ella und die Gap. Sie ist eine erheblich bessere Wanderung als Little Adam’s Peak und eine erheblich schwerere.\n\nDer Rest des Tages umfasst die leichteren Sehenswuerdigkeiten der Stadt: einen buddhistischen Tempel, die Neun-Bogen-Bruecke und die Ravana-Wasserfaelle, die alle keine Navigation erfordern.\n\nBeginnen Sie im ersten Licht. Der Kamm ist exponiert, es gibt keinen Schatten, und am spaeten Vormittag ist es heiss.\n\nElla ist ein Dorf auf 1.040 Metern in den Bergen des Sueden, erreichbar mit dem Zug aus Kandy, den die meisten fuer die schoenste Bahnfahrt Asiens halten, und seine Sehenswuerdigkeiten liegen alle nur wenige Kilometer entfernt: die Neun-Bogen-Bruecke, ein Backsteinviadukt von 1921 in einer Teeschlucht, das mehrmals taeglich von einem Zug ueberquert wird; der Little Adam’s Peak, ein 40-minuetiger Spaziergang durch Teefelder zu einem Kamm; Ella Rock, ein anspruchsvollerer dreistuendiger Aufstieg; und die Ravana-Wasserfaelle an der Strasse nach Wellawaya. Die Morgen sind klar, und an Nachmittagen der feuchten Monate zieht Wolken in den Pass, deshalb finden Wanderungen frueh statt. Tuk-Tuks sind das Verkehrsmittel, und jede Pension kann eines besorgen.",
+  "highlights": [
+   "Ella Rock mit einem Guide, auf einer Route, wo die entscheidende Kreuzung unmarkiert ist",
+   "Ein weiter Gipfelblick zurueck ueber Ella und die Gap, viel leerer als Little Adam’s Peak",
+   "Das Gehen entlang der Bahnlinie, wie Einheimische den Ausgangspunkt erreichen",
+   "Die Neun-Bogen-Bruecke und die Ravana-Wasserfaelle am Nachmittag",
+   "Drei Stunden echtes Wandern statt eines Spaziergangs"
+  ],
+  "included": [
+   "Ein englischsprachiger Wanderguide",
+   "Hotelabholung in Ella",
+   "die gefuehrte Wanderung",
+   "Transport zu den Nachmittagsstopps"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke",
+   "Eintrittsgebuehren, falls zutreffend",
+   "Trinkgelder",
+   "persoenliche Ausruestung"
+  ]
+ },
+ "ella-highlights-half-day-tour-nine-arch-bridge-halpewatte-tea-factory": {
+  "title": "Ella-Highlights-Halbtagestour: Neun-Bogen-Bruecke, Halpewatte-Teefabrik und Ravana-Wasserfaelle",
+  "metaTitle": "Ella-Highlights, halber Tag",
+  "metaDescription": "Ein erschwinglicher halber Tag mit der Neun-Bogen-Bruecke, der Halpewatte-Teefabrik, dem Waldkloster Mahameunawa und den Ravana-Wasserfaellen.",
+  "shortDescription": "Ein erschwinglicher halber Tag mit der Neun-Bogen-Bruecke, der Halpewatte-Teefabrik, dem Waldkloster Mahameunawa und den Ravana-Wasserfaellen, mit Hoteltransfers.",
+  "fullDescription": "Dies ist die kompakte, preiswerte Version von Ella, und sie deckt das meiste von dem ab, wofuer Leute kommen, ohne den Start vor Tagesanbruch der Ganztagestouren.\n\nHalpewatte ist die groesste Teefabrik der Region Uva und eine der aufschlussreicheren zu besuchen, die Besichtigung folgt dem Blatt von den Welktrogen ueber Rollen, Oxidation und Trocknen bis zur Sortiertabelle, und endet auf einer Terrasse mit Blick ueber die Plantagen und einer Tasse der Sorte, die das Land nicht verlaesst.\n\nDas Mahameunawa Asapuwa ist der Stopp, von dem die meisten Besucher nie gehoert haben. Es ist ein Waldkloster statt ein Tempel, ruhig, schlicht und in Gebrauch, und es ist eine ganz andere Atmosphaere als die bemalten, ueberfuellten Tempel der Standardroute.\n\nDie Neun-Bogen-Bruecke folgt: 91 Meter Steinviadukt, 24 Meter ueber einer Schlucht, errichtet waehrend des Ersten Weltkriegs ohne Stahl, weil der Stahl nach Europa gegangen war. Zuege ueberqueren sie etwa alle zwei Stunden und sind routinemaessig verspaetet.\n\nDie Ravana-Wasserfaelle, eine breite Kaskade an der Strasse suedlich der Stadt, schliessen den Nachmittag ab.\n\nWas diese Tour nicht enthaelt, sind die Wanderungen. Wenn Sie Little Adam’s Peak oder Ella Rock wollen, nehmen Sie einen vollen Tag.\n\nElla ist ein Dorf auf 1.040 Metern in den Bergen des Sueden, erreichbar mit dem Zug aus Kandy, den die meisten fuer die schoenste Bahnfahrt Asiens halten, und seine Sehenswuerdigkeiten liegen alle nur wenige Kilometer entfernt: die Neun-Bogen-Bruecke, ein Backsteinviadukt von 1921 in einer Teeschlucht, das mehrmals taeglich von einem Zug ueberquert wird; der Little Adam’s Peak, ein 40-minuetiger Spaziergang durch Teefelder zu einem Kamm; Ella Rock, ein anspruchsvollerer dreistuendiger Aufstieg; und die Ravana-Wasserfaelle an der Strasse nach Wellawaya. Die Morgen sind klar, und an Nachmittagen der feuchten Monate zieht Wolken in den Pass, deshalb finden Wanderungen frueh statt. Tuk-Tuks sind das Verkehrsmittel, und jede Pension kann eines besorgen.",
+  "highlights": [
+   "Halpewatte, die groesste Teefabrik in Uva, mit Terrassenblick ueber die Plantagen",
+   "Das Waldkloster Mahameunawa, das fast kein Besucher erreicht",
+   "Die Neun-Bogen-Bruecke, errichtet ohne Stahl waehrend des Ersten Weltkriegs",
+   "Die Ravana-Wasserfaelle an der Strasse suedlich der Stadt",
+   "Ein halber Tag, ohne den Start vor Tagesanbruch der Wandertouren"
+  ],
+  "included": [
+   "Transport mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Ella",
+   "alle Fahrten zwischen den Stopps"
+  ],
+  "notIncluded": [
+   "Der Eintritt zur Teefabrik",
+   "Mahlzeiten und Getraenke",
+   "Teekaeufe",
+   "Trinkgelder"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Flyboard-Erlebnis in Pattaya",
   "fullDescription": "Dies ist ein 30-minütiges Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Flyboard-Erlebnis, Betreuung durch einen Instructor, Sicherheitsausrüstung und Duschen. Nicht enthalten sind Fotos und Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
