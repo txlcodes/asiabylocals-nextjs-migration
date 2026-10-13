@@ -204,6 +204,28 @@ export const TAIPEI_INFO_SLUGS = [
   'taipei-temples-guide', 'yangmingshan-national-park-guide', 'taroko-gorge-day-trip'
 ];
 
+// South Korea launched 2026-10 with 570 live tours (Seoul 430, Busan 140) and
+// zero authority pages. This is the first batch, weighted 20 Seoul / 10 Busan.
+// Reached via getSouthKoreaInfoContent() -> getCityInfoContent(). Re-add a slug
+// here ONLY once its page exists in lib/southKoreaInfoContent.ts — isInfoSlug()
+// gates the route.
+export const SEOUL_INFO_SLUGS = [
+  'best-time-to-visit-seoul', 'things-to-do-in-seoul', 'seoul-travel-guide-2026',
+  'seoul-1-day-itinerary', 'seoul-3-day-itinerary', 'south-korea-visa-guide-for-tourists',
+  'dmz-tour-guide', 'gyeongbokgung-palace-hanbok-guide', 'seoul-subway-tmoney-guide',
+  'myeongdong-shopping-guide', 'seoul-korean-bbq-guide', 'hongdae-nightlife-guide',
+  'seoul-to-busan-travel', 'namsan-tower-guide', 'seoul-k-pop-tour-guide',
+  'bukchon-hanok-village-guide', 'insadong-guide', 'gwangjang-market-guide',
+  'seoul-palaces-guide', 'seoul-night-market-food-guide',
+];
+
+export const BUSAN_INFO_SLUGS = [
+  'best-time-to-visit-busan', 'things-to-do-in-busan', 'busan-travel-guide-2026',
+  'busan-1-day-itinerary', 'haeundae-beach-guide', 'gamcheon-culture-village-guide',
+  'jagalchi-fish-market-guide', 'busan-food-guide', 'seoul-to-busan-ktx-guide',
+  'busan-nightlife-guide',
+];
+
 // Philippines launched 2026-10 with 677 live tours (Manila 213, Cebu 464) and
 // zero authority pages. These are the first batch, weighted toward Cebu's
 // larger tour count (13 Manila, 17 Cebu). Reached via getPhilippinesInfoContent()

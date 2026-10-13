@@ -248,6 +248,26 @@ const CITY_RECOMMENDED_TOURS: Record<string, { title: string; slug: string; desc
         { title: 'Taipei: Food Tour with 12+ Taiwanese Tastings', slug: 'taipei-food-tour-with-12-taiwanese-tastings', description: 'A guided first-night orientation to beef noodle soup and night-market staples', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4a87893e8407e0d0bfe688b382f3e7103a4fac2681896191c8aaaaf9ebce8665.jpeg', price: 'From $73', rating: '4.6' },
         { title: 'From Taipei: Private Maokong Gondola & Tea Culture Day Tour', slug: 'from-taipei-private-maokong-gondola-tea-culture', description: 'A scenic gondola ride up to the tea-growing hills above the city', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4582daf2ac14268b503fdf943a54e9cf5b7f442c689b80a04ef2d861aca7a428.jpeg', price: 'From $546', rating: '4.6' },
     ],
+    'seoul': [
+        { title: 'Seoul: Gyeongbokgung Tour with Hanbok as a King or Queen', slug: 'seoul-gyeongbokgung-tour-with-hanbok-as-a-king-or', description: 'A guided palace walk with hanbok rental and free palace entry handled for you', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e83adac682525068c13880ea43e0dcf685f0e9146feb0243a603171589a2f62e.jpg', price: 'From $340', rating: '4.7' },
+        { title: 'Seoul: DMZ Small-Group Tour with Lunch & North Korea View', slug: 'seoul-dmz-small-group-tour-with-lunch-north-korea', description: "Seoul's most-booked day trip — the Third Tunnel, Dora Observatory and Imjingak", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/43e4f501bad3975debe95bac8919a4e4e2045b5609d8340fdc276487c1c8c01a.png', price: 'From $129', rating: '4.7' },
+        { title: 'Seoul: Hongdae Indie Live Music Night & Korean BBQ Dinner', slug: 'seoul-hongdae-indie-live-music-night-korean-bbq', description: "A proper BBQ dinner paired with Hongdae's indie music scene", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a3c7bd3c113aadb41d2f84904d24696c89bc6d1f1d5babf6e2472c8ba9a17082.jpg', price: 'From $57', rating: '4.7' },
+        { title: 'Be a K-Pop Star in Seoul: Studio Recording, Makeup & Video', slug: 'be-a-k-pop-star-in-seoul-studio-recording', description: 'A full styling, vocal recording and video-shoot experience, no dance background needed', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/735a6acd3c7d0a5f204f0723432e2cc29280f51e07f766a6afb5f850c99ad885.jpg', price: 'From $379', rating: '4.7' },
+        { title: 'Seoul: N Seoul Tower & Myeongdong Night Tour', slug: 'seoul-n-seoul-tower-myeongdong-night-tour', description: "Myeongdong's evening street food paired with the N Seoul Tower skyline", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/72181adabda65850009a3e75b893559387c981526472d20e04447c912aed2c11.jpg', price: 'From $135', rating: '4.7' },
+        { title: 'Seoul: Bukchon Village, Gyeongbokgung, Gwangjang Market', slug: 'seoul-bukchon-village-gyeongbokgung-gwangjang', description: "A guided morning loop through the palace, hanok village and a market stop", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c06b62fe9a354db85eec52efc79810b4d224c99289b0ede41528bb15f22a75f1.jpg', price: 'From $56', rating: '4.7' },
+        { title: 'Seoul: Insadong & Jogye Temple Cultural Guided Walking Tour', slug: 'seoul-insadong-jogye-temple-cultural-guided', description: "The traditional-crafts district and its central Buddhist temple in one guided walk", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b5b2ff5b4df99e336e8fd31561f43c38a89fea5af32db715b593eb8d05e51188.png', price: 'From $68', rating: '4.7' },
+        { title: 'Seoul: Royal Palaces, Secret Garden & Hanok Village Tour', slug: 'seoul-royal-palaces-secret-garden-hanok-village', description: "A guided day combining multiple palaces, the Secret Garden and a hanok village stop", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bad5aded21ad081f5519f659809804dacc102d3083b0e65bff9066a17679de12.jpeg', price: 'From $299', rating: '4.6' },
+    ],
+    'busan': [
+        { title: 'Busan: Jagalchi Market & Gamcheon Village Walking Tour', slug: 'busan-jagalchi-market-gamcheon-village-walking', description: "Both of Busan's signature sights in a single guided walking day", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd3dab2e37e064f0ebeef9b3bbb9ad0bf893ff1b16eefdf4fae1e358afde878f.jpg', price: 'From $262', rating: '4.7' },
+        { title: 'Busan: Day Trip to Haeundae Sky Capsule & Yonggungsa Temple', slug: 'busan-day-trip-to-haeundae-sky-capsule-yonggungsa', description: "Busan's famous beach and its clifftop coastal temple in one half-day", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ea6b12d36ba6e580fbaaccfc6ba380582658f36b52e98713e5f29e7b60c17815.jpg', price: 'From $28', rating: '4.6' },
+        { title: 'Busan: Night Views Tour with Yacht Ride and Fireworks', slug: 'busan-night-views-tour-with-yacht-ride-and', description: "Haeundae and Gwangalli's lit-up coastline, seen from the water", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/928beadadd31968dd237c66c60408a6a05da367ecf83bc45c655d7524ed42650.jpg', price: 'From $228', rating: '4.7' },
+        { title: 'Busan Bites Food Tour with 10+ Tastings', slug: 'busan-bites-food-tour-with-10-tastings', description: "A wide sampler across Busan's seafood and street-food specialties", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/347d35bea00bcf482b619cf80c8ef11ae07547c04664a9d41f605552cdfabeb4.jpg', price: 'From $114', rating: '4.7' },
+        { title: 'Busan: Night Tour with Jagalchi Market and Skywalk', slug: 'busan-night-tour-with-jagalchi-market-and-skywalk', description: "Korea's largest seafood market paired with a coastal skywalk stop", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5b956fe1c7404209d99fd39fd66a55e5ee559cc82eaa908da151fec3bb53e1e4.jpg', price: 'From $98', rating: '4.6' },
+        { title: 'Busan Tour: Gamcheon Village & Yonggungsa Temple + Lunch', slug: 'busan-tour-gamcheon-village-yonggungsa-temple', description: "Korea's 'Machu Picchu' village and the coastal temple, lunch included", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0e27d5add2a26b2a144a86a71d24168b477c8bbb9a8288d2a1d9ac0610f8bfa0.png', price: 'From $208', rating: '4.7' },
+        { title: 'Busan Nightscape Experience: From BIFF Square to The Bay 101', slug: 'busan-nightscape-experience-from-biff-square-to', description: "A guided evening linking the historic entertainment core to the modern waterfront", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d66ba674c9946e105ba898ba5ba80f1c0ddf51e30ce2bdb462968fd8cc24cc9d.jpg', price: 'From $546', rating: '4.6' },
+        { title: 'Busan: Local Food Experience & Korean Pancake Cooking', slug: 'busan-local-food-experience-korean-pancake-cooking', description: "A hands-on introduction to Busan's own food identity", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/058ceb394d9c137736b85c72ad83cb6c037275c80186b7ae384baaad3ecd87d9.png', price: 'From $77', rating: '4.7' },
+    ],
     'manila': [
         { title: 'Manila: Tour of Fort Santiago\'s Dungeons & Rizal\'s Last Walk', slug: 'manila-tour-of-fort-santiagos-dungeons-rizals', description: 'The WWII dungeons and José Rizal\'s final hours before execution', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/36fa199a7cab779366613d14f92d23bfa6c36f3abd4701ea8785946e5fb05aa2.jpg', price: 'From $47', rating: '4.6' },
         { title: 'Manila: 3-Hour Intramuros Guided Walking Tour', slug: 'manila-3-hour-intramuros-guided-walking-tour', description: 'The walled Spanish colonial core, its churches and old city walls', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/35b2c0e467012b43d605518d1fac67230f37b8c185310e2f2326b06a6c53bb28.jpeg', price: 'From $76', rating: '4.6' },
@@ -419,6 +439,42 @@ const TAIPEI_SIDEBAR = [
     { name: 'Temples Guide', slug: 'taipei-temples-guide' },
     { name: 'Yangmingshan National Park', slug: 'yangmingshan-national-park-guide' },
     { name: 'Taroko Gorge Day Trip', slug: 'taroko-gorge-day-trip' },
+];
+
+const SEOUL_SIDEBAR = [
+    { name: 'Seoul Travel Guide', slug: 'seoul-travel-guide-2026' },
+    { name: 'Things to Do', slug: 'things-to-do-in-seoul' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-seoul' },
+    { name: 'Visa Guide', slug: 'south-korea-visa-guide-for-tourists' },
+    { name: '1-Day Itinerary', slug: 'seoul-1-day-itinerary' },
+    { name: '3-Day Itinerary', slug: 'seoul-3-day-itinerary' },
+    { name: 'DMZ Tour Guide', slug: 'dmz-tour-guide' },
+    { name: 'Gyeongbokgung & Hanbok', slug: 'gyeongbokgung-palace-hanbok-guide' },
+    { name: 'Subway & T-Money Guide', slug: 'seoul-subway-tmoney-guide' },
+    { name: 'Myeongdong Shopping', slug: 'myeongdong-shopping-guide' },
+    { name: 'Korean BBQ Guide', slug: 'seoul-korean-bbq-guide' },
+    { name: 'Hongdae Nightlife', slug: 'hongdae-nightlife-guide' },
+    { name: 'Seoul to Busan', slug: 'seoul-to-busan-travel' },
+    { name: 'N Seoul Tower', slug: 'namsan-tower-guide' },
+    { name: 'K-Pop Tour Guide', slug: 'seoul-k-pop-tour-guide' },
+    { name: 'Bukchon Hanok Village', slug: 'bukchon-hanok-village-guide' },
+    { name: 'Insadong Guide', slug: 'insadong-guide' },
+    { name: 'Gwangjang Market', slug: 'gwangjang-market-guide' },
+    { name: "Seoul's Palaces", slug: 'seoul-palaces-guide' },
+    { name: 'Night Market Food Guide', slug: 'seoul-night-market-food-guide' },
+];
+
+const BUSAN_SIDEBAR = [
+    { name: 'Busan Travel Guide', slug: 'busan-travel-guide-2026' },
+    { name: 'Things to Do', slug: 'things-to-do-in-busan' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-busan' },
+    { name: '1-Day Itinerary', slug: 'busan-1-day-itinerary' },
+    { name: 'Haeundae Beach Guide', slug: 'haeundae-beach-guide' },
+    { name: 'Gamcheon Culture Village', slug: 'gamcheon-culture-village-guide' },
+    { name: 'Jagalchi Fish Market', slug: 'jagalchi-fish-market-guide' },
+    { name: 'Food Guide', slug: 'busan-food-guide' },
+    { name: 'Seoul to Busan KTX', slug: 'seoul-to-busan-ktx-guide' },
+    { name: 'Nightlife Guide', slug: 'busan-nightlife-guide' },
 ];
 
 const MANILA_SIDEBAR = [
@@ -864,6 +920,8 @@ export default function CityInfoClient({ country, city, slug, data = null }: Pro
         shanghai: SHANGHAI_SIDEBAR,
         hongkong: HONG_KONG_SIDEBAR,
         taipei: TAIPEI_SIDEBAR,
+        seoul: SEOUL_SIDEBAR,
+        busan: BUSAN_SIDEBAR,
         manila: MANILA_SIDEBAR,
         cebu: CEBU_SIDEBAR,
     };
