@@ -100409,6 +100409,229 @@ export const FR_TOURS: Record<string, TourT> = {
    "hebergement"
   ]
  },
+ "kandy-ella-transfer-hill-country-stops-nanu-oya-train": {
+  "title": "Transfert de Kandy a Ella avec arrets dans les collines et le train de Nanu Oya",
+  "metaTitle": "Kandy-Ella : train des collines",
+  "metaDescription": "Un transfert a sens unique de Kandy a Ella qui transforme le trajet en journee a part : Ramboda, les plantations de the et le train des collines.",
+  "shortDescription": "Un transfert a sens unique de Kandy a Ella qui transforme le trajet en journee a part : la cascade de Ramboda, les plantations de the et Nuwara Eliya par la route, puis le train des collines depuis Nanu Oya, billet deja reserve.",
+  "fullDescription": "Le train de Kandy a Ella est le trajet que tout le monde veut faire, et c'est aussi celui que l'on rate le plus souvent. Le parcours complet prend pres de sept heures, les billets se vendent des semaines a l'avance, et le plus beau paysage se trouve dans le dernier tronçon. Ce voyage resout le probleme en divisant la journee en deux : vous parcourez la section superieure en vehicule prive avec des arrets ou cela vaut la peine, puis vous montez a bord du train a Nanu Oya pour la partie qui merite vraiment sa reputation.\n\nLa route qui sort de Kandy grimpe par le col de Ramboda, ou la cascade tombe en plusieurs paliers pres de la route et ou l'air change sensiblement avec l'altitude. Le the remplace la jungle. Vous passerez devant des usines de plantation ou la feuille est encore fletrie, roulee et triee a peu pres comme a l'epoque ou les Britanniques ont plante les collines dans les annees 1800, et il y a le temps de s'arreter pour voir comment cela fonctionne devant une tasse buvee a l'endroit meme ou elle a ete cultivee.\n\nNuwara Eliya a toujours l'aspect de la station de montagne batie par les planteurs : un hippodrome, une poste en brique rouge, des haies et une fraicheur humide qui surprend les visiteurs apres la cote. De la, c'est un court trajet jusqu'a la gare de Nanu Oya, ou votre billet de train reserve vous attend.\n\nLa section en train traverse Ohiya et Haputale jusqu'a Ella, le long de corniches taillees dans les collines, avec des cueilleuses de the travaillant sur les pentes en dessous. Les portes restent ouvertes, les vendeurs circulent avec des vadai et du the, et les wagons sont generalement pleins. C'est le trajet ferroviaire le plus photographie de Sri Lanka, et ce n'est pas un hasard.\n\nVotre chauffeur emmene vos bagages jusqu'a Ella par la route et retrouve le train, vous voyagez donc leger. Prevoyez une journee complete de huit heures de porte a porte, c'est une journee de voyage avec un paysage exceptionnel, pas une grasse matinee. Le voyage se termine a Ella, reservez donc votre nuit suivante la-bas.",
+  "highlights": [
+   "Arret a la cascade de Ramboda sur la montee hors de Kandy",
+   "Visite d’une plantation de the en activite avec degustation sur place",
+   "Passage par Nuwara Eliya, l’ancienne station coloniale de montagne de Sri Lanka",
+   "Billet de train reserve depuis Nanu Oya sur la celebre ligne des collines",
+   "Le vehicule prive transporte vos bagages jusqu’a Ella, vous montez donc dans le train sans rien"
+  ],
+  "included": [
+   "Vehicule prive climatise depuis Kandy avec chauffeur francophone ou anglophone",
+   "billet de train reserve de Nanu Oya a Ella",
+   "prise en charge a l’hotel a Kandy",
+   "transfert des bagages jusqu’a Ella par la route",
+   "carburant, peages et parking",
+   "eau en bouteille"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "frais d’entree a l’usine de the si facture",
+   "frais d’entree pour les arrets optionnels",
+   "pourboires",
+   "hebergement a Ella"
+  ]
+ },
+ "private-car-transfer-kandy-ella-mirissa-colombo-beyond": {
+  "title": "Transfert prive en voiture depuis Kandy vers Ella, Mirissa, Colombo et au-dela",
+  "metaTitle": "Transfert prive depuis Kandy",
+  "metaDescription": "Un transfert prive de porte a porte depuis Kandy vers votre prochaine etape : Ella, Nuwara Eliya, Yala, Mirissa, Arugam Bay, Trincomalee ou Colombo.",
+  "shortDescription": "Un transfert prive de porte a porte depuis Kandy vers votre prochaine etape : Ella, Nuwara Eliya, Yala, Mirissa, Arugam Bay, Trincomalee ou Colombo. Vous gardez le vehicule et le chauffeur pour tout le trajet.",
+  "fullDescription": "Sri Lanka est une petite ile qui prend beaucoup de temps a traverser. Les routes qui sortent de Kandy grimpent, tournent et partagent l’espace avec des bus, des tuk-tuks et parfois un troupeau de vaches, et l’horaire public coincide rarement avec le moment ou vous voulez vraiment partir. Voici la solution simple : une voiture et un chauffeur prives qui viennent vous chercher a votre hotel de Kandy et vous emmenent directement a votre prochaine base, sans personne d’autre a bord.\n\nL’itineraire est a votre choix. Ella et Nuwara Eliya montent plus haut dans le pays du the. Mirissa, Arugam Bay et les plages du sud descendent vers la cote. Yala se dirige vers l’est, vers les parcs de la zone seche, Trincomalee vers le nord, vers la ville portuaire de la cote est, et Colombo vers l’ouest, vers la capitale et l’aeroport. Les temps de trajet different enormement entre ces destinations, une escapade dans les collines prend quelques heures, tandis que le trajet vers Arugam Bay ou Trincomalee occupe presque toute la journee, confirmez donc votre destination a la reservation et l’operateur vous dira a quoi vous attendre.\n\nVotre chauffeur sait ou sont les arrets qui valent la peine : une usine de the sur la route de Ramboda, un point de vue sur la vallee, un relais pour le dejeuner, un stand au bord de la route vendant du lait caille et de la melasse. Demandez et il s’arretera. Si vous preferez continuer directement, dites-le et il le fera. Cette flexibilite est la vraie difference entre un transfert prive et une place de bus.\n\nLe vehicule est climatise et il y a de la place pour les bagages, ce qui compte si vous changez d’hotel avec des valises pleines. Des sieges enfant et des vehicules plus grands pour des groupes importants peuvent generalement etre organises avec un preavis.\n\nComme les destinations varient tant, considerez ceci comme un service de transport avec un chauffeur local averti plutot que comme une visite touristique fixe. Indiquez a l’operateur votre heure de prise en charge, votre adresse de depose et les arrets souhaites, et il construira la journee autour de cela.",
+  "highlights": [
+   "Transfert prive de porte a porte depuis votre hotel a Kandy",
+   "Choisissez votre destination : Ella, Nuwara Eliya, Yala, Mirissa, Arugam Bay, Trincomalee ou Colombo",
+   "Vehicule prive climatise avec de la place pour les bagages",
+   "Chauffeur anglophone qui s’arrete pour le the, les points de vue et le dejeuner sur demande",
+   "Pas de siege partage ni d’horaire de depart fixe"
+  ],
+  "included": [
+   "Vehicule prive climatise pour tout le trajet",
+   "chauffeur anglophone",
+   "carburant, peages et parking",
+   "prise en charge a l’hotel a Kandy et depose a l’adresse choisie",
+   "eau en bouteille"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "frais d’entree aux sites visites en chemin",
+   "hebergement",
+   "pourboire du chauffeur",
+   "tout ce qui n’est pas liste comme inclus"
+  ]
+ },
+ "nuwara-eliya-kandy-sightseeing-transfer": {
+  "title": "Transfert touristique de Nuwara Eliya a Kandy",
+  "metaTitle": "Nuwara Eliya vers Kandy",
+  "metaDescription": "Un transfert touristique a sens unique de Nuwara Eliya vers Kandy, avec des arrets sur la route des collines pour les plantations de the, cascades et points de vue.",
+  "shortDescription": "Un transfert touristique a sens unique de Nuwara Eliya vers Kandy, avec des arrets sur la route des collines pour les plantations de the, cascades et points de vue plutot qu’un trajet direct.",
+  "fullDescription": "C’est un transfert plutot qu’une visite qui vous ramene a votre point de depart, et c’est la son utilite. Si vous descendez de toute facon des collines vers Kandy, cela transforme une route que vous auriez sinon dormi pendant tout le trajet en la visite de la journee.\n\nLa route A5 entre Nuwara Eliya et Kandy est l’une des plus belles routes de Sri Lanka. Elle quitte Nuwara Eliya a environ 1 900 metres d’altitude, ou les Britanniques ont plante leur station de montagne et ou le climat permet encore les legumes de climat frais et les roses qui donnent a la ville son allure etrangement transplantee, puis elle descend a travers la ceinture de the par une longue serie de virages en epingle.\n\nLe the est la raison d’etre de cette route. Apres que la maladie du cafe a detruit les plantations precedentes dans les annees 1870, les hautes terres ont ete replantees en the, et les plantations qui bordent cet itineraire travaillent encore les memes pentes. Une visite d’usine en chemin explique le fletrissage, le roulage, l’oxydation et la torrefaction, et se termine par une degustation ; c’est l’un des rares arrets de plantation du pays qui soit vraiment instructif plutot qu’une boutique avec vue.\n\nLa cascade de Ramboda tombe en deux paliers pres de la route a mi-descente et constitue un arret facile, de meme que la zone du lac Gregory si vous avez le temps avant de quitter Nuwara Eliya. Le temple hindou de Ramboda et quelques points de vue sur les vallees completent le reste.\n\nVous etes depose a votre hotel a Kandy a la fin. Environ six heures couvrent le trajet et les arrets, et votre chauffeur peut ajuster lesquels vous faites. Prevoyez des vetements chauds pour le depart ; les matins de Nuwara Eliya sont vraiment froids pour les standards sri-lankais.",
+  "highlights": [
+   "Transfert a sens unique dans les collines qui devient aussi une journee de visite",
+   "Visite d’une usine de the en activite avec degustation",
+   "Cascade de Ramboda au bord de la route sur la descente",
+   "Vues en virages en epingle sur les plantations de the des hauts plateaux centraux",
+   "Vehicule prive avec depose a votre hotel a Kandy"
+  ],
+  "included": [
+   "Vehicule prive climatise avec chauffeur anglophone",
+   "prise en charge a l’hotel a Nuwara Eliya et depose a Kandy",
+   "eau en bouteille",
+   "carburant, peages et parking"
+  ],
+  "notIncluded": [
+   "Frais d’entree a l’usine de the et aux sites",
+   "repas et boissons",
+   "pourboires",
+   "hebergement",
+   "depenses personnelles"
+  ]
+ },
+ "sigiriya-rock-dambulla-caves-small-group-day-tour": {
+  "title": "Excursion d’une journee en petit groupe au rocher de Sigiriya et aux grottes de Dambulla",
+  "metaTitle": "Sigiriya et Dambulla en petit groupe",
+  "metaDescription": "Seize heures en petit groupe depuis la cote de Kalutara et Colombo jusqu’a la forteresse rocheuse de Sigiriya et aux temples troglodytes de Dambulla.",
+  "shortDescription": "Seize heures en petit groupe depuis la cote de Kalutara et Colombo jusqu’a la forteresse rocheuse de Sigiriya et aux temples troglodytes de Dambulla, avec un arret artisanal en chemin.",
+  "fullDescription": "C’est une longue journee et il est inutile de pretendre le contraire : seize heures de porte a porte, dont huit ou neuf passees sur la route. Le triangle culturel se trouve bien au nord de la cote, et une excursion d’une journee depuis Kalutara signifie partir dans le noir et revenir dans le noir. Les gens le font quand meme, car l’alternative est de passer deux ou trois nuits a l’interieur, et si vos vacances sont centrees sur la plage, ce compromis peut avoir du sens.\n\nSigiriya est la piece maitresse. Un piton de granit qui s’eleve de deux cents metres au-dessus d’une foret plate, transforme au cinquieme siecle par le roi Kassapa en un complexe royal fortifie avec des jardins d’eau a sa base et un palais au sommet. Les fresques de la galerie abritee a mi-hauteur sont le fragment survivant d’un ensemble autrefois bien plus vaste, et le mur des miroirs en dessous porte des vers graffites laisses par des visiteurs il y a plus de mille ans. La montee compte environ 1 200 marches.\n\nDambulla arrive comme un soulagement apres cela : cinq grottes sous un seul surplomb, abritant plus de 150 images de Bouddha, un Bouddha couche de quarante metres taille dans la roche elle-meme, et des plafonds peints qui suivent les contours naturels de la pierre. Le site est en usage continu depuis le premier siecle avant notre ere.\n\nL’itineraire comprend aussi des arrets dans des ateliers d’artisanat traditionnel, generalement sculpture sur bois, batik ou travail du laiton, ou des demonstrations sont donnees et des pieces sont en vente. Ces achats sont facultatifs.\n\nLe transport se fait dans un vehicule climatise confortable avec un chauffeur-guide, et le groupe reste petit. Emportez de quoi rendre le trajet supportable et prevoyez une journee calme le lendemain.",
+  "highlights": [
+   "Grimper a Sigiriya, la citadelle rocheuse du cinquieme siecle du roi Kassapa",
+   "Fresques rupestres, mur des miroirs et porte de la patte de lion",
+   "Cinq temples troglodytes peints a Dambulla avec plus de 150 statues de Bouddha",
+   "Demonstrations artisanales traditionnelles dans un atelier de sculpture sur bois ou de batik",
+   "Petit groupe avec prise en charge a l’hotel depuis Kalutara, Colombo et les villes cotieres voisines"
+  ],
+  "included": [
+   "Vehicule climatise avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel",
+   "eau en bouteille",
+   "carburant, peages et parking inclus"
+  ],
+  "notIncluded": [
+   "Billets d’entree de Sigiriya et Dambulla",
+   "repas et boissons",
+   "frais de guide sur site",
+   "achats de souvenirs",
+   "pourboires"
+  ]
+ },
+ "udawalawe-national-park-private-safari-day-trip-lunch": {
+  "title": "Safari prive d’une journee au parc national d’Udawalawe avec dejeuner",
+  "metaTitle": "Safari d’Udawalawe",
+  "metaDescription": "Un safari de trois heures et demie a Udawalawe avec le nourrissage au lait a l’Elephant Transit Home et un dejeuner sri-lankais, depuis Colombo ou le sud.",
+  "shortDescription": "Un safari de trois heures et demie a Udawalawe avec le nourrissage au lait a l’Elephant Transit Home et un dejeuner sri-lankais, organise en prive avec transferts depuis Colombo ou la cote sud.",
+  "fullDescription": "Udawalawe est le parc des elephants. Yala attire plus l’attention grace a ses leopards, mais pour vraiment voir des elephants en nombre et en espace ouvert, Udawalawe est plus fiable, et les safaris y sont moins encombres. Le parc a ete classe en 1972 autour du reservoir d’Udawalawe, et le melange de prairies ouvertes, de broussailles et d’eau convient aussi bien aux animaux qu’aux personnes qui essaient de les photographier.\n\nLe safari ici est plus long que la norme, environ trois heures et demie, ce qui change l’experience. Cela laisse a votre chauffeur la marge de quitter le circuit principal et d’attendre au bord de l’eau plutot que de repartir apres cinq minutes. Les troupeaux avec de jeunes petits sont une vision frequente le long du reservoir, et des males solitaires occupent leur territoire dans la prairie.\n\nAu-dela des elephants, le parc abrite buffles d’eau, cerfs tachetes, sambars, chacals, crocodiles des marais et une belle liste de rapaces. Les amateurs d’oiseaux surveilleront les bords du reservoir pour les aigles pecheurs a tete grise et la prairie pour les aigles serpents huppes residents. Les leopards sont presents mais les observations restent rares et il serait malhonnete de les vendre comme garanties.\n\nL’Elephant Transit Home, adjacent au parc, recueille les elephanteaux orphelins et les eleve pour une eventuelle liberation. Le nourrissage a lieu a heures fixes depuis une plateforme d’observation, sans contact entre visiteurs et animaux. Cette reserve est tout l’interet du lieu et la raison principale de le visiter plutot qu’un des etablissements de l’ile proposant des promenades a dos d’elephant.\n\nLe dejeuner est inclus dans un restaurant local, generalement un buffet de riz et curry. La prise en charge est proposee depuis un large eventail de villes ; depuis Colombo, l’aller-retour represente une longue journee d’environ douze heures.",
+  "highlights": [
+   "Un safari plus long de trois heures et demie plutot que le circuit court habituel",
+   "Observations fiables d’elephants sauvages, y compris des troupeaux avec petits",
+   "Nourrissage au lait a l’Elephant Transit Home d’Udawalawe",
+   "Dejeuner sri-lankais de riz et curry inclus",
+   "Transferts prives depuis Colombo ou un large eventail de villes de la cote sud"
+  ],
+  "included": [
+   "Vehicule prive climatise avec chauffeur",
+   "prise en charge et depose a l’hotel",
+   "jeep de safari ouverte pour le circuit",
+   "dejeuner dans un restaurant local",
+   "eau en bouteille"
+  ],
+  "notIncluded": [
+   "Frais d’entree au parc national et permis de jeep",
+   "entree a l’Elephant Transit Home",
+   "boissons",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "hikkaduwa-reef-scuba-diving-session": {
+  "title": "Seance de plongee sous-marine sur le recif de Hikkaduwa",
+  "metaTitle": "Plongee a Hikkaduwa",
+  "metaDescription": "Une seance de plongee guidee de trois heures sur les recifs et epaves de Hikkaduwa, adaptee aux plongeurs certifies comme aux debutants complets.",
+  "shortDescription": "Une seance de plongee guidee de trois heures sur les recifs et epaves de Hikkaduwa, adaptee aux plongeurs certifies comme aux debutants complets, sous la supervision d’un instructeur.",
+  "fullDescription": "Hikkaduwa fut la premiere station balneaire de Sri Lanka, et son recif en est la raison. Un sanctuaire corallien peu profond se trouve directement au large de la plage principale, et au-dela, un ensemble de sites de plongee entre dix et trente metres offre a la region une saison qui s’etend d’environ novembre a avril, lorsque la mousson du sud-ouest est absente et que la visibilite est a son meilleur.\n\nLe recif lui-meme a subi de lourds dommages lors du blanchissement de 1998 puis du tsunami de 2004, et il est honnete de dire qu’il s’agit d’un recif en convalescence plutot que d’un recif intact. Ce qu’il offre encore, c’est une vie piscicole et une structure riches : bancs de vivaneaux et de fusiliers, murenes, poissons-lions, poissons-perroquets broutant le corail dur, et tortues vertes qui se nourrissent de l’herbier pres du rivage.\n\nLes epaves sont l’autre attrait. Plusieurs navires reposent a courte distance en bateau, dont le Conch, un petrolier du dix-neuvieme siecle en eau peu profonde, et l’Earl of Shaftesbury, tous deux suffisamment disloques pour etre favorables aux traversees a la nage et fortement colonises.\n\nLa seance dure environ trois heures au total. Les plongeurs certifies plongent a leur niveau de qualification avec un guide. Si vous n’avez jamais plonge, le temps est utilise pour un briefing theorique et pratique, un entrainement en eau peu profonde puis une plongee de decouverte supervisee avec un instructeur present tout au long. L’equipement est fourni et l’instructeur fixe une profondeur prudente.\n\nHikkaduwa se trouve a environ deux heures au sud de Colombo par l’autoroute, et les transferts ne sont pas inclus dans cette reservation, prevoyez donc le trajet separement ou combinez-le avec une nuit sur la cote.",
+  "highlights": [
+   "Plongee guidee sur recif avec bancs de poissons, murenes et tortues vertes en train de se nourrir",
+   "Sites d’epaves peu profondes a courte distance en bateau de la plage",
+   "Adapte aux plongeurs certifies et aux debutants complets sous supervision d’un instructeur",
+   "Tout l’equipement de plongee fourni",
+   "Meilleures conditions d’environ novembre a avril"
+  ],
+  "included": [
+   "Location d’equipement de plongee incluant bouteille, poids, gilet stabilisateur et detendeur",
+   "plongee guidee avec un instructeur ou moniteur qualifie",
+   "briefing de securite",
+   "transfert en bateau vers le site de plongee si necessaire"
+  ],
+  "notIncluded": [
+   "Transport vers et depuis Hikkaduwa",
+   "repas et boissons",
+   "photos ou videos sous-marines",
+   "assurance plongee",
+   "frais de cours de certification",
+   "pourboires"
+  ]
+ },
+ "udawalawe-elephant-safari-transit-home-private-day-trip": {
+  "title": "Safari aux elephants d’Udawalawe et visite de l’Elephant Transit Home en prive",
+  "metaTitle": "Udawalawe et Elephant Transit Home",
+  "metaDescription": "Une journee privee depuis Colombo vers Udawalawe, le parc le plus fiable de Sri Lanka pour les elephants sauvages, avec visite de l’Elephant Transit Home.",
+  "shortDescription": "Une journee privee complete depuis Colombo vers Udawalawe, le parc le plus fiable de Sri Lanka pour les elephants sauvages, combinee a une visite de l’Elephant Transit Home ou sont nourris les petits orphelins.",
+  "fullDescription": "Si vous voulez voir des elephants sauvages a Sri Lanka et que vous n’avez qu’une seule journee, Udawalawe est le choix raisonnable. Le parc a ete cree dans les annees 1970 autour d’un reservoir construit pour le programme de la riviere Walawe, et le melange resultant de prairies ouvertes, de broussailles et d’eau abrite une population residente de plusieurs centaines d’elephants. Le terrain est ouvert, ce qui signifie que vous les voyez reellement plutot que de les entendre se deplacer dans une foret dense.\n\nLe trajet depuis Colombo prend environ deux heures et demie a trois heures par la route, c’est donc une journee complete plutot qu’une demi-journee, et un depart matinal est ce qui rend possible le safari du matin. La route traverse la region des pierres precieuses de Ratnapura vers la zone seche.\n\nLe safari lui-meme dure environ trois heures dans une jeep ouverte. Les troupeaux avec petits sont frequents le long du bord du reservoir et autour des digues, et les males plus ages sont souvent vus seuls. Udawalawe est aussi bon pour les rapaces : aigles serpents huppes, aigles autours des sauterelles et aigles pecheurs a tete grise nichent tous ici. Buffles d’eau, cerfs tachetes, chacals et crocodiles completent la liste, et les leopards existent mais sont rarement observes dans ce parc.\n\nL’Elephant Transit Home se trouve juste a l’exterieur de la limite du parc et constitue une proposition differente des attractions a elephants plus commerciales de l’ile. Les elephanteaux orphelins y sont eleves avec un contact humain minimal et relaches dans la nature par lots, c’est pourquoi il n’y a ni promenade, ni bain, ni contact. Les visiteurs observent le nourrissage au lait depuis une plateforme a heures fixes.\n\nLe transport est prive et climatise de bout en bout, et votre chauffeur s’occupe des permis du parc et des arrangements de jeep a l’entree.",
+  "highlights": [
+   "Safari de trois heures en jeep ouverte dans le parc le plus fiable de Sri Lanka pour les elephants",
+   "Observer le nourrissage au lait des petits orphelins a l’Elephant Transit Home",
+   "Terrain de prairie ouverte et de reservoir favorisant une observation claire de la faune",
+   "Belles observations de rapaces et d’oiseaux d’eau le long des berges du reservoir",
+   "Vehicule prive climatise avec prise en charge a l’hotel depuis Colombo"
+  ],
+  "included": [
+   "Vehicule prive climatise avec chauffeur",
+   "prise en charge et depose a l’hotel a Colombo",
+   "jeep de safari ouverte pour le circuit",
+   "eau en bouteille",
+   "carburant, peages et parking"
+  ],
+  "notIncluded": [
+   "Frais d’entree au parc national et permis de jeep",
+   "entree a l’Elephant Transit Home",
+   "repas et boissons",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "galle-fort-turtle-beach-bentota-mangrove-safari-private-day-tr": {
+  "title": "Journee privee : Fort de Galle, plage des tortues et safari mangrove de Bentota",
+  "metaTitle": "Galle, tortues et mangrove de Bentota",
+  "metaDescription": "Une journee privee sur la cote sud-ouest combinant un safari fluvial dans la mangrove de Bentota, un projet de conservation des tortues et le fort de Galle.",
+  "shortDescription": "Une journee privee sur la cote sud-ouest combinant un safari fluvial dans la mangrove de Bentota, un projet de conservation des tortues, de la plongee avec tuba a Hikkaduwa et une promenade dans les murs hollandais du fort de Galle.",
+  "fullDescription": "Le tronçon de cote entre Colombo et Galle est la partie la plus developpee du littoral de Sri Lanka et aussi la plus facile a bien voir en une seule journee, car l’autoroute du sud retire la penibilite de la conduite. Ce voyage prive avance a travers quatre arrets et retour, avec une voiture et un chauffeur a disposition tout le temps.\n\nBentota vient en premier, ou la riviere rejoint la mer derriere un cordon littoral et l’estuaire de mangrove s’ouvre vers l’interieur. Le safari fluvial ici dure environ une heure a travers des tunnels de mangrove et devant de petites iles, l’une d’elles consacree a la cannelle, qui fut la denree ayant attire les Hollandais sur cette cote en premier lieu.\n\nA Hikkaduwa, le recif est assez proche de la plage pour que les tortues vertes viennent brouter dans les eaux peu profondes, et vous pouvez faire de la plongee avec tuba ou simplement patauger et observer. C’est l’un des rares endroits ou voir une tortue sauvage ne necessite ni bateau ni chance. Merci de ne pas les toucher ni les monter ; les guides qui l’encouragent sont a ignorer.\n\nLe projet de conservation des tortues de Kosgoda est le complement a cela : bassins d’eclosion, adultes blesses qui ne peuvent etre relaches, et une explication de pourquoi cinq des sept especes de tortues marines nidifient sur cette cote. Demandez a quelle vitesse les bebes tortues sont liberes ; les bons projets les gardent brievement.\n\nLe fort de Galle cloture la boucle. Les Portugais ont construit ici, les Hollandais ont reconstruit dans les annees 1660, et les Britanniques l’ont administre apres 1796 sans trop modifier le plan. A l’interieur des murs, les rues portent encore des noms hollandais, les remparts se parcourent entierement a pied, et le phare de 1848 ancre le coin cote mer. Si le temps le permet, la plage d’Unawatuna est a un court saut avant le retour vers le nord.",
+  "highlights": [
+   "Safari fluvial a travers la mangrove de l’estuaire de Bentota",
+   "Plongee avec tuba avec des tortues vertes sauvages dans les eaux peu profondes de Hikkaduwa",
+   "Projet de conservation des tortues a Kosgoda",
+   "Promenade sur les remparts et les rues hollandaises du fort de Galle",
+   "Vehicule prive climatise avec prise en charge depuis un large eventail d’hotels cotiers"
+  ],
+  "included": [
+   "Vehicule prive climatise avec chauffeur-guide",
+   "prise en charge et depose depuis Colombo ou des hotels de la cote sud",
+   "safari en bateau dans la mangrove",
+   "eau en bouteille",
+   "carburant, peages et parking"
+  ],
+  "notIncluded": [
+   "Frais d’entree et dons a l’ecloserie de tortues",
+   "location de materiel de plongee avec tuba",
+   "repas et boissons",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Séance de flyboard à Pattaya",
   "fullDescription": "Cette expérience de 30 minutes se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend séance de flyboard, accompagnement d'un instructeur, équipement de sécurité et douches. Il ne comprend pas photos et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
