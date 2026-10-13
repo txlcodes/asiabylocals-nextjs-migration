@@ -96598,6 +96598,220 @@ export const FR_TOURS: Record<string, TourT> = {
    "les pourboires"
   ]
  },
+ "all-inclusive-udawalawe-half-day-safari-from-ella-with-permit": {
+  "title": "Safari tout compris d'une demi-journee a Udawalawe depuis Ella avec permis et transferts",
+  "metaTitle": "Udawalawe demi-journee depuis Ella, tout compris",
+  "metaDescription": "Safari d'une demi-journee a Udawalawe depuis Ella avec jeep, permis du parc et transferts inclus, rien a payer a l'entree.",
+  "shortDescription": "Un safari d'une demi-journee a Udawalawe depuis Ella avec la jeep, le permis du parc et les deux transferts inclus, donc rien n'est paye a l'entree.",
+  "fullDescription": "La plupart des offres de safari sri-lankaises omettent le permis du parc, et pour un visiteur etranger cela represente 25 a 40 USD supplementaires en especes a l'entree. Celle-ci l'inclut, ce qui merite d'etre verifie en comparant les prix.\n\nUdawalawe se trouve a deux heures au sud d'Ella et c'est le parc fiable. Cree en 1972 autour d'un nouveau reservoir, les terres agricoles deplacees par l'eau sont devenues des prairies ouvertes, si bien que les quelque six cents elephants residents sont visibles plutot que caches. Les observations sont quasi certaines dans les vingt minutes suivant l'entree, ce qu'on ne peut pas dire de Yala et des leopards.\n\nA cote d'eux: des buffles d'eau, des cerfs tachetes, des chacals dores, des crocodiles des marais au bord du reservoir, et une observation des oiseaux vraiment bonne avec un afflux hivernal important de migrateurs.\n\nCe que vous ne verrez pas, c'est un leopard. Ils existent ici mais ne sont essentiellement jamais vus, donc si c'est le but du voyage, prenez Yala et acceptez les trois cents jeeps.\n\nLe trajet a l'aube est celui qui fonctionne, les animaux se deplacent a la premiere lumiere et s'abritent vers neuf heures, et vous etes de retour a Ella en debut d'apres-midi avec le reste de la journee libre.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "Le permis du parc inclus, rien a payer a l’entree",
+   "Environ 600 elephants residents sur des prairies ouvertes ou rien n’est cache",
+   "Crocodiles, buffles, chacals et bonne observation des oiseaux le long du reservoir",
+   "Un trajet a l’aube, quand les animaux se deplacent vraiment",
+   "Retour a Ella en debut d’apres-midi"
+  ],
+  "included": [
+   "Vehicule prive avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel a Ella",
+   "une jeep de safari 4x4 avec chauffeur et pisteur",
+   "le permis du parc national",
+   "le trajet de safari",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Repas",
+   "l’entree au centre de transit des elephants si ajoutee",
+   "pourboires pour le chauffeur et le pisteur"
+  ]
+ },
+ "ella-sights-and-an-udawalawe-safari-all-inclusive-private-day-trip": {
+  "title": "Les sites d'Ella et un safari a Udawalawe : excursion privee tout compris d'une journee",
+  "metaTitle": "Ella et Udawalawe en une journee, tout compris",
+  "metaDescription": "Les sites d'Ella et un safari a Udawalawe en une journee privee, avec jeep, permis du parc et centre de transit des elephants inclus.",
+  "shortDescription": "Les sites d'Ella et un safari a Udawalawe en une journee privee, avec la jeep, le permis du parc et le centre de transit des elephants tous inclus.",
+  "fullDescription": "C'est la journee combinee pour les personnes ne restant qu'une nuit a Ella et voulant a la fois la ville et la faune.\n\nLe safari vient d'abord, car c'est necessaire. Udawalawe est a deux heures au sud et les animaux se deplacent a l'aube, donc la journee commence dans le noir. Le parc a ete cree en 1972 autour d'un nouveau reservoir et les terres agricoles deplacees par l'eau sont devenues des prairies ouvertes, c'est pourquoi les quelque six cents elephants residents sont generalement visibles dans les vingt minutes suivant l'entree plutot que caches en foret.\n\nLe centre de transit des elephants a la frontiere du parc est un centre de rehabilitation plutot qu'un orphelinat: les bebes orphelins sont eleves avec un contact humain minimal et relaches dans la nature en groupes. L'alimentation est observee depuis une plateforme, sans monte, sans bain, et sans contact.\n\nPuis retour en haut de l'escarpement vers Ella pour l'apres-midi: le pont aux neuf arches, 91 metres de pierre construits sans acier pendant la Premiere Guerre mondiale, et les cascades de Ravana au bord de la route.\n\nLe permis du parc est inclus ici, ce qui est inhabituel et merite d'etre note en comparant les prix, une offre moins chere qui l'exclut n'est generalement pas moins chere.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "Un safari matinal a Udawalawe avec permis et jeep inclus",
+   "Environ 600 elephants residents sur des prairies ouvertes",
+   "Le centre de transit des elephants, qui relache ses orphelins plutot que de les garder",
+   "Le pont aux neuf arches et les cascades de Ravana l’apres-midi",
+   "Les deux moities d’Ella en une journee pour un sejour d’une nuit"
+  ],
+  "included": [
+   "Vehicule prive avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel a Ella",
+   "une jeep de safari 4x4 privee avec chauffeur et pisteur",
+   "le permis du parc national",
+   "le trajet de safari",
+   "tous les arrets de l’apres-midi"
+  ],
+  "notIncluded": [
+   "L’entree au centre de transit des elephants",
+   "repas",
+   "pourboires pour le chauffeur et le pisteur"
+  ]
+ },
+ "yala-to-ella-private-transfer-with-an-etili-village-visit-and-home": {
+  "title": "Transfert prive de Yala a Ella avec visite du village d'Etili et cuisine maison",
+  "metaTitle": "Yala vers Ella avec village d’Etili",
+  "metaDescription": "L'ascension de la plaine de Yala jusqu'a Ella avec un arret au village d'Etili, cuisine et repas avec une famille locale.",
+  "shortDescription": "L'ascension de la plaine de Yala jusqu'a Ella avec un arret au village d'Etili, cuisine avec une famille locale et repas avec elle, plutot que de rouler directement.",
+  "fullDescription": "A noter avant la reservation: le departement de conservation de la faune a ferme les blocs 1 et 2 du parc national de Yala du 14 septembre au 15 octobre 2026 en raison de la secheresse, les safaris dans ces blocs ne peuvent donc pas avoir lieu a ces dates. Les blocs 3 a 6 restent ouverts, et Udawalawe et Wilpattu ne sont pas affectes, pour un voyage dans cette periode nous vous contacterons pour deplacer le safari vers l'un de ces parcs ou a une date apres le 15 octobre. Udawalawe est le parc le plus fort pour les elephants, Wilpattu offre des observations de leopards plus tranquilles.\n\nLa plupart des gens quittent la region de Yala le matin apres un trajet de safari a l'aube et se dirigent vers les montagnes, et la montee de l'escarpement est trois heures de pas grand-chose si on la fait directement.\n\nEtili est un village agricole sur le chemin, dans la campagne entre la plaine et l'escarpement, et s'y arreter transforme le transfert en la moitie la plus memorable de la journee.\n\nCe qui se passe est simple: vous rencontrez une famille, vous cuisinez avec elle, et vous mangez ce que vous avez prepare. Le riz et curry est six ou sept plats separes cuisines individuellement et manges ensemble, et y participer signifie raper de la noix de coco sur un hiramanaya, moudre la pate d'epices sur une pierre, et cuisiner dans des pots en argile sur un feu de bois qui ne se comporte en rien comme une plaque a gaz.\n\nAutour de cela, il y a le village lui-meme, rizieres, petites exploitations, le reservoir qui les arrose, et les affaires ordinaires d'un lieu qui ne figure sur aucun itineraire.\n\nPuis l'ascension, qui est le moment ou la journee change de caractere: de la chaleur sèche des basses terres aux pentes de the a mille metres en un peu plus d'une heure, et environ quinze degres plus frais au moment ou vous atteignez Ella.\n\nEnviron cinq heures en tout, arrivee dans l'apres-midi avec votre premiere matinee a Ella libre.",
+  "highlights": [
+   "Un arret de village qui transforme un transfert de trois heures en la meilleure moitie de la journee",
+   "Cuisiner le riz et curry avec une famille et le manger avec elle",
+   "Rizieres, petites exploitations et le reservoir qui les arrose",
+   "L’ascension de la chaleur des basses terres au pays du the en une heure",
+   "Arrivee a Ella avec la matinee suivante libre pour la randonnee a l’aube"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel dans la region de Yala",
+   "la visite du village",
+   "la session de cuisine et le dejeuner",
+   "depose a votre hotel a Ella",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Boissons au-dela de celles servies avec le dejeuner",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "kalametiya-bird-sanctuary-boat-safari-from-ella-with-coastal-transfers": {
+  "title": "Safari en bateau au sanctuaire d'oiseaux de Kalametiya depuis Ella avec transferts cotiers",
+  "metaTitle": "Sanctuaire de Kalametiya, safari en bateau",
+  "metaDescription": "Safari en bateau dans les lagons et mangroves de Kalametiya, un sanctuaire d'oiseaux cotier abritant plus de 150 especes, avec transferts depuis Ella.",
+  "shortDescription": "Un safari en bateau a travers les lagons et mangroves de Kalametiya, un sanctuaire d'oiseaux cotier abritant plus de 150 especes, avec transferts aller-retour depuis Ella.",
+  "fullDescription": "Kalametiya est un systeme de lagons et mangroves cotiers sur la cote sud, a environ trois heures d'Ella, et c'est l'un des meilleurs sites d'observation des oiseaux du Sri Lanka que presque aucun visiteur n'atteint. Yala est a une heure a l'est et capte toute l'attention.\n\nLe sanctuaire couvre des lagons saumatres, des mangroves, des broussailles et un tronçon de cote, et c'est ce melange qui explique le nombre eleve d'especes, plus de 150 recensees, dont un afflux migratoire important entre environ novembre et mars. Des oiseaux de rivage sur les vasieres, des herons et aigrettes dans les eaux peu profondes, des cigognes peintes, des martins-pecheurs le long des chenaux, et des rapaces au-dessus. Des especes endemiques apparaissent dans les broussailles a l'arriere.\n\nLe bateau est un petit hors-bord, ce qui est le bon vehicule: il penetre silencieusement dans des chenaux de mangrove qu'une jeep ne pourrait jamais atteindre, et les oiseaux sont bien moins deranges par un bateau lent que par un vehicule.\n\nDes crocodiles, des varans, et dans les mangroves, parfois des loutres.\n\nLe debut de matinee est la fenetre la plus productive, c'est pourquoi la journee commence avant l'aube. Un guide avec une lunette fait une grande difference ici, une grande partie de ce qui merite d'etre vu se trouve de l'autre cote d'un lagon.\n\nTranquille, peu frequente, et pour quiconque aime vraiment les oiseaux, meilleure qu'un safari.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "Plus de 150 especes d’oiseaux dans un systeme de lagons, mangroves et broussailles cotieres",
+   "Un petit bateau qui penetre silencieusement dans des chenaux inaccessibles a une jeep",
+   "Afflux migratoire important entre environ novembre et mars",
+   "Crocodiles, varans et parfois des loutres dans les mangroves",
+   "Un site a une heure de Yala que presque aucun visiteur n’atteint"
+  ],
+  "included": [
+   "Vehicule prive avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel a Ella",
+   "le safari en bateau avec un batelier local",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Les frais d’entree au sanctuaire",
+   "repas",
+   "pourboires",
+   "jumelles"
+  ]
+ },
+ "ella-to-kandy-transfer-via-a-vedda-village-waterfalls-and-a-home-lunch": {
+  "title": "Transfert d'Ella a Kandy via un village Vedda, des cascades et un dejeuner maison",
+  "metaTitle": "Ella vers Kandy via un village Vedda",
+  "metaDescription": "Journee longue d'Ella a Kandy par la route est, avec visite d'une communaute Vedda a Dambana, deux cascades et un dejeuner maison.",
+  "shortDescription": "Une longue journee pour passer d'Ella a Kandy par la route est, avec une visite de communaute Vedda a Dambana, deux cascades et un dejeuner fait maison en route.",
+  "fullDescription": "Ella a Kandy se fait generalement par la route de montagne via Nuwara Eliya. Cet itineraire prend l'autre sens, descendant l'escarpement d'Uva, traversant la plaine vers l'est jusqu'a Mahiyanganaya, puis remontant au nord et a l'ouest vers Kandy, et c'est plus long, plus calme, et considerablement plus interessant.\n\nDambana en est la raison. Les Vedda sont le peuple indigene du Sri Lanka, present sur l'ile bien avant l'arrivee cinghalaise que les chroniques datent du cinquieme siecle avant notre ere, et quelques communautes subsistent dans cette region. Une visite signifie rencontrer des membres de la communaute, voir les techniques de chasse et de cueillette qu'ils enseignent encore, et entendre leur propre recit d'une histoire presque toujours racontee a leur sujet plutot que par eux.\n\nSoyez clair sur ce que c'est: un gagne-pain, et mis en scene dans une certaine mesure. La communaute controle la presentation et l'argent reste local, ce qui est l'argument honnete pour y aller. Quiconque le presente comme une rencontre avec des gens non touches par le monde moderne ne dit pas la verite.\n\nLe dejeuner fait maison se prend avec une famille locale plutot qu'au restaurant, et les cascades sur l'itineraire sont celles que la route principale manque completement.\n\nQuatorze heures, donc reservez-le comme la journee elle-meme plutot que comme un transfert avec des extras.\n\nKandy fut la derniere capitale des rois cinghalais, resistant aux Portugais et aux Hollandais jusqu'a ce que les Britanniques la prennent en 1815, et le temple de la relique de la dent sacree au bord du lac en fait son importance: la relique, consideree comme une dent du Bouddha, est l'objet le plus sacre de l'ile et sa garde legitimait autrefois la royaute. La chambre de la relique ouvre pour le puja trois fois par jour, vers 5h30, 9h30 et 18h30, quand les tambours commencent et que la file passe devant le coffret. Les tenues couvrent les epaules et les genoux, les chaussures se retirent a l'entree, et l'Esala Perahera en juillet ou aout parade le coffret sur un elephant a travers la ville pendant dix nuits.",
+  "highlights": [
+   "La route est tranquille vers Kandy plutot que l’itineraire de montagne frequente",
+   "Une visite de communaute Vedda a Dambana, avec des revenus qui restent au village",
+   "Deux cascades que la route principale manque",
+   "Un dejeuner fait maison avec une famille locale plutot qu’un arret restaurant",
+   "Mahiyanganaya, l’un des plus anciens stupas du Sri Lanka"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel a Ella",
+   "tous les arrets sur l’itineraire",
+   "un dejeuner fait maison",
+   "depose a votre hotel a Kandy",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Les frais de communaute du village Vedda",
+   "les dons au temple",
+   "boissons au-dela du dejeuner",
+   "pourboires"
+  ]
+ },
+ "two-parks-in-a-day-private-yala-and-udawalawe-double-safari-from-ella": {
+  "title": "Deux parcs en une journee : double safari prive Yala et Udawalawe depuis Ella",
+  "metaTitle": "Yala et Udawalawe en une journee depuis Ella",
+  "metaDescription": "Les deux parcs du sud en une longue journee privee: Yala a l'aube pour les leopards et Udawalawe l'apres-midi pour les elephants.",
+  "shortDescription": "Les deux parcs du sud en une longue journee privee: Yala a l'aube pour les leopards et Udawalawe l'apres-midi pour les elephants, qui couvrent entre eux presque tout ce que le Sri Lanka offre.",
+  "fullDescription": "A noter avant la reservation: le departement de conservation de la faune a ferme les blocs 1 et 2 du parc national de Yala du 14 septembre au 15 octobre 2026 en raison de la secheresse, les safaris dans ces blocs ne peuvent donc pas avoir lieu a ces dates. Les blocs 3 a 6 restent ouverts, et Udawalawe et Wilpattu ne sont pas affectes, pour un voyage dans cette periode nous vous contacterons pour deplacer le safari vers l'un de ces parcs ou a une date apres le 15 octobre. Udawalawe est le parc le plus fort pour les elephants, Wilpattu offre des observations de leopards plus tranquilles.\n\nYala et Udawalawe sont a quatre-vingt-dix minutes l'un de l'autre et ce n'est pas la meme experience. Faire les deux en une journee est ambitieux, et cela a du sens pour une raison precise: ce dans quoi chacun excelle, l'autre ne le fait pas.\n\nLe bloc 1 de Yala a la plus haute densite enregistree de leopards au monde. Il a aussi, lors d'une matinee chargee en saison, environ trois cents jeeps, et les animaux sont dans un maquis epineux ou ils sont difficiles a voir. C'est la loterie du leopard, jouee avec les meilleures chances au monde.\n\nUdawalawe est l'oppose. Des prairies ouvertes autour d'un reservoir, environ six cents elephants residents sans endroit ou se cacher, et des observations quasi certaines plutot que chanceuses. Presque personne ne voit de leopard ici.\n\nDonc: Yala a l'aube, quand les animaux se deplacent, pour la chance. Udawalawe l'apres-midi, quand les elephants viennent boire, pour la certitude. Entre les deux, vous avez aussi des ours lippus, des buffles, des crocodiles, et bien plus de deux cents especes d'oiseaux.\n\nTreize heures et deux permis de parc, ce qui fait de cette journee la plus chere de cette page. Elle convient aux personnes pour qui la faune est la raison de venir au Sri Lanka, et a personne d'autre.",
+  "highlights": [
+   "Les deux parcs du sud en une journee, choisis pour ce que chacun offre que l’autre ne peut pas",
+   "Yala a l’aube: la plus haute densite de leopards sauvages au monde",
+   "Udawalawe l’apres-midi: environ 600 elephants sur des prairies ouvertes",
+   "Ours lippus, buffles, crocodiles et plus de 200 especes d’oiseaux entre les deux",
+   "Un vehicule prive et des jeeps tout au long"
+  ],
+  "included": [
+   "Vehicule prive avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel a Ella",
+   "les deux jeeps de safari avec chauffeurs et pisteurs",
+   "les deux trajets de safari",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Les deux permis de parc national, a payer en especes aux entrees",
+   "repas",
+   "pourboires pour les chauffeurs et pisteurs"
+  ]
+ },
+ "udawalawe-safari-day-tour-from-ella-bandarawela-or-haputale": {
+  "title": "Excursion d'une journee de safari a Udawalawe depuis Ella, Bandarawela ou Haputale avec le centre de transit",
+  "metaTitle": "Safari a Udawalawe avec centre de transit",
+  "metaDescription": "Excursion d'une journee depuis la region d'Ella vers Udawalawe avec trajet de safari a l'aube et alimentation au centre de transit des elephants.",
+  "shortDescription": "Une excursion d'une journee depuis la region d'Ella vers Udawalawe avec un trajet de safari a l'aube et l'alimentation au centre de transit des elephants, de retour dans les montagnes en fin d'apres-midi.",
+  "fullDescription": "Udawalawe se trouve a deux heures au sud d'Ella et c'est le parc a choisir si vous voulez voir des elephants plutot que de parier sur un leopard.\n\nIl a ete cree en 1972 pour proteger le bassin versant d'un nouveau reservoir, et les terres agricoles deplacees par l'eau sont devenues des prairies ouvertes. C'est toute la raison pour laquelle cela fonctionne: il n'y a nulle part pour un elephant de se cacher, les quelque six cents animaux residents sont generalement visibles dans les vingt minutes suivant l'entree, et les observations sont quasi certaines plutot que chanceuses. Yala, une heure plus loin, a les leopards et trois cents jeeps avec eux.\n\nA cote des elephants: des buffles d'eau, des cerfs tachetes, des chacals dores, des crocodiles des marais au bord du reservoir, et une observation des oiseaux vraiment bonne, des aigles serpentaires hupps, des aigles autours variables, des cigognes peintes et une forte migration hivernale.\n\nLe centre de transit des elephants a la frontiere du parc est un centre de rehabilitation plutot qu'un orphelinat, et la difference compte. Les bebes orphelins sont eleves avec un contact humain minimal et relaches dans la nature en groupes; plusieurs centaines y sont retournes. L'alimentation est observee depuis une plateforme a distance, sans monte, sans bain, et sans contact.\n\nDe retour dans les montagnes en fin d'apres-midi.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "Environ 600 elephants residents sur des prairies ouvertes, visibles de maniere fiable",
+   "Un trajet de safari a l’aube, quand les animaux se deplacent vraiment",
+   "Le centre de transit des elephants, qui relache ses orphelins plutot que de les garder",
+   "Crocodiles, buffles, et excellente observation des oiseaux le long du reservoir",
+   "Prise en charge depuis Ella, Bandarawela ou Haputale"
+  ],
+  "included": [
+   "Vehicule prive avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel",
+   "la jeep de safari avec chauffeur et pisteur",
+   "le trajet de safari",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Le permis du parc national et l’entree au centre de transit, a payer en especes aux entrees",
+   "repas",
+   "pourboires"
+  ]
+ },
+ "ella-to-nuwara-eliya-guided-transfer-with-hakgala-gardens-and-seetha": {
+  "title": "Transfert guide d'Ella a Nuwara Eliya avec les jardins de Hakgala et Seetha Amman",
+  "metaTitle": "Ella vers Nuwara Eliya avec Hakgala",
+  "metaDescription": "La courte montee d'Ella a Nuwara Eliya transformee en demi-journee, avec le temple de Seetha Amman, les jardins botaniques de Hakgala et le lac Gregory.",
+  "shortDescription": "La courte montee d'Ella a Nuwara Eliya transformee en demi-journee, avec le temple Ramayana de Seetha Amman, les jardins botaniques de Hakgala et le lac Gregory en route.",
+  "fullDescription": "D'Ella a Nuwara Eliya, il n'y a qu'environ deux heures de conduite, ce qui en fait le trajet le plus facile des montagnes et celui qui merite le plus d'etre agremente d'arrets.\n\nLa route monte de neuf cents metres, et le caractere change avec elle: Ella a mille metres est chaude, un peu brute, et pleine de randonneurs, et Nuwara Eliya a 1 900 metres est froide, formelle et construite par les Britanniques, avec un hippodrome, un terrain de golf, et un bureau de poste de style Tudor factice.\n\nLe temple de Seetha Amman a Seetha Eliya est le premier arret veritable. Il marque la vallee ou Sita aurait ete retenue par Ravana, et il y a des depressions dans la roche de l'autre cote du ruisseau que l'on designe comme les empreintes de pas de Hanuman. Il est peint de couleurs vives dans le style sud-indien et frequente par des pelerins indiens plutot que des touristes etrangers, ce qui lui donne une atmosphere tres differente des sites bouddhistes.\n\nHakgala, juste a cote, est le deuxieme des grands jardins botaniques du Sri Lanka apres Peradeniya. Il a ete amenage en 1861 pour cultiver le quinquina destine a la quinine et plus tard le the, et a 1 700 metres il cultive ce que les basses terres ne peuvent pas: des roses, des fougeres arborescentes, des cypres, et une grande collection d'orchidees. Les pies bleues viennent ici aux visiteurs.\n\nLe lac Gregory et le centre-ville cloturent la journee.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "La montee de 900 metres de la chaleur d’Ella au formalisme froid de Nuwara Eliya",
+   "Le temple Ramayana de Seetha Amman et la roche ou l’on dit que se trouvent les empreintes de Hanuman",
+   "Les jardins botaniques de Hakgala, amenages en 1861 pour cultiver le quinquina destine a la quinine",
+   "Roses, fougeres arborescentes et pies bleues qui n’existent qu’a cette altitude",
+   "Le lac Gregory et le centre colonial de Nuwara Eliya"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel",
+   "tous les arrets sur l’itineraire",
+   "depose a votre hotel a Nuwara Eliya",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Les frais d’entree aux jardins de Hakgala",
+   "les dons au temple",
+   "repas et boissons",
+   "pourboires"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Séance de flyboard à Pattaya",
   "fullDescription": "Cette expérience de 30 minutes se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend séance de flyboard, accompagnement d'un instructeur, équipement de sécurité et douches. Il ne comprend pas photos et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
