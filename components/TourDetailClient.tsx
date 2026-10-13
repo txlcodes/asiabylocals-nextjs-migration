@@ -2899,16 +2899,19 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                       )}
 
                       {/* Contact Support for custom/larger groups */}
-                      <div className="mt-2 text-[12px] font-semibold text-gray-500 bg-gray-50 p-3 rounded-xl border border-gray-100 italic">
+                      <div className="mt-2 text-[13px] font-semibold text-gray-500 bg-gray-50 p-3 rounded-xl border border-gray-100 italic">
                         Need a custom booking or have a larger group?
                         <a
                           href="https://wa.me/918449538716"
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="text-[#10B981] ml-1 hover:underline flex items-center gap-1 mt-1 font-black"
+                          className="text-[#10B981] ml-1 hover:underline flex items-center gap-1 mt-1 font-black text-[16px] not-italic"
                         >
                           Contact Support via WhatsApp
                         </a>
+                        <div className="text-[13px] font-bold text-gray-500 mt-1 not-italic">
+                          We reply within 5 minutes
+                        </div>
                       </div>
 
 
