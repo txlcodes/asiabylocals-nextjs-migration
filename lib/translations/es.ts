@@ -97021,6 +97021,221 @@ export const ES_TOURS: Record<string, TourT> = {
    "propinas"
   ]
  },
+ "pekoe-trail-stage-11-guided-hike-horton-plains-to-udaweriya": {
+  "title": "Pekoe Trail etapa 11, caminata guiada: de Horton Plains a Udaweriya por la escalera del diablo",
+  "metaTitle": "Pekoe Trail etapa 11: la escalera del diablo",
+  "metaDescription": "La etapa mas dura y vacia del Pekoe Trail: el descenso por la escalera del diablo hasta la fabrica de te abandonada de Udaweriya.",
+  "shortDescription": "La etapa mas dura y vacia del Pekoe Trail: el descenso por la escalera del diablo desde el limite de Horton Plains hasta la fabrica de te abandonada de Udaweriya, a traves de valles que casi nadie recorre.",
+  "fullDescription": "El Pekoe Trail recorre 300 kilometros a traves del pais del te de Sri Lanka por senderos que ya existian, y la etapa 11 es la que los caminantes experimentados destacan por encima de las demas.\n\nComienza cerca del limite de Horton Plains, a unos 2.000 metros, y desciende por la escalera del diablo, una senda abierta por los britanicos para sacar el te de las plantaciones mas remotas del pais, en curvas por un escarpe con el valle abriendose en cada giro. Es una pista para jeep de nombre y una ruta de senderismo en la practica, y practicamente no hay nadie.\n\nUdaweriya, al fondo, es el punto culminante. Fue una de las plantaciones de te mas altas y aisladas de Ceilan, y la fabrica alli lleva decadas abandonada, un gran edificio industrial victoriano vacio en un valle, con la maquinaria todavia dentro. Las viviendas de la plantacion cercanas siguen habitadas.\n\nLa caminata es realmente exigente: larga, mayormente en descenso sobre terreno irregular, y el descenso es mas duro para las rodillas de lo que una subida lo seria para los pulmones. Unas seis horas a pie.\n\nNo es un paseo pintoresco y no deberia reservarse como tal. Es la etapa para quienes vinieron a Sri Lanka a caminar.\n\nLos dias al aire libre de Sri Lanka estan en las montañas y los rios. Horton Plains, sobre Nuwara Eliya, es un bucle de 9 kilometros en una meseta a 2.100 metros hasta World's End, un acantilado de 880 metros, y las cascadas de Baker, recorrido desde las 6:30 antes de que las nubes llenen la vista hacia las 10:00. La cordillera de Knuckles ofrece trekking de varios dias por bosque de niebla y pueblos. Kitulgala, en el rio Kelani donde se filmo El puente sobre el rio Kwai, es la base de rafting, rapidos de clase II a III en unos cinco kilometros, mejor de mayo a diciembre cuando el rio esta lleno. Las sanguijuelas son parte de los bosques humedos; la sal o los calcetines largos las mantienen a raya.",
+  "highlights": [
+   "La escalera del diablo, una senda abierta por los britanicos por el escarpe, sin nadie",
+   "La fabrica de te abandonada de Udaweriya, con la maquinaria todavia dentro",
+   "Inicio a 2.000 m en el limite de Horton Plains",
+   "Valles y plantaciones remotos a los que casi ningun visitante llega",
+   "La etapa mas exigente del Pekoe en esta parte del pais"
+  ],
+  "included": [
+   "Transporte desde Nuwara Eliya hasta el inicio del sendero y regreso desde la llegada",
+   "un guia de senderismo de habla inglesa",
+   "la caminata guiada",
+   "agua potable"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "propinas",
+   "equipo de senderismo personal",
+   "tarifas del parque cuando correspondan"
+  ]
+ },
+ "nuwara-eliya-to-yala-private-transfer-via-ella-and-the-nine-arch-bridge": {
+  "title": "Traslado privado de Nuwara Eliya a Yala via Ella y el puente de los nueve arcos",
+  "metaTitle": "Traslado Nuwara Eliya a Yala via Ella",
+  "metaDescription": "Un traslado privado de Nuwara Eliya a la region de Yala con Ella integrada en la ruta: el puente de los nueve arcos, Ella Rock y las cascadas de Ravana.",
+  "shortDescription": "Un traslado privado de Nuwara Eliya a la region de Yala con Ella integrada en la ruta: el puente de los nueve arcos, Ella Rock y las cascadas de Ravana en el camino.",
+  "fullDescription": "Tenga en cuenta antes de reservar: el Departamento de Conservacion de Vida Silvestre ha cerrado los bloques 1 y 2 del Parque Nacional de Yala del 14 de septiembre al 15 de octubre de 2026 por sequia, por lo que los safaris en esos bloques no pueden realizarse en esas fechas. Los bloques 3 a 6 permanecen abiertos, y Udawalawe y Wilpattu no se ven afectados; para viajes dentro de ese periodo le contactaremos para trasladar el safari a uno de esos parques o a una fecha posterior al 15 de octubre. Udawalawe es el parque mas fuerte para elefantes; Wilpattu ofrece avistamientos de leopardos mas tranquilos.\n\nDe Nuwara Eliya a la region de Yala se desciende de 1.900 metros al nivel del mar en unas cinco horas, y Ella se encuentra casi exactamente a mitad de camino. Detenerse alli en lugar de pasar de largo es la diferencia entre un traslado y un dia.\n\nLa ruta deja el pais del te y desciende por Bandarawela y Ella, donde el paisaje se abre a traves del Ella Gap hacia la llanura sur. El puente de los nueve arcos es la parada principal: 91 metros de viaducto de piedra a 24 metros sobre un desfiladero, construido durante la Primera Guerra Mundial en mamposteria solida porque el acero previsto para el fue requisado para Europa.\n\nElla Rock figura en el itinerario para quienes lo deseen, aunque es una caminata de ida y vuelta de tres horas por terreno sin señalizar, y añadirla convierte esto en un dia muy largo; la mayoria toma el puente y las cascadas y deja la caminata para una estancia en lugar de un traslado.\n\nLas cascadas de Ravana, una amplia caida de agua junto a la carretera debajo de Ella, son la ultima parada de montaña antes del descenso a la llanura.\n\nUsted llega a Tissamaharama o a la region de Yala al final de la tarde, a tiempo para instalarse antes de un safari al amanecer a la mañana siguiente.",
+  "highlights": [
+   "El descenso completo desde 1.900 m de pais del te hasta la llanura costera",
+   "El puente de los nueve arcos, construido en piedra sin acero durante la Primera Guerra Mundial",
+   "Ella Rock para quienes quieran la caminata, aunque alarga mucho el dia",
+   "Las cascadas de Ravana, la ultima parada de montaña antes de la llanura",
+   "Llegada a Yala a tiempo para instalarse antes de un safari al amanecer"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado y conductor-guia de habla inglesa",
+   "recogida en el hotel en Nuwara Eliya",
+   "todas las paradas de la ruta",
+   "entrega en Tissamaharama o la region de Yala",
+   "equipaje transportado durante todo el trayecto"
+  ],
+  "notIncluded": [
+   "Entradas cuando correspondan",
+   "comidas y bebidas",
+   "el safari del dia siguiente",
+   "propinas"
+  ]
+ },
+ "south-coast-to-ella-transfer-via-a-yala-safari-and-buduruwagala": {
+  "title": "Traslado de la costa sur a Ella via un safari en Yala y Buduruwagala",
+  "metaTitle": "Costa sur a Ella via Yala y Buduruwagala",
+  "metaDescription": "El traslado de la costa sur hasta Ella con un safari al amanecer en Yala y los Budas rupestres de Buduruwagala integrados en el trayecto.",
+  "shortDescription": "El traslado de la costa sur hasta Ella con un safari al amanecer en Yala y los Budas rupestres de Buduruwagala integrados en el trayecto.",
+  "fullDescription": "Tenga en cuenta antes de reservar: el Departamento de Conservacion de Vida Silvestre ha cerrado los bloques 1 y 2 del Parque Nacional de Yala del 14 de septiembre al 15 de octubre de 2026 por sequia, por lo que los safaris en esos bloques no pueden realizarse en esas fechas. Los bloques 3 a 6 permanecen abiertos, y Udawalawe y Wilpattu no se ven afectados; para viajes dentro de ese periodo le contactaremos para trasladar el safari a uno de esos parques o a una fecha posterior al 15 de octubre. Udawalawe es el parque mas fuerte para elefantes; Wilpattu ofrece avistamientos de leopardos mas tranquilos.\n\nYala se encuentra entre la costa suroeste y las montañas, lo que lo convierte en la parada natural en un dia de traslado en lugar de un viaje de ida y vuelta desde cualquiera de los dos extremos.\n\nEl safari va primero y tiene que ser al amanecer; los animales se mueven con la primera luz y se refugian hacia las nueve, y hacia las once el parque es solo calor y jeeps. El bloque 1 tiene la mayor densidad registrada de leopardos en el planeta y, en una mañana concurrida de temporada, unos trescientos vehiculos. Ambos hechos merecen reservarse con los ojos bien abiertos.\n\nMas alla de los leopardos hay osos perezosos, mas dificiles de encontrar y mejores cuando se logra, elefantes, bufalos de agua, cocodrilos marinos y mas de doscientas especies de aves con una fuerte migracion invernal.\n\nDespues del parque, la carretera gira al norte y empieza a subir. Buduruwagala es la parada en la subida: siete figuras esculpidas en una pared rocosa en los siglos noveno o decimo, el Buda en pie central de dieciseis metros de altura, con restos del estuco y la pintura naranja originales todavia visibles en la piedra. Es un lugar mahayana en un pais theravada y casi siempre esta vacio.\n\nLuego el escarpe, y Ella al atardecer, quince grados mas fresca que la playa que dejo atras.",
+  "highlights": [
+   "Un safari al amanecer en Yala integrado en el traslado en lugar de un dia aparte",
+   "La mayor densidad registrada de leopardos salvajes del mundo",
+   "Los Budas rupestres de Buduruwagala con la pintura original todavia visible",
+   "La subida desde el matorral costero a mil metros en una tarde",
+   "Entrega en Ella, con la mañana siguiente libre para el Little Adam’s Peak"
+  ],
+  "included": [
+   "Vehiculo privado con conductor-guia de habla inglesa",
+   "recogida en el hotel en la costa sur",
+   "el jeep de safari con conductor y rastreador",
+   "todas las paradas",
+   "entrega en Ella",
+   "equipaje transportado durante todo el trayecto"
+  ],
+  "notIncluded": [
+   "El permiso del parque nacional y la entrada a Buduruwagala, pagados en efectivo en las puertas",
+   "comidas",
+   "propinas"
+  ]
+ },
+ "ella-to-trincomalee-guided-transfer-via-mahiyanganaya-and-a-vedda": {
+  "title": "Traslado guiado de Ella a Trincomalee via Mahiyanganaya y un pueblo Vedda",
+  "metaTitle": "Ella a Trincomalee via Mahiyanganaya",
+  "metaDescription": "La larga travesia desde las montañas hasta la costa este, con la estupa de Mahiyanganaya, la visita a una comunidad Vedda y paradas en templos.",
+  "shortDescription": "La larga travesia desde las montañas hasta la costa este, con la estupa de Mahiyanganaya, la visita a una comunidad Vedda y paradas en templos, terminando en Trincomalee.",
+  "fullDescription": "Trincomalee se encuentra en uno de los mejores puertos naturales de aguas profundas del mundo, y su temporada es el inverso de la de la costa sur, seca y tranquila aproximadamente de mayo a septiembre, justo cuando Galle y Mirissa no son aptas para el baño. Para un itinerario en temporada de monzon, esa inversion es todo el argumento para ir.\n\nLlegar alli desde Ella es una larga travesia: bajando el escarpe de Uva, saliendo a la llanura de la zona seca, y hacia el noreste hasta la costa. Unas cinco horas de conduccion, y esta ruta coloca las paradas interesantes en el camino.\n\nMahiyanganaya tiene una de las estupas mas antiguas de Sri Lanka, tradicionalmente considerada como santuario de reliquias de cabello y marcando el lugar de la primera visita del Buda a la isla.\n\nDambana, cerca de alli, es la principal comunidad Vedda que queda, el pueblo indigena de Sri Lanka, presente mucho antes de la llegada cingalesa que las cronicas fechan en el siglo quinto antes de nuestra era. Una visita significa conocer a miembros de la comunidad y escuchar su propio relato de una historia que normalmente se cuenta sobre ellos. Es un sustento y en cierta medida esta representado; el dinero se queda localmente y la comunidad controla la presentacion, que es la version honesta de lo que es.\n\nSe llega a Trincomalee a ultima hora de la tarde.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, al que se llega en el tren desde Kandy que la mayoria considera el trayecto ferroviario mas bonito de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; el Little Adam’s Peak, una caminata de 40 minutos entre te hasta una cresta; Ella Rock, una subida mas exigente de tres horas; y las cascadas de Ravana en la carretera hacia Wellawaya. Las mañanas son claras y las tardes de los meses humedos traen nubes al paso, por eso las caminatas se hacen temprano. Los tuk-tuks son el transporte, y cualquier alojamiento puede conseguir uno.",
+  "highlights": [
+   "La travesia hacia la costa este, seca de mayo a septiembre",
+   "La estupa de Mahiyanganaya, una de las mas antiguas de Sri Lanka",
+   "La visita a una comunidad Vedda en Dambana, con los ingresos quedando en el pueblo",
+   "El descenso desde el escarpe de Uva hacia la llanura de la zona seca",
+   "Entrega en Trincomalee, Uppuveli o Nilaveli"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado y conductor-guia de habla inglesa",
+   "recogida en el hotel en Ella",
+   "todas las paradas de la ruta",
+   "entrega en su hotel en Trincomalee",
+   "equipaje transportado durante todo el trayecto"
+  ],
+  "notIncluded": [
+   "La tarifa comunitaria del pueblo Vedda",
+   "donativos al templo",
+   "comidas y bebidas",
+   "propinas"
+  ]
+ },
+ "hand-rolled-tea-making-workshop-in-ella-with-a-tasting-and-estate-walk": {
+  "title": "Taller de elaboracion de te enrollado a mano en Ella con degustacion y paseo por la plantacion",
+  "metaTitle": "Taller de te enrollado a mano en Ella",
+  "metaDescription": "Una sesion practica para elaborar te como antes de las fabricas: recolectar, marchitar y enrollar a mano, oxidar y secar, luego degustar cinco grados.",
+  "shortDescription": "Una sesion practica para elaborar te como se hacia antes de las fabricas: recolectar la hoja, marchitarla y enrollarla a mano, oxidarla y secarla, luego degustar cinco grados con bocados locales.",
+  "fullDescription": "Cada visitante de las montañas recorre una fabrica de te y ve a las maquinas hacer el trabajo. Muy pocos llegan a manipular la hoja alguna vez, y hacerlo cambia lo que significa la visita a la fabrica.\n\nEsta sesion comienza en el campo. Usted recolecta la hoja usted mismo, dos hojas y un brote, que es el estandar y es mas dificil de hacer con consistencia de lo que parece. Los recolectores aqui trabajan con una cuota de peso diaria, casi todas mujeres, y diez minutos intentandolo son una rapida leccion sobre lo que ese trabajo realmente es.\n\nLuego el proceso, a mano. La hoja se marchita en una bandeja en lugar de en una artesa, se enrolla entre las palmas hasta que las paredes celulares se rompen y los jugos salen a la superficie, se deja oxidar hasta que pasa de verde a cobrizo, y se seca. Es exactamente lo que una fabrica hace mecanicamente, a una escala que usted puede sostener en las manos.\n\nLa degustacion cubre cinco grados y es donde todo cobra sentido: habiendo elaborado usted mismo una pequeña cantidad, las diferencias entre un OP de hoja entera y un polvo que va a las bolsitas de te dejan de ser abstractas.\n\nBocados locales acompañan la degustacion, y un paseo por la plantacion completa la tarde. Los trayectos en tuk-tuk por los caminos sobre Ella forman parte de la experiencia.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, al que se llega en el tren desde Kandy que la mayoria considera el trayecto ferroviario mas bonito de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; el Little Adam’s Peak, una caminata de 40 minutos entre te hasta una cresta; Ella Rock, una subida mas exigente de tres horas; y las cascadas de Ravana en la carretera hacia Wellawaya. Las mañanas son claras y las tardes de los meses humedos traen nubes al paso, por eso las caminatas se hacen temprano. Los tuk-tuks son el transporte, y cualquier alojamiento puede conseguir uno.",
+  "highlights": [
+   "Recolectar usted mismo dos hojas y un brote en una plantacion en funcionamiento",
+   "Marchitar, enrollar, oxidar y secar la hoja completamente a mano",
+   "Una degustacion de cinco grados que cobra sentido porque usted hizo algo",
+   "Bocados locales y un paseo por la plantacion",
+   "Traslados en tuk-tuk por los caminos sobre Ella"
+  ],
+  "included": [
+   "Recogida y regreso en tuk-tuk en Ella",
+   "la sesion guiada de elaboracion de te",
+   "todos los materiales",
+   "una degustacion de cinco grados",
+   "bocados locales",
+   "el paseo por la plantacion"
+  ],
+  "notIncluded": [
+   "Comidas mas alla de los bocados",
+   "compras de te",
+   "propinas"
+  ]
+ },
+ "ella-peaks-long-day-trip-from-the-south-coast-with-the-train-and-both": {
+  "title": "Excursion larga a las cumbres de Ella desde la costa sur con el tren y ambas caminatas",
+  "metaTitle": "Cumbres de Ella desde la costa sur",
+  "metaDescription": "La version mas larga del dia costa-Ella: cascadas de Ravana, Little Adam's Peak, el tramo en tren de Demodara, el puente de los nueve arcos y una fabrica de te.",
+  "shortDescription": "La version mas larga del dia costa-Ella: cascadas de Ravana, Little Adam's Peak, el tramo en tren de Demodara, el puente de los nueve arcos y una fabrica de te, en mas de quince horas.",
+  "fullDescription": "Quince horas es la duracion honesta, y esta excursion existe porque mucha gente pasa una semana en la costa sur y quiere las montañas sin cambiar de hotel.\n\nOcho de esas horas son de conduccion. Ella esta a unas cuatro horas tierra adentro y la carretera sube desde el nivel del mar por el escarpe de Uva, cambiando por completo el paisaje dos veces en el camino. Cuando llega, esta a mil metros y quince grados mas fresco que la playa que dejo antes del amanecer.\n\nEn el terreno, el dia cubre la lista completa de Ella. Las cascadas de Ravana junto a la carretera. Little Adam's Peak, 45 minutos por un sendero escalonado para la vista a traves del Gap. Un corto tramo en tren entre Demodara y Ella, que le pone en la linea de montaña en lugar de solo verla. El puente de los nueve arcos, 91 metros de piedra construidos sin acero durante la Primera Guerra Mundial. Y una fabrica de te en funcionamiento, donde la hoja pasa de la artesa de marchitado a la mesa de clasificacion.\n\nSi su itinerario tiene algo de flexibilidad, dos noches en Ella es un uso mucho mejor del mismo dinero y elimina ocho horas en coche. Si no la tiene, y para muchos viajes basados en la playa no la tiene, este es el dia que le lleva hasta alli.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, al que se llega en el tren desde Kandy que la mayoria considera el trayecto ferroviario mas bonito de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; el Little Adam’s Peak, una caminata de 40 minutos entre te hasta una cresta; Ella Rock, una subida mas exigente de tres horas; y las cascadas de Ravana en la carretera hacia Wellawaya. Las mañanas son claras y las tardes de los meses humedos traen nubes al paso, por eso las caminatas se hacen temprano. Los tuk-tuks son el transporte, y cualquier alojamiento puede conseguir uno.",
+  "highlights": [
+   "La lista completa de Ella en un solo dia desde la costa sur",
+   "Little Adam’s Peak y la vista a traves del Ella Gap",
+   "Un tramo en el tren de montaña entre Demodara y Ella",
+   "El puente de los nueve arcos y las cascadas de Ravana",
+   "Una fabrica de te de Uva en funcionamiento con degustacion"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado y conductor-guia de habla inglesa",
+   "recogida y regreso al hotel en la costa sur",
+   "todos los trayectos y paradas",
+   "combustible y aparcamiento"
+  ],
+  "notIncluded": [
+   "Billetes de tren",
+   "entradas cuando correspondan",
+   "comidas y bebidas",
+   "compras de te",
+   "propinas"
+  ]
+ },
+ "udawalawe-to-ella-guided-transfer-with-buduruwagala-and-the-waterfalls": {
+  "title": "Traslado guiado de Udawalawe a Ella con Buduruwagala y las cascadas",
+  "metaTitle": "Udawalawe a Ella con Buduruwagala",
+  "metaDescription": "La subida de Udawalawe a las montañas tras un safari matutino, con los Budas rupestres de Buduruwagala, un jardin de especias y ambas grandes cascadas.",
+  "shortDescription": "La subida de Udawalawe a las montañas tras un safari matutino, con los Budas rupestres de Buduruwagala, un jardin de especias y ambas grandes cascadas en el camino.",
+  "fullDescription": "La mayoria de la gente llega a Udawalawe para un safari al amanecer y sigue camino el mismo dia. Dirigirse al norte hacia las montañas significa subir desde el matorral seco de tierras bajas hasta los mil metros, y esta ruta coloca las buenas paradas en la subida en lugar de pasar de largo.\n\nBuduruwagala es la que hace que la ruta merezca la pena. Siete figuras esculpidas en una pared rocosa en los siglos noveno o decimo, el Buda en pie central de dieciseis metros de altura, con restos del estuco y la pintura naranja originales todavia visibles en la piedra. Pertenece a la tradicion mahayana, poco comun en un pais abrumadoramente theravada, y se encuentra en matorral seco casi sin nadie alli, un cambio de ritmo considerable despues de una mañana de jeeps.\n\nUn jardin de especias cerca de Wellawaya cubre canela, pimienta, cardamomo y las plantas ayurvedicas cultivadas en todos los pueblos de aqui.\n\nDiyaluma, con 220 metros la segunda cascada mas alta de Sri Lanka, es visible por completo desde la carretera durante la subida, y las cascadas de Ravana llegan justo debajo de Ella.\n\nSe llega por la tarde, lo que deja la mañana siguiente libre para el Little Adam's Peak al amanecer, la forma correcta de empezar una estancia en Ella.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, al que se llega en el tren desde Kandy que la mayoria considera el trayecto ferroviario mas bonito de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; el Little Adam’s Peak, una caminata de 40 minutos entre te hasta una cresta; Ella Rock, una subida mas exigente de tres horas; y las cascadas de Ravana en la carretera hacia Wellawaya. Las mañanas son claras y las tardes de los meses humedos traen nubes al paso, por eso las caminatas se hacen temprano. Los tuk-tuks son el transporte, y cualquier alojamiento puede conseguir uno.",
+  "highlights": [
+   "Las siete figuras rupestres de Buduruwagala con la pintura original todavia visible",
+   "Un lugar mahayana poco comun, vacio tras una mañana de jeeps de safari",
+   "Diyaluma a 220 metros y las cascadas de Ravana durante la subida",
+   "Un jardin de especias en funcionamiento cerca de Wellawaya",
+   "Llegada a Ella con la mañana siguiente libre para la caminata del amanecer"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado y conductor-guia de habla inglesa",
+   "recogida en el hotel en Udawalawe",
+   "todas las paradas de la ruta",
+   "entrega en Ella, Bandarawela, Haputale o Beragala",
+   "equipaje transportado durante todo el trayecto"
+  ],
+  "notIncluded": [
+   "La entrada a Buduruwagala",
+   "comidas y bebidas",
+   "compras de especias",
+   "propinas"
+  ]
+ },
+ "ella-rock-a-spice-garden-and-little-adams-peak-full-day-tour": {
+  "title": "Ella Rock, un jardin de especias y Little Adam's Peak: tour de dia completo",
+  "metaTitle": "Ella Rock y Little Adam’s Peak en un dia",
+  "metaDescription": "Ambas caminatas de Ella con un jardin de especias y el puente de los nueve arcos entre ellas, el tour de dia completo a precio de grupo compartido.",
+  "shortDescription": "Ambas caminatas de Ella con un jardin de especias y el puente de los nueve arcos entre ellas, el tour de dia completo a precio de grupo compartido.",
+  "fullDescription": "Este es el dia de caminata con un poco de todo lo demas incorporado, y funciona porque Ella es lo bastante pequeña para que el jardin de especias y el puente queden entre las dos subidas en lugar de sumarse al dia.\n\nElla Rock es la caminata que justifica el guia. La ruta sigue la via del tren desde la estacion de Ella durante unos veinte minutos y luego deja la linea en un cruce sin señal, con varias alternativas plausibles y solo una respuesta correcta. Desde alli atraviesa tierras de plantacion donde los senderos se bifurcan constantemente, y la gente se pierde alli cada semana. Tres horas de ida y vuelta, una larga subida por terreno irregular, terminando en una cresta cumbre abierta con una amplia vista de vuelta sobre el Gap.\n\nLittle Adam's Peak es la mas facil, 45 minutos por un sendero en su mayoria escalonado para una vista posiblemente mejor aun.\n\nEl jardin de especias entre ambas cubre canela, pimienta, cardamomo, curcuma y las plantas ayurvedicas cultivadas en todos los jardines de pueblo de aqui. Sri Lanka produce la mayor parte de la canela verdadera del mundo, y la diferencia entre ella y la casia vendida como canela en la mayoria de los paises se hace evidente cuando alguien le muestra ambas cortezas.\n\nEl puente de los nueve arcos, 91 metros de piedra construidos sin acero durante la Primera Guerra Mundial, cierra el dia.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, al que se llega en el tren desde Kandy que la mayoria considera el trayecto ferroviario mas bonito de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; el Little Adam’s Peak, una caminata de 40 minutos entre te hasta una cresta; Ella Rock, una subida mas exigente de tres horas; y las cascadas de Ravana en la carretera hacia Wellawaya. Las mañanas son claras y las tardes de los meses humedos traen nubes al paso, por eso las caminatas se hacen temprano. Los tuk-tuks son el transporte, y cualquier alojamiento puede conseguir uno.",
+  "highlights": [
+   "Ambas caminatas de Ella en un dia a precio de grupo compartido",
+   "Un guia para Ella Rock, donde el cruce critico no esta señalizado",
+   "Un jardin de especias que cultiva verdadera canela de Ceilan, pimienta y cardamomo",
+   "El puente de los nueve arcos, construido sin acero durante la Primera Guerra Mundial",
+   "Little Adam’s Peak y la vista a traves del Ella Gap"
+  ],
+  "included": [
+   "Transporte con guia de habla inglesa",
+   "recogida y regreso al hotel en Ella",
+   "guia en ambas caminatas",
+   "la visita al jardin de especias",
+   "agua potable"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "compras de especias",
+   "entradas cuando correspondan",
+   "propinas"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Experiencia de flyboard en Pattaya",
   "fullDescription": "Esta es una experiencia de 30 minutos en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye experiencia de flyboard, apoyo de un instructor, equipo de seguridad y duchas. No incluye fotos y recogida y regreso al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
