@@ -98074,6 +98074,217 @@ export const ES_TOURS: Record<string, TourT> = {
    "propinas"
   ]
  },
+ "kandy-to-nuwara-eliya-scenic-transfer-with-an-optional-nanu-oya-train": {
+  "title": "Traslado panoramico de Kandy a Nuwara Eliya con entrega opcional en la estacion de Nanu Oya",
+  "metaTitle": "Kandy a Nuwara Eliya panoramico",
+  "metaDescription": "Una subida privada de Kandy al pais del te con cascadas, una fabrica en funcionamiento y miradores, terminando en el hotel o en la estacion de Nanu Oya.",
+  "shortDescription": "Una subida privada de Kandy al pais del te con cascadas, una fabrica en funcionamiento y miradores, terminando en su hotel en Nuwara Eliya o en la estacion de Nanu Oya para el tren a Ella.",
+  "fullDescription": "La carretera de Kandy a Nuwara Eliya gana 1.400 metros en 80 kilometros, por lo que toma tres horas en lugar de una y por lo que tratarla como un traslado con paradas es la unica forma sensata de hacerlo.\n\nLa subida pasa por Gampola y Pussellawa, y hacia la mitad el bosque da paso al te y no vuelve a cambiar. Las cascadas de Ramboda son la primera parada natural, una caida de 100 metros visible desde la carretera con una corta caminata hasta la base, y el templo Bhakta Hanuman encima es un lugar del Ramayana frecuentado por peregrinos indios en lugar de turistas.\n\nUna fabrica de te en funcionamiento sigue, llevando la hoja desde las artesas de marchitado a traves del enrollado, la oxidacion y el secado hasta la mesa de clasificacion en unos cuarenta y cinco minutos. Los miradores en el tramo superior son la parte que un autobus pasa de largo, hay dos o tres lugares donde el valle se abre por completo y un coche privado puede simplemente detenerse.\n\nEl detalle util es el final. Puede ser entregado en su hotel en Nuwara Eliya, o en la estacion de Nanu Oya a tiempo para el tren de la tarde a Ella, lo cual importa, porque Nuwara Eliya no tiene estacion propia y Nanu Oya esta a diez kilometros de la ciudad.\n\nKandy fue la ultima capital de los reyes cingaleses, resistiendo a portugueses y holandeses hasta que los britanicos la tomaron en 1815, y el Templo de la Sagrada Reliquia del Diente junto al lago es la razon de su importancia: la reliquia, considerada un diente de Buda, es el objeto mas sagrado de la isla y su custodia legitimaba antiguamente la realeza. La camara de la reliquia abre para puja tres veces al dia, aproximadamente a las 5:30, 9:30 y 18:30, cuando comienzan los tambores y la fila pasa junto al relicario. La vestimenta cubre hombros y rodillas, los zapatos se quitan en la entrada, y el Esala Perahera en julio o agosto pasea el relicario sobre un elefante por la ciudad durante diez noches.",
+  "highlights": [
+   "La subida completa de 1.400 metros desde Kandy al pais del te",
+   "Las cascadas de Ramboda y el templo Ramayana Bhakta Hanuman encima",
+   "Una fabrica de te en funcionamiento, de la artesa de marchitado a la mesa de clasificacion",
+   "Miradores en la carretera superior que un autobus pasa de largo",
+   "Entrega en su hotel o en la estacion de Nanu Oya para el tren a Ella"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado y conductor-guia de habla inglesa",
+   "recogida en el hotel en Kandy",
+   "todas las paradas de la ruta",
+   "entrega en Nuwara Eliya o en la estacion de Nanu Oya",
+   "equipaje transportado durante todo el trayecto"
+  ],
+  "notIncluded": [
+   "Billetes de tren",
+   "entradas cuando correspondan",
+   "comidas y bebidas",
+   "compras de te",
+   "propinas"
+  ]
+ },
+ "ella-to-tissamaharama-guided-transfer-with-waterfalls-and-buduruwagala": {
+  "title": "Traslado guiado de Ella a Tissamaharama con cascadas y Buduruwagala",
+  "metaTitle": "Ella a Tissamaharama con Buduruwagala",
+  "metaDescription": "El descenso de las montañas a Tissamaharama, la base para Yala, con las cascadas de Ravana, Diyaluma, un jardin de especias y los Budas rupestres de Buduruwagala.",
+  "shortDescription": "El descenso de las montañas a Tissamaharama, la base para Yala, con las cascadas de Ravana, Diyaluma, un jardin de especias y los Budas rupestres de Buduruwagala en el camino.",
+  "fullDescription": "Tissamaharama, Tissa para todos los que van, es la ciudad que sirve al Parque Nacional de Yala, y la mayoria de la gente llega la noche anterior a un safari al amanecer. Llegar alli desde Ella toma unas tres horas de conduccion, y la carretera desciende del escarpe de Uva a traves de uno de los paisajes mas bonitos del sur.\n\nLas cascadas de Ravana son la primera parada, una amplia cascada de 25 metros junto a la carretera debajo de Ella. Diyaluma sigue, la segunda mas alta de Sri Lanka con 220 metros, visible por completo desde la carretera.\n\nBuduruwagala es la razon para tomar esta ruta en lugar de la directa. Siete figuras esculpidas en una pared rocosa en los siglos noveno o decimo, el Buda en pie central de dieciseis metros de altura, con restos del estuco y la pintura naranja originales todavia visibles en la piedra. Es un lugar mahayana, poco comun en un pais theravada, y se encuentra en matorral seco casi sin nadie alli.\n\nUn jardin de especias cerca de Wellawaya cubre canela, pimienta y las plantas ayurvedicas usadas en todos los pueblos de aqui.\n\nTissa en si tiene un embalse antiguo y una gran dagoba, y usted llega por la tarde con tiempo para instalarse antes de un inicio de safari a las 4:30 de la mañana.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, al que se llega en el tren desde Kandy que la mayoria considera el trayecto ferroviario mas bonito de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; el Little Adam’s Peak, una caminata de 40 minutos entre te hasta una cresta; Ella Rock, una subida mas exigente de tres horas; y las cascadas de Ravana en la carretera hacia Wellawaya. Las mañanas son claras y las tardes de los meses humedos traen nubes al paso, por eso las caminatas se hacen temprano. Los tuk-tuks son el transporte, y cualquier alojamiento puede conseguir uno.",
+  "highlights": [
+   "Las cascadas de Ravana y Diyaluma, la segunda cascada mas alta de Sri Lanka",
+   "Las siete figuras rupestres de Buduruwagala con la pintura original todavia en la piedra",
+   "Un lugar mahayana poco comun en un pais theravada, y casi vacio",
+   "Un jardin de especias en funcionamiento cerca de Wellawaya",
+   "Llegada a Tissa a tiempo para instalarse antes de un safari al amanecer en Yala"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado y conductor-guia de habla inglesa",
+   "recogida en el hotel",
+   "todas las paradas de la ruta",
+   "entrega en su hotel en Tissamaharama",
+   "equipaje transportado durante todo el trayecto"
+  ],
+  "notIncluded": [
+   "La entrada a Buduruwagala",
+   "comidas y bebidas",
+   "compras de especias",
+   "propinas"
+  ]
+ },
+ "udawalawe-safari-day-trip-from-galle-mirissa-or-hikkaduwa": {
+  "title": "Excursion de safari a Udawalawe desde Galle, Mirissa o Hikkaduwa",
+  "metaTitle": "Safari Udawalawe desde la costa sur",
+  "metaDescription": "Una excursion tierra adentro desde la costa sur a Udawalawe, el parque de elefantes mas fiable de Sri Lanka, incluyendo la alimentacion en el Elephant Transit Home.",
+  "shortDescription": "Una excursion tierra adentro desde la costa sur a Udawalawe, el parque de elefantes mas fiable de Sri Lanka, incluyendo la alimentacion en el Elephant Transit Home para huerfanos.",
+  "fullDescription": "Udawalawe esta a unas dos horas y media tierra adentro desde la franja de Galle-Mirissa y es el parque a elegir si quiere ver elefantes en lugar de apostar por un leopardo.\n\nSe creo en 1972 para proteger la cuenca de un nuevo embalse, y las tierras de cultivo desplazadas se convirtieron en pastizal abierto. Esa historia es la razon por la que los animales aqui son visibles de una manera que no lo son en los parques boscosos: unos seiscientos elefantes residentes en terreno abierto sin donde esconderse, normalmente visibles dentro de los veinte minutos desde la entrada.\n\nJunto a ellos, bufalos de agua, ciervos moteados, chacales, cocodrilos marinos junto al embalse, y una observacion de aves excepcional, aguilas culebreras, aguilas azor mudables, cigueñas pintadas, y una fuerte afluencia de migrantes en invierno.\n\nEl Elephant Transit Home en el limite del parque es un centro de rehabilitacion en lugar de un orfanato, y la distincion importa: los terneros huerfanos se crian con contacto humano minimo y se liberan de vuelta a la naturaleza en grupos. Varios cientos han regresado. La alimentacion se observa desde una plataforma a distancia, y no hay montar, ni bañarse, ni contacto, que es el objetivo.\n\nDe vuelta en la costa al atardecer.\n\nLos parques nacionales de Sri Lanka se ven desde un jeep abierto, y cada uno tiene algo para lo que es el mejor. Yala, en el sureste, tiene la mayor densidad de leopardos del mundo, vistos con mas frecuencia a primera hora de la mañana en las rocas y carreteras del bloque 1; esta cerrado parte de septiembre y octubre cada año. Udawalawe son los elefantes, de forma fiable, en pastizal abierto alrededor de un embalse, con el Elephant Transit Home para huerfanos cerca. Minneriya y Kaudulla, cerca de Sigiriya, acogen la Reunion de aproximadamente julio a octubre, cuando varios cientos de elefantes llegan a los embalses que se encogen a ultima hora de la tarde. Wilpattu, en el noroeste, es el parque mas grande y tranquilo, con leopardos, osos perezosos y villus, los lagos naturales. Los safaris se realizan a las 6:00 y 14:30, duran de tres a cuatro horas, y la entrada del parque se paga en la puerta ademas del jeep.",
+  "highlights": [
+   "Unos 600 elefantes residentes en pastizal abierto, visibles de forma fiable",
+   "Un parque creado en 1972 cuyas tierras de cultivo desplazadas explican la visibilidad de los animales",
+   "El Elephant Transit Home, que libera a sus huerfanos de vuelta a la naturaleza",
+   "Cocodrilos, bufalos y observacion de aves excepcional junto al embalse",
+   "Recogida en el hotel en cualquier punto entre Galle y Mirissa"
+  ],
+  "included": [
+   "Transporte desde su hotel en la costa sur",
+   "un jeep de safari 4x4 con conductor y rastreador",
+   "el safari",
+   "agua potable"
+  ],
+  "notIncluded": [
+   "El permiso del parque nacional y la entrada al Transit Home, pagados en la puerta",
+   "comidas",
+   "propinas"
+  ]
+ },
+ "little-adams-peak-sunrise-hike-from-ella-with-a-local-guide": {
+  "title": "Caminata al amanecer a Little Adam's Peak desde Ella con un guia local",
+  "metaTitle": "Little Adam’s Peak al amanecer",
+  "metaDescription": "Una caminata guiada antes del amanecer a Little Adam's Peak para ver el amanecer sobre el Ella Gap, en un sendero escalonado de unos 45 minutos.",
+  "shortDescription": "Una caminata guiada antes del amanecer a Little Adam's Peak para ver el amanecer sobre el Ella Gap, en un sendero escalonado que toma unos 45 minutos y se adapta a la mayoria de niveles de forma fisica.",
+  "fullDescription": "Little Adam's Peak es la razon por la que mucha gente pone a Ella en su lista, y es uno de los mejores retornos de esfuerzo de Sri Lanka: cuarenta y cinco minutos por un sendero en su mayoria escalonado para una vista a traves del Ella Gap hacia la llanura sur, con te en cada ladera entre medio.\n\nLa caminata comienza en el borde de la ciudad, cerca de la carretera de Passara, sube suavemente por plantaciones en un sendero acondicionado, y termina con una serie de escalones de hormigon. Es manejable para la mayoria de niveles de forma fisica y para niños, y los escalones son el unico esfuerzo real.\n\nIr al amanecer no es una preferencia. El sendero mira al este, el amanecer a traves del Gap es todo el sentido, el aire es mas claro por la mañana en todos los meses del año, y hacia las nueve la cima es una cola para la misma foto. Tambien hace quince grados menos a las seis que a las diez.\n\nUn guia importa menos por la navegacion aqui que en Ella Rock y mas por caminar en la oscuridad y por las partes que la mayoria de la gente se pierde, la cima es una serie de colinas conectadas, y casi todos se detienen en la primera mientras la segunda y la tercera estan diez minutos mas adelante y son considerablemente mas vacias.\n\nDe vuelta en la ciudad para el desayuno antes de las ocho, con el resto del dia intacto.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, al que se llega en el tren desde Kandy que la mayoria considera el trayecto ferroviario mas bonito de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; el Little Adam’s Peak, una caminata de 40 minutos entre te hasta una cresta; Ella Rock, una subida mas exigente de tres horas; y las cascadas de Ravana en la carretera hacia Wellawaya. Las mañanas son claras y las tardes de los meses humedos traen nubes al paso, por eso las caminatas se hacen temprano. Los tuk-tuks son el transporte, y cualquier alojamiento puede conseguir uno.",
+  "highlights": [
+   "El amanecer a traves del Ella Gap, la vista por la que la ciudad es conocida",
+   "Un sendero escalonado de 45 minutos, apto para la mayoria de niveles de forma fisica",
+   "Subir en la oscuridad con un guia en lugar de solo",
+   "La segunda y tercera colina, a las que casi nadie llega",
+   "De vuelta en Ella para el desayuno con el dia todavia libre"
+  ],
+  "included": [
+   "Recogida en el hotel en Ella",
+   "un guia local de habla inglesa",
+   "la caminata guiada"
+  ],
+  "notIncluded": [
+   "Desayuno",
+   "agua",
+   "propinas",
+   "gastos personales"
+  ]
+ },
+ "nuwara-eliya-to-ella-guided-transfer-with-gregory-lake-seetha-amman": {
+  "title": "Traslado guiado de Nuwara Eliya a Ella con el lago Gregory, Seetha Amman y Hakgala",
+  "metaTitle": "Nuwara Eliya a Ella con Gregory y Hakgala",
+  "metaDescription": "El corto trayecto de Nuwara Eliya a Ella convertido en medio dia, con el lago Gregory, el templo Ramayana Seetha Amman y los jardines botanicos de Hakgala.",
+  "shortDescription": "El corto trayecto de Nuwara Eliya a Ella convertido en medio dia, con el lago Gregory, el templo Ramayana Seetha Amman y los jardines botanicos de Hakgala en el camino.",
+  "fullDescription": "De Nuwara Eliya a Ella son solo unas dos horas de conduccion, lo que lo convierte en el traslado mas facil de las montañas y el que mas merece rellenarse con paradas.\n\nEl lago Gregory se encuentra en el centro de Nuwara Eliya, construido bajo el gobernador britanico Sir William Gregory en 1873, y es donde la ciudad hace su paseo vespertino. A su alrededor, la estacion de montaña sobrevive en gran parte intacta, un hipodromo, un campo de golf, una oficina de correos de estilo Tudor, y setos.\n\nHakgala, diez kilometros al sur, es el segundo de los grandes jardines botanicos de Sri Lanka despues de Peradeniya, trazado en 1861 originalmente para cultivar quina para la quinina y mas tarde te. A 1.700 metros cultiva lo que las tierras bajas no pueden: rosas, helechos arborescentes, cipres y una gran coleccion de orquideas, y las urracas azules aqui se acercan a los visitantes.\n\nEl templo de Seetha Amman al lado es un lugar del Ramayana, pintado vivamente en estilo sur de la India y frecuentado por peregrinos indios. Se dice que Sita fue retenida en este valle, y hay depresiones en la roca al otro lado del arroyo que se señalan como las huellas de Hanuman.\n\nLlega a Ella por la tarde con el turismo del dia ya hecho.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, al que se llega en el tren desde Kandy que la mayoria considera el trayecto ferroviario mas bonito de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; el Little Adam’s Peak, una caminata de 40 minutos entre te hasta una cresta; Ella Rock, una subida mas exigente de tres horas; y las cascadas de Ravana en la carretera hacia Wellawaya. Las mañanas son claras y las tardes de los meses humedos traen nubes al paso, por eso las caminatas se hacen temprano. Los tuk-tuks son el transporte, y cualquier alojamiento puede conseguir uno.",
+  "highlights": [
+   "El lago Gregory y el centro colonial de Nuwara Eliya a 1.900 m",
+   "Los jardines botanicos de Hakgala, trazados en 1861 para cultivar quina",
+   "Rosas, helechos arborescentes y urracas azules que solo crecen y viven a esta altitud",
+   "El templo Ramayana Seetha Amman y la roca con las llamadas huellas de Hanuman",
+   "Llegada a Ella con su primera mañana libre para la caminata del amanecer"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado y conductor-guia de habla inglesa",
+   "recogida en el hotel en Nuwara Eliya",
+   "todas las paradas de la ruta",
+   "entrega en Ella, Bandarawela o Haputale",
+   "equipaje transportado durante todo el trayecto"
+  ],
+  "notIncluded": [
+   "La entrada a los jardines de Hakgala",
+   "donativos al templo",
+   "comidas y bebidas",
+   "propinas"
+  ]
+ },
+ "ella-to-udawalawe-guided-transfer-with-waterfalls-a-spice-garden": {
+  "title": "Traslado guiado de Ella a Udawalawe con cascadas, un jardin de especias y Buduruwagala",
+  "metaTitle": "Ella a Udawalawe con Buduruwagala",
+  "metaDescription": "El trayecto de las montañas hasta Udawalawe con las paradas de la carretera integradas: cascadas de Ravana, Diyaluma, un jardin de especias y Buduruwagala.",
+  "shortDescription": "El trayecto de las montañas hasta Udawalawe con las paradas de la carretera integradas: cascadas de Ravana, Diyaluma, un jardin de especias y los Budas rupestres de Buduruwagala.",
+  "fullDescription": "De Ella a Udawalawe son dos horas de conduccion y unas seis con las paradas, y las paradas merecen la pena porque esta carretera desciende del escarpe a traves de un campo que la mayoria de los visitantes solo ve por una ventana.\n\nLas cascadas de Ravana vienen primero, una amplia cascada de 25 metros junto a la carretera debajo de Ella, nombrada por el rey demonio del Ramayana que supuestamente escondio a Sita en las cuevas de arriba. Diyaluma, mas al sur, es la segunda mas alta de Sri Lanka con 220 metros y es visible por completo desde la carretera.\n\nBuduruwagala es la que la gente recuerda. Siete figuras esculpidas en una pared rocosa en los siglos noveno o decimo, el Buda en pie central de dieciseis metros de altura, con restos del estuco y la pintura naranja originales todavia en la piedra. Pertenece a la tradicion mahayana, poco comun en Sri Lanka, y se encuentra en matorral seco casi sin nadie alli.\n\nUn jardin de especias cerca de Wellawaya cubre canela, pimienta, cardamomo y las plantas ayurvedicas que crecen en todos los jardines de pueblo de aqui.\n\nLlega a Udawalawe por la tarde, a tiempo para registrarse antes de un safari al amanecer la mañana siguiente.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, al que se llega en el tren desde Kandy que la mayoria considera el trayecto ferroviario mas bonito de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; el Little Adam’s Peak, una caminata de 40 minutos entre te hasta una cresta; Ella Rock, una subida mas exigente de tres horas; y las cascadas de Ravana en la carretera hacia Wellawaya. Las mañanas son claras y las tardes de los meses humedos traen nubes al paso, por eso las caminatas se hacen temprano. Los tuk-tuks son el transporte, y cualquier alojamiento puede conseguir uno.",
+  "highlights": [
+   "Las cascadas de Ravana y Diyaluma, la segunda cascada mas alta de Sri Lanka",
+   "Las siete figuras rupestres de Buduruwagala, incluido un Buda en pie de 16 metros",
+   "Un lugar mahayana poco comun en un pais theravada, con la pintura original todavia visible",
+   "Un jardin de especias en funcionamiento cerca de Wellawaya",
+   "Llegada a Udawalawe a tiempo para un safari al amanecer el dia siguiente"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado y conductor-guia de habla inglesa",
+   "recogida en el hotel",
+   "todas las paradas de la ruta",
+   "entrega en su hotel en Udawalawe",
+   "equipaje transportado durante todo el trayecto"
+  ],
+  "notIncluded": [
+   "La entrada a Buduruwagala",
+   "comidas y bebidas",
+   "compras de especias",
+   "propinas"
+  ]
+ },
+ "private-yala-national-park-safari-day-trip-from-ella-and-back": {
+  "title": "Safari privado de un dia al Parque Nacional de Yala desde Ella y vuelta",
+  "metaTitle": "Safari privado en Yala, ida y vuelta desde Ella",
+  "metaDescription": "Una excursion privada de ida y vuelta de Ella a Yala con su propio jeep y rastreador, para que el trayecto se desarrolle a su ritmo, regreso a Ella la misma tarde.",
+  "shortDescription": "Una excursion privada de ida y vuelta de Ella a Yala con su propio jeep y rastreador, para que el trayecto se desarrolle a su ritmo en lugar del de un grupo, regreso a Ella la misma tarde.",
+  "fullDescription": "Tenga en cuenta antes de reservar: el Departamento de Conservacion de Vida Silvestre ha cerrado los bloques 1 y 2 del Parque Nacional de Yala del 14 de septiembre al 15 de octubre de 2026 por sequia, por lo que los safaris en esos bloques no pueden realizarse en esas fechas. Los bloques 3 a 6 permanecen abiertos, y Udawalawe y Wilpattu no se ven afectados; para viajes dentro de ese periodo le contactaremos para trasladar el safari a uno de esos parques o a una fecha posterior al 15 de octubre. Udawalawe es el parque mas fuerte para elefantes; Wilpattu ofrece avistamientos de leopardos mas tranquilos.\n\nEsta es la version privada del dia en Yala, y lo que compra es control sobre las cuatro horas que importan.\n\nEn un jeep compartido, el conductor trabaja segun un horario y la radio, lo que significa seguir avistamientos reportados por todo el bloque con otras nueve personas. En privado puede quedarse cuarenta minutos en un abrevadero, seguir un camino donde nadie mas esta, o pasar la mañana con las aves si eso es lo que su grupo realmente quiere. Los rastreadores trabajan mejor cuando el vehiculo no tiene prisa.\n\nEl bloque 1 de Yala tiene la mayor densidad registrada de leopardos del planeta y, en temporada, unos trescientos jeeps una mañana. Un vehiculo privado no elimina la multitud, pero le permite evitar el tumulto en un avistamiento y esperar uno mas tranquilo.\n\nEl parque tambien tiene osos perezosos, mas dificiles de ver que los leopardos y, para la mayoria que logra verlos, el mejor recuerdo, junto con elefantes, bufalos, cocodrilos y mas de doscientas especies de aves.\n\nEsta version regresa a Ella en lugar de entregar en la costa, lo que conviene a cualquiera que se quede dos noches en las montañas.",
+  "highlights": [
+   "Un jeep y rastreador privados, para que el trayecto se desarrolle a su ritmo",
+   "La posibilidad de evitar un avistamiento concurrido y esperar uno mas tranquilo",
+   "La mayor densidad de leopardos salvajes del mundo",
+   "Osos perezosos, elefantes, cocodrilos y mas de 200 especies de aves",
+   "Regreso a Ella la misma tarde"
+  ],
+  "included": [
+   "Vehiculo privado con conductor desde su hotel en Ella",
+   "un jeep de safari 4x4 privado con conductor y rastreador",
+   "el safari",
+   "agua potable"
+  ],
+  "notIncluded": [
+   "El permiso del parque nacional, pagado en efectivo en la entrada",
+   "comidas",
+   "propinas",
+   "gastos personales"
+  ]
+ },
+ "yala-safari-with-coastal-drop-off-from-ella-tangalle-mirissa-or-galle": {
+  "title": "Safari en Yala con entrega en la costa desde Ella: Tangalle, Mirissa o Galle",
+  "metaTitle": "Safari Yala con entrega en la costa",
+  "metaDescription": "Una version en grupo compartido del safari al amanecer en Yala en el camino de Ella a la costa sur, con entrega en Tangalle, Mirissa, Galle o Unawatuna.",
+  "shortDescription": "Una version en grupo compartido del safari al amanecer en Yala en el camino de Ella a la costa sur, con entrega en Tangalle, Mirissa, Galle o Unawatuna.",
+  "fullDescription": "Tenga en cuenta antes de reservar: el Departamento de Conservacion de Vida Silvestre ha cerrado los bloques 1 y 2 del Parque Nacional de Yala del 14 de septiembre al 15 de octubre de 2026 por sequia, por lo que los safaris en esos bloques no pueden realizarse en esas fechas. Los bloques 3 a 6 permanecen abiertos, y Udawalawe y Wilpattu no se ven afectados; para viajes dentro de ese periodo le contactaremos para trasladar el safari a uno de esos parques o a una fecha posterior al 15 de octubre. Udawalawe es el parque mas fuerte para elefantes; Wilpattu ofrece avistamientos de leopardos mas tranquilos.\n\nYala se encuentra al sureste de Ella en la carretera a la costa, lo que convierte el dia de traslado en el dia adecuado para hacerlo. Esta es la version compartida, que reduce el precio a una fraccion del equivalente privado para el mismo parque y las mismas horas.\n\nEl bloque 1 tiene la mayor densidad registrada de leopardos del planeta. Tambien tiene, en una mañana concurrida de temporada, unos trescientos jeeps. Ambos hechos son ciertos y debe reservar sabiendo ambos: este es el lugar mas probable del mundo para ver un leopardo salvaje, y no es una naturaleza virgen.\n\nEl resto del parque esta subestimado. Los osos perezosos estan aqui y son mas dificiles de ver que los leopardos, lo que los convierte en el mejor avistamiento. Elefantes, bufalos de agua, cocodrilos marinos, y mas de doscientas especies de aves incluida una fuerte migracion invernal.\n\nEl safari al amanecer es el que funciona. Los animales se mueven con la primera luz y se refugian hacia las nueve, y hacia las once el parque es solo jeeps y calor.\n\nTras el trayecto quedan unas dos horas hasta la costa, por lo que llega a primera hora de la tarde con el dia todavia utilizable.",
+  "highlights": [
+   "La mayor densidad de leopardos salvajes del mundo, a precio de grupo compartido",
+   "Un safari al amanecer cuando los animales realmente se mueven",
+   "Osos perezosos, elefantes, cocodrilos y abundante vida de aves invernal",
+   "El traslado de Ella a la costa convertido en un dia en lugar de solo un trayecto",
+   "Entrega en Tangalle, Mirissa, Galle o Unawatuna"
+  ],
+  "included": [
+   "Transporte compartido desde su hotel en Ella",
+   "un jeep de safari 4x4 con conductor y rastreador",
+   "el safari",
+   "entrega en la costa sur",
+   "equipaje transportado durante todo el trayecto"
+  ],
+  "notIncluded": [
+   "El permiso del parque nacional, pagado en efectivo en la entrada",
+   "comidas",
+   "propinas para el conductor y el rastreador"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Experiencia de flyboard en Pattaya",
   "fullDescription": "Esta es una experiencia de 30 minutos en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye experiencia de flyboard, apoyo de un instructor, equipo de seguridad y duchas. No incluye fotos y recogida y regreso al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
