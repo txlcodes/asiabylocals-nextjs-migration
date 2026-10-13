@@ -238,6 +238,16 @@ const CITY_RECOMMENDED_TOURS: Record<string, { title: string; slug: string; desc
         { title: 'Hong Kong: Yau Ma Tei Temple Street Night Walking Tour', slug: 'hong-kong-yau-ma-tei-temple-street-night-walking', description: 'A guided walk through Temple Street\'s night market stalls and food stands', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a5008587fb56e196dfaa948d1b25a7357b621c7e284237a865eb6869d279bda8.png', price: 'From $228', rating: '4.7' },
         { title: 'Macau: Macau Full Day Tour with Lunch and Transfers', slug: 'macau-macau-full-day-tour-with-lunch-and-transfers', description: 'A full-day Macau trip with ferry, transfers and lunch handled', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/172162fc9c3d4efd940fd62e939a9795bcf0950012b8453159c3ba4a6b12a0ac.jpg', price: 'From $161', rating: '4.5' },
     ],
+    'taipei': [
+        { title: 'Taipei: City Highlights Tour with Taipei 101 Observatory', slug: 'taipei-city-highlights-tour-with-taipei-101', description: 'The 89th-floor observatory plus the city highlights, in one guided day', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1dc72d786636f64e3a6ab0305d5d38e68f59356f59f82436e69ef6baabbe1080.png', price: 'From $89', rating: '4.6' },
+        { title: 'From Taipei: Jiufen and Shifen Day Trip with Guide Bus Tour', slug: 'from-taipei-jiufen-and-shifen-day-trip-with-guide', description: "Jiufen's lantern-lit old street and Shifen's sky lantern release in one day", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1e47d3f0f962cc7bd362da4d85a5ae1f321fceebb78a91f3c8ffaa921ddf757.jpg', price: 'From $62', rating: '4.6' },
+        { title: 'Taipei: Longshan Temple, Dihua Street & Taipei 101 Tour', slug: 'taipei-longshan-temple-dihua-street-taipei-101', description: "The city's most atmospheric temple, the old merchant quarter and the modern skyline", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1c6e6382cd4e43257d35e28c523c9ac75b5c4bd79122f4ce9656a2ca3ef3fbd4.png', price: 'From $466', rating: '4.6' },
+        { title: 'Taipei: 2-Hour Raohe Night Market Walking Tour', slug: 'taipei-2-hour-raohe-night-market-walking-tour', description: "A guided evening through one of Taipei's best night markets for food", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9a93e9c213f8958b4ec19e656eddff00cf009f5799d4da38df6f883acb67576b.png', price: 'From $78', rating: '4.6' },
+        { title: 'Taipei: 4-Hour Beitou Hot Springs & Heritage Walking Tour', slug: 'taipei-4-hour-beitou-hot-springs-heritage-walking', description: "A hot-spring valley that's been a resort district since the Japanese colonial era", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fb8ecdd3799b61e6b317f26aff64bda69434b789d0e131a1085ee9a6516fbabd.jpeg', price: 'From $181', rating: '4.6' },
+        { title: 'Taipei: Yangmingshan National Park Hiking Day Tour', slug: 'taipei-yangmingshan-national-park-hiking-day-tour', description: "A volcanic national park inside the city limits, with sulfur vents and trails", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cbb024dd3226f8cc19f6f86e505db9bf0d5f5ad4c73f81a468a03c1f5f4bcfd7.jpeg', price: 'From $581', rating: '4.6' },
+        { title: 'Taipei: Food Tour with 12+ Taiwanese Tastings', slug: 'taipei-food-tour-with-12-taiwanese-tastings', description: 'A guided first-night orientation to beef noodle soup and night-market staples', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4a87893e8407e0d0bfe688b382f3e7103a4fac2681896191c8aaaaf9ebce8665.jpeg', price: 'From $73', rating: '4.6' },
+        { title: 'From Taipei: Private Maokong Gondola & Tea Culture Day Tour', slug: 'from-taipei-private-maokong-gondola-tea-culture', description: 'A scenic gondola ride up to the tea-growing hills above the city', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4582daf2ac14268b503fdf943a54e9cf5b7f442c689b80a04ef2d861aca7a428.jpeg', price: 'From $546', rating: '4.6' },
+    ],
     'phuket': [
         { title: 'Phi Phi Islands Premium Catamaran Tour (Maya Bay & Snorkeling)', slug: 'phi-phi-islands-speedboat-tour-maya-bay-snorkeling', description: 'Maya Bay, Pileh Lagoon & Bamboo Island snorkelling — 8 hours', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1784980215/tours/phuket-phi-phi-bamboo-buffet-455/img_0.jpg', price: 'From $119', rating: '4.9' },
         { title: 'James Bond Island Speedboat Tour with Canoeing & Lunch', slug: 'james-bond-island-speedboat-tour-phuket', description: 'Phang Nga Bay sea caves, hong lagoons & Koh Panyee stilt village', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1772835259/tours/phuket/james-bond-island-speedboat-tour-phuket-0.jpg', price: 'From $99', rating: '4.8' },
@@ -373,6 +383,24 @@ const HONG_KONG_SIDEBAR = [
     { name: 'Disneyland Guide', slug: 'hong-kong-disneyland-guide' },
     { name: 'Typhoon Season', slug: 'hong-kong-typhoon-season' },
     { name: 'Macau Day Trip', slug: 'macau-day-trip-from-hong-kong' },
+];
+
+const TAIPEI_SIDEBAR = [
+    { name: 'Taipei Travel Guide', slug: 'taipei-travel-guide-2026' },
+    { name: 'Things to Do', slug: 'things-to-do-in-taipei' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-taipei' },
+    { name: 'Visa Guide', slug: 'taiwan-visa-guide-for-tourists' },
+    { name: '1-Day Itinerary', slug: 'taipei-1-day-itinerary' },
+    { name: '3-Day Itinerary', slug: 'taipei-3-day-itinerary' },
+    { name: 'Taipei 101 Tickets', slug: 'taipei-101-tickets-guide' },
+    { name: 'MRT & EasyCard Guide', slug: 'taipei-mrt-easycard-guide' },
+    { name: 'Shilin Night Market', slug: 'shilin-night-market-guide' },
+    { name: 'Jiufen Day Trip', slug: 'jiufen-day-trip-guide' },
+    { name: 'Hot Springs Guide', slug: 'taipei-hot-springs-guide' },
+    { name: 'Food Guide', slug: 'taipei-food-guide' },
+    { name: 'Temples Guide', slug: 'taipei-temples-guide' },
+    { name: 'Yangmingshan National Park', slug: 'yangmingshan-national-park-guide' },
+    { name: 'Taroko Gorge Day Trip', slug: 'taroko-gorge-day-trip' },
 ];
 
 const PHUKET_SIDEBAR = [
@@ -781,6 +809,7 @@ export default function CityInfoClient({ country, city, slug, data = null }: Pro
         beijing: BEIJING_SIDEBAR,
         shanghai: SHANGHAI_SIDEBAR,
         hongkong: HONG_KONG_SIDEBAR,
+        taipei: TAIPEI_SIDEBAR,
     };
     // No fallback to Agra: a Kandy page showing Taj Mahal links is worse than
     // a page with no sidebar. Cities without a map entry render none.

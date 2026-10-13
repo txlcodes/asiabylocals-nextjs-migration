@@ -193,6 +193,17 @@ export const HONG_KONG_INFO_SLUGS = [
   'hong-kong-disneyland-guide', 'hong-kong-typhoon-season', 'macau-day-trip-from-hong-kong'
 ];
 
+// Taiwan launched 2026-10 with 157 live tours (Taipei) and zero authority pages.
+// Reached via getTaiwanInfoContent() -> getCityInfoContent(). Re-add a slug here
+// ONLY once its page exists in lib/taiwanInfoContent.ts — isInfoSlug() gates the route.
+export const TAIPEI_INFO_SLUGS = [
+  'best-time-to-visit-taipei', 'things-to-do-in-taipei', 'taipei-travel-guide-2026',
+  'taipei-1-day-itinerary', 'taipei-3-day-itinerary', 'taiwan-visa-guide-for-tourists',
+  'taipei-101-tickets-guide', 'taipei-mrt-easycard-guide', 'shilin-night-market-guide',
+  'jiufen-day-trip-guide', 'taipei-hot-springs-guide', 'taipei-food-guide',
+  'taipei-temples-guide', 'yangmingshan-national-park-guide', 'taroko-gorge-day-trip'
+];
+
 export const BANGKOK_INFO_SLUGS = [
   'things-to-do-in-bangkok', 'bangkok-travel-guide-2026',
   'grand-palace-bangkok', 'wat-pho', 'wat-arun',
