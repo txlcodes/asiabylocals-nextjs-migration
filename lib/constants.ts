@@ -204,6 +204,28 @@ export const TAIPEI_INFO_SLUGS = [
   'taipei-temples-guide', 'yangmingshan-national-park-guide', 'taroko-gorge-day-trip'
 ];
 
+// Philippines launched 2026-10 with 677 live tours (Manila 213, Cebu 464) and
+// zero authority pages. These are the first batch, weighted toward Cebu's
+// larger tour count (13 Manila, 17 Cebu). Reached via getPhilippinesInfoContent()
+// -> getCityInfoContent(). Re-add a slug here ONLY once its page exists in
+// lib/philippinesInfoContent.ts — isInfoSlug() gates the route.
+export const MANILA_INFO_SLUGS = [
+  'best-time-to-visit-manila', 'things-to-do-in-manila', 'manila-travel-guide-2026',
+  'manila-1-day-itinerary', 'philippines-visa-guide-for-tourists', 'intramuros-fort-santiago-guide',
+  'manila-jeepney-guide', 'manila-food-guide', 'manila-to-boracay-travel',
+  'manila-traffic-reality-guide', 'boracay-day-trip-guide', 'manila-3-day-itinerary',
+  'taal-volcano-day-trip'
+];
+
+export const CEBU_INFO_SLUGS = [
+  'best-time-to-visit-cebu', 'things-to-do-in-cebu', 'cebu-travel-guide-2026',
+  'cebu-1-day-itinerary', 'cebu-island-hopping-guide', 'oslob-whale-sharks-guide',
+  'moalboal-sardine-run-guide', 'kawasan-falls-canyoneering', 'cebu-food-guide',
+  'cebu-3-day-itinerary', 'cebu-to-bohol-travel', 'magellan-cross-basilica-guide',
+  'cebu-beaches-guide', 'siquijor-day-trip-guide', 'cebu-diving-guide',
+  'oslob-vs-donsol-whale-sharks', 'cebu-waterfalls-guide'
+];
+
 export const BANGKOK_INFO_SLUGS = [
   'things-to-do-in-bangkok', 'bangkok-travel-guide-2026',
   'grand-palace-bangkok', 'wat-pho', 'wat-arun',

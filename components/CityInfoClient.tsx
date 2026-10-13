@@ -248,6 +248,24 @@ const CITY_RECOMMENDED_TOURS: Record<string, { title: string; slug: string; desc
         { title: 'Taipei: Food Tour with 12+ Taiwanese Tastings', slug: 'taipei-food-tour-with-12-taiwanese-tastings', description: 'A guided first-night orientation to beef noodle soup and night-market staples', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4a87893e8407e0d0bfe688b382f3e7103a4fac2681896191c8aaaaf9ebce8665.jpeg', price: 'From $73', rating: '4.6' },
         { title: 'From Taipei: Private Maokong Gondola & Tea Culture Day Tour', slug: 'from-taipei-private-maokong-gondola-tea-culture', description: 'A scenic gondola ride up to the tea-growing hills above the city', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4582daf2ac14268b503fdf943a54e9cf5b7f442c689b80a04ef2d861aca7a428.jpeg', price: 'From $546', rating: '4.6' },
     ],
+    'manila': [
+        { title: 'Manila: Tour of Fort Santiago\'s Dungeons & Rizal\'s Last Walk', slug: 'manila-tour-of-fort-santiagos-dungeons-rizals', description: 'The WWII dungeons and José Rizal\'s final hours before execution', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/36fa199a7cab779366613d14f92d23bfa6c36f3abd4701ea8785946e5fb05aa2.jpg', price: 'From $47', rating: '4.6' },
+        { title: 'Manila: 3-Hour Intramuros Guided Walking Tour', slug: 'manila-3-hour-intramuros-guided-walking-tour', description: 'The walled Spanish colonial core, its churches and old city walls', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/35b2c0e467012b43d605518d1fac67230f37b8c185310e2f2326b06a6c53bb28.jpeg', price: 'From $76', rating: '4.6' },
+        { title: 'Manila: Binondo Chinatown Walking Tour with Food Samples', slug: 'manila-binondo-chinatown-walking-tour-with-food', description: 'The world\'s oldest Chinatown, with tastings along the way', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2adfd9286c73fc964db3fc7c7ca20b32f882093c176da73e237ebc5e4a5b318d.jpg', price: 'From $194', rating: '4.6' },
+        { title: 'Private Tour! Manila, Tagaytay & Taal Volcano Day Tour', slug: 'private-tour-manila-tagaytay-taal-volcano-day-tour', description: 'The Tagaytay ridge view and Taal Volcano, one of the world\'s smallest active volcanoes', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6304876ee6b3c390549e2de990309b11d031c6621df95405850d1fbf2bca7faa.jpg', price: 'From $201', rating: '4.6' },
+        { title: 'Manila: Manila Bay Sunset Walking Tour & Waterfront History', slug: 'manila-manila-bay-sunset-walking-tour-waterfront', description: 'A guided evening walk timed to the bay\'s dramatic sunset', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c8d25b1bc8b9093b24ce020a81b9aaab739c288090ce928c9f2877c5033dffcf.jpg', price: 'From $79', rating: '4.6' },
+        { title: 'Manila: Food Tour! Cooking & Local Market Visit via Jeepney', slug: 'manila-food-tour-cooking-local-market-visit-via', description: 'A guided food and market tour that uses jeepneys as real transport', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0383216b8ddad3cad5ea7067eeca7d08916a68c1adefa530ee5ddb78961f7f15.png', price: 'From $82', rating: '4.6' },
+        { title: 'Manila: Chef-Curated Food Tour of Makati by Motorcycle', slug: 'manila-chef-curated-food-tour-of-makati-by', description: 'A guided food crawl through Makati, skipping traffic by motorcycle', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f662d2a7f11233b2fb18a7584c3d9ed1737efea4bb2a56b0945ef172a4522272.jpg', price: 'From $113', rating: '4.6' },
+    ],
+    'cebu': [
+        { title: 'Cebu: Oslob Whale Shark Tour, Sumilon Island & Tumalog Falls', slug: 'cebu-oslob-whale-shark-tour-sumilon-island', description: 'South Cebu\'s signature whale shark encounter plus Sumilon and Tumalog Falls', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/26eb511bcac63318af95c2418702f563a17f3567d203a2776c2fbb3245a7c3ef.jpg', price: 'From $227', rating: '4.6' },
+        { title: 'Cebu: Kawasan Falls Canyoneering Tour with Hotel Pickup', slug: 'cebu-kawasan-falls-canyoneering-tour-with-hotel', description: 'Jumps, rappels and swims down to Kawasan\'s turquoise main pool', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a585eec8aa1511eff1f7180824adc66ea6d09cfb817452a7dca98d9eacff84f3.png', price: 'From $345', rating: '4.6' },
+        { title: 'Cebu: Moalboal Scuba Diving, Sardines Run & Pescador Snorkel', slug: 'cebu-moalboal-scuba-diving-sardines-run-pescador', description: 'The shore-accessible sardine run plus a Pescador Island dive', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d2c79efd74626b51b0b930ddebb991094b0ecfe753eced67e4f2996403a29dd8.jpg', price: 'From $259', rating: '4.6' },
+        { title: 'Cebu: City Tour of Christianity\'s Roots in the Philippines', slug: 'cebu-city-tour-of-christianitys-roots-in-the', description: 'Magellan\'s Cross, the Basilica and Fort San Pedro in one guided loop', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d6f0eeca47f1d1602377dcfb453880973dcc660fea9fc2fe32783b5f98dbecc7.png', price: 'From $76', rating: '4.6' },
+        { title: 'From Cebu: Bohol Day Trip with Loboc River Cruise & Lunch', slug: 'from-cebu-bohol-day-trip-with-loboc-river-cruise', description: 'The Chocolate Hills and a floating-restaurant river cruise lunch', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1fd7bc0d5db837d86b5c768005af8bf1acc87efd45a3fb712604a2c5af54b82c.png', price: 'From $235', rating: '4.6' },
+        { title: 'Cebu: Private Full-Day Customizable Car Charter with Driver', slug: 'cebu-private-full-day-customizable-car-charter', description: 'A flexible private charter for structuring your own Cebu day', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bea537d3939623dc173be01f063ad6247ad5f5387bd8265942b7c15a821d1f7f.jpeg', price: 'From $130', rating: '4.6' },
+        { title: 'The Best of Siquijor Island Tour', slug: 'the-best-of-siquijor-island-tour', description: 'A guided loop through Siquijor\'s waterfalls, beaches and old churches', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a38d4330845723cacde97cb49d4f4f156870cb27d414cac620f18a12c05d6015.jpg', price: 'From $61', rating: '4.6' },
+    ],
     'phuket': [
         { title: 'Phi Phi Islands Premium Catamaran Tour (Maya Bay & Snorkeling)', slug: 'phi-phi-islands-speedboat-tour-maya-bay-snorkeling', description: 'Maya Bay, Pileh Lagoon & Bamboo Island snorkelling — 8 hours', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1784980215/tours/phuket-phi-phi-bamboo-buffet-455/img_0.jpg', price: 'From $119', rating: '4.9' },
         { title: 'James Bond Island Speedboat Tour with Canoeing & Lunch', slug: 'james-bond-island-speedboat-tour-phuket', description: 'Phang Nga Bay sea caves, hong lagoons & Koh Panyee stilt village', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1772835259/tours/phuket/james-bond-island-speedboat-tour-phuket-0.jpg', price: 'From $99', rating: '4.8' },
@@ -401,6 +419,42 @@ const TAIPEI_SIDEBAR = [
     { name: 'Temples Guide', slug: 'taipei-temples-guide' },
     { name: 'Yangmingshan National Park', slug: 'yangmingshan-national-park-guide' },
     { name: 'Taroko Gorge Day Trip', slug: 'taroko-gorge-day-trip' },
+];
+
+const MANILA_SIDEBAR = [
+    { name: 'Manila Travel Guide', slug: 'manila-travel-guide-2026' },
+    { name: 'Things to Do', slug: 'things-to-do-in-manila' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-manila' },
+    { name: 'Philippines Visa Guide', slug: 'philippines-visa-guide-for-tourists' },
+    { name: '1-Day Itinerary', slug: 'manila-1-day-itinerary' },
+    { name: '3-Day Itinerary', slug: 'manila-3-day-itinerary' },
+    { name: 'Intramuros & Fort Santiago', slug: 'intramuros-fort-santiago-guide' },
+    { name: 'Jeepney Guide', slug: 'manila-jeepney-guide' },
+    { name: 'Food Guide', slug: 'manila-food-guide' },
+    { name: 'Manila to Boracay', slug: 'manila-to-boracay-travel' },
+    { name: 'Traffic Reality Guide', slug: 'manila-traffic-reality-guide' },
+    { name: 'Boracay Day Trip', slug: 'boracay-day-trip-guide' },
+    { name: 'Taal Volcano Day Trip', slug: 'taal-volcano-day-trip' },
+];
+
+const CEBU_SIDEBAR = [
+    { name: 'Cebu Travel Guide', slug: 'cebu-travel-guide-2026' },
+    { name: 'Things to Do', slug: 'things-to-do-in-cebu' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-cebu' },
+    { name: '1-Day Itinerary', slug: 'cebu-1-day-itinerary' },
+    { name: '3-Day Itinerary', slug: 'cebu-3-day-itinerary' },
+    { name: 'Island Hopping Guide', slug: 'cebu-island-hopping-guide' },
+    { name: 'Oslob Whale Sharks', slug: 'oslob-whale-sharks-guide' },
+    { name: 'Oslob vs Donsol', slug: 'oslob-vs-donsol-whale-sharks' },
+    { name: 'Moalboal Sardine Run', slug: 'moalboal-sardine-run-guide' },
+    { name: 'Kawasan Falls Canyoneering', slug: 'kawasan-falls-canyoneering' },
+    { name: 'Waterfalls Guide', slug: 'cebu-waterfalls-guide' },
+    { name: 'Diving Guide', slug: 'cebu-diving-guide' },
+    { name: 'Beaches Guide', slug: 'cebu-beaches-guide' },
+    { name: 'Food Guide', slug: 'cebu-food-guide' },
+    { name: 'Magellan\'s Cross & Basilica', slug: 'magellan-cross-basilica-guide' },
+    { name: 'Cebu to Bohol', slug: 'cebu-to-bohol-travel' },
+    { name: 'Siquijor Day Trip', slug: 'siquijor-day-trip-guide' },
 ];
 
 const PHUKET_SIDEBAR = [
@@ -810,6 +864,8 @@ export default function CityInfoClient({ country, city, slug, data = null }: Pro
         shanghai: SHANGHAI_SIDEBAR,
         hongkong: HONG_KONG_SIDEBAR,
         taipei: TAIPEI_SIDEBAR,
+        manila: MANILA_SIDEBAR,
+        cebu: CEBU_SIDEBAR,
     };
     // No fallback to Agra: a Kandy page showing Taj Mahal links is worse than
     // a page with no sidebar. Cities without a map entry render none.

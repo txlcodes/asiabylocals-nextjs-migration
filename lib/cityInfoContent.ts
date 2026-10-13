@@ -3,6 +3,7 @@ import { getMalaysiaInfoContent } from './malaysiaInfoContent';
 import { getChinaInfoContent } from './chinaInfoContent';
 import { getHongKongInfoContent } from './hongkongInfoContent';
 import { getTaiwanInfoContent } from './taiwanInfoContent';
+import { getPhilippinesInfoContent } from './philippinesInfoContent';
 import { getTokyoInfoContent } from './tokyoInfoContent';
 import { getKyotoInfoContent } from './kyotoInfoContent';
 import { getOsakaInfoContent } from './osakaInfoContent';
@@ -171,6 +172,9 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const taiwanPage = getTaiwanInfoContent(slug);
     if (taiwanPage) return taiwanPage;
+
+    const philippinesPage = getPhilippinesInfoContent(slug);
+    if (philippinesPage) return philippinesPage;
 
     switch (slug) {
             case "things-to-do-in-agra":
