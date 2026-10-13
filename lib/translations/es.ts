@@ -100863,6 +100863,240 @@ export const ES_TOURS: Record<string, TourT> = {
    "seguro de viaje"
   ]
  },
+ "wilpattu-national-park-private-jeep-safari-day-trip-lunch": {
+  "title": "Safari privado en jeep de un dia en el parque nacional de Wilpattu con almuerzo",
+  "metaTitle": "Safari en jeep en Wilpattu",
+  "metaDescription": "Un safari privado en jeep de dia completo en el parque nacional de Wilpattu con entrada, almuerzo y transporte de ida y vuelta desde Colombo.",
+  "shortDescription": "Un safari privado en jeep de dia completo en el parque nacional de Wilpattu con entrada, almuerzo y transporte de ida y vuelta desde Colombo incluidos.",
+  "fullDescription": "Wilpattu es el parque nacional mas grande de Sri Lanka y el mas tranquilo de los parques de leopardos. Mientras que Yala puede reunir decenas de jeeps alrededor de un solo avistamiento, Wilpattu cubre mucho mas terreno con muchos menos vehiculos, asi que un leopardo aqui suele ser solo para usted. La contrapartida es honesta: el bosque denso de matorral esconde bien a los animales, y puede conducir una hora entre avistamientos.\n\nEl parque toma su nombre y su caracter de los villus, lagos naturales de agua de lluvia bordeados de arena dispersos por el bosque. Los animales acuden a los villus a beber, por lo que la ruta del safari se mueve de uno a otro. Los osos perezosos son una posibilidad real aqui, particularmente en junio y julio cuando madura la fruta de palu y suben a por ella. Leopardos, ciervos moteados, sambares, bufalos de agua, cocodrilos de pantano, jabalies y una larga lista de aves residentes y migratorias completan el resto.\n\nEste es un viaje privado, asi que el jeep y el rastreador son suyos. Eso importa mas de lo que parece. Significa que puede sentarse en un villu y esperar en lugar de ser movido, y que el conductor puede seguir llamadas de alarma en lugar de un circuito fijo.\n\nSea realista sobre el dia. Wilpattu esta a unos 180 kilometros al norte de Colombo y el trayecto dura unas tres horas y media en cada direccion, asi que la recogida es antes del amanecer y volvera tarde. Contando el viaje, el recorrido del parque y el almuerzo, esto es un dia de doce a catorce horas. Si prefiere no hacerlo de una sola vez, una noche cerca de la entrada del parque lo convierte en un viaje mucho mejor.\n\nLas tarifas de entrada y el almuerzo ya estan cubiertos, lo que elimina la habitual busqueda de efectivo en la taquilla del parque.\n\nLos meses mas secos, de febrero a octubre aproximadamente, ofrecen la mejor observacion de fauna, ya que los animales se concentran junto al agua. El parque cierra ocasionalmente secciones tras fuertes lluvias.",
+  "highlights": [
+   "Jeep y rastreador privados dentro de Wilpattu, el parque nacional mas grande y menos concurrido de Sri Lanka",
+   "Leopardos, osos perezosos, elefantes, bufalos, cocodrilos y una rica avifauna residente",
+   "Recorrido organizado alrededor de los villus, los lagos naturales donde los animales van a beber",
+   "Entrada al parque y almuerzo ya incluidos",
+   "Transporte por carretera de ida y vuelta desde Colombo o Negombo en vehiculo privado"
+  ],
+  "included": [
+   "Transporte privado climatizado desde Colombo o Negombo y de vuelta",
+   "jeep de safari con conductor y rastreador dentro del parque",
+   "tarifas de entrada y servicio del parque nacional de Wilpattu",
+   "almuerzo",
+   "agua embotellada"
+  ],
+  "notIncluded": [
+   "Alojamiento en hotel",
+   "desayuno y cena",
+   "bebidas alcoholicas",
+   "binoculares y equipo fotografico",
+   "gastos personales",
+   "propinas para el conductor y el rastreador",
+   "seguro de viaje"
+  ]
+ },
+ "water-skiing-session-colombo-port-city-waterfront": {
+  "title": "Sesion de esqui acuatico en el paseo maritimo de Colombo Port City",
+  "metaTitle": "Esqui acuatico en Colombo",
+  "metaDescription": "Una sesion de esqui acuatico de veinte minutos tirado por un bote en las aguas protegidas de Colombo Port City, con instruccion para principiantes.",
+  "shortDescription": "Una sesion de esqui acuatico de veinte minutos tirado por un bote en las aguas protegidas de Colombo Port City, con instruccion para principiantes.",
+  "fullDescription": "La recuperacion de tierra de Port City en Colombo creo un tramo de agua protegida justo al lado del centro de la ciudad, y los operadores de deportes acuaticos lo usan para las actividades remolcadas que necesitan condiciones planas. El esqui acuatico es una de ellas, y esta es una unica y corta sesion en el agua en lugar de un curso de media jornada.\n\nPrimero recibe una charla informativa en tierra: como sentarse en el agua con los esquis hacia arriba, donde sujetar la cuerda, y la instruccion mas importante, que es dejar que el bote lo levante en lugar de intentar ponerse de pie usted mismo. El piloto del bote y un observador dirigen la sesion, y la velocidad se ajusta a lo que pueda manejar en lugar de a un numero fijo.\n\nLos principiantes deben esperar que los primeros dos o tres intentos terminen con la cara llena de agua de mar. Eso es normal, y la mayoria de la gente se pone de pie y esquia hacia el cuarto o quinto tiron. Los esquiadores que ya saben lo que hacen pueden saltarse la instruccion y simplemente usar todo el turno en el agua. En cualquier caso, se usa un chaleco salvavidas en todo momento y el bote se mantiene cerca.\n\nVeinte minutos es el tiempo en el agua, no el total. Calcule alrededor de una hora en la base una vez que añada la charla, la espera del bote, el equipamiento y el secado despues. Los turnos son cortos y consecutivos, llegar tarde generalmente significa perder la reserva.\n\nLas condiciones importan aqui mas que nada. El agua esta mas plana y limpia en los meses mas secos, de noviembre a abril aproximadamente; durante el monzon del suroeste, de mayo a septiembre aproximadamente, se forma oleaje en esta costa y las sesiones se trasladan o cancelan comunmente por motivos de seguridad.\n\nEs una buena emocion corta para una hora libre en Colombo y no requiere experiencia, pero es una actividad unica en lugar de un dia completo, asi que combinela con algo mas en el paseo maritimo.",
+  "highlights": [
+   "Veinte minutos de esqui acuatico remolcado en aguas protegidas junto al centro de Colombo",
+   "Charla informativa en tierra e instruccion durante la sesion, asi que los principiantes completos pueden intentarlo",
+   "Esquis, cuerda de remolque y chaleco salvavidas proporcionados",
+   "Piloto del bote y observador supervisando todo el recorrido",
+   "Lo bastante corto para encajar en media jornada en la ciudad"
+  ],
+  "included": [
+   "Sesion de esqui acuatico de veinte minutos",
+   "bote y piloto",
+   "observador de seguridad",
+   "esquis acuaticos",
+   "cuerda de remolque",
+   "chaleco salvavidas y charla de seguridad"
+  ],
+  "notIncluded": [
+   "Recogida y entrega en el hotel",
+   "fotos y video",
+   "toallas",
+   "comidas",
+   "propinas",
+   "seguro de viaje"
+  ]
+ },
+ "colombo-port-city-snorkelling-session-beginners": {
+  "title": "Sesion de buceo con tubo para principiantes en Colombo Port City",
+  "metaTitle": "Buceo con tubo en Colombo Port City",
+  "metaDescription": "Una sesion guiada de buceo con tubo de una hora en las aguas protegidas del desarrollo de Colombo Port City, pensada para principiantes.",
+  "shortDescription": "Una sesion guiada de buceo con tubo de una hora en las aguas protegidas del desarrollo de Colombo Port City, pensada para principiantes completos.",
+  "fullDescription": "Colombo no es un destino de arrecife, y esta sesion es honesta sobre lo que es: un breve buceo con tubo supervisado en las aguas protegidas frente al paseo maritimo recuperado de Port City, dirigido a personas que quieren probar una mascara y un tubo por primera vez o llenar una hora en la costa sin salir de la ciudad.\n\nUn guia le ajusta la mascara, le muestra como vaciarla y como respirar por el tubo sin tragar la mitad del Oceano Indico, luego lo lleva en un pequeño grupo sobre los bajios. A nadie se le pide bucear libre ni nadar ninguna distancia. Si nunca ha metido la cara en el mar antes, esta es la introduccion mas suave posible, y el guia permanece en el agua con usted todo el tiempo.\n\nLo que vea depende por completo del dia. El agua frente a Colombo lleva sedimentos del puerto y los rios, por lo que la visibilidad oscila entre decente y mala. En una mañana clara vera pequeños peces de arrecife y de escombros sobre la estructura que ha crecido en los rompeolas. En una turbia, obtendra un chapuzon y una leccion. Quien espere jardines de coral deberia reservar en la costa este en su lugar, y el operador dira lo mismo.\n\nLa ventaja de esta sesion es la comodidad y la temporada. Esta a minutos de los hoteles del centro de Colombo, funciona en turnos cortos y fijos que encajan en un dia en la ciudad, y no necesita certificacion, formulario medico ni experiencia.\n\nLas condiciones son mejores en los meses mas secos, de noviembre a abril aproximadamente. Durante el monzon del suroeste, de mayo a septiembre aproximadamente, el oleaje en esta costa aumenta y las sesiones se posponen con frecuencia por motivos de seguridad en lugar de hacerse en aguas malas.\n\nTraiga traje de baño, espere volver a tierra en una hora, y tratelo como una muestra en lugar del evento principal de un viaje a Sri Lanka.",
+  "highlights": [
+   "Un breve buceo con tubo guiado a minutos del centro de Colombo, sin experiencia necesaria",
+   "Mascara, tubo y aletas proporcionados y ajustados para usted",
+   "El guia permanece en el agua con el grupo todo el tiempo",
+   "Chalecos de flotacion disponibles para quienes no saben nadar",
+   "Encaja facilmente en media jornada en la ciudad"
+  ],
+  "included": [
+   "Guia de buceo con tubo",
+   "mascara, tubo y aletas",
+   "chaleco de flotacion a peticion",
+   "charla de seguridad y agua potable"
+  ],
+  "notIncluded": [
+   "Recogida y entrega en el hotel",
+   "toallas",
+   "fotografias",
+   "comidas",
+   "propinas",
+   "seguro de viaje"
+  ]
+ },
+ "colombo-city-sightseeing-tuk-tuk-hotel-pickup": {
+  "title": "Tour de ciudad de Colombo en tuk-tuk con recogida en el hotel",
+  "metaTitle": "Colombo en tuk-tuk",
+  "metaDescription": "Tres horas por Colombo en tuk-tuk con un conductor-guia local, recorriendo Fort, Pettah, los templos y Galle Face Green.",
+  "shortDescription": "Tres horas por Colombo en tuk-tuk con un conductor-guia local, recorriendo Fort, Pettah, los templos y Galle Face Green, con recogida en el hotel o terminal de cruceros.",
+  "fullDescription": "Este es un tour en tuk-tuk, y ese es precisamente el sentido. Colombo es una ciudad de trayectos cortos, calles de un solo sentido y callejones de mercado donde un autobus no puede entrar, asi que cubre mucho mas en tres horas desde la parte trasera de un triciclo que en una furgoneta. El conductor hace tambien de guia, se detiene donde usted quiera, y le lleva a las partes de Fort y Pettah donde el trafico es de gente en lugar de coches.\n\nLa ruta suele comenzar en Fort, el antiguo barrio portuario amurallado que fundaron los portugueses, reconstruyeron los holandeses y llenaron de bancos y almacenes los britanicos. El Antiguo Parlamento y las fachadas con columnas que lo rodean son los supervivientes evidentes, pero el edificio que merece la pena visitar es el Hospital Holandes, la estructura mas antigua de Fort, hoy un patio de piedra de restaurantes y tiendas con sus vigas originales todavia encima.\n\nDesde Fort cruza a Pettah, el distrito de mercado mayorista, donde cada calle vende esencialmente un solo producto: ferreteria en una, textiles en la siguiente, pescado seco y especias en otra. La mezquita Jami Ul-Alfar a rayas rojas y blancas, terminada en 1908, marca el centro. Esta parte del viaje es ruidosa, cercana y rapida, y el tuk-tuk es el vehiculo adecuado para ella.\n\nEl tour luego recorre el sur mas tranquilo de la ciudad. El Templo Gangaramaya es un templo budista en activo cuyos edificios toman prestado al mismo tiempo de los estilos de Sri Lanka, Tailandia, India y China. La Plaza de la Independencia, construida para conmemorar el traspaso britanico de 1948, es un salon con columnas sobre un cesped donde los habitantes de Colombo vienen a pasear por la tarde.\n\nTermine en Galle Face Green, el paseo maritimo de la epoca colonial. Si va en la salida de ultima hora de la tarde, los carritos de isso wade, que venden buñuelos fritos de gambas, se instalan a lo largo del muro cuando cae la luz, y son los mejores veinte minutos del tour.",
+  "highlights": [
+   "Ver Colombo como la viven los locales, en tuk-tuk en lugar de en autobus",
+   "El Fort colonial, incluyendo el patio del Hospital Holandes y la fachada del Antiguo Parlamento",
+   "Las calles de mercado de Pettah y la mezquita roja y blanca de 1908, Jami Ul-Alfar",
+   "Templo Gangaramaya y Plaza de la Independencia",
+   "Paradas de comida callejera y final en el paseo maritimo de Galle Face",
+   "Recogida y entrega en el hotel o terminal de cruceros incluidas"
+  ],
+  "included": [
+   "Tuk-tuk privado con conductor-guia de habla inglesa",
+   "recogida y entrega en el hotel o terminal de cruceros",
+   "combustible y aparcamiento",
+   "agua embotellada"
+  ],
+  "notIncluded": [
+   "Entradas a templos y museos",
+   "comida y bebidas",
+   "compras",
+   "propina para el conductor",
+   "seguro de viaje"
+  ]
+ },
+ "colombo-wreck-diving-trip-certified-dive-guides": {
+  "title": "Buceo en pecios en Colombo con guias de buceo certificados",
+  "metaTitle": "Buceo en pecios en Colombo",
+  "metaDescription": "Una inmersion guiada de dos horas en bote en los pecios frente a Colombo, dirigida por un equipo local de buceo para buceadores certificados y principiantes.",
+  "shortDescription": "Una inmersion guiada de dos horas en bote en los pecios frente a Colombo, dirigida por un equipo local de buceo para buceadores certificados y principiantes supervisados.",
+  "fullDescription": "La mayoria de la gente llega a Sri Lanka planeando bucear en el sur o frente a Trincomalee, y nunca descubre que Colombo misma se asienta sobre uno de los tramos mas interesantes de buceo en pecios de la isla. Siglos de navegacion hacia el puerto dejaron un cementerio disperso en el fondo marino a corta distancia en bote de la ciudad, y eso es lo que este viaje viene a ver.\n\nLa inmersion parte desde el paseo maritimo de Colombo. Tras una charla informativa que cubre el sitio, el perfil de profundidad, las señales manuales y el plan del dia, el bote lo lleva a un pecio elegido segun las condiciones del dia. El equipo toma esa decision por la mañana, no de antemano, porque la visibilidad y la corriente frente a Colombo cambian rapidamente y el sitio mas seguro no es siempre el mismo.\n\nLos pecios aqui suelen estar en aguas calidas con una estructura colonizada durante decadas, asi que vera vida de peces reunida alrededor de los bordes duros en lugar de los jardines de coral de la costa este. Espere bancos de peces de arrecife, peces leon y morenas escondidos en el blindaje, y algun visitante mas grande de vez en cuando. El interes esta en la estructura misma y en como el mar la ha tomado.\n\nLa actividad esta guiada todo el tiempo por un profesional del buceo. Los buceadores certificados deben traer su tarjeta; si no esta certificado, el equipo puede realizar la inmersion como una inmersion de introduccion supervisada dentro de limites poco profundos, asi que indique su nivel de experiencia al reservar para que el plan y el equipo correctos esten listos.\n\nEl buceo frente a Colombo es estacional. El monzon del suroeste, de mayo a septiembre aproximadamente, empuja oleaje y sedimentos a esta costa, y las mejores condiciones suelen caer en los meses mas secos, de noviembre a abril aproximadamente.\n\nCalcule unas dos horas de puerta a puerta para el trayecto en bote, la inmersion y el regreso. No vuele dentro de las dieciocho horas siguientes al buceo.",
+  "highlights": [
+   "Inmersion en bote en los pecios frente a Colombo, una costa que pocos visitantes piensan en bucear",
+   "Charla informativa completa y guia bajo el agua por un profesional de buceo local certificado",
+   "Sitio elegido el mismo dia para la mejor visibilidad y corriente mas segura",
+   "Botellas, pesos y el equipo basico de buceo proporcionados",
+   "Lo bastante corto para encajar antes o despues de un dia en la ciudad"
+  ],
+  "included": [
+   "Traslado en bote al sitio de buceo",
+   "guia de buceo certificado",
+   "botella, pesos, chaleco compensador y regulador",
+   "mascara, aletas y traje de neopreno",
+   "charla de seguridad y agua potable"
+  ],
+  "notIncluded": [
+   "Recogida y entrega en el hotel",
+   "alquiler de camara submarina",
+   "propinas",
+   "seguro de viaje o de buceo",
+   "comidas",
+   "cualquier inmersion adicional mas alla de la reservada"
+  ]
+ },
+ "adams-peak-overnight-pilgrimage-climb-colombo": {
+  "title": "Ascenso nocturno de peregrinacion al Pico de Adan desde Colombo",
+  "metaTitle": "Pico de Adan de noche",
+  "metaDescription": "Un ascenso nocturno al Sri Pada, la montaña sagrada para budistas, hinduistas, musulmanes y cristianos por igual, para llegar a la cima al amanecer.",
+  "shortDescription": "Un ascenso nocturno al Sri Pada, la montaña sagrada para budistas, hinduistas, musulmanes y cristianos por igual, para llegar a la cima al amanecer, con transporte desde Colombo.",
+  "fullDescription": "El Sri Pada, conocido en ingles como Adam's Peak, es una montaña de 2.243 metros en las tierras altas centrales con una hendidura en la roca en la cima con forma de huella. Los budistas la consideran de Buda, los hinduistas de Shiva, los musulmanes y cristianos de Adan. Pocos lugares son venerados por cuatro religiones a la vez, y durante la temporada de peregrinacion el camino esta lleno de familias de Sri Lanka subiendo toda la noche, lo que constituye gran parte de lo que define este ascenso.\n\nLa ruta desde Nallathanniya tiene unos 5.500 escalones, subiendo con fuerza en el ultimo tercio. Peregrinos y visitantes parten de madrugada para llegar a la cima antes del amanecer. Puestos de te bordean el camino y permanecen abiertos toda la noche, y la hilera de luces en la ladera de la montaña es visible desde la base mucho antes de partir. La mayoria de la gente tarda tres a cuatro horas en subir y un tiempo similar en bajar, y el descenso es mas duro para las rodillas que la subida para los pulmones.\n\nLo que se sube a buscar es el amanecer, y en concreto la sombra: cuando el sol sale detras del pico, proyecta una sombra triangular perfecta sobre las nubes y las colinas al oeste, que se mantiene durante unos veinte minutos antes de disolverse. Es uno de los espectaculos genuinos de la isla, y depende por completo del clima.\n\nEl transporte desde Colombo o Negombo es en coche privado climatizado, con el trayecto hasta Nallathanniya tardando unas cuatro horas a traves de Avissawella y Hatton. Su conductor espera en la base mientras usted sube y lo lleva de vuelta despues.\n\nSea honesto consigo mismo sobre lo que esto implica. El viaje total dura unas veintidos horas, sube toda la noche sin dormir apropiadamente, y la cima esta fria y a menudo abarrotada. Es exigente, y merece la pena para quienes lo quieren por lo que es en lugar de como otra atraccion marcada en la lista.",
+  "highlights": [
+   "Ascenso nocturno al Sri Pada, sagrado para budistas, hinduistas, musulmanes y cristianos",
+   "Unos 5.500 escalones desde Nallathanniya, subidos de noche junto a peregrinos",
+   "El amanecer desde la cima y la sombra triangular de la montaña sobre las nubes abajo",
+   "El santuario sagrado de la huella en la cima del pico",
+   "Coche climatizado privado desde Colombo o Negombo, esperando en la base"
+  ],
+  "included": [
+   "Vehiculo privado climatizado con conductor de habla inglesa",
+   "recogida y entrega en el hotel en Colombo o Negombo",
+   "tiempo de espera del conductor en el inicio del sendero",
+   "agua embotellada",
+   "combustible, peajes y aparcamiento"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas en la montaña",
+   "guia para el ascenso en si, salvo que se indique en su reserva",
+   "alojamiento",
+   "alquiler de ropa de abrigo",
+   "propinas",
+   "gastos personales",
+   "seguro de viaje"
+  ]
+ },
+ "kandy-peradeniya-gardens-tea-factory-day-tour-colombo": {
+  "title": "Excursion de un dia desde Colombo: Kandy, los jardines de Peradeniya y una fabrica de te",
+  "metaTitle": "Kandy, Peradeniya y fabrica de te",
+  "metaDescription": "Un dia en las montañas desde Colombo: el Templo de la Reliquia Sagrada del Diente, un mirador sobre Kandy, el Jardin Botanico Real de Peradeniya.",
+  "shortDescription": "Un dia en las montañas desde Colombo: el Templo de la Reliquia Sagrada del Diente, un mirador sobre Kandy, el Jardin Botanico Real de Peradeniya y una fabrica de te en funcionamiento en Pilimathalawa.",
+  "fullDescription": "Kandy se mantuvo como reino independiente durante tres siglos despues de que la costa cayera ante las potencias europeas, protegida por el anillo de colinas que la rodea, y solo fue cedida a los britanicos en 1815. Esa historia se concentra en el Templo de la Reliquia Sagrada del Diente junto al lago, donde se conserva la reliquia que antiguamente otorgaba el derecho a gobernar. El templo funciona con un ritmo de pujas diarias, y los tambores en la puerta del santuario merecen que calcule su visita alrededor de ellos si puede.\n\nEl trayecto desde Colombo tarda unas tres horas y media, subiendo gradualmente por Kegalle y Mawanella, donde la carretera esta bordeada de puestos de frutas y anacardos. Hay una parada para el desayuno en Mawanella antes de la ultima subida hacia las montañas.\n\nDespues del templo, su conductor lo lleva a un mirador sobre la ciudad. Kandy se entiende mejor desde arriba que al nivel de la calle: puede ver como el lago, construido por el ultimo rey de Kandy en 1807, se encuentra en el valle de colinas con el templo en su orilla norte.\n\nEl Jardin Botanico Real de Peradeniya ocupa un meandro del rio Mahaweli en tierras que pertenecian a la realeza de Kandy mucho antes de que los britanicos formalizaran los jardines en 1821. Sesenta hectareas albergan una casa de orquideas, una avenida de palmeras reales, un arbol de bala de cañon, y una higuera de Java cuya copa cubre por si sola la mayor parte de un cesped. Una hora es suficiente para los senderos principales; mas tiempo si le gustan las plantas.\n\nLa ultima parada es una fabrica de te en Pilimathalawa, en las laderas de plantacion al oeste de Kandy. Sigue la hoja desde las bandejas de marchitado hasta el enrollado, la oxidacion, el secado y la clasificacion, y prueba el resultado al final. Esto explica mucho sobre por que el te de distintas altitudes de la isla sabe tan diferente. Calcule once horas desde la recogida hasta la entrega, con unas cinco de ellas en el coche.",
+  "highlights": [
+   "Templo de la Reliquia Sagrada del Diente, el santuario en el centro del ultimo reino de Kandy",
+   "Mirador sobre Kandy y su lago real de 1807",
+   "Jardin Botanico Real de Peradeniya, incluyendo la casa de orquideas y la avenida de palmeras",
+   "Fabrica de te en funcionamiento en Pilimathalawa con degustacion",
+   "Coche climatizado privado con conductor para todo el dia"
+  ],
+  "included": [
+   "Coche privado climatizado con conductor de habla inglesa",
+   "recogida y entrega en el hotel en Colombo o Negombo",
+   "visita y degustacion en la fabrica de te",
+   "agua embotellada",
+   "combustible, peajes y aparcamiento"
+  ],
+  "notIncluded": [
+   "Entradas al Templo del Diente y al Jardin Botanico Real",
+   "desayuno, almuerzo y bebidas",
+   "propinas",
+   "tarifas de camara",
+   "gastos personales"
+  ]
+ },
+ "galle-fort-stilt-fishermen-bentota-river-safari-day-trip": {
+  "title": "Excursion de un dia: fuerte de Galle, pescadores sobre zancos y safari fluvial en Bentota",
+  "metaTitle": "Galle, pescadores sobre zancos y Bentota",
+  "metaDescription": "Un dia en la costa sur con el fuerte de Galle, los pescadores sobre zancos, un proyecto de conservacion de tortugas, un templo y un safari fluvial en Bentota.",
+  "shortDescription": "Un dia en la costa sur con el fuerte de Galle, los pescadores sobre zancos, un proyecto de conservacion de tortugas, un templo budista y un safari fluvial por los manglares de Bentota.",
+  "fullDescription": "La costa suroeste concentra mucho en un corto tramo de carretera, y este dia enlaza las partes que merecen una parada en lugar de pasarlas de largo. Todo se encuentra a unas dos horas de Colombo, asi que el dia se construye alrededor de las paradas.\n\nEl fuerte de Galle es el ancla. Los portugueses construyeron las primeras fortificaciones en el siglo 16 y los holandeses las reconstruyeron en el siglo 17, dejando una ciudad amurallada de casas bajas con porches de columnas, una iglesia reformada holandesa, una mezquita construida donde antes habia una capilla portuguesa, y un faro en la muralla sur. Es Patrimonio de la Humanidad de la UNESCO y todavia esta habitada, lo que evita que parezca un museo. Caminar por las murallas es la mejor forma de entender su trazado.\n\nLos pescadores sobre zancos trabajan en las aguas poco profundas cerca de Koggala, posados sobre palos hundidos en el fondo marino. La practica comenzo tras la Segunda Guerra Mundial, cuando las playas abarrotadas empujaron a los pescadores a reclamar puestos frente a la costa, y hoy la mayor parte de lo que se ve esta escenificado para los visitantes, a quienes se pide una tarifa por fotografiar. Saberlo de antemano es mejor que llevarse una sorpresa.\n\nEl proyecto de conservacion de tortugas en esta costa recoge huevos de playas donde de otro modo serian desenterrados, los incuba en arena protegida y libera a las crias. El personal explicara cuales de las cinco especies anidadoras llegan aqui y que les sucede.\n\nEl safari fluvial va desde Bentota hasta los manglares y la laguna, alrededor de hora y media en bote por canales estrechos donde las raices se arquean sobre el agua. Varanos, martines pescadores y de vez en cuando una tropa de monos en la orilla son los avistamientos habituales, y hay paradas en pequeñas islas, incluida una donde la canela se pela y seca a mano. Una visita a un templo budista completa la ruta antes del trayecto de vuelta.",
+  "highlights": [
+   "Caminar por las murallas y calles de la epoca holandesa del fuerte de Galle, Patrimonio de la Humanidad de la UNESCO",
+   "Safari fluvial por los manglares y las islas de la laguna de Bentota",
+   "Parada en un proyecto de conservacion de tortugas marinas en la costa de anidacion",
+   "Ver a los pescadores sobre zancos trabajando en los bajios cerca de Koggala",
+   "Visita a un templo budista en la carretera costera",
+   "Vehiculo privado con recogida y entrega en el hotel"
+  ],
+  "included": [
+   "Vehiculo privado climatizado con conductor de habla inglesa",
+   "recogida y entrega en el hotel",
+   "safari fluvial en bote en Bentota",
+   "visita guiada al fuerte de Galle",
+   "agua embotellada",
+   "combustible, peajes y aparcamiento"
+  ],
+  "notIncluded": [
+   "Donativo al proyecto de tortugas",
+   "entrada y ofrendas al templo",
+   "tarifas de fotografia en el lugar de pesca sobre zancos",
+   "comidas y bebidas",
+   "propinas",
+   "gastos personales"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Experiencia de flyboard en Pattaya",
   "fullDescription": "Esta es una experiencia de 30 minutos en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye experiencia de flyboard, apoyo de un instructor, equipo de seguridad y duchas. No incluye fotos y recogida y regreso al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
