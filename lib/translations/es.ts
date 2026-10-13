@@ -99770,6 +99770,215 @@ export const ES_TOURS: Record<string, TourT> = {
    "gastos personales"
   ]
  },
+ "kandyan-eco-village-and-spice-trail-half-day-tour-from-kandy": {
+  "title": "Ecoaldea de Kandy y sendero de especias: medio dia desde Kandy",
+  "metaTitle": "Ecoaldea de Kandy y especias",
+  "metaDescription": "Medio dia en el campo de Kandy: canela pelada a mano, toddy extraido de una palmera, parcelas de especias y cultivo de arroz.",
+  "shortDescription": "Medio dia en el campo de Kandy: canela pelada a mano, toddy extraido de una palmera, parcelas de especias, cultivo de arroz y las plantas ayurvedicas que crecen en todos los jardines de pueblo.",
+  "fullDescription": "El campo alrededor de Kandy es pais de pequeñas plantaciones, y este viaje trata de como funcionan realmente esas plantaciones en lugar de una vista de ellas.\n\nLa canela es la pieza central. Sri Lanka produce la mayor parte de la canela verdadera del mundo y el proceso no ha cambiado en siglos: la corteza se corta, la capa exterior se raspa, y la corteza interior se pela en tiras que se enrollan al secarse. Ver a un pelador trabajar durante diez minutos explica por que la canela de Ceilan verdadera cuesta lo que cuesta, y por que la casia vendida como canela en la mayoria de los paises es una planta completamente distinta.\n\nLa extraccion de toddy es la otra pieza destacada. Un trepador sube una palmera de coco, corta la espata de la flor y ata una vasija para recoger la savia, que fermenta en horas hasta convertirse en un vino de palma suave. Las cuerdas entre las copas de las palmeras que permiten a los trepadores moverse de arbol a arbol sin bajar valen la pena verlas por si solas.\n\nEl resto de la mañana son parcelas de especias, enredaderas de pimienta, cardamomo, curcuma, nuez moscada, y las plantas ayurvedicas que crecen en todos los jardines de pueblo y se usan antes de que a nadie se le ocurra ir a una farmacia. Tambien hay arrozales aqui, y segun la temporada puede ver la siembra o la trilla en curso.\n\nKandy fue la ultima capital de los reyes cingaleses, resistiendo a portugueses y holandeses hasta que los britanicos la tomaron en 1815, y el Templo de la Sagrada Reliquia del Diente junto al lago es la razon de su importancia: la reliquia, considerada un diente de Buda, es el objeto mas sagrado de la isla y su custodia legitimaba antiguamente la realeza. La camara de la reliquia abre para puja tres veces al dia, aproximadamente a las 5:30, 9:30 y 18:30, cuando comienzan los tambores y la fila pasa junto al relicario. La vestimenta cubre hombros y rodillas, los zapatos se quitan en la entrada, y el Esala Perahera en julio o agosto pasea el relicario sobre un elefante por la ciudad durante diez noches.",
+  "highlights": [
+   "Canela verdadera de Ceilan pelada a mano, y como se diferencia de la casia",
+   "Extraccion de toddy de una palmera de coco, incluidas las cuerdas entre las copas",
+   "Pimienta, cardamomo, curcuma y nuez moscada cultivados en parcelas en funcionamiento",
+   "Las plantas ayurvedicas que se guardan en jardines de pueblo comunes",
+   "Cultivo de arroz en temporada, con siembra o trilla en curso"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Kandy",
+   "un guia de habla inglesa",
+   "todas las visitas a pueblos y parcelas",
+   "demostraciones"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas salvo que se indique",
+   "propinas",
+   "compras de especias",
+   "gastos personales"
+  ]
+ },
+ "ambuluwawa-tower-and-tea-factory-half-day-tour-from-kandy": {
+  "title": "Torre de Ambuluwawa y fabrica de te: medio dia desde Kandy",
+  "metaTitle": "Torre de Ambuluwawa y fabrica de te",
+  "metaDescription": "Un corto viaje desde Kandy para subir la torre de Ambuluwawa, una escalera en espiral estrecha con vista a 360 grados, seguido de una fabrica de te.",
+  "shortDescription": "Un corto viaje desde Kandy para subir la torre de Ambuluwawa, una escalera en espiral estrecha sobre una aguja en la cima de una colina con vista a 360 grados, seguido de una visita a una fabrica de te en funcionamiento.",
+  "fullDescription": "Ambuluwawa es la estructura mas extraña de Sri Lanka. Es una aguja blanca de 48 metros en una colina sobre Gampola, construida como un monumento multirreligioso con una estupa budista, un kovil hinduista, una mezquita y una iglesia en el mismo lugar, y la torre misma se estrecha a medida que se eleva, de modo que la escalera se convierte en una espiral que se aferra al exterior del cono.\n\nLa subida es corta y realmente alarmante. Los escalones se estrechan hasta aproximadamente el ancho de un pie cerca de la cima y el pasamanos llega hasta la cintura sin nada mas alla. Las personas con miedo a las alturas deberian detenerse a mitad de camino, y no hay vergüenza en ello, la vista desde la mitad ya merece el viaje.\n\nDesde la cima se puede ver la cordillera de Knuckles, las colinas alrededor de Kandy y, en un dia claro, un largo trecho hacia el sur en el pais del te. Es una vista de 360 grados desde un punto que se eleva bien por encima de todo lo que lo rodea.\n\nLa fabrica de te despues es el contrapeso: una planta en funcionamiento que lleva la hoja a traves del marchitado, el enrollado, la oxidacion y el secado, terminando con una degustacion. Juntos hacen medio dia en lugar de uno completo, lo cual es util en un dia en que tambien quiere tiempo en Kandy misma.\n\nKandy fue la ultima capital de los reyes cingaleses, resistiendo a portugueses y holandeses hasta que los britanicos la tomaron en 1815, y el Templo de la Sagrada Reliquia del Diente junto al lago es la razon de su importancia: la reliquia, considerada un diente de Buda, es el objeto mas sagrado de la isla y su custodia legitimaba antiguamente la realeza. La camara de la reliquia abre para puja tres veces al dia, aproximadamente a las 5:30, 9:30 y 18:30, cuando comienzan los tambores y la fila pasa junto al relicario. La vestimenta cubre hombros y rodillas, los zapatos se quitan en la entrada, y el Esala Perahera en julio o agosto pasea el relicario sobre un elefante por la ciudad durante diez noches.",
+  "highlights": [
+   "La torre de Ambuluwawa, una aguja de 48 metros con escalera en espiral exterior",
+   "Un lugar multirreligioso con estupa, kovil, mezquita e iglesia juntos",
+   "Una vista de 360 grados sobre la cordillera de Knuckles y las colinas alrededor de Kandy",
+   "Una fabrica de te en funcionamiento con degustacion al final",
+   "Medio dia, para que el resto del dia en Kandy quede libre"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado y conductor-guia de habla inglesa",
+   "recogida y regreso al hotel en Kandy",
+   "trayectos y paradas",
+   "combustible y aparcamiento"
+  ],
+  "notIncluded": [
+   "La entrada a Ambuluwawa",
+   "comidas y bebidas",
+   "compras de te",
+   "propinas"
+  ]
+ },
+ "sigiriya-rock-and-dambulla-caves-day-tour-from-kandy-with-evening": {
+  "title": "Roca de Sigiriya y cuevas de Dambulla: excursion desde Kandy con safari de elefantes al atardecer",
+  "metaTitle": "Sigiriya y Dambulla con safari nocturno",
+  "metaDescription": "Un dia completo al norte de Kandy con el templo hinduista de Matale, un jardin de especias, la roca de Sigiriya y las cuevas de Dambulla, terminando con un safari.",
+  "shortDescription": "Un dia completo al norte de Kandy con el templo hinduista de Matale, un jardin de especias, un taller de batik, la roca de Sigiriya y las cuevas de Dambulla, terminando con un safari en jeep al atardecer para elefantes.",
+  "fullDescription": "Esta es la version mas completa del dia del triangulo cultural: dos lugares de la UNESCO, tres paradas de talleres en el camino, y un safari en jeep para cerrarlo. Son doce horas y se las ganan.\n\nLa carretera hacia el norte desde Kandy pasa por Matale, donde el templo Sri Muthumariamman tiene un gopuram cubierto de figuras pintadas, y donde los jardines de especias cultivan canela, cardamomo, pimienta y vainilla en la misma parcela. Un taller de batik cercano muestra el teñido por reserva de cera que Sri Lanka tomo de Indonesia e hizo suyo.\n\nSigiriya es la pieza central, 1.200 escalones hasta un tapon de granito de 200 metros hacia una ciudadela real del siglo quinto, pasando por los frescos y el muro espejo. Dambulla sigue, cinco cuevas bajo un saliente rocoso pintadas de suelo a techo con unas 150 imagenes de Buda.\n\nEl safari es la razon del final tardio. Minneriya y los parques vecinos albergan grandes manadas de elefantes, y en la temporada seca se reunen en el lecho del embalse en numeros que no vera en ningun otro lugar de Asia. A ultima hora de la tarde es cuando bajan al agua, por lo que esto es lo ultimo del dia en lugar de lo primero.\n\nSigiriya es una columna de roca de 200 metros que se eleva sobre la llanura de la zona seca, en la que el rey Kasyapa construyo su palacio en el siglo quinto tras usurpar el trono, y es un lugar de la UNESCO desde 1982. La subida son unos 1.200 escalones por escaleras y pasarelas de hierro, pasando por el muro espejo con sus grafitis milenarios y la galeria protegida de frescos, hasta las garras del leon que dan nombre a la roca y los cimientos del palacio en la cima. Toma una hora y media de ida y vuelta para la mayoria de la gente y es mejor comenzar a las 7:00, antes del calor y los autobuses; la entrada para visitantes extranjeros es una de las mas caras del pais, y Pidurangala, la roca vecina, ofrece la vista clasica de Sigiriya por una fraccion del precio.",
+  "highlights": [
+   "Dos lugares de la UNESCO, la roca de Sigiriya y los templos rupestres de Dambulla, en un dia",
+   "El templo hinduista de Matale y su gopuram pintado",
+   "Paradas en un jardin de especias y un taller de batik en la carretera hacia el norte",
+   "Un safari en jeep al atardecer cuando los elefantes bajan al agua",
+   "Todo conducido para usted desde Kandy y de vuelta"
+  ],
+  "included": [
+   "Vehiculo con aire acondicionado y conductor-guia de habla inglesa",
+   "recogida y regreso al hotel en Kandy",
+   "el jeep para la seccion de safari",
+   "todos los trayectos entre lugares"
+  ],
+  "notIncluded": [
+   "Entradas en Sigiriya y Dambulla y el permiso del parque nacional",
+   "comidas y bebidas",
+   "propinas",
+   "compras en los talleres"
+  ]
+ },
+ "nuwara-eliya-day-trip-from-kandy-by-tuk-tuk-with-a-tea-factory-visit": {
+  "title": "Excursion a Nuwara Eliya desde Kandy en tuk-tuk con visita a una fabrica de te",
+  "metaTitle": "Nuwara Eliya en tuk-tuk desde Kandy",
+  "metaDescription": "La subida de Kandy a Nuwara Eliya en tuk-tuk: cascadas, una fabrica de te en funcionamiento, y la estacion de montaña colonial con hipodromo y golf.",
+  "shortDescription": "La subida de Kandy a Nuwara Eliya en tuk-tuk: cascadas, una fabrica de te en funcionamiento, y la estacion de montaña colonial con su hipodromo, sus arroyos de truchas y su campo de golf.",
+  "fullDescription": "Hacer la carretera de montaña en tuk-tuk es mas lento que en coche y considerablemente mejor. El vehiculo esta abierto por los lados, se mueve al ritmo del paisaje en lugar de pasarlo de largo, y en una carretera que sube 1.400 metros a traves de plantaciones de te, eso resulta importar.\n\nLa ruta sube por Gampola y Pussellawa, deteniendose en las cascadas de Ramboda, donde una caida de 100 metros es visible desde la carretera y accesible a pie en unos minutos. Encima, el bosque termina y el te comienza, de la manera abrupta en que ocurre en esta carretera.\n\nSigue una visita a una fabrica en funcionamiento que lleva la hoja a traves del marchitado, el enrollado, la oxidacion y el secado hasta la mesa de clasificacion. Toma unos cuarenta y cinco minutos y termina con una degustacion, y es la mejor explicacion unica de por que el mismo arbusto produce seis productos distintos.\n\nNuwara Eliya a 1.900 metros es la ciudad mas extraña de Sri Lanka, los britanicos la construyeron como estacion de montaña y todavia tiene el hipodromo, el campo de golf, los arroyos de truchas que poblaron y una oficina de correos de estilo Tudor. Hace 15 grados menos que en Kandy, lo cual sentira tras un dia en tuk-tuk abierto.\n\nKandy fue la ultima capital de los reyes cingaleses, resistiendo a portugueses y holandeses hasta que los britanicos la tomaron en 1815, y el Templo de la Sagrada Reliquia del Diente junto al lago es la razon de su importancia: la reliquia, considerada un diente de Buda, es el objeto mas sagrado de la isla y su custodia legitimaba antiguamente la realeza. La camara de la reliquia abre para puja tres veces al dia, aproximadamente a las 5:30, 9:30 y 18:30, cuando comienzan los tambores y la fila pasa junto al relicario. La vestimenta cubre hombros y rodillas, los zapatos se quitan en la entrada, y el Esala Perahera en julio o agosto pasea el relicario sobre un elefante por la ciudad durante diez noches.",
+  "highlights": [
+   "La subida de montaña hecha abierta por los lados en tuk-tuk en lugar de en coche cerrado",
+   "Las cascadas de Ramboda, una caida de 100 metros a unos minutos de la carretera",
+   "Una fabrica de te en funcionamiento de la artesa de marchitado a la degustacion",
+   "Nuwara Eliya colonial: hipodromo, campo de golf y arroyos de truchas poblados",
+   "Un conductor-guia privado para todo el dia"
+  ],
+  "included": [
+   "Tuk-tuk privado con conductor-guia de habla inglesa",
+   "recogida y regreso al hotel en Kandy",
+   "todos los trayectos y paradas",
+   "combustible"
+  ],
+  "notIncluded": [
+   "Entradas cuando correspondan",
+   "comidas y bebidas",
+   "compras de te en la fabrica",
+   "propinas"
+  ]
+ },
+ "meemure-village-day-trip-from-kandy-with-the-diyakarella-waterfall-hike": {
+  "title": "Excursion al pueblo de Meemure desde Kandy con caminata a la cascada de Diyakarella",
+  "metaTitle": "Meemure y la cascada de Diyakarella",
+  "metaDescription": "Una excursion a la cordillera de Knuckles hacia Meemure, un pueblo sin carretera hasta los años 1990, con una caminata a la cascada de Diyakarella y un almuerzo.",
+  "shortDescription": "Una excursion a la cordillera de Knuckles hacia Meemure, un pueblo sin carretera hasta los años 1990, con una caminata a la cascada de Diyakarella y un almuerzo tradicional cocinado en el pueblo.",
+  "fullDescription": "Meemure se encuentra en un valle dentro de la cordillera de Knuckles, rodeado de picos, y hasta los años 1990 la unica forma de llegar era un sendero. Recibio electricidad de red en 2016. Ese aislamiento es la razon por la que merece la pena el trayecto: el pueblo todavia cultiva como siempre se ha cultivado el valle, y las casas, las terrazas de arroz y el ritmo diario no estan preparados para los visitantes.\n\nLa carretera hasta alli es la primera parte del dia, unas tres horas desde Kandy, la ultima hora lo bastante dificil para que el ultimo tramo normalmente se haga en jeep. Pasa por el bosque protegido de Knuckles, una cordillera declarada por la UNESCO de bosque de niebla y pastizal que alberga especies que no existen en ningun otro lugar.\n\nEn el pueblo camina: por las terrazas de arroz, pasando la escuela, y hasta la cascada de Diyakarella, unas dos horas de ida y vuelta por un sendero forestal con una poza al fondo en la que puede nadar. La caminata es moderada en lugar de dificil, pero es irregular y resbaladiza cuando esta humeda.\n\nEl almuerzo se cocina en el pueblo, arroz con curry, sobre fuego de leña, comido donde se preparo. Luego el largo camino de vuelta, llegando a Kandy por la noche.\n\nKandy fue la ultima capital de los reyes cingaleses, resistiendo a portugueses y holandeses hasta que los britanicos la tomaron en 1815, y el Templo de la Sagrada Reliquia del Diente junto al lago es la razon de su importancia: la reliquia, considerada un diente de Buda, es el objeto mas sagrado de la isla y su custodia legitimaba antiguamente la realeza. La camara de la reliquia abre para puja tres veces al dia, aproximadamente a las 5:30, 9:30 y 18:30, cuando comienzan los tambores y la fila pasa junto al relicario. La vestimenta cubre hombros y rodillas, los zapatos se quitan en la entrada, y el Esala Perahera en julio o agosto pasea el relicario sobre un elefante por la ciudad durante diez noches.",
+  "highlights": [
+   "Meemure, sin carretera hasta los años 1990 y con electricidad solo desde 2016",
+   "El trayecto por el bosque protegido de Knuckles, una cordillera declarada por la UNESCO",
+   "Una caminata a la cascada de Diyakarella con una poza donde nadar",
+   "Terrazas de arroz y vida de pueblo que no esta preparada para los visitantes",
+   "Un almuerzo tradicional de arroz con curry cocinado en el pueblo"
+  ],
+  "included": [
+   "Transporte desde Kandy incluida la seccion en jeep",
+   "un guia de habla inglesa",
+   "la caminata guiada al pueblo y a la cascada",
+   "un almuerzo tradicional en el pueblo"
+  ],
+  "notIncluded": [
+   "Bebidas mas alla de las servidas con el almuerzo",
+   "propinas",
+   "cualquier tarifa comunitaria o de entrada al bosque",
+   "gastos personales"
+  ]
+ },
+ "kandy-to-ella-guided-transfer-with-peradeniya-gardens-and-ramboda-falls": {
+  "title": "Traslado guiado de Kandy a Ella con los jardines de Peradeniya y las cascadas de Ramboda",
+  "metaTitle": "Kandy a Ella con Peradeniya",
+  "metaDescription": "Un traslado guiado de ida unica de Kandy a Ella con el trayecto tratado como el dia: jardines de Peradeniya, jardin de especias, cascadas de Ramboda y fabrica de te.",
+  "shortDescription": "Un traslado guiado de ida unica de Kandy a Ella con el trayecto tratado como el dia: los jardines botanicos de Peradeniya, un jardin de especias, las cascadas de Ramboda, una fabrica de te y Nuwara Eliya en el camino.",
+  "fullDescription": "Si de todos modos se traslada de Kandy a Ella, y en casi todos los itinerarios de Sri Lanka lo hace, esta es la forma sensata de hacerlo. En lugar de pagar por separado un traslado y luego hacer una excursion de vuelta a los mismos lugares, el trayecto se convierte en el turismo.\n\nLa ruta comienza en el Jardin Botanico Real de Peradeniya, 60 hectareas en un meandro del rio Mahaweli con una avenida de palmeras, una casa de orquideas y un higo de Java que da sombra a la mayor parte de un cesped. Luego comienza la subida, por Gampola y Pussellawa, con una parada en un jardin de especias donde canela, cardamomo, pimienta y vainilla crecen en la misma parcela.\n\nLas cascadas de Ramboda marcan la mitad del camino, una caida de 100 metros a poca distancia a pie de la carretera, y encima el campo se vuelve completamente te. Sigue una visita a una fabrica en funcionamiento que lleva la hoja a traves del marchitado, el enrollado, la oxidacion y el secado hasta la mesa de clasificacion.\n\nNuwara Eliya viene despues, la estacion de montaña a 1.900 metros, con el hipodromo y el aire frio, y luego el descenso a Ella, donde le dejan en su hotel con su equipaje, habiendo visto todo lo que hay entre las dos ciudades en lugar de pasarlo de largo en coche.\n\nKandy fue la ultima capital de los reyes cingaleses, resistiendo a portugueses y holandeses hasta que los britanicos la tomaron en 1815, y el Templo de la Sagrada Reliquia del Diente junto al lago es la razon de su importancia: la reliquia, considerada un diente de Buda, es el objeto mas sagrado de la isla y su custodia legitimaba antiguamente la realeza. La camara de la reliquia abre para puja tres veces al dia, aproximadamente a las 5:30, 9:30 y 18:30, cuando comienzan los tambores y la fila pasa junto al relicario. La vestimenta cubre hombros y rodillas, los zapatos se quitan en la entrada, y el Esala Perahera en julio o agosto pasea el relicario sobre un elefante por la ciudad durante diez noches.",
+  "highlights": [
+   "El trayecto de Kandy a Ella convertido en un dia de turismo en lugar de un simple traslado",
+   "El Jardin Botanico Real de Peradeniya, 60 hectareas en un meandro del rio",
+   "Un jardin de especias y las cascadas de Ramboda en la subida",
+   "Una fabrica de te en funcionamiento en las plantaciones mas altas de la isla",
+   "Nuwara Eliya en el camino, y entrega en su hotel en Ella"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado y conductor-guia de habla inglesa",
+   "recogida en el hotel en Kandy",
+   "todas las paradas de la ruta",
+   "entrega en su hotel en Ella",
+   "combustible y aparcamiento",
+   "equipaje transportado durante todo el trayecto"
+  ],
+  "notIncluded": [
+   "Entradas al jardin botanico y al jardin de especias",
+   "comidas y bebidas",
+   "compras de te",
+   "propinas"
+  ]
+ },
+ "kandy-city-highlights-private-day-tour-temple-viewpoints-and-gardens": {
+  "title": "Lo esencial de Kandy: tour privado de un dia con templo, miradores y jardines",
+  "metaTitle": "Kandy: templo, miradores y jardines",
+  "metaDescription": "Un circuito privado por Kandy con el Buda de Bahirawakanda, el lago, los miradores, el cementerio de guerra y un museo de piedras preciosas.",
+  "shortDescription": "Un circuito privado de dia completo por Kandy con el Buda de Bahirawakanda, el lago, los principales miradores, el cementerio de guerra de la Commonwealth, un museo de piedras preciosas y los talleres alrededor de la ciudad.",
+  "fullDescription": "Kandy es lo bastante pequeña para recorrerla a pie y lo bastante extensa para que se pierda la mayor parte si lo hace. Esta es la version privada de dia completo: un conductor y un guia, un circuito fijo de los lugares de la ciudad, y tiempo en cada uno en lugar de pasar de largo.\n\nEl Buda del Bahirawakanda Vihara se encuentra en la colina sobre la ciudad, una estatua blanca de 27 metros con la mejor vista gratuita sobre el lago y los tejados. El lago mismo fue excavado por el ultimo rey de Kandy en 1807 y es un paseo llano y sombreado de 3,5 kilometros. El cementerio de guerra de la Commonwealth, un poco fuera del centro, es tranquilo y esta bellamente cuidado, con las tumbas de militares que murieron en Ceilan durante la Segunda Guerra Mundial, y casi nadie lo visita.\n\nEl resto es la ciudad en funcionamiento: un museo de piedras preciosas y un taller de talla, ya que Sri Lanka ha extraido zafiros durante dos mil años y Kandy es donde se tallan muchos de ellos; un taller de batik; un estudio de talla en madera; y los miradores sobre la ciudad que dan sentido a como esta trazado el valle.\n\nUn guia privado es lo que hace que esto merezca un dia completo en lugar de una tarde, los lugares son individualmente cortos, y el valor esta en las conexiones entre ellos.\n\nKandy fue la ultima capital de los reyes cingaleses, resistiendo a portugueses y holandeses hasta que los britanicos la tomaron en 1815, y el Templo de la Sagrada Reliquia del Diente junto al lago es la razon de su importancia: la reliquia, considerada un diente de Buda, es el objeto mas sagrado de la isla y su custodia legitimaba antiguamente la realeza. La camara de la reliquia abre para puja tres veces al dia, aproximadamente a las 5:30, 9:30 y 18:30, cuando comienzan los tambores y la fila pasa junto al relicario. La vestimenta cubre hombros y rodillas, los zapatos se quitan en la entrada, y el Esala Perahera en julio o agosto pasea el relicario sobre un elefante por la ciudad durante diez noches.",
+  "highlights": [
+   "El Buda de Bahirawakanda de 27 metros y la mejor vista gratuita sobre Kandy",
+   "El lago de Kandy, excavado por el ultimo rey en 1807, y el paseo alrededor",
+   "El cementerio de guerra de la Commonwealth, impecable, conmovedor y casi vacio",
+   "Un museo de piedras preciosas y un taller de talla en un pais que extrae zafiros desde hace milenios",
+   "Talleres de batik y talla en madera, ademas de los miradores sobre el valle"
+  ],
+  "included": [
+   "Vehiculo privado con conductor-guia de habla inglesa",
+   "recogida y regreso al hotel en Kandy",
+   "todos los trayectos entre lugares",
+   "combustible y aparcamiento"
+  ],
+  "notIncluded": [
+   "Entradas cuando correspondan, incluido el Templo del Diente",
+   "comidas y bebidas",
+   "propinas",
+   "cualquier compra en los talleres"
+  ]
+ },
+ "udawattakele-bird-watching-morning-from-kandy-with-a-guide": {
+  "title": "Mañana de observacion de aves en Udawattakele desde Kandy con un guia",
+  "metaTitle": "Observacion de aves en Udawattakele",
+  "metaDescription": "Un paseo matutino por Udawattakele, la reserva forestal de 103 hectareas justo detras del Templo del Diente, con un guia que conoce las aves y las ruinas de Kandy.",
+  "shortDescription": "Un paseo matutino por Udawattakele, la reserva forestal de 103 hectareas justo detras del Templo del Diente, con un guia que conoce las aves y las ruinas de la epoca de Kandy escondidas dentro.",
+  "fullDescription": "Udawattakele es lo mas extraño de Kandy: 103 hectareas de bosque genuino justo detras del Templo del Diente, en medio de una ciudad. Fue el jardin forestal real de los reyes de Kandy, prohibido para la gente comun, y se protegio como reserva en 1856, por lo que todavia hay bosque casi primario dentro de una capital.\n\nVaya al amanecer y esta lleno de aves. El loro de Layard, el loro colgante de Sri Lanka, los charlatanes de gorro marron, los charlatanes de pico naranja, y con suerte y un guia que sepa donde mirar, la perdiz de Sri Lanka llamando desde la maleza. Un guia importa aqui mas que en la mayoria de los lugares, porque gran parte de lo que merece la pena ver se oye primero.\n\nEl paseo tambien incluye lo que queda del periodo de Kandy: la cueva de Senkanda, donde vivio el eremita del que la ciudad puede tomar su nombre, antiguos estanques reales, y los senderos de la epoca britanica que todavia forman la red de rutas. Las ardillas gigantes, los langures de cara purpura y los lagartos monitor son todos comunes.\n\nEl terreno es facil, senderos acondicionados, pendientes suaves, y todo se completa antes del mediodia, lo que deja el resto del dia para la ciudad.\n\nKandy fue la ultima capital de los reyes cingaleses, resistiendo a portugueses y holandeses hasta que los britanicos la tomaron en 1815, y el Templo de la Sagrada Reliquia del Diente junto al lago es la razon de su importancia: la reliquia, considerada un diente de Buda, es el objeto mas sagrado de la isla y su custodia legitimaba antiguamente la realeza. La camara de la reliquia abre para puja tres veces al dia, aproximadamente a las 5:30, 9:30 y 18:30, cuando comienzan los tambores y la fila pasa junto al relicario. La vestimenta cubre hombros y rodillas, los zapatos se quitan en la entrada, y el Esala Perahera en julio o agosto pasea el relicario sobre un elefante por la ciudad durante diez noches.",
+  "highlights": [
+   "103 hectareas de reserva forestal en medio de Kandy, protegida desde 1856",
+   "Observacion de aves al amanecer: loro de Layard, loros colgantes y charlatanes",
+   "Un guia que identifica por el canto, como se encuentran la mayoria de estas aves",
+   "La cueva de Senkanda y los estanques reales de Kandy que sobreviven",
+   "Langures de cara purpura, ardillas gigantes y lagartos monitor por los senderos"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Kandy",
+   "un guia naturalista de habla inglesa",
+   "el paseo guiado por el bosque"
+  ],
+  "notIncluded": [
+   "La entrada al santuario, pagada en la puerta",
+   "prismaticos",
+   "comidas y bebidas",
+   "propinas"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Experiencia de flyboard en Pattaya",
   "fullDescription": "Esta es una experiencia de 30 minutos en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye experiencia de flyboard, apoyo de un instructor, equipo de seguridad y duchas. No incluye fotos y recogida y regreso al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
