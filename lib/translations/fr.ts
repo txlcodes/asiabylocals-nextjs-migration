@@ -98285,6 +98285,215 @@ export const FR_TOURS: Record<string, TourT> = {
    "pourboires pour le chauffeur et le traqueur"
   ]
  },
+ "ella-waterfalls-nine-arch-bridge-and-little-adams-peak-private-day-trip": {
+  "title": "Cascades d'Ella, pont aux neuf arches et Little Adam's Peak : excursion privee d'une journee",
+  "metaTitle": "Cascades d’Ella et Little Adam’s Peak",
+  "metaDescription": "Une journee privee autour d'Ella couvrant Little Adam's Peak, le pont aux neuf arches, les cascades de Ravana et deux cascades que peu de visiteurs trouvent.",
+  "shortDescription": "Une journee privee autour d'Ella couvrant Little Adam's Peak, le pont aux neuf arches, les cascades de Ravana et deux cascades que presque aucun visiteur ne trouve, avec transferts a l'hotel.",
+  "fullDescription": "Les sites phares d'Ella sont gratuits et proches les uns des autres, et la raison de prendre un guide n'est pas l'acces mais le timing et ceux qui ne sont pas signales.\n\nLittle Adam's Peak ouvre la journee a la premiere lumiere, 45 minutes sur un sentier en escaliers pour la vue a travers l'Ella Gap, et vers neuf heures c'est une file pour la meme photo. Le pont aux neuf arches suit en milieu de matinee, cale sur les vrais mouvements de train du jour plutot que sur l'horaire publie, que les chemins de fer sri-lankais traitent comme une suggestion.\n\nLes cascades sont la ou un chauffeur local merite son prix. Les cascades de Ravana sont celles au bord de la route que tout le monde voit. Pallewela et les plus petites cascades dans la meme vallee se trouvent au bout de pistes non signalees a travers le the et le caoutchouc, et vous ne les trouverez pas sur une carte. Elles sont aussi, en saison humide, considerablement plus impressionnantes que la celebre.\n\nEtre prive signifie que la journee s'adapte. Si le train est en retard, vous attendez, si la lumiere est bonne, vous restez, et si quelqu'un veut se baigner sous une cascade pendant une heure, c'est ce qui se passe.\n\nLittle Adam's Peak prend environ quarante-cinq minutes sur un sentier en escaliers, pas d'escalade, mais c'est une montee, et cela vaut la peine de la faire a la premiere lumiere, a la fois pour la vue a travers l'Ella Gap et pour l'avoir pour vous seul. En saison humide, les cascades sont nettement meilleures et les pistes qui y menent sont glissantes et propices aux sangsues; des chaussures avec de l'adherence font plus de difference que tout ce que vous pourriez apporter. Se baigner sous les plus petites cascades est normal et sur quand votre chauffeur le dit, et pas quand il ne le dit pas.",
+  "highlights": [
+   "Little Adam’s Peak a la premiere lumiere, avant que la file ne se forme",
+   "Le pont aux neuf arches cale sur les vrais mouvements de train du jour",
+   "Les cascades de Ravana plus deux cascades non signalees que vous ne trouveriez pas seul",
+   "Un vehicule prive, pour que la journee s’adapte au train et a la lumiere",
+   "Prise en charge et depose a l’hotel a Ella"
+  ],
+  "included": [
+   "Tuk-tuk ou voiture privee avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel a Ella",
+   "tous les trajets",
+   "carburant"
+  ],
+  "notIncluded": [
+   "Frais d’entree le cas echeant",
+   "repas et boissons",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "sigiriya-to-ella-private-transfer-via-a-vedda-village-and-the-hill-road": {
+  "title": "Transfert prive de Sigiriya a Ella via un village Vedda et la route des montagnes",
+  "metaTitle": "Sigiriya a Ella via un village Vedda",
+  "metaDescription": "Le long trajet du triangle culturel vers Ella, par la route orientale via Mahiyanganaya avec une visite d'une communaute Vedda et des arrets dans des temples.",
+  "shortDescription": "Le long trajet du triangle culturel vers Ella, par la route orientale via Mahiyanganaya avec une visite d'une communaute Vedda et des arrets dans des temples sur le chemin.",
+  "fullDescription": "De Sigiriya a Ella est l'un des transferts les plus longs du Sri Lanka et il y a deux facons de le faire. L'itineraire habituel passe par Kandy et prend six ou sept heures de virages continus. Celui-ci prend la route orientale a travers Mahiyanganaya et monte l'escarpement d'Uva, ce qui est plus calme, moins frequente et integre quelque chose que la route de Kandy n'offre pas.\n\nLes Vedda sont le peuple indigene du Sri Lanka, presents sur l'ile bien avant l'arrivee cinghalaise que les chroniques datent du cinquieme siecle avant notre ere. Quelques communautes subsistent, principalement autour de Dambana pres de Mahiyanganaya, et une visite implique de rencontrer des membres de la communaute, de voir les techniques de chasse et de cueillette qu'ils enseignent encore, et d'entendre leur propre recit d'une histoire habituellement racontee a leur sujet plutot que par eux.\n\nSoyez clair a ce sujet. Ces visites sont un moyen de subsistance et elles sont, dans une certaine mesure, mises en scene. Cela ne les rend pas sans valeur, la communaute controle la presentation et les revenus restent locaux, mais ce n'est pas une rencontre avec des gens non touches par le monde moderne, et quiconque vous le vend ainsi n'est pas honnete avec vous.\n\nLa route grimpe ensuite l'escarpement vers Uva et descend vers Ella dans l'apres-midi.\n\nSigiriya est une colonne rocheuse de 200 metres qui s'eleve au-dessus de la plaine de la zone seche, sur laquelle le roi Kasyapa a construit son palais au cinquieme siecle apres avoir usurpe le trone, et c'est un site de l'UNESCO depuis 1982. L'ascension compte environ 1 200 marches sur des escaliers et passerelles en fer, passant par le mur miroir avec ses graffitis millenaires et la galerie abritee de fresques, jusqu'aux pattes du lion qui donnent son nom au rocher et aux fondations du palais au sommet. Cela prend une heure et demie aller-retour pour la plupart des gens et il vaut mieux commencer a 7h00, avant la chaleur et les autocars; le ticket pour les visiteurs etrangers est l'un des plus chers du pays, et Pidurangala, le rocher voisin, offre la vue classique sur Sigiriya pour une fraction du prix.",
+  "highlights": [
+   "La route orientale plus calme plutot que la route animee de Kandy",
+   "Une visite d’une communaute Vedda a Dambana, le peuple indigene du Sri Lanka",
+   "Des arrets a des temples et statues de Bouddha via Mahiyanganaya",
+   "La montee de l’escarpement d’Uva vers les montagnes",
+   "Depose a Ella, Bandarawela, Haputale ou Beragala"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel",
+   "tous les arrets sur la route",
+   "depose a votre hotel dans les montagnes",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Les frais de la communaute du village Vedda",
+   "dons au temple",
+   "repas et boissons",
+   "pourboires"
+  ]
+ },
+ "kandy-or-nuwara-eliya-to-ella-private-tea-country-transfer": {
+  "title": "Transfert prive dans le pays du the vers Ella depuis Kandy ou Nuwara Eliya",
+  "metaTitle": "Kandy/Nuwara Eliya a Ella",
+  "metaDescription": "Un transfert prive vers Ella depuis Kandy ou Nuwara Eliya, avec les arrets integres: le lac Gregory, le temple Seetha Amman, des plantations de the et des cascades.",
+  "shortDescription": "Un transfert prive vers Ella depuis Kandy ou Nuwara Eliya, avec les arrets de la route integres: le lac Gregory, le temple Seetha Amman, des plantations de the et des cascades.",
+  "fullDescription": "C'est un transfert flexible qui commence ou que vous soyez. Depuis Nuwara Eliya, c'est la version plus courte, environ deux heures avec les arrets. Depuis Kandy, c'est la montee complete, quatre a cinq heures, gagnant 1 400 metres a travers Gampola et Pussellawa avant de descendre vers Ella.\n\nL'itineraire depuis Nuwara Eliya comprend le lac Gregory, le centre colonial avec son hippodrome et son bureau de poste de style faux Tudor, et le temple de Seetha Amman a Seetha Eliya, un temple hindou peint de couleurs vives sur l'un des sites du Ramayana des montagnes, ou Sita aurait ete retenue. Il est frequente par des pelerins indiens plutot que des touristes, ce qui lui donne une atmosphere tres differente des sites bouddhistes.\n\nL'itineraire depuis Kandy ajoute les cascades de Ramboda, le temple Bhakta Hanuman au-dessus, et une fabrique de the en activite ou la feuille passe du bac de fletrissage a la table de tri en environ quarante-cinq minutes.\n\nDans tous les cas, vous arrivez a Ella dans l'apres-midi avec les visites deja faites, ce qui vaut plus que cela ne semble, cela signifie que votre premiere matinee a Ella est libre pour Little Adam's Peak a l'aube plutot que pour recuperer du trajet.\n\nKandy fut la derniere capitale des rois cinghalais, resistant aux Portugais et aux Hollandais jusqu'a ce que les Britanniques la prennent en 1815, et le Temple de la Sainte Dent Relique sur le lac explique son importance: la relique, consideree comme une dent du Bouddha, est l'objet le plus sacre de l'ile et sa garde legitimait autrefois la royaute. La chambre de la relique ouvre pour le puja trois fois par jour, vers 5h30, 9h30 et 18h30, quand les tambours commencent et que la file avance devant le reliquaire. La tenue couvre epaules et genoux, les chaussures se retirent a l'entree, et l'Esala Perahera en juillet ou aout fait parader le reliquaire sur un elephant a travers la ville pendant dix nuits.",
+  "highlights": [
+   "Un transfert qui commence depuis Kandy ou Nuwara Eliya, selon votre position",
+   "Le lac Gregory et le centre colonial de Nuwara Eliya",
+   "Le temple Ramayana de Seetha Amman a Seetha Eliya",
+   "Les cascades de Ramboda et une fabrique de the en activite sur l’itineraire le plus long",
+   "Arrivee a Ella avec la premiere matinee libre pour la marche a l’aube"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel",
+   "tous les arrets sur l’itineraire choisi",
+   "depose a votre hotel a Ella",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Frais d’entree le cas echeant",
+   "repas et boissons",
+   "achats de the",
+   "pourboires"
+  ]
+ },
+ "liptons-seat-the-dambatenne-tea-factory-and-adisham-bungalow-from-ella": {
+  "title": "Lipton's Seat, la fabrique de the Dambatenne et le bungalow Adisham depuis Ella",
+  "metaTitle": "Lipton’s Seat, Dambatenne et Adisham",
+  "metaDescription": "Une matinee au-dessus de Haputale jusqu'a Lipton's Seat, avec la fabrique Dambatenne et le monastere d'Adisham.",
+  "shortDescription": "Une matinee au-dessus de Haputale jusqu'a Lipton's Seat, le point de vue ou Thomas Lipton observait ses plantations, avec la fabrique Dambatenne qu'il a construite en 1890 et le monastere benedictin d'Adisham.",
+  "fullDescription": "Thomas Lipton a achete ses premieres plantations de Ceylan en 1890, et Dambatenne en faisait partie. Il a construit la fabrique qui s'y trouve encore et, selon l'histoire, il montait jusqu'a un eperon rocheux au-dessus pour observer tout ce qu'il possedait. Cet eperon est Lipton's Seat, a environ 1 970 metres, et par une matinee claire, la vue s'etend sur cinq provinces jusqu'a la plaine sud.\n\nL'accent est mis sur le clair et sur la matinee. Vers neuf ou dix heures, la vallee en dessous se remplit de nuages et il n'y a plus rien a voir, ce qui est le meme probleme que World's End et a la meme solution: partez tot. Certains visiteurs marchent les sept kilometres depuis Dambatenne a travers le the, ce qui prend environ deux heures et constitue l'une des meilleures marches des montagnes; la plupart y vont en voiture.\n\nLa fabrique Dambatenne est une usine en activite et l'une des plus anciennes du Sri Lanka, et une visite suit la feuille des bacs de fletrissage jusqu'au roulage, l'oxydation et la cuisson jusqu'a la table de tri.\n\nLe bungalow Adisham, en direction de Haputale, est une maison de campagne anglaise des annees 1930 construite par un planteur britannique et aujourd'hui un monastere benedictin. C'est vraiment etrange, de la pierre de style Tudor en plein pays du the sri-lankais, et les moines vendent de la confiture.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "Lipton’s Seat a 1 970 m, avec une vue sur cinq provinces par une matinee claire",
+   "La fabrique de the Dambatenne, construite par Thomas Lipton en 1890 et toujours en activite",
+   "L’option de marcher les 7 km a travers les plantations plutot que d’y aller en voiture",
+   "Le bungalow Adisham, une maison de campagne anglaise des annees 1930 devenue monastere",
+   "Prise en charge a Ella, Bandarawela ou Haputale"
+  ],
+  "included": [
+   "Vehicule prive avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel",
+   "tous les trajets",
+   "carburant"
+  ],
+  "notIncluded": [
+   "L'entree de la fabrique de the et d'Adisham",
+   "repas et boissons",
+   "achats de the",
+   "pourboires"
+  ]
+ },
+ "ella-day-trip-from-galle-hikkaduwa-or-mirissa-with-the-hill-country": {
+  "title": "Excursion a Ella depuis Galle, Hikkaduwa ou Mirissa avec les sites des montagnes",
+  "metaTitle": "Ella depuis la cote sud",
+  "metaDescription": "Une longue journee de la cote sud vers les montagnes: cascades de Ravana, Little Adam's Peak, pont aux neuf arches et une fabrique de the en activite.",
+  "shortDescription": "Une longue journee de la cote sud vers les montagnes: cascades de Ravana, Little Adam's Peak, le pont aux neuf arches et une fabrique de the en activite, avec transferts a l'hotel depuis la region de Galle.",
+  "fullDescription": "Ella se trouve a environ quatre heures a l'interieur des terres depuis la cote sud, ce qui fait de celle-ci une journee de quatorze heures qu'il convient d'etre honnete a ce sujet. Elle existe parce que beaucoup de voyageurs passent une semaine a la plage et veulent une journee dans les montagnes, et le faire ainsi est mieux que de ne pas le faire du tout.\n\nLa route grimpe depuis le niveau de la mer a travers le pays d'Udawalawe et monte l'escarpement, et le paysage change completement deux fois en chemin. Au moment ou vous atteignez Ella, vous etes a mille metres et il fait quinze degres de moins que la plage que vous avez quittee.\n\nSur le terrain, la journee couvre ce pour quoi Ella est connue: Little Adam's Peak, 45 minutes sur un sentier en escaliers pour la vue a travers l'Ella Gap; le pont aux neuf arches, un viaduc en pierre construit sans acier pendant la Premiere Guerre mondiale; les cascades de Ravana au bord de la route; et une fabrique de the en activite menant la feuille du bac de fletrissage a la table de tri.\n\nSi votre itineraire offre la moindre flexibilite, deux nuits a Ella est un bien meilleur usage du meme argent. Si ce n'est pas le cas, c'est la journee qu'il faut.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "La montee complete depuis la cote jusqu’aux montagnes et le retour en une journee",
+   "Little Adam’s Peak et la vue a travers l’Ella Gap",
+   "Le pont aux neuf arches, construit en pierre sans acier pendant la Premiere Guerre mondiale",
+   "Une fabrique de the d’Uva en activite avec une degustation",
+   "Les cascades de Ravana, et des transferts a l’hotel depuis la bande Galle-Mirissa"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel sur la cote sud",
+   "tous les trajets et arrets",
+   "carburant et stationnement"
+  ],
+  "notIncluded": [
+   "Frais d’entree le cas echeant",
+   "repas et boissons",
+   "achats de the",
+   "pourboires"
+  ]
+ },
+ "yala-leopard-safari-and-south-coast-transfer-from-ella": {
+  "title": "Safari aux leopards a Yala et transfert vers la cote sud depuis Ella",
+  "metaTitle": "Safari leopards Yala et cote sud",
+  "metaDescription": "Un safari a l'aube a Yala, qui detient la plus forte densite de leopards au monde, sur le trajet d'Ella vers la cote sud, avec depose a Mirissa, Tangalle ou Galle.",
+  "shortDescription": "Un safari a l'aube a Yala, qui detient la plus forte densite de leopards au monde, sur le trajet d'Ella vers la cote sud, avec depose a Mirissa, Tangalle ou Galle.",
+  "fullDescription": "A noter avant de reserver: le Departement de la conservation de la faune a ferme les blocs 1 et 2 du parc national de Yala du 14 septembre au 15 octobre 2026 en raison de la secheresse, donc les safaris dans ces blocs ne peuvent pas avoir lieu a ces dates. Les blocs 3 a 6 restent ouverts, et Udawalawe et Wilpattu ne sont pas affectes, pour un voyage dans cette periode nous vous contacterons pour deplacer le safari vers l'un de ces parcs ou a une date apres le 15 octobre. Udawalawe est le parc le plus fort pour les elephants; Wilpattu offre des observations de leopards plus tranquilles.\n\nYala se trouve au sud-est d'Ella sur le chemin vers la cote, ce qui fait de la journee de transfert le moment sense pour le faire plutot qu'un aller-retour depuis l'une ou l'autre extremite.\n\nLe bloc 1, la section que la plupart des visiteurs voient, detient la plus forte densite enregistree de leopards sur Terre. C'est une statistique veritable et elle s'accompagne d'une foule veritable: par une matinee animee en haute saison, trois cents jeeps parcourent les memes pistes, et une observation attire des vehicules de tout le bloc. C'est l'endroit au monde ou il est le plus probable de voir un leopard sauvage, et ce n'est pas un endroit tranquille.\n\nLe parc est plus que ses leopards. Les ours paresseux, plus difficiles a voir et sans doute meilleurs, les elephants, les buffles d'eau, les crocodiles marins, et plus de deux cents especes d'oiseaux dont un grand nombre de migrateurs hivernaux.\n\nLe safari a l'aube est celui qu'il faut prendre. Les animaux bougent a la premiere lumiere et s'abritent vers neuf heures, et le meme parc a onze heures du matin est largement vide de tout sauf de jeeps.\n\nApres le trajet, il reste environ deux heures jusqu'a la cote, avec une arrivee en debut d'apres-midi.",
+  "highlights": [
+   "La plus forte densite de leopards sauvages au monde",
+   "Un safari a l’aube, quand les animaux bougent vraiment",
+   "Ours paresseux, elephants, crocodiles et plus de 200 especes d’oiseaux",
+   "Le trajet d’Ella a la cote transforme en journee plutot qu’en simple route",
+   "Depose a Mirissa, Tangalle ou Galle"
+  ],
+  "included": [
+   "Vehicule prive avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel dans la region d’Ella",
+   "la jeep de safari avec chauffeur et traqueur",
+   "depose sur la cote sud",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Le permis du parc national, a payer en especes a l’entree",
+   "repas",
+   "pourboires pour le chauffeur et le traqueur"
+  ]
+ },
+ "udawalawe-jeep-safari-from-ella-bandarawela-or-haputale-with-ravana": {
+  "title": "Safari en jeep a Udawalawe depuis Ella, Bandarawela ou Haputale avec les cascades de Ravana",
+  "metaTitle": "Safari jeep Udawalawe avec Ravana",
+  "metaDescription": "Une excursion a Udawalawe depuis la region d'Ella pour elephants, crocodiles et oiseaux, avec le refuge pour elephanteaux et les cascades de Ravana.",
+  "shortDescription": "Une excursion aller-retour a Udawalawe depuis la region d'Ella pour elephants, crocodiles et oiseaux, avec le refuge pour elephanteaux et un arret aux cascades de Ravana au retour.",
+  "fullDescription": "Udawalawe se trouve a deux heures au sud d'Ella et c'est le parc a prendre si vous voulez voir des elephants plutot que d'esperer un leopard. Il a ete cree en 1972 pour proteger le bassin d'un nouveau reservoir, et les terres agricoles deplacees sont devenues une prairie ouverte, c'est pourquoi les animaux ici sont visibles d'une maniere qu'ils ne le sont pas dans les parcs forestiers.\n\nLa population residente est d'environ six cents, et les troupeaux sont generalement visibles dans les vingt minutes suivant l'entree. Buffles d'eau, cerfs tachetes, chacals, crocodiles marins le long du reservoir, et une observation d'oiseaux exceptionnelle: serpentaires, aigles autoursiers, cigognes peintes et un grand afflux de migrateurs hivernaux.\n\nLe refuge pour elephanteaux a la limite du parc est un centre de rehabilitation plutot qu'un orphelinat, les veaux orphelins sont eleves avec un contact humain minimal et relaches dans la nature en groupes, et plusieurs centaines y sont retournes. Le nourrissage s'observe depuis une plateforme a distance. Il n'y a ni monte ni bain ici, ce qui est le but.\n\nLes cascades de Ravana cloturent la journee sur la route de retour vers Ella.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "Environ 600 elephants residents sur une prairie ouverte, visibles de facon fiable",
+   "Crocodiles marins, buffles d’eau et observation d’oiseaux exceptionnelle",
+   "Le refuge pour elephanteaux, qui relache ses orphelins dans la nature",
+   "Prise en charge a Ella, Bandarawela ou Haputale",
+   "Les cascades de Ravana au retour"
+  ],
+  "included": [
+   "Vehicule prive avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel",
+   "la jeep de safari avec chauffeur et traqueur",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Le permis du parc national et l’entree au refuge, a payer a l’entree",
+   "repas",
+   "pourboires"
+  ]
+ },
+ "udawalawe-safari-and-south-coast-transfer-from-ella": {
+  "title": "Safari a Udawalawe et transfert vers la cote sud depuis Ella",
+  "metaTitle": "Safari Udawalawe et transfert cote sud",
+  "metaDescription": "Le trajet d'Ella vers la cote avec un safari matinal a Udawalawe integre, le nourrissage au refuge pour elephanteaux, et depose a Mirissa, Galle ou Hikkaduwa.",
+  "shortDescription": "Le trajet d'Ella vers la cote avec un safari matinal a Udawalawe integre, le nourrissage au refuge pour elephanteaux, et depose a Mirissa, Galle ou Hikkaduwa.",
+  "fullDescription": "Udawalawe se trouve directement sur la route d'Ella vers la cote sud, ce qui explique pourquoi le faire comme excursion depuis l'une ou l'autre extremite n'a pas de sens et pourquoi le faire le jour du transfert en a beaucoup.\n\nLe parc est le fiable. Environ six cents elephants residents sur une prairie ouverte autour d'un reservoir, aucune foret ou se cacher, et une fraction des jeeps que Yala accueille. Les observations sont quasi certaines et les animaux sont generalement proches. Ce que vous ne verrez pas ici, c'est un leopard, ils existent et sont presque jamais vus, donc si les leopards sont l'objectif, prenez plutot la version Yala et acceptez les foules qui l'accompagnent.\n\nLe refuge pour elephanteaux a la limite du parc est l'autre moitie. Il rehabilite les veaux orphelins et les relache dans la nature plutot que de les garder, ce qui est la distinction importante avec un orphelinat. Les sessions de nourrissage ont lieu plusieurs fois par jour et s'observent depuis une plateforme a distance, sans monte, sans bain, sans contact.\n\nApres le trajet, il reste environ deux heures jusqu'a la cote, avec une arrivee en milieu d'apres-midi et la journee de plage encore intacte.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "Un safari matinal dans le parc a elephants le plus fiable du Sri Lanka",
+   "Environ 600 elephants residents sur une prairie ouverte, generalement proches de la piste",
+   "Le refuge pour elephanteaux, qui relache ses orphelins plutot que de les garder",
+   "Le trajet d’Ella a la cote transforme en journee plutot qu’en simple route",
+   "Depose a Mirissa, Galle ou Hikkaduwa avec l’apres-midi intact"
+  ],
+  "included": [
+   "Vehicule prive avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel a Ella",
+   "la jeep de safari et le safari",
+   "depose a votre hotel sur la cote sud",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Le permis du parc national et l’entree au refuge, payes a l’entree",
+   "repas et boissons",
+   "pourboires pour le chauffeur et le traqueur"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Séance de flyboard à Pattaya",
   "fullDescription": "Cette expérience de 30 minutes se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend séance de flyboard, accompagnement d'un instructeur, équipement de sécurité et douches. Il ne comprend pas photos et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
