@@ -97655,6 +97655,216 @@ export const ES_TOURS: Record<string, TourT> = {
    "propinas"
   ]
  },
+ "pekoe-trail-stage-16-guided-hike-ella-to-demodara-via-the-nine-arch": {
+  "title": "Pekoe Trail etapa 16, caminata guiada: de Ella a Demodara via el puente de los nueve arcos",
+  "metaTitle": "Pekoe Trail etapa 16: Ella a Demodara",
+  "metaDescription": "La ultima etapa del Pekoe Trail, de Ella a traves de la reserva forestal hasta Demodara via el puente de los nueve arcos, unas tres horas.",
+  "shortDescription": "La ultima etapa del Pekoe Trail, recorrida de Ella a traves de la reserva forestal y el puente de los nueve arcos hasta la estacion de Demodara, unas tres horas por senderos señalizados.",
+  "fullDescription": "El Pekoe Trail es una ruta señalizada de 300 kilometros a traves del pais del te de Sri Lanka, inaugurada en 2023 y construida casi por completo sobre senderos que ya existian: los caminos de plantacion, las sendas de recoleccion y los senderos que conectaban plantaciones antes de que hubiera carreteras entre ellas.\n\nLa etapa 16 es la ultima y la mas corta, bajando de Ella hasta la estacion de tren de Demodara. Deja la ciudad por la Reserva Forestal de Ella, un retazo de bosque remanente que casi ningun visitante pisa, y luego desciende por plantaciones de te hasta el puente de los nueve arcos, que el sendero atraviesa en lugar de solo visitar.\n\nEsa es la diferencia con la excursion estandar al puente. Todos bajan desde la ciudad, fotografian el viaducto y vuelven a subir. La etapa 16 se acerca desde arriba por el sendero, lo cruza, y continua hasta Demodara, donde el ferrocarril traza un circulo completo por debajo de si mismo para ganar altitud.\n\nUnas tres horas, mayormente en descenso, por terreno señalizado pero irregular. Es la introduccion mas facil que existe al Pekoe Trail y la que la mayoria puede hacer sin entrenamiento.\n\nEl tren de vuelta a Ella toma veinte minutos si prefiere no caminar el regreso.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, al que se llega en el tren desde Kandy que la mayoria considera el trayecto ferroviario mas bonito de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; el Little Adam’s Peak, una caminata de 40 minutos entre te hasta una cresta; Ella Rock, una subida mas exigente de tres horas; y las cascadas de Ravana en la carretera hacia Wellawaya. Las mañanas son claras y las tardes de los meses humedos traen nubes al paso, por eso las caminatas se hacen temprano. Los tuk-tuks son el transporte, y cualquier alojamiento puede conseguir uno.",
+  "highlights": [
+   "La ultima etapa del Pekoe Trail de 300 km, inaugurado en 2023",
+   "La Reserva Forestal de Ella, que casi ningun visitante pisa",
+   "Cruzar el puente de los nueve arcos por el sendero en lugar de fotografiarlo desde abajo",
+   "El bucle de Demodara, donde el ferrocarril pasa por debajo de si mismo",
+   "Unas tres horas, mayormente en descenso, la etapa Pekoe mas suave"
+  ],
+  "included": [
+   "Un guia de senderismo de habla inglesa",
+   "recogida en el hotel en Ella",
+   "la caminata guiada",
+   "agua potable"
+  ],
+  "notIncluded": [
+   "El billete de tren de vuelta a Ella",
+   "comidas",
+   "propinas",
+   "equipo personal"
+  ]
+ },
+ "private-yala-safari-from-ella-with-a-dedicated-jeep-and-tracker": {
+  "title": "Safari privado en Yala desde Ella con jeep y rastreador dedicados",
+  "metaTitle": "Safari privado en Yala desde Ella",
+  "metaDescription": "Un safari privado en Yala desde Ella con su propio jeep y rastreador, para que la mañana se pase donde estan los animales en lugar del horario de un grupo.",
+  "shortDescription": "Un safari privado en Yala desde Ella con su propio jeep y rastreador, para que la mañana se pase donde estan los animales en lugar del horario de un grupo.",
+  "fullDescription": "Tenga en cuenta antes de reservar: el Departamento de Conservacion de Vida Silvestre ha cerrado los bloques 1 y 2 del Parque Nacional de Yala del 14 de septiembre al 15 de octubre de 2026 por sequia, por lo que los safaris en esos bloques no pueden realizarse en esas fechas. Los bloques 3 a 6 permanecen abiertos, y Udawalawe y Wilpattu no se ven afectados; para viajes dentro de ese periodo le contactaremos para trasladar el safari a uno de esos parques o a una fecha posterior al 15 de octubre. Udawalawe es el parque mas fuerte para elefantes; Wilpattu ofrece avistamientos de leopardos mas tranquilos.\n\nEl bloque 1 de Yala tiene la mayor densidad registrada de leopardos del planeta, y en una mañana concurrida de temporada tambien tiene unos trescientos jeeps. Ambas cosas son ciertas, y como experimenta el parque depende casi por completo de si su vehiculo persigue a la multitud o trabaja alrededor de ella.\n\nUn jeep privado es lo que compra esa opcion. Cuando se informa de un avistamiento y treinta vehiculos convergen, usted puede esperar e ir a un lugar mas tranquilo. Cuando el rastreador encuentra algo en un camino secundario, puede quedarse. Los grupos no pueden hacer ninguna de las dos cosas.\n\nEl parque es mas que sus leopardos, y la version privada hace eso evidente. Los osos perezosos son mas dificiles de ver y, para la mayoria que logra verlos, el mejor recuerdo. Elefantes, bufalos de agua, cocodrilos marinos en los abrevaderos, y mas de doscientas especies de aves con una fuerte migracion invernal.\n\nEl trayecto desde Ella dura unas dos horas y media cada direccion, y el safari al amanecer es el que funciona, los animales se mueven con la primera luz y se refugian hacia las nueve.\n\nEl bloque 1 de Yala cierra aproximadamente un mes cada septiembre. Verifique antes de reservar en ese periodo.",
+  "highlights": [
+   "Un jeep y rastreador privados, no un asiento compartido",
+   "La libertad de evitar un avistamiento concurrido y encontrar uno mas tranquilo",
+   "La mayor densidad registrada de leopardos salvajes del mundo",
+   "Osos perezosos, elefantes, cocodrilos y mas de 200 especies de aves",
+   "Traslados de ida y vuelta desde Ella incluidos"
+  ],
+  "included": [
+   "Vehiculo privado con conductor desde su hotel en Ella",
+   "un jeep de safari 4x4 privado con conductor y rastreador",
+   "el safari",
+   "agua potable"
+  ],
+  "notIncluded": [
+   "El permiso del parque nacional, pagado en efectivo en la entrada",
+   "comidas",
+   "propinas para el conductor y el rastreador"
+  ]
+ },
+ "horton-plains-sunrise-trek-with-a-transfer-on-to-haputale-or-ella": {
+  "title": "Caminata al amanecer en Horton Plains con traslado a Haputale o Ella",
+  "metaTitle": "Horton Plains al amanecer",
+  "metaDescription": "Una caminata al amanecer en Horton Plains desde Nuwara Eliya, terminando con un traslado a Haputale o Ella en lugar de un regreso.",
+  "shortDescription": "Una caminata al amanecer en Horton Plains desde Nuwara Eliya, terminando con un traslado a Haputale o Ella en lugar de un regreso, para que la caminata y el traslado ocurran el mismo dia.",
+  "fullDescription": "Horton Plains esta a 32 kilometros de Nuwara Eliya y la excursion solo funciona al amanecer, lo que la hace dificil de combinar con otra cosa. Esta version lo resuelve no regresando: usted camina la meseta por la mañana y luego lo llevan a Haputale o Ella, con su equipaje en el coche.\n\nLa meseta esta a unos 2.300 metros y no se parece al resto del pais, pastizal de altitud y bosque de niebla, erosionado por el viento, frio, con arboles enanos cubiertos de musgo.\n\nWorld's End es la razon de estar alli: el escarpe sur termina y el suelo cae unos 870 metros en una pared vertical. Da al sur, el aire caliente sube desde la llanura durante la mañana, y hacia las nueve o diez hay una nube donde deberia estar la vista. Ese unico hecho es por que la puerta abre a las seis y por que esta excursion comienza a las cinco.\n\nEl bucle mide nueve kilometros y dura de tres a cuatro horas, recorrido en sentido antihorario para que World's End llegue antes de las nubes y las cascadas de Baker queden para el regreso.\n\nLuego la conduccion continua, que desciende de 2.300 metros a mil y unos doce grados mas calido.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, al que se llega en el tren desde Kandy que la mayoria considera el trayecto ferroviario mas bonito de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; el Little Adam’s Peak, una caminata de 40 minutos entre te hasta una cresta; Ella Rock, una subida mas exigente de tres horas; y las cascadas de Ravana en la carretera hacia Wellawaya. Las mañanas son claras y las tardes de los meses humedos traen nubes al paso, por eso las caminatas se hacen temprano. Los tuk-tuks son el transporte, y cualquier alojamiento puede conseguir uno.",
+  "highlights": [
+   "Una caminata al amanecer en Horton Plains, el unico momento en que existe la vista de World’s End",
+   "El bucle de la meseta de 9 km pasando por Little World’s End, World’s End y las cascadas de Baker",
+   "Pastizal de altitud y bosque de niebla distinto de cualquier otro lugar de Sri Lanka",
+   "Traslado a Haputale o Ella en lugar de un trayecto de regreso",
+   "Equipaje transportado, para que la caminata y el traslado ocurran el mismo dia"
+  ],
+  "included": [
+   "Vehiculo privado con conductor-guia de habla inglesa",
+   "recogida en el hotel en Nuwara Eliya",
+   "transporte al parque y de regreso",
+   "entrega en Haputale o Ella",
+   "equipaje transportado durante todo el trayecto"
+  ],
+  "notIncluded": [
+   "La entrada a Horton Plains",
+   "comidas",
+   "propinas",
+   "gastos personales"
+  ]
+ },
+ "horton-plains-and-worlds-end-from-ella-with-the-train-to-ohiya": {
+  "title": "Horton Plains y World's End desde Ella con el tren hasta Ohiya",
+  "metaTitle": "Horton Plains desde Ella en tren",
+  "metaDescription": "Un dia en Horton Plains, al que se llega en el tren de montaña hasta Ohiya: el bucle de 9 km pasando por World's End y las cascadas de Baker, a 2.300 metros.",
+  "shortDescription": "Un dia en Horton Plains, al que se llega en el tren de montaña hasta Ohiya: el bucle de 9 km pasando por World's End y las cascadas de Baker, a 2.300 metros de bosque de niebla y pastizal de altitud.",
+  "fullDescription": "Horton Plains es una meseta de pastizal de altitud y bosque de niebla a unos 2.300 metros, y no se parece en nada al resto de Sri Lanka: abierta, erosionada por el viento, fria, mas cercana a Escocia que a los tropicos.\n\nLa razon para venir es World's End, donde el escarpe sur simplemente se detiene y cae unos 870 metros en una pared vertical, con la llanura y a veces la costa sur visibles muy abajo.\n\nLlegar alli en tren desde Ella hasta Ohiya es la diferencia entre esta excursion y la estandar. Ohiya es la estacion mas alta de la linea y el trayecto de subida cruza lo mejor del pais del te; desde alli son unos once kilometros hasta la entrada del parque.\n\nEl bucle en si mide unos nueve kilometros y dura de tres a cuatro horas, mayormente plano con tramos rocosos. Recorralo en sentido antihorario, eso llega primero a Little World's End y luego a World's End, antes de las nubes, y deja las cascadas de Baker para el regreso.\n\nEl ciervo sambar es comun y en gran medida indiferente a la gente. Langures de cara purpura en los tramos boscosos. El leopardo de Sri Lanka esta presente aqui y practicamente nunca se ve.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, al que se llega en el tren desde Kandy que la mayoria considera el trayecto ferroviario mas bonito de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; el Little Adam’s Peak, una caminata de 40 minutos entre te hasta una cresta; Ella Rock, una subida mas exigente de tres horas; y las cascadas de Ravana en la carretera hacia Wellawaya. Las mañanas son claras y las tardes de los meses humedos traen nubes al paso, por eso las caminatas se hacen temprano. Los tuk-tuks son el transporte, y cualquier alojamiento puede conseguir uno.",
+  "highlights": [
+   "Horton Plains a 2.300 m, un pastizal de altitud distinto de cualquier otro lugar de Sri Lanka",
+   "World’s End, donde el escarpe cae 870 metros en una pared vertical",
+   "Se llega en el tren de montaña hasta Ohiya, la estacion mas alta de la linea",
+   "Las cascadas de Baker en el tramo de regreso del bucle",
+   "Ciervo sambar, langures de cara purpura y especies endemicas de las tierras altas"
+  ],
+  "included": [
+   "Vehiculo privado con conductor-guia de habla inglesa",
+   "recogida y regreso al hotel en Ella",
+   "transporte entre la estacion de Ohiya y el parque, ida y vuelta",
+   "guia en el bucle"
+  ],
+  "notIncluded": [
+   "La entrada a Horton Plains",
+   "billetes de tren",
+   "comidas",
+   "propinas"
+  ]
+ },
+ "ella-to-demodara-cycling-tour-with-the-nine-arch-bridge-and-a-train": {
+  "title": "Tour en bicicleta de Ella a Demodara con el puente de los nueve arcos y regreso en tren",
+  "metaTitle": "Bicicleta Ella a Demodara, regreso en tren",
+  "metaDescription": "Un descenso en bicicleta guiado de Ella a Demodara por plantaciones y pueblos, con el puente de los nueve arcos, y regreso en tren para evitar la subida.",
+  "shortDescription": "Un descenso en bicicleta guiado de Ella a Demodara por plantaciones y pueblos, con el puente de los nueve arcos, y regreso en tren para que la subida se haga por ferrocarril en lugar de con las piernas.",
+  "fullDescription": "Esta es la forma mas inteligente que alguien ha encontrado de ver el territorio entre Ella y Demodara, y la razon es sencilla: usted baja en bicicleta y sube de vuelta en tren.\n\nElla esta mas alta que Demodara, por lo que el tramo de ida es un largo descenso por plantaciones de te, pasando viviendas de linea y tiendas de pueblo, por caminos que casi no tienen trafico. Recorrerlo en bicicleta significa notar cosas que un vehiculo pasa de largo, la recoleccion en las laderas, los perros, los niños de la escuela, el olor de las plantaciones por la mañana.\n\nEl puente de los nueve arcos esta en la ruta. Se detiene, baja a pie hasta el, espera un tren si hay uno proximo, y vuelve a subir a la bicicleta.\n\nDemodara es donde el ferrocarril hace su famoso truco, trazando un circulo completo para pasar por debajo de la estacion que acaba de dejar con el fin de ganar altitud. Es una autentica curiosidad de ingenieria y casi nadie hace el viaje para verla.\n\nLuego sube las bicicletas al tren y regresa a Ella, que es el tramo que todos fotografian, tomado en la direccion correcta y sin novecientos metros de subida en las piernas.\n\nUnas cuatro horas, y no requiere una forma fisica particular porque la parte dificil la hace el ferrocarril.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, al que se llega en el tren desde Kandy que la mayoria considera el trayecto ferroviario mas bonito de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; el Little Adam’s Peak, una caminata de 40 minutos entre te hasta una cresta; Ella Rock, una subida mas exigente de tres horas; y las cascadas de Ravana en la carretera hacia Wellawaya. Las mañanas son claras y las tardes de los meses humedos traen nubes al paso, por eso las caminatas se hacen temprano. Los tuk-tuks son el transporte, y cualquier alojamiento puede conseguir uno.",
+  "highlights": [
+   "Descenso de Ella a Demodara por plantaciones y pueblos",
+   "El puente de los nueve arcos en la ruta, con una parada y un paseo hasta el",
+   "El bucle de Demodara, donde el ferrocarril pasa por debajo de si mismo",
+   "El regreso en tren, para que la subida se haga por ferrocarril en lugar de con las piernas",
+   "No se necesita forma fisica particular, el descenso es el paseo"
+  ],
+  "included": [
+   "Recogida en el hotel en Ella",
+   "una bicicleta y un casco",
+   "un guia ciclista de habla inglesa",
+   "el billete de tren de vuelta a Ella",
+   "agua potable"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "propinas",
+   "gastos personales"
+  ]
+ },
+ "tissamaharama-to-ella-guided-transfer-with-buduruwagala": {
+  "title": "Traslado guiado de Tissamaharama a Ella con Buduruwagala y las cascadas",
+  "metaTitle": "Tissamaharama a Ella con Buduruwagala",
+  "metaDescription": "La subida de Tissamaharama a las montañas tras un safari en Yala, con los Budas rupestres de Buduruwagala, un jardin de especias y las cascadas de Diyaluma y Ravana.",
+  "shortDescription": "La subida de Tissamaharama a las montañas tras un safari en Yala, con los Budas rupestres de Buduruwagala, un jardin de especias y las cascadas de Diyaluma y Ravana en el camino.",
+  "fullDescription": "La mayoria de la gente llega a Tissamaharama por una razon, un safari al amanecer en Yala, y sigue camino al dia siguiente. Dirigirse despues al norte hacia las montañas significa subir desde las tierras bajas secas hasta los mil metros, y esta ruta coloca las buenas paradas en la subida en lugar de pasar de largo.\n\nBuduruwagala es la que lo justifica. Siete figuras esculpidas en una pared rocosa en los siglos noveno o decimo, el Buda en pie central de dieciseis metros de altura, con restos del estuco y la pintura naranja originales todavia visibles en la piedra. Pertenece a la tradicion mahayana, poco comun en un pais abrumadoramente theravada, y se encuentra en matorral seco casi sin nadie alli. Despues de los jeeps de Yala es un alivio considerable.\n\nUn jardin de especias cerca de Wellawaya cubre canela, pimienta, cardamomo y las plantas ayurvedicas cultivadas en todos los jardines de pueblo de aqui.\n\nDiyaluma, la segunda cascada mas alta de Sri Lanka con 220 metros, es visible por completo desde la carretera durante la subida, y las cascadas de Ravana llegan justo debajo de Ella.\n\nUsted llega a Ella por la tarde, lo que deja la mañana siguiente libre para el Little Adam's Peak al amanecer, la forma correcta de hacerlo.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, al que se llega en el tren desde Kandy que la mayoria considera el trayecto ferroviario mas bonito de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; el Little Adam’s Peak, una caminata de 40 minutos entre te hasta una cresta; Ella Rock, una subida mas exigente de tres horas; y las cascadas de Ravana en la carretera hacia Wellawaya. Las mañanas son claras y las tardes de los meses humedos traen nubes al paso, por eso las caminatas se hacen temprano. Los tuk-tuks son el transporte, y cualquier alojamiento puede conseguir uno.",
+  "highlights": [
+   "La subida desde las tierras bajas secas hasta las montañas en una tarde",
+   "Las siete figuras rupestres de Buduruwagala con la pintura original todavia visible",
+   "Un lugar mahayana poco comun, casi vacio tras los jeeps de Yala",
+   "Diyaluma a 220 metros y las cascadas de Ravana durante la subida",
+   "Llegada a Ella con la mañana siguiente libre para la caminata del amanecer"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado y conductor-guia de habla inglesa",
+   "recogida en el hotel en Tissamaharama",
+   "todas las paradas de la ruta",
+   "entrega en Ella, Bandarawela, Haputale o Beragala",
+   "equipaje transportado durante todo el trayecto"
+  ],
+  "notIncluded": [
+   "La entrada a Buduruwagala",
+   "comidas y bebidas",
+   "compras de especias",
+   "propinas"
+  ]
+ },
+ "ella-peaks-all-inclusive-day-trip-both-walks-the-bridge-and-halpewatte": {
+  "title": "Excursion todo incluido de las cumbres de Ella: ambas caminatas, el puente y Halpewatte",
+  "metaTitle": "Cumbres de Ella todo incluido",
+  "metaDescription": "Un dia largo con las cumbres de Ella: Little Adam's Peak, cascadas de Ravana, fabrica de te Halpewatte y puente de los nueve arcos.",
+  "shortDescription": "Un dia largo cubriendo las cumbres y lugares alrededor de Ella: Little Adam's Peak, cascadas de Ravana, la fabrica de te Halpewatte, el puente de los nueve arcos y la tirolina Flying Ravana.",
+  "fullDescription": "Esta es la version completa del dia en Ella, y las doce horas son honestas: comienza antes del amanecer y se extiende hasta la tarde, con recogida disponible desde Haputale y Bandarawela ademas de Ella misma.\n\nLittle Adam's Peak lo abre con la primera luz. Cuarenta y cinco minutos por un sendero en su mayoria escalonado desde el borde de la ciudad, y la vista a traves del Ella Gap hacia la llanura sur es la razon por la que la gente viene aqui. Hacia las nueve es una cola para la misma foto, lo que justifica por completo la salida temprana.\n\nHalpewatte es la mayor fabrica de te de la region de Uva y una de las mejores para visitar, el proceso desde la artesa de marchitado hasta la mesa de clasificacion toma unos cuarenta y cinco minutos y termina en una terraza con vista sobre las plantaciones.\n\nEl puente de los nueve arcos sigue: 91 metros de piedra, 24 metros sobre un desfiladero, construido durante la Primera Guerra Mundial sin acero porque el acero fue a Europa. Los trenes lo cruzan aproximadamente cada dos horas y suelen llegar tarde, por lo que un conductor que conozca los movimientos reales del dia vale la pena.\n\nLas cascadas de Ravana y la tirolina Flying Ravana sobre el valle cierran la tarde.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, al que se llega en el tren desde Kandy que la mayoria considera el trayecto ferroviario mas bonito de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; el Little Adam’s Peak, una caminata de 40 minutos entre te hasta una cresta; Ella Rock, una subida mas exigente de tres horas; y las cascadas de Ravana en la carretera hacia Wellawaya. Las mañanas son claras y las tardes de los meses humedos traen nubes al paso, por eso las caminatas se hacen temprano. Los tuk-tuks son el transporte, y cualquier alojamiento puede conseguir uno.",
+  "highlights": [
+   "Little Adam’s Peak con la primera luz, antes de que se llene la cima",
+   "Halpewatte, la mayor fabrica de te de Uva, con terraza sobre las plantaciones",
+   "El puente de los nueve arcos ajustado a los movimientos reales de tren del dia",
+   "Las cascadas de Ravana y la tirolina Flying Ravana",
+   "Recogida disponible desde Haputale y Bandarawela, ademas de Ella"
+  ],
+  "included": [
+   "Vehiculo privado con conductor-guia de habla inglesa",
+   "recogida y regreso al hotel",
+   "todos los trayectos entre lugares",
+   "guia en la caminata"
+  ],
+  "notIncluded": [
+   "La tarifa de la tirolina",
+   "la entrada a la fabrica de te",
+   "comidas y bebidas",
+   "propinas"
+  ]
+ },
+ "private-udawalawe-safari-from-ella-with-jeep-permit-and-transfers": {
+  "title": "Safari privado en Udawalawe desde Ella con jeep, permiso y traslados incluidos",
+  "metaTitle": "Safari privado en Udawalawe desde Ella",
+  "metaDescription": "Un safari privado en Udawalawe desde Ella con jeep, permiso del parque y traslados cubiertos, sin nada que pagar en la entrada.",
+  "shortDescription": "Un safari privado todo incluido en Udawalawe desde Ella con el jeep, el permiso del parque y ambos traslados cubiertos, para que no haya nada que pagar en la entrada.",
+  "fullDescription": "La mayoria de las reservas de safari en Sri Lanka le dejan pagar el permiso del parque en efectivo en la entrada, lo que para un visitante extranjero supone entre 25 y 40 dolares estadounidenses adicionales a lo que ya pago, y sorprende a mucha gente. Esta version lo incluye, algo que vale la pena saber al comparar precios, una oferta mas barata que excluye el permiso normalmente no es mas barata.\n\nUdawalawe esta a dos horas al sur de Ella y es el parque fiable. Creado en 1972 alrededor de un nuevo embalse, las tierras de cultivo desplazadas se convirtieron en pastizal abierto, y no hay donde esconderse para un elefante. Unos seiscientos animales residentes, normalmente visibles dentro de los veinte minutos desde la entrada, y los avistamientos son casi seguros en lugar de cuestion de suerte.\n\nLo que no vera es un leopardo. Existen en Udawalawe y practicamente nunca se ven, asi que si los leopardos son lo que busca, tome el viaje a Yala y acepte las multitudes que lo acompañan.\n\nEl resto son bufalos de agua, ciervos moteados, chacales, cocodrilos marinos junto al embalse, y una observacion de aves genuinamente buena, aguilas culebreras, aguilas azor, cigueñas pintadas y una fuerte migracion invernal.\n\nEl alquiler privado significa que el rastreador trabaja para su grupo en lugar de segun un horario, lo que en la practica significa quedarse en un abrevadero en lugar de seguir adelante.",
+  "highlights": [
+   "El permiso del parque incluido, para que no haya nada que pagar en la entrada",
+   "Unos 600 elefantes residentes en pastizal abierto, visibles de forma fiable",
+   "Un jeep y rastreador privados en lugar de un asiento compartido",
+   "Cocodrilos, bufalos y excelente observacion de aves junto al embalse",
+   "Abierto todo el año, a diferencia del bloque 1 de Yala"
+  ],
+  "included": [
+   "Vehiculo privado con conductor desde su hotel en Ella",
+   "un jeep de safari 4x4 privado con conductor y rastreador",
+   "el permiso del parque nacional",
+   "el safari",
+   "agua potable"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "propinas para el conductor y el rastreador",
+   "la entrada al Elephant Transit Home si se añade",
+   "gastos personales"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Experiencia de flyboard en Pattaya",
   "fullDescription": "Esta es una experiencia de 30 minutos en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye experiencia de flyboard, apoyo de un instructor, equipo de seguridad y duchas. No incluye fotos y recogida y regreso al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",

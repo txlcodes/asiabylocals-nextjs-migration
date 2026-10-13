@@ -97655,6 +97655,216 @@ export const FR_TOURS: Record<string, TourT> = {
    "pourboires"
   ]
  },
+ "pekoe-trail-stage-16-guided-hike-ella-to-demodara-via-the-nine-arch": {
+  "title": "Pekoe Trail etape 16, randonnee guidee : d'Ella a Demodara via le pont aux neuf arches",
+  "metaTitle": "Pekoe Trail etape 16 : Ella a Demodara",
+  "metaDescription": "La derniere etape du Pekoe Trail, d'Ella a travers la reserve forestiere jusqu'a Demodara en passant par le pont aux neuf arches, environ trois heures.",
+  "shortDescription": "La derniere etape du Pekoe Trail, parcourue d'Ella a travers la reserve forestiere et le pont aux neuf arches jusqu'a la gare de Demodara, environ trois heures sur des sentiers balises.",
+  "fullDescription": "Le Pekoe Trail est un itineraire balise de 300 kilometres a travers le pays du the du Sri Lanka, ouvert en 2023 et construit presque entierement sur des sentiers qui existaient deja: les routes de plantation, les pistes de cueillette et les chemins qui reliaient les plantations avant qu'il y ait des routes entre elles.\n\nL'etape 16 est la derniere et la plus courte, allant d'Ella jusqu'a la gare de Demodara. Elle quitte la ville par la reserve forestiere d'Ella, une poche de foret residuelle que presque aucun visiteur n'explore, puis descend a travers les plantations de the jusqu'au pont aux neuf arches, que le sentier traverse plutot que de simplement visiter.\n\nC'est la difference avec l'excursion standard au pont. Tout le monde descend de la ville, photographie le viaduc et remonte. L'etape 16 l'aborde depuis le haut le long du sentier, le traverse, et continue jusqu'a Demodara, ou le chemin de fer fait un cercle complet sous lui-meme pour gagner de l'altitude.\n\nEnviron trois heures, majoritairement en descente, sur un terrain balise mais accidente. C'est l'introduction la plus facile au Pekoe Trail qui existe et celle que la plupart des gens peuvent faire sans entrainement.\n\nLe train retour vers Ella prend vingt minutes si vous preferez ne pas marcher le retour.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "La derniere etape des 300 km du Pekoe Trail, ouvert en 2023",
+   "La reserve forestiere d’Ella, que presque aucun visiteur n’explore",
+   "Traverser le pont aux neuf arches sur le sentier plutot que de le photographier d’en bas",
+   "La boucle de Demodara, ou le chemin de fer fait une boucle sous lui-meme",
+   "Environ trois heures, majoritairement en descente, l’etape Pekoe la plus douce"
+  ],
+  "included": [
+   "Un guide de randonnee anglophone",
+   "prise en charge a l’hotel a Ella",
+   "la marche guidee",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Le billet de train de retour vers Ella",
+   "repas",
+   "pourboires",
+   "equipement personnel"
+  ]
+ },
+ "private-yala-safari-from-ella-with-a-dedicated-jeep-and-tracker": {
+  "title": "Safari prive a Yala depuis Ella avec jeep et traqueur dedies",
+  "metaTitle": "Safari prive a Yala depuis Ella",
+  "metaDescription": "Un safari prive a Yala depuis Ella avec votre propre jeep et traqueur, pour que la matinee se passe ou sont les animaux plutot que selon l'horaire d'un groupe.",
+  "shortDescription": "Un safari prive a Yala depuis Ella avec votre propre jeep et traqueur, pour que la matinee se passe ou sont les animaux plutot que selon l'horaire d'un groupe.",
+  "fullDescription": "A noter avant de reserver: le Departement de la conservation de la faune a ferme les blocs 1 et 2 du parc national de Yala du 14 septembre au 15 octobre 2026 en raison de la secheresse, donc les safaris dans ces blocs ne peuvent pas avoir lieu a ces dates. Les blocs 3 a 6 restent ouverts, et Udawalawe et Wilpattu ne sont pas affectes, pour un voyage dans cette periode nous vous contacterons pour deplacer le safari vers l'un de ces parcs ou a une date apres le 15 octobre. Udawalawe est le parc le plus fort pour les elephants; Wilpattu offre des observations de leopards plus tranquilles.\n\nLe bloc 1 de Yala detient la plus forte densite enregistree de leopards sur Terre, et par une matinee animee en haute saison, il detient aussi environ trois cents jeeps. Les deux choses sont vraies, et la facon dont vous vivez le parc depend presque entierement du fait que votre vehicule poursuive la foule ou travaille autour d'elle.\n\nUne jeep privee achete ce choix. Quand une observation est signalee et que trente vehicules convergent, vous pouvez attendre et aller ailleurs plus calme. Quand le traqueur trouve quelque chose sur une piste secondaire, vous pouvez rester. Les groupes ne peuvent faire ni l'un ni l'autre.\n\nLe parc est plus que ses leopards, et la version privee rend cela evident. Les ours paresseux sont plus difficiles a voir et, pour la plupart des gens qui en voient un, c'est le meilleur souvenir. Elephants, buffles d'eau, crocodiles marins aux points d'eau, et plus de deux cents especes d'oiseaux avec une forte migration hivernale.\n\nLe trajet depuis Ella dure environ deux heures et demie dans chaque sens, et le safari a l'aube est celui qui fonctionne, les animaux bougent a la premiere lumiere et s'abritent vers neuf heures.\n\nLe bloc 1 de Yala ferme pendant environ un mois chaque septembre. Verifiez avant de reserver autour de cette periode.",
+  "highlights": [
+   "Une jeep et un traqueur prives, pas une place partagee",
+   "La liberte de laisser une observation bondee et d’en trouver une plus calme",
+   "La plus forte densite enregistree de leopards sauvages au monde",
+   "Ours paresseux, elephants, crocodiles et plus de 200 especes d’oiseaux",
+   "Les transferts aller-retour depuis Ella inclus"
+  ],
+  "included": [
+   "Vehicule prive avec chauffeur depuis votre hotel a Ella",
+   "une jeep de safari 4x4 privee avec chauffeur et traqueur",
+   "le safari",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Le permis du parc national, a payer en especes a l’entree",
+   "repas",
+   "pourboires pour le chauffeur et le traqueur"
+  ]
+ },
+ "horton-plains-sunrise-trek-with-a-transfer-on-to-haputale-or-ella": {
+  "title": "Randonnee au lever du soleil a Horton Plains avec transfert vers Haputale ou Ella",
+  "metaTitle": "Horton Plains au lever du soleil",
+  "metaDescription": "Une randonnee a l'aube a Horton Plains depuis Nuwara Eliya, se terminant par un transfert vers Haputale ou Ella plutot qu'un retour.",
+  "shortDescription": "Une randonnee a l'aube a Horton Plains depuis Nuwara Eliya, se terminant par un transfert vers Haputale ou Ella plutot qu'un retour, pour que la marche et le deplacement se fassent le meme jour.",
+  "fullDescription": "Horton Plains se trouve a 32 kilometres de Nuwara Eliya et le voyage ne fonctionne qu'a l'aube, ce qui rend difficile de le combiner avec autre chose. Cette version resout cela en ne revenant pas: vous marchez le plateau le matin et etes ensuite conduit vers Haputale ou Ella, avec vos bagages dans la voiture.\n\nLe plateau se trouve a environ 2 300 metres et ne ressemble a rien d'autre dans le pays: prairie d'altitude et foret de nuages, balaye par le vent, froid, avec des arbres rabougris couverts de mousse.\n\nWorld's End est la raison d'y etre: l'escarpement sud se termine et le sol tombe d'environ 870 metres en une paroi abrupte. Il fait face au sud, l'air chaud monte de la plaine durant la matinee, et vers neuf ou dix heures il y a un nuage ou devrait se trouver la vue. Ce seul fait explique pourquoi le portail ouvre a six heures et pourquoi ce voyage commence a cinq heures.\n\nLa boucle fait neuf kilometres et trois a quatre heures, parcourue dans le sens antihoraire pour que World's End arrive avant les nuages et que les cascades de Baker arrivent au retour.\n\nPuis la route continue, qui descend de 2 300 metres a mille metres et environ douze degres plus chaud.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "Une randonnee a l’aube a Horton Plains, le seul moment ou la vue de World’s End existe",
+   "La boucle du plateau de 9 km passant par World’s End et les cascades de Baker",
+   "Prairie d’altitude et foret de nuages differentes de tout le reste du Sri Lanka",
+   "Transfert vers Haputale ou Ella plutot qu’un trajet de retour",
+   "Bagages transportes, pour que la marche et le deplacement se fassent le meme jour"
+  ],
+  "included": [
+   "Vehicule prive avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel a Nuwara Eliya",
+   "transport vers et depuis le parc",
+   "depose a Haputale ou Ella",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Les frais d'entree d'Horton Plains",
+   "repas",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "horton-plains-and-worlds-end-from-ella-with-the-train-to-ohiya": {
+  "title": "Horton Plains et World's End depuis Ella avec le train jusqu'a Ohiya",
+  "metaTitle": "Horton Plains depuis Ella par le train",
+  "metaDescription": "Une journee a Horton Plains atteinte par le train de montagne jusqu'a Ohiya: la boucle de 9 km passant par World's End et les cascades de Baker a 2 300 metres.",
+  "shortDescription": "Une journee a Horton Plains atteinte par le train de montagne jusqu'a Ohiya: la boucle de 9 km passant par World's End et les cascades de Baker, a 2 300 metres de foret de nuages et de prairie d'altitude.",
+  "fullDescription": "Horton Plains est un plateau de prairie d'altitude et de foret de nuages a environ 2 300 metres, et il ne ressemble en rien au reste du Sri Lanka: degage, balaye par le vent, froid, plus proche de l'Ecosse que des tropiques.\n\nLa raison de venir est World's End, ou l'escarpement sud s'arrete simplement et tombe d'environ 870 metres en une paroi abrupte, avec la plaine et parfois la cote sud visibles loin en bas.\n\nY arriver en train depuis Ella jusqu'a Ohiya est la difference entre ce voyage et le trajet standard. Ohiya est la gare la plus haute de la ligne et la montee traverse le meilleur du pays du the; de la, il reste environ onze kilometres jusqu'a l'entree du parc.\n\nLa boucle elle-meme fait environ neuf kilometres et trois a quatre heures, majoritairement plate avec des sections rocheuses. Parcourez-la dans le sens antihoraire, cela atteint d'abord Little World's End puis World's End, avant les nuages, et garde les cascades de Baker pour le retour.\n\nLe cerf sambar est commun et largement indifferent aux gens. Les langurs a face pourpre dans les sections forestieres. Le leopard du Sri Lanka est present ici et n'est pratiquement jamais vu.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "Horton Plains a 2 300 m, une prairie d’altitude differente de tout le reste du Sri Lanka",
+   "World’s End, ou l’escarpement tombe de 870 metres en une paroi abrupte",
+   "Atteint par le train de montagne jusqu’a Ohiya, la gare la plus haute de la ligne",
+   "Les cascades de Baker sur le tronçon de retour de la boucle",
+   "Cerf sambar, langurs a face pourpre et especes endemiques des hautes terres"
+  ],
+  "included": [
+   "Vehicule prive avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel a Ella",
+   "transport entre la gare d’Ohiya et le parc",
+   "guidage sur la boucle"
+  ],
+  "notIncluded": [
+   "Les frais d'entree d'Horton Plains",
+   "billets de train",
+   "repas",
+   "pourboires"
+  ]
+ },
+ "ella-to-demodara-cycling-tour-with-the-nine-arch-bridge-and-a-train": {
+  "title": "Circuit a velo d'Ella a Demodara avec le pont aux neuf arches et retour en train",
+  "metaTitle": "Velo Ella a Demodara, retour en train",
+  "metaDescription": "Une descente a velo guidee d'Ella a Demodara a travers plantations et villages, avec le pont aux neuf arches, et retour en train pour eviter la montee.",
+  "shortDescription": "Une descente a velo guidee d'Ella a Demodara a travers plantations et villages, avec le pont aux neuf arches, et retour en train pour que la montee se fasse par rail plutot qu'a la force des jambes.",
+  "fullDescription": "C'est la facon la plus intelligente que quiconque ait trouvee de voir le pays entre Ella et Demodara, et la raison est simple: vous descendez a velo et remontez en train.\n\nElla se trouve plus haut que Demodara, donc le trajet aller est une longue descente a travers les plantations de the, passant devant des logements et des boutiques de village, sur des routes qui ne portent presque aucun trafic. La parcourir a velo signifie remarquer des choses qu'un vehicule laisse passer, la cueillette en cours sur les pentes, les chiens, les enfants d'ecole, l'odeur des plantations le matin.\n\nLe pont aux neuf arches est sur l'itineraire. Vous vous arretez, descendez a pied vers lui, attendez un train s'il en passe un, et remontez sur les velos.\n\nDemodara est ou le chemin de fer fait son fameux tour, faisant un cercle complet pour passer sous la gare qu'il vient de quitter afin de gagner de l'altitude. C'est une veritable curiosite d'ingenierie et presque personne ne fait le trajet pour la voir.\n\nPuis vous mettez les velos dans le train et remontez vers Ella, ce qui est le tronçon que tout le monde photographie, pris dans le bon sens et sans neuf cents metres de montee dans les jambes.\n\nEnviron quatre heures, et cela ne necessite aucune forme physique particuliere car la partie difficile est faite par le chemin de fer.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "Descente d’Ella a Demodara a travers plantations et villages",
+   "Le pont aux neuf arches sur l’itineraire, avec un arret et une marche jusqu’a lui",
+   "La boucle de Demodara, ou le chemin de fer fait une boucle sous lui-meme",
+   "Le retour en train, pour que la montee se fasse par rail plutot qu’a la force des jambes",
+   "Aucune forme physique particuliere necessaire, la descente est le trajet"
+  ],
+  "included": [
+   "Prise en charge a l’hotel a Ella",
+   "un velo et un casque",
+   "un guide cycliste anglophone",
+   "le billet de train de retour vers Ella",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Repas",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "tissamaharama-to-ella-guided-transfer-with-buduruwagala": {
+  "title": "Transfert guide de Tissamaharama a Ella avec Buduruwagala et les cascades",
+  "metaTitle": "Tissamaharama a Ella avec Buduruwagala",
+  "metaDescription": "La montee de Tissamaharama vers les montagnes apres un safari a Yala, avec les bouddhas rupestres de Buduruwagala et un jardin d'epices.",
+  "shortDescription": "La montee de Tissamaharama vers les montagnes apres un safari a Yala, avec les bouddhas rupestres de Buduruwagala, un jardin d'epices et les cascades de Diyaluma et Ravana sur le chemin.",
+  "fullDescription": "La plupart des gens arrivent a Tissamaharama pour une raison, un safari a l'aube a Yala, et repartent le lendemain. Se diriger vers le nord dans les montagnes signifie ensuite grimper des basses terres seches jusqu'a mille metres, et cet itineraire place les bons arrets sur la montee plutot que de traverser tout droit.\n\nBuduruwagala est celui qui justifie le detour. Sept figures taillees dans une paroi rocheuse aux neuvieme ou dixieme siecles, le bouddha debout central mesurant seize metres, avec des traces du stuc et de la peinture orange d'origine encore visibles sur la pierre. Il appartient a la tradition mahayana, rare dans un pays majoritairement theravada, et il se dresse dans des broussailles seches presque sans personne. Apres les jeeps de Yala, c'est un soulagement considerable.\n\nUn jardin d'epices pres de Wellawaya couvre la cannelle, le poivre, la cardamome et les plantes ayurvediques cultivees dans chaque jardin de village ici.\n\nDiyaluma, la deuxieme plus haute cascade du Sri Lanka a 220 metres, est visible en entier depuis la route pendant la montee, et les cascades de Ravana apparaissent juste en dessous d'Ella.\n\nVous arrivez a Ella dans l'apres-midi, ce qui laisse le lendemain matin libre pour Little Adam's Peak a l'aube, la bonne maniere de le faire.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "La montee des basses terres seches jusqu’aux montagnes en un apres-midi",
+   "Les sept figures rupestres de Buduruwagala avec la peinture d’origine encore visible",
+   "Un site mahayana rare, presque vide apres les jeeps de Yala",
+   "Diyaluma a 220 metres et les cascades de Ravana sur la montee",
+   "Arrivee a Ella avec le lendemain matin libre pour la marche a l’aube"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel a Tissamaharama",
+   "tous les arrets sur la route",
+   "depose a Ella, Bandarawela, Haputale ou Beragala",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Les frais d’entree de Buduruwagala",
+   "repas et boissons",
+   "achats d’epices",
+   "pourboires"
+  ]
+ },
+ "ella-peaks-all-inclusive-day-trip-both-walks-the-bridge-and-halpewatte": {
+  "title": "Excursion tout compris des sommets d'Ella : les deux marches, le pont et Halpewatte",
+  "metaTitle": "Sommets d’Ella tout compris",
+  "metaDescription": "Une longue journee couvrant les sommets d'Ella: Little Adam's Peak, cascades de Ravana, fabrique de the Halpewatte et pont aux neuf arches.",
+  "shortDescription": "Une longue journee couvrant les sommets et les sites autour d'Ella: Little Adam's Peak, cascades de Ravana, la fabrique de the Halpewatte, le pont aux neuf arches et la tyrolienne Flying Ravana.",
+  "fullDescription": "C'est la version complete de la journee a Ella, et les douze heures sont honnetes: elle commence avant l'aube et se poursuit jusqu'au soir, avec une prise en charge possible depuis Haputale et Bandarawela ainsi qu'Ella elle-meme.\n\nLittle Adam's Peak l'ouvre a la premiere lumiere. Quarante-cinq minutes sur un sentier en grande partie en escaliers depuis le bord de la ville, et la vue a travers l'Ella Gap vers la plaine sud est la raison pour laquelle les gens viennent ici. Vers neuf heures, c'est une file pour la meme photo, ce qui justifie entierement le depart matinal.\n\nHalpewatte est la plus grande fabrique de the de la region d'Uva et l'une des meilleures a visiter, le processus du bac de fletrissage a la table de tri prend environ quarante-cinq minutes et se termine sur une terrasse surplombant les plantations.\n\nLe pont aux neuf arches suit: 91 metres de pierre, 24 metres au-dessus d'une gorge, construit pendant la Premiere Guerre mondiale sans acier car l'acier est alle en Europe. Les trains traversent environ toutes les deux heures et sont en retard par habitude, c'est pourquoi un chauffeur qui connait les vrais mouvements du jour vaut quelque chose.\n\nLes cascades de Ravana et la tyrolienne Flying Ravana au-dessus de la vallee cloturent l'apres-midi.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "Little Adam’s Peak a la premiere lumiere, avant que le sommet ne se remplisse",
+   "Halpewatte, la plus grande fabrique de the d’Uva, avec une terrasse sur les plantations",
+   "Le pont aux neuf arches cale sur les vrais mouvements de train du jour",
+   "Les cascades de Ravana et la tyrolienne Flying Ravana",
+   "Prise en charge possible depuis Haputale et Bandarawela, ainsi qu’Ella"
+  ],
+  "included": [
+   "Vehicule prive avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel",
+   "tous les trajets entre les sites",
+   "guidage sur la marche"
+  ],
+  "notIncluded": [
+   "La tyrolienne",
+   "l'entree de la fabrique de the",
+   "repas et boissons",
+   "pourboires"
+  ]
+ },
+ "private-udawalawe-safari-from-ella-with-jeep-permit-and-transfers": {
+  "title": "Safari prive a Udawalawe depuis Ella avec jeep, permis et transferts inclus",
+  "metaTitle": "Safari prive a Udawalawe depuis Ella",
+  "metaDescription": "Un safari prive tout compris a Udawalawe depuis Ella avec la jeep, le permis du parc et les deux transferts inclus, pour qu'il n'y ait rien a payer a l'entree.",
+  "shortDescription": "Un safari prive tout compris a Udawalawe depuis Ella avec la jeep, le permis du parc et les deux transferts inclus, pour qu'il n'y ait rien a payer a l'entree.",
+  "fullDescription": "La plupart des reservations de safari au Sri Lanka vous laissent payer le permis du parc en especes a l'entree, ce qui pour un visiteur etranger represente 25 a 40 dollars americains en plus de ce que vous avez deja paye et surprend beaucoup de gens. Cette version l'inclut, ce qui merite d'etre su en comparant les prix, une offre moins chere qui exclut le permis n'est generalement pas moins chere.\n\nUdawalawe se trouve a deux heures au sud d'Ella et c'est le parc fiable. Cree en 1972 autour d'un nouveau reservoir, les terres agricoles deplacees sont devenues une prairie ouverte, et il n'y a nulle part pour un elephant de se cacher. Environ six cents animaux residents, generalement visibles dans les vingt minutes suivant l'entree, et les observations sont quasi certaines plutot que chanceuses.\n\nCe que vous ne verrez pas, c'est un leopard. Ils existent a Udawalawe et ne sont essentiellement jamais vus, donc si les leopards sont l'objectif, prenez le voyage a Yala et acceptez les foules qui l'accompagnent.\n\nLe reste, c'est des buffles d'eau, des cerfs tachetes, des chacals, des crocodiles marins le long du reservoir, et une observation d'oiseaux vraiment bonne, des serpentaires, des aigles autoursiers, des cigognes peintes et une forte migration hivernale.\n\nLa location privee signifie que le traqueur travaille pour votre groupe plutot que selon un horaire, ce qui en pratique signifie rester a un point d'eau plutot que de continuer.",
+  "highlights": [
+   "Le permis du parc inclus, pour qu’il n’y ait rien a payer a l’entree",
+   "Environ 600 elephants residents sur une prairie ouverte, visibles de facon fiable",
+   "Une jeep et un traqueur prives plutot qu’une place partagee",
+   "Crocodiles, buffles et excellente observation d’oiseaux le long du reservoir",
+   "Ouvert toute l’annee, contrairement au bloc 1 de Yala"
+  ],
+  "included": [
+   "Vehicule prive avec chauffeur depuis votre hotel a Ella",
+   "une jeep de safari 4x4 privee avec chauffeur et traqueur",
+   "le permis du parc national",
+   "le safari",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Repas",
+   "pourboires pour le chauffeur et le traqueur",
+   "l'entree de l'Elephant Transit Home si ajoutee",
+   "depenses personnelles"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Séance de flyboard à Pattaya",
   "fullDescription": "Cette expérience de 30 minutes se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend séance de flyboard, accompagnement d'un instructeur, équipement de sécurité et douches. Il ne comprend pas photos et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
