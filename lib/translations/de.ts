@@ -96812,6 +96812,215 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "udawalawe-cycling-tour-from-ella-with-ravana-falls-and-the-escarpment": {
+  "title": "Radtour nach Udawalawe ab Ella mit den Ravana-Wasserfaellen und der Abfahrt vom Steilhang",
+  "metaTitle": "Radfahrt nach Udawalawe ab Ella",
+  "metaDescription": "Eine lange Abfahrt vom Ella-Steilhang nach Udawalawe durch Doerfer und Reisfelder, mit den Ravana-Wasserfaellen am Start.",
+  "shortDescription": "Eine lange Abfahrt vom Ella-Steilhang nach Udawalawe durch Doerfer und Reisfelder, mit den Ravana-Wasserfaellen am Start und einem Begleitfahrzeug waehrend der ganzen Fahrt.",
+  "fullDescription": "Die Strecke von Ella nach Udawalawe faellt auf rund dreissig Kilometern etwa neunhundert Meter ab, und mit dem Rad ist sie eine der eindrucksvollsten Abfahrten Sri Lankas. Sie ist auch eine Route, die fast niemand befaehrt, weil die meisten Leute fuer eine Safari im Auto sitzen.\n\nDie Ravana-Wasserfaelle eroeffnen den Tag, ein breiter Wasserfall direkt an der Strasse knapp unterhalb von Ella, benannt nach dem Daemonenkoenig aus dem Ramayana, der Sita angeblich in den Hoehlen darueber versteckt hielt.\n\nDann der Steilhang. Die Strasse windet sich durch Wald und Gestraeuch abwaerts, und die Temperatur steigt um rund fuenfzehn Grad, waehrend Sie an Hoehe verlieren, Sie starten mit Jacke und enden im Hemd. Unterhalb des Steilhangs flacht das Land zu Reisfeldern und kleinen Hoefen ab, und die Fahrt wechselt von einer Abfahrt zu einem ruhigen Rollen durch Doerfer, in denen nichts fuer Besucher inszeniert ist.\n\nEin Begleitfahrzeug faehrt die ganze Strecke mit, was auf einer Route mit so viel Gefaelle zaehlt: Wer aufhoeren moechte zu treten, kann das jederzeit tun.\n\nEtwa dreissig bis fuenfunddreissig Kilometer in rund vier Stunden Fahrzeit. Da die Tour bei Udawalawe endet, laesst sie sich natuerlich mit einer Safari am selben Nachmittag oder am naechsten Morgen verbinden.\n\nElla ist ein Dorf auf 1.040 Metern in den Bergen des Sueden, erreichbar mit dem Zug aus Kandy, den die meisten fuer die schoenste Bahnfahrt Asiens halten, und seine Sehenswuerdigkeiten liegen alle nur wenige Kilometer entfernt: die Neun-Bogen-Bruecke, ein Backsteinviadukt von 1921 in einer Teeschlucht, das mehrmals taeglich von einem Zug ueberquert wird; der Little Adam’s Peak, ein 40-minuetiger Spaziergang durch Teefelder zu einem Kamm; Ella Rock, ein anspruchsvollerer dreistuendiger Aufstieg; und die Ravana-Wasserfaelle an der Strasse nach Wellawaya. Die Morgen sind klar, und an Nachmittagen der feuchten Monate zieht Wolken in den Pass, deshalb finden Wanderungen frueh statt. Tuk-Tuks sind das Verkehrsmittel, und jede Pension kann eines besorgen.",
+  "highlights": [
+   "Eine Abfahrt von 900 Metern vom Ella-Steilhang mit dem Rad",
+   "Die Ravana-Wasserfaelle am Start, bevor die Abfahrt beginnt",
+   "Die Temperatur steigt um fuenfzehn Grad, waehrend Sie an Hoehe verlieren",
+   "Reisfelder und Doerfer unterhalb des Steilhangs, ohne Inszenierung",
+   "Ein Begleitfahrzeug die ganze Strecke, damit niemand bis zum Ende treten muss"
+  ],
+  "included": [
+   "Hotelabholung in Ella",
+   "ein Fahrrad und ein Helm",
+   "ein englischsprachiger Radguide",
+   "ein Begleitfahrzeug",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "die Udawalawe-Safari, falls separat gebucht",
+   "Trinkgelder"
+  ]
+ },
+ "pekoe-trail-stage-15-guided-hike-makulella-to-ella-through-the-tea": {
+  "title": "Pekoe Trail Etappe 15, gefuehrte Wanderung: von Makulella nach Ella durch die Teeplantagen",
+  "metaTitle": "Pekoe Trail Etappe 15: Makulella nach Ella",
+  "metaDescription": "Die vorletzte Etappe des Pekoe Trail, von Makulella nach Ella auf Plantagenpfaden durch aktives Teeland, etwa drei Stunden.",
+  "shortDescription": "Die vorletzte Etappe des Pekoe Trail, gegangen von Makulella nach Ella auf Plantagenpfaden durch aktives Teeland, etwa drei Stunden, meist leicht.",
+  "fullDescription": "Der Pekoe Trail fuehrt ueber 300 Kilometer durch Sri Lankas Teeland auf Wegen, die es schon vorher gab: Plantagenstrassen, Pfluecksteige und Pfade, die Plantagen verbanden, bevor es Strassen zwischen ihnen gab. Er wurde 2023 eroeffnet und bleibt auf fast seiner gesamten Laenge ruhig.\n\nEtappe 15 naehert sich Ella von Westen, beginnend in Makulella und den Hoehenlinien folgend durch aktive Plantagen, bevor sie zur Stadt hinabsteigt. Weil sie den Hoehenlinien folgt statt zu steigen, bleibt die Anstrengung maessig, waehrend sich die Aussicht oeffnet, was das besondere Vergnuegen beim Wandern im Teeland ist und der Grund, warum die Route ueberhaupt so angelegt wurde.\n\nWas Sie durchqueren, ist eine Arbeitslandschaft. Pfluecker an den Haengen am Morgen, Unterkuenfte, in denen Plantagenfamilien seit Generationen leben, kleine Fabriken und die Pfade, die sie verbinden. Ein Guide ist weniger fuer die Navigation wertvoll als fuer das, was all das bedeutet: wer in den Unterkuenften lebt, wie die Pflueckquote funktioniert, warum der Tee von genau diesen Haengen so schmeckt.\n\nEtwa drei Stunden und acht Kilometer, endend in Ella selbst statt an einem Trailhead, was daraus einen leichten Vormittag macht, der sich in einen Aufenthalt einfuegt, statt einen eigenen Tag zu beanspruchen.",
+  "highlights": [
+   "Etappe 15 des 300 km langen Pekoe Trail, eroeffnet 2023",
+   "Pfade entlang der Hoehenlinien durch aktive Plantagen statt eines Aufstiegs",
+   "Pfluecker, Unterkuenfte und kleine Fabriken entlang der Strecke",
+   "Ankunft in Ella selbst statt an einem Trailhead",
+   "Etwa drei Stunden, ein leichter Vormittag innerhalb eines Aufenthalts"
+  ],
+  "included": [
+   "Hotelabholung in Ella und Transport zum Trailhead in Makulella",
+   "ein englischsprachiger Wanderguide",
+   "die gefuehrte Wanderung",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Trinkgelder",
+   "persoenliche Wanderausruestung"
+  ]
+ },
+ "hindu-and-buddhist-temples-around-ella-a-guided-half-day-tour": {
+  "title": "Hinduistische und buddhistische Tempel um Ella: gefuehrte Halbtagestour",
+  "metaTitle": "Hindu- und Buddha-Tempel um Ella",
+  "metaDescription": "Eine gefuehrte Tour zu den Tempeln um Ella: buddhistische Waldkloester und hinduistische Ramayana-Staetten der Berge, mit erklaerendem Kontext.",
+  "shortDescription": "Eine gefuehrte Tour zu den Tempeln um Ella, buddhistische Waldkloester und hinduistische Ramayana-Staetten der Berge, mit dem Kontext, der ihnen Bedeutung gibt.",
+  "fullDescription": "Die Berge um Ella beherbergen zwei Glaubenstraditionen Seite an Seite, und zu verstehen, warum das so ist, ist interessanter, als eine von beiden zu fotografieren.\n\nDie buddhistischen Staetten sind singhalesisch und alt. Das Mahameunawa Asapuwa oberhalb von Ella ist ein Waldkloster statt ein geschmueckter Tempel, ruhig, schlicht und wirklich in Gebrauch, was nach einer Woche bemalter Kultstaetten einen ganz anderen Eindruck macht. Der Dhowa-Felsentempel bei Bandarawela hat einen sechzehn Meter hohen stehenden Buddha, in eine Felswand gehauen, unvollendet, und Wandmalereien in einer kleinen Hoehle dahinter.\n\nDie hinduistischen Staetten sind wegen des Ramayana und der Plantagen hier. Der Seetha-Amman-Tempel in Seetha Eliya markiert das Tal, in dem Sita angeblich von Ravana festgehalten wurde, und es gibt Vertiefungen im Fels auf der anderen Seite des Bachs, die als Hanumans Fussspuren bezeichnet werden. Er wird von indischen Pilgern besucht statt von Touristen. Die uebrigen Hindu-Tempel der Teedistrikte wurden von und fuer tamilische Plantagenarbeiter errichtet, die ab den 1830er-Jahren aus Suedindien gebracht wurden, und ihre Praesenz ist die sichtbare Spur dieser Geschichte.\n\nEin Guide verwandelt eine Ansammlung von Gebaeuden in diese Geschichte. Schultern und Knie bedeckt, Schuhe ausgezogen, und erwarten Sie, an mehreren Haltepunkten die einzigen Besucher zu sein.",
+  "highlights": [
+   "Das Waldkloster Mahameunawa, ruhig und wirklich in Gebrauch",
+   "Der Dhowa-Felsentempel mit seinem unvollendeten 16 Meter hohen stehenden Buddha",
+   "Der Ramayana-Tempel Seetha Amman und der Fels mit den sogenannten Fussspuren Hanumans",
+   "Plantagentempel, errichtet von tamilischen Arbeitern, die ab den 1830ern aus Indien kamen",
+   "Zwei Traditionen Seite an Seite, mit der Geschichte, die erklaert, warum"
+  ],
+  "included": [
+   "Privatfahrzeug mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Ella",
+   "alle Fahrten zwischen den Staetten",
+   "Fuehrung"
+  ],
+  "notIncluded": [
+   "Tempelspenden",
+   "Eintrittsgebuehren, falls zutreffend",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder"
+  ]
+ },
+ "uva-village-life-by-jeep-from-ella-with-a-cooking-class-and-home-lunch": {
+  "title": "Dorfleben in Uva per Jeep ab Ella mit Kochkurs und Mittagessen bei einer Familie",
+  "metaTitle": "Dorfleben in Uva per Jeep ab Ella",
+  "metaDescription": "Ein Tag im Agrarland unterhalb von Ella: Jeep und Ochsenkarren durch Doerfer, Reisfelder und Bewaesserung erklaert, Reis und Curry zum Selberkochen.",
+  "shortDescription": "Ein Tag im Agrarland unterhalb von Ella: ein Jeep und ein Ochsenkarren durch Doerfer, Reisfelder und Bewaesserung erklaert von denen, die sie bewirtschaften, und ein Reis-und-Curry-Gericht, das Sie mitkochen und dann essen.",
+  "fullDescription": "Ella ist eine Marktstadt, umgeben von einer landwirtschaftlichen Region, und fast niemand, der wegen des Wanderns kommt, sieht diese Region. Dieser Tag taucht in sie ein.\n\nDie Doerfer unterhalb des Steilhangs sind Reisfeld- und Kleinbauernland, bewirtschaftet von Familien statt von Plantagen. Sie fahren mit dem Jeep hinaus und dann mit dem Ochsenkarren weiter, was bis vor kurzem die tatsaechliche Art war, wie Guetern hier bewegt wurden, und es ist langsam, holprig und aufschlussreich.\n\nDie Bewaesserung ist der Teil, der Aufmerksamkeit verdient. Das System aus Stauseen und Kanaelen, das diese Felder bewaessert, ist dieselbe Technologie, die Sri Lanka seit zweitausend Jahren einsetzt: ein Stausee, ein Kanalnetz und eine Dorfordnung, die entscheidet, welches Feld wann Wasser erhaelt. Sich das von jemandem erklaeren zu lassen, der damit anbaut, ist etwas ganz anderes, als es in einem Buch zu lesen.\n\nDas Kochen steht im Zentrum des Tages. Reis und Curry sind sechs oder sieben separat gekochte Gerichte, die gemeinsam gegessen werden, und Sie machen mit: Kokosnuss auf einem Hiramanaya reiben, Gewuerzpaste auf einem Stein mahlen, in Tontoepfen ueber Holzfeuer kochen. Dann setzen Sie sich und essen mit der Familie, die Ihnen beim Zubereiten geholfen hat.\n\nReisende bewerten Tage wie diesen durchgaengig hoeher als die bekannteren Sehenswuerdigkeiten, und sie haben recht.\n\nElla ist ein Dorf auf 1.040 Metern in den Bergen des Sueden, erreichbar mit dem Zug aus Kandy, den die meisten fuer die schoenste Bahnfahrt Asiens halten, und seine Sehenswuerdigkeiten liegen alle nur wenige Kilometer entfernt: die Neun-Bogen-Bruecke, ein Backsteinviadukt von 1921 in einer Teeschlucht, das mehrmals taeglich von einem Zug ueberquert wird; der Little Adam’s Peak, ein 40-minuetiger Spaziergang durch Teefelder zu einem Kamm; Ella Rock, ein anspruchsvollerer dreistuendiger Aufstieg; und die Ravana-Wasserfaelle an der Strasse nach Wellawaya. Die Morgen sind klar, und an Nachmittagen der feuchten Monate zieht Wolken in den Pass, deshalb finden Wanderungen frueh statt. Tuk-Tuks sind das Verkehrsmittel, und jede Pension kann eines besorgen.",
+  "highlights": [
+   "Das Agrarland unterhalb von Ella, das Wanderer nie sehen",
+   "Ein Ochsenkarren durch Reisfelder, so wie Guetern hier bis vor kurzem bewegt wurden",
+   "Bewaesserung durch Stausee und Kanaele, zweitausend Jahre alt, erklaert von einem Bauern",
+   "Kokosnuss auf einem Hiramanaya reiben und Gewuerzpaste auf einem Stein mahlen",
+   "Ein Reis-und-Curry-Gericht, gekocht ueber Holzfeuer und mit Ihren Gastgebern gegessen"
+  ],
+  "included": [
+   "Jeep-Transport mit englischsprachigem Guide",
+   "Hotelabholung und Rueckfahrt in Ella",
+   "der Dorfspaziergang",
+   "die Ochsenkarrenfahrt",
+   "der Kochkurs und ein hausgemachtes Mittagessen"
+  ],
+  "notIncluded": [
+   "Getraenke ueber die zum Mittagessen servierten hinaus",
+   "Trinkgelder",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "liptons-seat-cycling-descent-with-the-dambatenne-tea-factory": {
+  "title": "Radabfahrt von Lipton's Seat mit der Dambatenne-Teefabrik",
+  "metaTitle": "Abfahrt von Lipton’s Seat mit dem Rad",
+  "metaDescription": "Fahrt mit dem Auto hinauf zu Lipton's Seat zum Sonnenaufgang, dann Radabfahrt durch die Dambatenne-Plantage mit Halt an der Fabrik von 1890.",
+  "shortDescription": "Fahrt mit dem Auto hinauf zu Lipton's Seat zum Sonnenaufgang, dann eine Radabfahrt auf der Plantagenstrasse von Dambatenne, mit Halt an der Fabrik, die Thomas Lipton 1890 errichtete.",
+  "fullDescription": "Die Strasse von Dambatenne hinauf zu Lipton's Seat steigt auf rund sieben Kilometern in ununterbrochenen Serpentinen durch die Plantage. Sie mit dem Rad hochzufahren waere eine ernsthafte morgendliche Arbeit. Sie hinunterzufahren, nachdem man mit dem Auto zum Sonnenaufgang hinaufgebracht wurde, gehoert zu den besten Stunden auf dem Rad, die Sri Lanka zu bieten hat.\n\nLipton's Seat liegt auf etwa 1.970 Metern. Thomas Lipton kaufte seine ersten Plantagen auf Ceylon 1890 und soll der Erzaehlung nach auf diesen Vorsprung gestiegen sein, um zu betrachten, was er erworben hatte; heute steht dort eine Statue von ihm. An einem klaren Morgen reicht der Blick ueber fuenf Provinzen bis zur suedlichen Ebene, und gegen neun oder zehn Uhr fuellt sich das Tal mit Wolken, und es gibt nichts mehr zu sehen, weshalb diese Fahrt vor Tagesanbruch beginnt.\n\nDie Abfahrt fuehrt durch die Plantage, Teefelder auf beiden Seiten und Pfluecker, die bei Ihrer Durchfahrt ihre Arbeit beginnen. Sie ist steil genug, um Bremsen zu erfordern, und sanft genug, um keinen Antritt zu verlangen.\n\nDambatenne, unten, ist die Fabrik, die Lipton errichtete, und eine der aeltesten noch aktiven Fabriken des Landes. Die Besichtigung folgt dem Blatt vom Welkbett ueber das Rollen, die Oxidation und das Trocknen bis zum Sortiertisch, und endet mit einer Tasse.\n\nRueckkehr nach Ella am frueren Nachmittag.\n\nCeylon-Tee waechst zwischen etwa 600 und 2.000 Metern im zentralen Bergland, von den Briten ab den 1860er-Jahren angepflanzt, nachdem eine Krankheit die vorherige Kaffeekultur vernichtet hatte, und die Plantagen funktionieren noch weitgehend wie zuvor: Pfluecker, meist tamilische Frauen, nehmen die zwei Blaetter und eine Knospe von Hand, und die Fabrik welkt, rollt, fermentiert und trocknet das Blatt am selben Tag. Fabrikbesichtigungen dauern etwa 45 Minuten und enden mit einer Verkostung der Sorten; die guten sind aktive Fabriken statt Ausstellungsraeume. Lipton's Seat oberhalb von Haputale ist der Aussichtspunkt, von dem Thomas Lipton seine Plantagen betrachtete, am besten vor der Wolkenbildung gegen 10:00 Uhr. Nuwara Eliya, auf 1.868 Metern, ist die kaelteste Stadt der Insel und erfordert nachts eine Jacke.",
+  "highlights": [
+   "Mit dem Auto hinauf zum Sonnenaufgang, dann die ganze Abfahrt mit dem Rad",
+   "Lipton’s Seat auf 1.970 m, mit Blick ueber fuenf Provinzen an einem klaren Morgen",
+   "Sieben Kilometer Plantagenserpentinen mit Teefeldern auf beiden Seiten",
+   "Die Dambatenne-Fabrik, errichtet von Thomas Lipton 1890",
+   "Kein Anstieg, die harte Arbeit erledigt das Fahrzeug"
+  ],
+  "included": [
+   "Hotelabholung in Ella",
+   "Transport zu Lipton’s Seat",
+   "ein Fahrrad und ein Helm",
+   "ein englischsprachiger Guide",
+   "ein Begleitfahrzeug",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Der Eintritt zur Teefabrik",
+   "Mahlzeiten",
+   "Teekaeufe",
+   "Trinkgelder"
+  ]
+ },
+ "haputale-to-ella-guided-cycling-tour-through-the-uva-tea-estates": {
+  "title": "Gefuehrte Radtour von Haputale nach Ella durch die Teeplantagen von Uva",
+  "metaTitle": "Radfahrt von Haputale nach Ella",
+  "metaDescription": "Eine gefuehrte Fahrt von Haputale nach Ella durch die Teeplantagen von Uva, etwa 30 km, ueberwiegend abfallend, auf ruhigen Plantagenstrassen.",
+  "shortDescription": "Eine gefuehrte Fahrt von Haputale nach Ella durch die Teeplantagen von Uva, etwa 30 km, ueberwiegend abfallend, auf ruhigen Plantagenstrassen mit Doerfern und Aussichtspunkten am Weg.",
+  "fullDescription": "Haputale liegt auf etwa 1.430 Metern auf einem Kamm mit der Ebene, die sich nach Sueden erstreckt, und Ella liegt vierhundert Meter tiefer und dreissig Kilometer oestlich. Zwischen beiden zu fahren geht fast durchgehend bergab, weshalb es als Tagesausflug fuer Nicht-Radfahrer funktioniert.\n\nDie Route folgt Plantagenstrassen statt der Hauptstrasse. Das sind Strassen, die zum Teetransport gebaut wurden, sie tragen fast keinen Verkehr, und sie folgen den Hoehenlinien der Huegel statt zu steigen, was bedeutet, dass sich die Aussicht oeffnet, waehrend die Anstrengung gering bleibt.\n\nWas Sie durchqueren, ist eine Arbeitslandschaft statt eine malerische. Pfluecker an den Haengen am Morgen, Unterkuenfte, in denen Plantagenfamilien seit Generationen leben, kleine Fabriken, Tempel und Dorfladen, an denen die Fahrt fuer einen Tee haelt.\n\nHaputale selbst lohnt den Umweg. Es ist die am wenigsten besuchte der Bergstaedte, seine Lage auf dem Kamm gibt ihm eine Aussicht, die Nuwara Eliya nicht hat, und Lipton’s Seat liegt darueber.\n\nEtwa dreissig Kilometer in rund vier Stunden Fahrzeit, mit Pausen. Fahrraeder und Helme werden gestellt, und das Fahrzeug faehrt mit, falls jemand aufhoeren moechte zu treten.\n\nElla ist ein Dorf auf 1.040 Metern in den Bergen des Sueden, erreichbar mit dem Zug aus Kandy, den die meisten fuer die schoenste Bahnfahrt Asiens halten, und seine Sehenswuerdigkeiten liegen alle nur wenige Kilometer entfernt: die Neun-Bogen-Bruecke, ein Backsteinviadukt von 1921 in einer Teeschlucht, das mehrmals taeglich von einem Zug ueberquert wird; der Little Adam’s Peak, ein 40-minuetiger Spaziergang durch Teefelder zu einem Kamm; Ella Rock, ein anspruchsvollerer dreistuendiger Aufstieg; und die Ravana-Wasserfaelle an der Strasse nach Wellawaya. Die Morgen sind klar, und an Nachmittagen der feuchten Monate zieht Wolken in den Pass, deshalb finden Wanderungen frueh statt. Tuk-Tuks sind das Verkehrsmittel, und jede Pension kann eines besorgen.",
+  "highlights": [
+   "Dreissig Kilometer von Haputale nach Ella, fast durchgehend bergab",
+   "Plantagenstrassen, die den Hoehenlinien folgen statt zu steigen",
+   "Pfluecker, Unterkuenfte und kleine Fabriken, eine Arbeitslandschaft",
+   "Die Kammaussicht von Haputale, die Nuwara Eliya nicht hat",
+   "Ein Begleitfahrzeug faehrt mit, damit niemand bis zum Ende treten muss"
+  ],
+  "included": [
+   "Hotelabholung in Ella und Transport nach Haputale",
+   "ein Fahrrad und ein Helm",
+   "ein englischsprachiger Radguide",
+   "ein Begleitfahrzeug",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Trinkgelder",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "ella-eight-sights-day-trip-with-the-demodara-loop-and-a-train-leg": {
+  "title": "Acht Sehenswuerdigkeiten von Ella mit der Demodara-Schleife und einer Zugfahrt",
+  "metaTitle": "Acht Sehenswuerdigkeiten von Ella",
+  "metaDescription": "Acht Stopps rund um Ella an einem privaten Tag: Ravana-Wasserfaelle, Ella Rock, Little Adam's Peak, die Demodara-Zugschleife, die Neun-Bogen-Bruecke und die Zipline.",
+  "shortDescription": "Acht Stopps rund um Ella an einem privaten Tag: Ravana-Wasserfaelle, Ella Rock, Little Adam's Peak, die Zugfahrt und die Demodara-Schleife, die Neun-Bogen-Bruecke und die Ravana-Zipline.",
+  "fullDescription": "Ellas Sehenswuerdigkeiten sind wenige und liegen nahe beieinander, was einen Tag moeglich macht, der alle abdeckt, was anderswo auf Sri Lanka nicht moeglich waere. Was es dafuer braucht, ist jemand, der die tatsaechlichen Zugfahrplaene des Tages und die unmarkierten Pfade kennt.\n\nLittle Adam’s Peak eroeffnet den Tag im ersten Licht, 45 Minuten auf einem gestuften Pfad fuer den Blick ueber die Ella Gap. Ella Rock ist die anspruchsvollere Wanderung, drei Stunden hin und zurueck auf Plantagenpfaden, und das ist der Grund, warum hier ein Guide zaehlt: Die Kreuzung, an der die Route die Bahnlinie verlaesst, hat keine Beschilderung und mehrere plausible Alternativen, und jede Woche verirren sich Leute dort.\n\nDie Demodara-Schleife ist der Teil, den fast niemand sieht. Die Eisenbahn vollzieht eine volle Schleife, um unter dem Bahnhof hindurchzufuehren, den sie gerade verlassen hat, nur um an Hoehe zu gewinnen, und das ist eine echte Kuriositaet aus der Zeit, als diese Strecke gegraben wurde.\n\nEine kurze Zugfahrt zwischen Demodara und Ella bringt Sie auf die Bergbahn statt nur daneben, zwanzig Minuten auf dem Abschnitt, den jeder fotografiert.\n\nDie Neun-Bogen-Bruecke, waehrend des Ersten Weltkriegs aus Stein ohne Stahl errichtet, und die Ravana-Wasserfaelle mit der Zipline ueber dem Tal schliessen den Nachmittag ab.\n\nPrivat, sodass ein verspaeteter Zug den Tag umordnet statt ihn zu sprengen.",
+  "highlights": [
+   "Acht Stopps rund um Ella an einem einzigen privaten Tag",
+   "Beide Wanderungen, mit einem Guide fuer die unmarkierte Route zum Ella Rock",
+   "Die Demodara-Schleife, wo die Eisenbahn unter sich selbst hindurchfuehrt",
+   "Eine kurze Fahrt auf der Bergbahn statt nur ein Blick darauf",
+   "Die Neun-Bogen-Bruecke, die Ravana-Wasserfaelle und die Zipline"
+  ],
+  "included": [
+   "Privatfahrzeug mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Ella",
+   "Fuehrung auf beiden Wanderungen",
+   "alle Fahrten"
+  ],
+  "notIncluded": [
+   "Zugtickets",
+   "die Zipline-Gebuehr",
+   "Eintrittsgebuehren",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder"
+  ]
+ },
+ "ella-tuk-tuk-tour-with-little-adams-peak-the-nine-arch-bridge": {
+  "title": "Ella-Tuk-Tuk-Tour mit Little Adam's Peak, der Neun-Bogen-Bruecke und Wasserfallbad",
+  "metaTitle": "Ella im Tuk-Tuk: Little Adam’s Peak und Bruecke",
+  "metaDescription": "Eine private Halbtagestour im Tuk-Tuk zu Little Adam's Peak, der Neun-Bogen-Bruecke und den Ravana-Wasserfaellen, mit Zeit zum Baden.",
+  "shortDescription": "Eine private Halbtagestour im Tuk-Tuk zu Little Adam's Peak, der Neun-Bogen-Bruecke und den Ravana-Wasserfaellen, mit Zeit zum Baden im Becken unter dem Wasserfall.",
+  "fullDescription": "Das Tuk-Tuk ist das passende Fahrzeug fuer Ella. Die Gassen oberhalb und unterhalb der Stadt sind eng, steil und voller Haarnadelkurven, die Entfernungen sind kurz, und bei dieser Hoehe offen unterwegs zu sein, macht einen grossen Teil des Vergnuegens am Fortbewegen aus.\n\nDies ist die Halbtagesversion und deckt die drei Dinge ab, wegen denen Leute kommen. Little Adam’s Peak eroeffnet sie: 45 Minuten auf einem groesstenteils gestuften Pfad vom Stadtrand aus, leicht genug fuer die meisten Fitnessniveaus und fuer Kinder, mit dem Blick ueber die Ella Gap zur suedlichen Ebene oben. Gehen Sie frueh, die Luft ist morgens in jedem Monat am klarsten, und gegen neun Uhr steht eine Schlange fuer dasselbe Foto.\n\nDie Neun-Bogen-Bruecke folgt. Einundneunzig Meter Steinviadukt, vierundzwanzig Meter ueber einer Schlucht, errichtet waehrend des Ersten Weltkriegs in solidem Mauerwerk, weil der dafuer vorgesehene Stahl fuer Europa requiriert wurde. Zuege ueberqueren sie etwa alle zwei Stunden und sind gewohnheitsmaessig verspaetet, deshalb ist es etwas wert, einen Fahrer zu haben, der an diesem Morgen am Bahnhof nachgefragt hat.\n\nDie Ravana-Wasserfaelle schliessen den Tag ab, und anders als bei den meisten Stopps der Standard-Ella-Route gibt es hier ein Becken am Fuss, in das man hineingehen kann. Das Wasser ist kalt und die Stroemung nach Regen stark, daher entscheidet Ihr Fahrer am Tag selbst, ob es vernuenftig ist.",
+  "highlights": [
+   "Little Adam’s Peak im ersten Licht, bevor sich der Gipfel fuellt",
+   "Die Neun-Bogen-Bruecke abgestimmt auf die tatsaechlichen Zugbewegungen des Tages",
+   "Ein Bad im Becken unter den Ravana-Wasserfaellen, je nach Wasserstand",
+   "Ein privates Tuk-Tuk auf den steilen Gassen rund um die Stadt",
+   "Eine Halbtagestour, damit der Nachmittag frei bleibt"
+  ],
+  "included": [
+   "Privates Tuk-Tuk mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Ella",
+   "alle Fahrten",
+   "Kraftstoff"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren, falls zutreffend",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Flyboard-Erlebnis in Pattaya",
   "fullDescription": "Dies ist ein 30-minütiges Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Flyboard-Erlebnis, Betreuung durch einen Instructor, Sicherheitsausrüstung und Duschen. Nicht enthalten sind Fotos und Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
