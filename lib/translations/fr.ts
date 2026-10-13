@@ -97446,6 +97446,215 @@ export const FR_TOURS: Record<string, TourT> = {
    "pourboires"
   ]
  },
+ "little-adams-peak-sunset-hike-from-ella-with-a-local-guide": {
+  "title": "Randonnee au coucher du soleil a Little Adam's Peak depuis Ella avec un guide local",
+  "metaTitle": "Little Adam’s Peak au coucher du soleil",
+  "metaDescription": "La marche de Little Adam's Peak faite en fin d'apres-midi plutot qu'a l'aube: le meme sentier de 45 minutes, une lumiere plus douce, descente a la lampe.",
+  "shortDescription": "La marche de Little Adam's Peak faite en fin d'apres-midi plutot qu'a l'aube: le meme sentier en escaliers de 45 minutes, une lumiere plus douce sur les pentes de the, et la descente a la lampe.",
+  "fullDescription": "Presque tout le monde grimpe Little Adam's Peak au lever du soleil, ce qui explique pourquoi presque tout le monde est la-haut a sept heures du matin. La version du coucher du soleil echange une chose contre une autre et merite d'etre comprise avant de choisir.\n\nCe que vous perdez, c'est la clarte. L'air d'Ella est le plus clair le matin tous les mois de l'annee, et en fin d'apres-midi la longue vue a travers le Gap est souvent plus brumeuse ou, pendant les mois humides, entierement perdue dans les nuages.\n\nCe que vous gagnez, c'est la lumiere et le calme. Le soleil se couche derriere la crete plutot que dans votre objectif, les pentes de the deviennent dorees pendant environ vingt minutes, et le sommet n'a qu'une fraction des gens. Par une soiree claire, c'est la meilleure photo; par une soiree nuageuse, c'est le pire pari.\n\nLa marche elle-meme est la meme: environ 45 minutes sur un sentier en grande partie en escaliers depuis le bord de la ville, assez facile pour la plupart des niveaux de forme physique et pour les enfants, avec des marches en beton pour la derniere section.\n\nLa descente se fait dans une lumiere declinante et c'est la raison pratique d'avoir un guide. Les marches sont irregulieres, elles sont glissantes apres la pluie, et une lampe de telephone tenue d'une main n'equivaut pas a quelqu'un qui connait le chemin.\n\nRetour en ville pour le diner.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "La meme marche que la version de l’aube, avec une fraction des gens",
+   "Une lumiere doree sur les pentes de the pendant environ vingt minutes avant le coucher",
+   "Le soleil derriere la crete plutot que dans votre objectif",
+   "Un guide pour la descente, qui se fait dans une lumiere declinante",
+   "Retour a Ella a temps pour le diner"
+  ],
+  "included": [
+   "Prise en charge a l’hotel a Ella",
+   "un guide local anglophone",
+   "la marche guidee"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "yala-national-park-safari-day-trip-from-ella-bandarawela-or-haputale": {
+  "title": "Safari d'une journee au parc national de Yala depuis Ella, Bandarawela ou Haputale",
+  "metaTitle": "Safari a Yala depuis Ella",
+  "metaDescription": "Une excursion d'une journee depuis la region d'Ella vers Yala pour un safari a l'aube, avec un arret aux cascades de Ravana au retour.",
+  "shortDescription": "Une excursion d'une journee depuis la region d'Ella vers Yala pour un safari a l'aube, avec un arret aux cascades de Ravana sur le chemin du retour vers les montagnes.",
+  "fullDescription": "A noter avant de reserver: le Departement de la conservation de la faune a ferme les blocs 1 et 2 du parc national de Yala du 14 septembre au 15 octobre 2026 en raison de la secheresse, donc les safaris dans ces blocs ne peuvent pas avoir lieu a ces dates. Les blocs 3 a 6 restent ouverts, et Udawalawe et Wilpattu ne sont pas affectes, pour un voyage dans cette periode nous vous contacterons pour deplacer le safari vers l'un de ces parcs ou a une date apres le 15 octobre. Udawalawe est le parc le plus fort pour les elephants; Wilpattu offre des observations de leopards plus tranquilles.\n\nYala se trouve a environ trois heures au sud d'Ella, en descendant l'escarpement d'Uva et en sortant sur la plaine cotiere seche, et le changement de paysage sur ce trajet est l'un des plus spectaculaires du Sri Lanka: des pentes de the a mille metres jusqu'aux broussailles epineuses au niveau de la mer en moins de trois heures.\n\nLe bloc 1, la section ouverte a la plupart des visiteurs, detient la plus forte densite enregistree de leopards au monde. C'est une vraie statistique, et la foule qu'elle attire aussi, trois cents jeeps par une matinee animee en haute saison, convergeant chaque fois qu'une observation est annoncee par radio.\n\nLe parc recompense un interet plus large. Les ours paresseux sont plus difficiles a trouver que les leopards et meilleurs quand on les trouve. Elephants, buffles d'eau, crocodiles marins aux points d'eau, et plus de deux cents especes d'oiseaux, dont une forte migration hivernale depuis le nord.\n\nLe safari a l'aube est le seul qui vaut la peine. Les animaux bougent a la premiere lumiere et s'abritent vers neuf heures, et vers onze heures le parc n'est que chaleur et vehicules.\n\nLes cascades de Ravana s'inserent dans la montee de retour vers les montagnes, ce qui est un usage raisonnable de la derniere heure d'une longue journee.\n\nLe bloc 1 de Yala ferme pendant environ un mois chaque septembre.",
+  "highlights": [
+   "Un safari a l’aube dans le parc a la plus forte densite de leopards au monde",
+   "Ours paresseux, elephants, crocodiles et plus de 200 especes d’oiseaux",
+   "La descente des pentes de the jusqu’aux broussailles cotieres en moins de trois heures",
+   "Les cascades de Ravana sur la montee de retour vers les montagnes",
+   "Prise en charge a Ella, Bandarawela ou Haputale"
+  ],
+  "included": [
+   "Vehicule prive avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel",
+   "la jeep de safari avec chauffeur et traqueur",
+   "le safari",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Le permis du parc national, a payer en especes a l’entree",
+   "repas",
+   "pourboires pour le chauffeur et le traqueur"
+  ]
+ },
+ "liptons-seat-tuk-tuk-excursion-from-ella-with-the-dambatenne-tea-factory": {
+  "title": "Excursion en tuk-tuk a Lipton's Seat depuis Ella avec la fabrique de the Dambatenne",
+  "metaTitle": "Lipton’s Seat en tuk-tuk depuis Ella",
+  "metaDescription": "Un trajet en tuk-tuk depuis Ella sur la route de la plantation jusqu'a Lipton's Seat pour le lever du soleil, avec la fabrique Dambatenne au retour.",
+  "shortDescription": "Un trajet en tuk-tuk depuis Ella sur la route de la plantation jusqu'a Lipton's Seat pour le lever du soleil, avec la fabrique Dambatenne que Thomas Lipton a construite en 1890 au retour.",
+  "fullDescription": "La route de Haputale jusqu'a Lipton's Seat grimpe a travers la plantation de Dambatenne sur une voie etroite en lacets continus, et c'est l'un des rares endroits ou un tuk-tuk est vraiment le meilleur vehicule. A ciel ouvert, lent, et assez proche du the pour voir la cueillette se derouler sur les pentes a cote de vous.\n\nLipton's Seat se trouve a environ 1 970 metres. Thomas Lipton a achete ses premieres plantations de Ceylan en 1890 et, selon l'histoire, est monte jusqu'a cet eperon pour observer tout ce qu'il possedait. Il y a une statue de lui au sommet, regardant au loin. Par une matinee claire, la vue s'etend sur cinq provinces jusqu'a la plaine sud.\n\nLe mot cle est matinee. Les nuages remplissent generalement la vallee vers neuf ou dix heures et il n'y a plus rien a voir du tout, c'est pourquoi ce voyage se fait avant l'aube et non en grasse matinee.\n\nDambatenne, la fabrique construite par Lipton, se trouve sur le chemin du retour et c'est l'une des plus anciennes usines en activite du Sri Lanka. La visite suit la feuille depuis le bac de fletrissage jusqu'au roulage, l'oxydation et la cuisson jusqu'a la table de tri, et se termine par une tasse.\n\nCinq heures, retour a Ella en fin de matinee.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "La route de la plantation jusqu’a Lipton’s Seat parcourue a ciel ouvert en tuk-tuk",
+   "Une vue sur cinq provinces a 1 970 m par une matinee claire",
+   "La statue de Thomas Lipton au sommet, regardant ce qu’il a achete en 1890",
+   "La fabrique Dambatenne, l’une des plus anciennes usines en activite du pays",
+   "Retour a Ella en fin de matinee avec la journee encore libre"
+  ],
+  "included": [
+   "Tuk-tuk prive avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel a Ella",
+   "tous les trajets",
+   "carburant"
+  ],
+  "notIncluded": [
+   "L'entree de la fabrique de the",
+   "repas et boissons",
+   "achats de the",
+   "pourboires"
+  ]
+ },
+ "ella-adventure-day-tour-ella-rock-little-adams-peak-and-the-nine-arch": {
+  "title": "Excursion d'aventure a Ella : Ella Rock, Little Adam's Peak et le pont aux neuf arches",
+  "metaTitle": "Aventure Ella : Ella Rock et Little Adam’s Peak",
+  "metaDescription": "Les deux marches d'Ella en une journee guidee a prix de groupe partage, avec un temple bouddhiste, le pont aux neuf arches et les cascades de Ravana.",
+  "shortDescription": "Les deux marches d'Ella en une journee guidee a prix de groupe partage, avec un temple bouddhiste, le pont aux neuf arches et les cascades de Ravana entre les deux.",
+  "fullDescription": "Faire les deux marches d'Ella en une journee est une vraie entreprise, environ cinq heures a pied sous les tropiques, et c'est le voyage a prendre si la marche est la raison pour laquelle vous etes venu dans les montagnes.\n\nElla Rock est celle qui necessite le guide. L'itineraire commence le long de la voie ferree depuis la gare d'Ella, continue vers le sud-ouest pendant environ vingt minutes, puis quitte la ligne a un carrefour sans aucun panneau et plusieurs alternatives plausibles. De la, il traverse des terres de plantation ou les sentiers se divisent constamment, et des gens s'y perdent chaque semaine. Trois heures aller-retour, une longue montee sur un terrain accidente, se terminant sur une crete sommitale degagee avec une large vue sur l'Ella Gap.\n\nLittle Adam's Peak est la plus facile: 45 minutes sur un sentier en grande partie en escaliers pour une vue sans doute meilleure encore, a travers l'Ella Gap vers la plaine sud.\n\nEntre les deux, la journee comprend un temple bouddhiste, le pont aux neuf arches, 91 metres de pierre construits sans acier pendant la Premiere Guerre mondiale, et les cascades de Ravana.\n\nA prix de groupe partage, c'est la meilleure journee de marche en termes de rapport qualite-prix a Ella. L'echange, c'est des horaires fixes et attendre le marcheur le plus lent, ce qui sur une journee de cinq heures est une vraie consideration.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "Les deux marches d’Ella en une journee a prix de groupe partage",
+   "Un guide pour Ella Rock, ou le carrefour critique n’est pas signale",
+   "Little Adam’s Peak et la vue a travers l’Ella Gap",
+   "Le pont aux neuf arches et les cascades de Ravana entre les deux marches",
+   "Prise en charge a Ella, Bandarawela ou Haputale"
+  ],
+  "included": [
+   "Transport avec guide anglophone",
+   "prise en charge et depose a l’hotel",
+   "guidage sur les deux marches",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Repas",
+   "frais d’entree le cas echeant",
+   "pourboires",
+   "equipement personnel"
+  ]
+ },
+ "ella-wonders-day-tour-spice-garden-nine-arch-bridge-ravana-falls": {
+  "title": "Excursion des merveilles d'Ella : jardin d'epices, pont aux neuf arches, cascades de Ravana et tyrolienne",
+  "metaTitle": "Merveilles d’Ella : jardin et pont",
+  "metaDescription": "Une boucle economique de six heures autour d'Ella: monastere forestier, jardin d'epices, pont aux neuf arches et cascades de Ravana.",
+  "shortDescription": "Une boucle economique de six heures autour d'Ella couvrant le monastere forestier de Mahameunawa, un jardin d'epices, le pont aux neuf arches, les cascades de Ravana et la tyrolienne Flying Ravana.",
+  "fullDescription": "C'est la version economique de la journee a Ella et elle couvre la plupart des sites de la ville sans le depart avant l'aube qu'exigent les circuits de marche.\n\nLe Mahameunawa Asapuwa est l'arret auquel personne ne s'attend. C'est un monastere forestier plutot qu'un temple decore, calme, depouille et vraiment utilise, et apres une semaine de sites bouddhistes peints, cela fait un effet tres different.\n\nLe jardin d'epices d'Ella couvre la cannelle, le poivre, la cardamome, le curcuma et les plantes ayurvediques qui poussent dans chaque jardin de village de cette region du pays. Le Sri Lanka produit la plupart de la vraie cannelle au monde et la difference entre elle et la cassia vendue comme cannelle ailleurs devient evidente une fois que quelqu'un vous montre les deux.\n\nLe pont aux neuf arches est la piece maitresse: 91 metres de pierre, 24 metres au-dessus d'une gorge, construit pendant la Premiere Guerre mondiale sans acier car l'acier a ete requisitionne pour l'Europe.\n\nLes cascades de Ravana, une large cascade au bord de la route vers le sud, et la tyrolienne Flying Ravana au-dessus de la vallee cloturent la journee.\n\nCe que cela n'inclut pas, c'est Little Adam's Peak ou Ella Rock. Si vous voulez les marches, prenez une journee complete avec un depart matinal.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "Le monastere forestier de Mahameunawa, calme et vraiment utilise",
+   "Un jardin d’epices cultivant la vraie cannelle de Ceylan, le poivre et la cardamome",
+   "Le pont aux neuf arches, construit en pierre sans acier pendant la Premiere Guerre mondiale",
+   "Les cascades de Ravana et la tyrolienne Flying Ravana au-dessus de la vallee",
+   "Prise en charge a Ella, Bandarawela ou Haputale"
+  ],
+  "included": [
+   "Transport avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel",
+   "tous les trajets entre les arrets"
+  ],
+  "notIncluded": [
+   "La tyrolienne",
+   "frais d’entree le cas echeant",
+   "repas et boissons",
+   "achats d’epices",
+   "pourboires"
+  ]
+ },
+ "ella-adventure-day-by-tuk-tuk-both-peaks-the-loop-and-the-zipline": {
+  "title": "Journee d'aventure a Ella en tuk-tuk : les deux sommets, la boucle et la tyrolienne",
+  "metaTitle": "Aventure Ella en tuk-tuk",
+  "metaDescription": "Une journee privee en tuk-tuk autour d'Ella: cascades de Ravana, Ella Rock, Little Adam's Peak, boucle de Demodara et pont aux neuf arches.",
+  "shortDescription": "Une journee privee complete autour d'Ella en tuk-tuk, couvrant les cascades de Ravana, Ella Rock, Little Adam's Peak, la boucle de Demodara, un trajet en train, le pont aux neuf arches et la tyrolienne de Ravana.",
+  "fullDescription": "Un tuk-tuk est le bon vehicule pour Ella. Les routes au-dessus de la ville sont etroites, escarpees et pleines de lacets, les distances entre les sites sont courtes, et etre a ciel ouvert a cette altitude est la plus grande partie du plaisir de se deplacer ici.\n\nLa journee couvre tout. Little Adam's Peak a la premiere lumiere, 45 minutes sur un sentier en escaliers pour la vue a travers l'Ella Gap. Ella Rock, la marche la plus difficile, trois heures aller-retour sur des sentiers de plantation non signales, ce qui est exactement pourquoi un guide compte, puisque le carrefour ou l'itineraire quitte la voie ferree n'a aucun panneau et plusieurs alternatives plausibles.\n\nLa boucle de Demodara est la piece que presque personne ne voit: le chemin de fer fait un cercle complet pour passer sous la gare qu'il vient de quitter, afin de gagner de l'altitude. Un court trajet en train entre Demodara et Ella vous place sur la ligne plutot qu'a cote.\n\nLe pont aux neuf arches suit, 91 metres de pierre construits sans acier pendant la Premiere Guerre mondiale, et les cascades de Ravana ainsi que la tyrolienne au-dessus de la vallee cloturent l'apres-midi.\n\nOrganise en prive, donc si le train est en retard ou que les nuages descendent, la journee se reorganise au lieu de s'effondrer.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "Les deux marches d’Ella, avec un guide pour l’itineraire non signale d’Ella Rock",
+   "La boucle de Demodara, ou le chemin de fer fait une boucle sous lui-meme",
+   "Un court trajet sur la ligne de montagne plutot qu’une simple vue",
+   "Le pont aux neuf arches et les cascades de Ravana",
+   "Un tuk-tuk ouvert sur les routes escarpees au-dessus de la ville"
+  ],
+  "included": [
+   "Tuk-tuk prive avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel a Ella",
+   "guidage sur les deux marches",
+   "tous les trajets"
+  ],
+  "notIncluded": [
+   "Billets de train",
+   "la tyrolienne",
+   "frais d’entree",
+   "repas et boissons",
+   "pourboires"
+  ]
+ },
+ "ella-to-sigiriya-private-transfer-via-a-vedda-village-and-mahiyanganaya": {
+  "title": "Transfert prive d'Ella a Sigiriya via un village Vedda et Mahiyanganaya",
+  "metaTitle": "Ella a Sigiriya via Mahiyanganaya",
+  "metaDescription": "Le trajet des montagnes vers le triangle culturel par la route orientale plus calme, avec une visite d'une communaute Vedda a Dambana et des temples.",
+  "shortDescription": "Le trajet des montagnes vers le triangle culturel par la route orientale plus calme, avec une visite d'une communaute Vedda a Dambana et des arrets dans des temples en passant par Mahiyanganaya.",
+  "fullDescription": "D'Ella a Sigiriya peut se faire via Kandy, qui est la route animee, ou via Mahiyanganaya, qui est la route calme. Ce transfert prend l'itineraire oriental: en descendant l'escarpement d'Uva, en sortant sur la plaine de la zone seche, et vers le nord jusqu'au triangle culturel.\n\nLes Vedda sont le peuple indigene du Sri Lanka, presents sur l'ile bien avant l'arrivee cinghalaise que les chroniques datent du cinquieme siecle avant notre ere. Quelques communautes subsistent, principalement autour de Dambana pres de Mahiyanganaya, et une visite implique de rencontrer des membres de la communaute, de voir les techniques de chasse et de cueillette qu'ils enseignent encore, et d'entendre leur propre recit d'une histoire habituellement racontee a leur sujet plutot que par eux.\n\nIl vaut la peine d'etre honnete sur ce que c'est. Ces visites sont un moyen de subsistance et elles sont en partie mises en scene. Cela ne les rend pas sans valeur, la communaute controle la presentation et l'argent reste local, mais quiconque les vend comme une rencontre avec des gens non touches par le monde moderne ne dit pas la verite.\n\nMahiyanganaya elle-meme possede l'un des plus anciens stupas du Sri Lanka, cense abriter des reliques de cheveux et marquer le site de la premiere visite du Bouddha sur l'ile.\n\nVous atteignez Sigiriya dans l'apres-midi, a temps pour vous installer avant une ascension a l'aube.",
+  "highlights": [
+   "La route orientale calme plutot que l’itineraire anime de Kandy",
+   "Une visite d’une communaute Vedda a Dambana, avec des revenus qui restent au village",
+   "Mahiyanganaya, l’un des plus anciens stupas du Sri Lanka",
+   "La descente de l’escarpement d’Uva vers la plaine de la zone seche",
+   "Arrivee a Sigiriya a temps pour une ascension a l’aube le lendemain matin"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel",
+   "tous les arrets sur la route",
+   "depose a Sigiriya ou Dambulla",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Les frais de la communaute du village Vedda",
+   "dons au temple",
+   "repas et boissons",
+   "pourboires"
+  ]
+ },
+ "hill-country-train-ride-and-liptons-seat-by-tuk-tuk-from-ella": {
+  "title": "Trajet en train de montagne et Lipton's Seat en tuk-tuk depuis Ella",
+  "metaTitle": "Train de montagne et Lipton’s Seat",
+  "metaDescription": "Une journee combinant les deux meilleures facons de traverser le pays du the: le train de montagne d'Ella a Haputale, puis un tuk-tuk jusqu'a Lipton's Seat.",
+  "shortDescription": "Une journee combinant les deux meilleures facons de traverser le pays du the: le train de montagne d'Ella a Haputale, puis un tuk-tuk a travers les plantations jusqu'a Lipton's Seat et la fabrique Dambatenne.",
+  "fullDescription": "Cette journee est construite sur l'observation que le pays du the se voit mieux depuis un train et s'atteint mieux en tuk-tuk, et elle utilise chacun pour ce qu'il fait de mieux.\n\nLe trajet en train d'Ella a Haputale est court, moins d'une heure, mais il couvre l'un des meilleurs tronçons de la ligne de montagne, suivant les courbes de niveau avec la vallee d'Uva qui se derobe. Contrairement au long trajet de Nanu Oya, celui-ci permet facilement de trouver une place et ne consume pas la journee.\n\nDepuis Haputale, un tuk-tuk grimpe la route de la plantation jusqu'a Lipton's Seat, a environ 1 970 metres. Thomas Lipton a achete ses premieres plantations de Ceylan en 1890 et, selon l'histoire, est monte jusqu'a cet eperon pour observer tout ce qu'il possedait; par une journee claire, la vue s'etend sur cinq provinces. La route qui monte est etroite, escarpee et pleine de lacets, et un tuk-tuk ouvert y est l'objectif plutot qu'un compromis.\n\nDambatenne, la fabrique construite par Lipton, se trouve sur le chemin du retour et c'est l'une des plus anciennes usines en activite du pays. La visite suit la feuille du bac de fletrissage a la table de tri.\n\nLes nuages ferment generalement la vue de Lipton's Seat vers neuf ou dix heures, c'est pourquoi cette journee commence tot.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "Le court tronçon facile de la ligne de montagne entre Ella et Haputale",
+   "Lipton’s Seat a 1 970 m, avec une vue sur cinq provinces par une matinee claire",
+   "La route de la plantation parcourue a ciel ouvert en tuk-tuk",
+   "La fabrique Dambatenne que Thomas Lipton a construite en 1890",
+   "Un train et un tuk-tuk plutot qu’une voiture toute la journee"
+  ],
+  "included": [
+   "Tuk-tuk prive avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel a Ella",
+   "les tronçons en tuk-tuk",
+   "guidage"
+  ],
+  "notIncluded": [
+   "Billets de train",
+   "l'entree de la fabrique de the",
+   "repas et boissons",
+   "achats de the",
+   "pourboires"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Séance de flyboard à Pattaya",
   "fullDescription": "Cette expérience de 30 minutes se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend séance de flyboard, accompagnement d'un instructeur, équipement de sécurité et douches. Il ne comprend pas photos et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
