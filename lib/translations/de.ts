@@ -101097,6 +101097,240 @@ export const DE_TOURS: Record<string, TourT> = {
    "persoenliche Ausgaben"
   ]
  },
+ "galle-fort-madu-river-boat-safari-turtle-hatchery-day-tour-col": {
+  "title": "Tagesausflug ab Colombo: Festung Galle, Bootssafari auf dem Madu-Fluss und Schildkroetenaufzuchtstation",
+  "metaTitle": "Galle, Madu-Fluss und Schildkroeten",
+  "metaDescription": "Eine Fahrt an der Suedwestkueste ab Colombo mit Bentota, einer Schildkroetenaufzuchtstation in Kosgoda, einer Bootssafari durch die Madu Ganga und der Festung Galle.",
+  "shortDescription": "Eine Fahrt an der Suedwestkueste ab Colombo mit Bentota, einer Meeresschildkroeten-Aufzuchtstation in Kosgoda, einer Bootssafari durch die Mangroven der Madu Ganga und den Wallanlagen der Festung Galle.",
+  "fullDescription": "Die Kuestenstrasse suedlich von Colombo fuehrt durch eine Reihe von Staedten, die lange vor der Ankunft des Tourismus von Zimt, Kokosfaser und Fischerei lebten, und dieser Tag folgt ihr bis Galle. Die Schnellstrasse bringt Sie schnell aus der Stadt heraus, und der Tag wird in kurzen Etappen zwischen den Stopps verbracht statt in einer langen durchgehenden Fahrt.\n\nBentota ist der erste Stopp, eine Flussmuendung, wo der Bentota Ganga auf das Meer trifft. Von dort fuehrt die Route weiter nach Kosgoda, wo eine Meeresschildkroeten-Aufzuchtstation Eier vom Strand sammelt, sie ausbruetet und die Jungtiere freilaesst. Fuenf der sieben Meeresschildkroetenarten der Welt nisten an diesem Kuestenabschnitt, und das Personal der Aufzuchtstation erklaert den Druck, dem sie durch Wilderei, Netze und Kuestenentwicklung ausgesetzt sind.\n\nDie Bootssafari auf der Madu Ganga ist der laengste Stopp des Tages. Der Fluss oeffnet sich zu einer flachen Lagune, uebersaet mit kleinen Inseln, und das Boot fahrt durch Mangrovenkanaele, wo sich die Wurzeln oben schliessen. Sie kommen an Zimtinseln vorbei, wo die Rinde noch von Hand geschaelt wird, kleinen Tempeln auf eigenen Inselchen, Fischfarmen und, wenn das Licht stimmt, Warane und Eisvoegel entlang der Ufer. Etwa neunzig Minuten bis zwei Stunden auf dem Wasser.\n\nDas Mittagessen findet an der Kueste in Hikkaduwa statt, dann geht es nach Galle. Die Festung wurde von den Portugiesen erbaut und im 17. Jahrhundert von den Hollaendern wiederaufgebaut, und die Wallanlagen umschliessen noch immer eine aktive Stadt mit Haeusern aus der hollaendischen Zeit, Kirchen, einer Moschee und dem Leuchtturm an der Seemauer. Es ist eine UNESCO-Staette und eignet sich gut zum Durchwandern: die Strassen im Inneren sind klein genug, dass eine Stunde zu Fuss die meisten davon abdeckt.\n\nDie Rueckfahrt nach Colombo dauert ein paar Stunden. Insgesamt ist das ein voller Tag, aber ein sanfterer als die Ausfluege ins Landesinnere, mit dem meisten Zeit ausserhalb des Fahrzeugs verbracht.",
+  "highlights": [
+   "Bootssafari durch die Mangrovenkanaele und Inseln der Madu-Ganga-Lagune",
+   "Meeresschildkroeten-Aufzuchtstation in Kosgoda, mit einer Erklaerung der Schutzarbeit",
+   "Festung Galle, eine portugiesische und hollaendische Mauerstadt auf der UNESCO-Liste, zu Fuss erkundet",
+   "Stopp an einer Zimtinsel, wo die Rinde noch von Hand geschaelt wird",
+   "Kuestenfahrt ab Colombo mit Abholung und Absetzen am Hotel"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug mit englischsprachigem Fahrer",
+   "Abholung und Absetzen am Hotel in Colombo, Wattala, Wadduwa, Kalutara oder Negombo",
+   "Madu-Ganga-Bootssafari",
+   "Flaschenwasser",
+   "Kraftstoff, Maut und Parken"
+  ],
+  "notIncluded": [
+   "Spende oder Eintritt an der Schildkroetenaufzuchtstation",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder",
+   "persoenliche Ausgaben",
+   "Reiseversicherung"
+  ]
+ },
+ "yala-national-park-leopard-safari-day-trip-colombo": {
+  "title": "Leoparden-Safari-Tagesausflug im Nationalpark Yala ab Colombo",
+  "metaTitle": "Leoparden-Safari in Yala",
+  "metaDescription": "Ein ganzer Tag ab Colombo nach Yala, dem Park mit der hoechsten Leopardendichte Sri Lankas, einschliesslich Eintrittskarten und Pirschfahrt im offenen Jeep.",
+  "shortDescription": "Ein ganzer Tag ab Colombo nach Yala, dem Park mit der hoechsten Leopardendichte Sri Lankas, einschliesslich Eintrittskarten und einer Pirschfahrt im offenen Jeep.",
+  "fullDescription": "Bitte beachten Sie vor der Buchung: Das Amt fuer Wildtierschutz hat die Blocks 1 und 2 des Nationalparks Yala vom 14. September bis 15. Oktober 2026 wegen Duerre geschlossen, Safaris in diesen Blocks koennen an diesen Daten also nicht stattfinden. Die Blocks 3 bis 6 bleiben offen, und Udawalawe und Wilpattu sind nicht betroffen, fuer eine Reise innerhalb dieses Zeitraums kontaktieren wir Sie, um die Safari in einen dieser Parks oder auf ein Datum nach dem 15. Oktober zu verlegen. Udawalawe ist der staerkere Park fuer Elefanten; Wilpattu bietet die ruhigeren Leopardensichtungen.\n\nYala liegt in der trockenen Suedostecke der Insel, wo Buschwald auf Felsvorspruenge und Lagunen trifft, die zum Meer hinablaufen. Am bekanntesten ist der Park fuer seine Leoparden, und insbesondere Block Eins hat eine der dichtesten je erfassten Leopardenpopulationen ueberhaupt. Dichte ist nicht dasselbe wie Garantie: Spurenleser arbeiten taeglich im Park und lesen frische Spuren, aber eine Sichtung ist trotzdem eine Frage von Glueck und Geduld.\n\nDie Fahrt von Colombo hinab dauert etwa drei Stunden auf der suedlichen Schnellstrasse, der Tag beginnt also frueh. Ihr Fahrer holt Sie an Ihrem Hotel ab, und die Strasse fuehrt an Galle vorbei und entlang der Kueste, bevor sie landeinwaerts in Richtung Tissamaharama und der Parktore abbiegt.\n\nAm Eingang wechseln Sie in einen offenen Safari-Jeep mit Fahrer und Spurenleser. Die Pirschfahrt dauert etwa drei Stunden durch die Pisten, Reservoire und offenen Ebenen des Parks. Neben Leoparden beherbergt Yala Elefanten, Lippenbaeren, Axishirsche, Sambarhirsche, Wildschweine, Sumpfkrokodile und Schakale, und die Vogelwelt ist eine der staerksten im Land: Buntstoerche, Pfauen in grosser Zahl, Seeadler und eine lange Liste von Zugwasservoegeln zwischen November und Maerz.\n\nParkeintrittskarten sind in dieser Tour inklusive, was einen der unangenehmeren Teile eines unabhaengigen Besuchs in Yala entfernt, ebenso wie den Jeep und seinen Spurenleser.\n\nDies ist ein zwoelfstuendiger Tag, davon etwa sechs Stunden im Auto. Es funktioniert, wenn Sie Yala ohne Hotelwechsel wollen, obwohl wer das beste Licht und die ruhigsten Pisten moechte, mehr von einer Uebernachtung nahe Tissamaharama hat.",
+  "highlights": [
+   "Rund drei Stunden Pirschfahrt in Yala Block Eins, dem bekanntesten Leopardenhabitat Sri Lankas",
+   "Parkeintrittskarten und der Safari-Jeep mit Spurenleser inklusive",
+   "Elefanten, Lippenbaeren, Krokodile, Axishirsche und starke Vogelwelt um die Lagunen",
+   "Privates klimatisiertes Auto ab Colombo mit Hotelabholung und Rueckfahrt",
+   "Fahrt auf der Kuestenschnellstrasse nach Sueden, vorbei an Galle auf dem Hinweg"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug mit englischsprachigem Fahrer",
+   "Abholung und Absetzen am Hotel in Colombo",
+   "Eintrittskarten fuer den Nationalpark Yala",
+   "Safari-Jeep mit Fahrer und Spurenleser",
+   "Flaschenwasser",
+   "Kraftstoff, Maut und Parken"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder fuer Fahrer und Spurenleser",
+   "Kameragebuehren, falls berechnet",
+   "persoenliche Ausgaben",
+   "Reiseversicherung"
+  ]
+ },
+ "sigiriya-sunrise-climb-dambulla-cave-temples-colombo": {
+  "title": "Sonnenaufgangsbesteigung von Sigiriya und Hoehlentempel von Dambulla ab Colombo",
+  "metaTitle": "Sigiriya bei Sonnenaufgang",
+  "metaDescription": "Verlassen Sie Colombo vor der Daemmerung, um bei Sonnenaufgang auf Sigiriya zu sein, dann besuchen Sie die Hoehlentempel von Dambulla.",
+  "shortDescription": "Verlassen Sie Colombo vor der Daemmerung, um auf dem Fels von Sigiriya zu sein, wenn die Sonne ueber der Ebene aufgeht, dann besuchen Sie die Hoehlentempel von Dambulla vor der Rueckfahrt.",
+  "fullDescription": "Sigiriya im ersten Licht zu besteigen, ist eine andere Erfahrung als es um zehn Uhr morgens zu tun. Die Treppen sind kuehl, die Menschenmassen sind noch nicht angekommen, und die flache Buschebene darunter haelt Nebel, der sich mit zunehmendem Licht hebt. Das ist der Grund, eine Abholung um zwei Uhr morgens zu akzeptieren.\n\nDer Felsen selbst ist eine Zitadelle aus dem fuenften Jahrhundert. Koenig Kasyapa verlegte seine Hauptstadt hierher, nachdem er den Thron seinem Vater entrissen hatte, und liess den Gipfel als Palast mit in den Stein geschnittenen Zisternen und symmetrisch angelegten Gaerten an der Basis ausbauen. Auf dem Weg hinauf kommen Sie an der Spiegelwand vorbei, einst glatt genug zum Spiegeln, heute bedeckt mit Graffiti-Versen, die Besucher seit dem achten Jahrhundert geschrieben haben, und der geschuetzten Nische mit Fresken, die Hofdamen in Ocker und Gruen zeigen. Der letzte Abschnitt fuehrt zwischen zwei geschnitzten Loewenpranken hinauf, alles, was von einem Tor in Form des Tierkopfes uebrig bleibt.\n\nNach dem Abstieg gibt es einen Fruehstuecksstopp in einem lokalen Restaurant, dann eine kurze Fahrt nach Dambulla. Fuenf Hoehlen liegen unter einem einzigen ueberhaengenden Felsen, mit mehr als 150 Buddha-Bildern und Decken, die direkt auf den Stein gemalt sind und seinen Vertiefungen und Ausbuchtungen folgen. Die Staette ist seit ueber zwei Jahrtausenden ununterbrochen in Gebrauch, und aufeinanderfolgende Koenige fuegten hinzu und bemalten neu, sodass das, was Sie sehen, geschichtet statt einheitlich ist.\n\nDer Transport erfolgt im privaten klimatisierten Auto mit eigenem Fahrer, was an einem Tag wichtig ist, der um eine bestimmte Stunde aufgebaut ist: Sie koennen am Ticketschalter sein, wenn er oeffnet, statt sich nach einer Gruppe zu richten.\n\nSeien Sie sich der Laenge bewusst. Die Abholung erfolgt mitten in der Nacht, die Fahrt dauert jeweils etwa drei Stunden, und Sie sind nach etwa vierzehn Stunden am spaeten Nachmittag oder Abend zurueck in Colombo. Die meisten Menschen schlafen in beide Richtungen im Auto, und es lohnt sich, danach einen ruhigen Abend zu planen.",
+  "highlights": [
+   "Auf dem Felsen bei Sonnenaufgang, vor der Hitze und den Menschenmassen",
+   "Die Fresken, die Spiegelwand und die Loewenpranken-Treppe von Sigiriya mit einem Guide",
+   "Die fuenf Hoehlentempel von Dambulla, ueber 150 Buddha-Statuen unter einem ueberhaengenden Felsen",
+   "Privates klimatisiertes Auto mit Tuer-zu-Tuer-Abholung in Colombo",
+   "Fruehstuecksstopp in einem lokalen Restaurant nach dem Aufstieg"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto mit englischsprachigem Fahrer",
+   "Abholung und Absetzen am Hotel in Colombo",
+   "gefuehrte Besteigung in Sigiriya",
+   "Flaschenwasser",
+   "Kraftstoff, Maut und Parken"
+  ],
+  "notIncluded": [
+   "Eintrittskarten fuer Sigiriya und Dambulla",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder",
+   "Kameragebuehren",
+   "persoenliche Ausgaben",
+   "Reiseversicherung"
+  ]
+ },
+ "sigiriya-rock-dambulla-cave-temples-day-trip-colombo-safari": {
+  "title": "Tagesausflug ab Colombo zum Felsen von Sigiriya und den Hoehlentempeln von Dambulla mit Safari",
+  "metaTitle": "Sigiriya, Dambulla und Safari",
+  "metaDescription": "Eine Kleingruppenfahrt noerdlich ab Colombo zu den Hoehlentempeln von Dambulla und der Felsenzitadelle Sigiriya, mit einer nachmittaeglichen Jeep-Safari.",
+  "shortDescription": "Eine Kleingruppenfahrt noerdlich ab Colombo zu den Hoehlentempeln von Dambulla und der Felsenzitadelle Sigiriya, mit einer nachmittaeglichen Jeep-Safari im nahen Nationalpark.",
+  "fullDescription": "Sigiriya ist ein Granitfelsen, der zweihundert Meter aus flachem Buschland aufsteigt, und im fuenften Jahrhundert baute Koenig Kasyapa seine Hauptstadt darauf. Was erhalten ist, ist bemerkenswert: Wassergaerten und Felsgaerten an der Basis, eine Spiegelwand entlang der Westseite, die Fresken der Hofdamen, gemalt in einer geschuetzten Nische auf halber Hoehe, und die zwei riesigen Loewenpranken, die einst ein Tor umrahmten, durch das man ging, um den Gipfel zu erreichen. Der Aufstieg umfasst etwa 1.200 Stufen auf Metalltreppen, die an den Fels geschraubt sind.\n\nDer Tag beginnt mit der Fahrt nordwaerts ab Colombo, etwa vier Stunden auf der Schnellstrasse und dann der Dambulla-Strasse. Abholungen erfolgen ab Colombo und von der Kueste bei Negombo, Mount Lavinia, Kalutara, Bentota, Hikkaduwa und Galle, die Startzeit haengt also davon ab, wo Sie sich befinden.\n\nDambulla kommt zuerst. Fuenf Hoehlen unter einem ueberhaengenden Felsen beherbergen mehr als 150 Buddha-Statuen und bemalte Decken, die den Konturen des Steins folgen, teilweise zweitausend Jahre alt und ueber aufeinanderfolgende Herrschaften neu bemalt. Der Aufstieg zu den Hoehlen fuehrt ueber eine Reihe offener Stufen an der Felswand, etwa fuenfzehn Minuten, und der Blick ueber die Ebene von der Terrasse ist die Muehe allein wert.\n\nNach Sigiriya wendet sich der Nachmittag der Tierwelt zu, mit einer Jeep-Safari im nahen Nationalparkgelaende. Dies ist Elefantenland: Die Reservoirs ziehen in den trockenen Monaten grosse Zahlen an, und das Minneriya-Gathering, wenn Herden auf dem zuruckweichenden Seebett zusammenkommen, erreicht seinen Hoehepunkt etwa zwischen Juli und September. Ausserhalb dieses Zeitraums sind Elefanten weiterhin regelmaessig zu sehen, aber in kleineren Gruppen.\n\nDies ist ein langer Tag in einem geteilten Fahrzeug, mit etwa acht Stunden Fahrzeit rund um die Besichtigungen. Es passt zu Leuten, die die beiden Hauptattraktionen des kulturellen Dreiecks und eine Safari in einer Reise von der Kueste aus wollen, statt das Hotel zu wechseln.",
+  "highlights": [
+   "Sigiriya, die Felsenzitadelle aus dem fuenften Jahrhundert, besteigen, vorbei an den Fresken und der Loewenpranken-Terrasse",
+   "Die fuenf Hoehlentempel von Dambulla mit ueber 150 Buddha-Statuen und bemalten Felsdecken",
+   "Nachmittaegliche Jeep-Safari im Nationalparkgelaende nahe Sigiriya, stark fuer wilde Elefanten",
+   "Hotelabholung ab Colombo oder von ueberall an der Suedwestkueste",
+   "Kleingruppenreise im klimatisierten Fahrzeug mit Guide"
+  ],
+  "included": [
+   "Klimatisiertes Fahrzeug mit englischsprachigem Fahrer-Guide",
+   "Abholung und Absetzen am Hotel in Colombo oder an der Suedwestkueste",
+   "gefuehrter Besuch in Sigiriya",
+   "Safari-Jeep fuer die nachmittaegliche Pirschfahrt",
+   "Flaschenwasser",
+   "Kraftstoff, Maut und Parken"
+  ],
+  "notIncluded": [
+   "Eintrittskarten fuer Sigiriya und Dambulla",
+   "Nationalparkeintritt",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder",
+   "Kameragebuehren",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "kandy-day-trip-colombo-train-home-cooked-lunch": {
+  "title": "Tagesausflug nach Kandy ab Colombo mit dem Zug und hausgemachtem Mittagessen",
+  "metaTitle": "Kandy mit dem Zug",
+  "metaDescription": "Fahren Sie mit der Berglinie von Colombo nach Kandy, besuchen Sie den Zahntempel und ruhigere Tempel, und essen Sie ein hausgemachtes Mittagessen mit einer Familie.",
+  "shortDescription": "Fahren Sie mit der Berglinie von Colombo nach Kandy, besuchen Sie den Tempel der Heiligen Zahnreliquie und ruhigere Tempel um die Stadt, und essen Sie ein hausgemachtes sri-lankisches Mittagessen mit einer einheimischen Familie.",
+  "fullDescription": "Die Eisenbahn von Colombo nach Kandy wurde in den 1860er Jahren von den Briten gebaut, um Tee und Kaffee zum Hafen zu transportieren, und bleibt eine der besseren Moeglichkeiten, zwischen den beiden zu reisen. Die Linie steigt stetig aus der Kuestenebene, durchschneidet den Kadugannawa-Pass mit seinen Tunneln und Felseinschnitten, und oeffnet sich zu terrassierten Reisfeldern und Wald, wenn sie sich den Huegeln naehert. Diesen Abschnitt mit dem Zug statt auf der Strasse zu machen, veraendert den Charakter des Tages.\n\nIhr Guide holt Sie an Ihrem Hotel in Colombo ab und bringt Sie zum Bahnhof Colombo Fort fuer die morgendliche Abfahrt. Die Fahrt dauert etwa drei Stunden. Sri-lankische Zuege sind funktional statt luxurioes, die Fenster oeffnen sich, und Verkaeufer gehen durch die Wagen und verkaufen Vadai, Tee und geroesteten Kichererbsen.\n\nIn Kandy ist der Hauptstopp der Tempel der Heiligen Zahnreliquie, der Schrein, der die Reliquie beherbergte, die sri-lankische Koenige fuer ihre Herrschaft brauchten. Er liegt am kuenstlichen See, den der letzte Koenig von Kandy 1807 bauen liess. Ihr Guide bringt Sie auch zu kleineren Tempeln ausserhalb der Hauptroute, Orten, die ruhig bleiben, auch wenn der Zahntempel voll ist, wo die Malerei und Holzarbeit kandyisch statt fuer Besucher restauriert sind.\n\nDas Mittagessen wird in einem Familienhaus statt in einem Restaurant eingenommen: Reis mit einer Auswahl an Currys, Sambol, Papadam und was auch immer an Gemuese saisonal ist, gekocht und serviert vom Haushalt. Es ist der klarste Einblick in die alltaegliche sri-lankische Kueche, den Sie bei einem Tagesausflug bekommen, und es gibt meist Zeit, zu fragen, wie jedes Gericht gemacht wird.\n\nDer Nachmittag beinhaltet eine Teeplantage an den Haengen ausserhalb der Stadt, mit einem Spaziergang durch die Pflueckfelder und die Fabrik vor der Rueckfahrt nach Colombo auf der Strasse. Planen Sie einen zwoelfstuendigen Tag von der Abholung bis zum Absetzen; der Zug uebernimmt die Hinfahrt, aber die Rueckfahrt dauert noch einige Stunden.",
+  "highlights": [
+   "Morgendlicher Zug von Colombo Fort auf der Berglinie durch den Kadugannawa-Pass",
+   "Tempel der Heiligen Zahnreliquie und Kandy-See",
+   "Ruhigere kandyische Tempel abseits der Hauptbesucherroute",
+   "Hausgemachtes Reis-und-Curry-Mittagessen mit einer einheimischen Familie",
+   "Teeplantagen- und Fabrikbesuch an den Haengen ausserhalb von Kandy"
+  ],
+  "included": [
+   "Englischsprachiger Guide fuer den Tag",
+   "Zugticket von Colombo nach Kandy",
+   "Abholung am Hotel in Colombo und Ruecktransfer per klimatisiertem Fahrzeug",
+   "hausgemachtes sri-lankisches Mittagessen bei einer Familie",
+   "Teeplantagen- und Fabrikbesuch",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer Tempel",
+   "Fruehstueck und Abendessen",
+   "Getraenke",
+   "Trinkgelder",
+   "Kameragebuehren",
+   "persoenliche Ausgaben",
+   "Reiseversicherung"
+  ]
+ },
+ "kandy-pinnawala-royal-botanic-gardens-day-trip-colombo": {
+  "title": "Tagesausflug ab Colombo: Kandy, Pinnawala und der Koenigliche Botanische Garten",
+  "metaTitle": "Kandy, Pinnawala und Koeniglicher Garten",
+  "metaDescription": "Ein langer Tag ab Colombo mit den Elefanten von Pinnawala, einem Gewuerzgarten, dem Zahntempel in Kandy und dem Koeniglichen Botanischen Garten.",
+  "shortDescription": "Ein langer Tag ab Colombo mit den Elefanten von Pinnawala, einem Spaziergang durch einen Gewuerzgarten, dem Tempel der Heiligen Zahnreliquie in Kandy, dem Koeniglichen Botanischen Garten in Peradeniya und einer aktiven Teefabrik.",
+  "fullDescription": "Kandy war das letzte unabhaengige Koenigreich auf der Insel und hielt sich in den Huegeln, bis die Briten es 1815 einnahmen, und der Tempel der Heiligen Zahnreliquie in seinem Zentrum ist der Grund, warum er immer noch zaehlt. Die dort aufbewahrte Reliquie war historisch das, was einen sri-lankischen Koenig legitimierte: wer den Zahn hielt, hielt das Recht zu regieren. Es ist ein aktiver Ort der Verehrung, am belebtesten waehrend der taeglichen Pujas, wenn Trommler an der Schreintuer spielen.\n\nDie Fahrt von Colombo steigt landeinwaerts durch Kegalle und Mawanella, und die Strasse selbst ist Teil des Tages. Sie fahren an Kautschukplantagen, Staenden mit Cashewnuessen und Ananas und den Gewuerzgaerten vorbei, fuer die dieser Abschnitt bekannt ist. Die Tour haelt an einem fuer einen Spaziergang durch Zimt, Kardamom, Pfeffer und Vanille.\n\nPinnawala, nahe Kegalle, ist der Ort des Elefantenstopps des Tages. Es begann in den 1970er Jahren als Heim fuer verwaiste Kaelber und ist zu einem der meistbesuchten Orte auf dieser Route geworden, mit einer Herde, die zum Maha-Oya-Fluss gefuehrt wird. Es ist eine verwaltete, gefangene Umgebung statt einer wilden, und es lohnt sich, das vorher zu wissen.\n\nNach Kandy fuehrt die Route zum Koeniglichen Botanischen Garten in Peradeniya, angelegt in einer Schleife des Mahaweli-Flusses auf Grund, der einst der Kandy-Koenigsfamilie gehoerte. Das Orchideenhaus, der riesige javanische Feigenbaum und die Palmenallee sind die Hauptattraktionen, und eine Stunde vergeht schnell. Der letzte Stopp ist eine Teefabrik an den Plantagenhaengen, wo Sie dem Blatt vom Welktrog zum Roller zum Trockner folgen und das Ergebnis probieren.\n\nDer Transport erfolgt im privaten klimatisierten Auto mit eigenem Fahrer, das Tempo liegt also im vernuenftigen Rahmen bei Ihnen. Seien Sie realistisch bezueglich der Laenge: mit einer Abholung fruh am Morgen und einer Rueckkehr nach Einbruch der Dunkelheit ist dies ein dreizehnstuendiger Tag mit etwa 250 Kilometern Bergstrassen, und das Fahren ist ein echter Teil davon.",
+  "highlights": [
+   "Tempel der Heiligen Zahnreliquie, der Schrein im Herzen der kandyischen Koenigsherrschaft",
+   "Elefantenwaisenhaus Pinnawala, einschliesslich des Herdenspaziergangs zum Fluss",
+   "Koeniglicher Botanischer Garten in Peradeniya mit seinem Orchideenhaus und seiner Palmenallee",
+   "Gefuehrter Spaziergang durch einen Gewuerzgarten auf der Kandy-Strasse",
+   "Aktiver Teefabrikbesuch mit Verkostung am Ende",
+   "Privates klimatisiertes Auto mit Hotelabholung ab Colombo oder Negombo"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto mit englischsprachigem Fahrer",
+   "Abholung und Absetzen am Hotel in Colombo oder Negombo",
+   "Gewuerzgartenbesuch",
+   "Teefabrikbesuch und Verkostung",
+   "Flaschenwasser",
+   "Kraftstoff, Maut und Parken"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer den Zahntempel, Pinnawala und den Koeniglichen Botanischen Garten",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder",
+   "Kameragebuehren",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "udawalawe-national-park-elephant-safari-day-trip-colombo": {
+  "title": "Elefanten-Safari-Tagesausflug im Nationalpark Udawalawe ab Colombo",
+  "metaTitle": "Udawalawe ab Colombo",
+  "metaDescription": "Ein ganzer Tag ab Colombo zum Nationalpark Udawalawe, dem Reservat, in dem Sri Lankas Elefanten am zuverlaessigsten gesehen werden, mit Jeep-Safari.",
+  "shortDescription": "Ein ganzer Tag ab Colombo zum Nationalpark Udawalawe, dem Reservat, in dem Sri Lankas Elefanten am zuverlaessigsten gesehen werden, mit Jeep-Safari und Stopp am Elephant Transit Home.",
+  "fullDescription": "Udawalawe liegt am Rand der Trockenzone, etwa vier Stunden suedoestlich von Colombo, und ist der Park, zu dem Menschen gehen, wenn sie Elefanten sehen wollen statt auf sie zu hoffen. Das Reservat entstand um ein in den 1960er Jahren gebautes Reservoir, und das Grasland und Buschland, das das alte Ackerland ersetzte, passt Elefanten gut. Mehrere Hundert leben hier ganzjaehrig, Sichtungen sind also die Norm statt die Ausnahme.\n\nDer Tag beginnt frueh wegen der Fahrt. Ihr Fahrer holt Sie an Ihrem Hotel in Colombo oder an der Kueste bei Wadduwa, Moratuwa oder Panadura ab, und die Strasse fuehrt suedwaerts an der Kokosnussguertel vorbei, bevor sie landeinwaerts durch das Edelsteinland von Ratnapura abbiegt. Es ist eine lange Strecke im Auto, mit ein paar Teestopps auf dem Weg.\n\nAm Parkeingang wechseln Sie in einen Safari-Jeep mit einem Spurenleser fuer eine Pirschfahrt von etwa drei Stunden. Elefanten sind die Hauptattraktion, oft in Familiengruppen am Wasserrand, aber dieselbe Fahrt bringt auch Wasserbueffel, Axishirsche, Sambarhirsche, Krokodile im Reservoir und eine lange Liste von Voegeln zum Vorschein: Schlangenadler, Bienenfresser, Buntstoerche und, saisonal, Zugwatvoegel. Leoparden gibt es hier, werden aber selten gesehen, und jede Sichtung ist Glueck statt Erwartung.\n\nEs gibt eine Mittagspause in einem Restaurant nahe dem Reservat, auf eigene Kosten, damit Sie bestellen koennen, was Sie moechten, und dann einen Stopp am Udawalawe Elephant Transit Home. Dies ist eine staatlich betriebene Einrichtung, in der verwaiste Kaelber fuer die Freilassung in die Wildnis aufgezogen werden statt fuer Reiten gehalten zu werden, und Besucher beobachten die Fuetterung von einer Plattform zu einer festgelegten Zeit.\n\nSie sind spaet am Abend zuruck in Colombo. Es ist ein wirklich langer Tag mit insgesamt etwa acht Stunden auf der Strasse, und er funktioniert am besten fuer Reisende, die den Park lieber in einem Zug richtig machen, als die Reise mit einer Uebernachtung zu unterbrechen.",
+  "highlights": [
+   "Etwa dreistuendige Pirschfahrt durch Udawalawe, den zuverlaessigsten Park Sri Lankas fuer wilde Elefanten",
+   "Privates klimatisiertes Auto ab Colombo mit Hotelabholung und Absetzen",
+   "Besuch des Udawalawe Elephant Transit Home, wo verwaiste Kaelber fuer die Freilassung aufgezogen werden",
+   "Wasserbueffel, Krokodile, Axishirsche und starke Vogelwelt rund um das Reservoir",
+   "Parkeintrittskarten und der Safari-Jeep mit Spurenleser fuer Sie organisiert"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug mit englischsprachigem Fahrer",
+   "Abholung und Absetzen am Hotel in Colombo, Wadduwa, Moratuwa oder Panadura",
+   "Eintrittskarten fuer den Nationalpark Udawalawe",
+   "Safari-Jeep mit Spurenleser fuer die Pirschfahrt",
+   "Eintritt ins Elephant Transit Home",
+   "Flaschenwasser",
+   "aller Kraftstoff, Maut und Parken"
+  ],
+  "notIncluded": [
+   "Mittagessen und andere Mahlzeiten",
+   "Getraenke",
+   "Trinkgelder fuer Fahrer, Guide und Jeep-Spurenleser",
+   "Kameragebuehren, falls berechnet",
+   "persoenliche Ausgaben",
+   "Reiseversicherung"
+  ]
+ },
+ "dambulla-cave-temples-pidurangala-rock-day-trip-colombo": {
+  "title": "Hoehlentempel von Dambulla und Pidurangala-Felsen: Tagesausflug ab Colombo",
+  "metaTitle": "Dambulla und Pidurangala",
+  "metaDescription": "Ein langer Tag ab Colombo zu den bemalten Hoehlentempeln von Dambulla und der Besteigung des Pidurangala, des Felsens mit Blick auf Sigiriya.",
+  "shortDescription": "Ein langer Tag ab Colombo zu den bemalten Hoehlentempeln von Dambulla und der Besteigung des Pidurangala, des Felsens, der direkt auf Sigiriya blickt.",
+  "fullDescription": "Dies verbindet zwei Standorte, die zehn Minuten voneinander entfernt in der Trockenzone liegen: die Hoehlentempel von Dambulla, bei denen es um bemalte Innenraeume und Kontinuitaet der Verehrung geht, und Pidurangala, bei dem es um eine Kletterpartie und eine Aussicht geht. Es ist ein vierzehnstuendiger Tag ab Colombo mit etwa sechseinhalb Stunden Fahrzeit, behandeln Sie es also als volle Verpflichtung.\n\nDambulla ist der groesste und am besten erhaltene Hoehlentempelkomplex Sri Lankas, seit dem ersten Jahrhundert vor unserer Zeitrechnung durchgehend als Kloster genutzt. Fuenf in den Ueberhang eines Granithuegels geschnittene Hoehlen beherbergen mehr als 150 Buddha-Figuren zusammen mit Statuen von Koenigen und hinduistischen Gottheiten. Die Malerei macht es aus: jede Decke und Wand ist bedeckt, die Wandmalereien folgen der Kruemmung des Felsens in Ockertoenen und Rottoenen, die ueber Jahrhunderte erneuert wurden. Die groesste Hoehle beherbergt einen 14 Meter langen liegenden Buddha, aus dem Fels gehauen.\n\nPidurangala ist der Gegenpol. Es ist der Felsen unmittelbar nordlich von Sigiriya, und es war ein Kloster, lange bevor Kashyapa seine Zitadelle gleich daneben baute. Der Aufstieg dauert etwa eine halbe Stunde: zunaechst steinerne Stufen, vorbei an einem liegenden Buddha aus Ziegeln, dann eine echte Kletterpartie ueber Felsbloecke fuer den letzten Abschnitt, bei dem Sie die Haende benutzen. Der Lohn oben ist der Blick auf Sigiriya, das aus dem Wald aufsteigt, den man von Sigiriya selbst nicht bekommt.\n\nViele entscheiden sich fuer Pidurangala, weil es der ruhigere und guenstigere der beiden Felsen ist, ohne Warteschlangen an den Treppen. Wenn Sie stattdessen Sigiriya besteigen moechten, ist das eine andere Reise mit einem anderen Ticket, seien Sie also bei der Buchung klar.\n\nDer Tag beinhaltet Fruehstueck auf der Strasse, anderthalb Stunden Zeit fuer Mittagessen nahe Sigiriya, und die lange Fahrt nach Hause. Ihr Fahrer-Guide uebernimmt Route und Zeitplanung. Starten Sie fruh: sowohl die Hoehlen als auch der Felsen sind vor der Mitte des Tages weit angenehmer, und die Rueckfahrt ist bei Tageslicht leichter.",
+  "highlights": [
+   "Fuenf bemalte Hoehlen in Dambulla mit mehr als 150 Buddha-Statuen und einer 14 Meter langen liegenden Figur",
+   "Wandmalereien, die jede Wand und Decke bedecken, erneuert ueber mehr als zweitausend Jahre Verehrung",
+   "Der halbstuendige Aufstieg auf Pidurangala, endend mit einer Kletterpartie ueber Felsbloecke",
+   "Der beste Blick auf den Felsen von Sigiriya, den man nur von Pidurangala aus bekommt",
+   "Privates klimatisiertes Auto mit Fahrer-Guide, Abholung und Absetzen am Hotel in Colombo"
+  ],
+  "included": [
+   "Klimatisiertes Auto mit Fahrer und Kraftstoff",
+   "englischsprachiger Fahrer-Guide",
+   "Abholung und Absetzen am Hotel in Colombo",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Eintrittskarten fuer den Hoehlentempel Dambulla und Pidurangala",
+   "Fruehstueck und Mittagessen",
+   "Getraenke",
+   "Trinkgelder"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Flyboard-Erlebnis in Pattaya",
   "fullDescription": "Dies ist ein 30-minütiges Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Flyboard-Erlebnis, Betreuung durch einen Instructor, Sicherheitsausrüstung und Duschen. Nicht enthalten sind Fotos und Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
