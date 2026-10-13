@@ -249,6 +249,24 @@ export const ISTANBUL_INFO_SLUGS = [
   'istanbul-whirling-dervishes-guide', 'istanbul-turkish-coffee-culture-guide', 'istanbul-weekend-guide',
 ];
 
+// Qatar launched 2026-10 with 850 live tours (single city: Doha) and
+// zero authority pages. This is the first batch, 31 pages. Reached via
+// getQatarInfoContent() -> getCityInfoContent(). Re-add a slug here ONLY
+// once its page exists in lib/qatarInfoContent.ts — isInfoSlug() gates the route.
+export const DOHA_INFO_SLUGS = [
+  'best-time-to-visit-doha', 'things-to-do-in-doha', 'doha-travel-guide-2026',
+  'doha-1-day-itinerary', 'doha-3-day-itinerary', 'qatar-visa-guide-for-tourists',
+  'museum-of-islamic-art-doha', 'souq-waqif-guide', 'doha-desert-safari-guide',
+  'the-pearl-qatar-guide', 'doha-corniche-guide', 'katara-cultural-village-guide',
+  'doha-skyline-west-bay-guide', 'doha-food-guide', 'doha-shopping-malls-guide',
+  'qatar-world-cup-2022-legacy-doha', 'doha-7-day-itinerary', 'doha-with-kids-guide',
+  'doha-budget-travel-guide', 'doha-luxury-travel-guide', 'doha-beaches-guide',
+  'doha-dhow-cruise-guide', 'al-zubarah-fort-day-trip', 'doha-nightlife-guide',
+  'zekreet-film-city-guide', 'doha-islamic-architecture-guide', 'doha-falcon-souq-guide',
+  'inland-sea-khor-al-adaid-guide', 'doha-ramadan-travel-guide', 'doha-weekend-guide',
+  'doha-airport-stopover-guide',
+];
+
 export const BUSAN_INFO_SLUGS = [
   'best-time-to-visit-busan', 'things-to-do-in-busan', 'busan-travel-guide-2026',
   'busan-1-day-itinerary', 'haeundae-beach-guide', 'gamcheon-culture-village-guide',
