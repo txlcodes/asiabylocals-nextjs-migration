@@ -98916,6 +98916,221 @@ export const DE_TOURS: Record<string, TourT> = {
    "persoenliche Ausgaben"
   ]
  },
+ "kandy-wood-carving-and-hand-painting-workshop-with-a-local-artisan": {
+  "title": "Holzschnitz- und Handbemalungs-Workshop in Kandy mit einem lokalen Kunsthandwerker",
+  "metaTitle": "Holzschnitzen in Kandy",
+  "metaDescription": "Ein fuenfstuendiger Workshop mit einem Kandy-Holzschnitzer: beobachten Sie die traditionellen Techniken, dann schnitzen und bemalen Sie Ihr eigenes Stueck.",
+  "shortDescription": "Ein fuenfstuendiger Workshop mit einem Kandy-Holzschnitzer: beobachten Sie die traditionellen Techniken, dann schnitzen und bemalen Sie von Hand Ihr eigenes Stueck, Material inklusive.",
+  "fullDescription": "Kandy ist eine Holzbearbeitungsstadt, solange es eine Hauptstadt ist. Der Zahntempel, die alte Audienzhalle und die Masken der Trommler stammen alle aus derselben Handwerkstradition, und es gibt noch Familienwerkstaetten in und um die Stadt, wo die Arbeit von Hand statt mit der Maschine erfolgt.\n\nDiese Sitzung beginnt mit einer Vorfuehrung. Der Kunsthandwerker geht die Werkzeuge durch, die Stechbeitel, den Holzhammer, die Art, wie ein Muster auf den Rohling uebertragen wird, und erklaert, was die wiederkehrenden Kandy-Motive bedeuten, denn der Lotus, die Liya-Vela-Rebe und die geometrischen Raender sind ein Vokabular statt Dekoration.\n\nDann machen Sie etwas. Sie erhalten einen vorbereiteten Rohling, und mit dem Kunsthandwerker an Ihrer Seite schnitzen Sie ein Muster und bemalen es von Hand. Niemand erwartet, dass ein erster Versuch gut ist, und der Sinn ist nicht, ein verkaeufliches Objekt zu produzieren, sondern ein paar Stunden damit zu verbringen, mit Ihren Haenden zu tun, was Sie die ganze Woche fotografiert haben, und herauszufinden, wie viel langsamer und schwieriger es ist, als es aussieht.\n\nSie behalten, was Sie machen. Alle Materialien, Werkzeuge und Farben werden gestellt, und das Stueck ist klein genug, um nach Hause zu reisen.\n\nKandy war die letzte Hauptstadt der singhalesischen Koenige und hielt gegen Portugiesen und Niederlaender durch, bis die Briten sie 1815 einnahmen, und der Tempel der Heiligen Zahnreliquie am See ist der Grund, warum sie wichtig ist: Die Reliquie, von der man glaubt, es sei ein Zahn des Buddha, ist das heiligste Objekt der Insel, und ihre Verwahrung legitimierte einst das Koenigtum. Die Reliquienkammer oeffnet dreimal taeglich fuer Puja, etwa um 5:30, 9:30 und 18:30 Uhr, wenn das Trommeln beginnt und die Schlange am Reliquienschrein vorbeizieht. Die Kleidung bedeckt Schultern und Knie, Schuhe werden am Eingang ausgezogen, und die Esala Perahera im Juli oder August fuehrt den Schrein auf einem Elefanten zehn Naechte lang durch die Stadt.",
+  "highlights": [
+   "Ein aktives Kandy-Holzschnitzatelier, keine Vorfuehrung fuer Reisegruppen",
+   "Die Werkzeuge und die Uebertragungstechnik erklaert, bevor Sie etwas beruehren",
+   "Die Bedeutung hinter Lotus, Liya Vela und den Randmotiven, die sich in der Kandy-Kunst wiederholen",
+   "Schnitzen und bemalen Sie Ihr eigenes Stueck von Hand, mit dem Kunsthandwerker an Ihrer Seite",
+   "Alle Materialien, Werkzeuge und Farben inklusive, und Sie behalten, was Sie machen"
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt in Kandy",
+   "die volle Workshop-Sitzung mit einem lokalen Kunsthandwerker",
+   "alle Werkzeuge, Rohlinge und Farben",
+   "das Stueck, das Sie machen"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder",
+   "zusaetzliche im Workshop gekaufte Stuecke",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "kandy-and-pinnawala-day-trip-from-bentota-with-the-temple-of-the-tooth": {
+  "title": "Kandy- und Pinnawala-Tagesausflug ab Bentota mit dem Zahntempel",
+  "metaTitle": "Kandy und Pinnawala ab Bentota",
+  "metaDescription": "Ein langer Tag landeinwaerts von der Kueste Bentota zur Bergeshauptstadt: das Elefantenwaisenhaus Pinnawala, der Zahntempel in Kandy und Peradeniya.",
+  "shortDescription": "Ein langer Tag landeinwaerts von der Kueste Bentota zur Bergeshauptstadt: das Elefantenwaisenhaus Pinnawala, der Zahntempel in Kandy und der Koenigliche Botanische Garten Peradeniya.",
+  "fullDescription": "Bentota ist eine Strandstadt und Kandy liegt dreieinhalb Stunden landeinwaerts, was dies zu einem langen Tag macht, aber fuer jeden, dessen Sri-Lanka-Reise sonst ganz an der Kueste verlaeuft, ist es der eine Tag, der ihnen das andere Land zeigt.\n\nPinnawala ist der erste Stopp und verdient eine ehrliche Beschreibung. Es ist ein 1975 fuer verlassen oder verletzt aufgefundene Tiere gegruendetes Elefantenwaisenhaus, es beherbergt rund achtzig Elefanten, und es ist auch stark kommerzialisiert, mit Badesitzungen, die auf Reisegruppen abgestimmt sind, und Flaschenfuetterung, fuer die man bezahlen kann. Die Tiere sind echt und die Rettungsarbeit ist echt; die Praesentation ist fuer Besucher aufgebaut. Wenn diese Kombination Ihnen nicht zusagt, sagen Sie es bei der Buchung, und der Stopp kann ersetzt werden.\n\nKandy ist der Hoehepunkt des Tages. Der Zahntempel beherbergt eine Reliquie des Buddha und ist der Grund, warum Kandy eine UNESCO-Weltkulturerbestaette ist, und die Stadt darum herum, der See, den der letzte Koenig 1807 ausheben liess, der Markt, die Huegel, die sich von allen Seiten schliessen, ist ein voellig anderes Sri Lanka als die Kueste, von der Sie heraufgefahren sind.\n\nDer Koenigliche Botanische Garten Peradeniya, knapp ausserhalb von Kandy, schliesst den Tag vor der langen Rueckfahrt ab.\n\nKandy war die letzte Hauptstadt der singhalesischen Koenige und hielt gegen Portugiesen und Niederlaender durch, bis die Briten sie 1815 einnahmen, und der Tempel der Heiligen Zahnreliquie am See ist der Grund, warum sie wichtig ist: Die Reliquie, von der man glaubt, es sei ein Zahn des Buddha, ist das heiligste Objekt der Insel, und ihre Verwahrung legitimierte einst das Koenigtum. Die Reliquienkammer oeffnet dreimal taeglich fuer Puja, etwa um 5:30, 9:30 und 18:30 Uhr, wenn das Trommeln beginnt und die Schlange am Reliquienschrein vorbeizieht. Die Kleidung bedeckt Schultern und Knie, Schuhe werden am Eingang ausgezogen, und die Esala Perahera im Juli oder August fuehrt den Schrein auf einem Elefanten zehn Naechte lang durch die Stadt.",
+  "highlights": [
+   "Der eine Tag, der einer strandbasierten Reise das Bergland zeigt",
+   "Pinnawala, ein Elefantenwaisenhaus mit rund achtzig geretteten Tieren",
+   "Der Zahntempel, der Grund, warum Kandy eine Weltkulturerbestaette ist",
+   "Der See von Kandy und die Stadt in ihrem Huegelring",
+   "Der Koenigliche Botanische Garten Peradeniya"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Bentota oder Kalutara",
+   "alle Fahrten",
+   "Kraftstoff und Parken"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer Pinnawala, den Zahntempel und den botanischen Garten",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder"
+  ]
+ },
+ "udawalawe-to-kandy-private-transfer-via-ella-the-nine-arch-bridge": {
+  "title": "Privater Transfer von Udawalawe nach Kandy ueber Ella, die Neun-Bogen-Bruecke und Nuwara Eliya",
+  "metaTitle": "Udawalawe nach Kandy ueber Ella",
+  "metaDescription": "Der lange Aufstieg von Udawalawe durch Ella und das Teeland nach Kandy, mit Stopps an den Ravana-Wasserfaellen, Little Adam’s Peak und der Neun-Bogen-Bruecke.",
+  "shortDescription": "Der lange Aufstieg von Udawalawe durch Ella und das Teeland nach Kandy, mit Stopps an den Ravana-Wasserfaellen, Little Adam’s Peak, der Neun-Bogen-Bruecke und dem Seetha-Amman-Tempel auf dem Weg.",
+  "fullDescription": "Von Udawalawe nach Kandy durchquert die Insel von der suedlichen Ebene zu den zentralen Bergen, und die Strasse fuehrt durch Ella, was bedeutet, dass die zwei oder drei Dinge, fuer die jeder nach Ella kommt, direkt auf Ihrer Route liegen.\n\nDie Ravana-Wasserfaelle sind die ersten, eine breite 25-Meter-Kaskade direkt an der Strasse suedlich von Ella, benannt nach dem Daemonenkoenig des Ramayana, der Sita angeblich in den Hoehlen darueber versteckt hielt. Little Adam’s Peak folgt: ein 45-minuetiger Aufstieg einen gestuften Pfad hinauf zur besten Aussicht der Gegend, durch die Luecke in den Huegeln zur Suedkueste.\n\nDie Neun-Bogen-Bruecke liegt zwanzig Gehminuten durch Tee von der Ella-Strasse entfernt. Sie wurde waehrend des Ersten Weltkriegs in Stein und Backstein ohne Stahl errichtet, als der dafuer vorgesehene Stahl der Kriegsanstrengung zugeteilt wurde, und Zuege ueberqueren sie etwa alle zwei Stunden.\n\nDer Seetha-Amman-Tempel bei Nuwara Eliya ist eine weitere Ramayana-Staette, hell bemalt und von indischen Pilgern besucht. Von dort steigt die Strasse auf 1.900 Meter und faellt dann auf dem langen Weg nach Kandy ab, mit Ankunft am Abend.\n\nKandy war die letzte Hauptstadt der singhalesischen Koenige und hielt gegen Portugiesen und Niederlaender durch, bis die Briten sie 1815 einnahmen, und der Tempel der Heiligen Zahnreliquie am See ist der Grund, warum sie wichtig ist: Die Reliquie, von der man glaubt, es sei ein Zahn des Buddha, ist das heiligste Objekt der Insel, und ihre Verwahrung legitimierte einst das Koenigtum. Die Reliquienkammer oeffnet dreimal taeglich fuer Puja, etwa um 5:30, 9:30 und 18:30 Uhr, wenn das Trommeln beginnt und die Schlange am Reliquienschrein vorbeizieht. Die Kleidung bedeckt Schultern und Knie, Schuhe werden am Eingang ausgezogen, und die Esala Perahera im Juli oder August fuehrt den Schrein auf einem Elefanten zehn Naechte lang durch die Stadt.",
+  "highlights": [
+   "Die gesamte Durchquerung von der suedlichen Ebene zu den zentralen Bergen an einem gefuehrten Tag",
+   "Die Ravana-Wasserfaelle, eine breite Kaskade an der Strasse",
+   "Little Adam’s Peak, ein 45-minuetiger Aufstieg zur besten Aussicht in Ella",
+   "Die Neun-Bogen-Bruecke, errichtet ohne Stahl waehrend des Ersten Weltkriegs",
+   "Der Ramayana-Tempel Seetha Amman und das Teeland darueber hinaus"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung in der Region Udawalawe",
+   "alle Stopps auf der Route",
+   "Absetzen an Ihrem Hotel in Kandy",
+   "Gepaecktransport durchgehend"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren, falls zutreffend",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "kandy-to-nuwara-eliya-or-ambewela-station-transfer-with-craft-workshop": {
+  "title": "Transfer von Kandy nach Nuwara Eliya oder zum Bahnhof Ambewela mit Handwerks-Workshop-Stopps",
+  "metaTitle": "Kandy nach Nuwara Eliya mit Workshops",
+  "metaDescription": "Ein gefuehrter Transfer von Kandy ins Teeland mit einem Edelsteinmuseum und Handwerkswerkstaetten, Absetzen in Nuwara Eliya oder Ambewela.",
+  "shortDescription": "Ein gefuehrter Transfer von Kandy ins Teeland mit einem Edelsteinmuseum, einer Holzschnitzwerkstatt und einem Batik-Studio auf dem Weg, und Absetzen in Nuwara Eliya oder am Bahnhof Ambewela.",
+  "fullDescription": "Ambewela ist der Bahnhof oberhalb von Nanu Oya auf der Bergbahnlinie, und er ist ein nuetzlicher Absetzpunkt, wenn Sie dort statt am belebteren Bahnhof unten in den Zug steigen. Dieser Transfer bringt Sie zu einem der beiden, oder einfach zu Ihrem Hotel in Nuwara Eliya.\n\nDie Stopps auf dem Weg hinauf sind handwerkliche statt des ueblichen Wasserfall-und-Fabrik-Sets. Zuerst ein Edelsteinmuseum und eine Schleifwerkstatt, Sri Lanka foerdert seit zweitausend Jahren Saphire, der Handel verlaeuft durch Ratnapura und Kandy, und einen geschliffenen und eingestuften Stein zu sehen erklaert viel darueber, warum die Laeden in jeder Touristenstadt dasselbe zu vollkommen unterschiedlichen Preisen verkaufen. Dann ein Holzschnitzatelier, wo die Kandy-Motive mit Handwerkzeugen in Ebenholz und Jak geschnitten werden, und eine Batik-Werkstatt, wo Wachs von Hand auf Stoff aufgetragen und der Stoff ueber mehrere Tage in Schichten gefaerbt wird.\n\nDie Strasse steigt dann durch Ramboda in die Plantagen, und die letzte Stunde ist Tee auf beiden Seiten.\n\nDas Absetzen erfolgt an Ihrem Hotel in Nuwara Eliya oder am Bahnhof Ambewela, vereinbart bei der Buchung.\n\nKandy war die letzte Hauptstadt der singhalesischen Koenige und hielt gegen Portugiesen und Niederlaender durch, bis die Briten sie 1815 einnahmen, und der Tempel der Heiligen Zahnreliquie am See ist der Grund, warum sie wichtig ist: Die Reliquie, von der man glaubt, es sei ein Zahn des Buddha, ist das heiligste Objekt der Insel, und ihre Verwahrung legitimierte einst das Koenigtum. Die Reliquienkammer oeffnet dreimal taeglich fuer Puja, etwa um 5:30, 9:30 und 18:30 Uhr, wenn das Trommeln beginnt und die Schlange am Reliquienschrein vorbeizieht. Die Kleidung bedeckt Schultern und Knie, Schuhe werden am Eingang ausgezogen, und die Esala Perahera im Juli oder August fuehrt den Schrein auf einem Elefanten zehn Naechte lang durch die Stadt.",
+  "highlights": [
+   "Absetzen in Nuwara Eliya oder am Bahnhof Ambewela fuer die Bergbahn",
+   "Ein Edelsteinmuseum und eine Schleifwerkstatt in einem Land, das seit Jahrtausenden Saphire foerdert",
+   "Ein Kandy-Holzschnitzatelier, das Ebenholz und Jak von Hand bearbeitet",
+   "Eine Batik-Werkstatt, wo das Wachs von Hand aufgetragen und in Schichten gefaerbt wird",
+   "Der Aufstieg durch Ramboda in die Teeplantagen"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung in Kandy",
+   "alle Workshop-Stopps",
+   "Absetzen in Nuwara Eliya oder am Bahnhof Ambewela",
+   "Gepaecktransport durchgehend"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren, falls zutreffend",
+   "Zugtickets",
+   "Mahlzeiten und Getraenke",
+   "Kaeufe in den Werkstaetten",
+   "Trinkgelder"
+  ]
+ },
+ "sigiriya-to-nuwara-eliya-private-transfer-with-dambulla-and-a-spice": {
+  "title": "Privater Transfer von Sigiriya nach Nuwara Eliya mit Dambulla und einem Gewuerzgarten",
+  "metaTitle": "Sigiriya nach Nuwara Eliya mit Dambulla",
+  "metaDescription": "Ein privater Transfer von Sigiriya oder Dambulla hinauf nach Nuwara Eliya, mit den Felsentempeln von Dambulla, dem Gewuerzgarten von Matale und einer Pause in Kandy.",
+  "shortDescription": "Ein privater Transfer von Sigiriya oder Dambulla hinauf nach Nuwara Eliya, mit den Felsentempeln von Dambulla, dem Gewuerzgarten von Matale und einer Pause in Kandy auf dem Weg ins Teeland.",
+  "fullDescription": "Dies ist der lange Aufstieg, von der Ebene der Trockenzone auf etwa 100 Metern bis nach Nuwara Eliya auf 1.900, quer durch die gesamte Mitte der Insel. Die Landschaft wechselt dreimal, und es lohnt sich anzuhalten, um das zu bemerken.\n\nDambulla ist der erste Stopp, fuenfzehn Minuten von Sigiriya entfernt: fuenf Hoehlen unter einem Granituberhang, zweitausend Jahre lang durchgehend bemalt, mit rund 150 Buddha-Statuen. Der Zugangsweg ist steiler, als er aussieht.\n\nMatale ist Gewuerzland. Die Gaerten bauen Zimt, Kardamom, Pfeffer, Muskatnuss und Vanille zusammen an, und ein gefuehrter Spaziergang macht die Unterschiede auf eine Weise deutlich, die Lesen darueber nicht kann.\n\nKandy liegt etwa auf halber Strecke und der Stopp ist kurz, der See und das Aussere des Zahntempels, es sei denn, Sie moechten eine Stunde und die Gebuehr fuer den Eintritt hinzufuegen. Von Kandy steigt die Strasse und haelt nicht an, und um Ramboda weicht der Wald dem Tee.\n\nSie erreichen Nuwara Eliya am Nachmittag, auf 1.900 Metern, wo die Luft kalt ist und die Stadt noch die Pferderennbahn, den Golfplatz und das Postamt im Tudor-Stil hat, die die Briten zuruecklassen.\n\nSigiriya ist eine 200 Meter hohe Felssaeule, die aus der Ebene der Trockenzone aufsteigt, auf der Koenig Kasyapa im fuenften Jahrhundert seinen Palast errichtete, nachdem er den Thron an sich gerissen hatte, und es ist seit 1982 eine UNESCO-Staette. Der Aufstieg umfasst etwa 1.200 Stufen auf Treppen und Eisenstegen, vorbei an der Spiegelwand mit ihren tausend Jahre alten Graffiti und der geschuetzten Galerie mit Fresken, bis zu den Lowenpfoten, die dem Felsen seinen Namen geben, und den Palastgrundmauern auf dem Gipfel. Es dauert fuer die meisten Leute anderthalb Stunden hin und zurueck und sollte am besten um 7:00 Uhr beginnen, vor der Hitze und den Reisebussen; das Ticket fuer auslaendische Besucher ist eines der teuersten im Land, und Pidurangala, der benachbarte Felsen, bietet den klassischen Blick auf Sigiriya fuer einen Bruchteil davon.",
+  "highlights": [
+   "Der gesamte Aufstieg von der Ebene der Trockenzone auf 1.900 Meter an einem Tag",
+   "Die Felsentempel von Dambulla, fuenfzehn Minuten von Sigiriya entfernt",
+   "Ein Gewuerzgarten von Matale mit Zimt, Kardamom und Pfeffer zusammen angebaut",
+   "Ein Stopp in Kandy etwa auf halber Strecke",
+   "Absetzen an Ihrem Hotel in Nuwara Eliya im Teeland"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung in Sigiriya oder Dambulla",
+   "alle Stopps",
+   "Absetzen an Ihrem Hotel in Nuwara Eliya",
+   "Gepaecktransport durchgehend"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren in Dambulla und anderswo",
+   "Mahlzeiten und Getraenke",
+   "Gewuerzkaeufe",
+   "Trinkgelder"
+  ]
+ },
+ "sigiriya-to-kandy-transfer-with-a-kandy-city-tour-on-arrival": {
+  "title": "Transfer von Sigiriya nach Kandy mit einer Kandy-Stadtfuehrung bei Ankunft",
+  "metaTitle": "Sigiriya nach Kandy mit Stadtfuehrung",
+  "metaDescription": "Die Fahrt von Sigiriya nach Kandy mit den Strassenstopps und einer Stadtfuehrung nach Ankunft: die Dambulla-Hoehlen, ein Gewuerzgarten, dann der Zahntempel.",
+  "shortDescription": "Die Fahrt von Sigiriya nach Kandy mit den Strassenstopps und einer Stadtfuehrung nach Ankunft: die Dambulla-Hoehlen, ein Gewuerzgarten, ein Holzschnitzatelier, dann der Zahntempel, der See und die Aussichtspunkte.",
+  "fullDescription": "Die meisten Transfers von Sigiriya nach Kandy setzen Sie am frueren Nachmittag an Ihrem Hotel ab und lassen Sie die Stadt selbst erkunden. Dieser behaelt den Guide fuer den Rest des Tages und verwandelt die Ankunft in eine Fuehrung.\n\nDer Strassenabschnitt ist der standardmaessige und gute: die Felsentempel von Dambulla, fuenfzehn Minuten von Sigiriya entfernt, fuenf Hoehlen unter einem Granituberhang, zweitausend Jahre lang bemalt; ein Gewuerzgarten von Matale mit Zimt, Kardamom, Pfeffer und Muskatnuss zusammen; und ein Holzschnitz- oder Kraeuterworkshop im Handwerksviertel auf dem Weg hinunter.\n\nIn Kandy geht der Tag weiter statt aufzuhoeren. Der Bahirawakanda-Buddha auf dem Huegel oberhalb der Stadt hat die beste kostenlose Aussicht der Stadt. Der See, den der letzte Koenig 1807 ausheben liess, ist ein flacher Spaziergang. Der Zahntempel ist der Grund, warum Kandy eine Weltkulturerbestaette ist, und wenn das Timing passt, koennen Sie dort fuer die 18:30-Uhr-Puja sein, wenn sich die Reliquienkammer oeffnet.\n\nSie enden an Ihrem Hotel, nachdem Sie sowohl die Fahrt als auch die Stadt an einem Tag abgedeckt haben, was bei einem engen Reiseplan einen ganzen Tag der Reise erspart.\n\nSigiriya ist eine 200 Meter hohe Felssaeule, die aus der Ebene der Trockenzone aufsteigt, auf der Koenig Kasyapa im fuenften Jahrhundert seinen Palast errichtete, nachdem er den Thron an sich gerissen hatte, und es ist seit 1982 eine UNESCO-Staette. Der Aufstieg umfasst etwa 1.200 Stufen auf Treppen und Eisenstegen, vorbei an der Spiegelwand mit ihren tausend Jahre alten Graffiti und der geschuetzten Galerie mit Fresken, bis zu den Lowenpfoten, die dem Felsen seinen Namen geben, und den Palastgrundmauern auf dem Gipfel. Es dauert fuer die meisten Leute anderthalb Stunden hin und zurueck und sollte am besten um 7:00 Uhr beginnen, vor der Hitze und den Reisebussen; das Ticket fuer auslaendische Besucher ist eines der teuersten im Land, und Pidurangala, der benachbarte Felsen, bietet den klassischen Blick auf Sigiriya fuer einen Bruchteil davon.",
+  "highlights": [
+   "Ein Transfer, der sich in eine Stadtfuehrung verwandelt statt an der Hoteltuer zu enden",
+   "Die Felsentempel von Dambulla und ein Gewuerzgarten von Matale auf der Strasse",
+   "Der Bahirawakanda-Buddha und die Aussicht ueber Kandy",
+   "Der Zahntempel, wenn moeglich abgestimmt auf die Abend-Puja",
+   "Sowohl die Fahrt als auch die Stadt an einem einzigen Tag abgedeckt"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung in Sigiriya, Dambulla oder Habarana",
+   "alle Strassenstopps",
+   "die Kandy-Stadtfuehrung",
+   "Absetzen an Ihrem Hotel in Kandy",
+   "Gepaecktransport durchgehend"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren in Dambulla und am Zahntempel",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder",
+   "Werkstattkaeufe"
+  ]
+ },
+ "kandy-to-trincomalee-transfer-via-sigiriya-rock-and-the-dambulla-caves": {
+  "title": "Transfer von Kandy nach Trincomalee ueber den Fels von Sigiriya und die Hoehlen von Dambulla",
+  "metaTitle": "Kandy nach Trincomalee ueber Sigiriya",
+  "metaDescription": "Die Fahrt von Kandy zur Ostkueste mit beiden Staetten des Kulturdreiecks eingebaut: der Fels von Sigiriya und die Hoehlen von Dambulla auf dem Weg nach Trincomalee.",
+  "shortDescription": "Die Fahrt von Kandy zur Ostkueste mit beiden Staetten des Kulturdreiecks eingebaut: der Fels von Sigiriya und die Hoehlen von Dambulla auf dem Weg, dann weiter nach Trincomalee zum Absetzen an Ihrem Hotel.",
+  "fullDescription": "Von Kandy nach Trincomalee ist eine lange Fahrt mit den zwei besten Staetten des Landes fast genau auf der Route, was es zu einer echten Verschwendung macht, sie als blossen Transfer zu machen.\n\nSigiriya kommt zuerst und fruh. Die Zitadelle aus dem fuenften Jahrhundert auf dem Granitpfropfen hat 1.200 Stufen, vorbei an den Spiegelwand-Fresken und den Lowenpfoten, mit symmetrischen Wassergaerten darunter, die nach fuenfzehnhundert Jahren noch funktionieren. Sie am Morgen zu besteigen, macht den Unterschied zwischen einer guten Stunde und einer harten.\n\nDambulla ist fuenfzehn Minuten entfernt: fuenf Hoehlen, unter einem Granituberhang geschnitten und zweitausend Jahre lang vom Boden bis zur Decke bemalt, mit rund 150 Buddha-Statuen. Kuehl und dunkel, was am spaeten Vormittag willkommen ist.\n\nVon Dambulla sind es etwa zweieinhalb Stunden nordoestlich nach Trincomalee, und die Landschaft flacht und trocknet unterwegs aus. Trincomalee hat einen der schoensten natuerlichen Tiefwasserhaefen der Welt, den Koneswaram-Tempel auf einer Klippe darueber, und die Strände von Uppuveli und Nilaveli, die von Mai bis September auf der trockenen Seite der Insel liegen, genau dann, wenn die Suedkueste unbeschwimmbar ist.\n\nSigiriya ist eine 200 Meter hohe Felssaeule, die aus der Ebene der Trockenzone aufsteigt, auf der Koenig Kasyapa im fuenften Jahrhundert seinen Palast errichtete, nachdem er den Thron an sich gerissen hatte, und es ist seit 1982 eine UNESCO-Staette. Der Aufstieg umfasst etwa 1.200 Stufen auf Treppen und Eisenstegen, vorbei an der Spiegelwand mit ihren tausend Jahre alten Graffiti und der geschuetzten Galerie mit Fresken, bis zu den Lowenpfoten, die dem Felsen seinen Namen geben, und den Palastgrundmauern auf dem Gipfel. Es dauert fuer die meisten Leute anderthalb Stunden hin und zurueck und sollte am besten um 7:00 Uhr beginnen, vor der Hitze und den Reisebussen; das Ticket fuer auslaendische Besucher ist eines der teuersten im Land, und Pidurangala, der benachbarte Felsen, bietet den klassischen Blick auf Sigiriya fuer einen Bruchteil davon.",
+  "highlights": [
+   "Beide Staetten des Kulturdreiecks auf dem Weg statt als separater Tagesausflug",
+   "Sigiriya fruh bestiegen, vor der Hitze",
+   "Die Felsentempel von Dambulla etwas weiter entfernt",
+   "Absetzen an Ihrem Hotel in Trincomalee mit der Besichtigung bereits erledigt",
+   "Die Ankunft an der Ostkueste, die von Mai bis September trocken ist"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung in Kandy",
+   "beide Staettenbesuche",
+   "Absetzen an Ihrem Hotel in Trincomalee",
+   "Gepaecktransport durchgehend",
+   "Kraftstoff und Parken"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren in Sigiriya und Dambulla",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "heeloya-village-full-day-tour-from-kandy-with-organic-farming-and-lunch": {
+  "title": "Heeloya-Dorf-Ganztagestour ab Kandy mit Bio-Landwirtschaft und Mittagessen",
+  "metaTitle": "Heeloya-Dorf, Ganztagestour",
+  "metaDescription": "Ein voller Tag im Dorf Heeloya oestlich von Kandy: Bio-Landwirtschaft, Gewuerzanbau, Bewaesserung und Mittagessen mit der Familie.",
+  "shortDescription": "Ein voller Tag im Dorf Heeloya oestlich von Kandy mit laengerem Aufenthalt als die Halbtagesversionen: Bio-Landwirtschaft, Gewuerzanbau, das Bewaesserungssystem, und ein hausgemachtes Mittagessen mit der Familie.",
+  "fullDescription": "Heeloya ist ein Bauerndorf in den Huegeln oestlich von Kandy, und dies ist die lange Version des Besuchs, zehn statt acht Stunden, mit Zeit, sich zwischen den Dingen zu setzen, statt von einer Aktivitaet zur naechsten zu eilen.\n\nDer Vormittag gehoert dem Land. Sie gehen mit einem lokalen Gastgeber durch die Reisfelder, und die Bewaesserung wird erklaert: der Stausee, die Kanaele, die Reihenfolge, in der Felder Wasser erhalten. Sri Lanka betreibt dieses System seit zweitausend Jahren, und es ist ein Stueck Ingenieurskunst statt ein malerisches Detail.\n\nBio-Anbau ist die andere Haelfte. Dies sind Kleinbetriebe, keine Plantagen, und die Gewuerzparzellen bauen Pfeffer, Kardamom, Kurkuma und Zimt zwischen den Nahrungspflanzen an statt in Monokultur-Reihen, was sowohl die traditionelle Methode ist als auch der Grund, warum der Boden sich haelt.\n\nDas Mittagessen wird mit Ihrer Hilfe in einem Dorfhaus gekocht, Kokosnuss auf einem Hiramanaya gerieben, Gewuerzpaste auf einem Stein gemahlen, Tontoepfe ueber Holzfeuer, und mit der Familie gegessen, die Ihnen beim Zubereiten geholfen hat.\n\nDie zusaetzlichen Stunden gegenueber der Halbtagesversion fliessen in den Nachmittag: ein Ochsenkarren, ein Spaziergang, und genug Zeit, dass der Tag aufhoert, sich wie ein Zeitplan anzufuehlen.\n\nKandy war die letzte Hauptstadt der singhalesischen Koenige und hielt gegen Portugiesen und Niederlaender durch, bis die Briten sie 1815 einnahmen, und der Tempel der Heiligen Zahnreliquie am See ist der Grund, warum sie wichtig ist: Die Reliquie, von der man glaubt, es sei ein Zahn des Buddha, ist das heiligste Objekt der Insel, und ihre Verwahrung legitimierte einst das Koenigtum. Die Reliquienkammer oeffnet dreimal taeglich fuer Puja, etwa um 5:30, 9:30 und 18:30 Uhr, wenn das Trommeln beginnt und die Schlange am Reliquienschrein vorbeizieht. Die Kleidung bedeckt Schultern und Knie, Schuhe werden am Eingang ausgezogen, und die Esala Perahera im Juli oder August fuehrt den Schrein auf einem Elefanten zehn Naechte lang durch die Stadt.",
+  "highlights": [
+   "Volle zehn Stunden im Dorf statt eines Halbtagesbesuchs",
+   "Das Stausee-und-Kanal-Bewaesserungssystem erklaert von jemandem, der damit anbaut",
+   "Bio-Kleinbetriebe, wo Gewuerze zwischen den Nahrungspflanzen wachsen",
+   "Einen vollen Reis und Curry mit der Familie kochen und mit ihr essen",
+   "Ein Ochsenkarren und ein ungehetzter Nachmittag"
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt in Kandy",
+   "ein englischsprachiger Guide",
+   "der Dorfspaziergang und die landwirtschaftlichen Besuche",
+   "der Ochsenkarren",
+   "ein hausgemachtes Mittagessen"
+  ],
+  "notIncluded": [
+   "Getraenke ueber die zum Mittagessen servierten hinaus",
+   "Trinkgelder",
+   "persoenliche Ausgaben"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Flyboard-Erlebnis in Pattaya",
   "fullDescription": "Dies ist ein 30-minütiges Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Flyboard-Erlebnis, Betreuung durch einen Instructor, Sicherheitsausrüstung und Duschen. Nicht enthalten sind Fotos und Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",

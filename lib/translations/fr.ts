@@ -98916,6 +98916,221 @@ export const FR_TOURS: Record<string, TourT> = {
    "depenses personnelles"
   ]
  },
+ "kandy-wood-carving-and-hand-painting-workshop-with-a-local-artisan": {
+  "title": "Atelier de sculpture sur bois et peinture a la main a Kandy avec un artisan local",
+  "metaTitle": "Sculpture sur bois a Kandy",
+  "metaDescription": "Un atelier de cinq heures avec un sculpteur de Kandy: observez les techniques traditionnelles demontrees, puis sculptez et peignez votre propre piece.",
+  "shortDescription": "Un atelier de cinq heures avec un sculpteur de bois de Kandy: observez les techniques traditionnelles demontrees, puis sculptez et peignez a la main votre propre piece, materiel fourni.",
+  "fullDescription": "Kandy est une ville de travail du bois depuis aussi longtemps qu'elle est une capitale. Le Temple de la Dent, l'ancienne salle d'audience et les masques des tambourinaires sortent tous de la meme tradition artisanale, et il existe encore des ateliers familiaux dans et autour de la ville ou le travail se fait a la main plutot qu'a la machine.\n\nCette session commence par une demonstration. L'artisan parcourt les outils, les ciseaux, le maillet, la facon dont un dessin est transfere sur l'ebauche, et explique ce que signifient les motifs kandyens recurrents, car le lotus, la vigne liya vela et les bordures geometriques forment un vocabulaire plutot qu'une decoration.\n\nPuis vous fabriquez quelque chose. On vous donne une ebauche preparee, et avec l'artisan travaillant a vos cotes, vous sculptez un motif et le peignez a la main. Personne n'attend qu'un premier essai soit bon, et l'essentiel n'est pas de produire un objet vendable, c'est de passer quelques heures a faire de vos mains ce que vous avez photographie toute la semaine, et de decouvrir combien c'est plus lent et plus difficile que cela ne parait.\n\nVous gardez ce que vous fabriquez. Tout le materiel, les outils et les peintures sont fournis, et la piece est assez petite pour voyager chez vous.\n\nKandy fut la derniere capitale des rois cinghalais, resistant aux Portugais et aux Hollandais jusqu'a ce que les Britanniques la prennent en 1815, et le Temple de la Sainte Dent Relique sur le lac explique son importance: la relique, consideree comme une dent du Bouddha, est l'objet le plus sacre de l'ile et sa garde legitimait autrefois la royaute. La chambre de la relique ouvre pour le puja trois fois par jour, vers 5h30, 9h30 et 18h30, quand les tambours commencent et que la file avance devant le reliquaire. La tenue couvre epaules et genoux, les chaussures se retirent a l'entree, et l'Esala Perahera en juillet ou aout fait parader le reliquaire sur un elephant a travers la ville pendant dix nuits.",
+  "highlights": [
+   "Un atelier de sculpteur de bois kandyen en activite, pas une demonstration pour groupes touristiques",
+   "Les outils et la technique de transfert expliques avant que vous ne touchiez quoi que ce soit",
+   "La signification du lotus, de la vigne liya vela et des motifs de bordure repetes dans l’art kandyen",
+   "Sculpter et peindre a la main votre propre piece, avec l’artisan travaillant a vos cotes",
+   "Tout le materiel, les outils et les peintures inclus, et vous gardez ce que vous fabriquez"
+  ],
+  "included": [
+   "Prise en charge et depose a l’hotel a Kandy",
+   "la session complete de l’atelier avec un artisan local",
+   "tous les outils, ebauches et peintures",
+   "la piece que vous fabriquez"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "pourboires",
+   "pieces supplementaires achetees a l’atelier",
+   "depenses personnelles"
+  ]
+ },
+ "kandy-and-pinnawala-day-trip-from-bentota-with-the-temple-of-the-tooth": {
+  "title": "Excursion a Kandy et Pinnawala depuis Bentota avec le Temple de la Dent",
+  "metaTitle": "Kandy et Pinnawala depuis Bentota",
+  "metaDescription": "Une longue journee depuis la cote de Bentota vers Kandy: l'orphelinat de Pinnawala, le Temple de la Dent et Peradeniya.",
+  "shortDescription": "Une longue journee a l'interieur des terres depuis la cote de Bentota vers la capitale des montagnes: l'orphelinat d'elephants de Pinnawala, le Temple de la Dent a Kandy, et les jardins botaniques royaux de Peradeniya.",
+  "fullDescription": "Bentota est une ville de plage et Kandy se trouve a trois heures et demie a l'interieur des terres, ce qui fait de celle-ci une longue journee, mais pour quiconque a un voyage au Sri Lanka par ailleurs entierement cotier, c'est la journee qui montre l'autre pays.\n\nPinnawala est le premier arret et merite une description honnete. C'est un orphelinat d'elephants etabli en 1975 pour des animaux trouves abandonnes ou blesses, il abrite environ quatre-vingts elephants, et il est aussi fortement commercialise, avec des sessions de bain cadencees pour les groupes touristiques et un nourrissage au biberon que vous pouvez payer pour faire. Les animaux sont reels et le travail de sauvetage est reel; la presentation est construite pour les visiteurs. Si cette combinaison vous derange, dites-le lors de la reservation et l'arret peut etre remplace.\n\nKandy est le point culminant de la journee. Le Temple de la Dent abrite une relique du Bouddha et c'est la raison pour laquelle Kandy est un site du patrimoine mondial de l'UNESCO, et la ville autour, le lac creuse par le dernier roi en 1807, le marche, les collines qui se referment de tous cotes, est un Sri Lanka completement different de la cote d'ou vous etes partis.\n\nLes jardins botaniques royaux de Peradeniya, juste a l'exterieur de Kandy, cloturent la journee avant le long trajet de retour.\n\nKandy fut la derniere capitale des rois cinghalais, resistant aux Portugais et aux Hollandais jusqu'a ce que les Britanniques la prennent en 1815, et le Temple de la Sainte Dent Relique sur le lac explique son importance: la relique, consideree comme une dent du Bouddha, est l'objet le plus sacre de l'ile et sa garde legitimait autrefois la royaute. La chambre de la relique ouvre pour le puja trois fois par jour, vers 5h30, 9h30 et 18h30, quand les tambours commencent et que la file avance devant le reliquaire. La tenue couvre epaules et genoux, les chaussures se retirent a l'entree, et l'Esala Perahera en juillet ou aout fait parader le reliquaire sur un elephant a travers la ville pendant dix nuits.",
+  "highlights": [
+   "La seule journee qui montre les montagnes a un voyage axe sur la plage",
+   "Pinnawala, un orphelinat d’elephants abritant environ quatre-vingts animaux sauves",
+   "Le Temple de la Dent, la raison pour laquelle Kandy est un site du patrimoine mondial",
+   "Le lac de Kandy et la ville dans son anneau de collines",
+   "Les jardins botaniques royaux de Peradeniya"
+  ],
+  "included": [
+   "Vehicule prive climatise avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel a Bentota ou Kalutara",
+   "tous les trajets",
+   "carburant et stationnement"
+  ],
+  "notIncluded": [
+   "Frais d’entree a Pinnawala, au Temple de la Dent et aux jardins botaniques",
+   "repas et boissons",
+   "pourboires"
+  ]
+ },
+ "udawalawe-to-kandy-private-transfer-via-ella-the-nine-arch-bridge": {
+  "title": "Transfert prive d'Udawalawe a Kandy via Ella, le pont aux neuf arches et Nuwara Eliya",
+  "metaTitle": "Udawalawe a Kandy via Ella",
+  "metaDescription": "La longue montee d'Udawalawe a travers Ella et le pays du the jusqu'a Kandy, avec arrets aux cascades de Ravana, Little Adam's Peak et le pont aux neuf arches.",
+  "shortDescription": "La longue montee d'Udawalawe a travers Ella et le pays du the jusqu'a Kandy, avec arrets aux cascades de Ravana, Little Adam's Peak, le pont aux neuf arches et le temple Seetha Amman sur le chemin.",
+  "fullDescription": "D'Udawalawe a Kandy, on traverse l'ile de la plaine sud aux montagnes centrales, et la route passe par Ella, ce qui signifie que les deux ou trois choses pour lesquelles tout le monde vient a Ella se trouvent directement sur votre itineraire.\n\nLes cascades de Ravana sont les premieres, une large cascade de 25 metres juste au bord de la route au sud d'Ella, nommee d'apres le roi demon du Ramayana cense avoir cache Sita dans les grottes au-dessus. Little Adam's Peak suit: une marche de 45 minutes sur un sentier en escaliers pour la meilleure vue de la region, a travers la breche dans les collines vers la cote sud.\n\nLe pont aux neuf arches se trouve a vingt minutes de marche en descendant a travers le the depuis la route d'Ella. Il a ete construit en pierre et en brique sans acier pendant la Premiere Guerre mondiale, quand l'acier prevu pour lui a ete affecte a l'effort de guerre, et les trains le traversent environ toutes les deux heures.\n\nLe temple Seetha Amman pres de Nuwara Eliya est un autre site du Ramayana, peint de couleurs vives et frequente par des pelerins indiens. De la, la route grimpe a 1 900 metres puis descend par le long chemin vers Kandy, avec une arrivee en soiree.\n\nKandy fut la derniere capitale des rois cinghalais, resistant aux Portugais et aux Hollandais jusqu'a ce que les Britanniques la prennent en 1815, et le Temple de la Sainte Dent Relique sur le lac explique son importance: la relique, consideree comme une dent du Bouddha, est l'objet le plus sacre de l'ile et sa garde legitimait autrefois la royaute. La chambre de la relique ouvre pour le puja trois fois par jour, vers 5h30, 9h30 et 18h30, quand les tambours commencent et que la file avance devant le reliquaire. La tenue couvre epaules et genoux, les chaussures se retirent a l'entree, et l'Esala Perahera en juillet ou aout fait parader le reliquaire sur un elephant a travers la ville pendant dix nuits.",
+  "highlights": [
+   "La traversee complete de la plaine sud aux montagnes centrales en une journee guidee",
+   "Les cascades de Ravana, une large cascade au bord de la route",
+   "Little Adam’s Peak, une marche de 45 minutes pour la meilleure vue d’Ella",
+   "Le pont aux neuf arches, construit sans acier pendant la Premiere Guerre mondiale",
+   "Le temple Ramayana de Seetha Amman et le pays du the au-dela"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel dans la region d’Udawalawe",
+   "tous les arrets sur la route",
+   "depose a votre hotel a Kandy",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Frais d’entree le cas echeant",
+   "repas et boissons",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "kandy-to-nuwara-eliya-or-ambewela-station-transfer-with-craft-workshop": {
+  "title": "Transfert de Kandy a Nuwara Eliya ou a la gare d'Ambewela avec arrets ateliers artisanaux",
+  "metaTitle": "Kandy a Nuwara Eliya avec ateliers",
+  "metaDescription": "Un transfert guide de Kandy vers le pays du the avec un musee de pierres precieuses et des ateliers artisanaux, depose a Nuwara Eliya ou Ambewela.",
+  "shortDescription": "Un transfert guide de Kandy vers le pays du the avec un musee de pierres precieuses, un atelier de sculpture sur bois et un atelier de batik sur le chemin, et depose a Nuwara Eliya ou a la gare d'Ambewela.",
+  "fullDescription": "Ambewela est la gare au-dessus de Nanu Oya sur la ligne de montagne, et c'est un point de depose utile si vous prenez le train la plutot qu'a la gare plus animee en bas. Ce transfert vous amenera a l'une ou l'autre, ou simplement a votre hotel a Nuwara Eliya.\n\nLes arrets sur la montee sont des arrets artisanaux plutot que l'habituel ensemble cascade et fabrique. Un musee de pierres precieuses et un atelier de taille d'abord, le Sri Lanka extrait des saphirs depuis deux mille ans, le commerce passe par Ratnapura et Kandy, et voir une pierre taillee et classee explique beaucoup pourquoi les boutiques de chaque ville touristique vendent la meme chose a des prix tres differents. Puis un atelier de sculpture sur bois, ou les motifs kandyens sont tailles dans l'ebene et le jak a la main, et un atelier de batik ou la cire est dessinee sur le tissu a la main et le tissu teint en couches sur plusieurs jours.\n\nLa route grimpe ensuite a travers Ramboda jusqu'aux plantations, et la derniere heure est du the des deux cotes.\n\nLa depose se fait a votre hotel a Nuwara Eliya ou a la gare d'Ambewela, convenu lors de la reservation.\n\nKandy fut la derniere capitale des rois cinghalais, resistant aux Portugais et aux Hollandais jusqu'a ce que les Britanniques la prennent en 1815, et le Temple de la Sainte Dent Relique sur le lac explique son importance: la relique, consideree comme une dent du Bouddha, est l'objet le plus sacre de l'ile et sa garde legitimait autrefois la royaute. La chambre de la relique ouvre pour le puja trois fois par jour, vers 5h30, 9h30 et 18h30, quand les tambours commencent et que la file avance devant le reliquaire. La tenue couvre epaules et genoux, les chaussures se retirent a l'entree, et l'Esala Perahera en juillet ou aout fait parader le reliquaire sur un elephant a travers la ville pendant dix nuits.",
+  "highlights": [
+   "Depose a Nuwara Eliya ou a la gare d’Ambewela pour le train de montagne",
+   "Un musee de pierres precieuses et un atelier de taille dans un pays qui extrait des saphirs depuis des millenaires",
+   "Un atelier de sculpture sur bois kandyen travaillant l’ebene et le jak a la main",
+   "Un atelier de batik ou la cire est dessinee a la main et teinte en couches",
+   "La montee a travers Ramboda jusqu’aux plantations de the"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel a Kandy",
+   "tous les arrets ateliers",
+   "depose a Nuwara Eliya ou a la gare d’Ambewela",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Frais d’entree le cas echeant",
+   "billets de train",
+   "repas et boissons",
+   "achats dans les ateliers",
+   "pourboires"
+  ]
+ },
+ "sigiriya-to-nuwara-eliya-private-transfer-with-dambulla-and-a-spice": {
+  "title": "Transfert prive de Sigiriya a Nuwara Eliya avec Dambulla et un jardin d'epices",
+  "metaTitle": "Sigiriya a Nuwara Eliya avec Dambulla",
+  "metaDescription": "Un transfert prive de Sigiriya ou Dambulla jusqu'a Nuwara Eliya, avec les temples rupestres de Dambulla, le jardin d'epices de Matale et une pause a Kandy.",
+  "shortDescription": "Un transfert prive de Sigiriya ou Dambulla jusqu'a Nuwara Eliya, avec les temples rupestres de Dambulla, le jardin d'epices de Matale et une pause a Kandy sur le chemin vers le pays du the.",
+  "fullDescription": "C'est la longue montee, depuis la plaine de la zone seche a environ 100 metres jusqu'a Nuwara Eliya a 1 900, traversant tout le centre de l'ile. Le paysage change trois fois et cela vaut la peine de s'arreter pour le remarquer.\n\nDambulla est le premier arret, a quinze minutes de Sigiriya: cinq grottes sous un surplomb de granit peintes en continu depuis deux mille ans, avec environ 150 images de Bouddha. Le sentier d'approche est plus raide qu'il n'y parait.\n\nMatale est le pays des epices. Les jardins cultivent ensemble la cannelle, la cardamome, le poivre, la muscade et la vanille, et une marche guidee rend les differences evidentes d'une maniere que la lecture ne permet pas.\n\nKandy se trouve a peu pres a mi-chemin et l'arret est court, le lac et l'exterieur du Temple de la Dent, a moins que vous ne vouliez ajouter une heure et les frais pour entrer. De Kandy, la route grimpe et ne s'arrete pas, et autour de Ramboda la foret cede la place au the.\n\nVous atteignez Nuwara Eliya dans l'apres-midi, a 1 900 metres, ou l'air est froid et la ville conserve encore l'hippodrome, le terrain de golf et le bureau de poste de style faux Tudor laisses par les Britanniques.\n\nSigiriya est une colonne rocheuse de 200 metres qui s'eleve au-dessus de la plaine de la zone seche, sur laquelle le roi Kasyapa a construit son palais au cinquieme siecle apres avoir usurpe le trone, et c'est un site de l'UNESCO depuis 1982. L'ascension compte environ 1 200 marches sur des escaliers et passerelles en fer, passant par le mur miroir avec ses graffitis millenaires et la galerie abritee de fresques, jusqu'aux pattes du lion qui donnent son nom au rocher et aux fondations du palais au sommet. Cela prend une heure et demie aller-retour pour la plupart des gens et il vaut mieux commencer a 7h00, avant la chaleur et les autocars; le ticket pour les visiteurs etrangers est l'un des plus chers du pays, et Pidurangala, le rocher voisin, offre la vue classique sur Sigiriya pour une fraction du prix.",
+  "highlights": [
+   "La montee complete de la plaine de la zone seche jusqu’a 1 900 metres en une journee",
+   "Les temples rupestres de Dambulla a quinze minutes de Sigiriya",
+   "Un jardin d’epices de Matale avec la cannelle, la cardamome et le poivre cultives ensemble",
+   "Un arret a Kandy a peu pres a mi-chemin",
+   "Depose a votre hotel a Nuwara Eliya dans le pays du the"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel a Sigiriya ou Dambulla",
+   "tous les arrets",
+   "depose a votre hotel a Nuwara Eliya",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Frais d’entree a Dambulla et ailleurs",
+   "repas et boissons",
+   "achats d’epices",
+   "pourboires"
+  ]
+ },
+ "sigiriya-to-kandy-transfer-with-a-kandy-city-tour-on-arrival": {
+  "title": "Transfert de Sigiriya a Kandy avec visite de la ville de Kandy a l'arrivee",
+  "metaTitle": "Sigiriya a Kandy avec visite de ville",
+  "metaDescription": "Le trajet de Sigiriya a Kandy avec les arrets de la route et une visite de la ville a l'arrivee: les grottes de Dambulla et le Temple de la Dent.",
+  "shortDescription": "Le trajet de Sigiriya a Kandy avec les arrets de la route et une visite de la ville une fois arrive: les grottes de Dambulla, un jardin d'epices, un atelier de sculpture sur bois, puis le Temple de la Dent, le lac et les points de vue.",
+  "fullDescription": "La plupart des transferts de Sigiriya a Kandy vous deposent a votre hotel en debut d'apres-midi et vous laissent decouvrir la ville seul. Celui-ci garde le guide pour le reste de la journee et transforme l'arrivee en une visite.\n\nLa section routiere est la standard et la bonne: les temples rupestres de Dambulla a quinze minutes de Sigiriya, cinq grottes sous un surplomb de granit peintes depuis deux mille ans; un jardin d'epices de Matale cultivant ensemble cannelle, cardamome, poivre et muscade; et un atelier de sculpture sur bois ou de produits a base de plantes dans le quartier artisanal sur le chemin.\n\nA Kandy, la journee continue plutot que de s'arreter. Le Bouddha de Bahirawakanda sur la colline au-dessus de la ville offre la meilleure vue gratuite de la ville. Le lac, creuse par le dernier roi en 1807, se parcourt a plat. Le Temple de la Dent est la raison pour laquelle Kandy est un site du patrimoine mondial, et si le timing fonctionne vous pouvez y etre pour le puja de 18h30 quand la chambre de la relique s'ouvre.\n\nVous terminez a votre hotel ayant couvert a la fois le trajet et la ville en une journee, ce qui sur un itineraire serre vous epargne une journee complete du voyage.\n\nSigiriya est une colonne rocheuse de 200 metres qui s'eleve au-dessus de la plaine de la zone seche, sur laquelle le roi Kasyapa a construit son palais au cinquieme siecle apres avoir usurpe le trone, et c'est un site de l'UNESCO depuis 1982. L'ascension compte environ 1 200 marches sur des escaliers et passerelles en fer, passant par le mur miroir avec ses graffitis millenaires et la galerie abritee de fresques, jusqu'aux pattes du lion qui donnent son nom au rocher et aux fondations du palais au sommet. Cela prend une heure et demie aller-retour pour la plupart des gens et il vaut mieux commencer a 7h00, avant la chaleur et les autocars; le ticket pour les visiteurs etrangers est l'un des plus chers du pays, et Pidurangala, le rocher voisin, offre la vue classique sur Sigiriya pour une fraction du prix.",
+  "highlights": [
+   "Un transfert qui se transforme en visite de ville plutot que de s’arreter a la porte de l’hotel",
+   "Les temples rupestres de Dambulla et un jardin d’epices de Matale sur la route",
+   "Le Bouddha de Bahirawakanda et la vue sur Kandy",
+   "Le Temple de la Dent, cale si possible sur le puja du soir",
+   "Le trajet et la ville couverts en une seule journee"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel a Sigiriya, Dambulla ou Habarana",
+   "tous les arrets routiers",
+   "la visite de la ville de Kandy",
+   "depose a votre hotel a Kandy",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Frais d’entree a Dambulla et au Temple de la Dent",
+   "repas et boissons",
+   "pourboires",
+   "achats dans les ateliers"
+  ]
+ },
+ "kandy-to-trincomalee-transfer-via-sigiriya-rock-and-the-dambulla-caves": {
+  "title": "Transfert de Kandy a Trincomalee via le rocher de Sigiriya et les grottes de Dambulla",
+  "metaTitle": "Kandy a Trincomalee via Sigiriya",
+  "metaDescription": "Le trajet de Kandy vers la cote est avec les deux sites du triangle culturel integres: le rocher de Sigiriya et les grottes de Dambulla.",
+  "shortDescription": "Le trajet de Kandy vers la cote est avec les deux sites du triangle culturel integres: le rocher de Sigiriya et les grottes de Dambulla sur le chemin, puis depose a votre hotel a Trincomalee.",
+  "fullDescription": "De Kandy a Trincomalee, c'est un long trajet avec les deux meilleurs sites du pays situes presque exactement sur l'itineraire, ce qui rend le faire comme un simple transfert un vrai gaspillage.\n\nSigiriya vient d'abord et tot. La citadelle du cinquieme siecle sur le piton de granit compte 1 200 marches passant devant les fresques du mur miroir et les pattes du lion, avec des jardins d'eau symetriques amenages en contrebas qui fonctionnent encore apres quinze cents ans. La grimper le matin fait la difference entre une bonne heure et une difficile.\n\nDambulla se trouve a quinze minutes: cinq grottes taillees sous un surplomb de granit et peintes du sol au plafond depuis deux mille ans, abritant environ 150 images de Bouddha. Fraiches et sombres, ce qui en milieu de matinee est bienvenu.\n\nDepuis Dambulla, il faut environ deux heures et demie vers le nord-est jusqu'a Trincomalee, et le paysage s'aplatit et s'asseche en chemin. Trincomalee possede l'un des plus beaux ports naturels en eau profonde du monde, le temple de Koneswaram sur une falaise au-dessus, et les plages d'Uppuveli et Nilaveli, qui sont du cote sec de l'ile de mai a septembre, exactement quand la cote sud est impraticable pour la baignade.\n\nSigiriya est une colonne rocheuse de 200 metres qui s'eleve au-dessus de la plaine de la zone seche, sur laquelle le roi Kasyapa a construit son palais au cinquieme siecle apres avoir usurpe le trone, et c'est un site de l'UNESCO depuis 1982. L'ascension compte environ 1 200 marches sur des escaliers et passerelles en fer, passant par le mur miroir avec ses graffitis millenaires et la galerie abritee de fresques, jusqu'aux pattes du lion qui donnent son nom au rocher et aux fondations du palais au sommet. Cela prend une heure et demie aller-retour pour la plupart des gens et il vaut mieux commencer a 7h00, avant la chaleur et les autocars; le ticket pour les visiteurs etrangers est l'un des plus chers du pays, et Pidurangala, le rocher voisin, offre la vue classique sur Sigiriya pour une fraction du prix.",
+  "highlights": [
+   "Les deux sites du triangle culturel faits sur le chemin plutot qu’en excursion separee",
+   "Sigiriya grimpe tot, avant la chaleur",
+   "Les temples rupestres de Dambulla un peu plus loin",
+   "Depose a votre hotel a Trincomalee avec les visites deja faites",
+   "L’arrivee sur la cote est, seche de mai a septembre"
+  ],
+  "included": [
+   "Vehicule prive climatise avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel a Kandy",
+   "les deux visites de sites",
+   "depose a votre hotel a Trincomalee",
+   "bagages transportes tout le long",
+   "carburant et stationnement"
+  ],
+  "notIncluded": [
+   "Frais d’entree a Sigiriya et Dambulla",
+   "repas et boissons",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "heeloya-village-full-day-tour-from-kandy-with-organic-farming-and-lunch": {
+  "title": "Excursion d'une journee complete au village de Heeloya depuis Kandy avec agriculture biologique et dejeuner",
+  "metaTitle": "Village de Heeloya, journee complete",
+  "metaDescription": "Une journee complete au village de Heeloya a l'est de Kandy: agriculture biologique, epices, irrigation et dejeuner avec la famille.",
+  "shortDescription": "Une journee complete au village de Heeloya a l'est de Kandy avec un sejour plus long que les versions demi-journee: agriculture biologique, culture d'epices, le systeme d'irrigation et un dejeuner fait maison avec la famille.",
+  "fullDescription": "Heeloya est un village agricole dans les collines a l'est de Kandy, et c'est la version longue de la visite, dix heures plutot que huit, avec le temps de s'asseoir entre les activites plutot que de passer de l'une a l'autre.\n\nLa matinee est consacree a la terre. Vous marchez dans les rizieres avec un hote local et l'irrigation est expliquee: le reservoir, les canaux, l'ordre dans lequel les champs recoivent l'eau. Le Sri Lanka fait fonctionner ce systeme depuis deux mille ans et c'est une piece d'ingenierie plutot qu'un detail pittoresque.\n\nLa culture biologique est l'autre moitie. Ce sont de petites exploitations, pas des plantations, et les parcelles d'epices cultivent le poivre, la cardamome, le curcuma et la cannelle parmi les cultures alimentaires plutot qu'en rangs de monoculture, ce qui est a la fois la maniere dont cela s'est toujours fait et pourquoi le sol tient bon.\n\nLe dejeuner se cuisine dans une maison de village avec votre aide, noix de coco rapee sur un hiramanaya, pate d'epices moulue sur une pierre, pots en argile sur un feu de bois, et se mange avec la famille qui vous a aide a le preparer.\n\nLes heures supplementaires par rapport a la version demi-journee se passent l'apres-midi: une charrette a boeufs, une marche, et assez de temps pour que la journee cesse de ressembler a un horaire.\n\nKandy fut la derniere capitale des rois cinghalais, resistant aux Portugais et aux Hollandais jusqu'a ce que les Britanniques la prennent en 1815, et le Temple de la Sainte Dent Relique sur le lac explique son importance: la relique, consideree comme une dent du Bouddha, est l'objet le plus sacre de l'ile et sa garde legitimait autrefois la royaute. La chambre de la relique ouvre pour le puja trois fois par jour, vers 5h30, 9h30 et 18h30, quand les tambours commencent et que la file avance devant le reliquaire. La tenue couvre epaules et genoux, les chaussures se retirent a l'entree, et l'Esala Perahera en juillet ou aout fait parader le reliquaire sur un elephant a travers la ville pendant dix nuits.",
+  "highlights": [
+   "Dix heures completes au village plutot qu’une visite d’une demi-journee",
+   "Le systeme d’irrigation par reservoir et canaux explique par quelqu’un qui cultive avec",
+   "Des petites exploitations biologiques ou les epices poussent parmi les cultures alimentaires",
+   "Cuisiner un riz et curry complet avec la famille et le manger avec eux",
+   "Une charrette a boeufs et un apres-midi sans hate"
+  ],
+  "included": [
+   "Prise en charge et depose a l’hotel a Kandy",
+   "un guide anglophone",
+   "la marche au village et les visites agricoles",
+   "la charrette a boeufs",
+   "un dejeuner fait maison"
+  ],
+  "notIncluded": [
+   "Boissons au-dela de celles servies avec le dejeuner",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Séance de flyboard à Pattaya",
   "fullDescription": "Cette expérience de 30 minutes se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend séance de flyboard, accompagnement d'un instructeur, équipement de sécurité et douches. Il ne comprend pas photos et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
