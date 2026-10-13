@@ -101,6 +101,9 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'singapore': { country: 'singapore', city: 'singapore' },
   'hongkong': { country: 'hong-kong', city: 'hong-kong' },
   'taipei': { country: 'taiwan', city: 'taipei' },
+  'male': { country: 'maldives', city: 'male' },
+  'istanbul': { country: 'turkey', city: 'istanbul' },
+  'doha': { country: 'qatar', city: 'doha' },
 };
 
 /**
