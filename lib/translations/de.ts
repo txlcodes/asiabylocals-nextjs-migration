@@ -96406,6 +96406,198 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persoenliche Ausgaben"
   ]
  },
+ "kandy-gem-museumjewelry-making-workshop-tour": {
+  "title": "Kandy: Edelsteinmuseum und Schmuckherstellungs-Workshop, mit Abholung und Rueckfahrt",
+  "metaTitle": "Kandy: Edelsteinmuseum und Schmuckworkshop",
+  "metaDescription": "Halbtages-Erlebnis in Kandy: Edelsteinmuseum, Schmuckherstellungs-Workshop mit einem Meisterhandwerker, und kulturelle Sehenswuerdigkeiten.",
+  "shortDescription": "Ein Halbtages-Erlebnis in Kandy. Durchgefuehrt von Kandy Travel With Sana.",
+  "fullDescription": "Ein Halbtages-Erlebnis in Kandy, durchgefuehrt von Kandy Travel With Sana.\n\nKandy Travel With Sana fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet den Hoteltransfer (Abholung und Rueckfahrt von Ihrem Hotel oder innerhalb von 7 km der Stadt Kandy), die Anleitung durch einen Meisterhandwerker, Flaschenwasser oder eine Tasse Tee, und die bereitgestellten Werkzeuge. Nicht enthalten ist das Mittagessen, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 19 $ statt 19 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [],
+  "included": [
+   "Hoteltransfer: Abholung und Rueckfahrt von Ihrem Hotel oder innerhalb von 7 km der Stadt Kandy",
+   "Anleitung: Unterstuetzung durch einen Meisterhandwerker",
+   "Flaschenwasser/Tasse Tee",
+   "Ausruestung: Werkzeuge bereitgestellt",
+   "Museumsbesuch",
+   "Besuch des Ausstellungsraums",
+   "Werkstattbesuch",
+   "Kulturelle und malerische Highlights:",
+   "Besuch der Asgiriya-Stupa",
+   "Besuch des Kandy-Aussichtspunkts",
+   "Spaziergang am Kandy-See und Stadterkundung",
+   "Besuch des Tempels der Heiligen Zahnreliquie"
+  ],
+  "notIncluded": [
+   "Mittagessen"
+  ]
+ },
+ "from-colombonegombo-yala-national-park-4x4-jeep": {
+  "title": "Von Colombo/Negombo: 4x4-Jeep-Safari im Yala-Nationalpark",
+  "metaTitle": "Colombo/Negombo: Jeep-Safari in Yala",
+  "metaDescription": "Ganztagesausflug ab Colombo: erleben Sie den Nervenkitzel einer 4x4-Jeep-Safari im Yala-Nationalpark.",
+  "shortDescription": "Ein Ganztages-Erlebnis in Colombo. Erleben Sie den Nervenkitzel einer 4x4-Jeep-Safari im Yala-Nationalpark, durchgefuehrt von Sri Lanka car and private driver hire.",
+  "fullDescription": "Ein Ganztages-Erlebnis in Colombo. Erleben Sie den Nervenkitzel einer 4x4-Jeep-Safari im Yala-Nationalpark.\n\nSri Lanka car and private driver hire fuehrt es durch. Kostenlose Stornierung ist moeglich.\n\nNicht enthalten ist das Abendessen, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Erleben Sie den Nervenkitzel einer 4x4-Jeep-Safari im Yala-Nationalpark"
+  ],
+  "included": [],
+  "notIncluded": [
+   "Abendessen"
+  ]
+ },
+ "colombo-city-tour-with-tuk-tuk-ride-and-guide": {
+  "title": "Colombo: Stadttour mit Tuk-Tuk-Fahrt und Guide",
+  "metaTitle": "Colombo: Stadttour mit Tuk-Tuk und Guide",
+  "metaDescription": "Ganztagestour in Colombo mit allen Eintrittskarten, klimatisiertem Transfer, Tuk-Tuk-Erlebnis und englischsprachigem Guide.",
+  "shortDescription": "Ein Ganztages-Erlebnis in Colombo, durchgefuehrt von Manu Lanka Tours Pvt Ltd.",
+  "fullDescription": "Ein Ganztages-Erlebnis in Colombo, durchgefuehrt von Manu Lanka Tours Pvt Ltd.\n\nManu Lanka Tours Pvt Ltd fuehrt es durch, und 5 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet alle Eintrittskarten, den Transfer mit klimatisiertem Auto/Van/Bus, das Tuk-Tuk-Erlebnis, und eine Flasche Wasser. Nicht enthalten sind Essen und Getraenke, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [],
+  "included": [
+   "Alle Eintrittskarten inklusive",
+   "Transfer mit klimatisiertem Auto/Van/Bus",
+   "Tuk-Tuk-Erlebnis",
+   "Flasche Wasser",
+   "Englischsprachiger Guide"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke"
+  ]
+ },
+ "yala-safari-from-ella-with-a-drop-at-arugam-bay": {
+  "title": "Yala-Safari ab Ella mit Rueckfahrt nach Arugam Bay",
+  "metaTitle": "Yala-Safari ab Ella, Rueckfahrt Arugam Bay",
+  "metaDescription": "Morgendliche Yala-Pirschfahrt auf der Fahrt von Ella nach Arugam Bay, Sri Lankas Surferort an der Ostkueste (Saison Mai bis September).",
+  "shortDescription": "Eine morgendliche Yala-Pirschfahrt auf der Fahrt von Ella nach Arugam Bay, Sri Lankas Surferort an der Ostkueste, dessen Saison etwa von Mai bis September dauert.",
+  "fullDescription": "Bitte vor der Buchung beachten: die Abteilung fuer Wildtierschutz hat die Bloecke 1 und 2 des Yala-Nationalparks vom 14. September bis 15. Oktober 2026 wegen Duerre geschlossen, Safaris in diesen Bloecken koennen an diesen Terminen also nicht stattfinden. Die Bloecke 3 bis 6 bleiben geoeffnet, und Udawalawe und Wilpattu sind nicht betroffen, fuer Reisen in diesem Zeitraum kontaktieren wir Sie, um die Safari in einen dieser Parks oder auf ein Datum nach dem 15. Oktober zu verschieben. Udawalawe ist der staerkere Park fuer Elefanten, Wilpattu bietet ruhigere Leopardensichtungen.\n\nArugam Bay funktioniert nach einem entgegengesetzten Kalender zum Rest der Standard-Sri-Lanka-Route. Seine Saison dauert etwa von Mai bis September, genau dann, wenn der Suedwestmonsun die Sued- und Westkueste aufwuehlt, was es zum richtigen Ziel fuer eine europaeische Sommerreise macht, die sonst ein Kompromiss waere.\n\nDie Anfahrt von Ella bedeutet, den Suedosten zu durchqueren, und Yala liegt auf dem Weg. Das macht den Transfertag zum sinnvollen Zeitpunkt fuer den Park statt einer Rueckfahrt.\n\nBlock 1 hat die hoechste je gemessene Leopardendichte weltweit, zusammen mit Lippenbaeren, Elefanten, Wasserbueffeln, Krokodilen, und ueber zweihundert Vogelarten. An einem geschaeftigen Morgen in der Saison beherbergt er auch etwa dreihundert Jeeps; beides stimmt.\n\nDie Morgenfahrt ist die einzige, die sich lohnt, Tiere bewegen sich im ersten Licht und suchen bis neun Uhr Schutz.\n\nNach dem Park fuehrt die Strasse nordwaerts entlang der Kueste durch Panama nach Arugam Bay und Pottuvil, und die Landschaft wechselt zu trockenem Buschland, Lagunen, und langen leeren Straenden. Das aeusserste Ende dieses Abschnitts grenzt an den Kumana-Nationalpark, eines der besten Vogelbeobachtungsgebiete des Landes und fast nie besucht.\n\nAusserhalb der Surfsaison schliesst ein Grossteil von Arugam Bay und die Wellen werden flach, pruefen Sie also Ihre Daten dagegen vor der Buchung.",
+  "highlights": [
+   "Eine morgendliche Yala-Fahrt, eingebaut in die Ueberfahrt zur Ostkueste",
+   "Die weltweit hoechste je gemessene Dichte wilder Leoparden",
+   "Arugam Bay, dessen Saison von Mai bis September dauert, wenn die Suedkueste geschlossen ist",
+   "Trockenes Buschland, Lagunen, und lange leere Straende auf der Fahrt nach Norden",
+   "Der nahegelegene Kumana-Nationalpark, eines der besten Vogelbeobachtungsgebiete Sri Lankas"
+  ],
+  "included": [
+   "Privatfahrzeug mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung in Ella",
+   "der Safari-Jeep mit Fahrer und Tracker",
+   "die Pirschfahrt",
+   "Rueckfahrt nach Arugam Bay oder Pottuvil",
+   "Gepaecktransport waehrend der gesamten Fahrt"
+  ],
+  "notIncluded": [
+   "Die Nationalpark-Genehmigung, bar am Eingang zu zahlen",
+   "Mahlzeiten",
+   "Trinkgelder fuer Fahrer und Tracker"
+  ]
+ },
+ "yala-safari-from-ella-with-a-drop-at-tangalle-or-hiriketiya": {
+  "title": "Yala-Safari ab Ella mit Rueckfahrt nach Tangalle oder Hiriketiya",
+  "metaTitle": "Yala-Safari ab Ella, Rueckfahrt Tangalle",
+  "metaDescription": "Morgendliche Yala-Pirschfahrt auf der Fahrt von Ella zum ruhigeren Ende der Suedkueste, mit Rueckfahrt nach Tangalle oder Hiriketiya.",
+  "shortDescription": "Eine morgendliche Yala-Pirschfahrt auf der Fahrt von Ella zum ruhigeren Ende der Suedkueste, mit Rueckfahrt nach Tangalle oder Hiriketiya.",
+  "fullDescription": "Bitte vor der Buchung beachten: die Abteilung fuer Wildtierschutz hat die Bloecke 1 und 2 des Yala-Nationalparks vom 14. September bis 15. Oktober 2026 wegen Duerre geschlossen, Safaris in diesen Bloecken koennen an diesen Terminen also nicht stattfinden. Die Bloecke 3 bis 6 bleiben geoeffnet, und Udawalawe und Wilpattu sind nicht betroffen, fuer Reisen in diesem Zeitraum kontaktieren wir Sie, um die Safari in einen dieser Parks oder auf ein Datum nach dem 15. Oktober zu verschieben. Udawalawe ist der staerkere Park fuer Elefanten, Wilpattu bietet ruhigere Leopardensichtungen.\n\nTangalle und Hiriketiya liegen am oestlichen Ende der Suedkueste, hinter Mirissa, und dort oeffnen sich die Straende und die Menschenmengen werden duenner. Hiriketiya insbesondere ist eine hufeisenfoermige Bucht, die in etwa einem Jahrzehnt von unbekannt zu bekannt wurde, und immer noch nur einen Bruchteil der Groesse von Unawatuna hat.\n\nYala liegt zwischen Ella und diesem Kuestenabschnitt, was den Transfertag zum richtigen Zeitpunkt fuer den Park macht statt einer Rueckfahrt von einem der beiden Enden.\n\nBlock 1 hat die hoechste je gemessene Leopardendichte weltweit, zusammen mit Lippenbaeren, Elefanten, Sumpfkrokodilen, und ueber zweihundert Vogelarten. Er beherbergt auch etwa dreihundert Jeeps an einem geschaeftigen Morgen in der Saison, und beides gehoert in denselben Satz.\n\nDie Morgenfahrt ist diejenige, die funktioniert. Tiere bewegen sich im ersten Licht und suchen bis neun Uhr Schutz, und bis elf Uhr ist der Park nur noch Hitze und Fahrzeuge.\n\nNach der Fahrt sind es etwa zwei Stunden westlich entlang der Kueste, mit Ankunft am fruehen Nachmittag und dem Strandtag noch intakt.\n\nEine Warnung zu diesem Ende der Kueste: die Stroemungen bei Tangalle gehoeren zu den staerksten an der Suedkueste und es gibt keine Rettungsschwimmer. Es ist ein schoener Ort, um das Meer zu betrachten, und oft ein schlechter, um darin zu schwimmen.",
+  "highlights": [
+   "Eine morgendliche Yala-Fahrt, eingebaut in die Weiterfahrt statt als separater Tag",
+   "Die weltweit hoechste je gemessene Dichte wilder Leoparden",
+   "Lippenbaeren, Elefanten, Krokodile, und ueber 200 Vogelarten",
+   "Rueckfahrt nach Tangalle oder Hiriketiya, hinter der geschaeftigeren Suedkueste",
+   "Ankunft am fruehen Nachmittag mit dem Strandtag noch nutzbar"
+  ],
+  "included": [
+   "Geteilter Transport von Ihrem Hotel in Ella",
+   "ein 4x4-Safari-Jeep mit Fahrer und Tracker",
+   "die Pirschfahrt",
+   "Rueckfahrt nach Tangalle oder Hiriketiya",
+   "Gepaecktransport waehrend der gesamten Fahrt"
+  ],
+  "notIncluded": [
+   "Die Nationalpark-Genehmigung, bar am Eingang zu zahlen",
+   "Mahlzeiten",
+   "Trinkgelder fuer Fahrer und Tracker"
+  ]
+ },
+ "ella-heights-all-inclusive-day-trip-with-halpewatte-tea-factory": {
+  "title": "Ella Heights: All-inclusive-Tagesausflug mit Halpewatte-Teefabrik und Zipline",
+  "metaTitle": "Ella Heights: All-inclusive-Tagesausflug",
+  "metaDescription": "Ein langer privater Tag mit den Ravana-Wasserfaellen, der Halpewatte-Teefabrik, der Nine-Arch-Bruecke, der Flying-Ravana-Zipline, und dem Little Adam's Peak.",
+  "shortDescription": "Ein langer privater Tag mit den Ravana-Wasserfaellen, der Halpewatte-Teefabrik, der Nine-Arch-Bruecke, der Flying-Ravana-Zipline, und dem Little Adam's Peak, mit Abholung aus allen drei Uva-Hochlandstaedten.",
+  "fullDescription": "Zwoelf Stunden, beginnend vor der Daemmerung, die die komplette Ella-Liste von einer der drei Uva-Hochlandstaedte aus abdecken.\n\nLittle Adam's Peak eroeffnet den Tag. Fuenfundvierzig Minuten auf einem meist gestuften Pfad vom Stadtrand, leicht genug fuer die meisten Fitnesslevel, und der Blick durch die Ella Gap zur suedlichen Ebene ist das, wofuer die Stadt bekannt ist. Das erste Licht ist hier keine Vorliebe, die Luft ist morgens in jedem Monat des Jahres am klarsten, und bis neun Uhr gibt es eine Warteschlange fuer das gleiche Foto.\n\nHalpewatte ist die groesste Teefabrik der Uva-Region und eine der lehrreichsten zu besuchen. Die Tour folgt dem Blatt vom Welktrog durch Rollen, Oxidation und Roesten bis zum Sortiertisch, und endet auf einer Terrasse mit Blick ueber die Plantagen mit einer Tasse der Sorte, die das Land nicht verlaesst.\n\nDie Nine-Arch-Bruecke folgt: 91 Meter Steinviadukt 24 Meter ueber einer Schlucht, fertiggestellt waehrend des Ersten Weltkriegs in solidem Mauerwerk, weil der dafuer vorgesehene Stahl fuer Europa requiriert wurde.\n\nDie Flying-Ravana-Zipline verlaeuft 550 Meter ueber das Tal mit bis zu 80 km/h, und die Ravana-Wasserfaelle schliessen den Tag.\n\nAbholung aus Ella, Haputale, oder Bandarawela, was ungewoehnlich ist, die meisten Anbieter holen nur in Ella ab.",
+  "highlights": [
+   "Little Adam’s Peak im ersten Licht, bevor sich der Gipfel fuellt",
+   "Halpewatte, die groesste Teefabrik in Uva, mit einer Plantagenterrasse",
+   "Die Nine-Arch-Bruecke, waehrend des Ersten Weltkriegs in Stein ohne Stahl gebaut",
+   "Die Flying-Ravana-Zipline, 550 m ueber das Tal",
+   "Abholung aus Ella, Haputale, oder Bandarawela"
+  ],
+  "included": [
+   "Privatfahrzeug mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Ella, Haputale, oder Bandarawela",
+   "alle Fahrten zwischen den Staetten",
+   "Fuehrung auf der Wanderung"
+  ],
+  "notIncluded": [
+   "Die Zipline-Gebuehr",
+   "der Teefabrik-Eintritt",
+   "Mahlzeiten und Getraenke",
+   "Teekaeufe",
+   "Trinkgelder"
+  ]
+ },
+ "all-inclusive-ella-day-with-a-tea-factory-and-the-hill-country-train": {
+  "title": "All-inclusive-Ella-Tag mit Teefabrik und Hochlandzug",
+  "metaTitle": "Ella All-inclusive: Teefabrik und Zug",
+  "metaDescription": "Ein privater All-inclusive-Ella-Tag: die Teeplantagen, eine aktive Fabrik, eine Etappe auf der Bergbahn, die Nine-Arch-Bruecke, und Little Adam's Peak.",
+  "shortDescription": "Ein privater All-inclusive-Ella-Tag: die Teeplantagen, eine aktive Fabrik, eine Etappe auf der Bergbahn, die Nine-Arch-Bruecke, und Little Adam's Peak, alles organisiert.",
+  "fullDescription": "Ella liegt auf etwas ueber tausend Metern in einer Luecke zwischen zwei Graten, umgeben auf allen Seiten von Tee, und dieser Tag ist darauf ausgelegt, Ihnen den Tee ebenso wie die Sehenswuerdigkeiten zu zeigen.\n\nUva-Tee ist wirklich unverwechselbar. Ein trockener saisonaler Wind blaest von Juni bis September ueber diese Haenge und gibt dem Blatt einen Charakter, den Verkoster blind identifizieren koennen, weshalb Uva-Plantagen bei der Colombo-Auktion ihre eigenen Preise erzielen. Ein Besuch der aktiven Fabrik folgt dem Blatt von den Welktroegen durch Rollen, Oxidation und Roesten bis zum Sortiertisch in etwa fuenfundvierzig Minuten, und es ist die klarste Erklaerung, die Ihnen jemand geben wird, warum ein Strauch sechs klassifizierte Produkte liefert.\n\nDie Zugetappe ist die andere Haelfte. Die Bergstrecke zwischen Demodara und Ella ist der Abschnitt, den jeder fotografiert, und sie zu befahren, statt nur die Bruecke zu betrachten, die sie ueberquert, macht den Unterschied zwischen dem Betrachten der Bahn und dem Fahren mit ihr.\n\nUm diese beiden herum: Little Adam's Peak im ersten Licht und die Nine-Arch-Bruecke am Vormittag.\n\nAll-inclusive bedeutet hier, dass Tickets und Eintritte organisiert statt an jedem Tor bezahlt werden, was an einem Tag mit vier getrennten Stopps mehr wert ist, als es klingt.\n\nElla ist ein Dorf auf 1.040 Metern im suedlichen Hochland, erreicht durch den Zug von Kandy, den die meisten Menschen als die schoenste Bahnfahrt Asiens bewerten, und seine Sehenswuerdigkeiten liegen alle innerhalb wenigen Kilometern: die Nine-Arch-Bruecke, ein Backsteinviadukt von 1921 in einer Teeschlucht, die ein Zug mehrmals am Tag ueberquert; Little Adam's Peak, ein 40-minuetiger Spaziergang durch Tee zu einem Grat; Ella Rock, ein schwierigerer dreistuendiger Aufstieg; und die Ravana-Wasserfaelle auf der Strasse nach Wellawaya. Morgen sind klar und Nachmittage in den feuchten Monaten bringen Wolken in die Luecke, daher werden die Wanderungen frueh gemacht. Tuk-Tuks sind das Transportmittel, und jedes Gaestehaus kann eines finden.",
+  "highlights": [
+   "Eine aktive Uva-Teefabrik vom Welktrog bis zum Sortiertisch",
+   "Eine Etappe auf der Bergbahn statt nur ein Blick auf die Bruecke",
+   "Little Adam’s Peak im ersten Licht, bevor sich der Gipfel fuellt",
+   "Die Nine-Arch-Bruecke, waehrend des Ersten Weltkriegs in Stein ohne Stahl gebaut",
+   "Tickets und Eintritte organisiert statt an jedem Stopp bezahlt"
+  ],
+  "included": [
+   "Privatfahrzeug mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Ella",
+   "der Teefabrikbesuch",
+   "Zugtickets fuer die Demodara-Etappe",
+   "Eintrittsgebuehren",
+   "alle Fahrten"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke",
+   "Teekaeufe",
+   "Trinkgelder",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "horton-plains-trek-from-nuwara-eliya-with-a-tea-factory-and-ravana-falls": {
+  "title": "Horton-Plains-Wanderung ab Nuwara Eliya mit Teefabrik und Ravana-Wasserfaellen",
+  "metaTitle": "Horton Plains ab Nuwara Eliya",
+  "metaDescription": "Eine morgendliche Wanderung in Horton Plains ab Nuwara Eliya, gefolgt von einer aktiven Teefabrik und den Ravana-Wasserfaellen.",
+  "shortDescription": "Eine morgendliche Wanderung in Horton Plains ab Nuwara Eliya, gefolgt von einer aktiven Teefabrik und den Ravana-Wasserfaellen, der komplette Hochlandtag in einer Buchung.",
+  "fullDescription": "Horton Plains funktioniert nur in der Daemmerung, und diese einzige Tatsache praegt diesen gesamten Tag.\n\nWorld's End blickt nach Sueden. Warme Luft steigt im Laufe des Vormittags von der Ebene auf, und bis neun oder zehn Uhr steckt die Klippe in einer Wolke, ohne dass etwas sichtbar ist. Das Tor oeffnet um sechs Uhr, was bedeutet, Nuwara Eliya um fuenf Uhr zu verlassen, und es gibt keine flexible Version davon.\n\nDas Plateau liegt auf etwa 2.300 Metern und ist anders als jeder andere Ort in Sri Lanka, montanes Grasland und Wolkenwald, windgepeitscht und kalt, mit verkuemmerten, moosbehangenen Baeumen. Die Schleife ist neun Kilometer lang und dauert drei bis vier Stunden, gegen den Uhrzeigersinn gegangen, damit World's End vor der Wolke kommt und die Baker-Wasserfaelle auf dem Rueckweg.\n\nMit der Wanderung bis spaetem Vormittag beendet, fuellt sich der Rest des Tages mit Dingen, die keinen fruehen Start benoetigen: eine aktive Teefabrik, die das Blatt vom Welktrog zum Sortiertisch verfolgt, und die Ravana-Wasserfaelle auf der Strasse hinunter nach Ella.\n\nZwoelf Stunden insgesamt, was lang klingt und sich nicht so anfuehlt, weil der anstrengende Teil bis elf Uhr vorbei ist.\n\nElla ist ein Dorf auf 1.040 Metern im suedlichen Hochland, erreicht durch den Zug von Kandy, den die meisten Menschen als die schoenste Bahnfahrt Asiens bewerten, und seine Sehenswuerdigkeiten liegen alle innerhalb wenigen Kilometern: die Nine-Arch-Bruecke, ein Backsteinviadukt von 1921 in einer Teeschlucht, die ein Zug mehrmals am Tag ueberquert; Little Adam's Peak, ein 40-minuetiger Spaziergang durch Tee zu einem Grat; Ella Rock, ein schwierigerer dreistuendiger Aufstieg; und die Ravana-Wasserfaelle auf der Strasse nach Wellawaya. Morgen sind klar und Nachmittage in den feuchten Monaten bringen Wolken in die Luecke, daher werden die Wanderungen frueh gemacht. Tuk-Tuks sind das Transportmittel, und jedes Gaestehaus kann eines finden.",
+  "highlights": [
+   "Horton Plains in der Daemmerung, die einzige Zeit mit Aussicht an World’s End",
+   "Die 9-km-Plateauschleife vorbei an Little World’s End und den Baker-Wasserfaellen",
+   "Montanes Grasland und Wolkenwald auf 2.300 m",
+   "Eine aktive Teefabrik nach Abschluss der Wanderung",
+   "Die Ravana-Wasserfaelle auf dem Rueckweg"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Nuwara Eliya",
+   "Transport zum und vom Park",
+   "Fuehrung auf der Schleife",
+   "alle Stopps"
+  ],
+  "notIncluded": [
+   "Der Horton-Plains-Eintritt",
+   "der Teefabrik-Eintritt",
+   "Mahlzeiten",
+   "Trinkgelder"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Flyboard-Erlebnis in Pattaya",
   "fullDescription": "Dies ist ein 30-minütiges Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Flyboard-Erlebnis, Betreuung durch einen Instructor, Sicherheitsausrüstung und Duschen. Nicht enthalten sind Fotos und Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",

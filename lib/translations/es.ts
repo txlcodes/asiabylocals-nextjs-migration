@@ -96406,6 +96406,198 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "kandy-gem-museumjewelry-making-workshop-tour": {
+  "title": "Kandy: museo de gemas y taller de joyeria, con recogida y regreso",
+  "metaTitle": "Kandy: museo de gemas y taller de joyeria",
+  "metaDescription": "Experiencia de medio dia en Kandy: museo de gemas, taller de joyeria con un maestro artesano, y sitios culturales.",
+  "shortDescription": "Una experiencia de medio dia en Kandy. Operada por Kandy Travel With Sana.",
+  "fullDescription": "Una experiencia de medio dia en Kandy, operada por Kandy Travel With Sana.\n\nKandy Travel With Sana la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye el traslado al hotel (recogida y regreso desde su hotel o dentro de 7 km de la ciudad de Kandy), la orientacion de un maestro artesano, agua embotellada o una taza de te, y las herramientas proporcionadas. No incluye el almuerzo, por lo que debe presupuestar eso por separado. Dos viajeros pagan 19$ juntos en lugar de 19$ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [],
+  "included": [
+   "Traslado al hotel: recogida y regreso desde su hotel o dentro de 7 km de la ciudad de Kandy",
+   "Orientacion: apoyo de un maestro artesano",
+   "Agua embotellada/taza de te",
+   "Equipo: herramientas proporcionadas",
+   "Visita al museo",
+   "Visita a la sala de exhibicion",
+   "Visita al taller",
+   "Puntos destacados culturales y panoramicos:",
+   "Visita a la estupa de Asgiriya",
+   "Visita al mirador de Kandy",
+   "Paseo por el lago de Kandy y exploracion de la ciudad",
+   "Visita al templo de la reliquia del diente sagrado"
+  ],
+  "notIncluded": [
+   "Almuerzo"
+  ]
+ },
+ "from-colombonegombo-yala-national-park-4x4-jeep": {
+  "title": "Desde Colombo/Negombo: safari en jeep 4x4 en el parque nacional de Yala",
+  "metaTitle": "Colombo/Negombo: safari en jeep en Yala",
+  "metaDescription": "Excursion de dia completo desde Colombo: experimente la emocion de un safari en jeep 4x4 en el parque nacional de Yala.",
+  "shortDescription": "Una experiencia de dia completo en Colombo. Experimente la emocion de un safari en jeep 4x4 en el parque nacional de Yala, operada por Sri Lanka car and private driver hire.",
+  "fullDescription": "Un dia completo en Colombo. Experimente la emocion de un safari en jeep 4x4 en el parque nacional de Yala.\n\nSri Lanka car and private driver hire la organiza. La cancelacion es gratuita.\n\nEl precio no incluye la cena, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experimente la emocion de un safari en jeep 4x4 en el parque nacional de Yala"
+  ],
+  "included": [],
+  "notIncluded": [
+   "Cena"
+  ]
+ },
+ "colombo-city-tour-with-tuk-tuk-ride-and-guide": {
+  "title": "Colombo: tour por la ciudad con paseo en tuk-tuk y guia",
+  "metaTitle": "Colombo: tour en tuk-tuk y guia",
+  "metaDescription": "Tour de dia completo en Colombo con todas las entradas, traslado con aire acondicionado, experiencia en tuk-tuk y guia que habla ingles.",
+  "shortDescription": "Una experiencia de dia completo en Colombo, operada por Manu Lanka Tours Pvt Ltd.",
+  "fullDescription": "Un dia completo en Colombo, operado por Manu Lanka Tours Pvt Ltd.\n\nManu Lanka Tours Pvt Ltd lo organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye todas las entradas, el traslado en auto/furgoneta/autobus con aire acondicionado, la experiencia en tuk-tuk, y una botella de agua. No incluye comida y bebidas, por lo que debe presupuestar eso por separado.",
+  "highlights": [],
+  "included": [
+   "Todas las entradas incluidas",
+   "Traslado en auto/furgoneta/autobus con aire acondicionado",
+   "Experiencia en tuk-tuk",
+   "Botella de agua",
+   "Guia que habla ingles"
+  ],
+  "notIncluded": [
+   "Comida y bebidas"
+  ]
+ },
+ "yala-safari-from-ella-with-a-drop-at-arugam-bay": {
+  "title": "Safari en Yala desde Ella con regreso en Arugam Bay",
+  "metaTitle": "Safari en Yala desde Ella, regreso Arugam Bay",
+  "metaDescription": "Safari matutino en Yala en el camino de Ella a Arugam Bay, el pueblo de surf de la costa este de Sri Lanka (temporada mayo-septiembre).",
+  "shortDescription": "Un safari matutino en Yala en el camino de Ella a Arugam Bay, el pueblo de surf de la costa este de Sri Lanka, cuya temporada va de mayo a septiembre.",
+  "fullDescription": "Tenga en cuenta antes de reservar: el Departamento de Conservacion de la Vida Silvestre ha cerrado los Bloques 1 y 2 del parque nacional de Yala del 14 de septiembre al 15 de octubre de 2026 debido a la sequia, por lo que los safaris en esos bloques no pueden realizarse en esas fechas. Los Bloques 3 a 6 permanecen abiertos, y Udawalawe y Wilpattu no se ven afectados, para viajes dentro de ese periodo lo contactaremos para trasladar el safari a uno de esos parques o a una fecha posterior al 15 de octubre. Udawalawe es el parque mas fuerte para elefantes; Wilpattu tiene avistamientos de leopardos mas tranquilos.\n\nArugam Bay funciona en un calendario opuesto al resto de la ruta estandar de Sri Lanka. Su temporada es aproximadamente de mayo a septiembre, exactamente cuando el monzon del suroeste agita las costas sur y oeste, lo que la convierte en el destino adecuado para un viaje de verano europeo que de otro modo seria un compromiso.\n\nLlegar alli desde Ella significa cruzar el sureste, y Yala esta en el camino. Eso hace que el dia de traslado sea el momento sensato para el parque en lugar de un viaje de ida y vuelta.\n\nEl Bloque 1 tiene la densidad mas alta registrada de leopardos en cualquier lugar de la tierra, junto con osos perezosos, elefantes, bufalos de agua, cocodrilos, y mas de doscientas especies de aves. En una mañana ocupada de temporada tambien tiene alrededor de trescientos jeeps; ambas cosas son verdad.\n\nEl paseo al amanecer es el unico que vale la pena, los animales se mueven con la primera luz y se refugian hacia las nueve.\n\nDespues del parque, la carretera sube por la costa hacia el norte pasando por Panama hacia Arugam Bay y Pottuvil, y el paisaje cambia a matorral seco, lagunas, y playas largas y vacias. El extremo final de este tramo limita con el parque nacional de Kumana, una de las mejores zonas de observacion de aves del pais y casi nunca visitada.\n\nFuera de la temporada de surf, gran parte de Arugam Bay cierra y las olas se aplanan, asi que verifique sus fechas antes de reservar.",
+  "highlights": [
+   "Un paseo matutino por Yala integrado en el cruce hacia la costa este",
+   "La densidad mas alta registrada de leopardos salvajes en el mundo",
+   "Arugam Bay, cuya temporada va de mayo a septiembre cuando la costa sur esta cerrada",
+   "Matorral seco, lagunas, y playas largas y vacias en el camino hacia el norte",
+   "El cercano parque nacional de Kumana, una de las mejores zonas de observacion de aves de Sri Lanka"
+  ],
+  "included": [
+   "Vehiculo privado con conductor-guia que habla ingles",
+   "recogida en el hotel en Ella",
+   "el jeep de safari con conductor y rastreador",
+   "el paseo de safari",
+   "regreso en Arugam Bay o Pottuvil",
+   "equipaje transportado durante todo el trayecto"
+  ],
+  "notIncluded": [
+   "El permiso del parque nacional, pagado en efectivo en la puerta",
+   "comidas",
+   "propinas para el conductor y el rastreador"
+  ]
+ },
+ "yala-safari-from-ella-with-a-drop-at-tangalle-or-hiriketiya": {
+  "title": "Safari en Yala desde Ella con regreso en Tangalle o Hiriketiya",
+  "metaTitle": "Safari en Yala desde Ella, regreso Tangalle",
+  "metaDescription": "Safari matutino en Yala en el camino de Ella al extremo mas tranquilo de la costa sur, con regreso en Tangalle o Hiriketiya.",
+  "shortDescription": "Un safari matutino en Yala en el camino de Ella al extremo mas tranquilo de la costa sur, con regreso en Tangalle o Hiriketiya.",
+  "fullDescription": "Tenga en cuenta antes de reservar: el Departamento de Conservacion de la Vida Silvestre ha cerrado los Bloques 1 y 2 del parque nacional de Yala del 14 de septiembre al 15 de octubre de 2026 debido a la sequia, por lo que los safaris en esos bloques no pueden realizarse en esas fechas. Los Bloques 3 a 6 permanecen abiertos, y Udawalawe y Wilpattu no se ven afectados, para viajes dentro de ese periodo lo contactaremos para trasladar el safari a uno de esos parques o a una fecha posterior al 15 de octubre. Udawalawe es el parque mas fuerte para elefantes; Wilpattu tiene avistamientos de leopardos mas tranquilos.\n\nTangalle e Hiriketiya estan en el extremo este de la costa sur, pasando Mirissa, y es donde las playas se abren y las multitudes disminuyen. Hiriketiya en particular es una bahia en forma de herradura que ha pasado de ser desconocida a conocida en aproximadamente una decada y sigue siendo una fraccion del tamaño de Unawatuna.\n\nYala esta entre Ella y ese tramo de costa, lo que hace que el dia de traslado sea el dia adecuado para el parque en lugar de un viaje de ida y vuelta desde cualquiera de los extremos.\n\nEl Bloque 1 tiene la densidad mas alta registrada de leopardos en cualquier lugar de la tierra, junto con osos perezosos, elefantes, cocodrilos de pantano, y mas de doscientas especies de aves. Tambien tiene alrededor de trescientos jeeps en una mañana ocupada de temporada, y ambas cosas pertenecen a la misma frase.\n\nEl paseo al amanecer es el que funciona. Los animales se mueven con la primera luz y se refugian hacia las nueve, y hacia las once el parque es solo calor y vehiculos.\n\nDespues del paseo son unas dos horas hacia el oeste a lo largo de la costa, llegando temprano por la tarde con el dia de playa aun intacto.\n\nUna advertencia sobre este extremo de la costa: las corrientes en Tangalle estan entre las mas fuertes de la costa sur y no hay socorristas. Es un lugar hermoso para mirar el mar y a menudo malo para nadar en el.",
+  "highlights": [
+   "Un paseo matutino por Yala integrado en el traslado en lugar de un dia separado",
+   "La densidad mas alta registrada de leopardos salvajes en el mundo",
+   "Osos perezosos, elefantes, cocodrilos, y mas de 200 especies de aves",
+   "Regreso en Tangalle o Hiriketiya, pasando la costa sur mas concurrida",
+   "Llegada temprano por la tarde con el dia de playa aun utilizable"
+  ],
+  "included": [
+   "Transporte compartido desde su hotel en Ella",
+   "un jeep de safari 4x4 con conductor y rastreador",
+   "el paseo de safari",
+   "regreso en Tangalle o Hiriketiya",
+   "equipaje transportado durante todo el trayecto"
+  ],
+  "notIncluded": [
+   "El permiso del parque nacional, pagado en efectivo en la puerta",
+   "comidas",
+   "propinas para el conductor y el rastreador"
+  ]
+ },
+ "ella-heights-all-inclusive-day-trip-with-halpewatte-tea-factory": {
+  "title": "Ella Heights: excursion todo incluido con la fabrica de te Halpewatte y la tirolina",
+  "metaTitle": "Ella Heights: excursion todo incluido",
+  "metaDescription": "Un largo dia privado que cubre las cascadas de Ravana, la fabrica de te Halpewatte, el puente de los nueve arcos, la tirolina Flying Ravana, y Little Adam's Peak.",
+  "shortDescription": "Un largo dia privado que cubre las cascadas de Ravana, la fabrica de te Halpewatte, el puente de los nueve arcos, la tirolina Flying Ravana, y Little Adam's Peak, con recogida desde los tres pueblos de montaña de Uva.",
+  "fullDescription": "Doce horas, comenzando antes del amanecer, cubriendo la lista completa de Ella desde cualquiera de los tres pueblos de montaña de Uva.\n\nLittle Adam's Peak lo abre. Cuarenta y cinco minutos por un sendero mayormente escalonado desde el borde del pueblo, lo suficientemente facil para la mayoria de los niveles de forma fisica, y la vista a traves de Ella Gap hacia la llanura sur es por lo que el pueblo es conocido. La primera luz no es una preferencia aqui, el aire es mas claro por la mañana en todos los meses del año, y hacia las nueve hay una fila para la misma foto.\n\nHalpewatte es la fabrica de te mas grande de la region de Uva y una de las mas instructivas de visitar. El recorrido sigue la hoja desde el tanque de marchitado a traves del enrollado, la oxidacion, y el tostado hasta la mesa de clasificacion, y termina en una terraza con vista a las plantaciones con una taza del grado que no sale del pais.\n\nEl puente de los nueve arcos sigue: 91 metros de viaducto de piedra a 24 metros sobre un desfiladero, completado durante la Primera Guerra Mundial en mamposteria solida porque el acero destinado para el fue requisado para Europa.\n\nLa tirolina Flying Ravana recorre 550 metros a traves del valle a hasta 80 kilometros por hora, y las cascadas de Ravana cierran el dia.\n\nRecogida desde Ella, Haputale, o Bandarawela, lo cual es inusual, la mayoria de los operadores solo recogen en Ella.",
+  "highlights": [
+   "Little Adam’s Peak con la primera luz, antes de que la cima se llene",
+   "Halpewatte, la fabrica de te mas grande de Uva, con una terraza en la plantacion",
+   "El puente de los nueve arcos, construido en piedra sin acero durante la Primera Guerra Mundial",
+   "La tirolina Flying Ravana, 550 m a traves del valle",
+   "Recogida desde Ella, Haputale, o Bandarawela"
+  ],
+  "included": [
+   "Vehiculo privado con conductor-guia que habla ingles",
+   "recogida y regreso al hotel en Ella, Haputale, o Bandarawela",
+   "todos los trayectos entre sitios",
+   "guia durante la caminata"
+  ],
+  "notIncluded": [
+   "La tarifa de la tirolina",
+   "la entrada a la fabrica de te",
+   "comidas y bebidas",
+   "compras de te",
+   "propinas"
+  ]
+ },
+ "all-inclusive-ella-day-with-a-tea-factory-and-the-hill-country-train": {
+  "title": "Dia todo incluido en Ella con fabrica de te y tren de montaña",
+  "metaTitle": "Ella todo incluido: fabrica de te y tren",
+  "metaDescription": "Dia privado todo incluido en Ella: plantaciones de te, fabrica en funcionamiento, tren de montaña, puente de los nueve arcos y Little Adam's Peak.",
+  "shortDescription": "Un dia privado todo incluido en Ella: las plantaciones de te, una fabrica en funcionamiento, un tramo en el ferrocarril de montaña, el puente de los nueve arcos, y Little Adam's Peak, todo organizado.",
+  "fullDescription": "Ella se encuentra a poco mas de mil metros en un hueco entre dos crestas, rodeada de te por todos lados, y este dia esta diseñado para mostrarle el te tanto como los lugares de interes.\n\nEl te de Uva es genuinamente distinto. Un viento seco estacional sopla sobre estas laderas de junio a septiembre y le da a la hoja un caracter que los catadores pueden identificar a ciegas, por lo que las plantaciones de Uva se venden a sus propios precios en la subasta de Colombo. Una visita a una fabrica en funcionamiento sigue la hoja desde los tanques de marchitado a traves del enrollado, la oxidacion, y el tostado hasta la mesa de clasificacion en unos cuarenta y cinco minutos, y es la explicacion mas clara que alguien le dara de por que un arbusto produce seis productos clasificados.\n\nEl tramo en tren es la otra mitad. La linea de montaña entre Demodara y Ella es el tramo que todos fotografian, y tomarlo, en lugar de solo mirar el puente que atraviesa, es la diferencia entre ver el ferrocarril y viajar en el.\n\nAlrededor de esos dos, Little Adam's Peak con la primera luz y el puente de los nueve arcos a media mañana.\n\nTodo incluido aqui significa que los boletos y entradas estan organizados en lugar de pagados en cada puerta, lo cual en un dia con cuatro paradas separadas vale mas de lo que parece.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, alcanzado por el tren desde Kandy que la mayoria califica como el viaje ferroviario mas hermoso de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; Little Adam's Peak, una caminata de 40 minutos a traves del te hasta una cresta; Ella Rock, una ascension mas dificil de tres horas; y las cascadas de Ravana en el camino hacia Wellawaya. Las mañanas son claras y las tardes en los meses humedos traen nubes al hueco, por lo que las caminatas se hacen temprano. Los tuk-tuks son el transporte, y toda pension puede encontrar uno.",
+  "highlights": [
+   "Una fabrica de te en funcionamiento de Uva desde el tanque de marchitado hasta la mesa de clasificacion",
+   "Un tramo en el ferrocarril de montaña en lugar de solo ver el puente",
+   "Little Adam’s Peak con la primera luz, antes de que la cima se llene",
+   "El puente de los nueve arcos, construido en piedra sin acero durante la Primera Guerra Mundial",
+   "Boletos y entradas organizados en lugar de pagados en cada parada"
+  ],
+  "included": [
+   "Vehiculo privado con conductor-guia que habla ingles",
+   "recogida y regreso al hotel en Ella",
+   "la visita a la fabrica de te",
+   "boletos de tren para el tramo de Demodara",
+   "tarifas de entrada",
+   "todos los trayectos"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "compras de te",
+   "propinas",
+   "gastos personales"
+  ]
+ },
+ "horton-plains-trek-from-nuwara-eliya-with-a-tea-factory-and-ravana-falls": {
+  "title": "Caminata por Horton Plains desde Nuwara Eliya con fabrica de te y cascadas de Ravana",
+  "metaTitle": "Horton Plains desde Nuwara Eliya",
+  "metaDescription": "Una caminata matutina en Horton Plains desde Nuwara Eliya, seguida de una fabrica de te en funcionamiento y las cascadas de Ravana.",
+  "shortDescription": "Una caminata matutina en Horton Plains desde Nuwara Eliya, seguida de una fabrica de te en funcionamiento y las cascadas de Ravana, todo el dia de montaña en una sola reserva.",
+  "fullDescription": "Horton Plains solo funciona al amanecer, y ese unico hecho moldea todo este dia.\n\nWorld's End mira hacia el sur. El aire caliente se eleva de la llanura durante la mañana, y hacia las nueve o diez la cornisa esta dentro de una nube sin nada visible en absoluto. La puerta abre a las seis, lo que significa salir de Nuwara Eliya a las cinco, y no hay version flexible de eso.\n\nLa meseta esta a unos 2.300 metros y es diferente a cualquier otro lugar en Sri Lanka, pastizal montano y bosque de nubes, azotado por el viento y frio, con arboles enanos colgados de musgo. El circuito es de nueve kilometros y tres a cuatro horas, caminado en sentido contrario a las agujas del reloj para que World's End llegue antes de la nube y las cascadas de Baker en el regreso.\n\nCon la caminata terminada a media mañana, el resto del dia se llena con las cosas que no necesitan un comienzo temprano: una fabrica de te en funcionamiento que sigue la hoja desde el tanque de marchitado hasta la mesa de clasificacion, y las cascadas de Ravana en el camino hacia Ella.\n\nDoce horas en total, que suena largo y no se siente asi, porque la parte exigente termina antes de las once.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, alcanzado por el tren desde Kandy que la mayoria califica como el viaje ferroviario mas hermoso de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; Little Adam's Peak, una caminata de 40 minutos a traves del te hasta una cresta; Ella Rock, una ascension mas dificil de tres horas; y las cascadas de Ravana en el camino hacia Wellawaya. Las mañanas son claras y las tardes en los meses humedos traen nubes al hueco, por lo que las caminatas se hacen temprano. Los tuk-tuks son el transporte, y toda pension puede encontrar uno.",
+  "highlights": [
+   "Horton Plains al amanecer, el unico momento con vista en World’s End",
+   "El circuito de la meseta de 9 km pasando por Little World’s End y las cascadas de Baker",
+   "Pastizal montano y bosque de nubes a 2.300 m",
+   "Una fabrica de te en funcionamiento una vez terminada la caminata",
+   "Las cascadas de Ravana en el camino de regreso"
+  ],
+  "included": [
+   "Auto privado con aire acondicionado con conductor-guia que habla ingles",
+   "recogida y regreso al hotel en Nuwara Eliya",
+   "transporte hacia y desde el parque",
+   "guia en el circuito",
+   "todas las paradas"
+  ],
+  "notIncluded": [
+   "La tarifa de entrada a Horton Plains",
+   "la entrada a la fabrica de te",
+   "comidas",
+   "propinas"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Experiencia de flyboard en Pattaya",
   "fullDescription": "Esta es una experiencia de 30 minutos en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye experiencia de flyboard, apoyo de un instructor, equipo de seguridad y duchas. No incluye fotos y recogida y regreso al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
