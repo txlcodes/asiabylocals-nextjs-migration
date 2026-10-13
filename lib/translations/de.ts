@@ -100632,6 +100632,237 @@ export const DE_TOURS: Record<string, TourT> = {
    "persoenliche Ausgaben"
   ]
  },
+ "private-sigiriya-rock-dambulla-cave-temple-day-trip-lunch": {
+  "title": "Privater Tagesausflug zum Felsen von Sigiriya und den Hoehlentempeln von Dambulla mit Mittagessen",
+  "metaTitle": "Sigiriya und Dambulla privat",
+  "metaDescription": "Ein langer privater Tagesausflug ab Colombo zur Felsenzitadelle Sigiriya und den bemalten Hoehlentempeln von Dambulla, mit Mittagessen inklusive.",
+  "shortDescription": "Ein langer privater Tagesausflug ab Colombo zur Felsenzitadelle aus dem fuenften Jahrhundert in Sigiriya und den bemalten Hoehlentempeln von Dambulla, mit Mittagessen und Ruecktransfer inklusive.",
+  "fullDescription": "Sigiriya und Dambulla liegen etwa vier Stunden nordlich von Colombo in der Trockenzone, was diesen Tag zu einem wirklich langen macht. Rechnen Sie mit einer Abfahrt vor Sonnenaufgang und einer spaeten Rueckkehr, zwoelf bis vierzehn Stunden von Tuer zu Tuer, abhaengig vom Verkehr auf der Kurunegala-Strasse. Die Leute machen es und sind froh darueber, aber es lohnt sich, mit offenen Augen hineinzugehen statt einen gemaechlichen Ausflug zu erwarten.\n\nSigiriya ist ein Granitfelsen, der zweihundert Meter aus einem flachen Wald aufsteigt, und im fuenften Jahrhundert baute Koenig Kassapa eine koenigliche Zitadelle darauf. Was erhalten ist, ist bemerkenswert: Wassergaerten und Felsgaerten an der Basis, die Spiegelwand mit jahrhundertealten Besucher-Graffiti, eine geschuetzte Galerie mit Fresken auf der Felswand und die Loewenpranken, die einst ein vollstaendiges loewenfoermiges Tor umrahmten. Der Gipfel enthaelt die Fundamente des Palastes und einen Blick ueber die gesamte Ebene.\n\nDer Aufstieg umfasst etwa 1.200 Stufen, ein Grossteil davon auf offenen Metalltreppen, die an der Felswand befestigt sind. Es dauert bei den meisten Menschen etwa eine Stunde hinauf und ist der Sonne ausgesetzt, was der Hauptgrund ist, fruh zu beginnen. Falls der Aufstieg nicht realistisch ist, bietet der benachbarte Pidurangala-Felsen den klassischen Blick auf Sigiriya selbst bei weniger Anstrengung.\n\nDambulla ist das Gegengewicht: fuenf Hoehlen unter einem Felsvorsprung mit mehr als 150 Buddha-Statuen und bemalten Decken, die jeder Kontur des Steins folgen. Teile davon stammen aus dem ersten Jahrhundert vor unserer Zeitrechnung, mit Schichten erneuter Bemalung ueber die Kandy-Periode hinweg. Es ist kuehler, schattig und erfordert nur einen kurzen Aufstieg zur Terrasse.\n\nDie Reise ist privat, das Tempo liegt also bei Ihnen, und das Mittagessen in einem lokalen Restaurant ist inklusive. Ihr Fahrer-Guide uebernimmt die Logistik; auf der Rueckfahrt schlafen die meisten Menschen.",
+  "highlights": [
+   "Besteigung der Felsenzitadelle Sigiriya aus dem fuenften Jahrhundert und der Ruinen des Gipfelpalastes",
+   "Die erhaltenen Felsmalereien und das Loewenpranken-Tor sehen",
+   "Fuenf bemalte Hoehlentempel in Dambulla mit ueber 150 Buddha-Statuen erkunden",
+   "Privates klimatisiertes Fahrzeug und Fahrer-Guide fuer den ganzen Tag",
+   "Sri-lankisches Mittagessen in einem lokalen Restaurant inklusive"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug mit englischsprachigem Fahrer-Guide",
+   "Abholung und Absetzen am Hotel",
+   "Mittagessen in einem lokalen Restaurant",
+   "Flaschenwasser",
+   "Kraftstoff, Maut und Parken inklusive"
+  ],
+  "notIncluded": [
+   "Eintrittskarten fuer Sigiriya und Dambulla",
+   "Getraenke",
+   "Trinkgelder",
+   "persoenliche Ausgaben",
+   "Gebuehren fuer einen Ortsfuehrer in Sigiriya, falls gebucht"
+  ]
+ },
+ "gampaha-forest-atv-adventure-ride": {
+  "title": "ATV-Abenteuerfahrt durch den Wald von Gampaha",
+  "metaTitle": "ATV in Gampaha",
+  "metaDescription": "Eine gefuehrte neunzigminuetige ATV-Fahrt durch zwanzig Hektar Waldgelaende in Gampaha, ein einfacher Halbtagesausflug ab Colombo.",
+  "shortDescription": "Eine gefuehrte neunzigminuetige ATV-Fahrt durch zwanzig Hektar Waldgelaende in Gampaha, ein einfacher Halbtagesausflug ab Colombo fuer alle, die Schlamm statt Denkmaeler wollen.",
+  "fullDescription": "Gampaha liegt in der feuchten Zone direkt landeinwaerts von Negombo, nah genug an Colombo fuer einen morgendlichen Ausflug und zurueck. Das Gelaende hier besteht aus Kokosland und Sekundaerwald, durchzogen von roten Lateritpisten, und nach Regen werden diese Pisten zu genau der Art von Oberflaeche, fuer die ein Allradfahrzeug gebaut ist.\n\nDer Park umfasst etwa zwanzig Hektar natuerliches Waldgelaende, angelegt als Streckenrundkurs statt als flacher Uebungsring. Das bedeutet echte Steigungen, Wasserdurchfahrten, ausgefahrene Abschnitte und genug enge Kurven, um die Fahrt interessant statt zu einer geraden Linie zu machen. Die Fahrzeit betraegt etwa neunzig Minuten einschliesslich des Briefings.\n\nKeine Vorerfahrung ist notig. Die Maschinen sind automatisch, und die Session beginnt mit einem Sicherheitsbriefing und einer kurzen Eingewoehnungsrunde, bei der Sie sich an Gas, Bremsen und Koerperhaltung gewoehnen, bevor es auf die Strecke geht. Ein Guide fuehrt die Gruppe und passt das Tempo dem unsichersten Fahrer an, was dies sowohl fuer Anfaenger als auch fuer erfahrene Fahrer geeignet macht.\n\nSie werden schmutzig werden. Das ist der Sinn der Sache, und es lohnt sich, Kleidung zu tragen, die Sie nicht vermissen wuerden, oder zumindest einen Wechsel fuer die Rueckfahrt mitzubringen. Geschlossene Schuhe sind unerlaesslich, und lange Aermel schuetzen Ihre Unterarme vor Zweigen.\n\nDies ist eine unkomplizierte Aktivitaet statt eines kulturellen Ausflugs, und sie passt gut zu einem Strandnachmittag in Negombo oder zu einem Tag, der sonst im Verkehr von Colombo verbracht wird. Fahrten finden bei fast jedem Wetter statt; starker Regen macht die Pisten besser, nicht schlechter, obwohl der Betreiber Sessions bei Gewitter aussetzt.",
+  "highlights": [
+   "Neunzig Minuten gefuehrtes Fahren auf rund zwanzig Hektar Waldstrecke",
+   "Automatische ATVs, geeignet fuer komplette Anfaenger",
+   "Sicherheitsbriefing und Eingewoehnungsrunde vor der Strecke",
+   "Wasserdurchfahrten, Steigungen und ausgefahrene Waldpisten statt eines flachen Uebungsrings",
+   "Ein einfacher Halbtagesausflug aus dem Verkehr von Colombo"
+  ],
+  "included": [
+   "ATV-Vermietung fuer die Session",
+   "Sicherheitsbriefing und Anleitung",
+   "Helm und Sicherheitsausruestung",
+   "Streckenguide"
+  ],
+  "notIncluded": [
+   "Transport zum und vom Park",
+   "Mahlzeiten und Getraenke",
+   "Versicherung",
+   "Fotos und Video",
+   "Trinkgelder"
+  ]
+ },
+ "south-coast-day-trip-turtle-hatchery-madu-river-galle-fort": {
+  "title": "Tagesausflug an der Suedkueste: Schildkroetenaufzuchtstation, Madu-Fluss und Festung Galle",
+  "metaTitle": "Suedkueste: Schildkroeten und Galle",
+  "metaDescription": "Ein langer Kuestentag suedlich von Colombo oder Negombo mit Bentota, einem Schildkroeten-Schutzprojekt, einer Flusssafari am Madu-Fluss und der Festung Galle.",
+  "shortDescription": "Ein langer Kuestentag suedlich von Colombo oder Negombo mit dem Strand von Bentota, einem Schildkroeten-Schutzprojekt in Kosgoda, einer Bootssafari auf dem Madu-Fluss und den Wallanlagen der Festung Galle.",
+  "fullDescription": "Die Strasse suedlich von Colombo verlaeuft fast die ganze Zeit in Sichtweite des Meeres, und diese Tour nutzt sie, um vier ganz unterschiedliche Dinge an einem einzigen Tag miteinander zu verknuepfen: einen Strand, ein Schildkroeten-Schutzprojekt, einen Mangrovenfluss und eine von Mauern umschlossene hollaendische Stadt. Das ist viel Strecke, und die ehrliche Version ist, dass Sie einen fairen Anteil des Tages im Auto verbringen.\n\nDer erste Stopp ist Bentota, wo der Bentota Ganga hinter einer langen Sandbank auf den Ozean trifft. Es ist ein kurzer Fotostopp statt eines Strandnachmittags, und es ist auch der Ausgangspunkt fuer Wassersport, falls Sie etwas auf eigene Kosten ergaenzen moechten.\n\nIn Kosgoda besuchen Sie ein Schutzprojekt fuer Meeresschildkroeten. Fuenf der sieben Meeresschildkroetenarten der Welt nisten an Sri Lankas Kueste, und Aufzuchtstationen hier kaufen den Strandsammlern die Eier ab, um sie vom Markt fernzuhalten, und lassen dann die Jungtiere frei. Es lohnt sich zu wissen, dass dieses Modell unter Naturschuetzern umstritten ist; die besseren Projekte lassen schnell frei und halten den Umgang minimal, und es ist angebracht, vor Ort Fragen zu stellen.\n\nDie Madu-Fluss-Safari ist der ruhige Teil des Tages. Das Aestuar ist ein Ramsar-Feuchtgebiet, uebersaet mit kleinen Inseln, und das Boot faedelt sich durch Mangrovenkanaele, wo sich das Blaetterdach oben schliesst. Sie kommen an Fischtherapie-Plattformen vorbei, einer Zimtinsel, wo das Schaelen vorgefuehrt wird, und einer Tempelinsel, die nur zu Wasser erreichbar ist.\n\nDie Festung Galle beschliesst den Tag. Die Hollaender bauten die portugiesische Festung im siebzehnten Jahrhundert wieder auf, und ihr Strassenraster, die Wallanlagen und der Leuchtturm von 1848 ueberstanden den Tsunami von 2004 weitgehend unbeschaedigt. Sie haben etwa eine Stunde Zeit, sie zu durchwandern, genug fuer die Mauern und die Hauptgassen, aber nicht fuer die Museen. Ein Mittagessen in einem lokalen Restaurant ist unterwegs inklusive, und Sie werden am Abend nach Negombo oder Colombo zuruckgebracht.",
+  "highlights": [
+   "Bootssafari durch Mangrovenkanaele im Aestuar des Madu-Flusses",
+   "Schutzprojekt fuer Meeresschildkroeten in Kosgoda",
+   "Spaziergang auf den Wallanlagen und Strassen der hollaendisch errichteten Festung Galle",
+   "Fotostopp am Strand von Bentota, wo der Fluss auf das Meer trifft",
+   "Privates klimatisiertes Auto mit Abholung und Absetzen am Hotel"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug mit Fahrer",
+   "Abholung und Absetzen am Hotel in Negombo oder Colombo",
+   "Madu-Fluss-Bootssafari",
+   "Mittagessen in einem lokalen Restaurant",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Eintritts- und Spendengebuehren an der Schildkroetenaufzuchtstation und anderen Orten",
+   "Wassersport in Bentota",
+   "Getraenke",
+   "Trinkgelder",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "ella-waterfall-abseiling-adventure-hotel-pickup": {
+  "title": "Abseil-Abenteuer an Wasserfaellen bei Ella mit Hotelabholung",
+  "metaTitle": "Abseilen an Ellas Wasserfaellen",
+  "metaDescription": "Vier Stunden Abseilen an zwei Wasserfaellen in den Huegeln um Ella, mit Ausbildern, kompletter technischer Ausruestung und Abholung.",
+  "shortDescription": "Vier Stunden Abseilen an zwei Wasserfaellen in den Huegeln um Ella, mit Ausbildern, kompletter technischer Ausruestung und Abholung aus nahen Bergstaedten.",
+  "fullDescription": "Ella liegt in den Uva-Huegeln, wo die Steilkante zu den suedlichen Ebenen abfaellt, und die Baeche, die von diesem Rand herabkommen, erzeugen eine Reihe von Wasserfaellen in kurzer Fahrdistanz von der Stadt. Diese Tour nutzt zwei davon zum Abseilen, wobei der nasse Fels an einem Seil hinabgestiegen wird, waehrend Ausbilder das System von oben steuern.\n\nEs beginnt am Boden mit dem wichtigen Teil: Anpassung des Gurtzeugs, Helm, wie der Abseilgeraet funktioniert, wie man das Seil haelt und wie man die Fuesse an einer Felsplatte hinabgehen laesst statt hineinzuschwingen. Sie ueben an einem niedrigen Abschnitt, bis die Ausbilder zufrieden sind, dann geht es zum ersten Abstieg.\n\nEinen Wasserfall abzuseilen ist anders als trockenen Fels abzuseilen. Der Stein ist rutschig, Wasser laeuft ueber Ihre Haende und den Ruecken herab, und der Laerm bedeutet, dass Sie auf der letzten Strecke Anweisungen per Handzeichen erhalten. Es ist wirklich aufregend und zugleich vollstaendig kontrolliert: Sie sind an einem fixierten Seil mit Sicherung, und der Ausbilder kann Sie jederzeit von oben anhalten.\n\nZwei Faelle unterschiedlicher Hoehe werden genutzt, sodass der erste als Aufwaermung dient und der zweite den laengeren Abstieg bietet. Zwischen ihnen gibt es einen kurzen Transfer und einen Zuweg, teilweise auf nassem, unebenem Boden durch Teeland und Wald.\n\nEine Sache, die klar sein sollte, ist der Standort. Ella liegt im Bergland etwa zweihundert Kilometer von Colombo, fuenf bis sechs Stunden auf der Strasse oder eine lange Fahrt mit dem Zug von Kandy nach Ella. Diese Tour holt von Ella und den nahen Bergstaedten ab, planen Sie sie also als Teil Ihrer Zeit im Hochland statt als Tagesausflug von der Hauptstadt. Die Wassermenge variiert je nach Niederschlag, und nach starkem Regen kann der Betreiber die Faelle wechseln oder verschieben.",
+  "highlights": [
+   "An zwei Wasserfaellen in den Huegeln um Ella abseilen, geleitet von ausgebildeten Instruktoren",
+   "Vollstaendiges Bodentraining und ein Uebungsabstieg vor dem ersten Fall",
+   "Gurtzeuge, Helme, Seile und alle technische Ausruestung gestellt",
+   "Geeignet fuer Anfaenger mit einem angemessenen Fitnesslevel",
+   "Abholung und Absetzen aus Ella und den umgebenden Bergstaedten"
+  ],
+  "included": [
+   "Zertifizierte Abseil-Instruktoren",
+   "Gurtzeug, Helm, Seile, Abseilgeraet und alle technische Ausruestung",
+   "Sicherheitsbriefing und Uebungssession",
+   "Ruecktransfer von Ihrem angegebenen Abholpunkt",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke",
+   "Fotos und Video",
+   "Handtuecher",
+   "persoenliche Kleidung und Schuhe",
+   "Trinkgelder",
+   "Reiseversicherung fuer Abenteueraktivitaeten"
+  ]
+ },
+ "colombo-jet-ski-ride-thermopylae-sierra-shipwreck": {
+  "title": "Jetski-Fahrt von Colombo zum Schiffswrack der Thermopylae Sierra",
+  "metaTitle": "Jetski zum Thermopylae-Wrack",
+  "metaDescription": "Eine gefuehrte Jetski-Fahrt entlang der Kueste von Colombo zum halb versunkenen Wrack der Thermopylae Sierra, mit Briefing und einem Guide an Ihrer Seite.",
+  "shortDescription": "Eine gefuehrte Jetski-Fahrt entlang der Kueste von Colombo zum halb versunkenen Wrack der Thermopylae Sierra, mit Briefing und einem Guide an Ihrer Seite.",
+  "fullDescription": "Die Thermopylae Sierra lief vor Colombo auf Grund und kam nie wieder frei. Ein Teil des Rumpfes steht noch immer ueber dem Wasser, was dieses Wrack zu einem der sehr wenigen in Sri Lanka macht, an das man direkt an der Oberflaeche heranfahren kann, statt dafuer zu tauchen. Diese Tour ist eine gefuehrte Jetski-Fahrt hinaus und zurueck entlang der Kueste von Mount Lavinia.\n\nSie beginnen an Land mit einem Briefing: Gas und Lenkung, die Kill-Cord am Handgelenk, wie die Maschine abbiegt, wenn Sie den Gashebel loslassen, und die Regeln, um in Formation hinter dem Guide zu bleiben. Kein Fuehrerschein ist notwendig und keine Vorerfahrung wird erwartet, aber Sie muessen dem Leitfahrer folgen, denn die Strecke kreuzt Gewaesser, die von Fischerbooten aus Colombo genutzt werden.\n\nDie Fahrt zum Wrack dauert je nach Meer etwa fuenfundzwanzig bis dreissig Minuten in jede Richtung. Sie kommen nah genug heran, um die Beplankung, den Rost und die Daenung zu sehen, die durch die freigelegte Struktur arbeitet, mit Zeit, die Motoren abzustellen und Fotos zu machen, bevor es zurueckgeht. Seevoegel nutzen es als Sitzplatz, und an klaren Tagen koennen Sie sehen, wie viel des Rumpfes unter der Oberflaeche liegt.\n\nZwei Stunden decken das Ganze ab: das Briefing, das Ausruesten, die Hinfahrt, die Zeit am Wrack, die Rueckfahrt und das Abtrocknen. Die tatsaechliche Zeit auf der Maschine ist deutlich kuerzer, und es lohnt sich, mit dieser Erwartung hineinzugehen.\n\nDer Seezustand bestimmt hier alles. Die trockeneren Monate von etwa November bis April bieten das ruhigste Wasser und die besten Chancen, planmaessig zu fahren. Waehrend des Suedwestmonsuns, etwa von Mai bis September, zwingt die Daenung an dieser Kueste haeufig zur Verschiebung der Fahrten, und ein verantwortungsbewusster Betreiber wird eher absagen, als einen Jetski in eine schlechte See zu schicken.\n\nSie fahren mit einer Schwimmweste, und der Guide bleibt die ganze Zeit in Sichtweite. Rechnen Sie damit, grundlich nass zu werden.",
+  "highlights": [
+   "Zum halb versunkenen Wrack der Thermopylae Sierra hinausfahren, sichtbar ueber der Wasserlinie",
+   "Gefuehrte Jetski-Fahrt entlang der Kueste von Mount Lavinia und Dehiwala",
+   "Vollstaendiges Briefing an Land, also kein Fuehrerschein oder Erfahrung notig",
+   "Jetski, Kraftstoff, Schwimmweste und Kill-Cord gestellt",
+   "Motoren am Wrack abgestellt fuer Fotos"
+  ],
+  "included": [
+   "Jetski-Vermietung und Kraftstoff",
+   "gefuehrte Fahrt mit einem Leitfahrer",
+   "Sicherheitsbriefing",
+   "Schwimmweste und Kill-Cord",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Abholung und Absetzen am Hotel",
+   "Fotos und Video",
+   "Handtuecher",
+   "Mahlzeiten",
+   "Trinkgelder",
+   "Reiseversicherung und eventuelle Schadensselbstbeteiligung"
+  ]
+ },
+ "sigiriya-sunrise-climb-dambulla-kandy-day-trip-colombo": {
+  "title": "Tagesausflug ab Colombo: Sonnenaufgangsbesteigung von Sigiriya, Dambulla und Kandy",
+  "metaTitle": "Sigiriya bei Sonnenaufgang, Dambulla und Kandy",
+  "metaDescription": "Ein vierzehnstuendiger Tagesausflug, der Sigiriya im ersten Licht besteigt, die Hoehlentempel von Dambulla besucht und am Zahntempel in Kandy endet.",
+  "shortDescription": "Ein vierzehnstuendiger Tagesausflug, der Sigiriya im ersten Licht besteigt, die Hoehlentempel von Dambulla besucht und am Tempel der Heiligen Zahnreliquie in Kandy endet.",
+  "fullDescription": "Der Grund, Sigiriya beim Sonnenaufgang zu besuchen, ist einfach. Gegen neun Uhr morgens ist der Felsen heiss, die Treppen sind ueberfuellt, und die Ebene darunter ist verdunstet. Kommen Sie zur Oeffnungszeit an, und Sie steigen in kuehler Luft, mit dem Nebel noch ueber den Feldern und dem Gipfel weitgehend fuer sich allein. Darum ist diese Tour aufgebaut, und deshalb erfolgt die Abholung mitten in der Nacht.\n\nDie Fahrt von Colombo dauert etwa drei Stunden, Sie fahren also in den fruehen Morgenstunden ab und erreichen Sigiriya, bevor das Tor oeffnet. Der Aufstieg umfasst etwa zwolfhundert Stufen auf einen zweihundert Meter hohen Granitfelsen, vorbei an der geschuetzten Galerie, in der Fresken aus dem fuenften Jahrhundert an der Felswand erhalten sind, hinauf zwischen den Loewenpranken bis zum Gipfel, wo die Fundamente des Palastes von Koenig Kassapa auf symmetrische Wassergaerten hinabblicken.\n\nDas Fruehstueck kommt nach dem Aufstieg statt davor, dann Dambulla, zwanzig Minuten entfernt, wo fuenf Hoehlen in einem Felsvorsprung mehr als 150 Buddha-Statuen unter bemalten Decken beherbergen. Es ist ein aktiv genutzter Tempel, also werden die Schuhe ausgezogen, und der letzte Abschnitt wird barfuss erklommen.\n\nDer Nachmittag gehoert Kandy, zweieinhalb Stunden suedlich durch das Bergland. Der Tempel der Heiligen Zahnreliquie beherbergt die Zahnreliquie Buddhas, ein Objekt, das historisch legitimierte, wer auch immer die Insel regierte, weshalb der Tempel innerhalb des alten koeniglichen Palastkomplexes neben dem See liegt. Den Besuch mit einer der taeglichen Puja-Zeremonien zu verbinden, wenn die Trommler spielen und die innere Kammer geoeffnet wird, lohnt sich.\n\nSeien Sie realistisch bezueglich des Tages. Mit einer naechtlichen Abfahrt, zwei Standorten, Kandy und der Heimfahrt laeuft das auf etwa vierzehn Stunden hinaus, und Sie werden dabei an Schlaf fehlen. Doesen Sie im Fahrzeug auf der Hinfahrt, und planen Sie fuer den naechsten Morgen nichts Anstrengendes.",
+  "highlights": [
+   "Sigiriya zur Oeffnungszeit besteigen, in kuehler Luft und vor der Menge und dem Dunst",
+   "Die Fresken aus dem fuenften Jahrhundert, die Loewenpranken und die Palastruinen auf dem Gipfel der Felsenfestung",
+   "Die fuenf bemalten Hoehlentempel von Dambulla und ihre mehr als 150 Buddha-Statuen",
+   "Der Tempel der Heiligen Zahnreliquie in Kandy, innerhalb des alten koeniglichen Palastkomplexes",
+   "Abholung und Absetzen am Hotel in Colombo oder Negombo im Privatfahrzeug"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug mit Fahrer-Guide",
+   "Abholung und Absetzen am Hotel in Colombo oder Negombo",
+   "Kraftstoff und Parken",
+   "Fruehstueck",
+   "Fuehrung an jedem Standort",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer Sigiriya, Dambulla und den Zahntempel",
+   "Mittag- und Abendessen",
+   "Getraenke",
+   "Einkaeufe im Besucherzentrum",
+   "Trinkgelder",
+   "Reiseversicherung"
+  ]
+ },
+ "sigiriya-dambulla-minneriya-safari-day-trip-colombo": {
+  "title": "Tagesausflug ab Colombo: Sigiriya, Dambulla und Safari in Minneriya",
+  "metaTitle": "Sigiriya, Dambulla und Minneriya-Safari",
+  "metaDescription": "Ein langer Tag ab Colombo mit den Hoehlentempeln von Dambulla, der Felsenfestung Sigiriya und einer nachmittaeglichen Jeep-Safari in Minneriya.",
+  "shortDescription": "Ein langer Tag ab Colombo mit den Hoehlentempeln von Dambulla, der Felsenfestung Sigiriya und einer nachmittaeglichen Jeep-Safari im Nationalpark Minneriya.",
+  "fullDescription": "Drei der besten Dinge in der Mitte Sri Lankas an einem einzigen Tag, ab der Westkueste: die bemalten Hoehlen von Dambulla, die Felsenzitadelle von Sigiriya und eine Elefanten-Safari in Minneriya, wenn das Licht nachlaesst. Es ist eine effiziente Art, das kulturelle Dreieck zu sehen, wenn Ihre Zeit auf der Insel knapp ist, und es ist ein sechzehnstuendiger Tag, was man wissen sollte, bevor man bucht.\n\nDambulla eroeffnet den Tag. Fuenf in einen Felsvorsprung geschnittene Hoehlen beherbergen mehr als 150 Buddha-Statuen unter bemalten Decken, die der Form des Steins folgen; der Komplex ist seit ueber zweitausend Jahren ein aktiver Tempel, also werden die Schuhe ausgezogen und der letzte Abschnitt barfuss erklommen.\n\nSigiriya folgt, zwanzig Minuten die Strasse entlang. Koenig Kassapa baute seine Zitadelle im fuenften Jahrhundert auf einem zweihundert Meter hohen Granitfelsen, und der Aufstieg von etwa zwolfhundert Stufen fuehrt Sie vorbei an den erhaltenen Fresken in ihrer geschuetzten Galerie, hinauf zwischen den Loewenpranken bis zum Gipfel, wo die Palastfundamente ueber symmetrischen Wassergaerten liegen, die auf der Ebene darunter angelegt sind.\n\nNach dem Mittagessen aendert sich der Charakter des Tages vollstaendig. Das Reservoir von Minneriya wurde im dritten Jahrhundert gebaut, und sein grasbewachsenes Bett zieht Elefanten aus dem umgebenden Wald an, wenn das Wasser zuruckgeht. Dies ist das Gathering, eine der groessten saisonalen Ansammlungen wilder asiatischer Elefanten weltweit, mit einem Hoehepunkt etwa zwischen Juli und September. Sie durchqueren den Park in einem offenen Jeep mit einem Fahrer, der weiss, wo die Herden gefressen haben.\n\nDie Fahrt ist der ehrliche Preis. Es sind etwa vier bis fuenf Stunden in jede Richtung ab Colombo, die Abholung erfolgt also vor der Daemmerung, und Sie kommen spaet am Abend zuruck, wobei ein grosser Teil des Tages im Fahrzeug verbracht wird.",
+  "highlights": [
+   "Die Hoehlentempel von Dambulla, ihre bemalten Decken und mehr als 150 Buddha-Statuen",
+   "Die Felsenfestung Sigiriya, ein UNESCO-Weltkulturerbe, bis zu den Ruinen des Gipfelpalastes besteigen",
+   "Nachmittaegliche Jeep-Safari im Nationalpark Minneriya, Heimat des saisonalen Elefanten-Gatherings",
+   "Abholung und Absetzen am Hotel in Colombo, Mount Lavinia oder Negombo",
+   "Ein Fahrer-Guide, der den Herden folgt statt einer festen Route"
+  ],
+  "included": [
+   "Klimatisiertes Fahrzeug mit Fahrer-Guide ab Colombo, Mount Lavinia oder Negombo und zuruck",
+   "Safari-Jeep fuer die Pirschfahrt in Minneriya",
+   "Fuehrung an jedem Standort",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer Sigiriya und Dambulla",
+   "Gebuehren fuer den Nationalpark Minneriya",
+   "Mahlzeiten und Getraenke",
+   "Kameragebuehren, falls berechnet",
+   "Trinkgelder",
+   "Reiseversicherung"
+  ]
+ },
+ "private-sigiriya-rock-dambulla-caves-village-day-trip": {
+  "title": "Privater Tagesausflug: Felsen von Sigiriya, Hoehlen von Dambulla und Dorfbesuch",
+  "metaTitle": "Sigiriya, Dambulla und Dorf privat",
+  "metaDescription": "Ein privater Rundum-Tagesausflug zur Felsenfestung Sigiriya und den Hoehlentempeln von Dambulla, mit Dorfbesuch, Mahlzeiten, Eintritt und Fahrer-Guide.",
+  "shortDescription": "Ein privater Rundum-Tagesausflug zur Felsenfestung Sigiriya und den Hoehlentempeln von Dambulla, mit Dorfbesuch, Mahlzeiten, Eintrittsgebuehren und einem Fahrer-Guide.",
+  "fullDescription": "Diese Tour bringt die beiden Hauptattraktionen des kulturellen Dreiecks Sri Lankas in einen einzigen langen Tag, privat organisiert mit eigenem Fahrzeug, Fahrer-Guide und inkludierten Eintrittsgebuehren, damit auf der Strasse nichts ausgehandelt werden muss.\n\nDambulla kommt zuerst. Fuenf in die Flanke eines Felsvorsprungs geschnittene Hoehlen beherbergen mehr als 150 Buddha-Statuen zusammen mit bemalten Decken, die der natuerlichen Kruemmung des Steins folgen, einige Oberflaechen ueber eine aktive Geschichte von mehr als zweitausend Jahren neu bemalt und ausgebessert. Es ist ein lebendiger Tempel, keine Ruine, also werden am Eingang die Schuhe ausgezogen, und der Aufstieg ueber die Stufen erfolgt barfuss auf heissem Gestein.\n\nSigiriya ist das Herzstueck. Die Zitadelle von Koenig Kassapa aus dem fuenften Jahrhundert steht auf einem zweihundert Meter hohen Granitfelsen ueber der Ebene, erreichbar ueber Treppen, die sich ueber die Felswand ziehen. Auf halber Hoehe beherbergt eine geschuetzte Galerie noch immer Fresken der sogenannten Wolkenmaedchen, und ueber den Loewenpranken an der Terrasse fuehren die letzten Treppen zu den Fundamenten des Gipfelpalastes und den symmetrisch angelegten Wassergaerten darunter. Der Aufstieg umfasst etwa zwolfhundert Stufen, stellenweise exponiert und steil, mit an den Fels geschraubten Metalltreppen.\n\nDas Dorfelement lockert die Archaeologie auf. Es ist ein Spaziergang durch bebautes Land um Sigiriya mit Zeit fuer lokale Snacks und einen Blick darauf, wie Reis- und Gemueseparzellen bewirtschaftet werden, plus allem, was sich an Tierwelt an den Rand der Reisfelder zeigt.\n\nNun zum ehrlichen Teil. Die Abholung erfolgt von der Suedwestkueste in Balapitiya, und die Fahrt nach Norden dauert etwa fuenf Stunden in jede Richtung, mit einem Fruehstuecksstopp bei Kurunegala. Zaehlt man die beiden Standorte, das Mittagessen in Habarana und die Rueckfahrt zusammen, ergibt das einen zwoelf- bis vierzehnstuendigen Tag, und der Grossteil davon wird im Fahrzeug verbracht. Es funktioniert, wenn Sie das akzeptieren; es funktioniert nicht als entspannter Tag.",
+  "highlights": [
+   "Die Felsenfestung Sigiriya aus dem fuenften Jahrhundert, ein UNESCO-Weltkulturerbe, mit ihren Fresken und Palastruinen auf dem Gipfel besteigen",
+   "Die fuenf Hoehlentempel von Dambulla und ihre mehr als 150 Buddha-Statuen unter bemalten Felsdecken",
+   "Ein Dorfspaziergang durch bebautes Land um Sigiriya mit lokalen Snacks",
+   "Privates Fahrzeug und Fahrer-Guide fuer Ihre Gruppe allein",
+   "Eintrittsgebuehren, Fruehstueck und Mittagessen inklusive, also kein Bargeld an den Toren erforderlich"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug mit Fahrer-Guide",
+   "aller Kraftstoff und Parken",
+   "Eintrittsgebuehren fuer Sigiriya und Dambulla",
+   "Fruehstueck",
+   "Mittagessen",
+   "die Dorftour",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Hotelunterkunft",
+   "Abendessen",
+   "alkoholische Getraenke",
+   "persoenliche Einkaeufe",
+   "Kameragebuehren, falls berechnet",
+   "Trinkgelder fuer den Fahrer-Guide",
+   "Reiseversicherung"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Flyboard-Erlebnis in Pattaya",
   "fullDescription": "Dies ist ein 30-minütiges Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Flyboard-Erlebnis, Betreuung durch einen Instructor, Sicherheitsausrüstung und Duschen. Nicht enthalten sind Fotos und Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",

@@ -100632,6 +100632,237 @@ export const FR_TOURS: Record<string, TourT> = {
    "depenses personnelles"
   ]
  },
+ "private-sigiriya-rock-dambulla-cave-temple-day-trip-lunch": {
+  "title": "Excursion privee d’une journee au rocher de Sigiriya et aux grottes de Dambulla avec dejeuner",
+  "metaTitle": "Sigiriya et Dambulla prive",
+  "metaDescription": "Une longue journee privee depuis Colombo pour grimper la citadelle rocheuse de Sigiriya et visiter les grottes peintes de Dambulla, dejeuner inclus.",
+  "shortDescription": "Une longue journee privee depuis Colombo pour grimper la citadelle rocheuse du cinquieme siecle a Sigiriya et visiter les temples troglodytes peints de Dambulla, dejeuner et transferts retour inclus.",
+  "fullDescription": "Sigiriya et Dambulla se trouvent a environ quatre heures au nord de Colombo dans la zone seche, ce qui fait de cette journee une veritable longue journee. Attendez-vous a un depart avant l’aube et un retour tardif, douze a quatorze heures de porte a porte selon la circulation sur la route de Kurunegala. Les gens le font et sont contents de l’avoir fait, mais mieux vaut partir les yeux ouverts plutot que d’attendre une sortie tranquille.\n\nSigiriya est un piton de granit qui s’eleve de deux cents metres au-dessus d’une foret plate, et au cinquieme siecle le roi Kassapa y a construit une citadelle royale au sommet. Ce qui subsiste est remarquable : jardins d’eau et jardins de rochers a la base, le mur des miroirs avec ses siecles de graffitis de visiteurs, une galerie abritee de fresques peintes sur la paroi rocheuse, et les pattes de lion qui encadraient jadis une porte en forme de lion complete. Le sommet conserve les fondations du palais et une vue sur toute la plaine.\n\nLa montee compte environ 1 200 marches, en grande partie sur des escaliers metalliques ouverts fixes a la paroi rocheuse. Elle prend une heure environ pour la plupart des gens et est exposee au soleil, ce qui est la principale raison de partir tot. Si la montee n’est pas realiste, le rocher voisin de Pidurangala offre la vue classique sur Sigiriya meme pour moins d’effort.\n\nDambulla est le contrepoids : cinq grottes sous un surplomb rocheux abritant plus de 150 statues de Bouddha et des plafonds peints qui suivent chaque contour de la pierre. Certaines parties datent du premier siecle avant notre ere, avec des couches de repeinture a travers la periode kandyenne. C’est plus frais, ombrage, et ne demande qu’une courte montee jusqu’a la terrasse.\n\nLe voyage est prive, le rythme est donc le votre, et le dejeuner dans un restaurant local est inclus. Votre chauffeur-guide gere la logistique ; sur la route du retour, la plupart des gens dorment.",
+  "highlights": [
+   "Grimper la citadelle rocheuse du cinquieme siecle de Sigiriya et les ruines du palais au sommet",
+   "Voir les fresques rupestres survivantes et la porte de la patte de lion",
+   "Explorer cinq temples troglodytes peints a Dambulla avec plus de 150 statues de Bouddha",
+   "Vehicule climatise prive et chauffeur-guide pour toute la journee",
+   "Dejeuner sri-lankais dans un restaurant local inclus"
+  ],
+  "included": [
+   "Vehicule prive climatise avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel",
+   "dejeuner dans un restaurant local",
+   "eau en bouteille",
+   "carburant, peages et parking inclus"
+  ],
+  "notIncluded": [
+   "Billets d’entree de Sigiriya et Dambulla",
+   "boissons",
+   "pourboires",
+   "depenses personnelles",
+   "frais de guide sur site a Sigiriya si vous en engagez un"
+  ]
+ },
+ "gampaha-forest-atv-adventure-ride": {
+  "title": "Aventure en quad dans la foret de Gampaha",
+  "metaTitle": "Quad a Gampaha",
+  "metaDescription": "Une balade en quad guidee de quatre-vingt-dix minutes a travers vingt hectares de foret a Gampaha, une evasion facile d’une demi-journee depuis Colombo.",
+  "shortDescription": "Une balade en quad guidee de quatre-vingt-dix minutes a travers vingt hectares de terrain forestier a Gampaha, une evasion facile d’une demi-journee depuis Colombo pour ceux qui preferent la boue aux monuments.",
+  "fullDescription": "Gampaha se trouve dans la zone humide juste a l’interieur des terres depuis Negombo, assez pres de Colombo pour une sortie matinale aller-retour. Le terrain ici est constitue de cocoteraies et de foret secondaire traversee par des pistes de laterite rouge, et apres la pluie, ces pistes se transforment exactement dans le genre de surface pour laquelle un vehicule tout-terrain est concu.\n\nLe parc couvre environ vingt hectares de terrain forestier naturel, amenage comme un circuit de piste plutot qu’un anneau d’entrainement plat. Cela signifie de vraies pentes, des traversees d’eau, des sections defoncees et suffisamment de virages serres pour que la balade reste interessante plutot qu’une simple ligne droite. Le temps de conduite est d’environ quatre-vingt-dix minutes, briefing inclus.\n\nAucune experience prealable n’est necessaire. Les machines sont automatiques, et la session commence par un briefing de securite et une courte boucle de familiarisation ou vous vous habituez a l’acceleration, aux freins et a la position du corps avant de prendre la piste. Un guide dirige le groupe et adapte le rythme au cycliste le moins confiant, ce qui convient aussi bien aux debutants qu’aux personnes ayant deja roule.\n\nVous allez vous salir. C’est le but, et il vaut mieux porter des vetements que vous ne craignez pas d’abimer, ou au moins apporter de quoi vous changer pour le retour. Des chaussures fermees sont indispensables et les manches longues protegent vos avant-bras des branches.\n\nC’est une activite simple plutot qu’une excursion culturelle, et elle se combine bien avec un apres-midi de plage a Negombo ou avec une journee par ailleurs passee dans la circulation de Colombo. Les sorties ont lieu dans presque toutes les conditions meteo ; une forte pluie rend les pistes meilleures, pas pires, bien que l’operateur suspende les sessions en cas d’orage.",
+  "highlights": [
+   "Quatre-vingt-dix minutes de conduite guidee sur environ vingt hectares de piste forestiere",
+   "Quads automatiques adaptes aux debutants complets",
+   "Briefing de securite et boucle de familiarisation avant la piste",
+   "Traversees d’eau, pentes et pistes forestieres defoncees plutot qu’un anneau plat",
+   "Une evasion facile d’une demi-journee hors de la circulation de Colombo"
+  ],
+  "included": [
+   "Location du quad pour la session",
+   "briefing de securite et instruction",
+   "casque et equipement de securite",
+   "guide de piste"
+  ],
+  "notIncluded": [
+   "Transport vers et depuis le parc",
+   "repas et boissons",
+   "assurance",
+   "photos et videos",
+   "pourboires"
+  ]
+ },
+ "south-coast-day-trip-turtle-hatchery-madu-river-galle-fort": {
+  "title": "Excursion d’une journee sur la cote sud : ecloserie de tortues, riviere Madu et fort de Galle",
+  "metaTitle": "Cote sud : tortues et fort de Galle",
+  "metaDescription": "Une longue journee cotiere au sud de Colombo ou Negombo, avec Bentota, un projet de conservation des tortues, un safari fluvial a Madu et le fort de Galle.",
+  "shortDescription": "Une longue journee cotiere au sud de Colombo ou Negombo avec la plage de Bentota, un projet de conservation des tortues a Kosgoda, un safari en bateau sur la riviere Madu et les remparts du fort de Galle.",
+  "fullDescription": "La route au sud de Colombo longe presque tout le temps la mer, et ce voyage l’utilise pour enchainer quatre choses tres differentes en une seule journee : une plage, un projet de conservation des tortues, une riviere de mangrove et une ville fortifiee hollandaise. C’est beaucoup de terrain, et la version honnete est que vous passez une bonne part de la journee en voiture.\n\nLe premier arret est Bentota, ou la riviere Bentota Ganga rejoint l’ocean derriere un long cordon de sable. C’est un court arret photo plutot qu’un apres-midi de plage, et c’est aussi le point de depart des sports nautiques si vous voulez en ajouter a vos frais.\n\nA Kosgoda, vous visitez un projet de conservation des tortues marines. Cinq des sept especes de tortues marines du monde nidifient sur la cote de Sri Lanka, et les ecloseries ici achetent les oeufs aux collecteurs de plage pour les garder hors du marche, puis relachent les bebes tortues. Il convient de savoir que ce modele fait debat parmi les defenseurs de l’environnement ; les meilleurs projets relachent rapidement et minimisent la manipulation, et il est legitime de poser des questions sur place.\n\nLe safari sur la riviere Madu est le moment calme de la journee. L’estuaire est une zone humide classee Ramsar parsemee de petites iles, et le bateau se glisse dans des tunnels de mangrove ou la canopee se referme au-dessus. Vous passerez devant des plateformes de therapie par les poissons, une ile de cannelle ou le pelage est demontre, et une ile-temple accessible uniquement par l’eau.\n\nLe fort de Galle cloture la journee. Les Hollandais ont reconstruit le fort portugais au dix-septieme siecle, et sa grille de rues, ses remparts et le phare de 1848 ont survecu au tsunami de 2004 largement intacts. Vous avez environ une heure pour le parcourir, ce qui suffit pour les murs et les ruelles principales mais pas pour les musees. Un dejeuner dans un restaurant local est inclus en chemin, et vous etes ramene a Negombo ou Colombo le soir.",
+  "highlights": [
+   "Safari en bateau dans les tunnels de mangrove de l’estuaire de la riviere Madu",
+   "Projet de conservation des tortues marines a Kosgoda",
+   "Marcher sur les remparts et les rues du fort hollandais de Galle",
+   "Arret photo a la plage de Bentota ou la riviere rejoint la mer",
+   "Voiture privee climatisee avec prise en charge et depose a l’hotel"
+  ],
+  "included": [
+   "Vehicule prive climatise avec chauffeur",
+   "prise en charge et depose a l’hotel a Negombo ou Colombo",
+   "safari en bateau sur la riviere Madu",
+   "dejeuner dans un restaurant local",
+   "eau en bouteille"
+  ],
+  "notIncluded": [
+   "Frais d’entree et dons a l’ecloserie de tortues et aux autres sites",
+   "sports nautiques a Bentota",
+   "boissons",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "ella-waterfall-abseiling-adventure-hotel-pickup": {
+  "title": "Aventure de descente en rappel aux cascades d’Ella avec prise en charge a l’hotel",
+  "metaTitle": "Rappel aux cascades d’Ella",
+  "metaDescription": "Quatre heures de descente en rappel le long de deux cascades dans les collines autour d’Ella, avec instructeurs, materiel technique et prise en charge.",
+  "shortDescription": "Quatre heures de descente en rappel le long de deux cascades dans les collines autour d’Ella, avec instructeurs, tout le materiel technique et prise en charge depuis les villes voisines des collines.",
+  "fullDescription": "Ella se trouve dans les collines d’Uva ou l’escarpement plonge vers les plaines du sud, et les cours d’eau qui descendent de ce rebord produisent une serie de cascades a courte distance en voiture de la ville. Ce voyage en utilise deux pour la descente en rappel, descendant la roche humide sur une corde avec des instructeurs gerant le systeme depuis le sommet.\n\nTout commence au sol avec la partie qui compte : ajustement du harnais, casque, fonctionnement du descendeur, comment tenir la corde et comment marcher les pieds le long de la dalle plutot que de s’y balancer. Vous vous entrainez sur une section basse jusqu’a ce que les instructeurs soient satisfaits, puis vous passez a la premiere descente.\n\nDescendre en rappel une cascade est different d’une descente sur roche seche. La pierre est glissante, l’eau coule sur vos mains et dans votre dos, et le bruit fait que vous recevez les instructions par signes de la main sur le dernier tronçon. C’est veritablement excitant et c’est aussi entierement controle : vous etes sur une corde fixe avec une securite, et l’instructeur peut vous arreter a tout moment depuis le sommet.\n\nDeux cascades de hauteurs differentes sont utilisees pour que la premiere serve de mise en train et la seconde offre la descente la plus longue. Entre les deux, il y a un court transfert et une marche d’approche, en partie sur un terrain humide et irregulier a travers des plantations de the et la foret.\n\nUne chose a preciser concerne la localisation. Ella se trouve dans les collines a environ deux cents kilometres de Colombo, cinq a six heures par la route ou un long trajet sur le train Kandy-Ella. Ce voyage prend en charge depuis Ella et les villes voisines des collines, prevoyez-le donc comme une partie de votre sejour dans les hauts plateaux plutot qu’une excursion depuis la capitale. Le volume d’eau varie selon les pluies, et apres de fortes precipitations, l’operateur peut changer de cascade ou reporter la sortie.",
+  "highlights": [
+   "Descendre en rappel deux cascades dans les collines autour d’Ella, guide par des instructeurs formes",
+   "Formation complete au sol et descente d’entrainement avant la premiere chute",
+   "Harnais, casques, cordes et tout le materiel technique fournis",
+   "Adapte aux debutants ayant une condition physique raisonnable",
+   "Prise en charge et depose depuis Ella et les villes environnantes des collines"
+  ],
+  "included": [
+   "Instructeurs de rappel certifies",
+   "harnais, casque, cordes, descendeur et tout le materiel technique",
+   "briefing de securite et session d’entrainement",
+   "transfert aller-retour depuis votre point de prise en charge indique",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "photos et videos",
+   "serviettes",
+   "vetements et chaussures personnels",
+   "pourboires",
+   "assurance voyage couvrant les activites d’aventure"
+  ]
+ },
+ "colombo-jet-ski-ride-thermopylae-sierra-shipwreck": {
+  "title": "Balade en jet-ski depuis Colombo jusqu’a l’epave du Thermopylae Sierra",
+  "metaTitle": "Jet-ski vers l’epave du Thermopylae",
+  "metaDescription": "Une balade en jet-ski guidee le long de la cote de Colombo jusqu’a l’epave semi-submergee du Thermopylae Sierra, avec briefing et guide a vos cotes.",
+  "shortDescription": "Une balade en jet-ski guidee le long de la cote de Colombo jusqu’a l’epave semi-submergee du Thermopylae Sierra, avec briefing et un guide a vos cotes.",
+  "fullDescription": "Le Thermopylae Sierra s’est echoue au large de Colombo et n’en est jamais reparti. Une partie de la coque se dresse encore au-dessus de l’eau, ce qui en fait l’une des tres rares epaves de Sri Lanka ou l’on peut s’approcher directement en surface plutot que d’y plonger. Ce voyage est une balade en jet-ski guidee aller-retour le long de la cote de Mount Lavinia.\n\nVous commencez sur terre avec un briefing : accelerateur et direction, le cordon de securite autour de votre poignet, comment la machine tourne quand vous relachez l’acceleration, et les regles pour rester en formation derriere le guide. Aucun permis n’est necessaire et aucune experience prealable n’est attendue, mais vous devez suivre le pilote de tete, car le parcours traverse des eaux utilisees par les bateaux de peche sortant de Colombo.\n\nLe trajet jusqu’a l’epave prend environ vingt-cinq a trente minutes dans chaque sens selon la mer. Vous vous approchez suffisamment pour voir le blindage, la rouille et la houle qui travaille la structure exposee, avec le temps de couper les moteurs et de prendre des photos avant de repartir. Les oiseaux marins l’utilisent comme perchoir, et par temps clair, vous pouvez voir combien de la coque se trouve sous la surface.\n\nDeux heures couvrent l’ensemble : le briefing, l’equipement, le trajet aller, le temps a l’epave, le retour et le sechage. Le temps reel passe sur la machine est bien inferieur a cela, et il vaut mieux partir avec cette attente en tete.\n\nL’etat de la mer gouverne tout ici. Les mois les plus secs, d’environ novembre a avril, offrent l’eau la plus calme et les meilleures chances de respecter le programme. Pendant la mousson du sud-ouest, de mai a septembre environ, la houle sur cette cote force frequemment le report des sorties, et un operateur responsable annulera plutot que d’envoyer un jet-ski dans une mer dangereuse.\n\nVous roulez avec un gilet de flottaison et le guide reste toujours en vue. Attendez-vous a etre completement mouille.",
+  "highlights": [
+   "Se rendre jusqu’a l’epave semi-submergee du Thermopylae Sierra, visible au-dessus de la ligne de flottaison",
+   "Balade en jet-ski guidee le long de la cote de Mount Lavinia et Dehiwala",
+   "Briefing complet a terre, aucun permis ni experience necessaire",
+   "Jet-ski, carburant, gilet de flottaison et cordon de securite fournis",
+   "Moteurs coupes a l’epave pour les photos"
+  ],
+  "included": [
+   "Location de jet-ski et carburant",
+   "balade guidee avec un pilote de tete",
+   "briefing de securite",
+   "gilet de flottaison et cordon de securite",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Prise en charge et depose a l’hotel",
+   "photos et videos",
+   "serviettes",
+   "repas",
+   "pourboires",
+   "assurance voyage et franchise de dommages eventuelle"
+  ]
+ },
+ "sigiriya-sunrise-climb-dambulla-kandy-day-trip-colombo": {
+  "title": "Excursion d’une journee depuis Colombo : lever du soleil a Sigiriya, Dambulla et Kandy",
+  "metaTitle": "Sigiriya au lever du soleil, Dambulla et Kandy",
+  "metaDescription": "Une excursion de quatorze heures qui grimpe Sigiriya a l’aube, visite les grottes de Dambulla et termine au Temple de la Dent a Kandy.",
+  "shortDescription": "Une excursion de quatorze heures qui grimpe Sigiriya a l’aube, visite les temples troglodytes de Dambulla et termine au Temple de la Dent sacree a Kandy.",
+  "fullDescription": "La raison de faire Sigiriya au lever du soleil est simple. Vers neuf heures du matin, le rocher est chaud, les escaliers sont encombres et la plaine en dessous s’est embrumee. Arrivez a l’ouverture et vous grimpez dans l’air frais, avec la brume encore posee sur les champs et le sommet largement pour vous seul. C’est autour de cela que ce voyage est construit, et c’est pourquoi la prise en charge se fait au milieu de la nuit.\n\nLe trajet depuis Colombo prend environ trois heures, vous partez donc au petit matin et atteignez Sigiriya avant l’ouverture des portes. La montee compte environ douze cents marches sur un piton de granit de deux cents metres, passant par la galerie abritee ou des fresques du cinquieme siecle survivent sur la paroi rocheuse, puis entre les pattes de lion jusqu’au sommet ou les fondations du palais du roi Kassapa surplombent des jardins d’eau symetriques.\n\nLe petit dejeuner vient apres la montee plutot qu’avant, puis Dambulla, a vingt minutes, ou cinq grottes dans un affleurement rocheux abritent plus de 150 statues de Bouddha sous des plafonds peints. C’est un temple en activite, les chaussures sont donc retirees et la derniere section est gravie pieds nus.\n\nL’apres-midi est consacre a Kandy, a deux heures et demie au sud a travers les collines. Le Temple de la Dent sacree abrite la relique de la dent de Bouddha, un objet qui a historiquement legitime quiconque regnait sur l’ile, c’est pourquoi le temple se trouve a l’interieur de l’ancien complexe du palais royal, au bord du lac. Faire coincider la visite avec l’une des ceremonies de puja quotidiennes, quand les tambours jouent et que la chambre interieure est ouverte, merite l’effort.\n\nSoyez realiste sur la journee. Avec un depart de nuit, deux sites, Kandy et le trajet retour, cela represente environ quatorze heures et vous manquerez de sommeil. Somnolez dans le vehicule a l’aller, et ne prevoyez rien d’exigeant pour le lendemain matin.",
+  "highlights": [
+   "Grimper Sigiriya a l’ouverture, dans l’air frais et avant la foule et la brume",
+   "Les fresques du cinquieme siecle, les pattes de lion et les ruines du palais au sommet de la forteresse rocheuse",
+   "Les cinq temples troglodytes peints de Dambulla et leurs plus de 150 statues de Bouddha",
+   "Le Temple de la Dent sacree a Kandy, a l’interieur de l’ancien complexe du palais royal",
+   "Prise en charge et depose a l’hotel a Colombo ou Negombo en vehicule prive"
+  ],
+  "included": [
+   "Vehicule prive climatise avec chauffeur-guide",
+   "prise en charge et depose a l’hotel a Colombo ou Negombo",
+   "carburant et parking",
+   "petit dejeuner",
+   "guidage sur chaque site",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Frais d’entree pour Sigiriya, Dambulla et le Temple de la Dent",
+   "dejeuner et diner",
+   "boissons",
+   "achats au centre d’accueil",
+   "pourboires",
+   "assurance voyage"
+  ]
+ },
+ "sigiriya-dambulla-minneriya-safari-day-trip-colombo": {
+  "title": "Excursion d’une journee depuis Colombo : Sigiriya, Dambulla et safari a Minneriya",
+  "metaTitle": "Sigiriya, Dambulla et safari a Minneriya",
+  "metaDescription": "Une longue journee depuis Colombo couvrant les grottes de Dambulla, la forteresse rocheuse de Sigiriya et un safari en jeep l’apres-midi a Minneriya.",
+  "shortDescription": "Une longue journee depuis Colombo couvrant les temples troglodytes de Dambulla, la forteresse rocheuse de Sigiriya et un safari en jeep l’apres-midi au parc national de Minneriya.",
+  "fullDescription": "Trois des meilleures choses du centre de Sri Lanka en une seule journee, depuis la cote ouest : les grottes peintes de Dambulla, la citadelle rocheuse de Sigiriya, et un safari aux elephants a Minneriya lorsque la lumiere baisse. C’est une maniere efficace de voir le triangle culturel si votre temps sur l’ile est limite, et c’est une journee de seize heures, ce qui merite d’etre su avant de reserver.\n\nDambulla ouvre la journee. Cinq grottes taillees dans un affleurement rocheux abritent plus de 150 statues de Bouddha sous des plafonds peints qui suivent la forme de la pierre ; le complexe est un temple en activite depuis plus de deux mille ans, les chaussures sont donc retirees et le dernier tronçon est gravi pieds nus.\n\nSigiriya suit, a vingt minutes sur la route. Le roi Kassapa a construit sa citadelle sur un piton de granit de deux cents metres au cinquieme siecle, et la montee de pres de douze cents marches vous fait passer par les fresques survivantes dans leur galerie abritee, puis entre les pattes de lion jusqu’au sommet, ou les fondations du palais surplombent des jardins d’eau symetriques amenages sur la plaine en dessous.\n\nApres le dejeuner, la journee change entierement de caractere. Le reservoir de Minneriya a ete construit au troisieme siecle et son lit herbeux attire les elephants de la foret environnante lorsque l’eau se retire. C’est le Rassemblement, l’une des plus grandes concentrations saisonnieres d’elephants d’Asie sauvages au monde, culminant environ entre juillet et septembre. Vous parcourez le parc en jeep ouverte avec un chauffeur qui sait ou les troupeaux se sont nourris.\n\nLe trajet est le cout honnete. Il faut environ quatre a cinq heures dans chaque sens depuis Colombo, la prise en charge se fait donc avant l’aube et vous rentrez tard le soir, avec une grande partie de la journee passee dans le vehicule.",
+  "highlights": [
+   "Les temples troglodytes de Dambulla, leurs plafonds peints et leurs plus de 150 statues de Bouddha",
+   "Grimper la forteresse rocheuse de Sigiriya, site classe au patrimoine mondial de l’UNESCO, jusqu’aux ruines du palais au sommet",
+   "Safari en jeep l’apres-midi au parc national de Minneriya, lieu du Rassemblement saisonnier des elephants",
+   "Prise en charge et depose a l’hotel a Colombo, Mount Lavinia ou Negombo",
+   "Un chauffeur-guide qui suit les troupeaux plutot qu’un itineraire fixe"
+  ],
+  "included": [
+   "Vehicule climatise avec chauffeur-guide depuis Colombo, Mount Lavinia ou Negombo et retour",
+   "jeep de safari pour le circuit a Minneriya",
+   "guidage sur chaque site",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Frais d’entree pour Sigiriya et Dambulla",
+   "frais du parc national de Minneriya",
+   "repas et boissons",
+   "frais de camera si factures",
+   "pourboires",
+   "assurance voyage"
+  ]
+ },
+ "private-sigiriya-rock-dambulla-caves-village-day-trip": {
+  "title": "Excursion privee d’une journee : rocher de Sigiriya, grottes de Dambulla et village",
+  "metaTitle": "Sigiriya, Dambulla et village prive",
+  "metaDescription": "Une excursion privee tout compris d’une journee a la forteresse rocheuse de Sigiriya et aux temples troglodytes de Dambulla, avec visite de village et repas.",
+  "shortDescription": "Une excursion privee tout compris d’une journee a la forteresse rocheuse de Sigiriya et aux temples troglodytes de Dambulla, avec une visite de village, les repas, les frais d’entree et un chauffeur-guide.",
+  "fullDescription": "Ce voyage reunit les deux sites phares du triangle culturel de Sri Lanka en une seule longue journee, organisee en prive avec votre propre vehicule, chauffeur-guide et frais d’entree inclus, pour que rien n’ait a etre negocie sur la route.\n\nDambulla vient en premier. Cinq grottes taillees dans le flanc d’un affleurement rocheux abritent plus de 150 statues de Bouddha ainsi que des plafonds peints qui suivent la courbe naturelle de la pierre, certaines surfaces repeintes et reparees au cours d’une histoire active de plus de deux mille ans. C’est un temple vivant, pas une ruine, les chaussures sont donc retirees a l’entree et la montee des marches se fait pieds nus sur la pierre chaude.\n\nSigiriya est la piece maitresse. La citadelle du cinquieme siecle du roi Kassapa se dresse sur un piton de granit de deux cents metres au-dessus de la plaine, accessible par des escaliers qui traversent la paroi rocheuse. A mi-hauteur, une galerie abritee conserve encore les fresques dites des jeunes filles des nuages, et au-dessus des pattes de lion sur la terrasse, les derniers escaliers menent aux fondations du palais au sommet et aux jardins d’eau amenages symetriquement en dessous. La montee compte environ douze cents marches, exposee et escarpee par endroits, avec des escaliers metalliques fixes a la roche.\n\nL’element villageois casse l’archeologie. C’est une marche a travers des terres cultivees autour de Sigiriya avec le temps pour des collations locales et un regard sur la facon dont les parcelles de riz et de legumes sont travaillees, ainsi que toute la faune que les bords des rizieres peuvent reveler.\n\nVoici maintenant la partie honnete. La prise en charge se fait depuis la cote sud-ouest a Balapitiya, et le trajet vers le nord dure environ cinq heures dans chaque sens, avec un arret petit-dejeuner vers Kurunegala. En comptant les deux sites, le dejeuner a Habarana et le retour, cela represente une journee de douze a quatorze heures, et la plus grande partie est passee en vehicule. Cela fonctionne si vous l’acceptez ; cela ne fonctionne pas comme une journee detendue.",
+  "highlights": [
+   "Grimper la forteresse rocheuse du cinquieme siecle de Sigiriya, site classe au patrimoine mondial de l’UNESCO, avec ses fresques et ruines du palais au sommet",
+   "Les cinq temples troglodytes de Dambulla et leurs plus de 150 statues de Bouddha sous des plafonds de roche peints",
+   "Une marche de village a travers des terres cultivees autour de Sigiriya avec des collations locales",
+   "Vehicule prive et chauffeur-guide pour votre groupe seul",
+   "Frais d’entree, petit dejeuner et dejeuner inclus, aucun argent liquide necessaire aux portes"
+  ],
+  "included": [
+   "Vehicule prive climatise avec chauffeur-guide",
+   "tout le carburant et le parking",
+   "frais d’entree de Sigiriya et Dambulla",
+   "petit dejeuner",
+   "dejeuner",
+   "la visite de village",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Hebergement a l’hotel",
+   "diner",
+   "boissons alcoolisees",
+   "achats personnels",
+   "frais de camera si factures",
+   "pourboires pour le chauffeur-guide",
+   "assurance voyage"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Séance de flyboard à Pattaya",
   "fullDescription": "Cette expérience de 30 minutes se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend séance de flyboard, accompagnement d'un instructeur, équipement de sécurité et douches. Il ne comprend pas photos et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
