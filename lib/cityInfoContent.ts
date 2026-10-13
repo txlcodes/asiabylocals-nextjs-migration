@@ -6,6 +6,7 @@ import { getTaiwanInfoContent } from './taiwanInfoContent';
 import { getSouthKoreaInfoContent } from './southKoreaInfoContent';
 import { getTurkeyInfoContent } from './turkeyInfoContent';
 import { getQatarInfoContent } from './qatarInfoContent';
+import { getMaldivesInfoContent } from './maldivesInfoContent';
 import { getPhilippinesInfoContent } from './philippinesInfoContent';
 import { getTokyoInfoContent } from './tokyoInfoContent';
 import { getKyotoInfoContent } from './kyotoInfoContent';
@@ -187,6 +188,9 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const qatarPage = getQatarInfoContent(slug);
     if (qatarPage) return qatarPage;
+
+    const maldivesPage = getMaldivesInfoContent(slug);
+    if (maldivesPage) return maldivesPage;
 
     switch (slug) {
             case "things-to-do-in-agra":

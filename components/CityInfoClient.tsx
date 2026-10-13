@@ -278,6 +278,16 @@ const CITY_RECOMMENDED_TOURS: Record<string, { title: string; slug: string; desc
         { title: 'Doha: Night Safari with Dune Bashing & Clear-Sky Stargazing', slug: 'doha-night-safari-with-dune-bashing-clear-sky', description: 'A desert safari scheduled entirely after sunset', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9eb1727443af0361ec8886f3feb625d8a63aaad8e2f142e90251760e7d462d0e.jpeg', price: 'From $26', rating: '4.6' },
         { title: 'From Doha: Al Zubarah Fort Tour via Al Khor & Purple Island', slug: 'from-doha-al-zubarah-fort-tour-via-al-khor', description: 'A full day to Qatar’s only UNESCO World Heritage Site', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cf0a6f0d5079ce7b10e2916a453fa4b09c588e3d97d9f8f92428f3a30fb20adf.png', price: 'From $50', rating: '4.6' },
     ],
+    'male': [
+        { title: 'Malé: Guided City Tour', slug: 'male-guided-city-tour', description: 'A guided loop through the capital’s harbor, mosque and old town', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/659bd1a3ae21ec75a02f3c82938dde311685054668a936ca2ccbcdf230fa8e3d.jpg', price: 'From $52', rating: '4.6' },
+        { title: 'Maldives: Manta Ray Snorkeling at Rasfari Corner', slug: 'maldives-manta-ray-snorkeling-at-rasfari-corner', description: 'A snorkeling trip to a reliable manta ray site close to Malé', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eda7256a80feec399244d280cc30a4fb0b34b1375524b2ac07ebcc96b97b9332.jpg', price: 'From $221', rating: '4.6' },
+        { title: 'From Hulhumalé: Nurse Shark & Stingray Snorkeling Tour', slug: 'from-hulhumale-nurse-shark-stingray-snorkeling', description: 'A guided snorkel trip for nurse sharks and stingrays', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/aa9554277e5c1832aaa0267b0921e2fdbd3ff8be2fd984d6834fcae205a2c0a3.png', price: 'From $260', rating: '4.6' },
+        { title: 'Maldives: Sandbank, Snorkelling & Sunset Cruise', slug: 'maldives-sandbank-snorkelling-sunset-cruise', description: 'A combined sandbank, reef snorkel and sunset cruise half-day', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/63b6f89a915016e7d3c07b5ab15c6c3fc48c0d01890bd808cb7a78be7518da2f.jpg', price: 'From $372', rating: '4.6' },
+        { title: 'Hulhumale & Male\': Small-Group Maldives Dolphin Cruise', slug: 'hulhumale-male-small-group-maldives-dolphin-cruise', description: 'A small-group cruise focused on spinner dolphin sightings', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cd2819d52d49c4363ed3b90de5684bde0c6ff3aeada334ed2173c9bc7f7a25fe.jpg', price: 'From $116', rating: '4.6' },
+        { title: 'Maldives Submarine Tour – Dive 45 Meters Below the Ocean', slug: 'maldives-submarine-tour-dive-45-meters-below-the', description: 'Descend beneath the ocean without getting wet', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9ba7b8d18296684580c4245de41b8770c78172687b327e98cc1d4336c1e4f3b.jpg', price: 'From $221', rating: '4.6' },
+        { title: 'Maafushi: Beach Horse Ride with Sunrise & Sunset Options', slug: 'maafushi-beach-horse-ride-with-sunrise-sunset', description: 'A beach horse ride on Maafushi\'s shoreline', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6e13e77a3d2c232fb66fe504227cdb1fde6b48aff59af04eb86aa3f1a68e43b4.png', price: 'From $189', rating: '4.6' },
+        { title: 'Maldives: Beginner Scuba Dive with Shallow-Water Training', slug: 'maldives-beginner-scuba-dive-with-shallow-water', description: 'An introductory dive for non-certified divers', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/de22f339d55621804067650723bb02805802a51c1ca96c0d7394e21d5f69b619.jpg', price: 'From $177', rating: '4.6' },
+    ],
     'busan': [
         { title: 'Busan: Jagalchi Market & Gamcheon Village Walking Tour', slug: 'busan-jagalchi-market-gamcheon-village-walking', description: "Both of Busan's signature sights in a single guided walking day", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd3dab2e37e064f0ebeef9b3bbb9ad0bf893ff1b16eefdf4fae1e358afde878f.jpg', price: 'From $262', rating: '4.7' },
         { title: 'Busan: Day Trip to Haeundae Sky Capsule & Yonggungsa Temple', slug: 'busan-day-trip-to-haeundae-sky-capsule-yonggungsa', description: "Busan's famous beach and its clifftop coastal temple in one half-day", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ea6b12d36ba6e580fbaaccfc6ba380582658f36b52e98713e5f29e7b60c17815.jpg', price: 'From $28', rating: '4.6' },
@@ -553,6 +563,24 @@ const DOHA_SIDEBAR = [
     { name: 'Falcon Souq Guide', slug: 'doha-falcon-souq-guide' },
     { name: 'Ramadan Travel Guide', slug: 'doha-ramadan-travel-guide' },
     { name: 'Airport Stopover Guide', slug: 'doha-airport-stopover-guide' },
+];
+
+const MALE_SIDEBAR = [
+    { name: 'Maldives Travel Guide', slug: 'maldives-travel-guide-2026' },
+    { name: 'Things to Do in Malé', slug: 'things-to-do-in-male' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-maldives' },
+    { name: 'Maldives Visa Guide', slug: 'maldives-visa-guide-for-tourists' },
+    { name: '1-Day Itinerary', slug: 'male-1-day-itinerary' },
+    { name: 'Malé City Guide', slug: 'male-city-guide' },
+    { name: 'Snorkeling & Diving Guide', slug: 'maldives-snorkeling-diving-guide' },
+    { name: 'Resort vs Local Island', slug: 'maldives-resort-vs-local-island-guide' },
+    { name: 'Malé Local Island Guide', slug: 'male-local-island-guide' },
+    { name: 'Budget Travel Guide', slug: 'maldives-budget-travel-guide' },
+    { name: 'Luxury Resort Guide', slug: 'maldives-luxury-resort-guide' },
+    { name: 'Whale Shark & Manta Ray Guide', slug: 'maldives-whale-shark-manta-ray-guide' },
+    { name: 'Sandbank Tour Guide', slug: 'maldives-sandbank-tour-guide' },
+    { name: 'Dolphin Watching Guide', slug: 'maldives-dolphin-watching-guide' },
+    { name: 'Airport Transfer Guide', slug: 'maldives-airport-transfer-guide' },
 ];
 
 const BUSAN_SIDEBAR = [
@@ -1015,6 +1043,7 @@ export default function CityInfoClient({ country, city, slug, data = null }: Pro
         busan: BUSAN_SIDEBAR,
         istanbul: ISTANBUL_SIDEBAR,
         doha: DOHA_SIDEBAR,
+        male: MALE_SIDEBAR,
         manila: MANILA_SIDEBAR,
         cebu: CEBU_SIDEBAR,
     };

@@ -279,6 +279,18 @@ export const BUSAN_INFO_SLUGS = [
 // larger tour count (13 Manila, 17 Cebu). Reached via getPhilippinesInfoContent()
 // -> getCityInfoContent(). Re-add a slug here ONLY once its page exists in
 // lib/philippinesInfoContent.ts — isInfoSlug() gates the route.
+// Maldives launched 2026-10 with 67 live tours (single city: Male) and
+// zero authority pages. This is the first batch, 15 pages. Reached via
+// getMaldivesInfoContent() -> getCityInfoContent(). Re-add a slug here ONLY
+// once its page exists in lib/maldivesInfoContent.ts — isInfoSlug() gates the route.
+export const MALE_INFO_SLUGS = [
+  'best-time-to-visit-maldives', 'things-to-do-in-male', 'maldives-travel-guide-2026',
+  'male-1-day-itinerary', 'maldives-visa-guide-for-tourists', 'maldives-snorkeling-diving-guide',
+  'maldives-resort-vs-local-island-guide', 'male-local-island-guide', 'maldives-budget-travel-guide',
+  'maldives-luxury-resort-guide', 'maldives-whale-shark-manta-ray-guide', 'maldives-sandbank-tour-guide',
+  'male-city-guide', 'maldives-dolphin-watching-guide', 'maldives-airport-transfer-guide',
+];
+
 export const MANILA_INFO_SLUGS = [
   'best-time-to-visit-manila', 'things-to-do-in-manila', 'manila-travel-guide-2026',
   'manila-1-day-itinerary', 'philippines-visa-guide-for-tourists', 'intramuros-fort-santiago-guide',
