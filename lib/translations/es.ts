@@ -100194,6 +100194,221 @@ export const ES_TOURS: Record<string, TourT> = {
    "tarifas de camara cuando correspondan"
   ]
  },
+ "negombo-lagoon-mangrove-boat-excursion-dutch-canal-fish-market": {
+  "title": "Excursion en bote por la laguna de Negombo y los manglares con canal holandes y mercado de pescado",
+  "metaTitle": "Laguna de Negombo y manglares",
+  "metaDescription": "Una excursion en bote por la laguna de Negombo y el antiguo canal holandes, observando a los pescadores de red, seguida de una parada en el mercado de pescado.",
+  "shortDescription": "Una excursion en bote por la laguna de Negombo y el antiguo canal holandes, observando a los pescadores de red en accion, seguida de una breve parada en el mercado de pescado de la ciudad.",
+  "fullDescription": "La laguna de Negombo y el canal que desemboca en ella son el corazon activo de la ciudad. Los holandeses excavaron el canal en el siglo XVII para trasladar canela hacia el sur, hacia Colombo; los pescadores estaban aqui mucho antes y siguen aqui ahora, lanzando redes desde barcas de madera bajas en aguas que raramente superan los dos metros de profundidad.\n\nLe recogen en su hotel en tuk-tuk para el corto trayecto hasta el agua, luego pasa unas dos horas en un bote que se mueve lo bastante despacio para realmente observar las cosas. La ruta pasa por laguna abierta y entra en los canales de manglar, donde las raices crecen sobre el agua y las ramas se cierran arriba. Esta es zona de cria, peces juveniles, cangrejos y gambas se refugian en los sistemas de raices, que es exactamente por que la pesca aqui se ha mantenido.\n\nLa vida de aves es constante. Los martines pescadores se posan en las ramas, las garcetas y garzas acechan en los margenes, los cormoranes secan sus alas en los postes, y las aguilas trabajan arriba. Los varanos se deslizan de las orillas al paso del bote. El barquero apagara el motor donde merezca la pena estar en silencio.\n\nTambien pasa por el canal holandes mismo, todavia bordeado de embarcaciones y usado diariamente en lugar de preservado para exhibicion, y hay una breve parada en el mercado de pescado de Negombo, donde la pesca de la mañana se clasifica en la arena y gran parte se deja secar.\n\nEs un paseo tranquilo en lugar de una aventura, el atractivo es la calma, las aves y ver una laguna en funcionamiento desde el agua. La mañana temprano y la ultima hora de la tarde son notablemente mejores tanto para la fauna como para la luz.",
+  "highlights": [
+   "Navegar por las aguas interiores y los canales de manglar de la laguna de Negombo",
+   "Observar a los pescadores de red trabajando los bajios desde embarcaciones tradicionales",
+   "Recorrer el canal holandes, excavado en el siglo XVII para el comercio de canela",
+   "Buscar martines pescadores, garcetas, garzas, cormoranes y varanos",
+   "Breve parada en el mercado de pescado de Negombo para ver la pesca clasificada y secada"
+  ],
+  "included": [
+   "Traslado en tuk-tuk desde su hotel en Negombo hasta el muelle y de regreso",
+   "excursion en bote de aproximadamente dos horas con un barquero local",
+   "chalecos salvavidas",
+   "parada en el canal holandes y el mercado de pescado",
+   "agua embotellada"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "propinas",
+   "seguro personal",
+   "todo lo no listado como incluido"
+  ]
+ },
+ "negombo-day-trip-colombo-dutch-fort-canals-seafood-lunch": {
+  "title": "Excursion a Negombo desde Colombo: fuerte holandes, canales y almuerzo de mariscos",
+  "metaTitle": "Negombo desde Colombo",
+  "metaDescription": "Un dia guiado desde Colombo a Negombo: las ruinas del fuerte holandes del siglo XVII, el antiguo canal, las iglesias barrocas y el mercado de pescado.",
+  "shortDescription": "Un dia guiado desde Colombo a Negombo: las ruinas del fuerte holandes del siglo XVII, el antiguo canal, las iglesias barrocas y el mercado de pescado de la playa, terminando con mariscos junto al oceano.",
+  "fullDescription": "Negombo esta a solo unos cuarenta kilometros al norte de Colombo, y la mayoria de los viajeros la ven una noche antes o despues de un vuelo. Este viaje la trata como un destino en si misma, y le dedica un dia completo.\n\nLa forma de la ciudad viene de su historia colonial. Los portugueses llegaron primero y dejaron una poblacion pescadora profundamente catolica, por lo que las iglesias aqui son barrocas, los botes llevan nombres de santos y los santuarios junto a la carretera superan a los templos en numero. Los holandeses tomaron el control en los años 1640 para el comercio de canela y construyeron el fuerte, del que sobreviven la puerta y secciones de muro, junto con el sistema de canales que va hacia el norte desde Colombo y se usaba para transportar canela y especias hasta el puerto.\n\nCamina por las ruinas del fuerte con un guia que puede explicar que habia donde, luego sigue el canal, todavia bordeado de embarcaciones pesqueras y cruzado por puentes bajos. La via de agua de la epoca holandesa es una parte activa de la ciudad en lugar de un monumento preservado, y es mejor por ello.\n\nEl mercado de pescado en la playa es la otra mitad del dia. La pesca llega en los botes de balancin, se clasifica en la arena, y gran parte se deja secar al sol, el olor llega antes que usted. Es ruidoso, humedo y completamente autentico.\n\nEl almuerzo son mariscos, comidos junto al Oceano Indico: cangrejo, gambas, sepia o la pesca del dia, cocinados sencillamente o en un curry de Sri Lanka con coco y pimienta. El trayecto en cada direccion es de aproximadamente una hora, por lo que el dia se extiende a unas diez horas en total, con bastante de ese tiempo realmente pasado en Negombo en lugar de en la carretera.",
+  "highlights": [
+   "Explorar las ruinas del fuerte holandes del siglo XVII con un guia local experto",
+   "Seguir el canal holandes, construido para transportar canela hasta el puerto",
+   "Ver las iglesias catolicas barrocas dejadas por el dominio portugues",
+   "Caminar por el mercado de pescado de la playa donde se clasifica y seca la pesca de los botes de balancin",
+   "Almuerzo de mariscos junto al Oceano Indico"
+  ],
+  "included": [
+   "Vehiculo privado con aire acondicionado y guia de habla inglesa",
+   "recogida y regreso al hotel en Colombo",
+   "caminatas guiadas por el fuerte, el canal y el mercado de pescado",
+   "combustible, peajes y aparcamiento",
+   "agua embotellada"
+  ],
+  "notIncluded": [
+   "Almuerzo de mariscos y bebidas",
+   "donativos de iglesias o lugares",
+   "paseo opcional en bote por la laguna",
+   "propinas"
+  ]
+ },
+ "negombo-lagoon-boat-trip-monkey-island": {
+  "title": "Paseo en bote por la laguna de Negombo a la isla de los monos",
+  "metaTitle": "Laguna de Negombo: isla de los monos",
+  "metaDescription": "Un corto paseo privado en bote a traves de la laguna de Negombo a la isla de manglar donde viven tropas de macacos, con embarcaciones pesqueras y aves en el camino.",
+  "shortDescription": "Un corto paseo privado en bote a traves de la laguna de Negombo a la isla de manglar donde viven tropas de macacos, con embarcaciones pesqueras tradicionales y aves en el camino.",
+  "fullDescription": "La laguna de Negombo es una amplia y poco profunda extension de agua salobre detras de la ciudad, bordeada de manglares y trabajada por pescadores que usan metodos que no han cambiado mucho en generaciones. Este es un paseo en bote de dos horas a traves de ella hasta la isla de manglar conocida localmente como la isla de los monos, donde tropas de macacos viven en los arboles junto al agua.\n\nParte del muelle en un pequeño bote y cruza primero aguas abiertas, pasando las embarcaciones de balancin y las redes sobre estacas que los pescadores de la laguna todavia usan. Martines pescadores, garcetas y garzas trabajan los bajios, y los cormoranes se posan en los postes. El barquero sabe donde se reunen las aves y reducira la velocidad para ellas.\n\nLa isla misma es manglar denso, y los monos bajan a la orilla cuando se acerca un bote. Observarlos desde el agua es el objetivo, son animales salvajes, son rapidos, y tomaran cualquier cosa suelta de una mano abierta o una bolsa sin cerrar. No los alimente y mantenga telefonos y gafas de sol seguros.\n\nEn el camino de regreso, la ruta suele atravesar algunos de los canales de manglar mas estrechos, donde las raices se arquean sobre el agua y el ruido de la ciudad desaparece por completo. Es la parte mas tranquila del paseo y la mejor para fotografias.\n\nDos horas son suficientes. Esta es una salida corta y relajada en lugar de una excursion completa, y funciona bien como complemento matutino o de ultima hora de la tarde a un dia en Negombo, cuando la luz es baja y las aves estan mas activas.",
+  "highlights": [
+   "Cruzar la laguna de Negombo en un pequeño bote hasta la isla de manglar",
+   "Ver tropas de macacos en la orilla de la isla",
+   "Pasar embarcaciones pesqueras tradicionales de balancin y redes sobre estacas todavia en uso",
+   "Observar martines pescadores, garcetas, garzas y cormoranes en los bajios",
+   "Atravesar los estrechos canales de manglar en el tramo de regreso"
+  ],
+  "included": [
+   "Bote privado con barquero local durante aproximadamente dos horas",
+   "chalecos salvavidas",
+   "ruta por laguna y canal de manglar hasta la isla"
+  ],
+  "notIncluded": [
+   "Traslados al hotel hasta y desde el muelle",
+   "comidas y bebidas",
+   "propinas",
+   "seguro personal"
+  ]
+ },
+ "negombo-colombo-city-tour-tuk-tuk": {
+  "title": "Tour de ciudad por Negombo y Colombo en tuk-tuk",
+  "metaTitle": "Negombo y Colombo en tuk-tuk",
+  "metaDescription": "Seis horas por Negombo y Colombo en la parte trasera de un tuk-tuk, incluyendo la ciudad pesquera, los mercados y templos de la capital, y las calles comerciales.",
+  "shortDescription": "Seis horas por Negombo y Colombo en la parte trasera de un tuk-tuk, incluyendo la ciudad pesquera, los mercados y templos de la capital, y las calles comerciales entre medio.",
+  "fullDescription": "Este es un tour en tuk-tuk, y merece la pena decirlo claramente, tres ruedas, lados abiertos, sin puertas y sin aire acondicionado. Tambien es la razon para hacerlo. Se sienta a nivel de la calle con el ruido y los olores de dos ciudades muy distintas pasando a su lado, y el conductor puede meterse en callejones que un coche nunca intentaria.\n\nNegombo va primero. Es una ciudad pesquera con una larga historia catolica, un legado del dominio portugues que todavia se muestra en las iglesias, los nombres de santos en los botes y los santuarios en las intersecciones. La laguna y el antiguo canal holandes la atraviesan, el mercado de pescado en la playa trabaja duro por la mañana, y existe la opcion de un corto paseo en bote por el agua si lo desea.\n\nLuego se dirige al sur hacia Colombo, una ciudad que fue un puerto portugues, luego holandes, luego britanico, y todavia luce las tres. En Fort los bancos y almacenes de la epoca colonial se levantan junto a nuevas torres, y el Hospital Holandes, el edificio mas antiguo del distrito, se ha convertido en un patio de restaurantes y tiendas. Pettah al lado es lo opuesto en todo: una cuadricula de calles cubiertas donde cada una comercia en una sola cosa, y la mezquita a rayas rojas y blancas de Jami Ul-Alfar de 1908 se eleva en medio.\n\nTambien hay tiempo para las otras piezas clave, el Templo Gangaramaya con su mezcla de estilos de Sri Lanka, tailandes, indio y chino, la Plaza de la Independencia donde se conmemora el traspaso de 1948, y Galle Face Green, el paseo colonial donde aparecen los puestos de isso wade cuando cae la luz.\n\nLas compras estan integradas en el dia, asi que si quiere te, especias, batik o piedras preciosas, digale al conductor lo que busca y le llevara a la calle correcta en lugar de a la parada de comision mas cercana.",
+  "highlights": [
+   "Viajar entre Negombo y Colombo en un tuk-tuk abierto a nivel de calle",
+   "Opcion de un safari en bote en la laguna de Negombo",
+   "Caminar por las calles comerciales de un solo producto de Pettah y ver la Mezquita Roja de 1908",
+   "Ver el Hospital Holandes, el edificio mas antiguo de Colombo Fort",
+   "Parada en el Templo Gangaramaya, la Plaza de la Independencia y Galle Face Green"
+  ],
+  "included": [
+   "Tuk-tuk privado con conductor de habla inglesa durante seis horas",
+   "recogida y regreso al hotel en Negombo",
+   "combustible y aparcamiento",
+   "agua embotellada"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "donativos de entrada a templos",
+   "tarifa del bote en la laguna de Negombo si se toma la opcion",
+   "compras",
+   "propinas"
+  ]
+ },
+ "bentota-full-day-trip-negombo-madu-river-safari-turtle-hatcher": {
+  "title": "Excursion de dia completo a Bentota desde Negombo con safari en el rio Madu y vivero de tortugas",
+  "metaTitle": "Bentota desde Negombo",
+  "metaDescription": "Un dia completo en la costa suroeste desde Negombo, combinando un safari de manglar en el rio Madu, el vivero de tortugas de Kosgoda y la finca Lunuganga.",
+  "shortDescription": "Un dia completo en la costa suroeste desde Negombo, combinando un safari de manglar en el rio Madu, el vivero de tortugas de Kosgoda y la finca Lunuganga de Geoffrey Bawa en Bentota.",
+  "fullDescription": "La carretera costera al sur de Colombo enlaza la mayoria de lo que la gente imagina al pensar en el suroeste de Sri Lanka: pueblos pesqueros, plantaciones de coco, desembocaduras de rios y la larga linea del Oceano Indico a su derecha. Este viaje recorre todo el tramo desde Negombo hasta Bentota y de vuelta, con tres paradas que entre ellas cubren fauna, conservacion y uno de los mejores jardines del sur de Asia.\n\nLa primera parada es Kosgoda, donde los viveros recogen huevos de la playa y liberan a las crias de tortuga tras su nacimiento. Cinco especies nidifican en esta costa, incluidas las tortugas verdes y las lora olivacea, y los tanques suelen albergar tambien adultos rescatados. Es una visita corta y directa, ve los huevos, las crias y la razon por la que tantas no lo logran por si solas.\n\nLuego viene el Madu Ganga. Esta es una laguna salobre y poco profunda salpicada de islas y atravesada por tuneles de manglar, y la recorre en un pequeño bote durante unas dos horas. Los canales se estrechan hasta que las raices se cierran arriba, los varanos se asolean en las orillas, los martines pescadores trabajan los bajios, y el barquero se detiene en una isla de canela donde el pelado todavia se hace a mano.\n\nLa ultima parada es Lunuganga, la finca de campo que el arquitecto Geoffrey Bawa paso cinco decadas remodelando. Es la expresion mas clara de lo que se conocio como modernismo tropical, terrazas, vistas enmarcadas, paisaje prestado y una colina que Bawa hizo recortar para que el lago se leyera correctamente desde la terraza. Incluso sin interes en la arquitectura, es un lugar hermoso para caminar.\n\nEste es un dia de diez horas con aproximadamente cuatro horas y media de conduccion en el. Esta bien ritmado pero es largo, y estara de vuelta en Negombo por la noche en lugar de a media tarde.",
+  "highlights": [
+   "Hacer un safari en bote en el rio Madu a traves de tuneles de manglar y canales de islas",
+   "Visitar el vivero de conservacion de tortugas marinas de Kosgoda",
+   "Caminar por la finca y los jardines de Lunuganga de Geoffrey Bawa en Bentota",
+   "Parada en una isla de canela donde la corteza todavia se pela a mano",
+   "Vehiculo y conductor privados durante todo el dia por la costa suroeste"
+  ],
+  "included": [
+   "Vehiculo privado con aire acondicionado y conductor de habla inglesa",
+   "recogida y regreso al hotel en Negombo",
+   "safari en bote por el Madu Ganga",
+   "combustible, peajes y aparcamiento",
+   "agua embotellada"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "entradas al vivero de tortugas y a Lunuganga",
+   "tarifas de camara cuando se cobren",
+   "propinas"
+  ]
+ },
+ "mirissa-whale-dolphin-watching-boat-trip-breakfast": {
+  "title": "Excursion en bote para avistar ballenas y delfines en Mirissa con desayuno",
+  "metaTitle": "Avistamiento de ballenas en Mirissa",
+  "metaDescription": "Una excursion matutina en bote desde el puerto de Mirissa en busca de ballenas azules, delfines y tortugas, con desayuno y te servidos a bordo.",
+  "shortDescription": "Una excursion matutina en bote desde el puerto de Mirissa en busca de ballenas azules, delfines giradores y tortugas, con desayuno y te servidos a bordo y recogida local gratuita dentro de unos 4 km.",
+  "fullDescription": "La plataforma continental cae de forma inusual cerca de la costa frente a Mirissa, por lo que las especies de aguas profundas se acercan lo bastante para alcanzarse en una mañana. Las ballenas azules se alimentan en estas aguas, junto con cachalotes, ballenas de Bryde y grandes grupos de delfines giradores, y las tortugas salen a la superficie regularmente en el camino. Es uno de los lugares mas fiables del mundo para ver al animal mas grande que ha existido.\n\nLos botes salen del puerto con la primera luz, cuando el mar esta mas calmado y los soplos son mas faciles de detectar contra el horizonte. La tripulacion lleva años trabajando en estas aguas y lee las aves y la superficie tanto como el GPS. Los avistamientos nunca se prometen, son animales salvajes en mar abierto, pero la tripulacion seguira buscando durante toda la duracion del viaje en lugar de dar la vuelta en el momento en que el horario lo permita.\n\nEsta fuera aproximadamente de dos a cuatro horas segun donde esten los animales esa mañana. Desayuno y te se sirven a bordo, lo cual importa mas de lo que parece cuando ha salido antes del amanecer. Se proporcionan chalecos salvavidas y la tripulacion da una charla de seguridad antes de la salida.\n\nExiste una etiqueta que siguen los operadores responsables: aproximarse desde atras y de lado, mantener los motores estables, y no cruzar el camino de una ballena. Si la tripulacion se contiene de un avistamiento, esa es la razon.\n\nLa temporada importa. La costa sur esta en su mejor momento para el avistamiento de ballenas aproximadamente de noviembre a abril, cuando el mar esta mas calmado y los avistamientos son mas frecuentes; durante el monzon del suroeste el agua esta mas agitada y los viajes se cancelan con mas frecuencia. Si es propenso al mareo, tome algo la noche anterior y por la mañana, el oleaje mar afuera es real, y un pasajero mareado no ve nada.",
+  "highlights": [
+   "Salir desde Mirissa en busca de ballenas azules, cachalotes y ballenas de Bryde",
+   "Buscar grandes grupos de delfines giradores y tortugas emergiendo",
+   "Salida temprana para el mar mas calmado y la mejor luz",
+   "Desayuno y te servidos a bordo",
+   "Recogida gratuita desde alojamientos dentro de unos 4 km de Mirissa"
+  ],
+  "included": [
+   "Viaje en bote de aproximadamente dos a cuatro horas",
+   "tripulacion experimentada y observadores",
+   "desayuno y te a bordo",
+   "chalecos salvavidas y charla de seguridad",
+   "recogida gratuita dentro de unos 4 km de Mirissa"
+  ],
+  "notIncluded": [
+   "Traslados desde fuera de la zona de recogida de Mirissa",
+   "bebidas alcoholicas",
+   "medicacion para el mareo",
+   "toallas",
+   "propinas",
+   "seguro de viaje personal"
+  ]
+ },
+ "colombo-anuradhapura-day-trip-mihintale-ancient-city-stops": {
+  "title": "Excursion de Colombo a Anuradhapura con paradas en Mihintale y la ciudad antigua",
+  "metaTitle": "Anuradhapura desde Colombo",
+  "metaDescription": "Un trayecto guiado al norte desde Colombo hasta Anuradhapura, la primera capital de Sri Lanka, con paradas en la colina sagrada de Mihintale y las estupas.",
+  "shortDescription": "Un trayecto guiado al norte desde Colombo hasta Anuradhapura, la primera capital de Sri Lanka, con paradas en la colina sagrada de Mihintale y las estupas y ruinas monasticas de la ciudad antigua.",
+  "fullDescription": "Anuradhapura fue la capital de Sri Lanka durante bastante mas de mil años, desde aproximadamente el siglo cuarto antes de nuestra era, y lo que sobrevive no es un solo monumento sino un campo del tamaño de una ciudad de ellos: estupas de ladrillo del tamaño de pequeñas colinas, cimientos de monasterios, tanques de baño, piedras guardianas y los embalses que alimentaban todo esto. Esta a unos 200 kilometros al norte de Colombo, por lo que la mayoria la precipita o la omite por completo.\n\nEste viaje la aborda directamente. Sale de Colombo temprano por la autopista y la carretera norte, y su conductor-guia usa el trayecto para explicar quien construyo que y por que, el cambio del suroeste humedo a la zona seca es visible por la ventana mientras el arroz y el coco dan paso a la maleza, los embalses y ocasionales señales de advertencia de elefantes salvajes.\n\nMihintale es donde comienza la historia. Fue en esta colina en el siglo tercero antes de nuestra era donde se dice que el monje Mahinda conocio al rey Devanampiya Tissa e introdujo el budismo en la isla. Una larga escalera de granito sube pasando restos monasticos hasta una dagoba en la cima con la llanura abajo. La subida es constante en lugar de empinada, pero hay muchos escalones.\n\nEn Anuradhapura propiamente dicha ve las grandes estupas, Ruwanwelisaya en su masa blanqueada, la masa de ladrillo mas antigua de Jetavanaramaya y Abhayagiri, junto con las piedras lunares y guardianas de los barrios monasticos. El Sri Maha Bodhi, crecido de un esqueje del arbol bajo el que Buda alcanzo la iluminacion, sigue siendo un lugar de peregrinacion activo y uno de los arboles plantados documentados mas antiguos en cualquier lugar.\n\nSea realista sobre el dia. El viaje de ida y vuelta desde Colombo es largo, y pasara gran parte en la carretera. Venga con un despertador temprano, calzado comodo y algo para cubrir hombros y rodillas, porque cada lugar aqui es un sitio religioso activo.",
+  "highlights": [
+   "Visitar la montaña sagrada de Mihintale y conocer su historia",
+   "Estar bajo las grandes estupas de Anuradhapura, entre las mayores estructuras de ladrillo jamas construidas",
+   "Ver el Sri Maha Bodhi, crecido de un esqueje del arbol Bodhi original",
+   "Caminar por las ruinas monasticas, piedras lunares y tanques de baño de la antigua capital",
+   "Un conductor-guia privado que explica los lugares sobre la marcha"
+  ],
+  "included": [
+   "Vehiculo privado con aire acondicionado y conductor-guia de habla inglesa",
+   "recogida y regreso al hotel en Colombo",
+   "combustible, peajes y aparcamiento",
+   "agua embotellada"
+  ],
+  "notIncluded": [
+   "Entrada a la Ciudad Sagrada de Anuradhapura y tarifas de sitio",
+   "comidas y bebidas",
+   "permisos de camara o video cuando se cobren",
+   "propinas"
+  ]
+ },
+ "private-kandy-nuwara-eliya-transfer-waterfall-tea-estate-stops": {
+  "title": "Traslado privado de Kandy a Nuwara Eliya con paradas en cascada y plantacion de te",
+  "metaTitle": "Kandy a Nuwara Eliya privado",
+  "metaDescription": "Un traslado privado de ida unica de Kandy hacia el pais del te, tomandose el dia con calma con paradas en la cascada de Ramboda y una fabrica de plantacion.",
+  "shortDescription": "Un traslado privado de ida unica de Kandy hacia el pais del te, tomandose el dia con calma con paradas en la cascada de Ramboda y una fabrica de plantacion antes de dejarle en Nuwara Eliya.",
+  "fullDescription": "Trasladarse de Kandy a Nuwara Eliya son solo unos ochenta kilometros, pero la carretera sube cerca de dos mil metros y toma la mayor parte de una mañana hacerlo. En lugar de tratar eso como tiempo muerto, este viaje privado usa el trayecto como la excursion, la misma carretera, pero con las paradas que hacen que la subida merezca la pena.\n\nSale de Kandy despues del desayuno y sigue la A5 hacia el noreste, observando el paisaje cambiar a medida que gana altura. Los jardines de pueblo dan paso a la jungla, luego a las terrazas verdes recortadas del te. En Ramboda, la cascada cae en escalones junto a la carretera; hay un mirador y, si el agua esta alta tras la lluvia, bastante rocio.\n\nMas arriba se detiene en una plantacion de te en funcionamiento. La industria del te de las montañas de Sri Lanka data de los años 1860, cuando los plantadores reemplazaron un cultivo de cafe colapsado con camelia, y gran parte del equipo en estas fabricas sigue siendo la maquinaria britanica original. Ve la hoja marchitandose en largas artesas, enrollada, oxidada y secada, y termina con una taza de la calidad que sale de esa linea.\n\nNuwara Eliya misma no se parece a ningun otro lugar de la isla. A mas de 1.800 metros, hace realmente frio por la noche, y la ciudad conservo sus huesos de estacion de montaña, un campo de golf, un hipodromo, edificios de ladrillo y entramado de madera, y setos que parecen trasplantados. El lago Gregory esta en su borde con un sendero alrededor.\n\nEl viaje dura aproximadamente seis horas y media de puerta a puerta y termina en su hotel en Nuwara Eliya. Funciona bien como el dia de viaje entre el Triangulo Cultural y las montañas, y le ahorra un autobus abarrotado en una carretera muy sinuosa.",
+  "highlights": [
+   "Admirar la cascada de Ramboda en la subida hacia las montañas",
+   "Visitar una fabrica de te en funcionamiento y probar la calidad elaborada alli",
+   "Observar el paisaje cambiar de jungla a terrazas de te a medida que gana altitud",
+   "Vehiculo y conductor privados para todo el trayecto, sin asientos compartidos",
+   "Entrega directamente en su alojamiento en Nuwara Eliya"
+  ],
+  "included": [
+   "Vehiculo privado con aire acondicionado y conductor de habla inglesa",
+   "recogida en el hotel en Kandy y entrega en Nuwara Eliya",
+   "combustible, peajes y aparcamiento",
+   "agua embotellada"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "entrada a la fabrica de te cuando se cobre",
+   "entradas en paradas opcionales",
+   "propinas",
+   "alojamiento"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Experiencia de flyboard en Pattaya",
   "fullDescription": "Esta es una experiencia de 30 minutos en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye experiencia de flyboard, apoyo de un instructor, equipo de seguridad y duchas. No incluye fotos y recogida y regreso al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
