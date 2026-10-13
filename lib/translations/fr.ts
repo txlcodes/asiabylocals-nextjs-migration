@@ -97236,6 +97236,216 @@ export const FR_TOURS: Record<string, TourT> = {
    "pourboires"
   ]
  },
+ "upper-diyaluma-infinity-pools-guided-trek-from-ella-with-a-mountain": {
+  "title": "Randonnee guidee vers les piscines a debordement superieures de Diyaluma depuis Ella avec pique-nique en montagne",
+  "metaTitle": "Piscines a debordement de Diyaluma depuis Ella",
+  "metaDescription": "Une randonnee guidee vers les piscines naturelles a debordement au sommet de Diyaluma, la deuxieme plus haute cascade du Sri Lanka, avec pique-nique.",
+  "shortDescription": "Une randonnee guidee vers les piscines naturelles a debordement au sommet de Diyaluma, la deuxieme plus haute cascade du Sri Lanka, avec des cascades cachees en chemin et un pique-nique en montagne.",
+  "fullDescription": "Diyaluma tombe de 220 metres depuis l'escarpement d'Uva en une seule nappe et est la deuxieme plus haute cascade du Sri Lanka. Presque tout le monde la photographie depuis la route en bas et continue sa route, ce qui manque tout l'interet du lieu.\n\nLa raison de venir, c'est le sommet. Un sentier escarpe grimpe environ 45 minutes a travers le caoutchouc et les broussailles jusqu'a une chaine de piscines naturelles sur la levre de la chute, ou l'eau s'accumule avant de se jeter dans le vide. S'asseoir dans l'une d'elles avec la plaine etalee 220 metres plus bas est l'une des grandes baignades d'Asie du Sud, et c'est une veritable escalade plutot qu'une marche.\n\nL'itineraire montant passe par une serie de chutes et de piscines plus petites ou presque personne ne s'arrete, et un guide vaut la peine pour deux raisons: le sentier se divise et n'est pas signale, et savoir quelle piscine est sure un jour donne n'est pas quelque chose qu'on peut juger a partir d'une photo.\n\nLe pique-nique en montagne est ce qui transforme cette randonnee en une journee. Vous mangez au sommet, avec l'escarpement qui se derobe au-dessous, avant de redescendre dans l'apres-midi.\n\nEnviron huit heures en tout, dont quatre a pied.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "Les piscines naturelles a debordement sur la levre de la deuxieme plus haute cascade du Sri Lanka",
+   "Une chaine de chutes et de piscines plus petites en chemin ou personne ne s’arrete",
+   "Un guide qui sait quelle piscine est sure pour se baigner ce jour-la",
+   "Un pique-nique au sommet, avec l’escarpement qui se derobe au-dessous",
+   "Environ quatre heures a pied, et une veritable escalade plutot qu’une marche"
+  ],
+  "included": [
+   "Transport avec un guide de randonnee anglophone",
+   "prise en charge et depose a l’hotel a Ella",
+   "la randonnee guidee",
+   "un pique-nique en montagne",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "equipement personnel",
+   "depenses personnelles"
+  ]
+ },
+ "ella-hidden-gems-day-tour-the-loop-the-secret-waterfall-and-both-peaks": {
+  "title": "Excursion des tresors caches d'Ella : la boucle, la cascade secrete et les deux sommets",
+  "metaTitle": "Tresors caches d’Ella",
+  "metaDescription": "Une journee privee a Ella incluant ce que la plupart des circuits manquent: la boucle de Demodara, une cascade secrete, Little Adam's Peak et Ella Rock.",
+  "shortDescription": "Une journee privee a Ella incluant ce que la plupart des circuits manquent: la boucle de Demodara, une cascade non signalee, un trajet en train, aux cotes de Little Adam's Peak, Ella Rock et le pont aux neuf arches.",
+  "fullDescription": "Les sites celebres d'Ella sont celebres pour une bonne raison et ils sont aussi, dès neuf heures du matin, pleins de monde. Les parties de cette journee qui valent le prix sont celles qui ne figurent pas sur la liste standard.\n\nLa boucle de Demodara est la meilleure d'entre elles. Le chemin de fer fait un cercle complet pour passer sous la gare qu'il vient de quitter, uniquement pour gagner de l'altitude, et c'est une veritable piece d'ingenierie de l'epoque ou cette ligne a ete creusee. Presque aucun visiteur ne fait le court trajet pour aller la voir.\n\nLa cascade secrete se trouve au bout d'une piste non signalee a travers le the et le caoutchouc en dessous de la ville. Vous ne la trouverez pas sur une carte, et en saison humide elle est considerablement plus impressionnante que les cascades de Ravana, qui bordent une route et ont un parking.\n\nUn court trajet en train entre Demodara et Ella vous place sur la ligne de montagne plutot qu'a cote, vingt minutes, et le tronçon que tout le monde photographie.\n\nEn plus de cela, la journee couvre les deux marches: Little Adam's Peak a la premiere lumiere, et Ella Rock, qui est celle qui necessite un guide car le carrefour ou l'itineraire quitte la voie ferree n'a aucun panneau et plusieurs alternatives plausibles.\n\nPrive, donc si le train est en retard ou que les nuages descendent, la journee se reorganise au lieu de s'effondrer.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "La boucle de Demodara, ou le chemin de fer fait une boucle sous lui-meme pour gagner de l’altitude",
+   "Une cascade non signalee au bout d’une piste que vous ne trouveriez pas sur une carte",
+   "Un court trajet sur la ligne de montagne plutot qu’une simple vue",
+   "Les deux marches d’Ella, avec un guide pour l’itineraire non signale d’Ella Rock",
+   "Une reservation privee, pour que la journee s’adapte aux trains et au temps"
+  ],
+  "included": [
+   "Vehicule prive avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel a Ella",
+   "guidage sur les deux marches",
+   "tous les trajets"
+  ],
+  "notIncluded": [
+   "Billets de train",
+   "la tyrolienne si ajoutee",
+   "frais d’entree",
+   "repas et boissons",
+   "pourboires"
+  ]
+ },
+ "udawalawe-safari-with-a-south-coast-drop-from-ella-galle-mirissa-or": {
+  "title": "Safari a Udawalawe avec depose sur la cote sud depuis Ella : Galle, Mirissa ou Tangalle",
+  "metaTitle": "Safari Udawalawe vers la cote sud",
+  "metaDescription": "Un safari en groupe partage a Udawalawe sur le trajet d'Ella vers la cote sud, se terminant a Galle, Mirissa, Tangalle ou Hikkaduwa.",
+  "shortDescription": "Un safari en groupe partage a Udawalawe sur le trajet d'Ella vers la cote sud, se terminant a Galle, Mirissa, Tangalle ou Hikkaduwa.",
+  "fullDescription": "Udawalawe se trouve sur la route entre Ella et la cote sud, ce qui fait de la journee de transfert le bon jour pour le voir. En aller-retour depuis l'une ou l'autre extremite, cela signifie cinq heures de route pour trois heures dans le parc; sur le trajet, cela ne coute rien de plus.\n\nC'est la version partagee, qui ramene le prix a une fraction de l'equivalent prive pour le meme parc et les memes heures. L'echange, c'est des horaires fixes et un vehicule complet.\n\nUdawalawe est le parc fiable plutot que le spectaculaire. Il a ete cree en 1972 autour d'un nouveau reservoir, et les terres agricoles deplacees sont devenues une prairie ouverte, donc il n'y a nulle part pour un elephant de se cacher. Environ six cents animaux residents, generalement visibles dans les vingt minutes suivant l'entree. Buffles d'eau, cerfs tachetes, chacals, crocodiles marins le long du reservoir, et une observation d'oiseaux vraiment bonne.\n\nCe que vous ne verrez pas, c'est un leopard. Ils existent ici et ne sont essentiellement jamais vus. Si les leopards sont l'objectif, prenez la version de Yala et acceptez trois cents jeeps.\n\nApres le trajet, il reste deux heures jusqu'a la cote, avec une arrivee en milieu d'apres-midi laissant encore une journee de plage utilisable.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "Environ 600 elephants residents sur une prairie ouverte ou rien ne se cache",
+   "Un prix de groupe partage pour le meme parc et les memes heures que la version privee",
+   "Crocodiles, buffles, chacals et une bonne observation d’oiseaux le long du reservoir",
+   "Le trajet d’Ella a la cote transforme en journee plutot qu’en simple route",
+   "Depose a Galle, Mirissa, Tangalle ou Hikkaduwa"
+  ],
+  "included": [
+   "Transport partage depuis votre hotel a Ella",
+   "une jeep de safari 4x4 avec chauffeur et traqueur",
+   "le safari",
+   "depose sur la cote sud",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Le permis du parc national, a payer en especes a l’entree",
+   "repas",
+   "pourboires pour le chauffeur et le traqueur"
+  ]
+ },
+ "ella-day-tour-with-a-tea-factory-a-cooking-class-and-little-adams-peak": {
+  "title": "Excursion d'une journee a Ella avec fabrique de the, cours de cuisine et Little Adam's Peak",
+  "metaTitle": "Ella : the, cuisine et Little Adam’s Peak",
+  "metaDescription": "Une journee equilibrant marche et gastronomie: Little Adam's Peak a l'aube, une fabrique de the, le pont aux neuf arches et un cours de cuisine.",
+  "shortDescription": "Une journee equilibrant la marche et la gastronomie: Little Adam's Peak a l'aube, une fabrique de the en activite, le pont aux neuf arches, et un cours de cuisine sri-lankaise pratique avec dejeuner.",
+  "fullDescription": "Ella est une ville de marche, et l'erreur que commettent la plupart des circuits d'une journee est de la traiter uniquement comme telle. Celui-ci divise la journee entre les sites et la nourriture, ce qui pour la plupart des gens est le meilleur equilibre.\n\nLittle Adam's Peak l'ouvre a la premiere lumiere, 45 minutes sur un sentier en escaliers pour la vue a travers l'Ella Gap. Le pont aux neuf arches suit en milieu de matinee, cale sur les vrais mouvements de train du jour plutot que sur l'horaire publie.\n\nLa fabrique de the fait le lien entre les deux moities. Le the d'Uva est vraiment distinct: un vent sec saisonnier balaie ces pentes de juin a septembre et donne a la feuille un caractere que les degustateurs peuvent identifier a l'aveugle. Une visite de fabrique en activite suit la feuille depuis les bacs de fletrissage jusqu'au roulage, l'oxydation et la cuisson jusqu'a la table de tri en environ quarante-cinq minutes, et explique pourquoi un seul arbuste produit six qualites a des prix tres differents.\n\nLe cours de cuisine cloture la journee. Le riz et curry est mal nomme en anglais, ce sont six ou sept plats separes cuisines individuellement et manges ensemble, pas un curry avec du riz a cote. Vous rapez de la noix de coco sur un hiramanaya, vous moulez la pate d'epices sur une pierre, et vous cuisinez dans des pots en argile sur un feu de bois qui ne se comporte en rien comme une plaque a gaz. Puis vous mangez ce que vous avez prepare.",
+  "highlights": [
+   "Little Adam’s Peak a la premiere lumiere et le pont aux neuf arches en milieu de matinee",
+   "Une fabrique de the d’Uva en activite, du bac de fletrissage a la table de tri",
+   "Raper de la noix de coco sur un hiramanaya et moudre la pate d’epices sur une pierre",
+   "Cuisiner six ou sept plats dans des pots en argile sur un feu de bois",
+   "Manger le riz et curry que vous avez cuisine"
+  ],
+  "included": [
+   "Vehicule prive avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel a Ella",
+   "la visite de la fabrique de the",
+   "le cours de cuisine avec tous les ingredients",
+   "le dejeuner que vous cuisinez"
+  ],
+  "notIncluded": [
+   "Frais d’entree le cas echeant",
+   "boissons au-dela de celles servies avec le dejeuner",
+   "achats de the",
+   "pourboires"
+  ]
+ },
+ "ella-essentials-day-tour-little-adams-peak-and-the-nine-arch-bridge": {
+  "title": "Excursion essentielle d'Ella : Little Adam's Peak et le pont aux neuf arches",
+  "metaTitle": "Essentiels d’Ella : Little Adam’s Peak et le pont",
+  "metaDescription": "Les deux choses pour lesquelles tout le monde vient a Ella, faites correctement en une journee guidee a prix de groupe partage.",
+  "shortDescription": "Les deux choses pour lesquelles tout le monde vient a Ella, faites correctement en une journee guidee a prix de groupe partage: Little Adam's Peak a la premiere lumiere et le pont aux neuf arches cale sur un train.",
+  "fullDescription": "Ella se trouve a mille metres dans un col entre deux cretes, entouree de the, et attire les gens pour un climat de montagne et deux sites specifiques. C'est le voyage qui fait ces deux choses correctement plutot que de se precipiter sur une liste plus longue.\n\nLittle Adam's Peak ouvre la journee. Quarante-cinq minutes sur un sentier en grande partie en escaliers depuis le bord de la ville, assez facile pour la plupart des niveaux de forme physique et pour les enfants, et la vue a travers l'Ella Gap vers la plaine sud est la raison pour laquelle la ville figure sur l'itineraire de chacun. Y aller a la premiere lumiere n'est pas une preference: l'air est le plus clair le matin tous les mois de l'annee, et vers neuf heures le sommet est une file pour la meme photo.\n\nLe pont aux neuf arches est l'autre. Quatre-vingt-onze metres de viaduc en pierre a vingt-quatre metres au-dessus d'une gorge, construit pendant la Premiere Guerre mondiale en maçonnerie solide car l'acier prevu pour lui a ete requisitionne pour l'Europe. Un constructeur local nomme P. K. Appuhami est largement credite d'avoir acheve l'ouvrage, et les Sri Lankais racontent cette histoire avec une certaine fierte.\n\nUn guide vaut la peine ici principalement pour le train. L'horaire publie et la realite sont deux choses differentes, les trains ont trente a quatre-vingt-dix minutes de retard par habitude, et quelqu'un qui a verifie a la gare ce matin-la sait quand il faut etre a quel endroit.",
+  "highlights": [
+   "Little Adam’s Peak a la premiere lumiere, avant que le sommet ne se remplisse",
+   "La vue a travers l’Ella Gap vers la plaine sud",
+   "Le pont aux neuf arches, construit en pierre sans acier pendant la Premiere Guerre mondiale",
+   "Le pont cale sur les vrais mouvements de train du jour, pas sur l’horaire",
+   "Un prix de groupe partage pour les deux choses que les gens viennent vraiment voir"
+  ],
+  "included": [
+   "Transport avec guide anglophone",
+   "prise en charge et depose a l’hotel a Ella",
+   "guidage sur la marche",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "frais d’entree le cas echeant",
+   "pourboires"
+  ]
+ },
+ "diyaluma-and-ravana-falls-with-the-halpewatte-tea-factory": {
+  "title": "Diyaluma et les cascades de Ravana avec la fabrique de the Halpewatte depuis la cote sud",
+  "metaTitle": "Diyaluma, Ravana et Halpewatte",
+  "metaDescription": "Une longue journee depuis la cote sud vers Uva pour la deuxieme plus haute cascade du Sri Lanka, les cascades de Ravana et la plus grande fabrique de the.",
+  "shortDescription": "Une longue journee depuis la cote sud vers la province d'Uva pour la deuxieme plus haute cascade du Sri Lanka, les cascades de Ravana et la plus grande fabrique de the de la region.",
+  "fullDescription": "C'est la version cascade de la journee cote-montagnes, et elle va plus loin dans les terres que l'excursion standard d'Ella pour atteindre Diyaluma.\n\nDiyaluma mesure 220 metres, la deuxieme plus haute cascade du pays, et elle tombe de l'escarpement d'Uva en une seule nappe visible en entier depuis la route. La plupart des gens la photographient d'en bas. La montee vers les piscines naturelles a debordement au sommet prend environ 45 minutes sur un terrain raide et instable et c'est la partie qui vaut la peine si vous avez les chaussures et les jambes pour cela, s'asseoir dans une piscine de roche sur la levre d'une chute de 220 metres est l'image recherchee, et c'est aussi vraiment dangereux, avec un bord non cloture ou des gens sont morts.\n\nLes cascades de Ravana, plus proches d'Ella, sont celles au bord de la route: larges, puissantes en saison humide, et nommees d'apres le roi demon du Ramayana.\n\nHalpewatte est la plus grande fabrique de the de la region d'Uva et l'une des meilleures a visiter, la feuille passe du bac de fletrissage au roulage, l'oxydation et la cuisson jusqu'a la table de tri, et la visite se termine sur une terrasse surplombant les plantations.\n\nDouze heures, dont huit de route, ce qui est le cout honnete pour atteindre les montagnes depuis une plage.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "Diyaluma, la deuxieme plus haute cascade du Sri Lanka a 220 metres",
+   "La montee optionnelle vers les piscines naturelles a debordement sur la levre de la chute",
+   "Les cascades de Ravana, puissantes en saison humide",
+   "Halpewatte, la plus grande fabrique de the d’Uva, avec une terrasse sur les plantations",
+   "Prise en charge a l’hotel n’importe ou entre Hikkaduwa et Mirissa"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel sur la cote sud",
+   "tous les trajets et arrets",
+   "carburant et stationnement"
+  ],
+  "notIncluded": [
+   "L'entree de la fabrique de the",
+   "repas et boissons",
+   "achats de the",
+   "pourboires",
+   "un guide local aux cascades le cas echeant"
+  ]
+ },
+ "ravana-falls-diyaluma-and-a-yala-safari-full-day-from-ella": {
+  "title": "Cascades de Ravana, Diyaluma et safari a Yala : journee complete depuis Ella",
+  "metaTitle": "Ravana, Diyaluma et safari a Yala",
+  "metaDescription": "Une tres longue journee combinant les deux grandes cascades d'Uva avec un safari a Yala: Ravana et Diyaluma a la descente, le parc a l'aube, retour a Ella le soir.",
+  "shortDescription": "Une tres longue journee combinant les deux grandes cascades d'Uva avec un safari a Yala: Ravana et Diyaluma a la descente, le parc a l'aube, et retour a Ella en soiree.",
+  "fullDescription": "A noter avant de reserver: le Departement de la conservation de la faune a ferme les blocs 1 et 2 du parc national de Yala du 14 septembre au 15 octobre 2026 en raison de la secheresse, donc les safaris dans ces blocs ne peuvent pas avoir lieu a ces dates. Les blocs 3 a 6 restent ouverts, et Udawalawe et Wilpattu ne sont pas affectes, pour un voyage dans cette periode nous vous contacterons pour deplacer le safari vers l'un de ces parcs ou a une date apres le 15 octobre. Udawalawe est le parc le plus fort pour les elephants; Wilpattu offre des observations de leopards plus tranquilles.\n\nQuatorze heures est la duree honnete de cette journee et elle existe parce que la route d'Ella a Yala passe par les deux grandes cascades de la region en descendant.\n\nLes cascades de Ravana sont les premieres, une large cascade de 25 metres au bord de la route en dessous d'Ella, nommee d'apres le roi demon du Ramayana cense avoir cache Sita dans les grottes au-dessus. Diyaluma suit, et a 220 metres c'est la deuxieme plus haute cascade du Sri Lanka, tombant de l'escarpement en une seule nappe et visible en entier depuis le bord de la route.\n\nPuis la plaine, et Yala. Le bloc 1 detient la plus forte densite enregistree de leopards sur Terre, ainsi que des ours paresseux, des elephants, des crocodiles marins et plus de deux cents especes d'oiseaux. Il detient aussi plusieurs centaines de jeeps par une matinee animee en haute saison, et les deux faits appartiennent a la meme phrase.\n\nLe safari a l'aube est celui qui fonctionne, les animaux bougent a la premiere lumiere et s'abritent vers neuf heures.\n\nLa montee de retour dans les montagnes prend les trois dernieres heures de la journee. Si quatorze heures semble trop long, la version sans les cascades est trois heures plus courte, et Udawalawe au lieu de Yala est encore plus courte.",
+  "highlights": [
+   "Les cascades de Ravana et Diyaluma, la deuxieme plus haute du Sri Lanka, a la descente",
+   "Un safari a l’aube dans le parc a la plus forte densite de leopards au monde",
+   "Ours paresseux, elephants, crocodiles et plus de 200 especes d’oiseaux",
+   "La descente complete du pays du the a la plaine cotiere et le retour en une journee",
+   "Un vehicule prive tout au long"
+  ],
+  "included": [
+   "Vehicule prive avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel a Ella",
+   "la jeep de safari avec chauffeur et traqueur",
+   "le safari",
+   "tous les arrets"
+  ],
+  "notIncluded": [
+   "Le permis du parc national, a payer en especes a l’entree",
+   "repas",
+   "pourboires pour le chauffeur et le traqueur"
+  ]
+ },
+ "private-horton-plains-tour-from-ella-with-the-scenic-train-to-ohiya": {
+  "title": "Visite privee d'Horton Plains depuis Ella avec le train panoramique jusqu'a Ohiya",
+  "metaTitle": "Horton Plains depuis Ella avec le train",
+  "metaDescription": "Une journee privee combinant le train de montagne jusqu'a Ohiya avec la boucle complete d'Horton Plains: World's End, les cascades de Baker et la prairie d'altitude.",
+  "shortDescription": "Une journee privee combinant le train de montagne jusqu'a Ohiya avec la boucle complete d'Horton Plains: World's End, les cascades de Baker et la prairie d'altitude a 2 300 metres.",
+  "fullDescription": "Horton Plains est le paysage le plus etrange du Sri Lanka: un plateau de prairie d'altitude et de foret de nuages a environ 2 300 metres, balaye par le vent et froid, avec des arbres rabougris couverts de mousse et de lichen. Cela ressemble davantage a l'Ecosse qu'aux tropiques, et les especes vivant dans cette tranche d'altitude n'existent nulle part ailleurs.\n\nWorld's End est la raison pour laquelle les gens viennent. L'escarpement sud se termine brusquement et le sol tombe d'environ 870 metres en une paroi abrupte, avec la plaine et, par une matinee claire, la cote sud visible loin en bas.\n\nY arriver en train jusqu'a Ohiya est ce qui distingue cela du voyage routier habituel. Ohiya est la gare la plus haute de la ligne de montagne, la montee traverse le meilleur du pays du the, et cela transforme l'approche en une partie de la journee plutot qu'en un trajet de deux heures dans l'obscurite.\n\nLa boucle fait neuf kilometres et trois a quatre heures, parcourue dans le sens antihoraire pour que Little World's End et World's End viennent avant les nuages et que les cascades de Baker arrivent au retour.\n\nLa location privee compte surtout ici pour le rythme: le plateau recompense les arrets, et un groupe marchant selon un horaire a tendance a ne pas le faire.\n\nLe cerf sambar est commun. Le leopard du Sri Lanka vit ici et n'est pratiquement jamais vu.\n\nElla est un village a 1 040 metres dans les montagnes du sud, atteint par le train depuis Kandy que la plupart des gens considerent comme le plus beau trajet ferroviaire d'Asie, et ses sites sont tous a quelques kilometres: le pont aux neuf arches, un viaduc en brique de 1921 dans une gorge de the, qu'un train traverse plusieurs fois par jour; le Little Adam's Peak, une marche de 40 minutes a travers le the jusqu'a une crete; Ella Rock, une ascension plus difficile de trois heures; et les cascades de Ravana sur la route vers Wellawaya. Les matins sont clairs et les apres-midis des mois humides apportent des nuages dans le col, donc les randonnees se font tot. Les tuk-tuks sont le transport, et chaque pension peut en trouver un.",
+  "highlights": [
+   "Prairie d’altitude et foret de nuages a 2 300 m, differentes de tout le reste du Sri Lanka",
+   "World’s End, ou l’escarpement tombe de 870 metres en une paroi abrupte",
+   "Le train de montagne jusqu’a Ohiya, la gare la plus haute de la ligne",
+   "Les cascades de Baker sur le tronçon de retour de la boucle",
+   "Une reservation privee, pour que le plateau se parcoure a votre propre rythme"
+  ],
+  "included": [
+   "Vehicule prive avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel a Ella",
+   "transport entre la gare d’Ohiya et le parc",
+   "guidage sur la boucle"
+  ],
+  "notIncluded": [
+   "Les frais d'entree d'Horton Plains",
+   "billets de train",
+   "repas",
+   "pourboires"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Séance de flyboard à Pattaya",
   "fullDescription": "Cette expérience de 30 minutes se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend séance de flyboard, accompagnement d'un instructeur, équipement de sécurité et douches. Il ne comprend pas photos et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
