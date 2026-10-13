@@ -99341,6 +99341,222 @@ export const DE_TOURS: Record<string, TourT> = {
    "persoenliche Ausgaben"
   ]
  },
+ "nuwara-eliya-full-day-tour-from-kandy-with-ramboda-falls-and-lunch": {
+  "title": "Nuwara-Eliya-Ganztagestour ab Kandy mit den Ramboda-Wasserfaellen und Mittagessen",
+  "metaTitle": "Nuwara Eliya Tagestour ab Kandy",
+  "metaDescription": "Ein voller Tag hinauf nach Nuwara Eliya und zurueck ab Kandy mit Mittagessen inklusive: die Ramboda-Wasserfaelle, der Bhakta-Hanuman-Tempel und eine Teefabrik.",
+  "shortDescription": "Ein voller Tag hinauf nach Nuwara Eliya und zurueck ab Kandy mit Mittagessen inklusive: die Ramboda-Wasserfaelle, der Bhakta-Hanuman-Tempel, eine Teeplantage und Fabrik, und die koloniale Bergstation selbst.",
+  "fullDescription": "Nuwara Eliya wird Little England genannt, die Art Spitzname, der nach Marketing klingt, bis man dort ankommt und eine Pferderennbahn, einen Golfplatz, besetzte Forellenbaeche, ein Postamt im Tudor-Stil und Hecken findet. Die Briten bauten es als Fluchtort vor der Hitze, auf 1.900 Metern, und es ist noch immer 15 Grad kaelter als irgendwo an der Kueste.\n\nDie Fahrt hinauf macht die Haelfte des Tages aus. Die Strasse steigt durch Gampola und Pussellawa, und die Ramboda-Wasserfaelle sind der erste Stopp, ein 100 Meter hoher Fall wenige Gehminuten von der Strasse. Darueber liegt der Bhakta-Hanuman-Tempel, einer einer Kette von Ramayana-Staetten quer durch das Bergland und von indischen Pilgern statt Touristen besucht.\n\nEin Besuch einer Teeplantage und Fabrik folgt und fuehrt das Blatt vom Feld durch Welken, Rollen, Oxidation und Trocknen bis zur Sortiertabelle.\n\nIn Nuwara Eliya selbst gibt es den Gregory-See, den Victoria-Park, die kolonialen Gebaeude, und Zeit zum Spazieren. Mittagessen ist inklusive, was an einem so langen Tag mehr wert ist, als es klingt. Dann der Abstieg, mit Ankunft in Kandy am Abend.\n\nKandy war die letzte Hauptstadt der singhalesischen Koenige und hielt gegen Portugiesen und Niederlaender durch, bis die Briten sie 1815 einnahmen, und der Tempel der Heiligen Zahnreliquie am See ist der Grund, warum sie wichtig ist: Die Reliquie, von der man glaubt, es sei ein Zahn des Buddha, ist das heiligste Objekt der Insel, und ihre Verwahrung legitimierte einst das Koenigtum. Die Reliquienkammer oeffnet dreimal taeglich fuer Puja, etwa um 5:30, 9:30 und 18:30 Uhr, wenn das Trommeln beginnt und die Schlange am Reliquienschrein vorbeizieht. Die Kleidung bedeckt Schultern und Knie, Schuhe werden am Eingang ausgezogen, und die Esala Perahera im Juli oder August fuehrt den Schrein auf einem Elefanten zehn Naechte lang durch die Stadt.",
+  "highlights": [
+   "Die Ramboda-Wasserfaelle und der Ramayana-Tempel Bhakta Hanuman darueber",
+   "Eine Teeplantage und aktive Fabrik mit Verkostung",
+   "Der Gregory-See, der Victoria-Park und das koloniale Zentrum von Nuwara Eliya",
+   "Mittagessen inklusive an einem elfstuendigen Tag",
+   "Ein Privatfahrzeug und Guide durchgehend"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Kandy",
+   "Mittagessen",
+   "alle Fahrten und Stopps",
+   "Kraftstoff und Parken"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer Parks, Gaerten oder Fabrik",
+   "Getraenke",
+   "Trinkgelder",
+   "Teekaeufe"
+  ]
+ },
+ "kandy-to-nanu-oya-tea-country-transfer-with-ella-train-tickets-arranged": {
+  "title": "Transfer von Kandy nach Nanu Oya durch das Teeland mit organisierten Zugtickets fuer Ella",
+  "metaTitle": "Kandy nach Nanu Oya mit Zugtickets",
+  "metaDescription": "Eine gefuehrte Fahrt von Kandy nach Nanu Oya mit Wasserfaellen und lokalem Mittagessen, endend mit organisiertem Ticket fuer den Zug nach Ella.",
+  "shortDescription": "Eine gefuehrte Fahrt von Kandy durch das Teeland nach Nanu Oya mit Wasserfaellen, einem Plantagenbesuch und lokalem Mittagessen, endend mit Ihrem organisierten Ticket fuer den malerischen Zug nach Ella.",
+  "fullDescription": "Der schwierige Teil der Ella-Zugfahrt ist nicht die Fahrt selbst, sondern die Organisation: die reservierten Sitze sind einen Monat vorher ausverkauft, der Bahnhof liegt nicht in der Stadt, die er bedient, und Ihr Gepaeck muss irgendwie nach Ella gelangen. Dieser Transfer erledigt alle drei.\n\nDie Fahrt hinauf von Kandy steigt durch Gampola und Pussellawa, vorbei an den Ramboda-Wasserfaellen, und in die Teeplantagen. Ein Plantagenbesuch deckt sowohl das Feld als auch die Fabrik ab, die zusammen erklaren, wofuer das gesamte Bergland da ist. Das Mittagessen ist lokal, Reis und Curry, an einem Ort, an dem Ihr Fahrer isst, statt an einem fuer Reisebusse gebauten.\n\nIn Nanu Oya werden Sie mit Ihrem Ticket in der Hand in den Zug gesetzt, und der Fahrer bringt Ihr Gepaeck ueber die Strasse nach Ella, um Sie dort zu treffen. Das ist das Stueck, das den Unterschied macht: Sie fahren die beste Bahnfahrt Suedasiens mit einer Tagestasche statt einem Koffer, aus der Tuer gelehnt wie alle anderen.\n\nDer Zug von Nanu Oya nach Ella dauert etwa vier Stunden und ueberquert dabei die Neun-Bogen-Bruecke.\n\nReservierungen oeffnen genau dreissig Tage vor der Abfahrt, und die reservierten Waggons sind in der Saison innerhalb von Stunden ausverkauft, daher funktioniert dies am besten einen Monat im Voraus gebucht. Wenn reservierte Sitze schon weg sind, sind unreservierte zweite und dritte Klasse immer verfuegbar und so reisen die meisten Sri Lanker auf dieser Strecke, Sie werden teilweise stehen, was nicht die Katastrophe ist, nach der es klingt, aber es lohnt sich, das vor dem Tag zu wissen. Nanu Oya nach Ella dauert etwa vier Stunden.",
+  "highlights": [
+   "Zugtickets organisiert statt Ihnen selbst nachzujagen",
+   "Ihr Gepaeck wird ueber die Strasse nach Ella gebracht, waehrend Sie den Zug fahren",
+   "Die Ramboda-Wasserfaelle, eine Teeplantage und Fabrik auf dem Weg hinauf",
+   "Ein lokales Mittagessen statt eines Reisebus-Stopps",
+   "Die Strecke Nanu Oya nach Ella, ueber die Neun-Bogen-Bruecke"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung in Kandy",
+   "alle Stopps",
+   "ein lokales Mittagessen",
+   "organisierte Zugtickets",
+   "Gepaecktransport ueber die Strasse nach Ella"
+  ],
+  "notIncluded": [
+   "Die Kosten des Zugtickets selbst, falls nicht angegeben",
+   "Eintrittsgebuehren",
+   "Getraenke",
+   "Trinkgelder"
+  ]
+ },
+ "kandy-to-nuwara-eliya-or-nanu-oya-transfer-with-the-ella-train": {
+  "title": "Transfer von Kandy nach Nuwara Eliya oder Nanu Oya mit Anschluss an den Ella-Zug",
+  "metaTitle": "Kandy nach Nuwara Eliya/Nanu Oya",
+  "metaDescription": "Ein gefuehrter Transfer von Kandy ins Teeland, abgestimmt auf den beruehmten Zug nach Ella am selben Nachmittag.",
+  "shortDescription": "Ein gefuehrter Transfer von Kandy ins Teeland mit Absetzen in Nuwara Eliya oder am Bahnhof Nanu Oya, abgestimmt auf den beruehmten Zug nach Ella am selben Nachmittag.",
+  "fullDescription": "Nanu Oya ist der Bahnhof fuer Nuwara Eliya und der Punkt, an dem die meisten Leute in den Ella-Zug einsteigen, und auf der Strasse mit Stopps dorthin zu kommen, ist besser als auf der langsamen nordlichen Haelfte der Strecke zu sitzen.\n\nDie Fahrt steigt aus Kandy heraus durch Gampola und Pussellawa, und etwa auf halbem Weg weicht der Wald dem Tee. Die Ramboda-Wasserfaelle sind der erste richtige Stopp, ein 100 Meter hoher Fall einen kurzen Spaziergang von der Strasse. Eine aktive Teefabrik folgt und fuehrt das Blatt durch Welken, Rollen, Oxidation und Trocknen bis zur Sortiertabelle, die einzige beste Erklaerung, warum derselbe Strauch sechs verschiedene Produkte liefert.\n\nNuwara Eliya auf 1.900 Metern ist die Bergstation, die die Briten bauten und nie ganz fertig englisch machten, mit einer Pferderennbahn, einem Golfplatz und den Hakgala-Gaerten einige Kilometer suedlich, wo Rosen und Baumfarne zusammen wachsen und die blauen Elstern zu den Besuchern kommen.\n\nWo Sie abgesetzt werden, ist Ihre Wahl: an Ihrem Hotel in Nuwara Eliya, oder am Bahnhof Nanu Oya rechtzeitig fuer den Nachmittagszug nach Ella.\n\nZwei Dinge, um die man herumplanen sollte. Teefabriken schliessen an Poya-Tagen, dem monatlichen Vollmondfeiertag, und viele stehen auch an Sonntagen still, sodass an diesen Daten der Plantagenstopp zum Feld und Sortierraum wird statt zur laufenden Maschine. Und Nuwara Eliya auf 1.900 Metern ist wirklich kalt, sobald die Sonne untergeht, was Leute ueberrascht, die am selben Tag von Meereshoehe ankommen. Eine zusaetzliche Lage ist wichtig.",
+  "highlights": [
+   "Absetzen in Nuwara Eliya oder am Bahnhof Nanu Oya fuer den Ella-Zug",
+   "Die Ramboda-Wasserfaelle und eine aktive Teefabrik beim Aufstieg",
+   "Die botanischen Gaerten Hakgala, mit Rosen, Baumfarnen und blauen Elstern",
+   "Koloniales Nuwara Eliya auf 1.900 Metern",
+   "Abgestimmt, um die Bergbahn am selben Nachmittag zu nehmen"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung in Kandy",
+   "alle Stopps",
+   "Absetzen in Nuwara Eliya oder am Bahnhof Nanu Oya",
+   "Gepaecktransport durchgehend"
+  ],
+  "notIncluded": [
+   "Zugtickets",
+   "Eintrittsgebuehren fuer die Gaerten oder die Fabrik",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder"
+  ]
+ },
+ "nuwara-eliya-to-kandy-transfer-with-tea-plantations-and-ramboda-falls": {
+  "title": "Transfer von Nuwara Eliya nach Kandy mit Teeplantagen und den Ramboda-Wasserfaellen",
+  "metaTitle": "Nuwara Eliya nach Kandy mit Plantagen",
+  "metaDescription": "Ein panoramischer Transfer von Nuwara Eliya nach Kandy, mit Stopps an einer aktiven Teeplantage und den Ramboda-Wasserfaellen.",
+  "shortDescription": "Ein panoramischer einfacher Transfer von Nuwara Eliya oder dem Bahnhof Nanu Oya hinab nach Kandy, mit Stopps an einer aktiven Teeplantage, den Ramboda-Wasserfaellen und den Bergaussichten beim Abstieg.",
+  "fullDescription": "Wenn Sie gerade aus dem Ella-Zug in Nanu Oya ausgestiegen sind, ist dies der Weg, wie Sie nach Kandy kommen, ohne den Nachmittag zu verschwenden. Die Abholung kann direkt am Bahnhof erfolgen, was dies zur natuerlichen Fortsetzung der Zugfahrt statt zu einem separaten Arrangement macht.\n\nDie Strasse faellt von 1.900 Metern durch die Plantagen, und der erste Stopp ist eine aktive Teeplantage, nicht nur die Fabrik, sondern das Feld, wo Sie Pfluecker beobachten koennen, die die zwei Blaetter und eine Knospe nehmen, von denen alles andere abhaengt. Der folgende Fabrikbesuch gibt Sinn, was Sie gerade gesehen haben: Welken, Rollen, Oxidation, Trocknen, und eine Sortiertabelle, wo ein Blatt zu sechs Produkten wird.\n\nDie Ramboda-Wasserfaelle markieren die Halbzeit, ein 100 Meter hoher Fall wenige Gehminuten von der Strasse, mit einem Tempel darueber.\n\nDer Rest des Abstiegs sind Aussichtspunkte, die Strasse schneidet durch den Huegel mit dem Tal, das sich darunter oeffnet, und es gibt zwei oder drei Stellen, die ein Halten wert sind, an denen ein Bus vorbeifahren wuerde. Sie erreichen Kandy am Nachmittag.\n\nEine Sache, um die man herumplanen sollte: Teefabriken schliessen an Poya-Tagen, dem monatlichen Vollmondfeiertag, und viele lassen ihre Maschinen auch sonntags nicht laufen. An diesen Tagen wird der Plantagenbesuch zu einem Spaziergang durch das Feld und den Sortierraum statt einer aktiven Fabrikbesichtigung, was sich trotzdem lohnt, aber nicht dasselbe ist. Teilen Sie uns Ihr Datum mit, und wir sagen Ihnen klar, was Sie bekommen werden.",
+  "highlights": [
+   "Abholung am Bahnhof Nanu Oya, sodass es direkt an die Bergbahn anschliesst",
+   "Eine aktive Teeplantage, einschliesslich Pfluecker auf dem Feld",
+   "Ein Fabrikbesuch vom Welktrog bis zur Sortiertabelle",
+   "Die Ramboda-Wasserfaelle und der Tempel darueber",
+   "Bergaussichten beim Abstieg, an denen ein Bus nicht haelt"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit englischsprachigem Fahrer-Guide",
+   "Abholung in Nuwara Eliya oder am Bahnhof Nanu Oya",
+   "alle Stopps",
+   "Absetzen an Ihrem Hotel in Kandy",
+   "Gepaecktransport durchgehend"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren, falls zutreffend",
+   "Mahlzeiten und Getraenke",
+   "Teekaeufe",
+   "Trinkgelder"
+  ]
+ },
+ "nuwara-eliya-to-sigiriya-guided-transfer-with-tea-estates-and-dambulla": {
+  "title": "Gefuehrter Transfer von Nuwara Eliya nach Sigiriya mit Teeplantagen und Dambulla",
+  "metaTitle": "Nuwara Eliya nach Sigiriya mit Dambulla",
+  "metaDescription": "Der Abstieg vom Teeland zum Kulturdreieck mit den Stopps eingebaut: eine Teefabrik, die Ramboda-Wasserfaelle, ein Gewuerzgarten von Matale und die Dambulla-Hoehlen.",
+  "shortDescription": "Der Abstieg vom Teeland zum Kulturdreieck mit den Stopps eingebaut: eine Teefabrik, die Ramboda-Wasserfaelle, ein Gewuerzgarten von Matale und die Felsentempel von Dambulla, endend in Sigiriya.",
+  "fullDescription": "Dies ist die Umkehrung des klassischen Aufstiegs, und die Landschaft entrollt sich in umgekehrter Reihenfolge, zuerst Teeplantagen, dann der bewaldete Abstieg, dann Kandy in seinem Tal, dann hinaus auf die Ebene der Trockenzone, wo sich die Felsen des Kulturdreiecks aus flachem Buschwerk erheben.\n\nDer Vormittag beginnt in den Plantagen oberhalb von Nuwara Eliya, mit einer aktiven Teefabrikbesichtigung, die das Blatt von den Welktrogen ueber Rollen, Oxidation und Trocknen bis zur Sortiertabelle fuehrt. Die Ramboda-Wasserfaelle folgen beim Abstieg, ein 100 Meter hoher Fall einen kurzen Spaziergang von der Strasse.\n\nKandy liegt etwa auf halber Strecke, und der Stopp hier ist kurz, der See und das Aussere des Zahntempels, es sei denn, Sie moechten zahlen, um hineinzugehen und eine Stunde hinzuzufuegen.\n\nMatales Gewuerzgaerten kommen als naechstes, wo Zimt, Kardamom, Pfeffer und Muskatnuss auf derselben Parzelle wachsen, und dann Dambulla: fuenf Hoehlen unter einem Granituberhang geschnitten und vom Boden bis zur Decke bemalt, mit rund 150 Buddha-Statuen. Von Dambulla sind es fuenfzehn Minuten nach Sigiriya, wo Sie an Ihrem Hotel abgesetzt werden mit dem Felsenaufstieg noch morgen vor sich.\n\nSigiriya ist eine 200 Meter hohe Felssaeule, die aus der Ebene der Trockenzone aufsteigt, auf der Koenig Kasyapa im fuenften Jahrhundert seinen Palast errichtete, nachdem er den Thron an sich gerissen hatte, und es ist seit 1982 eine UNESCO-Staette. Der Aufstieg umfasst etwa 1.200 Stufen auf Treppen und Eisenstegen, vorbei an der Spiegelwand mit ihren tausend Jahre alten Graffiti und der geschuetzten Galerie mit Fresken, bis zu den Lowenpfoten, die dem Felsen seinen Namen geben, und den Palastgrundmauern auf dem Gipfel. Es dauert fuer die meisten Leute anderthalb Stunden hin und zurueck und sollte am besten um 7:00 Uhr beginnen, vor der Hitze und den Reisebussen; das Ticket fuer auslaendische Besucher ist eines der teuersten im Land, und Pidurangala, der benachbarte Felsen, bietet den klassischen Blick auf Sigiriya fuer einen Bruchteil davon.",
+  "highlights": [
+   "Der Umzug vom Teeland zum Kulturdreieck als Besichtigungstag gemacht",
+   "Eine aktive Teefabrik in den hoechstgelegenen Plantagen der Insel",
+   "Die Ramboda-Wasserfaelle beim Abstieg",
+   "Ein Gewuerzgarten von Matale und die Felsentempel von Dambulla",
+   "Absetzen in Sigiriya mit dem Felsen fuer den naechsten Morgen aufgespart"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung in Nuwara Eliya",
+   "alle Stopps",
+   "Absetzen an Ihrem Hotel in Sigiriya oder Dambulla",
+   "Gepaecktransport durchgehend"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren in Dambulla und anderswo",
+   "Mahlzeiten und Getraenke",
+   "Tee- und Gewuerzkaeufe",
+   "Trinkgelder"
+  ]
+ },
+ "sigiriya-to-nuwara-eliya-guided-transfer-via-kandy-and-the-tea-country": {
+  "title": "Gefuehrter Transfer von Sigiriya nach Nuwara Eliya ueber Kandy und das Teeland",
+  "metaTitle": "Sigiriya nach Nuwara Eliya ueber Kandy",
+  "metaDescription": "Die lange Fahrt vom Kulturdreieck ins Teeland hinauf, mit den Dambulla-Hoehlen, einem Gewuerzgarten von Matale, einem Stopp in Kandy und den Ramboda-Wasserfaellen.",
+  "shortDescription": "Die lange Fahrt vom Kulturdreieck ins Teeland hinauf, mit den Dambulla-Hoehlen, einem Gewuerzgarten von Matale, einem Stopp in Kandy und den Ramboda-Wasserfaellen in die Fahrt eingebaut.",
+  "fullDescription": "Von Sigiriya nach Nuwara Eliya durchquert die gesamte Mitte der Insel, von der Ebene der Trockenzone, durch Kandy in seinem Tal, und 1.900 Meter hinauf in die Teehuegel. Es sind etwa sechs Stunden Fahrt, und es ohne Stopps zu machen, wuerde eine Landschaft verschwenden, die sich auf dem Weg dreimal vollstaendig aendert.\n\nDambulla kommt zuerst, fuenfzehn Minuten von Sigiriya entfernt: fuenf Hoehlen unter einem Granituberhang, vom Boden bis zur Decke bemalt. Dann Matale und seine Gewuerzgaerten, wo Zimt und Kardamom auf derselben Parzelle wie Pfeffer und Muskatnuss wachsen.\n\nKandy liegt etwa auf halbem Weg, und der Stopp hier ist notwendigerweise kurz, der See, und der Zahntempel von aussen, es sei denn, Sie moechten zahlen, um hineinzugehen. Von Kandy aus beginnt die Strasse zu steigen, und um Ramboda weicht der Wald dem Tee und bleibt so.\n\nDie Ramboda-Wasserfaelle sind der letzte grosse Stopp, ein 100 Meter hoher Fall einen kurzen Spaziergang von der Strasse, vor dem letzten Aufstieg nach Nuwara Eliya auf 1.900 Metern, einer Bergstation mit einer Pferderennbahn, einem Golfplatz und Naechten, die kalt genug sind, um eine Jacke zu brauchen.\n\nSigiriya ist eine 200 Meter hohe Felssaeule, die aus der Ebene der Trockenzone aufsteigt, auf der Koenig Kasyapa im fuenften Jahrhundert seinen Palast errichtete, nachdem er den Thron an sich gerissen hatte, und es ist seit 1982 eine UNESCO-Staette. Der Aufstieg umfasst etwa 1.200 Stufen auf Treppen und Eisenstegen, vorbei an der Spiegelwand mit ihren tausend Jahre alten Graffiti und der geschuetzten Galerie mit Fresken, bis zu den Lowenpfoten, die dem Felsen seinen Namen geben, und den Palastgrundmauern auf dem Gipfel. Es dauert fuer die meisten Leute anderthalb Stunden hin und zurueck und sollte am besten um 7:00 Uhr beginnen, vor der Hitze und den Reisebussen; das Ticket fuer auslaendische Besucher ist eines der teuersten im Land, und Pidurangala, der benachbarte Felsen, bietet den klassischen Blick auf Sigiriya fuer einen Bruchteil davon.",
+  "highlights": [
+   "Die gesamte Mitte der Insel an einem Tag, durch drei unterschiedliche Landschaften",
+   "Die Felsentempel von Dambulla und ein Gewuerzgarten von Matale",
+   "Ein Stopp in Kandy etwa auf halber Strecke",
+   "Die Ramboda-Wasserfaelle beim Aufstieg ins Teeland",
+   "Absetzen an Ihrem Hotel in Nuwara Eliya auf 1.900 Metern"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung in Sigiriya oder Dambulla",
+   "alle Stopps auf der Route",
+   "Absetzen an Ihrem Hotel in Nuwara Eliya",
+   "Gepaecktransport durchgehend"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren in Dambulla und ueberall sonst, wo welche anfallen",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder"
+  ]
+ },
+ "sigiriya-to-kandy-artisan-trail-transfer-with-a-family-lunch": {
+  "title": "Transfer von Sigiriya nach Kandy auf dem Handwerkerpfad mit Familienmittagessen",
+  "metaTitle": "Sigiriya nach Kandy Handwerkerpfad",
+  "metaDescription": "Ein Transfer von Sigiriya nach Kandy rund um Handwerkswerkstaetten: Dambulla-Hoehlen, Batik- und Holzschnitzatelier, Mittagessen von einer Familie.",
+  "shortDescription": "Ein Transfer von Sigiriya nach Kandy rund um die Handwerkswerkstaetten auf der Strasse: die Dambulla-Hoehlen, ein Batik- und Holzschnitzatelier, und ein Mittagessen von einer lokalen Familie gekocht auf dem Weg.",
+  "fullDescription": "Die Strasse von Sigiriya nach Kandy fuehrt durch Matale, das so lange ein Handwerksviertel ist, wie Kandy eine Hauptstadt ist, die Holzschnitzer, die Batik-Werkstaetten und die Messingarbeiter versorgten den Hof, und ihre Nachkommen arbeiten noch immer in denselben Strassen.\n\nDieser Transfer ist um sie herum aufgebaut statt um die Denkmaeler. Die Dambulla-Hoehlen kommen zuerst, weil sie auf dem Weg liegen und den Stopp wert sind, aber der Kern der Reise sind die Werkstaetten: Batik, wo Wachs von Hand auf Stoff aufgetragen und der Stoff darum herum gefaerbt wird, Schicht fuer Schicht, in einem Prozess, der Tage fuer ein einzelnes Stueck dauert; und Holzschnitzen, wo die Kandy-Motive mit Handwerkzeugen in Ebenholz und Jak geschnitten werden.\n\nMittagessen ist mit einer lokalen Familie, Reis und Curry, sechs oder sieben Gerichte, zu Hause gekocht und an ihrem Tisch gegessen. Es ist der Teil des Tages, an den sich Leute erinnern, und der Grund, warum dieser Transfer viereinhalb statt zwei Stunden dauert.\n\nSie erreichen Kandy am frueren Nachmittag mit dem Rest des Tages frei.\n\nEin Wort zu dem, was diese Reise absichtlich auslaesst. Die Matale-Strasse ist von Gewuerzgaerten gesaeumt, die eine kostenlose Fuehrung anbieten und dann einen langen, drucksvollen Verkaufsvortrag ueber Oele und Balsame, und fast jeder Standardtransfer haelt an einem. Dieser nicht. Die Werkstaetten, die Sie besuchen, sind aktive Handwerksbetriebe, und obwohl beide Stuecke zum Verkauf haben, gibt es keine Verpflichtung und kein Skript.",
+  "highlights": [
+   "Ein Transfer, der um die Matale-Handwerkswerkstaetten herum aufgebaut ist statt um die Denkmaeler",
+   "Handbemalte Batik, wo das Wachs von Hand aufgetragen und der Stoff in Schichten gefaerbt wird",
+   "Ein Kandy-Holzschnitzatelier, das Handwerkzeuge auf Ebenholz und Jak nutzt",
+   "Die Felsentempel von Dambulla auf dem Weg",
+   "Ein von einer lokalen Familie gekochtes Mittagessen, an ihrem Tisch gegessen"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung in Sigiriya oder Dambulla",
+   "die Werkstattbesuche",
+   "ein hausgemachtes Familienmittagessen",
+   "Absetzen an Ihrem Hotel in Kandy"
+  ],
+  "notIncluded": [
+   "Die Eintrittsgebuehr fuer Dambulla",
+   "Getraenke ueber die zum Mittagessen servierten hinaus",
+   "Handwerkskaeufe",
+   "Trinkgelder"
+  ]
+ },
+ "sigiriya-to-kandy-guided-transfer-with-dambulla-a-spice-garden": {
+  "title": "Gefuehrter Transfer von Sigiriya nach Kandy mit Dambulla, einem Gewuerzgarten und Matale",
+  "metaTitle": "Sigiriya nach Kandy mit Dambulla",
+  "metaDescription": "Die Fahrt von Sigiriya nach Kandy: die Felsentempel von Dambulla, ein Gewuerzgarten von Matale, eine Handwerkswerkstatt und der Hindu-Tempel.",
+  "shortDescription": "Die Fahrt von Sigiriya nach Kandy mit den Staetten der Strasse eingebaut: die Felsentempel von Dambulla, ein Gewuerzgarten von Matale, eine Handwerkswerkstatt und der Hindu-Tempel, endend an Ihrem Hotel in Kandy.",
+  "fullDescription": "Von Sigiriya nach Kandy sind es nur 90 Kilometer, und alles, was einen Stopp wert ist, liegt direkt auf der Strasse, was es zu einer Verschwendung eines Vormittags macht, es als blossen Transfer zu machen.\n\nDambulla liegt fuenfzehn Minuten von Sigiriya entfernt und ist der naheliegende erste Stopp: fuenf Hoehlen unter einem Granituberhang, zweitausend Jahre lang durchgehend bemalt, mit rund 150 Buddha-Statuen. Der Zugangsweg ist steil und die Hoehlen sind oben kuehl.\n\nMatale, auf halbem Weg nach Kandy, ist Gewuerzland. Die Gaerten hier bauen Zimt, Kardamom, Pfeffer, Muskatnuss und Vanille auf derselben Parzelle an, und ein gefuehrter Spaziergang durch einen davon macht die Unterschiede auf eine Weise deutlich, die keine Beschreibung schafft. Der Sri-Muthumariamman-Tempel in der Stadt ist ein Hindu-Tempel mit einem Gopuram voller bemalter Figuren, ungewoehnlich auf einer Insel, wo die buddhistischen Staetten die Aufmerksamkeit auf sich ziehen, und die Holzschnitz- und Batik-Werkstaetten in der Naehe gibt es seit Generationen.\n\nSie kommen am Nachmittag in Kandy an mit der Besichtigung des Tages bereits erledigt und dem Abend frei fuer die Puja am Zahntempel.\n\nSigiriya ist eine 200 Meter hohe Felssaeule, die aus der Ebene der Trockenzone aufsteigt, auf der Koenig Kasyapa im fuenften Jahrhundert seinen Palast errichtete, nachdem er den Thron an sich gerissen hatte, und es ist seit 1982 eine UNESCO-Staette. Der Aufstieg umfasst etwa 1.200 Stufen auf Treppen und Eisenstegen, vorbei an der Spiegelwand mit ihren tausend Jahre alten Graffiti und der geschuetzten Galerie mit Fresken, bis zu den Lowenpfoten, die dem Felsen seinen Namen geben, und den Palastgrundmauern auf dem Gipfel. Es dauert fuer die meisten Leute anderthalb Stunden hin und zurueck und sollte am besten um 7:00 Uhr beginnen, vor der Hitze und den Reisebussen; das Ticket fuer auslaendische Besucher ist eines der teuersten im Land, und Pidurangala, der benachbarte Felsen, bietet den klassischen Blick auf Sigiriya fuer einen Bruchteil davon.",
+  "highlights": [
+   "Die Fahrt von Sigiriya nach Kandy als halben Besichtigungstag gemacht",
+   "Die Felsentempel von Dambulla, fuenfzehn Minuten von Sigiriya entfernt",
+   "Ein Gewuerzgarten von Matale mit Zimt, Kardamom, Pfeffer und Muskatnuss zusammen angebaut",
+   "Der Hindu-Tempel Sri Muthumariamman und sein bemalter Gopuram",
+   "Ankunft in Kandy mit dem Abend frei fuer die Tempel-Puja"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung in Sigiriya, Dambulla oder Habarana",
+   "alle Stopps auf der Route",
+   "Absetzen an Ihrem Hotel in Kandy",
+   "Gepaecktransport durchgehend"
+  ],
+  "notIncluded": [
+   "Die Eintrittsgebuehr fuer Dambulla",
+   "Mahlzeiten und Getraenke",
+   "Gewuerz- oder Handwerkskaeufe",
+   "Trinkgelder"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Flyboard-Erlebnis in Pattaya",
   "fullDescription": "Dies ist ein 30-minütiges Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Flyboard-Erlebnis, Betreuung durch einen Instructor, Sicherheitsausrüstung und Duschen. Nicht enthalten sind Fotos und Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",

@@ -99341,6 +99341,222 @@ export const FR_TOURS: Record<string, TourT> = {
    "depenses personnelles"
   ]
  },
+ "nuwara-eliya-full-day-tour-from-kandy-with-ramboda-falls-and-lunch": {
+  "title": "Excursion d'une journee complete a Nuwara Eliya depuis Kandy avec les cascades de Ramboda et dejeuner",
+  "metaTitle": "Nuwara Eliya en journee depuis Kandy",
+  "metaDescription": "Une journee complete a Nuwara Eliya et retour depuis Kandy avec dejeuner inclus: les cascades de Ramboda, le temple Bhakta Hanuman et une fabrique de the.",
+  "shortDescription": "Une journee complete a Nuwara Eliya et retour depuis Kandy avec dejeuner inclus: les cascades de Ramboda, le temple Bhakta Hanuman, une plantation et fabrique de the, et la station de montagne coloniale elle-meme.",
+  "fullDescription": "Nuwara Eliya est appelee la Petite Angleterre, ce genre de surnom qui ressemble a du marketing jusqu'a ce que vous y arriviez et trouviez un hippodrome, un terrain de golf, des cours d'eau a truites, un bureau de poste de style faux Tudor et des haies. Les Britanniques l'ont construite comme un refuge contre la chaleur, a 1 900 metres, et elle reste encore 15 degres plus froide que n'importe quel endroit de la cote.\n\nLa montee occupe la moitie de la journee. La route grimpe a travers Gampola et Pussellawa, et les cascades de Ramboda sont le premier arret, une chute de 100 metres a quelques minutes de marche de la route. Au-dessus se trouve le temple Bhakta Hanuman, l'un d'une chaine de sites du Ramayana a travers les montagnes et frequente par des pelerins indiens plutot que des touristes.\n\nUne visite de plantation et de fabrique de the suit, menant la feuille des champs au fletrissage, au roulage, a l'oxydation et a la cuisson jusqu'a la table de tri.\n\nA Nuwara Eliya meme, il y a le lac Gregory, le parc Victoria, les batiments coloniaux, et le temps de marcher. Le dejeuner est inclus, ce qui sur une journee aussi longue vaut plus qu'il ne parait. Puis la descente, avec une arrivee a Kandy en soiree.\n\nKandy fut la derniere capitale des rois cinghalais, resistant aux Portugais et aux Hollandais jusqu'a ce que les Britanniques la prennent en 1815, et le Temple de la Sainte Dent Relique sur le lac explique son importance: la relique, consideree comme une dent du Bouddha, est l'objet le plus sacre de l'ile et sa garde legitimait autrefois la royaute. La chambre de la relique ouvre pour le puja trois fois par jour, vers 5h30, 9h30 et 18h30, quand les tambours commencent et que la file avance devant le reliquaire. La tenue couvre epaules et genoux, les chaussures se retirent a l'entree, et l'Esala Perahera en juillet ou aout fait parader le reliquaire sur un elephant a travers la ville pendant dix nuits.",
+  "highlights": [
+   "Les cascades de Ramboda et le temple Bhakta Hanuman du Ramayana au-dessus",
+   "Une plantation de the et une fabrique en activite avec une degustation",
+   "Le lac Gregory, le parc Victoria et le centre colonial de Nuwara Eliya",
+   "Dejeuner inclus sur une journee de onze heures",
+   "Un vehicule prive et un guide tout au long"
+  ],
+  "included": [
+   "Vehicule prive climatise avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel a Kandy",
+   "dejeuner",
+   "tous les trajets et arrets",
+   "carburant et stationnement"
+  ],
+  "notIncluded": [
+   "Frais d’entree aux parcs, jardins ou fabriques",
+   "boissons",
+   "pourboires",
+   "achats de the"
+  ]
+ },
+ "kandy-to-nanu-oya-tea-country-transfer-with-ella-train-tickets-arranged": {
+  "title": "Transfert de Kandy a Nanu Oya dans le pays du the avec billets de train pour Ella organises",
+  "metaTitle": "Kandy a Nanu Oya avec billets de train",
+  "metaDescription": "Un trajet guide de Kandy vers Nanu Oya avec cascades et dejeuner local, se terminant avec votre billet organise pour le train vers Ella.",
+  "shortDescription": "Un trajet guide de Kandy a travers le pays du the vers Nanu Oya avec cascades, une visite de plantation et un dejeuner local, se terminant avec votre billet organise pour le train panoramique vers Ella.",
+  "fullDescription": "La partie delicate du trajet en train vers Ella n'est pas le voyage lui-meme, c'est l'organisation: les sieges reserves se vendent un mois a l'avance, la gare ne se trouve pas dans la ville qu'elle sert, et vos bagages doivent arriver a Ella d'une facon ou d'une autre. Ce transfert gere les trois.\n\nLa montee depuis Kandy grimpe a travers Gampola et Pussellawa, passe les cascades de Ramboda, et entre dans les plantations de the. Une visite de plantation couvre a la fois le champ et la fabrique, qui expliquent ensemble a quoi sert toute la region des montagnes. Le dejeuner est local, riz et curry, dans un endroit ou mange votre chauffeur plutot qu'un lieu concu pour les autocars.\n\nA Nanu Oya, vous montez dans le train avec votre billet en main, et le chauffeur emmene vos bagages jusqu'a Ella par la route pour vous y retrouver. C'est la piece qui fait toute la difference: vous parcourez le plus beau trajet ferroviaire d'Asie du Sud avec un sac de jour plutot qu'une valise, pendu a la porte avec tout le monde.\n\nLe train de Nanu Oya a Ella prend environ quatre heures et traverse le pont aux neuf arches en chemin.\n\nLes reservations ouvrent exactement trente jours avant le depart et les wagons reserves se vendent en quelques heures en haute saison, donc cela fonctionne mieux reserve un mois a l'avance. Si les sieges reserves sont deja partis, les deuxieme et troisieme classes non reservees sont toujours disponibles et c'est ainsi que voyagent la plupart des Sri Lankais sur cette ligne, vous resterez debout une partie du trajet, ce qui n'est pas le desastre que cela semble etre, mais vaut la peine d'etre su avant le jour. De Nanu Oya a Ella, il faut environ quatre heures.",
+  "highlights": [
+   "Billets de train organises plutot que laisses a votre charge",
+   "Vos bagages emmenes a Ella par la route pendant que vous prenez le train",
+   "Les cascades de Ramboda, une plantation et une fabrique de the a la montee",
+   "Un dejeuner local plutot qu’un arret pour autocars",
+   "La ligne de Nanu Oya a Ella, au-dessus du pont aux neuf arches"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel a Kandy",
+   "tous les arrets",
+   "un dejeuner local",
+   "billets de train organises",
+   "bagages emmenes a Ella par la route"
+  ],
+  "notIncluded": [
+   "Le cout du billet de train lui-meme lorsqu’il n’est pas indique",
+   "frais d’entree",
+   "boissons",
+   "pourboires"
+  ]
+ },
+ "kandy-to-nuwara-eliya-or-nanu-oya-transfer-with-the-ella-train": {
+  "title": "Transfert de Kandy a Nuwara Eliya ou Nanu Oya avec connexion au train d'Ella",
+  "metaTitle": "Kandy a Nuwara Eliya/Nanu Oya",
+  "metaDescription": "Un transfert guide de Kandy vers le pays du the avec depose a Nuwara Eliya ou a la gare de Nanu Oya, cale pour prendre le celebre train vers Ella le meme apres-midi.",
+  "shortDescription": "Un transfert guide de Kandy vers le pays du the avec depose a Nuwara Eliya ou a la gare de Nanu Oya, cale pour prendre le celebre train vers Ella le meme apres-midi.",
+  "fullDescription": "Nanu Oya est la gare pour Nuwara Eliya et le point ou la plupart des gens montent dans le train vers Ella, et y arriver par la route avec des arrets vaut mieux que de rester assis sur la moitie nord lente de la ligne.\n\nLa montee quitte Kandy a travers Gampola et Pussellawa, et vers la moitie la foret cede la place au the. Les cascades de Ramboda sont le premier vrai arret, une chute de 100 metres a courte distance de marche de la route. Une fabrique de the en activite suit, menant la feuille a travers le fletrissage, le roulage, l'oxydation et la cuisson jusqu'a la table de tri, la meilleure explication de pourquoi le meme arbuste produit six produits differents.\n\nNuwara Eliya a 1 900 metres est la station de montagne que les Britanniques ont construite et n'ont jamais tout a fait fini de rendre anglaise, avec un hippodrome, un terrain de golf et les jardins botaniques de Hakgala a quelques kilometres au sud, ou roses et fougeres arborescentes poussent ensemble et ou les pies bleues viennent vers les visiteurs.\n\nLa ou vous etes depose est votre choix: a votre hotel a Nuwara Eliya, ou a la gare de Nanu Oya a temps pour le train de l'apres-midi vers Ella.\n\nDeux choses a prevoir. Les fabriques de the ferment les jours de poya, le conge mensuel de la pleine lune, et beaucoup restent inactives le dimanche aussi, donc a ces dates, l'arret a la plantation devient le champ et la salle de tri plutot qu'une machine en fonctionnement. Et Nuwara Eliya a 1 900 metres est vraiment froide une fois le soleil couche, ce qui surprend les gens arrivant le meme jour depuis le niveau de la mer. Une couche compte.",
+  "highlights": [
+   "Depose a Nuwara Eliya ou a la gare de Nanu Oya pour le train vers Ella",
+   "Les cascades de Ramboda et une fabrique de the en activite a la montee",
+   "Les jardins botaniques de Hakgala, avec roses, fougeres arborescentes et pies bleues",
+   "Nuwara Eliya coloniale a 1 900 metres",
+   "Cale pour rejoindre le train de montagne le meme apres-midi"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel a Kandy",
+   "tous les arrets",
+   "depose a Nuwara Eliya ou a la gare de Nanu Oya",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Billets de train",
+   "frais d’entree aux jardins ou a la fabrique",
+   "repas et boissons",
+   "pourboires"
+  ]
+ },
+ "nuwara-eliya-to-kandy-transfer-with-tea-plantations-and-ramboda-falls": {
+  "title": "Transfert de Nuwara Eliya a Kandy avec plantations de the et cascades de Ramboda",
+  "metaTitle": "Nuwara Eliya a Kandy avec plantations",
+  "metaDescription": "Un transfert panoramique aller simple de Nuwara Eliya ou la gare de Nanu Oya vers Kandy, avec arrets a une plantation de the en activite et aux cascades de Ramboda.",
+  "shortDescription": "Un transfert panoramique aller simple de Nuwara Eliya ou la gare de Nanu Oya vers Kandy, avec arrets a une plantation de the en activite, les cascades de Ramboda et les points de vue des montagnes a la descente.",
+  "fullDescription": "Si vous venez de descendre du train d'Ella a Nanu Oya, c'est ainsi que vous arrivez a Kandy sans gaspiller l'apres-midi. La prise en charge peut se faire a la gare elle-meme, ce qui en fait la continuation naturelle du trajet ferroviaire plutot qu'un arrangement separe.\n\nLa route descend de 1 900 metres a travers les plantations, et le premier arret est une plantation de the en activite, pas seulement la fabrique mais le champ, ou vous pouvez observer les cueilleurs prendre les deux feuilles et un bourgeon dont tout le reste depend. La visite de fabrique qui suit donne un sens a ce que vous venez de voir: fletrissage, roulage, oxydation, cuisson, et une table de tri ou une feuille devient six produits.\n\nLes cascades de Ramboda marquent la mi-chemin, une chute de 100 metres a quelques minutes de marche de la route, avec un temple au-dessus.\n\nLe reste de la descente, ce sont des points de vue, la route traverse la colline avec la vallee qui s'ouvre en contrebas, et il y a deux ou trois endroits qui valent l'arret qu'un bus depasserait. Vous atteignez Kandy dans l'apres-midi.\n\nUne chose a prevoir: les fabriques de the ferment les jours de poya, le conge mensuel de la pleine lune, et beaucoup ne font pas fonctionner leurs machines le dimanche non plus. A ces dates, la visite de la plantation devient une marche a travers le champ et la salle de tri plutot qu'une visite de fabrique en activite, ce qui merite encore d'etre fait mais n'est pas la meme chose. Indiquez-nous votre date et nous vous dirons clairement ce que vous obtiendrez.",
+  "highlights": [
+   "Prise en charge a la gare de Nanu Oya, pour continuer directement depuis le train de montagne",
+   "Une plantation de the en activite, incluant les cueilleurs dans le champ",
+   "Une visite de fabrique du bac de fletrissage a la table de tri",
+   "Les cascades de Ramboda et le temple au-dessus",
+   "Des points de vue de montagne a la descente qu’un bus ne verrait pas"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge a Nuwara Eliya ou a la gare de Nanu Oya",
+   "tous les arrets",
+   "depose a votre hotel a Kandy",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Frais d’entree le cas echeant",
+   "repas et boissons",
+   "achats de the",
+   "pourboires"
+  ]
+ },
+ "nuwara-eliya-to-sigiriya-guided-transfer-with-tea-estates-and-dambulla": {
+  "title": "Transfert guide de Nuwara Eliya a Sigiriya avec plantations de the et Dambulla",
+  "metaTitle": "Nuwara Eliya a Sigiriya avec Dambulla",
+  "metaDescription": "La descente du pays du the vers le triangle culturel: fabrique de the, cascades de Ramboda, jardin d'epices et grottes de Dambulla.",
+  "shortDescription": "La descente du pays du the vers le triangle culturel avec les arrets integres: une fabrique de the, les cascades de Ramboda, un jardin d'epices de Matale et les temples rupestres de Dambulla, se terminant a Sigiriya.",
+  "fullDescription": "C'est l'inverse de la montee classique, et le paysage se deroule dans l'ordre oppose, les plantations de the d'abord, puis la descente boisee, puis Kandy dans sa vallee, puis la sortie sur la plaine de la zone seche ou les rochers du triangle culturel se dressent au-dessus de broussailles plates.\n\nLa matinee commence dans les plantations au-dessus de Nuwara Eliya, avec une visite de fabrique de the en activite qui suit la feuille depuis les bacs de fletrissage jusqu'au roulage, l'oxydation et la cuisson jusqu'a la table de tri. Les cascades de Ramboda suivent a la descente, une chute de 100 metres a courte distance de marche de la route.\n\nKandy se trouve a peu pres au milieu, et l'arret ici est bref, le lac et l'exterieur du Temple de la Dent, a moins que vous ne vouliez payer pour entrer et ajouter une heure.\n\nLes jardins d'epices de Matale viennent ensuite, cultivant la cannelle, la cardamome, le poivre et la muscade dans la meme parcelle, puis Dambulla: cinq grottes taillees sous un surplomb de granit et peintes du sol au plafond, abritant environ 150 images de Bouddha. De Dambulla, il faut quinze minutes jusqu'a Sigiriya, ou vous etes depose a votre hotel avec l'ascension du rocher encore a faire le lendemain.\n\nSigiriya est une colonne rocheuse de 200 metres qui s'eleve au-dessus de la plaine de la zone seche, sur laquelle le roi Kasyapa a construit son palais au cinquieme siecle apres avoir usurpe le trone, et c'est un site de l'UNESCO depuis 1982. L'ascension compte environ 1 200 marches sur des escaliers et passerelles en fer, passant par le mur miroir avec ses graffitis millenaires et la galerie abritee de fresques, jusqu'aux pattes du lion qui donnent son nom au rocher et aux fondations du palais au sommet. Cela prend une heure et demie aller-retour pour la plupart des gens et il vaut mieux commencer a 7h00, avant la chaleur et les autocars; le ticket pour les visiteurs etrangers est l'un des plus chers du pays, et Pidurangala, le rocher voisin, offre la vue classique sur Sigiriya pour une fraction du prix.",
+  "highlights": [
+   "Le trajet du pays du the au triangle culturel transforme en journee de visites",
+   "Une fabrique de the en activite dans les plantations les plus hautes de l’ile",
+   "Les cascades de Ramboda a la descente",
+   "Un jardin d’epices de Matale et les temples rupestres de Dambulla",
+   "Depose a Sigiriya avec le rocher reserve pour le lendemain matin"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel a Nuwara Eliya",
+   "tous les arrets",
+   "depose a votre hotel a Sigiriya ou Dambulla",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Frais d’entree a Dambulla et ailleurs",
+   "repas et boissons",
+   "achats de the et d’epices",
+   "pourboires"
+  ]
+ },
+ "sigiriya-to-nuwara-eliya-guided-transfer-via-kandy-and-the-tea-country": {
+  "title": "Transfert guide de Sigiriya a Nuwara Eliya via Kandy et le pays du the",
+  "metaTitle": "Sigiriya a Nuwara Eliya via Kandy",
+  "metaDescription": "Le long trajet du triangle culturel vers le pays du the: grottes de Dambulla, jardin d'epices, arret a Kandy et cascades de Ramboda.",
+  "shortDescription": "Le long trajet du triangle culturel vers le pays du the, avec les grottes de Dambulla, un jardin d'epices de Matale, un arret a Kandy et les cascades de Ramboda integres au trajet.",
+  "fullDescription": "De Sigiriya a Nuwara Eliya, on traverse tout le centre de l'ile, depuis la plaine de la zone seche, en passant par Kandy dans sa vallee, et en montant 1 900 metres dans les montagnes du the. C'est environ six heures de route, et le faire sans s'arreter gaspillerait un paysage qui change completement trois fois en chemin.\n\nDambulla vient d'abord, a quinze minutes de Sigiriya: cinq grottes sous un surplomb de granit, peintes du sol au plafond. Puis Matale et ses jardins d'epices, ou la cannelle et la cardamome poussent dans la meme parcelle que le poivre et la muscade.\n\nKandy se trouve a peu pres a mi-chemin, et l'arret ici est necessairement court, le lac, et le Temple de la Dent de l'exterieur a moins que vous ne vouliez payer pour entrer. De Kandy, la route commence a grimper, et autour de Ramboda la foret cede la place au the et le reste.\n\nLes cascades de Ramboda sont le dernier grand arret, une chute de 100 metres a courte distance de marche de la route, avant la derniere montee vers Nuwara Eliya a 1 900 metres, une station de montagne avec un hippodrome, un terrain de golf et des nuits assez froides pour necessiter une veste.\n\nSigiriya est une colonne rocheuse de 200 metres qui s'eleve au-dessus de la plaine de la zone seche, sur laquelle le roi Kasyapa a construit son palais au cinquieme siecle apres avoir usurpe le trone, et c'est un site de l'UNESCO depuis 1982. L'ascension compte environ 1 200 marches sur des escaliers et passerelles en fer, passant par le mur miroir avec ses graffitis millenaires et la galerie abritee de fresques, jusqu'aux pattes du lion qui donnent son nom au rocher et aux fondations du palais au sommet. Cela prend une heure et demie aller-retour pour la plupart des gens et il vaut mieux commencer a 7h00, avant la chaleur et les autocars; le ticket pour les visiteurs etrangers est l'un des plus chers du pays, et Pidurangala, le rocher voisin, offre la vue classique sur Sigiriya pour une fraction du prix.",
+  "highlights": [
+   "Tout le centre de l’ile en une journee, a travers trois paysages distincts",
+   "Les temples rupestres de Dambulla et un jardin d’epices de Matale",
+   "Un arret a Kandy a peu pres a mi-chemin",
+   "Les cascades de Ramboda a la montee vers le pays du the",
+   "Depose a votre hotel a Nuwara Eliya a 1 900 metres"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel a Sigiriya ou Dambulla",
+   "tous les arrets sur la route",
+   "depose a votre hotel a Nuwara Eliya",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Frais d’entree a Dambulla et partout ou ils s’appliquent",
+   "repas et boissons",
+   "pourboires"
+  ]
+ },
+ "sigiriya-to-kandy-artisan-trail-transfer-with-a-family-lunch": {
+  "title": "Transfert de Sigiriya a Kandy sur le chemin des artisans avec dejeuner en famille",
+  "metaTitle": "Sigiriya a Kandy chemin des artisans",
+  "metaDescription": "Un transfert de Sigiriya a Kandy autour des ateliers artisanaux: grottes de Dambulla, studio de batik et sculpture, dejeuner en famille.",
+  "shortDescription": "Un transfert de Sigiriya a Kandy construit autour des ateliers artisanaux sur la route: les grottes de Dambulla, un studio de batik et de sculpture sur bois, et un dejeuner cuisine par une famille locale sur le chemin.",
+  "fullDescription": "La route de Sigiriya a Kandy passe par Matale, qui est un quartier artisanal depuis aussi longtemps que Kandy est une capitale, les sculpteurs de bois, les ateliers de batik et les travailleurs du laiton approvisionnaient la cour, et leurs descendants travaillent encore dans les memes rues.\n\nCe transfert est construit autour d'eux plutot qu'autour des monuments. Les grottes de Dambulla viennent d'abord, car elles sont sur le chemin et valent l'arret, mais l'essentiel du voyage, ce sont les ateliers: le batik, ou la cire est dessinee a la main sur le tissu et le tissu teint tout autour, couche par couche, dans un procede qui prend des jours pour une seule piece; et la sculpture sur bois, ou les motifs kandyens sont tailles dans l'ebene et le jak a la main.\n\nLe dejeuner se prend avec une famille locale, riz et curry, six ou sept plats, cuisines a la maison et manges a leur table. C'est la partie de la journee dont les gens se souviennent, et c'est la raison pour laquelle ce transfert prend quatre heures et demie au lieu de deux.\n\nVous atteignez Kandy en debut d'apres-midi avec le reste de la journee libre.\n\nUn mot sur ce que ce voyage omet deliberement. La route de Matale est bordee de jardins d'epices qui proposent une visite gratuite suivie d'un long discours de vente a haute pression sur les huiles et les baumes, et presque tous les transferts standard s'y arretent. Celui-ci non. Les ateliers que vous visitez sont des locaux artisanaux en activite, et bien que les deux aient des pieces a vendre, il n'y a ni obligation ni discours.",
+  "highlights": [
+   "Un transfert construit autour des ateliers artisanaux de Matale plutot que des monuments",
+   "Du batik dessine a la main, avec la cire appliquee a la main et le tissu teint en couches",
+   "Un studio de sculpture kandyen utilisant des outils manuels sur l’ebene et le jak",
+   "Les temples rupestres de Dambulla sur le chemin",
+   "Un dejeuner cuisine par une famille locale et mange a leur table"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel a Sigiriya ou Dambulla",
+   "les visites d’ateliers",
+   "un dejeuner fait maison en famille",
+   "depose a votre hotel a Kandy"
+  ],
+  "notIncluded": [
+   "Les frais d’entree de Dambulla",
+   "boissons au-dela de celles servies avec le dejeuner",
+   "achats artisanaux",
+   "pourboires"
+  ]
+ },
+ "sigiriya-to-kandy-guided-transfer-with-dambulla-a-spice-garden": {
+  "title": "Transfert guide de Sigiriya a Kandy avec Dambulla, un jardin d'epices et Matale",
+  "metaTitle": "Sigiriya a Kandy avec Dambulla",
+  "metaDescription": "Le trajet de Sigiriya a Kandy: temples rupestres de Dambulla, jardin d'epices de Matale, atelier artisanal et temple hindou.",
+  "shortDescription": "Le trajet de Sigiriya a Kandy avec les sites de la route integres: les temples rupestres de Dambulla, un jardin d'epices de Matale, un atelier artisanal et le temple hindou, se terminant a votre hotel a Kandy.",
+  "fullDescription": "De Sigiriya a Kandy, il n'y a que 90 kilometres, et tout ce qui vaut un arret se trouve directement sur la route, ce qui rend le faire comme un simple transfert un gaspillage de matinee.\n\nDambulla se trouve a quinze minutes de Sigiriya et c'est l'arret evident: cinq grottes sous un surplomb de granit, peintes en continu depuis deux mille ans, abritant environ 150 images de Bouddha. Le sentier d'approche est raide et les grottes sont fraiches en haut.\n\nMatale, a mi-chemin vers Kandy, est le pays des epices. Les jardins ici cultivent la cannelle, la cardamome, le poivre, la muscade et la vanille dans la meme parcelle, et une marche guidee a travers l'un d'eux rend les differences evidentes d'une facon qu'aucune description ne fait. Le temple Sri Muthumariamman dans la ville est un temple hindou avec un gopuram couvert de figures peintes, inhabituel sur une ile ou les sites bouddhistes attirent l'attention, et les ateliers de sculpture sur bois et de batik a proximite existent depuis des generations.\n\nVous arrivez a Kandy dans l'apres-midi avec les visites du jour deja faites et la soiree libre pour le puja du Temple de la Dent.\n\nSigiriya est une colonne rocheuse de 200 metres qui s'eleve au-dessus de la plaine de la zone seche, sur laquelle le roi Kasyapa a construit son palais au cinquieme siecle apres avoir usurpe le trone, et c'est un site de l'UNESCO depuis 1982. L'ascension compte environ 1 200 marches sur des escaliers et passerelles en fer, passant par le mur miroir avec ses graffitis millenaires et la galerie abritee de fresques, jusqu'aux pattes du lion qui donnent son nom au rocher et aux fondations du palais au sommet. Cela prend une heure et demie aller-retour pour la plupart des gens et il vaut mieux commencer a 7h00, avant la chaleur et les autocars; le ticket pour les visiteurs etrangers est l'un des plus chers du pays, et Pidurangala, le rocher voisin, offre la vue classique sur Sigiriya pour une fraction du prix.",
+  "highlights": [
+   "Le trajet de Sigiriya a Kandy transforme en demi-journee de visites",
+   "Les temples rupestres de Dambulla, a quinze minutes de Sigiriya",
+   "Un jardin d’epices de Matale avec cannelle, cardamome, poivre et muscade",
+   "Le temple hindou Sri Muthumariamman et son gopuram peint",
+   "Arrivee a Kandy avec la soiree libre pour le puja du temple"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel a Sigiriya, Dambulla ou Habarana",
+   "tous les arrets sur la route",
+   "depose a votre hotel a Kandy",
+   "bagages transportes tout le long"
+  ],
+  "notIncluded": [
+   "Les frais d’entree de Dambulla",
+   "repas et boissons",
+   "achats d’epices ou artisanaux",
+   "pourboires"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Séance de flyboard à Pattaya",
   "fullDescription": "Cette expérience de 30 minutes se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend séance de flyboard, accompagnement d'un instructeur, équipement de sécurité et douches. Il ne comprend pas photos et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
