@@ -101331,6 +101331,218 @@ export const FR_TOURS: Record<string, TourT> = {
    "pourboires"
   ]
  },
+ "anuradhapura-colombo-private-day-trip-ancient-capital": {
+  "title": "Anuradhapura depuis Colombo : excursion privee d’une journee a l’ancienne capitale",
+  "metaTitle": "Anuradhapura depuis Colombo",
+  "metaDescription": "Une excursion privee guidee d’une journee a Anuradhapura, capitale de l’ile pendant plus de mille ans, avec l’arbre de la Bodhi et les grandes stupas.",
+  "shortDescription": "Une excursion privee guidee d’une journee a Anuradhapura, capitale de l’ile pendant plus de mille ans, avec l’arbre de la Bodhi sacre, les grandes stupas et les ruines monastiques.",
+  "fullDescription": "Anuradhapura fut la capitale de Sri Lanka pendant plus de mille ans, a partir d’environ le quatrieme siecle avant notre ere, et c’est la plus grande et la plus ancienne des villes antiques de l’ile. Les ruines s’etendent sur une large plaine de reservoirs et de foret, c’est pourquoi un guide et une voiture comptent ici : sans eux, vous voyez trois monuments et ratez la forme de l’ensemble.\n\nLe centre, pour les Sri-Lankais, est le Jaya Sri Maha Bodhi. L’arbre a pousse d’une bouture de l’arbre de la Bodhi a Bodh Gaya, apportee sur l’ile au troisieme siecle avant notre ere, et il est documente comme l’arbre le plus ancien plante par l’homme dans le monde avec un registre continu. Les pelerins viennent en blanc, portent des fleurs de lotus et les offrent sur les terrasses. Votre guide lui consacre une heure complete, et c’est la bonne duree.\n\nLes stupas sont l’autre raison de venir. Ruwanweli Maha Seya, restauree et d’un blanc eclatant, fut elevee par le roi Dutugemunu au deuxieme siecle avant notre ere. Jetavanaramaya, en brique brute, fut pendant une periode la troisieme structure la plus haute de la terre. Abhayagiri ancrait un monastere de milliers de moines qui accueillait l’enseignement Mahayana a cote du Theravada. Isurumuniya, les sculptures de pierre de lune et le Bouddha de Samadhi completent la journee.\n\nLe trajet est le cout de faire cela en une journee. Il faut environ quatre heures dans chaque sens, avec un arret petit-dejeuner a Kurunegala a l’aller et le dejeuner a Anuradhapura, vous envisagez donc une journee d’environ quatorze heures de porte a porte. C’est beaucoup, mais les sites eux-memes sont etales et generalement plats, et vous vous deplacez entre eux en voiture plutot qu’a pied.\n\nEtant prive, la journee peut etre orientee selon vos interets : l’arbre de la Bodhi et les sites religieux vivants, ou l’archeologie et les ruines monastiques. La prise en charge couvre Colombo, Negombo et Katunayake.",
+  "highlights": [
+   "Jaya Sri Maha Bodhi, pousse d’une bouture de l’arbre de Bodh Gaya au troisieme siecle avant notre ere",
+   "Ruwanweli Maha Seya et Jetavanaramaya, deux des plus grandes stupas du monde antique",
+   "Les ruines monastiques d’Abhayagiri et les sculptures rupestres d’Isurumuniya",
+   "Un guide prive qui peut orienter la journee vers l’archeologie ou le pelerinage vivant",
+   "Voiture climatisee avec prise en charge depuis Colombo, Negombo ou Katunayake"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur et carburant",
+   "guide anglophone",
+   "prise en charge et depose a l’hotel a Colombo, Negombo ou Katunayake",
+   "eau en bouteille"
+  ],
+  "notIncluded": [
+   "Billet d’entree a la ville sacree d’Anuradhapura",
+   "petit dejeuner et dejeuner",
+   "boissons",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "ella-day-trip-colombo-tea-factory-hill-train-nine-arch-bridge": {
+  "title": "Excursion d’une journee a Ella depuis Colombo : fabrique de the, train de montagne et pont des Neuf Arches",
+  "metaTitle": "Ella depuis Colombo",
+  "metaDescription": "Une tres longue journee depuis la cote vers les collines : une fabrique de the en activite, le train d’Ella, le pont des Neuf Arches et Little Adam’s Peak.",
+  "shortDescription": "Une tres longue journee depuis la cote vers les collines : une fabrique de the en activite, un tronçon du train d’Ella, le pont des Neuf Arches et la montee de Little Adam’s Peak.",
+  "fullDescription": "Ella se trouve a environ 1 000 metres d’altitude dans les hauts plateaux d’Uva, a quatre heures et demie de route de montagne dans chaque sens depuis Colombo. Ce voyage fait entrer les points forts des collines en une seule journee de seize heures. Cela fonctionne, mais le depart est tot et l’arrivee tardive, et si vous avez le choix, deux jours avec une nuit a Ella sont une meilleure version du meme itineraire.\n\nLa route grimpe a travers les districts de the, et le premier arret est une fabrique de the en activite a Halpewaththa. Le the de Ceylan est encore traite comme les Britanniques l’ont etabli au dix-neuvieme siecle apres que la maladie du cafe a detruit la culture precedente : greniers de fletrissage, roulage, oxydation, torrefaction et tri, tout dans un seul batiment. Le voir en fonctionnement, avec l’odeur de la feuille en fletrissage, explique plus sur l’economie du pays que n’importe quel musee.\n\nLe tronçon en train est court mais c’est la raison pour laquelle beaucoup de gens viennent. La ligne de Kandy a Badulla est l’une des grandes lignes de montagne, taillee a travers les pentes de the et la foret de nuages, et meme vingt-cinq minutes avec les portes ouvertes offrent la vue. Les trains ici sont regulierement en retard, et l’operateur peut ajuster quel tronçon vous parcourez selon l’horaire du jour.\n\nA Ella, la marche jusqu’au Little Adam’s Peak prend environ une heure aller-retour, et la crete du sommet surplombe directement le Gap d’Ella. Le pont des Neuf Arches a Demodara, a proximite, est un viaduc de pierre construit pendant la Premiere Guerre mondiale sans acier, et la marche le long de la voie pour y arriver traverse the et foret.\n\nIl y a un arret au Ravana Pool Club pour une boisson avec vue, et une degustation de the a Ella avant le trajet de retour. Attendez-vous a rentrer tard. La prise en charge couvre les villes cotieres de Negombo a Galle, confirmez donc votre position a la reservation : le temps de trajet varie beaucoup entre elles.",
+  "highlights": [
+   "Une fabrique de the de Ceylan en activite a Halpewaththa, vue en pleine production",
+   "Un tronçon sur la ligne de montagne de Kandy a Badulla, l’un des grands trajets en train d’Asie",
+   "Le pont des Neuf Arches a Demodara, un viaduc de pierre construit sans acier",
+   "La marche d’une heure jusqu’au Little Adam’s Peak, surplombant le Gap d’Ella",
+   "Prise en charge a l’hotel depuis Colombo, Negombo ou la cote sud-ouest, tout le transport inclus"
+  ],
+  "included": [
+   "Voiture climatisee avec chauffeur et carburant",
+   "billet de train pour le tronçon panoramique",
+   "prise en charge et depose a l’hotel depuis les villes listees",
+   "visite de la fabrique de the et degustation",
+   "eau en bouteille"
+  ],
+  "notIncluded": [
+   "Repas et boissons, y compris au Ravana Pool Club",
+   "frais d’entree si factures",
+   "pourboires",
+   "achats personnels"
+  ]
+ },
+ "colombo-landmarks-tuk-tuk-private-tour-entry-tickets": {
+  "title": "Monuments de Colombo en tuk-tuk : tour prive avec billets d’entree",
+  "metaTitle": "Monuments de Colombo en tuk-tuk",
+  "metaDescription": "Un tour prive de quatre heures en tuk-tuk a plus de dix-huit monuments de Colombo avec un guide local, billets d’entree inclus, depuis l’hotel ou le port.",
+  "shortDescription": "Un tour prive de quatre heures en tuk-tuk a plus de dix-huit monuments de Colombo avec un guide local, billets d’entree inclus, depuis l’hotel ou le terminal de croisiere.",
+  "fullDescription": "Quatre heures et un tuk-tuk couvrent une quantite surprenante de Colombo, car un tricycle va ou les voitures font la queue et s’arrete ou les autocars ne peuvent pas. Ce tour prive enchaine plus de dix-huit monuments a travers Fort, Pettah, Slave Island et Cinnamon Gardens, avec les billets d’entree deja couverts.\n\nLe tour s’ouvre autour du lac Beira a Gangaramaya, un monastere qui collectionne les objets : reliques, voitures anciennes, cadeaux de pelerins, et une architecture emprunte simultanement aux traditions sri-lankaise, thailandaise, indienne et chinoise. De la, vous traversez le parc Viharamahadevi, l’hotel de ville a coupole et la Place de l’Independance, ou le hall commemoratif de 1948 marque la fin de la domination britannique et reprend le hall d’audience des rois kandyiens.\n\nGalle Face Green vient ensuite, la longue promenade coloniale le long de la mer, et derriere elle l’ancien batiment du parlement. Puis le tour se tourne vers la ville active : le marche flottant de Pettah sur le canal, les rues de marche couvertes ou chaque ruelle commerce un seul produit, le clocher de l’epoque hollandaise, et la mosquee rayee Jami Ul-Alfar de 1908 devenue l’embleme du quartier.\n\nFort est le dernier quartier, portant les couches portugaise, hollandaise et britannique du port en un kilometre carre : l’ancien phare et la tour de l’horloge, le musee maritime dans un batiment hollandais, les maisons bancaires coloniales et le temple hindou Sri Kailawasanatan. La Tour du Lotus est le contrepoint moderne, et un arret chez un marchand de the permet de deguster le the de Ceylan.\n\nComme le tour est prive, le rythme est le votre. Les passagers de croisiere en constituent une grande part, l’operateur travaille donc selon les horaires des navires et vous ramenera au terminal avec de la marge ; indiquez votre heure limite a bord a la reservation. La prise en charge a l’hotel n’importe ou a Colombo est incluse.",
+  "highlights": [
+   "Plus de dix-huit monuments de Colombo en quatre heures, billets d’entree inclus",
+   "Temple Gangaramaya, Place de l’Independance et Galle Face Green",
+   "Marche flottant de Pettah, rues de marche couvertes et la Mosquee Rouge de 1908",
+   "Fort de Colombo : ancien phare, tour de l’horloge et musee maritime",
+   "Guide prive et tuk-tuk, avec prise en charge et depose a l’hotel ou au terminal de croisiere"
+  ],
+  "included": [
+   "Tuk-tuk prive avec chauffeur",
+   "guide anglophone",
+   "billets d’entree pour les sites de l’itineraire",
+   "prise en charge et depose a l’hotel ou au terminal de croisiere",
+   "eau en bouteille"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "achats de the ou souvenirs",
+   "pourboires",
+   "tout ce qui n’est pas sur l’itineraire standard"
+  ]
+ },
+ "colombo-street-food-tuk-tuk-guided-tasting-tour": {
+  "title": "Street food de Colombo en tuk-tuk : tour guide de degustation",
+  "metaTitle": "Street food de Colombo",
+  "metaDescription": "Trois heures a deguster Colombo en tuk-tuk, des hoppers et kottu roti au crabe avec pittu, toutes les degustations incluses.",
+  "shortDescription": "Trois heures a deguster Colombo en tuk-tuk, des hoppers et kottu roti au crabe avec pittu, avec toutes les degustations incluses.",
+  "fullDescription": "La cuisine sri-lankaise n’est pas la cuisine indienne, et Colombo est l’endroit le plus rapide pour apprendre la difference. L’ile cuisine avec de la noix de coco dans presque tout, utilise de la poudre de curry grillee plutot que crue, s’appuie sur le poisson des Maldives, le pandan et la feuille de curry, et traite le riz comme une plateforme pour huit ou neuf petits plats. Trois heures et un tuk-tuk vous font traverser plus de tout cela qu’une semaine de petits-dejeuners d’hotel.\n\nLe tour fonctionne par degustations plutot qu’un seul repas assis, ce qui correspond a la facon dont la ville mange reellement. Les hoppers sont a essayer en premier : une pate de farine de riz fermentee tournee dans un bol pour former une crepe en forme de bol, croustillante sur le bord et moelleuse au milieu, generalement avec un oeuf casse dedans et une cuillere de lunu miris, le sambol d’oignon cru et de piment. Le kottu roti est le bruyant, du godamba roti hache sur une plaque chaude avec des legumes, de l’oeuf ou de la viande, et vous entendez les lames metalliques depuis la rue.\n\nLe crabe avec pittu surprend les gens. Le pittu est de la farine de riz vapeur et de la noix de coco pressees en cylindre, le partenaire traditionnel du crabe de lagon qui a rendu les fruits de mer sri-lankais celebres a l’etranger. En chemin, il y a des short eats, les collations vendues dans des vitrines dans chaque salon de the, et du watalappan, un flan de jaggery et de noix de coco de la communaute malaise.\n\nGalle Face Green est l’un des arrets. La promenade front de mer date de l’epoque coloniale, et vers le soir les chariots apparaissent le long d’elle vendant de l’isso wade, des beignets de lentilles frits garnis de crevettes entieres, manges debout avec la mer devant vous. C’est de la street food au sens le plus litteral.\n\nVotre guide explique ce qu’est chaque plat et d’ou il vient, ce qui importe dans une cuisine faconnee par les influences cingalaise, tamoule, musulmane, malaise, portugaise et hollandaise. Toute la nourriture de l’itineraire est couverte, et la prise en charge et la depose sont incluses n’importe ou a Colombo. Venez avec de l’appetit.",
+  "highlights": [
+   "Toutes les degustations incluses, des hoppers et kottu roti au crabe avec pittu",
+   "Deplacement en tuk-tuk prive entre les arrets, avec prise en charge n’importe ou a Colombo",
+   "Stands de street food sur Galle Face Green, incluant les beignets de crevettes isso wade",
+   "Short eats et desserts sri-lankais expliques par un guide local anglophone",
+   "Un itineraire a travers les quartiers ou la nourriture est reellement mangee, pas un buffet d’hotel"
+  ],
+  "included": [
+   "Toutes les degustations de l’itineraire",
+   "tuk-tuk prive avec chauffeur",
+   "guide culinaire anglophone",
+   "prise en charge et depose a travers Colombo",
+   "eau en bouteille"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisees",
+   "plats supplementaires commandes hors des degustations prevues",
+   "pourboires",
+   "souvenirs"
+  ]
+ },
+ "colombo-tuk-tuk-private-half-day-tour-local-meal": {
+  "title": "Colombo en tuk-tuk : tour prive d’une demi-journee avec repas local",
+  "metaTitle": "Colombo en tuk-tuk, demi-journee",
+  "metaDescription": "Quatre heures en tuk-tuk prive avec un guide local, couvrant temples, marches et le quartier colonial, avec un dejeuner ou diner sri-lankais en chemin.",
+  "shortDescription": "Quatre heures en tuk-tuk prive avec un guide local, couvrant temples, marches et le quartier colonial, avec un dejeuner ou diner sri-lankais en chemin.",
+  "fullDescription": "Le tuk-tuk est le bon vehicule pour Colombo. Il passe dans les ruelles de Pettah ou un van ne peut pas aller, il s’arrete ou vous le pointez, et dans un tricycle ouvert vous avez le marche aux poissons, le frangipanier et les gaz d’echappement, qui sont la plus grande partie du caractere de la ville. Ce tour prive de quatre heures couvre les principaux sites a un rythme qui laisse de la place pour s’arreter.\n\nL’itineraire s’organise autour de la geographie de la ville plutot qu’une liste fixe. Vous voyez la Tour du Lotus, le monastere de Gangaramaya avec son architecture mixte sri-lankaise, thailandaise, indienne et chinoise, le parc Viharamahadevi et la Place de l’Independance dans l’ancien quartier de Cinnamon Gardens, et l’ancien batiment du parlement sur le front de mer. Galle Face Green, la promenade coloniale, est programmee pour la fin de l’apres-midi quand les vendeurs de cerfs-volants et les chariots d’isso wade apparaissent.\n\nLa seconde moitie est la ville commerciale plus ancienne. Les rues de marche de Pettah se specialisent chacune dans un commerce, et le marche aux legumes, le clocher hollandais de Kayman’s Gate et la mosquee rayee Jami Ul-Alfar de 1908 se trouvent a quelques pates de maisons. Fort suit : l’ancienne tour de l’horloge du phare, le musee maritime dans un batiment de l’epoque hollandaise, et un marchand de the ou vous pouvez deguster le the de Ceylan.\n\nLe repas est la partie qui fait que le tour merite l’heure supplementaire. Selon que vous prenez le creneau dejeuner ou diner, votre guide vous emmene dans un endroit local plutot qu’un restaurant d’hotel, et vous mangez du riz et curry, du kottu roti ou des hoppers avec ce que la cuisine fait de mieux ce jour-la. Dites a l’avance si vous etes vegetarien ou avez besoin que le niveau d’epices soit baisse.\n\nComme c’est prive, le tour est le votre a rediriger. La prise en charge et la depose sont incluses n’importe ou dans les districts postaux de Colombo, et si vous voulez sauter un arret et passer vingt minutes supplementaires au marche, c’est une conversation, pas un probleme.",
+  "highlights": [
+   "Un tuk-tuk prive et un guide local pendant quatre heures, avec prise en charge n’importe ou a Colombo",
+   "Temple Gangaramaya, Place de l’Independance et Tour du Lotus",
+   "Les rues de marche a commerce unique de Pettah, le clocher hollandais et la Mosquee Rouge de 1908",
+   "Galle Face Green a la fin de l’apres-midi, quand les chariots de nourriture apparaissent",
+   "Un dejeuner ou diner sri-lankais dans un restaurant local, pas un buffet d’hotel"
+  ],
+  "included": [
+   "Tuk-tuk prive avec chauffeur-guide pendant quatre heures",
+   "guide anglophone",
+   "prise en charge et depose a l’hotel ou a l’adresse a travers Colombo",
+   "un dejeuner ou diner sri-lankais",
+   "eau en bouteille"
+  ],
+  "notIncluded": [
+   "Frais d’entree et donations aux temples",
+   "nourriture et boissons supplementaires",
+   "achats de the",
+   "pourboires"
+  ]
+ },
+ "sigiriya-polonnaruwa-long-guided-day-trip-colombo": {
+  "title": "Sigiriya et Polonnaruwa : longue excursion guidee d’une journee depuis Colombo",
+  "metaTitle": "Sigiriya et Polonnaruwa",
+  "metaDescription": "Une tres longue journee depuis Colombo couvrant deux sites classes au patrimoine mondial de l’UNESCO, Sigiriya et Polonnaruwa, dejeuner et transferts inclus.",
+  "shortDescription": "Une seule tres longue journee depuis Colombo couvrant deux sites classes au patrimoine mondial de l’UNESCO, la citadelle rocheuse de Sigiriya et la capitale royale en ruines de Polonnaruwa.",
+  "fullDescription": "Soyez clair sur ce que c’est avant de reserver : une journee de quinze heures, dont environ sept en voiture. Sigiriya et Polonnaruwa se trouvent dans la zone seche au coeur de l’ile, a quatre a cinq heures de la cote, et faire les deux depuis Colombo d’une seule traite est une entreprise serieuse. Cela fonctionne, et cela economise une nuit d’hotel, mais ce n’est pas une journee de detente.\n\nLa prise en charge est tres matinale, generalement vers trois heures du matin, pour que vous atteigniez le triangle culturel avant que la chaleur ne monte. Vous vous arretez pour le petit dejeuner en chemin. La montee a Sigiriya se fait mieux tot : le rocher est expose, les escaliers metalliques retiennent la chaleur, et vers le milieu de la matinee les files d’attente sur les sections etroites ralentissent tout.\n\nSigiriya est une citadelle du cinquieme siecle construite sur un piton de granit de 200 metres, attribuee au roi Kashyapa. Les jardins d’eau a la base sont parmi les plus anciens jardins amenages survivants ou que ce soit, le mur des miroirs porte encore des graffitis laisses il y a plus de mille ans, et une poche abritee a mi-hauteur conserve les fresques des femmes des nuages. Le sommet est l’empreinte du palais, avec la plaine visible dans toutes les directions.\n\nPolonnaruwa suit dans l’apres-midi. Capitale de l’ile aux onzieme et douzieme siecles apres la chute d’Anuradhapura, elle est bien plus compacte que sa predecesseure : le palais royal, le quadrilatere de batiments religieux, la maison d’images de Lankatilaka, et surtout Gal Vihara, quatre figures colossales de Bouddha taillees dans une seule face de granit.\n\nLe dejeuner est inclus dans un restaurant local, et le trajet retour dure environ quatre heures, attendez-vous donc a atteindre votre hotel tard. Si vous avez la flexibilite, le meme itineraire reparti sur deux jours avec une nuit a Sigiriya ou Habarana est un meilleur voyage ; cette version existe pour ceux qui n’ont pas cette nuit.",
+  "highlights": [
+   "Deux sites classes au patrimoine mondial de l’UNESCO, Sigiriya et Polonnaruwa, en une journee",
+   "La montee jusqu’au palais du sommet du cinquieme siecle a Sigiriya, incluant les fresques et le mur des miroirs",
+   "Gal Vihara a Polonnaruwa, quatre figures colossales de Bouddha taillees dans une seule face de granit",
+   "Dejeuner sri-lankais et un guide qui couvre bien les deux sites",
+   "Prise en charge et depose a l’hotel a Colombo ou Negombo, avec une voiture climatisee"
+  ],
+  "included": [
+   "Voiture climatisee avec carburant et chauffeur",
+   "guide anglophone",
+   "dejeuner sri-lankais",
+   "prise en charge et depose a l’hotel a Colombo ou Negombo",
+   "eau en bouteille"
+  ],
+  "notIncluded": [
+   "Billets d’entree des sites de Sigiriya et Polonnaruwa",
+   "petit dejeuner",
+   "boissons",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "colombo-after-dark-guided-nightlife-tour-tuk-tuk": {
+  "title": "Colombo apres la tombee de la nuit : tour nocturne guide en tuk-tuk",
+  "metaTitle": "Colombo apres la nuit",
+  "metaDescription": "Une soiree a Colombo avec un guide et un chauffeur de tuk-tuk, commencant a l’ancien hopital hollandais de Fort et circulant entre bars et stands de street food.",
+  "shortDescription": "Une soiree a Colombo avec un guide et un chauffeur de tuk-tuk, commencant a l’ancien hopital hollandais de Fort et circulant entre les bars de la ville et les stands de nourriture nocturnes.",
+  "fullDescription": "Colombo fait la plupart de sa vie sociale apres la tombee de la nuit, en partie parce que la chaleur du jour decourage toute autre chose. La vie nocturne est cependant dispersee, repartie entre Fort, Colombo 3 et Colombo 7, et se deplacer seul entre les lieux signifie negocier les tarifs dans l’obscurite avec des chauffeurs qui ne savent pas ou vous voulez aller. Ce tour resout cela en vous associant a un guide et un tuk-tuk pour la soiree.\n\nLe point de rencontre est l’ancien hopital hollandais de Fort, qui est le bon endroit pour commencer. Le batiment est le plus ancien du quartier, amenage autour de cours par les Hollandais au dix-septieme siecle, et sa restauration en a fait une cour de restaurants et de bars qui se remplit tot. Ministry of Crab, le restaurant qui a rendu le crabe de lagon sri-lankais mondialement connu, se trouve dans le meme complexe.\n\nDe la, vous vous deplacez en tuk-tuk. La soiree est faiblement structuree plutot que fixe : votre guide lit ce que vous voulez, et l’itineraire entre bars, toits-terrasses et nourriture nocturne change selon le jour de la semaine, car Colombo est bien plus calme en debut de semaine et plus animee a partir de jeudi. Dites a votre guide au depart si vous voulez des cocktails et des toits-terrasses, ou de la biere et de la street food, et l’itineraire suit cela.\n\nLe tuk-tuk fait partie de l’experience plutot que d’etre juste un transport. Rouler a travers Fort la nuit, passant devant les portes du port et la Tour du Lotus illuminee, avec l’air de la mer entrant par les cotes ouverts, est une ville differente de celle que vous avez vue a midi. Les distances sont courtes et les trajets entre les lieux durent generalement cinq a quinze minutes.\n\nUne note pratique : l’alcool n’est pas servi les jours de pleine lune de Poya n’importe ou a Sri Lanka, et de nombreux bars ferment entierement. Si votre date tombe un jour de Poya, la soiree devient plutot un tour de nourriture et de lumieres de la ville. Votre guide confirmera cela a la reservation.",
+  "highlights": [
+   "Commence a la cour de l’ancien hopital hollandais a Fort, siege de Ministry of Crab",
+   "Un guide prive et un tuk-tuk pour la soiree, donc pas de negociation de tarif entre les lieux",
+   "Itineraire adapte a ce que vous voulez : toits-terrasses et cocktails, ou biere et street food",
+   "Fort de Colombo, la zone portuaire et la Tour du Lotus illuminee vus depuis un tuk-tuk ouvert",
+   "Conseils locaux sur les endroits reellement animes selon le jour de votre soiree"
+  ],
+  "included": [
+   "Guide anglophone prive pour la soiree",
+   "tuk-tuk prive avec chauffeur entre les lieux",
+   "depose dans le centre de Colombo"
+  ],
+  "notIncluded": [
+   "Nourriture, boissons et frais d’entree ou de couvert des lieux",
+   "pourboires",
+   "prise en charge a l’hotel hors du centre de Colombo"
+  ]
+ },
+ "colombo-foot-private-guided-walking-tour": {
+  "title": "Colombo a pied : tour prive guide a pied",
+  "metaTitle": "Colombo a pied",
+  "metaDescription": "Une marche privee de trois heures avec un guide de Colombo, de la Place de l’Independance a travers Gangaramaya et Pettah jusqu’au front de mer de Galle Face Green.",
+  "shortDescription": "Une marche privee de trois heures avec un guide de Colombo, de la Place de l’Independance a travers Gangaramaya et Pettah jusqu’au front de mer de Galle Face Green.",
+  "fullDescription": "Marcher est la facon honnete de voir Colombo, et aussi la moins commune. La plupart des visiteurs sont conduits entre les monuments et ne voient jamais le tissu connecteur : les arcades de boutiques, les noms de rues hollandais, les kiosques a the, le cricket joue sur n’importe quelle surface plate. Ce tour prive place un guide local a vos cotes pendant trois heures, avec de courts transferts seulement ou la distance rend la marche inutile.\n\nVous commencez a la Place de l’Independance a Colombo 7. Le hall commemoratif fut construit pour marquer la fin de la domination britannique en 1948, et sa forme emprunte deliberement au hall d’audience des derniers rois kandyiens, ce qui est une declaration politique dans la pierre qui merite d’etre expliquee. De la, l’itineraire passe par le parc Viharamahadevi et l’hotel de ville a coupole avant de se tourner vers le lac Beira.\n\nLe temple Gangaramaya est l’arret d’ancrage : un monastere, une ecole et un musee d’objets donnes, melangeant des elements sri-lankais, thailandais, indiens et chinois d’une facon qu’aucune tradition unique n’approuverait. A proximite, le marche flottant de Pettah borde le canal, et au-dela commence la ville commerciale plus ancienne.\n\nA Pettah, votre guide vous fait passer devant la mosquee Jami Ul-Alfar, le monument rayé rouge et blanc acheve en 1908 et toujours le batiment le plus photographie du quartier, et a travers les rues de marche ou chaque ruelle commerce un seul produit. Fort suit, avec l’ancienne tour de l’horloge du phare qui guidait jadis les navires avant que les batiments autour d’elle ne deviennent trop hauts.\n\nLa marche se termine sur Galle Face Green, la longue promenade de l’epoque coloniale amenagee le long de la mer. En fin d’apres-midi, les vendeurs de cerfs-volants et les chariots d’isso wade apparaissent, vendant des beignets de crevettes frits a quiconque attend le coucher du soleil. Etant prive, le tour s’adapte a vos interets, dites donc tot a votre guide si vous voulez plus d’histoire, plus de nourriture, ou plus de temps a un endroit.",
+  "highlights": [
+   "Un guide prive pendant trois heures, avec l’itineraire ajuste a vos interets",
+   "La Place de l’Independance et le quartier civique que les Britanniques ont amenage en Cinnamon Gardens",
+   "Le temple Gangaramaya et le marche flottant de Pettah au bord du canal",
+   "La mosquee Jami Ul-Alfar de 1908 et les ruelles commercantes de Pettah a pied",
+   "Se termine sur Galle Face Green, la promenade front de mer, a temps pour la foule du soir"
+  ],
+  "included": [
+   "Guide local anglophone prive pendant trois heures",
+   "courts transferts locaux entre les quartiers si necessaire",
+   "eau en bouteille"
+  ],
+  "notIncluded": [
+   "Prise en charge et depose a l’hotel",
+   "frais d’entree et donations aux temples",
+   "nourriture et boissons",
+   "pourboires"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Séance de flyboard à Pattaya",
   "fullDescription": "Cette expérience de 30 minutes se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend séance de flyboard, accompagnement d'un instructeur, équipement de sécurité et douches. Il ne comprend pas photos et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
