@@ -99979,6 +99979,221 @@ export const FR_TOURS: Record<string, TourT> = {
    "pourboires"
   ]
  },
+ "sigiriya-dambulla-and-polonnaruwa-long-cultural-triangle-day-from-kandy": {
+  "title": "Sigiriya, Dambulla et Polonnaruwa : longue journee du triangle culturel depuis Kandy",
+  "metaTitle": "Sigiriya, Dambulla et Polonnaruwa",
+  "metaDescription": "Les trois sites du triangle culturel en une longue journee depuis Kandy: la forteresse rocheuse de Sigiriya, les grottes de Dambulla et Polonnaruwa.",
+  "shortDescription": "Les trois sites du triangle culturel en une longue journee depuis Kandy: la forteresse rocheuse de Sigiriya, les grottes de Dambulla et la capitale en ruines de Polonnaruwa, incluant les bouddhas de Gal Vihara.",
+  "fullDescription": "Trois sites de l'UNESCO en une journee est un horaire ambitieux et ce voyage ne pretend pas le contraire, ce sont douze heures porte a porte et cela commence avant l'aube. Fait dans cet esprit, cela fonctionne, car les trois sites sont vraiment differents les uns des autres et aucun d'eux ne necessite une journee complete a lui seul.\n\nSigiriya vient d'abord, deliberement: 1 200 marches jusqu'a un piton de granit de 200 metres vers une citadelle royale du cinquieme siecle, passant les fresques du mur miroir. La grimper a 7h plutot qu'a 11h fait toute la difference entre une bonne heure et une mauvaise, et c'est la raison du depart matinal.\n\nDambulla suit, cinq grottes taillees sous un surplomb rocheux et peintes du sol au plafond, abritant environ 150 images de Bouddha et certaines des plus anciennes peintures murales survivantes du pays. C'est frais et sombre et cela prend environ une heure.\n\nPolonnaruwa cloture la journee. Elle fut la capitale de l'ile aux onzieme et douzieme siecles et est bien mieux preservee qu'Anuradhapura, le Palais Royal, le Vatadage, la maison d'images du Lankatilaka, et a la fin le Gal Vihara, quatre bouddhas colossaux tailles dans une seule paroi de granit. Ce dernier est, de loin, la plus belle chose du triangle culturel.\n\nSigiriya est une colonne rocheuse de 200 metres qui s'eleve au-dessus de la plaine de la zone seche, sur laquelle le roi Kasyapa a construit son palais au cinquieme siecle apres avoir usurpe le trone, et c'est un site de l'UNESCO depuis 1982. L'ascension compte environ 1 200 marches sur des escaliers et passerelles en fer, passant par le mur miroir avec ses graffitis millenaires et la galerie abritee de fresques, jusqu'aux pattes du lion qui donnent son nom au rocher et aux fondations du palais au sommet. Cela prend une heure et demie aller-retour pour la plupart des gens et il vaut mieux commencer a 7h00, avant la chaleur et les autocars; le ticket pour les visiteurs etrangers est l'un des plus chers du pays, et Pidurangala, le rocher voisin, offre la vue classique sur Sigiriya pour une fraction du prix.",
+  "highlights": [
+   "Trois sites du patrimoine mondial de l’UNESCO en une seule journee depuis Kandy",
+   "Sigiriya grimpe tot, avant la chaleur et les foules",
+   "Les temples rupestres de Dambulla, 150 images de Bouddha sous un surplomb rocheux",
+   "Le Palais Royal, le Vatadage et le Lankatilaka de Polonnaruwa",
+   "Le Gal Vihara: quatre bouddhas colossaux tailles dans une seule paroi de granit"
+  ],
+  "included": [
+   "Vehicule prive climatise avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel a Kandy",
+   "tous les trajets entre les trois sites",
+   "carburant et stationnement"
+  ],
+  "notIncluded": [
+   "Frais d’entree a Sigiriya, Dambulla et Polonnaruwa, substantiels et payes a chaque entree",
+   "repas et boissons",
+   "un guide de site le cas echeant",
+   "pourboires"
+  ]
+ },
+ "sigiriya-and-pidurangala-rock-day-trip-from-kandy-by-tuk-tuk": {
+  "title": "Excursion aux rochers de Sigiriya et Pidurangala depuis Kandy en tuk-tuk",
+  "metaTitle": "Sigiriya et Pidurangala en tuk-tuk",
+  "metaDescription": "Le triangle culturel depuis Kandy en tuk-tuk: le temple hindou de Matale et un jardin d'epices a la montee, puis Sigiriya ou Pidurangala, et les grottes de Dambulla.",
+  "shortDescription": "Le triangle culturel depuis Kandy en tuk-tuk: le temple hindou de Matale et un jardin d'epices a la montee, puis le rocher de Sigiriya ou l'ascension de Pidurangala en face, et les temples rupestres de Dambulla.",
+  "fullDescription": "Sigiriya se trouve a 90 kilometres au nord de Kandy et la plupart des gens le font en van. Le faire en tuk-tuk prend plus de temps et c'est beaucoup plus interessant: la route traverse Matale et le pays des epices, et au rythme du tuk-tuk vous le voyez vraiment.\n\nLe premier arret est le temple Sri Muthumariamman a Matale, un temple hindou avec un gopuram couvert de figures peintes, inhabituel dans un pays ou les sites bouddhistes attirent toute l'attention. Le jardin d'epices qui suit est une parcelle en activite plutot qu'une boutique, cannelle, cardamome, poivre et vanille poussant ou vous pouvez voir la difference entre eux.\n\nPuis les rochers. Sigiriya est la citadelle du cinquieme siecle au sommet d'un piton de granit de 200 metres: 1 200 marches passant les fresques et le mur miroir jusqu'a une empreinte de palais royal au sommet. Pidurangala, directement en face, est l'ascension moins chere et plus rude, se terminant par une escalade sur des rochers, et sa vue est celle de Sigiriya elle-meme. Celle que vous faites se decide avec votre chauffeur, et faire les deux en une journee est possible mais difficile.\n\nDambulla, sur le chemin du retour, est cinq grottes taillees sous un surplomb et peintes du sol au plafond, abritant environ 150 images de Bouddha. C'est frais et sombre, ce qui en milieu d'apres-midi est exactement ce que vous voulez.",
+  "highlights": [
+   "Tout le parcours du triangle culturel fait en tuk-tuk plutot qu’en van ferme",
+   "Le temple hindou Sri Muthumariamman a Matale et son gopuram peint",
+   "Un jardin d’epices en activite ou cannelle, cardamome et poivre poussent ensemble",
+   "Les 1 200 marches et fresques de Sigiriya, ou l’escalade de Pidurangala en face",
+   "Les temples rupestres de Dambulla, cinq grottes peintes et environ 150 images de Bouddha"
+  ],
+  "included": [
+   "Tuk-tuk prive avec chauffeur-guide anglophone depuis Kandy",
+   "tous les trajets",
+   "les arrets au jardin d’epices et au temple",
+   "prise en charge et depose a l’hotel"
+  ],
+  "notIncluded": [
+   "Frais d’entree pour Sigiriya, Pidurangala et Dambulla, payes a chaque entree",
+   "repas et boissons",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "heel-oya-village-day-from-kandy-with-a-home-cooked-sri-lankan-lunch": {
+  "title": "Journee au village de Heel Oya depuis Kandy avec dejeuner sri-lankais fait maison",
+  "metaTitle": "Village de Heel Oya depuis Kandy",
+  "metaDescription": "Une journee a Heel Oya, un village agricole a l'est de Kandy: rizieres, hotes locaux, cuisine participative et dejeuner riz et curry.",
+  "shortDescription": "Une journee a Heel Oya, un village agricole a l'est de Kandy: marcher dans les rizieres avec des hotes locaux, participer a la cuisine, et manger un dejeuner riz et curry complet dans une maison du village.",
+  "fullDescription": "Les circuits de village au Sri Lanka vont de vraiment utiles a entierement mis en scene, et la difference depend generalement du fait que le village existait deja. Heel Oya est une communaute agricole active dans les collines a l'est de Kandy, et la journee est construite autour de ce que les foyers y font vraiment plutot qu'une representation de cela.\n\nVous marchez a travers les rizieres avec un hote local, qui explique le systeme d'irrigation, le reservoir, les canaux, l'ordre dans lequel les champs recoivent l'eau, ce qui est une piece d'ingenierie que le Sri Lanka fait fonctionner depuis deux mille ans. Selon la saison, il peut y avoir de la plantation ou du battage en cours, et vous pouvez y participer si vous le souhaitez.\n\nLa cuisine est le centre de la journee. Le riz et curry n'est pas un plat mais six ou sept, cuisines separement et manges ensemble, et vous participez a leur preparation: raper la noix de coco, moudre les epices sur une pierre, cuisiner sur un feu de bois dans un pot en argile. Puis vous le mangez, assis avec la famille qui vous a aide a le preparer.\n\nApres cela, il y a generalement une promenade en charrette a boeufs ou une courte traversee en bateau sur le reservoir, les deux etant la facon dont les gens ici se deplacent reellement plutot que des attractions construites pour les visiteurs.\n\nKandy fut la derniere capitale des rois cinghalais, resistant aux Portugais et aux Hollandais jusqu'a ce que les Britanniques la prennent en 1815, et le Temple de la Sainte Dent Relique sur le lac explique son importance: la relique, consideree comme une dent du Bouddha, est l'objet le plus sacre de l'ile et sa garde legitimait autrefois la royaute. La chambre de la relique ouvre pour le puja trois fois par jour, vers 5h30, 9h30 et 18h30, quand les tambours commencent et que la file avance devant le reliquaire. La tenue couvre epaules et genoux, les chaussures se retirent a l'entree, et l'Esala Perahera en juillet ou aout fait parader le reliquaire sur un elephant a travers la ville pendant dix nuits.",
+  "highlights": [
+   "Un village agricole actif plutot qu’un site de demonstration",
+   "Le systeme d’irrigation par reservoir et canaux, vieux de deux mille ans, explique par un fermier",
+   "Cuisine pratique, raper la noix de coco, moudre les epices sur pierre, cuisiner sur feu de bois",
+   "Un dejeuner complet de riz et curry de six ou sept plats, mange avec vos hotes",
+   "Une promenade en charrette a boeufs ou une traversee du reservoir, selon le jour"
+  ],
+  "included": [
+   "Prise en charge et depose a l’hotel a Kandy",
+   "la marche guidee au village",
+   "la session de cuisine",
+   "un dejeuner riz et curry fait maison",
+   "la charrette a boeufs ou la traversee en bateau",
+   "un guide anglophone"
+  ],
+  "notIncluded": [
+   "Boissons au-dela de celles servies avec le dejeuner",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "kandy-to-nuwara-eliya-guided-transfer-with-tea-factory-and-ramboda-falls": {
+  "title": "Transfert guide de Kandy a Nuwara Eliya avec fabrique de the et cascades de Ramboda",
+  "metaTitle": "Kandy a Nuwara Eliya avec fabrique de the",
+  "metaDescription": "Un transfert guide aller simple de Kandy vers le pays du the, avec les jardins de Peradeniya, un jardin d'epices, les cascades de Ramboda et une fabrique de the.",
+  "shortDescription": "Un transfert guide aller simple de Kandy vers le pays du the, avec arrets aux jardins botaniques de Peradeniya, un jardin d'epices, les cascades de Ramboda et une fabrique de the en activite, depose a Nuwara Eliya, Ella ou retour a Kandy.",
+  "fullDescription": "La route de Kandy a Nuwara Eliya grimpe environ 1 400 metres sur 80 kilometres, et c'est l'un des meilleurs trajets du Sri Lanka. La traiter comme un transfert avec arrets plutot qu'un trajet point a point transforme trois heures de virages en la journee elle-meme.\n\nVous quittez Kandy le matin et commencez aux jardins botaniques royaux de Peradeniya, amenages dans une boucle de la riviere Mahaweli et abritant une allee de palmiers, une serre a orchidees et un figuier de Java dont la canopee couvre la plus grande partie d'un gazon. De la, la route commence a grimper a travers Gampola et Pussellawa, avec un arret jardin d'epices ou la cannelle, la cardamome et le poivre sont cultives dans la meme parcelle et la difference entre eux est plus facile a voir qu'a lire.\n\nLes cascades de Ramboda suivent, une chute de 100 metres visible depuis la route et accessible a pied en quelques minutes. Au-dessus, le paysage change sur environ un kilometre de la foret au the, et les plantations prennent entierement le relais. Une visite de fabrique en activite suit la feuille des bacs de fletrissage a travers le roulage et l'oxydation jusqu'a la table de tri, et se termine par une tasse de la qualite qui ne quitte jamais le pays.\n\nVous arrivez a Nuwara Eliya dans l'apres-midi avec le temps de voir la ville, que les Britanniques ont construite comme station de montagne et qui conserve encore l'hippodrome, le bureau de poste et les nuits froides pour le prouver. La depose se fait a Nuwara Eliya, en continuant vers Ella, ou retour a Kandy si vous ne continuez pas.",
+  "highlights": [
+   "Les jardins botaniques royaux de Peradeniya, avec leur allee de palmiers et leur figuier de Java",
+   "Un jardin d’epices ou cannelle, cardamome et poivre poussent cote a cote",
+   "Les cascades de Ramboda, une chute de 100 metres a courte distance de la route",
+   "Une fabrique de the en activite, du bac de fletrissage a la table de tri",
+   "Nuwara Eliya coloniale a 1 900 metres, avec depose la, a Ella ou retour a Kandy"
+  ],
+  "included": [
+   "Voiture climatisee avec chauffeur-guide anglophone",
+   "prise en charge a l’hotel a Kandy",
+   "tous les arrets sur la route",
+   "depose a Nuwara Eliya, Ella ou Kandy",
+   "carburant et stationnement"
+  ],
+  "notIncluded": [
+   "Frais d’entree aux jardins botaniques et au jardin d’epices",
+   "repas et boissons",
+   "achats de the a la fabrique",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "private-udawalawe-elephant-safari-day-trip-transit-home-visit": {
+  "title": "Excursion privee de safari aux elephants a Udawalawe avec visite du refuge pour elephanteaux",
+  "metaTitle": "Safari prive a Udawalawe",
+  "metaDescription": "Une excursion privee a Udawalawe: safari 4x4 de quatre heures, dejeuner et nourrissage au refuge pour elephanteaux.",
+  "shortDescription": "Une excursion privee d'une journee a Udawalawe pour un safari 4x4 de quatre heures dans le parc a elephants le plus fiable du Sri Lanka, suivi d'un dejeuner et de la session de nourrissage au refuge pour elephanteaux.",
+  "fullDescription": "Si vous voulez voir des elephants sauvages au Sri Lanka et n'avez qu'une seule journee, Udawalawe est le parc a choisir. Il a ete cree dans les annees 1970 autour d'un reservoir d'irrigation, et l'inondation a defriche une grande partie de la foret en prairie ouverte. Les observations sont inhabituellement fiables, plusieurs centaines d'elephants vivent ici de facon permanente et le terrain ne leur laisse nulle part ou se cacher.\n\nLe safari dure environ quatre heures dans un 4x4 ouvert avec un chauffeur qui connait les pistes. Aux cotes des elephants, il y a des buffles d'eau, des cerfs tachetes, des chacals, des crocodiles dans le reservoir et une liste d'oiseaux vraiment bonne: serpentaires, gueprieres, calaos et aigles pecheurs au-dessus du reservoir. Les leopards existent ici mais sont une observation rare; considerez-la comme un bonus.\n\nApres le trajet, vous vous arretez pour le dejeuner dans un restaurant local, puis visitez le refuge pour elephanteaux d'Udawalawe. C'est une installation du Departement de la conservation de la faune qui eleve des veaux orphelins avec l'objectif specifique de les relacher dans la nature, c'est pourquoi les animaux sont tenus a l'ecart du contact humain et observes a distance plutot que manipules. Les sessions de nourrissage ont lieu a des heures fixes tout au long de la journee et les veaux arrivent en groupe pour etre nourris au biberon. C'est un centre de rehabilitation en activite, pas un endroit ou l'on monte ou baigne les elephants, ce qui est tout l'interet.\n\nTout se deroule en prive, donc la journee est la votre. Cela compte surtout pour le timing: le chauffeur peut vous viser l'ouverture matinale du portail, quand l'activite des elephants est la plus forte, et organiser le retour autour de l'horaire de nourrissage.\n\nUdawalawe se trouve a environ 165 kilometres au sud-est de Colombo, environ trois heures dans chaque sens sur une bonne route. Avec le safari, le dejeuner et l'arret au refuge, attendez-vous a une journee complete de douze heures ou plus avec un depart matinal. Cela vaut la peine, mais ce n'est pas une journee detendue.",
+  "highlights": [
+   "Safari 4x4 de quatre heures dans le parc avec les observations d’elephants les plus fiables du Sri Lanka",
+   "Un terrain de prairie ouverte qui facilite l’observation et la photographie des troupeaux",
+   "Session de nourrissage au biberon au refuge pour elephanteaux d’Udawalawe",
+   "Une vie d’oiseaux forte autour du reservoir, incluant aigles pecheurs et calaos",
+   "Vehicule et chauffeur prives pour toute la journee, avec prise en charge a l’hotel"
+  ],
+  "included": [
+   "Vehicule prive climatise avec chauffeur",
+   "prise en charge et depose a l’hotel a Colombo, Negombo ou Katunayake",
+   "safari 4x4 de quatre heures avec traqueur",
+   "dejeuner dans un restaurant local",
+   "visite du refuge pour elephanteaux",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Les frais d’entree du parc national et l’admission au refuge, sauf indication contraire a la reservation",
+   "boissons",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "nuwara-eliya-tea-country-day-trip-colombo-high-tea": {
+  "title": "Excursion dans le pays du the a Nuwara Eliya depuis Colombo avec the de l'apres-midi",
+  "metaTitle": "Nuwara Eliya depuis Colombo",
+  "metaDescription": "Une longue journee depuis Colombo: une plantation de the, le lac Gregory et le the de l'apres-midi au Grand Hotel de Nuwara Eliya.",
+  "shortDescription": "Une longue journee depuis Colombo vers les montagnes pour marcher une plantation de the en activite, naviguer sur le lac Gregory et prendre le the de l'apres-midi au Grand Hotel de Nuwara Eliya.",
+  "fullDescription": "Nuwara Eliya se trouve a environ 1 900 metres, et la montee pour y arriver est une grande partie de ce pour quoi vous payez. La route quitte la plaine cotiere, grimpe a travers Kadugannawa ou Hatton selon l'itineraire, et le paysage change en chemin, les rizieres cedent la place au caoutchouc, le caoutchouc au the, et l'air se rafraichit jusqu'a ce que vous ayez besoin d'une veste dans un pays ou personne n'en emporte. Des cascades apparaissent au bord de la route pendant une grande partie de la derniere heure.\n\nLa ville a ete construite par les Britanniques comme refuge de la saison chaude et en a encore l'air: un hippodrome, un terrain de golf, des bungalows de style faux Tudor et un bureau de poste qui ne serait pas deplace dans la campagne anglaise. Votre arret au Grand Hotel pour le the de l'apres-midi s'inscrit dans cette histoire, le batiment etait la residence d'un gouverneur avant de devenir un hotel.\n\nAvant cela, vous visitez une fabrique de the en activite. Le the est arrive a Ceylan apres que la rouille du cafe a detruit les plantations precedentes dans les annees 1870, et les montagnes ont ete entierement replantees avec lui. A l'interieur, vous suivez la feuille depuis les bacs de fletrissage a travers le roulage, l'oxydation, la cuisson et le tri, et vous goutez ce qui en sort a la fin.\n\nLe lac Gregory remplit la vallee en dessous de la ville. Barre sous le gouverneur Gregory dans les annees 1870, c'est maintenant ou Nuwara Eliya passe ses week-ends, des bateaux sur l'eau, des chevaux le long de la rive, des echoppes de nourriture tout autour. Vous y passez environ une heure.\n\nC'est une journee de quinze heures et il n'y a aucune facon de la raccourcir. Environ dix de ces heures sont passees en voiture, partagees entre la montee et la descente de retour vers la cote dans l'obscurite. Le paysage le merite et le chauffeur s'arrete ou cela a du sens, mais vous devriez reserver cela en sachant que vous partirez aux petites heures et reviendrez tard. Si vous pouvez vous permettre une nuit dans les montagnes a la place, c'est le meilleur voyage, celui-ci est pour les voyageurs qui ne le peuvent pas.",
+  "highlights": [
+   "Visite de fabrique de the en activite avec une degustation de la propre feuille de la plantation",
+   "Le the de l’apres-midi au Grand Hotel, une ancienne residence de gouverneur",
+   "Balade en bateau et temps libre au lac Gregory",
+   "Le trajet des montagnes lui-meme, a travers cascades et pentes de the",
+   "Nuwara Eliya d’epoque coloniale: hippodrome, bungalows et air frais de montagne"
+  ],
+  "included": [
+   "Voiture climatisee avec chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel a Colombo ou Negombo",
+   "visite et degustation a la fabrique de the",
+   "the de l’apres-midi au Grand Hotel",
+   "rafraichissements de bienvenue",
+   "balade en bateau au lac Gregory"
+  ],
+  "notIncluded": [
+   "Le dejeuner et autres repas",
+   "frais d’entree non specifies ci-dessus",
+   "equitation et autres activites optionnelles au lac Gregory",
+   "shopping",
+   "pourboires"
+  ]
+ },
+ "wilpattu-jeep-safari-sunrise-or-sunset-game-drive": {
+  "title": "Safari en jeep a Wilpattu avec sortie au lever ou au coucher du soleil",
+  "metaTitle": "Safari Wilpattu lever/coucher du soleil",
+  "metaDescription": "Quatre heures de safari en jeep ouvert a Wilpattu calees pour le lever ou le coucher du soleil, prise en charge incluse.",
+  "shortDescription": "Quatre heures de safari en jeep ouvert a Wilpattu calees pour le lever ou le coucher du soleil, avec prise en charge et depose organisees depuis une longue liste de points incluant Colombo.",
+  "fullDescription": "Wilpattu couvre bien plus de mille kilometres carres de foret de zone seche au nord de Puttalam, et son caractere vient des villus, des lacs naturels peu profonds qui retiennent l'eau longtemps apres que la foret environnante s'est assechee. Les animaux y viennent, et un bon traqueur planifie la sortie autour de ceux qui sont actuellement productifs.\n\nCette sortie est calee sur l'un des deux extremes de la journee. L'option lever du soleil entre a l'ouverture des portes, quand la lumiere est basse, l'air encore frais et les leopards les plus susceptibles d'etre sur les pistes de sable. L'option coucher du soleil se deroule pendant les dernieres heures de lumiere, quand les villus se remplissent de cerfs et de buffles et que le ciel au-dessus de l'eau est a son meilleur pour les photos. Dans tous les cas, vous etes dans le parc pendant environ quatre heures.\n\nL'animal phare de Wilpattu est le leopard, et la densite du parc est respectable, mais les observations dependent de la chance. Ce que vous pouvez raisonnablement attendre, c'est le pays des ours paresseux pendant les mois de fructification, des cerfs tachetes, des sambars, des sangliers, des buffles, des crocodiles marins aux marges des villus, et une vie d'oiseaux forte.\n\nVous voyagez dans un 4x4 ouvert avec un chauffeur qui agit aussi comme traqueur et guide. Le vehicule est le votre plutot qu'une navette partagee, donc le rythme de la sortie est le votre a fixer dans les regles du parc.\n\nLa chose principale a peser, c'est d'ou vous partez. Wilpattu est loin de Colombo, environ trois a quatre heures de route dans chaque sens, donc une prise en charge depuis Colombo transforme cela en une tres longue journee, dix heures ou plus avec la plupart passee sur la route. Si vous logez a Anuradhapura, Negombo ou pres de l'entree a Hunuwilagama, la meme sortie s'integre confortablement dans une demi-journee. Choisissez l'option de prise en charge qui correspond a l'endroit ou vous vous trouvez reellement.",
+  "highlights": [
+   "Une sortie de quatre heures calee sur la lumiere du lever ou du coucher du soleil",
+   "Les lacs villus ou se concentre l’activite des leopards, ours et cerfs",
+   "Un 4x4 ouvert avec un chauffeur-traqueur qui parcourt le parc quotidiennement",
+   "Sept options de prise en charge a travers le nord-ouest et Colombo",
+   "Le plus grand parc du Sri Lanka, et bien plus calme que Yala"
+  ],
+  "included": [
+   "Jeep de safari 4x4 ouvert prive avec chauffeur-traqueur",
+   "transfert aller-retour depuis votre point choisi",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Les frais d’entree du parc national et du traqueur payes a l’entree",
+   "repas et rafraichissements",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "wilpattu-national-park-leopard-safari-colombo-pickup": {
+  "title": "Safari aux leopards au parc national de Wilpattu avec prise en charge depuis Colombo",
+  "metaTitle": "Safari leopards Wilpattu depuis Colombo",
+  "metaDescription": "Un safari en jeep de quatre heures a travers Wilpattu, le plus grand et le plus calme parc national du Sri Lanka, prise en charge incluse.",
+  "shortDescription": "Un safari en jeep de quatre heures a travers Wilpattu, le plus grand et le plus calme parc national du Sri Lanka, avec prise en charge disponible depuis Colombo ou cinq points plus proches du parc.",
+  "fullDescription": "Wilpattu est le plus grand parc national du Sri Lanka et, pour la plupart des visiteurs, le moins familier. Son nom signifie pays des lacs, et le parc est construit autour des villus, des bassins pluviaux naturels bordes de sable qui attirent les animaux hors de la foret seche pour boire. Plutot que de parcourir un circuit de prairie ouverte, vous vous deplacez entre des points d'eau et vous attendez.\n\nLe parc est surtout connu pour ses leopards, et Wilpattu abrite une population saine, mais personne d'honnete ne vous en promettra un. Les observations d'ours paresseux culminent en juin et juillet quand le fruit palu murit. Au-dela de ces deux-la, attendez-vous a des cerfs tachetes, des sambars, des sangliers, des buffles, des crocodiles aux marges des villus et une longue liste d'oiseaux, des cigognes peintes aux serpentaires.\n\nVous voyagez dans un 4x4 ouvert avec un chauffeur-traqueur qui lit ces pistes quotidiennement par radio et par des empreintes fraiches dans le sable. Environ quatre heures sont passees a l'interieur du parc. Prenez la sortie du matin, qui commence a la premiere lumiere quand le mouvement des animaux est le plus eleve, ou la sortie de l'apres-midi, qui se deroule pendant les heures doreees jusqu'a la fermeture.\n\nSoyez clair sur le trajet si vous reservez cela depuis Colombo. Wilpattu se trouve a environ 180 kilometres au nord de la ville, et la route passe par Puttalam plutot que le long d'une autoroute tout du long. Avec un depart avant l'aube et un retour apres la sortie, cela devient une longue journee de dix a douze heures, dont la plupart dans un vehicule. Les voyageurs deja a Anuradhapura, Negombo ou pres de l'entree du parc ont une version bien plus facile de la meme experience, et la prise en charge depuis ces points est disponible.\n\nApportez un chapeau, des lunettes de soleil et quelque chose pour amortir les secousses, les pistes internes sont du sable rugueux et de la roche. Des vetements neutres aident, tout comme un objectif zoom. Les sorties fonctionnent toute l'annee, bien que le parc puisse fermer brievement lors des fortes pluies de mousson d'octobre a decembre.",
+  "highlights": [
+   "Safari en jeep de quatre heures a l’interieur de Wilpattu, le plus grand parc national du pays",
+   "Le systeme de lacs villus qui concentre la faune autour de l’eau libre",
+   "Territoire de leopards, ours paresseux, cerfs tachetes, buffles et crocodiles",
+   "Choix entre une sortie matinale a la premiere lumiere ou une sortie en fin d’apres-midi",
+   "Prise en charge depuis Colombo, Negombo, Anuradhapura ou quatre autres points"
+  ],
+  "included": [
+   "Jeep de safari 4x4 ouvert avec chauffeur-traqueur",
+   "transfert aller-retour depuis votre point de prise en charge choisi",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Les frais d’entree du parc national et du traqueur payables a l’arrivee",
+   "repas",
+   "pourboires",
+   "depenses personnelles",
+   "frais d’appareil photo le cas echeant"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Séance de flyboard à Pattaya",
   "fullDescription": "Cette expérience de 30 minutes se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend séance de flyboard, accompagnement d'un instructeur, équipement de sécurité et douches. Il ne comprend pas photos et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
