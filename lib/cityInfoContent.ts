@@ -1,6 +1,7 @@
 import { getThailandInfoContent } from './thailandInfoContent';
 import { getMalaysiaInfoContent } from './malaysiaInfoContent';
 import { getChinaInfoContent } from './chinaInfoContent';
+import { getHongKongInfoContent } from './hongkongInfoContent';
 import { getTokyoInfoContent } from './tokyoInfoContent';
 import { getKyotoInfoContent } from './kyotoInfoContent';
 import { getOsakaInfoContent } from './osakaInfoContent';
@@ -163,6 +164,9 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const chinaPage = getChinaInfoContent(slug);
     if (chinaPage) return chinaPage;
+
+    const hongKongPage = getHongKongInfoContent(slug);
+    if (hongKongPage) return hongKongPage;
 
     switch (slug) {
             case "things-to-do-in-agra":

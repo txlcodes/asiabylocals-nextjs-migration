@@ -228,6 +228,16 @@ const CITY_RECOMMENDED_TOURS: Record<string, { title: string; slug: string; desc
         { title: 'Shanghai: VIP Huangpu Night Cruise with Guide & Bund Views', slug: 'shanghaivip-huangpu-night-cruise-with-guide-bund', description: 'Both skylines lit up at night, seen from the water', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/shanghai-night-cruise', price: 'From $41', rating: '4.6' },
         { title: 'Shanghai Disneyland Guided Tour: 6-Hour Group/Private', slug: 'shanghai-disneyland-guided-tour-6-hour', description: 'Ticketing and park logistics handled for the first Disney park on the Chinese mainland', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/shanghai-disneyland-tour', price: 'From $40', rating: '4.5' },
     ],
+    'hongkong': [
+        { title: 'Hong Kong: Victoria Peak Guided Walking Tour', slug: 'hong-kong-victoria-peak-guided-walking-tour', description: 'Skip the Peak Tram station queue and climb Victoria Peak on foot with a guide', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/78b8cdc0b3b074980e2b7e9d89315712fee9c9444af006d906d3756218b124de.jpg', price: 'From $208', rating: '4.7' },
+        { title: 'HK: Sail on Star Ferry to Million-Dollars View Central Tour', slug: 'hk-sail-on-star-ferry-to-million-dollars-view', description: 'The classic harbor crossing, running since 1888, paired with a Central walk', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1adedc55131203d80fbc40423126d42070bc78cfe083f583f7d5741c5b8626a7.jpeg', price: 'From $29', rating: '4.6' },
+        { title: 'Hong Kong: Peak Tram Sky Terrace 428 & Photos Tour', slug: 'hong-kong-peak-tram-sky-terrace-428-photos-tour', description: 'A timed Peak Tram visit that avoids the worst of the boarding queue', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a770dcde68e54570c682cc4a54dbb1eb621ccf4700edddb505edcf5c667b19b8.png', price: 'From $119', rating: '4.6' },
+        { title: 'Hong Kong: Lantau VIP Priority Cable Car, Big Buddha & Tai O', slug: 'hong-kong-lantau-vip-priority-cable-car-big', description: 'The full Lantau Island day — Ngong Ping 360 cable car, Big Buddha and Tai O fishing village', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1b06e15f219028b4aa5249305d094571ec9394403bf321771f4700b13020c336.jpg', price: 'From $131', rating: '4.7' },
+        { title: 'Ngong Ping 360 Cable Car Fast Lane Ticket with Hotel Pick Up', slug: 'ngong-ping-360-cable-car-fast-lane-ticket-with', description: 'Skip the base-station queue to reach the Tian Tan Buddha', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/207dd90465dd6b901d24827a7b867448fc42101b69682ca46ced4a8e0c673833.jpg', price: 'From $68', rating: '4.6' },
+        { title: 'Hong Kong: Small-Group Dim Sum Lunch with 30+ Items', slug: 'hong-kong-small-group-dim-sum-lunch-with-30', description: 'A guided dim sum lunch covering 30-plus classic dishes', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/238b5465b7fe6311243810dfcdc5da07c8c7341098818628dc4e91ead1c8c84b.jpg', price: 'From $1105', rating: '4.8' },
+        { title: 'Hong Kong: Yau Ma Tei Temple Street Night Walking Tour', slug: 'hong-kong-yau-ma-tei-temple-street-night-walking', description: 'A guided walk through Temple Street\'s night market stalls and food stands', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a5008587fb56e196dfaa948d1b25a7357b621c7e284237a865eb6869d279bda8.png', price: 'From $228', rating: '4.7' },
+        { title: 'Macau: Macau Full Day Tour with Lunch and Transfers', slug: 'macau-macau-full-day-tour-with-lunch-and-transfers', description: 'A full-day Macau trip with ferry, transfers and lunch handled', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/172162fc9c3d4efd940fd62e939a9795bcf0950012b8453159c3ba4a6b12a0ac.jpg', price: 'From $161', rating: '4.5' },
+    ],
     'phuket': [
         { title: 'Phi Phi Islands Premium Catamaran Tour (Maya Bay & Snorkeling)', slug: 'phi-phi-islands-speedboat-tour-maya-bay-snorkeling', description: 'Maya Bay, Pileh Lagoon & Bamboo Island snorkelling — 8 hours', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1784980215/tours/phuket-phi-phi-bamboo-buffet-455/img_0.jpg', price: 'From $119', rating: '4.9' },
         { title: 'James Bond Island Speedboat Tour with Canoeing & Lunch', slug: 'james-bond-island-speedboat-tour-phuket', description: 'Phang Nga Bay sea caves, hong lagoons & Koh Panyee stilt village', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1772835259/tours/phuket/james-bond-island-speedboat-tour-phuket-0.jpg', price: 'From $99', rating: '4.8' },
@@ -345,6 +355,24 @@ const SHANGHAI_SIDEBAR = [
     { name: 'Suzhou Day Trip', slug: 'suzhou-day-trip-from-shanghai' },
     { name: 'Metro Guide', slug: 'shanghai-metro-guide' },
     { name: 'Shanghai vs Beijing', slug: 'shanghai-vs-beijing-which-to-visit' },
+];
+
+const HONG_KONG_SIDEBAR = [
+    { name: 'Hong Kong Travel Guide', slug: 'hong-kong-travel-guide-2026' },
+    { name: 'Things to Do', slug: 'things-to-do-in-hong-kong' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-hong-kong' },
+    { name: 'Visa Guide', slug: 'hong-kong-visa-guide' },
+    { name: '1-Day Itinerary', slug: 'hong-kong-1-day-itinerary' },
+    { name: '3-Day Itinerary', slug: 'hong-kong-3-day-itinerary' },
+    { name: 'Octopus Card Guide', slug: 'octopus-card-guide' },
+    { name: 'Peak Tram Tickets', slug: 'peak-tram-tickets-guide' },
+    { name: 'Star Ferry Guide', slug: 'star-ferry-guide' },
+    { name: 'Big Buddha & Ngong Ping 360', slug: 'big-buddha-ngong-ping-360' },
+    { name: 'Dim Sum Guide', slug: 'hong-kong-dim-sum-guide' },
+    { name: 'Mong Kok Night Markets', slug: 'mong-kok-night-markets' },
+    { name: 'Disneyland Guide', slug: 'hong-kong-disneyland-guide' },
+    { name: 'Typhoon Season', slug: 'hong-kong-typhoon-season' },
+    { name: 'Macau Day Trip', slug: 'macau-day-trip-from-hong-kong' },
 ];
 
 const PHUKET_SIDEBAR = [
@@ -752,6 +780,7 @@ export default function CityInfoClient({ country, city, slug, data = null }: Pro
         'kota-kinabalu': KOTA_KINABALU_SIDEBAR,
         beijing: BEIJING_SIDEBAR,
         shanghai: SHANGHAI_SIDEBAR,
+        hongkong: HONG_KONG_SIDEBAR,
     };
     // No fallback to Agra: a Kandy page showing Taj Mahal links is worse than
     // a page with no sidebar. Cities without a map entry render none.

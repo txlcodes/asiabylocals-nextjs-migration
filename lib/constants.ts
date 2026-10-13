@@ -181,6 +181,18 @@ export const SHANGHAI_INFO_SLUGS = [
   'suzhou-day-trip-from-shanghai', 'shanghai-metro-guide', 'shanghai-vs-beijing-which-to-visit'
 ];
 
+// Hong Kong launched 2026-10 with 197 live tours and zero authority pages.
+// City slug is 'hongkong' (no hyphen) per lib/cityCountryMap.ts, even though
+// the country slug is 'hong-kong'. Re-add a slug here ONLY once its page
+// exists in lib/hongkongInfoContent.ts — isInfoSlug() gates the route.
+export const HONG_KONG_INFO_SLUGS = [
+  'best-time-to-visit-hong-kong', 'things-to-do-in-hong-kong', 'hong-kong-travel-guide-2026',
+  'hong-kong-1-day-itinerary', 'hong-kong-3-day-itinerary', 'hong-kong-visa-guide',
+  'octopus-card-guide', 'peak-tram-tickets-guide', 'star-ferry-guide',
+  'big-buddha-ngong-ping-360', 'hong-kong-dim-sum-guide', 'mong-kok-night-markets',
+  'hong-kong-disneyland-guide', 'hong-kong-typhoon-season', 'macau-day-trip-from-hong-kong'
+];
+
 export const BANGKOK_INFO_SLUGS = [
   'things-to-do-in-bangkok', 'bangkok-travel-guide-2026',
   'grand-palace-bangkok', 'wat-pho', 'wat-arun',

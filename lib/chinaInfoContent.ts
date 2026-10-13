@@ -13,3 +13,7 @@ export function getChinaInfoContent(slug: string): CityInfoData | null {
 
     return null;
 }
+
+// Hong Kong is a separate dispatcher (own file, own import below in
+// cityInfoContent.ts) since it's not part of mainland China for this
+// platform's purposes, but documented here for discoverability.
