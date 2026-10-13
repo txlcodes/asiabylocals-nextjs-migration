@@ -527,6 +527,617 @@ export function getTaiwanInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "taipei-bubble-tea-origin-guide":
+      return {
+        title: "Taipei Bubble Tea Guide 2026: The Disputed Origin and Where to Actually Drink It",
+        description: "Bubble tea was born in Taiwan, but two teahouses still argue over who invented it. Here's the real history and where to try it properly in Taipei.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dc20318200f555efdf09b66042c6ea37d7463a8f659e757a3d0dd5756d79e8de.jpeg",
+        fastFacts: [
+          { icon: "Coffee", label: "Invented", value: "Taiwan, early-to-mid 1980s" },
+          { icon: "MapPin", label: "Competing origin claims", value: "Chun Shui Tang (Taichung) vs. Hanlin Tea Room (Tainan)" },
+          { icon: "DollarSign", label: "Typical price in Taipei", value: "NT$40-70 (roughly US$1.30-2.30) per cup" },
+          { icon: "Utensils", label: "Classic order", value: "Pearl milk tea (zhenzhu naicha) — black tea, milk, tapioca pearls" },
+        ],
+        sections: [
+          {
+            title: "Two Teahouses, One Unresolved Argument",
+            content: "Bubble tea — known locally as 'pearl milk tea' (zhenzhu naicha) or simply boba — was invented in Taiwan in the early 1980s, and that part isn't disputed. Who invented it is. **Chun Shui Tang** in Taichung says a staff member first dropped sweetened tapioca balls into iced tea during a 1980s product meeting, and the chain has pursued the claim seriously enough to take it to court in Taiwan, without a definitive ruling in their favor. **Hanlin Tea Room** in Tainan tells a different story, tracing their own tapioca-milk-tea recipe to a local market ingredient their founder started using around the same period. Neither account has been settled as the official history, and most food writers who've looked into it treat the dispute as permanently unresolved rather than leaning toward either side.\n\nWhat's not in dispute is the scale of what followed: bubble tea became one of Taiwan's most recognizable cultural exports, with Taiwanese-founded chains now operating in dozens of countries, long after the drink outgrew its origin story.",
+          },
+          {
+            title: "What Makes a Proper Cup, Beyond the Pearls",
+            content: "A classic pearl milk tea is built on three things done well: a black tea base brewed strong enough to hold up against milk and sugar, fresh tapioca pearls cooked that day (pearls left sitting too long turn hard and chalky, a real quality marker worth noticing), and a sugar level you choose yourself — nearly every Taipei shop lets you specify sugar at 0%, 30%, 50%, 70% or 100%, along with ice level, which is a level of customization most visitors haven't encountered at home. Brown sugar versions, made with fresh tapioca cooked in brown sugar syrup rather than plain sugar water, became their own sub-category in the 2010s and are worth trying as a variant rather than a replacement for the classic.\n\nBeyond milk tea, Taipei's bubble tea shops also do fruit teas (grapefruit and passionfruit are common strong versions), cheese foam teas, and taro-flavored drinks — none of these are lesser options, they're just a different branch of the same shop's menu.",
+            tourCard: { slug: "taipei-formosa-flavours-food-tour-with-12-tastings", title: "Taipei: Formosa Flavours Food Tour with 12+ Tastings", description: "A guided tastings tour that puts bubble tea in context alongside Taipei's other defining flavors.", price: "From $73", duration: "4 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4a87893e8407e0d0bfe688b382f3e7103a4fac2681896191c8aaaaf9ebce8665.jpeg" },
+          },
+          {
+            title: "Where to Drink It in Taipei",
+            content: "You don't need a destination shop — bubble tea stands are on nearly every block in Taipei, and a small independent stand is often just as good as a famous chain's flagship. That said, both Chun Shui Tang and Hanlin Tea Room operate Taipei branches if you want to taste each side of the origin debate for yourself and form your own opinion. Night markets (Shilin, Raohe, Ningxia) are reliable spots for a quick cup between food stalls, and most shops serve cups meant to be finished within an hour or two rather than nursed, since the ice dilutes the tea and the pearls firm up as they cool.\n\nPrices run roughly NT$40-70 (about US$1.30-2.30) for a standard cup, making it one of the cheapest, most repeatable small pleasures of a Taipei trip.",
+          },
+        ],
+        faqs: [
+          { q: "Who really invented bubble tea?", a: "It's genuinely disputed. Chun Shui Tang in Taichung and Hanlin Tea Room in Tainan both claim to have created it in the early-to-mid 1980s, and the dispute has never been definitively resolved, including a court case that didn't settle it either way." },
+          { q: "What should I order at a Taipei bubble tea shop?", a: "Classic pearl milk tea (zhenzhu naicha) — black tea, milk and tapioca pearls — is the standard starting point. You'll be asked to specify a sugar level (0-100%) and ice level, which is normal and expected." },
+          { q: "How much does bubble tea cost in Taipei?", a: "Roughly NT$40-70, about US$1.30-2.30, for a standard cup at most stands and shops." },
+          { q: "Is brown sugar bubble tea different from regular bubble tea?", a: "Yes — it uses fresh tapioca pearls cooked in brown sugar syrup rather than plain sugar water, giving a deeper caramel note. It's a popular variant from the 2010s, not a replacement for the classic version." },
+        ],
+      };
+
+    case "elephant-mountain-hike-guide":
+      return {
+        title: "Elephant Mountain (Xiangshan) Hike Guide 2026: Taipei's Free Skyline View",
+        description: "A short, steep stone staircase above Xinyi district delivers Taipei's single best Taipei 101 photo. Here's how to time it and what to expect.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1dc72d786636f64e3a6ab0305d5d38e68f59356f59f82436e69ef6baabbe1080.png",
+        fastFacts: [
+          { icon: "Mountain", label: "Climb time", value: "20-40 minutes to the main viewpoint, depending on pace" },
+          { icon: "MapPin", label: "Nearest MRT", value: "Xiangshan station, Red Line — direct trailhead access" },
+          { icon: "Camera", label: "Best for", value: "The classic Taipei 101 skyline shot from Six Giant Rocks viewpoint" },
+          { icon: "Clock", label: "Best time", value: "Late afternoon into sunset and blue hour; arrive before golden hour on weekends" },
+        ],
+        sections: [
+          {
+            title: "A Short, Steep Climb With an Outsized Reward",
+            content: "**Elephant Mountain**, known locally as Xiangshan, is a low hill directly behind Taipei's Xinyi district that happens to sit at exactly the right angle to frame Taipei 101 against the rest of the skyline — which is why it's become the single most repeated skyline photo of the city. The climb itself is a set of stone steps, steep enough to raise your heart rate but short enough that most reasonably fit visitors reach the main viewpoint, known as **Six Giant Rocks**, in well under 40 minutes. It's not a wilderness hike; it's closer to a long, vertical staircase with trees on either side and lookout platforms at a few points along the way.\n\nThe trail is free, open-air and unticketed, which makes it one of the better value stops in the entire city for the amount of visual payoff it delivers.",
+            tourCard: { slug: "taipei-city-highlights-tour-with-taipei-101", title: "Taipei: City Highlights Tour with Taipei 101 Observatory", description: "Pair the Taipei 101 observatory with the reverse skyline view from Elephant Mountain nearby.", price: "From $89", duration: "9 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1dc72d786636f64e3a6ab0305d5d38e68f59356f59f82436e69ef6baabbe1080.png" },
+          },
+          {
+            title: "Timing It Around Sunset, and Managing the Crowd",
+            content: "The viewpoint's popularity means the window around sunset and the half-hour after (blue hour, when the city lights come on but the sky still holds some color) draws a genuine crowd, especially on clear evenings and weekends — expect to share the main rock ledge with other photographers and to wait a turn for an unobstructed shot. Arriving 30-45 minutes before sunset gets you there ahead of the peak crush and gives time to find a spot before the light gets good. A weekday evening is noticeably calmer than a weekend one.\n\nBring a headlamp or phone flashlight for the walk back down after dark — the steps are lit but unevenly, and footing matters more descending than climbing.",
+          },
+          {
+            title: "What to Bring and What Not to Expect",
+            content: "Wear real shoes, not sandals — the steps are uneven stone and can be damp after rain, when they also get genuinely slippery. There are a couple of lower viewpoints along the way if you don't want to go all the way to Six Giant Rocks, though the view improves meaningfully the higher you go. This is not a full nature hike with varied terrain; it's a focused, single-purpose climb to one specific view, which is exactly why it works well as a 30-60 minute add-on to a Taipei 101 or Xinyi district visit rather than a standalone half-day outing.",
+          },
+        ],
+        faqs: [
+          { q: "How long does the Elephant Mountain hike take?", a: "Roughly 20-40 minutes to the main Six Giant Rocks viewpoint, depending on pace and how many photo stops you make along the way." },
+          { q: "Is Elephant Mountain free?", a: "Yes — it's an open, unticketed public trail with no entry fee." },
+          { q: "When is the best time to hike Elephant Mountain?", a: "30-45 minutes before sunset, to arrive ahead of the peak crowd and catch both daylight and blue-hour shots of Taipei 101." },
+          { q: "How do I get to the Elephant Mountain trailhead?", a: "Take the MRT Red Line to Xiangshan station — the trailhead is a short, well-signed walk from the station exit." },
+        ],
+      };
+
+    case "taipei-with-kids-guide":
+      return {
+        title: "Taipei with Kids 2026: What Actually Works for a Family Trip",
+        description: "Taipei is an easier family destination than it gets credit for — here's what genuinely works for kids, from the zoo to the night markets.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eca81846d78ade2e6748fbd0bef0773b8e8ff71e55f81896820fe66d22f22266.png",
+        fastFacts: [
+          { icon: "MapPin", label: "Top family stop", value: "Taipei Zoo — one of Asia's largest, with a dedicated panda house and gondola" },
+          { icon: "Train", label: "Getting around", value: "MRT is stroller-friendly with elevators at most stations" },
+          { icon: "Utensils", label: "Night markets with kids", value: "Go earlier (6-7pm) before peak crowds make strollers hard to navigate" },
+          { icon: "Building", label: "Rainy-day backup", value: "Taipei 101 observatory and the National Palace Museum are both fully indoor" },
+        ],
+        sections: [
+          {
+            title: "Taipei Zoo Is the Single Best Family Anchor",
+            content: "**Taipei Zoo**, reached directly by MRT (Taipei Zoo station, Brown Line), is one of the largest zoos in Asia and genuinely well laid out for a family day — spacious enclosures organized by continent/habitat, a dedicated panda house, and a cable car (the Maokong Gondola connects from a station near the zoo) that doubles as its own attraction for kids who'd enjoy a scenic ride regardless of what's at the other end. Budget a half-day minimum; it's large enough that rushing through in under two hours means missing most of it.\n\nPairing the zoo with Taipei Children's Amusement Park (TCAP), a short distance away with kid-scaled rides, rounds out a full day aimed squarely at younger children rather than trying to force a toddler through an adult-paced sightseeing itinerary.",
+            tourCard: { slug: "taipei-family-friendly-tour-taipei-zoo-tcap-day", title: "Taipei Family-Friendly Tour (Taipei Zoo & TCAP Day Trip)", description: "A day built specifically around the zoo and the kids' amusement park, paced for families.", price: "From $150", duration: "Full day", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eca81846d78ade2e6748fbd0bef0773b8e8ff71e55f81896820fe66d22f22266.png" },
+          },
+          {
+            title: "The MRT Makes Taipei Easier With Kids Than It Looks",
+            content: "Taipei's MRT system is stroller-friendly in a way a lot of first-time visiting parents don't expect: elevators exist at the large majority of stations, platforms are wide, and trains run frequently enough that missing one isn't a real setback. This matters because it means families aren't locked into taxis to move around, which keeps costs down and gives kids something to look at (the system is clean and visually simple to follow even for a child).\n\nNight markets work with kids too, but timing matters more than with an adult-only visit — go earlier, around 6-7pm, before the densest crowds arrive; a stroller or a tired toddler in a packed 9pm Shilin crowd is a genuinely different experience than the same market at 6:30.",
+          },
+          {
+            title: "Rainy-Day and Indoor Backup Options",
+            content: "Taipei's typhoon season and generally humid climate mean a backup plan matters. The **Taipei 101 observatory** is fully indoor and climate-controlled, and most kids are entertained by the height and the visible tuned mass damper regardless of weather outside. The **National Palace Museum** is less obviously kid-oriented on paper but has enough genuinely strange and striking objects (the jadeite cabbage carving is a reliable hit with children specifically because it looks like a vegetable made of jade) to hold attention for an hour or so if paced right rather than treated as a full scholarly visit.\n\nDin Tai Fung and other dumpling restaurants are an easy, kid-friendly food fallback across the city if night market food feels like too much of a gamble on a given night.",
+          },
+        ],
+        faqs: [
+          { q: "Is Taipei a good city for families with young kids?", a: "Yes — the MRT is stroller-friendly with elevators at most stations, Taipei Zoo is one of Asia's largest and well laid out, and food options range from adventurous night market stalls to reliably kid-friendly dumpling restaurants." },
+          { q: "What's the best single family activity in Taipei?", a: "Taipei Zoo, paired with the nearby Maokong Gondola cable car and Taipei Children's Amusement Park for a full, kid-paced day." },
+          { q: "Can you take kids to Taipei's night markets?", a: "Yes, but go earlier — around 6-7pm — before the densest evening crowds make strollers and tired kids harder to manage." },
+          { q: "What's a good rainy-day option with kids in Taipei?", a: "The Taipei 101 observatory and the National Palace Museum are both fully indoor and climate-controlled, and work for a shorter, well-paced visit rather than a full scholarly tour." },
+        ],
+      };
+
+    case "ximending-guide":
+      return {
+        title: "Ximending Guide 2026: Taipei's Youth Culture and Shopping District",
+        description: "Ximending is Taipei's answer to a Harajuku or a Myeongdong — pedestrianized streets, street fashion, cheap eats and a genuine youth-culture energy.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/07ee1f514ef3b84e0c0c0781cfcb37438fdee4f2e95d15bbe98e93c4ba3e6274.jpeg",
+        fastFacts: [
+          { icon: "MapPin", label: "Location", value: "Wanhua district, around Ximen MRT station" },
+          { icon: "Users", label: "Known for", value: "Youth fashion, street performers, cinemas, cheap street food" },
+          { icon: "Clock", label: "Busiest", value: "Weekend afternoons and evenings" },
+          { icon: "MapPin", label: "Nearby pairing", value: "Longshan Temple, a short MRT ride away" },
+        ],
+        sections: [
+          {
+            title: "A Pedestrianized District Built Around Youth Culture",
+            content: "**Ximending**, centered on a pedestrianized grid of streets around Ximen MRT station in Wanhua district, is Taipei's main youth-culture and street-fashion district — the closest local equivalent to Tokyo's Harajuku or Seoul's Myeongdong, though with its own distinct Taiwanese character rather than a copy of either. Street performers, buskers and small impromptu dance crews regularly set up in the open plazas, especially on weekend evenings, giving the area a genuinely lively, unscripted energy that's different from the more curated shopping streets elsewhere in the city.\n\nThe area's roots as a cinema and entertainment district go back to the Japanese colonial era, and several of its original theater buildings are still standing, now mixed in among newer fast-fashion stores and themed cafes.",
+          },
+          {
+            title: "What to Do and Eat There",
+            content: "Shopping in Ximending leans toward affordable, trend-driven fashion, sneakers, K-pop and anime merchandise, and novelty items rather than luxury retail — it's a browsing district more than a destination-purchase one. Food is a strong draw in its own right: small stalls and shops serving things like oyster mee sua (a thick, savory noodle soup with oysters), stinky tofu, and a range of bubble tea and dessert shops are dense throughout the grid, and prices run noticeably lower than in more tourist-oriented parts of the city.\n\nA cluster of cinemas, including some historic ones, still operates in the district, and a visit here pairs naturally with a walk to Longshan Temple, a short MRT ride or a 15-20 minute walk away, for a contrast between the area's modern energy and the temple's older, quieter atmosphere.",
+            tourCard: { slug: "ximending-private-photoshoot-with-taipei", title: "Ximending: Private Photoshoot with Taipei Photographer", description: "A guided photoshoot that uses Ximending's street-art backdrops and energy as the setting.", price: "From $150", duration: "1 hour", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/07ee1f514ef3b84e0c0c0781cfcb37438fdee4f2e95d15bbe98e93c4ba3e6274.jpeg" },
+          },
+          {
+            title: "When to Go",
+            content: "Weekend afternoons and evenings are when Ximending is most alive — street performers out in force, plazas busy, shops and food stalls at full swing — but that also means the heaviest foot traffic. A weekday visit trades some of that energy for an easier, less crowded walk through the same streets. Either way, this is a district best explored on foot without a fixed itinerary; wandering the side streets off the main pedestrian grid often turns up smaller, more interesting shops than the main thoroughfare.",
+          },
+        ],
+        faqs: [
+          { q: "What is Ximending known for?", a: "Youth fashion, street performers, cinemas and cheap, dense street food, centered on a pedestrianized grid of streets around Ximen MRT station — often compared to Harajuku or Myeongdong." },
+          { q: "How do I get to Ximending?", a: "Take the MRT to Ximen station — the pedestrianized shopping grid starts right at the station exit." },
+          { q: "Is Ximending good for shopping?", a: "For affordable, trend-driven fashion and novelty items, yes. It's not a luxury shopping district — think browsing and street finds rather than destination purchases." },
+          { q: "When is the best time to visit Ximending?", a: "Weekend evenings for the most street-performer energy, or a weekday if you'd rather have an easier, less crowded walk through the same streets." },
+        ],
+      };
+
+    case "taipei-museums-guide-national-palace":
+      return {
+        title: "Taipei Museums Guide 2026: The National Palace Museum and Beyond",
+        description: "The National Palace Museum holds one of the world's great collections of Chinese imperial art — here's what to see, how long to budget, and what else is worth a stop.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cbb024dd3226f8cc19f6f86e505db9bf0d5f5ad4c73f81a468a03c1f5f4bcfd7.jpeg",
+        fastFacts: [
+          { icon: "Landmark", label: "Headline collection", value: "National Palace Museum — nearly 700,000 Chinese imperial artifacts" },
+          { icon: "Clock", label: "Minimum visit time", value: "2-3 hours for the highlights; a full day for serious enthusiasts" },
+          { icon: "MapPin", label: "Famous object", value: "The jadeite 'Jadeite Cabbage' carving" },
+          { icon: "MapPin", label: "Access", value: "Bus from Shilin MRT station; no direct MRT line" },
+        ],
+        sections: [
+          {
+            title: "The National Palace Museum: One of the World's Great Collections",
+            content: "The **National Palace Museum** holds nearly 700,000 pieces of Chinese imperial art and artifacts, much of it brought from Beijing's Forbidden City collection during the Chinese Civil War, making it one of the most significant collections of Chinese imperial material culture anywhere in the world, rivaled mainly by its counterpart institution in Beijing. The collection spans bronzes, ceramics, calligraphy, paintings and jade carvings across several millennia, with only a rotating fraction on display at any time given the scale of the full holdings.\n\nThe single most famous individual object is the **Jadeite Cabbage**, a small jade carving shaped into a remarkably lifelike Chinese cabbage with a locust and katydid perched on its leaves — disproportionately popular relative to its size, and usually the first thing visitors ask museum staff to point them toward.",
+            tourCard: { slug: "taipei-national-palace-museum-guided-tour", title: "Taipei National Palace Museum Guided Tour", description: "A guided walk through the museum's highlights, including the Jadeite Cabbage, with context a self-guided visit would miss.", price: "From $45", duration: "2.5 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cbb024dd3226f8cc19f6f86e505db9bf0d5f5ad4c73f81a468a03c1f5f4bcfd7.jpeg" },
+          },
+          {
+            title: "Getting There and How Long to Budget",
+            content: "The museum sits outside the MRT network proper — the standard route is an MRT ride to **Shilin station**, followed by a connecting bus, or a taxi from there. Budget at least **2-3 hours** to see the acknowledged highlights without rushing; the full collection and building complex can easily absorb a half-day or more for anyone with a genuine interest in Chinese art history. A guided tour is worth considering here specifically because the context and history behind individual pieces — why certain bronzes or scrolls matter, how the collection ended up in Taiwan — adds considerably more than reading object labels alone.\n\nWeekday mornings are calmer than weekend afternoons, when tour groups and school visits both tend to cluster.",
+          },
+          {
+            title: "Beyond the Palace Museum: Other Taipei Museums Worth a Stop",
+            content: "Taipei's museum scene beyond the National Palace Museum is smaller but has genuine standouts. The **Taipei Fine Arts Museum** focuses on Taiwanese and international modern/contemporary art in a striking modernist building near Yuanshan station. The **Confucius Temple** in Datong functions partly as a museum of Confucian philosophy and ritual alongside its role as an active site. For a very different register, the **National Taiwan Museum**, housed in a grand colonial-era building near NTU Hospital station, covers natural history and Taiwan's own cultural history in a smaller, more manageable visit than the Palace Museum.\n\nMost first-time visitors with limited time should prioritize the National Palace Museum over the others unless a specific personal interest (contemporary art, natural history) points elsewhere.",
+          },
+        ],
+        faqs: [
+          { q: "How long should I spend at the National Palace Museum?", a: "At least 2-3 hours for the acknowledged highlights, including the Jadeite Cabbage. Serious enthusiasts can easily spend a half-day or more given the scale of the full collection." },
+          { q: "How do I get to the National Palace Museum?", a: "Take the MRT to Shilin station, then a connecting bus or taxi — there's no direct MRT line to the museum itself." },
+          { q: "What is the most famous object at the museum?", a: "The Jadeite Cabbage, a small jade carving shaped into a remarkably lifelike cabbage with a locust and katydid on its leaves. It's disproportionately popular relative to its size." },
+          { q: "Are there other museums worth visiting in Taipei besides the National Palace Museum?", a: "Yes — the Taipei Fine Arts Museum for modern and contemporary art, and the National Taiwan Museum for natural history and local cultural history, both smaller, more manageable visits." },
+        ],
+      };
+
+    case "dadaocheng-old-street-guide":
+      return {
+        title: "Dadaocheng and Dihua Street Guide 2026: Taipei's Old Merchant Quarter",
+        description: "Herbal medicine shops, dried-goods stalls and restored Qing-and-Japanese-era shophouses — Dadaocheng is Taipei's best-preserved historic quarter.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1e1691519237b4ea9ec23e517b15ec654856d59ce80f87675df46559414d26b.jpg",
+        fastFacts: [
+          { icon: "Landmark", label: "Main street", value: "Dihua Street — restored Qing dynasty and Japanese colonial-era shophouses" },
+          { icon: "MapPin", label: "Nearest MRT", value: "Daqiaotou or Beimen station, short walk" },
+          { icon: "Utensils", label: "Known for", value: "Dried goods, herbal medicine, tea shops and Chinese New Year market stalls" },
+          { icon: "Clock", label: "Visit length", value: "1.5-2.5 hours for an unhurried walk" },
+        ],
+        sections: [
+          {
+            title: "Taipei's Best-Preserved Historic Merchant Quarter",
+            content: "**Dadaocheng**, the riverside district centered on **Dihua Street**, was Taipei's commercial heart in the late 19th and early 20th centuries, when the area grew rich on tea, cloth and herbal medicine trade through the nearby Tamsui River port. Much of that era's architecture survives in a way few other parts of the city can match — Qing dynasty shophouses alongside Japanese colonial baroque-revival facades, many carefully restored rather than demolished during Taipei's broader modernization. Walking Dihua Street today still means passing dried-goods shops, herbal medicine dispensaries and fabric merchants whose businesses, in some cases, have operated from the same storefronts for generations.\n\nThe area avoids feeling like a preserved museum piece specifically because these are still working, family-run businesses rather than retail fronts built for tourists.",
+            tourCard: { slug: "taipei-dadaocheng-dihua-street-temple-walking-tour", title: "Taipei: Dadaocheng & Dihua Street & Temple Walking Tour", description: "A guided walk through the old quarter's shophouses and a nearby working temple.", price: "From $39", duration: "2 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1e1691519237b4ea9ec23e517b15ec654856d59ce80f87675df46559414d26b.jpg" },
+          },
+          {
+            title: "What to Buy and Eat",
+            content: "Dihua Street is the place to buy dried fruit, Chinese medicinal herbs, high-quality loose-leaf tea and traditional snacks like sun cakes and dried persimmons, often at prices and quality that beat what's sold in more tourist-facing shops elsewhere in the city. In the weeks before Lunar New Year, the street transforms into one of Taipei's busiest seasonal markets, with stalls spilling further out onto the sidewalks and crowds that can take real patience to move through — worth experiencing once, but go with lower expectations of a relaxed browse during that window.\n\nFood-wise, look beyond the dried-goods shops for small noodle and dumpling spots tucked into side streets, several of which have operated quietly for decades without much signage beyond a hand-painted sign.",
+            tourCard: { slug: "dadaocheng-walking-tour-of-taipeis-past-present", title: "Dadaocheng: Walking Tour of Taipei's Past & Present", description: "A deeper historical walk through the district's architecture and working shops.", price: "From $45", duration: "2.5 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1e1691519237b4ea9ec23e517b15ec654856d59ce80f87675df46559414d26b.jpg" },
+          },
+          {
+            title: "Getting There and Pairing It With Other Sights",
+            content: "Dadaocheng is reachable by a short walk from **Daqiaotou** or **Beimen MRT station**, or combined naturally with a visit to **Longshan Temple** and **Taipei 101** as part of a broader old-quarter-to-modern-skyline loop across the western and central city. The riverside Dadaocheng Wharf, a short walk from Dihua Street, is also worth a stop for its sunset views over the Tamsui River and a rotating lineup of small cafes and bars that have moved into the area's restored warehouses in recent years.\n\nBudget 1.5-2.5 hours for an unhurried walk through the main street and a side street or two, longer if you plan to sit down for tea or a meal along the way.",
+          },
+        ],
+        faqs: [
+          { q: "What is Dadaocheng known for?", a: "Restored Qing dynasty and Japanese colonial-era shophouses along Dihua Street, historically Taipei's center for tea, cloth and herbal medicine trade, with many of those businesses still operating today." },
+          { q: "How do I get to Dihua Street?", a: "A short walk from Daqiaotou or Beimen MRT station." },
+          { q: "What should I buy on Dihua Street?", a: "Dried fruit, Chinese medicinal herbs, loose-leaf tea and traditional snacks like sun cakes, generally at better prices and quality than more tourist-facing shops elsewhere." },
+          { q: "Is Dadaocheng busy during Lunar New Year?", a: "Yes, significantly — the street becomes one of the city's busiest seasonal markets in the weeks before the holiday, with heavier crowds than a normal visit." },
+        ],
+      };
+
+    case "beitou-hot-springs-guide":
+      return {
+        title: "Beitou Hot Springs Guide 2026: Bathhouses, Etiquette and What to Expect",
+        description: "Beitou has been Taipei's hot-spring district since the Japanese colonial era. Here's how public bathhouses and private hotel springs actually differ.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fb8ecdd3799b61e6b317f26aff64bda69434b789d0e131a1085ee9a6516fbabd.jpeg",
+        fastFacts: [
+          { icon: "MapPin", label: "Distance from city center", value: "Roughly 20 minutes by MRT" },
+          { icon: "Droplet", label: "Spring types", value: "White sulfur (milky, mild) and green sulfur (clear, more acidic)" },
+          { icon: "DollarSign", label: "Public bathhouse cost", value: "As low as NT$40-60 for basic public pools" },
+          { icon: "FileText", label: "Etiquette", value: "Shower thoroughly before entering; most public pools require full nudity, gender-separated" },
+        ],
+        sections: [
+          {
+            title: "A Hot-Spring District With a Century of History",
+            content: "**Beitou** became a hot-spring resort under Japanese colonial rule in the early 20th century, and the district still carries that era's architectural fingerprints — the restored **Beitou Hot Spring Museum**, originally a Japanese-era public bathhouse, is now a small museum you can tour (shoes off, as it once required of bathers) to see what the original facility looked like. The geothermal heat itself comes from the **Datun Volcano Group**, the same system feeding Yangmingshan's features nearby, and produces two distinct spring types: milky-white sulfur springs and clearer, more acidic green sulfur springs, each marketed slightly differently by the hotels and bathhouses that use them.",
+            tourCard: { slug: "taipei-4-hour-beitou-hot-springs-heritage-walking", title: "Taipei: 4-Hour Beitou Hot Springs & Heritage Walking Tour", description: "A guided walk through Beitou's thermal valley and historic bathhouse district before a soak.", price: "From $181", duration: "4 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fb8ecdd3799b61e6b317f26aff64bda69434b789d0e131a1085ee9a6516fbabd.jpeg" },
+          },
+          {
+            title: "Public Bathhouses vs. Private Hotel Rooms",
+            content: "Beitou's bathing options split cleanly into two categories. **Public bathhouses** are inexpensive — some basic municipal pools cost as little as NT$40-60 — but are gender-separated and generally require full nudity, following standard Japanese-influenced bathhouse etiquette: shower thoroughly before entering the pool, keep long hair tied up and out of the water, and don't bring towels or phones into the bathing area itself. **Private hotel spring rooms**, rented by time rather than per person, cost considerably more but allow mixed-gender groups, couples or families to bathe together, and typically come with a private tub fed by the same thermal water.\n\nFirst-timers uncomfortable with communal nudity should default to a private room rather than forcing a public bathhouse visit; neither option is considered the 'correct' or more authentic way to experience Beitou.",
+          },
+          {
+            title: "Thermal Valley, Timing and What to Bring",
+            content: "**Beitou Thermal Valley**, a visibly steaming, milky-green sulfur pool too hot to bathe in directly, is the district's free, walkable signature sight and worth a stop even if you're not planning to bathe elsewhere that day. Bring your own towel and flip-flops for public bathhouses (some provide rentals, but not always), and avoid bathing on a full stomach or after heavy alcohol, which is both poor etiquette and genuinely unwise given the water temperature.\n\nBeitou pairs naturally with a visit to nearby **Tamsui**'s riverside promenade for sunset, or with **Yangmingshan National Park** further up the same volcanic system for a combined hiking-and-bathing day.",
+          },
+        ],
+        faqs: [
+          { q: "Do I have to be naked at Beitou's public bathhouses?", a: "In most gender-separated public pools, yes, by standard local etiquette. Private hotel rooms, rented by time, are the alternative for mixed-gender groups or anyone who prefers not to bathe communally." },
+          { q: "How much does a Beitou hot spring cost?", a: "Basic public pools can cost as little as NT$40-60. Private hotel spring rooms cost considerably more but allow mixed-gender bathing in a private tub." },
+          { q: "What's the difference between white and green sulfur springs in Beitou?", a: "White sulfur springs are milky in appearance and milder; green sulfur springs are clearer and more acidic. Both are fed by the same Datun Volcano Group geothermal system." },
+          { q: "How do I get to Beitou from central Taipei?", a: "By MRT, roughly 20 minutes from the city center, with no transfer required on the main line." },
+        ],
+      };
+
+    case "taipei-budget-travel-guide":
+      return {
+        title: "Taipei on a Budget 2026: How Cheap It Actually Is",
+        description: "Taipei is one of the better value capitals in Asia for a visitor watching costs — here's where the savings are real and where they're not.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8daab221e31cf4b4164f0555ebea8bc61021f2fd4f1f8f934d28876f7386ed10.jpg",
+        fastFacts: [
+          { icon: "DollarSign", label: "Night market meal", value: "NT$60-150 (roughly US$2-5) per dish" },
+          { icon: "Train", label: "EasyCard fare savings", value: "Roughly 20% cheaper than paper tickets on the MRT" },
+          { icon: "Building", label: "Free sights", value: "Longshan Temple, Elephant Mountain, Beitou Thermal Valley, Dadaocheng's streets" },
+          { icon: "Home", label: "Budget hostel bed", value: "Roughly US$15-25 per night in the city center" },
+        ],
+        sections: [
+          {
+            title: "Food Is Where Taipei's Value Is Most Obvious",
+            content: "Taipei's night market economy means a genuinely good meal rarely costs more than a few dollars — most individual stall dishes run **NT$60-150, roughly US$2-5**, and a full night's worth of grazing across several stalls at Shilin, Raohe or Ningxia typically lands under US$15 even eating generously. This isn't a compromise on quality; night market food is a core part of Taiwanese food culture, not a cheap substitute for 'real' restaurants, and some of the city's most locally beloved dishes (beef noodle soup, oyster omelets, the Shilin fried chicken cutlet) are built around this price point by design, not by budget necessity.\n\nSit-down restaurants and Din Tai Fung-tier dining cost more, but even mid-range Taipei restaurants are noticeably cheaper than equivalent quality in Tokyo, Hong Kong or Singapore.",
+            tourCard: { slug: "taipei-2-hour-raohe-night-market-walking-tour", title: "Taipei: 2-Hour Raohe Night Market Walking Tour", description: "A guided night market walk that maximizes value by skipping the mediocre stalls.", price: "From $78", duration: "2 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9a93e9c213f8958b4ec19e656eddff00cf009f5799d4da38df6f883acb67576b.png" },
+          },
+          {
+            title: "Transport and Free Sights",
+            content: "An **EasyCard** cuts MRT fares roughly 20% below paper ticket prices and covers buses too, making public transit the clear cost-effective choice over taxis for almost every trip within the city. A number of Taipei's best sights cost nothing at all: **Longshan Temple** is free to enter, the **Elephant Mountain** hike is an unticketed public trail, **Beitou Thermal Valley** is a free walkway, and simply wandering **Dadaocheng**'s old streets or a night market costs only what you choose to spend on food.\n\nTaipei 101's observatory and the National Palace Museum are the main paid exceptions among the headline sights, and both are reasonably priced relative to comparable attractions elsewhere in Asia.",
+          },
+          {
+            title: "Accommodation and Realistic Daily Budgets",
+            content: "Budget hostel beds in central Taipei run roughly **US$15-25 per night**, and clean, simple guesthouse or budget hotel rooms are available from around US$35-50. Combined with cheap night market food and EasyCard-discounted transit, a genuinely frugal daily budget of US$35-50 covers accommodation, food and local transport for most budget-conscious travelers, with day trips (Jiufen, Beitou) adding modest extra cost on top via bus or train fares rather than requiring an expensive tour every time.\n\nWhere costs rise fastest: private day-trip tours, fast-track attraction tickets, and alcohol at bars rather than convenience stores — all avoidable if cost matters more than convenience.",
+          },
+        ],
+        faqs: [
+          { q: "Is Taipei cheap to visit?", a: "Relative to Tokyo, Hong Kong or Singapore, yes — night market meals cost a few dollars, EasyCard transit is discounted and efficient, and several top sights (Longshan Temple, Elephant Mountain, Beitou Thermal Valley) are free." },
+          { q: "What's a realistic daily budget for Taipei?", a: "Roughly US$35-50 per day covers budget accommodation, night market food and EasyCard-discounted local transport for a frugal traveler." },
+          { q: "What are the free things to do in Taipei?", a: "Longshan Temple, the Elephant Mountain hike, Beitou Thermal Valley, and walking the old streets of Dadaocheng or any night market (food itself isn't free, but entry and browsing are)." },
+          { q: "Does the EasyCard actually save money?", a: "Yes — EasyCard fares on the MRT run roughly 20% cheaper than single-journey paper tickets, and it also works on buses." },
+        ],
+      };
+
+    case "taipei-luxury-travel-guide":
+      return {
+        title: "Luxury Taipei 2026: High-End Hotels, Private Tours and Fine Dining",
+        description: "Taipei's luxury tier is quieter and less flashy than Hong Kong's or Singapore's, but it's genuinely there — here's where the money goes well.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1c6e6382cd4e43257d35e28c523c9ac75b5c4bd79122f4ce9656a2ca3ef3fbd4.png",
+        fastFacts: [
+          { icon: "Star", label: "Known for", value: "High-end private dining, premium chauffeured day tours, understated five-star hotels" },
+          { icon: "MapPin", label: "Fine dining district", value: "Xinyi, around Taipei 101" },
+          { icon: "Utensils", label: "Michelin presence", value: "Multiple starred restaurants, including Taiwanese and Cantonese fine dining" },
+          { icon: "Car", label: "Private transport", value: "Premium sedan/van charters common for full-day private touring" },
+        ],
+        sections: [
+          {
+            title: "A Quieter, More Food-Focused Luxury Scene",
+            content: "Taipei's luxury travel identity is less about flash than Hong Kong's harbor-view hotels or Singapore's branded towers, and more about an exceptional, understated fine-dining scene and genuinely attentive five-star hospitality. The **Xinyi district**, anchored by Taipei 101, holds the densest concentration of high-end hotels and restaurants, including multiple **Michelin-starred** establishments covering everything from refined Taiwanese cuisine to Cantonese and French fine dining. The city's top hotels lean toward understated design and exceptional service over the most ostentatious lobbies, which matches a broader Taiwanese hospitality style that prizes attentiveness over spectacle.",
+          },
+          {
+            title: "Private Touring and Chauffeured Days",
+            content: "A premium sedan or van charter with a private driver is the standard way to do Taipei at the luxury tier — covering Jiufen, Beitou or a multi-stop city day without any public-transit logistics, on a schedule set entirely by the traveler rather than a group tour's timetable. This matters more in Taipei than in some destinations because several of the best day trips (Jiufen, Yangmingshan, Wulai) involve winding mountain roads where a private, air-conditioned vehicle with a driver who knows the route well is a genuine upgrade over a public bus, not just a comfort indulgence.",
+            tourCard: { slug: "taipei-private-guided-tour-by-premium-sedanvan", title: "Taipei: Private Guided Tour by Premium Sedan/Van", description: "A fully private, chauffeured day built around whatever itinerary you set.", price: "From $350", duration: "Full day", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1c6e6382cd4e43257d35e28c523c9ac75b5c4bd79122f4ce9656a2ca3ef3fbd4.png" },
+          },
+          {
+            title: "Where the Spending Actually Pays Off",
+            content: "The clearest luxury upgrades in Taipei are a premium Taipei 101 observatory experience with the open-air 'Skyline' tier, a private driver for multi-stop day trips, reservations at one of the city's Michelin-starred restaurants (book well ahead, especially for Taiwanese tasting-menu spots), and a private Maokong Gondola or teahouse experience away from the general public cabin queue. Luxury hotel spa packages, including private Beitou hot spring suites at five-star properties, are also a genuine step up from the public bathhouse experience for travelers specifically prioritizing privacy and comfort over the more communal, cheaper version.\n\nWhat doesn't scale with spending: night market food, which is excellent regardless of budget tier and arguably loses something in a formalized, white-tablecloth version.",
+          },
+        ],
+        faqs: [
+          { q: "Does Taipei have a serious fine-dining scene?", a: "Yes — Xinyi district holds multiple Michelin-starred restaurants spanning Taiwanese, Cantonese and French cuisine, alongside a broader scene of highly regarded independent restaurants." },
+          { q: "Is a private driver worth it in Taipei?", a: "For multi-stop day trips like Jiufen or Yangmingshan, yes — it removes public-transit logistics on routes that often involve winding mountain roads, and runs on your own schedule rather than a group tour's." },
+          { q: "What's a worthwhile luxury upgrade at Taipei 101?", a: "The premium open-air 'Skyline' observatory tier, for travelers who specifically want an exposed, higher vantage point beyond the standard enclosed 89th-floor deck." },
+          { q: "Can you get a private hot spring experience in Beitou?", a: "Yes — several five-star hotels in Beitou offer private spring suites, a step up in privacy and comfort from the public bathhouse option." },
+        ],
+      };
+
+    case "keelung-day-trip-guide":
+      return {
+        title: "Keelung Day Trip from Taipei 2026: The Port City Guide",
+        description: "Keelung is both a cruise port and a genuine day-trip destination in its own right, built around its famous Miaokou night market and a working harbor.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9a93e9c213f8958b4ec19e656eddff00cf009f5799d4da38df6f883acb67576b.png",
+        fastFacts: [
+          { icon: "MapPin", label: "Distance from Taipei", value: "Roughly 45-60 minutes by train or bus" },
+          { icon: "Ship", label: "Also known for", value: "A major cruise port — many shore excursions start here" },
+          { icon: "Utensils", label: "Signature stop", value: "Miaokou Night Market, one of Taiwan's most famous food markets" },
+          { icon: "MapPin", label: "Nearby pairing", value: "Yehliu Geopark's rock formations, a short distance further" },
+        ],
+        sections: [
+          {
+            title: "A Working Port City, Not a Polished Tourist Town",
+            content: "**Keelung** sits on Taiwan's northern coast, roughly 45-60 minutes from Taipei by train or bus, and functions as both a genuine cruise port — a meaningful share of visitors arrive here specifically on a shore excursion day — and a worthwhile independent day trip for anyone based in Taipei. Unlike Jiufen's postcard prettiness, Keelung reads as a real, working harbor city, which gives it a different, less staged character: fishing boats, a functioning container port, and a downtown built around decades of maritime trade rather than a curated old-street experience.",
+            tourCard: { slug: "keelung-shore-excursion-taipei-city-one-day-tour", title: "Keelung Shore Excursion: Taipei City One Day Tour", description: "Built for cruise arrivals, covering Taipei's highlights in the window a port call allows.", price: "From $120", duration: "8 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9a93e9c213f8958b4ec19e656eddff00cf009f5799d4da38df6f883acb67576b.png" },
+          },
+          {
+            title: "Miaokou Night Market: Keelung's Main Event",
+            content: "**Miaokou Night Market**, named for the temple at one end of the street, is consistently ranked among Taiwan's best night markets by locals, built around a compact, walkable strip dense with long-running food stalls rather than Shilin's sprawl. Specialties worth seeking out include tempura-style fried fish cakes, a thick seafood soup called 'ding bian hu', and braised pork rice variations distinct from the Taipei versions. Because Keelung sees fewer international tourists than Taipei's major markets, prices and the overall pace feel a notch more local, even though the market is well known within Taiwan itself.",
+            tourCard: { slug: "keelung-guided-walking-tour-with-snacks-and-drink", title: "Keelung: Guided Walking Tour with Snacks and Drink", description: "A guided walk through Keelung's harbor and Miaokou market with a local pointing out the specialties.", price: "From $55", duration: "3 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9a93e9c213f8958b4ec19e656eddff00cf009f5799d4da38df6f883acb67576b.png" },
+          },
+          {
+            title: "Pairing Keelung With Yehliu and the Northeast Coast",
+            content: "Keelung sits naturally on the way to **Yehliu Geopark**, famous for its wind-and-wave-carved rock formations including the 'Queen's Head', making it easy to combine both into a single northeast-coast day rather than treating Keelung as a standalone trip. If you're arriving by cruise ship on a shore excursion, most operators build a combined itinerary covering Keelung's harbor area and a transfer into central Taipei for the headline sights, given the limited window a port call typically allows.\n\nIndependent travelers based in Taipei can reach Keelung directly by train from Taipei Main Station, making it one of the more straightforward rail day trips in the region without needing a bus transfer.",
+          },
+        ],
+        faqs: [
+          { q: "How far is Keelung from Taipei?", a: "Roughly 45-60 minutes by train or bus, making it a straightforward half-day or full-day trip." },
+          { q: "What is Keelung known for?", a: "Its working harbor, status as a major cruise port, and Miaokou Night Market, consistently ranked among Taiwan's best food markets." },
+          { q: "Can I combine Keelung with Yehliu Geopark?", a: "Yes — Keelung sits naturally on the route to Yehliu's famous rock formations, and many day trips combine both into a single northeast-coast itinerary." },
+          { q: "Do cruise ships stop in Keelung?", a: "Yes, Keelung is a major cruise port for northern Taiwan, and many shore excursions use it as the gateway into central Taipei." },
+        ],
+      };
+
+    case "sun-moon-lake-day-trip":
+      return {
+        title: "Sun Moon Lake Day Trip from Taipei 2026: Is It Worth the Distance?",
+        description: "Taiwan's largest lake sits in the central mountains, a genuinely long way from Taipei — here's the honest travel time and whether a day trip makes sense.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5adf02b9a92dc2465d171e149d64887572c8c7932681c4c9d489fdaec9cb52c6.jpg",
+        fastFacts: [
+          { icon: "MapPin", label: "Distance from Taipei", value: "Roughly 3-3.5 hours each way by bus or high-speed rail plus transfer" },
+          { icon: "Droplet", label: "What it is", value: "Taiwan's largest natural lake, in the central Nantou mountains" },
+          { icon: "Clock", label: "Honest day length", value: "12+ hours round trip for a single-day visit" },
+          { icon: "Ship", label: "Signature activity", value: "A boat cruise across the lake, stopping at Ita Thao and Xuanguang Temple" },
+        ],
+        sections: [
+          {
+            title: "Taiwan's Largest Lake, Deep in the Central Mountains",
+            content: "**Sun Moon Lake**, in Nantou County in Taiwan's central mountains, is the island's largest natural lake and one of its most photographed landscapes — named for the contrasting round (sun) and crescent (moon) shapes of its two halves, split by Lalu Island near the center. The lake is surrounded by forested hills and several cultural sites tied to the local indigenous Thao people, including the lakeside village of **Ita Thao**, and the hillside **Wenwu Temple** and **Xuanguang Temple**, both popular boat-cruise stops.\n\nThe lake's main appeal is the combination of scenery and a slower pace than Taipei — a boat ride across calm water framed by mountains, rather than a single specific landmark to check off.",
+            tourCard: { slug: "from-taipei-private-sun-moon-lake-tour-with-boat", title: "From Taipei: Private Sun Moon Lake Tour with Boat Cruise", description: "A private day trip that handles the long transfer and includes the signature lake cruise.", price: "From $420", duration: "12 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5adf02b9a92dc2465d171e149d64887572c8c7932681c4c9d489fdaec9cb52c6.jpg" },
+          },
+          {
+            title: "The Honest Travel Time, and Whether a Day Trip Makes Sense",
+            content: "Sun Moon Lake sits roughly **3 to 3.5 hours** from Taipei each way by direct bus, or by high-speed rail to Taichung followed by a connecting bus — there's no direct train to the lake itself. A single-day round trip adds up to **12 or more hours**, including boat-cruise and sightseeing time at the lake, which makes this one of the longer day trips offered out of Taipei and a genuinely tiring one if you're also planning a full day in the city before or after.\n\nFor travelers with a flexible itinerary, pairing Sun Moon Lake with **Alishan** as a 2-3 day loop through central Taiwan, rather than a single exhausting day from Taipei, gets considerably more out of the region without the same round-trip time penalty.",
+            tourCard: { slug: "from-taipei-city-3-day-sun-moon-lake-alishan", title: "From Taipei City: 3-Day Sun Moon Lake & Alishan Private Tour", description: "The unhurried version, covering both central Taiwan highlights without a single-day time crunch.", price: "From $1200", duration: "3 days", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5adf02b9a92dc2465d171e149d64887572c8c7932681c4c9d489fdaec9cb52c6.jpg" },
+          },
+          {
+            title: "What to Do Once You're There",
+            content: "The boat cruise, stopping at **Ita Thao** village, **Xuanguang Temple** and **Shuishe Pier**, is the standard way to see the lake and covers its main sights in a few hours. Cyclists rate the lake's paved bikeway, considered one of Taiwan's best, as a genuine highlight if time allows a longer visit. Ita Thao village itself has a small market and food stalls reflecting Thao indigenous culture, worth a slower look rather than a rushed stop between boat departures.\n\nIf you do commit to the single-day version from Taipei, prioritize the boat cruise and one of the two temples over trying to add a lakeside hike, given how much of the day the round-trip transfer already consumes.",
+          },
+        ],
+        faqs: [
+          { q: "How far is Sun Moon Lake from Taipei?", a: "Roughly 3-3.5 hours each way by direct bus or high-speed rail to Taichung plus a connecting bus. There's no direct train to the lake." },
+          { q: "Is a Sun Moon Lake day trip from Taipei worth it?", a: "It's doable but genuinely long — 12 or more hours round trip. If your schedule allows it, pairing the lake with Alishan over 2-3 days gets considerably more out of the region for similar total effort." },
+          { q: "What is there to do at Sun Moon Lake?", a: "A boat cruise stopping at Ita Thao village, Xuanguang and Wenwu temples, plus one of Taiwan's best-rated paved cycling routes around the lakeshore." },
+          { q: "What is Ita Thao?", a: "A lakeside village tied to the local indigenous Thao people, with a small market and food stalls, and a regular stop on the Sun Moon Lake boat cruise." },
+        ],
+      };
+
+    case "alishan-day-trip-guide":
+      return {
+        title: "Alishan Day Trip and Overnight Guide 2026: The Sunrise Mountain Railway",
+        description: "Alishan's alpine forests and narrow-gauge railway are one of Taiwan's signature mountain experiences — but the famous sunrise viewing really needs an overnight.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5e8e7383b8959d017c2c556c35fc260a4d3f00951741841d604f808adba4e41a.jpeg",
+        fastFacts: [
+          { icon: "Mountain", label: "What it is", value: "A high-altitude national scenic area in central Taiwan, roughly 2,200m elevation" },
+          { icon: "Train", label: "Signature feature", value: "The historic narrow-gauge Alishan Forest Railway" },
+          { icon: "Sun", label: "Famous for", value: "Sunrise viewing from Zhushan, and a 'sea of clouds' below the peaks" },
+          { icon: "Clock", label: "Honest recommendation", value: "An overnight, not a day trip, if sunrise viewing matters to you" },
+        ],
+        sections: [
+          {
+            title: "Alpine Forest, a Historic Railway and a Famous Sunrise",
+            content: "**Alishan**, a national scenic area in Taiwan's central mountains at roughly 2,200 meters elevation, is known for ancient cypress and cedar forest trails, cool mountain air that's a genuine relief from Taipei's lowland humidity, and the **Alishan Forest Railway**, a narrow-gauge line built originally for logging during the Japanese colonial era and now run as a scenic passenger service through switchbacks and forest. The area's most famous single experience is the **sunrise viewing point at Zhushan**, where visitors gather before dawn to watch the sun rise over a 'sea of clouds' settled in the valleys below — a genuinely spectacular sight on a clear morning, and one of Taiwan's most iconic mountain images.",
+          },
+          {
+            title: "Why This One Really Needs an Overnight",
+            content: "Alishan sits far enough from Taipei, and the sunrise viewing happens early enough before dawn, that a genuine single-day round trip from Taipei can't realistically include it — the logistics require either an overnight in or near the scenic area, or accepting that you'll see Alishan's forests and railway without the sunrise. Most operators sell this honestly as a **2-day** trip: travel and afternoon arrival on day one, a pre-dawn sunrise viewing and forest walk on day two before heading back. Treat any itinerary promising a same-day Taipei-to-Alishan-sunrise-and-back trip with real skepticism; the geography doesn't support it comfortably.",
+            tourCard: { slug: "from-taipei-alishan-2-days-private-tour", title: "From Taipei: Alishan 2 Days Private Tour", description: "The honest version — an overnight that actually allows time for the sunrise viewing.", price: "From $890", duration: "2 days", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5e8e7383b8959d017c2c556c35fc260a4d3f00951741841d604f808adba4e41a.jpeg" },
+          },
+          {
+            title: "Combining Alishan With Sun Moon Lake",
+            content: "Because both destinations sit in Taiwan's central region and require a similarly long transfer from Taipei, combining **Alishan and Sun Moon Lake** into a single 3-day trip is the most efficient way to see both without doubling up on travel time. This also spreads the sunrise-viewing early wake-up across a fuller itinerary rather than making it the sole purpose of an overnight stay. Pack warm layers regardless of season — Alishan's altitude means noticeably cooler temperatures than lowland Taiwan, especially before dawn at the sunrise viewpoint.",
+            tourCard: { slug: "from-taipei-private-3-day-tour-to-sun-moon", title: "From Taipei: Private 3-Day Tour to Sun Moon Lake and Alishan", description: "Both central Taiwan highlights in one trip, sharing the long transfer time efficiently.", price: "From $1350", duration: "3 days", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5adf02b9a92dc2465d171e149d64887572c8c7932681c4c9d489fdaec9cb52c6.jpg" },
+          },
+        ],
+        faqs: [
+          { q: "Can you see Alishan's sunrise on a day trip from Taipei?", a: "Realistically, no — the distance and the pre-dawn timing of the sunrise viewing require an overnight in or near the scenic area. Treat any same-day promise with skepticism." },
+          { q: "What is the Alishan Forest Railway?", a: "A historic narrow-gauge railway originally built for logging during the Japanese colonial era, now run as a scenic passenger line through the area's switchbacks and forest." },
+          { q: "How cold is it at Alishan?", a: "Noticeably cooler than lowland Taiwan given the roughly 2,200m elevation, especially before dawn — pack warm layers regardless of the season you're visiting." },
+          { q: "Should I combine Alishan with Sun Moon Lake?", a: "Yes, if your schedule allows — both sit in the same central region, so combining them into a 3-day trip is more efficient than two separate long trips from Taipei." },
+        ],
+      };
+
+    case "taipei-7-day-itinerary":
+      return {
+        title: "The Perfect 7-Day Taiwan Itinerary (2026): Taipei Plus the Rest of the Island",
+        description: "A week gives Taipei's 3-day core room to extend into Sun Moon Lake, Alishan or Taroko Gorge — here's how to structure the full week without rushing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1e47d3f0f962cc7bd362da4d85a5ae1f321fceebb78a91f3c8ffaa921ddf757.jpg",
+        sections: [
+          {
+            title: "Days 1-3: The Taipei Core",
+            content: "Follow the 3-day Taipei itinerary as the foundation of the week: temples, Taipei 101 and a night market on day one, Jiufen and Shifen on day two, Beitou's hot springs and Yangmingshan on day three. This covers Taipei's genuine essentials thoroughly rather than skimming them to rush toward the rest of the island, and it's worth resisting the urge to compress this into two days just to free up more time elsewhere — Taipei rewards the full three.",
+          },
+          {
+            title: "Days 4-5: Central Taiwan — Sun Moon Lake and Alishan",
+            content: "Use a high-speed rail connection or a long-distance bus to reach **Taichung** or directly toward **Nantou**, and spend two days covering **Sun Moon Lake**'s boat cruise and **Alishan**'s forest railway and sunrise viewing — the pairing we recommend over attempting either as an exhausting single day from Taipei. This is also the point in the trip where the pace shifts from Taipei's density to Taiwan's slower, greener interior, which is a meaningful contrast most visitors comment on afterward.",
+            tourCard: { slug: "from-taipei-private-3-day-tour-to-sun-moon", title: "From Taipei: Private 3-Day Tour to Sun Moon Lake and Alishan", description: "Covers both central Taiwan highlights; adapt to 2 days if your week is tighter elsewhere.", price: "From $1350", duration: "3 days", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5adf02b9a92dc2465d171e149d64887572c8c7932681c4c9d489fdaec9cb52c6.jpg" },
+          },
+          {
+            title: "Days 6-7: Hualien and Taroko Gorge, or Back to Taipei for a Slower Finish",
+            content: "If your route and transport allow it, close the trip with **Taroko Gorge** near Hualien — ideally as an overnight rather than a rushed day trip, given how much of a single day the transfer alone consumes. Alternatively, if logistics make a return to Taipei more practical from wherever central Taiwan left you, spend the final two days back in the city on anything the first three days didn't cover: a proper National Palace Museum visit, Ximending, Dadaocheng's streets at a slower pace, or a second attempt at Elephant Mountain if the weather wasn't cooperative the first time.\n\nEither version closes a full week well; which one fits depends more on your return flight's airport and your tolerance for one more long transfer day.",
+            tourCard: { slug: "from-taipei-two-day-journey-through-hualien-and", title: "From Taipei: Two-Day Journey Through Hualien and Yilan Trip", description: "An overnight structure for Taroko Gorge and the east coast, removing the single-day time crunch.", price: "From $980", duration: "2 days", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/914e6dd4cbb598a32d3d83becf65282b1eca7473b0710116e60936d530f99cef.jpeg" },
+          },
+        ],
+        faqs: [
+          { q: "Is 7 days enough to see Taiwan beyond Taipei?", a: "It's enough for a well-paced trip combining Taipei's 3-day core with 2 days in central Taiwan (Sun Moon Lake and Alishan) and 2 more for either Taroko Gorge or a slower Taipei finish — not enough to also add the south or east coast in depth." },
+          { q: "Should I spend all 7 days in Taipei instead?", a: "Only if you'd genuinely rather go deep on the city than see the rest of the island — Taipei alone can absorb a week, but most first-time visitors get more out of splitting time between the capital and at least one of the central mountain regions." },
+          { q: "What's the most efficient way to see Sun Moon Lake and Alishan in a week-long trip?", a: "Treat them as a single 2-day central Taiwan block via high-speed rail to Taichung, rather than two separate trips from Taipei." },
+          { q: "Is Taroko Gorge worth adding to a 7-day Taiwan trip?", a: "Yes, if your route allows an overnight near Hualien rather than squeezing it into a single exhausting day — it's one of Taiwan's most dramatic landscapes." },
+        ],
+      };
+
+    case "taiwan-high-speed-rail-guide":
+      return {
+        title: "Taiwan High-Speed Rail Guide 2026: Booking, Routes and Whether It's Worth It",
+        description: "Taiwan's bullet train connects Taipei to the west coast in a fraction of the drive time. Here's how booking actually works and which routes matter for visitors.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1e47d3f0f962cc7bd362da4d85a5ae1f321fceebb78a91f3c8ffaa921ddf757.jpg",
+        fastFacts: [
+          { icon: "Train", label: "Top speed", value: "Up to 300 km/h" },
+          { icon: "Clock", label: "Taipei to Taichung", value: "Roughly 50 minutes" },
+          { icon: "Clock", label: "Taipei to Kaohsiung", value: "Roughly 1.5-2 hours" },
+          { icon: "Ticket", label: "Booking", value: "Official THSR website or app, up to 28 days ahead; standby fares for same-day travel" },
+        ],
+        sections: [
+          {
+            title: "What the THSR Covers, and What It Doesn't",
+            content: "Taiwan's **High Speed Rail (THSR)** runs down the island's west coast, connecting Taipei to Taoyuan, Hsinchu, Taichung, Tainan and Kaohsiung at speeds up to 300 km/h, cutting a drive that could take 4-5 hours down to **under 2 hours** end to end. It's the fastest and most comfortable way to reach Taichung (for Sun Moon Lake and Alishan connections) or the southern cities from Taipei. What it doesn't cover is the east coast — Hualien and Taroko Gorge are reached by a separate conventional rail line (the TRA), not the THSR, since the mountainous eastern geography has made a high-speed line there impractical to build.\n\nStations sit outside some city centers (THSR Taichung, for instance, is separate from the conventional Taichung rail station, requiring a short transfer), which is worth factoring into connection times.",
+          },
+          {
+            title: "Booking: Easier Than It Looks",
+            content: "Tickets can be booked online through the official **THSR website or app** up to 28 days in advance, with English-language booking fully supported and no need for a Taiwan phone number or local payment method for most booking paths. Walk-up and standby tickets are also available at stations for same-day travel, though reserved seats on popular routes and times (Friday evenings, holiday weekends) can sell out, so booking ahead is worth it if your schedule is fixed. A rail pass covering multiple days of THSR travel exists for visitors planning several inter-city trips, though it only pays off if you're making more than two or three rides during your visit.\n\nSeat classes are straightforward: standard cars and a pricier Business car with wider seats and a quieter cabin, plus a dedicated car for passengers with large luggage on some routes.",
+            tourCard: { slug: "taipei-taipei-hualien-one-day-tour", title: "Taipei: Taipei-Hualien One Day Tour", description: "Uses the conventional TRA line rather than the THSR, since Hualien sits outside the high-speed network.", price: "From $485", duration: "1 day", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/914e6dd4cbb598a32d3d83becf65282b1eca7473b0710116e60936d530f99cef.jpeg" },
+          },
+          {
+            title: "When the THSR Is Actually Worth It for a Visitor",
+            content: "For a Taipei-based trip extending to **Sun Moon Lake, Alishan or Kaohsiung**, the THSR is close to essential — the time saved over a bus is substantial, and the comfort difference on a multi-hour journey matters. For destinations the THSR doesn't reach directly (Jiufen, Beitou, Yangmingshan, Hualien), it's irrelevant; those are MRT, bus or conventional-rail trips instead. Budget the short transfer time at THSR stations that sit outside city centers, and don't assume every THSR stop drops you exactly where you want to be without a connecting ride.",
+          },
+        ],
+        faqs: [
+          { q: "Does Taiwan's high-speed rail go to Hualien or Taroko Gorge?", a: "No — the east coast is served by a separate conventional rail line (TRA), not the THSR. The mountainous terrain has made a high-speed line to the east coast impractical." },
+          { q: "How do I book THSR tickets?", a: "Through the official THSR website or app, up to 28 days in advance, with full English-language support. Walk-up and standby tickets are also available at stations for same-day travel." },
+          { q: "How long does Taipei to Taichung take by THSR?", a: "Roughly 50 minutes, compared to several hours by car or conventional bus." },
+          { q: "Is a Taiwan rail pass worth buying?", a: "Only if you're making more than two or three THSR trips during your visit — for a single round trip, buying individual tickets is usually simpler and not meaningfully more expensive." },
+        ],
+      };
+
+    case "taipei-coffee-culture-guide":
+      return {
+        title: "Taipei Coffee Culture Guide 2026: Specialty Shops and the City's Cafe Scene",
+        description: "Taipei's coffee scene has grown into one of Asia's more serious specialty markets, with a strong parallel culture of slow, design-forward independent cafes.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1e1691519237b4ea9ec23e517b15ec654856d59ce80f87675df46559414d26b.jpg",
+        fastFacts: [
+          { icon: "Coffee", label: "Known for", value: "A dense independent specialty-coffee scene, strong in third-wave roasting" },
+          { icon: "MapPin", label: "Dense cafe districts", value: "Da'an, Zhongshan, and the Dadaocheng old quarter" },
+          { icon: "DollarSign", label: "Typical specialty coffee price", value: "NT$120-200 (roughly US$4-6.50)" },
+          { icon: "Building", label: "Café style", value: "Ranges from minimalist third-wave bars to restored old shophouses" },
+        ],
+        sections: [
+          {
+            title: "A Specialty Scene That Grew Up Fast",
+            content: "Taipei's coffee culture has developed into one of the more serious specialty-coffee markets in Asia over roughly the past decade, driven by a wave of independent roasters and baristas who've competed internationally, including Taiwanese representation at the World Barista Championship. The scene isn't concentrated in one tourist-facing strip; it's spread across neighborhoods, with **Da'an district** holding a particularly dense cluster of small, design-conscious cafes, many run by owner-baristas who roast their own beans or source carefully from small international roasters.\n\nThis matters for visitors because it means a genuinely good cup of coffee is easy to find without hunting for a single famous address — the depth of the scene is broad rather than concentrated in a handful of landmark cafes.",
+          },
+          {
+            title: "Old Shophouses Turned Into Cafes",
+            content: "Alongside the minimalist third-wave bars, Taipei has a parallel strand of cafes set inside restored old buildings — particularly in **Dadaocheng**, where several Qing-and-Japanese-era shophouses along and near Dihua Street have been converted into slow, atmospheric cafes that lean into the architecture rather than hiding it. These spots tend to be slower-paced than the espresso-bar style common in Da'an, better suited to sitting with a book or a conversation for an hour than a quick takeaway order.\n\nTaiwan also grows its own coffee in small quantities, mainly in the mountains around Yunlin and Chiayi counties, and a handful of Taipei cafes specifically feature Taiwan-grown beans as a point of pride, worth seeking out if you want something distinct from the imported-bean norm.",
+            tourCard: { slug: "dadaocheng-walking-tour-of-taipeis-past-present", title: "Dadaocheng: Walking Tour of Taipei's Past & Present", description: "A walk through the old quarter that naturally passes several of its restored shophouse cafes.", price: "From $45", duration: "2.5 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1e1691519237b4ea9ec23e517b15ec654856d59ce80f87675df46559414d26b.jpg" },
+          },
+          {
+            title: "What to Expect Price- and Etiquette-Wise",
+            content: "A specialty pour-over or espresso drink typically runs **NT$120-200, roughly US$4-6.50**, noticeably more than a convenience-store coffee but in line with specialty pricing elsewhere in the region. Many independent cafes, especially smaller ones, limit laptop use or working sessions during busy hours, or charge a modest minimum spend for longer stays — a sign of the scene's seriousness about hospitality and table turnover rather than an unusual restriction, and worth checking a shop's posted policy before settling in for a multi-hour work session.",
+          },
+        ],
+        faqs: [
+          { q: "Is Taipei known for good coffee?", a: "Yes — it has one of the more developed specialty-coffee scenes in Asia, with independent roasters and baristas who've competed internationally, concentrated especially in the Da'an district." },
+          { q: "How much does specialty coffee cost in Taipei?", a: "Roughly NT$120-200, about US$4-6.50, for a specialty pour-over or espresso drink at an independent cafe." },
+          { q: "Does Taiwan grow its own coffee?", a: "Yes, in small quantities, mainly in the mountains around Yunlin and Chiayi counties. A handful of Taipei cafes specifically feature Taiwan-grown beans." },
+          { q: "Where are Taipei's best cafe districts?", a: "Da'an district for a dense cluster of minimalist specialty-coffee bars, and Dadaocheng for slower, atmospheric cafes set inside restored old shophouses." },
+        ],
+      };
+
+    case "taipei-lgbtq-friendly-guide":
+      return {
+        title: "LGBTQ+ Travel in Taipei 2026: Taiwan's Status as Asia's Most Progressive Country",
+        description: "Taiwan legalized same-sex marriage in 2019, the first in Asia, and Taipei hosts the region's largest Pride parade. Here's what that means for visiting travelers.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/07ee1f514ef3b84e0c0c0781cfcb37438fdee4f2e95d15bbe98e93c4ba3e6274.jpeg",
+        fastFacts: [
+          { icon: "FileText", label: "Legal status", value: "Same-sex marriage legal since May 2019 — the first in Asia" },
+          { icon: "Users", label: "Pride parade", value: "Taiwan Pride, held in Taipei each autumn — the largest in Asia" },
+          { icon: "MapPin", label: "LGBTQ+ nightlife district", value: "Red House area, Ximending" },
+          { icon: "Heart", label: "General attitude", value: "Widely considered Asia's most socially progressive country on LGBTQ+ issues" },
+        ],
+        sections: [
+          {
+            title: "Taiwan's Legal and Social Standing",
+            content: "Taiwan became the **first place in Asia** to legalize same-sex marriage, in May 2019, following a 2017 constitutional court ruling and a subsequent legislative process. This legal milestone reflects a broader social position: Taiwan is widely regarded, including by LGBTQ+ advocacy organizations, as the most socially progressive country in Asia on LGBTQ+ issues, with anti-discrimination protections, visible public support, and a political mainstream that includes openly LGBTQ+ legislators. This doesn't mean every corner of Taiwanese society is uniformly accepting — older generations and more conservative families can hold more traditional views — but visitors, including same-sex couples, generally report Taipei as a comfortable, low-friction destination with little of the overt difficulty some other Asian capitals present.",
+          },
+          {
+            title: "Taiwan Pride and the Red House Scene",
+            content: "**Taiwan Pride**, held in Taipei each autumn, is the largest Pride event in Asia by attendance, drawing both domestic and international visitors and functioning as a genuine city-wide celebration rather than a small gathering. Outside Pride season, Taipei's LGBTQ+ nightlife centers on the area around the **Red House** in Ximending, a historic octagonal building now surrounded by bars, cafes and a small weekend market with a strong LGBTQ+-owned and LGBTQ+-friendly business presence. This gives visitors a reliable, concentrated area to find community-oriented venues rather than needing to search across the whole city.",
+            tourCard: { slug: "ximending-private-photoshoot-with-taipei", title: "Ximending: Private Photoshoot with Taipei Photographer", description: "Covers the Ximending district, including the Red House area, as part of a guided photo session.", price: "From $150", duration: "1 hour", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/07ee1f514ef3b84e0c0c0781cfcb37438fdee4f2e95d15bbe98e93c4ba3e6274.jpeg" },
+          },
+          {
+            title: "Practical Notes for LGBTQ+ Travelers",
+            content: "Hotel bookings for same-sex couples are routine and uneventful in Taipei, and public displays of affection, while still more common among younger generations generally across Taiwanese society regardless of orientation, don't draw the kind of attention they might in more conservative parts of Asia. Outside the capital, attitudes can be somewhat more conservative in smaller towns and rural areas, though this is a difference of degree rather than a meaningfully unsafe situation — nothing on the order of destinations where LGBTQ+ travelers need to actively plan around legal risk.\n\nFor specific venue recommendations beyond the Red House area, LGBTQ+ travel community resources and apps tend to stay current with Taipei's nightlife turnover better than a static guide can.",
+          },
+        ],
+        faqs: [
+          { q: "Is Taiwan safe for LGBTQ+ travelers?", a: "Yes — Taiwan is widely regarded as Asia's most socially progressive country on LGBTQ+ issues, with same-sex marriage legal since 2019 and strong anti-discrimination protections. Taipei specifically is considered a comfortable, low-friction destination." },
+          { q: "When is Taiwan Pride?", a: "Each autumn in Taipei. It's the largest Pride event in Asia by attendance." },
+          { q: "Where is Taipei's LGBTQ+ nightlife concentrated?", a: "Around the Red House in Ximending, a historic building surrounded by bars, cafes and a small market with a strong LGBTQ+-friendly business presence." },
+          { q: "Was Taiwan really the first in Asia to legalize same-sex marriage?", a: "Yes — in May 2019, following a 2017 constitutional court ruling, making it the first place in Asia to do so." },
+        ],
+      };
+
+    case "taipei-rainy-day-activities":
+      return {
+        title: "Taipei Rainy Day Guide 2026: What to Do When Typhoon Season Hits",
+        description: "Taipei's humid, typhoon-prone climate means rainy days are common — here's a real backup plan that doesn't waste the day.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1dc72d786636f64e3a6ab0305d5d38e68f59356f59f82436e69ef6baabbe1080.png",
+        fastFacts: [
+          { icon: "Building", label: "Top indoor pick", value: "Taipei 101 Observatory — fully enclosed, unaffected by rain" },
+          { icon: "Landmark", label: "Also indoor", value: "National Palace Museum, Taipei Fine Arts Museum" },
+          { icon: "Utensils", label: "Rain-proof food plan", value: "Covered night market sections, department store basement food halls" },
+          { icon: "AlertTriangle", label: "When to actually stay in", value: "A direct typhoon warning, not ordinary rain" },
+        ],
+        sections: [
+          {
+            title: "Ordinary Rain vs. a Typhoon Warning — Know the Difference",
+            content: "Most rainy days in Taipei are entirely manageable with an umbrella and a shift toward indoor plans; this is not the same as a **typhoon warning day**, when the city can issue work-and-school suspension orders that shut down above-ground MRT sections, outdoor attractions and most day-trip transport. On an ordinary rainy day, almost everything in the city core still operates normally — this guide is about making the most of that kind of day, not about riding out an actual storm, which simply calls for staying in and waiting it out.",
+          },
+          {
+            title: "The Best Fully Indoor Options",
+            content: "**Taipei 101's observatory** is entirely climate-controlled and arguably better on a rainy day for dramatic cloud-level views than a clear one in a different way — the city disappearing into mist from the 89th floor has its own appeal. The **National Palace Museum** offers hours of fully indoor content, and the **Taipei Fine Arts Museum** is a solid contemporary-art alternative if you've already done the Palace Museum on a previous trip. Shopping malls throughout Xinyi and Zhongshan districts, several connected to MRT stations by underground passages, let you move between stores without stepping outside at all.",
+            tourCard: { slug: "taipei-city-highlights-tour-with-taipei-101", title: "Taipei: City Highlights Tour with Taipei 101 Observatory", description: "A largely indoor-heavy highlights loop that holds up well on a rainy day.", price: "From $89", duration: "9 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1dc72d786636f64e3a6ab0305d5d38e68f59356f59f82436e69ef6baabbe1080.png" },
+          },
+          {
+            title: "Eating and Getting Around in the Rain",
+            content: "Shilin Night Market's underground section and several covered arcades keep night market eating viable even in steady rain, though the outdoor street stalls thin out noticeably. Department store basement food halls, common throughout the city, are a reliable rainy-day meal option with a wide variety of stalls under one roof. For getting around, the MRT's underground sections are entirely unaffected by rain, and most stations connect to nearby malls and buildings via covered walkways, so a rainy day in Taipei rarely means being stuck without a dry way to move between activities.",
+          },
+        ],
+        faqs: [
+          { q: "What should I do in Taipei on a rainy day?", a: "The Taipei 101 observatory, the National Palace Museum, and shopping malls connected by underground MRT passages are all fully indoor options that work regardless of weather." },
+          { q: "Does rain shut down Taipei's attractions?", a: "Ordinary rain doesn't — most attractions and the MRT operate normally. Only an actual typhoon warning triggers closures and transport suspensions." },
+          { q: "Can you still visit night markets in the rain?", a: "Yes, largely — Shilin's underground section and various covered arcades keep eating viable, though outdoor stalls thin out in steady rain." },
+          { q: "How do I know if it's a typhoon day versus just rain?", a: "Official typhoon warnings and any work-and-school suspension announcements are the clear signal — check local news or your hotel if conditions look severe, rather than assuming based on rainfall alone." },
+        ],
+      };
+
+    case "taipei-christmas-new-year-guide":
+      return {
+        title: "Taipei at Christmas and New Year 2026: What's Actually Open and Worth Seeing",
+        description: "Taipei doesn't shut down for Christmas, but it does light up for it, and New Year's Eve brings one of Asia's biggest fireworks shows at Taipei 101.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1dc72d786636f64e3a6ab0305d5d38e68f59356f59f82436e69ef6baabbe1080.png",
+        fastFacts: [
+          { icon: "Calendar", label: "Christmas status", value: "Not a public holiday, but widely celebrated commercially" },
+          { icon: "Star", label: "New Year's Eve highlight", value: "Taipei 101's fireworks show, one of Asia's largest" },
+          { icon: "Thermometer", label: "Weather", value: "Cool, mild and often drizzly — 12-18°C" },
+          { icon: "Building", label: "Season's displays", value: "Light-up installations at Xinyi malls and Taipei City Hall Plaza" },
+        ],
+        sections: [
+          {
+            title: "Christmas: Commercial, Not Religious or a Public Holiday",
+            content: "Christmas is not a public holiday in Taiwan and carries no deep religious significance for most of the population, but Taipei still embraces the season commercially with real enthusiasm — malls in Xinyi and department stores across the city put up elaborate light displays and decorated trees, and Christmas markets with a European-style stall format have become a regular December fixture in recent years. This means a visitor arriving in December gets a genuinely festive-feeling city without the holiday-closure disruptions common in Christian-majority countries, where restaurants, shops and attractions all remain open and operating on normal schedules.",
+          },
+          {
+            title: "New Year's Eve: Taipei 101's Fireworks Show",
+            content: "**New Year's Eve** is where Taipei's calendar peaks for the season — **Taipei 101's fireworks display**, launched from the tower itself at midnight, is one of the largest and most-watched fireworks shows in Asia, drawing enormous crowds to viewing areas around Xinyi district. Public transit typically runs extended hours to handle the crowds, and getting a good viewing spot requires arriving hours early or securing a restaurant or bar reservation with a view in advance — both fill up well ahead of the date. If crowds aren't your preference, several rooftop bars and restaurants across the city offer a quieter alternative with the fireworks still visible from a distance.",
+            tourCard: { slug: "taipei-city-highlights-tour-with-taipei-101", title: "Taipei: City Highlights Tour with Taipei 101 Observatory", description: "A good way to see Taipei 101 itself up close before the New Year's Eve crowds arrive for the fireworks.", price: "From $89", duration: "9 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1dc72d786636f64e3a6ab0305d5d38e68f59356f59f82436e69ef6baabbe1080.png" },
+          },
+          {
+            title: "Weather and What to Pack",
+            content: "December and early January in Taipei sit within the city's cooler, milder season — daytime temperatures of roughly **12-18°C**, with a real chance of overcast or drizzly days given the basin's winter humidity. It's comfortable layering weather rather than genuinely cold, but pack a light rain jacket regardless, since clear skies aren't guaranteed for outdoor plans, including New Year's Eve viewing itself. Hotel rates around New Year's Eve in particular rise with demand, so book well ahead if your trip specifically targets this period.",
+          },
+        ],
+        faqs: [
+          { q: "Is Taipei festive at Christmas?", a: "Yes, commercially — elaborate mall light displays, decorated trees and European-style Christmas markets are now a regular December fixture, even though Christmas isn't a public holiday or a major traditional occasion in Taiwan." },
+          { q: "What happens at Taipei 101 on New Year's Eve?", a: "A major fireworks display launched from the tower at midnight, one of the largest and most-watched in Asia, drawing large crowds to Xinyi district." },
+          { q: "How cold is Taipei in December?", a: "Mild by most standards — roughly 12-18°C daytime, with a real chance of overcast or drizzly days given the city's winter humidity." },
+          { q: "Do I need to book ahead for New Year's Eve in Taipei?", a: "Yes — good viewing spots, restaurant reservations with a view, and hotel rooms around this period all fill up well in advance given the popularity of the Taipei 101 fireworks show." },
+        ],
+      };
+
     default:
       return null;
   }

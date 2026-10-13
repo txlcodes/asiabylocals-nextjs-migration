@@ -142,6 +142,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'taipei-101-tickets-guide', 'taipei-mrt-easycard-guide', 'shilin-night-market-guide',
     'jiufen-day-trip-guide', 'taipei-hot-springs-guide', 'taipei-food-guide',
     'taipei-temples-guide', 'yangmingshan-national-park-guide', 'taroko-gorge-day-trip',
+    'taipei-bubble-tea-origin-guide', 'elephant-mountain-hike-guide', 'taipei-with-kids-guide',
+    'ximending-guide', 'taipei-museums-guide-national-palace', 'dadaocheng-old-street-guide',
+    'beitou-hot-springs-guide', 'taipei-budget-travel-guide', 'taipei-luxury-travel-guide',
+    'keelung-day-trip-guide', 'sun-moon-lake-day-trip', 'alishan-day-trip-guide',
+    'taipei-7-day-itinerary', 'taiwan-high-speed-rail-guide', 'taipei-coffee-culture-guide',
+    'taipei-lgbtq-friendly-guide', 'taipei-rainy-day-activities', 'taipei-christmas-new-year-guide',
   ].map(slug => ({
     url: `${BASE_URL}/taiwan/taipei/${slug}`,
     lastModified: new Date(),

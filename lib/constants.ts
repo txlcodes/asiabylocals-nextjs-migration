@@ -201,7 +201,13 @@ export const TAIPEI_INFO_SLUGS = [
   'taipei-1-day-itinerary', 'taipei-3-day-itinerary', 'taiwan-visa-guide-for-tourists',
   'taipei-101-tickets-guide', 'taipei-mrt-easycard-guide', 'shilin-night-market-guide',
   'jiufen-day-trip-guide', 'taipei-hot-springs-guide', 'taipei-food-guide',
-  'taipei-temples-guide', 'yangmingshan-national-park-guide', 'taroko-gorge-day-trip'
+  'taipei-temples-guide', 'yangmingshan-national-park-guide', 'taroko-gorge-day-trip',
+  'taipei-bubble-tea-origin-guide', 'elephant-mountain-hike-guide', 'taipei-with-kids-guide',
+  'ximending-guide', 'taipei-museums-guide-national-palace', 'dadaocheng-old-street-guide',
+  'beitou-hot-springs-guide', 'taipei-budget-travel-guide', 'taipei-luxury-travel-guide',
+  'keelung-day-trip-guide', 'sun-moon-lake-day-trip', 'alishan-day-trip-guide',
+  'taipei-7-day-itinerary', 'taiwan-high-speed-rail-guide', 'taipei-coffee-culture-guide',
+  'taipei-lgbtq-friendly-guide', 'taipei-rainy-day-activities', 'taipei-christmas-new-year-guide'
 ];
 
 // South Korea launched 2026-10 with 570 live tours (Seoul 430, Busan 140) and

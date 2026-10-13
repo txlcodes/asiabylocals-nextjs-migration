@@ -439,6 +439,8 @@ const TAIPEI_SIDEBAR = [
     { name: 'Temples Guide', slug: 'taipei-temples-guide' },
     { name: 'Yangmingshan National Park', slug: 'yangmingshan-national-park-guide' },
     { name: 'Taroko Gorge Day Trip', slug: 'taroko-gorge-day-trip' },
+    { name: 'Elephant Mountain Hike', slug: 'elephant-mountain-hike-guide' },
+    { name: 'Sun Moon Lake Day Trip', slug: 'sun-moon-lake-day-trip' },
 ];
 
 const SEOUL_SIDEBAR = [
