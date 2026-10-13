@@ -99557,6 +99557,219 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "ella-to-kandy-transfer-with-the-hill-country-train-ride-and-nuwara-eliya": {
+  "title": "Transfer von Ella nach Kandy mit der Bergbahnfahrt und Nuwara Eliya",
+  "metaTitle": "Ella nach Kandy mit der Bergbahn",
+  "metaDescription": "Ella nach Kandy mit der beruehmten Bergbahn eingebaut: fahren Sie den malerischen Abschnitt im Zug, dann weiter per Strasse ueber Nuwara Eliya.",
+  "shortDescription": "Ella nach Kandy mit der beruehmten Bergbahn in den Transfer eingebaut: fahren Sie den malerischen Abschnitt im Zug, waehrend Ihr Fahrer das Gepaeck uebernimmt, dann weiter per Strasse ueber Nuwara Eliya und die Ramboda-Wasserfaelle.",
+  "fullDescription": "Die Eisenbahn von Ella nach Nanu Oya ist die beste Zugfahrt Suedasiens, und der haeufigste Fehler, den Leute damit machen, ist, sie als Transportmittel zu behandeln. Sie ist langsam, oft voll, und fuehrt zu einem Bahnhof statt zu einer Stadt, aber zwei bis vier Stunden lang verlaeuft sie entlang der Hoehenlinien des hoechstgelegenen Teelandes der Insel, ueberquert die Neun-Bogen-Bruecke bei der Abfahrt aus Ella, mit offenen Tueren und dem Tal, das darunter abfaellt.\n\nDieser Transfer loest das praktische Problem. Sie fahren den malerischen Abschnitt unbelastet, waehrend Ihr Fahrer das Gepaeck per Strasse mitnimmt und Sie in Nanu Oya trifft. Von dort geht der Tag als normaler gefuehrter Transfer weiter: der Gregory-See und das koloniale Zentrum von Nuwara Eliya, eine Teefabrik, und die Ramboda-Wasserfaelle beim Abstieg, bevor es am Abend nach Kandy geht.\n\nEs ist das Beste aus beiden Welten, die Fahrt ohne die Logistik, und die Stopps, die ein Zug nicht machen kann.\n\nZwei praktische Hinweise. Reservierte Plaetze oeffnen dreissig Tage vor der Abfahrt und die reservierten Wagen sind tatsaechlich ausverkauft, also je frueher dies gebucht wird, desto besser der Platz; unreservierte zweite und dritte Klasse sind immer verfuegbar, bedeuten aber Stehen. Und Nuwara Eliya liegt auf 1.900 Metern, es ist am spaeten Nachmittag kalt und am Abend kaelter, was fast jeden ueberrascht, der von der Kueste kommt. Bringen Sie eine zusaetzliche Lage mit.",
+  "highlights": [
+   "Der Zug von Ella nach Nanu Oya, entlang der Hoehenlinien der hoechsten Teeplantagen",
+   "Die Neun-Bogen-Bruecke, ueberquert bei der Abfahrt aus Ella",
+   "Ihr Fahrer nimmt das Gepaeck per Strasse und trifft Sie am Bahnhof",
+   "Nuwara Eliya, eine Teefabrik und die Ramboda-Wasserfaelle auf dem Strassenabschnitt",
+   "Absetzen an Ihrem Hotel in Kandy am Ende des Tages"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung in Ella",
+   "der Strassenabschnitt mit allen Stopps",
+   "Absetzen an Ihrem Hotel in Kandy",
+   "Gepaecktransport per Strasse durchgehend"
+  ],
+  "notIncluded": [
+   "Zugtickets, separat gekauft und von Verfuegbarkeit abhaengig",
+   "Mahlzeiten und Getraenke",
+   "Eintrittsgebuehren",
+   "Trinkgelder"
+  ]
+ },
+ "ella-to-kandy-guided-transfer-with-nuwara-eliya-ramboda-falls": {
+  "title": "Gefuehrter Transfer von Ella nach Kandy mit Nuwara Eliya, den Ramboda-Wasserfaellen und Peradeniya",
+  "metaTitle": "Ella nach Kandy mit Nuwara Eliya",
+  "metaDescription": "Die Fahrt von Ella nach Kandy als Besichtigungstag: Nuwara Eliya, der Gregory-See, die Ramboda-Wasserfaelle und der botanische Garten Peradeniya.",
+  "shortDescription": "Die Fahrt von Ella nach Kandy als Besichtigungstag gemacht: Nuwara Eliya und der Gregory-See, die Ramboda-Wasserfaelle, eine Teefabrik und der botanische Garten Peradeniya, mit Absetzen an Ihrem Hotel in Kandy.",
+  "fullDescription": "Von Ella nach Kandy herunterzukommen ist dieselbe Strasse wie der Aufstieg, umgekehrt, und sie ist in dieser Richtung ebenso gut, moeglicherweise besser, weil Sie durch das Teeland im Morgenlicht absteigen statt in die Nachmittagswolken hinaufzusteigen.\n\nDie Route fuehrt zunaechst nach Nuwara Eliya, die Bergstation auf 1.900 Metern, die die Briten bauten und nie ganz fertig englisch machten: eine Pferderennbahn, ein Golfplatz, besetzte Forellenbaeche und ein Postamt im Tudor-Stil. Der Gregory-See liegt im Zentrum und einen Spaziergang wert.\n\nDie Ramboda-Wasserfaelle kommen beim Abstieg, ein 100 Meter hoher Fall wenige Gehminuten von der Strasse, und darueber verlaufen die Teeplantagen durchgehend. Ein Besuch einer aktiven Fabrik folgt dem Blatt durch Welken, Rollen, Oxidation und Trocknen bis zur Sortiertabelle.\n\nDer letzte Stopp vor Kandy ist der Koenigliche Botanische Garten Peradeniya, 60 Hektar innerhalb einer Flussschleife des Mahaweli, mit der Palmenallee, dem Orchideenhaus und dem grossen Java-Feigenbaum. Dann sind es fuenfzehn Minuten nach Kandy und zu Ihrem Hotel.\n\nKandy war die letzte Hauptstadt der singhalesischen Koenige und hielt gegen Portugiesen und Niederlaender durch, bis die Briten sie 1815 einnahmen, und der Tempel der Heiligen Zahnreliquie am See ist der Grund, warum sie wichtig ist: Die Reliquie, von der man glaubt, es sei ein Zahn des Buddha, ist das heiligste Objekt der Insel, und ihre Verwahrung legitimierte einst das Koenigtum. Die Reliquienkammer oeffnet dreimal taeglich fuer Puja, etwa um 5:30, 9:30 und 18:30 Uhr, wenn das Trommeln beginnt und die Schlange am Reliquienschrein vorbeizieht. Die Kleidung bedeckt Schultern und Knie, Schuhe werden am Eingang ausgezogen, und die Esala Perahera im Juli oder August fuehrt den Schrein auf einem Elefanten zehn Naechte lang durch die Stadt.",
+  "highlights": [
+   "Die Fahrt von Ella nach Kandy zu einem Tag statt einer fuenfstuendigen Fahrt gemacht",
+   "Nuwara Eliya und der Gregory-See auf 1.900 Metern",
+   "Die Ramboda-Wasserfaelle beim Abstieg, einen kurzen Spaziergang von der Strasse",
+   "Eine aktive Teefabrik mit Verkostung",
+   "Der botanische Garten Peradeniya vor der Ankunft in Kandy"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung in Ella",
+   "alle Stopps auf der Route",
+   "Absetzen an Ihrem Hotel in Kandy",
+   "Kraftstoff und Parken",
+   "Gepaecktransport durchgehend"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer den botanischen Garten und jede Staette mit Gebuehr",
+   "Mahlzeiten und Getraenke",
+   "Teekaeufe",
+   "Trinkgelder"
+  ]
+ },
+ "sigiriya-and-dambulla-group-day-tour-from-kandy-with-an-elephant-safari": {
+  "title": "Sigiriya- und Dambulla-Gruppen-Tagestour ab Kandy mit Elefanten-Safari",
+  "metaTitle": "Sigiriya und Dambulla in der Gruppe",
+  "metaDescription": "Die geteilte Gruppenversion des grossen Kulturdreieck-Tages ab Kandy: Hindu-Tempel, Gewuerzgarten, Schnitzatelier, die Dambulla-Hoehlen und Sigiriya.",
+  "shortDescription": "Die geteilte Gruppenversion des grossen Kulturdreieck-Tages ab Kandy: der Hindu-Tempel von Matale, ein Gewuerzgarten, ein Holzschnitzatelier, die Dambulla-Hoehlen und Sigiriya, abgeschlossen mit einer Jeep-Safari.",
+  "fullDescription": "Dies ist die Gruppenversion des grossen Kandy-Ausflugs, und der Preis spiegelt das wider, Sie teilen einen Van mit bis zu einem Dutzend anderer, was die Kosten auf einen Bruchteil des privaten Aequivalents fuer dasselbe Programm senkt.\n\nDer Vormittag fuehrt nordwaerts durch Matale, mit Stopps am Sri-Muthumariamman-Hindu-Tempel mit seinem bemalten Gopuram, einem Gewuerzgarten, wo Zimt und Kardamom auf derselben Parzelle wachsen, und einem Holzschnitzatelier der Art, die Matale seit Generationen hat.\n\nDambullas fuenf Hoehlen kommen als naechstes, vom Boden bis zur Decke bemalt, rund 150 Buddha-Statuen, kuehl nach der Fahrt. Dann Sigiriya, die Zitadelle aus dem fuenften Jahrhundert auf dem Felsen, mit den Wassergaerten, den Spiegelwand-Fresken und dem Gipfel.\n\nDie Safari schliesst den Tag ab. Der spaete Nachmittag in Minneriya oder einem benachbarten Park ist, wenn die Elefanten zum Stausee hinabsteigen, und in der Trockenzeit ist die Ansammlung dort eine der groessten Konzentrationen wild lebender asiatischer Elefanten ueberhaupt.\n\nEine Gruppentour bedeutet feste Zeiten und Warten auf den langsamsten Kletterer, was der ehrliche Tausch fuer den Preis ist. Falls das wichtig ist, sind die privaten Versionen desselben Tages ebenfalls aufgelistet.\n\nSigiriya ist eine 200 Meter hohe Felssaeule, die aus der Ebene der Trockenzone aufsteigt, auf der Koenig Kasyapa im fuenften Jahrhundert seinen Palast errichtete, nachdem er den Thron an sich gerissen hatte, und es ist seit 1982 eine UNESCO-Staette. Der Aufstieg umfasst etwa 1.200 Stufen auf Treppen und Eisenstegen, vorbei an der Spiegelwand mit ihren tausend Jahre alten Graffiti und der geschuetzten Galerie mit Fresken, bis zu den Lowenpfoten, die dem Felsen seinen Namen geben, und den Palastgrundmauern auf dem Gipfel. Es dauert fuer die meisten Leute anderthalb Stunden hin und zurueck und sollte am besten um 7:00 Uhr beginnen, vor der Hitze und den Reisebussen; das Ticket fuer auslaendische Besucher ist eines der teuersten im Land, und Pidurangala, der benachbarte Felsen, bietet den klassischen Blick auf Sigiriya fuer einen Bruchteil davon.",
+  "highlights": [
+   "Der volle Kulturdreieck-Tag zum geteilten Gruppenpreis",
+   "Der Hindu-Tempel von Matale, ein Gewuerzgarten und ein Holzschnitzatelier",
+   "Die Felsentempel von Dambulla und der Sigiriya-Felsaufstieg",
+   "Eine Jeep-Safari am Nachmittag, wenn die Elefanten zum Wasser kommen",
+   "Alles gefahren und organisiert ab Ihrem Hotel in Kandy"
+  ],
+  "included": [
+   "Geteilter klimatisierter Van mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Kandy",
+   "der Safari-Jeep",
+   "alle Fahrten zwischen den Orten"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren in Sigiriya und Dambulla und die Nationalparkgenehmigung",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder",
+   "Werkstattkaeufe"
+  ]
+ },
+ "sigiriya-dambulla-and-anuradhapura-three-site-day-tour-from-kandy": {
+  "title": "Sigiriya, Dambulla und Anuradhapura: Drei-Staetten-Tagestour ab Kandy",
+  "metaTitle": "Sigiriya, Dambulla und Anuradhapura",
+  "metaDescription": "Der ambitionierteste Kulturdreieck-Tag ab Kandy: Sigiriya im Morgengrauen, Dambulla, und Anuradhapura, ueber tausend Jahre Hauptstadt der Insel.",
+  "shortDescription": "Der ambitionierteste Kulturdreieck-Tag ab Kandy: der Fels von Sigiriya im Morgengrauen, die Dambulla-Hoehlen, und Anuradhapura, ueber tausend Jahre lang Hauptstadt der Insel und noch heute eine aktive Pilgerstadt.",
+  "fullDescription": "Drei UNESCO-Staetten in dreizehn Stunden ist ein ernsthaftes Unternehmen, und diese Reise ist ehrlich darueber, ein langer Tag zu sein. Was es rechtfertigt, ist, dass Anuradhapura sich wirklich von den anderen beiden unterscheidet, und die meisten Besucher kommen nie dorthin.\n\nSigiriya eroeffnet den Tag im Morgengrauen, die Zitadelle auf dem Felsen, die Wassergaerten, die Fresken. Dambulla folgt, fuenf bemalte Hoehlen unter einem Uberhang, kuehl und dunkel nach dem Aufstieg.\n\nAnuradhapura ist der Grund fuer die zusaetzlichen Stunden. Es war ab dem vierten Jahrhundert vor unserer Zeitrechnung ueber tausend Jahre lang die Hauptstadt und erstreckt sich ueber vierzig Quadratkilometer Wald und Stauseeland. Die Ruwanwelisaya-Dagoba ist 103 Meter hoch und noch immer weiss getuencht und in Gebrauch. Die Jetavanaramaya war bei ihrer Errichtung das dritthoechste Bauwerk der Erde nach zwei der aegyptischen Pyramiden. Und der Sri Maha Bodhi wuchs aus einem Ableger des Baums, unter dem der Buddha sass, im dritten Jahrhundert vor unserer Zeitrechnung hierher gebracht, der aelteste gepflanzte Baum der Welt mit schriftlicher Aufzeichnung, ueber zweitausend Jahre ohne Unterbrechung gepflegt.\n\nDas Letzte ist der Unterschied zwischen Anuradhapura und den anderen Staetten. Sigiriya ist eine Ruine. Anuradhapura ist ein Ort, an den Menschen noch immer zum Beten kommen.\n\nSigiriya ist eine 200 Meter hohe Felssaeule, die aus der Ebene der Trockenzone aufsteigt, auf der Koenig Kasyapa im fuenften Jahrhundert seinen Palast errichtete, nachdem er den Thron an sich gerissen hatte, und es ist seit 1982 eine UNESCO-Staette. Der Aufstieg umfasst etwa 1.200 Stufen auf Treppen und Eisenstegen, vorbei an der Spiegelwand mit ihren tausend Jahre alten Graffiti und der geschuetzten Galerie mit Fresken, bis zu den Lowenpfoten, die dem Felsen seinen Namen geben, und den Palastgrundmauern auf dem Gipfel. Es dauert fuer die meisten Leute anderthalb Stunden hin und zurueck und sollte am besten um 7:00 Uhr beginnen, vor der Hitze und den Reisebussen; das Ticket fuer auslaendische Besucher ist eines der teuersten im Land, und Pidurangala, der benachbarte Felsen, bietet den klassischen Blick auf Sigiriya fuer einen Bruchteil davon.",
+  "highlights": [
+   "Drei UNESCO-Staetten, Sigiriya, Dambulla und Anuradhapura, an einem Tag",
+   "Sigiriya im Morgengrauen bestiegen, vor der Hitze",
+   "Die Ruwanwelisaya-Dagoba, 103 Meter hoch und noch taeglich in Gebrauch",
+   "Der Sri Maha Bodhi, aus einem Ableger des eigenen Baums des Buddha im dritten Jahrhundert v. Chr. gewachsen",
+   "Eine aktive Pilgerstadt statt einer Ruine hinter einem Zaun"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Kandy",
+   "Fuehrung an den Staetten",
+   "alle Fahrten",
+   "Kraftstoff und Parken"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren in Sigiriya, Dambulla und Anuradhapura",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "sigiriya-rock-and-polonnaruwa-ancient-city-day-trip-from-kandy": {
+  "title": "Sigiriya-Fels und die antike Stadt Polonnaruwa: Tagesausflug ab Kandy",
+  "metaTitle": "Sigiriya und Polonnaruwa",
+  "metaDescription": "Zwei UNESCO-Staetten ab Kandy: der Aufstieg zum Sigiriya-Fels am Morgen, dann Polonnaruwa mit dem Vatadage und den Gal-Vihara-Buddhas.",
+  "shortDescription": "Zwei UNESCO-Staetten an einem langen Tag ab Kandy: der Aufstieg zum Sigiriya-Fels am Morgen, dann die zerstoerte Hauptstadt Polonnaruwa mit dem Vatadage, dem Lankatilaka und den Gal-Vihara-Buddhas.",
+  "fullDescription": "Sigiriya und Polonnaruwa liegen 60 Kilometer voneinander entfernt und gehoeren zu unterschiedlichen Jahrhunderten, was diese Kombination einen langen Tag wert macht statt zweier kurzer.\n\nSigiriya kommt zuerst, zur Oeffnungszeit, weil der Aufstieg spaeter unangenehm ist. Es ist eine koenigliche Zitadelle aus dem fuenften Jahrhundert auf einem Granitpfropfen, erreicht durch Wassergaerten, die noch funktionieren, hinauf an den Spiegelwand-Fresken und den Lowenpfoten vorbei zu einem Gipfel, der die Grundmauern eines Palastes und einen Blick ueber die Ebene bis Pidurangala haelt.\n\nPolonnaruwa ist sechshundert Jahre juenger und eine andere Art Staette: eine ganze Hauptstadt statt eines einzelnen Monuments. Parakramabahu I. regierte die Insel von hier aus im zwoelften Jahrhundert und baute in einem Massstab, der sich noch lesen laesst, ein siebenstoeckiger Palast, ein kuenstliches Meer als Stausee, und ein religioeses Viertel mit dem runden Vatadage und den siebzehn Meter hohen Backsteinwaenden des Lankatilaka.\n\nDer Gal Vihara schliesst den Tag ab: vier kolossale Buddhas, aus einer einzigen Granitwand geschnitten, einschliesslich einer sieben Meter liegenden Figur, im zwoelften Jahrhundert gemeisselt und fast unbeschaedigt. Es ist die feinste Skulptur des Landes und es lohnt sich, den Tag so zu planen, dass Sie beim Erreichen nicht hasten.\n\nSigiriya ist eine 200 Meter hohe Felssaeule, die aus der Ebene der Trockenzone aufsteigt, auf der Koenig Kasyapa im fuenften Jahrhundert seinen Palast errichtete, nachdem er den Thron an sich gerissen hatte, und es ist seit 1982 eine UNESCO-Staette. Der Aufstieg umfasst etwa 1.200 Stufen auf Treppen und Eisenstegen, vorbei an der Spiegelwand mit ihren tausend Jahre alten Graffiti und der geschuetzten Galerie mit Fresken, bis zu den Lowenpfoten, die dem Felsen seinen Namen geben, und den Palastgrundmauern auf dem Gipfel. Es dauert fuer die meisten Leute anderthalb Stunden hin und zurueck und sollte am besten um 7:00 Uhr beginnen, vor der Hitze und den Reisebussen; das Ticket fuer auslaendische Besucher ist eines der teuersten im Land, und Pidurangala, der benachbarte Felsen, bietet den klassischen Blick auf Sigiriya fuer einen Bruchteil davon.",
+  "highlights": [
+   "Zwei UNESCO-Weltkulturerbestaetten an einem Tag ab Kandy",
+   "Sigiriya zur Oeffnungszeit bestiegen, vor der Hitze und den Schlangen",
+   "Polonnaruwas koeniglicher Palast, Vatadage und das siebzehn Meter hohe Lankatilaka",
+   "Der Gal Vihara, vier kolossale Buddhas aus einer Granitwand geschnitten",
+   "Ein privates Fahrzeug und Guide fuer die gesamten zwoelf Stunden"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Kandy",
+   "Fuehrung an beiden Staetten",
+   "alle Fahrten",
+   "Kraftstoff und Parken"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren in Sigiriya und Polonnaruwa",
+   "Mahlzeiten und Getraenke",
+   "Fahrradverleih an den Ruinen",
+   "Trinkgelder"
+  ]
+ },
+ "all-inclusive-sigiriya-rock-and-dambulla-cave-temple-day-tour-from-kandy": {
+  "title": "Komplett-Tagestour zum Sigiriya-Fels und Dambulla-Felsentempel ab Kandy",
+  "metaTitle": "Sigiriya und Dambulla komplett",
+  "metaDescription": "Die zwei grossen Kulturdreieck-Staetten ab Kandy mit Guide: die Felsenzitadelle von Koenig Kashyapa in Sigiriya und der grosse Hoehlentempel von Dambulla.",
+  "shortDescription": "Die zwei grossen Kulturdreieck-Staetten ab Kandy in einem klimatisierten Fahrzeug mit Guide: die Felsenzitadelle aus dem fuenften Jahrhundert von Koenig Kashyapa in Sigiriya und Sri Lankas groesster Hoehlentempelkomplex in Dambulla.",
+  "fullDescription": "Sigiriya ist der Grund, warum die meisten Leute von Kandy aus nach Norden kommen, und es verdient den Ruf. Im fuenften Jahrhundert verlegte Koenig Kashyapa, nachdem er den Thron bestiegen hatte, indem er seinen Vater lebend einmauerte, die Hauptstadt an die Spitze eines 200 Meter hohen Granitpfropfens und errichtete dort einen Palast. Der Zugang fuehrt durch symmetrische Wassergaerten, unter den aeltesten erhaltenen angelegten Gaerten der Welt, und noch immer funktionsfaehig, dann hinauf durch die Fresken der Spiegelwand, vorbei an den Lowenpfoten, die einst ein riesiges Tor umrahmten, bis zu den Gipfelterrassen.\n\nDambulla ist aelter und ruhiger. Fuenf Hoehlen unter einem Granituberhang, seit dem ersten Jahrhundert vor unserer Zeitrechnung in Gebrauch und zweitausend Jahre lang bemalt und ueberarbeitet, mit rund 150 Buddha-Statuen. Die groesste Hoehle ist 52 Meter breit mit einer Decke, die dem Felsen folgt, in einer ununterbrochenen Flaeche bemalt.\n\nDiese Version ist die komfortable: klimatisierter Transport fuer die zwei Stunden pro Strecke, ein Guide, der erklaert, was Sie sehen, statt ein Fahrer, der am Tor wartet, und genuegend Zeit an beiden Staetten, um sie richtig zu machen statt im Laufschritt.\n\nSigiriya ist eine 200 Meter hohe Felssaeule, die aus der Ebene der Trockenzone aufsteigt, auf der Koenig Kasyapa im fuenften Jahrhundert seinen Palast errichtete, nachdem er den Thron an sich gerissen hatte, und es ist seit 1982 eine UNESCO-Staette. Der Aufstieg umfasst etwa 1.200 Stufen auf Treppen und Eisenstegen, vorbei an der Spiegelwand mit ihren tausend Jahre alten Graffiti und der geschuetzten Galerie mit Fresken, bis zu den Lowenpfoten, die dem Felsen seinen Namen geben, und den Palastgrundmauern auf dem Gipfel. Es dauert fuer die meisten Leute anderthalb Stunden hin und zurueck und sollte am besten um 7:00 Uhr beginnen, vor der Hitze und den Reisebussen; das Ticket fuer auslaendische Besucher ist eines der teuersten im Land, und Pidurangala, der benachbarte Felsen, bietet den klassischen Blick auf Sigiriya fuer einen Bruchteil davon.",
+  "highlights": [
+   "Die Felsenfestung Sigiriya, Wassergaerten, Spiegelwand-Fresken und Gipfelzitadelle",
+   "Die Dambulla-Hoehlen, zweitausend Jahre lang durchgehend bemalt",
+   "Ein klimatisiertes Fahrzeug fuer die zweistuendige Fahrt pro Strecke",
+   "Ein Guide an beiden Staetten statt eines wartenden Fahrers",
+   "Genug Zeit, um beide richtig zu machen statt im Laufschritt"
+  ],
+  "included": [
+   "Klimatisiertes Fahrzeug mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Kandy",
+   "Fuehrung an beiden Staetten",
+   "alle Fahrten",
+   "Kraftstoff und Parken"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren in Sigiriya und Dambulla",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "private-sigiriya-and-dambulla-tuk-tuk-day-trip-from-kandy": {
+  "title": "Privater Sigiriya- und Dambulla-Tuk-Tuk-Tagesausflug ab Kandy mit Dorfstopp",
+  "metaTitle": "Sigiriya und Dambulla im Tuk-Tuk",
+  "metaDescription": "Das Kulturdreieck ab Kandy im privaten Tuk-Tuk: die Dambulla-Hoehlen, der Sigiriya-Felsaufstieg, und Dorfstopps.",
+  "shortDescription": "Das Kulturdreieck ab Kandy im privaten Tuk-Tuk mit lokalem Fahrer-Guide: die Felsentempel von Dambulla, der Aufstieg zum Sigiriya-Felsen, und Dorfstopps, die eine Van-Tour einfach vorbeifahren wuerde.",
+  "fullDescription": "Neunzig Kilometer nordlich von Kandy im Tuk-Tuk dauern etwa drei Stunden, eine Stunde laenger als ein Auto und erheblich interessanter. Die Strasse fuehrt durch Matale und das Gewuerzland, und offen seitlich bei vierzig Kilometern pro Stunde sehen Sie die Doerfer statt sie zu passieren.\n\nDambulla ist der erste Stopp: fuenf Hoehlen unter einem Felsuberhang geschnitten, vom Boden bis zur Decke bemalt, mit rund 150 Buddha-Statuen und Wandmalereien, die bis ins erste Jahrhundert vor unserer Zeitrechnung zurueckreichen. Es ist drinnen kuehl, was zaehlt, und der Zugangsweg den Felsen hinauf ist steiler, als Leute erwarten.\n\nSigiriya ist der Aufstieg, 1.200 Stufen hinauf auf einen 200 Meter hohen Granitpfropfen, den Koenig Kashyapa im fuenften Jahrhundert befestigte und in einen Palast verwandelte. Die Fresken der Spiegelwand liegen auf halber Hoehe, geschuetzt in einer Tasche der Felswand; die Lowenpfoten sind nahe der Spitze; und der Gipfel ist der Grundriss einer koeniglichen Zitadelle mit Blick ueber die gesamte Ebene.\n\nDie Dorfstopps sind, was das private Tuk-Tuk Ihnen kauft: ein Reisfeld, ein Mittagsort, an dem Ihr Fahrer isst, ein Stopp, wo immer etwas passiert. Nichts auf dieser Liste ist geplant, und das ist der Punkt.\n\nSigiriya ist eine 200 Meter hohe Felssaeule, die aus der Ebene der Trockenzone aufsteigt, auf der Koenig Kasyapa im fuenften Jahrhundert seinen Palast errichtete, nachdem er den Thron an sich gerissen hatte, und es ist seit 1982 eine UNESCO-Staette. Der Aufstieg umfasst etwa 1.200 Stufen auf Treppen und Eisenstegen, vorbei an der Spiegelwand mit ihren tausend Jahre alten Graffiti und der geschuetzten Galerie mit Fresken, bis zu den Lowenpfoten, die dem Felsen seinen Namen geben, und den Palastgrundmauern auf dem Gipfel. Es dauert fuer die meisten Leute anderthalb Stunden hin und zurueck und sollte am besten um 7:00 Uhr beginnen, vor der Hitze und den Reisebussen; das Ticket fuer auslaendische Besucher ist eines der teuersten im Land, und Pidurangala, der benachbarte Felsen, bietet den klassischen Blick auf Sigiriya fuer einen Bruchteil davon.",
+  "highlights": [
+   "Ein privates Tuk-Tuk und Fahrer-Guide statt eines Sitzplatzes in einem Van",
+   "Die Felsentempel von Dambulla, 150 Buddha-Statuen unter einem Felsuberhang",
+   "Sigiriyas 1.200 Stufen, die Spiegelwand-Fresken und die Gipfelzitadelle",
+   "Dorf- und Reisfeldstopps spontan gemacht statt geplant",
+   "Das Gewuerzland Matale offen seitlich im Tuk-Tuk-Tempo gesehen"
+  ],
+  "included": [
+   "Privates Tuk-Tuk mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Kandy",
+   "alle Fahrten",
+   "Kraftstoff"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren in Sigiriya und Dambulla",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "kandy-unesco-heritage-day-by-local-bus-with-a-kandyan-guide": {
+  "title": "Kandy UNESCO-Erbe-Tag mit dem lokalen Bus mit einem Kandy-Guide",
+  "metaTitle": "Kandy mit dem lokalen Bus",
+  "metaDescription": "Kandy gesehen, wie Kandy-Bewohner es sehen: ein Tag per lokalem Bus mit Guide, einschliesslich dem Zahntempel, dem Huegel-Buddha und dem See.",
+  "shortDescription": "Kandy gesehen, wie Kandy-Bewohner es sehen: ein voller Tag, der sich mit dem lokalen Bus bewegt, mit einem Guide, einschliesslich des Zahntempels, des Huegel-Buddha, des Sees und der Viertel dazwischen.",
+  "fullDescription": "Fast jede Kandy-Tour setzt Sie in ein Privatauto. Diese setzt Sie in den Bus, was die tatsaechliche Art ist, wie sich die Stadt bewegt, und der Unterschied ist der grosste Teil des Sinns.\n\nSri-lankische Lokalbusse sind laut, voll, dekoriert, und folgen einer Logik, die nirgendwo aufgeschrieben ist. Einen Guide bei sich zu haben, verwandelt das von einem Hindernis in den interessantesten Teil des Tages, Sie lernen, welcher Bus wohin faehrt, was der Schaffner ruft, warum die Musik so laut ist, und Sie verbringen den Tag unter Leuten, die zur Arbeit gehen, statt unter anderen Besuchern.\n\nDie Staetten sind jene, die zaehlen. Der Zahntempel, der eine Reliquie des Buddha beherbergt und der Grund ist, warum Kandy eine UNESCO-Weltkulturerbestaette ist, wenn moeglich auf eine Puja abgestimmt. Der Bahirawakanda-Buddha auf dem Huegel darueber, 27 Meter weisser Beton mit der besten Aussicht der Stadt. Der See, den der letzte Koenig 1807 ausheben liess. Und die Viertel dazwischen, in denen keine Autotour anhaelt.\n\nEs ist ein langsamerer Tag als die private Version und ein erheblich reicherer, und er kostet einen Bruchteil, weil der Transport fast nichts kostet.\n\nKandy war die letzte Hauptstadt der singhalesischen Koenige und hielt gegen Portugiesen und Niederlaender durch, bis die Briten sie 1815 einnahmen, und der Tempel der Heiligen Zahnreliquie am See ist der Grund, warum sie wichtig ist: Die Reliquie, von der man glaubt, es sei ein Zahn des Buddha, ist das heiligste Objekt der Insel, und ihre Verwahrung legitimierte einst das Koenigtum. Die Reliquienkammer oeffnet dreimal taeglich fuer Puja, etwa um 5:30, 9:30 und 18:30 Uhr, wenn das Trommeln beginnt und die Schlange am Reliquienschrein vorbeizieht. Die Kleidung bedeckt Schultern und Knie, Schuhe werden am Eingang ausgezogen, und die Esala Perahera im Juli oder August fuehrt den Schrein auf einem Elefanten zehn Naechte lang durch die Stadt.",
+  "highlights": [
+   "Sich in Kandy mit dem lokalen Bus bewegen, mit einem Guide, der es verstaendlich macht",
+   "Der Zahntempel, wenn moeglich auf eine Puja abgestimmt",
+   "Der 27 Meter hohe Bahirawakanda-Buddha und die Aussicht ueber die Stadt",
+   "Viertel zwischen den Staetten, an denen Autotouren vorbeifahren",
+   "Ein Tag unter Menschen, die ihr Leben leben, statt unter Touristen"
+  ],
+  "included": [
+   "Ein englischsprachiger lokaler Guide fuer den ganzen Tag",
+   "alle lokalen Busfahrten",
+   "die gefuehrten Wanderabschnitte"
+  ],
+  "notIncluded": [
+   "Die Eintrittsgebuehr fuer den Zahntempel und jede andere Eintrittsgebuehr",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder",
+   "persoenliche Ausgaben"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Flyboard-Erlebnis in Pattaya",
   "fullDescription": "Dies ist ein 30-minütiges Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Flyboard-Erlebnis, Betreuung durch einen Instructor, Sicherheitsausrüstung und Duschen. Nicht enthalten sind Fotos und Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
