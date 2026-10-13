@@ -47690,13 +47690,13 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Ella: tour privado de un dia desde Kandy con viaje en tren pan...",
   "metaDescription": "Una excursion de un dia completo desde Kandy que visita Ramboda Falls, Srilanka, Damro Tea Factory, Nanuoya y Ella, Sri Lanka. Ofrecido por SIGIRITRIP TOURS (PVT)...",
   "shortDescription": "Una excursion de un dia completo desde Kandy que visita Ramboda Falls, Srilanka, Damro Tea Factory, Nanuoya y Ella, Sri Lanka. Ofrecido por SIGIRITRIP TOURS (PVT) LTD.",
-  "fullDescription": "Una excursion de un dia completo desde Kandy, que recorre Ramboda Falls, Srilanka, Damro Tea Factory, Nanuoya y Ella, Sri Lanka. Hay 6 paradas en total.\n\nEl orden de la ruta es Ramboda Falls, Srilanka (30 min), luego Damro Tea Factory (45 min), luego Nanuoya, luego Ella, Sri Lanka, luego Nine Arch Bridge (20 min).\n\nEl precio incluye servicio de recogida y regreso, tour guiado por una fabrica de te, experiencia de recoleccion de te y taza de te de Ceilan recien preparado. No incluye comidas y gastos personales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 609 $ juntos en lugar de 507 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de un dia completo desde Kandy, que recorre Ramboda Falls, Srilanka, Damro Tea Factory, Nanuoya y Ella, Sri Lanka. Hay 6 paradas en total.\n\nEl orden de la ruta es Ramboda Falls, Srilanka (30 min), luego Damro Tea Factory (45 min), luego Nanuoya, luego Ella, Sri Lanka, luego Nine Arch Bridge (20 min).\n\nEl precio incluye servicio de recogida y regreso, tour guiado de fabrica de te, experiencia de recoleccion de te y taza de te de Ceilan recien preparado. No incluye comidas y gastos personales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 609 $ juntos en lugar de 507 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de un dia completo desde Kandy que visita Ramboda Falls, Srilanka, Damro Tea Factory, Nanuoya y Ella, Sri Lanka. Ofrecido por SIGIRITRIP TOURS (PVT) LTD."
   ],
   "included": [
    "Servicio de recogida y regreso",
-   "Tour guiado por una fabrica de te",
+   "Tour guiado de fabrica de te",
    "Experiencia de recoleccion de te",
    "Taza de te de Ceilan recien preparado"
   ],
@@ -47859,14 +47859,14 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Wakeboard en Mirissa",
   "metaDescription": "Experiencia de 0,25 hora(s) en Mirissa. Wakeboard. Ofrecido por Z R I Adventures (Private) Limited.",
   "shortDescription": "Experiencia de 0,25 hora(s) en Mirissa. Wakeboard. Ofrecido por Z R I Adventures (Private) Limited.",
-  "fullDescription": "Una experiencia de 0,25 hora(s) en Mirissa. Wakeboard.\n\nZ R I Adventures (Private) Limited la organiza, y 3 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye wakeboard, equipo de seguridad y charla informativa. No incluye , por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una experiencia de 0,25 hora(s) en Mirissa. Wakeboard.\n\nZ R I Adventures (Private) Limited la organiza, y 3 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye wakeboard, equipo de seguridad y informe. No incluye , por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Wakeboard"
   ],
   "included": [
    "Wakeboard",
    "Equipo de seguridad",
-   "Charla informativa"
+   "Informe"
   ],
   "notIncluded": [
    ""
@@ -47877,13 +47877,13 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Paseo en boya donut en Mirissa",
   "metaDescription": "Experiencia de 0,25 hora(s) en Mirissa. . Ofrecido por Z R I Adventures (Private) Limited.",
   "shortDescription": "Experiencia de 0,25 hora(s) en Mirissa. . Ofrecido por Z R I Adventures (Private) Limited.",
-  "fullDescription": "Una experiencia de 0,25 hora(s) en Mirissa. Donut.\n\nZ R I Adventures (Private) Limited la organiza, y 2 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye equipo de seguridad y charla informativa. No incluye , por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una experiencia de 0,25 hora(s) en Mirissa. Donut.\n\nZ R I Adventures (Private) Limited la organiza, y 2 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye equipo de seguridad y informe. No incluye , por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Experiencia de 0,25 hora(s) en Mirissa. . Ofrecido por Z R I Adventures (Private) Limited."
   ],
   "included": [
    "Equipo de seguridad",
-   "Charla informativa"
+   "Informe"
   ],
   "notIncluded": [
    ""
@@ -48215,14 +48215,14 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Colombo/Negombo: tour de 2 dias a Arugam Bay con safari en Yala",
   "metaDescription": "Una excursion de 2 dia(s) desde Colombo que visita 08:00 AM – Begin Your Colombo/Negombo to Yala Adventure, Madu Ganga River Safari – Explore Mangroves & Islands,...",
   "shortDescription": "Una excursion de 2 dia(s) desde Colombo que visita 08:00 AM – Begin Your Colombo/Negombo to Yala Adventure, Madu Ganga River Safari – Explore Mangroves & Islands, Kosgoda Turtle Hatchery – Discover Turtle Conservation y 12:30 PM – Explore Historic Galle Fort. Ofrecido por Sign of Lanka (Pvt) Ltd.",
-  "fullDescription": "Una excursion de 2 dia(s) desde Colombo, que recorre 08:00 AM – Begin Your Colombo/Negombo to Yala Adventure, Madu Ganga River Safari – Explore Mangroves & Islands, Kosgoda Turtle Hatchery – Discover Turtle Conservation y 12:30 PM – Explore Historic Galle Fort. Hay 9 paradas en total.\n\nEl orden de la ruta es 08:00 AM – Begin Your Colombo/Negombo to Yala Adventure, luego Madu Ganga River Safari – Explore Mangroves & Islands, luego Kosgoda Turtle Hatchery – Discover Turtle Conservation, luego 12:30 PM – Explore Historic Galle Fort, luego 02:00 PM – Weligama Stilt Fishing Experience.\n\nEl precio incluye una noche de alojamiento en un hotel de 3 o 4 estrellas con desayuno incluido, transporte de ida y vuelta desde el hotel en vehiculo privado de lujo con aire acondicionado, el paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones, visita al fuerte de Galle y demostracion de pesca en zancos en Weligama. No incluye visita a Madu Ganga (aprox. 20 USD por persona), criadero de tortugas de Kosgoda (aprox. 5 USD por persona) y tarifas de entrada al parque nacional de Yala (aprox. 35 USD por persona), por lo que debe presupuestar eso por separado. Dos viajeros pagan 1285 $ juntos en lugar de 1200 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de 2 dia(s) desde Colombo, que recorre 08:00 AM – Begin Your Colombo/Negombo to Yala Adventure, Madu Ganga River Safari – Explore Mangroves & Islands, Kosgoda Turtle Hatchery – Discover Turtle Conservation y 12:30 PM – Explore Historic Galle Fort. Hay 9 paradas en total.\n\nEl orden de la ruta es 08:00 AM – Begin Your Colombo/Negombo to Yala Adventure, luego Madu Ganga River Safari – Explore Mangroves & Islands, luego Kosgoda Turtle Hatchery – Discover Turtle Conservation, luego 12:30 PM – Explore Historic Galle Fort, luego 02:00 PM – Weligama Stilt Fishing Experience.\n\nEl precio incluye 01 noche de alojamiento en hotel de 3 o 4 estrellas, en regimen de cama y desayuno, transporte desde el hotel y de vuelta en vehiculo privado de lujo con aire acondicionado, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones, visita al fuerte de Galle y demostracion de pesca en zancos en Weligama. No incluye visita a Madu Ganga (aprox. 20 USD por persona), criadero de tortugas de Kosgoda (aprox. 5 USD por persona) y tarifas de entrada al parque nacional de Yala (aprox. 35 USD por persona), por lo que debe presupuestar eso por separado. Dos viajeros pagan 1285 $ juntos en lugar de 1200 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de 2 dia(s) desde Colombo que visita 08:00 AM – Begin Your Colombo/Negombo to Yala Adventure, Madu Ganga River Safari – Explore Mangroves & Islands, Kosgoda Turtle Hatchery – Discover Turtle Conservation y 12:30 PM – Explore Historic Galle Fort. Ofrecido por Sign of Lanka (Pvt) Ltd."
   ],
   "included": [
-   "Una noche de alojamiento en un hotel de 3 o 4 estrellas con desayuno incluido.",
-   "Transporte de ida y vuelta desde el hotel en vehiculo privado de lujo con aire acondicionado.",
-   "El paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones.",
+   "01 noche de alojamiento en hotel de 3 o 4 estrellas, en regimen de cama y desayuno",
+   "Transporte desde el hotel y de vuelta en vehiculo privado de lujo con aire acondicionado",
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
    "Visita al fuerte de Galle",
    "Demostracion de pesca en zancos en Weligama"
   ],
@@ -48237,14 +48237,14 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Desde Colombo: tour de 2 dias por Yala y Ella con safari en jeep",
   "metaDescription": "Una excursion de 2 dia(s) desde Colombo que visita 08:00 AM – From Colombo & Begin Your Southern Adventure Day, Madu Ganga River Safari – Mangroves & Island Explo...",
   "shortDescription": "Una excursion de 2 dia(s) desde Colombo que visita 08:00 AM – From Colombo & Begin Your Southern Adventure Day, Madu Ganga River Safari – Mangroves & Island Exploration, Kosgoda Turtle Hatchery – Sea Turtle Conservation y 10:30 AM – Explore Historic Galle Fort. Ofrecido por Sign of Lanka (Pvt) Ltd.",
-  "fullDescription": "Una excursion de 2 dia(s) desde Colombo, que recorre 08:00 AM – From Colombo & Begin Your Southern Adventure Day, Madu Ganga River Safari – Mangroves & Island Exploration, Kosgoda Turtle Hatchery – Sea Turtle Conservation y 10:30 AM – Explore Historic Galle Fort. Hay 9 paradas en total.\n\nEl orden de la ruta es 08:00 AM – From Colombo & Begin Your Southern Adventure Day, luego Madu Ganga River Safari – Mangroves & Island Exploration, luego Kosgoda Turtle Hatchery – Sea Turtle Conservation, luego 10:30 AM – Explore Historic Galle Fort, luego 02:30 PM – Weligama Stilt Fishing Experience.\n\nEl precio incluye una noche de alojamiento en un hotel de 3 o 4 estrellas con desayuno incluido, transporte de ida y vuelta desde el hotel en vehiculo privado de lujo con aire acondicionado, el paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones, visita al fuerte de Galle y demostracion de pesca en zancos en Weligama. No incluye visita a Madu Ganga (aprox. 20 USD por persona), criadero de tortugas de Kosgoda (aprox. 5 USD por persona) y tarifas de entrada al parque nacional de Yala (aprox. 35 USD por persona), por lo que debe presupuestar eso por separado. Dos viajeros pagan 1217 $ juntos en lugar de 1167 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de 2 dia(s) desde Colombo, que recorre 08:00 AM – From Colombo & Begin Your Southern Adventure Day, Madu Ganga River Safari – Mangroves & Island Exploration, Kosgoda Turtle Hatchery – Sea Turtle Conservation y 10:30 AM – Explore Historic Galle Fort. Hay 9 paradas en total.\n\nEl orden de la ruta es 08:00 AM – From Colombo & Begin Your Southern Adventure Day, luego Madu Ganga River Safari – Mangroves & Island Exploration, luego Kosgoda Turtle Hatchery – Sea Turtle Conservation, luego 10:30 AM – Explore Historic Galle Fort, luego 02:30 PM – Weligama Stilt Fishing Experience.\n\nEl precio incluye 01 noche de alojamiento en hotel de 3 o 4 estrellas, en regimen de cama y desayuno, transporte desde el hotel y de vuelta en vehiculo privado de lujo con aire acondicionado, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones, visita al fuerte de Galle y demostracion de pesca en zancos en Weligama. No incluye visita a Madu Ganga (aprox. 20 USD por persona), criadero de tortugas de Kosgoda (aprox. 5 USD por persona) y tarifas de entrada al parque nacional de Yala (aprox. 35 USD por persona), por lo que debe presupuestar eso por separado. Dos viajeros pagan 1217 $ juntos en lugar de 1167 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de 2 dia(s) desde Colombo que visita 08:00 AM – From Colombo & Begin Your Southern Adventure Day, Madu Ganga River Safari – Mangroves & Island Exploration, Kosgoda Turtle Hatchery – Sea Turtle Conservation y 10:30 AM – Explore Historic Galle Fort. Ofrecido por Sign of Lanka (Pvt) Ltd."
   ],
   "included": [
-   "Una noche de alojamiento en un hotel de 3 o 4 estrellas con desayuno incluido.",
-   "Transporte de ida y vuelta desde el hotel en vehiculo privado de lujo con aire acondicionado.",
-   "El paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones.",
+   "01 noche de alojamiento en hotel de 3 o 4 estrellas, en regimen de cama y desayuno",
+   "Transporte desde el hotel y de vuelta en vehiculo privado de lujo con aire acondicionado",
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
    "Visita al fuerte de Galle",
    "Demostracion de pesca en zancos en Weligama"
   ],
@@ -48281,21 +48281,40 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Desde Ella: safari de 2 dias en el parque de Yala con parada e...",
   "metaDescription": "Una excursion de 2 dia(s) desde Ella que visita Scenic Drive to Yala & Ravana Falls, Yala National Park – Thrilling Jeep Safari, Early Morning – Optional Yala Wil...",
   "shortDescription": "Una excursion de 2 dia(s) desde Ella que visita Scenic Drive to Yala & Ravana Falls, Yala National Park – Thrilling Jeep Safari, Early Morning – Optional Yala Wildlife Safari y Breakfast at Your Hotel. Ofrecido por Sign of Lanka (Pvt) Ltd.",
-  "fullDescription": "Una excursion de 2 dia(s) desde Ella, que recorre Scenic Drive to Yala & Ravana Falls, Yala National Park – Thrilling Jeep Safari, Early Morning – Optional Yala Wildlife Safari y Breakfast at Your Hotel. Hay 6 paradas en total.\n\nEl orden de la ruta es Scenic Drive to Yala & Ravana Falls, luego Yala National Park – Thrilling Jeep Safari, luego Early Morning – Optional Yala Wildlife Safari, luego Breakfast at Your Hotel, luego Scenic Journey from Yala to Arugam Bay.\n\nEl precio incluye una noche de alojamiento en un hotel de 3 o 4 estrellas con desayuno incluido, transporte de ida y vuelta desde el hotel en vehiculo privado de lujo con aire acondicionado, el paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones, se proporcionaran jeeps de safari personalizados para una mejor experiencia de observacion de fauna y el paquete cubre el recargo de combustible y los cargos del conductor para un viaje conveniente y sin complicaciones. No incluye tarifas de entrada al parque nacional de Yala (aprox. 35 USD por persona), cualquier otro gasto no mencionado en la seccion de precio incluido y almuerzo o cena durante el tour, por lo que debe presupuestar eso por separado. Dos viajeros pagan 1014 $ juntos en lugar de 964 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de 2 dia(s) desde Ella, que recorre Scenic Drive to Yala & Ravana Falls, Yala National Park – Thrilling Jeep Safari, Early Morning – Optional Yala Wildlife Safari y Breakfast at Your Hotel. Hay 6 paradas en total.\n\nEl orden de la ruta es Scenic Drive to Yala & Ravana Falls, luego Yala National Park – Thrilling Jeep Safari, luego Early Morning – Optional Yala Wildlife Safari, luego Breakfast at Your Hotel, luego Scenic Journey from Yala to Arugam Bay.\n\nEl precio incluye 01 noche de alojamiento en hotel de 3 o 4 estrellas, en regimen de cama y desayuno, transporte desde el hotel y de vuelta en vehiculo privado de lujo con aire acondicionado, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones, se proporcionaran jeeps de safari personalizados para una experiencia mejorada de observacion de fauna y el paquete cubre el recargo de combustible y las tarifas del conductor para un viaje conveniente y sin complicaciones. No incluye tarifas de entrada al parque nacional de Yala (aprox. 35 USD por persona), cualquier otro gasto no mencionado en la seccion 'El precio incluye' y almuerzo o cena durante el tour, por lo que debe presupuestar eso por separado. Dos viajeros pagan 1014 $ juntos en lugar de 964 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de 2 dia(s) desde Ella que visita Scenic Drive to Yala & Ravana Falls, Yala National Park – Thrilling Jeep Safari, Early Morning – Optional Yala Wildlife Safari y Breakfast at Your Hotel. Ofrecido por Sign of Lanka (Pvt) Ltd."
   ],
   "included": [
-   "Una noche de alojamiento en un hotel de 3 o 4 estrellas con desayuno incluido.",
-   "Transporte de ida y vuelta desde el hotel en vehiculo privado de lujo con aire acondicionado.",
-   "El paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones.",
-   "Se proporcionaran jeeps de safari personalizados para una mejor experiencia de observacion de fauna.",
-   "El paquete cubre el recargo de combustible y los cargos del conductor para un viaje conveniente y sin complicaciones."
+   "01 noche de alojamiento en hotel de 3 o 4 estrellas, en regimen de cama y desayuno",
+   "Transporte desde el hotel y de vuelta en vehiculo privado de lujo con aire acondicionado",
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
+   "Se proporcionaran jeeps de safari personalizados para una experiencia mejorada de observacion de fauna",
+   "El paquete cubre el recargo de combustible y las tarifas del conductor para un viaje conveniente y sin complicaciones"
   ],
   "notIncluded": [
    "Tarifas de entrada al parque nacional de Yala (aprox. 35 USD por persona)",
-   "Cualquier otro gasto no mencionado en la seccion de precio incluido",
+   "Cualquier otro gasto no mencionado en la seccion 'El precio incluye'",
    "Almuerzo o cena durante el tour."
+  ]
+ },
+ "from-negombo-2-day-tour-to-nuwara-eliya-transfer": {
+  "title": "Desde Negombo: tour de 2 dias a Nuwara Eliya y traslado a Ella",
+  "metaTitle": "Desde Negombo: tour de 2 dias a Nuwara Eliya y traslado a Ella",
+  "metaDescription": "Una excursion de 2 dia(s) desde Negombo que visita Morning – Journey from Negombo to Sri Lanka’s Hill Country, St. Clare & Devon Waterfalls – Scenic Highland Wate...",
+  "shortDescription": "Una excursion de 2 dia(s) desde Negombo que visita Morning – Journey from Negombo to Sri Lanka’s Hill Country, St. Clare & Devon Waterfalls – Scenic Highland Waterfalls, Nuwara Eliya – Discover Sri Lanka’s “Little England” y Explore Nuwara Eliya Tea Country. Ofrecido por Sign of Lanka (Pvt) Ltd.",
+  "fullDescription": "Una excursion de 2 dia(s) desde Negombo, que recorre Morning – Journey from Negombo to Sri Lanka’s Hill Country, St. Clare & Devon Waterfalls – Scenic Highland Waterfalls, Nuwara Eliya – Discover Sri Lanka’s “Little England” y Explore Nuwara Eliya Tea Country. Hay 9 paradas en total.\n\nEl orden de la ruta es Morning – Journey from Negombo to Sri Lanka’s Hill Country, luego St. Clare & Devon Waterfalls – Scenic Highland Waterfalls, luego Nuwara Eliya – Discover Sri Lanka’s “Little England”, luego Explore Nuwara Eliya Tea Country, luego Evening – Relax in Nuwara Eliya.\n\nEl precio incluye 01 noche de alojamiento en hotel de 3 o 4 estrellas, en regimen de cama y desayuno, transporte desde el hotel y de vuelta en vehiculo privado de lujo con aire acondicionado, conductor-guia que habla ingles y visita a las cascadas de St. Clare y Devon. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 1014 $ juntos en lugar de 812 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de 2 dia(s) desde Negombo que visita Morning – Journey from Negombo to Sri Lanka’s Hill Country, St. Clare & Devon Waterfalls – Scenic Highland Waterfalls, Nuwara Eliya – Discover Sri Lanka’s “Little England” y Explore Nuwara Eliya Tea Country. Ofrecido por Sign of Lanka (Pvt) Ltd."
+  ],
+  "included": [
+   "01 noche de alojamiento en hotel de 3 o 4 estrellas, en regimen de cama y desayuno",
+   "Transporte desde el hotel y de vuelta en vehiculo privado de lujo con aire acondicionado",
+   "Conductor-guia que habla ingles",
+   "Visita a las cascadas de St. Clare y Devon"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "from-nuwara-eliya-full-day-to-kandy-with": {
@@ -48303,21 +48322,21 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Desde Nuwara Eliya: dia completo a Kandy con la torre de Ambul...",
   "metaDescription": "Una excursion de un dia completo desde Nuwara Eliya que visita Ramboda Falls, Srilanka, Ambuluwawa Tower, Royal Botanic Gardens, Kandy y Temple of the Sacred Toot...",
   "shortDescription": "Una excursion de un dia completo desde Nuwara Eliya que visita Ramboda Falls, Srilanka, Ambuluwawa Tower, Royal Botanic Gardens, Kandy y Temple of the Sacred Tooth Relic. Ofrecido por Sign of Lanka (Pvt) Ltd.",
-  "fullDescription": "Una excursion de un dia completo desde Nuwara Eliya, que recorre Ramboda Falls, Srilanka, Ambuluwawa Tower, Royal Botanic Gardens, Kandy y Temple of the Sacred Tooth Relic. Hay 5 paradas en total.\n\nEl orden de la ruta es Ramboda Falls, Srilanka, luego Ambuluwawa Tower, luego Royal Botanic Gardens, Kandy, luego Temple of the Sacred Tooth Relic, luego Bahirawakanda Temple.\n\nEl precio incluye transporte de ida y vuelta al hotel en vehiculo privado, servicio de un conductor-guia que habla ingles, el paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia y todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios. No incluye torre de Ambuluwawa (6 USD), templo de la Reliquia del Diente de Kandy (10 USD por persona) y jardines botanicos reales de Peradeniya (10 USD por persona), por lo que debe presupuestar eso por separado. Dos viajeros pagan 338 $ juntos en lugar de 331 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de un dia completo desde Nuwara Eliya, que recorre Ramboda Falls, Srilanka, Ambuluwawa Tower, Royal Botanic Gardens, Kandy y Temple of the Sacred Tooth Relic. Hay 5 paradas en total.\n\nEl orden de la ruta es Ramboda Falls, Srilanka, luego Ambuluwawa Tower, luego Royal Botanic Gardens, Kandy, luego Temple of the Sacred Tooth Relic, luego Bahirawakanda Temple.\n\nEl precio incluye transporte desde el hotel y de vuelta en vehiculo privado, servicio de un chofer-guia que habla ingles, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad y todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios. No incluye torre de Ambuluwawa (6 USD), templo de la reliquia del diente de Kandy (10 USD por persona) y jardines botanicos reales de Peradeniya (10 USD por persona), por lo que debe presupuestar eso por separado. Dos viajeros pagan 338 $ juntos en lugar de 331 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de un dia completo desde Nuwara Eliya que visita Ramboda Falls, Srilanka, Ambuluwawa Tower, Royal Botanic Gardens, Kandy y Temple of the Sacred Tooth Relic. Ofrecido por Sign of Lanka (Pvt) Ltd."
   ],
   "included": [
-   "Transporte de ida y vuelta al hotel en vehiculo privado",
-   "Servicio de un conductor-guia que habla ingles",
-   "El paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones.",
-   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales.",
-   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia.",
-   "Todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios."
+   "Transporte desde el hotel y de vuelta en vehiculo privado",
+   "Servicio de un chofer-guia que habla ingles",
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
+   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales",
+   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad",
+   "Todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios"
   ],
   "notIncluded": [
    "Torre de Ambuluwawa (6 USD)",
-   "Templo de la Reliquia del Diente de Kandy (10 USD por persona)",
+   "Templo de la reliquia del diente de Kandy (10 USD por persona)",
    "Jardines botanicos reales de Peradeniya (10 USD por persona)"
   ]
  },
@@ -48326,14 +48345,14 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Colombo/Negombo: tour de 2 dias por Nuwara Eliya, Kandy, y Sig...",
   "metaDescription": "Una excursion de 2 dia(s) desde Colombo que visita Scenic Journey from Colombo or Negombo to Nuwara Eliya, St. Clare’s & Devon Waterfalls, Local Lunch Experience ...",
   "shortDescription": "Una excursion de 2 dia(s) desde Colombo que visita Scenic Journey from Colombo or Negombo to Nuwara Eliya, St. Clare’s & Devon Waterfalls, Local Lunch Experience in Nuwara Eliya y Nuwara Eliya Tea Plantation Experience. Ofrecido por Sign of Lanka (Pvt) Ltd.",
-  "fullDescription": "Una excursion de 2 dia(s) desde Colombo, que recorre Scenic Journey from Colombo or Negombo to Nuwara Eliya, St. Clare’s & Devon Waterfalls, Local Lunch Experience in Nuwara Eliya y Nuwara Eliya Tea Plantation Experience. Hay 12 paradas en total.\n\nEl orden de la ruta es Scenic Journey from Colombo or Negombo to Nuwara Eliya, luego St. Clare’s & Devon Waterfalls, luego Local Lunch Experience in Nuwara Eliya, luego Nuwara Eliya Tea Plantation Experience, luego Relax in Sri Lanka’s Coolest Highland Town.\n\nEl precio incluye una noche de alojamiento en un hotel de 3 o 4 estrellas con desayuno incluido, transporte de ida y vuelta en vehiculo privado de lujo con aire acondicionado (recogida desde hoteles de Colombo o Negombo, regreso a hoteles en Sigiriya) y conductor-guia que habla ingles. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 998 $ juntos en lugar de 812 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de 2 dia(s) desde Colombo, que recorre Scenic Journey from Colombo or Negombo to Nuwara Eliya, St. Clare’s & Devon Waterfalls, Local Lunch Experience in Nuwara Eliya y Nuwara Eliya Tea Plantation Experience. Hay 12 paradas en total.\n\nEl orden de la ruta es Scenic Journey from Colombo or Negombo to Nuwara Eliya, luego St. Clare’s & Devon Waterfalls, luego Local Lunch Experience in Nuwara Eliya, luego Nuwara Eliya Tea Plantation Experience, luego Relax in Sri Lanka’s Coolest Highland Town.\n\nEl precio incluye 01 noche de alojamiento en hotel de 3 o 4 estrellas, en regimen de cama y desayuno, transporte de ida y vuelta en vehiculo privado de lujo con aire acondicionado (recogida desde hoteles de Colombo o Negombo, regreso a hoteles en Sigiriya) y conductor-guia que habla ingles. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 998 $ juntos en lugar de 812 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de 2 dia(s) desde Colombo que visita Scenic Journey from Colombo or Negombo to Nuwara Eliya, St. Clare’s & Devon Waterfalls, Local Lunch Experience in Nuwara Eliya y Nuwara Eliya Tea Plantation Experience. Ofrecido por Sign of Lanka (Pvt) Ltd."
   ],
   "included": [
-   "Una noche de alojamiento en un hotel de 3 o 4 estrellas con desayuno incluido.",
+   "01 noche de alojamiento en hotel de 3 o 4 estrellas, en regimen de cama y desayuno",
    "Transporte de ida y vuelta en vehiculo privado de lujo con aire acondicionado (recogida desde hoteles de Colombo o Negombo, regreso a hoteles en Sigiriya)",
-   "Conductor-guia que habla ingles."
+   "Conductor-guia que habla ingles"
   ],
   "notIncluded": [
    ""
@@ -48428,15 +48447,15 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Ella: safari de leopardos todo incluido de medio dia en Yala, ...",
   "metaDescription": "Una excursion de un dia completo desde Ella que visita Yala National Park. Ofrecido por Sign of Lanka (Pvt) Ltd.",
   "shortDescription": "Una excursion de un dia completo desde Ella que visita Yala National Park. Ofrecido por Sign of Lanka (Pvt) Ltd.",
-  "fullDescription": "Una excursion de un dia completo desde Ella, que recorre Yala National Park.\n\nEl precio incluye la recogida y el regreso para el safari se organizaran en jeep de safari o en un vehiculo confortable, segun la distancia, se proporcionaran jeeps de safari personalizados para una mejor experiencia de observacion de fauna, safari en el parque nacional de Yala (tarifa de entrada no incluida, opcion disponible para incluirla), el paquete cubre el recargo de combustible y los cargos del conductor para un viaje conveniente y sin complicaciones y tarifas de estacionamiento. No incluye almuerzo en un restaurante local, tarifas de entrada al parque nacional de Yala (36 USD por persona) y gastos personales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 440 $ juntos en lugar de 440 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de un dia completo desde Ella, que recorre Yala National Park.\n\nEl precio incluye la recogida y el regreso para el safari se organizaran con un jeep de safari o un vehiculo confortable, segun la distancia, se proporcionaran jeeps de safari personalizados para una experiencia mejorada de observacion de fauna, safari en el parque nacional de Yala (tarifa de entrada no incluida, opcion disponible para incluirla), el paquete cubre el recargo de combustible y las tarifas del conductor para un viaje conveniente y sin complicaciones y tarifas de estacionamiento. No incluye almuerzo en un restaurante local, tarifas de entrada al parque nacional de Yala (36 USD por persona) y gastos personales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 440 $ juntos en lugar de 440 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de un dia completo desde Ella que visita Yala National Park. Ofrecido por Sign of Lanka (Pvt) Ltd."
   ],
   "included": [
-   "La recogida y el regreso para el safari se organizaran en jeep de safari o en un vehiculo confortable, segun la distancia.",
-   "Se proporcionaran jeeps de safari personalizados para una mejor experiencia de observacion de fauna.",
+   "La recogida y el regreso para el safari se organizaran con un jeep de safari o un vehiculo confortable, segun la distancia",
+   "Se proporcionaran jeeps de safari personalizados para una experiencia mejorada de observacion de fauna",
    "Safari en el parque nacional de Yala (tarifa de entrada no incluida, opcion disponible para incluirla)",
-   "El paquete cubre el recargo de combustible y los cargos del conductor para un viaje conveniente y sin complicaciones.",
+   "El paquete cubre el recargo de combustible y las tarifas del conductor para un viaje conveniente y sin complicaciones",
    "Tarifas de estacionamiento"
   ],
   "notIncluded": [
@@ -48470,17 +48489,17 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Colombo/Negombo: exclusivo, roca de Sigiriya y cuevas de Dambulla",
   "metaDescription": "Una excursion de un dia completo desde Colombo que visita Sigiriya Fortress and Dambulla Royal Cave Temple y Golden Temple. Ofrecido por Royal Bliss Tours.",
   "shortDescription": "Una excursion de un dia completo desde Colombo que visita Sigiriya Fortress and Dambulla Royal Cave Temple y Golden Temple. Ofrecido por Royal Bliss Tours.",
-  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Sigiriya Fortress and Dambulla Royal Cave Temple y Golden Temple. Hay 2 paradas en total.\n\nEl orden de la ruta es Sigiriya Fortress, luego Dambulla Royal Cave Temple and Golden Temple.\n\nEl precio incluye transporte de ida y vuelta al hotel en vehiculo privado, guia de habla inglesa/alemana durante el recorrido, el paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia y todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios. No incluye tarifa de entrada a la fortaleza rocosa de Sigiriya (36 USD por persona), tarifa de entrada al templo de las cuevas de Dambulla (10 USD por persona) y almuerzo en un restaurante local, por lo que debe presupuestar eso por separado. Dos viajeros pagan 474 $ juntos en lugar de 440 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Sigiriya Fortress and Dambulla Royal Cave Temple y Golden Temple. Hay 2 paradas en total.\n\nEl orden de la ruta es Sigiriya Fortress, luego Dambulla Royal Cave Temple and Golden Temple.\n\nEl precio incluye transporte desde el hotel y de vuelta en vehiculo privado, guia de habla inglesa/alemana durante el recorrido, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad y todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios. No incluye tarifa de entrada a la fortaleza rocosa de Sigiriya (36 USD por persona), tarifa de entrada al templo de las cuevas de Dambulla (10 USD por persona) y almuerzo en un restaurante local, por lo que debe presupuestar eso por separado. Dos viajeros pagan 474 $ juntos en lugar de 440 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de un dia completo desde Colombo que visita Sigiriya Fortress and Dambulla Royal Cave Temple y Golden Temple. Ofrecido por Royal Bliss Tours."
   ],
   "included": [
-   "Transporte de ida y vuelta al hotel en vehiculo privado",
+   "Transporte desde el hotel y de vuelta en vehiculo privado",
    "Guia de habla inglesa/alemana durante el recorrido",
-   "El paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones.",
-   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales.",
-   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia.",
-   "Todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios."
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
+   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales",
+   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad",
+   "Todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios"
   ],
   "notIncluded": [
    "Tarifa de entrada a la fortaleza rocosa de Sigiriya (36 USD por persona)",
@@ -48493,17 +48512,17 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Negombo/Colombo: dia todo incluido, Sigiriya y Polonnaruwa",
   "metaDescription": "Una excursion de un dia completo desde Colombo que visita Sigiriya Fortress y Polonnaruwa Ancient City. Ofrecido por Sign of Lanka (Pvt) Ltd.",
   "shortDescription": "Una excursion de un dia completo desde Colombo que visita Sigiriya Fortress y Polonnaruwa Ancient City. Ofrecido por Sign of Lanka (Pvt) Ltd.",
-  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Sigiriya Fortress y Polonnaruwa Ancient City. Hay 2 paradas en total.\n\nEl orden de la ruta es Sigiriya Fortress, luego Polonnaruwa Ancient City.\n\nEl precio incluye transporte de ida y vuelta desde el hotel en vehiculo privado de lujo con aire acondicionado, guia de habla inglesa/alemana durante el recorrido, el paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia y todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios. No incluye tarifas de entrada a la fortaleza rocosa de Sigiriya (36 USD por persona), ciudad antigua de Polonnaruwa (30 USD por persona) y almuerzo en un restaurante local, por lo que debe presupuestar eso por separado. Dos viajeros pagan 575 $ juntos en lugar de 491 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Sigiriya Fortress y Polonnaruwa Ancient City. Hay 2 paradas en total.\n\nEl orden de la ruta es Sigiriya Fortress, luego Polonnaruwa Ancient City.\n\nEl precio incluye transporte desde el hotel y de vuelta en vehiculo privado de lujo con aire acondicionado, guia de habla inglesa/alemana durante el recorrido, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad y todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios. No incluye tarifas de entrada a la fortaleza rocosa de Sigiriya (36 USD por persona), ciudad antigua de Polonnaruwa (30 USD por persona) y almuerzo en un restaurante local, por lo que debe presupuestar eso por separado. Dos viajeros pagan 575 $ juntos en lugar de 491 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de un dia completo desde Colombo que visita Sigiriya Fortress y Polonnaruwa Ancient City. Ofrecido por Sign of Lanka (Pvt) Ltd."
   ],
   "included": [
-   "Transporte de ida y vuelta desde el hotel en vehiculo privado de lujo con aire acondicionado.",
+   "Transporte desde el hotel y de vuelta en vehiculo privado de lujo con aire acondicionado",
    "Guia de habla inglesa/alemana durante el recorrido.",
-   "El paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones.",
-   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales.",
-   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia.",
-   "Todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios."
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
+   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales",
+   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad",
+   "Todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios"
   ],
   "notIncluded": [
    "Tarifas de entrada a la fortaleza rocosa de Sigiriya (36 USD por persona)",
@@ -48964,14 +48983,14 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Desde Colombo: excursion de un dia a Kandy y las plantaciones ...",
   "metaDescription": "Una excursion de un dia completo desde Colombo que visita Damro Tea Factory. Ofrecido por Ceylon Traveline (PVT) LTD.",
   "shortDescription": "Una excursion de un dia completo desde Colombo que visita Damro Tea Factory. Ofrecido por Ceylon Traveline (PVT) LTD.",
-  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Damro Tea Factory.\n\nCeylon Traveline (PVT) LTD la organiza, y 10 elementos estan cubiertos por el precio. La cancelacion es gratuita. Visite el templo de la Reliquia del Diente, sitio del Patrimonio Mundial de la UNESCO.\n\nEl precio incluye agua embotellada, vehiculo con aire acondicionado, wi-Fi a bordo y todas las tarifas e impuestos. No incluye almuerzo, por lo que debe presupuestar eso por separado. Dos viajeros pagan 606 $ juntos en lugar de 474 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Damro Tea Factory.\n\nCeylon Traveline (PVT) LTD la organiza, y 10 elementos estan cubiertos por el precio. La cancelacion es gratuita. Visite el templo de la Reliquia del Diente, sitio del Patrimonio Mundial de la UNESCO.\n\nEl precio incluye agua embotellada, vehiculo con aire acondicionado, wifi a bordo y todas las tarifas e impuestos. No incluye almuerzo, por lo que debe presupuestar eso por separado. Dos viajeros pagan 606 $ juntos en lugar de 474 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de un dia completo desde Colombo que visita Damro Tea Factory. Ofrecido por Ceylon Traveline (PVT) LTD."
   ],
   "included": [
    "Agua embotellada",
    "Vehiculo con aire acondicionado",
-   "Wi-Fi a bordo",
+   "Wifi a bordo",
    "Todas las tarifas e impuestos"
   ],
   "notIncluded": [
@@ -49469,7 +49488,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Colombo: tour de un dia, Sigiriya, cuevas de Dambulla, y fauna",
   "metaDescription": "Experiencia de un dia completo en Colombo. Explore la fortaleza de la Roca del Leon. Ofrecido por Vacation Islands Tours.",
   "shortDescription": "Experiencia de un dia completo en Colombo. Explore la fortaleza de la Roca del Leon. Ofrecido por Vacation Islands Tours.",
-  "fullDescription": "Una experiencia de un dia completo en Colombo. Explore la fortaleza de la Roca del Leon.\n\nVacation Islands Tours la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel, transporte en vehiculo con aire acondicionado, conductor/guia y wi-Fi. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 203 $ juntos en lugar de 153 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una experiencia de un dia completo en Colombo. Explore la fortaleza de la Roca del Leon.\n\nVacation Islands Tours la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel, transporte en vehiculo con aire acondicionado, conductor/guia y wifi. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 203 $ juntos en lugar de 153 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Explore la fortaleza de la Roca del Leon"
   ],
@@ -49477,7 +49496,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Recogida y regreso al hotel",
    "Transporte en vehiculo con aire acondicionado",
    "Conductor/guia",
-   "Wi-Fi"
+   "Wifi"
   ],
   "notIncluded": [
    ""
@@ -49488,12 +49507,12 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Tour por Nuwara Eliya con la cascada de Ramboda, torre de Ambu...",
   "metaDescription": "Una excursion de un dia completo desde Nuwara Eliya que visita Ramboda Falls, Srilanka, Nuwara Eliya y Lake Gregory. Ofrecido por Travel Bird Sri Lanka.",
   "shortDescription": "Una excursion de un dia completo desde Nuwara Eliya que visita Ramboda Falls, Srilanka, Nuwara Eliya y Lake Gregory. Ofrecido por Travel Bird Sri Lanka.",
-  "fullDescription": "Una excursion de un dia completo desde Nuwara Eliya, que recorre Ramboda Falls, Srilanka, Nuwara Eliya y Lake Gregory. La parada mas larga es Nuwara Eliya, con una duracion de unos 4 horas. Hay 3 paradas en total.\n\nEl orden de la ruta es Ramboda Falls, Srilanka (30 min), luego Nuwara Eliya (4h), luego Lake Gregory (3h).\n\nEl precio incluye tour guiado por una fabrica de te, oportunidad de ver el proceso de recoleccion de te, degustacion de diferentes tipos de te y visita a mercados locales. No incluye comidas y bebidas (a menos que se especifique), gastos personales y entradas, por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una excursion de un dia completo desde Nuwara Eliya, que recorre Ramboda Falls, Srilanka, Nuwara Eliya y Lake Gregory. La parada mas larga es Nuwara Eliya, con una duracion de unos 4 horas. Hay 3 paradas en total.\n\nEl orden de la ruta es Ramboda Falls, Srilanka (30 min), luego Nuwara Eliya (4h), luego Lake Gregory (3h).\n\nEl precio incluye tour guiado de fabrica de te, oportunidad de ver el proceso de recoleccion de te, degustacion de diferentes tipos de te y visita a mercados locales. No incluye comidas y bebidas (a menos que se especifique), gastos personales y entradas, por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Una excursion de un dia completo desde Nuwara Eliya que visita Ramboda Falls, Srilanka, Nuwara Eliya y Lake Gregory. Ofrecido por Travel Bird Sri Lanka."
   ],
   "included": [
-   "Tour guiado por una fabrica de te",
+   "Tour guiado de fabrica de te",
    "Oportunidad de ver el proceso de recoleccion de te",
    "Degustacion de diferentes tipos de te",
    "Visita a mercados locales"
@@ -51592,13 +51611,13 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Kandy a Ella o Ella a Kandy: viaje panoramico en tren con todo...",
   "metaDescription": "Experiencia de un dia completo en Kandy. . Ofrecido por Ceylon Pass.",
   "shortDescription": "Experiencia de un dia completo en Kandy. . Ofrecido por Ceylon Pass.",
-  "fullDescription": "Una experiencia de un dia completo en Kandy. Enjoy the scenic views of the Ella train journey.\n\nCeylon Pass la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel (dentro de 10 millas de la estacion), asientos reservados con antelacion en primera clase, boleto de ida en primera clase, bebida a elegir, incluyendo vino, refresco, bebida caliente, o prosecco y seleccion de sandwiches, galletas, frutas exoticas, y bocadillos. No incluye bebidas adicionales en el tren, alimentos adicionales en el tren y recogida o regreso de larga distancia (a mas de 10 millas de la estacion), por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una experiencia de un dia completo en Kandy. Enjoy the scenic views of the Ella train journey.\n\nCeylon Pass la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel (dentro de 10 millas de la estacion), asientos reservados en primera clase, boleto de ida en primera clase, bebida a elegir, incluyendo vino, refresco, bebida caliente, o prosecco y seleccion de sandwiches, galletas, frutas exoticas, y bocadillos. No incluye bebidas adicionales en el tren, alimentos adicionales en el tren y recogida o regreso de larga distancia (a mas de 10 millas de la estacion), por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Experiencia de un dia completo en Kandy. . Ofrecido por Ceylon Pass."
   ],
   "included": [
    "Recogida y regreso al hotel (dentro de 10 millas de la estacion)",
-   "Asientos reservados con antelacion en primera clase",
+   "Asientos reservados en primera clase",
    "Boleto de ida en primera clase",
    "Bebida a elegir, incluyendo vino, refresco, bebida caliente, o prosecco",
    "Seleccion de sandwiches, galletas, frutas exoticas, y bocadillos"
@@ -52435,7 +52454,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Desde Colombo/Negombo: emociones de cumbre, caminata guiada al...",
   "metaDescription": "Una excursion de un dia completo desde Colombo que visita Adam's Peak. Ofrecido por Sign of Lanka (Pvt) Ltd.",
   "shortDescription": "Una excursion de un dia completo desde Colombo que visita Adam's Peak. Ofrecido por Sign of Lanka (Pvt) Ltd.",
-  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Adam's Peak.\n\nEl precio incluye transporte conveniente de ida y vuelta a su hotel en un vehiculo privado de lujo con aire acondicionado, desayuno al dia siguiente en un restaurante local, guia de senderismo privado dedicado, el paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones y tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales. No incluye cualquier otro gasto no mencionado en la seccion de inclusiones y propinas, por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Adam's Peak.\n\nEl precio incluye transporte conveniente de ida y vuelta a su hotel en un vehiculo privado de lujo con aire acondicionado, desayuno al dia siguiente en un restaurante local, guia de senderismo privado dedicado, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones y tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales. No incluye cualquier otro gasto no mencionado en la seccion de inclusiones y propinas, por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Una excursion de un dia completo desde Colombo que visita Adam's Peak. Ofrecido por Sign of Lanka (Pvt) Ltd."
   ],
@@ -52443,8 +52462,8 @@ export const ES_TOURS: Record<string, TourT> = {
    "Transporte conveniente de ida y vuelta a su hotel en un vehiculo privado de lujo con aire acondicionado",
    "Desayuno al dia siguiente en un restaurante local",
    "Guia de senderismo privado dedicado",
-   "El paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones.",
-   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales."
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
+   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales"
   ],
   "notIncluded": [
    "Cualquier otro gasto no mencionado en la seccion de inclusiones",
@@ -52747,7 +52766,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Desde Kandy: caminata guiada epica y todo incluido al Pico de ...",
   "metaDescription": "Una excursion de un dia completo desde Kandy que visita Adam's Peak. Ofrecido por Sign of Lanka (Pvt) Ltd.",
   "shortDescription": "Una excursion de un dia completo desde Kandy que visita Adam's Peak. Ofrecido por Sign of Lanka (Pvt) Ltd.",
-  "fullDescription": "Una excursion de un dia completo desde Kandy, que recorre Adam's Peak.\n\nEl precio incluye disfrute de un transporte conveniente de ida y vuelta a su hotel en un vehiculo privado de lujo con aire acondicionado, desayuno al dia siguiente en un restaurante local, guia privado dedicado para la caminata, el paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones y tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales. No incluye cualquier otro gasto no mencionado en la seccion de precio incluido y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 338 $ juntos en lugar de 331 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de un dia completo desde Kandy, que recorre Adam's Peak.\n\nEl precio incluye disfrute de un transporte conveniente de ida y vuelta a su hotel en un vehiculo privado de lujo con aire acondicionado, desayuno al dia siguiente en un restaurante local, guia privado dedicado para la caminata, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones y tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales. No incluye cualquier otro gasto no mencionado en la seccion 'El precio incluye' y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 338 $ juntos en lugar de 331 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de un dia completo desde Kandy que visita Adam's Peak. Ofrecido por Sign of Lanka (Pvt) Ltd."
   ],
@@ -52755,11 +52774,11 @@ export const ES_TOURS: Record<string, TourT> = {
    "Disfrute de un transporte conveniente de ida y vuelta a su hotel en un vehiculo privado de lujo con aire acondicionado.",
    "Desayuno al dia siguiente en un restaurante local",
    "Guia privado dedicado para la caminata",
-   "El paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones.",
-   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales."
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
+   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales"
   ],
   "notIncluded": [
-   "Cualquier otro gasto no mencionado en la seccion de precio incluido",
+   "Cualquier otro gasto no mencionado en la seccion 'El precio incluye'",
    "Propinas"
   ]
  },
@@ -52830,19 +52849,19 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Desde Kandy: excursion todo incluido a Nuwara Eliya con almuerzo",
   "metaDescription": "Una excursion de un dia completo desde Kandy que visita Ramboda Falls, Srilanka, Pedro Tea Factory, Ramboda Falls, Srilanka y Nuwara Eliya. Ofrecido por Sign of L...",
   "shortDescription": "Una excursion de un dia completo desde Kandy que visita Ramboda Falls, Srilanka, Pedro Tea Factory, Ramboda Falls, Srilanka y Nuwara Eliya. Ofrecido por Sign of Lanka (Pvt) Ltd.",
-  "fullDescription": "Una excursion de un dia completo desde Kandy, que recorre Ramboda Falls, Srilanka, Pedro Tea Factory, Ramboda Falls, Srilanka y Nuwara Eliya. Hay 4 paradas en total.\n\nEl orden de la ruta es Ramboda Falls, Srilanka, luego Pedro Tea Factory, luego Ramboda Falls, Srilanka, luego Nuwara Eliya.\n\nEl precio incluye disfrute de un transporte conveniente de ida y vuelta a su hotel en Kandy en un vehiculo privado de lujo con aire acondicionado, el paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones, tarifas de entrada durante el recorrido, almuerzo en un restaurante local y tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales. No incluye cualquier otro gasto no mencionado en la seccion de precio incluido y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 322 $ juntos en lugar de 271 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de un dia completo desde Kandy, que recorre Ramboda Falls, Srilanka, Pedro Tea Factory, Ramboda Falls, Srilanka y Nuwara Eliya. Hay 4 paradas en total.\n\nEl orden de la ruta es Ramboda Falls, Srilanka, luego Pedro Tea Factory, luego Ramboda Falls, Srilanka, luego Nuwara Eliya.\n\nEl precio incluye disfrute de un transporte conveniente de ida y vuelta a su hotel en Kandy en un vehiculo privado de lujo con aire acondicionado, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones, tarifas de entrada durante el recorrido, almuerzo en un restaurante local y tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales. No incluye cualquier otro gasto no mencionado en la seccion 'El precio incluye' y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 322 $ juntos en lugar de 271 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de un dia completo desde Kandy que visita Ramboda Falls, Srilanka, Pedro Tea Factory, Ramboda Falls, Srilanka y Nuwara Eliya. Ofrecido por Sign of Lanka (Pvt) Ltd."
   ],
   "included": [
    "Disfrute de un transporte conveniente de ida y vuelta a su hotel en Kandy en un vehiculo privado de lujo con aire acondicionado.",
-   "El paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones.",
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
    "Tarifas de entrada durante el recorrido",
    "Almuerzo en un restaurante local",
-   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales."
+   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales"
   ],
   "notIncluded": [
-   "Cualquier otro gasto no mencionado en la seccion de precio incluido",
+   "Cualquier otro gasto no mencionado en la seccion 'El precio incluye'",
    "Propinas"
   ]
  },
@@ -52911,20 +52930,20 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Bentota: fuerte holandes de Galle y safari en el rio Madu, tod...",
   "metaDescription": "Una excursion de un dia completo desde Galle que visita Galle Fort, Madu River Boat Safari y Kosgoda Sea Turtle Conservation. Ofrecido por DNTours Ahungalla.",
   "shortDescription": "Una excursion de un dia completo desde Galle que visita Galle Fort, Madu River Boat Safari y Kosgoda Sea Turtle Conservation. Ofrecido por DNTours Ahungalla.",
-  "fullDescription": "Una excursion de un dia completo desde Galle, que recorre Galle Fort, Madu River Boat Safari y Kosgoda Sea Turtle Conservation. Hay 3 paradas en total.\n\nEl orden de la ruta es Galle Fort, luego Madu River Boat Safari, luego Kosgoda Sea Turtle Conservation.\n\nEl precio incluye transporte de ida y vuelta al hotel en vehiculo privado, tarifas de barco para el safari fluvial en Madu Ganga y tarifas de entrada al criadero de tortugas en Kosgoda, el paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia y todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios. No incluye cualquier otro gasto no mencionado en la seccion de precio incluido, almuerzo en un restaurante local y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 271 $ juntos en lugar de 237 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de un dia completo desde Galle, que recorre Galle Fort, Madu River Boat Safari y Kosgoda Sea Turtle Conservation. Hay 3 paradas en total.\n\nEl orden de la ruta es Galle Fort, luego Madu River Boat Safari, luego Kosgoda Sea Turtle Conservation.\n\nEl precio incluye transporte desde el hotel y de vuelta en vehiculo privado, tarifas de barco para el safari fluvial en Madu Ganga y tarifas de entrada al criadero de tortugas en Kosgoda, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad y todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios. No incluye cualquier otro gasto no mencionado en la seccion 'El precio incluye', almuerzo en un restaurante local y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 271 $ juntos en lugar de 237 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de un dia completo desde Galle que visita Galle Fort, Madu River Boat Safari y Kosgoda Sea Turtle Conservation. Ofrecido por DNTours Ahungalla."
   ],
   "included": [
-   "Transporte de ida y vuelta al hotel en vehiculo privado",
+   "Transporte desde el hotel y de vuelta en vehiculo privado",
    "Tarifas de barco para el safari fluvial en Madu Ganga y tarifas de entrada al criadero de tortugas en Kosgoda",
-   "El paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones.",
-   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales.",
-   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia.",
-   "Todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios."
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
+   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales",
+   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad",
+   "Todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios"
   ],
   "notIncluded": [
-   "Cualquier otro gasto no mencionado en la seccion de precio incluido",
+   "Cualquier otro gasto no mencionado en la seccion 'El precio incluye'",
    "Almuerzo en un restaurante local",
    "Propinas"
   ]
@@ -52934,20 +52953,20 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Negombo/Colombo: tour privado al fuerte holandes de Galle y sa...",
   "metaDescription": "Una excursion de un dia completo desde Colombo que visita Galle Fort, Madu River Boat Safari y Kosgoda Sea Turtle Conservation. Ofrecido por Sign of Lanka (Pvt) Ltd.",
   "shortDescription": "Una excursion de un dia completo desde Colombo que visita Galle Fort, Madu River Boat Safari y Kosgoda Sea Turtle Conservation. Ofrecido por Sign of Lanka (Pvt) Ltd.",
-  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Galle Fort, Madu River Boat Safari y Kosgoda Sea Turtle Conservation. Hay 3 paradas en total.\n\nEl orden de la ruta es Galle Fort, luego Madu River Boat Safari, luego Kosgoda Sea Turtle Conservation.\n\nEl precio incluye transporte de ida y vuelta al hotel en vehiculo privado, tarifas de barco para el safari fluvial en Madu Ganga y tarifas de entrada al criadero de tortugas en Kosgoda, el paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia y todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios. No incluye cualquier otro gasto no mencionado en la seccion de precio incluido, almuerzo en un restaurante local y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 440 $ juntos en lugar de 389 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Galle Fort, Madu River Boat Safari y Kosgoda Sea Turtle Conservation. Hay 3 paradas en total.\n\nEl orden de la ruta es Galle Fort, luego Madu River Boat Safari, luego Kosgoda Sea Turtle Conservation.\n\nEl precio incluye transporte desde el hotel y de vuelta en vehiculo privado, tarifas de barco para el safari fluvial en Madu Ganga y tarifas de entrada al criadero de tortugas en Kosgoda, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad y todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios. No incluye cualquier otro gasto no mencionado en la seccion 'El precio incluye', almuerzo en un restaurante local y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 440 $ juntos en lugar de 389 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de un dia completo desde Colombo que visita Galle Fort, Madu River Boat Safari y Kosgoda Sea Turtle Conservation. Ofrecido por Sign of Lanka (Pvt) Ltd."
   ],
   "included": [
-   "Transporte de ida y vuelta al hotel en vehiculo privado",
+   "Transporte desde el hotel y de vuelta en vehiculo privado",
    "Tarifas de barco para el safari fluvial en Madu Ganga y tarifas de entrada al criadero de tortugas en Kosgoda",
-   "El paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones.",
-   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales.",
-   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia.",
-   "Todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios."
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
+   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales",
+   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad",
+   "Todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios"
   ],
   "notIncluded": [
-   "Cualquier otro gasto no mencionado en la seccion de precio incluido",
+   "Cualquier otro gasto no mencionado en la seccion 'El precio incluye'",
    "Almuerzo en un restaurante local",
    "Propinas"
   ]
@@ -52957,20 +52976,20 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Desde Negombo: safari exclusivo en el rio Madu y criadero de t...",
   "metaDescription": "Una excursion de medio dia desde Negombo que visita Madu River Safari y Kosgoda Sea Turtle Conservation. Ofrecido por Sign of Lanka (Pvt) Ltd.",
   "shortDescription": "Una excursion de medio dia desde Negombo que visita Madu River Safari y Kosgoda Sea Turtle Conservation. Ofrecido por Sign of Lanka (Pvt) Ltd.",
-  "fullDescription": "Una excursion de medio dia desde Negombo, que recorre Madu River Safari y Kosgoda Sea Turtle Conservation. Hay 2 paradas en total.\n\nEl orden de la ruta es Madu River Safari, luego Kosgoda Sea Turtle Conservation.\n\nEl precio incluye transporte de ida y vuelta al hotel en vehiculo privado, tarifas de barco para el safari fluvial en Madu Ganga y tarifas de entrada al criadero de tortugas en Kosgoda, el paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia y todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios. No incluye cualquier otro gasto no mencionado en la seccion de precio incluido y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 440 $ juntos en lugar de 381 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de medio dia desde Negombo, que recorre Madu River Safari y Kosgoda Sea Turtle Conservation. Hay 2 paradas en total.\n\nEl orden de la ruta es Madu River Safari, luego Kosgoda Sea Turtle Conservation.\n\nEl precio incluye transporte desde el hotel y de vuelta en vehiculo privado, tarifas de barco para el safari fluvial en Madu Ganga y tarifas de entrada al criadero de tortugas en Kosgoda, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad y todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios. No incluye cualquier otro gasto no mencionado en la seccion 'El precio incluye' y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 440 $ juntos en lugar de 381 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de medio dia desde Negombo que visita Madu River Safari y Kosgoda Sea Turtle Conservation. Ofrecido por Sign of Lanka (Pvt) Ltd."
   ],
   "included": [
-   "Transporte de ida y vuelta al hotel en vehiculo privado",
+   "Transporte desde el hotel y de vuelta en vehiculo privado",
    "Tarifas de barco para el safari fluvial en Madu Ganga y tarifas de entrada al criadero de tortugas en Kosgoda",
-   "El paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones.",
-   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales.",
-   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia.",
-   "Todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios."
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
+   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales",
+   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad",
+   "Todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios"
   ],
   "notIncluded": [
-   "Cualquier otro gasto no mencionado en la seccion de precio incluido",
+   "Cualquier otro gasto no mencionado en la seccion 'El precio incluye'",
    "Propinas"
   ]
  },
@@ -53019,20 +53038,20 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Colombo/Negombo: aventura en barco por Muthurajawela y el cana...",
   "metaDescription": "Una excursion de medio dia desde Colombo que visita Muthurajawela Wetlands Sanctuary Visitor Center y Dutch Canal. Ofrecido por Sign of Lanka (Pvt) Ltd.",
   "shortDescription": "Una excursion de medio dia desde Colombo que visita Muthurajawela Wetlands Sanctuary Visitor Center y Dutch Canal. Ofrecido por Sign of Lanka (Pvt) Ltd.",
-  "fullDescription": "Una excursion de medio dia desde Colombo, que recorre Muthurajawela Wetlands Sanctuary Visitor Center y Dutch Canal. Hay 2 paradas en total.\n\nEl orden de la ruta es Muthurajawela Wetlands Sanctuary Visitor Center, luego Dutch Canal.\n\nEl precio incluye transporte de ida y vuelta al hotel en tuk-tuk/auto segun la distancia, tarifas de barco y chalecos salvavidas, el paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia y todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios. No incluye cualquier otro gasto no mencionado en la seccion de precio incluido y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 288 $ juntos en lugar de 288 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de medio dia desde Colombo, que recorre Muthurajawela Wetlands Sanctuary Visitor Center y Dutch Canal. Hay 2 paradas en total.\n\nEl orden de la ruta es Muthurajawela Wetlands Sanctuary Visitor Center, luego Dutch Canal.\n\nEl precio incluye transporte de ida y vuelta al hotel en tuk-tuk/auto segun la distancia, tarifas de barco y chalecos salvavidas, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad y todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios. No incluye cualquier otro gasto no mencionado en la seccion 'El precio incluye' y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 288 $ juntos en lugar de 288 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de medio dia desde Colombo que visita Muthurajawela Wetlands Sanctuary Visitor Center y Dutch Canal. Ofrecido por Sign of Lanka (Pvt) Ltd."
   ],
   "included": [
    "Transporte de ida y vuelta al hotel en tuk-tuk/auto segun la distancia",
    "Tarifas de barco y chalecos salvavidas",
-   "El paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones.",
-   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales.",
-   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia.",
-   "Todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios."
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
+   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales",
+   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad",
+   "Todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios"
   ],
   "notIncluded": [
-   "Cualquier otro gasto no mencionado en la seccion de precio incluido",
+   "Cualquier otro gasto no mencionado en la seccion 'El precio incluye'",
    "Propinas"
   ]
  },
@@ -71789,21 +71808,182 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "ella-sri-lanka-cycle-zone-bike-tour": {
+  "title": "Ella, Sri Lanka: tour en bicicleta en zona de ciclismo",
+  "metaTitle": "Ella, Sri Lanka: tour en bicicleta en zona de ciclismo",
+  "metaDescription": "Una excursion de 3 hora(s) desde Ella que visita Train. Ofrecido por Ella Silloam Tours.",
+  "shortDescription": "Una excursion de 3 hora(s) desde Ella que visita Train. Ofrecido por Ella Silloam Tours.",
+  "fullDescription": "Una excursion de 3 hora(s) desde Ella, que recorre Train.\n\nElla Silloam Tours la organiza, y 7 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye guias experimentados y capacitados, actividades de aventura para una nueva experiencia, equipo de seguridad de alta calidad (casco, gorro, etc.), mapa detallado de la ruta del tour y botiquin de primeros auxilios disponible. No incluye , por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de 3 hora(s) desde Ella que visita Train. Ofrecido por Ella Silloam Tours."
+  ],
+  "included": [
+   "Guias experimentados y capacitados",
+   "Actividades de aventura para una nueva experiencia",
+   "Equipo de seguridad de alta calidad (casco, gorro, etc.)",
+   "Mapa detallado de la ruta del tour",
+   "Botiquin de primeros auxilios disponible"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "kandy-city-tour-immerse-yourself-in-kandys-rich": {
+  "title": "Kandy: tour por la ciudad, sumergase en la rica historia de Kandy",
+  "metaTitle": "Kandy: tour por la ciudad, sumergase en la rica historia de Kandy",
+  "metaDescription": "Experiencia de medio dia en Kandy. . Ofrecido por Tropical Trails Lanka.",
+  "shortDescription": "Experiencia de medio dia en Kandy. . Ofrecido por Tropical Trails Lanka.",
+  "fullDescription": "Una experiencia de medio dia en Kandy. Take in the panoramic views of Kandy from the Kandy View Point.\n\nTropical Trails Lanka la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye atracciones gratuitas:, mirador de Kandy, disfrute de una vista panoramica impresionante de la ciudad sin ninguna tarifa de entrada, pilimathalawa, paseese por este encantador pueblo, conocido por su laton tradicional y artesanias, gratis, cementerio de guerra de Kandy, rinda homenaje en este cementerio de la epoca colonial bien conservado, sin tarifa de entrada y recogida gratuita incluida para hoteles en Kandy en un radio de 2 km con conductor de tuk-tuk local. No incluye atracciones de pago:, estatua de Buda de Bahiravokanda Vihara, se requiere una pequeña tarifa de entrada para visitar esta iconica estatua de Buda en la colina, jardines botanicos reales, Peradeniya, los visitantes deben comprar una entrada para explorar la vasta coleccion de plantas y flores exoticas y museo Sri Dalada y templo de la reliquia del diente sagrado, como uno de los lugares mas sagrados de Sri Lanka, se aplica tarifa de entrada para el templo y el museo, por lo que debe presupuestar eso por separado. Dos viajeros pagan 30 $ juntos en lugar de 30 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de medio dia en Kandy. . Ofrecido por Tropical Trails Lanka."
+  ],
+  "included": [
+   "Atracciones gratuitas:",
+   "Mirador de Kandy, disfrute de una vista panoramica impresionante de la ciudad sin ninguna tarifa de entrada",
+   "Pilimathalawa, paseese por este encantador pueblo, conocido por su laton tradicional y artesanias, gratis",
+   "Cementerio de guerra de Kandy, rinda homenaje en este cementerio de la epoca colonial bien conservado, sin tarifa de entrada",
+   "Recogida gratuita incluida para hoteles en Kandy en un radio de 2 km con conductor de tuk-tuk local"
+  ],
+  "notIncluded": [
+   "Atracciones de pago:",
+   "Estatua de Buda de Bahiravokanda Vihara, se requiere una pequeña tarifa de entrada para visitar esta iconica estatua de Buda en la colina",
+   "Jardines botanicos reales, Peradeniya, los visitantes deben comprar una entrada para explorar la vasta coleccion de plantas y flores exoticas",
+   "Museo Sri Dalada y templo de la reliquia del diente sagrado, como uno de los lugares mas sagrados de Sri Lanka, se aplica tarifa de entrada para el templo y el museo"
+  ]
+ },
+ "from-colombo-sigiriya-fortress-and-best-wildlife": {
+  "title": "Desde Colombo: fortaleza de Sigiriya y mejor safari de fauna",
+  "metaTitle": "Desde Colombo: fortaleza de Sigiriya y mejor safari de fauna",
+  "metaDescription": "Una excursion de un dia completo desde Colombo que visita Sigiriya Museum, Sigiriya Fortress y Hurulu Forest Reserve. Ofrecido por Ceylon Traveline (PVT) LTD.",
+  "shortDescription": "Una excursion de un dia completo desde Colombo que visita Sigiriya Museum, Sigiriya Fortress y Hurulu Forest Reserve. Ofrecido por Ceylon Traveline (PVT) LTD.",
+  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Sigiriya Museum, Sigiriya Fortress y Hurulu Forest Reserve. La parada mas larga es Sigiriya Fortress, con una duracion de unos 3 horas. Hay 3 paradas en total.\n\nEl orden de la ruta es Sigiriya Museum (1h), luego Sigiriya Fortress (3h), luego Hurulu Forest Reserve (3h).\n\nEl precio incluye agua embotellada, vehiculo con aire acondicionado, wifi a bordo y plato de frutas de la selva, de cortesia. No incluye almuerzo, por lo que debe presupuestar eso por separado. Dos viajeros pagan 500 $ juntos en lugar de 362 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de un dia completo desde Colombo que visita Sigiriya Museum, Sigiriya Fortress y Hurulu Forest Reserve. Ofrecido por Ceylon Traveline (PVT) LTD."
+  ],
+  "included": [
+   "Agua embotellada",
+   "Vehiculo con aire acondicionado",
+   "Wifi a bordo",
+   "Plato de frutas de la selva, de cortesia"
+  ],
+  "notIncluded": [
+   "Almuerzo"
+  ]
+ },
  "mirissa-paddle-boarding-experience": {
   "title": "Mirissa: experiencia de paddle surf",
   "metaTitle": "Mirissa: experiencia de paddle surf",
   "metaDescription": "Experiencia de 1 hora(s) en Mirissa. . Ofrecido por Z R I Adventures (Private) Limited.",
   "shortDescription": "Experiencia de 1 hora(s) en Mirissa. . Ofrecido por Z R I Adventures (Private) Limited.",
-  "fullDescription": "Una experiencia de 1 hora(s) en Mirissa. Paddle Boarding.\n\nZ R I Adventures (Private) Limited la organiza, y 2 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye equipo de seguridad y charla informativa. No incluye , por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una experiencia de 1 hora(s) en Mirissa. Paddle Boarding.\n\nZ R I Adventures (Private) Limited la organiza, y 2 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye equipo de seguridad y informe. No incluye , por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Experiencia de 1 hora(s) en Mirissa. . Ofrecido por Z R I Adventures (Private) Limited."
   ],
   "included": [
    "Equipo de seguridad",
-   "Charla informativa"
+   "Informe"
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "bentota-river-safari-discover-wildlife-mangroves": {
+  "title": "Safari en el rio Bentota: descubra fauna y manglares en barco",
+  "metaTitle": "Safari en el rio Bentota: descubra fauna y manglares en barco",
+  "metaDescription": "Una excursion de 2 hora(s) desde Bentota que visita Bentota River. Ofrecido por AYUBOWAY TOURS.",
+  "shortDescription": "Una excursion de 2 hora(s) desde Bentota que visita Bentota River. Ofrecido por AYUBOWAY TOURS.",
+  "fullDescription": "Una excursion de 2 hora(s) desde Bentota, que recorre Bentota River. La parada mas larga es Bentota River, con una duracion de unos 2 horas.\n\nEl precio incluye safari de 2 horas en el rio Bentota, guia turistico en vivo (ingles), agua embotellada de cortesia proporcionada, incluye todos los impuestos, tarifas, y cargos de manejo y recogida y regreso gratuitos desde Induruwa, Bentota, Aluthgama, Beruwala, y alrededores. No incluye comida y bebidas y propinas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de 2 hora(s) desde Bentota que visita Bentota River. Ofrecido por AYUBOWAY TOURS."
+  ],
+  "included": [
+   "Safari de 2 horas en el rio Bentota",
+   "Guia turistico en vivo (ingles)",
+   "Agua embotellada de cortesia proporcionada",
+   "Incluye todos los impuestos, tarifas, y cargos de manejo",
+   "Recogida y regreso gratuitos desde Induruwa, Bentota, Aluthgama, Beruwala, y alrededores"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Propinas"
+  ]
+ },
+ "ellahikkaduwagallemirissa-udawalawe-safari-day": {
+  "title": "Ella/Hikkaduwa/Galle/Mirissa: excursion de un dia de safari en Udawalawe",
+  "metaTitle": "Ella/Hikkaduwa/Galle/Mirissa: excursion de un dia de safari en...",
+  "metaDescription": "Una excursion de medio dia desde Galle que visita Udawalawa National Park. Ofrecido por A Visitor.",
+  "shortDescription": "Una excursion de medio dia desde Galle que visita Udawalawa National Park. Ofrecido por A Visitor.",
+  "fullDescription": "Una excursion de medio dia desde Galle, que recorre Udawalawa National Park. La parada mas larga es Udawalawa National Park, con una duracion de unos 6 horas.\n\nA Visitor la organiza, y 4 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye transporte privado en vehiculo con aire acondicionado, recogida desde Matara, Ella, Galle, Tangalle, Mirissa, Hikkaduwa, Ahangama, o alrededores, jeep de safari privado 4x4 y conductor. No incluye wifi a bordo y entradas al parque nacional, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de medio dia desde Galle que visita Udawalawa National Park. Ofrecido por A Visitor."
+  ],
+  "included": [
+   "Transporte privado en vehiculo con aire acondicionado",
+   "Recogida desde Matara, Ella, Galle, Tangalle, Mirissa, Hikkaduwa, Ahangama, o alrededores",
+   "Jeep de safari privado 4x4",
+   "Conductor"
+  ],
+  "notIncluded": [
+   "Wifi a bordo",
+   "Entradas al parque nacional"
+  ]
+ },
+ "water-skiing-in-mirissa": {
+  "title": "Esqui acuatico en Mirissa",
+  "metaTitle": "Esqui acuatico en Mirissa",
+  "metaDescription": "Experiencia de 0,25 hora(s) en Mirissa. Agua. Ofrecido por Z R I Adventures (Private) Limited.",
+  "shortDescription": "Experiencia de 0,25 hora(s) en Mirissa. Agua. Ofrecido por Z R I Adventures (Private) Limited.",
+  "fullDescription": "Una experiencia de 0,25 hora(s) en Mirissa. Agua.\n\nZ R I Adventures (Private) Limited la organiza, y 3 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye esqui acuatico, equipo de seguridad y informe. No incluye , por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Agua"
+  ],
+  "included": [
+   "Esqui acuatico",
+   "Equipo de seguridad",
+   "Informe"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "jet-skiing-in-mirissa": {
+  "title": "Jet ski en Mirissa",
+  "metaTitle": "Jet ski en Mirissa",
+  "metaDescription": "Experiencia de 0,25 hora(s) en Mirissa. Jet ski. Ofrecido por Z R I Adventures (Private) Limited.",
+  "shortDescription": "Experiencia de 0,25 hora(s) en Mirissa. Jet ski. Ofrecido por Z R I Adventures (Private) Limited.",
+  "fullDescription": "Una experiencia de 0,25 hora(s) en Mirissa. Jet ski.\n\nZ R I Adventures (Private) Limited la organiza, y 3 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye jet ski, equipo de seguridad y entrenamiento y orientacion. No incluye , por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Jet ski"
+  ],
+  "included": [
+   "Jet ski",
+   "Equipo de seguridad",
+   "Entrenamiento y orientacion"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "from-kandy-nuwara-eliya-tour-via-ambuluwawa": {
+  "title": "Desde Kandy: tour de Nuwara Eliya via Ambuluwawa (tour privado)",
+  "metaTitle": "Desde Kandy: tour de Nuwara Eliya via Ambuluwawa (tour privado)",
+  "metaDescription": "Una excursion de un dia completo desde Kandy que visita Tuk tuk, Ambuluwawa Tower, Tuk tuk y Storefield Tea Factory. Ofrecido por Ceylon IT Tours.",
+  "shortDescription": "Una excursion de un dia completo desde Kandy que visita Tuk tuk, Ambuluwawa Tower, Tuk tuk y Storefield Tea Factory. Ofrecido por Ceylon IT Tours.",
+  "fullDescription": "Una excursion de un dia completo desde Kandy, que recorre Tuk tuk, Ambuluwawa Tower, Tuk tuk y Storefield Tea Factory. La parada mas larga es Tuk tuk, con una duracion de unos 1 hora. Hay 6 paradas en total.\n\nEl orden de la ruta es Tuk tuk (1h), luego Ambuluwawa Tower (1h), luego Tuk tuk (30 min), luego Storefield Tea Factory (45 min), luego Ramboda Falls, Srilanka (45 min).\n\nEl precio incluye recogida y regreso al hotel, conductor que habla ingles, transporte en tuk-tuk, furgoneta, o furgoneta con aire acondicionado (segun la opcion elegida), entradas de estacionamiento y tour guiado de fabrica de te. No incluye comida y bebidas, entradas y torre de Ambuluwawa, 7 USD, por lo que debe presupuestar eso por separado. Dos viajeros pagan 91 $ juntos en lugar de 81 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de un dia completo desde Kandy que visita Tuk tuk, Ambuluwawa Tower, Tuk tuk y Storefield Tea Factory. Ofrecido por Ceylon IT Tours."
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Conductor que habla ingles",
+   "Transporte en tuk-tuk, furgoneta, o furgoneta con aire acondicionado (segun la opcion elegida)",
+   "Entradas de estacionamiento",
+   "Tour guiado de fabrica de te"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Entradas",
+   "Torre de Ambuluwawa, 7 USD"
   ]
  },
  "mirissa-canoeing-experience": {
@@ -71811,16 +71991,223 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Mirissa: experiencia de canotaje",
   "metaDescription": "Experiencia de 1 hora(s) en Mirissa. . Ofrecido por Z R I Adventures (Private) Limited.",
   "shortDescription": "Experiencia de 1 hora(s) en Mirissa. . Ofrecido por Z R I Adventures (Private) Limited.",
-  "fullDescription": "Una experiencia de 1 hora(s) en Mirissa. Canoeing.\n\nZ R I Adventures (Private) Limited la organiza, y 2 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye equipo de seguridad y charla informativa. No incluye , por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una experiencia de 1 hora(s) en Mirissa. Canoeing.\n\nZ R I Adventures (Private) Limited la organiza, y 2 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye equipo de seguridad y informe. No incluye , por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Experiencia de 1 hora(s) en Mirissa. . Ofrecido por Z R I Adventures (Private) Limited."
   ],
   "included": [
    "Equipo de seguridad",
-   "Charla informativa"
+   "Informe"
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "ella-ravana-and-upper-diyaluma-falls-guided-tour": {
+  "title": "Ella: tour guiado a las cascadas de Rawana y Upper Diyaluma",
+  "metaTitle": "Ella: tour guiado a las cascadas de Rawana y Upper Diyaluma",
+  "metaDescription": "Una excursion de medio dia desde Ella que visita Tuk tuk, Ravana Falls, Tuk tuk y Diyaluma Falls. Ofrecido por Ella Tuk Tuk Safari.",
+  "shortDescription": "Una excursion de medio dia desde Ella que visita Tuk tuk, Ravana Falls, Tuk tuk y Diyaluma Falls. Ofrecido por Ella Tuk Tuk Safari.",
+  "fullDescription": "Una excursion de medio dia desde Ella, que recorre Tuk tuk, Ravana Falls, Tuk tuk y Diyaluma Falls. La parada mas larga es Secret stop, con una duracion de unos 2 horas. Hay 7 paradas en total.\n\nEl orden de la ruta es Tuk tuk (30 min), luego Ravana Falls (15 min), luego Tuk tuk (1h), luego Diyaluma Falls (15 min), luego Tuk tuk (15 min).\n\nEl precio incluye tour guiado a las cascadas de Rawana, Diyaluma, y Upper Diyaluma, recogida y regreso al hotel, transporte hacia y desde las cascadas, oportunidad de nadar en piscinas naturales y caminata por la naturaleza a traves de la selva. No incluye comidas y bebidas y tarifas de entrada, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de medio dia desde Ella que visita Tuk tuk, Ravana Falls, Tuk tuk y Diyaluma Falls. Ofrecido por Ella Tuk Tuk Safari."
+  ],
+  "included": [
+   "Tour guiado a las cascadas de Rawana, Diyaluma, y Upper Diyaluma",
+   "Recogida y regreso al hotel",
+   "Transporte hacia y desde las cascadas",
+   "Oportunidad de nadar en piscinas naturales",
+   "Caminata por la naturaleza a traves de la selva"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "Tarifas de entrada"
+  ]
+ },
+ "colombo-city-tour-morning-and-evening-by-tuk-tuk": {
+  "title": "Colombo: tour por la ciudad por la mañana y la tarde en tuk-tuk",
+  "metaTitle": "Colombo: tour por la ciudad por la mañana y la tarde en tuk-tuk",
+  "metaDescription": "Una excursion de 3 hora(s) desde Colombo que visita Galle Face Green, Viharamahadvi Park, Gangaramaya Temple y Pettah Market. Ofrecido por Glory Tour by Tuk Tuk.",
+  "shortDescription": "Una excursion de 3 hora(s) desde Colombo que visita Galle Face Green, Viharamahadvi Park, Gangaramaya Temple y Pettah Market. Ofrecido por Glory Tour by Tuk Tuk.",
+  "fullDescription": "Una excursion de 3 hora(s) desde Colombo, que recorre Galle Face Green, Viharamahadvi Park, Gangaramaya Temple y Pettah Market. Hay 6 paradas en total.\n\nEl orden de la ruta es Galle Face Green (10 min), luego Viharamahadvi Park (30 min), luego Gangaramaya Temple (30 min), luego Pettah Market (10 min), luego Jami Ul-Alfar Mosque (20 min).\n\nEl precio incluye coco king coconut, botella de agua, wifi y tarifa de estacionamiento. No incluye almuerzo o cena y silla de ruedas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de 3 hora(s) desde Colombo que visita Galle Face Green, Viharamahadvi Park, Gangaramaya Temple y Pettah Market. Ofrecido por Glory Tour by Tuk Tuk."
+  ],
+  "included": [
+   "Coco king coconut",
+   "Botella de agua",
+   "Wifi",
+   "Tarifa de estacionamiento"
+  ],
+  "notIncluded": [
+   "Almuerzo o cena",
+   "Silla de ruedas"
+  ]
+ },
+ "knuckles-mountain-range-guided-trekking-or": {
+  "title": "Cordillera Knuckles: trekking guiado o camping",
+  "metaTitle": "Cordillera Knuckles: trekking guiado o camping",
+  "metaDescription": "Una excursion de un dia completo desde Kandy que visita Tuk tuk y Knuckles Mountain Range. Ofrecido por Andrew adventure trekking & tours.",
+  "shortDescription": "Una excursion de un dia completo desde Kandy que visita Tuk tuk y Knuckles Mountain Range. Ofrecido por Andrew adventure trekking & tours.",
+  "fullDescription": "Una excursion de un dia completo desde Kandy, que recorre Tuk tuk y Knuckles Mountain Range. La parada mas larga es Knuckles Mountain Range, con una duracion de unos 5 horas. Hay 2 paradas en total.\n\nEl orden de la ruta es Tuk tuk, luego Knuckles Mountain Range (5h).\n\nEl precio incluye guia local experimentado que habla ingles con fluidez, vistas impresionantes de valles exuberantes y picos cubiertos de niebla, visitas a cascadas ocultas y perspectivas sobre la flora y fauna unica de la region. No incluye lleve mochila, chaqueta impermeable, traje de baño, y buenos zapatos, y buen humor, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de un dia completo desde Kandy que visita Tuk tuk y Knuckles Mountain Range. Ofrecido por Andrew adventure trekking & tours."
+  ],
+  "included": [
+   "Guia local experimentado que habla ingles con fluidez",
+   "Vistas impresionantes de valles exuberantes y picos cubiertos de niebla",
+   "Visitas a cascadas ocultas",
+   "Perspectivas sobre la flora y fauna unica de la region"
+  ],
+  "notIncluded": [
+   "Lleve mochila, chaqueta impermeable, traje de baño, y buenos zapatos, y buen humor"
+  ]
+ },
+ "knuckles-mountain-range-hidden-waterfall-chain": {
+  "title": "Cordillera Knuckles: caminata a la cadena de cascadas ocultas",
+  "metaTitle": "Cordillera Knuckles: caminata a la cadena de cascadas ocultas",
+  "metaDescription": "Una excursion de 3 dia(s) desde Kandy que visita Lebanon Estate, Rathnagiriya Mountain, Cardamom Hut y Duwili Waterfall. Ofrecido por Lanka Trek.",
+  "shortDescription": "Una excursion de 3 dia(s) desde Kandy que visita Lebanon Estate, Rathnagiriya Mountain, Cardamom Hut y Duwili Waterfall. Ofrecido por Lanka Trek.",
+  "fullDescription": "Una excursion de 3 dia(s) desde Kandy, que recorre Lebanon Estate, Rathnagiriya Mountain, Cardamom Hut y Duwili Waterfall. Hay 9 paradas en total.\n\nEl orden de la ruta es Lebanon Estate, luego Rathnagiriya Mountain, luego Cardamom Hut, luego Duwili Waterfall, luego Waterfall Cave.\n\nEl precio incluye aventura de trekking de 3 dias, guia de trekking profesional, transporte privado en furgoneta y servicio de recogida y regreso al hotel. No incluye equipo personal (zapatos, mochilas), seguro de viaje y articulos sanitarios, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de 3 dia(s) desde Kandy que visita Lebanon Estate, Rathnagiriya Mountain, Cardamom Hut y Duwili Waterfall. Ofrecido por Lanka Trek."
+  ],
+  "included": [
+   "Aventura de trekking de 3 dias",
+   "Guia de trekking profesional",
+   "Transporte privado en furgoneta",
+   "Servicio de recogida y regreso al hotel"
+  ],
+  "notIncluded": [
+   "Equipo personal (zapatos, mochilas)",
+   "Seguro de viaje",
+   "Articulos sanitarios"
+  ]
+ },
+ "from-colombo-sigiriya-rock-fortress-and-dambulla": {
+  "title": "Desde Colombo: fortaleza rocosa de Sigiriya y tour de un dia a Dambulla",
+  "metaTitle": "Desde Colombo: fortaleza rocosa de Sigiriya y tour de un dia a...",
+  "metaDescription": "Una excursion de un dia completo desde Colombo que visita Sigiriya Fortress, Dambulla Royal Cave Temple and Golden Temple y Minneriya National Park. Ofrecido por ...",
+  "shortDescription": "Una excursion de un dia completo desde Colombo que visita Sigiriya Fortress, Dambulla Royal Cave Temple and Golden Temple y Minneriya National Park. Ofrecido por Royal Bliss Tours.",
+  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Sigiriya Fortress, Dambulla Royal Cave Temple and Golden Temple y Minneriya National Park. La parada mas larga es Sigiriya Fortress, con una duracion de unos 2 horas. Hay 3 paradas en total.\n\nEl orden de la ruta es Sigiriya Fortress (2h), luego Dambulla Royal Cave Temple and Golden Temple (1h), luego Minneriya National Park.\n\nEl precio incluye recogida y regreso desde el alojamiento, transporte con aire acondicionado, conductor y botella de agua. No incluye comida y otras bebidas y las tarifas de entrada a los lugares visitados no estan incluidas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de un dia completo desde Colombo que visita Sigiriya Fortress, Dambulla Royal Cave Temple and Golden Temple y Minneriya National Park. Ofrecido por Royal Bliss Tours."
+  ],
+  "included": [
+   "Recogida y regreso desde el alojamiento",
+   "Transporte con aire acondicionado",
+   "Conductor",
+   "Botella de agua"
+  ],
+  "notIncluded": [
+   "Comida y otras bebidas",
+   "Las tarifas de entrada a los lugares visitados no estan incluidas"
+  ]
+ },
+ "colombo-heritage-culture-city-tour-by-tuk-tuk-all": {
+  "title": "Colombo: tour de patrimonio y cultura en tuk-tuk, todo incluido",
+  "metaTitle": "Colombo: tour de patrimonio y cultura en tuk-tuk, todo incluido",
+  "metaDescription": "Una excursion de medio dia desde Colombo que visita Gangaramaya Temple, Tuk tuk, Sri Kailawasanatan Swami Temple y Independence Square, Colombo. Ofrecido por Glor...",
+  "shortDescription": "Una excursion de medio dia desde Colombo que visita Gangaramaya Temple, Tuk tuk, Sri Kailawasanatan Swami Temple y Independence Square, Colombo. Ofrecido por Glory Tour by Tuk Tuk.",
+  "fullDescription": "Una excursion de medio dia desde Colombo, que recorre Gangaramaya Temple, Tuk tuk, Sri Kailawasanatan Swami Temple y Independence Square, Colombo. Hay 14 paradas en total.\n\nEl orden de la ruta es Gangaramaya Temple (10 min), luego Tuk tuk (5 min), luego Sri Kailawasanatan Swami Temple (10 min), luego Independence Square, Colombo (10 min), luego Tuk tuk (15 min).\n\nEl precio incluye inclusiones:, bebida de coco king coconut de cortesia,, botella de agua, y entradas a sitios especificos. No incluye exclusiones: y comidas, y accesibilidad en silla de ruedas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de medio dia desde Colombo que visita Gangaramaya Temple, Tuk tuk, Sri Kailawasanatan Swami Temple y Independence Square, Colombo. Ofrecido por Glory Tour by Tuk Tuk."
+  ],
+  "included": [
+   "Inclusiones:",
+   "Bebida de coco king coconut de cortesia,",
+   "Botella de agua,",
+   "Entradas a sitios especificos."
+  ],
+  "notIncluded": [
+   "Exclusiones:",
+   "Comidas, y accesibilidad en silla de ruedas."
+  ]
+ },
+ "galle-face-green-hatchery-boat-tour": {
+  "title": "Desde Colombo/Negombo: Galle, rio Madu, y criadero de tortugas",
+  "metaTitle": "Desde Colombo/Negombo: Galle, rio Madu, y criadero de tortugas",
+  "metaDescription": "Una excursion de un dia completo desde Colombo que visita Kosgoda Sea Turtle Conservation, Madu Ganga, Unawatuna y Galle Fort. Ofrecido por Sri Lanka car and priv...",
+  "shortDescription": "Una excursion de un dia completo desde Colombo que visita Kosgoda Sea Turtle Conservation, Madu Ganga, Unawatuna y Galle Fort. Ofrecido por Sri Lanka car and private driver hire.",
+  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Kosgoda Sea Turtle Conservation, Madu Ganga, Unawatuna y Galle Fort. La parada mas larga es Madu Ganga, con una duracion de unos 2 horas. Hay 5 paradas en total.\n\nEl orden de la ruta es Kosgoda Sea Turtle Conservation (1h), luego Madu Ganga (2h), luego Unawatuna (1h), luego Galle Fort (1h), luego Meetiyagoda Moonstone Mine (30 min).\n\nEl precio incluye recogida y regreso al hotel, vehiculo privado con aire acondicionado, chofer-guia experimentado que habla ingles y safari en barco por el rio Madu. No incluye almuerzo, gastos personales y las entradas no estan incluidas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de un dia completo desde Colombo que visita Kosgoda Sea Turtle Conservation, Madu Ganga, Unawatuna y Galle Fort. Ofrecido por Sri Lanka car and private driver hire."
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Vehiculo privado con aire acondicionado",
+   "Chofer-guia experimentado que habla ingles",
+   "Safari en barco por el rio Madu"
+  ],
+  "notIncluded": [
+   "Almuerzo",
+   "Gastos personales",
+   "Las entradas no estan incluidas"
+  ]
+ },
+ "from-colombo-galle-bentota-coastal-highlights": {
+  "title": "Desde Colombo: tour privado de lo mejor de la costa de Galle y Bentota",
+  "metaTitle": "Desde Colombo: tour privado de lo mejor de la costa de Galle y...",
+  "metaDescription": "Una excursion de un dia completo desde Colombo que visita Galle Fort, Ambalangoda, Madu Ganga y Madu Ganga. Ofrecido por Beyond Escapes.",
+  "shortDescription": "Una excursion de un dia completo desde Colombo que visita Galle Fort, Ambalangoda, Madu Ganga y Madu Ganga. Ofrecido por Beyond Escapes.",
+  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Galle Fort, Ambalangoda, Madu Ganga y Madu Ganga. La parada mas larga es Ambalangoda, con una duracion de unos 1 hora. Hay 5 paradas en total.\n\nEl orden de la ruta es Galle Fort, luego Ambalangoda (1h), luego Madu Ganga (30 min), luego Madu Ganga, luego Kosgoda Sea Turtle Conservation (1h).\n\nEl precio incluye recogida y regreso al hotel, transporte en vehiculo con aire acondicionado, guia que habla ingles y fuerte holandes de Galle. No incluye tarifa de entrada al museo holandes de Galle, propinas para guias o restaurantes y cualquier otro gasto, por lo que debe presupuestar eso por separado. Dos viajeros pagan 312 $ juntos en lugar de 298 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de un dia completo desde Colombo que visita Galle Fort, Ambalangoda, Madu Ganga y Madu Ganga. Ofrecido por Beyond Escapes."
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Transporte en vehiculo con aire acondicionado",
+   "Guia que habla ingles",
+   "Fuerte holandes de Galle"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada al museo holandes de Galle",
+   "Propinas para guias o restaurantes",
+   "Cualquier otro gasto"
+  ]
+ },
+ "colombo-all-inclusive-scenic-train-journey-tofrom": {
+  "title": "Colombo: viaje panoramico en tren todo incluido hacia/desde Ella",
+  "metaTitle": "Colombo: viaje panoramico en tren todo incluido hacia/desde Ella",
+  "metaDescription": "Experiencia de un dia completo en Colombo. . Ofrecido por Ceylon Pass.",
+  "shortDescription": "Experiencia de un dia completo en Colombo. . Ofrecido por Ceylon Pass.",
+  "fullDescription": "Una experiencia de un dia completo en Colombo. Feel the thrill of a scenic train ride through the lush Sri Lankan mountains.\n\nCeylon Pass la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel (dentro de 10 millas de la estacion), asientos reservados en primera clase, boleto de ida en primera clase, seleccion de bebidas, incluyendo vino, refresco, bebida caliente, o prosecco y seleccion de sandwiches, galletas, frutas exoticas, y bocadillos. No incluye bebidas adicionales en el tren, alimentos adicionales en el tren y recogida o regreso de larga distancia (a mas de 10 millas de la estacion), por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de un dia completo en Colombo. . Ofrecido por Ceylon Pass."
+  ],
+  "included": [
+   "Recogida y regreso al hotel (dentro de 10 millas de la estacion)",
+   "Asientos reservados en primera clase",
+   "Boleto de ida en primera clase",
+   "Seleccion de bebidas, incluyendo vino, refresco, bebida caliente, o prosecco",
+   "Seleccion de sandwiches, galletas, frutas exoticas, y bocadillos"
+  ],
+  "notIncluded": [
+   "Bebidas adicionales en el tren",
+   "Alimentos adicionales en el tren",
+   "Recogida o regreso de larga distancia (a mas de 10 millas de la estacion)"
+  ]
+ },
+ "from-galle-mirissa-whale-and-dolphin-watching": {
+  "title": "Desde Galle: paseo en barco de observacion de ballenas y delfines en Mirissa",
+  "metaTitle": "Desde Galle: paseo en barco de observacion de ballenas y delfi...",
+  "metaDescription": "Experiencia de medio dia en Galle. . Ofrecido por Prestige Escapes LK.",
+  "shortDescription": "Experiencia de medio dia en Galle. . Ofrecido por Prestige Escapes LK.",
+  "fullDescription": "Una experiencia de medio dia en Galle. Whale Watching.\n\nPrestige Escapes LK la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso a su hotel, resort, o villa (radio de 10 millas desde Galle, incluyendo Hikkaduwa, Unawatuna, y alrededores), bocadillos para el paseo en barco, entrada de bienestar animal, paseo en barco y 1 botella de agua por persona. No incluye recogida o regreso de larga distancia (disponible con costo adicional), comida o bebidas adicionales a bordo del barco y cualquier penalizacion por infringir leyes o regulaciones, por lo que debe presupuestar eso por separado. Dos viajeros pagan 403 $ juntos en lugar de 236 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de medio dia en Galle. . Ofrecido por Prestige Escapes LK."
+  ],
+  "included": [
+   "Recogida y regreso a su hotel, resort, o villa (radio de 10 millas desde Galle, incluyendo Hikkaduwa, Unawatuna, y alrededores)",
+   "Bocadillos para el paseo en barco",
+   "Entrada de bienestar animal",
+   "Paseo en barco",
+   "1 botella de agua por persona"
+  ],
+  "notIncluded": [
+   "Recogida o regreso de larga distancia (disponible con costo adicional)",
+   "Comida o bebidas adicionales a bordo del barco",
+   "Cualquier penalizacion por infringir leyes o regulaciones"
   ]
  },
  "3-day-tour-from-your-hotel-explore-kandy-ella": {
@@ -71870,14 +72257,14 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Desde Negombo: tour de 2 dias a Ella con safari en el parque d...",
   "metaDescription": "Una excursion de 2 dia(s) desde Negombo que visita 08:00 AM –From Negombo or Bandaranaike International Airport, Madu Ganga River Safari – Mangroves & Island Life...",
   "shortDescription": "Una excursion de 2 dia(s) desde Negombo que visita 08:00 AM –From Negombo or Bandaranaike International Airport, Madu Ganga River Safari – Mangroves & Island Life, Kosgoda Turtle Hatchery – Sea Turtle Conservation y 10:30 AM – Explore UNESCO-listed Galle Fort. Ofrecido por Sign of Lanka (Pvt) Ltd.",
-  "fullDescription": "Una excursion de 2 dia(s) desde Negombo, que recorre 08:00 AM –From Negombo or Bandaranaike International Airport, Madu Ganga River Safari – Mangroves & Island Life, Kosgoda Turtle Hatchery – Sea Turtle Conservation y 10:30 AM – Explore UNESCO-listed Galle Fort. Hay 10 paradas en total.\n\nEl orden de la ruta es 08:00 AM –From Negombo or Bandaranaike International Airport, luego Madu Ganga River Safari – Mangroves & Island Life, luego Kosgoda Turtle Hatchery – Sea Turtle Conservation, luego 10:30 AM – Explore UNESCO-listed Galle Fort, luego 02:30 PM – Weligama Stilt Fishing Experience.\n\nEl precio incluye una noche de alojamiento en un hotel de 3 o 4 estrellas con desayuno incluido, transporte de ida y vuelta desde el hotel en vehiculo privado de lujo con aire acondicionado, el paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones, visita al fuerte de Galle y demostracion de pesca en zancos en Weligama. No incluye visita a Madu Ganga (aprox. 20 USD por persona), criadero de tortugas de Kosgoda (aprox. 5 USD por persona) y tarifas de entrada al parque nacional de Yala (aprox. 35 USD por persona), por lo que debe presupuestar eso por separado. Dos viajeros pagan 1285 $ juntos en lugar de 1183 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de 2 dia(s) desde Negombo, que recorre 08:00 AM –From Negombo or Bandaranaike International Airport, Madu Ganga River Safari – Mangroves & Island Life, Kosgoda Turtle Hatchery – Sea Turtle Conservation y 10:30 AM – Explore UNESCO-listed Galle Fort. Hay 10 paradas en total.\n\nEl orden de la ruta es 08:00 AM –From Negombo or Bandaranaike International Airport, luego Madu Ganga River Safari – Mangroves & Island Life, luego Kosgoda Turtle Hatchery – Sea Turtle Conservation, luego 10:30 AM – Explore UNESCO-listed Galle Fort, luego 02:30 PM – Weligama Stilt Fishing Experience.\n\nEl precio incluye 01 noche de alojamiento en hotel de 3 o 4 estrellas, en regimen de cama y desayuno, transporte desde el hotel y de vuelta en vehiculo privado de lujo con aire acondicionado, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones, visita al fuerte de Galle y demostracion de pesca en zancos en Weligama. No incluye visita a Madu Ganga (aprox. 20 USD por persona), criadero de tortugas de Kosgoda (aprox. 5 USD por persona) y tarifas de entrada al parque nacional de Yala (aprox. 35 USD por persona), por lo que debe presupuestar eso por separado. Dos viajeros pagan 1285 $ juntos en lugar de 1183 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de 2 dia(s) desde Negombo que visita 08:00 AM –From Negombo or Bandaranaike International Airport, Madu Ganga River Safari – Mangroves & Island Life, Kosgoda Turtle Hatchery – Sea Turtle Conservation y 10:30 AM – Explore UNESCO-listed Galle Fort. Ofrecido por Sign of Lanka (Pvt) Ltd."
   ],
   "included": [
-   "Una noche de alojamiento en un hotel de 3 o 4 estrellas con desayuno incluido.",
-   "Transporte de ida y vuelta desde el hotel en vehiculo privado de lujo con aire acondicionado.",
-   "El paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones.",
+   "01 noche de alojamiento en hotel de 3 o 4 estrellas, en regimen de cama y desayuno",
+   "Transporte desde el hotel y de vuelta en vehiculo privado de lujo con aire acondicionado",
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
    "Visita al fuerte de Galle",
    "Demostracion de pesca en zancos en Weligama"
   ],
@@ -71887,26 +72274,68 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tarifas de entrada al parque nacional de Yala (aprox. 35 USD por persona)"
   ]
  },
+ "ella-udawalawe-yala-national-parks-2-day-tour": {
+  "title": "Ella: tour de 2 dias por los parques nacionales de Udawalawe y Yala, con traslados",
+  "metaTitle": "Ella: tour de 2 dias por los parques nacionales de Udawalawe y...",
+  "metaDescription": "Una excursion de 2 dia(s) desde Ella que visita 08:00 AM – Depart from Ella & Discover Ravana Falls, 10:30 AM – Udawalawe National Park Half-Day Jeep Safari, 02:3...",
+  "shortDescription": "Una excursion de 2 dia(s) desde Ella que visita 08:00 AM – Depart from Ella & Discover Ravana Falls, 10:30 AM – Udawalawe National Park Half-Day Jeep Safari, 02:30 PM – Scenic Journey to Yala y 05:30 AM – Yala National Park Wildlife Jeep Safari. Ofrecido por Sign of Lanka (Pvt) Ltd.",
+  "fullDescription": "Una excursion de 2 dia(s) desde Ella, que recorre 08:00 AM – Depart from Ella & Discover Ravana Falls, 10:30 AM – Udawalawe National Park Half-Day Jeep Safari, 02:30 PM – Scenic Journey to Yala y 05:30 AM – Yala National Park Wildlife Jeep Safari. Hay 8 paradas en total.\n\nEl orden de la ruta es 08:00 AM – Depart from Ella & Discover Ravana Falls, luego 10:30 AM – Udawalawe National Park Half-Day Jeep Safari, luego 02:30 PM – Scenic Journey to Yala, luego 05:30 AM – Yala National Park Wildlife Jeep Safari, luego 10:30 AM – Depart Yala for Sri Lanka’s Southern Coast.\n\nEl precio incluye 01 noche de alojamiento en hotel de 3 o 4 estrellas, en regimen de cama y desayuno, transporte desde el hotel y de vuelta en vehiculo privado de lujo con aire acondicionado, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones, safari en el parque nacional de Udawalawe (solo cargos de jeep) y safari en el parque nacional de Yala (solo cargos de jeep). No incluye tarifas de entrada al parque nacional de Udawalawe (aprox. 35 USD por persona), tarifas de entrada al parque nacional de Yala (aprox. 35 USD por persona) y cualquier otro gasto no mencionado en la seccion 'El precio incluye', por lo que debe presupuestar eso por separado. Dos viajeros pagan 1150 $ juntos en lugar de 1082 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de 2 dia(s) desde Ella que visita 08:00 AM – Depart from Ella & Discover Ravana Falls, 10:30 AM – Udawalawe National Park Half-Day Jeep Safari, 02:30 PM – Scenic Journey to Yala y 05:30 AM – Yala National Park Wildlife Jeep Safari. Ofrecido por Sign of Lanka (Pvt) Ltd."
+  ],
+  "included": [
+   "01 noche de alojamiento en hotel de 3 o 4 estrellas, en regimen de cama y desayuno",
+   "Transporte desde el hotel y de vuelta en vehiculo privado de lujo con aire acondicionado",
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
+   "Safari en el parque nacional de Udawalawe (solo cargos de jeep)",
+   "Safari en el parque nacional de Yala (solo cargos de jeep)"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada al parque nacional de Udawalawe (aprox. 35 USD por persona)",
+   "Tarifas de entrada al parque nacional de Yala (aprox. 35 USD por persona)",
+   "Cualquier otro gasto no mencionado en la seccion 'El precio incluye'"
+  ]
+ },
  "from-ella-2-day-yala-park-safari-transfer-to": {
   "title": "Desde Ella: safari de 2 dias en el parque de Yala y traslado a la playa",
   "metaTitle": "Desde Ella: safari de 2 dias en el parque de Yala y traslado a...",
   "metaDescription": "Una excursion de 2 dia(s) desde Ella que visita Ravana Falls – Scenic Waterfall Stop, Yala National Park – Exciting Wildlife Jeep Safari, Morning – Breakfast at Y...",
   "shortDescription": "Una excursion de 2 dia(s) desde Ella que visita Ravana Falls – Scenic Waterfall Stop, Yala National Park – Exciting Wildlife Jeep Safari, Morning – Breakfast at Your Hotel y Scenic Journey Along the Southern Coast. Ofrecido por Sign of Lanka (Pvt) Ltd.",
-  "fullDescription": "Una excursion de 2 dia(s) desde Ella, que recorre Ravana Falls – Scenic Waterfall Stop, Yala National Park – Exciting Wildlife Jeep Safari, Morning – Breakfast at Your Hotel y Scenic Journey Along the Southern Coast. Hay 6 paradas en total.\n\nEl orden de la ruta es Ravana Falls – Scenic Waterfall Stop, luego Yala National Park – Exciting Wildlife Jeep Safari, luego Morning – Breakfast at Your Hotel, luego Scenic Journey Along the Southern Coast, luego Weligama – Traditional Stilt Fishing Experience.\n\nEl precio incluye una noche de alojamiento en un hotel de 3 o 4 estrellas con desayuno incluido, transporte de ida y vuelta desde el hotel en vehiculo privado de lujo con aire acondicionado, el paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones, se proporcionaran jeeps de safari personalizados para una mejor experiencia de observacion de fauna y el paquete cubre el recargo de combustible y los cargos del conductor para un viaje conveniente y sin complicaciones. No incluye tarifas de entrada al parque nacional de Yala (aprox. 35 USD por persona), cualquier otro gasto no mencionado en la seccion de precio incluido y almuerzo o cena durante el tour, por lo que debe presupuestar eso por separado. Dos viajeros pagan 1014 $ juntos en lugar de 964 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de 2 dia(s) desde Ella, que recorre Ravana Falls – Scenic Waterfall Stop, Yala National Park – Exciting Wildlife Jeep Safari, Morning – Breakfast at Your Hotel y Scenic Journey Along the Southern Coast. Hay 6 paradas en total.\n\nEl orden de la ruta es Ravana Falls – Scenic Waterfall Stop, luego Yala National Park – Exciting Wildlife Jeep Safari, luego Morning – Breakfast at Your Hotel, luego Scenic Journey Along the Southern Coast, luego Weligama – Traditional Stilt Fishing Experience.\n\nEl precio incluye 01 noche de alojamiento en hotel de 3 o 4 estrellas, en regimen de cama y desayuno, transporte desde el hotel y de vuelta en vehiculo privado de lujo con aire acondicionado, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones, se proporcionaran jeeps de safari personalizados para una experiencia mejorada de observacion de fauna y el paquete cubre el recargo de combustible y las tarifas del conductor para un viaje conveniente y sin complicaciones. No incluye tarifas de entrada al parque nacional de Yala (aprox. 35 USD por persona), cualquier otro gasto no mencionado en la seccion 'El precio incluye' y almuerzo o cena durante el tour, por lo que debe presupuestar eso por separado. Dos viajeros pagan 1014 $ juntos en lugar de 964 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de 2 dia(s) desde Ella que visita Ravana Falls – Scenic Waterfall Stop, Yala National Park – Exciting Wildlife Jeep Safari, Morning – Breakfast at Your Hotel y Scenic Journey Along the Southern Coast. Ofrecido por Sign of Lanka (Pvt) Ltd."
   ],
   "included": [
-   "Una noche de alojamiento en un hotel de 3 o 4 estrellas con desayuno incluido.",
-   "Transporte de ida y vuelta desde el hotel en vehiculo privado de lujo con aire acondicionado.",
-   "El paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones.",
-   "Se proporcionaran jeeps de safari personalizados para una mejor experiencia de observacion de fauna.",
-   "El paquete cubre el recargo de combustible y los cargos del conductor para un viaje conveniente y sin complicaciones."
+   "01 noche de alojamiento en hotel de 3 o 4 estrellas, en regimen de cama y desayuno",
+   "Transporte desde el hotel y de vuelta en vehiculo privado de lujo con aire acondicionado",
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
+   "Se proporcionaran jeeps de safari personalizados para una experiencia mejorada de observacion de fauna",
+   "El paquete cubre el recargo de combustible y las tarifas del conductor para un viaje conveniente y sin complicaciones"
   ],
   "notIncluded": [
    "Tarifas de entrada al parque nacional de Yala (aprox. 35 USD por persona)",
-   "Cualquier otro gasto no mencionado en la seccion de precio incluido",
+   "Cualquier otro gasto no mencionado en la seccion 'El precio incluye'",
    "Almuerzo o cena durante el tour."
+  ]
+ },
+ "ella-udawalawe-transfer-service-with-optional": {
+  "title": "Ella: servicio de traslado a Udawalawe con safari opcional",
+  "metaTitle": "Ella: servicio de traslado a Udawalawe con safari opcional",
+  "metaDescription": "Experiencia de un dia completo en Ella. . Ofrecido por OwinRich Hospitality.",
+  "shortDescription": "Experiencia de un dia completo en Ella. . Ofrecido por OwinRich Hospitality.",
+  "fullDescription": "Una experiencia de un dia completo en Ella. Enjoy a comfortable and convenient transfer between Ella and Udawalawe.\n\nOwinRich Hospitality la organiza, y 3 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye traslado en vehiculo con aire acondicionado de Ella a Udawalawe, conductor experimentado y recogida y regreso al hotel. No incluye entradas de safari de Udawalawe, jeep de safari y conductor y entradas a la casa de transito de elefantes, por lo que debe presupuestar eso por separado. Dos viajeros pagan 97 $ juntos en lugar de 97 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de un dia completo en Ella. . Ofrecido por OwinRich Hospitality."
+  ],
+  "included": [
+   "Traslado en vehiculo con aire acondicionado de Ella a Udawalawe",
+   "Conductor experimentado",
+   "Recogida y regreso al hotel"
+  ],
+  "notIncluded": [
+   "Entradas de safari de Udawalawe",
+   "Jeep de safari y conductor",
+   "Entradas a la casa de transito de elefantes"
   ]
  },
  "from-ella-2-day-tour-to-nuwara-eliya-and": {
@@ -71914,22 +72343,85 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Desde Ella: tour de 2 dias a Nuwara Eliya y Kandy con parada f...",
   "metaDescription": "Una excursion de 2 dia(s) desde Ella que visita Morning – Depart Ella & Explore the Hill Country, Nuwara Eliya – Sri Lanka’s “Little England”, Nuwara Eliya Tea Pl...",
   "shortDescription": "Una excursion de 2 dia(s) desde Ella que visita Morning – Depart Ella & Explore the Hill Country, Nuwara Eliya – Sri Lanka’s “Little England”, Nuwara Eliya Tea Plantation Experience y Evening – Relax in Nuwara Eliya. Ofrecido por Sign of Lanka (Pvt) Ltd.",
-  "fullDescription": "Una excursion de 2 dia(s) desde Ella, que recorre Morning – Depart Ella & Explore the Hill Country, Nuwara Eliya – Sri Lanka’s “Little England”, Nuwara Eliya Tea Plantation Experience y Evening – Relax in Nuwara Eliya. Hay 12 paradas en total.\n\nEl orden de la ruta es Morning – Depart Ella & Explore the Hill Country, luego Nuwara Eliya – Sri Lanka’s “Little England”, luego Nuwara Eliya Tea Plantation Experience, luego Evening – Relax in Nuwara Eliya, luego Morning – Scenic Journey from Nuwara Eliya to Kandy.\n\nEl precio incluye transporte de ida y vuelta al hotel en vehiculo privado, servicio de un conductor-guia que habla ingles, el paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia y todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios. No incluye torre de Ambuluwawa (6 USD), templo de la Reliquia del Diente de Kandy (10 USD por persona) y jardines botanicos reales de Peradeniya (10 USD por persona), por lo que debe presupuestar eso por separado. Dos viajeros pagan 795 $ juntos en lugar de 676 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de 2 dia(s) desde Ella, que recorre Morning – Depart Ella & Explore the Hill Country, Nuwara Eliya – Sri Lanka’s “Little England”, Nuwara Eliya Tea Plantation Experience y Evening – Relax in Nuwara Eliya. Hay 12 paradas en total.\n\nEl orden de la ruta es Morning – Depart Ella & Explore the Hill Country, luego Nuwara Eliya – Sri Lanka’s “Little England”, luego Nuwara Eliya Tea Plantation Experience, luego Evening – Relax in Nuwara Eliya, luego Morning – Scenic Journey from Nuwara Eliya to Kandy.\n\nEl precio incluye transporte desde el hotel y de vuelta en vehiculo privado, servicio de un chofer-guia que habla ingles, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad y todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios. No incluye torre de Ambuluwawa (6 USD), templo de la reliquia del diente de Kandy (10 USD por persona) y jardines botanicos reales de Peradeniya (10 USD por persona), por lo que debe presupuestar eso por separado. Dos viajeros pagan 795 $ juntos en lugar de 676 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de 2 dia(s) desde Ella que visita Morning – Depart Ella & Explore the Hill Country, Nuwara Eliya – Sri Lanka’s “Little England”, Nuwara Eliya Tea Plantation Experience y Evening – Relax in Nuwara Eliya. Ofrecido por Sign of Lanka (Pvt) Ltd."
   ],
   "included": [
-   "Transporte de ida y vuelta al hotel en vehiculo privado",
-   "Servicio de un conductor-guia que habla ingles",
-   "El paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones.",
-   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales.",
-   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia.",
-   "Todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios."
+   "Transporte desde el hotel y de vuelta en vehiculo privado",
+   "Servicio de un chofer-guia que habla ingles",
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
+   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales",
+   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad",
+   "Todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios"
   ],
   "notIncluded": [
    "Torre de Ambuluwawa (6 USD)",
-   "Templo de la Reliquia del Diente de Kandy (10 USD por persona)",
+   "Templo de la reliquia del diente de Kandy (10 USD por persona)",
    "Jardines botanicos reales de Peradeniya (10 USD por persona)"
+  ]
+ },
+ "from-kandy-full-day-tour-in-kandy-with-ambuluwawa": {
+  "title": "Desde Kandy: tour de dia completo en Kandy con la torre de Ambuluwawa",
+  "metaTitle": "Desde Kandy: tour de dia completo en Kandy con la torre de Amb...",
+  "metaDescription": "Una excursion de un dia completo desde Kandy que visita Ambuluwawa Tower, Royal Botanic Gardens, Kandy, Temple of the Sacred Tooth Relic y Bahirawakanda Temple. O...",
+  "shortDescription": "Una excursion de un dia completo desde Kandy que visita Ambuluwawa Tower, Royal Botanic Gardens, Kandy, Temple of the Sacred Tooth Relic y Bahirawakanda Temple. Ofrecido por Kandy Explore Tours.",
+  "fullDescription": "Una excursion de un dia completo desde Kandy, que recorre Ambuluwawa Tower, Royal Botanic Gardens, Kandy, Temple of the Sacred Tooth Relic y Bahirawakanda Temple. Hay 5 paradas en total.\n\nEl orden de la ruta es Ambuluwawa Tower, luego Royal Botanic Gardens, Kandy, luego Temple of the Sacred Tooth Relic, luego Bahirawakanda Temple, luego Kandy Lake Club.\n\nEl precio incluye transporte desde el hotel y de vuelta en vehiculo privado, servicio de un chofer-guia que habla ingles, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad y todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios. No incluye torre de Ambuluwawa (6 USD), templo de la reliquia del diente de Kandy (10 USD por persona) y espectaculo cultural de Kandy (5 USD), por lo que debe presupuestar eso por separado. Dos viajeros pagan 203 $ juntos en lugar de 186 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de un dia completo desde Kandy que visita Ambuluwawa Tower, Royal Botanic Gardens, Kandy, Temple of the Sacred Tooth Relic y Bahirawakanda Temple. Ofrecido por Kandy Explore Tours."
+  ],
+  "included": [
+   "Transporte desde el hotel y de vuelta en vehiculo privado",
+   "Servicio de un chofer-guia que habla ingles",
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
+   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales",
+   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad",
+   "Todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios"
+  ],
+  "notIncluded": [
+   "Torre de Ambuluwawa (6 USD)",
+   "Templo de la reliquia del diente de Kandy (10 USD por persona)",
+   "Espectaculo cultural de Kandy (5 USD)"
+  ]
+ },
+ "from-colombo-2-day-tour-to-nuwara-eliya-and": {
+  "title": "Desde Colombo: tour de 2 dias a Nuwara Eliya y Kandy",
+  "metaTitle": "Desde Colombo: tour de 2 dias a Nuwara Eliya y Kandy",
+  "metaDescription": "Una excursion de 2 dia(s) desde Colombo que visita Colombo to Nuwara Eliya Scenic Highland Journey, St. Clare’s Waterfall & Devon Waterfall, Nuwara Eliya Tea Plan...",
+  "shortDescription": "Una excursion de 2 dia(s) desde Colombo que visita Colombo to Nuwara Eliya Scenic Highland Journey, St. Clare’s Waterfall & Devon Waterfall, Nuwara Eliya Tea Plantation Experience y Relax in Cool-Climate Nuwara Eliya. Ofrecido por Sign of Lanka (Pvt) Ltd.",
+  "fullDescription": "Una excursion de 2 dia(s) desde Colombo, que recorre Colombo to Nuwara Eliya Scenic Highland Journey, St. Clare’s Waterfall & Devon Waterfall, Nuwara Eliya Tea Plantation Experience y Relax in Cool-Climate Nuwara Eliya. Hay 11 paradas en total.\n\nEl orden de la ruta es Colombo to Nuwara Eliya Scenic Highland Journey, luego St. Clare’s Waterfall & Devon Waterfall, luego Nuwara Eliya Tea Plantation Experience, luego Relax in Cool-Climate Nuwara Eliya, luego Nuwara Eliya to Kandy Scenic Drive.\n\nEl precio incluye 01 noche de alojamiento en hotel de 3 o 4 estrellas, en regimen de cama y desayuno, transporte desde el hotel y de vuelta en vehiculo privado de lujo con aire acondicionado, conductor-guia que habla ingles y visita a las cascadas de St. Clare y Devon. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 879 $ juntos en lugar de 829 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de 2 dia(s) desde Colombo que visita Colombo to Nuwara Eliya Scenic Highland Journey, St. Clare’s Waterfall & Devon Waterfall, Nuwara Eliya Tea Plantation Experience y Relax in Cool-Climate Nuwara Eliya. Ofrecido por Sign of Lanka (Pvt) Ltd."
+  ],
+  "included": [
+   "01 noche de alojamiento en hotel de 3 o 4 estrellas, en regimen de cama y desayuno",
+   "Transporte desde el hotel y de vuelta en vehiculo privado de lujo con aire acondicionado",
+   "Conductor-guia que habla ingles",
+   "Visita a las cascadas de St. Clare y Devon"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "kandy-private-city-tour-by-tuk-temple-of-the": {
+  "title": "Kandy: tour privado por la ciudad en tuk-tuk, templo del diente, y te",
+  "metaTitle": "Kandy: tour privado por la ciudad en tuk-tuk, templo del dient...",
+  "metaDescription": "Una excursion de medio dia desde Kandy que visita Finish at:. Ofrecido por Pekoe Lanka Tours.",
+  "shortDescription": "Una excursion de medio dia desde Kandy que visita Finish at:. Ofrecido por Pekoe Lanka Tours.",
+  "fullDescription": "Una excursion de medio dia desde Kandy, que recorre Finish at:.\n\nEl precio incluye recogida y regreso al hotel (zona de Kandy), tuk-tuk y auto privados con conductor/guia local autorizado y amable, horario totalmente personalizable, viaje a su propio ritmo y experiencia relajada y sin prisas, adaptada a sus preferencias. No incluye opcional, bebidas alcoholicas (disponibles para comprar) y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 10 $ juntos en lugar de 10 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de medio dia desde Kandy que visita Finish at:. Ofrecido por Pekoe Lanka Tours."
+  ],
+  "included": [
+   "Recogida y regreso al hotel (zona de Kandy)",
+   "Tuk-tuk y auto privados con conductor/guia local autorizado y amable",
+   "Horario totalmente personalizable, viaje a su propio ritmo",
+   "Experiencia relajada y sin prisas, adaptada a sus preferencias"
+  ],
+  "notIncluded": [
+   "Opcional",
+   "Bebidas alcoholicas (disponibles para comprar)",
+   "Propinas"
   ]
  },
  "pinnawalakandy-day-tour-from-colombonegombo": {
@@ -71948,6 +72440,47 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comida y bebidas",
    "Entradas"
+  ]
+ },
+ "culture-and-wildlife-8-days-private-tour-with": {
+  "title": "Cultura y fauna: tour privado de 8 dias con vacaciones en la playa",
+  "metaTitle": "Cultura y fauna: tour privado de 8 dias con vacaciones en la p...",
+  "metaDescription": "Experiencia de 8 dia(s) en Colombo. . Ofrecido por Serendipity tours (private) Limited.",
+  "shortDescription": "Experiencia de 8 dia(s) en Colombo. . Ofrecido por Serendipity tours (private) Limited.",
+  "fullDescription": "Una experiencia de 8 dia(s) en Colombo. Visit ancient temples, palaces, gardens in Anuradhapura and Polonnaruwa.\n\nSerendipity tours (private) Limited la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye alojamiento de 8 dias (7 noches) en la categoria de hoteles elegida, 7 desayunos y 7 cenas, todas las tarifas de entrada y costos de actividades y conductor/guia que habla ingles. No incluye almuerzo y bebidas y propinas y gratificaciones, por lo que debe presupuestar eso por separado. Dos viajeros pagan 2678 $ juntos en lugar de 2212 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de 8 dia(s) en Colombo. . Ofrecido por Serendipity tours (private) Limited."
+  ],
+  "included": [
+   "Alojamiento de 8 dias (7 noches) en la categoria de hoteles elegida",
+   "7 desayunos y 7 cenas",
+   "Todas las tarifas de entrada y costos de actividades",
+   "Conductor/guia que habla ingles"
+  ],
+  "notIncluded": [
+   "Almuerzo y bebidas",
+   "Propinas y gratificaciones"
+  ]
+ },
+ "yalamirissa-all-inclusive-full-day-safari-at-yala": {
+  "title": "Yala/Mirissa: safari de dia completo todo incluido en el parque de Yala",
+  "metaTitle": "Yala/Mirissa: safari de dia completo todo incluido en el parqu...",
+  "metaDescription": "Una excursion de un dia completo desde Mirissa que visita Yala National Park. Ofrecido por Sign of Lanka (Pvt) Ltd.",
+  "shortDescription": "Una excursion de un dia completo desde Mirissa que visita Yala National Park. Ofrecido por Sign of Lanka (Pvt) Ltd.",
+  "fullDescription": "Una excursion de un dia completo desde Mirissa, que recorre Yala National Park.\n\nEl precio incluye la recogida y el regreso para el safari se organizaran con un jeep de safari o un vehiculo confortable, segun la distancia, las tarifas de entrada al parque nacional de Yala estan incluidas en el paquete del tour, se proporcionaran jeeps de safari personalizados para una experiencia mejorada de observacion de fauna, almuerzo para llevar y el paquete cubre el recargo de combustible y las tarifas del conductor para un viaje conveniente y sin complicaciones. No incluye gastos personales y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 609 $ juntos en lugar de 449 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de un dia completo desde Mirissa que visita Yala National Park. Ofrecido por Sign of Lanka (Pvt) Ltd."
+  ],
+  "included": [
+   "La recogida y el regreso para el safari se organizaran con un jeep de safari o un vehiculo confortable, segun la distancia",
+   "Las tarifas de entrada al parque nacional de Yala estan incluidas en el paquete del tour",
+   "Se proporcionaran jeeps de safari personalizados para una experiencia mejorada de observacion de fauna",
+   "Almuerzo para llevar",
+   "El paquete cubre el recargo de combustible y las tarifas del conductor para un viaje conveniente y sin complicaciones"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
   ]
  },
  "colombo-negombo-sigiriya-dambulla-cave-full-day": {
@@ -71997,7 +72530,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Desde Kandy: tour por una fabrica de te con visita a la cascad...",
   "metaDescription": "Una excursion de medio dia desde Kandy que visita Ramboda Falls, Srilanka. Ofrecido por Ceylon Traveline (PVT) LTD.",
   "shortDescription": "Una excursion de medio dia desde Kandy que visita Ramboda Falls, Srilanka. Ofrecido por Ceylon Traveline (PVT) LTD.",
-  "fullDescription": "Una excursion de medio dia desde Kandy, que recorre Ramboda Falls, Srilanka. La parada mas larga es Ramboda Falls, Srilanka, con una duracion de unos 1 hora.\n\nCeylon Traveline (PVT) LTD la organiza, y 6 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel en Kandy, agua embotellada, vehiculo con aire acondicionado y wi-Fi a bordo. No incluye almuerzo, por lo que debe presupuestar eso por separado. Dos viajeros pagan 298 $ juntos en lugar de 208 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de medio dia desde Kandy, que recorre Ramboda Falls, Srilanka. La parada mas larga es Ramboda Falls, Srilanka, con una duracion de unos 1 hora.\n\nCeylon Traveline (PVT) LTD la organiza, y 6 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel en Kandy, agua embotellada, vehiculo con aire acondicionado y wifi a bordo. No incluye almuerzo, por lo que debe presupuestar eso por separado. Dos viajeros pagan 298 $ juntos en lugar de 208 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de medio dia desde Kandy que visita Ramboda Falls, Srilanka. Ofrecido por Ceylon Traveline (PVT) LTD."
   ],
@@ -72005,7 +72538,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Recogida y regreso al hotel en Kandy",
    "Agua embotellada",
    "Vehiculo con aire acondicionado",
-   "Wi-Fi a bordo"
+   "Wifi a bordo"
   ],
   "notIncluded": [
    "Almuerzo"
@@ -72228,6 +72761,27 @@ export const ES_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "private-kandy-city-tour-by-tuk-tuk-with-licenced": {
+  "title": "Tour privado por la ciudad de Kandy en tuk-tuk con guia local autorizado",
+  "metaTitle": "Tour privado por la ciudad de Kandy en tuk-tuk con guia local ...",
+  "metaDescription": "Experiencia de medio dia en Kandy. Tour de ciudad en tuk-tuk y auto verdaderamente privado, solo usted y su guia. Ofrecido por Pekoe Lanka Tours.",
+  "shortDescription": "Experiencia de medio dia en Kandy. Tour de ciudad en tuk-tuk y auto verdaderamente privado, solo usted y su guia. Ofrecido por Pekoe Lanka Tours.",
+  "fullDescription": "Una experiencia de medio dia en Kandy. Tour de ciudad en tuk-tuk y auto verdaderamente privado, solo usted y su guia.\n\nPekoe Lanka Tours la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel (zona de Kandy), tuk-tuk y auto privados con conductor/guia local autorizado y amable, horario totalmente personalizable, viaje a su propio ritmo y experiencia relajada y sin prisas, adaptada a sus preferencias. No incluye bebidas alcoholicas (disponibles para comprar), costos del almuerzo y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 13 $ juntos en lugar de 13 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Tour de ciudad en tuk-tuk y auto verdaderamente privado, solo usted y su guia"
+  ],
+  "included": [
+   "Recogida y regreso al hotel (zona de Kandy)",
+   "Tuk-tuk y auto privados con conductor/guia local autorizado y amable",
+   "Horario totalmente personalizable, viaje a su propio ritmo",
+   "Experiencia relajada y sin prisas, adaptada a sus preferencias"
+  ],
+  "notIncluded": [
+   "Bebidas alcoholicas (disponibles para comprar)",
+   "Costos del almuerzo",
+   "Propinas"
+  ]
+ },
  "sigiriya-and-dambulla-day-tour-from-galle-bentota": {
   "title": "Sigiriya y Dambulla: excursion de un dia desde Galle/Bentota",
   "metaTitle": "Sigiriya y Dambulla: excursion de un dia desde Galle/Bentota",
@@ -72295,20 +72849,20 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Desde Colombo: safari exclusivo en el rio Madu y criadero de t...",
   "metaDescription": "Una excursion de medio dia desde Colombo que visita Madu River Boat Safari y Kosgoda Sea Turtle Conservation. Ofrecido por Beyond Escapes.",
   "shortDescription": "Una excursion de medio dia desde Colombo que visita Madu River Boat Safari y Kosgoda Sea Turtle Conservation. Ofrecido por Beyond Escapes.",
-  "fullDescription": "Una excursion de medio dia desde Colombo, que recorre Madu River Boat Safari y Kosgoda Sea Turtle Conservation. Hay 2 paradas en total.\n\nEl orden de la ruta es Madu River Boat Safari, luego Kosgoda Sea Turtle Conservation.\n\nEl precio incluye transporte de ida y vuelta al hotel en vehiculo privado, tarifas de barco para el safari fluvial en Madu Ganga y tarifas de entrada al criadero de tortugas en Kosgoda, el paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia y todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios. No incluye cualquier otro gasto no mencionado en la seccion de precio incluido y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 406 $ juntos en lugar de 372 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de medio dia desde Colombo, que recorre Madu River Boat Safari y Kosgoda Sea Turtle Conservation. Hay 2 paradas en total.\n\nEl orden de la ruta es Madu River Boat Safari, luego Kosgoda Sea Turtle Conservation.\n\nEl precio incluye transporte desde el hotel y de vuelta en vehiculo privado, tarifas de barco para el safari fluvial en Madu Ganga y tarifas de entrada al criadero de tortugas en Kosgoda, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad y todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios. No incluye cualquier otro gasto no mencionado en la seccion 'El precio incluye' y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 406 $ juntos en lugar de 372 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de medio dia desde Colombo que visita Madu River Boat Safari y Kosgoda Sea Turtle Conservation. Ofrecido por Beyond Escapes."
   ],
   "included": [
-   "Transporte de ida y vuelta al hotel en vehiculo privado",
+   "Transporte desde el hotel y de vuelta en vehiculo privado",
    "Tarifas de barco para el safari fluvial en Madu Ganga y tarifas de entrada al criadero de tortugas en Kosgoda",
-   "El paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones.",
-   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales.",
-   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia.",
-   "Todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios."
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
+   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales",
+   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad",
+   "Todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios"
   ],
   "notIncluded": [
-   "Cualquier otro gasto no mencionado en la seccion de precio incluido",
+   "Cualquier otro gasto no mencionado en la seccion 'El precio incluye'",
    "Propinas"
   ]
  },
@@ -72317,20 +72871,20 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Desde Colombo: aventura privada en barco por el canal holandes",
   "metaDescription": "Una excursion de medio dia desde Colombo que visita Dutch Canal. Ofrecido por Sign of Lanka (Pvt) Ltd.",
   "shortDescription": "Una excursion de medio dia desde Colombo que visita Dutch Canal. Ofrecido por Sign of Lanka (Pvt) Ltd.",
-  "fullDescription": "Una excursion de medio dia desde Colombo, que recorre Dutch Canal.\n\nEl precio incluye transporte de ida y vuelta al hotel en vehiculo privado, tarifas de barco y chalecos salvavidas, el paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia y todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios. No incluye cualquier otro gasto no mencionado en la seccion de precio incluido y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 305 $ juntos en lugar de 288 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de medio dia desde Colombo, que recorre Dutch Canal.\n\nEl precio incluye transporte desde el hotel y de vuelta en vehiculo privado, tarifas de barco y chalecos salvavidas, el paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones, tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales, mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad y todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios. No incluye cualquier otro gasto no mencionado en la seccion 'El precio incluye' y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 305 $ juntos en lugar de 288 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de medio dia desde Colombo que visita Dutch Canal. Ofrecido por Sign of Lanka (Pvt) Ltd."
   ],
   "included": [
-   "Transporte de ida y vuelta al hotel en vehiculo privado",
+   "Transporte desde el hotel y de vuelta en vehiculo privado",
    "Tarifas de barco y chalecos salvavidas",
-   "El paquete incluye el recargo de combustible y los cargos del conductor, garantizando un viaje comodo y sin complicaciones.",
-   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para disfrutar del tour sin gastos adicionales.",
-   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia.",
-   "Todos los impuestos gubernamentales estan incluidos en el paquete, para su tranquilidad y transparencia de precios."
+   "El paquete incluye recargo de combustible y tarifas del conductor, asegurando un viaje confortable y sin complicaciones",
+   "Tenga la seguridad de que las tarifas de estacionamiento tambien estan cubiertas, para que disfrute del tour sin gastos adicionales",
+   "Mantengase refrescado durante todo el tour con refrescos y agua de cortesia para su comodidad",
+   "Todos los impuestos gubernamentales estan incluidos en el paquete, brindando tranquilidad y transparencia en los precios"
   ],
   "notIncluded": [
-   "Cualquier otro gasto no mencionado en la seccion de precio incluido",
+   "Cualquier otro gasto no mencionado en la seccion 'El precio incluye'",
    "Propinas"
   ]
  },
