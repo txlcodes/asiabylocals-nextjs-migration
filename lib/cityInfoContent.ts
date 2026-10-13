@@ -4,6 +4,7 @@ import { getChinaInfoContent } from './chinaInfoContent';
 import { getHongKongInfoContent } from './hongkongInfoContent';
 import { getTaiwanInfoContent } from './taiwanInfoContent';
 import { getSouthKoreaInfoContent } from './southKoreaInfoContent';
+import { getTurkeyInfoContent } from './turkeyInfoContent';
 import { getPhilippinesInfoContent } from './philippinesInfoContent';
 import { getTokyoInfoContent } from './tokyoInfoContent';
 import { getKyotoInfoContent } from './kyotoInfoContent';
@@ -179,6 +180,9 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const philippinesPage = getPhilippinesInfoContent(slug);
     if (philippinesPage) return philippinesPage;
+
+    const turkeyPage = getTurkeyInfoContent(slug);
+    if (turkeyPage) return turkeyPage;
 
     switch (slug) {
             case "things-to-do-in-agra":

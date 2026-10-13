@@ -232,6 +232,23 @@ export const SEOUL_INFO_SLUGS = [
   'seoul-palaces-guide', 'seoul-night-market-food-guide',
 ];
 
+// Turkey launched 2026-10 with 687 live tours (single city: Istanbul) and
+// zero authority pages. This is the first batch, 30 pages. Reached via
+// getTurkeyInfoContent() -> getCityInfoContent(). Re-add a slug here ONLY
+// once its page exists in lib/turkeyInfoContent.ts — isInfoSlug() gates the route.
+export const ISTANBUL_INFO_SLUGS = [
+  'best-time-to-visit-istanbul', 'things-to-do-in-istanbul', 'istanbul-travel-guide-2026',
+  'istanbul-1-day-itinerary', 'istanbul-3-day-itinerary', 'turkey-visa-guide-for-tourists',
+  'hagia-sophia-guide', 'blue-mosque-guide', 'topkapi-palace-tickets-guide',
+  'grand-bazaar-spice-bazaar-guide', 'bosphorus-cruise-guide', 'istanbul-hamam-turkish-bath-guide',
+  'cappadocia-from-istanbul-guide', 'istanbulkart-transit-guide', 'princes-islands-day-trip',
+  'istanbul-food-guide', 'istanbul-7-day-itinerary', 'istanbul-nightlife-guide',
+  'istanbul-shopping-guide', 'istanbul-mosques-guide', 'istanbul-museums-guide',
+  'istanbul-with-kids-guide', 'istanbul-budget-travel-guide', 'istanbul-luxury-travel-guide',
+  'istanbul-rainy-day-activities', 'dolmabahce-palace-guide', 'galata-tower-guide',
+  'istanbul-whirling-dervishes-guide', 'istanbul-turkish-coffee-culture-guide', 'istanbul-weekend-guide',
+];
+
 export const BUSAN_INFO_SLUGS = [
   'best-time-to-visit-busan', 'things-to-do-in-busan', 'busan-travel-guide-2026',
   'busan-1-day-itinerary', 'haeundae-beach-guide', 'gamcheon-culture-village-guide',
