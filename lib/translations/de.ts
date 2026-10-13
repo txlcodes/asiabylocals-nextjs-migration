@@ -50116,7 +50116,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ella: Abenteuer-Tagesausflug per Tuk-Tuk",
   "metaDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Demodara Railway Loop Viewpoint, Nine Arch Bridge und Ravana Falls besucht. Angeboten von Sri Lanka Trekking Club.",
   "shortDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Demodara Railway Loop Viewpoint, Nine Arch Bridge und Ravana Falls besucht. Angeboten von Sri Lanka Trekking Club.",
-  "fullDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Demodara Railway Loop Viewpoint, Nine Arch Bridge und Ravana Falls umfasst. Der laengste Halt ist Ella Rock, mit etwa 2 Stunden. Es gibt insgesamt 6 Stopps.\n\nDie Reihenfolge ist Ella Rock (2h), dann Demodara Railway Loop Viewpoint (1h), dann Nine Arch Bridge (20 min), dann Ravana Falls (25 min), dann Flying Ravana Mega Zipline (1h).\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, erfahrener und sachkundiger Guide/Fahrer und transport per Tuk-Tuk. Nicht enthalten sind eintrittsgebuehren zum Ella-Felsen (etwa 3 USD), flying-Ravana-Mega-Seilrutsche (etwa 33 USD) und calypso-Zug mit Calypso-Musik (etwa 5 USD), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 166 $ statt 164 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Demodara Railway Loop Viewpoint, Nine Arch Bridge und Ravana Falls umfasst. Der laengste Halt ist Ella Rock, mit etwa 2 Stunden. Es gibt insgesamt 6 Stopps.\n\nDie Reihenfolge ist Ella Rock (2h), dann Demodara Railway Loop Viewpoint (1h), dann Nine Arch Bridge (20 min), dann Ravana Falls (25 min), dann Flying Ravana Mega Zipline (1h).\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, erfahrener und sachkundiger Guide/Fahrer und transport per Tuk-Tuk. Nicht enthalten sind eintrittsgebuehren zum Ella-Felsen (etwa 3 USD), flying-Ravana-Mega-Seilrutsche (etwa 33 USD) und calypso-Zug mit Calypso-Musik (ca. 5 USD), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 166 $ statt 164 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Demodara Railway Loop Viewpoint, Nine Arch Bridge und Ravana Falls besucht. Angeboten von Sri Lanka Trekking Club."
   ],
@@ -50128,7 +50128,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Eintrittsgebuehren zum Ella-Felsen (etwa 3 USD)",
    "Flying-Ravana-Mega-Seilrutsche (etwa 33 USD)",
-   "Calypso-Zug mit Calypso-Musik (etwa 5 USD)"
+   "Calypso-Zug mit Calypso-Musik (ca. 5 USD)"
   ]
  },
  "sri-lanka-5-day-cities-and-nature-round-tour": {
@@ -50601,7 +50601,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ab Ella: Tagesausflug zu 8 ikonischen Sehenswuerdigkeiten und ...",
   "metaDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Kithalella, Ravana Falls und Demodara Railway Loop Viewpoint besucht. Angeboten von Wanderluxe Ceylon.",
   "shortDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Kithalella, Ravana Falls und Demodara Railway Loop Viewpoint besucht. Angeboten von Wanderluxe Ceylon.",
-  "fullDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Kithalella, Ravana Falls und Demodara Railway Loop Viewpoint umfasst. Der laengste Halt ist Ella Rock, mit etwa 4 Stunden. Es gibt insgesamt 7 Stopps.\n\nDie Reihenfolge ist Ella Rock (4h), dann Kithalella (20 min), dann Ravana Falls (30 min), dann Demodara Railway Loop Viewpoint (20 min), dann Nine Arch Bridge (20 min).\n\nDer Preis beinhaltet kostenlose Abholung und Rueckfahrt, erfahrener und sachkundiger Guide/Fahrer, wasserflasche und schwarzer Tee. Nicht enthalten sind flying-Ravana-Mega-Seilrutsche (etwa 33 USD) und calypso-Zug mit Calypso-Musik (etwa 5 USD), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 86 $ statt 86 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Kithalella, Ravana Falls und Demodara Railway Loop Viewpoint umfasst. Der laengste Halt ist Ella Rock, mit etwa 4 Stunden. Es gibt insgesamt 7 Stopps.\n\nDie Reihenfolge ist Ella Rock (4h), dann Kithalella (20 min), dann Ravana Falls (30 min), dann Demodara Railway Loop Viewpoint (20 min), dann Nine Arch Bridge (20 min).\n\nDer Preis beinhaltet kostenlose Abholung und Rueckfahrt, erfahrener und sachkundiger Guide/Fahrer, wasserflasche und schwarzer Tee. Nicht enthalten sind flying-Ravana-Mega-Zipline (ca. 33 USD) und calypso-Zug mit Calypso-Musik (etwa 5 USD), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 86 $ statt 86 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Kithalella, Ravana Falls und Demodara Railway Loop Viewpoint besucht. Angeboten von Wanderluxe Ceylon."
   ],
@@ -50612,7 +50612,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Schwarzer Tee"
   ],
   "notIncluded": [
-   "Flying-Ravana-Mega-Seilrutsche (etwa 33 USD)",
+   "Flying-Ravana-Mega-Zipline (ca. 33 USD)",
    "Calypso-Zug mit Calypso-Musik (etwa 5 USD)"
   ]
  },
@@ -50662,7 +50662,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ab Ella: private Tagestour zu 8 ikonischen Sehenswuerdigkeiten...",
   "metaDescription": "Ein halbtaegigeer Ausflug ab Ella, der Ravana Falls, Ella Rock, Kithalella und Demodara Railway Loop Viewpoint besucht. Angeboten von Tiger Safaris.",
   "shortDescription": "Ein halbtaegigeer Ausflug ab Ella, der Ravana Falls, Ella Rock, Kithalella und Demodara Railway Loop Viewpoint besucht. Angeboten von Tiger Safaris.",
-  "fullDescription": "Ein halbtaegigeer Ausflug ab Ella, der Ravana Falls, Ella Rock, Kithalella und Demodara Railway Loop Viewpoint umfasst. Der laengste Halt ist Ella Rock, mit etwa 1 Stunde. Es gibt insgesamt 7 Stopps.\n\nDie Reihenfolge ist Ravana Falls (20 min), dann Ella Rock (1h), dann Kithalella (20 min), dann Demodara Railway Loop Viewpoint (20 min), dann Nine Arch Bridge (20 min).\n\nDer Preis beinhaltet private Tour, kostenlose Abholung und Rueckfahrt, erfahrener und sachkundiger Guide/Fahrer und normale Zugtickets. Nicht enthalten sind flying-Ravana-Mega-Seilrutsche (etwa 33 USD) und calypso-Zug mit Calypso-Musik (etwa 5 USD), dafuer sollten Sie zusaetzlich budgetieren.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Ella, der Ravana Falls, Ella Rock, Kithalella und Demodara Railway Loop Viewpoint umfasst. Der laengste Halt ist Ella Rock, mit etwa 1 Stunde. Es gibt insgesamt 7 Stopps.\n\nDie Reihenfolge ist Ravana Falls (20 min), dann Ella Rock (1h), dann Kithalella (20 min), dann Demodara Railway Loop Viewpoint (20 min), dann Nine Arch Bridge (20 min).\n\nDer Preis beinhaltet private Tour, kostenlose Abholung und Rueckfahrt, erfahrener und sachkundiger Guide/Fahrer und normale Zugtickets. Nicht enthalten sind flying-Ravana-Mega-Zipline (ca. 33 USD) und calypso-Zug mit Calypso-Musik (etwa 5 USD), dafuer sollten Sie zusaetzlich budgetieren.",
   "highlights": [
    "Ein halbtaegigeer Ausflug ab Ella, der Ravana Falls, Ella Rock, Kithalella und Demodara Railway Loop Viewpoint besucht. Angeboten von Tiger Safaris."
   ],
@@ -50673,7 +50673,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Normale Zugtickets"
   ],
   "notIncluded": [
-   "Flying-Ravana-Mega-Seilrutsche (etwa 33 USD)",
+   "Flying-Ravana-Mega-Zipline (ca. 33 USD)",
    "Calypso-Zug mit Calypso-Musik (etwa 5 USD)"
   ]
  },
@@ -50888,7 +50888,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ab Ella: unvergesslicher Tagesausflug zu den Ella-Gipfeln",
   "metaDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella, Sri Lanka besucht. Angeboten von Wanderluxe Ceylon.",
   "shortDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella, Sri Lanka besucht. Angeboten von Wanderluxe Ceylon.",
-  "fullDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella, Sri Lanka umfasst. Der laengste Halt ist Ella, Sri Lanka, mit etwa 12 Stunden.\n\nDer Preis beinhaltet kostenlose Abholung und Rueckfahrt (Gebiete Ella, Haputale, Bandarawela, Wellawaya), klimatisiertes Fahrzeug, erfahrener Fahrer/Guide und zugtickets (normaler Zug). Nicht enthalten sind uva-Halpewatte-Teefabriktour (etwa 10 USD), flying-Ravana-Mega-Seilrutsche (etwa 33 USD) und calypso-Zug mit Calypso-Musik (etwa 5 USD), dafuer sollten Sie zusaetzlich budgetieren.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella, Sri Lanka umfasst. Der laengste Halt ist Ella, Sri Lanka, mit etwa 12 Stunden.\n\nDer Preis beinhaltet kostenlose Abholung und Rueckfahrt (Gebiete Ella, Haputale, Bandarawela, Wellawaya), klimatisiertes Fahrzeug, erfahrener Fahrer/Guide und zugtickets (normaler Zug). Nicht enthalten sind uva-Halpewatte-Teefabriktour (etwa 10 USD), flying-Ravana-Mega-Zipline (ca. 33 USD) und calypso-Zug mit Calypso-Musik (etwa 5 USD), dafuer sollten Sie zusaetzlich budgetieren.",
   "highlights": [
    "Ein ganztaegigeer Ausflug ab Ella, der Ella, Sri Lanka besucht. Angeboten von Wanderluxe Ceylon."
   ],
@@ -50900,7 +50900,7 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Uva-Halpewatte-Teefabriktour (etwa 10 USD)",
-   "Flying-Ravana-Mega-Seilrutsche (etwa 33 USD)",
+   "Flying-Ravana-Mega-Zipline (ca. 33 USD)",
    "Calypso-Zug mit Calypso-Musik (etwa 5 USD)"
   ]
  },
@@ -50969,7 +50969,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ab Galle/Mirissa/Tangalle/Hikkaduwa: Tagesausflug zu den Ella-...",
   "metaDescription": "Ein ganztaegigeer Ausflug ab Galle, der Ella, Sri Lanka besucht. Angeboten von Wanderluxe Ceylon.",
   "shortDescription": "Ein ganztaegigeer Ausflug ab Galle, der Ella, Sri Lanka besucht. Angeboten von Wanderluxe Ceylon.",
-  "fullDescription": "Ein ganztaegigeer Ausflug ab Galle, der Ella, Sri Lanka umfasst. Der laengste Halt ist Ella, Sri Lanka, mit etwa 10 Stunden.\n\nDer Preis beinhaltet kostenlose Abholung und Rueckfahrt (Galle, Hikkaduwa, Unawatuna, Mirissa, Weligama, Thissamaharama, Udawalawe, Tangalle, Kataragama), klimatisiertes Luxusfahrzeug, erfahrener Fahrer/Guide und zugtickets (normaler Zug). Nicht enthalten sind uva-Halpewatte-Teefabriktour (etwa 10 USD), flying-Ravana-Mega-Seilrutsche (etwa 33 USD) und calypso-Zug mit Calypso-Musik (etwa 6 USD), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 363 $ statt 362 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Galle, der Ella, Sri Lanka umfasst. Der laengste Halt ist Ella, Sri Lanka, mit etwa 10 Stunden.\n\nDer Preis beinhaltet kostenlose Abholung und Rueckfahrt (Galle, Hikkaduwa, Unawatuna, Mirissa, Weligama, Thissamaharama, Udawalawe, Tangalle, Kataragama), klimatisiertes Luxusfahrzeug, erfahrener Fahrer/Guide und zugtickets (normaler Zug). Nicht enthalten sind uva-Halpewatte-Teefabriktour (etwa 10 USD), flying-Ravana-Mega-Zipline (ca. 33 USD) und calypso-Zug mit Calypso-Musik (etwa 6 USD), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 363 $ statt 362 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "Ein ganztaegigeer Ausflug ab Galle, der Ella, Sri Lanka besucht. Angeboten von Wanderluxe Ceylon."
   ],
@@ -50981,7 +50981,7 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Uva-Halpewatte-Teefabriktour (etwa 10 USD)",
-   "Flying-Ravana-Mega-Seilrutsche (etwa 33 USD)",
+   "Flying-Ravana-Mega-Zipline (ca. 33 USD)",
    "Calypso-Zug mit Calypso-Musik (etwa 6 USD)"
   ]
  },
@@ -52393,7 +52393,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Hikkaduwa/Galle/Mirissa/Hiriketiya/Tangalle: Tagesausflug nach...",
   "metaDescription": "halbtaegigees Erlebnis in Galle. Erleben Sie eine entspannende Reise voller Ausblicke. Angeboten von Ceylon Nature Tours.",
   "shortDescription": "halbtaegigees Erlebnis in Galle. Erleben Sie eine entspannende Reise voller Ausblicke. Angeboten von Ceylon Nature Tours.",
-  "fullDescription": "Ein halbtaegigees Erlebnis in Galle. Erleben Sie eine entspannende Reise voller Ausblicke.\n\nCeylon Nature Tours fuehrt es durch, und 4 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, transport in einem klimatisierten Fahrzeug (Auto/Van/Bus), zugtickets (normaler Zug) und autobahngebuehren. Nicht enthalten sind uva-Halpewatte-Teefabriktour (etwa 10 USD), flying-Ravana-Mega-Seilrutsche (etwa 35 USD) und calypso-Zug mit Calypso-Musik (etwa 6 USD), dafuer sollten Sie zusaetzlich budgetieren.",
+  "fullDescription": "Ein halbtaegigees Erlebnis in Galle. Erleben Sie eine entspannende Reise voller Ausblicke.\n\nCeylon Nature Tours fuehrt es durch, und 4 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, transport in einem klimatisierten Fahrzeug (Auto/Van/Bus), zugtickets (normaler Zug) und autobahngebuehren. Nicht enthalten sind uva-Halpewatte-Teefabrik-Tour (ca. 10 USD), flying-Ravana-Mega-Zipline (ca. 35 USD) und calypso-Zug mit Calypso-Musik (etwa 6 USD), dafuer sollten Sie zusaetzlich budgetieren.",
   "highlights": [
    "Erleben Sie eine entspannende Reise voller Ausblicke"
   ],
@@ -52404,8 +52404,8 @@ export const DE_TOURS: Record<string, TourT> = {
    "Autobahngebuehren"
   ],
   "notIncluded": [
-   "Uva-Halpewatte-Teefabriktour (etwa 10 USD)",
-   "Flying-Ravana-Mega-Seilrutsche (etwa 35 USD)",
+   "Uva-Halpewatte-Teefabrik-Tour (ca. 10 USD)",
+   "Flying-Ravana-Mega-Zipline (ca. 35 USD)",
    "Calypso-Zug mit Calypso-Musik (etwa 6 USD)"
   ]
  },
@@ -58238,21 +58238,21 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ab Sigiriya: Kaudulla-Nationalpark-Elefanten-Jeep-Safari",
   "metaDescription": "Ein 3-stuendigeer Ausflug ab Sigiriya, der Jeep / SUV und Kaudulla National Park besucht. Angeboten von Sigiri Arana Jeep Safari & Tour.",
   "shortDescription": "Ein 3-stuendigeer Ausflug ab Sigiriya, der Jeep / SUV und Kaudulla National Park besucht. Angeboten von Sigiri Arana Jeep Safari & Tour.",
-  "fullDescription": "Ein 3-stuendigeer Ausflug ab Sigiriya, der Jeep / SUV und Kaudulla National Park umfasst. Der laengste Halt ist Kaudulla National Park, mit etwa 4 Stunden. Es gibt insgesamt 2 Stopps.\n\nDie Reihenfolge ist Jeep / SUV (45 min), dann Kaudulla National Park (4h).\n\nDer Preis beinhaltet erfahrener Fahrer/Guide zur Leitung der Tour, hotelabholung und Rueckfahrt, moeglichkeit, Elefanten, Rehe, Voegel, und andere Tierwelt aus der Naehe zu sehen und malerische Landschaft- und Naturblicke waehrend der gesamten Reise. Nicht enthalten sind parkeintrittsgebuehr nicht enthalten (geeignet fuer die Option ohne Ticket), trinkgelder fuer den Fahrer/Guide (optional), persoenliche Ausgaben wie Snacks, Getraenke, und Souvenirs und optionale Fotografie- oder Videoausruestungs-Vermietung, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 125 $ statt 125 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein 3-stuendigeer Ausflug ab Sigiriya, der Jeep / SUV und Kaudulla National Park umfasst. Der laengste Halt ist Kaudulla National Park, mit etwa 4 Stunden. Es gibt insgesamt 2 Stopps.\n\nDie Reihenfolge ist Jeep / SUV (45 min), dann Kaudulla National Park (4h).\n\nDer Preis beinhaltet erfahrener Fahrer/Guide zur Fuehrung der Tour, hotelabholung und Rueckfahrt, moeglichkeit, Elefanten, Rehe, Voegel, und andere Wildtiere aus der Naehe zu sehen und malerische Landschafts- und Naturblicke waehrend der gesamten Reise. Nicht enthalten sind parkeintrittsgebuehr nicht enthalten (geeignet fuer die Option ohne Ticket), trinkgeld fuer Fahrer/Guide (optional), persoenliche Ausgaben wie Snacks, Getraenke, und Souvenirs und optionale Foto- oder Videoausruestungsvermietung, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 125 $ statt 125 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "Ein 3-stuendigeer Ausflug ab Sigiriya, der Jeep / SUV und Kaudulla National Park besucht. Angeboten von Sigiri Arana Jeep Safari & Tour."
   ],
   "included": [
-   "Erfahrener Fahrer/Guide zur Leitung der Tour",
+   "Erfahrener Fahrer/Guide zur Fuehrung der Tour",
    "Hotelabholung und Rueckfahrt",
-   "Moeglichkeit, Elefanten, Rehe, Voegel, und andere Tierwelt aus der Naehe zu sehen",
-   "Malerische Landschaft- und Naturblicke waehrend der gesamten Reise"
+   "Moeglichkeit, Elefanten, Rehe, Voegel, und andere Wildtiere aus der Naehe zu sehen",
+   "Malerische Landschafts- und Naturblicke waehrend der gesamten Reise"
   ],
   "notIncluded": [
    "Parkeintrittsgebuehr nicht enthalten (geeignet fuer die Option ohne Ticket)",
-   "Trinkgelder fuer den Fahrer/Guide (optional)",
+   "Trinkgeld fuer Fahrer/Guide (optional)",
    "Persoenliche Ausgaben wie Snacks, Getraenke, und Souvenirs",
-   "Optionale Fotografie- oder Videoausruestungs-Vermietung"
+   "Optionale Foto- oder Videoausruestungsvermietung"
   ]
  },
  "colombo-city-tour-with-hotel-pickup-from-bentota": {
@@ -74198,12 +74198,423 @@ export const DE_TOURS: Record<string, TourT> = {
    "Luxusrestaurant-Speisen"
   ]
  },
+ "sigiriya-minneriya-national-park-4x4-jeep-safari": {
+  "title": "Sigiriya: 4x4-Jeep-Safari im Minneriya-Nationalpark, privat",
+  "metaTitle": "Sigiriya: 4x4-Jeep-Safari im Minneriya-Nationalpark, privat",
+  "metaDescription": "Ein halbtaegigeer Ausflug ab Sigiriya, der Jeep / SUV und Minneriya National Park besucht. Angeboten von Lakpura®.",
+  "shortDescription": "Ein halbtaegigeer Ausflug ab Sigiriya, der Jeep / SUV und Minneriya National Park besucht. Angeboten von Lakpura®.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Sigiriya, der Jeep / SUV und Minneriya National Park umfasst. Der laengste Halt ist Minneriya National Park, mit etwa 4 Stunden. Es gibt insgesamt 2 Stopps.\n\nDie Reihenfolge ist Jeep / SUV (20 min), dann Minneriya National Park (4h).\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, jeep mit Fahrer-Guide, flasche Wasser und besuch des Minneriya-Sees. Nicht enthalten sind nationalpark-Eintrittsgebuehren, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 153 $ statt 128 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein halbtaegigeer Ausflug ab Sigiriya, der Jeep / SUV und Minneriya National Park besucht. Angeboten von Lakpura®."
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt",
+   "Jeep mit Fahrer-Guide",
+   "Flasche Wasser",
+   "Besuch des Minneriya-Sees"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebuehren"
+  ]
+ },
+ "explore-hidden-gems-in-ella-by-tuk-tuk": {
+  "title": "Erkunden Sie versteckte Schaetze in Ella mit Tuk-Tuk",
+  "metaTitle": "Erkunden Sie versteckte Schaetze in Ella mit Tuk-Tuk",
+  "metaDescription": "halbtaegigees Erlebnis in Ella. . Angeboten von Miracle tour.",
+  "shortDescription": "halbtaegigees Erlebnis in Ella. . Angeboten von Miracle tour.",
+  "fullDescription": "Ein halbtaegigees Erlebnis in Ella. Discover the natural beauty of Ella on a guided tour with a local expert.\n\nMiracle tour fuehrt es durch, und 5 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet gefuehrter Little Adam's Peak, neun-Bogen-Bruecke, rawana-Wasserfall und pallewela-Wasserfaelle (geheim). Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "halbtaegigees Erlebnis in Ella. . Angeboten von Miracle tour."
+  ],
+  "included": [
+   "Gefuehrter Little Adam's Peak",
+   "Neun-Bogen-Bruecke",
+   "Rawana-Wasserfall",
+   "Pallewela-Wasserfaelle (geheim)"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "mirissa-luxury-sailing-boat-dolphin-and-whale": {
+  "title": "Mirissa: Luxus-Segelboot, Delfin- und Walbeobachtung",
+  "metaTitle": "Mirissa: Luxus-Segelboot, Delfin- und Walbeobachtung",
+  "metaDescription": "ganztaegigees Erlebnis in Mirissa. . Angeboten von Ceylon Pass.",
+  "shortDescription": "ganztaegigees Erlebnis in Mirissa. . Angeboten von Ceylon Pass.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Mirissa. Enjoy a Luxury Whale and Dolphin Watching Experience.\n\nCeylon Pass fuehrt es durch, und 9 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet abholung und Rueckfahrt zu Ihrem Hotel, Resort, oder Ihrer Villa (Radius von 10 Meilen von der Stadt Mirissa), fruehstueck, heisses Getraenk, mittagessen und 1 Glas Sekt pro Person. Nicht enthalten sind langstrecken-Abholung oder Rueckfahrt (gegen Aufpreis verfuegbar), zusaetzliche Speisen oder Getraenke an Bord des Boots und jegliche Strafen fuer Gesetzes- oder Vorschriftsverstoesse, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 1113 $ statt 591 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "ganztaegigees Erlebnis in Mirissa. . Angeboten von Ceylon Pass."
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zu Ihrem Hotel, Resort, oder Ihrer Villa (Radius von 10 Meilen von der Stadt Mirissa)",
+   "Fruehstueck",
+   "Heisses Getraenk",
+   "Mittagessen",
+   "1 Glas Sekt pro Person"
+  ],
+  "notIncluded": [
+   "Langstrecken-Abholung oder Rueckfahrt (gegen Aufpreis verfuegbar)",
+   "Zusaetzliche Speisen oder Getraenke an Bord des Boots",
+   "Jegliche Strafen fuer Gesetzes- oder Vorschriftsverstoesse"
+  ]
+ },
+ "exclusive-whale-dolphin-tours-in-sri-lanka": {
+  "title": "Exklusive Wal- und Delfintouren in Sri Lanka: Trincomalee",
+  "metaTitle": "Exklusive Wal- und Delfintouren in Sri Lanka: Trincomalee",
+  "metaDescription": "ganztaegigees Erlebnis in Negombo. . Angeboten von TrincomaleeSwimwithBlueWhalesTours.",
+  "shortDescription": "ganztaegigees Erlebnis in Negombo. . Angeboten von TrincomaleeSwimwithBlueWhalesTours.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Negombo. Explore Sri Lanka’s underwater wonders with certified instructors for all levels.\n\nTrincomaleeSwimwithBlueWhalesTours fuehrt es durch, und 10 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet zertifizierte Instruktoren, erkundung atemberaubender Korallenriffe, entdeckung majestaetischer Schiffswracks und unglaubliche Begegnungen mit Delfinen und Walen. Nicht enthalten sind transport zu und von den Tauchplaetzen, mahlzeiten und Getraenke (sofern nicht fuer bestimmte Touren angegeben) und persoenliche Tauchversicherung, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "ganztaegigees Erlebnis in Negombo. . Angeboten von TrincomaleeSwimwithBlueWhalesTours."
+  ],
+  "included": [
+   "Zertifizierte Instruktoren",
+   "Erkundung atemberaubender Korallenriffe",
+   "Entdeckung majestaetischer Schiffswracks",
+   "Unglaubliche Begegnungen mit Delfinen und Walen"
+  ],
+  "notIncluded": [
+   "Transport zu und von den Tauchplaetzen",
+   "Mahlzeiten und Getraenke (sofern nicht fuer bestimmte Touren angegeben)",
+   "Persoenliche Tauchversicherung"
+  ]
+ },
+ "10-day-flash-tour-of-sri-lanka-cover-7": {
+  "title": "10-taegige Blitztour durch Sri Lanka, 7 Sehenswuerdigkeiten",
+  "metaTitle": "10-taegige Blitztour durch Sri Lanka, 7 Sehenswuerdigkeiten",
+  "metaDescription": "5-taegigees Erlebnis in Colombo. Erleben Sie Sri Lanka in 10 Tagen!. Angeboten von Ceylon Pass.",
+  "shortDescription": "5-taegigees Erlebnis in Colombo. Erleben Sie Sri Lanka in 10 Tagen!. Angeboten von Ceylon Pass.",
+  "fullDescription": "Ein 5-taegigees Erlebnis in Colombo. Erleben Sie Sri Lanka in 10 Tagen!\n\nCeylon Pass fuehrt es durch, und 9 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet kostenloses Visum (Sie muessen zuerst zahlen und wir erstatten bei Ankunft als Reisegutschrift), hotels/Villen (3 bis 5 Sterne) (Bed and Breakfast), transport (optionale Selbstfahr-Tuk-Tuk-Vermietung oder Fahrzeug mit Fahrer) und ella-Zugticket (erste oder zweite Klasse je nach Verfuegbarkeit). Nicht enthalten sind zusaetzliche Speisen oder Getraenke, zusaetzliches Erlebnis, aktivitaeten (Optionen koennen Fallschirmspringen, Kajakfahren, Jetskifahren, Quadfahren, Schnorcheln, und mehr umfassen. Fragen Sie Ihren Tourmanager fuer Details und zum Buchen), eintrittsgebuehren fuer zusaetzliche Sehenswuerdigkeiten, praeferenz bei Hotels oder Villen, flug und eintritt zu Sigiriya, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 6758 $ statt 3717 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Erleben Sie Sri Lanka in 10 Tagen!"
+  ],
+  "included": [
+   "Kostenloses Visum (Sie muessen zuerst zahlen und wir erstatten bei Ankunft als Reisegutschrift)",
+   "Hotels/Villen (3 bis 5 Sterne) (Bed and Breakfast)",
+   "Transport (optionale Selbstfahr-Tuk-Tuk-Vermietung oder Fahrzeug mit Fahrer)",
+   "Ella-Zugticket (erste oder zweite Klasse je nach Verfuegbarkeit)"
+  ],
+  "notIncluded": [
+   "Zusaetzliche Speisen oder Getraenke",
+   "Zusaetzliches Erlebnis",
+   "Aktivitaeten (Optionen koennen Fallschirmspringen, Kajakfahren, Jetskifahren, Quadfahren, Schnorcheln, und mehr umfassen. Fragen Sie Ihren Tourmanager fuer Details und zum Buchen)",
+   "Eintrittsgebuehren fuer zusaetzliche Sehenswuerdigkeiten",
+   "Praeferenz bei Hotels oder Villen",
+   "Flug",
+   "Eintritt zu Sigiriya"
+  ]
+ },
+ "ella-ella-rock-9-arch-little-adams-peak-waterfall": {
+  "title": "Ella: Ella-Felsen, Neun-Bogen-Bruecke, Little Adam's Peak, und Wasserfall",
+  "metaTitle": "Ella: Ella-Felsen, Neun-Bogen-Bruecke, Little Adam's Peak, und...",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella, Sri Lanka besucht. Angeboten von Colombo Day Tours & Taxi Service.",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella, Sri Lanka besucht. Angeboten von Colombo Day Tours & Taxi Service.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella, Sri Lanka umfasst. Der laengste Halt ist Ella, Sri Lanka, mit etwa 10 Stunden.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, guide/Fahrer, eintrittskarten fuer den Ella-Felsen und wasserflasche. Nicht enthalten sind flying-Ravana-Mega-Zipline (ca. 33 USD) und calypso-Zug (ca. 8 USD), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 97 $ statt 97 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Ella, der Ella, Sri Lanka besucht. Angeboten von Colombo Day Tours & Taxi Service."
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt",
+   "Guide/Fahrer",
+   "Eintrittskarten fuer den Ella-Felsen",
+   "Wasserflasche"
+  ],
+  "notIncluded": [
+   "Flying-Ravana-Mega-Zipline (ca. 33 USD)",
+   "Calypso-Zug (ca. 8 USD)"
+  ]
+ },
+ "from-hikkaduwamirissagalletangalle-yala-leopard": {
+  "title": "Von Hikkaduwa/Mirissa/Galle/Tangalle aus: Yala-Leoparden-Safari",
+  "metaTitle": "Von Hikkaduwa/Mirissa/Galle/Tangalle aus: Yala-Leoparden-Safari",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Galle, der Yala National Park besucht. Angeboten von Wanderluxe Ceylon.",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Galle, der Yala National Park besucht. Angeboten von Wanderluxe Ceylon.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Galle, der Yala National Park umfasst. Der laengste Halt ist Yala National Park, mit etwa 4 Stunden.\n\nDer Preis beinhaltet kostenlose Abholung und Rueckfahrt, reisen Sie komfortabel in unserem klimatisierten Luxusauto, unvergessliche Safari mit aussergewoehnlichem Service fuer maximales Abenteuer und luxurioeser und komfortabler 4x4-Safari-Jeep. Nicht enthalten sind nationalpark-Eintrittskarten (43 USD pro Person) und essen und Getraenke, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Galle, der Yala National Park besucht. Angeboten von Wanderluxe Ceylon."
+  ],
+  "included": [
+   "Kostenlose Abholung und Rueckfahrt",
+   "Reisen Sie komfortabel in unserem klimatisierten Luxusauto",
+   "Unvergessliche Safari mit aussergewoehnlichem Service fuer maximales Abenteuer",
+   "Luxurioeser und komfortabler 4x4-Safari-Jeep"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittskarten (43 USD pro Person)",
+   "Essen und Getraenke"
+  ]
+ },
+ "galle-traditional-jewellery-making-workshop": {
+  "title": "Galle: traditioneller Schmuckherstellungs-Workshop",
+  "metaTitle": "Galle: traditioneller Schmuckherstellungs-Workshop",
+  "metaDescription": "3-stuendigees Erlebnis in Galle. . Angeboten von Ceylon Eco Love Tours.",
+  "shortDescription": "3-stuendigees Erlebnis in Galle. . Angeboten von Ceylon Eco Love Tours.",
+  "fullDescription": "Ein 3-stuendigees Erlebnis in Galle. Learn from a local artisan about the art of jewelry making in Sri Lanka.\n\nCeylon Eco Love Tours fuehrt es durch, und 5 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet begruessungsgetraenk, praktische Schmuckherstellungssitzung mit einem lokalen Handwerker, fachkundige Anleitung zur Identifikation echter Edelsteine und alle fuer die Sitzung benoetigten Materialien. Nicht enthalten sind transport zu und von der Werkstatt, mahlzeiten und Getraenke und kein Silberring inklusive (Gruppensitzung, Demonstration, bei der Sie auch mitarbeiten und den Prozess sehen koennen, aber fuer die Mitnahme des Rings extra zahlen muessen), dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "3-stuendigees Erlebnis in Galle. . Angeboten von Ceylon Eco Love Tours."
+  ],
+  "included": [
+   "Begruessungsgetraenk",
+   "Praktische Schmuckherstellungssitzung mit einem lokalen Handwerker",
+   "Fachkundige Anleitung zur Identifikation echter Edelsteine",
+   "Alle fuer die Sitzung benoetigten Materialien"
+  ],
+  "notIncluded": [
+   "Transport zu und von der Werkstatt",
+   "Mahlzeiten und Getraenke",
+   "Kein Silberring inklusive (Gruppensitzung, Demonstration, bei der Sie auch mitarbeiten und den Prozess sehen koennen, aber fuer die Mitnahme des Rings extra zahlen muessen)"
+  ]
+ },
+ "galle-traditional-sri-lankan-cooking-class": {
+  "title": "Galle: traditioneller srilankischer Kochkurs",
+  "metaTitle": "Galle: traditioneller srilankischer Kochkurs",
+  "metaDescription": "3-stuendigees Erlebnis in Galle. . Angeboten von Ceylon Eco Love Tours.",
+  "shortDescription": "3-stuendigees Erlebnis in Galle. . Angeboten von Ceylon Eco Love Tours.",
+  "fullDescription": "Ein 3-stuendigees Erlebnis in Galle. Learn to cook traditional Sri Lankan dishes in a local kitchen in Galle.\n\nCeylon Eco Love Tours fuehrt es durch, und 5 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet lokaler Kochexperte, kochzutaten und -ausruestung, begruessungsgetraenk und mittag- oder Abendessen mit der zubereiteten Mahlzeit. Nicht enthalten sind hotelabholung und Rueckfahrt, persoenliche Ausgaben und trinkgelder, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "3-stuendigees Erlebnis in Galle. . Angeboten von Ceylon Eco Love Tours."
+  ],
+  "included": [
+   "Lokaler Kochexperte",
+   "Kochzutaten und -ausruestung",
+   "Begruessungsgetraenk",
+   "Mittag- oder Abendessen mit der zubereiteten Mahlzeit"
+  ],
+  "notIncluded": [
+   "Hotelabholung und Rueckfahrt",
+   "Persoenliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "from-kandy-kelani-river-white-water-rafting-tour": {
+  "title": "Von Kandy aus: Kelani-Fluss-Wildwasser-Rafting-Tour",
+  "metaTitle": "Von Kandy aus: Kelani-Fluss-Wildwasser-Rafting-Tour",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Kandy, der Kandy besucht. Angeboten von Lanka Budget Tours.",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Kandy, der Kandy besucht. Angeboten von Lanka Budget Tours.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Kandy, der Kandy umfasst. Der laengste Halt ist Kandy, mit etwa 4 Stunden.\n\nLanka Budget Tours fuehrt es durch, und 4 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet professioneller Guide, sicherheitsausruestung, hotelabholung und Rueckfahrt und schwimmmoeglichkeiten. Nicht enthalten sind essen und Getraenke und eintrittskarten fuer Orte sind nicht enthalten, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Kandy, der Kandy besucht. Angeboten von Lanka Budget Tours."
+  ],
+  "included": [
+   "Professioneller Guide",
+   "Sicherheitsausruestung",
+   "Hotelabholung und Rueckfahrt",
+   "Schwimmmoeglichkeiten"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke",
+   "Eintrittskarten fuer Orte sind nicht enthalten"
+  ]
+ },
+ "from-ella-unforgettable-sunrise-hike-to-ella-rock": {
+  "title": "Von Ella aus: unvergessliche Sonnenaufgangswanderung zum Ella-Felsen",
+  "metaTitle": "Von Ella aus: unvergessliche Sonnenaufgangswanderung zum Ella-...",
+  "metaDescription": "Ein halbtaegigeer Ausflug ab Ella, der Ella Rock besucht. Angeboten von Colombo Day Tours & Taxi Service.",
+  "shortDescription": "Ein halbtaegigeer Ausflug ab Ella, der Ella Rock besucht. Angeboten von Colombo Day Tours & Taxi Service.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Ella, der Ella Rock umfasst. Der laengste Halt ist Ella Rock, mit etwa 3 Stunden.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, eintrittsgebuehren fuer den Ella-Felsen, erfahrener und kompetenter Guide/Fahrer und fackel (Taschenlampe). Nicht enthalten sind essen und Getraenke, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 107 $ statt 107 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein halbtaegigeer Ausflug ab Ella, der Ella Rock besucht. Angeboten von Colombo Day Tours & Taxi Service."
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt",
+   "Eintrittsgebuehren fuer den Ella-Felsen",
+   "Erfahrener und kompetenter Guide/Fahrer",
+   "Fackel (Taschenlampe)"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke"
+  ]
+ },
+ "from-hiriketiya-tangalle-udawalawe-safari-to-ella": {
+  "title": "Von Hiriketiya/Tangalle aus: Udawalawe-Safari nach Ella",
+  "metaTitle": "Von Hiriketiya/Tangalle aus: Udawalawe-Safari nach Ella",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Galle, der Udawalawa National Park, Udawalawa, Udawalawe Elephant Transit Home und Finish at: besucht. Angeboten von Ceylon Nature To...",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Galle, der Udawalawa National Park, Udawalawa, Udawalawe Elephant Transit Home und Finish at: besucht. Angeboten von Ceylon Nature Tours.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Galle, der Udawalawa National Park, Udawalawa, Udawalawe Elephant Transit Home und Finish at: umfasst. Der laengste Halt ist Udawalawa National Park, mit etwa 3 Stunden. Es gibt insgesamt 4 Stopps.\n\nDie Reihenfolge ist Udawalawa National Park (3h), dann Udawalawa (30 min), dann Udawalawe Elephant Transit Home (30 min), dann Finish at:.\n\nDer Preis beinhaltet abholung von Hotels in und um das Gebiet Hiriketiya/Tangalle/Dikwella/Rekawa/Nilwella/Mawella, rueckfahrt zu jedem Hotel in und um das Gebiet Ella/Bandarawela/Wellawaya und morgen- oder Nachmittagssafari, 1 Pirschfahrt (3 Stunden). Nicht enthalten sind eintrittsgebuehren fuer den Udawalawe-Nationalpark (40 USD pro Person), dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Galle, der Udawalawa National Park, Udawalawa, Udawalawe Elephant Transit Home und Finish at: besucht. Angeboten von Ceylon Nature Tours."
+  ],
+  "included": [
+   "Abholung von Hotels in und um das Gebiet Hiriketiya/Tangalle/Dikwella/Rekawa/Nilwella/Mawella",
+   "Rueckfahrt zu jedem Hotel in und um das Gebiet Ella/Bandarawela/Wellawaya",
+   "Morgen- oder Nachmittagssafari, 1 Pirschfahrt (3 Stunden)"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer den Udawalawe-Nationalpark (40 USD pro Person)"
+  ]
+ },
+ "ella-jeep-safari-little-adams-peak-nine": {
+  "title": "Ella: Jeep-Safari, Little Adam's Peak, Neun-Bogen-Bruecke, Wasserfaelle",
+  "metaTitle": "Ella: Jeep-Safari, Little Adam's Peak, Neun-Bogen-Bruecke, Was...",
+  "metaDescription": "Ein halbtaegigeer Ausflug ab Ella, der Yala National Park, Palatupana, Yala National Park und Jeep / SUV besucht. Angeboten von Ajith Safari Jeep Tours.",
+  "shortDescription": "Ein halbtaegigeer Ausflug ab Ella, der Yala National Park, Palatupana, Yala National Park und Jeep / SUV besucht. Angeboten von Ajith Safari Jeep Tours.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Ella, der Yala National Park, Palatupana, Yala National Park und Jeep / SUV umfasst. Der laengste Halt ist Yala National Park, mit etwa 2 Stunden. Es gibt insgesamt 5 Stopps.\n\nDie Reihenfolge ist Yala National Park (2h), dann Palatupana (30 min), dann Yala National Park, dann Jeep / SUV, dann Galle.\n\nDer Preis beinhaltet safari-Jeep-Transport, hotelabholung und Rueckfahrt, erfahrener Fahrer-Guide und zugtickets (normaler Zug). Nicht enthalten sind jeep-Tour-Gebuehr, 55 USD pro Person, uva-Halpewatte-Teefabrik-Tour (ca. 10 USD) und flying-Ravana-Mega-Zipline (ca. 35 USD), dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein halbtaegigeer Ausflug ab Ella, der Yala National Park, Palatupana, Yala National Park und Jeep / SUV besucht. Angeboten von Ajith Safari Jeep Tours."
+  ],
+  "included": [
+   "Safari-Jeep-Transport",
+   "Hotelabholung und Rueckfahrt",
+   "Erfahrener Fahrer-Guide",
+   "Zugtickets (normaler Zug)"
+  ],
+  "notIncluded": [
+   "Jeep-Tour-Gebuehr, 55 USD pro Person",
+   "Uva-Halpewatte-Teefabrik-Tour (ca. 10 USD)",
+   "Flying-Ravana-Mega-Zipline (ca. 35 USD)"
+  ]
+ },
+ "from-ella-sun-rise-hike-to-ella-rock-with": {
+  "title": "Von Ella aus: Sonnenaufgangswanderung zum Ella-Felsen mit Wasserfalltour",
+  "metaTitle": "Von Ella aus: Sonnenaufgangswanderung zum Ella-Felsen mit Wass...",
+  "metaDescription": "Ein halbtaegigeer Ausflug ab Ella, der Tuk tuk und Ella Rock besucht. Angeboten von Wanderluxe Ceylon.",
+  "shortDescription": "Ein halbtaegigeer Ausflug ab Ella, der Tuk tuk und Ella Rock besucht. Angeboten von Wanderluxe Ceylon.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Ella, der Tuk tuk und Ella Rock umfasst. Der laengste Halt ist Ella Rock, mit etwa 3 Stunden. Es gibt insgesamt 2 Stopps.\n\nDie Reihenfolge ist Tuk tuk (20 min), dann Ella Rock (3h).\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, erfahrener und kompetenter Guide/Fahrer, fackel (Taschenlampe) und wasser. Nicht enthalten sind eintrittsgebuehren fuer den Ella-Felsen (3 USD) und essen und Getraenke, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein halbtaegigeer Ausflug ab Ella, der Tuk tuk und Ella Rock besucht. Angeboten von Wanderluxe Ceylon."
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt",
+   "Erfahrener und kompetenter Guide/Fahrer",
+   "Fackel (Taschenlampe)",
+   "Wasser"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer den Ella-Felsen (3 USD)",
+   "Essen und Getraenke"
+  ]
+ },
+ "from-ella-udawalawa-safari-drop-galle-mirissa": {
+  "title": "Von Ella aus: Udawalawe-Safari mit Rueckfahrt nach Galle/Mirissa/Tangalle",
+  "metaTitle": "Von Ella aus: Udawalawe-Safari mit Rueckfahrt nach Galle/Miris...",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Ella, der Udawalawa National Park besucht. Angeboten von Wanderluxe Ceylon.",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Ella, der Udawalawa National Park besucht. Angeboten von Wanderluxe Ceylon.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Ella, der Udawalawa National Park umfasst. Der laengste Halt ist Udawalawa National Park, mit etwa 3 Stunden.\n\nDer Preis beinhaltet kostenlose Abholung und Rueckfahrt von ausgewaehlten Orten (Ella, Galle, Hikkaduwa, Tangalle, Matara, Mirissa, Unawatuna, Thalpe), transport in einem klimatisierten Fahrzeug, 4x4-Safari-Jeep, erfahrener und kompetenter Fahrer/Guide und autobahngebuehr. Nicht enthalten sind udawalawe-Nationalpark-Eintrittsgebuehr (ca. 38 USD pro Erwachsenem) und essen und Getraenke, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Ella, der Udawalawa National Park besucht. Angeboten von Wanderluxe Ceylon."
+  ],
+  "included": [
+   "Kostenlose Abholung und Rueckfahrt von ausgewaehlten Orten (Ella, Galle, Hikkaduwa, Tangalle, Matara, Mirissa, Unawatuna, Thalpe)",
+   "Transport in einem klimatisierten Fahrzeug",
+   "4x4-Safari-Jeep",
+   "Erfahrener und kompetenter Fahrer/Guide",
+   "Autobahngebuehr"
+  ],
+  "notIncluded": [
+   "Udawalawe-Nationalpark-Eintrittsgebuehr (ca. 38 USD pro Erwachsenem)",
+   "Essen und Getraenke"
+  ]
+ },
+ "from-sigiriya-kaudulla-elephant-safari-with": {
+  "title": "Von Sigiriya aus: Kaudulla-Elefanten-Safari mit Experten-Guide",
+  "metaTitle": "Von Sigiriya aus: Kaudulla-Elefanten-Safari mit Experten-Guide",
+  "metaDescription": "halbtaegigees Erlebnis in Sigiriya. . Angeboten von Shan Jeep Safari & Tour.",
+  "shortDescription": "halbtaegigees Erlebnis in Sigiriya. . Angeboten von Shan Jeep Safari & Tour.",
+  "fullDescription": "Ein halbtaegigees Erlebnis in Sigiriya. Experience the awe as you witness hundreds of majestic elephants in one location.\n\nShan Jeep Safari & Tour fuehrt es durch, und 4 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet erfahrener Fahrer/Guide zur Fuehrung der Tour, hotelabholung und Rueckfahrt, moeglichkeit, Elefanten, Rehe, Voegel, und andere Wildtiere aus der Naehe zu sehen und malerische Landschafts- und Naturblicke waehrend der gesamten Reise. Nicht enthalten sind park-Eintrittsgebuehr nicht enthalten (bei Ankunft zu zahlen), trinkgeld fuer Fahrer/Guide (optional), persoenliche Ausgaben wie Snacks, Getraenke, und Souvenirs und optionale Foto- oder Videoausruestungsvermietung, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 123 $ statt 117 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "halbtaegigees Erlebnis in Sigiriya. . Angeboten von Shan Jeep Safari & Tour."
+  ],
+  "included": [
+   "Erfahrener Fahrer/Guide zur Fuehrung der Tour",
+   "Hotelabholung und Rueckfahrt",
+   "Moeglichkeit, Elefanten, Rehe, Voegel, und andere Wildtiere aus der Naehe zu sehen",
+   "Malerische Landschafts- und Naturblicke waehrend der gesamten Reise"
+  ],
+  "notIncluded": [
+   "Park-Eintrittsgebuehr nicht enthalten (bei Ankunft zu zahlen)",
+   "Trinkgeld fuer Fahrer/Guide (optional)",
+   "Persoenliche Ausgaben wie Snacks, Getraenke, und Souvenirs",
+   "Optionale Foto- oder Videoausruestungsvermietung"
+  ]
+ },
+ "colombo-minimum-boat-tour": {
+  "title": "Sri Lanka: Autovermietung mit Fahrer, mindestens 3 Tage, 180 km/Tag",
+  "metaTitle": "Sri Lanka: Autovermietung mit Fahrer, mindestens 3 Tage, 180 k...",
+  "metaDescription": "ganztaegigees Erlebnis in Colombo. . Angeboten von Tropical Travels.",
+  "shortDescription": "ganztaegigees Erlebnis in Colombo. . Angeboten von Tropical Travels.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Colombo. Create your own itinerary and explore Sri Lanka with a private car and driver.\n\nTropical Travels fuehrt es durch, und 8 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet privates klimatisiertes Auto, professioneller englischsprachiger Fahrer, bis zu 180 km Fahrt pro Tag, strassengebuehren und Parkgebuehren und flexible Abholung und Rueckfahrt an Ihrem bevorzugten Ort. Nicht enthalten sind zusaetzliche Kilometer ueber das taegliche 180-km-Limit hinaus (0,50 USD pro km), eintrittsgebuehren fuer Attraktionen oder Orte und mahlzeiten oder Snacks, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "ganztaegigees Erlebnis in Colombo. . Angeboten von Tropical Travels."
+  ],
+  "included": [
+   "Privates klimatisiertes Auto",
+   "Professioneller englischsprachiger Fahrer",
+   "Bis zu 180 km Fahrt pro Tag",
+   "Strassengebuehren und Parkgebuehren",
+   "Flexible Abholung und Rueckfahrt an Ihrem bevorzugten Ort"
+  ],
+  "notIncluded": [
+   "Zusaetzliche Kilometer ueber das taegliche 180-km-Limit hinaus (0,50 USD pro km)",
+   "Eintrittsgebuehren fuer Attraktionen oder Orte",
+   "Mahlzeiten oder Snacks"
+  ]
+ },
+ "from-colombo-negombo-wilpattu-safari-tour": {
+  "title": "Von Colombo/Negombo aus: Wilpattu-Safari-Tour",
+  "metaTitle": "Von Colombo/Negombo aus: Wilpattu-Safari-Tour",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Colombo, der Wilpattu National Park besucht. Angeboten von Wanderluxe Ceylon.",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Colombo, der Wilpattu National Park besucht. Angeboten von Wanderluxe Ceylon.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Colombo, der Wilpattu National Park umfasst. Der laengste Halt ist Wilpattu National Park, mit etwa 4 Stunden.\n\nWanderluxe Ceylon fuehrt es durch, und 4 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet abholung und Rueckfahrt von Colombo, Negombo, oder umliegenden Vororten, klimatisierter Fahrzeugtransport, 4x4-Safari-Jeep-Fahrt und erfahrener Safari-Fahrer und Guide. Nicht enthalten sind essen und Getraenke und park-Eintrittsgebuehren (43 USD pro Person), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 509 $ statt 509 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Colombo, der Wilpattu National Park besucht. Angeboten von Wanderluxe Ceylon."
+  ],
+  "included": [
+   "Abholung und Rueckfahrt von Colombo, Negombo, oder umliegenden Vororten",
+   "Klimatisierter Fahrzeugtransport",
+   "4x4-Safari-Jeep-Fahrt",
+   "Erfahrener Safari-Fahrer und Guide"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke",
+   "Park-Eintrittsgebuehren (43 USD pro Person)"
+  ]
+ },
+ "mirissa-whale-dolphin-watching-boat-tour-with": {
+  "title": "Mirissa: Wal- und Delfinbeobachtungs-Bootstour mit Fruehstueck",
+  "metaTitle": "Mirissa: Wal- und Delfinbeobachtungs-Bootstour mit Fruehstueck",
+  "metaDescription": "3-stuendigees Erlebnis in Mirissa. . Angeboten von Whale Watching Chaminda.",
+  "shortDescription": "3-stuendigees Erlebnis in Mirissa. . Angeboten von Whale Watching Chaminda.",
+  "fullDescription": "Ein 3-stuendigees Erlebnis in Mirissa. Keep your eyes peeled for whales and dolphins as you cruise the ocean.\n\nWhale Watching Chaminda fuehrt es durch, und 10 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet tee oder Kaffee, thunfisch-Sandwiches, ei-Burger und schokoladenkuchen. Nicht enthalten sind rueckfahrt und alkohol und Drogen, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "3-stuendigees Erlebnis in Mirissa. . Angeboten von Whale Watching Chaminda."
+  ],
+  "included": [
+   "Tee oder Kaffee",
+   "Thunfisch-Sandwiches",
+   "Ei-Burger",
+   "Schokoladenkuchen"
+  ],
+  "notIncluded": [
+   "Rueckfahrt",
+   "Alkohol und Drogen"
+  ]
+ },
+ "from-ella-all-inclusive-day-trip-to-experience": {
+  "title": "Von Ella aus: All-Inclusive-Tagesausflug, um Ella und den Zug zu erleben",
+  "metaTitle": "Von Ella aus: All-Inclusive-Tagesausflug, um Ella und den Zug ...",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Ravana Falls, Demodara Railway Loop Viewpoint und Demodara Railway Loop Viewpoint besucht. Angeboten von Colombo...",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Ravana Falls, Demodara Railway Loop Viewpoint und Demodara Railway Loop Viewpoint besucht. Angeboten von Colombo Day Tours & Taxi Service.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Ravana Falls, Demodara Railway Loop Viewpoint und Demodara Railway Loop Viewpoint umfasst. Der laengste Halt ist Ella Rock, mit etwa 2 Stunden. Es gibt insgesamt 7 Stopps.\n\nDie Reihenfolge ist Ella Rock (2h), dann Ravana Falls (30 min), dann Demodara Railway Loop Viewpoint (15 min), dann Demodara Railway Loop Viewpoint (1h), dann Nine Arch Bridge (30 min).\n\nDer Preis beinhaltet kostenlose Abholung und Rueckfahrt, erfahrener und sachkundiger Guide/Fahrer, eintrittskarten fuer den Ella-Felsen und wasserflasche. Nicht enthalten sind flying-Ravana-Mega-Zipline (ca. 33 USD) und calypso-Zug mit Calypso-Musik (ca. 5 USD), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 229 $ statt 142 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Ravana Falls, Demodara Railway Loop Viewpoint und Demodara Railway Loop Viewpoint besucht. Angeboten von Colombo Day Tours & Taxi Service."
+  ],
+  "included": [
+   "Kostenlose Abholung und Rueckfahrt",
+   "Erfahrener und sachkundiger Guide/Fahrer",
+   "Eintrittskarten fuer den Ella-Felsen",
+   "Wasserflasche"
+  ],
+  "notIncluded": [
+   "Flying-Ravana-Mega-Zipline (ca. 33 USD)",
+   "Calypso-Zug mit Calypso-Musik (ca. 5 USD)"
+  ]
+ },
  "from-gallehikkaduwamirissa-all-inclusive-day-trip": {
   "title": "Von Galle/Hikkaduwa/Mirissa aus: All-Inclusive-Tagesausflug nach Ella",
   "metaTitle": "Von Galle/Hikkaduwa/Mirissa aus: All-Inclusive-Tagesausflug na...",
   "metaDescription": "Ein ganztaegigeer Ausflug ab Galle, der Ella, Sri Lanka besucht. Angeboten von Ceylon Nature Tours.",
   "shortDescription": "Ein ganztaegigeer Ausflug ab Galle, der Ella, Sri Lanka besucht. Angeboten von Ceylon Nature Tours.",
-  "fullDescription": "Ein ganztaegigeer Ausflug ab Galle, der Ella, Sri Lanka umfasst. Der laengste Halt ist Ella, Sri Lanka, mit etwa 9 Stunden.\n\nDer Preis beinhaltet kostenlose Abholung und Rueckfahrt (Galle, Hikkaduwa, Unawatuna, Mirissa, Weligama, Thissamaharama, Udawalawe, Tangalle, Kataragama), transport in einem klimatisierten Fahrzeug, unsere erfahrenen Guides sorgen fuer ein informatives und unvergessliches Safari-Erlebnis und zugtickets (normaler Zug). Nicht enthalten sind uva-Halpewatte-Teefabriktour (etwa 10 USD), flying-Ravana-Mega-Seilrutsche (etwa 33 USD) und calypso-Zug mit Calypso-Musik (etwa 6 USD), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 426 $ statt 426 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Galle, der Ella, Sri Lanka umfasst. Der laengste Halt ist Ella, Sri Lanka, mit etwa 9 Stunden.\n\nDer Preis beinhaltet kostenlose Abholung und Rueckfahrt (Galle, Hikkaduwa, Unawatuna, Mirissa, Weligama, Thissamaharama, Udawalawe, Tangalle, Kataragama), transport in einem klimatisierten Fahrzeug, unsere erfahrenen Guides sorgen fuer ein informatives und unvergessliches Safari-Erlebnis und zugtickets (normaler Zug). Nicht enthalten sind uva-Halpewatte-Teefabriktour (etwa 10 USD), flying-Ravana-Mega-Zipline (ca. 33 USD) und calypso-Zug mit Calypso-Musik (etwa 6 USD), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 426 $ statt 426 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "Ein ganztaegigeer Ausflug ab Galle, der Ella, Sri Lanka besucht. Angeboten von Ceylon Nature Tours."
   ],
@@ -74215,8 +74626,28 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Uva-Halpewatte-Teefabriktour (etwa 10 USD)",
-   "Flying-Ravana-Mega-Seilrutsche (etwa 33 USD)",
+   "Flying-Ravana-Mega-Zipline (ca. 33 USD)",
    "Calypso-Zug mit Calypso-Musik (etwa 6 USD)"
+  ]
+ },
+ "ella-waterfall-little-adams-peak-nine-arch-bridge": {
+  "title": "Ella: Wasserfall, Little Adam's Peak, und Neun-Bogen-Bruecke, Tour",
+  "metaTitle": "Ella: Wasserfall, Little Adam's Peak, und Neun-Bogen-Bruecke, ...",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Ravana Falls, Nine Arch Bridge und Ella, Sri Lanka besucht. Angeboten von Wanderluxe Ceylon.",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Ravana Falls, Nine Arch Bridge und Ella, Sri Lanka besucht. Angeboten von Wanderluxe Ceylon.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Ravana Falls, Nine Arch Bridge und Ella, Sri Lanka umfasst. Der laengste Halt ist Ella Rock, mit etwa 3 Stunden. Es gibt insgesamt 7 Stopps.\n\nDie Reihenfolge ist Ella Rock (3h), dann Ravana Falls (30 min), dann Nine Arch Bridge (30 min), dann Ella, Sri Lanka (1h), dann Demodara Railway Loop Viewpoint (20 min).\n\nDer Preis beinhaltet kostenlose Abholung und Rueckfahrt, erfahrener und sachkundiger Guide/Fahrer, eintrittsgebuehren fuer den Ella-Felsen und wasserflasche. Nicht enthalten sind flying-Ravana-Mega-Zipline (ca. 33 USD) und snacks, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 107 $ statt 107 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Ravana Falls, Nine Arch Bridge und Ella, Sri Lanka besucht. Angeboten von Wanderluxe Ceylon."
+  ],
+  "included": [
+   "Kostenlose Abholung und Rueckfahrt",
+   "Erfahrener und sachkundiger Guide/Fahrer",
+   "Eintrittsgebuehren fuer den Ella-Felsen",
+   "Wasserflasche"
+  ],
+  "notIncluded": [
+   "Flying-Ravana-Mega-Zipline (ca. 33 USD)",
+   "Snacks"
   ]
  },
  "srilanka-negombo-day-tour-with-airport-transfer": {
@@ -74239,6 +74670,83 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persoenliche Ausgaben"
   ]
  },
+ "from-ella-yala-safari-drop-off": {
+  "title": "Von Ella aus: Yala-Safari, Rueckfahrt nach Galle/Mirissa/Hikkaduwa",
+  "metaTitle": "Von Ella aus: Yala-Safari, Rueckfahrt nach Galle/Mirissa/Hikka...",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Galle, der Yala National Park besucht. Angeboten von Ceylon Nature Tours.",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Galle, der Yala National Park besucht. Angeboten von Ceylon Nature Tours.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Galle, der Yala National Park umfasst. Der laengste Halt ist Yala National Park, mit etwa 4 Stunden.\n\nDer Preis beinhaltet kostenlose Abholung und Rueckfahrt (Gebiet Ella, Galle, Hikkaduwa, Mirissa, Weligama, Tangalle, Unawatuna), transport in einem klimatisierten Luxusfahrzeug und unsere erfahrenen Guides sorgen fuer ein informatives und unvergessliches Safari-Erlebnis. Nicht enthalten sind nationalpark-Eintrittskarten (13.000 Rupien pro Person) und essen und Getraenke, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 193 $ statt 193 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Galle, der Yala National Park besucht. Angeboten von Ceylon Nature Tours."
+  ],
+  "included": [
+   "Kostenlose Abholung und Rueckfahrt (Gebiet Ella, Galle, Hikkaduwa, Mirissa, Weligama, Tangalle, Unawatuna)",
+   "Transport in einem klimatisierten Luxusfahrzeug",
+   "Unsere erfahrenen Guides sorgen fuer ein informatives und unvergessliches Safari-Erlebnis"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittskarten (13.000 Rupien pro Person)",
+   "Essen und Getraenke"
+  ]
+ },
+ "sigiriya-city-to-trincomalee-city-private-transfer": {
+  "title": "Privater Transfer von der Stadt Sigiriya zur Stadt Trincomalee",
+  "metaTitle": "Privater Transfer von der Stadt Sigiriya zur Stadt Trincomalee",
+  "metaDescription": "2-stuendigees Erlebnis in Sigiriya. . Angeboten von Lakpura®.",
+  "shortDescription": "2-stuendigees Erlebnis in Sigiriya. . Angeboten von Lakpura®.",
+  "fullDescription": "Ein 2-stuendigees Erlebnis in Sigiriya. Enjoy a comfortable and hassle-free private transfer from Sigiriya to Trinco.\n\nLakpura® fuehrt es durch, und 6 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet einfacher Stadt-Transfer, transport in einem privaten klimatisierten Fahrzeug, alle Steuern, Gebuehren, und Bearbeitungsgebuehren, service eines englischsprachigen Chauffeur-Guides, autobahngebuehren und alle Steuern und Servicegebuehren. Nicht enthalten sind zusaetzliche Stopps, babysitze/Sitzerhoehungen und kapazitaet fuer spezielles/uebergrosses Gepaeck (z.B. Surfbretter, Golftaschen usw.), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 136 $ statt 136 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "2-stuendigees Erlebnis in Sigiriya. . Angeboten von Lakpura®."
+  ],
+  "included": [
+   "Einfacher Stadt-Transfer",
+   "Transport in einem privaten klimatisierten Fahrzeug",
+   "Alle Steuern, Gebuehren, und Bearbeitungsgebuehren",
+   "Service eines englischsprachigen Chauffeur-Guides",
+   "Autobahngebuehren",
+   "Alle Steuern und Servicegebuehren"
+  ],
+  "notIncluded": [
+   "Zusaetzliche Stopps",
+   "Babysitze/Sitzerhoehungen",
+   "Kapazitaet fuer spezielles/uebergrosses Gepaeck (z.B. Surfbretter, Golftaschen usw.)"
+  ]
+ },
+ "minneriya-national-park-jeep-safari-from": {
+  "title": "Minneriya: Nationalpark-Jeep-Safari von Sigiriya/Dambulla",
+  "metaTitle": "Minneriya: Nationalpark-Jeep-Safari von Sigiriya/Dambulla",
+  "metaDescription": "Ein halbtaegigeer Ausflug ab Sigiriya, der Jeep / SUV besucht. Angeboten von Sigiri Serenity Tours.",
+  "shortDescription": "Ein halbtaegigeer Ausflug ab Sigiriya, der Jeep / SUV besucht. Angeboten von Sigiri Serenity Tours.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Sigiriya, der Jeep / SUV umfasst.\n\nSigiri Serenity Tours fuehrt es durch, und 3 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet kostenlose Hotelabholung und Rueckfahrt in einem ausgewaehlten Gebiet (Sigiriya/Dambulla/Habarana), 4x4-Jeep-Safari und wasserflasche. Nicht enthalten sind eintrittskarten und hotelabholung ausserhalb der Gebiete (Polonnaruwa/Anuradhapura/Trinco/Kandy), zusaetzliche Transportkosten fallen an, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein halbtaegigeer Ausflug ab Sigiriya, der Jeep / SUV besucht. Angeboten von Sigiri Serenity Tours."
+  ],
+  "included": [
+   "Kostenlose Hotelabholung und Rueckfahrt in einem ausgewaehlten Gebiet (Sigiriya/Dambulla/Habarana)",
+   "4x4-Jeep-Safari",
+   "Wasserflasche"
+  ],
+  "notIncluded": [
+   "Eintrittskarten",
+   "Hotelabholung ausserhalb der Gebiete (Polonnaruwa/Anuradhapura/Trinco/Kandy), zusaetzliche Transportkosten fallen an"
+  ]
+ },
+ "ella-lipton-seat-tea-test-pluck-9arch-waterfalls": {
+  "title": "Ella: Lipton-Sitz, Teeverkostung und -pfluecken, Neun-Bogen-Bruecke, Wasserfaelle, und Essen",
+  "metaTitle": "Ella: Lipton-Sitz, Teeverkostung und -pfluecken, Neun-Bogen-Br...",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Ella, der Little Adam's Peak, Ravana Falls, Lipton's Seat und Dowa Ancient Rock Temple besucht. Angeboten von TRAVRI.",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Ella, der Little Adam's Peak, Ravana Falls, Lipton's Seat und Dowa Ancient Rock Temple besucht. Angeboten von TRAVRI.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Ella, der Little Adam's Peak, Ravana Falls, Lipton's Seat und Dowa Ancient Rock Temple umfasst. Der laengste Halt ist Lipton's Seat, mit etwa 2 Stunden. Es gibt insgesamt 4 Stopps.\n\nDie Reihenfolge ist Little Adam's Peak, dann Ravana Falls (1h), dann Lipton's Seat (2h), dann Dowa Ancient Rock Temple (1h).\n\nDer Preis beinhaltet kostenloses hausgemachtes Essen inklusive, Mittag- oder Abendessen mit Hausgarten-Besuch. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Ella, der Little Adam's Peak, Ravana Falls, Lipton's Seat und Dowa Ancient Rock Temple besucht. Angeboten von TRAVRI."
+  ],
+  "included": [
+   "Kostenloses hausgemachtes Essen inklusive, Mittag- oder Abendessen mit Hausgarten-Besuch"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "ella-2-day-tour-hikes-waterfalls-adventure": {
   "title": "Ella: 2-taegige Tour, Wanderungen, Wasserfaelle, Abenteueraktivitaeten",
   "metaTitle": "Ella: 2-taegige Tour, Wanderungen, Wasserfaelle, Abenteuerakti...",
@@ -74259,6 +74767,88 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittskarten",
    "Mahlzeiten und Getraenke",
    "Unterkunft"
+  ]
+ },
+ "from-ella-unforgettable-day-trip-of-8-sights-train": {
+  "title": "Von Ella aus: unvergesslicher Tagesausflug mit 8 Sehenswuerdigkeiten und Zug",
+  "metaTitle": "Von Ella aus: unvergesslicher Tagesausflug mit 8 Sehenswuerdig...",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Kithalella, Ravana Falls und Demodara Railway Loop Viewpoint besucht. Angeboten von Wanderluxe Ceylon.",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Kithalella, Ravana Falls und Demodara Railway Loop Viewpoint besucht. Angeboten von Wanderluxe Ceylon.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Kithalella, Ravana Falls und Demodara Railway Loop Viewpoint umfasst. Der laengste Halt ist Ella Rock, mit etwa 4 Stunden. Es gibt insgesamt 7 Stopps.\n\nDie Reihenfolge ist Ella Rock (4h), dann Kithalella (20 min), dann Ravana Falls (20 min), dann Demodara Railway Loop Viewpoint (20 min), dann Nine Arch Bridge (20 min).\n\nDer Preis beinhaltet kostenlose Abholung und Rueckfahrt, erfahrener und sachkundiger Guide/Fahrer, eintrittsgebuehren fuer den Ella-Felsen und mittagessen. Nicht enthalten sind flying-Ravana-Mega-Zipline (ca. 33 USD) und calypso-Zug mit Calypso-Musik (etwa 5 USD), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 134 $ statt 117 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Ella, der Ella Rock, Kithalella, Ravana Falls und Demodara Railway Loop Viewpoint besucht. Angeboten von Wanderluxe Ceylon."
+  ],
+  "included": [
+   "Kostenlose Abholung und Rueckfahrt",
+   "Erfahrener und sachkundiger Guide/Fahrer",
+   "Eintrittsgebuehren fuer den Ella-Felsen",
+   "Mittagessen"
+  ],
+  "notIncluded": [
+   "Flying-Ravana-Mega-Zipline (ca. 33 USD)",
+   "Calypso-Zug mit Calypso-Musik (etwa 5 USD)"
+  ]
+ },
+ "from-ella-all-inclusive-unforgettable-day-trip": {
+  "title": "Von Ella aus: All-Inclusive unvergesslicher Tagesausflug",
+  "metaTitle": "Von Ella aus: All-Inclusive unvergesslicher Tagesausflug",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ravana Falls, Ella Rock, Kithalella und Demodara Railway Loop Viewpoint besucht. Angeboten von Wanderluxe Ceylon.",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ravana Falls, Ella Rock, Kithalella und Demodara Railway Loop Viewpoint besucht. Angeboten von Wanderluxe Ceylon.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Ella, der Ravana Falls, Ella Rock, Kithalella und Demodara Railway Loop Viewpoint umfasst. Der laengste Halt ist Ella, Sri Lanka, mit etwa 1 Stunde. Es gibt insgesamt 8 Stopps.\n\nDie Reihenfolge ist Ravana Falls (20 min), dann Ella Rock (30 min), dann Kithalella (15 min), dann Demodara Railway Loop Viewpoint (15 min), dann Nine Arch Bridge (20 min).\n\nDer Preis beinhaltet kostenlose Abholung und Rueckfahrt, erfahrener und sachkundiger Guide/Fahrer, eintrittskarten fuer den Ella-Felsen und mittagessen. Nicht enthalten sind flying-Ravana-Mega-Zipline (ca. 33 USD) und calypso-Zug mit Calypso-Musik (etwa 5 USD), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 184 $ statt 153 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Ella, der Ravana Falls, Ella Rock, Kithalella und Demodara Railway Loop Viewpoint besucht. Angeboten von Wanderluxe Ceylon."
+  ],
+  "included": [
+   "Kostenlose Abholung und Rueckfahrt",
+   "Erfahrener und sachkundiger Guide/Fahrer",
+   "Eintrittskarten fuer den Ella-Felsen",
+   "Mittagessen"
+  ],
+  "notIncluded": [
+   "Flying-Ravana-Mega-Zipline (ca. 33 USD)",
+   "Calypso-Zug mit Calypso-Musik (etwa 5 USD)"
+  ]
+ },
+ "from-gallehikkaduwamirissa-trip-to-udawalawe": {
+  "title": "Von Galle/Hikkaduwa/Mirissa aus: Udawalawe-Safari-Tour",
+  "metaTitle": "Von Galle/Hikkaduwa/Mirissa aus: Udawalawe-Safari-Tour",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Galle, der Udawalawa National Park und Udawalawe Elephant Transit Home besucht. Angeboten von Udawalawe Wild Safari Tours.",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Galle, der Udawalawa National Park und Udawalawe Elephant Transit Home besucht. Angeboten von Udawalawe Wild Safari Tours.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Galle, der Udawalawa National Park und Udawalawe Elephant Transit Home umfasst. Der laengste Halt ist Udawalawa National Park, mit etwa 3 Stunden. Es gibt insgesamt 2 Stopps.\n\nDie Reihenfolge ist Udawalawa National Park (3h), dann Udawalawe Elephant Transit Home (2h).\n\nDer Preis beinhaltet reisen Sie komfortabel in unserem klimatisierten Luxusauto, unvergessliche Safari mit aussergewoehnlichem Service fuer maximales Abenteuer, luxurioeser, individuell angepasster 4x4-Safari-Jeep und erfahrener und kompetenter Guide/Fahrer. Nicht enthalten sind udawalawe-Nationalpark-Eintrittsgebuehr (ca. 36 USD) und essen und Getraenke, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 273 $ statt 268 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Galle, der Udawalawa National Park und Udawalawe Elephant Transit Home besucht. Angeboten von Udawalawe Wild Safari Tours."
+  ],
+  "included": [
+   "Reisen Sie komfortabel in unserem klimatisierten Luxusauto",
+   "Unvergessliche Safari mit aussergewoehnlichem Service fuer maximales Abenteuer",
+   "Luxurioeser, individuell angepasster 4x4-Safari-Jeep",
+   "Erfahrener und kompetenter Guide/Fahrer"
+  ],
+  "notIncluded": [
+   "Udawalawe-Nationalpark-Eintrittsgebuehr (ca. 36 USD)",
+   "Essen und Getraenke"
+  ]
+ },
+ "all-inclusive-mirissa-whale-dolphin-watching": {
+  "title": "All-Inclusive Mirissa: Wal- und Delfinbeobachtung + Schnorcheln",
+  "metaTitle": "All-Inclusive Mirissa: Wal- und Delfinbeobachtung + Schnorcheln",
+  "metaDescription": "Ein halbtaegigeer Ausflug ab Mirissa, der Tuk tuk, Mirissa, Mirissa und Mirissa besucht. Angeboten von Mirissa Sea Life Diving Center.",
+  "shortDescription": "Ein halbtaegigeer Ausflug ab Mirissa, der Tuk tuk, Mirissa, Mirissa und Mirissa besucht. Angeboten von Mirissa Sea Life Diving Center.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Mirissa, der Tuk tuk, Mirissa, Mirissa und Mirissa umfasst. Der laengste Halt ist Mirissa, mit etwa 4 Stunden. Es gibt insgesamt 5 Stopps.\n\nDie Reihenfolge ist Tuk tuk (30 min), dann Mirissa (4h), dann Mirissa (45 min), dann Mirissa, dann MirissaTuk tuk (30 min).\n\nDer Preis beinhaltet abholung und Rueckfahrt zu Ihrem Hotel, Resort, oder Ihrer Villa (Radius von 10 Meilen von der Stadt Mirissa), snacks fuer die Bootsfahrt, tierschutz-Ticket, bootsfahrt und 1 Wasserflasche pro Person. Nicht enthalten sind langstrecken-Abholung oder Rueckfahrt (gegen Aufpreis verfuegbar), zusaetzliche Speisen oder Getraenke an Bord des Boots und jegliche Strafen fuer Gesetzes- oder Vorschriftsverstoesse, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 491 $ statt 263 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein halbtaegigeer Ausflug ab Mirissa, der Tuk tuk, Mirissa, Mirissa und Mirissa besucht. Angeboten von Mirissa Sea Life Diving Center."
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zu Ihrem Hotel, Resort, oder Ihrer Villa (Radius von 10 Meilen von der Stadt Mirissa)",
+   "Snacks fuer die Bootsfahrt",
+   "Tierschutz-Ticket",
+   "Bootsfahrt",
+   "1 Wasserflasche pro Person"
+  ],
+  "notIncluded": [
+   "Langstrecken-Abholung oder Rueckfahrt (gegen Aufpreis verfuegbar)",
+   "Zusaetzliche Speisen oder Getraenke an Bord des Boots",
+   "Jegliche Strafen fuer Gesetzes- oder Vorschriftsverstoesse"
   ]
  },
  "welcome-to-colombo-city-tuk-tour-all-entry-fees": {
