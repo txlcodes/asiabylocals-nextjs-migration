@@ -421,6 +421,8 @@ const HONG_KONG_SIDEBAR = [
     { name: 'Disneyland Guide', slug: 'hong-kong-disneyland-guide' },
     { name: 'Typhoon Season', slug: 'hong-kong-typhoon-season' },
     { name: 'Macau Day Trip', slug: 'macau-day-trip-from-hong-kong' },
+    { name: 'Lantau Island Guide', slug: 'lantau-island-guide' },
+    { name: '7-Day Itinerary', slug: 'hong-kong-7-day-itinerary' },
 ];
 
 const TAIPEI_SIDEBAR = [

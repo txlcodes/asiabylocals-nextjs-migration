@@ -521,6 +521,682 @@ export function getHongKongInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "hong-kong-food-guide-beyond-dim-sum":
+      return {
+        title: "Hong Kong Food Guide 2026: What to Eat Beyond Dim Sum",
+        description: "Dim sum gets all the attention, but Hong Kong's everyday food culture runs through cha chaan tengs, wonton noodles, roast meats and dai pai dong street stalls — here's what to actually order.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/238b5465b7fe6311243810dfcdc5da07c8c7341098818628dc4e91ead1c8c84b.jpg",
+        fastFacts: [
+          { icon: "Utensils", label: "Everyday institution", value: "Cha chaan teng — Hong Kong-style diners, open long hours" },
+          { icon: "Soup", label: "Signature noodle dish", value: "Wonton noodles (wonton mein) — thin egg noodles, shrimp dumplings" },
+          { icon: "Drumstick", label: "Roast meats", value: "Siu mei — roast goose, char siu, soy chicken, hung alongside" },
+          { icon: "Coffee", label: "Signature drink", value: "Yuenyeung — coffee and tea mixed, a genuine Hong Kong invention" },
+        ],
+        sections: [
+          {
+            title: "The Cha Chaan Teng Is the Real Backbone of Eating in Hong Kong",
+            content: "If dim sum is the meal visitors plan a trip around, the **cha chaan teng** is the one locals actually eat at most days — a Hong Kong-style diner hybrid that emerged from the city's mix of British and Cantonese influences, serving everything from Hong Kong French toast and macaroni soup to baked pork chop rice and the city's own instant-noodle-with-everything combos. These places are usually open long hours, fast-paced, and often still run on handwritten order slips rather than tablets, with communal seating and a no-nonsense, slightly brusque service style that's part of the charm rather than a flaw.\n\nThe drink to try here is **yuenyeung**, a genuinely Hong Kong invention that mixes coffee and tea with condensed milk — it sounds odd on paper and works far better than expected. Pair it with a slice of **Hong Kong French toast**, deep-fried bread with peanut butter or condensed milk, for the full cha chaan teng breakfast experience.",
+          },
+          {
+            title: "Wonton Noodles and the Noodle Shop Culture",
+            content: "**Wonton noodles (wonton mein)** are Hong Kong's defining noodle dish: thin, springy egg noodles in a light shrimp-and-pork broth, topped with a handful of shrimp-and-pork wontons. The good versions are judged on the noodle's bounce (a result of the specific flour and the traditional bamboo-pole kneading some old-school shops still use) as much as the broth itself, and a genuinely great bowl is a small, inexpensive thing most visitors never think to seek out deliberately.\n\nBeef brisket noodles and congee are the other everyday staples worth knowing — congee in particular is a common breakfast or late-night dish, served plain or with century egg, pork, or fish, and it's one of the gentlest, most approachable dishes for anyone easing into Cantonese food for the first time.",
+          },
+          {
+            title: "Siu Mei: Hong Kong's Roast Meat Culture",
+            content: "Walk past any siu mei shop window and you'll see **roast goose, char siu (barbecue pork), soy sauce chicken and roast pork belly** hanging on hooks or laid out under heat lamps — this is Hong Kong's roast meat tradition, and a plate of sliced roast meats over rice is one of the most satisfying, fastest lunches in the city. Roast goose in particular is a Hong Kong specialty worth actively seeking out rather than defaulting to char siu, since it's less commonly exported to Cantonese restaurants abroad and genuinely tastes different done well, with crisp skin and a richer, fattier meat than roast duck.\n\nMost siu mei shops are counter-service, fast and cheap, and a plate rarely costs more than a casual fast-food meal elsewhere — treat it as a legitimate meal, not a snack, even though the format feels informal.",
+            tourCard: { slug: "hong-kong-small-group-dim-sum-lunch-with-30", title: "Hong Kong: Small-Group Dim Sum Lunch with 30+ Items", description: "If dim sum is still the priority, a guided small-group tasting covers the range properly before you branch out to noodles and roast meats on your own.", price: "From $1105", duration: "2.5 hours", rating: "4.8", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/238b5465b7fe6311243810dfcdc5da07c8c7341098818628dc4e91ead1c8c84b.jpg" },
+          },
+          {
+            title: "Dai Pai Dong and Street Food That's Disappearing",
+            content: "**Dai pai dong** — open-air street food stalls, often with simple metal tables and stools set up on the pavement — were once common across Hong Kong but have been steadily licensed out of existence over the decades; the surviving ones (a handful in areas like Sham Shui Po and parts of Central) are worth seeking out specifically because the format itself is vanishing, not just for the food. Expect stir-fried noodles, clay-pot rice, and simple seafood dishes cooked fast over high heat, eaten at communal tables with the city's traffic and noise as the backdrop.\n\nFor something more portable, Hong Kong's street snack culture still thrives: curry fish balls on skewers, egg waffles (gai daan jai), stinky tofu for the adventurous, and roasted chestnuts in cooler months are all sold from small stalls and hole-in-the-wall counters across Kowloon and Hong Kong Island alike.",
+          },
+        ],
+        faqs: [
+          { q: "What is a cha chaan teng?", a: "A Hong Kong-style diner blending British and Cantonese influences, serving everything from French toast and macaroni soup to baked pork chop rice. It's the city's everyday eating institution, more than dim sum for most locals." },
+          { q: "What should I order besides dim sum in Hong Kong?", a: "Wonton noodles, roast goose or char siu over rice from a siu mei shop, congee, and a yuenyeung (coffee-tea mix) from a cha chaan teng are the core everyday dishes beyond dim sum." },
+          { q: "What is roast goose and where can I try it?", a: "A Hong Kong siu mei specialty — roasted whole goose with crisp skin, sliced and served over rice. It's less commonly found abroad than char siu, so it's worth seeking out specifically in Hong Kong." },
+          { q: "Is street food safe to eat in Hong Kong?", a: "Generally yes — stick to stalls with a visible local crowd and food cooked fresh in front of you, the same rule that applies to street food anywhere." },
+        ],
+      };
+
+    case "lantau-island-guide":
+      return {
+        title: "Lantau Island Guide 2026: Beyond the Big Buddha Day Trip",
+        description: "Lantau Island is Hong Kong's largest island and mostly rural — the Big Buddha is one stop among several, and a proper visit covers hiking trails, beaches and Tai O's stilt houses too.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/207dd90465dd6b901d24827a7b867448fc42101b69682ca46ced4a8e0c673833.jpg",
+        fastFacts: [
+          { icon: "Map", label: "Size", value: "Hong Kong's largest island, mostly rural and mountainous" },
+          { icon: "Train", label: "Getting there", value: "MTR to Tung Chung, then cable car or bus" },
+          { icon: "Mountain", label: "Highest peak", value: "Lantau Peak (Fung Wong Shan), 934 metres" },
+          { icon: "Fish", label: "Don't skip", value: "Tai O fishing village — stilt houses and a different pace entirely" },
+        ],
+        sections: [
+          {
+            title: "Lantau Is Bigger — and Emptier — Than Most Visitors Expect",
+            content: "Lantau Island is physically Hong Kong's largest island, larger than Hong Kong Island itself, but the vast majority of it is mountainous country park rather than built-up city — a sharp contrast to the density most visitors associate with Hong Kong. Most of the population and development sits around Tung Chung (the MTR terminus and gateway town) and the airport, which occupies reclaimed land on the island's north side; the interior and south coast remain genuinely rural, with hiking trails, small villages and beaches that see a fraction of the tourist traffic the Big Buddha draws.\n\nTreating Lantau as a single half-day Big Buddha errand undersells it. A fuller day, or even an overnight, opens up hiking, Tai O, and south-coast beaches that most itineraries skip entirely.",
+          },
+          {
+            title: "Hiking: Lantau Peak and the Lantau Trail",
+            content: "**Lantau Peak (Fung Wong Shan)**, at 934 metres, is Hong Kong's second-highest peak and a genuinely popular sunrise hike — climbers set out well before dawn specifically to catch the sunrise above the clouds, a view locals rate among the best in the territory. The full **Lantau Trail** runs about 70km in sections around the island's mountainous spine, but shorter segments near Ngong Ping or Tung Chung are entirely manageable as a half-day add-on to a Big Buddha visit for anyone with reasonable fitness and proper footwear.\n\nThese trails are unmarked by the crowds the cable car draws — a useful reset if the Ngong Ping Village and Big Buddha queues have felt like too much tourist density for the day.",
+          },
+          {
+            title: "Tai O: A Genuinely Different Hong Kong",
+            content: "**Tai O**, on Lantau's western edge, is a fishing village built on stilts over tidal flats, home to one of Hong Kong's last visible traditional fishing communities. Narrow boardwalks wind between stilt houses, dried seafood stalls line the main lanes, and small boat tours take visitors out to (occasionally) spot the rare Chinese white dolphin in the surrounding waters. It's a short bus ride from Ngong Ping and routinely paired with the Big Buddha and cable car as a single day, but it rewards unhurried wandering rather than a quick photo stop — budget at least an hour just walking the stilt-house lanes.\n\nTai O also has its own small, low-key temples and a genuinely different food scene from central Hong Kong, built around dried seafood and simple seaside cooking rather than dim sum or roast meats.",
+            tourCard: { slug: "hong-kong-6-hours-cable-car-big-buddha-fish", title: "Hong Kong: 6 Hours Cable Car, Big Buddha & Fish Village Tour", description: "Combines the cable car, Big Buddha and Tai O fishing village into a single half-day loop — the standard way to see Lantau's highlights together.", price: "From $92", duration: "6 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/be6ad4af1f9ce26a835f5a9091f2c53bed0a094f73d6c5098717644155bba575.jpg" },
+          },
+          {
+            title: "Beaches and Discovery Bay: Lantau's Quieter Side",
+            content: "Lantau's south coast holds several beaches — **Cheung Sha** in particular is Hong Kong's longest beach, long enough that it's rarely crowded even on a warm weekend, with a handful of beachside cafes rather than dense development. **Discovery Bay**, on the island's north-east, is a planned residential community reachable by ferry from Central, notable mainly for its car-free streets and a laid-back, almost resort-like pace that's a world away from Central's density, though it's more of a residential curiosity than a must-see attraction.\n\nFor a Lantau day that skips the Big Buddha crowds entirely, a Cheung Sha beach visit paired with a short hike is a legitimate, much quieter alternative — just note that bus connections to the south coast run less frequently than the Tung Chung-Ngong Ping corridor, so check timetables before committing to a schedule.",
+          },
+        ],
+        faqs: [
+          { q: "Is Lantau Island just the Big Buddha?", a: "No — the Big Buddha and Ngong Ping are the most-visited stop, but Lantau is Hong Kong's largest island, mostly rural, with hiking trails, Tai O fishing village, and quiet south-coast beaches like Cheung Sha." },
+          { q: "How do you get to Lantau Island?", a: "MTR to Tung Chung station, then either the Ngong Ping 360 cable car or a bus up to Ngong Ping Village and the Big Buddha. Discovery Bay is reached by a separate ferry from Central." },
+          { q: "Is Tai O worth visiting separately from the Big Buddha?", a: "It's usually paired with the Big Buddha as a single day via a short bus ride from Ngong Ping, and that combination works well — Tai O rewards at least an hour of unhurried walking through its stilt-house lanes." },
+          { q: "What is the best hike on Lantau Island?", a: "Lantau Peak, Hong Kong's second-highest at 934 metres, is the signature hike, especially as a pre-dawn sunrise climb. Shorter sections of the broader Lantau Trail work well as a half-day add-on near Ngong Ping." },
+        ],
+      };
+
+    case "hong-kong-museums-guide":
+      return {
+        title: "Hong Kong Museums Guide 2026: Which Ones Are Actually Worth Your Time",
+        description: "From the harbourside M+ to the smaller Hong Kong Museum of History, here's which museums genuinely reward a visit and which you can skip on a short trip.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e5f8ade148fd775fd2803eaba29a102d35124f5c1a5d05081c9a2ed202a48d0a.jpg",
+        fastFacts: [
+          { icon: "Landmark", label: "Biggest draw", value: "M+ — Asia's largest museum of visual culture, West Kowloon" },
+          { icon: "Clock", label: "Most museums", value: "Closed one weekday, typically Thursday — check before going" },
+          { icon: "Ticket", label: "Free entry", value: "Several government museums are free or near-free on standard days" },
+          { icon: "MapPin", label: "Museum cluster", value: "Tsim Sha Tsui and West Kowloon Cultural District" },
+        ],
+        sections: [
+          {
+            title: "M+: The One Museum Worth Building a Half-Day Around",
+            content: "**M+**, in the West Kowloon Cultural District, opened as Asia's largest museum devoted to visual culture — contemporary art, design, architecture and moving image, housed in a striking building with genuinely excellent harbour views from its upper floors. The collection draws heavily on 20th and 21st century Asian art and design in a way few other museums in the region attempt at this scale, and the building itself, combined with the West Kowloon waterfront promenade right outside, makes it easy to turn into a half-day rather than a quick in-and-out.\n\nIt sits alongside the **Hong Kong Palace Museum** in the same cultural district, which focuses on Chinese imperial art and historical artefacts on loan from Beijing's Forbidden City — the two make a natural pairing if culture museums are a priority on your trip.",
+          },
+          {
+            title: "Hong Kong Museum of History: The Context Most Visitors Skip",
+            content: "The **Hong Kong Museum of History** in Tsim Sha Tsui East covers the territory's story from prehistory through the handover, with a particularly well-regarded permanent exhibition walking through colonial-era Hong Kong, the Japanese occupation, and post-war development into the city you're walking around today. For visitors who want context behind what they're seeing — why the Peak Tram exists, why Hong Kong's governance looks the way it does — this is genuinely more useful than it sounds, and it's a reasonable rainy-day or midday-heat retreat given it's fully air-conditioned and not overly large.\n\nIt pairs naturally with the nearby **Hong Kong Science Museum**, which is more oriented toward families and hands-on exhibits than serious museum-going, but is a solid option if traveling with kids who've had enough walking for the day.",
+          },
+          {
+            title: "Smaller, Specialist Museums Worth Knowing About",
+            content: "The **Hong Kong Maritime Museum**, on the Central waterfront near the Star Ferry pier, covers the city's identity as a trading port and naval history — a tight, well-curated museum that doesn't demand more than an hour and fits naturally into a Central/harbour day. The **Hong Kong Museum of Art**, also in Tsim Sha Tsui, holds Chinese antiquities and contemporary works and recently went through a major renovation that's generally well-reviewed.\n\nFor a more local, less polished angle, the **Hong Kong Heritage Museum** in Sha Tin (further from the tourist core, but reachable by MTR) covers Cantonese opera, local folk culture and temporary exhibitions that change regularly — worth checking what's currently showing if you have a specific interest rather than visiting blind.",
+          },
+          {
+            title: "Practical Notes: Closures, Tickets and What to Skip",
+            content: "Most Hong Kong museums close one weekday — commonly Thursday for government-run museums — so check specific opening days before planning a museum-heavy day, since getting this wrong is a common first-timer mistake. Several government museums, including the Hong Kong Museum of History and the Science Museum, charge only a nominal fee or are free on certain days, making them easy, low-cost additions to a day that's otherwise light on paid activities.\n\nOn a short 2-3 day trip, **M+** is the one museum worth prioritizing if you only have time for one; everything else here is a genuine bonus for longer stays or specific interests rather than a must-do alongside the Peak, Lantau and the markets.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best museum in Hong Kong?", a: "M+ in West Kowloon, Asia's largest museum of visual culture, is the standout for most visitors — strong contemporary art and design collection, a striking building, and harbour views from the upper floors." },
+          { q: "Are Hong Kong museums free?", a: "Several government-run museums, including the Hong Kong Museum of History and Science Museum, charge only nominal fees or are free on certain days. M+ and the Hong Kong Palace Museum charge standard admission." },
+          { q: "What day are museums closed in Hong Kong?", a: "Most government museums close one weekday, commonly Thursday — always check the specific museum's current schedule before planning around it." },
+          { q: "Is the Hong Kong Museum of History worth visiting?", a: "Yes, especially for context on the city's colonial, wartime and post-handover history — it's a well-regarded, fully indoor option that works well as a rainy-day or midday-heat retreat." },
+        ],
+      };
+
+    case "victoria-peak-vs-sky100":
+      return {
+        title: "Victoria Peak vs Sky100: Which Hong Kong Skyline View Is Worth It",
+        description: "The Peak Tram and Sky100 both sell a Hong Kong skyline view, but they're not the same experience or the same price — here's the real comparison.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a770dcde68e54570c682cc4a54dbb1eb621ccf4700edddb505edcf5c667b19b8.png",
+        fastFacts: [
+          { icon: "Mountain", label: "Victoria Peak", value: "View from above the harbour, on Hong Kong Island's hillside" },
+          { icon: "Building", label: "Sky100", value: "Indoor observation deck, 393m up in the ICC tower, Kowloon side" },
+          { icon: "Compass", label: "Key difference", value: "Peak looks down on the harbour; Sky100 looks across it" },
+          { icon: "Clock", label: "Time needed", value: "Peak: half-day with the tram and walk; Sky100: 45-60 minutes" },
+        ],
+        sections: [
+          {
+            title: "They're Not Actually the Same Kind of View",
+            content: "It's worth being clear upfront: **Victoria Peak** and **Sky100** aren't competing versions of the same experience, even though both get marketed as 'the Hong Kong skyline view'. The Peak sits on Hong Kong Island's hillside, so you're looking down and across the harbour at Kowloon's skyline from an elevated, outdoor-adjacent vantage point, with the Peak Tram itself as part of the experience. **Sky100**, by contrast, is an indoor observation deck on the 100th floor of the ICC tower in West Kowloon, 393 metres up, looking back the other way across the harbour at Hong Kong Island's famously dense skyline.\n\nIf you only have time for one, the Peak is the more complete experience — the tram ride, the outdoor terrace, the hiking paths nearby — while Sky100 is a faster, more purely photo-driven stop.",
+          },
+          {
+            title: "The Peak Tram Experience, in Context",
+            content: "Victoria Peak's appeal is as much about the journey as the destination: the 1888 funicular railway itself, the Sky Terrace 428 viewing deck, and the surrounding Peak Garden paths make it a half-day activity rather than a quick stop. It also costs more in total time — queues, the tram ride up and down, and walking around at the top — but it rewards that time with a genuinely different, elevated perspective on the harbour that no indoor deck replicates. See our dedicated Peak Tram ticket guide for current pricing tiers and how to avoid the worst of the weekend queue.",
+            tourCard: { slug: "hong-kong-peak-tram-sky-terrace-428-photos-tour", title: "Hong Kong: Peak Tram Sky Terrace 428 & Photos Tour", description: "Pre-booked Peak Tram and Sky Terrace access — the fuller, more time-intensive of the two skyline views.", price: "From $119", duration: "2 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a770dcde68e54570c682cc4a54dbb1eb621ccf4700edddb505edcf5c667b19b8.png" },
+          },
+          {
+            title: "Sky100: Faster, Indoor, and Looking the Other Way",
+            content: "**Sky100** is a straightforward observation deck visit: elevator up, floor-to-ceiling windows, interactive touch-screen displays identifying landmarks, and a gift shop and small cafe at the top — the whole visit comfortably fits inside an hour. Being fully indoor and air-conditioned makes it a genuinely useful backup on a rainy or extremely hot day when the Peak's outdoor elements are less appealing, and its position directly above the West Kowloon waterfront and the M+ museum means it pairs easily with a cultural-district day rather than requiring a separate trip across the harbour.\n\nThe view itself, looking at Hong Kong Island's dense skyline from Kowloon, is arguably the more dramatic single photograph of the two — it's the classic 'wall of skyscrapers' shot — even though the Peak's harbour-and-both-shores panorama is more complete.",
+          },
+          {
+            title: "So Which One Should You Actually Do?",
+            content: "If you only have time or budget for one: choose the **Peak** if you want the fuller half-day experience with the historic tram and some outdoor walking, or if weather is good and you have 3+ hours free. Choose **Sky100** if you're tight on time, the weather is poor, or you specifically want the 'looking at Hong Kong Island's skyscraper wall' photo rather than the Peak's broader harbour view.\n\nOn a longer trip (3+ days), doing both isn't redundant — they're different enough views, from opposite sides of the harbour, that seeing the skyline both ways genuinely adds something rather than repeating the same photo twice.",
+          },
+        ],
+        faqs: [
+          { q: "Is Victoria Peak or Sky100 better?", a: "Victoria Peak gives the fuller experience with the historic tram ride and outdoor terrace; Sky100 is faster, fully indoor, and gives the classic view looking at Hong Kong Island's skyline from across the harbour. Neither is strictly 'better' — they show different sides of the same city." },
+          { q: "Can I see both Victoria Peak and Sky100 in one trip?", a: "Yes, and on a 3+ day trip it's worth doing — they look at the harbour from opposite directions, so the views genuinely differ rather than repeating each other." },
+          { q: "Which is better in bad weather, the Peak or Sky100?", a: "Sky100 — it's fully indoor and air-conditioned, while the Peak's main appeal includes outdoor terrace time that's diminished by rain or haze." },
+          { q: "How long does a Sky100 visit take?", a: "Comfortably under an hour including the elevator ride, the deck itself and a look at the interactive displays — much faster than a full Peak Tram visit." },
+        ],
+      };
+
+    case "hong-kong-with-kids-guide":
+      return {
+        title: "Hong Kong with Kids: A Family Travel Guide 2026",
+        description: "Hong Kong is more family-friendly than its skyscraper reputation suggests — here's what actually works with children, from Disneyland to the Peak Tram to easy, kid-proof transport.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c164053dede917013a86e81394967aed912e526c8639d6b67c477d1f04c7f0c.jpg",
+        fastFacts: [
+          { icon: "Train", label: "Getting around with kids", value: "MTR is stroller-accessible with lifts at most stations" },
+          { icon: "Smile", label: "Top kid attraction", value: "Hong Kong Disneyland — smaller and less overwhelming than other parks" },
+          { icon: "TreePine", label: "Good for burning energy", value: "Ocean Park's rides and animal exhibits, or a Lantau cable car ride" },
+          { icon: "Utensils", label: "Easy food wins", value: "Cha chaan tengs have simple, kid-friendly menus and fast service" },
+        ],
+        sections: [
+          {
+            title: "Transport Logistics Are Easier Than Expected",
+            content: "Hong Kong's density can look daunting for parents picturing crowded streets and a stroller, but the practical reality is better than it looks: the **MTR** has lifts or escalators at the overwhelming majority of stations, platforms are well-signed in English, and trains run frequently enough that missing one rarely matters. The **Star Ferry** is an easy, novel win with kids specifically because it feels like an activity rather than transport — a short, cheap boat ride that most children find genuinely exciting regardless of age.\n\nTaxis are plentiful for when a stroller and multiple tired kids make transit less appealing, and having your hotel write destinations in Chinese characters smooths over any language friction with drivers.",
+          },
+          {
+            title: "Hong Kong Disneyland: The Obvious, Correct Choice",
+            content: "**Hong Kong Disneyland** is specifically well-suited to families with younger children precisely because it's the smallest of the global Disney parks — less walking, shorter lines relative to the bigger US and Japan parks, and a single day genuinely covers it without the exhaustion a multi-day Orlando trip can produce. The **Bibbidi Bobbidi Boutique** princess makeover experience is a reliable hit for kids who are into it, and the dedicated Disneyland Resort Line MTR with Mickey-shaped train windows makes even the journey there feel like part of the day.\n\nBook character dining or the boutique experience ahead rather than hoping for same-day availability, especially during school holiday periods when the park runs fuller.",
+            tourCard: { slug: "hong-kong-disneyland-bibbidi-bobbidi-boutique", title: "Hong Kong Disneyland: Bibbidi Bobbidi Boutique Package", description: "Park entry with the princess makeover bundled in — a reliable win for families with young kids.", price: "From $113", duration: "2.5 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c164053dede917013a86e81394967aed912e526c8639d6b67c477d1f04c7f0c.jpg" },
+          },
+          {
+            title: "Beyond Disneyland: Ocean Park, the Peak Tram and the Science Museum",
+            content: "**Ocean Park**, on Hong Kong Island's south side, splits between a marine-life and animal exhibit side and a rides-and-thrills side, and its cable car and funicular connections between the two levels are an attraction in themselves for kids. It's a genuinely different day from Disneyland — less character-driven, more animal- and ride-focused — and works well as a second theme-park day on a longer trip without feeling redundant.\n\nThe **Peak Tram** itself is a hit with most kids regardless of age purely as a ride — a steep funicular climbing through hillside is inherently more exciting to a child than most 'viewpoint' attractions — and the **Hong Kong Science Museum** in Tsim Sha Tsui gives a reliable, air-conditioned, hands-on option for a tired-feet or rainy-day afternoon.",
+          },
+          {
+            title: "Food and Practical Family Tips",
+            content: "**Cha chaan tengs** are a genuinely easy food option with kids: fast service, simple familiar dishes (toast, noodles, fried rice, macaroni soup), and a casual, no-pressure atmosphere that tolerates restless children better than a formal restaurant would. Dim sum works well with kids too, since the small-dish format means pickier eaters can find something among the variety without committing to one unfamiliar dish.\n\nPractical notes: Hong Kong's humidity and heat from May through September can wear children out faster than parents expect, so building in midday air-conditioned breaks (a mall, a museum, a mid-afternoon hotel rest) tends to produce a better overall day than pushing through a packed sightseeing schedule in the heat.",
+          },
+        ],
+        faqs: [
+          { q: "Is Hong Kong good for traveling with young kids?", a: "Yes — the MTR is largely stroller-accessible, Hong Kong Disneyland is sized for shorter attention spans than the bigger Disney parks, and food options like cha chaan tengs and dim sum are easy with picky eaters." },
+          { q: "Disneyland or Ocean Park for a Hong Kong family trip?", a: "Disneyland for character-driven rides and younger kids; Ocean Park for animal exhibits and more ride-focused thrills. On a longer trip, both work well as separate days rather than choosing one over the other." },
+          { q: "Is the MTR stroller-friendly?", a: "Mostly yes — lifts or escalators exist at the large majority of stations, and the system is well-signed in English, making it manageable for parents without local help." },
+          { q: "What's the best time of year for Hong Kong with kids?", a: "October through December, for the same reason it's best for everyone — lower humidity and heat make outdoor time with children far more comfortable than the summer months." },
+        ],
+      };
+
+    case "hong-kong-shopping-districts-guide":
+      return {
+        title: "Hong Kong Shopping Districts Guide 2026: Where to Go for What",
+        description: "From Causeway Bay's malls to Mong Kok's sneaker streets and Central's luxury flagships, Hong Kong's shopping splits sharply by neighborhood — here's which district matches what you're actually after.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a5008587fb56e196dfaa948d1b25a7357b621c7e284237a865eb6869d279bda8.png",
+        fastFacts: [
+          { icon: "ShoppingBag", label: "Luxury flagships", value: "Central and Admiralty — Landmark, IFC Mall" },
+          { icon: "ShoppingBag", label: "Mainstream malls, dense crowds", value: "Causeway Bay — Times Square, SOGO" },
+          { icon: "ShoppingBag", label: "Electronics, sneakers, street markets", value: "Mong Kok" },
+          { icon: "ShoppingBag", label: "Jewelry, watches, antiques", value: "Tsim Sha Tsui's Nathan Road and side streets" },
+        ],
+        sections: [
+          {
+            title: "Central and Admiralty: Where the Luxury Flagships Are",
+            content: "**Central**, Hong Kong's financial and business core, holds the city's densest concentration of international luxury flagships — the **Landmark** mall and its connected buildings house a tight cluster of designer stores, and **IFC Mall**, directly above the Airport Express and MTR interchange, pairs high-end retail with easy transit access and harbour views from its upper levels. This is the district for browsing or buying designer goods in an air-conditioned, polished setting, not for bargains.\n\nThe **Mid-Levels Escalator**, the world's longest outdoor covered escalator system, runs through this area and up into SoHo, a smaller strip of boutiques, bars and restaurants worth a wander even if shopping specifically isn't the goal.",
+          },
+          {
+            title: "Causeway Bay: Dense, Mainstream and Always Busy",
+            content: "**Causeway Bay** is Hong Kong's most intensely commercial shopping district by foot traffic — **Times Square** and **SOGO** anchor a dense cluster of malls and department stores aimed at mainstream, mid-range shopping rather than luxury, and the surrounding streets are packed with smaller boutiques, cosmetics shops and cafes. It's genuinely one of the busiest retail areas in the world by pedestrian density, which makes it exciting to walk through but exhausting if you're not prepared for the crowds, especially on weekends.\n\nIf mainstream fashion brands, cosmetics and a broad, department-store style shopping day are what you're after, Causeway Bay delivers more variety per block than almost anywhere else in the city.",
+          },
+          {
+            title: "Mong Kok: Electronics, Sneakers and Street-Level Density",
+            content: "**Mong Kok** is less about malls and more about street-level specialization: specific blocks dedicated to sneakers, others to phone and electronics accessories, and the **Ladies' Market** along Tung Choi Street for clothing and souvenirs at stall prices with bargaining expected. This is the district for feeling the city's retail density at ground level rather than inside air-conditioned malls, and it overlaps with the Temple Street night market area for an evening that combines shopping with street food and atmosphere.\n\nSee our dedicated night markets guide for the full Mong Kok and Temple Street evening combination — most visitors do this as one trip rather than treating shopping and the night market as separate outings.",
+            tourCard: { slug: "hong-kong-yau-ma-tei-temple-street-night-walking", title: "Hong Kong: Yau Ma Tei Temple Street Night Walking Tour", description: "A guided evening through the Mong Kok-adjacent market district, pairing shopping streets with the night market atmosphere.", price: "From $228", duration: "2 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a5008587fb56e196dfaa948d1b25a7357b621c7e284237a865eb6869d279bda8.png" },
+          },
+          {
+            title: "Tsim Sha Tsui: Watches, Jewelry and Tourist-Facing Retail",
+            content: "**Tsim Sha Tsui**, along Nathan Road and its side streets, is where much of Hong Kong's tourist-facing jewelry, watch and electronics retail concentrates — genuine deals exist here, but so do well-documented overcharging schemes at certain shops targeting tourists specifically, so stick to shops with clearly displayed prices and be wary of anyone steering you toward a 'special back room' deal. **Harbour City** and **K11 Musea**, two large malls in the area, offer a more straightforward, fixed-price shopping experience if the street-level watch and jewelry shops feel too high-pressure.\n\nK11 Musea in particular blends retail with art installations and a genuinely pleasant design, making it a worthwhile stop even for browsing rather than buying, with harbour-adjacent dining options attached.",
+          },
+        ],
+        faqs: [
+          { q: "Where is the best shopping district in Hong Kong?", a: "It depends on what you want: Central and Admiralty for luxury flagships, Causeway Bay for mainstream malls and department stores, Mong Kok for electronics and street-market bargains, Tsim Sha Tsui for watches and jewelry." },
+          { q: "Is Mong Kok good for bargain shopping?", a: "Yes, especially the Ladies' Market and surrounding electronics streets — bargaining is expected, though treat it as atmosphere and modest savings rather than deep discounts on quality goods." },
+          { q: "Should I buy watches or jewelry from Tsim Sha Tsui street shops?", a: "Be cautious — some shops in this area target tourists with overcharging schemes. Stick to shops with clearly displayed prices, or use the fixed-price retail inside malls like Harbour City or K11 Musea instead." },
+          { q: "What is the Mid-Levels Escalator?", a: "The world's longest outdoor covered escalator system, running through Central up into SoHo — a functional piece of transit infrastructure that's also a pleasant, free way to see the area on foot without the steep hill climb." },
+        ],
+      };
+
+    case "hong-kong-tram-ding-ding-guide":
+      return {
+        title: "Hong Kong Tram ('Ding Ding') Guide 2026: Routes, Fares and Why It's Worth Riding",
+        description: "Hong Kong Tramways has run along the north shore of Hong Kong Island since 1904 — slow, cheap and a genuinely good way to see Central, Wan Chai and Causeway Bay at street level.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a3ceacc25ef88c5e40dab7ac06997ce1f95254de542309fec168d5c07e50ca0f.png",
+        fastFacts: [
+          { icon: "Clock", label: "Running since", value: "1904 — over a century of continuous service" },
+          { icon: "DollarSign", label: "Flat fare (adult)", value: "HK$3, paid with Octopus or exact cash on exit" },
+          { icon: "MapPin", label: "Route", value: "Along the north shore of Hong Kong Island, Kennedy Town to Shau Kei Wan" },
+          { icon: "Clock", label: "Why it's called 'ding ding'", value: "The bell sound the tram makes — the local nickname stuck" },
+        ],
+        sections: [
+          {
+            title: "A Century-Old Tram That's Still a Real Commuter Line",
+            content: "Hong Kong Tramways has operated continuously along the north shore of Hong Kong Island since **1904**, making it one of the oldest tram systems in the world still running double-decker trams as its standard fleet. Locals call it the **'ding ding'**, after the bell sound it makes, and despite being a genuine tourist draw for the nostalgia and the low-level street view it offers, it remains a real working commuter service used daily by residents along its route — not a heritage attraction kept running purely for visitors.\n\nThe tram runs at a genuinely slow pace compared to the MTR, which is precisely the appeal: it's a way to actually see the streets of Central, Wan Chai, Causeway Bay and beyond rather than passing beneath them in a subway tunnel.",
+          },
+          {
+            title: "The Route and What You'll See",
+            content: "The main line runs from **Kennedy Town** in the west through **Central, Admiralty, Wan Chai, Causeway Bay** and on to **Shau Kei Wan** in the east, with a branch looping through Happy Valley. Riding even a portion of this — say, Central through Causeway Bay — gives a street-level cross-section of Hong Kong Island's older, denser neighborhoods that the elevated or underground MTR simply doesn't show.\n\nFor the best experience, climb to the **upper deck** and sit at the front — the view over the tram's own windshield, watching the street scene unfold at walking-adjacent speed, is the whole point of choosing this over faster transit.",
+            tourCard: { slug: "h1hong-kong-central-escalator-tram-and-peak-tram", title: "(H1)Hong Kong: Central Escalator, Tram, and Peak Tram Tour", description: "A guided loop covering the tram alongside the Mid-Levels escalator and Peak Tram — good for seeing several of Hong Kong's distinctive transit landmarks in one outing.", price: "From $112", duration: "4 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a3ceacc25ef88c5e40dab7ac06997ce1f95254de542309fec168d5c07e50ca0f.png" },
+          },
+          {
+            title: "Fares and How to Pay",
+            content: "The tram runs on a genuinely simple **flat fare** regardless of distance travelled — currently HK$3 for adults, with lower rates for children and seniors. Board at the rear doors and pay as you exit at the front, either by tapping an Octopus card or dropping exact cash into the fare box (the driver can't make change, so having coins ready matters if paying cash).\n\nAt roughly the price of a snack, it's one of the cheapest things to do in the entire city, and genuinely useful as transport, not just a novelty ride — many visitors end up using it multiple times across a trip once they realize how convenient it is for short hops between Central and Causeway Bay.",
+          },
+          {
+            title: "Is It Worth Riding If You're Not Going Anywhere Specific?",
+            content: "Yes, for most visitors — a tram ride with no particular destination, just riding a few stops and watching the city go by from the upper deck, is a legitimately good use of 20-30 minutes and almost no money. It pairs naturally with a Central or Causeway Bay shopping day, or as a slower alternative to the MTR when you're not in a rush between neighborhoods along the route.\n\nThe one caveat: during rush hour, trams can get crowded and the upper-deck front seats fill quickly, so for the best photo-and-view experience, aim for a mid-morning or early-afternoon ride rather than peak commuting hours.",
+          },
+        ],
+        faqs: [
+          { q: "Why is the Hong Kong tram called 'ding ding'?", a: "After the bell sound the tram makes — it's a widely used local nickname for Hong Kong Tramways, not an official name." },
+          { q: "How much does the Hong Kong tram cost?", a: "A flat HK$3 fare for adults regardless of distance, paid by Octopus card or exact cash when exiting at the front of the tram." },
+          { q: "What is the best tram route to ride for sightseeing?", a: "Central through Wan Chai to Causeway Bay covers a good cross-section of Hong Kong Island's denser, older neighborhoods at street level — sit on the upper deck, front seats, for the best view." },
+          { q: "How old is the Hong Kong tram system?", a: "It has run continuously since 1904, making it one of the oldest tram systems still operating in its original double-decker form anywhere in the world." },
+        ],
+      };
+
+    case "hong-kong-harbour-cruise-guide":
+      return {
+        title: "Hong Kong Harbour Cruise Guide 2026: Sunset, Dinner and Junk Boat Options",
+        description: "From a quick Star Ferry crossing to a full sunset dinner cruise, Hong Kong's harbour can be seen at very different budgets and paces — here's how the main options compare.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5b4e977f13c491c10e6e35d2a0c05539387c38827e122f004319c18d33786167.jpg",
+        fastFacts: [
+          { icon: "Ship", label: "Cheapest option", value: "Star Ferry crossing, under HK$5 one way" },
+          { icon: "Clock", label: "Dinner cruise length", value: "Typically 2-3 hours, timed around sunset and the 8pm light show" },
+          { icon: "Sailboat", label: "Junk boat cruises", value: "Traditional wooden boats, often half-day with a swim stop" },
+          { icon: "Sparkles", label: "Best timed activity", value: "Any harbour cruise around 8pm catches the Symphony of Lights" },
+        ],
+        sections: [
+          {
+            title: "Why the Harbour Is Worth Seeing From the Water, Not Just the Shore",
+            content: "Victoria Harbour is the organizing feature of the entire city, and while the Peak and the waterfront promenades both give good land-based views, actually being **on the water** changes the perspective meaningfully — skyscrapers tower more dramatically from sea level than from a distant hillside, and the famous **Symphony of Lights** show (nightly, roughly 8pm) hits differently when the buildings are lighting up on both sides of you rather than viewed from one shore.\n\nThe options range widely in price and formality, from a few-dollar Star Ferry crossing to a multi-hour dinner cruise, so the right choice depends on budget and how much of an 'experience' versus simple transport you're after.",
+          },
+          {
+            title: "The Budget Option: Star Ferry",
+            content: "If budget is the priority, the **Star Ferry** crossing between Central and Tsim Sha Tsui remains the best-value harbour experience in the city — under HK$5, under 10 minutes, and a genuine slice of harbour-level skyline view. Timed for roughly 30-45 minutes before the 8pm Symphony of Lights, it functions as a free mini-cruise rather than dedicated transport. See our dedicated Star Ferry guide for route details and timing advice.",
+            tourCard: { slug: "hk-sail-on-star-ferry-to-million-dollars-view", title: "HK: sail on Star ferry to million-dollars view Central Tour", description: "A guided Star Ferry crossing explaining the skyline as you cross — the simplest, cheapest harbour experience.", price: "From $29", duration: "2 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1adedc55131203d80fbc40423126d42070bc78cfe083f583f7d5741c5b8626a7.jpeg" },
+          },
+          {
+            title: "Sunset and Dinner Cruises: The Mid-Range Experience",
+            content: "A step up from the Star Ferry, dedicated **sunset and dinner cruises** run on larger, purpose-built boats with open decks, bar service, and often a meal included — typically a dim sum tasting or a broader dinner menu depending on the operator. These run 2-3 hours, timed to catch both the sunset over the western harbour and the 8pm light show from open water, which gives an unobstructed view neither the promenade nor the Star Ferry quite matches.\n\nThis is the format most worth choosing if you want a genuine evening activity rather than quick transport — book ahead during peak season (October-December), since good sunset timing slots fill first.",
+            tourCard: { slug: "hk-victoria-sunset-harbour-cruise-dim-sum-tasting", title: "HK Victoria Sunset Harbour Cruise Dim Sum Tasting Night Tour", description: "A sunset cruise with a dim sum tasting, timed to catch both the sunset and the 8pm Symphony of Lights from open water.", price: "From $73", duration: "3 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5b4e977f13c491c10e6e35d2a0c05539387c38827e122f004319c18d33786167.jpg" },
+          },
+          {
+            title: "Junk Boat Cruises: A Different, Longer Experience Entirely",
+            content: "Traditional **junk boats** — wooden-hulled vessels styled after historic Chinese sailing junks, though most modern tourist versions are motorized rather than true sail — offer a different kind of cruise, usually half-day trips out to quieter waters around the outlying islands or Sai Kung, often with a swim stop, rather than a tight loop around the central harbour. These are less about the skyline and more about a relaxed, social afternoon on the water, popular with groups and often booked privately rather than as a shared tour.\n\nIf skyline views specifically are the goal, stick with a harbour-focused sunset or dinner cruise; if a relaxed afternoon on the water with swimming is more the draw, a junk boat trip out to the islands is the better fit.",
+          },
+        ],
+        faqs: [
+          { q: "What is the cheapest way to see Hong Kong's harbour from the water?", a: "The Star Ferry crossing between Central and Tsim Sha Tsui, at under HK$5 one way — it doubles as an informal mini-cruise, especially timed before the 8pm light show." },
+          { q: "How long do Hong Kong dinner cruises last?", a: "Typically 2-3 hours, timed to catch the sunset and the nightly Symphony of Lights show around 8pm from open water." },
+          { q: "What's the difference between a harbour cruise and a junk boat trip?", a: "A harbour cruise stays close to the central skyline and is built around the view and the light show; a junk boat trip usually heads further out to quieter waters near the outlying islands, often with a swim stop, and is less skyline-focused." },
+          { q: "When is the best time for a Hong Kong harbour cruise?", a: "Any cruise timed to be on the water around 8pm catches the nightly Symphony of Lights show, which is the single best-timed moment for a harbour cruise regardless of which option you choose." },
+        ],
+      };
+
+    case "sai-kung-hiking-guide":
+      return {
+        title: "Sai Kung Hiking Guide 2026: Hong Kong's Backcountry Side",
+        description: "Sai Kung, on Hong Kong's eastern edge, holds some of the territory's best coastal hiking and beaches — a genuinely different Hong Kong from the skyline and markets most visitors see.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/780a1532697b1ffe23798f0e598de19e9c1fcca32c911cbd86b31a6eeb58b68d.png",
+        fastFacts: [
+          { icon: "MapPin", label: "Location", value: "Eastern New Territories, roughly 40-60 minutes from Central" },
+          { icon: "Mountain", label: "Signature trail", value: "MacLehose Trail Stage 1-2, through Sai Kung Country Park" },
+          { icon: "Waves", label: "Known for", value: "High Island Reservoir's volcanic rock formations, sandy beaches" },
+          { icon: "Fish", label: "Also worth it", value: "Sai Kung town's seafood restaurants on the waterfront" },
+        ],
+        sections: [
+          {
+            title: "Hong Kong's Backcountry Is Closer Than Most Visitors Realize",
+            content: "**Sai Kung**, in the eastern New Territories, is roughly 40-60 minutes from Central by bus or a combination of MTR and bus, yet it feels like an entirely different territory once you arrive — country parks, sandy beaches and a genuinely rural coastal landscape that contradicts the dense-skyscraper image most visitors carry of Hong Kong. The area is popular with hikers, weekend beachgoers and seafood diners, but sees a fraction of the international tourist traffic the Peak or Lantau draw, which makes it feel comparatively uncrowded even on a nice weekend.\n\nMost visitors reach Sai Kung as a half-day or full-day trip rather than an overnight, though the area has enough hiking and beach options to fill more time for anyone specifically prioritizing the outdoors over city sightseeing.",
+          },
+          {
+            title: "The MacLehose Trail and High Island Reservoir",
+            content: "The **MacLehose Trail**, Hong Kong's longest and most famous hiking trail at roughly 100km total, begins its first stages in Sai Kung Country Park, and Stages 1-2 are the most accessible and popular section for visitors without a full-day commitment. The highlight is **High Island Reservoir**, where a dam wall exposes dramatic hexagonal volcanic rock formations along the coastline — a genuinely striking, less-expected landscape that photographs don't always do justice until you're standing on it.\n\nThis section is moderately strenuous with some exposed, hot stretches in summer, so bring more water than feels necessary and avoid starting in the middle of a hot afternoon; morning starts are standard practice among regular hikers here.",
+          },
+          {
+            title: "Beaches: Hap Mun Bay and the Outlying Options",
+            content: "Sai Kung's coastline holds some of Hong Kong's best beaches, with **Hap Mun Bay** (Half Moon Bay) a particular favorite, reached by a short sampan (small motorboat) ride from Sai Kung's public pier rather than by road. The water quality and sand here consistently rate among the best in Hong Kong's beach rankings, and the lack of road access keeps crowds more manageable than beaches reachable directly by bus.\n\nSeveral other outlying islands and coves around Sai Kung are reachable by chartered sampan or kayak, and this area is also a popular base for sea kayaking and stand-up paddleboarding if hiking specifically isn't the draw.",
+          },
+          {
+            title: "Sai Kung Town: Seafood and a Different Pace",
+            content: "**Sai Kung town** itself, on the waterfront, is known for its seafood restaurants — many with live tanks where you pick your own fish, prawns or shellfish before it's cooked — and a noticeably slower, more relaxed pace than central Hong Kong. It's a natural place to end a hiking or beach day, with outdoor seating along the waterfront promenade and a genuinely local, non-touristy feel despite being a known weekend destination for Hong Kong residents themselves.\n\nGetting back to central Hong Kong from Sai Kung in the evening is straightforward by bus or minibus to the nearest MTR interchange, so there's no need to rush the day to catch transport.",
+          },
+        ],
+        faqs: [
+          { q: "How do you get to Sai Kung from central Hong Kong?", a: "By bus, or a combination of MTR to a connecting station followed by bus or minibus — the full trip typically takes 40-60 minutes from Central." },
+          { q: "What is the best hike near Sai Kung?", a: "Stages 1-2 of the MacLehose Trail, Hong Kong's longest trail, which pass High Island Reservoir's striking hexagonal volcanic rock formations along the coast." },
+          { q: "What is Hap Mun Bay?", a: "Also called Half Moon Bay, one of Sai Kung's best beaches, reached by a short sampan boat ride from the public pier rather than by road — the lack of direct road access keeps it less crowded." },
+          { q: "Is Sai Kung worth visiting if I only have a few days in Hong Kong?", a: "It's a strong add-on for a 4+ day trip or for hikers and beach-focused travelers specifically, but on a tight 2-3 day trip it generally loses out to Lantau Island and Hong Kong Island's core sights." },
+        ],
+      };
+
+    case "hong-kong-afternoon-tea-guide":
+      return {
+        title: "Hong Kong Afternoon Tea Guide 2026: Colonial Tradition Meets Harbour Views",
+        description: "Hong Kong's British colonial history left behind a genuine afternoon tea culture, now served everywhere from grand colonial-era hotels to harbour-view towers — here's how to do it properly.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/238b5465b7fe6311243810dfcdc5da07c8c7341098818628dc4e91ead1c8c84b.jpg",
+        fastFacts: [
+          { icon: "Clock", label: "Typical service hours", value: "2pm to 6pm, varies by hotel" },
+          { icon: "Landmark", label: "Classic venue", value: "The Peninsula Hong Kong's lobby lounge — a genuine institution" },
+          { icon: "Utensils", label: "What's served", value: "Tiered stands of sandwiches, scones, pastries, with Cantonese twists common" },
+          { icon: "FileText", label: "Booking", value: "Reservations strongly recommended at the well-known hotels" },
+        ],
+        sections: [
+          {
+            title: "Why Afternoon Tea Is a Real Hong Kong Tradition, Not an Import",
+            content: "Hong Kong's 150+ years as a British colonial territory left a genuine afternoon tea culture behind, and it's been running continuously at the city's grand hotels since well before Hong Kong became the financial hub it is today — this isn't a recent import aimed at tourists but an actual institution with its own local history and rituals. The **Peninsula Hong Kong**, open since 1928, is the most famous venue, its lobby lounge serving afternoon tea beneath a colonial-era ceiling with a live string quartet, and it remains genuinely busy with both tourists and long-time local regulars rather than one or the other exclusively.\n\nMany venues have adapted the format with Cantonese touches — egg tart variations, Chinese tea pairings alongside the classic English black tea, or dim sum-inspired savory items — making Hong Kong afternoon tea a genuine hybrid rather than a straight British transplant.",
+          },
+          {
+            title: "The Classic Experience: Grand Hotel Lounges",
+            content: "Beyond the Peninsula, several other colonial-era and grand hotels run well-regarded afternoon tea services, typically in a lobby lounge setting with tiered stands holding finger sandwiches, scones with clotted cream and jam, and a rotating selection of pastries. These sittings run roughly 2pm to 6pm, and reservations are strongly advisable at the best-known venues, particularly on weekends, since walk-in availability is unreliable during peak hours.\n\nPrices at these flagship venues run noticeably higher than a casual cafe tea, reflecting both the setting and the ingredient quality — treat it as a dedicated experience and activity for an afternoon, not a quick snack stop.",
+          },
+          {
+            title: "Modern and Harbour-View Alternatives",
+            content: "A newer wave of afternoon tea has moved into Hong Kong's high-rise hotels and harbour-view venues, pairing the classic tiered-stand format with floor-to-ceiling windows over Victoria Harbour — a meaningfully different atmosphere from the colonial-lounge experience, trading history for a skyline backdrop. Several of these venues lean into seasonal or themed menus more aggressively than the traditional hotels, rotating offerings tied to holidays or collaborations.\n\nFor a less formal, more affordable take on the tradition, local cafes and bakeries across the city increasingly offer simplified afternoon tea sets at a fraction of the grand-hotel price, usually without the full silver-service presentation but with the same core format of small sandwiches, scones and pastries.",
+          },
+          {
+            title: "Practical Tips for Booking and Timing",
+            content: "Book at least a few days ahead for well-known venues, longer for weekends or if a specific window seat matters to you. Dress codes at the grand hotel lounges tend to be smart-casual rather than strictly formal, but very casual beachwear or gym clothes are generally discouraged at the flagship venues.\n\nAfternoon tea pairs naturally with a Central sightseeing day — most of the classic venues sit within walking distance of the Peak Tram terminus, the Star Ferry pier, or Hong Kong Island's main shopping districts, making it easy to build into an afternoon lull between morning and evening activities rather than a separate dedicated outing.",
+          },
+        ],
+        faqs: [
+          { q: "Where is the best afternoon tea in Hong Kong?", a: "The Peninsula Hong Kong's lobby lounge is the most famous and historic option, running since 1928 with a live string quartet, though several other grand hotels and harbour-view venues offer well-regarded alternatives." },
+          { q: "Do I need a reservation for Hong Kong afternoon tea?", a: "Strongly recommended at the well-known venues, especially on weekends — walk-in availability is unreliable during peak 2-6pm hours at popular hotels." },
+          { q: "Is Hong Kong afternoon tea just British sandwiches and scones?", a: "Many venues blend the classic British format with Cantonese touches — egg tart variations, Chinese tea pairings or dim sum-inspired savory items — making it a genuine local hybrid rather than a straight import." },
+          { q: "Is there a cheaper alternative to grand hotel afternoon tea?", a: "Yes — local cafes and bakeries across the city offer simplified, more affordable afternoon tea sets with the same basic format, minus the silver-service presentation of the flagship hotel lounges." },
+        ],
+      };
+
+    case "wong-tai-sin-temple-guide":
+      return {
+        title: "Wong Tai Sin Temple Guide 2026: Hong Kong's Most Visited Temple",
+        description: "Wong Tai Sin Temple draws fortune-seekers and casual visitors alike with its fortune-telling stalls and kau cim fortune sticks — here's what it is and how to visit respectfully.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e5f8ade148fd775fd2803eaba29a102d35124f5c1a5d05081c9a2ed202a48d0a.jpg",
+        fastFacts: [
+          { icon: "Landmark", label: "Built", value: "1921, dedicated to the Taoist deity Wong Tai Sin" },
+          { icon: "Train", label: "Getting there", value: "Wong Tai Sin MTR station, exit directly outside the temple" },
+          { icon: "DollarSign", label: "Entry", value: "Free (small donation requested for the Nine Dragon Wall garden)" },
+          { icon: "Sparkles", label: "Known for", value: "Kau cim fortune-telling sticks and an arcade of fortune-teller stalls" },
+        ],
+        sections: [
+          {
+            title: "What Wong Tai Sin Temple Actually Is",
+            content: "**Wong Tai Sin Temple**, built in 1921 in Kowloon, is dedicated to the Taoist deity of the same name, believed to have the power to heal the sick and grant wishes — a reputation that's made it one of Hong Kong's most consistently busy temples, visited year-round by people seeking blessings for health, business success, exams or general good fortune, not just on major festival days. Its proximity to an MTR station bearing the same name makes it one of the easiest major temples in the city to reach without a taxi.\n\nUnlike some temples that feel primarily historical or touristic, Wong Tai Sin remains an active, functioning place of worship where the majority of visitors on any given day are local residents rather than tourists, which gives it a genuine, lived-in atmosphere rather than a curated heritage-site feel.",
+          },
+          {
+            title: "Kau Cim: The Fortune-Telling Ritual Everyone Comes For",
+            content: "The temple's signature practice is **kau cim**, a fortune-telling ritual involving a cylindrical container of numbered bamboo sticks: worshippers kneel, pray, and shake the container until a single stick falls out, its number corresponding to a specific fortune. Many visitors then take their numbered fortune to one of the dozens of professional fortune tellers in the arcade adjoining the temple grounds for an interpretation, often covering a wide range of specialties from palm reading to face reading to Chinese astrology.\n\nTourists are welcome to try kau cim themselves, and it's a genuinely interesting, low-cost cultural experience even for the skeptical — treat the fortune-teller interpretations as entertainment and cultural insight rather than literal prediction, and agree on a price before any extended consultation, since rates aren't always clearly posted.",
+          },
+          {
+            title: "The Grounds: Nine Dragon Wall and Good Wish Garden",
+            content: "Beyond the main worship hall, the temple complex includes the **Good Wish Garden**, a landscaped Chinese garden styled after classical imperial gardens, and the **Nine Dragon Wall**, a replica of the famous nine-dragon glazed wall in Beijing's Forbidden City — both charge a small separate admission that goes toward garden upkeep, distinct from the temple itself, which is free to enter.\n\nIncense smoke is a constant, heavy presence throughout the main temple courtyard — worshippers burn large bundles as offerings, and visitors sensitive to smoke should be prepared for a genuinely thick atmosphere near the main altar, especially during busier hours.",
+          },
+          {
+            title: "Visiting Respectfully",
+            content: "As an active place of worship, dress modestly (covered shoulders and reasonably covered legs are appreciated, though not strictly enforced) and be mindful around people actively praying — walking directly through someone's prayer space for a photo is considered rude. Photography is generally permitted in the outdoor courtyard areas but check for posted restrictions near the main altar and inside any enclosed shrine areas.\n\nThe temple is busiest around Chinese New Year and on the Wong Tai Sin deity's birthday in the lunar calendar, when crowds multiply significantly — visiting on an ordinary weekday gives a calmer, more contemplative experience if a packed, festival-level atmosphere isn't what you're after.",
+          },
+        ],
+        faqs: [
+          { q: "What is Wong Tai Sin Temple known for?", a: "Kau cim fortune-telling — worshippers shake a container of numbered sticks to receive a fortune, then often consult one of dozens of professional fortune tellers in an adjoining arcade for interpretation." },
+          { q: "Is Wong Tai Sin Temple free to visit?", a: "Yes, the temple itself is free. A small separate donation is requested for the adjoining Good Wish Garden and Nine Dragon Wall." },
+          { q: "How do you get to Wong Tai Sin Temple?", a: "Take the MTR to Wong Tai Sin station — the temple entrance is directly outside the station exit, making it one of the most accessible major temples in Hong Kong." },
+          { q: "Can tourists try kau cim fortune-telling?", a: "Yes — tourists are welcome to try it themselves. Treat the subsequent fortune-teller interpretation as cultural entertainment, and agree on a price before an extended consultation since rates aren't always clearly posted." },
+        ],
+      };
+
+    case "hong-kong-nightlife-lan-kwai-fong":
+      return {
+        title: "Hong Kong Nightlife Guide 2026: Lan Kwai Fong, Soho and Beyond",
+        description: "Lan Kwai Fong is the obvious answer for Hong Kong nightlife, but Soho, Wan Chai and a growing rooftop bar scene give it real competition — here's how the districts actually differ.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a770dcde68e54570c682cc4a54dbb1eb621ccf4700edddb505edcf5c667b19b8.png",
+        fastFacts: [
+          { icon: "MapPin", label: "Lan Kwai Fong", value: "Dense bar-and-club strip, Central — loud, crowded, especially weekends" },
+          { icon: "MapPin", label: "Soho", value: "More relaxed bars and restaurants, walking distance from LKF" },
+          { icon: "MapPin", label: "Wan Chai", value: "Mixed local and expat bars, less tourist-dense than LKF" },
+          { icon: "Building", label: "Rooftop scene", value: "Growing across Central and Kowloon hotel towers, harbour views" },
+        ],
+        sections: [
+          {
+            title: "Lan Kwai Fong: The Obvious, Crowded Default",
+            content: "**Lan Kwai Fong (LKF)**, a tight cluster of streets in Central, is Hong Kong's best-known nightlife district by reputation, and on weekend nights it lives up to that reputation with a genuinely dense, loud, crowded bar-and-club scene that spills out onto the streets themselves. It's where most first-time visitors end up by default, and for a specific kind of high-energy, see-and-be-seen night out, it delivers exactly what the reputation promises.\n\nThe tradeoff is real crowding, inflated drink prices relative to elsewhere in the city, and an atmosphere that leans heavily toward a younger, louder crowd — if that's not the night you're after, it's worth knowing the alternatives covered below before defaulting here.",
+          },
+          {
+            title: "Soho: The Calmer Alternative Right Next Door",
+            content: "**Soho**, immediately adjacent to Lan Kwai Fong and connected via the Mid-Levels Escalator, offers a noticeably calmer version of the same general area — more restaurants and wine bars than clubs, a more international and slightly older crowd, and streets that don't get anywhere near as densely packed even on a Saturday night. It's the better choice for a conversation-friendly evening, a proper dinner followed by drinks, or anyone who wants to be near the LKF energy without being fully inside it.\n\nThe escalator itself, running late into the evening, makes moving between Soho and LKF (or down to Central generally) easy without needing a taxi for a short hop.",
+          },
+          {
+            title: "Wan Chai: Less Touristy, More Local Mix",
+            content: "**Wan Chai**, a short ride east of Central, holds a genuinely mixed nightlife scene — some streets lean toward a more local crowd and live-music bars, others carry a long-standing (and somewhat faded) reputation from its red-light-district history that's less prominent today than it once was. It's generally less saturated with tourists than Lan Kwai Fong, which some visitors prefer specifically for that reason, with drink prices often somewhat lower too.\n\nIt's a reasonable choice if you want nightlife with a more local flavor without needing to venture into less central, harder-to-reach neighborhoods.",
+          },
+          {
+            title: "Rooftop Bars: The Growing Third Option",
+            content: "Hong Kong's hotel towers, on both the Central and Kowloon sides, have built out a genuinely strong rooftop bar scene in recent years — paying a premium for a drink with a harbour or skyline view that neither LKF nor Soho can match from street level. These venues tend to skew toward a more polished, dress-code-enforced crowd and work well for an earlier-evening drink (sunset through the 8pm light show) before moving on somewhere livelier, rather than as a full night's destination given the higher prices and quieter atmosphere later on.\n\nFor a Hong Kong nightlife evening that covers the range, a reasonable sequence is: a rooftop drink at sunset, dinner in Soho, and LKF or Wan Chai afterward if more energy is wanted — treating the three as stages of an evening rather than mutually exclusive choices.",
+          },
+        ],
+        faqs: [
+          { q: "Is Lan Kwai Fong worth visiting?", a: "Yes, for a high-energy, crowded bar-and-club night out, which is exactly its reputation. If that's not the vibe you want, Soho next door or Wan Chai offer calmer, less tourist-dense alternatives." },
+          { q: "What's the difference between Lan Kwai Fong and Soho?", a: "They're adjacent, but LKF is denser, louder and more club-and-bar focused, while Soho leans toward restaurants and wine bars with a calmer, slightly older crowd." },
+          { q: "Where can I get a rooftop bar with a harbour view in Hong Kong?", a: "Several hotel towers on both the Central and Kowloon sides run rooftop bars with skyline or harbour views — best for an earlier evening drink around sunset rather than a full late night out." },
+          { q: "Is Wan Chai safe for a night out?", a: "Yes, generally — it carries a faded historical red-light-district reputation that's far less prominent today, and most of the area functions as an ordinary, somewhat more local-leaning nightlife district." },
+        ],
+      };
+
+    case "hong-kong-cantonese-opera-guide":
+      return {
+        title: "Cantonese Opera in Hong Kong: A Visitor's Guide 2026",
+        description: "Cantonese opera is a living, UNESCO-recognized art form still performed regularly in Hong Kong — here's where to see it, what to expect, and how to follow a performance as an outsider.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/780a1532697b1ffe23798f0e598de19e9c1fcca32c911cbd86b31a6eeb58b68d.png",
+        fastFacts: [
+          { icon: "Award", label: "UNESCO status", value: "Inscribed on the Intangible Cultural Heritage list since 2009" },
+          { icon: "MapPin", label: "Main venue", value: "Hong Kong Cultural Centre and temporary bamboo theatres" },
+          { icon: "Clock", label: "Performance length", value: "A full traditional performance can run 3+ hours" },
+          { icon: "Theater", label: "Style", value: "Elaborate costumes, painted faces, stylized singing in Cantonese" },
+        ],
+        sections: [
+          {
+            title: "A Living Art Form, Not a Museum Piece",
+            content: "**Cantonese opera** combines singing, stylized movement, martial arts and elaborate costume and makeup into a performance tradition that UNESCO recognized as part of humanity's Intangible Cultural Heritage in 2009 — but crucially, it's still actively performed, not preserved only in recordings or museum exhibits. Hong Kong remains one of the strongest living centers for the art form, with regular performances at dedicated venues and, distinctively, temporary bamboo theatres erected for specific festivals, particularly during the Hungry Ghost Festival and other traditional occasions.\n\nFor a visitor with even a passing interest, seeing a performance in a Hong Kong bamboo theatre — a genuinely striking piece of temporary architecture built without nails, specifically for a festival run — is a very different experience from a formal theatre setting and worth prioritizing if the timing of your trip happens to align with one.",
+          },
+          {
+            title: "Where to See It: Formal Venues",
+            content: "The **Hong Kong Cultural Centre** in Tsim Sha Tsui and the **Hong Kong Heritage Museum** in Sha Tin both host regular Cantonese opera performances and have dedicated exhibition space explaining the art form's history, costumes and instruments — the Heritage Museum's permanent Cantonese Opera gallery is a useful primer even if you don't catch a live performance during your visit. Smaller community centers and temples across the city also host performances tied to specific festivals or deity birthdays throughout the year, though these are less consistently scheduled and often require some local knowledge or a Cantonese-speaking contact to track down in advance.\n\nTicketed performances at the Cultural Centre are the most reliable way to guarantee seeing one during a planned trip, since bamboo-theatre performances depend on the festival calendar lining up with your dates.",
+          },
+          {
+            title: "What to Expect If You Don't Speak Cantonese",
+            content: "A full traditional performance can run **three hours or more**, structured around a small number of classical or newly written stories, often drawn from Chinese history and folklore, performed with elaborate painted-face makeup for certain character types and highly stylized, symbolic movement rather than naturalistic acting. Some formal venues provide English or Chinese subtitle screens for major performances, which makes a significant difference for a non-Cantonese-speaking visitor trying to follow the plot rather than just the spectacle.\n\nEven without understanding the dialogue, the visual craft — costumes, makeup, the live orchestra of traditional instruments, and the acrobatic martial-arts sequences in certain scenes — carries real value on its own; treat the language barrier as a limitation rather than a reason to skip it entirely.",
+          },
+          {
+            title: "A Shorter Introduction If a Full Performance Doesn't Fit Your Schedule",
+            content: "If a 3+ hour commitment doesn't fit your itinerary, the **Hong Kong Heritage Museum's** Cantonese Opera gallery offers a much shorter, self-paced introduction: costumes, instruments, backstage recreations and video excerpts that give a real sense of the art form in 30-45 minutes. Some cultural tour operators also run shorter, curated excerpt performances specifically aimed at visitors, cutting a highlights reel from a longer traditional piece rather than committing to the full runtime.\n\nEither approach gives genuine exposure to a UNESCO-recognized living tradition that most visitors to Hong Kong never encounter at all, which makes it a distinctive addition to a trip focused mainly on food, shopping and skyline views.",
+          },
+        ],
+        faqs: [
+          { q: "Is Cantonese opera still performed in Hong Kong?", a: "Yes — it's a living tradition, not a museum piece, with regular performances at the Hong Kong Cultural Centre and temporary bamboo theatres erected for specific festivals throughout the year." },
+          { q: "Do Cantonese opera performances have English subtitles?", a: "Some formal venue performances provide subtitle screens for major shows, which helps non-Cantonese speakers follow the plot. Bamboo-theatre festival performances are less consistently subtitled." },
+          { q: "How long does a Cantonese opera performance last?", a: "A full traditional performance can run three hours or more. Shorter, curated excerpt performances aimed at visitors are sometimes available through cultural tour operators." },
+          { q: "Where can I learn about Cantonese opera without attending a full performance?", a: "The Hong Kong Heritage Museum in Sha Tin has a dedicated permanent Cantonese Opera gallery with costumes, instruments and video excerpts — a solid 30-45 minute introduction." },
+        ],
+      };
+
+    case "hong-kong-7-day-itinerary":
+      return {
+        title: "The Perfect 7-Day Hong Kong Itinerary (2026): A Full Week, Done Right",
+        description: "A week in Hong Kong is enough to cover the city core, Lantau Island properly, a Macau day trip, and genuinely slower, off-the-main-track days — here's how to structure it.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/780a1532697b1ffe23798f0e598de19e9c1fcca32c911cbd86b31a6eeb58b68d.png",
+        sections: [
+          {
+            title: "Days 1-3: The Core, As Covered in Our 3-Day Itinerary",
+            content: "Spend your first three days as laid out in our dedicated 3-day itinerary: Day 1 on Hong Kong Island covering the Peak Tram, dim sum and the Star Ferry; Day 2 on Lantau Island for the Big Buddha, Ngong Ping 360 cable car and Tai O; Day 3 in Kowloon's markets, finishing at Temple Street Night Market. This gets the headline sights out of the way efficiently and leaves the remaining four days for depth and pace that a shorter trip can't accommodate.",
+            tourCard: { slug: "premium-lantau-tour-vip-cable-car-big-buddha-tai", title: "Premium Lantau Tour: VIP Cable Car, Big Buddha, Tai O, Lunch", description: "The full Lantau day in one booking, covering the cable car, Big Buddha, Tai O and lunch.", price: "From $224", duration: "7 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9245ae2573acd2bdc4fbcf85d76ae21ffbe9e4222855c692577cd7c011c4c735.jpg" },
+          },
+          {
+            title: "Day 4: Macau",
+            content: "Dedicate day four to a **Macau day trip** — roughly an hour each way by high-speed ferry, giving a full day in the UNESCO-listed old town, the Ruins of St. Paul's, and either the casinos or more historic-centre wandering depending on your interest. See our dedicated Macau guide for ferry logistics and what to prioritize once there; treat it as a clean, self-contained day rather than trying to combine it with anything else given the ferry and immigration time on both ends.",
+            tourCard: { slug: "from-hong-kong-macau-day-tour-with-ferry-lunch", title: "From Hong Kong: Macau Day Tour with Ferry, Lunch, Pickup", description: "Ferry, lunch and a guided Macau day bundled together with hotel pickup — the simplest way to handle a day trip's logistics.", price: "From $272", duration: "10 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cf36bb0e528532d27f1d1bcac310f881664fa4a95f405c4f7a9519d0bb7058c2.jpg" },
+          },
+          {
+            title: "Day 5: Museums and West Kowloon Cultural District",
+            content: "Use day five for the museum side of the city — **M+** and the **Hong Kong Palace Museum** in West Kowloon, paired with the waterfront promenade and, if timing allows, **Sky100** for a different skyline angle looking back at Hong Kong Island. This is a good lower-intensity day after the Macau trip, mostly indoors and air-conditioned with manageable walking distances between the cultural district's main sites.",
+          },
+          {
+            title: "Day 6: Sai Kung or a Slower, Local Day",
+            content: "By day six, most visitors have covered the obvious highlights and benefit from a genuinely different pace. **Sai Kung**, in the eastern New Territories, offers hiking, beaches and seafood far from the tourist core — a legitimate full day for anyone with even moderate interest in the outdoors. Alternatively, use this day for neighborhoods you've only passed through so far: Sham Shui Po's local markets, a proper look at Wan Chai, or simply a slower repeat visit to whichever district most caught your interest earlier in the week.",
+          },
+          {
+            title: "Day 7: Wrap-Up and Whatever Got Missed",
+            content: "Reserve your final day as flex time — a second visit to the Peak at a different time of day for different light, a dim sum restaurant you didn't make it to, last-minute shopping in Causeway Bay, or simply resting before a flight. A full week leaves enough slack that nothing has to be perfectly scheduled; the main risk with 7 days is over-planning rather than running out of things to do.",
+          },
+        ],
+        faqs: [
+          { q: "Is 7 days too long for Hong Kong?", a: "No — a week comfortably covers the city core, a full Lantau Island day, a Macau day trip, the West Kowloon museums, and at least one slower, off-the-main-track day like Sai Kung, without feeling rushed anywhere." },
+          { q: "Should I add Macau to a 7-day Hong Kong trip?", a: "Yes — a week gives enough slack to dedicate a full day to Macau without displacing anything else, unlike a shorter 3-day trip where it competes directly with Lantau or Kowloon time." },
+          { q: "What should I do on a 7-day trip that a 3-day trip skips?", a: "Macau, the West Kowloon museums (M+ and the Hong Kong Palace Museum), and a slower outdoor day like Sai Kung hiking are the three additions a week allows that a 3-day itinerary typically can't fit." },
+        ],
+      };
+
+    case "hong-kong-budget-travel-guide":
+      return {
+        title: "Hong Kong on a Budget 2026: How to Do It Cheap Without Missing the Highlights",
+        description: "Hong Kong has a reputation as an expensive city, but its best experiences — the Star Ferry, the tram, street food, hiking — are genuinely cheap. Here's how to keep costs down.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1adedc55131203d80fbc40423126d42070bc78cfe083f583f7d5741c5b8626a7.jpeg",
+        fastFacts: [
+          { icon: "DollarSign", label: "Cheapest harbour view", value: "Star Ferry crossing, under HK$5" },
+          { icon: "DollarSign", label: "Cheapest city transport", value: "Hong Kong Tramways flat fare, HK$3" },
+          { icon: "Utensils", label: "Cheap, good food", value: "Cha chaan tengs and siu mei roast meat shops" },
+          { icon: "Mountain", label: "Free attractions", value: "Dragon's Back and most hiking trails, Nightly light show" },
+        ],
+        sections: [
+          {
+            title: "Hong Kong's Reputation for Expense Is Mostly About Hotels, Not Activities",
+            content: "Hong Kong's cost-of-living reputation comes largely from its hotel and real-estate prices, not from the cost of actually doing and eating things day to day — many of the city's single best experiences are genuinely cheap. A Star Ferry crossing costs under HK$5, the historic tram runs a flat HK$3 fare regardless of distance, and the nightly Symphony of Lights show over the harbour is entirely free to watch from the Tsim Sha Tsui or Central promenade.\n\nThe real budget lever, if accommodation costs are a concern, is staying slightly outside the most central districts (Kowloon generally runs cheaper than Hong Kong Island's core) and leaning on the efficient, inexpensive public transport network rather than taxis.",
+          },
+          {
+            title: "Eating Cheap Without Eating Badly",
+            content: "**Cha chaan tengs** are the single best budget-food move in the city — a full meal with a drink rarely costs more than a casual fast-food order elsewhere, and the food is genuinely good, not a compromise. **Siu mei** shops selling sliced roast meats over rice offer a similarly fast, cheap, satisfying meal, and dim sum, while it can run expensive at the fanciest restaurants, has plenty of no-frills, locally-oriented options at a fraction of the hotel-restaurant price.\n\nStreet snacks — curry fish balls, egg waffles, roasted chestnuts in cooler months — round out genuinely cheap eating between meals, and tipping culture here (a built-in 10% service charge at most restaurants, with further tipping optional rather than expected) means you're not padding the bill further than the menu price suggests.",
+          },
+          {
+            title: "Free and Near-Free Activities",
+            content: "Hiking is entirely free and genuinely world-class relative to the cost: the **Dragon's Back** trail on Hong Kong Island's south side and sections of the Lantau Trail or MacLehose Trail near Sai Kung cost nothing beyond transport to the trailhead. The **Octopus card** (see our dedicated guide) keeps transport costs low and predictable across the whole trip, and several government museums charge only nominal fees or are free on certain days.\n\nThe **Mid-Levels Escalator** in Central, a functional piece of transit infrastructure, is also a legitimately interesting, entirely free thing to ride through SoHo and Central's hillside streets, and temples like Wong Tai Sin Temple are free to enter, with only the adjoining garden charging a small fee.",
+          },
+          {
+            title: "Where Not to Cut Corners",
+            content: "A few things are worth paying for even on a tight budget: the **Peak Tram** and **Big Buddha cable car** are genuine, singular experiences rather than easily substituted sights, and skipping them to save a relatively modest ticket fee tends to be regretted more than most other cost cuts. Booking tickets in advance for these, rather than paying premium walk-up or skip-the-line prices on the day, is the smarter budget move than skipping the attraction entirely.\n\nSimilarly, the Octopus card's small upfront cost (HK$39 for the tourist version) pays for itself quickly in convenience and avoided ticket-machine queuing across even a short multi-day trip.",
+          },
+        ],
+        faqs: [
+          { q: "Is Hong Kong an expensive city to visit?", a: "Hotels and shopping can be expensive, but the core sightseeing experiences — the Star Ferry, the tram, hiking trails, street food — are genuinely cheap. Overall trip cost depends heavily on accommodation choices more than activities." },
+          { q: "What is the cheapest way to see Hong Kong's harbour?", a: "The Star Ferry crossing, under HK$5 one way, remains the best-value harbour view in the city." },
+          { q: "What is the cheapest good food in Hong Kong?", a: "Cha chaan tengs (Hong Kong-style diners) and siu mei roast meat shops both offer full, satisfying meals at close to fast-food prices." },
+          { q: "Are there free things to do in Hong Kong?", a: "Yes — hiking trails like Dragon's Back, the nightly Symphony of Lights show, the Mid-Levels Escalator, and most temples are entirely free." },
+        ],
+      };
+
+    case "hong-kong-luxury-travel-guide":
+      return {
+        title: "Hong Kong Luxury Travel Guide 2026: How to Do the City at the Top End",
+        description: "From harbour-view suites and Michelin-starred dim sum to private junk charters and the Ruby Special Peak Tram experience, here's how Hong Kong's high end actually works.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e5f8ade148fd775fd2803eaba29a102d35124f5c1a5d05081c9a2ed202a48d0a.jpg",
+        fastFacts: [
+          { icon: "Star", label: "Classic luxury stay", value: "The Peninsula Hong Kong — colonial-era flagship, open since 1928" },
+          { icon: "Utensils", label: "Fine dining dim sum", value: "Multiple Michelin-starred dim sum restaurants, a genuine Hong Kong specialty" },
+          { icon: "Sailboat", label: "Private experience", value: "Private junk boat charters out to the outlying islands" },
+          { icon: "Ticket", label: "Peak Tram premium", value: "Ruby Special — priority boarding, dedicated car, welcome drink" },
+        ],
+        sections: [
+          {
+            title: "Where to Stay: Harbour Views Are the Real Luxury",
+            content: "Hong Kong's top hotels compete most directly on **harbour views** — a room with a direct, unobstructed outlook over Victoria Harbour, ideally positioned to catch the nightly Symphony of Lights from your own window, commands a genuine premium over an equivalent room without one, and most visitors who've paid for it describe it as worth it precisely because the view is the city's single best, most repeatable asset. The **Peninsula Hong Kong**, the colonial-era flagship open since 1928, remains the classic choice on the Kowloon side, with its own fleet of Rolls-Royce cars for airport transfers and the lobby's famous afternoon tea service.\n\nNewer luxury towers on both sides of the harbour compete on more contemporary design and amenities — infinity pools, higher floors, more minimalist interiors — but the fundamental value proposition across the top tier remains the same: pay for the view and the service, since Hong Kong's density means a mediocre room location genuinely diminishes the experience more than in a sprawling, lower-rise city.",
+          },
+          {
+            title: "Fine Dining: Michelin-Starred Dim Sum and Beyond",
+            content: "One of Hong Kong's genuine luxury-dining distinctions is how many **Michelin-starred restaurants serve dim sum** specifically, elevating a traditionally casual, affordable meal format into a fine-dining experience with premium ingredients (abalone, lobster, truffle) worked into classic dumpling and bun formats. This is worth seeking out specifically because it's a genuinely Hong Kong twist on luxury dining rather than an imported Western fine-dining template — few other cities apply this level of culinary ambition to dim sum as a category.\n\nBeyond dim sum, Hong Kong's fine-dining scene spans a genuine range of Cantonese, broader Chinese regional, and international cuisines at the top end, frequently paired with the same harbour views that define the hotel market — many of the city's best tables sit in hotel towers specifically to leverage that view alongside the food.",
+          },
+          {
+            title: "Private and Premium Experiences",
+            content: "A **private junk boat charter** — booking an entire traditional-style vessel rather than joining a shared tour — opens up a slower, more flexible day around the outlying islands, with full control over timing, swim stops and route, typically with catering included. This is a popular choice for groups wanting a genuinely private day on the water rather than a shared tour schedule.\n\nFor the Peak Tram specifically, the **Ruby Special** ticket tier (around HK$342 per adult) includes priority boarding that skips the general queue entirely, a dedicated tram car, a welcome drink, and express Sky Terrace access — a legitimate way to buy back time during peak season when the standard queue can run well over an hour, and the kind of small premium that genuinely changes the experience rather than just the price.",
+            tourCard: { slug: "hong-kong-city-highlights-tour-with-peak-tram-ride", title: "Hong Kong: City Highlights Tour with Peak Tram Ride", description: "A guided, pre-arranged Peak Tram experience that removes the ticket-counter and queue hassle entirely.", price: "From $129", duration: "3.5 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5196545510eb1c4bad8b7f6e41d941809ee7398f82fe41fef3cdf72211b1aa7e.jpg" },
+          },
+          {
+            title: "Private Guides and Skip-the-Line Access",
+            content: "Across almost every major Hong Kong attraction — the Peak Tram, the Big Buddha cable car, M+ — private guided tours with pre-booked, skip-the-line or priority access are available at a premium over standard shared tours, and on a time-constrained luxury trip, these are usually worth the extra cost purely for the time saved during peak season queues. A dedicated private guide also opens up a more customized day than a fixed shared-group itinerary allows, which matters more in a dense city like Hong Kong where logistics between neighborhoods can eat into a day faster than expected.\n\nFor shopping specifically, several luxury malls in Central offer by-appointment personal shopping services at their flagship stores — worth arranging ahead if a specific high-demand item or a dedicated styling session is the goal.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best luxury hotel in Hong Kong?", a: "The Peninsula Hong Kong is the classic choice, open since 1928 with its own Rolls-Royce fleet and famous afternoon tea. Newer luxury towers on both sides of the harbour compete on more contemporary design, but a harbour view is the consistent premium feature across the top tier." },
+          { q: "Why does Hong Kong have Michelin-starred dim sum?", a: "Several Hong Kong restaurants apply fine-dining ingredients and technique to the traditionally casual dim sum format, elevating dumplings and buns with premium ingredients — a distinctly Hong Kong take on luxury dining." },
+          { q: "What is the Ruby Special Peak Tram ticket?", a: "A premium Peak Tram tier (around HK$342/adult) with priority boarding that skips the general queue, a dedicated tram car, a welcome drink and express Sky Terrace access." },
+          { q: "Is a private junk boat charter worth it in Hong Kong?", a: "For groups wanting full control over timing and route around the outlying islands, yes — it trades the cost premium of a shared tour for genuine flexibility and privacy." },
+        ],
+      };
+
+    case "hong-kong-rainy-day-activities":
+      return {
+        title: "Hong Kong Rainy Day Guide 2026: What to Do When the Weather Doesn't Cooperate",
+        description: "Hong Kong's humid, rain-prone climate means a washed-out day is a real possibility on any trip — here's a genuinely good backup plan, not just 'go to a mall'.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/238b5465b7fe6311243810dfcdc5da07c8c7341098818628dc4e91ead1c8c84b.jpg",
+        fastFacts: [
+          { icon: "CloudRain", label: "Rainiest months", value: "May through September, overlapping typhoon season" },
+          { icon: "Building", label: "Best indoor view", value: "Sky100 observation deck — fully indoor, still delivers a skyline view" },
+          { icon: "Landmark", label: "Museum options", value: "M+, Hong Kong Museum of History, Hong Kong Science Museum" },
+          { icon: "Utensils", label: "Easy fallback", value: "A long dim sum or cha chaan teng meal — indoor, unhurried, no weather dependency" },
+        ],
+        sections: [
+          {
+            title: "Swap the Peak Tram for Sky100",
+            content: "If rain or heavy haze ruins the Peak Tram's outdoor appeal, **Sky100**, the fully indoor observation deck in the ICC tower on the Kowloon side, delivers a comparable skyline-view experience without any outdoor exposure — floor-to-ceiling windows mean the view is often still reasonably clear even in moderate rain, and the whole visit stays under an hour. See our dedicated Victoria Peak vs Sky100 comparison for how the two actually differ beyond the weather factor.",
+          },
+          {
+            title: "Museums: A Genuinely Strong Rainy-Day Lineup",
+            content: "Hong Kong's museum scene is strong enough to fill an entire rainy day without feeling like a consolation plan. **M+** in West Kowloon covers contemporary art and design at a scale matched by few museums in Asia; the **Hong Kong Museum of History** gives real context on the city's colonial and wartime past in a fully indoor, air-conditioned setting; and the **Hong Kong Science Museum**, hands-on and family-friendly, works well if traveling with kids who've had enough of being told to look rather than touch.\n\nAll three sit within reasonable MTR distance of each other on the Kowloon side, making a two-museum day entirely feasible without excessive transit time between them.",
+          },
+          {
+            title: "Shopping Malls Done Right, Not as a Last Resort",
+            content: "Malls get dismissed as the boring rainy-day default, but Hong Kong's better ones are genuinely worth treating as a destination rather than a fallback: **IFC Mall** in Central connects directly to the Airport Express and MTR without stepping outside, pairs retail with harbour-view dining, and sits a short covered walk from the Star Ferry pier if the rain lets up. **K11 Musea** in Tsim Sha Tsui blends retail with rotating art installations and a genuinely well-designed interior that rewards unhurried wandering rather than a quick in-and-out.\n\nBoth let you string together shopping, a meal and even a harbour view entirely under cover, which is the real rainy-day skill in a city built as vertically and densely as Hong Kong.",
+          },
+          {
+            title: "A Long, Unhurried Meal Is Underrated as a Weather Plan",
+            content: "When the alternative is slogging around outdoor sightseeing in the rain, a deliberately long, unhurried **dim sum lunch** or a leisurely afternoon tea becomes a genuinely good use of a rainy afternoon rather than a consolation activity — order in rounds, linger over tea, and let the meal stretch out longer than you normally would. See our dedicated dim sum and afternoon tea guides for how to do either properly rather than rushing through either as filler.\n\nIndoor food halls inside Hong Kong's bigger malls also work well here, offering enough variety to turn 'waiting out the rain' into an actual food-exploration afternoon rather than dead time.",
+            tourCard: { slug: "hong-kong-small-group-dim-sum-lunch-with-30", title: "Hong Kong: Small-Group Dim Sum Lunch with 30+ Items", description: "A guided, unhurried dim sum tasting lunch — a genuinely good rainy-day plan rather than a consolation activity.", price: "From $1105", duration: "2.5 hours", rating: "4.8", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/238b5465b7fe6311243810dfcdc5da07c8c7341098818628dc4e91ead1c8c84b.jpg" },
+          },
+        ],
+        faqs: [
+          { q: "What should I do in Hong Kong if it rains?", a: "Swap the Peak Tram for the fully indoor Sky100 observation deck, spend the day at M+ or the Hong Kong Museum of History, or treat a mall like IFC Mall or K11 Musea as a proper destination rather than a last resort." },
+          { q: "When is Hong Kong's rainy season?", a: "Roughly May through September, overlapping with typhoon season (also May-November), with the heaviest and most frequent rain concentrated in the summer months." },
+          { q: "Is Sky100 a good alternative to the Peak Tram in bad weather?", a: "Yes — it's fully indoor and still delivers a genuine skyline view, unlike the Peak Tram's outdoor terrace element, which loses most of its appeal in rain or heavy haze." },
+          { q: "Are Hong Kong malls worth visiting as an activity, not just shelter from rain?", a: "The better ones, yes — IFC Mall and K11 Musea in particular combine retail with harbour views or art installations well enough to be a legitimate destination rather than just a rain shelter." },
+        ],
+      };
+
+    case "ocean-park-vs-disneyland-hong-kong":
+      return {
+        title: "Ocean Park vs Hong Kong Disneyland: Which Theme Park Is Right for You",
+        description: "Hong Kong has two major theme parks with genuinely different identities — Disneyland's character-driven rides versus Ocean Park's animals and thrill rides. Here's how to pick, or whether to do both.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c164053dede917013a86e81394967aed912e526c8639d6b67c477d1f04c7f0c.jpg",
+        fastFacts: [
+          { icon: "Castle", label: "Hong Kong Disneyland", value: "Smallest global Disney park, character-driven rides, Lantau Island" },
+          { icon: "Fish", label: "Ocean Park", value: "Marine life, animal exhibits plus thrill rides, Hong Kong Island's south side" },
+          { icon: "Users", label: "Best for Disneyland", value: "Younger kids, first-time Disney visitors, families wanting a lower-stress day" },
+          { icon: "Zap", label: "Best for Ocean Park", value: "Older kids and thrill-ride fans, animal and marine-life interest" },
+        ],
+        sections: [
+          {
+            title: "They're Not Really Competing for the Same Visitor",
+            content: "It's tempting to frame **Hong Kong Disneyland** and **Ocean Park** as rivals selling the same day out, but they're built around genuinely different experiences. Disneyland leans entirely on character-driven storytelling, classic rides and parades — the identity is unmistakably Disney, scaled down from the bigger US and Japan parks into something more manageable in a single day. **Ocean Park** splits its identity between a marine-life and conservation-focused side (aquariums, panda exhibits, animal shows) and a genuine thrill-ride side with roller coasters and a cable car and funicular connecting its two main areas across a hillside.\n\nFamilies with young children generally default to Disneyland for its gentler pacing and recognizable characters; families with older kids or anyone who specifically wants roller coasters and animal exhibits over character meet-and-greets tend to prefer Ocean Park.",
+          },
+          {
+            title: "Hong Kong Disneyland: Compact and Character-Driven",
+            content: "As the smallest of the global Disney resorts, Hong Kong Disneyland's main advantage is that it's genuinely doable as a single, unhurried day — fewer lands and attractions than Disneyland California or Tokyo Disneyland means less walking, shorter overall queue time, and a lower risk of the exhaustion a bigger park can produce in young children. The dedicated Disneyland Resort Line MTR, with its Mickey-themed train windows, and add-ons like the Bibbidi Bobbidi Boutique princess makeover round out an experience that's specifically tuned for families rather than thrill-seekers.\n\nFor travelers without kids, or those who've been to a bigger Disney park elsewhere, Hong Kong's version offers comparatively less novelty — weigh it against Lantau Island's other attractions (the Big Buddha, Ngong Ping 360, Tai O) covered in our things-to-do guide, since they occupy similar territory on the same island.",
+            tourCard: { slug: "hong-kong-disneyland-bibbidi-bobbidi-boutique", title: "Hong Kong Disneyland: Bibbidi Bobbidi Boutique Package", description: "Park entry with the popular princess makeover experience — best suited to families with younger children.", price: "From $113", duration: "2.5 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c164053dede917013a86e81394967aed912e526c8639d6b67c477d1f04c7f0c.jpg" },
+          },
+          {
+            title: "Ocean Park: Animals, Thrills and a Hillside Setting",
+            content: "Ocean Park's dual identity is its main differentiator: on one side, aquariums, a giant panda exhibit and marine conservation-focused shows; on the other, a genuine roller-coaster and thrill-ride lineup that skews toward older kids, teens and adults who want more adrenaline than Disneyland's family-paced rides provide. The park is built across a hillside on Hong Kong Island's south side, and the cable car and funicular connecting its upper and lower sections are attractions in their own right, giving views over the South China Sea that neither Disneyland nor most other Hong Kong attractions match.\n\nThis makes Ocean Park a stronger single choice for families with a wider age range — older kids and teens get real thrill rides while younger ones and less adventurous visitors can spend the day on the animal and aquarium side without feeling shortchanged.",
+          },
+          {
+            title: "Can You Do Both, and Should You?",
+            content: "On a longer trip (4+ days), doing both parks on separate days is entirely reasonable and genuinely non-redundant, given how differently they're built. On a shorter 2-3 day trip, choosing one over the other usually makes more sense than splitting limited time between two theme-park days when Lantau's Big Buddha, Hong Kong Island's Peak, and Kowloon's markets are competing for the same days.\n\nIf forced to choose on a short trip: pick Disneyland for younger-skewing families prioritizing a calm, recognizable experience; pick Ocean Park for families with a wider age spread, thrill-ride interest, or a stronger pull toward animals and marine life over character-driven storytelling.",
+          },
+        ],
+        faqs: [
+          { q: "Which is better, Ocean Park or Hong Kong Disneyland?", a: "Depends on the group: Disneyland suits younger kids and a calmer, character-driven day; Ocean Park suits older kids, thrill-ride fans, and anyone drawn to animal and marine-life exhibits over Disney characters." },
+          { q: "Can you visit both Ocean Park and Disneyland in one Hong Kong trip?", a: "Yes, comfortably on a 4+ day trip as two separate days. On a shorter 2-3 day trip, most visitors pick one rather than splitting time between both theme parks." },
+          { q: "Is Ocean Park good for thrill-ride fans?", a: "Yes — it has a genuine roller-coaster and thrill-ride lineup on one side of the park, distinct from its marine-life and animal-exhibit side, skewing toward older kids, teens and adults." },
+          { q: "Is Hong Kong Disneyland worth it if I've been to a bigger Disney park?", a: "Less novel for repeat Disney visitors, since it's the smallest global park — consider weighing the day against Lantau Island's other attractions like the Big Buddha and Ngong Ping 360 instead." },
+        ],
+      };
+
     default:
       return null;
   }
