@@ -50928,13 +50928,13 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ambuluwawa-Turm, Pinnawala und Kandy: Tagestour ab Negombo",
   "metaDescription": "Ein ganztaegigeer Ausflug ab Kandy, der Pinnawala, Ambuluwawa Tower, The Tea Factory & The Tea Museum und Temple of the Sacred Tooth Relic besucht. Angeboten von ...",
   "shortDescription": "Ein ganztaegigeer Ausflug ab Kandy, der Pinnawala, Ambuluwawa Tower, The Tea Factory & The Tea Museum und Temple of the Sacred Tooth Relic besucht. Angeboten von Cadyshack Taxis (Pvt) Ltd.",
-  "fullDescription": "Ein ganztaegigeer Ausflug ab Kandy, der Pinnawala, Ambuluwawa Tower, The Tea Factory & The Tea Museum und Temple of the Sacred Tooth Relic umfasst. Der laengste Halt ist Pinnawala, mit etwa 1 Stunde. Es gibt insgesamt 7 Stopps.\n\nDie Reihenfolge ist Pinnawala (1h), dann Ambuluwawa Tower, dann The Tea Factory & The Tea Museum, dann Temple of the Sacred Tooth Relic, dann Kandy Lake Club.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, transport in einem privaten klimatisierten Fahrzeug, wasserflasche und alle Steuern und Gebuehren. Nicht enthalten sind 1. Eintrittsgebuehren fuer den Ambuluwawa-Turm (Eintrittskarte 2750 LKR pro Person und 1500 LKR fuer das Tuk-Tuk), 2. Eintrittsgebuehr fuer den Zahnreliquien-Tempel (Eintrittskarte 2000 LKR pro Person) und 3. Eintrittsgebuehr fuer den Koeniglichen Botanischen Garten (Eintrittskarte 3750 LKR und 2250 LKR fuer das Elektrofahrzeug), dafuer sollten Sie zusaetzlich budgetieren.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Kandy, der Pinnawala, Ambuluwawa Tower, The Tea Factory & The Tea Museum und Temple of the Sacred Tooth Relic umfasst. Der laengste Halt ist Pinnawala, mit etwa 1 Stunde. Es gibt insgesamt 7 Stopps.\n\nDie Reihenfolge ist Pinnawala (1h), dann Ambuluwawa Tower, dann The Tea Factory & The Tea Museum, dann Temple of the Sacred Tooth Relic, dann Kandy Lake Club.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, transport mit privatem klimatisiertem Fahrzeug, wasserflasche und alle Steuern und Gebuehren. Nicht enthalten sind 1. Eintrittsgebuehren fuer den Ambuluwawa-Turm (Eintrittskarte 2750 LKR pro Person und 1500 LKR fuer das Tuk-Tuk), 2. Eintrittsgebuehr fuer den Zahnreliquien-Tempel (Eintrittskarte 2000 LKR pro Person) und 3. Eintrittsgebuehr fuer den Koeniglichen Botanischen Garten (Eintrittskarte 3750 LKR und 2250 LKR fuer das Elektrofahrzeug), dafuer sollten Sie zusaetzlich budgetieren.",
   "highlights": [
    "Ein ganztaegigeer Ausflug ab Kandy, der Pinnawala, Ambuluwawa Tower, The Tea Factory & The Tea Museum und Temple of the Sacred Tooth Relic besucht. Angeboten von Cadyshack Taxis (Pvt) Ltd."
   ],
   "included": [
    "Hotelabholung und Rueckfahrt",
-   "Transport in einem privaten klimatisierten Fahrzeug",
+   "Transport mit privatem klimatisiertem Fahrzeug",
    "Wasserflasche",
    "Alle Steuern und Gebuehren"
   ],
@@ -51213,13 +51213,13 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Kandy, Pinnawala und Teefabrik: ganztaegige Tour ab Colombo",
   "metaDescription": "ganztaegigees Erlebnis in Colombo. . Angeboten von Cadyshack Taxis (Pvt) Ltd.",
   "shortDescription": "ganztaegigees Erlebnis in Colombo. . Angeboten von Cadyshack Taxis (Pvt) Ltd.",
-  "fullDescription": "Ein ganztaegigees Erlebnis in Colombo. Tour a tea factory & tea estate.\n\nCadyshack Taxis (Pvt) Ltd fuehrt es durch, und 4 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, transport in einem privaten klimatisierten Fahrzeug, wasserflasche und alle Steuern und Gebuehren. Nicht enthalten sind eintrittsgebuehr fuer den Zahnreliquien-Tempel, eintrittsgebuehr fuer den Koeniglichen Botanischen Garten und eintrittsgebuehr fuer die Millennium Foundation in Pinnawala, dafuer sollten Sie zusaetzlich budgetieren.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Colombo. Tour a tea factory & tea estate.\n\nCadyshack Taxis (Pvt) Ltd fuehrt es durch, und 4 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, transport mit privatem klimatisiertem Fahrzeug, wasserflasche und alle Steuern und Gebuehren. Nicht enthalten sind eintrittsgebuehr fuer den Zahnreliquien-Tempel, eintrittsgebuehr fuer den Koeniglichen Botanischen Garten und eintrittsgebuehr fuer die Millennium Foundation in Pinnawala, dafuer sollten Sie zusaetzlich budgetieren.",
   "highlights": [
    "ganztaegigees Erlebnis in Colombo. . Angeboten von Cadyshack Taxis (Pvt) Ltd."
   ],
   "included": [
    "Hotelabholung und Rueckfahrt",
-   "Transport in einem privaten klimatisierten Fahrzeug",
+   "Transport mit privatem klimatisiertem Fahrzeug",
    "Wasserflasche",
    "Alle Steuern und Gebuehren"
   ],
@@ -52333,12 +52333,12 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Kalutara/Bentota/Kosgoda/Ahungalla/Hikkaduwa: Yala-Safari",
   "metaDescription": "ganztaegigees Erlebnis in Bentota. . Angeboten von Ceylon Nature Tours.",
   "shortDescription": "ganztaegigees Erlebnis in Bentota. . Angeboten von Ceylon Nature Tours.",
-  "fullDescription": "Ein ganztaegigees Erlebnis in Bentota. View leopards in the wild.\n\nCeylon Nature Tours fuehrt es durch, und 4 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet transport in einem privaten klimatisierten Fahrzeug, hotelabholung und Rueckfahrt im Gebiet Kalutara/Bentota/Beruwala/Kosgoda/Ahungalla/Hikkaduwa, jeep-Safari und autobahngebuehren. Nicht enthalten sind eintrittsgebuehren (43 USD pro Person) und essen und Getraenke, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 440 $ statt 440 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Bentota. View leopards in the wild.\n\nCeylon Nature Tours fuehrt es durch, und 4 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet transport mit privatem klimatisiertem Fahrzeug, hotelabholung und Rueckfahrt im Gebiet Kalutara/Bentota/Beruwala/Kosgoda/Ahungalla/Hikkaduwa, jeep-Safari und autobahngebuehren. Nicht enthalten sind eintrittsgebuehren (43 USD pro Person) und essen und Getraenke, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 440 $ statt 440 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "ganztaegigees Erlebnis in Bentota. . Angeboten von Ceylon Nature Tours."
   ],
   "included": [
-   "Transport in einem privaten klimatisierten Fahrzeug",
+   "Transport mit privatem klimatisiertem Fahrzeug",
    "Hotelabholung und Rueckfahrt im Gebiet Kalutara/Bentota/Beruwala/Kosgoda/Ahungalla/Hikkaduwa",
    "Jeep-Safari",
    "Autobahngebuehren"
@@ -52689,12 +52689,12 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Kalutara/Bentota/Kosgoda/Ahungalla/Hikkaduwa: Yala-Safari",
   "metaDescription": "ganztaegigees Erlebnis in Bentota. . Angeboten von Ceylon Nature Tours.",
   "shortDescription": "ganztaegigees Erlebnis in Bentota. . Angeboten von Ceylon Nature Tours.",
-  "fullDescription": "Ein ganztaegigees Erlebnis in Bentota. View leopards in the wild.\n\nCeylon Nature Tours fuehrt es durch, und 5 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet transport in einem privaten klimatisierten Fahrzeug, hotelabholung und Rueckfahrt im Gebiet Kalutara/Bentota/Beruwala/Kosgoda/Ahungalla/Hikkaduwa, jeep-Safari und autobahngebuehren. Nicht enthalten sind eintrittsgebuehren (43 USD pro Person) und essen und Getraenke, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 415 $ statt 394 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Bentota. View leopards in the wild.\n\nCeylon Nature Tours fuehrt es durch, und 5 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet transport mit privatem klimatisiertem Fahrzeug, hotelabholung und Rueckfahrt im Gebiet Kalutara/Bentota/Beruwala/Kosgoda/Ahungalla/Hikkaduwa, jeep-Safari und autobahngebuehren. Nicht enthalten sind eintrittsgebuehren (43 USD pro Person) und essen und Getraenke, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 415 $ statt 394 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "ganztaegigees Erlebnis in Bentota. . Angeboten von Ceylon Nature Tours."
   ],
   "included": [
-   "Transport in einem privaten klimatisierten Fahrzeug",
+   "Transport mit privatem klimatisiertem Fahrzeug",
    "Hotelabholung und Rueckfahrt im Gebiet Kalutara/Bentota/Beruwala/Kosgoda/Ahungalla/Hikkaduwa",
    "Jeep-Safari",
    "Autobahngebuehren"
@@ -53525,7 +53525,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Kandy: private Stadttour im Tuk-Tuk mit lokalem Erlebnis",
   "metaDescription": "halbtaegigees Erlebnis in Kandy. . Angeboten von Dinesh Perera.",
   "shortDescription": "halbtaegigees Erlebnis in Kandy. . Angeboten von Dinesh Perera.",
-  "fullDescription": "Ein halbtaegigees Erlebnis in Kandy. Drive through the city of Kandy with your local guide on a tuk-tuk.\n\nDinesh Perera fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, privater Guide/Fahrer, anpassbare Reiseroute und besuch der Asgiriya-Stupa (kostenloser Eintritt). Nicht enthalten sind eintrittskarten fuer Attraktionen und essen und Getraenke (Mittagessen nicht inklusive), dafuer sollten Sie zusaetzlich budgetieren.",
+  "fullDescription": "Ein halbtaegigees Erlebnis in Kandy. Drive through the city of Kandy with your local guide on a tuk-tuk.\n\nDinesh Perera fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, privater Guide/Fahrer, anpassbare Reiseroute und besuch der Asgiriya-Stupa (freier Eintritt). Nicht enthalten sind eintrittskarten fuer Attraktionen und essen und Getraenke (Mittagessen nicht inklusive), dafuer sollten Sie zusaetzlich budgetieren.",
   "highlights": [
    "halbtaegigees Erlebnis in Kandy. . Angeboten von Dinesh Perera."
   ],
@@ -53533,7 +53533,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Hotelabholung und Rueckfahrt",
    "Privater Guide/Fahrer",
    "Anpassbare Reiseroute",
-   "Besuch der Asgiriya-Stupa (kostenloser Eintritt)"
+   "Besuch der Asgiriya-Stupa (freier Eintritt)"
   ],
   "notIncluded": [
    "Eintrittskarten fuer Attraktionen",
@@ -59181,7 +59181,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Sri Lanka: 5-Tage-Privatpaket mit 3-Sterne-Hotels und Mahlzeiten",
   "metaDescription": "5-taegigees Erlebnis in Colombo. . Angeboten von Nelum Holidays and Tours (Pvt) Ltd.",
   "shortDescription": "5-taegigees Erlebnis in Colombo. . Angeboten von Nelum Holidays and Tours (Pvt) Ltd.",
-  "fullDescription": "Ein 5-taegigees Erlebnis in Colombo. Experience All of Sri Lanka in just 5 days with Hotels, Meals & Private Car.\n\nNelum Holidays and Tours (Pvt) Ltd fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet flughafenabholung und Rueckfahrt (jederzeit), hotelabholung und Rueckfahrt zu Ihrem naechsten Ziel, hotelunterkunft fuer 4 Naechte mit Fruehstueck und Abendessen und privater Transport fuer 5 Tage gemaess den Reiseplan-Orten. Nicht enthalten sind mittagessen, trinkgelder fuer den Fahrer am Ende der Tour und privater 4x4-Safari-Jeep-Mietung, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 1995 $ statt 1674 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein 5-taegigees Erlebnis in Colombo. Experience All of Sri Lanka in just 5 days with Hotels, Meals & Private Car.\n\nNelum Holidays and Tours (Pvt) Ltd fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet flughafenabholung und Rueckfahrt (jederzeit), hotelabholung und Rueckfahrt zu Ihrem naechsten Ziel, hotelunterkunft fuer 4 Naechte mit Fruehstueck und Abendessen und privater Transport fuer 5 Tage gemaess den Reiseplan-Orten. Nicht enthalten sind mittagessen, trinkgeld fuer den Fahrer am Ende der Tour und privater 4x4-Safari-Jeep-Mietung, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 1995 $ statt 1674 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "5-taegigees Erlebnis in Colombo. . Angeboten von Nelum Holidays and Tours (Pvt) Ltd."
   ],
@@ -59193,7 +59193,7 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Mittagessen",
-   "Trinkgelder fuer den Fahrer am Ende der Tour",
+   "Trinkgeld fuer den Fahrer am Ende der Tour",
    "Privater 4x4-Safari-Jeep-Mietung"
   ]
  },
@@ -59486,7 +59486,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Colombo: Nacht-Tuk-Tuk-Abenteuer mit Street-Food-Verkostung",
   "metaDescription": "Ein halbtaegigeer Ausflug ab Colombo, der Tuk tuk, Gangaramaya Temple, Galle Face Green und Tuk tuk besucht. Angeboten von Sri Lanka Eco Tour.",
   "shortDescription": "Ein halbtaegigeer Ausflug ab Colombo, der Tuk tuk, Gangaramaya Temple, Galle Face Green und Tuk tuk besucht. Angeboten von Sri Lanka Eco Tour.",
-  "fullDescription": "Ein halbtaegigeer Ausflug ab Colombo, der Tuk tuk, Gangaramaya Temple, Galle Face Green und Tuk tuk umfasst. Der laengste Halt ist Galle Face Green, mit etwa 1 Stunde. Es gibt insgesamt 4 Stopps.\n\nDie Reihenfolge ist Tuk tuk (40 min), dann Gangaramaya Temple (30 min), dann Galle Face Green (1h), dann Tuk tuk (30 min).\n\nDer Preis beinhaltet tuk-Tuk-Fahrt, king-Kokosnuss-Getraenk, besuch des Gangaramaya-Tempels und besuch der Unabhaengigkeits-Gedenkhalle. Nicht enthalten sind optionales Add-on fuer den Lotus-Tower, ticket fuer den Lotus-Tower und den Gangaramaya-Tempel und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 71 $ statt 46 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Colombo, der Tuk tuk, Gangaramaya Temple, Galle Face Green und Tuk tuk umfasst. Der laengste Halt ist Galle Face Green, mit etwa 1 Stunde. Es gibt insgesamt 4 Stopps.\n\nDie Reihenfolge ist Tuk tuk (40 min), dann Gangaramaya Temple (30 min), dann Galle Face Green (1h), dann Tuk tuk (30 min).\n\nDer Preis beinhaltet tuk-Tuk-Fahrt, king-Kokosnuss-Getraenk, besuch des Gangaramaya-Tempels und besuch der Unabhaengigkeitsgedenkhalle. Nicht enthalten sind optionales Add-on fuer den Lotus-Tower, ticket fuer den Lotus-Tower und den Gangaramaya-Tempel und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 71 $ statt 46 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "Ein halbtaegigeer Ausflug ab Colombo, der Tuk tuk, Gangaramaya Temple, Galle Face Green und Tuk tuk besucht. Angeboten von Sri Lanka Eco Tour."
   ],
@@ -59494,7 +59494,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Tuk-Tuk-Fahrt",
    "King-Kokosnuss-Getraenk",
    "Besuch des Gangaramaya-Tempels",
-   "Besuch der Unabhaengigkeits-Gedenkhalle"
+   "Besuch der Unabhaengigkeitsgedenkhalle"
   ],
   "notIncluded": [
    "Optionales Add-on fuer den Lotus-Tower",
@@ -59588,7 +59588,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "3-taegige private Sri-Lanka-Hill-Country-Reise mit Halbpension...",
   "metaDescription": "3-taegigees Erlebnis in Colombo. . Angeboten von Nelum Holidays and Tours (Pvt) Ltd.",
   "shortDescription": "3-taegigees Erlebnis in Colombo. . Angeboten von Nelum Holidays and Tours (Pvt) Ltd.",
-  "fullDescription": "Ein 3-taegigees Erlebnis in Colombo. Explore Sri Lanka's Hill Country & Train ride in 3 days Private Trip.\n\nNelum Holidays and Tours (Pvt) Ltd fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet flughafenabholung und Rueckfahrt (jederzeit), 3-Sterne-Hotelunterkunft fuer 2 Naechte mit Fruehstueck und Abendessen, privater Transport fuer 3 Tage gemaess den Orten der Reiseroute und neues klimatisiertes Auto/Van. Nicht enthalten sind mittagessen, trinkgelder fuer den Fahrer am Ende der Tour und eintrittskarte fuer den Zahnreliquien-Tempel und die Kulturtanzshow, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 1167 $ statt 998 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein 3-taegigees Erlebnis in Colombo. Explore Sri Lanka's Hill Country & Train ride in 3 days Private Trip.\n\nNelum Holidays and Tours (Pvt) Ltd fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet flughafenabholung und Rueckfahrt (jederzeit), 3-Sterne-Hotelunterkunft fuer 2 Naechte mit Fruehstueck und Abendessen, privater Transport fuer 3 Tage gemaess den Orten der Reiseroute und klimatisiertes neues Auto/Van. Nicht enthalten sind mittagessen, trinkgeld fuer den Fahrer am Ende der Tour und eintrittskarte fuer den Zahnreliquien-Tempel und die Kulturtanzshow, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 1167 $ statt 998 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "3-taegigees Erlebnis in Colombo. . Angeboten von Nelum Holidays and Tours (Pvt) Ltd."
   ],
@@ -59596,11 +59596,11 @@ export const DE_TOURS: Record<string, TourT> = {
    "Flughafenabholung und Rueckfahrt (jederzeit)",
    "3-Sterne-Hotelunterkunft fuer 2 Naechte mit Fruehstueck und Abendessen",
    "Privater Transport fuer 3 Tage gemaess den Orten der Reiseroute",
-   "Neues klimatisiertes Auto/Van"
+   "Klimatisiertes neues Auto/Van"
   ],
   "notIncluded": [
    "Mittagessen",
-   "Trinkgelder fuer den Fahrer am Ende der Tour",
+   "Trinkgeld fuer den Fahrer am Ende der Tour",
    "Eintrittskarte fuer den Zahnreliquien-Tempel und die Kulturtanzshow"
   ]
  },
@@ -60775,7 +60775,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Sri Lanka: 3-taegige private gefuehrte Tour mit 3-Sterne-Hotel...",
   "metaDescription": "3-taegigees Erlebnis in Colombo. . Angeboten von Nelum Holidays and Tours (Pvt) Ltd.",
   "shortDescription": "3-taegigees Erlebnis in Colombo. . Angeboten von Nelum Holidays and Tours (Pvt) Ltd.",
-  "fullDescription": "Ein 3-taegigees Erlebnis in Colombo. Experirnce Local Culture, Ancient History, Nature & Wild Life in just 3 days.\n\nNelum Holidays and Tours (Pvt) Ltd fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet flughafenabholung und Rueckfahrt (jederzeit), 3-Sterne-Hotelunterkunft fuer 2 Naechte mit Fruehstueck und Abendessen, privater Transport fuer 3 Tage gemaess den Orten der Reiseroute und neues klimatisiertes Auto/Van. Nicht enthalten sind mittagessen, trinkgelder fuer den Fahrer am Ende der Tour und kosten fuer den privaten Safari-Jeep, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 1150 $ statt 1014 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein 3-taegigees Erlebnis in Colombo. Experirnce Local Culture, Ancient History, Nature & Wild Life in just 3 days.\n\nNelum Holidays and Tours (Pvt) Ltd fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet flughafenabholung und Rueckfahrt (jederzeit), 3-Sterne-Hotelunterkunft fuer 2 Naechte mit Fruehstueck und Abendessen, privater Transport fuer 3 Tage gemaess den Orten der Reiseroute und klimatisiertes neues Auto/Van. Nicht enthalten sind mittagessen, trinkgeld fuer den Fahrer am Ende der Tour und kosten fuer den privaten Safari-Jeep, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 1150 $ statt 1014 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "3-taegigees Erlebnis in Colombo. . Angeboten von Nelum Holidays and Tours (Pvt) Ltd."
   ],
@@ -60783,11 +60783,11 @@ export const DE_TOURS: Record<string, TourT> = {
    "Flughafenabholung und Rueckfahrt (jederzeit)",
    "3-Sterne-Hotelunterkunft fuer 2 Naechte mit Fruehstueck und Abendessen",
    "Privater Transport fuer 3 Tage gemaess den Orten der Reiseroute",
-   "Neues klimatisiertes Auto/Van"
+   "Klimatisiertes neues Auto/Van"
   ],
   "notIncluded": [
    "Mittagessen",
-   "Trinkgelder fuer den Fahrer am Ende der Tour",
+   "Trinkgeld fuer den Fahrer am Ende der Tour",
    "Kosten fuer den privaten Safari-Jeep"
   ]
  },
@@ -62921,14 +62921,14 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Colombo: private Stadttour mit Fahrer und Auto",
   "metaDescription": "Ein ganztaegigeer Ausflug ab Colombo, der Gangaramaya Temple, Independence Square, Colombo, Colombo Port City Beach und Pettah Market besucht. Angeboten von HASH ...",
   "shortDescription": "Ein ganztaegigeer Ausflug ab Colombo, der Gangaramaya Temple, Independence Square, Colombo, Colombo Port City Beach und Pettah Market besucht. Angeboten von HASH ONE CEYLON TOURS (PVT) LTD.",
-  "fullDescription": "Ein ganztaegigeer Ausflug ab Colombo, der Gangaramaya Temple, Independence Square, Colombo, Colombo Port City Beach und Pettah Market umfasst. Der laengste Halt ist Pettah Market, mit etwa 2 Stunden. Es gibt insgesamt 5 Stopps.\n\nDie Reihenfolge ist Gangaramaya Temple, dann Independence Square, Colombo (1h), dann Colombo Port City Beach, dann Pettah Market (2h), dann Galle Face Green.\n\nDer Preis beinhaltet private Stadttour im Auto, besuch des Gangaramaya-Tempels, besuch der Unabhaengigkeits-Gedenkhalle und besuch des Pettah-Marktes. Nicht enthalten sind eintrittsgebuehren fuer Attraktionen, mahlzeiten und Getraenke und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 102 $ statt 102 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Colombo, der Gangaramaya Temple, Independence Square, Colombo, Colombo Port City Beach und Pettah Market umfasst. Der laengste Halt ist Pettah Market, mit etwa 2 Stunden. Es gibt insgesamt 5 Stopps.\n\nDie Reihenfolge ist Gangaramaya Temple, dann Independence Square, Colombo (1h), dann Colombo Port City Beach, dann Pettah Market (2h), dann Galle Face Green.\n\nDer Preis beinhaltet private Stadttour im Auto, besuch des Gangaramaya-Tempels, besuch der Unabhaengigkeitsgedenkhalle und besuch des Pettah-Marktes. Nicht enthalten sind eintrittsgebuehren fuer Attraktionen, mahlzeiten und Getraenke und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 102 $ statt 102 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "Ein ganztaegigeer Ausflug ab Colombo, der Gangaramaya Temple, Independence Square, Colombo, Colombo Port City Beach und Pettah Market besucht. Angeboten von HASH ONE CEYLON TOURS (PVT) LTD."
   ],
   "included": [
    "Private Stadttour im Auto",
    "Besuch des Gangaramaya-Tempels",
-   "Besuch der Unabhaengigkeits-Gedenkhalle",
+   "Besuch der Unabhaengigkeitsgedenkhalle",
    "Besuch des Pettah-Marktes"
   ],
   "notIncluded": [
@@ -66903,14 +66903,14 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Romantisches Sri Lanka: private 7-taegige Paar-Auszeit",
   "metaDescription": "7-taegigees Erlebnis in Galle. . Angeboten von WMT Ceylon Tour Private Limited.",
   "shortDescription": "7-taegigees Erlebnis in Galle. . Angeboten von WMT Ceylon Tour Private Limited.",
-  "fullDescription": "Ein 7-taegigees Erlebnis in Galle. Feel the thrill of a jeep safari in Yala National Park.\n\nWMT Ceylon Tour Private Limited fuehrt es durch, und 9 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet privates Fahrzeug mit professionellem Fahrer, 7-taegiger Reiseplan, entspannung am Strand und bootssafari auf dem Bentota-Fluss. Nicht enthalten sind optionales romantisches Abendessen, dafuer sollten Sie zusaetzlich budgetieren.",
+  "fullDescription": "Ein 7-taegigees Erlebnis in Galle. Feel the thrill of a jeep safari in Yala National Park.\n\nWMT Ceylon Tour Private Limited fuehrt es durch, und 9 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet privates Fahrzeug mit professionellem Fahrer, 7-taegiger Reiseplan, strandentspannung und bootssafari auf dem Bentota-Fluss. Nicht enthalten sind optionales romantisches Abendessen, dafuer sollten Sie zusaetzlich budgetieren.",
   "highlights": [
    "7-taegigees Erlebnis in Galle. . Angeboten von WMT Ceylon Tour Private Limited."
   ],
   "included": [
    "Privates Fahrzeug mit professionellem Fahrer",
    "7-taegiger Reiseplan",
-   "Entspannung am Strand",
+   "Strandentspannung",
    "Bootssafari auf dem Bentota-Fluss"
   ],
   "notIncluded": [
@@ -70010,14 +70010,14 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Sri Lanka: 5-taegige private gefuehrte Tour mit Hotels, Transport",
   "metaDescription": "5-taegigees Erlebnis in Colombo. . Angeboten von Nelum Holidays and Tours (Pvt) Ltd.",
   "shortDescription": "5-taegigees Erlebnis in Colombo. . Angeboten von Nelum Holidays and Tours (Pvt) Ltd.",
-  "fullDescription": "Ein 5-taegigees Erlebnis in Colombo. Explore Best of Sri Lanka in just 5 Days Private Tour.\n\nNelum Holidays and Tours (Pvt) Ltd fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet flughafenabholung und Rueckfahrt (zu jeder Tageszeit), privater Transport fuer 5 Tage gemaess den Reiseplan-Orten, neues klimatisiertes Auto/Van und service eines englischsprachigen Fahrers fuer 5 Tage. Nicht enthalten sind persoenliche Ausgaben, trinkgeld fuer den Fahrer und mahlzeiten, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 1150 $ statt 1099 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein 5-taegigees Erlebnis in Colombo. Explore Best of Sri Lanka in just 5 Days Private Tour.\n\nNelum Holidays and Tours (Pvt) Ltd fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet flughafenabholung und Rueckfahrt (zu jeder Tageszeit), privater Transport fuer 5 Tage gemaess den Reiseplan-Orten, klimatisiertes neues Auto/Van und service eines englischsprachigen Fahrers fuer 5 Tage. Nicht enthalten sind persoenliche Ausgaben, trinkgeld fuer den Fahrer und mahlzeiten, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 1150 $ statt 1099 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "5-taegigees Erlebnis in Colombo. . Angeboten von Nelum Holidays and Tours (Pvt) Ltd."
   ],
   "included": [
    "Flughafenabholung und Rueckfahrt (zu jeder Tageszeit)",
    "Privater Transport fuer 5 Tage gemaess den Reiseplan-Orten",
-   "Neues klimatisiertes Auto/Van",
+   "Klimatisiertes neues Auto/Van",
    "Service eines englischsprachigen Fahrers fuer 5 Tage"
   ],
   "notIncluded": [
@@ -71100,7 +71100,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Private Kandy-Stadtrundfahrt mit Tuk-Tuk und lokalem Guide",
   "metaDescription": "Ein halbtaegigeer Ausflug ab Kandy, der Kandy besucht. Angeboten von City Tours Lanka.",
   "shortDescription": "Ein halbtaegigeer Ausflug ab Kandy, der Kandy besucht. Angeboten von City Tours Lanka.",
-  "fullDescription": "Ein halbtaegigeer Ausflug ab Kandy, der Kandy umfasst. Der laengste Halt ist Kandy, mit etwa 6 Stunden.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt (Region Kandy), privates Tuk-Tuk mit freundlichem lokalem Fahrer/Guide, voll anpassbarer Zeitplan, reisen Sie in Ihrem eigenen Tempo und entspanntes, stressfreies Erlebnis, massgeschneidert auf Ihre Praeferenzen. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Kandy, der Kandy umfasst. Der laengste Halt ist Kandy, mit etwa 6 Stunden.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt (Region Kandy), privates Tuk-Tuk mit freundlichem lokalem Fahrer/Guide, voll anpassbarer Zeitplan, reisen Sie in Ihrem eigenen Tempo und entspanntes, hektikfreies Erlebnis nach Ihren Praeferenzen. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren.",
   "highlights": [
    "Ein halbtaegigeer Ausflug ab Kandy, der Kandy besucht. Angeboten von City Tours Lanka."
   ],
@@ -71108,7 +71108,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Hotelabholung und Rueckfahrt (Region Kandy)",
    "Privates Tuk-Tuk mit freundlichem lokalem Fahrer/Guide",
    "Voll anpassbarer Zeitplan, reisen Sie in Ihrem eigenen Tempo",
-   "Entspanntes, stressfreies Erlebnis, massgeschneidert auf Ihre Praeferenzen"
+   "Entspanntes, hektikfreies Erlebnis nach Ihren Praeferenzen"
   ],
   "notIncluded": [
    ""
@@ -75628,12 +75628,12 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Hikkaduwa/Galle: Yala-Nationalpark-Jeep-Safari-Tagestour",
   "metaDescription": "ganztaegigees Erlebnis in Galle. . Angeboten von Ceylon Nature Tours.",
   "shortDescription": "ganztaegigees Erlebnis in Galle. . Angeboten von Ceylon Nature Tours.",
-  "fullDescription": "Ein ganztaegigees Erlebnis in Galle. Experience Sri Lanka's nature in Yala National Park.\n\nCeylon Nature Tours fuehrt es durch, und 4 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet transport in einem privaten klimatisierten Fahrzeug, hotelabholung und Rueckfahrt von den Gebieten Galle/Hikkaduwa/Unawatuna/Ambalangoda, jeep-Safari im Yala-Nationalpark und autobahngebuehren. Nicht enthalten sind essen und Getraenke und eintrittsgebuehren (43 USD pro Person), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 267 $ statt 267 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Galle. Experience Sri Lanka's nature in Yala National Park.\n\nCeylon Nature Tours fuehrt es durch, und 4 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet transport mit privatem klimatisiertem Fahrzeug, hotelabholung und Rueckfahrt von den Gebieten Galle/Hikkaduwa/Unawatuna/Ambalangoda, jeep-Safari im Yala-Nationalpark und autobahngebuehren. Nicht enthalten sind essen und Getraenke und eintrittsgebuehren (43 USD pro Person), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 267 $ statt 267 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "ganztaegigees Erlebnis in Galle. . Angeboten von Ceylon Nature Tours."
   ],
   "included": [
-   "Transport in einem privaten klimatisierten Fahrzeug",
+   "Transport mit privatem klimatisiertem Fahrzeug",
    "Hotelabholung und Rueckfahrt von den Gebieten Galle/Hikkaduwa/Unawatuna/Ambalangoda",
    "Jeep-Safari im Yala-Nationalpark",
    "Autobahngebuehren"
@@ -75790,13 +75790,13 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Kandy, Pinnawala, und Teefabrik: Ganztagestour von Negombo",
   "metaDescription": "Ein ganztaegigeer Ausflug ab Colombo, der Pinnawala, Railway Museum Kadugannawa, Royal Botanic Gardens, Kandy und Temple of the Sacred Tooth Relic besucht. Angebo...",
   "shortDescription": "Ein ganztaegigeer Ausflug ab Colombo, der Pinnawala, Railway Museum Kadugannawa, Royal Botanic Gardens, Kandy und Temple of the Sacred Tooth Relic besucht. Angeboten von Cadyshack Taxis (Pvt) Ltd.",
-  "fullDescription": "Ein ganztaegigeer Ausflug ab Colombo, der Pinnawala, Railway Museum Kadugannawa, Royal Botanic Gardens, Kandy und Temple of the Sacred Tooth Relic umfasst. Der laengste Halt ist Pinnawala, mit etwa 1 Stunde. Es gibt insgesamt 7 Stopps.\n\nDie Reihenfolge ist Pinnawala (1h), dann Railway Museum Kadugannawa (15 min), dann Royal Botanic Gardens, Kandy, dann Temple of the Sacred Tooth Relic, dann Kandy Lake (10 min).\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, transport in einem privaten klimatisierten Fahrzeug, wasserflasche und alle Steuern und Gebuehren. Nicht enthalten sind zahntempel-Eintrittsgebuehr (2000 LKR pro Person), koeniglicher-Botanischer-Garten-Eintrittsgebuehr (3750 LKR pro Person) und millennium-Stiftung in Pinnawala (Eintrittskarte 30 USD pro Person), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 186 $ statt 186 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Colombo, der Pinnawala, Railway Museum Kadugannawa, Royal Botanic Gardens, Kandy und Temple of the Sacred Tooth Relic umfasst. Der laengste Halt ist Pinnawala, mit etwa 1 Stunde. Es gibt insgesamt 7 Stopps.\n\nDie Reihenfolge ist Pinnawala (1h), dann Railway Museum Kadugannawa (15 min), dann Royal Botanic Gardens, Kandy, dann Temple of the Sacred Tooth Relic, dann Kandy Lake (10 min).\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, transport mit privatem klimatisiertem Fahrzeug, wasserflasche und alle Steuern und Gebuehren. Nicht enthalten sind zahntempel-Eintrittsgebuehr (2000 LKR pro Person), koeniglicher-Botanischer-Garten-Eintrittsgebuehr (3750 LKR pro Person) und millennium-Stiftung in Pinnawala (Eintrittskarte 30 USD pro Person), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 186 $ statt 186 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "Ein ganztaegigeer Ausflug ab Colombo, der Pinnawala, Railway Museum Kadugannawa, Royal Botanic Gardens, Kandy und Temple of the Sacred Tooth Relic besucht. Angeboten von Cadyshack Taxis (Pvt) Ltd."
   ],
   "included": [
    "Hotelabholung und Rueckfahrt",
-   "Transport in einem privaten klimatisierten Fahrzeug",
+   "Transport mit privatem klimatisiertem Fahrzeug",
    "Wasserflasche",
    "Alle Steuern und Gebuehren"
   ],
@@ -76978,12 +76978,12 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Hikkaduwa/Galle/Unawatuna/Mirissa: Udawalawe-Safari",
   "metaDescription": "ganztaegigees Erlebnis in Galle. . Angeboten von Ceylon Nature Tours.",
   "shortDescription": "ganztaegigees Erlebnis in Galle. . Angeboten von Ceylon Nature Tours.",
-  "fullDescription": "Ein ganztaegigees Erlebnis in Galle. See the thriving elephant population of the Udawalawa National Park.\n\nCeylon Nature Tours fuehrt es durch, und 4 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet transport in einem privaten klimatisierten Fahrzeug, hotelabholung und Rueckfahrt von den Gebieten Galle, Unawatuna, Weligama, Mirissa, oder Matara, 3-stuendige Jeep-Safari im Udawalawe-Nationalpark und autobahngebuehren. Nicht enthalten sind essen und Getraenke und eintrittsgebuehren, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 224 $ statt 224 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Galle. See the thriving elephant population of the Udawalawa National Park.\n\nCeylon Nature Tours fuehrt es durch, und 4 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet transport mit privatem klimatisiertem Fahrzeug, hotelabholung und Rueckfahrt von den Gebieten Galle, Unawatuna, Weligama, Mirissa, oder Matara, 3-stuendige Jeep-Safari im Udawalawe-Nationalpark und autobahngebuehren. Nicht enthalten sind essen und Getraenke und eintrittsgebuehren, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 224 $ statt 224 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "ganztaegigees Erlebnis in Galle. . Angeboten von Ceylon Nature Tours."
   ],
   "included": [
-   "Transport in einem privaten klimatisierten Fahrzeug",
+   "Transport mit privatem klimatisiertem Fahrzeug",
    "Hotelabholung und Rueckfahrt von den Gebieten Galle, Unawatuna, Weligama, Mirissa, oder Matara",
    "3-stuendige Jeep-Safari im Udawalawe-Nationalpark",
    "Autobahngebuehren"
@@ -78586,14 +78586,14 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Von Kandy nach Nanuoya: Teepfluecken, Wasserfaelle, Zugfahrt n...",
   "metaDescription": "Ein halbtaegigeer Ausflug ab Kandy, der Finish at: besucht. Angeboten von beliveinn tours & travel.",
   "shortDescription": "Ein halbtaegigeer Ausflug ab Kandy, der Finish at: besucht. Angeboten von beliveinn tours & travel.",
-  "fullDescription": "Ein halbtaegigeer Ausflug ab Kandy, der Finish at: umfasst.\n\nDer Preis beinhaltet private Fahrt von Kandy nach Nuwara Eliya, besuch einer aktiven Teeplantage, teepflueck-Erlebnis und besuch einer Teefabrik. Nicht enthalten sind mahlzeiten, koennen Restaurants empfehlen und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Kandy, der Finish at: umfasst.\n\nDer Preis beinhaltet private Fahrt von Kandy nach Nuwara Eliya, besuch einer aktiven Teeplantage, teepflueckerlebnis und besuch einer Teefabrik. Nicht enthalten sind mahlzeiten, koennen Restaurants empfehlen und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren.",
   "highlights": [
    "Ein halbtaegigeer Ausflug ab Kandy, der Finish at: besucht. Angeboten von beliveinn tours & travel."
   ],
   "included": [
    "Private Fahrt von Kandy nach Nuwara Eliya",
    "Besuch einer aktiven Teeplantage",
-   "Teepflueck-Erlebnis",
+   "Teepflueckerlebnis",
    "Besuch einer Teefabrik"
   ],
   "notIncluded": [
@@ -80835,7 +80835,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Kandy: Top-Stadtsehenswuerdigkeiten und Agro-Tech-Park-Besuch,...",
   "metaDescription": "halbtaegigees Erlebnis in Kandy. . Angeboten von Kandy Travel With Sana.",
   "shortDescription": "halbtaegigees Erlebnis in Kandy. . Angeboten von Kandy Travel With Sana.",
-  "fullDescription": "Ein halbtaegigees Erlebnis in Kandy. Trek royal paths amidst rare birds and lush tropical flora on this canopy walk.\n\nKandy Travel With Sana fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet 4-stuendige Tour mit privater 360-Grad-Aussicht, tuk-Tuk mit freundlichem lokalem Fahrer/Guide (Englisch sprechend), leistungen und Highlights:, entspanntes, stressfreies Erlebnis, massgeschneidert auf Ihre Praeferenzen und hotelabholung und Rueckfahrt. Nicht enthalten sind persoenliche Ausgaben, essen und eintrittskarten, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 21 $ statt 20 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein halbtaegigees Erlebnis in Kandy. Trek royal paths amidst rare birds and lush tropical flora on this canopy walk.\n\nKandy Travel With Sana fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet 4-stuendige Tour mit privater 360-Grad-Aussicht, tuk-Tuk mit freundlichem lokalem Fahrer/Guide (Englisch sprechend), leistungen und Highlights:, entspanntes, hektikfreies Erlebnis nach Ihren Praeferenzen und hotelabholung und Rueckfahrt. Nicht enthalten sind persoenliche Ausgaben, essen und eintrittskarten, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 21 $ statt 20 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "halbtaegigees Erlebnis in Kandy. . Angeboten von Kandy Travel With Sana."
   ],
@@ -80843,7 +80843,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "4-stuendige Tour mit privater 360-Grad-Aussicht",
    "Tuk-Tuk mit freundlichem lokalem Fahrer/Guide (Englisch sprechend)",
    "Leistungen und Highlights:",
-   "Entspanntes, stressfreies Erlebnis, massgeschneidert auf Ihre Praeferenzen",
+   "Entspanntes, hektikfreies Erlebnis nach Ihren Praeferenzen",
    "Hotelabholung und Rueckfahrt"
   ],
   "notIncluded": [
@@ -85666,6 +85666,71 @@ export const DE_TOURS: Record<string, TourT> = {
    "Gebuehren fuer Uebergroesses Gepaeck (sofern nicht vorher angegeben)"
   ]
  },
+ "bentotamirissahiriketiyatangalle-ella-scenic-day": {
+  "title": "Bentota/Mirissa/Hiriketiya/Tangalle: malerische Ella-Tagestour",
+  "metaTitle": "Bentota/Mirissa/Hiriketiya/Tangalle: malerische Ella-Tagestour",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Galle, der Ravana Falls, Ella Rock, Local restaurant und Little Adam's Peak besucht. Angeboten von Taprobane Tours.",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Galle, der Ravana Falls, Ella Rock, Local restaurant und Little Adam's Peak besucht. Angeboten von Taprobane Tours.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Galle, der Ravana Falls, Ella Rock, Local restaurant und Little Adam's Peak umfasst. Es gibt insgesamt 6 Stopps.\n\nDie Reihenfolge ist Ravana Falls, dann Ella Rock, dann Local restaurant, dann Little Adam's Peak, dann Demodara Railway Loop Viewpoint.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt von ausgewaehlten Orten an der Suedkueste, privater klimatisierter Transport (Auto, Van oder Reisebus), englischsprachiger Fahrer-Guide waehrend der gesamten Reise, malerischer Roadtrip durch das Hochland Sri Lankas, autobahngebuehren und Parkgebuehren und frischer Fruchtsaft. Nicht enthalten sind eintrittskarten, mittagessen und Cafe-Rechnungen und flying-Ravana-Mega-Zipline-Gebuehren, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Galle, der Ravana Falls, Ella Rock, Local restaurant und Little Adam's Peak besucht. Angeboten von Taprobane Tours."
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt von ausgewaehlten Orten an der Suedkueste",
+   "Privater klimatisierter Transport (Auto, Van oder Reisebus)",
+   "Englischsprachiger Fahrer-Guide waehrend der gesamten Reise",
+   "Malerischer Roadtrip durch das Hochland Sri Lankas",
+   "Autobahngebuehren und Parkgebuehren",
+   "Frischer Fruchtsaft"
+  ],
+  "notIncluded": [
+   "Eintrittskarten",
+   "Mittagessen und Cafe-Rechnungen",
+   "Flying-Ravana-Mega-Zipline-Gebuehren"
+  ]
+ },
+ "tea-plucker-day-nuwara-eliya-to-colombo-transfer": {
+  "title": "Teepflueckertag: Transfer von Nuwara Eliya nach Colombo",
+  "metaTitle": "Teepflueckertag: Transfer von Nuwara Eliya nach Colombo",
+  "metaDescription": "Ein halbtaegigeer Ausflug ab Colombo, der Ramboda und Finish at: besucht. Angeboten von Padraig Lanka Tours.",
+  "shortDescription": "Ein halbtaegigeer Ausflug ab Colombo, der Ramboda und Finish at: besucht. Angeboten von Padraig Lanka Tours.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Colombo, der Ramboda und Finish at: umfasst. Der laengste Halt ist Ramboda, mit etwa 1 Stunde. Es gibt insgesamt 2 Stopps.\n\nDie Reihenfolge ist Ramboda (1h), dann Finish at:.\n\nDer Preis beinhaltet privates klimatisiertes Fahrzeug, englischsprachiger Chauffeur-Guide, teepflueckerlebnis und teefabrikbesuch. Nicht enthalten sind wildwasser-Rafting-Aktivitaetsgebuehren in Kitulgala, mahlzeiten und Getraenke, die nicht in der Reiseroute erwaehnt sind und persoenliche Ausgaben und Souvenirs, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein halbtaegigeer Ausflug ab Colombo, der Ramboda und Finish at: besucht. Angeboten von Padraig Lanka Tours."
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug",
+   "Englischsprachiger Chauffeur-Guide",
+   "Teepflueckerlebnis",
+   "Teefabrikbesuch"
+  ],
+  "notIncluded": [
+   "Wildwasser-Rafting-Aktivitaetsgebuehren in Kitulgala",
+   "Mahlzeiten und Getraenke, die nicht in der Reiseroute erwaehnt sind",
+   "Persoenliche Ausgaben und Souvenirs"
+  ]
+ },
+ "sri-lanka-7-day-best-attractions-tour": {
+  "title": "Sri Lanka: 7-taegige Tour der besten Attraktionen",
+  "metaTitle": "Sri Lanka: 7-taegige Tour der besten Attraktionen",
+  "metaDescription": "7-taegigees Erlebnis in Colombo. . Angeboten von Best Lanka Holidays.",
+  "shortDescription": "7-taegigees Erlebnis in Colombo. . Angeboten von Best Lanka Holidays.",
+  "fullDescription": "Ein 7-taegigees Erlebnis in Colombo. Visit UNIESCO world heritage sites.\n\nBest Lanka Holidays fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet flughafenabholung und Rueckfahrt, unterstuetzung am Flughafen, unterkunft in einem Sterne-Hotel und mahlzeiten, Fruehstueck und Abendessen. Nicht enthalten sind flugtickets nicht enthalten, kamera- und Videogenehmigungen und reiseversicherung, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 918 $ statt 918 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "7-taegigees Erlebnis in Colombo. . Angeboten von Best Lanka Holidays."
+  ],
+  "included": [
+   "Flughafenabholung und Rueckfahrt",
+   "Unterstuetzung am Flughafen",
+   "Unterkunft in einem Sterne-Hotel",
+   "Mahlzeiten, Fruehstueck und Abendessen"
+  ],
+  "notIncluded": [
+   "Flugtickets nicht enthalten",
+   "Kamera- und Videogenehmigungen",
+   "Reiseversicherung"
+  ]
+ },
  "colombo-private-tuk-tuk-tour-with-hotel-pickup": {
   "title": "Colombo: private Tuk-Tuk-Tour mit Hotelabholung",
   "metaTitle": "Colombo: private Tuk-Tuk-Tour mit Hotelabholung",
@@ -85683,6 +85748,454 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Tickets fuer den Lotus Tower und den Gangaramaya-Tempel"
+  ]
+ },
+ "colombo-hidden-stories-colonial-heritage-tuk-tuk": {
+  "title": "Colombo: verborgene Geschichten und Kolonialerbe mit Tuk-Tuk",
+  "metaTitle": "Colombo: verborgene Geschichten und Kolonialerbe mit Tuk-Tuk",
+  "metaDescription": "Ein halbtaegigeer Ausflug ab Colombo, der Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk und Colombo Port Maritime Museum besucht. Angeboten von Ceyl...",
+  "shortDescription": "Ein halbtaegigeer Ausflug ab Colombo, der Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk und Colombo Port Maritime Museum besucht. Angeboten von Ceylonture Travels.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Colombo, der Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk und Colombo Port Maritime Museum umfasst. Es gibt insgesamt 17 Stopps.\n\nDie Reihenfolge ist Tuk tuk (10 min), dann Colombo Fort Old Lighthouse & Clock Tower (20 min), dann Tuk tuk (5 min), dann Colombo Port Maritime Museum (10 min), dann Old Parliament Building, Colombo (10 min).\n\nDer Preis beinhaltet 4-stuendige private Tuk-Tuk-Tour in Colombo, mit erfahrenem englischsprachigem lokalem Guide, begruessungsgetraenk (King-Kokosnusswasser) und regenschirm bereitgestellt (auf Anfrage). Nicht enthalten sind essen und Getraenke und tickets fuer den Lotus Tower und den Gangaramaya-Tempel, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein halbtaegigeer Ausflug ab Colombo, der Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk und Colombo Port Maritime Museum besucht. Angeboten von Ceylonture Travels."
+  ],
+  "included": [
+   "4-stuendige private Tuk-Tuk-Tour in Colombo",
+   "Mit erfahrenem englischsprachigem lokalem Guide",
+   "Begruessungsgetraenk (King-Kokosnusswasser)",
+   "Regenschirm bereitgestellt (auf Anfrage)"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke",
+   "Tickets fuer den Lotus Tower und den Gangaramaya-Tempel"
+  ]
+ },
+ "sigiriya-tuk-tuk-tours-arund-rock-view-points-and": {
+  "title": "Sigiriya: Tuk-Tuk-Touren zu Felsaussichtspunkten und Stadttour",
+  "metaTitle": "Sigiriya: Tuk-Tuk-Touren zu Felsaussichtspunkten und Stadttour",
+  "metaDescription": "Ein halbtaegigeer Ausflug ab Sigiriya, der Tuk tuk und Sigiriya besucht. Angeboten von easygolanka.",
+  "shortDescription": "Ein halbtaegigeer Ausflug ab Sigiriya, der Tuk tuk und Sigiriya besucht. Angeboten von easygolanka.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Sigiriya, der Tuk tuk und Sigiriya umfasst. Es gibt insgesamt 2 Stopps.\n\nDie Reihenfolge ist Tuk tuk (30 min), dann Sigiriya (30 min).\n\nDer Preis beinhaltet tuk-Tuk-Fahrt zu geheimen Aussichtspunkten des Sigiriya-Loewenfelsens und des Pidurangala-Felsens, malerische Dorfstraßen-Tour, besuch wunderschoener Seeufer und ueppig gruener Pfade und einblicke in die lokale Geschichte. Nicht enthalten sind teure Tickets und klettern, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 28 $ statt 15 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein halbtaegigeer Ausflug ab Sigiriya, der Tuk tuk und Sigiriya besucht. Angeboten von easygolanka."
+  ],
+  "included": [
+   "Tuk-Tuk-Fahrt zu geheimen Aussichtspunkten des Sigiriya-Loewenfelsens und des Pidurangala-Felsens",
+   "Malerische Dorfstraßen-Tour",
+   "Besuch wunderschoener Seeufer und ueppig gruener Pfade",
+   "Einblicke in die lokale Geschichte"
+  ],
+  "notIncluded": [
+   "Teure Tickets",
+   "Klettern"
+  ]
+ },
+ "colombo-city-tour-with-lotus-tower-and-temple": {
+  "title": "Colombo: Stadttour mit Lotus Tower und Tempeleintritt",
+  "metaTitle": "Colombo: Stadttour mit Lotus Tower und Tempeleintritt",
+  "metaDescription": "halbtaegigees Erlebnis in Colombo. . Angeboten von Ceylon Asia Voyage.",
+  "shortDescription": "halbtaegigees Erlebnis in Colombo. . Angeboten von Ceylon Asia Voyage.",
+  "fullDescription": "Ein halbtaegigees Erlebnis in Colombo. Discover the vibrant capital of Sri Lanka on a guided city tour.\n\nCeylon Asia Voyage fuehrt es durch, und 5 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, privates klimatisiertes Fahrzeug, englischsprachiger Fahrer/Guide und alle Eintrittskarten (Lotus Tower und Tempel, falls zutreffend). Nicht enthalten sind mahlzeiten und persoenliche Ausgaben und trinkgelder (optional), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 507 $ statt 507 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "halbtaegigees Erlebnis in Colombo. . Angeboten von Ceylon Asia Voyage."
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt",
+   "Privates klimatisiertes Fahrzeug",
+   "Englischsprachiger Fahrer/Guide",
+   "Alle Eintrittskarten (Lotus Tower und Tempel, falls zutreffend)"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und persoenliche Ausgaben",
+   "Trinkgelder (optional)"
+  ]
+ },
+ "kandy-tuk-tuk-city-tour-with-local-guide-scenic": {
+  "title": "Kandy: Tuk-Tuk-Stadttour mit lokalem Guide und malerischen Ausblicken",
+  "metaTitle": "Kandy: Tuk-Tuk-Stadttour mit lokalem Guide und malerischen Aus...",
+  "metaDescription": "Ein halbtaegigeer Ausflug ab Kandy, der Tuk tuk und Kandy besucht. Angeboten von Kandy Aaron City Tour Tuk Tuk.",
+  "shortDescription": "Ein halbtaegigeer Ausflug ab Kandy, der Tuk tuk und Kandy besucht. Angeboten von Kandy Aaron City Tour Tuk Tuk.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Kandy, der Tuk tuk und Kandy umfasst. Der laengste Halt ist Kandy, mit etwa 7 Stunden. Es gibt insgesamt 2 Stopps.\n\nDie Reihenfolge ist Tuk tuk (30 min), dann Kandy (7h).\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, privater Guide/Fahrer, anpassbare Reiseroute und besuch der Asgiriya-Stupa (freier Eintritt). Nicht enthalten sind eintrittsgebuehren fuer Attraktionen, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein halbtaegigeer Ausflug ab Kandy, der Tuk tuk und Kandy besucht. Angeboten von Kandy Aaron City Tour Tuk Tuk."
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt",
+   "Privater Guide/Fahrer",
+   "Anpassbare Reiseroute",
+   "Besuch der Asgiriya-Stupa (freier Eintritt)"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer Attraktionen"
+  ]
+ },
+ "14-days-sri-lanka-private-tour-package-with": {
+  "title": "14-taegiges privates Sri-Lanka-Paket mit Hotels und Mahlzeiten",
+  "metaTitle": "14-taegiges privates Sri-Lanka-Paket mit Hotels und Mahlzeiten",
+  "metaDescription": "14-taegigees Erlebnis in Colombo. . Angeboten von Nelum Holidays and Tours (Pvt) Ltd.",
+  "shortDescription": "14-taegigees Erlebnis in Colombo. . Angeboten von Nelum Holidays and Tours (Pvt) Ltd.",
+  "fullDescription": "Ein 14-taegigees Erlebnis in Colombo. Explore Five UNESCO World Heritage Site with this 14 Days Tour.\n\nNelum Holidays and Tours (Pvt) Ltd fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet flughafenabholung und Rueckfahrt (jederzeit), 3- oder 4-Sterne-Hotelunterkunft fuer 13 Naechte mit angegebenen Mahlzeiten, privater Transport fuer 14 Tage gemaess der Reiseroute und klimatisiertes neues Auto/Van. Nicht enthalten sind mittagessen und einige Abendessen, trinkgeld fuer den Fahrer am Ende der Tour und privater Safari-Jeep zu den Nationalparks, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "14-taegigees Erlebnis in Colombo. . Angeboten von Nelum Holidays and Tours (Pvt) Ltd."
+  ],
+  "included": [
+   "Flughafenabholung und Rueckfahrt (jederzeit)",
+   "3- oder 4-Sterne-Hotelunterkunft fuer 13 Naechte mit angegebenen Mahlzeiten",
+   "Privater Transport fuer 14 Tage gemaess der Reiseroute",
+   "Klimatisiertes neues Auto/Van"
+  ],
+  "notIncluded": [
+   "Mittagessen und einige Abendessen",
+   "Trinkgeld fuer den Fahrer am Ende der Tour",
+   "Privater Safari-Jeep zu den Nationalparks"
+  ]
+ },
+ "bentota-galle-fort-turtle-hatchery-moonstone-mine": {
+  "title": "Bentota: Galle-Fort, Schildkroeten-Brutstation und Mondstein-Mine",
+  "metaTitle": "Bentota: Galle-Fort, Schildkroeten-Brutstation und Mondstein-Mine",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Galle, der Kosgoda Spice Garden 777, Kosgoda Sea Turtle Conservation, Ariyapala Mask Museum und Meetiyagoda Moonstone Mine besucht. A...",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Galle, der Kosgoda Spice Garden 777, Kosgoda Sea Turtle Conservation, Ariyapala Mask Museum und Meetiyagoda Moonstone Mine besucht. Angeboten von Wander Zeylan Tours.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Galle, der Kosgoda Spice Garden 777, Kosgoda Sea Turtle Conservation, Ariyapala Mask Museum und Meetiyagoda Moonstone Mine umfasst. Es gibt insgesamt 7 Stopps.\n\nDie Reihenfolge ist Kosgoda Spice Garden 777, dann Kosgoda Sea Turtle Conservation, dann Ariyapala Mask Museum, dann Meetiyagoda Moonstone Mine, dann Hikkaduwa Beach.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, transport mit privatem klimatisiertem Fahrzeug, fahrer oder Fahrer-Guide und besuch der Kosgoda-Schildkroeten-Brutstation. Nicht enthalten sind eintrittskarten fuer die Schildkroeten-Brutstation, mittagessen und Getraenke und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 136 $ statt 111 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Galle, der Kosgoda Spice Garden 777, Kosgoda Sea Turtle Conservation, Ariyapala Mask Museum und Meetiyagoda Moonstone Mine besucht. Angeboten von Wander Zeylan Tours."
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt",
+   "Transport mit privatem klimatisiertem Fahrzeug",
+   "Fahrer oder Fahrer-Guide",
+   "Besuch der Kosgoda-Schildkroeten-Brutstation"
+  ],
+  "notIncluded": [
+   "Eintrittskarten fuer die Schildkroeten-Brutstation",
+   "Mittagessen und Getraenke",
+   "Persoenliche Ausgaben"
+  ]
+ },
+ "ella-2-day-belihuloya-camping-kayaking-and": {
+  "title": "Ella: 2-taegiges Camping, Kajakfahren und Wandern in Belihuloya",
+  "metaTitle": "Ella: 2-taegiges Camping, Kajakfahren und Wandern in Belihuloya",
+  "metaDescription": "2-taegigees Erlebnis in Ella. . Angeboten von Explore Ceylona.",
+  "shortDescription": "2-taegigees Erlebnis in Ella. . Angeboten von Explore Ceylona.",
+  "fullDescription": "Ein 2-taegigees Erlebnis in Ella. Feel the thrill of kayaking at sunrise on the calm waters of Samanalawewa.\n\nExplore Ceylona fuehrt es durch, und 8 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet sicherer und komfortabler Transport, englischsprachiger Guide-Service, camping-Unterkunft und foto- und Videoservice. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "2-taegigees Erlebnis in Ella. . Angeboten von Explore Ceylona."
+  ],
+  "included": [
+   "Sicherer und komfortabler Transport",
+   "Englischsprachiger Guide-Service",
+   "Camping-Unterkunft",
+   "Foto- und Videoservice"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "from-kandy-sigiriya-pidurangala-sunset-lake-tour": {
+  "title": "Von Kandy: Sigiriya, Pidurangala-Sonnenuntergang und Seetour",
+  "metaTitle": "Von Kandy: Sigiriya, Pidurangala-Sonnenuntergang und Seetour",
+  "metaDescription": "ganztaegigees Erlebnis in Kandy. . Angeboten von kandy super tours.",
+  "shortDescription": "ganztaegigees Erlebnis in Kandy. . Angeboten von kandy super tours.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Kandy. Hike Pidurangala Rock for sunset views.\n\nkandy super tours fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt von Kandy, privates klimatisiertes Fahrzeug, englischsprachiger Fahrer-Guide und flaschenwasser. Nicht enthalten sind mahlzeiten und Getraenke, eintrittskarten fuer die optionalen Attraktionen und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 338 $ statt 297 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "ganztaegigees Erlebnis in Kandy. . Angeboten von kandy super tours."
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt von Kandy",
+   "Privates klimatisiertes Fahrzeug",
+   "Englischsprachiger Fahrer-Guide",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke",
+   "Eintrittskarten fuer die optionalen Attraktionen",
+   "Persoenliche Ausgaben"
+  ]
+ },
+ "meepawala-galle-create-your-own-silver-ring": {
+  "title": "Meepawala, Galle: gestalten Sie Ihren eigenen Silberring",
+  "metaTitle": "Meepawala, Galle: gestalten Sie Ihren eigenen Silberring",
+  "metaDescription": "3-stuendigees Erlebnis in Galle. . Angeboten von Teni Craft.",
+  "shortDescription": "3-stuendigees Erlebnis in Galle. . Angeboten von Teni Craft.",
+  "fullDescription": "Ein 3-stuendigees Erlebnis in Galle. Transform your ideas into stunning jewelry that reflects your style.\n\nTeni Craft fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet persoenliche Beratung und Designbesprechung, individueller Schmuckdesign-Service, handgefertigte Gold- oder Silberschmuckherstellung und personalisiertes Design nach Kundenwunsch. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "3-stuendigees Erlebnis in Galle. . Angeboten von Teni Craft."
+  ],
+  "included": [
+   "Persoenliche Beratung und Designbesprechung",
+   "Individueller Schmuckdesign-Service",
+   "Handgefertigte Gold- oder Silberschmuckherstellung",
+   "Personalisiertes Design nach Kundenwunsch"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "kandy-nuwaraeliya-tour-ella-train-free-city-tour": {
+  "title": "Kandy: Nuwara-Eliya-Tour, Ella-Zugfahrt und kostenlose Bonus-Stadttour",
+  "metaTitle": "Kandy: Nuwara-Eliya-Tour, Ella-Zugfahrt und kostenlose Bonus-S...",
+  "metaDescription": "ganztaegigees Erlebnis in Kandy. Enthaltenes Ella-Zugticket: Ticket 2. Klasse fuer den 13:30-Uhr-Zug nach Ella. Angeboten von Jet Joy Lanka Tours.",
+  "shortDescription": "ganztaegigees Erlebnis in Kandy. Enthaltenes Ella-Zugticket: Ticket 2. Klasse fuer den 13:30-Uhr-Zug nach Ella. Angeboten von Jet Joy Lanka Tours.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Kandy. Enthaltenes Ella-Zugticket: Ticket 2. Klasse fuer den 13:30-Uhr-Zug nach Ella.\n\nJet Joy Lanka Tours fuehrt es durch, und 6 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet bonus-Vortour-Erlebnis: kostenlose private 3- bis 4-stuendige Kandy-Stadttour am Tag vor der Abreise (bis zu 4 Stopps), kostenloses Zugticket 2. Klasse: kostenloses Ticket 2. Klasse fuer den 14:30-Uhr-Zug von Nanu Oya nach Ella, privater Transport: sauberes, voll klimatisiertes Fahrzeug mit einem professionellen englischsprachigen Fahrer-Guide, flexibler Tourabschluss: Rueckfahrt zum Bahnhof Nanu Oya fuer den Zug, ODER Rueckfahrt zu Ihrem Hotel in Kandy und kostenlose Hotelabholung: enthalten fuer alle Unterkuenfte innerhalb von 4 km vom Stadtzentrum Kandy. Nicht enthalten sind reservierter Sitzplatz im Zug (Tickets 2. Klasse sind unreserviert; Sitzplaetze sind verfuegbarkeitsabhaengig, zu Stoßzeiten kann Stehen erforderlich sein), eintrittskarten fuer optionale Stopps (Zahntempel, Tickets fuer die kulturelle Tanzshow), persoenliche Spa-/Massagegebuehren beim optionalen Ayurveda-Spa-Besuch und ausgaben fuer Essen, Getraenke und Mittagessen, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Enthaltenes Ella-Zugticket: Ticket 2. Klasse fuer den 13:30-Uhr-Zug nach Ella"
+  ],
+  "included": [
+   "Bonus-Vortour-Erlebnis: kostenlose private 3- bis 4-stuendige Kandy-Stadttour am Tag vor der Abreise (bis zu 4 Stopps).",
+   "Kostenloses Zugticket 2. Klasse: kostenloses Ticket 2. Klasse fuer den 14:30-Uhr-Zug von Nanu Oya nach Ella.",
+   "Privater Transport: sauberes, voll klimatisiertes Fahrzeug mit einem professionellen englischsprachigen Fahrer-Guide.",
+   "Flexibler Tourabschluss: Rueckfahrt zum Bahnhof Nanu Oya fuer den Zug, ODER Rueckfahrt zu Ihrem Hotel in Kandy.",
+   "Kostenlose Hotelabholung: enthalten fuer alle Unterkuenfte innerhalb von 4 km vom Stadtzentrum Kandy."
+  ],
+  "notIncluded": [
+   "Reservierter Sitzplatz im Zug (Tickets 2. Klasse sind unreserviert; Sitzplaetze sind verfuegbarkeitsabhaengig, zu Stoßzeiten kann Stehen erforderlich sein).",
+   "Eintrittskarten fuer optionale Stopps (Zahntempel, Tickets fuer die kulturelle Tanzshow).",
+   "Persoenliche Spa-/Massagegebuehren beim optionalen Ayurveda-Spa-Besuch.",
+   "Ausgaben fuer Essen, Getraenke und Mittagessen."
+  ]
+ },
+ "kandy-sigiriya-or-pidurangala-dambulla-day-tour": {
+  "title": "Kandy: Sigiriya- oder Pidurangala- und Dambulla-Tagestour mit Van",
+  "metaTitle": "Kandy: Sigiriya- oder Pidurangala- und Dambulla-Tagestour mit Van",
+  "metaDescription": "halbtaegigees Erlebnis in Kandy. . Angeboten von Lishan Tours.",
+  "shortDescription": "halbtaegigees Erlebnis in Kandy. . Angeboten von Lishan Tours.",
+  "fullDescription": "Ein halbtaegigees Erlebnis in Kandy. Visit the UNESCO-listed Dambulla Cave Temple.\n\nLishan Tours fuehrt es durch, und 3 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt in Kandy, transport mit klimatisiertem Van und englischsprachiger Fahrer/Guide. Nicht enthalten sind eintrittsgebuehren (Sigiriya, Pidurangala, Dambulla, Dorfsafari), essen und Getraenke und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 179 $ statt 179 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "halbtaegigees Erlebnis in Kandy. . Angeboten von Lishan Tours."
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt in Kandy",
+   "Transport mit klimatisiertem Van",
+   "Englischsprachiger Fahrer/Guide"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren (Sigiriya, Pidurangala, Dambulla, Dorfsafari)",
+   "Essen und Getraenke",
+   "Persoenliche Ausgaben"
+  ]
+ },
+ "colombo-sigiriya-rock-fortress-caves-private-suv": {
+  "title": "Colombo: Sigiriya-Felsenfestung und Hoehlen, private SUV-Tagestour",
+  "metaTitle": "Colombo: Sigiriya-Felsenfestung und Hoehlen, private SUV-Tages...",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Colombo, der Jeep / SUV und Jeep / SUV besucht. Angeboten von One World Tours Pvt Ltd.",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Colombo, der Jeep / SUV und Jeep / SUV besucht. Angeboten von One World Tours Pvt Ltd.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Colombo, der Jeep / SUV und Jeep / SUV umfasst. Der laengste Halt ist Jeep / SUV, mit etwa 4 Stunden. Es gibt insgesamt 2 Stopps.\n\nDie Reihenfolge ist Jeep / SUV (4h), dann Jeep / SUV (3h).\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt in Colombo, privater SUV-Transport, eintrittskarten fuer Dambulla und professioneller englischsprachiger Fahrer. Nicht enthalten sind essen und Getraenke, persoenliche Ausgaben und trinkgelder, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 472 $ statt 306 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Colombo, der Jeep / SUV und Jeep / SUV besucht. Angeboten von One World Tours Pvt Ltd."
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt in Colombo",
+   "Privater SUV-Transport",
+   "Eintrittskarten fuer Dambulla",
+   "Professioneller englischsprachiger Fahrer"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke",
+   "Persoenliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "from-colombo-port-safe-return-galle-fort": {
+  "title": "Vom Hafen Colombo: sichere Rueckkehr, Galle-Fort, individuelle Tour",
+  "metaTitle": "Vom Hafen Colombo: sichere Rueckkehr, Galle-Fort, individuelle...",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Colombo, der Victor Hasselblad Sea Turtle Research And Conservation Centre, Turtle Beach und Galle Dutch Fort besucht. Angeboten von ...",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Colombo, der Victor Hasselblad Sea Turtle Research And Conservation Centre, Turtle Beach und Galle Dutch Fort besucht. Angeboten von Ethereal Ceylon.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Colombo, der Victor Hasselblad Sea Turtle Research And Conservation Centre, Turtle Beach und Galle Dutch Fort umfasst. Es gibt insgesamt 3 Stopps.\n\nDie Reihenfolge ist Victor Hasselblad Sea Turtle Research And Conservation Centre, dann Turtle Beach, dann Galle Dutch Fort.\n\nDer Preis beinhaltet 100% garantierte puenktliche Rueckkehr zu Ihrem Kreuzfahrtschiff vor der Abfahrt, leicht zu findende Abholung: Ihr Fahrer-Guide wartet direkt vor dem Ausgang des Passagierankunftsterminals im Hafen von Colombo, ein Schild mit Ihrem Namen, damit Sie uns sofort erkennen und transport in einem komfortablen, klimatisierten Auto oder Van. Nicht enthalten sind madu-Fluss-Bootssafari-Fahrt und Aktivitaeten, essen und Getraenke und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 234 $ statt 234 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Colombo, der Victor Hasselblad Sea Turtle Research And Conservation Centre, Turtle Beach und Galle Dutch Fort besucht. Angeboten von Ethereal Ceylon."
+  ],
+  "included": [
+   "100% garantierte puenktliche Rueckkehr zu Ihrem Kreuzfahrtschiff vor der Abfahrt",
+   "Leicht zu findende Abholung: Ihr Fahrer-Guide wartet direkt vor dem Ausgang des Passagierankunftsterminals im Hafen von Colombo",
+   "Ein Schild mit Ihrem Namen, damit Sie uns sofort erkennen",
+   "Transport in einem komfortablen, klimatisierten Auto oder Van"
+  ],
+  "notIncluded": [
+   "Madu-Fluss-Bootssafari-Fahrt und Aktivitaeten",
+   "Essen und Getraenke",
+   "Persoenliche Ausgaben"
+  ]
+ },
+ "mirissa-refreshments-and-snorkeling-tour-with-sea": {
+  "title": "Mirissa: Erfrischungen und Schnorcheltour mit Meeresschildkroeten",
+  "metaTitle": "Mirissa: Erfrischungen und Schnorcheltour mit Meeresschildkroeten",
+  "metaDescription": "Ein 1-stuendigeer Ausflug ab Mirissa, der Thalaramba, Sri Lanka besucht. Angeboten von Mirissa Sea View Snorkeling.",
+  "shortDescription": "Ein 1-stuendigeer Ausflug ab Mirissa, der Thalaramba, Sri Lanka besucht. Angeboten von Mirissa Sea View Snorkeling.",
+  "fullDescription": "Ein 1-stuendigeer Ausflug ab Mirissa, der Thalaramba, Sri Lanka umfasst. Der laengste Halt ist Thalaramba, Sri Lanka, mit etwa 1 Stunde.\n\nDer Preis beinhaltet gefuehrte Schnorcheltour, schnorchelausruestung, goPro-Video und erfrischungen. Nicht enthalten sind mittagessen, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein 1-stuendigeer Ausflug ab Mirissa, der Thalaramba, Sri Lanka besucht. Angeboten von Mirissa Sea View Snorkeling."
+  ],
+  "included": [
+   "Gefuehrte Schnorcheltour",
+   "Schnorchelausruestung",
+   "GoPro-Video",
+   "Erfrischungen"
+  ],
+  "notIncluded": [
+   "Mittagessen"
+  ]
+ },
+ "bentota-private-mangrove-cave-boat-tour-wildlife": {
+  "title": "Bentota: private Mangroven-Hoehlen-Bootstour und Wildtiersafari",
+  "metaTitle": "Bentota: private Mangroven-Hoehlen-Bootstour und Wildtiersafari",
+  "metaDescription": "Ein 1-stuendigeer Ausflug ab Bentota, der Bentota besucht. Angeboten von Watching Lanka.",
+  "shortDescription": "Ein 1-stuendigeer Ausflug ab Bentota, der Bentota besucht. Angeboten von Watching Lanka.",
+  "fullDescription": "Ein 1-stuendigeer Ausflug ab Bentota, der Bentota umfasst. Der laengste Halt ist Bentota, mit etwa 1 Stunde.\n\nWatching Lanka fuehrt es durch, und 5 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet private Flusskreuzfahrtboot-Mietung fuer Ihre Gruppe, erweiterte oder Express-Reiseroute (je nach gewaehlter Option), dienste eines erfahrenen Flussguides und hochwertige Schwimmweste und Sicherheitsausruestung. Nicht enthalten sind essen und Getraenke, hotelabholung und Rueckfahrt und foto- und Videodienste, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein 1-stuendigeer Ausflug ab Bentota, der Bentota besucht. Angeboten von Watching Lanka."
+  ],
+  "included": [
+   "Private Flusskreuzfahrtboot-Mietung fuer Ihre Gruppe",
+   "Erweiterte oder Express-Reiseroute (je nach gewaehlter Option)",
+   "Dienste eines erfahrenen Flussguides",
+   "Hochwertige Schwimmweste und Sicherheitsausruestung"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke",
+   "Hotelabholung und Rueckfahrt",
+   "Foto- und Videodienste"
+  ]
+ },
+ "colombo-tuk-tuk-city-highlights-tour-with-guide": {
+  "title": "Colombo: Tuk-Tuk-Stadt-Highlights-Tour mit Guide",
+  "metaTitle": "Colombo: Tuk-Tuk-Stadt-Highlights-Tour mit Guide",
+  "metaDescription": "Ein halbtaegigeer Ausflug ab Colombo, der Tuk tuk und Colombo besucht. Angeboten von Celebrity Tours Colombo.",
+  "shortDescription": "Ein halbtaegigeer Ausflug ab Colombo, der Tuk tuk und Colombo besucht. Angeboten von Celebrity Tours Colombo.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Colombo, der Tuk tuk und Colombo umfasst. Es gibt insgesamt 2 Stopps.\n\nDie Reihenfolge ist Tuk tuk (15 min), dann Colombo.\n\nDer Preis beinhaltet besuch des Gangaramaya-Tempels, besuch des Hindu-Tempels Sri Kailawasanathan Swami, besuch der Unabhaengigkeitsgedenkhalle und besuch der Roten Moschee. Nicht enthalten sind essen, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein halbtaegigeer Ausflug ab Colombo, der Tuk tuk und Colombo besucht. Angeboten von Celebrity Tours Colombo."
+  ],
+  "included": [
+   "Besuch des Gangaramaya-Tempels",
+   "Besuch des Hindu-Tempels Sri Kailawasanathan Swami",
+   "Besuch der Unabhaengigkeitsgedenkhalle",
+   "Besuch der Roten Moschee"
+  ],
+  "notIncluded": [
+   "Essen"
+  ]
+ },
+ "ella-yala-safari-drop-off": {
+  "title": "Ella: Yala-Safari, Rueckfahrt nach Tangalle/Hiriketiya/Mirissa",
+  "metaTitle": "Ella: Yala-Safari, Rueckfahrt nach Tangalle/Hiriketiya/Mirissa",
+  "metaDescription": "Ein 3-stuendigeer Ausflug ab Galle, der Yala National Park und Finish at: besucht. Angeboten von Buget safari - Srilanka.",
+  "shortDescription": "Ein 3-stuendigeer Ausflug ab Galle, der Yala National Park und Finish at: besucht. Angeboten von Buget safari - Srilanka.",
+  "fullDescription": "Ein 3-stuendigeer Ausflug ab Galle, der Yala National Park und Finish at: umfasst. Der laengste Halt ist Yala National Park, mit etwa 3 Stunden. Es gibt insgesamt 2 Stopps.\n\nDie Reihenfolge ist Yala National Park (3h), dann Finish at:.\n\nDer Preis beinhaltet englischsprachiger Guide, 4x4-Safari-Jeep mit erfahrenem Tracker, alle Parkeintritts- und Servicegebuehren und hotelabholung und Rueckfahrt. Nicht enthalten sind mittagessen, persoenliche Ausgaben und trinkgelder, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein 3-stuendigeer Ausflug ab Galle, der Yala National Park und Finish at: besucht. Angeboten von Buget safari - Srilanka."
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "4x4-Safari-Jeep mit erfahrenem Tracker",
+   "Alle Parkeintritts- und Servicegebuehren",
+   "Hotelabholung und Rueckfahrt"
+  ],
+  "notIncluded": [
+   "Mittagessen",
+   "Persoenliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "sigiriya-guided-night-jungle-animal-spotting": {
+  "title": "Sigiriya: gefuehrtes Nacht-Dschungel-Tierbeobachtungserlebnis",
+  "metaTitle": "Sigiriya: gefuehrtes Nacht-Dschungel-Tierbeobachtungserlebnis",
+  "metaDescription": "halbtaegigees Erlebnis in Sigiriya. . Angeboten von Shan Jeep Safari & Tour.",
+  "shortDescription": "halbtaegigees Erlebnis in Sigiriya. . Angeboten von Shan Jeep Safari & Tour.",
+  "fullDescription": "Ein halbtaegigees Erlebnis in Sigiriya. Experience the jungle after dark in Sigiriya on a night safari.\n\nShan Jeep Safari & Tour fuehrt es durch, und 4 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet safari-Jeep, erfahrener Fahrer/Guide, grundlegende Beleuchtungsausruestung und trinkwasser. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 171 $ statt 160 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "halbtaegigees Erlebnis in Sigiriya. . Angeboten von Shan Jeep Safari & Tour."
+  ],
+  "included": [
+   "Safari-Jeep",
+   "Erfahrener Fahrer/Guide",
+   "Grundlegende Beleuchtungsausruestung",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "sri-lanka-9-day-beach-and-culture-tour-with": {
+  "title": "Sri Lanka: 9-taegige Strand- und Kulturtour mit Transfers",
+  "metaTitle": "Sri Lanka: 9-taegige Strand- und Kulturtour mit Transfers",
+  "metaDescription": "9-taegigees Erlebnis in Sigiriya. . Angeboten von Padraig Lanka Tours.",
+  "shortDescription": "9-taegigees Erlebnis in Sigiriya. . Angeboten von Padraig Lanka Tours.",
+  "fullDescription": "Ein 9-taegigees Erlebnis in Sigiriya. Relax on the beaches of Negombo, Trincomalee, and Pasikuda.\n\nPadraig Lanka Tours fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet flughafentransfer, strandentspannung, nalanda Gedige und gewuerzgarten. Nicht enthalten sind mahlzeiten, persoenliche Ausgaben und optionale Aktivitaeten, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "9-taegigees Erlebnis in Sigiriya. . Angeboten von Padraig Lanka Tours."
+  ],
+  "included": [
+   "Flughafentransfer",
+   "Strandentspannung",
+   "Nalanda Gedige",
+   "Gewuerzgarten"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persoenliche Ausgaben",
+   "Optionale Aktivitaeten"
+  ]
+ },
+ "sri-lanka-tour-2-to-10-day-custom-round": {
+  "title": "Sri-Lanka-Tour: individuelle 2- bis 10-taegige Rundreise ab Colombo",
+  "metaTitle": "Sri-Lanka-Tour: individuelle 2- bis 10-taegige Rundreise ab Co...",
+  "metaDescription": "Ein 2-taegigeer Ausflug ab Colombo, der Day 1: Colombo to Anuradhapura besucht. Angeboten von Pekoe Lanka Tours.",
+  "shortDescription": "Ein 2-taegigeer Ausflug ab Colombo, der Day 1: Colombo to Anuradhapura besucht. Angeboten von Pekoe Lanka Tours.",
+  "fullDescription": "Ein 2-taegigeer Ausflug ab Colombo, der Day 1: Colombo to Anuradhapura umfasst.\n\nPekoe Lanka Tours fuehrt es durch, und 11 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich. Gestalten Sie Ihre private Sri-Lanka-Reise von 2 bis 10 Tagen.\n\nDer Preis beinhaltet privater Transport in einem klimatisierten Auto oder Van, professioneller englischsprachiger Chauffeur-Fahrer-Guide, hotel-, Flughafen- oder Hafenabholung und Rueckfahrt, treibstoff, Parkgebuehren und Autobahngebuehren, unterkunft und Mahlzeiten des Fahrers waehrend der gesamten Tour, trinkwasser in Flaschen an Reisetagen und flexible Reiseroute mit anpassbaren Besichtigungsstopps. Nicht enthalten sind unterkunft fuer Gaeste, mahlzeiten und Getraenke und attraktionen und Denkmaeler, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein 2-taegigeer Ausflug ab Colombo, der Day 1: Colombo to Anuradhapura besucht. Angeboten von Pekoe Lanka Tours."
+  ],
+  "included": [
+   "Privater Transport in einem klimatisierten Auto oder Van",
+   "Professioneller englischsprachiger Chauffeur-Fahrer-Guide",
+   "Hotel-, Flughafen- oder Hafenabholung und Rueckfahrt",
+   "Treibstoff, Parkgebuehren und Autobahngebuehren",
+   "Unterkunft und Mahlzeiten des Fahrers waehrend der gesamten Tour",
+   "Trinkwasser in Flaschen an Reisetagen",
+   "Flexible Reiseroute mit anpassbaren Besichtigungsstopps"
+  ],
+  "notIncluded": [
+   "Unterkunft fuer Gaeste",
+   "Mahlzeiten und Getraenke",
+   "Attraktionen und Denkmaeler"
+  ]
+ },
+ "kandy-nanu-oya-ella-train-ride-with-private-car": {
+  "title": "Kandy: Nanu-Oya-Ella-Zugfahrt mit privatem Auto und Guide",
+  "metaTitle": "Kandy: Nanu-Oya-Ella-Zugfahrt mit privatem Auto und Guide",
+  "metaDescription": "Ein ganztaegigeer Ausflug ab Kandy, der Ella, Sri Lanka besucht. Angeboten von .",
+  "shortDescription": "Ein ganztaegigeer Ausflug ab Kandy, der Ella, Sri Lanka besucht. Angeboten von .",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Kandy, der Ella, Sri Lanka umfasst. Der laengste Halt ist Ella, Sri Lanka, mit etwa 8 Stunden.\n\nDer Preis beinhaltet hotelabholung in Kandy und Rueckfahrt nach Ella (Auto/Tuk-Tuk), privates Auto/Tuk-Tuk mit einem freundlichen englischsprachigen Fahrer/Guide, vollstaendig anpassbare Reiseroute, reisen Sie in Ihrem eigenen Tempo und entspanntes, hektikfreies Erlebnis nach Ihren Praeferenzen. Nicht enthalten sind persoenliche Ausgaben und eintrittsgebuehren waehrend der optionalen Ella-Tour, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 110 $ statt 68 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein ganztaegigeer Ausflug ab Kandy, der Ella, Sri Lanka besucht. Angeboten von ."
+  ],
+  "included": [
+   "Hotelabholung in Kandy und Rueckfahrt nach Ella (Auto/Tuk-Tuk)",
+   "Privates Auto/Tuk-Tuk mit einem freundlichen englischsprachigen Fahrer/Guide",
+   "Vollstaendig anpassbare Reiseroute, reisen Sie in Ihrem eigenen Tempo",
+   "Entspanntes, hektikfreies Erlebnis nach Ihren Praeferenzen"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben",
+   "Eintrittsgebuehren waehrend der optionalen Ella-Tour"
+  ]
+ },
+ "sigiriya-village-culture-catamaran-cooking": {
+  "title": "Sigiriya: Dorfkultur, Katamaran und Kocherlebnis",
+  "metaTitle": "Sigiriya: Dorfkultur, Katamaran und Kocherlebnis",
+  "metaDescription": "Ein 3-stuendigeer Ausflug ab Sigiriya, der Tuk tuk, Sigiriya, Sigiriya und Tuk tuk besucht. Angeboten von Ceyloney Premium.",
+  "shortDescription": "Ein 3-stuendigeer Ausflug ab Sigiriya, der Tuk tuk, Sigiriya, Sigiriya und Tuk tuk besucht. Angeboten von Ceyloney Premium.",
+  "fullDescription": "Ein 3-stuendigeer Ausflug ab Sigiriya, der Tuk tuk, Sigiriya, Sigiriya und Tuk tuk umfasst. Es gibt insgesamt 4 Stopps.\n\nDie Reihenfolge ist Tuk tuk (15 min), dann Sigiriya, dann Sigiriya, dann Tuk tuk (30 min).\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt, sigiriya-Dorf-Eintrittsgebuehr, privater Transport und katamaranerlebnis bei Sonnenauf- oder -untergang. Nicht enthalten sind keine versteckten Kosten, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein 3-stuendigeer Ausflug ab Sigiriya, der Tuk tuk, Sigiriya, Sigiriya und Tuk tuk besucht. Angeboten von Ceyloney Premium."
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt",
+   "Sigiriya-Dorf-Eintrittsgebuehr",
+   "Privater Transport",
+   "Katamaranerlebnis bei Sonnenauf- oder -untergang"
+  ],
+  "notIncluded": [
+   "Keine versteckten Kosten"
   ]
  },
  "kandy-sigiriya-rock-dambulla-cave-temple": {

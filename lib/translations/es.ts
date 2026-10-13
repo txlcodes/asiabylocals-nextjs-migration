@@ -53525,7 +53525,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Kandy: tour privado por la ciudad en tuk-tuk con experiencia l...",
   "metaDescription": "Experiencia de medio dia en Kandy. . Ofrecido por Dinesh Perera.",
   "shortDescription": "Experiencia de medio dia en Kandy. . Ofrecido por Dinesh Perera.",
-  "fullDescription": "Una experiencia de medio dia en Kandy. Drive through the city of Kandy with your local guide on a tuk-tuk.\n\nDinesh Perera la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel, guia/conductor privado, itinerario personalizable y visita a la estupa de Asgiriya (entrada gratuita). No incluye entradas a las atracciones y comida y bebidas (almuerzo no incluido), por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una experiencia de medio dia en Kandy. Drive through the city of Kandy with your local guide on a tuk-tuk.\n\nDinesh Perera la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel, guia/conductor privado, itinerario personalizable y visita a la estupa de Asgiriya (entrada gratis). No incluye entradas a las atracciones y comida y bebidas (almuerzo no incluido), por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Experiencia de medio dia en Kandy. . Ofrecido por Dinesh Perera."
   ],
@@ -53533,7 +53533,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Recogida y regreso al hotel",
    "Guia/conductor privado",
    "Itinerario personalizable",
-   "Visita a la estupa de Asgiriya (entrada gratuita)"
+   "Visita a la estupa de Asgiriya (entrada gratis)"
   ],
   "notIncluded": [
    "Entradas a las atracciones",
@@ -58676,7 +58676,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Colombo: tour privado al patrimonio y monumentos modernos en v...",
   "metaDescription": "Una excursion de medio dia desde Colombo que visita Gangaramaya Temple, Galle Face Green, Lotus Tower Road y Jami Ul-Alfar Mosque. Ofrecido por Victoria tour pvt ...",
   "shortDescription": "Una excursion de medio dia desde Colombo que visita Gangaramaya Temple, Galle Face Green, Lotus Tower Road y Jami Ul-Alfar Mosque. Ofrecido por Victoria tour pvt ltd.",
-  "fullDescription": "Una excursion de medio dia desde Colombo, que recorre Gangaramaya Temple, Galle Face Green, Lotus Tower Road y Jami Ul-Alfar Mosque. Hay 16 paradas en total.\n\nEl orden de la ruta es Gangaramaya Temple (20 min), luego Galle Face Green (20 min), luego Lotus Tower Road (20 min), luego Jami Ul-Alfar Mosque (20 min), luego Old Parliament Building (20 min).\n\nEl precio incluye recogida en el hotel, vagon privado con aire acondicionado, guia local y chofer y visita al templo Gangaramaya. No incluye comidas y tarifas de entrada a las atracciones, por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una excursion de medio dia desde Colombo, que recorre Gangaramaya Temple, Galle Face Green, Lotus Tower Road y Jami Ul-Alfar Mosque. Hay 16 paradas en total.\n\nEl orden de la ruta es Gangaramaya Temple (20 min), luego Galle Face Green (20 min), luego Lotus Tower Road (20 min), luego Jami Ul-Alfar Mosque (20 min), luego Old Parliament Building (20 min).\n\nEl precio incluye recogida en el hotel, vagon privado con aire acondicionado, guia local y chofer y visita al templo de Gangaramaya. No incluye comidas y tarifas de entrada a las atracciones, por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Una excursion de medio dia desde Colombo que visita Gangaramaya Temple, Galle Face Green, Lotus Tower Road y Jami Ul-Alfar Mosque. Ofrecido por Victoria tour pvt ltd."
   ],
@@ -58684,7 +58684,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Recogida en el hotel",
    "Vagon privado con aire acondicionado",
    "Guia local y chofer",
-   "Visita al templo Gangaramaya"
+   "Visita al templo de Gangaramaya"
   ],
   "notIncluded": [
    "Comidas",
@@ -59486,15 +59486,15 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Colombo: aventura nocturna en tuk-tuk con degustacion de comid...",
   "metaDescription": "Una excursion de medio dia desde Colombo que visita Tuk tuk, Gangaramaya Temple, Galle Face Green y Tuk tuk. Ofrecido por Sri Lanka Eco Tour.",
   "shortDescription": "Una excursion de medio dia desde Colombo que visita Tuk tuk, Gangaramaya Temple, Galle Face Green y Tuk tuk. Ofrecido por Sri Lanka Eco Tour.",
-  "fullDescription": "Una excursion de medio dia desde Colombo, que recorre Tuk tuk, Gangaramaya Temple, Galle Face Green y Tuk tuk. La parada mas larga es Galle Face Green, con una duracion de unos 1 hora. Hay 4 paradas en total.\n\nEl orden de la ruta es Tuk tuk (40 min), luego Gangaramaya Temple (30 min), luego Galle Face Green (1h), luego Tuk tuk (30 min).\n\nEl precio incluye paseo en tuk-tuk, bebida de coco king coconut, visita al templo Gangaramaya y visita al salon memorial de la Independencia. No incluye complemento opcional para la torre Lotus, entrada para la torre Lotus y el templo Gangaramaya y gastos personales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 71 $ juntos en lugar de 46 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de medio dia desde Colombo, que recorre Tuk tuk, Gangaramaya Temple, Galle Face Green y Tuk tuk. La parada mas larga es Galle Face Green, con una duracion de unos 1 hora. Hay 4 paradas en total.\n\nEl orden de la ruta es Tuk tuk (40 min), luego Gangaramaya Temple (30 min), luego Galle Face Green (1h), luego Tuk tuk (30 min).\n\nEl precio incluye paseo en tuk-tuk, bebida de coco king coconut, visita al templo de Gangaramaya y visita al salon memorial de la independencia. No incluye complemento opcional para la torre Lotus, entrada para la torre Lotus y el templo Gangaramaya y gastos personales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 71 $ juntos en lugar de 46 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de medio dia desde Colombo que visita Tuk tuk, Gangaramaya Temple, Galle Face Green y Tuk tuk. Ofrecido por Sri Lanka Eco Tour."
   ],
   "included": [
    "Paseo en tuk-tuk",
    "Bebida de coco king coconut",
-   "Visita al templo Gangaramaya",
-   "Visita al salon memorial de la Independencia"
+   "Visita al templo de Gangaramaya",
+   "Visita al salon memorial de la independencia"
   ],
   "notIncluded": [
    "Complemento opcional para la torre Lotus",
@@ -59588,12 +59588,12 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Sri Lanka: viaje privado de 3 dias por las tierras altas con h...",
   "metaDescription": "Experiencia de 3 dia(s) en Colombo. . Ofrecido por Nelum Holidays and Tours (Pvt) Ltd.",
   "shortDescription": "Experiencia de 3 dia(s) en Colombo. . Ofrecido por Nelum Holidays and Tours (Pvt) Ltd.",
-  "fullDescription": "Una experiencia de 3 dia(s) en Colombo. Explore Sri Lanka's Hill Country & Train ride in 3 days Private Trip.\n\nNelum Holidays and Tours (Pvt) Ltd la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al aeropuerto (a cualquier hora), alojamiento en hotel de 3 estrellas por 2 noches con desayuno y cena, transporte privado durante 3 dias segun los lugares del itinerario y auto/furgoneta nuevo con aire acondicionado. No incluye almuerzo, propinas para el conductor al final del tour y entrada al templo del Diente y al espectaculo de danza cultural, por lo que debe presupuestar eso por separado. Dos viajeros pagan 1167 $ juntos en lugar de 998 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una experiencia de 3 dia(s) en Colombo. Explore Sri Lanka's Hill Country & Train ride in 3 days Private Trip.\n\nNelum Holidays and Tours (Pvt) Ltd la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso en el aeropuerto (en cualquier momento del dia), alojamiento en hotel de 3 estrellas por 2 noches con desayuno y cena, transporte privado durante 3 dias segun los lugares del itinerario y auto/furgoneta nuevo con aire acondicionado. No incluye almuerzo, propinas para el conductor al final del tour y entrada al templo del Diente y al espectaculo de danza cultural, por lo que debe presupuestar eso por separado. Dos viajeros pagan 1167 $ juntos en lugar de 998 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Experiencia de 3 dia(s) en Colombo. . Ofrecido por Nelum Holidays and Tours (Pvt) Ltd."
   ],
   "included": [
-   "Recogida y regreso al aeropuerto (a cualquier hora)",
+   "Recogida y regreso en el aeropuerto (en cualquier momento del dia)",
    "Alojamiento en hotel de 3 estrellas por 2 noches con desayuno y cena",
    "Transporte privado durante 3 dias segun los lugares del itinerario",
    "Auto/furgoneta nuevo con aire acondicionado"
@@ -60775,12 +60775,12 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Sri Lanka: tour privado guiado de 3 dias con hoteles de 3 estr...",
   "metaDescription": "Experiencia de 3 dia(s) en Colombo. . Ofrecido por Nelum Holidays and Tours (Pvt) Ltd.",
   "shortDescription": "Experiencia de 3 dia(s) en Colombo. . Ofrecido por Nelum Holidays and Tours (Pvt) Ltd.",
-  "fullDescription": "Una experiencia de 3 dia(s) en Colombo. Experirnce Local Culture, Ancient History, Nature & Wild Life in just 3 days.\n\nNelum Holidays and Tours (Pvt) Ltd la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al aeropuerto (a cualquier hora), alojamiento en hotel de 3 estrellas por 2 noches con desayuno y cena, transporte privado durante 3 dias segun los lugares del itinerario y auto/furgoneta nuevo con aire acondicionado. No incluye almuerzo, propinas para el conductor al final del tour y costo del jeep de safari privado, por lo que debe presupuestar eso por separado. Dos viajeros pagan 1150 $ juntos en lugar de 1014 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una experiencia de 3 dia(s) en Colombo. Experirnce Local Culture, Ancient History, Nature & Wild Life in just 3 days.\n\nNelum Holidays and Tours (Pvt) Ltd la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso en el aeropuerto (en cualquier momento del dia), alojamiento en hotel de 3 estrellas por 2 noches con desayuno y cena, transporte privado durante 3 dias segun los lugares del itinerario y auto/furgoneta nuevo con aire acondicionado. No incluye almuerzo, propinas para el conductor al final del tour y costo del jeep de safari privado, por lo que debe presupuestar eso por separado. Dos viajeros pagan 1150 $ juntos en lugar de 1014 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Experiencia de 3 dia(s) en Colombo. . Ofrecido por Nelum Holidays and Tours (Pvt) Ltd."
   ],
   "included": [
-   "Recogida y regreso al aeropuerto (a cualquier hora)",
+   "Recogida y regreso en el aeropuerto (en cualquier momento del dia)",
    "Alojamiento en hotel de 3 estrellas por 2 noches con desayuno y cena",
    "Transporte privado durante 3 dias segun los lugares del itinerario",
    "Auto/furgoneta nuevo con aire acondicionado"
@@ -61589,12 +61589,12 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Sri Lanka: tour privado de 4 dias para viajeros de poco tiempo",
   "metaDescription": "Experiencia de 4 dia(s) en Colombo. . Ofrecido por Nelum Holidays and Tours (Pvt) Ltd.",
   "shortDescription": "Experiencia de 4 dia(s) en Colombo. . Ofrecido por Nelum Holidays and Tours (Pvt) Ltd.",
-  "fullDescription": "Una experiencia de 4 dia(s) en Colombo. 3 Nights Accomodation & Private Transportation with a service of guide.\n\nNelum Holidays and Tours (Pvt) Ltd la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al aeropuerto (a cualquier hora), recogida en hoteles y regreso al final del tour, alojamiento en hotel de 3 o 4 estrellas por 3 noches con desayuno y cena y transporte privado durante 4 dias segun el itinerario. No incluye almuerzo y bocadillos, jeep de safari privado al parque nacional y entradas turisticas cuando corresponda, por lo que debe presupuestar eso por separado. Dos viajeros pagan 1488 $ juntos en lugar de 1336 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una experiencia de 4 dia(s) en Colombo. 3 Nights Accomodation & Private Transportation with a service of guide.\n\nNelum Holidays and Tours (Pvt) Ltd la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso en el aeropuerto (en cualquier momento del dia), recogida en hoteles y regreso al final del tour, alojamiento en hotel de 3 o 4 estrellas por 3 noches con desayuno y cena y transporte privado durante 4 dias segun el itinerario. No incluye almuerzo y bocadillos, jeep de safari privado al parque nacional y entradas turisticas cuando corresponda, por lo que debe presupuestar eso por separado. Dos viajeros pagan 1488 $ juntos en lugar de 1336 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Experiencia de 4 dia(s) en Colombo. . Ofrecido por Nelum Holidays and Tours (Pvt) Ltd."
   ],
   "included": [
-   "Recogida y regreso al aeropuerto (a cualquier hora)",
+   "Recogida y regreso en el aeropuerto (en cualquier momento del dia)",
    "Recogida en hoteles y regreso al final del tour",
    "Alojamiento en hotel de 3 o 4 estrellas por 3 noches con desayuno y cena",
    "Transporte privado durante 4 dias segun el itinerario"
@@ -61895,7 +61895,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Colombo: tour privado por la ciudad en tuk-tuk con comida y guia",
   "metaDescription": "Una excursion de medio dia desde Colombo que visita Gangaramaya Temple, Sri Kailasanathar Swami Temple, Colombo Fort Old Lighthouse & Clock Tower y Colombo Port M...",
   "shortDescription": "Una excursion de medio dia desde Colombo que visita Gangaramaya Temple, Sri Kailasanathar Swami Temple, Colombo Fort Old Lighthouse & Clock Tower y Colombo Port Maritime Museum. Ofrecido por Sri Lanka car and private driver hire.",
-  "fullDescription": "Una excursion de medio dia desde Colombo, que recorre Gangaramaya Temple, Sri Kailasanathar Swami Temple, Colombo Fort Old Lighthouse & Clock Tower y Colombo Port Maritime Museum. Hay 16 paradas en total.\n\nEl orden de la ruta es Gangaramaya Temple (30 min), luego Sri Kailasanathar Swami Temple (15 min), luego Colombo Fort Old Lighthouse & Clock Tower (15 min), luego Colombo Port Maritime Museum (15 min), luego Jami Ul-Alfar Mosque (10 min).\n\nEl precio incluye tour privado de 4 horas por la ciudad en un tuk-tuk premium personalizado Bajaj BS6, cobertura completa de seguro de pasajero a bordo, guia profesional, registrado por el gobierno, que habla ingles/ruso, recogida y regreso al hotel dentro de los limites de la ciudad de Colombo, visita al templo Gangaramaya y visita al templo Sri Kailawasanathan Swami Devasthanam Kovil. No incluye tarifas de entrada para subir a la torre Lotus de Colombo, por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una excursion de medio dia desde Colombo, que recorre Gangaramaya Temple, Sri Kailasanathar Swami Temple, Colombo Fort Old Lighthouse & Clock Tower y Colombo Port Maritime Museum. Hay 16 paradas en total.\n\nEl orden de la ruta es Gangaramaya Temple (30 min), luego Sri Kailasanathar Swami Temple (15 min), luego Colombo Fort Old Lighthouse & Clock Tower (15 min), luego Colombo Port Maritime Museum (15 min), luego Jami Ul-Alfar Mosque (10 min).\n\nEl precio incluye tour privado de 4 horas por la ciudad en un tuk-tuk premium personalizado Bajaj BS6, cobertura completa de seguro de pasajero a bordo, guia profesional, registrado por el gobierno, que habla ingles/ruso, recogida y regreso al hotel dentro de los limites de la ciudad de Colombo, visita al templo de Gangaramaya y visita al templo Sri Kailawasanathan Swami Devasthanam Kovil. No incluye tarifas de entrada para subir a la torre Lotus de Colombo, por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Una excursion de medio dia desde Colombo que visita Gangaramaya Temple, Sri Kailasanathar Swami Temple, Colombo Fort Old Lighthouse & Clock Tower y Colombo Port Maritime Museum. Ofrecido por Sri Lanka car and private driver hire."
   ],
@@ -61904,7 +61904,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cobertura completa de seguro de pasajero a bordo",
    "Guia profesional, registrado por el gobierno, que habla ingles/ruso",
    "Recogida y regreso al hotel dentro de los limites de la ciudad de Colombo",
-   "Visita al templo Gangaramaya",
+   "Visita al templo de Gangaramaya",
    "Visita al templo Sri Kailawasanathan Swami Devasthanam Kovil"
   ],
   "notIncluded": [
@@ -62921,14 +62921,14 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Colombo: tour privado por la ciudad con conductor y auto",
   "metaDescription": "Una excursion de un dia completo desde Colombo que visita Gangaramaya Temple, Independence Square, Colombo, Colombo Port City Beach y Pettah Market. Ofrecido por ...",
   "shortDescription": "Una excursion de un dia completo desde Colombo que visita Gangaramaya Temple, Independence Square, Colombo, Colombo Port City Beach y Pettah Market. Ofrecido por HASH ONE CEYLON TOURS (PVT) LTD.",
-  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Gangaramaya Temple, Independence Square, Colombo, Colombo Port City Beach y Pettah Market. La parada mas larga es Pettah Market, con una duracion de unos 2 horas. Hay 5 paradas en total.\n\nEl orden de la ruta es Gangaramaya Temple, luego Independence Square, Colombo (1h), luego Colombo Port City Beach, luego Pettah Market (2h), luego Galle Face Green.\n\nEl precio incluye tour privado por la ciudad en auto, visita al templo Gangaramaya, visita al salon memorial de la Independencia y visita al mercado de Pettah. No incluye tarifas de entrada a las atracciones, comidas y bebidas y gastos personales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 102 $ juntos en lugar de 102 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Gangaramaya Temple, Independence Square, Colombo, Colombo Port City Beach y Pettah Market. La parada mas larga es Pettah Market, con una duracion de unos 2 horas. Hay 5 paradas en total.\n\nEl orden de la ruta es Gangaramaya Temple, luego Independence Square, Colombo (1h), luego Colombo Port City Beach, luego Pettah Market (2h), luego Galle Face Green.\n\nEl precio incluye tour privado por la ciudad en auto, visita al templo de Gangaramaya, visita al salon memorial de la independencia y visita al mercado de Pettah. No incluye tarifas de entrada a las atracciones, comidas y bebidas y gastos personales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 102 $ juntos en lugar de 102 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de un dia completo desde Colombo que visita Gangaramaya Temple, Independence Square, Colombo, Colombo Port City Beach y Pettah Market. Ofrecido por HASH ONE CEYLON TOURS (PVT) LTD."
   ],
   "included": [
    "Tour privado por la ciudad en auto",
-   "Visita al templo Gangaramaya",
-   "Visita al salon memorial de la Independencia",
+   "Visita al templo de Gangaramaya",
+   "Visita al salon memorial de la independencia",
    "Visita al mercado de Pettah"
   ],
   "notIncluded": [
@@ -71100,7 +71100,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Tour privado por la ciudad de Kandy en tuk-tuk con guia local",
   "metaDescription": "Una excursion de medio dia desde Kandy que visita Kandy. Ofrecido por City Tours Lanka.",
   "shortDescription": "Una excursion de medio dia desde Kandy que visita Kandy. Ofrecido por City Tours Lanka.",
-  "fullDescription": "Una excursion de medio dia desde Kandy, que recorre Kandy. La parada mas larga es Kandy, con una duracion de unos 6 horas.\n\nEl precio incluye recogida y regreso al hotel (zona de Kandy), tuk-tuk privado con conductor-guia local amable, horario totalmente personalizable, viaje a su propio ritmo y experiencia relajada y sin prisas, adaptada a sus preferencias. No incluye , por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una excursion de medio dia desde Kandy, que recorre Kandy. La parada mas larga es Kandy, con una duracion de unos 6 horas.\n\nEl precio incluye recogida y regreso al hotel (zona de Kandy), tuk-tuk privado con conductor-guia local amable, horario totalmente personalizable, viaje a su propio ritmo y experiencia relajada y sin prisas adaptada a sus preferencias. No incluye , por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Una excursion de medio dia desde Kandy que visita Kandy. Ofrecido por City Tours Lanka."
   ],
@@ -71108,7 +71108,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Recogida y regreso al hotel (zona de Kandy)",
    "Tuk-tuk privado con conductor-guia local amable",
    "Horario totalmente personalizable, viaje a su propio ritmo",
-   "Experiencia relajada y sin prisas, adaptada a sus preferencias"
+   "Experiencia relajada y sin prisas adaptada a sus preferencias"
   ],
   "notIncluded": [
    ""
@@ -79842,12 +79842,12 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Desde Negombo: tour guiado de lo mejor de Colombo",
   "metaDescription": "Una excursion de un dia completo desde Negombo que visita Gangaramaya Temple, Pettah Market, Jami Ul-Alfar Mosque y Colombo Lotus Tower. Ofrecido por Getaway Ceylon.",
   "shortDescription": "Una excursion de un dia completo desde Negombo que visita Gangaramaya Temple, Pettah Market, Jami Ul-Alfar Mosque y Colombo Lotus Tower. Ofrecido por Getaway Ceylon.",
-  "fullDescription": "Una excursion de un dia completo desde Negombo, que recorre Gangaramaya Temple, Pettah Market, Jami Ul-Alfar Mosque y Colombo Lotus Tower. La parada mas larga es Gangaramaya Temple, con una duracion de unos 1 hora. Hay 6 paradas en total.\n\nEl orden de la ruta es Gangaramaya Temple (1h), luego Pettah Market (1h), luego Jami Ul-Alfar Mosque (1h), luego Colombo Lotus Tower (1h), luego Independence Square, Colombo (45 min).\n\nEl precio incluye visita al templo Gangaramaya, visita al templo Seema Malaka, explore el mercado de Pettah y visite el fuerte de Colombo. No incluye comidas, gastos personales y tarifas de entrada, por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una excursion de un dia completo desde Negombo, que recorre Gangaramaya Temple, Pettah Market, Jami Ul-Alfar Mosque y Colombo Lotus Tower. La parada mas larga es Gangaramaya Temple, con una duracion de unos 1 hora. Hay 6 paradas en total.\n\nEl orden de la ruta es Gangaramaya Temple (1h), luego Pettah Market (1h), luego Jami Ul-Alfar Mosque (1h), luego Colombo Lotus Tower (1h), luego Independence Square, Colombo (45 min).\n\nEl precio incluye visita al templo de Gangaramaya, visita al templo Seema Malaka, explore el mercado de Pettah y visite el fuerte de Colombo. No incluye comidas, gastos personales y tarifas de entrada, por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Una excursion de un dia completo desde Negombo que visita Gangaramaya Temple, Pettah Market, Jami Ul-Alfar Mosque y Colombo Lotus Tower. Ofrecido por Getaway Ceylon."
   ],
   "included": [
-   "Visita al templo Gangaramaya",
+   "Visita al templo de Gangaramaya",
    "Visita al templo Seema Malaka",
    "Explore el mercado de Pettah",
    "Visite el fuerte de Colombo"
@@ -80046,12 +80046,12 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Colombo: tour personalizado por la ciudad con refrescos",
   "metaDescription": "Experiencia de medio dia en Colombo. . Ofrecido por Kings Ceylon Gems & Tours.",
   "shortDescription": "Experiencia de medio dia en Colombo. . Ofrecido por Kings Ceylon Gems & Tours.",
-  "fullDescription": "Una experiencia de medio dia en Colombo. Explore Colombo on a custom city tour with a local guide.\n\nKings Ceylon Gems & Tours la organiza, y 8 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye visita al templo Gangaramaya, visita al paseo Galle Face Green, visita a la plaza de la Independencia y visita al museo nacional de Colombo. No incluye comidas y tarifas de entrada a las atracciones, por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una experiencia de medio dia en Colombo. Explore Colombo on a custom city tour with a local guide.\n\nKings Ceylon Gems & Tours la organiza, y 8 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye visita al templo de Gangaramaya, visita al paseo Galle Face Green, visita a la plaza de la Independencia y visita al museo nacional de Colombo. No incluye comidas y tarifas de entrada a las atracciones, por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Experiencia de medio dia en Colombo. . Ofrecido por Kings Ceylon Gems & Tours."
   ],
   "included": [
-   "Visita al templo Gangaramaya",
+   "Visita al templo de Gangaramaya",
    "Visita al paseo Galle Face Green",
    "Visita a la plaza de la Independencia",
    "Visita al museo nacional de Colombo"
@@ -80354,13 +80354,13 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Colombo: lo mejor de la ciudad, cultura, y templos, tour guiado",
   "metaDescription": "Una excursion de medio dia desde Colombo que visita Kelaniya Temple, Gangaramaya Temple y Independence Square, Colombo. Ofrecido por Ceylon Traveline (PVT) LTD.",
   "shortDescription": "Una excursion de medio dia desde Colombo que visita Kelaniya Temple, Gangaramaya Temple y Independence Square, Colombo. Ofrecido por Ceylon Traveline (PVT) LTD.",
-  "fullDescription": "Una excursion de medio dia desde Colombo, que recorre Kelaniya Temple, Gangaramaya Temple y Independence Square, Colombo. La parada mas larga es Kelaniya Temple, con una duracion de unos 2 horas. Hay 3 paradas en total.\n\nEl orden de la ruta es Kelaniya Temple (2h), luego Gangaramaya Temple (1h), luego Independence Square, Colombo (1h).\n\nEl precio incluye visita al Kelaniya Raja Maha Vihara, visita al templo Gangaramaya, entradas a Gangaramaya y Kelaniya Raja Maha Viharaya y visita a Seema Malaka y el lago Beira. No incluye comidas y bebidas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 320 $ juntos en lugar de 277 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de medio dia desde Colombo, que recorre Kelaniya Temple, Gangaramaya Temple y Independence Square, Colombo. La parada mas larga es Kelaniya Temple, con una duracion de unos 2 horas. Hay 3 paradas en total.\n\nEl orden de la ruta es Kelaniya Temple (2h), luego Gangaramaya Temple (1h), luego Independence Square, Colombo (1h).\n\nEl precio incluye visita al Kelaniya Raja Maha Vihara, visita al templo de Gangaramaya, entradas a Gangaramaya y Kelaniya Raja Maha Viharaya y visita a Seema Malaka y el lago Beira. No incluye comidas y bebidas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 320 $ juntos en lugar de 277 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de medio dia desde Colombo que visita Kelaniya Temple, Gangaramaya Temple y Independence Square, Colombo. Ofrecido por Ceylon Traveline (PVT) LTD."
   ],
   "included": [
    "Visita al Kelaniya Raja Maha Vihara",
-   "Visita al templo Gangaramaya",
+   "Visita al templo de Gangaramaya",
    "Entradas a Gangaramaya y Kelaniya Raja Maha Viharaya",
    "Visita a Seema Malaka y el lago Beira"
   ],
@@ -80835,7 +80835,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Kandy: principales sitios de la ciudad y visita al parque agro...",
   "metaDescription": "Experiencia de medio dia en Kandy. . Ofrecido por Kandy Travel With Sana.",
   "shortDescription": "Experiencia de medio dia en Kandy. . Ofrecido por Kandy Travel With Sana.",
-  "fullDescription": "Una experiencia de medio dia en Kandy. Trek royal paths amidst rare birds and lush tropical flora on this canopy walk.\n\nKandy Travel With Sana la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye tour de 4 horas con una vista privada de 360 grados, tuk-tuk con conductor-guia local amable (que habla ingles), inclusiones y destacados:, experiencia relajada y sin prisas, adaptada a sus preferencias y recogida y regreso al hotel. No incluye gastos personales, comida y entradas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 21 $ juntos en lugar de 20 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una experiencia de medio dia en Kandy. Trek royal paths amidst rare birds and lush tropical flora on this canopy walk.\n\nKandy Travel With Sana la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye tour de 4 horas con una vista privada de 360 grados, tuk-tuk con conductor-guia local amable (que habla ingles), inclusiones y destacados:, experiencia relajada y sin prisas adaptada a sus preferencias y recogida y regreso al hotel. No incluye gastos personales, comida y entradas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 21 $ juntos en lugar de 20 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Experiencia de medio dia en Kandy. . Ofrecido por Kandy Travel With Sana."
   ],
@@ -80843,7 +80843,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tour de 4 horas con una vista privada de 360 grados",
    "Tuk-tuk con conductor-guia local amable (que habla ingles)",
    "Inclusiones y destacados:",
-   "Experiencia relajada y sin prisas, adaptada a sus preferencias",
+   "Experiencia relajada y sin prisas adaptada a sus preferencias",
    "Recogida y regreso al hotel"
   ],
   "notIncluded": [
@@ -85666,6 +85666,71 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cargos por equipaje de tamaño excesivo (a menos que se informe con anticipacion)"
   ]
  },
+ "bentotamirissahiriketiyatangalle-ella-scenic-day": {
+  "title": "Bentota/Mirissa/Hiriketiya/Tangalle: tour panoramico de un dia a Ella",
+  "metaTitle": "Bentota/Mirissa/Hiriketiya/Tangalle: tour panoramico de un dia...",
+  "metaDescription": "Una excursion de un dia completo desde Galle que visita Ravana Falls, Ella Rock, Local restaurant y Little Adam's Peak. Ofrecido por Taprobane Tours.",
+  "shortDescription": "Una excursion de un dia completo desde Galle que visita Ravana Falls, Ella Rock, Local restaurant y Little Adam's Peak. Ofrecido por Taprobane Tours.",
+  "fullDescription": "Una excursion de un dia completo desde Galle, que recorre Ravana Falls, Ella Rock, Local restaurant y Little Adam's Peak. Hay 6 paradas en total.\n\nEl orden de la ruta es Ravana Falls, luego Ella Rock, luego Local restaurant, luego Little Adam's Peak, luego Demodara Railway Loop Viewpoint.\n\nEl precio incluye recogida y regreso al hotel desde lugares seleccionados en la costa sur, transporte privado con aire acondicionado (auto, furgoneta o autobus), conductor-guia que habla ingles durante todo el viaje, viaje por carretera panoramico por las montañas de Sri Lanka, peajes de autopista y tarifas de estacionamiento y jugo de fruta fresca. No incluye entradas, almuerzo y cuentas de cafe y tarifas de la tirolina gigante Flying Ravana, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de un dia completo desde Galle que visita Ravana Falls, Ella Rock, Local restaurant y Little Adam's Peak. Ofrecido por Taprobane Tours."
+  ],
+  "included": [
+   "Recogida y regreso al hotel desde lugares seleccionados en la costa sur",
+   "Transporte privado con aire acondicionado (auto, furgoneta o autobus)",
+   "Conductor-guia que habla ingles durante todo el viaje",
+   "Viaje por carretera panoramico por las montañas de Sri Lanka",
+   "Peajes de autopista y tarifas de estacionamiento",
+   "Jugo de fruta fresca"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Almuerzo y cuentas de cafe",
+   "Tarifas de la tirolina gigante Flying Ravana"
+  ]
+ },
+ "tea-plucker-day-nuwara-eliya-to-colombo-transfer": {
+  "title": "Dia del recolector de te: traslado de Nuwara Eliya a Colombo",
+  "metaTitle": "Dia del recolector de te: traslado de Nuwara Eliya a Colombo",
+  "metaDescription": "Una excursion de medio dia desde Colombo que visita Ramboda y Finish at:. Ofrecido por Padraig Lanka Tours.",
+  "shortDescription": "Una excursion de medio dia desde Colombo que visita Ramboda y Finish at:. Ofrecido por Padraig Lanka Tours.",
+  "fullDescription": "Una excursion de medio dia desde Colombo, que recorre Ramboda y Finish at:. La parada mas larga es Ramboda, con una duracion de unos 1 hora. Hay 2 paradas en total.\n\nEl orden de la ruta es Ramboda (1h), luego Finish at:.\n\nEl precio incluye vehiculo privado con aire acondicionado, chofer-guia que habla ingles, experiencia de recoleccion de te y visita a una fabrica de te. No incluye tarifas de actividades de rafting en aguas bravas en Kitulgala, comidas y bebidas no mencionadas en el itinerario y gastos personales y recuerdos, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de medio dia desde Colombo que visita Ramboda y Finish at:. Ofrecido por Padraig Lanka Tours."
+  ],
+  "included": [
+   "Vehiculo privado con aire acondicionado",
+   "Chofer-guia que habla ingles",
+   "Experiencia de recoleccion de te",
+   "Visita a una fabrica de te"
+  ],
+  "notIncluded": [
+   "Tarifas de actividades de rafting en aguas bravas en Kitulgala",
+   "Comidas y bebidas no mencionadas en el itinerario",
+   "Gastos personales y recuerdos"
+  ]
+ },
+ "sri-lanka-7-day-best-attractions-tour": {
+  "title": "Sri Lanka: tour de las mejores atracciones de 7 dias",
+  "metaTitle": "Sri Lanka: tour de las mejores atracciones de 7 dias",
+  "metaDescription": "Experiencia de 7 dia(s) en Colombo. . Ofrecido por Best Lanka Holidays.",
+  "shortDescription": "Experiencia de 7 dia(s) en Colombo. . Ofrecido por Best Lanka Holidays.",
+  "fullDescription": "Una experiencia de 7 dia(s) en Colombo. Visit UNIESCO world heritage sites.\n\nBest Lanka Holidays la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso en el aeropuerto, asistencia en el aeropuerto, alojamiento en un hotel de categoria superior y comidas, desayuno y cena. No incluye boletos de avion no incluidos, permisos de camara y video y seguro de viaje, por lo que debe presupuestar eso por separado. Dos viajeros pagan 918 $ juntos en lugar de 918 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de 7 dia(s) en Colombo. . Ofrecido por Best Lanka Holidays."
+  ],
+  "included": [
+   "Recogida y regreso en el aeropuerto",
+   "Asistencia en el aeropuerto",
+   "Alojamiento en un hotel de categoria superior",
+   "Comidas, desayuno y cena"
+  ],
+  "notIncluded": [
+   "Boletos de avion no incluidos",
+   "Permisos de camara y video",
+   "Seguro de viaje"
+  ]
+ },
  "colombo-private-tuk-tuk-tour-with-hotel-pickup": {
   "title": "Colombo: tour privado en tuk-tuk con recogida en el hotel",
   "metaTitle": "Colombo: tour privado en tuk-tuk con recogida en el hotel",
@@ -85683,6 +85748,454 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Entradas a la torre de loto y al templo de Gangaramaya"
+  ]
+ },
+ "colombo-hidden-stories-colonial-heritage-tuk-tuk": {
+  "title": "Colombo: historias ocultas y patrimonio colonial en tuk-tuk",
+  "metaTitle": "Colombo: historias ocultas y patrimonio colonial en tuk-tuk",
+  "metaDescription": "Una excursion de medio dia desde Colombo que visita Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk y Colombo Port Maritime Museum. Ofrecido por Ceylo...",
+  "shortDescription": "Una excursion de medio dia desde Colombo que visita Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk y Colombo Port Maritime Museum. Ofrecido por Ceylonture Travels.",
+  "fullDescription": "Una excursion de medio dia desde Colombo, que recorre Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk y Colombo Port Maritime Museum. Hay 17 paradas en total.\n\nEl orden de la ruta es Tuk tuk (10 min), luego Colombo Fort Old Lighthouse & Clock Tower (20 min), luego Tuk tuk (5 min), luego Colombo Port Maritime Museum (10 min), luego Old Parliament Building, Colombo (10 min).\n\nEl precio incluye tour privado de 4 horas en tuk-tuk en Colombo, con guia local experto que habla ingles, bebida de bienvenida (agua de king coconut) y paraguas proporcionado (previa solicitud). No incluye comida y bebidas y entradas a la torre de loto y al templo de Gangaramaya, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de medio dia desde Colombo que visita Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk y Colombo Port Maritime Museum. Ofrecido por Ceylonture Travels."
+  ],
+  "included": [
+   "Tour privado de 4 horas en tuk-tuk en Colombo",
+   "Con guia local experto que habla ingles",
+   "Bebida de bienvenida (agua de king coconut)",
+   "Paraguas proporcionado (previa solicitud)"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Entradas a la torre de loto y al templo de Gangaramaya"
+  ]
+ },
+ "sigiriya-tuk-tuk-tours-arund-rock-view-points-and": {
+  "title": "Sigiriya: tours en tuk-tuk a miradores de la roca y tour por la ciudad",
+  "metaTitle": "Sigiriya: tours en tuk-tuk a miradores de la roca y tour por l...",
+  "metaDescription": "Una excursion de medio dia desde Sigiriya que visita Tuk tuk y Sigiriya. Ofrecido por easygolanka.",
+  "shortDescription": "Una excursion de medio dia desde Sigiriya que visita Tuk tuk y Sigiriya. Ofrecido por easygolanka.",
+  "fullDescription": "Una excursion de medio dia desde Sigiriya, que recorre Tuk tuk y Sigiriya. Hay 2 paradas en total.\n\nEl orden de la ruta es Tuk tuk (30 min), luego Sigiriya (30 min).\n\nEl precio incluye paseo en tuk-tuk a miradores secretos de la roca del leon de Sigiriya y la roca de Pidurangala, tour panoramico por caminos de pueblo, visita a hermosas orillas de lago y senderos verdes exuberantes y perspectivas de la historia local. No incluye entradas costosas y escalada en roca, por lo que debe presupuestar eso por separado. Dos viajeros pagan 28 $ juntos en lugar de 15 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de medio dia desde Sigiriya que visita Tuk tuk y Sigiriya. Ofrecido por easygolanka."
+  ],
+  "included": [
+   "Paseo en tuk-tuk a miradores secretos de la roca del leon de Sigiriya y la roca de Pidurangala",
+   "Tour panoramico por caminos de pueblo",
+   "Visita a hermosas orillas de lago y senderos verdes exuberantes",
+   "Perspectivas de la historia local"
+  ],
+  "notIncluded": [
+   "Entradas costosas",
+   "Escalada en roca"
+  ]
+ },
+ "colombo-city-tour-with-lotus-tower-and-temple": {
+  "title": "Colombo: tour por la ciudad con la torre de loto y entrada al templo",
+  "metaTitle": "Colombo: tour por la ciudad con la torre de loto y entrada al ...",
+  "metaDescription": "Experiencia de medio dia en Colombo. . Ofrecido por Ceylon Asia Voyage.",
+  "shortDescription": "Experiencia de medio dia en Colombo. . Ofrecido por Ceylon Asia Voyage.",
+  "fullDescription": "Una experiencia de medio dia en Colombo. Discover the vibrant capital of Sri Lanka on a guided city tour.\n\nCeylon Asia Voyage la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel, vehiculo privado con aire acondicionado, conductor/guia que habla ingles y todas las entradas (torre de loto y templos cuando corresponda). No incluye comidas y gastos personales y propinas (opcional), por lo que debe presupuestar eso por separado. Dos viajeros pagan 507 $ juntos en lugar de 507 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de medio dia en Colombo. . Ofrecido por Ceylon Asia Voyage."
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Vehiculo privado con aire acondicionado",
+   "Conductor/guia que habla ingles",
+   "Todas las entradas (torre de loto y templos cuando corresponda)"
+  ],
+  "notIncluded": [
+   "Comidas y gastos personales",
+   "Propinas (opcional)"
+  ]
+ },
+ "kandy-tuk-tuk-city-tour-with-local-guide-scenic": {
+  "title": "Kandy: tour por la ciudad en tuk-tuk con guia local y vistas panoramicas",
+  "metaTitle": "Kandy: tour por la ciudad en tuk-tuk con guia local y vistas p...",
+  "metaDescription": "Una excursion de medio dia desde Kandy que visita Tuk tuk y Kandy. Ofrecido por Kandy Aaron City Tour Tuk Tuk.",
+  "shortDescription": "Una excursion de medio dia desde Kandy que visita Tuk tuk y Kandy. Ofrecido por Kandy Aaron City Tour Tuk Tuk.",
+  "fullDescription": "Una excursion de medio dia desde Kandy, que recorre Tuk tuk y Kandy. La parada mas larga es Kandy, con una duracion de unos 7 horas. Hay 2 paradas en total.\n\nEl orden de la ruta es Tuk tuk (30 min), luego Kandy (7h).\n\nEl precio incluye recogida y regreso al hotel, guia/conductor privado, itinerario personalizable y visita a la estupa de Asgiriya (entrada gratis). No incluye tarifas de entrada a las atracciones, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de medio dia desde Kandy que visita Tuk tuk y Kandy. Ofrecido por Kandy Aaron City Tour Tuk Tuk."
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Guia/conductor privado",
+   "Itinerario personalizable",
+   "Visita a la estupa de Asgiriya (entrada gratis)"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a las atracciones"
+  ]
+ },
+ "14-days-sri-lanka-private-tour-package-with": {
+  "title": "Paquete privado de 14 dias en Sri Lanka con hoteles y comidas",
+  "metaTitle": "Paquete privado de 14 dias en Sri Lanka con hoteles y comidas",
+  "metaDescription": "Experiencia de 14 dia(s) en Colombo. . Ofrecido por Nelum Holidays and Tours (Pvt) Ltd.",
+  "shortDescription": "Experiencia de 14 dia(s) en Colombo. . Ofrecido por Nelum Holidays and Tours (Pvt) Ltd.",
+  "fullDescription": "Una experiencia de 14 dia(s) en Colombo. Explore Five UNESCO World Heritage Site with this 14 Days Tour.\n\nNelum Holidays and Tours (Pvt) Ltd la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso en el aeropuerto (en cualquier momento del dia), alojamiento en hotel de 3 o 4 estrellas para 13 noches con las comidas mencionadas, transporte privado durante 14 dias segun los lugares del itinerario y auto/furgoneta nuevo con aire acondicionado. No incluye almuerzo y algunas cenas, propinas para el conductor al final del tour y jeep de safari privado a los parques nacionales, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de 14 dia(s) en Colombo. . Ofrecido por Nelum Holidays and Tours (Pvt) Ltd."
+  ],
+  "included": [
+   "Recogida y regreso en el aeropuerto (en cualquier momento del dia)",
+   "Alojamiento en hotel de 3 o 4 estrellas para 13 noches con las comidas mencionadas",
+   "Transporte privado durante 14 dias segun los lugares del itinerario",
+   "Auto/furgoneta nuevo con aire acondicionado"
+  ],
+  "notIncluded": [
+   "Almuerzo y algunas cenas",
+   "Propinas para el conductor al final del tour",
+   "Jeep de safari privado a los parques nacionales"
+  ]
+ },
+ "bentota-galle-fort-turtle-hatchery-moonstone-mine": {
+  "title": "Bentota: fuerte de Galle, criadero de tortugas y mina de piedra lunar",
+  "metaTitle": "Bentota: fuerte de Galle, criadero de tortugas y mina de piedr...",
+  "metaDescription": "Una excursion de un dia completo desde Galle que visita Kosgoda Spice Garden 777, Kosgoda Sea Turtle Conservation, Ariyapala Mask Museum y Meetiyagoda Moonstone M...",
+  "shortDescription": "Una excursion de un dia completo desde Galle que visita Kosgoda Spice Garden 777, Kosgoda Sea Turtle Conservation, Ariyapala Mask Museum y Meetiyagoda Moonstone Mine. Ofrecido por Wander Zeylan Tours.",
+  "fullDescription": "Una excursion de un dia completo desde Galle, que recorre Kosgoda Spice Garden 777, Kosgoda Sea Turtle Conservation, Ariyapala Mask Museum y Meetiyagoda Moonstone Mine. Hay 7 paradas en total.\n\nEl orden de la ruta es Kosgoda Spice Garden 777, luego Kosgoda Sea Turtle Conservation, luego Ariyapala Mask Museum, luego Meetiyagoda Moonstone Mine, luego Hikkaduwa Beach.\n\nEl precio incluye recogida y regreso al hotel, transporte en vehiculo privado con aire acondicionado, conductor o conductor-guia y visita al criadero de tortugas de Kosgoda. No incluye entradas al criadero de tortugas, almuerzo y bebidas y gastos personales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 136 $ juntos en lugar de 111 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de un dia completo desde Galle que visita Kosgoda Spice Garden 777, Kosgoda Sea Turtle Conservation, Ariyapala Mask Museum y Meetiyagoda Moonstone Mine. Ofrecido por Wander Zeylan Tours."
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Transporte en vehiculo privado con aire acondicionado",
+   "Conductor o conductor-guia",
+   "Visita al criadero de tortugas de Kosgoda"
+  ],
+  "notIncluded": [
+   "Entradas al criadero de tortugas",
+   "Almuerzo y bebidas",
+   "Gastos personales"
+  ]
+ },
+ "ella-2-day-belihuloya-camping-kayaking-and": {
+  "title": "Ella: campamento, kayak y caminata de 2 dias en Belihuloya",
+  "metaTitle": "Ella: campamento, kayak y caminata de 2 dias en Belihuloya",
+  "metaDescription": "Experiencia de 2 dia(s) en Ella. . Ofrecido por Explore Ceylona.",
+  "shortDescription": "Experiencia de 2 dia(s) en Ella. . Ofrecido por Explore Ceylona.",
+  "fullDescription": "Una experiencia de 2 dia(s) en Ella. Feel the thrill of kayaking at sunrise on the calm waters of Samanalawewa.\n\nExplore Ceylona la organiza, y 8 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye transporte seguro y comodo, servicio de guia que habla ingles, alojamiento en campamento y servicio de fotografia y videografia. No incluye , por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de 2 dia(s) en Ella. . Ofrecido por Explore Ceylona."
+  ],
+  "included": [
+   "Transporte seguro y comodo",
+   "Servicio de guia que habla ingles",
+   "Alojamiento en campamento",
+   "Servicio de fotografia y videografia"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "from-kandy-sigiriya-pidurangala-sunset-lake-tour": {
+  "title": "Desde Kandy: Sigiriya, atardecer en Pidurangala y tour del lago",
+  "metaTitle": "Desde Kandy: Sigiriya, atardecer en Pidurangala y tour del lago",
+  "metaDescription": "Experiencia de un dia completo en Kandy. . Ofrecido por kandy super tours.",
+  "shortDescription": "Experiencia de un dia completo en Kandy. . Ofrecido por kandy super tours.",
+  "fullDescription": "Una experiencia de un dia completo en Kandy. Hike Pidurangala Rock for sunset views.\n\nkandy super tours la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel desde Kandy, vehiculo privado con aire acondicionado, conductor-guia que habla ingles y agua embotellada. No incluye comidas y bebidas, entradas a las atracciones opcionales y gastos personales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 338 $ juntos en lugar de 297 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de un dia completo en Kandy. . Ofrecido por kandy super tours."
+  ],
+  "included": [
+   "Recogida y regreso al hotel desde Kandy",
+   "Vehiculo privado con aire acondicionado",
+   "Conductor-guia que habla ingles",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "entradas a las atracciones opcionales",
+   "Gastos personales"
+  ]
+ },
+ "meepawala-galle-create-your-own-silver-ring": {
+  "title": "Meepawala, Galle: cree su propio anillo de plata",
+  "metaTitle": "Meepawala, Galle: cree su propio anillo de plata",
+  "metaDescription": "Experiencia de 3 hora(s) en Galle. . Ofrecido por Teni Craft.",
+  "shortDescription": "Experiencia de 3 hora(s) en Galle. . Ofrecido por Teni Craft.",
+  "fullDescription": "Una experiencia de 3 hora(s) en Galle. Transform your ideas into stunning jewelry that reflects your style.\n\nTeni Craft la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye consulta personal y discusion de diseño, servicio de diseño de joyeria personalizado, creacion artesanal de joyeria de oro o plata y diseño personalizado segun los requisitos del cliente. No incluye , por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de 3 hora(s) en Galle. . Ofrecido por Teni Craft."
+  ],
+  "included": [
+   "Consulta personal y discusion de diseño",
+   "Servicio de diseño de joyeria personalizado",
+   "Creacion artesanal de joyeria de oro o plata",
+   "Diseño personalizado segun los requisitos del cliente"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "kandy-nuwaraeliya-tour-ella-train-free-city-tour": {
+  "title": "Kandy: tour de Nuwara Eliya, tren a Ella y tour de ciudad gratis de bonificacion",
+  "metaTitle": "Kandy: tour de Nuwara Eliya, tren a Ella y tour de ciudad grat...",
+  "metaDescription": "Experiencia de un dia completo en Kandy. Boleto de tren a Ella incluido: boleto de segunda clase para el tren de las 13:30 a Ella. Ofrecido por Jet Joy Lanka Tours.",
+  "shortDescription": "Experiencia de un dia completo en Kandy. Boleto de tren a Ella incluido: boleto de segunda clase para el tren de las 13:30 a Ella. Ofrecido por Jet Joy Lanka Tours.",
+  "fullDescription": "Una experiencia de un dia completo en Kandy. Boleto de tren a Ella incluido: boleto de segunda clase para el tren de las 13:30 a Ella.\n\nJet Joy Lanka Tours la organiza, y 6 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye experiencia bonus previa al tour: tour privado gratuito de 3 a 4 horas por la ciudad de Kandy el dia anterior a la salida (hasta 4 paradas), boleto de tren de segunda clase gratis: boleto de segunda clase gratuito para el tren de las 14:30 de Nanu Oya a Ella, transporte privado: vehiculo limpio y totalmente climatizado con un chofer-guia profesional que habla ingles, fin de tour flexible: regreso a la estacion de Nanu Oya para el tren, O traslado de regreso a su hotel en Kandy y recogida gratuita en el hotel: incluida para todos los alojamientos dentro de un radio de 4 km del centro de Kandy. No incluye asiento reservado en el tren (los boletos de segunda clase no tienen reserva; los asientos dependen de la disponibilidad y puede ser necesario viajar de pie en horas pico), entradas para paradas opcionales (templo del diente, entradas al espectaculo de danza cultural), tarifas personales de spa/masaje durante la visita opcional al spa ayurvedico y gastos de comida, bebidas y almuerzo, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Boleto de tren a Ella incluido: boleto de segunda clase para el tren de las 13:30 a Ella"
+  ],
+  "included": [
+   "Experiencia bonus previa al tour: tour privado gratuito de 3 a 4 horas por la ciudad de Kandy el dia anterior a la salida (hasta 4 paradas).",
+   "Boleto de tren de segunda clase gratis: boleto de segunda clase gratuito para el tren de las 14:30 de Nanu Oya a Ella.",
+   "Transporte privado: vehiculo limpio y totalmente climatizado con un chofer-guia profesional que habla ingles.",
+   "Fin de tour flexible: regreso a la estacion de Nanu Oya para el tren, O traslado de regreso a su hotel en Kandy.",
+   "Recogida gratuita en el hotel: incluida para todos los alojamientos dentro de un radio de 4 km del centro de Kandy."
+  ],
+  "notIncluded": [
+   "Asiento reservado en el tren (los boletos de segunda clase no tienen reserva; los asientos dependen de la disponibilidad y puede ser necesario viajar de pie en horas pico).",
+   "Entradas para paradas opcionales (templo del diente, entradas al espectaculo de danza cultural).",
+   "Tarifas personales de spa/masaje durante la visita opcional al spa ayurvedico.",
+   "Gastos de comida, bebidas y almuerzo."
+  ]
+ },
+ "kandy-sigiriya-or-pidurangala-dambulla-day-tour": {
+  "title": "Kandy: tour de un dia a Sigiriya o Pidurangala y Dambulla en furgoneta",
+  "metaTitle": "Kandy: tour de un dia a Sigiriya o Pidurangala y Dambulla en f...",
+  "metaDescription": "Experiencia de medio dia en Kandy. . Ofrecido por Lishan Tours.",
+  "shortDescription": "Experiencia de medio dia en Kandy. . Ofrecido por Lishan Tours.",
+  "fullDescription": "Una experiencia de medio dia en Kandy. Visit the UNESCO-listed Dambulla Cave Temple.\n\nLishan Tours la organiza, y 3 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel en Kandy, transporte en furgoneta con aire acondicionado y conductor/guia que habla ingles. No incluye tarifas de entrada (Sigiriya, Pidurangala, Dambulla, safari de pueblo), comida y bebidas y gastos personales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 179 $ juntos en lugar de 179 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de medio dia en Kandy. . Ofrecido por Lishan Tours."
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Kandy",
+   "Transporte en furgoneta con aire acondicionado",
+   "Conductor/guia que habla ingles"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada (Sigiriya, Pidurangala, Dambulla, safari de pueblo)",
+   "Comida y bebidas",
+   "Gastos personales"
+  ]
+ },
+ "colombo-sigiriya-rock-fortress-caves-private-suv": {
+  "title": "Colombo: fortaleza de la roca de Sigiriya y cuevas, tour privado en SUV",
+  "metaTitle": "Colombo: fortaleza de la roca de Sigiriya y cuevas, tour priva...",
+  "metaDescription": "Una excursion de un dia completo desde Colombo que visita Jeep / SUV y Jeep / SUV. Ofrecido por One World Tours Pvt Ltd.",
+  "shortDescription": "Una excursion de un dia completo desde Colombo que visita Jeep / SUV y Jeep / SUV. Ofrecido por One World Tours Pvt Ltd.",
+  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Jeep / SUV y Jeep / SUV. La parada mas larga es Jeep / SUV, con una duracion de unos 4 horas. Hay 2 paradas en total.\n\nEl orden de la ruta es Jeep / SUV (4h), luego Jeep / SUV (3h).\n\nEl precio incluye recogida y regreso al hotel en Colombo, transporte en SUV privado, entradas a Dambulla y conductor profesional que habla ingles. No incluye comida y bebidas, gastos personales y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 472 $ juntos en lugar de 306 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de un dia completo desde Colombo que visita Jeep / SUV y Jeep / SUV. Ofrecido por One World Tours Pvt Ltd."
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Colombo",
+   "Transporte en SUV privado",
+   "Entradas a Dambulla",
+   "Conductor profesional que habla ingles"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "from-colombo-port-safe-return-galle-fort": {
+  "title": "Desde el puerto de Colombo: regreso seguro, fuerte de Galle, tour personalizado",
+  "metaTitle": "Desde el puerto de Colombo: regreso seguro, fuerte de Galle, t...",
+  "metaDescription": "Una excursion de un dia completo desde Colombo que visita Victor Hasselblad Sea Turtle Research And Conservation Centre, Turtle Beach y Galle Dutch Fort. Ofrecido...",
+  "shortDescription": "Una excursion de un dia completo desde Colombo que visita Victor Hasselblad Sea Turtle Research And Conservation Centre, Turtle Beach y Galle Dutch Fort. Ofrecido por Ethereal Ceylon.",
+  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Victor Hasselblad Sea Turtle Research And Conservation Centre, Turtle Beach y Galle Dutch Fort. Hay 3 paradas en total.\n\nEl orden de la ruta es Victor Hasselblad Sea Turtle Research And Conservation Centre, luego Turtle Beach, luego Galle Dutch Fort.\n\nEl precio incluye regreso garantizado al 100% a tiempo a su crucero antes de la salida, recogida facil de encontrar: su chofer-guia lo esperara directamente afuera de la salida de la terminal de llegada de pasajeros dentro del puerto de Colombo, un cartel que muestra claramente su nombre para que nos reconozca al instante y transporte en un auto o furgoneta comodo y con aire acondicionado. No incluye paseo de safari en barco por el rio Madu y actividades, comida y bebidas y gastos personales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 234 $ juntos en lugar de 234 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de un dia completo desde Colombo que visita Victor Hasselblad Sea Turtle Research And Conservation Centre, Turtle Beach y Galle Dutch Fort. Ofrecido por Ethereal Ceylon."
+  ],
+  "included": [
+   "Regreso garantizado al 100% a tiempo a su crucero antes de la salida",
+   "Recogida facil de encontrar: su chofer-guia lo esperara directamente afuera de la salida de la terminal de llegada de pasajeros dentro del puerto de Colombo",
+   "Un cartel que muestra claramente su nombre para que nos reconozca al instante",
+   "Transporte en un auto o furgoneta comodo y con aire acondicionado"
+  ],
+  "notIncluded": [
+   "Paseo de safari en barco por el rio Madu y actividades",
+   "Comida y bebidas",
+   "Gastos personales"
+  ]
+ },
+ "mirissa-refreshments-and-snorkeling-tour-with-sea": {
+  "title": "Mirissa: refrescos y tour de esnorquel con tortugas marinas",
+  "metaTitle": "Mirissa: refrescos y tour de esnorquel con tortugas marinas",
+  "metaDescription": "Una excursion de 1 hora(s) desde Mirissa que visita Thalaramba, Sri Lanka. Ofrecido por Mirissa Sea View Snorkeling.",
+  "shortDescription": "Una excursion de 1 hora(s) desde Mirissa que visita Thalaramba, Sri Lanka. Ofrecido por Mirissa Sea View Snorkeling.",
+  "fullDescription": "Una excursion de 1 hora(s) desde Mirissa, que recorre Thalaramba, Sri Lanka. La parada mas larga es Thalaramba, Sri Lanka, con una duracion de unos 1 hora.\n\nEl precio incluye tour guiado de esnorquel, equipo de esnorquel, video GoPro y refrescos. No incluye almuerzo, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de 1 hora(s) desde Mirissa que visita Thalaramba, Sri Lanka. Ofrecido por Mirissa Sea View Snorkeling."
+  ],
+  "included": [
+   "Tour guiado de esnorquel",
+   "equipo de esnorquel",
+   "Video GoPro",
+   "refrescos"
+  ],
+  "notIncluded": [
+   "Almuerzo"
+  ]
+ },
+ "bentota-private-mangrove-cave-boat-tour-wildlife": {
+  "title": "Bentota: tour privado en barco de cuevas de manglares y safari de fauna",
+  "metaTitle": "Bentota: tour privado en barco de cuevas de manglares y safari...",
+  "metaDescription": "Una excursion de 1 hora(s) desde Bentota que visita Bentota. Ofrecido por Watching Lanka.",
+  "shortDescription": "Una excursion de 1 hora(s) desde Bentota que visita Bentota. Ofrecido por Watching Lanka.",
+  "fullDescription": "Una excursion de 1 hora(s) desde Bentota, que recorre Bentota. La parada mas larga es Bentota, con una duracion de unos 1 hora.\n\nWatching Lanka la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye alquiler de barco de crucero fluvial privado para su grupo, itinerario extendido o exprés (segun la opcion seleccionada), servicios de un guia de rio experimentado y chaleco salvavidas de alta calidad y equipo de seguridad. No incluye comida y bebidas, recogida y regreso al hotel y servicios de fotografia y video, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de 1 hora(s) desde Bentota que visita Bentota. Ofrecido por Watching Lanka."
+  ],
+  "included": [
+   "Alquiler de barco de crucero fluvial privado para su grupo",
+   "Itinerario extendido o exprés (segun la opcion seleccionada)",
+   "Servicios de un guia de rio experimentado",
+   "Chaleco salvavidas de alta calidad y equipo de seguridad"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Recogida y regreso al hotel",
+   "Servicios de fotografia y video"
+  ]
+ },
+ "colombo-tuk-tuk-city-highlights-tour-with-guide": {
+  "title": "Colombo: tour de los puntos destacados de la ciudad en tuk-tuk con guia",
+  "metaTitle": "Colombo: tour de los puntos destacados de la ciudad en tuk-tuk...",
+  "metaDescription": "Una excursion de medio dia desde Colombo que visita Tuk tuk y Colombo. Ofrecido por Celebrity Tours Colombo.",
+  "shortDescription": "Una excursion de medio dia desde Colombo que visita Tuk tuk y Colombo. Ofrecido por Celebrity Tours Colombo.",
+  "fullDescription": "Una excursion de medio dia desde Colombo, que recorre Tuk tuk y Colombo. Hay 2 paradas en total.\n\nEl orden de la ruta es Tuk tuk (15 min), luego Colombo.\n\nEl precio incluye visita al templo de Gangaramaya, visita al templo hindu Sri Kailawasanathan Swami, visita al salon memorial de la independencia y visita a la mezquita roja. No incluye comida, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de medio dia desde Colombo que visita Tuk tuk y Colombo. Ofrecido por Celebrity Tours Colombo."
+  ],
+  "included": [
+   "Visita al templo de Gangaramaya",
+   "Visita al templo hindu Sri Kailawasanathan Swami",
+   "Visita al salon memorial de la independencia",
+   "Visita a la mezquita roja"
+  ],
+  "notIncluded": [
+   "Comida"
+  ]
+ },
+ "ella-yala-safari-drop-off": {
+  "title": "Ella: safari en Yala, regreso en Tangalle/Hiriketiya/Mirissa",
+  "metaTitle": "Ella: safari en Yala, regreso en Tangalle/Hiriketiya/Mirissa",
+  "metaDescription": "Una excursion de 3 hora(s) desde Galle que visita Yala National Park y Finish at:. Ofrecido por Buget safari - Srilanka.",
+  "shortDescription": "Una excursion de 3 hora(s) desde Galle que visita Yala National Park y Finish at:. Ofrecido por Buget safari - Srilanka.",
+  "fullDescription": "Una excursion de 3 hora(s) desde Galle, que recorre Yala National Park y Finish at:. La parada mas larga es Yala National Park, con una duracion de unos 3 horas. Hay 2 paradas en total.\n\nEl orden de la ruta es Yala National Park (3h), luego Finish at:.\n\nEl precio incluye guia que habla ingles, jeep de safari 4x4 con rastreador experimentado, todas las tarifas de entrada al parque y de servicio y recogida y regreso al hotel. No incluye almuerzo, gastos personales y propinas y gratificaciones, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de 3 hora(s) desde Galle que visita Yala National Park y Finish at:. Ofrecido por Buget safari - Srilanka."
+  ],
+  "included": [
+   "Guia que habla ingles",
+   "Jeep de safari 4x4 con rastreador experimentado",
+   "Todas las tarifas de entrada al parque y de servicio",
+   "Recogida y regreso al hotel"
+  ],
+  "notIncluded": [
+   "Almuerzo",
+   "Gastos personales",
+   "Propinas y gratificaciones"
+  ]
+ },
+ "sigiriya-guided-night-jungle-animal-spotting": {
+  "title": "Sigiriya: experiencia guiada de avistamiento nocturno de animales de la jungla",
+  "metaTitle": "Sigiriya: experiencia guiada de avistamiento nocturno de anima...",
+  "metaDescription": "Experiencia de medio dia en Sigiriya. . Ofrecido por Shan Jeep Safari & Tour.",
+  "shortDescription": "Experiencia de medio dia en Sigiriya. . Ofrecido por Shan Jeep Safari & Tour.",
+  "fullDescription": "Una experiencia de medio dia en Sigiriya. Experience the jungle after dark in Sigiriya on a night safari.\n\nShan Jeep Safari & Tour la organiza, y 4 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye jeep de safari, conductor/guia experimentado, equipo de iluminacion basico y agua potable. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 171 $ juntos en lugar de 160 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de medio dia en Sigiriya. . Ofrecido por Shan Jeep Safari & Tour."
+  ],
+  "included": [
+   "Jeep de safari",
+   "Conductor/guia experimentado",
+   "Equipo de iluminacion basico",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "sri-lanka-9-day-beach-and-culture-tour-with": {
+  "title": "Sri Lanka: tour de 9 dias de playa y cultura con traslados",
+  "metaTitle": "Sri Lanka: tour de 9 dias de playa y cultura con traslados",
+  "metaDescription": "Experiencia de 9 dia(s) en Sigiriya. . Ofrecido por Padraig Lanka Tours.",
+  "shortDescription": "Experiencia de 9 dia(s) en Sigiriya. . Ofrecido por Padraig Lanka Tours.",
+  "fullDescription": "Una experiencia de 9 dia(s) en Sigiriya. Relax on the beaches of Negombo, Trincomalee, and Pasikuda.\n\nPadraig Lanka Tours la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye traslado al aeropuerto, relajacion en la playa, nalanda Gedige y jardin de especias. No incluye comidas, gastos personales y actividades opcionales, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de 9 dia(s) en Sigiriya. . Ofrecido por Padraig Lanka Tours."
+  ],
+  "included": [
+   "Traslado al aeropuerto",
+   "Relajacion en la playa",
+   "Nalanda Gedige",
+   "Jardin de especias"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Gastos personales",
+   "Actividades opcionales"
+  ]
+ },
+ "sri-lanka-tour-2-to-10-day-custom-round": {
+  "title": "Tour por Sri Lanka: viaje personalizado de 2 a 10 dias desde Colombo",
+  "metaTitle": "Tour por Sri Lanka: viaje personalizado de 2 a 10 dias desde C...",
+  "metaDescription": "Una excursion de 2 dia(s) desde Colombo que visita Day 1: Colombo to Anuradhapura. Ofrecido por Pekoe Lanka Tours.",
+  "shortDescription": "Una excursion de 2 dia(s) desde Colombo que visita Day 1: Colombo to Anuradhapura. Ofrecido por Pekoe Lanka Tours.",
+  "fullDescription": "Una excursion de 2 dia(s) desde Colombo, que recorre Day 1: Colombo to Anuradhapura.\n\nPekoe Lanka Tours la organiza, y 11 elementos estan cubiertos por el precio. La cancelacion es gratuita. Personalice su viaje privado por Sri Lanka de 2 a 10 dias.\n\nEl precio incluye transporte privado en auto o furgoneta con aire acondicionado, chofer-conductor-guia profesional que habla ingles, recogida y regreso al hotel, aeropuerto o puerto, combustible, tarifas de estacionamiento y peajes, alojamiento y comidas del conductor durante todo el tour, agua potable embotellada durante los dias de viaje y itinerario flexible con paradas turisticas personalizables. No incluye alojamiento para los huespedes, comidas y bebidas y atracciones y monumentos, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de 2 dia(s) desde Colombo que visita Day 1: Colombo to Anuradhapura. Ofrecido por Pekoe Lanka Tours."
+  ],
+  "included": [
+   "Transporte privado en auto o furgoneta con aire acondicionado",
+   "Chofer-conductor-guia profesional que habla ingles",
+   "Recogida y regreso al hotel, aeropuerto o puerto",
+   "Combustible, tarifas de estacionamiento y peajes",
+   "Alojamiento y comidas del conductor durante todo el tour",
+   "Agua potable embotellada durante los dias de viaje",
+   "Itinerario flexible con paradas turisticas personalizables"
+  ],
+  "notIncluded": [
+   "Alojamiento para los huespedes",
+   "Comidas y bebidas",
+   "atracciones y monumentos"
+  ]
+ },
+ "kandy-nanu-oya-ella-train-ride-with-private-car": {
+  "title": "Kandy: viaje en tren Nanu Oya-Ella con auto privado y guia",
+  "metaTitle": "Kandy: viaje en tren Nanu Oya-Ella con auto privado y guia",
+  "metaDescription": "Una excursion de un dia completo desde Kandy que visita Ella, Sri Lanka. Ofrecido por .",
+  "shortDescription": "Una excursion de un dia completo desde Kandy que visita Ella, Sri Lanka. Ofrecido por .",
+  "fullDescription": "Una excursion de un dia completo desde Kandy, que recorre Ella, Sri Lanka. La parada mas larga es Ella, Sri Lanka, con una duracion de unos 8 horas.\n\nEl precio incluye recogida en el hotel en Kandy y regreso a Ella (auto/tuk-tuk), auto/tuk-tuk privado con un conductor/guia amigable que habla ingles, itinerario totalmente personalizable, viaje a su propio ritmo y experiencia relajada y sin prisas adaptada a sus preferencias. No incluye gastos personales y tarifas de entrada durante el tour opcional de Ella, por lo que debe presupuestar eso por separado. Dos viajeros pagan 110 $ juntos en lugar de 68 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de un dia completo desde Kandy que visita Ella, Sri Lanka. Ofrecido por ."
+  ],
+  "included": [
+   "Recogida en el hotel en Kandy y regreso a Ella (auto/tuk-tuk)",
+   "Auto/tuk-tuk privado con un conductor/guia amigable que habla ingles",
+   "Itinerario totalmente personalizable, viaje a su propio ritmo",
+   "Experiencia relajada y sin prisas adaptada a sus preferencias"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Tarifas de entrada durante el tour opcional de Ella"
+  ]
+ },
+ "sigiriya-village-culture-catamaran-cooking": {
+  "title": "Sigiriya: cultura de pueblo, catamaran y experiencia de cocina",
+  "metaTitle": "Sigiriya: cultura de pueblo, catamaran y experiencia de cocina",
+  "metaDescription": "Una excursion de 3 hora(s) desde Sigiriya que visita Tuk tuk, Sigiriya, Sigiriya y Tuk tuk. Ofrecido por Ceyloney Premium.",
+  "shortDescription": "Una excursion de 3 hora(s) desde Sigiriya que visita Tuk tuk, Sigiriya, Sigiriya y Tuk tuk. Ofrecido por Ceyloney Premium.",
+  "fullDescription": "Una excursion de 3 hora(s) desde Sigiriya, que recorre Tuk tuk, Sigiriya, Sigiriya y Tuk tuk. Hay 4 paradas en total.\n\nEl orden de la ruta es Tuk tuk (15 min), luego Sigiriya, luego Sigiriya, luego Tuk tuk (30 min).\n\nEl precio incluye recogida y regreso al hotel, tarifa de entrada al pueblo de Sigiriya, transporte privado y experiencia de catamaran al amanecer o atardecer. No incluye sin costos ocultos, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de 3 hora(s) desde Sigiriya que visita Tuk tuk, Sigiriya, Sigiriya y Tuk tuk. Ofrecido por Ceyloney Premium."
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Tarifa de entrada al pueblo de Sigiriya",
+   "Transporte privado",
+   "Experiencia de catamaran al amanecer o atardecer"
+  ],
+  "notIncluded": [
+   "Sin costos ocultos"
   ]
  },
  "kandy-sigiriya-rock-dambulla-cave-temple": {
@@ -85770,12 +86283,12 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Colombo: tour privado por la ciudad con almuerzo y guia",
   "metaDescription": "Una excursion de un dia completo desde Colombo que visita Gangaramaya Temple, Colombo Lotus Tower, Pettah Market y Independence Square, Colombo. Ofrecido por Roya...",
   "shortDescription": "Una excursion de un dia completo desde Colombo que visita Gangaramaya Temple, Colombo Lotus Tower, Pettah Market y Independence Square, Colombo. Ofrecido por Royal Bliss Tours.",
-  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Gangaramaya Temple, Colombo Lotus Tower, Pettah Market y Independence Square, Colombo. Hay 6 paradas en total.\n\nEl orden de la ruta es Gangaramaya Temple, luego Colombo Lotus Tower, luego Pettah Market, luego Independence Square, Colombo, luego National Museum of Colombo.\n\nEl precio incluye visita al templo Gangaramaya, visita a la plaza de la Independencia, visita a la torre Lotus y visita al mercado de Pettah. No incluye tarifas de entrada a las atracciones, gastos personales y propinas, por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Gangaramaya Temple, Colombo Lotus Tower, Pettah Market y Independence Square, Colombo. Hay 6 paradas en total.\n\nEl orden de la ruta es Gangaramaya Temple, luego Colombo Lotus Tower, luego Pettah Market, luego Independence Square, Colombo, luego National Museum of Colombo.\n\nEl precio incluye visita al templo de Gangaramaya, visita a la plaza de la Independencia, visita a la torre Lotus y visita al mercado de Pettah. No incluye tarifas de entrada a las atracciones, gastos personales y propinas, por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Una excursion de un dia completo desde Colombo que visita Gangaramaya Temple, Colombo Lotus Tower, Pettah Market y Independence Square, Colombo. Ofrecido por Royal Bliss Tours."
   ],
   "included": [
-   "Visita al templo Gangaramaya",
+   "Visita al templo de Gangaramaya",
    "Visita a la plaza de la Independencia",
    "Visita a la torre Lotus",
    "Visita al mercado de Pettah"
