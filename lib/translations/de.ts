@@ -61977,12 +61977,12 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "CMB-Flughafen nach Galle mit Suedkuesten-Tagestour",
   "metaDescription": "halbtaegigees Erlebnis in Colombo. . Angeboten von Ceylona Tours.",
   "shortDescription": "halbtaegigees Erlebnis in Colombo. . Angeboten von Ceylona Tours.",
-  "fullDescription": "Ein halbtaegigees Erlebnis in Colombo. Explore the historic Galle Fort UNESCO World Heritage Site.\n\nCeylona Tours fuehrt es durch, und 3 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet abholung vom internationalen Flughafen Bandaranaike (CMB), professioneller englischsprachiger Fahrer-Guide und privates klimatisiertes Fahrzeug. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 169 $ statt 169 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein halbtaegigees Erlebnis in Colombo. Explore the historic Galle Fort UNESCO World Heritage Site.\n\nCeylona Tours fuehrt es durch, und 3 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet flughafenabholung am internationalen Flughafen Bandaranaike (CMB), professioneller englischsprachiger Fahrer-Guide und privates klimatisiertes Fahrzeug. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 169 $ statt 169 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "halbtaegigees Erlebnis in Colombo. . Angeboten von Ceylona Tours."
   ],
   "included": [
-   "Abholung vom internationalen Flughafen Bandaranaike (CMB)",
+   "Flughafenabholung am internationalen Flughafen Bandaranaike (CMB)",
    "Professioneller englischsprachiger Fahrer-Guide",
    "Privates klimatisiertes Fahrzeug"
   ],
@@ -71468,22 +71468,22 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "10-taegige Tour durch Galle, Yala, Ella, und Sigiriya mit Zugf...",
   "metaDescription": "10-taegigees Erlebnis in Galle. . Angeboten von Lakpura®.",
   "shortDescription": "10-taegigees Erlebnis in Galle. . Angeboten von Lakpura®.",
-  "fullDescription": "Ein 10-taegigees Erlebnis in Galle. Relax on the golden beaches of Mirissa.\n\nLakpura® fuehrt es durch, und 8 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet transport in einem privaten Fahrzeug, Treibstoff, Parken, und Autobahngebuehren, service eines englischsprachigen Chauffeur-Guides waehrend der gesamten Tour, 2 x 500-ml-Wasserflaschen pro Person und Tag, uebernachtung fuer den Chauffeur, bootssafari auf dem Madu-Fluss und walbeobachtungs-Bootstour. Nicht enthalten sind hotelunterkunft und Mahlzeiten, ausgaben persoenlicher Natur und visum und damit verbundene Ausgaben, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 2366 $ statt 2113 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein 10-taegigees Erlebnis in Galle. Relax on the golden beaches of Mirissa.\n\nLakpura® fuehrt es durch, und 8 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet transport in einem privaten Fahrzeug, Treibstoff, Parken, und Autobahngebuehren, service eines englischsprachigen Chauffeur-Guides waehrend der gesamten Tour, 2 x 500-ml-Wasserflaschen pro Person pro Tag, uebernachtungsunterkunft fuer den Chauffeur, bootssafari auf dem Madu-Fluss und walbeobachtungs-Bootstour. Nicht enthalten sind hotelunterkunft und Mahlzeiten, ausgaben persoenlicher Natur und visa und damit verbundene Ausgaben, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 2366 $ statt 2113 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "10-taegigees Erlebnis in Galle. . Angeboten von Lakpura®."
   ],
   "included": [
    "Transport in einem privaten Fahrzeug, Treibstoff, Parken, und Autobahngebuehren",
    "Service eines englischsprachigen Chauffeur-Guides waehrend der gesamten Tour",
-   "2 x 500-ml-Wasserflaschen pro Person und Tag",
-   "Uebernachtung fuer den Chauffeur",
+   "2 x 500-ml-Wasserflaschen pro Person pro Tag",
+   "Uebernachtungsunterkunft fuer den Chauffeur.",
    "Bootssafari auf dem Madu-Fluss",
    "Walbeobachtungs-Bootstour"
   ],
   "notIncluded": [
    "Hotelunterkunft und Mahlzeiten",
    "Ausgaben persoenlicher Natur",
-   "Visum und damit verbundene Ausgaben"
+   "Visa und damit verbundene Ausgaben"
   ]
  },
  "ella-village-experience-with-breakfast-and-jeep": {
@@ -96243,6 +96243,67 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "colombo-airport-to-galleahangamabentota-private": {
+  "title": "Flughafen Colombo: private Transfers nach Galle/Ahangama/Bentota",
+  "metaTitle": "Flughafen Colombo: private Transfers nach Galle/Ahangama/Bentota",
+  "metaDescription": "2-stuendigees Erlebnis in Colombo. . Angeboten von Travelers Arc Sri Lanka.",
+  "shortDescription": "2-stuendigees Erlebnis in Colombo. . Angeboten von Travelers Arc Sri Lanka.",
+  "fullDescription": "Ein 2-stuendigees Erlebnis in Colombo. Private transfer from Colombo Airport to Galle/Ahangama or Bentota area.\n\nTravelers Arc Sri Lanka fuehrt es durch, und 8 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet flughafenabholung am internationalen Flughafen Bandaranaike (CMB), rueckfahrt zu jedem Hotel oder jeder Adresse in den Gebieten Galle oder Ahangama, englischsprachiger, professioneller Fahrer-Guide, privates klimatisiertes Fahrzeug und autobahngebuehren, Treibstoff, und alle Steuern. Nicht enthalten sind mahlzeiten und trinkgelder, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 112 $ statt 112 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "2-stuendigees Erlebnis in Colombo. . Angeboten von Travelers Arc Sri Lanka."
+  ],
+  "included": [
+   "Flughafenabholung am internationalen Flughafen Bandaranaike (CMB)",
+   "Rueckfahrt zu jedem Hotel oder jeder Adresse in den Gebieten Galle oder Ahangama",
+   "Englischsprachiger, professioneller Fahrer-Guide",
+   "Privates klimatisiertes Fahrzeug",
+   "Autobahngebuehren, Treibstoff, und alle Steuern"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Trinkgelder"
+  ]
+ },
+ "from-colombo-8-day-ramayana-tour-in-sri-lanka": {
+  "title": "Von Colombo: 8-taegige Ramayana-Tour durch Sri Lanka",
+  "metaTitle": "Von Colombo: 8-taegige Ramayana-Tour durch Sri Lanka",
+  "metaDescription": "8-taegigees Erlebnis in Colombo. . Angeboten von Lakpura®.",
+  "shortDescription": "8-taegigees Erlebnis in Colombo. . Angeboten von Lakpura®.",
+  "fullDescription": "Ein 8-taegigees Erlebnis in Colombo. Visit Munneswaram, Manavari & Koneswaram Temples.\n\nLakpura® fuehrt es durch, und 5 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet transport in einem privaten Fahrzeug, Treibstoff, Parken, und Autobahngebuehren, service eines englischsprachigen Chauffeur-Guides waehrend der gesamten Tour, 2 x 500-ml-Wasserflaschen pro Person pro Tag, uebernachtungsunterkunft fuer den Chauffeur und eintrittskarten fuer Staetten. Nicht enthalten sind hotelunterkunft und Mahlzeiten, ausgaben persoenlicher Natur und visa und damit verbundene Ausgaben, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 1690 $ statt 1521 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "8-taegigees Erlebnis in Colombo. . Angeboten von Lakpura®."
+  ],
+  "included": [
+   "Transport in einem privaten Fahrzeug, Treibstoff, Parken, und Autobahngebuehren",
+   "Service eines englischsprachigen Chauffeur-Guides waehrend der gesamten Tour",
+   "2 x 500-ml-Wasserflaschen pro Person pro Tag",
+   "Uebernachtungsunterkunft fuer den Chauffeur.",
+   "Eintrittskarten fuer Staetten."
+  ],
+  "notIncluded": [
+   "Hotelunterkunft und Mahlzeiten",
+   "Ausgaben persoenlicher Natur",
+   "Visa und damit verbundene Ausgaben"
+  ]
+ },
+ "colombo-city-sketching-lesson-and-walk": {
+  "title": "Colombo: Stadt-Skizzierkurs und Spaziergang",
+  "metaTitle": "Colombo: Stadt-Skizzierkurs und Spaziergang",
+  "metaDescription": "3-stuendigees Erlebnis in Colombo. . Angeboten von Hit Media.",
+  "shortDescription": "3-stuendigees Erlebnis in Colombo. . Angeboten von Hit Media.",
+  "fullDescription": "Ein 3-stuendigees Erlebnis in Colombo. Learn some handy sketching skills.\n\nHit Media fuehrt es durch, und 2 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet skizzenmaterial und hocker bei Bedarf (2 verfuegbar). Nicht enthalten sind essen und transport, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 143 $ statt 84 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "3-stuendigees Erlebnis in Colombo. . Angeboten von Hit Media."
+  ],
+  "included": [
+   "Skizzenmaterial",
+   "Hocker bei Bedarf (2 verfuegbar)"
+  ],
+  "notIncluded": [
+   "Essen",
+   "Transport"
+  ]
+ },
  "from-negombo-wilpattu-national-park-safari-with": {
   "title": "Ab Negombo: Wilpattu-Nationalpark-Safari mit Transfers",
   "metaTitle": "Ab Negombo: Wilpattu-Nationalpark-Safari mit Transfers",
@@ -96261,6 +96322,87 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Mahlzeiten und Getraenke",
    "Trinkgelder (optional)",
+   "Persoenliche Ausgaben"
+  ]
+ },
+ "negombo-private-city-tour-with-ayurvedic-massage": {
+  "title": "Negombo: private Stadttour mit Ayurveda-Massage und Mittagessen",
+  "metaTitle": "Negombo: private Stadttour mit Ayurveda-Massage und Mittagessen",
+  "metaDescription": "Ein halbtaegigeer Ausflug ab Negombo, der St. Sebastian's Church - Sea Street, Sri Singama Kali Amman Kovil, Fish Market, Negombo und St. Mary's Church besucht. A...",
+  "shortDescription": "Ein halbtaegigeer Ausflug ab Negombo, der St. Sebastian's Church - Sea Street, Sri Singama Kali Amman Kovil, Fish Market, Negombo und St. Mary's Church besucht. Angeboten von Fivemo Tours.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Negombo, der St. Sebastian's Church - Sea Street, Sri Singama Kali Amman Kovil, Fish Market, Negombo und St. Mary's Church umfasst. Der laengste Halt ist Negombo, mit etwa 1 Stunde. Es gibt insgesamt 9 Stopps.\n\nDie Reihenfolge ist St. Sebastian's Church - Sea Street (20 min), dann Sri Singama Kali Amman Kovil (20 min), dann Fish Market, Negombo (30 min), dann St. Mary's Church (19 min), dann Hamilton Canal, Negombo (20 min).\n\nDer Preis beinhaltet gefuehrte Stadttour von Negombo, besuch des Fischmarktes, besuch des Trockenfisch-Verarbeitungsgebiets und besuch eines Hindu-Tempels. Nicht enthalten sind persoenliche Ausgaben und trinkgelder, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 180 $ statt 117 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein halbtaegigeer Ausflug ab Negombo, der St. Sebastian's Church - Sea Street, Sri Singama Kali Amman Kovil, Fish Market, Negombo und St. Mary's Church besucht. Angeboten von Fivemo Tours."
+  ],
+  "included": [
+   "Gefuehrte Stadttour von Negombo",
+   "Besuch des Fischmarktes",
+   "Besuch des Trockenfisch-Verarbeitungsgebiets",
+   "Besuch eines Hindu-Tempels"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "explore-galle-fort-with-local-guide": {
+  "title": "Erkunden Sie das Galle-Fort mit einem lokalen Guide",
+  "metaTitle": "Erkunden Sie das Galle-Fort mit einem lokalen Guide",
+  "metaDescription": "2-stuendigees Erlebnis in Galle. . Angeboten von Explore Galle Fort with a Local Guide.",
+  "shortDescription": "2-stuendigees Erlebnis in Galle. . Angeboten von Explore Galle Fort with a Local Guide.",
+  "fullDescription": "Ein 2-stuendigees Erlebnis in Galle. Step back in time as you explore the historic Galle Fort with a local guide.\n\nExplore Galle Fort with a Local Guide fuehrt es durch, und 3 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet gefuehrte Wanderung durch das Galle-Fort, eintritt in die niederlaendisch-reformierte Kirche und lokaler Guide. Nicht enthalten sind essen und Getraenke sind nicht enthalten, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "2-stuendigees Erlebnis in Galle. . Angeboten von Explore Galle Fort with a Local Guide."
+  ],
+  "included": [
+   "Gefuehrte Wanderung durch das Galle-Fort",
+   "Eintritt in die niederlaendisch-reformierte Kirche",
+   "Lokaler Guide"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke sind nicht enthalten"
+  ]
+ },
+ "from-kandy-kanawiddagala-and-yahangala-twin-peak": {
+  "title": "Von Kandy: Kanawiddagala- und Yahangala-Zwillingsgipfel-Wanderung",
+  "metaTitle": "Von Kandy: Kanawiddagala- und Yahangala-Zwillingsgipfel-Wanderung",
+  "metaDescription": "Ein halbtaegigeer Ausflug ab Kandy, der Udadumbara District besucht. Angeboten von Knuckles Wild Trails.",
+  "shortDescription": "Ein halbtaegigeer Ausflug ab Kandy, der Udadumbara District besucht. Angeboten von Knuckles Wild Trails.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Kandy, der Udadumbara District umfasst. Der laengste Halt ist Udadumbara District, mit etwa 3 Stunden.\n\nDer Preis beinhaltet hin- und Rueckfahrt von Kandy (komfortables klimatisiertes Fahrzeug, Abholung um 6:30 Uhr), erfahrener lokaler Guide (englischsprachig, Erste-Hilfe-ausgebildet), grundlegende Sicherheitsausruestung (Erste-Hilfe-Set, Notfallkommunikationsgeraet), leichte Fruehstueckssnacks (z.B. Obst, Energieriegel) und Lunchpaket (lokales Gericht mit Reis und Curry oder Sandwiches), alle Eintrittsgebuehren und Genehmigungen fuer Kanawiddagala und Yahangala und kleingruppenerlebnis (max. 8-10 Wanderer fuer persoenliche Betreuung). Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Ein halbtaegigeer Ausflug ab Kandy, der Udadumbara District besucht. Angeboten von Knuckles Wild Trails."
+  ],
+  "included": [
+   "Hin- und Rueckfahrt von Kandy (komfortables klimatisiertes Fahrzeug, Abholung um 6:30 Uhr).",
+   "Erfahrener lokaler Guide (englischsprachig, Erste-Hilfe-ausgebildet).",
+   "Grundlegende Sicherheitsausruestung (Erste-Hilfe-Set, Notfallkommunikationsgeraet).",
+   "Leichte Fruehstueckssnacks (z.B. Obst, Energieriegel) und Lunchpaket (lokales Gericht mit Reis und Curry oder Sandwiches).",
+   "Alle Eintrittsgebuehren und Genehmigungen fuer Kanawiddagala und Yahangala.",
+   "Kleingruppenerlebnis (max. 8-10 Wanderer fuer persoenliche Betreuung)."
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "nuwara-eliya-tea-plantations-waterfalls-viewpoint": {
+  "title": "Nuwara Eliya: Teeplantagen-, Wasserfall- und Aussichtspunkt-Abenteuer",
+  "metaTitle": "Nuwara Eliya: Teeplantagen-, Wasserfall- und Aussichtspunkt-Ab...",
+  "metaDescription": "Ein 3-stuendigeer Ausflug ab Nuwara Eliya, der Railway Station - Nanuoya, View point, Ramboda Falls, Srilanka und Puna Ella Falls in Ramboda besucht. Angeboten vo...",
+  "shortDescription": "Ein 3-stuendigeer Ausflug ab Nuwara Eliya, der Railway Station - Nanuoya, View point, Ramboda Falls, Srilanka und Puna Ella Falls in Ramboda besucht. Angeboten von Hill Station Tours.",
+  "fullDescription": "Ein 3-stuendigeer Ausflug ab Nuwara Eliya, der Railway Station - Nanuoya, View point, Ramboda Falls, Srilanka und Puna Ella Falls in Ramboda umfasst. Es gibt insgesamt 4 Stopps.\n\nDie Reihenfolge ist Railway Station - Nanuoya, dann View point, dann Ramboda Falls, Srilanka, dann Puna Ella Falls in Ramboda.\n\nDer Preis beinhaltet freundliche und anpassbare Tour, besuch von Wasserfaellen, schwimmen in einem natuerlichen Schwimmbecken (je nach Witterung), besuch von Teeplantagen mit Teepfluecken, Fabrikbesuch, handgefertigter Teeherstellung, und Teeverkostung und seeblick und Aussichtspunkte. Nicht enthalten sind muellentsorgung, essen und Getraenke auf eigene Kosten der Besucher verfuegbar und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 38 $ statt 38 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Ein 3-stuendigeer Ausflug ab Nuwara Eliya, der Railway Station - Nanuoya, View point, Ramboda Falls, Srilanka und Puna Ella Falls in Ramboda besucht. Angeboten von Hill Station Tours."
+  ],
+  "included": [
+   "Freundliche und anpassbare Tour",
+   "Besuch von Wasserfaellen",
+   "Schwimmen in einem natuerlichen Schwimmbecken (je nach Witterung)",
+   "Besuch von Teeplantagen mit Teepfluecken, Fabrikbesuch, handgefertigter Teeherstellung, und Teeverkostung.",
+   "Seeblick und Aussichtspunkte"
+  ],
+  "notIncluded": [
+   "Muellentsorgung",
+   "Essen und Getraenke auf eigene Kosten der Besucher verfuegbar",
    "Persoenliche Ausgaben"
   ]
  },

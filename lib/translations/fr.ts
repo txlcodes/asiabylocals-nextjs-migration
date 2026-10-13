@@ -61977,12 +61977,12 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Aeroport CMB vers Galle avec excursion d'une journee dans le sud",
   "metaDescription": "Experience d'une demi-journee a Colombo. . Propose par Ceylona Tours.",
   "shortDescription": "Experience d'une demi-journee a Colombo. . Propose par Ceylona Tours.",
-  "fullDescription": "Une experience d'une demi-journee a Colombo. Explore the historic Galle Fort UNESCO World Heritage Site.\n\nCeylona Tours s'en charge, et 3 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge a l'aeroport international de Bandaranaike (CMB), chauffeur-guide professionnel anglophone et vehicule prive climatise. Il ne comprend pas , prevoyez donc un budget separe. Deux voyageurs paient 169 $ ensemble plutot que 169 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "fullDescription": "Une experience d'une demi-journee a Colombo. Explore the historic Galle Fort UNESCO World Heritage Site.\n\nCeylona Tours s'en charge, et 3 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge a l'aeroport international Bandaranaike (CMB), chauffeur-guide professionnel anglophone et vehicule prive climatise. Il ne comprend pas , prevoyez donc un budget separe. Deux voyageurs paient 169 $ ensemble plutot que 169 $ chacun, car le prix est fixe par groupe et non par personne.",
   "highlights": [
    "Experience d'une demi-journee a Colombo. . Propose par Ceylona Tours."
   ],
   "included": [
-   "Prise en charge a l'aeroport international de Bandaranaike (CMB)",
+   "Prise en charge a l'aeroport international Bandaranaike (CMB)",
    "Chauffeur-guide professionnel anglophone",
    "Vehicule prive climatise"
   ],
@@ -71468,15 +71468,15 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Visite de 10 jours a Galle, Yala, Ella, et Sigiriya avec traje...",
   "metaDescription": "Experience de 10 jour(s) a Galle. . Propose par Lakpura®.",
   "shortDescription": "Experience de 10 jour(s) a Galle. . Propose par Lakpura®.",
-  "fullDescription": "Une experience de 10 jour(s) a Galle. Relax on the golden beaches of Mirissa.\n\nLakpura® s'en charge, et 8 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend transport en vehicule prive, carburant, parking, et peages autoroutiers, service d'un chauffeur-guide anglophone pendant toute la visite, 2 bouteilles d'eau de 500 ml par personne et par jour, hebergement de nuit pour le chauffeur, safari en bateau sur la riviere Madu et excursion en bateau d'observation des baleines. Il ne comprend pas hebergement a l'hotel et repas, depenses de nature personnelle et visa et depenses connexes, prevoyez donc un budget separe. Deux voyageurs paient 2366 $ ensemble plutot que 2113 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "fullDescription": "Une experience de 10 jour(s) a Galle. Relax on the golden beaches of Mirissa.\n\nLakpura® s'en charge, et 8 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend transport en vehicule prive, carburant, parking et peages, service d'un chauffeur-guide anglophone pendant toute la visite, 2 bouteilles d'eau de 500 ml par personne et par jour, hebergement de nuit pour le chauffeur, safari en bateau sur la riviere Madu et excursion en bateau d'observation des baleines. Il ne comprend pas hebergement a l'hotel et repas, depenses de nature personnelle et visa et depenses connexes, prevoyez donc un budget separe. Deux voyageurs paient 2366 $ ensemble plutot que 2113 $ chacun, car le prix est fixe par groupe et non par personne.",
   "highlights": [
    "Experience de 10 jour(s) a Galle. . Propose par Lakpura®."
   ],
   "included": [
-   "Transport en vehicule prive, carburant, parking, et peages autoroutiers",
+   "Transport en vehicule prive, carburant, parking et peages",
    "Service d'un chauffeur-guide anglophone pendant toute la visite",
    "2 bouteilles d'eau de 500 ml par personne et par jour",
-   "Hebergement de nuit pour le chauffeur",
+   "Hebergement de nuit pour le chauffeur.",
    "Safari en bateau sur la riviere Madu",
    "Excursion en bateau d'observation des baleines"
   ],
@@ -96243,6 +96243,67 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "colombo-airport-to-galleahangamabentota-private": {
+  "title": "Aeroport de Colombo: transferts prives vers Galle/Ahangama/Bentota",
+  "metaTitle": "Aeroport de Colombo: transferts prives vers Galle/Ahangama/Ben...",
+  "metaDescription": "Experience de 2 heure(s) a Colombo. . Propose par Travelers Arc Sri Lanka.",
+  "shortDescription": "Experience de 2 heure(s) a Colombo. . Propose par Travelers Arc Sri Lanka.",
+  "fullDescription": "Une experience de 2 heure(s) a Colombo. Private transfer from Colombo Airport to Galle/Ahangama or Bentota area.\n\nTravelers Arc Sri Lanka s'en charge, et 8 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge a l'aeroport international Bandaranaike (CMB), depose a n'importe quel hotel ou adresse dans les regions de Galle ou Ahangama, chauffeur-guide professionnel anglophone, vehicule prive climatise et peages, carburant, et toutes les taxes. Il ne comprend pas repas et pourboires, prevoyez donc un budget separe. Deux voyageurs paient 112 $ ensemble plutot que 112 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Experience de 2 heure(s) a Colombo. . Propose par Travelers Arc Sri Lanka."
+  ],
+  "included": [
+   "Prise en charge a l'aeroport international Bandaranaike (CMB)",
+   "Depose a n'importe quel hotel ou adresse dans les regions de Galle ou Ahangama",
+   "Chauffeur-guide professionnel anglophone",
+   "Vehicule prive climatise",
+   "Peages, carburant, et toutes les taxes"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Pourboires"
+  ]
+ },
+ "from-colombo-8-day-ramayana-tour-in-sri-lanka": {
+  "title": "Depuis Colombo: circuit Ramayana de 8 jours au Sri Lanka",
+  "metaTitle": "Depuis Colombo: circuit Ramayana de 8 jours au Sri Lanka",
+  "metaDescription": "Experience de 8 jour(s) a Colombo. . Propose par Lakpura®.",
+  "shortDescription": "Experience de 8 jour(s) a Colombo. . Propose par Lakpura®.",
+  "fullDescription": "Une experience de 8 jour(s) a Colombo. Visit Munneswaram, Manavari & Koneswaram Temples.\n\nLakpura® s'en charge, et 5 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend transport en vehicule prive, carburant, parking et peages, service d'un chauffeur-guide anglophone pendant toute la visite, 2 bouteilles d'eau de 500 ml par personne et par jour, hebergement de nuit pour le chauffeur et billets d'entree aux sites. Il ne comprend pas hebergement a l'hotel et repas, depenses de nature personnelle et visa et depenses connexes, prevoyez donc un budget separe. Deux voyageurs paient 1690 $ ensemble plutot que 1521 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Experience de 8 jour(s) a Colombo. . Propose par Lakpura®."
+  ],
+  "included": [
+   "Transport en vehicule prive, carburant, parking et peages",
+   "Service d'un chauffeur-guide anglophone pendant toute la visite",
+   "2 bouteilles d'eau de 500 ml par personne et par jour",
+   "Hebergement de nuit pour le chauffeur.",
+   "Billets d'entree aux sites."
+  ],
+  "notIncluded": [
+   "Hebergement a l'hotel et repas",
+   "Depenses de nature personnelle",
+   "Visa et depenses connexes"
+  ]
+ },
+ "colombo-city-sketching-lesson-and-walk": {
+  "title": "Colombo: cours de croquis de la ville et promenade",
+  "metaTitle": "Colombo: cours de croquis de la ville et promenade",
+  "metaDescription": "Experience de 3 heure(s) a Colombo. . Propose par Hit Media.",
+  "shortDescription": "Experience de 3 heure(s) a Colombo. . Propose par Hit Media.",
+  "fullDescription": "Une experience de 3 heure(s) a Colombo. Learn some handy sketching skills.\n\nHit Media s'en charge, et 2 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend materiel de croquis et tabourets si necessaire (2 disponibles). Il ne comprend pas nourriture et transport, prevoyez donc un budget separe. Deux voyageurs paient 143 $ ensemble plutot que 84 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Experience de 3 heure(s) a Colombo. . Propose par Hit Media."
+  ],
+  "included": [
+   "Materiel de croquis",
+   "Tabourets si necessaire (2 disponibles)"
+  ],
+  "notIncluded": [
+   "Nourriture",
+   "Transport"
+  ]
+ },
  "from-negombo-wilpattu-national-park-safari-with": {
   "title": "Depuis Negombo : safari au parc national de Wilpattu avec transferts",
   "metaTitle": "Depuis Negombo : safari au parc national de Wilpattu avec tran...",
@@ -96261,6 +96322,87 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Repas et boissons",
    "Pourboires (optionnel)",
+   "Depenses personnelles"
+  ]
+ },
+ "negombo-private-city-tour-with-ayurvedic-massage": {
+  "title": "Negombo: visite privee de la ville avec massage ayurvedique et dejeuner",
+  "metaTitle": "Negombo: visite privee de la ville avec massage ayurvedique et...",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Negombo passant par St. Sebastian's Church - Sea Street, Sri Singama Kali Amman Kovil, Fish Market, Negombo et St. M...",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Negombo passant par St. Sebastian's Church - Sea Street, Sri Singama Kali Amman Kovil, Fish Market, Negombo et St. Mary's Church. Propose par Fivemo Tours.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Negombo, passant par St. Sebastian's Church - Sea Street, Sri Singama Kali Amman Kovil, Fish Market, Negombo et St. Mary's Church. Le plus long arret est Negombo, d'environ 1 heure. Il y a 9 arrets au total.\n\nL'ordre de visite est St. Sebastian's Church - Sea Street (20 min), puis Sri Singama Kali Amman Kovil (20 min), puis Fish Market, Negombo (30 min), puis St. Mary's Church (19 min), puis Hamilton Canal, Negombo (20 min).\n\nLe prix comprend visite guidee de la ville de Negombo, visite du marche aux poissons, visite de la zone de transformation du poisson seche et visite d'un temple hindou. Il ne comprend pas depenses personnelles et pourboires, prevoyez donc un budget separe. Deux voyageurs paient 180 $ ensemble plutot que 117 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Negombo passant par St. Sebastian's Church - Sea Street, Sri Singama Kali Amman Kovil, Fish Market, Negombo et St. Mary's Church. Propose par Fivemo Tours."
+  ],
+  "included": [
+   "Visite guidee de la ville de Negombo",
+   "Visite du marche aux poissons",
+   "Visite de la zone de transformation du poisson seche",
+   "Visite d'un temple hindou"
+  ],
+  "notIncluded": [
+   "Depenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "explore-galle-fort-with-local-guide": {
+  "title": "Explorez le fort de Galle avec un guide local",
+  "metaTitle": "Explorez le fort de Galle avec un guide local",
+  "metaDescription": "Experience de 2 heure(s) a Galle. . Propose par Explore Galle Fort with a Local Guide.",
+  "shortDescription": "Experience de 2 heure(s) a Galle. . Propose par Explore Galle Fort with a Local Guide.",
+  "fullDescription": "Une experience de 2 heure(s) a Galle. Step back in time as you explore the historic Galle Fort with a local guide.\n\nExplore Galle Fort with a Local Guide s'en charge, et 3 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend visite guidee a pied du fort de Galle, entree a l'eglise reformee neerlandaise et guide local. Il ne comprend pas la nourriture et les boissons ne sont pas incluses, prevoyez donc un budget separe.",
+  "highlights": [
+   "Experience de 2 heure(s) a Galle. . Propose par Explore Galle Fort with a Local Guide."
+  ],
+  "included": [
+   "Visite guidee a pied du fort de Galle",
+   "Entree a l'eglise reformee neerlandaise",
+   "Guide local"
+  ],
+  "notIncluded": [
+   "La nourriture et les boissons ne sont pas incluses"
+  ]
+ },
+ "from-kandy-kanawiddagala-and-yahangala-twin-peak": {
+  "title": "Depuis Kandy: randonnee des pics jumeaux de Kanawiddagala et Yahangala",
+  "metaTitle": "Depuis Kandy: randonnee des pics jumeaux de Kanawiddagala et Y...",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Kandy passant par Udadumbara District. Propose par Knuckles Wild Trails.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Kandy passant par Udadumbara District. Propose par Knuckles Wild Trails.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Kandy, passant par Udadumbara District. Le plus long arret est Udadumbara District, d'environ 3 heures.\n\nLe prix comprend transport aller-retour depuis Kandy (vehicule climatise confortable, prise en charge a 6h30), guide local experimente (anglophone, forme aux premiers secours), equipement de securite de base (trousse de premiers secours, dispositif de communication d'urgence), collations legeres pour le petit-dejeuner (fruits, barres energetiques) et dejeuner a emporter (repas local avec riz et curry ou sandwichs), tous les frais d'entree et permis pour Kanawiddagala et Yahangala et experience en petit groupe (max 8 a 10 randonneurs pour une attention personnalisee). Il ne comprend pas , prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Kandy passant par Udadumbara District. Propose par Knuckles Wild Trails."
+  ],
+  "included": [
+   "Transport aller-retour depuis Kandy (vehicule climatise confortable, prise en charge a 6h30).",
+   "Guide local experimente (anglophone, forme aux premiers secours).",
+   "Equipement de securite de base (trousse de premiers secours, dispositif de communication d'urgence).",
+   "Collations legeres pour le petit-dejeuner (fruits, barres energetiques) et dejeuner a emporter (repas local avec riz et curry ou sandwichs).",
+   "Tous les frais d'entree et permis pour Kanawiddagala et Yahangala.",
+   "Experience en petit groupe (max 8 a 10 randonneurs pour une attention personnalisee)."
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "nuwara-eliya-tea-plantations-waterfalls-viewpoint": {
+  "title": "Nuwara Eliya: aventure aux plantations de the, cascades et points de vue",
+  "metaTitle": "Nuwara Eliya: aventure aux plantations de the, cascades et poi...",
+  "metaDescription": "Une excursion de 3 heure(s) au depart de Nuwara Eliya passant par Railway Station - Nanuoya, View point, Ramboda Falls, Srilanka et Puna Ella Falls in Ramboda. Pr...",
+  "shortDescription": "Une excursion de 3 heure(s) au depart de Nuwara Eliya passant par Railway Station - Nanuoya, View point, Ramboda Falls, Srilanka et Puna Ella Falls in Ramboda. Propose par Hill Station Tours.",
+  "fullDescription": "Une excursion de 3 heure(s) au depart de Nuwara Eliya, passant par Railway Station - Nanuoya, View point, Ramboda Falls, Srilanka et Puna Ella Falls in Ramboda. Il y a 4 arrets au total.\n\nL'ordre de visite est Railway Station - Nanuoya, puis View point, puis Ramboda Falls, Srilanka, puis Puna Ella Falls in Ramboda.\n\nLe prix comprend visite sympathique et personnalisable, visite de cascades, baignade dans une piscine naturelle (selon les conditions climatiques), visite de plantations de the avec cueillette du the, visite de fabrique, fabrication artisanale de the, et degustation et vue sur le lac et points de vue. Il ne comprend pas depot de dechets, nourriture et boissons disponibles aux frais personnels des visiteurs et depenses personnelles, prevoyez donc un budget separe. Deux voyageurs paient 38 $ ensemble plutot que 38 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Une excursion de 3 heure(s) au depart de Nuwara Eliya passant par Railway Station - Nanuoya, View point, Ramboda Falls, Srilanka et Puna Ella Falls in Ramboda. Propose par Hill Station Tours."
+  ],
+  "included": [
+   "Visite sympathique et personnalisable",
+   "Visite de cascades",
+   "Baignade dans une piscine naturelle (selon les conditions climatiques)",
+   "Visite de plantations de the avec cueillette du the, visite de fabrique, fabrication artisanale de the, et degustation.",
+   "Vue sur le lac et points de vue"
+  ],
+  "notIncluded": [
+   "Depot de dechets",
+   "Nourriture et boissons disponibles aux frais personnels des visiteurs",
    "Depenses personnelles"
   ]
  },
