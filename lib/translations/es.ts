@@ -98494,6 +98494,214 @@ export const ES_TOURS: Record<string, TourT> = {
    "propinas para el conductor y el rastreador"
   ]
  },
+ "ella-tea-factory-ravana-falls-and-sri-lankan-cooking-class-day-tour": {
+  "title": "Tour de un dia en Ella: fabrica de te, cascadas de Ravana y clase de cocina de Sri Lanka",
+  "metaTitle": "Ella: te, Ravana y cocina",
+  "metaDescription": "Un dia completo en Ella centrado en la comida y el te: fabrica en funcionamiento, Little Adam's Peak, puente de los nueve arcos y clase de cocina.",
+  "shortDescription": "Un dia completo en Ella centrado en la comida y el te: una visita a una fabrica en funcionamiento, Little Adam's Peak, el puente de los nueve arcos y las cascadas de Ravana, terminando con una clase practica de arroz con curry.",
+  "fullDescription": "Ella se encuentra en la provincia de Uva, y el te de Uva es genuinamente distinto, un viento seco estacional sopla sobre estas laderas de junio a septiembre y da a la hoja un caracter que los degustadores pueden identificar a ciegas. Una fabrica en funcionamiento aqui le lleva desde las artesas de marchitado a traves del enrollado, la oxidacion y el secado hasta la mesa de clasificacion en unos cuarenta y cinco minutos, y son los mejores cuarenta y cinco minutos que alguien pasa explicando por que un solo arbusto se convierte en seis productos clasificados a precios muy diferentes.\n\nLa mitad de caminata del dia cubre las dos cosas por las que Ella es conocida: Little Adam's Peak, 45 minutos por un sendero escalonado para la vista a traves del Gap, y el puente de los nueve arcos, un viaducto de piedra construido sin acero durante la Primera Guerra Mundial.\n\nLa cocina es la parte que la gente recuerda. El arroz con curry esta mal nombrado en ingles, no es un curry con arroz sino seis o siete platos separados cocinados individualmente y comidos juntos. Usted ralla coco en un hiramanaya, muele la pasta de especias en una piedra, y cocina en ollas de barro sobre un fuego que no se comporta en nada como un quemador de gas.\n\nLuego lo come, lo cual tras una mañana de caminata es el orden correcto.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, al que se llega en el tren desde Kandy que la mayoria considera el trayecto ferroviario mas bonito de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; el Little Adam’s Peak, una caminata de 40 minutos entre te hasta una cresta; Ella Rock, una subida mas exigente de tres horas; y las cascadas de Ravana en la carretera hacia Wellawaya. Las mañanas son claras y las tardes de los meses humedos traen nubes al paso, por eso las caminatas se hacen temprano. Los tuk-tuks son el transporte, y cualquier alojamiento puede conseguir uno.",
+  "highlights": [
+   "Una fabrica de te de Uva en funcionamiento, de la artesa de marchitado a la mesa de clasificacion",
+   "Little Adam’s Peak y el puente de los nueve arcos el mismo dia",
+   "Rallar coco en un hiramanaya y moler la pasta de especias en una piedra",
+   "Cocinar seis o siete platos en ollas de barro sobre fuego de leña",
+   "Comer el arroz con curry que usted preparo"
+  ],
+  "included": [
+   "Vehiculo privado con conductor-guia de habla inglesa",
+   "recogida y regreso al hotel en Ella",
+   "la visita a la fabrica de te",
+   "la clase de cocina con todos los ingredientes",
+   "el almuerzo que usted cocina"
+  ],
+  "notIncluded": [
+   "Entradas cuando correspondan",
+   "bebidas mas alla de las servidas con el almuerzo",
+   "propinas",
+   "compras de te"
+  ]
+ },
+ "yala-national-park-leopard-safari-day-trip-from-ella": {
+  "title": "Safari de leopardos de un dia al Parque Nacional de Yala desde Ella",
+  "metaTitle": "Safari de leopardos Yala desde Ella",
+  "metaDescription": "Un safari al amanecer en Yala, que tiene la mayor densidad de leopardos del mundo, con traslados desde Ella y un jeep 4x4 con conductor y rastreador.",
+  "shortDescription": "Un safari al amanecer en Yala, que tiene la mayor densidad de leopardos del mundo, con traslados desde Ella y un jeep 4x4 con conductor y rastreador.",
+  "fullDescription": "Tenga en cuenta antes de reservar: el Departamento de Conservacion de Vida Silvestre ha cerrado los bloques 1 y 2 del Parque Nacional de Yala del 14 de septiembre al 15 de octubre de 2026 por sequia, por lo que los safaris en esos bloques no pueden realizarse en esas fechas. Los bloques 3 a 6 permanecen abiertos, y Udawalawe y Wilpattu no se ven afectados; para viajes dentro de ese periodo le contactaremos para trasladar el safari a uno de esos parques o a una fecha posterior al 15 de octubre. Udawalawe es el parque mas fuerte para elefantes; Wilpattu ofrece avistamientos de leopardos mas tranquilos.\n\nYala es la razon por la que la gente viene a Sri Lanka por la vida silvestre. El bloque 1, la seccion abierta a la mayoria de los visitantes, tiene la mayor densidad registrada de leopardos del planeta, consecuencia de una alta densidad de presas y la ausencia de tigres o leones que compitan con ellos.\n\nEsa densidad es real y tambien lo es la multitud que atrae. En una mañana concurrida de temporada, el bloque 1 puede tener trescientos jeeps, y cuando se ve un leopardo las radios se encienden y los vehiculos convergen. Es el lugar mas probable del mundo para ver un leopardo salvaje, y no es una experiencia de naturaleza virgen.\n\nMas alla de los leopardos, Yala tiene osos perezosos, elefantes, bufalos de agua, ciervos moteados, cocodrilos y una gama excepcional de aves, mas de doscientas especies, incluidas cigueñas pintadas y una gran afluencia invernal de migrantes.\n\nEl trayecto desde Ella dura unas tres horas cada direccion, por lo que este es un dia de doce horas que comienza en la oscuridad. El safari al amanecer es el que merece la pena: los animales se mueven con la primera luz y se refugian hacia las nueve.\n\nEl bloque 1 de Yala cierra aproximadamente un mes cada septiembre para mantenimiento. Verifique antes de reservar en ese periodo.",
+  "highlights": [
+   "La mayor densidad de leopardos salvajes registrada en el mundo",
+   "Un safari al amanecer, cuando los animales realmente se mueven",
+   "Osos perezosos, elefantes, cocodrilos y mas de 200 especies de aves",
+   "Un jeep 4x4 con un conductor y un rastreador que trabajan el parque a diario",
+   "Traslados de ida y vuelta desde Ella incluidos"
+  ],
+  "included": [
+   "Transporte de ida y vuelta desde su hotel en Ella",
+   "un jeep de safari 4x4 con conductor y rastreador",
+   "el safari",
+   "agua potable"
+  ],
+  "notIncluded": [
+   "El permiso de entrada al parque nacional, pagado en efectivo en la entrada",
+   "comidas",
+   "propinas para el conductor y el rastreador",
+   "gastos personales"
+  ]
+ },
+ "diyaluma-falls-infinity-pools-and-buduruwagala-rock-temple-day-trip": {
+  "title": "Excursion a las piscinas infinitas de las cascadas de Diyaluma y el templo rupestre de Buduruwagala desde Ella",
+  "metaTitle": "Diyaluma y Buduruwagala desde Ella",
+  "metaDescription": "Un dia al sur de Ella hasta Diyaluma, la segunda cascada mas alta de Sri Lanka, con una subida a las piscinas infinitas y las esculturas rupestres de Buduruwagala.",
+  "shortDescription": "Un dia al sur de Ella hasta Diyaluma, la segunda cascada mas alta de Sri Lanka, con una subida a las piscinas naturales infinitas en la cima, mas las cascadas de Ravana y las esculturas rupestres del siglo siete en Buduruwagala.",
+  "fullDescription": "Diyaluma mide 220 metros, la segunda cascada mas alta de Sri Lanka, y cae de un escarpe a unos 45 minutos al sur de Ella. La mayoria de los visitantes la fotografian desde la carretera abajo y se van, lo que pierde la razon de venir.\n\nLa razon es la cima. Un sendero empinado sube unos 45 minutos entre caucho y maleza hasta una serie de piscinas naturales de roca en el borde de la caida, donde el agua se acumula antes de precipitarse. Sentarse en una de ellas con la llanura extendida 220 metros mas abajo es la cosa mas fotografiada de las tierras altas de Uva despues del puente de los nueve arcos, y es una autentica trepada mas que un paseo.\n\nBuduruwagala, una hora mas lejos, es el contrapeso. Siete figuras esculpidas en una pared rocosa en los siglos noveno o decimo, el Buda central en pie de dieciseis metros, y restos del estuco y la pintura originales todavia visibles. Pertenece a la tradicion mahayana, poco comun en Sri Lanka, y se encuentra en matorral casi sin nadie alli.\n\nLas cascadas de Ravana cerca de Ella cierran el dia en el camino de regreso.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, al que se llega en el tren desde Kandy que la mayoria considera el trayecto ferroviario mas bonito de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; el Little Adam’s Peak, una caminata de 40 minutos entre te hasta una cresta; Ella Rock, una subida mas exigente de tres horas; y las cascadas de Ravana en la carretera hacia Wellawaya. Las mañanas son claras y las tardes de los meses humedos traen nubes al paso, por eso las caminatas se hacen temprano. Los tuk-tuks son el transporte, y cualquier alojamiento puede conseguir uno.",
+  "highlights": [
+   "Diyaluma, la segunda cascada mas alta de Sri Lanka a 220 metros",
+   "La subida a las piscinas naturales infinitas en el borde de la caida",
+   "Las siete figuras rupestres de Buduruwagala, incluido un Buda en pie de 16 metros",
+   "Un lugar mahayana poco comun en un pais de budismo theravada",
+   "Las cascadas de Ravana en el camino de regreso a Ella"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado y conductor-guia de habla inglesa",
+   "recogida y regreso al hotel en Ella",
+   "todos los trayectos",
+   "combustible y aparcamiento"
+  ],
+  "notIncluded": [
+   "La entrada a Buduruwagala",
+   "comidas y bebidas",
+   "un guia local en las cascadas cuando se contrate",
+   "propinas"
+  ]
+ },
+ "ella-in-a-day-nine-arch-bridge-little-adams-peak-ravana-falls": {
+  "title": "Ella en un dia: puente de los nueve arcos, Little Adam's Peak, cascadas de Ravana y bucle de Demodara",
+  "metaTitle": "Ella en un dia",
+  "metaDescription": "Un dia privado que cubre todo lo que Ella es conocida por tener: el puente de los nueve arcos, Little Adam's Peak, las cascadas de Ravana y el bucle de Demodara.",
+  "shortDescription": "Un dia privado que cubre todo lo que Ella es conocida por tener de una vez: el puente de los nueve arcos, Little Adam's Peak, las cascadas de Ravana, el bucle de Demodara y un corto tramo en el tren de montaña.",
+  "fullDescription": "Los lugares de interes de Ella son pocos, estan cerca unos de otros y son gratuitos, lo que los hace faciles de visitar mal. Todo lo que merece la pena aqui se hace mejor antes de las nueve de la mañana, las caminatas no estan señalizadas en algunos tramos, y el horario de los trenes es aspiracional. Un conductor-guia que conoce los horarios reales de tren del dia convierte una lista dispersa en una secuencia funcional.\n\nEl dia comienza en Little Adam's Peak con la primera luz, 45 minutos por un sendero escalonado para la vista a traves del Ella Gap, la razon por la que la mayoria de la gente pone esta ciudad en su lista. Bajada para el desayuno, luego el puente de los nueve arcos mientras se espera un tren: 91 metros de viaducto de piedra, 24 metros sobre un desfiladero, construido durante la Primera Guerra Mundial sin ningun acero porque el acero fue a Europa.\n\nEl bucle de Demodara es la parte que casi nadie ve. El ferrocarril traza un circulo completo por debajo de si mismo para ganar altitud, pasando bajo la estacion que acaba de dejar, y es una autentica curiosidad de ingenieria a pocos minutos en coche.\n\nUn corto tramo en tren entre Demodara y Ella le pone en la via en lugar de solo verla. Las cascadas de Ravana, la cueva de Ravana y una tirolina sobre el valle llenan la tarde, y regresa antes del anochecer.\n\nElla es un pueblo a 1.040 metros en las montañas del sur, al que se llega en el tren desde Kandy que la mayoria considera el trayecto ferroviario mas bonito de Asia, y sus lugares de interes estan todos a pocos kilometros: el puente de los nueve arcos, un viaducto de ladrillo de 1921 en un desfiladero de te, que un tren cruza varias veces al dia; el Little Adam’s Peak, una caminata de 40 minutos entre te hasta una cresta; Ella Rock, una subida mas exigente de tres horas; y las cascadas de Ravana en la carretera hacia Wellawaya. Las mañanas son claras y las tardes de los meses humedos traen nubes al paso, por eso las caminatas se hacen temprano. Los tuk-tuks son el transporte, y cualquier alojamiento puede conseguir uno.",
+  "highlights": [
+   "Little Adam’s Peak con la primera luz, antes de la cola para la misma foto",
+   "El puente de los nueve arcos ajustado al paso de un tren, segun el horario real del dia",
+   "El bucle de Demodara, donde el ferrocarril pasa por debajo de si mismo para ganar altitud",
+   "Un corto tramo en el tren de montaña entre Demodara y Ella",
+   "Las cascadas de Ravana, la cueva de Ravana y una tirolina sobre el valle"
+  ],
+  "included": [
+   "Vehiculo privado con conductor-guia de habla inglesa",
+   "recogida y regreso al hotel en Ella",
+   "todos los trayectos entre lugares",
+   "combustible"
+  ],
+  "notIncluded": [
+   "Billetes de tren",
+   "la tarifa de la tirolina",
+   "entradas cuando correspondan",
+   "comidas y bebidas",
+   "propinas"
+  ]
+ },
+ "galle-countryside-cycling-tour-through-villages-paddy-fields": {
+  "title": "Tour en bicicleta por el campo de Galle a traves de pueblos y arrozales",
+  "metaTitle": "Bicicleta por el campo de Galle",
+  "metaDescription": "Un paseo guiado por el campo detras de Galle: arrozales, pequeñas plantaciones de canela y caucho, caminos de pueblo y un tramo de costa en carreteras tranquilas.",
+  "shortDescription": "Un paseo guiado por el campo detras de Galle: arrozales, pequeñas plantaciones de canela y caucho, caminos de pueblo y un tramo de costa, por carreteras secundarias tranquilas en lugar de la carretera principal.",
+  "fullDescription": "El Fuerte de Galle toma unas dos horas de visita y la mayoria de los visitantes nunca va mas alla, lo que significa que se pierden el campo directamente detras de la ciudad, tierras de arroz, pequeñas plantaciones de canela, caucho, y una red de caminos casi sin trafico.\n\nEste paseo usa esos caminos. Es plano a ligeramente ondulado, por lo que no requiere forma fisica particular, y el ritmo lo marca el grupo en lugar de un horario. Pasa por pueblos donde el paseo es lo bastante comun para que nadie actue para el: gente en sus puertas, niños yendo a la escuela, un templo, una tienda, un hombre pelando canela bajo un toldo.\n\nEl guia se detiene donde detenerse merece la pena, una parcela de canela, un arrozal siendo trabajado, una laguna con aves, y un tramo donde los caminos salen a la costa y se puede ver el surf.\n\nCuatro horas incluyendo las paradas, de vuelta antes del pico de calor. Es la mejor media jornada disponible en Galle para quien ya haya caminado por el fuerte y quiera ver lo que hay detras.\n\nSe proporcionan bicicletas y cascos y la ruta es plana, por lo que no se necesita forma fisica particular, pero los caminos son de tierra en algunos tramos y accidentados tras la lluvia. Las mañanas son el momento adecuado, el paseo termina antes de lo peor del calor, y los pueblos estan despiertos y trabajando en lugar de resguardados dentro. Lleve agua, proteccion solar y algo en los pies que no le importe ensuciar.",
+  "highlights": [
+   "Caminos secundarios tranquilos en lugar de la carretera principal, casi sin trafico",
+   "Arrozales, pequeñas plantaciones de canela y de caucho",
+   "Pueblos donde nada esta preparado para los visitantes",
+   "Un tramo de costa al final del paseo",
+   "Plano a ligeramente ondulado, no se necesita forma fisica particular"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en la region de Galle",
+   "una bicicleta y un casco",
+   "un guia ciclista de habla inglesa",
+   "agua potable",
+   "refrescos en la ruta"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "propinas",
+   "gastos personales"
+  ]
+ },
+ "hanthana-ridge-and-katusukonda-hike-from-kandy-with-tea-estates": {
+  "title": "Caminata a la cresta de Hanthana y Katusukonda desde Kandy con plantaciones de te y una cascada",
+  "metaTitle": "Cresta de Hanthana desde Kandy",
+  "metaDescription": "Una caminata guiada por la cordillera de Hanthana justo sobre Kandy, por la cresta de Katusukonda a traves de plantaciones de te y cuevas, terminando en una cascada.",
+  "shortDescription": "Una caminata guiada por la cordillera de Hanthana justo sobre Kandy, por la cresta de Katusukonda a traves de plantaciones de te y cuevas, terminando en una cascada en la que se puede nadar.",
+  "fullDescription": "La cordillera de Hanthana es el muro de colinas directamente al sur de Kandy, siete picos en fila que se miran desde el lago cada dia sin necesariamente darse cuenta de que se pueden caminar. Este viaje lo hace, y como el inicio del sendero esta a veinte minutos de la ciudad, es la caminata seria mas facil disponible desde Kandy.\n\nLa ruta sube por la plantacion de te de Hanthana hasta la cresta, donde la vista se abre en ambas direcciones a la vez: Kandy y su lago al norte, las montañas extendiendose hacia el sur en direccion a Nuwara Eliya. En una mañana clara, la cordillera de Knuckles se alza al otro lado del valle.\n\nKatusukonda es el espolon en el extremo lejano, y la caminata hasta alli cruza pastizales y bolsas de bosque remanente con cuevas en la roca debajo de la linea de cresta. Hay poca gente aqui, este es donde caminan los residentes de Kandy, no donde van los grupos turisticos.\n\nLa cascada al final es la recompensa: una poza lo bastante fria para ser un verdadero shock tras una caminata calurosa, y lo bastante poco profunda para sentarse en ella. La mayoria de los grupos se detienen una hora antes de bajar.\n\nDe cuatro a cinco horas de caminata con una subida real al principio, por senderos de plantacion y pastizal abierto. Tras la lluvia hay sanguijuelas en el te, inofensivas, y el guia lleva sal, pero tengalo en cuenta. La cresta esta expuesta sin sombra, por lo que una salida temprana vence tanto al calor como a las nubes del mediodia que normalmente cierran la vista. La poza al final esta fria como deshielo en lugar de refrescante; la mayoria dura unos minutos y se alegra de haber entrado.",
+  "highlights": [
+   "La cordillera de Hanthana justo sobre Kandy, accesible con un viaje de 20 minutos",
+   "Vistas de cresta sobre Kandy y su lago por un lado, las montañas por el otro",
+   "El espolon de Katusukonda y las cuevas debajo de la linea de cresta",
+   "Senderos de plantacion de te y bosque remanente casi sin nadie",
+   "Una poza de cascada para nadar al final de la caminata"
+  ],
+  "included": [
+   "Transporte de Kandy al inicio del sendero y de vuelta",
+   "un guia de senderismo de habla inglesa",
+   "la caminata guiada",
+   "agua potable"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "propinas",
+   "equipo de senderismo personal",
+   "gastos personales"
+  ]
+ },
+ "kandy-night-street-photography-walk-with-a-local-photographer": {
+  "title": "Paseo de fotografia nocturna en Kandy con un fotografo local",
+  "metaTitle": "Fotografia nocturna en Kandy",
+  "metaDescription": "Dos horas fotografiando Kandy tras el anochecer con un fotografo local: la fachada colonial iluminada del Queen’s Hotel, el lago, el mercado nocturno.",
+  "shortDescription": "Dos horas fotografiando Kandy tras el anochecer con un fotografo local: la fachada colonial iluminada del Queen’s Hotel, el lago, el mercado nocturno y las calles alrededor del Templo del Diente.",
+  "fullDescription": "Kandy cambia tras el anochecer. El lago refleja el templo iluminado y el Queen's Hotel, las calles alrededor del mercado siguen funcionando bajo tubos fluorescentes, y el calor finalmente baja lo suficiente para que la gente salga y se quede fuera. Es una ciudad mucho mejor para fotografiar de noche que de dia, y mucho mas dificil.\n\nEste es un paseo de dos horas con un fotografo que trabaja aqui. El lado tecnico es lo importante: la fotografia de calle nocturna consiste en manejar poca luz, temperatura de color mixta y movimiento todo a la vez, y la diferencia entre un encuadre util y uno borroso suele ser una decision sobre la velocidad de obturacion tomada en un segundo. Eso se enseña en la calle, en su propia camara, en lugar de explicarse de forma abstracta.\n\nLa ruta cubre la fachada colonial del Queen's Hotel, que es el edificio mas fotografiado de Kandy y el que la mayoria hace mal; la orilla del lago, donde estan los reflejos; el mercado nocturno, que es la seccion mas dificil y gratificante; y las calles alrededor del Templo del Diente.\n\nGrupos pequeños, porque la fotografia de calle con una multitud no funciona, la gente nota seis camaras y deja de comportarse con normalidad.\n\nKandy fue la ultima capital de los reyes cingaleses, resistiendo a portugueses y holandeses hasta que los britanicos la tomaron en 1815, y el Templo de la Sagrada Reliquia del Diente junto al lago es la razon de su importancia: la reliquia, considerada un diente de Buda, es el objeto mas sagrado de la isla y su custodia legitimaba antiguamente la realeza. La camara de la reliquia abre para puja tres veces al dia, aproximadamente a las 5:30, 9:30 y 18:30, cuando comienzan los tambores y la fila pasa junto al relicario. La vestimenta cubre hombros y rodillas, los zapatos se quitan en la entrada, y el Esala Perahera en julio o agosto pasea el relicario sobre un elefante por la ciudad durante diez noches.",
+  "highlights": [
+   "Kandy tras el anochecer, cuando la ciudad esta en su punto mas fotogenico",
+   "La fachada colonial iluminada del Queen’s Hotel y los reflejos del lago",
+   "El mercado nocturno, la luz mas dificil y los mejores encuadres",
+   "Tecnica practica de poca luz enseñada en su propia camara, en la calle",
+   "Grupos de maximo cuatro personas, para que la gente a su alrededor siga normal"
+  ],
+  "included": [
+   "Un fotografo profesional como su guia durante la sesion de dos horas",
+   "el paseo guiado"
+  ],
+  "notIncluded": [
+   "Traslados al hotel",
+   "equipo fotografico",
+   "comidas y bebidas",
+   "propinas",
+   "entradas donde correspondan"
+  ]
+ },
+ "peradeniya-botanic-gardens-photography-walk-with-a-professional": {
+  "title": "Paseo fotografico en los jardines botanicos de Peradeniya con un fotografo profesional",
+  "metaTitle": "Fotografia en Peradeniya",
+  "metaDescription": "Un paseo fotografico de tres horas por el Jardin Botanico de Peradeniya con un fotografo profesional, incluida la avenida de palmeras y el higo de Java.",
+  "shortDescription": "Un paseo fotografico guiado de tres horas por el Jardin Botanico Real de Peradeniya con un fotografo profesional, incluida la avenida de palmeras, la casa de orquideas y el gran higo de Java.",
+  "fullDescription": "El Jardin Botanico Real de Peradeniya ocupa 60 hectareas dentro de un meandro del rio Mahaweli, trazado formalmente en 1821 sobre un terreno que habia sido un jardin real desde el siglo catorce. Se fotografia bien y la mayoria de los visitantes lo fotografian mal, porque la luz bajo un dosel cerrado es dificil y la escala de los arboles es casi imposible de transmitir.\n\nPara eso sirve este paseo. Un fotografo profesional le lleva por las partes del jardin que realmente recompensan una camara, la Avenida de las Palmeras Repollo, plantada en 1905 y que corre en linea recta durante un par de cientos de metros; la casa de orquideas; los pinos de Cook; y el higo de Java, un solo arbol cuya copa cubre unos 2.500 metros cuadrados de cesped y que nadie fotografia bien por casualidad.\n\nLa enseñanza es practica en lugar de teorica: donde situarse, que hace la luz bajo el dosel, como manejar el contraste entre la sombra y el cielo, y como dar sensacion de escala a un arbol muy grande. Funciona tanto con un telefono como con una camara, y el fotografo trabajara con lo que usted tenga.\n\nTres horas, grupos pequeños, y se va con fotografias en lugar de instantaneas.\n\nKandy fue la ultima capital de los reyes cingaleses, resistiendo a portugueses y holandeses hasta que los britanicos la tomaron en 1815, y el Templo de la Sagrada Reliquia del Diente junto al lago es la razon de su importancia: la reliquia, considerada un diente de Buda, es el objeto mas sagrado de la isla y su custodia legitimaba antiguamente la realeza. La camara de la reliquia abre para puja tres veces al dia, aproximadamente a las 5:30, 9:30 y 18:30, cuando comienzan los tambores y la fila pasa junto al relicario. La vestimenta cubre hombros y rodillas, los zapatos se quitan en la entrada, y el Esala Perahera en julio o agosto pasea el relicario sobre un elefante por la ciudad durante diez noches.",
+  "highlights": [
+   "Un fotografo profesional en lugar de un guia que tambien hace fotos",
+   "La Avenida de las Palmeras Repollo, plantada en 1905, en linea recta durante 200 metros",
+   "El higo de Java, cuya copa cubre unos 2.500 metros cuadrados",
+   "Manejo practico de la luz dificil bajo el dosel cerrado",
+   "Funciona tanto con un telefono como con una camara"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Kandy",
+   "un fotografo profesional como su guia",
+   "la sesion de tres horas en el jardin"
+  ],
+  "notIncluded": [
+   "La entrada al jardin, pagada en la entrada",
+   "equipo fotografico",
+   "comidas y bebidas",
+   "propinas"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Experiencia de flyboard en Pattaya",
   "fullDescription": "Esta es una experiencia de 30 minutos en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye experiencia de flyboard, apoyo de un instructor, equipo de seguridad y duchas. No incluye fotos y recogida y regreso al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",

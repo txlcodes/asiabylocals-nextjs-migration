@@ -98494,6 +98494,214 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder fuer Fahrer und Spurenleser"
   ]
  },
+ "ella-tea-factory-ravana-falls-and-sri-lankan-cooking-class-day-tour": {
+  "title": "Ella-Tagestour: Teefabrik, Ravana-Wasserfaelle und sri-lankischer Kochkurs",
+  "metaTitle": "Ella: Tee, Ravana und Kochkurs",
+  "metaDescription": "Ein voller Ella-Tag rund um Essen und Tee: eine aktive Fabrikbesichtigung, Little Adam’s Peak, die Neun-Bogen-Bruecke und ein Kochkurs.",
+  "shortDescription": "Ein voller Ella-Tag rund um Essen und Tee: eine aktive Fabrikbesichtigung, Little Adam’s Peak, die Neun-Bogen-Bruecke und die Ravana-Wasserfaelle, endend mit einem praktischen Reis-und-Curry-Kochkurs.",
+  "fullDescription": "Ella liegt in der Provinz Uva, und Uva-Tee ist wirklich eigenstaendig, ein trockener saisonaler Wind weht von Juni bis September ueber diese Haenge und gibt dem Blatt einen Charakter, den Verkoster blind erkennen koennen. Eine aktive Fabrik hier fuehrt Sie von den Welktrogen ueber Rollen, Oxidation und Trocknen bis zur Sortiertabelle in etwa fuenfundvierzig Minuten, und es sind die besten fuenfundvierzig Minuten, die jemand damit verbringt zu erklaeren, warum ein Strauch zu sechs eingestuften Produkten zu vollkommen unterschiedlichen Preisen wird.\n\nDie Wanderhaelfte des Tages deckt die zwei Dinge ab, fuer die Ella bekannt ist: Little Adam’s Peak, 45 Minuten einen gestuften Pfad hinauf fuer die Aussicht durch die Gap, und die Neun-Bogen-Bruecke, ein Steinviadukt, errichtet ohne Stahl waehrend des Ersten Weltkriegs.\n\nDas Kochen ist der Teil, an den sich Leute erinnern. Reis und Curry ist auf Englisch schlecht benannt, es ist kein Curry mit Reis, sondern sechs oder sieben separate Gerichte, die einzeln gekocht und zusammen gegessen werden. Sie reiben Kokosnuss auf einem Hiramanaya, mahlen die Gewuerzpaste auf einem Stein, und kochen in Tontoepfen ueber einem Feuer, das sich ganz anders verhaelt als ein Gasring.\n\nDann essen Sie es, was nach einem Vormittag voller Wandern die richtige Reihenfolge ist.\n\nElla ist ein Dorf auf 1.040 Metern in den Bergen des Sueden, erreichbar mit dem Zug aus Kandy, den die meisten fuer die schoenste Bahnfahrt Asiens halten, und seine Sehenswuerdigkeiten liegen alle nur wenige Kilometer entfernt: die Neun-Bogen-Bruecke, ein Backsteinviadukt von 1921 in einer Teeschlucht, das mehrmals taeglich von einem Zug ueberquert wird; der Little Adam’s Peak, ein 40-minuetiger Spaziergang durch Teefelder zu einem Kamm; Ella Rock, ein anspruchsvollerer dreistuendiger Aufstieg; und die Ravana-Wasserfaelle an der Strasse nach Wellawaya. Die Morgen sind klar, und an Nachmittagen der feuchten Monate zieht Wolken in den Pass, deshalb finden Wanderungen frueh statt. Tuk-Tuks sind das Verkehrsmittel, und jede Pension kann eines besorgen.",
+  "highlights": [
+   "Eine aktive Uva-Teefabrik vom Welktrog bis zur Sortiertabelle",
+   "Little Adam’s Peak und die Neun-Bogen-Bruecke am selben Tag",
+   "Kokosnuss auf einem Hiramanaya reiben und Gewuerzpaste auf einem Stein mahlen",
+   "Sechs oder sieben Gerichte in Tontoepfen ueber Holzfeuer kochen",
+   "Den Reis und Curry essen, den Sie zubereitet haben"
+  ],
+  "included": [
+   "Privatfahrzeug mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Ella",
+   "der Besuch der Teefabrik",
+   "der Kochkurs mit allen Zutaten",
+   "das Mittagessen, das Sie kochen"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren, falls zutreffend",
+   "Getraenke ueber die zum Mittagessen servierten hinaus",
+   "Trinkgelder",
+   "Teekaeufe"
+  ]
+ },
+ "yala-national-park-leopard-safari-day-trip-from-ella": {
+  "title": "Yala-Nationalpark-Leoparden-Safari-Tagesausflug ab Ella",
+  "metaTitle": "Leoparden-Safari Yala ab Ella",
+  "metaDescription": "Eine Pirschfahrt im Morgengrauen in Yala, dem Park mit der weltweit hoechsten Leopardendichte, mit Transfers ab Ella und einem 4x4-Jeep mit Fahrer und Spurenleser.",
+  "shortDescription": "Eine Pirschfahrt im Morgengrauen in Yala, dem Park mit der weltweit hoechsten Leopardendichte, mit Transfers ab Ella und einem 4x4-Jeep mit Fahrer und Spurenleser.",
+  "fullDescription": "Bitte vor der Buchung beachten: Die Abteilung fuer Wildschutz hat die Bloecke 1 und 2 des Yala-Nationalparks vom 14. September bis 15. Oktober 2026 wegen Trockenheit geschlossen, daher koennen Safaris in diesen Bloecken an diesen Daten nicht stattfinden. Die Bloecke 3 bis 6 bleiben geoeffnet, und Udawalawe und Wilpattu sind nicht betroffen; fuer Reisen in diesem Zeitraum kontaktieren wir Sie, um die Safari in einen dieser Parks oder auf ein Datum nach dem 15. Oktober zu verlegen. Udawalawe ist der staerkere Park fuer Elefanten; Wilpattu bietet ruhigere Leopardensichtungen.\n\nYala ist der Grund, warum Leute wegen der Tierwelt nach Sri Lanka kommen. Block 1, der fuer die meisten Besucher geoeffnete Abschnitt, hat die hoechste je erfasste Leopardendichte der Welt, eine Folge hoher Beutedichte und der Abwesenheit von Tigern oder Loewen, die mit ihnen konkurrieren wuerden.\n\nDiese Dichte ist real, und das ist auch die Menge, die sie anzieht. An einem belebten Morgen in der Saison kann Block 1 dreihundert Jeeps halten, und wenn ein Leopard gesichtet wird, leuchten die Funkgeraete auf und Fahrzeuge kommen zusammen. Es ist der wahrscheinlichste Ort der Welt, einen wild lebenden Leoparden zu sehen, und es ist kein Wildnis-Erlebnis.\n\nUeber die Leoparden hinaus beherbergt Yala Lippenbaeren, Elefanten, Wasserbueffel, Axishirsche, Krokodile und ein aussergewoehnliches Spektrum an Voegeln, ueber zweihundert Arten, einschliesslich Nimmersatt-Stoerche und einen grossen Wintereinfall von Zugvoegeln.\n\nDie Fahrt von Ella dauert etwa drei Stunden pro Strecke, weshalb dies ein zwoelfstuendiger Tag ist, der im Dunkeln beginnt. Die Pirschfahrt im Morgengrauen ist jene, die sich lohnt: Tiere bewegen sich im ersten Licht und suchen gegen neun Uhr Schutz.\n\nYala Block 1 schliesst jedes Jahr im September fuer etwa einen Monat zur Instandhaltung. Pruefen Sie das vor einer Buchung in diesem Zeitraum.",
+  "highlights": [
+   "Die weltweit hoechste je erfasste Dichte wild lebender Leoparden",
+   "Eine Pirschfahrt im Morgengrauen, wenn sich die Tiere tatsaechlich bewegen",
+   "Lippenbaeren, Elefanten, Krokodile und ueber 200 Vogelarten",
+   "Ein 4x4-Jeep mit einem Fahrer und einem Spurenleser, die den Park taeglich befahren",
+   "Rueckfahrten ab Ella inklusive"
+  ],
+  "included": [
+   "Rueckfahrt ab Ihrem Hotel in Ella",
+   "ein 4x4-Safari-Jeep mit Fahrer und Spurenleser",
+   "die Pirschfahrt",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Die Nationalpark-Eintrittsgenehmigung, bar am Tor zu zahlen",
+   "Mahlzeiten",
+   "Trinkgelder fuer Fahrer und Spurenleser",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "diyaluma-falls-infinity-pools-and-buduruwagala-rock-temple-day-trip": {
+  "title": "Diyaluma-Wasserfaelle, Infinity Pools und der Felsentempel Buduruwagala: Tagesausflug ab Ella",
+  "metaTitle": "Diyaluma und Buduruwagala ab Ella",
+  "metaDescription": "Ein Tag suedlich von Ella zu Diyaluma, mit einem Aufstieg zu den natuerlichen Infinity Pools und den Felsschnitzereien von Buduruwagala.",
+  "shortDescription": "Ein Tag suedlich von Ella zu Diyaluma, Sri Lankas zweithoechstem Wasserfall, mit einem Aufstieg zu den natuerlichen Infinity Pools an der Spitze, plus den Ravana-Wasserfaellen und den Felsschnitzereien aus dem siebten Jahrhundert in Buduruwagala.",
+  "fullDescription": "Diyaluma ist 220 Meter hoch, der zweithoechste Wasserfall Sri Lankas, und faellt von einem Steilhang etwa 45 Minuten suedlich von Ella. Die meisten Besucher fotografieren ihn von der Strasse unten und gehen weiter, was den Grund zu kommen verfehlt.\n\nDer Grund ist die Spitze. Ein steiler Pfad steigt etwa 45 Minuten durch Kautschuk und Buschwerk zu einer Reihe natuerlicher Felsbecken am Rand des Falls, wo sich das Wasser sammelt, bevor es hinabstuerzt. In einem davon zu sitzen, mit der Ebene 220 Meter darunter ausgebreitet, ist das meistfotografierte Motiv des Uva-Berglands nach der Neun-Bogen-Bruecke, und es ist eine echte Kletterei statt eines Spaziergangs.\n\nBuduruwagala, eine Stunde weiter, ist das Gegengewicht. Sieben Figuren, im neunten oder zehnten Jahrhundert in eine Felswand gehauen, der zentrale Buddha sechzehn Meter stehend, und Spuren des urspruenglichen Stucks und der Farbe noch sichtbar. Es gehoert zur Mahayana-Tradition, die in Sri Lanka ungewoehnlich ist, und liegt in Buschwerk fast ohne Besucher.\n\nDie Ravana-Wasserfaelle nahe Ella schliessen den Tag auf dem Rueckweg ab.\n\nElla ist ein Dorf auf 1.040 Metern in den Bergen des Sueden, erreichbar mit dem Zug aus Kandy, den die meisten fuer die schoenste Bahnfahrt Asiens halten, und seine Sehenswuerdigkeiten liegen alle nur wenige Kilometer entfernt: die Neun-Bogen-Bruecke, ein Backsteinviadukt von 1921 in einer Teeschlucht, das mehrmals taeglich von einem Zug ueberquert wird; der Little Adam’s Peak, ein 40-minuetiger Spaziergang durch Teefelder zu einem Kamm; Ella Rock, ein anspruchsvollerer dreistuendiger Aufstieg; und die Ravana-Wasserfaelle an der Strasse nach Wellawaya. Die Morgen sind klar, und an Nachmittagen der feuchten Monate zieht Wolken in den Pass, deshalb finden Wanderungen frueh statt. Tuk-Tuks sind das Verkehrsmittel, und jede Pension kann eines besorgen.",
+  "highlights": [
+   "Diyaluma, Sri Lankas zweithoechster Wasserfall auf 220 Metern",
+   "Der Aufstieg zu den natuerlichen Infinity Pools am Rand des Falls",
+   "Die sieben Felsenfiguren von Buduruwagala, einschliesslich eines 16 Meter hohen stehenden Buddha",
+   "Eine seltene Mahayana-Staette in einem Land des Theravada-Buddhismus",
+   "Die Ravana-Wasserfaelle auf dem Rueckweg nach Ella"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Ella",
+   "alle Fahrten",
+   "Kraftstoff und Parken"
+  ],
+  "notIncluded": [
+   "Die Eintrittsgebuehr fuer Buduruwagala",
+   "Mahlzeiten und Getraenke",
+   "ein lokaler Guide bei den Wasserfaellen, falls engagiert",
+   "Trinkgelder"
+  ]
+ },
+ "ella-in-a-day-nine-arch-bridge-little-adams-peak-ravana-falls": {
+  "title": "Ella an einem Tag: Neun-Bogen-Bruecke, Little Adam’s Peak, Ravana-Wasserfaelle und Demodara-Schleife",
+  "metaTitle": "Ella an einem Tag",
+  "metaDescription": "Ein privater Tag, der alles abdeckt, wofuer Ella bekannt ist: die Neun-Bogen-Bruecke, Little Adam’s Peak, die Ravana-Wasserfaelle und die Demodara-Schleife.",
+  "shortDescription": "Ein privater Tag, der alles abdeckt, wofuer Ella bekannt ist, auf einmal: die Neun-Bogen-Bruecke, Little Adam’s Peak, die Ravana-Wasserfaelle, die Demodara-Schleife und eine kurze Fahrt auf der Bergbahn.",
+  "fullDescription": "Ellas Sehenswuerdigkeiten sind wenige, nah beieinander und kostenlos, was sie leicht macht, sie schlecht zu besuchen. Alles, was sich hier lohnt, ist am besten vor neun Uhr morgens, die Wanderungen sind stellenweise unmarkiert, und der Zugfahrplan ist eher ein Wunsch. Ein Fahrer-Guide, der die tatsaechlichen Zugzeiten des Tages kennt, verwandelt eine verstreute Liste in eine funktionierende Abfolge.\n\nDer Tag beginnt auf Little Adam’s Peak im ersten Licht, 45 Minuten einen gestuften Pfad hinauf fuer die Aussicht durch die Ella Gap, der Grund, warum die meisten Leute diese Stadt auf eine Liste setzen. Hinunter zum Fruehstueck, dann die Neun-Bogen-Bruecke, waehrend ein Zug faellig ist: 91 Meter Steinviadukt, 24 Meter ueber einer Schlucht, errichtet waehrend des Ersten Weltkriegs ohne jeglichen Stahl, weil der Stahl nach Europa ging.\n\nDie Demodara-Schleife ist das Stueck, das fast niemand sieht. Die Eisenbahn vollzieht eine volle Schleife unter sich selbst, um an Hoehe zu gewinnen, und passiert unter dem Bahnhof, den sie gerade verlassen hat, und das ist eine echte ingenieurtechnische Kuriositaet ein paar Minuten die Strasse hinunter.\n\nEine kurze Zugfahrt zwischen Demodara und Ella bringt Sie auf die Strecke statt nur daneben. Die Ravana-Wasserfaelle, die Ravana-Hoehle und eine Zipline ueber dem Tal fuellen den Nachmittag, und Sie sind vor Einbruch der Dunkelheit zurueck.\n\nElla ist ein Dorf auf 1.040 Metern in den Bergen des Sueden, erreichbar mit dem Zug aus Kandy, den die meisten fuer die schoenste Bahnfahrt Asiens halten, und seine Sehenswuerdigkeiten liegen alle nur wenige Kilometer entfernt: die Neun-Bogen-Bruecke, ein Backsteinviadukt von 1921 in einer Teeschlucht, das mehrmals taeglich von einem Zug ueberquert wird; der Little Adam’s Peak, ein 40-minuetiger Spaziergang durch Teefelder zu einem Kamm; Ella Rock, ein anspruchsvollerer dreistuendiger Aufstieg; und die Ravana-Wasserfaelle an der Strasse nach Wellawaya. Die Morgen sind klar, und an Nachmittagen der feuchten Monate zieht Wolken in den Pass, deshalb finden Wanderungen frueh statt. Tuk-Tuks sind das Verkehrsmittel, und jede Pension kann eines besorgen.",
+  "highlights": [
+   "Little Adam’s Peak im ersten Licht, vor der Schlange fuer dasselbe Foto",
+   "Die Neun-Bogen-Bruecke abgestimmt auf eine Zugdurchfahrt, nach dem echten Fahrplan des Tages",
+   "Die Demodara-Schleife, wo die Eisenbahn unter sich selbst hindurchfuehrt, um an Hoehe zu gewinnen",
+   "Eine kurze Etappe auf der Bergbahn zwischen Demodara und Ella",
+   "Die Ravana-Wasserfaelle, die Ravana-Hoehle und eine Zipline ueber dem Tal"
+  ],
+  "included": [
+   "Privatfahrzeug mit englischsprachigem Fahrer-Guide",
+   "Hotelabholung und Rueckfahrt in Ella",
+   "alle Fahrten zwischen den Orten",
+   "Kraftstoff"
+  ],
+  "notIncluded": [
+   "Zugtickets",
+   "die Zipline-Gebuehr",
+   "Eintrittsgebuehren, falls zutreffend",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder"
+  ]
+ },
+ "galle-countryside-cycling-tour-through-villages-paddy-fields": {
+  "title": "Radtour durch die Landschaft um Galle, durch Doerfer und Reisfelder",
+  "metaTitle": "Radtour durch die Landschaft Galles",
+  "metaDescription": "Eine gefuehrte Radfahrt durch die Landschaft hinter Galle: Reisfelder, Zimt-Kleinbetriebe, Dorfwege und ein Kuestenabschnitt.",
+  "shortDescription": "Eine gefuehrte Radfahrt durch die Landschaft hinter Galle: Reisfelder, Zimt- und Kautschuk-Kleinbetriebe, Dorfwege und ein Kuestenabschnitt, auf ruhigen Nebenstrassen statt der Hauptstrasse.",
+  "fullDescription": "Das Fort von Galle braucht etwa zwei Stunden zum Besichtigen, und die meisten Besucher kommen nie darueber hinaus, was bedeutet, dass sie das Land direkt hinter der Stadt verpassen, Reisfelder, Zimt-Kleinbetriebe, Kautschuk, und ein Netz von Wegen mit fast keinem Verkehr.\n\nDiese Fahrt nutzt diese Wege. Sie ist flach bis sanft wellig, erfordert also keine besondere Fitness, und das Tempo wird von der Gruppe statt von einem Zeitplan bestimmt. Sie fahren durch Doerfer, in denen die Fahrt unauffaellig genug ist, dass niemand sich dafuer inszeniert: Leute an ihren Toren, Kinder auf dem Weg zur Schule, ein Tempel, ein Laden, ein Mann, der unter einem Vordach Zimt schaelt.\n\nDer Guide haelt an, wo sich das Anhalten lohnt, eine Zimtparzelle, ein bearbeitetes Reisfeld, eine Lagune mit Voegeln, und einen Abschnitt, wo die Wege auf die Kueste treffen und man die Brandung sehen kann.\n\nVier Stunden einschliesslich der Stopps, zurueck vor der schlimmsten Hitze. Es ist der beste halbe Tag, den man in Galle bekommen kann, wenn man das Fort schon besichtigt hat und sehen will, was dahinter liegt.\n\nFahrraeder und Helme werden gestellt und die Route ist flach, also wird keine besondere Fitness benoetigt, aber die Wege sind stellenweise aus festgetretener Erde und nach Regen uneben. Morgens ist die richtige Zeit, die Fahrt endet vor der schlimmsten Hitze, und die Doerfer sind wach und arbeiten statt sich drinnen zu verstecken. Bringen Sie Wasser, Sonnenschutz und etwas fuer Ihre Fuesse mit, das schmutzig werden darf.",
+  "highlights": [
+   "Ruhige Nebenwege statt der Hauptstrasse, mit fast keinem Verkehr",
+   "Reisfelder, Zimt-Kleinbetriebe und Kautschukplantagen",
+   "Doerfer, in denen nichts fuer Besucher inszeniert ist",
+   "Ein Kuestenabschnitt am fernen Ende der Fahrt",
+   "Flach bis sanft wellig, keine besondere Fitness notwendig"
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt in der Region Galle",
+   "ein Fahrrad und ein Helm",
+   "ein englischsprachiger Radguide",
+   "Trinkwasser",
+   "Erfrischungen auf der Route"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Trinkgelder",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "hanthana-ridge-and-katusukonda-hike-from-kandy-with-tea-estates": {
+  "title": "Hanthana-Kamm- und Katusukonda-Wanderung ab Kandy mit Teeplantagen und einem Wasserfall",
+  "metaTitle": "Hanthana-Kamm ab Kandy",
+  "metaDescription": "Eine gefuehrte Wanderung auf dem Hanthana-Gebirge oberhalb von Kandy, entlang des Katusukonda-Kamms, endend an einem Wasserfall.",
+  "shortDescription": "Eine gefuehrte Wanderung auf dem Hanthana-Gebirge direkt oberhalb von Kandy, entlang des Katusukonda-Kamms durch Teeplantagen und an Hoehlen vorbei, endend an einem Wasserfall, in dem man schwimmen kann.",
+  "fullDescription": "Das Hanthana-Gebirge ist die Huegelmauer direkt suedlich von Kandy, sieben Gipfel in einer Reihe, die man jeden Tag vom See aus betrachtet, ohne unbedingt zu merken, dass man sie begehen kann. Diese Tour tut genau das, und weil der Ausgangspunkt zwanzig Minuten von der Stadt entfernt ist, ist es die einfachste ernsthafte Wanderung, die ab Kandy verfuegbar ist.\n\nDie Route steigt durch die Hanthana-Teeplantage auf den Kamm, wo sich die Aussicht in beide Richtungen zugleich oeffnet: Kandy und sein See im Norden, das Bergland, das suedwaerts nach Nuwara Eliya verlaeuft. An einem klaren Morgen erhebt sich das Knuckles-Gebirge jenseits des Tals.\n\nKatusukonda ist der Vorsprung am fernen Ende, und der Weg dorthin durchquert Grasland und Flecken Restwald mit Hoehlen im Fels unterhalb der Kammlinie. Hier sind wenige Leute, hier wandern die Bewohner von Kandy, nicht wo Reisegruppen hingehen.\n\nDer Wasserfall am Ende ist die Belohnung: ein Becken, kalt genug, um nach einer heissen Wanderung ein echter Schock zu sein, und flach genug, um darin zu sitzen. Die meisten Gruppen halten eine Stunde, bevor sie absteigen.\n\nVier bis fuenf Stunden Wandern mit einem echten Aufstieg am Anfang, auf Plantagenpfaden und offenem Grasland. Nach Regen gibt es Blutegel im Tee, harmlos, und der Guide trägt Salz, aber denken Sie daran. Der Kamm ist exponiert ohne Schatten, daher schlaegt ein frueher Start sowohl die Hitze als auch die Mittagswolken, die normalerweise die Sicht schliessen. Das Becken am Ende ist schneeschmelzkalt statt erfrischend; die meisten halten ein paar Minuten durch und sind froh, hineingegangen zu sein.",
+  "highlights": [
+   "Das Hanthana-Gebirge direkt oberhalb von Kandy, erreichbar mit einer 20-minuetigen Fahrt",
+   "Kammblicke auf Kandy und seinen See auf der einen Seite, das Bergland auf der anderen",
+   "Der Katusukonda-Vorsprung und die Hoehlen unterhalb der Kammlinie",
+   "Teeplantagenpfade und Restwald fast ohne Menschen",
+   "Ein Wasserfallbecken zum Schwimmen am Ende der Wanderung"
+  ],
+  "included": [
+   "Transport von Kandy zum Trailhead und zurueck",
+   "ein englischsprachiger Wanderguide",
+   "die gefuehrte Wanderung",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Trinkgelder",
+   "persoenliche Wanderausruestung",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "kandy-night-street-photography-walk-with-a-local-photographer": {
+  "title": "Naechtlicher Streetfotografie-Spaziergang in Kandy mit einem lokalen Fotografen",
+  "metaTitle": "Naechtliche Fotografie in Kandy",
+  "metaDescription": "Zwei Stunden Kandy nach Einbruch der Dunkelheit fotografieren mit einem lokalen Fotografen: die Kolonialfassade des Queen’s Hotel, der See, der Nachtmarkt.",
+  "shortDescription": "Zwei Stunden Kandy nach Einbruch der Dunkelheit fotografieren mit einem lokalen Fotografen: die beleuchtete Kolonialfassade des Queen’s Hotel, der See, der Nachtmarkt und die Strassen um den Zahntempel.",
+  "fullDescription": "Kandy veraendert sich nach Einbruch der Dunkelheit. Der See spiegelt den beleuchteten Tempel und das Queen’s Hotel, die Strassen um den Markt arbeiten weiter unter Leuchtstoffroehren, und die Hitze faellt endlich genug, dass Leute herauskommen und bleiben. Es ist eine viel bessere Stadt zum Fotografieren nachts als tagsueber, und viel schwieriger.\n\nDies ist ein zweistuendiger Spaziergang mit einem Fotografen, der hier arbeitet. Die technische Seite ist der Kern: naechtliche Streetfotografie bedeutet, schwaches Licht, gemischte Farbtemperatur und Bewegung alles gleichzeitig zu handhaben, und der Unterschied zwischen einem brauchbaren Bild und einem verwackelten ist meist eine Entscheidung ueber die Verschlusszeit, die in einer Sekunde getroffen wird. Das wird auf der Strasse gelehrt, auf Ihrer eigenen Kamera, statt abstrakt erklaert.\n\nDie Route umfasst die Kolonialfassade des Queen’s Hotel, das meistfotografierte Gebaeude in Kandy und jenes, das die meisten falsch machen; die Seepromenade, wo die Spiegelungen sind; den Nachtmarkt, der der schwierigste und lohnendste Abschnitt ist; und die Strassen um den Zahntempel.\n\nKleine Gruppen, denn Streetfotografie mit einer Menschenmenge funktioniert nicht, Leute bemerken sechs Kameras und hoeren auf, sich normal zu verhalten.\n\nKandy war die letzte Hauptstadt der singhalesischen Koenige und hielt gegen Portugiesen und Niederlaender durch, bis die Briten sie 1815 einnahmen, und der Tempel der Heiligen Zahnreliquie am See ist der Grund, warum sie wichtig ist: Die Reliquie, von der man glaubt, es sei ein Zahn des Buddha, ist das heiligste Objekt der Insel, und ihre Verwahrung legitimierte einst das Koenigtum. Die Reliquienkammer oeffnet dreimal taeglich fuer Puja, etwa um 5:30, 9:30 und 18:30 Uhr, wenn das Trommeln beginnt und die Schlange am Reliquienschrein vorbeizieht. Die Kleidung bedeckt Schultern und Knie, Schuhe werden am Eingang ausgezogen, und die Esala Perahera im Juli oder August fuehrt den Schrein auf einem Elefanten zehn Naechte lang durch die Stadt.",
+  "highlights": [
+   "Kandy nach Einbruch der Dunkelheit, wenn die Stadt am fotogensten ist",
+   "Die beleuchtete Kolonialfassade des Queen’s Hotel und die Seespiegelungen",
+   "Der Nachtmarkt, das schwierigste Licht und die besten Aufnahmen",
+   "Praktische Low-Light-Technik, gelehrt auf Ihrer eigenen Kamera, auf der Strasse",
+   "Hoechstens vier Personen pro Gruppe, sodass sich die Leute um Sie herum normal verhalten"
+  ],
+  "included": [
+   "Ein professioneller Fotograf als Ihr Guide fuer die zweistuendige Sitzung",
+   "der gefuehrte Spaziergang"
+  ],
+  "notIncluded": [
+   "Hoteltransfers",
+   "Kameraausruestung",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder",
+   "Eintrittsgebuehren, wo diese anfallen"
+  ]
+ },
+ "peradeniya-botanic-gardens-photography-walk-with-a-professional": {
+  "title": "Fotospaziergang im Botanischen Garten Peradeniya mit einem professionellen Fotografen",
+  "metaTitle": "Fotografie in Peradeniya",
+  "metaDescription": "Ein dreistuendiger Fotospaziergang durch den Botanischen Garten Peradeniya mit einem Fotografen, einschliesslich der Palmenallee und dem Java-Feigenbaum.",
+  "shortDescription": "Ein dreistuendiger gefuehrter Fotospaziergang durch den Koeniglichen Botanischen Garten Peradeniya mit einem arbeitenden Fotografen, einschliesslich der Palmenallee, dem Orchideenhaus und dem riesigen Java-Feigenbaum.",
+  "fullDescription": "Der Koenigliche Botanische Garten Peradeniya umfasst 60 Hektar innerhalb einer Flussschleife des Mahaweli, 1821 formell angelegt auf einem Gelaende, das seit dem vierzehnten Jahrhundert ein koeniglicher Garten gewesen war. Er fotografiert sich gut, und die meisten Besucher fotografieren ihn schlecht, weil das Licht unter geschlossenem Kronendach schwierig ist und der Massstab der Baeume fast unmoeglich zu vermitteln ist.\n\nDafuer ist dieser Spaziergang gedacht. Ein arbeitender Fotograf fuehrt Sie durch die Teile des Gartens, die eine Kamera tatsaechlich belohnen, die Kohlpalmen-Allee, 1905 gepflanzt und ueber ein paar hundert Meter pfeilgerade verlaufend; das Orchideenhaus; die Cook-Kiefern; und den Java-Feigenbaum, ein einzelner Baum, dessen Kronendach etwa 2.500 Quadratmeter Rasen bedeckt und den niemand zufaellig gut fotografiert.\n\nDas Lehren ist praktisch statt theoretisch: wo man steht, was das Licht unter dem Kronendach macht, wie man den Kontrast zwischen Schatten und Himmel handhabt, und wie man einem sehr grossen Baum ein Gefuehl von Massstab gibt. Es funktioniert mit einem Handy ebenso wie mit einer Kamera, und der Fotograf arbeitet mit dem, was Sie haben.\n\nDrei Stunden, kleine Gruppen, und Sie gehen mit Fotografien statt Schnappschuessen.\n\nKandy war die letzte Hauptstadt der singhalesischen Koenige und hielt gegen Portugiesen und Niederlaender durch, bis die Briten sie 1815 einnahmen, und der Tempel der Heiligen Zahnreliquie am See ist der Grund, warum sie wichtig ist: Die Reliquie, von der man glaubt, es sei ein Zahn des Buddha, ist das heiligste Objekt der Insel, und ihre Verwahrung legitimierte einst das Koenigtum. Die Reliquienkammer oeffnet dreimal taeglich fuer Puja, etwa um 5:30, 9:30 und 18:30 Uhr, wenn das Trommeln beginnt und die Schlange am Reliquienschrein vorbeizieht. Die Kleidung bedeckt Schultern und Knie, Schuhe werden am Eingang ausgezogen, und die Esala Perahera im Juli oder August fuehrt den Schrein auf einem Elefanten zehn Naechte lang durch die Stadt.",
+  "highlights": [
+   "Ein arbeitender Fotograf statt eines Guides, der auch Fotos macht",
+   "Die Kohlpalmen-Allee, 1905 gepflanzt und 200 Meter geradeaus verlaufend",
+   "Der Java-Feigenbaum, dessen Kronendach rund 2.500 Quadratmeter bedeckt",
+   "Praktischer Umgang mit dem schwierigen Licht unter geschlossenem Kronendach",
+   "Funktioniert mit einem Handy ebenso wie mit einer Kamera"
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt in Kandy",
+   "ein professioneller Fotograf als Ihr Guide",
+   "die dreistuendige Sitzung im Garten"
+  ],
+  "notIncluded": [
+   "Die Eintrittsgebuehr fuer den Garten, am Tor zu zahlen",
+   "Kameraausruestung",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Flyboard-Erlebnis in Pattaya",
   "fullDescription": "Dies ist ein 30-minütiges Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Flyboard-Erlebnis, Betreuung durch einen Instructor, Sicherheitsausrüstung und Duschen. Nicht enthalten sind Fotos und Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
