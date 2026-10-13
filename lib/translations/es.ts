@@ -47523,7 +47523,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -47702,7 +47702,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sri-lanka10-day-peaks-beaks-tour-entry-adventures": {
@@ -47768,7 +47768,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Transporte de ida y vuelta a Galle House",
    "Propinas (opcional)",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sri-lanka-10-day-private-tour-with-4-half": {
@@ -47829,7 +47829,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Transporte de ida y vuelta a la plantacion",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-colombo-10-day-sri-lanka-tour-with-guide": {
@@ -47923,7 +47923,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -48120,7 +48120,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "1 botella de agua"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -48142,7 +48142,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifas de entrada, alquiler de jeep para el safari en Yala",
    "Almuerzo, cena, y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -48206,7 +48206,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Almuerzo y bebidas",
    "Tarifas de entrada al jardin botanico real 15 USD por persona, el templo de la Reliquia del Diente 10 USD por persona, y el espectaculo cultural de Kandy 10 USD por persona",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -48375,7 +48375,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -48461,7 +48461,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Almuerzo en un restaurante local",
    "Tarifas de entrada al parque nacional de Yala (36 USD por persona)",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ella-little-adams-peak-9-arch-bridge-ravana-falls": {
@@ -48546,7 +48546,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Vehiculo con aire acondicionado"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas",
    "Almuerzo"
   ]
@@ -48591,7 +48591,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas y bebidas",
    "Los cargos por salida tardia y entrada temprana estan excluidos",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-rock-safari-guided-tour": {
@@ -48759,7 +48759,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -48849,7 +48849,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tarifas de entrada a la roca de Sigiriya, templo de Dambulla, templo de la Reliquia del Diente, selva tropical de Makandeva, parque nacional de Minneriya",
    "Alquiler de jeep para el safari en Minneriya",
    "Almuerzo",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -48975,7 +48975,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Alojamiento",
    "Comidas y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-colombo-kandy-and-tea-plantations-day-trip": {
@@ -49013,7 +49013,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Casa de talla en madera"
   ],
   "notIncluded": [
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "2-day-scenic-tour-from-kandy-to-ramboda-nuwara": {
@@ -49190,7 +49190,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Recogida y regreso al hotel",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -49271,7 +49271,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Permisos de camara y video"
   ]
  },
@@ -49335,7 +49335,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "El seguro de viaje no esta incluido"
   ]
  },
@@ -49357,7 +49357,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comida y bebidas",
    "Entradas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-pidurangala-day-trip-from-kandy-by-tuk": {
@@ -49397,7 +49397,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas y bebidas",
    "Los cargos por salida tardia y entrada temprana estan excluidos",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "explore-bentota-riversafari-tour-with-hotel": {
@@ -49459,7 +49459,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Entradas"
   ]
  },
@@ -49480,7 +49480,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-sigiriya-dambulla-caves-wildlife-day-tour": {
@@ -49519,7 +49519,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas (a menos que se especifique)",
-   "Gastos personales",
+   "Gastos personales.",
    "Entradas"
   ]
  },
@@ -49562,7 +49562,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Jeep de safari y tarifas de entrada al parque nacional de Yala",
    "Tour de observacion de ballenas en Mirissa",
    "Comidas y bebidas a menos que se especifique",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "3-day-sri-lanka-tour-kandy-nuwara-eliya-ella": {
@@ -49582,7 +49582,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -49603,7 +49603,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas y bebidas",
    "Propinas (opcional)",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "2-day-ella-tour-diyaluma-falls-horton-plains": {
@@ -49665,7 +49665,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Almuerzo y bebidas (a menos que se especifique)",
    "Propinas (opcional)",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-lion-rock-minneriya-national-park-safari": {
@@ -49685,7 +49685,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Entradas a las atracciones",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-port-city-go-karting-experience-with": {
@@ -49745,7 +49745,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo y cena (excepto el picnic proporcionado)",
-   "Gastos personales",
+   "Gastos personales.",
    "Safari en el rio Madu, 25 USD por persona"
   ]
  },
@@ -49827,7 +49827,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifas de entrada para cualquier atraccion",
    "Comidas y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "udawalawe-safari-from-ella-shift-tangalle-mirissa": {
@@ -49913,7 +49913,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas al parque nacional",
    "Comidas y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-private-city-tour-by-tuk-tuk-experience": {
@@ -50007,7 +50007,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Entradas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "8-day-sri-lanka-tour-history-nature-culture": {
@@ -50799,7 +50799,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifa de entrada."
   ]
  },
@@ -50820,7 +50820,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada al templo de Dambulla"
   ]
  },
@@ -51166,7 +51166,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Las entradas de los lugares visitados no estan incluidas",
    "Almuerzo (tiempo libre previsto)",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "pidurangala-rock-sunrisesunset-picnic-hike": {
@@ -51979,7 +51979,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a las atracciones",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-kandy-sigiriyadambulla-and-minneriya-park": {
@@ -52021,7 +52021,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Tarifas de entrada (Anuradhapura 30 USD/pers., Sigiriya 35 USD/pers., Polonnaruwa 30 USD/pers., Templo Dorado de Dambulla 10 USD/pers., templo de la Reliquia del Diente 10 USD/pers., safari en Minneriya 80 USD/pers.)",
-   "Gastos personales",
+   "Gastos personales.",
    "Almuerzo, cena y bebidas",
    "Propinas y gratificaciones",
    "Otras comidas"
@@ -52044,7 +52044,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Este paquete excluye las tarifas de entrada",
    "Seguro de viaje",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ella-first-class-scenic-train-ticket-tofrom": {
@@ -52323,7 +52323,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tarifas de estacionamiento"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas",
    "Alojamiento"
   ]
@@ -52449,7 +52449,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Servicios adicionales",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -52780,7 +52780,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Todos los cargos e impuestos"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -53617,7 +53617,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo y cena",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "7-day-off-the-beaten-nature-and-wildlife-tour": {
@@ -53802,7 +53802,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comida",
    "Propinas (opcional)",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-sri-lanka-cultural-triangle-hotspots-2": {
@@ -53988,7 +53988,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida o bebidas adicionales mas alla del desayuno de aldea incluido",
-   "Gastos personales",
+   "Gastos personales.",
    "Compras opcionales a vendedores locales"
   ]
  },
@@ -54134,7 +54134,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Cena",
    "Gastos de juego en el casino",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ella-adventure-tour-with-nildiya-pokuna-waterfalls": {
@@ -54157,7 +54157,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifa de entrada a Nildiya Pokuna (5.000 LKR por persona, pagadera en el lugar)",
    "Propinas (opcional)",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-to-ella-scenic-train-raide-waterfalls-tea": {
@@ -54199,7 +54199,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas de la fabrica de te",
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-sigiriya-lion-rock-safari-day-trip-with": {
@@ -54386,7 +54386,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Demostracion de cocina tradicional"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas",
    "Seguro de viaje"
   ]
@@ -54450,7 +54450,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Entrada al templo de la cueva de Dambulla",
-   "Gastos personales",
+   "Gastos personales.",
    "Comida y bebidas adicionales"
   ]
  },
@@ -54471,7 +54471,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sri-lanka-4-day-all-inclusive-tour-with-safari": {
@@ -54514,7 +54514,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entrada al criadero de tortugas",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-to-nuwara-eliya-by-car-nanu-oya-ella": {
@@ -54535,7 +54535,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Tarifas de entrada a atracciones cuando corresponda",
-   "Gastos personales",
+   "Gastos personales.",
    "Comidas y bebidas distintas del agua embotellada proporcionada"
   ]
  },
@@ -54596,7 +54596,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Sesion practica de cocina de Sri Lanka"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -54617,7 +54617,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas no mencionadas especificamente",
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada a atracciones cuando corresponda"
   ]
  },
@@ -54639,7 +54639,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-traditional-wood-carving-workshop-with": {
@@ -54723,7 +54723,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -54765,7 +54765,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Alojamiento",
    "Comidas y bebidas distintas del agua embotellada",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ella-little-adams-peak-guided-hike-with-tuk-tuk": {
@@ -54785,7 +54785,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ella-to-tangalle-hiriketiya-via-safari-with-hotel": {
@@ -54905,7 +54905,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Bebidas adicionales",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-colombo-sigiriya-rock-fortress-day-trip-with": {
@@ -55012,7 +55012,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Tarifa de entrada a Upper Diyaluma (aproximadamente 1 a 1,5 USD, pagadera en el lugar)",
-   "Gastos personales y recuerdos",
+   "Gastos personales y recuerdos.",
    "Propinas (opcional)",
    "Seguro de viaje"
   ]
@@ -55218,7 +55218,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales",
+   "Gastos personales.",
    "Seguro de viaje"
   ]
  },
@@ -55239,7 +55239,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Alojamiento",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -55303,7 +55303,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Propinas",
    "Bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-kandy-4-days-tour-city-train-ella-southern": {
@@ -55367,7 +55367,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Fuerte de Galle"
   ],
   "notIncluded": [
-   "Gastos personales y recuerdos",
+   "Gastos personales y recuerdos.",
    "Comida y bebidas adicionales no especificadas",
    "Cualquier actividad o servicio no mencionado en el itinerario"
   ]
@@ -55613,7 +55613,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifas de entrada a todos los sitios",
    "Propinas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-private-lake-boat-tour-with-city-views": {
@@ -55733,7 +55733,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -55797,7 +55797,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Recogida y regreso al hotel dentro de la zona designada de Nuwara Eliya"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas",
    "Cualquier tarifa de entrada no listada especificamente"
   ]
@@ -55820,7 +55820,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Recogida y regreso al hotel",
    "Transporte hasta el lugar",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "nelligala-international-buddhist-center-morning": {
@@ -55862,7 +55862,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ella-ayurvedic-spa-experience-at-ravan-herbs": {
@@ -55905,7 +55905,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Recogida y regreso al hotel para ubicaciones fuera del radio de 2 km de Mirissa",
    "Comida y bebidas adicionales no especificadas en su opcion reservada",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ella-to-hiriketiya-waterfalls-wildlife-safari": {
@@ -56111,7 +56111,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Propinas (opcional)",
-   "Gastos personales",
+   "Gastos personales.",
    "Comida o bebidas adicionales mas alla de la degustacion"
   ]
  },
@@ -56172,7 +56172,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -56236,7 +56236,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comida y bebidas distintas del agua embotellada",
    "Entradas a las atracciones",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-firstsecondthird-class-scenic-train-ticket": {
@@ -56388,7 +56388,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida o bebidas no mencionadas especificamente en las inclusiones",
-   "Gastos personales",
+   "Gastos personales.",
    "Recuerdos"
   ]
  },
@@ -56447,7 +56447,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y almuerzo",
-   "Gastos personales",
+   "Gastos personales.",
    "Recuerdos y compras"
   ]
  },
@@ -56469,7 +56469,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas",
    "Clases de surf",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ella-to-weligama-private-transfer-with-safari": {
@@ -56551,7 +56551,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas",
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-local-food-tour-by-tuk-tuk-with-pickup": {
@@ -56589,7 +56589,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Instructor profesional de equitacion"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Comida y bebidas adicionales",
    "Fotografo profesional"
   ]
@@ -56648,7 +56648,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Paseo en carreta de bueyes"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -56754,7 +56754,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifas de entrada al parque nacional",
    "Comida y alimentos",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ella-gal-oya-national-park-wildlife-boat-safari": {
@@ -56793,7 +56793,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales y recuerdos",
+   "Gastos personales y recuerdos.",
    "Actividades opcionales como paseos en tirolina"
   ]
  },
@@ -56876,7 +56876,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifas de entrada al parque nacional de Yala",
    "Propinas y gratificaciones",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sri-lanka-highlights-sigiriya-safari-train-ride": {
@@ -56954,7 +56954,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "King coconut"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas",
    "Almuerzo"
   ]
@@ -56996,7 +56996,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas (a menos que se especifique)",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -57016,7 +57016,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Paseo en tuk-tuk"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -57037,7 +57037,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida, bocadillos, y bebidas alcoholicas",
-   "Gastos personales y recuerdos"
+   "Gastos personales y recuerdos."
   ]
  },
  "from-ella-yala-jeep-safari-thangallemirissagalle": {
@@ -57083,7 +57083,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "galle-city-tour-with-english-or-russian-speaking": {
@@ -57125,7 +57125,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas (a menos que se especifique)",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -57145,7 +57145,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Agua potable embotellada"
   ],
   "notIncluded": [
-   "Gastos personales y recuerdos",
+   "Gastos personales y recuerdos.",
    "Comida y bebidas (a menos que se especifique)",
    "Propinas para el conductor/guia (opcional)"
   ]
@@ -57286,7 +57286,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Desayuno y agua"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -57329,7 +57329,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas",
    "Entrada",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-colombo-galle-fort-jungle-beach-tour-with": {
@@ -57349,7 +57349,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -57469,7 +57469,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "galle-private-coastal-tour-with-turtles-fort-gem": {
@@ -57530,7 +57530,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Almuerzo y comidas adicionales",
    "Refrescos comprados durante paradas opcionales (excepto el te)",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ella-waterfall-tour-swim-cliff-jump-at-diyaluma": {
@@ -57569,7 +57569,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -57612,7 +57612,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a la torre de loto y al templo de Gangaramaya",
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kalutara-yala-safari-with-private-jeep-entry": {
@@ -57691,7 +57691,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Recogida y regreso al hotel (a menos que se seleccione)",
-   "Gastos personales",
+   "Gastos personales.",
    "Actividades adicionales no mencionadas en el itinerario"
   ]
  },
@@ -57750,7 +57750,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Almuerzo"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -57790,7 +57790,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Entradas a la torre de loto y al templo de Gangaramaya",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-to-madu-river-galle-city-tour-with-ticket": {
@@ -57810,7 +57810,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas para conductor/guia"
   ]
  },
@@ -57840,7 +57840,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Tour de 4 dias por Sri Lanka, playa y relax para personas mayores",
   "metaDescription": "Una excursion de 4 dia(s) desde Galle que visita Colombo City Highlights (Beach Sunset Experience), Yala (Beach Sunset Experience), Bentota, Galle & Madu River Ex...",
   "shortDescription": "Una excursion de 4 dia(s) desde Galle que visita Colombo City Highlights (Beach Sunset Experience), Yala (Beach Sunset Experience), Bentota, Galle & Madu River Experience y End Tour. Ofrecido por Lanka Safe Tours.",
-  "fullDescription": "Una excursion de 4 dia(s) desde Galle, que recorre Colombo City Highlights (Beach Sunset Experience), Yala (Beach Sunset Experience), Bentota, Galle & Madu River Experience y End Tour. Hay 4 paradas en total.\n\nEl orden de la ruta es Colombo City Highlights (Beach Sunset Experience), luego Yala (Beach Sunset Experience), luego Bentota, Galle & Madu River Experience, luego End Tour.\n\nEl precio incluye vehiculo privado con aire acondicionado, conductor-guia profesional que habla ingles, recogida y regreso en el aeropuerto y transporte durante todo el tour. No incluye alojamiento, entradas a las atracciones y comida y bebidas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 1076 $ juntos en lugar de 1076 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de 4 dia(s) desde Galle, que recorre Colombo City Highlights (Beach Sunset Experience), Yala (Beach Sunset Experience), Bentota, Galle & Madu River Experience y End Tour. Hay 4 paradas en total.\n\nEl orden de la ruta es Colombo City Highlights (Beach Sunset Experience), luego Yala (Beach Sunset Experience), luego Bentota, Galle & Madu River Experience, luego End Tour.\n\nEl precio incluye vehiculo privado con aire acondicionado, conductor-guia profesional que habla ingles, recogida y regreso en el aeropuerto y transporte durante todo el tour. No incluye alojamiento, entradas a las atracciones y comida y bebida, por lo que debe presupuestar eso por separado. Dos viajeros pagan 1076 $ juntos en lugar de 1076 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Una excursion de 4 dia(s) desde Galle que visita Colombo City Highlights (Beach Sunset Experience), Yala (Beach Sunset Experience), Bentota, Galle & Madu River Experience y End Tour. Ofrecido por Lanka Safe Tours."
   ],
@@ -57853,7 +57853,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Alojamiento",
    "Entradas a las atracciones",
-   "Comida y bebidas"
+   "Comida y bebida"
   ]
  },
  "sigiriya-catamaran-ride-traditional-cooking": {
@@ -57891,7 +57891,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Viaje en tren matutino de Nanu Oya a Ella"
   ],
   "notIncluded": [
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "bentota-galle-fort-river-safari-turtle-hatchery": {
@@ -57912,7 +57912,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comida y bebidas (almuerzo en Hikkaduwa o Galle)",
    "Tarifa de spa de peces en el rio Madu (opcional)",
-   "Gastos personales y recuerdos"
+   "Gastos personales y recuerdos."
   ]
  },
  "ella-mini-adams-peak-skywalk-adventure": {
@@ -57950,7 +57950,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas adicionales",
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada a atracciones no mencionadas en el itinerario (si corresponde)"
   ]
  },
@@ -58112,7 +58112,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de peaje de autopista"
   ]
  },
@@ -58153,7 +58153,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comida y bebidas",
    "Entradas a la torre de loto y al templo de Gangaramaya",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-colombo-2-day-kandy-tour-with-airport-pickup": {
@@ -58233,7 +58233,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Bebida de bienvenida"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Comida y bebidas adicionales no mencionadas"
   ]
  },
@@ -58317,7 +58317,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifas de entrada",
    "Almuerzo",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "galle-ceylon-gem-workshop-galle-fort-private-tour": {
@@ -58339,7 +58339,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entradas, cuando corresponda",
    "Comidas",
    "Compras de gemas y joyas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "mirissa-vip-turtle-snorkeling-pool-training-gopro": {
@@ -58383,7 +58383,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comida y bebidas (almuerzo)",
    "Propinas y gratificaciones",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-jewellery-handcrafts-with-hotel-transfer": {
@@ -58423,7 +58423,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas no especificadas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-kandy-2-day-guided-pekoe-trail-hike-with": {
@@ -58464,7 +58464,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -58484,7 +58484,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Equipo de seguridad"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -58506,7 +58506,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas al parque nacional",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-kandy-pekoe-trail-stage-2-guided-hike-with": {
@@ -58525,7 +58525,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Recogida y regreso al hotel"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -58608,7 +58608,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Tarifas de entrada al orfanato de elefantes de Pinnawala",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ella-pottery-workshop-natural-pools-kubalwela": {
@@ -58629,7 +58629,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas (a menos que se especifique)",
    "Comida y bebidas adicionales",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "mirissa-galle-city-tour-with-spice-garden-turtle": {
@@ -58667,7 +58667,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita a barrios locales"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Actividades opcionales no incluidas en el tour base"
   ]
  },
@@ -58789,7 +58789,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Itinerario totalmente personalizable"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas (opcional)"
   ]
  },
@@ -58812,7 +58812,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Tarifas de entrada al parque nacional (a menos que esten incluidas en la opcion elegida)",
-   "Gastos personales",
+   "Gastos personales.",
    "Comida y alimentos"
   ]
  },
@@ -58882,7 +58882,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifas de entrada",
    "Comida",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ella-second-class-scenic-train-seat-reservation": {
@@ -58965,7 +58965,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada (si corresponde)"
   ]
  },
@@ -59068,7 +59068,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-guided-gem-museum-lapidary-tour-mahaweli": {
@@ -59088,7 +59088,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "polonnaruwa-tour-minneriya-eco-park-sigiriya-drop": {
@@ -59132,7 +59132,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-airport-sigiriya-kandy-or-ella-private": {
@@ -59172,7 +59172,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entradas incluidas"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Seguro de viaje"
   ]
  },
@@ -59316,7 +59316,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-guided-city-tour-galle-fort-boat-safari": {
@@ -59458,7 +59458,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Almuerzo en Udawalawe",
    "Entradas a Udawalawe y safari",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-private-tuk-tuk-tour-with-three-temples-and": {
@@ -59477,7 +59477,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Viaje a su propio ritmo con una experiencia relajada y sin prisas"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas (opcional)"
   ]
  },
@@ -59541,7 +59541,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-colombo-udawalawe-elephant-safari-day-trip": {
@@ -59700,7 +59700,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifas de entrada a las atracciones",
    "Almuerzos y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "mirissa-private-eco-turtle-snorkelling-tour": {
@@ -59842,7 +59842,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita a las cataratas Hunas"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -59964,7 +59964,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Paradas panoramicas ocultas segun el itinerario"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas para el conductor/guia",
    "Tarifas de entrada"
   ]
@@ -59989,7 +59989,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Almuerzo, cena, y comidas no mencionadas en las inclusiones",
    "Bocadillos y bebidas adicionales",
-   "Gastos personales y recuerdos",
+   "Gastos personales y recuerdos.",
    "Servicios de fotografia profesional",
    "Propinas y gratificaciones"
   ]
@@ -60013,7 +60013,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comidas y bebidas",
    "Entrada para la experiencia de liberacion de crias de tortuga, aproximadamente 3.000 LKR por persona",
    "Propinas, opcionales",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-3-day-ceylon-tea-heritage-railway": {
@@ -60033,7 +60033,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Otras comidas y bebidas a menos que se especifique",
-   "Gastos personales y recuerdos",
+   "Gastos personales y recuerdos.",
    "Propinas opcionales para el conductor"
   ]
  },
@@ -60055,7 +60055,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas al parque nacional de Minneriya",
    "Comida y bebidas adicionales",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-to-nanuoya-and-ambewela-drop-trip-ella": {
@@ -60074,7 +60074,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita a un jardin de te"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Seguro de viaje"
   ]
  },
@@ -60095,7 +60095,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriyadambulla-kandy-and-ella-2-day-trip-with": {
@@ -60199,7 +60199,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de fabrica de te y paradas en miradores panoramicos"
   ],
   "notIncluded": [
-   "Gastos personales y recuerdos",
+   "Gastos personales y recuerdos.",
    "Propinas opcionales para el conductor",
    "Tarifas de fotografia en ciertas atracciones, si corresponde"
   ]
@@ -60288,7 +60288,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-colombo-flamingos-wetlands-photography-safari": {
@@ -60328,7 +60328,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Propinas",
-   "Gastos personales",
+   "Gastos personales.",
    "Cualquier tarifa de entrada relacionada con el safari opcional en barco en el rio Madhu, si corresponde"
   ]
  },
@@ -60368,7 +60368,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -60390,7 +60390,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-to-pasikuda-wilderness-drive-fruit-tasting": {
@@ -60454,7 +60454,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Entradas a la torre de loto y al templo de Gangaramaya"
   ]
  },
@@ -60542,7 +60542,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-galle-sigiriya-private-tour-with-sunset-climb": {
@@ -60561,7 +60561,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita a un antiguo templo de cueva rocosa"
   ],
   "notIncluded": [
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-sigiriya-dambulla-drop-tour-by-car-with": {
@@ -60621,7 +60621,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "all-inclusive-yala-leopard-safari-from-colombo": {
@@ -60704,7 +60704,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Traslados al hotel",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-guided-village-bike-tour-in-sigiriya": {
@@ -60724,7 +60724,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas, a menos que se seleccionen",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas (opcional)"
   ]
  },
@@ -60854,7 +60854,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a las atracciones",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-hidden-gems-tour-lion-rock-views-secret": {
@@ -60873,7 +60873,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tarifas de entrada para todos los lugares incluidos en el itinerario"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Comida y bebidas compradas fuera de la comida incluida",
    "Recuerdos y productos comprados durante el tour"
   ]
@@ -60897,7 +60897,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sri-lanka-tea-estate-galle-iconic-coastal-train": {
@@ -60917,7 +60917,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Regreso a Galle o a su hotel"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas",
    "Comida y bebidas adicionales"
   ]
@@ -60958,7 +60958,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-minneriya-premium-private-guided": {
@@ -61020,7 +61020,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita a miradores ocultos de la laguna"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Almuerzo",
    "Barco en la laguna (opcional)"
   ]
@@ -61061,7 +61061,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo y comidas adicionales",
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada opcionales a atracciones no incluidas en el itinerario"
   ]
  },
@@ -61082,7 +61082,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo y cena",
-   "Gastos personales",
+   "Gastos personales.",
    "Comida y bebidas adicionales"
   ]
  },
@@ -61129,7 +61129,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Entradas al parque nacional (35 USD/pers.)",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "bentota-whale-watching-galle-fort-turtle-day-tour": {
@@ -61150,7 +61150,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Almuerzo",
    "Entradas al criadero de tortugas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "nuwara-eliya-tea-tour-nature-experience-waterfall": {
@@ -61169,7 +61169,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita a la cascada y mirador de Ramboda"
   ],
   "notIncluded": [
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-lion-rock-minneriya-safari-with-english": {
@@ -61212,7 +61212,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Transporte fuera de la zona de recogida (radio de 5 km)"
   ]
  },
@@ -61310,7 +61310,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita al templo de Buduruwagala"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones",
    "Comida y bebidas"
   ]
@@ -61372,7 +61372,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas",
    "Tarifas de entrada a las atracciones",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-kalawewa-national-park-elephant-safari": {
@@ -61452,7 +61452,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-dambulla-13-attractions-with-kandy-drop": {
@@ -61494,7 +61494,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Su alojamiento",
    "Comidas no mencionadas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-udawalawe-national-park-safari-day-trip": {
@@ -61514,7 +61514,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Jeep de safari"
   ]
  },
@@ -61559,7 +61559,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo y cena (excepto la cena de despedida)",
-   "Gastos personales",
+   "Gastos personales.",
    "Seguro de viaje"
   ]
  },
@@ -61580,7 +61580,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas adicionales",
-   "Gastos personales",
+   "Gastos personales.",
    "Todo lo que no se mencione en las inclusiones"
   ]
  },
@@ -61622,7 +61622,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Propinas para el conductor",
-   "Gastos personales",
+   "Gastos personales.",
    "Seguro de viaje"
   ]
  },
@@ -61684,7 +61684,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas y tarifas de actividades",
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sunrise-sigiriya-climb-dambulla-caves-jeep-safari": {
@@ -61725,7 +61725,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Desayuno y bocadillos",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas para el conductor"
   ]
  },
@@ -61804,7 +61804,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita al fuerte de Galle"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Comida y bebidas adicionales",
    "Entradas no mencionadas en las inclusiones"
   ]
@@ -61847,7 +61847,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo y cena",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sri-lanka-private-van-with-driver-fromto-any": {
@@ -61887,7 +61887,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-private-tuk-tuk-city-tour-with-meal-and": {
@@ -61927,7 +61927,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita a la estupa de Asgiriya"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada y boletos"
   ]
  },
@@ -62048,7 +62048,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a las atracciones",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "arugam-bay-to-ella-transfer-with-temples": {
@@ -62069,7 +62069,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a las atracciones",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-tea-factory-tour-with-tasting-and-tuk-tuk": {
@@ -62109,7 +62109,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Botella de agua"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada al Dalada Maligawa",
    "Tarifas de entrada a Bahirawa Kanda"
   ]
@@ -62154,7 +62154,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifas de entrada a sitios opcionales",
    "Comidas a menos que se especifique",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "2-days-sri-lanka-tour-to-sigiriya": {
@@ -62274,7 +62274,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -62298,7 +62298,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a las atracciones",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "udawalawe-to-ella-transfer-with-waterfalls-temple": {
@@ -62322,7 +62322,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a las atracciones",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "galle-create-your-own-silver-jewellery-with-free": {
@@ -62470,7 +62470,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifas de entrada (torre Ambuluwawa, templo del Diente, etc.)",
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -62493,7 +62493,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entradas (templo de la Reliquia del Diente, jardin botanico real, etc.)",
    "Entrada al espectaculo de danza cultural kandyana (opcional)",
    "Comidas y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -62556,7 +62556,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "No entregamos boletos los miercoles",
    "Entradas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-kandy-sigiriya-rock-dambulla-cave-safari-day": {
@@ -62685,7 +62685,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas adicionales no especificadas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas (opcional)"
   ]
  },
@@ -62790,7 +62790,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas no mencionadas",
-   "Gastos personales",
+   "Gastos personales.",
    "Seguro de viaje"
   ]
  },
@@ -62894,7 +62894,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada"
   ]
  },
@@ -62916,7 +62916,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Alojamiento",
    "Cena",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "capital-city-tour-by-ceylon-tuk-tuk": {
@@ -62957,7 +62957,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifas de entrada a las atracciones",
    "Comidas y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-village-walk-cooking-experience-with-local": {
@@ -62977,7 +62977,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Transporte hasta el lugar",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -62998,7 +62998,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "mirissa-bentota-day-trip-with-cinnamon-mask": {
@@ -63017,7 +63017,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita a un taller de talla de mascaras"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -63078,7 +63078,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Safari en barco por el rio Madu"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Bocadillos o bebidas adicionales"
   ]
  },
@@ -63099,7 +63099,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada"
   ]
  },
@@ -63120,7 +63120,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Comidas distintas del desayuno y almuerzo"
   ]
  },
@@ -63141,7 +63141,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada"
   ]
  },
@@ -63227,7 +63227,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada"
   ]
  },
@@ -63286,7 +63286,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita a la fabrica de te Kurumaga"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Otras entradas"
   ]
  },
@@ -63403,7 +63403,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Instructores de rio experimentados"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas",
    "Cualquier actividad no mencionada en el programa"
   ]
@@ -63670,7 +63670,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Sopa despues de la comida"
   ],
   "notIncluded": [
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "nuwara-eliya-labookellie-tea-factory-story-of": {
@@ -63828,7 +63828,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-dambana-indigenous-vedda-community-tour": {
@@ -63905,7 +63905,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -63927,7 +63927,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas al parque nacional de Wilpattu",
    "Comidas y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-rock-hike-minneriya-elephant-safari": {
@@ -64090,7 +64090,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Billetes de avion",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "galle-vespa-tour-of-galle-fort-with-optional": {
@@ -64130,7 +64130,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Almuerzo casero"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -64211,7 +64211,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Caminata a un mirador panoramico al amanecer"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -64296,7 +64296,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "mirissa-guided-garadu-lagoon-mangrove-kayaking": {
@@ -64335,7 +64335,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Tarifas de entrada al parque (opcional)",
-   "Gastos personales",
+   "Gastos personales.",
    "Comidas o bocadillos"
   ]
  },
@@ -64472,7 +64472,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Te de Ceilan servido en una cascara de coco"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas",
    "Comidas"
   ]
@@ -64624,7 +64624,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada"
   ]
  },
@@ -64665,7 +64665,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia practica de mineria de gemas"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -64705,7 +64705,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida o bebidas adicionales no mencionadas",
-   "Gastos personales",
+   "Gastos personales.",
    "Todo lo que no se mencione en las inclusiones"
   ]
  },
@@ -64726,7 +64726,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -64849,7 +64849,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas (a menos que se especifique)",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ella-scenic-train-ride-and-professional": {
@@ -64949,7 +64949,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Botellas de agua"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Comidas"
   ]
  },
@@ -64991,7 +64991,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Guia local profesional que habla ingles"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Los boletos de tren no se proporcionan los miercoles",
    "Comidas"
   ]
@@ -65012,7 +65012,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Guia de naturaleza local experimentado"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -65033,7 +65033,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -65057,7 +65057,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Hotel y alojamiento",
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-ambuluwawa-tower-nuwara-eliya-day-tour": {
@@ -65098,7 +65098,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas (opcional)"
   ]
  },
@@ -65119,7 +65119,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas (opcional)"
   ]
  },
@@ -65140,7 +65140,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas (opcional)"
   ]
  },
@@ -65179,7 +65179,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia culinaria de Sri Lanka"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -65323,7 +65323,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Costos de almuerzo",
-   "Gastos personales",
+   "Gastos personales.",
    "Vehiculo electrico dentro del jardin"
   ]
  },
@@ -65406,7 +65406,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "mirissa-sri-lankan-village-cooking-class-with": {
@@ -65425,7 +65425,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Uso de especias de alta calidad de Sri Lanka"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -65484,7 +65484,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -65545,7 +65545,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ella-diyaluma-fall-buduruwagala-hidden-heritage": {
@@ -65565,7 +65565,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas (opcional)"
   ]
  },
@@ -65605,7 +65605,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -65626,7 +65626,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas para el conductor/guia"
   ]
  },
@@ -65692,7 +65692,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a atracciones opcionales solicitadas por los huespedes",
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-to-dambulla-city-tour-by-tuk-tuk": {
@@ -65812,7 +65812,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Conductor de safari autorizado"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -65834,7 +65834,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas (a menos que se especifique)",
-   "Gastos personales y recuerdos",
+   "Gastos personales y recuerdos.",
    "Propinas para el conductor/guia (opcional)"
   ]
  },
@@ -65998,7 +65998,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Jeep de safari y entradas para el parque nacional de Udawalawe",
    "Comidas no mencionadas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-pidurangala-rock-sunrise-hike-and-hidden": {
@@ -66018,7 +66018,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "mirissa-whale-snorkeling-adventure-with-guide": {
@@ -66037,7 +66037,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Charla de seguridad"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -66163,7 +66163,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales",
+   "Gastos personales.",
    "Museo de cera"
   ]
  },
@@ -66204,7 +66204,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Combustible y peajes"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -66389,7 +66389,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Las entradas a los lugares visitados no estan incluidas"
   ]
  },
@@ -66469,7 +66469,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-dambulla-and-habarana-day-trip": {
@@ -66477,14 +66477,14 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Excursion de un dia a Sigiriya, Dambulla, y Habarana",
   "metaDescription": "Experiencia de un dia completo en Kandy. . Ofrecido por Inpura Travels.",
   "shortDescription": "Experiencia de un dia completo en Kandy. . Ofrecido por Inpura Travels.",
-  "fullDescription": "Una experiencia de un dia completo en Kandy. Explore the ancient Dambulla Cave Temple and the Golden Temple.\n\nInpura Travels la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye transporte en tuk-tuk/furgoneta/auto (segun la opcion elegida), visita al templo hindu Sri Muttumariamman, visita al templo Matale Alu Viharaya y visita a un pueblo tradicional de especias y hierbas con masaje y bebida de hierbas gratis. No incluye gastos personales, guiado y tarifas de entrada, por lo que debe presupuestar eso por separado. Dos viajeros pagan 85 $ juntos en lugar de 85 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una experiencia de un dia completo en Kandy. Explore the ancient Dambulla Cave Temple and the Golden Temple.\n\nInpura Travels la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye transporte en tuk-tuk/furgoneta/auto (segun la opcion elegida), visita al templo hindu Sri Muttumariamman, visita a Alu Viharaya en Matale y visita a un pueblo tradicional de especias y hierbas con masaje y bebida de hierbas gratis. No incluye gastos personales, guiado y tarifas de entrada, por lo que debe presupuestar eso por separado. Dos viajeros pagan 85 $ juntos en lugar de 85 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Experiencia de un dia completo en Kandy. . Ofrecido por Inpura Travels."
   ],
   "included": [
    "Transporte en tuk-tuk/furgoneta/auto (segun la opcion elegida)",
    "Visita al templo hindu Sri Muttumariamman",
-   "Visita al templo Matale Alu Viharaya",
+   "Visita a Alu Viharaya en Matale",
    "Visita a un pueblo tradicional de especias y hierbas con masaje y bebida de hierbas gratis"
   ],
   "notIncluded": [
@@ -66695,7 +66695,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comida y bebidas",
    "Boleto de tren",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-rock-fortres-minneriya-elephant-safari": {
@@ -66717,7 +66717,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entrada a la fortaleza rocosa de Sigiriya",
    "Entrada al parque nacional de Minneriya",
    "Comidas (desayuno, almuerzo, cena)",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-ambuluwawa-tower-local-highlights-by": {
@@ -66736,7 +66736,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Nota: lugares turisticos ocultos de la ciudad de Kandy totalmente gratis"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas",
    "Comida y bebida"
   ]
@@ -67217,7 +67217,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -67238,7 +67238,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas distintas de los bocadillos locales incluidos",
-   "Gastos personales y recuerdos",
+   "Gastos personales y recuerdos.",
    "Propinas y gratificaciones"
   ]
  },
@@ -67279,7 +67279,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sri-lanka-10-day-guided-tour-with-airport-pickup": {
@@ -67299,7 +67299,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas no especificadas",
-   "Gastos personales",
+   "Gastos personales.",
    "Hoteles y alojamiento"
   ]
  },
@@ -67379,7 +67379,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas y bebidas",
    "Entradas a los lugares opcionales listados en la descripcion completa",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-sigiriya-sigiriya-city-night-wildlife-safari": {
@@ -67418,7 +67418,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Transporte a la granja",
-   "Gastos personales",
+   "Gastos personales.",
    "Recuerdos"
   ]
  },
@@ -67603,7 +67603,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a lugares opcionales en la descripcion completa",
    "Costo de actividades para lugares opcionales mencionados en la descripcion completa",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "mirissa-blue-whale-watching-turtle-snorkeling": {
@@ -67639,7 +67639,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-three-ancient-temples-loop-paddy-field-trek": {
@@ -67678,7 +67678,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida o bebidas adicionales no mencionadas",
-   "Gastos personales",
+   "Gastos personales.",
    "Todo lo que no se mencione en las inclusiones"
   ]
  },
@@ -67699,7 +67699,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales",
+   "Gastos personales.",
    "Cargos de actividades adicionales"
   ]
  },
@@ -67722,7 +67722,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -67765,7 +67765,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-sigiriya-village-life-experience-with-lunch": {
@@ -68019,7 +68019,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifa de entrada durante el turismo",
    "Comidas y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "mirissa-mangrove-kayak-safari-with-wildlife-bird": {
@@ -68100,7 +68100,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-ambuluwawa-tower-and-temple-tour-with-dance": {
@@ -68138,7 +68138,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Almuerzo casero de Sri Lanka"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Seguro de viaje",
    "Propinas"
   ]
@@ -68239,7 +68239,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo y refrescos",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -68279,7 +68279,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombonegombo-muthurajawela-wetland-birdwatching": {
@@ -68298,7 +68298,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Guia nacional que habla ingles"
   ],
   "notIncluded": [
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "nuwara-eliya-tea-plantation-jeep-safari-tea-making": {
@@ -68338,7 +68338,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Entrada a la roca de Pidurangala",
-   "Gastos personales y recuerdos",
+   "Gastos personales y recuerdos.",
    "Seguro de viaje"
   ]
  },
@@ -68360,7 +68360,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Otras entradas",
    "No entregamos boletos los miercoles",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-to-ella-drop-train-ride-from-nanuoya": {
@@ -68389,7 +68389,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Colombo: caminata a la roca del leon de Sigiriya y tour de pueblo",
   "metaDescription": "Una excursion de un dia completo desde Colombo que visita Pidurangala. Ofrecido por Sri Lanka City Tours.",
   "shortDescription": "Una excursion de un dia completo desde Colombo que visita Pidurangala. Ofrecido por Sri Lanka City Tours.",
-  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Pidurangala. La parada mas larga es Pidurangala, con una duracion de unos 2 horas.\n\nEl precio incluye recogida desde Colombo, vehiculo con aire acondicionado, guia local y caminata guiada a la roca de Pidurangala. No incluye almuerzo, gastos personales y entradas a los lugares visitados, por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Pidurangala. La parada mas larga es Pidurangala, con una duracion de unos 2 horas.\n\nEl precio incluye recogida desde Colombo, vehiculo con aire acondicionado, guia local y caminata guiada a la roca de Pidurangala. No incluye almuerzo, gastos personales y entradas de los lugares visitados, por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Una excursion de un dia completo desde Colombo que visita Pidurangala. Ofrecido por Sri Lanka City Tours."
   ],
@@ -68401,8 +68401,8 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales",
-   "Entradas a los lugares visitados"
+   "Gastos personales.",
+   "Entradas de los lugares visitados"
   ]
  },
  "colombonegombo-galle-fort-koggala-lake-safari": {
@@ -68423,7 +68423,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Terapia de peces (opcional), disponible con costo adicional",
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "nuwara-eliya-premium-tea-waterfall-tour-private": {
@@ -68524,7 +68524,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas y tarifas de actividades",
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "nuwara-eliyahatton-rafting-ziplining-lunch-and": {
@@ -68682,7 +68682,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-to-nuwara-eliya-transfer-with-canyoning": {
@@ -68748,7 +68748,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Regreso gratuito (al hotel) no disponible, se puede organizar a pedido"
   ],
   "notIncluded": [
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "habarana-sigiriya-night-safari-to-see-nocturnal": {
@@ -68852,7 +68852,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Alojamiento (contactenos para obtener tarifas especiales de hoteles)",
    "Desayuno y cena",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-tuk-tuk-tour-with-drone-photos-and-videos": {
@@ -68891,7 +68891,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Otras entradas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-traditional-cooking-class-with-eco-village": {
@@ -68910,7 +68910,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Instruccion culinaria guiada: acompañamiento paso a paso por un cocinero/anfitrion de pueblo local"
   ],
   "notIncluded": [
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-traditional-eco-village-tour-with-cooking": {
@@ -68929,7 +68929,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Preparacion y degustacion de varias bebidas locales"
   ],
   "notIncluded": [
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-to-sigiriya-day-trip-heritage-nature-and": {
@@ -68948,7 +68948,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tarifas de estacionamiento"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas",
    "Alojamiento"
   ]
@@ -68970,7 +68970,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-sri-lankan-traditional-cooking-class-in-a": {
@@ -69052,7 +69052,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Alojamiento en hotel",
    "Comidas y bebidas a menos que se indique lo contrario",
-   "Gastos personales y recuerdos"
+   "Gastos personales y recuerdos."
   ]
  },
  "traditional-jewelry-making-gemstone-workshop": {
@@ -69094,7 +69094,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas y tarifas de actividades",
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-negombo-heritage-and-culture-private-day": {
@@ -69114,7 +69114,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas para el guia/conductor"
   ]
  },
@@ -69201,7 +69201,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a las atracciones",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-rural-culture-lake-crossing-with-dimo": {
@@ -69322,7 +69322,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas y tarifas de actividades",
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-negombo-boat-tour": {
@@ -69404,7 +69404,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Las entradas de los lugares visitados no estan incluidas"
   ]
  },
@@ -69425,7 +69425,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-kandy-dambulla-sigiriya-day-trip-by-car": {
@@ -69487,7 +69487,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Otras entradas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-to-kandy-sightseeing-transfer": {
@@ -69544,7 +69544,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-city-tour-private-customizable-temple": {
@@ -69606,7 +69606,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Los boletos de tren no se pueden obtener los miercoles",
-   "Gastos personales",
+   "Gastos personales.",
    "Comida y bebida"
   ]
  },
@@ -69634,7 +69634,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Kandy: aventura en bosque de nubes de los cinco picos",
   "metaDescription": "Experiencia de un dia completo en Kandy. . Ofrecido por AMAK TRAVELS (PVT) LTD.",
   "shortDescription": "Experiencia de un dia completo en Kandy. . Ofrecido por AMAK TRAVELS (PVT) LTD.",
-  "fullDescription": "Una experiencia de un dia completo en Kandy. Conquer all five summits of the Knuckles Range in one challenging trek.\n\nAMAK TRAVELS (PVT) LTD la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye guia que habla ingles, botella de agua, bocadillos y transporte con recogida y regreso al hotel. No incluye almuerzo, por lo que debe presupuestar eso por separado. Dos viajeros pagan 254 $ juntos en lugar de 246 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una experiencia de un dia completo en Kandy. Conquer all five summits of the Knuckles Range in one challenging trek.\n\nAMAK TRAVELS (PVT) LTD la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye guia que habla ingles, botella de agua, bocadillos y transporte de recogida y regreso al hotel. No incluye almuerzo, por lo que debe presupuestar eso por separado. Dos viajeros pagan 254 $ juntos en lugar de 246 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Experiencia de un dia completo en Kandy. . Ofrecido por AMAK TRAVELS (PVT) LTD."
   ],
@@ -69642,7 +69642,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Guia que habla ingles",
    "Botella de agua",
    "Bocadillos",
-   "Transporte con recogida y regreso al hotel"
+   "Transporte de recogida y regreso al hotel"
   ],
   "notIncluded": [
    "Almuerzo"
@@ -69763,7 +69763,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-kandy-knuckles-mountain-range-exploration": {
@@ -69783,7 +69783,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bocadillos",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas (opcional)"
   ]
  },
@@ -69806,7 +69806,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ella-udawalawe-national-park-safari-with-pickup": {
@@ -69846,7 +69846,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Preparacion de platos de verduras tropicales"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -70044,7 +70044,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Servicio de un conductor que habla ingles durante 5 dias"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas para el conductor",
    "Comidas"
   ]
@@ -70195,7 +70195,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entradas y ascenso a la fortaleza rocosa de Sigiriya"
   ],
   "notIncluded": [
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-rathnapura-gem-mining-tour-with-lunch": {
@@ -70214,7 +70214,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tour guiado por un centro de corte y pulido de gemas"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Bebidas alcoholicas",
    "lo que no se menciona en lo incluido"
   ]
@@ -70237,7 +70237,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Vuelos internacionales",
    "Seguro de viaje",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-jet-ski-and-snorkeling-adventure-with": {
@@ -70334,7 +70334,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -70355,7 +70355,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Arreglos de alojamiento",
-   "Gastos personales",
+   "Gastos personales.",
    "Almuerzo"
   ]
  },
@@ -70377,7 +70377,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Bebidas alcoholicas",
    "Agua embotellada",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "bentota-surfing-lesson-with-instructor-and": {
@@ -70522,7 +70522,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de jardin de hierbas"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Bebidas"
   ]
  },
@@ -70543,7 +70543,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas y tarifas de actividades",
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "tangalle-to-ella-day-trip-with-scenic-train-ride": {
@@ -70615,7 +70615,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Degustacion de te fresco"
   ],
   "notIncluded": [
-   "Gastos personales y recuerdos",
+   "Gastos personales y recuerdos.",
    "Comidas y bebidas no mencionadas",
    "Propinas para el guia o el conductor"
   ]
@@ -70777,7 +70777,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita a la plantacion de te Bluefield"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -70799,7 +70799,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Propinas",
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-city-tour-by-carvan-all-inclusive": {
@@ -70841,7 +70841,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas o bocadillos",
    "Propinas (opcional)",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-hidden-gems-cultural-dance-tour-by-private": {
@@ -70921,7 +70921,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "5 comidas principales"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Articulos de higiene",
    "Servicios adicionales"
   ]
@@ -71020,7 +71020,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "almuerzo y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "entradas a las atracciones"
   ]
  },
@@ -71175,7 +71175,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Entradas si corresponde"
   ]
  },
@@ -71215,7 +71215,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Impuestos gubernamentales"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Comidas (a menos que se especifique lo contrario)",
    "Propinas (opcional)"
   ]
@@ -71276,7 +71276,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Guias naturalistas expertos"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -71297,7 +71297,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Actividades opcionales",
-   "Gastos personales",
+   "Gastos personales.",
    "Seguro de viaje"
   ]
  },
@@ -71547,7 +71547,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Vuelos internacionales",
    "Seguro de viaje",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-flavours-of-sri-lanka-by-chitra": {
@@ -71630,7 +71630,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "explore-ella-rock-hike-loop-falls-nine-arch-train": {
@@ -71649,7 +71649,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Caminata guiada a Ella Rock"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas",
    "Gastos de compras"
   ]
@@ -71690,7 +71690,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas (a menos que se especifique)",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -71790,7 +71790,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bocadillos",
-   "Gastos personales",
+   "Gastos personales.",
    "Tour de fabrica de te (fabrica de te Lumbini), seleccione el paquete con el tour"
   ]
  },
@@ -72187,7 +72187,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales",
+   "Gastos personales.",
    "Las entradas no estan incluidas"
   ]
  },
@@ -72525,7 +72525,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "El paquete cubre el recargo de combustible y las tarifas del conductor para un viaje conveniente y sin complicaciones"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -72716,7 +72716,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Todas las tarifas de entrada para los sitios mencionados"
   ]
  },
@@ -72758,7 +72758,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Propina para el guia",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-city-tour-with-entry-tickets-hotel-pickup": {
@@ -72879,7 +72879,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y refrescos",
-   "Gastos personales",
+   "Gastos personales.",
    "Servicios adicionales no mencionados anteriormente"
   ]
  },
@@ -73110,7 +73110,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -73169,7 +73169,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo o comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Las tarifas de entrada no estan incluidas"
   ]
  },
@@ -73235,7 +73235,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas y bebidas",
    "Transporte hacia y desde Ella",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-to-kandy-drop-tour-with-kandy-city-tour": {
@@ -73545,7 +73545,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas",
    "Tarifas de entrada a las atracciones",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "exploring-galle-madu-river-turtle-hatchery": {
@@ -73605,7 +73605,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Propinas",
-   "Gastos personales y recuerdos",
+   "Gastos personales y recuerdos.",
    "Entradas y otros gastos"
   ]
  },
@@ -73646,7 +73646,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Agua"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -73688,7 +73688,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Entradas"
   ]
  },
@@ -73789,7 +73789,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada a todos los sitios"
   ]
  },
@@ -73810,7 +73810,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas, a menos que se especifique",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas",
    "Entradas"
   ]
@@ -73916,7 +73916,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entradas (templo de Dambulla, fortaleza de Sigiriya, templo de la reliquia del diente, safari de Minneriya)",
    "Jeep de safari de Minneriya",
    "Propinas y gratificaciones",
-   "Gastos personales",
+   "Gastos personales.",
    "Almuerzo"
   ]
  },
@@ -73978,7 +73978,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Mirador de Ella (entrada gratuita)"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Comidas y bebidas",
    "Propinas para el guia (opcional)"
   ]
@@ -74041,7 +74041,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifas de entrada para cualquier atraccion",
    "Comidas y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sail-lanka-charter-sunset-cruise-in-mirissa": {
@@ -74160,7 +74160,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Agua"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -74201,7 +74201,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Coco king coconut"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas",
    "Entrada a Nildiya Pokuna"
   ]
@@ -74428,7 +74428,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Recogida y regreso al hotel",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -74713,7 +74713,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas y tarifas de actividades",
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-ella-yala-safari-drop-off": {
@@ -75331,7 +75331,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tours guiados por la selva tropical en Sinharaja y Kitulgala"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -75560,7 +75560,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita a la fabrica de te Balumgala"
   ],
   "notIncluded": [
-   "Gastos personales y recuerdos",
+   "Gastos personales y recuerdos.",
    "Propinas para los guias (opcional)",
    "Comidas y bocadillos"
   ]
@@ -76044,7 +76044,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Chofer que habla ingles"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas",
    "Otra actividad opcional"
   ]
@@ -77052,7 +77052,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Agua embotellada"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Entrada a la fabrica de te (10 USD por persona)"
   ]
  },
@@ -77301,7 +77301,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas no mencionadas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -77525,7 +77525,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "botellas de agua"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -78622,7 +78622,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas",
    "podemos recomendar restaurantes",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "nanuoya-train-station-to-kandy-tea-plucking-tea": {
@@ -78642,7 +78642,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada, si corresponde"
   ]
  },
@@ -78741,7 +78741,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Servicios no mencionados anteriormente"
   ]
  },
@@ -78801,7 +78801,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Actividades opcionales"
   ]
  },
@@ -78845,7 +78845,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Recogida y regreso al hotel",
-   "Gastos personales",
+   "Gastos personales.",
    "Comida o bebidas adicionales"
   ]
  },
@@ -78948,7 +78948,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Transporte hacia y desde el punto de partida",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -78990,7 +78990,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Entradas no incluidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "mirissa-whale-watching-cruise-with-breakfast": {
@@ -79140,7 +79140,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cena en Galle o en una playa de la costa sur"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Seguro de viaje"
   ]
  },
@@ -79203,7 +79203,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas, a menos que se mencione especificamente",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -79223,7 +79223,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita al antiguo reino de Yapahuwa"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -79264,7 +79264,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -79325,7 +79325,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Entradas a las atracciones"
   ]
  },
@@ -79348,7 +79348,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comida y comidas, a menos que se indique especificamente",
    "Bebidas adicionales",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-colombo-kandy-private-tour": {
@@ -79387,7 +79387,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-minneriya-jeep-safari-sri-lankan-cooking": {
@@ -79449,7 +79449,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas",
    "Comida y bebidas, a menos que se especifique",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-kandy-2-day-highlands-tour-to-ella-with": {
@@ -79469,7 +79469,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo el dia 2",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -79516,7 +79516,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-road-to-rail-journey-to-ella-via-nuwara": {
@@ -79613,7 +79613,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifas de entrada, si es necesario",
    "Comida y bebidas adicionales",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -79654,7 +79654,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas adicionales",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -79674,7 +79674,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Regreso al hotel en Colombo o Negombo"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Bebidas y bebidas alcoholicas",
    "Propinas y gratificaciones"
   ]
@@ -79877,7 +79877,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada"
   ]
  },
@@ -79956,7 +79956,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita al puerto de Mirissa"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Cena opcional frente a la playa",
    "Propinas y gratificaciones"
   ]
@@ -80042,7 +80042,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a las atracciones",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-kaudulla-private-safari-half-day-tour": {
@@ -80140,7 +80140,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -80182,7 +80182,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "yala-private-safari-with-local-return-or-ella": {
@@ -80224,7 +80224,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas al parque nacional de Yala (aprox. 50 USD por persona, pagaderas en la oficina del parque)",
    "Propinas para el conductor",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "mirissa-dolphin-swim-blue-whale-snorkelling": {
@@ -80307,7 +80307,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Actividades o tours adicionales"
   ]
  },
@@ -80329,7 +80329,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comida y bebidas distintas de la degustacion de te incluida",
    "Tarifas de entrada a atracciones no mencionadas especificamente como incluidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-village-tour-with-catamaran-cooking": {
@@ -80446,7 +80446,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Entradas a las atracciones",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -80583,7 +80583,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Demostracion gratuita de taller guiado de gemologia"
   ],
   "notIncluded": [
-   "Gastos personales y recuerdos",
+   "Gastos personales y recuerdos.",
    "Comida o comidas fuera de la sesion de degustacion de te"
   ]
  },
@@ -80604,7 +80604,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Cena",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -80625,7 +80625,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "No entregamos boletos los miercoles"
   ]
  },
@@ -80647,7 +80647,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a las atracciones",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-airport-private-transfer-to-bentota": {
@@ -80828,7 +80828,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita a la isla de los monos"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Comida y bebidas distintas del coco king coconut y agua potable incluidos",
    "Propinas y gratificaciones"
   ]
@@ -80850,7 +80850,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Transporte hacia y desde el lugar",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-top-city-sights-agro-tech-park-visit-4": {
@@ -80933,7 +80933,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Tarifas de entrada",
-   "Gastos personales",
+   "Gastos personales.",
    "Comida y bebidas adicionales"
   ]
  },
@@ -80957,7 +80957,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Todas las entradas a las atracciones, pagaderas por separado por los huespedes en los mostradores de entrada correspondientes",
    "Almuerzo",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "badulla-reserved-train-ticket-to-ella-via-nine": {
@@ -80996,7 +80996,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Tarifas de entrada",
-   "Gastos personales",
+   "Gastos personales.",
    "Visa"
   ]
  },
@@ -81055,7 +81055,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Almuerzo tradicional de arroz y curry de Sri Lanka"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Bebidas",
    "Actividades opcionales"
   ]
@@ -81161,7 +81161,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Alojamiento",
    "Almuerzo",
-   "Gastos personales y recuerdos"
+   "Gastos personales y recuerdos."
   ]
  },
  "sigiriya-sky-moments-tuk-tuk-sunrise-sunset": {
@@ -81203,7 +81203,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Almuerzo",
    "Cena",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-to-nuwaraeliya-with-tea-plantation": {
@@ -81223,7 +81223,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas (almuerzo)",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas (opcional)"
   ]
  },
@@ -81245,7 +81245,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifa de entrada a la fabrica de te de Ceilan (3000 LKR por persona)",
    "Comidas y otras bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-night-tour-with-cultural-show-buddha-dinner": {
@@ -81265,7 +81265,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Entrada a atracciones opcionales no mencionadas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -81293,7 +81293,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entrada del safari en barco",
    "Entrada de la granja de tortugas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-sigiriya-lion-rock-dambulla-cave-tour": {
@@ -81375,7 +81375,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-dambulla-private-tour-with-local-food": {
@@ -81417,7 +81417,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Vuelos internacionales",
    "Seguro de viaje",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-knuckles-mountain-hike-with-french-english": {
@@ -81520,7 +81520,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "solo proporcionamos desayuno"
   ]
  },
@@ -81541,7 +81541,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Tarifa de entrada a Lunuganga",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-city-tour-with-dehiwala-zoo-cultural": {
@@ -81622,7 +81622,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas adicionales",
-   "Gastos personales",
+   "Gastos personales.",
    "Compras en jardines de especias, talleres, u otros establecimientos locales"
   ]
  },
@@ -81683,7 +81683,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas distintas de los bocadillos proporcionados",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "mirissa-hands-on-sri-lankan-cooking-class-with": {
@@ -81785,7 +81785,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Desayuno simple de Sri Lanka con fruta de temporada fresca"
   ],
   "notIncluded": [
-   "Gastos personales y recuerdos",
+   "Gastos personales y recuerdos.",
    "Bebidas alcoholicas",
    "Comida o bebidas adicionales no incluidas en las comidas proporcionadas"
   ]
@@ -81827,7 +81827,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifas de entrada",
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "mirissa-women-only-snorkelling-tour-with-photos": {
@@ -81868,7 +81868,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-to-nanuoya-drop-trip-morning-900-ella-train": {
@@ -81934,7 +81934,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas adicionales",
-   "Gastos personales",
+   "Gastos personales.",
    "Entradas al templo"
   ]
  },
@@ -81956,7 +81956,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifas de entrada (si corresponde)",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ambuluwawa-tower-kandy-tour-from-sigiriya-dambulla": {
@@ -81976,7 +81976,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Tarifas de entrada a atracciones opcionales",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -81997,7 +81997,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -82017,7 +82017,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita a Jungle Beach"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Almuerzo tradicional de Sri Lanka",
    "Entradas"
   ]
@@ -82060,7 +82060,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -82124,7 +82124,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Esnorquel con tortugas y tarifa de clase de surf (opcional)",
    "Tarifa de comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "private-car-tour-from-kandy-to-ella": {
@@ -82144,7 +82144,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo o comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-scuba-diving-shipwreck-diving-and-diving": {
@@ -82204,7 +82204,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Mandala de madera MDF prediseñado"
   ],
   "notIncluded": [
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-negombo-muthurajawela-wetland-sunset-boat": {
@@ -82265,7 +82265,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Actividades adicionales no mencionadas en el itinerario"
   ]
  },
@@ -82432,7 +82432,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ambuluwawa-white-tower-by-tuk-tuk-with-tea": {
@@ -82524,7 +82524,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a las atracciones",
    "Comidas y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-rock-minneriya-guided-tour": {
@@ -82549,7 +82549,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Parque nacional de Minneriya/Kaudulla, 1 persona: 14.000 LKR",
    "Parque ecologico de Hurulu, 1 persona: 3.800 LKR",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-2-day-tuk-tuk-city-tour-with-nanuoya": {
@@ -82654,7 +82654,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sri-lanka-gem-cutting-show-asmr-experience-in": {
@@ -82692,7 +82692,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Almuerzo"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Bebidas",
    "Actividades opcionales"
   ]
@@ -82715,7 +82715,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas",
    "Entradas a la torre de loto y al templo de Gangaramaya",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-sigiriya-kandy-private-tour-with-dambulla": {
@@ -82905,7 +82905,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Alojamiento en hotel",
    "Comidas y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ella-nanu-oya-train-ride-to-kandy-with-private": {
@@ -82945,7 +82945,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a las atracciones",
    "Comidas y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "koggala-lake-guided-boat-safari-with-hotel-pickup": {
@@ -82965,7 +82965,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-tuk-tuk-heritage-batik-artisan-workshop-tour": {
@@ -83087,7 +83087,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Desayuno"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "tarifa de entrada: Minneriya 1 persona: 14.500 LKR, Anuradhapura 1 persona: 11.500 LKR"
   ]
  },
@@ -83149,7 +83149,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Frutas tropicales frescas"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Comida y bebidas adicionales",
    "Seguro de viaje"
   ]
@@ -83213,7 +83213,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -83234,7 +83234,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales",
+   "Gastos personales.",
    "Cargos de actividades adicionales"
   ]
  },
@@ -83330,7 +83330,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Agua potable"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Comidas",
    "Propinas (opcional)"
   ]
@@ -83353,7 +83353,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Recogida y regreso al hotel",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "mirissa-whale-dolphin-watching-with-pickup": {
@@ -83480,7 +83480,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada a las atracciones"
   ]
  },
@@ -83524,7 +83524,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Tarifas de entrada al parque nacional",
-   "Gastos personales",
+   "Gastos personales.",
    "Comida y alimentos"
   ]
  },
@@ -83546,7 +83546,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada a las atracciones"
   ]
  },
@@ -83587,7 +83587,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Transporte fuera de la zona de Mirissa (disponible con costo adicional)",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sri-lanka-bentota-mangrove-river-boat-safari": {
@@ -83682,7 +83682,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -83723,7 +83723,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Recogida y regreso al hotel",
    "Comida",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "negombo-city-tour-lagoon-boat-safari-with-fruit": {
@@ -83974,7 +83974,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas",
    "Alojamiento",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombonegombo-3-day-sigiriya-kandy-ella-scenic": {
@@ -84035,7 +84035,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visitas guiadas a todas las atracciones"
   ],
   "notIncluded": [
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-to-wilpattu-private-leopard-safari-sri": {
@@ -84077,7 +84077,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "10-day-luxury-sri-lanka-romantic-escape-with": {
@@ -84098,7 +84098,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Vuelos de ida y vuelta a Sri Lanka",
    "Seguro de viaje",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-colombo-udawalawe-national-park-4x4-jeep": {
@@ -84157,7 +84157,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Recogida y regreso al hotel (a menos que se seleccione como extra)",
    "Comida y bebidas adicionales no mencionadas en el itinerario",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "galle-private-heritage-coastal-highlights-tour": {
@@ -84196,7 +84196,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Roti recien hecho"
   ],
   "notIncluded": [
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "negombo-city-tour-by-tuk-tuk-with-boat-safari": {
@@ -84397,7 +84397,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita a cascadas"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -84481,7 +84481,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas no mencionadas",
-   "Gastos personales",
+   "Gastos personales.",
    "Seguro de viaje"
   ]
  },
@@ -84641,7 +84641,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia de kayak"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Comida y bebidas adicionales",
    "Bebidas alcoholicas"
   ]
@@ -84724,7 +84724,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Baño en la cascada de Goraka Ella"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -84886,7 +84886,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Almuerzo tradicional de Sri Lanka"
   ],
   "notIncluded": [
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-airport-south-coast-private-scenic-journey": {
@@ -84906,7 +84906,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Propinas",
-   "Gastos personales y recuerdos",
+   "Gastos personales y recuerdos.",
    "Exceder el limite de kilometraje genera un cargo de 0,45 USD por kilometro adicional por grupo"
   ]
  },
@@ -84928,7 +84928,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Alojamiento en hotel",
    "Comidas como desayuno, almuerzo y cena",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-bentota-ella-day-trip-with-diyaluma-falls": {
@@ -85033,7 +85033,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Demostracion por artesanos locales"
   ],
   "notIncluded": [
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-colombo-to-dambulla-sigiriyajeep": {
@@ -85075,7 +85075,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita guiada al fuerte de Galle y los puntos destacados costeros"
   ],
   "notIncluded": [
-   "Gastos personales y recuerdos",
+   "Gastos personales y recuerdos.",
    "Propinas opcionales para el conductor",
    "Actividades o atracciones adicionales no especificadas en el itinerario"
   ]
@@ -85118,7 +85118,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Las tarifas de entrada a las atracciones estan excluidas si se elige la opcion \"solo transporte\""
   ]
  },
@@ -85140,7 +85140,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-kandy-day-trip-with-scenic-hill-country": {
@@ -85160,7 +85160,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-colombo-ceylon-tea-heritage-demodara-rail": {
@@ -85219,7 +85219,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cena y refrescos"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Seguro de viaje"
   ]
  },
@@ -85240,7 +85240,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -85326,7 +85326,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sri-lanka-4-day-ayurveda-and-wellness-retreat": {
@@ -85348,7 +85348,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Bebidas alcoholicas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-negombo-to-anuradhapura-transfer-with": {
@@ -85369,7 +85369,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-anuradhapura-to-negombo-transfer-with": {
@@ -85390,7 +85390,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-tuk-tuk-tour-with-temples-gardens-dance-show": {
@@ -85410,7 +85410,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Tarifas de entrada",
-   "Gastos personales",
+   "Gastos personales.",
    "Comidas"
   ]
  },
@@ -85479,7 +85479,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comida y bebidas",
    "Boletos de tren (Nanu Oya a Ella)",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ella-to-kandy-drop-tour": {
@@ -85537,7 +85537,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Todas las entradas y tarifas de entrada",
-   "Gastos personales",
+   "Gastos personales.",
    "Comidas"
   ]
  },
@@ -85665,7 +85665,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Vuelos internacionales",
    "Almuerzo y cena",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-bentota-guided-tour": {
@@ -85730,7 +85730,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifas de actividades de rafting en aguas bravas en Kitulgala",
    "Comidas y bebidas no mencionadas en el itinerario",
-   "Gastos personales y recuerdos"
+   "Gastos personales y recuerdos."
   ]
  },
  "sri-lanka-7-day-best-attractions-tour": {
@@ -85891,7 +85891,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas al criadero de tortugas",
    "Almuerzo y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ella-2-day-belihuloya-camping-kayaking-and": {
@@ -85931,7 +85931,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas y bebidas",
    "entradas a las atracciones opcionales",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "meepawala-galle-create-your-own-silver-ring": {
@@ -85993,7 +85993,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifas de entrada (Sigiriya, Pidurangala, Dambulla, safari de pueblo)",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-sigiriya-rock-fortress-caves-private-suv": {
@@ -86013,7 +86013,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -86035,7 +86035,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Paseo de safari en barco por el rio Madu y actividades",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "mirissa-refreshments-and-snorkeling-tour-with-sea": {
@@ -86114,7 +86114,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -86154,7 +86154,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Actividades opcionales"
   ]
  },
@@ -86198,7 +86198,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia relajada y sin prisas adaptada a sus preferencias"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada durante el tour opcional de Ella"
   ]
  },
@@ -86239,7 +86239,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a las atracciones",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-minneriya-national-park-privet-safari": {
@@ -86482,7 +86482,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Entrada, Ambuluwawa",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "bentota-snorkeling-boat-cruise-to-beruwala": {
@@ -86627,7 +86627,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -86731,7 +86731,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Seguro de viaje"
   ]
  },
@@ -86740,7 +86740,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Tour de 2 dias: avistamiento de ballenas y sur de Sri Lanka",
   "metaDescription": "Experiencia de 2 dia(s) en Galle. . Ofrecido por Serendipity tours (private) Limited.",
   "shortDescription": "Experiencia de 2 dia(s) en Galle. . Ofrecido por Serendipity tours (private) Limited.",
-  "fullDescription": "Una experiencia de 2 dia(s) en Galle. Take a closer look at rare and giant blue whales on a guided boat trip.\n\nSerendipity tours (private) Limited la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye una noche de alojamiento con desayuno y cena en un hotel equivalente a 3 estrellas, santuario marino de Hikkaduwa, sitio del patrimonio mundial de Galle y safari en rio. No incluye gastos personales como bebidas y bocadillos, propinas y boletos de avion, por lo que debe presupuestar eso por separado. Dos viajeros pagan 988 $ juntos en lugar de 799 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una experiencia de 2 dia(s) en Galle. Take a closer look at rare and giant blue whales on a guided boat trip.\n\nSerendipity tours (private) Limited la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye una noche de alojamiento con desayuno y cena en un hotel equivalente a 3 estrellas, santuario marino de Hikkaduwa, sitio del patrimonio mundial de Galle y safari fluvial. No incluye gastos personales como bebidas y bocadillos, propinas y boletos de avion, por lo que debe presupuestar eso por separado. Dos viajeros pagan 988 $ juntos en lugar de 799 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Experiencia de 2 dia(s) en Galle. . Ofrecido por Serendipity tours (private) Limited."
   ],
@@ -86748,7 +86748,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Una noche de alojamiento con desayuno y cena en un hotel equivalente a 3 estrellas",
    "Santuario marino de Hikkaduwa",
    "Sitio del patrimonio mundial de Galle",
-   "Safari en rio"
+   "Safari fluvial"
   ],
   "notIncluded": [
    "Gastos personales como bebidas y bocadillos",
@@ -86834,7 +86834,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tour a pie por el fuerte de Galle"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Almuerzo"
   ]
  },
@@ -86854,7 +86854,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia relajada y sin prisas adaptada a sus preferencias"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Cena y bebidas alcoholicas",
    "Recuerdos y compras opcionales"
   ]
@@ -86916,7 +86916,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Entradas a la torre de loto y al templo de Gangaramaya"
   ]
  },
@@ -87040,7 +87040,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas",
    "Comidas y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-tuk-tuk-city-tour-with-local-storyteller": {
@@ -87081,7 +87081,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Regreso al hotel.",
-   "Gastos personales",
+   "Gastos personales.",
    "Servicios de fotografia profesional"
   ]
  },
@@ -87123,7 +87123,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-sigiriya-nuwara-eliya-transfer-with": {
@@ -87144,7 +87144,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a las atracciones",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "mirissa-private-marine-wildlife-photography": {
@@ -87184,7 +87184,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Paseo en carreta de bueyes"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifa de entrada",
    "Propinas"
   ]
@@ -87207,7 +87207,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a las atracciones",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-private-city-tour-with-lunch-and-guide": {
@@ -87227,7 +87227,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Tarifas de entrada a las atracciones",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -87347,7 +87347,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Entradas"
   ]
  },
@@ -87368,7 +87368,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Entradas a la torre de loto y al templo de Gangaramaya"
   ]
  },
@@ -87393,7 +87393,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a las atracciones",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-tuk-tuk-tour-with-major-attractions-entry": {
@@ -87413,7 +87413,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-to-pasikudah-2-day-beach-escape": {
@@ -87434,7 +87434,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Servicios de guia opcionales",
    "Almuerzo y cena",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-sigiriya-to-ella-transfer-with-vedda-village": {
@@ -87458,7 +87458,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a las atracciones",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-to-nuwara-eliya-transfer-with-tea": {
@@ -87499,7 +87499,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Entrada opcional a Pidurangala o la roca de Sigiriya",
-   "Gastos personales",
+   "Gastos personales.",
    "Seguro de viaje"
   ]
  },
@@ -87563,7 +87563,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Entradas a la torre de loto y al templo de Gangaramaya",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-tea-factory-tour-with-city-or-food-tour": {
@@ -87583,7 +87583,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -87714,7 +87714,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Safari en jeep opcional en el parque nacional de Minneriya, Kaudulla, o parque ecologico",
    "Entrada a la roca del leon de Sigiriya",
    "Entrada al templo de las cuevas de Dambulla",
-   "Gastos personales",
+   "Gastos personales.",
    "Comida y bebidas adicionales no mencionadas"
   ]
  },
@@ -87735,7 +87735,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas no mencionadas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -87775,7 +87775,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Alojamiento",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "nuwara-eliya-sita-eliya-cave-and-temple-tour": {
@@ -87832,7 +87832,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Ruta guiada alrededor del lago de Kandy y senderos forestales urbanos"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Comida o bebidas adicionales no mencionadas en las inclusiones",
    "Seguro de viaje (opcional y recomendado)"
   ]
@@ -87854,7 +87854,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propina para conductores y guias"
   ]
  },
@@ -87975,7 +87975,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -88084,7 +88084,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada"
   ]
  },
@@ -88145,7 +88145,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo y algunas cenas",
-   "Gastos personales",
+   "Gastos personales.",
    "Entradas turisticas cuando corresponda"
   ]
  },
@@ -88166,7 +88166,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Alojamiento"
   ]
  },
@@ -88187,7 +88187,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo, bebidas y bocadillos",
-   "Gastos personales",
+   "Gastos personales.",
    "Cargos de actividades adicionales (paramotor)"
   ]
  },
@@ -88270,7 +88270,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas y bebidas",
    "Tarifas de entrada a las atracciones",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-train-ride-visit-tea-plantation-cooking": {
@@ -88289,7 +88289,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Experiencia culinaria tradicional"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -88311,7 +88311,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Almuerzo bajo una cascada o comida autentica de Sri Lanka Gammadda"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas",
    "Tarifas de actividades de aventura"
   ]
@@ -88393,7 +88393,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Barranquismo con deslizamientos y saltos con instructor"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Seguro de viaje",
    "Cargo de hotel (no obligatorio, solo si el huesped necesita descansar antes de la caminata)"
   ]
@@ -88761,7 +88761,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales",
+   "Gastos personales.",
    "Actividades opcionales"
   ]
  },
@@ -88842,7 +88842,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Seguro de viaje"
   ]
  },
@@ -88863,7 +88863,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas no especificadas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sri-lanka-5-day-private-tour-with-chauffer": {
@@ -88883,7 +88883,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-colombo-sigiriya-lion-rock-dambulla-cave": {
@@ -88942,7 +88942,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Todas las paradas turisticas segun el itinerario"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones",
    "Tarifas de entrada"
   ]
@@ -88966,7 +88966,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifas de entrada",
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-sigiriya-private-anuradhapura-sacred-city": {
@@ -89149,7 +89149,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Almuerzo y bebidas",
    "Entradas al criadero de tortugas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-wewela-lake-private-boat-sailing-picnic": {
@@ -89203,7 +89203,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "4-day-3-night-jaffna-tour-from-colombo-or": {
@@ -89244,7 +89244,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-colombo-private-sadagirisaya-temple-tea": {
@@ -89264,7 +89264,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "7-day-sri-lanka-unesco-heritage-tour": {
@@ -89542,7 +89542,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comida y bebidas",
    "Propinas (opcional)",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-sunrise-polonnaruwa-minneriya-safari": {
@@ -89583,7 +89583,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas para el guia"
   ]
  },
@@ -89624,7 +89624,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Todas las paradas turisticas"
   ],
   "notIncluded": [
-   "Gastos personales y recuerdos",
+   "Gastos personales y recuerdos.",
    "Comida y bebidas adicionales fuera del high tea",
    "Propinas para el guia o conductor"
   ]
@@ -89666,7 +89666,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tarifas de entrada (jardin de Seethawaka, aprox.)",
    "Almuerzo (opcional)",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-village-lake-swimming-experience": {
@@ -89830,7 +89830,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada a las atracciones"
   ]
  },
@@ -89851,7 +89851,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entrada al jardin botanico real (disponible como opcion)",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "sigiriya-to-trincomalee-kayaking-floating": {
@@ -89994,7 +89994,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-sandahirusaya-temple-ceylon-tea-museum-tour": {
@@ -90014,7 +90014,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Las entradas de los lugares visitados no estan incluidas"
   ]
  },
@@ -90056,7 +90056,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "galle-scenic-coastal-train-ride-from-colombo-all": {
@@ -90116,7 +90116,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas (opcional)"
   ]
  },
@@ -90177,7 +90177,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Almuerzo",
    "Cena",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-colombo-private-safari-yala-udawalawe-bundala": {
@@ -90237,7 +90237,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-to-galle-mirissa-hidden-coastal": {
@@ -90461,7 +90461,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo o comidas adicionales",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -90563,7 +90563,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas para el conductor/guia"
   ]
  },
@@ -90585,7 +90585,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -90629,7 +90629,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -90651,7 +90651,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas para el conductor/guia"
   ]
  },
@@ -90672,7 +90672,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida",
-   "Gastos personales",
+   "Gastos personales.",
    "Propina para el conductor/guia"
   ]
  },
@@ -90918,7 +90918,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas y bebidas",
    "Los cargos por salida tardia y entrada temprana estan excluidos",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-galle-to-sigiriya-and-dambulla-day-trip-with": {
@@ -91107,7 +91107,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-city-tour-with-turtle-conservation-bird": {
@@ -91126,7 +91126,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "galle-fort-premium-e-scooter-guided-tour-scenic": {
@@ -91188,7 +91188,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo o comidas adicionales",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -91255,7 +91255,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas no mencionadas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -91395,7 +91395,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Recogida y regreso al hotel"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Articulos de higiene",
    "Servicios adicionales"
   ]
@@ -91483,7 +91483,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas",
    "Guiado",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-kandy-pinnawala-elephants-ambuluwawa-tower": {
@@ -91689,7 +91689,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas no mencionadas",
-   "Gastos personales",
+   "Gastos personales.",
    "Seguro de viaje"
   ]
  },
@@ -92114,7 +92114,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Almuerzo tradicional de Sri Lanka en Lankagama"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Tarifas de entrada a la selva tropical de Sinharaja"
   ]
  },
@@ -92156,7 +92156,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-ella-day-tour-ninearch-little-adamspeak": {
@@ -92221,7 +92221,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas a los lugares y actividades opcionales mencionados en las inclusiones",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "from-colombo-day-trip-to-galle-dutch-fort-turtle": {
@@ -92281,7 +92281,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "minneriya-kaudulla-national-park-jeep-safari": {
@@ -92536,7 +92536,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo y cena",
-   "Gastos personales",
+   "Gastos personales.",
    "Seguro de viaje"
   ]
  },
@@ -92576,7 +92576,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entrada y tour guiado de Embekka Devalaya"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Comidas adicionales",
    "Tarifas de entrada a sitios no listados"
   ]
@@ -92597,7 +92597,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tour por la ciudad de Kandy segun el itinerario"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Entradas a los lugares opcionales mencionados en la descripcion completa",
    "Comida o bebidas (todo lo que no se menciona en las inclusiones)"
   ]
@@ -92620,7 +92620,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entrada",
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "moonstone-mine-tour-with-museum-visit-in-galle": {
@@ -92659,7 +92659,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "ella-city-tour-with-lunch-nine-arch-bridge": {
@@ -92698,7 +92698,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "southern-seas-discovery-galle-to-whale-watching": {
@@ -92738,7 +92738,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -92900,7 +92900,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Almuerzo estilo sur"
   ],
   "notIncluded": [
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "colombo-belihuloya-hill-safaris-kayaking-2-day": {
@@ -92920,7 +92920,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo del dia 2",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "nuwara-eliya-hands-on-tea-plucking-tasting": {
@@ -93039,7 +93039,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Paseo en carreta de bueyes"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -93078,7 +93078,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Itinerario y horario flexibles"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -93121,7 +93121,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Otras entradas",
-   "Gastos personales",
+   "Gastos personales.",
    "Cualquier comida"
   ]
  },
@@ -93141,7 +93141,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Visita a una fabrica de te"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Comida y bebidas"
   ]
  },
@@ -93162,7 +93162,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas (opcional)"
   ]
  },
@@ -93201,7 +93201,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Almuerzo de Sri Lanka"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -93222,7 +93222,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "6-days-sri-lanka-private-luxury-tour-with-5": {
@@ -93242,7 +93242,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo",
-   "Gastos personales",
+   "Gastos personales.",
    "Cargos de actividades adicionales"
   ]
  },
@@ -93383,7 +93383,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tour tradicional del pueblo de Sigiriya"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -93462,7 +93462,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Safari de fauna en el parque nacional de Wilpattu"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -93504,7 +93504,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas"
   ]
  },
@@ -93661,7 +93661,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "agua embotellada"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Comida y bebida"
   ]
  },
@@ -93703,7 +93703,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Bebidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "mirissa-sunset-cruise-with-relaxing-evening-boat": {
@@ -93768,7 +93768,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Alojamiento del cliente",
    "Comidas y bebidas del cliente, excepto el almuerzo incluido con la opcion 1",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas y gratificaciones"
   ]
  },
@@ -93828,7 +93828,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Exploracion de los templos de las cuevas de Dambulla"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas",
    "Alojamiento"
   ]
@@ -93929,7 +93929,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tour de campo de arroz."
   ],
   "notIncluded": [
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "all-inclusive-yala-national-park-private-safari": {
@@ -93949,7 +93949,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Desayuno y bocadillos",
-   "Gastos personales",
+   "Gastos personales.",
    "Propinas para el conductor"
   ]
  },
@@ -93970,7 +93970,27 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
+  ]
+ },
+ "kandy-dambulla-cave-temple-pidurangala-cooking": {
+  "title": "Kandy: templo de las cuevas de Dambulla, Pidurangala y tour de cocina",
+  "metaTitle": "Kandy: templo de las cuevas de Dambulla, Pidurangala y tour de...",
+  "metaDescription": "Experiencia de un dia completo en Kandy. . Ofrecido por Tour with cham.",
+  "shortDescription": "Experiencia de un dia completo en Kandy. . Ofrecido por Tour with cham.",
+  "fullDescription": "Una experiencia de un dia completo en Kandy. Immerse yourself in the vibrant atmosphere of a local market in Kandy.\n\nTour with cham la organiza, y 8 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso en Kandy, visita a un mercado local, visita a un jardin de especias en funcionamiento en Matale y demostracion y clase de cocina. No incluye gastos personales y propinas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de un dia completo en Kandy. . Ofrecido por Tour with cham."
+  ],
+  "included": [
+   "Recogida y regreso en Kandy",
+   "Visita a un mercado local",
+   "Visita a un jardin de especias en funcionamiento en Matale",
+   "Demostracion y clase de cocina"
+  ],
+  "notIncluded": [
+   "Gastos personales.",
+   "Propinas"
   ]
  },
  "srilanka-kalpitiya-day-tour-with-airport-transfer": {
@@ -93990,7 +94010,26 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas y tarifas de actividades",
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
+  ]
+ },
+ "bentota-river-turtels-wood-carving-temple-tuk-tuk": {
+  "title": "Bentota: rio, tortugas, talla en madera, y templo en tuk-tuk",
+  "metaTitle": "Bentota: rio, tortugas, talla en madera, y templo en tuk-tuk",
+  "metaDescription": "Una excursion de medio dia desde Bentota que visita Bentota, Bentota, Kande Vihara Temple y Kosgoda Sea Turtle Conservation. Ofrecido por Wander Zeylan Tours.",
+  "shortDescription": "Una excursion de medio dia desde Bentota que visita Bentota, Bentota, Kande Vihara Temple y Kosgoda Sea Turtle Conservation. Ofrecido por Wander Zeylan Tours.",
+  "fullDescription": "Una excursion de medio dia desde Bentota, que recorre Bentota, Bentota, Kande Vihara Temple y Kosgoda Sea Turtle Conservation. La parada mas larga es Bentota, con una duracion de unos 2 horas. Hay 4 paradas en total.\n\nEl orden de la ruta es Bentota (2h), luego Bentota (30 min), luego Kande Vihara Temple (30 min), luego Kosgoda Sea Turtle Conservation (1h).\n\nEl precio incluye templo de Kande Vihara (estatua de Buda dorada), safari fluvial en Bentota, conservacion de tortugas y fabrica de talla en madera. No incluye comida y bebida, por lo que debe presupuestar eso por separado. Dos viajeros pagan 133 $ juntos en lugar de 123 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de medio dia desde Bentota que visita Bentota, Bentota, Kande Vihara Temple y Kosgoda Sea Turtle Conservation. Ofrecido por Wander Zeylan Tours."
+  ],
+  "included": [
+   "Templo de Kande Vihara (estatua de Buda dorada)",
+   "Safari fluvial en Bentota",
+   "Conservacion de tortugas",
+   "Fabrica de talla en madera"
+  ],
+  "notIncluded": [
+   "Comida y bebida"
   ]
  },
  "srilanka-sigiriya-day-tour-with-airport-transfer": {
@@ -94010,7 +94049,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Entradas y tarifas de actividades",
    "Comidas",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "kandy-to-ella-nanuoya-drop-by-car-get-the": {
@@ -94030,8 +94069,89 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Los boletos de tren no se pueden obtener los miercoles",
-   "Gastos personales",
+   "Gastos personales.",
    "Comida y bebida"
+  ]
+ },
+ "adams-peak-guided-hike-with-pickup-snack-foot": {
+  "title": "Pico de Adan: caminata guiada con recogida, bocadillo, y masaje de pies",
+  "metaTitle": "Pico de Adan: caminata guiada con recogida, bocadillo, y masaj...",
+  "metaDescription": "Una excursion de un dia completo desde Colombo que visita Adam's Peak. Ofrecido por Ceylon Heights.",
+  "shortDescription": "Una excursion de un dia completo desde Colombo que visita Adam's Peak. Ofrecido por Ceylon Heights.",
+  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Adam's Peak. La parada mas larga es Adam's Peak, con una duracion de unos 9 horas.\n\nEl precio incluye recogida conveniente desde Kandy, guia privado dedicado para la caminata, bocadillo local y 1 L de agua y caminata guiada con explicaciones de rituales tradicionales. No incluye alojamiento cerca del punto de inicio de la caminata, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de un dia completo desde Colombo que visita Adam's Peak. Ofrecido por Ceylon Heights."
+  ],
+  "included": [
+   "Recogida conveniente desde Kandy",
+   "Guia privado dedicado para la caminata",
+   "Bocadillo local y 1 L de agua",
+   "Caminata guiada con explicaciones de rituales tradicionales"
+  ],
+  "notIncluded": [
+   "Alojamiento cerca del punto de inicio de la caminata"
+  ]
+ },
+ "2-day-galle-to-sigiriya-tour-with-minneriya-safari": {
+  "title": "Tour de 2 dias de Galle a Sigiriya con safari en Minneriya",
+  "metaTitle": "Tour de 2 dias de Galle a Sigiriya con safari en Minneriya",
+  "metaDescription": "Experiencia de 2 dia(s) en Galle. . Ofrecido por Prestige Escapes LK.",
+  "shortDescription": "Experiencia de 2 dia(s) en Galle. . Ofrecido por Prestige Escapes LK.",
+  "fullDescription": "Una experiencia de 2 dia(s) en Galle. Explore UNESCO-listed Dambulla Cave Temple.\n\nPrestige Escapes LK la organiza, y 6 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye vehiculo privado con aire acondicionado, conductor/guia que habla ingles, una noche de alojamiento en Sigiriya (hotel de 3 estrellas) y agua embotellada. No incluye entrada al parque nacional de Minneriya y comida y bebidas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 691 $ juntos en lugar de 691 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de 2 dia(s) en Galle. . Ofrecido por Prestige Escapes LK."
+  ],
+  "included": [
+   "Vehiculo privado con aire acondicionado",
+   "Conductor/guia que habla ingles",
+   "Una noche de alojamiento en Sigiriya (hotel de 3 estrellas)",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Entrada al parque nacional de Minneriya",
+   "Comida y bebidas"
+  ]
+ },
+ "sigiriya-dambulla-and-polonnaruwa-day-tour": {
+  "title": "Sigiriya, Dambulla y Polonnaruwa: tour de un dia",
+  "metaTitle": "Sigiriya, Dambulla y Polonnaruwa: tour de un dia",
+  "metaDescription": "Una excursion de un dia completo desde Kandy que visita Dambulla Royal Cave Temple and Golden Temple, Sigiriya Lion Rock y Polonnaruwa. Ofrecido por Heritage Tour...",
+  "shortDescription": "Una excursion de un dia completo desde Kandy que visita Dambulla Royal Cave Temple and Golden Temple, Sigiriya Lion Rock y Polonnaruwa. Ofrecido por Heritage Tours Sri Lanka.",
+  "fullDescription": "Una excursion de un dia completo desde Kandy, que recorre Dambulla Royal Cave Temple and Golden Temple, Sigiriya Lion Rock y Polonnaruwa. La parada mas larga es Sigiriya Lion Rock, con una duracion de unos 2 horas. Hay 3 paradas en total.\n\nEl orden de la ruta es Dambulla Royal Cave Temple and Golden Temple (1h), luego Sigiriya Lion Rock (2h), luego Polonnaruwa (2h).\n\nEl precio incluye transporte en tuk-tuk/mini auto/furgoneta (segun la opcion elegida), visita a Alu Viharaya en Matale, visita al jardin de especias y hierbas y visita a Nalanda Gedige. No incluye las tarifas de entrada para Dambulla, Polonnaruwa y Sigiriya no estan incluidas, el alquiler de bicicleta en Polonnaruwa no esta incluido y guiado, por lo que debe presupuestar eso por separado. Dos viajeros pagan 136 $ juntos en lugar de 136 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de un dia completo desde Kandy que visita Dambulla Royal Cave Temple and Golden Temple, Sigiriya Lion Rock y Polonnaruwa. Ofrecido por Heritage Tours Sri Lanka."
+  ],
+  "included": [
+   "Transporte en tuk-tuk/mini auto/furgoneta (segun la opcion elegida)",
+   "Visita a Alu Viharaya en Matale",
+   "Visita al jardin de especias y hierbas",
+   "Visita a Nalanda Gedige"
+  ],
+  "notIncluded": [
+   "Las tarifas de entrada para Dambulla, Polonnaruwa y Sigiriya no estan incluidas.",
+   "El alquiler de bicicleta en Polonnaruwa no esta incluido.",
+   "Guiado"
+  ]
+ },
+ "pinnawala-and-kandy-day-tour-from-colombo-or": {
+  "title": "Pinnawala y Kandy: tour de un dia desde Colombo o Negombo",
+  "metaTitle": "Pinnawala y Kandy: tour de un dia desde Colombo o Negombo",
+  "metaDescription": "Experiencia de un dia completo en Colombo. . Ofrecido por Sri Lanka car and private driver hire.",
+  "shortDescription": "Experiencia de un dia completo en Colombo. . Ofrecido por Sri Lanka car and private driver hire.",
+  "fullDescription": "Una experiencia de un dia completo en Colombo. The exploration of the Tooth Relic Temple offers a profound spiritual experience.\n\nSri Lanka car and private driver hire la organiza, y 8 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso desde el alojamiento, vehiculo con aire acondicionado, una botella de agua y un king coconut. No incluye gastos de desayuno, gastos de almuerzo y tarifas de entrada (templos de Kandy), por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de un dia completo en Colombo. . Ofrecido por Sri Lanka car and private driver hire."
+  ],
+  "included": [
+   "Recogida y regreso desde el alojamiento",
+   "Vehiculo con aire acondicionado",
+   "Una botella de agua",
+   "Un king coconut"
+  ],
+  "notIncluded": [
+   "Gastos de desayuno",
+   "Gastos de almuerzo",
+   "Tarifas de entrada (templos de Kandy)"
   ]
  },
  "hiriketiya-mirissa-beach-whale-watching-day-trip": {
@@ -94052,6 +94172,145 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entradas"
   ]
  },
+ "ella-diyaluma-falls-yala-wildlife-and-hiriketiya": {
+  "title": "Ella: cascadas de Diyaluma, fauna de Yala y tour de Hiriketiya",
+  "metaTitle": "Ella: cascadas de Diyaluma, fauna de Yala y tour de Hiriketiya",
+  "metaDescription": "Una excursion de un dia completo desde Ella que visita Diyaluma Falls, Buduruwagala, Yala National Park y Finish at:. Ofrecido por Kumaru Lanka Tours.",
+  "shortDescription": "Una excursion de un dia completo desde Ella que visita Diyaluma Falls, Buduruwagala, Yala National Park y Finish at:. Ofrecido por Kumaru Lanka Tours.",
+  "fullDescription": "Una excursion de un dia completo desde Ella, que recorre Diyaluma Falls, Buduruwagala, Yala National Park y Finish at:. La parada mas larga es Yala National Park, con una duracion de unos 3 horas. Hay 4 paradas en total.\n\nEl orden de la ruta es Diyaluma Falls (30 min), luego Buduruwagala (30 min), luego Yala National Park (3h), luego Finish at:.\n\nEl precio incluye visita a las cascadas de Diyaluma, observacion de fauna en el parque nacional de Yala, visita al antiguo templo rupestre de Buduruwagala y trayecto panoramico a Hiriketiya. No incluye comidas y costo del jeep de safari, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de un dia completo desde Ella que visita Diyaluma Falls, Buduruwagala, Yala National Park y Finish at:. Ofrecido por Kumaru Lanka Tours."
+  ],
+  "included": [
+   "Visita a las cascadas de Diyaluma",
+   "Observacion de fauna en el parque nacional de Yala",
+   "Visita al antiguo templo rupestre de Buduruwagala",
+   "Trayecto panoramico a Hiriketiya"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Costo del jeep de safari"
+  ]
+ },
+ "galle-local-family-dinner-with-pick-up-and-drop": {
+  "title": "Galle: cena con familia local con recogida y regreso",
+  "metaTitle": "Galle: cena con familia local con recogida y regreso",
+  "metaDescription": "Experiencia de 3 hora(s) en Galle. . Ofrecido por True Trails Sri Lanka.",
+  "shortDescription": "Experiencia de 3 hora(s) en Galle. . Ofrecido por True Trails Sri Lanka.",
+  "fullDescription": "Una experiencia de 3 hora(s) en Galle. This is not just a meal, it’s an invitation into the heart of Sri Lankan home.\n\nTrue Trails Sri Lanka la organiza, y 1 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al fuerte de Galle. No incluye gastos personales y recuerdos y propinas para los anfitriones o el conductor (opcional), por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de 3 hora(s) en Galle. . Ofrecido por True Trails Sri Lanka."
+  ],
+  "included": [
+   "Recogida y regreso al fuerte de Galle"
+  ],
+  "notIncluded": [
+   "Gastos personales y recuerdos.",
+   "Propinas para los anfitriones o el conductor (opcional)."
+  ]
+ },
+ "kandy-highlights-pinnawala-elephant-experience-by": {
+  "title": "Puntos destacados de Kandy y experiencia de elefantes de Pinnawala en tuk-tuk",
+  "metaTitle": "Puntos destacados de Kandy y experiencia de elefantes de Pinna...",
+  "metaDescription": "Una excursion de un dia completo desde Kandy que visita Pinnawala Elephant Orphanage, Royal Botanic Gardens, Kandy, Asgiriya y Kandy Lake Club. Ofrecido por Kandy...",
+  "shortDescription": "Una excursion de un dia completo desde Kandy que visita Pinnawala Elephant Orphanage, Royal Botanic Gardens, Kandy, Asgiriya y Kandy Lake Club. Ofrecido por Kandy Best Tours.",
+  "fullDescription": "Una excursion de un dia completo desde Kandy, que recorre Pinnawala Elephant Orphanage, Royal Botanic Gardens, Kandy, Asgiriya y Kandy Lake Club. La parada mas larga es Pinnawala Elephant Orphanage, con una duracion de unos 2 horas. Hay 5 paradas en total.\n\nEl orden de la ruta es Pinnawala Elephant Orphanage (2h), luego Royal Botanic Gardens, Kandy (1h), luego Asgiriya (1h), luego Kandy Lake Club (1h), luego Temple of the Sacred Tooth Relic (1h).\n\nEl precio incluye recogida en el hotel en Kandy, paseo en tuk-tuk, botella de agua y mirador de Kadugannawa. No incluye comidas y tarifas de entrada, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de un dia completo desde Kandy que visita Pinnawala Elephant Orphanage, Royal Botanic Gardens, Kandy, Asgiriya y Kandy Lake Club. Ofrecido por Kandy Best Tours."
+  ],
+  "included": [
+   "Recogida en el hotel en Kandy",
+   "Paseo en tuk-tuk",
+   "Botella de agua",
+   "Mirador de Kadugannawa"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Tarifas de entrada"
+  ]
+ },
+ "from-colombonegombo-sigiriya-dambulla-day-trip": {
+  "title": "Desde Colombo/Negombo: excursion de un dia a Sigiriya y Dambulla con safari",
+  "metaTitle": "Desde Colombo/Negombo: excursion de un dia a Sigiriya y Dambul...",
+  "metaDescription": "Una excursion de un dia completo desde Colombo que visita Dambulla Royal Cave Temple and Golden Temple, Sigiriya Lion Rock y Minneriya National Park. Ofrecido por...",
+  "shortDescription": "Una excursion de un dia completo desde Colombo que visita Dambulla Royal Cave Temple and Golden Temple, Sigiriya Lion Rock y Minneriya National Park. Ofrecido por Wanderluxe Ceylon.",
+  "fullDescription": "Una excursion de un dia completo desde Colombo, que recorre Dambulla Royal Cave Temple and Golden Temple, Sigiriya Lion Rock y Minneriya National Park. La parada mas larga es Minneriya National Park, con una duracion de unos 3 horas. Hay 3 paradas en total.\n\nEl orden de la ruta es Dambulla Royal Cave Temple and Golden Temple (2h), luego Sigiriya Lion Rock (2h), luego Minneriya National Park (3h).\n\nEl precio incluye recogida y regreso desde los hoteles en Colombo y Negombo, transporte en auto con aire acondicionado, servicio de un conductor que habla ingles y guia profesional en Sigiriya y Dambulla, que explica toda la historia. No incluye comidas, gastos personales y entrada al templo de las cuevas de Dambulla (10 USD), por lo que debe presupuestar eso por separado. Dos viajeros pagan 558 $ juntos en lugar de 491 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de un dia completo desde Colombo que visita Dambulla Royal Cave Temple and Golden Temple, Sigiriya Lion Rock y Minneriya National Park. Ofrecido por Wanderluxe Ceylon."
+  ],
+  "included": [
+   "Recogida y regreso desde los hoteles en Colombo y Negombo",
+   "Transporte en auto con aire acondicionado",
+   "Servicio de un conductor que habla ingles",
+   "Guia profesional en Sigiriya y Dambulla, que explica toda la historia"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Gastos personales.",
+   "Entrada al templo de las cuevas de Dambulla (10 USD)"
+  ]
+ },
+ "pidurangala-rock-guided-sunrise-tour": {
+  "title": "Roca de Pidurangala: tour guiado al amanecer",
+  "metaTitle": "Roca de Pidurangala: tour guiado al amanecer",
+  "metaDescription": "Experiencia de 3 hora(s) en Sigiriya. . Ofrecido por Im not registered as a compqny.",
+  "shortDescription": "Experiencia de 3 hora(s) en Sigiriya. . Ofrecido por Im not registered as a compqny.",
+  "fullDescription": "Una experiencia de 3 hora(s) en Sigiriya. Feel the thrill of a short hike to the summit of Pidurangala Rock.\n\nIm not registered as a compqny la organiza, y 4 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye transporte en tuk-tuk (recogida y regreso en Sigiriya), orientacion de entrada, apoyo de guia local y fotos y videos a pedido. No incluye no incluido, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de 3 hora(s) en Sigiriya. . Ofrecido por Im not registered as a compqny."
+  ],
+  "included": [
+   "Transporte en tuk-tuk (recogida y regreso en Sigiriya)",
+   "Orientacion de entrada",
+   "Apoyo de guia local",
+   "Fotos y videos a pedido"
+  ],
+  "notIncluded": [
+   "No incluido"
+  ]
+ },
+ "kandy-sigiriya-pidurangala-rock-kaudulla-safari": {
+  "title": "Kandy: roca de Sigiriya y Pidurangala, safari en Kaudulla",
+  "metaTitle": "Kandy: roca de Sigiriya y Pidurangala, safari en Kaudulla",
+  "metaDescription": "Una excursion de un dia completo desde Kandy que visita Hiriwadunna y Kaudulla National Park. Ofrecido por WMT Ceylon Tour Private Limited.",
+  "shortDescription": "Una excursion de un dia completo desde Kandy que visita Hiriwadunna y Kaudulla National Park. Ofrecido por WMT Ceylon Tour Private Limited.",
+  "fullDescription": "Una excursion de un dia completo desde Kandy, que recorre Hiriwadunna y Kaudulla National Park. La parada mas larga es Hiriwadunna, con una duracion de unos 2 horas. Hay 2 paradas en total.\n\nEl orden de la ruta es Hiriwadunna (2h), luego Kaudulla National Park (2h).\n\nEl precio incluye paseo en tuk-tuk, caminata a la roca de Pidurangala, visita al lago Hiriwadunna y safari en jeep en el parque nacional de Kaudulla. No incluye comidas, entradas de los lugares visitados y cargos de jeep de safari, por lo que debe presupuestar eso por separado. Dos viajeros pagan 136 $ juntos en lugar de 136 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de un dia completo desde Kandy que visita Hiriwadunna y Kaudulla National Park. Ofrecido por WMT Ceylon Tour Private Limited."
+  ],
+  "included": [
+   "Paseo en tuk-tuk",
+   "Caminata a la roca de Pidurangala",
+   "Visita al lago Hiriwadunna",
+   "Safari en jeep en el parque nacional de Kaudulla"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Entradas de los lugares visitados",
+   "Cargos de jeep de safari"
+  ]
+ },
+ "nuwara-eliya-to-colombo-transfer-with-rafting-in": {
+  "title": "De Nuwara Eliya a Colombo: traslado con rafting en Kitulgala",
+  "metaTitle": "De Nuwara Eliya a Colombo: traslado con rafting en Kitulgala",
+  "metaDescription": "Experiencia de medio dia en Colombo. . Ofrecido por Lakpura®.",
+  "shortDescription": "Experiencia de medio dia en Colombo. . Ofrecido por Lakpura®.",
+  "fullDescription": "Una experiencia de medio dia en Colombo. Feel the thrill of white-water rafting on the Kelani River in Kitulgala.\n\nLakpura® la organiza, y 6 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida en el hotel desde Nuwara Eliya, regreso en Colombo, transporte en vehiculo con aire acondicionado y servicio de un chofer que habla ingles. No incluye comida o bebidas, propinas y gastos de naturaleza personal, por lo que debe presupuestar eso por separado. Dos viajeros pagan 305 $ juntos en lugar de 271 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de medio dia en Colombo. . Ofrecido por Lakpura®."
+  ],
+  "included": [
+   "Recogida en el hotel desde Nuwara Eliya",
+   "Regreso en Colombo",
+   "Transporte en vehiculo con aire acondicionado",
+   "Servicio de un chofer que habla ingles"
+  ],
+  "notIncluded": [
+   "Comida o bebidas",
+   "Propinas",
+   "Gastos de naturaleza personal"
+  ]
+ },
  "galle-fort-hikkaduwa-and-mask-museum-day-trip-by": {
   "title": "Fuerte de Galle, Hikkaduwa, y museo de mascaras: excursion de un dia en tuk-tuk",
   "metaTitle": "Fuerte de Galle, Hikkaduwa, y museo de mascaras: excursion de ...",
@@ -94069,6 +94328,47 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida y bebidas"
+  ]
+ },
+ "negombo-lagoon-dutch-canal-sunset-boat-tour": {
+  "title": "Negombo: tour en barco al atardecer de la laguna y el canal holandes",
+  "metaTitle": "Negombo: tour en barco al atardecer de la laguna y el canal ho...",
+  "metaDescription": "Una excursion de 3 hora(s) desde Negombo que visita Tuk tuk, Negombo, Dutch Canal y Negombo Lagoon. Ofrecido por Dew Ceylon Tours.",
+  "shortDescription": "Una excursion de 3 hora(s) desde Negombo que visita Tuk tuk, Negombo, Dutch Canal y Negombo Lagoon. Ofrecido por Dew Ceylon Tours.",
+  "fullDescription": "Una excursion de 3 hora(s) desde Negombo, que recorre Tuk tuk, Negombo, Dutch Canal y Negombo Lagoon. La parada mas larga es Negombo Lagoon, con una duracion de unos 1 hora. Hay 5 paradas en total.\n\nEl orden de la ruta es Tuk tuk (30 min), luego Negombo (10 min), luego Dutch Canal (20 min), luego Negombo Lagoon (20 min), luego Negombo Lagoon (1h).\n\nEl precio incluye guia local, vistas al atardecer, avistamiento de fauna y exploracion de manglares. No incluye comida y bebidas, recogida en el hotel (disponible a pedido) y propinas (opcional), por lo que debe presupuestar eso por separado. Dos viajeros pagan 140 $ juntos en lugar de 128 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de 3 hora(s) desde Negombo que visita Tuk tuk, Negombo, Dutch Canal y Negombo Lagoon. Ofrecido por Dew Ceylon Tours."
+  ],
+  "included": [
+   "Guia local",
+   "Vistas al atardecer",
+   "Avistamiento de fauna",
+   "Exploracion de manglares"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Recogida en el hotel (disponible a pedido)",
+   "Propinas (opcional)"
+  ]
+ },
+ "negombo-lagoon-boat-tour-with-authentic-city": {
+  "title": "Negombo: tour en barco por la laguna con experiencia autentica de la ciudad",
+  "metaTitle": "Negombo: tour en barco por la laguna con experiencia autentica...",
+  "metaDescription": "Una excursion de medio dia desde Negombo que visita Negombo. Ofrecido por Have a nice day..",
+  "shortDescription": "Una excursion de medio dia desde Negombo que visita Negombo. Ofrecido por Have a nice day..",
+  "fullDescription": "Una excursion de medio dia desde Negombo, que recorre Negombo. La parada mas larga es Negombo, con una duracion de unos 1 hora.\n\nHave a nice day. la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye guia multilingue (ingles y coreano), tour privado en barco incluido, tarifas del tour en barco de la laguna incluidas y visita al templo budista de Angurukaramulla. No incluye gastos personales y propinas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de medio dia desde Negombo que visita Negombo. Ofrecido por Have a nice day.."
+  ],
+  "included": [
+   "Guia multilingue (ingles y coreano)",
+   "Tour privado en barco incluido",
+   "Tarifas del tour en barco de la laguna incluidas.",
+   "Visita al templo budista de Angurukaramulla"
+  ],
+  "notIncluded": [
+   "Gastos personales.",
+   "propinas."
   ]
  },
  "colombo-to-nuwara-eliya-transfer-with-rafting-in": {
@@ -94092,6 +94392,104 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos de naturaleza personal"
   ]
  },
+ "sigiriya-and-dambulla-guided-tour-with-licensed": {
+  "title": "Sigiriya y Dambulla: tour guiado con guia con licencia",
+  "metaTitle": "Sigiriya y Dambulla: tour guiado con guia con licencia",
+  "metaDescription": "Una excursion de un dia completo desde Sigiriya que visita Nalanda Gedige, Dambulla Royal Cave Temple and Golden Temple y Sigiriya Lion Rock. Ofrecido por SIGIRIT...",
+  "shortDescription": "Una excursion de un dia completo desde Sigiriya que visita Nalanda Gedige, Dambulla Royal Cave Temple and Golden Temple y Sigiriya Lion Rock. Ofrecido por SIGIRITRIP TOURS (PVT) LTD.",
+  "fullDescription": "Una excursion de un dia completo desde Sigiriya, que recorre Nalanda Gedige, Dambulla Royal Cave Temple and Golden Temple y Sigiriya Lion Rock. La parada mas larga es Sigiriya Lion Rock, con una duracion de unos 2 horas. Hay 3 paradas en total.\n\nEl orden de la ruta es Nalanda Gedige (15 min), luego Dambulla Royal Cave Temple and Golden Temple (1h), luego Sigiriya Lion Rock (2h).\n\nEl precio incluye guia turistico con licencia y botella de agua. No incluye tarifa de entrada para el sitio, comidas y compras, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de un dia completo desde Sigiriya que visita Nalanda Gedige, Dambulla Royal Cave Temple and Golden Temple y Sigiriya Lion Rock. Ofrecido por SIGIRITRIP TOURS (PVT) LTD."
+  ],
+  "included": [
+   "Guia turistico con licencia",
+   "Botella de agua"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada para el sitio",
+   "Comidas",
+   "Compras"
+  ]
+ },
+ "kandy-scenic-bus-journey-waterfall-discovery": {
+  "title": "Kandy: viaje panoramico en autobus, descubrimiento de cascada",
+  "metaTitle": "Kandy: viaje panoramico en autobus, descubrimiento de cascada",
+  "metaDescription": "Una excursion de un dia completo desde Kandy que visita Ramboda Falls, Srilanka, On foot y Ramboda Falls, Srilanka. Ofrecido por SKYLINE PEARL TOURS.",
+  "shortDescription": "Una excursion de un dia completo desde Kandy que visita Ramboda Falls, Srilanka, On foot y Ramboda Falls, Srilanka. Ofrecido por SKYLINE PEARL TOURS.",
+  "fullDescription": "Una excursion de un dia completo desde Kandy, que recorre Ramboda Falls, Srilanka, On foot y Ramboda Falls, Srilanka. La parada mas larga es Ramboda Falls, Srilanka, con una duracion de unos 2 horas. Hay 3 paradas en total.\n\nEl orden de la ruta es Ramboda Falls, Srilanka (2h), luego On foot (15 min), luego Ramboda Falls, Srilanka (45 min).\n\nEl precio incluye servicio de anfitrion/guia experto para todo el dia (dirigido por un graduado universitario), te local gratis (al regresar a Kandy), orientacion gratuita despues del tour al templo de la reliquia del diente y sri Dalada Maligawa (opcional). No incluye refrescos, almuerzo, o bebidas en el hotel de las cascadas de Ramboda (opcional) y recogida/regreso al hotel (el tour comienza y termina en la estacion de autobuses de Kandy), por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de un dia completo desde Kandy que visita Ramboda Falls, Srilanka, On foot y Ramboda Falls, Srilanka. Ofrecido por SKYLINE PEARL TOURS."
+  ],
+  "included": [
+   "Servicio de anfitrion/guia experto para todo el dia (dirigido por un graduado universitario)",
+   "Te local gratis (al regresar a Kandy)",
+   "Orientacion gratuita despues del tour al templo de la reliquia del diente",
+   "Sri Dalada Maligawa (opcional)"
+  ],
+  "notIncluded": [
+   "Refrescos, almuerzo, o bebidas en el hotel de las cascadas de Ramboda (opcional).",
+   "Recogida/regreso al hotel (el tour comienza y termina en la estacion de autobuses de Kandy)."
+  ]
+ },
+ "night-jeep-safari-wild-cat-spotting-adventure": {
+  "title": "Safari nocturno en jeep: aventura de avistamiento de gatos salvajes desde Sigiriya",
+  "metaTitle": "Safari nocturno en jeep: aventura de avistamiento de gatos sal...",
+  "metaDescription": "Una excursion de medio dia desde Sigiriya que visita Jeep / SUV y Habarana. Ofrecido por Sinhagiri Tours.",
+  "shortDescription": "Una excursion de medio dia desde Sigiriya que visita Jeep / SUV y Habarana. Ofrecido por Sinhagiri Tours.",
+  "fullDescription": "Una excursion de medio dia desde Sigiriya, que recorre Jeep / SUV y Habarana. La parada mas larga es Habarana, con una duracion de unos 3 horas. Hay 2 paradas en total.\n\nEl orden de la ruta es Jeep / SUV (30 min), luego Habarana (3h).\n\nEl precio incluye transporte de ida y vuelta desde su hotel o alojamiento en la zona de Sigiriya, guia/rastreador de fauna profesional que habla ingles, safari nocturno de 3 horas en un vehiculo 4x4 comodo y reflectores y equipo de observacion. No incluye comida y recogida desde la zona de Dambulla y Habarana (posible con costo adicional), por lo que debe presupuestar eso por separado. Dos viajeros pagan 171 $ juntos en lugar de 171 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de medio dia desde Sigiriya que visita Jeep / SUV y Habarana. Ofrecido por Sinhagiri Tours."
+  ],
+  "included": [
+   "Transporte de ida y vuelta desde su hotel o alojamiento en la zona de Sigiriya",
+   "Guia/rastreador de fauna profesional que habla ingles",
+   "Safari nocturno de 3 horas en un vehiculo 4x4 comodo",
+   "Reflectores y equipo de observacion"
+  ],
+  "notIncluded": [
+   "Comida",
+   "Recogida desde la zona de Dambulla y Habarana (posible con costo adicional)"
+  ]
+ },
+ "kandy-heritage-and-architectural-by-tuk-tuk": {
+  "title": "Kandy: patrimonio y arquitectura en tuk-tuk",
+  "metaTitle": "Kandy: patrimonio y arquitectura en tuk-tuk",
+  "metaDescription": "Experiencia de medio dia en Kandy. . Ofrecido por shaggytoursandtravels.",
+  "shortDescription": "Experiencia de medio dia en Kandy. . Ofrecido por shaggytoursandtravels.",
+  "fullDescription": "Una experiencia de medio dia en Kandy. Learn about Sri Lanka’s world-famous tea production at a tea factory.\n\nshaggytoursandtravels la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel, visita al seminario nacional Nuestra Señora de Lanka, visita a Degaldoruwa Raja Maha Viharaya y visita al santuario de Udawatta Kele. No incluye comida y bebidas y tarifas de entrada (templo de la reliquia del diente, Buda de Bahirawakanda Vihara, santuario de Udawatta Kele, danza cultural tradicional), por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de medio dia en Kandy. . Ofrecido por shaggytoursandtravels."
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Visita al seminario nacional Nuestra Señora de Lanka",
+   "Visita a Degaldoruwa Raja Maha Viharaya",
+   "Visita al santuario de Udawatta Kele"
+  ],
+  "notIncluded": [
+   "comida y bebidas",
+   "tarifas de entrada (templo de la reliquia del diente, Buda de Bahirawakanda Vihara, santuario de Udawatta Kele, danza cultural tradicional)"
+  ]
+ },
+ "kandy-temple-of-tooth-train-ride-cave-waterfall": {
+  "title": "Kandy: templo del diente, viaje en tren y cascada de cueva",
+  "metaTitle": "Kandy: templo del diente, viaje en tren y cascada de cueva",
+  "metaDescription": "Una excursion de un dia completo desde Kandy que visita Temple of the Sacred Tooth Relic, Train, Meeyan Ella Waterfall y Royal Botanic Gardens, Kandy. Ofrecido po...",
+  "shortDescription": "Una excursion de un dia completo desde Kandy que visita Temple of the Sacred Tooth Relic, Train, Meeyan Ella Waterfall y Royal Botanic Gardens, Kandy. Ofrecido por AMAK TRAVELS (PVT) LTD.",
+  "fullDescription": "Una excursion de un dia completo desde Kandy, que recorre Temple of the Sacred Tooth Relic, Train, Meeyan Ella Waterfall y Royal Botanic Gardens, Kandy. La parada mas larga es Royal Botanic Gardens, Kandy, con una duracion de unos 2 horas. Hay 5 paradas en total.\n\nEl orden de la ruta es Temple of the Sacred Tooth Relic, luego Train (1h), luego Meeyan Ella Waterfall (1h), luego Royal Botanic Gardens, Kandy (2h), luego Kandy view point (15 min).\n\nEl precio incluye guia local que habla ingles, transporte privado desde su hotel, transporte en un auto de lujo y boletos de tren panoramico. No incluye almuerzo, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de un dia completo desde Kandy que visita Temple of the Sacred Tooth Relic, Train, Meeyan Ella Waterfall y Royal Botanic Gardens, Kandy. Ofrecido por AMAK TRAVELS (PVT) LTD."
+  ],
+  "included": [
+   "Guia local que habla ingles",
+   "Transporte privado desde su hotel",
+   "Transporte en un auto de lujo",
+   "Boletos de tren panoramico"
+  ],
+  "notIncluded": [
+   "Almuerzo"
+  ]
+ },
  "from-kandy-wasgamuwa-safari-rathna-ella-waterfall": {
   "title": "Desde Kandy: safari en Wasgamuwa y cascada de Rathna Ella",
   "metaTitle": "Desde Kandy: safari en Wasgamuwa y cascada de Rathna Ella",
@@ -94111,6 +94509,102 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comidas",
    "Propinas",
    "Propinas"
+  ]
+ },
+ "bentota-river-safari-with-transfer-and-guide": {
+  "title": "Bentota: safari fluvial con traslado y guia",
+  "metaTitle": "Bentota: safari fluvial con traslado y guia",
+  "metaDescription": "Una excursion de 2 hora(s) desde Bentota que visita Tuk tuk y Bentota. Ofrecido por Wander Zeylan Tours.",
+  "shortDescription": "Una excursion de 2 hora(s) desde Bentota que visita Tuk tuk y Bentota. Ofrecido por Wander Zeylan Tours.",
+  "fullDescription": "Una excursion de 2 hora(s) desde Bentota, que recorre Tuk tuk y Bentota. La parada mas larga es Bentota, con una duracion de unos 2 horas. Hay 2 paradas en total.\n\nEl orden de la ruta es Tuk tuk (15 min), luego Bentota (2h).\n\nEl precio incluye safari fluvial, transporte, tour fluvial de 2 horas y guias que hablan aleman e ingles. No incluye comidas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 95 $ juntos en lugar de 94 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Una excursion de 2 hora(s) desde Bentota que visita Tuk tuk y Bentota. Ofrecido por Wander Zeylan Tours."
+  ],
+  "included": [
+   "Safari fluvial",
+   "Transporte",
+   "Tour fluvial de 2 horas",
+   "Guias que hablan aleman e ingles"
+  ],
+  "notIncluded": [
+   "Comidas"
+  ]
+ },
+ "kandy-kalugala-garadi-ella-waterfall-hike-two-day": {
+  "title": "Kandy: caminata a la cascada de Kalugala Garadi Ella y campamento de 2 dias",
+  "metaTitle": "Kandy: caminata a la cascada de Kalugala Garadi Ella y campame...",
+  "metaDescription": "Experiencia de 2 dia(s) en Kandy. . Ofrecido por AMAK TRAVELS (PVT) LTD.",
+  "shortDescription": "Experiencia de 2 dia(s) en Kandy. . Ofrecido por AMAK TRAVELS (PVT) LTD.",
+  "fullDescription": "Una experiencia de 2 dia(s) en Kandy. Immerse yourself in the beauty of the Kalugala Forest Reserve.\n\nAMAK TRAVELS (PVT) LTD la organiza, y 4 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye guia local que habla ingles, permisos legales de caminata, equipo de camping y tiendas y transporte desde Kandy. No incluye comida, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de 2 dia(s) en Kandy. . Ofrecido por AMAK TRAVELS (PVT) LTD."
+  ],
+  "included": [
+   "Guia local que habla ingles",
+   "Permisos legales de caminata",
+   "Equipo de camping y tiendas",
+   "Transporte desde Kandy"
+  ],
+  "notIncluded": [
+   "Comida"
+  ]
+ },
+ "kandy-two-day-yahangala-little-everest-trek": {
+  "title": "Kandy: caminata de 2 dias a Yahangala y Little Everest",
+  "metaTitle": "Kandy: caminata de 2 dias a Yahangala y Little Everest",
+  "metaDescription": "Una excursion de 2 dia(s) desde Kandy que visita Yahangala. Ofrecido por AMAK TRAVELS (PVT) LTD.",
+  "shortDescription": "Una excursion de 2 dia(s) desde Kandy que visita Yahangala. Ofrecido por AMAK TRAVELS (PVT) LTD.",
+  "fullDescription": "Una excursion de 2 dia(s) desde Kandy, que recorre Yahangala. La parada mas larga es Yahangala, con una duracion de unos 6 horas.\n\nEl precio incluye guia local que habla ingles, permisos legales de caminata, equipo de camping y transporte de ida y vuelta desde Kandy. No incluye almuerzo, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de 2 dia(s) desde Kandy que visita Yahangala. Ofrecido por AMAK TRAVELS (PVT) LTD."
+  ],
+  "included": [
+   "Guia local que habla ingles",
+   "Permisos legales de caminata",
+   "Equipo de camping",
+   "Transporte de ida y vuelta desde Kandy"
+  ],
+  "notIncluded": [
+   "Almuerzo"
+  ]
+ },
+ "kandy-hanthana-lizards-back-hike": {
+  "title": "Kandy: caminata a Hanthana Lizard's Back",
+  "metaTitle": "Kandy: caminata a Hanthana Lizard's Back",
+  "metaDescription": "Experiencia de un dia completo en Kandy. . Ofrecido por AMAK TRAVELS (PVT) LTD.",
+  "shortDescription": "Experiencia de un dia completo en Kandy. . Ofrecido por AMAK TRAVELS (PVT) LTD.",
+  "fullDescription": "Una experiencia de un dia completo en Kandy. Breathe in the fresh mountain air as you hike through tea estates and forests.\n\nAMAK TRAVELS (PVT) LTD la organiza, y 3 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye guia que habla ingles, botella de agua y bocadillo y transporte de recogida y regreso al hotel. No incluye almuerzo, por lo que debe presupuestar eso por separado. Dos viajeros pagan 203 $ juntos en lugar de 203 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de un dia completo en Kandy. . Ofrecido por AMAK TRAVELS (PVT) LTD."
+  ],
+  "included": [
+   "Guia que habla ingles",
+   "Botella de agua y bocadillo",
+   "Transporte de recogida y regreso al hotel"
+  ],
+  "notIncluded": [
+   "Almuerzo"
+  ]
+ },
+ "bentota-cooking-class-with-lunch-or-dinner": {
+  "title": "Bentota: clase de cocina con almuerzo o cena",
+  "metaTitle": "Bentota: clase de cocina con almuerzo o cena",
+  "metaDescription": "Una excursion de 3 hora(s) desde Bentota que visita Tuk tuk y Sea Turtles Bungalow Bentota. Ofrecido por A & S Vibes Travel guide.",
+  "shortDescription": "Una excursion de 3 hora(s) desde Bentota que visita Tuk tuk y Sea Turtles Bungalow Bentota. Ofrecido por A & S Vibes Travel guide.",
+  "fullDescription": "Una excursion de 3 hora(s) desde Bentota, que recorre Tuk tuk y Sea Turtles Bungalow Bentota. Hay 2 paradas en total.\n\nEl orden de la ruta es Tuk tuk (15 min), luego Sea Turtles Bungalow Bentota.\n\nEl precio incluye instructor de cocina que habla ingles, clase practica de cocina de Sri Lanka en Sea Turtles Bungalow, todos los ingredientes y equipo de cocina y preparacion de platos tradicionales de Sri Lanka. No incluye recogida o regreso al hotel (disponible con costo adicional), propinas para el instructor o personal (opcional) y bebidas distintas del king coconut o te incluido, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Una excursion de 3 hora(s) desde Bentota que visita Tuk tuk y Sea Turtles Bungalow Bentota. Ofrecido por A & S Vibes Travel guide."
+  ],
+  "included": [
+   "Instructor de cocina que habla ingles",
+   "Clase practica de cocina de Sri Lanka en Sea Turtles Bungalow",
+   "Todos los ingredientes y equipo de cocina",
+   "Preparacion de platos tradicionales de Sri Lanka"
+  ],
+  "notIncluded": [
+   "Recogida o regreso al hotel (disponible con costo adicional)",
+   "Propinas para el instructor o personal (opcional)",
+   "Bebidas distintas del king coconut o te incluido"
   ]
  },
  "negombo-lagoon-boat-tour-hotel-pickup-monkey": {
@@ -94188,7 +94682,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Recogida y regreso al hotel"
   ],
   "notIncluded": [
-   "Gastos personales",
+   "Gastos personales.",
    "Articulos de higiene",
    "Servicios adicionales"
   ]
@@ -94249,7 +94743,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas y bebidas",
    "Propinas (opcional)",
-   "Gastos personales"
+   "Gastos personales."
   ]
  },
  "flyboard-experience-in-pattaya": {
