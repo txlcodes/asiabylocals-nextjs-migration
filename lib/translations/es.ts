@@ -99131,6 +99131,216 @@ export const ES_TOURS: Record<string, TourT> = {
    "gastos personales"
   ]
  },
+ "one-hour-kandy-wood-carving-workshop-with-tuk-tuk-transfers": {
+  "title": "Taller de talla en madera de una hora en Kandy con traslados en tuk-tuk",
+  "metaTitle": "Talla en madera de una hora en Kandy",
+  "metaDescription": "Una hora practica corta con un tallista de madera de Kandy, con traslados en tuk-tuk desde su hotel, la version compacta para probar el oficio.",
+  "shortDescription": "Una hora practica corta con un tallista de madera de Kandy, con traslados en tuk-tuk desde su hotel, la version compacta para probar el oficio sin sacrificar medio dia.",
+  "fullDescription": "Esta es la version corta del taller de talla, y existe por una razon especifica: una tarde en Kandy a menudo ya esta ocupada, y una hora basta para realmente hacer algo.\n\nEl artesano comienza con una demostracion, los cinceles, el mazo, la forma en que se transfiere un diseño a un bloque en blanco, y que significan los motivos recurrentes de Kandy. El loto, la enredadera liya vela y los bordes geometricos son un vocabulario que recorre todo, desde puertas de templos hasta mascaras de danza, y diez minutos de explicacion cambian la forma en que ve el resto de Kandy.\n\nLuego talla. Se le da un bloque preparado y las herramientas, y el artesano trabaja a su lado corrigiendo en lugar de tomar el control. Una hora basta para una pieza pequeña, que usted conserva.\n\nLos traslados en tuk-tuk desde su hotel estan incluidos, lo cual importa porque los talleres estan en las calles artesanales en lugar de en la ruta turistica y no son faciles de encontrar solo.\n\nLa pieza que hace es pequeña, una hora de trabajo de cincel en un bloque preparado, no un panel terminado, y viaja a casa con usted. Bueno saber de antemano: la mayoria de los talleres de talla en Kandy tienen una sala de exposicion anexa, y se la mostraran al final. No hay obligacion de comprar nada, y la tarifa del taller se mantiene por si sola.",
+  "highlights": [
+   "Un taller de un tallista de Kandy en activo, no una demostracion para grupos",
+   "Los motivos de Kandy explicados, el loto, la liya vela y los patrones de borde",
+   "Una hora de talla practica con el artesano trabajando a su lado",
+   "Todas las herramientas, bloques y materiales incluidos, y se queda con lo que hace",
+   "Traslados en tuk-tuk a un taller que no encontraria solo"
+  ],
+  "included": [
+   "Recogida y regreso en tuk-tuk en Kandy",
+   "el taller de una hora con un artesano local",
+   "todas las herramientas y materiales",
+   "la pieza que usted hace"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "propinas",
+   "piezas adicionales compradas en el taller"
+  ]
+ },
+ "kandy-full-day-private-tour-temple-of-the-tooth-peradeniya": {
+  "title": "Tour privado de dia completo en Kandy: Templo del Diente, Peradeniya y espectaculo cultural",
+  "metaTitle": "Kandy en tour privado de dia completo",
+  "metaDescription": "El dia completo de Kandy con guia privado: el Templo del Diente, el Buda de Bahirawakanda, el lago, talleres artesanales, Peradeniya y un espectaculo de danza.",
+  "shortDescription": "El dia completo de Kandy con guia privado: el Templo del Diente, el Buda de Bahirawakanda, el lago, talleres artesanales, el jardin botanico de Peradeniya y un espectaculo de danza de Kandy por la noche.",
+  "fullDescription": "Kandy resistio a portugueses y holandeses y cayo ante los britanicos solo en 1815, y todavia se comporta como una capital en lugar de una ciudad provincial. Un dia completo con un guia privado es lo que hace falta para ver por que.\n\nEl Templo del Diente es el centro de todo. Alberga una reliquia de Buda, es la razon por la que Kandy es Patrimonio de la Humanidad de la UNESCO, y la realeza de la isla estuvo historicamente ligada a su posesion. Tres pujas al dia abren la camara de la reliquia a una fila en movimiento, con tamborileros, y ajustar su visita a una de ellas marca la diferencia entre un templo y un acontecimiento.\n\nEl resto del dia se organiza alrededor de ello: el Buda de Bahirawakanda en la colina, 27 metros de hormigon blanco con la mejor vista sobre la ciudad; el lago, excavado por el ultimo rey en 1807; los talleres de batik, piedras preciosas y talla en madera de los que la corte se abastecia antiguamente; y el Jardin Botanico Real de Peradeniya, 60 hectareas en un meandro del rio Mahaweli.\n\nLa noche es un espectaculo de danza de Kandy, tambores, danza enmascarada y un final de caminata sobre fuego. Esta escenificado para visitantes y es honesto al respecto; los tambores son autenticos y valen la entrada por si solos.\n\nKandy fue la ultima capital de los reyes cingaleses, resistiendo a portugueses y holandeses hasta que los britanicos la tomaron en 1815, y el Templo de la Sagrada Reliquia del Diente junto al lago es la razon de su importancia: la reliquia, considerada un diente de Buda, es el objeto mas sagrado de la isla y su custodia legitimaba antiguamente la realeza. La camara de la reliquia abre para puja tres veces al dia, aproximadamente a las 5:30, 9:30 y 18:30, cuando comienzan los tambores y la fila pasa junto al relicario. La vestimenta cubre hombros y rodillas, los zapatos se quitan en la entrada, y el Esala Perahera en julio o agosto pasea el relicario sobre un elefante por la ciudad durante diez noches.",
+  "highlights": [
+   "El Templo del Diente, ajustado a un puja cuando el horario lo permite",
+   "El Buda de Bahirawakanda de 27 metros y la vista sobre la ciudad",
+   "Talleres de batik, piedras preciosas y talla en madera en el distrito artesanal",
+   "El Jardin Botanico Real de Peradeniya",
+   "Un espectaculo de danza y tambores de Kandy por la noche"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado y conductor-guia de habla inglesa",
+   "recogida y regreso al hotel en Kandy",
+   "todos los trayectos entre lugares",
+   "combustible y aparcamiento",
+   "guia durante todo el dia"
+  ],
+  "notIncluded": [
+   "Entradas al Templo del Diente, el jardin botanico y el espectaculo de danza",
+   "comidas y bebidas",
+   "propinas",
+   "compras en talleres"
+  ]
+ },
+ "sigiriya-pidurangala-and-a-jeep-safari-from-kandy-by-tuk-tuk": {
+  "title": "Sigiriya, Pidurangala y un safari en jeep desde Kandy en tuk-tuk",
+  "metaTitle": "Sigiriya y Pidurangala en tuk-tuk",
+  "metaDescription": "Un dia privado en tuk-tuk desde Kandy con el pais de las especias de Matale, la eleccion entre subir a Sigiriya o Pidurangala, las cuevas de Dambulla y un safari.",
+  "shortDescription": "Un dia privado en tuk-tuk desde Kandy con el pais de las especias de Matale, la eleccion entre subir a Sigiriya o Pidurangala, las cuevas de Dambulla y un safari en jeep por la tarde para elefantes.",
+  "fullDescription": "Dos rocas se alzan a un kilometro de distancia en la llanura al norte de Kandy y ofrecen cosas opuestas. Sigiriya es la arqueologia, jardines de agua, los frescos del muro espejo, las garras del leon, y la huella de un palacio real del siglo quinto en la cima, y la entrada cuesta entre 30 y 35 dolares estadounidenses. Pidurangala es el mirador: una subida mas barata y mas tosca que termina en una trepada entre rocas, y lo que se mira desde la cima es la propia Sigiriya.\n\nCual hacer se acuerda con su conductor ese mismo dia, y hacer ambas es posible pero dificil con el calor. Los fotografos suelen elegir Pidurangala; quien tenga interes en el sitio en si elige Sigiriya.\n\nLa mañana va hacia el norte por Matale, con un jardin de especias donde la canela, el cardamomo y la pimienta crecen juntos, y las cinco cuevas pintadas de Dambulla estan en el camino de regreso.\n\nEl safari cierra el dia: una salida en jeep por la tarde en Minneriya o un parque vecino, cuando los elefantes bajan al embalse. Hacer todo esto en tuk-tuk en lugar de en furgoneta es el caracter del dia, mas lento, mas caluroso, y mucho mas cercano al pais entre medio.\n\nSigiriya es una columna de roca de 200 metros que se eleva sobre la llanura de la zona seca, en la que el rey Kasyapa construyo su palacio en el siglo quinto tras usurpar el trono, y es un lugar de la UNESCO desde 1982. La subida son unos 1.200 escalones por escaleras y pasarelas de hierro, pasando por el muro espejo con sus grafitis milenarios y la galeria protegida de frescos, hasta las garras del leon que dan nombre a la roca y los cimientos del palacio en la cima. Toma una hora y media de ida y vuelta para la mayoria de la gente y es mejor comenzar a las 7:00, antes del calor y los autobuses; la entrada para visitantes extranjeros es una de las mas caras del pais, y Pidurangala, la roca vecina, ofrece la vista clasica de Sigiriya por una fraccion del precio.",
+  "highlights": [
+   "Una eleccion entre la subida a Sigiriya y la trepada mas barata de Pidurangala enfrente",
+   "El pais de las especias de Matale visto abierto por los lados en tuk-tuk",
+   "Los templos rupestres de Dambulla en el tramo de regreso",
+   "Un safari en jeep por la tarde para elefantes",
+   "Un conductor-guia privado para todo el dia"
+  ],
+  "included": [
+   "Tuk-tuk privado con conductor-guia de habla inglesa",
+   "recogida y regreso al hotel en Kandy",
+   "el jeep de safari",
+   "todos los trayectos",
+   "combustible"
+  ],
+  "notIncluded": [
+   "Entradas en Sigiriya o Pidurangala y Dambulla",
+   "el permiso del parque nacional",
+   "comidas y bebidas",
+   "propinas"
+  ]
+ },
+ "sigiriya-dambulla-and-a-village-safari-day-trip-from-kandy-by-tuk-tuk": {
+  "title": "Sigiriya, Dambulla y un safari de pueblo desde Kandy en tuk-tuk",
+  "metaTitle": "Sigiriya, Dambulla y safari de pueblo",
+  "metaDescription": "El triangulo cultural desde Kandy con un safari de pueblo añadido: templo hinduista, cuevas de Dambulla, subida a Sigiriya y carreta de bueyes.",
+  "shortDescription": "El triangulo cultural desde Kandy con un safari de pueblo añadido: el templo hinduista y las cuevas de Dambulla, la subida a Sigiriya, y una travesia en carreta de bueyes y catamaran por un pueblo en activo.",
+  "fullDescription": "El safari de pueblo es la parte de este dia que la gente no espera que le guste y suele recordar mejor. Atraviesa tierras de cultivo cerca de la roca, una carreta de bueyes por un camino, una travesia en catamaran por un embalse, una caminata por arrozales, y una comida cocinada en una casa de pueblo.\n\nAntes de eso, el dia hace el recorrido estandar hacia el norte: el templo hinduista Sri Muthumariamman en Matale con su gopuram pintado, y los templos rupestres de Dambulla, cinco cuevas bajo un saliente de granito pintadas de suelo a techo con unas 150 imagenes de Buda.\n\nSigiriya es la subida, 1.200 escalones hasta un tapon de granito de 200 metros a una ciudadela real del siglo quinto, pasando por los frescos del muro espejo y las garras del leon.\n\nHacer todo esto desde Kandy en tuk-tuk resulta en un dia largo y mucho menos aislado que una furgoneta. Siente el calor, ve los pueblos entre los lugares en lugar de observarlos a traves de un cristal, y el conductor es un guia en lugar de un chofer.\n\nEl horario importa mas que cualquier otra cosa este dia. Los 1.200 escalones de Sigiriya son de metal y roca descubiertos con casi nada de sombra, y hacia el final de la mañana tanto el calor como la cola en las escaleras son serios, una salida temprana marca toda la diferencia entre una buena subida y una prueba. En Dambulla hay que cubrir hombros y rodillas y quitarse los zapatos en la entrada, y hacia el mediodia el patio de piedra esta lo bastante caliente para doler, asi que lleve calcetines. De Kandy a Sigiriya son unas tres horas cada direccion en tuk-tuk; este es un dia largo por diseño.",
+  "highlights": [
+   "Un safari de pueblo en carreta de bueyes y catamaran por tierras de cultivo activas",
+   "Los 1.200 escalones de Sigiriya, los frescos y la ciudadela cumbre",
+   "Los templos rupestres de Dambulla y el templo hinduista de Matale",
+   "Todo el recorrido hecho en tuk-tuk en lugar de en una furgoneta cerrada",
+   "Una comida cocinada en una casa de pueblo en lugar de una parada de restaurante"
+  ],
+  "included": [
+   "Tuk-tuk o coche privado con conductor-guia de habla inglesa",
+   "recogida y regreso al hotel en Kandy",
+   "el safari de pueblo incluida la carreta de bueyes y la travesia en barco",
+   "todos los trayectos"
+  ],
+  "notIncluded": [
+   "Entradas en Sigiriya y Dambulla",
+   "bebidas",
+   "propinas",
+   "gastos personales"
+  ]
+ },
+ "private-sigiriya-day-tour-from-kandy-with-an-elephant-safari-and-spice": {
+  "title": "Tour privado de un dia a Sigiriya desde Kandy con safari de elefantes y jardin de especias",
+  "metaTitle": "Sigiriya privado con safari de elefantes",
+  "metaDescription": "Un dia privado del triangulo cultural desde Kandy: templo de Matale, jardin de especias, roca de Sigiriya y cuevas de Dambulla, con un safari.",
+  "shortDescription": "Un dia privado del triangulo cultural desde Kandy, el templo de Matale, un jardin de especias, la roca de Sigiriya y las cuevas de Dambulla, terminando con un safari en jeep por la tarde para elefantes.",
+  "fullDescription": "Esta es la version privada del gran dia hacia el norte, y lo que compra es la capacidad de moverse a su propio ritmo. En una furgoneta compartida el dia sigue un horario; en privado, si la subida le toma mas tiempo, o quiere una hora en el jardin de especias en lugar de veinte minutos, eso simplemente ocurre.\n\nLa ruta hacia el norte pasa por Matale, con el templo hinduista Sri Muthumariamman y su gopuram pintado, y un jardin de especias donde la canela, el cardamomo, la pimienta y la nuez moscada crecen todos en la misma parcela.\n\nSigiriya es la pieza central: 1.200 escalones pasando por los frescos del muro espejo hasta una ciudadela real del siglo quinto en la cima de un tapon de granito, con los jardines de agua trazados simetricamente abajo. Dambulla sigue, cinco cuevas pintadas bajo un saliente rocoso, frescas y oscuras, con unas 150 imagenes de Buda.\n\nEl safari cierra el dia. A ultima hora de la tarde en Minneriya o un parque vecino es cuando las manadas de elefantes bajan al embalse, y en la temporada seca esa reunion es la mas grande de su tipo en Asia. Regresa a Kandy por la noche.\n\nSigiriya es una columna de roca de 200 metros que se eleva sobre la llanura de la zona seca, en la que el rey Kasyapa construyo su palacio en el siglo quinto tras usurpar el trono, y es un lugar de la UNESCO desde 1982. La subida son unos 1.200 escalones por escaleras y pasarelas de hierro, pasando por el muro espejo con sus grafitis milenarios y la galeria protegida de frescos, hasta las garras del leon que dan nombre a la roca y los cimientos del palacio en la cima. Toma una hora y media de ida y vuelta para la mayoria de la gente y es mejor comenzar a las 7:00, antes del calor y los autobuses; la entrada para visitantes extranjeros es una de las mas caras del pais, y Pidurangala, la roca vecina, ofrece la vista clasica de Sigiriya por una fraccion del precio.",
+  "highlights": [
+   "Un vehiculo y guia privados, para que el dia se desarrolle a su ritmo",
+   "El templo hinduista de Matale y un jardin de especias en funcionamiento",
+   "Los jardines de agua, los frescos del muro espejo y la ciudadela cumbre de Sigiriya",
+   "Los templos rupestres de Dambulla y sus 150 imagenes de Buda",
+   "Un safari en jeep por la tarde cuando los elefantes vienen al agua"
+  ],
+  "included": [
+   "Vehiculo privado con aire acondicionado y conductor-guia de habla inglesa",
+   "recogida y regreso al hotel en Kandy",
+   "el jeep de safari",
+   "todos los trayectos entre lugares"
+  ],
+  "notIncluded": [
+   "Entradas en Sigiriya y Dambulla y el permiso del parque nacional",
+   "comidas y bebidas",
+   "propinas",
+   "compras en el jardin de especias"
+  ]
+ },
+ "minneriya-or-hurulu-eco-park-elephant-safari-from-dambulla": {
+  "title": "Safari de elefantes en Minneriya o el Parque Ecologico Hurulu desde Dambulla",
+  "metaTitle": "Safari de elefantes Minneriya/Hurulu",
+  "metaDescription": "Un safari en jeep de medio dia en Minneriya o el Parque Ecologico Hurulu para las mayores manadas de elefantes salvajes de Sri Lanka, con traslados desde Dambulla.",
+  "shortDescription": "Un safari en jeep de medio dia en Minneriya o el Parque Ecologico Hurulu para las mayores manadas de elefantes salvajes de Sri Lanka, con traslados desde Dambulla, Sigiriya o Habarana.",
+  "fullDescription": "El embalse de Minneriya se construyo en el siglo tercero d.C. y es la razon de uno de los grandes espectaculos de vida silvestre de Asia. A medida que avanza la temporada seca y el agua desaparece en otros lugares, el lecho del embalse se convierte en pasto fresco, y los elefantes convergen en el desde todo el bosque circundante, unos cientos de animales en un lugar, alimentandose, bañandose y socializando. Se llama la Reunion, y nada mas en Asia concentra elefantes salvajes asi.\n\nEl momento importa mas que cualquier otra cosa. La Reunion se intensifica durante los meses secos, aproximadamente de junio a septiembre, y en la temporada de lluvias las manadas se dispersan en el bosque y el embalse se inunda. Que parque use el jeep depende de donde esten realmente los animales esa semana: Minneriya, Kaudulla y el Parque Ecologico Hurulu estan todos a media hora entre si y los operadores se mueven entre ellos, por lo que la reserva nombra mas de uno.\n\nLa tarde es el momento adecuado para la salida, los elefantes bajan al agua a ultima hora del dia, y la luz es mejor. Tres horas en el parque con un conductor y rastreador que lo recorren a diario.\n\nLa entrega posterior en Kandy u otro lugar normalmente puede organizarse en lugar de un regreso, lo que convierte esto en una buena forma de dividir un dia de traslado.",
+  "highlights": [
+   "La Reunion de Minneriya, la mayor concentracion de elefantes salvajes asiaticos",
+   "Un embalse construido en el siglo tercero d.C. que todavia crea el espectaculo",
+   "El jeep se mueve entre Minneriya, Kaudulla y Hurulu segun las manadas",
+   "Una salida por la tarde, cuando los elefantes bajan al agua",
+   "Traslados al hotel incluidos, con entrega posterior disponible en lugar de un regreso"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Dambulla, Sigiriya o Habarana",
+   "un jeep 4x4 con conductor y rastreador",
+   "el safari en el parque",
+   "agua potable"
+  ],
+  "notIncluded": [
+   "El permiso de entrada al parque nacional, pagado en la puerta",
+   "comidas",
+   "propinas para el conductor y el rastreador",
+   "gastos personales"
+  ]
+ },
+ "sorabora-lake-sunrise-and-waterfalls-day-trip-from-kandy-with-a-village": {
+  "title": "Amanecer en el lago Sorabora y cascadas: excursion de un dia desde Kandy con visita a un pueblo",
+  "metaTitle": "Lago Sorabora al amanecer",
+  "metaDescription": "Un dia largo al este de Kandy para el amanecer en el lago Sorabora desde un bote tradicional, una visita a un pueblo, y las cascadas de Ratna Ella.",
+  "shortDescription": "Un dia largo al este de Kandy para el amanecer en el lago Sorabora desde un bote tradicional, una visita a un pueblo rural, y las cascadas de Kaluwa Wetuna y Ratna Ella, la segunda mas alta de Sri Lanka.",
+  "fullDescription": "Sorabora es un embalse cerca de Mahiyanganaya, al este de Kandy al otro lado de las colinas, y es antiguo, la compuerta se talló en un solo bloque de roca en el siglo segundo antes de nuestra era, y el nombre local, el Mar de Bintenna, no es una gran exageracion cuando la niebla se posa sobre el al amanecer.\n\nLlegar alli para el amanecer significa salir de Kandy en mitad de la noche, que es el precio de todo el viaje. Lo que obtiene es una hora en el agua en un bote tradicional mientras sube la luz, con las colinas detras y casi nadie mas fuera. Se fotografia extraordinariamente bien y no esta en ningun itinerario estandar.\n\nEl dia se traslada entonces a un pueblo rural en el pais de Bintenna, agricultura, cocina, y los asuntos ordinarios de un lugar bien fuera de la ruta turistica.\n\nLas cascadas lo cierran. Ratna Ella mide 111 metros, la segunda mas alta de Sri Lanka, alcanzada en una caminata por el bosque, y Kaluwa Wetuna es mas pequeña con una poza que merece la pena para nadar. Luego el largo trayecto de regreso, llegando a Kandy por la noche.\n\nKandy fue la ultima capital de los reyes cingaleses, resistiendo a portugueses y holandeses hasta que los britanicos la tomaron en 1815, y el Templo de la Sagrada Reliquia del Diente junto al lago es la razon de su importancia: la reliquia, considerada un diente de Buda, es el objeto mas sagrado de la isla y su custodia legitimaba antiguamente la realeza. La camara de la reliquia abre para puja tres veces al dia, aproximadamente a las 5:30, 9:30 y 18:30, cuando comienzan los tambores y la fila pasa junto al relicario. La vestimenta cubre hombros y rodillas, los zapatos se quitan en la entrada, y el Esala Perahera en julio o agosto pasea el relicario sobre un elefante por la ciudad durante diez noches.",
+  "highlights": [
+   "Amanecer desde un bote tradicional en el lago Sorabora, con niebla sobre el agua",
+   "Una compuerta de embalse tallada en una sola roca en el siglo segundo a.C.",
+   "Un pueblo rural en el pais de Bintenna, bien fuera de la ruta turistica",
+   "Ratna Ella, con 111 metros la segunda cascada mas alta de Sri Lanka",
+   "Un baño en las cascadas de Kaluwa Wetuna"
+  ],
+  "included": [
+   "Vehiculo privado con conductor-guia de habla inglesa",
+   "recogida y regreso al hotel en Kandy",
+   "el bote en el lago Sorabora",
+   "la visita al pueblo",
+   "guia en las cascadas"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "propinas",
+   "entradas cuando correspondan",
+   "gastos personales"
+  ]
+ },
+ "wakarewatta-nature-and-kandy-city-tuk-tuk-tour-with-a-sri-lankan-lunch": {
+  "title": "Tour de naturaleza en Wakarewatta y la ciudad de Kandy en tuk-tuk con almuerzo de Sri Lanka",
+  "metaTitle": "Wakarewatta y Kandy en tuk-tuk",
+  "metaDescription": "Medio dia en tuk-tuk que combina el tranquilo bosque de Wakarewatta y los miradores sobre Kandy con los lugares principales de la ciudad, y un almuerzo tradicional.",
+  "shortDescription": "Medio dia en tuk-tuk que combina el tranquilo bosque de Wakarewatta y los miradores sobre Kandy con los lugares principales de la ciudad, y un almuerzo tradicional de Sri Lanka en medio.",
+  "fullDescription": "La mayoria de los tours de la ciudad de Kandy se quedan en la carretera circular y visitan las mismas cuatro paradas. Este sube primero, a Wakarewatta en las colinas sobre la ciudad, donde el bosque y el te llegan hasta la carretera y los miradores miran directamente al lago y los tejados del templo.\n\nUn tuk-tuk es el vehiculo adecuado para ello, las carreteras que suben son estrechas, empinadas y llenas de curvas cerradas, y estar abierto por los lados a esa altitud es la mayor parte del placer. Su conductor es tambien el guia, lo que en Kandy suele significar alguien genuinamente local que se detendra donde valga la pena hacerlo.\n\nEl almuerzo es un arroz con curry de verdad, seis o siete platos servidos juntos en lugar de uno, en un lugar local en lugar de un restaurante turistico.\n\nLa tarde vuelve a bajar a la ciudad: el Templo del Diente desde fuera o dentro, la orilla del lago, el mercado, y el Buda de Bahirawakanda en la colina si hay tiempo. Es medio dia que cubre tanto el Kandy tranquilo como el animado, que es mas de lo que logran la mayoria de los tours de dia completo.\n\nSi el Templo del Diente esta en su lista, el codigo de vestimenta se aplica: hombros y rodillas cubiertos para todos, y zapatos y sombreros se quitan en la entrada. La camara de la reliquia en si solo abre durante las tres pujas diarias, y la fila en esos momentos es larga, su conductor sabra cual se ajusta mejor a su dia. El resto de la ruta no tiene restricciones.",
+  "highlights": [
+   "Las colinas de Wakarewatta sobre Kandy, donde el bosque se encuentra con el te",
+   "Miradores con vista directa al lago y los tejados del templo",
+   "Carreteras estrechas de curvas cerradas recorridas abiertas por los lados en tuk-tuk",
+   "Un almuerzo tradicional de arroz con curry en un lugar local",
+   "Los lugares de la ciudad por la tarde, con un conductor-guia realmente de aqui"
+  ],
+  "included": [
+   "Tuk-tuk privado con conductor-guia de habla inglesa",
+   "recogida y regreso al hotel en Kandy",
+   "un almuerzo de Sri Lanka",
+   "todos los trayectos"
+  ],
+  "notIncluded": [
+   "Entradas incluyendo el Templo del Diente",
+   "bebidas",
+   "propinas",
+   "gastos personales"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Experiencia de flyboard en Pattaya",
   "fullDescription": "Esta es una experiencia de 30 minutos en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye experiencia de flyboard, apoyo de un instructor, equipo de seguridad y duchas. No incluye fotos y recogida y regreso al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
