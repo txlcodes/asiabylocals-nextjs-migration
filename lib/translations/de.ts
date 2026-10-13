@@ -98702,6 +98702,220 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "pekoe-trail-stage-1-guided-hike-from-kandy-hanthana-to-galaha": {
+  "title": "Pekoe Trail Etappe 1, gefuehrte Wanderung ab Kandy: von Hanthana nach Galaha",
+  "metaTitle": "Pekoe Trail Etappe 1: Hanthana nach Galaha",
+  "metaDescription": "Die Eroeffnungsetappe des Pekoe Trail, von der Hanthana-Teeplantage oberhalb von Kandy ueber den Kamm nach Galaha, mit der Stadt unten und dem Bergland voraus.",
+  "shortDescription": "Die Eroeffnungsetappe des Pekoe Trail, gegangen von der Hanthana-Teeplantage oberhalb von Kandy ueber den Kamm nach Galaha, mit der Stadt unten auf der einen Seite und dem Bergland auf der anderen.",
+  "fullDescription": "Etappe 1 des Pekoe Trail beginnt auf der Hanthana-Plantage, auf dem Kamm direkt oberhalb von Kandy, was sie zur am besten zugaenglichen Etappe der gesamten 300-Kilometer-Route macht und zu jener mit dem besten Blick zurueck auf eine Stadt.\n\nDie Wanderung steigt durch die Plantage auf das Hanthana-Gebirge, sieben Gipfel in einer Reihe, mit Kandy und seinem See unten im Norden ausgebreitet und dem Bergland, das sich nach Sueden oeffnet. An einem klaren Morgen sehen Sie die Knuckles ueber das Tal und gelegentlich bis zum Adam’s Peak.\n\nVom Kamm aus faellt der Weg in Kiefern und dann zurueck in Tee, den Pflueckpfaden folgend in Richtung Galaha. Dies ist Wandern durch eine Arbeitslandschaft statt eine Wildnis: Sie kommen an Plantagenunterkuenften, Teefabriken und Pfluecken mit ihren Saecken vorbei, und der Guide erklaert, was Sie sehen, was einen gruenen Huegel in ein System mit einer Geschichte verwandelt.\n\nEtwa 15 Kilometer und ein solider Tag. Das Fahrzeug holt Sie in Galaha ab, es gibt also keinen Rueckweg zu laufen.\n\nEtwa fuenfzehn Kilometer und fuenf bis sechs Stunden Wandern, auf Plantagenpfaden statt einem angelegten Weg. Richtige Schuhe, keine Sandalen. Nach Regen gibt es Blutegel im Tee, harmlos, und jeder Guide trägt Salz, aber Blutegelsocken lohnen sich, falls Sie welche besitzen. Beginnen Sie fruh: Die Kammaussicht ist der Grund, diese Etappe zu machen, und gegen Mittag liegen die Wolken ueblicherweise darauf.",
+  "highlights": [
+   "Die erste Etappe des 300 km langen Pekoe Trail, beginnend auf der Hanthana-Plantage",
+   "Der Hanthana-Kamm, mit Kandy und seinem See unten ausgebreitet",
+   "Aussicht auf das Knuckles-Gebirge und, an einem klaren Tag, den Adam’s Peak",
+   "Kiefernwald und Teeplantagenpfade hinab nach Galaha",
+   "Eine Einwegwanderung mit dem wartenden Fahrzeug am Ziel"
+  ],
+  "included": [
+   "Transport von Kandy zum Trailhead und vom Ziel",
+   "ein englischsprachiger Guide",
+   "die gefuehrte Wanderung",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Trinkgelder",
+   "persoenliche Wanderausruestung",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "pekoe-trail-stage-3-guided-hike-from-kandy-loolkandura-to-tawalantenne": {
+  "title": "Pekoe Trail Etappe 3, gefuehrte Wanderung ab Kandy: von Loolkandura nach Tawalantenne",
+  "metaTitle": "Pekoe Trail Etappe 3: Loolkandura nach Tawalantenne",
+  "metaDescription": "Ein gefuehrter Tag auf Etappe 3 des Pekoe Trail, von Loolkandura, wo Ceylon-Tee 1867 begann, nach Tawalantenne durch die Plantagen, die folgten.",
+  "shortDescription": "Ein gefuehrter Tag auf Etappe 3 des Pekoe Trail, von Loolkandura, wo Ceylon-Tee 1867 begann, nach Tawalantenne, auf den Plantagenpfaden durch die folgenden Plantagen.",
+  "fullDescription": "Der Pekoe Trail ist eine markierte 300-Kilometer-Route durch Sri Lankas Teeland, eroeffnet 2023 und fast vollstaendig auf Wegen angelegt, die es schon vorher gab: die Plantagenstrassen, die Pfluecksteige und die Fusswege, die die Plantagen verbanden, bevor es Strassen zwischen ihnen gab.\n\nEtappe 3 beginnt in Loolkandura, wo die gesamte Industrie ihren Anfang nahm. James Taylor pflanzte hier 1867 auf 19 Morgen den ersten kommerziellen Tee Ceylons, nachdem die Kaffeekrankheit die vorherige Ernte der Insel zerstoert hatte. Die Grundmauern seines Bungalows und der Standort der urspruenglichen Fabrik befinden sich noch auf der Plantage, und der Tee, der dort waechst, stammt von diesen Pflanzungen ab.\n\nVon dort verlaeuft der Weg entlang der Hoehenlinien nach Tawalantenne, was das Vergnuegen des Wanderns im Teeland ist, die Pfade folgen dem Huegel statt ihn zu erklimmen, sodass die Anstrengung moderat bleibt, waehrend sich die Aussicht weiter oeffnet. Sie durchqueren aktive Plantagen mit arbeitenden Pfluecken, kommen an Unterkuenften vorbei, in denen Plantagenfamilien seit Generationen leben, und entlang von Kaemmen mit dem Knuckles-Gebirge ueber dem Tal.\n\nEin Guide zaehlt auf dieser Etappe: Die Geschichte ist ohne ihn unsichtbar, und die Plantagenpfade verzweigen sich staendig.\n\nKandy war die letzte Hauptstadt der singhalesischen Koenige und hielt gegen Portugiesen und Niederlaender durch, bis die Briten sie 1815 einnahmen, und der Tempel der Heiligen Zahnreliquie am See ist der Grund, warum sie wichtig ist: Die Reliquie, von der man glaubt, es sei ein Zahn des Buddha, ist das heiligste Objekt der Insel, und ihre Verwahrung legitimierte einst das Koenigtum. Die Reliquienkammer oeffnet dreimal taeglich fuer Puja, etwa um 5:30, 9:30 und 18:30 Uhr, wenn das Trommeln beginnt und die Schlange am Reliquienschrein vorbeizieht. Die Kleidung bedeckt Schultern und Knie, Schuhe werden am Eingang ausgezogen, und die Esala Perahera im Juli oder August fuehrt den Schrein auf einem Elefanten zehn Naechte lang durch die Stadt.",
+  "highlights": [
+   "Etappe 3 des Pekoe Trail, von Loolkandura nach Tawalantenne",
+   "Die Staette, wo James Taylor 1867 Ceylons ersten kommerziellen Tee pflanzte",
+   "Hoehenlinienpfade durch aktive Plantagen statt eines Aufstiegs",
+   "Arbeitende Pflueckerinnen und die Plantagenunterkuenfte, in denen Familien noch leben",
+   "Kammblicke auf das Knuckles-Gebirge"
+  ],
+  "included": [
+   "Transport von Kandy zum Trailhead und zurueck vom Ziel",
+   "ein englischsprachiger Guide",
+   "die gefuehrte Wanderung",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Trinkgelder",
+   "persoenliche Wanderausruestung",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "knuckles-range-full-day-guided-hike-from-kandy-with-a-farmhouse-lunch": {
+  "title": "Ganztagestour im Knuckles-Gebirge ab Kandy mit Mittagessen auf einem Bauernhof",
+  "metaTitle": "Knuckles-Gebirge ab Kandy",
+  "metaDescription": "Ein voller Wandertag im Knuckles-Schutzwald oberhalb von Kandy, durch Nebelwald zum Perumal-Ella-Wasserfall, mit Schwimmen und Mittagessen.",
+  "shortDescription": "Ein voller Wandertag im Knuckles-Schutzwald oberhalb von Kandy, durch Nebelwald und Grasland zum Perumal-Ella-Wasserfall, mit Schwimmen und einem sri-lankischen Mittagessen auf einem Bauernhof.",
+  "fullDescription": "Das Knuckles-Gebirge ist nach der Art benannt, wie seine Gipfel von Kandy aus wie eine geballte Faust aussehen, und es ist einer der wenigen Orte in Sri Lanka, an denen man einen Tag wandern kann, ohne auf eine Reisegruppe zu treffen. Es ist ein UNESCO-gelistetes Schutzgebiet mit Hochlandnebelwald, Patana-Grasland und Arten, die nirgendwo sonst existieren, das Gebirge liegt am Treffpunkt der feuchten und trockenen Zone, weshalb sich die Vegetation beim Durchqueren so scharf aendert.\n\nDie Wanderung steigt durch Tee und Sekundaerwald in den aelteren Wald darueber, wo die Baeume Moos und Epiphyten tragen und die Wolken fuer einen Grossteil des Vormittags in der Kronendecke liegen. Die Vogelbeobachtung ist hier gut und die endemischen Arten sind wirklich auffindbar: Gelbohr-Bulbul, Sri-Lanka-Brillenvogel, Dunkelblau-Schnaepper.\n\nPerumal Ella ist der Wendepunkt, ein Wasserfall mit einem Becken an der Basis, kalt genug, um ein Schock zu sein, und flach genug, um darin zu sitzen. Die meisten Gruppen halten hier eine Stunde.\n\nDas Mittagessen findet auf einem Bauernhof im Gebirge statt, Reis und Curry, dort gekocht, dort gegessen. Der Rueckweg folgt einer anderen Linie durch die Doerfer, sodass Sie den Vormittag nicht wiederholen.\n\nKandy war die letzte Hauptstadt der singhalesischen Koenige und hielt gegen Portugiesen und Niederlaender durch, bis die Briten sie 1815 einnahmen, und der Tempel der Heiligen Zahnreliquie am See ist der Grund, warum sie wichtig ist: Die Reliquie, von der man glaubt, es sei ein Zahn des Buddha, ist das heiligste Objekt der Insel, und ihre Verwahrung legitimierte einst das Koenigtum. Die Reliquienkammer oeffnet dreimal taeglich fuer Puja, etwa um 5:30, 9:30 und 18:30 Uhr, wenn das Trommeln beginnt und die Schlange am Reliquienschrein vorbeizieht. Die Kleidung bedeckt Schultern und Knie, Schuhe werden am Eingang ausgezogen, und die Esala Perahera im Juli oder August fuehrt den Schrein auf einem Elefanten zehn Naechte lang durch die Stadt.",
+  "highlights": [
+   "Ein voller Tag im UNESCO-gelisteten Knuckles-Schutzwald",
+   "Nebelwald, Patana-Grasland und der scharfe Uebergang von feucht zu trocken",
+   "Endemische Voegel einschliesslich des Gelbohr-Bulbuls und des Sri-Lanka-Brillenvogels",
+   "Ein Bad im Becken am Fuss des Perumal-Ella-Wasserfalls",
+   "Ein Reis-und-Curry-Mittagessen auf einem aktiven Bauernhof im Gebirge"
+  ],
+  "included": [
+   "Transport ab Kandy",
+   "ein englischsprachiger Wanderguide",
+   "die gefuehrte Wanderung",
+   "ein sri-lankisches Mittagessen auf einem Bauernhof",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer das Schutzgebiet, falls zutreffend",
+   "Trinkgelder",
+   "persoenliche Ausruestung",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "kandyan-village-tour-from-kandy-with-a-rice-and-curry-cooking-class": {
+  "title": "Kandy-Dorftour ab Kandy mit einem Reis-und-Curry-Kochkurs",
+  "metaTitle": "Kandy-Dorf und Kochkurs",
+  "metaDescription": "Der Pfad durch das Kandy-Dorf mit einem Kochkurs am Ende: Zimtschaelen und Palmwein-Zapfen am Morgen, dann mahlen, reiben und einen vollen Reis und Curry kochen.",
+  "shortDescription": "Der Pfad durch das Kandy-Dorf mit einem Kochkurs am Ende: Zimtschaelen und Palmwein-Zapfen am Morgen, dann mahlen, reiben und einen vollen Reis und Curry ueber Holzfeuer kochen und essen.",
+  "fullDescription": "Dies ist der Dorfvormittag mit dem Kochen im Mittelpunkt statt als Nebensache. Sie sehen das Land bei der Arbeit, Zimt, von Hand geschaelt, einen Kletterer auf einer Kokospalme, der Palmwein zieht, Gewuerzparzellen, wo Pfeffer und Kardamom zusammen wachsen, und dann kochen Sie mit dem, was daraus entsteht.\n\nReis und Curry ist das Nationalgericht und auf Englisch schlecht benannt: Es ist kein Curry mit Reis, sondern sechs oder sieben separate Gerichte, die zusammen gegessen werden, jedes auf seine eigene Art gekocht. Ein Dhal, temperiert mit Curryblaettern und Senfkoernern. Ein Kokossambol, zerstossen mit Chili und Limette. Jackfruit oder gruene Bohnen, geschmort in Kokosmilch. Ein gebratener Fisch oder ein Eier-Curry. Alles aufgebaut auf einer frisch gemahlenen Gewuerzbasis.\n\nSie machen die Arbeit: Kokosnuss auf einer traditionellen Hiramanaya-Raspel reiben, die Gewuerzpaste auf einem Stein mahlen, in Tontoepfen ueber Holzfeuer kochen, was sich ganz anders verhaelt als ein Gasring und die halbe Lektion ist. Der Gastgeber korrigiert dabei.\n\nDann setzen Sie sich und essen, was Sie zubereitet haben, was nach einem Vormittag voller Mahlen und Reiben deutlich besser schmeckt, als es in einem Restaurant waere.\n\nKandy war die letzte Hauptstadt der singhalesischen Koenige und hielt gegen Portugiesen und Niederlaender durch, bis die Briten sie 1815 einnahmen, und der Tempel der Heiligen Zahnreliquie am See ist der Grund, warum sie wichtig ist: Die Reliquie, von der man glaubt, es sei ein Zahn des Buddha, ist das heiligste Objekt der Insel, und ihre Verwahrung legitimierte einst das Koenigtum. Die Reliquienkammer oeffnet dreimal taeglich fuer Puja, etwa um 5:30, 9:30 und 18:30 Uhr, wenn das Trommeln beginnt und die Schlange am Reliquienschrein vorbeizieht. Die Kleidung bedeckt Schultern und Knie, Schuhe werden am Eingang ausgezogen, und die Esala Perahera im Juli oder August fuehrt den Schrein auf einem Elefanten zehn Naechte lang durch die Stadt.",
+  "highlights": [
+   "Zimtschaelen und Palmwein-Zapfen auf einem aktiven Kleinbetrieb",
+   "Kokosnuss auf einem Hiramanaya reiben und die Gewuerzpaste auf einem Stein mahlen",
+   "Sechs oder sieben Gerichte in Tontoepfen ueber Holzfeuer kochen",
+   "Den vollen Reis und Curry, den Sie gekocht haben, mit Ihren Gastgebern essen",
+   "Eine kleine Gruppe, sodass jeder tatsaechlich kocht statt nur zuzuschauen"
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt in Kandy",
+   "ein englischsprachiger Guide",
+   "die Besuche von Dorf und Parzellen",
+   "der Kochkurs mit allen Zutaten",
+   "die Mahlzeit, die Sie kochen"
+  ],
+  "notIncluded": [
+   "Getraenke ueber die zur Mahlzeit servierten hinaus",
+   "Trinkgelder",
+   "Gewuerzkaeufe",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "adams-peak-overnight-guided-climb-from-kandy-with-sunrise-at-the-summit": {
+  "title": "Naechtlicher gefuehrter Aufstieg zum Adam’s Peak ab Kandy mit Sonnenaufgang am Gipfel",
+  "metaTitle": "Adam’s Peak bei Nacht ab Kandy",
+  "metaDescription": "Der klassische naechtliche Aufstieg zum Adam’s Peak ab Kandy: Abfahrt gegen Mitternacht, 5.500 Stufen bei Laternenlicht mit einem Guide, Gipfel zum Sonnenaufgang.",
+  "shortDescription": "Der klassische naechtliche Aufstieg zum Adam’s Peak ab Kandy: Abfahrt gegen Mitternacht, 5.500 Stufen bei Laternenlicht mit einem Guide, Gipfel zum Sonnenaufgang, zurueck in Kandy am spaeten Vormittag.",
+  "fullDescription": "Der Adam’s Peak ist ein 2.243 Meter hoher Kegel inmitten eines 224 Quadratkilometer grossen Wildnisreservats, und er ist gleichzeitig fuer vier Religionen heilig. Buddhisten halten die Vertiefung am Gipfel fuer den Fussabdruck des Buddha, Hindus fuer den von Shiva, Muslime und Christen fuer den von Adam, weshalb die Pilgersaison zehntausende Menschen auf derselben Treppe sieht.\n\nDer Aufstieg erfolgt nachts, und nicht aus Dramatik. Es sind etwa 5.500 Stufen auf sieben Kilometern, und es tagsueber in den Tropen zu tun, waere brutal; es zwischen 2 und 5 Uhr morgens zu tun, ist lediglich hart. Der Pfad ist beleuchtet und mit Teestaenden gesaeumt waehrend der Saison von Dezember bis Mai, und in diesem Zeitraum ist es eine wirklich gemeinschaftliche Sache, Familien, Moenche, aeltere Pilger, die es barfuss machen.\n\nSie erreichen den Gipfel vor der Daemmerung. Bei klarem Wetter wirft der Sonnenaufgang den eigenen Schatten des Berges, ein perfektes Dreieck, ueber die Wolken nach Westen, der Grund, warum die meisten kommen. Der Tempel oben laeutet seine Glocke fuer jeden Pilger, der ihn erreicht hat.\n\nDann steigen Sie ab, was etwa genauso lange dauert und mehr schmerzt, und der Van bringt Sie durch den Morgen zurueck nach Kandy.\n\nKandy war die letzte Hauptstadt der singhalesischen Koenige und hielt gegen Portugiesen und Niederlaender durch, bis die Briten sie 1815 einnahmen, und der Tempel der Heiligen Zahnreliquie am See ist der Grund, warum sie wichtig ist: Die Reliquie, von der man glaubt, es sei ein Zahn des Buddha, ist das heiligste Objekt der Insel, und ihre Verwahrung legitimierte einst das Koenigtum. Die Reliquienkammer oeffnet dreimal taeglich fuer Puja, etwa um 5:30, 9:30 und 18:30 Uhr, wenn das Trommeln beginnt und die Schlange am Reliquienschrein vorbeizieht. Die Kleidung bedeckt Schultern und Knie, Schuhe werden am Eingang ausgezogen, und die Esala Perahera im Juli oder August fuehrt den Schrein auf einem Elefanten zehn Naechte lang durch die Stadt.",
+  "highlights": [
+   "Ein 2.243 Meter hoher heiliger Gipfel, bei Laternenlicht bestiegen, heilig fuer vier Religionen",
+   "Rund 5.500 Stufen, nachts gegangen, um die Hitze zu vermeiden",
+   "Der Sonnenaufgang vom Gipfel und der dreieckige Schatten des Berges ueber den Wolken",
+   "Die Pilgeratmosphaere in der Saison, mit Teestaenden den ganzen Weg hinauf",
+   "Rueckfahrten ab Kandy inklusive, kein separater Uebernachtungsaufenthalt noetig"
+  ],
+  "included": [
+   "Rueckfahrt ab Ihrem Hotel in Kandy im Van",
+   "ein englischsprachiger Guide fuer den Aufstieg",
+   "der Auf- und Abstieg"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke",
+   "warme Kleidung",
+   "Taschenlampen",
+   "Spenden am Gipfeltempel",
+   "Trinkgelder",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "private-kelani-river-rafting-day-trip-from-kandy-five-major-rapids": {
+  "title": "Privater Rafting-Tagesausflug auf dem Kelani-Fluss ab Kandy: fuenf grosse Stromschnellen",
+  "metaTitle": "Privates Rafting auf dem Kelani ab Kandy",
+  "metaDescription": "Die lange Strecke auf dem Kelani, fuenf grosse und vier kleinere Stromschnellen, als privater Ausflug ab Kandy, mit eigenem Guide, eigenem Boot und eigenem Tempo.",
+  "shortDescription": "Die lange Strecke auf dem Kelani, fuenf grosse und vier kleinere Stromschnellen, als privater Ausflug ab Kandy, mit eigenem Guide, eigenem Boot und einem Zeitplan, der Ihrer ist statt der einer Gruppe.",
+  "fullDescription": "Dies ist der volle Stromschnellenabschnitt statt der verkuerzten Version: fuenf grosse Stromschnellen und vier kleinere, einschliesslich der benannten Faelle, die die Guides beim Naehern ausrufen. Privat organisiert ist es ein anderer Tag als die Gruppenversion, Ihr eigenes Boot, Ihr eigener Guide, und kein Warten, bis ein Van mit zehn Leuten fertig umgezogen ist.\n\nWas die private Buchung tatsaechlich kauft, ist Zeit auf dem Wasser. Gruppenausfluege folgen einem Zeitplan, der vom Start der naechsten Gruppe bestimmt wird; ein privates Boot kann zurueckfahren und eine Stromschnelle noch einmal befahren, in den flachen Abschnitten laenger zum Schwimmen anhalten, oder das Ganze langsam angehen. Wenn Sie mit Kindern reisen oder mit jemandem, der sich vor dem Wasser fuerchtet, ist diese Flexibilitaet mehr wert, als es klingt.\n\nDer Kelani bei Kitulgala ist mit 2 bis 3 bewertet, was Anfaengerwasser mit echter Kraft ist. Die Guides sind qualifiziert und das Briefing deckt Paddelkommandos und Schwimmposition ab, bevor jemand startet. Zwischen den Stromschnellen oeffnet sich der Fluss und die Stroemung faellt auf nichts.\n\nDie Fahrt von Kandy dauert zwei Stunden pro Strecke durch Ginigathena und das Teeland, und es ist eine gute Strasse fuer die Landschaft, selbst ohne den Fluss am Ende.\n\nKandy war die letzte Hauptstadt der singhalesischen Koenige und hielt gegen Portugiesen und Niederlaender durch, bis die Briten sie 1815 einnahmen, und der Tempel der Heiligen Zahnreliquie am See ist der Grund, warum sie wichtig ist: Die Reliquie, von der man glaubt, es sei ein Zahn des Buddha, ist das heiligste Objekt der Insel, und ihre Verwahrung legitimierte einst das Koenigtum. Die Reliquienkammer oeffnet dreimal taeglich fuer Puja, etwa um 5:30, 9:30 und 18:30 Uhr, wenn das Trommeln beginnt und die Schlange am Reliquienschrein vorbeizieht. Die Kleidung bedeckt Schultern und Knie, Schuhe werden am Eingang ausgezogen, und die Esala Perahera im Juli oder August fuehrt den Schrein auf einem Elefanten zehn Naechte lang durch die Stadt.",
+  "highlights": [
+   "Die volle Strecke, fuenf grosse und vier kleinere Stromschnellen",
+   "Ein privates Boot und Guide, sodass der Tag in Ihrem Tempo laeuft",
+   "Die Option, eine Stromschnelle zweimal zu befahren oder laenger in den Schwimmabschnitten zu bleiben",
+   "Wasser der Klasse 2-3: keine Erfahrung noetig, aber echte Kraft dabei",
+   "Private Transfers ab und zurueck zu Ihrem Hotel in Kandy"
+  ],
+  "included": [
+   "Private Rueckfahrten ab Ihrem Hotel in Kandy",
+   "ein privates Boot mit qualifiziertem Guide",
+   "Helm, Schwimmweste und Paddel",
+   "Sicherheitsbriefing",
+   "Umkleidemoeglichkeiten"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder",
+   "Flussfotografie",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "kelani-river-rafting-day-from-kandy-with-guides-and-transfers": {
+  "title": "Kelani-Fluss-Rafting-Tag ab Kandy mit Guides und Transfers",
+  "metaTitle": "Rafting auf dem Kelani ab Kandy",
+  "metaDescription": "Ein voller Tag in Kitulgala mit einer von einem Instruktor gefuehrten Fahrt durch die drei Hauptstromschnellen des Kelani, mit Rueckfahrten ab Kandy.",
+  "shortDescription": "Ein voller Tag in Kitulgala mit einer von einem Instruktor gefuehrten Fahrt durch die drei Hauptstromschnellen des Kelani und vier kleinere, mit Rueckfahrten ab Kandy und Zeit im Wasser zwischen den Sets.",
+  "fullDescription": "Kitulgala ist Sri Lankas Rafting-Stadt, zwei Stunden suedwestlich von Kandy auf der feuchten Seite der Huegel. Der Kelani faellt hier durch einen Stromschnellenabschnitt, der mit 2 bis 3 bewertet ist, gross genug, um Wasser ueber das Boot zu werfen, klein genug, dass niemand Erfahrung braucht.\n\nDiese Version befaehrt die kuerzere der beiden Standardstrecken: drei grosse Stromschnellen und vier kleinere, mit einem Instruktor in jedem Boot, der die Paddelzuege ansagt. Das Briefing vor dem Start deckt die Paddelkommandos ab und, nuetzlicher, was zu tun ist, wenn man im Wasser landet, was auf einem belebten Boot eine vernuenftige Moeglichkeit und kein Problem ist.\n\nZwischen den Stromschnellen-Sets wird der Fluss flach und Sie koennen aussteigen und treiben, was an einem heissen Tag der Teil ist, an den sich Leute erinnern. Der Tag umfasst Rueckfahrten ab Kandy und Zeit an der Basis zum Umziehen danach.\n\nDer Fluss ist zwischen Mai und Juli und wieder im November und Dezember am staerksten. In einer Trockenperiode werden die Stromschnellen sanfter und der Ausflug wird milder statt kuerzer, nuetzlich zu wissen, wenn Sie Daten danach waehlen.\n\nKandy war die letzte Hauptstadt der singhalesischen Koenige und hielt gegen Portugiesen und Niederlaender durch, bis die Briten sie 1815 einnahmen, und der Tempel der Heiligen Zahnreliquie am See ist der Grund, warum sie wichtig ist: Die Reliquie, von der man glaubt, es sei ein Zahn des Buddha, ist das heiligste Objekt der Insel, und ihre Verwahrung legitimierte einst das Koenigtum. Die Reliquienkammer oeffnet dreimal taeglich fuer Puja, etwa um 5:30, 9:30 und 18:30 Uhr, wenn das Trommeln beginnt und die Schlange am Reliquienschrein vorbeizieht. Die Kleidung bedeckt Schultern und Knie, Schuhe werden am Eingang ausgezogen, und die Esala Perahera im Juli oder August fuehrt den Schrein auf einem Elefanten zehn Naechte lang durch die Stadt.",
+  "highlights": [
+   "Drei grosse und vier kleinere Stromschnellen auf dem Kelani, bewertet mit 2 bis 3",
+   "Ein Instruktor in jedem Boot, und ein vollstaendiges Sicherheitsbriefing vor dem Start",
+   "Schwimmen und Treiben im ruhigen Wasser zwischen den Stromschnellen-Sets",
+   "Rueckfahrten ab Ihrem Hotel in Kandy inklusive",
+   "Keine Erfahrung noetig, dies ist ein Fluss fuer Erstlinge"
+  ],
+  "included": [
+   "Rueckfahrten ab Ihrem Hotel in Kandy",
+   "die Rafting-Sitzung mit qualifizierten Instruktoren",
+   "Helm, Schwimmweste und Paddel",
+   "Sicherheitsbriefing",
+   "Umkleidemoeglichkeiten an der Basis"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder",
+   "Fotos des Flussbetreibers",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "kitulgala-white-water-rafting-from-kandy-with-hotel-transfers": {
+  "title": "Kitulgala-Wildwasser-Rafting ab Kandy mit Hoteltransfers",
+  "metaTitle": "Rafting Kitulgala ab Kandy",
+  "metaDescription": "Eine kuerzere Halbtagesversion der Kitulgala-Rafting-Tour: klimatisierte Fahrt ab Kandy, der volle Stromschnellenabschnitt des Kelani.",
+  "shortDescription": "Eine kuerzere Halbtagesversion der Kitulgala-Rafting-Tour: eine klimatisierte Fahrt ab Kandy, der volle Stromschnellenabschnitt des Kelani einschliesslich Virgin’s Breast und Killer Falls, zurueck am frueren Nachmittag.",
+  "fullDescription": "Dies ist die effiziente Version. Wo die Ganztagesausfluege die Fahrt mit Wasserfaellen und Teefabriken auffuellen, geht diese nach Kitulgala, befaehrt den Fluss und kommt zurueck, etwa fuenf und eine halbe Stunde Tuer zu Tuer, was den Rest des Tages in Kandy intakt laesst.\n\nDie Fahrt umfasst fuenf nennenswerte Stromschnellen und vier kleinere, bewertet mit 2 bis 3. Sie haben Namen, und die Guides verwenden sie: Virgin’s Breast, Killer Falls, Butter Crunch. Keine davon erfordert Erfahrung, und jedes Boot trägt einen Guide, der die Paddelzuege ansagt und die Linie durch das Wasser handhabt. Zwischen den Stromschnellen wird der Fluss flach und Sie koennen aussteigen und schwimmen, was an einem heissen Tag die Haelfte des Grundes ist, warum Leute kommen.\n\nDer Transport ist ein klimatisiertes Fahrzeug statt eines Tuk-Tuks, was auf der zweistuendigen Fahrt pro Strecke zaehlt und mehr zaehlt, wenn es regnet. Alle Sicherheitsausruestung wird gestellt und das Briefing findet statt, bevor jemand sich dem Wasser naehert.\n\nKeine Erfahrung oder Schwimmfaehigkeit ist erforderlich, jedes Boot hat einen Guide, Schwimmwesten und Helme werden durchgehend getragen, und das Sicherheitsbriefing findet an Land statt, bevor jemand einsteigt. Kitulgala liegt in der feuchten Zone, daher laeuft der Fluss das ganze Jahr und Regen ist wahrscheinlich, egal in welchem Monat; bringen Sie Wechselkleidung mit und lassen Sie Handys und Geldboersen im Fahrzeug, statt einem trockenen Beutel zu vertrauen. Teilen Sie uns bei der Buchung die Altersangaben Ihrer Gruppe mit, da Betreiber ihre eigenen Mindestalter festlegen.",
+  "highlights": [
+   "Der volle Kelani-Stromschnellenabschnitt, fuenf grosse und vier kleine Stromschnellen",
+   "Benannte Stromschnellen einschliesslich Virgin’s Breast und Killer Falls, bewertet mit 2 bis 3",
+   "Klimatisierte Transfers ab und zurueck zu Ihrem Hotel in Kandy",
+   "Schwimmstopps im ruhigen Wasser zwischen den Stromschnellen",
+   "Zurueck in Kandy am frueren Nachmittag mit dem Rest des Tages frei"
+  ],
+  "included": [
+   "Klimatisierte Transfers ab und zu Ihrem Hotel in Kandy",
+   "die Rafting-Sitzung mit einem qualifizierten Flussguide",
+   "Helm, Schwimmweste und Paddel",
+   "Sicherheitsbriefing",
+   "Umkleidemoeglichkeiten"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder",
+   "Fotos oder Videos des Flussbetreibers",
+   "persoenliche Ausgaben"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Flyboard-Erlebnis in Pattaya",
   "fullDescription": "Dies ist ein 30-minütiges Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Flyboard-Erlebnis, Betreuung durch einen Instructor, Sicherheitsausrüstung und Duschen. Nicht enthalten sind Fotos und Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",

@@ -98702,6 +98702,220 @@ export const ES_TOURS: Record<string, TourT> = {
    "propinas"
   ]
  },
+ "pekoe-trail-stage-1-guided-hike-from-kandy-hanthana-to-galaha": {
+  "title": "Pekoe Trail etapa 1, caminata guiada desde Kandy: de Hanthana a Galaha",
+  "metaTitle": "Pekoe Trail etapa 1: Hanthana a Galaha",
+  "metaDescription": "La etapa inaugural del Pekoe Trail, desde la plantacion de te Hanthana sobre Kandy hasta Galaha, con la ciudad abajo y las montañas delante.",
+  "shortDescription": "La etapa inaugural del Pekoe Trail, recorrida desde la plantacion de te Hanthana sobre Kandy a traves de la cresta hasta Galaha, con la ciudad abajo de un lado y las montañas delante del otro.",
+  "fullDescription": "La etapa 1 del Pekoe Trail comienza en la plantacion de Hanthana, en la cresta justo encima de Kandy, lo que la convierte en la etapa mas accesible de toda la ruta de 300 kilometros y la que tiene la mejor vista de vuelta sobre una ciudad.\n\nLa caminata sube por la plantacion hasta la cordillera de Hanthana, siete picos en fila, con Kandy y su lago extendidos abajo al norte y las montañas abriendose hacia el sur. En una mañana clara se puede ver la cordillera de Knuckles al otro lado del valle y, en ocasiones, hasta Adam's Peak.\n\nDesde la cresta el sendero desciende a pinos y luego vuelve al te, siguiendo los senderos de recoleccion hacia Galaha. Esto es caminar por un paisaje de trabajo en lugar de una naturaleza virgen: se pasa junto a viviendas de plantacion, fabricas de te y recolectores con sus sacos, y el guia explica lo que se esta viendo, lo que convierte una ladera verde en un sistema con una historia.\n\nUnos 15 kilometros y un buen dia completo. El vehiculo le recoge en Galaha, asi que no hay tramo de regreso a pie.\n\nUnos quince kilometros y de cinco a seis horas de caminata, por senderos de plantacion en lugar de un camino acondicionado. Calzado adecuado, no sandalias. Tras la lluvia hay sanguijuelas en el te, inofensivas y todo guia lleva sal, pero los calcetines antisanguijuelas valen la pena si los tiene. Empiece temprano: la vista de la cresta es la razon para hacer esta etapa, y hacia el mediodia las nubes suelen cubrirla.",
+  "highlights": [
+   "La primera etapa del Pekoe Trail de 300 km, comenzando en la plantacion de Hanthana",
+   "La cresta de Hanthana, con Kandy y su lago extendidos abajo",
+   "Vistas de la cordillera de Knuckles y, en un dia claro, Adam’s Peak",
+   "Bosque de pinos y senderos de plantacion bajando hacia Galaha",
+   "Una caminata de un solo sentido con el vehiculo esperando al final"
+  ],
+  "included": [
+   "Transporte de Kandy al inicio del sendero y desde el final",
+   "un guia de habla inglesa",
+   "la caminata guiada",
+   "agua potable"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "propinas",
+   "equipo de senderismo personal",
+   "gastos personales"
+  ]
+ },
+ "pekoe-trail-stage-3-guided-hike-from-kandy-loolkandura-to-tawalantenne": {
+  "title": "Pekoe Trail etapa 3, caminata guiada desde Kandy: de Loolkandura a Tawalantenne",
+  "metaTitle": "Pekoe Trail etapa 3: Loolkandura a Tawalantenne",
+  "metaDescription": "Un dia guiado en la etapa 3 del Pekoe Trail, desde Loolkandura, donde el te de Ceilan comenzo en 1867, hasta Tawalantenne a traves de las plantaciones.",
+  "shortDescription": "Un dia guiado en la etapa 3 del Pekoe Trail, desde Loolkandura, donde el te de Ceilan comenzo en 1867, hasta Tawalantenne, caminando los senderos de plantacion que siguieron.",
+  "fullDescription": "El Pekoe Trail es una ruta señalizada de 300 kilometros a traves del pais del te de Sri Lanka, inaugurada en 2023 y construida casi por completo sobre senderos que ya existian: los caminos de plantacion, las sendas de recoleccion y los senderos que conectaban las plantaciones antes de que hubiera carreteras entre ellas.\n\nLa etapa 3 comienza en Loolkandura, donde empezo toda la industria. James Taylor planto aqui el primer te comercial de Ceilan en 1867 en 19 acres, tras que la plaga del cafe destruyera el cultivo anterior de la isla. Los cimientos de su bungalow y el sitio de la fabrica original todavia estan en la plantacion, y el te que crece alrededor desciende de aquellas plantaciones.\n\nDesde alli el sendero va hacia Tawalantenne siguiendo las curvas de nivel, que es el placer de caminar por el pais del te, los senderos siguen la ladera en lugar de subir por encima, por lo que el esfuerzo se mantiene moderado mientras las vistas se abren. Se atraviesan plantaciones en funcionamiento con recolectores trabajando, viviendas donde familias de plantacion llevan generaciones viviendo, y crestas con la cordillera de Knuckles al otro lado del valle.\n\nUn guia importa en esta etapa: la historia es invisible sin uno, y los senderos de plantacion se bifurcan constantemente.\n\nKandy fue la ultima capital de los reyes cingaleses, resistiendo a portugueses y holandeses hasta que los britanicos la tomaron en 1815, y el Templo de la Sagrada Reliquia del Diente junto al lago es la razon de su importancia: la reliquia, considerada un diente de Buda, es el objeto mas sagrado de la isla y su custodia legitimaba antiguamente la realeza. La camara de la reliquia abre para puja tres veces al dia, aproximadamente a las 5:30, 9:30 y 18:30, cuando comienzan los tambores y la fila pasa junto al relicario. La vestimenta cubre hombros y rodillas, los zapatos se quitan en la entrada, y el Esala Perahera en julio o agosto pasea el relicario sobre un elefante por la ciudad durante diez noches.",
+  "highlights": [
+   "La etapa 3 del Pekoe Trail, de Loolkandura a Tawalantenne",
+   "El lugar donde James Taylor planto el primer te comercial de Ceilan en 1867",
+   "Senderos por curvas de nivel a traves de plantaciones en funcionamiento en lugar de una subida",
+   "Recolectores trabajando y las viviendas de plantacion donde todavia viven familias",
+   "Vistas de cresta sobre la cordillera de Knuckles"
+  ],
+  "included": [
+   "Transporte de Kandy al inicio del sendero y de regreso desde el final",
+   "un guia de habla inglesa",
+   "la caminata guiada",
+   "agua potable"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "propinas",
+   "equipo de senderismo personal",
+   "gastos personales"
+  ]
+ },
+ "knuckles-range-full-day-guided-hike-from-kandy-with-a-farmhouse-lunch": {
+  "title": "Caminata guiada de dia completo en la cordillera de Knuckles desde Kandy con almuerzo en una granja",
+  "metaTitle": "Cordillera de Knuckles desde Kandy",
+  "metaDescription": "Un dia completo de caminata por el bosque protegido de Knuckles sobre Kandy, hasta la cascada de Perumal Ella, con baño y almuerzo de Sri Lanka en una granja.",
+  "shortDescription": "Un dia completo de caminata por el bosque protegido de Knuckles sobre Kandy, a traves de bosque de niebla y pastizales hasta la cascada de Perumal Ella, con baño y almuerzo de Sri Lanka en una granja.",
+  "fullDescription": "La cordillera de Knuckles debe su nombre a como sus picos parecen un puño cerrado desde Kandy, y es uno de los pocos lugares de Sri Lanka donde se puede caminar un dia sin encontrar un grupo turistico. Es una zona protegida declarada por la UNESCO que alberga bosque de niebla de altitud, pastizales de patana y especies que no existen en ningun otro lugar, la cordillera se encuentra en el punto de encuentro de las zonas humeda y seca, por lo que la vegetacion cambia tan bruscamente al cruzarla.\n\nLa caminata sube por te y bosque secundario hasta el bosque mas antiguo de arriba, donde los arboles llevan musgo y epifitas y las nubes se posan en el dosel durante gran parte de la mañana. La observacion de aves aqui es buena y las especies endemicas son genuinamente encontrables: bulbul de orejas amarillas, anteojito de Sri Lanka, papamoscas azul oscuro.\n\nPerumal Ella es el punto de retorno, una cascada con una poza en la base lo bastante fria para ser un shock y lo bastante poco profunda para sentarse en ella. La mayoria de los grupos se detienen aqui una hora.\n\nEl almuerzo es en una granja de la cordillera, arroz con curry, cocinado alli, comido alli. El regreso sigue una ruta distinta de vuelta por los pueblos, asi que no se repite el camino de la mañana.\n\nKandy fue la ultima capital de los reyes cingaleses, resistiendo a portugueses y holandeses hasta que los britanicos la tomaron en 1815, y el Templo de la Sagrada Reliquia del Diente junto al lago es la razon de su importancia: la reliquia, considerada un diente de Buda, es el objeto mas sagrado de la isla y su custodia legitimaba antiguamente la realeza. La camara de la reliquia abre para puja tres veces al dia, aproximadamente a las 5:30, 9:30 y 18:30, cuando comienzan los tambores y la fila pasa junto al relicario. La vestimenta cubre hombros y rodillas, los zapatos se quitan en la entrada, y el Esala Perahera en julio o agosto pasea el relicario sobre un elefante por la ciudad durante diez noches.",
+  "highlights": [
+   "Un dia completo en el bosque protegido de Knuckles declarado por la UNESCO",
+   "Bosque de niebla, pastizales de patana y la nitida transicion de zona humeda a seca",
+   "Aves endemicas incluido el bulbul de orejas amarillas y el anteojito de Sri Lanka",
+   "Un baño en la poza al pie de la cascada de Perumal Ella",
+   "Un almuerzo de arroz con curry en una granja en funcionamiento de la cordillera"
+  ],
+  "included": [
+   "Transporte desde Kandy",
+   "un guia de senderismo de habla inglesa",
+   "la caminata guiada",
+   "un almuerzo de Sri Lanka en una granja",
+   "agua potable"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a la zona protegida cuando correspondan",
+   "propinas",
+   "equipo personal",
+   "gastos personales"
+  ]
+ },
+ "kandyan-village-tour-from-kandy-with-a-rice-and-curry-cooking-class": {
+  "title": "Tour del pueblo de Kandy desde Kandy con clase de cocina de arroz con curry",
+  "metaTitle": "Pueblo de Kandy y clase de cocina",
+  "metaDescription": "El sendero del pueblo de Kandy con una clase de cocina al final: pelado de canela, extraccion de toddy, luego cocinar un arroz con curry completo.",
+  "shortDescription": "El sendero del pueblo de Kandy con una clase de cocina al final: pelado de canela y extraccion de toddy por la mañana, luego molturar, rallar y cocinar un arroz con curry completo sobre fuego de leña, y comerlo.",
+  "fullDescription": "Esta es la mañana de pueblo con la cocina convertida en central en lugar de incidental. Vea el campo en funcionamiento, canela pelada a mano, un trepador subido a una palmera de coco extrayendo toddy, parcelas de especias donde la pimienta y el cardamomo crecen juntos, y luego cocine con lo que sale de ello.\n\nEl arroz con curry es la comida nacional y esta mal nombrado en ingles: no es un curry con arroz sino seis o siete platos separados comidos juntos, cada uno cocinado a su manera. Un dhal temperado con hojas de curry y semillas de mostaza. Un sambol de coco majado con chile y lima. Una jaca o una judia verde cocida en leche de coco. Un pescado frito o un curry de huevo. Todo construido sobre una base de especias molidas frescas.\n\nUsted hace el trabajo: rallar coco en un raspador tradicional hiramanaya, moler la pasta de especias en una piedra, cocinar en ollas de barro sobre fuego de leña, que no se comporta en nada como un quemador de gas y es media leccion. El anfitrion corrige sobre la marcha.\n\nLuego se sienta y come lo que preparo, que tras una mañana de moler y rallar sabe considerablemente mejor de lo que seria en un restaurante.\n\nKandy fue la ultima capital de los reyes cingaleses, resistiendo a portugueses y holandeses hasta que los britanicos la tomaron en 1815, y el Templo de la Sagrada Reliquia del Diente junto al lago es la razon de su importancia: la reliquia, considerada un diente de Buda, es el objeto mas sagrado de la isla y su custodia legitimaba antiguamente la realeza. La camara de la reliquia abre para puja tres veces al dia, aproximadamente a las 5:30, 9:30 y 18:30, cuando comienzan los tambores y la fila pasa junto al relicario. La vestimenta cubre hombros y rodillas, los zapatos se quitan en la entrada, y el Esala Perahera en julio o agosto pasea el relicario sobre un elefante por la ciudad durante diez noches.",
+  "highlights": [
+   "Pelado de canela y extraccion de toddy en una pequeña plantacion en funcionamiento",
+   "Rallar coco en un hiramanaya y moler la pasta de especias en una piedra",
+   "Cocinar seis o siete platos en ollas de barro sobre fuego de leña",
+   "Comer el arroz con curry completo que usted cocino, con sus anfitriones",
+   "Un grupo pequeño, para que todos realmente cocinen en lugar de solo mirar"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Kandy",
+   "un guia de habla inglesa",
+   "las visitas al pueblo y las parcelas",
+   "la clase de cocina con todos los ingredientes",
+   "la comida que usted cocina"
+  ],
+  "notIncluded": [
+   "Bebidas mas alla de las servidas con la comida",
+   "propinas",
+   "compras de especias",
+   "gastos personales"
+  ]
+ },
+ "adams-peak-overnight-guided-climb-from-kandy-with-sunrise-at-the-summit": {
+  "title": "Ascenso nocturno guiado al Adam's Peak desde Kandy con amanecer en la cima",
+  "metaTitle": "Adam’s Peak de noche desde Kandy",
+  "metaDescription": "La ascension nocturna clasica al Adam's Peak desde Kandy: salida hacia la medianoche, 5.500 escalones con linterna y un guia, cima para el amanecer.",
+  "shortDescription": "La ascension nocturna clasica al Adam's Peak desde Kandy: salida hacia la medianoche, 5.500 escalones con linterna y un guia, cima alcanzada para el amanecer, de vuelta en Kandy a media mañana.",
+  "fullDescription": "El Adam's Peak es un cono de 2.243 metros en medio de un santuario silvestre de 224 kilometros cuadrados, y es sagrado para cuatro religiones a la vez. Los budistas sostienen que la depresion en la cima es la huella de Buda, los hinduistas que es la de Shiva, musulmanes y cristianos que es la de Adan, por lo que la temporada de peregrinacion ve a decenas de miles de personas en la misma escalera.\n\nLa subida se hace de noche, y no por el dramatismo. Son aproximadamente 5.500 escalones en siete kilometros, y hacerlo de dia en los tropicos seria brutal; hacerlo entre las 2 y las 5 de la madrugada es simplemente duro. El camino esta iluminado y bordeado de puestos de te durante la temporada de diciembre a mayo, y en ese periodo es algo genuinamente comunitario, familias, monjes, peregrinos ancianos haciendolo descalzos.\n\nLlega a la cima antes del amanecer. En clima claro, el amanecer proyecta la propia sombra de la montaña, un triangulo perfecto, sobre las nubes hacia el oeste, la razon por la que la mayoria viene. El templo en la cima hace sonar su campana por cada peregrino que lo alcanza.\n\nLuego baja, lo que toma casi el mismo tiempo y duele mas, y la furgoneta le devuelve a Kandy durante la mañana.\n\nKandy fue la ultima capital de los reyes cingaleses, resistiendo a portugueses y holandeses hasta que los britanicos la tomaron en 1815, y el Templo de la Sagrada Reliquia del Diente junto al lago es la razon de su importancia: la reliquia, considerada un diente de Buda, es el objeto mas sagrado de la isla y su custodia legitimaba antiguamente la realeza. La camara de la reliquia abre para puja tres veces al dia, aproximadamente a las 5:30, 9:30 y 18:30, cuando comienzan los tambores y la fila pasa junto al relicario. La vestimenta cubre hombros y rodillas, los zapatos se quitan en la entrada, y el Esala Perahera en julio o agosto pasea el relicario sobre un elefante por la ciudad durante diez noches.",
+  "highlights": [
+   "Una cumbre sagrada de 2.243 metros subida con linterna, sagrada para cuatro religiones",
+   "Unos 5.500 escalones, hechos de noche para evitar el calor",
+   "El amanecer desde la cima y la sombra triangular de la montaña sobre las nubes",
+   "El ambiente de peregrinacion en temporada, con puestos de te todo el camino",
+   "Traslados de ida y vuelta desde Kandy, sin necesidad de pernoctacion aparte"
+  ],
+  "included": [
+   "Transporte de ida y vuelta desde su hotel en Kandy en furgoneta",
+   "un guia de habla inglesa para la subida",
+   "la subida y la bajada"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "ropa de abrigo",
+   "linternas",
+   "donativos en el templo de la cima",
+   "propinas",
+   "gastos personales"
+  ]
+ },
+ "private-kelani-river-rafting-day-trip-from-kandy-five-major-rapids": {
+  "title": "Excursion privada de rafting en el rio Kelani desde Kandy: cinco grandes rapidos",
+  "metaTitle": "Rafting privado en el Kelani desde Kandy",
+  "metaDescription": "El tramo largo del Kelani, cinco grandes rapidos y cuatro menores, como excursion privada desde Kandy, con su propio guia, su propia balsa y su propio ritmo.",
+  "shortDescription": "El tramo largo del Kelani, cinco grandes rapidos y cuatro menores, como excursion privada desde Kandy, con su propio guia, su propia balsa y un horario que es suyo en lugar del de un grupo.",
+  "fullDescription": "Este es el tramo completo de rapidos en lugar de la version acortada: cinco grandes rapidos y cuatro mas pequeños, incluidas las caidas con nombre que los guias anuncian al acercarse. Organizado de forma privada, es un dia distinto de la version en grupo, su propia balsa, su propio guia, y sin esperar a que una furgoneta de diez personas termine de cambiarse.\n\nLo que la reserva privada realmente compra es tiempo en el agua. Las excursiones de grupo siguen un horario fijado por la salida del siguiente grupo; una balsa privada puede volver atras y repetir un rapido, detenerse mas tiempo en los tramos planos para nadar, o hacer todo el recorrido despacio. Si viaja con niños o con alguien nervioso por el agua, esa flexibilidad vale mas de lo que parece.\n\nEl Kelani en Kitulgala esta clasificado de 2 a 3, que es agua de principiante con fuerza real. Los guias estan cualificados y la charla informativa cubre los comandos de remo y la posicion de natacion antes de que nadie se lance. Entre rapidos el rio se abre y la corriente cae a casi nada.\n\nEl trayecto desde Kandy dura dos horas cada direccion a traves de Ginigathena y el pais del te, y es una buena carretera por el paisaje incluso sin el rio al final.\n\nKandy fue la ultima capital de los reyes cingaleses, resistiendo a portugueses y holandeses hasta que los britanicos la tomaron en 1815, y el Templo de la Sagrada Reliquia del Diente junto al lago es la razon de su importancia: la reliquia, considerada un diente de Buda, es el objeto mas sagrado de la isla y su custodia legitimaba antiguamente la realeza. La camara de la reliquia abre para puja tres veces al dia, aproximadamente a las 5:30, 9:30 y 18:30, cuando comienzan los tambores y la fila pasa junto al relicario. La vestimenta cubre hombros y rodillas, los zapatos se quitan en la entrada, y el Esala Perahera en julio o agosto pasea el relicario sobre un elefante por la ciudad durante diez noches.",
+  "highlights": [
+   "El tramo completo, cinco grandes rapidos y cuatro menores",
+   "Una balsa y guia privados, para que el dia se desarrolle a su ritmo",
+   "La opcion de repetir un rapido o quedarse mas tiempo en los tramos de baño",
+   "Agua de clase 2-3: no se necesita experiencia, pero hay fuerza real",
+   "Traslados privados de ida y vuelta desde su hotel en Kandy"
+  ],
+  "included": [
+   "Traslados privados de ida y vuelta desde su hotel en Kandy",
+   "una balsa privada con guia cualificado",
+   "casco, chaleco salvavidas y remo",
+   "charla de seguridad",
+   "instalaciones para cambiarse"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "propinas",
+   "fotografia del rio",
+   "gastos personales"
+  ]
+ },
+ "kelani-river-rafting-day-from-kandy-with-guides-and-transfers": {
+  "title": "Dia de rafting en el rio Kelani desde Kandy con guias y traslados",
+  "metaTitle": "Rafting en el Kelani desde Kandy",
+  "metaDescription": "Un dia completo en Kitulgala con un descenso guiado por un instructor por los tres principales rapidos del Kelani y cuatro menores, con traslados desde Kandy.",
+  "shortDescription": "Un dia completo en Kitulgala con un descenso guiado por un instructor por los tres principales rapidos del Kelani y cuatro menores, con traslados de ida y vuelta desde Kandy.",
+  "fullDescription": "Kitulgala es la ciudad del rafting de Sri Lanka, a dos horas al suroeste de Kandy en el lado humedo de las colinas. El Kelani desciende aqui por un tramo de rapidos clasificado de 2 a 3, lo bastante grande para lanzar agua sobre la balsa, lo bastante pequeño para que nadie necesite experiencia.\n\nEsta version recorre la mas corta de las dos lineas estandar: tres grandes rapidos y cuatro mas pequeños, con un instructor en cada balsa marcando las paladas. La charla antes de lanzarse cubre los comandos de remo y, mas util, que hacer si termina en el agua, lo cual en una balsa concurrida es una posibilidad razonable y no un problema.\n\nEntre los conjuntos de rapidos el rio se aplana y puede salir y flotar, que en un dia caluroso es la parte que la gente recuerda. El dia incluye traslados de ida y vuelta desde Kandy y tiempo en la base para cambiarse despues.\n\nEl rio esta en su punto mas fuerte entre mayo y julio y de nuevo en noviembre y diciembre. En un periodo seco los rapidos se suavizan y el viaje se vuelve mas suave en lugar de mas corto, util saberlo si elige fechas en torno a eso.\n\nKandy fue la ultima capital de los reyes cingaleses, resistiendo a portugueses y holandeses hasta que los britanicos la tomaron en 1815, y el Templo de la Sagrada Reliquia del Diente junto al lago es la razon de su importancia: la reliquia, considerada un diente de Buda, es el objeto mas sagrado de la isla y su custodia legitimaba antiguamente la realeza. La camara de la reliquia abre para puja tres veces al dia, aproximadamente a las 5:30, 9:30 y 18:30, cuando comienzan los tambores y la fila pasa junto al relicario. La vestimenta cubre hombros y rodillas, los zapatos se quitan en la entrada, y el Esala Perahera en julio o agosto pasea el relicario sobre un elefante por la ciudad durante diez noches.",
+  "highlights": [
+   "Tres grandes rapidos y cuatro menores en el Kelani, clasificados de 2 a 3",
+   "Un instructor en cada balsa, y una charla de seguridad completa antes del lanzamiento",
+   "Natacion y flotacion en el agua tranquila entre los conjuntos de rapidos",
+   "Traslados de ida y vuelta desde su hotel en Kandy incluidos",
+   "No se necesita experiencia, este es un rio para principiantes"
+  ],
+  "included": [
+   "Traslados de ida y vuelta desde su hotel en Kandy",
+   "la sesion de rafting con instructores cualificados",
+   "casco, chaleco salvavidas y remo",
+   "charla de seguridad",
+   "instalaciones para cambiarse en la base"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "propinas",
+   "fotografias del operador del rio",
+   "gastos personales"
+  ]
+ },
+ "kitulgala-white-water-rafting-from-kandy-with-hotel-transfers": {
+  "title": "Rafting en aguas bravas en Kitulgala desde Kandy con traslados al hotel",
+  "metaTitle": "Rafting Kitulgala desde Kandy",
+  "metaDescription": "Una version mas corta, de medio dia, del viaje de rafting a Kitulgala: trayecto con aire acondicionado desde Kandy, el tramo completo de rapidos del Kelani.",
+  "shortDescription": "Una version mas corta, de medio dia, del viaje de rafting a Kitulgala: un trayecto con aire acondicionado desde Kandy, el tramo completo de rapidos del Kelani incluyendo Virgin’s Breast y Killer Falls, de vuelta a primera hora de la tarde.",
+  "fullDescription": "Esta es la version eficiente. Mientras las excursiones de dia completo rellenan el trayecto con cascadas y fabricas de te, esta va a Kitulgala, desciende el rio y vuelve, unas cinco horas y media de puerta a puerta, lo que deja el resto del dia en Kandy intacto.\n\nEl descenso cubre cinco rapidos significativos y cuatro mas pequeños, clasificados de 2 a 3. Tienen nombres, y los guias los usan: Virgin’s Breast, Killer Falls, Butter Crunch. Ninguno requiere experiencia, y cada balsa lleva un guia que marca las paladas y maneja la linea en el agua. Entre los rapidos el rio se aplana y puede salir y nadar, que en un dia caluroso es la mitad de la razon por la que la gente viene.\n\nEl transporte es un vehiculo con aire acondicionado en lugar de un tuk-tuk, lo cual importa en el trayecto de dos horas cada direccion e importa mas si llueve. Todo el equipo de seguridad se proporciona y la charla ocurre antes de que nadie se acerque al agua.\n\nNo se requiere experiencia ni capacidad de natacion, cada balsa tiene un guia, los chalecos salvavidas y cascos se llevan todo el tiempo, y la charla de seguridad ocurre en tierra antes de que nadie suba. Kitulgala esta en la zona humeda, por lo que el rio funciona todo el año y la lluvia es probable sea cual sea el mes; traiga un cambio de ropa y deje telefonos y carteras en el vehiculo en lugar de confiar en una bolsa seca. Indique las edades de su grupo al reservar, ya que los operadores fijan su propia edad minima.",
+  "highlights": [
+   "El tramo completo de rapidos del Kelani, cinco grandes y cuatro menores",
+   "Rapidos con nombre incluidos Virgin’s Breast y Killer Falls, clasificados de 2 a 3",
+   "Traslados con aire acondicionado de ida y vuelta desde su hotel en Kandy",
+   "Paradas para nadar en el agua plana entre rapidos",
+   "De vuelta en Kandy a primera hora de la tarde con el resto del dia libre"
+  ],
+  "included": [
+   "Traslados con aire acondicionado de ida y vuelta desde su hotel en Kandy",
+   "la sesion de rafting con un guia de rio cualificado",
+   "casco, chaleco salvavidas y remo",
+   "charla de seguridad",
+   "instalaciones para cambiarse"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "propinas",
+   "fotos o videos del operador del rio",
+   "gastos personales"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Experiencia de flyboard en Pattaya",
   "fullDescription": "Esta es una experiencia de 30 minutos en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye experiencia de flyboard, apoyo de un instructor, equipo de seguridad y duchas. No incluye fotos y recogida y regreso al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
