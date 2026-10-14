@@ -101543,6 +101543,370 @@ export const FR_TOURS: Record<string, TourT> = {
    "pourboires"
   ]
  },
+ "colombo-temples-markets-guided-four-hour-city-tour": {
+  "title": "Temples et marches de Colombo : tour guide de quatre heures",
+  "metaTitle": "Temples et marches de Colombo",
+  "metaDescription": "Un parcours guide de quatre heures dans les couches anciennes de Colombo : la cour de l’Hopital Hollandais, le temple du lac Seema Malaka et Pettah.",
+  "shortDescription": "Un parcours guide de quatre heures dans les couches anciennes de Colombo : la cour de l’Hopital Hollandais a Fort, le temple du lac Seema Malaka et les rues commercantes de Pettah.",
+  "fullDescription": "Colombo recompense quiconque veut bien regarder au-dela des tours de bureaux du front de mer. Le port a change de mains trois fois en cinq siecles, des Portugais aux Hollandais puis aux Britanniques, et les quartiers anciens portent encore cette stratification dans leurs noms de rues, leurs arcades et leurs eglises. Ce tour de quatre heures en van se concentre sur cette ville ancienne plutot que sur la nouvelle.\n\nL’Ancien Hopital Hollandais a Fort est le point de depart naturel. C’est le plus ancien batiment survivant du quartier, un bloc bas a colonnades construit autour de deux cours au dix-septieme siecle, et apres des decennies de negligence il abrite maintenant restaurants et boutiques. Les proportions sont inchangees, et se tenir dans la cour interieure est la facon la plus rapide de comprendre a quoi ressemblait vraiment le Colombo hollandais.\n\nSeema Malaka suit, et c’est un changement complet de registre. Le temple se trouve sur le lac Beira sur un ensemble de plateformes connectees, concu par Geoffrey Bawa a la fin des annees 1970 apres que la structure originale a sombre. Il appartient au monastere de Gangaramaya et est utilise pour les ordinations monastiques, mais la plupart du temps c’est simplement un ensemble calme de pontons au-dessus de l’eau avec des rangees de figures assises de Bouddha.\n\nPettah est la moitie bruyante du tour. Le marche n’est pas un seul batiment mais une grille de rues, et chaque rue vend a peu pres un seul commerce : quincaillerie, textiles, poisson seche, articles electriques, guirlandes de fete. Votre guide vous y conduit et explique ce que vous regardez, ce qui compte ici plus qu’a n’importe quel autre arret.\n\nL’ordre exact des arrets depend de la circulation et du jour de la semaine, car Pettah est ferme et calme les dimanches et les jours de pleine lune de Poya. Votre guide vous dira a la prise en charge quel est le plan. Le tour se fait en van climatise et vous ramene a votre hebergement a Colombo.",
+  "highlights": [
+   "L’Ancien Hopital Hollandais, le plus ancien batiment encore debout dans le Fort de Colombo",
+   "Seema Malaka, le temple du lac concu par Geoffrey Bawa sur le lac Beira",
+   "Marche guidee a travers les rues commercantes du marche de Pettah",
+   "Van climatise avec prise en charge et depose a Colombo",
+   "Un guide qui peut expliquer ce que chaque rue de marche vend reellement"
+  ],
+  "included": [
+   "Van climatise avec chauffeur",
+   "guide anglophone",
+   "prise en charge et depose a Colombo",
+   "eau en bouteille"
+  ],
+  "notIncluded": [
+   "Frais d’entree et dons aux temples",
+   "nourriture et boissons",
+   "pourboires",
+   "achats a Pettah"
+  ]
+ },
+ "colombo-highlights-guided-half-day-city-tour-car": {
+  "title": "Les incontournables de Colombo : tour guide d’une demi-journee en voiture",
+  "metaTitle": "Incontournables de Colombo",
+  "metaDescription": "Trois heures en voiture a travers les principaux sites de la capitale sri-lankaise, de la Place de l’Independance au temple Gangaramaya et a Pettah.",
+  "shortDescription": "Trois heures en voiture a travers les principaux sites de la capitale sri-lankaise, de la Place de l’Independance et du temple Gangaramaya a l’ancien phare et aux rues de Pettah.",
+  "fullDescription": "Colombo n’est pas une ville qui se livre rapidement. Elle est etalee, ses monuments se trouvent a plusieurs kilometres les uns des autres, et la circulation entre eux peut avaler une apres-midi. Ce trajet d’une demi-journee est conçu pour ceux qui ont une matinee ou une apres-midi libre, et il couvre le terrain qu’une premiere visite necessite sans faire semblant que vous pouvez le parcourir a pied.\n\nVous commencez a Colombo 7, le quartier calme et arbore que les Britanniques ont amenage en Cinnamon Gardens. La Place de l’Independance se trouve ici, un hall de pierre eleve sur des piliers sculptes pour marquer la passation de pouvoir britannique de 1948, et c’est toujours ou les habitants de Colombo viennent se promener en debut de soiree. Le parc Viharamahadevi se trouve a proximite, avec l’ancien hotel de ville a son bord, et le hall de conference commemoratif Bandaranaike est a quelques minutes de voiture.\n\nLe temple Gangaramaya recoit le plus long arret de la matinee, et il le merite. Le temple est a la fois un monastere actif, une bibliotheque et un musee legerement chaotique, et ses batiments empruntent aux styles sri-lankais, thailandais, indien et chinois sans se fixer sur aucun d’entre eux. Attendez-vous a des voitures anciennes, des reliques empilees, une collection residente de defenses d’elephant et beaucoup de dore.\n\nDe la, l’itineraire descend vers l’eau et vers la ville ancienne. Vous passez devant le temple hindou Sri Kaileswaram et la Tour du Lotus, puis descendez vers Fort et Pettah, ou les couches portugaise, hollandaise et britannique du port sont encore lisibles dans le plan des rues. La mosquee rayee Jami Ul-Alfar de 1908, la gare ferroviaire de Colombo Fort et l’ancienne tour de l’horloge du phare sont les derniers arrets avant que vous ne fassiez demi-tour.\n\nVotre guide conduit et raconte, ce qui signifie que le rythme est flexible. Dites-le tot si vous preferez echanger un arret photo pour plus de temps dans un temple ou une marche dans les ruelles du marche, et la plupart du temps cela peut s’organiser. Le tour se termine a votre hotel.",
+  "highlights": [
+   "La Place de l’Independance et les rues de l’epoque coloniale de Cinnamon Gardens",
+   "Un arret de 45 minutes au temple Gangaramaya, le monastere le plus eclectique de Colombo",
+   "Pettah et Fort, incluant la Mosquee Rouge de 1908 et l’ancienne tour de l’horloge du phare",
+   "Voiture climatisee et chauffeur-guide, avec prise en charge et depose a votre hotel a Colombo",
+   "Assez de flexibilite pour echanger un arret photo pour plus de temps ou vous aimez"
+  ],
+  "included": [
+   "Voiture climatisee avec carburant et parking",
+   "chauffeur-guide anglophone",
+   "prise en charge et depose a l’hotel a Colombo",
+   "eau en bouteille"
+  ],
+  "notIncluded": [
+   "Frais d’entree aux temples et monuments",
+   "nourriture et boissons",
+   "frais de camera aux sites religieux",
+   "pourboires",
+   "achats personnels"
+  ]
+ },
+ "colombo-sightseeing-tour-tuk-tuk-hotel-pickup": {
+  "title": "Tour de Colombo en tuk-tuk avec prise en charge a l’hotel",
+  "metaTitle": "Colombo en tuk-tuk, prise en charge",
+  "metaDescription": "Trois heures a travers Colombo a l’arriere d’un tuk-tuk, avec la Mosquee Rouge de Pettah, la gare de Fort, le temple Gangaramaya et la Place de l’Independance.",
+  "shortDescription": "Trois heures a travers Colombo a l’arriere d’un tuk-tuk, avec la Mosquee Rouge de Pettah, la gare de Fort, le temple Gangaramaya et la Place de l’Independance, prise en charge a l’hotel incluse.",
+  "fullDescription": "C’est un tour en tuk-tuk, et il vaut la peine de dire clairement ce que cela signifie. Vous vous asseyez a l’arriere d’un tricycle aux cotes ouverts, votre chauffeur fait aussi office de guide, et vous traversez la circulation de Colombo au niveau de la circulation plutot qu’au-dessus. C’est chaud, c’est bruyant, et cela entre dans des ruelles ou une voiture ne peut simplement pas tourner. Pour un premier contact de trois heures avec la ville, c’est un echange equitable.\n\nL’itineraire s’ouvre a Pettah avec la mosquee Jami Ul-Alfar, construite en 1908 en briques rayees rouge et blanc et connue de tous comme la Mosquee Rouge. Les rues environnantes sont le plus ancien quartier de marche de la ville, et chacune se specialise : tissu sur l’une, quincaillerie sur la suivante, poisson seche et epices plus loin. La gare ferroviaire de Fort vient ensuite, le terminus construit par les Britanniques qui dessert encore les lignes des collines, puis le kovil Sri Kailawasanathan Swami Devasthanam, un temple hindou actif avec le gopuram sculpte qui donne a Fort sa facade la plus colorée.\n\nLe temple Gangaramaya reçoit le plus long arret, environ trois quarts d’heure. C’est un lieu veritablement inhabituel : l’architecture puise dans les traditions sri-lankaise, thailandaise, indienne et chinoise en une seule enceinte, et les salles du musee contiennent des decennies de dons, de l’ivoire sculpte et du jade a une voiture ancienne garee parmi les statues.\n\nLa derniere section couvre la ville civique moderne. La Tour du Lotus et le Hall de conference internationale commemoratif Bandaranaike sont des arrets photo, et la Place de l’Independance est generalement ou le tour se termine, au pavillon construit pour marquer la passation de pouvoir britannique de 1948 et modele sur un hall d’audience royal kandyien.\n\nTrois heures suffisent pour vous laisser oriente plutot qu’epuise, et cela fonctionne bien pour un premier jour quand vous voulez un sens de la ville avant de decider ou revenir a pied.",
+  "highlights": [
+   "Trois heures a travers Colombo dans un tuk-tuk a cotes ouverts avec un chauffeur-guide local",
+   "La mosquee Jami Ul-Alfar de 1908 et les rues de marche a commerce unique de Pettah",
+   "La gare ferroviaire de Fort et le kovil Sri Kailawasanathan Swami Devasthanam",
+   "Environ 45 minutes au temple Gangaramaya et son musee",
+   "Arrets photo a la Tour du Lotus et a la Place de l’Independance",
+   "Prise en charge et depose a l’hotel a Colombo"
+  ],
+  "included": [
+   "Tuk-tuk avec chauffeur-guide pendant trois heures",
+   "prise en charge et depose a l’hotel a Colombo",
+   "tous les arrets et passages sur l’itineraire"
+  ],
+  "notIncluded": [
+   "Frais d’entree et de camera si factures",
+   "nourriture et boissons",
+   "achats de souvenirs",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "colombo-city-highlights-tour-jaffna-style-banana-leaf-lunch": {
+  "title": "Tour des incontournables de Colombo avec dejeuner jaffnais sur feuille de bananier",
+  "metaTitle": "Colombo et dejeuner jaffnais",
+  "metaDescription": "Une demi-journee autour des principaux monuments de Colombo en voiture, de la Place de l’Independance au temple Gangaramaya et Pettah, avec dejeuner jaffnais.",
+  "shortDescription": "Une demi-journee autour des principaux monuments de Colombo en voiture, de la Place de l’Independance au temple Gangaramaya et Pettah, terminee par un riz et curry jaffnais servi sur feuille de bananier.",
+  "fullDescription": "Colombo ne concentre pas ses sites dans un seul quartier praticable a pied, c’est pourquoi cette demi-journee se fait en voiture. Cinq heures suffisent pour enchainer les monuments, le temple, le parc et le quartier de marche sans passer tout le temps dans la circulation.\n\nLa Place de l’Independance est le premier arret et le plus directement politique. Le pavillon fut construit pour marquer la passation de pouvoir britannique en fevrier 1948, modele sur le hall d’audience des derniers rois kandyiens, et il est entoure de lions de pierre et de la statue du premier premier ministre. A proximite, le Hall de conference internationale commemoratif Bandaranaike est une piece de diplomatie des annees 1970 en beton, offerte par la Chine et toujours le principal lieu d’Etat de la ville.\n\nLe parc Viharamahadevi vous donne la moitie verte du centre de Colombo, amenage par les Britanniques comme Victoria Park et renomme d’apres une reine des chroniques d’Anuradhapura. Le plus long arret est le temple Gangaramaya, ou environ cinquante minutes ne sont pas excessives : le complexe mele l’architecture sri-lankaise, thailandaise, indienne et chinoise en une seule enceinte et ses salles de musee sont remplies d’objets donnes, de Bouddhas de jade a une Rolls-Royce ancienne.\n\nPettah cloture le tourisme. Le tour traverse les rues de marche plutot que de s’arreter longtemps, ce qui suffit pour voir comment le quartier fonctionne, chaque rue etant consacree a un seul commerce derriere les briques rayees rouge et blanc de la mosquee Jami Ul-Alfar.\n\nLe dejeuner est la raison pour laquelle beaucoup de gens reservent ceci. La cuisine jaffnaise vient du nord tamoul et se distingue de la cuisine du sud : plus indienne dans son usage des epices, plus lourde en curry de crabe et de fruits de mer, et connue pour le bouillon de fruits de mer odiyal kool. Servie sur une feuille de bananier et mangee avec la main droite, c’est un vrai repas plutot qu’une degustation, et il vaut mieux arriver avec de l’appetit.",
+  "highlights": [
+   "La Place de l’Independance et son pavillon commemoratif de 1948",
+   "Environ cinquante minutes au temple Gangaramaya et son musee d’objets donnes",
+   "Le parc Viharamahadevi, amenage par les Britanniques comme Victoria Park",
+   "Un trajet a travers les rues de marche a commerce unique de Pettah",
+   "Un riz et curry jaffnais complet servi sur une feuille de bananier"
+  ],
+  "included": [
+   "Vehicule climatise avec chauffeur",
+   "prise en charge et depose a l’hotel a Colombo",
+   "arrets a la Place de l’Independance, au Hall commemoratif Bandaranaike, au parc Viharamahadevi et au temple Gangaramaya",
+   "trajet a travers Pettah",
+   "dejeuner jaffnais sur feuille de bananier",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Repas et boissons supplementaires",
+   "dons aux temples et frais de camera si factures",
+   "pourboires",
+   "achats",
+   "depenses personnelles"
+  ]
+ },
+ "colombo-street-food-walking-tour-local-guide": {
+  "title": "Tour a pied de la street food de Colombo avec un guide local",
+  "metaTitle": "Street food de Colombo a pied",
+  "metaDescription": "Trois heures a pied dans le centre de Colombo avec un guide local, a manger des short eats, du kottu et des collations de rue dans Fort et Pettah.",
+  "shortDescription": "Trois heures a pied dans le centre de Colombo avec un guide local, a manger des short eats, du kottu et des collations de rue dans les rues de Fort et Pettah.",
+  "fullDescription": "Celui-ci se fait a pied, ce qui est la bonne facon de manger Colombo. Le tour commence dans le quartier de Fort et Pettah, la plus ancienne partie commerciale de la ville, et couvre environ trois heures d’etals, de salons de the et de rues de nourriture avec un guide qui vit ici.\n\nLa geographie explique la nourriture. Fort fut le quartier administratif portugais puis hollandais puis britannique, et Pettah, juste a l’exterieur de ses murs, est ou tout le monde commercait. Pettah est encore amenage ainsi : chaque rue vend plus ou moins une seule chose, il y a donc une rue pour la quincaillerie, une rue pour le tissu, une rue pour le poisson seche et les epices. Manger en la traversant signifie passer par toutes.\n\nCe que vous mangez depend du jour et de ce qui sort de la poele, mais la base est constante. Les short eats, les rouleaux frits, les cotelettes et les tartes qui remplissent chaque vitrine du pays. Le kottu roti hache sur une plaque chaude avec deux lames. Vadai et dosai du cote tamoul de la cuisine de la ville. Du the verse d’une certaine hauteur entre deux tasses metalliques. A un moment donne, un stand qui fait le meme plat depuis quarante ans.\n\nL’itineraire passe aussi par l’histoire physique : l’Hopital Hollandais, le plus ancien batiment de Fort et aujourd’hui une cour de restaurants, et la mosquee Jami Ul-Alfar de 1908 avec ses briques rayees rouge et blanc, le batiment que tout le monde photographie a Pettah sans savoir ce que c’est.\n\nC’est un tour a pied dans une partie chaude, bondee et active de la ville, et c’est bruyant. C’est le but. Venez avec des chaussures confortables et de l’appetit, et demandez au guide les niveaux de piquant avant de vous engager avec quoi que ce soit accompagne de sambol rouge.",
+  "highlights": [
+   "Itineraire a pied de trois heures a travers Fort et Pettah de Colombo avec un guide local",
+   "Short eats, kottu roti, vadai et the de rue verse entre deux tasses metalliques",
+   "Les rues commercantes de Pettah, chacune dediee a une seule ligne de produits",
+   "L’Hopital Hollandais, le plus ancien batiment de Fort, et la mosquee rayee Jami Ul-Alfar",
+   "Explications des influences cingalaise, tamoule et musulmane derriere chaque plat"
+  ],
+  "included": [
+   "Guide local anglophone pendant trois heures",
+   "degustations de nourriture le long de l’itineraire",
+   "boissons aux arrets de the"
+  ],
+  "notIncluded": [
+   "Prise en charge et depose a l’hotel",
+   "nourriture et boissons supplementaires achetees hors de l’itineraire",
+   "alcool",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "colombo-port-city-guided-canoeing-session": {
+  "title": "Session guidee de canoe a Colombo Port City",
+  "metaTitle": "Canoe a Colombo Port City",
+  "metaDescription": "Une heure de canoe guidee sur l’eau abritee de Colombo Port City, instruction et equipement fournis, adaptee aux debutants complets.",
+  "shortDescription": "Une heure de canoe guidee sur l’eau abritee de Colombo Port City, instruction et equipement fournis, adaptee aux debutants complets.",
+  "fullDescription": "Port City est la partie la plus recente de Colombo, une etendue de terre recuperee sur la mer le long de Galle Face au cours de la derniere decennie, et son eau abritee est devenue l’endroit le plus facile de la ville pour se mettre a la pagaie. Cette session vous donne une heure en canoe avec un instructeur present.\n\nUn canoe se pagaie avec une pale simple plutot que la pale double d’un kayak, ce qui signifie que la technique est un peu differente et prend quelques minutes a maitriser. L’instructeur couvre d’abord les bases sur terre : comment s’asseoir, comment tenir la pagaie, le coup de pagaie avant et le balayage qui vous fait tourner, et que faire dans le cas improbable ou vous vous retrouveriez dans l’eau. Apres cela, l’heure est a vous pour pagayer.\n\nL’eau ici est protegee de la mer ouverte, les conditions sont donc calmes et previsibles d’une facon que la plage de Galle Face ne l’est pas. Cela en fait un endroit raisonnable pour essayer le canoe pour la premiere fois, et un endroit simple ou amener des enfants plus ages. Des gilets de flottaison sont portes tout le temps et le personnel reste sur l’eau.\n\nLe cadre est inhabituel : vous pagayez avec la ligne d’horizon de Colombo d’un cote et de nouvelles constructions de l’autre, dans une partie de la ville qui n’existait pas il y a une decennie. La fin de l’apres-midi est le creneau agreable, quand la chaleur a baisse et que la lumiere sur les tours merite d’avoir un appareil photo.\n\nC’est une activite courte et autonome plutot qu’un tour de la ville, et elle se combine bien avec une marche le long de Galle Face Green ensuite pour les chariots de nourriture du soir.",
+  "highlights": [
+   "Une heure de canoe sur l’eau abritee de Colombo Port City",
+   "Briefing a terre sur la technique de pagaie avant d’entrer dans l’eau",
+   "Canoe, pagaie et gilet de flottaison fournis",
+   "Eau calme et protegee adaptee aux debutants",
+   "La ligne d’horizon de Colombo depuis l’eau, a courte distance a pied de Galle Face Green"
+  ],
+  "included": [
+   "Utilisation d’un canoe et d’une pagaie",
+   "gilet de flottaison",
+   "briefing de securite et instruction",
+   "supervision sur l’eau pendant toute la duree de la session"
+  ],
+  "notIncluded": [
+   "Transferts a l’hotel",
+   "nourriture et boissons",
+   "serviettes",
+   "installations de change au-dela de celles sur place",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "bentota-ayurvedic-massage-mangrove-boat-cruise-day-trip": {
+  "title": "Massage ayurvedique a Bentota et croisiere en bateau dans les mangroves",
+  "metaTitle": "Bentota : massage et mangrove",
+  "metaDescription": "Une evasion d’une demi-journee au sud vers Bentota pour un massage ayurvedique traditionnel de deux heures suivi d’une heure sur la riviere parmi les mangroves.",
+  "shortDescription": "Une evasion d’une demi-journee au sud vers Bentota pour un massage ayurvedique traditionnel de deux heures suivi d’une heure sur la riviere parmi les mangroves.",
+  "fullDescription": "Bentota se trouve a environ quatre-vingt-dix minutes au sud de Colombo, ou la Bentota Ganga rejoint la mer derriere un long banc de sable, et c’est la cote des spas de l’ile depuis l’ouverture des premiers complexes dans les annees 1970. Ce voyage associe les deux choses que la ville fait le mieux et vous ramene le meme jour.\n\nLe massage dure deux heures completes, ce qui est assez long pour que le traitement soit le vrai article plutot qu’une version abregee d’hotel. L’Ayurveda sri-lankaise utilise des huiles d’herbes tiedes appliquees en longs mouvements le long des lignes d’energie du corps, suivies dans la plupart des cas d’un bain de vapeur ou d’herbes. Les praticiens ici sont generalement formes dans le systeme plutot qu’en technique de spa generale, et la pression est plus ferme qu’un massage de relaxation occidental. Vous partirez huile, planifiez donc vos vetements en consequence.\n\nL’heure sur la riviere suit. La Bentota Ganga remonte vers l’interieur a travers des peuplements de mangrove assez denses pour que le bateau s’engage dans des canaux etroits ou les branches se referment au-dessus. Les varans se chauffent sur les berges, les martins-pecheurs travaillent les hauts-fonds, les macaques se deplacent dans la canopee, et par bonne chance vous verrez un ilot de mangrove cerne de nasses a poissons. C’est une heure calme plutot que palpitante, ce qui est la bonne note apres deux heures a plat ventre sur une table de traitement.\n\nLe transport est prive dans les deux sens et le trajet le long de la cote est confortable sur l’autoroute. La journee totale est d’environ six heures de porte a porte, dont trois de trajet, elle s’integre donc bien dans une matinee ou une apres-midi sans manger une journee entiere de votre voyage.\n\nCela convient aux voyageurs qui ont beaucoup bouge dans le triangle culturel ou les collines et veulent une journee qui ne necessite pas un reveil tot ou une longue marche.",
+  "highlights": [
+   "Massage ayurvedique traditionnel sri-lankais de deux heures avec des huiles d’herbes tiedes",
+   "Croisiere en bateau d’une heure a travers les canaux de mangrove de la riviere Bentota",
+   "Varans, martins-pecheurs et macaques le long des rives",
+   "Vehicule prive avec prise en charge et depose a Colombo ou Panadura",
+   "Un format d’une demi-journee qui laisse le reste de votre journee libre"
+  ],
+  "included": [
+   "Vehicule prive climatise avec chauffeur",
+   "prise en charge et depose a Colombo ou Panadura",
+   "massage ayurvedique de deux heures",
+   "croisiere en bateau d’une heure dans la mangrove",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "pourboires pour le therapeute et le batelier",
+   "traitements de spa supplementaires",
+   "depenses personnelles",
+   "assurance voyage"
+  ]
+ },
+ "colombo-evening-street-food-tour-tastings-included": {
+  "title": "Tour de street food en soiree a Colombo avec degustations incluses",
+  "metaTitle": "Street food de Colombo en soiree",
+  "metaDescription": "Trois heures de Colombo apres la nuit tombee, a manger a travers les stands de rue, short eats et desserts, tout inclus sur l’itineraire.",
+  "shortDescription": "Trois heures de Colombo apres la nuit tombee, a manger a travers les stands de rue, short eats et desserts, tout inclus sur l’itineraire.",
+  "fullDescription": "Colombo mange tard. La foule des bureaux se disperse, la chaleur baisse, et les chariots et petites cuisines a moitie fermes a seize heures commencent leur vrai commerce. Ce tour est construit autour de ce changement, commencant en soiree et durant environ trois heures avec toute la nourriture incluse.\n\nLa cuisine de l’ile est le produit de tous ceux qui l’ont traversee. Le riz et curry cingalais cotoie le dosai et le vadai tamoul, les short eats et le biryani musulmans, les marinades malaises et le lamprais d’origine hollandaise, et Colombo est l’endroit ou tout cela est disponible en quelques rues. Votre guide commande en cingalais et en tamoul selon ce que le stand exige, et explique ce qui est devant vous plutot que de vous laisser deviner.\n\nAttendez-vous a du kottu roti fait sur une plaque chaude avec deux lames, que vous entendez avant de le voir ; des hoppers, les crepes en forme de bol a base de farine de riz qui viennent nature ou avec un oeuf casse au milieu ; de l’isso wade, les beignets de crevettes vendus depuis des chariots le long de Galle Face Green au crepuscule ; et une serie de short eats, les rouleaux frits, cotelettes et tartes qui remplissent chaque vitrine de la ville. Des douceurs et une boisson closent la soiree.\n\nLe piment sri-lankais n’est pas decoratif. La plupart de ce qui vous sera donne est vraiment piquant, mais le guide peut vous orienter vers des versions plus douces et chaque stand a quelque chose qui ne brulera pas. Dites quelque chose tot plutot que de souffrir poliment.\n\nL’itineraire se fait a pied en courts trajets avec du transport entre les groupes, et il double comme un tour nocturne de la ville : les arcades de Pettah une fois les volets fermes, le mur de mer a Galle Face, et les rues residentielles ordinaires ou se trouve generalement le meilleur kottu.",
+  "highlights": [
+   "Itineraire de street food en soiree avec toutes les degustations incluses",
+   "Kottu roti cuit sur la plaque chaude, hoppers et isso wade de Galle Face",
+   "Short eats, douceurs et une boisson pour finir",
+   "Un guide qui explique les influences cingalaise, tamoule, musulmane et malaise dans la nourriture de Colombo",
+   "Prise en charge et depose a l’hotel a Colombo"
+  ],
+  "included": [
+   "Prise en charge et depose a l’hotel a Colombo",
+   "toutes les degustations de nourriture sur l’itineraire",
+   "dessert",
+   "une boisson",
+   "guide tout au long",
+   "transport entre les arrets de nourriture"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons supplementaires commandees hors de l’itineraire prevu",
+   "alcool",
+   "pourboires",
+   "depenses personnelles"
+  ]
+ },
+ "yala-national-park-private-jeep-safari-day-trip-colombo": {
+  "title": "Safari prive en jeep d’une journee au parc national de Yala depuis Colombo",
+  "metaTitle": "Safari prive a Yala",
+  "metaDescription": "Une journee privee tout compris a Yala, le parc avec la plus forte densite de leopards au monde, safari 4x4 d’environ trois heures et dejeuner inclus.",
+  "shortDescription": "Une journee privee tout compris a Yala, le parc avec la plus forte densite de leopards au monde, avec un safari 4x4 dedie d’environ trois heures et dejeuner inclus.",
+  "fullDescription": "A noter avant de reserver : le Departement de la Conservation de la Faune a ferme les Blocs 1 et 2 du parc national de Yala du 14 septembre au 15 octobre 2026 en raison de la secheresse, les safaris dans ces blocs ne peuvent donc pas se derouler a ces dates. Les Blocs 3 a 6 restent ouverts, et Udawalawe et Wilpattu ne sont pas affectes, pour un voyage pendant cette periode, nous vous contacterons pour deplacer le safari vers l’un de ces parcs ou vers une date apres le 15 octobre. Udawalawe est le parc le plus fort pour les elephants ; Wilpattu offre des observations de leopards plus calmes.\n\nYala se trouve dans le sud-est aride de l’ile et c’est la raison pour laquelle la plupart des visiteurs de Sri Lanka rentrent en parlant de leopards. Le Bloc Un, la section ouverte aux vehicules de safari, porte la plus forte densite enregistree de leopards ou que ce soit, et comme la broussaille est basse, les animaux sont veritablement visibles plutot que simplement presents. Ours paresseux, elephants, cerfs tachetes, crocodiles et une longue liste d’oiseaux completent le reste.\n\nLe voyage est organise en prive, ce qui compte ici de deux facons. Vous avez votre propre 4x4 et chauffeur-pisteur plutot qu’un banc partage, le vehicule peut donc attendre quelque part sur un rapport radio plutot que de continuer selon un horaire, et vous pouvez choisir un creneau matinal ou d’apres-midi. Les matinees sont plus fraiches et la lumiere est meilleure tot ; les apres-midis produisent souvent plus de mouvement quand la chaleur baisse.\n\nLe safari lui-meme dure environ trois heures a l’interieur du parc. Un bon pisteur passe une grande partie du temps immobile et a l’ecoute : les cris d’alarme des cerfs tachetes et des langurs sont ce qui localise reellement un leopard. Les observations ne sont jamais garanties, et tout operateur qui en promet une vend quelque chose. Le parc est aussi un ecosysteme actif avec des regles strictes sur le fait de rester dans le vehicule et de suivre les pistes.\n\nLe trajet est le cout honnete de faire Yala en une journee depuis Colombo. Le parc se trouve a l’autre bout de l’ile au sud-est, et le trajet est long dans les deux sens meme en utilisant l’autoroute du sud pour la section rapide. Le depart se fait avant l’aube pour un safari matinal, et vous serez de retour tard.\n\nLe dejeuner, les frais de parc et la jeep sont tous geres, la journee ne necessite donc rien de vous au-dela du reveil matinal. Si votre emploi du temps permet une nuit a Tissamaharama a la place, c’est la facon plus confortable de voir le parc, mais ceci est une option viable d’une seule journee.",
+  "highlights": [
+   "Safari 4x4 prive d’environ trois heures au parc national de Yala",
+   "La densite de leopards la plus elevee au monde, avec elephants, ours paresseux et crocodiles",
+   "Votre choix entre un creneau de safari matinal ou d’apres-midi",
+   "Vehicule et chauffeur prives depuis Colombo, avec dejeuner et arrangements de parc inclus",
+   "Un pisteur dedie plutot qu’un banc de safari partage"
+  ],
+  "included": [
+   "Vehicule prive climatise avec chauffeur depuis Colombo ou Waskaduwa",
+   "jeep de safari 4x4 avec chauffeur-pisteur dans le parc national de Yala",
+   "arrangements d’entree au parc",
+   "dejeuner",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Repas et boissons supplementaires",
+   "pourboires pour le chauffeur et le pisteur",
+   "frais de camera ou video si factures",
+   "depenses personnelles",
+   "assurance voyage"
+  ]
+ },
+ "sinharaja-rainforest-guided-trek-waterfalls-day-trip": {
+  "title": "Trek guide dans la foret tropicale de Sinharaja et excursion aux cascades",
+  "metaTitle": "Trek a Sinharaja",
+  "metaDescription": "Un trek guide de trois heures a travers Sinharaja, la foret tropicale de plaine classee UNESCO de Sri Lanka, avec un naturaliste et des arrets a des cascades.",
+  "shortDescription": "Un trek guide de trois heures a travers Sinharaja, la foret tropicale de plaine classee UNESCO de Sri Lanka, avec un naturaliste qui travaille dans la reserve et des arrets a des cascades forestieres.",
+  "fullDescription": "Sinharaja est le dernier bloc substantiel de foret tropicale de plaine primaire restant a Sri Lanka, protege comme site du patrimoine mondial de l’UNESCO et encore assez dense pour que la canopee se referme sur le sentier en quelques minutes apres le depart. Ce n’est pas le genre d’endroit avec un point de vue panoramique. Ce que vous obtenez, c’est la proximite : la litiere de feuilles, les racines contreforts, et le son d’un groupe d’oiseaux d’especes mixtes passant au-dessus avant que vous n’en voyiez aucun.\n\nLa prise en charge est disponible depuis Colombo et depuis une longue liste de villes cotieres entre Mount Lavinia et Ambalangoda, et le trajet vers l’interieur prend environ deux heures depuis les points de prise en charge du sud, plus longtemps si vous partez du centre de Colombo. La route se retrecit progressivement et le dernier tronçon vers l’entree de la reserve est accidente.\n\nLe trek lui-meme dure environ trois heures avec un guide forestier. Sinharaja abrite une grande part des especes endemiques de Sri Lanka, et les guides sont bons avec celles qui recompensent la patience : le malcoha a face rouge et la pie bleue de Sri Lanka parmi les oiseaux, les langurs a face violette au-dessus, et une offre infinie de grenouilles endemiques, de lezards agamides et de papillons a hauteur d’oeil. Le rythme est lent et delibere, ce qui est le but.\n\nDes cours d’eau traversent le sentier a plusieurs endroits et l’itineraire passe par des cascades forestieres ou l’eau est assez froide et claire pour s’y tenir. Votre guide expliquera aussi pourquoi la reserve existe sous cette forme : les licences d’exploitation forestiere dans les annees 1970 ont failli la deboiser entierement, et les villages de la zone tampon dependent maintenant du maintien de la foret intacte.\n\nLes sangsues sont un fait de l’endroit plutot qu’un avertissement a attenuer. Par temps humide, elles sont nombreuses, elles sont inoffensives, et des chaussettes longues glissees dans le pantalon en traitent la plupart. Venez prepare et la foret est l’une des meilleures choses a faire a portee de la cote.",
+  "highlights": [
+   "Trek guide de trois heures a l’interieur de la reserve forestiere de Sinharaja avec un guide forestier",
+   "Oiseaux, langurs, lezards et amphibiens endemiques introuvables ailleurs sur l’ile",
+   "Cours d’eau forestiers et cascades le long du sentier",
+   "Prise en charge depuis Colombo ou l’une des dix-huit villes de la cote sud-ouest",
+   "Contexte sur la facon dont la reserve a survecu a l’exploitation forestiere commerciale et comment vivent les villages de la zone tampon"
+  ],
+  "included": [
+   "Vehicule climatise avec chauffeur",
+   "prise en charge et depose depuis Colombo ou les villes cotieres listees",
+   "guide forestier pour le trek",
+   "arrangements d’entree a la reserve",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Repas et boissons sauf confirmation de l’operateur",
+   "pourboires pour le guide forestier",
+   "chaussettes anti-sangsues si vous souhaitez les louer",
+   "depenses personnelles",
+   "assurance voyage"
+  ]
+ },
+ "ella-haputale-private-day-trip-hill-country-train-ride-tea-fac": {
+  "title": "Excursion privee d’une journee a Ella et Haputale avec trajet en train des collines et fabrique de the",
+  "metaTitle": "Ella et Haputale prive",
+  "metaDescription": "Une journee privee dans les collines de Sri Lanka, combinant la ligne de train Haputale-Ella, une fabrique de the et le pont des Neuf Arches.",
+  "shortDescription": "Une journee privee tout compris dans les collines de Sri Lanka, combinant un tronçon de la ligne de train Haputale-Ella avec une fabrique de the en activite, Little Adam’s Peak, le pont des Neuf Arches et les chutes Ravana.",
+  "fullDescription": "Ella se trouve a la bordure sud des collines, et le point de depart honnete est la distance. C’est plusieurs heures depuis Colombo dans chaque sens, et ce voyage part au milieu de la nuit pour que la journee au sommet en vaille la peine. Si vous preferez ne pas passer autant de temps dans un vehicule, le meme itineraire est mieux fait en version avec nuitee ; si vous n’avez qu’une journee libre, c’est ainsi que cela se fait.\n\nLe point central est le train. La ligne de Haputale a Ella est le tronçon de voie ferree le plus photographie du pays : elle suit le contour des collines a travers jardins de the et eucalyptus, entrant et sortant de courts tunnels, portes des wagons ouvertes. Votre chauffeur fait le tour en voiture et vous rejoint a la gare eloignee, vous roulez donc sur la bonne section sans le trajet complet de huit heures.\n\nLe the est l’autre raison de monter ici. Une visite d’une fabrique en activite couvre le fletrissage, le roulage, l’oxydation et la torrefaction, et une marche dans la plantation met devant vous la regle des deux feuilles et un bourgeon plutot que sur un panneau. Les the de haute altitude de Sri Lanka viennent exactement de cette tranche d’altitude, et l’ecart entre ce qui est trie ici et un sachet de supermarche est evident une fois que vous avez gouté les deux.\n\nLe reste de la journee se fait a pied. Little Adam’s Peak est une montee douce d’environ quarante minutes avec une large vue sur le Gap d’Ella. Le pont des Neuf Arches, construit en pierre et en brique durant la Premiere Guerre mondiale quand l’acier etait introuvable, est a une courte marche de la route et se visite mieux au passage d’un train. Les chutes Ravana tombent pres de la route vers Wellawaya et ne necessitent aucune marche du tout.\n\nComme c’est un voyage prive, l’ordre peut etre reorganise selon vos interets et l’horaire du train, qui change effectivement. Attendez-vous a une tres longue journee, un depart tres matinal bien avant l’aube, et un retour tardif a Colombo.",
+  "highlights": [
+   "Un tronçon panoramique de la ligne ferroviaire des collines entre Haputale et Ella",
+   "Visite guidee d’une fabrique de the en activite et marche dans la plantation",
+   "Little Adam’s Peak, une courte montee avec une vue sur le Gap d’Ella",
+   "Le pont des Neuf Arches, un viaduc de pierre construit sans acier durant la Premiere Guerre mondiale",
+   "Les chutes Ravana, un arret en bord de route sur la descente",
+   "Vehicule et chauffeur prives pour toute la journee, l’itineraire adapte a vous"
+  ],
+  "included": [
+   "Vehicule prive climatise avec chauffeur pour la journee complete",
+   "prise en charge et depose a l’hotel a Colombo",
+   "billet de train des collines",
+   "visite de fabrique de the et de plantation",
+   "arrets a Little Adam’s Peak, au pont des Neuf Arches et aux chutes Ravana",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Repas et boissons sauf confirmation de l’operateur",
+   "pourboires",
+   "achats de the a la fabrique",
+   "depenses personnelles",
+   "assurance voyage"
+  ]
+ },
+ "galle-fort-kosgoda-turtles-madu-river-shore-excursion-colombo": {
+  "title": "Excursion depuis Colombo : fort de Galle, tortues de Kosgoda et riviere Madu",
+  "metaTitle": "Galle, Kosgoda et riviere Madu",
+  "metaDescription": "Une journee en voiture privee le long de la cote sud-ouest, avec l’ecloserie de tortues de Kosgoda, un safari sur la Madu Ganga et du temps libre a Galle.",
+  "shortDescription": "Une journee de douze heures en voiture privee le long de la cote sud-ouest, avec l’ecloserie de tortues de Kosgoda, un safari en bateau sur la Madu Ganga et du temps libre dans les remparts du fort de Galle.",
+  "fullDescription": "Ceci est l’excursion standard pour quiconque a une seule journee d’escale a Colombo, et elle fonctionne tout aussi bien depuis un hotel en ville. Une voiture privee vous rencontre au terminal et se dirige vers le sud, environ deux heures jusqu’au premier arret, la journee commence donc tot et finit tard.\n\nKosgoda vient en premier. L’ecloserie de tortues marines ici travaille avec des oeufs racheteés de la plage et reenfouis dans du sable protege, et la marche a travers les bassins prend environ trois quarts d’heure. Les tortues vertes et les tortues olivatres sont les residentes communes ; les animaux plus ages dans les bassins sont generalement ceux trop blesses pour etre relaches. C’est une petite operation et la version honnete de ce qu’elle fait est plus interessante que celle de la brochure.\n\nUn court trajet vous amene ensuite a la Madu Ganga a Balapitiya pour un safari en bateau de deux heures. Le lagon contient des dizaines d’iles, certaines habitees par une seule famille, d’autres par un temple ou une parcelle de cannelle, et le bateau passe une grande partie du temps dans des canaux de mangrove assez etroits pour toucher les deux rives. Varans, martins-pecheurs et macaques sont la compagnie habituelle.\n\nLe fort de Galle occupe l’apres-midi. Les Portugais l’ont fonde, les Hollandais l’ont reconstruit en corail et en granit au dix-septieme siecle, et les Britanniques ont laisse le phare et la tour de l’horloge ; l’ensemble du promontoire est un site de l’UNESCO et reste un quartier habite plutot qu’un musee. Une heure suffit pour les remparts, l’extremite du phare et une marche dans Pedlar Street, et si vous le programmez tard, le coucher de soleil depuis le mur ouest est la raison pour laquelle les gens s’attardent.\n\nAttendez-vous a douze heures en tout dont environ quatre heures et demie en voiture. L’autoroute du sud retire la douleur du trajet de retour, mais c’est une longue journee et il n’y a aucune facon de la raccourcir et d’atteindre quand meme Galle.",
+  "highlights": [
+   "Voiture privee avec chauffeur depuis le terminal de croisiere de Colombo ou votre hotel",
+   "Ecloserie de tortues marines a Kosgoda avec une marche guidee a travers les bassins et le sable de nidification",
+   "Safari en bateau de deux heures a travers les iles de mangrove de la Madu Ganga",
+   "Temps libre a l’interieur du fort de Galle, la ville fortifiee hollandaise de la cote sud",
+   "Coucher de soleil depuis le mur ouest si le timing fonctionne"
+  ],
+  "included": [
+   "Voiture privee climatisee avec chauffeur",
+   "prise en charge et depose au port de croisiere de Colombo ou a votre hotel",
+   "visite de l’ecloserie de tortues marines",
+   "safari en bateau sur la Madu Ganga",
+   "temps libre au fort de Galle",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "frais d’entree non listes ci-dessus",
+   "pourboires",
+   "achats au fort de Galle",
+   "depenses personnelles",
+   "assurance voyage"
+  ]
+ },
+ "madu-river-mangroves-cinnamon-island-kosgoda-turtle-hatchery-d": {
+  "title": "Excursion d’une journee : mangroves de la riviere Madu, ile de cannelle et ecloserie de tortues de Kosgoda",
+  "metaTitle": "Riviere Madu et tortues de Kosgoda",
+  "metaDescription": "Une journee complete le long de la cote sud-ouest depuis Colombo, combinant une croisiere en bateau de deux heures dans les mangroves de la Madu Ganga et Kosgoda.",
+  "shortDescription": "Une journee complete le long de la cote sud-ouest depuis Colombo, combinant une croisiere en bateau de deux heures dans les mangroves de la Madu Ganga, une ile de cannelle en activite et le projet de conservation des tortues de Kosgoda.",
+  "fullDescription": "La journee commence tot, avec un van qui vous recupere a Colombo ou Kalutara pour le trajet vers le sud le long de la route cotiere jusqu’a Balapitiya. Prevoyez environ deux heures et demie : c’est l’ancienne route a travers les villes de peche et les plantations de cocotiers, se deplacant au rythme des villages qu’elle traverse.\n\nA Balapitiya, la Madu Ganga s’elargit en un lagon peu profond parseme de petites iles, et la croisiere en bateau dure environ deux heures. L’itineraire quitte l’eau ouverte pour des canaux etroits couverts par les racines de mangrove, passe des nasses a crevettes et des petites plantations de cannelle, et s’arrete a un des temples insulaires. Martins-pecheurs, varans et troupes de macaques le long des rives sont des observations ordinaires plutot que des coups de chance, et les bateliers savent ou ralentir.\n\nUne des iles est consacree a la cannelle, ce qui vaut la peine de comprendre en s’y trouvant. Sri Lanka cultive la vraie cannelle de Ceylan, une ecorce plus douce et plus stratifiee que la cassia vendue comme cannelle dans la plupart du monde, et le pelage se fait encore a la main avec une tige de laiton et un couteau courbe. Regarder un peleur transformer une tige en un batonnet explique pourquoi le vrai produit coute ce qu’il coute.\n\nLe dernier arret est le Projet de Conservation des Tortues Marines de Kosgoda, ou une heure guidee couvre les bassins d’ecloserie, la plage de nidification et l’atelier Turtle Guardian. Cinq especes viennent nidifier sur ce tronçon de cote, et le discours est honnete sur ce qu’une ecloserie peut et ne peut pas resoudre : le braconnage des oeufs, la pollution lumineuse de la route cotiere et l’enchevetrement dans les filets font tous partie de la conversation.\n\nSoyez realiste sur la duree. C’est une journee de dix heures, dont environ cinq passees sur la route dans les deux sens combines. Cela convient aux voyageurs qui veulent les mangroves et l’ecloserie sans reserver une nuit sur la cote sud, et c’est une longue journee pour les tres jeunes enfants.",
+  "highlights": [
+   "Croisiere en bateau de deux heures a travers le lagon de la Madu Ganga et ses tunnels de mangrove",
+   "Demonstration de pelage a la main sur une ile de cannelle de Ceylan en activite",
+   "Heure guidee au Projet de Conservation des Tortues Marines de Kosgoda et son atelier Turtle Guardian",
+   "Van climatise avec prise en charge et depose a Colombo ou Kalutara",
+   "Canaux de village, temples insulaires et avifaune du lagon en chemin"
+  ],
+  "included": [
+   "Van climatise avec chauffeur",
+   "prise en charge et depose a l’hotel a Colombo ou Kalutara",
+   "croisiere en bateau sur la Madu Ganga",
+   "visite de l’ile de cannelle",
+   "visite guidee du Projet de Conservation des Tortues Marines de Kosgoda",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "pourboires",
+   "achats de souvenirs a l’ile de cannelle ou a l’ecloserie",
+   "depenses personnelles",
+   "assurance voyage"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Séance de flyboard à Pattaya",
   "fullDescription": "Cette expérience de 30 minutes se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend séance de flyboard, accompagnement d'un instructeur, équipement de sécurité et douches. Il ne comprend pas photos et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
