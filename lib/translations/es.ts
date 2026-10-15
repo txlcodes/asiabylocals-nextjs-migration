@@ -143289,6 +143289,215 @@ export const ES_TOURS: Record<string, TourT> = {
    "video 360 grados disponible con coste adicional"
   ]
  },
+ "dubai-private-cinematic-photoshoot": {
+  "title": "Dubai: sesion fotografica cinematica privada",
+  "metaTitle": "Sesion fotografica cinematica Dubai",
+  "metaDescription": "Una experiencia de una hora en Dubai para capturar momentos naturales e intimos con un estilo fotografico cinematico.",
+  "shortDescription": "Una experiencia de una hora en Dubai para capturar momentos naturales e intimos con un estilo fotografico cinematico, con orientacion en japones o ingles.",
+  "fullDescription": "Esta sesion fotografica privada de una hora en Dubai captura momentos naturales e intimos con un estilo fotografico cinematico. El fotografo le guia con suavidad en las poses y movimientos para lograr imagenes autenticas.\n\nRecibe entre 30 y 40 fotos editadas profesionalmente, accesibles a traves de una galeria en linea, con orientacion disponible en japones o ingles segun sus preferencias.\n\nOperada por Maria Amber | Cinematic Photographer, esta sesion se puede cancelar gratis y cubre cinco elementos en total. El precio de 206 USD es el mismo para uno o dos viajeros, ya que se tarifa por grupo.",
+  "highlights": [
+   "Capturar momentos naturales e intimos con un estilo fotografico cinematico",
+   "Entre 30 y 40 fotos editadas profesionalmente",
+   "Acceso a una galeria en linea",
+   "Orientacion suave para poses y movimientos",
+   "Orientacion disponible en japones o ingles"
+  ],
+  "included": [
+   "Sesion fotografica privada de una hora",
+   "30 a 40 fotos editadas profesionalmente",
+   "acceso a una galeria en linea",
+   "orientacion suave para poses y movimientos",
+   "orientacion en japones o ingles"
+  ],
+  "notIncluded": [
+   "Transporte hacia y desde el lugar de la sesion",
+   "tarifas de entrada o del lugar si aplica",
+   "fotos en bruto o sin editar"
+  ]
+ },
+ "red-dunes-desert-safari-with-bbq-dinner-live-shows": {
+  "title": "Safari por las Dunas Rojas con cena barbacoa y espectaculos en vivo",
+  "metaTitle": "Safari Dunas Rojas Dubai",
+  "metaDescription": "Media jornada desde Dubai hacia el safari de las Dunas Rojas, con dune bashing y espectaculo de fuego.",
+  "shortDescription": "Media jornada desde Dubai hacia el safari de las Dunas Rojas y el Emirato de Sharjah, con dune bashing, cena barbacoa y espectaculo de fuego.",
+  "fullDescription": "Este safari por las Dunas Rojas comienza con la recogida y entrega en su hotel o lugar seleccionado. El trayecto en jeep o SUV dura 45 minutos, luego llega al safari de las Dunas Rojas de Dubai durante 20 minutos, seguido de una segunda fase del safari de las Dunas Rojas de Dubai tambien durante 20 minutos, antes de continuar hacia el Emirato de Sharjah.\n\nUn vehiculo 4x4 compartido y climatizado le lleva a las dunas para una experiencia de dune bashing con un guia de safari con licencia y de habla inglesa. Sandboard, paseo en camello, te o cafe con datiles, agua y bebidas sin alcohol ilimitadas estan incluidos. Un tatuaje de henna precede a un mega espectaculo de fuego, seguido de una comida barbacoa con platos vegetarianos y no vegetarianos, y una parada fotografica al atardecer.\n\nOperado por Royal Wings Tour LLC, este safari tiene cuatro paradas en total.",
+  "highlights": [
+   "Sentir la emocion del dune bashing en el desierto arabe con un conductor experimentado",
+   "Sandboard y paseo en camello",
+   "Tatuaje de henna y mega espectaculo de fuego",
+   "Comida barbacoa con platos vegetarianos y no vegetarianos",
+   "Parada fotografica al atardecer"
+  ],
+  "included": [
+   "Recogida y entrega en su hotel o lugar seleccionado",
+   "transporte compartido en 4x4 climatizado",
+   "guia de safari con licencia y de habla inglesa",
+   "dune bashing",
+   "sandboard",
+   "paseo en camello",
+   "te o cafe con datiles y agua y bebidas sin alcohol ilimitadas",
+   "tatuaje de henna",
+   "mega espectaculo de fuego",
+   "comida barbacoa incluyendo platos vegetarianos y no vegetarianos",
+   "parada fotografica al atardecer"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "gastos personales",
+   "paseo en quad",
+   "paseo en buggy",
+   "bebidas alcoholicas"
+  ]
+ },
+ "the-ultimate-flying-dress-experience-in-dubai": {
+  "title": "La experiencia definitiva del vestido volador en Dubai",
+  "metaTitle": "Vestido volador Dubai",
+  "metaDescription": "Una experiencia de tres horas en Dubai para una sesion fotografica con vestido volador en el desierto.",
+  "shortDescription": "Una experiencia de tres horas en Dubai para una sesion fotografica con vestido volador en el desierto, con un fotografo y un asistente.",
+  "fullDescription": "Esta experiencia de tres horas en Dubai ofrece una sesion fotografica con un espectacular vestido volador en las dunas del desierto. La sesion de una hora la realiza un fotografo acompañado de un asistente.\n\nTodas las fotos se le entregan en formato digital, con diez fotos editadas en alta resolucion lista para imprimir, incluyendo el aumento del volumen del vestido, la mejora de los colores y la eliminacion de objetos que distraen. Se incluyen un vestido volador y un buggy para llegar al lugar secreto en las dunas, asi como accesorios de cortesia para la sesion y un refresco.\n\nOperada por LTC Menzel LLC, esta experiencia se puede cancelar gratis y cubre 10 elementos en total.",
+  "highlights": [
+   "Experiencia de sesion fotografica con vestido volador",
+   "Fotografo y asistente profesionales",
+   "Diez fotos editadas en alta resolucion lista para imprimir",
+   "Buggy para llegar al lugar secreto en las dunas",
+   "Accesorios de cortesia y refresco incluidos"
+  ],
+  "included": [
+   "Sesion fotografica de una hora",
+   "un fotografo",
+   "un asistente",
+   "todas las fotos en formato digital",
+   "diez fotos editadas en alta resolucion lista para imprimir",
+   "un vestido volador",
+   "el buggy para llegar al lugar secreto en las dunas",
+   "accesorios de cortesia para la sesion en el desierto",
+   "un refresco"
+  ],
+  "notIncluded": []
+ },
+ "dubais-best-dinner-cruise-michelin-chef-menu-live": {
+  "title": "El mejor crucero cena de Dubai: menu de chef con estrella Michelin y espectaculo en vivo",
+  "metaTitle": "Crucero cena Michelin Dubai",
+  "metaDescription": "Una experiencia de dos horas en Dubai con un menu diseñado por un chef con estrella Michelin durante un crucero de lujo.",
+  "shortDescription": "Una experiencia de dos horas en Dubai con un menu diseñado por un chef con estrella Michelin durante un crucero en yate de lujo por la Dubai Marina.",
+  "fullDescription": "Este crucero cena de dos horas a bordo de un yate de lujo atraviesa la Dubai Marina pasando junto a monumentos emblematicos. La cena de varios platos esta diseñada por un chef con estrella Michelin, acompañada de un cantante en vivo y un entretenimiento atractivo a bordo.\n\nSe sirven bebidas sin alcohol ilimitadas, agua embotellada, cafe y te, con un bar completo a bordo donde las bebidas alcoholicas se pagan en el lugar. El Wi-Fi gratuito, los baños y las tarifas de entrada estan incluidos.\n\nOperado por Noble Life, este crucero se puede cancelar gratis y cubre nueve elementos en total.",
+  "highlights": [
+   "Menu diseñado por un chef con estrella Michelin",
+   "Crucero de dos horas en un yate de lujo por la Dubai Marina",
+   "Cantante en vivo y entretenimiento atractivo a bordo",
+   "Bebidas sin alcohol ilimitadas",
+   "Wi-Fi gratuito a bordo"
+  ],
+  "included": [
+   "Crucero de dos horas en un yate de lujo por la Dubai Marina, pasando junto a monumentos emblematicos",
+   "cena de varios platos diseñada por un chef con estrella Michelin",
+   "cantante en vivo y entretenimiento atractivo a bordo",
+   "bebidas sin alcohol ilimitadas",
+   "agua embotellada, cafe y te",
+   "bar completo a bordo (bebidas alcoholicas pagables a bordo)",
+   "Wi-Fi gratuito a bordo",
+   "instalaciones de baño",
+   "tarifas de entrada incluidas"
+  ],
+  "notIncluded": [
+   "Recogida y entrega en el hotel (traslado disponible con coste adicional)",
+   "bebidas alcoholicas (disponibles para comprar en el bar a bordo)",
+   "decoraciones o montajes especiales para eventos (disponibles a peticion con coste adicional)",
+   "gastos personales y cualquier servicio no mencionado especificamente como incluido"
+  ]
+ },
+ "ultra-luxury-2-hrs-private-84-foot-sunseeker": {
+  "title": "Alquiler ultra lujo de 2 horas de un yate privado Sunseeker de 84 pies",
+  "metaTitle": "Yate Sunseeker 84 pies Dubai",
+  "metaDescription": "Una experiencia de dos horas en Dubai para sentir el viento en su cabello mientras navega por la costa emblematica.",
+  "shortDescription": "Una experiencia de dos horas en Dubai para sentir el viento en su cabello mientras navega por la costa emblematica a bordo de un yate Sunseeker de 84 pies.",
+  "fullDescription": "Este alquiler de lujo le hace sentir el viento en su cabello mientras navega por la costa emblematica de Dubai a bordo de un yate Sunseeker de 84 pies. Una tripulacion profesional ofrece un servicio de 5 estrellas durante todo el crucero.\n\nEl yate cuenta con salones interiores y exteriores, una cubierta de sol y comodidades de ultima generacion, con vistas panoramicas del perfil urbano de Dubai. Se proporcionan bebidas sin alcohol y calzado desechable.\n\nOperado por Conwy Leisure Yachts & Boats Rental LLC, esta experiencia se puede cancelar gratis y cubre nueve elementos en total. El precio de 2549 USD es el mismo para uno o dos viajeros, ya que se tarifa por grupo.",
+  "highlights": [
+   "Sentir el viento en su cabello mientras navega por la costa emblematica de Dubai",
+   "Lujoso yate Sunseeker de 84 pies",
+   "Tripulacion profesional y servicio de 5 estrellas",
+   "Salones interiores y exteriores",
+   "Vistas panoramicas del perfil urbano de Dubai"
+  ],
+  "included": [
+   "Lujoso yate Sunseeker de 84 pies",
+   "tripulacion profesional",
+   "servicio de 5 estrellas",
+   "salones interiores y exteriores",
+   "cubierta de sol",
+   "comodidades de ultima generacion",
+   "vistas panoramicas del perfil urbano de Dubai",
+   "bebidas sin alcohol",
+   "calzado desechable"
+  ],
+  "notIncluded": [
+   "Comida y bebidas"
+  ]
+ },
+ "dubai-ferrari-12cilindri-1-day-rental-no-deposit": {
+  "title": "Dubai: alquiler de un Ferrari 12Cilindri por un dia, sin deposito requerido",
+  "metaTitle": "Alquiler Ferrari 12Cilindri Dubai",
+  "metaDescription": "Una experiencia de dia completo en Dubai para vivir la emocion del motor V12 de 6,5 litros de Ferrari.",
+  "shortDescription": "Una experiencia de dia completo en Dubai para vivir la emocion del motor V12 de 6,5 litros de Ferrari rugiendo por la ciudad.",
+  "fullDescription": "Este alquiler de dia completo le hace vivir la emocion del motor V12 de 6,5 litros de Ferrari rugiendo por Dubai. El Ferrari 12Cilindri se proporciona con un seguro completo.\n\nOperado por GMZ RENTAL CAR, este alquiler se puede cancelar gratis y cubre dos elementos en total. El precio de 10828 USD es el mismo para uno o dos viajeros, ya que se tarifa por vehiculo y no por persona.",
+  "highlights": [
+   "Vivir la emocion del motor V12 de 6,5 litros de Ferrari rugiendo por Dubai"
+  ],
+  "included": [
+   "Ferrari 12Cilindri",
+   "seguro completo"
+  ],
+  "notIncluded": [
+   "Combustible",
+   "peajes",
+   "tarifas de aparcamiento"
+  ]
+ },
+ "dubai-marina-luxury-dhow-cruise-with-5-star": {
+  "title": "Dubai: crucero dhow de lujo en la marina con cena india de 5 estrellas",
+  "metaTitle": "Crucero dhow Dubai Marina 5 estrellas",
+  "metaDescription": "Un trayecto de dos horas desde Dubai hacia la Dubai Marina para una cena y un crucero en bote tradicional.",
+  "shortDescription": "Un trayecto de dos horas desde Dubai hacia la Dubai Marina para una cena y un crucero en dhow tradicional, con buffet indio de 5 estrellas.",
+  "fullDescription": "Este crucero cena de dos horas en la Dubai Marina se realiza a bordo de un dhow tradicional, la unica parada del trayecto con unas dos horas en el agua para la cena y el crucero.\n\nSe sirve un buffet indio de 5 estrellas con platos de carne y vegetarianos, acompañado de bebidas sin alcohol y agua embotellada ilimitadas. Tiene acceso a la cubierta inferior completamente climatizada y a la cubierta superior al aire libre.\n\nOperado por Tour Dubai, este crucero no cubre las bebidas alcoholicas, disponibles para comprar a bordo.",
+  "highlights": [
+   "Navegar por la Dubai Marina a bordo de un dhow tradicional con impresionantes vistas del perfil urbano",
+   "Buffet indio de 5 estrellas con platos de carne y vegetarianos",
+   "Bebidas sin alcohol y agua embotellada ilimitadas",
+   "Acceso a la cubierta inferior climatizada y la cubierta superior al aire libre",
+   "Crucero de dos horas por la Dubai Marina"
+  ],
+  "included": [
+   "Crucero cena de dos horas por la Dubai Marina a bordo de un dhow tradicional",
+   "buffet indio de 5 estrellas con platos de carne y vegetarianos",
+   "bebidas sin alcohol y agua embotellada ilimitadas",
+   "acceso a la cubierta inferior completamente climatizada y la cubierta superior al aire libre"
+  ],
+  "notIncluded": [
+   "Bebidas alcoholicas (disponibles para comprar a bordo)"
+  ]
+ },
+ "dubai-outlets-private-shopping-tour-with-personal": {
+  "title": "Dubai: tour de compras privado en los outlets con estilista personal",
+  "metaTitle": "Compras privadas Dubai con estilista",
+  "metaDescription": "Media jornada en Dubai para explorar el tour de compras de la ciudad con un guia local y un estilista profesional.",
+  "shortDescription": "Media jornada en Dubai para explorar el tour de compras de la ciudad con un guia local y un estilista profesional, incluyendo recomendaciones personalizadas.",
+  "fullDescription": "Este tour de compras explora los outlets de Dubai con un guia local. Un estilista profesional le acompaña durante todo el tour personalizado, ofreciendo recomendaciones adaptadas a sus gustos y necesidades.\n\nOperado por Tournava Service Private Limited, este tour se puede cancelar gratis y cubre tres elementos en total.",
+  "highlights": [
+   "Explorar el tour de compras de Dubai con un guia local"
+  ],
+  "included": [
+   "Estilista profesional",
+   "tour de compras personalizado",
+   "recomendaciones personalizadas"
+  ],
+  "notIncluded": [
+   "Gratificaciones",
+   "propinas",
+   "comida y bebidas",
+   "entradas",
+   "el transporte se organizara en el lugar con cargos adicionales"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
