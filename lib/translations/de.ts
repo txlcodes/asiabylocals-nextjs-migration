@@ -144424,6 +144424,218 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "dubai-traditional-and-modern-tour-with-burj": {
+  "title": "Dubai: Traditionelle und moderne Tour mit Burj-Khalifa-Ticket",
+  "metaTitle": "Traditionelles und modernes Dubai",
+  "metaDescription": "Ein ganzer Tag ab Dubai mit Besuch der Dubai Marina, dem Souk Madinat Jumeirah und Palm Jumeirah.",
+  "shortDescription": "Ein ganzer Tag ab Dubai mit Besuch der Dubai Marina, dem Souk Madinat Jumeirah und Palm Jumeirah, mit Burj-Khalifa-Ticket.",
+  "fullDescription": "Diese Tour laesst Sie die Anblicke und Duefte des Gewuerzsouks fuer einen Geschmack des alten Dubai erleben. Sie beginnt bei der Dubai Marina fuer 20 Minuten, dann dem Souk Madinat Jumeirah fuer 20 Minuten, Palm Jumeirah fuer 20 Minuten, dem Atlantis Dubai fuer 15 Minuten, und dem Jumeirah Beach fuer 20 Minuten.\n\nDer Preis umfasst Transport in einem klimatisierten Fahrzeug, Abholung und Absetzen am Hotel, einen lizenzierten Guide, und ein Burj-Khalifa-Ticket (124. und 125. Stockwerk). Sie besuchen sowohl das alte als auch das moderne Dubai, mit einer Abra-Bootsfahrt.\n\nDurchgefuehrt von Arabian Vista Tourism LLC, umfasst diese Tour 13 Stopps insgesamt.",
+  "highlights": [
+   "Die Anblicke und Duefte des Gewuerzsouks fuer einen Geschmack des alten Dubai erleben",
+   "Burj-Khalifa-Ticket (124. und 125. Stockwerk)",
+   "Besuch des alten und modernen Dubai",
+   "Abra-Bootsfahrt",
+   "13 Stopps an ikonischen Orten Dubais"
+  ],
+  "included": [
+   "Transport in einem klimatisierten Fahrzeug",
+   "Abholung und Absetzen am Hotel",
+   "lizenzierter Guide",
+   "Burj-Khalifa-Ticket (124. und 125. Stockwerk)",
+   "Besuch des alten und modernen Dubai",
+   "Abra-Bootsfahrt",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "dubai-east-guided-jetski-ride": {
+  "title": "Dubai Ost: Gefuehrte Jetski-Fahrt!",
+  "metaTitle": "Jetski Dubai Ost",
+  "metaDescription": "Eine dreissigminuetige Fahrt ab Dubai zu DUBAI SHARK JETSKI EAST RENTALS mit einem Spaziergang.",
+  "shortDescription": "Eine dreissigminuetige Fahrt ab Dubai zu DUBAI SHARK JETSKI EAST RENTALS, mit Guide und kostenlosen Handyfotos.",
+  "fullDescription": "Diese Fahrt bringt Sie zu DUBAI SHARK JETSKI EAST RENTALS fuer einen Spaziergang. Der Premium-Standort liegt in der Dubai Marina.\n\nDer Preis umfasst eine Schwimmweste, das Jetski, einen Guide und kostenlose Handyfotos, sowie Trinkwasser.\n\nDurchgefuehrt von Shark Jetski East, berechnet diese Fahrt denselben Preis von 149 USD fuer einen oder zwei Reisende, da sie pro Gruppe abgerechnet wird.",
+  "highlights": [
+   "Premium-Standort in der Dubai Marina"
+  ],
+  "included": [
+   "Schwimmweste",
+   "Jetski",
+   "Guide",
+   "kostenlose Handyfotos",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke",
+   "Trinkgelder"
+  ]
+ },
+ "dubaibest-fishing-trip-4hours": {
+  "title": "Dubai: Bester Angelausflug, 4 Stunden",
+  "metaTitle": "Angeln 4 Stunden Dubai",
+  "metaDescription": "Ein halber Tag in Dubai auf dem Kanal der Dubai Marina fuer einen Angelausflug.",
+  "shortDescription": "Ein halber Tag in Dubai auf dem Kanal der Dubai Marina fuer einen Angelausflug, mit Kapitaen und vollstaendiger Ausruestung.",
+  "fullDescription": "Dieser vierstuendige Angelausflug findet auf dem Kanal der Dubai Marina statt. Der Preis umfasst den Kapitaen und die Crew, einen Bluetooth-Lautsprecher, Erfrischungen, alkoholfreie Getraenke und Wasser.\n\nDurchgefuehrt von Dubai Marina Majesty Yachts, kann dieser Ausflug kostenlos storniert werden und deckt insgesamt neun Punkte ab, einschliesslich Angelausruestung, Koeder, Gewichte, Haken und Angelruten. Der Preis von 743 USD ist derselbe fuer einen oder zwei Reisende, da er pro Gruppe abgerechnet wird.",
+  "highlights": [
+   "Angelausflug auf dem Kanal der Dubai Marina"
+  ],
+  "included": [
+   "Kapitaen und Crew",
+   "Bluetooth-Lautsprecher",
+   "Erfrischungen",
+   "alkoholfreie Getraenke und Wasser",
+   "Angelausruestung",
+   "Koeder",
+   "Gewichte",
+   "Haken",
+   "Angelruten"
+  ],
+  "notIncluded": [
+   "Abholung und Absetzen am Hotel",
+   "Handtuch",
+   "Grill"
+  ]
+ },
+ "dubai-photos-photography-tour": {
+  "title": "Dubai: Jetski-Tour zum Burj Al Arab mit Fotos und Videos",
+  "metaTitle": "Jetski Burj Al Arab Fotos",
+  "metaDescription": "Eine dreissigminuetige Fahrt ab Dubai zum Seabreacher Diving Club mit Fotostopp und Sicherheitsbriefing.",
+  "shortDescription": "Eine dreissigminuetige Fahrt ab Dubai zum Seabreacher Diving Club mit Fotostopp, Sicherheitsbriefing und landschaftlichen Ausblicken auf dem Weg.",
+  "fullDescription": "Diese Fahrt bringt Sie zum Seabreacher Diving Club fuer einen Fotostopp, ein Sicherheitsbriefing und landschaftliche Ausblicke auf dem Weg. Sie spueren die Aufregung, das Wasser mit einem leistungsstarken Jetski zu durchschneiden.\n\nDer Preis umfasst eine 30-minuetige, einstuendige oder zweistuendige Tour, die Jetski-Tour, eine Schwimmweste, eine Flasche Wasser, Schliessfaecher, und Fotos/Videos.\n\nDurchgefuehrt von Seabreacher Water Sports, berechnet diese Fahrt denselben Preis von 124 USD fuer einen oder zwei Reisende, da sie pro Gruppe abgerechnet wird.",
+  "highlights": [
+   "Die Aufregung spueren, das Wasser mit einem leistungsstarken Jetski zu durchschneiden"
+  ],
+  "included": [
+   "30-minuetige, einstuendige oder zweistuendige Tour",
+   "Jetski-Tour",
+   "Schwimmweste",
+   "Flasche Wasser",
+   "Schliessfaecher",
+   "Fotos/Videos"
+  ],
+  "notIncluded": [
+   "Abholung und Absetzen am Hotel",
+   "Essen und Getraenke"
+  ]
+ },
+ "dubai-heritage-desert-safari-wtih-overnight-and": {
+  "title": "Dubai: Kulturerbe-Wuestensafari mit Uebernachtung und Fruehstueck",
+  "metaTitle": "Kulturerbe-Safari mit Uebernachtung",
+  "metaDescription": "Ein ganzer Tag ab Dubai mit Besuch des Wuestenschutzgebiets von Dubai in einem klassischen Land Rover.",
+  "shortDescription": "Ein ganzer Tag ab Dubai mit Besuch des Wuestenschutzgebiets von Dubai in einem klassischen Land Rover, mit Uebernachtung und Fruehstueck.",
+  "fullDescription": "Dieses Erlebnis laesst Sie das Wuestenschutzgebiet von Dubai in einem legendaeren Land Rover erkunden, ohne Dune-Bashing. Die Fahrt im Jeep oder SUV dauert eine Stunde, dann erreichen Sie das Schutzgebiet fuer eine Stunde, gefolgt von weiteren 30 Minuten, und zwei zusaetzlichen Stopps vor Ort.\n\nNach der Abholung in den Hotels von Dubai geniessen Sie eine Falknerei-Vorfuehrung bei Sonnenuntergang mit Tee und Vimto-Saft. Sie verbringen die Nacht in traditionellen arabischen Steinbehausungen mit Matratze und Bettwaesche, mit Zugang zu sanitaeren Einrichtungen im Camp (Duschen auf Anfrage). Ein kultureller Unterhaltungsabend mit Yola und Trommeln geht einer Sternbeobachtungssitzung mit einem professionellen Guide voraus, gefolgt von einem traditionellen Abendessen und einem Gourmet-Fruehstueck.\n\nDurchgefuehrt von Platinum Heritage Luxury Tours & Safaris, umfasst dieses Erlebnis sechs Stopps insgesamt.",
+  "highlights": [
+   "Das Wuestenschutzgebiet von Dubai in einem legendaeren Land Rover der 1950er Jahre erkunden",
+   "Falknerei-Vorfuehrung bei Sonnenuntergang",
+   "Uebernachtung in traditionellen arabischen Steinbehausungen",
+   "Kultureller Unterhaltungsabend mit Yola und Trommeln",
+   "Traditionelles Abendessen und Gourmet-Fruehstueck"
+  ],
+  "included": [
+   "Abholung und Absetzen von den Hotels in Dubai",
+   "Naturfahrt in klassischen Land Rovern innerhalb des Schutzgebiets, ohne Dune-Bashing",
+   "Falknerei-Vorfuehrung bei Sonnenuntergang mit Tee und Vimto-Saft",
+   "traditionelle arabische Steinbehausungen mit Matratze und Bettwaesche",
+   "sanitaere Einrichtungen im Camp (Duschen auf Anfrage)",
+   "kultureller Unterhaltungsabend mit Yola und Trommeln",
+   "Sternbeobachtungssitzung mit einem professionellen Guide",
+   "traditionelles Abendessen und Gourmet-Fruehstueck"
+  ],
+  "notIncluded": [
+   "Fotos",
+   "Trinkgeld"
+  ]
+ },
+ "dubai-islamic-cultural-experience-with-jumeirah": {
+  "title": "Dubai: Islamisches und kulturelles Erlebnis mit der Jumeirah-Moschee",
+  "metaTitle": "Kulturelles Erlebnis Jumeirah-Moschee",
+  "metaDescription": "Ein halber Tag ab Dubai mit Besuch der Jumeirah-Moschee, um das reiche Kulturerbe der Emirate zu entdecken.",
+  "shortDescription": "Ein halber Tag ab Dubai mit Besuch der Jumeirah-Moschee, um das reiche Kulturerbe der Emirate zu entdecken, mit 75-minuetigem gefuehrtem Kulturprogramm.",
+  "fullDescription": "Dieses Erlebnis laesst Sie das reiche Kulturerbe und die Traditionen der Vereinigten Arabischen Emirate entdecken. Es konzentriert sich auf die Jumeirah-Moschee, den laengsten Stopp mit etwa zwei Stunden vor Ort.\n\nDer Preis umfasst die Abholung am Hotel in Dubai, das Absetzen am Hotel in Dubai, klimatisierten Transport, und den Eintritt zum Kulturprogramm der Jumeirah-Moschee. Ein 75-minuetiges gefuehrtes kulturelles Erlebnis wird von einem englischsprachigen lokalen Kulturreferenten angeboten, mit traditionellen arabischen Snacks und Erfrischungen, und benotigte Kleidung fuer den Moscheebesuch kann ausgeliehen werden.\n\nDurchgefuehrt von CyanOasisTours, kann dieses Erlebnis kostenlos storniert werden und deckt insgesamt acht Punkte ab. Der Preis von 213 USD ist derselbe fuer einen oder zwei Reisende, da er pro Gruppe abgerechnet wird.",
+  "highlights": [
+   "Das reiche Kulturerbe und die Traditionen der Vereinigten Arabischen Emirate entdecken",
+   "75-minuetiges gefuehrtes kulturelles Erlebnis",
+   "Englischsprachiger lokaler Kulturreferent",
+   "Traditionelle arabische Snacks und Erfrischungen",
+   "Benoetigte Moscheekleidung ausleihbar"
+  ],
+  "included": [
+   "Abholung am Hotel in Dubai",
+   "Absetzen am Hotel in Dubai",
+   "klimatisierter Transport",
+   "Eintritt zum Kulturprogramm der Jumeirah-Moschee",
+   "75-minuetiges gefuehrtes kulturelles Erlebnis",
+   "englischsprachiger lokaler Kulturreferent",
+   "traditionelle arabische Snacks und Erfrischungen",
+   "benoetigte Moscheekleidung ausleihbar"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben",
+   "Trinkgelder (optional)",
+   "zusaetzliches Essen und Getraenke, die nicht im Programm enthalten sind"
+  ]
+ },
+ "dubai-premium-red-dunes-desert-safari-camel-ride": {
+  "title": "Dubai: Premium-Red-Dunes-Wuestensafari mit Kamelritt und Fruehstueck",
+  "metaTitle": "Premium-Red-Dunes-Safari",
+  "metaDescription": "Ein halber Tag ab Dubai mit Besuch der Red-Dunes-Wuestensafari und dem Wuestenschutzgebiet von Dubai.",
+  "shortDescription": "Ein halber Tag ab Dubai mit Besuch der Red-Dunes-Wuestensafari und dem Wuestenschutzgebiet von Dubai, mit Kamelritt und Fruehstueck.",
+  "fullDescription": "Dieses Erlebnis laesst Sie eine landschaftliche Fahrt durch das atemberaubende Wuestenschutzgebiet von Dubai geniessen. Es beginnt bei der Red-Dunes-Wuestensafari von Dubai, dann geht es weiter zum Wuestenschutzgebiet.\n\nDer Preis umfasst Abholung und Absetzen am Hotel in einem geteilten Fahrzeug, einen Safari-Guide, eine Duenenfahrt durch das Schutzgebiet, und Tierbeobachtungen. Ein kurzer Kamelritt, Sandboarding (wetterabhaengig), unbegrenzte alkoholfreie Getraenke und Wasser, ein leichtes Fruehstueck, und ein Beitrag zu lokalen Naturschutzprojekten runden das Erlebnis ab.\n\nDurchgefuehrt von Arabian Adventures, umfasst dieses Erlebnis zwei Stopps insgesamt und deckt nicht lokale Unterhaltung, Henna-Handbemalung oder die Falkenshow ab.",
+  "highlights": [
+   "Eine landschaftliche Fahrt durch das atemberaubende Wuestenschutzgebiet von Dubai geniessen",
+   "Kurzer Kamelritt",
+   "Sandboarding wetterabhaengig",
+   "Leichtes Fruehstueck inklusive",
+   "Beitrag zu lokalen Naturschutzprojekten"
+  ],
+  "included": [
+   "Abholung und Absetzen am Hotel in einem geteilten Fahrzeug",
+   "Safari-Guide",
+   "Duenenfahrt durch das Wuestenschutzgebiet von Dubai",
+   "Tierbeobachtungen",
+   "kurzer Kamelritt",
+   "Sandboarding (wetterabhaengig)",
+   "unbegrenzte alkoholfreie Getraenke und Wasser",
+   "leichtes Fruehstueck",
+   "Beitrag zu lokalen Naturschutzprojekten"
+  ],
+  "notIncluded": [
+   "Lokale Unterhaltung",
+   "Henna-Handbemalung",
+   "Falkenshow",
+   "Shisha",
+   "alkoholische Getraenke"
+  ]
+ },
+ "dubai-scenic-sunrise-desert-experience-with": {
+  "title": "Dubai: Landschaftliches Sonnenaufgangs-Wuestenerlebnis mit Flamingo-See",
+  "metaTitle": "Sonnenaufgang Wueste Flamingos Dubai",
+  "metaDescription": "Ein halber Tag ab Dubai mit Besuch von Dubai Desert Safari Funventures und dem Al-Qudra-Enten-und-Schwan-See.",
+  "shortDescription": "Ein halber Tag ab Dubai mit Besuch von Dubai Desert Safari Funventures und dem Al-Qudra-Enten-und-Schwan-See, mit Sonnenaufgang ueber den Duenen.",
+  "fullDescription": "Dieser Ausflug laesst Sie die kuehle Morgenluft spueren, waehrend Sie die Wueste und den Flamingo-See erkunden. Er beginnt mit einer einstuendigen Fahrt im Jeep oder SUV, dann erreicht er Dubai Desert Safari Funventures, den laengsten Stopp mit etwa zwei Stunden vor Ort, gefolgt von einer 40-minuetigen Fahrt, dem Al-Qudra-Enten-und-Schwan-See fuer 25 Minuten, und einer letzten 50-minuetigen Fahrt.\n\nDer Preis umfasst eine fruehmorgendliche Abholung von einem ausgewaehlten Hotel in Dubai, Transport im klimatisierten 4x4-Fahrzeug, den Besuch des Flamingo-Sees, und den Besuch der Wueste fuer den Sonnenaufgang ueber den Duenen. Eine Sandboarding-Moeglichkeit und das Absetzen am ausgewaehlten Hotel runden den Ausflug ab.\n\nDurchgefuehrt von Laetitia Tourism LLC, umfasst dieser Ausflug fuenf Stopps insgesamt. Der Preis von 425 USD ist derselbe fuer einen oder zwei Reisende, da er pro Gruppe abgerechnet wird.",
+  "highlights": [
+   "Die kuehle Morgenluft spueren, waehrend Sie die Wueste und den Flamingo-See erkunden",
+   "Sonnenaufgang ueber den Duenen",
+   "Besuch des Flamingo-Sees",
+   "Sandboarding-Moeglichkeit",
+   "Klimatisierter 4x4-Transport"
+  ],
+  "included": [
+   "Fruehmorgendliche Abholung von einem ausgewaehlten Hotel in Dubai",
+   "Transport im klimatisierten 4x4-Fahrzeug",
+   "Besuch des Flamingo-Sees",
+   "Besuch der Wueste fuer den Sonnenaufgang ueber den Duenen",
+   "Sandboarding-Moeglichkeit",
+   "Absetzen am ausgewaehlten Hotel in Dubai"
+  ],
+  "notIncluded": [
+   "Fruehstueck",
+   "Dune-Bashing",
+   "Kamelritt"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

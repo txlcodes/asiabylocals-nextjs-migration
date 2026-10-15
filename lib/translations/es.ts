@@ -144425,6 +144425,218 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "dubai-traditional-and-modern-tour-with-burj": {
+  "title": "Dubai: tour tradicional y moderno con entrada al Burj Khalifa",
+  "metaTitle": "Dubai tradicional y moderno",
+  "metaDescription": "Un dia completo desde Dubai visitando la Dubai Marina, el Souk Madinat Jumeirah y Palm Jumeirah.",
+  "shortDescription": "Un dia completo desde Dubai visitando la Dubai Marina, el Souk Madinat Jumeirah y Palm Jumeirah, con entrada al Burj Khalifa.",
+  "fullDescription": "Este tour le hace vivir las vistas y los aromas del zoco de las especias para probar el viejo Dubai. Comienza en la Dubai Marina durante 20 minutos, luego el Souk Madinat Jumeirah durante 20 minutos, Palm Jumeirah durante 20 minutos, el Atlantis de Dubai durante 15 minutos, y la playa de Jumeirah durante 20 minutos.\n\nEl precio cubre el transporte en vehiculo climatizado, la recogida y entrega en el hotel, un guia con licencia, y una entrada al Burj Khalifa (pisos 124 y 125). Visita tanto el Dubai antiguo como el moderno, con un paseo en abra.\n\nOperado por Arabian Vista Tourism LLC, este tour tiene 13 paradas en total.",
+  "highlights": [
+   "Vivir las vistas y los aromas del zoco de las especias para probar el viejo Dubai",
+   "Entrada al Burj Khalifa (pisos 124 y 125)",
+   "Visita al Dubai antiguo y moderno",
+   "Paseo en abra",
+   "Trece paradas por lugares emblematicos de Dubai"
+  ],
+  "included": [
+   "Transporte en vehiculo climatizado",
+   "recogida y entrega en el hotel",
+   "guia con licencia",
+   "entrada al Burj Khalifa (pisos 124 y 125)",
+   "visita al Dubai antiguo y moderno",
+   "paseo en abra",
+   "agua embotellada"
+  ],
+  "notIncluded": [
+   "Almuerzo y cena",
+   "gastos personales"
+  ]
+ },
+ "dubai-east-guided-jetski-ride": {
+  "title": "Dubai Este: paseo guiado en moto de agua",
+  "metaTitle": "Moto de agua Dubai Este",
+  "metaDescription": "Un trayecto de treinta minutos desde Dubai visitando DUBAI SHARK JETSKI EAST RENTALS para un paseo.",
+  "shortDescription": "Un trayecto de treinta minutos desde Dubai visitando DUBAI SHARK JETSKI EAST RENTALS, con guia y fotos moviles gratuitas.",
+  "fullDescription": "Este trayecto le lleva a DUBAI SHARK JETSKI EAST RENTALS para un paseo. La ubicacion premium se encuentra en la Dubai Marina.\n\nEl precio cubre un chaleco salvavidas, la moto de agua, un guia y fotos moviles gratuitas, asi como agua potable.\n\nOperado por Shark Jetski East, este trayecto cobra el mismo precio de 149 USD para uno o dos viajeros, ya que se tarifa por grupo.",
+  "highlights": [
+   "Ubicacion premium en la Dubai Marina"
+  ],
+  "included": [
+   "Chaleco salvavidas",
+   "moto de agua",
+   "guia",
+   "fotos moviles gratuitas",
+   "agua potable"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "propinas"
+  ]
+ },
+ "dubaibest-fishing-trip-4hours": {
+  "title": "Dubai: la mejor excursion de pesca de 4 horas",
+  "metaTitle": "Pesca 4 horas Dubai",
+  "metaDescription": "Media jornada en Dubai en el canal de la Dubai Marina para una excursion de pesca.",
+  "shortDescription": "Media jornada en Dubai en el canal de la Dubai Marina para una excursion de pesca, con capitan y equipo completo.",
+  "fullDescription": "Esta excursion de pesca de cuatro horas se realiza en el canal de la Dubai Marina. El precio cubre el capitan y la tripulacion, un altavoz Bluetooth, refrescos, bebidas sin alcohol y agua.\n\nOperado por Dubai Marina Majesty Yachts, esta excursion se puede cancelar gratis y cubre nueve elementos en total, incluyendo equipo de pesca, cebos, pesas, anzuelos y cañas. El precio de 743 USD es el mismo para uno o dos viajeros, ya que se tarifa por grupo.",
+  "highlights": [
+   "Excursion de pesca en el canal de la Dubai Marina"
+  ],
+  "included": [
+   "Capitan y tripulacion",
+   "altavoz Bluetooth",
+   "refrescos",
+   "bebidas sin alcohol y agua",
+   "equipo de pesca",
+   "cebos",
+   "pesas",
+   "anzuelos",
+   "cañas"
+  ],
+  "notIncluded": [
+   "Recogida y entrega en el hotel",
+   "toalla",
+   "parrilla"
+  ]
+ },
+ "dubai-photos-photography-tour": {
+  "title": "Dubai: tour en moto de agua hacia el Burj Al Arab con fotos y videos",
+  "metaTitle": "Moto de agua Burj Al Arab fotos",
+  "metaDescription": "Un trayecto de treinta minutos desde Dubai visitando el Seabreacher Diving Club con parada fotografica y charla de seguridad.",
+  "shortDescription": "Un trayecto de treinta minutos desde Dubai visitando el Seabreacher Diving Club con parada fotografica, charla de seguridad y vistas panoramicas en el camino.",
+  "fullDescription": "Este trayecto le lleva al Seabreacher Diving Club para una parada fotografica, una charla de seguridad y vistas panoramicas en el camino. Sentira la emocion de cortar el agua en una moto de agua potente.\n\nEl precio cubre un recorrido de 30 minutos, una hora o dos horas, el recorrido en moto de agua, un chaleco salvavidas, una botella de agua, taquillas, y fotos y videos.\n\nOperado por Seabreacher Water Sports, este trayecto cobra el mismo precio de 124 USD para uno o dos viajeros, ya que se tarifa por grupo.",
+  "highlights": [
+   "Sentir la emocion de cortar el agua en una moto de agua potente"
+  ],
+  "included": [
+   "Recorrido de 30 minutos, una hora o dos horas",
+   "recorrido en moto de agua",
+   "chaleco salvavidas",
+   "botella de agua",
+   "taquillas",
+   "fotos y videos"
+  ],
+  "notIncluded": [
+   "Recogida y entrega en el hotel",
+   "comida y bebidas"
+  ]
+ },
+ "dubai-heritage-desert-safari-wtih-overnight-and": {
+  "title": "Dubai: safari patrimonial por el desierto con pernoctacion y desayuno",
+  "metaTitle": "Safari patrimonial con pernoctacion",
+  "metaDescription": "Un dia completo desde Dubai visitando la Reserva de Conservacion del Desierto de Dubai en un Land Rover clasico.",
+  "shortDescription": "Un dia completo desde Dubai visitando la Reserva de Conservacion del Desierto de Dubai en un Land Rover clasico, con pernoctacion y desayuno.",
+  "fullDescription": "Esta experiencia le hace explorar la Reserva de Conservacion del Desierto de Dubai en un legendario Land Rover, sin dune bashing. El trayecto en jeep o SUV dura una hora, luego llega a la reserva durante una hora, seguida de otros 30 minutos, y dos paradas adicionales en el lugar.\n\nTras la recogida en los hoteles de Dubai, disfruta de una demostracion de cetreria al atardecer con te y zumo de vimto. Pasa la noche en viviendas tradicionales de piedra arabe con colchon y ropa de cama, con acceso a instalaciones sanitarias en el campamento (duchas a peticion). Una velada de entretenimiento cultural con yola y tambores precede a una sesion de observacion de estrellas con un guia profesional, seguida de una cena tradicional y un desayuno gourmet.\n\nOperado por Platinum Heritage Luxury Tours & Safaris, esta experiencia tiene seis paradas en total.",
+  "highlights": [
+   "Explorar la Reserva de Conservacion del Desierto de Dubai en un legendario Land Rover de los años 1950",
+   "Demostracion de cetreria al atardecer",
+   "Pernoctacion en viviendas tradicionales de piedra arabe",
+   "Velada de entretenimiento cultural con yola y tambores",
+   "Cena tradicional y desayuno gourmet"
+  ],
+  "included": [
+   "Recogida y entrega desde los hoteles de Dubai",
+   "paseo natural en Land Rovers clasicos dentro de la reserva, sin dune bashing",
+   "demostracion de cetreria al atardecer con te y zumo de vimto",
+   "viviendas tradicionales de piedra arabe con colchon y ropa de cama",
+   "instalaciones sanitarias en el campamento (duchas a peticion)",
+   "velada de entretenimiento cultural con yola y tambores",
+   "sesion de observacion de estrellas con un guia profesional",
+   "cena tradicional y desayuno gourmet"
+  ],
+  "notIncluded": [
+   "Fotos",
+   "propinas"
+  ]
+ },
+ "dubai-islamic-cultural-experience-with-jumeirah": {
+  "title": "Dubai: experiencia islamica y cultural con la Mezquita de Jumeirah",
+  "metaTitle": "Experiencia cultural Mezquita Jumeirah",
+  "metaDescription": "Media jornada desde Dubai visitando la Mezquita de Jumeirah para descubrir el rico patrimonio de los Emiratos.",
+  "shortDescription": "Media jornada desde Dubai visitando la Mezquita de Jumeirah para descubrir el rico patrimonio de los Emiratos, con programa cultural guiado de 75 minutos.",
+  "fullDescription": "Esta experiencia le hace descubrir el rico patrimonio y las tradiciones de los Emiratos Arabes Unidos. Se centra en la Mezquita de Jumeirah, la parada mas larga con unas dos horas en el lugar.\n\nEl precio cubre la recogida en el hotel en Dubai, la entrega en el hotel en Dubai, transporte climatizado, y la entrada al programa cultural de la Mezquita de Jumeirah. Se ofrece una experiencia cultural guiada de 75 minutos por un presentador cultural local de habla inglesa, con aperitivos y refrescos arabes tradicionales, y la vestimenta requerida para entrar en la mezquita se puede tomar en prestamo.\n\nOperada por CyanOasisTours, esta experiencia se puede cancelar gratis y cubre ocho elementos en total. El precio de 213 USD es el mismo para uno o dos viajeros, ya que se tarifa por grupo.",
+  "highlights": [
+   "Descubrir el rico patrimonio y las tradiciones de los Emiratos Arabes Unidos",
+   "Experiencia cultural guiada de 75 minutos",
+   "Presentador cultural local de habla inglesa",
+   "Aperitivos y refrescos arabes tradicionales",
+   "Vestimenta requerida para la mezquita disponible en prestamo"
+  ],
+  "included": [
+   "Recogida en el hotel en Dubai",
+   "entrega en el hotel en Dubai",
+   "transporte climatizado",
+   "entrada al programa cultural de la Mezquita de Jumeirah",
+   "experiencia cultural guiada de 75 minutos",
+   "presentador cultural local de habla inglesa",
+   "aperitivos y refrescos arabes tradicionales",
+   "vestimenta requerida para la mezquita disponible en prestamo"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "propinas (opcionales)",
+   "comida y bebidas adicionales no incluidas en el programa"
+  ]
+ },
+ "dubai-premium-red-dunes-desert-safari-camel-ride": {
+  "title": "Dubai: safari premium de las Dunas Rojas con paseo en camello y desayuno",
+  "metaTitle": "Safari premium Dunas Rojas",
+  "metaDescription": "Media jornada desde Dubai visitando el safari de las Dunas Rojas y la Reserva de Conservacion del Desierto de Dubai.",
+  "shortDescription": "Media jornada desde Dubai visitando el safari de las Dunas Rojas y la Reserva de Conservacion del Desierto de Dubai, con paseo en camello y desayuno.",
+  "fullDescription": "Esta experiencia le hace disfrutar de un trayecto panoramico por la impresionante Reserva de Conservacion del Desierto de Dubai. Comienza en el safari de las Dunas Rojas de Dubai, luego continua hacia la reserva de conservacion.\n\nEl precio cubre recogida y entrega en el hotel en un vehiculo compartido, un guia de safari, un trayecto por las dunas a traves de la reserva, y avistamiento de fauna. Un breve paseo en camello, sandboard (segun el clima), bebidas sin alcohol y agua ilimitadas, un desayuno ligero, y una contribucion a proyectos de conservacion locales completan la experiencia.\n\nOperado por Arabian Adventures, esta experiencia tiene dos paradas en total y no cubre el entretenimiento local, el tatuaje de henna en las manos ni el espectaculo de halcones.",
+  "highlights": [
+   "Disfrutar de un trayecto panoramico por la impresionante Reserva de Conservacion del Desierto de Dubai",
+   "Breve paseo en camello",
+   "Sandboard segun el clima",
+   "Desayuno ligero incluido",
+   "Contribucion a proyectos de conservacion locales"
+  ],
+  "included": [
+   "Recogida y entrega en el hotel en un vehiculo compartido",
+   "guia de safari",
+   "trayecto por las dunas a traves de la Reserva de Conservacion del Desierto de Dubai",
+   "avistamiento de fauna",
+   "breve paseo en camello",
+   "sandboard (segun el clima)",
+   "bebidas sin alcohol y agua ilimitadas",
+   "desayuno ligero",
+   "contribucion a proyectos de conservacion locales"
+  ],
+  "notIncluded": [
+   "Entretenimiento local",
+   "tatuaje de henna en las manos",
+   "espectaculo de halcones",
+   "shisha",
+   "bebidas alcoholicas"
+  ]
+ },
+ "dubai-scenic-sunrise-desert-experience-with": {
+  "title": "Dubai: experiencia panoramica del desierto al amanecer con el Lago de los Flamencos",
+  "metaTitle": "Amanecer desierto flamencos Dubai",
+  "metaDescription": "Media jornada desde Dubai visitando Dubai Desert Safari Funventures y el Lago de Patos y Cisnes de Al Qudra.",
+  "shortDescription": "Media jornada desde Dubai visitando Dubai Desert Safari Funventures y el Lago de Patos y Cisnes de Al Qudra, con amanecer sobre las dunas.",
+  "fullDescription": "Esta excursion le hace sentir el aire fresco de la mañana mientras explora el desierto y el Lago de los Flamencos. Comienza con un trayecto de una hora en jeep o SUV, luego llega a Dubai Desert Safari Funventures, la parada mas larga con unas dos horas en el lugar, seguido de un trayecto de 40 minutos, el Lago de Patos y Cisnes de Al Qudra durante 25 minutos, y un ultimo trayecto de 50 minutos.\n\nEl precio cubre una recogida de madrugada desde un hotel seleccionado en Dubai, transporte en vehiculo 4x4 climatizado, la visita al Lago de los Flamencos, y la visita al desierto para el amanecer sobre las dunas. Una oportunidad de sandboard y la entrega en el hotel seleccionado completan la excursion.\n\nOperada por Laetitia Tourism LLC, esta excursion tiene cinco paradas en total. El precio de 425 USD es el mismo para uno o dos viajeros, ya que se tarifa por grupo.",
+  "highlights": [
+   "Sentir el aire fresco de la mañana mientras explora el desierto y el Lago de los Flamencos",
+   "Amanecer sobre las dunas",
+   "Visita al Lago de los Flamencos",
+   "Oportunidad de sandboard",
+   "Transporte 4x4 climatizado"
+  ],
+  "included": [
+   "Recogida de madrugada desde un hotel seleccionado en Dubai",
+   "transporte en vehiculo 4x4 climatizado",
+   "visita al Lago de los Flamencos",
+   "visita al desierto para el amanecer sobre las dunas",
+   "oportunidad de sandboard",
+   "entrega en el hotel seleccionado en Dubai"
+  ],
+  "notIncluded": [
+   "Desayuno",
+   "dune bashing",
+   "paseo en camello"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
