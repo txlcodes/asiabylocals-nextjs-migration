@@ -101907,6 +101907,723 @@ export const DE_TOURS: Record<string, TourT> = {
    "Reiseversicherung"
   ]
  },
+ "ella-full-day-tour-from": {
+  "title": "Tagesausflug ab Ella (Mirissa, Ahangama, Hikkaduwa, Bentota)",
+  "metaTitle": "Tagesausflug ab Ella",
+  "metaDescription": "Ein Tagesausflug ab Ella nach Demodara, Lipton's Seat und Little Adam's Peak, mit Abholung von der Suedkueste.",
+  "shortDescription": "Ein Tagesausflug ab Ella nach Demodara, Lipton's Seat und Little Adam's Peak, mit privater Abholung von der Suedkueste (Bentota, Hikkaduwa, Mirissa, Ahangama).",
+  "fullDescription": "Dieser Ausflug startet in der Region Ella und verbindet drei Stopps in den suedlichen Huegeln. Demodara kommt zuerst, mit der beruehmten Neunbogenbruecke und der spiralfoermigen Eisenbahnstrecke. Lipton's Seat, der laengste Stopp mit etwa zwei Stunden vor Ort, bietet einen Panoramablick ueber die Teeplantagen von dem Punkt aus, an dem Sir Thomas Lipton seine Besitzungen beobachtete. Little Adam's Peak schliesst den Tag mit einem sanften Aufstieg und Blick auf die Ella Gap ab.\n\nEin lokales Tuk-Tuk wird fuer den Abschnitt zu Lipton's Seat genutzt, da die Strasse eng und kurvenreich ist. Der Rest der Fahrt erfolgt in einem privaten klimatisierten Fahrzeug mit englischsprachigem Fahrer, der Sie an Ihrem Hotel an der Suedkueste (Bentota, Hikkaduwa, Mirissa, Ahangama usw.) abholt und am Ende des Tages zuruckbringt.",
+  "highlights": [
+   "Landschaftliche Zugfahrt durch Teeplantagen zwischen Demodara und Haputale",
+   "Panoramablick von Lipton's Seat ueber die Teeplantagen",
+   "Die Neunbogenbruecke in Demodara",
+   "Sanfter Aufstieg zum Gipfel von Little Adam's Peak",
+   "Private Abholung von der Suedkueste"
+  ],
+  "included": [
+   "Private Abholung und Absetzen am Hotel (Suedkueste: Bentota, Hikkaduwa, Mirissa, Ahangama usw.)",
+   "klimatisiertes Fahrzeug mit professionellem englischsprachigem Fahrer",
+   "Tuk-Tuk fuer Lipton's Seat",
+   "Besuch von Lipton's Seat, der Neunbogenbruecke und Little Adam's Peak",
+   "Kraftstoff, Maut und anfallende Steuern inklusive",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Fruehstueck und Mittagessen",
+   "Eintrittsgebuehr fuer Lipton's Seat, falls zutreffend",
+   "zusaetzliche Snacks oder Getraenke",
+   "Trinkgelder",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "negombo-colombo-full-day-tour-with-lunch": {
+  "title": "Negombo und Colombo: Tagesausflug mit Mittagessen",
+  "metaTitle": "Negombo und Colombo",
+  "metaDescription": "Ein Tagesausflug ab Colombo nach Negombo: St.-Sebastian-Kirche, Fischmarkt und hollaendischer Kanal, mit Mittagessen inklusive.",
+  "shortDescription": "Ein Tagesausflug ab Colombo nach Negombo mit der St.-Sebastian-Kirche, dem Fischmarkt, der St.-Marien-Kirche und dem hollaendischen Kanal, Mittagessen inklusive.",
+  "fullDescription": "Dieser Ausflug startet in Colombo und kombiniert Negombo mit mehreren Sehenswuerdigkeiten im Zentrum Colombos an einem einzigen Tag. In Negombo besuchen Sie die St.-Sebastian-Kirche an der Sea Street, den Fischmarkt mit seiner Trockenfischzone und die St.-Marien-Kirche, dann schlendern Sie entlang des hollaendischen Kanals.\n\nDer Rest des Tages konzentriert sich auf Colombo: den Gangaramaya-Tempel, den laengsten Stopp mit etwa einer Stunde vor Ort, die Jami-Ul-Alfar-Moschee, den Unabhaengigkeitsplatz, den Sri-Kailawasanathan-Swami-Devasthanam-Kovil, und einen entspannten Moment in Galle Face Green und im Viharamahadevi-Park. Ein schmackhaftes sri-lankisches Mittagessen ist unterwegs inklusive. Diese Tour mit 12 Stopps umfasst Pausen von 20 bis 30 Minuten an jeder Kirche und am Markt, und der Preis von 203 USD gilt fuer zwei Reisende zusammen statt 176 USD je Person.",
+  "highlights": [
+   "Fischmarkt und Trockenfischzone von Negombo",
+   "St.-Marien- und St.-Sebastian-Kirchen",
+   "Spaziergang entlang des hollaendischen Kanals",
+   "Gangaramaya-Tempel und Jami-Ul-Alfar-Moschee",
+   "Sri-lankisches Mittagessen inklusive"
+  ],
+  "included": [
+   "Besuch des Fischmarkts von Negombo",
+   "Erkundung der Trockenfischzone",
+   "Besuch der St.-Marien- und St.-Sebastian-Kirchen",
+   "Spaziergang entlang des hollaendischen Kanals",
+   "Besuch des Gangaramaya-Tempels",
+   "Besuch der Jami-Ul-Alfar-Moschee",
+   "Besuch des Unabhaengigkeitsplatzes",
+   "Besuch des Sri-Kailawasanathan-Swami-Devasthanam-Kovil",
+   "Entspannung im Galle Face Green und im Viharamahadevi-Park",
+   "leckeres sri-lankisches Mittagessen",
+   "Parkgebuehren",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "negombo-beach-getaway-with-culture-adventure": {
+  "title": "Negombo: Strandflucht mit Kultur und Abenteuer",
+  "metaTitle": "Negombo: Strand und Kultur",
+  "metaDescription": "Ein ganztaegiges Erlebnis in Negombo, um die reiche Geschichte der Stadt bei der Erkundung der Hollaendischen Festung zu entdecken.",
+  "shortDescription": "Ein ganztaegiges Erlebnis in Negombo, um die reiche Geschichte der Stadt bei der Erkundung der Hollaendischen Festung, des Strandes und der Lagune zu entdecken.",
+  "fullDescription": "Dieser ganztaegige Ausflug in Negombo verbindet Strand, Geschichte und etwas Abenteuer. Sie entdecken den Strand von Negombo, die Hollaendische Festung, die St.-Marien-Kirche, die Lagune von Negombo, den Fischmarkt Lellama, den hollaendischen Kanal, den Muthurajawela-Sumpf und den Angurukaramulla-Tempel.\n\nWassersport- und Abenteueraktivitaeten sind inklusive fuer alle, die den Tag aufregender gestalten moechten, ebenso wie ein Obstteller und eine Flasche Wasser zur Erfrischung. Durchgefuehrt von Sachin Travels and Tours Sri Lanka, kann dieser Ausflug kostenlos storniert werden. Insgesamt sind 12 Punkte im Preis enthalten.",
+  "highlights": [
+   "Die reiche Geschichte Negombos bei der Erkundung der Hollaendischen Festung entdecken",
+   "Fischmarkt Lellama und hollaendischer Kanal",
+   "Muthurajawela-Sumpf und Angurukaramulla-Tempel",
+   "Wassersport- und Abenteueraktivitaeten",
+   "Obstteller inklusive"
+  ],
+  "included": [
+   "Strand von Negombo",
+   "Hollaendische Festung",
+   "St.-Marien-Kirche",
+   "Lagune von Negombo",
+   "Fischmarkt (Lellama)",
+   "hollaendischer Kanal",
+   "Muthurajawela-Sumpf",
+   "Angurukaramulla-Tempel",
+   "Wassersport- und Abenteueraktivitaeten",
+   "Obstteller",
+   "Wasserflasche",
+   "Parkgebuehren"
+  ],
+  "notIncluded": [
+   "Unterkunft",
+   "Mittagessen",
+   "Fruehstueck",
+   "Bootsticket",
+   "Eintrittsticket"
+  ]
+ },
+ "shore-excursion-colombo-highlight-tour-from": {
+  "title": "Landausflug: Highlight-Tour durch Colombo vom Passagierhafen",
+  "metaTitle": "Landausflug Colombo",
+  "metaDescription": "Ein halber Tag in Colombo ab dem Passagierhafen: Gangaramaya-Tempel, Lotus Tower und Rote Moschee Jami Ul-Alfar.",
+  "shortDescription": "Ein halber Tag in Colombo ab dem Passagierhafen, mit dem Gangaramaya-Tempel, dem Lotus Tower und der Roten Moschee Jami Ul-Alfar.",
+  "fullDescription": "Dieser Landausflug ist fuer Kreuzfahrtpassagiere mit begrenzter Zeit an Land gestaltet. Er umfasst den Gangaramaya-Tempel, den Lotus Tower und die Rote Moschee Jami Ul-Alfar in einem halben Tag mit durchgehendem Transport und englischsprachigem Fahrer.\n\nDurchgefuehrt von Colombo City Boy, kann dieser Ausflug kostenlos storniert werden und bietet einen schnellen, aber effektiven Einblick in die wichtigsten Sehenswuerdigkeiten Colombos vor Ihrer Rueckkehr zum Schiff.",
+  "highlights": [
+   "Gangaramaya-Tempel",
+   "Der Lotus Tower",
+   "Rote Moschee Jami Ul-Alfar",
+   "Durchgehender Transport mit englischsprachigem Fahrer"
+  ],
+  "included": [
+   "Durchgehender Transport",
+   "englischsprachiger Fahrer"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehr",
+   "Essen und Getraenke"
+  ]
+ },
+ "all-inclusive-sigiriya-village-tour-with-lunch": {
+  "title": "Rundum-Tour durch das Dorf Sigiriya mit Mittagessen und Transfers",
+  "metaTitle": "Sigiriya-Dorf Rundum",
+  "metaDescription": "Ein dreistuendiger Ausflug ab Sigiriya im Tuk-Tuk, mit Ochsenkarrenfahrt und traditioneller Kochvorfuehrung.",
+  "shortDescription": "Ein dreistuendiger Ausflug ab Sigiriya im Tuk-Tuk nach Dambulla, mit Ochsenkarrenfahrt, traditioneller Kochvorfuehrung und authentischem sri-lankischem Mittagessen.",
+  "fullDescription": "Dieser dreistuendige Ausflug ab Sigiriya bringt Sie im Tuk-Tuk durch das lokale Dorf, bevor es weiter nach Dambulla geht. Ein lokaler Guide begleitet Sie die ganze Strecke, zu der eine traditionelle Ochsenkarrenfahrt und eine Vorfuehrung lokaler Kochkunst gehoeren.\n\nDer Preis umfasst Abholung und Absetzen am Hotel per Tuk-Tuk, den lokalen Guide, die Ochsenkarrenfahrt, die Kochvorfuehrung, ein authentisches sri-lankisches Mittagessen und alle staatlichen Steuern. Diese Tour mit 2 Stopps umfasst 30 Minuten Tuk-Tuk-Fahrt, und der Preis von 136 USD gilt fuer zwei Reisende zusammen statt 111 USD je Person.",
+  "highlights": [
+   "Spaziergang durch uppige Reisfelder und malerische laendliche Landschaften",
+   "Traditionelle Ochsenkarrenfahrt",
+   "Traditionelle sri-lankische Kochvorfuehrung",
+   "Authentisches Mittagessen inklusive",
+   "Lokaler Guide waehrend des gesamten Ausflugs"
+  ],
+  "included": [
+   "Abholung und Absetzen am Hotel per Tuk-Tuk",
+   "lokaler Guide",
+   "Ochsenkarrenfahrt",
+   "traditionelle Kochvorfuehrung",
+   "authentisches sri-lankisches Mittagessen",
+   "alle staatlichen Steuern"
+  ],
+  "notIncluded": [
+   "Ausgaben persoenlicher Natur",
+   "empfohlene Trinkgelder"
+  ]
+ },
+ "sri-lanka-private-galle-tour-stilt-fisherman": {
+  "title": "Private Galle-Tour in Sri Lanka: Stelzenfischer, Festung Galle...",
+  "metaTitle": "Galle privat: Stelzenfischer und Festung",
+  "metaDescription": "Ein ganzer Tag in Galle mit frischer Luft und ueppigen gruenen Landschaften bei einer Flusssafari, mit optionalem Fuehrung durch die Festung.",
+  "shortDescription": "Ein ganzer Tag in Galle mit frischer Luft und ueppigen gruenen Landschaften bei einer Flusssafari, mit optionaler gefuehrter Besichtigung der Festung Galle.",
+  "fullDescription": "Dieser Tag in Galle wird von Serendipity Tours (Private) Limited organisiert und kann kostenlos storniert werden. Er umfasst eine Flusssafari in gruener, erfrischender Umgebung, gefolgt von einem optionalen Fussgaengerrundgang durch die Festung Galle mit einem lokalen Guide.\n\nDer Preis umfasst alle Eintrittsgebuehren, die gefuehrte Fussgaengertour durch die Festung Galle (optional), einen lokalen Guide, Transport in einem klimatisierten Fahrzeug, Abholung und Absetzen am Hotel, einen Besuch eines Gewuerz- und Kraeutergartens sowie einen Tempelbesuch. Insgesamt sind 7 Punkte im Preis enthalten; das Ticket fuer die Flusssafari kostet zusaetzlich 25 USD pro Person, und der Preis von 237 USD gilt fuer zwei Reisende zusammen statt 136 USD je Person.",
+  "highlights": [
+   "Frische Luft und ueppige gruene Landschaften bei einer Flusssafari genieen",
+   "Optionale gefuehrte Fussgaengertour durch die Festung Galle",
+   "Besuch eines Gewuerz- und Kraeutergartens",
+   "Tempelbesuch inklusive",
+   "Klimatisierter Transport und lokaler Guide"
+  ],
+  "included": [
+   "Alle Eintrittsgebuehren",
+   "gefuehrte Tour der Festung Galle (optional)",
+   "lokaler Guide",
+   "Transport in einem klimatisierten Fahrzeug",
+   "Abholung und Absetzen am Hotel",
+   "Besuch des Gewuerz- und Kraeutergartens",
+   "Tempelbesuch"
+  ],
+  "notIncluded": [
+   "Tickets fuer die Flusssafari (25 USD pro Person)",
+   "Mahlzeiten und Getraenke",
+   "Trinkgelder"
+  ]
+ },
+ "negombo-to-kandy-pinnawala-tea-factory-private": {
+  "title": "Von Negombo nach Kandy: Pinnawala und Teefabrik (private Tour)",
+  "metaTitle": "Negombo-Kandy, Pinnawala und Tee",
+  "metaDescription": "Ein halber Tag im Tuk-Tuk von Negombo nach Kandy, mit Besuch des Elefantenwaisenhauses Pinnawala und einer traditionellen Teefabrik.",
+  "shortDescription": "Ein halber Tag im Tuk-Tuk von Negombo nach Kandy, mit Besuch des Elefantenwaisenhauses Pinnawala und einer traditionellen Teefabrik mit Verkostung.",
+  "fullDescription": "Diese private Tuk-Tuk-Fahrt verbindet Negombo mit Kandy ueber zwei denkwuerdige Stopps. Das Elefantenwaisenhaus Pinnawala, der laengste Stopp mit etwa einer Stunde vor Ort, ermoeglicht es, versorgte und betreute Elefanten zu beobachten. Danach bietet eine traditionelle Teefabrik in New Giragama eine Verkostung.\n\nDurchgefuehrt von Heli Tuk Tuk Tours, beinhaltet diese Reise die Abholung in Negombo und das Absetzen in Kandy, fuer ein originelles und landschaftlich reizvolles Erlebnis zwischen den beiden Staedten. Diese Tour mit 3 Stopps umfasst 30 Minuten an der Teefabrik, und der Preis von 271 USD gilt fuer zwei Reisende zusammen statt 237 USD je Person.",
+  "highlights": [
+   "Das Herz Sri Lankas auf einer Tuk-Tuk-Tour von Negombo nach Kandy entdecken",
+   "Besuch des Elefantenwaisenhauses Pinnawala",
+   "Besuch einer traditionellen Teefabrik mit Verkostung",
+   "Landschaftlich reizvolle Tuk-Tuk-Fahrt",
+   "Abholung in Negombo und Absetzen in Kandy"
+  ],
+  "included": [
+   "Tuk-Tuk-Fahrt von Negombo nach Kandy",
+   "Besuch des Elefantenwaisenhauses Pinnawala",
+   "Besuch einer traditionellen Teefabrik",
+   "Teeverkostung",
+   "Hotelabholung in Negombo und Absetzen in Kandy"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehr fuer das Elefantenwaisenhaus Pinnawala"
+  ]
+ },
+ "from-kandy-sigiriya-hiking-wild-safari": {
+  "title": "Ab Kandy: Wandern in Sigiriya und Wildnis-Safari",
+  "metaTitle": "Kandy, Sigiriya und Safari",
+  "metaDescription": "Ein Tagesausflug ab Kandy mit dem Sri-Muththumari-Amman-Tempel in Matale, Nalanda Gedige und den Hoehlen von Dambulla.",
+  "shortDescription": "Ein Tagesausflug ab Kandy mit dem Sri-Muththumari-Amman-Tempel in Matale, Nalanda Gedige und den Hoehlen von Dambulla, mit Option auf eine Wildnis-Jeep-Safari.",
+  "fullDescription": "Dieser Ausflug ab Kandy verbindet drei kulturelle Stopps vor einer Abenteueroption. Der hinduistische Sri-Muththumari-Amman-Tempel in Matale, die archaeologische Staette Nalanda Gedige und der Hoehlentempel von Dambulla bilden die Hauptroute, mit der Moeglichkeit, die Felsenfestung Sigiriya zu erkunden oder den Pidurangala-Felsen zu besteigen.\n\nEine optionale Wildnis-Jeep-Safari ergaenzt das Erlebnis. Der Preis umfasst ein privates klimatisiertes Fahrzeug, ein traditionelles sri-lankisches Fruehstueck, einen englischsprachigen Fahrer-Guide und alle Parkgebuehren, Maut und Kraftstoffkosten. Diese Tour mit 3 Stopps umfasst 30 Minuten an jeder der ersten beiden Staetten.",
+  "highlights": [
+   "Die antike Felsenfestung Sigiriya erkunden oder den Pidurangala-Felsen besteigen",
+   "Hinduistischer Sri-Muththumari-Amman-Tempel in Matale",
+   "Archaeologische Staette Nalanda Gedige",
+   "Hoehlentempel von Dambulla",
+   "Option auf eine Wildnis-Jeep-Safari"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug",
+   "traditionelles sri-lankisches Fruehstueck",
+   "englischsprachiger Fahrer-Guide",
+   "alle Park-, Maut- und Kraftstoffgebuehren",
+   "Flaschenwasser oder Koenigskokoswasser",
+   "Abholung und Absetzen am Hotel",
+   "optionale Wildnis-Jeep-Safari"
+  ],
+  "notIncluded": [
+   "Eintrittskarten fuer die Felsenfestung Sigiriya oder den Pidurangala-Felsen",
+   "Eintrittskarten fuer den Hoehlentempel von Dambulla"
+  ]
+ },
+ "private-kandy-tour-temple-of-tooth-city-highlights": {
+  "title": "Private Kandy-Tour: Zahntempel und Stadt-Highlights",
+  "metaTitle": "Kandy privat: Zahntempel",
+  "metaDescription": "Ein ganzer Tag in Kandy, der die ikonischen Tempel, uppigen Gaerten und die reiche Kultur der Stadt vereint.",
+  "shortDescription": "Ein ganzer Tag in Kandy, der auf einzigartige Weise die ikonischen Tempel, uppigen Gaerten und die reiche Kultur der Stadt vereint.",
+  "fullDescription": "Durchgefuehrt von Hello Kandy Taxi & Cabs, kann dieser private Tag in Kandy kostenlos storniert werden. Er umfasst privaten klimatisierten Transport den ganzen Tag, ein traditionelles sri-lankisches Fruehstueck und die Dienste eines erfahrenen lokalen Fahrer-Guides.\n\nDie Route beinhaltet einen Panorama-Fotostopp an der Grossen Buddha-Statue, einen gefuehrten kulturellen Spaziergang durch den heiligen Komplex des Zahntempels, einen Spaziergang entlang der grossen Alleen der Koeniglichen Botanischen Gaerten und eine Blick-hinter-die-Kulissen-Fuehrung durch eine aktive Ceylon-Teefabrik mit Verkostung. Ein historischer Spaziergang durch den Campus der Universitaet von Peradeniya rundet die Route ab. Insgesamt sind 12 Punkte im Preis enthalten; der Heilige Zahntempel kostet etwa 2.000 bis 3.000 LKR pro Erwachsenem (etwa 10 USD), und die Koeniglichen Botanischen Gaerten von Peradeniya etwa 10 USD pro Erwachsenem, und der Preis von 47 USD ist derselbe fuer einen oder zwei Reisende.",
+  "highlights": [
+   "Diese Tour vereint auf einzigartige Weise die ikonischen Tempel, uppigen Gaerten und reiche Kultur Kandys",
+   "Panorama-Fotostopp an der Grossen Buddha-Statue",
+   "Gefuehrter kultureller Spaziergang zum Heiligen Zahntempel",
+   "Koenigliche Botanische Gaerten von Peradeniya",
+   "Gefuehrte Tour durch eine Ceylon-Teefabrik mit Verkostung"
+  ],
+  "included": [
+   "Privater klimatisierter Transport den ganzen Tag",
+   "traditionelles sri-lankisches Fruehstueck",
+   "Dienste eines erfahrenen lokalen Fahrer-Guides",
+   "Teefabrik- und Campusbesuch der Universitaet Peradeniya kostenlos",
+   "Abholung und Absetzen am Hotel im Bereich Kandy",
+   "Fotostopp an der Grossen Buddha-Statue",
+   "gefuehrter Spaziergang zum Heiligen Zahntempel",
+   "gefuehrte Tour der Koeniglichen Botanischen Gaerten",
+   "frisch gebraute Tasse authentischen Ceylon-Tees bei der Verkostung",
+   "alle Kraftstoffkosten, Parkgebuehren und Maut"
+  ],
+  "notIncluded": [
+   "Heiliger Zahntempel: etwa 2.000 bis 3.000 LKR pro Erwachsenem (etwa 7-10 USD), angemessene Kleidung mit bedeckten Schultern und Knien erforderlich",
+   "Koenigliche Botanische Gaerten (Peradeniya): etwa 3.000 LKR pro Erwachsenem (etwa 10 USD)"
+  ]
+ },
+ "colombo-tuk-tuk-city-tour-with-friendly-guide-all": {
+  "title": "Colombo-Tuk-Tuk-Stadttour mit freundlichem Guide (Rundum)",
+  "metaTitle": "Colombo im Tuk-Tuk, Rundum",
+  "metaDescription": "Ein halber Tag im Tuk-Tuk durch Colombo mit dem Maritimen Museum des Hafens, dem Leuchtturm und dem alten Uhrturm des Forts.",
+  "shortDescription": "Ein halber Tag im Tuk-Tuk durch Colombo mit dem Maritimen Museum des Hafens, dem Leuchtturm und dem alten Uhrturm des Colombo Forts, unter mehr als 18 Sehenswuerdigkeiten.",
+  "fullDescription": "Diese Colombo-Tuk-Tuk-Tour verbindet fuenfzehn Stopps mit einem freundlichen Fahrer-Guide: das Maritime Museum des Hafens, den Leuchtturm, den alten Uhrturm des Colombo Forts, die Jami-Ul-Alfar-Moschee und viele mehr. Insgesamt werden mehr als 18 ikonische Sehenswuerdigkeiten Colombos abgedeckt.\n\nDurchgefuehrt von Glory Tour by Tuk Tuk, umfasst der Preis Abholung und Absetzen am Hotel von jedem Ort in Colombo, ein privates Tuk-Tuk mit erfahrenem Fahrer-Guide, ein erfrischendes Willkommensgetraenk aus Koenigskokoswasser und Flaschenwasser waehrend der Tour. Diese Tour hat insgesamt 15 Stopps, mit Aufenthalten von 5 bis 10 Minuten an jedem Ort.",
+  "highlights": [
+   "Mehr als 18 Top-Sehenswuerdigkeiten in Colombo besuchen",
+   "Maritimes Museum des Hafens von Colombo",
+   "Leuchtturm und alter Uhrturm des Forts",
+   "Jami-Ul-Alfar-Moschee",
+   "Willkommensgetraenk aus Koenigskokoswasser inklusive"
+  ],
+  "included": [
+   "Abholung und Absetzen am Hotel von jedem Ort in Colombo",
+   "privates Tuk-Tuk mit erfahrenem Fahrer-Guide",
+   "erfrischendes Willkommensgetraenk aus Koenigskokoswasser",
+   "Flaschenwasser waehrend der Tour",
+   "traditionelle Teeverkostung",
+   "Regenschirm bereitgestellt, falls benoetigt",
+   "alle Parkgebuehren und Eintrittstickets"
+  ],
+  "notIncluded": [
+   "Ticket fuer den Lotus Tower oder den Gangaramaya-Tempel"
+  ]
+ },
+ "kandy-hidden-gems-cultural-heritage-city-private": {
+  "title": "Private Kandy-Tour: Verborgene Schaetze und kulturelles Erbe",
+  "metaTitle": "Kandy: Verborgene Schaetze",
+  "metaDescription": "Ein halber Tag im privaten Tuk-Tuk durch Kandy mit Asgiri Maha Vihara, dem Bahirawakanda-Buddha und dem Ranawana-Tempel.",
+  "shortDescription": "Ein halber Tag im privaten Tuk-Tuk durch Kandy mit Asgiri Maha Vihara, dem Bahirawakanda-Buddha, dem Ranawana-Tempel und einer Teefabrik in Pilimathalawa.",
+  "fullDescription": "Diese private Tuk-Tuk-Tour durch Kandy ist vollstaendig anpassbar und entspannt, ohne jede Hektik. Sie umfasst die Asgiriya-Stupa, den Bahirawakanda-Tempel mit seiner ikonischen Grossen Buddha-Statue, den Aussichtspunkt von Kandy mit Panoramablicken, einen Spaziergang um den Kandy-See und einen Besuch einer traditionellen Teefabrik in Pilimathalawa mit Verkostung frischen Ceylon-Tees.\n\nDer Heilige Zahntempel und die Koeniglichen Botanischen Gaerten von Peradeniya, der laengste Stopp mit etwa einer Stunde vor Ort, koennen ebenfalls enthalten sein, zusammen mit einer kandyischen Kulturtanzvorfuehrung um 17:00 Uhr. Diese Tour mit 8 Stopps umfasst Pausen von 15 bis 30 Minuten an jedem Ort, und der Preis von 17 USD gilt fuer zwei Reisende zusammen statt 10 USD je Person.",
+  "highlights": [
+   "Eine wirklich private Tuk-Tuk-Stadttour genieen, exklusiv fuer Sie und Ihre Gruppe",
+   "Asgiriya-Stupa und Bahirawakanda-Tempel mit dem Grossen Buddha",
+   "Aussichtspunkt von Kandy und Spaziergang um den See",
+   "Traditionelle Teefabrik in Pilimathalawa mit Verkostung",
+   "Vollstaendig anpassbarer Zeitplan"
+  ],
+  "included": [
+   "Bequeme Abholung und Absetzen am Hotel (Bereich Kandy)",
+   "private Tuk-Tuk-Fahrt mit freundlichem lokalen Fahrer-Guide",
+   "vollstaendig anpassbarer Zeitplan",
+   "entspannte, hektikfreie Besichtigungserfahrung",
+   "Asgiriya-Stupa (kostenloser Eintritt)",
+   "Bahirawakanda-Tempel mit dem Grossen Buddha (kostenloser Eintritt)",
+   "Aussichtspunkt von Kandy (kostenloser Eintritt)",
+   "Spaziergang um den Kandy-See (kostenlos)",
+   "Heiliger Zahntempel (Eintritt: 7 USD)",
+   "Koenigliche Botanische Gaerten Peradeniya (Eintritt: 12 USD)",
+   "kandyische Kulturtanzvorfuehrung um 17:00 Uhr (Ticket: 9 USD)",
+   "Besuch einer traditionellen Teefabrik mit Verkostung frischen Ceylon-Tees (kostenlos)"
+  ],
+  "notIncluded": [
+   "Eintrittstickets"
+  ]
+ },
+ "ella-to-colombo-airport-negombo-transfer-with": {
+  "title": "Transfer von Ella zum Flughafen Colombo / Negombo mit Besichtigungen",
+  "metaTitle": "Ella nach Colombo mit Besichtigungen",
+  "metaDescription": "Ein Transfer von Ella nach Colombo, Negombo oder zum Flughafen, mit Stopps an der Festung Galle und in Colombo auf dem Weg.",
+  "shortDescription": "Ein Transfer von Ella nach Colombo, Negombo oder zum Flughafen, mit Stopps an der Festung Galle und in Colombo auf dem Weg.",
+  "fullDescription": "Dieser landschaftlich reizvolle Transfer verbindet Ella mit Ihrem naechsten Ziel, sei es Colombo, Negombo oder der Flughafen. Auf dem Weg haelt die Fahrt am Buduruwagala-Tempel, an der Festung Galle, bei den Stelzenfischern fuer ein Foto, und an einem Strand fuer den Sonnenuntergang, bevor sie mit einer Panoramatour durch Colombo und einem Spaziergang durch Port City endet.\n\nDurchgefuehrt von CEYLON OF TRAVELS - C.O.T (PVT) LTD, beinhaltet dieser Service ein privates klimatisiertes Luxusfahrzeug und einen professionellen englischsprachigen Chauffeur-Guide fuer die gesamte Fahrt.",
+  "highlights": [
+   "Landschaftlicher Transfer von Ella nach Colombo mit Besichtigungen ✨",
+   "Stopp am Buduruwagala-Tempel",
+   "Fotostopp an der Festung Galle",
+   "Fotostopp bei den Stelzenfischern",
+   "Sonnenuntergang am Strand und Stadttour durch Colombo"
+  ],
+  "included": [
+   "Privates klimatisiertes Luxusfahrzeug",
+   "professioneller englischsprachiger Chauffeur-Guide",
+   "Abholung ab Ella oder umliegenden Gebieten",
+   "Absetzen in Colombo, Negombo oder am Flughafen",
+   "Besuch des Buduruwagala-Tempels",
+   "Stopp an der Festung Galle",
+   "Fotostopp bei den Stelzenfischern",
+   "Sonnenuntergangserlebnis am Strand",
+   "Panorama-Stadttour durch Colombo",
+   "Spaziergang durch Port City",
+   "Kraftstoff, Parken und Autobahngebuehren",
+   "Flaschenwasser pro Person"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke",
+   "persoenliche Ausgaben (Einkaufen, Trinkgelder usw.)",
+   "jede zusaetzliche Aktivitaet, die nicht in der Route erwaehnt wird"
+  ]
+ },
+ "from-negombo-2-day-nuwara-eliya-kandy-waterfalls": {
+  "title": "Ab Negombo: Zweitaegige Tour zu Nuwara Eliya, Kandy und Wasserfaellen",
+  "metaTitle": "Nuwara Eliya und Kandy, 2 Tage",
+  "metaDescription": "Eine zweitaegige Tour ab Negombo ins Hochland: die landschaftliche Route nach Nuwara Eliya, die Wasserfaelle St. Clare und Devon.",
+  "shortDescription": "Eine zweitaegige Tour ab Negombo ins Hochland: die landschaftliche Route nach Nuwara Eliya, die Wasserfaelle St. Clare und Devon, und ein Erlebnis im Teeland von Nuwara Eliya.",
+  "fullDescription": "Diese zweitaegige Tour verlaesst Negombo fuer eine landschaftliche Fahrt ins zentrale Hochland. Der erste Tag umfasst den Aufstieg nach Nuwara Eliya, die Wasserfaelle St. Clare und Devon, und ein Erlebnis im Teeland rund um die Stadt, die als Sri Lankas Klein-England bekannt ist.\n\nDer zweite Tag nimmt die landschaftliche Bergstrasse von Nuwara Eliya nach Kandy, mit Stopps am Ramboda-Wasserfall, den Koeniglichen Botanischen Gaerten von Peradeniya, dem Heiligen Zahntempel, dem Bahirawakanda-Tempel, einem Edelstein-Lapidar und einem Kunsthandwerkszentrum. Eine Nacht in einem 3- oder 4-Sterne-Hotel mit Fruehstueck ist inklusive. Diese Tour mit 11 Stopps dauert zwei Tage, und der Preis von 879 USD gilt fuer zwei Reisende zusammen statt 829 USD je Person. Der Zahntempel von Kandy kostet zusaetzlich etwa 10 USD pro Person.",
+  "highlights": [
+   "Die malerische Stadt Nuwara Eliya entdecken, bekannt als Sri Lankas „Klein-England“",
+   "Wasserfaelle St. Clare und Devon",
+   "Erkundung der Teeplantagen in Nuwara Eliya",
+   "Koenigliche Botanische Gaerten von Peradeniya",
+   "Heiliger Zahntempel und Panoramablicke auf Kandy"
+  ],
+  "included": [
+   "Eine Nacht Unterkunft in einem 3- oder 4-Sterne-Hotel mit Fruehstueck",
+   "Hin- und Ruckfahrt ab Hotel im privaten klimatisierten Luxusfahrzeug",
+   "englischsprachiger Fahrer-Guide",
+   "Besuch der Wasserfaelle St. Clare und Devon",
+   "Erkundung der Teeplantagen in Nuwara Eliya",
+   "Besuch des Ramboda-Wasserfalls",
+   "Eintritt zu den Koeniglichen Botanischen Gaerten Peradeniya",
+   "Besuch des Heiligen Zahntempels",
+   "Besuch des Bahirawakanda-Tempels",
+   "Panoramablicke auf Kandy",
+   "Besuch eines Edelstein-Lapidars",
+   "Besuch eines Kunsthandwerkszentrums"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehr fuer den Ramboda-Wasserfall (5 USD pro Person)",
+   "Zahntempel Kandy (10 USD pro Person)",
+   "Bahirawakanda-Tempel (5 USD pro Person)",
+   "Botanische Gaerten Peradeniya (10 USD pro Person)",
+   "Mittag- oder Abendessen waehrend der Tour",
+   "jede andere nicht im Abschnitt Preis-Inklusive genannte Ausgabe",
+   "Trinkgelder"
+  ]
+ },
+ "gallemirissahiriketiya-transfer-to-ella-udawalawe": {
+  "title": "Galle/Mirissa/Hiriketiya: Transfer nach Ella mit Safari in Udawalawe",
+  "metaTitle": "Transfer nach Ella mit Safari",
+  "metaDescription": "Ein ganzer Tag von der Suedkueste nach Ella, mit einer Jeep-Safari im Nationalpark Udawalawe auf dem Weg.",
+  "shortDescription": "Ein ganzer Tag von der Suedkueste nach Ella, mit einer zweieinhalb- bis dreistuendigen Jeep-Safari im Nationalpark Udawalawe auf dem Weg.",
+  "fullDescription": "Dieser Transfer kombiniert die Fahrt nach Ella mit einer Entdeckung des Nationalparks Udawalawe. Nach der Abholung ab Tangalle, Hiriketiya, Matara, Mirissa, Weligama, Ahangama, Habaraduwa, Unawatuna, Galle oder Hikkaduwa bringt das klimatisierte Fahrzeug Sie zum Park fuer eine zweieinhalb- bis dreistuendige Jeep-Safari.\n\nDurchgefuehrt von Ceylon Nature Tours, kann dieser Transfer kostenlos storniert werden. Sie werden am Ende des Tages in Ella abgesetzt, nachdem Sie Elefanten, Hirsche und andere Wildtiere des Parks beobachtet haben. Insgesamt sind 5 Punkte im Preis enthalten; der Parkeintritt kostet zusaetzlich 40 USD pro Person, und der Preis betraegt 169 USD pro Gruppe.",
+  "highlights": [
+   "Den Nationalpark Udawalawe bei einer Jeep-Safari entdecken",
+   "Flexible Abholung von der Suedkueste",
+   "Safari von zweieinhalb bis drei Stunden",
+   "Absetzen in Ella am Ende des Tages",
+   "Privates klimatisiertes Fahrzeug"
+  ],
+  "included": [
+   "Hotelabholung ab Tangalle, Hiriketiya, Matara, Mirissa, Weligama, Ahangama, Habaraduwa, Unawatuna, Galle oder Hikkaduwa",
+   "Absetzen in Ella",
+   "Transport im klimatisierten Fahrzeug",
+   "Jeep-Safari im Nationalpark Udawalawe (2,5 bis 3 Stunden)",
+   "Autobahn-Mautgebuehren"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehr fuer den Nationalpark Udawalawe (40 USD pro Person)",
+   "Essen und Getraenke"
+  ]
+ },
+ "from-colombo-7-day-island-tour-with-safari-ella": {
+  "title": "Ab Colombo: Siebentaegige Inseltour mit Safari, Ella und Galle",
+  "metaTitle": "Sri-Lanka-Tour, 7 Tage",
+  "metaDescription": "Eine siebentaegige Tour ab Colombo durch Sigiriya, Dambulla, Kandy und Ella, mit Safari und kulturellen Besichtigungen.",
+  "shortDescription": "Eine siebentaegige Tour ab Colombo: Flughafen nach Sigiriya, Sigiriya und Dambulla, Sigiriya nach Kandy, dann Kandy nach Ella, mit Safari und kulturellen Besichtigungen.",
+  "fullDescription": "Diese siebentaegige Tour beginnt mit der Flughafenabholung und einem Stopp am lokalen Fischmarkt und der Lagune von Negombo fuer eine Bootsfahrt, mit einem Meeresfruechte- oder lokalen sri-lankischen Mittagessen. Der erste Tag endet mit einer Fahrt durch die Landschaft, vorbei an Kokosnuss- und Reisanbaugebieten fuer ein traditionelles Dorflebenerlebnis.\n\nDie folgenden Tage folgen der Route Sigiriya, Dambulla, Kandy und dann Ella, mit dem Besuch der Felsenfestung Sigiriya und des Hoehlentempels von Dambulla unter den Highlights. Durchgefuehrt von SAYARA TRAVELS AND RENT CAR, deckt diese Tour die Flughafenabholung, die aufgelisteten Besichtigungen und Flaschenwasser ab.",
+  "highlights": [
+   "Die Kultur, Tierwelt und Landschaften Sri Lankas auf einer siebentaegigen Tour entdecken",
+   "Besuch des lokalen Fischmarkts und Bootsfahrt auf der Lagune von Negombo",
+   "Traditionelles Dorflebenerlebnis",
+   "Felsenfestung Sigiriya und Hoehlentempel von Dambulla",
+   "Komplette Route von Colombo nach Ella"
+  ],
+  "included": [
+   "Flughafenabholung",
+   "Besuch des lokalen Fischmarkts",
+   "Bootsfahrt auf der Lagune von Negombo",
+   "Meeresfruechte- oder lokales sri-lankisches Mittagessen",
+   "Wasserflaschen",
+   "Sonnenuntergang an der Lagune",
+   "Fahrt durch die laendliche Landschaft",
+   "Besuch der Kokosnuss- und Reisanbaugebiete",
+   "traditionelles Dorflebenerlebnis",
+   "sri-lankisches Essenserlebnis",
+   "Besuch der Felsenfestung Sigiriya",
+   "Besuch des Hoehlentempels von Dambulla"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben",
+   "nicht im Reiseplan angegebene Mahlzeiten",
+   "Trinkgelder"
+  ]
+ },
+ "5-day-sigiriya-kandy-ella-tour-with-flexible": {
+  "title": "Fuenftaegige Tour Sigiriya-Kandy-Ella mit flexiblen Tagesstopps",
+  "metaTitle": "Sigiriya, Kandy, Ella, 5 Tage",
+  "metaDescription": "Eine private fuenftaegige Tour ab Colombo nach Sigiriya, Kandy und Ella, mit Fahrer und flexiblen Stopps an jedem Tag.",
+  "shortDescription": "Eine private fuenftaegige Tour ab Colombo nach Sigiriya, Kandy und Ella, mit erfahrenem englischsprachigem Fahrer und flexiblen Stopps an jedem Tag.",
+  "fullDescription": "Diese private fuenftaegige Tour beginnt mit der Abholung am Flughafen oder Hotel und fuehrt am ersten Tag nach Sigiriya. Der zweite Tag ist der Erkundung von Sigiriya gewidmet, bevor es weiter nach Kandy geht, wo der dritte Tag mit der Erkundung der Stadt verbracht wird. Der vierte Tag bringt Sie von Kandy nach Ella.\n\nDurchgefuehrt von Venture Vistas, nutzt diese Tour privaten klimatisierten Transport mit einem erfahrenen englischsprachigen Fahrer waehrend der gesamten Reise, wobei Unterkunft und Mahlzeiten des Reisenden separat organisiert werden muessen.",
+  "highlights": [
+   "Von Colombo nach Ella auf einer privaten fuenftaegigen Tour mit Fahrer reisen",
+   "Vollstaendige Erkundung von Sigiriya",
+   "Ganzer Tag zur Erkundung von Kandy",
+   "Landschaftliche Fahrt von Kandy nach Ella",
+   "Privater klimatisierter Transport waehrend der gesamten Tour"
+  ],
+  "included": [
+   "Privater klimatisierter Transport",
+   "erfahrener englischsprachiger Fahrer",
+   "Abholung am Flughafen oder Hotel",
+   "Transport waehrend der gesamten Tour",
+   "Kraftstoffkosten",
+   "Autobahngebuehren",
+   "Parkgebuehren",
+   "Flaschenwasser",
+   "Unterkunft und Mahlzeiten des Fahrers",
+   "Unterstuetzung waehrend der gesamten Reise"
+  ],
+  "notIncluded": [
+   "Unterkunft und Hotels des Reisenden",
+   "Eintritts- oder Ticketgebuehren fuer Standorte",
+   "Mahlzeiten fuer Reisende",
+   "Trinkgelder",
+   "persoenliche Ausgaben",
+   "im Reiseplan genannte optionale Aktivitaeten"
+  ]
+ },
+ "bentota-river-safari-mangrove-maze-wildlife": {
+  "title": "Flusssafari in Bentota: Mangroven-Labyrinth und Tierbegegnung",
+  "metaTitle": "Flusssafari in Bentota",
+  "metaDescription": "Ein zweistuendiges Erlebnis in Bentota, das durch gewundene Mangrovenkanaele auf einem traditionellen Boot gleitet.",
+  "shortDescription": "Ein zweistuendiges Erlebnis in Bentota, das durch gewundene Mangrovenkanaele auf einem traditionellen Boot mit erfahrenem lokalem Bootsfuehrer gleitet.",
+  "fullDescription": "Diese zweistuendige Flusssafari in Bentota laesst Sie durch gewundene Mangrovenkanaele auf einem traditionellen Boot gleiten. Ein erfahrener lokaler Bootsfuehrer teilt Einblicke in das einzigartige Oekosystem und die Tierwelt der Region.\n\nDurchgefuehrt von AYUBOWAY TOURS, kann diese Safari kostenlos storniert werden und beinhaltet Abholung und Absetzen am Hotel rund um Bentota, Beruwala, Aluthgama, Induruwa und Maggona, mit privatem Transport und einem englischsprachigen Chauffeur-Guide fuer die gesamte Fahrt. Insgesamt sind 7 Punkte enthalten, und der Preis von 114 USD gilt fuer zwei Reisende zusammen statt 107 USD je Person.",
+  "highlights": [
+   "Durch gewundene Mangrovenkanaele auf einem traditionellen Boot gleiten",
+   "Einblicke in das einzigartige Oekosystem und die Tierwelt",
+   "Mineralwasser waehrend des Besuchs inklusive",
+   "Erfahrener lokaler Bootsfuehrer",
+   "Hotelabholung rund um Bentota"
+  ],
+  "included": [
+   "Abholung und Absetzen am Hotel rund um Bentota, Beruwala, Aluthgama, Induruwa, Maggona",
+   "privater Transport und englischsprachiger Chauffeur-Guide fuer die gesamte Fahrt",
+   "zweistuendige Flusssafari",
+   "erfahrener lokaler Bootsfuehrer",
+   "Einblicke in das einzigartige Oekosystem und die Tierwelt",
+   "Mineralwasser waehrend des Besuchs (500-ml-Flaschen)",
+   "alle staatlichen Steuern"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke",
+   "Trinkgelder"
+  ]
+ },
+ "colombo-to-galle-2-to-11-day-tour-via": {
+  "title": "Von Colombo nach Galle: 2- bis 11-taegige Tour via Ella und Suedkueste",
+  "metaTitle": "Colombo-Galle, flexible Tour",
+  "metaDescription": "Eine flexible private Tour von zwei bis elf Tagen ab Colombo nach Galle via Kandy, Ella und Suedkueste, mit englischsprachigem Fahrer-Guide.",
+  "shortDescription": "Eine flexible private Tour von zwei bis elf Tagen ab Colombo nach Galle via Kandy und Suedkueste, mit klimatisiertem Fahrzeug und englischsprachigem Fahrer-Guide fuer die gesamte Dauer.",
+  "fullDescription": "Diese private elftaegige Reise von Kandy nach Galle beginnt mit einer Fahrt von Colombo nach Kandy am ersten Tag und kann je nach Ihren Praeferenzen verlaengert oder angepasst werden. Durchgefuehrt von Pekoe Lanka Tours, kann diese Tour kostenlos storniert werden.\n\nDas private klimatisierte Fahrzeug steht Ihnen elf Tage lang zur Verfuegung, mit einem englischsprachigen Fahrer-Guide, der Ihnen hilft, optionale Stopps, Attraktionen und Aktivitaeten unterwegs zu planen. Wenn Sie den Aufenthalt verlaengern moechten, kann dies verhandelt und erweitert werden. Diese Tour deckt bis zu 11 Tage ab, und der Preis von 290 USD bleibt derselbe fuer einen oder zwei Reisende.",
+  "highlights": [
+   "Private elftaegige Reise von Kandy nach Galle",
+   "Flexible Route von zwei bis elf Tagen",
+   "Englischsprachiger Fahrer-Guide, der bei der Planung von Stopps hilft",
+   "Privates klimatisiertes Fahrzeug fuer die gesamte Dauer",
+   "Moeglichkeit, den Aufenthalt zu verlaengern"
+  ],
+  "included": [
+   "Abholung ab Colombo, Negombo oder dem Flughafen",
+   "privates klimatisiertes Fahrzeug fuer elf Tage",
+   "englischsprachiger Fahrer-Guide",
+   "Flaschenwasser waehrend der Reise",
+   "Kraftstoff, Parken und Autobahngebuehren",
+   "Unterstuetzung bei der Planung optionaler Stopps, Attraktionen und Aktivitaeten"
+  ],
+  "notIncluded": [
+   "Unterkunft",
+   "Mahlzeiten",
+   "Zugtickets (optionales Erlebnis)",
+   "Eintrittstickets fuer optionale von Gaesten gewuenschte Attraktionen",
+   "von Gaesten organisierte optionale Aktivitaeten",
+   "persoenliche Ausgaben und Trinkgelder"
+  ]
+ },
+ "colombo-local-guide-with-colombo-city-tour-by-tuk": {
+  "title": "Colombo: Lokaler Guide mit Colombo-Stadttour im Tuk-Tuk",
+  "metaTitle": "Colombo im Tuk-Tuk, lokaler Guide",
+  "metaDescription": "Ein halbtaegiger Ausflug ab Colombo im Tuk-Tuk, mit einem englischsprachigen lokalen Guide fuer mehr als zwoelf Sehenswuerdigkeiten.",
+  "shortDescription": "Ein halbtaegiger Ausflug ab Colombo im Tuk-Tuk, mit einem englischsprachigen lokalen Guide fuer mehr als zwoelf unverzichtbare Sehenswuerdigkeiten.",
+  "fullDescription": "Dieser Tuk-Tuk-Ausflug in Colombo bietet eine Tour durch mehr als zwoelf Sehenswuerdigkeiten der Stadt mit einem dedizierten englischsprachigen lokalen Guide. Durchgefuehrt von Minneriya Safari Tours, kann diese Tour kostenlos storniert werden.\n\nDer Preis umfasst ein saueberes privates Tuk-Tuk mit englischsprachigem Guide, kostenlose Abholung und Absetzen am Hotel in Colombo, kuehles Flaschenwasser, Koenigskokoswasser, und eine kostenlose Teeverkostung waehrend des Ausflugs. Insgesamt sind 5 Punkte enthalten, die Tour besucht mehr als 12 Sehenswuerdigkeiten, und der Preis von 85 USD gilt fuer zwei Reisende zusammen statt 49 USD je Person.",
+  "highlights": [
+   "Tour durch mehr als zwoelf Sehenswuerdigkeiten mit einem lokalen Guide",
+   "Privates sauberes Tuk-Tuk mit englischsprachigem Guide",
+   "Kostenlose Abholung und Absetzen in Colombo",
+   "Kostenlose Teeverkostung",
+   "Koenigskokoswasser inklusive"
+  ],
+  "included": [
+   "Sauberes privates Tuk-Tuk mit englischsprachigem Guide",
+   "kostenlose Abholung und Absetzen am Hotel in Colombo",
+   "kuehles Flaschenwasser",
+   "Koenigskokoswasser",
+   "kostenlose Teeverkostung"
+  ],
+  "notIncluded": []
+ },
+ "from-nuwara-eliyaall-inclusive-epic-knuckles": {
+  "title": "Ab Nuwara Eliya: Epischer Rundum-Trek in den Knuckles mit Uebernachtung",
+  "metaTitle": "Knuckles-Trek ab Nuwara Eliya",
+  "metaDescription": "Ein zweitaegiger Rundum-Trek ab Nuwara Eliya im Knuckles-Gebirge, mit Wasserfaellen und Berg-Camping.",
+  "shortDescription": "Ein zweitaegiger Rundum-Trek ab Nuwara Eliya im Knuckles-Gebirge, mit Wasserfaellen, Berg-Camping und inklusive Mahlzeiten. Diese Tour mit 10 Stopps umfasst 30 Minuten bis 1 Stunde an jedem Stopp.",
+  "fullDescription": "Dieser zweitaegige Trek verlaesst Nuwara Eliya in Richtung des Knuckles-Gebirges. Der erste Tag beginnt um 8:30 Uhr mit dem Trekking-Abenteuer in den Knuckles, gefolgt um 10:30 Uhr von der Entdeckung der Hulu- und Thaliya-Wasserfaelle, dann einem Mittagessen am Bambarella-Wasserfall um 13:00 Uhr, bevor es um 14:00 Uhr zum Bergcampingplatz geht.\n\nDurchgefuehrt von Sign of Lanka (Pvt) Ltd, beinhaltet dieser Trek Hin- und Ruckfahrt ab Hotel im privaten klimatisierten Luxusfahrzeug, eine Nacht in Standard-Zeltcamping, einen professionellen Trekking-Guide, unterstuetzt von einem engagierten und erfahrenen Team, sowie alle drei Mahlzeiten des Tages. Der Preis von 981 USD gilt fuer zwei Reisende zusammen statt 626 USD je Person.",
+  "highlights": [
+   "Das Knuckles-Gebirge erkunden: atemberaubende Landschaften und Wasserfaelle",
+   "Nacht im Zeltcamping in den Bergen",
+   "Professioneller Trekking-Guide und erfahrenes Team",
+   "Hulu-, Thaliya- und Bambarella-Wasserfaelle",
+   "Mahlzeiten und kostenlose Erfrischungen inklusive"
+  ],
+  "included": [
+   "Hin- und Ruckfahrt ab Hotel im privaten klimatisierten Luxusfahrzeug",
+   "Nacht in Standard-Zeltcamping",
+   "professioneller Trekking-Guide mit erfahrenem Team",
+   "Mittag-, Abendessen und Fruehstueck",
+   "Eintrittsgebuehren fuer das Knuckles-Gebirge",
+   "Kraftstoffzuschlag und Fahrergebuehren inklusive",
+   "Parkgebuehren inklusive",
+   "kostenlose Erfrischungen und Wasser",
+   "alle staatlichen Steuern inklusive"
+  ],
+  "notIncluded": [
+   "Jede andere nicht im Abschnitt Preis-Inklusive genannte Ausgabe",
+   "Trinkgelder"
+  ]
+ },
+ "kandy-to-knuckles-overnight-trekking-hiking": {
+  "title": "Von Kandy zu den Knuckles: Trekking- und Wanderabenteuer mit Uebernachtung",
+  "metaTitle": "Knuckles-Trek ab Kandy",
+  "metaDescription": "Ein zweitaegiger Trek mit Uebernachtung ab Kandy im Knuckles-Gebirge, mit Wasserfaellen, Abendtee in den Bergen und Grillabend.",
+  "shortDescription": "Ein zweitaegiger Trek mit Uebernachtung ab Kandy im Knuckles-Gebirge, mit Wasserfaellen, Abendtee in den Bergen und Grillabendessen am Lagerfeuer. Das Abenteuer beginnt um 08:00 Uhr, der Weg zum Camp um 14:00 Uhr, und der Abendtee um 16:30 Uhr.",
+  "fullDescription": "Dieser zweitaegige Trek ab Kandy beginnt um 8:00 Uhr mit dem Trekking-Abenteuer zu den Knuckles-Wasserfaellen, gefolgt um 14:00 Uhr vom Weg zum Bergcampingplatz, dann dem Abendtee in den Bergen um 16:30 Uhr und einem Grillabendessen am Lagerfeuer um 19:00 Uhr. Der naechste Tag beginnt um 8:30 Uhr mit dem Trek zum 1.856 Meter hohen Knuckles-Gipfel.\n\nDurchgefuehrt von Sign of Lanka (Pvt) Ltd, beinhaltet dieser Trek Hin- und Ruckfahrt ab Hotel im klimatisierten Fahrzeug, Jeep oder Motorrad je nach Teilnehmerzahl, eine Nacht in Standard-Zeltcamping, einen professionellen Trekking-Guide, sowie alle drei Mahlzeiten des Tages. Der Preis von 710 USD gilt fuer zwei Reisende zusammen statt 423 USD je Person.",
+  "highlights": [
+   "Das Knuckles-Gebirge erkunden: atemberaubende Landschaften und Wasserfaelle",
+   "Trek zum 1.856 Meter hohen Knuckles-Gipfel",
+   "Abendtee in den Bergen und Grillabendessen am Lagerfeuer",
+   "Professioneller Trekking-Guide und erfahrenes Team",
+   "Nacht im Zeltcamping in den Bergen"
+  ],
+  "included": [
+   "Hin- und Ruckfahrt ab Hotel im klimatisierten Fahrzeug, Jeep oder Motorrad je nach Teilnehmerzahl",
+   "Nacht in Standard-Zeltcamping",
+   "professioneller Trekking-Guide mit erfahrenem Team",
+   "Mittag-, Abendessen und Fruehstueck",
+   "Eintrittsgebuehren fuer das Knuckles-Gebirge",
+   "Kraftstoffzuschlag und Fahrergebuehren inklusive",
+   "Parkgebuehren inklusive",
+   "kostenlose Erfrischungen und Wasser",
+   "alle staatlichen Steuern inklusive"
+  ],
+  "notIncluded": [
+   "Jede andere nicht im Abschnitt Preis-Inklusive genannte Ausgabe",
+   "Trinkgelder"
+  ]
+ },
+ "from-galle-sinharaja-2-day-make-your-own-ceylon": {
+  "title": "Ab Galle: Zweitaegige Sinharaja-Tour, um Ihren eigenen Ceylon-Tee herzustellen",
+  "metaTitle": "Sinharaja und Ceylon-Tee, 2 Tage",
+  "metaDescription": "Eine zweitaegige Tour ab Galle zur Entdeckung des Sinharaja-Waldes, mit dem Pfluecken von Teeblaettern und der Herstellung Ihres eigenen Tees.",
+  "shortDescription": "Eine zweitaegige Tour ab Galle zur Entdeckung des Sinharaja-Waldes, mit dem Pfluecken frischer Teeblaetter und der Entdeckung des Ceylon-Tee-Herstellungsprozesses.",
+  "fullDescription": "Diese zweitaegige Tour ab Galle beginnt mit einem Besuch des Gatabaruwa-Tempels, dann gehen Sie zum Pfluecken Ihrer eigenen frischen Teeblaetter weiter. Anschliessend entdecken Sie den Ceylon-Tee-Herstellungsprozess und setzen Ihr Tee-Herstellungserlebnis fort, bis Sie Ihr eigenes Ceylon-Teepaeckchen zubereiten.\n\nDurchgefuehrt von Sritrailsjourney, beinhaltet diese Tour Abholung und Rueckfahrt ab Galle, privaten Transport fuer die beiden Tage, einen englischsprachigen Guide, und eine praktische Einfuehrung ins Pfluecken und Herstellen von Tee unter ausgebildeter Aufsicht.",
+  "highlights": [
+   "Frische Teeblaetter pfluecken und lernen, wie man authentischen Ceylon-Tee herstellt",
+   "Besuch des Gatabaruwa-Tempels je nach Zeit und Zugang",
+   "Praktisches Erlebnis beim Pfluecken und Herstellen von Tee",
+   "Einfuehrung in die Teeverarbeitungsmaschinen unter Aufsicht",
+   "Ihr eigenes fertiges Ceylon-Teepaeckchen zum Mitnehmen"
+  ],
+  "included": [
+   "Abholung und Rueckfahrt ab Galle",
+   "privater Transport fuer die gesamte zweitaegige Reise",
+   "englischsprachiger Guide",
+   "Besuch des Gatabaruwa-Tempels je nach Zeit und Zugang",
+   "praktisches Erlebnis beim Pfluecken und Herstellen von Tee",
+   "Einfuehrung in die Teeverarbeitungsmaschinen unter ausgebildeter Aufsicht",
+   "Ihr eigenes fertiges Ceylon-Teepaeckchen",
+   "Kraftstoff- und Parkgebuehren"
+  ],
+  "notIncluded": [
+   "Unterkunft",
+   "alle Mahlzeiten, Essen und Getraenke",
+   "alle Eintritts- und Zulassungsgebuehren",
+   "staatliche Eintritts- und Servicegebuehren fuer den Sinharaja-Regenwald fuer die Gruppe (10.500 LKR)",
+   "Trinkgelder"
+  ]
+ },
+ "offbeat-sri-lanka-adventure-road-trip-waterfalls": {
+  "title": "Abenteuer im unbekannten Sri Lanka: Roadtrip zwischen Wasserfaellen und Wanderungen",
+  "metaTitle": "Unbekanntes Sri Lanka",
+  "metaDescription": "Ein fuenftaegiger Roadtrip ab Colombo mit Wildwasser-Rafting in Kitulgala, Jeep-Safari in Yala und Wasserfallbesuchen.",
+  "shortDescription": "Ein fuenftaegiger Roadtrip ab Colombo mit Wildwasser-Rafting auf dem Kelani-Fluss in Kitulgala, einem Regenwaldabend, einer 4x4-Jeep-Safari in Yala und Wasserfallbesuchen.",
+  "fullDescription": "Dieser fuenftaegige Roadtrip beginnt mit einem Empfang am Internationalen Flughafen Bandaranaike, dann geht es nach Kitulgala fuer eine Wildwasser-Rafting-Session auf dem Kelani-Fluss, gefolgt von einem Abend im Regenwald. Die landschaftliche Strecke setzt sich dann via Ginigathena und die Norton-Bruecke fort, mit einem Stopp an den Aberdeen-Wasserfaellen.\n\nDurchgefuehrt von Lanka Travel Gateway (Pvt) Ltd, beinhaltet diese Tour einen Chauffeur-Guide, eine 4x4-Jeep-Safari im Nationalpark Yala, eine Unterkunft in einer Eco-Lodge und den Besuch mehrerer Wasserfaelle, mit einer optionalen Wanderung zum Adam's Peak. Insgesamt umfasst dieser fuenftaegige Roadtrip 18 Stopps.",
+  "highlights": [
+   "Stromschnellen der Kategorie 2 bis 3 auf dem Kelani-Fluss im Regenwald von Kitulgala bezwingen",
+   "Abend im Regenwald",
+   "4x4-Jeep-Safari im Nationalpark Yala",
+   "Besuch mehrerer Wasserfaelle, einschliesslich Aberdeen",
+   "Optionale Wanderung zum Adam's Peak"
+  ],
+  "included": [
+   "Chauffeur-Guide",
+   "4x4-Jeep-Safari im Nationalpark Yala",
+   "Unterkunft in einer Eco-Lodge",
+   "Besuch von Wasserfaellen",
+   "optionale Wanderung zum Adam's Peak"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "persoenliche Ausgaben",
+   "optionale Aktivitaeten"
+  ]
+ },
+ "ceylon-9-day-budget-hill-country-tropical-beach": {
+  "title": "Ceylon: Neuntaegige Budget-Flitterwochen zwischen Bergland und Tropenstrand",
+  "metaTitle": "Flitterwochen in Sri Lanka, 9 Tage",
+  "metaDescription": "Eine neuntaegige Budget-Tour ab Kandy, die Bergland und Tropenstraende verbindet, ideal fuer Flitterwochen.",
+  "shortDescription": "Eine neuntaegige Budget-Tour ab Kandy, die Bergland und Tropenstraende verbindet, vom Empfang am Flughafen bis zum Sonnenuntergang am Strand von Negombo.",
+  "fullDescription": "Diese neuntaegige Tour beginnt mit einem Empfang am Internationalen Flughafen Bandaranaike, dann der Entdeckung der Lagune von Negombo und des hollaendischen Kanals, der St.-Marien-Kirche, und dem Sonnenuntergang am Strand von Negombo. Die Fahrt setzt sich auf einer landschaftlichen Route nach Pinnawala fort.\n\nDer Rest der Tour, durchgefuehrt von Lanka Travel Gateway (Pvt) Ltd, taucht Sie in die reiche Kultur und das Erbe Kandys ein, mit dem Besuch des Heiligen Zahntempels, einem Spaziergang um den Kandy-See, einer traditionellen sri-lankischen Kulturtanzvorfuehrung, Teeplantagen, der Neunbogenbruecke, einer Wanderung zu Little Adam's Peak, und einer Sonnenuntergangskreuzfahrt in Mirissa. Insgesamt umfasst diese neuntaegige Tour 38 Stopps.",
+  "highlights": [
+   "In die reiche Kultur und das Erbe Kandys eintauchen",
+   "Lagune von Negombo, hollaendischer Kanal und Sonnenuntergang am Strand",
+   "Heiliger Zahntempel und Spaziergang um den Kandy-See",
+   "Neunbogenbruecke und Wanderung zu Little Adam's Peak",
+   "Sonnenuntergangskreuzfahrt in Mirissa"
+  ],
+  "included": [
+   "Besuch des Heiligen Zahntempels",
+   "Spaziergang um den Kandy-See",
+   "traditionelle sri-lankische Kulturtanzvorfuehrung",
+   "Besuch von Teeplantagen",
+   "Besuch der Neunbogenbruecke",
+   "Wanderung zu Little Adam's Peak",
+   "Sonnenuntergangskreuzfahrt in Mirissa"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "persoenliche Ausgaben",
+   "Reiseversicherung"
+  ]
+ },
+ "from-bentota-sigiriya-sunrise-dambulla-cave": {
+  "title": "Ab Bentota: Sonnenaufgang in Sigiriya, Dambulla-Hoehle und Dorftour",
+  "metaTitle": "Sigiriya Sonnenaufgang ab Bentota",
+  "metaDescription": "Ein ganztaegiges Erlebnis ab Bentota, um die Magie des Sonnenaufgangs an der Felsenfestung Sigiriya zu erleben.",
+  "shortDescription": "Ein ganztaegiges Erlebnis ab Bentota, um die Magie des Sonnenaufgangs an der Felsenfestung Sigiriya zu erleben, mit Dambulla-Hoehle und Dorftour.",
+  "fullDescription": "Dieser ganze Tag ab Bentota ist darauf ausgelegt, Sie die Magie des Sonnenaufgangs an der Felsenfestung Sigiriya erleben zu lassen. Durchgefuehrt von Ceylon discovery holidays Srilanka, kann diese Tour kostenlos storniert werden.\n\nDer Preis umfasst Abholung und Absetzen am Hotel, ein privates Luxusauto, SUV oder Van auf Anfrage (klimatisiert), Park-, Autobahn- und Mautgebuehren, sowie einen privaten englischsprachigen Chauffeur-Guide fuer die gesamte Fahrt.",
+  "highlights": [
+   "Die Magie des Sonnenaufgangs an der Felsenfestung Sigiriya erleben",
+   "Privates klimatisiertes Luxusfahrzeug auf Anfrage",
+   "Privater englischsprachiger Chauffeur-Guide fuer den ganzen Tag",
+   "Mineralwasser und Obstkorb inklusive",
+   "Alle staatlichen Steuern inklusive"
+  ],
+  "included": [
+   "Abholung und Absetzen am Hotel",
+   "privates Luxusauto, SUV oder Van auf Anfrage (klimatisiert)",
+   "Park-, Autobahn- und Mautgebuehren",
+   "privater englischsprachiger Chauffeur-Guide fuer die gesamte Fahrt",
+   "Mineralwasser waehrend des Besuchs (500-ml-Flaschen)",
+   "kostenloser Obstkorb",
+   "alle staatlichen Steuern"
+  ],
+  "notIncluded": []
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Flyboard-Erlebnis in Pattaya",
   "fullDescription": "Dies ist ein 30-minütiges Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Flyboard-Erlebnis, Betreuung durch einen Instructor, Sicherheitsausrüstung und Duschen. Nicht enthalten sind Fotos und Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
