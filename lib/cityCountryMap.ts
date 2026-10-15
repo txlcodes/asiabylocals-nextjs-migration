@@ -127,6 +127,8 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'almaty': { country: 'kazakhstan', city: 'almaty' },
   'tashkent': { country: 'uzbekistan', city: 'tashkent' },
   'ulaanbaatar': { country: 'mongolia', city: 'ulaanbaatar' },
+  'baghdad': { country: 'iraq', city: 'baghdad' },
+  'beirut': { country: 'lebanon', city: 'beirut' },
 };
 
 /**
