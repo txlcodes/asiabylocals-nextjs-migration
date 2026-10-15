@@ -142810,6 +142810,260 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas (opcional)"
   ]
  },
+ "dubai-desert-safari-with-quad-bike-bbq-and-shows": {
+  "title": "Dubai: safari por el desierto con quad, barbacoa y espectaculos",
+  "metaTitle": "Safari desierto Dubai, quad y BBQ",
+  "metaDescription": "Media jornada en Dubai para conducir un quad monoplaza por las dunas, con dune bashing en 4x4 y sandboard.",
+  "shortDescription": "Media jornada en Dubai para conducir un quad monoplaza por las dunas, con dune bashing en 4x4, sandboard, paseo en camello y cena barbacoa arabe con espectaculos.",
+  "fullDescription": "Este safari por el desierto de Dubai comienza con una recogida de ida y vuelta desde los hoteles y residencias del centro. El vehiculo 4x4 se adentra en las dunas para una sesion de dune bashing antes de que usted tome el control de un quad monoplaza durante treinta minutos, si se selecciona esta opcion.\n\nSe incluye una sesion de sandboard, seguida de un paseo en camello y una parada fotografica al atardecer sobre las doradas dunas. En el campamento nocturno, se ofrece un tatuaje de henna antes de una cena barbacoa arabe, acompañada de espectaculos de danza del vientre, tanoura y fuego.\n\nOperado por Tripventura UAE, este safari se puede cancelar gratis y cubre 12 elementos en total, con bebidas refrescantes servidas durante toda la velada. El quad se conduce durante 30 minutos si se elige esta opcion.",
+  "highlights": [
+   "Conducir un quad monoplaza por las dunas",
+   "Dune bashing en 4x4 y sesion de sandboard",
+   "Paseo en camello y parada fotografica al atardecer",
+   "Cena barbacoa arabe en el campamento nocturno",
+   "Espectaculos de danza del vientre, tanoura y fuego"
+  ],
+  "included": [
+   "Traslado de ida y vuelta desde hoteles y residencias del centro de Dubai",
+   "paseo en quad monoplaza de 30 minutos (si se selecciona la opcion)",
+   "dune bashing en 4x4",
+   "sandboard",
+   "paseo en camello",
+   "parada fotografica al atardecer",
+   "tatuaje de henna",
+   "cena barbacoa arabe",
+   "espectaculo de danza del vientre",
+   "espectaculo de tanoura",
+   "espectaculo de fuego",
+   "bebidas refrescantes"
+  ],
+  "notIncluded": [
+   "Gastos personales"
+  ]
+ },
+ "from-dubai-private-abu-dhabi-tour-with-grand": {
+  "title": "Desde Dubai: tour privado de Abu Dabi con visita a la Gran Mezquita",
+  "metaTitle": "Abu Dabi privado desde Dubai",
+  "metaDescription": "Un dia completo desde Dubai hasta Abu Dabi, con la Gran Mezquita Sheikh Zayed y paradas fotograficas flexibles.",
+  "shortDescription": "Un dia completo desde Dubai hasta Abu Dabi, con la Gran Mezquita Sheikh Zayed, el Palacio Emirates, Qasr Al Watan y el Pueblo del Patrimonio.",
+  "fullDescription": "Este tour privado conecta Dubai con Abu Dabi para un dia completo de descubrimiento. Tras la recogida privada en su hotel de Dubai, un vehiculo privado climatizado con conductor profesional le lleva a la Gran Mezquita Sheikh Zayed, cuya impresionante arquitectura merece una visita detallada.\n\nEl tour continua con paradas fotograficas en el Palacio Emirates y Qasr Al Watan, luego en Ferrari World Abu Dabi. Despues visita el mercado de datiles de Abu Dabi y el Pueblo del Patrimonio, antes de un paseo en coche por la corniche de Abu Dabi. Las paradas turisticas permanecen flexibles segun sus intereses.\n\nOperado por Ultimate Destination Tourism LLC, este tour cobra el mismo precio de 284 USD para uno o dos viajeros, ya que se tarifa por grupo y no por persona. La entrada a la Gran Mezquita cuesta 10 AED por persona aparte.",
+  "highlights": [
+   "Disfrutar de un tour privado de Abu Dabi desde Dubai con su propio vehiculo",
+   "Visita a la Gran Mezquita Sheikh Zayed",
+   "Paradas fotograficas en el Palacio Emirates y Qasr Al Watan",
+   "Visita al mercado de datiles y el Pueblo del Patrimonio",
+   "Paseo en coche por la corniche de Abu Dabi"
+  ],
+  "included": [
+   "Recogida y entrega privadas en el hotel en Dubai",
+   "vehiculo privado climatizado",
+   "conductor profesional",
+   "recorrido turistico por Abu Dabi",
+   "visita a la Gran Mezquita Sheikh Zayed",
+   "paradas fotograficas en el Palacio Emirates y Qasr Al Watan",
+   "parada fotografica en Ferrari World Abu Dabi",
+   "visita al mercado de datiles de Abu Dabi",
+   "visita al Pueblo del Patrimonio",
+   "recorrido turistico por la corniche de Abu Dabi",
+   "paradas turisticas flexibles"
+  ],
+  "notIncluded": [
+   "Entrada a la Gran Mezquita Sheikh Zayed: 10 AED por persona",
+   "entradas a Qasr Al Watan",
+   "entradas a Ferrari World Abu Dabi",
+   "almuerzo y otras comidas",
+   "gastos personales",
+   "propinas para el conductor",
+   "cualquier servicio o actividad no mencionado en las inclusiones"
+  ]
+ },
+ "from-dubai-abu-dhabi-city-tour-with-ferrari-world": {
+  "title": "Desde Dubai: tour de la ciudad de Abu Dabi con Ferrari World",
+  "metaTitle": "Abu Dabi y Ferrari World",
+  "metaDescription": "Un dia completo en Abu Dabi para explorar la Gran Mezquita Sheikh Zayed y su arquitectura, con acceso a Ferrari World.",
+  "shortDescription": "Un dia completo en Abu Dabi para explorar la Gran Mezquita Sheikh Zayed y su arquitectura, con la corniche, el Palacio Emirates y una entrada a Ferrari World.",
+  "fullDescription": "Este dia en Abu Dabi comienza con un traslado desde su hotel hasta el punto de salida del tour, luego la visita a la Gran Mezquita Sheikh Zayed, cuya impresionante arquitectura es el punto culminante del dia.\n\nEl tour continua con un trayecto y una parada fotografica en la corniche de Abu Dabi, luego informacion y una parada fotografica en el Palacio Emirates. Despues visita la Casa de Arte Islamico antes de recibir su entrada a Ferrari World Abu Dabi, donde pasa tiempo explorando las atracciones.\n\nOperado por Tripventura UAE, este tour se puede cancelar gratis y cubre siete elementos en total, con un traslado de regreso y entrega en Dubai al final del dia.",
+  "highlights": [
+   "Explorar la Gran Mezquita Sheikh Zayed y su arquitectura",
+   "Trayecto y parada fotografica en la corniche de Abu Dabi",
+   "Visita a la Casa de Arte Islamico",
+   "Entrada a Ferrari World Abu Dabi incluida",
+   "Traslado de regreso y entrega en Dubai"
+  ],
+  "included": [
+   "Traslado del hotel al punto de salida del tour",
+   "visita a la Gran Mezquita Sheikh Zayed",
+   "trayecto y parada fotografica en la corniche de Abu Dabi",
+   "informacion y parada fotografica en el Palacio Emirates",
+   "visita a la Casa de Arte Islamico",
+   "entrada a Ferrari World Abu Dabi",
+   "traslado de regreso y entrega en Dubai"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "compras",
+   "bebidas",
+   "restauracion"
+  ]
+ },
+ "from-dubai-abu-dhabi-sheikh-zayed-grand-mosque": {
+  "title": "Desde Dubai: tour guiado de la Gran Mezquita Sheikh Zayed en Abu Dabi",
+  "metaTitle": "Gran Mezquita Sheikh Zayed guiada",
+  "metaDescription": "Un dia completo desde Dubai hasta Abu Dabi, con una visita de unas dos horas a la Gran Mezquita Sheikh Zayed.",
+  "shortDescription": "Un dia completo desde Dubai hasta Abu Dabi, con una visita de unas dos horas a la Gran Mezquita Sheikh Zayed, Qasr Al Hosn y el Pueblo del Patrimonio.",
+  "fullDescription": "Este dia desde Dubai se centra en la Gran Mezquita Sheikh Zayed, la parada mas larga con unas dos horas en el lugar para una parada fotografica y un paseo por el recinto. Admirar la grandiosa arquitectura de la mezquita es el punto culminante del dia.\n\nAntes de llegar, hace una parada fotografica e informativa en Ferrari World Abu Dabi, luego visita Qasr Al Hosn y la Casa de los Artesanos, asi como el Pueblo del Patrimonio de Abu Dabi. El dia continua con una parada fotografica en la corniche de Abu Dabi y en el Palacio Emirates, luego una visita a la Galeria de Arte Islamico antes de visitar la mezquita misma.\n\nOperado por Tripventura UAE, este tour incluye la recogida en el hotel en Dubai y termina con un traslado de regreso y entrega en Dubai.",
+  "highlights": [
+   "Admirar la grandiosa arquitectura de la Gran Mezquita Sheikh Zayed",
+   "Parada fotografica e informativa en Ferrari World Abu Dabi",
+   "Visita a Qasr Al Hosn y la Casa de los Artesanos",
+   "Visita al Pueblo del Patrimonio de Abu Dabi",
+   "Visita a la Galeria de Arte Islamico"
+  ],
+  "included": [
+   "Recogida en el hotel en Dubai",
+   "parada fotografica e informativa en Ferrari World Abu Dabi",
+   "visita a Qasr Al Hosn y la Casa de los Artesanos",
+   "visita al Pueblo del Patrimonio de Abu Dabi",
+   "parada fotografica en la corniche de Abu Dabi",
+   "parada fotografica e informativa en el hotel Palacio Emirates",
+   "visita a la Galeria de Arte Islamico",
+   "visita a la Gran Mezquita Sheikh Zayed",
+   "traslado de regreso y entrega en Dubai"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "compras",
+   "bebidas"
+  ]
+ },
+ "dubai-marina-dhow-dinner-cruise-with-live-show": {
+  "title": "Dubai Marina: crucero cena en dhow con espectaculo en vivo",
+  "metaTitle": "Crucero dhow Dubai Marina",
+  "metaDescription": "Un crucero de dos horas y media por la Dubai Marina a bordo de un dhow tradicional, bajo las luces de la ciudad.",
+  "shortDescription": "Un crucero de dos horas y media por la Dubai Marina a bordo de un dhow tradicional, bajo las luces de la ciudad, con cena buffet y espectaculo en vivo.",
+  "fullDescription": "Este crucero en dhow atraviesa la Dubai Marina durante dos horas y media, ofreciendo vistas de las luces centelleantes de la ciudad desde el agua. Una bebida de bienvenida le recibe a bordo antes de que se sirva la cena buffet.\n\nBebidas sin alcohol acompañan la comida, y un espectaculo en vivo marca el ritmo de la velada mientras el bote navega a lo largo de la marina.\n\nOperado por Tripventura UAE, este crucero se puede cancelar gratis y cubre cinco elementos en total.",
+  "highlights": [
+   "Navegar por la Dubai Marina bajo las luces de la ciudad",
+   "Bebida de bienvenida a bordo",
+   "Cena buffet servida durante el crucero",
+   "Entretenimiento en vivo",
+   "Bebidas sin alcohol incluidas"
+  ],
+  "included": [
+   "Crucero en dhow por la Dubai Marina",
+   "bebida de bienvenida",
+   "cena buffet",
+   "bebidas sin alcohol",
+   "entretenimiento en vivo"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "transporte"
+  ]
+ },
+ "palm-jumeirah-burj-al-arab-burj-khalifa-private": {
+  "title": "Tour privado de Palm Jumeirah, Burj Al Arab y Burj Khalifa",
+  "metaTitle": "Palm Jumeirah y Burj Al Arab",
+  "metaDescription": "Un dia completo desde Dubai visitando Bluewaters Island, Palm Jumeirah, Dubai Marina y el Souk Madinat Jumeirah.",
+  "shortDescription": "Un dia completo desde Dubai visitando Bluewaters Island, Palm Jumeirah, Dubai Marina, el Souk Madinat Jumeirah y Burj Al Arab.",
+  "fullDescription": "Esta excursion privada enlaza nueve paradas por los lugares emblematicos de Dubai. Comienza en Bluewaters Island, con 35 minutos en el lugar, luego continua hacia Palm Jumeirah durante 25 minutos, antes de una parada de 20 minutos en la Dubai Marina.\n\nEl Souk Madinat Jumeirah, con 40 minutos de visita, es seguido por una parada fotografica exterior de 30 minutos en el Burj Al Arab. El dia tambien incluye una parada panoramica sobre la costa de Palm Jumeirah, una visita al City Walk Dubai, y la parada mas larga en el Dubai Mall, con una hora aproximadamente en el lugar.\n\nOperado por JGT TOURISM, este tour incluye un vehiculo privado climatizado, recogida y entrega en el hotel en Dubai, un conductor de habla inglesa y agua embotellada. El precio de 519 USD es el mismo para uno o dos viajeros, ya que se tarifa por grupo.",
+  "highlights": [
+   "Descubrir la famosa costa de Dubai, sus monumentos de lujo y distritos comerciales",
+   "Visita a Bluewaters Island y Palm Jumeirah",
+   "Parada panoramica en la Dubai Marina",
+   "Visita al Souk Madinat Jumeirah",
+   "Parada fotografica exterior en el Burj Al Arab"
+  ],
+  "included": [
+   "Vehiculo privado climatizado",
+   "recogida y entrega en el hotel en Dubai",
+   "conductor de habla inglesa",
+   "agua embotellada",
+   "visita a Bluewaters Island",
+   "parada panoramica en la Dubai Marina",
+   "recorrido turistico por Palm Jumeirah",
+   "parada fotografica exterior en el Atlantis The Palm",
+   "parada fotografica en el perfil de Palm Jumeirah",
+   "visita al Souk Madinat Jumeirah",
+   "oportunidad fotografica exterior en el Burj Al Arab",
+   "visita al City Walk Dubai"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "cafe y refrescos",
+   "entradas a atracciones",
+   "entradas para Ain Dubai",
+   "atracciones del Atlantis",
+   "entrada al Burj Al Arab",
+   "entradas para el Burj Khalifa",
+   "entradas para el Acuario de Dubai",
+   "entradas para el paseo de las fuentes",
+   "gastos de compras personales",
+   "guia turistico profesional con licencia salvo que se reserve especificamente",
+   "propinas"
+  ]
+ },
+ "dubai-hot-air-balloon-ride-in-vintage-land-rover": {
+  "title": "Dubai: vuelo en globo aerostatico y experiencia en Land Rover vintage",
+  "metaTitle": "Globo aerostatico y Land Rover vintage",
+  "metaDescription": "Media jornada desde Dubai para volar sobre la Reserva de Conservacion del Desierto de Dubai en globo aerostatico.",
+  "shortDescription": "Media jornada desde Dubai para volar sobre la Reserva de Conservacion del Desierto de Dubai en globo aerostatico, con trayecto en Land Rover vintage y espectaculo de halcones.",
+  "fullDescription": "Esta aventura comienza con una recogida en su hotel o residencia en Dubai, seguida de un trayecto de 45 minutos en jeep o SUV hasta la Reserva de Conservacion del Desierto de Dubai, la parada mas larga del dia con unas tres horas en el lugar.\n\nAlli, disfruta de cafe arabe y datiles antes de subir al globo aerostatico para volar sobre las dunas al amanecer. Tras aterrizar, le espera un desayuno preparado por un chef con estrella Michelin, seguido de un breve trayecto en Land Rover vintage. Un espectaculo de halcones y un paseo en camello completan la experiencia.\n\nOperado por Dubai Ballooning, esta excursion incluye la recogida desde el hotel o la residencia privada en Dubai.",
+  "highlights": [
+   "Volar sobre la Reserva de Conservacion del Desierto de Dubai en globo aerostatico",
+   "Cafe arabe y datiles antes del vuelo",
+   "Desayuno preparado por un chef con estrella Michelin",
+   "Trayecto en Land Rover vintage de los años 1950",
+   "Espectaculo de halcones y paseo en camello"
+  ],
+  "included": [
+   "Recogida desde el hotel o la residencia privada en Dubai",
+   "cafe arabe y datiles",
+   "vuelo en globo aerostatico",
+   "espectaculo de halcones",
+   "desayuno preparado por un chef con estrella Michelin",
+   "breve trayecto en Land Rover vintage de los años 1950",
+   "paseo en camello"
+  ],
+  "notIncluded": []
+ },
+ "dubai-hidden-gems-wildlife-art-heritage-private": {
+  "title": "Dubai: tour privado de tesoros ocultos, fauna, arte y patrimonio",
+  "metaTitle": "Dubai tesoros ocultos y patrimonio",
+  "metaDescription": "Un dia completo desde Dubai visitando el santuario de fauna de Ras al Khor, el Quranic Park y Alserkal Avenue.",
+  "shortDescription": "Un dia completo desde Dubai visitando el santuario de fauna de Ras al Khor, el Quranic Park, Alserkal Avenue y el barrio historico de Al Fahidi.",
+  "fullDescription": "Este tour privado explora una faceta diferente de Dubai, lejos de los rascacielos habituales. Comienza en el santuario de fauna de Ras al Khor, con 45 minutos en el lugar para observar flamencos y otras aves, luego continua hacia el Quranic Park, la parada mas larga con una hora aproximadamente en el lugar.\n\nAlserkal Avenue, el barrio artistico de Dubai, se visita durante una hora, seguido de una pausa en un restaurante local de otra hora. El dia termina en el barrio historico de Al Fahidi, con una visita al Museo del Cafe y una parada fotografica en el Dubai Creek, entre numerosas oportunidades fotograficas.\n\nOperado por JGT TOURISM, este tour incluye un vehiculo privado climatizado, un conductor de habla inglesa y el transporte entre todas las paradas del itinerario. El precio de 585 USD es el mismo para uno o dos viajeros, ya que se tarifa por grupo.",
+  "highlights": [
+   "Descubrir una faceta diferente de Dubai en un tour privado de dia completo",
+   "Santuario de fauna de Ras al Khor y sus flamencos",
+   "Quranic Park y Alserkal Avenue",
+   "Barrio historico de Al Fahidi y Museo del Cafe",
+   "Numerosas oportunidades fotograficas en el Dubai Creek"
+  ],
+  "included": [
+   "Vehiculo privado climatizado",
+   "recogida y entrega en el hotel en Dubai",
+   "conductor de habla inglesa",
+   "agua embotellada",
+   "transporte entre todas las paradas del itinerario",
+   "visita al santuario de fauna de Ras Al Khor",
+   "visita al Quranic Park",
+   "visita a Alserkal Avenue",
+   "visita al barrio historico de Al Fahidi",
+   "visita al Museo del Cafe",
+   "parada fotografica en el Dubai Creek",
+   "numerosas oportunidades fotograficas"
+  ],
+  "notIncluded": [
+   "Almuerzo y comidas",
+   "bebidas aparte del agua embotellada",
+   "gastos personales",
+   "tarifas de entrada a atracciones de pago o exposiciones especiales",
+   "billete de abra salvo que se especifique en su opcion de reserva",
+   "guia turistico profesional con licencia salvo que se reserve por separado",
+   "propinas"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
