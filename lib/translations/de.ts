@@ -144239,6 +144239,191 @@ export const DE_TOURS: Record<string, TourT> = {
    "Getraenke"
   ]
  },
+ "abu-dhabi-city-private-tour-with-local-guide": {
+  "title": "Private Stadttour durch Abu Dhabi mit lokalem Guide und Abholung",
+  "metaTitle": "Abu Dhabi privat, lokaler Guide",
+  "metaDescription": "Ein halber Tag ab Abu Dhabi mit Besuch der Scheich-Zayed-Moschee, dem Heritage Village und dem Founder's Memorial.",
+  "shortDescription": "Ein halber Tag ab Abu Dhabi mit Besuch der Scheich-Zayed-Moschee, dem Heritage Village und dem Founder's Memorial, mit lizenziertem emiratischem Guide.",
+  "fullDescription": "Diese private Tour beginnt an der Scheich-Zayed-Moschee, dann geht es weiter zum Heritage Village von Abu Dhabi fuer 30 Minuten, gefolgt vom Founder's Memorial, dem Emirates Palace, und endet bei Qasr Al Watan, dem laengsten Stopp mit etwa einer Stunde vor Ort.\n\nSie durchwandern lebendiges Kulturerbe und probieren authentische emiratische Datteln. Der Preis umfasst Abholung und Absetzen, einen lizenzierten emiratischen Reiseleiter, und Erfrischungen.\n\nDurchgefuehrt von Tours By Emirati, berechnet diese Tour denselben Preis von 425 USD fuer einen oder zwei Reisende, da sie pro Gruppe abgerechnet wird.",
+  "highlights": [
+   "Lebendiges Kulturerbe durchwandern und authentische emiratische Datteln probieren"
+  ],
+  "included": [
+   "Abholung und Absetzen",
+   "lizenzierter emiratischer Reiseleiter",
+   "Erfrischungen"
+  ],
+  "notIncluded": []
+ },
+ "dubai-old-town-guided-tour": {
+  "title": "Dubai: Gefuehrte Tour durch die Altstadt",
+  "metaTitle": "Altstadt Dubai gefuehrt",
+  "metaDescription": "Ein halber Tag ab Dubai mit Besuch des Al-Shindagha-Museums, dem Saeed-Al-Maktoum-Haus und dem alten Textilmarkt.",
+  "shortDescription": "Ein halber Tag ab Dubai mit Besuch des Al-Shindagha-Museums, dem Saeed-Al-Maktoum-Haus und dem alten Textilmarkt, zu Fuss.",
+  "fullDescription": "Diese Tour laesst Sie in der Zeit zuruckreisen, um die Geschichte Dubais zu entdecken. Sie beginnt beim Al-Shindagha-Museum in Dubai fuer 45 Minuten, dann geht es weiter zum Saeed-Al-Maktoum-Haus fuer 15 Minuten, einem 15-minuetigen Spaziergang, dem alten Textilmarkt fuer 25 Minuten, und der Al-Fahidi-Festung fuer 10 Minuten.\n\nSie erkunden historische Gebiete Dubais, betreten die ehemalige Residenz des Scheichs, besuchen das Museum am Dubai Creek, und durchwandern die Textilmaerkte. Sie kommen am aeltesten Gebaeude Dubais vorbei, durchwandern das historische Viertel Al Fahidi, ueberqueren den Dubai Creek mit einer Faehre, und shoppen auf den Gewuerz- und Goldmaerkten.\n\nDurchgefuehrt von NaTravel, umfasst diese Tour neun Stopps insgesamt und deckt nicht die Wolkenkratzer und Einkaufszentren ab.",
+  "highlights": [
+   "In der Zeit zuruckreisen und die Geschichte Dubais auf einer gefuehrten Tour entdecken",
+   "Eintritt in die ehemalige Residenz des Scheichs",
+   "Besuch des Museums am Dubai Creek",
+   "Spaziergang durch das historische Viertel Al Fahidi",
+   "Shopping auf den Gewuerz- und Goldmaerkten"
+  ],
+  "included": [
+   "Erkundung historischer Gebiete Dubais",
+   "Eintritt in die ehemalige Residenz des Scheichs",
+   "Eintritt ins Museum am Dubai Creek",
+   "Spaziergang durch die Textilmaerkte",
+   "Vorbeifahrt am aeltesten Gebaeude Dubais",
+   "Spaziergang durch das historische Viertel Al Fahidi",
+   "Ueberquerung des Dubai Creek mit einer Faehre",
+   "Shopping auf den Gewuerz- und Goldmaerkten"
+  ],
+  "notIncluded": [
+   "Wolkenkratzer",
+   "Einkaufszentren"
+  ]
+ },
+ "dubai-challenging-hiking-guide-trip-to-wadi": {
+  "title": "Dubai: Anspruchsvolle gefuehrte Wanderung zum Wadi Shawka in RAK",
+  "metaTitle": "Wanderung Wadi Shawka Dubai",
+  "metaDescription": "Ein ganzer Tag ab Dubai mit Besuch des Wadi-Shawka-Parks fuer eine Pause.",
+  "shortDescription": "Ein ganzer Tag ab Dubai mit Besuch des Wadi-Shawka-Parks fuer eine einstuendige Pause, mit fachkundigem Wanderguide.",
+  "fullDescription": "Dieser Ausflug beginnt Ihr Abenteuer mit bequemem Transport ab Ihrem Hotel in Dubai. Der Wadi-Shawka-Park, der laengste Stopp, bietet Ihnen etwa eine Stunde Pause.\n\nDurchgefuehrt von Atlas, beinhaltet dieser Ausflug einen fachkundigen Wanderguide, Abholung und Absetzen, und Flaschenwasser.",
+  "highlights": [
+   "Ihr Abenteuer mit bequemem Transport ab Ihrem Hotel in Dubai beginnen"
+  ],
+  "included": [
+   "Fachkundiger Wanderguide",
+   "Abholung und Absetzen",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten"
+  ]
+ },
+ "noble-life-sunrise-hot-air-balloon-ride-over": {
+  "title": "Noble Life: Heissluftballonfahrt bei Sonnenaufgang ueber der Wueste von Dubai",
+  "metaTitle": "Heissluftballon Noble Life Dubai",
+  "metaDescription": "Ein halber Tag in Dubai, um atemberaubende Sonnenaufgaenge ueber der Wueste zu erleben.",
+  "shortDescription": "Ein halber Tag in Dubai, um atemberaubende Sonnenaufgaenge ueber der Wueste zu erleben, mit einer Heissluftballonfahrt von 40 bis 70 Minuten.",
+  "fullDescription": "Dieses Erlebnis laesst Sie atemberaubende Sonnenaufgaenge ueber der Wueste von Dubai erleben. Der Preis umfasst den Hin- und Ruecktransport von ueberall in der Stadt Dubai, eine 40- bis 70-minuetige Heissluftballonfahrt ueber die atemberaubende Wuestenlandschaft, Erfrischungen bei der Ankunft am Startort serviert, und den Anblick des atemberaubenden Sonnenaufgangs, der den Himmel in lebhaften Farben malt.\n\nDurchgefuehrt von Noble Life, kann dieses Erlebnis kostenlos storniert werden und deckt insgesamt vier Punkte ab. Es deckt nicht das Trinkgeld ab, optional und nach eigenem Ermessen, oder das Flugvideo, optional verfuegbar, um Ihre Erfahrung einzufangen und nochmal zu erleben.",
+  "highlights": [
+   "Atemberaubende Sonnenaufgaenge ueber der Wueste von Dubai erleben"
+  ],
+  "included": [
+   "Hin- und Ruecktransport von ueberall in der Stadt Dubai",
+   "40- bis 70-minuetige Heissluftballonfahrt ueber die atemberaubende Wuestenlandschaft",
+   "Erfrischungen bei der Ankunft am Startort serviert",
+   "Anblick des atemberaubenden Sonnenaufgangs, der den Himmel in lebhaften Farben malt"
+  ],
+  "notIncluded": [
+   "Trinkgeld: optional, nach eigenem Ermessen",
+   "Flugvideo: erfassen und erleben Sie Ihre Erfahrung erneut mit einem optionalen Flugvideo"
+  ]
+ },
+ "dubai-dune-buggy-2hr-off-road-thrill-passenger": {
+  "title": "Dubai-Duenenbuggy, 2-stuendiger Offroad-Nervenkitzel: Mitfahrerlebnis",
+  "metaTitle": "Duenenbuggy 2h Dubai",
+  "metaDescription": "Eine zweistuendige Fahrt ab Dubai mit Besuch eines Jeep- oder SUV-Fahrzeugs und eines Campingplatzes.",
+  "shortDescription": "Eine zweistuendige Fahrt ab Dubai mit Besuch eines Jeep- oder SUV-Fahrzeugs und eines Campingplatzes, mit gefuehrtem Duenenbuggy-Ausflug.",
+  "fullDescription": "Diese Fahrt beginnt mit 45 Minuten im Jeep oder SUV, dann erreicht sie einen ersten Campingplatz, gefolgt von einem zweiten Campingplatz. Sie geniessen bequeme Abholung und Absetzen am Hotel in einem geteilten Fahrzeug, nur innerhalb Dubais, fuer eine stressfreie Reise.\n\nEin gefuehrter Duenenbuggy-Ausflug ist inklusive, mit Helmen, Schutzbrillen, Mineralwasser und alkoholfreien Getraenken.\n\nDurchgefuehrt von Arabian Adventures, umfasst diese Fahrt drei Stopps insgesamt.",
+  "highlights": [
+   "Bequeme Abholung und Absetzen am Hotel fuer eine stressfreie Reise geniessen"
+  ],
+  "included": [
+   "Abholung und Absetzen am Hotel in einem geteilten Fahrzeug, nur innerhalb Dubais",
+   "gefuehrter Ausflug",
+   "Helme und Schutzbrillen",
+   "Mineralwasser und alkoholfreie Getraenke"
+  ],
+  "notIncluded": [
+   "Jeder nicht genannte Artikel"
+  ]
+ },
+ "from-dubai-zerzura-buggy-experience-private-dinner": {
+  "title": "Ab Dubai: Zerzura-Buggy-Erlebnis mit privatem Abendessen",
+  "metaTitle": "Buggy Zerzura und privates Abendessen",
+  "metaDescription": "Ein halber Tag ab Dubai mit Besuch eines Jeep- oder SUV-Fahrzeugs, Zerzura und der Mleiha-Wueste.",
+  "shortDescription": "Ein halber Tag ab Dubai mit Besuch eines Jeep- oder SUV-Fahrzeugs, Zerzura, der Mleiha-Wueste und dem Fossil Rock.",
+  "fullDescription": "Dieses Erlebnis beginnt mit einer Fahrt im Jeep oder SUV, dem laengsten Stopp mit etwa einer Stunde vor Ort, dann geht es weiter zu Zerzura, der Mleiha-Wueste, dem Fossil Rock fuer 15 Minuten, und zurueck zur Mleiha-Wueste.\n\nSie profitieren von Abholung und Absetzen an Ihrem Hotel, einer Einfuehrung in Mleiha, einer einstuendigen selbst gefahrenen Duenenbuggy-Fahrt, und einer Fossilienentdeckung beim Fossil Rock. Ein Fotostopp am Camel Rock, Erfrischungen und Sicherheitsausruestung fuer das gesamte Erlebnis, Sandboarding, ein Kamelritt, ein privates Abendessen und ein Lagerfeuer runden den Tag ab.\n\nDurchgefuehrt von Zerzura Experiences, berechnet dieser Ausflug denselben Preis von 1204 USD fuer einen oder zwei Reisende, da er pro Gruppe abgerechnet wird.",
+  "highlights": [
+   "Eine Stunde selbst gefahrene Duenenbuggy-Fahrt",
+   "Fossilienentdeckung beim Fossil Rock",
+   "Privates Abendessen und Lagerfeuer",
+   "Kamelritt und Sandboarding",
+   "Fotostopp am Camel Rock"
+  ],
+  "included": [
+   "Abholung und Absetzen an Ihrem Hotel",
+   "Einfuehrung in Mleiha",
+   "Duenenbuggy-Fahrt",
+   "Fossilienentdeckung beim Fossil Rock",
+   "Fotostopp am Camel Rock",
+   "Erfrischungen und Sicherheitsausruestung fuer das gesamte Erlebnis",
+   "Sandboarding",
+   "Kamelritt",
+   "privates Abendessen",
+   "Lagerfeuer"
+  ],
+  "notIncluded": []
+ },
+ "dubai-vip-private-scuba-dive-with-free-hotel": {
+  "title": "Dubai: VIP-Privattauchgang mit kostenlosem Hoteltransfer",
+  "metaTitle": "VIP-Privattauchgang Dubai",
+  "metaDescription": "Eine dreistuendige Fahrt ab Dubai mit Besuch des Bermuda Diving Center und dem Jumeirah Beach.",
+  "shortDescription": "Eine dreistuendige Fahrt ab Dubai mit Besuch des Bermuda Diving Center und dem Jumeirah Beach, mit privatem 1-zu-1-Instruktor.",
+  "fullDescription": "Dieses Erlebnis laesst Sie die besten Strandtauchplaetze von Dubai entdecken. Es beginnt beim Bermuda Diving Center, dem laengsten Stopp mit etwa einer Stunde vor Ort, dann geht es weiter zum Jumeirah Beach fuer eine Stunde.\n\nSie profitieren von einem privaten 1-zu-1-Instruktor fuer persoenliche Anleitung, kostenloser Abholung und Absetzen am Hotel in Dubai, unbegrenzten Unterwasserfotos und -videos, und vollstaendiger Tauchausruestung. Kostenlose Handtuecher und Hausschuhe, kostenloses Wasser, Saft, Kaffee und Popcorn, ein Erlebnis der Interaktion mit Fischen unter Wasser, eine 30-minuetige Schulungssitzung im Klassenzimmer, eine 30-minuetige Trainingssitzung im Wasser, ein 45-minuetiges gefuehrtes Tauch-Erlebnis, und ein Abschlusszertifikat runden das Programm ab.\n\nDurchgefuehrt von Bermuda Diving Center LLC, umfasst diese Fahrt zwei Stopps insgesamt.",
+  "highlights": [
+   "Die besten Strandtauchplaetze von Dubai entdecken",
+   "Privater 1-zu-1-Instruktor",
+   "Unbegrenzte Unterwasserfotos und -videos",
+   "Vollstaendige Tauchausruestung gestellt",
+   "Abschlusszertifikat"
+  ],
+  "included": [
+   "Privater 1-zu-1-Instruktor fuer persoenliche Anleitung",
+   "kostenlose Abholung und Absetzen am Hotel in Dubai",
+   "unbegrenzte Unterwasserfotos und -videos",
+   "vollstaendige Tauchausruestung gestellt",
+   "kostenlose Handtuecher und Hausschuhe",
+   "kostenloses Wasser, Saft, Kaffee und Popcorn",
+   "Erlebnis der Interaktion mit Fischen unter Wasser",
+   "30-minuetige Schulungssitzung im Klassenzimmer",
+   "30-minuetige Trainingssitzung im Wasser",
+   "45-minuetiges gefuehrtes Tauch-Erlebnis",
+   "Abschlusszertifikat"
+  ],
+  "notIncluded": []
+ },
+ "dubai-city-highlights-tour-with-blue-mosque": {
+  "title": "Dubai: Stadt-Highlights-Tour mit Blauer Moschee und Streetfood",
+  "metaTitle": "Highlights Dubai und Blaue Moschee",
+  "metaDescription": "Ein halber Tag ab Dubai mit Besuch des Souk Madinat Jumeirah, dem Burj Al Arab und der Al-Farooq-Omar-Bin-Al-Khattab-Moschee.",
+  "shortDescription": "Ein halber Tag ab Dubai mit Besuch des Souk Madinat Jumeirah, dem Burj Al Arab und der Al-Farooq-Omar-Bin-Al-Khattab-Moschee, mit Streetfood.",
+  "fullDescription": "Diese Tour laesst Sie den Komfort einer Fahrt im klimatisierten Van durch die Stadt Dubai geniessen. Sie beginnt beim Souk Madinat Jumeirah fuer 25 Minuten, dann dem Burj Al Arab fuer 10 Minuten, der Al-Farooq-Omar-Bin-Al-Khattab-Moschee fuer 30 Minuten, dem Burj Khalifa fuer 15 Minuten, und dem Museum der Zukunft fuer 20 Minuten, bevor sie beim Dubai Frame endet, dem laengsten Stopp mit etwa einer Stunde vor Ort.\n\nDer Preis umfasst Abholung und Absetzen am Hotel, den Basiseintritt zum Museum der Zukunft, den Eintritt zur Blauen Moschee mit gefuehrter Tour, und eine private Bootsfahrt. Ein lokaler Guide, ein Streetfood-Snack, Fotostopps beim Burj Al Arab und beim Burj Khalifa, eine gefuehrte Tour des Goldmarkts und des Gewuerzmarkts mit Einkaufszeit, Mineralwasser und alkoholfreie Getraenke, sowie eine traditionelle Abra-Fahrt runden die Tour ab.\n\nDurchgefuehrt von MAGIC LAMP TOURISM L.L.C, umfasst diese Tour zehn Stopps insgesamt. Der Preis von 708 USD ist derselbe fuer einen oder zwei Reisende, da er pro Gruppe abgerechnet wird.",
+  "highlights": [
+   "Den Komfort einer Fahrt im klimatisierten Van durch Dubai geniessen",
+   "Eintritt zur Blauen Moschee mit gefuehrter Tour",
+   "Private Bootsfahrt und traditionelle Abra-Fahrt",
+   "Streetfood-Snack",
+   "Gefuehrte Tour des Goldmarkts und des Gewuerzmarkts"
+  ],
+  "included": [
+   "Abholung und Absetzen am Hotel",
+   "Basiseintritt zum Museum der Zukunft",
+   "Eintritt zur Blauen Moschee (gefuehrte Tour)",
+   "private Bootsfahrt",
+   "lokaler Guide",
+   "Streetfood-Snack",
+   "Fotostopp beim Burj Al Arab",
+   "Fotostopp beim Burj Khalifa",
+   "Besuch des Goldmarkts (gefuehrte Tour und Einkaufszeit)",
+   "Besuch des Gewuerzmarkts (gefuehrte Tour und Einkaufszeit)",
+   "Mineralwasser und alkoholfreie Getraenke",
+   "traditionelle Abra-Fahrt"
+  ],
+  "notIncluded": []
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

@@ -144240,6 +144240,191 @@ export const FR_TOURS: Record<string, TourT> = {
    "boissons"
   ]
  },
+ "abu-dhabi-city-private-tour-with-local-guide": {
+  "title": "Tour prive de la ville d’Abu Dhabi avec guide local et prise en charge",
+  "metaTitle": "Abu Dhabi prive, guide local",
+  "metaDescription": "Une demi-journee depuis Abu Dhabi visitant la mosquee Sheikh Zayed, le Village du Patrimoine et le Memorial du Fondateur.",
+  "shortDescription": "Une demi-journee depuis Abu Dhabi visitant la mosquee Sheikh Zayed, le Village du Patrimoine et le Memorial du Fondateur, avec guide emirati agree.",
+  "fullDescription": "Ce tour prive commence a la mosquee Sheikh Zayed, puis continue vers le Village du Patrimoine d’Abu Dhabi pour 30 minutes, suivi du Memorial du Fondateur, du Palais Emirates, et se termine a Qasr Al Watan, l’arret le plus long avec environ une heure sur place.\n\nVous marchez a travers le patrimoine vivant et goutez d’authentiques dattes emiraties. Le prix couvre la prise en charge et la depose, un guide touristique emirati agree, et des rafraichissements.\n\nOpere par Tours By Emirati, ce tour facture le meme prix de 425 $ pour un ou deux voyageurs, car il est tarife par groupe.",
+  "highlights": [
+   "Marcher a travers le patrimoine vivant et gouter d’authentiques dattes emiraties"
+  ],
+  "included": [
+   "Prise en charge et depose",
+   "guide touristique emirati agree",
+   "rafraichissements"
+  ],
+  "notIncluded": []
+ },
+ "dubai-old-town-guided-tour": {
+  "title": "Dubai : tour guide de la vieille ville",
+  "metaTitle": "Vieille ville de Dubai guidee",
+  "metaDescription": "Une demi-journee depuis Dubai visitant le musee Al Shindagha, la maison Saeed Al Maktoum et l’ancien marche textile.",
+  "shortDescription": "Une demi-journee depuis Dubai visitant le musee Al Shindagha, la maison Saeed Al Maktoum et l’ancien marche textile, a pied.",
+  "fullDescription": "Ce tour vous fait remonter le temps pour decouvrir l’histoire de Dubai. Il commence au musee Al Shindagha de Dubai pour 45 minutes, puis continue vers la maison Saeed Al Maktoum pour 15 minutes, une marche de 15 minutes, l’ancien marche textile pour 25 minutes, et le fort Al Fahidi pour 10 minutes.\n\nVous explorez les zones historiques de Dubai, entrez dans l’ancienne residence du sheikh, visitez le musee de la crique de Dubai, et traversez les marches textiles. Vous passez devant le plus ancien batiment de Dubai, marchez dans le quartier historique d’Al Fahidi, traversez la crique de Dubai en ferry, et faites du shopping aux marches des epices et de l’or.\n\nOpere par NaTravel, ce tour compte neuf arrets en tout et ne couvre pas les gratte-ciel ni les centres commerciaux.",
+  "highlights": [
+   "Remonter le temps et decouvrir l’histoire de Dubai lors d’un tour guide",
+   "Entree dans l’ancienne residence du sheikh",
+   "Visite du musee de la crique de Dubai",
+   "Marche dans le quartier historique d’Al Fahidi",
+   "Shopping aux marches des epices et de l’or"
+  ],
+  "included": [
+   "Exploration des zones historiques de Dubai",
+   "entree dans l’ancienne residence du sheikh",
+   "entree au musee de la crique de Dubai",
+   "marche a travers les marches textiles",
+   "passage devant le plus ancien batiment de Dubai",
+   "marche dans le quartier historique d’Al Fahidi",
+   "traversee de la crique de Dubai en ferry",
+   "shopping aux marches des epices et de l’or"
+  ],
+  "notIncluded": [
+   "Gratte-ciel",
+   "centres commerciaux"
+  ]
+ },
+ "dubai-challenging-hiking-guide-trip-to-wadi": {
+  "title": "Dubai : randonnee exigeante guidee vers le Wadi Shawka a RAK",
+  "metaTitle": "Randonnee Wadi Shawka Dubai",
+  "metaDescription": "Une journee complete depuis Dubai visitant le parc du Wadi Shawka pour une pause.",
+  "shortDescription": "Une journee complete depuis Dubai visitant le parc du Wadi Shawka pour une pause d’une heure, avec guide de randonnee expert.",
+  "fullDescription": "Cette excursion commence votre aventure avec un transport facile depuis votre hotel a Dubai. Le parc du Wadi Shawka, l’arret le plus long, vous offre environ une heure de pause.\n\nOpere par Atlas, cette excursion comprend un guide de randonnee expert, la prise en charge et la depose, et de l’eau en bouteille.",
+  "highlights": [
+   "Commencer votre aventure avec un transport facile depuis votre hotel a Dubai"
+  ],
+  "included": [
+   "Guide de randonnee expert",
+   "prise en charge et depose",
+   "eau en bouteille"
+  ],
+  "notIncluded": [
+   "Repas"
+  ]
+ },
+ "noble-life-sunrise-hot-air-balloon-ride-over": {
+  "title": "Noble Life : vol en montgolfiere au lever du soleil au-dessus du desert de Dubai",
+  "metaTitle": "Montgolfiere Noble Life Dubai",
+  "metaDescription": "Une demi-journee a Dubai pour vivre des levers de soleil a couper le souffle au-dessus du desert.",
+  "shortDescription": "Une demi-journee a Dubai pour vivre des levers de soleil a couper le souffle au-dessus du desert, avec vol en montgolfiere de 40 a 70 minutes.",
+  "fullDescription": "Cette experience vous fait vivre des levers de soleil a couper le souffle au-dessus du desert de Dubai. Le prix couvre le transport aller-retour depuis n’importe ou dans la ville de Dubai, un vol en montgolfiere de 40 a 70 minutes au-dessus du paysage desertique spectaculaire, des rafraichissements servis a l’arrivee au site de lancement, et le spectacle du lever de soleil peignant le ciel de couleurs vives.\n\nOpere par Noble Life, cette experience peut etre annulee gratuitement et couvre quatre elements au total. Elle ne couvre pas les pourboires, optionnels et laisses a votre discretion, ni la video du vol, disponible en option pour capturer et revivre l’experience.",
+  "highlights": [
+   "Vivre des levers de soleil a couper le souffle au-dessus du desert de Dubai"
+  ],
+  "included": [
+   "Transport aller-retour depuis n’importe ou dans la ville de Dubai",
+   "vol en montgolfiere de 40 a 70 minutes au-dessus du paysage desertique",
+   "rafraichissements servis a l’arrivee au site de lancement",
+   "spectacle du lever de soleil peignant le ciel de couleurs vives"
+  ],
+  "notIncluded": [
+   "Pourboires : optionnels, a votre discretion",
+   "video du vol : capturez et revivez votre experience avec une video optionnelle"
+  ]
+ },
+ "dubai-dune-buggy-2hr-off-road-thrill-passenger": {
+  "title": "Dubai : frisson hors route en buggy des dunes de 2 heures, experience passager",
+  "metaTitle": "Buggy des dunes 2h Dubai",
+  "metaDescription": "Un trajet de deux heures depuis Dubai visitant un vehicule jeep ou SUV et un campement.",
+  "shortDescription": "Un trajet de deux heures depuis Dubai visitant un vehicule jeep ou SUV et un campement, avec excursion guidee en buggy des dunes.",
+  "fullDescription": "Ce trajet commence par 45 minutes en jeep ou SUV, puis atteint un premier campement, suivi d’un second campement. Vous profitez d’une prise en charge et d’une depose confortables a l’hotel dans un vehicule partage, uniquement a Dubai, pour un voyage sans tracas.\n\nUne excursion guidee en buggy des dunes est incluse, avec casques, lunettes de protection, eau minerale et boissons non alcoolisees.\n\nOpere par Arabian Adventures, ce trajet compte trois arrets en tout.",
+  "highlights": [
+   "Profiter d’une prise en charge et d’une depose confortables a l’hotel pour un voyage sans tracas"
+  ],
+  "included": [
+   "Prise en charge et depose a l’hotel dans un vehicule partage, uniquement a Dubai",
+   "excursion guidee",
+   "casques et lunettes de protection",
+   "eau minerale et boissons non alcoolisees"
+  ],
+  "notIncluded": [
+   "Tout article non mentionne"
+  ]
+ },
+ "from-dubai-zerzura-buggy-experience-private-dinner": {
+  "title": "Depuis Dubai : experience de buggy a Zerzura et diner prive",
+  "metaTitle": "Buggy Zerzura et diner prive",
+  "metaDescription": "Une demi-journee depuis Dubai visitant un vehicule jeep ou SUV, Zerzura et le desert de Mleiha.",
+  "shortDescription": "Une demi-journee depuis Dubai visitant un vehicule jeep ou SUV, Zerzura, le desert de Mleiha et le rocher aux fossiles.",
+  "fullDescription": "Cette experience commence avec un trajet en jeep ou SUV, l’arret le plus long avec environ une heure sur place, puis continue vers Zerzura, le desert de Mleiha, le rocher aux fossiles pour 15 minutes, et un retour au desert de Mleiha.\n\nVous beneficiez de la prise en charge et de la depose a votre hotel, d’une introduction a Mleiha, d’une conduite libre d’une heure en buggy des dunes, et d’une decouverte de fossiles au rocher aux fossiles. Un arret photo au rocher du chameau, des rafraichissements et un equipement de securite pour toute l’experience, du sandboard, une balade a dos de chameau, un diner prive et un feu de camp completent la journee.\n\nOpere par Zerzura Experiences, cette excursion facture le meme prix de 1204 $ pour un ou deux voyageurs, car elle est tarifee par groupe.",
+  "highlights": [
+   "Une heure de conduite libre en buggy des dunes",
+   "Decouverte de fossiles au rocher aux fossiles",
+   "Diner prive et feu de camp",
+   "Balade a dos de chameau et sandboard",
+   "Arret photo au rocher du chameau"
+  ],
+  "included": [
+   "Prise en charge et depose a votre hotel",
+   "introduction a Mleiha",
+   "conduite en buggy des dunes",
+   "decouverte de fossiles au rocher aux fossiles",
+   "arret photo au rocher du chameau",
+   "rafraichissements et equipement de securite pour toute l’experience",
+   "sandboard",
+   "balade a dos de chameau",
+   "diner prive",
+   "feu de camp"
+  ],
+  "notIncluded": []
+ },
+ "dubai-vip-private-scuba-dive-with-free-hotel": {
+  "title": "Dubai : plongee privee VIP avec transfert hotel gratuit",
+  "metaTitle": "Plongee VIP prive Dubai",
+  "metaDescription": "Un trajet de trois heures depuis Dubai visitant le centre de plongee des Bermudes et la plage de Jumeirah.",
+  "shortDescription": "Un trajet de trois heures depuis Dubai visitant le centre de plongee des Bermudes et la plage de Jumeirah, avec instructeur prive en tete-a-tete.",
+  "fullDescription": "Cette experience vous fait decouvrir les meilleurs spots de plongee de plage de Dubai. Elle commence au centre de plongee des Bermudes, l’arret le plus long avec environ une heure sur place, puis continue vers la plage de Jumeirah pour une heure.\n\nVous beneficiez d’un instructeur prive en tete-a-tete pour un accompagnement personnalise, d’une prise en charge et d’une depose gratuites a l’hotel a Dubai, de photos et videos sous-marines illimitees, et d’un equipement de plongee complet fourni. Des serviettes et des chaussons gratuits, de l’eau, du jus, du cafe et du popcorn offerts, une experience d’interaction avec les poissons sous l’eau, une session de formation en salle de 30 minutes, une session de formation dans l’eau de 30 minutes, une experience de plongee guidee de 45 minutes, et un certificat de reussite completent le programme.\n\nOpere par Bermuda Diving Center LLC, ce trajet compte deux arrets en tout.",
+  "highlights": [
+   "Decouvrir les meilleurs spots de plongee de plage de Dubai",
+   "Instructeur prive en tete-a-tete",
+   "Photos et videos sous-marines illimitees",
+   "Equipement de plongee complet fourni",
+   "Certificat de reussite"
+  ],
+  "included": [
+   "Instructeur prive en tete-a-tete pour un accompagnement personnalise",
+   "prise en charge et depose gratuites a l’hotel a Dubai",
+   "photos et videos sous-marines illimitees",
+   "equipement de plongee complet fourni",
+   "serviettes et chaussons gratuits",
+   "eau, jus, cafe et popcorn offerts",
+   "experience d’interaction avec les poissons sous l’eau",
+   "session de formation en salle de 30 minutes",
+   "session de formation dans l’eau de 30 minutes",
+   "experience de plongee guidee de 45 minutes",
+   "certificat de reussite"
+  ],
+  "notIncluded": []
+ },
+ "dubai-city-highlights-tour-with-blue-mosque": {
+  "title": "Dubai : tour des incontournables avec la Mosquee Bleue et street food",
+  "metaTitle": "Incontournables Dubai et Mosquee Bleue",
+  "metaDescription": "Une demi-journee depuis Dubai visitant le Souk Madinat Jumeirah, le Burj Al Arab et la mosquee Al Farooq Omar Bin Al Khattab.",
+  "shortDescription": "Une demi-journee depuis Dubai visitant le Souk Madinat Jumeirah, le Burj Al Arab et la mosquee Al Farooq Omar Bin Al Khattab, avec street food.",
+  "fullDescription": "Ce tour vous fait profiter du confort de voyager en van climatise a travers la ville de Dubai. Il commence au Souk Madinat Jumeirah pour 25 minutes, puis le Burj Al Arab pour 10 minutes, la mosquee Al Farooq Omar Bin Al Khattab pour 30 minutes, le Burj Khalifa pour 15 minutes, et le Musee du Futur pour 20 minutes, avant de se terminer au Dubai Frame, l’arret le plus long avec environ une heure sur place.\n\nLe prix couvre la prise en charge et la depose a l’hotel, l’entree de base au Musee du Futur, l’entree a la Mosquee Bleue avec visite guidee, et une balade en bateau privee. Un guide local, une collation de street food, des arrets photo au Burj Al Arab et au Burj Khalifa, une visite guidee du marche de l’or et du marche aux epices avec temps de shopping, de l’eau minerale et des boissons non alcoolisees, ainsi qu’une balade traditionnelle en abra completent le tour.\n\nOpere par MAGIC LAMP TOURISM L.L.C, ce tour compte dix arrets en tout. Le prix de 708 $ est le meme pour un ou deux voyageurs, car il est tarife par groupe.",
+  "highlights": [
+   "Profiter du confort de voyager en van climatise a travers Dubai",
+   "Entree a la Mosquee Bleue avec visite guidee",
+   "Balade en bateau privee et balade traditionnelle en abra",
+   "Collation de street food",
+   "Visite guidee du marche de l’or et du marche aux epices"
+  ],
+  "included": [
+   "Prise en charge et depose a l’hotel",
+   "entree de base au Musee du Futur",
+   "entree a la Mosquee Bleue (visite guidee)",
+   "balade en bateau privee",
+   "guide local",
+   "collation de street food",
+   "arret photo pres du Burj Al Arab",
+   "arret photo pres du Burj Khalifa",
+   "visite du marche de l’or (visite guidee et temps de shopping)",
+   "visite du marche aux epices (visite guidee et temps de shopping)",
+   "eau minerale et boissons non alcoolisees",
+   "balade traditionnelle en abra"
+  ],
+  "notIncluded": []
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
