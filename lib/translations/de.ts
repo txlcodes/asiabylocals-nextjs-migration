@@ -143063,6 +143063,231 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "from-dubai-northern-emirates-private-full-day-tour": {
+  "title": "Ab Dubai: Private Ganztagestour zu den nordlichen Emiraten",
+  "metaTitle": "Nordliche Emirate ab Dubai",
+  "metaDescription": "Ein ganzer Tag ab Dubai mit Besuch des Herzens von Sharjah, dem Ajman-Museum und Umm al-Quwain.",
+  "shortDescription": "Ein ganzer Tag ab Dubai mit Besuch des Herzens von Sharjah, dem Ajman-Museum, Umm al-Quwain und Al Jazeera Al Hamra.",
+  "fullDescription": "Diese private Tour erkundet die weniger bekannten Emirate der Vereinigten Arabischen Emirate an einem einzigen Tag. Sie beginnt am Herzen von Sharjah, mit 45 Minuten vor Ort, dann geht es weiter zum Ajman-Museum fuer 45 Minuten, gefolgt von Umm al-Quwain, ebenfalls fuer 45 Minuten.\n\nAl Jazeera Al Hamra, der laengste Stopp mit etwa einer Stunde vor Ort, beinhaltet den Besuch des Kulturerbedorfs. Der Tag endet mit einem 40-minuetigen Kuestenstopp, mit Fotostopps und einem Einblick in Sharjah, Ajman, Umm Al Quwain und Ras Al Khaimah waehrend der gesamten Fahrt.\n\nDurchgefuehrt von JGT TOURISM, beinhaltet diese Tour ein privates klimatisiertes Fahrzeug, Abholung und Absetzen am Hotel in Dubai, und einen professionellen englischsprachigen Fahrer. Der Preis von 585 USD ist derselbe fuer einen oder zwei Reisende, da er pro Gruppe abgerechnet wird.",
+  "highlights": [
+   "Die weniger bekannten Emirate der VAE auf einer privaten Ganztagestour ab Dubai entdecken",
+   "Herz von Sharjah und Ajman-Museum",
+   "Umm al-Quwain",
+   "Kulturerbedorf von Al Jazeera Al Hamra",
+   "Fotostopps durch Sharjah, Ajman, Umm Al Quwain und Ras Al Khaimah"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug",
+   "Abholung und Absetzen am Hotel in Dubai",
+   "professioneller englischsprachiger Fahrer",
+   "Flaschenwasser",
+   "Transport zwischen allen gelisteten Zielen",
+   "Fotostopps",
+   "Besuch des Kulturerbedorfs Al Jazirah Al Hamra",
+   "Besichtigung von Sharjah, Ajman, Umm Al Quwain und Ras Al Khaimah"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke ausser Flaschenwasser",
+   "Eintrittskarten fuer kostenpflichtige Attraktionen oder Museen",
+   "persoenliche Ausgaben",
+   "professioneller lizenzierter Reiseleiter, sofern nicht speziell gebucht",
+   "Trinkgelder"
+  ]
+ },
+ "dubai-classic-guided-half-day-city-tour-with-abra": {
+  "title": "Dubai: Klassische gefuehrte Halbtages-Stadttour mit Abra-Fahrt",
+  "metaTitle": "Dubai klassisch mit Abra",
+  "metaDescription": "Ein halber Tag in Dubai, um Bastakiya zu erkunden und ein traditionelles Kulturerbehaus zu besuchen.",
+  "shortDescription": "Ein halber Tag in Dubai, um Bastakiya zu erkunden und ein traditionelles Kulturerbehaus zu besuchen, mit Abra-Fahrt auf dem Dubai Creek.",
+  "fullDescription": "Diese klassische Halbtagestour beginnt mit der Abholung am Hotel von zentralen Standorten in Dubai, gefolgt von einem Fotostopp am Zabeel-Palast und am Dubai Frame. Sie erkunden anschliessend Bastakiya und besuchen ein traditionelles Kulturerbehaus.\n\nDie Tour setzt sich mit einer Abra-Fahrt ueber den Dubai Creek fort, dann Besuchen des Gewuerzsouks und des Goldsouks. Sie fahren an der Jumeirah-Moschee und dem Etihad-Museum vorbei, besuchen das Islamic Art Center, und machen einen Fotostopp am Burj Al Arab, bevor ein Besuch von The Pointe mit Blick auf das Atlantis The Palm folgt.\n\nDurchgefuehrt von Tripventura UAE, kann diese Tour kostenlos storniert werden und deckt insgesamt 12 Punkte ab, mit einem lizenzierten Reiseleiter den ganzen Tag ueber.",
+  "highlights": [
+   "Bastakiya erkunden und ein traditionelles Kulturerbehaus besuchen",
+   "Abra-Fahrt ueber den Dubai Creek",
+   "Besuche des Gewuerzsouks und des Goldsouks",
+   "Fotostopp am Burj Al Arab",
+   "Besuch von The Pointe mit Blick auf das Atlantis The Palm"
+  ],
+  "included": [
+   "Abholung und Absetzen am Hotel von zentralen Standorten in Dubai",
+   "klimatisierter Transport",
+   "lizenzierter Reiseleiter",
+   "Fotostopp am Zabeel-Palast",
+   "Fotostopp am Dubai Frame",
+   "Besuch von Bastakiya und einem traditionellen Haus",
+   "Abra-Fahrt ueber den Dubai Creek",
+   "Besuche des Gewuerzsouks und des Goldsouks",
+   "Vorbeifahrt an der Jumeirah-Moschee und dem Etihad-Museum",
+   "Besuch des Islamic Art Center",
+   "Fotostopp am Burj Al Arab",
+   "Besuch von The Pointe mit Blick auf das Atlantis The Palm"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "dubai-old-dubai-abra-ride-metro-burj-khalifa-bike": {
+  "title": "Dubai: Altes Dubai, Abra-Fahrt, Metro und Fahrrad zum Burj Khalifa",
+  "metaTitle": "Altes Dubai und Burj Khalifa per Rad",
+  "metaDescription": "Ein halber Tag ab Dubai, bei dem Al Seef zu Fuss, eine Segelbootfahrt und der Goldsouk Deira zu Fuss erkundet werden.",
+  "shortDescription": "Ein halber Tag ab Dubai, bei dem Al Seef zu Fuss, eine Segelbootfahrt, der Goldsouk Deira und der Gewuerzsouk Dubai zu Fuss erkundet werden. Durchgefuehrt von 360 Adventures Tourism LLC.",
+  "fullDescription": "Dieser Ausflug erkundet die historischen Strassen des alten Dubai mit einem lokalen Guide. Al Seef zu Fuss dauert 45 Minuten, gefolgt von einer 15-minuetigen Segelbootfahrt, dann der Goldsouk Deira zu Fuss fuer 15 Minuten und der Gewuerzsouk Dubai zu Fuss ebenfalls fuer 15 Minuten.\n\nSie entdecken die traditionelle Uferpromenade von Al Seef, ueberqueren den Dubai Creek auf einem traditionellen Abra, und erkunden die bunten Gewuerz- und Goldsouks. Die Tour laesst Sie die Dubai-Metro wie ein Einheimischer erleben, von der historischen Reise durch Dubai zum futuristischen Downtown Dubai. Eine Fahrradfahrt rund um den Burj Khalifa und Downtown Dubai folgt, mit mehreren Fotostopps am Burj Khalifa und der Skyline.\n\nEin letzter 20-minuetiger Fussstopp rundet die Route ab. Dieser Ausflug umfasst acht Stopps insgesamt und bringt Ihnen die Geschichte, Kultur und Transformation Dubais naeher.",
+  "highlights": [
+   "Al Seef und die Strassen des alten Dubai mit einem lokalen Guide erkunden",
+   "Den Dubai Creek auf einem traditionellen Abra ueberqueren",
+   "Die bunten Gewuerz- und Goldsouks erkunden",
+   "Die Dubai-Metro wie ein Einheimischer erleben",
+   "Fahrradfahrt rund um den Burj Khalifa mit Fotostopps"
+  ],
+  "included": [
+   "Erkundung der historischen Strassen des alten Dubai mit einem lokalen Guide",
+   "Entdeckung der traditionellen Uferpromenade von Al Seef",
+   "Ueberquerung des Dubai Creek auf einem traditionellen Abra",
+   "Erkundung des bunten Gewuerzsouks und Goldsouks",
+   "Erfahren der Geschichte, Kultur und Transformation Dubais",
+   "Erleben der Dubai-Metro wie ein Einheimischer",
+   "Fahrt vom historischen Dubai zum futuristischen Downtown",
+   "Fahrradfahrt rund um den Burj Khalifa und Downtown Dubai",
+   "mehrere Fotostopps am Burj Khalifa und der Skyline"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "dubai-vip-desert-safari-with-quad-bike-camel-ride": {
+  "title": "Dubai: VIP-Wuestensafari mit Quad, Kamelritt und Abendessen",
+  "metaTitle": "VIP-Wuestensafari Dubai",
+  "metaDescription": "Ein ganzer Tag ab Dubai mit Besuch der Lahbab-Wueste und Al Aweer, mit Dune-Bashing im 4x4 und Sandboarding.",
+  "shortDescription": "Ein ganzer Tag ab Dubai mit Besuch der Lahbab-Wueste und Al Aweer, mit Dune-Bashing im 4x4, Sandboarding und Grillbuffet-Abendessen.",
+  "fullDescription": "Diese VIP-Wuestensafari beginnt in der Lahbab-Wueste, mit einer Stunde vor Ort, dann geht es weiter nach Al Aweer, dem laengsten Stopp mit etwa vier Stunden vor Ort.\n\nAbholung und Absetzen erfolgen im 4x4-Fahrzeug direkt von Ihrer Tuer. Auf den Duenen geniessen Sie Dune-Bashing und Sandboarding, gefolgt von einem kurzen Kamelritt und einem Fotostopp beim Wuestensonnenuntergang. Eine Quad-Option ist verfuegbar.\n\nDurchgefuehrt von Sandoz Private Limited, beinhaltet diese Safari arabischen Kaffee, Tee, Wasser und alkoholfreie Getraenke, eine Henna-Bemalung, eine Fotosession in arabischer Tracht, ein Grillbuffet-Abendessen mit vegetarischen und nicht-vegetarischen Optionen, sowie Live-Unterhaltungsshows einschliesslich Bauchtanz und Tanoura.",
+  "highlights": [
+   "Aufregendes Dune-Bashing und Sandboarding im 4x4",
+   "Kurzer Kamelritt",
+   "Fotostopp beim Wuestensonnenuntergang",
+   "Grillbuffet-Abendessen mit vegetarischen und nicht-vegetarischen Optionen",
+   "Live-Shows mit Bauchtanz und Tanoura"
+  ],
+  "included": [
+   "Abholung und Absetzen im 4x4-Fahrzeug von Ihrer Tuer",
+   "Dune-Bashing und Sandboarding",
+   "kurzer Kamelritt",
+   "Fotostopp beim Wuestensonnenuntergang",
+   "Quad-Fahrt (falls diese Option gewaehlt wird)",
+   "arabischer Kaffee, Tee, Wasser und alkoholfreie Getraenke",
+   "Henna-Bemalung",
+   "Fotosession in arabischer Tracht",
+   "Grillbuffet-Abendessen mit vegetarischen und nicht-vegetarischen Optionen",
+   "Live-Unterhaltungsshows",
+   "Bauchtanz",
+   "Tanoura-Show"
+  ],
+  "notIncluded": []
+ },
+ "private-guided-full-day-east-coast-tour-from": {
+  "title": "Private gefuehrte Ganztagestour an die Ostkueste ab Dubai mit dem Auto",
+  "metaTitle": "Ostkueste ab Dubai",
+  "metaDescription": "Ein ganzer Tag in Dubai, um die echten Emirate jenseits von Dubai mit einem privaten lizenzierten Guide zu entdecken.",
+  "shortDescription": "Ein ganzer Tag in Dubai, um die echten Emirate jenseits von Dubai mit einem privaten lizenzierten Guide zu entdecken, auf dem Weg zur Ostkueste von Fujairah.",
+  "fullDescription": "Dieser ganze Tag bringt Sie jenseits von Dubai, um die echten Vereinigten Arabischen Emirate mit einem privaten lizenzierten Guide zu entdecken. Die private Ganztagestour fuehrt Sie von Dubai zur Ostkueste von Fujairah, wo Sie das Fujairah-Museum besuchen und freien Eintritt zur Festung Fujairah erhalten.\n\nIhr privater lizenzierter 5-Sterne-Guide, fliessend in der Sprache Ihrer Wahl, begleitet Sie die ganze Fahrt, mit privaten Transfers einschliesslich Abholung und Absetzen an Ihrer Unterkunft in Dubai.\n\nDurchgefuehrt von Rosotravel - United States Tours & Experiences, kann diese Tour kostenlos storniert werden und deckt insgesamt fuenf Punkte ab. Der Preis von 1332 USD ist fast identisch fuer einen oder zwei Reisende (1328 USD jeweils), da er pro Gruppe abgerechnet wird.",
+  "highlights": [
+   "Die echten Emirate jenseits von Dubai mit einem privaten lizenzierten Guide entdecken",
+   "Fahrt zur Ostkueste von Fujairah",
+   "Besuch des Fujairah-Museums",
+   "Freier Eintritt zur Festung Fujairah",
+   "5-Sterne-Guide, der die Sprache Ihrer Wahl spricht"
+  ],
+  "included": [
+   "Private Ganztagestour von Dubai zur Ostkueste von Fujairah der VAE",
+   "privater lizenzierter 5-Sterne-Guide, fliessend in der Sprache Ihrer Wahl",
+   "Eintritt ins Fujairah-Museum",
+   "freier Eintritt zur Festung Fujairah",
+   "private Transfers mit Abholung und Absetzen an Ihrer Unterkunft in Dubai"
+  ],
+  "notIncluded": [
+   "Mittagessen (optional)"
+  ]
+ },
+ "auh-abu-dhabi-international-airport-pearl-lounge": {
+  "title": "AUH Internationaler Flughafen Abu Dhabi: Pearl Lounge",
+  "metaTitle": "Pearl Lounge Abu Dhabi",
+  "metaDescription": "Ein zweistuendiges Erlebnis in Abu Dhabi, um Zugang zu verschiedenen Flughafen-Lounges am Internationalen Flughafen Abu Dhabi zu geniessen.",
+  "shortDescription": "Ein zweistuendiges Erlebnis in Abu Dhabi, um Zugang zu verschiedenen Flughafen-Lounges am Internationalen Flughafen Abu Dhabi zu geniessen, mit Snacks und warmen oder kalten Speisen.",
+  "fullDescription": "Dieser zweistuendige Lounge-Aufenthalt am Internationalen Flughafen Abu Dhabi bietet Zugang zu einer Vielzahl von Flughafenbereichen. Der Preis umfasst Eintritt in die Flughafen-Lounge, Snacks und Obst, warme und kalte Speisen, sowie vegetarische und halal Optionen.\n\nDurchgefuehrt von Dragonpass Group, kann dieser Aufenthalt kostenlos storniert werden und deckt insgesamt 12 Punkte ab, einschliesslich alkoholischer und alkoholfreier Getraenke, einem Wickelraum, einer Ladestation, einem Gebetsraum, Zeitungen und Zeitschriften, WLAN-Zugang und einer Fluginformationsanzeige.",
+  "highlights": [
+   "Zugang zu einer Vielzahl von Lounges am Internationalen Flughafen Abu Dhabi geniessen",
+   "Snacks und Obst, warme und kalte Speisen",
+   "Vegetarische und halal Optionen",
+   "Alkoholische und alkoholfreie Getraenke",
+   "WLAN-Zugang und Fluginformationsanzeige"
+  ],
+  "included": [
+   "Eintritt in die Lounge am Internationalen Flughafen Abu Dhabi",
+   "Snacks und Obst",
+   "warme und kalte Speisen",
+   "vegetarische und halal Optionen",
+   "alkoholische Getraenke",
+   "alkoholfreie warme und kalte Getraenke",
+   "Wickelraum",
+   "Ladestation",
+   "Gebetsraum",
+   "Zeitungen und Zeitschriften",
+   "WLAN-Zugang",
+   "Fluginformationsanzeige"
+  ],
+  "notIncluded": [
+   "Spa-Behandlung (vor Ort kaeuflich)",
+   "Duscheinrichtung (vor Ort kaeuflich)",
+   "Konferenzraum (vor Ort kaeuflich)"
+  ]
+ },
+ "skip-the-line-museum-of-the-future-dubai-private": {
+  "title": "Private gefuehrte Tour ohne Warteschlange zum Museum der Zukunft in Dubai",
+  "metaTitle": "Museum der Zukunft, ohne Warteschlange",
+  "metaDescription": "Ein zweistuendiges Erlebnis in Dubai, um das Museum der Zukunft mit einem privaten lizenzierten 5-Sterne-Guide zu erkunden.",
+  "shortDescription": "Ein zweistuendiges Erlebnis in Dubai, um das Museum der Zukunft mit einem privaten lizenzierten 5-Sterne-Guide zu erkunden, mit Zugang ohne Warteschlange.",
+  "fullDescription": "Diese private zweistuendige Tour erkundet das Museum der Zukunft in Dubai mit einem privaten lizenzierten 5-Sterne-Guide, fliessend in der Sprache Ihrer Wahl. Tickets ohne Warteschlange ersparen Ihnen das Warten am Museumseingang.\n\nIhr Guide liefert fachkundige Kommentare zu Dubais Vision fuer Technologie, Nachhaltigkeit und menschliches Wohlbefinden, mit Zugang zu allen permanenten Etagen und immersiven Ausstellungen im Museum.\n\nDurchgefuehrt von Rosotravel - United States Tours & Experiences, kann diese Tour kostenlos storniert werden und deckt insgesamt fuenf Punkte ab. Der Preis von 552 USD gilt fuer zwei Reisende zusammen statt 467 USD je Person.",
+  "highlights": [
+   "Das Museum der Zukunft mit einem privaten lizenzierten 5-Sterne-Guide erkunden",
+   "Tickets ohne Warteschlange",
+   "Fachkundige Kommentare zu Dubais technologischer Vision",
+   "Zugang zu allen permanenten Etagen des Museums",
+   "Immersive Ausstellungen inklusive"
+  ],
+  "included": [
+   "Private Tour durch das Museum der Zukunft in Dubai",
+   "privater lizenzierter 5-Sterne-Guide, fliessend in der Sprache Ihrer Wahl",
+   "Tickets ohne Warteschlange fuer das Museum der Zukunft",
+   "fachkundige Kommentare zu Dubais Vision fuer Technologie, Nachhaltigkeit und menschliches Wohlbefinden",
+   "Zugang zu allen permanenten Etagen und immersiven Ausstellungen im Museum"
+  ],
+  "notIncluded": []
+ },
+ "dubai-parasailing-experience-with-jumeirah-palm": {
+  "title": "Dubai: Parasailing-Erlebnis mit Blick auf Jumeirah Palm",
+  "metaTitle": "Parasailing Dubai",
+  "metaDescription": "Eine halbstuendige Fahrt ab Dubai zur Palm Jumeirah fuer eine Parasailing-Session.",
+  "shortDescription": "Eine halbstuendige Fahrt ab Dubai zur Palm Jumeirah fuer eine Parasailing-Session mit Blick auf den Burj Al Arab und das Atlantis.",
+  "fullDescription": "Diese Parasailing-Session an der Palm Jumeirah laesst Sie den Nervenkitzel des Fliegens hoch ueber dem Wasser nahe dem Burj Al Arab spueren. Die Session dauert insgesamt dreissig Minuten und bietet optionale Ausblicke auf den Burj Al Arab, auf Jumeirah Palm, auf das Dubai Eye und auf das Atlantis.\n\nDurchgefuehrt von Friend Aqua waterSports, deckt dieses Erlebnis nicht das Parken oder das 360-Grad-Video ab, die gegen einen Aufpreis optional verfuegbar sind.",
+  "highlights": [
+   "Den Nervenkitzel des Parasailing ueber dem Wasser nahe dem Burj Al Arab spueren",
+   "Blick auf den Burj Al Arab",
+   "Blick auf Jumeirah Palm",
+   "Blick auf das Dubai Eye",
+   "Blick auf das Atlantis"
+  ],
+  "included": [
+   "Parasailing-Session mit optionalen Ausblicken",
+   "Blick auf den Burj Al Arab",
+   "Blick auf Jumeirah Palm",
+   "Blick auf das Dubai Eye",
+   "Blick auf das Atlantis"
+  ],
+  "notIncluded": [
+   "Parken",
+   "360-Grad-Video gegen Aufpreis verfuegbar"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
