@@ -144637,6 +144637,244 @@ export const FR_TOURS: Record<string, TourT> = {
    "balade a dos de chameau"
   ]
  },
+ "dubai-moderate-hiking-trip-to-jebel-jais-hidden": {
+  "title": "Dubai : randonnee moderee vers le sentier de l’oasis cachee de Jebel Jais",
+  "metaTitle": "Randonnee Jebel Jais oasis cachee",
+  "metaDescription": "Une journee complete depuis Dubai visitant Jabal Jais pour une randonnee.",
+  "shortDescription": "Une journee complete depuis Dubai visitant Jabal Jais pour une randonnee, avec guide de randonnee expert.",
+  "fullDescription": "Cette excursion vous fait rejoindre un voyage de randonnee depuis Dubai vers Jebel Jais, a Ras Al Khaimah. A Jabal Jais, vous profitez d’une randonnee guidee.\n\nOpere par Atlas, cette excursion comprend la prise en charge et la depose, un guide de randonnee expert, et de l’eau en bouteille.",
+  "highlights": [
+   "Rejoindre un voyage de randonnee depuis Dubai vers Jebel Jais, a Ras Al Khaimah"
+  ],
+  "included": [
+   "Prise en charge et depose",
+   "guide de randonnee expert",
+   "eau en bouteille"
+  ],
+  "notIncluded": [
+   "Dejeuner"
+  ]
+ },
+ "dubai-marina-dhow-dinner-cruise-with-live": {
+  "title": "Dubai : croisiere diner en dhow sur la Marina avec divertissement live",
+  "metaTitle": "Croisiere dhow Marina divertissement",
+  "metaDescription": "Un trajet d’une heure et demie depuis Dubai visitant la Dubai Marina pour un diner et une croisiere en bateau.",
+  "shortDescription": "Un trajet d’une heure et demie depuis Dubai visitant la Dubai Marina pour un diner, une croisiere en bateau et un spectacle de danse.",
+  "fullDescription": "Cette croisiere vous fait profiter d’un delicieux diner buffet international a bord d’un dhow. A la Dubai Marina, vous appreciez un dessert, un diner, une croisiere en bateau, un spectacle de danse, des vues panoramiques en chemin, et un spectacle de danse traditionnelle.\n\nLe prix couvre la prise en charge et la depose depuis votre hotel ou l’emplacement selectionne (si cette option est choisie), un transfert en vehicule climatise (si cette option est choisie), un diner buffet international complet, et des boissons non alcoolisees et de l’eau. Un divertissement live (chanteur ou danseur) et des performances accompagnent la traversee, le long de l’itineraire JBR, Blue Water Island, Dubai Harbour, Cayan Tower et Ain Dubai.\n\nOpere par Joy Goa, cette croisiere propose des boissons alcoolisees disponibles a l’achat.",
+  "highlights": [
+   "Profiter d’un delicieux diner buffet international a bord d’un dhow",
+   "Divertissement live avec chanteur ou danseur",
+   "Spectacle de danse traditionnelle",
+   "Itineraire panoramique le long de JBR, Blue Water Island et Ain Dubai",
+   "Vues panoramiques en chemin"
+  ],
+  "included": [
+   "Prise en charge et depose depuis votre hotel ou l’emplacement selectionne (si cette option est choisie)",
+   "transfert en vehicule climatise (si cette option est choisie)",
+   "diner buffet international complet",
+   "boissons non alcoolisees et eau",
+   "divertissement live (chanteur ou danseur)",
+   "performances",
+   "itineraire de navigation : JBR, Blue Water Island, Dubai Harbour, Cayan Tower et Ain Dubai",
+   "boissons alcoolisees (disponibles a l’achat)"
+  ],
+  "notIncluded": []
+ },
+ "dubai-red-dunes-desert-safari-quad-camel-bbq-optio": {
+  "title": "Dubai : safari des dunes rouges avec options quad, chameau et barbecue",
+  "metaTitle": "Dunes rouges Dubai, quad et chameau",
+  "metaDescription": "Une demi-journee depuis Dubai visitant le desert de Lahbab, avec dune bashing en 4x4 a travers les dunes rouges.",
+  "shortDescription": "Une demi-journee depuis Dubai visitant le desert de Lahbab, avec dune bashing en 4x4, sandboard et options de quad et balade a dos de chameau.",
+  "fullDescription": "Ce safari vous fait vivre un dune bashing palpitant en 4x4 a travers les dunes rouges de Lahbab. Il commence avec un trajet d’une heure, puis atteint le desert de Lahbab pour une heure, suivi d’un trajet de 20 minutes, et d’une seconde phase de trois heures dans le desert de Lahbab.\n\nLe prix couvre la prise en charge et la depose depuis Dubai ou Sharjah, le transport de safari en 4x4 climatise, un chauffeur-guide de safari professionnel, et l’experience des dunes rouges de Lahbab. Environ 35 minutes de dune bashing, un arret photo en hauteur sur les dunes rouges, du sandboard, et de l’eau en bouteille completent le safari. Une balade a dos de chameau et un quad en conduite libre de 30 minutes sont disponibles selon l’option choisie, avec briefing de securite et equipement si inclus, ainsi qu’une experience de lever du soleil si l’option Safari au lever du soleil est selectionnee.\n\nOpere par Odyssey DMC, ce safari compte quatre arrets en tout.",
+  "highlights": [
+   "Vivre un dune bashing palpitant en 4x4 a travers les dunes rouges de Lahbab",
+   "Environ 35 minutes de dune bashing",
+   "Arret photo en hauteur sur les dunes rouges",
+   "Sandboard inclus",
+   "Options de balade a dos de chameau et de quad en conduite libre"
+  ],
+  "included": [
+   "Prise en charge et depose depuis Dubai ou Sharjah",
+   "transport de safari en 4x4 climatise",
+   "chauffeur-guide de safari professionnel",
+   "experience des dunes rouges de Lahbab",
+   "environ 35 minutes de dune bashing",
+   "arret photo en hauteur sur les dunes rouges",
+   "sandboard",
+   "eau en bouteille pendant le tour",
+   "balade a dos de chameau selon l’option choisie",
+   "quad en conduite libre de 30 minutes selon l’option choisie",
+   "briefing de securite et equipement pour le quad si inclus",
+   "experience de lever du soleil si le Safari au lever du soleil est selectionne"
+  ],
+  "notIncluded": [
+   "Repas pour les options du matin et du lever du soleil",
+   "quad sauf si inclus dans l’option choisie",
+   "balade a dos de chameau sauf si incluse dans l’option choisie",
+   "diner barbecue et activites de camp pour les options du matin et du lever du soleil",
+   "transport prive sauf si l’option privee est choisie",
+   "activites ou surclassements supplementaires non inclus dans le forfait choisi",
+   "depenses personnelles",
+   "pourboires"
+  ]
+ },
+ "abu-dhabi-al-forsan-multi-activity-sports-pass": {
+  "title": "Abu Dhabi : pass multi-activites sportives Al Forsan",
+  "metaTitle": "Pass sportif Al Forsan Abu Dhabi",
+  "metaDescription": "Une experience de trois heures a Abu Dhabi pour sentir le rythme d’un defi sportif d’une demi-journee.",
+  "shortDescription": "Une experience de trois heures a Abu Dhabi pour sentir le rythme d’un defi sportif d’une demi-journee, avec karting, tir a l’arc et tir.",
+  "fullDescription": "Cette experience vous fait sentir le rythme d’un defi sportif d’une demi-journee. Le prix couvre 15 minutes de karting avec gants et cagoule, le tir a l’arc avec 15 fleches, 30 minutes de wakeboard ou l’acces a la piscine, et le tir avec 20 coups (pistolet 9 mm ou carabine a air).\n\nOpere par Al Forsan, cette experience peut etre annulee gratuitement et couvre cinq elements au total, incluant un bon de 50 AED pour la nourriture et les boissons.",
+  "highlights": [
+   "Sentir le rythme d’un defi sportif d’une demi-journee"
+  ],
+  "included": [
+   "15 minutes de karting avec gants et cagoule",
+   "tir a l’arc avec 15 fleches",
+   "30 minutes de wakeboard ou acces a la piscine",
+   "tir avec 20 coups (pistolet 9 mm ou carabine a air)",
+   "bon de 50 AED pour la nourriture et les boissons"
+  ],
+  "notIncluded": [
+   "Transport personnel vers et depuis le complexe",
+   "tout achat au-dela du bon de nourriture et boissons inclus",
+   "assurance accident personnel"
+  ]
+ },
+ "from-dubai-fujairah-shared-tour-with-driverguide": {
+  "title": "Depuis Dubai : tour partage vers Fujairah avec chauffeur-guide",
+  "metaTitle": "Fujairah depuis Dubai, tour partage",
+  "metaDescription": "Une demi-journee depuis Dubai visitant le musee de Fujairah, le fort de Fujairah et le Village du Patrimoine de Fujairah.",
+  "shortDescription": "Une demi-journee depuis Dubai visitant le musee de Fujairah, le fort de Fujairah, le Village du Patrimoine de Fujairah et la Grande Mosquee Sheikh Zayed de Fujairah.",
+  "fullDescription": "Ce tour vous fait decouvrir la beaute naturelle et le riche patrimoine de Fujairah. Il commence au musee de Fujairah pour une heure, puis continue vers le fort de Fujairah pour une heure, le Village du Patrimoine de Fujairah pour une heure, et la Grande Mosquee Sheikh Zayed de Fujairah pour une heure.\n\nSelon les options selectionnees, un transport prive est disponible, avec prise en charge possible depuis Abu Dhabi et Ras Al Khaimah. Un tour de la ville de Khorfakkan peut etre inclus, avec des arrets photo a la zone de repos d’Al Subub, la cascade, l’amphitheatre, la plage, le village du patrimoine et le cafe V. Un tour de la ville de Kalba peut egalement etre propose, incluant le jardin suspendu, la plage, la corniche, le souk du patrimoine, le lac Al Hefaiyah et le zoo, ainsi que le parc de mangroves selon l’option choisie. La vallee de Blossom et un pass d’une journee de 10 heures pour visiter Fujairah, Khorfakkan et Kalba sont egalement disponibles en option (billets d’attraction non inclus).\n\nOpere par TravelExpert, ce tour compte quatre arrets en tout.",
+  "highlights": [
+   "Decouvrir la beaute naturelle et le riche patrimoine de Fujairah lors d’un tour prive",
+   "Tour optionnel de la ville de Khorfakkan avec cascade et plage",
+   "Tour optionnel de la ville de Kalba avec jardin suspendu et zoo",
+   "Visite de la Grande Mosquee Sheikh Zayed de Fujairah",
+   "Pass d’une journee de 10 heures disponible en option"
+  ],
+  "included": [
+   "Transport prive disponible (si cette option est choisie)",
+   "prise en charge depuis Abu Dhabi et Ras Al Khaimah (si cette option est choisie)",
+   "tour de Khorfakkan (si cette option est choisie) avec arrets photo",
+   "tour de Kalba (si cette option est choisie) avec jardin suspendu, plage, corniche, souk du patrimoine, lac Al Hefaiyah et zoo si choisi, parc de mangroves si choisi",
+   "vallee de Blossom (si cette option est choisie)",
+   "pass d’une journee (si cette option est choisie) de 10 heures pour visiter Fujairah, Khorfakkan et Kalba (billets d’attraction non inclus)"
+  ],
+  "notIncluded": []
+ },
+ "dubai-self-drive-boat-tour-in-creek-harbour-5": {
+  "title": "Dubai : tour en bateau en conduite libre dans le Creek Harbour, 5 personnes",
+  "metaTitle": "Bateau conduite libre Creek Harbour",
+  "metaDescription": "Un trajet d’une heure depuis Dubai visitant le Dubai Creek Harbour pour une croisiere en bateau.",
+  "shortDescription": "Un trajet d’une heure depuis Dubai visitant le Dubai Creek Harbour pour une croisiere en bateau que vous conduisez vous-meme, pour cinq personnes.",
+  "fullDescription": "Cette excursion vous fait sentir le frisson de conduire votre propre bateau a travers le Dubai Creek Harbour. L’arret unique, le Dubai Creek Harbour, vous offre environ une heure de croisiere en bateau.\n\nLe prix couvre la location du bateau en conduite libre, un briefing de securite, des gilets de sauvetage, et le carburant du bateau. Un systeme de musique a bord, une assistance sur site, et de l’eau potable sont egalement inclus.\n\nOpere par Supernova Yacht, cette excursion ne fournit pas de nourriture ni de boissons dans le forfait ; vous pouvez cependant apporter votre propre nourriture et des boissons non alcoolisees de l’exterieur.",
+  "highlights": [
+   "Sentir le frisson de conduire votre propre bateau a travers le Dubai Creek Harbour"
+  ],
+  "included": [
+   "Location du bateau en conduite libre",
+   "briefing de securite",
+   "gilets de sauvetage",
+   "carburant du bateau",
+   "systeme de musique a bord",
+   "assistance sur site",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons non fournies dans le forfait, vous pouvez apporter votre propre nourriture et boissons non alcoolisees de l’exterieur"
+  ]
+ },
+ "love-lake-flamingo-lake-experience-dubai": {
+  "title": "Experience du Lac de l’Amour et du Lac aux Flamants a Dubai",
+  "metaTitle": "Lac de l’Amour et Flamants Dubai",
+  "metaDescription": "Une demi-journee depuis Dubai visitant le lac Al Qudra, le Lac de l’Amour et le Lac aux Flamants.",
+  "shortDescription": "Une demi-journee depuis Dubai visitant le lac Al Qudra, le Lac de l’Amour et le Lac aux Flamants, avec chauffeur-guide professionnel.",
+  "fullDescription": "Cette excursion vous fait explorer les uniques Lac de l’Amour et Lac aux Flamants niches dans le desert d’Al Qudra. Elle commence au lac Al Qudra pour 45 minutes, puis continue vers le Lac de l’Amour, l’arret le plus long avec environ une heure sur place, suivi du Lac aux Flamants pour une heure.\n\nLe prix couvre la prise en charge et la depose, un chauffeur-guide professionnel, la visite du Lac aux Flamants, et la visite du Lac de l’Amour, avec de l’eau en bouteille.\n\nOpere par Desert Rose Tourism LLC L.L.C Dubai Branch, cette excursion compte trois arrets en tout.",
+  "highlights": [
+   "Explorer les uniques Lac de l’Amour et Lac aux Flamants niches dans le desert d’Al Qudra"
+  ],
+  "included": [
+   "Prise en charge et depose",
+   "chauffeur-guide professionnel",
+   "visite du Lac aux Flamants",
+   "visite du Lac de l’Amour",
+   "eau en bouteille"
+  ],
+  "notIncluded": [
+   "Tout ce qui n’est pas mentionne dans les inclusions est exclu"
+  ]
+ },
+ "luxury-dubai-yacht-cruise-palm-jumeirah-to-burj-al": {
+  "title": "Croisiere de luxe en yacht a Dubai : de Palm Jumeirah au Burj Al Arab",
+  "metaTitle": "Croisiere yacht Palm Jumeirah Burj Al Arab",
+  "metaDescription": "Une experience de deux heures a Dubai pour sentir la brise sur votre visage en naviguant devant le Burj Al Arab.",
+  "shortDescription": "Une experience de deux heures a Dubai pour sentir la brise sur votre visage en naviguant devant le Burj Al Arab, avec vues panoramiques sur Palm Jumeirah. Operee par 360 Adventures Tourism LLC.",
+  "fullDescription": "Cette croisiere de luxe vous fait sentir la brise sur votre visage en naviguant devant le Burj Al Arab emblematique. Le prix couvre la croisiere en yacht de luxe, des vues panoramiques sur Palm Jumeirah, une croisiere devant l’Ile du Sheikh, et l’admiration du Burj Al Arab.\n\nDes rafraichissements offerts et un equipage professionnel completent l’experience.\n\nOpere par 360 Adventures Tourism LLC, cette experience peut etre annulee gratuitement et couvre six elements au total. Le prix de 669 $ est fixe pour deux voyageurs ensemble plutot que 600 $ chacun.",
+  "highlights": [
+   "Sentir la brise sur votre visage en naviguant devant le Burj Al Arab emblematique",
+   "Vues panoramiques sur Palm Jumeirah",
+   "Croisiere devant l’Ile du Sheikh",
+   "Rafraichissements offerts",
+   "Equipage professionnel"
+  ],
+  "included": [
+   "Croisiere en yacht de luxe",
+   "vues panoramiques sur Palm Jumeirah",
+   "croisiere devant l’Ile du Sheikh",
+   "admiration du Burj Al Arab",
+   "rafraichissements offerts",
+   "equipage professionnel"
+  ],
+  "notIncluded": [
+   "Entree a l’Ile du Sheikh",
+   "repas gastronomiques ou barbecue (optionnel)"
+  ]
+ },
+ "dubai-the-storm-coaster": {
+  "title": "Dubai : The Storm Coaster",
+  "metaTitle": "The Storm Coaster Dubai",
+  "metaDescription": "Une courte experience a Dubai pour sentir la montee d’adrenaline d’un grand huit interieur sur theme de tempete.",
+  "shortDescription": "Une courte experience de 0,0333333 heure a Dubai pour sentir la montee d’adrenaline d’un grand huit interieur sur theme de tempete.",
+  "fullDescription": "Cette experience de 0,0333333 heure vous fait sentir la montee d’adrenaline d’un grand huit interieur sur theme de tempete. Le prix couvre le billet d’entree.\n\nCette experience peut etre annulee gratuitement et couvre un element au total. Elle ne couvre pas les photos ni le transport.",
+  "highlights": [
+   "Sentir la montee d’adrenaline d’un grand huit interieur sur theme de tempete"
+  ],
+  "included": [
+   "Billet d’entree"
+  ],
+  "notIncluded": [
+   "Photos",
+   "transport"
+  ]
+ },
+ "dubai-private-city-tour-with-multilingual-guide-pi": {
+  "title": "Dubai : tour prive de la ville avec guide multilingue et prise en charge",
+  "metaTitle": "Tour prive Dubai multilingue",
+  "metaDescription": "Une demi-journee depuis Dubai visitant la ville pour des vues panoramiques en chemin.",
+  "shortDescription": "Une demi-journee depuis Dubai visitant la ville pour des vues panoramiques en chemin, avec guide multilingue et vehicule 4x4 prive.",
+  "fullDescription": "Ce tour vous fait decouvrir les monuments emblematiques de Dubai lors d’un tour prive pour 2 a 6 invites. A Dubai, vous profitez de vues panoramiques en chemin pendant environ cinq heures.\n\nLe prix couvre le tour prive pour 2 a 6 invites, un vehicule 4x4 prive exclusivement pour votre groupe, un guide multilingue en anglais, russe, francais ou arabe, et une experience touristique personnalisee. La prise en charge et la depose a l’hotel a Dubai, des arrets photo aux monuments celebres de Dubai, et l’exploration du Dubai moderne et traditionnel completent le tour.\n\nOpere par ARABIAN DESTINATION TOURISM L.L.C, ce tour facture le meme prix de 507 $ pour un ou deux voyageurs, car il est tarife par groupe.",
+  "highlights": [
+   "Decouvrir les monuments emblematiques de Dubai lors d’un tour prive pour 2 a 6 invites",
+   "Guide multilingue en anglais, russe, francais ou arabe",
+   "Vehicule 4x4 prive exclusivement pour votre groupe",
+   "Arrets photo aux monuments celebres de Dubai",
+   "Exploration du Dubai moderne et traditionnel"
+  ],
+  "included": [
+   "Tour prive pour 2 a 6 invites",
+   "vehicule 4x4 prive exclusivement pour votre groupe",
+   "guide multilingue en anglais, russe, francais ou arabe",
+   "experience touristique personnalisee",
+   "prise en charge et depose a l’hotel a Dubai",
+   "arrets photo aux monuments celebres de Dubai",
+   "exploration du Dubai moderne et traditionnel"
+  ],
+  "notIncluded": [
+   "Repas",
+   "frais d’entree aux attractions"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
