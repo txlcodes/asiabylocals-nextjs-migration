@@ -144054,6 +144054,191 @@ export const DE_TOURS: Record<string, TourT> = {
    "Essen und Getraenke"
   ]
  },
+ "dubai-easy-hiking-trail-at-al-rabi-and-khorfakkan": {
+  "title": "Dubai: Leichte Wanderroute bei Al Rabi und Khorfakkan-Tour",
+  "metaTitle": "Wandern Al Rabi und Khorfakkan",
+  "metaDescription": "Ein ganzer Tag ab Dubai mit Besuch der Khorfakkan-Wasserfaelle und dem Al-Rafisah-Staudamm.",
+  "shortDescription": "Ein ganzer Tag ab Dubai mit Besuch der Khorfakkan-Wasserfaelle und dem Al-Rafisah-Staudamm, mit einer 4-km-Wanderung auf dem Al-Rabi-Berg.",
+  "fullDescription": "Dieser Ausflug beginnt bei den Khorfakkan-Wasserfaellen fuer 45 Minuten, dann geht es weiter zum Al-Rafisah-Staudamm, dem laengsten Stopp mit etwa einer Stunde vor Ort. Sie geniessen eine 4-km-Wanderung auf dem Al-Rabi-Berg mit atemberaubenden Ausblicken und uppiger Gruenflaeche.\n\nDurchgefuehrt von Atlas, beinhaltet dieser Ausflug Abholung und Absetzen, einen fachkundigen Wanderguide und Flaschenwasser.",
+  "highlights": [
+   "Eine 4-km-Wanderung auf dem Al-Rabi-Berg mit atemberaubenden Ausblicken und uppiger Gruenflaeche geniessen"
+  ],
+  "included": [
+   "Abholung und Absetzen",
+   "fachkundiger Wanderguide",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Mittag- oder Abendessen"
+  ]
+ },
+ "dubai-jet-ski-ride-from-dubai-harbour": {
+  "title": "Dubai: Jetski-Fahrt ab dem Dubai Harbour",
+  "metaTitle": "Jetski Dubai Harbour",
+  "metaDescription": "Ein dreissigminuetiges Erlebnis in Dubai, um den Nervenkitzel eines leistungsstarken Jetskis auf dem Wasser der Stadt zu spueren.",
+  "shortDescription": "Ein dreissigminuetiges Erlebnis in Dubai, um den Nervenkitzel eines leistungsstarken Jetskis auf dem Wasser der Stadt zu spueren, mit Fotos und Video inklusive.",
+  "fullDescription": "Dieses Erlebnis laesst Sie den Nervenkitzel eines leistungsstarken Jetskis auf dem Wasser von Dubai spueren. Der Preis umfasst eine 30-, 45- oder 60-minuetige Jetski-Fahrt, einen Buggy zum und vom Treffpunkt, Fotos und ein Video, sowie Flaschenwasser.\n\nDurchgefuehrt von Adventure Zone Dubai, kann dieses Erlebnis kostenlos storniert werden und deckt insgesamt sieben Punkte ab, einschliesslich Schwimmwesten, Sicherheitsbriefing und erfahrenen Instruktoren.",
+  "highlights": [
+   "Den Nervenkitzel eines leistungsstarken Jetskis auf dem Wasser von Dubai spueren"
+  ],
+  "included": [
+   "30-, 45- oder 60-minuetige Jetski-Fahrt",
+   "Buggy zum und vom Treffpunkt",
+   "Fotos und Video",
+   "Flaschenwasser",
+   "Schwimmwesten",
+   "Sicherheitsbriefing",
+   "erfahrene Instruktoren"
+  ],
+  "notIncluded": []
+ },
+ "dubai-marina-the-black-boats-60-min-private-tour": {
+  "title": "Dubai Marina: 60-minuetige private Tour mit den Black Boats",
+  "metaTitle": "Black Boats Dubai Marina",
+  "metaDescription": "Eine einstuendige Fahrt ab Dubai mit Besuch des Dubai Marina Yacht Club, Ain Dubai und der Jumeirah Beach Residence.",
+  "shortDescription": "Eine einstuendige Fahrt ab Dubai mit Besuch des Dubai Marina Yacht Club, Ain Dubai, der Jumeirah Beach Residence und Skydive Dubai.",
+  "fullDescription": "Diese private 60-minuetige Tour beginnt beim Dubai Marina Yacht Club fuer 10 Minuten, dann geht es weiter zu Ain Dubai fuer 10 Minuten, der Jumeirah Beach Residence fuer 10 Minuten, Skydive Dubai fuer 10 Minuten, und dem Atlantis Dubai fuer 5 Minuten.\n\nSie geniessen eine private 60-minuetige Kreuzfahrt in luxurioesen Ledersitzen an Bord preisgekroenter, brandneu gestalteter Boote. Ein Live-Kommentar von einem englisch- und arabischsprachigen Guide begleitet die Fahrt, mit Fotogelegenheiten.\n\nDurchgefuehrt von JO JO LEISURE YACHTS AND BOATS RENTAL LLC, umfasst diese Fahrt sechs Stopps insgesamt. Der Preis von 496 USD ist derselbe fuer einen oder zwei Reisende, da er pro Gruppe abgerechnet wird.",
+  "highlights": [
+   "Die glitzernde Skyline von Dubai von der Dubai Marina aus auf einer Speedboottour bestaunen",
+   "Preisgekroente, brandneu gestaltete Boote",
+   "Live-Kommentar in Englisch und Arabisch",
+   "Fotogelegenheiten waehrend der Fahrt",
+   "Kundensupport rund um die Uhr"
+  ],
+  "included": [
+   "Private 60-minuetige Sightseeing-Kreuzfahrt in luxurioesen Ledersitzen",
+   "brandneu gestaltete, preisgekroente Boote",
+   "Live-Kommentar von einem englisch- und arabischsprachigen Guide",
+   "Fotogelegenheiten",
+   "kostenlos gekuehltes Flaschenwasser",
+   "professionelle Sicherheits-Schwimmwesten",
+   "persoenlicher Service",
+   "Kundensupport rund um die Uhr",
+   "Premium-Abfahrtsort (Dubai Marina Yacht Club)",
+   "Polaroidfoto (auf Anfrage)"
+  ],
+  "notIncluded": []
+ },
+ "museums-and-mosques-tour-at-dubai-sharjah-fujairah": {
+  "title": "Museen- und Moscheen-Tour in Dubai, Sharjah und Fujairah",
+  "metaTitle": "Museen und Moscheen Emirate",
+  "metaDescription": "Ein ganztaegiges Erlebnis in Dubai, um Ihr Verstaendnis der Traditionen der VAE zu vertiefen.",
+  "shortDescription": "Ein ganztaegiges Erlebnis in Dubai, um Ihr Verstaendnis der Traditionen der VAE zu vertiefen, mit Besuch von Dubai, Sharjah und Fujairah.",
+  "fullDescription": "Diese Tour vertieft Ihr Verstaendnis der Traditionen der Vereinigten Arabischen Emirate. Der Preis umfasst Abholung und Absetzen am Hotel, einen professionellen lizenzierten Reiseleiter, ein sauberes klimatisiertes Fahrzeug, und den Besuch des Etihad-Museums in Dubai.\n\nDie Tour beinhaltet auch einen Fotostopp bei der Jumeirah-Moschee in Dubai, den Besuch des Museums fuer Islamische Zivilisation in Sharjah, den Besuch von Al Hisn in Sharjah, den Besuch der Scheich-Zayed-Moschee in Fujairah, und den Besuch der Festung Fujairah, mit unbegrenztem Wasser.\n\nDurchgefuehrt von OceanAir Travels, kann diese Tour kostenlos storniert werden und deckt insgesamt 10 Punkte ab. Der Preis von 852 USD ist derselbe fuer einen oder zwei Reisende, da er pro Gruppe abgerechnet wird.",
+  "highlights": [
+   "Ihr Verstaendnis der Traditionen der Vereinigten Arabischen Emirate vertiefen",
+   "Besuch des Etihad-Museums in Dubai",
+   "Besuch des Museums fuer Islamische Zivilisation in Sharjah",
+   "Besuch der Scheich-Zayed-Moschee in Fujairah",
+   "Besuch der Festung Fujairah"
+  ],
+  "included": [
+   "Abholung und Absetzen am Hotel",
+   "professioneller lizenzierter Reiseleiter",
+   "sauberes klimatisiertes Fahrzeug",
+   "Besuch des Etihad-Museums in Dubai",
+   "Fotostopp bei der Jumeirah-Moschee in Dubai",
+   "Besuch des Museums fuer Islamische Zivilisation in Sharjah",
+   "Besuch von Al Hisn in Sharjah",
+   "Besuch der Scheich-Zayed-Moschee in Fujairah",
+   "Besuch der Festung Fujairah",
+   "unbegrenztes Wasser"
+  ],
+  "notIncluded": [
+   "Sonstige Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "dubai-jet-ski-tour-burj-al-arab-photos-videos": {
+  "title": "Dubai: Jetski-Tour zum Burj Al Arab mit Fotos und Videos inklusive",
+  "metaTitle": "Jetski Burj Al Arab Fotos",
+  "metaDescription": "Ein ganztaegiges Erlebnis in Dubai, um den Rausch von Geschwindigkeit, Meer und Sonne zu geniessen.",
+  "shortDescription": "Ein ganztaegiges Erlebnis in Dubai, um den Rausch von Geschwindigkeit, Meer und Sonne zu geniessen, mit kostenlosen Fotos und Videos.",
+  "fullDescription": "Dieses Erlebnis laesst Sie den Rausch von Geschwindigkeit, Meer und Sonne bei einer Jetski-Tour geniessen. Der Preis umfasst den Zugang zur Tour, eine Schutzbrille am Schalter bei Bedarf, ein Handtuch nach der Tour verfuegbar, und kostenloses Wasser waehrend der gesamten Tour.\n\nSchwimmwesten werden gestellt, bevor Sie auf das Jetski steigen, mit Anweisungen und einem Sicherheitsbriefing, bevor Sie aufs Wasser gehen. Kostenlose Fotos und Video vervollstaendigen das Erlebnis.\n\nDurchgefuehrt von Searide Watersports Equipment Rental LLC, kann dieses Erlebnis kostenlos storniert werden und deckt insgesamt sieben Punkte ab. Der Preis von 213 USD ist derselbe fuer einen oder zwei Reisende, da er pro Gruppe abgerechnet wird.",
+  "highlights": [
+   "Den Rausch von Geschwindigkeit, Meer und Sonne geniessen"
+  ],
+  "included": [
+   "Zugang zur Jetski-Tour",
+   "Schutzbrille am Schalter bei Bedarf",
+   "Handtuch nach der Tour verfuegbar",
+   "kostenloses Wasser waehrend der gesamten Tour",
+   "Schwimmwesten vor der Jetski-Fahrt gestellt",
+   "Anweisungen und Sicherheitsbriefing vor dem Wasser",
+   "kostenlose Fotos und Video"
+  ],
+  "notIncluded": [
+   "Keine Abholung und kein Absetzen"
+  ]
+ },
+ "abu-dhabi-3-hour-layover-sightseeing-tour": {
+  "title": "Abu Dhabi: Dreistuendige Sightseeing-Tour fuer Zwischenstopp",
+  "metaTitle": "Zwischenstopp Abu Dhabi, 3-Stunden-Tour",
+  "metaDescription": "Ein dreistuendiges Erlebnis in Abu Dhabi, um mit Ihrem englischsprachigen Guide die Geschichte der Orte zu erfahren.",
+  "shortDescription": "Ein dreistuendiges Erlebnis in Abu Dhabi waehrend eines Zwischenstopps, um mit Ihrem englischsprachigen Guide die Geschichte der Orte zu erfahren.",
+  "fullDescription": "Dieses Erlebnis laesst Sie mit Ihrem englischsprachigen Guide die Geschichte der besuchten Orte waehrend Ihres Zwischenstopps in Abu Dhabi erfahren. Der Preis umfasst die Sightseeing-Tour fuer den Zwischenstopp.\n\nDurchgefuehrt von Emirates Tours & Safari, kann diese Tour kostenlos storniert werden und deckt insgesamt einen Punkt ab. Der Preis von 440 USD ist derselbe fuer einen oder zwei Reisende, da er pro Gruppe abgerechnet wird.",
+  "highlights": [
+   "Mit Ihrem englischsprachigen Guide die Geschichte der Orte erfahren"
+  ],
+  "included": [
+   "Sightseeing-Tour fuer den Zwischenstopp"
+  ],
+  "notIncluded": [
+   "Getraenke"
+  ]
+ },
+ "dubai-madame-tussauds-ticketprivate-gmc-yukon": {
+  "title": "Dubai: Madame-Tussauds-Ticket mit privatem GMC-Yukon-Transfer",
+  "metaTitle": "Madame Tussauds Dubai",
+  "metaDescription": "Ein halber Tag in Dubai, um das Madame-Tussauds-Museum mit einem bequemen privaten Transfer zu besuchen.",
+  "shortDescription": "Ein halber Tag in Dubai, um das Madame-Tussauds-Museum mit einem bequemen privaten Transfer im GMC Yukon zu besuchen.",
+  "fullDescription": "Dieses Erlebnis laesst Sie das Madame-Tussauds-Museum in Dubai mit einem bequemen privaten Transfer besuchen. Der Preis umfasst das Eintrittsticket fuer Madame Tussauds Dubai, einen privaten Transfer im GMC-Yukon-SUV, einen professionellen Chauffeur, und ein klimatisiertes Fahrzeug.\n\nAbholung und Absetzen erfolgen von Tuer zu Tuer, ab Ihrem Hotel oder Ihrer Residenz.\n\nDurchgefuehrt von HARBOR TOURISM LLC, kann dieses Erlebnis kostenlos storniert werden und deckt insgesamt sechs Punkte ab. Der Preis von 429 USD gilt fuer zwei Reisende zusammen statt 385 USD je Person.",
+  "highlights": [
+   "Das Madame-Tussauds-Museum in Dubai mit einem bequemen privaten Transfer besuchen"
+  ],
+  "included": [
+   "Eintrittsticket fuer Madame Tussauds Dubai",
+   "privater Transfer im GMC-Yukon-SUV",
+   "professioneller Chauffeur",
+   "klimatisiertes Fahrzeug",
+   "Abholung und Absetzen am Hotel oder der Residenz",
+   "Tuer-zu-Tuer-Transport"
+  ],
+  "notIncluded": []
+ },
+ "dubai-private-hatta-mountains-bab-al-shams-sunset": {
+  "title": "Dubai: Private Tour zu den Hatta-Bergen und Sonnenuntergang in Bab Al Shams",
+  "metaTitle": "Hatta und Bab Al Shams",
+  "metaDescription": "Ein ganzer Tag ab Dubai mit Besuch des Hatta-Staudamms, Hatta-Kajak und der Hatta Mountains Lodge.",
+  "shortDescription": "Ein ganzer Tag ab Dubai mit Besuch des Hatta-Staudamms, Hatta-Kajak und der Hatta Mountains Lodge, mit Sonnenuntergang in Bab Al Shams.",
+  "fullDescription": "Dieser private Ausflug laesst Sie der Stadt entfliehen, um die spektakulaeren Hatta-Berge zu entdecken. Er beginnt beim Hatta-Staudamm fuer 30 Minuten, dann geht es weiter zum Hatta-Kajak, dem laengsten Stopp mit etwa zwei Stunden vor Ort, gefolgt von der Hatta Mountains Lodge fuer 30 Minuten, und endet beim Infinity-Pool des Bab Al Shams Desert Hotel Resort fuer zwei Stunden.\n\nDer Preis umfasst private Abholung und Absetzen am Hotel in Dubai, ein privates klimatisiertes Fahrzeug, einen professionellen Fahrer, und die Besichtigung der Hatta-Berge. Sie geniessen landschaftliche Fotostopps, etwa zwei Stunden Erkundung und Wasseraktivitaeten in Hatta, und etwa 1,5 Stunden in Bab Al Shams mit einer Gelegenheit, den Sonnenuntergang zu beobachten.\n\nDurchgefuehrt von JGT TOURISM, umfasst dieses private Erlebnis exklusiv fuer Ihre Gruppe vier Stopps insgesamt. Der Preis von 519 USD ist derselbe fuer einen oder zwei Reisende, da er pro Gruppe abgerechnet wird.",
+  "highlights": [
+   "Der Stadt entfliehen und die spektakulaeren Hatta-Berge entdecken",
+   "Etwa zwei Stunden Erkundung und Wasseraktivitaeten in Hatta",
+   "Etwa 1,5 Stunden in Bab Al Shams",
+   "Gelegenheit, den Sonnenuntergang zu beobachten",
+   "Privates Erlebnis exklusiv fuer Ihre Gruppe"
+  ],
+  "included": [
+   "Private Abholung und Absetzen am Hotel in Dubai",
+   "privates klimatisiertes Fahrzeug",
+   "professioneller Fahrer",
+   "Besichtigung der Hatta-Berge",
+   "Besuch des Hatta-Staudamms",
+   "landschaftliche Fotostopps",
+   "etwa zwei Stunden Erkundung und Wasseraktivitaeten in Hatta",
+   "Besuch von Bab Al Shams",
+   "etwa 1,5 Stunden in Bab Al Shams",
+   "Gelegenheit, den Sonnenuntergang zu beobachten",
+   "privates Erlebnis exklusiv fuer Ihre Gruppe",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Tickets fuer Wasseraktivitaeten",
+   "Essen",
+   "Getraenke"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
