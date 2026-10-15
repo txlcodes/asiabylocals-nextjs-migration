@@ -120,6 +120,13 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'bandar-seri-begawan': { country: 'brunei', city: 'bandar-seri-begawan' },
   'thimphu': { country: 'bhutan', city: 'thimphu' },
   'paro': { country: 'bhutan', city: 'paro' },
+  // Central Asia / Caucasus launch, 2026-10-15. GYG location ids verified
+  // from the search page, not guessed: yerevan-l1406, almaty-city-l1414,
+  // tashkent-l1418, ulaanbaatar-l968.
+  'yerevan': { country: 'armenia', city: 'yerevan' },
+  'almaty': { country: 'kazakhstan', city: 'almaty' },
+  'tashkent': { country: 'uzbekistan', city: 'tashkent' },
+  'ulaanbaatar': { country: 'mongolia', city: 'ulaanbaatar' },
 };
 
 /**
