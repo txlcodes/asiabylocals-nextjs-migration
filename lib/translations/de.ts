@@ -143497,6 +143497,166 @@ export const DE_TOURS: Record<string, TourT> = {
    "der Transport wird vor Ort mit zusaetzlichen Kosten organisiert"
   ]
  },
+ "dubai-iconic-burj-khalifa-pre-wedding-photoshoot": {
+  "title": "Dubai: Ikonisches Burj-Khalifa-Pre-Wedding-Fotoshooting",
+  "metaTitle": "Pre-Wedding Burj Khalifa",
+  "metaDescription": "Eine zweistuendige Fahrt ab Dubai mit Besuch von Wings of Mexico, Burj Ceni und der Dubai Mall Park Bridge.",
+  "shortDescription": "Eine zweistuendige Fahrt ab Dubai mit Besuch von Wings of Mexico, Burj Ceni, der Dubai Mall Park Bridge und der Dandelion-Lichtskulptur.",
+  "fullDescription": "Dieses private Pre-Wedding-Fotoshooting findet an ikonischen Orten mit dem Burj Khalifa als Hintergrund statt. Die Route beginnt bei Wings of Mexico fuer 30 Minuten, dann Burj Ceni fuer 20 Minuten, gefolgt von der Dubai Mall Park Bridge fuer 20 Minuten, der Dandelion-Lichtskulptur fuer 30 Minuten, und schliesslich dem Burj Khalifa fuer 10 Minuten.\n\nDer Preis umfasst zwei Stunden Fotografie, Zugang zu exklusiven Burj-Khalifa-Aussichtspunkten, 30 bearbeitete Fotos in hoher Aufloesung und alle Originalbilder im Rohformat.\n\nDurchgefuehrt von Pre Wed Dubai, berechnet diese Fahrt denselben Preis von 196 USD fuer einen oder zwei Reisende, da sie pro Gruppe abgerechnet wird.",
+  "highlights": [
+   "Privates Pre-Wedding-Fotoshooting an ikonischen Orten mit dem Burj Khalifa als Hintergrund",
+   "Zugang zu exklusiven Burj-Khalifa-Aussichtspunkten",
+   "30 bearbeitete Fotos in hoher Aufloesung",
+   "Alle Originalbilder im Rohformat inklusive",
+   "Route durch fuenf ikonische Orte in Dubai"
+  ],
+  "included": [
+   "Zwei Stunden Fotografie",
+   "Zugang zu exklusiven Burj-Khalifa-Aussichtspunkten",
+   "30 bearbeitete Fotos in hoher Aufloesung",
+   "alle Originalbilder (Rohdateien)"
+  ],
+  "notIncluded": [
+   "Reisekosten",
+   "alle Eintrittsgebuehren, falls zutreffend"
+  ]
+ },
+ "dubai-private-dubai-flora-and-fauna-trip": {
+  "title": "Dubai: Private Dubai Flora- und Fauna-Tour",
+  "metaTitle": "Flora und Fauna Dubai",
+  "metaDescription": "Ein halber Tag ab Dubai mit Besuch des Dubai Butterfly Garden und des Miracle Garden.",
+  "shortDescription": "Ein halber Tag ab Dubai mit Besuch des Dubai Butterfly Garden und des Miracle Garden, mit privater Abholung.",
+  "fullDescription": "Diese private Tour kombiniert den Dubai Butterfly Garden, den laengsten Stopp mit etwa einer Stunde vor Ort, und den Miracle Garden. Im Butterfly Garden erkunden Sie Tausende bunter Schmetterlinge in einer immersiven Umgebung.\n\nDurchgefuehrt von Dubai Delights, beinhaltet diese Tour die private Abholung und Absetzen sowie den Eintritt zum Miracle Garden und zum Butterfly Garden.",
+  "highlights": [
+   "Den Butterfly Garden mit Tausenden bunter Schmetterlinge erkunden",
+   "Besuch des Miracle Garden",
+   "Private Abholung und Absetzen",
+   "Eintritt zu beiden Gaerten inklusive"
+  ],
+  "included": [
+   "Private Abholung und Absetzen",
+   "Eintritt zum Miracle Garden",
+   "Eintritt zum Butterfly Garden"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke",
+   "persoenliche Ausgaben",
+   "Reiseleiter"
+  ]
+ },
+ "dubai-creek-dhow-cruise-with-unlimited-freshly": {
+  "title": "Dhow-Kreuzfahrt auf dem Dubai Creek mit unbegrenzter frisch gebackener Pizza",
+  "metaTitle": "Dhow-Kreuzfahrt Dubai Creek",
+  "metaDescription": "Eine einstuendige Fahrt ab Dubai mit Besuch des Dubai Creek und Al Seef, mit unbegrenzter frisch gebackener Pizza.",
+  "shortDescription": "Eine einstuendige Fahrt ab Dubai mit Besuch des Dubai Creek und Al Seef, mit unbegrenzter frisch gebackener Pizza an Bord eines traditionellen arabischen Dhow.",
+  "fullDescription": "Diese einstuendige Kreuzfahrt auf dem Dubai Creek findet an Bord eines traditionellen arabischen Dhow statt, mit einer Stunde auf dem Wasser fuer die Sightseeing-Kreuzfahrt, dann einer Durchfahrt bei Al Seef.\n\nUnbegrenzte frisch gebackene Pizza, mit Fleisch- und vegetarischen Optionen, sowie unbegrenzte alkoholfreie Getraenke und Wasser werden serviert. Das Unterdeck ist klimatisiert, und Schwimmwesten sowie Toiletten sind an Bord verfuegbar.\n\nDurchgefuehrt von Tour Dubai, deckt diese Kreuzfahrt keine alkoholischen Getraenke ab.",
+  "highlights": [
+   "Eine einstuendige Kreuzfahrt auf dem Dubai Creek mit atemberaubenden Blicken auf ikonische Sehenswuerdigkeiten genieen",
+   "Unbegrenzte frisch gebackene Pizza mit Fleisch- und vegetarischen Optionen",
+   "Unbegrenzte alkoholfreie Getraenke und Wasser",
+   "Klimatisiertes Unterdeck",
+   "Schwimmwesten und Toiletten an Bord"
+  ],
+  "included": [
+   "Einstuendige Sightseeing-Kreuzfahrt auf dem Dubai Creek an Bord eines traditionellen arabischen Dhow",
+   "unbegrenzte frisch gebackene Pizza (Fleisch- und vegetarische Optionen verfuegbar)",
+   "unbegrenzte alkoholfreie Getraenke und Wasser",
+   "klimatisiertes Unterdeck",
+   "Schwimmwesten und Toiletten an Bord"
+  ],
+  "notIncluded": [
+   "Alkoholische Getraenke"
+  ]
+ },
+ "3-hrs-private-sailboat-tour-in-dubai-with-burj": {
+  "title": "3-stuendige private Segelbootstour in Dubai mit Blick auf den Burj Khalifa",
+  "metaTitle": "Privates Segelboot Dubai, Blick Burj Khalifa",
+  "metaDescription": "Eine dreistuendige Fahrt ab Dubai mit Besuch von Al Mina, einer Yacht und The World Dubai.",
+  "shortDescription": "Eine dreistuendige Fahrt ab Dubai mit Besuch von Al Mina, einer Yacht und The World Dubai, mit Ankern bei der Antarctica-Insel.",
+  "fullDescription": "Diese private dreistuendige Segelbootstour beginnt bei Al Mina fuer 15 Minuten, dann geht es weiter an Bord der Yacht fuer eine Stunde, bevor The World Dubai erreicht wird, der laengste Stopp mit etwa zwei Stunden vor Ort, und endet bei Port Rashid fuer 15 Minuten.\n\nEntspannende Musik begleitet die Fahrt, mit alkoholfreien Getraenken und Wasser, einem Kuehlschrank und Schnorchelmasken zur Verfuegung. Ein Paddleboard wird ebenfalls bereitgestellt, mit Ankern bei der Antarctica-Insel, um das Schwimmen zu geniessen.\n\nDurchgefuehrt von Bliss Yachting, berechnet diese Tour denselben Preis von 408 USD fuer einen oder zwei Reisende, da sie pro Gruppe abgerechnet wird.",
+  "highlights": [
+   "Zum Schwimmen bei der Antarctica-Insel anhalten",
+   "Entspannende Musik an Bord",
+   "Schnorchelmasken und Paddleboard bereitgestellt",
+   "Alkoholfreie Getraenke und Wasser verfuegbar",
+   "Ankern bei der Antarctica-Insel"
+  ],
+  "included": [
+   "Entspannende Musik",
+   "alkoholfreie Getraenke und Wasser",
+   "Kuehlschrank",
+   "Schnorchelmasken",
+   "Paddleboard",
+   "Ankern bei der Antarctica-Insel"
+  ],
+  "notIncluded": []
+ },
+ "experience-dubai-in-a-lamborghini": {
+  "title": "Dubai in einem Lamborghini erleben",
+  "metaTitle": "Lamborghini-Mietwagen Dubai",
+  "metaDescription": "Ein ganztaegiges Erlebnis in Dubai fuer eine Lamborghini-Vermietung ohne erforderliche Kaution.",
+  "shortDescription": "Ein ganztaegiges Erlebnis in Dubai fuer eine Lamborghini-Vermietung ohne erforderliche Kaution.",
+  "fullDescription": "Diese ganztaegige Vermietung laesst Sie Dubai in einem Lamborghini erleben, ohne erforderliche Kaution. Durchgefuehrt von GMZ RENTAL CAR, kann diese Vermietung kostenlos storniert werden.\n\nDer Preis von 2185 USD ist derselbe fuer einen oder zwei Reisende, da er pro Fahrzeug und nicht pro Person abgerechnet wird.",
+  "highlights": [
+   "Lamborghini-Vermietung ohne erforderliche Kaution"
+  ],
+  "included": [],
+  "notIncluded": []
+ },
+ "dubai-photography-tour": {
+  "title": "Fotograf in Dubai",
+  "metaTitle": "Bester Fotograf Dubai",
+  "metaDescription": "Ein einstuendiges Erlebnis in Dubai mit dem besten Fotografen der Stadt.",
+  "shortDescription": "Ein einstuendiges Erlebnis in Dubai mit dem besten Fotografen der Stadt, einschliesslich bearbeiteter Fotos und eines Reel-Videos.",
+  "fullDescription": "Diese einstuendige Session mit dem besten Fotografen von Dubai umfasst 30 bearbeitete Fotos, mehr als 100 Rohdateien und ein Reel-Video.\n\nDurchgefuehrt von Zest Photography Dubai, kann diese Session kostenlos storniert werden und deckt insgesamt einen Punkt ab. Der Preis von 779 USD ist derselbe fuer einen oder zwei Reisende, da er pro Gruppe abgerechnet wird.",
+  "highlights": [
+   "Der beste Fotograf von Dubai"
+  ],
+  "included": [
+   "30 bearbeitete Fotos, mehr als 100 Rohdateien und ein Reel-Video fuer eine einstuendige Session"
+  ],
+  "notIncluded": []
+ },
+ "dubai-snapshot-tour-with-abra-ride": {
+  "title": "Dubai-Schnappschuss-Tour mit Abra-Fahrt",
+  "metaTitle": "Fototour Dubai mit Abra",
+  "metaDescription": "Ein halber Tag in Dubai, um den Fotostopp am Zabeel-Palast und dem Museum der Zukunft zu geniessen.",
+  "shortDescription": "Ein halber Tag in Dubai, um den Fotostopp am Zabeel-Palast und dem Museum der Zukunft zu geniessen, mit einem englischsprachigen Fahrer-Guide.",
+  "fullDescription": "Diese halbtaegige Fototour laesst Sie den Fotostopp am Zabeel-Palast und dem Museum der Zukunft geniessen. Ein englischsprachiger Fahrer-Guide begleitet Sie die gesamte Fahrt.\n\nDurchgefuehrt von DMC Arabia Tourism LLC, kann diese Tour kostenlos storniert werden und deckt insgesamt zwei Punkte ab, mit Abholung am Hotel und Absetzen am Deira City Center.",
+  "highlights": [
+   "Den Fotostopp am Zabeel-Palast und dem Museum der Zukunft geniessen"
+  ],
+  "included": [
+   "Abholung am Hotel und Absetzen am Deira City Center",
+   "englischsprachiger Fahrer-Guide"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke",
+   "Eintrittsgebuehren",
+   "persoenliche Ausgaben"
+  ]
+ },
+ "dubai-private-day-trip-in-french": {
+  "title": "Dubai: Private Tagestour auf Franzoesisch",
+  "metaTitle": "Dubai auf Franzoesisch",
+  "metaDescription": "Ein ganzer Tag in Dubai mit einem leidenschaftlichen franzoesischsprachigen Guide, der seit 30 Jahren in Dubai lebt.",
+  "shortDescription": "Ein ganzer Tag in Dubai mit einem leidenschaftlichen franzoesischsprachigen Guide, der seit 30 Jahren in Dubai lebt, einschliesslich Parken und Wasser.",
+  "fullDescription": "Diese private ganztaegige Tour laesst Sie Dubai mit einem leidenschaftlichen franzoesischsprachigen Guide entdecken, der seit 30 Jahren in der Stadt lebt. Der Preis umfasst Abholung und Absetzen am Hotel, Wasser, den franzoesischsprachigen Guide, Parken und Maut.\n\nDurchgefuehrt von Les Emirats Autrement, kann diese Tour kostenlos storniert werden und deckt insgesamt fuenf Punkte ab. Der Preis von 319 USD gilt fuer zwei Reisende zusammen statt 305 USD je Person.",
+  "highlights": [
+   "Ein leidenschaftlicher franzoesischsprachiger Guide, der seit 30 Jahren in Dubai lebt"
+  ],
+  "included": [
+   "Abholung und Absetzen am Hotel",
+   "Wasser",
+   "franzoesischsprachiger Guide",
+   "Parken",
+   "Maut"
+  ],
+  "notIncluded": [
+   "Essen",
+   "Mittagessen"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

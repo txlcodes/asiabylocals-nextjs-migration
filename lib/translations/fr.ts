@@ -143498,6 +143498,166 @@ export const FR_TOURS: Record<string, TourT> = {
    "le transport sera organise sur place avec des frais supplementaires"
   ]
  },
+ "dubai-iconic-burj-khalifa-pre-wedding-photoshoot": {
+  "title": "Dubai : seance photo de pre-mariage emblematique au Burj Khalifa",
+  "metaTitle": "Pre-mariage Burj Khalifa",
+  "metaDescription": "Un trajet de deux heures depuis Dubai visitant Wings of Mexico, Burj Ceni et le pont du parc du Dubai Mall.",
+  "shortDescription": "Un trajet de deux heures depuis Dubai visitant Wings of Mexico, Burj Ceni, le pont du parc du Dubai Mall et la sculpture lumineuse Dandelion.",
+  "fullDescription": "Cette seance photo de pre-mariage privee se deroule dans des lieux emblematiques avec le Burj Khalifa en toile de fond. Le parcours commence a Wings of Mexico pour 30 minutes, puis Burj Ceni pour 20 minutes, suivi du pont du parc du Dubai Mall pour 20 minutes, de la sculpture lumineuse Dandelion pour 30 minutes, et enfin le Burj Khalifa pour 10 minutes.\n\nLe prix couvre deux heures de photographie, l’acces a des points de vue exclusifs sur le Burj Khalifa, 30 photos editees en haute resolution et toutes les photos originales au format brut.\n\nOpere par Pre Wed Dubai, ce trajet facture le meme prix de 196 $ pour un ou deux voyageurs, car il est tarife par groupe.",
+  "highlights": [
+   "Seance photo de pre-mariage privee dans des lieux emblematiques avec le Burj Khalifa en toile de fond",
+   "Acces a des points de vue exclusifs sur le Burj Khalifa",
+   "30 photos editees en haute resolution",
+   "Toutes les photos originales au format brut incluses",
+   "Parcours a travers cinq sites emblematiques de Dubai"
+  ],
+  "included": [
+   "Deux heures de photographie",
+   "acces a des points de vue exclusifs sur le Burj Khalifa",
+   "30 photos editees en haute resolution",
+   "toutes les photos originales (fichiers bruts)"
+  ],
+  "notIncluded": [
+   "Frais de deplacement",
+   "tous frais d’admission si applicable"
+  ]
+ },
+ "dubai-private-dubai-flora-and-fauna-trip": {
+  "title": "Dubai : excursion privee a travers la flore et la faune de Dubai",
+  "metaTitle": "Flore et faune de Dubai",
+  "metaDescription": "Une demi-journee depuis Dubai visitant le Jardin des papillons de Dubai et le Jardin des miracles.",
+  "shortDescription": "Une demi-journee depuis Dubai visitant le Jardin des papillons de Dubai et le Jardin des miracles, avec prise en charge privee.",
+  "fullDescription": "Cette excursion privee combine le Jardin des papillons de Dubai, l’arret le plus long avec environ une heure sur place, et le Jardin des miracles. Au jardin des papillons, vous explorez des milliers de papillons colores dans un environnement immersif.\n\nOperee par Dubai Delights, cette excursion comprend la prise en charge et la depose privees, ainsi que l’entree au Jardin des miracles et au Jardin des papillons.",
+  "highlights": [
+   "Explorer le Jardin des papillons avec des milliers de papillons colores",
+   "Visite du Jardin des miracles",
+   "Prise en charge et depose privees",
+   "Entree aux deux jardins incluse"
+  ],
+  "included": [
+   "Prise en charge et depose privees",
+   "entree au Jardin des miracles",
+   "entree au Jardin des papillons"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "depenses personnelles",
+   "guide touristique"
+  ]
+ },
+ "dubai-creek-dhow-cruise-with-unlimited-freshly": {
+  "title": "Croisiere en dhow sur la crique de Dubai avec pizza fraiche a volonte",
+  "metaTitle": "Croisiere dhow crique de Dubai",
+  "metaDescription": "Un trajet d’une heure depuis Dubai visitant la crique de Dubai et Al Seef, avec pizza fraiche a volonte.",
+  "shortDescription": "Un trajet d’une heure depuis Dubai visitant la crique de Dubai et Al Seef, avec pizza fraiche a volonte sur un dhow arabe traditionnel.",
+  "fullDescription": "Cette croisiere d’une heure sur la crique de Dubai se deroule a bord d’un dhow arabe traditionnel, avec une heure sur l’eau pour la croisiere touristique, puis un passage par Al Seef.\n\nDe la pizza fraiche a volonte, avec options de viande et vegetariennes, ainsi que des boissons non alcoolisees et de l’eau a volonte sont servies. Le pont inferieur est climatise, et des gilets de sauvetage ainsi que des toilettes sont disponibles a bord.\n\nOpere par Tour Dubai, cette croisiere ne couvre pas les boissons alcoolisees.",
+  "highlights": [
+   "Profiter d’une croisiere d’une heure sur la crique de Dubai avec de superbes vues sur des monuments emblematiques",
+   "Pizza fraiche a volonte avec options de viande et vegetariennes",
+   "Boissons non alcoolisees et eau a volonte",
+   "Pont inferieur climatise",
+   "Gilets de sauvetage et toilettes a bord"
+  ],
+  "included": [
+   "Croisiere touristique d’une heure sur la crique de Dubai a bord d’un dhow arabe traditionnel",
+   "pizza fraiche a volonte (options de viande et vegetariennes disponibles)",
+   "boissons non alcoolisees et eau a volonte",
+   "pont inferieur climatise",
+   "gilets de sauvetage et toilettes a bord"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisees"
+  ]
+ },
+ "3-hrs-private-sailboat-tour-in-dubai-with-burj": {
+  "title": "Tour prive en voilier de 3 heures a Dubai avec vue sur le Burj Khalifa",
+  "metaTitle": "Voilier prive Dubai, vue Burj Khalifa",
+  "metaDescription": "Un trajet de trois heures depuis Dubai visitant Al Mina, un yacht et The World Dubai.",
+  "shortDescription": "Un trajet de trois heures depuis Dubai visitant Al Mina, un yacht et The World Dubai, avec ancrage pres de l’ile Antarctica.",
+  "fullDescription": "Ce tour prive en voilier de trois heures part d’Al Mina pour 15 minutes, puis continue a bord du yacht pour une heure, avant d’atteindre The World Dubai, l’arret le plus long avec environ deux heures sur place, et termine a Port Rashid pour 15 minutes.\n\nDe la musique relaxante accompagne la traversee, avec des boissons non alcoolisees et de l’eau, un refrigerateur et des masques de plongee avec tuba a disposition. Une planche a pagaie est egalement fournie, avec un ancrage pres de l’ile Antarctica pour profiter de la baignade.\n\nOpere par Bliss Yachting, ce tour facture le meme prix de 408 $ pour un ou deux voyageurs, car il est tarife par groupe.",
+  "highlights": [
+   "S’arreter pour nager pres de l’ile Antarctica",
+   "Musique relaxante a bord",
+   "Masques de plongee avec tuba et planche a pagaie fournis",
+   "Boissons non alcoolisees et eau a disposition",
+   "Ancrage pres de l’ile Antarctica"
+  ],
+  "included": [
+   "Musique relaxante",
+   "boissons non alcoolisees et eau",
+   "refrigerateur",
+   "masques de plongee avec tuba",
+   "planche a pagaie",
+   "ancrage pres de l’ile Antarctica"
+  ],
+  "notIncluded": []
+ },
+ "experience-dubai-in-a-lamborghini": {
+  "title": "Vivre Dubai au volant d’une Lamborghini",
+  "metaTitle": "Location Lamborghini Dubai",
+  "metaDescription": "Une experience d’une journee complete a Dubai pour une location de Lamborghini sans depot requis.",
+  "shortDescription": "Une experience d’une journee complete a Dubai pour une location de Lamborghini sans depot requis.",
+  "fullDescription": "Cette location d’une journee complete vous permet de vivre Dubai au volant d’une Lamborghini, sans depot requis. Operee par GMZ RENTAL CAR, cette location peut etre annulee gratuitement.\n\nLe prix de 2185 $ est le meme pour un ou deux voyageurs, car il est tarife par vehicule et non par personne.",
+  "highlights": [
+   "Location de Lamborghini sans depot requis"
+  ],
+  "included": [],
+  "notIncluded": []
+ },
+ "dubai-photography-tour": {
+  "title": "Photographe a Dubai",
+  "metaTitle": "Meilleur photographe Dubai",
+  "metaDescription": "Une experience d’une heure a Dubai avec le meilleur photographe de la ville.",
+  "shortDescription": "Une experience d’une heure a Dubai avec le meilleur photographe de la ville, incluant photos editees et video reel.",
+  "fullDescription": "Cette session d’une heure avec le meilleur photographe de Dubai comprend 30 photos editees, plus de 100 fichiers bruts et une video reel.\n\nOperee par Zest Photography Dubai, cette session peut etre annulee gratuitement et couvre un element au total. Le prix de 779 $ est le meme pour un ou deux voyageurs, car il est tarife par groupe.",
+  "highlights": [
+   "Le meilleur photographe de Dubai"
+  ],
+  "included": [
+   "30 photos editees, plus de 100 fichiers bruts et une video reel pour une session d’une heure"
+  ],
+  "notIncluded": []
+ },
+ "dubai-snapshot-tour-with-abra-ride": {
+  "title": "Tour photo de Dubai avec balade en abra",
+  "metaTitle": "Tour photo Dubai avec abra",
+  "metaDescription": "Une demi-journee a Dubai pour profiter de l’arret photo au Palais Zabeel et au Musee du Futur.",
+  "shortDescription": "Une demi-journee a Dubai pour profiter de l’arret photo au Palais Zabeel et au Musee du Futur, avec un chauffeur-guide anglophone.",
+  "fullDescription": "Ce tour photo d’une demi-journee vous fait profiter de l’arret photo au Palais Zabeel et au Musee du Futur. Un chauffeur-guide anglophone vous accompagne tout au long du trajet.\n\nOpere par DMC Arabia Tourism LLC, ce tour peut etre annule gratuitement et couvre deux elements au total, avec prise en charge a l’hotel et depose au Deira City Center.",
+  "highlights": [
+   "Profiter de l’arret photo au Palais Zabeel et au Musee du Futur"
+  ],
+  "included": [
+   "Prise en charge a l’hotel et depose au Deira City Center",
+   "chauffeur-guide anglophone"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "frais d’entree",
+   "depenses personnelles"
+  ]
+ },
+ "dubai-private-day-trip-in-french": {
+  "title": "Dubai : excursion privee d’une journee en francais",
+  "metaTitle": "Dubai en francais",
+  "metaDescription": "Une journee complete a Dubai avec un guide passionne parlant francais, installe a Dubai depuis 30 ans.",
+  "shortDescription": "Une journee complete a Dubai avec un guide passionne parlant francais, installe a Dubai depuis 30 ans, incluant parking et eau.",
+  "fullDescription": "Cette excursion privee d’une journee complete vous fait decouvrir Dubai avec un guide passionne parlant francais, installe dans la ville depuis 30 ans. Le prix couvre la prise en charge et la depose a l’hotel, de l’eau, le guide francophone, le parking et les peages.\n\nOperee par Les Emirats Autrement, cette excursion peut etre annulee gratuitement et couvre cinq elements au total. Le prix de 319 $ est fixe pour deux voyageurs ensemble plutot que 305 $ chacun.",
+  "highlights": [
+   "Un guide passionne parlant francais, installe a Dubai depuis 30 ans"
+  ],
+  "included": [
+   "Prise en charge et depose a l’hotel",
+   "eau",
+   "guide francophone",
+   "parking",
+   "peage"
+  ],
+  "notIncluded": [
+   "Nourriture",
+   "dejeuner"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
