@@ -143849,6 +143849,212 @@ export const FR_TOURS: Record<string, TourT> = {
    "pourboires (non obligatoires)"
   ]
  },
+ "dubai-desert-safari-camel-riding-sandboarding-bbq": {
+  "title": "Dubai : safari dans le desert avec balade a dos de chameau, sandboard et diner barbecue",
+  "metaTitle": "Safari desert Dubai, chameau et sandboard",
+  "metaDescription": "Une experience d’une journee complete a Dubai pour sentir le frisson du quad a travers les dunes de sable.",
+  "shortDescription": "Une experience d’une journee complete a Dubai pour sentir le frisson du quad a travers les dunes de sable, avec balade a dos de chameau et diner barbecue.",
+  "fullDescription": "Cette experience d’une journee complete a Dubai vous fait sentir le frisson du quad a travers les dunes de sable. Le prix couvre la prise en charge et la depose depuis votre hotel ou l’emplacement selectionne, le transport en vehicule 4x4 climatise, un chauffeur anglophone, et le dune bashing.\n\nUne option de quad est disponible, ainsi qu’une session de sandboard et une courte balade a dos de chameau. Du the, du cafe et des boissons non alcoolisees a volonte sont servis, suivis d’un diner buffet barbecue avec options vegetariennes et non vegetariennes.\n\nOpere par Almari Group, cette experience peut etre annulee gratuitement et couvre 12 elements au total, incluant un tatouage au henne, du chicha en libre-service dans une zone designee, et des spectacles de tanoura, de feu, de danse du ventre et de danse khaleeji.",
+  "highlights": [
+   "Sentir le frisson du quad a travers les dunes de sable",
+   "Dune bashing en 4x4",
+   "Courte balade a dos de chameau et sandboard",
+   "Diner buffet barbecue avec options vegetariennes et non vegetariennes",
+   "Spectacles de tanoura, de feu, de danse du ventre et de danse khaleeji"
+  ],
+  "included": [
+   "Prise en charge et depose depuis votre hotel ou l’emplacement selectionne",
+   "transport en vehicule 4x4 climatise",
+   "chauffeur anglophone",
+   "dune bashing",
+   "quad (si cette option est selectionnee)",
+   "sandboard",
+   "balade a dos de chameau (courte balade)",
+   "the, cafe et boissons non alcoolisees a volonte",
+   "diner buffet barbecue avec options vegetariennes et non vegetariennes",
+   "tatouage au henne",
+   "chicha en libre-service dans une zone designee",
+   "spectacles de tanoura, de feu, de danse du ventre et de danse khaleeji"
+  ],
+  "notIncluded": []
+ },
+ "dubai-quad-bike-dune-buggy-and-sandboarding": {
+  "title": "Dubai : experience quad, buggy des dunes et sandboard",
+  "metaTitle": "Quad et buggy des dunes Dubai",
+  "metaDescription": "Un trajet d’une heure depuis Dubai vers le safari des dunes rouges, avec quad, buggy et sandboard.",
+  "shortDescription": "Un trajet d’une heure depuis Dubai vers le safari des dunes rouges, avec option de quad, buggy des dunes et sandboard.",
+  "fullDescription": "Ce trajet commence au safari des dunes rouges de Dubai, l’arret le plus long avec environ une heure sur place, puis continue pour une seconde phase de 30 minutes au meme endroit.\n\nUne balade en quad est proposee si cette option est selectionnee, ainsi qu’une conduite en buggy des dunes egalement optionnelle. Un guide professionnel supervise la session de sandboard et une courte balade a dos de chameau. Un arret photo, de l’eau potable a volonte, un briefing de formation et de securite, ainsi qu’un casque sont inclus.\n\nOpere par Excursion Point Tourism, ce trajet compte deux arrets en tout et ne couvre pas la prise en charge et la depose, disponibles avec un supplement auprès de l’operateur.",
+  "highlights": [
+   "Monter a bord d’un quad ou d’un buggy des dunes pour un trajet palpitant a travers le desert",
+   "Sandboard avec un guide professionnel",
+   "Courte balade a dos de chameau",
+   "Arret photo et eau potable a volonte",
+   "Briefing de formation et de securite inclus"
+  ],
+  "included": [
+   "Balade en quad (si cette option est selectionnee)",
+   "conduite en buggy des dunes (si cette option est selectionnee)",
+   "guide professionnel",
+   "sandboard",
+   "courte balade a dos de chameau",
+   "arret photo",
+   "eau potable a volonte",
+   "briefing de formation et de securite",
+   "casque"
+  ],
+  "notIncluded": [
+   "Prise en charge et depose (disponible avec supplement, contactez l’operateur)",
+   "photos (disponibles a l’achat)",
+   "foulards (disponibles a l’achat)"
+  ]
+ },
+ "zerzura-dune-buggy-experience-dinner-at-zerzura": {
+  "title": "Experience de buggy des dunes a Zerzura et diner a Zerzura",
+  "metaTitle": "Buggy des dunes Zerzura",
+  "metaDescription": "Une demi-journee depuis Dubai visitant Zerzura, le desert de Mleiha et le rocher aux fossiles.",
+  "shortDescription": "Une demi-journee depuis Dubai visitant Zerzura, le desert de Mleiha et le rocher aux fossiles, avec conduite libre en buggy des dunes.",
+  "fullDescription": "Cette experience commence a Zerzura pour 30 minutes, puis continue vers le desert de Mleiha, le rocher aux fossiles, un retour a Zerzura et le Centre Archeologique de Mleiha.\n\nVous conduisez vous-meme pendant une heure un buggy des dunes Desert Fox sur mesure. Des boissons non alcoolisees et des rafraichissements sont servis tout au long de l’experience, avec acces a toutes les installations de Zerzura. Une decouverte de fossiles au rocher aux fossiles, des balades a dos de chameau et du sandboard completent la journee, avant un diner a Zerzura sous les etoiles du desert.\n\nOpere par Zerzura Experiences, cette excursion facture le meme prix de 779 $ pour un ou deux voyageurs, car elle est tarifee par groupe.",
+  "highlights": [
+   "Conduite libre d’une heure dans des buggys des dunes Desert Fox de 2000 cc sur mesure",
+   "Decouverte de fossiles au rocher aux fossiles",
+   "Balades a dos de chameau et sandboard a Zerzura",
+   "Acces a toutes les installations de Zerzura",
+   "Diner a Zerzura sous les etoiles du desert"
+  ],
+  "included": [
+   "Prise en charge et depose privees",
+   "experience de conduite libre en buggy des dunes d’une heure",
+   "boissons non alcoolisees et rafraichissements tout au long de l’experience",
+   "acces a toutes les installations de Zerzura",
+   "decouverte de fossiles au rocher aux fossiles",
+   "balades a dos de chameau a Zerzura",
+   "sandboard",
+   "diner a Zerzura sous les etoiles du desert"
+  ],
+  "notIncluded": []
+ },
+ "from-dubai-private-dinner-in-the-dunes-in-mleiha": {
+  "title": "Depuis Dubai : diner prive dans les dunes a Mleiha",
+  "metaTitle": "Diner prive dans les dunes Mleiha",
+  "metaDescription": "Une demi-journee depuis Dubai visitant Zerzura et le desert de Mleiha, avec diner prive dans les dunes.",
+  "shortDescription": "Une demi-journee depuis Dubai visitant Zerzura et le desert de Mleiha, avec balade a dos de chameau et diner barbecue arabe prive.",
+  "fullDescription": "Cette excursion commence a Zerzura, l’arret le plus long avec environ une heure sur place, pour une introduction a Mleiha et sa riche histoire, puis continue vers le desert de Mleiha.\n\nUne balade a dos de chameau et une marche nature autour du desert de Mleiha sont incluses, ainsi que du sandboard. Un feu de camp accompagne un diner barbecue arabe en trois plats, servi dans une installation privee amenagee dans les dunes, avec d’autres options de menu disponibles sur demande.\n\nOpere par Zerzura Experiences, cette excursion inclut la prise en charge et la depose privees a l’hotel.",
+  "highlights": [
+   "Une introduction a Mleiha et sa riche histoire",
+   "Balade a dos de chameau et marche nature dans le desert de Mleiha",
+   "Sandboard et feu de camp",
+   "Diner barbecue arabe en trois plats",
+   "Installation privee pour le diner dans les dunes"
+  ],
+  "included": [
+   "Prise en charge et depose privees a l’hotel",
+   "balade a dos de chameau",
+   "marche nature autour du desert de Mleiha",
+   "sandboard",
+   "feu de camp",
+   "diner barbecue arabe en trois plats (autres options de menu disponibles sur demande)",
+   "installation privee dans les dunes pour le diner"
+  ],
+  "notIncluded": []
+ },
+ "dubai-heritage-overnight-safari-balloon-ride": {
+  "title": "Dubai : safari patrimonial avec nuitee, vol en montgolfiere et petit dejeuner",
+  "metaTitle": "Safari patrimonial avec nuitee Dubai",
+  "metaDescription": "Une experience d’une journee complete a Dubai pour explorer la reserve de conservation du desert dans un Land Rover legendaire des annees 1950.",
+  "shortDescription": "Une experience d’une journee complete a Dubai pour explorer la reserve de conservation du desert dans un Land Rover legendaire des annees 1950, avec nuitee et vol en montgolfiere.",
+  "fullDescription": "Cette experience vous fait explorer la reserve de conservation du desert de Dubai dans un Land Rover classique legendaire des annees 1950, sans dune bashing. Apres la prise en charge dans les hotels de Dubai, vous profitez d’une demonstration de fauconnerie au coucher du soleil avec the et jus de vimto.\n\nVous passez la nuit dans des habitations traditionnelles en pierre arabe avec matelas et literie, avec acces a des installations sanitaires au camp (douches sur demande). Une soiree de divertissement culturel avec yola et percussions precede une session d’observation des etoiles avec un guide professionnel.\n\nLe lendemain, un vol en montgolfiere d’environ une heure au lever du soleil au-dessus du desert complete l’experience, avec un diner traditionnel la veille et un petit dejeuner gastronomique le matin. Opere par Platinum Heritage Luxury Tours & Safaris, cette experience peut etre annulee gratuitement et couvre neuf elements au total.",
+  "highlights": [
+   "Explorer la reserve de conservation du desert de Dubai dans un Land Rover legendaire des annees 1950",
+   "Demonstration de fauconnerie au coucher du soleil",
+   "Nuitee dans des habitations traditionnelles en pierre arabe",
+   "Divertissement culturel en soiree avec yola et percussions",
+   "Vol en montgolfiere au lever du soleil au-dessus du desert"
+  ],
+  "included": [
+   "Prise en charge et depose depuis les hotels de Dubai",
+   "promenade nature dans des Land Rover classiques a l’interieur de la reserve, sans dune bashing",
+   "demonstration de fauconnerie au coucher du soleil avec the et jus de vimto",
+   "habitations traditionnelles en pierre arabe avec matelas et literie",
+   "installations sanitaires au camp (douches sur demande)",
+   "divertissement culturel en soiree avec yola et percussions",
+   "session d’observation des etoiles avec un guide professionnel",
+   "vol en montgolfiere d’environ une heure au lever du soleil au-dessus du desert",
+   "diner traditionnel et petit dejeuner gastronomique"
+  ],
+  "notIncluded": [
+   "Photos",
+   "pourboires"
+  ]
+ },
+ "luxury-private-dubai-city-tour-with": {
+  "title": "Tour de ville de luxe a Dubai avec chauffeur et guide agree",
+  "metaTitle": "Tour de luxe Dubai avec chauffeur",
+  "metaDescription": "Un trajet de trois heures depuis Dubai visitant le Dubai Frame, Al Fahidi et le taxi aquatique de la crique de Dubai.",
+  "shortDescription": "Un trajet de trois heures depuis Dubai visitant le Dubai Frame, Al Fahidi, le taxi aquatique de la crique de Dubai et le souk aux epices.",
+  "fullDescription": "Ce tour de luxe vous fait vivre le style de vie traditionnel du passe de Dubai. Il commence au Dubai Frame pour 10 minutes, puis continue vers Al Fahidi pour 30 minutes, suivi du taxi aquatique sur la crique de Dubai pour 5 minutes, du souk aux epices de Dubai pour 30 minutes, et se termine au souk de l’or de Dubai, l’arret le plus long avec environ une heure sur place.\n\nOpere par Vicks Travel, ce tour comprend un vehicule climatise, les services d’un guide touristique professionnel agree par le DTCM, de l’eau en bouteille et une balade en bateau. Le prix de 624 $ est le meme pour un ou deux voyageurs, car il est tarife par groupe.",
+  "highlights": [
+   "Vivre le style de vie traditionnel du passe de Dubai",
+   "Balade en taxi aquatique sur la crique de Dubai",
+   "Visite du souk aux epices et du souk de l’or",
+   "Guide touristique professionnel agree par le DTCM",
+   "Visite du quartier historique d’Al Fahidi"
+  ],
+  "included": [
+   "Vehicule climatise",
+   "services d’un guide touristique professionnel agree par le DTCM",
+   "eau en bouteille",
+   "balade en bateau"
+  ],
+  "notIncluded": []
+ },
+ "1-hour-burj-al-arab-jet-ski-tour": {
+  "title": "Tour en jet-ski d’une heure vers le Burj Al Arab",
+  "metaTitle": "Jet-ski Burj Al Arab",
+  "metaDescription": "Une experience d’une heure a Dubai pour conduire un jet-ski devant la luxueuse residence de Jumeirah Beach.",
+  "shortDescription": "Une experience d’une heure a Dubai pour conduire un jet-ski devant la luxueuse residence de Jumeirah Beach et le Burj Al Arab.",
+  "fullDescription": "Cette experience d’une heure vous fait conduire un jet-ski devant la luxueuse residence de Jumeirah Beach. Un instructeur professionnel vous donne un briefing avant le depart, avec equipement de securite et gilet de sauvetage fournis.\n\nDe l’eau potable est disponible, et un maximum de deux personnes peut monter sur un seul jet-ski (chauffeur et passager).\n\nOpere par Ride in Dubai Watersports, cette experience peut etre annulee gratuitement et couvre quatre elements au total.",
+  "highlights": [
+   "Conduire un jet-ski devant la luxueuse residence de Jumeirah Beach",
+   "Briefing par un instructeur professionnel",
+   "Equipement de securite et gilet de sauvetage fournis",
+   "Eau potable disponible",
+   "Jusqu’a deux personnes par jet-ski"
+  ],
+  "included": [
+   "Briefing par un instructeur professionnel",
+   "equipement de securite et gilet de sauvetage",
+   "eau potable",
+   "maximum de deux personnes sur un jet-ski (chauffeur et passager)"
+  ],
+  "notIncluded": [
+   "Camera GoPro (disponible a la location sur place)",
+   "maillot de bain",
+   "serviettes",
+   "lunettes de soleil",
+   "nourriture et boissons"
+  ]
+ },
+ "dubai-dolphinarium-with-vip-ticket-and-gmc-yukon": {
+  "title": "Dubai : Dolphinarium avec billet VIP et transfert en GMC Yukon",
+  "metaTitle": "Dolphinarium Dubai VIP",
+  "metaDescription": "Une demi-journee a Dubai pour assister a un spectacle animé de dauphins et de phoques au Dolphinarium.",
+  "shortDescription": "Une demi-journee a Dubai pour assister a un spectacle animé de dauphins et de phoques au Dolphinarium, avec transport prive en GMC Yukon.",
+  "fullDescription": "Cette experience vous fait assister a un spectacle animé de dauphins et de phoques au Dolphinarium de Dubai. Le billet VIP pour le spectacle est inclus, avec un transport prive dans un SUV GMC Yukon premium.\n\nLa prise en charge et la depose se font depuis votre hotel ou residence a Dubai.\n\nOpere par HARBOR TOURISM LLC, cette experience peut etre annulee gratuitement et couvre trois elements au total. Le prix de 429 $ est le meme pour un ou deux voyageurs, car il est tarife par groupe.",
+  "highlights": [
+   "Assister a un spectacle animé de dauphins et de phoques au Dolphinarium de Dubai",
+   "Billet VIP pour le spectacle",
+   "Transport prive dans un SUV GMC Yukon premium",
+   "Prise en charge et depose a l’hotel ou a la residence"
+  ],
+  "included": [
+   "Billet VIP pour le spectacle de dauphins et de phoques",
+   "transport prive dans un SUV GMC Yukon premium",
+   "prise en charge et depose depuis l’hotel ou la residence a Dubai"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
