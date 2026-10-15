@@ -143658,6 +143658,197 @@ export const FR_TOURS: Record<string, TourT> = {
    "dejeuner"
   ]
  },
+ "dubai-ride-and-slide-yacht-cruise-with-bbq-lunch": {
+  "title": "Dubai : croisiere yacht avec toboggan et dejeuner barbecue et boissons",
+  "metaTitle": "Croisiere yacht toboggan Dubai",
+  "metaDescription": "Un trajet de trois heures depuis Dubai visitant le Dubai Harbour, la Dubai Marina et l’hotel FIVE Palm Jumeirah.",
+  "shortDescription": "Un trajet de trois heures depuis Dubai visitant le Dubai Harbour, la Dubai Marina et l’hotel FIVE Palm Jumeirah, avec toboggan gonflable et dejeuner barbecue.",
+  "fullDescription": "Cette croisiere en yacht de trois heures part du Dubai Harbour, continue vers la Dubai Marina, puis rejoint l’hotel FIVE Palm Jumeirah. Un bar tout compris avec boissons maison, cocktails et sodas accompagne la traversee.\n\nUn dejeuner barbecue vegetarien et non vegetarien est servi, avec des boissons maison et des sodas a volonte. Un toboggan gonflable et un transat de mer sont a disposition, ainsi qu’une planche a pagaie et du materiel de plongee avec tuba. De la musique accompagne le trajet, et des gilets de sauvetage sont fournis.\n\nOpere par Sky Walker Yachts, cette croisiere ne couvre pas la prise en charge et la depose a l’hotel.",
+  "highlights": [
+   "Bar tout compris avec boissons maison, cocktails et sodas",
+   "Toboggan gonflable et transat de mer",
+   "Dejeuner barbecue vegetarien et non vegetarien",
+   "Planche a pagaie et materiel de plongee avec tuba",
+   "Musique a bord"
+  ],
+  "included": [
+   "Croisiere en yacht",
+   "dejeuner barbecue vegetarien et non vegetarien",
+   "boissons maison et sodas a volonte",
+   "toboggan gonflable et transat de mer",
+   "planche a pagaie et materiel de plongee avec tuba",
+   "musique a bord",
+   "gilets de sauvetage"
+  ],
+  "notIncluded": [
+   "Prise en charge et depose a l’hotel"
+  ]
+ },
+ "dubai-sunrise-hot-air-balloon-tour-over-the-desert": {
+  "title": "Dubai : tour en montgolfiere au lever du soleil au-dessus du desert",
+  "metaTitle": "Montgolfiere lever du soleil Dubai",
+  "metaDescription": "Une demi-journee depuis Dubai pour un vol en montgolfiere au lever du soleil, avec certificat de vol electronique.",
+  "shortDescription": "Une demi-journee depuis Dubai pour un vol en montgolfiere de 40 a 70 minutes au lever du soleil, avec boisson de bienvenue et certificat de vol electronique.",
+  "fullDescription": "Ce tour en montgolfiere commence avec la prise en charge dans la zone de la ville de Dubai, suivie d’un trajet de 45 minutes en jeep ou SUV. Vous atteignez ensuite les installations Sindbad Gulf Balloons, l’arret le plus long avec environ une heure sur place, pour une boisson de bienvenue (the, cafe ou eau).\n\nLe vol en montgolfiere au lever du soleil dure entre 40 et 70 minutes, suivi d’une heure au point d’atterrissage VHMH+V4 a Margham. Un certificat de vol electronique vous est remis a la fin. Le trajet de retour en jeep ou SUV dure 50 minutes.\n\nOpere par Sindbad Gulf Balloons CO LLC, ce tour compte quatre arrets en tout. Une video du vol est disponible en option pour 200 AED, et un supplement s’applique au-dela de 120 kg par personne.",
+  "highlights": [
+   "Vivre l’excitation de prendre son envol en montgolfiere",
+   "Vol au lever du soleil de 40 a 70 minutes",
+   "Boisson de bienvenue incluse",
+   "Certificat de vol electronique",
+   "Prise en charge dans la zone de la ville de Dubai"
+  ],
+  "included": [
+   "Prise en charge et depose dans la zone de la ville de Dubai",
+   "boisson de bienvenue (the, cafe ou eau)",
+   "vol en montgolfiere au lever du soleil de 40 a 70 minutes",
+   "certificat de vol electronique"
+  ],
+  "notIncluded": [
+   "Video du vol (disponible pour 200 AED)",
+   "supplement double au-dela de 120 kg par personne"
+  ]
+ },
+ "dubai-chillout-ice-lounge-entry-ticket-hot": {
+  "title": "Dubai : billet d’entree au Chillout Ice Lounge avec boissons chaudes ou chocolat",
+  "metaTitle": "Chillout Ice Lounge Dubai",
+  "metaDescription": "Une experience d’une heure a Dubai pour se rafraichir dans le seul bar de glace du Moyen-Orient.",
+  "shortDescription": "Une experience d’une heure a Dubai pour se rafraichir dans le seul bar de glace du Moyen-Orient, avec boisson chaude ou chocolat offerte.",
+  "fullDescription": "Cette experience d’une heure au Chillout Ice Lounge vous permet de vous rafraichir dans le seul bar de glace du Moyen-Orient. Le prix comprend le billet d’entree, une boisson de bienvenue offerte (boisson chaude, chocolat chaud ou cafe), et un equipement thermique complet pendant toute l’experience.\n\nOpere par Chillout ice lounge, cette experience peut etre annulee gratuitement et couvre trois elements au total.",
+  "highlights": [
+   "Se rafraichir dans le seul bar de glace du Moyen-Orient"
+  ],
+  "included": [
+   "Billet d’entree au Chillout Ice Lounge",
+   "boisson de bienvenue offerte (boisson chaude, chocolat chaud ou cafe)",
+   "equipement thermique complet pendant l’experience"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons supplementaires"
+  ]
+ },
+ "dubai-luxury-car-showroom-tour-with-dubai-mall": {
+  "title": "Dubai : tour des showrooms de voitures de luxe avec depose au Dubai Mall",
+  "metaTitle": "Showrooms voitures de luxe Dubai",
+  "metaDescription": "Une experience de deux heures a Dubai pour admirer les supercars et vehicules de luxe les plus prestigieux du monde.",
+  "shortDescription": "Une experience de deux heures a Dubai pour admirer les supercars et vehicules de luxe les plus prestigieux du monde, avec visite de 3 a 4 showrooms.",
+  "fullDescription": "Cette experience vous emmene dans un vehicule confortable depuis votre hotel ou emplacement a Dubai, pour visiter 3 a 4 showrooms de voitures de luxe prestigieux. Un chauffeur professionnel connaissant les marques de voitures de luxe vous accompagne.\n\nVous avez le temps de photographier et de filmer vos voitures de reve preferees, avant une depose au Dubai Mall a la fin du tour. L’itineraire peut varier selon le trafic et la disponibilite des showrooms.\n\nOpere par Travtur Tourism L.L.C, cette experience peut etre annulee gratuitement et couvre six elements au total.",
+  "highlights": [
+   "Admirer les supercars et vehicules de luxe les plus prestigieux du monde",
+   "Visite de 3 a 4 showrooms de voitures de luxe",
+   "Chauffeur professionnel connaissant les marques de luxe",
+   "Temps pour photographier vos voitures de reve",
+   "Depose au Dubai Mall a la fin du tour"
+  ],
+  "included": [
+   "Prise en charge depuis votre hotel ou emplacement a Dubai dans un vehicule confortable",
+   "visites de 3 a 4 showrooms de voitures de luxe prestigieux",
+   "chauffeur professionnel connaissant les marques de voitures de luxe",
+   "temps pour photographier et filmer vos voitures de reve preferees",
+   "depose au Dubai Mall a la fin du tour",
+   "itineraire sujet a changement selon le trafic et la disponibilite des showrooms"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "pourboires pour le guide (optionnel)"
+  ]
+ },
+ "abu-dhabi-reem-central-park-2-hour-guided-kayak": {
+  "title": "Abu Dhabi : tour guide de kayak de deux heures au Reem Central Park",
+  "metaTitle": "Kayak Reem Central Park",
+  "metaDescription": "Une experience de deux heures a Abu Dhabi pour s’immerger dans la beaute naturelle du Reem Central Park en kayak.",
+  "shortDescription": "Une experience de deux heures a Abu Dhabi pour s’immerger dans la beaute naturelle du Reem Central Park en kayak, avec guide et equipement inclus.",
+  "fullDescription": "Ce tour de kayak de deux heures vous immerge dans la beaute naturelle du Reem Central Park. Un guide touristique vous accompagne avec l’equipement de kayak, les gilets de sauvetage et les sacs etanches.\n\nUne station de recharge en eau est disponible (apportez votre propre bouteille), ainsi que des fruits entiers et un briefing de securite avant le depart.\n\nOpere par Husaak Adventures, ce tour peut etre annule gratuitement et couvre sept elements au total.",
+  "highlights": [
+   "S’immerger dans la beaute naturelle du Reem Central Park en kayak",
+   "Equipement de kayak et gilets de sauvetage inclus",
+   "Sacs etanches fournis",
+   "Station de recharge en eau et fruits entiers",
+   "Briefing de securite avant le depart"
+  ],
+  "included": [
+   "Guide touristique",
+   "equipement de kayak",
+   "gilets de sauvetage",
+   "sacs etanches",
+   "station de recharge en eau (apportez votre propre bouteille)",
+   "fruits entiers",
+   "briefing de securite"
+  ],
+  "notIncluded": [
+   "Prise en charge et depose a l’hotel",
+   "serviettes",
+   "bouteille d’eau",
+   "pourboires"
+  ]
+ },
+ "abu-dhabi-guided-kayak-tour-around-louvre": {
+  "title": "Abu Dhabi : tour guide de kayak autour du Louvre",
+  "metaTitle": "Kayak autour du Louvre Abu Dhabi",
+  "metaDescription": "Une experience d’une heure a Abu Dhabi pour decouvrir la ville sous une perspective unique en kayak.",
+  "shortDescription": "Une experience d’une heure a Abu Dhabi pour decouvrir la ville sous une perspective unique en kayak, avec gilets de sauvetage et briefing de securite.",
+  "fullDescription": "Cette experience d’une heure vous fait decouvrir Abu Dhabi sous une perspective unique en kayak, autour du Louvre. Des gilets de sauvetage, des sacs etanches et un briefing de securite sont fournis, avec une station de recharge en eau disponible (apportez votre propre bouteille).\n\nOpere par Husaak Adventures, cette experience peut etre annulee gratuitement et couvre quatre elements au total.",
+  "highlights": [
+   "Decouvrir Abu Dhabi sous une perspective unique en kayak"
+  ],
+  "included": [
+   "Gilets de sauvetage",
+   "sacs etanches",
+   "briefing de securite",
+   "station de recharge en eau (apportez votre propre bouteille)"
+  ],
+  "notIncluded": [
+   "Bouteille d’eau",
+   "billets d’entree au musee",
+   "prise en charge et depose a l’hotel",
+   "nourriture et boissons",
+   "pourboires"
+  ]
+ },
+ "dubai-donut-boat-ride-with-drinks": {
+  "title": "Dubai : balade en bateau donut avec boissons",
+  "metaTitle": "Bateau donut Dubai",
+  "metaDescription": "Une experience d’une heure a Dubai avec vue sur la ligne d’horizon de la ville, a bord d’un bateau donut.",
+  "shortDescription": "Une experience d’une heure a Dubai avec vue sur la ligne d’horizon de la ville, a bord d’un bateau donut, avec boissons incluses.",
+  "fullDescription": "Cette balade d’une heure a bord d’un bateau donut offre une vue sur la ligne d’horizon de Dubai, pour un maximum de quatre personnes. Trois boissons non alcoolisees par personne sont incluses, ainsi qu’un the par personne.\n\nOpere par BBQ-Dubai, cette balade peut etre annulee gratuitement et couvre trois elements au total. Le prix de 177 $ est le meme pour un ou deux voyageurs, car il est tarife par groupe.",
+  "highlights": [
+   "Vue sur la ligne d’horizon de Dubai"
+  ],
+  "included": [
+   "Balade en bateau d’une heure pour un maximum de quatre personnes",
+   "trois boissons non alcoolisees par personne incluses",
+   "un the par personne inclus"
+  ],
+  "notIncluded": [
+   "Transport non inclus",
+   "aucune nourriture incluse"
+  ]
+ },
+ "from-abu-dhabi-half-day-sheikh-zayed-mosque": {
+  "title": "Depuis Abu Dhabi : visite guidee d’une demi-journee a la mosquee Sheikh Zayed",
+  "metaTitle": "Mosquee Sheikh Zayed guidee",
+  "metaDescription": "Un trajet de trois heures depuis Abu Dhabi visitant la mosquee Sheikh Zayed, la plus grande mosquee des Emirats.",
+  "shortDescription": "Un trajet de trois heures depuis Abu Dhabi visitant la mosquee Sheikh Zayed, la plus grande mosquee des Emirats, avec marche guidee.",
+  "fullDescription": "Ce trajet de trois heures depuis Abu Dhabi vous conduit a la mosquee Sheikh Zayed, ou vous admirez son architecture grandiose en marchant avec un guide agree.\n\nLe prix couvre la prise en charge et la depose a Abu Dhabi, le transport en vehicule climatise, l’entree a la mosquee Sheikh Zayed et de l’eau minerale. Un dejeuner au restaurant du patrimoine Al Khayma est propose si cette option est selectionnee.\n\nOpere par OceanAir Travels, ce tour ne couvre pas les vetements pour couverture supplementaire ni les pourboires, qui ne sont pas obligatoires.",
+  "highlights": [
+   "Admirer l’architecture grandiose de la plus grande mosquee des Emirats, la mosquee Sheikh Zayed",
+   "Marche guidee autour de la mosquee",
+   "Guide agree",
+   "Eau minerale incluse",
+   "Option de dejeuner au restaurant du patrimoine Al Khayma"
+  ],
+  "included": [
+   "Prise en charge et depose a Abu Dhabi",
+   "transport en vehicule climatise",
+   "entree a la mosquee Sheikh Zayed",
+   "guide agree",
+   "eau minerale",
+   "dejeuner au restaurant du patrimoine Al Khayma (si cette option est selectionnee)"
+  ],
+  "notIncluded": [
+   "Vetements pour couverture supplementaire",
+   "pourboires (non obligatoires)"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

@@ -143658,6 +143658,197 @@ export const ES_TOURS: Record<string, TourT> = {
    "almuerzo"
   ]
  },
+ "dubai-ride-and-slide-yacht-cruise-with-bbq-lunch": {
+  "title": "Dubai: crucero en yate con tobogan y almuerzo barbacoa y bebidas",
+  "metaTitle": "Crucero yate tobogan Dubai",
+  "metaDescription": "Un trayecto de tres horas desde Dubai visitando el Dubai Harbour, la Dubai Marina y el hotel FIVE Palm Jumeirah.",
+  "shortDescription": "Un trayecto de tres horas desde Dubai visitando el Dubai Harbour, la Dubai Marina y el hotel FIVE Palm Jumeirah, con tobogan inflable y almuerzo barbacoa.",
+  "fullDescription": "Este crucero en yate de tres horas sale del Dubai Harbour, continua hacia la Dubai Marina, y luego llega al hotel FIVE Palm Jumeirah. Un bar todo incluido con bebidas de la casa, cocteles y refrescos acompaña la travesia.\n\nSe sirve un almuerzo barbacoa vegetariano y no vegetariano, con bebidas de la casa y refrescos ilimitados. Hay un tobogan inflable y una tumbona de mar disponibles, asi como una tabla de remo y equipo de buceo con tubo. La musica acompaña el trayecto, y se proporcionan chalecos salvavidas.\n\nOperado por Sky Walker Yachts, este crucero no cubre la recogida y entrega en el hotel.",
+  "highlights": [
+   "Bar todo incluido con bebidas de la casa, cocteles y refrescos",
+   "Tobogan inflable y tumbona de mar",
+   "Almuerzo barbacoa vegetariano y no vegetariano",
+   "Tabla de remo y equipo de buceo con tubo",
+   "Musica a bordo"
+  ],
+  "included": [
+   "Crucero en yate",
+   "almuerzo barbacoa vegetariano y no vegetariano",
+   "bebidas de la casa y refrescos ilimitados",
+   "tobogan inflable y tumbona de mar",
+   "tabla de remo y equipo de buceo con tubo",
+   "musica a bordo",
+   "chalecos salvavidas"
+  ],
+  "notIncluded": [
+   "Recogida y entrega en el hotel"
+  ]
+ },
+ "dubai-sunrise-hot-air-balloon-tour-over-the-desert": {
+  "title": "Dubai: tour en globo aerostatico al amanecer sobre el desierto",
+  "metaTitle": "Globo aerostatico amanecer Dubai",
+  "metaDescription": "Media jornada desde Dubai para un vuelo en globo aerostatico al amanecer, con certificado de vuelo electronico.",
+  "shortDescription": "Media jornada desde Dubai para un vuelo en globo aerostatico de 40 a 70 minutos al amanecer, con bebida de bienvenida y certificado de vuelo electronico.",
+  "fullDescription": "Este tour en globo aerostatico comienza con la recogida en la zona de la ciudad de Dubai, seguida de un trayecto de 45 minutos en jeep o SUV. Despues llega a las instalaciones de Sindbad Gulf Balloons, la parada mas larga con una hora aproximadamente en el lugar, para una bebida de bienvenida (te, cafe o agua).\n\nEl vuelo en globo aerostatico al amanecer dura entre 40 y 70 minutos, seguido de una hora en el punto de aterrizaje VHMH+V4 en Margham. Al final recibe un certificado de vuelo electronico. El trayecto de regreso en jeep o SUV dura 50 minutos.\n\nOperado por Sindbad Gulf Balloons CO LLC, este tour tiene cuatro paradas en total. Hay un video del vuelo disponible opcionalmente por 200 AED, y se aplica un recargo por encima de 120 kg por persona.",
+  "highlights": [
+   "Vivir la emocion de despegar en un globo aerostatico",
+   "Vuelo al amanecer de 40 a 70 minutos",
+   "Bebida de bienvenida incluida",
+   "Certificado de vuelo electronico",
+   "Recogida en la zona de la ciudad de Dubai"
+  ],
+  "included": [
+   "Recogida y entrega en la zona de la ciudad de Dubai",
+   "bebida de bienvenida (te, cafe o agua)",
+   "vuelo en globo aerostatico al amanecer de 40 a 70 minutos",
+   "certificado de vuelo electronico"
+  ],
+  "notIncluded": [
+   "Video del vuelo (disponible por 200 AED)",
+   "recargo doble por encima de 120 kg por persona"
+  ]
+ },
+ "dubai-chillout-ice-lounge-entry-ticket-hot": {
+  "title": "Dubai: entrada al Chillout Ice Lounge con bebidas calientes o chocolate",
+  "metaTitle": "Chillout Ice Lounge Dubai",
+  "metaDescription": "Una experiencia de una hora en Dubai para refrescarse en el unico bar de hielo de Oriente Medio.",
+  "shortDescription": "Una experiencia de una hora en Dubai para refrescarse en el unico bar de hielo de Oriente Medio, con bebida caliente o chocolate de cortesia.",
+  "fullDescription": "Esta experiencia de una hora en el Chillout Ice Lounge le permite refrescarse en el unico bar de hielo de Oriente Medio. El precio incluye la entrada, una bebida de bienvenida de cortesia (bebida caliente, chocolate caliente o cafe), y ropa termica completa durante toda la experiencia.\n\nOperada por Chillout ice lounge, esta experiencia se puede cancelar gratis y cubre tres elementos en total.",
+  "highlights": [
+   "Refrescarse en el unico bar de hielo de Oriente Medio"
+  ],
+  "included": [
+   "Entrada al Chillout Ice Lounge",
+   "bebida de bienvenida de cortesia (bebida caliente, chocolate caliente o cafe)",
+   "ropa termica completa durante la experiencia"
+  ],
+  "notIncluded": [
+   "Comida y bebidas adicionales"
+  ]
+ },
+ "dubai-luxury-car-showroom-tour-with-dubai-mall": {
+  "title": "Dubai: tour de salones de coches de lujo con entrega en el Dubai Mall",
+  "metaTitle": "Salones de coches de lujo Dubai",
+  "metaDescription": "Una experiencia de dos horas en Dubai para admirar los superdeportivos y vehiculos de lujo mas prestigiosos del mundo.",
+  "shortDescription": "Una experiencia de dos horas en Dubai para admirar los superdeportivos y vehiculos de lujo mas prestigiosos del mundo, con visita de 3 a 4 salones.",
+  "fullDescription": "Esta experiencia le lleva en un vehiculo comodo desde su hotel o ubicacion en Dubai a 3 o 4 salones de coches de lujo prestigiosos. Un conductor profesional con conocimiento de marcas de lujo le acompaña.\n\nTiene tiempo para fotografiar y filmar sus coches de ensueño favoritos, antes de ser entregado en el Dubai Mall al final del tour. El itinerario puede variar segun el trafico y la disponibilidad de los salones.\n\nOperado por Travtur Tourism L.L.C, esta experiencia se puede cancelar gratis y cubre seis elementos en total.",
+  "highlights": [
+   "Admirar los superdeportivos y vehiculos de lujo mas prestigiosos del mundo",
+   "Visita de 3 a 4 salones de coches de lujo",
+   "Conductor profesional con conocimiento de marcas de lujo",
+   "Tiempo para fotografiar sus coches de ensueño",
+   "Entrega en el Dubai Mall al final del tour"
+  ],
+  "included": [
+   "Recogida desde su hotel o ubicacion en Dubai en un vehiculo comodo",
+   "visitas a 3 o 4 salones de coches de lujo prestigiosos",
+   "conductor profesional con conocimiento de marcas de coches de lujo",
+   "tiempo para fotografiar y filmar sus coches de ensueño favoritos",
+   "entrega en el Dubai Mall al final del tour",
+   "itinerario sujeto a cambios segun el trafico y la disponibilidad de los salones"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "propinas para el guia (opcional)"
+  ]
+ },
+ "abu-dhabi-reem-central-park-2-hour-guided-kayak": {
+  "title": "Abu Dabi: tour guiado de kayak de dos horas en Reem Central Park",
+  "metaTitle": "Kayak Reem Central Park",
+  "metaDescription": "Una experiencia de dos horas en Abu Dabi para sumergirse en la belleza natural de Reem Central Park en kayak.",
+  "shortDescription": "Una experiencia de dos horas en Abu Dabi para sumergirse en la belleza natural de Reem Central Park en kayak, con guia y equipo incluidos.",
+  "fullDescription": "Este tour de kayak de dos horas le sumerge en la belleza natural de Reem Central Park. Un guia turistico le acompaña con equipo de kayak, chalecos salvavidas y bolsas impermeables.\n\nHay disponible una estacion de recarga de agua (traiga su propia botella), asi como fruta entera y una charla de seguridad antes de la salida.\n\nOperado por Husaak Adventures, este tour se puede cancelar gratis y cubre siete elementos en total.",
+  "highlights": [
+   "Sumergirse en la belleza natural de Reem Central Park en kayak",
+   "Equipo de kayak y chalecos salvavidas incluidos",
+   "Bolsas impermeables proporcionadas",
+   "Estacion de recarga de agua y fruta entera",
+   "Charla de seguridad antes de la salida"
+  ],
+  "included": [
+   "Guia turistico",
+   "equipo de kayak",
+   "chalecos salvavidas",
+   "bolsas impermeables",
+   "estacion de recarga de agua (traiga su propia botella)",
+   "fruta entera",
+   "charla de seguridad"
+  ],
+  "notIncluded": [
+   "Recogida y entrega en el hotel",
+   "toallas",
+   "botella de agua",
+   "propinas"
+  ]
+ },
+ "abu-dhabi-guided-kayak-tour-around-louvre": {
+  "title": "Abu Dabi: tour guiado de kayak alrededor del Louvre",
+  "metaTitle": "Kayak alrededor del Louvre Abu Dabi",
+  "metaDescription": "Una experiencia de una hora en Abu Dabi para descubrir la ciudad desde una perspectiva unica en kayak.",
+  "shortDescription": "Una experiencia de una hora en Abu Dabi para descubrir la ciudad desde una perspectiva unica en kayak, con chalecos salvavidas y charla de seguridad.",
+  "fullDescription": "Esta experiencia de una hora le hace descubrir Abu Dabi desde una perspectiva unica en kayak, alrededor del Louvre. Se proporcionan chalecos salvavidas, bolsas impermeables y una charla de seguridad, con una estacion de recarga de agua disponible (traiga su propia botella).\n\nOperada por Husaak Adventures, esta experiencia se puede cancelar gratis y cubre cuatro elementos en total.",
+  "highlights": [
+   "Descubrir Abu Dabi desde una perspectiva unica en kayak"
+  ],
+  "included": [
+   "Chalecos salvavidas",
+   "bolsas impermeables",
+   "charla de seguridad",
+   "estacion de recarga de agua (traiga su propia botella)"
+  ],
+  "notIncluded": [
+   "Botella de agua",
+   "entradas al museo",
+   "recogida y entrega en el hotel",
+   "comida y bebidas",
+   "propinas"
+  ]
+ },
+ "dubai-donut-boat-ride-with-drinks": {
+  "title": "Dubai: paseo en bote donut con bebidas",
+  "metaTitle": "Bote donut Dubai",
+  "metaDescription": "Una experiencia de una hora en Dubai con vista al perfil urbano de la ciudad, a bordo de un bote donut.",
+  "shortDescription": "Una experiencia de una hora en Dubai con vista al perfil urbano de la ciudad, a bordo de un bote donut, con bebidas incluidas.",
+  "fullDescription": "Este paseo de una hora a bordo de un bote donut ofrece vista al perfil urbano de Dubai, para un maximo de cuatro personas. Se incluyen tres bebidas sin alcohol por persona, asi como un te por persona.\n\nOperado por BBQ-Dubai, este paseo se puede cancelar gratis y cubre tres elementos en total. El precio de 177 USD es el mismo para uno o dos viajeros, ya que se tarifa por grupo.",
+  "highlights": [
+   "Vista al perfil urbano de Dubai"
+  ],
+  "included": [
+   "Paseo en bote de una hora para un maximo de cuatro personas",
+   "tres bebidas sin alcohol por persona incluidas",
+   "un te por persona incluido"
+  ],
+  "notIncluded": [
+   "Transporte no incluido",
+   "sin comida incluida"
+  ]
+ },
+ "from-abu-dhabi-half-day-sheikh-zayed-mosque": {
+  "title": "Desde Abu Dabi: visita guiada de media jornada a la Mezquita Sheikh Zayed",
+  "metaTitle": "Mezquita Sheikh Zayed guiada",
+  "metaDescription": "Un trayecto de tres horas desde Abu Dabi visitando la Mezquita Sheikh Zayed, la mezquita mas grande de los Emiratos.",
+  "shortDescription": "Un trayecto de tres horas desde Abu Dabi visitando la Mezquita Sheikh Zayed, la mezquita mas grande de los Emiratos, con caminata guiada.",
+  "fullDescription": "Este trayecto de tres horas desde Abu Dabi le lleva a la Mezquita Sheikh Zayed, donde admira su grandiosa arquitectura caminando con un guia con licencia.\n\nEl precio cubre recogida y entrega en Abu Dabi, transporte en vehiculo climatizado, entrada a la Mezquita Sheikh Zayed y agua mineral. Se ofrece un almuerzo en el restaurante del patrimonio Al Khayma si se selecciona esta opcion.\n\nOperado por OceanAir Travels, este tour no cubre la ropa para cobertura adicional ni las propinas, que no son obligatorias.",
+  "highlights": [
+   "Admirar la grandiosa arquitectura de la mezquita mas grande de los Emiratos, la Mezquita Sheikh Zayed",
+   "Caminata guiada alrededor de la mezquita",
+   "Guia con licencia",
+   "Agua mineral incluida",
+   "Opcion de almuerzo en el restaurante del patrimonio Al Khayma"
+  ],
+  "included": [
+   "Recogida y entrega en Abu Dabi",
+   "transporte en vehiculo climatizado",
+   "entrada a la Mezquita Sheikh Zayed",
+   "guia con licencia",
+   "agua mineral",
+   "almuerzo en el restaurante del patrimonio Al Khayma (si se selecciona esta opcion)"
+  ],
+  "notIncluded": [
+   "Ropa para cobertura adicional",
+   "propinas (no obligatorias)"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
