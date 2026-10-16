@@ -43,6 +43,7 @@ const Footer: React.FC = () => {
                             <li><Link href="/explore" className="hover:text-white transition-colors">Explore All Destinations</Link></li>
                             <li><Link href="/cruises-and-yachts" className="hover:text-white transition-colors">Cruises &amp; Yachts</Link></li>
                             <li><Link href="/about-us" className="hover:text-white transition-colors">About Us</Link></li>
+                            <li><a href="https://globebylocals.com" target="_blank" rel="noopener" className="hover:text-white transition-colors">GlobeByLocals (our Europe site)</a></li>
                             <li><Link href="/getyourguide-viator-alternative" className="hover:text-white transition-colors">Why AsiaByLocals?</Link></li>
                             <li><Link href="/supplier" className="hover:text-white transition-colors">Become a Supplier</Link></li>
                         </ul>
