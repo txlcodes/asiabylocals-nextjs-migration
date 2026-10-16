@@ -68,36 +68,52 @@ function cityToSlug(countrySlug: string, cityName: string): string | null {
 const FETCH_TIMEOUT_MS = 20000;
 const FETCH_BATCH = 8;
 
-async function fetchCountryTours(countrySlug: string): Promise<any[]> {
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
-  try {
-    const res = await fetch(
-      `${API_URL}/api/public/tours?country=${encodeURIComponent(countryDisplayName(countrySlug))}&status=approved`,
-      { next: { revalidate: 3600 }, signal: controller.signal }
-    );
-    if (!res.ok) return [];
-    const data = await res.json();
-    if (!data?.success) return [];
-    return Array.isArray(data.tours) ? data.tours : (data.tours?.tours || []);
-  } catch {
-    return [];
-  } finally {
-    clearTimeout(timeout);
+const FETCH_ATTEMPTS = 3;
+
+// null means the fetch failed (as opposed to a country that really has no tours),
+// so the caller can refuse to publish a page that silently lost whole countries.
+async function fetchCountryTours(countrySlug: string): Promise<any[] | null> {
+  for (let attempt = 1; attempt <= FETCH_ATTEMPTS; attempt++) {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+    try {
+      const res = await fetch(
+        `${API_URL}/api/public/tours?country=${encodeURIComponent(countryDisplayName(countrySlug))}&status=approved`,
+        { next: { revalidate: 3600 }, signal: controller.signal }
+      );
+      if (res.ok) {
+        const data = await res.json();
+        if (data?.success) return Array.isArray(data.tours) ? data.tours : (data.tours?.tours || []);
+      }
+    } catch {
+      // timeout or network error: retry below
+    } finally {
+      clearTimeout(timeout);
+    }
+    if (attempt < FETCH_ATTEMPTS) await new Promise(r => setTimeout(r, 1500 * attempt));
   }
+  return null;
 }
 
 export async function fetchCruiseTours(): Promise<CruiseCollection> {
-  const results: any[][] = [];
+  const results: (any[] | null)[] = [];
   for (let i = 0; i < CRUISE_COUNTRY_SLUGS.length; i += FETCH_BATCH) {
     const batch = CRUISE_COUNTRY_SLUGS.slice(i, i + FETCH_BATCH);
     results.push(...await Promise.all(batch.map(fetchCountryTours)));
   }
 
+  // ISR caches whatever this returns for an hour. A degraded render (a few
+  // countries missing after retries) must not replace the last good page, so
+  // throw: Next keeps serving the previous version when a revalidation errors.
+  const failed = CRUISE_COUNTRY_SLUGS.filter((_, i) => results[i] === null);
+  if (failed.length > 2) {
+    throw new Error(`cruise collection incomplete, ${failed.length} country fetches failed: ${failed.join(', ')}`);
+  }
+
   const countries: CruiseCountry[] = [];
   CRUISE_COUNTRY_SLUGS.forEach((countrySlug, i) => {
     const tours: CruiseTour[] = [];
-    for (const tour of results[i]) {
+    for (const tour of results[i] ?? []) {
       if (!tour?.slug || !tour?.title || !isCruiseTour(tour.title)) continue;
       const citySlug = cityToSlug(countrySlug, tour.city || '');
       if (!citySlug) continue;

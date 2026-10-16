@@ -5,7 +5,16 @@ import Link from 'next/link';
 import { Anchor, ChevronRight, Clock, MapPin } from 'lucide-react';
 import StaticPageHeader from './StaticPageHeader';
 import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
-import type { CruiseCollection, CruiseTour } from '@/lib/cruiseCollection';
+import type { CruiseCollection, CruiseCountry, CruiseTour } from '@/lib/cruiseCollection';
+
+// Most countries have no /<country> hub page (it 404s), but every city page
+// resolves, so the section link goes to the country's busiest city instead.
+function topCityPath(country: CruiseCountry): string {
+  const counts = new Map<string, number>();
+  for (const t of country.tours) counts.set(t.citySlug, (counts.get(t.citySlug) ?? 0) + 1);
+  const top = [...counts.entries()].sort((a, b) => b[1] - a[1])[0]?.[0];
+  return top ? `/${country.slug}/${top}` : '/explore';
+}
 
 function TourCard({ tour }: { tour: CruiseTour }) {
   return (
@@ -101,10 +110,10 @@ export default function CruisesPageClient({ collection }: { collection: CruiseCo
                     <span className="ml-2 text-base font-bold text-gray-400">{country.count}</span>
                   </h2>
                   <Link
-                    href={`/${country.slug}`}
+                    href={topCityPath(country)}
                     className="flex items-center gap-1 text-[#10B981] font-bold text-sm hover:underline"
                   >
-                    All {country.name} tours <ChevronRight size={16} />
+                    More {country.name} tours <ChevronRight size={16} />
                   </Link>
                 </div>
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
