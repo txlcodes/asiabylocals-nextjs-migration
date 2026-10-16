@@ -13408,6 +13408,21 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "angkor-sunrise-bike-tour-and-evening-foodie-full-d": {
+  "title": "Fahrrad-Sonnenaufgangstour zu Angkor und kulinarischer Abend, Ganztagestour",
+  "metaTitle": "Fahrrad-Sonnenaufgangstour zu Angkor und kulinarischer Abend,",
+  "shortDescription": "Tour in Siem Reap, mit Krong Siem Reap, Angkor Wat und Local restaurant and Bayon Temple. Direkt gebucht bei Siem Reaper Travel, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Eine Tour halbtaegige ab Siem Reap, die Krong Siem Reap, Angkor Wat und Local restaurant and Bayon Temple besucht. Es gibt insgesamt 8 Stopps, sodass der Tag gut ausgefuellt ist, statt lange Luecken zwischen zwei oder drei Hoehepunkten zu lassen.\n\nDer Sonnenaufgang bei Angkor Wat wird vom Rand des noerdlichen Spiegelteichs aus beobachtet, wo die fuenf Tuerme schwarz gegen den Himmel aufsteigen und sich dann im Wasser verdoppeln. Die Kasse oeffnet um 04:30 Uhr und Angkor Wat laesst Besucher ab 05:00 Uhr ein, deshalb starten Touren gegen 04:30 Uhr in Siem Reap fuer eine zwanzigminuetige Fahrt; der Himmel faerbt sich, bevor die Sonne ueber die Tuerme steigt, sodass eine Ankunft im ersten Licht fuer das Beste schon zu spaet ist. Die Trockenzeit von November bis Maerz bietet die klarsten Himmel, waehrend der Regen Wolken bringt, die den Sonnenaufgang entweder zerstoeren oder erst recht schoen machen koennen. Der Teichrand fuellt sich frueh, der suedliche Teich ist meist ruhiger, und ein Guide, der weiss, auf welcher Seite man stehen sollte, macht den Unterschied zwischen einem Foto und einer Wand erhobener Handys.\n\nIm Preis enthalten sind Abholung und Rueckfahrt zum Hotel, englischsprachiger Guide und Fahrrad und Helm. Nicht enthalten sind Tempel-Ticket und persoenliche Ausgaben, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDer Preis steigt mit der Gruppengroesse, statt sich zu multiplizieren: 1 Reisender kostet 59 $, 5 kosten 254 $ und 8 kosten 406 $. Der angegebene Preis ist der Gesamtpreis fuer Ihre Gruppe, kein Preis pro Kopf.\n\nSiem Reaper Travel fuehrt es durch. Wir buchen direkt mit ihnen, sodass der Guide, der Sie trifft, fuer den Anbieter arbeitet und nicht fuer einen Wiederverkaeufer.",
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel",
+   "englischsprachiger Guide",
+   "Fahrrad und Helm"
+  ],
+  "notIncluded": [
+   "Tempel-Ticket",
+   "persoenliche Ausgaben"
+  ]
+ },
  "siem-reab-airport-pickup-and-the-customized-trip-a": {
   "title": "Abholung am Flughafen Siem Reap und individuelle Tour nach der Ankunft",
   "metaTitle": "Abholung am Flughafen Siem Reap und individuelle Tour nach der",
@@ -13453,6 +13468,22 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "alle Eintrittsgebuehren",
    "Mahlzeiten"
+  ]
+ },
+ "angkor-wat-and-ta-prohm-half-day-afternoon-tour": {
+  "title": "Halbtages-Nachmittagstour zu Angkor Wat und Ta Prohm",
+  "metaTitle": "Halbtages-Nachmittagstour zu Angkor Wat und Ta Prohm",
+  "shortDescription": "Tour in Siem Reap, mit Krong Siem Reap, Angkor Wat, Ta Prohm Temple und Angkor Wat and Bayon Temple. Direkt gebucht bei Private Siem Reap Tour Guide & Transport, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Eine Tour halbtaegige ab Siem Reap, die Krong Siem Reap, Angkor Wat, Ta Prohm Temple und Angkor Wat and Bayon Temple besucht.\n\nAngkor Wat wurde in der ersten Haelfte des 12. Jahrhunderts von Suryavarman II als hinduistischer Tempel fuer Vishnu errichtet, spaeter buddhistisch genutzt, und ist mit rund 162 Hektar innerhalb seines Grabens das groesste religioese Monument der Welt. Im Gegensatz zu fast jedem anderen Khmer-Tempel ist er nach Westen ausgerichtet. Die aeussere Galerie traegt etwa 600 Meter Flachrelief, darunter das Buttern des Milchozeans, und die zentralen Tuerme stellen den Berg Meru dar. Auf der oberen Ebene gilt eine tatsaechlich durchgesetzte Kleiderordnung: Schultern und Knie bedeckt, keine Unterhemden, sonst werden Sie an der Treppe zurueckgewiesen. Ein Angkor Pass ist erforderlich und kostet 37 USD fuer einen Tag, 62 fuer drei und 72 fuer sieben, nur ueber Angkor Enterprise erhaeltlich; unter 12-Jaehrige sind mit Pass kostenlos.\n\nIm Preis enthalten sind englischsprachiger Reisefuehrer, Abholung und Rueckfahrt und komfortables Tuk-Tuk. Nicht enthalten sind Angkor-Tempel-Pass, persoenliche Ausgaben und Trinkgelder (empfohlen), das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDer Preis steigt mit der Gruppengroesse, statt sich zu multiplizieren: 1 Reisender kostet 115 $, 5 kosten 286 $ und 8 kosten 458 $. Der angegebene Preis ist der Gesamtpreis fuer Ihre Gruppe, kein Preis pro Kopf.\n\nPrivate Siem Reap Tour Guide & Transport fuehrt es durch. Wir buchen direkt mit ihnen, sodass der Guide, der Sie trifft, fuer den Anbieter arbeitet und nicht fuer einen Wiederverkaeufer.",
+  "included": [
+   "englischsprachiger Reisefuehrer",
+   "Abholung und Rueckfahrt",
+   "komfortables Tuk-Tuk"
+  ],
+  "notIncluded": [
+   "Angkor-Tempel-Pass",
+   "persoenliche Ausgaben",
+   "Trinkgelder (empfohlen)"
   ]
  },
  "from-siem-reap-banteay-chhmar-and-banteay-toap-day": {
@@ -13956,6 +13987,21 @@ export const DE_TOURS: Record<string, TourT> = {
    "persoenliche Ausgaben",
    "Wein",
    "persoenliche Ausgaben"
+  ]
+ },
+ "battambang-private-full-day-tour-pick-up-from-siem": {
+  "title": "Private Ganztagestour nach Battambang, Abholung ab Siem Reap",
+  "metaTitle": "Private Ganztagestour nach Battambang, Abholung ab Siem Reap",
+  "shortDescription": "Tour in Siem Reap, mit Krong Siem Reap. Direkt gebucht bei Cambo Tours Services, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Eine Tour ganztaegige ab Siem Reap, die Krong Siem Reap besucht.\n\nBattambang ist Kambodschas zweite Stadt und die ruhigste von ihnen, eine Flussstadt mit franzoesischen Shophouses etwa drei Stunden von Siem Reap entfernt. Der Bambuszug, der Norry, ist eine Bambusplattform auf Raedern, angetrieben von einem kleinen Motor auf einer einzigen Schiene; wenn sich zwei treffen, wird der leichtere von Hand von den Gleisen gehoben. Die urspruengliche Strecke bei O Dambong wurde durch eine eigens gebaute Touristenstrecke bei Banan ersetzt. In der Dunkelheit stroemen Millionen faltenlippiger Fledermaeuse etwa eine halbe Stunde lang in einem ununterbrochenen Band aus einer Felshoehle am Phnom Sampeau, und derselbe Huegel trägt ein Mahnmal fuer eine Toetungshoehle aus den Jahren der Roten Khmer.\n\nIm Preis enthalten sind Abholung und Rueckfahrt zum Hotel, Fahrt mit dem Bambuszug und alle Eintrittskarten. Nicht enthalten sind Getraenke und persoenliche Einkaeufe und persoenliche Ausgaben und Trinkgelder, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDer Preis steigt mit der Gruppengroesse, statt sich zu multiplizieren: 1 Reisender kostet 439 $, 5 kosten 1,162 $ und 8 kosten 1,859 $. Der angegebene Preis ist der Gesamtpreis fuer Ihre Gruppe, kein Preis pro Kopf.\n\nCambo Tours Services fuehrt es durch. Wir buchen direkt mit ihnen, sodass der Guide, der Sie trifft, fuer den Anbieter arbeitet und nicht fuer einen Wiederverkaeufer.",
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel",
+   "Fahrt mit dem Bambuszug",
+   "alle Eintrittskarten"
+  ],
+  "notIncluded": [
+   "Getraenke und persoenliche Einkaeufe",
+   "persoenliche Ausgaben und Trinkgelder"
   ]
  },
  "private-angkor-wat-sunset-tour-german-speaking-gui": {
@@ -14549,6 +14595,22 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "angkor-wat-temple-group-tours-experience": {
+  "title": "Gruppentour-Erlebnis zum Angkor-Wat-Tempel",
+  "metaTitle": "Gruppentour-Erlebnis zum Angkor-Wat-Tempel",
+  "shortDescription": "Tour in Siem Reap, mit 9V42+8CW, Angkor Thom und Bayon Temple and Baphuon. Direkt gebucht bei Bayontabi tour, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Eine Tour ganztaegige ab Siem Reap, die 9V42+8CW, Angkor Thom und Bayon Temple and Baphuon besucht. Es gibt insgesamt 9 Stopps, sodass der Tag gut ausgefuellt ist, statt lange Luecken zwischen zwei oder drei Hoehepunkten zu lassen.\n\nAngkor Wat wurde in der ersten Haelfte des 12. Jahrhunderts von Suryavarman II als hinduistischer Tempel fuer Vishnu errichtet, spaeter buddhistisch genutzt, und ist mit rund 162 Hektar innerhalb seines Grabens das groesste religioese Monument der Welt. Im Gegensatz zu fast jedem anderen Khmer-Tempel ist er nach Westen ausgerichtet. Die aeussere Galerie traegt etwa 600 Meter Flachrelief, darunter das Buttern des Milchozeans, und die zentralen Tuerme stellen den Berg Meru dar. Auf der oberen Ebene gilt eine tatsaechlich durchgesetzte Kleiderordnung: Schultern und Knie bedeckt, keine Unterhemden, sonst werden Sie an der Treppe zurueckgewiesen. Ein Angkor Pass ist erforderlich und kostet 37 USD fuer einen Tag, 62 fuer drei und 72 fuer sieben, nur ueber Angkor Enterprise erhaeltlich; unter 12-Jaehrige sind mit Pass kostenlos.\n\nIm Preis enthalten sind Transport mit dem Auto, Reisefuehrer und kuehles Wasser. Nicht enthalten sind Eintrittsgebuehr, Trinkgeld und Mahlzeit, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDer Preis steigt mit der Gruppengroesse, statt sich zu multiplizieren: 1 Reisender kostet 156 $, 5 kosten 260 $ und 8 kosten 416 $. Der angegebene Preis ist der Gesamtpreis fuer Ihre Gruppe, kein Preis pro Kopf.\n\nBayontabi tour fuehrt es durch. Wir buchen direkt mit ihnen, sodass der Guide, der Sie trifft, fuer den Anbieter arbeitet und nicht fuer einen Wiederverkaeufer.",
+  "included": [
+   "Transport mit dem Auto",
+   "Reisefuehrer",
+   "kuehles Wasser"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehr",
+   "Trinkgeld",
+   "Mahlzeit"
+  ]
+ },
  "one-day-angkor-wat-trip-with-sunset-on-bakheng": {
   "title": "Eintagestour zu Angkor Wat mit Sonnenuntergang auf dem Bakheng-Huegel",
   "metaTitle": "Eintagestour zu Angkor Wat mit Sonnenuntergang auf dem",
@@ -14815,6 +14877,21 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten",
    "persoenliche Ausgaben",
    "alles, was ueber die oben genannten Leistungen hinausgeht"
+  ]
+ },
+ "apsara-indulgence-4hands-aromatherapy-massages": {
+  "title": "Apsara-Verwoehnprogramm, 4-Haende-Aromatherapie-Massage",
+  "metaTitle": "Apsara-Verwoehnprogramm, 4-Haende-Aromatherapie-Massage",
+  "shortDescription": "Tour in Siem Reap, mit Willkommensgetraenk und erfrischendes Handtuch bei Ankunft, authentische Khmer- oder Aromatherapie-Massage und kostenloser Kraeutertee nach Ihrer Behandlung. Direkt gebucht bei BODIA SPA, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 1-stuendiges Erlebnis in Siem Reap. Es wird von BODIA SPA durchgefuehrt, einem Anbieter, bei dem wir direkt buchen statt ueber einen Wiederverkaeufer, weshalb wir Ihren Platz reservieren koennen, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDer Apsara-Tanz hat seinen Namen und seine Posen von den himmlischen Taenzerinnen, die zu Tausenden auf den Angkor-Mauern geschnitzt sind, und die klassische Form wurde nach den Jahren der Roten Khmer aus der Handvoll ueberlebender Lehrer wieder aufgebaut. Die Handpositionen bilden ein festes Vokabular, jede mit eigener Bedeutung, und die Finger einer ausgebildeten Taenzerin biegen sich weiter zurueck, als moeglich scheint, weil das Training im Kindesalter beginnt. Die meisten Shows in Siem Reap kommen mit einem Buffet; die ernsten Auffuehrungen sind kuerzer und werden einzeln verkauft. Phare, der kambodschanische Zirkus, ist eine ganz andere Sache, eine Schule in Battambang, die Kinder aus schwierigen Verhaeltnissen aufnimmt und modernes akrobatisches Theater ueber das kambodschanische Leben auffuehrt.\n\nIm Preis enthalten sind Willkommensgetraenk und erfrischendes Handtuch bei Ankunft, authentische Khmer- oder Aromatherapie-Massage und kostenloser Kraeutertee nach Ihrer Behandlung. Nicht enthalten sind Transport zum und vom Spa, sofern nicht anders angegeben und zusaetzliche Behandlungen, die nicht im gewaehlten Paket enthalten sind, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.",
+  "included": [
+   "Willkommensgetraenk und erfrischendes Handtuch bei Ankunft",
+   "authentische Khmer- oder Aromatherapie-Massage",
+   "kostenloser Kraeutertee nach Ihrer Behandlung"
+  ],
+  "notIncluded": [
+   "Transport zum und vom Spa, sofern nicht anders angegeben",
+   "zusaetzliche Behandlungen, die nicht im gewaehlten Paket enthalten sind"
   ]
  },
  "full-day-tuk-tuk-tour-of-angkor-wat-temples": {
@@ -15165,6 +15242,23 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Mahlzeiten (Mittagessen)",
    "Tempel-Eintrittskarte"
+  ]
+ },
+ "phnom-kulen-and-koh-ker-temple-private-tour": {
+  "title": "Private Tour zum Berg Kulen und zum Koh-Ker-Tempel",
+  "metaTitle": "Private Tour zum Berg Kulen und zum Koh-Ker-Tempel",
+  "shortDescription": "Tour in Siem Reap, mit privater klimatisierter Transport, professioneller privater Reisefuehrer und Abholung und Rueckfahrt. Direkt gebucht bei Golden Escape Cambodia, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 10-stuendiges Erlebnis in Siem Reap. Es wird von Golden Escape Cambodia durchgefuehrt, einem Anbieter, bei dem wir direkt buchen statt ueber einen Wiederverkaeufer, weshalb wir Ihren Platz reservieren koennen, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDie ausserhalb liegenden Tempel erfordern einen halben oder ganzen Tag Fahrt und belohnen das mit Leere. Beng Mealea, etwa 60 Kilometer oestlich, ist ein Tempel des 12. Jahrhunderts im Massstab von Angkor Wat, weitgehend unberaeumt gelassen, ueberquert auf Stegen ueber eingestuerzte Galerien. Koh Ker, zwei Stunden nordoestlich, war im 10. Jahrhundert kurzzeitig die Hauptstadt und besitzt Prasat Thom, eine siebenstufige Sandsteinpyramide von 36 Metern Hoehe, die man ueber eine Holztreppe besteigen kann. Sambor Prei Kuk, 2017 von der UNESCO gelistet, ist aelter als Angkor selbst, vorangkorianische Backsteintuerme, die im Wald stehen. Einige dieser Staetten haben einen eigenen, separaten Eintritt zusaetzlich zum Angkor Pass.\n\nIm Preis enthalten sind privater klimatisierter Transport, professioneller privater Reisefuehrer und Abholung und Rueckfahrt. Nicht enthalten sind Essen, alle Eintrittsgebuehren, Getraenk und Trinkgeld, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDie Abholung wird ab Siem Reap Province and Krong Siem Reap angeboten; der genaue Ort und die Uhrzeit werden nach Bestaetigung der Buchung mit Golden Escape Cambodia vereinbart, und die gewaehlte Option bestimmt, ob der Transport enthalten ist.",
+  "included": [
+   "privater klimatisierter Transport",
+   "professioneller privater Reisefuehrer",
+   "Abholung und Rueckfahrt"
+  ],
+  "notIncluded": [
+   "Essen",
+   "alle Eintrittsgebuehren",
+   "Getraenk",
+   "Trinkgeld"
   ]
  },
  "angkor-wat-sunrise-or-sunset-34-hour-guided-tour": {
