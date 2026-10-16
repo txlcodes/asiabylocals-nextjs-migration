@@ -854,13 +854,17 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
   // SEO meta tags and JSON-LD are handled by the server component (generateMetadata)
 
   // Generate dates for next 7 days
+  // The next 7 dates a guest can actually book: same lead-time and closure rules
+  // as the calendar grid, otherwise a quick-select chip offers a sold-out day.
   const getAvailableDates = () => {
-    const dates = [];
-    const today = new Date();
-    for (let i = 0; i < 7; i++) {
-      const date = new Date(today);
-      date.setDate(today.getDate() + i);
-      dates.push(date);
+    const dates: Date[] = [];
+    const cursor = new Date(earliestBookable);
+    cursor.setHours(0, 0, 0, 0);
+    for (let i = 0; i < 60 && dates.length < 7; i++) {
+      const date = new Date(cursor);
+      date.setDate(cursor.getDate() + i);
+      const dateString = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`;
+      if (!isBlockedDate(date, dateString)) dates.push(date);
     }
     return dates;
   };
