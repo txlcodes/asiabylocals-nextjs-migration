@@ -144875,6 +144875,262 @@ export const ES_TOURS: Record<string, TourT> = {
    "tarifas de entrada a atracciones"
   ]
  },
+ "desert-tour-by-atvbuggy-self-drive-vip-dinner-came": {
+  "title": "Tour por el desierto en ATV/buggy de conduccion libre, cena VIP, paseo en camello",
+  "metaTitle": "ATV buggy desierto cena VIP",
+  "metaDescription": "Un dia completo desde Dubai visitando el desierto de Lahbab y Al Aweer, con conquista de dunas rojas en ATV o buggy.",
+  "shortDescription": "Un dia completo desde Dubai visitando el desierto de Lahbab y Al Aweer, con conquista de dunas rojas en ATV o buggy de conduccion libre, cena VIP y paseo en camello.",
+  "fullDescription": "Este tour le permite conquistar las dunas rojas de Lahbab en un emocionante ATV o buggy de conduccion libre. Comienza en el desierto de Lahbab durante dos horas, y continua hacia Al Aweer, la parada mas larga con aproximadamente cuatro horas en el lugar.\n\nEl precio incluye recogida y regreso al hotel en vehiculo con aire acondicionado, un paseo de 45 minutos en ATV o buggy de conduccion libre a traves de las dunas rojas de Lahbab (si se selecciona esta opcion), asistencia de un instructor experimentado, y una breve experiencia de paseo en camello. Alimentacion de camellos y oportunidad de selfie, sandboard en las dunas rojas, parada fotografica al atardecer, agua mineral fresca y bebidas no alcoholicas ilimitadas, cafe arabe, datiles y dulces Gaymat, un tatuaje de henna para las damas, una experiencia fotografica con un halcon, y vestimenta arabe tradicional para fotos completan el tour.\n\nOperado por Joyful Adventure, este tour cuenta con dos paradas en total.",
+  "highlights": [
+   "Conquistar las dunas rojas de Lahbab en un emocionante ATV o buggy de conduccion libre",
+   "Breve paseo en camello y alimentacion",
+   "Sandboard en las dunas rojas",
+   "Cena VIP con cafe arabe, datiles y dulces Gaymat",
+   "Vestimenta arabe tradicional para fotos"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en vehiculo con aire acondicionado",
+   "paseo de 45 minutos en ATV o buggy de conduccion libre a traves de las dunas rojas de Lahbab (si se selecciona esta opcion)",
+   "asistencia de un instructor experimentado",
+   "breve experiencia de paseo en camello",
+   "alimentacion de camellos y oportunidad de selfie",
+   "sandboard en las dunas rojas",
+   "parada fotografica al atardecer",
+   "agua mineral fresca y bebidas no alcoholicas ilimitadas",
+   "cafe arabe, datiles y dulces Gaymat",
+   "tatuaje de henna para las damas",
+   "experiencia fotografica con un halcon",
+   "vestimenta arabe tradicional para fotos"
+  ],
+  "notIncluded": [
+   "Bebidas alcoholicas",
+   "propinas",
+   "cualquier gasto personal o servicio no mencionado especificamente en las inclusiones",
+   "la opcion de cena 5 estrellas con dune bashing no incluye quad ni buggy, estos pueden agregarse a su paquete en el lugar"
+  ]
+ },
+ "from-dubai-abu-dhabi-tour-with-sheikh-zayed-mosque": {
+  "title": "Desde Dubai: tour de Abu Dabi con la mezquita Sheikh Zayed",
+  "metaTitle": "Abu Dabi y mezquita Sheikh Zayed",
+  "metaDescription": "Un dia completo desde Abu Dabi visitando Abu Dabi, la mezquita Sheikh Zayed y el Pueblo del Patrimonio.",
+  "shortDescription": "Un dia completo desde Abu Dabi visitando Abu Dabi, la mezquita Sheikh Zayed, el Pueblo del Patrimonio y el Palacio Emirates.",
+  "fullDescription": "Este tour le permite admirar la arquitectura innovadora de Abu Dabi en un tour turistico. Comienza en Abu Dabi, continua hacia la mezquita Sheikh Zayed, el Pueblo del Patrimonio de Abu Dabi durante 20 minutos, el Palacio Emirates, y el Marina Mall durante 30 minutos.\n\nEl precio incluye recogida y regreso practicos desde su ubicacion en Dubai, un viaje confortable en un vehiculo moderno y con aire acondicionado, una visita guiada a la Gran Mezquita Sheikh Zayed, una obra maestra cultural, y un trayecto panoramico pasando por el Memorial del Fundador, en honor al padre fundador de los Emiratos. Una oportunidad fotografica en el Louvre Abu Dabi con su arquitectura llamativa, una parada fotografica en Ferrari World en la isla de Yas, y una parada fotografica a lo largo de la Corniche de Abu Dabi completan el tour, junto con un guia turistico autorizado y conocedor, uso gratuito de una abaya y un pañuelo para las mujeres, y agua mineral refrescante.\n\nOperado por OceanAir Travels, este tour cuenta con siete paradas en total.",
+  "highlights": [
+   "Admirar la arquitectura innovadora de Abu Dabi en un tour turistico",
+   "Visita guiada a la Gran Mezquita Sheikh Zayed",
+   "Trayecto panoramico pasando por el Memorial del Fundador",
+   "Oportunidad fotografica en el Louvre Abu Dabi",
+   "Parada fotografica en Ferrari World en la isla de Yas"
+  ],
+  "included": [
+   "Recogida y regreso practicos desde su ubicacion en Dubai",
+   "viaje confortable en un vehiculo moderno y con aire acondicionado",
+   "visita guiada a la Gran Mezquita Sheikh Zayed",
+   "trayecto panoramico pasando por el Memorial del Fundador",
+   "oportunidad fotografica en el Louvre Abu Dabi",
+   "parada fotografica en Ferrari World en la isla de Yas",
+   "parada fotografica a lo largo de la Corniche de Abu Dabi",
+   "guia turistico autorizado y conocedor",
+   "uso gratuito de una abaya y un pañuelo para las mujeres",
+   "agua mineral refrescante"
+  ],
+  "notIncluded": [
+   "Ropa de cobertura adicional para hombres",
+   "almuerzo"
+  ]
+ },
+ "dubai-ski-dubai-2-hour-or-full-day-slope": {
+  "title": "Dubai: Ski Dubai, sesion de 2 horas o pista de dia completo",
+  "metaTitle": "Ski Dubai pista",
+  "metaDescription": "Una experiencia de dos horas en Dubai para sentir la emocion de una aventura de esqui y snowboard.",
+  "shortDescription": "Una experiencia de dos horas en Dubai para sentir la emocion de una aventura de esqui y snowboard, con equipo de invierno incluido.",
+  "fullDescription": "Esta experiencia le permite sentir la emocion de una aventura de esqui y snowboard. El precio incluye un pase de pista de dos horas o de dia completo con entradas multiples (con pulsera), el equipo de invierno incluido (pantalon de esqui, chaqueta, calcetines desechables, botas, esquis o snowboard, y bastones) de la talla S a 4XL, guantes polares gratuitos (si se elige la opcion de dia completo, de lo contrario disponibles para comprar en la tienda del lugar), y un casillero.\n\nEsta experiencia se puede cancelar de forma gratuita y cubre cuatro elementos en total.",
+  "highlights": [
+   "Sentir la emocion de una aventura de esqui y snowboard"
+  ],
+  "included": [
+   "Pase de pista de dos horas o de dia completo con entradas multiples (con pulsera)",
+   "equipo de invierno incluido (pantalon de esqui, chaqueta, calcetines desechables, botas, esquis o snowboard, y bastones) de la talla S a 4XL",
+   "guantes polares gratuitos (si se elige la opcion de dia completo, de lo contrario disponibles para comprar en la tienda del lugar)",
+   "casillero"
+  ],
+  "notIncluded": [
+   "Gorros",
+   "comida y bebidas",
+   "acceso al parque de nieve",
+   "encuentro con pinguinos y desayuno con los pinguinos"
+  ]
+ },
+ "dubai-hot-air-balloon-with-quad-bike-camel-ride": {
+  "title": "Dubai: globo aerostatico con cuatrimoto y paseo en camello",
+  "metaTitle": "Globo aerostatico cuatrimoto y camello",
+  "metaDescription": "Media jornada en Dubai para vivir una aventurera experiencia de vuelo en globo aerostatico, de hasta 60 minutos.",
+  "shortDescription": "Media jornada en Dubai para vivir una aventurera experiencia de vuelo en globo aerostatico, de hasta 60 minutos, con cuatrimoto y paseo en camello.",
+  "fullDescription": "Esta experiencia le permite vivir una aventurera experiencia de vuelo en globo aerostatico, de hasta 60 minutos. El precio incluye un traslado de regreso al hotel en vehiculo compartido, el vuelo en globo aerostatico, refrescos ilimitados (te, cafe, datiles), y un desayuno buffet exotico en el campamento.\n\nUn paseo en camello, una cuatrimoto durante 30 minutos, una experiencia de tiro con arco, acceso a un majlis arabe, y un certificado de vuelo firmado por el piloto completan la experiencia.\n\nOperado por Balloon Flights, esta experiencia se puede cancelar de forma gratuita y cubre nueve elementos en total. No incluye fotos y videos disponibles con cargo adicional en el lugar, fotografia con un halcon, ni gastos personales para compras, bebidas y comidas en el lugar durante el tour.",
+  "highlights": [
+   "Vivir una aventurera experiencia de vuelo en globo aerostatico, de hasta 60 minutos",
+   "Cuatrimoto de 350 cc durante 30 minutos",
+   "Paseo en camello",
+   "Experiencia de tiro con arco",
+   "Acceso a un majlis arabe"
+  ],
+  "included": [
+   "Traslado de regreso al hotel en vehiculo compartido",
+   "aventurera experiencia de vuelo en globo aerostatico de hasta 60 minutos",
+   "refrescos ilimitados (te, cafe, datiles)",
+   "desayuno buffet exotico en el campamento",
+   "paseo en camello",
+   "cuatrimoto 350 cc (30 minutos)",
+   "experiencia de tiro con arco",
+   "acceso a un majlis arabe",
+   "certificado de vuelo firmado por el piloto"
+  ],
+  "notIncluded": [
+   "Fotos y videos disponibles con cargo adicional en el lugar",
+   "fotografia con un halcon",
+   "todo gasto personal para compras, bebidas y comidas en el lugar durante el tour"
+  ]
+ },
+ "dubai-hot-air-balloon-flight-with-transfers-refres": {
+  "title": "Dubai: vuelo en globo aerostatico con traslados y refrescos",
+  "metaTitle": "Globo aerostatico con traslados",
+  "metaDescription": "Media jornada desde Dubai para vivir el viaje a 4000 pies en el aire en globo aerostatico.",
+  "shortDescription": "Media jornada desde Dubai para vivir el viaje en globo aerostatico, con traslados y refrescos.",
+  "fullDescription": "Esta experiencia le permite vivir el viaje en globo aerostatico. Comienza con un trayecto de una hora en jeep o SUV, la parada mas larga con aproximadamente una hora en el lugar, y continua hacia Dubai durante 30 minutos, y Dubai nuevamente durante una hora.\n\nEl precio incluye los traslados de regreso al hotel en vehiculo compartido, un refresco matutino de te, cafe, kava y datiles, la aventurera experiencia de vuelo en globo aerostatico, y un breve paseo en camello. Un certificado de vuelo firmado por el piloto completa la experiencia.\n\nOperado por Dubai Ballooning, esta experiencia cuenta con tres paradas en total y no incluye la fotografia y videos disponibles con cargo adicional en el lugar ni la fotografia con un halcon.",
+  "highlights": [
+   "Vivir el viaje a 4000 pies en el aire en globo aerostatico",
+   "Traslados de regreso al hotel en vehiculo compartido",
+   "Refresco matutino de te, cafe, kava y datiles",
+   "Breve paseo en camello",
+   "Certificado de vuelo firmado por el piloto"
+  ],
+  "included": [
+   "Traslados de regreso al hotel en vehiculo compartido",
+   "refresco matutino de te, cafe, kava y datiles",
+   "aventurera experiencia de vuelo en globo aerostatico",
+   "breve paseo en camello",
+   "certificado de vuelo firmado por el piloto"
+  ],
+  "notIncluded": [
+   "Fotografia y videos disponibles con cargo adicional en el lugar",
+   "fotografia con un halcon"
+  ]
+ },
+ "dubai-hot-air-balloon-camel-ride-desert-safari-mor": {
+  "title": "Dubai: globo aerostatico, paseo en camello, safari por el desierto y mas",
+  "metaTitle": "Globo aerostatico, camello y safari",
+  "metaDescription": "Media jornada desde Dubai para admirar el maravilloso amanecer en el cielo a mas de 4000 pies sobre el suelo.",
+  "shortDescription": "Media jornada desde Dubai para admirar el maravilloso amanecer en el cielo, con globo aerostatico, camello y safari.",
+  "fullDescription": "Esta experiencia le permite admirar el maravilloso amanecer en el cielo sobre el suelo. Comienza con un trayecto de 45 minutos en jeep o SUV, luego llega a las instalaciones de Sindbad Gulf Balloons durante una hora, seguido de la reserva de conservacion del desierto de Dubai, la parada mas larga con aproximadamente una hora en el lugar.\n\nEl precio incluye recogida y regreso en Dubai, refrescos de bienvenida, te, cafe y agua, un vuelo en globo aerostatico al amanecer de 40 a 70 minutos (segun las condiciones climaticas), y un desayuno buffet tras el aterrizaje en el campamento beduino. Un breve paseo en cuatrimoto, dune bashing matutino, un breve paseo en camello, fotos de cetreria, y un certificado de vuelo electronico completan la experiencia.\n\nOperado por Sindbad Gulf Balloons CO LLC, esta experiencia cuenta con tres paradas en total y no incluye el video del vuelo (200 AED), el recargo por doble peso superior a 120 kg por persona, ni la recogida privada disponible con cargo adicional.",
+  "highlights": [
+   "Admirar el maravilloso amanecer en el cielo a mas de 4000 pies sobre el suelo",
+   "Desayuno buffet tras el aterrizaje en el campamento beduino",
+   "Breve paseo en cuatrimoto y dune bashing matutino",
+   "Breve paseo en camello",
+   "Fotos de cetreria y certificado de vuelo electronico"
+  ],
+  "included": [
+   "Recogida y regreso en Dubai",
+   "refrescos de bienvenida, te, cafe y agua",
+   "vuelo en globo aerostatico al amanecer de 40 a 70 minutos (segun las condiciones climaticas)",
+   "desayuno buffet tras el aterrizaje en el campamento beduino",
+   "breve paseo en cuatrimoto",
+   "dune bashing matutino",
+   "breve paseo en camello",
+   "fotos de cetreria",
+   "certificado de vuelo electronico"
+  ],
+  "notIncluded": [
+   "Video del vuelo (200 AED)",
+   "recargo por doble peso superior a 120 kg por persona",
+   "recogida privada (disponible con cargo adicional)",
+   "recogida desde Abu Dabi, Al-Ain, Ras Al-Khaimah, Bab Al Shams o Jebel Ali (disponible con cargo adicional)"
+  ]
+ },
+ "sunrise-serenity-desert-walk-abu-dhabi": {
+  "title": "Caminata serena al amanecer por el desierto, Abu Dabi",
+  "metaTitle": "Caminata desierto amanecer Abu Dabi",
+  "metaDescription": "Media jornada desde Abu Dabi visitando Al Khaznah y el desierto de Al Khatim, para sentir la brisa fresca de la mañana.",
+  "shortDescription": "Media jornada desde Abu Dabi visitando Al Khaznah y el desierto de Al Khatim, para sentir la brisa fresca de la mañana mientras observa el amanecer sobre el desierto.",
+  "fullDescription": "Esta excursion le permite sentir la brisa fresca de la mañana mientras observa el amanecer sobre el desierto. Comienza en Al Khaznah durante 40 minutos, continua hacia el desierto de Al Khatim durante 40 minutos, seguido de 30 minutos, y 20 minutos adicionales en el mismo lugar.\n\nEl precio incluye recogida y regreso al hotel o residencia, un comodo vehiculo 4x4 (Land Cruiser) para el traslado hacia y desde el desierto, y una caminata guiada por el desierto. Refrescos, te o cafe arabe, datiles, agua potable, un desayuno ligero (continental sencillo o ingles servido en el escenario del desierto), y un breve trayecto panoramico con paradas fotograficas en miradores completan la excursion.\n\nOperado por Desert Rose Tourism LLC L.L.C Dubai Branch, esta excursion cobra el mismo precio de 968 $ para uno o dos viajeros, ya que se tarifica por grupo.",
+  "highlights": [
+   "Sentir la brisa fresca de la mañana mientras observa el amanecer sobre el desierto",
+   "Caminata guiada por el desierto",
+   "Refrescos, te o cafe arabe y datiles",
+   "Desayuno ligero servido en el desierto",
+   "Breve trayecto panoramico con paradas fotograficas"
+  ],
+  "included": [
+   "Recogida y regreso al hotel o residencia",
+   "comodo vehiculo 4x4 (Land Cruiser) para el traslado hacia y desde el desierto",
+   "caminata guiada por el desierto",
+   "refrescos",
+   "te o cafe arabe",
+   "datiles",
+   "agua potable",
+   "desayuno ligero (continental sencillo o ingles servido en el escenario del desierto)",
+   "breve trayecto panoramico",
+   "paradas fotograficas en miradores"
+  ],
+  "notIncluded": [
+   "Cualquier actividad de aventura extrema (dune bashing, cuatrimoto, etc.)",
+   "gastos personales o recuerdos",
+   "todo lo que no se menciona en las inclusiones"
+  ]
+ },
+ "dubai-e-foil-experience-at-five-palm": {
+  "title": "Dubai: experiencia de e-foil en Five Palm",
+  "metaTitle": "E-foil Five Palm Dubai",
+  "metaDescription": "Una experiencia de treinta minutos en Dubai para volar sobre el mar turquesa en un hidroala electrico en Five Palm Jumeirah.",
+  "shortDescription": "Una experiencia de treinta minutos en Dubai para volar sobre el mar turquesa en un hidroala electrico en Five Palm Jumeirah, con instructores certificados.",
+  "fullDescription": "Esta experiencia le permite volar sobre el mar turquesa de Dubai en un hidroala electrico e-foil en Five Palm Jumeirah. El precio incluye el alquiler de la tabla de hidroala electrica para una experiencia de vuelo inolvidable sobre las aguas cristalinas de Dubai, una sesion informativa de seguridad y una sesion de entrenamiento de equilibrio personalizada dirigida por los instructores certificados de Waterlink en la playa de Five Palm Jumeirah, entrenamiento profesional durante toda la sesion para dominar el control de velocidad, el equilibrio y las tecnicas de despegue suave, y un chaleco salvavidas, un casco y equipo de seguridad completo para su comodidad y proteccion durante todo el paseo.\n\nAcceso a las instalaciones del Waterlink Jet Center, incluyendo vestuario, duchas de agua dulce y casilleros, agua embotellada de cortesia y acceso a la playa antes y despues de la actividad, imagenes GoPro opcionales para capturar su vuelo sobre el mar, una eleccion entre sesiones de 30 o 60 minutos segun su nivel y preferencias, y un equipo de asistencia amigable en el lugar completan la experiencia.\n\nOperado por Waterlink, esta experiencia se puede cancelar de forma gratuita y cubre nueve elementos en total.",
+  "highlights": [
+   "Volar sobre el mar turquesa de Dubai en un hidroala electrico e-foil",
+   "Sesion informativa de seguridad y entrenamiento de equilibrio con instructores certificados",
+   "Entrenamiento profesional durante toda la sesion",
+   "Chaleco salvavidas, casco y equipo de seguridad completo",
+   "Eleccion entre sesiones de 30 o 60 minutos"
+  ],
+  "included": [
+   "Alquiler de tabla de hidroala electrica e-foil para una experiencia de vuelo inolvidable sobre las aguas cristalinas de Dubai",
+   "sesion informativa de seguridad y sesion de entrenamiento de equilibrio personalizada dirigida por los instructores certificados de Waterlink en la playa de Five Palm Jumeirah",
+   "entrenamiento profesional durante toda la sesion para dominar el control de velocidad, el equilibrio y las tecnicas de despegue suave",
+   "chaleco salvavidas, casco y equipo de seguridad completo para su comodidad y proteccion durante todo el paseo",
+   "acceso a las instalaciones del Waterlink Jet Center incluyendo vestuario, duchas de agua dulce y casilleros",
+   "agua embotellada de cortesia y acceso a la playa antes y despues de la actividad",
+   "imagenes GoPro opcionales para capturar su vuelo sobre el mar",
+   "eleccion entre sesiones de 30 o 60 minutos segun su nivel y preferencias",
+   "equipo de asistencia amigable en el lugar para acompañarle desde la llegada hasta el final de su sesion"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel no incluidos pero pueden organizarse a peticion con cargo adicional",
+   "toallas, traje de baño, protector solar y otros articulos personales no proporcionados, traiga los suyos",
+   "comida, bebidas y aperitivos no forman parte del paquete, hay refrescos disponibles para comprar en la playa de Five Palm Jumeirah",
+   "imagenes GoPro o servicios de fotografia profesional opcionales disponibles con cargo adicional",
+   "cualquier actividad acuatica adicional no especificada en su reserva, como motos de agua, jet-car o sesiones en yate, debe reservarse por separado",
+   "propinas para instructores o personal de asistencia no incluidas y quedan a su criterio",
+   "tarifas de estacionamiento en Five Palm Jumeirah no cubiertas por el proveedor de la actividad",
+   "cualquier gasto de naturaleza personal mas alla de la sesion de e-foil queda excluido"
+  ]
+ },
+ "dubai-dinner-in-the-sky-experience": {
+  "title": "Dubai: experiencia de cena en el cielo",
+  "metaTitle": "Cena en el cielo Dubai",
+  "metaDescription": "Una experiencia de una hora y media en Dubai para disfrutar de una comida de tres platos, suspendida a 50 metros sobre el suelo.",
+  "shortDescription": "Una experiencia de una hora y media en Dubai para disfrutar de una comida de tres platos, suspendida a 50 metros sobre el suelo.",
+  "fullDescription": "Esta experiencia le permite disfrutar de una comida de tres platos, suspendida a 50 metros sobre el suelo. El precio incluye el menu de tres platos, con la Opcion 1 ofreciendo una entrada de burrata italiana, un plato principal de costillas cortas de res Angus con arroz con acentos de Oriente Medio, y una esfera de chocolate con helado de postre, la Opcion 3 ofreciendo a elegir entre tortellini vegetarianos con salsa blanca o penne veganos con salsa roja, asi como jugos frescos y bebidas no alcoholicas.\n\nOperado por Dinner in the sky Dubai, esta experiencia se puede cancelar de forma gratuita y cubre cinco elementos en total, incluyendo cafe y te.",
+  "highlights": [
+   "Disfrutar de una comida de tres platos, suspendida a 50 metros sobre el suelo"
+  ],
+  "included": [
+   "Menu de tres platos",
+   "Opcion 1: costillas cortas de res Angus, con entrada de burrata italiana y esfera de chocolate con helado de postre",
+   "Opcion 3: tortellini vegetarianos o penne veganos",
+   "jugos frescos y bebidas no alcoholicas",
+   "cafe y te"
+  ],
+  "notIncluded": []
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
