@@ -23,6 +23,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '', '/explore', '/about-us', '/privacy-policy', '/terms-and-conditions',
     '/safety-guidelines', '/support', '/supplier',
     '/getyourguide-viator-alternative',
+    '/cruises-and-yachts',
     '/india', '/india/agra', '/india/delhi', '/india/jaipur',
     '/india/mumbai', '/india/udaipur', '/india/jodhpur', '/india/jaisalmer',
     '/india/bengaluru', '/india/varanasi', '/india/amritsar', '/india/goa',

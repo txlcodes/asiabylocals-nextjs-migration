@@ -473,6 +473,10 @@ export default function HomepageClient() {
                   </div>
                 </div>
               </div>
+
+              <Link href="/cruises-and-yachts" className="hover:text-[#10B981] transition-colors">
+                Cruises &amp; Yachts
+              </Link>
             </nav>
           </div>
 
@@ -518,6 +522,13 @@ export default function HomepageClient() {
             <span>{t.tripInspiration}</span>
             <ChevronRight size={14} className={`transition-transform ${showMobileInspirationDropdown ? 'rotate-90' : 'rotate-0'}`} />
           </button>
+
+          <Link
+            href="/cruises-and-yachts"
+            className="flex items-center px-4 py-2 rounded-full text-sm font-semibold bg-gray-100 text-[#001A33] hover:bg-gray-200 transition-all whitespace-nowrap"
+          >
+            Cruises &amp; Yachts
+          </Link>
         </div>
 
         {/* City Chips Row - Hidden on small mobile */}
