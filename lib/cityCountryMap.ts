@@ -152,6 +152,11 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'alula': { country: 'saudi-arabia', city: 'alula' },
   'mecca': { country: 'saudi-arabia', city: 'mecca' },
   'medina': { country: 'saudi-arabia', city: 'medina' },
+  'vang-vieng': { country: 'laos', city: 'vang-vieng' },
+  'nong-khiaw': { country: 'laos', city: 'nong-khiaw' },
+  'pakse': { country: 'laos', city: 'pakse' },
+  'champasak': { country: 'laos', city: 'champasak' },
+  'phonsavan': { country: 'laos', city: 'phonsavan' },
 };
 
 /**
