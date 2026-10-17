@@ -165,6 +165,9 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'tatev': { country: 'armenia', city: 'tatev' },
   'astana': { country: 'kazakhstan', city: 'astana' },
   'shymkent': { country: 'kazakhstan', city: 'shymkent' },
+  'sheki': { country: 'azerbaijan', city: 'sheki' },
+  'shamakhi': { country: 'azerbaijan', city: 'shamakhi' },
+  'quba': { country: 'azerbaijan', city: 'quba' },
 };
 
 /**
