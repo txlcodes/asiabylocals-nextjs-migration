@@ -140,6 +140,11 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'wadi-rum': { country: 'jordan', city: 'wadi-rum' },
   'madaba': { country: 'jordan', city: 'madaba' },
   'jerash': { country: 'jordan', city: 'jerash' },
+  'kutaisi': { country: 'georgia', city: 'kutaisi' },
+  'batumi': { country: 'georgia', city: 'batumi' },
+  'mestia': { country: 'georgia', city: 'mestia' },
+  'kazbegi': { country: 'georgia', city: 'kazbegi' },
+  'borjomi': { country: 'georgia', city: 'borjomi' },
 };
 
 /**
