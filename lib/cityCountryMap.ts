@@ -129,6 +129,13 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'ulaanbaatar': { country: 'mongolia', city: 'ulaanbaatar' },
   'baghdad': { country: 'iraq', city: 'baghdad' },
   'beirut': { country: 'lebanon', city: 'beirut' },
+  // Gap-fill 2026-10-17, from the GYG sitemap catalogue: Uzbekistan's main
+  // tourist cities had never been collected (only Tashkent was).
+  'samarkand': { country: 'uzbekistan', city: 'samarkand' },
+  'bukhara': { country: 'uzbekistan', city: 'bukhara' },
+  'khiva': { country: 'uzbekistan', city: 'khiva' },
+  'nukus': { country: 'uzbekistan', city: 'nukus' },
+  'fergana': { country: 'uzbekistan', city: 'fergana' },
 };
 
 /**
