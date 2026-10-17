@@ -157,6 +157,12 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'pakse': { country: 'laos', city: 'pakse' },
   'champasak': { country: 'laos', city: 'champasak' },
   'phonsavan': { country: 'laos', city: 'phonsavan' },
+  'gyumri': { country: 'armenia', city: 'gyumri' },
+  'dilijan': { country: 'armenia', city: 'dilijan' },
+  'garni': { country: 'armenia', city: 'garni' },
+  'areni': { country: 'armenia', city: 'areni' },
+  'sevan': { country: 'armenia', city: 'sevan' },
+  'tatev': { country: 'armenia', city: 'tatev' },
 };
 
 /**
