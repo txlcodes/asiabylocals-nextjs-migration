@@ -136,6 +136,10 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'khiva': { country: 'uzbekistan', city: 'khiva' },
   'nukus': { country: 'uzbekistan', city: 'nukus' },
   'fergana': { country: 'uzbekistan', city: 'fergana' },
+  'aqaba': { country: 'jordan', city: 'aqaba' },
+  'wadi-rum': { country: 'jordan', city: 'wadi-rum' },
+  'madaba': { country: 'jordan', city: 'madaba' },
+  'jerash': { country: 'jordan', city: 'jerash' },
 };
 
 /**
