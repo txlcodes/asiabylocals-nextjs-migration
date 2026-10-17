@@ -149,6 +149,9 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'nizwa': { country: 'oman', city: 'nizwa' },
   'mirbat': { country: 'oman', city: 'mirbat' },
   'khasab': { country: 'oman', city: 'khasab' },
+  'alula': { country: 'saudi-arabia', city: 'alula' },
+  'mecca': { country: 'saudi-arabia', city: 'mecca' },
+  'medina': { country: 'saudi-arabia', city: 'medina' },
 };
 
 /**
