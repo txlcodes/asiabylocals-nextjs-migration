@@ -145,6 +145,10 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'mestia': { country: 'georgia', city: 'mestia' },
   'kazbegi': { country: 'georgia', city: 'kazbegi' },
   'borjomi': { country: 'georgia', city: 'borjomi' },
+  'salalah': { country: 'oman', city: 'salalah' },
+  'nizwa': { country: 'oman', city: 'nizwa' },
+  'mirbat': { country: 'oman', city: 'mirbat' },
+  'khasab': { country: 'oman', city: 'khasab' },
 };
 
 /**
