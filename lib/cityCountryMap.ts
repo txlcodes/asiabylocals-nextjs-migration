@@ -163,6 +163,8 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'areni': { country: 'armenia', city: 'areni' },
   'sevan': { country: 'armenia', city: 'sevan' },
   'tatev': { country: 'armenia', city: 'tatev' },
+  'astana': { country: 'kazakhstan', city: 'astana' },
+  'shymkent': { country: 'kazakhstan', city: 'shymkent' },
 };
 
 /**
