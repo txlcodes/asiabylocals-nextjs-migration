@@ -168,6 +168,9 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'sheki': { country: 'azerbaijan', city: 'sheki' },
   'shamakhi': { country: 'azerbaijan', city: 'shamakhi' },
   'quba': { country: 'azerbaijan', city: 'quba' },
+  'eilat': { country: 'israel', city: 'eilat' },
+  'haifa': { country: 'israel', city: 'haifa' },
+  'nazareth': { country: 'israel', city: 'nazareth' },
 };
 
 /**
