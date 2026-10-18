@@ -21095,6 +21095,22 @@ export const FR_TOURS: Record<string, TourT> = {
    "frais d'entree aux attractions, le cas echeant"
   ]
  },
+ "siem-reap-circus-ticket-authentic-cambodian-folk-s": {
+  "title": "Billet de cirque a Siem Reap, spectacle folklorique cambodgien authentique",
+  "metaTitle": "Billet de cirque a Siem Reap, spectacle folklorique cambodgien",
+  "shortDescription": "Visite a Siem Reap, avec spectacle en direct de cirque khmer d'1 heure, entree au celebre chapiteau rouge du cirque et acces a la visite de la boutique Phare. Reservation directe aupres de Bayontabi tour, plutot que via un revendeur.",
+  "fullDescription": "Une experience de 1 heure a Siem Reap. L'operateur la resume ainsi : cirque khmer original sans numeros d'animaux.\n\nLe prix comprend spectacle en direct de cirque khmer d'1 heure, entree au celebre chapiteau rouge du cirque et acces a la visite de la boutique Phare. Il ne comprend pas street food locale, boissons et popcorn, achats d'artisanat a la boutique et service de transfert aller-retour, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe prix est d'environ 32 $ par personne, donc un groupe de 6 revient a 195 $. Le montant affiche sur cette page est le total pour la taille de groupe choisie, pas un chiffre par personne a multiplier.\n\nBayontabi tour l'assure. Nous reservons directement avec eux, ainsi le guide qui vous accueille travaille pour l'operateur et non pour un revendeur.",
+  "included": [
+   "spectacle en direct de cirque khmer d'1 heure",
+   "entree au celebre chapiteau rouge du cirque",
+   "acces a la visite de la boutique Phare"
+  ],
+  "notIncluded": [
+   "street food locale, boissons et popcorn",
+   "achats d'artisanat a la boutique",
+   "service de transfert aller-retour"
+  ]
+ },
  "from-sai-airport-angkor-museum-and-cultural-experi": {
   "title": "Depuis l'aeroport SAI : musee d'Angkor et experience culturelle",
   "metaTitle": "Depuis l'aeroport SAI : musee d'Angkor et experience culturelle",
@@ -25476,6 +25492,22 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "frais d'entree au complexe d'Angkor, 37 par personne, 1 jour",
    "boissons non specifiees dans l'itineraire"
+  ]
+ },
+ "angkor-wat-sunset-photo-tour-with-french-guide": {
+  "title": "Circuit photo Angkor Wat au coucher du soleil avec guide francophone",
+  "metaTitle": "Circuit photo Angkor Wat au coucher du soleil avec guide",
+  "shortDescription": "Visite a Siem Reap, avec guide certifie et experimente francophone, transferts aller-retour en vehicule climatise depuis votre hebergement a Siem Reap et eau fraiche et serviettes rafraichissantes fournies. Reservation directe aupres de Tola Angkor Guide, plutot que via un revendeur.",
+  "fullDescription": "Une experience d'une journee complete a Siem Reap. L'operateur la resume ainsi : visiter Angkor Wat, le temple de Bayon et Ta Prohm avec un guide prive.\n\nAngkor Wat a ete construit dans la premiere moitie du 12e siecle par Suryavarman II comme temple hindou dedie a Vishnu, plus tard converti a l'usage bouddhiste, et c'est le plus grand monument religieux au monde avec environ 162 hectares a l'interieur de ses fosses. Contrairement a presque tous les autres temples khmers, il fait face a l'ouest. La galerie exterieure porte environ 600 metres de bas-reliefs, dont le Barattage de la Mer de Lait, et les tours centrales representent le mont Meru. Le niveau superieur impose un code vestimentaire reellement applique : epaules et genoux couverts, pas de debardeurs, sous peine d'etre refoule a l'escalier. Un Angkor Pass est requis et coute 37 USD pour un jour, 62 pour trois et 72 pour sept, vendu uniquement via Angkor Enterprise ; les moins de 12 ans entrent gratuitement sur presentation d'un passeport.\n\nLe prix comprend guide certifie et experimente francophone, transferts aller-retour en vehicule climatise depuis votre hebergement a Siem Reap et eau fraiche et serviettes rafraichissantes fournies. Il ne comprend pas entree aux temples non incluse, repas et boissons non inclus et depenses personnelles non incluses, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nCe tarif est fixe pour le groupe plutot que par personne : 1 voyageur coute 377 $ et 8 coutent 416 $, donc plus vous etes nombreux, moins chacun paie.\n\nTola Angkor Guide l'assure. Nous reservons directement avec eux, ainsi le guide qui vous accueille travaille pour l'operateur et non pour un revendeur.",
+  "included": [
+   "guide certifie et experimente francophone",
+   "transferts aller-retour en vehicule climatise depuis votre hebergement a Siem Reap",
+   "eau fraiche et serviettes rafraichissantes fournies"
+  ],
+  "notIncluded": [
+   "entree aux temples non incluse",
+   "repas et boissons non inclus",
+   "depenses personnelles non incluses"
   ]
  },
  "angkor-wat-day-trip-with-german-speaking-guide": {
