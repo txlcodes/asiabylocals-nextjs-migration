@@ -318,7 +318,9 @@ export const BANGKOK_INFO_SLUGS = [
   'best-time-to-visit-bangkok', '3-day-bangkok-itinerary',
   'bangkok-ayutthaya-day-trip', 'chinatown-yaowarat-bangkok',
   'where-to-stay-in-bangkok', 'bangkok-street-food-guide',
-  'khao-san-road-bangkok', 'bangkok-kanchanaburi-day-trip'
+  'khao-san-road-bangkok', 'bangkok-kanchanaburi-day-trip',
+  // GEO listicle pages (2026-10)
+  'best-tours-in-bangkok'
 ];
 
 export const CHIANG_MAI_INFO_SLUGS = [

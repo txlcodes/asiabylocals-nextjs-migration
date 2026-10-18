@@ -874,6 +874,77 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ]
             };
 
+        case "best-tours-in-bangkok":
+            return {
+                title: "Best Tours in Bangkok — 2026, Honestly Compared",
+                seoTitle: "Best Tours in Bangkok 2026: Top-Rated Picks by Category",
+                description: "The best Bangkok tours for 2026, picked by category — temples, food, floating markets, canals and day trips — with real prices, real reviews, and an honest note on how we chose them.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773710349/tours/bangkok-grand-palace/hq_1.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "There is no single **best** tour in Bangkok — the city is too varied for that — but there is a reliable formula: **start with a half-day royal/temple circuit, then add one specialty tour** (food, floating market, or canals) based on how much time you have. First-timers with only one tour slot should default to the [Grand Palace, Wat Pho & Wat Arun circuit](/thailand/bangkok/grand-palace-bangkok) — it covers Thailand's single most important sight plus two of its most photographed temples in one morning.\n\nBelow is our honest, by-category breakdown — the top-rated option in each, with real prices and real guest reviews, not a marketing list.",
+                        tourCard: { slug: "bangkok-grand-palace-wat-pho-wat-arun-guided-tour", title: "Bangkok: Grand Palace, Wat Pho & Wat Arun Guided Tour", description: "The royal temple circuit with a licensed local guide — timed to beat both the heat and the tour-bus crowds.", price: "From $29", duration: "4-5 hours", rating: "4.8", reviews: "10", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773710349/tours/bangkok-grand-palace/hq_1.jpg" }
+                    },
+                    {
+                        title: "Best Food Tour in Bangkok",
+                        content: "Bangkok is widely considered the best street-eating city on Earth, and the highest-rated way to tackle it in one sitting is a guided tasting crawl through **Chinatown (Yaowarat)** — Bangkok's oldest, densest food neighbourhood, where Michelin-listed hawkers work charcoal woks a few feet from the street. A guide earns their fee here purely on logistics: ordering in Thai, knowing which of forty near-identical noodle carts is actually the good one, and queue-skipping at the stalls that matter.\n\nIf you'd rather eat on your own schedule, our [Chinatown & Yaowarat guide](/thailand/bangkok/chinatown-yaowarat-bangkok) covers the same stalls DIY-style — but for a first visit, going guided means you eat the right things in the right order instead of filling up on the first decent-looking cart.",
+                        tourCard: { slug: "bangkok-chinatown-food-tour-15-tastings-michelin-stops", title: "Bangkok Chinatown Food Tour: 15+ Tastings at Michelin Street Food Stops", description: "Yaowarat's best stalls in one evening — a local food expert handles the ordering, the queues and the stories.", price: "From $70", duration: "4 hours", rating: "4.9", reviews: "12", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773776051/tours/bangkok/chefs_tour_6_1773776050893.jpg" }
+                    },
+                    {
+                        title: "Best Floating Market Tour",
+                        content: "**Damnoen Saduak**, 100 km southwest of Bangkok, is the floating market most photos are taken at — vendors paddling wooden boats stacked with fruit and noodles through narrow canals. It's touristy, and every honest guide will tell you that, but it still delivers the scene people actually come for, especially paired with the nearby **Maeklong Railway Market**, where a working train squeezes through stalls that fold back minutes before it passes.\n\nThe top-rated version of this trip combines both markets in one day rather than picking one — it's a long day (plan on 7-8 hours door to door), but splitting them across two separate trips wastes a travel day you probably don't have.",
+                        tourCard: { slug: "damnoen-saduak-and-mae-klong-train-markets", title: "Damnoen Saduak & Maeklong Railway Market Day Tour", description: "Both of Bangkok's classic markets in one day — the floating-boat canals and the train that squeezes through the stalls.", price: "From $23", duration: "8 hours", rating: "4.8", reviews: "1029", image: "https://images.asiabylocals.com/asiabylocals/tours/damnoen-saduak-and-mae-klong-train-markets/img0/1600.webp" }
+                    },
+                    {
+                        title: "Best Way to See Bangkok Away From the Crowds: Canals & Backstreets by Bike",
+                        content: "Bangkok was once called \"the Venice of the East,\" and that city still survives in the **khlongs (canals) of Thonburi**, directly across the river from the tourist core. A small-group bike tour through this side of the city threads quiet backstreets, canal-side temples with no crowds at all, and neighbourhoods where locals genuinely live — a sharp contrast to the Grand Palace's queues.\n\nThis is the tour we'd recommend to a second-time visitor, or anyone on their first trip who wants one morning that doesn't feel like a tourist circuit. Bikes and pace are kept manageable; it isn't a fitness test.",
+                        tourCard: { slug: "bangkok-temples-canals-local-life-bike-tour", title: "Bangkok Temples, Canals & Local Life Bike Tour", description: "Backstreets, canal communities and quiet temples by bike — the Bangkok most tourists never see.", price: "From $23", duration: "4 hours", rating: "4.8", reviews: "12", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773710349/tours/bangkok-grand-palace/hq_1.jpg" }
+                    },
+                    {
+                        title: "Best Day Trip from Bangkok",
+                        content: "Seventy kilometres north, the ruins of **Ayutthaya** — Siam's capital for 417 years and once among the largest cities on Earth — are the single best day trip from Bangkok. Headless Buddha statues, brick prangs, and the famous sandstone Buddha head wrapped in banyan roots at Wat Mahathat make it worth the full day, not a half-day detour.\n\nA guided day trip with lunch included removes the DIY logistics (train versus van, which temples are worth the entrance fee) for not much more than arranging a driver yourself.",
+                        tourCard: { slug: "ayutthaya-ancient-temples-day-trip-bangkok-thai-lunch", title: "Ayutthaya Ancient Temples Day Trip from Bangkok with Thai Lunch", description: "The UNESCO ruins of old Siam with a guide who brings the fallen capital back to life — transport, entries and lunch handled.", price: "From $27", duration: "7 hours", rating: "4.8", reviews: "12", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773778104/tours/bangkok/ayutthaya_cover_1773778102218.jpg" }
+                    },
+                    {
+                        title: "Best Night Tour in Bangkok",
+                        content: "Bangkok after dark is arguably better than Bangkok by day — the heat breaks, the street-food stalls hit their stride, and the illuminated temples along the river look nothing like their daytime selves. The top-rated night format pairs a **tuk-tuk ride** (genuinely the most fun way to cross the city after sunset) with a string of street-food tastings through Chinatown's night market.\n\nBook this for your first or second night, not your last — it's a strong orientation to the city's food scene that makes the rest of the trip easier to plan.",
+                        tourCard: { slug: "bangkok-street-food-tuk-tuk-night-tour", title: "Bangkok After Dark: Street Food & Tuk-Tuk Night Tour with 10+ Tastings", description: "Tuk-tuk rides between Chinatown's best night-market stalls — ten-plus tastings, zero logistics.", price: "From $88", duration: "4 hours", rating: "4.8", reviews: "12", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773771518/tours/bangkok/midnight_food_1773771515522_0.jpg" }
+                    },
+                    {
+                        title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+                        content: "Every tour above is run by a verified local operator we've vetted directly, not resold through a reseller's reseller. We deliberately left out a side-by-side price comparison against GetYourGuide, Viator or Klook: several of these exact tours are sold on multiple platforms by the same local operator, who sets their own rate — so a price table would mostly just compare marketing margins, not quality, and we're not going to pretend that makes for an honest comparison.\n\nWhat we will say plainly: we don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator by WhatsApp before it's treated as final, and refund in full if they can't take your date — no call centre, no ticket queue. If you'd rather browse the full catalogue yourself instead of our picks, every tour above links through to [all Bangkok tours](/thailand/bangkok)."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best tour in Bangkok?", a: "For a first visit, the best single tour is the **Grand Palace, Wat Pho & Wat Arun circuit** — it covers Thailand's most important sight plus two major temples in one morning. Pair it with one specialty tour (food, floating market, or canals) based on how much time you have." },
+                    { q: "What is the best food tour in Bangkok?", a: "A guided **Chinatown (Yaowarat) tasting tour** rates highest — it covers Michelin-listed street stalls with a guide who handles ordering and queue-skipping, which matters in a neighbourhood with dozens of near-identical carts." },
+                    { q: "Is a guided Grand Palace tour worth it?", a: "Yes for most first-time visitors — a licensed guide explains the religious and royal significance you'd otherwise miss, times the visit to avoid the worst tour-bus crowds, and handles the strict dress-code logistics. If you've already visited Thailand before, the entry ticket alone is enough." },
+                    { q: "What is the best floating market tour from Bangkok?", a: "**Damnoen Saduak**, usually combined with the nearby **Maeklong Railway Market** in one day trip — it's the classic floating-market scene plus the train-through-the-stalls spectacle, done together to avoid a second travel day." },
+                    { q: "What is the best day trip from Bangkok?", a: "**Ayutthaya**, the ruined 417-year capital of old Siam, 70 km north of the city. It's the most historically significant day trip and the best value for the time it takes." },
+                    { q: "Do I need to book Bangkok tours in advance?", a: "For the royal temple circuit and Chinatown food tours, a few days ahead is usually enough outside major Thai holidays (Songkran, Chinese New Year, Loy Krathong), when small-group slots sell out faster." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@graph": [
+                        {
+                            "@type": "FAQPage",
+                            "mainEntity": [
+                                { "@type": "Question", "name": "What is the best tour in Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "For a first visit, the best single tour is the Grand Palace, Wat Pho & Wat Arun circuit — it covers Thailand's most important sight plus two major temples in one morning." } },
+                                { "@type": "Question", "name": "What is the best food tour in Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "A guided Chinatown (Yaowarat) tasting tour rates highest — Michelin-listed street stalls with a guide who handles ordering and queue-skipping." } },
+                                { "@type": "Question", "name": "What is the best floating market tour from Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "Damnoen Saduak, usually combined with the nearby Maeklong Railway Market in one day trip." } },
+                                { "@type": "Question", "name": "What is the best day trip from Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "Ayutthaya, the ruined 417-year capital of old Siam, 70 km north of the city." } }
+                            ]
+                        }
+                    ]
+                },
+                fastFacts: [
+                    { icon: 'Star', label: 'Top Pick', value: 'Grand Palace Circuit' },
+                    { icon: 'Utensils', label: 'Best Food Tour', value: 'Chinatown Tastings' },
+                    { icon: 'Map', label: 'Best Day Trip', value: 'Ayutthaya' }
+                ]
+            };
+
         default:
             return null;
     }
