@@ -17510,6 +17510,21 @@ export const FR_TOURS: Record<string, TourT> = {
    "depenses personnelles"
   ]
  },
+ "kampong-phluk-floating-village-and-local-market-ex": {
+  "title": "Village flottant de Kampong Phluk et marche local",
+  "metaTitle": "Village flottant de Kampong Phluk et marche local",
+  "shortDescription": "Visite a Phnom Penh, avec prise en charge a l'hotel a Siem Reap, retour a l'hotel a Phnom Penh et vehicule prive climatise. Reservation directe auprese de Golden Escape Cambodia, plutot que via un revendeur.",
+  "fullDescription": "Une experience de 1 heure a Phnom Penh. L'operateur la resume ainsi : explorer le village flottant unique de Kampong Phluk sur le lac Tonle Sap.\n\nLe Tonle Sap est le plus grand lac d'eau douce d'Asie du Sud-Est et il inverse son sens deux fois par an : pendant la mousson, le Mekong repousse l'eau vers le fleuve Tonle Sap et le lac gonfle plusieurs fois sa taille, puis se vide a nouveau a partir de novembre environ. Les villages qui y vivent font avec. Les maisons sur pilotis de Kampong Phluk se dressent de six a dix metres sur leurs pieds, seches en dessous en mars et a hauteur de marche en octobre ; Kampong Khleang est plus grand, plus eloigne et bien moins visite ; Chong Kneas est le plus proche de Siem Reap et le plus touristique. Quel village convient, et si le bateau peut meme atteindre la foret inondee, depend entierement du mois.\n\nLe prix comprend prise en charge a l'hotel a Siem Reap, retour a l'hotel a Phnom Penh et vehicule prive climatise. Il ne comprend pas frais d'entree a Kampong Phluk, le cas echeant et billet de bateau, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe prix evolue selon la taille du groupe plutot que de se multiplier : 1 voyageur revient a 202 $, 5 a 246 $ et 8 a 494 $. Le montant indique est le total pour votre groupe, pas un tarif par personne.\n\nGolden Escape Cambodia l'assure. Nous reservons directement avec eux, ainsi le guide qui vous accueille travaille pour l'operateur et non pour un revendeur.",
+  "included": [
+   "prise en charge a l'hotel a Siem Reap",
+   "retour a l'hotel a Phnom Penh",
+   "vehicule prive climatise"
+  ],
+  "notIncluded": [
+   "frais d'entree a Kampong Phluk, le cas echeant",
+   "billet de bateau"
+  ]
+ },
  "genocide-museum-killing-fields-and-temples-tour": {
   "title": "Circuit du musee du genocide, des champs de la mort et des temples",
   "metaTitle": "Circuit du musee du genocide, des champs de la mort et des",
@@ -19028,6 +19043,22 @@ export const FR_TOURS: Record<string, TourT> = {
    "frais d'entree aux attractions, le cas echeant"
   ]
  },
+ "sai-pickup-banteay-srei-and-landmine-museum-transf": {
+  "title": "Prise en charge SAI, Banteay Srei et musee des mines terrestres",
+  "metaTitle": "Prise en charge SAI, Banteay Srei et musee des mines terrestres",
+  "shortDescription": "Visite a Siem Reap, avec prise en charge privee a l'aeroport SAI, chauffeur anglophone et vehicule prive climatise. Reservation directe auprese de Golden Escape Cambodia, plutot que via un revendeur.",
+  "fullDescription": "Une experience d'une demi-journee a Siem Reap. L'operateur la resume ainsi : profiter d'une prise en charge privee depuis l'aeroport international de Siem Reap Angkor (SAI).\n\nBanteay Srei se trouve a 37 kilometres au nord-est du groupe principal d'Angkor et est sculpte dans un gres rose qui conserve des details qu'aucun autre temple khmer ne garde : les linteaux et frontons sont taille assez profondement pour projeter une vraie ombre, d'ou son nom de citadelle des femmes. Il est petit, a ete consacre a Shiva en 967, et a ete construit par un brahmane plutot que par un roi. Comme il est isole, il est generalement associe a Kbal Spean, la riviere des mille lingas, ou des sculptures de Shiva se trouvent dans et sous le lit du cours d'eau, la montee representant environ 1,5 kilometre de sentier forestier. Les deux ferment plus tot que les temples centraux, ce qui en fait des arrets du matin.\n\nLe prix comprend prise en charge privee a l'aeroport SAI, chauffeur anglophone et vehicule prive climatise. Il ne comprend pas billet d'entree au temple de Banteay Srei, frais d'entree au musee des mines terrestres et repas et boissons, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nCe tarif est fixe pour le groupe plutot que par personne : 1 voyageur coute 116 $ et 6 coutent 142 $, donc plus vous etes nombreux, moins chacun paie.\n\nGolden Escape Cambodia l'assure. Nous reservons directement avec eux, ainsi le guide qui vous accueille travaille pour l'operateur et non pour un revendeur.",
+  "included": [
+   "prise en charge privee a l'aeroport SAI",
+   "chauffeur anglophone",
+   "vehicule prive climatise"
+  ],
+  "notIncluded": [
+   "billet d'entree au temple de Banteay Srei",
+   "frais d'entree au musee des mines terrestres",
+   "repas et boissons"
+  ]
+ },
  "from-siem-reap-phnom-kulen-mountain-day-trip-with": {
   "title": "Depuis Siem Reap : excursion d'une journee au mont Phnom Kulen avec guide",
   "metaTitle": "Depuis Siem Reap : excursion d'une journee au mont Phnom Kulen",
@@ -19698,6 +19729,21 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "repas",
+   "depenses personnelles"
+  ]
+ },
+ "sai-pickup-beng-mealea-and-khmer-lunch-with-hotel": {
+  "title": "Prise en charge SAI, Beng Mealea et dejeuner khmer avec transfert a l'hotel",
+  "metaTitle": "Prise en charge SAI, Beng Mealea et dejeuner khmer avec",
+  "shortDescription": "Visite a Siem Reap, avec prise en charge privee a l'aeroport SAI, chauffeur anglophone et transport prive en vehicule climatise. Reservation directe auprese de Golden Escape Cambodia, plutot que via un revendeur.",
+  "fullDescription": "Une experience d'une demi-journee a Siem Reap. L'operateur la resume ainsi : profiter d'une prise en charge privee depuis l'aeroport international de Siem Reap Angkor (SAI).\n\nLes temples excentres demandent une demi-journee ou une journee complete de route et recompensent cet effort par leur vide. Beng Mealea, a environ 60 kilometres a l'est, est un temple du 12e siecle de l'ampleur d'Angkor Wat laisse en grande partie non deblaye, traverse sur des passerelles au-dessus de galeries effondrees. Koh Ker, a deux heures au nord-est, fut briefement la capitale au 10e siecle et abrite le Prasat Thom, une pyramide de gres a sept niveaux haute de 36 metres que l'on peut gravir par un escalier en bois. Sambor Prei Kuk, inscrit par l'UNESCO en 2017, est plus ancien qu'Angkor lui-meme, des tours de brique pre-angkoriennes se dressant dans la foret. Certains de ces sites ont leur propre entree separee, en plus de l'Angkor Pass.\n\nLe prix comprend prise en charge privee a l'aeroport SAI, chauffeur anglophone et transport prive en vehicule climatise. Il ne comprend pas billet d'entree a Beng Mealea, 10 USD par personne et depenses personnelles, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nCe tarif est fixe pour le groupe plutot que par personne : 1 voyageur coute 116 $ et 3 coutent 116 $, donc plus vous etes nombreux, moins chacun paie.\n\nGolden Escape Cambodia l'assure. Nous reservons directement avec eux, ainsi le guide qui vous accueille travaille pour l'operateur et non pour un revendeur.",
+  "included": [
+   "prise en charge privee a l'aeroport SAI",
+   "chauffeur anglophone",
+   "transport prive en vehicule climatise"
+  ],
+  "notIncluded": [
+   "billet d'entree a Beng Mealea, 10 USD par personne",
    "depenses personnelles"
   ]
  },
@@ -22289,6 +22335,22 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "pourboires",
    "boissons"
+  ]
+ },
+ "koh-ker-and-beng-mealea-guided-day-trip": {
+  "title": "Excursion guidee d'une journee : Koh Ker et Beng Mealea",
+  "metaTitle": "Excursion guidee d'une journee : Koh Ker et Beng Mealea",
+  "shortDescription": "Visite a Siem Reap, avec prise en charge et retour a l'hotel, transport en vehicule climatise et guide touristique professionnel officiel. Reservation directe auprese de Angkor Wat Driver Private Tour, plutot que via un revendeur.",
+  "fullDescription": "Une experience d'une journee complete a Siem Reap. L'operateur la resume ainsi : explorer l'ancienne capitale de Koh Ker et son temple pyramide emblematique.\n\nLes temples excentres demandent une demi-journee ou une journee complete de route et recompensent cet effort par leur vide. Beng Mealea, a environ 60 kilometres a l'est, est un temple du 12e siecle de l'ampleur d'Angkor Wat laisse en grande partie non deblaye, traverse sur des passerelles au-dessus de galeries effondrees. Koh Ker, a deux heures au nord-est, fut briefement la capitale au 10e siecle et abrite le Prasat Thom, une pyramide de gres a sept niveaux haute de 36 metres que l'on peut gravir par un escalier en bois. Sambor Prei Kuk, inscrit par l'UNESCO en 2017, est plus ancien qu'Angkor lui-meme, des tours de brique pre-angkoriennes se dressant dans la foret. Certains de ces sites ont leur propre entree separee, en plus de l'Angkor Pass.\n\nLe prix comprend prise en charge et retour a l'hotel, transport en vehicule climatise et guide touristique professionnel officiel. Il ne comprend pas pass temple, billet pour Koh Ker et repas (P.D./D.), a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe prix est d'environ 325 $ par personne, donc un groupe de 4 revient a 1,300 $. Le montant affiche sur cette page est le total pour la taille de groupe choisie, pas un chiffre par personne a multiplier.\n\nAngkor Wat Driver Private Tour l'assure. Nous reservons directement avec eux, ainsi le guide qui vous accueille travaille pour l'operateur et non pour un revendeur.",
+  "included": [
+   "prise en charge et retour a l'hotel",
+   "transport en vehicule climatise",
+   "guide touristique professionnel officiel"
+  ],
+  "notIncluded": [
+   "pass temple",
+   "billet pour Koh Ker",
+   "repas (P.D./D.)"
   ]
  },
  "kulen-mountain-waterfall-small-group-tour": {
