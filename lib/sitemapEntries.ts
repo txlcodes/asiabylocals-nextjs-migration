@@ -5,19 +5,10 @@ import { ITINERARY_COUNTRIES, getItinerarySlugs } from '@/lib/japanItineraries';
 import { CITY_URL_MAP } from '@/lib/constants';
 import { REDIRECTED_SLUGS } from '@/lib/redirectedSlugs';
 
-// ⚠️ Without this the sitemap is a fully static route: Next builds it once per
-// deploy and serves that copy for ever (x-nextjs-cache: HIT on every request),
-// so the `revalidate: 3600` on the tour fetch below never gets a chance to
-// matter. Approving 804 Cambodian tours put 187 of them in the sitemap and
-// left 617 invisible to Google until somebody happened to deploy. Tours are
-// approved from a script, not from a commit, so "it updates on the next
-// deploy" means "it updates whenever, if ever".
-export const revalidate = 3600;
-
-const BASE_URL = 'https://www.asiabylocals.com';
+export const BASE_URL = 'https://www.asiabylocals.com';
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
 
-export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
+async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   // Static pages
   const staticPages = [
     '', '/explore', '/about-us', '/privacy-policy', '/terms-and-conditions',
@@ -1018,4 +1009,35 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     return [base, ...langs.map(l => ({ ...base, url: `${BASE_URL}/${l}${path}`, priority: Math.max(0.3, (entry.priority ?? 0.6) - 0.1) }))];
   });
   return withLangs;
+}
+
+// Google's limit is 50,000 URLs / 50 MB (uncompressed) per sitemap file. The
+// single sitemap hit 51,193 URLs and Search Console reported "Too many URLs".
+// Entries are split into fixed-size chunks served at /sitemaps/<n>.xml, with an
+// index at /sitemap.xml (app/sitemap.xml/route.ts) so the submitted URL keeps
+// working. 10,000 per chunk keeps each file far below both limits.
+export const SITEMAP_CHUNK_SIZE = 10000;
+
+// Every chunk request and the index would otherwise each re-run the whole
+// build (one API fetch per city). Share one build for a few minutes.
+const CACHE_MS = 5 * 60 * 1000;
+let cache: { at: number; promise: Promise<MetadataRoute.Sitemap> } | null = null;
+
+export function getAllSitemapEntries(): Promise<MetadataRoute.Sitemap> {
+  if (!cache || Date.now() - cache.at > CACHE_MS) {
+    const promise = buildAllEntries();
+    cache = { at: Date.now(), promise };
+    promise.catch(() => { if (cache && cache.promise === promise) cache = null; });
+  }
+  return cache.promise;
+}
+
+export async function getSitemapChunkCount(): Promise<number> {
+  const all = await getAllSitemapEntries();
+  return Math.max(1, Math.ceil(all.length / SITEMAP_CHUNK_SIZE));
+}
+
+export async function getSitemapChunk(index: number): Promise<MetadataRoute.Sitemap> {
+  const all = await getAllSitemapEntries();
+  return all.slice(index * SITEMAP_CHUNK_SIZE, (index + 1) * SITEMAP_CHUNK_SIZE);
 }
