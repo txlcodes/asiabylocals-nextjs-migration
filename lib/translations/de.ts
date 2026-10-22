@@ -61536,6 +61536,30 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Eintritt zum Burgturm: geführte Wandertour in Osaka",
   "metaDescription": "1-stündige Tour in Osaka. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "osaka-global-social-meet-locals-and-travelers-by-local-operator": {
+  "title": "Osaka Global Social - Treffen Sie Einheimische und Reisende, von lokalem Anbieter",
+  "fullDescription": "Dies ist ein 2,5-stündiges Erlebnis in Osaka. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nOsaka ist Japans Küche: die Stadt, die Takoyaki, Okonomiyaki und Kushikatsu erfunden hat, und Dotonboris Kanal mit Neonschildern ist, wo man sie isst. Die Burg Osaka ist ein Betonnachbau von 1931 der Festung Hideyoshis mit einem Museum im Inneren und einem Burggraben und Park, die eine Stunde wert sind; der Kuromon-Markt ist der Lebensmittelmarkt; Shinsekai ist das Retro-Viertel unter dem Tsutenkaku-Turm; das Umeda Sky Building hat das Freiluft-Observatorium. Osaka ist die Basis für Tagesausflüge nach Nara, Kobe, Himeji und Koyasan, alle unter anderthalb Stunden entfernt. Die Stadt ist lauter und billiger als Kyoto und ihre Bewohner sind dafür bekannt.\n\nIm Preis enthalten sind Gruppenmanagement, Treffen mit Einheimischen, lustige Tischspiele und Zeit zum Austausch. Nicht enthalten sind Getraenke oder Speisen und Transport, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2,5 Stunden",
+   "Gruppenmanagement",
+   "Treffen mit Einheimischen",
+   "lustige Tischspiele",
+   "Zeit zum Austausch"
+  ],
+  "included": [
+   "Gruppenmanagement",
+   "Treffen mit Einheimischen",
+   "lustige Tischspiele",
+   "Zeit zum Austausch"
+  ],
+  "notIncluded": [
+   "Getraenke oder Speisen",
+   "Transport"
+  ],
+  "shortDescription": "2,5-stündige Tour in Osaka, inklusive Gruppenmanagement, Treffen mit Einheimischen und lustige Tischspiele. Durchgeführt von WelcomeTokyo, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Osaka Global Social - Treffen Sie Einheimische und Reisende",
+  "metaDescription": "2,5-stündige Tour in Osaka. Enthalten: Gruppenmanagement. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "nakazakicho-and-tenma-retro-streets-private-walk-in-osaka": {
   "title": "Privater Spaziergang durch die Retro-Straßen von Nakazakicho und Tenma in Osaka",
   "fullDescription": "Dies ist ein 2,5-stündiges Erlebnis in Osaka. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nOsaka ist Japans Küche: die Stadt, die Takoyaki, Okonomiyaki und Kushikatsu erfunden hat, und Dotonboris Kanal mit Neonschildern ist, wo man sie isst. Die Burg Osaka ist ein Betonnachbau von 1931 der Festung Hideyoshis mit einem Museum im Inneren und einem Burggraben und Park, die eine Stunde wert sind; der Kuromon-Markt ist der Lebensmittelmarkt; Shinsekai ist das Retro-Viertel unter dem Tsutenkaku-Turm; das Umeda Sky Building hat das Freiluft-Observatorium. Osaka ist die Basis für Tagesausflüge nach Nara, Kobe, Himeji und Koyasan, alle unter anderthalb Stunden entfernt. Die Stadt ist lauter und billiger als Kyoto und ihre Bewohner sind dafür bekannt.\n\nIm Preis enthalten sind Private Wandertour und Guide vor Ort. Nicht enthalten sind Speisen und Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -61757,6 +61781,34 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Private 4/5/6-stündige Tour für Kreuzfahrtpassagiere in Osaka",
   "metaDescription": "Halbtägige Tour in Osaka. Enthalten: Private Wandertour. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "sake-tasting-experience-with-a-former-brewer-in-osaka": {
+  "title": "Sake-Verkostungserlebnis mit einem ehemaligen Brauer in Osaka",
+  "fullDescription": "Dies ist ein 2-stündiges Erlebnis in Osaka. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nOsaka ist Japans Küche: die Stadt, die Takoyaki, Okonomiyaki und Kushikatsu erfunden hat, und Dotonboris Kanal mit Neonschildern ist, wo man sie isst. Die Burg Osaka ist ein Betonnachbau von 1931 der Festung Hideyoshis mit einem Museum im Inneren und einem Burggraben und Park, die eine Stunde wert sind; der Kuromon-Markt ist der Lebensmittelmarkt; Shinsekai ist das Retro-Viertel unter dem Tsutenkaku-Turm; das Umeda Sky Building hat das Freiluft-Observatorium. Osaka ist die Basis für Tagesausflüge nach Nara, Kobe, Himeji und Koyasan, alle unter anderthalb Stunden entfernt. Die Stadt ist lauter und billiger als Kyoto und ihre Bewohner sind dafür bekannt.\n\nIm Preis enthalten sind Verkostung von 6 Sake-Sorten, Verkostungsnotizen, gefuehrte Erklaerung durch einen ehemaligen Sake-Brauer, Frage-und-Antwort-Sitzung und optionale Kombination mit 2 leichten Kansai-Gerichten. Nicht enthalten sind Transport zum Veranstaltungsort, Persönliche Ausgaben, Zusätzliche, nicht genannte Speisen und Getränke und Trinkgeld für den Guide, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Stunden",
+   "Verkostung von 6 Sake-Sorten",
+   "Verkostungsnotizen",
+   "gefuehrte Erklaerung durch einen ehemaligen Sake-Brauer",
+   "Frage-und-Antwort-Sitzung",
+   "optionale Kombination mit 2 leichten Kansai-Gerichten"
+  ],
+  "included": [
+   "Verkostung von 6 Sake-Sorten",
+   "Verkostungsnotizen",
+   "gefuehrte Erklaerung durch einen ehemaligen Sake-Brauer",
+   "Frage-und-Antwort-Sitzung",
+   "optionale Kombination mit 2 leichten Kansai-Gerichten"
+  ],
+  "notIncluded": [
+   "Transport zum Veranstaltungsort",
+   "Persönliche Ausgaben",
+   "Zusätzliche, nicht genannte Speisen und Getränke",
+   "Trinkgeld für den Guide (optional)"
+  ],
+  "shortDescription": "2-stündige Tour in Osaka, inklusive Verkostung von 6 Sake-Sorten, Verkostungsnotizen und gefuehrte Erklaerung durch einen ehemaligen Sake-Brauer. Durchgeführt von ぽたん株式会社, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Sake-Verkostungserlebnis mit einem ehemaligen Brauer in Osaka",
+  "metaDescription": "2-stündige Tour in Osaka. Enthalten: Verkostung von 6 Sake-Sorten. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "osaka-castle-walking-tour-with-local-osaka-guide": {
   "title": "Wandertour durch die Burg Osaka mit einem lokalen Osaka-Guide",
   "fullDescription": "Dies ist ein 45-minütiges Erlebnis in Osaka, rund um Burg Osaka. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nOsaka ist Japans Küche: die Stadt, die Takoyaki, Okonomiyaki und Kushikatsu erfunden hat, und Dotonboris Kanal mit Neonschildern ist, wo man sie isst. Die Burg Osaka ist ein Betonnachbau von 1931 der Festung Hideyoshis mit einem Museum im Inneren und einem Burggraben und Park, die eine Stunde wert sind; der Kuromon-Markt ist der Lebensmittelmarkt; Shinsekai ist das Retro-Viertel unter dem Tsutenkaku-Turm; das Umeda Sky Building hat das Freiluft-Observatorium. Osaka ist die Basis für Tagesausflüge nach Nara, Kobe, Himeji und Koyasan, alle unter anderthalb Stunden entfernt. Die Stadt ist lauter und billiger als Kyoto und ihre Bewohner sind dafür bekannt.\n\nIm Preis enthalten sind Geführte Tour durch den Burg-Osaka-Park und Sofortbild-Foto und gedrucktes Souvenir. Nicht enthalten sind Ticket für das Burg-Osaka-Museum, Transport von und zum Treffpunkt und Speisen und Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTanimachi 4-chome Station. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -61936,6 +61988,28 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Kyoto, mit Bambuswald von Arashiyama, Kinkaku-ji und Fushimi Inari Taisha. Durchgeführt von Tourist Japan Tours, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Highlights von Kyoto: halbtägige Kleingruppentour",
   "metaDescription": "Tour in Kyoto. Enthalten: Sorgfältig ausgewählter Experten-Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "kyoto-aquarium-family-pass-and-digital-explorer-guide-by-local-operator": {
+  "title": "Kyoto-Aquarium: Familienpass und digitaler Entdeckerfuehrer von lokalem Anbieter",
+  "fullDescription": "Dies ist ein Erlebnis in Kyoto. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nKyoto war über tausend Jahre lang bis 1868 Japans Hauptstadt und hat 17 UNESCO-gelistete Stätten unter rund 2.000 Tempeln und Schreinen. Die großen drei sind Kinkaku-ji, der Goldene Pavillon, mit Goldblatt bedeckt und am besten im Morgenlicht; Kiyomizu-dera, die Holzbühne auf den östlichen Hügeln mit den Higashiyama-Gassen von Sannenzaka und Ninenzaka darunter; und die Tore von Fushimi Inari. Die Burg Nijo hat die Nachtigallenböden, die gegen Eindringlinge quietschen, und Ryoan-ji den Steingarten. Tempel öffnen gegen 8:00 oder 9:00 Uhr und schließen um 17:00 Uhr, und der Stadtbus ist langsam; ein Tag mit einem Fahrer oder Guide, der die Stopps gegen die Menschenmassen ordnet, macht den Unterschied zwischen vier Sehenswürdigkeiten und sieben.\n\nIm Preis enthalten sind allgemeiner Eintritt zum Kyoto-Aquarium, direkter QR-Code-Eintrittsservice und exklusiver digitaler Entdeckerfuehrer fuer Familien. Nicht enthalten sind Reisefuehrer vor Ort, Essen und Transport zum Veranstaltungsort, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "allgemeiner Eintritt zum Kyoto-Aquarium",
+   "direkter QR-Code-Eintrittsservice",
+   "exklusiver digitaler Entdeckerfuehrer fuer Familien"
+  ],
+  "included": [
+   "allgemeiner Eintritt zum Kyoto-Aquarium",
+   "direkter QR-Code-Eintrittsservice",
+   "exklusiver digitaler Entdeckerfuehrer fuer Familien"
+  ],
+  "notIncluded": [
+   "Reisefuehrer vor Ort",
+   "Essen, Getränke und persönliche Einkäufe",
+   "Transport zum Veranstaltungsort"
+  ],
+  "shortDescription": "Tour in Kyoto, inklusive allgemeiner Eintritt zum Kyoto-Aquarium, direkter QR-Code-Eintrittsservice und exklusiver digitaler Entdeckerfuehrer fuer Familien. Durchgeführt von I'm Jiajia, your local travel partner in Japan. 🌸, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Kyoto-Aquarium: Familienpass und digitaler Entdeckerfuehrer von lokalem Anbieter",
+  "metaDescription": "Tour in Kyoto. Enthalten: allgemeiner Eintritt zum Kyoto-Aquarium. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "2-types-of-japanese-sweets-making-and-tea-ceremony-in-kyoto": {
   "title": "Herstellung von 2 Arten japanischer Süßigkeiten und Teezeremonie in Kyoto",
@@ -62172,6 +62246,31 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Sapporo, inklusive Busfahrpreis und Chinesisch-/Englisch-/Japanischsprachiger Guide. Durchgeführt von Doushin Kokusai Co,.LTD, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Illumination des Blauen Teichs und der Ningle Terrace in Sapporo",
   "metaDescription": "Ganztägige Tour in Sapporo. Enthalten: Busfahrpreis. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "hokkaido-shrine-maruyama-forest-and-local-streets-in-sapporo": {
+  "title": "Hokkaido-Schrein, Maruyama-Wald und lokale Strassen in Sapporo",
+  "fullDescription": "Dies ist ein 2,5-stündiges Erlebnis in Sapporo. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHokkaido ist Japans nördliche Insel, ein anderes Klima und ein anderer Maßstab: Sapporo ist seine Stadt, mit dem Biermuseum, der Ramen-Gasse und dem Februar-Schneefestival; Otaru, 40 Minuten entfernt, hat den Kanal und die Glas- und Spieluhrgeschäfte; Noboribetsu sind die Thermalquellen des Höllentals; der Toya-See und der Shikotsu-See sind Caldera-Seen; und Biei und Furano im Zentrum sind die Blumenfelder und der Lavendel im Juli. Der Winter bringt zwei Meter Schnee nach Sapporo und den Pulverschnee, der Niseko berühmt machte. Die Entfernungen sind lang und Züge selten, daher sind Tagestouren von Sapporo meist mit dem Bus und dauern acht bis zehn Stunden.\n\nIm Preis enthalten sind Geführter Rundgang zu Fuß, Besuch des Urasando-Viertels, Besuch des Hokkaido-Schreins, Erkundung des Maruyama-Parks und Einfuehrung in lokale Cafes und Laeden. Nicht enthalten sind Speisen und Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2,5 Stunden",
+   "Geführter Rundgang zu Fuß",
+   "Besuch des Urasando-Viertels",
+   "Besuch des Hokkaido-Schreins",
+   "Erkundung des Maruyama-Parks",
+   "Einfuehrung in lokale Cafes und Laeden"
+  ],
+  "included": [
+   "Geführter Rundgang zu Fuß",
+   "Besuch des Urasando-Viertels",
+   "Besuch des Hokkaido-Schreins",
+   "Erkundung des Maruyama-Parks",
+   "Einfuehrung in lokale Cafes und Laeden"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke"
+  ],
+  "shortDescription": "2,5-stündige Tour in Sapporo, inklusive Geführter Rundgang zu Fuß, Besuch des Urasando-Viertels und Besuch des Hokkaido-Schreins. Durchgeführt von ACE Travel Japan, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hokkaido-Schrein, Maruyama-Wald und lokale Strassen in Sapporo",
+  "metaDescription": "2,5-stündige Tour in Sapporo. Enthalten: Geführter Rundgang zu Fuß. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "chopstick-making-workshop-in-sapporo": {
   "title": "Workshop zur Herstellung von Essstäbchen in Sapporo",
@@ -62440,6 +62539,55 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Nagoya-Highlights: Toyota, Samurai-Kultur und Essen",
   "metaDescription": "Ganztägige Tour in Nagoya. Enthalten: Reiseleiter. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "private-customizable-shopping-tour-with-guide-in-nagoya": {
+  "title": "Private anpassbare Shoppingtour mit Guide in Nagoya",
+  "fullDescription": "Dies ist ein 2-stündiges Erlebnis in Nagoya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nNagoya ist Japans viertgrößte Stadt und das Tor zum Ghibli Park in Nagakute, 2022 eröffnet mit zeitgebundenen Tickets, die Wochen im Voraus ausverkauft sind, zu Nagashima Spa Land und seinen Achterbahnen, und zu Inuyama, dessen Burg einer der zwölf Original-Burgtürme ist. Die goldenen Delfine der Burg Nagoya und das Toyota-Gedächtnismuseum sind die eigenen Sehenswürdigkeiten der Stadt, und gegrillter Hitsumabushi-Aal und Miso-Katsu sind ihr Essen. Der Große Ise-Schrein, Shintos heiligste Stätte, alle zwanzig Jahre neu erbaut, ist 90 Minuten südlich.\n\nIm Preis enthalten sind anpassbare Privattour, Guide, Einkaufen in den Vierteln von Nagoya, Reisetipps und Navigationshilfe. Nicht enthalten sind Mahlzeiten, Eintrittsgebühren, Persönliche Ausgaben und Transportgebühr, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Stunden",
+   "anpassbare Privattour",
+   "Einheimischer Guide",
+   "Einkaufen in den Vierteln von Nagoya",
+   "Reisetipps",
+   "Navigationshilfe"
+  ],
+  "included": [
+   "anpassbare Privattour",
+   "Einheimischer Guide",
+   "Einkaufen in den Vierteln von Nagoya",
+   "Reisetipps",
+   "Navigationshilfe"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Eintrittsgebühren",
+   "Persönliche Ausgaben",
+   "Transportgebühr"
+  ],
+  "shortDescription": "Tour in Nagoya, inklusive anpassbare Privattour, Guide und Einkaufen in den Vierteln von Nagoya. Durchgeführt von Reelu inc, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Private anpassbare Shoppingtour mit Guide in Nagoya",
+  "metaDescription": "Tour in Nagoya. Enthalten: anpassbare Privattour und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "aichi-local-sweets-workshop-in-nagoya": {
+  "title": "Aichi-Lokale-Suessigkeiten-Workshop in Nagoya",
+  "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis in Nagoya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nNagoya ist Japans viertgrößte Stadt und das Tor zum Ghibli Park in Nagakute, 2022 eröffnet mit zeitgebundenen Tickets, die Wochen im Voraus ausverkauft sind, zu Nagashima Spa Land und seinen Achterbahnen, und zu Inuyama, dessen Burg einer der zwölf Original-Burgtürme ist. Die goldenen Delfine der Burg Nagoya und das Toyota-Gedächtnismuseum sind die eigenen Sehenswürdigkeiten der Stadt, und gegrillter Hitsumabushi-Aal und Miso-Katsu sind ihr Essen. Der Große Ise-Schrein, Shintos heiligste Stätte, alle zwanzig Jahre neu erbaut, ist 90 Minuten südlich.\n\nIm Preis enthalten sind 90-minuetiger praktischer Wagashi- und Matcha-Workshop, Zubereitung von zwei saisonalen japanischen Suessigkeiten, Matcha schlagen und geniessen und lizenzierter Ernaehrungsberater. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1,5 Stunden",
+   "90-minuetiger praktischer Wagashi- und Matcha-Workshop",
+   "Zubereitung von zwei saisonalen japanischen Suessigkeiten",
+   "Matcha schlagen und geniessen",
+   "lizenzierter Ernaehrungsberater"
+  ],
+  "included": [
+   "90-minuetiger praktischer Wagashi- und Matcha-Workshop",
+   "Zubereitung von zwei saisonalen japanischen Suessigkeiten",
+   "Matcha schlagen und geniessen",
+   "lizenzierter Ernaehrungsberater"
+  ],
+  "notIncluded": [],
+  "shortDescription": "1,5-stündige Tour in Nagoya, inklusive 90-minuetiger praktischer Wagashi- und Matcha-Workshop, Zubereitung von zwei saisonalen japanischen Suessigkeiten und Matcha schlagen und geniessen. Durchgeführt von Japanese Cooking Class in Nagoya🇯🇵 / Nagoya, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Aichi-Lokale-Suessigkeiten-Workshop in Nagoya",
+  "metaDescription": "1,5-stündige Tour in Nagoya. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "shimenawa-wreath-making-workshop-in-nagoya": {
   "title": "Shimenawa-Kranz-Herstellungsworkshop in Nagoya",
   "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Nagoya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nNagoya ist Japans viertgrößte Stadt und das Tor zum Ghibli Park in Nagakute, 2022 eröffnet mit zeitgebundenen Tickets, die Wochen im Voraus ausverkauft sind, zu Nagashima Spa Land und seinen Achterbahnen, und zu Inuyama, dessen Burg einer der zwölf Original-Burgtürme ist. Die goldenen Delfine der Burg Nagoya und das Toyota-Gedächtnismuseum sind die eigenen Sehenswürdigkeiten der Stadt, und gegrillter Hitsumabushi-Aal und Miso-Katsu sind ihr Essen. Der Große Ise-Schrein, Shintos heiligste Stätte, alle zwanzig Jahre neu erbaut, ist 90 Minuten südlich.\n\nIm Preis enthalten sind Künstliche Blumen, Heißklebepistole und Drahtschneider. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -62605,6 +62753,31 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Burg, Samurai-Geschichte und Tokugawa-Kunstmuseum",
   "metaDescription": "Halbtägige Tour in Nagoya. Enthalten: Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "5-seasonal-traditional-japanese-cooking-class-in-nagoya": {
+  "title": "Traditioneller saisonaler japanischer Kochkurs (5 Gerichte) in Nagoya",
+  "fullDescription": "Dies ist ein 2-stündiges Erlebnis in Nagoya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nNagoya ist Japans viertgrößte Stadt und das Tor zum Ghibli Park in Nagakute, 2022 eröffnet mit zeitgebundenen Tickets, die Wochen im Voraus ausverkauft sind, zu Nagashima Spa Land und seinen Achterbahnen, und zu Inuyama, dessen Burg einer der zwölf Original-Burgtürme ist. Die goldenen Delfine der Burg Nagoya und das Toyota-Gedächtnismuseum sind die eigenen Sehenswürdigkeiten der Stadt, und gegrillter Hitsumabushi-Aal und Miso-Katsu sind ihr Essen. Der Große Ise-Schrein, Shintos heiligste Stätte, alle zwanzig Jahre neu erbaut, ist 90 Minuten südlich.\n\nIm Preis enthalten sind Kochkurs mit 5 saisonalen japanischen Gerichten, Matcha-Tee, Rezeptheft zum Mitnehmen, Einfuehrung in die japanische Tischetikette und Esskultur und Verkostung japanischer Gewuerze. Nicht enthalten sind Transport von und zum Bahnhof Nagoya, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Stunden",
+   "Kochkurs mit 5 saisonalen japanischen Gerichten",
+   "Matcha-Tee",
+   "Rezeptheft zum Mitnehmen",
+   "Einfuehrung in die japanische Tischetikette und Esskultur",
+   "Verkostung japanischer Gewuerze"
+  ],
+  "included": [
+   "Kochkurs mit 5 saisonalen japanischen Gerichten",
+   "Matcha-Tee",
+   "Rezeptheft zum Mitnehmen",
+   "Einfuehrung in die japanische Tischetikette und Esskultur",
+   "Verkostung japanischer Gewuerze"
+  ],
+  "notIncluded": [
+   "Transport von und zum Bahnhof Nagoya"
+  ],
+  "shortDescription": "2-stündige Tour in Nagoya, inklusive Kochkurs mit 5 saisonalen japanischen Gerichten, Matcha-Tee und Rezeptheft zum Mitnehmen. Durchgeführt von Japanese Cooking Class in Nagoya🇯🇵 / Nagoya, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Traditioneller saisonaler japanischer Kochkurs in Nagoya",
+  "metaDescription": "2-stündige Tour in Nagoya. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "private-calligraphy-experience-in-nagoya": {
   "title": "Privates Kalligrafie-Erlebnis in Nagoya",
   "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis in Nagoya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nNagoya ist Japans viertgrößte Stadt und das Tor zum Ghibli Park in Nagakute, 2022 eröffnet mit zeitgebundenen Tickets, die Wochen im Voraus ausverkauft sind, zu Nagashima Spa Land und seinen Achterbahnen, und zu Inuyama, dessen Burg einer der zwölf Original-Burgtürme ist. Die goldenen Delfine der Burg Nagoya und das Toyota-Gedächtnismuseum sind die eigenen Sehenswürdigkeiten der Stadt, und gegrillter Hitsumabushi-Aal und Miso-Katsu sind ihr Essen. Der Große Ise-Schrein, Shintos heiligste Stätte, alle zwanzig Jahre neu erbaut, ist 90 Minuten südlich.\n\nIm Preis enthalten sind Nutzung der Kalligrafie-Werkzeuge und Kalligraf-Instruktor. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -62684,6 +62857,33 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "1-stündige Tour in Nagoya, inklusive Ein Getränk, Mahlzeit oder Dessert und Fotoshooting mit einem Maid. Durchgeführt von 株式会社ネオディライトインターナショナル, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Nagoya Osu Akamon-Straße: Maid-Café-Erlebnis Maidreamin",
   "metaDescription": "1-stündige Tour in Nagoya. Enthalten: Ein Getränk und Mahlzeit oder Dessert. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "private-castle-samurai-history-and-city-highlights-in-nagoya": {
+  "title": "Private Burg, Samurai-Geschichte und Stadt-Highlights in Nagoya",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Nagoya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nNagoya ist Japans viertgrößte Stadt und das Tor zum Ghibli Park in Nagakute, 2022 eröffnet mit zeitgebundenen Tickets, die Wochen im Voraus ausverkauft sind, zu Nagashima Spa Land und seinen Achterbahnen, und zu Inuyama, dessen Burg einer der zwölf Original-Burgtürme ist. Die goldenen Delfine der Burg Nagoya und das Toyota-Gedächtnismuseum sind die eigenen Sehenswürdigkeiten der Stadt, und gegrillter Hitsumabushi-Aal und Miso-Katsu sind ihr Essen. Der Große Ise-Schrein, Shintos heiligste Stätte, alle zwanzig Jahre neu erbaut, ist 90 Minuten südlich.\n\nIm Preis enthalten sind Private Wandertour, Guide, Besuch der Burg Nagoya, Besuch von Kinshachi Yokocho und Besuch des Gebiets Sakae und Hisaya-odori. Nicht enthalten sind Speisen und Getränke, Eintrittsgebuehr fuer die Burg Nagoya und Gebuehren fuer oeffentliche Verkehrsmittel waehrend der Tour, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Stunden",
+   "Private Wandertour",
+   "Einheimischer Guide",
+   "Besuch der Burg Nagoya",
+   "Besuch von Kinshachi Yokocho",
+   "Besuch des Gebiets Sakae und Hisaya-odori"
+  ],
+  "included": [
+   "Private Wandertour",
+   "Einheimischer Guide",
+   "Besuch der Burg Nagoya",
+   "Besuch von Kinshachi Yokocho",
+   "Besuch des Gebiets Sakae und Hisaya-odori"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke",
+   "Eintrittsgebuehr fuer die Burg Nagoya",
+   "Gebuehren fuer oeffentliche Verkehrsmittel waehrend der Tour"
+  ],
+  "shortDescription": "3-stündige Tour in Nagoya, inklusive Private Wandertour, Guide und Besuch der Burg Nagoya. Durchgeführt von ACE Travel Japan, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Private Burg, Samurai-Geschichte und Stadt-Highlights in Nagoya",
+  "metaDescription": "3-stündige Tour in Nagoya. Enthalten: Private Wandertour und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "miso-factory-and-fox-statue-temple-eco-tour-from-nagoya-by-local-operator": {
   "title": "Öko-Tour zur Miso-Fabrik und zum Fuchsstatuen-Tempel ab Nagoya",
@@ -63012,6 +63212,31 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "3-stündige Tour in Nara, mit Finish at. Durchgeführt von DeepExperience, Inc., direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Sake-Verkostungstour am Geburtsort des japanischen Sake in Nara",
   "metaDescription": "3-stündige Tour in Nara. Enthalten: Geführte Tour durch Naras Sake-Viertel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "private-walking-shore-excursion-kyoto-osaka-nara-kobe": {
+  "title": "Private Landausflug-Wandertour: Kyoto/Osaka/Nara/Kobe",
+  "fullDescription": "Dies ist ein 6-stündiges Erlebnis in Nara. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nKyoto war über tausend Jahre lang bis 1868 Japans Hauptstadt und hat 17 UNESCO-gelistete Stätten unter rund 2.000 Tempeln und Schreinen. Die großen drei sind Kinkaku-ji, der Goldene Pavillon, mit Goldblatt bedeckt und am besten im Morgenlicht; Kiyomizu-dera, die Holzbühne auf den östlichen Hügeln mit den Higashiyama-Gassen von Sannenzaka und Ninenzaka darunter; und die Tore von Fushimi Inari. Die Burg Nijo hat die Nachtigallenböden, die gegen Eindringlinge quietschen, und Ryoan-ji den Steingarten. Tempel öffnen gegen 8:00 oder 9:00 Uhr und schließen um 17:00 Uhr, und der Stadtbus ist langsam; ein Tag mit einem Fahrer oder Guide, der die Stopps gegen die Menschenmassen ordnet, macht den Unterschied zwischen vier Sehenswürdigkeiten und sieben.\n\nAbholung ist ab Osaka, Kobe und Kyoto möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Kansai Local Tours abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Guide, Treffen mit dem Guide und Rueckbegleitung zum Treffpunkt und anpassbarer Reiseplan. Nicht enthalten sind Kosten fuer oeffentliche Verkehrsmittel, Shinkansen-Kosten, Taxikosten und Mahlzeit, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 6 Stunden",
+   "Einheimischer Guide",
+   "Treffen mit dem Guide und Rueckbegleitung zum Treffpunkt",
+   "anpassbarer Reiseplan"
+  ],
+  "included": [
+   "Einheimischer Guide",
+   "Treffen mit dem Guide und Rueckbegleitung zum Treffpunkt",
+   "anpassbarer Reiseplan"
+  ],
+  "notIncluded": [
+   "Kosten fuer oeffentliche Verkehrsmittel",
+   "Shinkansen-Kosten",
+   "Taxikosten",
+   "Mahlzeit",
+   "Eintrittsgebühren"
+  ],
+  "shortDescription": "Tour in Nara, inklusive Guide, Treffen mit dem Guide und Rueckbegleitung zum Treffpunkt und anpassbarer Reiseplan. Durchgeführt von Kansai Local Tours, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Private Landausflug-Wandertour: Kyoto/Osaka/Nara/Kobe",
+  "metaDescription": "Tour in Nara. Enthalten: Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "himeji-kobe-and-nara-trip": {
   "title": "Reise nach Himeji, Kobe und Nara",
