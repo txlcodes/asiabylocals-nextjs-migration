@@ -98,14 +98,18 @@ export default function TermsClient() {
 
             <h3 className="text-xl font-black text-[#001A33] mb-3 mt-6">Cancellation by Traveler</h3>
             <p className="text-gray-700 font-semibold mb-3">
-              Cancellation policies vary by tour. Generally:
+              Cancellation policies vary by tour. Every tour is run by an independent local operator, so the cancellation terms that apply to your booking are the ones shown on the tour page and in your booking confirmation. Generally:
             </p>
             <ul className="space-y-2 text-gray-700 font-semibold">
-              <li>• Free cancellation is available up to 24-48 hours before the tour (varies by tour)</li>
-              <li>• Cancellations made within the cancellation period may be subject to fees</li>
+              <li>• Many tours offer free cancellation up to 24-48 hours before the tour</li>
+              <li>• Some tours, such as helicopter flights, cruises, private charters, private transfers, peak-season dates and tours with limited capacity, have a longer cancellation period (for example 3-4 days or more before the tour) and may be non-cancellable and non-refundable after that point</li>
+              <li>• Cancellations made within the cancellation period may be subject to fees, up to the full price of the tour</li>
               <li>• No-shows are not eligible for refunds</li>
               <li>• Refunds, if applicable, will be processed within 7-14 business days</li>
             </ul>
+            <p className="text-gray-700 font-semibold mt-3">
+              If you are unsure about the cancellation terms of a tour, please contact us before booking.
+            </p>
 
             <h3 className="text-xl font-black text-[#001A33] mb-3 mt-6">Cancellation by Guide or Platform</h3>
             <p className="text-gray-700 font-semibold mb-3">
