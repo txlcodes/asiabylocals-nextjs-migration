@@ -13785,6 +13785,22 @@ export const ES_TOURS: Record<string, TourT> = {
    "comida (D./A./C.)"
   ]
  },
+ "angkor-small-circuit-and-srah-srang-sunset-tour": {
+  "title": "Pequeno circuito de Angkor y atardecer en Srah Srang",
+  "metaTitle": "Pequeno circuito de Angkor y atardecer en Srah Srang",
+  "shortDescription": "Recorrido de dia completo en Siem Reap, con Siem Reap Province, Angkor Wat, Bayon Temple and Ta Prohm Temple y Angkor Wat. Reserva directa con Journey Cambodia, en lugar de a traves de un revendedor.",
+  "fullDescription": "Un recorrido de dia completo desde Siem Reap que visita Siem Reap Province, Angkor Wat, Bayon Temple and Ta Prohm Temple y Angkor Wat. Hay 5 paradas en total, por lo que el dia se llena en vez de dejar largos intervalos entre dos o tres momentos destacados.\n\nAngkor Wat fue construido en la primera mitad del siglo 12 por Suryavarman II como templo hindu dedicado a Vishnu, mas tarde convertido al uso budista, y es el monumento religioso mas grande del mundo con aproximadamente 162 hectareas dentro de su foso. A diferencia de casi todos los demas templos jemeres, mira hacia el oeste. La galeria exterior porta unos 600 metros de bajorrelieve, incluido el Batido del Oceano de Leche, y las torres centrales representan el monte Meru. El nivel superior tiene un codigo de vestimenta realmente aplicado: hombros y rodillas cubiertos, sin camisetas sin mangas, o le haran volver en la escalera. Se requiere un Angkor Pass que cuesta 37 USD por un dia, 62 por tres y 72 por siete, vendido unicamente a traves de Angkor Enterprise; los menores de 12 anos entran gratis con pasaporte.\n\nEl precio incluye visita a los templos del pequeno circuito de Angkor, observacion del atardecer en Srah Srang y un guia turistico privado. No incluye gastos personales, comidas y bebidas y entradas: pase de templo Angkor, 37 USD por persona para un pase de 1 dia, y 62 por, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl precio es de unos 52 $ por persona, asi que un grupo de 6 sale por 312 $. El importe que ve en esta pagina es el total para el tamano de grupo elegido, no una cifra por persona para multiplicar.\n\nJourney Cambodia lo lleva a cabo. Reservamos directamente con ellos, de modo que el guia que le recibe trabaja para el operador y no para un revendedor.",
+  "included": [
+   "visita a los templos del pequeno circuito de Angkor",
+   "observacion del atardecer en Srah Srang",
+   "un guia turistico privado"
+  ],
+  "notIncluded": [
+   "gastos personales",
+   "comidas y bebidas",
+   "entradas: pase de templo Angkor, 37 USD por persona para un pase de 1 dia, y 62 por"
+  ]
+ },
  "private-suv-hotel-to-airport-sia": {
   "title": "SUV privado: hotel al aeropuerto (SIA)",
   "metaTitle": "SUV privado: hotel al aeropuerto (SIA)",
@@ -14057,12 +14073,11 @@ export const ES_TOURS: Record<string, TourT> = {
  "morakot-angkor-restaurant-buffet-and-apsara-dance": {
   "title": "Buffet del restaurante Morakot Angkor y danza Apsara",
   "metaTitle": "Buffet del restaurante Morakot Angkor y danza Apsara",
-  "shortDescription": "Recorrido de 3 horas en Siem Reap, con cocina jemer autentica, buffet o a la carta segun su pedido, 2, exquisito espectaculo diario de danza Apsara, comienza a las 19:30 y 3, ambiente de comedor elegante con decoracion cultural de Angkor. Reserva directa con Angkor Pro Travel, en lugar de a traves de un revendedor.",
-  "fullDescription": "Una experiencia de 3 horas en Siem Reap. El operador lo resume asi: cocina jemer tradicional autentica con ingredientes locales frescos.\n\nLa danza apsara toma su nombre y sus poses de las bailarinas celestiales talladas por miles en los muros de Angkor, y la forma clasica se reconstruyo tras los anos de los jemeres rojos a partir del puñado de maestros que sobrevivieron. Las posiciones de las manos son un vocabulario fijo, cada una con un significado, y los dedos de una bailarina entrenada se doblan hacia atras mas de lo que parece posible porque el entrenamiento comienza en la infancia. La mayoria de los espectaculos de Siem Reap vienen con un bufet; las funciones serias son mas cortas y se venden por separado. Phare, el circo camboyano, es algo completamente distinto, una escuela en Battambang que acoge a ninos de entornos dificiles y monta teatro acrobatico moderno sobre la vida camboyana.\n\nEl precio incluye cocina jemer autentica, buffet o a la carta segun su pedido, 2, exquisito espectaculo diario de danza Apsara, comienza a las 19:30 y 3, ambiente de comedor elegante con decoracion cultural de Angkor. No incluye gastos de alcohol y bebidas, 2, todos los gastos y costos personales incluyen cualquier gasto no mencionado en el documento y 3, propina, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl precio es de unos 27 $ por persona, asi que un grupo de 5 sale por 137 $. El importe que ve en esta pagina es el total para el tamano de grupo elegido, no una cifra por persona para multiplicar.\n\nAngkor Pro Travel lo lleva a cabo. Reservamos directamente con ellos, de modo que el guia que le recibe trabaja para el operador y no para un revendedor.",
+  "shortDescription": "Recorrido de 3 horas en Siem Reap, con cocina jemer autentica, buffet o a la carta segun su pedido y 2, exquisito espectaculo diario de danza Apsara, comienza a las 19:30. Reserva directa con Angkor Pro Travel, en lugar de a traves de un revendedor.",
+  "fullDescription": "Una experiencia de 3 horas en Siem Reap. El operador lo resume asi: cocina jemer tradicional autentica con ingredientes locales frescos.\n\nLa danza apsara toma su nombre y sus poses de las bailarinas celestiales talladas por miles en los muros de Angkor, y la forma clasica se reconstruyo tras los anos de los jemeres rojos a partir del puñado de maestros que sobrevivieron. Las posiciones de las manos son un vocabulario fijo, cada una con un significado, y los dedos de una bailarina entrenada se doblan hacia atras mas de lo que parece posible porque el entrenamiento comienza en la infancia. La mayoria de los espectaculos de Siem Reap vienen con un bufet; las funciones serias son mas cortas y se venden por separado. Phare, el circo camboyano, es algo completamente distinto, una escuela en Battambang que acoge a ninos de entornos dificiles y monta teatro acrobatico moderno sobre la vida camboyana.\n\nEl precio incluye cocina jemer autentica, buffet o a la carta segun su pedido y 2, exquisito espectaculo diario de danza Apsara, comienza a las 19:30. No incluye gastos de alcohol y bebidas, 2, todos los gastos y costos personales incluyen cualquier gasto no mencionado en el documento y 3, propina, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl precio es de unos 27 $ por persona, asi que un grupo de 5 sale por 137 $. El importe que ve en esta pagina es el total para el tamano de grupo elegido, no una cifra por persona para multiplicar.\n\nAngkor Pro Travel lo lleva a cabo. Reservamos directamente con ellos, de modo que el guia que le recibe trabaja para el operador y no para un revendedor.",
   "included": [
    "cocina jemer autentica, buffet o a la carta segun su pedido",
-   "2, exquisito espectaculo diario de danza Apsara, comienza a las 19:30",
-   "3, ambiente de comedor elegante con decoracion cultural de Angkor"
+   "2, exquisito espectaculo diario de danza Apsara, comienza a las 19:30"
   ],
   "notIncluded": [
    "gastos de alcohol y bebidas",
@@ -14772,6 +14787,21 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "a su propio gasto",
    "propinas"
+  ]
+ },
+ "2-days-angkor-and-banteay-srei-and-kulen-mountian": {
+  "title": "2 dias: Angkor, Banteay Srei y montana Kulen",
+  "metaTitle": "2 dias: Angkor, Banteay Srei y montana Kulen",
+  "shortDescription": "Recorrido de 2 dias en Siem Reap, con guia turistico de habla inglesa, coche, furgoneta o autobus con aire acondicionado y conductor y tarifas de estacionamiento y peajes de carretera. Reserva directa con BREKSA TRAVEL, en lugar de a traves de un revendedor.",
+  "fullDescription": "Una experiencia de 2 dias en Siem Reap. El operador lo resume asi: explorar la antigua ciudad de Mahendraparvata en la cima de la montana Phnom Kulen.\n\nAngkor Wat fue construido en la primera mitad del siglo 12 por Suryavarman II como templo hindu dedicado a Vishnu, mas tarde convertido al uso budista, y es el monumento religioso mas grande del mundo con aproximadamente 162 hectareas dentro de su foso. A diferencia de casi todos los demas templos jemeres, mira hacia el oeste. La galeria exterior porta unos 600 metros de bajorrelieve, incluido el Batido del Oceano de Leche, y las torres centrales representan el monte Meru. El nivel superior tiene un codigo de vestimenta realmente aplicado: hombros y rodillas cubiertos, sin camisetas sin mangas, o le haran volver en la escalera. Se requiere un Angkor Pass que cuesta 37 USD por un dia, 62 por tres y 72 por siete, vendido unicamente a traves de Angkor Enterprise; los menores de 12 anos entran gratis con pasaporte.\n\nEl precio incluye guia turistico de habla inglesa, coche, furgoneta o autobus con aire acondicionado y conductor y tarifas de estacionamiento y peajes de carretera. No incluye pase de templos: 1 dia 37/pers., 3 dias 62/pers., 7 dias 72/pers. y entradas para la montana Kulen, 20 por persona, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl precio sube segun el tamano del grupo en lugar de multiplicarse: 1 viajero cuesta 325 $, 5 cuesta 328 $ y 8 cuesta 520 $. El importe indicado es el total para su grupo, no una tarifa por persona.\n\nBREKSA TRAVEL lo lleva a cabo. Reservamos directamente con ellos, de modo que el guia que le recibe trabaja para el operador y no para un revendedor.",
+  "included": [
+   "guia turistico de habla inglesa",
+   "coche, furgoneta o autobus con aire acondicionado y conductor",
+   "tarifas de estacionamiento y peajes de carretera"
+  ],
+  "notIncluded": [
+   "pase de templos: 1 dia 37/pers., 3 dias 62/pers., 7 dias 72/pers.",
+   "entradas para la montana Kulen, 20 por persona"
   ]
  },
  "sunrise-at-angkor-wat-explore-other-temples-with-a": {
@@ -16361,6 +16391,21 @@ export const ES_TOURS: Record<string, TourT> = {
    "gastos personales"
   ]
  },
+ "3-days-angkor-and-beng-mealea-and-koh-ker": {
+  "title": "3 dias: Angkor, Beng Mealea y Koh Ker",
+  "metaTitle": "3 dias: Angkor, Beng Mealea y Koh Ker",
+  "shortDescription": "Recorrido de dia completo en Siem Reap, con guia turistico de habla inglesa, coche, furgoneta o autobus con aire acondicionado y conductor y tarifas de estacionamiento y peajes de carretera. Reserva directa con Angkor Wat Driver Private Tour, en lugar de a traves de un revendedor.",
+  "fullDescription": "Una experiencia de dia completo en Siem Reap. El operador lo resume asi: explorar los templos antiguos de Angkor Wat, Angkor Thom y Beng Mealea.\n\nEl amanecer en Angkor Wat se observa desde el borde del estanque reflectante norte, donde las cinco torres se elevan en negro contra el cielo y luego se duplican en el agua. La taquilla abre a las 04:30 y Angkor Wat deja entrar a la gente desde las 05:00, por eso los tours salen de Siem Reap hacia las 04:30 para veinte minutos de trayecto; el cielo se colorea antes de que el sol despeje las torres, asi que llegar con las primeras luces ya es tarde para lo mejor. La temporada seca de noviembre a marzo ofrece los cielos mas limpios, mientras que las lluvias traen nubes que pueden arruinar el amanecer o hacerlo aun mejor. El borde del estanque se llena pronto, el estanque sur suele ser mas tranquilo, y un guia que sabe de que lado situarse marca la diferencia entre una fotografia y una pared de telefonos en alto.\n\nEl precio incluye guia turistico de habla inglesa, coche, furgoneta o autobus con aire acondicionado y conductor y tarifas de estacionamiento y peajes de carretera. No incluye pase de templos: 1 dia 37/pers., 3 dias 62/pers., 7 dias 72/pers. y entrada para Koh Ker, 15 por persona, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl precio sube segun el tamano del grupo en lugar de multiplicarse: 1 viajero cuesta 614 $, 5 cuesta 619 $ y 8 cuesta 988 $. El importe indicado es el total para su grupo, no una tarifa por persona.\n\nAngkor Wat Driver Private Tour lo lleva a cabo. Reservamos directamente con ellos, de modo que el guia que le recibe trabaja para el operador y no para un revendedor.",
+  "included": [
+   "guia turistico de habla inglesa",
+   "coche, furgoneta o autobus con aire acondicionado y conductor",
+   "tarifas de estacionamiento y peajes de carretera"
+  ],
+  "notIncluded": [
+   "pase de templos: 1 dia 37/pers., 3 dias 62/pers., 7 dias 72/pers.",
+   "entrada para Koh Ker, 15 por persona"
+  ]
+ },
  "transfer-siem-reap-to-koh-kong-with-overnight-in": {
   "title": "Traslado de Siem Reap a Koh Kong con noche en Battambang",
   "metaTitle": "Traslado de Siem Reap a Koh Kong con noche en Battambang",
@@ -17468,7 +17513,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "title": "Templos de Angkor, Ta Prohm y barbacoa al atardecer",
   "metaTitle": "Templos de Angkor, Ta Prohm y barbacoa al atardecer",
   "shortDescription": "Recorrido de dia completo en Siem Reap, con Siem Reap Province, Angkor Wat, Bayon Temple and Ta Prohm Temple y Angkor Wat. Reserva directa con Siem Reap Shuttle, en lugar de a traves de un revendedor.",
-  "fullDescription": "Un recorrido de dia completo desde Siem Reap que visita Siem Reap Province, Angkor Wat, Bayon Temple and Ta Prohm Temple y Angkor Wat. Hay 5 paradas en total, por lo que el dia se llena en vez de dejar largos intervalos entre dos o tres momentos destacados.\n\nAngkor Wat fue construido en la primera mitad del siglo 12 por Suryavarman II como templo hindu dedicado a Vishnu, mas tarde convertido al uso budista, y es el monumento religioso mas grande del mundo con aproximadamente 162 hectareas dentro de su foso. A diferencia de casi todos los demas templos jemeres, mira hacia el oeste. La galeria exterior porta unos 600 metros de bajorrelieve, incluido el Batido del Oceano de Leche, y las torres centrales representan el monte Meru. El nivel superior tiene un codigo de vestimenta realmente aplicado: hombros y rodillas cubiertos, sin camisetas sin mangas, o le haran volver en la escalera. Se requiere un Angkor Pass que cuesta 37 USD por un dia, 62 por tres y 72 por siete, vendido unicamente a traves de Angkor Enterprise; los menores de 12 anos entran gratis con pasaporte.\n\nEl precio incluye 1 transporte de ida y vuelta desde y hacia su hotel en Siem Reap en vehiculo con aire acondicionado, 2, guia turistico profesional y debidamente licenciado, de habla italiana y 3, autentica cena de barbacoa camboyana servida al atardecer. No incluye pase de templo Angkor Enterprise obligatorio, 37 para un pase de 1 dia, 2, almuerzo durante el dia y 3, propinas opcionales y gastos personales, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl precio es de unos 91 $ por persona, asi que un grupo de 8 sale por 728 $. El importe que ve en esta pagina es el total para el tamano de grupo elegido, no una cifra por persona para multiplicar.\n\nSiem Reap Shuttle lo lleva a cabo. Reservamos directamente con ellos, de modo que el guia que le recibe trabaja para el operador y no para un revendedor.",
+  "fullDescription": "Un recorrido de dia completo desde Siem Reap que visita Siem Reap Province, Angkor Wat, Bayon Temple and Ta Prohm Temple y Angkor Wat. Hay 5 paradas en total, por lo que el dia se llena en vez de dejar largos intervalos entre dos o tres momentos destacados.\n\nAngkor Wat fue construido en la primera mitad del siglo 12 por Suryavarman II como templo hindu dedicado a Vishnu, mas tarde convertido al uso budista, y es el monumento religioso mas grande del mundo con aproximadamente 162 hectareas dentro de su foso. A diferencia de casi todos los demas templos jemeres, mira hacia el oeste. La galeria exterior porta unos 600 metros de bajorrelieve, incluido el Batido del Oceano de Leche, y las torres centrales representan el monte Meru. El nivel superior tiene un codigo de vestimenta realmente aplicado: hombros y rodillas cubiertos, sin camisetas sin mangas, o le haran volver en la escalera. Se requiere un Angkor Pass que cuesta 37 USD por un dia, 62 por tres y 72 por siete, vendido unicamente a traves de Angkor Enterprise; los menores de 12 anos entran gratis con pasaporte.\n\nEl precio incluye 1 transporte de ida y vuelta desde y hacia su hotel en Siem Reap en vehiculo con aire acondicionado, 2, guia turistico profesional y debidamente licenciado, de habla italiana y 3, autentica cena de barbacoa camboyana servida al atardecer. No incluye pase de templo Angkor Enterprise obligatorio, 37 para un pase de 1 dia y 2, almuerzo durante el dia, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl precio es de unos 91 $ por persona, asi que un grupo de 8 sale por 728 $. El importe que ve en esta pagina es el total para el tamano de grupo elegido, no una cifra por persona para multiplicar.\n\nSiem Reap Shuttle lo lleva a cabo. Reservamos directamente con ellos, de modo que el guia que le recibe trabaja para el operador y no para un revendedor.",
   "included": [
    "1 transporte de ida y vuelta desde y hacia su hotel en Siem Reap en vehiculo con aire acondicionado",
    "2, guia turistico profesional y debidamente licenciado, de habla italiana",
@@ -17476,8 +17521,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "pase de templo Angkor Enterprise obligatorio, 37 para un pase de 1 dia",
-   "2, almuerzo durante el dia",
-   "3, propinas opcionales y gastos personales"
+   "2, almuerzo durante el dia"
   ]
  },
  "angkor-wat-sunrise-bayon-and-ta-prohm-tour": {
@@ -21032,6 +21076,20 @@ export const ES_TOURS: Record<string, TourT> = {
    "gastos personales"
   ]
  },
+ "private-angkor-temple-tour-from-siem-reap-1-days": {
+  "title": "Tour privado de templos de Angkor desde Siem Reap: 1 dia",
+  "metaTitle": "Tour privado de templos de Angkor desde Siem Reap: 1 dia",
+  "shortDescription": "Recorrido de dia completo en Siem Reap, con Krong Siem Reap, Angkor Wat y Tonle Om Gate (Southern Gate) and Bayon Temple. Reserva directa con Angkor Buddy, en lugar de a traves de un revendedor.",
+  "fullDescription": "Un recorrido de dia completo desde Siem Reap que visita Krong Siem Reap, Angkor Wat y Tonle Om Gate (Southern Gate) and Bayon Temple. Hay 11 paradas en total, por lo que el dia se llena en vez de dejar largos intervalos entre dos o tres momentos destacados.\n\nAngkor Wat fue construido en la primera mitad del siglo 12 por Suryavarman II como templo hindu dedicado a Vishnu, mas tarde convertido al uso budista, y es el monumento religioso mas grande del mundo con aproximadamente 162 hectareas dentro de su foso. A diferencia de casi todos los demas templos jemeres, mira hacia el oeste. La galeria exterior porta unos 600 metros de bajorrelieve, incluido el Batido del Oceano de Leche, y las torres centrales representan el monte Meru. El nivel superior tiene un codigo de vestimenta realmente aplicado: hombros y rodillas cubiertos, sin camisetas sin mangas, o le haran volver en la escalera. Se requiere un Angkor Pass que cuesta 37 USD por un dia, 62 por tres y 72 por siete, vendido unicamente a traves de Angkor Enterprise; los menores de 12 anos entran gratis con pasaporte.\n\nEl precio incluye guia turistico de habla inglesa, traslados de regreso y agua embotellada. No incluye entrada al templo de Angkor Wat, 37,00 por persona, cubre todos los templos, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl precio sube segun el tamano del grupo en lugar de multiplicarse: 2 viajero cuesta 102 $, 5 cuesta 163 $ y 8 cuesta 208 $. El importe indicado es el total para su grupo, no una tarifa por persona.\n\nAngkor Buddy lo lleva a cabo. Reservamos directamente con ellos, de modo que el guia que le recibe trabaja para el operador y no para un revendedor.",
+  "included": [
+   "guia turistico de habla inglesa",
+   "traslados de regreso",
+   "agua embotellada"
+  ],
+  "notIncluded": [
+   "entrada al templo de Angkor Wat, 37,00 por persona, cubre todos los templos"
+  ]
+ },
  "khmer-village-and-fish-farm-atv-tour": {
   "title": "Tour en ATV al pueblo jemer y la granja de peces",
   "metaTitle": "Tour en ATV al pueblo jemer y la granja de peces",
@@ -23378,6 +23436,21 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "propinas",
    "gastos personales"
+  ]
+ },
+ "angkor-wat-sunrise-small-group-or-private-guided-t": {
+  "title": "Angkor Wat al amanecer, tour guiado en grupo pequeno o privado",
+  "metaTitle": "Angkor Wat al amanecer, tour guiado en grupo pequeno o privado",
+  "shortDescription": "Recorrido de dia completo en Siem Reap, con Krong Siem Reap, Bus/coach y Angkor Wat and Ta Prohm Temple. Reserva directa con Angkor Buddy, en lugar de a traves de un revendedor.",
+  "fullDescription": "Un recorrido de dia completo desde Siem Reap que visita Krong Siem Reap, Bus/coach y Angkor Wat and Ta Prohm Temple. Hay 8 paradas en total, por lo que el dia se llena en vez de dejar largos intervalos entre dos o tres momentos destacados.\n\nEl amanecer en Angkor Wat se observa desde el borde del estanque reflectante norte, donde las cinco torres se elevan en negro contra el cielo y luego se duplican en el agua. La taquilla abre a las 04:30 y Angkor Wat deja entrar a la gente desde las 05:00, por eso los tours salen de Siem Reap hacia las 04:30 para veinte minutos de trayecto; el cielo se colorea antes de que el sol despeje las torres, asi que llegar con las primeras luces ya es tarde para lo mejor. La temporada seca de noviembre a marzo ofrece los cielos mas limpios, mientras que las lluvias traen nubes que pueden arruinar el amanecer o hacerlo aun mejor. El borde del estanque se llena pronto, el estanque sur suele ser mas tranquilo, y un guia que sabe de que lado situarse marca la diferencia entre una fotografia y una pared de telefonos en alto.\n\nEl precio incluye recogida y regreso al hotel, transporte con aire acondicionado y guia profesional de habla inglesa. No incluye pase de templo, entrada de templo, 37 para 1 dia y no se requiere entrada para menores de 12 anos, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl precio es de unos 20 $ por persona, asi que un grupo de 7 sale por 136 $. El importe que ve en esta pagina es el total para el tamano de grupo elegido, no una cifra por persona para multiplicar.\n\nAngkor Buddy lo lleva a cabo. Reservamos directamente con ellos, de modo que el guia que le recibe trabaja para el operador y no para un revendedor.",
+  "included": [
+   "recogida y regreso al hotel",
+   "transporte con aire acondicionado",
+   "guia profesional de habla inglesa"
+  ],
+  "notIncluded": [
+   "pase de templo, entrada de templo, 37 para 1 dia",
+   "no se requiere entrada para menores de 12 anos"
   ]
  },
  "bike-the-angkor-temples-full-day-30-km-tour": {
@@ -29863,16 +29936,14 @@ export const ES_TOURS: Record<string, TourT> = {
   "title": "Palacio real, museo, Wat Phnom y mercado central en Phnom Penh",
   "metaTitle": "Palacio real, museo, Wat Phnom y mercado central en Phnom Penh",
   "shortDescription": "Recorrido de 4 horas en Phnom Penh, con conductor de habla inglesa si se selecciona la opcion con conductor de tuk-tuk, guia en vivo de habla inglesa si se selecciona la opcion con guia en vivo y recogida y regreso en tuk-tuk. Reserva directa con Euro Khmer Voyages, en lugar de a traves de un revendedor.",
-  "fullDescription": "Esta es una experiencia de 4 horas en Phnom Penh. Esta a cargo de Euro Khmer Voyages, un operador con el que reservamos directamente en lugar de a traves de un revendedor, por lo que podemos reservar su plaza antes de dar la reserva por definitiva.\n\nEl Palacio Real de Phnom Penh ha sido la residencia del rey camboyano desde 1866 y todavia esta habitado, por lo que los aposentos reales estan cerrados y la Sala del Trono se ve desde fuera. La Pagoda de Plata, en el mismo recinto, toma su nombre de las cinco mil baldosas de plata de su suelo, la mayoria hoy cubiertas para protegerlas, y alberga un Buda de 90 kilogramos de oro engastado con mas de dos mil diamantes. El palacio impone un codigo de vestimenta en la puerta: hombros y rodillas cubiertos para todos. El Museo Nacional, al lado, tiene la mejor escultura jemer que existe, y cierra al mediodia.\n\nEl precio incluye conductor de habla inglesa si se selecciona la opcion con conductor de tuk-tuk, guia en vivo de habla inglesa si se selecciona la opcion con guia en vivo y recogida y regreso en tuk-tuk. No incluye entrada al palacio real, 10 por persona, guia opcional in situ 10, entrada al museo nacional, 10 por persona, guia opcional in situ 10 y entrada al Wat Phnom, 1, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.",
+  "fullDescription": "Esta es una experiencia de 4 horas en Phnom Penh. Esta a cargo de Euro Khmer Voyages, un operador con el que reservamos directamente en lugar de a traves de un revendedor, por lo que podemos reservar su plaza antes de dar la reserva por definitiva.\n\nEl Palacio Real de Phnom Penh ha sido la residencia del rey camboyano desde 1866 y todavia esta habitado, por lo que los aposentos reales estan cerrados y la Sala del Trono se ve desde fuera. La Pagoda de Plata, en el mismo recinto, toma su nombre de las cinco mil baldosas de plata de su suelo, la mayoria hoy cubiertas para protegerlas, y alberga un Buda de 90 kilogramos de oro engastado con mas de dos mil diamantes. El palacio impone un codigo de vestimenta en la puerta: hombros y rodillas cubiertos para todos. El Museo Nacional, al lado, tiene la mejor escultura jemer que existe, y cierra al mediodia.\n\nEl precio incluye conductor de habla inglesa si se selecciona la opcion con conductor de tuk-tuk, guia en vivo de habla inglesa si se selecciona la opcion con guia en vivo y recogida y regreso en tuk-tuk. No incluye entrada al palacio real, 10 por persona, guia opcional in situ 10, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.",
   "included": [
    "conductor de habla inglesa si se selecciona la opcion con conductor de tuk-tuk",
    "guia en vivo de habla inglesa si se selecciona la opcion con guia en vivo",
    "recogida y regreso en tuk-tuk"
   ],
   "notIncluded": [
-   "entrada al palacio real, 10 por persona, guia opcional in situ 10",
-   "entrada al museo nacional, 10 por persona, guia opcional in situ 10",
-   "entrada al Wat Phnom, 1"
+   "entrada al palacio real, 10 por persona, guia opcional in situ 10"
   ]
  },
  "half-day-grand-circuit-temples-by-tuk-tuk-in": {
@@ -30322,7 +30393,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "title": "Tour por la ciudad que incluye el museo S-21 y los campos de exterminio en Phnom Penh",
   "metaTitle": "Tour por la ciudad que incluye el museo S-21 y los campos de",
   "shortDescription": "Recorrido de 5 horas en Phnom Penh, con National Museum of Cambodia y Central Market Phnom Penh and Wat Phnom. Reserva directa con Private Siem Reap Tour Guide & Transport, en lugar de a traves de un revendedor.",
-  "fullDescription": "Esta es una experiencia de 5 horas en Phnom Penh, centrada en National Museum of Cambodia y Central Market Phnom Penh and Wat Phnom. Esta a cargo de Private Siem Reap Tour Guide & Transport, un operador con el que reservamos directamente en lugar de a traves de un revendedor, por lo que podemos reservar su plaza antes de dar la reserva por definitiva.\n\nTuol Sleng era un instituto de secundaria en Phnom Penh que los jemeres rojos convirtieron en la Prision de Seguridad 21 en 1975. De las aproximadamente 12.000 a 20.000 personas retenidas alli, sobrevivio alrededor de una docena. Las aulas todavia conservan los armazones de hierro de las camas y las fotografias que el regimen tomaba de cada prisionero a su llegada. Choeung Ek, a unos 15 kilometros de distancia, es donde la mayoria fue llevada para ser asesinada, y su estupa guarda unas 5.000 calaveras; la audioguia alli esta narrada en parte por una superviviente y es la razon por la que la mayoria de los visitantes logra terminarla. Ambos lugares se visitan en silencio, llevan en conjunto alrededor de medio dia, y no son adecuados para ninos pequenos.\n\nEl precio incluye recogida y regreso al hotel, guia turistico de habla inglesa y transporte en tuk-tuk. No incluye gastos personales, tarifas de entrada, Palacio Real, 10 y Wat Phnom, 1, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.",
+  "fullDescription": "Esta es una experiencia de 5 horas en Phnom Penh, centrada en National Museum of Cambodia y Central Market Phnom Penh and Wat Phnom. Esta a cargo de Private Siem Reap Tour Guide & Transport, un operador con el que reservamos directamente en lugar de a traves de un revendedor, por lo que podemos reservar su plaza antes de dar la reserva por definitiva.\n\nTuol Sleng era un instituto de secundaria en Phnom Penh que los jemeres rojos convirtieron en la Prision de Seguridad 21 en 1975. De las aproximadamente 12.000 a 20.000 personas retenidas alli, sobrevivio alrededor de una docena. Las aulas todavia conservan los armazones de hierro de las camas y las fotografias que el regimen tomaba de cada prisionero a su llegada. Choeung Ek, a unos 15 kilometros de distancia, es donde la mayoria fue llevada para ser asesinada, y su estupa guarda unas 5.000 calaveras; la audioguia alli esta narrada en parte por una superviviente y es la razon por la que la mayoria de los visitantes logra terminarla. Ambos lugares se visitan en silencio, llevan en conjunto alrededor de medio dia, y no son adecuados para ninos pequenos.\n\nEl precio incluye recogida y regreso al hotel, guia turistico de habla inglesa y transporte en tuk-tuk. No incluye gastos personales, tarifas de entrada y Palacio Real, 10, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.",
   "included": [
    "recogida y regreso al hotel",
    "guia turistico de habla inglesa",
@@ -30331,8 +30402,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "gastos personales",
    "tarifas de entrada",
-   "Palacio Real, 10",
-   "Wat Phnom, 1"
+   "Palacio Real, 10"
   ]
  },
  "banteay-srei-beng-mealea-and-floating-village": {
