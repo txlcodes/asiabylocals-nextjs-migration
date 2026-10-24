@@ -65440,6 +65440,27 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Expérience de dégustation et de fabrication de matcha à Tokyo",
   "metaDescription": "Excursion à Tokyo. Comprend boisson de bienvenue. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "j-league-soccer-game-with-local-fan-and-ticket-in-tokyo": {
+  "title": "Match de football J-League avec supporter local et billet a Tokyo",
+  "fullDescription": "Cette expérience de 2,5 heures se déroule à Tokyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nTokyo est la plus grande ville du monde par population métropolitaine et se visite mieux comme un ensemble de quartiers sur la ligne circulaire Yamanote plutôt que comme un seul lieu. Asakusa a Senso-ji, le plus ancien temple de la ville, et l'allée commerçante de Nakamise ; Shibuya a le carrefour piéton géant et Shinjuku les bars de Golden Gai et Omoide Yokocho ; Harajuku c'est la rue Takeshita et la forêt du sanctuaire Meiji ; Akihabara c'est l'électronique et l'anime ; Ginza ce sont les grands magasins et les comptoirs à sushi. Tout fonctionne à l'heure et les derniers trains partent vers minuit. L'argent liquide compte encore dans les petits restaurants, une carte IC couvre chaque train et bus, et le pourboire ne se pratique nulle part.\n\nLe prix comprend billet officiel du match et guide. Il ne comprend pas frais de nourriture et boissons, transport vers le stade et frais d'achat de marchandises, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2,5 heures",
+   "billet officiel du match",
+   "Guide anglophone"
+  ],
+  "included": [
+   "billet officiel du match",
+   "Guide anglophone"
+  ],
+  "notIncluded": [
+   "frais de nourriture et boissons",
+   "transport vers le stade",
+   "frais d'achat de marchandises"
+  ],
+  "shortDescription": "Billet d'entrée à Tokyo, comprenant billet officiel du match et guide. Opérateur : HUGOsan, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Match de football J-League avec supporter local et billet a Tokyo",
+  "metaDescription": "Billet d'entrée à Tokyo. Comprend billet officiel du match et guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "taiko-drumming-experience-boom-feel-the-tradition-in-tokyo": {
   "title": "Expérience de tambour taiko : boum ! Ressentez la tradition à Tokyo",
   "fullDescription": "Cette expérience de 1,5 heures se déroule à Tokyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nTokyo est la plus grande ville du monde par population métropolitaine et se visite mieux comme un ensemble de quartiers sur la ligne circulaire Yamanote plutôt que comme un seul lieu. Asakusa a Senso-ji, le plus ancien temple de la ville, et l'allée commerçante de Nakamise ; Shibuya a le carrefour piéton géant et Shinjuku les bars de Golden Gai et Omoide Yokocho ; Harajuku c'est la rue Takeshita et la forêt du sanctuaire Meiji ; Akihabara c'est l'électronique et l'anime ; Ginza ce sont les grands magasins et les comptoirs à sushi. Tout fonctionne à l'heure et les derniers trains partent vers minuit. L'argent liquide compte encore dans les petits restaurants, une carte IC couvre chaque train et bus, et le pourboire ne se pratique nulle part.\n\nLe prix comprend frais de participation à l'atelier et frais de location pour l'équipement utilisé pour l'atelier. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -65566,6 +65587,31 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Apprenez des chants traditionnels lors d'un cours de shamisen Tsugaru à Tokyo",
   "metaDescription": "Excursion de 1 heure à Tokyo. Comprend frais de cours. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "authentic-kintsugi-and-matcha-experience-in-shibuya-tokyo-by-local-operator": {
+  "title": "Experience authentique de kintsugi et matcha a Shibuya, Tokyo, par un operateur local",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Tokyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nTokyo est la plus grande ville du monde par population métropolitaine et se visite mieux comme un ensemble de quartiers sur la ligne circulaire Yamanote plutôt que comme un seul lieu. Asakusa a Senso-ji, le plus ancien temple de la ville, et l'allée commerçante de Nakamise ; Shibuya a le carrefour piéton géant et Shinjuku les bars de Golden Gai et Omoide Yokocho ; Harajuku c'est la rue Takeshita et la forêt du sanctuaire Meiji ; Akihabara c'est l'électronique et l'anime ; Ginza ce sont les grands magasins et les comptoirs à sushi. Tout fonctionne à l'heure et les derniers trains partent vers minuit. L'argent liquide compte encore dans les petits restaurants, une carte IC couvre chaque train et bus, et le pourboire ne se pratique nulle part.\n\nLe prix comprend thé matcha, douceurs de saison, fiche d'introduction explicative, tous les materiaux pour effectuer les restaurations et reparations et piece de vaisselle a reparer. Il ne comprend pas tout est compris, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2 heures",
+   "Thé matcha",
+   "douceurs de saison",
+   "fiche d'introduction explicative",
+   "tous les materiaux pour effectuer les restaurations et reparations",
+   "piece de vaisselle a reparer"
+  ],
+  "included": [
+   "Thé matcha",
+   "douceurs de saison",
+   "fiche d'introduction explicative",
+   "tous les materiaux pour effectuer les restaurations et reparations",
+   "piece de vaisselle a reparer"
+  ],
+  "notIncluded": [
+   "Tout est compris"
+  ],
+  "shortDescription": "Excursion de 2 heures à Tokyo, comprenant thé matcha, douceurs de saison et fiche d'introduction explicative. Opérateur : mon cadeau, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Experience authentique de kintsugi et matcha a Shibuya, Tokyo",
+  "metaDescription": "Excursion de 2 heures à Tokyo. Comprend thé matcha. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "stand-up-comedy-in-shibuya-english-tokyo": {
   "title": "Spectacle d'humour à Shibuya (en anglais) (Tokyo)",
   "fullDescription": "Cette expérience de 1,5 heures se déroule à Tokyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nTokyo est la plus grande ville du monde par population métropolitaine et se visite mieux comme un ensemble de quartiers sur la ligne circulaire Yamanote plutôt que comme un seul lieu. Asakusa a Senso-ji, le plus ancien temple de la ville, et l'allée commerçante de Nakamise ; Shibuya a le carrefour piéton géant et Shinjuku les bars de Golden Gai et Omoide Yokocho ; Harajuku c'est la rue Takeshita et la forêt du sanctuaire Meiji ; Akihabara c'est l'électronique et l'anime ; Ginza ce sont les grands magasins et les comptoirs à sushi. Tout fonctionne à l'heure et les derniers trains partent vers minuit. L'argent liquide compte encore dans les petits restaurants, une carte IC couvre chaque train et bus, et le pourboire ne se pratique nulle part.\n\nLe prix comprend le prix du billet couvre uniquement l'entrée. Il ne comprend pas boissons, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -65641,6 +65687,33 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Promenade de la vallée géothermique et du torii flottant à Hakone",
   "metaDescription": "Excursion d'une demi-journée à Hakone. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "odawara-castle-samurai-history-and-local-food-walk-in-hakone": {
+  "title": "Odawara : chateau, histoire des samourais et promenade gastronomique locale a Hakone",
+  "fullDescription": "Cette expérience de 2,5 heures se déroule à Hakone. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHakone est la station thermale dans les montagnes à 90 minutes au sud-ouest de Tokyo, à l'intérieur de la caldeira d'un ancien volcan. La boucle classique est le téléphérique de Hakone au-dessus des évents sulfureux d'Owakudani, où des œufs sont bouillis noirs dans les sources, un bateau à travers le lac Ashi devant le torii rouge du sanctuaire Hakone, et, par temps clair, le Fuji au-dessus du lac. Le bain en onsen suit les règles habituelles : se laver avant d'entrer, pas de maillot de bain, et de nombreux bains refusent encore les tatouages ou demandent une protection. Le Hakone Free Pass couvre les trains, le funiculaire, le téléphérique et le bateau ; le téléphérique ferme en cas de vent fort et quand les gaz volcaniques montent, ce qui arrive quelques jours par an.\n\nLe prix comprend circuit a pied d'Odawara, visite du sanctuaire Hotoku Ninomiya, visite de la rue Kamaboko, dégustation de nourriture et occasions de photos. Il ne comprend pas transport depuis et vers Odawara, repas et boissons non precises dans le circuit et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2,5 heures",
+   "circuit a pied d'Odawara",
+   "visite du sanctuaire Hotoku Ninomiya",
+   "visite de la rue Kamaboko",
+   "Dégustation de nourriture locale",
+   "Occasions de photos"
+  ],
+  "included": [
+   "circuit a pied d'Odawara",
+   "visite du sanctuaire Hotoku Ninomiya",
+   "visite de la rue Kamaboko",
+   "Dégustation de nourriture locale",
+   "Occasions de photos"
+  ],
+  "notIncluded": [
+   "transport depuis et vers Odawara",
+   "repas et boissons non precises dans le circuit",
+   "Dépenses personnelles"
+  ],
+  "shortDescription": "Excursion de 2,5 heures à Hakone, comprenant circuit a pied d'Odawara, visite du sanctuaire Hotoku Ninomiya et visite de la rue Kamaboko. Opérateur : Native Japan, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Odawara : chateau, histoire des samourais et promenade gastronomique locale a Hakone",
+  "metaDescription": "Excursion de 2,5 heures à Hakone. Comprend circuit a pied d'Odawara. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "evangelion-anime-tour-with-professional-guide-in-hakone": {
   "title": "Visite anime Evangelion avec guide professionnel à Hakone",
   "fullDescription": "Cette expérience de 6,5 heures se déroule au départ de Hakone, construite autour de Train, Téléphérique et Owakudani. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHakone est la station thermale dans les montagnes à 90 minutes au sud-ouest de Tokyo, à l'intérieur de la caldeira d'un ancien volcan. La boucle classique est le téléphérique de Hakone au-dessus des évents sulfureux d'Owakudani, où des œufs sont bouillis noirs dans les sources, un bateau à travers le lac Ashi devant le torii rouge du sanctuaire Hakone, et, par temps clair, le Fuji au-dessus du lac. Le bain en onsen suit les règles habituelles : se laver avant d'entrer, pas de maillot de bain, et de nombreux bains refusent encore les tatouages ou demandent une protection. Le Hakone Free Pass couvre les trains, le funiculaire, le téléphérique et le bateau ; le téléphérique ferme en cas de vent fort et quand les gaz volcaniques montent, ce qui arrive quelques jours par an.\n\nLe prix comprend guide, visite de décors célèbres d'Evangelion et shopping dans des supérettes à thème Evangelion. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\n箱根湯本駅. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -65686,6 +65759,32 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 2,5 heures à Hakone, comprenant visite guidée à pied, visite du sanctuaire de Hakone et visite de l'ancienne avenue des cèdres du Tokaido. Opérateur : ACE Travel Japan, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Couleurs d'automne du lac Ashi et promenade au sanctuaire de Hakone",
   "metaDescription": "Excursion de 2,5 heures à Hakone. Comprend visite guidée à pied. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "mt-fuji-6-must-see-spots-oshino-and-lake-kawaguchi-from-tokyo-mount-fuji": {
+  "title": "Mont Fuji : 6 sites incontournables, Oshino et lac Kawaguchi, depuis Tokyo (mont Fuji)",
+  "fullDescription": "Cette expérience de 10 heures se déroule au départ de Mount Fuji, construite autour de Bus/autocar, Parc Arakurayama Sengen et Horlogerie Hikawa. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe mont Fuji s'élève à 3 776 mètres, le plus haut sommet du Japon et un volcan actif dont la dernière éruption remonte à 1707. Les excursions d'une journée depuis Tokyo vont vers les cinq lacs Fuji sur son versant nord, à environ deux heures, le lac Kawaguchiko pour la vue de reflet classique, les étangs alimentés par des sources d'Oshino Hakkai, la pagode Chureito au-dessus de Fujiyoshida avec la montagne en arrière-plan, et souvent la Fuji Subaru Line jusqu'à la 5ème station à 2 300 mètres quand la route est ouverte, à peu près d'avril à novembre. Le sommet n'est accessible qu'en juillet et août. Le Fuji est visible environ un tiers des jours et le plus souvent les matins d'hiver ; de juin à septembre il est caché par les nuages plus souvent qu'autrement, et aucun opérateur ne peut garantir la vue, donc les lacs et la pagode sont prévus comme valant la journée par eux-mêmes.\n\nLe prix comprend entrée aux sites, guide touristique anglophone/sinophone/japonophone, autocar touristique climatise, prise en charge et retour au point de rencontre et chauffeur. Il ne comprend pas repas et boissons et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Bus/autocar",
+   "Parc Arakurayama Sengen",
+   "Horlogerie Hikawa",
+   "Oshino Hakkai",
+   "Durée : 10 heures",
+   "Entrée aux sites"
+  ],
+  "included": [
+   "Entrée aux sites",
+   "guide touristique anglophone/sinophone/japonophone",
+   "autocar touristique climatise",
+   "prise en charge et retour au point de rencontre",
+   "Chauffeur professionnel"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "Dépenses personnelles"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Mount Fuji, avec Parc Arakurayama Sengen, Horlogerie Hikawa et Oshino Hakkai. Opérateur : Wandering Japan Adventure, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Mont Fuji : 6 sites incontournables, Oshino et lac Kawaguchi, depuis Tokyo (mont Fuji)",
+  "metaDescription": "Excursion d'une journée entière à Mount Fuji. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "mount-fuji-full-day-private-tour-from-tokyo-customizable-by-local-operator": {
   "title": "Visite privée d'une journée complète du mont Fuji depuis Tokyo (personnalisable)",

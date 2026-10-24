@@ -65440,6 +65440,27 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Experiencia de degustación y elaboración de matcha en Tokio",
   "metaDescription": "Tour en Tokyo. Incluye: bebida de bienvenida. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "j-league-soccer-game-with-local-fan-and-ticket-in-tokyo": {
+  "title": "Partido de futbol de la J-League con fan local y entrada en Tokio",
+  "fullDescription": "Esta es una experiencia de 2,5 horas en Tokyo. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTokio es la ciudad más grande del mundo por población metropolitana y se ve mejor como un conjunto de barrios en la línea circular Yamanote en lugar de un solo lugar. Asakusa tiene Senso-ji, el templo más antiguo de la ciudad, y el callejón comercial de Nakamise; Shibuya tiene el famoso cruce y Shinjuku los bares de Golden Gai y Omoide Yokocho; Harajuku es la calle Takeshita y el bosque del santuario Meiji; Akihabara es electrónica y anime; Ginza son grandes almacenes y mostradores de sushi. Todo funciona puntualmente y los últimos trenes son hacia la medianoche. El efectivo todavía importa en los restaurantes pequeños, una tarjeta IC cubre cada tren y autobús, y las propinas no se dan en ningún lugar.\n\nEl precio incluye entrada oficial del partido y guia. No incluye costos de comida y bebida, transporte al estadio y costos de compra de mercancia, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2,5 horas",
+   "entrada oficial del partido",
+   "Guía de habla inglesa"
+  ],
+  "included": [
+   "entrada oficial del partido",
+   "Guía de habla inglesa"
+  ],
+  "notIncluded": [
+   "costos de comida y bebida",
+   "transporte al estadio",
+   "costos de compra de mercancia"
+  ],
+  "shortDescription": "Entrada en Tokyo, que incluye entrada oficial del partido y guia. Operador: HUGOsan, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Partido de futbol de la J-League con fan local y entrada en Tokio",
+  "metaDescription": "Entrada en Tokyo. Incluye: entrada oficial del partido y guia. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "taiko-drumming-experience-boom-feel-the-tradition-in-tokyo": {
   "title": "Experiencia de tambor taiko: ¡boom! Sienta la tradición en Tokio",
   "fullDescription": "Esta es una experiencia de 1,5 horas en Tokyo. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTokio es la ciudad más grande del mundo por población metropolitana y se ve mejor como un conjunto de barrios en la línea circular Yamanote en lugar de un solo lugar. Asakusa tiene Senso-ji, el templo más antiguo de la ciudad, y el callejón comercial de Nakamise; Shibuya tiene el famoso cruce y Shinjuku los bares de Golden Gai y Omoide Yokocho; Harajuku es la calle Takeshita y el bosque del santuario Meiji; Akihabara es electrónica y anime; Ginza son grandes almacenes y mostradores de sushi. Todo funciona puntualmente y los últimos trenes son hacia la medianoche. El efectivo todavía importa en los restaurantes pequeños, una tarjeta IC cubre cada tren y autobús, y las propinas no se dan en ningún lugar.\n\nEl precio incluye tarifa de participación en el taller y tarifa de alquiler del equipo utilizado en el taller. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -65566,6 +65587,31 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Aprenda canciones tradicionales en una lección de shamisen Tsugaru en Tokio",
   "metaDescription": "Tour de 1 hora en Tokyo. Incluye: tarifa de la clase. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "authentic-kintsugi-and-matcha-experience-in-shibuya-tokyo-by-local-operator": {
+  "title": "Experiencia autentica de kintsugi y matcha en Shibuya, Tokio, por un operador local",
+  "fullDescription": "Esta es una experiencia de 2 horas en Tokyo. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTokio es la ciudad más grande del mundo por población metropolitana y se ve mejor como un conjunto de barrios en la línea circular Yamanote en lugar de un solo lugar. Asakusa tiene Senso-ji, el templo más antiguo de la ciudad, y el callejón comercial de Nakamise; Shibuya tiene el famoso cruce y Shinjuku los bares de Golden Gai y Omoide Yokocho; Harajuku es la calle Takeshita y el bosque del santuario Meiji; Akihabara es electrónica y anime; Ginza son grandes almacenes y mostradores de sushi. Todo funciona puntualmente y los últimos trenes son hacia la medianoche. El efectivo todavía importa en los restaurantes pequeños, una tarjeta IC cubre cada tren y autobús, y las propinas no se dan en ningún lugar.\n\nEl precio incluye té matcha, dulces de temporada, hoja explicativa de introduccion, todos los materiales para realizar las restauraciones y reparaciones y pieza de vajilla para reparar. No incluye todo está incluido, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "Té matcha",
+   "dulces de temporada",
+   "hoja explicativa de introduccion",
+   "todos los materiales para realizar las restauraciones y reparaciones",
+   "pieza de vajilla para reparar"
+  ],
+  "included": [
+   "Té matcha",
+   "dulces de temporada",
+   "hoja explicativa de introduccion",
+   "todos los materiales para realizar las restauraciones y reparaciones",
+   "pieza de vajilla para reparar"
+  ],
+  "notIncluded": [
+   "Todo está incluido"
+  ],
+  "shortDescription": "Tour de 2 horas en Tokyo, que incluye té matcha, dulces de temporada y hoja explicativa de introduccion. Operador: mon cadeau, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Experiencia autentica de kintsugi y matcha en Shibuya, Tokio",
+  "metaDescription": "Tour de 2 horas en Tokyo. Incluye: té matcha y dulces de temporada. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "stand-up-comedy-in-shibuya-english-tokyo": {
   "title": "Comedia en vivo en Shibuya (inglés) (Tokio)",
   "fullDescription": "Esta es una experiencia de 1,5 horas en Tokyo. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTokio es la ciudad más grande del mundo por población metropolitana y se ve mejor como un conjunto de barrios en la línea circular Yamanote en lugar de un solo lugar. Asakusa tiene Senso-ji, el templo más antiguo de la ciudad, y el callejón comercial de Nakamise; Shibuya tiene el famoso cruce y Shinjuku los bares de Golden Gai y Omoide Yokocho; Harajuku es la calle Takeshita y el bosque del santuario Meiji; Akihabara es electrónica y anime; Ginza son grandes almacenes y mostradores de sushi. Todo funciona puntualmente y los últimos trenes son hacia la medianoche. El efectivo todavía importa en los restaurantes pequeños, una tarjeta IC cubre cada tren y autobús, y las propinas no se dan en ningún lugar.\n\nEl precio incluye el precio de la entrada cubre solo el ingreso. No incluye bebidas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -65641,6 +65687,33 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Paseo por el valle geotérmico y el torii flotante en Hakone",
   "metaDescription": "Tour de medio día en Hakone. Incluye: guia. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "odawara-castle-samurai-history-and-local-food-walk-in-hakone": {
+  "title": "Odawara: castillo, historia de samuráis y paseo gastronomico local en Hakone",
+  "fullDescription": "Esta es una experiencia de 2,5 horas en Hakone. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHakone es el balneario termal en las montañas a 90 minutos al suroeste de Tokio, dentro de la caldera de un antiguo volcán. El circuito estándar es el teleférico de Hakone sobre las fumarolas de azufre de Owakudani, donde los huevos se cuecen negros en las fuentes termales, un bote a través del lago Ashi pasando por el torii rojo del santuario de Hakone, y, en un día claro, el Fuji sobre el lago. El baño en onsen sigue las reglas habituales: lavarse antes de entrar, sin traje de baño, y muchos baños todavía rechazan los tatuajes o piden una cobertura. El Hakone Free Pass cubre los trenes, el funicular, el teleférico y el bote; el teleférico cierra con viento fuerte y cuando suben los gases volcánicos, lo que ocurre algunos días al año.\n\nEl precio incluye tour a pie de Odawara, visita al santuario Hotoku Ninomiya, visita a la calle Kamaboko, degustación de comida y oportunidades para hacer fotos. No incluye transporte desde y hacia Odawara, comidas y bebidas no especificadas en el tour y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2,5 horas",
+   "tour a pie de Odawara",
+   "visita al santuario Hotoku Ninomiya",
+   "visita a la calle Kamaboko",
+   "Degustación de comida local",
+   "Oportunidades para hacer fotos"
+  ],
+  "included": [
+   "tour a pie de Odawara",
+   "visita al santuario Hotoku Ninomiya",
+   "visita a la calle Kamaboko",
+   "Degustación de comida local",
+   "Oportunidades para hacer fotos"
+  ],
+  "notIncluded": [
+   "transporte desde y hacia Odawara",
+   "comidas y bebidas no especificadas en el tour",
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de 2,5 horas en Hakone, que incluye tour a pie de Odawara, visita al santuario Hotoku Ninomiya y visita a la calle Kamaboko. Operador: Native Japan, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Odawara: castillo, historia de samuráis y paseo gastronomico local en Hakone",
+  "metaDescription": "Tour de 2,5 horas en Hakone. Incluye: tour a pie de Odawara. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "evangelion-anime-tour-with-professional-guide-in-hakone": {
   "title": "Tour de anime Evangelion con guía profesional en Hakone",
   "fullDescription": "Esta es una experiencia de 6,5 horas desde Hakone, centrada en Tren, Teleférico y Owakudani. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHakone es el balneario termal en las montañas a 90 minutos al suroeste de Tokio, dentro de la caldera de un antiguo volcán. El circuito estándar es el teleférico de Hakone sobre las fumarolas de azufre de Owakudani, donde los huevos se cuecen negros en las fuentes termales, un bote a través del lago Ashi pasando por el torii rojo del santuario de Hakone, y, en un día claro, el Fuji sobre el lago. El baño en onsen sigue las reglas habituales: lavarse antes de entrar, sin traje de baño, y muchos baños todavía rechazan los tatuajes o piden una cobertura. El Hakone Free Pass cubre los trenes, el funicular, el teleférico y el bote; el teleférico cierra con viento fuerte y cuando suben los gases volcánicos, lo que ocurre algunos días al año.\n\nEl precio incluye guia, visita a escenarios famosos de Evangelion y compras en tiendas de conveniencia temáticas de Evangelion. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\n箱根湯本駅. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -65686,6 +65759,32 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 2,5 horas en Hakone, que incluye visita guiada a pie, visita al santuario de Hakone y visita a la antigua avenida de cedros de Tokaido. Operador: ACE Travel Japan, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Colores otoñales del lago Ashi y paseo al santuario de Hakone",
   "metaDescription": "Tour de 2,5 horas en Hakone. Incluye: visita guiada a pie. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "mt-fuji-6-must-see-spots-oshino-and-lake-kawaguchi-from-tokyo-mount-fuji": {
+  "title": "Monte Fuji: 6 lugares imprescindibles, Oshino y lago Kawaguchi, desde Tokio (monte Fuji)",
+  "fullDescription": "Esta es una experiencia de 10 horas desde Mount Fuji, centrada en Autobús/autocar, Parque Arakurayama Sengen y Relojería Hikawa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl monte Fuji tiene 3.776 metros, el pico más alto de Japón y un volcán activo cuya última erupción fue en 1707. Las excursiones de un día desde Tokio van a los cinco lagos Fuji en su lado norte, a unas dos horas, el lago Kawaguchiko para la vista de reflejo clásica, los estanques alimentados por manantiales de Oshino Hakkai, la pagoda Chureito sobre Fujiyoshida con la montaña detrás, y a menudo la línea Fuji Subaru hasta la quinta estación a 2.300 metros cuando la carretera está abierta, aproximadamente de abril a noviembre. La cumbre solo se puede escalar en julio y agosto. El Fuji es visible aproximadamente un tercio de los días y con más frecuencia en las mañanas de invierno; de junio a septiembre está oculto entre nubes más a menudo que no, y ningún operador puede garantizar la vista, por lo que los lagos y la pagoda están planeados para valer el día por sí mismos.\n\nEl precio incluye entrada a las atracciones, guia turistico de habla inglesa/china/japonesa, autocar turistico con aire acondicionado, recogida y regreso en el punto de encuentro y conductor. No incluye comidas y bebidas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Autobús/autocar",
+   "Parque Arakurayama Sengen",
+   "Relojería Hikawa",
+   "Oshino Hakkai",
+   "Duración: 10 horas",
+   "Entrada a las atracciones"
+  ],
+  "included": [
+   "Entrada a las atracciones",
+   "guia turistico de habla inglesa/china/japonesa",
+   "autocar turistico con aire acondicionado",
+   "recogida y regreso en el punto de encuentro",
+   "Conductor profesional"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de día completo en Mount Fuji, con Parque Arakurayama Sengen, Relojería Hikawa y Oshino Hakkai. Operador: Wandering Japan Adventure, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Monte Fuji: 6 lugares imprescindibles, Oshino y lago Kawaguchi",
+  "metaDescription": "Tour de día completo en Mount Fuji. Incluye: entrada a las atracciones. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "mount-fuji-full-day-private-tour-from-tokyo-customizable-by-local-operator": {
   "title": "Tour privado de día completo al monte Fuji desde Tokio (personalizable)",
