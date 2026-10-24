@@ -6,7 +6,7 @@
 // support...) stay language-neutral.
 import { useEffect } from 'react';
 
-const SKIP = /^\/(?:api|_next|about|about-us|admin|become-a-supplier|booking|booking-confirmation|email-verification-waiting|explore|getyourguide-viator-alternative|payment-callback|privacy-policy|review|safety-guidelines|secure-panel-abl|supplier|support|terms-and-conditions|tour|verify-email|fr|de|es)(?:\/|$)/;
+const SKIP = /^\/(?:api|_next|about|about-us|admin|become-a-supplier|booking|booking-confirmation|email-verification-waiting|explore|payment-callback|privacy-policy|review|safety-guidelines|secure-panel-abl|supplier|support|terms-and-conditions|tour|verify-email|fr|de|es)(?:\/|$)/;
 
 export default function LangLinks({ lang }: { lang: string }) {
   useEffect(() => {

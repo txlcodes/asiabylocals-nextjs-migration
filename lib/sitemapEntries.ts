@@ -13,7 +13,6 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   const staticPages = [
     '', '/explore', '/about-us', '/privacy-policy', '/terms-and-conditions',
     '/safety-guidelines', '/support', '/supplier',
-    '/getyourguide-viator-alternative',
     '/cruises-and-yachts',
     '/india', '/india/agra', '/india/delhi', '/india/jaipur',
     '/india/mumbai', '/india/udaipur', '/india/jodhpur', '/india/jaisalmer',
@@ -37,7 +36,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     url: `${BASE_URL}${path}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
-    priority: path === '' ? 1.0 : path === '/getyourguide-viator-alternative' ? 0.9 : 0.8,
+    priority: path === '' ? 1.0 : 0.8,
   }));
 
   // Agra info pages (including taj-mahal, agra-fort, fatehpur-sikri)
@@ -996,7 +995,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   // Translated folders (/fr, /de, /es): only paths with real translated copy
   // are listed (see translatedLangs); an untranslated /fr URL renders English
   // and canonicalises back to /, so listing it would only create duplicates.
-  const RESERVED = new Set(['about', 'about-us', 'become-a-supplier', 'booking', 'explore', 'getyourguide-viator-alternative', 'privacy-policy', 'safety-guidelines', 'support', 'terms-and-conditions', 'supplier', 'review', 'tour']);
+  const RESERVED = new Set(['about', 'about-us', 'become-a-supplier', 'booking', 'explore', 'privacy-policy', 'safety-guidelines', 'support', 'terms-and-conditions', 'supplier', 'review', 'tour']);
   const destination = (u: string) => { const path = u.replace(BASE_URL, ''); const first = path.split('/').filter(Boolean)[0]; return !!first && !RESERVED.has(first); };
   const withLangs = english.flatMap(entry => {
     if (!destination(entry.url)) return [entry];

@@ -82,6 +82,8 @@ const nextConfig: NextConfig = {
       ]);
 
     return inEveryLanguage([
+      // Retired page: send visitors and old links to the home page.
+      { source: '/getyourguide-viator-alternative', destination: '/', permanent: true },
       // "Bali" is the island, not a city: its hub is the country page.
       { source: '/indonesia/bali', destination: '/indonesia', permanent: true },
       { source: '/bali', destination: '/indonesia', permanent: true },
