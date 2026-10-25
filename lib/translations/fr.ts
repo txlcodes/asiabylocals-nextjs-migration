@@ -58170,6 +58170,128 @@ export const FR_TOURS: Record<string, TourT> = {
    "Prise en charge et retour a l'hotel"
   ]
  },
+ "nagoya-shirakawago-takayama-observatory-day-trip": {
+  "title": "Shirakawa-go depuis l'observatoire et la vieille ville de Takayama, en une journee depuis Nagoya",
+  "metaTitle": "Shirakawa-go et Takayama depuis Nagoya",
+  "metaDescription": "Une journee en car dans les montagnes de Hida, les fermes gassho vues depuis le point de vue et les rues marchandes de Takayama a pied.",
+  "shortDescription": "Une journee en car dans les montagnes de Hida pour moins de soixante-dix dollars, les fermes gassho vues depuis le point de vue et les rues marchandes de Takayama a pied.",
+  "fullDescription": "Shirakawa-go se photographie mal au niveau du sol et de facon inoubliable depuis le haut, c'est pourquoi l'observatoire compte. Le point de vue du chateau d'Ogimachi se trouve sur la pente au-dessus du village et vous montre toute la vallee a la fois : une soixantaine de fermes gassho-zukuri disposees dans les rizieres, leurs toits de chaume escarpes inclines a soixante degres pour evacuer la neige qui ensevelit cette vallee chaque hiver. Le nom signifie mains en priere, ce qui est exactement a quoi ressemble la forme du toit vue de la haut.\n\nLes maisons sont le cœur du site. Elles ont ete construites sans clous, utilisant corde et assemblage en bois suffisamment flexibles pour bouger sous la neige abondante, et les immenses greniers sous ces toits etaient des elevages de vers a soie, l'industrie qui a fait vivre le village jusqu'a son declin au vingtieme siecle. L'UNESCO a inscrit le site en 1995 et des gens vivent encore dans la plupart des maisons.\n\nTakayama est l'autre moitie de la journee et un plaisir different. Le vieux quartier marchand a des maisons de ville en bois sombre avec des facades a treillis et des canaux d'irrigation sous les avant-toits, et vous pouvez reperer les brasseries de sake par les boules de feuilles de cedre suspendues au-dessus de leurs portes, un sugidama, suspendu vert quand le nouveau sake est presse et brunissant a mesure qu'il murit, un signal que la ville utilise depuis des siecles.\n\nLe car gere un trajet veritablement malcommode sans voiture. Deux horaires de depart partent pres de la sortie ouest de la gare de Nagoya. Les repas, billets d'attraction et boissons ne sont pas inclus, et le guide travaille en anglais.",
+  "highlights": [],
+  "included": [
+   "Transport en car aller-retour depuis Nagoya",
+   "Chauffeur et guide anglophone",
+   "Circuit guide de la vieille ville de Takayama",
+   "Visite du village gassho-zukuri de Shirakawa-go",
+   "Point de vue de l'observatoire de Shirakawa-go",
+   "Frais de service"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "Billets d'attraction",
+   "Transport aller-retour vers le point de depart",
+   "Depenses personnelles"
+  ]
+ },
+ "osaka-kuromon-market-street-food-walking-tour": {
+  "title": "Le marche de Kuromon a pied : la cuisine d'Osaka, Doguyasuji et Hozenji Yokocho",
+  "metaTitle": "Circuit gastronomique du marche de Kuromon, Osaka",
+  "metaDescription": "Deux heures dans le marche de Kuromon, degustation de quatre a cinq stands, plus la rue des couteaux et une allee eclairee de lanternes.",
+  "shortDescription": "Deux heures dans le marche couvert ou Osaka fait vraiment ses courses, degustation de quatre a cinq stands, plus la rue des couteaux et une allee eclairee de lanternes.",
+  "fullDescription": "Le Kuromon Ichiba nourrit Osaka depuis le dix-neuvieme siecle et reste, malgre la foule, un marche en activite, les restaurants de Minami s'y approvisionnent le matin, et les stands qui survivent le font grace a la qualite d'une ou deux specialites.\n\nC'est exactement pourquoi un guide aide. En le parcourant seul, vous mangerez ce qui est le plus proche et le paierez au prix touriste. Sur deux heures, ce circuit goute quatre a cinq stands selectionnes, coquilles Saint-Jacques grillees, brochettes yakitori, takoyaki et ce qui est bon ce jour-la, avec un guide qui explique la specialite de chaque vendeur et le role du marche dans l'approvisionnement alimentaire de la ville.\n\nDeux autres arrets entourent le marche. Sennichimae Doguyasuji est la rue des articles de cuisine, quelques centaines de metres de boutiques ne vendant que des couteaux, moules, poeles et les repliques alimentaires en plastique qui remplissent chaque vitrine de restaurant au Japon. C'est le meilleur shopping de souvenirs a Osaka et presque personne ne le trouve. Hozenji Yokocho est une allee pavee de petits restaurants derriere le bruit de Dotonbori, construite autour d'un petit temple dont la statue couverte de mousse est arrosee d'eau par tous ceux qui passent.\n\nLe guide travaille en anglais et est forme a la culture, l'histoire et l'etiquette plutot qu'aux seuls itineraires, ce qui se voit dans les questions qu'il peut repondre.\n\nLa version partagee est limitee a dix personnes ; une version privee suit le meme itineraire pour votre propre groupe. La nourriture et les boissons supplementaires au-dela des degustations incluses sont a votre charge, et vous en voudrez, Kuromon n'est pas un endroit ou la retenue survit.",
+  "highlights": [],
+  "included": [
+   "Circuit gastronomique guide a pied de deux heures",
+   "Quatre a cinq degustations selectionnees aux stands du marche de Kuromon",
+   "Guide local professionnel anglophone",
+   "Visites de Sennichimae Doguyasuji et Hozenji Yokocho",
+   "Contexte sur la culture gastronomique japonaise et l'histoire du marche"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons supplementaires au-dela des degustations",
+   "Transport aller-retour vers le point de rendez-vous",
+   "Prise en charge et retour a l'hotel"
+  ]
+ },
+ "kyoto-gion-temari-ball-workshop-kimono-fabric": {
+  "title": "Fabriquez une balle temari en tissu de kimono vintage a Gion",
+  "metaTitle": "Atelier de balle temari a Gion",
+  "metaDescription": "Une heure a Gion a enrouler une balle temari dans de la soie de kimono a motifs, un artisanat accessible aux debutants qui se range dans votre bagage a main.",
+  "shortDescription": "Une heure a Gion a enrouler une balle temari dans de la soie de kimono a motifs, un artisanat accessible aux debutants qui se range dans votre bagage a main.",
+  "fullDescription": "Le temari a commence comme un jouet. Les femmes de cour les fabriquaient a partir de chutes de soie, enroulees et cousues en balles decorees, et elles sont passees dans l'artisanat populaire comme objets offerts aux enfants puis aux jeunes maries en gage de bonne fortune, le fil ininterrompu representant un lien ininterrompu.\n\nCet atelier utilise cet heritage litteralement. Vous choisissez parmi un eventail de tissus de kimono, chacun portant des motifs traditionnels et des fleurs de saison, et construisez votre balle a partir d'eux. Les couleurs et les motifs constituent toute la decision, et cela prend plus de temps a la plupart des gens que la couture elle-meme.\n\nLa technique est deliberement gardee simple. C'est une version d'une heure et sans stress de l'artisanat, concue pour que n'importe qui puisse terminer quelque chose dont il est satisfait, aucune experience de couture presupposee, aucun enfant exclu, aucun risque qu'un objet inacheve rentre dans un sac. L'instructeur guide chaque etape et le groupe est limite a seize personnes.\n\nCe qui en fait un bon souvenir, c'est son cote pratique. C'est petit, leger, assez incassable pour survivre a une valise, fait de vraie soie de kimono, et rien en vitrine ne lui sera identique. Cela fonctionne aussi comme cadeau d'une facon que la plupart des creations artisanales maison n'offrent pas.\n\nLe studio se trouve au quatrieme etage du Gion First Building, en face du Starbucks a Gion-machi Kitagawa, pres du sanctuaire Yasaka, ce qui signifie que vous pouvez l'inserer entre Kiyomizu-dera le matin et une promenade a Pontocho le soir sans traverser la ville.",
+  "highlights": [],
+  "included": [
+   "Tissu de kimono pour votre balle temari",
+   "Tous les outils et materiaux",
+   "Guidage de l'instructeur tout au long",
+   "Votre temari fini a emporter"
+  ],
+  "notIncluded": [
+   "Transport vers le studio",
+   "Nourriture et boissons",
+   "Temari supplementaires au-dela de celui inclus"
+  ]
+ },
+ "kyoto-ikebana-class-nishijin-machiya": {
+  "title": "Ikebana avec un maitre dans une maison de marchand de Nishijin",
+  "metaTitle": "Cours d'ikebana a Nishijin, Kyoto",
+  "metaDescription": "Une heure d'ikebana avec un maitre dans une maison de ville preservee de Nishijin, votre œuvre exposee devant le jardin pour des photos.",
+  "shortDescription": "Une heure d'arrangement floral japonais enseigne par un maitre dans une maison de ville preservee de Nishijin, votre œuvre finie exposee devant le jardin pour des photos.",
+  "fullDescription": "L'ikebana a commence a Kyoto en 1462. Avant cela, les fleurs au Japon etaient des offrandes, disposees pour les temples et les dieux ; ce qui est apparu au quinzieme siecle etait quelque chose de different, un arrangement fait pour exprimer la relation entre la matiere vegetale et l'espace qu'occupe une personne. Cette distinction est tout l'art, et c'est pourquoi l'ikebana se preoccupe de ligne, d'espace negatif et d'asymetrie plutot que de masse et de couleur comme le fait l'arrangement occidental.\n\nUn maitre enseigne cette session, avec des fleurs de saison et tous les outils fournis. Vous apprenez les principes en travaillant plutot que dans l'abstrait, ou va la ligne principale, pourquoi la deuxieme tige est plus courte, et combien de vide un arrangement a besoin pour respirer. La plupart des gens trouvent que l'instruction la plus difficile a suivre est d'enlever des choses.\n\nLe cadre est Tondaya, une maison de marchand preservee a Nishijin, le quartier des tisserands de Kyoto, au nord-ouest de la ville et bien loin de la foule d'Higashiyama. La maison elle-meme est le genre de batiment pour lequel l'ikebana a ete developpe, ce qui change la facon dont la piece finie se lit.\n\nApres la lecon, votre arrangement est expose devant le jardin et photographie, ce qui est un bien meilleur souvenir qu'un arrangement floral que vous ne pouvez pas emporter en avion.\n\nL'entree a la maison est incluse, et les conseils sont disponibles en six langues via un systeme multilingue : japonais, anglais, chinois, coreen, francais et espagnol. La session dure une heure, et le quartier environnant de Nishijin, ateliers textiles, ruelles tranquilles, tres peu de touristes, merite la promenade par la suite.",
+  "highlights": [],
+  "included": [
+   "Lecon d'ikebana avec un maitre",
+   "Fleurs de saison et tous les outils",
+   "Entree a la maison culturelle de Nishijin",
+   "Exposition et photographie de votre arrangement fini",
+   "Conseils multilingues en japonais, anglais, chinois, coreen, francais et espagnol"
+  ],
+  "notIncluded": [
+   "Transport vers le lieu",
+   "Nourriture et boissons",
+   "Emporter l'arrangement"
+  ]
+ },
+ "osaka-katashimo-winery-tour-tasting-vineyard-walk": {
+  "title": "Le plus ancien vignoble occidental du Japon : degustation et promenade dans les vignes pres d'Osaka",
+  "metaTitle": "Vignoble Katashimo pres d'Osaka",
+  "metaDescription": "A quarante minutes de Namba, un vignoble fonde en 1914 avec un chai centenaire, trois vins japonais, petites bouchees et une ville de l'epoque Edo a pied.",
+  "shortDescription": "A quarante minutes de Namba, un vignoble fonde en 1914 avec un chai centenaire, trois vins japonais, petites bouchees et une ville de l'epoque Edo a pied.",
+  "fullDescription": "Le Japon fait du vin, et presque aucun visiteur ne le sait. Des raisins sont cultives dans la prefecture d'Osaka depuis le debut du vingtieme siecle, et le vignoble visite par ce circuit a ete fonde en 1914, ce qui en fait le plus ancien de l'ouest du Japon. Il se trouve a Kashiwara, a quarante minutes en train du centre d'Osaka, dans une vallee de vignes dont les visiteurs de Dotonbori n'ont aucune idee de l'existence.\n\nLe circuit commence au bar du vignoble et se poursuit dans le chai de vieillissement, centenaire, classe site du patrimoine culturel, et toujours en usage. Le vin a muri dans cette salle en continu pendant des generations, et son odeur en dit autant que n'importe quelle explication. De la, vous traversez les vignes elles-memes a pied.\n\nLa seconde moitie est la ville. Kashiwara a des batiments en bois de l'epoque Edo encore debout dans ses rues et un camphrier age d'entre 800 et 850 ans, qui etait deja ancien quand les premiers pieds de vigne ont ete plantes. C'est le genre de ville japonaise ordinaire totalement invisible du circuit touristique et bien plus agreable pour cela.\n\nLa degustation cloture les deux heures : trois vins japonais differents avec de petites bouchees, et l'entree au musee du vin est incluse. Le vin japonais merite une approche ouverte d'esprit, le raisin Koshu en particulier produit quelque chose de veritablement different de tout vin europeen, leger et legerement citrique, concu pour la nourriture avec laquelle il est bu.\n\nLes groupes sont limites a douze personnes et le guide travaille en anglais. Les degustations supplementaires au-dela des trois sont payables separement. Le rendez-vous se fait a la boutique de vente directe du vignoble a Taiheiji, Kashiwara.",
+  "highlights": [],
+  "included": [
+   "Circuit guide du vignoble incluant le chai centenaire",
+   "Promenade dans les vignes",
+   "Promenade guidee dans la ville historique",
+   "Degustation de trois vins japonais",
+   "Petites bouchees servies avec le vin",
+   "Entree au musee du vin"
+  ],
+  "notIncluded": [
+   "Degustations supplementaires au-dela des trois incluses",
+   "Transport vers Kashiwara",
+   "Repas",
+   "Prise en charge et retour a l'hotel"
+  ]
+ },
+ "tokyo-sailor-moon-shining-theater-shinagawa": {
+  "title": "Sailor Moon en direct a Shinagawa : le spectacle du Shining Theater",
+  "metaTitle": "Spectacle Sailor Moon a Shinagawa",
+  "metaDescription": "Spectacle original Sailor Moon a Shinagawa, supervise par Naoko Takeuchi, avec boisson thematique et photo avec le casting en places premium.",
+  "shortDescription": "Quatre-vingt-dix minutes d'une production scenique originale de Sailor Moon supervisee par Naoko Takeuchi, avec une boisson thematique et une photo avec le casting en places premium.",
+  "fullDescription": "C'est un theatre Sailor Moon construit specifiquement plutot qu'un spectacle en tournee. Il a ouvert au Club eX de l'hotel Shinagawa Prince en 2026, s'appuyant sur la production Shining Moon Tokyo qui s'est jouee a Azabujuban depuis 2019, et l'histoire est entierement originale, ecrite pour ce lieu et supervisee par Naoko Takeuchi, qui a cree la serie.\n\nCette supervision est ce qui le distingue de l'enorme quantite de produits derives Sailor Moon non officiels que vous rencontrerez a Tokyo. C'est une continuation sanctionnee de l'univers plutot qu'un hommage, mise en scene comme une performance en direct immersive dans une salle concue pour cela.\n\nLe casting est l'autre particularite. Les billets sont vendus selon la gardienne qui se produit, Sailor Moon, Mercure, Mars, Jupiter, Neptune, Uranus, Saturne ou Chibi Moon, donc si vous en avez une preferee, vous reservez sa date plutot que de prendre celle qui se trouve sur scene ce jour-la. Quiconque a grandi avec la serie comprendra exactement pourquoi cela compte.\n\nUne boisson thematique originale est incluse avec chaque billet, son design et sa couleur assortis au personnage. Les places premium ajoutent une photo souvenir avec le casting, c'est la version a prendre si vous faites le voyage specifiquement pour cela.\n\nLe lieu se trouve au troisieme etage de la tour annexe de l'hotel Shinagawa Prince, directement a cote de la gare de Shinagawa, donc facile d'acces depuis n'importe ou sur la ligne Yamanote et simple a quitter ensuite.\n\nLe spectacle dure quatre-vingt-dix minutes et est joue en japonais.",
+  "highlights": [],
+  "included": [
+   "Billet du spectacle",
+   "Boisson thematique originale, conçue pour correspondre au personnage",
+   "Photo souvenir avec le casting (places premium uniquement)"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons supplementaires",
+   "Produits derives",
+   "Prise en charge et retour a l'hotel",
+   "Transport vers le lieu"
+  ]
+ },
  "japanese-postcard-painting-etegami-workshop-in-kyoto": {
   "title": "Atelier de peinture de cartes postales japonaises (etegami) à Kyoto",
   "fullDescription": "Cette expérience de 1 heure se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend atelier de peinture de cartes postales japonaises traditionnelles, Instructeur Ekaki japonais, outils et techniques authentiques, numérisation et amélioration de l'œuvre et sac fourre-tout de haute qualité avec motif imprimé. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
