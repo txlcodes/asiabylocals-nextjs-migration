@@ -57681,6 +57681,133 @@ export const DE_TOURS: Record<string, TourT> = {
    "Optionale Attraktionseintritte"
   ]
  },
+ "nagoya-takoyaki-cooking-class": {
+  "title": "Takoyaki von Grund auf in Nagoya: Teig, Octopus und der Dreh",
+  "metaTitle": "Takoyaki-Kochkurs in Nagoya",
+  "metaDescription": "Zwei Stunden, um das eine japanische Gericht zu lernen, für das die meisten Haushalte eine spezielle Pfanne besitzen, Teig, Octopus, Frühlingszwiebel und der Dreh.",
+  "shortDescription": "Zwei Stunden, um das beliebteste japanische Gericht zu lernen, Teig, Octopus, Frühlingszwiebel und der Drehbewegung, die jedem ein Dutzend Versuche abverlangt.",
+  "fullDescription": "Takoyaki ist Streetfood, das nach Hause gekommen ist. Es wird überall in Japan an Ständen verkauft, aber was Besucher selten sehen, ist, dass die meisten japanischen Haushalte eine Takoyaki-Pfanne besitzen und eine Takoyaki-Party eine gewöhnliche Art ist, einen Abend mit Freunden zu verbringen, Teig, eine Pfanne auf dem Tisch, und alle streiten über die Technik.\n\nDieser Kurs lehrt es richtig. Sie mischen den Teig, der dünnflüssiger ist, als jeder erwartet, und deshalb bleibt das Innere fast flüssig. Sie fügen Octopus, Frühlingszwiebel und eingelegten Ingwer hinzu. Und dann lernen Sie den Dreh, die eigentliche Fähigkeit: ein Metallspieß, eine Vierteldrehung im richtigen Moment, und das wiederholen, bis die Kugel sich schließt.\n\nNiemand schafft es bei den ersten paar. Das ist der Spaß daran, die frühen sind schief und die späteren rund, und die Verbesserung passiert innerhalb von zwanzig Minuten sichtbar.\n\nAlles ist enthalten: Zutaten, Pfannen und Utensilien, Schürzen und die Verkostung am Ende. Der Unterricht erfolgt auf Englisch.\n\nDer Kurs findet im Nagoya City Higashi Lifelong Learning Center statt, drei Minuten von der U-Bahn in Aoi, ein Gemeindegebäude statt eines touristischen Ortes, was Teil des Reizes ist.\n\nEine längere dreistündige Option fügt einen Einkaufsbummel hinzu, der wirklich nützlich ist, wenn Sie eine Takoyaki-Pfanne zum Mitnehmen kaufen möchten. Sie sind günstig, halten ewig, und sie sind das eine Stück japanischer Küchenausrüstung, das garantiert, dass Sie das Gericht wirklich wieder kochen werden.",
+  "highlights": [],
+  "included": [
+   "Takoyaki-Kochkurs mit englischem Unterricht",
+   "Alle Zutaten",
+   "Kochutensilien und Pfannen",
+   "Schürzen",
+   "Verkostung am Ende",
+   "Einkaufsbummel bei der längeren Option"
+  ],
+  "notIncluded": [
+   "Transport zum Veranstaltungsort",
+   "Zusätzliches Essen und Getränke",
+   "Bei der Einkaufsoption gekaufte Artikel"
+  ]
+ },
+ "osaka-namba-maid-cafe-experience": {
+  "title": "Ein Maid-Cafe in Namba: eine Stunde im Kawaii-Theater Japans",
+  "metaTitle": "Maid-Cafe in Namba, Osaka",
+  "metaDescription": "Eine Stunde in der Osaka-Filiale der bekanntesten Maid-Cafe-Kette, Getränk, Essen, Foto mit einer Maid und Tischgebühr inklusive.",
+  "shortDescription": "Eine Stunde in der Osaka-Filiale der bekanntesten Maid-Cafe-Kette, Getränk, Essen, Foto mit einer Maid und Tischgebühr inklusive.",
+  "fullDescription": "Das Maid-Cafe ist das Stück japanischer Popkultur, das Besucher am schwersten einordnen können. Es ist keine Bar, nicht ganz ein Restaurant und keine Show im üblichen Sinn; es ist näher am interaktiven Theater, und es läuft seit Anfang der 2000er Jahre in Akihabara.\n\nDas Format ist konsistent und völlig ernst gemeint. Sie werden am Eingang begrüßt, als kämen Sie woanders an, Männer werden als Goshujin-sama, Herr, und Frauen als Ojou-sama angesprochen, und das Personal hält die Illusion durchgehend aufrecht. Das Omajinai, die magischen Worte, die über Ihr Essen gesprochen werden, damit es besser schmeckt, ist der Moment, in dem die meisten Erstbesucher merken, dass von ihnen erwartet wird, mitzumachen, und diejenigen, die es tun, haben eine viel bessere Stunde als diejenigen, die verschränkt sitzen.\n\nDiese besondere Kette ist die größte und bekannteste, und ihre Namba-Filiale liegt über den Nanbanaka-Straßen mitten im Unterhaltungsviertel von Osaka. Was enthalten ist, ist mehr als meist: ein Getränk, eine Mahlzeit oder ein Dessert, ein Foto mit einer Maid, die Tischgebühr, die Leute anderswo überrascht, und das Omajinai-Ritual selbst.\n\nEs gibt vier Pläne. Mittagessen ist am günstigsten, Abendessen etwas mehr, und es gibt Paar- und Familienpakete für zwei und drei Personen, die pro Kopf günstiger sind. Zusätzliche Optionen können vor Ort gekauft werden, wenn Sie mehr möchten.\n\nGehen Sie mit der richtigen Erwartung hin. Dies ist bewusste, unverschämte Kawaii-Kultur statt ein Fenster in das traditionelle Japan, und es wird am besten von Menschen genossen, die bereit sind, für eine Stunde Teil davon zu sein. Zyniker haben eine elende Zeit, und das merkt jeder.",
+  "highlights": [],
+  "included": [
+   "Ein Getränk",
+   "Eine Mahlzeit oder ein Dessert",
+   "Foto mit einer Maid",
+   "Tischgebühr (Passport of Dreamland)",
+   "Das Omajinai-Ritual über Ihrem Essen"
+  ],
+  "notIncluded": [
+   "Zusätzliche vor Ort gekaufte Optionen und Extras",
+   "Zusätzliches Essen und Getränke",
+   "Transport zum Veranstaltungsort"
+  ]
+ },
+ "osaka-five-highlights-walking-tour-with-ramen-lunch": {
+  "title": "Osakas fünf Sehenswürdigkeiten zu Fuß, mit Ramen-Mittagessen und U-Bahn-Pass",
+  "metaTitle": "Wandertour zu 5 Highlights von Osaka",
+  "metaDescription": "Sieben Stunden durch Burg, Shitennoji, Shinsekai und Dotonbori mit lokalem Guide, Transport während der Tour und Ramen-Mittagessen inklusive.",
+  "shortDescription": "Sieben Stunden durch Burg, Shitennoji, Shinsekai und Dotonbori mit lokalem Guide, Transport während der Tour und Ramen-Mittagessen inklusive.",
+  "fullDescription": "Osaka wurde die Stadt der Kaufleute, die Stadt des Essens, die Stadt der Komödie und der Ort genannt, an dem die Sengoku-Zeit schließlich endete. Alle vier stimmen, und sie erklären, warum sich die Stadt eine Stunde von Kyoto entfernt anders anfühlt, weniger ehrfürchtig, schneller im Gespräch mit Fremden, und weit mehr am Essen interessiert.\n\nDieser Spaziergang deckt die Sehenswürdigkeiten ab, die dies belegen. Zuerst die Burg Osaka: der Turm beherbergt ein Museum über die Geschichte der Burg und die Sengoku-Kriege, die darunter endeten, und der Blick von oben fasst die gesamte Stadt in einem Rahmen zusammen. Dann Shitennoji, gegründet 593, der älteste staatlich errichtete buddhistische Tempel Japans, älter als alles in Kyoto, und eine Erinnerung daran, dass Osaka lange vor beiden der erste internationale Hafen und Hauptstadt des Landes war.\n\nMittagessen ist Ramen in einem belebten lokalen Laden, und es ist im Preis enthalten, statt ein Stopp, an dem Sie sich selbst versorgen müssen.\n\nDer Nachmittag deckt die moderne Stadt ab: Shinsekai mit seinem Tsutenkaku-Turm und Kushikatsu-Läden, und Dotonboris Kanal und Beschilderung. Der Transport während der Tour ist enthalten, was wichtig ist, da diese Orte wirklich verstreut sind und die U-Bahn der einzig vernünftige Weg zwischen ihnen ist.\n\nGruppen sind auf acht begrenzt, und der Guide übernimmt die Fotos, eine kleine Sache, die Besucher durchweg schätzen.\n\nZwei Eintrittsgebühren sind separat am Tag zu zahlen: Burg Osaka 1200 Yen und Shitennoji 500 Yen. Eine kürzere vierstündige Version deckt zwei der fünf Orte ab, falls der ganze Tag zu viel ist. Treffpunkt ist Ausgang 4 der Station Tanimachi 4-chome, vor dem FamilyMart.",
+  "highlights": [],
+  "included": [
+   "Lokaler englischsprachiger Guide",
+   "Ramen-Mittagessen",
+   "Transport während der Tour",
+   "Kommentar und Begleitung durchgehend",
+   "Fotounterstützung"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühr Burg Osaka, 1200 Yen",
+   "Eintrittsgebühr Shitennoji-Tempel, 500 Yen",
+   "Zusätzliches Essen und Getränke",
+   "Hotelabholung und -rücktransport"
+  ]
+ },
+ "kyoto-hozugawa-white-water-rafting": {
+  "title": "Wildwasser-Rafting auf dem Hozugawa: fünf Kilometer Stromschnellen bei Kyoto",
+  "metaTitle": "Rafting auf dem Hozugawa bei Kyoto",
+  "metaDescription": "Fünf Kilometer echte Stromschnellen auf dem Hozugawa bei Kyoto, mit Ausrüstung, Schuhen und Rückfahrkarte inklusive.",
+  "shortDescription": "Die gleiche Schlucht, die die Sightseeing-Boote langsam hinunterfahren, aber mit Geschwindigkeit, dreieinhalb Stunden Stromschnellen, mit Ausrüstung, Schuhen und Rückfahrt inklusive.",
+  "fullDescription": "Die meisten Besucher erleben den Hozugawa von einem Boot aus, langsam durch die Schlucht gestakt von Bootsführern mit Stangen, während alle die Klippen fotografieren. Dies ist die andere Version dieses Flusses.\n\nDie Fahrt umfasst **fünf Kilometer echte Stromschnellen** durch dieselbe Schlucht, und das Wasser kommt über Ihren Kopf statt am Bootsrand vorbei. Es ist kein sanftes Treiben; es ist eine vollwertige Rafting-Strecke mit echten Wildwasserabschnitten, unterbrochen von ruhigen Becken, in denen die Guides Sie schwimmen lassen, wenn Sie möchten. Es gibt einen drei Meter hohen Felsen zum Springen für diejenigen, die möchten.\n\nAlles Technische ist enthalten: Helm, Schwimmweste, Rafting-Schuhe, Sicherheitsausrüstung, Versicherung und der Guide. Sie bringen Kleidung mit, die Sie ruinieren können, und ein Handtuch. Ein Erinnerungsfoto ist enthalten, und, ein wirklich nützliches Detail, auch die Rückfahrkarte zur Rafting-Basis.\n\nDie Anreise ist überraschend einfach. **Nehmen Sie den Zug vom Bahnhof Kyoto nach JR Umahori und gehen Sie drei Minuten.** Das ist alles. Die Basis liegt in Kameoka, auf der Oberwasserseite der Schlucht, von wo aus auch die traditionellen Boote starten.\n\nDie Führung erfolgt auf Japanisch, was für Rafting weniger wichtig ist, als es klingt, die Anweisungen sind physisch, vorgeführt und kurz, und internationale Gäste machen dies regelmäßig.\n\nDie Saison läuft, wenn das Wasser es zulässt, und die Bedingungen ändern sich mit dem Niederschlag. Es ist das beste Gegenmittel, das wir kennen, zu drei Tagen Tempeln, und es bringt Sie danach ins Gebiet Arashiyama, eine gute Art, den Rest des Tages zu verbringen.",
+  "highlights": [],
+  "included": [
+   "Halbtages-Rafting auf dem Hozugawa",
+   "Guide",
+   "Alle Sicherheitsausrüstung: Helm, Schwimmweste und Rafting-Schuhe",
+   "Versicherung und Steuern",
+   "Erinnerungsfoto",
+   "Rückfahrkarte zur Rafting-Basis"
+  ],
+  "notIncluded": [
+   "Badekleidung oder nasswerdbare Kleidung",
+   "Handtuch",
+   "Sonnenschutz",
+   "Mahlzeiten"
+  ]
+ },
+ "nagoya-kimono-rental-and-castle-city-tour": {
+  "title": "Kimono in Nagoya: angezogen in Sakae, geführt durch die Burg",
+  "metaTitle": "Kimono-Vermietung und Burgtour in Nagoya",
+  "metaDescription": "Viereinhalb Stunden im Kimono Ihrer Wahl, mit Eintritt zur Burg Nagoya, einem Guide, der die Geschichte kennt und Ihre Fotos macht.",
+  "shortDescription": "Viereinhalb Stunden im Kimono Ihrer Wahl, mit Eintritt zur Burg Nagoya, einem Guide, der die Geschichte kennt und Ihre Fotos macht.",
+  "fullDescription": "Die meisten Kimono-Vermietungen geben Ihnen ein Gewand und schicken Sie auf die Straße. Diese ist eine geführte Halbtagestour, was ändert, was Sie davon haben: der Burgeintritt ist enthalten, jemand erklärt, was Sie sehen, und Ihre Fotos werden von einer Person statt einem Stativ gemacht.\n\nEs beginnt im Vermietungsbüro in Sakae, dem Zentrum von Nagoya, um 9:30 Uhr. Sie wählen aus einer vollständigen Kollektion, Kimono und Obi in einer Reihe von Farben und Mustern, gemischt und kombiniert, mit Handtasche und Haaraccessoires inklusive. Das Anziehen wird für Sie gemacht, was eine Weile dauert und sich lohnt zu beobachten.\n\nDann die Burg Nagoya, fünf Minuten mit der U-Bahn. Die Burg ist eine der großen Tokugawa-Festungen, und ihr Honmaru-Palast wurde akribisch rekonstruiert mit den originalen bemalten Wandschirmen reproduziert, ein Interieur, das weit beeindruckender ist, als das Äußere vermuten lässt. Ihr Guide erklärt, was die Burg für die Region bedeutete und wie sich Nagoyas Geschichte von der Kyotos und Edos unterscheidet, was ein selbstgeführter Kimono-Spaziergang Ihnen nicht geben kann.\n\nDie Route endet entlang der Hisaya Odori, dem baumbestandenen zentralen Boulevard, manchmal Japans Champs-Élysées genannt, mit Zeit für Fotos.\n\nZu planen: Schuhe und Haarstyling sind extra, öffentliche Verkehrsmittel sind auf eigene Kosten, und der Tag dauert viereinhalb Stunden in traditionellem Schuhwerk, komfortabel, aber nicht unerheblich. Gruppen sind auf zehn begrenzt.",
+  "highlights": [],
+  "included": [
+   "Kimono-, Obi-, Handtaschen- und Haaraccessoire-Vermietung",
+   "Professionelles Anziehen",
+   "Englischsprachiger Guide für den halben Tag",
+   "Alle Eintrittsgebühren zur Burg Nagoya",
+   "Fotos, aufgenommen von Ihrem Guide"
+  ],
+  "notIncluded": [
+   "Schuhvermietung",
+   "Haarstyling",
+   "Öffentliche Verkehrsmittelkosten",
+   "Trinkgeld",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "miho-museum-shirahige-shrine-shiga-day-tour": {
+  "title": "I. M. Peis vergrabenes Museum und das Seetorii: ein Tag in Shiga ab Kyoto oder Osaka",
+  "metaTitle": "Miho-Museum und Shirahige-Schrein ab Kyoto/Osaka",
+  "metaDescription": "Ein Tag in der Präfektur Shiga für ein Museum, das zu vier Fünfteln unterirdisch in den Bergen errichtet wurde, und ein vermillionfarbenes Torii im Biwa-See.",
+  "shortDescription": "Ein Tag in der Präfektur Shiga für ein Museum, das zu vier Fünfteln unterirdisch in den Bergen errichtet wurde, und ein vermillionfarbenes Torii im Biwa-See.",
+  "fullDescription": "Das Miho-Museum ist der Grund, einen Tag zu opfern. I. M. Pei, der Architekt der Louvre-Pyramide, entwarf es in den Bergen von Shiga, und etwa achtzig Prozent der Struktur sind vergraben, sodass das Gebäude sich von außen kaum ankündigt. Sie erreichen es durch einen in den Hügel gebohrten Tunnel und über eine Hängebrücke, ein bewusst inszenierter Zugang: Pei nahm seine Vorgabe von der Pfirsichblüten-Quelle, der chinesischen Erzählung von einem Fischer, der einem Bach durch eine enge Höhle folgt und in ein verborgenes Paradies tritt. Beim Gehen ist der Bezug unverkennbar.\n\nIm Inneren befindet sich eine Sammlung ägyptischer, persischer, griechischer, römischer, südasiatischer, chinesischer und japanischer Altertümer, größtenteils durch Tageslicht durch die Glasdächer beleuchtet. Rund zweieinhalb Stunden hier, einschließlich Freizeit und Mittagessen auf eigene Kosten.\n\nDer Shirahige-Schrein liefert das andere Bild des Tages. Sein vermillionfarbenes Torii steht in den Untiefen des Biwa-Sees, Japans größtem See, wenige Meter vor der Küste, der gleiche Effekt wie Miyajimas berühmtes Tor, an einem Süßwassersee, mit einem Bruchteil der Menschenmenge.\n\nEine Sache vor der Buchung zu prüfen: das Miho-Museum schließt für längere Zeiten im Jahr, einschließlich den ganzen Januar und Februar, den größten Teil des Juni und den größten Teil des September. Der Anbieter führt die Tour an Schließungstagen nicht durch, aber Sie sollten Ihr Datum bestätigen statt es anzunehmen.\n\nAbfahrten starten in Osaka um 8:40 Uhr oder in Kyoto um 9:50 Uhr, mit Hotelabholung in Osaka als kostenpflichtiger Option verfügbar. Die Fahrzeuggröße richtet sich nach der endgültigen Gruppe. Eintritte und Mahlzeiten sind nicht enthalten.",
+  "highlights": [],
+  "included": [
+   "Hin- und Rück-Fahrzeugtransport für bis zu zehn Stunden",
+   "Fahrer-Guide-Service",
+   "Kraftstoff, Maut und Autobahngebühren",
+   "Fahrzeug angepasst an die Gruppengröße"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Museum und Schrein",
+   "Mahlzeiten",
+   "Unterkunft",
+   "Gepäck (eine Gebühr gilt, falls Sie welches mitbringen müssen, bei der Buchung zu vereinbaren)",
+   "Optionale Aktivitäten und persönliche Ausgaben"
+  ]
+ },
  "japanese-postcard-painting-etegami-workshop-in-kyoto": {
   "title": "Japanischer Postkarten-Malworkshop (Etegami) in Kyoto",
   "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Kyoto. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nKyoto war über tausend Jahre lang bis 1868 Japans Hauptstadt und hat 17 UNESCO-gelistete Stätten unter rund 2.000 Tempeln und Schreinen. Die großen drei sind Kinkaku-ji, der Goldene Pavillon, mit Goldblatt bedeckt und am besten im Morgenlicht; Kiyomizu-dera, die Holzbühne auf den östlichen Hügeln mit den Higashiyama-Gassen von Sannenzaka und Ninenzaka darunter; und die Tore von Fushimi Inari. Die Burg Nijo hat die Nachtigallenböden, die gegen Eindringlinge quietschen, und Ryoan-ji den Steingarten. Tempel öffnen gegen 8:00 oder 9:00 Uhr und schließen um 17:00 Uhr, und der Stadtbus ist langsam; ein Tag mit einem Fahrer oder Guide, der die Stopps gegen die Menschenmassen ordnet, macht den Unterschied zwischen vier Sehenswürdigkeiten und sieben.\n\nIm Preis enthalten sind Traditioneller japanischer Postkarten-Malworkshop, Japanischer Ekaki-Instruktor, Authentische Werkzeuge und Techniken, Digitalisierung und Verbesserung des Kunstwerks und Hochwertige Tragetasche mit aufgedrucktem Design. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
