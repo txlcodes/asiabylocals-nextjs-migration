@@ -57556,6 +57556,131 @@ export const ES_TOURS: Record<string, TourT> = {
    "Fotografia donde esta restringida"
   ]
  },
+ "kyoto-samurai-sword-chambara-filming-experience": {
+  "title": "Chambara en Myokaku-ji: coreografia de espada filmada en el recinto del templo",
+  "metaTitle": "Experiencia de chambara con espada en Kyoto",
+  "metaDescription": "Aprenda las tecnicas de espada del cine de samuráis japones con actores profesionales, con kimono, en un templo donde se alojo Nobunaga.",
+  "shortDescription": "Aprenda las tecnicas de espada usadas en el cine de samuráis japones con actores que las realizan profesionalmente, con kimono, en un templo donde se alojo Nobunaga.",
+  "fullDescription": "El chambara es la coreografia de espada del cine y la television de samuráis japoneses, una disciplina propia, con sus propias escuelas, y nada que ver con la lucha escenica occidental. Los instructores aqui son actores profesionales de cine de samuráis, lo que diferencia esto de una simple sesion de fotos con disfraz.\n\nAprende a sostener y mover la espada, y luego dos de los cortes fundamentales: **makkogiri**, el golpe vertical descendente, y **kesagiri**, el corte diagonal nombrado por la linea de la tunica de un monje. Ambos son mas dificiles de lo que parecen, y la dificultad esta en detenerse, no en el movimiento.\n\nSe le viste con kimono para ello, lo cual esta incluido, y se le ensena el propio vestuario como parte de la hora.\n\nLos instructores hacen entonces una demostracion, y esta es la parte que reajusta las expectativas de todos: ver a personas que hacen esto profesionalmente moverse a toda velocidad, de cerca, hace que las versiones de cine sean legibles de una manera que ninguna explicacion logra.\n\nLuego usted realiza lo que ha aprendido, y se filma. Fotografia y video se toman con su propia camara, con un servicio de descarga incluido.\n\nEl entorno es el punto central de todo esto. **Myokaku-ji** es un templo en Kamigyo-ku donde se alojaron senores de la guerra del periodo Sengoku, entre ellos Oda Nobunaga, y el dojo se encuentra dentro del recinto. Practicar con la espada en ese terreno es una propuesta muy distinta a un estudio en un centro comercial.\n\nEl grupo esta limitado a seis personas. La instruccion es en japones, demostrada en todo momento, lo que funciona para el entrenamiento fisico. El transporte y las comidas corren por su cuenta.",
+  "highlights": [],
+  "included": [
+   "Instruccion de chambara con espada por actores profesionales de cine de samuráis",
+   "Alquiler y vestimenta de kimono",
+   "Demostracion por los instructores",
+   "Secuencia de espada filmada",
+   "Servicio de descarga de fotos",
+   "Fotografia y video con su propia camara",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Transporte de ida y vuelta al templo Myokaku-ji",
+   "Comidas",
+   "Recogida y regreso al hotel"
+  ]
+ },
+ "osaka-tea-ceremony-calligraphy-kimono-experience": {
+  "title": "Tres tradiciones en una tarde: kimono, caligrafia y te en Osaka",
+  "metaTitle": "Kimono, caligrafia y ceremonia del te en Osaka",
+  "metaDescription": "Vestido con kimono y peinado sencillo, luego una leccion de caligrafia, luego una ceremonia del te con dulces, tres horas, cuatro personas maximo.",
+  "shortDescription": "Vestido con kimono y peinado sencillo, luego una leccion de caligrafia, luego una ceremonia del te con dulces, tres horas, cuatro personas maximo.",
+  "fullDescription": "Hacer el kimono, la caligrafia y el te como tres reservas separadas lleva tres medios dias y tres desplazamientos. Esta sesion las realiza como una sola tarde en la misma sala, en el orden que tiene sentido, con un maximo de cuatro personas.\n\n**Primero el kimono**, porque todo lo que viene despues se hace mejor vestido asi. Elige entre una coleccion y el personal le viste correctamente, las capas, el relleno, el obi, con un peinado sencillo incluido. Cambia como se sienta, lo cual resulta importante para las siguientes dos horas.\n\n**Segundo la caligrafia.** Un instructor le guia a traves del pincel: el agarre vertical, la carga de tinta y como la presion cambia el ancho de un trazo. Escribe un caracter de su eleccion. Esta es la parte que la mayoria espera que sea de relleno y en la que acaban pasando mas tiempo.\n\n**El te al final**, que es el orden correcto, la ceremonia del te esta disenada para ser el punto de quietud al final de algo, y llegar a ella con kimono despues de una hora de concentracion esta cerca de como esta pensada para vivirse. Aprende la historia y el razonamiento detras del ritual en lugar de solo verlo representado, y se sirven dulces con el matcha.\n\nEl limite de cuatro personas es lo que hace que funcione. Esto se acerca a una sesion privada, lo cual conviene a familias y principiantes que prefieren hacer preguntas en lugar de seguir el ritmo de un grupo de veinte.\n\nEl lugar esta en el segundo piso de un edificio en Uehonmachi, distrito de Tennoji, accesible desde dos estaciones principales. La instruccion es en ingles durante toda la sesion. El transporte, el peinado y el maquillaje adicionales no estan incluidos.",
+  "highlights": [],
+  "included": [
+   "Traje de kimono y vestimenta",
+   "Peinado sencillo",
+   "Sesion de caligrafia con un instructor",
+   "Ceremonia del te japonesa",
+   "Dulces tradicionales"
+  ],
+  "notIncluded": [
+   "Transporte al lugar",
+   "Peinado o maquillaje adicional",
+   "Comida y bebidas adicionales",
+   "Recogida y regreso",
+   "Propinas"
+  ]
+ },
+ "osaka-kendo-samurai-training-dojo": {
+  "title": "Kendo en un dojo de Osaka: armadura, espada de bambu y dos horas de instruccion",
+  "metaTitle": "Experiencia de kendo en un dojo en Osaka",
+  "metaDescription": "Pongase la armadura completa de kendo en un dojo activo, aprenda la etiqueta y los golpes con un instructor de habla inglesa, y practique combates si lo desea.",
+  "shortDescription": "Pongase la armadura completa de kendo en un dojo activo, aprenda la etiqueta y los golpes con un instructor de habla inglesa, y practique combates si lo desea.",
+  "fullDescription": "El kendo es lo que ocurrio con la esgrima japonesa cuando las espadas dejaron de estar afiladas. Las tecnicas provienen directamente de las escuelas que entrenaban a los samuráis; el shinai, una espada de cuatro varas de bambu atadas juntas, y la armadura bogu se desarrollaron en el siglo XVIII para que los practicantes pudieran golpearse a plena fuerza sin matar a nadie. Todavia se practica asi, y todavia es ruidoso.\n\nEsta sesion de dos horas se realiza en un dojo autentico en lugar de un estudio, y esta disenada para principiantes. Comienza con la parte mas importante y de la que la mayoria de los visitantes nunca han oido hablar: **reiho**, la etiqueta. Donde se hace la reverencia, cuando, a quien, como se entra y se sale del area. En el kendo, la etiqueta no es una decoracion alrededor de la practica, se trata como parte de la practica, y hacerla mal es un error mayor que un golpe pobre.\n\nLuego la armadura. El bogu es mas pesado y mas caluroso de lo que parece, y el men, el casco con su rejilla, cambia lo que puede ver y oir. Ponersela correctamente necesita ayuda.\n\nDespues vienen los golpes: men a la cabeza, kote a la muneca, do al torso, cada uno anunciado con un grito al impactar, porque en el kendo un punto requiere el golpe, la voz y el seguimiento juntos. Golpear correctamente es mucho mas dificil que golpear fuerte.\n\nCualquiera con experiencia previa en artes marciales o kendo puede practicar combate con un practicante experto en su lugar. Las fotos con armadura estan incluidas.\n\nLos grupos estan limitados a doce personas, la instruccion es en ingles, y el dojo esta en el distrito de Kita-ku, Osaka.",
+  "highlights": [],
+  "included": [
+   "Charla sobre kendo, bushido y la etiqueta reiho",
+   "Uniforme completo de kendo y armadura de proteccion",
+   "Instruccion de un profesor experimentado de habla inglesa",
+   "Combate para invitados con experiencia previa",
+   "Fotos con armadura"
+  ],
+  "notIncluded": [
+   "Transporte al dojo",
+   "Comida y bebidas",
+   "Recogida y regreso al hotel"
+  ]
+ },
+ "nagoya-osu-maid-cafe-experience": {
+  "title": "Un cafe de maids en Osu: la version de Nagoya del original de Akihabara",
+  "metaTitle": "Cafe de maids en Osu, Nagoya",
+  "metaDescription": "Una hora en el distrito comercial de Osu, en la sucursal de Nagoya de la cadena de cafes de maids mas conocida, con bebida, comida, foto y tarifa de mesa incluidas.",
+  "shortDescription": "Una hora en el distrito comercial de Osu, en la sucursal de Nagoya de la cadena de cafes de maids mas conocida, con bebida, comida, foto y tarifa de mesa incluidas.",
+  "fullDescription": "Osu es la version de Nagoya de Akihabara mezclada con un mercado cubierto: varios cientos de metros de galerias que venden ropa de segunda mano, electronica, articulos de anime, comida callejera y antiguedades, anclados alrededor de un templo. Es el distrito comercial mas agradable de la ciudad y considerablemente menos pulido que su equivalente de Tokio, que es precisamente el atractivo.\n\nEl cafe de maids aqui pertenece a la cadena que comenzo en Akihabara y desde entonces se ha extendido por todo Japon. El formato es inalterado y totalmente sincero: se le recibe como invitado de la casa en lugar de cliente, el personal mantiene el ambiente en todo momento, y hay un ritual, el omajinai, palabras magicas cantadas sobre su comida, en el que se espera que los invitados participen.\n\nEs teatro interactivo con una bebida. No es para adultos, no es un bar, y es apto para familias. Lo que separa una buena hora de una incomoda depende por completo de si esta dispuesto a seguir el juego.\n\nLo que esta incluido cubre las cosas que suelen sorprender a la gente: una bebida, una comida o postre, una fotografia con una maid, y la tarifa de mesa que casi en todas partes se cobra por separado.\n\nCuatro planes. El almuerzo es el mas economico, la cena un poco mas, y los paquetes de pareja y familia para dos y tres personas resultan mejores por persona.\n\nEl cafe esta en Akamon-dori en Osu, por lo que se integra naturalmente en una tarde en las galerias, que es la forma correcta de hacerlo, ya que Osu en si merece dos horas, entre o no al cafe.",
+  "highlights": [],
+  "included": [
+   "Una bebida",
+   "Una comida o postre",
+   "Fotografia con una maid",
+   "Tarifa de mesa (Passport of Dreamland)",
+   "El ritual omajinai"
+  ],
+  "notIncluded": [
+   "Opciones adicionales compradas en el lugar",
+   "Comida y bebidas adicionales",
+   "Transporte al lugar"
+  ]
+ },
+ "nagoya-calligraphy-class-with-tea-and-sweets": {
+  "title": "Caligrafia en el centro de Nagoya, con te y dulces",
+  "metaTitle": "Clase de caligrafia en Nagoya con te",
+  "metaDescription": "Dos horas tranquilas con un maestro de caligrafia en Sakae, por la manana o la tarde, con te japones y dulces servidos mientras practica.",
+  "shortDescription": "Dos horas tranquilas con un maestro de caligrafia en Sakae, por la manana o la tarde, con te japones y dulces servidos mientras practica.",
+  "fullDescription": "La caligrafia es una buena actividad para la mitad de un dia de viaje, que es exactamente como esta disenada esta sesion. Dos horas, en pleno centro de Sakae, a las 10:00 o a las 15:00, en una sala donde el ritmo es deliberadamente lento y hay te.\n\nUn maestro de caligrafia ensena. La primera parte es mecanica e importa mas de lo que parece: como sostener el pincel erguido, cuanta tinta debe llevar, como la presion cambia el ancho de un trazo, y por que el movimiento viene del brazo en lugar de los dedos. Equivocarse en esto hace que nada despues funcione.\n\nUna vez que el pincel deja de sentirse extrano, escribe. La mayoria comienza con un kanji elegido por su significado y termina trabajando en su propio nombre, que es la pieza que suele llegar a casa enmarcada.\n\nLo que hace que esta version sea mejor que una demostracion rapida es el tiempo y el te. Se sirven te japones y dulces tradicionales durante la sesion, y las dos horas dejan espacio para cometer errores, descansar, mirar lo que ha hecho e intentarlo de nuevo, que es como la practica realmente funciona. La caligrafia se ha tratado como una disciplina meditativa durante siglos y solo funciona como tal si no se tiene prisa.\n\nLa instruccion es en ingles durante toda la sesion, se proporciona material, y el grupo esta limitado a diez personas. No se espera experiencia; la mayoria de las personas en la sala nunca han sostenido un pincel.\n\nEl estudio esta en el sexto piso de un edificio en Sakae, pasando el Lawson, facil de incluir entre otros planes en el centro de Nagoya.",
+  "highlights": [],
+  "included": [
+   "Clase de caligrafia de dos horas con un maestro",
+   "Todos los materiales de caligrafia",
+   "Te japones",
+   "Dulces tradicionales japoneses",
+   "Instruccion en ingles"
+  ],
+  "notIncluded": [
+   "Transporte al estudio",
+   "Gastos personales adicionales",
+   "Enmarcado o montaje"
+  ]
+ },
+ "kyoto-by-the-sea-day-tour-sightseeing-train": {
+  "title": "Kyoto junto al mar: el tren turistico costero desde Nishi-Maizuru",
+  "metaTitle": "Tour costero de Kyoto en tren turistico",
+  "metaDescription": "La prefectura de Kyoto llega al mar de Japon, y casi nadie va. Un viaje panoramico costero de 45 minutos es el punto central de este dia desde Osaka.",
+  "shortDescription": "La prefectura de Kyoto llega al mar de Japon, y casi nadie va. Un viaje panoramico costero de 45 minutos es el punto central de este dia desde Osaka.",
+  "fullDescription": "La prefectura de Kyoto no es solo la ciudad. Se extiende al norte hasta la costa del mar de Japon, y esa mitad norte, puertos pesqueros, bancos de arena cubiertos de pinos y una costa de ensenadas, no tiene casi nada que ver con los templos por los que la gente viene. Tambien esta casi completamente ausente de los itinerarios extranjeros.\n\nEl punto central es un **viaje de 45 minutos en el tren turistico desde Nishi-Maizuru**. Es un vagon de observacion disenado especificamente con asientos orientados al mar y ventanas panoramicas de gran tamano, y la linea pasa en algunos puntos tan cerca de la orilla que el agua esta directamente debajo de usted. El mar de Japon es un mar distinto del lado del Pacifico, mas oscuro, mas frio, con un oleaje mas fuerte, y asi lo parece.\n\nAlrededor del viaje en tren, el dia recorre la costa: los puertos pesqueros, los miradores y la tranquilidad particular de una parte de Japon que no esta gestionando multitudes.\n\nEste es un dia largo, unas once horas, saliendo de la estacion de Nipponbashi en Osaka a las 7:10 de la manana, porque la distancia es real. El autocar es climatizado, y todos los peajes, estacionamiento y combustible estan incluidos junto con el conductor y el guia, que trabajan en ingles y chino.\n\nUna opcion mejorada anade un telecabina. Las comidas no estan incluidas, lo cual es normal para este formato y le da los mariscos del puerto pesquero como eleccion en lugar de un menu fijo.\n\nReserve esto si ya ha visto Kyoto y Nara y quiere algo que ningun otro pasajero de su vuelo de regreso habra hecho. No lo reserve como su primer dia en Kansai.",
+  "highlights": [],
+  "included": [
+   "Viaje de 45 minutos en tren turistico con vistas al mar",
+   "Autocar climatizado para el dia completo",
+   "Conductor y guia profesionales",
+   "Recogida y regreso en Osaka",
+   "Todos los impuestos, peajes, estacionamiento y combustible",
+   "Telecabina en la opcion mejorada"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Gastos personales",
+   "Entradas opcionales a atracciones"
+  ]
+ },
  "japanese-postcard-painting-etegami-workshop-in-kyoto": {
   "title": "Taller de pintura de postales japonesas (etegami) en Kyoto",
   "fullDescription": "Esta es una experiencia de 1 hora en Kyoto. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nKyoto fue la capital de Japón durante más de mil años hasta 1868 y tiene 17 sitios catalogados por la UNESCO entre unos 2.000 templos y santuarios. Los tres grandes son Kinkaku-ji, el Pabellón Dorado, cubierto de pan de oro y mejor con la luz de la mañana; Kiyomizu-dera, el escenario de madera en las colinas orientales con los callejones de Higashiyama de Sannenzaka y Ninenzaka debajo; y las puertas de Fushimi Inari. El castillo de Nijo tiene los pisos del ruiseñor que chirrían contra los intrusos, y Ryoan-ji el jardín de piedras. Los templos abren alrededor de las 8:00 o 9:00 y cierran a las 17:00, y el autobús municipal es lento; un día con un conductor o guía que ordena las paradas contra las multitudes es la diferencia entre cuatro sitios y siete.\n\nEl precio incluye taller tradicional de pintura de postales japonesas, Instructor Ekaki japonés, herramientas y técnicas autenticas, digitalización y mejora de la obra de arte y bolsa de alta calidad con diseño impreso. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
