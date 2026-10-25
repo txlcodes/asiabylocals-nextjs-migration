@@ -58550,6 +58550,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Optionale Attraktionseintritte"
   ]
  },
+ "kyoto-higashiyama-evening-tour": {
+  "title": "Private Higashiyama-Nacht-E-Bike-Tour",
+  "metaTitle": "Private Higashiyama-Nacht-E-Bike-Tour",
+  "metaDescription": "Eine private abendliche E-Bike-Fahrt durch Gion und Higashiyama, wenn die Strassen wieder ruhig geworden sind und die Lampions leuchten.",
+  "shortDescription": "Eine private abendliche E-Bike-Fahrt durch Gion und Higashiyama, wenn die Strassen wieder ruhig geworden sind und die Lampions leuchten.",
+  "fullDescription": "Higashiyama tagsueber ist eine lange Prozession von Reisegruppen, die sich im Tempo der langsamsten Person vor ihnen bewegen, Schulter an Schulter die Sannenzaka und Ninenzaka hinauf zu Kiyomizu-dera getrichtert. Nach Einbruch der Dunkelheit, sobald die Laeden ihre Rolllaeden herunterlassen und die Tagesausfluegler sich in ihre Hotels zurueckziehen, werden dieselben Steinstrassen ruhig genug, um Ihre eigenen Schritte zu hoeren, und genau fuer dieses Zeitfenster ist diese private E-Bike-Tour gebaut. Vom Saiin-Studio aus fuehrt Sie ein erfahrener lokaler Guide zunaechst durch Gion, waehrend es noch von fruehabendlicher Energie belebt ist, vorbei an Hanamichi und entlang des Shirakawa-Kanals, wo die Weiden und das Lampionlicht ein voellig anderes Foto ergeben als das Tagesgedraenge. Von dort entspannt sich die Route in das eigentliche Higashiyama hinein und windet sich durch erhaltene Strassen aus der Edo- und Meiji-Zeit, vorbei an der beleuchteten Silhouette der Yasaka-Pagode, und durch Hinterstrassen, die die meisten Reiseplaene komplett auslassen. Die elektrische Unterstuetzung zaehlt mehr, als es klingt, Higashiyamas Gelaende steigt und faellt staendig, und das E-Bike verwandelt, was eine ermuedende bergauffuehrende Schinderei waere, in ein muehelosses Gleiten. Da es privat ist, passt sich das Tempo ganz um Sie an: verweilen Sie in einer besonders eindrucksvollen Gasse, machen Sie einen Umweg zu einem Schreintor, das Ihr Auge faengt, oder fahren Sie weiter, wenn Sie lieber mehr Boden abdecken wollen. Kyoto Bike Rental and Tours betreibt dies von seinem langjaehrigen Standort in Saiin aus und kennt die Hinterstrassen nach Einbruch der Dunkelheit gut genug, um Sackgassen und unbeleuchtete Abschnitte zu umfahren. Bringen Sie Schichten mit, da sich die Abendluft auf dem Fahrrad schneller bewegt als zu Fuss, und geschlossene Schuhe werden empfohlen, auch wenn die Trittunterstuetzung die meiste Arbeit erledigt. Dies ist Kyotos meistfotografiertes Viertel, gezeigt auf die Art, wie Einheimische es spaetabends tatsaechlich erleben, ruhig, von Lampions beleuchtet, und voellig ohne die Menschenmengen.",
+  "highlights": [],
+  "included": [
+   "Ein privater Guide, E-Bike-Verleih, und Sicherheitsausruestung fuer die gesamte abendliche Fahrt durch Gion und Higashiyama"
+  ],
+  "notIncluded": [
+   "Hotelabholung/-ruecktransfer, Essen und Getraenke, und Eintrittsgebuehren zu allen Tempeln entlang der Route sind nicht enthalten"
+  ]
+ },
+ "kyoto-kansai-private-tour": {
+  "title": "Private Kansai-Tagestour (3 Stunden)",
+  "metaTitle": "Private Kansai-Tour (3 Stunden)",
+  "metaDescription": "Drei private Stunden im Kansai, ganz um die Interessen Ihrer Gruppe aufgebaut statt um eine feste Tempelliste, mit einem flexiblen lokalen Guide.",
+  "shortDescription": "Drei private Stunden im Kansai, ganz um die Interessen Ihrer Gruppe aufgebaut statt um eine feste Tempelliste, mit einem flexiblen lokalen Guide.",
+  "fullDescription": "Manche Reisende wollen keine feste Liste von Tempeln von einem Skript vorgelesen, sie wollen einen Einheimischen, der tatsaechlich auf das eingehen kann, was sie neugierig macht. Das ist die Pramisse dieser privaten Kansai-Tour: ein Guide, der die drei Stunden ganz um die Interessen, Essenswuensche, und das Tempo Ihrer Gruppe aufbaut, statt Sie durch eine Checkliste zu treiben. Kansai, die Region, die Kyoto, Osaka und Nara umfasst, hat genug geschichtete Geschichte und Essenskultur, dass ein guter lokaler Guide je nachdem, wer fragt, in wild unterschiedliche Richtungen gehen kann. Wollen Sie einen bestimmten Stil von Kyoto-Ramen aufspueren oder eine ueberdachte Arkade voller familiengefuehrter Essensstaende erkunden? Neugierig auf eine bestimmte historische Periode und wollen den damit verbundenen Schrein oder Bezirk sehen? Diese Tour passt sich an. Da sie privat ist und auf eine kleine Gruppengroesse begrenzt, gibt es kein Warten auf Nachzuegler oder Aushandeln eines Reiseplans per Ausschuss. Mit drei Stunden ist sie bewusst kompakt, ein fokussierter Zeitblock statt eines Ganztagesmarathons, was sie zu einer klugen Ergaenzung macht, wenn Sie bereits mit einem vollen Kansai-Reiseplan jonglieren. Der Wert hier ist keine feste Sammlung von Sehenswuerdigkeiten, es ist der Guide selbst: jemand, der in der Region lebt, echte Meinungen darueber hat, wo man essen sollte und was Ihre begrenzte Zeit wert ist, und spontan umschwenken kann, wenn die Neugier Ihrer Gruppe eine unerwartete Wendung nimmt. Wenn Sie lieber ein echtes Gespraech mit einem kundigen Einheimischen fuehren als einem Skript zu folgen, ist dies genau dafuer gebaut.",
+  "highlights": [],
+  "included": [
+   "Privater lokaler Guide fuer drei Stunden und Routenplanung basierend auf Gruppenpraeferenzen"
+  ],
+  "notIncluded": [
+   "Essen, Getraenke, Eintrittsgebuehren, und Transportkosten ueber das Gehen hinaus"
+  ]
+ },
+ "kyoto-kawaramachi-izakaya-and-bar-crawl": {
+  "title": "Kawaramachi-Kneipentour: Kyotos Izakaya-Gassen mit einem Einheimischen",
+  "metaTitle": "Izakaya-Kneipentour in Kawaramachi",
+  "metaDescription": "Drei Stunden durch Kyotos Trinkviertel mit jemandem, der fuer Sie bestellen kann, bezahlen Sie Ihr eigenes Essen und Getraenke, und meiden Sie Touristenbars ganz.",
+  "shortDescription": "Drei Stunden durch Kyotos Trinkviertel mit jemandem, der fuer Sie bestellen kann, bezahlen Sie Ihr eigenes Essen und Getraenke, und meiden Sie Touristenbars ganz.",
+  "fullDescription": "Kyoto leert sich gegen sechs Uhr abends von Besuchern, genau dann wird die Stadt interessant. Die Gassen um Kawaramachi und Pontocho fuellen sich mit Menschen, die hier arbeiten, und die guten Izakaya sind klein, unbeschildert und ganz auf Japanisch, genau die Kombination, die Auslaender draussen haelt.\n\nDiese dreistuendige Tour existiert, um Sie durch diese Tueren zu bringen. Der Guide ist lokal, die Gruppe ist auf fuenfzehn begrenzt, und das Entscheidende, das enthalten ist, ist Hilfe bei der Bestellung. In einem Izakaya bestellen Sie in Runden von einer handgeschriebenen Wandspeisekarte, und jemanden zu haben, der sie liest und Sie zu dem lenkt, was diese bestimmte Kueche gut macht, ist der Unterschied zwischen einem guten Abend und einem Teller Edamame.\n\nEssen und Getraenke sind nicht enthalten, was den Ticketpreis niedrig haelt und bedeutet, dass Sie in Ihrem eigenen Tempo und zu Ihrem eigenen Budget trinken und essen statt fuer ein festes Menue zu bezahlen. Erwarten Sie Ausgaben ueber das Ticket hinaus. Der Guide sagt Ihnen ungefaehr, was jeder Stopp kostet, bevor Sie sich darauf einlassen.\n\nZwischen den Lokalen deckt der Spaziergang die Geografie richtig ab, welche Gassen es wert sind, zurueckzukehren, wie Pontocho funktioniert, wo die Stehbars sind, und die Etikette, die Leute stolpern laesst: das feuchte Handtuch, die Erste-Getraenk-Konvention, warum Sie fuer andere eingiessen und nicht fuer sich selbst. Fotos, die waehrend des Abends aufgenommen werden, werden Ihnen danach geteilt.\n\nTreffpunkt ist vor dem Disney Store an der Shijo-Kawaramachi, unmoeglich zu uebersehen an einer belebten Ecke, und die Route ist rollstuhlzugaenglich. Eine private Version laeuft am selben Abend fuer Gruppen, die es nicht teilen moechten.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide fuer drei Stunden, gefuehrte Fussroute durch die Kawaramachi-Bar- und Izakaya-Gassen, Hilfe bei der Bestellung von Essen und Getraenken an jedem Lokal, waehrend des Abends aufgenommene Fotos, danach geteilt, lokale Empfehlungen und kultureller Kontext durchgehend"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke, von Ihnen an jedem Lokal bezahlt, Transport zum Treffpunkt, Hotelabholung und -ruecktransfer"
+  ]
+ },
+ "kyoto-legends-guided-tour": {
+  "title": "Kyoto-Geistertour: dunkle Geschichten, Legenden, Bambuswald",
+  "metaTitle": "Kyoto-Geistertour",
+  "metaDescription": "Ab 21 Uhr, ein naechtlicher Spaziergang in kleiner Gruppe durch den Bambuswald von Arashiyama mit einem lokalen Geschichtenerzaehler.",
+  "shortDescription": "Ab 21 Uhr, ein naechtlicher Spaziergang in kleiner Gruppe durch den Bambuswald von Arashiyama mit einem lokalen Geschichtenerzaehler.",
+  "fullDescription": "Um 21 Uhr leert sich der Bambuswald von Arashiyama vollstaendig. Die Reisebusse sind zu ihren Hotels zurueckgekehrt, die Souvenirlaeden haben ihre Rolllaeden geschlossen, und der Bambuskorridor, der mittags so langweilig fotografiert, wird zu etwas anderem, Stangen knarren gegeneinander im Wind, Mondlicht schneidet den Pfad in Streifen, und kein Fotoapparat mehr in Sicht. Das ist die Stunde, zu der dieser Spaziergang beginnt, und er ist um diese Leere herum gebaut statt sie zu umgehen. Ihr Guide, ein in Kyoto ansaessiger Geschichtenerzaehler statt ein skriptgebundener Erzaehler, webt das Volksgut zusammen, mit dem Einheimische wirklich aufwuchsen: Onryo-Groll-Geister, die angeblich verlassene Tempelgelaende verfolgen, die Hinrichtungen der Samurai-Zeit, die bestimmten Hinterstrassen ihre Namen gaben, und die seltsame Wahre-Verbrechen-Fussnote, die es nie in einen Tagesreiseplan schafft. Dies ist keine Schreckmoment-Theaterproduktion mit Schauspielern in Kostuemen, es ist naeher an dem, was Sie beim Gehen mit einer Kyoto-Grossmutter bekommen wuerden, die zufaellig weiss, wo die Leichen begraben sind. Die Route bewegt sich ueber die Postkartenversion der Stadt hinaus in ruhigere Hinterstrassen von Arashiyama und Tempelumfeldern, wo die Geschichte schwerer wiegt und sich die Menschenmengen nie die Muehe gemacht haben zu folgen. Gruppen bleiben absichtlich klein, niedrig genug begrenzt, dass jeder den Guide ohne Mikrofon hoeren kann. Bequeme Schuhe zaehlen mehr als eine Taschenlampe, der Boden des Bambuswalds ist uneben und die Seitenpfade sind nicht fuer Touristen beleuchtet. Bringen Sie eine Jacke mit, selbst in waermeren Monaten, da der Hain nach Sonnenuntergang eine Kaelte haelt. Was Sie davon mitnehmen, ist keine Checkliste fotografierter Tempel, sondern eine wirklich andere Lesart einer Stadt, die die meisten Besucher nur von 8 bis 18 Uhr sehen. Wenn Sie den Standard-Schreinrundgang schon gemacht haben und einen Abend wollen, der Glanz gegen Atmosphaere eintauscht, ist dies die Version von Kyoto, die sich das Wort heimgesucht wirklich verdient.",
+  "highlights": [],
+  "included": [
+   "Ein lokaler Geschichtenerzaehler-Guide und ein naechtlicher Spaziergang in kleiner Gruppe durch den Bambuswald von Arashiyama und die umliegenden Hinterstrassen"
+  ],
+  "notIncluded": [
+   "Hotelabholung/-ruecktransfer, Essen und Getraenke, und Transport zum und vom Treffpunkt sind nicht enthalten"
+  ]
+ },
+ "kyoto-morning-tour": {
+  "title": "Fruher Morgen in Kyoto",
+  "metaTitle": "Morgentour durch Kyoto",
+  "metaDescription": "Eine private Halbtagestour fruh am Morgen zu Fushimi Inari, Kiyomizu-dera und den Gassen von Higashiyama, bevor die Menschenmengen ankommen.",
+  "shortDescription": "Eine private Halbtagestour fruh am Morgen zu Fushimi Inari, Kiyomizu-dera und den Gassen von Higashiyama, bevor die Menschenmengen ankommen.",
+  "fullDescription": "Fushimi Inari beim Sonnenaufgang ist ein anderer Schrein als der auf jedem Foto, das Sie online gesehen haben. Die zinnoberroten Torii-Tore, die beruehmt den Berghang hinauftunneln, sind bis zum Vormittag ueblicherweise Schulter an Schulter mit Besuchern; kommen Sie statt dessen bei Morgendaemmerung an und Sie erhalten lange Abschnitte des Pfads fuer sich allein, sanftes Licht, das durch die Tore filtert, und die unheimliche Stille eines Schreins, der seit dem 8. Jahrhundert kontinuierlich aktiv ist. Diese private Halbtagestour ist ganz darauf aufgebaut, dieses Zeitfenster zu nutzen, beginnend frueh genug, um die Reisebusse zu schlagen. Von dort fuehrt die Route nordwaerts nach Higashiyama, Kyotos am besten erhaltenes historisches Viertel, mit dem Spaziergang so getaktet, dass Sie Kiyomizu-dera und seine dramatische Holzbuehne erreichen, waehrend die Menschenmengen noch duenn sind. Der Abstieg durch Ninen-zaka und Sannen-zaka, zwei steingepflasterte Gassen mit Machiya-Stadthaeusern, Teehaeusern, und kleinen Handwerksladen, ist einer der fotogensten Spaziergaenge Japans, und ihn frueh zu machen bedeutet, dass Sie die Architektur der Edo-Zeit tatsaechlich wertschaetzen koennen, statt eine Wand von Reisegruppen zu navigieren. Ihr Guide webt lokalen Kontext durchgehend ein: warum diese bestimmten Strassen die Umgestaltung ueberlebten, worauf man in traditionellen Ladenfronten achten sollte, welche kleinen Seitengassen einen Umweg lohnen. Da sie privat ist und auf sechs Personen begrenzt, passt sich das Tempo Ihrer Gruppe an statt einem festen Zeitplan. Diese Tour belohnt speziell Fruehaufsteher, sie ist fuer Reisende gebaut, die verstehen, dass Kyotos ikonischste Sehenswuerdigkeiten durch einfaches Erscheinen vor allen anderen verwandelt werden.",
+  "highlights": [],
+  "included": [
+   "Private gefuehrte Fusstour mit Fushimi Inari, Kiyomizu-dera, und dem Higashiyama-Viertel"
+  ],
+  "notIncluded": [
+   "Tempeleintrittsgebuehren und Essens- oder Getraenkekaeufe entlang der Route sind nicht enthalten"
+  ]
+ },
+ "kyoto-nara-fushimi-inari-deer-park-day-tour": {
+  "title": "Fushimi Inari und Nara zu Fuss: die geteilte Fuenf-Stunden-Version",
+  "metaTitle": "Fushimi Inari und Nara zu Fuss, geteilte Version",
+  "metaDescription": "Der guenstige Weg, Fushimi Inari mit Naras Hirschen und dem grossen Buddha zu verbinden, fuenf Stunden zu Fuss mit geteiltem Guide.",
+  "shortDescription": "Der budgetfreundliche Weg, Kyotos Torii-Tore mit Naras Hirschen und dem grossen Buddha zu verbinden, fuenf Stunden zu Fuss mit geteiltem Guide, zu einem Bruchteil des Preises eines Privatwagens.",
+  "fullDescription": "Fushimi Inari und Nara erscheinen ueblicherweise in Reiseplaenen als zwei getrennte Fotostopps. Zusammen und in der richtigen Reihenfolge genommen, sind sie etwas Besseres: ein Spaziergang durch die zwei religioesen Systeme, die Japan formten, und den Punkt, an dem eines das andere absorbierte.\n\nDer Tag beginnt bei Fushimi Inari, am suedlichen Rand Kyotos. Die Senbon Torii, Tausende zinnoberroter Tore eng genug beieinander, um Tunnel den Berghang hinauf zu bilden, sind das meistfotografierte Objekt Japans, und fast niemand, der sie fotografiert, weiss, was sie sind. Jedes Tor wurde von einem Unternehmen bezahlt, dessen Name auf der Rueckseite eingraviert ist, als Dank fuer eine gewaehrte Gunst. Inari ist die Gottheit des Reises, und daher der Ernte, und daher des Handels; die Fuechse ueberall sind die Boten. Ihr Guide entschluesselt das Volksgut und, nuetzlicher, wie dieser landwirtschaftliche Glaube sich noch darin zeigt, wie modernes japanisches Geschaeft funktioniert.\n\nDann Nara, und eine voellig andere Religion. Der Buddhismus kam im sechsten Jahrhundert vom Kontinent, und Nara ist der Ort, wo der Staat ihn in grossem Massstab annahm. Die Hirsche im Park gehoeren zum aelteren System, Shinto-Boten, seit Jahrhunderten geschuetzt, weshalb sie ohne Sorge durch eine Stadt mit 350.000 Menschen wandern. Todai-ji ist, wo sich das Neue ankuendigte: ein fuenfzehn Meter hoher Bronze-Buddha, im achten Jahrhundert zu Kosten gegossen, die das Land fast in den Bankrott trieben, in einer dafuer gebauten Holzhalle.\n\nFuenf Stunden, zu Fuss an jedem Ende mit Transport dazwischen. Eintrittsgebuehren und Essen sind nicht enthalten. Gruppen sind auf der geteilten Version auf zwanzig begrenzt, und eine private Option faehrt dieselbe Route in Ihrem eigenen Tempo.\n\nDies ist die zu Fuss gehende, geteilte-Guide-Version, und sie ist entsprechend preisgestaltet. Wenn Sie dieselben beiden Staetten lieber mit einem Privatwagen mit Fahrer und einem laengeren Tag erleben moechten, listen wir eine separate Premiumversion dieser Route ab Kyoto, dieselben Orte, ganz anderes Tempo und Preis.",
+  "highlights": [],
+  "included": [
+   "Englischsprachiger lokaler Guide fuer fuenf Stunden, gefuehrte Fussrouten bei Fushimi Inari und im Nara-Park"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke, Tempel- und Schreineintrittsgebuehren, Transport zwischen Kyoto und Nara, Hotelabholung und -ruecktransfer"
+  ]
+ },
  "nagoya-takoyaki-cooking-class": {
   "title": "Takoyaki von Grund auf in Nagoya: Teig, Octopus und der Dreh",
   "metaTitle": "Takoyaki-Kochkurs in Nagoya",
