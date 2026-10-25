@@ -58089,6 +58089,90 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comidas y bebidas, equipo de senderismo personal, seguro de viaje, propinas para el guia"
   ]
  },
+ "kasuga-taisha-morning-tour": {
+  "title": "Excursion matutina a Nara desde Kioto en autocar: Kasuga Taisha, parque de ciervos y el gran Buda",
+  "metaTitle": "Excursion matutina a Nara desde Kioto",
+  "metaDescription": "Una excursion matutina de cuatro horas en autocar desde Kioto: Kasuga Taisha, los ciervos del parque de Nara y Todai-ji, hasta la estacion Kintetsu-Nara.",
+  "shortDescription": "Una excursion matutina de cuatro horas en autocar desde Kioto que cubre Kasuga Taisha, los ciervos del parque de Nara y Todai-ji, terminando en la estacion Kintetsu-Nara.",
+  "fullDescription": "Esta es una excursion de medio dia que comienza en Kioto, no en Nara. Se encuentra en el Tully's Coffee junto a Kyoto Avanti al lado de la estacion de Kioto, sube a un autocar, y viaja aproximadamente una hora al sur hacia la antigua capital, lo que le evita resolver conexiones de tren con equipaje o un grupo. El tour es un arreglo de un solo sentido: termina en la estacion Kintetsu-Nara en lugar de regresar a Kioto, asi que puede volver directamente segun su propio horario o quedarse en Nara el resto del dia.\n\nLa parte guiada se desarrolla en un orden inusual que evita las multitudes de media manana. Kasuga Taisha viene primero, un santuario sintoista fundado en el ano 768 d.C. cuyos caminos y aleros portan miles de linternas de piedra y bronce donadas por fieles durante mas de un milenio. Luego viene tiempo libre en el parque de Nara entre sus mas de mil ciervos sika salvajes, protegidos como mensajeros de la deidad Takemikazuchi y designados Tesoro Natural Nacional en 1957. Todai-ji se reserva para el final, con el bloque guiado mas largo de la manana.\n\nEn Todai-ji se acerca al Daibutsu, el Buda de bronce de quince metros dedicado en el ano 752 d.C., durante el periodo de Nara como primera capital permanente de Japon, un rol que mantuvo durante 74 anos a partir de 710. El actual Daibutsuden data de 1709 y es solo unos dos tercios del ancho del salon que reemplazo, lo que da una idea de la escala del original. Un guia maneja el contexto y la logistica; usted maneja la caminata, que es moderada y mayormente plana salvo el acceso al santuario.",
+  "highlights": [],
+  "included": [
+   "Transporte en autocar de Kioto a Nara, guia de habla inglesa, visitas guiadas a Kasuga Taisha y Todai-ji"
+  ],
+  "notIncluded": [
+   "Transporte de regreso a Kioto, entrada a Todai-ji si no se indica en la reserva, comidas y bebidas, galletas para ciervos, recogida en el hotel"
+  ]
+ },
+ "kawaguchiko-to-hakone-private-guided-transfer": {
+  "title": "Traslado privado guiado de Kawaguchiko a Hakone con paradas en santuario y manantiales",
+  "metaTitle": "Traslado privado de Kawaguchiko a Hakone",
+  "metaDescription": "Un traslado privado de cuatro horas entre Kawaguchiko y Hakone en trayecto guiado, con paradas en estanques de manantial y un santuario.",
+  "shortDescription": "Un traslado privado de cuatro horas que convierte la incomoda conexion de Kawaguchiko a Hakone en un trayecto guiado, con paradas en estanques de manantial, un santuario forestal y un mirador panoramico sobre el lago Ashi. El equipaje permanece en el vehiculo durante todo el trayecto.",
+  "fullDescription": "Llegar de Kawaguchiko a Hakone en transporte publico es uno de los tramos mas frustrantes del centro de Japon. No hay linea directa. La respuesta habitual es un autobus hasta Gotemba, una espera, un cambio, y otro autobus, con maletas a rastras y la mayor parte del dia perdido. Este tour toma ese mismo viaje, lo pone en un vehiculo privado con un guia de habla inglesa, y llena las horas con lugares que merecen una parada.\n\nTambien es una pieza de geografia genuinamente interesante. Comienza en la cuenca alpina en el lado norte del Fuji, cruza un paso de montana, y desciende a un paisaje volcanico completamente diferente: Hakone es una caldera, el remanente colapsado de un volcan mucho mas antiguo, y el cambio de terreno y vegetacion al pasar la cresta es evidente desde la ventana del auto.\n\nLa primera parada es Oshino Hakkai, un pueblo de ocho estanques al pie del Fuji alimentados por deshielo que ha filtrado a traves de la lava porosa de la montana durante decadas. El agua llega sorprendentemente clara y fria. Desde alli la ruta se dirige al santuario Ninooka, un pequeno santuario en el bosque que casi no recibe visitantes extranjeros y ofrece un registro muy diferente, musgo, cedro y silencio. El almuerzo es su eleccion entre dos opciones: Fukunoya para soba hecho a mano, o Toraya Kobo, donde se sirven dulces wagashi en un jardin de bambu.\n\nLa ultima parada es la llegada, y esta programada deliberadamente. El Parque de Observacion de Ashinoko se encuentra en lo alto sobre el lago Ashi, el lago de caldera alrededor del cual se construye Hakone, con una vista de circulo completo que abarca el agua, el borde circundante y, cuando el aire esta claro, el propio Fuji erguido detras. Ve toda la forma del lugar donde se alojara antes de registrarse, lo que cambia como se lee el resto de su tiempo en Hakone.\n\nEn la practica: este es un traslado privado de un solo sentido, cuatro horas puerta a puerta, que termina en su hotel o ryokan de Hakone en lugar de en una estacion. Su equipaje viaja con usted y no hay traslados ni esperas. La tarifa se cobra por grupo en lugar de por viajero, de uno a cuatro huespedes pagan el mismo total, asi que cuatro personas lo dividen entre cuatro, y los grupos de cinco o mas deben organizarse mediante consulta. El almuerzo no esta incluido; presupueste 2.000-3.000 JPY por persona.",
+  "highlights": [],
+  "included": [
+   "Guia profesional de habla inglesa, transporte en vehiculo privado, paradas en sitios culturales y naturales seleccionados, entrega en su alojamiento de destino"
+  ],
+  "notIncluded": [
+   "Almuerzo (presupueste 2.000-3.000 JPY por persona)"
+  ]
+ },
+ "kimpusenji-temple-full-day-tour": {
+  "title": "Excursion de un dia a los cerezos en flor del monte Yoshino desde Osaka con el tren Blue Symphony",
+  "metaTitle": "Cerezos en flor del monte Yoshino desde Osaka",
+  "metaDescription": "Solo en temporada de floracion: un dia completo caminando entre los 30.000 cerezos del monte Yoshino desde Osaka, con almuerzo y el tren Blue Symphony de regreso.",
+  "shortDescription": "Solo en temporada de floracion: un dia completo caminando entre los 30.000 cerezos del monte Yoshino desde Osaka, con almuerzo y el tren Blue Symphony de regreso.",
+  "fullDescription": "Este es un tour estrictamente estacional: funciona solo mientras el monte Yoshino esta en flor, aproximadamente de finales de marzo a mediados o finales de abril, y el operador ha publicado solo dos salidas, el 31 de marzo y el 2 de abril. No hay version de verano u otono. Los 30.000 cerezos de Yoshino tampoco florecen todos a la vez; se abren en una ola escalonada que sube la ladera de la montana a traves de cuatro arboledas historicas, Shimo Senbon en la base, luego Naka Senbon, Kami Senbon y finalmente Oku Senbon cerca de la cumbre, razon por la cual la fecha exacta en que viaja cambia que parte de la montana esta en su mejor momento.\n\nEl dia comienza en Osaka, no en Nara. Se encuentra a las 8:45 en las puertas de boletos de la estacion Kintetsu Osaka-Abenobashi y toma el tren hacia Yoshino, un paisaje Patrimonio Mundial de la UNESCO donde los arboles han sido plantados y replantados como ofrendas religiosas durante mas de mil anos. Espere una caminata real: los senderos de floracion se recorren a pie y la montana es empinada en algunos lugares. En el camino, el grupo visita el templo Kimpusenji, el templo principal del ascetismo de montana Shugendo, con su tarifa de entrada de 1.600 JPY cubierta en su precio.\n\nSe incluye un almuerzo japones tradicional a mitad de camino, seguido del mirador en el santuario Yoshimizu, conocido en japones como hitome senbon, el lugar donde se dice que se pueden ver mil flores de cerezo de un solo vistazo. El regreso a Osaka es a bordo del tren turistico Blue Symphony, cuyo suplemento de lujo esta incluido, llegando a Osaka-Abenobashi a las 17:22. Su guia trabaja en ingles, japones y espanol. Los boletos de tren basicos entre Osaka y Yoshino, aproximadamente ocho dolares estadounidenses por trayecto, no estan incluidos y se pagan el dia mismo.",
+  "highlights": [],
+  "included": [
+   "Guia de habla inglesa, japonesa y espanola, entrada al templo Kimpusenji (1.600 JPY), almuerzo, tarifas de tren express y de lujo"
+  ],
+  "notIncluded": [
+   "Boleto de tren basico entre Osaka y Yoshino (aproximadamente 8 USD por trayecto), comida y bebidas salvo que se especifique"
+  ]
+ },
+ "kimpusenji-temple-symphony-full-day-tour": {
+  "title": "Excursion de un dia al follaje otonal del monte Yoshino con el tren Blue Symphony desde Osaka",
+  "metaTitle": "Follaje otonal del monte Yoshino desde Osaka",
+  "metaDescription": "Un dia solo en noviembre en el monte Yoshino con el tren de lujo Blue Symphony, con Kimpusenji, almuerzo y una degustacion de dulces de kuzu.",
+  "shortDescription": "Un dia solo en noviembre en el monte Yoshino con el tren de lujo Blue Symphony, con Kimpusenji, almuerzo y una degustacion de dulces de kuzu.",
+  "fullDescription": "El monte Yoshino cambia de color durante una breve ventana cada ano, y este dia completo esta construido alrededor de esa ventana: funciona solo en noviembre, cuando los arces en la ladera de la montana pasan por carmesi, bermejo y dorado. El dia comienza a las 9:45 en la estacion Kintetsu Osaka-Abenobashi y viaja hacia el sur a la prefectura de Nara a bordo del Blue Symphony, un tren turistico de dos vagones con asientos de salon y amplias ventanas. La tarifa de lujo y el suplemento express estan ambos cubiertos en el precio, asi que el viaje mismo es parte del dia en lugar de un costo que se liquida en la puerta.\n\nEn la montana camina el sendero de follaje a un ritmo comodo y se detiene en Kimpusenji, el templo principal del ascetismo de montana Shugendo y uno de los edificios de madera mas grandes de Japon, con su entrada incluida. El cercano santuario Yoshimizu mira directamente a traves del valle hacia las crestas, que es la vista que la mayoria de los visitantes viene a buscar. El almuerzo es una comida japonesa tradicional y esta incluido, asi como una demostracion y degustacion de kuzu, el dulce de raiz de arrurruz por el que Yoshino ha sido conocido durante siglos y que todavia se elabora en el pueblo con almidon local.\n\nSu guia trabaja en ingles, japones o espanol y maneja las conexiones de tren, asi que es libre de mirar por la ventana en lugar de un mapa. El dia dura unas ocho horas y regresa a Osaka-Abenobashi a las 17:52. Los boletos de tren basicos entre las estaciones, aproximadamente 8 USD por trayecto, se pagan por separado, y cualquier comida o bebida mas alla del almuerzo incluido corre por su cuenta. El momento del follaje cambia una semana aproximadamente segun el clima cada ano, asi que el color en Yoshino esta en su mejor momento en algun punto a mitad de la temporada de noviembre en lugar de en una fecha fija.",
+  "highlights": [],
+  "included": [
+   "Guia de habla inglesa, japonesa y espanola, tarifas de tren express (1.040 JPY), tarifa del tren de lujo Blue Symphony (210 JPY), entrada al templo Kimpusenji (1.600 JPY), almuerzo japones tradicional, demostracion y degustacion de dulces de kuzu (valor de 1.000 JPY)"
+  ],
+  "notIncluded": [
+   "Boletos de tren basicos entre estaciones (aproximadamente 8 USD por trayecto), comida y bebidas mas alla del almuerzo incluido, gastos personales"
+  ]
+ },
+ "kinjo-pier-food-tour": {
+  "title": "Tour gastronomico de Nagoya en el muelle Kinjo para pasajeros de crucero",
+  "metaTitle": "Tour gastronomico de Nagoya en el muelle Kinjo",
+  "metaDescription": "Un breve tour guiado de degustacion cerca del muelle Kinjo, disenado para pasajeros de crucero con tiempo limitado en tierra.",
+  "shortDescription": "Un breve tour guiado de degustacion cerca del muelle Kinjo, disenado para pasajeros de crucero con tiempo limitado en tierra.",
+  "fullDescription": "La escena gastronomica de Nagoya se distingue de los sabores de Kansai de Kioto y Osaka, y este tour compacto esta disenado especificamente para viajeros cuyo tiempo en la ciudad se limita a una escala de crucero en el muelle Kinjo, el terminal de crucero del puerto de Nagoya. En lugar de intentar cubrir toda la ciudad, se mantiene cerca del puerto y se centra en dar a los visitantes un sabor genuino, aunque breve, de lo que distingue las cocinas de Nagoya.\n\nEl tour se encuentra en una tienda de conveniencia Daily Yamazaki a pasos de la estacion Kinjo-futo y se mueve a pie hacia restaurantes locales cerca del terminal, donde un guia lleva al grupo a traves de degustaciones que tipicamente se basan en platos basicos de Nagoya como el hitsumabushi (anguila asada servida sobre arroz y comida de tres formas diferentes), el tebasaki (alitas de pollo fritas al estilo Nagoya), y el miso katsu, una chuleta de cerdo terminada con la distintiva salsa de miso rojo de la region. La parte guiada dura aproximadamente una hora, con degustaciones, una breve introduccion caminando por la zona, y tiempo para hacer preguntas sobre los platos y sus origenes.\n\nEste tour tiene un precio y ritmo pensados para pasajeros de crucero con una ventana de tiempo en tierra ajustada en lugar de un recorrido gastronomico de dia completo, asi que espere una experiencia enfocada y relativamente breve en lugar de un menu de degustacion extendido de varias paradas. Es una opcion practica si su barco esta atracado en el muelle Kinjo y quiere una introduccion genuina y guiada a la cocina de Nagoya sin alejarse mucho del terminal.",
+  "highlights": [],
+  "included": [
+   "Tour gastronomico guiado a pie, degustaciones en restaurantes locales cerca del muelle Kinjo, guia de habla inglesa"
+  ],
+  "notIncluded": [
+   "Transporte hacia y desde el terminal de crucero mas alla del punto de encuentro, bebidas o platos adicionales mas alla de las degustaciones incluidas, propinas"
+  ]
+ },
+ "kintetsu-namba-station-guided-tour": {
+  "title": "Matabei Zakura: dia de cerezos en flor en el campo en Uda desde Osaka",
+  "metaTitle": "Cerezos en flor en Uda desde Osaka",
+  "metaDescription": "Solo en temporada de floracion: un dia de sakura en el campo en Uda construido alrededor de un cerezo llorón de 300 anos, saliendo de Osaka.",
+  "shortDescription": "Solo en temporada de floracion: un dia de sakura en el campo en Uda construido alrededor de un cerezo llorón de 300 anos, saliendo de Osaka.",
+  "fullDescription": "Este tour solo funciona durante la temporada de cerezos en flor, aproximadamente de finales de marzo a mediados o finales de abril, y el operador lo lista actualmente como salidas de primavera de 2027. No se puede reservar fuera de la floracion, porque todo el dia esta construido alrededor de un solo arbol. Matabei Zakura es un cerezo llorón que se dice tiene unos 300 anos, de pie solo en una ladera en Uda, en las colinas orientales de la prefectura de Nara, y cuando florece atrae fotografos de todo Japon.\n\nLa salida es desde Osaka: el grupo se reune en la tienda de regalos Goto-chi junto a la puerta este en el nivel B2 de la estacion Kintetsu Namba y viaja en tren y autobus hacia el campo. Uda es tierra de cultivo y pueblos pequenos en lugar de distrito de templos, y el ritmo refleja eso. El dia incluye una caminata entre flores junto al rio Uda, una parada en un bano de pies comunitario, y tiempo en una estacion de carretera michi no eki donde agricultores y artesanos locales venden lo que han hecho. Termina en el paisaje urbano mercantil preservado de Uda Matsuyama, un distrito de casas tradicionales que ha mantenido su antiguo trazado de calles.\n\nVale la pena aclarar lo que esto no es. No hay ciervos, no hay gran Buda y no hay multitudes de turistas de autocar; si este es su unico dia en la region y quiere Todai-ji y el parque de Nara, reserve otro tour. Lo que obtiene en cambio es el Nara rural en flor, guiado en ingles, japones o espanol, de regreso a la estacion Kintetsu Namba a las 18:00. Las comidas, bebidas, y las tarifas de tren y autobus entre Osaka y Uda de aproximadamente diez dolares estadounidenses por trayecto no estan incluidas, asi que traiga efectivo o una tarjeta IC para el viaje.",
+  "highlights": [],
+  "included": [
+   "Guia de habla inglesa, japonesa y espanola"
+  ],
+  "notIncluded": [
+   "Comidas, bebidas y otros articulos personales, boletos de tren y autobus de Osaka a Uda y de vuelta (aproximadamente 10 USD por trayecto)"
+  ]
+ },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara en Myokaku-ji: coreografia de espada filmada en el recinto del templo",
   "metaTitle": "Experiencia de chambara con espada en Kyoto",

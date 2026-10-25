@@ -58089,6 +58089,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Repas et boissons, equipement de randonnee personnel, assurance voyage, pourboires pour le guide"
   ]
  },
+ "kasuga-taisha-morning-tour": {
+  "title": "Excursion matinale a Nara depuis Kyoto en autocar : Kasuga Taisha, parc aux cerfs et le grand Bouddha",
+  "metaTitle": "Excursion matinale a Nara depuis Kyoto",
+  "metaDescription": "Une excursion matinale de quatre heures en autocar depuis Kyoto : Kasuga Taisha, les cerfs du parc de Nara et Todai-ji, jusqu'a la gare de Kintetsu-Nara.",
+  "shortDescription": "Une excursion matinale de quatre heures en autocar depuis Kyoto couvrant Kasuga Taisha, les cerfs du parc de Nara et Todai-ji, se terminant a la gare de Kintetsu-Nara.",
+  "fullDescription": "C'est une excursion d'une demi-journee qui commence a Kyoto, pas a Nara. Vous vous rencontrez au Tully's Coffee pres de Kyoto Avanti a cote de la gare de Kyoto, montez dans un autocar, et roulez environ une heure vers le sud jusqu'a l'ancienne capitale, ce qui vous evite de resoudre des correspondances de train avec des bagages ou un groupe. La visite est un arrangement aller simple : elle se termine a la gare de Kintetsu-Nara plutot que de revenir a Kyoto, vous pouvez donc rentrer directement selon votre propre horaire ou rester a Nara pour le reste de la journee.\n\nLa partie guidee se deroule dans un ordre inhabituel qui evite la foule de fin de matinee. Kasuga Taisha vient en premier, un sanctuaire shinto fonde en 768 de notre ere dont les chemins et les auvents portent des milliers de lanternes de pierre et de bronze offertes par les fideles depuis plus d'un millenaire. Vient ensuite du temps libre dans le parc de Nara parmi ses plus de mille cerfs sika sauvages, proteges comme messagers de la divinite Takemikazuchi et designes tresor naturel national en 1957. Todai-ji est reserve pour la fin, avec la plus longue partie guidee de la matinee.\n\nA Todai-ji, vous vous approchez du Daibutsu, le Bouddha de bronze de quinze metres dedie en 752 de notre ere, pendant le passage de Nara comme premiere capitale permanente du Japon, un role qu'elle a tenu pendant 74 ans a partir de 710. Le Daibutsuden actuel date de 1709 et ne fait qu'environ les deux tiers de la largeur du hall qu'il a remplace, ce qui donne une idee de l'echelle de l'original. Un guide gere le contexte et la logistique ; vous gerez la marche, qui est moderee et principalement plate hormis l'approche du sanctuaire.",
+  "highlights": [],
+  "included": [
+   "Transport en autocar de Kyoto a Nara, guide anglophone, visites guidees a Kasuga Taisha et Todai-ji"
+  ],
+  "notIncluded": [
+   "Transport retour vers Kyoto, entree a Todai-ji si non precisee a la reservation, repas et boissons, biscuits pour cerfs, prise en charge a l'hotel"
+  ]
+ },
+ "kawaguchiko-to-hakone-private-guided-transfer": {
+  "title": "Transfert prive guide de Kawaguchiko a Hakone avec arrets sanctuaire et sources",
+  "metaTitle": "Transfert prive Kawaguchiko vers Hakone",
+  "metaDescription": "Un transfert prive de quatre heures entre Kawaguchiko et Hakone en trajet guide, avec arrets aux etangs de source et un sanctuaire.",
+  "shortDescription": "Un transfert prive de quatre heures qui transforme la liaison difficile de Kawaguchiko a Hakone en un trajet guide, avec arrets aux etangs de source, un sanctuaire en foret et un point de vue panoramique sur le lac Ashi. Les bagages restent dans le vehicule tout au long.",
+  "fullDescription": "Se deplacer de Kawaguchiko a Hakone en transport en commun est l'une des liaisons les plus frustrantes du centre du Japon. Il n'y a pas de ligne directe. La reponse habituelle est un bus jusqu'a Gotemba, une attente, un changement, et un autre bus, avec des valises a trainer et presque toute une journee perdue. Cette visite prend ce meme trajet, le met dans un vehicule prive avec un guide anglophone, et remplit les heures de lieux qui valent la peine de s'arreter.\n\nC'est aussi une geographie veritablement interessante. Vous commencez dans le bassin alpin du cote nord du Fuji, traversez un col de montagne, et descendez dans un paysage volcanique entierement different : Hakone est une caldera, le vestige effondre d'un volcan bien plus ancien, et le changement de terrain et de vegetation en franchissant la crete est evident depuis la fenetre de la voiture.\n\nLe premier arret est Oshino Hakkai, un village de huit etangs au pied du Fuji alimente par de la neige fondue qui a filtre a travers la lave poreuse de la montagne pendant des decennies. L'eau arrive etonnamment claire et froide. De la, l'itineraire se tourne vers le sanctuaire Ninooka, un petit sanctuaire en foret qui recoit presque aucun visiteur etranger et offre un registre tres different, mousse, cedres, et calme. Le dejeuner est votre choix entre deux options : Fukunoya pour des soba faits a la main, ou Toraya Kobo, ou des douceurs wagashi sont servies dans un jardin de bambous.\n\nLe dernier arret est l'arrivee, et il est programme deliberement. Le parc d'observation d'Ashinoko se trouve en hauteur au-dessus du lac Ashi, le lac de caldera autour duquel Hakone est construite, avec une vue complete embrassant l'eau, le rebord environnant et, quand l'air est clair, le Fuji lui-meme se dressant derriere. Vous voyez toute la forme de l'endroit ou vous allez sejourner avant de vous enregistrer, ce qui change la facon dont le reste de votre temps a Hakone se lit.\n\nEn pratique : c'est un transfert prive aller simple, quatre heures porte a porte, se terminant a votre hotel ou ryokan de Hakone plutot qu'a une gare. Vos bagages voyagent avec vous et il n'y a ni correspondance ni attente. Le tarif est facture par groupe plutot que par voyageur, un a quatre invites paient le meme total, donc quatre personnes le divisent en quatre, et les groupes de cinq personnes ou plus doivent etre organises sur demande. Le dejeuner n'est pas inclus ; prevoyez 2 000 a 3 000 JPY par personne.",
+  "highlights": [],
+  "included": [
+   "Guide professionnel anglophone, transport en vehicule prive, arrets a des sites culturels et naturels selectionnes, depot a votre hebergement de destination"
+  ],
+  "notIncluded": [
+   "Dejeuner (prevoyez 2 000 a 3 000 JPY par personne)"
+  ]
+ },
+ "kimpusenji-temple-full-day-tour": {
+  "title": "Excursion d'une journee aux cerisiers en fleurs du mont Yoshino depuis Osaka avec le train Blue Symphony",
+  "metaTitle": "Mont Yoshino en fleurs depuis Osaka",
+  "metaDescription": "Uniquement en saison de floraison : randonnee parmi les 30 000 cerisiers du mont Yoshino depuis Osaka, avec dejeuner et le train Blue Symphony au retour.",
+  "shortDescription": "Uniquement en saison de floraison : une journee complete de randonnee parmi les 30 000 cerisiers du mont Yoshino depuis Osaka, avec dejeuner et le train Blue Symphony au retour.",
+  "fullDescription": "C'est une visite strictement saisonniere : elle ne fonctionne que pendant la floraison du mont Yoshino, environ de fin mars a mi ou fin avril, et l'operateur a publie seulement deux departs, le 31 mars et le 2 avril. Il n'existe pas de version ete ou automne. Les 30 000 cerisiers de Yoshino ne fleurissent pas non plus tous en meme temps ; ils s'ouvrent en vague echelonnee qui grimpe le flanc de la montagne a travers quatre bosquets historiques, Shimo Senbon a la base, puis Naka Senbon, Kami Senbon et enfin Oku Senbon pres du sommet, ce qui explique pourquoi la date exacte de votre voyage change quelle partie de la montagne est a son apogee.\n\nLa journee commence a Osaka, pas a Nara. Vous vous rencontrez a 8h45 aux portillons de billets de la gare de Kintetsu Osaka-Abenobashi et prenez le train jusqu'a Yoshino, un paysage du patrimoine mondial de l'UNESCO ou les arbres ont ete plantes et replantes comme offrandes religieuses depuis plus de mille ans. Attendez-vous a une vraie randonnee : les sentiers de floraison se parcourent a pied et la montagne est escarpee par endroits. En chemin, le groupe visite le temple Kimpusenji, le temple principal de l'ascetisme de montagne Shugendo, avec son droit d'entree de 1 600 JPY couvert dans votre prix.\n\nUn dejeuner japonais traditionnel est inclus en cours de route, suivi du point de vue du sanctuaire Yoshimizu, connu en japonais comme hitome senbon, l'endroit ou l'on dit que mille fleurs de cerisier sont visibles d'un seul coup d'œil. Le retour a Osaka se fait a bord du train touristique Blue Symphony, dont le supplement de luxe est inclus, arrivant a Osaka-Abenobashi a 17h22. Votre guide travaille en anglais, japonais et espagnol. Les billets de train de base entre Osaka et Yoshino, environ huit dollars americains l'aller, ne sont pas inclus et sont payes le jour meme.",
+  "highlights": [],
+  "included": [
+   "Guide parlant anglais, japonais et espagnol, droit d'entree au temple Kimpusenji (1 600 JPY), dejeuner, frais de train express et de luxe"
+  ],
+  "notIncluded": [
+   "Billet de train de base entre Osaka et Yoshino (environ 8 USD l'aller), nourriture et boissons sauf indication contraire"
+  ]
+ },
+ "kimpusenji-temple-symphony-full-day-tour": {
+  "title": "Excursion d'une journee aux couleurs d'automne du mont Yoshino en train Blue Symphony depuis Osaka",
+  "metaTitle": "Couleurs d'automne du mont Yoshino depuis Osaka",
+  "metaDescription": "Une journee en novembre seulement sur le mont Yoshino en train de luxe Blue Symphony, avec Kimpusenji, dejeuner et degustation de douceurs au kuzu.",
+  "shortDescription": "Une journee en novembre seulement sur le mont Yoshino en train de luxe Blue Symphony, avec Kimpusenji, dejeuner et degustation de douceurs au kuzu.",
+  "fullDescription": "Le mont Yoshino change de couleur pendant une courte fenetre chaque annee, et cette journee complete est construite autour de cette fenetre : elle ne fonctionne qu'en novembre, quand les erables du flanc de la montagne passent par le pourpre, le roux et l'or. La journee commence a 9h45 a la gare de Kintetsu Osaka-Abenobashi et voyage vers le sud dans la prefecture de Nara a bord du Blue Symphony, un train touristique a deux voitures avec des sieges de salon et de larges fenetres. Le tarif de luxe et le supplement express sont tous deux couverts dans le prix, donc le voyage lui-meme fait partie de la journee plutot que d'etre un cout a regler au portail.\n\nSur la montagne, vous marchez sur le sentier de feuillage a un rythme confortable et vous arretez a Kimpusenji, le temple principal de l'ascetisme de montagne Shugendo et un des plus grands batiments en bois du Japon, avec son droit d'entree inclus. Le sanctuaire Yoshimizu a proximite regarde droit a travers la vallee vers les crêtes, ce qui est la vue que la plupart des visiteurs viennent chercher. Le dejeuner est un repas japonais traditionnel et est inclus, ainsi qu'une demonstration et une degustation de kuzu, la douceur a base de racine d'arrow-root pour laquelle Yoshino est connue depuis des siecles et qui est encore fabriquee dans la ville avec de la fecule locale.\n\nVotre guide travaille en anglais, japonais ou espagnol et gere les correspondances de train, vous etes donc libre de regarder par la fenetre plutot qu'une carte. La journee dure environ huit heures et revient a Osaka-Abenobashi a 17h52. Les billets de train de base entre les gares, environ 8 USD l'aller, sont payes separement, et toute nourriture ou boisson au-dela du dejeuner inclus est a votre charge. Le moment du feuillage varie d'une semaine environ selon le temps chaque annee, donc la couleur a Yoshino est a son meilleur quelque part au milieu de la saison de novembre plutot qu'a une date fixe.",
+  "highlights": [],
+  "included": [
+   "Guide parlant anglais, japonais et espagnol, frais de train express (1 040 JPY), frais de train Blue Symphony de luxe (210 JPY), entree au temple Kimpusenji (1 600 JPY), dejeuner japonais traditionnel, demonstration et degustation de douceurs au kuzu (valeur 1 000 JPY)"
+  ],
+  "notIncluded": [
+   "Billets de train de base entre les gares (environ 8 USD l'aller), nourriture et boissons au-dela du dejeuner inclus, depenses personnelles"
+  ]
+ },
+ "kinjo-pier-food-tour": {
+  "title": "Visite gastronomique de Nagoya au quai Kinjo pour les passagers de croisiere",
+  "metaTitle": "Visite gastronomique de Nagoya au quai Kinjo",
+  "metaDescription": "Une courte visite guidee de degustation pres du quai Kinjo, concue pour les passagers de croisiere avec un temps limite a terre.",
+  "shortDescription": "Une courte visite guidee de degustation pres du quai Kinjo, concue pour les passagers de croisiere avec un temps limite a terre.",
+  "fullDescription": "La scene gastronomique de Nagoya se distingue des saveurs du Kansai de Kyoto et Osaka, et cette visite compacte est concue specifiquement pour les voyageurs dont le temps dans la ville se limite a une escale de croisiere au quai Kinjo, le terminal de croisiere du port de Nagoya. Plutot que d'essayer de couvrir toute la ville, elle reste proche du port et se concentre sur l'offre aux visiteurs d'un gout authentique, bien que bref, de ce qui rend les cuisines de Nagoya distinctes.\n\nLa visite se rencontre a un magasin Daily Yamazaki a quelques pas de la gare de Kinjo-futo et se deplace a pied vers des restaurants locaux pres du terminal, ou un guide accompagne le groupe a travers des degustations qui s'appuient generalement sur les incontournables de Nagoya tels que le hitsumabushi (anguille grillee servie sur du riz et mangee de trois facons differentes), le tebasaki (ailes de poulet frites de style Nagoya), et le miso katsu, une escalope de porc finie avec la sauce miso rouge distinctive de la region. La partie guidee dure environ une heure, avec des degustations, une courte introduction a pied a la zone, et du temps pour poser des questions sur les plats et leurs origines.\n\nCette visite est tarifee et rythmee pour les passagers de croisiere disposant d'une fenetre d'escale limitee plutot que pour une tournee gastronomique complete d'une journee, attendez-vous donc a une experience ciblee et relativement breve plutot qu'a un menu de degustation prolonge a plusieurs arrets. C'est une option pratique si votre navire est amarre au quai Kinjo et que vous voulez une introduction authentique et guidee a la cuisine de Nagoya sans trop vous eloigner du terminal.",
+  "highlights": [],
+  "included": [
+   "Visite gastronomique guidee a pied, degustations dans des restaurants locaux pres du quai Kinjo, guide anglophone"
+  ],
+  "notIncluded": [
+   "Transport vers et depuis le terminal de croisiere au-dela du point de rendez-vous, boissons ou plats additionnels au-dela des degustations incluses, pourboires"
+  ]
+ },
+ "kintetsu-namba-station-guided-tour": {
+  "title": "Matabei Zakura : journee de cerisiers en fleurs a la campagne a Uda depuis Osaka",
+  "metaTitle": "Cerisiers en fleurs a Uda depuis Osaka",
+  "metaDescription": "Uniquement en saison de floraison : une journee de sakura a la campagne a Uda construite autour d'un cerisier pleureur de 300 ans, depart d'Osaka.",
+  "shortDescription": "Uniquement en saison de floraison : une journee de sakura a la campagne a Uda construite autour d'un cerisier pleureur de 300 ans, depart d'Osaka.",
+  "fullDescription": "Cette visite ne fonctionne que pendant la saison des cerisiers en fleurs, globalement de fin mars a mi ou fin avril, et l'operateur la liste actuellement comme des departs au printemps 2027. Elle ne peut pas etre reservee hors floraison, parce que la journee entiere est construite autour d'un seul arbre. Matabei Zakura est un cerisier pleureur dit age d'environ 300 ans, se tenant seul sur une pente a Uda, dans les collines orientales de la prefecture de Nara, et quand il s'ouvre, il attire des photographes de tout le Japon.\n\nLe depart se fait depuis Osaka : le groupe se rassemble a la boutique de souvenirs Goto-chi pres du portillon est au niveau B2 de la gare de Kintetsu Namba et voyage en train et en bus vers la campagne. Uda est faite de terres agricoles et de petites villes plutot que d'un quartier de temples, et le rythme le reflete. La journee comprend une marche au bord de la riviere parmi les fleurs le long de la riviere Uda, un arret a un bain de pieds communautaire, et du temps a une station routiere michi no eki ou des agriculteurs et artisans locaux vendent ce qu'ils ont fabrique. Elle se termine au paysage de rue marchande preserve d'Uda Matsuyama, un quartier de maisons traditionnelles qui a garde son ancien plan de rue.\n\nIl convient d'etre clair sur ce que ce n'est pas. Il n'y a pas de cerfs, pas de grand Bouddha et pas de foules de touristes en autocar ; si c'est votre seule journee dans la region et que vous voulez Todai-ji et le parc de Nara, reservez une autre visite. Ce que vous obtenez a la place, c'est le Nara rural en fleurs, guide en anglais, japonais ou espagnol, de retour a la gare de Kintetsu Namba a 18h00. Les repas, boissons, et les tarifs de train et de bus entre Osaka et Uda d'environ dix dollars americains l'aller ne sont pas inclus, apportez donc de l'argent liquide ou une carte IC pour le trajet.",
+  "highlights": [],
+  "included": [
+   "Guide parlant anglais, japonais et espagnol"
+  ],
+  "notIncluded": [
+   "Repas, boissons et autres effets personnels, billets de train et de bus d'Osaka a Uda et retour (environ 10 USD l'aller)"
+  ]
+ },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara a Myokaku-ji : choregraphie au sabre filmee dans l'enceinte d'un temple",
   "metaTitle": "Experience de chambara au sabre a Kyoto",

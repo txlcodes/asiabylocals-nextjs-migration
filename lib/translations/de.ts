@@ -58089,6 +58089,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten und Getraenke, persoenliche Wanderausruestung, Reiseversicherung, Trinkgelder fuer den Guide"
   ]
  },
+ "kasuga-taisha-morning-tour": {
+  "title": "Nara-Vormittagsausflug ab Kyoto mit dem Bus: Kasuga Taisha, Hirschpark und der grosse Buddha",
+  "metaTitle": "Nara-Vormittagsausflug ab Kyoto",
+  "metaDescription": "Ein vierstuendiger Vormittags-Busausflug ab Kyoto mit Kasuga Taisha, den Hirschen des Nara-Parks und Todai-ji, endend am Bahnhof Kintetsu-Nara.",
+  "shortDescription": "Ein vierstuendiger Vormittags-Busausflug ab Kyoto mit Kasuga Taisha, den Hirschen des Nara-Parks und Todai-ji, endend am Bahnhof Kintetsu-Nara.",
+  "fullDescription": "Dies ist ein Halbtagesausflug, der in Kyoto beginnt, nicht in Nara. Sie treffen sich bei Tully's Coffee nahe Kyoto Avanti neben dem Bahnhof Kyoto, steigen in einen Bus und fahren etwa eine Stunde suedlich zur aelteren Hauptstadt, was Ihnen erspart, Zuganschluesse mit Gepaeck oder einer Gruppe zu organisieren. Die Tour ist eine Einwegregelung: sie endet am Bahnhof Kintetsu-Nara statt nach Kyoto zurueckzukehren, sodass Sie direkt nach Ihrem eigenen Zeitplan zurueckfahren oder den Rest des Tages in Nara bleiben koennen.\n\nDer gefuehrte Teil verlaeuft in einer ungewoehnlichen Reihenfolge, die den Vormittagsansturm vermeidet. Kasuga Taisha kommt zuerst, ein 768 n. Chr. gegruendeter Shinto-Schrein, dessen Pfade und Dachvorspruenge Tausende von Stein- und Bronzelaternen tragen, die ueber mehr als ein Jahrtausend von Glaeubigen gestiftet wurden. Dann folgt freie Zeit im Nara-Park unter seinen ueber tausend wilden Sika-Hirschen, geschuetzt als Boten der Gottheit Takemikazuchi und 1957 als Nationales Naturdenkmal ausgewiesen. Todai-ji wird fuer zuletzt aufgespart, mit dem laengsten gefuehrten Block des Vormittags.\n\nBei Todai-ji kommen Sie dem Daibutsu nahe, dem fuenfzehn Meter hohen Bronze-Buddha, der 752 n. Chr. eingeweiht wurde, waehrend Naras Zeit als Japans erste staendige Hauptstadt, eine Rolle, die es 74 Jahre lang ab 710 innehatte. Die heutige Daibutsuden-Halle stammt von 1709 und ist nur etwa zwei Drittel der Breite der Halle, die sie ersetzte, was eine Vorstellung vom Ausmass des Originals gibt. Ein Guide uebernimmt Kontext und Logistik; Sie uebernehmen das Gehen, das moderat und abgesehen vom Zugang zum Schrein grossteils flach ist.",
+  "highlights": [],
+  "included": [
+   "Busverkehr von Kyoto nach Nara, englischsprachiger Guide, gefuehrte Besichtigungen in Kasuga Taisha und Todai-ji"
+  ],
+  "notIncluded": [
+   "Rueckfahrt nach Kyoto, Eintritt zu Todai-ji sofern bei der Buchung nicht angegeben, Mahlzeiten und Getraenke, Hirschkekse, Hotelabholung"
+  ]
+ },
+ "kawaguchiko-to-hakone-private-guided-transfer": {
+  "title": "Privater gefuehrter Transfer von Kawaguchiko nach Hakone mit Schrein- und Quellenstopps",
+  "metaTitle": "Privater Transfer Kawaguchiko nach Hakone",
+  "metaDescription": "Ein vierstuendiger privater Transfer von Kawaguchiko nach Hakone als gefuehrte Fahrt, mit Stopps an Quellteichen und einem Schrein.",
+  "shortDescription": "Ein vierstuendiger privater Transfer, der die umstaendliche Verbindung von Kawaguchiko nach Hakone in eine gefuehrte Fahrt verwandelt, mit Stopps an Quellteichen, einem Waldschrein und einem Panoramablick auf den Ashi-See. Das Gepaeck bleibt die ganze Zeit im Fahrzeug.",
+  "fullDescription": "Von Kawaguchiko nach Hakone mit oeffentlichen Verkehrsmitteln zu kommen, ist eine der frustrierendsten Etappen in Zentraljapan. Es gibt keine direkte Linie. Die uebliche Antwort ist ein Bus nach Gotemba, eine Wartezeit, ein Umstieg und ein weiterer Bus, mit Koffern im Schlepptau und einem Grossteil des Tages vergangen. Diese Tour nimmt dieselbe Reise, setzt sie in ein Privatfahrzeug mit englischsprachigem Guide und fuellt die Stunden mit Orten, die einen Stopp wert sind.\n\nEs ist auch ein wirklich interessantes Stueck Geografie. Sie beginnen im alpinen Becken auf der Nordseite des Fuji, ueberqueren einen Bergpass und steigen in eine voellig andere vulkanische Landschaft ab: Hakone ist eine Caldera, der eingestuerzte Rest eines viel aelteren Vulkans, und der Wechsel in Gelaende und Vegetation beim Ueberqueren des Grates ist vom Autofenster aus offensichtlich.\n\nDer erste Stopp ist Oshino Hakkai, ein Dorf aus acht Teichen am Fuss des Fuji, gespeist von Schneeschmelze, die ueber Jahrzehnte durch die poroese Lava des Berges gefiltert ist. Das Wasser kommt erstaunlich klar und kalt an. Von dort wendet sich die Route zum Ninooka-Schrein, einem kleinen Heiligtum im Wald, das fast keine auslaendischen Besucher erhaelt und ein ganz anderes Register bietet, Moos, Zeder und Stille. Das Mittagessen ist Ihre Wahl zwischen zwei Optionen: Fukunoya fuer handgemachte Soba, oder Toraya Kobo, wo Wagashi-Suessigkeiten in einem Bambusgarten serviert werden.\n\nDer letzte Stopp ist die Ankunft, und er ist bewusst zeitlich geplant. Der Ashinoko-Aussichtspark liegt hoch ueber dem Ashi-See, dem Caldera-See, um den Hakone gebaut ist, mit einem vollen Rundblick, der das Wasser, den umgebenden Rand und, wenn die Luft klar ist, den Fuji selbst dahinter einfaengt. Sie sehen die gesamte Form des Ortes, an dem Sie uebernachten werden, bevor Sie einchecken, was veraendert, wie sich der Rest Ihrer Zeit in Hakone liest.\n\nPraktisch: Dies ist ein privater Einwegtransfer, vier Stunden Tuer zu Tuer, der an Ihrem Hakone-Hotel oder Ryokan endet statt an einem Bahnhof. Ihr Gepaeck reist mit Ihnen und es gibt keine Umstiege oder Wartezeiten. Der Preis wird pro Gruppe statt pro Reisendem berechnet, ein bis vier Gaeste zahlen denselben Gesamtbetrag, sodass vier Personen ihn durch vier teilen, und Gruppen von fuenf oder mehr muessen per Anfrage organisiert werden. Mittagessen ist nicht enthalten; planen Sie 2.000-3.000 JPY pro Person.",
+  "highlights": [],
+  "included": [
+   "Professioneller englischsprachiger Guide, Privatfahrzeugtransport, Stopps an ausgewaehlten kulturellen und natuerlichen Orten, Absetzen an Ihrer Zielunterkunft"
+  ],
+  "notIncluded": [
+   "Mittagessen (planen Sie 2.000-3.000 JPY pro Person)"
+  ]
+ },
+ "kimpusenji-temple-full-day-tour": {
+  "title": "Kirschblueten-Tagesausflug auf dem Berg Yoshino ab Osaka mit dem Blue-Symphony-Zug",
+  "metaTitle": "Kirschblueten auf dem Berg Yoshino ab Osaka",
+  "metaDescription": "Nur in der Bluetensaison: ein voller Tag Wandern unter den 30.000 Kirschbaeumen des Berges Yoshino ab Osaka, mit Mittagessen und dem Blue-Symphony-Zug zurueck.",
+  "shortDescription": "Nur in der Bluetensaison: ein voller Tag Wandern unter den 30.000 Kirschbaeumen des Berges Yoshino ab Osaka, mit Mittagessen und dem Blue-Symphony-Zug zurueck.",
+  "fullDescription": "Dies ist eine streng saisonale Tour: sie laeuft nur, waehrend der Berg Yoshino in Blueten steht, grob von Ende Maerz bis Mitte oder Ende April, und der Anbieter hat nur zwei Abfahrten veroeffentlicht, am 31. Maerz und 2. April. Es gibt keine Sommer- oder Herbstversion davon. Auch Yoshinos 30.000 Kirschbaeume blueuhen nicht alle gleichzeitig; sie oeffnen sich in einer gestaffelten Welle, die den Berghang hinauf durch vier historische Haine klettert, Shimo Senbon an der Basis, dann Naka Senbon, Kami Senbon und schliesslich Oku Senbon nahe dem Gipfel, weshalb das genaue Reisedatum aendert, welcher Teil des Berges auf seinem Hoehepunkt ist.\n\nDer Tag beginnt in Osaka, nicht in Nara. Sie treffen sich um 8:45 Uhr an den Fahrkartenschranken des Bahnhofs Kintetsu Osaka-Abenobashi und nehmen den Zug nach Yoshino, eine UNESCO-Weltkulturerbe-Landschaft, wo die Baeume seit weit ueber tausend Jahren als religioese Opfergaben gepflanzt und wiederbepflanzt wurden. Erwarten Sie eine echte Wanderung: die Bluetenpfade werden zu Fuss begangen und der Berg ist an manchen Stellen steil. Auf dem Weg besucht die Gruppe den Kimpusenji-Tempel, den Haupttempel der Shugendo-Bergasketik, dessen Eintrittsgebuehr von 1.600 JPY in Ihrem Preis enthalten ist.\n\nEin traditionelles japanisches Mittagessen ist unterwegs enthalten, gefolgt vom Aussichtspunkt am Yoshimizu-Schrein, auf Japanisch hitome senbon genannt, der Ort, an dem man angeblich tausend Kirschbluten auf einen Blick sehen kann. Die Rueckfahrt nach Osaka erfolgt mit dem Ausflugszug Blue Symphony, dessen Luxuszuschlag enthalten ist, und kommt um 17:22 Uhr in Osaka-Abenobashi an. Ihr Guide arbeitet auf Englisch, Japanisch und Spanisch. Einfache Zugfahrkarten zwischen Osaka und Yoshino, etwa acht US-Dollar pro Richtung, sind nicht enthalten und werden am Tag selbst bezahlt.",
+  "highlights": [],
+  "included": [
+   "Englisch-, Japanisch- und Spanischsprachiger Guide, Eintritt zum Kimpusenji-Tempel (1.600 JPY), Mittagessen, Express- und Luxuszugkosten"
+  ],
+  "notIncluded": [
+   "Einfache Zugfahrkarte zwischen Osaka und Yoshino (ca. 8 USD pro Richtung), Essen und Getraenke sofern nicht angegeben"
+  ]
+ },
+ "kimpusenji-temple-symphony-full-day-tour": {
+  "title": "Herbstlaub-Tagesausflug auf dem Berg Yoshino mit dem Blue-Symphony-Zug ab Osaka",
+  "metaTitle": "Herbstlaub auf dem Berg Yoshino ab Osaka",
+  "metaDescription": "Ein Tag nur im November auf dem Berg Yoshino mit dem Luxuszug Blue Symphony, mit Kimpusenji, Mittagessen und einer Kuzu-Suessigkeiten-Verkostung.",
+  "shortDescription": "Ein Tag nur im November auf dem Berg Yoshino mit dem Luxuszug Blue Symphony, mit Kimpusenji, Mittagessen und einer Kuzu-Suessigkeiten-Verkostung.",
+  "fullDescription": "Der Berg Yoshino veraendert jedes Jahr fuer ein kurzes Zeitfenster seine Farbe, und dieser ganze Tag ist um dieses Fenster herum aufgebaut: er findet nur im November statt, wenn die Ahornbaeume am Berghang durch Karminrot, Rostbraun und Gold wandern. Der Tag beginnt um 9:45 Uhr am Bahnhof Kintetsu Osaka-Abenobashi und reist suedlich in die Praefektur Nara mit dem Blue Symphony, einem zweiwaggonigen Ausflugszug mit Lounge-Sitzen und breiten Fenstern. Der Luxustarif und der Expresszuschlag sind beide im Preis enthalten, sodass die Reise selbst Teil des Tages ist statt einer Kosten, die Sie am Tor beglichen.\n\nAuf dem Berg wandern Sie den Laubpfad in angenehmem Tempo und halten bei Kimpusenji, dem Haupttempel der Shugendo-Bergasketik und einem der groessten Holzgebaeude Japans, mit enthaltenem Eintritt. Der nahegelegene Yoshimizu-Schrein blickt direkt ueber das Tal zu den Graeten, was der Ausblick ist, fuer den die meisten Besucher kommen. Mittagessen ist eine traditionelle japanische Mahlzeit und ist enthalten, ebenso wie eine Vorfuehrung und Verkostung von Kuzu, der Pfeilwurzel-Suessigkeit, fuer die Yoshino seit Jahrhunderten bekannt ist und die in der Stadt noch mit lokaler Staerke hergestellt wird.\n\nIhr Guide arbeitet auf Englisch, Japanisch oder Spanisch und uebernimmt die Zuganschluesse, sodass Sie frei sind, aus dem Fenster zu schauen statt auf eine Karte. Der Tag dauert etwa acht Stunden und kehrt um 17:52 Uhr nach Osaka-Abenobashi zurueck. Einfache Zugfahrkarten zwischen den Bahnhoefen, etwa 8 USD pro Richtung, werden separat bezahlt, und jegliches Essen oder Trinken ueber das enthaltene Mittagessen hinaus geht auf Ihre Rechnung. Der Zeitpunkt des Laubes verschiebt sich jedes Jahr um etwa eine Woche je nach Wetter, sodass die Farbe in Yoshino irgendwo in der Mitte der Novembersaison am besten ist statt an einem festen Datum.",
+  "highlights": [],
+  "included": [
+   "Englisch-, Japanisch- und Spanischsprachiger Guide, Expresszugkosten (1.040 JPY), Blue-Symphony-Luxuszugkosten (210 JPY), Eintritt zum Kimpusenji-Tempel (1.600 JPY), traditionelles japanisches Mittagessen, Kuzu-Suessigkeiten-Vorfuehrung und -Verkostung (Wert 1.000 JPY)"
+  ],
+  "notIncluded": [
+   "Einfache Zugfahrkarten zwischen den Bahnhoefen (ca. 8 USD pro Richtung), Essen und Getraenke ueber das enthaltene Mittagessen hinaus, persoenliche Ausgaben"
+  ]
+ },
+ "kinjo-pier-food-tour": {
+  "title": "Nagoya-Essenstour am Kinjo-Pier fuer Kreuzfahrtpassagiere",
+  "metaTitle": "Nagoya-Essenstour am Kinjo-Pier",
+  "metaDescription": "Eine kurze gefuehrte Verkostungstour nahe dem Kinjo-Pier, gestaltet fuer Kreuzfahrtpassagiere mit begrenzter Landzeit.",
+  "shortDescription": "Eine kurze gefuehrte Verkostungstour nahe dem Kinjo-Pier, gestaltet fuer Kreuzfahrtpassagiere mit begrenzter Landzeit.",
+  "fullDescription": "Nagoyas Essensszene unterscheidet sich von den Kansai-Aromen Kyotos und Osakas, und diese kompakte Tour ist speziell fuer Reisende gestaltet, deren Zeit in der Stadt auf einen Kreuzfahrtstopp am Kinjo-Pier, Nagoya Ports Kreuzfahrtterminal, begrenzt ist. Statt die ganze Stadt abzudecken, bleibt sie nahe am Hafen und konzentriert sich darauf, Besuchern einen echten, wenn auch kurzen, Geschmack dafuer zu geben, was Nagoyas Kuechen besonders macht.\n\nDie Tour trifft sich an einem Daily-Yamazaki-Convenience-Store wenige Schritte vom Bahnhof Kinjo-futo und bewegt sich zu Fuss zu lokalen Restaurants nahe dem Terminal, wo ein Guide die Gruppe durch Verkostungen fuehrt, die typischerweise auf Nagoya-Grundnahrungsmittel wie Hitsumabushi (gegrillter Aal auf Reis serviert und auf drei verschiedene Arten gegessen), Tebasaki (frittierte Huehnerfluegel im Nagoya-Stil) und Miso Katsu, ein Schweineschnitzel mit der charakteristischen roten Miso-Sauce der Region, zurueckgreifen. Der gefuehrte Teil dauert etwa eine Stunde, mit Verkostungen, einer kurzen Fusseinfuehrung in das Gebiet und Zeit, um Fragen zu den Gerichten und ihrer Herkunft zu stellen.\n\nDiese Tour ist fuer Kreuzfahrtpassagiere mit einem engen Landgangfenster preislich und zeitlich ausgelegt statt fuer eine ganztaegige kulinarische Tour, erwarten Sie also ein fokussiertes, relativ kurzes Erlebnis statt eines ausgedehnten Mehrstopp-Degustationsmenues. Es ist eine praktische Option, wenn Ihr Schiff am Kinjo-Pier anlegt und Sie eine echte, gefuehrte Einfuehrung in die Nagoya-Kueche wollen, ohne weit vom Terminal abzuschweifen.",
+  "highlights": [],
+  "included": [
+   "Gefuehrte Fuss-Essenstour, Verkostungen in lokalen Restaurants nahe dem Kinjo-Pier, englischsprachiger Guide"
+  ],
+  "notIncluded": [
+   "Transport zum und vom Kreuzfahrtterminal ueber den Treffpunkt hinaus, zusaetzliche Getraenke oder Gerichte ueber die enthaltenen Verkostungen hinaus, Trinkgelder"
+  ]
+ },
+ "kintetsu-namba-station-guided-tour": {
+  "title": "Matabei Zakura: Kirschbluetentag auf dem Land in Uda ab Osaka",
+  "metaTitle": "Kirschbluetentag in Uda ab Osaka",
+  "metaDescription": "Nur in der Bluetensaison: ein landlicher Sakura-Tag in Uda, aufgebaut um einen 300 Jahre alten Trauerkirschbaum, Abfahrt ab Osaka.",
+  "shortDescription": "Nur in der Bluetensaison: ein landlicher Sakura-Tag in Uda, aufgebaut um einen 300 Jahre alten Trauerkirschbaum, Abfahrt ab Osaka.",
+  "fullDescription": "Diese Tour findet nur waehrend der Kirschbluetensaison statt, grob von Ende Maerz bis Mitte oder Ende April, und der Anbieter listet sie derzeit als Abfahrten im Fruehling 2027. Sie kann ausserhalb der Blueten nicht gebucht werden, weil der gesamte Tag um einen einzigen Baum aufgebaut ist. Matabei Zakura ist ein Trauerkirschbaum, der angeblich etwa 300 Jahre alt ist, allein auf einem Hang in Uda stehend, in den oestlichen Huegeln der Praefektur Nara, und wenn er bluet, zieht er Fotografen aus ganz Japan an.\n\nDie Abfahrt erfolgt ab Osaka: die Gruppe versammelt sich am Goto-chi-Souvenirladen beim Osttor auf Ebene B2 des Bahnhofs Kintetsu Namba und reist per Zug und Bus hinaus aufs Land. Uda ist Ackerland und Kleinstaedte statt Tempelbezirk, und das Tempo spiegelt das wider. Der Tag umfasst einen Blutenspaziergang am Ufer entlang des Uda-Flusses, einen Stopp an einem Gemeinschafts-Fussbad, und Zeit an einer Michi-no-eki-Raststation, wo lokale Bauern und Handwerker verkaufen, was sie hergestellt haben. Er endet am erhaltenen Haendlerstrassenbild von Uda Matsuyama, einem Viertel traditioneller Haeuser, das seinen alten Strassenplan bewahrt hat.\n\nEs lohnt sich klarzustellen, was dies nicht ist. Es gibt keine Rehe, keinen grossen Buddha und keine Massen von Bustouristen; wenn dies Ihr einziger Tag in der Region ist und Sie Todai-ji und den Nara-Park wollen, buchen Sie eine andere Tour. Was Sie statt erhalten, ist landliches Nara in Blueten, gefuehrt auf Englisch, Japanisch oder Spanisch, zurueck am Bahnhof Kintetsu Namba um 18:00 Uhr. Mahlzeiten, Getraenke, und die Zug- und Busfahrpreise zwischen Osaka und Uda von etwa zehn US-Dollar pro Richtung sind nicht enthalten, bringen Sie also Bargeld oder eine IC-Karte fuer die Reise.",
+  "highlights": [],
+  "included": [
+   "Englisch-, Japanisch- und Spanischsprachiger Guide"
+  ],
+  "notIncluded": [
+   "Mahlzeiten, Getraenke und andere persoenliche Gegenstaende, Zug- und Busfahrkarten von Osaka nach Uda und zurueck (ca. 10 USD pro Richtung)"
+  ]
+ },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara im Myokaku-ji: Schwertchoreografie, gefilmt auf dem Tempelgelände",
   "metaTitle": "Chambara-Schwerterlebnis in Kyoto",
