@@ -57921,6 +57921,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
   ]
  },
+ "hiroshima-night-evening-tour": {
+  "title": "Hiroshima bei Nacht: gefuehrte Abendessenstour mit Verkostungen",
+  "metaTitle": "Gefuehrte Abendessenstour in Hiroshima",
+  "metaDescription": "Begeben Sie sich auf eine gefuehrte dreistuendige kulinarische Reise durch Hiroshimas Essensszene. Okonomiyaki und lokale Spezialitaeten mit Verkostungen inklusive.",
+  "shortDescription": "Begeben Sie sich auf eine gefuehrte dreistuendige kulinarische Reise durch Hiroshimas Essensszene. Probieren Sie Okonomiyaki im Hiroshima-Stil und lokale Spezialitaeten, mit Essens- und Getraenkeverkostungen inklusive.",
+  "fullDescription": "Hiroshimas Essensszene erwacht nach Einbruch der Dunkelheit, und diese dreistuendige gefuehrte Abendessenstour ist eine direkte Linie zum Besten davon. Gefuehrt von einem sorgfaeltig ausgewaehlten Experten-Lokalguide, bewegt sich der Spaziergang durch die lebhaftesten Essensviertel der Stadt, die ueberdachte Hondori-Arkade mit ihren hellen Seitengassen, und die neonbeleuchteten Strassen von Nagarekawa, Hiroshimas Nachtlebenviertel, mit Stopps zum Essen und Trinken unterwegs, wobei die Verkostungen im Preis enthalten sind. Der unbestrittene Star ist Okonomiyaki im Hiroshima-Stil, der beliebte geschichtete herzhafte Pfannkuchen der Stadt: anders als die Osaka-Version wird hier alles gestapelt statt gemischt, Kohl, Teig, Schweinefleisch und ein Haufen Nudeln in Schichten auf der Teppan-Grillplatte aufgebaut und mit suess-herzhafter Sauce vollendet, idealerweise direkt von der heissen Platte mit einem Metallspatel gegessen. Ihr Guide bringt Sie dorthin, wo Einheimische dafuer anstehen, und erklaert, warum die Stadt ihre Version so vehement verteidigt. Um das Okonomiyaki herum reicht der Abend durch andere lokale Spezialitaeten, mit Getraenken in die Verkostungen eingebunden, und durch das Nach-der-Arbeit-Theater der Stadt selbst: Angestellte, die unter Noren-Vorhaenge schluepfen, von Lampions beleuchtete Theken mit acht Plaetzen in der Tiefe, die besondere Energie einer wiederaufgebauten Stadt, die weiss, wie man sich vergnuegt. Da der Guide Bestellung und Navigation uebernimmt, oeffnen sich die Lokale, die Nicht-Japanischsprecher abschrecken, die besten normalerweise, muehelos. Kommen Sie hungrig: die Verkostungen ueber den Abend summieren sich zu einem vollen Abendessen, und Sie beenden die Nacht mit einer mentalen Karte, wo Sie fuer den Rest Ihres Aufenthalts essen sollten.",
+  "highlights": [],
+  "included": [
+   "Sorgfaeltig ausgewaehlter Experten-Reisefuehrer, Essens- und Getraenkeverkostungen"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "hiroshima-osaka-full-day-tour": {
+  "title": "Von Osaka nach Hiroshima und Miyajima: Ganztagestour mit dem Shinkansen",
+  "metaTitle": "Hiroshima und Miyajima ab Osaka",
+  "metaDescription": "Diese Hiroshima- und Miyajima-Tagestour ab Osaka ist der beste Weg, dieses wichtige Ziel zu erreichen und seine Vergangenheit und Gegenwart zu erleben.",
+  "shortDescription": "Diese Hiroshima- und Miyajima-Tagestour ab Osaka ist der beste Weg, dieses wichtige Ziel zu erreichen und seine Vergangenheit und Gegenwart zu erleben, alles an einem Tag.",
+  "fullDescription": "Von Osaka aus ist Hiroshima eine neunzigminuetige Shinkansen-Fahrt entfernt, und diese Ganztagestour macht aus dieser Tatsache einen der bedeutsamsten Tagesausfluege Japans: die Vergangenheit und Gegenwart der Stadt, plus die heilige Insel Miyajima, alles an einem langen, gut orchestrierten Tag. Sie treffen Ihren sorgfaeltig ausgewaehlten Experten-Guide am Morgen und steigen in den Shinkansen, im Preis enthalten, und beobachten, wie das westliche Honshu an Ihnen bis zu 300 Kilometer pro Stunde vorbeizieht. In Hiroshima ist der Vormittag dem Zeugnisablegen gewidmet: der Friedensgedenkpark, sein Kenotaph und das mit Papierkranichen behangene Kinderfriedensdenkmal, und der am Fluss erhaltene Atombombendom, wobei Ihr Guide den historischen Kontext und die menschlichen Geschichten liefert, die den Ort verstaendlich machen statt einfach ueberwaeltigend. Genauso wichtig sehen Sie die Gegenwart: eine gruene, selbstbewusste, wiederaufgebaute Stadt, die ihre Geschichte in eine Botschaft verwandelt hat. Nach dem Mittagessen wechselt der Tag vollstaendig den Ton. Zug und Faehre bringen Sie nach Miyajima, wo sich das grosse zinnoberrote Torii des Itsukushima-Schreins aus der Flut erhebt, und der Nachmittag entspannt sich zwischen den Wasserkorridoren des Schreins, den von Rehen bevoelkerten Gassen und den Omotesando-Imbissstaenden; Ihre Miyajima-Besuchersteuer ist bereits erledigt. Waehrend das Licht ueber dem Seto-Binnenmeer golden wird, nehmen Sie die Faehre zurueck und fahren mit dem abendlichen Shinkansen nach Osaka. Mit rund dreizehn Stunden ist es ein voller Tag, aber Reisende bezeichnen ihn durchgehend als den bewegendsten ihrer gesamten Japanreise, und jede Verbindung wird fuer Sie erledigt.",
+  "highlights": [],
+  "included": [
+   "Sorgfaeltig ausgewaehlter Experten-Reisefuehrer, Miyajima-Besuchersteuer, Transport mit dem Shinkansen"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "hiroshima-private-tour": {
+  "title": "Private Hiroshima-Geschichtstour: Friedenspark und Museum im eigenen Tempo",
+  "metaTitle": "Private Hiroshima-Geschichtstour",
+  "metaDescription": "Erleben Sie Hiroshimas Friedensgedenkpark mit Ihrem eigenen privaten Guide. Erkunden Sie ikonische Denkmaeler und hoeren Sie Ueberlebendengeschichten.",
+  "shortDescription": "Erleben Sie Hiroshimas Friedensgedenkpark mit Ihrem eigenen privaten Guide. Erkunden Sie ikonische Denkmaeler, hoeren Sie Ueberlebendengeschichten und nehmen Sie Hiroshimas Geschichte vollstaendig in Ihrem eigenen Tempo auf.",
+  "fullDescription": "Manche Orte verdienen es, im eigenen Tempo erlebt zu werden, und Hiroshimas Friedensgedenkpark ist einer davon. Diese dreistuendige private Fuehrung gibt Ihnen einen Guide ganz fuer sich allein, was den Charakter des Besuchs veraendert: Sie koennen verweilen, wo Sie verweilen muessen, die Fragen stellen, die ein Gruppenumfeld entmutigt, und das Museum in dem Tempo erleben, das sich richtig anfuehlt. Die Route beginnt an den Friedenstoren und arbeitet sich in bewusster Reihenfolge durch die Denkmaeler des Parks, von der Skulptur der Mutter und des Babys im Sturm und dem Gebetsbrunnen bis zum selten besuchten Denkmal fuer Marcel Junod, den Schweizer Rotkreuz-Arzt, der in den Wochen nach dem Bombenabwurf medizinische Vorraete zur Stadt eilte. Eine volle Stunde ist fuer das Friedensgedenkmuseum reserviert, wo Ihr Guide Sie durch die Ausstellungen persoenlicher Artefakte und Ueberlebendenberichte begleitet und Kontext hinzufuegt, den die Ausstellungen allein nicht tragen koennen. Zurueck draussen gehen Sie weiter ueber das Gedenkmal und die Friedensflamme zur Nationalen Friedensgedenkhalle, halten an der Rasthalle des Parks, selbst ein ueberlebendes atombombenbestrahltes Gebaeude, und besuchen das Kinderfriedensdenkmal und das Gedenkmal fuer koreanische Atombombenopfer, bevor Sie am Atombombendom und dem Hypozentrum-Denkmal in der naheliegenden Strasse enden. Durchgehend weben die Guides Ueberlebendengeschichten ein, die den Denkmaelern ihr menschliches Gewicht geben. Es sind drei besinnliche, ungehetzte Stunden, und fuer viele Reisende wird dies das bedeutungsvollste, was sie in Japan erleben.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "hiroshima-remembered-walking-tour": {
+  "title": "Hiroshima in Erinnerung: gefuehrter Gruppenspaziergang durch den Friedensgedenkpark",
+  "metaTitle": "Hiroshima in Erinnerung: Gruppenspaziergang",
+  "metaDescription": "Erkunden Sie Hiroshimas Friedensgedenkpark bei einem gefuehrten Gruppenspaziergang mit historischem Einblick, zu den Ereignissen des 6. August 1945.",
+  "shortDescription": "Erkunden Sie Hiroshimas Friedensgedenkpark bei einem gefuehrten Gruppenspaziergang, der historischen Einblick und lokale Perspektiven verbindet. Entdecken Sie die Ereignisse des 6. August 1945 und Hiroshimas Friedensbotschaft.",
+  "fullDescription": "Dieser zweistuendige gefuehrte Gruppenspaziergang naehert sich dem Friedensgedenkpark als Ort, der langsam gelesen werden soll, Denkmal fuer Denkmal, mit den Ereignissen des 6. August 1945 und der Friedensbotschaft der Stadt als Leitmotiv. Am Treffpunkt in Nakajimacho am suedlichen Rand des Parks, dem Viertel, das vor dem Bombenabwurf Hiroshimas belebtestes Innenstadtviertel war, bevor es geloescht wurde, beginnt Ihr Guide an den Friedenstoren, der Reihe von Glasbogen, die mit dem Wort Frieden in Sprachen aus aller Welt beschriftet sind. Von dort entfaltet sich die Route sowohl durch die ruhigeren Ecken des Parks als auch durch seine Landmarken: den Gebetsbrunnen, die offenen Rasenflaechen, wo einst ein ganzes Viertel stand, die Friedensflamme, die brennen wird, bis die letzte Atomwaffe demontiert ist, und die Nationale Friedensgedenkhalle, wo Sie Zeit drinnen zwischen den Namen und Fotos der Opfer haben. Der Spaziergang haelt an der Rasthalle des Parks, einem Gebaeude, das die Explosion ueberlebte und noch als stilles Zeugnis steht, besucht dann das Kinderfriedensdenkmal, immer behangen mit frischen Straengen gefalteter Kraniche, und die Friedensglocke, die Besucher laeuten duerfen. Er endet am Atombombendom, der Flussufer-Ruine, die die Welt kennt, nun gesehen mit zwei Stunden Kontext dahinter. Die Guides verbinden historischen Einblick mit lokaler Perspektive, wie sich Hiroshima selbst erinnert, lehrt und vorwaerts geht, und halten den Ton ehrlich, ohne ueberwaeltigend zu sein. Mit sanften zwei Stunden und einem gruppenfreundlichen Preis ist dies eine der zugaenglichsten Arten, diesem bemerkenswerten Park die Aufmerksamkeit zu schenken, die er verdient.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "hiroshima-walking-tour": {
+  "title": "Hiroshima ungesagt: warum die Atombombe fiel, gefuehrter Geschichtsspaziergang",
+  "metaTitle": "Warum die Bombe auf Hiroshima fiel",
+  "metaDescription": "Ein tiefgreifender gefuehrter Spaziergang durch Hiroshima, um zu verstehen, warum die Atombombe auf diese Stadt fiel, vom Schloss bis zum Atombombendom.",
+  "shortDescription": "Nehmen Sie an einem tiefgreifenden gefuehrten Spaziergang durch Hiroshima teil, um zu verstehen, warum die Atombombe auf diese Stadt fiel. Bewegen Sie sich vom Hiroshima-Schloss zum Atombombendom und zum Friedensgedenkpark mit einem kundigen lokalen Guide.",
+  "fullDescription": "Die meisten Spaziergaenge durch Hiroshima beginnen am Friedensgedenkpark und arbeiten sich rueckwaerts vor. Dieser macht das Gegenteil, und der Unterschied zaehlt. Sie treffen Ihren Guide am Hiroshima-Gokoku-Schrein, im Schatten des Hiroshima-Schlosses, und verbringen den ersten Abschnitt des Spaziergangs damit, zu verstehen, was diese Stadt 1945 tatsaechlich war: eine Burgstadt, die zum militaerischen Hauptquartier wurde, mit Garnisonen, Kommandoposten und Versorgungslinien, die sie lange vor dem Morgen des 6. August auf eine Zielliste setzten. Vom Schlossgelaende aus gehen Sie weiter durch den Hiroshima Gate Park, und bis Sie den Atombombendom erreichen, betrachten Sie nicht mehr eine isolierte Ruine; Sie sehen den Endpunkt einer Kette von Entscheidungen, die Ihr Guide in der vergangenen Stunde entwirrt hat. Die Frage im Titel der Tour, warum die Atombombe hier fiel, wird ernsthaft statt rhetorisch behandelt, mit dem militaerischen, politischen und menschlichen Kontext, der sich im Gehen entfaltet. Der letzte Abschnitt fuehrt Sie durch den Friedensgedenkpark selbst, zwischen den Denkmaelern und den Papierkranichen, bevor die Tour am Eingang des Friedensgedenkmuseums endet, bewusst dort platziert, damit Sie drinnen allein weitergehen koennen, waehrend alles, was Sie gerade gehoert haben, noch frisch ist. Ueber 1.300 Reisende haben diesen Spaziergang bewertet, und seine fast perfekte Wertung spiegelt wider, wie sorgfaeltig die Guides mit schwierigem Material umgehen: ehrlich darueber, was geschah, respektvoll gegenueber den Opfern, und klarsichtig ueber die Erholung der Stadt. Mit zweieinhalb Stunden ist er kompakt genug, um in jeden Hiroshima-Reiseplan zu passen, und er verwandelt einen Besuch, der ueberwaeltigend wirken kann, in einen, der Sinn ergibt.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "hozanji-temple-evening-tour": {
+  "title": "Halloween-Nacht auf dem Berg Ikoma: Hozanji-Tempel und Seilbahn ab Osaka",
+  "metaTitle": "Halloween-Nacht auf dem Berg Ikoma ab Osaka",
+  "metaDescription": "Ein naechtlicher Aufstieg auf den Berg Ikoma waehrend der Halloween-Saison mit Japans aeltester Seilbahn zum Hozanji-Tempel aus dem 7. Jahrhundert.",
+  "shortDescription": "Ein naechtlicher Aufstieg auf den Berg Ikoma waehrend der Halloween-Saison mit Japans aeltester Seilbahn zum Hozanji-Tempel aus dem 7. Jahrhundert.",
+  "fullDescription": "Dieser Abendausflug findet nur in der Halloween-Saison statt, von September bis Oktober, und ist die einzige Nachtabfahrt des Anbieters im Jahr. Sie treffen Ihren Guide um 18:00 Uhr im Bahnhof Kintetsu Namba in Osaka und reisen zum Fuss des Berges Ikoma, des Berges, der den Grat zwischen Osaka und der Nara-Ebene bildet. Von dort erfolgt der Aufstieg mit der Hozanji-Linie, die 1918 eroeffnet wurde und Japans erste Seilbahn ist, eine kleine Standseilbahn, die noch nach Einbruch der Dunkelheit den bewaldeten Hang erklimmt.\n\nOben steht Hozanji, ein im Jahr 665 gegruendeter Tempel als Ort fuer buddhistische Moenche zum Trainieren. Der Zugang fuehrt entlang eines Waldpfads, gesaeumt von Jizo-Statuen, den kleinen steinernen Schutzfiguren, die im gesamten laendlichen Japan zu finden sind, und im Dunkeln, unter Lampenlicht und ziehenden Wolken, nimmt der Spaziergang die mystische, leicht unwirkliche Qualitaet an, die Menschen gewoehnlich mit einem Ghibli-Film vergleichen. Ihr Guide erklaert, was der Berg fuer Glaeubige bedeutet hat, warum der Tempel dort gebaut wurde, wo er steht, und wofuer die Statuen entlang des Weges tatsaechlich dienen, sodass die Atmosphaere auf echtem Kontext statt auf Geistergeschichten-Theatralik beruht.\n\nDie Tour dauert etwa dreieinhalb Stunden und bringt Sie gegen 21:30 Uhr zum Bahnhof Kintetsu Namba zurueck, sodass Sie fuer die Nacht im Zentrum Osakas sind. Kommentar ist auf Englisch, Japanisch und Spanisch verfuegbar. Zugfahrpreise zwischen Osaka und Ikoma sowie die Seilbahngebuehr werden am Tag selbst separat bezahlt und sind nicht im Preis enthalten, und es gibt keinen Essensstopp, essen Sie also vor der Abfahrt. Da es sich um eine saisonale Halloween-Abfahrt handelt, sind Termine ausserhalb September und Oktober nicht verfuegbar.",
+  "highlights": [],
+  "included": [
+   "Englisch-, Japanisch- und Spanischsprachiger Guide"
+  ],
+  "notIncluded": [
+   "Mahlzeiten, Getraenke und persoenliche Gegenstaende, Zugfahrkarten zwischen Osaka und Ikoma (ca. 4 USD pro Richtung), Ikoma-Seilbahngebuehr (ca. 2 USD pro Richtung)"
+  ]
+ },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara im Myokaku-ji: Schwertchoreografie, gefilmt auf dem Tempelgelände",
   "metaTitle": "Chambara-Schwerterlebnis in Kyoto",

@@ -57921,6 +57921,90 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales, comidas salvo que se especifique, propinas"
   ]
  },
+ "hiroshima-night-evening-tour": {
+  "title": "Bocados nocturnos de Hiroshima: tour gastronomico nocturno guiado con degustaciones",
+  "metaTitle": "Tour gastronomico nocturno en Hiroshima",
+  "metaDescription": "Embarquese en un viaje culinario guiado de 3 horas por la escena gastronomica de Hiroshima. Pruebe okonomiyaki y especialidades locales, con degustaciones incluidas.",
+  "shortDescription": "Embarquese en un viaje culinario guiado de 3 horas por la escena gastronomica de Hiroshima. Pruebe el okonomiyaki al estilo Hiroshima y especialidades locales, con degustaciones de comida y bebida incluidas.",
+  "fullDescription": "La escena gastronomica de Hiroshima cobra vida despues del anochecer, y este tour gastronomico guiado de tres horas es una linea directa a lo mejor de ella. Dirigido por un experto guia local cuidadosamente seleccionado, el paseo recorre los barrios gastronomicos mas animados de la ciudad, la galeria cubierta de Hondori con sus brillantes callejones laterales, y las calles banadas en neon de Nagarekawa, el distrito de vida nocturna de Hiroshima, deteniendose para comer y beber en el camino, con las degustaciones incluidas en el precio. La estrella indiscutible es el okonomiyaki al estilo Hiroshima, el querido panqueque salado en capas de la ciudad: a diferencia de la version de Osaka, aqui todo se apila en lugar de mezclarse, col, masa, cerdo y un monton de fideos construidos en estratos sobre la plancha teppan y terminados con salsa dulce-salada, idealmente comido directamente de la plancha caliente con una espatula de metal. Su guia lo lleva a donde los locales hacen fila para comerlo y explica por que la ciudad defiende su version con tanta fiereza. Alrededor del okonomiyaki, la noche se extiende a otras especialidades locales, con bebidas incorporadas a las degustaciones, y a traves del teatro despues del trabajo de la ciudad misma: oficinistas deslizandose bajo cortinas noren, mostradores iluminados con farolillos de ocho asientos de profundidad, la energia particular de una ciudad reconstruida que sabe como disfrutar. Como el guia maneja los pedidos y la navegacion, los locales que intimidan a quienes no hablan japones, generalmente los mejores, se abren facilmente. Venga con hambre: las degustaciones durante la noche suman una cena completa, y termina la noche con un mapa mental de donde comer el resto de su estadia.",
+  "highlights": [],
+  "included": [
+   "Guia experto cuidadosamente seleccionado, degustaciones de comida y bebida"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "hiroshima-osaka-full-day-tour": {
+  "title": "De Osaka a Hiroshima y Miyajima: tour de un dia completo en tren bala",
+  "metaTitle": "Hiroshima y Miyajima desde Osaka",
+  "metaDescription": "Este tour de un dia a Hiroshima y Miyajima desde Osaka es la mejor manera de llegar a este importante destino y experimentar su pasado y presente.",
+  "shortDescription": "Este tour de un dia a Hiroshima y Miyajima desde Osaka es la mejor manera de llegar a este importante destino y experimentar su pasado y presente, todo en un dia.",
+  "fullDescription": "Desde Osaka, Hiroshima esta a noventa minutos en tren bala, y este tour de dia completo convierte ese hecho en una de las excursiones de un dia mas significativas de Japon: el pasado y presente de la ciudad, mas la isla sagrada de Miyajima, todo en un dia largo y bien orquestado. Se encuentra con su experto guia cuidadosamente seleccionado por la manana y aborda el Shinkansen, incluido en el precio, viendo pasar el oeste de Honshu a hasta 300 kilometros por hora. En Hiroshima la manana se dedica a dar testimonio: el parque memorial de la Paz, su cenotafio y el Monumento a la Paz de los Ninos adornado con grullas de papel, y la Cupula de la Bomba Atomica preservada junto al rio, con su guia aportando el contexto historico y las historias humanas que hacen el sitio comprensible en lugar de simplemente abrumador. Igualmente importante, ve el tiempo presente: una ciudad verde, segura de si misma y reconstruida que ha convertido su historia en un mensaje. Despues del almuerzo, el dia cambia por completo de tono. El tren y el ferry lo llevan a Miyajima, donde el gran torii bermellon del santuario de Itsukushima se eleva de la marea, y la tarde se desenvuelve entre los corredores sobre el agua del santuario, los callejones llenos de ciervos y los puestos de comida de Omotesando; su impuesto de visitante de Miyajima ya esta gestionado. Mientras la luz se vuelve dorada sobre el Mar Interior de Seto, toma el ferry de vuelta y viaja en el shinkansen nocturno de regreso a Osaka. Con aproximadamente trece horas es un compromiso completo de un dia, pero los viajeros lo llaman constantemente el mas conmovedor de todo su viaje a Japon, y cada conexion se gestiona por usted.",
+  "highlights": [],
+  "included": [
+   "Experto guia cuidadosamente seleccionado, impuesto de visitante de Miyajima, transporte en Shinkansen"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "hiroshima-private-tour": {
+  "title": "Tour privado de historia de Hiroshima: parque y museo de la Paz a su propio ritmo",
+  "metaTitle": "Tour privado de historia de Hiroshima",
+  "metaDescription": "Experimente el parque memorial de la Paz de Hiroshima con su propio guia privado. Explore memoriales iconicos y escuche historias de supervivientes.",
+  "shortDescription": "Experimente el parque memorial de la Paz de Hiroshima con su propio guia privado. Explore memoriales iconicos, escuche historias de supervivientes y absorba la historia de Hiroshima enteramente a su propio ritmo.",
+  "fullDescription": "Algunos lugares merecen ser experimentados a su propio ritmo, y el parque memorial de la Paz de Hiroshima es uno de ellos. Este tour privado a pie de tres horas le da un guia enteramente para ustedes, lo que cambia el caracter de la visita: puede demorarse donde necesite demorarse, hacer las preguntas que un entorno de grupo desalienta, y recorrer el museo a la velocidad que le parezca correcta. La ruta comienza en las Puertas de la Paz y recorre los memoriales del parque en una secuencia deliberada, desde la escultura de la Madre y el Bebe en la Tormenta y la Fuente de la Oracion hasta el poco visitado memorial a Marcel Junod, el medico suizo de la Cruz Roja que llevo apresuradamente suministros medicos a la ciudad en las semanas posteriores al bombardeo. Se reserva una hora completa para el Museo Memorial de la Paz, donde su guia lo acompana a traves de las exhibiciones de artefactos personales y relatos de supervivientes, anadiendo contexto que las exhibiciones solas no pueden transmitir. De vuelta afuera, continua mas alla del Cenotafio Conmemorativo y la Llama de la Paz hasta el Salon Nacional Conmemorativo de la Paz, hace una pausa en la Casa de Descanso del parque, en si mismo un edificio sobreviviente bombardeado, y visita el Monumento a la Paz de los Ninos y el Cenotafio de las Victimas Coreanas de la Bomba Atomica antes de terminar en la Cupula de la Bomba Atomica y el monumento del hipocentro en la calle cercana. Durante todo el recorrido, los guias entrelazan historias de supervivientes que dan a los monumentos su peso humano. Son tres horas reflexivas y sin prisas, y para muchos viajeros se convierten en lo mas significativo que hacen en Japon.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "hiroshima-remembered-walking-tour": {
+  "title": "Hiroshima recordada: caminata guiada en grupo por el parque memorial de la Paz",
+  "metaTitle": "Hiroshima recordada: caminata guiada en grupo",
+  "metaDescription": "Explore el parque memorial de la Paz de Hiroshima en una caminata guiada en grupo sobre los eventos del 6 de agosto de 1945 y el mensaje de paz de la ciudad.",
+  "shortDescription": "Explore el parque memorial de la Paz de Hiroshima en una caminata guiada en grupo que combina perspectiva historica y local. Descubra los eventos del 6 de agosto de 1945 y el mensaje de paz de Hiroshima.",
+  "fullDescription": "Esta caminata guiada en grupo de dos horas aborda el parque memorial de la Paz como un lugar para leer lentamente, monumento por monumento, con los eventos del 6 de agosto de 1945 y el mensaje de paz de la ciudad como hilo conductor. Con encuentro en Nakajimacho, en el borde sur del parque, el distrito que era el barrio centrico mas concurrido de Hiroshima antes de que el bombardeo lo borrara, su guia comienza en las Puertas de la Paz, la fila de arcos de vidrio inscritos con la palabra paz en idiomas de todo el mundo. Desde alli la ruta se despliega tanto por los rincones mas tranquilos del parque como por sus hitos: la Fuente de la Oracion, los prados abiertos donde una vez estuvo todo un barrio, la Llama de la Paz que ardera hasta que se desmantele la ultima arma nuclear, y el Salon Nacional Conmemorativo de la Paz, donde tiene tiempo dentro entre los nombres y fotografias de las victimas. La caminata se detiene en la Casa de Descanso del parque, un edificio que sobrevivio a la explosion y sigue en pie como testimonio silencioso, luego visita el Monumento a la Paz de los Ninos, siempre cubierto de hebras frescas de grullas plegadas, y la Campana de la Paz, que los visitantes son invitados a tocar. Termina en la Cupula de la Bomba Atomica, la ruina junto al rio que el mundo conoce, vista ahora con dos horas de contexto detras. Los guias combinan la perspectiva historica con la perspectiva local, como la propia Hiroshima recuerda, ensena y avanza, y mantienen el tono honesto sin ser abrumador. Con unas suaves dos horas y un precio apto para grupos, es una de las formas mas accesibles de dar a este notable parque la atencion que merece.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "hiroshima-walking-tour": {
+  "title": "Hiroshima no contada: por que cayo la bomba atomica, caminata historica guiada",
+  "metaTitle": "Por que cayo la bomba sobre Hiroshima",
+  "metaDescription": "Unase a una profunda caminata guiada por Hiroshima para entender por que la bomba atomica cayo sobre esta ciudad, del castillo a la Cupula de la Bomba A.",
+  "shortDescription": "Unase a una profunda caminata guiada por Hiroshima para entender por que la bomba atomica cayo sobre esta ciudad. Avance del castillo de Hiroshima a la Cupula de la Bomba A y el parque memorial de la Paz con un guia local conocedor.",
+  "fullDescription": "La mayoria de las caminatas por Hiroshima comienzan en el parque memorial de la Paz y retroceden. Esta hace lo contrario, y la diferencia importa. Se encuentra con su guia en el santuario Hiroshima Gokoku, a la sombra del castillo de Hiroshima, y pasa el primer tramo de la caminata entendiendo lo que realmente era esta ciudad en 1945: una ciudad castillo convertida en cuartel general militar, con guarniciones, puestos de mando y lineas de suministro que la pusieron en una lista de objetivos mucho antes de la manana del 6 de agosto. Desde los terrenos del castillo continua a traves del Parque de la Puerta de Hiroshima, y cuando llega a la Cupula de la Bomba Atomica ya no esta mirando una ruina aislada; esta viendo el punto final de una cadena de decisiones que su guia ha estado desentranando durante la ultima hora. La pregunta en el titulo del tour, por que la bomba atomica cayo aqui, se trata con seriedad en lugar de retoricamente, con el contexto militar, politico y humano expuesto mientras camina. El tramo final lo lleva a traves del propio parque memorial de la Paz, entre los monumentos y las grullas de papel, antes de que el tour termine en la entrada del Museo Memorial de la Paz, colocado deliberadamente para que pueda continuar dentro por su cuenta con todo lo que acaba de escuchar aun fresco. Mas de 1.300 viajeros han resenado esta caminata y su calificacion casi perfecta refleja cuan cuidadosamente manejan los guias el material dificil: honestos sobre lo que paso, respetuosos con las victimas, y claros sobre la recuperacion de la ciudad. Con dos horas y media es lo bastante compacta para encajar en cualquier itinerario de Hiroshima, y convierte una visita que puede sentirse abrumadora en una que tiene sentido.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "hozanji-temple-evening-tour": {
+  "title": "Noche de Halloween en el monte Ikoma: templo Hozanji y telecabina desde Osaka",
+  "metaTitle": "Noche de Halloween en el monte Ikoma desde Osaka",
+  "metaDescription": "Un ascenso nocturno al monte Ikoma en temporada de Halloween con la telecabina mas antigua de Japon hasta el templo Hozanji del siglo septimo.",
+  "shortDescription": "Un ascenso nocturno al monte Ikoma en temporada de Halloween con la telecabina mas antigua de Japon hasta el templo Hozanji del siglo septimo.",
+  "fullDescription": "Este viaje nocturno solo funciona en temporada de Halloween, de septiembre a octubre, y es la unica salida nocturna del operador en el ano. Se encuentra con su guia a las 18:00 dentro de la estacion Kintetsu Namba en Osaka y viaja hasta el pie del monte Ikoma, la montana que forma la cresta entre Osaka y la llanura de Nara. Desde alli, el ascenso se realiza en la linea Hozanji, que abrio en 1918 y es la primera telecabina de Japon, un pequeno funicular que todavia sube la ladera boscosa despues del anochecer.\n\nEn la cima se encuentra Hozanji, un templo fundado en el ano 665 como lugar de entrenamiento para monjes budistas. El acceso recorre un sendero forestal bordeado de estatuas de jizo, las pequenas figuras de piedra guardianas que se encuentran por todo el Japon rural, y en la oscuridad, bajo la luz de las lamparas y las nubes en movimiento, la caminata adquiere la cualidad mistica y ligeramente irreal que la gente suele comparar con una pelicula de Ghibli. Su guia explica lo que la montana ha significado para los fieles, por que el templo se construyo donde esta, y para que sirven realmente las estatuas a lo largo del camino, de modo que el ambiente se respalda con contexto real en lugar de teatralidad de historias de fantasmas.\n\nEl tour dura aproximadamente tres horas y media y lo devuelve a la estacion Kintetsu Namba alrededor de las 21:30, asi que esta de vuelta en el centro de Osaka para la noche. Los comentarios estan disponibles en ingles, japones y espanol. Las tarifas de tren entre Osaka e Ikoma y la tarifa de la telecabina se pagan por separado el dia mismo y no forman parte del precio, y no hay parada para comer, asi que coma antes de salir. Como es una salida estacional de Halloween, las fechas fuera de septiembre y octubre no estan disponibles.",
+  "highlights": [],
+  "included": [
+   "Guia de habla inglesa, japonesa y espanola"
+  ],
+  "notIncluded": [
+   "Comidas, bebidas y articulos personales, boletos de tren entre Osaka e Ikoma (aproximadamente 4 USD por trayecto), tarifa de la telecabina de Ikoma (aproximadamente 2 USD por trayecto)"
+  ]
+ },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara en Myokaku-ji: coreografia de espada filmada en el recinto del templo",
   "metaTitle": "Experiencia de chambara con espada en Kyoto",
