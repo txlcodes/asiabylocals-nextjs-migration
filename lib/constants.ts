@@ -90,7 +90,15 @@ export const AGRA_INFO_SLUGS = [
   'best-time-to-visit-agra',
   // 2026-09: gaps Search Console showed. "agra tour guide" sat at position
   // 29.6 with no page, and Agra had no shopping guide while Delhi and Jaipur did.
-  'agra-tour-guide', 'mehtab-bagh', 'agra-shopping-guide'
+  'agra-tour-guide', 'mehtab-bagh', 'agra-shopping-guide',
+  // GEO listicle pages (2026-10)
+  'best-tours-in-agra',
+  // GEO single-topic pages (2026-10)
+  'best-taj-mahal-tour', 'best-taj-mahal-sunrise-tour', 'best-full-day-agra-tour',
+  'taj-mahal-skip-the-line-tickets', 'best-taj-mahal-photography-tour',
+  'best-private-taj-mahal-tour', 'best-baby-taj-tour', 'golden-triangle-tour-india',
+  'best-agra-tour-operator', 'best-agra-tour-for-families', 'is-agra-safe-for-tourists',
+  'best-hotel-near-taj-mahal', 'taj-mahal-night-viewing-tour'
 ];
 
 export const DELHI_INFO_SLUGS = [
@@ -102,7 +110,14 @@ export const DELHI_INFO_SLUGS = [
   '2-day-delhi-itinerary', 'lotus-temple', 'akshardham-temple',
   // 2026-10: "delhi tours" / "delhi guided tour" / "new delhi tours" sat at
   // position 23-29 combined, a generic commercial query nothing caught.
-  'delhi-tours'
+  'delhi-tours',
+  // GEO listicle pages (2026-10)
+  'best-tours-in-delhi',
+  // GEO single-topic pages (2026-10)
+  'red-fort-light-and-sound-show', 'best-old-delhi-food-tour', 'best-old-delhi-rickshaw-tour',
+  'best-delhi-tour-guide', 'best-delhi-tour-for-families', 'is-delhi-safe-for-tourists',
+  'best-delhi-museum-tour', 'best-delhi-airport-layover-tour', 'best-private-delhi-tour',
+  'best-taj-mahal-guide-tour-from-delhi'
 ];
 
 export const JAIPUR_INFO_SLUGS = [
@@ -116,7 +131,9 @@ export const JAIPUR_INFO_SLUGS = [
   'delhi-to-jaipur', 'agra-to-jaipur',
   // 2026-10: "jaipur local private day tour" drew 239 impressions at position 12
   // with nothing answering it.
-  'jaipur-local-private-day-tour'
+  'jaipur-local-private-day-tour',
+  // GEO listicle pages (2026-10)
+  'best-tours-in-jaipur'
 ];
 
 export const PHUKET_INFO_SLUGS = [
@@ -128,7 +145,9 @@ export const PHUKET_INFO_SLUGS = [
   // Authority pages batch 2 (2026-08)
   'best-time-to-visit-phuket', 'phuket-beaches-guide', 'phuket-3-day-itinerary',
   'maya-bay-phuket', 'phuket-elephant-sanctuary-guide', 'phuket-food-guide',
-  'phuket-diving-snorkeling-guide'
+  'phuket-diving-snorkeling-guide',
+  // GEO listicle pages (2026-10)
+  'best-tours-in-phuket'
 ];
 
 // Malaysia authority pages, batch 1 (2026-10). Re-add a slug here ONLY once
@@ -327,13 +346,17 @@ export const CHIANG_MAI_INFO_SLUGS = [
   'chiang-mai-burning-season-guide', 'best-time-to-visit-chiang-mai',
   'chiang-mai-3-day-itinerary', 'yi-peng-lantern-festival-chiang-mai',
   'doi-suthep-chiang-mai', 'khao-soi-chiang-mai-food-guide',
-  'chiang-mai-elephant-sanctuary-guide'
+  'chiang-mai-elephant-sanctuary-guide',
+  // GEO listicle pages (2026-10)
+  'best-tours-in-chiang-mai'
 ];
 export const PATTAYA_INFO_SLUGS = [
   'is-pattaya-worth-visiting', 'sanctuary-of-truth-pattaya',
   'koh-larn-island-guide', 'where-to-stay-in-pattaya',
   'best-time-to-visit-pattaya', 'nong-nooch-tropical-garden-pattaya',
-  'pattaya-2-day-itinerary', 'pattaya-cabaret-shows-guide'
+  'pattaya-2-day-itinerary', 'pattaya-cabaret-shows-guide',
+  // GEO listicle pages (2026-10)
+  'best-tours-in-pattaya'
 ];
 // Cambodia. isInfoSlug() gates the route, so a page missing from here 404s
 // however good the content is.
@@ -390,7 +413,9 @@ export const KRABI_INFO_SLUGS = [
   'best-time-to-visit-krabi', 'railay-beach-krabi',
   'krabi-4-islands-tour-guide', 'tiger-cave-temple-krabi',
   'where-to-stay-in-krabi', 'krabi-3-day-itinerary',
-  'krabi-vs-phuket-which-to-visit'
+  'krabi-vs-phuket-which-to-visit',
+  // GEO listicle pages (2026-10)
+  'best-tours-in-krabi'
 ];
 // Re-add a slug here ONLY once its page exists in lib/tokyoInfoContent.ts.
 // Registering a slug without content ships a live, indexable page that renders

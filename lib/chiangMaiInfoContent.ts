@@ -470,6 +470,70 @@ export function getChiangMaiInfoContent(slug: string): CityInfoData | null {
                 ]
             };
 
+        case "best-tours-in-chiang-mai":
+            return {
+                title: "Best Tours in Chiang Mai — 2026, Honestly Compared",
+                seoTitle: "Best Tours in Chiang Mai 2026: Top-Rated Picks by Category",
+                description: "The best Chiang Mai tours for 2026 — ethical elephant sanctuaries, cooking classes, Doi Suthep and Doi Inthanon day trips — with real prices and an honest note on how we chose them.",
+                heroImage: IMG.elephants,
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Chiang Mai rewards slowing down more than most Thai cities — the best experiences are a **no-riding elephant sanctuary**, a hands-on **cooking class**, and the mountain temple of **Doi Suthep**, ideally done early before the crowds and heat arrive. If you only have one tour slot, the elephant sanctuary is the one most visitors remember longest.\n\nBelow is our honest, by-category breakdown — real tours, real prices, no inflated ratings.",
+                        tourCard: CARD.elephants
+                    },
+                    {
+                        title: "Best Cooking Class",
+                        content: "Chiang Mai's cooking classes are a cut above Bangkok's — this one starts in a **working wet market** learning to tell galangal from ginger and Thai basil from holy basil, then moves to a working kitchen to cook a full northern Thai meal from scratch. You leave with recipes that work at home, not a diluted tourist version.",
+                        tourCard: CARD.cooking
+                    },
+                    {
+                        title: "Best Temple Tour: Doi Suthep",
+                        content: "**Doi Suthep**, the gold-spired mountain temple above the city, is Chiang Mai's single most important sight — but the best version of this tour adds **Wat Pha Lat**, a forest monastery on the old pilgrim trail that most visitors never find on their own. Go early: the mountain road gets crowded and hot by mid-morning.",
+                        tourCard: CARD.doiSuthep
+                    },
+                    {
+                        title: "Best Old City Walking Tour",
+                        content: "Chiang Mai's old city, still ringed by a moat and brick wall, holds over thirty temples inside a one-square-kilometre grid. A **3-hour walking tour** at human pace covers Wat Chedi Luang and Wat Phra Singh with the Lanna-kingdom history that makes the ruins mean something, rather than rushing past them.",
+                        tourCard: CARD.oldCity
+                    },
+                    {
+                        title: "Best Day Trip: Doi Inthanon",
+                        content: "**Doi Inthanon** is Thailand's highest peak, and the full-day version reaches the twin royal pagodas, cloud forest and waterfalls that the mountain is actually known for — a proper escape from the city heat, roughly 9 hours round trip from the old city.",
+                        tourCard: CARD.inthanon
+                    },
+                    {
+                        title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+                        content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against GetYourGuide, Viator or Klook: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Chiang Mai tours](/thailand/chiang-mai)."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best tour in Chiang Mai?", a: "A no-riding, no-bathing elephant sanctuary feeding program is the experience most visitors remember longest. Pair it with a cooking class and a Doi Suthep temple visit for a well-rounded first trip." },
+                    { q: "What is the best elephant sanctuary tour?", a: "A half-day no-riding, no-bathing feeding program — you prepare food, observe a real herd, and leave them alone the rest of the day. This is the ethical standard to look for in Chiang Mai specifically." },
+                    { q: "What is the best cooking class in Chiang Mai?", a: "One that starts in a working wet market before the kitchen — learning the ingredients first makes the cooking make sense, and you leave with recipes that work at home." },
+                    { q: "Is Doi Suthep worth visiting?", a: "Yes — it's Chiang Mai's most important temple. Go early, ideally by 6:30-8 AM, before the mountain road gets crowded and hot. Adding Wat Pha Lat forest monastery turns the trip into a proper half-day rather than a quick stop." },
+                    { q: "What is the best day trip from Chiang Mai?", a: "Doi Inthanon National Park, Thailand's highest peak — twin royal pagodas, cloud forest and waterfalls, about 9 hours round trip from the old city." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@graph": [
+                        {
+                            "@type": "FAQPage",
+                            "mainEntity": [
+                                { "@type": "Question", "name": "What is the best tour in Chiang Mai?", "acceptedAnswer": { "@type": "Answer", "text": "A no-riding, no-bathing elephant sanctuary feeding program is the experience most visitors remember longest." } },
+                                { "@type": "Question", "name": "What is the best elephant sanctuary tour?", "acceptedAnswer": { "@type": "Answer", "text": "A half-day no-riding, no-bathing feeding program where you prepare food and observe a real herd." } },
+                                { "@type": "Question", "name": "Is Doi Suthep worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — it's Chiang Mai's most important temple. Go early, before the mountain road gets crowded." } }
+                            ]
+                        }
+                    ]
+                },
+                fastFacts: [
+                    { icon: 'Star', label: 'Top Pick', value: 'No-Riding Elephant Sanctuary' },
+                    { icon: 'Utensils', label: 'Best Cooking Class', value: 'Market + Kitchen Combo' },
+                    { icon: 'Mountain', label: 'Best Day Trip', value: 'Doi Inthanon' }
+                ]
+            };
+
         default:
             return null;
     }

@@ -427,6 +427,70 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ]
             };
 
+        case "best-tours-in-phuket":
+            return {
+                title: "Best Tours in Phuket — 2026, Honestly Compared",
+                seoTitle: "Best Tours in Phuket 2026: Top-Rated Picks by Category",
+                description: "The best Phuket tours for 2026, picked by category — island-hopping, diving, culture and cooking — with real prices, real reviews, and an honest note on how we chose them.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1784980215/tours/phuket-phi-phi-bamboo-buffet-455/img_0.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Phuket's best tour depends entirely on the sea: in **dry season (November–April)**, the open-water run to Phi Phi and Maya Bay is unbeatable; in **green season (May–October)**, James Bond Island's sheltered Phang Nga Bay keeps running when open-sea routes get cancelled. Check which season you're travelling in before you book an island tour — our [Phuket beaches guide](/thailand/phuket/phuket-beaches-guide) and [Maya Bay guide](/thailand/phuket/maya-bay-phuket) cover the seasonal logic in full.\n\nBelow is our honest, by-category breakdown — the top-rated option in each, with real prices and real guest reviews.",
+                        tourCard: { slug: "phi-phi-islands-speedboat-tour-maya-bay-snorkeling", title: "Phi Phi Islands Premium Catamaran Tour (Maya Bay & Snorkeling)", description: "Maya Bay, Pileh Lagoon and Bamboo Island by premium catamaran — the trip that only runs properly in dry season.", price: "From $119", duration: "8 hours", rating: "4.9", reviews: "5", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1784980215/tours/phuket-phi-phi-bamboo-buffet-455/img_0.jpg" }
+                    },
+                    {
+                        title: "Best Island Tour for Green Season (May–October)",
+                        content: "When open-sea crossings to Phi Phi get cancelled for rough water, **Phang Nga Bay stays calm** — it's sheltered by the mainland. The top-rated green-season option combines James Bond Island with canoeing through hidden sea caves and lunch, and it's genuinely one of Phuket's best tours even in dry season.",
+                        tourCard: { slug: "james-bond-island-speedboat-tour-phuket", title: "James Bond Island Speedboat Tour with Canoeing & Lunch", description: "Phang Nga Bay is sheltered by the mainland, so this trip runs on days when open-sea crossings can't — the reliable green-season island day.", price: "From $99", duration: "6 hours", rating: "4.8", reviews: "5", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1772835259/tours/phuket/james-bond-island-speedboat-tour-phuket-0.jpg" }
+                    },
+                    {
+                        title: "Best Diving Tour in Phuket",
+                        content: "**Racha Yai**, roughly an hour offshore, is the right first-dive site in Thailand — sheltered bays, easy visibility, and instructors who take beginners through it properly rather than rushing the safety briefing. This is the top-rated dive tour on our platform, and it suits complete beginners, not just certified divers.",
+                        tourCard: { slug: "phuket-scuba-diving-beginners-full-day-racha-yai-island", title: "Phuket Scuba Diving for Beginners — Full Day at Racha Yai", description: "The right first-dive site in Thailand: sheltered bays, white sand, easy visibility and instructors who take beginners properly slowly.", price: "From $150", duration: "8 hours", rating: "4.9", reviews: "4", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773246903/tours/phuket/tours/phuket_1773246902563_0.jpg" }
+                    },
+                    {
+                        title: "Best City & Culture Tour",
+                        content: "Phuket is more than beaches — the island's landmarks sit inland and need a full day to cover properly: the 45-metre **Big Buddha**, **Wat Chalong** (the island's most important temple), **Karon Viewpoint**, and the Sino-Portuguese shophouses of **Old Town**. The top-rated option covers all four with transport and entries handled.",
+                        tourCard: { slug: "phuket-old-town-full-day-tour", title: "Phuket Full Day City Tour — Big Buddha, Wat Chalong & Old Town", description: "The island's landmarks and viewpoints in one guided day — Big Buddha, Wat Chalong, Karon Viewpoint and Sino-Portuguese Old Town.", price: "From $37", duration: "9 hours", rating: "4.8", reviews: "8", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1774346594/tours/phuket-city-tour/otr7lkk1puhugfwroyli.jpg" }
+                    },
+                    {
+                        title: "Best Cooking Class",
+                        content: "**Pum's Thai Restaurant & Cooking School** is Phuket's best-known cooking school for a reason: you pound your own curry paste from scratch, cook a full multi-course meal, and leave with recipes that actually work at home — not the diluted tourist-menu version some schools teach.",
+                        tourCard: { slug: "phuket-pums-thai-cooking-class", title: "Fun Cooking Class at Pum's Thai Restaurant & Cooking School", description: "Phuket's best-known cooking school — pound your own curry paste, cook a full Thai meal, and take home recipes that actually work.", price: "From $62", duration: "3 hours", rating: "4.8", reviews: "8", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1774731363/tours/phuket/tours/phuket_1774731362237_0.jpg" }
+                    },
+                    {
+                        title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+                        content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against GetYourGuide, Viator or Klook: several of these exact tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Phuket tours](/thailand/phuket)."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best tour in Phuket?", a: "It depends on the season. In dry season (November–April), the Phi Phi Islands catamaran tour to Maya Bay is the top-rated option. In green season (May–October), James Bond Island in sheltered Phang Nga Bay is the more reliable pick." },
+                    { q: "What is the best island tour from Phuket?", a: "The Phi Phi Islands premium catamaran tour, covering Maya Bay, Pileh Lagoon and Bamboo Island — rated 4.9 and far steadier in swell than a standard speedboat." },
+                    { q: "What is the best tour during Phuket's rainy season?", a: "James Bond Island in Phang Nga Bay, which is sheltered by the mainland and keeps running when open-sea routes to Phi Phi are cancelled for rough water." },
+                    { q: "Is Phuket good for beginner divers?", a: "Yes — Racha Yai, about an hour offshore, is widely considered Thailand's best first-dive site: sheltered, clear water, and instructors experienced with complete beginners." },
+                    { q: "What is the best non-beach tour in Phuket?", a: "A full-day city and culture tour covering Big Buddha, Wat Chalong, Karon Viewpoint and Old Town — the island's inland landmarks in one trip." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@graph": [
+                        {
+                            "@type": "FAQPage",
+                            "mainEntity": [
+                                { "@type": "Question", "name": "What is the best tour in Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "In dry season (November–April), the Phi Phi Islands catamaran tour is the top-rated option. In green season (May–October), James Bond Island in sheltered Phang Nga Bay is the more reliable pick." } },
+                                { "@type": "Question", "name": "What is the best island tour from Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "The Phi Phi Islands premium catamaran tour, covering Maya Bay, Pileh Lagoon and Bamboo Island." } },
+                                { "@type": "Question", "name": "Is Phuket good for beginner divers?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Racha Yai, about an hour offshore, is widely considered Thailand's best first-dive site." } }
+                            ]
+                        }
+                    ]
+                },
+                fastFacts: [
+                    { icon: 'Sun', label: 'Dry Season Pick', value: 'Phi Phi Catamaran Tour' },
+                    { icon: 'CloudRain', label: 'Green Season Pick', value: 'James Bond Island' },
+                    { icon: 'Anchor', label: 'Best Diving', value: 'Racha Yai' }
+                ]
+            };
+
         // ============ BANGKOK ============
 
         case "best-time-to-visit-bangkok":

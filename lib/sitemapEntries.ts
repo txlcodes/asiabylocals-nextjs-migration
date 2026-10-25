@@ -47,6 +47,12 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'agra-gatimaan-entry-ticket', 'delhi-to-agra', 'same-day-agra-tour-from-delhi',
     'best-time-to-visit-agra',
     'agra-tour-guide', 'mehtab-bagh', 'agra-shopping-guide',
+    'best-tours-in-agra',
+    'best-taj-mahal-tour', 'best-taj-mahal-sunrise-tour', 'best-full-day-agra-tour',
+    'taj-mahal-skip-the-line-tickets', 'best-taj-mahal-photography-tour',
+    'best-private-taj-mahal-tour', 'best-baby-taj-tour', 'golden-triangle-tour-india',
+    'best-agra-tour-operator', 'best-agra-tour-for-families', 'is-agra-safe-for-tourists',
+    'best-hotel-near-taj-mahal', 'taj-mahal-night-viewing-tour',
   ].map(slug => ({
     url: `${BASE_URL}/india/agra/${slug}`,
     lastModified: new Date(),
@@ -61,6 +67,11 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'places-to-visit-in-delhi', 'best-time-to-visit-delhi', 'delhi-shopping-guide',
     '2-day-delhi-itinerary', 'lotus-temple', 'akshardham-temple',
     'delhi-tours',
+    'best-tours-in-delhi',
+    'red-fort-light-and-sound-show', 'best-old-delhi-food-tour', 'best-old-delhi-rickshaw-tour',
+    'best-delhi-tour-guide', 'best-delhi-tour-for-families', 'is-delhi-safe-for-tourists',
+    'best-delhi-museum-tour', 'best-delhi-airport-layover-tour', 'best-private-delhi-tour',
+    'best-taj-mahal-guide-tour-from-delhi',
   ].map(slug => ({
     url: `${BASE_URL}/india/delhi/${slug}`,
     lastModified: new Date(),
@@ -77,6 +88,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-jaipur', '2-day-jaipur-itinerary',
     'delhi-to-jaipur', 'agra-to-jaipur',
     'jaipur-local-private-day-tour',
+    'best-tours-in-jaipur',
   ].map(slug => ({
     url: `${BASE_URL}/india/jaipur/${slug}`,
     lastModified: new Date(),
@@ -271,6 +283,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-phuket', 'phuket-beaches-guide', 'phuket-3-day-itinerary',
     'maya-bay-phuket', 'phuket-elephant-sanctuary-guide', 'phuket-food-guide',
     'phuket-diving-snorkeling-guide',
+    'best-tours-in-phuket',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/phuket/${slug}`,
     lastModified: new Date(),
@@ -357,6 +370,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'chiang-mai-3-day-itinerary', 'yi-peng-lantern-festival-chiang-mai',
     'doi-suthep-chiang-mai', 'khao-soi-chiang-mai-food-guide',
     'chiang-mai-elephant-sanctuary-guide',
+    'best-tours-in-chiang-mai',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/chiang-mai/${slug}`,
     lastModified: new Date(),
@@ -370,6 +384,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'koh-larn-island-guide', 'where-to-stay-in-pattaya',
     'best-time-to-visit-pattaya', 'nong-nooch-tropical-garden-pattaya',
     'pattaya-2-day-itinerary', 'pattaya-cabaret-shows-guide',
+    'best-tours-in-pattaya',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/pattaya/${slug}`,
     lastModified: new Date(),
@@ -404,6 +419,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'krabi-4-islands-tour-guide', 'tiger-cave-temple-krabi',
     'where-to-stay-in-krabi', 'krabi-3-day-itinerary',
     'krabi-vs-phuket-which-to-visit',
+    'best-tours-in-krabi',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/krabi/${slug}`,
     lastModified: new Date(),

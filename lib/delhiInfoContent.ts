@@ -53,6 +53,111 @@ const T_OLDDELHI = {
   image: 'https://images.asiabylocals.com/asiabylocals/tours/old-delhi-spiritual-sites-temples-private-6-hour-t/img0/1600.webp',
 };
 
+const T_FULLDAY = {
+  slug: 'delhi-full-day-tour-with-red-fort-humayuns-tomb',
+  title: 'Delhi: Full-Day Tour with Red Fort, Humayun\'s Tomb & More',
+  description: 'A top-rated Delhi experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 24',
+  duration: '8 hours',
+  image: 'https://images.asiabylocals.com/asiabylocals/tours/delhi-full-day-tour-with-red-fort-humayuns-tomb/img0/1600.webp',
+};
+
+const T_REDFORT = {
+  slug: 'delhi-jama-masjid-and-red-fort-skip-the-line',
+  title: 'Delhi: Jama Masjid and Red Fort Skip-The-Line Guided Tour',
+  description: 'A top-rated Delhi experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 11',
+  duration: '4 hours',
+  image: 'https://images.asiabylocals.com/asiabylocals/tours/delhi-jama-masjid-and-red-fort-skip-the-line/img0/1600.webp',
+};
+
+const T_STREETFOOD = {
+  slug: 'delhi-old-delhi-street-food-tour-tastings',
+  title: 'Delhi: Old Delhi Street Food Tour & Tastings',
+  description: 'A top-rated Delhi experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 36',
+  duration: '4.5 hours',
+  image: 'https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-street-food-tour-tastings/img0/1600.webp',
+};
+
+const T_QUTUBHUMAYUN = {
+  slug: 'delhi-qutub-minar-and-humayuns-tomb-private',
+  title: 'Delhi: Qutub Minar and Humayun\'s Tomb Private Guided Tour',
+  description: 'A top-rated Delhi experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 13',
+  duration: '4 hours',
+  image: 'https://images.asiabylocals.com/asiabylocals/tours/delhi-qutub-minar-and-humayuns-tomb-private/img0/1600.webp',
+};
+
+const T_NIGHT = {
+  slug: 'delhi-night-tour-with-rickshaw-ride-and-street',
+  title: 'Delhi: Night Tour with Rickshaw Ride and Street Food',
+  description: 'A top-rated Delhi experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 26',
+  duration: '3 hours',
+  image: 'https://images.asiabylocals.com/asiabylocals/tours/delhi-night-tour-with-rickshaw-ride-and-street/img0/1600.webp',
+};
+
+const T_LIGHTSOUND = {
+  slug: 'delhi-red-fort-light-and-sound-show-guided-tour',
+  title: 'Delhi: Red Fort Light and Sound Show Guided Tour',
+  description: 'A top-rated Delhi experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 33',
+  duration: '3 hours',
+  rating: '4.64', reviews: '57',
+  image: 'https://images.asiabylocals.com/asiabylocals/tours/delhi-red-fort-light-and-sound-show-guided-tour/img0/1600.webp',
+};
+
+const T_OLDDELHIFOOD = {
+  slug: 'delhi-old-delhi-street-food-heritage-tour-with',
+  title: 'Delhi: Old Delhi Street Food & Heritage Tour with Rickshaw',
+  description: 'A top-rated Delhi experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 29',
+  duration: '4 hours',
+  rating: '4.66', reviews: '137',
+  image: 'https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-street-food-heritage-tour-with/img0/1600.webp',
+};
+
+const T_LOCALLIFE = {
+  slug: 'delhi-old-delhi-slum-tour-by-metro-or-car',
+  title: 'Delhi: Old Delhi Local Life Tour by Metro or Car',
+  description: 'A top-rated Delhi experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 19',
+  duration: '2 hours',
+  rating: '4.97', reviews: '72',
+  image: 'https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-slum-tour-by-metro-or-car/img0/1600.webp',
+};
+
+const T_MUSEUM = {
+  slug: 'delhi-national-museum-tour',
+  title: 'Delhi: National Museum Tour',
+  description: 'A top-rated Delhi experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 17',
+  duration: 'Flexible',
+  rating: '5.0', reviews: '8',
+  image: 'https://images.asiabylocals.com/asiabylocals/tours/delhi-national-museum-tour/img0/1600.webp',
+};
+
+const T_AIRPORT = {
+  slug: 'delhi-airport-private-guided-layover-city-tour',
+  title: 'Delhi Airport: Private Guided Layover City Tour with Pickup',
+  description: 'A top-rated Delhi experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 60',
+  duration: '8 hours',
+  rating: '5.0', reviews: '2',
+  image: 'https://images.asiabylocals.com/asiabylocals/tours/delhi-airport-private-guided-layover-city-tour/img0/1600.webp',
+};
+
+const T_TAJFROMDELHI = {
+  slug: 'from-delhi-exclusive-taj-mahal-private-tour-with-l',
+  title: 'From Delhi Exclusive Taj Mahal Private Tour with Luxury Car',
+  description: 'A top-rated Delhi experience, bookable directly through AsiaByLocals.',
+  price: 'From USD 24',
+  duration: '10 hours',
+  rating: '4.96', reviews: '24',
+  image: 'https://images.asiabylocals.com/asiabylocals/tours/from-delhi-exclusive-taj-mahal-private-tour-with-l/img0/1600.webp',
+};
+
 export function getDelhiInfoContent(slug: string): CityInfoData | null {
   switch (slug) {
 
@@ -365,6 +470,273 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
           { q: 'How long should I allow for Akshardham?', a: 'Three hours as a minimum for the monument, an exhibition and the gardens, and closer to four if you are staying for the evening water show. It is not a stop to fit between two other sights.' },
           { q: 'When is Akshardham closed?', a: 'Mondays, the same day as the Red Fort and the Lotus Temple. The water show timing shifts with sunset through the year, so confirm it on the day rather than planning around a fixed hour.' },
         ],
+      };
+
+    case 'best-tours-in-delhi':
+      return {
+        title: 'Best Tours in Delhi — 2026, Honestly Compared',
+        seoTitle: 'Best Tours in Delhi 2026: Top-Rated Picks by Category',
+        description: 'The best Delhi tours for 2026 — Red Fort, Old Delhi street food, Qutub Minar & Humayun\'s Tomb, and night tours — with real prices and real guest reviews, not a marketing list.',
+        heroImage: 'https://images.asiabylocals.com/asiabylocals/tours/delhi-full-day-tour-with-red-fort-humayuns-tomb/img0/1600.webp',
+        sections: [
+          {
+            title: 'The Short Answer',
+            content:
+              'Delhi splits cleanly into two different cities — dense, chaotic **Old Delhi** and the wide, planned avenues of **New Delhi** — and the single biggest mistake travellers make is trying to cover both in a rushed half-day. Our top-rated option is a **full-day combo covering Red Fort, Humayun\'s Tomb and more**, which respects that split instead of fighting it.\n\nBelow is our honest, by-category breakdown — real tours, real prices, real reviews.',
+            tourCard: { ...T_FULLDAY, rating: '5.0', reviews: '3' },
+          },
+          {
+            title: 'Best Old Delhi Heritage Tour',
+            content:
+              'Jama Masjid and the Red Fort sit a short walk apart in the heart of Old Delhi, and a **skip-the-line guided tour** of both is the highest-rated way to see Mughal Delhi\'s two defining monuments without losing half the morning to entry queues.',
+            tourCard: { ...T_REDFORT, rating: '5.0', reviews: '1' },
+          },
+          {
+            title: 'Best Street Food Tour',
+            content:
+              'Old Delhi\'s lanes around Chandni Chowk hold some of North India\'s best street food, and the top-rated **Old Delhi street food tour** takes you through tastings most visitors would never find or order on their own — parathas, chaat and sweets from stalls that have no English menu and no reason to need one.',
+            tourCard: { ...T_STREETFOOD, rating: '5.0', reviews: '1' },
+          },
+          {
+            title: 'Best New Delhi Heritage Tour',
+            content:
+              'For the planned, colonial-era half of the city, a **private guided tour of Qutub Minar and Humayun\'s Tomb** pairs Delhi\'s tallest minaret with the garden-tomb that architecturally previewed the Taj Mahal, decades before it was built.',
+            tourCard: { ...T_QUTUBHUMAYUN, rating: '5.0', reviews: '1' },
+          },
+          {
+            title: 'Best Night Tour in Delhi',
+            content:
+              'Delhi after dark trades the daytime heat and traffic for a different city entirely — the top-rated night option pairs a **cycle-rickshaw ride through Old Delhi\'s lanes** with street food stops, which is both the most atmospheric way to see the old city and the most sensible time to eat your way through it.',
+            tourCard: { ...T_NIGHT, rating: '4.0', reviews: '4' },
+          },
+          {
+            title: 'How We Picked These (and Why There\'s No Price Table vs. Other Platforms)',
+            content:
+              'Every tour above runs with a local guide we\'ve vetted directly. We left out a price comparison against GetYourGuide or Viator deliberately: several of these tours are run by the same local guide or operator reselling across platforms at a similar rate, since the guide sets the price, not us — a price table there would mostly compare marketing margins, not quality.\n\nWhat we do differently: every booking is confirmed with the guide directly before it\'s treated as final. If you\'d rather browse the full catalogue yourself, see [all Delhi tours](/india/delhi).',
+          },
+        ],
+        faqs: [
+          { q: 'What is the best tour in Delhi?', a: 'A full-day combo covering Red Fort, Humayun\'s Tomb and more is our highest-rated single Delhi tour — it respects the Old Delhi / New Delhi split instead of rushing both in one short visit.' },
+          { q: 'What is the best Old Delhi tour?', a: 'A skip-the-line guided tour of Jama Masjid and the Red Fort together — they sit a short walk apart and the queues at both can eat a whole morning without a guide managing entry.' },
+          { q: 'What is the best street food tour in Delhi?', a: 'A guided Old Delhi street food tour through the lanes around Chandni Chowk, covering stalls with no English menu that most visitors would never find or order from alone.' },
+          { q: 'Should I book a guided tour or just hire a car in Delhi?', a: 'A guide adds real value at the Red Fort and Humayun\'s Tomb specifically, where the history explains what you\'re looking at. A private car without a guide suits travellers who already know the city and just need transport.' },
+          { q: 'Which days should I avoid for a Delhi tour?', a: 'Monday — the Red Fort, Lotus Temple and Akshardham all close. Qutub Minar, Humayun\'s Tomb, Jama Masjid and India Gate stay open, so a Monday tour built around those still works.' },
+        ],
+        jsonLd: {
+          '@context': 'https://schema.org',
+          '@graph': [
+            {
+              '@type': 'FAQPage',
+              mainEntity: [
+                { '@type': 'Question', name: 'What is the best tour in Delhi?', acceptedAnswer: { '@type': 'Answer', text: 'A full-day combo covering Red Fort, Humayun\'s Tomb and more is our highest-rated single Delhi tour.' } },
+                { '@type': 'Question', name: 'What is the best Old Delhi tour?', acceptedAnswer: { '@type': 'Answer', text: 'A skip-the-line guided tour of Jama Masjid and the Red Fort together.' } },
+                { '@type': 'Question', name: 'Which days should I avoid for a Delhi tour?', acceptedAnswer: { '@type': 'Answer', text: 'Monday — the Red Fort, Lotus Temple and Akshardham all close.' } },
+              ],
+            },
+          ],
+        },
+        fastFacts: [
+          { icon: 'star', label: 'Top Pick', value: 'Red Fort + Humayun\'s Tomb Combo' },
+          { icon: 'utensils', label: 'Best Food Tour', value: 'Old Delhi Street Food' },
+          { icon: 'calendar-x', label: 'Avoid', value: 'Mondays (major sites closed)' },
+        ],
+      };
+
+    // ================================================================ DELHI GEO SINGLE-TOPIC PAGES
+    case 'red-fort-light-and-sound-show':
+      return {
+        title: 'Red Fort Light and Sound Show — 2026 Guide',
+        seoTitle: 'Red Fort Light and Sound Show Delhi 2026',
+        description: "Delhi's evening Red Fort light and sound show — what it covers, why it's one of the city's highest-rated evening tours, and how to book it.",
+        heroImage: T_LIGHTSOUND.image,
+        sections: [
+          {
+            title: "Delhi's Highest-Rated Evening Experience",
+            content: "The Red Fort's evening **light and sound show** narrates the fort's history — Mughal grandeur, the 1857 uprising, Independence — projected across the same sandstone walls Shah Jahan built in the 1600s. It's a genuinely different experience from a daytime fort visit: the storytelling format makes centuries of history land in a way a self-guided walk usually doesn't.\n\nThis is one of the most reviewed single tours on our entire Delhi platform — **57 real guest reviews** — which tells you how consistently it delivers for an evening slot most visitors don't think to book until they're already in the city.",
+            tourCard: T_LIGHTSOUND,
+          },
+        ],
+        faqs: [
+          { q: 'Is the Red Fort light and sound show worth it?', a: "Yes — it's one of Delhi's highest-rated evening experiences, narrating the fort's history across the same walls it happened on. It suits travellers who've already done a daytime Red Fort visit and want the fuller story." },
+          { q: 'How long is the Red Fort light and sound show?', a: 'The guided version runs about 3 hours including transport and the show itself.' },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'Is the Red Fort light and sound show worth it?', acceptedAnswer: { '@type': 'Answer', text: "Yes — it's one of Delhi's highest-rated evening experiences." } }] }] },
+      };
+
+    case 'best-old-delhi-food-tour':
+      return {
+        title: 'Best Old Delhi Food Tour — 2026',
+        seoTitle: 'Best Old Delhi Food Tour 2026',
+        description: "Old Delhi's street food scene around Chandni Chowk, and the top-rated guided food tour — rated by 137 real guests.",
+        heroImage: T_OLDDELHIFOOD.image,
+        sections: [
+          {
+            title: 'The Highest-Rated Tour on Our Platform',
+            content: "Old Delhi's lanes around **Chandni Chowk** hold some of North India's best street food — parathas, chaat, jalebi and sweets from stalls with no English menu and no reason to need one. The top-rated option combines the eating with a **rickshaw ride** and the surrounding heritage sites, so you're not just eating, you're seeing the neighbourhood the food comes from.\n\nWith **137 verified guest reviews** at a 4.66 average, this is one of the most-reviewed single tours anywhere on our platform — real social proof, not a marketing claim.",
+            tourCard: T_OLDDELHIFOOD,
+          },
+        ],
+        faqs: [
+          { q: 'What is the best Old Delhi food tour?', a: 'A guided street food and heritage tour through Chandni Chowk with a rickshaw ride included — rated 4.66 from 137 real guest reviews, one of the most-reviewed tours on our platform.' },
+          { q: 'Is Old Delhi street food safe to eat on a tour?', a: "Yes, when guided — a local guide knows which stalls are consistently busy (and therefore fresh) and orders on your behalf, which is the main safeguard against an upset stomach." },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'What is the best Old Delhi food tour?', acceptedAnswer: { '@type': 'Answer', text: 'A guided street food and heritage tour through Chandni Chowk with a rickshaw ride, rated 4.66 from 137 reviews.' } }] }] },
+      };
+
+    case 'best-old-delhi-rickshaw-tour':
+      return {
+        title: 'Best Old Delhi Rickshaw & Heritage Walk Tour — 2026',
+        seoTitle: 'Best Old Delhi Rickshaw Tour 2026',
+        description: "The best way to see Old Delhi's real neighbourhood life by rickshaw, and why it's one of the highest-rated tours on our platform.",
+        heroImage: T_LOCALLIFE.image,
+        sections: [
+          {
+            title: "Real Neighbourhood Life, Not a Monument Checklist",
+            content: "Beyond the Red Fort and Jama Masjid, Old Delhi is a dense, living neighbourhood — narrow lanes, working markets, and communities that have been there for generations. A guided tour **by rickshaw or metro** through these backstreets shows a side of the city most visitors never see from a tour bus window, with a local guide providing honest context rather than a sanitised version.\n\nThis tour carries **72 verified guest reviews at a 4.97 average** — one of the best-rated single tours on our entire platform, in any city.",
+            tourCard: T_LOCALLIFE,
+          },
+        ],
+        faqs: [
+          { q: 'What is the best way to see Old Delhi beyond the main monuments?', a: 'A guided rickshaw or metro tour through the backstreets and local markets, rated 4.97 from 72 reviews — one of the highest-rated tours on our entire platform.' },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'What is the best way to see Old Delhi beyond the main monuments?', acceptedAnswer: { '@type': 'Answer', text: 'A guided rickshaw or metro tour through the backstreets and local markets, rated 4.97 from 72 reviews.' } }] }] },
+      };
+
+    case 'best-delhi-tour-guide':
+      return {
+        title: 'Best Delhi Tour Guide — How to Choose (2026)',
+        seoTitle: 'Best Delhi Tour Guide 2026: How to Choose',
+        description: "What to look for in a Delhi tour guide, roughly what a licensed guide should cost, and the top-rated full-day option.",
+        heroImage: T_FULLDAY.image,
+        sections: [
+          {
+            title: 'What Actually Separates a Good Delhi Guide',
+            content: "A good Delhi guide does two things a map can't: explains the Mughal and colonial-era history behind the monuments, and manages the city's genuinely difficult geography — Old and New Delhi are different eras laid out in different street patterns, and a route that zigzags between them wastes hours in traffic.\n\nWe deliberately don't claim to be the cheapest option for Delhi guides. What we do differently: every booking is confirmed with the guide directly before it's treated as final, and the itinerary order is planned around geography, not just a list of stops.",
+            tourCard: T_FULLDAY,
+          },
+        ],
+        faqs: [
+          { q: 'How do I choose a good Delhi tour guide?', a: 'Look for someone who plans the route around geography (Old Delhi and New Delhi separately, not zigzagging between them) and can explain the Mughal and colonial-era history behind the monuments, not just name them.' },
+          { q: 'Is it safe to hire a guide in Delhi?', a: 'Yes, when booked in advance through a verified operator — the risk is with unofficial guides who approach you at a monument gate, not with a pre-booked, confirmed guide.' },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'How do I choose a good Delhi tour guide?', acceptedAnswer: { '@type': 'Answer', text: 'Look for someone who plans the route around geography and can explain the history behind the monuments.' } }] }] },
+      };
+
+    case 'best-delhi-tour-for-families':
+      return {
+        title: 'Best Delhi Tour for Families — 2026',
+        seoTitle: 'Best Delhi Tour for Families 2026',
+        description: "What makes a Delhi tour work for families with kids or older relatives, and the top-rated flexible full-day option.",
+        heroImage: T_FULLDAY.image,
+        sections: [
+          {
+            title: 'What Makes a Family Tour Work in Delhi',
+            content: "Delhi's distances and heat make pacing the biggest factor for families — a private tour that can shorten walking, add breaks, and skip sites that won't hold young kids' attention works far better than a fixed-schedule group tour. The full-day combo covering Red Fort and Humayun's Tomb is flexible enough to adapt on the day, with transport and entries handled so parents aren't managing logistics.",
+            tourCard: T_FULLDAY,
+          },
+        ],
+        faqs: [
+          { q: 'What is the best Delhi tour format for families?', a: "A private, flexible full-day tour that can add rest breaks and adjust pace for kids or older relatives — Delhi's distances and heat make this more important than in a compact city." },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'What is the best Delhi tour format for families?', acceptedAnswer: { '@type': 'Answer', text: 'A private, flexible full-day tour that can add rest breaks and adjust pace.' } }] }] },
+      };
+
+    case 'is-delhi-safe-for-tourists':
+      return {
+        title: 'Is Delhi Safe for Tourists? — 2026 Honest Guide',
+        seoTitle: 'Is Delhi Safe for Tourists? 2026 Guide',
+        description: "The real safety situation for tourists in Delhi, common scams, and how a pre-booked guide avoids most of them.",
+        heroImage: T_REDFORT.image,
+        sections: [
+          {
+            title: 'The Honest Answer',
+            content: "Delhi is generally safe for tourists in the areas you'll actually visit — Old Delhi's monuments, Connaught Place, India Gate and the main museums all see heavy daily foot traffic. The realistic risks are the same pattern as most high-tourist Indian cities: unofficial guides at monument gates, auto-rickshaw drivers who don't use meters reliably, and the occasional fake-shop detour.\n\nA pre-booked, confirmed guide and transport sidesteps nearly all of this, since the itinerary and pricing are agreed before you arrive. As anywhere, standard city-travel caution applies more at night and in less touristed areas.",
+            tourCard: T_REDFORT,
+          },
+        ],
+        faqs: [
+          { q: 'Is Delhi safe for tourists?', a: "Generally yes in the main tourist areas, which see heavy daily foot traffic. The realistic risks are unofficial guides and unmetered auto-rickshaws, not violent crime." },
+          { q: 'How do I avoid common Delhi tourist scams?', a: 'Book a guide and transport in advance rather than arranging on arrival, and agree auto-rickshaw fares before getting in or insist on the meter.' },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'Is Delhi safe for tourists?', acceptedAnswer: { '@type': 'Answer', text: 'Generally yes in the main tourist areas, which see heavy daily foot traffic.' } }] }] },
+      };
+
+    case 'best-delhi-museum-tour':
+      return {
+        title: 'Best Delhi Museum Tour — 2026',
+        seoTitle: 'Best Delhi Museum Tour 2026',
+        description: "Delhi's top-rated museum tour and why it's a smart addition to a Delhi itinerary, especially on a Monday.",
+        heroImage: T_MUSEUM.image,
+        sections: [
+          {
+            title: "A Smart Add-On, Especially on Mondays",
+            content: "The **National Museum** tour is Delhi's top-rated museum experience — a guided walk through one of India's largest artefact collections, from Indus Valley archaeology to Mughal miniatures. It's also a genuinely useful Monday option: while the Red Fort, Lotus Temple and Akshardham all close that day, major museums typically stay open.",
+            tourCard: T_MUSEUM,
+          },
+        ],
+        faqs: [
+          { q: 'What is the best museum tour in Delhi?', a: 'A guided National Museum tour, rated 5.0 by guests — it covers one of India\'s largest artefact collections and is a smart Monday option when the main monuments are closed.' },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'What is the best museum tour in Delhi?', acceptedAnswer: { '@type': 'Answer', text: 'A guided National Museum tour, rated 5.0 by guests.' } }] }] },
+      };
+
+    case 'best-delhi-airport-layover-tour':
+      return {
+        title: 'Best Delhi Airport Layover Tour — 2026',
+        seoTitle: 'Best Delhi Airport Layover Tour 2026',
+        description: "How to turn a long Delhi airport layover into a city tour, and the top-rated private layover option with pickup.",
+        heroImage: T_AIRPORT.image,
+        sections: [
+          {
+            title: 'Turning a Layover Into a City Tour',
+            content: "If your layover at Delhi's IGI Airport runs **6+ hours**, it's genuinely enough time to see Old and New Delhi highlights and return comfortably before your next flight, as long as the tour is built specifically for layover timing — airport pickup, a tight route, and a guide who tracks your return flight time. The top-rated option handles all of that directly from the terminal.",
+            tourCard: T_AIRPORT,
+          },
+        ],
+        faqs: [
+          { q: 'Can I leave Delhi airport during a layover to see the city?', a: 'Yes, with the right visa/transit arrangements and a layover of roughly 6+ hours — a guided layover tour with airport pickup is built specifically around getting you back in time for your next flight.' },
+          { q: 'How long a layover do I need for a Delhi city tour?', a: 'At least 6 hours is the realistic minimum once you account for immigration, transport and return check-in time.' },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'Can I leave Delhi airport during a layover to see the city?', acceptedAnswer: { '@type': 'Answer', text: 'Yes, with a layover of roughly 6+ hours and the right transit arrangements.' } }] }] },
+      };
+
+    case 'best-private-delhi-tour':
+      return {
+        title: 'Best Private Delhi Tour — 2026',
+        seoTitle: 'Best Private Delhi Tour 2026',
+        description: "What a private Delhi tour gets you over a group tour, and the top-rated private full-day option.",
+        heroImage: T_FULLDAY.image,
+        sections: [
+          {
+            title: 'What "Private" Actually Buys You in Delhi',
+            content: "A private Delhi tour means your own guide and vehicle, set to your pace rather than a shared bus schedule — which matters especially in Delhi, where Old and New Delhi require different modes of getting around (narrow lanes on foot or rickshaw versus wide avenues by car). The top-rated private option covers Red Fort and Humayun's Tomb with full flexibility on timing.",
+            tourCard: T_FULLDAY,
+          },
+        ],
+        faqs: [
+          { q: 'Is a private Delhi tour worth it over a group tour?', a: "Yes for most travellers — Delhi's split between dense Old Delhi lanes and spread-out New Delhi avenues means a private, flexible pace handles the city better than a fixed group schedule." },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'Is a private Delhi tour worth it over a group tour?', acceptedAnswer: { '@type': 'Answer', text: "Yes for most travellers, given Delhi's split between dense Old Delhi and spread-out New Delhi." } }] }] },
+      };
+
+    case 'best-taj-mahal-guide-tour-from-delhi':
+      return {
+        title: 'Best Taj Mahal Guide & Tour from Delhi — 2026',
+        seoTitle: 'Best Taj Mahal Tour from Delhi 2026',
+        description: "The best way to see the Taj Mahal as a Delhi-based traveller — private car vs train, and the top-rated private day tour.",
+        heroImage: T_TAJFROMDELHI.image,
+        sections: [
+          {
+            title: 'Private Car vs Train from Delhi',
+            content: "For most Delhi-based travellers, a **private car tour** to the Taj Mahal is the most flexible option — roughly 3-4 hours each way by road, with a licensed guide and no train schedule to work around. The **Gatimaan Express** is faster (under 2 hours) but ties you to fixed departure and return times. If you want to set your own pace at the Taj Mahal rather than rushing to catch a train back, the private car option is the better fit.",
+            tourCard: T_TAJFROMDELHI,
+          },
+        ],
+        faqs: [
+          { q: 'What is the best way to see the Taj Mahal from Delhi?', a: 'A private car day tour with a licensed guide — roughly 3-4 hours each way, with full flexibility on timing at the Taj Mahal itself, unlike a train that ties you to fixed departure times.' },
+          { q: 'Is it better to take the train or drive to Agra from Delhi?', a: 'The Gatimaan Express is faster (under 2 hours) but fixes your schedule. A private car takes longer but lets you set your own pace at the Taj Mahal and Agra Fort.' },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'What is the best way to see the Taj Mahal from Delhi?', acceptedAnswer: { '@type': 'Answer', text: 'A private car day tour with a licensed guide, roughly 3-4 hours each way.' } }] }] },
       };
 
     default:

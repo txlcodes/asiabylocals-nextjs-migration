@@ -488,6 +488,70 @@ export function getPattayaInfoContent(slug: string): CityInfoData | null {
                 ]
             };
 
+        case "best-tours-in-pattaya":
+            return {
+                title: "Best Tours in Pattaya — 2026, Honestly Compared",
+                seoTitle: "Best Tours in Pattaya 2026: Top-Rated Picks by Category",
+                description: "The best Pattaya tours for 2026 — Coral Island, ethical elephants, Sanctuary of Truth and cabaret shows — with real prices, real reviews, and an honest note on how we chose them.",
+                heroImage: IMG.elephants,
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Pattaya's reputation undersells it — our highest-rated single tour is a **no-riding ethical elephant sanctuary** in the Chonburi countryside, not a beach or nightlife activity. Pair it with the Sanctuary of Truth (the city's genuine architectural landmark) for a trip that looks nothing like Pattaya's stereotype.\n\nBelow is our honest, by-category breakdown — real tours, real prices, real guest reviews.",
+                        tourCard: CARD.elephants
+                    },
+                    {
+                        title: "Best Island Tour",
+                        content: "**Koh Larn**, 7 km offshore, is Pattaya's easiest beach escape — turquoise water a world away from the mainland strip, reachable by a short speedboat hop with lunch included. For quieter outer islands with fewer day-trippers, the catamaran cruise to Koh Sak and Koh Phai is the upgrade.",
+                        tourCard: CARD.kohLarn
+                    },
+                    {
+                        title: "Best Cultural Landmark Tour",
+                        content: "The **Sanctuary of Truth** — a 105-metre all-teak structure built without a single nail, and deliberately left permanently unfinished — is Pattaya's most genuine architectural attraction and the highest-rated single ticket on our platform.",
+                        tourCard: CARD.sanctuary
+                    },
+                    {
+                        title: "Best Sunset Activity",
+                        content: "Pattaya's best three hours happen at dusk: **Big Buddha Hill**, the bay viewpoint, and the marina night market in one trip — the sunset version of the city most visitors never plan for because they're focused on the beach during the day.",
+                        tourCard: CARD.bigBuddha
+                    },
+                    {
+                        title: "Best Show",
+                        content: "**Tiffany's Show** has run since 1974 and remains Pattaya's genuine cabaret institution — sequins, full production numbers, and a dinner-plus-VIP-seat package that's the top-rated evening show on our platform.",
+                        tourCard: CARD.tiffany
+                    },
+                    {
+                        title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+                        content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against GetYourGuide, Viator or Klook: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Pattaya tours](/thailand/pattaya)."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best tour in Pattaya?", a: "A no-riding ethical elephant sanctuary day trip in the Chonburi countryside is our highest-rated single Pattaya tour, rated 4.9." },
+                    { q: "What is the best island to visit from Pattaya?", a: "Koh Larn (Coral Island) for an easy, short speedboat trip with turquoise water. For fewer crowds, a catamaran cruise to the outer islands Koh Sak and Koh Phai is the upgrade." },
+                    { q: "Is the Sanctuary of Truth worth visiting?", a: "Yes — it's Pattaya's most genuine architectural landmark: a 105-metre all-teak structure built without a single nail, deliberately left permanently unfinished." },
+                    { q: "What is the best show in Pattaya?", a: "Tiffany's Show, a cabaret institution running since 1974, with dinner and VIP seating packages available." },
+                    { q: "Is Pattaya worth visiting beyond the nightlife?", a: "Yes — ethical elephant sanctuaries, island day trips, the Sanctuary of Truth, and Nong Nooch's botanical gardens are all genuine, well-rated attractions that have nothing to do with Pattaya's nightlife reputation." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@graph": [
+                        {
+                            "@type": "FAQPage",
+                            "mainEntity": [
+                                { "@type": "Question", "name": "What is the best tour in Pattaya?", "acceptedAnswer": { "@type": "Answer", "text": "A no-riding ethical elephant sanctuary day trip in the Chonburi countryside, rated 4.9." } },
+                                { "@type": "Question", "name": "What is the best island to visit from Pattaya?", "acceptedAnswer": { "@type": "Answer", "text": "Koh Larn (Coral Island) for an easy short trip; the outer islands by catamaran for fewer crowds." } },
+                                { "@type": "Question", "name": "Is the Sanctuary of Truth worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — a 105-metre all-teak structure built without a single nail, deliberately left permanently unfinished." } }
+                            ]
+                        }
+                    ]
+                },
+                fastFacts: [
+                    { icon: 'Star', label: 'Top Pick', value: 'Ethical Elephant Sanctuary' },
+                    { icon: 'Landmark', label: 'Must-See', value: 'Sanctuary of Truth' },
+                    { icon: 'Waves', label: 'Best Island', value: 'Koh Larn' }
+                ]
+            };
+
         default:
             return null;
     }

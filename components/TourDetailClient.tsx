@@ -2904,14 +2904,14 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
 
                       {/* Contact Support for custom/larger groups */}
                       <div className="mt-2 text-[13px] font-semibold text-gray-500 bg-gray-50 p-3 rounded-xl border border-gray-100 italic">
-                        Need a custom booking or have a larger group?
+                        Questions before you book? Ask us anything about this tour, any time. A real person replies, no bots. Larger group or custom booking? Ask us too.
                         <a
                           href="https://wa.me/918449538716"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="text-[#10B981] ml-1 hover:underline flex items-center gap-1 mt-1 font-black text-[16px] not-italic"
                         >
-                          Contact Support via WhatsApp
+                          Ask a question on WhatsApp
                         </a>
                         <div className="text-[13px] font-bold text-gray-500 mt-1 not-italic">
                           We reply within 5 minutes
@@ -3825,7 +3825,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
               {/* Support Section - Outside Form */}
               <div className="mt-6 pt-4 border-t border-gray-200">
                 <div className="bg-[#F0FDF4] border-2 border-[#10B981] rounded-xl p-5">
-                  <p className="text-[14px] text-gray-800 font-black text-center mb-2">Need help? Contact our support:</p>
+                  <p className="text-[14px] text-gray-800 font-black text-center mb-2">Not sure yet? Ask us before you book. A real person replies:</p>
                   <p className="text-[13px] text-[#10B981] font-black text-center mb-4">Available 24/7 on WhatsApp support</p>
                   <div className="flex items-center justify-center gap-4">
                     <a

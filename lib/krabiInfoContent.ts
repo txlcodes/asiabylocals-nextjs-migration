@@ -425,6 +425,70 @@ export function getKrabiInfoContent(slug: string): CityInfoData | null {
                 ]
             };
 
+        case "best-tours-in-krabi":
+            return {
+                title: "Best Tours in Krabi — 2026, Honestly Compared",
+                seoTitle: "Best Tours in Krabi 2026: Top-Rated Picks by Category",
+                description: "The best Krabi tours for 2026 — the classic 4-island circuit, Hong Island, Tiger Cave Temple and mangrove kayaking — with real prices and an honest note on how we chose them.",
+                heroImage: IMG.fourIsland,
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Krabi's signature day is the **classic 4-island tour** — Phra Nang Cave Beach, Chicken Island, Tup and Poda — and it's the right first-day choice for almost every visitor. If you want the same limestone-karst scenery with noticeably fewer tour boats, Hong Island is the upgrade below.\n\nBelow is our honest, by-category breakdown — real tours, real prices, no inflated claims.",
+                        tourCard: CARD.fourIsland
+                    },
+                    {
+                        title: "Best Island Tour for Fewer Crowds",
+                        content: "**Hong Island**'s enclosed emerald lagoon and beach see noticeably fewer boats than the classic 4-island circuit, and many visitors who've done both call it the prettier of the two. The trade-off is a slightly longer speedboat ride to get there.",
+                        tourCard: CARD.hong
+                    },
+                    {
+                        title: "Best Inland Day Trip",
+                        content: "Away from the water, **Tiger Cave Temple** combines a 1,260-step climb to a summit Buddha with jungle pools at the Emerald Pool and hot springs — Krabi's entire inland day in one trip, for travellers who want a break from island-hopping.",
+                        tourCard: CARD.tigerCave
+                    },
+                    {
+                        title: "Best for Avoiding Crowds Entirely",
+                        content: "**Ao Thalane**'s mangrove-lined tidal channels between limestone karsts are Krabi's quietest, most local half-day — paddled by kayak, with none of the speedboat traffic that the island tours bring.",
+                        tourCard: CARD.kayak
+                    },
+                    {
+                        title: "Best Day Trip to Phi Phi from Krabi",
+                        content: "Krabi sits close enough to Phi Phi to beat the Phuket fleet there — the **early-bird 4-island speedboat route** reaches Maya Bay before the bulk of day-trippers arrive, then takes in the Krabi islands on the way home.",
+                        tourCard: CARD.phiPhi
+                    },
+                    {
+                        title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+                        content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against GetYourGuide, Viator or Klook: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Krabi tours](/thailand/krabi)."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best tour in Krabi?", a: "The classic 4-island tour — Phra Nang Cave Beach, Chicken Island, Tup and Poda — is Krabi's signature day and the right first choice for most visitors." },
+                    { q: "Hong Island or the 4-island tour: which is better?", a: "The 4-island tour is the classic, more popular route. Hong Island's enclosed lagoon sees fewer boats and many repeat visitors consider it prettier — it suits a second day more than a first." },
+                    { q: "What is the best inland tour in Krabi?", a: "Tiger Cave Temple combined with the Emerald Pool and hot springs — a 1,260-step climb to a summit Buddha followed by jungle pools, Krabi's complete inland day." },
+                    { q: "Can I visit Phi Phi from Krabi?", a: "Yes — an early-bird speedboat tour reaches Maya Bay ahead of the Phuket-based fleet, then visits the Krabi islands on the way back." },
+                    { q: "What is the quietest tour in Krabi?", a: "Mangrove kayaking at Ao Thalane, paddling tidal channels between limestone karsts with none of the speedboat traffic the island tours bring." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@graph": [
+                        {
+                            "@type": "FAQPage",
+                            "mainEntity": [
+                                { "@type": "Question", "name": "What is the best tour in Krabi?", "acceptedAnswer": { "@type": "Answer", "text": "The classic 4-island tour — Phra Nang Cave Beach, Chicken Island, Tup and Poda — is Krabi's signature day." } },
+                                { "@type": "Question", "name": "Hong Island or the 4-island tour: which is better?", "acceptedAnswer": { "@type": "Answer", "text": "The 4-island tour is the classic route; Hong Island sees fewer boats and suits a second day." } },
+                                { "@type": "Question", "name": "Can I visit Phi Phi from Krabi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — an early-bird speedboat tour reaches Maya Bay ahead of the Phuket-based fleet." } }
+                            ]
+                        }
+                    ]
+                },
+                fastFacts: [
+                    { icon: 'Star', label: 'Top Pick', value: 'Classic 4-Island Tour' },
+                    { icon: 'Waves', label: 'Fewer Crowds', value: 'Hong Island' },
+                    { icon: 'Mountain', label: 'Best Inland', value: 'Tiger Cave Temple' }
+                ]
+            };
+
         default:
             return null;
     }

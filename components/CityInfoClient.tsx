@@ -43,6 +43,20 @@ const AGRA_SIDEBAR = [
     { name: 'Opening Times', slug: 'taj-mahal-opening-time' },
     { name: 'Friday Strategy', slug: 'is-taj-mahal-closed-on-friday' },
     { name: 'Master Guide', slug: 'agra-travel-guide-2026' },
+    { name: 'Best Tours in Agra', slug: 'best-tours-in-agra' },
+    { name: 'Best Taj Mahal Tour', slug: 'best-taj-mahal-tour' },
+    { name: 'Best Sunrise Tour', slug: 'best-taj-mahal-sunrise-tour' },
+    { name: 'Best Full-Day Tour', slug: 'best-full-day-agra-tour' },
+    { name: 'Skip-the-Line Tickets', slug: 'taj-mahal-skip-the-line-tickets' },
+    { name: 'Best Photography Tour', slug: 'best-taj-mahal-photography-tour' },
+    { name: 'Best Private Tour', slug: 'best-private-taj-mahal-tour' },
+    { name: 'Best Baby Taj Tour', slug: 'best-baby-taj-tour' },
+    { name: 'Golden Triangle Tour', slug: 'golden-triangle-tour-india' },
+    { name: 'Best Tour Operator', slug: 'best-agra-tour-operator' },
+    { name: 'Best Tour for Families', slug: 'best-agra-tour-for-families' },
+    { name: 'Is Agra Safe?', slug: 'is-agra-safe-for-tourists' },
+    { name: 'Best Hotels Near Taj Mahal', slug: 'best-hotel-near-taj-mahal' },
+    { name: 'Night Viewing Tour', slug: 'taj-mahal-night-viewing-tour' },
 ];
 
 const DELHI_SIDEBAR = [
@@ -53,6 +67,17 @@ const DELHI_SIDEBAR = [
     { name: 'India Gate', slug: 'india-gate' },
     { name: 'Things to Do', slug: 'things-to-do-in-delhi' },
     { name: '1-Day Itinerary', slug: 'delhi-1-day-itinerary' },
+    { name: 'Best Tours in Delhi', slug: 'best-tours-in-delhi' },
+    { name: 'Red Fort Light & Sound Show', slug: 'red-fort-light-and-sound-show' },
+    { name: 'Best Old Delhi Food Tour', slug: 'best-old-delhi-food-tour' },
+    { name: 'Best Old Delhi Rickshaw Tour', slug: 'best-old-delhi-rickshaw-tour' },
+    { name: 'Best Delhi Tour Guide', slug: 'best-delhi-tour-guide' },
+    { name: 'Best Tour for Families', slug: 'best-delhi-tour-for-families' },
+    { name: 'Is Delhi Safe?', slug: 'is-delhi-safe-for-tourists' },
+    { name: 'Best Museum Tour', slug: 'best-delhi-museum-tour' },
+    { name: 'Best Airport Layover Tour', slug: 'best-delhi-airport-layover-tour' },
+    { name: 'Best Private Tour', slug: 'best-private-delhi-tour' },
+    { name: 'Best Taj Mahal Tour from Delhi', slug: 'best-taj-mahal-guide-tour-from-delhi' },
 ];
 
 const JAIPUR_SIDEBAR = [
@@ -64,6 +89,7 @@ const JAIPUR_SIDEBAR = [
     { name: 'City Palace', slug: 'city-palace-jaipur' },
     { name: 'Nahargarh Fort', slug: 'nahargarh-fort' },
     { name: 'Places to Visit', slug: 'places-to-visit-in-jaipur' },
+    { name: 'Best Tours in Jaipur', slug: 'best-tours-in-jaipur' },
 ];
 
 const KUALA_LUMPUR_SIDEBAR = [
@@ -652,6 +678,7 @@ const PHUKET_SIDEBAR = [
     { name: 'Elephant Sanctuaries', slug: 'phuket-elephant-sanctuary-guide' },
     { name: 'Food Guide', slug: 'phuket-food-guide' },
     { name: 'Diving & Snorkeling', slug: 'phuket-diving-snorkeling-guide' },
+    { name: 'Best Tours in Phuket', slug: 'best-tours-in-phuket' },
 ];
 
 const CHIANG_MAI_SIDEBAR = [
@@ -662,6 +689,7 @@ const CHIANG_MAI_SIDEBAR = [
     { name: 'Yi Peng Lantern Festival', slug: 'yi-peng-lantern-festival-chiang-mai' },
     { name: 'Khao Soi & Food Guide', slug: 'khao-soi-chiang-mai-food-guide' },
     { name: 'Elephant Sanctuaries', slug: 'chiang-mai-elephant-sanctuary-guide' },
+    { name: 'Best Tours in Chiang Mai', slug: 'best-tours-in-chiang-mai' },
 ];
 
 const PATTAYA_SIDEBAR = [
@@ -673,6 +701,7 @@ const PATTAYA_SIDEBAR = [
     { name: 'Nong Nooch Garden', slug: 'nong-nooch-tropical-garden-pattaya' },
     { name: '2-Day Itinerary', slug: 'pattaya-2-day-itinerary' },
     { name: 'Cabaret Shows', slug: 'pattaya-cabaret-shows-guide' },
+    { name: 'Best Tours in Pattaya', slug: 'best-tours-in-pattaya' },
 ];
 
 const PHNOM_PENH_SIDEBAR = [
@@ -732,6 +761,7 @@ const KRABI_SIDEBAR = [
     { name: 'Where to Stay', slug: 'where-to-stay-in-krabi' },
     { name: '3-Day Itinerary', slug: 'krabi-3-day-itinerary' },
     { name: 'Krabi vs Phuket', slug: 'krabi-vs-phuket-which-to-visit' },
+    { name: 'Best Tours in Krabi', slug: 'best-tours-in-krabi' },
 ];
 
 /** "Sri Lanka" -> "sri-lanka". toLowerCase() alone leaves the space in the URL. */
