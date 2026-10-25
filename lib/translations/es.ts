@@ -58341,6 +58341,90 @@ export const ES_TOURS: Record<string, TourT> = {
    "Las bebidas alcoholicas mas alla de lo especificado por cada establecimiento individual no estan incluidas"
   ]
  },
+ "kyoto-experience-guided-tour": {
+  "title": "Experiencia Wagyu en Kioto: un viaje a la mejor carne de Japon",
+  "metaTitle": "Experiencia Wagyu en Kioto",
+  "metaDescription": "Una excursion de dia completo al campo de Kioto hasta una granja de ganado Tajima, con un taller de soba o mochi y la galeria de carne de Kobe.",
+  "shortDescription": "Una excursion de dia completo al campo de Kioto hasta una granja de ganado Tajima, con un taller de soba o mochi y la galeria de carne de Kobe.",
+  "fullDescription": "La mayoria de los visitantes comen carne de Kobe o Wagyu en Kioto sin ver nunca de donde viene, y eso es exactamente el vacio que llena este tour. En lugar de otro dia saltando entre templos, esta es una excursion de dia completo al campo de Kioto hacia una granja de ganado Tajima en funcionamiento, siendo Tajima el linaje de raza especifico detras de lo que eventualmente se convierte en carne de Kobe una vez que cumple con estrictos estandares de certificacion regional. Conocera a los animales, aprendera directamente del granjero sobre el cuidado meticuloso que implica criarlos, y entendera exactamente por que esta carne cuesta lo que cuesta cuando llega a un plato en la ciudad. Desde la granja, el dia cambia hacia algo practico: un taller de elaboracion de soba o mochi que lo pone a trabajar masa o harina de trigo sarraceno con sus propias manos, un contraste terrenal frente al marco de lujo de la carne misma. El dia termina en la Galeria de Carne de Kobe, donde el panorama completo se junta, el sistema de clasificacion, los estandares de veteado, la diferencia entre la verdadera carne de Kobe certificada y la carne vagamente etiquetada 'estilo Kobe' vendida internacionalmente. Con 8-10 horas, esta es una excursion genuina de un dia, no un complemento, y entrega algo que pocos visitantes experimentan: un viaje completo de granja a comprension con un producto que la mayoria de la gente solo encuentra como una cena cara. Si le importa la procedencia de los alimentos y quiere una historia para acompanar cada futuro bocado de Wagyu que coma, esto esta construido exactamente para esa curiosidad.",
+  "highlights": [],
+  "included": [
+   "Transporte de ida y vuelta desde Kioto, visita a la granja, taller de soba o mochi, y entrada a la Galeria de Carne de Kobe"
+  ],
+  "notIncluded": [
+   "Los recuerdos adicionales o compras de comida extra mas alla de lo organizado en el itinerario no estan cubiertos"
+  ]
+ },
+ "kyoto-foliage-guided-tour": {
+  "title": "El poema de otono de Kioto: un tour de follaje otonal",
+  "metaTitle": "Tour de follaje otonal en Kioto",
+  "metaDescription": "Una caminata privada de medio dia por templos y jardines de montana de Kioto, con la ruta elegida segun donde los arces estan cambiando de color.",
+  "shortDescription": "Una caminata privada de medio dia, con la ruta elegida por un guia local segun donde los arces realmente estan cambiando de color, por templos y jardines de montana de Kioto.",
+  "fullDescription": "El color de otono de Kioto no llega todo a la vez, se mueve por la ciudad en oleadas, comenzando en los templos de montana sobre la ciudad a principios de noviembre y bajando hacia los jardines del valle a finales del mes, que es exactamente el tipo de conocimiento de tiempos que separa un tour que captura el color maximo de uno que captura ramas desnudas u hojas aun verdes. Esta caminata privada de medio dia esta construida alrededor de esa experiencia, con un guia local eligiendo la ruta del dia segun donde los arces realmente estan cambiando de color en lugar de seguir un itinerario fijo sin importar la temporada. Espere paradas que podrian incluir el empinado acceso bordeado de momiji a un templo de montana donde el dosel vuelve la luz misma roja anaranjada, un jardin formal donde la grava rastrillada y los estanques quietos estan disenados especificamente para reflejar el color otonal de vuelta al observador, y senderos de montana mas tranquilos donde las multitudes que abarrotan Kiyomizu-dera y Tofuku-ji en temporada alta simplemente no llegan. Debido a que el tour es privado y tiene precio por grupo en lugar de por persona, el ritmo se adapta a usted, demorandose en un tunel de arces particularmente impresionante, o avanzando rapido si prefiere cubrir mas terreno en cuatro horas compactas. Su guia aporta mas que conocimiento de rutas; espere contexto sobre por que el diseno de jardines japoneses trata el otono como su propia temporada estetica y que lugares recompensan una mirada lenta y contemplativa frente a una foto rapida. El calzado comodo para caminar importa aqui mas que de costumbre, ya que varios de los mejores lugares de follaje de Kioto se encuentran en senderos de montana genuinos con cambios reales de elevacion. La ropa en capas tambien ayuda, ya que las temperaturas de noviembre varian notablemente entre el sol y la sombra. Esto esta construido para viajeros que han programado un viaje especificamente alrededor de la temporada momiji y quieren un guia que pueda leer donde esta realmente el color esa semana.",
+  "highlights": [],
+  "included": [
+   "Un guia local privado para un tour guiado a pie de medio dia por los lugares de follaje otonal estacional de Kioto"
+  ],
+  "notIncluded": [
+   "Las tarifas de entrada a templos y jardines, comida y bebidas, y el transporte al hotel no estan incluidos"
+  ]
+ },
+ "kyoto-food-food-tour": {
+  "title": "Tour gastronomico de Kioto",
+  "metaTitle": "Tour gastronomico de Kioto",
+  "metaDescription": "Un viaje gastronomico nocturno de tres horas por el mercado de Nishiki, la calle Kiyamachi y Gion, con degustaciones guiadas en cada barrio.",
+  "shortDescription": "Un viaje gastronomico nocturno de tres horas por el mercado de Nishiki, la calle Kiyamachi y Gion, con degustaciones guiadas en cada barrio.",
+  "fullDescription": "El mercado de Nishiki a ultima hora de la tarde es un animal diferente del mercado de Nishiki al mediodia, las multitudes de autobuses turisticos se reducen, los vendedores que han estado cortando y asando desde la manana estan mas dispuestos a charlar, y la galeria cubierta adquiere un ritmo mas calido y local a medida que comienza el servicio de cena. Este viaje gastronomico nocturno comienza alli, tejiendo por los estrechos puestos del mercado para bocados que probablemente pasaria de largo sin contexto: yuba fresco (piel de tofu) aun caliente de la cuba, encurtidos tsukemono en colores que no se parecen a nada en una tienda de comestibles occidental, y especialidades en brocheta de vendedores que han mantenido el mismo puesto durante generaciones. Desde Nishiki, la ruta se mueve hacia la calle Kiyamachi, la franja junto al canal donde se reune la multitud de despues del trabajo de Kioto para pequenos platos de izakaya, y donde su guia lo dirige hacia lugares genuinamente buenos en lugar de la senalizacion orientada a turistas en el frente, aqui es donde la degustacion gira hacia pequenos bocados influenciados por kaiseki, la filosofia de multiples platos de la refinada tradicion culinaria de Kioto reducida a porciones para compartir. La noche termina en Gion, el distrito de geishas mas legendario de Kioto, caminando junto a las casas machiya de madera y las casas de te de la calle Hanamikoji mientras se prueban dulces a base de matcha que conectan toda la noche con la cultura del te centenaria de Kioto, un cierre apropiado dado que Uji, justo al sur de la ciudad, ha suministrado el mejor matcha de Japon durante mas de 800 anos. Esto se desarrolla como una experiencia genuinamente privada y guiada en grupo en lugar de un tour gastronomico de paradas fijas, lo que significa que el ritmo se ajusta a su apetito y preguntas, y el guia puede explicar lo que esta comiendo y por que importa regionalmente en lugar de simplemente senalarle un puesto. Venga con hambre pero no hambriento en exceso, este es un tour de picoteo construido alrededor de multiples pequenas degustaciones en tres barrios en lugar de una comida sentada, y funciona bien tanto como orientacion de primera noche a la cultura gastronomica de Kioto como una inmersion mas profunda mas adelante en su viaje una vez que ha acumulado curiosidad sobre lo que ha visto en los menus. Tres horas de pie moviendose entre tres escenas gastronomicas distintas, con un guia local conocedor traduciendo tanto la comida como la historia detras de ella, esa combinacion es difícil de replicar vagando solo.",
+  "highlights": [],
+  "included": [
+   "Guia profesional y degustaciones de comida en cada parada a lo largo de la ruta"
+  ],
+  "notIncluded": [
+   "Las bebidas alcoholicas y cualquier compra de comida adicional mas alla de las degustaciones incluidas no estan incluidas"
+  ]
+ },
+ "kyoto-food-tour": {
+  "title": "Kioto: tour gastronomico del mercado de Nishiki y depachika",
+  "metaTitle": "Tour gastronomico de Nishiki y depachika",
+  "metaDescription": "Degustaciones guiadas por el mercado de Nishiki y un depachika, el salon de comida del sotano de una tienda departamental, con un guia experto.",
+  "shortDescription": "Degustaciones guiadas por el mercado de Nishiki y un depachika, el salon de comida en el sotano de una tienda departamental, con un guia que conoce los puestos clave.",
+  "fullDescription": "El mercado de Nishiki ha sido la cocina de Kioto desde el periodo Edo, una estrecha galeria de cinco cuadras paralela a Shijo-dori donde pescaderos, vendedores de encurtidos y fabricantes de tofu han comerciado en los mismos puestos durante generaciones. Este tour recorre ese caos con un guia que sabe que puesto ha sido administrado por la misma familia desde los anos 1950 y que vendedor le dejara probar antes de comprar. Probara cosas que raramente llegan a un menu en ingles: tsukemono encurtido en recetas de salmuera centenarias, yuba recien sacado, croquetas estofadas en dashi, y quiza un bocado de brocheta de wagyu asado al momento. Desde la galeria cubierta del mercado, la ruta baja a un depachika, el salon de comida en el sotano de una tienda departamental de Kioto, un universo completamente diferente de vitrinas de vidrio, cajas bento, y wagashi de temporada que la mayoria de los visitantes primerizos nunca se dan cuenta que existe. Su guia traduce etiquetas, explica que hay realmente dentro de los dulces con formas misteriosas, y senala las especialidades de temporada que rotan semanalmente. Esto no es una comida sentada; es una conversacion en movimiento sobre como come Kioto, contada a traves de una docena de pequenos bocados y las historias detras de ellos. Venga un poco hambriento, use zapatos con los que no le importe estar de pie durante dos horas, y este listo para decir si a comida que no puede identificar del todo. Reserve esto si quiere que el mercado de Nishiki tenga sentido en su primer recorrido.",
+  "highlights": [],
+  "included": [
+   "Tour guiado a pie con degustaciones de comida en varios puestos y un salon de comida de tienda departamental"
+  ],
+  "notIncluded": [
+   "Las compras de comida o bebida adicionales mas alla de las degustaciones incluidas no estan cubiertas"
+  ]
+ },
+ "kyoto-full-day-bus-tour-bamboo-grove-golden-pavilion": {
+  "title": "Kioto en un dia en autocar: bosque de bambu temprano, Pabellon Dorado, castillo Nijo y Fushimi Inari",
+  "metaTitle": "Kioto en un dia en autocar",
+  "metaDescription": "Once horas, cuatro grandes sitios de Kioto en autocar, comenzando en el bosque de bambu antes de las multitudes, guia de habla inglesa y espanola.",
+  "shortDescription": "Once horas y cuatro de los sitios mas grandes de Kioto en un dia de autocar, comenzando en el bosque de bambu antes de las multitudes, con un guia que trabaja en ingles y espanol.",
+  "fullDescription": "El problema de Kioto no es que ver, es que los puntos destacados se encuentran en cuatro esquinas de una ciudad cuyo transporte publico no fue disenado para visitantes que intentan conectarlos. Hacer Arashiyama, Kinkaku-ji, el castillo Nijo y Fushimi Inari de forma independiente en un dia significa tres largos viajes en autobus y mucho tiempo de pie. Este dia en autocar elimina eso por completo, y comienza lo bastante temprano para resolver el otro problema de Kioto.\n\nEl bosque de bambu de Arashiyama es primero, y es primero por una razon. Para las diez de la manana el sendero principal esta hombro con hombro; llegar antes de eso le da lo que la gente realmente viene a buscar, la luz filtrandose verde a traves de tallos de quince metros de altura y el crujido particular que hace el bosque cuando el viento lo atraviesa.\n\nDesde alli el dia continua hacia Kinkaku-ji, el pabellon zen cubierto de pan de oro que se encuentra en su propio estanque espejo, luego el castillo Nijo, la residencia en Kioto de los shogunes Tokugawa, un edificio disenado para la exhibicion y la intimidacion en lugar de la defensa, con los famosos pisos de ruisenor que crujen bajo los pies. Los tuneles de puertas torii bermellon de Fushimi Inari cierran el dia.\n\nAlgo que aclarar al reservar: hay dos versiones. La que tiene boletos incluye la entrada al Pabellon Dorado, el castillo Nijo y Kiyomizu-dera; la mas economica no, y en esa version ve esos sitios desde afuera y tiene tiempo libre en su lugar. Comprar la opcion con boletos casi siempre vale la diferencia.\n\nEl guia trabaja tanto en ingles como en espanol, los grupos llegan hasta un maximo de treinta, y la comida y bebidas no estan incluidas. El encuentro es afuera del Hotel Keihan Kyoto Grande cerca de la estacion de Kioto, facil de encontrar con equipaje o despues de un tren temprano.",
+  "highlights": [],
+  "included": [
+   "Transporte en autocar con aire acondicionado para el dia completo, guia bilingue que trabaja en ingles y espanol, acceso temprano al bosque de bambu de Arashiyama, entrada al Pabellon Dorado, castillo Nijo y Kiyomizu-dera (en la opcion con boletos)"
+  ],
+  "notIncluded": [
+   "Comida y bebidas, recogida y regreso al hotel, tarifas de entrada en la opcion sin boletos, propinas"
+  ]
+ },
+ "kyoto-fushimi-guided-tour": {
+  "title": "Fushimi Inari y Nara",
+  "metaTitle": "Fushimi Inari y Nara en un dia",
+  "metaDescription": "Un dia privado a pie que combina el santuario Fushimi Inari con los ciervos sagrados de Nara, con Todai-ji y Kasuga Taisha, para hasta seis personas.",
+  "shortDescription": "Un dia privado a pie que combina el santuario Fushimi Inari con los ciervos sagrados de Nara, con Todai-ji y Kasuga Taisha, para hasta seis personas.",
+  "fullDescription": "Combinar Fushimi Inari con Nara en un solo dia suena ambicioso sobre el papel, pero los dos sitios se complementan de una manera que hace que la combinacion sea mas inteligente que visitar cualquiera por separado: uno es un santuario de montana definido por la repeticion hecha por el hombre, miles de puertas torii bermellon subiendo una ladera boscosa, y el otro es una antigua capital donde la naturaleza misma, en forma de mas de mil ciervos sagrados que deambulan libremente, ocupa el centro del escenario. El dia comienza en Fushimi Inari, caminando por el tunel Senbon Torii con un guia privado que explica la tradicion centenaria de empresas donando puertas con la esperanza de prosperidad de Inari, el dios del arroz, el sake y el comercio, y senalando detalles como los zorros de piedra que sostienen llaves en la boca y que la mayoria de los visitantes pasan sin ver. Desde alli, el tour se dirige a Nara, aproximadamente 45 minutos al sur, donde la escala cambia por completo: el templo Todaiji alberga el Salon del Gran Buda, todavia uno de los edificios de madera mas grandes de la Tierra a pesar de haber sido reconstruido mas pequeno que su forma original del siglo octavo, albergando un Buda de bronce de 15 metros fundido en el ano 752 d.C. Caminar hacia Todaiji significa cruzar el parque de Nara, donde ciervos considerados mensajeros de los dioses se acercan libremente por las galletas de arroz vendidas en los puestos del parque, una experiencia genuinamente diferente, ligeramente caotica en comparacion con la tranquila reverencia de Fushimi Inari esa manana. El dia tipicamente continua a Kasuga Taisha, el otro santuario importante de Nara, conocido por los miles de linternas de bronce y piedra que bordean su acceso boscoso, donadas a lo largo de siglos por fieles en una tradicion paralela a las puertas de Fushimi Inari, un eco deliberado que su guia probablemente senalara, conectando tematicamente las dos mitades del dia en lugar de tratarlas como paradas no relacionadas. Esto se desarrolla como un tour privado a pie para hasta seis personas, lo que significa que el horario se adapta a su grupo en lugar de un horario de autobus, y las preguntas obtienen respuestas reales en lugar de un guion grabado. Con ocho horas que cubren dos ciudades, este es un dia completo pero gratificante, mejor adecuado para viajeros que quieren profundidad sobre amplitud, dos sitios genuinamente significativos explorados correctamente en lugar de cuatro recorridos a toda prisa. Use zapatos reales para caminar, traiga efectivo para galletas de ciervos y ofrendas en el santuario, y espere un dia que se mueve desde la geometria sagrada de puertas infinitas hasta la energia salvaje y ligeramente comica de los ciervos de Nara sin nada generico entre medio.",
+  "highlights": [],
+  "included": [
+   "Guia privado de habla inglesa y transporte entre Fushimi Inari y Nara para el dia completo"
+  ],
+  "notIncluded": [
+   "Las tarifas de entrada a templos, el almuerzo, y las galletas para ciervos no estan incluidos"
+  ]
+ },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara en Myokaku-ji: coreografia de espada filmada en el recinto del templo",
   "metaTitle": "Experiencia de chambara con espada en Kyoto",
