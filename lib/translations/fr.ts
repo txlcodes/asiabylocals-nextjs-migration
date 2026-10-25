@@ -58634,6 +58634,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Nourriture et boissons, frais d'entree aux temples et sanctuaires, transport entre Kyoto et Nara, prise en charge et retour a l'hotel"
   ]
  },
+ "kyoto-night-evening-tour": {
+  "title": "Visite nocturne magique de Kyoto en anglais : Gion et Fushimi Inari",
+  "metaTitle": "Visite nocturne de Gion et Fushimi Inari",
+  "metaDescription": "Une visite du soir en anglais associant Fushimi Inari eclaire aux lanternes la nuit et une promenade tranquille a travers le quartier des geishas de Gion.",
+  "shortDescription": "Une visite du soir en anglais associant Fushimi Inari eclaire aux lanternes la nuit et une promenade tranquille a travers le quartier des geishas de Gion.",
+  "fullDescription": "Fushimi Inari pendant la journee est une melee epaule contre epaule pendant les trente premieres minutes de portes torii avant que la foule ne s'eclaircisse pres du sommet. La nuit, cette equation s'inverse. Les portes inferieures brillent sous la lumiere des lanternes avec presque personne sur le chemin, et plus vous allez loin, plus la montagne semble vous appartenir plutot qu'a un horaire de bus touristique. Cette visite du soir en langue anglaise est construite autour de ce changement, chronometrant la visite de Fushimi Inari pour le moment ou le sanctuaire se vide et ou les milliers de torii vermillon prennent un caractere completement different eclaires par en bas. De la, l'itineraire traverse la ville jusqu'a Gion, le quartier des geishas le plus celebre de Kyoto, pour une promenade lente a travers Hanamichi et les ruelles etroites autour du canal Shirakawa ou les branches de saule trainent sur l'eau et les maisons de ville machiya traditionnelles brillent doucement de l'interieur. Votre guide parle un anglais courant et connait le quartier assez bien pour signaler les subtils signes distinctifs d'une maison de the ochaya par rapport a un restaurant ordinaire, et expliquer avec precision ce que la culture geiko et maiko implique vraiment dans le Kyoto moderne. Ce n'est pas un circuit de photos precipite ; le rythme est deliberement sans hate. Portez des chaussures confortables pour marcher quelques heures et habillez-vous selon la saison, puisque les soirees de Kyoto peuvent devenir fraiches meme pendant les mois plus chauds. Ce qui rend cette visite digne d'etre reservee plutot que de faire les deux memes quartiers seul est le timing et la narration. Si vous n'avez qu'une seule soiree libre a Kyoto, celle-ci associe ses deux quartiers les plus emblematiques dans la version que la plupart des voyageurs auraient souhaite voir en premier.",
+  "highlights": [],
+  "included": [
+   "Guide local anglophone pour une visite nocturne a pied couvrant Fushimi Inari et Gion"
+  ],
+  "notIncluded": [
+   "La nourriture, les boissons, les transferts d'hotel, et tous frais d'entree aux sanctuaires ou lieux ne sont pas inclus"
+  ]
+ },
+ "kyoto-nijo-castle-small-group-guided-tour": {
+  "title": "Le chateau Nijo avec un guide : planchers de rossignol et la salle ou le shogunat s'est termine",
+  "metaTitle": "Visite guidee du chateau Nijo",
+  "metaDescription": "Quatre-vingt-dix minutes a l'interieur d'un chateau UNESCO construit pour intimider plutot que defendre, en groupe de dix ou moins, entree incluse.",
+  "shortDescription": "Quatre-vingt-dix minutes a l'interieur d'un chateau UNESCO construit pour intimider plutot que defendre, en groupe de dix ou moins, entree incluse.",
+  "fullDescription": "Le chateau Nijo est facile a traverser et difficile a lire. Il n'y a pas de murs epais ni de meurtrieres, car il n'a jamais ete concu pour resister a un siege, il a ete construit en 1603 comme une declaration, un palais Tokugawa place a quelques centaines de metres de la propre residence de l'Empereur pour affirmer qui detenait vraiment le pouvoir a Kyoto pendant que les shoguns regnaient depuis Edo.\n\nUne fois que quelqu'un explique cela, tout le batiment change. Dans le palais Ninomaru, la taille de chaque salle, la hauteur de son plancher et le raffinement de ses paravents peints indiquaient a un visiteur exactement ou il se situait dans la hierarchie, et jusqu'ou il serait autorise a avancer. Les couloirs se courbent deliberement. Les planchers de rossignol gazouillent sous n'importe quel poids, un systeme de securite deguise en particularite de charpenterie, et ils fonctionnent encore, vous vous entendrez approcher.\n\nLa visite se termine dans la salle qui compte le plus. En 1867, dans cet espace, Tokugawa Yoshinobu a rendu l'autorite a l'Empereur et a mis fin a 260 ans de regne shogunal. Se tenir dedans avec le contexte assemble est une experience tres differente de passer devant une plaque.\n\nLe groupe est limite a dix, ce qui est assez petit pour que vous puissiez poser des questions au fur et a mesure qu'elles vous viennent plutot que de les garder pour la fin. L'entree au chateau est incluse dans le prix, donc rien a acheter au portail. L'itineraire est accessible en fauteuil roulant, et il dure quatre-vingt-dix minutes, ce qui laisse le reste de la journee libre, le chateau se trouve sur la ligne Tozai du metro, a quelques arrets du centre de Kyoto.\n\nVous vous rencontrez devant la sortie 1 de la gare Nijojo-mae, ou le guide attend avec un panneau.",
+  "highlights": [],
+  "included": [
+   "Entree au chateau Nijo, visite guidee de quatre-vingt-dix minutes en anglais, petit groupe de pas plus de dix personnes"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons, transport jusqu'au point de rendez-vous, prise en charge et retour a l'hotel, pourboires"
+  ]
+ },
+ "kyoto-nissan-private-tour": {
+  "title": "Visite privee en voiture/taxi a Kyoto (Nissan Serena)",
+  "metaTitle": "Visite privee en taxi a Kyoto",
+  "metaDescription": "Un chauffeur-guide anglophone dans un Nissan Serena construit la journee autour de ce que vous voulez vraiment voir, avec une visite a domicile optionnelle.",
+  "shortDescription": "Un chauffeur-guide anglophone agree dans un Nissan Serena confortable construit la journee autour de ce que vous voulez vraiment voir, avec une visite a domicile optionnelle.",
+  "fullDescription": "Doi Taxi transporte des visiteurs a travers les temples et ruelles arriere de Kyoto depuis des annees, et ce qui distingue ceci d'une navette touristique standard est la flexibilite : vous etes dans un confortable Nissan Serena avec un chauffeur-guide agree, capable en anglais, qui construit la journee autour de ce que vous voulez vraiment voir, pas un script fixe. Vous voulez passer quarante minutes supplementaires a flaner sur les chemins de pierre de Kiyomizu-dera avant que les bus touristiques n'arrivent, ou eviter entierement Kinkaku-ji en faveur d'endroits plus tranquilles comme Tofuku-ji ou les ruelles arriere de Nishijin ? C'est exactement le but de louer une voiture privee. Les chauffeurs de Doi connaissent les schemas de circulation et les itineraires alternatifs de Kyoto assez bien pour chronometrer les visites selon quand un site devient bonde par rapport a quand il est calme. Au-dela de sauter de temple en temple, cette visite offre quelque chose de vraiment distinctif : une visite a domicile optionnelle ou vous etes accueilli dans une residence privee de Kyoto pour une performance de musique koto, une demonstration de ceremonie du the, et une presentation de kimono, une rare occasion de voir la culture traditionnelle presentee dans la maison reelle de quelqu'un plutot qu'un lieu touristique mis en scene. Le Nissan Serena accueille confortablement un petit groupe avec assez de place pour les bagages, ce qui en fait une option pratique pour les familles ou les groupes d'amis qui ne veulent pas coordonner des transferts de train entre des sites eloignes comme Arashiyama et Higashiyama le meme jour. Si vous valorisez d'avoir un local averti au volant qui peut s'adapter a la volee, cette visite privee en taxi offre un niveau de facilite que le transport public et les visites en bus ne peuvent simplement pas egaler.",
+  "highlights": [],
+  "included": [
+   "Chauffeur-guide prive agree, vehicule pour toute la duree, et planification d'itineraire basee sur vos preferences"
+  ],
+  "notIncluded": [
+   "Les frais d'entree aux temples et sites, les repas, et la visite a domicile optionnelle sauf si specifiquement organisee a l'avance"
+  ]
+ },
+ "kyoto-people-private-tour": {
+  "title": "Visite privee de Kyoto, 1 a 4 personnes (8 heures)",
+  "metaTitle": "Visite privee de Kyoto, 1-4 personnes (8h)",
+  "metaDescription": "Une visite privee de huit heures a Kyoto faconnee entierement autour de vos interets, pour un groupe de jusqu'a quatre personnes.",
+  "shortDescription": "Une visite privee de huit heures qui confie toute votre journee a Kyoto a un guide local pour la faconner autour de ce qui vous interesse vraiment, pour un groupe de jusqu'a quatre.",
+  "fullDescription": "Une visite privee de huit heures est en realite une offre pour confier a quelqu'un toute votre journee a Kyoto et le laisser la faconner autour de ce qui vous interesse vraiment, plutot que de vous faire marcher a travers une liste de controle fixe. C'est l'attrait d'une petite operation comme celle-ci : pas de bus, pas de porte-voix, pas de vingt etrangers vous attendant a chaque arret, juste un guide local averti, votre groupe de jusqu'a quatre, et assez de temps pour voir correctement trois ou quatre sites majeurs sans courir contre l'horloge. Une journee typique pourrait commencer a Fushimi Inari avant l'arrivee des bus touristiques, se dérouler dans les ruelles preservees de Higashiyama pres de Kiyomizu-dera, traverser vers Arashiyama pour la foret de bambous et le jardin de Tenryu-ji, ou faire un detour vers le chateau Nijo et les terrains du Palais Imperial selon vos interets. Comme l'itineraire est construit autour de vos priorites plutot qu'un modele, cela convient aux voyageurs qui ont fait leurs recherches et ont une liste de souhaits specifique, aux familles jonglant avec des niveaux d'energie differents, ou a quiconque veut un guide qui peut repondre aux questions naturellement. Le transport entre les sites et les frais d'entree standard jusqu'a 2 000 yens par personne sont integres dans le prix, ce qui elimine une quantite surprenante de la friction de la journee. Ce que vous payez vraiment, c'est la flexibilite : la capacite de s'attarder vingt minutes supplementaires dans un temple qui vous surprend, ou de sauter un arret qui ne vous interesse pas. Pour un petit groupe voulant les essentiels de Kyoto livres avec une veritable connaissance locale et zero rigidite, c'est a peu pres ce qu'une journee guidee peut se rapprocher de simplement explorer la ville avec un ami bien informe.",
+  "highlights": [],
+  "included": [
+   "Guide prive pendant 8 heures, transport entre les sites, et frais d'entree jusqu'a 2 000 JPY par personne"
+  ],
+  "notIncluded": [
+   "Les repas et tout cout d'entree depassant 2 000 JPY par personne ne sont pas inclus"
+  ]
+ },
+ "kyoto-people-private-tour-heritage": {
+  "title": "Visite privee de Kyoto, 1 a 4 personnes (4 heures)",
+  "metaTitle": "Visite privee de Kyoto, 1-4 personnes (4h)",
+  "metaDescription": "Une introduction personnelle et ciblee a Kyoto de quatre heures pour jusqu'a quatre personnes, avec un guide dedie qui faconne l'itineraire autour de vos interets.",
+  "shortDescription": "Une introduction personnelle et ciblee a Kyoto de quatre heures pour jusqu'a quatre personnes, avec un guide dedie qui faconne l'itineraire autour de vos interets.",
+  "fullDescription": "Tous les voyages n'ont pas de place pour une journee complete de visites, et tous les groupes ne veulent pas negocier un itineraire avec des etrangers sur un bus partage. Cette visite privee de quatre heures est construite exactement pour ce vide, une introduction ciblee et personnelle a Kyoto pour jusqu'a quatre personnes, avec un guide dedie qui faconne l'itineraire autour de ce que vous voulez vraiment voir plutot qu'un script fixe. Les visites de Miyako sont connues pour donner l'impression d'etre montrees par un ami local averti plutot que de suivre l'itineraire d'une entreprise : le transport et les frais d'entree sont geres a l'avance, donc les quatre heures se deroulent sans accroc sans files de billets ni logistique devorant votre temps, et le format plus court signifie que le rythme reste confortable plutot que precipite a travers une liste de controle. Comme la taille du groupe est limitee a quatre, le guide peut vraiment adapter la journee, les familles avec des enfants obtiennent un rythme plus doux et des arrets adaptes aux enfants, les couples recherchant des jardins de temples photogeniques obtiennent plus de temps pour s'attarder, et les voyageurs avec un interet specifique, que ce soit le bouddhisme zen, la culture des geishas de Kyoto, ou l'architecture classique, peuvent orienter la conversation vers ce qui les interesse vraiment. Cette flexibilite est la vraie valeur ici : plutot qu'un itineraire generique des « meilleurs sites », les quatre heures deviennent une conversation sur ce qui est realiste de bien voir dans cette fenetre et ce qui vous laisserait precipite, avec la connaissance locale de Miyako comblant les lacunes qu'un guide touristique ne peut pas, quelles rues laterales sont calmes a cette heure, quelle porte de temple a la meilleure lumiere pour les photos, ou prendre un cafe si le groupe a besoin d'une pause. C'est une option efficace pour les voyageurs avec une fenetre de duree d'escale a Kyoto, les passagers de croisiere avec un seul apres-midi, ou quiconque veut une introduction privee et sans hate a la ville sans s'engager pour une journee complete de neuf heures. Etant donne la courte fenetre, communiquer vos priorites avant le debut de la visite, temples contre jardins contre quartiers, rythme de marche, toute consideration de mobilite, fait une vraie difference dans la facon dont le guide planifie l'itineraire, donc traitez le processus de reservation comme le debut d'une conversation plutot que juste une reservation.",
+  "highlights": [],
+  "included": [
+   "Guide prive, transport local, et frais d'entree pour les sites inclus"
+  ],
+  "notIncluded": [
+   "Les repas et les depenses personnelles de shopping ne sont pas inclus"
+  ]
+ },
+ "kyoto-photography-tour": {
+  "title": "Habillez-vous en maiko pour une seance photo dans un jardin japonais (location de kimono)",
+  "metaTitle": "Seance photo en maiko a Kyoto",
+  "metaDescription": "Transformez-vous en maiko pres du sanctuaire Yasaka a Gion, avec maquillage et kimono complets, puis une seance photo guidee dans un jardin japonais intime.",
+  "shortDescription": "Transformez-vous en maiko pres du sanctuaire Yasaka a Gion, avec maquillage et kimono complets, puis une seance photo guidee dans un jardin japonais intime.",
+  "fullDescription": "Il y a une magie particuliere a franchir le seuil d'une maison de the de l'ere Taisho a Gion et a en sortir de l'autre cote ressemblant a quelqu'un sorti d'une estampe sur bois. Cette experience a lieu a quelques pas du sanctuaire Yasaka, dans un des batiments plus anciens de Gion, ou une equipe de maquilleurs et d'habilleurs professionnels vous transforme en maiko en utilisant le meme kimono en couches, le col peint, et les ornements de cheveux que la vraie chose requiert. Le processus lui-meme fait partie de l'experience : le maquillage de base blanc applique avec une precision rodee, les accents rouges et noirs saisissants autour des yeux et des levres, et ensuite le kimono, qui demande a un habilleur forme travaillant avec des cordons de soie et du rembourrage pour bien le faire. Une fois habille, vous etes conduit dans le Tsuboniwa de la propriete, un petit jardin de cour enclos du genre autour duquel les maisons traditionnelles de Kyoto etaient construites, avec des lanternes de pierre et une lumiere tachetee. C'est un cadre intime, presque secret, loin des foules pres de Kiyomizu-dera. Un photographe vous guide a travers des poses qui se lisent comme naturelles plutot que rigides, et vous partez avec trois photos imprimees professionnellement au format 2L a garder. C'est Gion dans sa forme la plus theatrale, mais realisee par un studio legitime avec un vrai savoir-faire derriere la transformation. Si vous avez deja vu une maiko se depecher entre des rendez-vous dans les ruelles pavees de pierre de Gion et vous etes demande ce que ce monde ressent de l'interieur, c'est ce dont la plupart des visiteurs peuvent s'approcher le plus.",
+  "highlights": [],
+  "included": [
+   "Maquillage de maiko complet, location de kimono et d'accessoires, coiffure, seance photo guidee, et trois photos imprimees au format 2L"
+  ],
+  "notIncluded": [
+   "Le transport vers la maison de the de Gion et les copies numeriques au-dela de ce qui est organise avec le photographe ne sont pas inclus"
+  ]
+ },
  "nagoya-takoyaki-cooking-class": {
   "title": "Takoyaki de zero a Nagoya : pate, poulpe et le retournement",
   "metaTitle": "Cours de takoyaki a Nagoya",

@@ -58634,6 +58634,90 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comida y bebidas, tarifas de entrada a templos y santuarios, transporte entre Kioto y Nara, recogida y regreso al hotel"
   ]
  },
+ "kyoto-night-evening-tour": {
+  "title": "Tour nocturno magico de Kioto en ingles: Gion y Fushimi Inari",
+  "metaTitle": "Tour nocturno de Gion y Fushimi Inari",
+  "metaDescription": "Un tour nocturno en ingles que combina Fushimi Inari iluminado por linternas de noche con un paseo tranquilo por el distrito de geishas Gion.",
+  "shortDescription": "Un tour nocturno en ingles que combina Fushimi Inari iluminado por linternas de noche con un paseo tranquilo por el distrito de geishas Gion.",
+  "fullDescription": "Fushimi Inari durante el dia es una batalla hombro con hombro durante los primeros treinta minutos de puertas torii antes de que la multitud se reduzca cerca de la cumbre. De noche, esa ecuacion se invierte. Las puertas inferiores brillan bajo la luz de las linternas con casi nadie en el camino, y cuanto mas profundo va, mas se siente que la montana le pertenece en lugar de a un horario de autobus turistico. Este tour nocturno en ingles esta construido alrededor de ese cambio, cronometrando la visita a Fushimi Inari para cuando el santuario se vacia y los miles de torii bermellon adquieren un caracter completamente diferente iluminados desde abajo. Desde alli la ruta cruza la ciudad hasta Gion, el distrito de geishas mas legendario de Kioto, para un paseo lento por Hanamichi y los estrechos callejones alrededor del canal Shirakawa donde las ramas de sauce se arrastran sobre el agua y las casas machiya tradicionales brillan suavemente desde adentro. Su guia habla ingles fluido y conoce el distrito lo bastante bien para senalar las sutiles senas de una casa de te ochaya frente a un restaurante ordinario, y explicar con precision lo que la cultura geiko y maiko realmente implica en el Kioto moderno. Esto no es un circuito apresurado de paradas fotograficas; el ritmo es deliberadamente sin prisas. Use zapatos comodos para caminar un par de horas y vistase segun la temporada, ya que las noches de Kioto pueden volverse frescas incluso en meses mas calidos. Lo que hace que este tour valga la pena reservar en lugar de hacer los mismos dos barrios solo es el tiempo y la narracion. Si solo tiene una noche libre en Kioto, esto combina sus dos distritos mas iconicos en la version que la mayoria de los viajeros desearia haber visto primero.",
+  "highlights": [],
+  "included": [
+   "Guia local de habla inglesa para un tour nocturno a pie que cubre Fushimi Inari y Gion"
+  ],
+  "notIncluded": [
+   "La comida, bebidas, traslados de hotel, y cualquier tarifa de entrada a santuarios o locales no estan incluidos"
+  ]
+ },
+ "kyoto-nijo-castle-small-group-guided-tour": {
+  "title": "El castillo Nijo con un guia: pisos de ruisenor y la sala donde termino el shogunato",
+  "metaTitle": "Tour guiado del castillo Nijo",
+  "metaDescription": "Noventa minutos dentro de un castillo UNESCO construido para intimidar en lugar de defender, en un grupo de diez o menos, con entrada incluida.",
+  "shortDescription": "Noventa minutos dentro de un castillo UNESCO construido para intimidar en lugar de defender, en un grupo de diez o menos, con entrada incluida.",
+  "fullDescription": "El castillo Nijo es facil de recorrer y dificil de leer. No hay muros gruesos ni aspilleras, porque nunca estuvo pensado para resistir un asedio, se construyo en 1603 como una declaracion, un palacio Tokugawa colocado a pocos cientos de metros de la propia residencia del Emperador para dejar claro quien realmente tenia el poder en Kioto mientras los shogunes gobernaban desde Edo.\n\nUna vez que alguien explica eso, todo el edificio cambia. En el palacio Ninomaru, el tamano de cada sala, la altura de su piso y lo elaborado de sus biombos pintados le decian a un visitante exactamente donde se encontraba en la jerarquia, y hasta donde se le permitiria avanzar. Los corredores se curvan deliberadamente. Los pisos de ruisenor crujen bajo cualquier peso, un sistema de seguridad disfrazado de peculiaridad de carpinteria, y todavia funcionan, se oira a usted mismo acercandose.\n\nEl tour termina en la sala que importa mas. En 1867, en ese espacio, Tokugawa Yoshinobu devolvio la autoridad al Emperador y puso fin a 260 anos de gobierno shogunal. Estar de pie en ella con el contexto reunido es una experiencia muy diferente a pasar junto a una placa.\n\nEl grupo se limita a diez, lo bastante pequeno para que pueda hacer preguntas a medida que se le ocurren en lugar de guardarlas para el final. La entrada al castillo esta incluida en el precio, asi que no hay nada que comprar en la puerta. La ruta es accesible para sillas de ruedas, y dura noventa minutos, lo que deja el resto del dia libre, el castillo esta en la linea de metro Tozai, a pocas paradas del centro de Kioto.\n\nSe encuentra afuera de la Salida 1 de la estacion Nijojo-mae, donde el guia espera con un cartel.",
+  "highlights": [],
+  "included": [
+   "Entrada al castillo Nijo, tour guiado de noventa minutos en ingles, grupo pequeno de no mas de diez personas"
+  ],
+  "notIncluded": [
+   "Comida y bebidas, transporte al punto de encuentro, recogida y regreso al hotel, propinas"
+  ]
+ },
+ "kyoto-nissan-private-tour": {
+  "title": "Tour privado en auto/taxi por Kioto (Nissan Serena)",
+  "metaTitle": "Tour privado en taxi por Kioto",
+  "metaDescription": "Un conductor-guia con licencia de habla inglesa en un comodo Nissan Serena construye el dia alrededor de lo que realmente quiere ver, con visita opcional a una casa.",
+  "shortDescription": "Un conductor-guia con licencia de habla inglesa en un comodo Nissan Serena construye el dia alrededor de lo que realmente quiere ver, con visita opcional a una casa.",
+  "fullDescription": "Doi Taxi ha estado llevando visitantes por los templos y callejones de Kioto durante anos, y lo que distingue esto de un transporte turistico estandar es la flexibilidad: esta en un comodo Nissan Serena con un conductor-guia con licencia, capaz en ingles, que construye el dia alrededor de lo que realmente quiere ver, no un guion fijo. ¿Quiere pasar cuarenta minutos extra vagando por los senderos de piedra de Kiyomizu-dera antes de que lleguen los autobuses turisticos, o saltarse Kinkaku-ji por completo a favor de lugares mas tranquilos como Tofuku-ji o los callejones de Nishijin? Ese es exactamente el punto de contratar un auto privado. Los conductores de Doi conocen los patrones de trafico y rutas alternativas de Kioto lo bastante bien para programar visitas segun cuando un sitio se llena de gente frente a cuando esta tranquilo. Mas alla de saltar entre templos, este tour ofrece algo genuinamente distintivo: una visita opcional a una casa donde es recibido en una residencia privada de Kioto para una interpretacion de musica de koto, una demostracion de ceremonia del te, y una exhibicion de kimono, una rara oportunidad de ver la cultura tradicional presentada en el hogar real de alguien en lugar de un lugar turistico escenificado. El Nissan Serena acomoda comodamente a un grupo pequeno con espacio de sobra para el equipaje, lo que lo convierte en una opcion practica para familias o grupos de amigos que no quieren coordinar traslados de tren entre sitios distantes como Arashiyama e Higashiyama el mismo dia. Si valora tener a un local conocedor al volante que puede ajustarse sobre la marcha, este tour privado en taxi ofrece un nivel de facilidad que el transporte publico y los tours en autobus simplemente no pueden igualar.",
+  "highlights": [],
+  "included": [
+   "Conductor-guia privado con licencia, vehiculo para toda la duracion, y planificacion de ruta segun sus preferencias"
+  ],
+  "notIncluded": [
+   "Las tarifas de entrada a templos y sitios, comidas, y la visita opcional a una casa a menos que se organice especificamente de antemano no estan incluidas"
+  ]
+ },
+ "kyoto-people-private-tour": {
+  "title": "Tour privado de Kioto, 1-4 personas (8 horas)",
+  "metaTitle": "Tour privado de Kioto, 1-4 personas (8h)",
+  "metaDescription": "Un tour privado de ocho horas por Kioto, formado enteramente alrededor de sus intereses, para un grupo de hasta cuatro personas.",
+  "shortDescription": "Un tour privado de ocho horas que pone todo su dia en Kioto en manos de un guia local para que lo forme alrededor de lo que realmente le importa, para un grupo de hasta cuatro.",
+  "fullDescription": "Un tour privado de ocho horas es realmente una oferta para entregarle a alguien todo su dia en Kioto y dejar que lo forme alrededor de lo que realmente le importa, en lugar de arrearlo por una lista de verificacion fija. Ese es el atractivo de una operacion pequena como esta: sin autobus, sin megafono, sin veinte extranos esperandolo en cada parada, solo un guia local conocedor, su grupo de hasta cuatro, y suficiente tiempo para ver bien tres o cuatro sitios importantes sin correr contra el reloj. Un dia tipico podria comenzar en Fushimi Inari antes de que lleguen los autobuses turisticos, serpentear por los callejones preservados de Higashiyama cerca de Kiyomizu-dera, cruzar a Arashiyama por el bosque de bambu y el jardin de Tenryu-ji, o desviarse al castillo Nijo y los terrenos del Palacio Imperial segun sus intereses. Debido a que el itinerario esta construido alrededor de sus prioridades en lugar de una plantilla, esto conviene a viajeros que han investigado y tienen una lista de deseos especifica, familias que manejan diferentes niveles de energia, o cualquiera que quiera un guia que pueda responder preguntas organicamente. El transporte entre sitios y las tarifas de entrada estandar hasta 2.000 yenes por persona estan incluidas en el precio, lo que elimina una sorprendente cantidad de la friccion del dia. Lo que realmente esta pagando es flexibilidad: la capacidad de demorarse veinte minutos extra en un templo que lo sorprende, o saltarse una parada que no le interesa. Para un grupo pequeno que quiere lo esencial de Kioto entregado con conocimiento local genuino y cero rigidez, esto es lo mas cerca que un dia guiado llega a simplemente explorar la ciudad con un amigo bien informado.",
+  "highlights": [],
+  "included": [
+   "Guia privado durante 8 horas, transporte entre sitios, y tarifas de entrada hasta 2.000 JPY por persona"
+  ],
+  "notIncluded": [
+   "Las comidas y cualquier costo de entrada que exceda 2.000 JPY por persona no estan incluidos"
+  ]
+ },
+ "kyoto-people-private-tour-heritage": {
+  "title": "Tour privado de Kioto, 1-4 personas (4 horas)",
+  "metaTitle": "Tour privado de Kioto, 1-4 personas (4h)",
+  "metaDescription": "Una introduccion enfocada y personal de cuatro horas a Kioto para hasta cuatro personas, con un guia dedicado que forma la ruta alrededor de sus intereses.",
+  "shortDescription": "Una introduccion enfocada y personal de cuatro horas a Kioto para hasta cuatro personas, con un guia dedicado que forma la ruta alrededor de sus intereses.",
+  "fullDescription": "No todo viaje tiene espacio para un dia completo de turismo, y no todo grupo quiere negociar un itinerario con extranos en un autobus compartido. Este tour privado de cuatro horas esta construido exactamente para ese vacio, una introduccion enfocada y personal a Kioto para hasta cuatro personas, con un guia dedicado que forma la ruta alrededor de lo que realmente quiere ver en lugar de un guion fijo. Los tours de Miyako son conocidos por sentirse mas como ser mostrado por un amigo local conocedor que seguir el itinerario de una empresa: el transporte y las tarifas de entrada se manejan con anticipacion, asi que las cuatro horas transcurren sin problemas sin filas de boletos ni logistica consumiendo su tiempo, y el formato mas corto significa que el ritmo se mantiene comodo en lugar de apresurado por una lista de verificacion. Debido a que el tamano del grupo se limita a cuatro, el guia puede adaptar genuinamente el dia, las familias con ninos obtienen un ritmo mas suave y paradas aptas para ninos, las parejas que buscan jardines de templos fotogenicos obtienen mas tiempo para demorarse, y los viajeros con un interes especifico, ya sea budismo zen, la cultura de geishas de Kioto, o arquitectura clasica, pueden dirigir la conversacion hacia lo que realmente les importa. Esta flexibilidad es el verdadero valor aqui: en lugar de una ruta generica de 'lo mas destacado', las cuatro horas se convierten en una conversacion sobre que es realista ver bien en esa ventana y que lo dejaria sintiendose apresurado, con el conocimiento local de Miyako llenando los vacios que una guia turistica no puede, que calles laterales estan tranquilas a esa hora, que puerta de templo tiene la mejor luz para fotos, donde tomar un cafe si el grupo necesita un descanso. Es una opcion eficiente para viajeros con una ventana de duracion de escala en Kioto, pasajeros de crucero con una sola tarde, o cualquiera que quiera una introduccion privada y sin prisas a la ciudad sin comprometerse a un dia completo de nueve horas. Dada la ventana corta, comunicar sus prioridades antes de que comience el tour, templos frente a jardines frente a barrios, ritmo de caminata, cualquier consideracion de movilidad, hace una diferencia real en como el guia planifica la ruta, asi que trate el proceso de reserva como el comienzo de una conversacion en lugar de solo una reservacion.",
+  "highlights": [],
+  "included": [
+   "Guia privado, transporte local, y tarifas de entrada para los sitios incluidos"
+  ],
+  "notIncluded": [
+   "Las comidas y gastos personales de compras no estan incluidos"
+  ]
+ },
+ "kyoto-photography-tour": {
+  "title": "Vistase como maiko en una sesion de fotos en un jardin japones (alquiler de kimono)",
+  "metaTitle": "Sesion de fotos como maiko en Kioto",
+  "metaDescription": "Transformese en maiko cerca del santuario Yasaka en Gion, con maquillaje y kimono completos, luego una sesion de fotos guiada en un intimo jardin japones.",
+  "shortDescription": "Transformese en maiko cerca del santuario Yasaka en Gion, con maquillaje y kimono completos, luego una sesion de fotos guiada en un intimo jardin japones.",
+  "fullDescription": "Hay una magia particular en caminar por la puerta de una casa de te de la era Taisho en Gion y salir por el otro lado pareciendo haber salido de un grabado en madera. Esta experiencia tiene lugar a pocos pasos del santuario Yasaka, en uno de los edificios mas antiguos de Gion, donde un equipo de maquilladores y vestidores profesionales lo transforma en una maiko usando el mismo kimono en capas, el cuello pintado, y los adornos de cabello que requiere lo real. El proceso mismo es parte de la experiencia: maquillaje base blanco aplicado con precision experta, los sorprendentes acentos rojos y negros alrededor de los ojos y labios, y luego el kimono, que requiere que un vestidor capacitado trabaje con cordones de seda y acolchado para lograrlo bien. Una vez vestido, lo llevan al Tsuboniwa de la propiedad, un pequeno jardin de patio cerrado del tipo alrededor del cual se construian las casas tradicionales de Kioto, con linternas de piedra y luz moteada. Es un entorno intimo, casi secreto, lejos de las multitudes cerca de Kiyomizu-dera. Un fotografo lo guia a traves de poses que se leen como naturales en lugar de rigidas, y se va con tres fotos impresas profesionalmente en formato 2L para quedarse. Esto es Gion en su forma mas teatral, pero realizado a traves de un estudio legitimo con verdadera artesania detras de la transformacion. Si alguna vez ha visto a una maiko apresurarse entre citas por los callejones empedrados de Gion y se ha preguntado como se siente ese mundo desde adentro, esto es lo mas cerca que la mayoria de los visitantes llegaran.",
+  "highlights": [],
+  "included": [
+   "Maquillaje completo de maiko, alquiler de kimono y accesorios, peinado, sesion de fotos guiada, y tres fotos impresas en formato 2L"
+  ],
+  "notIncluded": [
+   "El transporte a la casa de te en Gion y las copias digitales mas alla de lo organizado con el fotografo no estan incluidos"
+  ]
+ },
  "nagoya-takoyaki-cooking-class": {
   "title": "Takoyaki desde cero en Nagoya: masa, pulpo y el volteo",
   "metaTitle": "Clase de takoyaki en Nagoya",
