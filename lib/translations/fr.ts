@@ -58257,6 +58257,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Le dejeuner, les frais d'entree aux temples, et les depenses personnelles ne sont pas inclus"
   ]
  },
+ "kyoto-best-guided-tour": {
+  "title": "Le meilleur de Kyoto en une journee",
+  "metaTitle": "Le meilleur de Kyoto en une journee",
+  "metaDescription": "Une journee complete bien sequencee a travers le chateau Nijo, le Pavillon d'or et la foret de bambous d'Arashiyama en petit groupe.",
+  "shortDescription": "Une journee complete bien sequencee a travers le chateau Nijo, le Pavillon d'or et la foret de bambous d'Arashiyama en petit groupe.",
+  "fullDescription": "Kyoto recompense les voyageurs lents, mais la plupart des visiteurs n'ont que deux ou trois jours dans la ville avant de partir vers Osaka ou Tokyo, ce qui rend une journee complete bien sequencee veritablement precieuse. Cette visite est construite autour de cette realite : plutot que d'entasser chaque temple dans les limites de la ville, elle relie trois sites qui montrent des siecles differents et des visages differents de Kyoto en une seule boucle sensee. La journee s'ouvre au chateau Nijo, la forteresse de plaine construite par Tokugawa Ieyasu en 1603 comme residence a Kyoto, celebre pour ses « planchers de rossignol » qui gazouillent sous les pas comme une alarme integree contre les assassins, et pour les portes coulissantes peintes du palais Ninomaru representant des tigres et des pins destines a intimider les daimyo en visite. Du monde du theatre politique du shogun, la journee passe a Kinkaku-ji, le Pavillon d'or, ou une villa de retraite zen devenue temple se dresse doree a la feuille d'or et refletee dans son propre jardin d'etang, un de ces rares spectacles qui parait presque irreel en personne, mieux apprecie lentement plutot qu'a travers un viseur, exactement le rythme qu'un petit groupe guide permet. L'apres-midi se deplace entierement vers l'ouest, dans la foret de bambous d'Arashiyama, ou le chemin se retrecit et la lumiere devient vert dore tandis que des tiges de bambou millenaires craquent et se cognent au-dessus dans le vent, un registre sensoriel completement different des temples de la matinee, souvent associe a une promenade vers le pont Togetsukyo sur la riviere Katsura si le temps le permet. Cela se deroule comme une veritable journee en petit groupe, pas une visite en autocar de 40 places, ce qui signifie que votre guide peut reellement repondre aux questions, ajuster le minutage autour de la foule, et donner du contexte sur pourquoi ces trois sites ont ete choisis ensemble plutot qu'isolement, le shogunat, l'esthetique zen, et l'histoire litteraire d'Arashiyama comme retraite pour les nobles de l'ere Heian se relient tous en une seule histoire coherente sur ce qu'est reellement Kyoto. A 9,5 heures, c'est une journee complete, alors menagez-vous, portez de vraies chaussures de marche, et attendez-vous a un melange de terrains de temples, chemins de jardin et un peu de transit entre les sites. Si vous n'avez qu'une journee pour comprendre pourquoi Kyoto est la capitale culturelle du Japon depuis plus de mille ans, cet itineraire merite son nom.",
+  "highlights": [],
+  "included": [
+   "Guide anglophone, frais d'entree au chateau Nijo et a Kinkaku-ji, et transport aller-retour entre les sites"
+  ],
+  "notIncluded": [
+   "Le dejeuner et les depenses personnelles ne sont pas inclus dans le prix de la visite"
+  ]
+ },
+ "kyoto-bike-tour": {
+  "title": "Visite de Kyoto a velo",
+  "metaTitle": "Visite de Kyoto a velo",
+  "metaDescription": "Un circuit guide a velo de trois heures et demie a travers le cœur historique de Kyoto, le long de la riviere Kamo et des rues residentielles paisibles.",
+  "shortDescription": "Un circuit guide a velo de trois heures et demie a travers le cœur historique de Kyoto, le long de la riviere Kamo et des rues residentielles paisibles.",
+  "fullDescription": "Kyoto recompense le mouvement lent plus que presque toute autre ville du Japon, et une bicyclette se trouve etre exactement la bonne vitesse pour cela, assez rapide pour couvrir une vraie distance a travers une ancienne capitale etendue, assez lente pour vraiment remarquer les choses qu'une fenetre de bus fait defiler. Ce circuit guide a velo traverse le cœur historique de Kyoto a ce rythme, couvrant a deux roues un terrain qui signifierait sinon une journee epuisante de correspondances de metro et de longues marches entre les sites. L'itineraire traverse generalement des quartiers centraux et des terrains de temples, pedalant le long de la riviere Kamo ou les habitants font du jogging et des pique-niques, a travers des rues residentielles tranquilles bordees de maisons de ville machiya en bois qui n'apparaissent jamais dans un itineraire de taxi typique, et vers certains des temples et sanctuaires emblematiques de la ville. Un guide local averti mene le groupe, apportant l'histoire du role de Kyoto comme capitale imperiale du Japon pendant plus de mille ans, et signalant des details architecturaux et culturels faciles a manquer sans contexte. Le velo ouvre aussi des parties de la ville que les bus touristiques ne peuvent simplement pas atteindre : ruelles etroites, chemins au bord de la riviere, et sanctuaires de rue arriere caches entre les maisons. A 3,5 heures, le rythme reste confortable plutot qu'athletique, avec des arrets reguliers prevus pour des photos et des regards plus proches sur chaque site. Seule une capacite de velo de base est requise, le terrain du centre de Kyoto est largement plat. Portez des vetements confortables dans lesquels vous pouvez bouger et des chaussures adaptees au pedalage, et attendez-vous a un point de vue veritablement different sur une ville que la plupart des visiteurs ne voient jamais que depuis les trottoirs et les quais de train. Pour quiconque veut couvrir un terrain significatif tout en sentant qu'il se deplace a travers Kyoto plutot que devant elle, c'est le format qui offre les deux.",
+  "highlights": [],
+  "included": [
+   "Location de velo, casque, et un itineraire a velo guide a travers les sites historiques et quartiers du centre de Kyoto"
+  ],
+  "notIncluded": [
+   "La prise en charge et le retour a l'hotel, la nourriture et les boissons, et les frais d'entree aux temples ou sanctuaires ne sont pas inclus"
+  ]
+ },
+ "kyoto-classic-guided-tour": {
+  "title": "Visite classique de KYOTO",
+  "metaTitle": "Visite classique de KYOTO",
+  "metaDescription": "Une journee de sept heures : sanctuaire Fushimi Inari, scene en bois de Kiyomizu-dera, et pavillon dore de Kinkaku-ji, l'introduction classique a Kyoto.",
+  "shortDescription": "Une journee de sept heures reliant le sanctuaire Fushimi Inari, la scene en bois de Kiyomizu-dera, et le pavillon dore de Kinkaku-ji, l'introduction classique a Kyoto.",
+  "fullDescription": "Si c'est votre premiere fois a Kyoto et que vous n'avez qu'une journee pour comprendre la ville avant de partir, c'est l'itineraire qui couvre le terrain qui compte vraiment : la montagne de portes torii du sanctuaire Fushimi Inari, la scene en bois de Kiyomizu-dera qui s'avance sur le flanc de colline de Higashiyama, et le pavillon dore a la feuille d'or de Kinkaku-ji reflete dans une eau calme. Cette journee de sept heures est construite specifiquement comme une introduction plutot qu'une immersion profonde, touchant les trois sites qui apparaissent dans presque chaque conversation sur Kyoto. Fushimi Inari le matin signifie que vous grimpez a travers les tunnels de portes vermillon pendant que la lumiere est encore douce et que les foules ne se sont pas encore pleinement constituees, une experience veritablement differente de la ruee de midi dans laquelle la plupart des visiteurs novices tombent. De la, la journee se deplace vers Higashiyama, ou la scene de Kiyomizu-dera, construite sans un seul clou, un exploit d'ingenierie datant de siecles, offre des vues panoramiques sur le flanc de colline boise, avec les ruelles preservees de Ninenzaka et Sannenzaka a proximite vous donnant un avant-gout des rues commercantes du vieux Kyoto. La journee se termine a Kinkaku-ji, sans doute le batiment le plus photographie de Kyoto, ou les deux etages superieurs sont couverts de vraie feuille d'or et ou toute la structure se trouve refletee dans son propre etang. Ce qui fait fonctionner cette visite comme introduction classique, c'est le sequencement, elle est rythmee pour que vous ne reveniez pas en arriere a travers la ville, et elle vous laisse avec une veritable carte mentale de la geographie de Kyoto une fois termine. Pour quiconque arrive a Kyoto avec un temps limite, c'est la maniere efficace et bien rythmee de le faire.",
+  "highlights": [],
+  "included": [
+   "Visite guidee en groupe couvrant la logistique de transport et la planification d'itineraire entre les trois sites principaux"
+  ],
+  "notIncluded": [
+   "Les frais d'entree aux temples et sanctuaires, et les repas tout au long de la journee ne sont pas inclus"
+  ]
+ },
+ "kyoto-design-guided-tour": {
+  "title": "Concevez votre visite personnalisee de KYOTO",
+  "metaTitle": "Visite personnalisee de Kyoto",
+  "metaDescription": "Un guide local veteran construit votre journee a Kyoto autour de vos interets reels plutot qu'un itineraire fixe, de quatre a huit heures, tarife par groupe.",
+  "shortDescription": "Un guide local veteran construit votre journee a Kyoto autour de vos interets reels plutot qu'un itineraire fixe, de quatre a huit heures, tarife par groupe.",
+  "fullDescription": "La plupart des itineraires de Kyoto sont construits a l'envers, un voyageur lit une liste de dix temples incontournables, essaie de les entasser dans une journee, et finit par se depecher dans l'etang reflechissant dore de Kinkaku-ji avec quarante autres personnes visant les memes trois points de photo. Cette visite personnalisee inverse ce processus : au lieu de vous remettre un itineraire fixe, un guide local veteran s'assied avec vous d'abord pour connaitre vos interets, que ce soit l'architecture des temples, la culture de la ceremonie du the de Kyoto, la scene gastronomique du marche Nishiki, le design tranquille des jardins, ou les anciennes rues marchandes de Nishijin, et construit la journee autour de ce que vous voulez vraiment voir. Cela pourrait signifier passer quatre-vingt-dix minutes sans hate dans un seul jardin de mousse plutot que de se depecher entre cinq sites celebres, ou cela pourrait signifier un circuit rapide des ruelles historiques d'Higashiyama, Kiyomizu-dera, et un arret dans une confiserie familiale que votre guide connait depuis des annees. Comme l'itineraire s'etend entre quatre et huit heures, il fonctionne aussi bien comme ajout matinal cible qu'une journee immersive complete, et la prise en charge et le retour a l'hotel sur demande font disparaitre entierement la logistique de traverser une ville etendue. Ce qui distingue cela d'une visite de groupe standardisee, c'est la profondeur de connaissance locale du guide, celle qui sait quel temple recoit une lumiere matinale photogenique contre l'heure doree, quel comptoir de ramen de rue arriere n'apparait pas dans les guides, et comment sequencer les arrets pour ne jamais revenir en arriere. C'est particulierement adapte aux voyageurs qui ont deja fait un premier voyage a Kyoto et veulent aller plus loin, aux familles ayant besoin d'un rythme flexible, ou a quiconque n'aime pas etre rassemble a travers un script fixe. La tarification se fait par groupe plutot que par personne, ce qui le rend veritablement economique pour les couples, les familles, ou les petits groupes d'amis. Si vous avez une vision specifique pour votre journee a Kyoto, ou aucun plan fixe du tout, c'est concu pour vous rejoindre exactement la.",
+  "highlights": [],
+  "included": [
+   "Un guide local veteran anglophone prive pour un itineraire entierement personnalise, avec prise en charge et retour a l'hotel sur demande"
+  ],
+  "notIncluded": [
+   "Les frais d'entree aux temples et sites, les repas, et les couts de transport au-dela de la prise en charge/retour du guide ne sont pas inclus"
+  ]
+ },
+ "kyoto-evening-evening-tour": {
+  "title": "Visite gastronomique du soir de Pontocho et Gion Shirakawa a Kyoto",
+  "metaTitle": "Visite gastronomique de Pontocho et Gion Shirakawa",
+  "metaDescription": "Trois heures de degustations guidees dans les ruelles de Pontocho et le quartier de Gion Shirakawa pour comprendre comment Kyoto mange vraiment.",
+  "shortDescription": "Trois heures de degustations guidees dans les ruelles de Pontocho et le quartier de Gion Shirakawa pour comprendre comment Kyoto mange vraiment.",
+  "fullDescription": "Pontocho a la nuit tombee est une seule ruelle etroite ponctuee de lanternes, serree entre la riviere Kamo et un mur d'entrees de restaurants, la plupart non marques ou ecrits seulement en kanji, ce qui explique exactement pourquoi la parcourir sans guide signifie habituellement manquer tout ce qui en vaut la peine. Cette visite gastronomique du soir traite cette ruelle, plus la bande riveraine adjacente de Gion Shirakawa, avec ses saules et sa promenade pavee de pierre le long du canal, comme un menu de travail de la culture gastronomique de Kyoto plutot qu'un decor photo. Sur trois heures, un guide local averti conduit de petits groupes a travers plusieurs arrets de degustation choisis pour la variete et l'authenticite : pensez a de vrais plats de style Kyoto enracines dans les traditions culinaires kaiseki et de cuisine maison obanzai de la ville, aux cotes du genre de cuisine izakaya au comptoir que les habitants mangent vraiment un soir de semaine. L'itineraire est construit pour superposer les saveurs au fil de la soiree, quelque chose de leger pour commencer, des plats plus riches dans le milieu, et une cloture satisfaisante, tandis que le guide apporte le contexte sur l'histoire culinaire de Kyoto et ce qui separe un vrai restaurant de Kyoto de celui qui vit de la frequentation de passage. Pontocho et Gion Shirakawa ont ete choisis deliberement : les deux sont des zones ou la culture des maisons de the et des geishas de la ville a historiquement facomne la scene gastronomique environnante. Venez affame, ce n'est pas une visite de leger en-cas. Les restrictions alimentaires valent la peine d'etre signalees a l'avance puisque plusieurs arrets proposent des menus fixes plutot qu'une commande a la carte. Ce que vous obtenez a la fin n'est pas seulement un estomac rempli mais une vraie orientation sur comment Kyoto mange. Pour les voyageurs qui preferent comprendre une ville par sa nourriture plutot que ses temples, c'est la facon la plus efficace et gratifiante de faire exactement cela en une soiree.",
+  "highlights": [],
+  "included": [
+   "Un guide local et plusieurs arrets de degustation de nourriture et de boissons a travers Pontocho et Gion Shirakawa"
+  ],
+  "notIncluded": [
+   "La nourriture ou les boissons supplementaires au-dela des degustations incluses, et le transport a l'hotel ne sont pas inclus"
+  ]
+ },
+ "kyoto-evening-tour": {
+  "title": "Visite gastronomique du soir et des geishas a Kyoto",
+  "metaTitle": "Visite gastronomique du soir de Gion",
+  "metaDescription": "Un repas guide de dix plats a travers des lieux de restauration de Gion caches et sans marque, avec commentaire sur le vrai monde des geiko et maiko.",
+  "shortDescription": "Un repas guide de dix plats a travers des lieux de restauration de Gion caches et sans marque, avec commentaire sur le vrai monde des geiko et maiko.",
+  "fullDescription": "Gion a la nuit tombee fonctionne selon un rythme totalement different de ce que les foules diurnes photographiant Hanamikoji-dori pourraient jamais deviner. Les lanternes s'allument, les facades en bois des maisons de the ochaya centenaires brillent d'ambre, et si vous savez ou regarder, vous pourriez apercevoir une maiko se glisser entre ses rendez-vous dans ses sandales okobo. Cette visite du soir est construite autour de cette transition, l'utilisant comme toile de fond pour un repas de dix plats qui traverse une serie de petits lieux de restauration sans marque que la plupart des visiteurs croisent sans savoir qu'ils existent. Sur trois heures, vous travaillerez a travers une progression de plats qui pourrait inclure de la cuisine maison obanzai saisonniere de style Kyoto, des preparations delicates de tofu d'une boutique qui perfectionne le yuba depuis des generations, des specialites en brochette d'un comptoir a six places, et une finale sucree qui se relie a la longue histoire d'hospitalite du quartier des geishas. Entre les plats, votre guide decortique le vrai monde des geiko et maiko, pas la version exotisee vendue dans les boutiques de souvenirs, mais le vrai systeme d'apprentissage et l'etiquette qui regit encore aujourd'hui le fonctionnement de ces quartiers. Vous passerez devant de vraies ochaya, entendrez comment les reservations y fonctionnent, et comprendrez pourquoi la preservation de Gion compte pour l'identite de Kyoto. C'est une soiree lente et axee sur la nourriture plutot qu'un circuit de photos precipite. Si vous voulez une soiree a Kyoto qui depasse la surface de l'image de carte postale de Gion, c'est construit exactement pour cela.",
+  "highlights": [],
+  "included": [
+   "Visite gastronomique guidee de dix plats a travers Gion avec commentaire culturel sur l'histoire et les traditions des geishas"
+  ],
+  "notIncluded": [
+   "Les boissons alcoolisees au-dela de ce qui est specifie par chaque etablissement ne sont pas incluses"
+  ]
+ },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara a Myokaku-ji : choregraphie au sabre filmee dans l'enceinte d'un temple",
   "metaTitle": "Experience de chambara au sabre a Kyoto",

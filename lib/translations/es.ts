@@ -58257,6 +58257,90 @@ export const ES_TOURS: Record<string, TourT> = {
    "El almuerzo, las tarifas de entrada a templos, y los gastos personales no estan incluidos"
   ]
  },
+ "kyoto-best-guided-tour": {
+  "title": "Lo mejor de Kioto en un dia",
+  "metaTitle": "Lo mejor de Kioto en un dia",
+  "metaDescription": "Un dia completo bien secuenciado por el castillo Nijo, el Pabellon Dorado y el bosque de bambu de Arashiyama en grupo pequeno.",
+  "shortDescription": "Un dia completo bien secuenciado por el castillo Nijo, el Pabellon Dorado y el bosque de bambu de Arashiyama en grupo pequeno.",
+  "fullDescription": "Kioto recompensa a los viajeros lentos, pero la mayoria de los visitantes solo tienen dos o tres dias en la ciudad antes de seguir a Osaka o Tokio, lo que hace que un dia completo bien secuenciado sea genuinamente valioso. Este tour esta construido alrededor de esa realidad: en lugar de amontonar cada templo dentro de los limites de la ciudad, enlaza tres sitios que muestran siglos diferentes y rostros diferentes de Kioto en un unico circuito sensato. El dia se abre en el castillo Nijo, la fortaleza de tierras bajas construida por Tokugawa Ieyasu en 1603 como su residencia en Kioto, famosa por sus 'pisos de ruisenor' que crujen bajo los pies como una alarma incorporada contra asesinos, y por las puertas correderas pintadas del palacio Ninomaru que representan tigres y pinos destinados a intimidar a los daimyo visitantes. Del mundo del teatro politico del shogun, el dia pasa a Kinkaku-ji, el Pabellon Dorado, donde una villa de retiro zen convertida en templo se alza dorada con pan de oro y reflejada en su propio jardin de estanque, una de esas raras vistas que parece casi irreal en persona, mejor apreciada lentamente en lugar de a traves de un visor, exactamente el ritmo que permite un grupo pequeno guiado. La tarde se desplaza enteramente al oeste, al bosque de bambu de Arashiyama, donde el sendero se estrecha y la luz se vuelve verde dorada mientras tallos de bambu milenarios crujen y se golpean arriba con el viento, un registro sensorial completamente diferente al de los templos de la manana, a menudo combinado con un paseo hacia el puente Togetsukyo sobre el rio Katsura si el tiempo lo permite. Esto se desarrolla como un verdadero dia en grupo pequeno, no un tour en autocar de 40 asientos, lo que significa que su guia puede realmente responder preguntas, ajustar el tiempo segun las multitudes, y dar contexto sobre por que estos tres sitios fueron elegidos juntos en lugar de aislados, el shogunato, la estetica zen, y la historia literaria de Arashiyama como retiro para nobles de la era Heian se conectan en una sola historia coherente sobre lo que realmente es Kioto. Con 9,5 horas esto es un dia completo, asi que administre su energia, use zapatos reales para caminar, y espere una mezcla de terrenos de templos, senderos de jardin y algo de tiempo de traslado entre sitios. Si solo tiene un dia para entender por que Kioto ha sido la capital cultural de Japon durante mas de mil anos, este itinerario se gana su nombre.",
+  "highlights": [],
+  "included": [
+   "Guia de habla inglesa, entradas al castillo Nijo y Kinkaku-ji, y transporte de ida y vuelta entre sitios"
+  ],
+  "notIncluded": [
+   "El almuerzo y los gastos personales no estan incluidos en el precio del tour"
+  ]
+ },
+ "kyoto-bike-tour": {
+  "title": "Tour en bicicleta por Kioto",
+  "metaTitle": "Tour en bicicleta por Kioto",
+  "metaDescription": "Un recorrido guiado en bicicleta de tres horas y media por el nucleo historico de Kioto, junto al rio Kamo y por calles residenciales tranquilas.",
+  "shortDescription": "Un recorrido guiado en bicicleta de tres horas y media por el nucleo historico de Kioto, junto al rio Kamo y por calles residenciales tranquilas.",
+  "fullDescription": "Kioto recompensa el movimiento lento mas que casi cualquier otra ciudad de Japon, y una bicicleta resulta ser exactamente la velocidad correcta para ello, lo bastante rapida para cubrir distancia real por una antigua capital extensa, lo bastante lenta para realmente notar las cosas que una ventana de autobus hace borrosas al pasar. Este tour guiado en bicicleta recorre el nucleo historico de Kioto a ese ritmo, cubriendo en dos ruedas terreno que de otro modo significaria un dia agotador de traslados de metro y largas caminatas entre sitios. La ruta normalmente se entreteje por barrios centrales y terrenos de templos, pedaleando junto al rio Kamo donde los locales corren y hacen picnics, por tranquilas calles residenciales bordeadas de casas machiya de madera que nunca aparecen en un itinerario de taxi tipico, y hacia algunos de los templos y santuarios emblematicos de la ciudad. Un guia local conocedor lidera el grupo, aportando la historia detras del papel de Kioto como capital imperial de Japon durante mas de mil anos, y senalando detalles arquitectonicos y culturales faciles de pasar por alto sin contexto. Andar en bicicleta tambien abre partes de la ciudad que los autobuses turisticos simplemente no pueden alcanzar: callejones estrechos, senderos junto al rio, y santuarios de callejones escondidos entre casas. Con 3,5 horas, el ritmo se mantiene comodo en lugar de atletico, con paradas regulares incorporadas para fotos y miradas mas de cerca a cada sitio. Solo se requiere habilidad basica de ciclismo, el terreno en el centro de Kioto es mayormente plano. Use ropa comoda en la que pueda moverse y zapatos adecuados para pedalear, y espere un punto de vista genuinamente diferente sobre una ciudad que la mayoria de los visitantes solo ve desde aceras y andenes de tren. Para cualquiera que quiera cubrir terreno significativo mientras aun siente que se mueve a traves de Kioto en lugar de pasar por ella, este es el formato que entrega ambas cosas.",
+  "highlights": [],
+  "included": [
+   "Alquiler de bicicleta, casco, y una ruta guiada en bicicleta por sitios historicos y barrios centrales de Kioto"
+  ],
+  "notIncluded": [
+   "La recogida/entrega en el hotel, comida y bebidas, y las tarifas de entrada a templos o santuarios no estan incluidas"
+  ]
+ },
+ "kyoto-classic-guided-tour": {
+  "title": "Tour clasico de KYOTO",
+  "metaTitle": "Tour clasico de KYOTO",
+  "metaDescription": "Un dia de siete horas: santuario Fushimi Inari, escenario de madera de Kiyomizu-dera, y el pabellon dorado de Kinkaku-ji, la introduccion clasica a Kioto.",
+  "shortDescription": "Un dia de siete horas que conecta el santuario Fushimi Inari, el escenario de madera de Kiyomizu-dera, y el pabellon dorado de Kinkaku-ji, la introduccion clasica a Kioto.",
+  "fullDescription": "Si esta es su primera vez en Kioto y solo tiene un dia para entender la ciudad antes de seguir adelante, este es el itinerario que cubre el terreno que realmente importa: la montana de puertas torii del santuario Fushimi Inari, el escenario de madera de Kiyomizu-dera que sobresale sobre la ladera de Higashiyama, y el pabellon con pan de oro de Kinkaku-ji reflejado en agua quieta. Este dia de siete horas esta construido especificamente como una introduccion en lugar de una inmersion profunda, tocando los tres lugares que surgen en casi toda conversacion sobre Kioto. Fushimi Inari por la manana significa que esta subiendo por los tuneles de puertas bermellon mientras la luz aun es suave y las multitudes aun no se han formado del todo, una experiencia genuinamente diferente al ajetreo del mediodia en el que la mayoria de los visitantes primerizos se topa. Desde alli, el dia se mueve a Higashiyama, donde el escenario de Kiyomizu-dera, construido sin un solo clavo, una hazana de ingenieria de siglos atras, ofrece vistas panoramicas sobre la ladera boscosa, con los callejones preservados de Ninenzaka y Sannenzaka cerca dandole una muestra de las calles comerciales del viejo Kioto. El dia termina en Kinkaku-ji, posiblemente el edificio mas fotografiado de Kioto, donde los dos pisos superiores estan cubiertos de pan de oro real y toda la estructura se encuentra reflejada en su propio estanque. Lo que hace que este tour funcione como una introduccion clasica es la secuenciacion, esta ritmado para que no retroceda por la ciudad, y le deja con un verdadero mapa mental de la geografia de Kioto al terminar. Para cualquiera que llegue a Kioto con tiempo limitado, esta es la forma eficiente y bien ritmada de hacerlo.",
+  "highlights": [],
+  "included": [
+   "Tour guiado en grupo que cubre la logistica de transporte y la planificacion de ruta entre los tres sitios principales"
+  ],
+  "notIncluded": [
+   "Las tarifas de entrada a templos y santuarios, y las comidas durante el dia no estan incluidas"
+  ]
+ },
+ "kyoto-design-guided-tour": {
+  "title": "Disene su tour personalizado de KYOTO",
+  "metaTitle": "Tour personalizado de Kioto",
+  "metaDescription": "Un guia local veterano construye su dia en Kioto alrededor de sus intereses reales en lugar de una ruta fija, de cuatro a ocho horas, precio por grupo.",
+  "shortDescription": "Un guia local veterano construye su dia en Kioto alrededor de sus intereses reales en lugar de una ruta fija, de cuatro a ocho horas, precio por grupo.",
+  "fullDescription": "La mayoria de los itinerarios de Kioto se construyen al reves, un viajero lee una lista de diez templos imprescindibles, intenta meterlos todos en un dia, y termina apresurandose por el estanque de reflejo dorado de Kinkaku-ji con otras cuarenta personas apuntando a los mismos tres puntos de foto. Este tour personalizado invierte ese proceso: en lugar de entregarle una ruta fija, un guia local veterano se sienta primero con sus intereses, ya sea arquitectura de templos, la cultura de la ceremonia del te de Kioto, la escena gastronomica del mercado Nishiki, el diseno tranquilo de jardines, o las antiguas calles mercantiles de Nishijin, y construye el dia alrededor de lo que realmente quiere ver. Eso podria significar pasar noventa minutos sin prisas en un solo jardin de musgo en lugar de apresurarse entre cinco sitios famosos, o podria significar un circuito agil por los callejones historicos de Higashiyama, Kiyomizu-dera, y una parada en una tienda de dulces familiar que su guia conoce desde hace anos. Debido a que el itinerario se flexiona entre cuatro y ocho horas, funciona igual de bien como un agregado matutino enfocado o un dia completo e inmersivo, y la recogida y entrega en el hotel a peticion hace que la logistica de moverse por una ciudad extensa desaparezca por completo. Lo que distingue esto de un tour de grupo estandarizado es la profundidad del conocimiento local del guia, del tipo que sabe que templo recibe luz matutina fotogenica en lugar de hora dorada, que mostrador de ramen de callejon no aparece en las guias, y como secuenciar las paradas para que nunca retroceda. Es particularmente adecuado para viajeros que ya han hecho un primer viaje a Kioto y quieren profundizar, familias que necesitan un ritmo flexible, o cualquiera que no le guste que lo arreen por un guion fijo. El precio es por grupo en lugar de por persona, lo que lo hace genuinamente economico para parejas, familias, o pequenos grupos de amigos. Si tiene una vision especifica para su dia en Kioto, o ningun plan fijo en absoluto, esto esta construido para encontrarse con usted exactamente ahi.",
+  "highlights": [],
+  "included": [
+   "Un guia local veterano privado de habla inglesa para un itinerario totalmente personalizado, con recogida y entrega en el hotel a peticion"
+  ],
+  "notIncluded": [
+   "Las tarifas de entrada a templos y sitios, comidas, y costos de transporte mas alla de la recogida/entrega del guia no estan incluidos"
+  ]
+ },
+ "kyoto-evening-evening-tour": {
+  "title": "Tour gastronomico nocturno de Pontocho y Gion Shirakawa en Kioto",
+  "metaTitle": "Tour gastronomico de Pontocho y Gion Shirakawa",
+  "metaDescription": "Tres horas de degustaciones guiadas en los callejones de Pontocho y el distrito de Gion Shirakawa para entender como come realmente Kioto.",
+  "shortDescription": "Tres horas de degustaciones guiadas en los callejones de Pontocho y el distrito de Gion Shirakawa para entender como come realmente Kioto.",
+  "fullDescription": "Pontocho despues del anochecer es un unico callejon estrecho adornado de linternas, apretado entre el rio Kamo y una pared de entradas de restaurantes, la mayoria sin marcar o escritas solo en kanji, razon exacta por la cual caminarlo sin guia suele significar perderse todo lo que vale la pena. Este tour gastronomico nocturno trata ese callejon, mas la franja ribera adyacente de Gion Shirakawa, con sus arboles de sauce y su paseo empedrado junto al canal, como un menu de trabajo de la cultura gastronomica de Kioto en lugar de un telon de fondo para fotos. A lo largo de tres horas, un guia local conocedor lleva a grupos pequenos a traves de varias paradas de degustacion elegidas por variedad y autenticidad: piense en platos genuinos de estilo Kioto arraigados en las tradiciones culinarias kaiseki y de cocina casera obanzai de la ciudad, junto al tipo de comida de izakaya de mostrador que los locales realmente comen en una noche de semana. La ruta esta construida para capas de sabores a lo largo de la noche, algo ligero para comenzar, platos mas ricos en el tramo medio, y un cierre satisfactorio, mientras el guia aporta contexto sobre la historia culinaria de Kioto y lo que separa a un restaurante genuino de Kioto de uno que vive del trafico peatonal. Pontocho y Gion Shirakawa fueron elegidos deliberadamente: ambas son zonas donde la cultura de casas de te y geishas de la ciudad historicamente dio forma a la escena gastronomica circundante. Venga con hambre, esto no es un tour de bocadillo ligero. Las restricciones dieteticas merecen senalarse con antelacion ya que varias paradas presentan menus fijos en lugar de pedidos a la carta. Lo que obtiene al final no es solo un estomago lleno sino una orientacion real sobre como come Kioto. Para viajeros que prefieren entender una ciudad a traves de su comida en lugar de sus templos, esta es la forma mas eficiente y gratificante de hacer exactamente eso en una noche.",
+  "highlights": [],
+  "included": [
+   "Un guia local y varias paradas de degustacion de comida y bebida por Pontocho y Gion Shirakawa"
+  ],
+  "notIncluded": [
+   "La comida o bebidas adicionales mas alla de las degustaciones incluidas, y el transporte al hotel no estan incluidos"
+  ]
+ },
+ "kyoto-evening-tour": {
+  "title": "Tour nocturno de comida y geishas en Kioto",
+  "metaTitle": "Tour gastronomico nocturno de geishas en Gion",
+  "metaDescription": "Una comida guiada de diez platos por lugares de comida escondidos y sin marcar de Gion, con comentario sobre el mundo real de las geiko y maiko.",
+  "shortDescription": "Una comida guiada de diez platos por lugares de comida escondidos y sin marcar de Gion, con comentario sobre el mundo real de las geiko y maiko.",
+  "fullDescription": "Gion despues del anochecer funciona con un ritmo totalmente diferente al que las multitudes diurnas fotografiando Hanamikoji-dori alguna vez adivinarian. Las linternas se encienden, las fachadas de madera de las ochaya centenarias brillan en ambar, y si sabe donde mirar, podria ver a una maiko deslizandose entre citas en sus sandalias okobo. Este tour nocturno esta construido alrededor de esa transicion, usandola como telon de fondo para una comida de diez platos que recorre una serie de pequenos lugares de comida sin marcar que la mayoria de los visitantes pasan de largo porque simplemente no saben que estan ahi. A lo largo de tres horas trabajara a traves de una progresion de platos que podria incluir cocina casera obanzai de temporada al estilo Kioto, delicadas preparaciones de tofu de una tienda que ha perfeccionado el yuba durante generaciones, especialidades en brocheta de un mostrador con seis asientos, y un final dulce que se conecta con la larga historia de hospitalidad del distrito de geishas. Entre platos, su guia desentrana el mundo real de las geiko y maiko, no la version exotizada que se vende en tiendas de regalos, sino el verdadero sistema de aprendizaje y la etiqueta que todavia rige como funcionan estos distritos hoy. Pasara junto a verdaderas ochaya, escuchara como funcionan las reservas alli, y entendera por que la preservacion de Gion importa para la identidad de Kioto. Esta es una noche lenta y centrada en la comida en lugar de un circuito apresurado de fotos. Si quiere una noche en Kioto que vaya mas alla de la superficie de la imagen de postal de Gion, esto esta construido exactamente para eso.",
+  "highlights": [],
+  "included": [
+   "Tour gastronomico guiado de diez platos por Gion con comentario cultural sobre la historia y tradiciones de las geishas"
+  ],
+  "notIncluded": [
+   "Las bebidas alcoholicas mas alla de lo especificado por cada establecimiento individual no estan incluidas"
+  ]
+ },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara en Myokaku-ji: coreografia de espada filmada en el recinto del templo",
   "metaTitle": "Experiencia de chambara con espada en Kyoto",

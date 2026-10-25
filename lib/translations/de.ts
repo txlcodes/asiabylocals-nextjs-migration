@@ -58257,6 +58257,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mittagessen, Tempeleintrittsgebuehren und persoenliche Ausgaben sind nicht enthalten"
   ]
  },
+ "kyoto-best-guided-tour": {
+  "title": "Das Beste von Kyoto an einem Tag",
+  "metaTitle": "Das Beste von Kyoto an einem Tag",
+  "metaDescription": "Ein gut sequenzierter Ganztagesausflug durch das Nijo-Schloss, den Goldenen Pavillon und den Bambushain von Arashiyama in kleiner Gruppe.",
+  "shortDescription": "Ein gut sequenzierter Ganztagesausflug durch das Nijo-Schloss, den Goldenen Pavillon und den Bambushain von Arashiyama in kleiner Gruppe.",
+  "fullDescription": "Kyoto belohnt langsame Reisende, aber die meisten Besucher haben nur zwei oder drei Tage in der Stadt, bevor sie nach Osaka oder Tokio weiterziehen, was einen gut sequenzierten vollen Tag wirklich wertvoll macht. Diese Tour ist um diese Realitaet herum aufgebaut: statt jeden Tempel innerhalb der Stadtgrenzen hineinzuquetschen, verbindet sie drei Staetten, die unterschiedliche Jahrhunderte und unterschiedliche Gesichter Kyotos in einer einzigen, vernuenftigen Schleife zeigen. Der Tag oeffnet im Nijo-Schloss, der Flachlandfestung, die Tokugawa Ieyasu 1603 als seine Kyoto-Residenz baute, beruehmt fuer seine 'Nachtigallenboeden', die unter den Schritten als eingebauter Alarm gegen Attentaeter zwitschern, und fuer die bemalten Schiebetueren des Ninomaru-Palasts mit Tigern und Kiefern, die besuchende Daimyo einschuechtern sollten. Vom Welt des politischen Theaters des Shoguns geht der Tag weiter zu Kinkaku-ji, dem Goldenen Pavillon, wo eine zur Tempel gewordene Zen-Ruhestandsvilla goldbeblaettert und in ihrem eigenen Teichgarten gespiegelt steht, einer dieser seltenen Anblicke, der in Person fast unwirklich aussieht, am besten langsam gewuerdigt statt durch einen Sucher, genau das Tempo, das eine kleine gefuehrte Gruppe erlaubt. Der Nachmittag verlagert sich ganz nach Westen, in den Bambushain von Arashiyama, wo sich der Pfad verengt und das Licht gruengoldene Tone annimmt, waehrend tausend Jahre alte Bambusstangen im Wind ueber Ihnen knarren und aneinanderstossen, ein voellig anderes sensorisches Register als die Tempel des Vormittags, oft kombiniert mit einem Spaziergang zur Togetsukyo-Bruecke ueber den Katsura-Fluss, wenn die Zeit es erlaubt. Dies laeuft als richtiger Kleingruppentag, nicht als 40-Sitzer-Bustour, was bedeutet, dass Ihr Guide tatsaechlich Fragen beantworten, das Timing um die Menschenmenge anpassen und Kontext geben kann, warum diese drei Staetten zusammen statt isoliert ausgewaehlt wurden, das Shogunat, die Zen-Aesthetik und Arashiyamas literarische Geschichte als Rueckzugsort fuer Adlige der Heian-Zeit verbinden sich alle zu einer kohaerenten Geschichte darueber, was Kyoto tatsaechlich ist. Mit 9,5 Stunden ist dies ein voller Tag, also teilen Sie sich Ihre Kraft ein, tragen Sie echte Wanderschuhe, und erwarten Sie eine Mischung aus Tempelgelaenden, Gartenpfaden und etwas Transitzeit zwischen den Staetten. Wenn Sie nur einen Tag haben, um zu verstehen, warum Kyoto seit ueber tausend Jahren Japans kulturelle Hauptstadt ist, verdient dieser Reiseplan seinen Namen.",
+  "highlights": [],
+  "included": [
+   "Englischsprachiger Guide, Eintrittsgebuehren zum Nijo-Schloss und Kinkaku-ji, und Hin- und Rueckfahrt zwischen den Staetten"
+  ],
+  "notIncluded": [
+   "Mittagessen und persoenliche Ausgaben sind nicht im Tourpreis enthalten"
+  ]
+ },
+ "kyoto-bike-tour": {
+  "title": "Fahrradtour durch Kyoto",
+  "metaTitle": "Fahrradtour durch Kyoto",
+  "metaDescription": "Eine gefuehrte dreieinhalbstuendige Radtour durch Kyotos historischen Kern, entlang des Kamo-Flusses und durch ruhige Wohnstrassen.",
+  "shortDescription": "Eine gefuehrte dreieinhalbstuendige Radtour durch Kyotos historischen Kern, entlang des Kamo-Flusses und durch ruhige Wohnstrassen.",
+  "fullDescription": "Kyoto belohnt langsame Bewegung mehr als fast jede andere Stadt in Japan, und ein Fahrrad ist zufaellig genau das richtige Tempo dafuer, schnell genug, um echte Entfernung durch eine weitlaeufige ehemalige Hauptstadt abzudecken, langsam genug, um tatsaechlich die Dinge zu bemerken, die ein Busfenster vorbeiziehen laesst. Diese gefuehrte Radtour durchzieht Kyotos historischen Kern in diesem Tempo und deckt auf zwei Raedern Terrain ab, das sonst einen erschoepfenden Tag mit U-Bahn-Umstiegen und langen Gehstrecken zwischen den Staetten bedeuten wuerde. Die Route schlaengelt sich typischerweise durch zentrale Viertel und Tempelgelaende, entlang des Kamo-Flusses, wo Einheimische joggen und picknicken, durch ruhige Wohnstrassen mit traditionellen Machiya-Stadthaeusern, die nie in ein typisches Taxi-Itinerar schaffen, und zu einigen der Wahrzeichen-Tempel und -Schreine der Stadt. Ein kundiger lokaler Guide fuehrt die Gruppe, erklaert die Geschichte hinter Kyotos Rolle als kaiserliche Hauptstadt Japans ueber mehr als tausend Jahre, und weist auf architektonische und kulturelle Details hin, die ohne Kontext leicht uebersehen werden. Das Radfahren erschliesst auch Teile der Stadt, die Reisebusse einfach nicht erreichen koennen: enge Gassen, Uferpfade und Hinterstrassen-Schreine zwischen Haeusern versteckt. Mit 3,5 Stunden bleibt das Tempo angenehm statt sportlich, mit regelmaessigen eingeplanten Stopps fuer Fotos und naehere Betrachtungen jeder Staette. Grundlegende Radfahrfaehigkeiten sind alles, was benoetigt wird, das Gelaende im Zentrum Kyotos ist weitgehend flach. Tragen Sie bequeme Kleidung, in der Sie sich bewegen koennen, und fuer das Treten geeignete Schuhe, und erwarten Sie einen wirklich anderen Blickwinkel auf eine Stadt, die die meisten Besucher nur von Gehsteigen und Bahnsteigen aus sehen. Fuer jeden, der sinnvolles Terrain abdecken moechte und sich dabei das Gefuehl bewahren will, sich durch Kyoto zu bewegen statt daran vorbei, ist dies das Format, das beides liefert.",
+  "highlights": [],
+  "included": [
+   "Fahrradverleih, Helm, und eine gefuehrte Radroute durch zentrale historische Staetten und Viertel Kyotos"
+  ],
+  "notIncluded": [
+   "Hotelabholung/-ruecktransfer, Essen und Getraenke, und Tempel- oder Schreineintrittsgebuehren sind nicht enthalten"
+  ]
+ },
+ "kyoto-classic-guided-tour": {
+  "title": "KYOTO Klassische Tour",
+  "metaTitle": "KYOTO Klassische Tour",
+  "metaDescription": "Ein siebenstuendiger Tag: Fushimi-Inari-Schrein, Holzbuehne von Kiyomizu-dera, und der Goldene Pavillon Kinkaku-ji, die klassische Einfuehrung in Kyoto.",
+  "shortDescription": "Ein siebenstuendiger Tag, der den Fushimi-Inari-Schrein, die Holzbuehne von Kiyomizu-dera, und den Goldenen Pavillon Kinkaku-ji verbindet, die klassische Einfuehrung in Kyoto.",
+  "fullDescription": "Wenn dies Ihr erstes Mal in Kyoto ist und Sie nur einen Tag haben, um die Stadt zu verstehen, bevor Sie weiterziehen, ist dies der Reiseplan, der den wirklich wichtigen Boden abdeckt: Fushimi-Inari-Schreins Berg von Torii-Toren, Kiyomizu-deras hoelzerne Buehne, die ueber den Hang von Higashiyama hinausragt, und Kinkaku-jis goldbeblaetterter Pavillon, gespiegelt in stillem Wasser. Dieser siebenstuendige Tag ist speziell als Einfuehrung statt als Tiefgang aufgebaut und trifft die drei Sehenswuerdigkeiten, die in fast jedem Gespraech ueber Kyoto auftauchen. Fushimi Inari am Morgen bedeutet, dass Sie durch die zinnoberroten Torbogen-Tunnel klettern, waehrend das Licht noch sanft ist und sich die Menschenmengen noch nicht voll gebildet haben, eine wirklich andere Erfahrung als der Mittagsgedraenge, in das die meisten Erstbesucher stolpern. Von dort bewegt sich der Tag nach Higashiyama, wo Kiyomizu-deras Buehne, ohne einen einzigen Nagel gebaut, eine jahrhundertealte Ingenieursleistung, weite Blicke ueber den bewaldeten Hang bietet, mit den erhaltenen Gassen von Ninenzaka und Sannenzaka in der Naehe, die Ihnen einen Vorgeschmack auf die Einkaufsstrassen des alten Kyoto geben. Der Tag endet bei Kinkaku-ji, wohl Kyotos meistfotografiertem Gebaeude, wo die oberen zwei Stockwerke mit echtem Blattgold bedeckt sind und die ganze Struktur in ihrem eigenen Teich gespiegelt steht. Was diese Tour als klassische Einfuehrung funktionieren laesst, ist die Reihenfolge, sie ist so getaktet, dass Sie nicht quer durch die Stadt zurueckgehen muessen, und sie hinterlaesst Ihnen am Ende eine echte mentale Karte von Kyotos Geografie. Fuer jeden, der mit begrenzter Zeit in Kyoto ankommt, ist dies die effiziente, gut getaktete Art, es zu tun.",
+  "highlights": [],
+  "included": [
+   "Gefuehrte Gruppentour mit Transportlogistik und Routenplanung zwischen den drei Hauptstaetten"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren zu Tempeln und Schreinen, und Mahlzeiten den ganzen Tag ueber sind nicht enthalten"
+  ]
+ },
+ "kyoto-design-guided-tour": {
+  "title": "Gestalten Sie Ihre KYOTO-Individualtour",
+  "metaTitle": "Individualtour durch Kyoto",
+  "metaDescription": "Ein erfahrener lokaler Guide baut Ihren Tag in Kyoto um Ihre tatsaechlichen Interessen statt um einen festen Reiseplan, vier bis acht Stunden, Preis pro Gruppe.",
+  "shortDescription": "Ein erfahrener lokaler Guide baut Ihren Tag in Kyoto um Ihre tatsaechlichen Interessen statt um einen festen Reiseplan, vier bis acht Stunden, Preis pro Gruppe.",
+  "fullDescription": "Die meisten Kyoto-Reiseplaene werden rueckwaerts aufgebaut, ein Reisender liest eine Liste von zehn Muss-Sehen-Tempeln, versucht, sie in einen Tag zu quetschen, und landet dabei, durch Kinkaku-jis goldenen Spiegelteich zu hetzen, mit vierzig anderen Leuten, die auf dieselben drei Fotopunkte zielen. Diese Individualtour dreht diesen Prozess um: statt Ihnen eine feste Route zu geben, setzt sich ein erfahrener lokaler Guide zuerst mit Ihren Interessen zusammen, ob das Tempelarchitektur, Kyotos Teezeremonie-Kultur, die Essensszene des Nishiki-Marktes, ruhiges Gartendesign, oder die alten Haendlerstrassen von Nishijin sind, und baut den Tag um das, was Sie tatsaechlich sehen wollen. Das koennte bedeuten, neunzig ungehetzte Minuten in einem einzigen Moosgarten zu verbringen statt zwischen fuenf beruehmten Staetten zu hetzen, oder es koennte einen zuegigen Rundgang durch Higashiyamas historische Gassen, Kiyomizu-dera, und einen Stopp bei einem familiengefuehrten Suessigkeitenladen bedeuten, den Ihr Guide seit Jahren kennt. Da sich der Reiseplan zwischen vier und acht Stunden anpasst, funktioniert er gleich gut als fokussierte Vormittagserweiterung oder als voller immersiver Tag, und Hotelabholung und -ruecktransfer auf Anfrage lassen die Logistik, sich durch eine weitlaeufige Stadt zu bewegen, vollstaendig verschwinden. Was dies von einer schablonenhaften Gruppentour unterscheidet, ist die Tiefe des lokalen Wissens des Guides, der Art, die weiss, welcher Tempel fotogenes Morgenlicht statt goldene Stunde bekommt, welche Hinterstrassen-Ramen-Theke nicht in Reisefuehrern erscheint, und wie man Stopps anordnet, sodass Sie nie zurueckgehen. Es ist besonders geeignet fuer Reisende, die bereits eine erste Kyoto-Reise gemacht haben und tiefer gehen wollen, Familien, die ein flexibles Tempo brauchen, oder jeden, der es nicht mag, durch ein festes Skript getrieben zu werden. Die Preisgestaltung erfolgt pro Gruppe statt pro Person, was es fuer Paare, Familien oder kleine Freundesgruppen wirklich wirtschaftlich macht. Wenn Sie eine spezifische Vision fuer Ihren Kyoto-Tag haben, oder gar keinen festen Plan, ist dies darauf ausgelegt, Sie genau dort zu treffen.",
+  "highlights": [],
+  "included": [
+   "Ein privater englischsprachiger erfahrener lokaler Guide fuer einen vollstaendig individuellen Reiseplan, mit Hotelabholung und -ruecktransfer auf Anfrage"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren zu Tempeln und Orten, Mahlzeiten, und Transportkosten ueber die Guide-Abholung/-Ruecktransfer hinaus sind nicht enthalten"
+  ]
+ },
+ "kyoto-evening-evening-tour": {
+  "title": "Abendliche Essenstour durch Kyotos Pontocho und Gion Shirakawa",
+  "metaTitle": "Essenstour durch Pontocho und Gion Shirakawa",
+  "metaDescription": "Drei Stunden gefuehrter Verkostungen in den Gassen von Pontocho und dem Viertel Gion Shirakawa, um zu verstehen, wie Kyoto wirklich isst.",
+  "shortDescription": "Drei Stunden gefuehrter Verkostungen in den Gassen von Pontocho und dem Viertel Gion Shirakawa, um zu verstehen, wie Kyoto wirklich isst.",
+  "fullDescription": "Pontocho nach Einbruch der Dunkelheit ist eine einzige, mit Lampions behangene schmale Gasse, eingezwaengt zwischen dem Kamo-Fluss und einer Wand von Restauranteingaengen, die meisten unbeschildert oder nur auf Kanji geschrieben, weshalb sie ohne Guide zu durchqueren meist bedeutet, alles Lohnende zu verpassen. Diese abendliche Essenstour behandelt diese Gasse, plus den angrenzenden Uferstreifen Gion Shirakawa mit seinen Weidenbaeumen und dem steingepflasterten Kanalspaziergang, als arbeitendes Menu der Essenskultur Kyotos statt als Fotokulisse. Ueber drei Stunden fuehrt ein kundiger lokaler Guide kleine Gruppen durch mehrere Verkostungsstopps, ausgewaehlt fuer Vielfalt und Authentizitaet: denken Sie an echte Gerichte im Kyoto-Stil, verwurzelt in den Kaiseki- und Obanzai-Hausmannskost-Traditionen der Stadt, neben der Art von Theken-Izakaya-Kost, die Einheimische tatsaechlich an einem Wochentagabend essen. Die Route ist darauf aufgebaut, Aromen ueber den Abend zu schichten, etwas Leichtes zum Start, reichhaltigere Gerichte durch den mittleren Abschnitt, und ein befriedigender Abschluss, waehrend der Guide Kontext zur kulinarischen Geschichte Kyotos liefert und was ein echtes Kyoto-Restaurant von einem unterscheidet, das von Fussgaengerverkehr lebt. Pontocho und Gion Shirakawa wurden bewusst gewaehlt: beide sind Gebiete, in denen die Teehaus- und Geisha-Kultur der Stadt historisch die umgebende Essensszene geformt hat. Kommen Sie hungrig, dies ist keine Tour mit leichten Snacks. Ernaehrungseinschraenkungen sollten im Voraus angegeben werden, da mehrere Stopps feste Menues statt Bestellung a la carte bieten. Was Sie am Ende erhalten, ist nicht nur ein gefuellter Magen, sondern eine echte Orientierung dazu, wie Kyoto isst. Fuer Reisende, die eine Stadt lieber durch ihr Essen verstehen wollen als durch ihre Tempel, ist dies der effizienteste und lohnendste Weg, genau das an einem Abend zu tun.",
+  "highlights": [],
+  "included": [
+   "Ein lokaler Guide und mehrere Verkostungsstopps fuer Essen und Getraenke durch Pontocho und Gion Shirakawa"
+  ],
+  "notIncluded": [
+   "Zusaetzliches Essen oder Getraenke ueber die enthaltenen Verkostungen hinaus, und Hoteltransport sind nicht enthalten"
+  ]
+ },
+ "kyoto-evening-tour": {
+  "title": "Kyoto-Abend- und Geisha-Essenstour",
+  "metaTitle": "Abendliche Geisha-Essenstour in Gion",
+  "metaDescription": "Ein gefuehrtes zehn-Gaenge-Essen durch versteckte, unbeschilderte Essensorte in Gion, mit Kommentar zur echten Welt der Geiko und Maiko.",
+  "shortDescription": "Ein gefuehrtes zehn-Gaenge-Essen durch versteckte, unbeschilderte Essensorte in Gion, mit Kommentar zur echten Welt der Geiko und Maiko.",
+  "fullDescription": "Gion nach Einbruch der Dunkelheit funktioniert nach einem ganz anderen Rhythmus, als die Tagesmenge, die Hanamikoji-dori fotografiert, jemals erraten wuerde. Lampions gehen an, die Holzfassaden jahrhundertealter Ochaya-Teehaeuser leuchten bernsteinfarben, und wenn Sie wissen, wohin Sie schauen muessen, koennten Sie eine Maiko erblicken, die in ihren Okobo-Sandalen zwischen Terminen hindurchschluepft. Diese Abendtour ist um diesen Uebergang herum aufgebaut und nutzt ihn als Kulisse fuer ein zehn-Gaenge-Essen, das sich durch eine Reihe kleiner, unbeschilderter Essensorte bewegt, an denen die meisten Besucher einfach vorbeigehen, weil sie nicht wissen, dass sie existieren. Ueber drei Stunden arbeiten Sie sich durch eine Abfolge von Gerichten, die saisonale Hausmannskost im Kyoto-Obanzai-Stil, delikate Tofu-Zubereitungen von einem Laden, der seit Generationen Yuba perfektioniert, Spiessspezialitaeten von einer Theke mit sechs Plaetzen, und einen suessen Abschluss umfassen koennte, der sich mit der langen Gastfreundschaftsgeschichte des Geisha-Viertels verbindet. Zwischen den Gaengen entschluesselt Ihr Guide die tatsaechliche Welt der Geiko und Maiko, nicht die exotisierte Version, die in Souvenirlaeden verkauft wird, sondern das echte Lehrlingssystem und die Etikette, die regelt, wie diese Viertel noch heute funktionieren. Sie gehen an echten Ochaya vorbei, hoeren, wie Reservierungen dort funktionieren, und verstehen, warum der Erhalt Gions fuer Kyotos Identitaet wichtig ist. Dies ist ein langsamer, essensorientierter Abend statt ein hastiger Foto-Rundgang. Wenn Sie einen Abend in Kyoto wollen, der ueber die Oberflaeche von Gions Postkartenbild hinausgeht, ist dies genau dafuer gebaut.",
+  "highlights": [],
+  "included": [
+   "Gefuehrte zehn-Gaenge-Essenstour durch Gion mit kulturellem Kommentar zur Geisha-Geschichte und Traditionen"
+  ],
+  "notIncluded": [
+   "Alkoholische Getraenke ueber das von einzelnen Lokalen Angegebene hinaus sind nicht enthalten"
+  ]
+ },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara im Myokaku-ji: Schwertchoreografie, gefilmt auf dem Tempelgelände",
   "metaTitle": "Chambara-Schwerterlebnis in Kyoto",
