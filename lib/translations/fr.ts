@@ -58049,6 +58049,127 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "nagoya-shimenawa-wreath-making-workshop": {
+  "title": "Fabriquez un shimenawa : la couronne du nouvel an japonais, a Nagoya",
+  "metaTitle": "Atelier de fabrication de shimenawa a Nagoya",
+  "metaDescription": "Une heure a fabriquer la couronne de corde sacree qui marque un espace purifie aux portes japonaises, dans un studio de trois personnes, materiaux fournis.",
+  "shortDescription": "Une heure a fabriquer la couronne de corde sacree qui marque un espace purifie aux portes japonaises, dans un studio de trois personnes, materiaux fournis.",
+  "fullDescription": "Un shimenawa est une corde de paille de riz qui marque une frontiere. Vous en aurez traverse des dizaines sous vos pieds au Japon sans le remarquer, tendues aux portes des sanctuaires, nouees autour d'arbres anciens, suspendues au-dessus des portes au nouvel an, et ce qu'elles font est de separer l'espace purifie de l'ordinaire. Au nouvel an, les foyers suspendent une forme de couronne a l'entree pour inviter la bonne fortune et ecarter le malheur.\n\nCet atelier en construit une. La logique decorative derriere elle vient directement de l'ikebana, la tradition japonaise de l'arrangement floral, c'est pourquoi la session commence par cela : l'harmonie avec la saison, l'utilisation deliberee de l'espace vide, et la retenue. Ces principes sont ce qui empeche une couronne de devenir un tas d'ornements, et c'est la difference entre quelque chose qui a l'air japonais et quelque chose qui n'en a pas l'air.\n\nVous travaillez avec des fleurs artificielles, donc la piece est durable et, important pour un voyageur, peut traverser une frontiere, contrairement aux matieres vegetales fraiches. Un pistolet a colle et une pince coupante sont fournis, et l'instructeur guide chaque etape. Aucune experience artisanale n'est presupposee.\n\nLe groupe est limite a trois personnes, ce qui en fait l'une des sessions les plus personnelles de la ville, et l'enseignement se fait en anglais. Le studio est un batiment compact a un etage a Kaminagoya aux murs de platre blanc et piliers en bois, dans l'arrondissement de Nishi-ku, facile a identifier depuis la rue.\n\nUne heure, et vous partez avec une piece murale qui porte un veritable morceau de rituel domestique japonais plutot qu'un aimant de frigo. C'est accessible aux fauteuils roulants.",
+  "highlights": [],
+  "included": [
+   "Atelier de fabrication de couronne shimenawa d'une heure",
+   "Fleurs artificielles et tous les materiaux decoratifs",
+   "Pistolet a colle et pince coupante",
+   "Enseignement en anglais",
+   "Votre couronne finie"
+  ],
+  "notIncluded": [
+   "Transport vers le studio",
+   "Nourriture et boissons",
+   "Materiaux supplementaires"
+  ]
+ },
+ "nagoya-bento-making-hatcho-miso-soy-sauce-tasting": {
+  "title": "Composez un bento au hatcho miso : la cuisine fermentee propre a Nagoya",
+  "metaTitle": "Cours de bento au hatcho miso a Nagoya",
+  "metaDescription": "Cuisinez avec le hatcho miso de Nagoya, degustez-le face a d'autres miso et sauces soja, et composez votre propre bento.",
+  "shortDescription": "Deux heures a cuisiner avec le miso sombre vieilli deux ans qui definit la cuisine de Nagoya, en le degustant face a d'autres miso et sauces soja, et en composant votre propre bento.",
+  "fullDescription": "La cuisine de Nagoya a un gout different du reste du Japon et il y a une seule raison : le hatcho miso. Fabrique a Okazaki, a une vingtaine de kilometres d'ici, c'est un miso de soja pur, sans riz ni orge, fermente dans des tonneaux en cedre sous des pierres de riviere empilees pendant deux ans ou plus. Le resultat est presque noir, epais, et bien moins sucre et bien plus savoureux que les miso pales que la plupart des gens connaissent. Nagoya en met partout : katsu, oden, udon, dengaku.\n\nCe cours vous le met en main. Vous cuisinez un ensemble de plats japonais maison simples en utilisant le hatcho miso et la sauce soja traditionnelle, puis les disposez dans un bento, ce qui est une discipline en soi, puisqu'un bento est emballe froid, mange froid et juge autant sur son apparence dans la boite que sur son gout. L'equilibre, la couleur et la facon dont les choses sont serrees font tous partie du jeu.\n\nLa degustation est le cœur pedagogique. Plusieurs miso et sauces soja cote a cote, afin que vous puissiez gouter ce que fait une fermentation de soja de deux ans par rapport a un miso de riz plus leger, et pourquoi une cuisine de Nagoya se comporte differemment d'une cuisine de Kyoto. La plupart des gens partent capables de faire leurs courses de miso avec une vraie intention.\n\nSi vous voulez de l'art de riz personnage ou anime dans votre bento, le nori et les legumes disposes qui transforment une boite-repas en visage, previenez l'operateur a l'avance et il se preparera en consequence. C'est populaire auprès des enfants et, selon notre experience, auprès des adultes qui ne l'admettront pas.\n\nLes groupes sont limites a huit personnes et l'enseignement se fait en anglais. Le studio se trouve a Izumi, centre de Nagoya.",
+  "highlights": [],
+  "included": [
+   "Session de cuisine pratique",
+   "Creation de votre propre bento japonais",
+   "Degustation de plusieurs types de miso et sauce soja",
+   "Instruction sur les ingredients traditionnels de Nagoya",
+   "Instructeur anglophone"
+  ],
+  "notIncluded": [
+   "Transport vers le studio",
+   "Nourriture et boissons supplementaires",
+   "Prise en charge et retour a l'hotel"
+  ]
+ },
+ "nagoya-shinto-priest-shrine-maiden-experience": {
+  "title": "Portez les robes d'un pretre shinto ou d'une miko au sanctuaire Wakaoe",
+  "metaTitle": "Experience de pretre shinto et miko a Nagoya",
+  "metaDescription": "Revetez la tenue de pretre ou de miko au sanctuaire Wakaoe, entrez dans des zones fermees aux visiteurs et creez votre propre sceau goshuin.",
+  "shortDescription": "Revetez la tenue de pretre ou de miko, entrez dans des zones normalement fermees aux visiteurs, creez votre propre sceau goshuin et participez a une ceremonie de culte shinto formelle.",
+  "fullDescription": "Le shinto est la plus ancienne des deux religions du Japon et celle que les visiteurs comprennent le moins, car une visite au sanctuaire se termine en trois minutes, s'incliner, applaudir, s'incliner, partir, et rien dans le rituel ne s'explique de lui-meme. Porter les robes et aller derriere la frontiere ordinaire est une maniere completement differente d'y acceder.\n\nAu sanctuaire Wakaoe, au nord de Nagoya, dedie aux divinites de la prosperite, vous revetez la tenue d'un kannushi, un pretre shinto, ou d'une miko, une servante du sanctuaire. La location du costume et l'entree au sanctuaire sont toutes deux incluses dans le prix. Les pretres portent le haut chapeau laque et des robes superposees ; les miko portent le haut blanc et le hakama vermillon que quiconque a visite un sanctuaire un jour de festival reconnaitra.\n\nCe qui suit est la partie qui ne peut pas s'organiser en simple visiteur. Vous apprenez les rituels et l'etiquette corrects, puis entrez dans des zones normalement reservees au personnel du sanctuaire et y participez a un service devotionnel. Une ceremonie de culte formelle vous rapproche bien plus du sanctuaire interieur que ne le permet la boite d'offrandes publique.\n\nVous creez aussi votre propre goshuin, le sceau calligraphie et tampon que les pelerins collectent dans des carnets a travers les sanctuaires du Japon, plutot que de vous en voir remettre un. Une seance photo en robes cloture la session.\n\nLes pretres parlent tout au long, ce qui est la vraie valeur de l'experience : des questions sur le shinto qu'il serait impossible de poser dans un sanctuaire frequente trouvent ici une vraie reponse.\n\nTrois durees sont proposees, de quarante-cinq a cent cinq minutes. La plus longue est celle qui inclut tout sans se presser. Les groupes sont minuscules, trois personnes maximum.",
+  "highlights": [],
+  "included": [
+   "Location de costume - tenue de pretre shinto ou de miko",
+   "Entree au sanctuaire Wakaoe",
+   "Instruction sur le rituel et l'etiquette shinto",
+   "Acces a des zones normalement reservees au personnel du sanctuaire",
+   "Sceau goshuin personnalise",
+   "Ceremonie de culte formelle",
+   "Seance photo en tenue traditionnelle"
+  ],
+  "notIncluded": [
+   "Transport vers le sanctuaire",
+   "Repas et boissons",
+   "Goshuin supplementaires ou souvenirs"
+  ]
+ },
+ "nagoya-private-koto-lesson-with-musician": {
+  "title": "Une lecon privee de koto dans une salle en tatami a Nagoya",
+  "metaTitle": "Lecon privee de koto a Nagoya",
+  "metaDescription": "Lecon privee de koto a Nagoya avec une musicienne professionnelle, dans une salle japonaise traditionnelle.",
+  "shortDescription": "Quatre-vingt-dix minutes en tete-a-tete avec une musicienne de koto professionnelle, pour apprendre la cithare japonaise a treize cordes dans une salle japonaise traditionnelle.",
+  "fullDescription": "Le koto est pres de deux metres de bois de kiri avec treize cordes de soie tendues sur des chevalets mobiles, et c'est l'instrument que la plupart des gens ont entendu au Japon sans jamais le voir. Il est arrive de Chine au huitieme siecle, est devenu un instrument de cour, et a l'epoque d'Edo etait ce qu'une personne accomplie etait censee savoir jouer.\n\nC'est une lecon privee avec une musicienne professionnelle, limitee a deux personnes, ce qui signifie que vous jouez reellement plutot que de regarder. Vous portez des mediators sur le pouce et les deux premiers doigts de la main droite et pincez les cordes ; la main gauche presse derriere les chevalets pour faire glisser la hauteur, ce qui est l'origine du son glissant caracteristique du koto et ou se trouve la difficulte.\n\nLes fondamentaux sont ce que quatre-vingt-dix minutes vous apportent : la posture, les mediators, le mouvement de pincement, comment les chevalets mobiles accordent chaque corde individuellement, et assez d'une melodie simple pour sentir l'instrument fonctionner. C'est quelque chose de physique a etre assis derriere : le corps est grand, le son est plus puissant qu'on ne l'imagine de pres, et la resonance monte du sol.\n\nLa salle est une classe japonaise traditionnelle, en tatami et silencieuse, et le cadre fait vraiment partie de l'experience, la musique de koto a ete ecrite exactement pour ce type d'espace et sonne faiblement ailleurs.\n\nL'instrument et tous les accessoires sont fournis. Une note pratique sur laquelle l'operateur insiste : apportez des chaussettes. Les pieds nus ne sont pas acceptes dans une salle de style japonais, et c'est le genre de detail genant a decouvrir sur place.",
+  "highlights": [],
+  "included": [
+   "Lecon privee de koto, deux personnes maximum",
+   "Musicienne de koto professionnelle comme instructrice",
+   "Instrument koto et tous les accessoires",
+   "Classe japonaise traditionnelle en tatami"
+  ],
+  "notIncluded": [
+   "Transport vers le lieu",
+   "Repas et boissons",
+   "Chaussettes, a apporter vous-meme, les pieds nus n'etant pas autorises dans une salle de style japonais"
+  ]
+ },
+ "tokyo-ichikawa-zoo-red-pandas-day-trip": {
+  "title": "Pandas roux et Punch-kun : une journee en petit groupe au zoo de la ville d'Ichikawa",
+  "metaTitle": "Zoo d'Ichikawa : pandas roux depuis Tokyo",
+  "metaDescription": "Un petit zoo de Chiba avec treize pandas roux et le bebe singe celebre sur internet, transport depuis Tokyo et entree garantie.",
+  "shortDescription": "Une sortie en groupe de cinq personnes vers un petit zoo de Chiba avec treize pandas roux et le bebe singe celebre sur internet, transport depuis le centre de Tokyo et entree garantie.",
+  "fullDescription": "Le zoo de la ville d'Ichikawa ne figure sur aucun itineraire de Tokyo, et c'est precisement son attrait. C'est un petit zoo municipal a Chiba, a courte distance en voiture de la ville, et l'experience n'y ressemble en rien a Ueno, pas de file d'attente a chaque enclos, pas d'invitation a avancer, et des animaux suffisamment proches pour etre reellement observes.\n\nLe zoo est une institution serieuse pour les pandas roux. Treize y vivent, ce qui represente une proportion significative de la population captive du Japon, et Ichikawa est devenu un leader de leur conservation. Ils sont les mascottes du zoo et l'enclos est construit autour de structures d'escalade en bois, donc vous les voyez faire ce que les pandas roux font vraiment plutot que dormir hors de vue.\n\nL'autre resident qui merite le voyage est Punch-kun, un bebe singe devenu internationalement connu pour son attachement a une peluche. Votre guide raconte comment il a ete eleve et, plus utilement, sait quand et ou il est susceptible d'etre visible.\n\nPour les familles, il y a la place de l'amitie Nakayoshi, ou l'interaction avec les animaux est directe et supervisee.\n\nLa journee est deliberement sans hate, dix heures incluant le transport depuis le centre de Tokyo, avec prise en charge a l'hotel, billets d'entree garantis et un groupe limite a cinq personnes, donc cela ne devient jamais une bousculade. Le guide travaille en anglais.\n\nLe dejeuner et les souvenirs sont a votre charge. Le zoo est accessible aux fauteuils roulants, et c'est l'une des journees completes les plus faciles a faire avec de jeunes enfants, puisque le rythme est fixe par votre propre groupe plutot que par un horaire de car.",
+  "highlights": [],
+  "included": [
+   "Transport aller-retour depuis le centre de Tokyo",
+   "Billet d'entree garanti au zoo de la ville d'Ichikawa",
+   "Guide anglophone",
+   "Experience en petit groupe, cinq personnes maximum"
+  ],
+  "notIncluded": [
+   "Dejeuner",
+   "Souvenirs personnels",
+   "Nourriture et boissons supplementaires"
+  ]
+ },
+ "nagoya-udon-and-gyoza-cooking-class": {
+  "title": "Udon et gyoza faits maison a Nagoya : un cours de cuisine concu pour les familles",
+  "metaTitle": "Cours de cuisine udon et gyoza a Nagoya",
+  "metaDescription": "Fabriquez vos propres udon et gyoza a Nagoya avec une nutritionniste diplomee, et degustez sauce soja, miso et mirin d'Aichi.",
+  "shortDescription": "Petrissez, etalez et decoupez vos propres udon, preparez un bouillon dashi et pliez des gyoza, avec une nutritionniste diplomee et des sauces soja, miso et mirin d'Aichi a deguster.",
+  "fullDescription": "L'udon est le bon plat a apprendre en premier, car tout repose sur une seule competence : bien reussir la pate. C'est de la farine, de l'eau et du sel, et tout ce qui separe un bon bol d'un mauvais se passe dans le petrissage et le repos. Une fois que vous l'avez fait de vos mains, vous pouvez gouter la difference dans chaque bol que vous mangerez ensuite.\n\nLe cours commence par cela. Vous petrissez la pate, l'etalez et decoupez vos propres nouilles, ce qui est salissant et satisfaisant et la raison pour laquelle cette session fonctionne si bien avec des enfants, la transformation d'un morceau de pate en assiette de nouilles est visible et entierement votre œuvre. Puis le dashi, le bouillon qui sous-tend la majeure partie de la cuisine japonaise, et votre propre choix de garnitures.\n\nLes gyoza suivent, et les plier est la moitie sociable des deux heures. Les plis demandent quelques essais et les premiers de chacun sont terribles ; au dixieme ils ressemblent a ceux d'une boutique, et a ce moment la table a generalement cesse d'etre composee d'etrangers.\n\nL'enseignante est une nutritionniste diplomee et specialiste culinaire, et le style d'enseignement est deliberement decontracte et inclusif, c'est un cours concu pour fonctionner avec un groupe allant des jeunes enfants aux grands-parents plutot que pour les seuls passionnes de cuisine.\n\nLa prefecture d'Aichi produit certains des meilleurs assaisonnements fermentes du Japon, et vous degustez sauce soja, miso et mirin artisanaux locaux pendant la cuisine, ce qui est une education utile sur pourquoi la cuisine japonaise regionale a ce gout.\n\nLe studio se trouve a Izumi, dans l'arrondissement de Higashi-ku, centre de Nagoya. Les groupes vont jusqu'a seize personnes.",
+  "highlights": [],
+  "included": [
+   "Fabrication de nouilles udon de zero",
+   "Preparation du bouillon dashi",
+   "Pliage de boulettes gyoza",
+   "Degustation de sauce soja, miso et mirin artisanaux d'Aichi",
+   "Cours dirige par une nutritionniste diplomee et specialiste culinaire",
+   "Le repas que vous cuisinez"
+  ],
+  "notIncluded": [
+   "Transport vers le studio",
+   "Nourriture et boissons supplementaires",
+   "Prise en charge et retour a l'hotel"
+  ]
+ },
  "japanese-postcard-painting-etegami-workshop-in-kyoto": {
   "title": "Atelier de peinture de cartes postales japonaises (etegami) à Kyoto",
   "fullDescription": "Cette expérience de 1 heure se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend atelier de peinture de cartes postales japonaises traditionnelles, Instructeur Ekaki japonais, outils et techniques authentiques, numérisation et amélioration de l'œuvre et sac fourre-tout de haute qualité avec motif imprimé. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",

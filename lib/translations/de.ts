@@ -58049,6 +58049,127 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld"
   ]
  },
+ "nagoya-shimenawa-wreath-making-workshop": {
+  "title": "Fertigen Sie ein Shimenawa: den japanischen Neujahrskranz, in Nagoya",
+  "metaTitle": "Shimenawa-Workshop in Nagoya",
+  "metaDescription": "Eine Stunde, um den heiligen Seilkranz zu fertigen, der einen reinen Raum an japanischen Türschwellen markiert, in einem Drei-Personen-Studio, Material inklusive.",
+  "shortDescription": "Eine Stunde, um den heiligen Seilkranz zu fertigen, der einen reinen Raum an japanischen Türschwellen markiert, in einem Drei-Personen-Studio, Material inklusive.",
+  "fullDescription": "Ein Shimenawa ist ein Seil aus Reisstroh, das eine Grenze markiert. Sie sind in Japan unter Dutzenden davon hindurchgegangen, ohne es zu merken, über Schreintoren gespannt, um alte Bäume gebunden, über Türschwellen zum Neujahr gehängt, und ihre Funktion ist es, den reinen Raum vom gewöhnlichen zu trennen. Zu Neujahr hängen Haushalte eine Kranzform davon am Eingang, um Glück einzuladen und Unglück abzuhalten.\n\nDieser Workshop baut einen. Die dekorative Logik dahinter stammt direkt aus Ikebana, Japans Blumensteckkunst, weshalb die Sitzung dort beginnt: Harmonie mit der Jahreszeit, bewusste Nutzung von leerem Raum und Zurückhaltung. Diese Prinzipien verhindern, dass ein Kranz zu einem Haufen Zierde wird, und sie sind der Unterschied zwischen etwas, das japanisch aussieht, und etwas, das es nicht tut.\n\nSie arbeiten mit Kunstblumen, sodass das Stück langlebig ist und, wichtig für einen Reisenden, eine Grenze überschreiten kann, anders als frisches Pflanzenmaterial. Eine Heißklebepistole und ein Drahtschneider werden bereitgestellt, und der Lehrer leitet jede Stufe an. Keine Handwerkserfahrung wird vorausgesetzt.\n\nDie Gruppe ist auf drei begrenzt, was dies zu einer der persönlichsten Sitzungen der Stadt macht, und der Unterricht erfolgt auf Englisch. Das Studio ist ein kompaktes einstöckiges Gebäude in Kaminagoya mit weißen Gipswänden und Holzpfosten, in Nishi-ku, leicht von der Straße aus zu erkennen.\n\nEine Stunde, und Sie gehen mit einem Wandstück, das ein echtes Stück japanisches häusliches Ritual trägt statt eines Kühlschrankmagneten. Es ist rollstuhlgerecht.",
+  "highlights": [],
+  "included": [
+   "Einstündiger Shimenawa-Kranz-Workshop",
+   "Kunstblumen und alle dekorativen Materialien",
+   "Heißklebepistole und Drahtschneider",
+   "Unterricht auf Englisch",
+   "Ihr fertiger Kranz"
+  ],
+  "notIncluded": [
+   "Transport zum Studio",
+   "Essen und Getränke",
+   "Zusätzliche Materialien"
+  ]
+ },
+ "nagoya-bento-making-hatcho-miso-soy-sauce-tasting": {
+  "title": "Stellen Sie ein Bento mit Hatcho-Miso her: Nagoyas eigene fermentierte Küche",
+  "metaTitle": "Hatcho-Miso-Bento-Kurs in Nagoya",
+  "metaDescription": "Kochen Sie mit Nagoyas Hatcho-Miso, verkosten Sie es gegen andere Miso und Sojasaucen, und packen Sie Ihr eigenes Bento.",
+  "shortDescription": "Zwei Stunden kochen mit dem dunklen, zwei Jahre gereiften Miso, das Nagoyas Küche prägt, Verkostung gegen andere Miso und Sojasaucen, und Packen Ihrer eigenen Bento-Box.",
+  "fullDescription": "Nagoyas Essen schmeckt anders als der Rest Japans, und es gibt einen Grund dafür: Hatcho-Miso. In Okazaki hergestellt, etwa zwanzig Kilometer von hier, ist es reines Sojabohnen-Miso, kein Reis oder Gerste, zwei Jahre oder länger in Zedernfässern unter gestapelten Flusssteinen fermentiert. Das Ergebnis ist fast schwarz, dickflüssig und weit weniger süß und viel würziger als die hellen Misos, die die meisten Leute kennen. Nagoya gibt es auf alles: Katsu, Oden, Udon, Dengaku.\n\nDieser Kurs legt es Ihnen in die Hände. Sie kochen eine Reihe einfacher japanischer Hausmannsgerichte mit Hatcho-Miso und traditioneller Sojasauce und arrangieren sie zu einem Bento, was eine eigene Disziplin ist, da ein Bento kalt gepackt, kalt gegessen und ebenso danach beurteilt wird, wie es in der Box aussieht, wie danach, wie es schmeckt. Balance, Farbe und wie eng die Dinge sitzen, sind alle Teil davon.\n\nDie Verkostung ist der pädagogische Kern. Mehrere Miso und Sojasaucen nebeneinander, sodass Sie schmecken können, was eine zweijährige Sojabohnenfermentierung im Vergleich zu einem helleren Reis-Miso bewirkt, und warum eine Nagoya-Küche sich anders verhält als eine Kyoto-Küche. Die meisten gehen in der Lage, gezielt Miso einzukaufen.\n\nWenn Sie Charakter- oder Anime-Reiskunst in Ihrem Bento möchten, das arrangierte Nori und Gemüse, das eine Lunchbox in ein Gesicht verwandelt, informieren Sie den Anbieter im Voraus, und er wird sich darauf vorbereiten. Dies ist bei Kindern beliebt und, nach unserer Erfahrung, bei Erwachsenen, die es nicht zugeben werden.\n\nGruppen sind auf acht begrenzt, und der Unterricht erfolgt auf Englisch. Das Studio liegt in Izumi, im Zentrum von Nagoya.",
+  "highlights": [],
+  "included": [
+   "Praktische Kochsitzung",
+   "Erstellung Ihres eigenen japanischen Bento",
+   "Verkostung mehrerer Miso- und Sojasaucen-Arten",
+   "Unterricht zu traditionellen Nagoya-Zutaten",
+   "Englischsprachiger Lehrer"
+  ],
+  "notIncluded": [
+   "Transport zum Studio",
+   "Zusätzliches Essen und Getränke",
+   "Hotelabholung und -rücktransport"
+  ]
+ },
+ "nagoya-shinto-priest-shrine-maiden-experience": {
+  "title": "Tragen Sie die Gewänder eines Shinto-Priesters oder einer Miko am Wakaoe-Schrein",
+  "metaTitle": "Shinto-Priester- und Miko-Erlebnis in Nagoya",
+  "metaDescription": "Priester- oder Miko-Kleidung am Wakaoe-Schrein, Zugang zu geschlossenen Bereichen und Ihr eigener Goshuin-Stempel.",
+  "shortDescription": "Legen Sie Priester- oder Schreinmädchen-Kleidung an, betreten Sie Bereiche, die normalerweise für Besucher geschlossen sind, fertigen Sie Ihren eigenen Goshuin-Stempel und nehmen Sie an einer formellen shintoistischen Zeremonie teil.",
+  "fullDescription": "Shinto ist die ältere der beiden Religionen Japans und die, die Besucher am wenigsten verstehen, denn ein Schreinbesuch ist in drei Minuten vorbei, verneigen, klatschen, verneigen, gehen, und nichts am Ritual erklärt sich selbst. Die Gewänder zu tragen und hinter die gewöhnliche Grenze zu gehen, ist ein völlig anderer Zugang.\n\nAm Wakaoe-Schrein im Norden von Nagoya, den Gottheiten des Wohlstands gewidmet, legen Sie die Kleidung eines Kannushi, eines Shinto-Priesters, oder einer Miko, eines Schreinmädchens, an. Die Kostümvermietung und der Schreineintritt sind beide im Preis enthalten. Priester tragen die hohe lackierte Mütze und geschichtete Gewänder; Miko tragen das weiße Oberteil und den vermillionfarbenen Hakama, den jeder erkennt, der einen Schrein an einem Festtag besucht hat.\n\nWas folgt, ist der Teil, der als Besucher nicht arrangiert werden kann. Sie lernen die richtigen Rituale und Etikette, betreten dann Bereiche, die normalerweise dem Schreinpersonal vorbehalten sind, und nehmen dort an einem Andachtsdienst teil. Eine formelle Verehrungszeremonie bringt Sie viel näher an den inneren Schrein, als es die öffentliche Opferbox erlaubt.\n\nSie fertigen auch Ihren eigenen Goshuin, den kalligrafierten und gestempelten Siegel, den Pilger in Büchern an Schreinen in ganz Japan sammeln, statt einen überreicht zu bekommen. Eine Fotositzung in den Gewändern schließt die Sitzung ab.\n\nDie Priester sprechen durchgehend, was der eigentliche Wert ist: Fragen zum Shinto, die an einem belebten Schrein unmöglich wären, werden hier richtig beantwortet.\n\nDrei Längen werden angeboten, von fünfundvierzig bis hundertfünf Minuten. Die längste ist die, die alles ohne Hetze einschließt. Gruppen sind winzig, maximal drei.",
+  "highlights": [],
+  "included": [
+   "Kostümvermietung – Shinto-Priester- oder Schreinmädchen-Kleidung",
+   "Eintritt zum Wakaoe-Schrein",
+   "Unterricht in Shinto-Ritual und -Etikette",
+   "Zugang zu Bereichen, die normalerweise dem Schreinpersonal vorbehalten sind",
+   "Personalisierter Goshuin-Stempel",
+   "Formelle Verehrungszeremonie",
+   "Fotositzung in traditioneller Kleidung"
+  ],
+  "notIncluded": [
+   "Transport zum Schrein",
+   "Mahlzeiten und Getränke",
+   "Zusätzliche Goshuin oder Souvenirs"
+  ]
+ },
+ "nagoya-private-koto-lesson-with-musician": {
+  "title": "Eine private Koto-Lektion in einem Tatami-Raum in Nagoya",
+  "metaTitle": "Private Koto-Lektion in Nagoya",
+  "metaDescription": "Neunzig Minuten eins zu eins mit einem professionellen Koto-Spieler, Erlernen Japans dreizehnsaitiger Zither in einem traditionellen japanischen Raum.",
+  "shortDescription": "Neunzig Minuten eins zu eins mit einem professionellen Koto-Spieler, Erlernen Japans dreizehnsaitiger Zither in einem traditionellen japanischen Raum.",
+  "fullDescription": "Die Koto ist fast zwei Meter Paulownia-Holz mit dreizehn Seidensaiten, die über bewegliche Stege gespannt sind, und sie ist das Instrument, das die meisten Leute in Japan gehört haben, ohne es je gesehen zu haben. Sie kam im achten Jahrhundert aus China, wurde ein Hofinstrument, und in der Edo-Zeit war sie das, was eine gebildete Person spielen können sollte.\n\nDies ist eine private Lektion mit einem professionellen Spieler, auf zwei Personen begrenzt, was bedeutet, dass Sie tatsächlich spielen statt zuzuschauen. Sie tragen Plektren am Daumen und den ersten beiden Fingern der rechten Hand und zupfen die Saiten; die linke Hand drückt hinter den Stegen, um die Tonhöhe zu verändern, woher die charakteristische gleitende Tonalität der Koto kommt und wo die Schwierigkeit liegt.\n\nDie Grundlagen sind, was neunzig Minuten Ihnen bringen, Haltung, die Plektren, die Zupfbewegung, wie die beweglichen Stege jede Saite einzeln stimmen, und genug einer einfachen Melodie, um das Instrument arbeiten zu fühlen. Es ist eine physische Sache, dahinter zu sitzen: der Körper ist groß, der Klang ist größer als erwartet aus der Nähe, und die Resonanz steigt durch den Boden auf.\n\nDer Raum ist ein traditioneller japanischer Unterrichtsraum, Tatami und still, und die Umgebung ist ein echter Teil des Erlebnisses, Koto-Musik wurde genau für diese Art von Raum geschrieben und klingt überall sonst dünn.\n\nDas Instrument und alle Zubehörteile werden bereitgestellt. Ein praktischer Hinweis, bei dem der Anbieter konsequent ist: bringen Sie Socken mit. Barfuß ist in einem japanisch gestalteten Raum nicht akzeptabel, und das ist die Art von Detail, die bei der Ankunft unangenehm zu entdecken ist.",
+  "highlights": [],
+  "included": [
+   "Private Koto-Lektion, maximal zwei Personen",
+   "Professioneller Koto-Musiker als Lehrer",
+   "Koto-Instrument und alle Zubehörteile",
+   "Traditioneller japanischer Tatami-Unterrichtsraum"
+  ],
+  "notIncluded": [
+   "Transport zum Veranstaltungsort",
+   "Mahlzeiten und Getränke",
+   "Socken – bringen Sie Ihre eigenen mit, da barfuß in einem japanisch gestalteten Raum nicht erlaubt ist"
+  ]
+ },
+ "tokyo-ichikawa-zoo-red-pandas-day-trip": {
+  "title": "Rote Pandas und Punch-kun: ein Kleingruppentag im Ichikawa-Stadt-Zoo",
+  "metaTitle": "Ichikawa-Zoo: Rote Pandas ab Tokio",
+  "metaDescription": "Ein kleiner Chiba-Zoo mit dreizehn roten Pandas und dem im Internet berühmten Babyaffen, mit Transport ab Tokio und garantiertem Eintritt.",
+  "shortDescription": "Ein Tagesausflug für fünf Personen zu einem kleinen Chiba-Zoo mit dreizehn roten Pandas und dem im Internet berühmten Babyaffen, mit Transport ab Zentral-Tokio und garantiertem Eintritt.",
+  "fullDescription": "Der Ichikawa-Stadt-Zoo steht auf keiner Tokio-Reiseroute, und das ist genau sein Reiz. Es ist ein kleiner städtischer Zoo in Chiba, eine kurze Fahrt von der Stadt entfernt, und das Erlebnis dort ist nichts wie Ueno, keine Warteschlangen an jedem Gehege, kein Weitergeschoben-Werden, und Tiere, die nah genug sind, um tatsächlich beobachtet zu werden.\n\nDer Zoo ist eine ernsthafte Rote-Panda-Institution. Dreizehn leben hier, was einen erheblichen Anteil der Gefangenschaftspopulation Japans darstellt, und Ichikawa ist zu einem Vorreiter in deren Erhaltung geworden. Sie sind die Maskottchen des Zoos, und das Gehege ist um hölzerne Kletterstrukturen gebaut, sodass Sie sie tun sehen, was rote Pandas tatsächlich tun, statt außer Sicht zu schlafen.\n\nDer andere Bewohner, der die Reise wert ist, ist Punch-kun, ein Babyaffe, der international bekannt wurde für seine Anhänglichkeit an ein Plüschtier. Ihr Guide erzählt die Geschichte, wie er aufgezogen wurde, und, nützlicher noch, weiß, wann und wo er wahrscheinlich sichtbar ist.\n\nFür Familien gibt es den Nakayoshi-Freundschaftsplatz, wo die Interaktion mit den Tieren handgreiflich und überwacht ist.\n\nDer Tag ist bewusst ohne Eile, zehn Stunden einschließlich Transport ab Zentral-Tokio, mit Hotelabholung, garantierten Eintrittskarten und einer Gruppe, die auf fünf begrenzt ist, sodass es nie zum Gedränge kommt. Der Guide arbeitet auf Englisch.\n\nMittagessen und Souvenirs sind auf eigene Kosten. Der Zoo ist rollstuhlgerecht, und dies ist einer der einfacheren Ganztage mit kleinen Kindern, da das Tempo von Ihrer eigenen Gruppe statt von einem Busfahrplan bestimmt wird.",
+  "highlights": [],
+  "included": [
+   "Hin- und Rückfahrt ab Zentral-Tokio",
+   "Garantiertes Eintrittsticket zum Ichikawa-Stadt-Zoo",
+   "Englischsprachiger Guide",
+   "Kleingruppenerlebnis, maximal fünf Personen"
+  ],
+  "notIncluded": [
+   "Mittagessen",
+   "Persönliche Souvenirs",
+   "Zusätzliches Essen und Getränke"
+  ]
+ },
+ "nagoya-udon-and-gyoza-cooking-class": {
+  "title": "Handgemachtes Udon und Gyoza in Nagoya: ein für Familien gestalteter Kochkurs",
+  "metaTitle": "Udon- und Gyoza-Kochkurs in Nagoya",
+  "metaDescription": "Stellen Sie Ihr eigenes Udon und Gyoza in Nagoya her, mit einer Ernährungsberaterin und Aichi-Sojasauce, Miso und Mirin zur Verkostung.",
+  "shortDescription": "Kneten, rollen und schneiden Sie Ihr eigenes Udon, bereiten Sie eine Dashi-Brühe zu und falten Sie Gyoza, mit einer lizenzierten Ernährungsberaterin und Aichi-Sojasauce, Miso und Mirin zur Verkostung.",
+  "fullDescription": "Udon ist das richtige Gericht, um zuerst zu lernen, denn alles beruht auf einer Fähigkeit: den Teig richtig zu bekommen. Es ist Mehl, Wasser und Salz, und alles, was eine gute Schale von einer schlechten unterscheidet, passiert beim Kneten und Ruhen. Sobald Sie es mit Ihren Händen getan haben, können Sie den Unterschied in jeder Schale schmecken, die Sie danach essen.\n\nDer Kurs beginnt dort. Sie kneten den Teig, rollen ihn aus und schneiden Ihre eigenen Nudeln, was chaotisch und befriedigend ist und der Grund, warum diese Sitzung mit Kindern so gut funktioniert, die Verwandlung von einem Teigklumpen zu einem Teller Nudeln ist sichtbar und ganz Ihr Werk. Dann die Dashi, die Brühe, die den Großteil der japanischen Küche untermauert, und Ihre eigene Wahl an Toppings.\n\nGyoza folgt, und sie zu falten ist die gesellige Hälfte der zwei Stunden. Die Falten brauchen ein paar Versuche, und die ersten von jedem sind schrecklich; bis zum zehnten sehen sie aus wie die aus einem Laden, und bis dahin ist der Tisch meist keine Fremden mehr.\n\nDie Lehrerin ist eine lizenzierte Ernährungsberaterin und Kulinarik-Spezialistin, und der Unterrichtsstil ist bewusst entspannt und inklusiv, dies ist ein Kurs, der für eine Gruppe von kleinen Kindern bis Großeltern funktionieren soll, nicht nur für begeisterte Köche.\n\nDie Präfektur Aichi stellt einige der besten fermentierten Würzmittel Japans her, und Sie verkosten lokal hergestellte Sojasauce, Miso und Mirin neben dem Kochen, was eine nützliche Lehre darüber ist, warum regionales japanisches Essen so schmeckt, wie es schmeckt.\n\nDas Studio liegt in Izumi in Higashi-ku, im Zentrum von Nagoya. Gruppen gehen bis zu sechzehn Personen.",
+  "highlights": [],
+  "included": [
+   "Herstellung von Udon-Nudeln von Grund auf",
+   "Zubereitung der Dashi-Brühe",
+   "Falten von Gyoza-Teigtaschen",
+   "Verkostung lokal hergestellter Sojasauce, Miso und Mirin aus Aichi",
+   "Von einer lizenzierten Ernährungsberaterin und Kulinarik-Spezialistin geleiteter Kurs",
+   "Die Mahlzeit, die Sie kochen"
+  ],
+  "notIncluded": [
+   "Transport zum Studio",
+   "Zusätzliches Essen und Getränke",
+   "Hotelabholung und -rücktransport"
+  ]
+ },
  "japanese-postcard-painting-etegami-workshop-in-kyoto": {
   "title": "Japanischer Postkarten-Malworkshop (Etegami) in Kyoto",
   "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Kyoto. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nKyoto war über tausend Jahre lang bis 1868 Japans Hauptstadt und hat 17 UNESCO-gelistete Stätten unter rund 2.000 Tempeln und Schreinen. Die großen drei sind Kinkaku-ji, der Goldene Pavillon, mit Goldblatt bedeckt und am besten im Morgenlicht; Kiyomizu-dera, die Holzbühne auf den östlichen Hügeln mit den Higashiyama-Gassen von Sannenzaka und Ninenzaka darunter; und die Tore von Fushimi Inari. Die Burg Nijo hat die Nachtigallenböden, die gegen Eindringlinge quietschen, und Ryoan-ji den Steingarten. Tempel öffnen gegen 8:00 oder 9:00 Uhr und schließen um 17:00 Uhr, und der Stadtbus ist langsam; ein Tag mit einem Fahrer oder Guide, der die Stopps gegen die Menschenmassen ordnet, macht den Unterschied zwischen vier Sehenswürdigkeiten und sieben.\n\nIm Preis enthalten sind Traditioneller japanischer Postkarten-Malworkshop, Japanischer Ekaki-Instruktor, Authentische Werkzeuge und Techniken, Digitalisierung und Verbesserung des Kunstwerks und Hochwertige Tragetasche mit aufgedrucktem Design. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
