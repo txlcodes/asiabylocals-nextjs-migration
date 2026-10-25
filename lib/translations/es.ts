@@ -57556,6 +57556,111 @@ export const ES_TOURS: Record<string, TourT> = {
    "Fotografia donde esta restringida"
   ]
  },
+ "aokigahara-lava-forest-guided-nature-walk": {
+  "title": "Caminata guiada privada por el bosque de lava de Aokigahara, al pie del monte Fuji",
+  "metaTitle": "Caminata guiada por el bosque de Aokigahara",
+  "metaDescription": "Una caminata privada por Aokigahara, el bosque nacido de una colada de lava del monte Fuji de mil anos, leida a nivel de copas, suelo y cuevas.",
+  "shortDescription": "Una caminata privada guiada por Aokigahara, el bosque que crecio sobre una colada de lava del monte Fuji de mil anos, leida a nivel de copas, suelo y cuevas subterraneas. La tarifa cubre un grupo de hasta seis en lugar de por caminante.",
+  "fullDescription": "Aokigahara es un bosque con fecha de nacimiento. En el ano 864, una erupcion en el flanco noroeste del monte Fuji envio la colada de lava Jogan sobre la llanura de abajo, y todo lo que recorre aqui ha crecido sobre esa roca desde entonces. Tres mil hectareas hoy, densas y verdes y con apenas unos doce siglos, lo cual en terminos forestales es joven. Ese unico hecho explica casi todo lo extrano de este lugar, y un buen guia dedica la caminata a desentranarlo.\n\nEl suelo sobre la lava es fino, a veces de solo unos centimetros de profundidad, por lo que los arboles no pueden hundir sus raices de la forma habitual. En cambio las extienden lateralmente, y el suelo del bosque es un enredo de raices que se arrastran sobre basalto cubierto de musgo, aferrandose a la roca como dedos. Donde una colada de lava fue espesa, el suelo es desnudo y duro y solo ciertas especies se afianzan; donde se adelgazo o se dividio, bolsas de suelo mas profundas permitieron que viejos gigantes sobrevivieran. El resultado es un mosaico de zonas de vegetacion marcadamente distintas lado a lado, con grandes arboles aislados en terreno donde nada de eso deberia crecer. Una vez senalado, se puede leer la forma de la erupcion en los arboles.\n\nEl guia trabaja el bosque en tres niveles. Sobre su cabeza, el dosel y la luz que deja pasar. A sus pies, la superficie de lava, el musgo, los sistemas de raices y la pequena ecologia que vive en las grietas. Debajo de ambos, el subsuelo: tubos de lava y cuevas formados cuando el exterior de una colada se enfrio y endurecio mientras la roca fundida seguia corriendo desde dentro, dejando pasajes huecos que se mantienen lo bastante frios para conservar hielo hasta bien entrado el verano. Las cuevas de Aokigahara y el bosque mas amplio llevan designaciones de monumento natural nacional, y toda la zona se encuentra dentro del Parque Nacional Fuji-Hakone-Izu y dentro del sitio del Patrimonio Cultural Mundial Fujisan que el monte Fuji recibio en 2013 por su lugar en el arte y la peregrinacion japoneses.\n\nLas brujulas, por cierto, realmente se comportan mal. El basalto del Fuji es inusualmente rico en hierro y magnetizado, por lo que una aguja sostenida cerca del suelo puede desviarse varios grados. Es una curiosidad geologica genuina y una de las razones por las que caminar aqui con alguien que conoce el bosque importa mas que en otros lugares: los senderos son sutiles, el terreno parece igual en todas direcciones, y las partes interesantes estan lejos de las lineas obvias.\n\nEn la practica, es una caminata facil, no una excursion, y comienza desde tres horas. El suelo es lava irregular con raices y escalones de roca bajos, por lo que se necesita pisada segura y calzado adecuado, pero no hay escalada ni mucho desnivel. Se reunen en la estacion de Fujisan en Fujiyoshida y el transporte privado hacia y desde el bosque forma parte del tour. La reserva es privada para hasta seis personas y la tarifa cubre a todo el grupo en lugar de por caminante, por lo que una familia de cinco paga lo mismo que una pareja. Solo quedan fuera los gastos personales como comida, bebidas y recuerdos. Combina de forma natural con una estancia en Kawaguchiko o Fujiyoshida y funciona casi cualquier epoca del ano, aunque el bosque esta en su mejor momento en los meses verdes y despues de la lluvia, cuando el musgo esta totalmente despierto.",
+  "highlights": [],
+  "included": [
+   "Servicios de guia",
+   "Transporte privado de ida y vuelta desde el punto de encuentro hasta el destino"
+  ],
+  "notIncluded": [
+   "Gastos personales (comida, bebidas, recuerdos)"
+  ]
+ },
+ "central-tokyo-bike-tour": {
+  "title": "Tour en bicicleta de ruta por Tokio: cinco horas con bici, equipo y duchas",
+  "metaTitle": "Tour en bicicleta de ruta por Tokio",
+  "metaDescription": "Una bicicleta de ruta real, ropa de ciclismo, cinco horas con un guia que compite, y una ducha antes de seguir con el dia.",
+  "shortDescription": "Una bicicleta de ruta real, ropa de ciclismo, cinco horas con un guia que compite, y una ducha antes de seguir con el dia.",
+  "fullDescription": "Esto esta pensado para personas que pedalean en casa y no quieren una bicicleta turistica. Las bicicletas son de ruta, el ritmo es un ritmo de rodaje, y el guia es un ciclista en lugar de un guia turistico que da la casualidad de que tiene bicicletas.\n\nTokio es mejor para esto de lo que su reputacion sugiere. Es plana, y las rutas junto al rio, el Arakawa en particular, ofrecen largos tramos ininterrumpidos sin ningun semaforo, que es donde los ciclistas locales entrenan; los caminos del dique se extienden por decenas de kilometros hacia la bahia. La ruta combina eso con el circuito del Palacio Imperial, un recorrido de cinco kilometros alrededor de los fosos y muros de piedra del antiguo castillo de Edo, y el frente de la bahia, asi que se obtiene rodaje real y monumentos reales en las mismas cinco horas.\n\nTodo viene incluido: bicicleta, casco, ropa de ciclismo si no trajo la suya, y el detalle que hace todo esto practico, la oficina tiene vestuarios y ducha, asi que puede limpiarse y continuar su dia en lugar de volver al hotel sudado. Traiga sus propios zapatos y pedales si usa pedales automaticos; si no, se instalan pedales planos.\n\nLa guia se realiza en ingles o italiano. Lo recogen en la estacion mas cercana a la oficina, lo que evita navegar por un barrio desconocido en una bicicleta que aun no se ha ajustado a usted.\n\nLa temporada importa mas aqui que en un tour a pie. La primavera y el otono son ideales, el pleno verano junto al rio es caluroso y expuesto con casi nada de sombra, y el invierno es frio pero despejado. Funciona con lluvia ligera y se cancela con reembolso en clima severo.",
+  "highlights": [],
+  "included": [
+   "Alquiler de bicicleta de ruta por cinco horas",
+   "Casco y ropa de ciclismo",
+   "Guia de habla inglesa o italiana",
+   "Recogida desde la estacion hasta la oficina",
+   "Acceso a vestuario y ducha",
+   "Seguro de bicicleta"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Traslados de hotel",
+   "Zapatos y pedales de ciclismo (traiga los suyos si usa automaticos)",
+   "Propinas"
+  ]
+ },
+ "chubu-electric-power-mirai-tower-walking-tour": {
+  "title": "Tour privado a pie por el castillo de Nagoya y el patrimonio samurai",
+  "metaTitle": "Tour a pie por el castillo de Nagoya",
+  "metaDescription": "Una caminata privada de tres horas por el castillo de Nagoya, su calle gastronomica de la era samurai, y la torre emblematica de la ciudad.",
+  "shortDescription": "Una caminata privada de tres horas por el castillo de Nagoya, su calle gastronomica de la era samurai, y la torre emblematica de la ciudad.",
+  "fullDescription": "El castillo de Nagoya ancla este tour privado a pie, y su historia es realmente la historia de la ciudad misma. Tokugawa Ieyasu ordeno su construccion en 1612 para asegurar la ruta Tokaido y protegerse de senores de la guerra rivales al oeste, convirtiendolo en una de las grandes fortalezas del periodo Edo. Los bombardeos aliados destruyeron la torre de madera original en 1945, y la reconstruccion de hormigon inaugurada en 1959 restauro su silueta, incluido el par de shachihoko dorados, los ornamentos miticos con cabeza de tigre y cuerpo de pez que aun coronan el tejado y aparecen en todo, desde tapas de alcantarilla hasta mercancia de la ciudad. Un guia local recorre el terreno explicando como los fosos, muros de piedra y disposicion del castillo funcionaban como arquitectura defensiva real en lugar de decoracion.\n\nDesde el castillo, la ruta continua hacia Kinshachi Yokocho, una calle gastronomica reconstruida de la era Edo construida justo al borde del castillo, donde fachadas de madera recuerdan la vida samurai y mercantil que una vez rodeo la fortaleza. Es un tramo compacto y lleno de ambiente que conecta directamente la historia del castillo con la forma en que los residentes comunes de Nagoya habrian vivido y comido cerca. El guia usa la calle para explicar la estructura social y la vida cotidiana de la era samurai de una forma facil de imaginar frente a la arquitectura circundante.\n\nEl tour termina en la Chubu Electric Power MIRAI TOWER, la torre de television de Nagoya y uno de sus hitos modernos mas reconocibles, construida en 1954 como la primera torre de TV construida a tal efecto en Japon. Estar entre el castillo centenario y la torre de mediados de siglo ofrece un arco compacto de tres horas por la identidad de Nagoya: fortaleza feudal, calle mercantil y reconstruccion de posguerra, todo a distancia comoda a pie y narrado por un guia privado todo el tiempo.",
+  "highlights": [],
+  "included": [
+   "Guia local privado durante tres horas, ruta a pie que cubre el castillo de Nagoya, Kinshachi Yokocho y la torre MIRAI"
+  ],
+  "notIncluded": [
+   "Entrada al castillo de Nagoya, comida y bebidas en Kinshachi Yokocho, recogida y regreso al hotel, propinas"
+  ]
+ },
+ "daikoku-parking-area-evening-tour": {
+  "title": "Conduccion nocturna por Tokio: el Wangan, el area Daikoku y la escena JDM",
+  "metaTitle": "Conduccion nocturna por la escena de autos de Tokio",
+  "metaDescription": "Un asiento de copiloto por la cultura automovilistica nocturna de Tokio: el Wangan, tuneles, el puente Rainbow y el encuentro del area Daikoku.",
+  "shortDescription": "Un asiento de copiloto por la cultura automovilistica nocturna de Tokio: el Wangan, tuneles, el puente Rainbow y el encuentro del area Daikoku.",
+  "fullDescription": "La escena de autos de Tokio es real, ocurre de noche, y es casi imposible de alcanzar sin alguien que ya forme parte de ella. Esto es un paseo como pasajero, usted lo es durante las cuatro horas completas, por lo que no se necesita licencia ni permiso internacional, y observa la carretera en lugar de conducirla.\n\nLa ruta sigue las carreteras que la escena realmente usa. El Wangan es la autopista costera que recorre toda la bahia de Tokio, y sus tuneles y curvas amplias son la razon por la que se convirtio en sinonimo de las carreras callejeras japonesas decadas antes de que cualquier pelicula tomara prestado el nombre. El puente Rainbow cruza hacia Odaiba con el perfil de la ciudad apilado detras, y los monumentos de la ciudad vienen primero, mientras las autopistas aun se van llenando.\n\nEl area de servicio Daikoku es el corazon de todo. Un area de servicio situada en un bucle de rampa elevada en el puerto de Yokohama, accesible solo desde la propia autopista, se convierte las noches de fin de semana en el encuentro informal de autos mas famoso de Japon, construcciones bosozoku, Skylines impecables, camiones kei modificados mas alla de lo razonable, todos aparcados en filas bajo luz de sodio. La entrada es gratuita y el ambiente relajado; la gente viene a mirar los autos de los demas.\n\nA-Pit Autobacs, la Torre de Tokio y el cruce de Shibuya completan la noche. Traiga una camara, las paradas estan pensadas para fotos, y la poca luz es toda la estetica.\n\nUna aclaracion: Daikoku es un area de estacionamiento publica, no un evento organizado. La afluencia depende del clima y de si la policia esta dispersando a la gente esa noche, y nadie puede prometer un lleno total. Las noches de fin de semana son mucho mas concurridas que las de semana. Termina tarde, asi que planifique un comienzo lento a la mañana siguiente, y reserve en grupo ya que la capacidad del vehiculo es pequena.",
+  "highlights": [],
+  "included": [
+   "Vehiculo privado con un conductor aficionado",
+   "Recogida y regreso al hotel en el centro de Tokio",
+   "Combustible y todos los peajes de autopista",
+   "Entrada al area Daikoku",
+   "Paradas para fotos durante todo el recorrido"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Cualquier compra de mercancia o piezas",
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
+ "ena-gorge-full-day-tour": {
+  "title": "Excursion de colores de otono: garganta de Korankei y Magome-juku desde Nagoya",
+  "metaTitle": "Excursion de otono Korankei y Magome-juku",
+  "metaDescription": "Una excursion desde Nagoya que combina la historia del Nakasendo con dos de los mejores lugares de color otonal de la region de Chubu.",
+  "shortDescription": "Una excursion desde Nagoya que combina la historia del Nakasendo con dos de los mejores lugares de color otonal de la region de Chubu.",
+  "fullDescription": "El otono en la region de Chubu atrae multitudes por una buena razon, y esta excursion desde el centro de Nagoya esta construida especificamente alrededor de esa temporada, enlazando una garganta pintoresca, una ciudad comercial preservada, y uno de los valles de arces mas fotografiados de Japon. Es un dia de turismo mas largo que una caminata guiada estricta, mezclando viaje panoramico en autobus con tiempo tranquilo a pie en cada lugar.\n\nDespues de salir de la Chubu Electric Power MIRAI TOWER, el grupo se dirige primero a un mirador sobre la garganta de Ena para fotos, luego a Magome-juku, uno de los pueblos de posta mejor conservados de la historica ruta comercial Nakasendo que una vez conecto Edo, la actual Tokio, con Kioto. Casi dos horas estan reservadas aqui para el almuerzo, las compras y pasear por su calle principal empedrada. Desde ahi, el tour continua hacia una colina conocida localmente por el shikizakura, una rara variedad de cerezo que florece por segunda vez en otono junto con el cambio de hojas, antes de terminar en la garganta de Korankei, cuyo valle bordeado de arces y puente en arco se consideran entre los mejores lugares para ver el follaje otonal en el centro de Japon.\n\nEste es un tour recien publicado de un operador local licenciado sin historial de resenas aun, asi que esperen un dia de turismo sencillo y bien ritmado en lugar de una experiencia estrictamente curada. El momento del follaje varia cada ano, asi que de mediados a finales de noviembre generalmente ofrece el mejor color tanto en Magome-juku como en la garganta de Korankei.",
+  "highlights": [],
+  "included": [
+   "Transporte de ida y vuelta en autobus desde Nagoya, comentario del guia, paradas en la garganta de Ena, Magome-juku, Shikizakura y la garganta de Korankei"
+  ],
+  "notIncluded": [
+   "Almuerzo y bebidas (disponibles para comprar en Magome-juku), gastos personales, propinas"
+  ]
+ },
+ "forest-bathing-hike-to-minoh-falls-walk-with-a-local-guide-in-osaka": {
+  "title": "Caminata de bano de bosque hasta las cataratas de Minoh, con un guia local en Osaka",
+  "metaTitle": "Bano de bosque en las cataratas de Minoh, Osaka",
+  "metaDescription": "Una experiencia de dos horas y media desde Osaka, centrada en las cataratas de Minoh, con guia de habla inglesa y grupo pequeno garantizado.",
+  "shortDescription": "Tour en Osaka, que incluye una caminata a pie y las cataratas de Minoo. Organizado por la empresa Miu, reservado directamente en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de dos horas y media desde Osaka, construida alrededor de las cataratas de Minoh. Su plaza se mantiene reservada con el operador antes de que tratemos su reserva como definitiva.\n\nOsaka es la cocina de Japon: la ciudad que invento el takoyaki, el okonomiyaki y el kushikatsu, y el canal de letreros de neon de Dotonbori es donde se comen. El castillo de Osaka es una reconstruccion de hormigon de 1931 de la fortaleza de Hideyoshi con un museo dentro y un foso y parque que valen una hora; el mercado Kuromon es el mercado de alimentos; Shinsekai es el distrito retro bajo la torre Tsutenkaku; el Umeda Sky Building tiene el mirador al aire libre. Osaka es la base para excursiones de un dia a Nara, Kobe, Himeji y Koyasan, todas a menos de una hora y media. La ciudad es mas ruidosa y mas barata que Kioto y su gente es conocida por ello.\n\nEl precio cubre guia de habla inglesa, bano de bosque, visita a un cafe local escondido y grupo pequeno confirmado. No cubre el transporte hacia/desde la estacion de Minoh, comida y bebidas en el cafe, y seguro de viaje, asi que presupueste eso por separado. Todo lo incluido esta listado por completo en esta pagina; si algo no esta en esa lista, asuma que no esta en el precio.\n\nJapon, 562-0001 prefectura de Osaka, ciudad de Minoh, Minoh 1-chome, estacion de Minoh. Necesitamos al menos un dia de aviso previo, y confirmamos la fecha antes de tratar su reserva como definitiva. Si la fecha no puede confirmarse, se lo decimos y le reembolsamos en lugar de dejarlo esperando.",
+  "highlights": [],
+  "included": [
+   "Guia local de habla inglesa",
+   "Experiencia de bano de bosque (Shinrin-yoku)",
+   "Visita a un cafe local escondido",
+   "Garantia de grupo pequeno (maximo 6 huespedes)"
+  ],
+  "notIncluded": [
+   "Transporte hacia/desde la estacion de Minoh",
+   "Comida y bebidas en el cafe",
+   "Seguro de viaje"
+  ]
+ },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara en Myokaku-ji: coreografia de espada filmada en el recinto del templo",
   "metaTitle": "Experiencia de chambara con espada en Kyoto",
