@@ -58173,6 +58173,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten, Getraenke und andere persoenliche Gegenstaende, Zug- und Busfahrkarten von Osaka nach Uda und zurueck (ca. 10 USD pro Richtung)"
   ]
  },
+ "kintetsu-nara-station-guided-tour": {
+  "title": "Nara in drei UNESCO-Staetten: Kofuku-ji, Todai-ji und Kasuga Taisha",
+  "metaTitle": "Nara in drei UNESCO-Staetten",
+  "metaDescription": "Ein dreistuendiger gefuehrter Spaziergang, der Kofuku-ji, den Nara-Park, den grossen Buddha von Todai-ji und das laternengesaeumte Kasuga Taisha verbindet.",
+  "shortDescription": "Ein dreistuendiger gefuehrter Spaziergang, der Kofuku-ji, den Nara-Park, den grossen Buddha von Todai-ji und das laternengesaeumte Kasuga Taisha verbindet.",
+  "fullDescription": "Drei von Naras UNESCO-gelisteten Staetten liegen innerhalb eines langen Spaziergangs voneinander, und diese dreistuendige gefuehrte Route verbindet sie in der historisch sinnvollen Reihenfolge. Sie beginnen bei Kofuku-ji, dem Clantempel der Familie Fujiwara, deren fuenfstoeckige Pagode seit Jahrhunderten die Skyline-Markierung der alten Hauptstadt ist. Von dort fuehrt der Spaziergang in den Nara-Park, erreicht dann Todai-ji und endet bei Kasuga Taisha, sodass sich der Vormittag von aristokratischer Tempelpolitik ueber staatlichen Buddhismus zu shintoistischem Ritual bewegt, ohne zurueckzugehen.\n\nDas Herzstueck ist der Daibutsu, der etwa fuenfzehn Meter hohe Bronze-Buddha, der 752 n. Chr. eingeweiht wurde, als Nara, damals Heijo-kyo genannt, Japans erste staendige Hauptstadt war. Die Halle, die ihn beherbergt, die Daibutsuden, wurde 1709 bei etwa zwei Drittel der Breite des Originals wiederaufgebaut und gehoert immer noch zu den groessten Holzgebaeuden ueberhaupt. Kasuga Taisha, 768 n. Chr. gegruendet, beendet die Route mit einem voellig anderen Ton: Tausende von Stein- und Bronzelaternen, von Glaeubigen ueber die Jahrhunderte gestiftet, saeumen seine Zugangswege und haengen von seinen Dachvorsprueungen.\n\nZwischen den Staetten sind Sie in Begleitung der wilden Sika-Hirsche des Nara-Parks, mehr als tausend von ihnen, behandelt als Boten der Gottheit Takemikazuchi und seit 1957 als Nationales Naturdenkmal geschuetzt. Sie sind echte wilde Tiere statt ein Streichelzoo, und Ihr Guide erklaert, wie man Shika-Senbei-Kekse anbietet, ohne ueberrannt zu werden. Das Tempo ist durchgehend Gehtempo, auf flachen Pfaden mit einem sanften Anstieg hinauf zu Kasuga Taisha.",
+  "highlights": [],
+  "included": [
+   "Englischsprachiger lokaler Guide, gefuehrter Kommentar bei Kofuku-ji, Nara-Park, Todai-ji und Kasuga Taisha"
+  ],
+  "notIncluded": [
+   "Eintritt zum Daibutsuden von Todai-ji, Hirschkekse (Shika Senbei), Essen und Getraenke, Hoteltransfers, Zugfahrpreis nach Nara"
+  ]
+ },
+ "kintetsu-nara-station-walking-tour": {
+  "title": "Nara-Sake-Spaziergang: Verkostungen, Fachgeschaefte und Hinterstrassen",
+  "metaTitle": "Nara-Sake-Spaziergang",
+  "metaDescription": "Ein dreistuendiger Sake-Spaziergang in kleiner Gruppe durch das Zentrum von Nara mit gefuehrten Verkostungen, Fachgeschaeften und lokalen Hinterstrassen.",
+  "shortDescription": "Ein dreistuendiger Sake-Spaziergang in kleiner Gruppe durch das Zentrum von Nara mit gefuehrten Verkostungen, Fachgeschaeften und lokalen Hinterstrassen.",
+  "fullDescription": "Nara hat einen ernstzunehmenden Anspruch darauf, der Ort zu sein, wo die raffinierte Sake-Brauerei begann. Dem Tempel Shoryaku-ji, in den Huegeln suedoestlich der Stadt, wird die Entwicklung frueher Bodaimoto-Starterkulturen zugeschrieben, die die Sake-Herstellung seitdem geformt haben. Dieser dreistuendige Spaziergang nimmt diese Geschichte als Ausgangspunkt und tut dann das Naheliegende: stellt Ihnen Glaeser vor und laesst einen Guide erklaeren, was Sie probieren.\n\nSie treffen sich am Bahnhof Kintetsu Nara und trinken innerhalb ein paar Gehminuten, in einer lokalen Bar, wo der gefuehrte Verkostungsteil etwa 25 Minuten dauert. Der Rest der Tour ist ein Rundgang durch die umgebenden Strassen zwischen den Stopps, der Fach-Sakegeschaefte und die gewoehnlichen Hintergassen einer Stadt umfasst, die die meisten Besucher nur zwischen den Tempeltoren sehen. Ihr Guide erklaert die Grundlagen, ohne daraus einen Vortrag zu machen: was Junmai und Ginjo tatsaechlich bedeuten, wie Polierverhaeltnisse den Charakter eines Sakes veraendern, und warum Nara-Brauer immer noch von ihren klosterlichen Vorgaengern sprechen. Die Schleife kehrt zum Bahnhof Kintetsu Nara zurueck, wo sie begann.\n\nEs ist ein Erlebnis in kleiner Gruppe und ein guter Ausgleich zu einem Tag auf der Tempelroute, besonders am spaeten Nachmittag, wenn Todai-ji und Kasuga Taisha sich beruhigen. Kommen Sie hungrig genug, um mehrere Verkostungen zu bewaeltigen, und betrachten Sie dies als Trinktour statt als Besichtigungstour; die Hirsche und der grosse Buddha sind einen kurzen Gehweg entfernt, aber nicht Teil der Route.",
+  "highlights": [],
+  "included": [
+   "Englischsprachiger Sake-Guide, Sake-Verkostungen waehrend der Tour, Besuch einer lokalen Bar und Fach-Sakegeschaefte"
+  ],
+  "notIncluded": [
+   "Mahlzeiten, zusaetzliche Getraenke ausserhalb des Verkostungssets, Souvenirflaschen, Transport nach Nara, Hotelabholung"
+  ]
+ },
+ "kofuku-ji-temple-half-day-tour": {
+  "title": "Naras Weltkulturerbe-Kern: Privater Halbtagsspaziergang zu Kofuku-ji, Todai-ji und Kasuga Taisha",
+  "metaTitle": "Naras Weltkulturerbe-Kern in einem Halbtag",
+  "metaDescription": "Ein privater gefuehrter Halbtagsspaziergang durch Naras UNESCO-Kern: Kofuku-ji, den Hirschpark, den grossen Buddha und Kasuga Taisha.",
+  "shortDescription": "Ein privater gefuehrter Halbtagsspaziergang durch Naras UNESCO-Kern: Kofuku-ji, den Hirschpark, den grossen Buddha und Kasuga Taisha.",
+  "fullDescription": "Vier Staetten, je fuenfundvierzig Minuten, ein Guide und nur Ihre eigene Gruppe: dieser Halbtagsspaziergang ist die effiziente Version von Nara. Er beginnt entweder am Bahnhof Kintetsu Nara, wenige Minuten von den Parktoren, oder am Bahnhof Kyoto, falls Sie lieber mit Ihrem Guide hinausreisen, und beschraenkt sich auf den Weltkulturerbe-Kern der alten Hauptstadt statt sich ueber die Praefektur zu verteilen.\n\nSie beginnen bei Kofuku-ji, deren fuenfstoeckige Pagode die Silhouette ist, die die meisten Menschen fotografieren, ohne den Namen zu kennen; der Tempel war der Clantempel der Fujiwara und besass einst genug Macht, um eigene Armeen aufzustellen. Von dort fuehrt die Route durch den Nara-Park, Heimat von mehr als tausend wilden Sika-Hirschen, die seit Jahrhunderten als Boten von Takemikazuchi geschuetzt sind und 1957 zum Nationalen Naturdenkmal erklaert wurden. Todai-ji folgt, wo der Daibutsu, etwa fuenfzehn Meter gegossene Bronze, 752 n. Chr. eingeweiht wurde und in einer 1709 bei zwei Drittel seiner urspruenglichen Breite wiederaufgebauten Halle steht, die trotzdem zu den groessten Holzgebaeuden der Welt zaehlt. Der Spaziergang endet bei Kasuga Taisha, 768 n. Chr. gegruendet, erreicht durch bewaldete Allee, behangen und gestapelt mit Tausenden von Stein- und Bronzelaternen, die Glaeubige ueber mehr als ein Jahrtausend gestiftet haben.\n\nEin halber Tag reicht fuer diese vier aus, weil sie nahe beieinander liegen, und ein Guide zu haben bedeutet, dass Sie die Verbindungen zwischen ihnen erhalten statt vier getrennter Stopps. Nara ist etwa 35 bis 40 Minuten von Osaka und rund 45 von Kyoto entfernt, sodass sich das leicht mit einem Nachmittag zurueck in einer der beiden Staedte kombinieren laesst.",
+  "highlights": [],
+  "included": [
+   "Privater Guide fuer die Dauer des Spaziergangs, gefuehrter Kommentar an allen vier Staetten, Reiseplan ab Ihrem gewaehlten Startpunkt"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer Tempel und Schreine, Zugfahrpreise bei Start ab Kyoto, Mahlzeiten und Getraenke, Hirschkekse, Trinkgelder"
+  ]
+ },
+ "kyoto-airport-mini-tour": {
+  "title": "Taxidienst zum Kansai-Flughafen (KIX)",
+  "metaTitle": "Taxi zum Kansai-Flughafen (KIX)",
+  "metaDescription": "Die Landung am Kansai International Airport nach einem Langstreckenflug ist desorientierend genug, auch ohne danach Zuganschluesse ausknobeln zu muessen.",
+  "shortDescription": "Die Landung am Kansai International Airport nach einem Langstreckenflug ist desorientierend genug, auch ohne danach Zuganschluesse, Gepaeck auf Treppen und Verbindungen ausknobeln zu muessen, die nicht ganz zur Lage Ihres Hotels passen.",
+  "fullDescription": "Die Landung am Kansai International Airport nach einem Langstreckenflug ist desorientierend genug, auch ohne danach Zuganschluesse, Gepaeck auf Treppen und Verbindungen ausknobeln zu muessen, die nicht ganz zur Lage Ihres Hotels passen. Der lokale Anbieter existiert, um dieses gesamte Problem zu beseitigen: ein Privatwagen und ein englischsprachiger Fahrer, der bei der Ankunft auf Sie wartet, Ihre Flugnummer bereits erfasst, damit sie wissen, ob Sie verspaetet sind, und eine direkte Tuer-zu-Tuer-Fahrt zu Ihrem Hotel in Osaka, Kyoto, Nara, Kobe oder Himeji ohne einen einzigen Umstieg. Fuer Kyoto bedeutet das speziell, die Kombination aus Haruka-Express plus lokalem Nahverkehr zu ueberspringen, die typischerweise mit Umstiegen weit ueber eine Stunde dauert, und statt dessen eine feste Autobahnroute zu fahren, die Sie in etwa 90 Minuten Tuer zu Tuer zu Ihrer Unterkunft bringt, mit Ihrem Gepaeck vom Fahrer gehandhabt statt durch Bahnhofstreppenhaeuser gezogen. Das zaehlt am meisten bei der Ankunft einer Reise, wenn Jetlag die Navigation durch ein unbekanntes Verkehrssystem wirklich schwieriger macht, als es auf dem Papier aussieht, und bei der Abreise, wenn ein verpasster Zuganschluss einen internationalen Flug kosten kann. Der Service funktioniert in beide Richtungen zwischen KIX und der weiteren Kansai-Region, und die Preisgestaltung erfolgt pro Fahrzeug statt pro Person, was ihn fuer Familien oder Gruppen von drei oder vier wesentlich wirtschaftlicher macht als einzelne Zugfahrkarten zu kaufen. Jede Buchung umfasst Flugueberwachung, sodass bei Verspaetung Ihres eingehenden Fluges der Fahrer die Abholzeit automatisch anpasst statt Sie nach einem bereits abgefahrenen Wagen suchen zu lassen. Ein Empfangsperson trifft Sie in der Ankunftshalle mit einem Namensschild, begleitet Sie zum Fahrzeug, und der Fahrer uebernimmt die Kommunikation in brauchbarem Englisch fuer grundlegende Reiselogistik. Dies ist keine Tour oder Erfahrung im ueblichen Sinn, es ist ein praktischer, privater Transfer, gebaut fuer Reisende, die ihre ersten und letzten Stunden in Japan lieber mit Ausruhen oder dem Durchgehen ihres Reiseplans verbringen als mit dem Kampf gegen Ticketautomaten. Wenn Ihr Flug spaet landet, Ihre Gruppe mehr Gepaeck hat, als ein Zug bequem bewaeltigen kann, oder Sie einfach eine Sache weniger zu planen wollen, zahlt sich dieser Transfer aus, bevor Ihre Reise ueberhaupt richtig begonnen hat.",
+  "highlights": [],
+  "included": [
+   "Privatfahrzeug, englischsprachiger Fahrer, Flugueberwachung und Empfangsservice"
+  ],
+  "notIncluded": [
+   "Maut ueber die Standardroute hinaus und jeglicher zusaetzlich angeforderter Stopp ausserhalb des gebuchten Reiseplans sind nicht enthalten"
+  ]
+ },
+ "kyoto-arashiyama-chopstick-making-workshop": {
+  "title": "Hobeln und schleifen Sie Ihre eigenen Essstaebchen in Arashiyama",
+  "metaTitle": "Essstaebchen-Workshop in Arashiyama",
+  "metaDescription": "Eine Stunde ueber einem Laden nahe Tenryu-ji, in der Sie ein Paar Essstaebchen mit einem Handhobel aus selbst gewaehltem Holz formen.",
+  "shortDescription": "Eine Stunde ueber einem Laden nahe Tenryu-ji, in der Sie ein Paar Essstaebchen mit einem Handhobel aus selbst gewaehltem Holz formen, die guenstigste praktische Aktivitaet in Arashiyama.",
+  "fullDescription": "Arashiyama fuellt sich. Der Bambushain, die Bruecke und Tenryu-ji verbrauchen den groessten Teil eines Vormittags und den groessten Teil der Menge, und am frueuhen Nachmittag suchen viele Besucher nach etwas zu tun, das kein Anstehen ist. Dieser Workshop ist eine gute Antwort, und bei diesem Preis ist es nahe an der guenstigsten praktischen Stunde in Kyoto.\n\nSie beginnen damit, Holz zu waehlen. Drei Sorten sind enthalten und mehr als zehn sind verfuegbar, jede mit unterschiedlicher Maserung, Farbe und Geruch, die helleren Hoelzer sind weicher unter dem Hobel, die dunkleren Premium-Sorten halten eine Schneide besser und kosten einen Aufpreis. Ihr Rohling kommt auf einen Staender und Sie formen ihn mit einem Handhobel, was der Teil ist, der die Menschen ueberrascht: das Werkzeug macht die Arbeit, wenn Ihr Winkel richtig ist, und ihn falsch zu machen erzeugt ein sofortiges, offensichtliches Ergebnis. Schleifpapier folgt, dann eine Schicht natuerliches Oel, das die Maserung hervorbringt und versiegelt.\n\nGravur ist verfuegbar, wenn Sie Ihren Namen in Kanji oder die Holzsorte auf dem fertigen Paar markiert haben wollen. Das Ganze dauert eine Stunde, alles wird gestellt, und das Personal arbeitet durchgehend auf Englisch. Es wird keine Fertigkeit vorausgesetzt und nichts ist scharf genug, um sich bei aelteren Kindern Sorgen zu machen.\n\nDer Workshop befindet sich im zweiten Stock eines Gebaeudes in Sagatenryuji Susukinobabacho, die Treppe hinauf links vom Eingang, ein paar Minuten vom Tempel und Hain entfernt. Das Personal gibt auch wirklich nuetzliche Tipps fuer den Rest von Arashiyama, welche Pfade sich ausduennen, wo der Eingang zum Affenpark tatsaechlich ist, was sich lohnt, bevor Sie wieder losziehen.\n\nWenn Sie lieber Essstaebchen in Nara fertigen moechten, fuehren wir dort einen separaten Workshop; dieser ist die Kyoto-Option und die beiden sind nicht verbunden.",
+  "highlights": [],
+  "included": [
+   "Essstaebchen-Workshop mit allen Werkzeugen und Materialien, Holzauswahl mit drei enthaltenen Sorten, Handhobel, Schleifen und natuerliche Oelfinish, englischsprachiges Personal, lokale Tipps zur Erkundung von Arashiyama"
+  ],
+  "notIncluded": [
+   "Premium-Holzauswahl ueber die drei enthaltenen Sorten hinaus, personalisierte Gravur, Essen und Getraenke, Transport zum Workshop"
+  ]
+ },
+ "kyoto-around-bike-tour": {
+  "title": "Kyoto umrunden mit einer privaten E-Bike-Tagestour mit Hotelabholung",
+  "metaTitle": "Private E-Bike-Tour durch Kyoto",
+  "metaDescription": "Kyotos Muss-Sehen-Orte liegen weit verteilt, Gion im Osten, Arashiyama im Westen, eine private E-Bike-Tour verbindet alles an einem Tag.",
+  "shortDescription": "Kyotos Muss-Sehen-Orte verteilen sich ueber eine Stadt, die einfaches Gehen erschwert, Gion liegt im Osten, Arashiyama weit im Westen, und die Tempel dazwischen sind durch Entfernungen getrennt, die einen einzigen Besichtigungstag zu Fuss eher erschoepfend als angenehm machen.",
+  "fullDescription": "Kyotos Muss-Sehen-Orte verteilen sich ueber eine Stadt, die einfaches Gehen erschwert, Gion liegt im Osten, Arashiyama weit im Westen, und die Tempel dazwischen sind durch Entfernungen getrennt, die einen einzigen Besichtigungstag zu Fuss eher erschoepfend als angenehm machen. Ein E-Bike loest dieses Problem elegant, ebnet Kyotos sanfte Huegel ein und verwandelt, was ein gehetzter Tag mit mehreren Taxis waere, in eine durchgehende, ungehetzte Schleife. Diese private Tour von Kyoto Bike Rental and Tours Saiin, unter dem Namen Love Tango gefuehrt, beginnt mit Hotelabholung, sodass Sie nicht erst zu einem Verleihladen navigieren muessen, bevor der Tag ueberhaupt beginnt, und baut eine Ganztagesroute durch Gions und Higashiyamas erhaltene Gassen, vorbei am beruehmten Aquaedukt und den Zen-Gaerten des Nanzenji-Tempels, und hinaus zum ruhigeren Shimogamo-Schrein mit seinem uralten Waldzugang, bevor sie in Arashiyama fuer den Bambushain und die Flussuferlandschaft endet. Da sie privat statt eine feste Gruppenabfahrt ist, kann Ihr Guide das Tempo anpassen und laenger anhalten, wo Sie interessiert, mehr Zeit beim Fotografieren der Machiya-Strassen Higashiyamas, ein langsamerer Durchgang durch Shimogamos Tadasu-no-Mori-Wald, was der Tag erfordert. Die E-Bikes selbst machen auf einer so langen Route einen echten Unterschied: die Trittunterstuetzung nimmt die Anstrengung aus den Steigungen um Nanzenji und den noerdlichen Schreinzugaengen, sodass Sie an jedem Stopp mit genug Energie ankommen, um wirklich zu erkunden, statt Erholungszeit zu benoetigen. Etwa sechs Stunden im Sattel klingt nach viel, aber es ist ueber den Tag in Fahrabschnitte und Fussstopps aufgeteilt, und das Enden in Arashiyama bedeutet, dass die Tour natuerlich zu einem der fotogensten Viertel Kyotos hinfuehrt statt dort zu beginnen und rueckwaerts zu arbeiten. Hotelabsetzung am Ende bedeutet, dass Sie nach einem vollen Tag Radfahren nicht hektisch Ihren Weg zurueck durch die Stadt suchen muessen. Dies ist eine starke Option fuer Reisende, die bereits die Standard-Fusstour-Version von Kyoto gemacht haben, oder die einfach mehr Boden abdecken wollen, vier verschiedene Viertel an einem Tag, ohne die Faehigkeit zu opfern, anzuhalten, wo immer etwas ihr Auge faengt.",
+  "highlights": [],
+  "included": [
+   "E-Bike-Verleih, Helm, Hotelabholung und -ruecktransfer, und ein privater englischsprachiger Guide"
+  ],
+  "notIncluded": [
+   "Mittagessen, Tempeleintrittsgebuehren und persoenliche Ausgaben sind nicht enthalten"
+  ]
+ },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara im Myokaku-ji: Schwertchoreografie, gefilmt auf dem Tempelgelände",
   "metaTitle": "Chambara-Schwerterlebnis in Kyoto",
