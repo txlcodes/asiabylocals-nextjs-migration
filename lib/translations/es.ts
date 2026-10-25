@@ -57438,6 +57438,124 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entradas"
   ]
  },
+ "hiroshima-futaba-morning-hike-open-air-tea-ceremony": {
+  "title": "Caminata matutina sobre Hiroshima, con una ceremonia del te al aire libre",
+  "metaTitle": "Caminata matutina sobre Hiroshima con ceremonia del te",
+  "metaDescription": "Veinticinco minutos de subida desde la estacion de Hiroshima hasta una vista sobre la ciudad, el mar interior y Miyajima, con matcha batido al aire libre en la cima.",
+  "shortDescription": "Veinticinco minutos de subida desde la estacion de Hiroshima hasta una vista sobre la ciudad, el mar interior y Miyajima, con matcha batido al aire libre en la cima.",
+  "fullDescription": "Casi nadie mira a Hiroshima desde arriba, lo cual es extrano, porque la montana esta justo detras de la estacion.\n\nEsta caminata matutina de tres horas sube Futaba, comenzando en la estacion de Hiroshima y pasando primero por el **santuario Hiroshima Toshogu**, que alberga bienes culturales importantes y se encuentra al pie de la colina. Desde ahi la ruta sube por el **santuario Kinko Inari**, cuyos torii trepan la ladera al estilo de Fushimi Inari, pero sin nada de la multitud.\n\nLa subida en si dura unos veinticinco minutos, real pero no exigente, y termina en la **pagoda de la paz**, desde donde se puede ver la ciudad extendida abajo, el mar interior de Seto mas alla y Miyajima en el horizonte. Ver Hiroshima en su totalidad, desde arriba, es una experiencia diferente a caminar por el parque de la paz a nivel del suelo, y hacerlo por la manana antes de los lugares mas intensos del dia es una decision deliberada.\n\nEn la cima llega el **nodate**, la ceremonia del te al aire libre. El te al aire libre es una tradicion real y no una improvisacion, historicamente practicada en las contemplaciones de cerezos y en los viajes, y que le batan matcha en una ladera con esa vista es la razon para reservar esto en lugar de una sala de te de un templo.\n\nLa caminata tambien incluye bano de bosque, shinrin-yoku, que en la practica significa que le pidan detenerse y prestar atencion en lugar de seguir avanzando.\n\nLos grupos estan limitados a seis personas y la guia es en japones, lo cual funciona bien para una caminata. El desayuno esta disponible en una opcion. La recogida en el hotel no esta incluida; el encuentro es en la terraza del segundo piso de la estacion de Hiroshima.",
+  "highlights": [],
+  "included": [
+   "Guia para la caminata matutina de tres horas",
+   "Ceremonia del te nodate al aire libre en la pagoda de la paz",
+   "Sesion de bano de bosque",
+   "Desayuno en la opcion que lo incluye"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Transporte a la estacion de Hiroshima",
+   "Comida y bebidas adicionales"
+  ]
+ },
+ "osaka-gluten-free-ramen-and-gyoza-class": {
+  "title": "Ramen y gyoza sin gluten, hechos desde cero en una casa de Osaka",
+  "metaTitle": "Clase de ramen y gyoza sin gluten en Osaka",
+  "metaDescription": "El ramen y los gyoza son trigo de principio a fin. Esta clase reconstruye ambos sin gluten, en una cocina familiar, impartida por una cocinera profesional.",
+  "shortDescription": "El ramen y los gyoza son trigo de principio a fin. Esta clase reconstruye ambos sin gluten, en una cocina familiar, impartida por una cocinera profesional.",
+  "fullDescription": "Japon es un pais dificil para comer sin gluten, y el ramen es el ejemplo mas claro de por que. Los fideos son trigo. Las laminas de gyoza son trigo. La salsa de soja, que esta en casi todo, se elabora convencionalmente con trigo, asi que incluso un caldo que parece seguro normalmente no lo es. La mayoria de los visitantes con enfermedad celiaca o una intolerancia real simplemente no comen estos platos en Japon.\n\nEsta clase de tres horas existe para solucionar eso, y la instructora desarrollo las recetas ella misma a lo largo de mas de una decada de cocina profesional. Usted prepara **tanto el ramen como los gyoza desde cero**, sin gluten, incluyendo los fideos y las laminas, que es la parte que no se puede sustituir con un paquete comprado en tienda y es la razon por la que la clase dura tres horas.\n\nEn el camino, aprende las tecnicas japonesas que se aplican a cualquier otra cosa que cocine: como se construye un caldo, como se pliegan las empanadillas y por que el pliegue importa para su coccion, y que condimentos japoneses son seguros y cuales no. Las recetas y consejos se van con usted, lo cual para cualquiera que cocine sin gluten es el valor real.\n\nEl lugar es la propia casa de estilo japones de la instructora en Higashiosaka en lugar de un estudio comercial, y el grupo esta limitado a cuatro personas. La instruccion es en ingles.\n\nAl final come la comida completa que ha preparado. Hay disponible un maridaje de sake como opcion.\n\nEl lugar esta a cinco minutos a pie de la estacion de Nukata. Esta mas alejado que el centro de Osaka y vale la pena el viaje, ya que para muchos viajeros este es el unico bol de ramen que comeran en Japon.",
+  "highlights": [],
+  "included": [
+   "Clase de cocina practica sin gluten",
+   "Instruccion personal en ingles",
+   "Recetas y notas de tecnica para llevar",
+   "La comida completa que usted prepara",
+   "Maridaje de sake en esa opcion"
+  ],
+  "notIncluded": [
+   "Transporte al lugar",
+   "Bebidas adicionales fuera del maridaje"
+  ]
+ },
+ "nagoya-sword-museum-admission-ticket": {
+  "title": "Museo de la espada de Nagoya: doscientas espadas, armaduras y ukiyo-e",
+  "metaTitle": "Museo de la espada de Nagoya (Touken Museum)",
+  "metaDescription": "Hojas declaradas tesoro nacional, cincuenta armaduras y 150 estampas ukiyo-e en pleno centro de Sakae, por menos de doce dolares.",
+  "shortDescription": "Hojas declaradas tesoro nacional, cincuenta armaduras y 150 estampas ukiyo-e en pleno centro de Sakae, por menos de doce dolares.",
+  "fullDescription": "La espada japonesa es uno de los pocos objetos donde la artesania y la mitologia son igualmente interesantes, y la mayoria de los visitantes solo la encuentran detras de un cristal en un museo general con una etiqueta de dos lineas.\n\nEl museo de la espada de Nagoya, conocido como Meihaku, existe especificamente para esto. El edificio puede mostrar **hasta doscientas espadas a la vez**, incluyendo piezas declaradas tesoros nacionales, bienes culturales importantes y objetos de arte importantes, una concentracion que muy pocas instituciones en el mundo pueden igualar.\n\nA su alrededor hay **unas cincuenta armaduras** y **150 estampas ukiyo-e** en exhibicion permanente, lo cual es el contexto correcto: las estampas muestran como la clase guerrera se veia a si misma y queria ser vista, y las armaduras muestran con que se usaban las espadas.\n\nLo que lo eleva por encima de una vitrina es el soporte interactivo. El museo ha invertido en formas de mostrar lo que realmente ocurre en una hoja, la linea de temple hamon, la veta del acero plegado, la curva y como se logro, con aumentos y angulos que estar de pie frente al objeto no puede ofrecerle. La apreciacion de las espadas es una disciplina genuinamente tecnica, y este es el raro museo que intenta ensenarla en lugar de asumirla.\n\nLa entrada es valida por el dia. Hay una cafeteria y una tienda del museo en el lugar, ambas con cargo aparte.\n\nEl museo esta en Sakae, centro de Nagoya, y es accesible para sillas de ruedas. A este precio es una de las visitas de museo serias mas economicas de Japon, y combina naturalmente con el museo de arte Tokugawa, que conserva las armaduras y espadas de una familia en lugar de un panorama nacional.",
+  "highlights": [],
+  "included": [
+   "Entrada al museo de la espada de Nagoya, valida para el dia de uso"
+  ],
+  "notIncluded": [
+   "Comida y bebida en la cafeteria del museo",
+   "Compras en la tienda del museo",
+   "Transporte al museo",
+   "Comentario guiado"
+  ]
+ },
+ "seto-pottery-wheel-experience-from-nagoya": {
+  "title": "Haga ceramica en Seto, la ciudad que le dio a Japon su palabra para la ceramica",
+  "metaTitle": "Experiencia de torno de ceramica en Seto desde Nagoya",
+  "metaDescription": "Tres horas en el torno en Seto con un maestro ceramista con cincuenta anos de experiencia, piezas cocidas y enviadas en caja firmada.",
+  "shortDescription": "Tres horas en un torno electrico con un ceramista con cincuenta anos de experiencia, en una ciudad de hornos a cuarenta minutos de Nagoya. Dos piezas cocidas enviadas en una caja de kiri firmada.",
+  "fullDescription": "El japones tiene una palabra para la ceramica, **setomono**, literalmente «cosas de Seto», y proviene de esta ciudad. Los hornos han cocido aqui durante unos mil anos, lo que la convierte en uno de los Seis Hornos Antiguos de Japon, y la industria sigue en funcionamiento en lugar de preservada.\n\nLa sesion comienza en la estacion de Meitetsu Owari-Seto, a cuarenta minutos de Nagoya, donde su guia le recibe, la estacion tiene una sola puerta de billetes, por lo que es realmente dificil perderse, y le lleva en vehiculo privado a un estudio historico de la ciudad.\n\nLe ensena **un ceramista con mas de cincuenta anos en el torno**. Lo que hace es vajilla cotidiana: cuencos, tazas de te, cosas que realmente usaria. El torno electrico es mucho menos indulgente de lo que parece, y la primera pieza se derrumbara; esa es la secuencia normal y el instructor la ha visto varios miles de veces.\n\nUsted moldea tres piezas. **Las dos mejores se cuecen y se le envian**, en una caja de kiri premium firmada por el ceramista, lo cual es una forma mucho mejor de recibirlas que en plastico de burbujas. Elige entre quince colores de esmalte para cada una. Si quiere las tres, hay un pequeno cargo adicional.\n\nLa visita tambien incluye el propio estudio del horno, donde queda clara la escala de la operacion.\n\nLos grupos estan limitados a cuatro personas y el guia trabaja en ingles. Los delantales, la tarifa de coccion y el transporte dentro de Seto estan todos incluidos. El envio internacional se cobra por separado, lo cual vale la pena presupuestar, y las piezas tardan en cocerse, las recibira despues de llegar a casa.",
+  "highlights": [],
+  "included": [
+   "Sesion de torno de ceramica con un ceramista con cincuenta anos de experiencia",
+   "Dos de sus piezas cocidas y enviadas",
+   "Eleccion entre quince colores de esmalte",
+   "Visita al estudio del horno",
+   "Transporte en vehiculo privado dentro de Seto",
+   "Delantales y tarifa de coccion",
+   "Guia de habla inglesa",
+   "Caja de kiri premium firmada por el ceramista"
+  ],
+  "notIncluded": [
+   "Tarifas de envio internacional",
+   "Transporte al punto de encuentro",
+   "Comida y bebidas",
+   "Compras personales",
+   "Propinas"
+  ]
+ },
+ "kyoto-private-japanese-sound-bath": {
+  "title": "Un bano de sonido privado en Kyoto, con anillos cantores japoneses",
+  "metaTitle": "Bano de sonido privado en Kyoto",
+  "metaDescription": "Noventa minutos acostado en una sala de tatami mientras se tocan sobre usted instrumentos japoneses hechos a mano, el antidoto a cuatro dias de colas en templos.",
+  "shortDescription": "Noventa minutos acostado en una sala de tatami mientras se tocan sobre usted instrumentos japoneses hechos a mano, el antidoto a cuatro dias de colas en templos.",
+  "fullDescription": "Hay un punto en la mayoria de los viajes a Kyoto, normalmente alrededor del tercer dia, en el que los templos dejan de impactar. Ha caminado ocho kilometros al dia entre multitudes, todo es hermoso, y nada de eso le llega ya.\n\nEsto existe para ese momento. Es un bano de sonido privado en una sala de tatami a cinco minutos de la estacion de Kyoto, limitado a dos o tres personas, y pasa la mayor parte del tiempo acostado con los ojos cerrados.\n\nLo que lo distingue de los banos de sonido que se encuentran en cualquier ciudad occidental es el instrumento. Los **anillos cantores son instrumentos japoneses hechos a mano**, no cuencos tibetanos o de cristal, y su resonancia es diferente, mas larga, mas limpia y se siente fisicamente en lugar de solo escucharse cuando esta cerca de ellos. Si le parece significativo o simplemente agradable es cuestion de temperamento, pero el efecto sobre un cuerpo cansado no esta en duda.\n\nUna seccion practica le permite tocar los instrumentos usted mismo, lo cual es un mejor recuerdo de la hora que una fotografia.\n\nDos formatos: un espacio privado, o una version realizada **en una sala de ceremonia del te**, que vale la pequena diferencia solo por el entorno.\n\nLo que esto no es: no es una visita a un templo, un masaje ni una clase de meditacion con instruccion. Son noventa minutos de quietud deliberada en una ciudad que ofrece muy poco de eso, y es mejor reservarlo a mitad de un viaje en lugar de al principio.\n\nLa instruccion es en ingles, el grupo es su propio grupo, y el lugar esta a cinco minutos a pie de la estacion de Kyoto, lo que significa que puede hacerlo antes de un tren.",
+  "highlights": [],
+  "included": [
+   "Bano de sonido japones privado de noventa minutos",
+   "Instrumentos de anillos cantores hechos a mano",
+   "Sesion practica de tocar instrumentos",
+   "Anfitrion de habla inglesa",
+   "Espacio privado de tatami, o una sala de ceremonia del te en esa opcion"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Transporte al lugar",
+   "Recogida y regreso al hotel"
+  ]
+ },
+ "kyoto-gion-geiko-maiko-dance-museum": {
+  "title": "Ver una danza de maiko en Gion: dos piezas de Kyomai y el museo Kagai",
+  "metaTitle": "Danza de maiko y museo Kagai en Gion, Kyoto",
+  "metaDescription": "La forma mas economica y respetuosa de ver actuar a una autentica geiko o maiko, una danza Kyomai de quince minutos, con el museo de artes de Gion incluido.",
+  "shortDescription": "La forma mas economica y respetuosa de ver actuar a una autentica geiko o maiko, una danza Kyomai de quince minutos, con el museo de artes de Gion incluido.",
+  "fullDescription": "Ver a una geiko o maiko correctamente es dificil y costoso. Un banquete ozashiki tradicional requiere una presentacion y cuesta mucho, y perseguirlas por los callejones de Gion con una camara es tanto intrusivo como, en las calles privadas, ahora sancionable con multa.\n\nEsta es la solucion sensata. El museo de artes Kagai de Gion, en el edificio Yasaka Club en pleno Gion, presenta **actuaciones de danza Kyomai por una geiko o maiko en activo** varias veces al dia, y la entrada incluye la exhibicion permanente del museo.\n\n**El Kyomai es la propia forma de danza de Kyoto**, interpretada aqui en el estilo Inoue, la escuela asociada con el distrito de Gion Kobu, caracterizada por la contencion, movimientos pequenos y controlados y una quietud mucho mas dificil de lo que parece. Se interpretan dos piezas, unos quince minutos en total. Esta lo bastante cerca para ver el detalle del kimono y los adornos de pelo que una actuacion en escenario nunca le ofrece.\n\nNormalmente baila una interprete. Algunos dias, la tercera y cuarta sesiones tienen dos.\n\nLas actuaciones se realizan a las 13:30, 14:20, 15:00, 16:00 y 16:30, por lo que se integra en una tarde en Higashiyama sin tener que planificar un dia entero alrededor.\n\nLa exhibicion permanente cubre el kagai, los distritos de geiko, como una cultura viva en lugar de una curiosidad: la formacion, la vestimenta, los instrumentos, el calendario estacional. Leerla antes de la danza hace que los quince minutos tengan mucho mas sentido.\n\nA este precio, es una de las mejores experiencias culturales de Kyoto en relacion calidad-precio, y pone dinero en el distrito en lugar de sacar fotografias de el.",
+  "highlights": [],
+  "included": [
+   "Entrada al museo de artes Kagai de Gion",
+   "Actuacion de danza Kyomai por una geiko o maiko",
+   "Acceso a la exhibicion permanente sobre la cultura kagai"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Transporte a Gion",
+   "Fotografia donde esta restringida"
+  ]
+ },
  "japanese-postcard-painting-etegami-workshop-in-kyoto": {
   "title": "Taller de pintura de postales japonesas (etegami) en Kyoto",
   "fullDescription": "Esta es una experiencia de 1 hora en Kyoto. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nKyoto fue la capital de Japón durante más de mil años hasta 1868 y tiene 17 sitios catalogados por la UNESCO entre unos 2.000 templos y santuarios. Los tres grandes son Kinkaku-ji, el Pabellón Dorado, cubierto de pan de oro y mejor con la luz de la mañana; Kiyomizu-dera, el escenario de madera en las colinas orientales con los callejones de Higashiyama de Sannenzaka y Ninenzaka debajo; y las puertas de Fushimi Inari. El castillo de Nijo tiene los pisos del ruiseñor que chirrían contra los intrusos, y Ryoan-ji el jardín de piedras. Los templos abren alrededor de las 8:00 o 9:00 y cierran a las 17:00, y el autobús municipal es lento; un día con un conductor o guía que ordena las paradas contra las multitudes es la diferencia entre cuatro sitios y siete.\n\nEl precio incluye taller tradicional de pintura de postales japonesas, Instructor Ekaki japonés, herramientas y técnicas autenticas, digitalización y mejora de la obra de arte y bolsa de alta calidad con diseño impreso. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",

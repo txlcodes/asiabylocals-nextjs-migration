@@ -57438,6 +57438,124 @@ export const FR_TOURS: Record<string, TourT> = {
    "Droits d'entrée"
   ]
  },
+ "hiroshima-futaba-morning-hike-open-air-tea-ceremony": {
+  "title": "Randonnee matinale au-dessus d'Hiroshima, avec ceremonie du the en plein air",
+  "metaTitle": "Randonnee matinale a Hiroshima avec ceremonie du the",
+  "metaDescription": "Vingt-cinq minutes de montee depuis la gare d'Hiroshima jusqu'a une vue sur la ville, la mer interieure et Miyajima, avec matcha prepare en plein air au sommet.",
+  "shortDescription": "Vingt-cinq minutes de montee depuis la gare d'Hiroshima jusqu'a une vue sur la ville, la mer interieure et Miyajima, avec matcha fouette en plein air au sommet.",
+  "fullDescription": "Presque personne ne regarde Hiroshima d'en haut, ce qui est etonnant, car la montagne se trouve juste derriere la gare.\n\nCette promenade matinale de trois heures gravit Futaba, en partant de la gare d'Hiroshima et en passant d'abord par le **sanctuaire Hiroshima Toshogu**, qui abrite des biens culturels importants et se trouve au pied de la colline. De la, l'itineraire monte par le **sanctuaire Kinko Inari**, dont les torii grimpent la pente a la maniere de Fushimi Inari, mais sans la foule.\n\nLa montee elle-meme dure environ vingt-cinq minutes, reelle mais pas exigeante, et se termine a la **pagode de la paix**, d'ou vous pouvez voir la ville etalee en dessous, la mer interieure de Seto au-dela, et Miyajima a l'horizon. Voir Hiroshima dans son ensemble, depuis le haut, est une experience differente de la traversee du parc de la paix au niveau du sol, et le faire le matin avant les visites plus chargees de la journee est un choix delibere.\n\nAu sommet vient le **nodate**, la ceremonie du the en plein air. Le the en exterieur est une veritable tradition plutot qu'une improvisation, historiquement pratiquee lors des contemplations des cerisiers en fleurs et en voyage, et avoir du matcha fouette pour vous sur une montagne avec cette vue est la raison de reserver ceci plutot qu'une salle de the dans un temple.\n\nLa promenade comprend aussi un bain de foret, le shinrin-yoku, qui en pratique signifie qu'on vous demande de vous arreter et de preter attention plutot que de continuer a avancer.\n\nLes groupes sont limites a six personnes et le guidage se fait en japonais, ce qui fonctionne bien pour une promenade. Le petit-dejeuner est disponible sur une option. La prise en charge a l'hotel n'est pas incluse ; le rendez-vous se fait sur le pont du deuxieme etage de la gare d'Hiroshima.",
+  "highlights": [],
+  "included": [
+   "Guide pour la promenade matinale de trois heures",
+   "Ceremonie du the nodate en plein air a la pagode de la paix",
+   "Session de bain de foret",
+   "Petit-dejeuner sur l'option qui l'inclut"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel",
+   "Transport vers la gare d'Hiroshima",
+   "Nourriture et boissons supplementaires"
+  ]
+ },
+ "osaka-gluten-free-ramen-and-gyoza-class": {
+  "title": "Ramen et gyoza sans gluten, faits maison dans une maison a Osaka",
+  "metaTitle": "Cours de ramen et gyoza sans gluten a Osaka",
+  "metaDescription": "Ramen et gyoza sans gluten, reconstruits de zero dans une cuisine familiale a Osaka, par une cuisiniere professionnelle.",
+  "shortDescription": "Le ramen et les gyoza sont du ble de bout en bout. Ce cours reconstruit les deux sans gluten, dans une cuisine familiale, enseigne par une cuisiniere professionnelle.",
+  "fullDescription": "Le Japon est un pays difficile pour manger sans gluten, et le ramen est l'exemple le plus clair de pourquoi. Les nouilles sont a base de ble. Les feuilles de gyoza sont a base de ble. La sauce soja, presente dans presque tout, est traditionnellement brassee avec du ble, donc meme un bouillon qui parait sur ne l'est generalement pas. La plupart des visiteurs atteints de maladie cœliaque ou d'une intolerance reelle ne mangent simplement pas ces plats au Japon.\n\nCe cours de trois heures existe pour remedier a cela, et l'instructrice a developpe elle-meme les recettes au cours de plus d'une decennie de cuisine professionnelle. Vous preparez **le ramen et les gyoza entierement a partir de zero**, sans gluten, y compris les nouilles et les feuilles, ce qui est la partie qui ne peut pas etre remplacee par un paquet achete en magasin et c'est la raison pour laquelle le cours dure trois heures.\n\nEn chemin, vous apprenez les techniques japonaises qui s'appliquent a tout ce que vous cuisinerez par ailleurs : comment un bouillon se construit, comment les boulettes sont plissees et pourquoi le pli compte pour leur cuisson, et quels assaisonnements japonais sont surs et lesquels ne le sont pas. Les recettes et astuces partent avec vous, ce qui, pour quiconque cuisine sans gluten, est la vraie valeur.\n\nLe lieu est la propre maison de style japonais de l'instructrice a Higashiosaka plutot qu'un studio commercial, et le groupe est limite a quatre personnes. L'enseignement se fait en anglais.\n\nVous degustez le repas complet que vous avez prepare a la fin. Un accord sake est disponible en option.\n\nLe lieu se trouve a cinq minutes a pied de la gare de Nukata. C'est plus eloigne que le centre d'Osaka et le trajet en vaut la peine, car pour beaucoup de voyageurs, c'est le seul bol de ramen qu'ils mangeront au Japon.",
+  "highlights": [],
+  "included": [
+   "Cours de cuisine pratique sans gluten",
+   "Instruction personnelle en anglais",
+   "Recettes et notes de technique a emporter",
+   "Le repas complet que vous preparez",
+   "Accord sake sur cette option"
+  ],
+  "notIncluded": [
+   "Transport vers le lieu",
+   "Boissons supplementaires en dehors de l'accord"
+  ]
+ },
+ "nagoya-sword-museum-admission-ticket": {
+  "title": "Musee du sabre de Nagoya : deux cents sabres, armures et ukiyo-e",
+  "metaTitle": "Musee du sabre de Nagoya (Touken Museum)",
+  "metaDescription": "Lames classees tresor national, cinquante armures et 150 estampes ukiyo-e en plein centre de Sakae, pour moins de douze dollars.",
+  "shortDescription": "Lames classees tresor national, cinquante armures et 150 estampes ukiyo-e en plein centre de Sakae, pour moins de douze dollars.",
+  "fullDescription": "Le sabre japonais est l'un des rares objets ou l'artisanat et la mythologie sont aussi interessants l'un que l'autre, et la plupart des visiteurs ne le rencontrent que derriere une vitrine dans un musee generaliste avec une etiquette de deux lignes.\n\nLe musee du sabre de Nagoya, connu sous le nom de Meihaku, existe specifiquement pour cela. Le batiment peut exposer **jusqu'a deux cents sabres a la fois**, y compris des pieces classees tresors nationaux, biens culturels importants et objets d'art importants, une concentration que tres peu d'institutions au monde peuvent egaler.\n\nAutour d'eux se trouvent **environ cinquante armures** et **150 estampes ukiyo-e** en exposition permanente, ce qui constitue le bon contexte : les estampes montrent comment la classe des guerriers se voyait et voulait etre vue, et les armures montrent a quoi les sabres etaient associes.\n\nCe qui depasse une simple vitrine, ce sont les supports interactifs. Le musee a investi dans des facons de montrer ce qui se passe reellement dans une lame : la ligne de trempe hamon, le grain de l'acier plie, la courbe et comment elle a ete obtenue, a des grossissements et des angles que l'observation directe de l'objet ne peut pas vous offrir. L'appreciation du sabre est une discipline veritablement technique et c'est l'un des rares musees qui essaie de l'enseigner plutot que de la presupposer.\n\nL'entree est valable pour la journee. Un cafe et une boutique du musee se trouvent sur place, tous deux payants separement.\n\nLe musee se trouve a Sakae, en plein centre de Nagoya, et est accessible aux fauteuils roulants. A ce prix, c'est l'une des visites de musee les moins cheres et les plus serieuses du Japon, et elle se combine naturellement avec le musee d'art Tokugawa, qui conserve les armures et sabres d'une seule famille plutot qu'un panorama national.",
+  "highlights": [],
+  "included": [
+   "Entree au musee du sabre de Nagoya, valable le jour d'utilisation"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons au cafe du musee",
+   "Achats a la boutique du musee",
+   "Transport vers le musee",
+   "Commentaire guide"
+  ]
+ },
+ "seto-pottery-wheel-experience-from-nagoya": {
+  "title": "Tournez des poteries a Seto, la ville qui a donne au Japon son mot pour la ceramique",
+  "metaTitle": "Experience de tour de potier a Seto depuis Nagoya",
+  "metaDescription": "Trois heures sur un tour de potier a Seto avec un maitre de cinquante ans d'experience, pieces cuites et expediees dans une boite signee.",
+  "shortDescription": "Trois heures sur un tour electrique avec un potier de cinquante ans d'experience, dans une ville de fours a quarante minutes de Nagoya. Deux pieces cuites expediees dans une boite en kiri signee.",
+  "fullDescription": "Le japonais a un mot pour la ceramique, **setomono**, litteralement « choses de Seto », et il vient de cette ville. Des fours y cuisent depuis environ mille ans, ce qui en fait l'un des Six Anciens Fours du Japon, et l'activite est toujours en fonctionnement plutot que preservee.\n\nLa session commence a la gare de Meitetsu Owari-Seto, a quarante minutes de Nagoya, ou votre guide vous accueille, la gare n'a qu'un seul portillon, donc il est vraiment difficile de se perdre, et vous emmene en vehicule prive vers un atelier historique de la ville.\n\nVous etes enseigne par **un potier avec plus de cinquante ans de pratique au tour**. Ce que vous fabriquez est de la vaisselle du quotidien : bols, tasses a the, les choses que vous utiliseriez vraiment. Le tour electrique est bien moins indulgent qu'il n'y parait, et le premier pot s'effondrera ; c'est la sequence normale et l'instructeur l'a vue plusieurs milliers de fois.\n\nVous faconnez trois pieces. **Les deux meilleures sont cuites et vous sont envoyees**, dans une boite en kiri haut de gamme signee par le potier, ce qui est une bien meilleure facon de les recevoir qu'enveloppees dans du papier bulle. Vous choisissez parmi quinze couleurs d'email pour chacune. Si vous voulez les trois, un petit supplement s'applique.\n\nLa visite comprend aussi l'atelier du four lui-meme, ou l'echelle de l'operation devient claire.\n\nLes groupes sont limites a quatre personnes et le guide travaille en anglais. Les tabliers, les frais de cuisson et le transport au sein de Seto sont tous inclus. L'expedition internationale est facturee separement, ce qu'il vaut la peine de budgeter, et les pieces prennent du temps a cuire, vous les recevrez apres votre retour chez vous.",
+  "highlights": [],
+  "included": [
+   "Session de tour de potier avec un potier de cinquante ans d'experience",
+   "Deux de vos pieces cuites et expediees",
+   "Choix parmi quinze couleurs d'email",
+   "Visite de l'atelier du four",
+   "Transport en vehicule prive au sein de Seto",
+   "Tabliers et frais de cuisson",
+   "Guide anglophone",
+   "Boite en kiri haut de gamme signee par le potier"
+  ],
+  "notIncluded": [
+   "Frais d'expedition internationale",
+   "Transport vers le point de rendez-vous",
+   "Nourriture et boissons",
+   "Achats personnels",
+   "Pourboires"
+  ]
+ },
+ "kyoto-private-japanese-sound-bath": {
+  "title": "Un bain sonore prive a Kyoto, sur des anneaux chantants japonais",
+  "metaTitle": "Bain sonore prive a Kyoto",
+  "metaDescription": "Bain sonore prive de 90 minutes a Kyoto sur des anneaux chantants japonais, l'antidote aux files de temples.",
+  "shortDescription": "Quatre-vingt-dix minutes allonge dans une piece en tatami tandis que des instruments japonais faits main sont joues au-dessus de vous, l'antidote a quatre jours de files aux temples.",
+  "fullDescription": "Il y a un moment dans la plupart des voyages a Kyoto, generalement vers le troisieme jour, ou les temples arretent de faire effet. Vous avez marche huit kilometres par jour dans la foule, tout est magnifique, et rien de tout cela ne vous touche plus.\n\nCela existe pour ce moment-la. C'est un bain sonore prive dans une piece en tatami a cinq minutes de la gare de Kyoto, limite a deux ou trois personnes, et vous passez la plupart du temps allonge, les yeux fermes.\n\nCe qui le distingue des bains sonores que l'on trouve dans chaque ville occidentale, c'est l'instrument. Les **anneaux chantants sont des instruments japonais faits main**, pas des bols tibetains ou en cristal, et leur resonance est differente, plus longue, plus pure, et physiquement ressentie plutot que seulement entendue lorsque vous etes proche d'eux. Que vous trouviez cela significatif ou simplement agreable est une question de temperament, mais l'effet sur un corps fatigue n'est pas contestable.\n\nUne section pratique vous permet de jouer vous-meme des instruments, ce qui est un meilleur souvenir de l'heure qu'une photographie.\n\nDeux formats : un espace prive, ou une version tenue **dans une salle de ceremonie du the**, qui vaut la petite difference de prix pour le cadre seul.\n\nCe que ceci n'est pas : ce n'est pas une visite de temple, un massage ou un cours de meditation avec instruction. C'est quatre-vingt-dix minutes d'immobilite deliberee dans une ville qui en offre tres peu, et il est preferable de le reserver au milieu d'un voyage plutot qu'au debut.\n\nL'enseignement se fait en anglais, le groupe est votre propre compagnie, et le lieu se trouve a cinq minutes a pied de la gare de Kyoto, ce qui signifie que vous pouvez le faire avant un train.",
+  "highlights": [],
+  "included": [
+   "Bain sonore japonais prive de quatre-vingt-dix minutes",
+   "Instruments anneaux chantants faits main",
+   "Session de jeu d'instruments pratique",
+   "Hote anglophone",
+   "Espace prive en tatami, ou une salle de ceremonie du the sur cette option"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Transport vers le lieu",
+   "Prise en charge et retour a l'hotel"
+  ]
+ },
+ "kyoto-gion-geiko-maiko-dance-museum": {
+  "title": "Voir une danse de maiko a Gion : deux pieces de Kyomai et le musee Kagai",
+  "metaTitle": "Danse de maiko et musee Kagai a Gion, Kyoto",
+  "metaDescription": "La facon la plus respectueuse et abordable de voir une veritable geiko ou maiko danser, avec le musee des arts de Gion inclus.",
+  "shortDescription": "La facon la moins chere et la plus respectueuse de voir une veritable geiko ou maiko se produire, une danse Kyomai de quinze minutes, avec le musee des arts de Gion inclus.",
+  "fullDescription": "Voir correctement une geiko ou une maiko est difficile et coute cher. Un banquet ozashiki traditionnel necessite une introduction et coute beaucoup, et les poursuivre dans les ruelles de Gion avec un appareil photo est a la fois intrusif et, dans les rues privees, desormais passible d'amende.\n\nVoici la solution raisonnable. Le musee des arts Kagai de Gion, dans le batiment Yasaka Club au cœur de Gion, met en scene des **spectacles de danse Kyomai par une geiko ou maiko en activite** plusieurs fois par jour, et le billet inclut l'exposition permanente du musee.\n\n**Le Kyomai est la danse propre de Kyoto**, ici dans le style Inoue, l'ecole associee au quartier de Gion Kobu, caracterise par la retenue, de petits mouvements controles et une immobilite bien plus difficile qu'elle ne le parait. Deux pieces sont interpretees, environ quinze minutes au total. Vous etes assez proche pour voir le detail du kimono et des ornements de cheveux qu'un spectacle sur scene ne vous donne jamais.\n\nHabituellement, une seule interprete danse. Certains jours, les troisieme et quatrieme sessions en comptent deux.\n\nLes representations ont lieu a 13h30, 14h20, 15h00, 16h00 et 16h30, ce qui s'integre a un apres-midi a Higashiyama sans avoir a planifier toute une journee autour.\n\nL'exposition permanente couvre le kagai, les quartiers des geiko, comme une culture vivante plutot qu'une curiosite : la formation, la tenue, les instruments, le calendrier saisonnier. La lire avant la danse rend les quinze minutes bien plus comprehensibles.\n\nA ce prix, c'est l'une des meilleures experiences culturelles de Kyoto en termes de rapport qualite-prix, et elle fait entrer de l'argent dans le quartier plutot que d'en sortir des photographies.",
+  "highlights": [],
+  "included": [
+   "Entree au musee des arts Kagai de Gion",
+   "Spectacle de danse Kyomai par une geiko ou maiko",
+   "Acces a l'exposition permanente sur la culture kagai"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Transport vers Gion",
+   "Photographie ou elle est restreinte"
+  ]
+ },
  "japanese-postcard-painting-etegami-workshop-in-kyoto": {
   "title": "Atelier de peinture de cartes postales japonaises (etegami) à Kyoto",
   "fullDescription": "Cette expérience de 1 heure se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend atelier de peinture de cartes postales japonaises traditionnelles, Instructeur Ekaki japonais, outils et techniques authentiques, numérisation et amélioration de l'œuvre et sac fourre-tout de haute qualité avec motif imprimé. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
