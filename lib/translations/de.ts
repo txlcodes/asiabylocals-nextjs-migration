@@ -57753,6 +57753,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persoenliche Ausgaben, Eintrittsgebuehren, Mittagessen fuer Gaeste und Guide, Trinkgelder"
   ]
  },
+ "hakone-yosegi-zaiku-marquetry-workshop": {
+  "title": "Yosegi-Zaiku-Intarsien-Workshop in Hakone: Fertigen Sie Ihre eigene Holzarbeit",
+  "metaTitle": "Yosegi-Zaiku-Intarsien-Workshop in Hakone",
+  "metaDescription": "Zweieinhalb Stunden in einem aktiven Intarsien-Atelier in den Huegeln von Hakone, um Yosegi Zaiku zu lernen und ein Stueck zum Mitnehmen zu fertigen.",
+  "shortDescription": "Ein zweieinhalbstuendiger Besuch in einem aktiven Intarsien-Atelier in den Huegeln von Hakone, wo Sie lernen, wie Yosegi Zaiku aus farbigen Hoelzern aufgebaut wird, und ein Stueck zum Mitnehmen fertigen.",
+  "fullDescription": "Yosegi Zaiku ist Hakones eigenes Handwerk, und es ist seltsamer als es zunaechst scheint. Die geometrischen Muster sehen aus, als waeren sie gedruckt oder Stueck fuer Stueck eingelegt; tatsaechlich sind sie konstruiert. Der Handwerker klebt lange Staebe verschiedener Hoelzer, rein nach ihrer natuerlichen Farbe ausgewaehlt, zu einem Buendel zusammen, dessen Querschnitt eine einzelne Einheit des Musters bildet. Dieses Buendel wird dann mit anderen zu einem groesseren Block kombiniert, und der Block wird schliesslich zu Blaettern geschaelt, die duenn genug sind, um Licht durchzulassen. Jedes Blatt traegt das gesamte Design. Nichts ist gefaerbt und nichts ist gezeichnet.\n\nDas Handwerk entstand in Hatajuku, einem Dorf an der alten Tokaido-Strasse ueber den Hakone-Pass, im fruehen neunzehnten Jahrhundert. Reisende, die zwischen Kyoto und Edo wanderten, hielten hier an, und ein tragbares, schoenes, preiswertes Souvenir war genau das, was der Verkehr wollte. Die Berge lieferten den Rohstoff: dieser Abschnitt von Kanagawa weist eine ungewoehnliche Vielfalt von Baumarten auf, und die Palette in den Mustern, von blassem Spindelholz bis zu dunklem Walnuss und warmem Keyaki, ist einfach das, was auf diesen Haengen waechst.\n\nDie Sitzung beginnt am Bahnhof Hakone-Yumoto, von wo eine kurze Busfahrt Sie hinauf zum Atelier bringt. Dort erhalten Sie zunaechst die Geschichte, dann das Material selbst: die Staebe, die verklebten Bloecke, und den Hobel, mit dem die Furnierblaetter in einer einzigen durchgehenden Locke abgeschaelt werden. Einem Handwerker bei diesem Schnitt zuzusehen, ist der Teil, den sich die meisten Menschen merken. Es sieht muehelos aus und ist es nicht; die Klinge muss auf Bruchteile eines Millimeters eingestellt sein und der Block muss vollkommen gerade sein.\n\nDann fertigen Sie selbst etwas. Der praktische Teil ist fuer Menschen gestaltet, die noch nie einen Hobel oder einen Intarsienblock beruehrt haben, wobei der Guide uebersetzt und der Handwerker des Ateliers unterwegs korrigiert. Sie gehen mit Ihrem eigenen fertigen Stueck, was ein deutlich besseres Souvenir ist als die massenproduzierten Versionen, die in den Bahnhofsgeschaeften unten verkauft werden.\n\nEs ist eine kurze, witterungsunabhaengige Innenaktivitaet, was sie zu einer sinnvollen Ergaenzung zu einer Hakone-Reise macht, die um die Seilbahn und den See aufgebaut ist, die beide durch Wolken verdorben werden koennen. Sie uebertraegt sich auch gut als Idee: Yosegi Zaiku ist das Handwerk hinter den berühmten Hakone-Puzzleboxen, und sobald Sie gesehen haben, wie die Muster zusammengesetzt werden, bemerken Sie sie ueberall in der Region.",
+  "highlights": [],
+  "included": [
+   "Englischsprachiger Guide, gefuehrte Einfuehrung in Geschichte und Technik von Yosegi Zaiku, alle Handwerksmaterialien und Werkzeuge, Ihr fertiges Stueck zum Mitnehmen, Hin- und Rueckfahrt mit dem lokalen Bus vom Bahnhof Hakone-Yumoto"
+  ],
+  "notIncluded": [
+   "Reise zum und vom Bahnhof Hakone-Yumoto, Mahlzeiten und Getraenke, zusaetzliche Handwerksartikel aus dem Atelier-Shop, Trinkgelder"
+  ]
+ },
+ "hiroshima-evening-evening-tour": {
+  "title": "Hiroshima-Abendreflexionen: Dammerungsspaziergang durch den Friedenspark",
+  "metaTitle": "Dammerungsspaziergang durch den Friedenspark Hiroshima",
+  "metaDescription": "Erkunden Sie den Friedensgedenkpark Hiroshima bei einer stimmungsvollen abendlichen Fuehrung in ruhiger, besinnlicher Atmosphaere.",
+  "shortDescription": "Erkunden Sie den Friedensgedenkpark Hiroshima bei einer stimmungsvollen abendlichen Fuehrung. Waehrend sich der Park beruhigt, entdecken Sie Hiroshimas Geschichte, Denkmaeler und Friedensbotschaft in ruhiger, besinnlicher Atmosphaere.",
+  "fullDescription": "Am spaeten Nachmittag verlassen die Touristengruppen den Friedensgedenkpark, und etwas aendert sich. Die Kieswege leeren sich, das Licht wird weicher ueber dem Motoyasu-Fluss, und die Denkmaeler, die mittags so belebt sind, werden wieder zu Orten der Ruhe. Dieser zweistuendige Abendspaziergang ist genau fuer dieses Zeitfenster geplant. Sie treffen Ihren Guide, wenn der Tag abkuehlt, und durchwandern den Park, waehrend er sich in die Dammerung einfuegt: das Gedenkmal mit dem Register der Namen der Opfer, die Friedensflamme, die ihre ersten Reflexionen im Teich einfaengt, das Kinderfriedensdenkmal mit seinen Tausenden von Papierkranichen, die sich in der Abendluft bewegen. Ihr Guide erzaehlt die Geschichte des 6. August 1945 und ihrer Nachwirkungen in einem ruhigen, besinnlichen Ton, der zur Stunde passt, mit eingeplanter Zeit, einfach stehen zu bleiben und aufzunehmen, statt zwischen Tafeln zu eilen. Der Spaziergang endet auf der anderen Flussseite am Atombombendom, wenn seine Flutlichter angehen und der skelettartige Rahmen gegen den dunkler werdenden Himmel glueht, was viele Reisende als den eindrucksvollsten Anblick ihrer Zeit in Hiroshima beschreiben. Bewertungen heben immer wieder hervor, wie anders sich der Park zu dieser Stunde anfuehlt, besinnlich statt ueberfuellt, und wie das Format Raum fuer Fragen laesst, ueber die eine tagsueber stattfindende Gruppenfuehrung hinwegeilt. Wenn Ihr Zeitplan Sie nachmittags in Hiroshima ankommen laesst, oder Sie diesen Ort einfach in seiner ruhigsten Stimmung erleben wollen, ist dieser Abendspaziergang der richtige Weg, und er laesst sich natuerlich mit einem Abendessen im wenige Gehminuten entfernten Hondori-Arkadenviertel kombinieren.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "hiroshima-evening-tour": {
+  "title": "Hiroshima nach Einbruch der Dunkelheit: Essens- und Kulturspaziergang am Abend mit lokalem Abendessen",
+  "metaTitle": "Essensspaziergang am Abend in Hiroshima",
+  "metaDescription": "Tauchen Sie ein in das Essen, die Kultur und das lokale Leben Hiroshimas nach Einbruch der Dunkelheit, mit Abendessen an lokalen Tachinomi-Lokalen.",
+  "shortDescription": "Tauchen Sie ein in das Essen, die Kultur und das lokale Leben Hiroshimas nach Einbruch der Dunkelheit. Diese private Abendtour bietet Ihnen einen intimen Insider-Blick auf die Esskultur und den Lebensstil der Stadt, mit Abendessen an lokalen Tachinomi-Lokalen.",
+  "fullDescription": "Hiroshima ist tagsueber eine Stadt der Denkmaeler; nachts wird sie zu einer der unterschaetztesten Essensstaedte Japans, und diese dreistuendige private Abendtour ist um diese zweite Identitaet aufgebaut. Sie treffen Ihren Guide um 18:30 Uhr nahe dem Don-Quijote-Laden in Shintenchi, inmitten des Unterhaltungsrasters der Innenstadt, und machen sich zu Fuss durch die Einkaufspassage Hondori auf, waehrend die Laternen angehen und Buerogaenger in die Seitenstrassen stroemen. Das Herzstueck des Abends ist das Abendessen an drei verschiedenen Tachinomi-Lokalen, den legeren Steh- und Thekenbars, in denen Einheimische tatsaechlich essen und trinken, statt in einem touristenorientierten Restaurant. An jedem Stopp bestellt Ihr Guide das, was das Haus am besten kann, kombiniert mit Bier, Cocktails oder japanischen Spirituosen, und uebersetzt nicht nur die Speisekarte, sondern auch den Raum: wer hier trinkt, warum der Meister die Theke so anordnet, wie er es tut, worueber die Menschen in Hiroshima streiten, wenn sie ueber Essen sprechen. Zwischen den Lokalen gehen Sie durch die Nagarekawa-dori, die Neon-Wirbelsaeule des Nachtlebenviertels der Stadt, und erhalten einen Insider-Blick darauf, wie diese wiederaufgebaute Stadt entspannt. Da die Tour privat ist, passt sich die Route Ihrem Appetit und Ihrer Neugier an; Liebhaber von Meeresfruechten, abenteuerlustige Esser und vorsichtigere werden alle beruecksichtigt. Mit rund 270 Bewertungen und einer Wertung nahe 4,9 ist sie still zu einem der bestbewerteten Essenserlebnisse der Stadt geworden. Kommen Sie hungrig, tragen Sie bequeme Schuhe, und erwarten Sie, die Nacht nahe Ihrem Startpunkt mit vollem Bauch und einer Liste von Bars zu beenden, die Sie allein nie gefunden haetten.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "hiroshima-experience": {
+  "title": "Kyudo-Erlebnis in Hiroshima: traditionelles japanisches Bogenschiessen in Uniform",
+  "metaTitle": "Kyudo-Erlebnis in Hiroshima",
+  "metaDescription": "Entdecken Sie japanisches Bogenschiessen in Hiroshima. Tragen Sie eine echte Kyudo-Uniform und versuchen Sie sich an einem Stil, der volle Konzentration verlangt.",
+  "shortDescription": "Entdecken Sie japanisches Bogenschiessen in Hiroshima. Tragen Sie eine echte Kyudo-Uniform und versuchen Sie sich an einem Bogenschiess-Stil, der volle Konzentration von Geist und Koerper verlangt.",
+  "fullDescription": "Kyudo, der Weg des Bogens, ist die meditativste der japanischen Kampfkuenste: eine Disziplin, bei der das Spannen eines zwei Meter langen asymmetrischen Bogens zu einer Choreografie von Bewegungen verfeinert wurde, die ueber Jahrhunderte entwickelt wurde, und bei der das Treffen des Ziels als Folge korrekter Form gilt, nicht als Ziel selbst. Dieses einstuendige Erlebnis im Sharaku-Dojo nahe dem Hiroshima-Schloss ist einer von sehr wenigen Orten in Japan, an denen Reisende es richtig praktizieren koennen. Die Sitzung beginnt mit dem passenden Anziehen: Sie werden mit einer echten Kyudo-Uniform ausgestattet, derselben, die Praktizierende tragen, was mehr bewirkt, als auf Fotos eindrucksvoll auszusehen; es veraendert, wie Sie stehen und sich bewegen. Ihr Lehrer fuehrt Sie dann durch die Grundlagen, die Fussstellung, die Haltung, das Einlegen des Pfeils, das langsame Heben und Spannen des Yumi-Bogens, den Moment des Loslassens, mit Betonung auf der vollstaendigen Konzentration von Geist und Koerper, die Kyudo seinen Ruf als Meditation in Bewegung verleiht. Dann schiessen Sie, wirklich, auf Ziele am Ende der Dojo-Bahn, wobei der Lehrer zwischen den Pfeilen korrigiert und ermutigt. Die meisten Gaeste sind zweimal ueberrascht: zuerst davon, wie schwierig sich die elegante Einfachheit herausstellt, und dann davon, wie fesselnd sie wird; eine Stunde verschwindet schnell, wenn jeder Pfeil Ihre volle Aufmerksamkeit verlangt. Mit fast 470 Bewertungen und einer Wertung nahe 4,9 gehoert dies zu den beliebtesten kulturellen Erlebnissen in Hiroshima, und es laesst sich leicht in jeden Reiseplan als Gegengewicht zu den schwereren historischen Staetten der Stadt einbauen. Keine Erfahrung oder Kraft ist erforderlich, nur Neugier und die Bereitschaft, Anfaenger zu sein.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "hiroshima-food-tour": {
+  "title": "Hiroshima mit dem Fahrrad erkoestlichen: Okonomiyaki, Austern und versteckte Strassen",
+  "metaTitle": "Hiroshima per Fahrrad erschmecken",
+  "metaDescription": "Radeln Sie durch Hiroshimas versteckte Strassen mit einem lokalen Guide, probieren Sie brutzelnden Okonomiyaki und die frischesten Austern.",
+  "shortDescription": "Radeln Sie durch Hiroshimas versteckte Strassen mit einem lokalen Guide, probieren Sie brutzelnden Okonomiyaki, schluerfen Sie die frischesten Austern und lernen Sie die freundlichen Gesichter hinter den besten Aromen der Stadt kennen.",
+  "fullDescription": "Hiroshimas Esskultur ist stark lokal gepraegt und meist versteckt im Offensichtlichen: die besten Okonomiyaki-Grills haben Platz fuer acht Personen, die Austernzuechter kennen ihre Bauern namentlich, und nichts davon liegt auf der Haupttouristenroute. Dieses vierstuendige kulinarische Fahrradabenteuer mit InKansai bringt Sie zu diesen Orten so, wie Einheimische sie erreichen, mit dem Fahrrad, mit einem Guide, der die freundlichen Gesichter hinter den besten Aromen der Stadt kennt. Die Tour beginnt nahe Otemachi mit Anpassung und Sicherheitseinweisung, dann faellt sie in einen Rhythmus, der fuer den Rest des Tages Fahren und Essen abwechselt. Zwischen den Verkostungsstopps durchquert die Route die versteckten Strassen der Stadt und fuehrt durch ihr Herz, mit gefuehrter Zeit im Friedensgedenkpark und am Atombombendom, sodass das Essen in der Geschichte der Stadt verankert ist, die es hervorbringt. Das Essen ist jedoch der Hoehepunkt: brutzelnder Okonomiyaki im Hiroshima-Stil, in Schichten mit Nudeln statt gemischt aufgebaut, direkt vom Teppan; die frischesten Austern, der Stolz der Bucht von Hiroshima, an einer lokalen Theke geschaelt und geschluerft; knuspriges Tempura; und ein letzter Stopp in einem lokalen Cafe, um mit etwas Suessem abzuschliessen. Die Portionen an den verschiedenen Stopps summieren sich zu einem sehr vollen Mittagessen, kommen Sie also hungrig. Das Radfahren selbst ist einfach, flache Stadtfahrten in geselligem Tempo, zwischen den Bissen gut zu bewaeltigen. Mit einer Fuenf-Sterne-Wertung von seinen ersten Rezensenten ist dies Hiroshima, wie es Einheimische leben: eine Stadt, die ueberlebte, um still eine der besten Essensstaedte Japans zu werden, und eine, die vom Fahrradsattel aus am besten schmeckt.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "hiroshima-half-day-tour": {
+  "title": "Privater Hiroshima-Halbtags-Highlights-Spaziergang mit mehrsprachigem Guide",
+  "metaTitle": "Privater Hiroshima-Halbtagsspaziergang",
+  "metaDescription": "Eine private vierstuendige Fuehrung durch Hiroshimas kraftvolle Geschichte der Wiedergeburt und des Friedens, geleitet von einem mehrsprachigen lokalen Guide.",
+  "shortDescription": "Eine private vierstuendige Fuehrung durch Hiroshimas kraftvolle Geschichte der Wiedergeburt und des Friedens, geleitet von einem engagierten mehrsprachigen lokalen Guide. Alle Eintrittsgebuehren inklusive, voll anpassbar. Preis pro Gruppe.",
+  "fullDescription": "Vier Stunden reichen aus, um Hiroshima richtig zu erleben, wenn diese Stunden von jemandem gestaltet werden, der die Geschichte der Stadt genau kennt. Dieser private Halbtagsspaziergang beginnt um 9 Uhr in Ihrer Hotellobby, wo Ihr engagierter mehrsprachiger lokaler Guide Sie trifft, und von da an ist der Vormittag ganz Ihrer: der Reiseplan ist vollstaendig anpassbar, obwohl sein Rueckgrat Hiroshimas kraftvoller Bogen von der Tragoedie zu lebendiger Erneuerung ist. Das Herzstueck des Spaziergangs ist der Bereich des Friedensgedenkparks und -museums, wo sich Ihr Guide zwischen dem Kenotaph, der Friedensflamme, dem Kinderfriedensdenkmal und dem Atombombendom bewegt, mit der Art von Kontext, die stille Reflexion moeglich statt obligatorisch macht, und alle Eintrittsgebuehren entlang der Route sind bereits inklusive. Aber die wahre Besonderheit der Tour ist das, was den Gedenkkern umgibt: ruhige Gaerten und historische Ecken der Stadt, in denen das aeltere Hiroshima fortbesteht, Tempelgassen, Jizo-Statuen, stille Zen-Innenhoefe, und wo Sie die Stadt als lebendigen Ort erleben, in dem Reflexion und Hoffnung koexistieren, nicht nur als Gedenkstaette. Da die Tour privat und mehrsprachig ist, passen sich Tempo, Schwerpunkt und Sprache vollstaendig an Sie an; Familien, Erstbesucher und wiederkehrende Reisende erhalten tatsaechlich unterschiedliche Vormittage. Kleine Details runden es ab: jeder Gast erhaelt ein Stovenir-Souvenir zum Mitnehmen, persoenliche Reiseunterstuetzung geht ueber die Tour selbst hinaus, und es werden niemals Trinkgelder erwartet. Mahlzeiten und Transportkosten sind die einzigen Extras. Sie beenden um 13 Uhr mit dem freien Nachmittag, idealerweise fuer Miyajima, und tragen ein vollstaendigeres Bild dieser Stadt davon, als die meisten Besucher je zusammensetzen.",
+  "highlights": [],
+  "included": [
+   "Engagierter mehrsprachiger professioneller lokaler Reisefuehrer, alle Eintrittsgebuehren fuer aufgefuehrte Attraktionen, 'Stovenir'-Souvenir fuer jeden Gast, anpassbarer Reiseplan, persoenliche Reiseunterstuetzung (keine Trinkgelder erwartet)"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Transportkosten"
+  ]
+ },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara im Myokaku-ji: Schwertchoreografie, gefilmt auf dem Tempelgelände",
   "metaTitle": "Chambara-Schwerterlebnis in Kyoto",

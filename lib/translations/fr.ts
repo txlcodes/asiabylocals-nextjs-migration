@@ -57753,6 +57753,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Depenses personnelles, frais d'entree, dejeuner pour les invites et le guide, pourboires"
   ]
  },
+ "hakone-yosegi-zaiku-marquetry-workshop": {
+  "title": "Atelier de marqueterie yosegi zaiku a Hakone : creez votre propre bois incruste",
+  "metaTitle": "Atelier de marqueterie yosegi zaiku a Hakone",
+  "metaDescription": "Deux heures et demie dans un atelier de marqueterie actif des collines de Hakone, pour apprendre le yosegi zaiku et fabriquer une piece a emporter.",
+  "shortDescription": "Une visite de deux heures et demie dans un atelier de marqueterie actif des collines de Hakone, ou vous apprenez comment le yosegi zaiku est construit a partir de bois colores et fabriquez une piece a emporter.",
+  "fullDescription": "Le yosegi zaiku est l'artisanat propre a Hakone, et il est plus etrange qu'il ne le parait d'abord. Les motifs geometriques semblent imprimes ou incrustes piece par piece ; en realite, ils sont construits. L'artisan colle ensemble de longues tiges de bois differents, choisies uniquement pour leur couleur naturelle, en un faisceau dont la section forme une seule unite du motif. Ce faisceau est ensuite combine avec d'autres en un bloc plus grand, et le bloc est enfin rabote en feuilles assez fines pour laisser passer la lumiere. Chaque feuille porte le dessin complet. Rien n'est teint et rien n'est dessine.\n\nL'artisanat s'est developpe a Hatajuku, un village sur l'ancienne route Tokaido traversant le col de Hakone, au debut du dix-neuvieme siecle. Les voyageurs marchant entre Kyoto et Edo s'arretaient ici, et un souvenir portable, beau et peu couteux etait exactement ce que le trafic recherchait. Les montagnes fournissaient la matiere premiere : ce tronçon du Kanagawa abrite une gamme inhabituelle d'especes d'arbres, et la palette des motifs, du fusain pale au noyer sombre et au keyaki chaleureux, est simplement ce qui pousse sur ces pentes.\n\nLa session commence a la gare de Hakone-Yumoto, d'ou un court trajet en bus vous mene a l'atelier. Vous y recevez d'abord l'histoire, puis le materiau lui-meme : les tiges, les blocs colles, et le rabot utilise pour decouper les feuilles de placage en une seule boucle continue. Regarder un artisan faire ce copeau est ce que la plupart des gens retiennent. Cela parait facile et ne l'est pas ; la lame doit etre reglee a des fractions de millimetre et le bloc doit etre parfaitement droit.\n\nPuis vous fabriquez quelque chose. La partie pratique est concue pour des personnes qui n'ont jamais touche un rabot ou un bloc de marqueterie, le guide traduisant et l'artisan de l'atelier corrigeant au fur et a mesure. Vous partez avec votre propre piece terminee, ce qui est un souvenir bien meilleur que les versions produites en masse vendues dans les boutiques de la gare en bas.\n\nC'est une activite courte, en interieur et resistante aux intemperies, ce qui en fait un complement judicieux a un voyage a Hakone construit autour du telepherique et du lac, tous deux pouvant etre gaches par les nuages. Elle voyage aussi bien comme idee : le yosegi zaiku est l'artisanat derriere les celebres boites a casse-tete de Hakone, et une fois que vous avez vu comment les motifs sont assembles, vous les remarquez partout dans la region.",
+  "highlights": [],
+  "included": [
+   "Guide anglophone, introduction guidee a l'histoire et a la technique du yosegi zaiku, tous les materiaux et outils d'artisanat, votre piece terminee a emporter, transfert aller-retour en bus local depuis la gare de Hakone-Yumoto"
+  ],
+  "notIncluded": [
+   "Trajet vers et depuis la gare de Hakone-Yumoto, repas et boissons, articles d'artisanat supplementaires de la boutique de l'atelier, pourboires"
+  ]
+ },
+ "hiroshima-evening-evening-tour": {
+  "title": "Reflets du soir a Hiroshima : visite guidee crepusculaire du parc de la Paix",
+  "metaTitle": "Visite crepusculaire du parc de la Paix d'Hiroshima",
+  "metaDescription": "Explorez le parc memorial de la Paix d'Hiroshima lors d'une visite crepusculaire atmospherique, dans un cadre calme et propice a la reflexion.",
+  "shortDescription": "Explorez le parc memorial de la Paix d'Hiroshima lors d'une visite crepusculaire atmospherique. A mesure que le parc se calme, decouvrez l'histoire d'Hiroshima, ses memoriaux et son message de paix dans un cadre calme et propice a la reflexion.",
+  "fullDescription": "En fin d'apres-midi, les groupes touristiques quittent le parc memorial de la Paix, et quelque chose change. Les allees de gravier se vident, la lumiere s'adoucit sur la riviere Motoyasu, et les memoriaux, si frequentes a midi, redeviennent des lieux de calme. Cette marche du soir de deux heures est programmee exactement pour cette fenetre. Vous rencontrez votre guide au moment ou la journee se rafraichit et marchez dans le parc alors qu'il s'installe dans le crepuscule : le cenotaphe memorial avec le registre des noms des victimes, la Flamme de la Paix captant ses premiers reflets dans le bassin, le Monument de la Paix des Enfants avec ses milliers de grues en papier remuant dans l'air du soir. Votre guide raconte l'histoire du 6 aout 1945 et ses suites dans un registre calme et reflexif qui convient a l'heure, avec du temps prevu pour simplement s'arreter et absorber plutot que de marcher entre les plaques. La marche se termine de l'autre cote de la riviere au Dome de la Bombe Atomique au moment ou ses projecteurs s'allument, la structure squelettique brillant contre le ciel qui s'obscurcit, ce que beaucoup de voyageurs decrivent comme le spectacle le plus poignant de leur sejour a Hiroshima. Les avis notent systematiquement combien le parc se sent different a cette heure, contemplatif plutot que bonde, et combien le format laisse de la place pour les questions qu'une visite de groupe diurne survole. Si votre emploi du temps vous fait arriver a Hiroshima l'apres-midi, ou si vous souhaitez simplement rencontrer ce lieu dans son humeur la plus calme, cette marche du soir est la maniere de le faire, et elle s'accorde naturellement avec un diner dans le quartier de la galerie Hondori a quelques minutes a pied.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans l'itineraire"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "hiroshima-evening-tour": {
+  "title": "Hiroshima apres la nuit tombee : marche du soir gastronomique et culturelle avec diner local",
+  "metaTitle": "Marche du soir gastronomique a Hiroshima",
+  "metaDescription": "Plongez dans la nourriture, la culture et la vie locale d'Hiroshima apres la nuit tombee, avec diner dans des lieux tachinomi locaux.",
+  "shortDescription": "Plongez dans la nourriture, la culture et la vie locale d'Hiroshima apres la nuit tombee. Cette visite privee du soir vous offre un regard intime d'initie sur la cuisine et le mode de vie de la ville, avec diner dans des lieux tachinomi locaux.",
+  "fullDescription": "Hiroshima le jour est une ville de memoriaux ; la nuit, elle devient une des villes gastronomiques les plus sous-estimees du Japon, et cette visite privee du soir de trois heures est construite autour de cette seconde identite. Vous rencontrez votre guide a 18h30 pres du magasin Don Quijote a Shintenchi, au milieu de la zone de divertissement du centre-ville, et partez a pied dans la galerie commerciale Hondori alors que les lanternes s'allument et que les employes de bureau se repandent dans les rues laterales. Le cœur de la soiree est le diner dans trois etablissements differents de style tachinomi, les bars decontractes ou l'on mange et boit debout au comptoir, ou les habitants mangent vraiment, plutot que dans un restaurant destine aux touristes. A chaque arret, votre guide commande ce que la maison fait de mieux, en les accompagnant de biere, de cocktails ou de spiritueux japonais, et traduit non seulement le menu mais aussi l'ambiance : qui boit ici, pourquoi le maitre amenage le comptoir comme il le fait, de quoi les habitants d'Hiroshima discutent quand ils parlent de nourriture. Entre les etablissements, vous marchez sur Nagarekawa-dori, l'epine dorsale neon du quartier des sorties nocturnes de la ville, obtenant un regard d'initie sur la facon dont cette ville reconstruite se detend. Comme la visite est privee, l'itineraire s'adapte a votre appetit et votre curiosite ; les amateurs de fruits de mer, les mangeurs aventureux et les plus prudents sont tous pris en compte. Avec environ 270 avis et une note proche de 4,9, elle est devenue discretement une des experiences gastronomiques les mieux notees de la ville. Venez affame, portez des chaussures confortables, et attendez-vous a terminer la soiree pres de votre point de depart avec l'estomac plein et une liste de bars que vous n'auriez jamais trouves seul.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans l'itineraire"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "hiroshima-experience": {
+  "title": "Experience de kyudo a Hiroshima : tir a l'arc japonais traditionnel en uniforme",
+  "metaTitle": "Experience de kyudo a Hiroshima",
+  "metaDescription": "Decouvrez le tir a l'arc japonais a Hiroshima. Portez un uniforme de kyudo authentique et essayez un style exigeant une concentration totale du corps et de l'esprit.",
+  "shortDescription": "Decouvrez le tir a l'arc japonais a Hiroshima. Portez un uniforme de kyudo authentique et essayez-vous a un style de tir qui exige une concentration totale du corps et de l'esprit.",
+  "fullDescription": "Le kyudo, la voie de l'arc, est le plus meditatif des arts martiaux japonais : une discipline ou le tirage d'un arc asymetrique de deux metres est choregraphie en une sequence de mouvements affines au fil des siecles, et ou toucher la cible est considere comme la consequence d'une forme correcte plutot que l'objectif lui-meme. Cette experience d'une heure au dojo Sharaku pres du chateau d'Hiroshima est un des rares endroits au Japon ou les voyageurs peuvent le pratiquer correctement. La session commence par se vetir pour l'occasion : vous etes habille d'un uniforme de kyudo authentique, le meme que portent les pratiquants, ce qui fait plus que paraitre saisissant en photo ; cela change votre facon de vous tenir et de bouger. Votre instructeur vous guide ensuite a travers les fondamentaux, la position des pieds, la posture, l'encochage de la fleche, le lever et le tirage lents de l'arc yumi, le moment du lacher, en insistant sur la concentration totale du corps et de l'esprit qui donne au kyudo sa reputation de meditation en mouvement. Puis vous tirez, pour de vrai, sur des cibles au bout de la salle du dojo, l'instructeur corrigeant et encourageant entre les fleches. La plupart des invites sont surpris deux fois : d'abord par la difficulte de cette elegante simplicite, puis par le fait qu'elle devienne si absorbante ; une heure disparait rapidement quand chaque fleche exige toute votre attention. Avec pres de 470 avis et une note proche de 4,9, c'est l'une des experiences culturelles les plus appreciees d'Hiroshima, et elle s'integre facilement a tout itineraire comme contrepoint aux sites historiques plus lourds de la ville. Aucune experience ni force n'est requise, juste de la curiosite et une volonte d'etre debutant.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans l'itineraire"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "hiroshima-food-tour": {
+  "title": "Hiroshima gastronomique a velo : okonomiyaki, huitres et ruelles cachees",
+  "metaTitle": "Hiroshima gastronomique a velo",
+  "metaDescription": "Pedalez dans les ruelles cachees d'Hiroshima avec un guide local, degustez l'okonomiyaki grillant, savourez les huitres les plus fraiches.",
+  "shortDescription": "Pedalez dans les ruelles cachees d'Hiroshima avec un guide local, degustez l'okonomiyaki grillant, savourez les huitres les plus fraiches et rencontrez les visages chaleureux derriere les meilleures saveurs de la ville.",
+  "fullDescription": "La culture culinaire d'Hiroshima est fortement locale et se cache surtout a la vue de tous : les meilleures plaques d'okonomiyaki n'accueillent que huit personnes, les ostreiculteurs connaissent leurs producteurs par leur nom, et rien de tout cela ne se trouve sur le circuit touristique principal. Cette aventure culinaire a velo de quatre heures avec InKansai vous amene a ces endroits comme le font les habitants, a bicyclette, avec un guide qui connait les visages chaleureux derriere les meilleures saveurs de la ville. La visite commence pres d'Otemachi avec un ajustement et un briefing de securite, puis s'installe dans un rythme qui alterne velo et repas pour le reste de la journee. Entre les arrets de degustation, l'itineraire traverse les ruelles cachees de la ville et passe par son cœur, avec du temps guide au parc memorial de la Paix et au Dome de la Bombe Atomique, de sorte que la nourriture est ancree dans l'histoire de la ville qui la produit. Mais la degustation est le point fort : l'okonomiyaki grillant de style Hiroshima, construit en couches avec des nouilles plutot que melange, directement sorti du teppan ; les huitres les plus fraiches, la fierte de la baie d'Hiroshima, decoquillees et savourees a un comptoir local ; des tempura croustillants ; et un dernier arret dans un cafe local pour terminer sur une note sucree. Les portions aux differents arrets s'ajoutent pour former un dejeuner tres complet, venez donc affame. Le cyclisme lui-meme est facile, un trajet urbain plat a un rythme convivial, entierement gerable entre les bouchees. Avec une note cinq etoiles de ses premiers avis, c'est Hiroshima tel que les habitants le vivent : une ville qui a survecu pour devenir, discretement, une des meilleures villes gastronomiques du Japon, et qui se gouterait mieux depuis la selle d'un velo.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans l'itineraire"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "hiroshima-half-day-tour": {
+  "title": "Marche privee des incontournables d'Hiroshima en demi-journee avec guide multilingue",
+  "metaTitle": "Marche privee d'Hiroshima en demi-journee",
+  "metaDescription": "Une visite privee a pied de 4 heures a travers l'histoire puissante de renaissance et de paix d'Hiroshima, menee par un guide local multilingue.",
+  "shortDescription": "Une visite privee a pied de 4 heures a travers l'histoire puissante de renaissance et de paix d'Hiroshima, menee par un guide local multilingue dedie. Tous les frais d'entree inclus, entierement personnalisable. Prix par groupe.",
+  "fullDescription": "Quatre heures suffisent pour rencontrer vraiment Hiroshima, si ces heures sont faconnees par quelqu'un qui connait intimement l'histoire de la ville. Cette marche privee d'une demi-journee commence a 9h dans le hall de votre hotel, ou votre guide local multilingue dedie vous rencontre, et a partir de la, la matinee est entierement a vous : l'itineraire est entierement personnalisable, bien que son axe soit l'arc puissant d'Hiroshima de la tragedie a un renouveau vibrant. Le cœur de la marche est la zone du parc et du musee memorial de la Paix, ou votre guide se deplace entre le cenotaphe, la Flamme de la Paix, le Monument de la Paix des Enfants et le Dome de la Bombe Atomique avec le genre de contexte qui rend possible une reflexion calme plutot qu'obligatoire, et tous les frais d'entree le long du parcours sont deja inclus. Mais la vraie distinction de la visite est ce qui entoure le cœur memorial : des jardins tranquilles et des coins patrimoniaux de la ville ou l'ancienne Hiroshima persiste, des ruelles de temples, des statues de jizo, des cours zen paisibles, et ou vous sentez la ville comme un lieu vivant ou la reflexion et l'espoir coexistent, pas seulement un site de commemoration. Comme la visite est privee et multilingue, le rythme, l'accent et la langue s'adaptent entierement a vous ; les familles, les visiteurs pour la premiere fois et les voyageurs de retour vivent des matinees vraiment differentes. Des petites touches completent le tout : chaque invite recoit un souvenir Stovenir a emporter, le soutien personnel au voyage se poursuit au-dela de la visite elle-meme, et aucun pourboire n'est jamais attendu. Les repas et les frais de transport sont les seuls extras. Vous terminez a 13h avec l'apres-midi libre, ideal pour Miyajima, en emportant une image plus complete de cette ville que la plupart des visiteurs n'en assemblent jamais.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel multilingue dedie, tous les frais d'entree pour les attractions listees, souvenir 'Stovenir' pour chaque invite, itineraire personnalisable, soutien personnel au voyage (aucun pourboire attendu)"
+  ],
+  "notIncluded": [
+   "Repas et frais de transport"
+  ]
+ },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara a Myokaku-ji : choregraphie au sabre filmee dans l'enceinte d'un temple",
   "metaTitle": "Experience de chambara au sabre a Kyoto",
