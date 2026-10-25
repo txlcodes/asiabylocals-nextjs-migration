@@ -59261,6 +59261,43 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Lo mejor de Hokkaido: Biei, estanque azul y zoologico de Asahiyama",
   "metaDescription": "Tour de día completo en Sapporo. Incluye: visita al zoológico de Asahiyama. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "hokkaido-6-day-tour-natural-wonders-and-urban-exploration-in-sapporo": {
+  "title": "Tour de 6 dias por Hokkaido: maravillas naturales y exploracion urbana desde Sapporo",
+  "fullDescription": "Esta es una experiencia de 6 días en Sapporo, centrada en Aeropuerto de New Chitose, Sapporo y Museo de cajas de musica de Otaru. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHokkaido es la isla norteña de Japón, un clima diferente y una escala diferente: Sapporo es su ciudad, con el museo de la cerveza, el callejón de ramen y el festival de nieve de febrero; Otaru, a 40 minutos, tiene el canal y las tiendas de vidrio y cajas de música; Noboribetsu son las aguas termales del valle del infierno; el lago Toya y el lago Shikotsu son lagos de caldera; y Biei y Furano en el centro son los campos de flores y lavanda de julio. El invierno trae dos metros de nieve a Sapporo y el polvo que hizo famoso a Niseko. Las distancias son largas y los trenes escasos, por lo que los tours de un día desde Sapporo son principalmente en autobús y duran de ocho a diez horas.\n\nEl precio incluye recogida y regreso al hotel dentro de la ciudad de Sapporo, vehículo con aire acondicionado, tarifas de combustible, peajes de autopista para la ruta planificada y tarifas de estacionamiento para la ruta planificada. No incluye comidas y bebidas, gastos personales, entradas y alojamiento, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Sapporo. Kansai Holiday confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Aeropuerto de New Chitose",
+   "Sapporo",
+   "Museo de cajas de musica de Otaru",
+   "Canal de Otaru",
+   "Duración: 6 días",
+   "Recogida y regreso al hotel dentro de la ciudad de Sapporo"
+  ],
+  "included": [
+   "Recogida y regreso al hotel dentro de la ciudad de Sapporo",
+   "Air-conditioned vehicle.",
+   "Fuel fees.",
+   "Peajes de autopista para la ruta organizada.",
+   "Tarifas de estacionamiento para la ruta organizada.",
+   "Wi-Fi a bordo, segun disponibilidad del vehiculo.",
+   "Se proporciona un asiento de bebe gratis por reserva.",
+   "Apoyo basico de ruta segun la duracion seleccionada y las paradas confirmadas.",
+   "30 minutos de espera gratuita desde la hora de recogida programada."
+  ],
+  "notIncluded": [
+   "Comidas y bebidas.",
+   "Personal expenses.",
+   "Admission tickets.",
+   "Accommodation.",
+   "El segundo asiento de bebe y los siguientes cuestan 2000 yenes.",
+   "El servicio nocturno de 22:00 a 07:00 implica un cargo adicional de 2000 yenes para todos los servicios",
+   "Tarifa de horas extra para vehiculos de hasta 13 plazas: 5000 yenes por hora.",
+   "Tarifa de horas extra para vehiculos de 18 plazas: 10.000 yenes por hora.",
+   "Tarifa de horas extra para autobuses de 44 plazas: 10.000 yenes por hora."
+  ],
+  "shortDescription": "Tour de 6 días en Sapporo, con Aeropuerto de New Chitose, Sapporo y Museo de cajas de musica de Otaru. Operador: Kansai Holiday, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour de 6 dias por Hokkaido: maravillas naturales y exploracion urbana desde Sapporo",
+  "metaDescription": "Tour de 6 días en Sapporo. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "day-trip-to-shirakawago-and-kanazawa": {
   "title": "Excursion de un dia a Shirakawago y Kanazawa",
   "fullDescription": "Esta es una experiencia de 8 horas desde Nagoya, centrada en Tren, Autobús/autocar y Shirakawa-go. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTakayama, en las montañas de Hida al norte de Nagoya, conservó sus calles comerciantes de la era Edo, mercados matutinos y destilerías de sake, y Shirakawa-go, una hora más allá, es el pueblo catalogado por la UNESCO de granjas gassho-zukuri con techos de paja empinados construidos para la nieve. Los tours de un día desde Nagoya, Kanazawa o Takayama mismo van al pueblo; el mirador sobre él es la vista, y el invierno, cuando los techos llevan dos metros de nieve y el pueblo se ilumina en algunas noches de enero y febrero, es la razón por la que muchos van. La carne de Hida es la comida regional.\n\nEl precio incluye transporte desde el punto de encuentro, guía bilingüe en inglés y español, billete de tren desde/hacia Osaka y entrada al jardin Kenrokuen. No incluye comida y bebidas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -61111,6 +61148,76 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Degustacion de citricos y desafio de descubrimiento en Hiroshima",
   "metaDescription": "Tour de 0,5 horas en Hiroshima. Incluye: degustacion de citricos. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "7-day-tokyo-kanazawa-kyoto-and-hiroshima-by-rail": {
+  "title": "Tour de 7 dias en tren: Tokio, Kanazawa, Kyoto e Hiroshima",
+  "fullDescription": "Esta es una experiencia de 7 días desde Hiroshima, centrada en Narita Express a la estacion de Tokio y Parque memorial de la paz y el torii flotante. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTokio es la ciudad más grande del mundo por población metropolitana y se ve mejor como un conjunto de barrios en la línea circular Yamanote en lugar de un solo lugar. Asakusa tiene Senso-ji, el templo más antiguo de la ciudad, y el callejón comercial de Nakamise; Shibuya tiene el famoso cruce y Shinjuku los bares de Golden Gai y Omoide Yokocho; Harajuku es la calle Takeshita y el bosque del santuario Meiji; Akihabara es electrónica y anime; Ginza son grandes almacenes y mostradores de sushi. Todo funciona puntualmente y los últimos trenes son hacia la medianoche. El efectivo todavía importa en los restaurantes pequeños, una tarjeta IC cubre cada tren y autobús, y las propinas no se dan en ningún lugar.\n\nEl precio incluye pase Japan Rail de 7 dias que cubre todos los Shinkansen, todas las reservas de asiento realizadas con antelacion para usted, cruce en ferry JR a Miyajima, Toyota Alphard privado con conductor de habla inglesa para todos los y todos los peajes de autopista. No incluye hoteles y alojamiento, comidas y bebidas, entradas a las plataformas de observacion y guía de habla inglesa con licencia, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Hiroshima. OlaChill Travel & Technology confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Narita Express a la estacion de Tokio",
+   "Parque memorial de la paz y el torii flotante",
+   "Duración: 7 días",
+   "Japan Rail Pass de 7 dias que cubre todos los Shinkansen, trenes express limitados y trenes locales JR del itinerario",
+   "todas las reservas de asiento realizadas con antelacion para usted",
+   "cruce en ferry JR a Miyajima"
+  ],
+  "included": [
+   "Japan Rail Pass de 7 dias que cubre todos los Shinkansen, trenes express limitados y trenes locales JR del itinerario",
+   "todas las reservas de asiento realizadas con antelacion para usted",
+   "cruce en ferry JR a Miyajima",
+   "Toyota Alphard privado con conductor de habla inglesa durante los 7 dias, 8 horas por dia",
+   "Todos los peajes de autopista, estacionamiento y combustible",
+   "Comidas y gastos propios del conductor",
+   "Recogida en el aeropuerto a la llegada y traslado privado de regreso a la salida",
+   "Envio de equipaje entre ciudades",
+   "Equipaje transportado en el vehiculo durante todo el trayecto",
+   "Planificacion de ruta y reservas anticipadas a peticion"
+  ],
+  "notIncluded": [
+   "hoteles y alojamiento",
+   "Comidas y bebidas",
+   "Entradas a miradores, museos, jardines y salones interiores de templos",
+   "Guia autorizado de habla inglesa (disponible a peticion con cargo adicional)",
+   "Gastos personales, recuerdos y propinas",
+   "Seguro de viaje y vuelos internacionales"
+  ],
+  "shortDescription": "Tour de 7 días en Hiroshima, con Narita Express a la estacion de Tokio. Operador: OlaChill Travel & Technology, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour de 7 dias en tren: Tokio, Kanazawa, Kyoto e Hiroshima",
+  "metaDescription": "Tour de 7 días en Hiroshima. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "5-day-himeji-hiroshima-and-miyajima-private-tour": {
+  "title": "Tour privado de 5 dias: Himeji, Hiroshima y Miyajima",
+  "fullDescription": "Esta es una experiencia de 5 días desde Hiroshima, centrada en Recogida en Kansai y Dotonbori, Castillo de Himeji y Kurashiki and Peace Park and Miyajima ferry. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nLas excursiones de un día desde Osaka tienen cada una una razón. Himeji tiene el castillo mejor conservado de Japón, la Garza Blanca, un original de 1609 con seis pisos de interior de madera, su yeso reblanqueado en una restauración completada en 2015; la subida a la torre principal es empinada y la cola en la época de los cerezos en flor es larga. Kobe tiene la carne de res, vendida por grado en mostradores donde se ve cómo se cocina, y el puerto. Koyasan, dos horas al sur, es la ciudad monástica de montaña fundada por Kukai en 816, donde 117 templos se encuentran en un bosque de cedros y el cementerio de Okunoin es el más grande de Japón; una noche en un alojamiento de templo shukubo con shojin ryori vegetariano es la razón para ir.\n\nEl precio incluye 4 noches de alojamiento: hoteles cuidadosamente seleccionados en Osaka y, vehiculo privado con conductor para los 5 dias, guía durante todo el circuito, recogida en el aeropuerto de Kansai a la llegada y regreso a la salida y todos los traslados entre Osaka, Himeji, Kurashiki, Hiroshima. No incluye almuerzo y cena a menos que se indique en el itinerario, entradas al castillo de Himeji, Koko-en, entrada de la telecabina del monte Misen y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nsu conductor-guia recibe su vuelo en el aeropuerto de Kansai alrededor de las 14:00 y lo lleva al hotel en Namba, aproximadamente una hora. Desde las 18:00 camina hacia Dotonbori. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Recogida en Kansai y Dotonbori",
+   "Castillo de Himeji y Kurashiki",
+   "Parque de la paz y ferry de Miyajima",
+   "Miyajima y Kobe",
+   "Duración: 5 días",
+   "4 noches de alojamiento: hoteles cuidadosamente seleccionados en Osaka y Kurashiki, y un ryokan tradicional en la isla de Miyajima"
+  ],
+  "included": [
+   "4 noches de alojamiento: hoteles cuidadosamente seleccionados en Osaka y Kurashiki, y un ryokan tradicional en la isla de Miyajima",
+   "vehiculo privado con conductor para los 5 dias",
+   "Guía de habla inglesa durante todo el circuito",
+   "recogida en el aeropuerto de Kansai a la llegada y regreso a la salida",
+   "Todos los traslados entre Osaka, Himeji, Kurashiki, Hiroshima, Miyajima y Kobe",
+   "Travesias en ferry de ida y vuelta a Miyajima",
+   "Equipaje gestionado y transportado entre hoteles",
+   "Linea de soporte 24/7 en ingles y japones",
+   "Todos los peajes de autopista, estacionamiento y combustible para el vehiculo privado",
+   "Comidas, alojamiento y gastos propios del conductor"
+  ],
+  "notIncluded": [
+   "almuerzo y cena a menos que se indique en el itinerario",
+   "Entradas al castillo de Himeji, Koko-en, el museo memorial de la paz y el santuario Itsukushima",
+   "entrada de la telecabina del monte Misen",
+   "Gastos personales, recuerdos y propinas",
+   "Seguro de viaje",
+   "Vuelos internacionales hacia y desde Japon"
+  ],
+  "shortDescription": "Tour de 5 días en Hiroshima, con Recogida en Kansai y Dotonbori, Castillo de Himeji y Kurashiki and Peace Park and Miyajima ferry. Operador: OlaChill Travel & Technology, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour privado de 5 dias: Himeji, Hiroshima y Miyajima",
+  "metaDescription": "Tour de 5 días en Hiroshima. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "hiroshima-and-miyajima-6-5-hour-private-tour-french-guide-by-local-operator": {
   "title": "Hiroshima y Miyajima: tour privado de 6,5 horas (guía en francés)",
   "fullDescription": "Esta es una experiencia de 6,5 horas en Hiroshima, centrada en Tren, Ferri y Miyajima. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl Parque Memorial de la Paz de Hiroshima se encuentra en el suelo bajo el punto donde la bomba detonó a las 8:15 del 6 de agosto de 1945. La Cúpula de la Bomba Atómica, el esqueleto del salón de promoción industrial, se dejó como estaba; el Museo Memorial de la Paz reabrió en 2019 tras un rediseño y toma unas dos horas, y no es apto para niños pequeños. El Monumento de la Paz de los Niños está adornado con grullas de papel enviadas desde todo el mundo. La comida propia de Hiroshima es el okonomiyaki en capas con fideos, comido en mostradores de Okonomimura. Miyajima está a 40 minutos y la mayoría de los visitantes combinan ambos en un día.\n\nEl precio incluye guía privado de habla francesa, entrada y recomendaciones personalizadas para comida y turismo. No incluye comida, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\n広島駅 中央口 みどりの窓口. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -62944,6 +63051,41 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour en Kyoto, que incluye pelotas de pickleball y vestuario y duchas. Operador: omoroi life, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Pickleball en Osaka, Kobe y Kyoto con locales, por un operador local",
   "metaDescription": "Tour en Kyoto. Incluye: pelotas de pickleball y vestuario y duchas. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "kyoto-shiga-highlights-day-tour-miho-museum-and-shirahige-shrine-by-local-operator": {
+  "title": "Kyoto Shiga, tour de un dia de lo mejor: museo Miho y santuario Shirahige, por un operador local",
+  "fullDescription": "Esta es una experiencia de 10 horas desde Kyoto, centrada en Autobús/autocar, Museo Miho y Antiguo templo Chikurin-in. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nKyoto fue la capital de Japón durante más de mil años hasta 1868 y tiene 17 sitios catalogados por la UNESCO entre unos 2.000 templos y santuarios. Los tres grandes son Kinkaku-ji, el Pabellón Dorado, cubierto de pan de oro y mejor con la luz de la mañana; Kiyomizu-dera, el escenario de madera en las colinas orientales con los callejones de Higashiyama de Sannenzaka y Ninenzaka debajo; y las puertas de Fushimi Inari. El castillo de Nijo tiene los pisos del ruiseñor que chirrían contra los intrusos, y Ryoan-ji el jardín de piedras. Los templos abren alrededor de las 8:00 o 9:00 y cierran a las 17:00, y el autobús municipal es lento; un día con un conductor o guía que ordena las paradas contra las multitudes es la diferencia entre cuatro sitios y siete.\n\nEl precio incluye tarifas de servicio del vehiculo segun lo listado en el itinerario, coste del combustible, duracion del servicio del vehiculo: hasta 10 horas, tarifa de servicio de conductor-guia y grupo pequeno para 1. No incluye costos de alojamiento, este es un tour de un dia. No se recomienda llevar equipaje, si se requiere equipaje y cualquier articulo no listado especificamente en 'que esta incluido', así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Autobús/autocar",
+   "Museo Miho",
+   "Antiguo templo Chikurin-in",
+   "Lago Biwa",
+   "Duración: 10 horas",
+   "tarifas de servicio del vehiculo segun lo listado en el itinerario"
+  ],
+  "included": [
+   "tarifas de servicio del vehiculo segun lo listado en el itinerario",
+   "Costos de combustible, peaje y autopista",
+   "Duracion del servicio del vehiculo: hasta 10 horas (conforme a la ley japonesa)",
+   "tarifa de servicio de conductor-guia",
+   "Grupo pequeno para 1-13 invitados; tour en autobus para 14-45 invitados",
+   "El tipo de vehiculo se ajustara segun el tamano final del grupo el dia del viaje",
+   "Tipos de vehiculo de referencia",
+   "5-8 plazas: Toyota Alphard o equivalente",
+   "9-14 plazas: Toyota Hiace o equivalente",
+   "18-22 plazas: minibus",
+   "Mas de 22 plazas: autobus grande",
+   "Los modelos de vehiculo son solo de referencia y estan sujetos a cambios segun el tamano del grupo"
+  ],
+  "notIncluded": [
+   "Costos de alojamiento, comidas, tarifas de entrada a atracciones, actividades opcionales y cualquier gasto personal",
+   "este es un tour de un dia. No se recomienda llevar equipaje",
+   "Si se requiere equipaje, indiquelo al reservar y pague una tarifa de equipaje de 100 CNY por pieza",
+   "cualquier articulo no listado especificamente en 'que esta incluido'"
+  ],
+  "shortDescription": "Tour de día completo en Kyoto, con Museo Miho, Antiguo templo Chikurin-in y Lago Biwa. Operador: Wandering Japan Adventures, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Kyoto Shiga, tour de un dia de lo mejor: museo Miho y santuario Shirahige, por un operador local",
+  "metaDescription": "Tour de día completo en Kyoto. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "kyoto-ohara-forest-rail-and-kifune-shrine-day-trip": {
   "title": "Excursion de un dia: Kyoto, Ohara, tren forestal y santuario de Kifune",
@@ -66201,6 +66343,40 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Katsuoji, Minoo, parque de la Expo 70, excursion de un dia en grupo pequeno en Osaka",
   "metaDescription": "Tour de día completo en Osaka. Incluye: vehículo con aire acondicionado. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "wakayama-day-trip-with-cat-stationmaster-train-in-osaka": {
+  "title": "Excursion de un dia a Wakayama con el tren del gato jefe de estacion en Osaka",
+  "fullDescription": "Esta es una experiencia de 10 horas desde Osaka, centrada en Autobús/autocar, Estación de Kishi y Mercado Toretore. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nOsaka es la cocina de Japón: la ciudad que inventó el takoyaki, el okonomiyaki y el kushikatsu, y el canal de letreros de neón de Dotonbori es donde se comen. El castillo de Osaka es una reconstrucción de hormigón de 1931 de la fortaleza de Hideyoshi con un museo dentro y un foso y parque que vale una hora; el mercado Kuromon es el mercado de alimentos; Shinsekai es el distrito retro bajo la torre Tsutenkaku; el Umeda Sky Building tiene el observatorio al aire libre. Osaka es la base para excursiones de un día a Nara, Kobe, Himeji y Koyasan, todas a menos de hora y media. La ciudad es más ruidosa y más barata que Kyoto y su gente es conocida por ello.\n\nEl precio incluye servicio de vehiculo segun lo listado en el itinerario, combustible, tiempo de servicio del vehiculo hasta 10 horas, servicio de guía y grupo pequeno para 1. No incluye alojamiento, una pieza de equipaje por huesped se permite sin cargo y cualquier articulo no listado en 'que esta incluido', así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Autobús/autocar",
+   "Estación de Kishi",
+   "Mercado Toretore",
+   "Meseta rocosa de Senjojiki",
+   "Duración: 10 horas",
+   "servicio de vehiculo segun lo listado en el itinerario"
+  ],
+  "included": [
+   "servicio de vehiculo segun lo listado en el itinerario",
+   "Combustible, peaje y tarifas de autopista",
+   "Tiempo de servicio del vehiculo hasta 10 horas (conforme a la normativa japonesa)",
+   "Servicio de guía local",
+   "Grupo pequeno para 1-13 invitados; tour en autobus para 14-45 invitados, ajustado segun el tamano del grupo)",
+   "Tipos de vehiculo de referencia (segun el tamano del grupo):",
+   "5-8 plazas: Toyota Alphard o similar",
+   "9-14 plazas: Toyota Hiace o similar",
+   "18-22 plazas: minibus",
+   "22+ plazas: autobus grande",
+   "Los ninos menores de 3 anos pueden participar gratis si estan sentados en el regazo de un adulto",
+   "A los ninos de 3 anos o mas se les cobra la tarifa de adulto"
+  ],
+  "notIncluded": [
+   "Alojamiento, comidas, entradas a atracciones, actividades opcionales y gastos personales",
+   "Se permite una pieza de equipaje por invitado gratis (indiquelo con antelacion)",
+   "cualquier articulo no listado en 'que esta incluido'"
+  ],
+  "shortDescription": "Tour de día completo en Osaka, con Estación de Kishi, Mercado Toretore y Meseta rocosa de Senjojiki. Operador: Wandering Japan Adventures, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Excursion de un dia a Wakayama con el tren del gato jefe de estacion en Osaka",
+  "metaDescription": "Tour de día completo en Osaka. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "chopstick-making-workshop-with-local-instructor-in-osaka": {
   "title": "Taller de elaboración de palillos con instructor local en Osaka",
   "fullDescription": "Esta es una experiencia de 1 hora en Osaka. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nOsaka es la cocina de Japón: la ciudad que inventó el takoyaki, el okonomiyaki y el kushikatsu, y el canal de letreros de neón de Dotonbori es donde se comen. El castillo de Osaka es una reconstrucción de hormigón de 1931 de la fortaleza de Hideyoshi con un museo dentro y un foso y parque que vale una hora; el mercado Kuromon es el mercado de alimentos; Shinsekai es el distrito retro bajo la torre Tsutenkaku; el Umeda Sky Building tiene el observatorio al aire libre. Osaka es la base para excursiones de un día a Nara, Kobe, Himeji y Koyasan, todas a menos de hora y media. La ciudad es más ruidosa y más barata que Kyoto y su gente es conocida por ello.\n\nEl precio incluye taller de elaboración de palillos y madera estándar y instructor. No incluye mejoras opcionales disponibles en el lugar con cargo adicional y recogida y regreso al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -68815,6 +68991,39 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Monte Fuji, tour privado con guia de habla inglesa",
   "metaDescription": "Tour de día completo en Mount Fuji. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
+ "kokusai-ski-resort-day-tour-with-jozankei-onsen-in-sapporo": {
+  "title": "Tour de un dia a la estacion de esqui Kokusai con el onsen de Jozankei en Sapporo",
+  "fullDescription": "Esta es una experiencia de 10 horas en Sapporo, centrada en Autobús/autocar, Estacion de esqui Sapporo Kokusai y Onsen de Jozankei. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHokkaido es la isla norteña de Japón, un clima diferente y una escala diferente: Sapporo es su ciudad, con el museo de la cerveza, el callejón de ramen y el festival de nieve de febrero; Otaru, a 40 minutos, tiene el canal y las tiendas de vidrio y cajas de música; Noboribetsu son las aguas termales del valle del infierno; el lago Toya y el lago Shikotsu son lagos de caldera; y Biei y Furano en el centro son los campos de flores y lavanda de julio. El invierno trae dos metros de nieve a Sapporo y el polvo que hizo famoso a Niseko. Las distancias son largas y los trenes escasos, por lo que los tours de un día desde Sapporo son principalmente en autobús y duran de ocho a diez horas.\n\nEl precio incluye transporte de ida y vuelta, guia de habla inglesa/china/coreana, B-1, B-2 y C-1. No incluye comidas, seguro de viaje, pase de telesilla de 1 dia y botas para jugar en la nieve, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Autobús/autocar",
+   "Estacion de esqui Sapporo Kokusai",
+   "Onsen de Jozankei",
+   "Duración: 10 horas",
+   "Transporte de ida y vuelta",
+   "guia de habla inglesa/china/coreana"
+  ],
+  "included": [
+   "Transporte de ida y vuelta",
+   "guia de habla inglesa/china/coreana",
+   "B-1 (esqui): alquiler de equipo de esqui (esquis, bastones, botas)",
+   "B-2 (snowboard): alquiler de equipo de snowboard (tabla, botas)",
+   "C-1 (esqui+clase): alquiler de equipo de esqui (esquis, bastones, botas), ropa (chaqueta + pantalon + gafas), clase de grupo basica de 2 horas",
+   "C-1 (snowboard+clase): alquiler de equipo de snowboard (tabla, botas), ropa de esqui (chaqueta + pantalon + gafas), clase de grupo basica de 2 horas",
+   "D (actividades de nieve): tarifa de entrada al parque de nieve, escalera mecanica de nieve",
+   "E (turismo): entrada de gondola de ida y vuelta"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Seguro de viaje",
+   "Forfait de un dia (adulto 7000 yenes / nino 2800 yenes)",
+   "Botas para juegos de nieve (1500 yenes)",
+   "Tarifa de entrada al onsen de Jozankei",
+   "Otros gastos personales y equipo"
+  ],
+  "shortDescription": "Tour de día completo en Sapporo, con Estacion de esqui Sapporo Kokusai y Onsen de Jozankei. Operador: TOURSTORY Japan, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour de un dia a la estacion de esqui Kokusai con el onsen de Jozankei en Sapporo",
+  "metaDescription": "Tour de día completo en Sapporo. Incluye: transporte de ida y vuelta. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "bibai-snowland-otaru-and-shiroi-koibito-park": {
   "title": "Bibai Snowland, Otaru y parque Shiroi Koibito",
   "fullDescription": "Esta es una experiencia de 10 horas desde Sapporo, centrada en Autobús/autocar, Bibai Snowland y Canal de Otaru (autobus/autocar). Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHokkaido es la isla norteña de Japón, un clima diferente y una escala diferente: Sapporo es su ciudad, con el museo de la cerveza, el callejón de ramen y el festival de nieve de febrero; Otaru, a 40 minutos, tiene el canal y las tiendas de vidrio y cajas de música; Noboribetsu son las aguas termales del valle del infierno; el lago Toya y el lago Shikotsu son lagos de caldera; y Biei y Furano en el centro son los campos de flores y lavanda de julio. El invierno trae dos metros de nieve a Sapporo y el polvo que hizo famoso a Niseko. Las distancias son largas y los trenes escasos, por lo que los tours de un día desde Sapporo son principalmente en autobús y duran de ocho a diez horas.\n\nEl precio incluye autocar climatizado de ida y vuelta, entrada a Bibai Snowland, actividades de nieve gratuitas y guía multilingüe. No incluye comida, tarifa de visita a la fabrica Shiroi Koibito, mejoras del paquete de juego ilimitado y entrada al acuario de Otaru, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\n札幌电视塔. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -68843,6 +69052,46 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Bibai Snowland, Otaru y parque Shiroi Koibito",
   "metaDescription": "Tour de día completo en Sapporo. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
+ "hokkaido-3-day-tour-animals-and-natural-wonders-in-sapporo": {
+  "title": "Tour de 3 dias por Hokkaido: animales y maravillas naturales desde Sapporo",
+  "fullDescription": "Esta es una experiencia de 3 días en Sapporo, centrada en Canal de Otaru, Calle de sushi de Otaru y Calle Sakaimachi. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHokkaido es la isla norteña de Japón, un clima diferente y una escala diferente: Sapporo es su ciudad, con el museo de la cerveza, el callejón de ramen y el festival de nieve de febrero; Otaru, a 40 minutos, tiene el canal y las tiendas de vidrio y cajas de música; Noboribetsu son las aguas termales del valle del infierno; el lago Toya y el lago Shikotsu son lagos de caldera; y Biei y Furano en el centro son los campos de flores y lavanda de julio. El invierno trae dos metros de nieve a Sapporo y el polvo que hizo famoso a Niseko. Las distancias son largas y los trenes escasos, por lo que los tours de un día desde Sapporo son principalmente en autobús y duran de ocho a diez horas.\n\nEl precio incluye servicio de vehículo privado para los 3 días confirmados del tour, recogida desde hoteles o alojamientos confirmados en Sapporo, vehículo privado climatizado, conductor-guia para las opciones elegibles y conduccion. No incluye entradas, comidas y bebidas, gastos personales y paradas adicionales no confirmadas con antelación, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Sapporo. Kansai Holiday confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Canal de Otaru",
+   "Calle de sushi de Otaru",
+   "Calle Sakaimachi",
+   "Acuario de Otaru",
+   "Duración: 3 días",
+   "Servicio de vehículo privado para los 3 días confirmados del tour"
+  ],
+  "included": [
+   "Servicio de vehículo privado para los 3 días confirmados del tour",
+   "Recogida desde hoteles o alojamientos confirmados en Sapporo",
+   "Vehículo privado climatizado",
+   "Conductor-guia de habla inglesa para las opciones elegibles",
+   "Conduccion, comunicacion de ruta y asistencia turistica basica",
+   "tarifas de combustible para las rutas planificadas",
+   "peajes de autopista para las rutas planificadas",
+   "Tarifas de estacionamiento para las rutas organizadas",
+   "Itinerario estandar de 3 dias o ruta ajustada confirmada",
+   "Regreso el dia 3 al aeropuerto de Asahikawa o New Chitose",
+   "30 minutos de espera gratuita desde la hora de recogida programada cada dia",
+   "Un asiento de bebe gratis si se solicita con antelacion"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Comidas y bebidas",
+   "Gastos personales",
+   "Paradas adicionales no confirmadas con antelacion.",
+   "Recogida o regreso fuera del area.",
+   "Horas extra: 5000 yenes/hora para hasta 14 plazas; 10.000 yenes/hora para vehiculos de 18 o 44 plazas.",
+   "El servicio nocturno de 22:00 a 07:00 implica un cargo adicional de 2000 yenes para todos los servicios.",
+   "Servicio de guia profesional autorizado, a menos que se reserve y confirme por separado.",
+   "Entrada del conductor si los invitados le piden entrar en atracciones de pago o unirse a actividades de pago"
+  ],
+  "shortDescription": "Tour de 3 días en Sapporo, con Canal de Otaru, Calle de sushi de Otaru y Calle Sakaimachi. Operador: Kansai Holiday, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour de 3 dias por Hokkaido: animales y maravillas naturales desde Sapporo",
+  "metaDescription": "Tour de 3 días en Sapporo. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "asahiyama-zoo-blue-pond-and-chiyoda-farm-day-tour-in-sapporo": {
   "title": "Zoologico de Asahiyama, estanque azul y granja de Chiyoda, tour de un dia en Sapporo",
   "fullDescription": "Esta es una experiencia de 10 horas desde Sapporo, centrada en Autobús/autocar, zoologico de Asahiyama y Árbol de Navidad. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHokkaido es la isla norteña de Japón, un clima diferente y una escala diferente: Sapporo es su ciudad, con el museo de la cerveza, el callejón de ramen y el festival de nieve de febrero; Otaru, a 40 minutos, tiene el canal y las tiendas de vidrio y cajas de música; Noboribetsu son las aguas termales del valle del infierno; el lago Toya y el lago Shikotsu son lagos de caldera; y Biei y Furano en el centro son los campos de flores y lavanda de julio. El invierno trae dos metros de nieve a Sapporo y el polvo que hizo famoso a Niseko. Las distancias son largas y los trenes escasos, por lo que los tours de un día desde Sapporo son principalmente en autobús y duran de ocho a diez horas.\n\nEl precio incluye transporte en autocar de ida y vuelta desde la estacion de Sapporo, entrada al zoologico de Asahiyama, servicio de conductor-guia y costos de combustible y tarifas de peaje. No incluye almuerzo y bebidas, paseo en moto de nieve en la granja Chiyoda, seguro de viaje y recogida y regreso al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -68869,6 +69118,123 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de día completo en Sapporo, con zoologico de Asahiyama, Cascada de Shirahige y estanque azul de Shirogane. Operador: イ一エストラベル株式会社, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Zoologico de Asahiyama, estanque azul y granja de Chiyoda, tour de un dia en Sapporo",
   "metaDescription": "Tour de día completo en Sapporo. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "8-hour-private-sapporo-city-tour-with-night-views-by-local-operator": {
+  "title": "Tour privado de 8 horas por la ciudad de Sapporo con vistas nocturnas, por un operador local",
+  "fullDescription": "Esta es una experiencia de 8 horas en Sapporo, centrada en Santuario Hokkaido Tongu, parque Odori de Sapporo y Mercado de Nijo. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHokkaido es la isla norteña de Japón, un clima diferente y una escala diferente: Sapporo es su ciudad, con el museo de la cerveza, el callejón de ramen y el festival de nieve de febrero; Otaru, a 40 minutos, tiene el canal y las tiendas de vidrio y cajas de música; Noboribetsu son las aguas termales del valle del infierno; el lago Toya y el lago Shikotsu son lagos de caldera; y Biei y Furano en el centro son los campos de flores y lavanda de julio. El invierno trae dos metros de nieve a Sapporo y el polvo que hizo famoso a Niseko. Las distancias son largas y los trenes escasos, por lo que los tours de un día desde Sapporo son principalmente en autobús y duran de ocho a diez horas.\n\nEl precio incluye recogida y regreso dentro del area de servicio seleccionada de Sapporo, vehículo privado climatizado, conductor-guia para las opciones elegibles, servicio de conduccion y tarifas de combustible para la ruta planificada. No incluye entradas, comidas y bebidas, gastos personales y paradas adicionales no confirmadas con antelación, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSapporo. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Santuario Hokkaido Tongu",
+   "parque Odori de Sapporo",
+   "Mercado de Nijo",
+   "Museo de la cerveza de Sapporo",
+   "Duración: 8 horas",
+   "recogida y regreso dentro del area de servicio seleccionada de Sapporo"
+  ],
+  "included": [
+   "recogida y regreso dentro del area de servicio seleccionada de Sapporo",
+   "Vehículo privado climatizado",
+   "Conductor-guia de habla inglesa para las opciones elegibles",
+   "Servicio de conduccion, comunicacion de ruta y asistencia turistica basica",
+   "tarifas de combustible para la ruta planificada",
+   "peajes de autopista para la ruta planificada",
+   "tarifas de estacionamiento para la ruta planificada",
+   "Ruta estandar Furano-Biei o ruta ajustada confirmada",
+   "30 minutos de espera gratuita desde la hora de recogida programada",
+   "Un asiento de bebe gratis si se solicita con antelacion"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Comidas y bebidas",
+   "Gastos personales",
+   "Paradas adicionales no confirmadas con antelacion.",
+   "Recogida o regreso fuera del area.",
+   "Tiempo de espera mas alla de los 30 minutos gratuitos.",
+   "Horas extra: 5000 yenes/hora para hasta 14 plazas; 10.000 yenes/hora para vehiculos de 18 o 44 plazas.",
+   "El servicio nocturno de 22:00 a 07:00 implica un cargo adicional de 2000 yenes para todos los servicios.",
+   "Servicio de guia profesional autorizado, a menos que se reserve y confirme por separado.",
+   "Entrada del conductor si los invitados le piden entrar en atracciones de pago o unirse a actividades de pago"
+  ],
+  "shortDescription": "Tour de día completo en Sapporo, con Santuario Hokkaido Tongu, parque Odori de Sapporo y Mercado de Nijo. Operador: Kansai Holiday, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour privado de 8 horas por la ciudad de Sapporo con vistas nocturnas, por un operador local",
+  "metaDescription": "Tour de día completo en Sapporo. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "6-day-hokkaido-nature-tour-wetlands-and-heritage-sites-in-sapporo": {
+  "title": "Tour de naturaleza de 6 dias por Hokkaido: humedales y sitios patrimoniales desde Sapporo",
+  "fullDescription": "Esta es una experiencia de 6 días en Sapporo, centrada en Kushiro, Pantano de Kushiro y Lago Akan. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHokkaido es la isla norteña de Japón, un clima diferente y una escala diferente: Sapporo es su ciudad, con el museo de la cerveza, el callejón de ramen y el festival de nieve de febrero; Otaru, a 40 minutos, tiene el canal y las tiendas de vidrio y cajas de música; Noboribetsu son las aguas termales del valle del infierno; el lago Toya y el lago Shikotsu son lagos de caldera; y Biei y Furano en el centro son los campos de flores y lavanda de julio. El invierno trae dos metros de nieve a Sapporo y el polvo que hizo famoso a Niseko. Las distancias son largas y los trenes escasos, por lo que los tours de un día desde Sapporo son principalmente en autobús y duran de ocho a diez horas.\n\nEl precio incluye recogida y regreso dentro del area seleccionada del aeropuerto de New Chitose, vehículo privado climatizado, tarifas de combustible para la ruta planificada, peajes de autopista para la ruta planificada y tarifas de estacionamiento para la ruta planificada. No incluye entradas, comidas y bebidas, alojamiento y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Sapporo. Kansai Holiday confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Kushiro",
+   "Pantano de Kushiro",
+   "Lago Akan",
+   "Lago Mashu",
+   "Duración: 6 días",
+   "recogida y regreso dentro del area seleccionada del aeropuerto de New Chitose"
+  ],
+  "included": [
+   "recogida y regreso dentro del area seleccionada del aeropuerto de New Chitose",
+   "Vehículo privado climatizado",
+   "tarifas de combustible para la ruta planificada",
+   "peajes de autopista para la ruta planificada",
+   "tarifas de estacionamiento para la ruta planificada",
+   "Ruta estandar Furano-Biei o ruta ajustada confirmada",
+   "30 minutos de espera gratuita desde la hora de recogida programada",
+   "Un asiento de bebe gratis si se solicita con antelacion"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Comidas y bebidas",
+   "Alojamiento",
+   "Gastos personales",
+   "Paradas adicionales no confirmadas con antelacion.",
+   "Recogida o regreso fuera del area.",
+   "Horas extra: 5000 yenes/hora para hasta 14 plazas; 10.000 yenes/hora para vehiculos de 18 plazas.",
+   "El servicio nocturno de 22:00 a 07:00 implica un cargo adicional de 2000 yenes para todos los servicios.",
+   "Servicio de guia profesional autorizado, a menos que se reserve y confirme por separado.",
+   "Entrada del conductor si los invitados le piden entrar en atracciones de pago o unirse a actividades de pago"
+  ],
+  "shortDescription": "Tour de 6 días en Sapporo, con Kushiro, Pantano de Kushiro y Lago Akan. Operador: Kansai Holiday, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour de naturaleza de 6 dias por Hokkaido: humedales y sitios patrimoniales desde Sapporo",
+  "metaDescription": "Tour de 6 días en Sapporo. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "3-day-to-otaru-furano-and-lake-shikotsu": {
+  "title": "3 dias a Otaru, Furano y el lago Shikotsu",
+  "fullDescription": "Esta es una experiencia de 3 días en Sapporo. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nHokkaido es la isla norteña de Japón, un clima diferente y una escala diferente: Sapporo es su ciudad, con el museo de la cerveza, el callejón de ramen y el festival de nieve de febrero; Otaru, a 40 minutos, tiene el canal y las tiendas de vidrio y cajas de música; Noboribetsu son las aguas termales del valle del infierno; el lago Toya y el lago Shikotsu son lagos de caldera; y Biei y Furano en el centro son los campos de flores y lavanda de julio. El invierno trae dos metros de nieve a Sapporo y el polvo que hizo famoso a Niseko. Las distancias son largas y los trenes escasos, por lo que los tours de un día desde Sapporo son principalmente en autobús y duran de ocho a diez horas.\n\nEl precio incluye servicio de vehículo privado para los 3 días confirmados del tour, recogida desde hoteles o alojamientos confirmados en Sapporo, vehículo privado climatizado, tarifas de combustible para las rutas planificadas y peajes de autopista para las rutas planificadas. No incluye entradas, comidas y bebidas, alojamiento y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Sapporo. Kansai Holiday confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 días",
+   "Servicio de vehículo privado para los 3 días confirmados del tour",
+   "Recogida desde hoteles o alojamientos confirmados en Sapporo",
+   "Vehículo privado climatizado",
+   "tarifas de combustible para las rutas planificadas",
+   "peajes de autopista para las rutas planificadas"
+  ],
+  "included": [
+   "Servicio de vehículo privado para los 3 días confirmados del tour",
+   "Recogida desde hoteles o alojamientos confirmados en Sapporo",
+   "Vehículo privado climatizado",
+   "tarifas de combustible para las rutas planificadas",
+   "peajes de autopista para las rutas planificadas",
+   "Tarifas de estacionamiento para las rutas organizadas",
+   "Itinerario estandar de 3 dias o ruta ajustada confirmada",
+   "Regreso el dia 3 al aeropuerto de New Chitose",
+   "30 minutos de espera gratuita desde la hora de recogida programada cada dia",
+   "Un asiento de bebe gratis si se solicita con antelacion"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Comidas y bebidas",
+   "Alojamiento",
+   "Gastos personales",
+   "Guia o conductor-guia de habla inglesa",
+   "Paradas adicionales no confirmadas con antelacion.",
+   "Recogida o regreso fuera del area.",
+   "El segundo asiento de bebe y los siguientes cuestan 2000 yenes.",
+   "Horas extra: 5000 yenes/hora para hasta 14 plazas; 10.000 yenes/hora para vehiculos de 18 o 44 plazas.",
+   "El servicio nocturno de 22:00 a 07:00 implica un cargo adicional de 2000 yenes para todos los servicios.",
+   "Servicio de guia profesional autorizado, a menos que se reserve y confirme por separado.",
+   "Entrada del conductor si los invitados le piden entrar en atracciones de pago o unirse a actividades de pago"
+  ],
+  "shortDescription": "Tour de 3 días en Sapporo, que incluye servicio de vehículo privado para los 3 días confirmados del tour, recogida desde hoteles o alojamientos confirmados en Sapporo y vehículo privado climatizado. Operador: Kansai Holiday, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "3 dias a Otaru, Furano y el lago Shikotsu",
+  "metaDescription": "Tour de 3 días en Sapporo. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "twilight-christmas-tree-and-double-illumination-in-sapporo": {
   "title": "Árbol de Navidad al atardecer y doble iluminación en Sapporo",
@@ -69670,6 +70036,46 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de día completo en Sapporo, con area de servicio de Sunagawa, direccion ascendente, Telecabina Daisetsuzan Asahidake y Parque nacional de Daisetsuzan. Operador: TOURSTORY Japan, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Daisetsuzan con telecabina, cataratas de Hagoromo, tour de follaje otonal en Sapporo",
   "metaDescription": "Tour de día completo en Sapporo. Incluye: transporte de ida y vuelta. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "private-2-day-nakasendo-and-kiso-valley-tour-in-nagoya": {
+  "title": "Tour privado de 2 dias por el Nakasendo y el valle de Kiso en Nagoya",
+  "fullDescription": "Esta es una experiencia de 2 días desde Nagoya, centrada en Magome-juku, Nakasendo y Tsumago-juku. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nNagoya es la cuarta ciudad de Japón y la puerta de entrada al Parque Ghibli en Nagakute, abierto en 2022 con entradas de horario fijo que se agotan semanas antes, a Nagashima Spa Land y sus montañas rusas, y a Inuyama, cuyo castillo es uno de los doce torres originales. Los delfines dorados del castillo de Nagoya y el Museo Conmemorativo Toyota son las vistas propias de la ciudad, y la anguila a la parrilla hitsumabushi y el miso katsu son su comida. El Gran Santuario de Ise, el sitio más sagrado del sintoísmo, reconstruido cada veinte años, está a 90 minutos al sur.\n\nEl precio incluye recogida y regreso al hotel dentro del area seleccionada de Nagoya, servicio de visita privada de 2 dias, vehículo privado climatizado, conductor-guía y ayuda turistica basica y orientacion de ruta. No incluye entradas, comidas y bebidas, gastos personales y alojamiento, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Nagoya. Kansai Holiday confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Magome-juku",
+   "Nakasendo",
+   "Tsumago-juku",
+   "Narai-juku",
+   "Duración: 2 días",
+   "Recogida y regreso al hotel dentro del area de servicio de Nagoya seleccionada"
+  ],
+  "included": [
+   "Recogida y regreso al hotel dentro del area de servicio de Nagoya seleccionada",
+   "servicio de visita privada de 2 dias",
+   "Vehículo privado climatizado",
+   "Conductor-guía de habla inglesa",
+   "ayuda turistica basica y orientacion de ruta",
+   "Comunicacion de ruta y asistencia turistica basica",
+   "tarifas de combustible para la ruta planificada",
+   "peajes de autopista para la ruta planificada",
+   "tarifas de estacionamiento para la ruta planificada",
+   "30 minutos de espera gratuita desde la hora de recogida programada",
+   "Un asiento de bebe gratuito mediante solicitud previa"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Comidas y bebidas",
+   "Gastos personales",
+   "Alojamiento",
+   "Paradas adicionales no confirmadas con antelacion.",
+   "Recogida o regreso fuera del area.",
+   "Horas extra: 5000 yenes/hora para hasta 14 plazas.",
+   "El servicio nocturno de 22:00 a 07:00 implica un cargo adicional de 2000 yenes para todos los servicios.",
+   "Servicio de guia profesional autorizado, a menos que se reserve y confirme por separado.",
+   "Entrada del conductor-guia si los invitados le piden entrar en atracciones de pago o unirse a actividades de pago"
+  ],
+  "shortDescription": "Tour de 2 días en Nagoya, con Magome-juku, Nakasendo y Tsumago-juku. Operador: Kansai Holiday, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour privado de 2 dias por el Nakasendo y el valle de Kiso en Nagoya",
+  "metaDescription": "Tour de 2 días en Nagoya. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "tokyo-to-kyoto-alps-tour-shirakawa-go-and-takayama-and-magome-3-days": {
   "title": "De Tokio a los Alpes de Kyoto: Shirakawa-go, Takayama y Magome, 3 dias",
@@ -74173,6 +74579,44 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Tour de Amanohashidate y Miyama con barco y almuerzo en Kyoto",
   "metaDescription": "Tour en Kyoto. Incluye: comida, billete de teleférico y billete de barco. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "kyoto-natural-indigo-dyeing-with-local-masters-by-local-operator": {
+  "title": "Kyoto, tenido con indigo natural con maestros locales, por un operador local",
+  "fullDescription": "Esta es una experiencia de 2 horas en Kyoto. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nKyoto fue la capital de Japón durante más de mil años hasta 1868 y tiene 17 sitios catalogados por la UNESCO entre unos 2.000 templos y santuarios. Los tres grandes son Kinkaku-ji, el Pabellón Dorado, cubierto de pan de oro y mejor con la luz de la mañana; Kiyomizu-dera, el escenario de madera en las colinas orientales con los callejones de Higashiyama de Sannenzaka y Ninenzaka debajo; y las puertas de Fushimi Inari. El castillo de Nijo tiene los pisos del ruiseñor que chirrían contra los intrusos, y Ryoan-ji el jardín de piedras. Los templos abren alrededor de las 8:00 o 9:00 y cierran a las 17:00, y el autobús municipal es lento; un día con un conductor o guía que ordena las paradas contra las multitudes es la diferencia entre cuatro sitios y siete.\n\nEl precio incluye todas las herramientas y materiales necesarios para el taller de tenido, una tela furoshiki de algodon, uso de tinas de indigo fermentado natural, orientacion practica de artesanos locales y interpretacion cultural y apoyo en ingles de. No incluye transporte de ida y vuelta al lugar de la actividad, servicio de envio para su articulo tenido, tenido de tela o prenda de gran tamano y comida o aperitivo, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "todas las herramientas y materiales necesarios para el taller de tenido",
+   "Un pano furoshiki de algodon (aproximadamente 45-50 cm)",
+   "Uso de tinas de indigo fermentado natural (sukumo)",
+   "orientacion practica de artesanos locales",
+   "Interpretacion cultural y apoyo en ingles del anfitrion"
+  ],
+  "included": [
+   "todas las herramientas y materiales necesarios para el taller de tenido",
+   "Un pano furoshiki de algodon (aproximadamente 45-50 cm)",
+   "Uso de tinas de indigo fermentado natural (sukumo)",
+   "orientacion practica de artesanos locales",
+   "Interpretacion cultural y apoyo en ingles del anfitrion",
+   "Te de hierbas de hoja de indigo servido durante la experiencia",
+   "Demostracion de pliegue de tecnicas tradicionales de envoltura furoshiki",
+   "Un pequeno regalo de recuerdo para llevar a casa",
+   "Uso de delantal durante el proceso de tenido",
+   "Acceso a un taller de tenido historico privado",
+   "Tiempo para fotos con su creacion terminada",
+   "Un entorno tranquilo en grupo pequeno para una experiencia cultural intima"
+  ],
+  "notIncluded": [
+   "Transporte de ida y vuelta al lugar de la actividad",
+   "Servicio de envio para su articulo tenido (disponible solo a peticion con cargo adicional)",
+   "Tenido de tela o prenda de gran tamano (solo se incluye un furoshiki)",
+   "Comida o snack (solo se incluye el te)",
+   "Soporte multilingue mas alla del ingles y el japones",
+   "Materiales o furoshiki adicionales mas alla del proporcionado",
+   "Vestidor para cambio de ropa (recomendamos usar ropa informal)"
+  ],
+  "shortDescription": "Tour de 2 horas en Kyoto, que incluye todas las herramientas y materiales necesarios para el taller de tenido, una tela furoshiki de algodon y uso de tinas de indigo fermentado natural. Operador: Chie, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Kyoto, tenido con indigo natural con maestros locales, por un operador local",
+  "metaDescription": "Tour de 2 horas en Kyoto. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "scenic-honshu-biwa-sky-ride-historic-temple-and-omihachiman-in-kyoto": {
   "title": "Honshu panoramico: telecabina del lago Biwa, templo historico y Omihachiman en Kyoto",
   "fullDescription": "Esta es una experiencia de 10 horas desde Kyoto, centrada en Autobús/autocar, Santuario Shirahige y Lago Biwa. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nKyoto fue la capital de Japón durante más de mil años hasta 1868 y tiene 17 sitios catalogados por la UNESCO entre unos 2.000 templos y santuarios. Los tres grandes son Kinkaku-ji, el Pabellón Dorado, cubierto de pan de oro y mejor con la luz de la mañana; Kiyomizu-dera, el escenario de madera en las colinas orientales con los callejones de Higashiyama de Sannenzaka y Ninenzaka debajo; y las puertas de Fushimi Inari. El castillo de Nijo tiene los pisos del ruiseñor que chirrían contra los intrusos, y Ryoan-ji el jardín de piedras. Los templos abren alrededor de las 8:00 o 9:00 y cierran a las 17:00, y el autobús municipal es lento; un día con un conductor o guía que ordena las paradas contra las multitudes es la diferencia entre cuatro sitios y siete.\n\nEl precio incluye recogida desde Osaka/Kyoto, regreso en Osaka/Kyoto, entradas del santuario Shirahige, tiempo libre durante el tour y tipo de vehiculo: con aire acondicionado. No incluye comida y bebidas y billete de teleférico, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Kyoto. Lucky Day Travel confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -77499,6 +77943,41 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "De Tokio a Osaka, tour privado en coche de 10 dias para el follaje otonal, por un operador local",
   "metaDescription": "Tour de 10 días en Osaka. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
+ "tokyo-asakusa-premium-kimono-rental-and-hairstyling-and-accessorie-by-local-operator": {
+  "title": "Tokio Asakusa: alquiler de kimono premium, peinado y accesorios, por un operador local",
+  "fullDescription": "Esta es una experiencia de 1 hora en Tokyo. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTokio es la ciudad más grande del mundo por población metropolitana y se ve mejor como un conjunto de barrios en la línea circular Yamanote en lugar de un solo lugar. Asakusa tiene Senso-ji, el templo más antiguo de la ciudad, y el callejón comercial de Nakamise; Shibuya tiene el famoso cruce y Shinjuku los bares de Golden Gai y Omoide Yokocho; Harajuku es la calle Takeshita y el bosque del santuario Meiji; Akihabara es electrónica y anime; Ginza son grandes almacenes y mostradores de sushi. Todo funciona puntualmente y los últimos trenes son hacia la medianoche. El efectivo todavía importa en los restaurantes pequeños, una tarjeta IC cubre cada tren y autobús, y las propinas no se dan en ningún lugar.\n\nEl precio incluye alquiler de kimono komon por un dia hasta las 17:00, vestuario de kimono por un estilista certificado, el precio incluye el alquiler de accesorios, el precio incluye un servicio basico de peinado y privado. No incluye servicio de maquillaje, comida, estudio fotografico interior y sesion de fotos, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1 hora",
+   "alquiler de kimono komon por un dia hasta las 17:00",
+   "Vestimenta con kimono profesional por un estilista certificado",
+   "el precio incluye el alquiler de accesorios",
+   "el precio incluye un servicio basico de peinado",
+   "Servicio de prueba privado uno a uno"
+  ],
+  "included": [
+   "alquiler de kimono komon por un dia hasta las 17:00",
+   "Vestimenta con kimono profesional por un estilista certificado",
+   "el precio incluye el alquiler de accesorios",
+   "el precio incluye un servicio basico de peinado",
+   "Servicio de prueba privado uno a uno",
+   "Vestidor e instalaciones de prueba",
+   "Ropa protectora",
+   "Calcetines",
+   "Bolsa de toalla",
+   "Almacenar equipaje",
+   "Admite varios idiomas"
+  ],
+  "notIncluded": [
+   "Servicio de maquillaje (debe reservarse con antelacion)",
+   "Comida o bebidas",
+   "Estudio fotografico interior (disponible con cargo adicional)",
+   "Sesion de fotografia profesional (complemento opcional)",
+   "Transporte de ida y vuelta a la tienda"
+  ],
+  "shortDescription": "Tour de 1 hora en Tokyo, que incluye alquiler de kimono komon por un dia hasta las 17:00, vestuario de kimono por un estilista certificado y el precio incluye el alquiler de accesorios. Operador: sproutbridge株式会社, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tokio Asakusa: alquiler de kimono premium, peinado y accesorios",
+  "metaDescription": "Tour de 1 hora en Tokyo. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "tokyo-shibuya-pro-photography-in-kimono-english-friendly-by-local-operator": {
   "title": "Tokio, Shibuya: fotografia profesional con kimono (facil en ingles), por un operador local",
   "fullDescription": "Esta es una experiencia de 1 hora en Tokyo. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTokio es la ciudad más grande del mundo por población metropolitana y se ve mejor como un conjunto de barrios en la línea circular Yamanote en lugar de un solo lugar. Asakusa tiene Senso-ji, el templo más antiguo de la ciudad, y el callejón comercial de Nakamise; Shibuya tiene el famoso cruce y Shinjuku los bares de Golden Gai y Omoide Yokocho; Harajuku es la calle Takeshita y el bosque del santuario Meiji; Akihabara es electrónica y anime; Ginza son grandes almacenes y mostradores de sushi. Todo funciona puntualmente y los últimos trenes son hacia la medianoche. El efectivo todavía importa en los restaurantes pequeños, una tarjeta IC cubre cada tren y autobús, y las propinas no se dan en ningún lugar.\n\nEl precio incluye eleccion de kimono: seleccione su kimono favorito de nuestra, vestuario: un vestidor profesional le ayudara a ponerse y sesion de fotos: aproximadamente 15 minutos de fotografia en. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -77579,6 +78058,37 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de medio día en Tokyo, con Estatua de Hachiko, Shibuya Scramble Square y Center Gai. Operador: Trekker Tours Japan, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Paseo por Shibuya y Asakusa con gran tour gastronomico",
   "metaDescription": "Tour de medio día en Tokyo. Incluye: comida incluida en el tour. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "japanese-kendo-experience-with-high-ranked-instructor-in-tokyo": {
+  "title": "Experiencia de kendo japones con un instructor de alto rango en Tokio",
+  "fullDescription": "Esta es una experiencia de 3 horas en Tokyo. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTokio es la ciudad más grande del mundo por población metropolitana y se ve mejor como un conjunto de barrios en la línea circular Yamanote en lugar de un solo lugar. Asakusa tiene Senso-ji, el templo más antiguo de la ciudad, y el callejón comercial de Nakamise; Shibuya tiene el famoso cruce y Shinjuku los bares de Golden Gai y Omoide Yokocho; Harajuku es la calle Takeshita y el bosque del santuario Meiji; Akihabara es electrónica y anime; Ginza son grandes almacenes y mostradores de sushi. Todo funciona puntualmente y los últimos trenes son hacia la medianoche. El efectivo todavía importa en los restaurantes pequeños, una tarjeta IC cubre cada tren y autobús, y las propinas no se dan en ningún lugar.\n\nEl precio incluye 5 programas para experimentar el kendo, este es un programa para experimentar el espiritu del budo y, tema del programa de experiencia «Senshin»: purificar el corazon, representa tener un corazon limpio eliminando la suciedad y los malos y con un corazon limpio. No incluye transporte hasta el lugar de la actividad y gastos de bebidas y comidas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 horas",
+   "5 programas para experimentar el kendo",
+   "Este es un programa para experimentar el espiritu del budo y la cultura japonesa tradicional a traves del kendo",
+   "Tema del programa de experiencia «Senshin»: purificar el corazon",
+   "representa tener un corazon limpio eliminando la suciedad y los malos sentimientos de la mente",
+   "Con un corazon limpio, podemos tratar a los demas con humildad y serenidad"
+  ],
+  "included": [
+   "5 programas para experimentar el kendo.",
+   "Este es un programa para experimentar el espiritu del budo y la cultura japonesa tradicional a traves del kendo.",
+   "Experience Program Theme「洗心」ｰSENSHINｰcleanse one's heart.",
+   "representa tener un corazon limpio eliminando la suciedad y los malos sentimientos de la mente.",
+   "Con un corazon limpio, podemos tratar a los demas con humildad y serenidad.",
+   "1. «Escuchar»: ¿que es el kendo? La historia del kendo, la diferencia entre artes marciales y deporte, y mas, en un aula.",
+   "2. «Tocar»: podra tocar con sus propias manos los pensamientos y las verdaderas intenciones detras del equipo de kendo.",
+   "3. «Hacer»: sudara y trabajara duro en la practica del kendo bajo la guia de un instructor de alto rango.",
+   "4. «Mirar»: tendra la oportunidad de practicar y competir con jugadores de alto rango. ¡Es muy impresionante verlo con sus propios ojos!",
+   "5. «Comunicacion»: ofrecemos un lugar para tomar fotos de recuerdo, conversar con una taza de te y profundizar el intercambio mutuo y conocer gente nueva."
+  ],
+  "notIncluded": [
+   "Transporte hasta el lugar de la actividad",
+   "gastos de bebidas y comidas"
+  ],
+  "shortDescription": "Tour de 3 horas en Tokyo, que incluye 5 programas para experimentar el kendo, este es un programa para experimentar el espiritu del budo y y tema del programa de experiencia «Senshin»: purificar el corazon. Operador: KenDo!Spirit, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Experiencia de kendo japones con un instructor de alto rango en Tokio",
+  "metaDescription": "Tour de 3 horas en Tokyo. Incluye: 5 programas para experimentar el kendo. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "tokyo-and-daikoku-by-night-in-a-fast-and-furious-skyline-34-by-local-operator": {
   "title": "Tokio y Daikoku de noche en un Skyline 34 digno de Fast and Furious, por un operador local",
@@ -80175,6 +80685,34 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Taller de caligrafía japonesa en Asakusa",
   "metaDescription": "Tour en Tokyo. Incluye: taller de caligrafía japonesa y instructor. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "initial-d-ikaho-onsen-and-haruna-lake-day-trip-in-tokyo": {
+  "title": "Initial D, onsen de Ikaho y lago Haruna, excursion de un dia desde Tokio",
+  "fullDescription": "Esta es una experiencia de 10 horas desde Tokyo, centrada en Onsen de Ikaho, Monte Haruna y Paso de Yaseone. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTokio es la ciudad más grande del mundo por población metropolitana y se ve mejor como un conjunto de barrios en la línea circular Yamanote en lugar de un solo lugar. Asakusa tiene Senso-ji, el templo más antiguo de la ciudad, y el callejón comercial de Nakamise; Shibuya tiene el famoso cruce y Shinjuku los bares de Golden Gai y Omoide Yokocho; Harajuku es la calle Takeshita y el bosque del santuario Meiji; Akihabara es electrónica y anime; Ginza son grandes almacenes y mostradores de sushi. Todo funciona puntualmente y los últimos trenes son hacia la medianoche. El efectivo todavía importa en los restaurantes pequeños, una tarjeta IC cubre cada tren y autobús, y las propinas no se dan en ningún lugar.\n\nEl precio incluye 1. tarifas de servicio del vehiculo segun lo listado en el itinerario, 2. combustible del vehiculo, 3. tiempo de servicio del vehiculo: dentro de 10 horas, 4. Tarifa de servicio del conductor y 5. Modelos de vehiculo de referencia: Alphard de 7 plazas o de 10 plazas. No incluye 1. entradas al museo de juguetes, munecas y autos de Ikaho, 2. comidas no mencionadas, 3. tarifas de seguro y 4. Cualquier elemento no mencionado en la seccion «Incluye» anterior, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nTokyo. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Onsen de Ikaho",
+   "Monte Haruna",
+   "Paso de Yaseone",
+   "Lago Haruna",
+   "Duración: 10 horas",
+   "1. tarifas de servicio del vehiculo segun lo listado en el itinerario"
+  ],
+  "included": [
+   "1. tarifas de servicio del vehiculo segun lo listado en el itinerario",
+   "2. Combustible del vehiculo, peaje y tarifas de autopista",
+   "3. Tiempo de servicio del vehiculo: dentro de 10 horas (segun la ley japonesa)",
+   "4. Tarifa de servicio del conductor (no acompana dentro de las atracciones); para grupos de 4-9 personas, la disposicion real depende del numero de participantes el dia)",
+   "5. Modelos de vehiculo de referencia: Alphard de 7 plazas o HiAce de 10 plazas (solo de referencia; el vehiculo real se organizara segun el tamano del grupo)"
+  ],
+  "notIncluded": [
+   "1. entradas al museo de juguetes, munecas y autos de Ikaho",
+   "2. Comidas no mencionadas, actividades locales opcionales y otros gastos personales",
+   "3. tarifas de seguro",
+   "4. Cualquier elemento no mencionado en la seccion «Incluye» anterior"
+  ],
+  "shortDescription": "Tour de día completo en Tokyo, con Ikaho Toy, Doll and Car Museum, Onsen de Ikaho y Monte Haruna. Operador: Pegasus観光株式会社, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Initial D, onsen de Ikaho y lago Haruna, excursion de un dia desde Tokio",
+  "metaDescription": "Tour de día completo en Tokyo. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "private-family-photo-and-video-experience-in-tokyo": {
   "title": "Experiencia privada de foto y video familiar en Tokio",
   "fullDescription": "Esta es una experiencia de 1,5 horas en Tokyo. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTokio es la ciudad más grande del mundo por población metropolitana y se ve mejor como un conjunto de barrios en la línea circular Yamanote en lugar de un solo lugar. Asakusa tiene Senso-ji, el templo más antiguo de la ciudad, y el callejón comercial de Nakamise; Shibuya tiene el famoso cruce y Shinjuku los bares de Golden Gai y Omoide Yokocho; Harajuku es la calle Takeshita y el bosque del santuario Meiji; Akihabara es electrónica y anime; Ginza son grandes almacenes y mostradores de sushi. Todo funciona puntualmente y los últimos trenes son hacia la medianoche. El efectivo todavía importa en los restaurantes pequeños, una tarjeta IC cubre cada tren y autobús, y las propinas no se dan en ningún lugar.\n\nEl precio incluye momentos familiares naturales y expresiones espontáneas, las voces y conversaciones reales de su familia y una película original creada especialmente para su familia. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -81248,6 +81786,34 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 1 hora en Tokyo, con Tokio. Operador: 戦国フォトスタジオ SAMURAI, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Experiencia de vestir armadura samurai en Tokio",
   "metaDescription": "Tour de 1 hora en Tokyo. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "imperial-palace-a-walk-through-japanese-history-in-tokyo": {
+  "title": "Palacio imperial, un paseo por la historia japonesa en Tokio",
+  "fullDescription": "Esta es una experiencia de 2 horas desde Tokyo, centrada en Foso de Wadakura, Puerta Ote-mon y Restos de la puerta Ote-San'no. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTokio es la ciudad más grande del mundo por población metropolitana y se ve mejor como un conjunto de barrios en la línea circular Yamanote en lugar de un solo lugar. Asakusa tiene Senso-ji, el templo más antiguo de la ciudad, y el callejón comercial de Nakamise; Shibuya tiene el famoso cruce y Shinjuku los bares de Golden Gai y Omoide Yokocho; Harajuku es la calle Takeshita y el bosque del santuario Meiji; Akihabara es electrónica y anime; Ginza son grandes almacenes y mostradores de sushi. Todo funciona puntualmente y los últimos trenes son hacia la medianoche. El efectivo todavía importa en los restaurantes pequeños, una tarjeta IC cubre cada tren y autobús, y las propinas no se dan en ningún lugar.\n\nEl precio incluye tour guiado a pie por el recinto del palacio imperial con un, grupo pequeno para una experiencia mas exclusiva, visita a la puerta Otemon, historias de su guia sobre la historia de Edo y conocemos los mejores lugares para fotos. No incluye recogida y regreso al hotel, transporte desde y hacia el punto de encuentro y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nParque de fuentes Wadakura, 3-1 Kokyogaien, Chiyoda-ku, Tokio 100-0002, Japon. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Foso de Wadakura",
+   "Puerta Ote-mon",
+   "Restos de la puerta Ote-San'no",
+   "Garita Hyakunin Bansho",
+   "Duración: 2 horas",
+   "Tour guiado a pie por los terrenos del palacio imperial con un guia local amable"
+  ],
+  "included": [
+   "Tour guiado a pie por los terrenos del palacio imperial con un guia local amable",
+   "Grupo pequeno para una experiencia mas exclusiva (maximo 10 invitados por guia)",
+   "Visita a la puerta Otemon, los restos de la garita y el jardin Ninomaru",
+   "Historias de su guia sobre la historia de Edo, la era samurai y el Tokio moderno",
+   "Conocemos los mejores lugares para fotos (solo pregunte a su guia)",
+   "Sin codigo de vestimenta, tatuajes bienvenidos"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "transporte desde y hacia el punto de encuentro",
+   "Propinas (opcionales, a su discrecion)"
+  ],
+  "shortDescription": "Tour de 2 horas en Tokyo, con Foso de Wadakura, Puerta Ote-mon y Restos de la puerta Ote-San'no. Operador: Sunrise Adventure, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Palacio imperial, un paseo por la historia japonesa en Tokio",
+  "metaDescription": "Tour de 2 horas en Tokyo. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "small-group-imperial-palace-historical-walking-tour-in-tokyo": {
   "title": "Tour historico a pie en grupo pequeno del palacio imperial en Tokio",
@@ -83071,6 +83637,44 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Tour de observación del entrenamiento matutino de sumo en un establo real en Tokio",
   "metaDescription": "Tour de 2 horas en Tokyo. Incluye: guia. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "learnt-to-cook-bento-oyakodon-and-more-in-tokyo": {
+  "title": "Aprenda a cocinar bento, oyakodon y mas en Tokio",
+  "fullDescription": "Esta es una experiencia de 2 horas en Tokyo. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTokio es la ciudad más grande del mundo por población metropolitana y se ve mejor como un conjunto de barrios en la línea circular Yamanote en lugar de un solo lugar. Asakusa tiene Senso-ji, el templo más antiguo de la ciudad, y el callejón comercial de Nakamise; Shibuya tiene el famoso cruce y Shinjuku los bares de Golden Gai y Omoide Yokocho; Harajuku es la calle Takeshita y el bosque del santuario Meiji; Akihabara es electrónica y anime; Ginza son grandes almacenes y mostradores de sushi. Todo funciona puntualmente y los últimos trenes son hacia la medianoche. El efectivo todavía importa en los restaurantes pequeños, una tarjeta IC cubre cada tren y autobús, y las propinas no se dan en ningún lugar.\n\nEl precio incluye clase práctica de cocina, informacion sobre la cultura y costumbres japonesas, atencion personalizada de un instructor experimentado, recetas detalladas para llevar a casa y todos los ingredientes y equipo de cocina. No incluye transporte, comidas, comidas o aperitivos adicionales ademas de lo preparado y equipo de cocina, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "Clase práctica de cocina",
+   "informacion sobre la cultura y costumbres japonesas",
+   "Atencion personalizada de un instructor experimentado",
+   "Recetas detalladas para llevar a casa",
+   "todos los ingredientes y equipo de cocina"
+  ],
+  "included": [
+   "Clase práctica de cocina",
+   "informacion sobre la cultura y costumbres japonesas",
+   "Atencion personalizada de un instructor experimentado",
+   "Recetas detalladas para llevar a casa",
+   "todos los ingredientes y equipo de cocina",
+   "Recuerdo japones (el contenido de los recuerdos es una sorpresa, ¡manténgase atento!)",
+   "Alquiler de delantal y toalla"
+  ],
+  "notIncluded": [
+   "Transporte",
+   "Comidas",
+   "Comidas o snacks adicionales fuera de lo que se prepara durante la clase.",
+   "Equipo de cocina",
+   "No se proporcionan herramientas o equipo de cocina personal para uso domestico.",
+   "Servicios de traduccion",
+   "Cualquier servicio de traduccion distinto del idioma de la clase (ingles o japones) no esta incluido.",
+   "Seguro",
+   "El seguro personal o de viaje no esta cubierto por la clase.",
+   "Ingredientes adicionales",
+   "No se proporcionan ingredientes para cocinar fuera de la clase o para uso personal.",
+   "OPCION*"
+  ],
+  "shortDescription": "Tour de 2 horas en Tokyo, que incluye clase práctica de cocina, informacion sobre la cultura y costumbres japonesas y atencion personalizada de un instructor experimentado. Operador: Alleyway Gourmet Lab, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Aprenda a cocinar bento, oyakodon y mas en Tokio",
+  "metaDescription": "Tour de 2 horas en Tokyo. Incluye: clase práctica de cocina. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "shibuya-sumo-show-with-experience-and-photo": {
   "title": "Espectaculo de sumo en Shibuya con experiencia y foto",
   "fullDescription": "Esta es una experiencia de 75 minutos en Tokyo. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTokio es la ciudad más grande del mundo por población metropolitana y se ve mejor como un conjunto de barrios en la línea circular Yamanote en lugar de un solo lugar. Asakusa tiene Senso-ji, el templo más antiguo de la ciudad, y el callejón comercial de Nakamise; Shibuya tiene el famoso cruce y Shinjuku los bares de Golden Gai y Omoide Yokocho; Harajuku es la calle Takeshita y el bosque del santuario Meiji; Akihabara es electrónica y anime; Ginza son grandes almacenes y mostradores de sushi. Todo funciona puntualmente y los últimos trenes son hacia la medianoche. El efectivo todavía importa en los restaurantes pequeños, una tarjeta IC cubre cada tren y autobús, y las propinas no se dan en ningún lugar.\n\nEl precio incluye espectaculo de sumo y demostraciones en vivo, bebida de bienvenida, oportunidad de desafiar a un luchador de sumo y oportunidades fotograficas con luchadores. No incluye recogida y regreso al hotel y aperitivos y bebidas adicionales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -83163,6 +83767,67 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour en Tokyo, con Mercado de Toyosu, Mercado exterior de Tsukiji y Finish at. Operador: Clover Travel Co., Ltd., con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Tour de los mercados de Toyosu y Tsukiji con lonja de atun",
   "metaDescription": "Tour en Tokyo. Incluye: visita a pie. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "tokyo-yakatabune-cruise-sukiyaki-show-and-tokyo-tower-option-by-local-operator": {
+  "title": "Tokio, crucero yakatabune: sukiyaki, espectaculo y opcion de torre de Tokio, por un operador local",
+  "fullDescription": "Esta es una experiencia de 1,5 horas desde Tokyo, centrada en Puente Eitai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTokio es la ciudad más grande del mundo por población metropolitana y se ve mejor como un conjunto de barrios en la línea circular Yamanote en lugar de un solo lugar. Asakusa tiene Senso-ji, el templo más antiguo de la ciudad, y el callejón comercial de Nakamise; Shibuya tiene el famoso cruce y Shinjuku los bares de Golden Gai y Omoide Yokocho; Harajuku es la calle Takeshita y el bosque del santuario Meiji; Akihabara es electrónica y anime; Ginza son grandes almacenes y mostradores de sushi. Todo funciona puntualmente y los últimos trenes son hacia la medianoche. El efectivo todavía importa en los restaurantes pequeños, una tarjeta IC cubre cada tren y autobús, y las propinas no se dan en ningún lugar.\n\nEl precio incluye experiencia de crucero en la bahia de Tokio, ceremonia del te y postre, comida de sukiyaki japones, entrada al mirador de 150 m de la torre de Tokio y refrescos ilimitados. No incluye transporte entre la Torre de Tokio y el muelle/bahia, recogida y regreso al hotel, entrada a la torre de Tokio de 250 m y bebidas alcoholicas adicionales: cerveza Asahi, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEtchūjima Pier. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Puente Eitai",
+   "Duración: 1,5 horas",
+   "experiencia de crucero en la bahia de Tokio",
+   "Ceremonia del te y postre (si se selecciona la opcion)",
+   "Comida de sukiyaki japones (si se selecciona la opcion)",
+   "Entrada al mirador de 150 m de la torre de Tokio (si se selecciona la opcion)"
+  ],
+  "included": [
+   "experiencia de crucero en la bahia de Tokio",
+   "Ceremonia del te y postre (si se selecciona la opcion)",
+   "Comida de sukiyaki japones (si se selecciona la opcion)",
+   "Entrada al mirador de 150 m de la torre de Tokio (si se selecciona la opcion)",
+   "Refrescos ilimitados",
+   "Espectaculo en vivo de shamisen",
+   "Anfitrion multilingue (japones/ingles/chino)",
+   "El barco se detendra en Odaiba, donde tendra la oportunidad de subir a la cubierta superior para fotos y momentos memorables **",
+   "El espectaculo de fuentes Tokyo Aqua Symphony, cada funcion dura aproximadamente 10 minutos **"
+  ],
+  "notIncluded": [
+   "transporte entre la Torre de Tokio y el muelle/bahia",
+   "Recogida y regreso al hotel",
+   "Entrada a la torre de Tokio de 250 m",
+   "Bebidas alcoholicas adicionales: cerveza Asahi, sake, Suntory, etc., 500 yenes cada una, solo efectivo",
+   "Seguro de rescate internacional"
+  ],
+  "shortDescription": "Tour en Tokyo, con Puente Rainbow, Tokio y Puente Eitai. Operador: Orange Tour Co., Ltd, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tokio, crucero yakatabune: sukiyaki, espectaculo y opcion de torre de Tokio, por un operador local",
+  "metaDescription": "Tour en Tokyo. Incluye: experiencia de crucero en la bahia de Tokio. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "customized-private-guided-tour-in-french-in-tokyo": {
+  "title": "Tour guiado privado personalizado en frances en Tokio",
+  "fullDescription": "Esta es una experiencia de 4 horas en Tokyo, centrada en Los 23 distritos de Tokio. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTokio es la ciudad más grande del mundo por población metropolitana y se ve mejor como un conjunto de barrios en la línea circular Yamanote en lugar de un solo lugar. Asakusa tiene Senso-ji, el templo más antiguo de la ciudad, y el callejón comercial de Nakamise; Shibuya tiene el famoso cruce y Shinjuku los bares de Golden Gai y Omoide Yokocho; Harajuku es la calle Takeshita y el bosque del santuario Meiji; Akihabara es electrónica y anime; Ginza son grandes almacenes y mostradores de sushi. Todo funciona puntualmente y los últimos trenes son hacia la medianoche. El efectivo todavía importa en los restaurantes pequeños, una tarjeta IC cubre cada tren y autobús, y las propinas no se dan en ningún lugar.\n\nEl precio incluye acompanamiento privado y personalizado por un hablante de frances, los costos de transporte publico del guia para todo el dia, los gastos de comida del guia para el almuerzo, en tiempo real y propinas. No incluye billetes de transporte publico para viajeros, comidas personales de los viajeros, entradas si decide visitar un monumento y compras personales y recuerdos del dia, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nTokyo. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Los 23 distritos de Tokio",
+   "Duración: 4 horas",
+   "Acompanamiento privado y personalizado por un guia en vivo de habla francesa durante el tour",
+   "Los costos de transporte publico del guia para todo el dia",
+   "Los gastos de comida del guia para el almuerzo",
+   "Ajuste en tiempo real y a medida de la ruta segun sus preferencias"
+  ],
+  "included": [
+   "Acompanamiento privado y personalizado por un guia en vivo de habla francesa durante el tour",
+   "Los costos de transporte publico del guia para todo el dia",
+   "Los gastos de comida del guia para el almuerzo",
+   "Ajuste en tiempo real y a medida de la ruta segun sus preferencias",
+   "Consejos, recomendaciones y trucos para el resto de su estancia en Japon"
+  ],
+  "notIncluded": [
+   "Billetes de transporte publico para viajeros (recarga opcional de su tarjeta Suica o Pasmo para sus viajes)",
+   "Comidas, bebidas y snacks personales de los viajeros",
+   "Entradas si decide visitar un monumento, museo o jardin de pago",
+   "Compras personales y recuerdos del dia"
+  ],
+  "shortDescription": "Tour de medio día en Tokyo, con Los 23 distritos de Tokio. Operador: Tanuki Road, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour guiado privado personalizado en frances en Tokio",
+  "metaDescription": "Tour de medio día en Tokyo. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "asakusa-skytree-and-akhihabara-go-kart-city-experience": {
   "title": "Asakusa, Skytree y Akihabara, experiencia de karting por la ciudad",
@@ -83413,6 +84078,36 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Tour a pie de Asakusa y el templo mas antiguo Senso-ji (2 horas)",
   "metaDescription": "Tour de 2 horas en Tokyo. Incluye: guía de habla inglesa. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "kintsugi-jewelry-with-traditional-pottery-and-sea-glass-in-tokyo": {
+  "title": "Joyeria kintsugi con ceramica tradicional y vidrio de mar en Tokio",
+  "fullDescription": "Esta es una experiencia de 1,5 horas en Tokyo. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTokio es la ciudad más grande del mundo por población metropolitana y se ve mejor como un conjunto de barrios en la línea circular Yamanote en lugar de un solo lugar. Asakusa tiene Senso-ji, el templo más antiguo de la ciudad, y el callejón comercial de Nakamise; Shibuya tiene el famoso cruce y Shinjuku los bares de Golden Gai y Omoide Yokocho; Harajuku es la calle Takeshita y el bosque del santuario Meiji; Akihabara es electrónica y anime; Ginza son grandes almacenes y mostradores de sushi. Todo funciona puntualmente y los últimos trenes son hacia la medianoche. El efectivo todavía importa en los restaurantes pequeños, una tarjeta IC cubre cada tren y autobús, y las propinas no se dan en ningún lugar.\n\nEl precio incluye todos los materiales basicos de kintsugi, laca urushi, uso de todas las herramientas necesarias, pinceles y orientación de un instructor. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1,5 horas",
+   "todos los materiales basicos de kintsugi",
+   "Laca urushi, polvo de oro (o polvo de laton), adhesivos y materiales base",
+   "Uso de todas las herramientas necesarias",
+   "Pinceles, espatulas, papel de lija, pinzas, tapetes de trabajo, guantes de proteccion",
+   "Orientación de un instructor"
+  ],
+  "included": [
+   "todos los materiales basicos de kintsugi",
+   "Laca urushi, polvo de oro (o polvo de laton), adhesivos y materiales base.",
+   "Uso de todas las herramientas necesarias",
+   "Brushes, spatulas, sandpaper, tweezers, work mats, protective gloves.",
+   "Orientación de un instructor",
+   "Introduccion a la historia del kintsugi, demostracion de la tecnica y apoyo practico.",
+   "Plato base o piezas de joyeria",
+   "Plato pequeno, mini plato o componentes de accesorios como bases de colgante o pendientes.",
+   "Pieza terminada para llevar",
+   "Alquiler de delantal y equipo de proteccion",
+   "Entorno propicio para fotos",
+   "Los invitados pueden tomar fotos; la asistencia del instructor esta disponible a peticion."
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour de 1,5 horas en Tokyo, que incluye todos los materiales basicos de kintsugi, laca urushi y uso de todas las herramientas necesarias. Operador: Local Earth, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Joyeria kintsugi con ceramica tradicional y vidrio de mar en Tokio",
+  "metaDescription": "Tour de 1,5 horas en Tokyo. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "tokyo-drift-jdm-daikoku-car-meet-tour-gt-r-silvia-and-chaser-by-local-operator": {
   "title": "Tokyo Drift, tour de encuentro de coches JDM en Daikoku: GT-R, Silvia y Chaser, por un operador local",
   "fullDescription": "Esta es una experiencia de 2,5 horas desde Tokyo, centrada en Área de estacionamiento Daikoku. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTokio es la ciudad más grande del mundo por población metropolitana y se ve mejor como un conjunto de barrios en la línea circular Yamanote en lugar de un solo lugar. Asakusa tiene Senso-ji, el templo más antiguo de la ciudad, y el callejón comercial de Nakamise; Shibuya tiene el famoso cruce y Shinjuku los bares de Golden Gai y Omoide Yokocho; Harajuku es la calle Takeshita y el bosque del santuario Meiji; Akihabara es electrónica y anime; Ginza son grandes almacenes y mostradores de sushi. Todo funciona puntualmente y los últimos trenes son hacia la medianoche. El efectivo todavía importa en los restaurantes pequeños, una tarjeta IC cubre cada tren y autobús, y las propinas no se dan en ningún lugar.\n\nEl precio incluye paseo en un auto deportivo japones conducido por un entusiasta JDM local, visita al area de estacionamiento Daikoku, experiencia de conduccion nocturna en autopista en Tokio y oportunidad de ver y fotografiar coches JDM y un encuentro de coches. No incluye comida y bebidas, opcion de mejora GT-R y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -83495,6 +84190,33 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 0,5 horas en Tokyo, que incluye tarifas de paquete. Operador: tourcandy ltd., con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Masaje japonés en el salón de belleza y cuidado corporal Kangfu en Tokio",
   "metaDescription": "Tour de 0,5 horas en Tokyo. Incluye: tarifas de paquete. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "studio-ghibli-origins-walking-tour-in-tokyo": {
+  "title": "Tour a pie de los origenes de Studio Ghibli en Tokio",
+  "fullDescription": "Esta es una experiencia de 3 horas desde Tokyo, centrada en Parada secreta, Fabrica de petisus de Shirohige - Kichijoji y Museo Ghibli. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTokio es la ciudad más grande del mundo por población metropolitana y se ve mejor como un conjunto de barrios en la línea circular Yamanote en lugar de un solo lugar. Asakusa tiene Senso-ji, el templo más antiguo de la ciudad, y el callejón comercial de Nakamise; Shibuya tiene el famoso cruce y Shinjuku los bares de Golden Gai y Omoide Yokocho; Harajuku es la calle Takeshita y el bosque del santuario Meiji; Akihabara es electrónica y anime; Ginza son grandes almacenes y mostradores de sushi. Todo funciona puntualmente y los últimos trenes son hacia la medianoche. El efectivo todavía importa en los restaurantes pequeños, una tarjeta IC cubre cada tren y autobús, y las propinas no se dan en ningún lugar.\n\nEl precio incluye guia experto con historias relacionadas con Ghibli e informacion local, un dulce en la pasteleria, visitas a lugares relacionados con Studio Ghibli y su y visitas a lugares que inspiraron algunas peliculas de Studio Ghibli. No incluye este tour no incluye la entrada al museo Ghibli, este tour no incluye servicios de gestion de entradas, recuerdos de la tienda de dulces y el cafe y costos de transporte en tren, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Parada secreta",
+   "Fabrica de petisus de Shirohige - Kichijoji",
+   "Museo Ghibli",
+   "Tren",
+   "Duración: 3 horas",
+   "guia experto con historias relacionadas con Ghibli e informacion local"
+  ],
+  "included": [
+   "guia experto con historias relacionadas con Ghibli e informacion local",
+   "Un dulce en la pasteleria",
+   "Visitas a lugares relacionados con Studio Ghibli y su historia",
+   "Visitas a lugares que inspiraron algunas de las peliculas mas queridas de Studio Ghibli"
+  ],
+  "notIncluded": [
+   "este tour no incluye la entrada al museo Ghibli",
+   "Este tour no incluye servicios de gestion de entradas.",
+   "Recuerdos de la tienda de dulces y el cafe",
+   "Costos de transporte en tren (aproximadamente 400 yenes ida y vuelta)"
+  ],
+  "shortDescription": "Tour de 3 horas en Tokyo, con On foot, Parada secreta y Museo Ghibli. Operador: Loved in Japan, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour a pie de los origenes de Studio Ghibli en Tokio",
+  "metaDescription": "Tour de 3 horas en Tokyo. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "owl-cafe-tokyo-akiba-fukurou-by-local-operator": {
   "title": "Café de búhos Tokio Akiba Fukurou",
@@ -83672,6 +84394,34 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 2 horas en Tokyo, con Cruce de Shibuya, Center Gai y Shibuya Sky. Operador: Alva Japan Tours🇯🇵, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Shibuya al anochecer: calles de neon y vista del horizonte",
   "metaDescription": "Tour de 2 horas en Tokyo. Incluye: guía de habla inglesa. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "tokyo-akihabara-anime-manga-video-games-and-maid-cafe-tour-by-local-operator": {
+  "title": "Tokio Akihabara: anime, manga, videojuegos y tour de cafe de maids, por un operador local",
+  "fullDescription": "Esta es una experiencia de 2 horas en Tokyo, centrada en Akihabara Radio Kaikan, TAMASHII NATIONS STORE TOKYO y Super Potato Akihabara. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTokio es la ciudad más grande del mundo por población metropolitana y se ve mejor como un conjunto de barrios en la línea circular Yamanote en lugar de un solo lugar. Asakusa tiene Senso-ji, el templo más antiguo de la ciudad, y el callejón comercial de Nakamise; Shibuya tiene el famoso cruce y Shinjuku los bares de Golden Gai y Omoide Yokocho; Harajuku es la calle Takeshita y el bosque del santuario Meiji; Akihabara es electrónica y anime; Ginza son grandes almacenes y mostradores de sushi. Todo funciona puntualmente y los últimos trenes son hacia la medianoche. El efectivo todavía importa en los restaurantes pequeños, una tarjeta IC cubre cada tren y autobús, y las propinas no se dan en ningún lugar.\n\nEl precio incluye guia, entrada de 1 hora a la cafeteria de maid, 1 bebida y 1 foto en el cafe de maids, visita a pie y entrada de 2 horas al cafe de maids. No incluye bebidas y comida adicionales y compras de mercancia, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nTravel Service Center. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Akihabara Radio Kaikan",
+   "TAMASHII NATIONS STORE TOKYO",
+   "Super Potato Akihabara",
+   "Duración: 2 horas",
+   "Guía de habla inglesa",
+   "Entrada de 1 hora al cafe de maids (no incluido en el tour de tesoros escondidos)"
+  ],
+  "included": [
+   "Guía de habla inglesa",
+   "Entrada de 1 hora al cafe de maids (no incluido en el tour de tesoros escondidos)",
+   "1 bebida y 1 foto en el cafe de maids (no incluido en el tour de tesoros escondidos)",
+   "Visita a pie",
+   "Entrada de 2 horas al cafe de maids (solo para el tour todo incluido del cafe de maids)",
+   "1 postre (solo para el tour todo incluido del cafe de maids)",
+   "1 espectaculo de baile con musica en vivo (solo para el tour todo incluido del cafe de maids)"
+  ],
+  "notIncluded": [
+   "Bebidas y comida adicionales (disponibles para comprar)",
+   "compras de mercancia"
+  ],
+  "shortDescription": "Tour de 2 horas en Tokyo, con Akihabara Radio Kaikan, Tamashii Nations Store Tokyo y Super Potato Akihabara. Operador: Fantasy Travel Japan LLC, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tokio Akihabara: anime, manga, videojuegos y tour de cafe de maids, por un operador local",
+  "metaDescription": "Tour de 2 horas en Tokyo. Incluye: guia. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "daikoku-fast-and-furious-tokyo-drift-brian-r34-1000hp-supra-mk4-by-local-operator": {
   "title": "Daikoku Fast and Furious, Tokyo Drift: Brian R34 y Supra MK4 de 1000 CV, por un operador local",
@@ -84140,6 +84890,34 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour en Mount Fuji, con Ayuntamiento de Fujikawaguchiko Lawson, Parque Arakurayama Sengen y Calle Shimoyoshida Honcho. Operador: TOURSTORY Japan, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Tour distintivo del monte Fuji: 6 lugares pintorescos",
   "metaDescription": "Tour en Mount Fuji. Incluye: transporte y guía de habla inglesa y coreana. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "mt-fuji-top-5-spots-day-tour-arakurayama-park-oshino-hakkai-mount-fuji": {
+  "title": "Monte Fuji, tour de un dia de los 5 mejores lugares: parque Arakurayama, Oshino Hakkai (Monte Fuji)",
+  "fullDescription": "Esta es una experiencia de 10 horas desde Mount Fuji, centrada en Parque Arakurayama Sengen, Santuario Arakura Fuji Sengen y Pagoda Chureito. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl monte Fuji tiene 3.776 metros, el pico más alto de Japón y un volcán activo cuya última erupción fue en 1707. Las excursiones de un día desde Tokio van a los cinco lagos Fuji en su lado norte, a unas dos horas, el lago Kawaguchiko para la vista de reflejo clásica, los estanques alimentados por manantiales de Oshino Hakkai, la pagoda Chureito sobre Fujiyoshida con la montaña detrás, y a menudo la línea Fuji Subaru hasta la quinta estación a 2.300 metros cuando la carretera está abierta, aproximadamente de abril a noviembre. La cumbre solo se puede escalar en julio y agosto. El Fuji es visible aproximadamente un tercio de los días y con más frecuencia en las mañanas de invierno; de junio a septiembre está oculto entre nubes más a menudo que no, y ningún operador puede garantizar la vista, por lo que los lagos y la pagoda están planeados para valer el día por sí mismos.\n\nEl precio incluye vehiculo turistico con aire acondicionado, conductor y guia multilingue, recogida y regreso en 2 puntos de encuentro designados, peajes de autopista y tarifas de horas extra para el conductor y el guia. No incluye todos los gastos personales, comida y cada persona puede traer una pieza de equipaje. Si tiene, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Mount Fuji. Tour Easy confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Parque Arakurayama Sengen",
+   "Santuario Arakura Fuji Sengen",
+   "Pagoda Chureito",
+   "Relojería Hikawa",
+   "Duración: 10 horas",
+   "vehiculo turistico con aire acondicionado"
+  ],
+  "included": [
+   "Air-conditioned tourist vehicle.",
+   "Conductor profesional y guia multilingue.",
+   "Recogida y regreso en 2 puntos de encuentro designados.",
+   "Peajes de autopista, tarifas de estacionamiento y costos de combustible.",
+   "Tarifas de horas extra para el conductor y el guia (si corresponde).",
+   "Todas las paradas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Todos los gastos personales",
+   "Almuerzo (puede traer su propia comida, comer durante el tour o cenar en un restaurante recomendado por el guia)",
+   "Cada persona puede traer una pieza de equipaje. Si tiene mas, informenos con antelacion."
+  ],
+  "shortDescription": "Tour de día completo en Mount Fuji, con Parque Arakurayama Sengen, Santuario Arakura Fuji Sengen y Pagoda Chureito. Operador: Tour Easy, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Monte Fuji, tour de un dia de los 5 mejores lugares: parque Arakurayama, Oshino Hakkai (Monte Fuji)",
+  "metaDescription": "Tour de día completo en Mount Fuji. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "mt-fuji-5th-station-hot-spring-and-oshino-hakkai-day-tour-mount-fuji": {
   "title": "5a estacion del monte Fuji, aguas termales y Oshino Hakkai, tour de un dia (Monte Fuji)",
