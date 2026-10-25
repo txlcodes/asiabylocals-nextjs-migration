@@ -58005,6 +58005,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten, Getraenke und persoenliche Gegenstaende, Zugfahrkarten zwischen Osaka und Ikoma (ca. 4 USD pro Richtung), Ikoma-Seilbahngebuehr (ca. 2 USD pro Richtung)"
   ]
  },
+ "imperial-palace-bike-tour": {
+  "title": "Zentral-Tokio mit dem E-Bike: Drei Stunden durch die Sehenswuerdigkeiten",
+  "metaTitle": "Zentral-Tokio mit dem E-Bike",
+  "metaDescription": "Tokio ist flach, ruhig auf den Nebenstrassen und wie geschaffen fuer das Radfahren. Drei Stunden decken ab, wofuer eine Fusstour zwei Tage braucht.",
+  "shortDescription": "Tokio ist flach, ruhig auf den Nebenstrassen und wie geschaffen fuer das Radfahren. Drei Stunden decken ab, wofuer eine Fusstour zwei Tage braucht.",
+  "fullDescription": "Tokio ueberrascht Menschen als Fahrradstadt. Es ist flach, die Seitenstrassen haben fast keinen Verkehr, und Radfahren ist hier so normal, dass niemand zweimal hinschaut, Sie decken das Vierfache bis Fuenffache der Strecke ab, die eine Fusstour bewaeltigt, und koennen trotzdem anhalten, wo Sie wollen.\n\nDrei Stunden erfassen das Zentrum richtig. Die Anlage des Kaiserpalastes liegt auf dem Gelaende des Edo-Schlosses, Sitz der Tokugawa-Shogune ueber zweieinhalb Jahrhunderte, bevor der Kaiser 1868 von Kyoto einzog, und die Grabenrunde um sie ist eine der angenehmsten Fahrten der Stadt, mit den originalen Steinbollwerken und Toren auf einer Seite. Ginzas Gitter bietet die Flagship-Stores und den Wako-Uhrturm aus den 1930er Jahren. Nihonbashi ist der Ort, von dem aus jede Strasse Japans noch offiziell gemessen wird, es gibt eine Markierung in die Bruecke eingelassen, und Tsukijis Aussenmarkt verkaufte weiter Fisch, Messer und Tamagoyaki, lange nachdem die Grossauktion 2018 nach Toyosu umgezogen war.\n\nE-Bikes sind verfuegbar und lohnen sich, wenn Sie kein regelmaessiger Radfahrer sind; die Unterstuetzung nimmt jede Anstrengung aus den wenigen Steigungen und der Gesamtstrecke. Standard-Fahrraeder stehen bereit, wenn Sie lieber selbst treten.\n\nIhr Guide uebernimmt die Route, den Verkehr und wo die Raeder an jedem Stopp abzustellen sind, was der Teil ist, der Radfahren in Tokio ohne Begleitung stressiger macht, als es sein muesste.\n\nEin Start am Morgen ist die richtige Wahl, und nicht nur wegen des Lichts: Tokio ist von Juni bis September heiss und feucht, und Tsukijis Staende sind morgens am lebhaftesten. Sie muessen bereits radfahren koennen, hier ist nicht der Ort, es zu lernen, und die Tour laeuft bei leichtem Regen, wird aber bei schwerem Wetter vollstaendig erstattet.",
+  "highlights": [],
+  "included": [
+   "Fahrrad- oder E-Bike-Verleih fuer die gesamte Tour, englischsprachiger lokaler Guide, Helm, Fahrradversicherung, Flaschenwasser, Fotostopps unterwegs"
+  ],
+  "notIncluded": [
+   "Hoteltransfers, Essen und Getraenke ueber das bereitgestellte Wasser hinaus, Eintrittsgebuehren fuer optionale Innenraeume, Trinkgelder"
+  ]
+ },
+ "inuyama-castle-full-day-tour": {
+  "title": "Inuyama-Schloss und Nakasendo-Poststaedte: Tagesausflug ab Nagoya",
+  "metaTitle": "Inuyama-Schloss und Nakasendo ab Nagoya",
+  "metaDescription": "Tagesausflug ab Nagoya zum originalen Holzturm des Inuyama-Schlosses und den historischen Nakasendo-Poststaedten.",
+  "shortDescription": "Tagesausflug ab Nagoya zum originalen Holzturm des Inuyama-Schlosses und den historischen Nakasendo-Poststaedten Tsumago-juku und Magome-juku.",
+  "fullDescription": "Diese Ganztagestour verlaesst das Zentrum Nagoyas zum Inuyama-Schloss, etwa eine Stunde entfernt mit dem Bus, eines von nur zwoelf Schloessern Japans, das noch seinen originalen Holzturm aus der Feudalzeit stehend hat. Anders als Nagoyas eigenes Schloss, das nach seiner Zerstoerung im Zweiten Weltkrieg in Beton wiederaufgebaut wurde, ueberlebt Inuyamas Turm weitgehend so, wie er gebaut wurde, und ist als eines von Japans Nationalschaetzen registriert. Eine gefuehrte Besichtigung fuehrt Sie durch die steilen Holztreppen und engen Gaenge des Schlosses bis zum obersten Stockwerk, wo sich der Blick ueber den Kiso-Fluss und die umgebenden Huegel erstreckt.\n\nVon Inuyama aus geht die Gruppe weiter nach Enakyo, eine Schlucht entlang des Kiso-Flusses, bekannt fuer ihre dramatischen Felsformationen und, je nach Saison, Herbstlaub oder frisches Gruen, vor einem kurzen Besichtigungsstopp. Die Tour fuehrt dann in die Berge nach Tsumago-juku, eine der am besten erhaltenen Poststaedte der Edo-Zeit an der alten Nakasendo-Handelsroute, die einst Kyoto und Edo, das heutige Tokio, verband. Traditionelle Holzgebaeude reihen sich an der autofreien Hauptstrasse, und die Stadt hat Freileitungen und moderne Beschilderung bewusst aus dem Blickfeld gehalten, um ihre historische Atmosphaere zu bewahren, was Besuchern ein seltenes, greifbares Gefuehl dafuer gibt, wie eine japanische Handelsstadt vor zwei Jahrhunderten aussah.\n\nDer Tag verlaeuft per Bus, mit mehreren Stunden Fahrzeit im rund zehnstuendigen Reiseplan eingebaut, erwarten Sie also einen vollen, aber ungehetzten Tag statt einer durchgehetzten Checkliste. Der lokale Anbieter fuehrt die Tour mit einem englischsprachigen Guide durch, der die Geschichte jedes Ortes erzaehlt. Tragen Sie bequeme Wanderschuhe, da das Schlossinnere nicht klimatisiert ist und die Strassen von Tsumago-juku aus unebenem Stein und Holz bestehen.",
+  "highlights": [],
+  "included": [
+   "Englischsprachiger Guide, Hin- und Rueckfahrt mit dem Bus ab Nagoya, Eintritt und gefuehrte Besichtigung des Inuyama-Schlosses, gefuehrter Stopp an der Enakyo-Schlucht, Zeit in Tsumago-juku"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke, persoenliche Ausgaben, Hotelabholung ausserhalb des Treffpunkts, Trinkgelder"
+  ]
+ },
+ "jigokudani-monkey-park-full-day-tour": {
+  "title": "Schneeaffen und Zenko-ji: private Nagano-Tagestour ab Tokio",
+  "metaTitle": "Schneeaffen und Zenko-ji ab Tokio",
+  "metaDescription": "Zehn Stunden nach Nagano und zurueck fuer die Thermalquellen-Makaken und einen 1.400 Jahre alten Tempel, im Privatwagen.",
+  "shortDescription": "Zehn Stunden nach Nagano und zurueck fuer die Thermalquellen-Makaken und einen 1.400 Jahre alten Tempel, im Privatwagen.",
+  "fullDescription": "Die Makaken von Jigokudani sind die einzigen Affen der Erde, die bekanntlich in heissen Quellen baden, und sie tun das seit den 1960er Jahren, als der Park um eine Gewohnheit herum gebaut wurde, die sich die Truppe im Aussenbad eines nahegelegenen Gasthauses angeeignet hatte. Der Name des Tals bedeutet 'Hoellental', Dampf stroemt durch steile bewaldete Waende und der Schnee liegt monatelang auf den Felsen, und die Truppe kommt die meiste Zeit des Jahres zum von Menschen gemachten Becken herunter, nicht nur im Winter.\n\nEs mit oeffentlichen Verkehrsmitteln zu erreichen, frisst den Tag in Umstiegen auf. Ein Privatwagen macht es zu einem machbaren einzigen Tag: Sie schlafen auf der Autobahn, kommen an, wenn das Licht gut ist, und kehren zurueck, ohne die Uhr fuer den letzten Zug zu beobachten. Die Fahrt nach Norden ueberquert die Berge der japanischen Alpen und fuehrt durch das Nagano-Becken, Austragungsort der Olympischen Winterspiele 1998.\n\nZenko-ji in der Stadt Nagano ist die andere Haelfte. Im 7. Jahrhundert gegruendet, geht er der Spaltung des japanischen Buddhismus in Sekten voraus und gehoert daher zu keiner von ihnen, weshalb er 1.400 Jahre lang Pilger aus jeder Schule angezogen hat, Frauen eingeschlossen zu einer Zeit, als viele Bergtempel sie abwiesen. Seine Haupthalle ist ein Nationalschatz, und darunter verlaeuft ein pechschwarzer unterirdischer Gang, in dem Besucher an der Wand nach einem Schluessel tasten, der angeblich Erloesung gewaehrt.\n\nIhr Fahrer-Guide uebernimmt den ganzen Tag und kennt die eigenen Rhythmen des Affenparks, wann die Truppe herunterkommt und wann sich der Pfad lohnt.\n\nBereiten Sie sich auf die Laenge vor: etwa sieben Stunden Fahrzeit und ein 1,6 km langer unbefestigter Waldweg in jede Richtung, der im Winter vereist. Kalte Monate bieten das zuverlaessigste Baden; die Affen sind wild, nichts ist garantiert.",
+  "highlights": [],
+  "included": [
+   "Privatfahrzeug mit englischsprachigem Fahrer-Guide, Hotelabholung und -ruecktransfer in Tokio, Treibstoff und alle Autobahngebuehren, Fuehrung sowohl im Affenpark als auch im Tempel"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehr fuer den Jigokudani-Affenpark, Essen und Getraenke, Gebuehr fuer das innere Heiligtum von Zenko-ji, Trinkgelder"
+  ]
+ },
+ "kamakura-enoshima-day-trip-from-tokyo-enoden-train": {
+  "title": "Kamakura und Enoshima per Bus und Enoden-Zug: der grosse Buddha und die Kueste",
+  "metaTitle": "Kamakura und Enoshima ab Tokio",
+  "metaDescription": "Ein voller Kuestentag ab Tokio fuer rund dreiundneunzig Dollar, der dreizehn Meter hohe Bronze-Buddha, die Enoden-Linie am Meer, und die Insel Enoshima.",
+  "shortDescription": "Ein voller Kuestentag ab Tokio fuer rund dreiundneunzig Dollar, der dreizehn Meter hohe Bronze-Buddha, die Enoden-Linie entlang des Meeres, und die Insel Enoshima.",
+  "fullDescription": "Kamakura war ab 1185 anderthalb Jahrhunderte lang Regierungssitz, weshalb eine Stadt mit 170.000 Einwohnern an einem Strand die Dichte bedeutender Tempel aufweist, die sie hat. Sie liegt eine Stunde von Tokio entfernt, und der ueblicherweise Weg, sie zu sehen, Zuege, Umstiege, herausfinden, welche Linie wohin faehrt, frisst einen guten Teil des Tages auf. Diese Bustour beseitigt das und fuegt das eine Verkehrsmittel hinzu, das Sie wirklich nutzen wollen.\n\nDer grosse Buddha kommt zuerst. Dreizehn Meter Bronze, 1252 gegossen, im Freien stehend, weil die um ihn gebaute Halle 1498 durch einen Tsunami zerstoert und nie ersetzt wurde, weshalb er heute so aussieht, wie jeder ihn sich vorstellt. Der Eintritt, um ins Innere der Statue zu gehen, ist eine kleine separate Gebuehr am Tor, falls Sie das moechten.\n\nDie Enoden-Fahrt ist enthalten und der Grund, dies statt eines generischen Tagesausflugs zu machen. Es ist eine eingleisige Linie von 1902, die zwischen den Haeusern der Leute verlaeuft, an manchen Stellen nah genug, um die Waende zu beruehren, und dann auf die Kuestenstrasse mit dem Meer auf einer Seite ausbricht. Der Halt an Kamakura Koko-Mae ist der Bahnuebergang, der im Vorspann von Slam Dunk erscheint, weshalb immer eine Schlange von Menschen einen gewoehnlichen Bahnuebergang mit dem Ozean im Hintergrund fotografiert.\n\nEnoshima beschliesst den Tag: eine kleine, durch eine Bruecke verbundene Insel, mit Schreinen, die ihren Hang hinaufklettern, und Aussichten zurueck zum Fuji, wenn die Luft klar ist.\n\nAbfahrten sind um 8:00 Uhr vom Bahnhof Tokio oder 8:30 Uhr von Shinjuku, und der Tag dauert etwa zehn Stunden. Mahlzeiten sind nicht enthalten, was richtig ist, Kamakuras Shirasu-don, die lokale Weissfisch-Reisschale, ist es wert, selbst gewaehlt zu werden.",
+  "highlights": [],
+  "included": [
+   "Hin- und Rueckfahrt mit dem Bus ab Tokio, englischsprachiger Guide, Enoden-Zugfahrt von Hase nach Enoshima, Fahrer- und Parkgebuehren"
+  ],
+  "notIncluded": [
+   "Eintritt ins Innere des grossen Buddha (ca. 300 JPY, am Tor bezahlt), Mahlzeiten, Getraenke und persoenliche Einkaeufe, Hotelabholung und -ruecktransfer"
+  ]
+ },
+ "kamakura-hakone-private-day-tour-from-tokyo": {
+  "title": "Kamakura und Hakone an einem Tag: private Tour ab Tokio mit Fahrer-Guide",
+  "metaTitle": "Kamakura und Hakone an einem Tag ab Tokio",
+  "metaDescription": "Ein privater Tuer-zu-Tuer-Tag, der die Tempelstadt Kamakura mit der vulkanischen Caldera von Hakone verbindet, gefahren von einem englischsprachigen Fahrer-Guide.",
+  "shortDescription": "Ein privater Tuer-zu-Tuer-Tag, der die Tempelstadt Kamakura mit der vulkanischen Caldera von Hakone verbindet, gefahren von einem englischsprachigen Fahrer-Guide ab Ihrem Tokio-Hotel.",
+  "fullDescription": "Kamakura und Hakone liegen von Tokio aus in dieselbe Richtung, gehoeren aber zu unterschiedlichen Jahrhunderten, und beide an einem Tag zu kombinieren, ergibt einen Sinn, den ein Bahnplan selten zulaesst. Mit einem privaten Fahrer-Guide muessen Sie keine Anschluesse schaffen und keine Koffer hin und her schleppen; Sie verlassen morgens Ihr Hotel und das Auto erledigt die Verbindungsarbeit. Der Kompromiss ist ein langer Tag und eine erhebliche Zeit auf der Strasse, was man vor der Buchung wissen sollte.\n\nKamakura war ab 1185 Sitz des ersten Shogunats Japans, und fuer etwa anderthalb Jahrhunderte war es die tatsaechliche Hauptstadt, waehrend Kyoto den Kaiser und das Zeremoniell behielt. Die verbleibende Stadt ist klein, bewaldet und dicht mit Tempeln. Der grosse Buddha von Kotoku-in ist das Emblem: ein 1252 gegossener bronzener Amida, etwas ueber elf Meter hoch, der einst in einer Halle stand, bis ein Tsunami im spaeten 15. Jahrhundert das Gebaeude wegnahm und die Figur im Freien liess, wo sie seitdem verwittert ist.\n\nEine kurze Strecke abwaerts erklimmt Hase-dera einen Hang in Terrassen. Seine Haupthalle beherbergt einen hohen vergoldeten Kannon mit elf Koepfen, und die Gaerten stufen sich hinab zu einem Blick auf die Sagami-Bucht. Der Tempel ist auch fuer die Reihen kleiner Jizo-Statuen bekannt, die dort zum Gedenken an Kinder aufgestellt wurden. Danach fuehrt Komachi-dori vom Bahnhof zum grossen Hachimangu-Schrein, eine schmale Gasse mit Suesswarenladen, Kunsthandwerksstaenden und Strassenessen, in der sich der grosste Teil des Alltagslebens von Kamakura abspielt.\n\nDas Auto faehrt dann westlich nach Hakone, in die von einem eingestuerzten Vulkan hinterlassene Caldera. Der Hakone-Schrein liegt in einem Zedernwald am Ashi-See, mit seinem zinnoberroten Torii im Flachwasser des Sees. Eine Ausflugsfahrt ueberquert das Wasser, und die Seilbahn hebt Sie ueber den Rand nach Owakudani, wo immer noch Dampf aus dem Hang stroemt und die lokale Spezialitaet ein in den Quellen schwarz gekochtes Ei ist. An einem klaren Tag steht der Fuji jenseits des nordlichen Randes, der Blick, der diesen Pass lange vor seiner Zeit als Kurort beruehmt machte.\n\nDa die Tour privat ist, kann sich die Balance zwischen den beiden Haelften am Tag selbst verschieben. Verweilen Sie laenger in Kamakuras Tempeln, oder draengen Sie weiter, um Hakone mehr Raum zu geben. Ihr Fahrer-Guide spricht Englisch, faehrt, und bleibt durchgehend bei Ihnen, was auch bedeutet, dass die obigen Zeiten ein Arbeitsplan statt eines festen Vertrags sind.",
+  "highlights": [],
+  "included": [
+   "Privater englischsprachiger Fahrer-Guide, Privatfahrzeug fuer den Tag, Hotelabholung und -ruecktransfer in Tokio, Treibstoff, Gebuehren und Parken"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer Tempel und Attraktionen, Ashi-See-Kreuzfahrt- und Seilbahntickets, Mahlzeiten und Getraenke, Trinkgelder, Reiseversicherung"
+  ]
+ },
+ "kappa-bridge-full-day-tour": {
+  "title": "Alpines Wandern und Fotografie in Kamikochi: Tagesausflug ab Nagoya",
+  "metaTitle": "Wandern und Fotografie in Kamikochi",
+  "metaDescription": "Ein ganztaegiger Wander- und Fotografie-Ausflug ab Nagoya in das Hochgebirgstal Kamikochi.",
+  "shortDescription": "Ein ganztaegiger Wander- und Fotografie-Ausflug ab Nagoya in das Hochgebirgstal Kamikochi.",
+  "fullDescription": "Kamikochi ist ein unberuehrtes Hochgebirgstal in den nordlichen japanischen Alpen, und dieser Tagesausflug tauscht Nagoyas Stadtstrassen gegen eines der meistfotografierten Naturstuecke des Landes. Das Tal ist seit den 1970er Jahren autofrei, was seine Pfade ruhig und seine Luft merklich sauber haelt, und sein Kernstueck ist der Azusa-Fluss, ein auffallend klarer, gletschergenaehrter Wasserlauf, der sich unter der zerkluefteten Hotaka-Bergkette schlaengelt. Von Nagoya aus dauert die Anreise einige Stunden mit dem Auto, was teilweise erklaert, warum dies als elfstuendiger Tag aufgebaut ist und Wanderern echte Zeit im Tal gibt statt eines gehetzten Durchfahrtsstopps.\n\nEinmal in Kamikochi fuehrt die Wanderroute am Taisho-Teich vorbei, einem stillen, spiegelnden Becken, das entstand, als ein Vulkanausbruch 1915 den Fluss aufstaute, und geht weiter zum Tashiro-Teich, einem sumpfigen Feuchtgebiet, das von Fotografen fuer sein spiegelglattes Wasser an ruhigen Morgen bevorzugt wird. Der Pfad ueberquert zwei der charakteristischen Haengebruecken des Tals, die Kappa-Bruecke nahe dem Eingang und die Myojin-Bruecke tiefer im Wald, beide klassische Aussichtspunkte, um die Hotaka-Gipfel vor stillem Wasser einzufangen. Das Gehen ist auf gut gepflegten Holzstegen und Kieswegen leicht, sodass der Tag Wanderer unterschiedlicher Fitnessstufen eignet statt technisches Trekking zu verlangen.\n\nDie Kombination aus alpiner Landschaft, Herbstlaubfarbe in der Saison und ungehetztem Tempo macht diese Reise weniger darum, Entfernung zuruckzulegen, als darum, sich zu verlangsamen, um Licht, Wasser und Berge zu beobachten, die die meisten Nagoya-Reiseplaene nie erreichen. Bringen Sie eine Kamera mit, unabhaengig vom Koennen, da die Teiche und Bruecken Kamikochis erkennbarste Motive sind, und erwarten Sie einen vollen Tag angesichts der Hin- und Rueckfahrtzeit von der Stadt.",
+  "highlights": [],
+  "included": [
+   "Gefuehrter Wander- und Fotografie-Tagesausflug, Hin- und Rueckfahrt ab Nagoya, Wanderroute durch Kamikochis Hauptteiche und Bruecken"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke, persoenliche Wanderausruestung, Reiseversicherung, Trinkgelder fuer den Guide"
+  ]
+ },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara im Myokaku-ji: Schwertchoreografie, gefilmt auf dem Tempelgelände",
   "metaTitle": "Chambara-Schwerterlebnis in Kyoto",
