@@ -58292,6 +58292,124 @@ export const DE_TOURS: Record<string, TourT> = {
    "Transport zum Veranstaltungsort"
   ]
  },
+ "nara-wagashi-workshop-with-matcha-tasting": {
+  "title": "Fertigen Sie drei saisonale Wagashi mit einem Nara-Meister, und probieren Sie seinen Matcha",
+  "metaTitle": "Wagashi-Workshop und Matcha-Verkostung in Nara",
+  "metaDescription": "Neunzig Minuten im eigenen Atelier eines Konditors, drei saisonale Süßigkeiten von Hand herstellen, mit einem Übersetzer dabei und Matcha, vom Meister ausgewählt.",
+  "shortDescription": "Neunzig Minuten im eigenen Atelier eines Konditors, drei saisonale Süßigkeiten von Hand herstellen, mit einem Übersetzer dabei und Matcha, vom Meister ausgewählt.",
+  "fullDescription": "Dies ist die kleinste und persönlichste der von uns gelisteten Süßwaren-Herstellungssitzungen, und der Unterschied zeigt sich. Die Gruppe ist auf fünf begrenzt, sie findet im eigenen Atelier des Meisters hinter dem Laden statt, und ein lokaler Übersetzer sitzt bei Ihnen, sodass das Gespräch tatsächlich fließt, statt bei Anweisungen zu stoppen.\n\nEs beginnt mit Tee und der Geschichte des Ladens, wie lange die Familie schon in Nara Süßigkeiten herstellt, und wo Wagashi in der japanischen Kultur stehen, eine ernstere Frage, als es zunächst scheint. Wagashi existieren wegen des Tees: die Süße ist gegen die Bitterkeit des Matcha konzipiert, die Formen folgen den Jahreszeiten so eng, dass ein Konditorschaufenster Ihnen den Monat verrät, und das ganze Handwerk ist ein Zweig der Teezeremonie statt des Backens.\n\nSie stellen dann drei her, jedes mit einer anderen Technik, der Vorführung des Meisters folgend. Die Fülltechnik kommt zuerst, Bohnenpaste zentriert innerhalb einer äußeren Schicht zu platzieren, ohne sie zu zerreißen, ist schwerer, als es aussieht, dann das Formen, woher die saisonalen Designs kommen.\n\nFotos Ihrer drei Stücke werden gemacht, bevor Sie sie essen, was alle wollen und niemand daran denkt, zu arrangieren. Dann setzen Sie sich und essen, was Sie gemacht haben, mit einem Matcha, den der Meister auswählt, und sprechen mit ihm über Ihren Übersetzer, was sich als der Kern des Interesses der neunzig Minuten herausstellt.\n\nDas Atelier liegt in Tsurufukuincho im Zentrum von Nara. Der Unterricht erfolgt auf Japanisch mit Übersetzung, und alles ist enthalten, die drei Süßigkeiten, die Sie herstellen, gehören Ihnen.",
+  "highlights": [],
+  "included": [
+   "Praktische Wagashi-Herstellungssitzung, drei von Ihnen gemachte Stücke",
+   "Saisonaler Teeservice bei der Ankunft",
+   "Matcha-Verkostung, vom Meister ausgewählt",
+   "Lokaler Übersetzer durchgehend",
+   "Alle Zutaten und Werkzeuge"
+  ],
+  "notIncluded": [
+   "Transport zum Atelier",
+   "Zusätzliches Essen und Getränke",
+   "Hotelabholung und -rücktransport"
+  ]
+ },
+ "nara-japanese-calligraphy-experience": {
+  "title": "Japanische Kalligrafie in Nara: schreiben Sie ein Kanji, das etwas bedeutet",
+  "metaTitle": "Japanisches Kalligrafie-Erlebnis in Nara",
+  "metaDescription": "Eine Stunde japanische Kalligrafie mit einem Profi nahe dem JR-Bahnhof Nara, Ihr Werk auf einer Shikishi-Tafel.",
+  "shortDescription": "Eine Stunde mit einem professionellen Kalligrafen drei Minuten vom JR-Bahnhof Nara, sehen Sie eine Vorführung, lernen Sie den Pinsel, und nehmen Sie Ihr Werk auf einer Shikishi-Tafel mit.",
+  "fullDescription": "Kalligrafie ist die japanische Kunst, die am schlechtesten fotografiert und das praktische Tun am meisten belohnt. Auf Papier sieht es wie Handschrift aus; in der Praxis ist es näher an einer physischen Disziplin, bei der der Druck des Pinsels, die Geschwindigkeit des Strichs und der Moment, in dem Sie ihn heben, alles bestimmen, und es gibt keine Korrektur einer Linie, sobald sie gezogen ist.\n\nDie Stunde beginnt damit, dass Sie ein Kanji-Zeichen wählen. Jedes wird erklärt, Harmonie, Frieden, Traum, Liebe, Stärke, sodass die Wahl Ihre ist und etwas bedeutet, statt zugewiesen zu werden. Diese einzige Entscheidung macht die Sitzung von der ersten Minute an persönlich.\n\nDann schreibt der Kalligraf Ihren Namen auf Japanisch, was durchweg der Moment ist, an den sich Gäste erinnern: Ihren eigenen Namen in Pinselstrichen wiedergegeben zu sehen, in einem Schriftsystem, das Sie nicht lesen können, ist seltsamer und berührender, als es klingt. Sie üben danach selbst, ihn zu schreiben, wie man den Pinsel aufrecht hält, wie viel Tinte man auflädt, wie man sich langsam und bewusst bewegt statt zu skizzieren.\n\nDer Unterricht erfolgt eins zu eins innerhalb einer Gruppe, die auf sechs begrenzt ist, in klarem und einfachem Englisch. Es gibt keine Eile und keine Erwartung, dass etwas beim ersten Versuch gut sein wird; der Sinn der Stunde ist der Rhythmus und die Konzentration, weshalb Kalligrafie seit Jahrhunderten als meditative Praxis behandelt wird.\n\nIhr fertiges Stück kommt auf eine traditionelle Shikishi-Tafel, die steife quadratische Karte, die zur Präsentation von Kalligrafie verwendet wird, sodass es flach und intakt nach Hause reist.\n\nDas Studio liegt im zweiten Stock eines Gebäudes in Aburasaka, drei Minuten vom JR-Bahnhof Nara, und der Raum ist rollstuhlgerecht. Kimono und Haarstyling sind nicht Teil dieser Sitzung.",
+  "highlights": [],
+  "included": [
+   "Vorführung durch einen professionellen Kalligrafen",
+   "Einstündige Kalligrafie-Sitzung mit personalisiertem Unterricht",
+   "Alle Pinsel, Tinte und Papier",
+   "Traditionelle Shikishi-Tafel für Ihr fertiges Werk"
+  ],
+  "notIncluded": [
+   "Kimono und Haarstyling",
+   "Transport zum Veranstaltungsort",
+   "Mahlzeiten und Getränke"
+  ]
+ },
+ "miyama-thatched-village-katsuoji-arashiyama-day-tour": {
+  "title": "Miyamas Reetdachdorf, Katsuo-ji und Arashiyama an einem Tag ab Osaka",
+  "metaTitle": "Miyama, Katsuo-ji und Arashiyama ab Osaka",
+  "metaDescription": "Ein Bustag ins ländliche Kyoto, Reetdach-Bauernhöfe in den Bergen, ein mit Daruma-Puppen bedeckter Tempel, und der Bambuswald zum Abschluss.",
+  "shortDescription": "Ein Bustag ins ländliche Kyoto, Reetdach-Bauernhöfe in den Bergen, ein mit Daruma-Puppen bedeckter Tempel, und der Bambuswald zum Abschluss.",
+  "fullDescription": "Miyama ist der Grund, diesen Tag zu nehmen. Es ist ein Dorf in den Bergen des nördlichen Kyoto, wo etwa vierzig Kayabuki-Bauernhöfe, mit Schilf gedeckt, Dächer einen Meter dick und steil gegen den Schnee geneigt, noch zusammen an einem Ort stehen. Die meisten Reetdachdörfer Japans sind verschwunden oder als Freilichtmuseen erhalten; Miyama ist bewohnt, die Dächer werden im Wechsel von Menschen neu gedeckt, die es noch können, und der Effekt ist in jeder Jahreszeit der einer Landschaft, die aufgehört hat, sich zu verändern.\n\nKatsuo-ji ist seltsamer und fröhlicher. Es ist ein Tempel, der mit Sieg und Glück verbunden ist, und Pilger hinterlassen dort schon so lange Daruma-Puppen, dass die runden roten Figuren nun jede Fensterbank, Wand, Stufe und Baumwurzel auf dem Gelände bedecken, zehntausende von ihnen, starrend. Sie kaufen eine, wünschen sich etwas, malen ein Auge, und malen das zweite, wenn der Wunsch wahr wird.\n\nArashiyama schließt den Tag ab: der Bambuswald und der Nonomiya-Schrein, der kleine Schrein zwischen den Bambusstangen, wo sich kaiserliche Prinzessinnen einst reinigten, bevor sie in Ise dienten.\n\nDer Reisebus übernimmt die Entfernungen, was das praktische Argument ist. Miyama insbesondere ist wirklich schwer mit öffentlichen Verkehrsmitteln zu erreichen und verschlingt den größten Teil eines Tages, wenn man es versucht.\n\nEintrittsgebühren für Attraktionen und Mahlzeiten sind nicht enthalten. Abfahrten starten am Ausgang 2 des Bahnhofs Nipponbashi in Osaka, und Sie können wählen, am Ende in Kyoto abgesetzt zu werden statt zurückzukehren, nützlich, wenn Sie weiterreisen.",
+  "highlights": [],
+  "included": [
+   "Hin- und Rückfahrt mit dem Reisebus",
+   "Kraftstoff, Maut und Autobahngebühren",
+   "Englisch- oder chinesischsprachiger Guide"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Attraktionen",
+   "Mahlzeiten",
+   "Persönliche Ausgaben",
+   "Hotelabholung und -rücktransport"
+  ]
+ },
+ "kure-naval-history-walk-yamato-museum-submarine": {
+  "title": "Kures Marinegeschichte: das Yamato-Museum und ein U-Boot, das Sie betreten können",
+  "metaTitle": "Marinerundgang in Kure: Yamato-Museum und U-Boot",
+  "metaDescription": "Drei geführte Stunden in Kure: das Yamato-Schlachtschiff-Museum und ein außer Dienst gestelltes U-Boot zum Betreten.",
+  "shortDescription": "Drei geführte Stunden im Hafen, der das größte Schlachtschiff der Welt baute, ein 26-Meter-Maßstabsmodell der Yamato, und ein außer Dienst gestelltes U-Boot auf trockenem Land.",
+  "fullDescription": "Kure liegt eine halbe Stunde von Hiroshima entfernt, und kaum jemand auf der Friedenspark-Route geht dorthin, was schade ist, denn es erklärt viel darüber, warum Hiroshima überhaupt ein Ziel war. Dies war eines von Japans vier Hauptmarinewerften und die Werft, die die Yamato baute, das größte je gebaute Schlachtschiff, 263 Meter lang, mit 46-Zentimeter-Geschützen, die die größten bleiben, die je an einem Kriegsschiff angebracht wurden.\n\nDas Yamato-Museum ist um ein Modell im Maßstab 1:10 von ihr gebaut, sechsundzwanzig Meter davon, mit einem Detailgrad zusammengesetzt, der Zeit zum Aufnehmen braucht. Darum stehen echte Artefakte, die technische Geschichte, wie ein Land, das 1868 kaum industrialisiert war, bis 1940 solche Schiffe baute, und, ernst behandelt statt umgangen, was mit ihr und den 3000 Mann an Bord geschah, als sie 1945 auf einer Einwegmission nach Okinawa versenkt wurde.\n\nAuf der anderen Straßenseite liegt das JMSDF-Kure-Museum, bekannt als der eiserne Wal. Ein außer Dienst gestelltes U-Boot, die Akishio, liegt auf Land neben dem Gebäude, und Sie gehen hinein: der Kontrollraum, die zwischen Maschinen gestapelten Kojen, die Gänge, durch die man sich seitlich bewegen muss. U-Boot-Dienst zu verstehen, bedeutet, in einem zu stehen, und sehr wenige Orte lassen das zu.\n\nDer Spaziergang umfasst auch die Hafenaussichtspunkte, wo die moderne Flotte der Maritimen Selbstverteidigungskräfte normalerweise an ihren Liegeplätzen sichtbar ist.\n\nEin Guide ist hier wichtig, weil die Museen stark auf Japanisch beschriften, und der Kontext, industriell, militärisch und moralisch, ist das, was den Besuch zu mehr macht als das Betrachten von Modellen. Gruppen sind auf fünfzehn begrenzt.",
+  "highlights": [],
+  "included": [
+   "Englischsprachiger lokaler Guide für drei Stunden",
+   "Geführte Wanderroute durch Kures Hafenviertel",
+   "Besuche des Yamato-Museums und des JMSDF-Kure-Museums",
+   "Hafenaussichtspunkte"
+  ],
+  "notIncluded": [
+   "Museumseintrittsgebühren",
+   "Transport von Hiroshima nach Kure",
+   "Mahlzeiten und Getränke",
+   "Hotelabholung und -rücktransport"
+  ]
+ },
+ "kyoto-machiya-table-style-tea-ceremony-fushimi": {
+  "title": "Teezeremonie in einem hundertjährigen Fushimi-Machiya, am Tisch",
+  "metaTitle": "Teezeremonie am Tisch in Fushimi, Kyoto",
+  "metaDescription": "Vollständige Teezeremonie in Fushimi, im Ryurei-Tisch-und-Stuhl-Stil, kein Kniesitzen, mit Wagashi und Kalligrafie-Souvenir.",
+  "shortDescription": "Eine vollständige Teezeremonie in einem hundertjährigen Stadthaus, im Ryurei-Tisch-und-Stuhl-Stil, kein Kniesitzen, mit Wagashi, Matcha-Lektion und Kalligrafie-Souvenir.",
+  "fullDescription": "Was die meisten Besucher daran hindert, eine Teezeremonie zu genießen, ist der Boden. Seiza, die formelle Kniehaltung, wird innerhalb von Minuten schmerzhaft für jeden, der nicht damit aufgewachsen ist, und eine Stunde ruhiges Ritual ist schwer zu genießen, während Ihre Beine einschlafen.\n\nRyurei löst das. Es ist der Tisch-und-Stuhl-Stil, im 19. Jahrhundert entwickelt, als Japan begann, ausländische Gäste zu empfangen, und heute in Japan selbst weit verbreitet, eine vollständige, korrekte Zeremonie, durchgeführt stehend und am Tisch sitzend statt auf Tatami. Nichts wird gemindert; Sie haben einfach keine Schmerzen.\n\nDie Umgebung ist ein erhaltenes Machiya, ein über ein Jahrhundert altes hölzernes Kyoto-Stadthaus, in Fushimi im Süden der Stadt, dem Sake-Brauviertel, weg von den Higashiyama-Massen. Der Matcha stammt von einer preisgekrönten Uji-Teefarm, und nach dem Beobachten der Zeremonie schlagen Sie Ihre eigene Schale mit echten Utensilien und Schritt-für-Schritt-Anleitung, wobei Sie entdecken, wie viel Handgelenk nötig ist, um den Schaum richtig zu bekommen.\n\nSaisonale Wagashi werden dazu serviert, und ein Willkommensgetränk, Sake, Saft oder Tee, kommt zuerst. Sie gehen mit einem personalisierten Kalligrafie-Souvenir, Ihrem Namen oder einem gewählten Wort, in Kanji oder Hiragana geschrieben.\n\nDer Garten des Machiya ist für Fotos mit traditionellen Requisiten eingerichtet, und je nach Jahreszeit sehen Sie möglicherweise auch die verwandten Künste, die den Tee umgeben: Kalligrafie, Kodo-Weihrauch und Chabana-Blumensteckkunst.\n\nDrei Formate: Kleingruppe, Kleingruppe mit Kimono-Vermietung, oder privat.",
+  "highlights": [],
+  "included": [
+   "Vollständige Teezeremonie im Ryurei-Tisch-und-Stuhl-Stil",
+   "Saisonale japanische Wagashi-Süßigkeiten",
+   "Willkommensgetränk - Sake, Saft oder Tee",
+   "Praktische Matcha-Schlag-Lektion mit Premium-Uji-Matcha",
+   "Personalisiertes Kalligrafie-Souvenir",
+   "Traditionelle Kimono-Vermietung bei der Kimono-Option"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Transport nach Fushimi",
+   "Zusätzliches Essen und Getränke"
+  ]
+ },
+ "amanohashidate-ine-funaya-day-tour-from-osaka-kyoto": {
+  "title": "Amanohashidate und die Bootshäuser von Ine: eine der drei großen Aussichten Japans",
+  "metaTitle": "Amanohashidate und Ine ab Osaka/Kyoto",
+  "metaDescription": "Ein Bustag nach Norden, Japanisches Meer, die mit Kiefern bewachsene Sandbank verkehrt herum betrachtet, und ein Fischerdorf, in dem die Häuser im Wasser stehen.",
+  "shortDescription": "Ein Bustag nach Norden, Japanisches Meer, die mit Kiefern bewachsene Sandbank verkehrt herum betrachtet, und ein Fischerdorf, in dem die Häuser im Wasser stehen.",
+  "fullDescription": "Amanohashidate ist eine der Nihon Sankei, der drei klassisch als die schönsten Japans gehaltenen Aussichten, neben Miyajimas schwimmendem Torii und der Matsushima-Bucht. Es ist eine dreieinhalb Kilometer lange Sandbank, bedeckt mit mehreren tausend Kiefern, die fast vollständig eine Bucht an der Küste des Japanischen Meeres durchschneidet, und sie zieht seit dem 17. Jahrhundert Besucher an, lange bevor Tourismus als Idee existierte.\n\nDer lokale Brauch ist, sie verkehrt herum zu betrachten. Sie stehen auf dem Aussichtspunkt oben, beugen sich vor und schauen rückwärts zwischen Ihren Beinen, worauf die Sandbank am Himmel zu hängen scheint und der Name, Brücke zum Himmel, Sinn ergibt. Es heißt Matanozoki, und jeder macht es, ohne Verlegenheit.\n\nIne ist die zweite Hälfte und das ruhigere Vergnügen. Es ist ein Fischerdorf an einer geschützten Bucht, wo etwa 230 Funaya, Bootshäuser mit der Bootsgarage auf Wasserebene und den Wohnräumen darüber, in einer ununterbrochenen Reihe direkt am Wasser stehen. Nichts daran ist inszeniert; Menschen leben und fischen dort, und die Spiegelungen der Holzfassaden in einer ruhigen Bucht am späten Nachmittag sind der Grund, warum Fotografen die Reise machen.\n\nBeachten Sie, was nicht enthalten ist. Die Seilbahn zum Amanohashidate-Aussichtspunkt und das Ine-Sightseeing-Boot sind standardmäßig nicht im Preis enthalten; der Guide kann Ihnen helfen, sie zu kaufen, sobald Sie im Bus sind. Mahlzeiten sind ebenfalls ausgeschlossen.\n\nAbfahrten starten am Ausgang 2 des Bahnhofs Nipponbashi in Osaka oder im Hachijoguchi-Sightseeing-Busbereich am Bahnhof Kyoto, und der Tag dauert etwa zehn Stunden.",
+  "highlights": [],
+  "included": [
+   "Hin- und Rückfahrt mit dem Reisebus ab Osaka oder Kyoto",
+   "Geführter Besuch des Amanohashidate-Aussichtsbereichs",
+   "Besuch des Ine-Funaya-Fischerdorfs"
+  ],
+  "notIncluded": [
+   "Seilbahn zum Amanohashidate-Aussichtspunkt",
+   "Ine-Funaya-Sightseeing-Boot-Ticket",
+   "Mahlzeiten",
+   "Persönliche Ausgaben"
+  ]
+ },
  "japanese-postcard-painting-etegami-workshop-in-kyoto": {
   "title": "Japanischer Postkarten-Malworkshop (Etegami) in Kyoto",
   "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Kyoto. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nKyoto war über tausend Jahre lang bis 1868 Japans Hauptstadt und hat 17 UNESCO-gelistete Stätten unter rund 2.000 Tempeln und Schreinen. Die großen drei sind Kinkaku-ji, der Goldene Pavillon, mit Goldblatt bedeckt und am besten im Morgenlicht; Kiyomizu-dera, die Holzbühne auf den östlichen Hügeln mit den Higashiyama-Gassen von Sannenzaka und Ninenzaka darunter; und die Tore von Fushimi Inari. Die Burg Nijo hat die Nachtigallenböden, die gegen Eindringlinge quietschen, und Ryoan-ji den Steingarten. Tempel öffnen gegen 8:00 oder 9:00 Uhr und schließen um 17:00 Uhr, und der Stadtbus ist langsam; ein Tag mit einem Fahrer oder Guide, der die Stopps gegen die Menschenmassen ordnet, macht den Unterschied zwischen vier Sehenswürdigkeiten und sieben.\n\nIm Preis enthalten sind Traditioneller japanischer Postkarten-Malworkshop, Japanischer Ekaki-Instruktor, Authentische Werkzeuge und Techniken, Digitalisierung und Verbesserung des Kunstwerks und Hochwertige Tragetasche mit aufgedrucktem Design. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
