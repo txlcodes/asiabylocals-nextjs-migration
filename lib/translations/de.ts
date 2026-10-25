@@ -57808,6 +57808,128 @@ export const DE_TOURS: Record<string, TourT> = {
    "Optionale Aktivitäten und persönliche Ausgaben"
   ]
  },
+ "kyoto-kid-friendly-ninja-class-museum": {
+  "title": "Ninja-Kurs für Familien in Kyoto: Blasrohre, Sterne und Tarnung",
+  "metaTitle": "Ninja-Kurs für Familien in Kyoto",
+  "metaDescription": "Zwei Stunden Ninja-Training im Kostüm für die ganze Familie, Tarntechnik, ein Blasrohr und Wurfsterne, mit Museumseintritt inklusive.",
+  "shortDescription": "Zwei Stunden Ninja-Training im Kostüm für die ganze Familie, Tarntechnik, ein Blasrohr und Wurfsterne, mit Museumseintritt inklusive.",
+  "fullDescription": "Dies ist die für Kinder gestaltete Version des Ninja-Erlebnisses, und sie funktioniert, weil sie sich richtig engagiert statt halbherzig. Alle legen ein Ninja-Outfit an, und die zwei Stunden sind als Trainingssitzung aufgebaut statt als Museumsbesuch mit angehängter Aktivität.\n\nDas Training deckt ab, was Ninjutsu tatsächlich war, was interessanter ist als die Filmversion: eine Disziplin der Spionage, Infiltration und Informationsbeschaffung, praktiziert von Familien in den Regionen Iga und Koga, deren Wert für einen Kriegsherrn darin lag, überhaupt nicht gesehen zu werden. Die hier gelehrten Tarntechniken, wie man sich leise bewegt, wie man Schatten und Deckung nutzt, sind der Teil, den Kinder am ernstesten nehmen.\n\nDann die Ausrüstung. Ein Blasrohr, das zunächst mehr Atemkontrolle als Zielgenauigkeit erfordert, und Shuriken-Werfen, die sternförmigen Klingen, die unter Aufsicht auf ein Ziel geworfen werden. Beide sind schwieriger, als sie aussehen, und keines verhält sich so, wie Filme es nahelegen.\n\nDer Museumseintritt ist enthalten, sodass die historische Sammlung, die Rüstung, Waffen und Werkzeuge von Ninja und Samurai, Teil des Besuchs ist statt eines Extras.\n\nGruppen sind auf fünf begrenzt, was es mit Kindern überschaubar macht und bedeutet, dass jede Person echte Chancen bekommt statt in der Warteschlange zu stehen. Der Unterricht erfolgt auf Englisch, und der Ort ist rollstuhlgerecht.\n\nEine Regel, die Sie einplanen sollten: Kinder unter drei Jahren können nicht an den Ninja-Aktivitäten teilnehmen, sind aber im Veranstaltungsort willkommen. Der Standort befindet sich im zweiten Stock eines Gebäudes auf der Teramachi in Nakagyo-ku, in den überdachten Arkaden mitten in der Stadt.",
+  "highlights": [],
+  "included": [
+   "Museumseintrittskarte",
+   "Ninja-Outfit zum Tragen",
+   "Ninja-Trainingssitzung",
+   "Unterricht in Tarntechniken",
+   "Ninja-Blasrohr",
+   "Werfen authentischer Ninja-Sterne"
+  ],
+  "notIncluded": [
+   "Hin- und Rücktransport zum Veranstaltungsort",
+   "Essen und Getränke",
+   "Teilnahme für Kinder unter drei Jahren (sie dürfen den Ort betreten)"
+  ]
+ },
+ "kyoto-sushi-making-class-with-footbath": {
+  "title": "Sushi-Herstellung im Zentrum von Kyoto, mit Fußbad zum Abschluss",
+  "metaTitle": "Sushi-Kurs in Kyoto mit Fußbad",
+  "metaDescription": "Neunzig Minuten Nigiri formen und eine Mini-Maki-Rolle rollen in Kyoto, mit optionalem Fußbad zum Abschluss.",
+  "shortDescription": "Neunzig Minuten Nigiri mit Thunfisch und Lachs formen und eine Mini-Maki-Rolle rollen, unterrichtet auf Englisch und Japanisch wenige Straßen vom Nishiki-Markt entfernt.",
+  "fullDescription": "Nigiri sind zwei Zutaten und eine Fähigkeit. Der Fisch ist der leichte Teil; der Reis ist, wo gewonnen oder verloren wird, und die spezifische Schwierigkeit ist der Druck, drücken Sie zu fest, und Sie erhalten einen kompakten Ziegel, zu sanft, und er fällt zwischen Teller und Mund auseinander. Ein gutes Stück behält seine Form und zerfällt genau in dem Moment, in dem es Ihre Zunge erreicht, und niemand bekommt das richtig, indem er nur zuschaut.\n\nDieser Kurs ist darauf aufgebaut, dass Sie selbst Hand anlegen. Sie lernen, wie Sushi-Reis gewürzt wird und warum er bei Körpertemperatur gehandhabt wird, dann formen Sie Nigiri mit den Standard-Toppings, Thunfisch und Lachs, mit Korrektur im Verlauf. Sie rollen auch eine Mini-Maki, sodass Sie beide grundlegenden Sushi-Formen gemacht haben statt nur eine.\n\nDer Unterricht erfolgt auf Englisch und Japanisch und ist bewusst für Erstanwender temporiert. Gruppen sind auf zehn begrenzt.\n\nDas Fußbad ist die lokale Note und ist optional, separat berechnet mit 1300 Yen. Kyoto liegt auf heißem Quellwasser, und Ashiyu, auf einer Bank sitzend mit den Füßen in einem heißen Becken, ist die unverbindliche Version eines Onsen, besonders willkommen nach einem Tag Tempelspaziergang. Es ist eine schöne Art, neunzig Minuten zu beenden, aber es ist nicht Teil des Tickets, also entscheiden Sie am Tag selbst.\n\nDer Standort liegt im zweiten Stock eines Gebäudes in Kitakurumayacho in Nakagyo-ku, wenige Straßen vom Nishiki-Markt und dem Kawaramachi-Einkaufsviertel entfernt, was es leicht macht, es in einen Nachmittag im Zentrum von Kyoto einzubauen. Beachten Sie, dass der Standort nicht rollstuhlgerecht ist.",
+  "highlights": [],
+  "included": [
+   "Sushi-Herstellungskurs auf Englisch und Japanisch",
+   "Alle Zutaten",
+   "Lehrer",
+   "Das Sushi, das Sie herstellen"
+  ],
+  "notIncluded": [
+   "Fußbad-Gebühr, 1300 Yen pro Person, vor Ort zu zahlen",
+   "Transport zum Veranstaltungsort",
+   "Zusätzliches Essen und Getränke"
+  ]
+ },
+ "kyoto-ebike-tour-ginkakuji-philosophers-path": {
+  "title": "Östliches Kyoto per E-Bike: Ginkaku-ji, Zen-Gärten und der Philosophenweg",
+  "metaTitle": "E-Bike-Tour durch das östliche Kyoto",
+  "metaDescription": "Vier Stunden entlang der östlichen Hügel mit Gartenteintrittsgebühren inklusive, und der Guide bringt Sie in die Stätten hinein statt am Tor zu pausieren.",
+  "shortDescription": "Vier Stunden entlang der östlichen Hügel mit Gartenteintrittsgebühren inklusive, und der Guide bringt Sie in die Stätten hinein statt am Tor zu pausieren.",
+  "fullDescription": "Kyotos östlicher Rand ist, wo die Stadt am besten und am weitesten verstreut ist. Ginkaku-ji liegt am nördlichen Ende, der Philosophenweg verläuft zwei Kilometer südlich entlang eines Kanals unter Kirschbäumen, und die Tempel und Gärten sind in Abständen aufgereiht, die das Gehen der gesamten Strecke zu einem Tageswerk und eine Bustour zu einer Reihe von Parkplatzbesuchen machen.\n\nEin E-Bike löst die Geometrie. Die Unterstützung ebnet die Hügel am Fuß der Higashiyama-Bergkette, die Räder passen für Fahrer bis zwei Meter, und Sie decken die ganze Ostseite bequem in vier Stunden ab, mit Zeit, richtig anzuhalten.\n\nDieser letzte Punkt ist das eigentliche Argument der Tour. Gartenteintrittsgebühren sind enthalten, und der Guide bringt Sie hinein, viele Kyoto-Radtouren fahren an den berühmten Mauern vorbei und fotografieren das Tor. Ginkaku-ji, der Silberne Pavillon, wurde nie versilbert; der Shogun, der ihn als Ruhesitzvilla baute, starb vor der Ausführung des Plans, und die daraus resultierende Zurückhaltung ist genau, warum der Garten und sein geharkter Sandkegel als die feinere Leistung gelten.\n\nDer Philosophenweg ist nach Nishida Kitaro benannt, der ihn täglich auf dem Weg zur Universität Kyoto ging, und er funktioniert am besten genau so, wie diese Tour ihn nutzt, als verbindender Faden zwischen Tempeln statt als Ziel.\n\nGruppen sind auf acht begrenzt. Helme und das E-Bike sind enthalten; Mittagessen und Hoteltransfers sind es nicht. Der Treffpunkt ist die eigene Vermietungsbasis des Anbieters in Koyamacho, Kita-ku, auf Karten namentlich zu finden.",
+  "highlights": [],
+  "included": [
+   "E-Bike-Vermietung für vier Stunden",
+   "Englischsprachiger Guide",
+   "Eintrittsgebühren zu den Gärten auf der Route",
+   "Helme"
+  ],
+  "notIncluded": [
+   "Hotelabholung und -rücktransport",
+   "Mittagessen",
+   "Zusätzliche Tempeleintritte außerhalb der Route"
+  ]
+ },
+ "kyoto-sumo-show-chanko-hot-pot-geisha-dance": {
+  "title": "Sumo, Geisha und All-you-can-eat-Chanko im Zentrum von Kyoto",
+  "metaTitle": "Sumo- und Geisha-Show in Kyoto",
+  "metaDescription": "Zwei Stunden rund um einen echten Dohyo auf der Shinkyogoku, Geisha-Tanz, auf Englisch kommentierte Sumo-Show, und unbegrenzter Chanko-Hotpot und Getränke.",
+  "shortDescription": "Zwei Stunden rund um einen echten Dohyo auf der Shinkyogoku, Geisha-Tanz, auf Englisch kommentierte Sumo-Show, und unbegrenzter Chanko-Hotpot und Getränke.",
+  "fullDescription": "Dies liegt mitten in Kyotos überdachten Einkaufsarkaden, fünf Stockwerke über der Shinkyogoku, was niemand als Ort für einen Sumo-Ring erwartet. Aber in der Mitte des Raums gibt es einen echten Dohyo, und die Tische sind darum angeordnet, sodass Sie direkt am Ring essen statt von weitem zuzusehen.\n\nDer Abend beginnt mit einer Geisha, die einen traditionellen Tanz in vollem Kimono aufführt. Speziell in Kyoto hat dies Gewicht, die Geiko-Viertel der Stadt sind notorisch schwer zu betreten, und den Tanz aus der Nähe zu sehen ohne Einführung durch ein Teehaus ist für einen Besucher eine seltene Sache.\n\nDas Sumo folgt, durchgehend auf Englisch kommentiert. Die Einrichtung ist unkompliziert darüber, was sie ist: kein Turnier und keine Trainingssitzung, sondern eine Unterhaltungsshow, die aufgebaut ist, um die Sumo-Kultur näher zu bringen. Das bedeutet in der Praxis, dass die Ringer im Verlauf erklären, die Rituale, die Siegtechniken, die Etikette, und dann kämpfen, wenige Meter von Ihrem Tisch entfernt. Gäste können danach in den Ring steigen und einen Ringer herausfordern, mit Plätzen, die bei hoher Nachfrage per Los vergeben werden.\n\nDas Essen ist die andere Hälfte. Chanko-Nabe, der Hotpot, von dem Sumo-Stallungen leben, serviert als All-you-can-eat zusammen mit einer breiten Palette anderer Gerichte, und All-you-can-drink, was zu diesem Preis ungewöhnlich ist und den Charakter des Abends erheblich verändert. Ein Souvenir-Geschenkset ist dabei.\n\nZwei Sitzkategorien: Standard oder VIP-Vorderreihe am Rand des Dohyo. Die Einrichtung befindet sich im fünften Stock des Gebäudes mit Animate auf der Shinkyogoku, in der Takoyakushi-Arkade, und ist rollstuhlgerecht.",
+  "highlights": [],
+  "included": [
+   "Sumo-Unterhaltungsshow mit englischem Kommentar",
+   "All-you-can-eat Chanko-Nabe und breite Palette an Gerichten",
+   "All-you-can-drink-Service",
+   "Traditionelle Geisha-Tanzvorführung",
+   "Teilnahme an der Verlosung, einen Ringer im Ring herauszufordern",
+   "Souvenir-Geschenkset"
+  ],
+  "notIncluded": [
+   "Mahlzeiten, Sitzplätze und Souvenirs für Kleinkinder",
+   "Transport zum Veranstaltungsort",
+   "Hotelabholung und -rücktransport"
+  ]
+ },
+ "sapporo-kimono-dressing-and-matcha-tea-ceremony": {
+  "title": "Kimono-Ankleide und ein privater Teeraum in Sapporo",
+  "metaTitle": "Kimono-Ankleide und Teezeremonie in Sapporo",
+  "metaDescription": "Professionelle Kimono-Ankleide in Sapporo, dann Matcha, vor Ihnen zubereitet, in einem privaten Tatami-Teeraum.",
+  "shortDescription": "Wählen Sie einen Kimono und lassen Sie sich anziehen, fotografieren Sie sich unter ausgestelltem Kunsthandwerk, dann trinken Sie Matcha, der vor Ihnen zubereitet wird, in einem privaten Tatami-Teeraum.",
+  "fullDescription": "Hokkaido ist der Teil Japans mit den flachsten traditionellen Wurzeln, es wurde erst ab den 1870er Jahren richtig besiedelt, auf einem Raster, mit ausländischer landwirtschaftlicher Beratung, was genau der Grund ist, warum eine richtig gemachte Kimono- und Tee-Sitzung in Sapporo es wert ist, gesucht zu werden, statt anzunehmen, man müsse auf Kyoto warten.\n\nSie beginnen damit, einen Kimono aus einer kuratierten Kollektion zu wählen und mit professioneller Sorgfalt angezogen zu werden. Dieser Prozess dauert länger, als man erwartet, und es lohnt sich, darauf zu achten: die Schichten, die Polsterung, wie der Obi gebunden wird und wie das gesamte Gewand zum Tragen gebaut ist statt zum Drapieren. Es verändert, wie Sie stehen.\n\nAngezogen haben Sie Zeit im Hauptraum, der wie eine museumsartige Ausstellung traditionellen Kunsthandwerks aus ganz Japan angeordnet ist. Sich hier zu fotografieren statt auf der Straße ist der Tausch, den dieses Erlebnis bietet, die Umgebung ist kontrolliert und durchdacht, und Sie können sich Zeit nehmen.\n\nDie zweite Hälfte bewegt sich zu einem privaten Teeraum mit Tatami. Matcha wird vor Ihnen zubereitet, sodass Sie die Abfolge richtig beobachten, das Erwärmen der Schale, das abgemessene Pulver, das Schlagen, und trinken ihn mit traditionellen Teesüßigkeiten. Dies von nahem gut gemacht zu beobachten, ist etwas ganz anderes, als in einer vollen Halle bedient zu werden.\n\nEine Bedingung, die Sie einplanen sollten: der Kimono kann nicht außerhalb der Einrichtung getragen werden. Dies ist ein Erlebnis im Haus, keine Vermietung zum Stadtbummel, und wer sich in Sapporo fotografieren möchte, sollte stattdessen eine Straßenvermietung buchen.\n\nGruppen sind auf vier begrenzt, und der Unterricht erfolgt auf Englisch. Zehn Minuten zu Fuß vom Bahnhof Nishi 28-chome.",
+  "highlights": [],
+  "included": [
+   "Kimono-Auswahl und professionelles Anziehen",
+   "Zugang zum modernen japanischen Raum und seinen Kunsthandwerk-Ausstellungen",
+   "Matcha, zubereitet und serviert in einem privaten Teeraum",
+   "Traditionelle Teesüßigkeiten",
+   "Englischsprachiges Personal"
+  ],
+  "notIncluded": [
+   "Tragen des Kimonos außerhalb der Einrichtung",
+   "Transport zum Veranstaltungsort",
+   "Fotografie-Services",
+   "Einkäufe im Kunsthandwerksladen"
+  ]
+ },
+ "sapporo-kumiko-woodworking-workshop": {
+  "title": "Kumiko in Sapporo: einen Holzgitter-Untersetzer ohne einen einzigen Nagel zusammensetzen",
+  "metaTitle": "Kumiko-Holzarbeits-Workshop in Sapporo",
+  "metaDescription": "Einen Kumiko-Holzuntersetzer ohne Nagel zusammensetzen in Sapporo, mit Tee, einer Süßigkeit und einem Kunsthandwerk-Showroom.",
+  "shortDescription": "Neunzig Minuten handgeschnittenes Holz zu einem geometrischen Kumiko-Muster zusammenfügen, das allein durch Reibung zusammenhält, mit Tee, einer Süßigkeit und einem Kunsthandwerk-Showroom.",
+  "fullDescription": "Kumiko ist Tischlerei auf ihre reinste Form reduziert. Dünne Holzstreifen werden geschnitten, eingekerbt und zu geometrischen Gittern ohne Nägel, ohne Schrauben und, traditionell, ohne Leim zusammengefügt: die Teile halten, weil die Winkel präzise genug geschnitten sind, um einzurasten. Es wird seit über tausend Jahren in japanischen Türen, Wandschirmen und Oberlichtern verwendet, und ein einziges Panel kann Hunderte individuell geformter Teile enthalten.\n\nSie werden in neunzig Minuten kein Oberlicht bauen, aber Sie werden einen Untersetzer bauen, und das Set ist so vorbereitet, dass auch ein vollständiger Anfänger etwas wirklich Gutes herstellt. Sie setzen die Teile Schritt für Schritt zusammen, verleimen sie und finishen die Oberfläche mit Schleifpapier, die ganze Abfolge statt eines symbolischen letzten Schritts, was es befriedigend macht.\n\nDie Muster haben Namen und Bedeutungen, und der Guide führt Sie durch die Geschichte und die Geometrie: welche Anordnungen Hanfblätter darstellen, welche eine Schildkrötenschale darstellen, und warum dieselbe Handvoll Winkel so viele Designs erzeugt.\n\nDie Umgebung trägt viel bei. Dies ist ein Kulturraum und Kunsthandwerk-Showroom in Kita-Maruyama, und fertige Kumiko-Arbeiten, die echten, in echtem Maßstab, sind ausgestellt, was Ihren Untersetzer auf die beste Weise ins Verhältnis setzt. Japanischer Tee und eine leichte Süßigkeit werden während der Sitzung serviert, und es gibt einen kuratierten Laden traditionellen Kunsthandwerks zum anschließenden Stöbern.\n\nGruppen sind auf vier begrenzt, der Unterricht erfolgt auf Englisch, und die Einrichtung liegt etwa zehn Minuten zu Fuß vom Bahnhof Nishi 28-chome an der Tozai-Linie. Achten Sie auf das N6-Schild oben rechts an der Fassade.",
+  "highlights": [],
+  "included": [
+   "Kumiko-Holzuntersetzer-Bausatz",
+   "Anleitung und Unterstützung durch das Personal",
+   "Einführung in die Geschichte und Muster von Kumiko",
+   "Japanischer Tee und eine leichte Süßigkeit",
+   "Betrachtung authentischer Kumiko-Arbeiten",
+   "Zugang zum traditionellen Kunsthandwerk-Showroom"
+  ],
+  "notIncluded": [
+   "Transport zum Veranstaltungsort",
+   "Zusätzliche Einkäufe im Kunsthandwerksladen",
+   "Mahlzeiten"
+  ]
+ },
  "japanese-postcard-painting-etegami-workshop-in-kyoto": {
   "title": "Japanischer Postkarten-Malworkshop (Etegami) in Kyoto",
   "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Kyoto. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nKyoto war über tausend Jahre lang bis 1868 Japans Hauptstadt und hat 17 UNESCO-gelistete Stätten unter rund 2.000 Tempeln und Schreinen. Die großen drei sind Kinkaku-ji, der Goldene Pavillon, mit Goldblatt bedeckt und am besten im Morgenlicht; Kiyomizu-dera, die Holzbühne auf den östlichen Hügeln mit den Higashiyama-Gassen von Sannenzaka und Ninenzaka darunter; und die Tore von Fushimi Inari. Die Burg Nijo hat die Nachtigallenböden, die gegen Eindringlinge quietschen, und Ryoan-ji den Steingarten. Tempel öffnen gegen 8:00 oder 9:00 Uhr und schließen um 17:00 Uhr, und der Stadtbus ist langsam; ein Tag mit einem Fahrer oder Guide, der die Stopps gegen die Menschenmassen ordnet, macht den Unterschied zwischen vier Sehenswürdigkeiten und sieben.\n\nIm Preis enthalten sind Traditioneller japanischer Postkarten-Malworkshop, Japanischer Ekaki-Instruktor, Authentische Werkzeuge und Techniken, Digitalisierung und Verbesserung des Kunstwerks und Hochwertige Tragetasche mit aufgedrucktem Design. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
