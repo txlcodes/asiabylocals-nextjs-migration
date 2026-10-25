@@ -58410,6 +58410,127 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "kyoto-arashiyama-sagano-train-hozugawa-boat-onsen": {
+  "title": "Arashiyama en tren Sagano, barco por el Hozugawa y un onsen para terminar",
+  "metaTitle": "Arashiyama: tren Sagano, barco y onsen",
+  "metaDescription": "El tren de Sagano, el barco del rio Hozugawa, el bosque de bambu y un onsen en Arashiyama, con ambas entradas dificiles de reservar incluidas.",
+  "shortDescription": "El tren panoramico que sube el canon, el barco que baja por el rio, el bosque de bambu a pie y unas aguas termales al final, con ambas entradas dificiles de reservar incluidas.",
+  "fullDescription": "Arashiyama se hace normalmente como un paseo: el bosque de bambu, el puente, un templo, y vuelta en tren. Esto lo hace en cambio como un bucle a traves del canon, y es un dia mucho mejor.\n\nEl tren romantico de Sagano va primero. Es una linea preservada que recorre el canon del Hozugawa sobre vias que el ferrocarril moderno abandono, en vagones de lados abiertos, subiendo entre las montanas con el rio debajo. Las entradas se agotan con mucha antelacion en otono y en la temporada de cerezos, y aqui estan incluidas.\n\nLuego baja por el mismo canon sobre el agua. El paseo en barco por el Hozugawa es impulsado con pertigas y remado por barqueros que trabajan el rio con pertigas, a traves de tramos de aguas bravas reales y largas pozas tranquilas, y dura unas dos horas. La perspectiva desde el agua es completamente diferente a la del tren por encima, por eso vale la pena hacer ambos en un dia en lugar de elegir.\n\nEl bosque de bambu sigue a pie, los tallos imponentes y la particular luz verde filtrada que ninguna foto reproduce correctamente.\n\nUn onsen de Arashiyama cierra el dia. La tarifa de entrada a las aguas termales es opcional y se paga por separado si lo desea, pero despues de cuatro horas y media de tren, barco y caminata es el final correcto.\n\nUna advertencia honesta: tanto el tren como el barco son servicios de terceros sujetos al clima y las condiciones del rio. En invierno el operador ofrece un reembolso completo garantizado en las reservas afectadas, un acuerdo mas justo que la mayoria. Los grupos estan limitados a nueve personas y los guias trabajan en ingles y japones.",
+  "highlights": [],
+  "included": [
+   "Entrada del tren romantico de Sagano",
+   "Entrada del barco por el rio Hozugawa",
+   "Paseo guiado por el bosque de bambu de Arashiyama",
+   "Guia de habla inglesa o japonesa"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada a las aguas termales (opcional)",
+   "Comidas",
+   "Transporte de ida y vuelta al punto de encuentro",
+   "Gastos personales"
+  ]
+ },
+ "kyoto-blacksmith-knife-making-workshop": {
+  "title": "Forje un cuchillo de cocina japones en una herreria de Kyoto",
+  "metaTitle": "Taller de forja de cuchillos en Kyoto",
+  "metaDescription": "Tres horas en una herreria activa al norte de Kyoto, uniforme de herrero, martillo y tenazas, y un cuchillo forjado por usted mismo para llevar a casa.",
+  "shortDescription": "Tres horas en una herreria activa en las colinas al norte de Kyoto, uniforme de herrero, martillo y tenazas, y un cuchillo forjado por usted desde acero crudo para llevar a casa.",
+  "fullDescription": "Los cuchillos de cocina japoneses son producto de la tecnica de fabricacion de espadas redirigida. Cuando el gobierno Meiji prohibio llevar espadas en 1876, los herreros que habian pasado generaciones forjando y soldando acero duro y blando se volcaron a las hojas de cocina, por eso un buen cuchillo japones esta laminado como una katana y mantiene un filo que ninguno europeo logra.\n\nEsta sesion de tres horas es el proceso real en lugar de una demostracion. Se cambia al uniforme de artesano que los herreros japoneses realmente usan, lo cual suena a teatro y resulta practico, una herreria es calurosa y salta chispas. Los instructores son profesionales activos del cuchillo, y comienzan con herramientas y seguridad: martillo, tenazas, esmeriladora, y las formas especificas en que cada uno puede hacerle dano si se maneja con descuido.\n\nLuego la forja. Aprende lo que cada etapa hace al acero, como el calor cambia su estructura, por que se golpea donde se golpea, que corrige realmente el esmerilado, y trabaja su propia hoja a traves de la secuencia. Es fisico, caluroso, y considerablemente mas absorbente que la mayoria de los talleres, porque el material responde.\n\nTodo se proporciona: traje, herramientas, materiales, toalla, agua, y una caja y bolsa para llevar el cuchillo terminado a casa. Una opcion premium mejora el mango a madera, lo cual vale la diferencia si pretende usarlo realmente.\n\nEl estudio esta en Yase, en Sakyo-ku, en el borde norte de Kyoto, al pie del monte Hiei, a unos veinte minutos del centro en la linea Eizan, lo cual forma parte del atractivo.\n\nUna nota practica para viajeros: un cuchillo no puede ir en el equipaje de mano. Empaquetelo en su equipaje de bodega.",
+  "highlights": [],
+  "included": [
+   "Sesion de forja de cuchillos de tres horas con instructores profesionales",
+   "Uniforme de herrero",
+   "Todas las herramientas y materiales",
+   "Toalla y agua",
+   "Caja y bolsa para llevarse su cuchillo",
+   "Mango de madera premium en la opcion de mejora"
+  ],
+  "notIncluded": [
+   "Transporte al estudio",
+   "Comidas",
+   "Envio de su cuchillo"
+  ]
+ },
+ "nagoya-tokugawa-art-museum-guided-tour": {
+  "title": "El museo de arte Tokugawa con guia: armaduras, tunicas de noh y el hogar de un shogun",
+  "metaTitle": "Museo de arte Tokugawa con guia, Nagoya",
+  "metaDescription": "Tres horas en la coleccion privada de la familia Owari Tokugawa, con un guia que elige los objetos que merece la pena detenerse a observar.",
+  "shortDescription": "Tres horas en la coleccion privada de la familia Owari Tokugawa, con un guia que elige los objetos que merece la pena detenerse a observar.",
+  "fullDescription": "La mayoria de los museos de samuráis le muestran armas. El museo de arte Tokugawa en Nagoya le muestra un hogar, las pertenencias de la rama Owari, la mas antigua de las tres casas Tokugawa, conservadas juntas desde el periodo Edo en lugar de reunidas por coleccionistas despues. Esa continuidad es lo que lo hace inusual: estos son los objetos que una familia realmente poseyo y uso.\n\nLas espadas y armaduras estan ahi, y son excepcionales. Pero el verdadero argumento de la coleccion trata sobre lo que le ocurrio a la clase guerrera una vez que los combates terminaron. El shogunato Tokugawa mantuvo a Japon en paz durante dos siglos y medio, y los hombres que habian sido comandantes de campo de batalla se convirtieron en administradores, mecenas y conocedores. Esa transformacion se ve en los objetos: utensilios de te elegidos con cuidado obsesivo, trajes e instrumentos de noh, biombos pintados, mobiliario lacado, y ajuares de boda reunidos a una escala dificil de comprender.\n\nUn guia importa aqui mas que en un castillo. El etiquetado del museo asume un contexto que un visitante no tiene, y tres horas con alguien que selecciona un puñado de objetos clave y explica las historias detras de ellos vale mas que un dia completo leyendo carteles. Lo expuesto rota segun el calendario de exposiciones, por lo que las piezas especificas varian segun la temporada.\n\nEl grupo esta limitado a ocho personas y el guia trabaja en ingles. El museo esta en Tokugawacho, al este de Nagoya, junto a Tokugawaen, un jardin japones en el sitio de la residencia de retiro de la familia, que merece una hora adicional si el clima es bueno.",
+  "highlights": [],
+  "included": [
+   "Tour guiado del museo de arte Tokugawa",
+   "Acceso a las exhibiciones de artefactos de la familia Tokugawa",
+   "Contexto sobre el periodo Edo y la cultura samurai",
+   "Guia de habla inglesa con conocimientos de historia japonesa"
+  ],
+  "notIncluded": [
+   "Transporte al museo",
+   "Comida y bebidas",
+   "Entrada al jardin Tokugawaen",
+   "Recogida y regreso al hotel"
+  ]
+ },
+ "uji-tea-museum-and-matcha-grinding-experience": {
+  "title": "Muela su propio matcha en Uji: el museo del te en Chazuna",
+  "metaTitle": "Museo del te y molienda de matcha en Uji",
+  "metaDescription": "Una hora en la ciudad que ha suministrado el mejor te verde de Japon durante ocho siglos, entrada al museo mas molienda de su propio matcha en un molino de piedra.",
+  "shortDescription": "Una hora en la ciudad que ha suministrado el mejor te verde de Japon durante ocho siglos, entrada al museo mas molienda de su propio matcha en un molino de piedra.",
+  "fullDescription": "Uji es la razon por la que el te japones es te japones. Las plantaciones aqui se establecieron en el siglo XIII, la tecnica de sombreado que produce el gyokuro y el matcha se desarrollo en este valle, y la ciudad sigue suministrando el te usado en ceremonias formales en todo el pais. Esta a veinte minutos al sur de Kyoto y la mayoria de los visitantes pasan por aqui hacia Byodo-in sin nunca ocuparse del te.\n\nChazuna es el museo construido para solucionar eso, en el Parque Historico del Te y Uji. Las exhibiciones son practicas y digitales en lugar de vitrinas de cristal, como se cultiva y procesa la hoja, de donde viene el te de Uji, y la pregunta practica que todos realmente quieren que se responda, que separa al gyokuro del sencha y como preparar cualquiera de ellos sin estropearlo. La sala de historia cubre la propia ciudad, incluyendo el salon fenix de Byodo-in que aparece en el reverso de la moneda de diez yenes.\n\nLa parte por la que merece la pena venir es la molienda. El matcha no se pulveriza en una maquina para el trabajo ceremonial; se muele en un molino de piedra, lentamente, y usted gira la manivela. Lleva mucho mas tiempo de lo que cualquiera espera, una hora de molienda produce unos cuarenta gramos, y entender eso es lo que hace que el precio del buen matcha tenga sentido. Usted bebe lo que prepara.\n\nLa instruccion esta disponible en ingles y japones, el grupo esta limitado a veinte personas, y el lugar es accesible para sillas de ruedas. A este precio es una de las experiencias culturales mas economicas de la zona de Kyoto, y combina naturalmente con Byodo-in y un paseo junto al rio Uji.",
+  "highlights": [],
+  "included": [
+   "Entrada al museo Chazuna",
+   "Experiencia de molienda de matcha en un molino de piedra",
+   "Instructor en ingles o japones",
+   "El matcha que usted elabora"
+  ],
+  "notIncluded": [
+   "Transporte a Uji",
+   "Comida y bebidas adicionales",
+   "Entrada a Byodo-in",
+   "Recogida y regreso al hotel"
+  ]
+ },
+ "kyoto-zazen-meditation-private-temple-with-monk": {
+  "title": "Zazen con un monje en un templo de Kyoto cerrado al publico",
+  "metaTitle": "Zazen con un monje en Kyoto",
+  "metaDescription": "Noventa minutos de meditacion zen con un monje en un templo de Higashiyama al que los visitantes normalmente no pueden entrar, con te en el jardin al final.",
+  "shortDescription": "Noventa minutos de meditacion zen sentada impartida por un monje en un templo de Higashiyama que los visitantes normalmente no pueden entrar, terminando con te en el jardin.",
+  "fullDescription": "El zen llego a Japon desde China en el siglo XII y Kyoto es donde arraigo, pero los templos que lo practican en serio estan en su mayoria cerrados a los visitantes, lo cual es la parte frustrante de intentar encontrar el zen en la ciudad mas asociada con el.\n\nEsta sesion tiene lugar dentro de uno de esos templos. No esta en el circuito publico, entra con un guia, y la sala no se comparte con una cola de turistas.\n\nUn monje la dirige. Hay una breve introduccion al zen y su lugar en la cultura japonesa, luego una leccion adecuada sobre el zazen, la meditacion sentada que constituye toda la practica del zen Soto, cubriendo la postura, la respiracion, que hacer con los ojos, y para que sirve realmente la practica. Luego se sienta. Es mas dificil de lo que suena y la dificultad es el punto: la instruccion es dejar de gestionar sus pensamientos y simplemente dejarlos pasar, algo que casi nadie logra en el primer intento, y el monje lo dira sin rodeos.\n\nDespues hay te, con vistas a los jardines del templo, y tiempo para hacer el tipo de preguntas que solo se le ocurren despues de haberlo intentado. Se permiten fotos con el monje y dentro del templo, lo cual es inusual y vale la pena tener.\n\nLos grupos estan limitados a nueve personas, y hay disponible una sesion privada si prefiere tener la atencion del monje para usted solo. La entrada al templo esta incluida. El encuentro es en el parque Kodaiji en Higashiyama, el guia espera en el lado norte, y el templo esta a poca distancia a pie. La ruta es accesible para sillas de ruedas.",
+  "highlights": [],
+  "included": [
+   "Entrada a un templo que no esta abierto al publico general",
+   "Charla de un monje sobre los principios y la tecnica del zazen",
+   "Practica guiada de zazen",
+   "Te con vistas a los jardines del templo",
+   "Guia de habla inglesa"
+  ],
+  "notIncluded": [
+   "Transporte al punto de encuentro",
+   "Comidas",
+   "Recogida y regreso al hotel"
+  ]
+ },
+ "izu-peninsula-day-trip-from-tokyo-mount-omuro-jogasaki": {
+  "title": "La peninsula de Izu desde Tokio: el monte Omuro, la costa de lava de Jogasaki y Shuzenji",
+  "metaTitle": "Peninsula de Izu desde Tokio",
+  "metaDescription": "Un dia en la peninsula de Izu desde Tokio, el monte Omuro, la costa de lava de Jogasaki, y el pueblo de onsen de Shuzenji.",
+  "shortDescription": "Un dia en la costa que la mayoria de los visitantes de Tokio nunca alcanzan, un telesilla a un volcan de hierba, un puente colgante sobre acantilados de lava, y un pueblo de onsen llamado Pequena Kyoto.",
+  "fullDescription": "Casi todas las excursiones al sur de Tokio van a Hakone o Kamakura. Izu esta mas lejos, es mas tranquila y geologicamente mas extrana, y esa es la razon para elegir esta en lugar de una quinta version de los lagos del Fuji.\n\nEl monte Omuro es la primera parada y se ve equivocado de la mejor manera: un volcan con forma de cuenco invertido perfectamente simetrico, de 580 metros de altura, completamente cubierto de hierba porque toda la superficie se quema una vez al ano en un fuego controlado que se repite desde hace siete siglos. Un telesilla sube hasta el borde, y desde arriba tiene una vista de 360 grados sobre el Fuji por un lado y las islas de Izu dispersas en el mar por el otro.\n\nLa costa de Jogasaki sigue. Aqui es donde un flujo de lava del Omuro se encontro con el Pacifico y se enfrio en acantilados columnares, y el puente colgante de Kadowaki se extiende sobre un hueco entre ellos, cuarenta y ocho metros de pasarela con el mar moviendose debajo. Es mas emocionante de lo que las fotos sugieren.\n\nShuzenji cierra el dia, un pueblo de onsen en un canon fluvial con puentes rojos, un camino de bambu y un templo fundado en el siglo IX, con suficiente encanto para ser llamado habitualmente una Pequena Kyoto.\n\nLa recogida en el hotel esta incluida dentro de los cuatro distritos centrales de Tokio, Shinjuku, Chiyoda, Chuo y Taito, con un punto de encuentro designado para quienes se alojen fuera de ellos. La recogida es entre las 8:00 y las 8:45 y se confirma el dia anterior, ya que se trata de un vehiculo compartido.\n\nLas comidas no estan incluidas. Existe una version de dos dias que anade una noche con desayuno en habitacion doble, la mejor opcion si quiere disfrutar de Shuzenji adecuadamente en lugar de solo pasar por el.",
+  "highlights": [],
+  "included": [
+   "Transporte de ida y vuelta desde Tokio en vehiculo privado",
+   "Servicio de conductor",
+   "Recogida en el hotel dentro de los cuatro distritos centrales de Tokio",
+   "Una noche de alojamiento en habitacion doble con desayuno (en la opcion de dos dias)"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Actividades opcionales y entradas a atracciones en los destinos",
+   "Gastos personales",
+   "Seguro de viaje"
+  ]
+ },
  "japanese-postcard-painting-etegami-workshop-in-kyoto": {
   "title": "Taller de pintura de postales japonesas (etegami) en Kyoto",
   "fullDescription": "Esta es una experiencia de 1 hora en Kyoto. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nKyoto fue la capital de Japón durante más de mil años hasta 1868 y tiene 17 sitios catalogados por la UNESCO entre unos 2.000 templos y santuarios. Los tres grandes son Kinkaku-ji, el Pabellón Dorado, cubierto de pan de oro y mejor con la luz de la mañana; Kiyomizu-dera, el escenario de madera en las colinas orientales con los callejones de Higashiyama de Sannenzaka y Ninenzaka debajo; y las puertas de Fushimi Inari. El castillo de Nijo tiene los pisos del ruiseñor que chirrían contra los intrusos, y Ryoan-ji el jardín de piedras. Los templos abren alrededor de las 8:00 o 9:00 y cierran a las 17:00, y el autobús municipal es lento; un día con un conductor o guía que ordena las paradas contra las multitudes es la diferencia entre cuatro sitios y siete.\n\nEl precio incluye taller tradicional de pintura de postales japonesas, Instructor Ekaki japonés, herramientas y técnicas autenticas, digitalización y mejora de la obra de arte y bolsa de alta calidad con diseño impreso. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
