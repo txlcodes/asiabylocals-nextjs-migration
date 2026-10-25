@@ -57837,6 +57837,90 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comidas y costos de transporte"
   ]
  },
+ "hiroshima-highlights-private-tour": {
+  "title": "Tour privado de lo mas destacado de Hiroshima: memorial de la Paz, castillo y Shukkei-en",
+  "metaTitle": "Tour privado de Hiroshima: lo mas destacado",
+  "metaDescription": "Explore Hiroshima con un guia local japones. Visite la Cupula de la Bomba Atomica, el parque y museo memorial de la Paz, con historias familiares.",
+  "shortDescription": "Explore Hiroshima con un guia local japones. Visite la Cupula de la Bomba Atomica, el parque memorial de la Paz y el museo mientras escucha historias familiares, perspectivas locales y como se recupero Hiroshima.",
+  "fullDescription": "Hiroshima es mas que los eventos de una manana de agosto, y este tour privado esta disenado para mostrarle ambas caras de la ciudad: los memoriales de paz que el mundo conoce, y el castillo, el jardin y los barrios cotidianos para los que la mayoria de los visitantes nunca dedica tiempo. Su guia local japones, de una empresa cuyos guias tienen vinculos personales y familiares profundos con la ciudad, lo recoge en cualquiera de catorce puntos centrales. La manana comienza con una hora completa guiada en el Museo Memorial de la Paz, donde tener a un interprete local a su lado transforma las exhibiciones de artefactos y testimonios de supervivientes. Desde alli camina por el parque memorial de la Paz hasta la Cupula de la Bomba Atomica, escuchando no historia de libro de texto sino historias familiares, lo que vieron los abuelos, como se reconstruyeron los barrios, como la ciudad habla de ese dia entre si. Luego el tour cambia deliberadamente de registro. Una corta caminata lo lleva al castillo de Hiroshima, la torre reconstruida de cinco pisos de los senores feudales que fundaron la ciudad, su foso y terrenos recuerdan que Hiroshima tuvo cuatro siglos de historia antes de 1945. El dia termina con una hora completa y sin prisas en Shukkei-en, el exquisito jardin paisajistico de la decada de 1620 cuyo nombre significa paisaje en miniatura, donde montanas en miniatura, puentes y pabellones de te rodean un estanque central. El jardin mismo fue destruido en el bombardeo y replantado, lo que su guia le contara mientras camina por su circuito; los supervivientes se refugiaron aqui entre los arboles quemados. Es un dia sobre destruccion y continuidad en igual medida, con una calificacion perfecta de cinco estrellas de los viajeros que lo han hecho.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "hiroshima-history-walking-tour": {
+  "title": "Caminata historica de Hiroshima: parque de la Paz y Cupula de la Bomba A en grupo pequeno",
+  "metaTitle": "Caminata historica de Hiroshima en grupo pequeno",
+  "metaDescription": "Explore la historia de Hiroshima en una caminata en grupo pequeno. Comprenda el impacto del bombardeo atomico y como la ciudad se transformo en un simbolo de paz.",
+  "shortDescription": "Explore la historia de Hiroshima en una caminata en grupo pequeno. Comprenda el impacto del bombardeo atomico y sea testigo de como la ciudad se transformo en un simbolo de paz y resiliencia.",
+  "fullDescription": "El parque memorial de la Paz no es un unico monumento sino un paisaje de muchos mas pequenos, y la mayoria de los visitantes pasa junto a la mayoria de ellos sin saber que estan mirando. Esta caminata en grupo pequeno existe para corregir eso. Durante aproximadamente dos horas, su guia lo lleva monumento por monumento por el parque: la estatua de la Madre y el Bebe en la Tormenta, la Fuente de la Oracion, el Cenotafio Conmemorativo que enmarca la Cupula de la Bomba A a traves de su arco, la Llama de la Paz que ardera hasta que se desmantele la ultima arma nuclear, y el Monumento a la Paz de los Ninos cubierto de miles de grullas de papel plegadas enviadas desde todo el mundo. La ruta tambien incluye paradas que muchos tours omiten por completo, incluido el Cenotafio de las Victimas Coreanas de la Bomba Atomica, que abre una conversacion sobre las decenas de miles de trabajadores coreanos que murieron en el bombardeo, y el Salon Nacional Conmemorativo de la Paz, donde se conservan los nombres y fotografias de las victimas. La caminata termina en la Cupula de la Bomba Atomica y el cercano marcador del hipocentro, una placa sencilla en una calle lateral sobre la que realmente detono la bomba, un lugar que la mayoria de los visitantes independientes nunca encuentran. Como el grupo se mantiene pequeno, hay espacio para hacer preguntas, y los guias estan capacitados para contar esta historia con honestidad y cuidado en lugar de melodrama. Casi 600 resenadores han calificado la experiencia cerca de cinco estrellas. Si quiere dejar Hiroshima entendiendo no solo lo que paso aqui sino como la ciudad se reconstruyo a si misma en un simbolo de paz y resiliencia, estas dos horas son la mejor base que puede sentar.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "hiroshima-memorial-walking-tour": {
+  "title": "Caminata guiada en grupo por el parque memorial de la Paz de Hiroshima y la Cupula de la Bomba A",
+  "metaTitle": "Caminata guiada por el parque de la Paz de Hiroshima",
+  "metaDescription": "Unase a una caminata por el parque memorial de la Paz de Hiroshima con un guia local. Explore la Cupula de la Bomba Atomica, el Cenotafio y tesoros ocultos.",
+  "shortDescription": "Unase a una caminata por el parque memorial de la Paz de Hiroshima con un guia local. Explore la Cupula de la Bomba Atomica, el Cenotafio y tesoros ocultos mientras aprende el mensaje de paz de Hiroshima.",
+  "fullDescription": "Si su tiempo en Hiroshima es corto, esta caminata en grupo de dos horas con el operador local F and Five cubre el terreno esencial del parque memorial de la Paz sin apresurarlo. Se encuentra con su guia en Nakajimacho, en el borde sur del parque, y entra por las Puertas de la Paz, la fila de altos arcos de vidrio inscritos con la palabra paz en decenas de idiomas. Desde alli la ruta se mueve parada por parada a traves del nucleo del parque: la Fuente de la Oracion, el Cenotafio Conmemorativo donde se conserva el registro de los nombres de las victimas y donde el arco enmarca deliberadamente la Cupula de la Bomba Atomica en la distancia, y la Llama de la Paz, encendida en 1964 y ardiendo continuamente hasta el dia en que se destruya la ultima arma nuclear del mundo. Su guia se detiene en el Cenotafio de las Victimas Coreanas de la Bomba Atomica para contar una parte de la historia que las narrativas oficiales descuidaron durante mucho tiempo, y en el Monumento a la Paz de los Ninos, inspirado en Sadako Sasaki y sus mil grullas de papel, aun hoy rodeado de grullas plegadas por escolares de todo el mundo. La caminata termina en la propia Cupula de la Bomba Atomica, la ruina junto al rio preservada exactamente como la dejo la explosion en agosto de 1945, donde tiene tiempo para fotos y preguntas antes de que el grupo se disuelva, perfectamente posicionado para continuar al Museo Memorial de la Paz por su cuenta. Los guias son locales que crecieron con esta historia, y los resenadores describen constantemente el tour como conmovedor sin ser pesado. Es una introduccion respetuosa y clara al lugar, y en dos horas combina naturalmente con una tarde en Miyajima.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "hiroshima-miyajima-day-trip-from-tokyo-shinkansen": {
+  "title": "Hiroshima y Miyajima en un dia desde Tokio, en shinkansen",
+  "metaTitle": "Hiroshima y Miyajima desde Tokio en shinkansen",
+  "metaDescription": "Un dia largo y bien organizado: tren bala desde Tokio, el torii flotante de Miyajima, y el parque memorial de la Paz con un guia que explica lo que ve.",
+  "shortDescription": "Un dia largo y bien organizado: tren bala desde Tokio, el torii flotante de Miyajima, y el parque memorial de la Paz con un guia que puede explicar lo que esta viendo.",
+  "fullDescription": "Hiroshima esta a 800 kilometros de Tokio, y la unica razon por la que esto funciona como excursion de un dia es el shinkansen. Los boletos de ida y vuelta estan incluidos en la opcion de Tokio, que es la parte cara del dia y la parte que la mayoria de la gente preferiria no organizar por si misma. Si ya esta en el oeste de Japon, hay una opcion mas economica que se salta el tren y comienza directamente en la estacion de Hiroshima.\n\nEl dia esta construido alrededor de dos lugares muy diferentes. Miyajima viene primero, alcanzado por ferry a traves de un corto tramo del Mar Interior. El santuario de Itsukushima esta construido sobre pilotes encima del agua, y en marea alta su torii bermellon parece flotar lejos de la orilla, la imagen que la mayoria de la gente ya tiene de Japon sin saber de donde viene. La entrada al santuario esta incluida. La isla es lo bastante pequena para pasear: los ciervos se mueven libremente por las calles, las calles comerciales venden ostras asadas y momiji manju, los pasteles con forma de hoja de arce hechos aqui desde principios de 1900, y el ritmo es mas lento que en cualquier lugar donde haya estado en Tokio.\n\nLuego el ferry de vuelta, y Hiroshima. El parque memorial de la Paz ocupa el terreno que estaba directamente debajo de la detonacion de 1945, y la Cupula de la Bomba A, dejada deliberadamente como estaba, es el unico edificio de la ciudad que no fue reconstruido. Un guia importa aqui mas que en cualquier otra parada. El parque se lee como un agradable espacio junto al rio si no sabe lo que marca cada monumento, y entender la disposicion, el cenotafio y el memorial de los ninos cambia la visita por completo.\n\nSea honesto consigo mismo sobre la duracion. Con el tren en ambos extremos, este es un dia de dieciseis horas y volvera tarde a Tokio. Las comidas no estan incluidas, lo cual es deliberado, las ostras de Miyajima y el okonomiyaki de Hiroshima merecen elegirse por cuenta propia. Los grupos llegan hasta un maximo de treinta personas y el guia trabaja en ingles durante todo el recorrido.",
+  "highlights": [],
+  "included": [
+   "Tren bala de ida y vuelta desde Tokio (en la opcion de Tokio), guia de habla inglesa para todo el dia, cruce en ferry a Miyajima y de vuelta, entrada al santuario de Itsukushima, visita guiada al parque memorial de la Paz de Hiroshima y la Cupula de la Bomba A"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas, recogida y regreso al hotel, entrada al Museo Memorial de la Paz, propinas"
+  ]
+ },
+ "hiroshima-morning-tour": {
+  "title": "Hiroshima en bicicleta: paseo matutino guiado a iconos y tesoros ocultos",
+  "metaTitle": "Hiroshima en bicicleta por la manana",
+  "metaDescription": "Descubra Hiroshima en un paseo en bicicleta guiado, relajante y divertido, junto a los lugares emblematicos y tesoros desconocidos de la ciudad.",
+  "shortDescription": "Descubra Hiroshima en un paseo en bicicleta guiado, relajante y divertido, junto a los lugares emblematicos de la ciudad y tesoros desconocidos. Una forma de ahorrar tiempo para ver lo mejor de esta ciudad acogedora en una sola manana.",
+  "fullDescription": "Hiroshima es una de las mejores ciudades para andar en bicicleta de Japon y casi nadie lo sabe: plana como una mesa, surcada de rios y generosos senderos junto al agua, y lo bastante compacta para que una manana en el sillin cubra lo que un caminante necesita dos dias para ver. Este paseo guiado de tres horas y media con InKansai esta construido exactamente sobre esa idea. Despues de un ajuste y una charla de seguridad, su pequeno grupo sale con un guia local en una ruta relajada y divertida que enlaza los iconos de la ciudad, el castillo de Hiroshima con su foso y torre reconstruida, el parque memorial de la Paz y la Cupula de la Bomba Atomica, junto a los tesoros desconocidos que ningun tour en autobus alcanza: calles traseras tranquilas, barrios locales, tramos junto al rio donde las garzas pescan bajo los puentes, y miradores que su guia ha recopilado a lo largo de anos pedaleando aqui. La bicicleta cambia su relacion con la ciudad. Distancias que consumirian el horario de un tour a pie pasan en minutos, asi que la manana tiene espacio tanto para lo significativo como para lo incidental, y el comentario continuo del guia explica como funciona realmente hoy esta ciudad acogedora y reconstruida, no solo lo que le sucedio en 1945. El ritmo es deliberadamente facil, con paradas frecuentes para fotos e historias; si sabe andar en bicicleta, puede hacer este tour. Con una calificacion cercana a 4,9 de mas de 120 resenas, se ha convertido en la forma en que los viajeros informados se orientan el primer dia en Hiroshima, terminando alrededor de la hora del almuerzo con toda la tarde libre, y con un mapa mental de la ciudad que facilita todo lo que haga despues.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "hiroshima-museum-walking-tour": {
+  "title": "Caminata privada guiada por el parque y museo memorial de la Paz de Hiroshima",
+  "metaTitle": "Caminata privada por el museo de la Paz de Hiroshima",
+  "metaDescription": "Explore el parque memorial de la Paz de Hiroshima con un guia privado. Adentrese en exhibiciones de relatos personales y artefactos.",
+  "shortDescription": "Explore el parque memorial de la Paz de Hiroshima con un guia privado. Adentrese en exhibiciones de relatos personales y artefactos que dan testimonio de la tragedia de la guerra nuclear.",
+  "fullDescription": "El Museo Memorial de la Paz es el centro emocional de cualquier visita a Hiroshima, y tambien es la parte que la mayoria de los viajeros experimenta peor, moviendose por galerias concurridas sin contexto, sin saber que estan mirando ni como se conectan las piezas. Este tour privado de dos horas y media de Voyagers esta disenado para hacer el museo y su parque correctamente. Con encuentro en la parada de taxis cerca del parque memorial de la Paz, su guia privado comienza afuera con las Puertas de la Paz y el poco conocido memorial al Dr. Marcel Junod, el medico de la Cruz Roja que llevo suministros medicos a la ciudad en ruinas. Luego viene una hora completa dentro del museo, donde el guia le ayuda a navegar exhibiciones de relatos personales y artefactos, pertenencias, fotografias, testimonios, que dan testimonio de la realidad de la guerra nuclear, ritmando la visita para que informe en lugar de abrumar. De vuelta afuera, la caminata recorre la evidencia viva del parque: los arboles fenix bombardeados que sobrevivieron a la explosion y aun crecen hoy, el pequeno Salon de Exhibicion de las Ruinas de la Bomba A, el Cenotafio Conmemorativo de las Victimas y la Llama de la Paz, el Monumento a la Paz de los Ninos, el Cenotafio de las Victimas Coreanas y el Salon Nacional Conmemorativo de la Paz. Termina en la Cupula de la Bomba Atomica, la Casa de Descanso bombardeada y el marcador del hipocentro, la modesta placa sobre la que detono la bomba. Como el tour es privado, usted establece el ritmo emocional, demorandose, preguntando, o simplemente quedandose en silencio, y el guia se ajusta. Los resenadores califican la experiencia cerca de 4,9 y constantemente atribuyen a sus guias haber convertido la visita mas dificil de su viaje en la mas significativa.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara en Myokaku-ji: coreografia de espada filmada en el recinto del templo",
   "metaTitle": "Experiencia de chambara con espada en Kyoto",

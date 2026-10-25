@@ -57837,6 +57837,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Repas et frais de transport"
   ]
  },
+ "hiroshima-highlights-private-tour": {
+  "title": "Visite privee des incontournables d'Hiroshima : memorial de la Paix, chateau et Shukkei-en",
+  "metaTitle": "Visite privee des incontournables d'Hiroshima",
+  "metaDescription": "Explorez Hiroshima avec un guide local japonais. Visitez le Dome de la Bombe Atomique, le parc et le musee memorial de la Paix, avec histoires familiales.",
+  "shortDescription": "Explorez Hiroshima avec un guide local japonais. Visitez le Dome de la Bombe Atomique, le parc memorial de la Paix et le musee en entendant des histoires familiales, des perspectives locales et comment Hiroshima s'est remise.",
+  "fullDescription": "Hiroshima est bien plus que les evenements d'une matinee d'aout, et cette visite privee est concue pour vous montrer les deux visages de la ville : les memoriaux de la paix que le monde connait, et le chateau, le jardin et les quartiers du quotidien que la plupart des visiteurs ne prennent jamais le temps de voir. Votre guide local japonais, issu d'une entreprise dont les guides ont des liens personnels et familiaux profonds avec la ville, vous prend en charge a l'un des quatorze points de rendez-vous centraux. La matinee commence par une heure complete guidee au musee memorial de la Paix, ou avoir un interprete local a vos cotes transforme les expositions d'objets et les temoignages de survivants. De la, vous marchez dans le parc memorial de la Paix jusqu'au Dome de la Bombe Atomique, entendant non pas une histoire de manuel scolaire mais des histoires familiales, ce que les grands-parents ont vu, comment les quartiers se sont reconstruits, comment la ville parle de ce jour entre elle. Puis la visite change deliberement de registre. Une courte marche vous mene au chateau d'Hiroshima, le donjon reconstruit a cinq etages des seigneurs feodaux qui ont fonde la ville, ses fosses et son terrain rappelant qu'Hiroshima avait quatre siecles d'histoire avant 1945. La journee se termine par une heure complete et tranquille a Shukkei-en, l'exquis jardin paysager des annees 1620 dont le nom signifie paysage reduit, ou des montagnes miniatures, des ponts et des pavillons a the entourent un etang central. Le jardin a lui-meme ete detruit par le bombardement et replante, ce que votre guide vous racontera en parcourant son chemin circulaire ; des survivants s'y sont abrites parmi les arbres brules. C'est une journee sur la destruction et la continuite a parts egales, avec une note parfaite de cinq etoiles de la part des voyageurs qui l'ont faite.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans l'itineraire"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "hiroshima-history-walking-tour": {
+  "title": "Marche historique d'Hiroshima : parc de la Paix et Dome de la Bombe A en petit groupe",
+  "metaTitle": "Marche historique d'Hiroshima en petit groupe",
+  "metaDescription": "Explorez l'histoire d'Hiroshima en petit groupe. Comprenez l'impact du bombardement atomique et comment la ville est devenue un symbole de paix.",
+  "shortDescription": "Explorez l'histoire d'Hiroshima lors d'une marche en petit groupe. Comprenez l'impact du bombardement atomique et constatez comment la ville s'est transformee en symbole de paix et de resilience.",
+  "fullDescription": "Le parc memorial de la Paix n'est pas un seul monument mais un paysage compose de nombreux plus petits, et la plupart des visiteurs passent devant la majorite d'entre eux sans savoir ce qu'ils regardent. Cette marche en petit groupe existe pour corriger cela. Pendant environ deux heures, votre guide vous conduit memorial par memorial a travers le parc : la statue de la Mere et l'Enfant dans la Tempete, la fontaine de la Priere, le cenotaphe memorial qui encadre le Dome de la Bombe A dans son arche, la Flamme de la Paix qui brulera jusqu'au demantelement de la derniere arme nucleaire, et le monument de la Paix des Enfants drape de milliers de grues en papier plie envoyees du monde entier. L'itineraire comprend aussi des arrets que beaucoup de visites ignorent completement, notamment le cenotaphe des victimes coreennes de la bombe atomique, qui ouvre une conversation sur les dizaines de milliers de travailleurs coreens morts dans le bombardement, et le hall memorial national de la Paix, ou sont conserves les noms et les photographies des victimes. La marche se termine au Dome de la Bombe Atomique et au marqueur de l'hypocentre voisin, une simple plaque sur une rue laterale au-dessus de laquelle la bombe a reellement explose, un endroit que la plupart des visiteurs independants ne trouvent jamais. Comme le groupe reste petit, il y a de la place pour poser des questions, et les guides sont experimentes pour raconter cette histoire avec honnetete et soin plutot qu'avec du melodrame. Pres de 600 personnes ont note l'experience proche de cinq etoiles. Si vous voulez quitter Hiroshima en comprenant non seulement ce qui s'est passe ici mais comment la ville s'est reconstruite en symbole de paix et de resilience, ces deux heures sont la meilleure base que vous puissiez poser.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans l'itineraire"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "hiroshima-memorial-walking-tour": {
+  "title": "Marche guidee en groupe au parc memorial de la Paix d'Hiroshima et au Dome de la Bombe A",
+  "metaTitle": "Marche guidee au parc memorial de la Paix d'Hiroshima",
+  "metaDescription": "Rejoignez une visite a pied du parc memorial de la Paix d'Hiroshima avec un guide local. Explorez le Dome de la Bombe Atomique, le cenotaphe et des tresors caches.",
+  "shortDescription": "Rejoignez une visite a pied du parc memorial de la Paix d'Hiroshima avec un guide local. Explorez le Dome de la Bombe Atomique, le cenotaphe et des tresors caches en apprenant le message de paix d'Hiroshima.",
+  "fullDescription": "Si votre temps a Hiroshima est court, cette marche en groupe de deux heures avec l'operateur local F and Five couvre le terrain essentiel du parc memorial de la Paix sans se presser. Vous rencontrez votre guide a Nakajimacho, a la lisiere sud du parc, et entrez par les Portes de la Paix, la rangee de hautes arches en verre inscrites avec le mot paix en des dizaines de langues. De la, l'itineraire se deplace arret par arret a travers le cœur du parc : la fontaine de la Priere, le cenotaphe memorial ou est conserve le registre des noms des victimes et ou l'arche encadre deliberement le Dome de la Bombe Atomique au loin, et la Flamme de la Paix, allumee en 1964 et brulant continuellement jusqu'au jour ou la derniere arme nucleaire du monde sera detruite. Votre guide s'arrete au cenotaphe des victimes coreennes de la bombe atomique pour raconter une partie de l'histoire longtemps negligee par les recits officiels, et au monument de la Paix des Enfants, inspire par Sadako Sasaki et ses mille grues en papier, encore aujourd'hui entoure de grues pliees par des ecoliers du monde entier. La marche se termine au Dome de la Bombe Atomique lui-meme, la ruine au bord de la riviere preservee exactement comme l'explosion l'a laissee en aout 1945, ou vous avez du temps pour des photos et des questions avant que le groupe se disperse, parfaitement place pour continuer seul au musee memorial de la Paix. Les guides sont des locaux qui ont grandi avec cette histoire, et les avis decrivent systematiquement la visite comme emouvante sans etre pesante. C'est une introduction respectueuse et lucide au lieu, et a deux heures elle s'accorde naturellement avec un apres-midi a Miyajima.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans l'itineraire"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "hiroshima-miyajima-day-trip-from-tokyo-shinkansen": {
+  "title": "Hiroshima et Miyajima en une journee depuis Tokyo, en shinkansen",
+  "metaTitle": "Hiroshima et Miyajima depuis Tokyo en shinkansen",
+  "metaDescription": "Une longue journee bien organisee : train a grande vitesse depuis Tokyo, le torii flottant de Miyajima, et le parc memorial de la Paix avec un guide.",
+  "shortDescription": "Une longue journee bien organisee : train a grande vitesse depuis Tokyo, le torii flottant de Miyajima, et le parc memorial de la Paix avec un guide qui peut expliquer ce que vous regardez.",
+  "fullDescription": "Hiroshima se trouve a 800 kilometres de Tokyo, et la seule raison pour laquelle cela fonctionne comme excursion d'une journee est le shinkansen. Les billets aller-retour sont inclus dans l'option Tokyo, qui est la partie couteuse de la journee et celle que la plupart des gens preferent ne pas organiser eux-memes. Si vous etes deja dans l'ouest du Japon, une option moins chere evite le train et commence directement a la gare d'Hiroshima.\n\nLa journee est construite autour de deux lieux tres differents. Miyajima vient en premier, accessible par ferry a travers un court tronçon de la mer interieure. Le sanctuaire d'Itsukushima est construit sur pilotis au-dessus de l'eau, et a maree haute son torii vermillon semble flotter loin du rivage, l'image que la plupart des gens ont deja du Japon sans savoir d'ou elle vient. L'entree au sanctuaire est incluse. L'ile est assez petite pour se promener : les cerfs se deplacent librement dans les rues, les rues commercantes vendent des huitres grillees et des momiji manju, les gateaux en forme de feuille d'erable fabriques ici depuis le debut des annees 1900, et le rythme est plus lent que partout ou vous aurez ete a Tokyo.\n\nPuis le ferry retour, et Hiroshima. Le parc memorial de la Paix occupe le terrain qui se trouvait directement sous la detonation de 1945, et le Dome de la Bombe A, laisse deliberement tel qu'il se tenait, est le seul batiment de la ville qui n'a pas ete reconstruit. Un guide compte plus ici qu'a tout autre arret. Le parc se lit comme un agreable espace au bord de la riviere si vous ne savez pas ce que marque chaque monument, et comprendre la disposition, le cenotaphe et le memorial des enfants change entierement la visite.\n\nSoyez honnete avec vous-meme sur la duree. Avec le train aux deux extremites, c'est une journee de seize heures et vous reviendrez tard a Tokyo. Les repas ne sont pas inclus, ce qui est deliberement ainsi, les huitres de Miyajima et l'okonomiyaki d'Hiroshima valent le coup d'etre choisis par vous-meme. Les groupes vont jusqu'a trente personnes maximum et le guide travaille en anglais tout au long.",
+  "highlights": [],
+  "included": [
+   "Train a grande vitesse aller-retour depuis Tokyo (sur l'option Tokyo), guide anglophone pour la journee complete, traversee en ferry vers Miyajima et retour, entree au sanctuaire d'Itsukushima, visite guidee du parc memorial de la Paix d'Hiroshima et du Dome de la Bombe A"
+  ],
+  "notIncluded": [
+   "Repas et boissons, prise en charge et retour a l'hotel, entree au musee memorial de la Paix, pourboires"
+  ]
+ },
+ "hiroshima-morning-tour": {
+  "title": "Hiroshima a velo : balade matinale guidee vers les icones et tresors caches",
+  "metaTitle": "Hiroshima a velo le matin",
+  "metaDescription": "Decouvrez Hiroshima lors d'une balade a velo guidee, detendue et amusante, le long des sites emblematiques et des tresors caches de la ville.",
+  "shortDescription": "Decouvrez Hiroshima lors d'une balade a velo guidee, detendue et amusante, le long des sites emblematiques de la ville et de ses tresors caches. Une maniere efficace de voir le meilleur de cette ville accueillante en une seule matinee.",
+  "fullDescription": "Hiroshima est l'une des meilleures villes cyclables du Japon et presque personne ne le sait : plate comme une table, sillonnee de rivieres et de genereux chemins au bord de l'eau, et assez compacte pour qu'une matinee en selle couvre ce qu'un marcheur a besoin de deux jours pour voir. Cette balade guidee de trois heures et demie avec InKansai est construite exactement sur cette idee. Apres un ajustement et un briefing de securite, votre petit groupe part avec un guide local sur un itineraire detendu et amusant qui enchaine les icones de la ville, le chateau d'Hiroshima avec ses fosses et son donjon reconstruit, le parc memorial de la Paix et le Dome de la Bombe Atomique, aux cotes des tresors caches qu'aucune visite en bus n'atteint : des rues arriere tranquilles, des quartiers locaux, des tronçons au bord de la riviere ou des herons pechent sous les ponts, et des points de vue que votre guide a accumules au fil des annees passees a y rouler. Le velo change votre relation avec la ville. Des distances qui devoreraient le programme d'une visite a pied se parcourent en quelques minutes, donc la matinee a de la place pour l'important comme pour l'accessoire, et le commentaire continu du guide explique comment cette ville accueillante et reconstruite fonctionne reellement aujourd'hui, pas seulement ce qui lui est arrive en 1945. Le rythme est deliberement facile, avec des arrets frequents pour les photos et les histoires ; si vous savez faire du velo, vous pouvez faire cette visite. Avec une note proche de 4,9 sur plus de 120 avis, elle est devenue la facon pour les voyageurs avertis de prendre leurs reperes le premier jour a Hiroshima, se terminant vers l'heure du dejeuner avec tout l'apres-midi libre, et avec une carte mentale de la ville qui facilite tout ce que vous ferez apres.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans l'itineraire"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "hiroshima-museum-walking-tour": {
+  "title": "Marche privee guidee au parc et musee memorial de la Paix d'Hiroshima",
+  "metaTitle": "Marche privee au musee memorial de la Paix d'Hiroshima",
+  "metaDescription": "Explorez le parc memorial de la Paix d'Hiroshima avec un guide prive. Plongez dans des expositions de temoignages personnels et d'objets.",
+  "shortDescription": "Explorez le parc memorial de la Paix d'Hiroshima avec un guide prive. Plongez dans des expositions de temoignages personnels et d'objets qui temoignent de la tragedie de la guerre nucleaire.",
+  "fullDescription": "Le musee memorial de la Paix est le centre emotionnel de toute visite d'Hiroshima, et c'est aussi la partie que la plupart des voyageurs vivent le moins bien, se deplacant dans des galeries bondees sans contexte, ne sachant pas ce qu'ils regardent ni comment les pieces se relient. Cette visite privee de deux heures et demie de Voyagers est concue pour faire le musee et son parc correctement. Rendez-vous a la station de taxi pres du parc memorial de la Paix, votre guide prive commence a l'exterieur avec les Portes de la Paix et le memorial peu connu du Dr Marcel Junod, le medecin de la Croix-Rouge qui a precipite des fournitures medicales vers la ville en ruines. Vient ensuite une heure complete a l'interieur du musee, ou le guide vous aide a naviguer des expositions de temoignages personnels et d'objets, affaires, photographies, temoignages, qui attestent de la realite de la guerre nucleaire, en rythmant la visite pour qu'elle informe plutot qu'elle n'accable. De retour a l'exterieur, la marche traverse les temoignages vivants du parc : les arbres phenix survivants de la bombe qui poussent encore aujourd'hui, le petit hall d'exposition des ruines de la bombe A, le cenotaphe memorial des victimes et la Flamme de la Paix, le monument de la Paix des Enfants, le cenotaphe des victimes coreennes et le hall memorial national de la Paix. Elle se termine au Dome de la Bombe Atomique, la maison de repos touchee par la bombe et le marqueur de l'hypocentre, la modeste plaque au-dessus de laquelle la bombe a explose. Comme la visite est privee, vous fixez le rythme emotionnel, vous attardant, questionnant, ou simplement restant tranquillement, et le guide s'adapte. Les avis notent l'experience proche de 4,9 et attribuent systematiquement a leurs guides le merite d'avoir transforme la visite la plus difficile de leur voyage en la plus significative.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans l'itineraire"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara a Myokaku-ji : choregraphie au sabre filmee dans l'enceinte d'un temple",
   "metaTitle": "Experience de chambara au sabre a Kyoto",

@@ -57837,6 +57837,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten und Transportkosten"
   ]
  },
+ "hiroshima-highlights-private-tour": {
+  "title": "Private Hiroshima-Highlights-Tour: Friedensdenkmal, Schloss und Shukkei-en",
+  "metaTitle": "Private Hiroshima-Highlights-Tour",
+  "metaDescription": "Erkunden Sie Hiroshima mit einem japanischen lokalen Guide. Besuchen Sie den Atombombendom, den Friedensgedenkpark und das Museum mit Familiengeschichten.",
+  "shortDescription": "Erkunden Sie Hiroshima mit einem japanischen lokalen Guide. Besuchen Sie den Atombombendom, den Friedensgedenkpark und das Museum, waehrend Sie Familiengeschichten, lokale Perspektiven und Hiroshimas Erholung hoeren.",
+  "fullDescription": "Hiroshima ist mehr als die Ereignisse eines Augustmorgens, und diese private Tour ist darauf ausgelegt, Ihnen beide Seiten der Stadt zu zeigen: die Friedensdenkmaeler, die die Welt kennt, und das Schloss, den Garten und die alltaeglichen Viertel, fuer die sich die meisten Besucher nie Zeit nehmen. Ihr japanischer lokaler Guide, von einem Unternehmen, dessen Guides tiefe persoenliche und familiaere Verbindungen zur Stadt haben, holt Sie an einem von vierzehn zentralen Abholpunkten ab. Der Vormittag beginnt mit einer vollen gefuehrten Stunde im Friedensgedenkmuseum, wo ein lokaler Dolmetscher an Ihrer Seite die Ausstellungen von Artefakten und Ueberlebenden-Zeugnissen verwandelt. Von dort gehen Sie durch den Friedensgedenkpark zum Atombombendom und hoeren keine Lehrbuchgeschichte, sondern Familiengeschichten, was Grosseltern sahen, wie Viertel wiederaufgebaut wurden, wie die Stadt untereinander ueber diesen Tag spricht. Dann wechselt die Tour bewusst das Register. Ein kurzer Spaziergang bringt Sie zum Hiroshima-Schloss, dem wiederaufgebauten fuenfstoeckigen Turm der Feudalherren, die die Stadt gruendeten, dessen Burggraben und Gelaende daran erinnern, dass Hiroshima vier Jahrhunderte Geschichte vor 1945 hatte. Der Tag endet mit einer vollen, ungehetzten Stunde in Shukkei-en, dem exquisiten Landschaftsgarten aus den 1620er Jahren, dessen Name geschrumpfte Landschaft bedeutet, wo Miniaturberge, Bruecken und Teehaeuser einen zentralen Teich umkreisen. Der Garten selbst wurde beim Bombenangriff zerstoert und wiederbepflanzt, wovon Ihnen Ihr Guide erzaehlen wird, waehrend Sie seinen Rundweg gehen; Ueberlebende suchten hier zwischen den verbrannten Baeumen Schutz. Es ist ein Tag ueber Zerstoerung und Kontinuitaet zu gleichen Teilen, mit einer perfekten Fuenf-Sterne-Wertung von den Reisenden, die ihn gemacht haben.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "hiroshima-history-walking-tour": {
+  "title": "Hiroshima-Geschichtsspaziergang: Friedenspark und Atombombendom in kleiner Gruppe",
+  "metaTitle": "Hiroshima-Geschichtsspaziergang in kleiner Gruppe",
+  "metaDescription": "Erkunden Sie die Geschichte Hiroshimas bei einem Spaziergang in kleiner Gruppe. Verstehen Sie die Auswirkungen des Atombombenabwurfs und die Wandlung der Stadt.",
+  "shortDescription": "Erkunden Sie die Geschichte Hiroshimas bei einem Spaziergang in kleiner Gruppe. Verstehen Sie die Auswirkungen des Atombombenabwurfs und erleben Sie, wie sich die Stadt in ein Symbol fuer Frieden und Widerstandsfaehigkeit verwandelte.",
+  "fullDescription": "Der Friedensgedenkpark ist kein einzelnes Denkmal, sondern eine Landschaft aus vielen kleineren, und die meisten Besucher gehen an der Mehrheit davon vorbei, ohne zu wissen, was sie betrachten. Dieser Spaziergang in kleiner Gruppe existiert, um das zu beheben. Ueber rund zwei Stunden fuehrt Ihr Guide Sie Denkmal fuer Denkmal durch den Park: die Statue der Mutter und des Babys im Sturm, den Gebetsbrunnen, das Gedenkmal, das den Atombombendom durch seinen Bogen rahmt, die Friedensflamme, die brennen wird, bis die letzte Atomwaffe demontiert ist, und das Kinderfriedensdenkmal, behangen mit Tausenden gefalteten Papierkranichen, die aus aller Welt gesendet wurden. Die Route umfasst auch Stopps, die viele Touren ganz auslassen, darunter das Gedenkmal fuer koreanische Atombombenopfer, das ein Gespraech ueber die Zehntausende koreanischer Arbeiter eroeffnet, die beim Bombenabwurf starben, und die Nationale Friedensgedenkhalle, in der die Namen und Fotos der Opfer aufbewahrt werden. Der Spaziergang endet am Atombombendom und der nahegelegenen Hypozentrum-Markierung, einer schlichten Tafel in einer Seitenstrasse, ueber der die Bombe tatsaechlich detonierte, ein Ort, den die meisten unabhaengigen Besucher nie finden. Da die Gruppe klein gehalten wird, bleibt Raum fuer Fragen, und die Guides sind darin geuebt, diese Geschichte mit Ehrlichkeit und Sorgfalt statt mit Melodramatik zu erzaehlen. Fast 600 Rezensenten haben die Erfahrung mit nahezu fuenf Sternen bewertet. Wenn Sie Hiroshima verlassen moechten und nicht nur verstehen, was hier geschah, sondern auch wie sich die Stadt zu einem Symbol fuer Frieden und Widerstandsfaehigkeit wiederaufbaute, sind diese zwei Stunden die beste Grundlage, die Sie legen koennen.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "hiroshima-memorial-walking-tour": {
+  "title": "Gefuehrter Gruppenspaziergang durch Hiroshimas Friedensgedenkpark und Atombombendom",
+  "metaTitle": "Gefuehrter Spaziergang durch Hiroshimas Friedenspark",
+  "metaDescription": "Nehmen Sie an einem gefuehrten Spaziergang durch Hiroshimas Friedensgedenkpark teil. Erkunden Sie den Atombombendom, das Gedenkmal und verborgene Schaetze.",
+  "shortDescription": "Nehmen Sie an einem gefuehrten Spaziergang durch Hiroshimas Friedensgedenkpark mit einem lokalen Guide teil. Erkunden Sie den Atombombendom, das Gedenkmal und verborgene Schaetze, waehrend Sie Hiroshimas Friedensbotschaft kennenlernen.",
+  "fullDescription": "Wenn Ihre Zeit in Hiroshima begrenzt ist, deckt dieser zweistuendige Gruppenspaziergang mit dem lokalen Anbieter F and Five den wesentlichen Bereich des Friedensgedenkparks ab, ohne ihn zu ueberstuerzen. Sie treffen Ihren Guide in Nakajimacho, am suedlichen Rand des Parks, und betreten ihn durch die Friedenstore, die Reihe hoher Glasbogen, die mit dem Wort Frieden in Dutzenden Sprachen beschriftet sind. Von dort bewegt sich die Route Stopp fuer Stopp durch den Kern des Parks: den Gebetsbrunnen, das Gedenkmal, in dem das Register der Opfernamen aufbewahrt wird und wo der Bogen bewusst den Atombombendom in der Ferne einrahmt, und die Friedensflamme, 1964 entzuendet und kontinuierlich brennend bis zu dem Tag, an dem die letzte Atomwaffe der Welt zerstoert wird. Ihr Guide haelt am Gedenkmal fuer koreanische Atombombenopfer, um einen Teil der Geschichte zu erzaehlen, den offizielle Erzaehlungen lange vernachlaessigt haben, und am Kinderfriedensdenkmal, inspiriert von Sadako Sasaki und ihren tausend Papierkranichen, heute noch umgeben von Kranichen, die von Schulkindern aus aller Welt gefaltet wurden. Der Spaziergang endet am Atombombendom selbst, der am Flussufer liegenden Ruine, erhalten genau so, wie die Explosion sie im August 1945 zurueckliess, wo Sie Zeit fuer Fotos und Fragen haben, bevor sich die Gruppe aufloest, perfekt positioniert, um auf eigene Faust ins Friedensgedenkmuseum weiterzugehen. Die Guides sind Einheimische, die mit dieser Geschichte aufgewachsen sind, und Rezensenten beschreiben die Tour durchgehend als bewegend, ohne aufdringlich zu sein. Es ist eine respektvolle, klare Einfuehrung in den Ort, und bei zwei Stunden passt sie natuerlich zu einem Nachmittag auf Miyajima.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "hiroshima-miyajima-day-trip-from-tokyo-shinkansen": {
+  "title": "Hiroshima und Miyajima an einem Tag ab Tokio, mit dem Shinkansen",
+  "metaTitle": "Hiroshima und Miyajima ab Tokio mit Shinkansen",
+  "metaDescription": "Ein langer, gut organisierter Tag: Shinkansen ab Tokio, das schwimmende Torii von Miyajima, und der Friedensgedenkpark mit einem erklaerenden Guide.",
+  "shortDescription": "Ein langer, gut organisierter Tag: Shinkansen ab Tokio, das schwimmende Torii von Miyajima, und der Friedensgedenkpark mit einem Guide, der erklaeren kann, was Sie sehen.",
+  "fullDescription": "Hiroshima liegt 800 Kilometer von Tokio entfernt, und der einzige Grund, warum das als Tagesausflug funktioniert, ist der Shinkansen. Hin- und Rueckfahrkarten sind in der Tokio-Option enthalten, was der teure Teil des Tages ist und der Teil, den die meisten Menschen lieber nicht selbst organisieren. Wenn Sie bereits in Westjapan sind, gibt es eine guenstigere Option, die den Zug ausspart und stattdessen am Bahnhof Hiroshima beginnt.\n\nDer Tag ist um zwei sehr unterschiedliche Orte aufgebaut. Miyajima kommt zuerst, erreicht per Faehre ueber einen kurzen Abschnitt des Seto-Binnenmeers. Der Itsukushima-Schrein ist auf Stelzen ueber dem Wasser gebaut, und bei Flut scheint sein zinnoberrotes Torii frei vom Ufer zu schweben, das Bild, das die meisten Menschen bereits von Japan haben, ohne zu wissen, woher es kommt. Der Eintritt zum Schrein ist enthalten. Die Insel ist klein genug zum Wandern: Rehe bewegen sich frei durch die Strassen, die Einkaufsgassen verkaufen gegrillte Austern und Momiji Manju, die seit den fruehen 1900er Jahren hier hergestellten Ahornblatt-Kuchen, und das Tempo ist langsamer als irgendwo, wo Sie in Tokio waren.\n\nDann die Faehre zurueck, und Hiroshima. Der Friedensgedenkpark belegt den Boden, der direkt unter der Detonation von 1945 lag, und der Atombombendom, bewusst so gelassen, wie er stand, ist das einzige Gebaeude der Stadt, das nicht wiederaufgebaut wurde. Ein Guide zaehlt hier mehr als an jedem anderen Stopp. Der Park wirkt wie ein angenehmer Raum am Flussufer, wenn Sie nicht wissen, was jedes Denkmal markiert, und das Verstehen der Anlage, des Gedenkmals und des Kinderdenkmals veraendert den Besuch vollstaendig.\n\nSeien Sie ehrlich zu sich selbst bezueglich der Laenge. Mit dem Zug an beiden Enden ist dies ein sechzehnstuendiger Tag, und Sie kommen spaet nach Tokio zurueck. Mahlzeiten sind nicht enthalten, was bewusst so ist, Miyajimas Austern und Hiroshimas Okonomiyaki sind es wert, selbst gewaehlt zu werden. Gruppen gehen bis zu maximal dreissig, und der Guide arbeitet durchgehend auf Englisch.",
+  "highlights": [],
+  "included": [
+   "Hin- und Rueckfahrt mit dem Shinkansen ab Tokio (bei der Tokio-Option), englischsprachiger Guide fuer den ganzen Tag, Faehrueberfahrt nach Miyajima und zurueck, Eintritt zum Itsukushima-Schrein, gefuehrter Besuch des Hiroshima-Friedensgedenkparks und des Atombombendoms"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke, Hotelabholung und -ruecktransfer, Eintritt zum Friedensgedenkmuseum, Trinkgelder"
+  ]
+ },
+ "hiroshima-morning-tour": {
+  "title": "Hiroshima mit dem Fahrrad: gefuehrte Morgenfahrt zu Ikonen und verborgenen Schaetzen",
+  "metaTitle": "Hiroshima mit dem Fahrrad am Morgen",
+  "metaDescription": "Entdecken Sie Hiroshima bei einer entspannten, unterhaltsamen gefuehrten Radtour an den ikonischen Orten und unbekannten Schaetzen der Stadt vorbei.",
+  "shortDescription": "Entdecken Sie Hiroshima bei einer entspannten, unterhaltsamen gefuehrten Radtour an den ikonischen Orten der Stadt und unbekannten Schaetzen vorbei. Eine zeitsparende Art, das Beste dieser gastfreundlichen Stadt an einem Vormittag zu sehen.",
+  "fullDescription": "Hiroshima ist eine der besten Fahrradstaedte Japans, und fast niemand weiss es: flach wie ein Tisch, durchzogen von Fluessen und grosszuegigen Uferwegen, und kompakt genug, dass ein Vormittag im Sattel abdeckt, wofuer ein Fussgaenger zwei Tage braucht. Diese dreieinhalbstuendige gefuehrte Radtour mit InKansai ist genau auf dieser Erkenntnis aufgebaut. Nach Anpassung und Sicherheitseinweisung rollt Ihre kleine Gruppe mit einem lokalen Guide auf einer entspannten, unterhaltsamen Route los, die die Ikonen der Stadt aneinanderreiht, das Hiroshima-Schloss mit seinem Burggraben und wiederaufgebauten Turm, den Friedensgedenkpark und den Atombombendom, neben den unbekannten Schaetzen, die keine Bustour erreicht: ruhige Seitenstrassen, lokale Viertel, Uferabschnitte, an denen Reiher unter den Bruecken fischen, und Aussichtspunkte, die Ihr Guide ueber Jahre des Fahrens hier gesammelt hat. Das Fahrrad veraendert Ihre Beziehung zur Stadt. Entfernungen, die den Zeitplan einer Fusstour aufzehren wuerden, vergehen in Minuten, sodass der Vormittag Platz fuer sowohl Bedeutendes als auch Beilaeufiges hat, und der laufende Kommentar des Guides erklaert, wie diese gastfreundliche, wiederaufgebaute Stadt heute tatsaechlich funktioniert, nicht nur, was ihr 1945 geschah. Das Tempo ist bewusst locker, mit haeufigen Stopps fuer Fotos und Geschichten; wenn Sie Fahrrad fahren koennen, koennen Sie diese Tour machen. Mit einer Wertung nahe 4,9 aus ueber 120 Bewertungen ist sie zu der Art geworden, wie informierte Reisende sich am ersten Tag in Hiroshima orientieren, endet gegen Mittag mit dem ganzen Nachmittag frei, und mit einer mentalen Karte der Stadt, die alles, was Sie danach tun, einfacher macht.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "hiroshima-museum-walking-tour": {
+  "title": "Privater gefuehrter Spaziergang durch Hiroshimas Friedensgedenkpark und Museum",
+  "metaTitle": "Privater Spaziergang durchs Hiroshima-Friedensmuseum",
+  "metaDescription": "Erkunden Sie Hiroshimas Friedensgedenkpark mit einem privaten Guide. Vertiefen Sie sich in Ausstellungen persoenlicher Berichte und Artefakte.",
+  "shortDescription": "Erkunden Sie Hiroshimas Friedensgedenkpark mit einem privaten Guide. Vertiefen Sie sich in Ausstellungen persoenlicher Berichte und Artefakte, die von der Tragoedie des Atomkriegs zeugen.",
+  "fullDescription": "Das Friedensgedenkmuseum ist das emotionale Zentrum jedes Hiroshima-Besuchs, und es ist auch der Teil, den die meisten Reisenden am wenigsten gut erleben, da sie sich ohne Kontext durch ueberfuellte Galerien bewegen und unsicher sind, was sie sehen oder wie die Stuecke zusammenhaengen. Diese zweieinhalbstuendige private Tour von Voyagers ist darauf ausgelegt, das Museum und seinen Park richtig zu erleben. Treffpunkt ist der Taxistand nahe dem Friedensgedenkpark, Ihr privater Guide beginnt draussen mit den Friedenstoren und dem wenig bekannten Denkmal fuer Dr. Marcel Junod, den Rotkreuz-Arzt, der medizinische Vorraete zur zerstoerten Stadt eilte. Dann folgt eine volle Stunde im Museum, wo der Guide Ihnen hilft, Ausstellungen persoenlicher Berichte und Artefakte, Besitztuemer, Fotografien, Zeugenaussagen, die von der Realitaet des Atomkriegs zeugen, zu navigieren und den Besuch so zu takten, dass er informiert statt ueberwaeltigt. Zurueck draussen durchzieht der Spaziergang die lebenden Zeugnisse des Parks: die atombombenbestrahlten Phoenixbaeume, die die Explosion ueberlebten und heute noch wachsen, die kleine Ausstellungshalle der Atombombenruinen, das Gedenkmal und die Friedensflamme fuer die Opfer, das Kinderfriedensdenkmal, das Gedenkmal fuer koreanische Opfer und die Nationale Friedensgedenkhalle. Er endet am Atombombendom, dem atombombenbestrahlten Rasthaus und der Hypozentrum-Markierung, der schlichten Tafel, ueber der die Bombe detonierte. Da die Tour privat ist, bestimmen Sie das emotionale Tempo, verweilen, fragen, oder einfach ruhig stehen, und der Guide passt sich an. Rezensenten bewerten die Erfahrung nahe 4,9 und schreiben ihren Guides durchgehend zu, den schwierigsten Besuch ihrer Reise in den bedeutungsvollsten verwandelt zu haben.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara im Myokaku-ji: Schwertchoreografie, gefilmt auf dem Tempelgelände",
   "metaTitle": "Chambara-Schwerterlebnis in Kyoto",
