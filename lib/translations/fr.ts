@@ -57930,6 +57930,125 @@ export const FR_TOURS: Record<string, TourT> = {
    "Repas"
   ]
  },
+ "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
+  "title": "Cueillette de fruits a Yoichi, distillerie Nikka et cote de Shakotan",
+  "metaTitle": "Cueillette, distillerie Nikka et cote de Shakotan",
+  "metaDescription": "Cueillette de fruits a volonte, la distillerie de whisky la plus celebre du Japon, et les falaises bleues du cap Kamui, une journee en car a l'ouest de Sapporo.",
+  "shortDescription": "Cueillette de fruits a volonte, la distillerie de whisky la plus celebre du Japon, et les falaises bleues du cap Kamui, une journee en car a l'ouest de Sapporo.",
+  "fullDescription": "La cote ouest d'Hokkaido fait tres bien trois choses sans rapport entre elles, et cette journee les enchaine.\n\nLes fruits d'abord, dans un verger touristique a Yoichi. La cueillette est a volonte et ce qui est mur depend entierement de la date de votre visite, cerises en juillet, prunes et poires jusqu'a la fin de l'ete, pommes en automne. L'option a connaitre est le Shine Muscat, le raisin vert sans pepins devenu le fruit prestige du Japon et vendu a des prix absurdes dans les grands magasins de Tokyo ; la fenetre de recolte a Hokkaido est courte, et le cueillir vous-meme sur la vigne est bien different d'en acheter un dans une boite de presentation.\n\nLa distillerie Nikka Yoichi suit, et c'est l'histoire des origines du whisky japonais. Masataka Taketsuru a etudie la distillation en Ecosse dans les annees 1920, est revenu avec une epouse ecossaise, et a choisi Yoichi parce que la cote froide, humide et tourbeuse lui rappelait le Speyside. Les alambics ici sont encore chauffes au charbon, ce qui ne se fait presque plus nulle part dans le monde. Quatre-vingt-dix minutes couvrent la visite et le dejeuner au restaurant sur place, paye separement.\n\nPuis la cote. Shimamui fait partie des cent plus beaux paysages marins du Japon, vous traversez un tunnel et la vue s'ouvre sur des falaises au-dessus d'une eau veritablement, improbablement bleue. Le cap Kamui, a la pointe de la peninsule de Shakotan, cloture la journee avec une marche sur une crete etroite au-dessus de la mer.\n\nLe depart se fait a 8h50 depuis la sortie 31 de la gare d'Odori a Sapporo. Les guides travaillent en anglais, chinois et japonais. Les repas sont a votre charge, et l'entree au verger n'est incluse que sur les forfaits qui le precisent.",
+  "highlights": [],
+  "included": [
+   "Transport en car aller-retour depuis Sapporo",
+   "Guide parlant anglais, chinois et japonais",
+   "Entree au verger (sur les forfaits qui l'incluent)",
+   "Visites de la distillerie Nikka Yoichi, de la cote de Shimamui et du cap Kamui"
+  ],
+  "notIncluded": [
+   "Repas, y compris le dejeuner a la distillerie",
+   "Billet de cueillette sur le forfait de base",
+   "Depenses personnelles"
+  ]
+ },
+ "sapporo-sake-tasting-through-traditional-cups": {
+  "title": "Un sake, plusieurs coupes : degustation dans le verre, le bois et l'etain a Sapporo",
+  "metaTitle": "Degustation de sake en coupes traditionnelles a Sapporo",
+  "metaDescription": "Le meme sake dans du verre taille, du bois courbe et de l'etain a Sapporo, sur comment le contenant change la boisson.",
+  "shortDescription": "Le meme sake verse dans du verre taille d'Otaru, du bois courbe et de l'etain, quatre-vingt-dix minutes inhabituellement precises sur comment le contenant change la boisson.",
+  "fullDescription": "La plupart des degustations de sake comparent des sakes. Celle-ci fait l'inverse, et c'est bien plus instructif : un seul sake soigneusement choisi, servi dans une succession de coupes traditionnelles differentes, de sorte que la seule variable est le contenant dans lequel vous le buvez.\n\nLa difference n'est pas subtile. Le kiriko d'Otaru, le verre taille fabrique le long de la cote d'Hokkaido, est froid, aux bords nets, et accentue l'arome. Le magewappa, des coupes courbees en cedre ou cypres fins, ajoute l'odeur du bois lui-meme et adoucit tout. L'etain conduit la chaleur inhabituellement vite et est traditionnellement credite d'arrondir l'amertume. Boire le meme liquide dans les trois en une heure est la demonstration la plus claire possible de pourquoi le contenant est traite comme faisant partie de la culture de la boisson japonaise plutot qu'un simple recipient.\n\nChaque coupe est un objet artisanal fait main avec un createur et une histoire, et l'hote vous parle des deux, d'ou vient la technique, qui la pratique encore, et comment la piece dans votre main a ete fabriquee. Cela transforme la session en quelque chose de plus proche d'un cours d'appreciation de l'artisanat qui implique aussi de l'alcool.\n\nDes en-cas legers sont servis a cote, et vous avez acces a la boutique d'artisanat traditionnel attenante a l'espace, ou les coupes elles-memes et d'autres pieces artisanales sont en vente. Plusieurs personnes partent ayant achete celle qui leur convenait le mieux, une bien meilleure facon de choisir une coupe a sake que de deviner dans un grand magasin.\n\nLes groupes sont limites a quatre personnes, l'hote travaille en anglais, et le lieu se trouve a environ dix minutes a pied de la station Nishi 28-chome.",
+  "highlights": [],
+  "included": [
+   "Session de degustation de sake",
+   "Une variete de coupes a sake traditionnelles faites main",
+   "En-cas legers",
+   "Introduction a l'artisanat derriere chaque coupe",
+   "Acces a la boutique d'artisanat traditionnel"
+  ],
+  "notIncluded": [
+   "Sake supplementaire au-dela de la degustation",
+   "Transport vers le lieu",
+   "Achats a la boutique d'artisanat"
+  ]
+ },
+ "nagoya-aichi-wagashi-and-matcha-workshop": {
+  "title": "Le wagashi propre a Aichi : deux sucreries de saison et un bol de matcha a Nagoya",
+  "metaTitle": "Atelier de wagashi et matcha a Nagoya",
+  "metaDescription": "Preparez deux sucreries de saison a Nagoya avec une nutritionniste, puis fouettez le matcha pour les accompagner.",
+  "shortDescription": "Quatre-vingt-dix minutes a preparer deux sucreries de saison a base de pate de haricot rouge et de farine de riz gluant, enseignees par une nutritionniste, puis fouetter le matcha pour les accompagner.",
+  "fullDescription": "Les cours de wagashi a Kyoto et Tokyo enseignent la tradition de cour. Celui-ci enseigne celle d'Aichi, qui est une chose differente, le Japon central a construit sa confiserie sur les haricots et sur la meme culture de fermentation qui a donne a la region son miso et sa sauce soja, et les sucreries ici sont plus denses, plus simples et plus domestiques que le delicat nerikiri de l'ancienne capitale.\n\nEn quatre-vingt-dix minutes, vous preparez deux sucreries de saison en utilisant de la pate de haricot rouge sucree et de la farine de riz gluant, les deux ingredients sur lesquels repose la majeure partie de la confiserie japonaise. L'instructrice est une nutritionniste diplomee, et l'enseignement va au-dela de la technique, comment la douceur, la texture et l'amertume s'equilibrent entre elles, et pourquoi une sucrerie concue pour etre mangee avec du matcha doit etre plus sucree qu'une sucrerie mangee seule.\n\nCet equilibre est tout l'enjeu, et vous le testez directement : apres avoir prepare les sucreries, vous fouettez votre propre bol de matcha et les mangez ensemble. L'amertume arrive et la douceur prend soudain tout son sens.\n\nIl y a aussi un veritable argument regional qui traverse le cours, sur comment le climat et les ingredients locaux ont facconne la confiserie differemment dans cette partie du Japon. C'est le genre de contexte qui rend le reste d'un voyage plus interessant, vous commencez a remarquer ce que les boutiques de sucreries de chaque ville vendent vraiment.\n\nLes groupes vont jusqu'a quatorze personnes et l'enseignement se fait en anglais. Le studio se trouve a Izumi, dans le centre de Nagoya, pres de la gare.",
+  "highlights": [],
+  "included": [
+   "Atelier pratique de wagashi et matcha de quatre-vingt-dix minutes",
+   "Preparation de deux sucreries japonaises de saison",
+   "Fouetter et boire votre propre matcha",
+   "Nutritionniste diplomee comme instructrice",
+   "Tous les ingredients"
+  ],
+  "notIncluded": [
+   "Transport vers le studio",
+   "Nourriture et boissons supplementaires",
+   "Prise en charge et retour a l'hotel"
+  ]
+ },
+ "nagoya-toyota-commemorative-museum-guided-tour": {
+  "title": "Des metiers a tisser aux Land Cruiser : le musee commemoratif Toyota avec un guide",
+  "metaTitle": "Musee commemoratif Toyota avec guide, Nagoya",
+  "metaDescription": "Trois heures guidees dans l'usine ou Toyota a commence, metiers a tisser en fonctionnement, le modele AA et des demonstrations en direct.",
+  "shortDescription": "Trois heures guidees dans l'usine en brique rouge ou Toyota a commence, metiers a tisser en fonctionnement, le modele AA et des demonstrations en direct qui expliquent le reste.",
+  "fullDescription": "Toyota n'a pas commence par des voitures. Cela a commence par un metier a tisser, invente par Sakichi Toyoda, qui s'arretait automatiquement a l'instant ou un fil cassait, de sorte qu'un seul operateur pouvait faire fonctionner des dizaines de machines au lieu d'en surveiller une seule. Ce principe, appele jidoka, est devenu la moitie du fondement du systeme de production Toyota, qui est a son tour devenu la facon dont la plupart des usines du monde fonctionnent. Le comprendre est la raison de venir ici plutot que dans un musee automobile.\n\nLe musee occupe l'usine textile originale en brique rouge du groupe, et le pavillon des machines textiles vient en premier : les metiers a tisser, en fonctionnement, avec des demonstrations en direct des mecanismes. Voir l'arret automatique se declencher reellement explique plus en trois secondes qu'aucun diagramme.\n\nLe pavillon automobile suit, retracant le passage aux voitures, le modele Toyoda AA de 1936, puis l'emboutissage, la soudure, l'assemblage, la robotique, les motorisations hybrides et les piles a combustible hydrogene, la plupart demontres plutot qu'exposes derriere une vitre.\n\nUn guide est ce qui transforme ceci d'un musee industriel en un argument coherent. Le fil conducteur d'un metier a tisser du dix-neuvieme siecle a une voiture a hydrogene est veritablement interessant et completement invisible si vous errez dans les couloirs en lisant les legendes.\n\nL'entree au musee commemoratif de l'industrie et de la technologie Toyota est incluse. Notez que le Toyota Kaikan et le musee automobile Toyota separe sont des sites differents et ne font pas partie de ce circuit.\n\nLes groupes sont limites a huit personnes et le guide travaille en anglais. Le musee se trouve a Noritake Shinmachi, a courte distance de marche de la gare de Nagoya.",
+  "highlights": [],
+  "included": [
+   "Entree au musee commemoratif de l'industrie et de la technologie Toyota",
+   "Guide anglophone pendant trois heures",
+   "Pavillon des machines textiles",
+   "Pavillon automobile",
+   "Demonstrations de machines en direct"
+  ],
+  "notIncluded": [
+   "Musee Toyota Kaikan",
+   "Musee automobile Toyota",
+   "Nourriture et boissons",
+   "Transport vers le musee"
+  ]
+ },
+ "nagoya-ramen-making-class-at-a-working-shop": {
+  "title": "Preparez un ramen tonkotsu dans une echoppe de Nagoya en activite",
+  "metaTitle": "Cours de ramen tonkotsu a Nagoya",
+  "metaDescription": "Une heure derriere le comptoir d'une veritable echoppe de ramen a Nagoya, cuisinez votre bol de tonkotsu avec un chef forme.",
+  "shortDescription": "Une heure derriere le comptoir d'une veritable echoppe de ramen, a cuisiner votre propre bol de tonkotsu blanc, noir ou miso epice avec un chef forme et une assistance en anglais.",
+  "fullDescription": "La plupart des cours de cuisine se deroulent en studio. Celui-ci se deroule dans une veritable echoppe de ramen, ce qui change ce que vous apprenez, vous travaillez avec l'equipement de l'echoppe, son bouillon et ses timings, dans l'espace ou la nourriture est normalement vendue.\n\nLe style est le tonkotsu de Hakata, le ramen a l'os de porc de Fukuoka : bouillon mijote jusqu'a ce que le collagene se decompose et que le liquide devienne blanc opaque, servi avec des nouilles fines, fermes et droites. Le fondateur de la chaine s'est forme a Hakata chez un cuisinier de stand yatai avant d'apporter le style a Nagoya, donc ce qu'on vous enseigne est une filiation plutot qu'une recette generique.\n\nVous choisissez l'un des trois : le tonkotsu blanc, la version cremeuse simple ; le tonkotsu noir, fini avec de l'huile d'ail brule, ce qui lui donne une profondeur sombre, presque amere ; ou le kara miso tonkotsu, epice au miso. Puis vous le preparez. La partie critique est les nouilles, les nouilles de Hakata cuisent en bien moins d'une minute et la fenetre entre reussite et echec est de quelques secondes, c'est pourquoi les echoppes demandent la fermete souhaitee et pourquoi les tentatives maison echouent generalement.\n\nUn chef de ramen forme enseigne, avec Yuka qui fournit une assistance en anglais tout au long, de sorte que rien ne se perd dans la langue. Vous obtenez un certificat a la fin, et plus utilement, une comprehension de ce qu'il faut rechercher dans chaque bol que vous commanderez pour le reste du voyage.\n\nL'echoppe se trouve a Noritake Shinmachi dans l'arrondissement de Nishi-ku, pres de la gare de Nagoya. Les groupes sont limites a six personnes et le tout prend une heure, ce qui facilite son insertion avant ou apres un train.",
+  "highlights": [],
+  "included": [
+   "Cours de fabrication de ramen avec un chef de ramen forme",
+   "Choix entre tonkotsu blanc, tonkotsu noir ou kara miso tonkotsu",
+   "Le bol de ramen que vous preparez",
+   "Assistance en anglais de l'hote",
+   "Certificat de reussite"
+  ],
+  "notIncluded": [
+   "Transport vers le lieu",
+   "Repas autres que le ramen que vous preparez",
+   "Boissons supplementaires"
+  ]
+ },
+ "nagoya-private-kyudo-archery-lesson-toyoake-dojo": {
+  "title": "Kyudo dans un dojo en activite pres de Nagoya : trois heures de tir a l'arc japonais",
+  "metaTitle": "Lecon de kyudo pres de Nagoya",
+  "metaDescription": "Trois heures de kyudo pres de Nagoya, posture et respiration d'abord, puis tir sur le makiwara avec un archer pratiquant.",
+  "shortDescription": "Trois heures au Chokushi Kyudojo a Toyoake, une heure de posture et de respiration avant de toucher une fleche, puis tir sur le makiwara sous la supervision d'un archer pratiquant.",
+  "fullDescription": "Le kyudo est le moins accommodant des arts martiaux japonais envers les visiteurs, et cette session ne l'adoucit pas. Le Chokushi Kyudojo a Toyoake, a environ trente minutes du centre de Nagoya, est une salle en activite ou s'entrainent des archers locaux, et vous y entrez comme ils le font, avec une inclinaison au seuil, en silence.\n\nLa premiere heure ne comporte aucune fleche. En kyudo, la posture et la respiration sont la pratique et la fleche n'est que le resultat, donc vous passez cette heure debout, a respirer et a apprendre le hassetsu, les huit etapes du tir, un mouvement a la fois. La plupart des gens trouvent cela la partie la plus difficile precisement parce que rien ne semble se passer.\n\nPuis vous tirez sur le makiwara, la cible de paille placee a deux metres qui existe pour qu'un debutant puisse travailler sa forme sans aucune question de visee. L'arc est asymmetrique, la poignee se trouve a un tiers de la hauteur d'un yumi de deux metres, ce qui n'a aucun equivalent dans aucune autre tradition de tir a l'arc dans le monde, et le tir est pris au-dessus de la tete puis abaisse. C'est plus etrange a faire qu'il n'y parait.\n\nL'enseignement est assure par un archer de kyudo en activite ou un instructeur senior du meme dojo, en anglais, avec une correction directe pour chaque personne dans un groupe limite a six.\n\nL'arc, les fleches et l'equipement de protection sont fournis ainsi que l'usage de la salle. Portez quelque chose dans lequel vous pouvez bouger ; le dojo a un code vestimentaire et votre instructeur expliquera ce qui est attendu avant votre arrivee.\n\nLe transport vers Toyoake est a votre charge, environ trente minutes en train ou en voiture depuis le centre de Nagoya, le dojo se trouvant dans le parc Chokushi.",
+  "highlights": [],
+  "included": [
+   "Lecon privee de kyudo de trois heures avec un instructeur qualifie",
+   "Utilisation de l'arc, des fleches et de l'equipement de protection",
+   "Utilisation du dojo",
+   "Instruction en anglais"
+  ],
+  "notIncluded": [
+   "Transport aller-retour vers le dojo",
+   "Nourriture et boissons",
+   "Pourboires"
+  ]
+ },
  "japanese-postcard-painting-etegami-workshop-in-kyoto": {
   "title": "Atelier de peinture de cartes postales japonaises (etegami) à Kyoto",
   "fullDescription": "Cette expérience de 1 heure se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend atelier de peinture de cartes postales japonaises traditionnelles, Instructeur Ekaki japonais, outils et techniques authentiques, numérisation et amélioration de l'œuvre et sac fourre-tout de haute qualité avec motif imprimé. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",

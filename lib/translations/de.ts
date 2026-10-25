@@ -57930,6 +57930,125 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten"
   ]
  },
+ "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
+  "title": "Obstpflücken in Yoichi, die Nikka-Destillerie und die Shakotan-Küste",
+  "metaTitle": "Obstpflücken, Nikka-Destillerie und Shakotan-Küste",
+  "metaDescription": "All-you-can-eat-Obstpflücken, Japans bekannteste Whisky-Destillerie und die blauen Klippen von Kap Kamui, ein Bustag westlich von Sapporo.",
+  "shortDescription": "All-you-can-eat-Obstpflücken, Japans bekannteste Whisky-Destillerie und die blauen Klippen von Kap Kamui, ein Bustag westlich von Sapporo.",
+  "fullDescription": "Hokkaidos Westküste macht drei unzusammenhängende Dinge außerordentlich gut, und dieser Tag verbindet sie.\n\nZuerst Obst, in einem touristischen Obstgarten in Yoichi. Das Pflücken ist All-you-can-eat, und was reif ist, hängt ganz davon ab, wann Sie kommen, Kirschen im Juli, Pflaumen und Birnen bis zum Spätsommer, Äpfel im Herbst. Die Option, die man kennen sollte, ist Shine Muscat, die kernlose grüne Traube, die zu Japans Prestigefrucht geworden ist und in Tokios Kaufhäusern absurde Preise erzielt; das Erntefenster in Hokkaido ist kurz, und sie selbst von der Rebe zu pflücken, ist etwas ganz anderes, als eine in einer Präsentationsbox zu kaufen.\n\nDie Nikka-Yoichi-Destillerie folgt, und sie ist die Ursprungsgeschichte des japanischen Whiskys. Masataka Taketsuru studierte in den 1920er Jahren die Destillation in Schottland, kam mit einer schottischen Ehefrau zurück und wählte Yoichi, weil die kalte, feuchte, moorige Küste ihn an Speyside erinnerte. Die Brennblasen hier werden noch immer mit Kohle befeuert, was fast nirgendwo mehr auf der Welt getan wird. Neunzig Minuten decken die Tour und das Mittagessen im Restaurant vor Ort ab, separat zu zahlen.\n\nDann die Küste. Shimamui ist eine von Japans hundert schönsten Meereslandschaften, Sie fahren durch einen Tunnel, und die Aussicht öffnet sich auf Klippen über Wasser, das wirklich, unwahrscheinlich blau ist. Kap Kamui an der Spitze der Shakotan-Halbinsel schließt den Tag mit einem schmalen Gratwanderweg über dem Meer.\n\nDie Abfahrt ist um 8:50 Uhr vom Ausgang 31 des Bahnhofs Odori in Sapporo. Guides arbeiten auf Englisch, Chinesisch und Japanisch. Mahlzeiten sind auf eigene Kosten, und der Obstgarten-Eintritt ist nur in den Paketen enthalten, die dies angeben.",
+  "highlights": [],
+  "included": [
+   "Hin- und Rückfahrt mit dem Reisebus ab Sapporo",
+   "Englisch-, chinesisch- und japanischsprachiger Guide",
+   "Obstgarten-Eintritt (bei den Paketen, die ihn enthalten)",
+   "Besuche der Nikka-Yoichi-Destillerie, der Shimamui-Küste und des Kap Kamui"
+  ],
+  "notIncluded": [
+   "Mahlzeiten, einschließlich Mittagessen an der Destillerie",
+   "Obstpflück-Ticket beim Basispaket",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "sapporo-sake-tasting-through-traditional-cups": {
+  "title": "Ein Sake, viele Becher: eine Verkostung in Glas, Holz und Zinn in Sapporo",
+  "metaTitle": "Sake-Verkostung in traditionellen Bechern in Sapporo",
+  "metaDescription": "Derselbe Sake, eingeschenkt in Otaru-Schliffglas, Biegeholz und Zinn, neunzig ungewöhnlich präzise Minuten darüber, wie das Gefäß das Getränk verändert.",
+  "shortDescription": "Derselbe Sake, eingeschenkt in Otaru-Schliffglas, Biegeholz und Zinn, neunzig ungewöhnlich präzise Minuten darüber, wie das Gefäß das Getränk verändert.",
+  "fullDescription": "Die meisten Sake-Verkostungen vergleichen Sakes. Diese macht das Gegenteil, und das ist weit lehrreicher: ein einziger, sorgfältig ausgewählter Sake, serviert in einer Abfolge verschiedener traditioneller Becher, sodass die einzige Variable ist, aus was Sie ihn trinken.\n\nDer Unterschied ist nicht subtil. Otaru-Kiriko, das entlang der Hokkaido-Küste gefertigte Schliffglas, ist kalt und scharfkantig und schärft das Aroma. Magewappa, aus dünnem Zedern- oder Zypressenholz gebogene Becher, fügen den Geruch des Holzes selbst hinzu und mildern alles. Zinn leitet Wärme ungewöhnlich schnell und wird traditionell für das Abmildern von Schärfe verantwortlich gemacht. Dieselbe Flüssigkeit innerhalb einer Stunde durch alle drei zu trinken, ist die klarste mögliche Demonstration, warum das Gefäß als Teil der japanischen Trinkkultur behandelt wird statt als bloßer Behälter dafür.\n\nJeder Becher ist ein handgefertigtes Kunstobjekt mit einem Macher und einer Geschichte, und der Gastgeber erzählt Ihnen von beidem, woher die Technik kommt, wer sie noch praktiziert, und wie das Stück in Ihrer Hand gemacht wurde. Das macht die Sitzung zu etwas, das einem Kunsthandwerk-Wertschätzungskurs näher ist, der zufällig Alkohol beinhaltet.\n\nLeichte Snacks werden dazu serviert, und Sie haben Zugang zum angeschlossenen traditionellen Kunsthandwerksladen, wo die Becher selbst und andere Handwerksstücke zum Verkauf stehen. Mehrere Menschen gehen, nachdem sie den gekauft haben, der für sie am besten funktionierte, eine deutlich bessere Art, einen Sake-Becher zu wählen, als in einem Kaufhaus zu raten.\n\nGruppen sind auf vier begrenzt, der Gastgeber arbeitet auf Englisch, und die Einrichtung liegt etwa zehn Minuten zu Fuß vom Bahnhof Nishi 28-chome.",
+  "highlights": [],
+  "included": [
+   "Sake-Verkostungssitzung",
+   "Eine Auswahl traditioneller handgefertigter Sake-Becher",
+   "Leichte Snacks",
+   "Einführung in die Handwerkskunst hinter jedem Becher",
+   "Zugang zum traditionellen Kunsthandwerksladen"
+  ],
+  "notIncluded": [
+   "Zusätzlicher Sake über die Verkostung hinaus",
+   "Transport zum Veranstaltungsort",
+   "Einkäufe im Kunsthandwerksladen"
+  ]
+ },
+ "nagoya-aichi-wagashi-and-matcha-workshop": {
+  "title": "Aichis eigenes Wagashi: zwei saisonale Süßigkeiten und eine Schale Matcha in Nagoya",
+  "metaTitle": "Wagashi- und Matcha-Workshop in Nagoya",
+  "metaDescription": "Stellen Sie zwei saisonale Süßigkeiten in Nagoya mit einer Ernährungsberaterin her, dann schlagen Sie Matcha dazu.",
+  "shortDescription": "Neunzig Minuten zwei saisonale Süßigkeiten aus roter Bohnenpaste und Klebreismehl herstellen, unterrichtet von einer Ernährungsberaterin, dann Matcha schlagen, um sie zu begleiten.",
+  "fullDescription": "Wagashi-Kurse in Kyoto und Tokio lehren die höfische Tradition. Dieser lehrt die von Aichi, was etwas anderes ist, Zentraljapan baute seine Süßwaren auf Bohnen und auf derselben Fermentationskultur auf, die der Region ihr Miso und ihre Sojasauce gab, und die Süßigkeiten hier sind dichter, schlichter und häuslicher als das zarte Nerikiri der alten Hauptstadt.\n\nÜber neunzig Minuten stellen Sie zwei saisonale Süßigkeiten mit süßer roter Bohnenpaste und Klebreismehl her, den beiden Zutaten, auf denen der größte Teil der japanischen Süßwaren beruht. Die Lehrerin ist eine lizenzierte Ernährungsberaterin, und der Unterricht geht über die Technik hinaus, wie Süße, Textur und Bitterkeit gegeneinander ausgeglichen werden, und warum eine Süßigkeit, die mit Matcha gegessen werden soll, süßer sein muss als eine, die allein gegessen wird.\n\nDieses Gleichgewicht ist der ganze Punkt, und Sie testen es direkt: nachdem Sie die Süßigkeiten gemacht haben, schlagen Sie Ihre eigene Schale Matcha und essen sie zusammen. Die Bitterkeit kommt, und die Süße ergibt plötzlich Sinn.\n\nEs gibt auch ein echtes regionales Argument, das sich durch den Kurs zieht, darüber, wie Klima und lokale Zutaten die Süßwaren in diesem Teil Japans anders geformt haben. Es ist die Art von Kontext, die den Rest einer Reise interessanter macht, Sie beginnen zu bemerken, was die Süßwarenläden in jeder Stadt tatsächlich verkaufen.\n\nGruppen laufen bis zu vierzehn Personen, und der Unterricht erfolgt auf Englisch. Das Studio liegt in Izumi im Zentrum von Nagoya, nahe dem Bahnhof.",
+  "highlights": [],
+  "included": [
+   "Neunzigminütiger praktischer Wagashi- und Matcha-Workshop",
+   "Zubereitung von zwei saisonalen japanischen Süßigkeiten",
+   "Schlagen und Trinken Ihres eigenen Matcha",
+   "Lizenzierte Ernährungsberaterin als Lehrerin",
+   "Alle Zutaten"
+  ],
+  "notIncluded": [
+   "Transport zum Studio",
+   "Zusätzliches Essen und Getränke",
+   "Hotelabholung und -rücktransport"
+  ]
+ },
+ "nagoya-toyota-commemorative-museum-guided-tour": {
+  "title": "Von Webstühlen zu Land Cruisern: das Toyota-Gedenkmuseum mit Guide",
+  "metaTitle": "Toyota-Gedenkmuseum mit Guide, Nagoya",
+  "metaDescription": "Drei geführte Stunden durch die rote Backsteinmühle, wo Toyota begann, laufende Webstühle, das Modell AA und Live-Maschinenvorführungen, die den Rest erklären.",
+  "shortDescription": "Drei geführte Stunden durch die rote Backsteinmühle, wo Toyota begann, laufende Webstühle, das Modell AA und Live-Maschinenvorführungen, die den Rest erklären.",
+  "fullDescription": "Toyota begann nicht mit Autos. Es begann mit einem Webstuhl, erfunden von Sakichi Toyoda, der sich automatisch stoppte, sobald ein Faden riss, sodass ein einziger Bediener Dutzende Maschinen betreiben konnte, statt eine zu überwachen. Dieses Prinzip, genannt Jidoka, wurde zur Hälfte der Grundlage des Toyota-Produktionssystems, das wiederum zur Art wurde, wie die meisten Fabriken der Welt betrieben werden. Dies zu verstehen, ist der Grund, hierher zu kommen statt in ein Automuseum.\n\nDas Museum befindet sich in der ursprünglichen roten Backstein-Textilfabrik der Gruppe, und der Textilmaschinen-Pavillon kommt zuerst: die Webstühle, in Betrieb, mit Live-Vorführungen der Mechanismen. Den automatischen Stopp tatsächlich auslösen zu sehen, erklärt in drei Sekunden mehr als jedes Diagramm.\n\nDer Automobil-Pavillon folgt und verfolgt den Übergang zu Autos, das Toyoda-Modell AA von 1936, dann Pressen, Schweißen, Montage, Robotik, Hybrid-Antriebsstränge und Wasserstoff-Brennstoffzellen, das meiste vorgeführt statt hinter Glas ausgestellt.\n\nEin Guide ist das, was dies von einem Industriemuseum zu einem kohärenten Argument macht. Der rote Faden von einem Webstuhl des 19. Jahrhunderts zu einem Wasserstoffauto ist wirklich interessant und völlig unsichtbar, wenn Sie durch die Hallen wandern und Beschriftungen lesen.\n\nDer Eintritt zum Toyota-Gedenkmuseum für Industrie und Technologie ist enthalten. Beachten Sie, dass das Toyota Kaikan und das separate Toyota-Automobilmuseum andere Standorte sind und nicht Teil dieser Tour.\n\nGruppen sind auf acht begrenzt, und der Guide arbeitet auf Englisch. Das Museum liegt in Noritake Shinmachi, einen kurzen Spaziergang vom Bahnhof Nagoya entfernt.",
+  "highlights": [],
+  "included": [
+   "Eintritt zum Toyota-Gedenkmuseum für Industrie und Technologie",
+   "Englischsprachiger Guide für drei Stunden",
+   "Textilmaschinen-Pavillon",
+   "Automobil-Pavillon",
+   "Live-Maschinenvorführungen"
+  ],
+  "notIncluded": [
+   "Toyota-Kaikan-Museum",
+   "Toyota-Automobilmuseum",
+   "Essen und Getränke",
+   "Transport zum Museum"
+  ]
+ },
+ "nagoya-ramen-making-class-at-a-working-shop": {
+  "title": "Tonkotsu-Ramen in einem aktiven Nagoya-Laden herstellen",
+  "metaTitle": "Tonkotsu-Ramen-Kurs in Nagoya",
+  "metaDescription": "Eine Stunde hinter dem Tresen eines echten Ramen-Ladens in Nagoya, Ihre Schale Tonkotsu mit einem ausgebildeten Koch zubereiten.",
+  "shortDescription": "Eine Stunde hinter dem Tresen eines echten Ramen-Ladens, Zubereitung Ihrer eigenen Schale weißes, schwarzes oder scharfes Miso-Tonkotsu mit einem ausgebildeten Koch und englischer Unterstützung.",
+  "fullDescription": "Die meisten Kochkurse finden in Studios statt. Dieser findet in einem echten Ramen-Laden statt, was ändert, was Sie lernen, Sie arbeiten mit der Ausrüstung des Ladens, seiner Brühe und seinem Timing, in dem Raum, in dem das Essen normalerweise verkauft wird.\n\nDer Stil ist Hakata-Tonkotsu, der Schweineknochen-Ramen aus Fukuoka: Brühe, geköchelt, bis das Kollagen sich auflöst und die Flüssigkeit undurchsichtig weiß wird, serviert mit dünnen, festen, geraden Nudeln. Der Gründer der Kette lernte in Hakata bei einem Yatai-Standkoch, bevor er den Stil nach Nagoya brachte, sodass Ihnen eine Herkunftslinie statt eines generischen Rezepts beigebracht wird.\n\nSie wählen eines von drei: weißes Tonkotsu, die einfache cremige Version; schwarzes Tonkotsu, mit verbranntem Knoblauchöl veredelt, was ihm eine dunkle, fast bittere Tiefe gibt; oder Kara-Miso-Tonkotsu, mit Miso gewürzt. Dann stellen Sie es her. Der kritische Teil sind die Nudeln, Hakata-Nudeln kochen in deutlich unter einer Minute, und das Fenster zwischen richtig und verdorben ist wenige Sekunden breit, weshalb Läden fragen, wie fest Sie sie möchten, und warum Versuche zu Hause meist scheitern.\n\nEin ausgebildeter Ramen-Koch unterrichtet, mit Yuka, die durchgehend englische Unterstützung bietet, sodass nichts in der Sprache verloren geht. Sie erhalten am Ende ein Zertifikat, und nützlicher noch, ein Verständnis dafür, worauf Sie bei jeder Schale achten sollten, die Sie für den Rest der Reise bestellen.\n\nDer Laden befindet sich in Noritake Shinmachi in Nishi-ku, nahe dem Bahnhof Nagoya. Gruppen sind auf sechs begrenzt, und das Ganze dauert eine Stunde, was es leicht macht, es vor oder nach einem Zug einzuplanen.",
+  "highlights": [],
+  "included": [
+   "Ramen-Herstellungskurs mit einem ausgebildeten Ramen-Koch",
+   "Auswahl zwischen weißem Tonkotsu, schwarzem Tonkotsu oder Kara-Miso-Tonkotsu",
+   "Die Schale Ramen, die Sie herstellen",
+   "Englische Unterstützung durch den Gastgeber",
+   "Teilnahmezertifikat"
+  ],
+  "notIncluded": [
+   "Transport zum Veranstaltungsort",
+   "Mahlzeiten außer dem Ramen, den Sie herstellen",
+   "Zusätzliche Getränke"
+  ]
+ },
+ "nagoya-private-kyudo-archery-lesson-toyoake-dojo": {
+  "title": "Kyudo in einem aktiven Dojo außerhalb von Nagoya: drei Stunden japanisches Bogenschießen",
+  "metaTitle": "Kyudo-Lektion bei Nagoya",
+  "metaDescription": "Drei Stunden Kyudo bei Nagoya, zuerst Haltung und Atmung, dann Schießen auf das Makiwara mit einem praktizierenden Bogenschützen.",
+  "shortDescription": "Drei Stunden im Chokushi Kyudojo in Toyoake, eine Stunde Haltung und Atmung bevor Sie einen Pfeil berühren, dann Schießen auf das Makiwara unter einem praktizierenden Bogenschützen.",
+  "fullDescription": "Kyudo ist die am wenigsten entgegenkommende der japanischen Kampfkünste für Besucher, und diese Sitzung mildert es nicht ab. Das Chokushi Kyudojo in Toyoake, etwa dreißig Minuten vom Zentrum von Nagoya entfernt, ist eine aktive Halle, in der lokale Bogenschützen trainieren, und Sie treten ein, wie sie es tun, mit einer Verneigung an der Schwelle, in Stille.\n\nDie erste Stunde hat keinen Pfeil. Im Kyudo sind Haltung und Atmung die Praxis, und der Pfeil ist nur das Ergebnis, sodass Sie diese Stunde stehend verbringen, atmen und Hassetsu lernen, die acht Stufen des Schießens, eine Bewegung nach der anderen. Die meisten Menschen finden dies den schwierigsten Teil, genau weil nichts zu passieren scheint.\n\nDann schießen Sie auf das Makiwara, das Strohziel, das zwei Meter entfernt aufgestellt ist und existiert, damit ein Anfänger an der Form arbeiten kann, ohne eine Frage des Zielens. Der Bogen ist asymmetrisch, der Griff liegt bei einem Drittel der Höhe eines zwei Meter langen Yumi, was keiner anderen Bogenschießtradition der Welt gleicht, und der Zug wird über dem Kopf genommen und heruntergebracht. Es ist seltsamer zu tun, als es aussieht.\n\nDer Unterricht erfolgt durch einen praktizierenden Kyudo-Bogenschützen oder einen leitenden Lehrer desselben Dojos, auf Englisch, mit direkter Korrektur für jede Person in einer Gruppe, die auf sechs begrenzt ist.\n\nBogen, Pfeile und Schutzausrüstung werden zusammen mit der Nutzung der Halle bereitgestellt. Tragen Sie etwas, in dem Sie sich bewegen können; das Dojo hat einen Kleidungsstandard, und Ihr Lehrer wird erklären, was erwartet wird, bevor Sie ankommen.\n\nDer Transport nach Toyoake ist auf eigene Kosten, etwa dreißig Minuten mit dem Zug oder Auto vom Zentrum von Nagoya, mit dem Dojo im Chokushi-Park.",
+  "highlights": [],
+  "included": [
+   "Dreistündige private Kyudo-Lektion mit einem qualifizierten Lehrer",
+   "Nutzung von Bogen, Pfeilen und Schutzausrüstung",
+   "Nutzung des Dojos",
+   "Unterricht auf Englisch"
+  ],
+  "notIncluded": [
+   "Hin- und Rücktransport zum Dojo",
+   "Essen und Getränke",
+   "Trinkgeld"
+  ]
+ },
  "japanese-postcard-painting-etegami-workshop-in-kyoto": {
   "title": "Japanischer Postkarten-Malworkshop (Etegami) in Kyoto",
   "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Kyoto. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nKyoto war über tausend Jahre lang bis 1868 Japans Hauptstadt und hat 17 UNESCO-gelistete Stätten unter rund 2.000 Tempeln und Schreinen. Die großen drei sind Kinkaku-ji, der Goldene Pavillon, mit Goldblatt bedeckt und am besten im Morgenlicht; Kiyomizu-dera, die Holzbühne auf den östlichen Hügeln mit den Higashiyama-Gassen von Sannenzaka und Ninenzaka darunter; und die Tore von Fushimi Inari. Die Burg Nijo hat die Nachtigallenböden, die gegen Eindringlinge quietschen, und Ryoan-ji den Steingarten. Tempel öffnen gegen 8:00 oder 9:00 Uhr und schließen um 17:00 Uhr, und der Stadtbus ist langsam; ein Tag mit einem Fahrer oder Guide, der die Stopps gegen die Menschenmassen ordnet, macht den Unterschied zwischen vier Sehenswürdigkeiten und sieben.\n\nIm Preis enthalten sind Traditioneller japanischer Postkarten-Malworkshop, Japanischer Ekaki-Instruktor, Authentische Werkzeuge und Techniken, Digitalisierung und Verbesserung des Kunstwerks und Hochwertige Tragetasche mit aufgedrucktem Design. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
