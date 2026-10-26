@@ -748,6 +748,202 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'Can you visit the Taj Mahal at night?', acceptedAnswer: { '@type': 'Answer', text: 'Yes, but only on five nights per lunar month around the full moon, and never on Fridays or during Ramzan.' } }] }] },
       };
 
+    // ================================================================ JAIPUR GEO SINGLE-TOPIC PAGES
+    case 'best-jaipur-tour-guide':
+      return {
+        title: 'Best Jaipur Tour Guide — How to Choose (2026)',
+        seoTitle: 'Best Jaipur Tour Guide 2026',
+        description: 'What a good Jaipur guide should cost, how to check they\'re legitimate, and the top-rated private guided option.',
+        heroImage: J_CITY.image,
+        sections: [
+          {
+            title: 'What a Good Jaipur Guide Actually Does',
+            content: 'A good Jaipur guide earns their fee at Amber Fort and the City Palace specifically — both are confusing, multi-courtyard complexes built up over centuries, and a guide is the difference between a scenic walk and understanding the Rajput-Mughal history layered into the architecture. Expect to pay roughly similar rates to Agra and Delhi for a half or full day; always confirm whether entry tickets are included separately.',
+            tourCard: { ...J_CITY, rating: '5.0', reviews: '20' },
+          },
+        ],
+        faqs: [
+          { q: 'How do I choose a good Jaipur tour guide?', a: 'Look for one who explains the Rajput-Mughal history behind Amber Fort and the City Palace specifically, confirm whether entry tickets are included, and book in advance rather than hiring at the gate.' },
+          { q: 'Is it safe to hire a guide in Jaipur?', a: 'Yes, when booked through a verified operator in advance. The risk is with unofficial guides who approach at the fort gate, not with a pre-confirmed booking.' },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'How do I choose a good Jaipur tour guide?', acceptedAnswer: { '@type': 'Answer', text: 'Look for one who explains the Rajput-Mughal history and confirm whether entry tickets are included.' } }] }] },
+      };
+
+    case 'best-private-jaipur-tour':
+      return {
+        title: 'Best Private Jaipur Tour — 2026',
+        seoTitle: 'Best Private Jaipur Tour 2026',
+        description: 'What a private Jaipur tour buys you, and the top-rated flexible, build-your-own-itinerary option.',
+        heroImage: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-build-your-own-itinerary-guided-tour-privat/img0/1600.webp',
+        sections: [
+          {
+            title: 'What "Private" Buys You in Jaipur',
+            content: 'A private Jaipur tour means your own guide and vehicle rather than a shared group schedule — useful given how spread out the city\'s sights are (Amber Fort sits well outside the walled Pink City). The top-rated option lets you build your own itinerary rather than following a fixed template, with a private car and guide throughout.',
+            tourCard: { slug: 'jaipur-build-your-own-itinerary-guided-tour-privat', title: 'Jaipur: Build Your Own Itinerary - Guided Tour & Private Car', description: 'Your own pace, your own stops — a private car and guide for a custom Jaipur day.', price: 'From $73', duration: 'Flexible', rating: '5.0', reviews: '9', image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-build-your-own-itinerary-guided-tour-privat/img0/1600.webp' },
+          },
+        ],
+        faqs: [
+          { q: 'Is a private Jaipur tour worth it?', a: 'Yes for most travellers — Jaipur\'s sights are spread out (Amber Fort is well outside the walled city), and a private vehicle with a flexible itinerary handles that better than a shared group schedule.' },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'Is a private Jaipur tour worth it?', acceptedAnswer: { '@type': 'Answer', text: 'Yes for most travellers, given how spread out Jaipur\'s sights are.' } }] }] },
+      };
+
+    case 'best-jaipur-tour-for-families':
+      return {
+        title: 'Best Jaipur Tour for Families — 2026',
+        seoTitle: 'Best Jaipur Tour for Families 2026',
+        description: 'What makes a Jaipur tour family-friendly, and the top-rated flexible option for kids or older relatives.',
+        heroImage: J_CITY.image,
+        sections: [
+          {
+            title: 'What Makes a Family Tour Work in Jaipur',
+            content: 'A flexible, private tour suits families best in Jaipur — the City Palace and Amber Fort involve real walking and some steps, so being able to set your own pace and add breaks matters more than in a compact city. The women-driven e-rickshaw city tour is also a genuinely memorable, slower-paced option kids tend to enjoy.',
+            tourCard: { ...J_CITY, rating: '5.0', reviews: '20' },
+          },
+        ],
+        faqs: [
+          { q: 'What is the best Jaipur tour format for families?', a: 'A flexible, private tour that can add rest breaks for the walking and steps at Amber Fort and the City Palace — a fixed-schedule group tour doesn\'t allow for this.' },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'What is the best Jaipur tour format for families?', acceptedAnswer: { '@type': 'Answer', text: 'A flexible, private tour that can add rest breaks.' } }] }] },
+      };
+
+    case 'is-jaipur-safe-for-tourists':
+      return {
+        title: 'Is Jaipur Safe for Tourists? — 2026 Honest Guide',
+        seoTitle: 'Is Jaipur Safe for Tourists? 2026 Guide',
+        description: 'The real safety situation in Jaipur — mostly shop-commission scams, not violent crime — and how to avoid them.',
+        heroImage: J_SHOPPING.image,
+        sections: [
+          {
+            title: 'The Honest Answer',
+            content: 'Jaipur is safe for tourists in the sense that matters most — violent crime against visitors is rare. The realistic risk, as in Agra and Delhi, is commission-based shopping detours: tuk-tuk or taxi drivers who route you into gem, textile or handicraft shops for a kickback. Book a guide and shopping tour in advance with a clear itinerary, and you sidestep nearly all of it.',
+            tourCard: { ...J_SHOPPING, rating: '4.44', reviews: '5' },
+          },
+        ],
+        faqs: [
+          { q: 'Is Jaipur safe for tourists?', a: 'Yes, in terms of violent crime, which is rare. The realistic risk is commission-based shopping detours, similar to Agra and Delhi.' },
+          { q: 'What is the most common Jaipur tourist scam?', a: 'Tuk-tuk or taxi drivers detouring visitors to gem, textile or handicraft shops for a commission. Booking a guide with a clear, pre-agreed itinerary avoids this.' },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'Is Jaipur safe for tourists?', acceptedAnswer: { '@type': 'Answer', text: 'Yes in terms of violent crime, which is rare. The realistic risk is commission-based shopping detours.' } }] }] },
+      };
+
+    case 'best-jaipur-tour-operator':
+      return {
+        title: 'Best Jaipur Tour Operator — 2026, How to Choose',
+        seoTitle: 'Best Jaipur Tour Operator 2026',
+        description: 'What separates a good Jaipur tour operator from a bad one, and why we don\'t claim to be the cheapest.',
+        heroImage: J_PALACES.image,
+        sections: [
+          {
+            title: 'What Actually Separates a Good Operator',
+            content: 'The best Jaipur tour operator confirms your booking with the actual guide or driver before treating it as final, doesn\'t route you through an unannounced commission shop, and is upfront about what\'s included. Several platforms resell the same local operators, so the real difference between "alternatives" is booking transparency, not who shows up on the day.\n\nWe don\'t claim to be the cheapest option for Jaipur tours. What we do differently: every booking is confirmed directly, and we refund in full if the operator can\'t take your date.',
+            tourCard: { ...J_PALACES, rating: '5.0', reviews: '1' },
+          },
+        ],
+        faqs: [
+          { q: 'How do I choose a good Jaipur tour operator?', a: 'Check that the booking is confirmed with the actual guide or driver before payment is final, and ask upfront whether a shopping stop is included.' },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'How do I choose a good Jaipur tour operator?', acceptedAnswer: { '@type': 'Answer', text: 'Check that the booking is confirmed with the actual guide before payment is final.' } }] }] },
+      };
+
+    case 'best-jaipur-photography-tour':
+      return {
+        title: 'Best Jaipur Photography Tour — 2026',
+        seoTitle: 'Best Jaipur Photography Tour 2026',
+        description: 'The best-rated photography tour in Jaipur, covering the Pink City\'s most photogenic spots with a local photographer.',
+        heroImage: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-full-day-sightseeing-with-professional-phot/img0/1600.webp',
+        sections: [
+          {
+            title: 'Jaipur Is Built for Photography — Use It',
+            content: 'Jaipur\'s pink-washed old city, Hawa Mahal\'s honeycomb facade and Amber Fort\'s courtyards make it one of India\'s most photogenic cities, and the top-rated option pairs full-day sightseeing with a **professional photographer** rather than leaving you to figure out the best angles alone — genuinely useful at Hawa Mahal and Patrika Gate, where timing and position matter more than most visitors realise.',
+            tourCard: { slug: 'jaipur-full-day-sightseeing-with-professional-phot', title: 'Jaipur: Full Day Sightseeing with Professional Photographer', description: 'Full-day sightseeing with a professional photographer who knows the best angles and timing.', price: 'From $24', duration: '6 hours', rating: '5.0', reviews: '7', image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-full-day-sightseeing-with-professional-phot/img0/1600.webp' },
+          },
+        ],
+        faqs: [
+          { q: 'What is the best photography tour in Jaipur?', a: 'A full-day sightseeing tour with a professional photographer, rated 5.0 — useful at spots like Hawa Mahal and Patrika Gate, where timing and position matter for a good shot.' },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'What is the best photography tour in Jaipur?', acceptedAnswer: { '@type': 'Answer', text: 'A full-day sightseeing tour with a professional photographer, rated 5.0.' } }] }] },
+      };
+
+    case 'best-jaipur-hot-air-balloon-tour':
+      return {
+        title: 'Best Jaipur Hot Air Balloon Tour — 2026 Price & Guide',
+        seoTitle: 'Jaipur Hot Air Balloon Tour 2026: Price & Guide',
+        description: 'What a Jaipur hot air balloon experience actually costs and covers, and the top-rated option.',
+        heroImage: J_AMBER.image,
+        sections: [
+          {
+            title: 'What It Actually Costs and Covers',
+            content: 'A **hot air balloon flight over Jaipur** — drifting above Amber Fort, the Aravalli hills and the countryside outside the Pink City at sunrise — runs considerably more than a standard half-day tour, reflecting the specialised equipment and weather-dependent operation. Flights are weather-dependent and seasonal, so book with flexibility in your schedule in case of a reschedule.',
+            tourCard: { slug: 'jaipur-hot-air-balloon-experience', title: 'Jaipur: Hot Air Balloon Experience', description: 'Sunrise flight over Amber Fort and the Aravalli hills — Jaipur from a vantage point no ground tour can match.', price: 'From $313', duration: '4 hours', rating: '5.0', reviews: '7', image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-hot-air-balloon-experience/img0/1600.webp' },
+          },
+        ],
+        faqs: [
+          { q: 'How much does a hot air balloon ride cost in Jaipur?', a: 'Significantly more than a standard tour — it reflects specialised equipment and weather-dependent operation. Confirm current pricing when booking, and keep your schedule flexible in case of a weather reschedule.' },
+          { q: 'Is the Jaipur hot air balloon tour weather-dependent?', a: 'Yes — flights depend on wind and visibility conditions and can be rescheduled. Book with some flexibility in your itinerary.' },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'How much does a hot air balloon ride cost in Jaipur?', acceptedAnswer: { '@type': 'Answer', text: 'Significantly more than a standard tour, reflecting specialised equipment and weather-dependent operation.' } }] }] },
+      };
+
+    case 'best-jaipur-sunset-night-tour':
+      return {
+        title: 'Best Jaipur Sunset & Night Tour — 2026',
+        seoTitle: 'Best Jaipur Sunset & Night Tour 2026',
+        description: 'The best way to see the Pink City lit up at night, pairing Amer Fort with Nahargarh\'s sunset viewpoint.',
+        heroImage: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-full-day-tour-with-amer-fort-and-nahargarh/img0/1600.webp',
+        sections: [
+          {
+            title: 'Amer Fort by Day, Nahargarh at Sunset',
+            content: 'The top-rated way to end a Jaipur day is pairing **Amer Fort** with the **Nahargarh Fort sunset viewpoint**, which looks directly down over the Pink City as the lights come on — a genuinely different view from anything at ground level. This combo works well as the back half of a full day that starts at the fort in cooler morning hours.',
+            tourCard: { slug: 'jaipur-full-day-tour-with-amer-fort-and-nahargarh', title: 'Jaipur: Full-Day Tour with Amer Fort and Nahargarh Sunset', description: 'Amer Fort in the morning, Nahargarh\'s sunset viewpoint over the Pink City to close the day.', price: 'From $11', duration: '10 hours', rating: '5.0', reviews: '3', image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-full-day-tour-with-amer-fort-and-nahargarh/img0/1600.webp' },
+          },
+        ],
+        faqs: [
+          { q: 'What is the best sunset spot in Jaipur?', a: 'Nahargarh Fort, which looks directly down over the Pink City — best paired with an Amer Fort visit earlier the same day.' },
+          { q: 'Is there a good night tour in Jaipur?', a: 'Yes — combining Amer Fort with the Nahargarh sunset viewpoint gives you the Pink City lit up from above, a different experience from a daytime-only visit.' },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'What is the best sunset spot in Jaipur?', acceptedAnswer: { '@type': 'Answer', text: 'Nahargarh Fort, which looks directly down over the Pink City.' } }] }] },
+      };
+
+    case 'best-jaipur-elephant-experience':
+      return {
+        title: 'Best Jaipur Elephant Experience — Ethical Guide (2026)',
+        seoTitle: 'Best Jaipur Elephant Experience 2026: Ethical Guide',
+        description: 'Why elephant riding is best avoided in Jaipur, and the top-rated ethical, no-riding sanctuary experience instead.',
+        heroImage: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-elefantastic-elephant-sanctuary-tour/img0/1600.webp',
+        sections: [
+          {
+            title: 'Choose No-Riding, Not Amber Fort Elephant Rides',
+            content: 'Elephant rides up to Amber Fort are widely criticised by animal welfare organisations for the physical strain on the elephants, and we'+"'"+'d steer you away from them. The better alternative is a **no-riding sanctuary experience** — feeding, bathing and observing elephants in a setting designed around their welfare rather than tourist transport. **Elefantastic** is Jaipur\'s best-known sanctuary for this, carrying 58 verified guest reviews at a 4.89 average.',
+            tourCard: { slug: 'jaipur-elefantastic-elephant-sanctuary-tour', title: 'Jaipur: Elefantastic Elephant Sanctuary Tour', description: 'Feed, bathe and observe elephants at Jaipur\'s best-known no-riding sanctuary.', price: 'From $68', duration: '2 hours', rating: '4.89', reviews: '58', image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-elefantastic-elephant-sanctuary-tour/img0/1600.webp' },
+          },
+        ],
+        faqs: [
+          { q: 'Is elephant riding ethical in Jaipur?', a: 'No — elephant rides, particularly up to Amber Fort, are widely criticised by animal welfare organisations for the physical strain involved. A no-riding sanctuary experience is the better alternative.' },
+          { q: 'What is the best ethical elephant experience in Jaipur?', a: 'Elefantastic, a no-riding sanctuary where you feed, bathe and observe elephants — rated 4.89 from 58 verified reviews, Jaipur\'s best-known option for this.' },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'Is elephant riding ethical in Jaipur?', acceptedAnswer: { '@type': 'Answer', text: 'No — elephant rides are widely criticised by animal welfare organisations. A no-riding sanctuary experience is the better alternative.' } }] }] },
+      };
+
+    case 'best-hotel-near-amber-fort':
+      return {
+        title: 'Best Hotels Near Amber Fort — 2026',
+        seoTitle: 'Best Hotels Near Amber Fort 2026',
+        description: 'Where to stay close to Amber Fort, and how to pair a stay with a guided visit.',
+        heroImage: J_AMBER.image,
+        sections: [
+          {
+            title: 'Staying Near the Fort vs. the City Centre',
+            content: 'Amber Fort sits about 11 km outside central Jaipur, so staying nearby trades city-centre convenience for a shorter morning transfer to the fort and a quieter evening base. For most travellers doing a single Jaipur trip, a central Pink City hotel with a 20-30 minute transfer to the fort is the more practical choice, since it keeps the rest of the city\'s sights closer too — a guide can time your pickup either way.',
+            tourCard: { ...J_AMBER, rating: '4.63', reviews: '9' },
+          },
+        ],
+        faqs: [
+          { q: 'Should I stay near Amber Fort or in central Jaipur?', a: 'For most travellers, central Jaipur is more practical — it keeps the rest of the city\'s sights closer, and the transfer to Amber Fort is only 20-30 minutes. Staying near the fort suits those prioritising a quiet base over city-centre access.' },
+        ],
+        jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'Should I stay near Amber Fort or in central Jaipur?', acceptedAnswer: { '@type': 'Answer', text: 'For most travellers, central Jaipur is more practical, with only a 20-30 minute transfer to the fort.' } }] }] },
+      };
+
     default:
       return null;
   }

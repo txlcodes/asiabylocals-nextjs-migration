@@ -133,7 +133,12 @@ export const JAIPUR_INFO_SLUGS = [
   // with nothing answering it.
   'jaipur-local-private-day-tour',
   // GEO listicle pages (2026-10)
-  'best-tours-in-jaipur'
+  'best-tours-in-jaipur',
+  // GEO single-topic pages (2026-10)
+  'best-jaipur-tour-guide', 'best-private-jaipur-tour', 'best-jaipur-tour-for-families',
+  'is-jaipur-safe-for-tourists', 'best-jaipur-tour-operator', 'best-jaipur-photography-tour',
+  'best-jaipur-hot-air-balloon-tour', 'best-jaipur-sunset-night-tour',
+  'best-jaipur-elephant-experience', 'best-hotel-near-amber-fort'
 ];
 
 export const PHUKET_INFO_SLUGS = [

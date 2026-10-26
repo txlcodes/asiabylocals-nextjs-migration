@@ -90,6 +90,16 @@ const JAIPUR_SIDEBAR = [
     { name: 'Nahargarh Fort', slug: 'nahargarh-fort' },
     { name: 'Places to Visit', slug: 'places-to-visit-in-jaipur' },
     { name: 'Best Tours in Jaipur', slug: 'best-tours-in-jaipur' },
+    { name: 'Best Jaipur Tour Guide', slug: 'best-jaipur-tour-guide' },
+    { name: 'Best Private Tour', slug: 'best-private-jaipur-tour' },
+    { name: 'Best Tour for Families', slug: 'best-jaipur-tour-for-families' },
+    { name: 'Is Jaipur Safe?', slug: 'is-jaipur-safe-for-tourists' },
+    { name: 'Best Tour Operator', slug: 'best-jaipur-tour-operator' },
+    { name: 'Best Photography Tour', slug: 'best-jaipur-photography-tour' },
+    { name: 'Hot Air Balloon Tour', slug: 'best-jaipur-hot-air-balloon-tour' },
+    { name: 'Best Sunset & Night Tour', slug: 'best-jaipur-sunset-night-tour' },
+    { name: 'Ethical Elephant Experience', slug: 'best-jaipur-elephant-experience' },
+    { name: 'Best Hotels Near Amber Fort', slug: 'best-hotel-near-amber-fort' },
 ];
 
 const KUALA_LUMPUR_SIDEBAR = [

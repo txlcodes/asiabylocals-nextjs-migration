@@ -89,6 +89,10 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'delhi-to-jaipur', 'agra-to-jaipur',
     'jaipur-local-private-day-tour',
     'best-tours-in-jaipur',
+    'best-jaipur-tour-guide', 'best-private-jaipur-tour', 'best-jaipur-tour-for-families',
+    'is-jaipur-safe-for-tourists', 'best-jaipur-tour-operator', 'best-jaipur-photography-tour',
+    'best-jaipur-hot-air-balloon-tour', 'best-jaipur-sunset-night-tour',
+    'best-jaipur-elephant-experience', 'best-hotel-near-amber-fort',
   ].map(slug => ({
     url: `${BASE_URL}/india/jaipur/${slug}`,
     lastModified: new Date(),
