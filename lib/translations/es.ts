@@ -58718,6 +58718,90 @@ export const ES_TOURS: Record<string, TourT> = {
    "El transporte a la casa de te en Gion y las copias digitales mas alla de lo organizado con el fotografo no estan incluidos"
   ]
  },
+ "kyoto-photoshoot-photography-tour": {
+  "title": "Sesion de fotos maiko geisha en Gion, Kioto",
+  "metaTitle": "Sesion de fotos maiko geisha en Gion",
+  "metaDescription": "Una transformacion en maiko en una autentica casa de te de la era Taisho en Gion, con maquillaje, kimono, y una sesion de fotos profesional.",
+  "shortDescription": "Una transformacion en maiko en una autentica casa de te de la era Taisho en Gion, con maquillaje, kimono, y una sesion de fotos profesional.",
+  "fullDescription": "La casa de te que alberga esta transformacion data de la era Taisho, un detalle que importa mas de lo que parece, no esta entrando en un estudio moderno construido para parecer antiguo, esta sentado en un edificio genuinamente historico de Gion donde el tatami, los biombos correderos, y el patio tranquilo han sido parte del tejido del barrio durante un siglo. El proceso mismo toma tiempo real y verdadero oficio: una maquilladora profesional construye la iconica base blanca oshiroi y el distintivo trabajo rojo y negro de ojos y labios asociado con las maiko, mientras un vestidor lo envuelve en un conjunto de kimono completo, con el elaborado obi atado detras y adornos de cabello kanzashi de temporada. Esto no es un cambio de vestuario de cinco minutos, el estilismo solo suele tomar casi una hora. Una vez transformado, pasa a una sala de tatami adecuada para una sesion de fotografia profesional, donde el fotografo sabe como posar la silueta pesada del kimono y trabajar con la poca luz natural por la que son conocidos los antiguos edificios machiya de Gion. Se ira con cuatro fotos impresas en formato 2L, elegidas de la sesion, listas para guardar o enmarcar. Lo que distingue esto de las sesiones genericas de fotos con alquiler de kimono dispersas por la ciudad es el entorno y la especificidad, esto esta construido especificamente alrededor del estilismo de maiko, en una verdadera casa de te historica en el distrito donde se origino esa tradicion. Es una experiencia mas lenta y considerada, y se fotografia asi. Reservela como un verdadero recuerdo de Gion, no solo una rapida parada de selfie.",
+  "highlights": [],
+  "included": [
+   "Estilismo completo de maiko (maquillaje, kimono, cabello), sesion de fotografia profesional, y cuatro fotos impresas en formato 2L"
+  ],
+  "notIncluded": [
+   "Las copias digitales de fotos adicionales mas alla de las cuatro impresiones no estan incluidas a menos que se compren por separado"
+  ]
+ },
+ "kyoto-private-tour": {
+  "title": "Tour privado de un dia por Kioto",
+  "metaTitle": "Tour privado de un dia por Kioto",
+  "metaDescription": "Un dia en auto privado con conductor de habla inglesa que cubre Fushimi Inari, el bosque de bambu, Kinkaku-ji, Gion y Kiyomizu-dera, secuenciado inteligentemente.",
+  "shortDescription": "Un dia en auto privado con conductor de habla inglesa que cubre Fushimi Inari, el bosque de bambu, Kinkaku-ji, Gion y Kiyomizu-dera, secuenciado inteligentemente.",
+  "fullDescription": "Un dia que cubre las interminables puertas torii bermellon de Fushimi Inari, el bosque de bambu en Arashiyama, el pabellon con pan de oro de Kinkaku-ji, el distrito de geishas de Gion, y el escenario de madera de Kiyomizu-dera suena imposible de lograr sin perder la mitad del tiempo en traslados, a menos que tenga un auto privado y un conductor de habla inglesa que sepa exactamente como secuenciarlo. Eso es lo que resuelve este tour. Los sitios destacados de Kioto estan repartidos por la ciudad de una manera que castiga a cualquiera que dependa solo de trenes y autobuses, ya que Fushimi Inari esta al sur, Arashiyama al oeste, y Kinkaku-ji al noroeste, con Gion y Kiyomizu-dera agrupados en el este historico. Un conductor privado elimina las conexiones perdidas y le permite llegar a cada sitio en un momento mas inteligente del dia, subiendo parcialmente las miles de puertas torii de Fushimi Inari temprano antes de que se formen las multitudes, paseando por el corredor de bambu de Arashiyama mientras la luz se filtra en verde a traves de los tallos, luego terminando en los callejones preservados de Higashiyama cerca de Kiyomizu-dera mientras la luz de la tarde vuelve todo dorado. Con una ventana de 6-10 horas y hasta cuatro pasajeros por vehiculo, hay espacio real para demorarse donde quiera. Su conductor no solo navega, es una fuente de contexto disponible sobre lo que esta viendo. Para grupos que quieren cubrir los sitios esenciales de Kioto a fondo en un solo dia, sin la fatiga de navegar conexiones de transporte, este tour en auto privado convierte una ambiciosa lista de deseos en un dia fluido y bien ritmado.",
+  "highlights": [],
+  "included": [
+   "Vehiculo privado y conductor de habla inglesa para toda la duracion del tour"
+  ],
+  "notIncluded": [
+   "Las tarifas de entrada, comidas, y cualquier gasto personal en los sitios visitados no estan incluidos"
+  ]
+ },
+ "kyoto-private-tour-heritage": {
+  "title": "Tour de un dia en auto privado por Kioto",
+  "metaTitle": "Tour en auto privado por Kioto",
+  "metaDescription": "Un dia en auto privado con conductor que conecta Kiyomizu-dera, Fushimi Inari y el bosque de bambu de Arashiyama sin traslados ni colas.",
+  "shortDescription": "Un dia en auto privado con conductor que conecta Kiyomizu-dera, Fushimi Inari y el bosque de bambu de Arashiyama sin traslados ni colas.",
+  "fullDescription": "Los sitios mas grandes de Kioto se extienden por una ciudad que no siempre cooperta con los horarios del transporte publico, que es exactamente el problema que resuelve un auto privado. Este tour con chofer de dia completo agrupa tres de los elementos esenciales de la ciudad, el complejo de templos en la ladera de Kiyomizu-dera, las interminables puertas torii de Fushimi Inari, y los bosques de bambu de Arashiyama, en un solo dia sin los traslados, filas de boletos, y horarios de tren que normalmente consumen horas de un itinerario independiente. Para un grupo de dos a seis que viaja junto, dividir el costo de un auto privado y un conductor a menudo resulta eficiente, con el beneficio anadido de comodidad con aire acondicionado entre paradas y un conductor que sabe que calles laterales evitan el notorio trafico de temporada turistica de Kioto. El dia tipicamente comienza con Kiyomizu-dera, su escenario de madera sobresaliendo sobre la ladera ofreciendo vistas panoramicas, luego se dirige a Fushimi Inari para la caminata por los tuneles de puertas bermellon que suben la montana Inari. Desde alli es un trayecto mas largo hacia el oeste a Arashiyama, donde los altos tallos del bosque de bambu crean uno de los corredores naturales mas fotografiados de Japon, con la opcion de anadir el Tren Romantico de Sagano para una capa extra a la parada. Debido a que el auto y el conductor son suyos por el dia, el orden y el ritmo pueden adaptarse a su energia e intereses. Esto es menos un tour fijo y mas una solucion de transporte privado envuelta alrededor de los grandes exitos de Kioto, construida para viajeros que quieren verlo todo en un dia sin entregar horas a la logistica.",
+  "highlights": [],
+  "included": [
+   "Auto privado y conductor de dia completo que cubre tres sitios principales de Kioto, con recogida y regreso al hotel"
+  ],
+  "notIncluded": [
+   "Las tarifas de entrada a templos y santuarios, comidas, y el boleto opcional del Tren Romantico de Sagano no estan incluidos"
+  ]
+ },
+ "kyoto-sommelier-guided-tour": {
+  "title": "Degustacion de sake en Kioto con un sommelier de sake",
+  "metaTitle": "Degustacion de sake con sommelier en Kioto",
+  "metaDescription": "Ochenta minutos de degustacion de siete sakes con aperitivos combinados, guiada por un sommelier de sake certificado cerca de Sanjo.",
+  "shortDescription": "Ochenta minutos de degustacion de siete sakes con aperitivos combinados, guiada por un sommelier de sake certificado cerca de Sanjo.",
+  "fullDescription": "Escondida en un rincon tranquilo cerca de Sanjo, esta sala de degustacion elimina la intimidacion que normalmente rodea al sake y la reemplaza con una educacion real, impartida por un sommelier de sake certificado que trabaja la sala en kimono y claramente ama el tema. Kioto ha elaborado sake durante mas de mil anos gracias al agua de manantial prístina que fluye de las montanas circundantes, y Fushimi, justo al sur del centro de la ciudad, sigue siendo uno de los distritos cerveceros mas celebrados de Japon. Esta sesion usa siete sakes cuidadosamente elegidos como un arco de degustacion, pasando de estilos ginjo ligeros y fragantes a junmai mas ricos y hacia algo envejecido o inusual, asi que se va entendiendo la gama en lugar de solo haber probado siete copas. Cada vertido viene con un aperitivo combinado, elegido especificamente para abrir sabores que saben planos por si solos. El sommelier explica las proporciones de pulido, el papel del moho koji, por que la temperatura de servicio cambia todo el caracter de un sake, y como realmente leer una etiqueta en una tienda de licores en casa. Las preguntas son bienvenidas durante todo el recorrido, y el formato de grupo pequeno significa que no esta compitiendo por atencion. Dura unos 80 minutos, lo bastante largo para sentirse sustancial sin convertirse en un maraton. Ya llegue sin saber nada sobre sake o piense que ya conoce su junmai de su daiginjo, se ira con un paladar mas agudo. Reservelo como un desvio de principio de noche antes de la cena en las calles de restaurantes circundantes de Sanjo.",
+  "highlights": [],
+  "included": [
+   "Degustacion de siete sakes con aperitivos combinados, presentada por un sommelier de sake profesional"
+  ],
+  "notIncluded": [
+   "Las bebidas o comidas adicionales mas alla del recorrido de degustacion no estan incluidas"
+  ]
+ },
+ "kyoto-stitching-guided-tour": {
+  "title": "Kioto: taller de costura sashiko",
+  "metaTitle": "Taller de costura sashiko en Kioto",
+  "metaDescription": "Aprenda la tecnica de punto corrido del sashiko en tela real, en un pequeno taller del distrito de artes de Kioto, y vayase con su propia pieza terminada.",
+  "shortDescription": "Aprenda la tecnica de punto corrido del sashiko en tela real, en un pequeno taller del distrito de artes de Kioto, y vayase con su propia pieza terminada.",
+  "fullDescription": "El sashiko es uno de esos oficios japoneses que parece decorativo hasta que aprende lo que realmente era: una tecnica de supervivencia. Las familias de agricultores y pescadores en regiones frias y escasas de algodon de Japon usaban puntos corridos en hilo blanco sobre tela indigo para reforzar y parchar telas desgastadas, y a lo largo de generaciones, el trabajo de reparacion se convirtio en una forma de arte por si misma, patrones geometricos como hoja de canamo y ondas entrelazadas, cada uno con su propio nombre e historia. Este taller se encuentra en un pequeno estudio del distrito de artes de Kioto, dirigido por personas que claramente cosen para vivir, no solo para demostraciones. Aprendera la tecnica basica de punto corrido en tela sashiko real, trabajara uno de los patrones geometricos tradicionales a su propio ritmo, y se ira con una pieza terminada que realmente hizo. El instructor mantiene el grupo lo bastante pequeno para dar correccion real uno a uno, que importa aqui porque el atractivo del sashiko esta en la uniformidad de las puntadas, no solo en terminar rapido. Entre puntadas, tiene tiempo de explorar los propios productos sashiko del estudio, dandole una idea de como se ve el oficio a nivel profesional. Esto no es un taller masivo pegado a una tienda de recuerdos; es una introduccion genuina a una tradicion textil que esta viendo un renacimiento real entre disenadores japoneses mas jovenes. Si quiere una tarde en Kioto que lo deje con una habilidad y un objeto hecho a mano en lugar de solo fotos, esto cumple, y con 2,5 horas combina facilmente con una caminata por galerias o cafes cercanos despues.",
+  "highlights": [],
+  "included": [
+   "Todos los materiales, herramientas, e instruccion necesarios para completar su pieza sashiko"
+  ],
+  "notIncluded": [
+   "El transporte al taller y cualquier articulo adicional comprado en la tienda no estan incluidos"
+  ]
+ },
+ "kyoto-temple-grounds-full-day-tour": {
+  "title": "Callejones traseros y rincones ocultos de Kioto: excursion privada de un dia desde Nagoya",
+  "metaTitle": "Callejones traseros y rincones ocultos de Kioto",
+  "metaDescription": "Excursion privada de dia completo desde Nagoya a los callejones mas tranquilos de Higashiyama, terrenos de templos, y rincones ocultos de Arashiyama.",
+  "shortDescription": "Excursion privada de dia completo desde Nagoya a los callejones mas tranquilos de Higashiyama, terrenos de templos, y rincones ocultos de Arashiyama.",
+  "fullDescription": "Kioto sirvio como capital imperial de Japon durante mas de mil anos, y aunque sus templos destacados atraen multitudes diariamente, una excursion privada de dia completo desde Nagoya hace posible desacelerar y ver los rincones mas tranquilos por los que realmente caminan los locales. Este tour esta construido alrededor de tres bolsillos distintos de la ciudad vieja: los callejones preservados de Higashiyama, terrenos de templos tranquilos alejados de los circuitos principales, y los bordes menos visitados de Arashiyama mas alla de su famoso bosque de bambu.\n\nLas calles empedradas de Higashiyama, bordeadas de casas machiya de madera, casas de te, y pequenas tiendas artesanales, todavia siguen su trazado historico cerca de la base de las montanas de Higashiyama, y un guia privado puede llevarlo por los callejones traseros que conectan sus calles mas conocidas sin las multitudes que se canalizan por las vias de acceso principales. Desde alli, el dia continua hacia terrenos de templos elegidos por calma en lugar de fama, donde puertas torii, jardines de musgo, y salones tranquilos ofrecen un sentido mas contemplativo de la historia religiosa de la ciudad.\n\nEl dia termina en Arashiyama, en las afueras occidentales de Kioto, donde el guia lo lleva mas alla del bosque de bambu a sus rincones menos fotografiados: senderos junto al rio, jardines de templos mas pequenos, y las colinas circundantes que le dan al distrito su reputacion de refugio de la vida urbana incluso para los propios residentes de Kioto. Debido a que el tour es privado y sale de Nagoya, aproximadamente 15 horas puerta a puerta, el ritmo y la ruta pueden adaptarse a los intereses de su grupo, haciendolo una buena opcion para viajeros que ya han visto los iconos de Kioto y quieren una mirada mas profunda y sin prisas a lo que los rodea.",
+  "highlights": [],
+  "included": [
+   "Guia privado de habla inglesa, transporte en vehiculo privado entre Nagoya y Kioto, itinerario de dia completo por Higashiyama, terrenos de templos, y Arashiyama"
+  ],
+  "notIncluded": [
+   "Las tarifas de entrada a templos y jardines cuando corresponda, comidas y bebidas, gastos personales, propinas"
+  ]
+ },
  "nagoya-takoyaki-cooking-class": {
   "title": "Takoyaki desde cero en Nagoya: masa, pulpo y el volteo",
   "metaTitle": "Clase de takoyaki en Nagoya",
