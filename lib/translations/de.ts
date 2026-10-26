@@ -58886,6 +58886,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
   ]
  },
+ "miyajima-adventure-tour": {
+  "title": "Kajak- und Schwimmabenteuer zu Miyajimas versteckten Straenden nahe Hiroshima",
+  "metaTitle": "Kajak zu Miyajimas versteckten Straenden",
+  "metaDescription": "Paddeln Sie zur versteckten Seite Miyajimas, klares Wasser, abgelegene Straende und wilde Hirsche, weit weg von den Mengen.",
+  "shortDescription": "Entfliehen Sie den Menschenmengen bei einer Kajaktour zu Miyajimas versteckter Seite. Paddeln Sie in kristallklarem Wasser, schwimmen Sie an abgelegenen Straenden und beobachten Sie wilde Hirsche, mit kostenlosen Fotos.",
+  "fullDescription": "Fast jeder, der Miyajima besucht, sieht denselben Quadratkilometer: den Faehranleger, die Einkaufsstrasse, den Schrein, das Torii. Dieses dreistuendige Kajakabenteuer handelt vom Rest der Insel, der Seite, die die Menschenmengen nie erreichen. Vom Treffpunkt am Miyajima-Faehrterminal bringt Sie eine kurze zehnminuetige Fahrt zu einem ruhigen Einsetzpunkt weg vom touristischen Kern. Nach einer Einweisung und Anpassung paddeln Sie zwei volle Stunden entlang einer unberuehrten Kuestenlinie aus klarem, ruhigem Wasser, von Kiefern gesaeumten Buchten und Straenden ohne Fussspuren darauf. Das Tempo ist wirklich entspannt; der Anbieter begruesst Paddler von vier bis siebzig Jahren, und die Sit-on-top-Kajaks sind stabil genug fuer komplette Anfaenger und fuer Eltern, die ein Boot mit kleinen Kindern teilen. Auf dem Weg legen Sie an abgelegenen Straenden an, die nur vom Wasser aus erreichbar sind, wo Sie im flachen Wasser schwimmen, die Kuestenlinie erkunden, und moeglicherweise den Sand mit den wilden Hirschen der Insel teilen koennen, die vom Wald zu den ruhigeren Kuesten wandern. Ihr Guide fotografiert die Gruppe durchgehend und die Fotos sind kostenlos enthalten, sodass die Handys sicher trocken bleiben koennen. Nach der Rueckfahrt werden Sie zum Faehrterminal zurueckgefahren, drei Stunden nach Ihrer Abfahrt, nachdem Sie eine Version von Miyajima gesehen haben, von der die meisten der taeglichen Tausenden Besucher nicht einmal wissen, dass sie existiert. Es laesst sich perfekt mit einem Vormittag oder spaeten Nachmittag am Schrein kombinieren, und im Sommer rechtfertigen allein die Schwimmstopps die Reise.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "miyajima-bullet-full-day-tour": {
+  "title": "Von Kyoto nach Hiroshima und Miyajima: Ganztagestour mit dem Shinkansen",
+  "metaTitle": "Hiroshima und Miyajima ab Kyoto mit Shinkansen",
+  "metaDescription": "Hiroshima und Miyajima ab Kyoto mit dem Shinkansen: Friedensgedenkpark und Itsukushima-Schrein an einem Tag.",
+  "shortDescription": "Erleben Sie eine unvergessliche Hiroshima- und Miyajima-Tagestour mit dem Shinkansen ab Kyoto. Tauchen Sie ein in Hiroshimas Highlights, vom Itsukushima-Schrein bis zum Friedensgedenkpark.",
+  "fullDescription": "Hiroshima fuehlt sich weit von Kyoto entfernt an, bis Sie sich erinnern, was der Shinkansen kann: diese Ganztagestour bringt Sie am frueuhen Morgen in den Hochgeschwindigkeitszug und laesst Sie im Friedensgedenkpark stehen, bevor viele Reisende ihr Fruehstueck beendet haben. Es ist ein langer Tag, rund dreizehn Stunden Tuer zu Tuer, aber es ist der Tag, der Kyoto-basierten Reisenden erlaubt, eines Japans wichtigste Ziele zu erleben, ohne einen Koffer neu zu packen. Sie treffen Ihren sorgfaeltig ausgewaehlten Experten-Guide am Bahnhof Kyoto und fahren mit dem Shinkansen bis zu 300 Kilometer pro Stunde nach Suedwesten, ein Bucket-List-Erlebnis an sich, mit dem Transport im Preis enthalten. Die Hiroshima-Stunden gehoeren den wichtigen Staetten: dem Friedensgedenkpark mit seinen Kenotaphen und Papierkranichen, dem Atombombendom, erhalten so, wie die Explosion ihn hinterliess, und den menschlichen Geschichten, die Ihr Guide mitbringt und die Denkmaeler wieder zu Menschen machen. Dann wendet sich der Tag von Besinnung zu Gelassenheit. Der lokale Zug und die Faehre bringen Sie nach Miyajima, wo das grosse Torii des Itsukushima-Schreins in der Flut steht, und die Korridore des Schreins, die Gassen der Insel und die ansaessigen Hirsche fuellen den Nachmittag; Ihre Miyajima-Besuchersteuer ist bereits abgedeckt. Es gibt Zeit zu essen, Momiji-Manju und gegrillte Austern sind die Markenzeichen der Insel, bevor der abendliche Shinkansen Sie zurueck nach Kyoto bringt. Das Tempo ist ehrlich: ein frueher Start, ein voller Tag, und einer der bewegendsten Tagesausfluege, die Japan bietet, von einem Guide von Anfang bis Ende abgewickelt, sodass Sie niemals ueber Logistik nachdenken muessen.",
+  "highlights": [],
+  "included": [
+   "Sorgfaeltig ausgewaehlter Experten-Reisefuehrer, Miyajima-Besuchersteuer, Transport mit dem Shinkansen"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "miyajima-chauffeur-private-tour": {
+  "title": "Private Chauffeur-Tagestour zu Hiroshima und Miyajima ab Ihrem Hotel",
+  "metaTitle": "Hiroshima und Miyajima mit privatem Chauffeur",
+  "metaDescription": "Ein privater Tag mit Chauffeur ab Ihrem Hotel zu Hiroshima und Miyajima, Friedenspark, Schloss und das schwimmende Torii.",
+  "shortDescription": "Ein privater Tag mit Chauffeur durch Hiroshima und Miyajima, direkt ab Ihrem Hotel. Friedensgedenkpark, Hiroshima-Schloss, Shukkei-en-Garten und das schwimmende Torii, in Ihrem Tempo. Preis pro Fahrzeug (bis zu 4 Gaeste).",
+  "fullDescription": "Dies ist der muehelose Weg, Hiroshima und Miyajima zu erleben: ein privater Tag mit Chauffeur, der an der Tuer Ihres Hiroshima-Hotels beginnt und jeden Kilometer dazwischen abdeckt. Ihr englischsprachiger Chauffeur kommt in einem Toyota Alphard, dem bequemen Minivan, der Japans bevorzugter Executive-Transport ist, mit Platz fuer bis zu vier, mit einem HiAce fuer Gruppen von bis zu neun verfuegbar, und von diesem Moment an sind Tempo, Parken und Faehrlogistik vollstaendig das Problem jemand anderen. Der Tag deckt die volle Bandbreite der Region ab. In der Stadt besuchen Sie den Friedensgedenkpark und den Atombombendom, wobei Ihr Chauffeur die Ankunftszeiten so taktet, dass Sie die schlimmsten Menschenmengen umgehen, dann das Hiroshima-Schloss und den exquisiten Shukkei-en-Garten, den Landschaftsgarten aus der Feudalzeit, den die meisten Tagestouren auslassen. Dann die Fahrt suedlich zum Pier, wo Ihr Chauffeur die Faehrueberfahrt nach Miyajima regelt, und das schwimmende Torii der Insel und der Itsukushima-Schrein fuellen den Nachmittag in dem Tempo, das Ihnen passt. Da das Fahrzeug Ihnen gehoert, passt sich der Tag an: verweilen Sie laenger im Museum, lassen Sie einen Stopp aus, oder fuegen Sie den optionalen Abstecher nach Iwakuni hinzu, um die Kintaikyo-Bruecke zu sehen, die aussergewoehnliche fuenfboegige Holzbruecke eine Stunde weiter, was etwa neunzig Minuten bis zwei Stunden hinzufuegt. Die Preisgestaltung erfolgt pro Fahrzeug statt pro Person, 105.000 JPY fuer den Alphard, 120.000 JPY fuer den neunsitzigen HiAce, was ihn ueberraschend wirtschaftlich fuer Familien und kleine Gruppen macht; beachten Sie, dass die kleine Faehrgebuehr, Mahlzeiten und Attraktionseintritte unterwegs bezahlt werden. Fuer Reisende, die Komfort, Flexibilitaet und null Logistik schaetzen, ist dies die Premiumoption der Region.",
+  "highlights": [],
+  "included": [
+   "Privates Fahrzeug mit Chauffeur fuer den ganzen Tag (Toyota Alphard oder HiAce), englischsprachiger Chauffeur, Hotelabholung und -ruecktransfer in Hiroshima, flexibles Tempo und optionale Iwakuni-/Kintaikyo-Bruecken-Erweiterung"
+  ],
+  "notIncluded": [
+   "Die Miyajima-Faehrgebuehr (klein, am Pier zahlbar), Mahlzeiten, Attraktionseintritte"
+  ]
+ },
+ "miyajima-floating-full-day-tour": {
+  "title": "Private Ganztagestour durch Hiroshima und Miyajima: vom Friedenspark zum schwimmenden Torii",
+  "metaTitle": "Hiroshima und Miyajima: Friedenspark zum schwimmenden Torii",
+  "metaDescription": "Eine private 8-stuendige Tour, die Hiroshima mit dem Inselschrein von Miyajima und seinem schwimmenden Torii-Tor verbindet.",
+  "shortDescription": "Eine private 8-stuendige Tour, die Hiroshimas Geschichte der Besinnung und Erneuerung mit dem Inselschrein von Miyajima und seinem beruehmten schwimmenden Torii-Tor verbindet. Alle Eintrittsgebuehren inklusive. Preis pro Gruppe.",
+  "fullDescription": "Dieser private Achtstunden-Tag verbindet die zwei Erlebnisse, die diese Ecke Japans definieren, Hiroshimas Geschichte von Besinnung, Widerstandsfaehigkeit und Erneuerung, und den Inselschrein von Miyajima, und webt sie mit einem einzigen engagierten mehrsprachigen Guide zusammen, dessen Aufmerksamkeit Ihre Gruppe nie verlaesst. Der Tag beginnt sanft um 10 Uhr, Treffen in Ihrer Hotellobby oder am Bahnhof Hiroshima, und der Reiseplan ist von dort vollstaendig anpassbar; was folgt, ist die klassische Form. Der Vormittag gehoert dem Friedensgedenkpark, langsam durchwandert: der Kenotaph und seine ewige Flamme, das mit Kranichen behangene Kinderfriedensdenkmal, der Atombombendom auf der anderen Flussseite, wobei Ihr Guide die Geschichte und die menschlichen Geschichten in einem Tempo einschichtet, das Raum laesst, zu fuehlen ebenso wie zu lernen, und alle Eintrittsgebuehren fuer aufgefuehrte Attraktionen bereits enthalten. Nach dem Mittagessen wird die Reise nach Miyajima selbst zu einem Vergnuegen, Zug an der Kueste entlang, Faehre ueber die Meerenge, bevor die Insel ihre beruehmte Enthuellung liefert: das grosse zinnoberrote Torii des Itsukushima-Schreins, auf der Flut schwimmend, die ueber dem Meer gebauten Korridore des Schreins, Hirsche, die durch die Gassen wandern, und die alten bewaldeten Haenge des Berges Misen ueber allem. Ihr Guide uebernimmt die praktischen Dinge und passt den Nachmittag an Ihre Energie an, mehr Tempel, mehr Einkaufsstrasse, oder einfach mehr Zeit, das Licht auf dem Wasser wechseln zu sehen. Jeder Gast nimmt ein Stovenir-Souvenir mit nach Hause, persoenliche Reiseunterstuetzung geht ueber den Tag hinaus, und es werden keine Trinkgelder erwartet; Mahlzeiten und Transportkosten sind die einzigen Extras. Es ist der volle Hiroshima-Tag, persoenlich gemacht.",
+  "highlights": [],
+  "included": [
+   "Engagierter mehrsprachiger professioneller lokaler Reisefuehrer (8 Stunden), alle Eintrittsgebuehren fuer aufgefuehrte Attraktionen, 'Stovenir'-Souvenir fuer jeden Gast, anpassbarer Reiseplan, persoenliche Reiseunterstuetzung (keine Trinkgelder erwartet)"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Transportkosten"
+  ]
+ },
+ "miyajima-guided-tour": {
+  "title": "Hiroshima und Miyajima an einem Tag: Atombombendom und Itsukushima mit einem Einheimischen",
+  "metaTitle": "Hiroshima und Miyajima an einem Tag",
+  "metaDescription": "Hiroshima und Miyajima an einem privaten Tag mit japanischem Guide: Atombombendom und Itsukushima-Schrein.",
+  "shortDescription": "Erleben Sie Hiroshima und Miyajima an einem privaten Tag mit einem japanischen lokalen Guide. Entdecken Sie den Atombombendom, den Friedensgedenkpark und den Itsukushima-Schrein, und die Geschichten und Traditionen dahinter.",
+  "fullDescription": "Hiroshimas zwei UNESCO-Weltkulturerbe-Staetten liegen weniger als eine Stunde voneinander entfernt, und dieser private Siebenstundentag verbindet sie so, wie es ein Einheimischer tun wuerde: Insel zuerst, Stadt danach, mit einem japanischen Guide, dessen Kommentar aus persoenlicher und familiaerer Verbindung zu beiden stammt. Der Tag beginnt mit Abholung von einem von vierzehn zentralen Orten, einschliesslich der grossen Hotels und des Bahnhofs Hiroshima, bevor Sie mit dem Zug die Kueste entlang fahren und die kurze Faehre nach Miyajima nehmen. Der Vormittag gehoert der Insel: das grosse zinnoberrote Torii des Itsukushima-Schreins, das auf der Flut zu schweben scheint, die ueber dem Wasser liegenden Korridore des Schreins, der Aufstieg durch den Daisho-in-Tempel mit seinen Hunderten von Statuen, und der Senjokaku-Pavillon mit tausend Tatami-Matten. Dann erhalten Sie grosszuegige neunzig Minuten auf der Einkaufsstrasse Omotesando, um gegrillte Austern, Momiji-Manju-Ahornkuchen und was auch immer die Staende sonst servieren zu probieren, was auch als Mittagessen dient. Die Straassenbahnfahrt zurueck in die Stadt ist Teil der Erfahrung und zeichnet die Route nach, entlang der sich Hiroshima wiederaufbaute. Der Nachmittag wird besinnlich: der Atombombendom, das Hypozentrum, der Friedensgedenkpark und das Kinderfriedensdenkmal, endend mit einer vollen Stunde im Friedensgedenkmuseum. Guides hier haben eine Fuenf-Sterne-Wertung ueber Dutzende Bewertungen, genau weil sie diesen Kontrast, heiliger Vormittag, ernuechternder Nachmittag, mit Waerme und Ehrlichkeit handhaben. Wenn Sie einen Tag in Hiroshima haben und wollen, dass er um Sie statt um einen Busfahrplan geformt wird, ist dies das Format, das funktioniert.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "miyajima-half-day-tour": {
+  "title": "Miyajima-Insel-Halbtagestour in kleiner Gruppe ab Hiroshima",
+  "metaTitle": "Miyajima in einem Halbtag ab Hiroshima",
+  "metaDescription": "Erkunden Sie Miyajima in einem Halbtag ab Hiroshima, das schwimmende Torii-Tor und die lokalen Aromen der Insel.",
+  "shortDescription": "Erkunden Sie die Insel Miyajima bei einer gefuehrten Halbtagestour ab Hiroshima. Entdecken Sie das ikonische schwimmende Torii-Tor und erfahren Sie die Geschichte, Kultur und lokalen Aromen der Insel.",
+  "fullDescription": "Miyajima funktioniert wunderbar als Halbtagesausflug, wenn jemand anders die Logistik uebernimmt, und genau das tut diese vierstuendige Kleingruppentour. Sie treffen Ihren Guide am Morgen am Bahnhof Hiroshima, und von dort wird der Transport einfach erledigt: die dreissigminuetige Zugfahrt die Kueste entlang nach Miyajimaguchi, dann die zehnminuetige Faehrueberfahrt, waehrend sich der bewaldete Grat der Insel und das zinnoberrote Torii vor Ihnen erheben. Auf der Insel deckt die Tour den wesentlichen Rundgang richtig ab. Sie beginnen am Ufer mit dem grossen Otorii-Tor, das je nach Tageszeit in der Flut oder auf nassem Sand steht, waehrend Ihr Guide die ueber tausendjaehrige Geschichte des Schreins erklaert und warum der gesamte Komplex ueber dem Wasser auf einer heiligen Insel gebaut wurde. Im Inneren des Itsukushima-Schreins gehen Sie ueber die zinnoberroten Holzsteg-Korridore ueber dem Meer, dann weiter die Gassen hinauf nach Daisho-in, dem stimmungsvollen Tempel am Hang, dessen Treppen mit Hunderten kleiner Statuen, Gebetsraedern und stillen Hallen gesaeumt sind; es ist der Stopp, der Miyajima von einer Postkarte in einen Ort verwandelt. Die Tour schliesst entlang der Einkaufsstrasse Omotesando ab, mit Zeit, die Spezialitaeten der Insel zu probieren, gegrillte Austern und warme Momiji-Manju-Ahornblatt-Kuchen, und nach Souvenirs zu stoebern, waehrend die ansaessigen Hirsche aufpassen. Da die Gruppe klein gehalten wird, bleibt das Tempo gespraechig und es gibt durchgehend Raum fuer Fragen. Sie sind am frueuhen Nachmittag mit einfachen Verbindungen nach Hiroshima zurueck, was den Rest Ihres Tages fuer den Friedensgedenkpark frei laesst.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
  "nagoya-takoyaki-cooking-class": {
   "title": "Takoyaki von Grund auf in Nagoya: Teig, Octopus und der Dreh",
   "metaTitle": "Takoyaki-Kochkurs in Nagoya",

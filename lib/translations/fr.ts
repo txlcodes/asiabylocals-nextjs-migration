@@ -58886,6 +58886,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Depenses personnelles, repas sauf indication contraire, pourboires"
   ]
  },
+ "miyajima-adventure-tour": {
+  "title": "Aventure en kayak et baignade aux plages cachees de Miyajima pres d'Hiroshima",
+  "metaTitle": "Kayak aux plages cachees de Miyajima",
+  "metaDescription": "Pagayez vers le cote cache de Miyajima, eaux cristallines, plages isolees et cerfs sauvages, loin des foules.",
+  "shortDescription": "Echappez aux foules dans une excursion en kayak vers le cote cache de Miyajima. Pagayez dans des eaux cristallines, baignez-vous sur des plages isolees et observez des cerfs sauvages, photos gratuites incluses.",
+  "fullDescription": "Presque tout le monde qui visite Miyajima voit le meme kilometre carre : le quai du ferry, la rue commercante, le sanctuaire, le torii. Cette aventure en kayak de trois heures concerne le reste de l'ile, le cote que les foules n'atteignent jamais. Depuis le point de rendez-vous au terminal de ferry de Miyajima, un court trajet de dix minutes vous amene a un endroit de mise a l'eau tranquille loin du cœur touristique. Apres un briefing et un ajustement, vous partez pour deux heures completes de pagayage guide le long d'une cote intacte d'eau claire et calme, de criques bordees de pins et de plages sans aucune empreinte. Le rythme est veritablement detendu ; l'operateur accueille des pagayeurs de quatre a soixante-dix ans, et les kayaks assis dessus sont assez stables pour les debutants complets et pour les parents partageant un bateau avec de jeunes enfants. En chemin, vous accostez sur des plages isolees accessibles uniquement depuis l'eau, ou vous pouvez vous baigner dans les hauts-fonds, explorer le rivage, et potentiellement partager le sable avec les cerfs sauvages de l'ile, qui descendent de la foret vers les cotes plus tranquilles. Votre guide photographie le groupe tout au long et les photos sont incluses gratuitement, donc les telephones peuvent rester en securite au sec. Apres le retour en pagayant, vous etes ramene au terminal de ferry, trois heures apres votre depart, ayant vu une version de Miyajima que la plupart des milliers de visiteurs quotidiens ne savent meme pas exister. Cela s'associe parfaitement avec une matinee ou une fin d'apres-midi au sanctuaire, et en ete, les arrets de baignade justifient seuls le voyage.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans l'itineraire"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "miyajima-bullet-full-day-tour": {
+  "title": "Kyoto a Hiroshima et Miyajima : visite d'une journee complete en train a grande vitesse",
+  "metaTitle": "Hiroshima et Miyajima depuis Kyoto en Shinkansen",
+  "metaDescription": "Hiroshima et Miyajima depuis Kyoto en Shinkansen : parc memorial de la Paix et sanctuaire d'Itsukushima en une journee.",
+  "shortDescription": "Vivez une excursion inoubliable d'une journee a Hiroshima et Miyajima en train a grande vitesse depuis Kyoto. Plongez dans les incontournables d'Hiroshima, du sanctuaire d'Itsukushima au parc memorial de la Paix.",
+  "fullDescription": "Hiroshima semble loin de Kyoto jusqu'a ce que vous vous rappeliez ce que le Shinkansen peut faire : cette visite d'une journee complete vous met a bord du train a grande vitesse en debut de matinee et vous fait vous tenir dans le parc memorial de la Paix avant que de nombreux voyageurs n'aient fini leur petit-dejeuner. C'est une longue journee, environ treize heures porte a porte, mais c'est la journee qui permet aux voyageurs bases a Kyoto de decouvrir une des destinations les plus importantes du Japon sans refaire leur valise. Vous rencontrez votre guide expert selectionne avec soin a la gare de Kyoto et voyagez vers le sud-ouest a bord du Shinkansen a jusqu'a 300 kilometres par heure, une experience a cocher sur la liste en elle-meme, le transport etant inclus dans le prix. Les heures a Hiroshima sont consacrees aux sites qui comptent : le parc memorial de la Paix avec ses cenotaphes et ses grues en papier, le Dome de la Bombe Atomique preserve tel que l'explosion l'a laisse, et les histoires humaines que votre guide porte et qui transforment les monuments a nouveau en personnes. Puis la journee passe de la reflexion a la serenite. Le train local et le ferry vous amenent a Miyajima, ou le grand torii du sanctuaire d'Itsukushima se dresse dans la maree, et les corridors du sanctuaire, les ruelles de l'ile et les cerfs residents remplissent l'apres-midi ; votre taxe de visiteur de Miyajima est deja couverte. Il y a du temps pour manger, les momiji manju et les huitres grillees sont les cartes de visite de l'ile, avant que le Shinkansen du soir ne vous ramene a Kyoto. Le rythme est honnete : un depart matinal, une journee complete, et une des excursions d'une journee les plus marquantes que le Japon offre, geree de bout en bout par un guide pour que vous n'ayez jamais a penser a la logistique.",
+  "highlights": [],
+  "included": [
+   "Guide expert selectionne avec soin, taxe de visiteur de Miyajima, transport en Shinkansen"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "miyajima-chauffeur-private-tour": {
+  "title": "Visite privee d'une journee a Hiroshima et Miyajima avec chauffeur depuis votre hotel",
+  "metaTitle": "Hiroshima et Miyajima avec chauffeur prive",
+  "metaDescription": "Une journee privee avec chauffeur a Hiroshima et Miyajima depuis votre hotel, parc de la Paix, chateau et le torii flottant.",
+  "shortDescription": "Une journee privee avec chauffeur a travers Hiroshima et Miyajima, partant directement de votre hotel. Parc de la Paix, chateau d'Hiroshima, jardin Shukkei-en et le torii flottant, a votre rythme. Tarif par vehicule (jusqu'a 4 personnes).",
+  "fullDescription": "C'est la facon sans effort de faire Hiroshima et Miyajima : une journee privee avec chauffeur qui commence a la porte de votre hotel a Hiroshima et gere chaque kilometre entre les deux. Votre chauffeur anglophone arrive dans un Toyota Alphard, le minivan luxueux qui est le transport executif de choix du Japon, accueillant jusqu'a quatre personnes, avec un HiAce disponible pour les groupes de jusqu'a neuf, et a partir de ce moment, le rythme, le parking et la logistique du ferry deviennent entierement le probleme de quelqu'un d'autre. La journee couvre l'etendue complete de la region. En ville, vous visitez le parc memorial de la Paix et le Dome de la Bombe Atomique, votre chauffeur chronometrant les arrivees pour eviter le pire des foules, puis le chateau d'Hiroshima et l'exquis jardin Shukkei-en, le jardin paysager de l'ere feodale que la plupart des excursions d'une journee ignorent. Puis le trajet vers le sud jusqu'au quai, ou votre chauffeur gere la traversee en ferry vers Miyajima, et le torii flottant de l'ile et le sanctuaire d'Itsukushima remplissent l'apres-midi au rythme qui vous convient. Comme le vehicule est le votre, la journee s'adapte : attardez-vous plus longtemps au musee, sautez un arret, ou ajoutez le detour optionnel vers Iwakuni pour voir le pont Kintaikyo, l'extraordinaire pont en bois a cinq arches a une heure de plus, ajoutant environ quatre-vingt-dix minutes a deux heures. La tarification se fait par vehicule plutot que par personne, 105 000 JPY pour l'Alphard, 120 000 JPY pour le HiAce a neuf places, ce qui le rend etonnamment economique pour les familles et les petits groupes ; notez que le petit tarif de ferry, les repas et les entrees d'attraction sont payes au fur et a mesure. Pour les voyageurs qui valorisent le confort, la flexibilite et zero logistique, c'est l'option premium de la region.",
+  "highlights": [],
+  "included": [
+   "Vehicule prive avec chauffeur pour la journee complete (Toyota Alphard ou HiAce), chauffeur anglophone, prise en charge et retour a l'hotel a Hiroshima, rythme flexible et extension optionnelle Iwakuni/pont Kintaikyo"
+  ],
+  "notIncluded": [
+   "Le tarif de ferry pour Miyajima (petit montant, payable au quai), les repas, les entrees d'attraction"
+  ]
+ },
+ "miyajima-floating-full-day-tour": {
+  "title": "Visite privee d'une journee complete a Hiroshima et Miyajima : du parc de la Paix au torii flottant",
+  "metaTitle": "Hiroshima et Miyajima : parc de la Paix au torii flottant",
+  "metaDescription": "Une visite privee de 8 heures associant Hiroshima et le sanctuaire insulaire de Miyajima et son torii flottant, frais d'entree inclus.",
+  "shortDescription": "Une visite privee de 8 heures associant l'histoire de reflexion et de renouveau d'Hiroshima au sanctuaire insulaire de Miyajima et son celebre torii flottant. Tous les frais d'entree inclus. Prix par groupe.",
+  "fullDescription": "Cette journee privee de huit heures associe les deux experiences qui definissent ce coin du Japon, l'histoire de reflexion, de resilience et de renouveau d'Hiroshima, et le sanctuaire insulaire de Miyajima, et les relie avec un seul guide multilingue dedie dont l'attention ne quitte jamais votre groupe. La journee commence doucement a 10h, rendez-vous dans le hall de votre hotel ou a la gare d'Hiroshima, et l'itineraire est entierement personnalisable a partir de la ; ce qui suit est la forme classique. La matinee appartient au parc memorial de la Paix, parcouru lentement : le cenotaphe et sa flamme eternelle, le monument de la Paix des Enfants drape de grues, le Dome de la Bombe Atomique de l'autre cote de la riviere, votre guide superposant l'histoire et les histoires humaines a un rythme qui laisse de la place pour sentir autant qu'apprendre, et tous les frais d'entree pour les attractions listees deja inclus. Apres le dejeuner, le voyage vers Miyajima devient un plaisir en lui-meme, train le long de la cote, ferry a travers le detroit, avant que l'ile ne livre sa revelation celebre : le grand torii vermillon du sanctuaire d'Itsukushima flottant sur la maree, les corridors du sanctuaire construits au-dessus de la mer, les cerfs errant dans les ruelles, et les pentes boisees anciennes du mont Misen au-dessus de tout cela. Votre guide gere les aspects pratiques et adapte l'apres-midi a votre energie, plus de temples, plus de rue commercante, ou simplement plus de temps a regarder la lumiere changer sur l'eau. Chaque invite rapporte un souvenir Stovenir, le soutien personnel au voyage se poursuit au-dela de la journee, et aucun pourboire n'est attendu ; les repas et les tarifs de transport sont les seuls extras. C'est la journee complete d'Hiroshima, rendue personnelle.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel multilingue dedie (8 heures), tous les frais d'entree pour les attractions listees, souvenir 'Stovenir' pour chaque invite, itineraire personnalisable, soutien personnel au voyage (aucun pourboire attendu)"
+  ],
+  "notIncluded": [
+   "Repas et frais de transport"
+  ]
+ },
+ "miyajima-guided-tour": {
+  "title": "Hiroshima et Miyajima en une journee : Dome de la Bombe A et Itsukushima avec un local",
+  "metaTitle": "Hiroshima et Miyajima en une journee",
+  "metaDescription": "Hiroshima et Miyajima en une journee privee avec un guide local japonais : Dome de la Bombe Atomique et sanctuaire d'Itsukushima.",
+  "shortDescription": "Vivez Hiroshima et Miyajima en une journee privee avec un guide local japonais. Decouvrez le Dome de la Bombe Atomique, le parc memorial de la Paix et le sanctuaire d'Itsukushima, et les histoires et traditions derriere eux.",
+  "fullDescription": "Les deux sites du patrimoine mondial de l'UNESCO d'Hiroshima se trouvent a moins d'une heure l'un de l'autre, et cette journee privee de sept heures les relie comme le ferait un local : l'ile d'abord, la ville ensuite, avec un guide japonais dont le commentaire vient d'un lien personnel et familial aux deux. La journee commence par une prise en charge depuis l'un des quatorze lieux centraux, y compris les grands hotels et la gare d'Hiroshima, avant de prendre le train le long de la cote et d'attraper le court ferry vers Miyajima. La matinee appartient a l'ile : le grand torii vermillon du sanctuaire d'Itsukushima apparaissant flotter sur la maree, les corridors au-dessus de l'eau du sanctuaire, la montee a travers le temple Daisho-in avec ses centaines de statues, et le pavillon Senjokaku aux mille tatamis. Vous obtenez ensuite genereusement quatre-vingt-dix minutes dans la rue commercante d'Omotesando pour grignoter des huitres grillees, des gateaux momiji manju a l'erable et tout ce que les etals servent, ce qui fait aussi office de dejeuner. Le trajet en tram de retour vers la ville fait partie de l'experience, retracant l'itineraire le long duquel Hiroshima s'est reconstruite. L'apres-midi devient reflexif : le Dome de la Bombe Atomique, l'hypocentre, le parc memorial de la Paix et le monument de la Paix des Enfants, se terminant par une heure complete au musee memorial de la Paix. Les guides ici ont une note cinq etoiles sur des dizaines d'avis precisement parce qu'ils gerent ce contraste, matinee sacree, apres-midi sombre, avec chaleur et honnetete. Si vous avez une journee a Hiroshima et voulez qu'elle soit faconnee autour de vous plutot qu'un horaire de bus, c'est le format qui fonctionne.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans l'itineraire"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "miyajima-half-day-tour": {
+  "title": "Visite de l'ile de Miyajima en demi-journee en petit groupe depuis Hiroshima",
+  "metaTitle": "Miyajima en demi-journee depuis Hiroshima",
+  "metaDescription": "Explorez Miyajima en demi-journee depuis Hiroshima, le torii flottant, l'histoire et les saveurs locales de l'ile.",
+  "shortDescription": "Explorez l'ile de Miyajima lors d'une visite guidee en demi-journee depuis Hiroshima. Decouvrez l'emblematique porte torii flottante en explorant l'histoire, la culture et les saveurs locales de l'ile.",
+  "fullDescription": "Miyajima fonctionne magnifiquement en demi-journee si quelqu'un d'autre gere la logistique, et c'est exactement ce que fait cette visite de quatre heures en petit groupe. Vous rencontrez votre guide a la gare d'Hiroshima le matin, et a partir de la, le transport est simplement pris en charge : le trajet en train de trente minutes le long de la cote jusqu'a Miyajimaguchi, puis la traversee en ferry de dix minutes avec la crete boisee de l'ile et le torii vermillon se dressant devant vous. Sur l'ile, la visite couvre correctement le circuit essentiel. Vous commencez sur le littoral avec la grande porte Otorii, se tenant dans la maree ou sur le sable humide selon l'heure, tandis que votre guide explique les plus de mille ans d'histoire du sanctuaire et pourquoi tout le complexe a ete construit au-dessus de l'eau sur une ile sacree. A l'interieur du sanctuaire d'Itsukushima, vous marchez sur les corridors de bois vermillon au-dessus de la mer, puis continuez dans les ruelles jusqu'a Daisho-in, le temple atmospherique a flanc de colline dont les escaliers sont bordes de centaines de petites statues, de roues de priere et de halls tranquilles ; c'est l'arret qui transforme Miyajima d'une carte postale en un lieu. La visite se termine le long de la rue commercante d'Omotesando avec du temps pour essayer les specialites de l'ile, des huitres grillees et des gateaux chauds momiji manju a l'erable, et pour chercher des souvenirs tandis que les cerfs residents supervisent. Comme le groupe reste petit, le rythme demeure conversationnel et il y a de la place pour des questions tout au long. Vous etes de retour avec des connexions faciles vers Hiroshima en debut d'apres-midi, laissant le reste de votre journee libre pour le parc memorial de la Paix.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans l'itineraire"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
  "nagoya-takoyaki-cooking-class": {
   "title": "Takoyaki de zero a Nagoya : pate, poulpe et le retournement",
   "metaTitle": "Cours de takoyaki a Nagoya",

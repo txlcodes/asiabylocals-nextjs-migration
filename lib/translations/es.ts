@@ -58886,6 +58886,90 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales, comidas salvo que se especifique, propinas"
   ]
  },
+ "miyajima-adventure-tour": {
+  "title": "Aventura en kayak y natacion a las playas escondidas de Miyajima cerca de Hiroshima",
+  "metaTitle": "Kayak a las playas escondidas de Miyajima",
+  "metaDescription": "Escape de las multitudes en un tour en kayak al lado escondido de Miyajima. Reme en aguas cristalinas, nade en playas aisladas y observe ciervos salvajes.",
+  "shortDescription": "Escape de las multitudes en un tour en kayak al lado escondido de Miyajima. Reme en aguas cristalinas, nade en playas aisladas y observe ciervos salvajes, con fotos gratuitas incluidas.",
+  "fullDescription": "Casi todos los que visitan Miyajima ven el mismo kilometro cuadrado: el muelle del ferry, la calle comercial, el santuario, el torii. Esta aventura en kayak de tres horas trata sobre el resto de la isla, el lado al que las multitudes nunca llegan. Desde el punto de encuentro en la terminal de ferry de Miyajima, un breve trayecto de diez minutos lo lleva a un punto de lanzamiento tranquilo lejos del nucleo turistico. Despues de una charla informativa y un ajuste, sale a remar dos horas completas guiadas a lo largo de una costa intacta de agua clara y calma, calas bordeadas de pinos y playas sin huellas en ellas. El ritmo es genuinamente relajado; el operador recibe remeros de cuatro a setenta anos, y los kayaks de sentarse encima son lo bastante estables para principiantes completos y para padres que compartan un bote con ninos pequenos. En el camino se detiene en playas aisladas alcanzables solo desde el agua, donde puede nadar en aguas poco profundas, explorar la orilla, y posiblemente compartir la arena con los ciervos salvajes de la isla, que bajan del bosque a las costas mas tranquilas. Su guia fotografia al grupo durante todo el recorrido y las fotos estan incluidas gratis, asi que los telefonos pueden quedarse seguros y secos. Despues del regreso remando, lo llevan de vuelta a la terminal de ferry, tres horas despues de haber salido, habiendo visto una version de Miyajima que la mayoria de los miles de visitantes diarios no saben que existe. Combina perfectamente con una manana o una tarde en el santuario, y en verano las paradas para nadar justifican el viaje por si solas.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "miyajima-bullet-full-day-tour": {
+  "title": "De Kioto a Hiroshima y Miyajima: tour de un dia completo en tren bala",
+  "metaTitle": "Hiroshima y Miyajima desde Kioto en tren bala",
+  "metaDescription": "Hiroshima y Miyajima desde Kioto en tren bala: parque memorial de la Paz y santuario de Itsukushima en un dia.",
+  "shortDescription": "Viva un inolvidable tour de un dia a Hiroshima y Miyajima en tren bala desde Kioto. Sumerjase en lo mejor de Hiroshima, desde el santuario de Itsukushima hasta el parque memorial de la Paz.",
+  "fullDescription": "Hiroshima se siente lejos de Kioto hasta que recuerda lo que puede hacer el Shinkansen: este tour de dia completo lo pone a bordo del tren bala temprano en la manana y lo hace estar de pie en el parque memorial de la Paz antes de que muchos viajeros hayan terminado el desayuno. Es un dia largo, unas trece horas puerta a puerta, pero es el dia que permite a los viajeros basados en Kioto experimentar uno de los destinos mas importantes de Japon sin volver a empacar una maleta. Se encuentra con su experto guia cuidadosamente seleccionado en la estacion de Kioto y viaja en el Shinkansen hacia el suroeste a hasta 300 kilometros por hora, una experiencia de lista de deseos en si misma, con el transporte incluido en el precio. Las horas en Hiroshima se dedican a los sitios que importan: el parque memorial de la Paz con sus cenotafios y grullas de papel, la Cupula de la Bomba Atomica preservada tal como la dejo la explosion, y las historias humanas que su guia lleva consigo y que convierten los monumentos de vuelta en personas. Luego el dia pasa de la reflexion a la serenidad. El tren local y el ferry lo llevan a Miyajima, donde el gran torii del santuario de Itsukushima se alza en la marea, y los corredores del santuario, los callejones de la isla y los ciervos residentes llenan la tarde; su impuesto de visitante de Miyajima ya esta cubierto. Hay tiempo para comer, el momiji manju y las ostras asadas son las tarjetas de presentacion de la isla, antes de que el Shinkansen nocturno lo lleve de vuelta a Kioto. El ritmo es honesto: un inicio temprano, un dia completo, y una de las excursiones de un dia mas conmovedoras que ofrece Japon, manejada de principio a fin por un guia para que nunca piense en la logistica.",
+  "highlights": [],
+  "included": [
+   "Experto guia cuidadosamente seleccionado, impuesto de visitante de Miyajima, transporte en Shinkansen"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "miyajima-chauffeur-private-tour": {
+  "title": "Tour privado de un dia con chofer a Hiroshima y Miyajima desde su hotel",
+  "metaTitle": "Hiroshima y Miyajima con chofer privado",
+  "metaDescription": "Un dia privado con chofer desde su hotel a Hiroshima y Miyajima, parque de la Paz, castillo y el torii flotante.",
+  "shortDescription": "Un dia privado con chofer por Hiroshima y Miyajima, saliendo directamente de su hotel. Parque de la Paz, castillo de Hiroshima, jardin Shukkei-en y el torii flotante, a su ritmo. Precio por vehiculo (hasta 4 personas).",
+  "fullDescription": "Esta es la forma sin esfuerzo de hacer Hiroshima y Miyajima: un dia privado con chofer que comienza en la puerta de su hotel en Hiroshima y maneja cada kilometro entre medio. Su chofer de habla inglesa llega en una Toyota Alphard, la lujosa minivan que es el transporte ejecutivo preferido de Japon, con asientos para hasta cuatro, con una HiAce disponible para grupos de hasta nueve, y desde ese momento el ritmo, el estacionamiento y la logistica del ferry son completamente problema de otra persona. El dia cubre todo el alcance de la region. En la ciudad visita el parque memorial de la Paz y la Cupula de la Bomba Atomica, con su chofer cronometrando las llegadas para evitar lo peor de las multitudes, luego el castillo de Hiroshima y el exquisito jardin Shukkei-en, el jardin paisajistico de la era feudal que la mayoria de los tours de un dia se saltan. Luego el trayecto al sur hasta el muelle, donde su chofer maneja el cruce en ferry a Miyajima, y el torii flotante de la isla y el santuario de Itsukushima llenan la tarde al ritmo que le convenga. Debido a que el vehiculo es suyo, el dia se adapta: demorese mas en el museo, saltese una parada, o anada el desvio opcional a Iwakuni para ver el puente Kintaikyo, el extraordinario puente de madera de cinco arcos una hora mas alla, anadiendo aproximadamente noventa minutos a dos horas. El precio es por vehiculo en lugar de por persona, 105.000 JPY para el Alphard, 120.000 JPY para la HiAce de nueve asientos, lo que lo hace sorprendentemente economico para familias y grupos pequenos; tenga en cuenta que la pequena tarifa del ferry, las comidas y las entradas a atracciones se pagan sobre la marcha. Para viajeros que valoran la comodidad, la flexibilidad y cero logistica, esta es la opcion premium de la region.",
+  "highlights": [],
+  "included": [
+   "Vehiculo privado con chofer para el dia completo (Toyota Alphard o HiAce), chofer de habla inglesa, recogida y regreso al hotel en Hiroshima, ritmo flexible y extension opcional a Iwakuni/puente Kintaikyo"
+  ],
+  "notIncluded": [
+   "La tarifa del ferry de Miyajima (pequena, pagadera en el muelle), comidas, entradas a atracciones"
+  ]
+ },
+ "miyajima-floating-full-day-tour": {
+  "title": "Tour privado de dia completo por Hiroshima y Miyajima: del parque de la Paz al torii flotante",
+  "metaTitle": "Hiroshima y Miyajima: parque de la Paz al torii flotante",
+  "metaDescription": "Un tour privado de 8 horas que combina Hiroshima con el santuario insular de Miyajima y su puerta torii flotante.",
+  "shortDescription": "Un tour privado de 8 horas que combina la historia de reflexion y renovacion de Hiroshima con el santuario insular de Miyajima y su famosa puerta torii flotante. Todas las entradas incluidas. Precio por grupo.",
+  "fullDescription": "Este dia privado de ocho horas combina las dos experiencias que definen este rincon de Japon, la historia de reflexion, resiliencia y renovacion de Hiroshima, y el santuario insular de Miyajima, y las entrelaza con un unico guia multilingue dedicado cuya atencion nunca abandona a su grupo. El dia comienza suavemente a las 10 de la manana, con encuentro en el vestibulo de su hotel o en la estacion de Hiroshima, y el itinerario es totalmente personalizable desde alli; lo que sigue es la forma clasica. La manana pertenece al parque memorial de la Paz, recorrido lentamente: el cenotafio y su llama eterna, el Monumento a la Paz de los Ninos adornado con grullas, la Cupula de la Bomba Atomica al otro lado del rio, con su guia agregando capas de historia e historias humanas a un ritmo que deja espacio para sentir tanto como para aprender, y todas las entradas para las atracciones indicadas ya incluidas. Despues del almuerzo, el viaje a Miyajima se convierte en un placer en si mismo, tren por la costa, ferry a traves del estrecho, antes de que la isla entregue su revelacion famosa: el gran torii bermellon del santuario de Itsukushima flotando en la marea, los corredores del santuario construidos sobre el mar, ciervos vagando por los callejones, y las antiguas laderas boscosas del monte Misen sobre todo ello. Su guia maneja los aspectos practicos y adapta la tarde a su energia, mas templos, mas calle comercial, o simplemente mas tiempo observando como cambia la luz sobre el agua. Cada huesped se lleva un recuerdo Stovenir, el apoyo personal de viaje continua mas alla del dia, y no se esperan propinas; las comidas y las tarifas de transporte son los unicos extras. Es el dia completo de Hiroshima, hecho personal.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional multilingue dedicado (8 horas), todas las entradas para las atracciones indicadas, recuerdo 'Stovenir' para cada huesped, itinerario personalizable, apoyo personal de viaje (sin propinas esperadas)"
+  ],
+  "notIncluded": [
+   "Comidas y costos de transporte"
+  ]
+ },
+ "miyajima-guided-tour": {
+  "title": "Hiroshima y Miyajima en un dia: Cupula de la Bomba A e Itsukushima con un local",
+  "metaTitle": "Hiroshima y Miyajima en un dia",
+  "metaDescription": "Hiroshima y Miyajima en un dia privado con guia local japones: Cupula de la Bomba Atomica y santuario de Itsukushima.",
+  "shortDescription": "Experimente Hiroshima y Miyajima en un dia privado con un guia local japones. Descubra la Cupula de la Bomba Atomica, el parque memorial de la Paz y el santuario de Itsukushima, y las historias y tradiciones detras de ellos.",
+  "fullDescription": "Los dos sitios de Patrimonio Mundial de la UNESCO de Hiroshima estan a menos de una hora entre si, y este dia privado de siete horas los conecta como lo haria un local: primero la isla, luego la ciudad, con un guia japones cuyo comentario proviene de una conexion personal y familiar con ambos. El dia comienza con la recogida en cualquiera de catorce lugares centricos, incluidos los principales hoteles y la estacion de Hiroshima, antes de viajar en tren por la costa y tomar el breve ferry a Miyajima. La manana pertenece a la isla: el gran torii bermellon del santuario de Itsukushima pareciendo flotar en la marea, los corredores sobre el agua del santuario, la subida por el templo Daisho-in con sus cientos de estatuas, y el pabellon Senjokaku de mil esteras de tatami. Luego obtiene generosos noventa minutos en la calle comercial de Omotesando para picotear ostras asadas, pasteles momiji manju de arce y lo que sea que sirvan los puestos, lo que tambien sirve como almuerzo. El viaje de regreso en tranvia a la ciudad es parte de la experiencia, trazando de nuevo la ruta por la que Hiroshima se reconstruyo. La tarde se vuelve reflexiva: la Cupula de la Bomba Atomica, el hipocentro, el parque memorial de la Paz y el Monumento a la Paz de los Ninos, terminando con una hora completa en el Museo Memorial de la Paz. Los guias aqui tienen una calificacion de cinco estrellas en docenas de resenas precisamente porque manejan este contraste, manana sagrada, tarde aleccionadora, con calidez y honestidad. Si tiene un dia en Hiroshima y quiere que se forme alrededor de usted en lugar de un horario de autobus, este es el formato que funciona.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "miyajima-half-day-tour": {
+  "title": "Tour de medio dia en grupo pequeno a la isla de Miyajima desde Hiroshima",
+  "metaTitle": "Miyajima en medio dia desde Hiroshima",
+  "metaDescription": "Explore Miyajima en medio dia desde Hiroshima, la puerta torii flotante y los sabores locales de la isla.",
+  "shortDescription": "Explore la isla de Miyajima en un tour guiado de medio dia desde Hiroshima. Descubra la iconica puerta torii flotante mientras conoce la historia, cultura y sabores locales de la isla.",
+  "fullDescription": "Miyajima funciona maravillosamente como medio dia si alguien mas maneja la logistica, y eso es exactamente lo que hace este tour de cuatro horas en grupo pequeno. Se encuentra con su guia en la estacion de Hiroshima por la manana, y desde alli el transporte simplemente se gestiona: el viaje en tren de treinta minutos por la costa hasta Miyajimaguchi, luego el cruce en ferry de diez minutos con la cresta boscosa de la isla y el torii bermellon elevandose ante usted. En la isla, el tour cubre bien el circuito esencial. Comienza en la orilla con la gran puerta Otorii, de pie en la marea o sobre arena humeda segun la hora, mientras su guia explica la historia de mas de mil anos del santuario y por que todo el complejo se construyo sobre el agua en una isla sagrada. Dentro del santuario de Itsukushima camina por los corredores de madera bermellon sobre el mar, luego continua por los callejones hasta Daisho-in, el atmosferico templo en la ladera cuyas escaleras estan bordeadas de cientos de pequenas estatuas, ruedas de oracion y salones tranquilos; es la parada que convierte a Miyajima de una postal en un lugar. El tour se completa a lo largo de la calle comercial de Omotesando con tiempo para probar las especialidades de la isla, ostras asadas y calidos pasteles momiji manju de arce, y para buscar recuerdos mientras los ciervos residentes supervisan. Como el grupo se mantiene pequeno, el ritmo sigue siendo conversacional y hay espacio para preguntas durante todo el recorrido. Esta de vuelta con conexiones faciles hacia Hiroshima a primera hora de la tarde, dejando el resto de su dia libre para el parque memorial de la Paz.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
  "nagoya-takoyaki-cooking-class": {
   "title": "Takoyaki desde cero en Nagoya: masa, pulpo y el volteo",
   "metaTitle": "Clase de takoyaki en Nagoya",
