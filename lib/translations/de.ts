@@ -58802,6 +58802,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Tempel- und Garteneintrittsgebuehren sofern zutreffend, Mahlzeiten und Getraenke, persoenliche Ausgaben, Trinkgelder"
   ]
  },
+ "kyoto-walking-evening-tour": {
+  "title": "Nachtspaziergang durch Fushimi Inari in Kyoto",
+  "metaTitle": "Nachtspaziergang durch Fushimi Inari",
+  "metaDescription": "Zwei ruhige Nachtstunden durch die Torii-Tore von Fushimi Inari mit einem lokalen Guide, weit weg von den Tagesmenschenmengen.",
+  "shortDescription": "Zwei ruhige Nachtstunden durch die Torii-Tore von Fushimi Inari mit einem lokalen Guide, weit weg von den Tagesmenschenmengen.",
+  "fullDescription": "Um neun Uhr morgens sind Fushimi Inaris untere Tore bereits ein langsam fliessender Fluss aus Reisegruppen und Selfie-Stangen. Nach Einbruch der Dunkelheit gehoert der Berg fast niemandem, nur den Kraehen, den Fuchsstatuen, die Fackellicht einfangen, und dem schwachen Weihrauchgeruch, der aus den Schreinbueros weht. Dies ist die Version der meistfotografierten Staette Kyotos, die sich tatsaechlich wie der heilige Ort anfuehlt, der sie ist. Ihr Guide trifft Sie nahe dem Eingang des JR-Bahnhofs Inari, wenn die zinnoberroten Torii-Tore unter Lampionlicht zu leuchten beginnen, und fuehrt Sie hinauf durch den Senbon Torii, den dichten Tunnel aus Tausenden von Toren, die ueber Jahrhunderte von Unternehmen gestiftet wurden, jedes mit einem Firmennamen und dem Datum der Stiftung beschriftet, eine Tradition, die auf die Edo-Zeit zurueckgeht, als Kaufleute glaubten, der Fuchsgeist Inari bringe Wohlstand. Weg von der Tageshitze und den Menschenmengen koennen Sie tatsaechlich anhalten, atmen, und Details bemerken, die die meisten Besucher verpassen: die kleineren Nebenschreine, versteckt in Seitenpfaden, die steinernen Fuchswaechter, die Schluessel und Juwelen im Maul halten, wie sich der Torbogen-Tunnel verengt und erweitert, waehrend Sie zur Kreuzung Yotsutsuji hinaufsteigen, wo sich Kyotos Lichter unter Ihnen ausbreiten. Der lokale Anbieter hat seinen Ruf genau auf dieser Art von Insider-Timing aufgebaut, Guides, die wissen, welche Abschnitte des Berges sich nach Sonnenuntergang zuerst leeren und welche Nebenschreine Geschichten haben, die einen Stopp wert sind, von den geheimnisvollen 'Omokaru'-Weisheitssteinen bis zum Volksgut, warum Fuechse statt Hirsche zu Inaris Botentieren wurden. Dies ist keine gehetzte Foto-Stopp-Tour; es sind zwei ungehetzte Stunden, die Fushimi Inari als lebenden Schrein behandeln statt als Checklisten-Punkt, mit viel Zeit fuer Fragen und einfach dafuer, in der Stille zwischen den Toren zu stehen. Bequeme Schuhe zaehlen hier, die Pfade sind aus Stein und festgetretener Erde mit etwas Steigung, obwohl diese Tour nicht ganz bis zum Gipfel geht. Wenn Sie Fushimi Inari schon auf einer Postkarte gesehen haben und tatsaechlich fuehlen wollen, was Pilger seit ueber tausend Jahren hierher gezogen hat, ist dies der Weg, es zu sehen. Buchen Sie den Abendtermin, bringen Sie eine leichte Jacke fuer die Bergluft, und lassen Sie sich von Kyotos nächtlicher Version seines beruehmtesten Schreins ueberraschen.",
+  "highlights": [],
+  "included": [
+   "Ein kundiger englischsprachiger lokaler Guide fuer den gesamten zweistuendigen Abendspaziergang"
+  ],
+  "notIncluded": [
+   "Hotelabholung/-ruecktransfer und Essen oder Getraenke entlang der Route sind nicht enthalten"
+  ]
+ },
+ "kyoto-walking-tour": {
+  "title": "Kyoto: gefuehrte Spaziergangstour zum Kaiserpalast und dem Nijo-Schloss",
+  "metaTitle": "Tour zum Kaiserpalast und Nijo-Schloss",
+  "metaDescription": "Ein dreistuendiger Spaziergang, der den Kaiserpalast Kyotos mit dem Nijo-Schloss verbindet, um zu verstehen, wie die Stadt wirklich funktionierte.",
+  "shortDescription": "Ein dreistuendiger Spaziergang, der den Kaiserpalast Kyotos mit dem Nijo-Schloss verbindet, um zu verstehen, wie die Stadt wirklich funktionierte.",
+  "fullDescription": "Kyoto belohnt Sie in dem Moment, in dem Sie aufhoeren, alles sehen zu wollen, und sich statt dessen an zwei Orten Zeit lassen, die tatsaechlich erklaeren, wie die Stadt funktionierte. Dieser Spaziergang verbindet den Kaiserpalast Kyotos, immer noch von seinen Steinmauern und kiefernbesetzten Kiesflaechen im Kyoto-Gyoen-Park umringt, mit dem Nijo-Schloss, der befestigten Residenz, die Tokugawa Ieyasu baute, um den Kaiser ein paar Kilometer entfernt zu ueberwachen. Ihr Guide verbindet die beiden als eine einzige Geschichte statt zwei separater Stopps: warum ein Shogun ein Schloss in Gehdistanz zum Palast brauchte, wozu die Nachtigallenboeden im Ninomaru-Palast tatsaechlich gebaut wurden (dieses unverkennbare Zwitschern unter den Fuessen ist ein 400 Jahre altes Alarmsystem, und es funktioniert noch), und wie die Wandbilder der Kano-Schule im Inneren genutzt wurden, um besuchende Daimyo einzuschuechtern, bevor sie je den Sitz des Shoguns erreichten. Der Kyoto-Gyoen selbst ist es wert, ueber die Palastgebaeude hinaus zu verweilen, er ist einer der wenigen grossen Gruenflaechen im Zentrum Kyotos, wo Einheimische tatsaechlich joggen, Hunde spazierenfuehren, und unter den Pflaumen- und Kirschbaeumen ein Nickerchen machen, und Ihr Guide wird zeigen, wo sich saisonale Blueten sammeln, wenn Sie zur richtigen Zeit besuchen. Im Inneren des Ninomaru-Palasts liest sich die Raum-fuer-Raum-Anordnung noch klar: die aeusseren Kammern fuer niedriger rangierte Besucher, die inneren Raeume fuer die engsten Verbuendeten des Shoguns reserviert, jeder mit einem Tatami-Matten-Status, der in die Geometrie des Gebaeudes selbst codiert ist. Dies ist keine Tour, die Sie an Informationstafeln vorbeihetzt; sie ist um einen Guide herum aufgebaut, der ungewoehnliche Fragen auf der Stelle beantworten kann. Mit nur drei Stunden passt sie ordentlich in einen Kyoto-Vormittag, ohne Ihren ganzen Tag zu verbrauchen, und laesst Sie frei, danach zum Nishiki-Markt oder nach Gion zum Mittagessen zu gehen. Wenn Sie das politische und architektonische Rueckgrat der Geschichte Kyotos erklaert bekommen wollen, von jemandem, der das Thema offensichtlich geniesst, ist dies der richtige Weg.",
+  "highlights": [],
+  "included": [
+   "Lizenzierter englischsprachiger Guide und gesamter Kommentar auf der Gehroute zwischen beiden Staetten"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehr zum Nijo-Schloss und jegliches Essen oder Getraenke entlang der Route sind nicht enthalten"
+  ]
+ },
+ "kyoto-workshop-guided-tour": {
+  "title": "Ukiyoe-Workshop",
+  "metaTitle": "Ukiyo-e-Druckworkshop",
+  "metaDescription": "Ein zweistuendiger Workshop mit der aktiven Kuenstlerin Kurumi Wakaki, um die Ukiyo-e-Holzschnitttechnik zu lernen und Ihren eigenen Druck herzustellen.",
+  "shortDescription": "Ein zweistuendiger Workshop mit der aktiven Kuenstlerin Kurumi Wakaki, um die Ukiyo-e-Holzschnitttechnik zu lernen und Ihren eigenen Druck herzustellen.",
+  "fullDescription": "Lange bevor Kyoto Souvenirlaeden hatte, die massenproduzierte Reproduktionen von Hokusais Grosser Welle verkauften, waren Ukiyo-e-Holzschnittdrucke ein kollaboratives Handwerk, das einen Kuenstler, einen Schnitzer, und einen Drucker nacheinander arbeitend einbezog, jede Farbschicht erforderte ihren eigenen handgeschnitzten Block, mit muehsamer Praezision ausgerichtet. Dieser Workshop, geleitet von der aktiven Kuenstlerin Kurumi Wakaki, reduziert diesen Prozess auf etwas, das Sie tatsaechlich an einem Nachmittag lernen koennen, ohne zu verlieren, was ihn faszinierend macht: Sie beginnen mit einem vorgeschnitzten Block im Stil von Meistern wie Hiroshige und Hokusai, und Kurumi fuehrt Sie durch die Baren-Reibetechnik, das Schichten wasserbasierter Pigmente, und die Passermarken (Kento), die mehrfarbige Drucke ausgerichtet halten, dieselbe Grundmethode, die in Druckstudios der Edo-Zeit verwendet wurde, nur komprimiert und fuer eine einzige Sitzung statt Jahre der Lehre zugaenglich gemacht. Was dies von einer generischen Handwerksklasse unterscheidet, ist Kurumis eigener Hintergrund als praktizierende Ukiyo-e-Kuenstlerin statt eine Angestellte einer Reiseagentur, die von einem Skript liest; sie erzaehlt, warum bestimmte Pigmente historisch bestimmten Motiven vorbehalten waren, wie die Drucke der 'schwebenden Welt' Kabuki-Schauspieler und Szenen aus Vergnuegungsviertel als eine Art Popkultur der Edo-Zeit darstellten, und was an der Passgenauigkeit im Vergleich zu dem, was modernes Drucken leichter gemacht hat, wirklich schwierig ist. Sie werden Ihren eigenen Druck ziehen, das Bild rueckwaerts vom Block zum Papier entstehen sehen, und mit einem fertigen Stueck gehen, das Ihnen gehoert statt ein Ladenkauf zu sein. Dies findet in einer richtigen Studioumgebung statt statt in einer touristenorientierten Ladenfront, sodass das Tempo ungehetzt bleibt und die Gruppengroesse klein genug bleibt fuer echte Eins-zu-eins-Anleitung von Kurumi, waehrend Sie arbeiten. Keine kuenstlerische Erfahrung ist erforderlich, das Schnitzen ist fuer Sie erledigt, und die Technik ist innerhalb des Zweistundenfensters lehrbar, obwohl Sie, wenn Sie einen Hintergrund im Zeichnen oder Drucken haben, zusaetzliche Nuancen in ihren Erklaerungen bemerken werden. Dies ist eine gute Wahl fuer Reisende, die ein praktisches kulturelles Erlebnis mit einem greifbaren Souvenir am Ende wollen, statt eines weiteren Tempelbesuchs, und eine besonders gute Regentag-Option in einer Stadt, die um Aussenbesichtigung aufgebaut ist. Buchen Sie es als Tempowechsel mitten in der Reise, und Sie gehen mit sowohl einem Druck als auch einem wirklich besseren Verstaendnis einer der einflussreichsten Kunstformen Japans.",
+  "highlights": [],
+  "included": [
+   "Alle Materialien, vorgeschnitzte Blocke, Pigmente, und Anleitung von der Kuenstlerin Kurumi Wakaki"
+  ],
+  "notIncluded": [
+   "Der Transport zum und vom Studio ist nicht enthalten"
+  ]
+ },
+ "magome-juku-guided-tour": {
+  "title": "Tagesausflug zu Magome-juku, Tsumago-juku und den Ryujin-Faellen ab Nagoya",
+  "metaTitle": "Magome-juku, Tsumago-juku und Ryujin-Faelle",
+  "metaDescription": "Ein Tagesausflug ab Nagoya durch zwei erhaltene Nakasendo-Poststaedte und eine Wanderung zu einem versteckten Wasserfall.",
+  "shortDescription": "Ein Tagesausflug ab Nagoya durch zwei erhaltene Nakasendo-Poststaedte und eine Wanderung zu einem versteckten Wasserfall.",
+  "fullDescription": "Lange bevor Eisenbahnen Japans grosse Staedte verbanden, nutzten Reisende zu Fuss den Nakasendo, eine Binnenhandelsroute, die Edo, das heutige Tokio, mit Kyoto durch die Berge statt entlang der Kueste verband. Dieser Tagesausflug ab Nagoya besucht zwei der am besten erhaltenen Poststaedte auf dieser Route, Magome-juku und Tsumago-juku, die nah genug beieinander liegen, um historisch durch einen Wanderweg verbunden gewesen zu sein, den heute noch Wanderer nutzen, bevor er an einem ruhigeren, weniger besuchten Wasserfall endet.\n\nDer Tag beginnt mit einer zweistuendigen Busfahrt vom Treffpunkt Silver Clock am Bahnhof Nagoya nach Magome, wo zwei Stunden fuer Fotos und freie Zeit entlang seiner steilen, steingepflasterten Hauptstrasse mit Holzgasthaeusern und -laden eingeplant sind. Eine kurze Fahrt fuehrt dann zu Tsumago-juku, wohl noch besser erhalten als sein Nachbar, da es eine der ersten Staedte Japans war, die oberirdische Stromleitungen und Automaten einschraenkte, um sein Erscheinungsbild aus der Edo-Zeit zu schuetzen, wo Sie neunzig Minuten zum Erkunden haben. Der letzte Stopp sind die Ryujin-Faelle, ein abgelegener Wasserfall, erreichbar ueber eine kurze Wanderung, der einen ruhigeren, natuerlicheren Kontrast zu den beiden historischen Staedten bietet.\n\nMit bisher nur einer verzeichneten Bewertung ist dies ein kleinerer, weniger befahrener Reiseplan als die groesseren Nagoya-Tagesausfluege, und das zeigt sich im Tempo: drei ungehetzte Stopps statt einer vollen Checkliste, mit echter Zeit, tatsaechlich durch beide Poststaedte zu gehen statt fuer Fotos zu hetzen. Es eignet sich fuer Reisende, die einen echten Geschmack der Atmosphaere der Edo-Zeit des Nakasendo neben einer kurzen Naturwanderung wollen, statt einer schnellen, Highlight-fokussierten Version der Region.",
+  "highlights": [],
+  "included": [
+   "Hin- und Rueckfahrt mit Bus/Reisebus ab Nagoya, englischsprachiger Guide, freie Zeit in Magome-juku und Tsumago-juku, gefuehrter Besuch der Ryujin-Faelle"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke, persoenliche Ausgaben, Trinkgelder"
+  ]
+ },
+ "meiji-shrine-half-day-tour": {
+  "title": "Ihr Tokio, Ihre Route: privater Halbtag mit lokalem Guide",
+  "metaTitle": "Tokio nach Mass in einem Halbtag",
+  "metaDescription": "Vier Stunden, ein Guide, und eine Route, die Sie bestimmen, Tempel, die Kreuzung, oder ein ganzer Nachmittag in Nakanos Anime-Labyrinth.",
+  "shortDescription": "Vier Stunden, ein Guide, und eine Route, die Sie bestimmen, Tempel, die Kreuzung, oder ein ganzer Nachmittag in Nakanos Anime-Labyrinth.",
+  "fullDescription": "Ein halber Tag reicht aus, um Tokio richtig zu sehen, wenn Sie nicht versuchen, alles davon zu sehen. Diese Tour nimmt sich vier Stunden Zeit fuer das, was Sie tatsaechlich interessiert, statt fuer eine Checkliste.\n\nDie ueblichen Form deckt die Grundlagen ab. Der Meiji-Schrein liegt in einem Wald aus rund 100.000 Baeumen, jeder aus ganz Japan gestiftet und in den 1920er Jahren handgepflanzt, ein Jahrhundert spaeter liest es sich wie uralter Wald, was genau die Absicht war. Der Schrein selbst ist Kaiser Meiji und Kaiserin Shoken gewidmet, und der Kieszugang unter dem grossen Holztorii ist bewusst lang, um Abstand zwischen die Stadt und das Heiligtum zu bringen. Senso-ji in Asakusa stammt aus dem Jahr 645 und ist der aelteste Tempel der Stadt; Sie treten unter dem Kaminarimon und seiner riesigen roten Laterne ein. Die Shibuya-Kreuzung braucht keine Erklaerung, obwohl die Hachiko-Statue daneben eine braucht, sie wurde 1934 fuer einen Hund errichtet, der weiterhin einen Zug traf, auf dem sein Besitzer nicht mehr war.\n\nNakano Broadway ist der, nach dem man fragen sollte. Ein Einkaufskomplex aus dem Jahr 1966, der zur ernsthaften Sammleralternative zu Akihabara wurde, vier Stockwerke winziger Einheiten, die Vintage-Manga, vergriffene Figuren, Retro-Spiele und Uhren verkaufen, betrieben von Spezialisten, die seit Jahrzehnten dort sind. Es ist dichter und seltsamer als alles in Akihabara, und die meisten Besucher hoeren nie davon.\n\nDa sie privat und niedrig preisgestaltet ist, funktioniert diese Tour gut als Orientierung fuer den ersten Nachmittag, finden Sie Ihre Orientierung, lernen Sie das Zugsystem mit jemandem, der es kennt, und verbringen Sie den Rest der Reise selbstbewusst. Erwarten Sie vier bis sechs Kilometer Gehen mit Zugfahrten zwischen den Stopps; geben Sie Mobilitaetsbeduerfnisse bei der Buchung an und die Route wird angepasst.",
+  "highlights": [],
+  "included": [
+   "Privater englischsprachiger lokaler Guide fuer vier Stunden, Route um Ihre Interessen geplant, eigene Transportkosten des Guides, Navigationshilfe im Zug- und U-Bahn-System, lokale Empfehlungen fuer den Rest Ihres Aufenthalts"
+  ],
+  "notIncluded": [
+   "Ihre eigenen Zug- und U-Bahn-Fahrpreise, Essen und Getraenke, jegliche Eintrittsgebuehren, Trinkgelder"
+  ]
+ },
+ "miyajima-adventure-full-day-tour": {
+  "title": "Hiroshima- und Miyajima-Abenteuer per Fahrrad und Boot, ganztagig",
+  "metaTitle": "Hiroshima und Miyajima per Fahrrad und Boot",
+  "metaDescription": "Entdecken Sie Hiroshima und Miyajima per Fahrrad: Friedenspark, Atombombendom, Hiroshima-Schloss, dann mit der Faehre zur Insel.",
+  "shortDescription": "Entdecken Sie Hiroshima und die Insel Miyajima bei einer gefuehrten Radtour. Besuchen Sie den Friedenspark, den Atombombendom und das Hiroshima-Schloss per Fahrrad, dann mit der Faehre nach Miyajima.",
+  "fullDescription": "Die meisten Hiroshima-und-Miyajima-Tagestouren beinhalten viel Sitzen: Busse, Zuege, Warten. Dieses siebenundeinhalbstuendige Abenteuer von InKansai ersetzt fast alles davon durch Treten und ein Faehrendeck, und der Tag ist dadurch besser. Sie beginnen im Zentrum Hiroshimas, wo sich Ihre kleine Gruppe nach Anpassung und einer Einweisung per Fahrrad durch die flache, von Fluessen durchzogene Stadt aufmacht. Die Morgenfahrt verbindet die wesentlichen Sehenswuerdigkeiten auf aktive Weise: den Friedensgedenkpark und den Atombombendom, wo Sie fuer einen richtigen gefuehrten Besuch absteigen, und das Hiroshima-Schloss mit seinem Burggraben und Gelaende, verbunden durch Uferpfade und Hinterstrassen, die zeigen, wie die wiederaufgebaute Stadt tatsaechlich lebt. Dann wendet sich die Route seewaerts, faehrt die Kueste entlang zur Faehre, wo Sie und die Fahrraeder die Meerenge nach Miyajima ueberqueren, waehrend der bewaldete Grat der Insel und das grosse Torii des Itsukushima-Schreins ueber dem Wasser immer groesser werden. Auf der Insel ist Zeit, den Schreinbereich und die Strassenszene von Omotesando zu erkunden, die ansaessigen Hirsche zu treffen, und zu essen, gegrillte Austern sind hier praktisch obligatorisch, bevor die Rueckfahrt und die Fahrt zurueck in die Stadt. Es ist ein wirklich voller und maessig aktiver Tag, aber das Gelaende ist flach und E-Unterstuetzung sowie stetiges Tempo halten ihn fuer jeden vernuenftig fitten Radfahrer erreichbar. Reisende haben ihn bisher mit einer perfekten Fuenf-Sterne-Wertung versehen, und es ist leicht zu verstehen, warum: Sie beenden den Tag, nachdem Sie sich beide UNESCO-Staetten mit Ihren eigenen Beinen verdient haben, was veraendert, wie Sie sich an sie erinnern.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
  "nagoya-takoyaki-cooking-class": {
   "title": "Takoyaki von Grund auf in Nagoya: Teig, Octopus und der Dreh",
   "metaTitle": "Takoyaki-Kochkurs in Nagoya",
