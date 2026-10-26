@@ -58970,6 +58970,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Depenses personnelles, repas sauf indication contraire, pourboires"
   ]
  },
+ "miyajima-heritage-tour": {
+  "title": "Visite en kayak du grand torii de Miyajima : pagayez dans une baie du patrimoine mondial",
+  "metaTitle": "Kayak au grand torii de Miyajima",
+  "metaDescription": "Pagayez vers le grand torii du sanctuaire d'Itsukushima depuis l'eau, la perspective originale des pelerins d'autrefois.",
+  "shortDescription": "Pagayez a travers les eaux calmes de Miyajima pour des vues saisissantes sur le grand torii du sanctuaire d'Itsukushima. Selon les marees et la meteo, vous pourriez debarquer pour explorer boutiques et temples locaux.",
+  "fullDescription": "Chaque photographie du grand torii de Miyajima est prise depuis le rivage, mais la porte a ete construite pour etre approchee depuis l'eau ; pendant mille ans, les pelerins arrivaient en bateau, passant en dessous avant de poser le pied sur l'ile sacree. Cette visite en kayak de deux heures restaure cette perspective originale. Apres un rendez-vous du cote de Miyajima et un briefing de securite approprie pres du sanctuaire Nagahama, vous vous installez dans des kayaks stables assis dessus et partez dans les eaux abritees et vitreuses de la baie, aucune experience de pagayage prealable requise. L'itineraire longe le rivage de la baie du patrimoine mondial avant de s'ouvrir sur sa piece maitresse : l'Otorii vermillon du sanctuaire d'Itsukushima s'elevant de la mer directement devant votre proue. Selon la maree, vous pagayez autour de la porte, derivant assez pres pour apprecier la taille pure de ses piliers en bois de camphrier, avec les corridors flottants du sanctuaire et les pentes boisees du mont Misen empiles derriere, un angle qu'aucun visiteur terrestre n'obtient jamais. Une pause au sanctuaire Kiyomori au bord de l'eau donne du temps pour des photos et une respiration, et quand la maree et la meteo le permettent, le groupe peut debarquer pour explorer les boutiques et temples pres du sanctuaire. Les guides gerent les courants et maintiennent un rythme doux tout au long, ce qui rend cela aussi adapte aux debutants qu'aux pagayeurs experimentes. Les avis qualifient systematiquement la vue depuis l'eau de point culminant de toute leur visite a Miyajima. Apportez des vetements qui peuvent prendre une eclaboussure et un telephone ou un appareil photo etanche ; vous voudrez les deux.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans l'itineraire"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "miyajima-itsukushima-guided-tour": {
+  "title": "Visite guidee de l'ile de Miyajima : sanctuaire d'Itsukushima, Daisho-in et grotte Henjo",
+  "metaTitle": "Visite guidee de l'ile de Miyajima",
+  "metaDescription": "Une visite approfondie de Miyajima incluant le sanctuaire d'Itsukushima, le temple Daisho-in, et la rare grotte Henjo.",
+  "shortDescription": "Visitez l'ile de Miyajima, abritant le sanctuaire d'Itsukushima classe UNESCO et sa celebre porte torii flottante, un lieu ou l'histoire, la spiritualite et la beaute naturelle se rencontrent.",
+  "fullDescription": "Miyajima recompense la profondeur, et cette visite guidee de l'ile de Voyagers va plus loin que le circuit standard sanctuaire-et-shopping. La journee commence par une prise en charge, depuis la sortie Shinkansen de la gare d'Hiroshima, Miyajimaguchi, ou les terminaux de croisiere, ce qui la rend particulierement pratique pour les passagers de croisiere avec une journee au port, avant que le ferry ne vous transporte vers l'ile ou l'histoire, la spiritualite et la beaute naturelle se rencontrent. La visite s'ouvre au bord de l'eau avec l'Otorii, la grande porte en bois de camphrier du sanctuaire d'Itsukushima classe UNESCO, puis passe trente-cinq minutes completes a l'interieur du sanctuaire lui-meme, marchant sur les corridors vermillon construits au-dessus de la maree et entendant pourquoi tout un complexe religieux a ete construit sur pilotis au-dessus de la mer. De la, elle grimpe jusqu'a la pagode a cinq etages avant de consacrer une heure complete a Daisho-in, le vaste temple a flanc de colline qui est le cœur spirituel de l'ile : des escaliers bordes de cinq cents statues, des halls de lanternes vacillantes, des roues de priere tournantes censees accorder le merite de lire les sutras. Vient ensuite l'arret que presque aucune visite n'inclut, la grotte Henjo, le hall sombre sous Daisho-in eclaire par des centaines de lanternes, contenant du sable de chacun des quatre-vingt-huit temples du pelerinage de Shikoku ; parcourir son circuit est dit equivaloir au pelerinage entier. La visite descend a travers le pavillon Senjokaku aux mille tatamis et se termine par pres d'une heure dans la rue Omotesando pour des huitres, des momiji manju et des souvenirs avant votre ferry de retour et votre depose. Note 4,88 par les voyageurs, c'est le portrait le plus complet de l'ile sacree en une seule visite disponible.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans l'itineraire"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "miyajima-private-tour": {
+  "title": "Miyajima en pousse-pousse : trajet prive vers le sanctuaire d'Itsukushima",
+  "metaTitle": "Miyajima en pousse-pousse",
+  "metaDescription": "Une balade privee en pousse-pousse traditionnel a travers Miyajima, avec un coureur qui est a la fois athlete, guide et photographe.",
+  "shortDescription": "Profitez d'une balade privee en pousse-pousse autour de l'ile de Miyajima, « l'ile des dieux ». Admirez de belles vues et visitez des temples et autres sites spirituels dans un style traditionnel.",
+  "fullDescription": "Il existe une facon plus ancienne et plus lente de voir Miyajima, et elle vient avec deux roues, un banc rembourre et un coureur en tenue traditionnelle. Ebisuya, la compagnie de pousse-pousse la plus connue du Japon, transporte des voyageurs a travers les quartiers historiques du pays depuis des decennies, et leur itineraire de Miyajima transforme l'ile des dieux en un panorama mouvant. Depuis pres du terminal de ferry, votre coureur de pousse-pousse, mi-athlete, mi-guide, mi-photographe, souleve les brancards et part le long de la route cotiere, chronometrant les pauses pour que vous voyiez le grand torii du sanctuaire d'Itsukushima sous des angles que les marcheurs trouvent rarement, la porte encadree contre la mer interieure de Seto et les toits de temples grimpant la colline derriere. Le trajet serpente devant des sanctuaires et des sites spirituels, a travers des ruelles arriere ou les cerfs de l'ile somnolent a l'ombre, votre coureur racontant l'histoire et les legendes en chemin et descendant aux meilleurs points de vue pour prendre des photos de vous contre le paysage. Les coureurs de pousse-pousse s'entrainent intensivement avant d'etre autorises a transporter des invites, et leur combinaison de spectacle, de connaissance locale et de vraie forme physique fait la moitie du plaisir de l'experience ; avec une note de 4,9 sur des dizaines d'avis, les invites mentionnent systematiquement leurs coureurs par leur nom. Les trajets sont prives a votre groupe, et le rythme est entierement le votre : un tour compact le long du rivage ou un circuit plus long plus profondement dans les ruelles de l'ile. Cela convient aux couples, aux familles avec enfants, et a quiconque a besoin de reposer ses jambes apres les escaliers de temples. Sur une ile construite pour la reverence, arriver au sanctuaire d'Itsukushima comme les pelerins d'un autre siecle auraient pu le faire est un petit luxe memorable.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans l'itineraire"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "miyajima-serenity-guided-tour": {
+  "title": "Visite classique d'une journee a Hiroshima et Miyajima : histoire et serenite insulaire",
+  "metaTitle": "Hiroshima et Miyajima : histoire et serenite",
+  "metaDescription": "Une journee guidee de huit heures associant l'histoire poignante d'Hiroshima le matin et la serenite ancienne de Miyajima l'apres-midi.",
+  "shortDescription": "Le choix parfait pour ceux qui veulent voir a la fois l'histoire poignante d'Hiroshima et la serenite ancienne de Miyajima, le tout en une seule journee guidee.",
+  "fullDescription": "Si vous sejournez a Hiroshima, cette journee guidee de huit heures est l'itineraire classique fait correctement : l'histoire poignante de la ville le matin, la serenite ancienne de Miyajima l'apres-midi, avec un guide expert et tout le transport gere pour que la journee se deroule sans une seule pensee logistique. Elle commence dans le parc memorial de la Paix, ou votre guide selectionne avec soin vous guide a travers le paysage memorial, le cenotaphe aligne avec la Flamme de la Paix et le Dome de la Bombe Atomique, le monument de la Paix des Enfants enterre dans des grues en papier, et raconte l'histoire du 6 aout 1945 avec le soin qu'elle exige : ce qui s'est passe, a qui c'est arrive, et comment la ville a choisi de repondre a la destruction par un message de paix. Du temps dans la zone du musee approfondit le tableau avant que la journee ne change deliberement de registre. Le transport vous emmene le long de la cote et a travers le detroit jusqu'a Miyajima, l'ile si sacree que son sanctuaire a ete construit au-dessus de la mer, et l'apres-midi appartient a ses rythmes plus doux : le grand torii se tenant dans la maree, les corridors vermillon du sanctuaire d'Itsukushima, des cerfs somnolant dans les ruelles, et du temps libre dans la rue Omotesando pour des huitres grillees et des momiji manju chauds ; votre taxe de visiteur de Miyajima est incluse. Les deux moities sont le point essentiel. Porter temoignage le matin donne a la beaute de l'ile son poids, et les voyageurs decrivent systematiquement la combinaison comme le point culminant emotionnel de leur sejour au Japon. Vous etes ramene a Hiroshima en debut de soiree, ayant vu les deux sites du patrimoine mondial de l'UNESCO de la region en une seule journee fluide et bien rythmee.",
+  "highlights": [],
+  "included": [
+   "Guide expert selectionne avec soin, taxe de visiteur de Miyajima, transport"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "miyajima-spiritual-tour": {
+  "title": "Experience du temple zen de Miyajima : ceremonie du the et calligraphie en kimono",
+  "metaTitle": "Ceremonie du the et calligraphie a Miyajima",
+  "metaDescription": "Une ceremonie du the, une lecon de calligraphie, ou les deux, en kimono dans un temple zen tranquille de Miyajima.",
+  "shortDescription": "Profitez d'une ceremonie du the, d'une lecon de calligraphie, ou des deux, en portant un kimono a l'interieur d'un temple zen a Miyajima. Imprégnez-vous de l'atmosphere tranquille et flanez dans le jardin.",
+  "fullDescription": "La plupart des visiteurs voient les temples de Miyajima de l'exterieur. Cette experience culturelle avec okeiko Japan vous assied a l'interieur de l'un d'eux, vetu d'un kimono, avec un bol de matcha dans les mains. Accueillie dans un temple zen tranquille sur l'ile sacree, la session vous laisse choisir une ceremonie du the traditionnelle, une lecon de calligraphie japonaise, ou les deux, chacune menee dans l'esprit sans hate et deliberer pour lequel les cadres de temple ont ete faits. L'experience commence par l'habillage en kimono : le personnel vous ajuste correctement dans le vetement en couches, un art en soi, et le kimono est le votre a porter pour toute la duree, y compris dans le jardin du temple, ce qui produit le genre de photographies qu'aucun kimono de location de coin de rue ne peut egaler. Si vous choisissez la ceremonie du the, vous regardez l'hote preparer le matcha avec la choregraphie precise et seculaire de la salle de the, gouter le the vert fouette avec une douceur traditionnelle, puis apprenez a preparer un bol vous-meme. L'option calligraphie place un pinceau dans votre main et enseigne les traits, le rythme et la respiration du shodo, encre sur papier dans un hall silencieux, avec votre travail fini a emporter. Entre les activites, il y a du temps pour simplement etre dans le temple : flaner dans le jardin, ecouter le calme, et laisser l'atmosphere de l'ile s'installer. Les hotes sont chaleureux, a l'aise en anglais et patients avec les debutants, ce qui se voit dans les chiffres : une note de 4,97 sur 270 avis, parmi les plus elevees de toute experience de la region. C'est un contrepoids ideal a une matinee au sanctuaire, environ quatre-vingt-dix minutes que de nombreux invites qualifient de moment le plus calme de tout leur voyage.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans l'itineraire"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "miyajima-unesco-private-tour": {
+  "title": "Visite privee d'une journee a Hiroshima et Miyajima : deux sites UNESCO avec un guide local",
+  "metaTitle": "Hiroshima et Miyajima : deux sites UNESCO",
+  "metaDescription": "Six heures privees avec un guide experimente d'Hiroshima pour decouvrir deux sites du patrimoine mondial de l'UNESCO en une seule journee.",
+  "shortDescription": "Decouvrez deux sites du patrimoine mondial de l'UNESCO en une journee : Miyajima et le Dome de la Bombe A. Plongez dans 1 200 ans d'histoire et des histoires puissantes de resilience avec un guide experimente d'Hiroshima.",
+  "fullDescription": "Six heures, deux sites du patrimoine mondial de l'UNESCO, et un guide experimente d'Hiroshima qui ne quitte jamais votre cote : c'est la forme de cette journee privee avec Voyagers, et l'efficacite cache combien de terrain elle couvre reellement. La journee commence par une prise en charge depuis la sortie Shinkansen de la gare d'Hiroshima ou les terminaux de croisiere, ce qui en fait un choix naturel pour les voyageurs arrivant en train a grande vitesse ou en bateau. La premiere moitie est l'histoire de resilience d'Hiroshima, traitee a fond : une heure complete guidee dans le musee memorial de la Paix, puis les memoriaux du parc un par un, le cenotaphe memorial des victimes, la Flamme de la Paix, le monument de la Paix des Enfants, la Cloche de la Paix, avant d'atteindre le Dome de la Bombe Atomique, la maison de repos touchee par la bombe et le marqueur de l'hypocentre dans la rue tranquille ou l'explosion s'est reellement produite. Puis l'ambiance change entierement. Le train et le ferry vous amenent a Miyajima, ou douze cents ans d'histoire sacree se deroulent a un rythme de marche : la grande porte Otorii s'elevant de la maree, les corridors au-dessus de l'eau du sanctuaire d'Itsukushima, les halls plus tranquilles du temple Daiganji, une demi-heure complete parmi les statues et les roues de priere de Daisho-in, et le vaste pavillon en bois Senjokaku. Comme la visite est privee, l'equilibre entre les deux moities s'adapte a vos interets, et votre guide, issu d'une equipe avec plus de 300 avis et des notes constamment elevees, ajuste le rythme et la profondeur a la volee. Au moment ou vous etes depose a la gare ou au port, vous avez vu la region essentielle d'Hiroshima, histoire puissante et serenite insulaire, en une seule journee bien ordonnee.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans l'itineraire"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
  "nagoya-takoyaki-cooking-class": {
   "title": "Takoyaki de zero a Nagoya : pate, poulpe et le retournement",
   "metaTitle": "Cours de takoyaki a Nagoya",

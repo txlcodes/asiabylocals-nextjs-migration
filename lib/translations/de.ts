@@ -58970,6 +58970,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
   ]
  },
+ "miyajima-heritage-tour": {
+  "title": "Miyajima-Grosses-Torii-Kajaktour: Paddeln in einer Welterbe-Bucht",
+  "metaTitle": "Kajak zum grossen Torii von Miyajima",
+  "metaDescription": "Paddeln Sie zum grossen Torii des Itsukushima-Schreins vom Wasser aus, die urspruengliche Perspektive der Pilger von einst.",
+  "shortDescription": "Paddeln Sie durch die ruhigen Gewaesser Miyajimas fuer atemberaubende Ausblicke auf das grosse Torii des Itsukushima-Schreins. Je nach Gezeiten und Wetter gehen Sie vielleicht an Land, um lokale Laeden und Tempel zu erkunden.",
+  "fullDescription": "Jedes Foto von Miyajimas grossem Torii wird vom Ufer aus aufgenommen, aber das Tor wurde gebaut, um vom Wasser aus angefahren zu werden; tausend Jahre lang kamen Pilger mit dem Boot an und fuhren darunter hindurch, bevor sie die heilige Insel betraten. Diese zweistuendige Kajaktour stellt diese urspruengliche Perspektive wieder her. Nach einem Treffen auf der Miyajima-Seite und einer richtigen Sicherheitseinweisung nahe dem Nagahama-Schrein lassen Sie sich in stabilen Sit-on-top-Kajaks nieder und paddeln in die geschuetzten, glasklaren Gewaesser der Bucht hinaus, keine vorherige Paddelerfahrung noetig. Die Route folgt der Kuestenlinie der Welterbe-Bucht, bevor sie sich zu ihrem Kernstueck oeffnet: das zinnoberrote Otorii des Itsukushima-Schreins, das direkt vor Ihrem Bug aus dem Meer aufsteigt. Je nach Gezeiten paddeln Sie um das Tor herum und treiben nah genug, um die schiere Groesse seiner Kampferholz-Pfeiler zu wuerdigen, mit den schwimmenden Korridoren des Schreins und den bewaldeten Haengen des Berges Misen dahinter aufgestapelt, ein Blickwinkel, den kein Besucher an Land je bekommt. Eine Pause am Kiyomori-Schrein am Wasser gibt Zeit fuer Fotos und eine Verschnaufpause, und wenn Gezeiten und Wetter es erlauben, kann die Gruppe an Land gehen, um die Laeden und Tempel nahe dem Schrein zu erkunden. Guides managen die Stroemungen und halten das Tempo durchgehend sanft, was dies sowohl fuer Erstmalige als auch erfahrene Paddler geeignet macht. Rezensenten nennen den Blick vom Wasser durchgehend den Hoehepunkt ihres gesamten Miyajima-Besuchs. Bringen Sie Kleidung mit, die etwas Spritzwasser vertraegt, und ein wasserdichtes Telefon oder Kamera; Sie werden beides wollen.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "miyajima-itsukushima-guided-tour": {
+  "title": "Gefuehrte Tour durch Miyajima: Itsukushima-Schrein, Daisho-in und Henjo-Hoehle",
+  "metaTitle": "Gefuehrte Tour durch die Insel Miyajima",
+  "metaDescription": "Eine ausfuehrliche Tour durch Miyajima mit dem Itsukushima-Schrein, dem Tempel Daisho-in, und der seltenen Henjo-Hoehle.",
+  "shortDescription": "Besuchen Sie die Insel Miyajima, Heimat des UNESCO-gelisteten Itsukushima-Schreins und seines ikonischen schwimmenden Torii-Tors, ein Ort, an dem Geschichte, Spiritualitaet und Naturschoenheit aufeinandertreffen.",
+  "fullDescription": "Miyajima belohnt Tiefe, und diese gefuehrte Inseltour von Voyagers geht tiefer als der Standard-Schrein-und-Einkaufs-Rundgang. Der Tag beginnt mit Abholung, vom Shinkansen-Ausgang des Bahnhofs Hiroshima, Miyajimaguchi, oder den Kreuzfahrtterminals, was ihn besonders praktisch fuer Kreuzfahrtpassagiere mit einem Hafentag macht, bevor die Faehre Sie auf die Insel bringt, wo Geschichte, Spiritualitaet und Naturschoenheit aufeinandertreffen. Die Tour oeffnet sich am Wasser mit dem Otorii, dem grossen Kampferholztor des UNESCO-gelisteten Itsukushima-Schreins, und verbringt dann volle fuenfunddreissig Minuten im Inneren des Schreins selbst, wandelnd durch die ueber der Flut gebauten zinnoberroten Korridore und hoerend, warum ein ganzer religioeser Komplex auf Stelzen ueber dem Meer errichtet wurde. Von dort steigt sie zur fuenfstoeckigen Pagode auf, bevor sie eine volle Stunde Daisho-in widmet, dem weitlaeufigen Tempel am Hang, der das spirituelle Herz der Insel ist: Treppen gesaeumt von fuenfhundert Statuen, Hallen mit flackernden Laternen, drehende Gebetsraeder, die angeblich das Verdienst des Lesens der Sutren gewaehren. Dann kommt der Stopp, den fast keine Tour einschliesst, die Henjo-Hoehle, die dunkle Halle unter Daisho-in, beleuchtet von Hunderten von Laternen, mit Sand aus jedem der achtundachtzig Tempel der Shikoku-Pilgerfahrt; ihren Rundgang zu gehen soll der gesamten Pilgerfahrt gleichkommen. Die Tour steigt ab durch den Senjokaku-Pavillon mit tausend Tatami-Matten und endet mit fast einer Stunde auf der Strasse Omotesando fuer Austern, Momiji-Manju und Souvenirs vor Ihrer Rueckfaehre und Absetzung. Mit 4,88 bewertet von Reisenden, ist dies das vollstaendigste Einzelbesuchsportrait der heiligen Insel.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "miyajima-private-tour": {
+  "title": "Miyajima per Rikscha: private Fahrt zum Itsukushima-Schrein",
+  "metaTitle": "Miyajima per Rikscha",
+  "metaDescription": "Eine private Rikschafahrt im traditionellen Stil durch Miyajima, mit einem Laeufer, der zugleich Athlet, Guide und Fotograf ist.",
+  "shortDescription": "Geniessen Sie eine private Rikschafahrt rund um die Insel Miyajima, 'die Insel der Goetter'. Geniessen Sie schoene Ausblicke und besuchen Sie Tempel und andere spirituelle Staetten im traditionellen Stil.",
+  "fullDescription": "Es gibt einen aelteren, langsameren Weg, Miyajima zu sehen, und er kommt mit zwei Raedern, einer gepolsterten Bank und einem Laeufer in traditioneller Kleidung. Ebisuya, Japans bekannteste Rikscha-Firma, zieht seit Jahrzehnten Reisende durch die historischen Viertel des Landes, und ihre Miyajima-Route verwandelt die Insel der Goetter in ein bewegtes Panorama. Von nahe dem Faehrterminal hebt Ihr Rikscha-Fahrer, halb Athlet, halb Guide, halb Fotograf, die Deichseln und macht sich entlang der Kuestenstrasse auf, wobei er die Pausen so taktet, dass Sie das grosse Torii des Itsukushima-Schreins aus Winkeln sehen, die Fussgaenger selten finden, mit dem Tor gegen das Seto-Binnenmeer gerahmt und den Tempeldaechern, die den Hang dahinter hinaufklettern. Die Fahrt zieht an Schreinen und spirituellen Staetten vorbei, durch Hintergassen, wo die Hirsche der Insel im Schatten doesen, waehrend Ihr Fahrer die Geschichte und Legenden erzaehlt und an den besten Aussichtspunkten absteigt, um Fotos von Ihnen vor der Landschaft zu machen. Rikscha-Fahrer trainieren intensiv, bevor sie Gaeste ziehen duerfen, und ihre Kombination aus Showmanship, lokalem Wissen und echter Fitness macht die Haelfte des Vergnuegens der Erfahrung aus; mit einer Wertung von 4,9 ueber Dutzende Bewertungen erwaehnen Gaeste durchgehend ihre Fahrer namentlich. Fahrten sind privat fuer Ihre Gruppe, und das Tempo ist ganz Ihres: eine kompakte Runde entlang der Kuestenlinie oder ein laengerer Rundgang tiefer in die Gassen der Insel. Es eignet sich fuer Paare, Familien mit Kindern, und jeden, dessen Beine nach Tempeltreppen eine Pause brauchen. Auf einer Insel, die fuer Ehrfurcht gebaut wurde, ist die Ankunft am Itsukushima-Schrein so, wie es Pilger eines anderen Jahrhunderts vielleicht getan haetten, ein kleiner, denkwuerdiger Luxus.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "miyajima-serenity-guided-tour": {
+  "title": "Klassische Hiroshima- und Miyajima-Tagestour: Geschichte und Inselgelassenheit",
+  "metaTitle": "Hiroshima und Miyajima: Geschichte und Gelassenheit",
+  "metaDescription": "Ein gefuehrter Achtstundentag, der Hiroshimas herzzerreissende Geschichte am Morgen mit Miyajimas uralter Gelassenheit am Nachmittag verbindet.",
+  "shortDescription": "Die perfekte Wahl fuer alle, die sowohl Hiroshimas herzzerreissende Geschichte als auch Miyajimas uralte Gelassenheit erleben wollen, alles an einem gefuehrten Tag.",
+  "fullDescription": "Wenn Sie in Hiroshima uebernachten, ist dieser gefuehrte Achtstundentag der klassische Reiseplan richtig gemacht: die herzzerreissende Geschichte der Stadt am Morgen, die uralte Gelassenheit Miyajimas am Nachmittag, mit einem Experten-Guide und allem Transport geregelt, sodass der Tag ohne einen einzigen logistischen Gedanken ablaeuft. Er beginnt im Friedensgedenkpark, wo Ihr sorgfaeltig ausgewaehlter Guide Sie durch die Gedenklandschaft fuehrt, den mit der Friedensflamme ausgerichteten Kenotaph und den Atombombendom, das mit Papierkranichen bedeckte Kinderfriedensdenkmal, und die Geschichte des 6. August 1945 mit der Sorgfalt erzaehlt, die sie erfordert: was geschah, wem es geschah, und wie die Stadt sich entschied, auf Zerstoerung mit einer Friedensbotschaft zu antworten. Zeit im Museumsbereich vertieft das Bild, bevor der Tag bewusst das Register wechselt. Der Transport bringt Sie die Kueste entlang und ueber die Meerenge nach Miyajima, der Insel, die so heilig ist, dass ihr Schrein ueber dem Meer gebaut wurde, und der Nachmittag gehoert ihren sanfteren Rhythmen: dem grossen Torii, das in der Flut steht, den zinnoberroten Korridoren des Itsukushima-Schreins, Hirschen, die in den Gassen doesen, und freier Zeit auf der Strasse Omotesando fuer gegrillte Austern und warme Momiji-Manju; Ihre Miyajima-Besuchersteuer ist enthalten. Die zwei Haelften sind der Punkt. Zeugnis abzulegen am Morgen gibt der Schoenheit der Insel ihr Gewicht, und Reisende beschreiben die Kombination durchgehend als den emotionalen Hoehepunkt ihrer Zeit in Japan. Sie kehren am fruehen Abend nach Hiroshima zurueck, nachdem Sie die zwei UNESCO-Weltkulturerbe-Staetten der Region an einem nahtlosen, durchdacht getakteten Tag gesehen haben.",
+  "highlights": [],
+  "included": [
+   "Sorgfaeltig ausgewaehlter Experten-Reisefuehrer, Miyajima-Besuchersteuer, Transport"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "miyajima-spiritual-tour": {
+  "title": "Zen-Tempel-Erlebnis auf Miyajima: Teezeremonie und Kalligrafie im Kimono",
+  "metaTitle": "Teezeremonie und Kalligrafie auf Miyajima",
+  "metaDescription": "Eine Teezeremonie, eine Kalligrafiestunde, oder beides, im Kimono in einem ruhigen Zen-Tempel auf Miyajima.",
+  "shortDescription": "Geniessen Sie Ihre Wahl aus einer Teezeremonie, einer Kalligrafiestunde, oder beidem, waehrend Sie einen Kimono in einem Zen-Tempel auf Miyajima tragen. Saugen Sie die ruhige Atmosphaere auf und schlendern Sie durch den Garten.",
+  "fullDescription": "Die meisten Besucher sehen Miyajimas Tempel von aussen. Dieses kulturelle Erlebnis mit okeiko Japan setzt Sie in einen von ihnen, in einen Kimono gekleidet, mit einer Schale Matcha in den Haenden. Veranstaltet in einem ruhigen Zen-Tempel auf der heiligen Insel, laesst Sie die Sitzung eine traditionelle Teezeremonie, eine japanische Kalligrafiestunde, oder beides waehlen, jede im ungehetzten, bedachten Geist durchgefuehrt, fuer den Tempelumgebungen gemacht wurden. Das Erlebnis beginnt mit dem Anlegen des Kimonos: das Personal passt Sie richtig in das mehrschichtige Gewand, eine Kunst an sich, und der Kimono gehoert Ihnen fuer die Dauer, einschliesslich durch den Tempelgarten, was die Art von Fotos erzeugt, die kein gemieteter Strassenecken-Kimono erreichen kann. Wenn Sie die Teezeremonie waehlen, beobachten Sie, wie der Gastgeber Matcha mit der praezisen, jahrhundertealten Choreografie des Teeraums zubereitet, probieren den geschlagenen gruenen Tee mit einer traditionellen Suessigkeit, und lernen dann, selbst eine Schale zuzubereiten. Die Kalligrafie-Option legt Ihnen einen Pinsel in die Hand und lehrt die Striche, den Rhythmus und die Atmung des Shodo, Tinte auf Papier in einer stillen Halle, mit Ihrem fertigen Werk zum Mitnehmen. Zwischen den Aktivitaeten gibt es Zeit, einfach im Tempel zu sein: durch den Garten zu schlendern, der Stille zuzuhoeren, und die Atmosphaere der Insel sich setzen zu lassen. Die Gastgeber sind herzlich, englischfreundlich und geduldig mit Anfaengern, was sich in den Zahlen zeigt: eine Wertung von 4,97 ueber 270 Bewertungen, unter den hoechsten jeder Erfahrung in der Region. Es ist ein idealer Ausgleich zu einem Vormittag am Schrein, etwa neunzig Minuten, die viele Gaeste als die ruhigsten ihrer gesamten Reise bezeichnen.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "miyajima-unesco-private-tour": {
+  "title": "Private Hiroshima- und Miyajima-Tagestour: zwei UNESCO-Staetten mit lokalem Guide",
+  "metaTitle": "Hiroshima und Miyajima: zwei UNESCO-Staetten",
+  "metaDescription": "Sechs private Stunden mit einem erfahrenen Hiroshima-Guide, um zwei UNESCO-Weltkulturerbe-Staetten an einem Tag zu entdecken.",
+  "shortDescription": "Entdecken Sie zwei UNESCO-Weltkulturerbe-Staetten an einem Tag: Miyajima und den Atombombendom. Tauchen Sie ein in 1.200 Jahre Geschichte und kraftvolle Geschichten der Widerstandsfaehigkeit mit einem erfahrenen Hiroshima-Guide.",
+  "fullDescription": "Sechs Stunden, zwei UNESCO-Weltkulturerbe-Staetten, und ein erfahrener Hiroshima-Guide, der Ihre Seite nie verlaesst: das ist die Form dieses privaten Tages mit Voyagers, und die Effizienz verbirgt, wie viel Boden er tatsaechlich abdeckt. Der Tag beginnt mit Abholung vom Shinkansen-Ausgang des Bahnhofs Hiroshima oder den Kreuzfahrtterminals, was ihn zu einer natuerlichen Wahl fuer Reisende macht, die mit dem Hochgeschwindigkeitszug oder Schiff ankommen. Die erste Haelfte ist Hiroshimas Geschichte der Widerstandsfaehigkeit, gruendlich behandelt: eine volle gefuehrte Stunde im Friedensgedenkmuseum, dann die Denkmaeler des Parks eines nach dem anderen, das Gedenkmal fuer die Opfer, die Friedensflamme, das Kinderfriedensdenkmal, die Friedensglocke, bevor Sie den Atombombendom erreichen, das atombombenbestrahlte Rasthaus und die Hypozentrum-Markierung auf der ruhigen Strasse, wo die Explosion tatsaechlich stattfand. Dann wechselt die Stimmung vollstaendig. Der Zug und die Faehre bringen Sie nach Miyajima, wo sich zwoelfhundert Jahre heilige Geschichte in Gehtempo entfalten: das grosse Otorii-Tor, das aus der Flut aufsteigt, die ueber dem Wasser liegenden Korridore des Itsukushima-Schreins, die ruhigeren Hallen des Daiganji-Tempels, eine volle halbe Stunde unter den Statuen und Gebetsraedern von Daisho-in, und der riesige hoelzerne Senjokaku-Pavillon. Da die Tour privat ist, passt sich die Balance zwischen den beiden Haelften Ihren Interessen an, und Ihr Guide, aus einem Team mit ueber 300 Bewertungen und durchgehend starken Wertungen, passt Tempo und Tiefe spontan an. Wenn Sie zurueck am Bahnhof oder Hafen abgesetzt werden, haben Sie die wesentliche Region Hiroshima gesehen, kraftvolle Geschichte und Inselgelassenheit, an einem einzigen gut geordneten Tag.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Reiseplan genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
  "nagoya-takoyaki-cooking-class": {
   "title": "Takoyaki von Grund auf in Nagoya: Teig, Octopus und der Dreh",
   "metaTitle": "Takoyaki-Kochkurs in Nagoya",
