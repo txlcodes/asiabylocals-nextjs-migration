@@ -59769,6 +59769,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Essen und Getraenke\nHotelabholung und -rueckbringung\nTransport zum Treffpunkt"
   ]
  },
+ "osaka-dotonbori-sushi-making-class-halal-vegan": {
+  "title": "Sushi-Kurs nahe Dotonbori, mit vegan, halal und Allergie-Menues",
+  "metaTitle": "Sushi-Kurs nahe Dotonbori",
+  "metaDescription": "Lernen Sie Nigiri zu formen und Maki zu rollen, wenige Strassen vom Glico-Schild entfernt, mit echten vegan- und halal-Menues.",
+  "shortDescription": "Lernen Sie Nigiri zu formen und Maki zu rollen, wenige Strassen vom Glico-Schild entfernt, und essen Sie dann, was Sie gemacht haben - mit echten vegan-, halal-, glutenfreien und Allergie-Menues.",
+  "fullDescription": "Osaka nennt sich selbst die Kueche Japans und beweist das meist mit Dingen, die auf einer heissen Platte gekocht werden - Takoyaki, Okonomiyaki, Kushikatsu. Sushi ist das stillere Gegenstueck, und es ist das eine Gericht, bei dem jemandem zuzuschauen fast nichts lehrt, weil alles Schwierige in seinen Haenden passiert.\n\nDieser hundertminuetige Kurs stellt Sie auf die andere Seite davon. Sie lernen, wie Sushi-Reis gewuerzt und abgekuehlt wird und, wichtiger noch, wie er sich anfuehlen sollte, wenn man ihn aufnimmt - warm, kaum zusammenhaltend, von einem festen Griff ruiniert. Dann formen Sie selbst Nigiri und rollen Maki, richten sie an und essen sie. Der Unterricht erfolgt auf Englisch und der Raum ist an komplette Anfaenger gewoehnt.\n\nDie diaetetischen Optionen sind das, was man wissen sollte, denn sie sind echt statt improvisiert. Es gibt separate vegane und vegetarische Menues, ein Halal-Menue, eine glutenfreie Option, und ein Allergie-Menue, das Fleisch, Nuesse, Obst und Milchprodukte ausschliesst. Zwei feste Bedingungen: Fordern Sie das Menue bei der Buchung an, und verstehen Sie, dass der Anbieter keine individuellen Zutatenlisten akzeptiert. Sie koennen am Tag selbst nicht umstellen.\n\nDas Studio liegt im dritten Stock eines Gebaeudes in Higashi-Shinsaibashi, wenige Gehminuten von Dotonbori und der Shinsaibashi-suji-Einkaufsstrasse entfernt, was es leicht macht, es in einen Nachmittag voller Shopping und Essen einzubauen. Gruppen laufen bis zu zwanzig Personen an mehreren Tischen, und der Raum ist rollstuhlgerecht.\n\nAlles ist inklusive - Zutaten, Werkzeuge und die Mahlzeit selbst. Es ist guenstiger als der vergleichbare Kurs in Tokio und funktioniert gut als erste Aktivitaet auf einer Osaka-Reise, denn Sie verbringen den Rest der Woche damit, zu beobachten, was die Sushi-Theken um Sie herum tun.",
+  "highlights": [],
+  "included": [
+   "Englischsprachiger Lehrer\nAlle Zutaten fuer den Kurs\nDie Mahlzeit, die Sie zubereiten\nVegane, vegetarische, halal, glutenfreie und Allergie-Menues auf Anfrage bei der Buchung"
+  ],
+  "notIncluded": [
+   "Hotelabholung und -rueckbringung\nIndividuelle Zutatenspezifikationen\nZusaetzliche Getraenke"
+  ]
+ },
+ "osaka-dotonbori-ura-namba-izakaya-bar-crawl": {
+  "title": "Ura-Namba-Barhopping: Hinter Dotonboris Neonlichtern mit einem Einheimischen",
+  "metaTitle": "Ura-Namba-Barhopping",
+  "metaDescription": "Drei Stunden in den Gassen hinter dem Glico-Schild, dort trinken, wo Osaka wirklich trinkt, mit einem Guide, der die Tueren oeffnet.",
+  "shortDescription": "Drei Stunden in den Gassen hinter dem Glico-Schild, dort trinken, wo Osaka trinkt - Sie zahlen fuer Ihr eigenes Essen und Trinken, der Guide bringt Sie durch die Tuer.",
+  "fullDescription": "Dotonbori ist das Foto. Ura-Namba ist dort, wo man wirklich trinkt. Es ist das Gitter aus engen Gassen direkt hinter dem Neon, vollgepackt mit Theken fuer acht Leute, Stehbars ganz ohne Sitze, und Kuechen, die sich auf eine Sache spezialisieren und nichts anderes machen - und fast nichts davon ist verstaendlich, wenn man das Schild oder die Speisekarte nicht lesen kann.\n\nDieses dreistuendige Barhopping loest das Tuerproblem. Ein lokaler Guide fuehrt eine Gruppe von hoechstens fuenfzehn Leuten durch mehrere Lokale, und das wirklich nuetzliche, was enthalten ist, ist Hilfe beim Bestellen: das Lesen der handgeschriebenen Wandspeisekarten, zu wissen, welches der acht Dinge eine bestimmte Kueche macht das ist, was man nehmen sollte, und den Rhythmus von Runde zu Runde zu handhaben, den ein Izakaya erwartet.\n\nEssen und Getraenke sind nicht enthalten. Das haelt den Preis niedrig und bedeutet, dass Sie Ihr eigenes Tempo und Budget bestimmen, statt ein festes Menue zu bezahlen; der Guide sagt Ihnen, was ein Stopp wahrscheinlich kosten wird, bevor Sie sich entscheiden. Rechnen Sie mit zusaetzlichen Ausgaben.\n\nOsakas Trinkkultur unterscheidet sich von der Tokios, und der Guide macht den Unterschied deutlich - lauter, schneller im Gespraech mit Fremden, und eher geneigt, Sie zu futtern, als Sie auf nuechternen Magen trinken zu lassen. Kuidaore, sich durchs Essen zu ruinieren, ist lokaler Stolz statt Warnung.\n\nFotos, die waehrend des Abends gemacht werden, werden danach geteilt. Treffpunkt ist vor dem Glico-Schild, am Dotonbori-Menschheitslied-Denkmal, dem mit Abstand leichtesten Orientierungspunkt der Stadt. Die Route ist rollstuhlgerecht, und eine private Version gibt es fuer Gruppen, die lieber nicht teilen moechten.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide fuer drei Stunden\nGefuehrte Gehstrecke durch Dotonbori und die Ura-Namba-Gassen\nHilfe beim Bestellen von Essen und Getraenken an jedem Lokal\nFotos, die waehrend des Abends gemacht werden, danach geteilt\nLokale Empfehlungen und kultureller Kontext"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke - von Ihnen an jedem Lokal bezahlt\nTransport zum Treffpunkt\nHotelabholung und -rueckbringung"
+  ]
+ },
+ "osaka-english-boat-tour": {
+  "title": "Osaka und Nara: individuelle Privattour mit englischsprachigem Fahrer",
+  "metaTitle": "Osaka und Nara: individuelle Privattour",
+  "metaDescription": "Individuelle Privattour durch Osaka und Nara im komfortablen Auto. Burg Osaka, Todai-ji-Tempel, die Hirsche von Nara und Dotonbori.",
+  "shortDescription": "Geniessen Sie eine individuell anpassbare 5- bis 10-stuendige Privattour durch Osaka und Nara im komfortablen Auto. Burg Osaka, Todai-ji-Tempel, die Hirsche von Nara und Dotonbori.",
+  "fullDescription": "Osaka und Nara liegen nah genug beieinander, um an einem Tag kombiniert zu werden, aber beide mit dem Zug gut zu erleben bedeutet viel Uhr-im-Blick-haben; diese individuell anpassbare Privattour beseitigt das komplett mit einem komfortablen Auto und einem englischsprachigen Fahrer fuer fuenf bis zehn Stunden, gestaltet um das, was Sie wirklich sehen wollen. Die klassische Route trifft die Ankerpunkte beider Staedte: die Burg Osaka und ihren weitlaeufigen Park, das Umeda Sky Building mit seinem schwebenden Observatorium, dann die Fahrt hinaus nach Nara zum Todai-ji-Tempel - Heimat des Grossen Buddha, einer der groessten Bronzestatuen der Welt, untergebracht in einem der groessten Holzgebaeude - und den Nara-Park, wo mehr als tausend heilige Hirsche frei umherziehen und sich fuer Cracker verbeugen. Der Tag kann in Osaka mit Dotonboris Neon und Strassenessen enden, wenn Sie noch Energie haben. Da die Tour wirklich individuell ist, ist dieser Rahmen nur ein Ausgangspunkt statt eines Skripts: verweilen Sie laenger bei den Hirschen, fuegen Sie einen Stopp hinzu, lassen Sie das Observatorium aus, dehnen Sie den Tag auf zehn Stunden oder halten Sie ihn kompakt bei fuenf - die Route ist um Ihre Interessen und Ihr Tempo gebaut, was ein privates Auto moeglich macht und eine Bustour niemals kann. Abholung und Rueckbringung erfolgen in Osaka, und der Komfortfaktor zaehlt mehr, als es klingt: Naras Hauptattraktionen erfordern echtes Laufen, und sich zwischendurch in ein privates Auto fallen lassen zu koennen, mit Taschen und Einkaeufen verstaut, haelt den Tag bis zum Ende angenehm. Durchgefuehrt von einem lizenzierten lokalen Anbieter, eignet sich dieses Format besonders gut fuer Familien, kleine Gruppen und alle, die die Highlights zweier Staedte wollen - eine Burg aus der Shogun-Zeit, einen riesigen Buddha, wilde Hirsche und Osakas Neon - ohne je einen Zugfahrplan konsultieren zu muessen. Details Ihrer Route und Abholung werden bei der Buchung mit dem Anbieter bestaetigt.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "osaka-experience-guided-tour": {
+  "title": "Osaka: Sumo-Show und Erlebnis mit Hot-Pot-Mahlzeit und Kimono",
+  "metaTitle": "Osaka: Sumo-Show mit Mahlzeit",
+  "metaDescription": "Eine interaktive Sumo-Show mit Training, Herausforderung gegen einen ehemaligen Rikishi, optionaler Mahlzeit und Foto auf dem Ring.",
+  "shortDescription": "Unsere Sumo-Show ist mehr als Zuschauen - erleben Sie Training und fordern Sie einen ehemaligen Rikishi heraus. Optionale Mahlzeiten mit Chanko Nabe oder Wagyu-Sukiyaki. Abschlussfoto auf dem Sumo-Ring.",
+  "fullDescription": "Die meisten Sumo-Erlebnisse lassen Sie aus der Distanz zuschauen; dieses zieht Sie in die Welt der Rikishi selbst. Veranstaltet von OCHIIZUMIBEYA, dem Osaka Sumo Samurai Team, baut sich die Show um pensionierte Profiringer auf, die echte Trainingsroutinen vor Ihnen vorfuehren, die Regeln, Geschichte und Traditionen des japanischen Nationalsports in einfachen, anfaengerfreundlichen Worten erklaeren und dann das Feld fuer den Moment oeffnen, den sich jeder merkt: Zuschauer sind eingeladen, in den Ring zu steigen und einen ehemaligen Rikishi herauszufordern. Es ist theatralisch, lustig und erstaunlich lehrreich zugleich - Sie gehen mit dem Verstaendnis, warum die Rituale wichtig sind, nicht nur mit Fotos davon. Das Erlebnis ist ebenso um Essen wie um Sport gestaltet. Optionale Mahlzeitenplaene lassen Sie sich zu Chanko Nabe setzen, dem proteinreichen Eintopf, den Sumo-Staelle seit Generationen kochen, um Champions aufzubauen, oder auf Wagyu-Sukiyaki upgraden, wenn Sie etwas Verwoehnenderes wollen. Eine Kimono-Anprobe ist in den Besuch eingewoben, sodass Sie sich fuer das Finale passend anziehen koennen: ein Erinnerungsfoto, aufgenommen auf dem Sumo-Ring selbst, etwas, das fast kein Besucher Japans je erlebt. Da das Format als geplante Abendshows mit verschiedenen Mahlzeitenstufen laeuft, funktioniert es gleichermassen gut fuer Familien, Paare und Freundesgruppen, die einen grossen, unvergesslichen kulturellen Abend in Osaka wollen. Kommen Sie hungrig, bringen Sie Ihren Sinn fuer Humor mit, und seien Sie bereit, die Haende zu heben, wenn die Ringer nach einem Herausforderer fragen - die Menge wird Sie sowieso in den Ring jubeln.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "osaka-flavors-group-tour": {
+  "title": "Osaka: kleine Gruppe, grosse Aromen und versteckte lokale Geheimnisse",
+  "metaTitle": "Osaka: Aromen und lokale Geheimnisse in Kleingruppe",
+  "metaDescription": "Entdecken Sie Osakas echtes Nachtleben in Tenma und Kyobashi, mit mehr als 15 Gerichten und lokalen Geschichten in Kleingruppe.",
+  "shortDescription": "Entdecken Sie Osakas echtes Nachtleben in Tenma und Kyobashi. Mehr als 15 Gerichte, lokale Geschichten und eine Kleingruppe (max. 6), die das echte Gesicht der Stadt zeigt.",
+  "fullDescription": "Dotonbori ist, wo Touristen essen; Tenma und Kyobashi sind, wo Osaka isst. Diese dreistuendige Abendtour in Kleingruppe, begrenzt auf nur sechs Gaeste, laesst den beruehmten Neon-Streifen komplett aus und geht stattdessen in die beiden Viertel, wo die Buerokraefte, Studenten und Alteingesessenen der Stadt sich jeden Abend in Stehbars und Thekenlokale draengen. Im Laufe des Abends probieren Sie sich durch mehr als fuenfzehn ausgewaehlte Gerichte in einer Handvoll lokaler Restaurants, von den Izakaya-Gerichten, die nie auf englischen Speisekarten erscheinen, bis zu den Getraenken dazu - Bier, Cocktails, Spirituosen und Tee kommen alle auf der Route vor. Das Essen ist nur die Haelfte davon. Ihr Guide fuehrt Sie durch Tenmas dichtes Gitter aus laternenbeleuchteten Gassen nahe der langen Tenjinbashisuji-Einkaufspassage und erzaehlt die lokalen Geschichten, die erklaeren, warum die Osakaner Japans essensversessenste Menschen sind, bevor es mit der U-Bahn eine Station weiter nach Kyobashi geht, einer raueren, retroeren Nachtlebentasche, die fast kein auslaendischer Besucher je erreicht. Weil die Gruppe so klein ist, fuehlt sich die Tour weniger wie ein gefuehrtes Produkt an und mehr, als wuerde man von einem Freund herumgefuehrt, der genau weiss, welchen Vorhang man aufmachen muss. Es ist ein echter lokaler Abend: Sie werden wahrscheinlich die einzigen Nicht-Stammgaeste in manchen der Raeume sein, in denen Sie essen, und das ist genau der Punkt. Kommen Sie mit leerem Magen und offenem Geist - das Menue ist fuer Sie kuratiert, und diaetetische Hinweise koennen bei der Buchung angegeben werden.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "osaka-food-tour": {
+  "title": "Osaka Streetfood-Tour: Takoyaki, Okonomiyaki und lokale Aromen",
+  "metaTitle": "Osaka Streetfood-Tour",
+  "metaDescription": "Eine private Abend-Foodtour durch Namba, Dotonbori und Shinsekai zum Probieren von Takoyaki, Okonomiyaki und Kushikatsu.",
+  "shortDescription": "Eine private Abend-Foodtour durch Namba, Dotonbori und das retro Viertel Shinsekai mit ikonischen Gerichten wie Takoyaki, Okonomiyaki und Kushikatsu.",
+  "fullDescription": "Takoyaki, Okonomiyaki, Kushikatsu - Osakas heilige Dreifaltigkeit des Strassenessens ist der Grund, warum die Stadt die Kueche Japans genannt wird, und diese private Abendtour ist darauf ausgelegt, Sie durch all das an den Orten zu fuehren, die jedes Gericht beruehmt gemacht haben. Ueber drei Stunden bewegen Sie sich durch Namba, Dotonbori und das retro Viertel Shinsekai und probieren die Ikonen dort, wo sie hingehoeren: Takoyaki - knusprig geschalte Tintenfischbaelle, die vor Ihnen auf der Platte gedreht werden - von den Staenden in Namba und Dotonbori, Okonomiyaki - der herzhafte, geschichtete Pfannkuchen, auf den die Osakaner stolz sind - auf einem heissen Teppan gekocht, und Kushikatsu - panierte, frittierte Spiesse, einmal (nie zweimal) in gemeinsame Sauce getaucht - in Shinsekai, dem altmodischen Viertel, das dieses Ritual erfunden hat. Da die Tour privat ist, passt sich der Abend Ihnen an. Ihr Guide passt die Route und die Stopps an den Geschmack und das Tempo Ihrer Gruppe an - mehr von dem, was Sie lieben, ein Tausch, wenn etwas nicht gefaellt, und jede Frage wird beantwortet, ohne mit einer Menge Fremder zu konkurrieren. Zwischen den Bissen ist der Spaziergang selbst eine Tour durch drei der atmosphaerischsten Viertel Osakas nach Einbruch der Dunkelheit: Dotonboris Kanal und riesige beleuchtete Schilder, Nambas Passagen, und Shinsekais retro Glanz unter dem Tsutenkaku-Turm, wo sich die Strassen noch wie Osaka Mitte des letzten Jahrhunderts anfuehlen. Das abendliche Timing ist bewusst gewaehlt - diese Viertel sind beleuchtet und belebt am besten, und sich durch sie hindurchzuessen ist, wie Einheimische ihre eigene Stadt erleben. Am Ende haben Sie nicht nur die Dreifaltigkeit probiert; Sie wissen, wie jedes Gericht gemacht wird, warum es fuer Osaka wichtig ist, und wo Sie das Echte fuer den Rest Ihres Aufenthalts finden. Die Treffpunktdetails werden bei der Buchung mit dem Anbieter bestaetigt. Kommen Sie hungrig - der Ablauf ist eine Mahlzeit.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
  "kyoto-kid-friendly-ninja-class-museum": {
   "title": "Ninja-Kurs für Familien in Kyoto: Blasrohre, Sterne und Tarnung",
   "metaTitle": "Ninja-Kurs für Familien in Kyoto",
