@@ -107,6 +107,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'beijing-1-day-itinerary', 'beijing-3-day-itinerary', 'china-visa-guide-for-tourists',
     'beijing-subway-guide', 'temple-of-heaven', 'summer-palace-beijing',
     'hutong-tours-beijing', 'beijing-food-guide', 'beijing-air-quality-when-to-visit',
+    'best-tours-in-beijing',
   ].map(slug => ({
     url: `${BASE_URL}/china/beijing/${slug}`,
     lastModified: new Date(),
@@ -162,6 +163,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'keelung-day-trip-guide', 'sun-moon-lake-day-trip', 'alishan-day-trip-guide',
     'taipei-7-day-itinerary', 'taiwan-high-speed-rail-guide', 'taipei-coffee-culture-guide',
     'taipei-lgbtq-friendly-guide', 'taipei-rainy-day-activities', 'taipei-christmas-new-year-guide',
+    'best-tours-in-taipei',
   ].map(slug => ({
     url: `${BASE_URL}/taiwan/taipei/${slug}`,
     lastModified: new Date(),

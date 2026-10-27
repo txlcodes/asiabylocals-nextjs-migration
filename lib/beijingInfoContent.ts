@@ -446,6 +446,68 @@ export function getBeijingInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-beijing":
+      return {
+        title: "Best Tours in Beijing — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Beijing 2026: Top-Rated Picks by Category",
+        description: "The best Beijing tours for 2026, picked by category — the Great Wall at Mutianyu, the Forbidden City, the hutongs, Temple of Heaven and a one-day highlights loop — with real prices and an honest note on how we chose them.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c6c2e541f4e7c143070d03",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "For a first and only Great Wall visit, **choose Mutianyu** over Badaling — it has the same cable car, chairlift and toboggan options, with noticeably fewer tour-bus crowds. Timing your visit off-peak (early morning or last entry) matters more than which section you pick.\n\nBelow is our honest, by-category breakdown — real tours, real prices, no inflated ratings.",
+            tourCard: { slug: "off-peak-mutianyu-great-wall-tour-early", title: "Off-Peak Mutianyu Great Wall Tour: Early Morning/Last Entry", description: "Timed specifically around the tour-bus crowd wave at Mutianyu — early morning or last-entry slots for a quieter Wall.", price: "From $181", duration: "Half day", rating: "4.8", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c6c2e541f4e7c143070d03" },
+          },
+          {
+            title: "Best Imperial Palace Experience: Forbidden City",
+            content: "The **Forbidden City** requires a passport-linked advance reservation that trips up a lot of independent travellers — a pre-booked ticket, with an optional guide for context on each hall, removes that booking risk entirely.",
+            tourCard: { slug: "forbidden-city-entry-ticket-with-optional-guided", title: "Forbidden City Entry Ticket with Optional Guided Tour", description: "Pre-booked entry that handles the passport-reservation requirement for you, with an optional guide if you want context on each hall.", price: "From $23", duration: "Flexible", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/add00cf78fed65721b700cf" },
+          },
+          {
+            title: "Best Evening Experience: Hutongs",
+            content: "A **hutong, Drum Tower and Fortune Temple tour** through Beijing's old lanes around Nanluoguxiang or Shichahai is the evening-appropriate close to an imperial-city day, and covers a temple most tourists miss entirely.",
+            tourCard: { slug: "beijing-hutong-drum-tower-fortune-temple-tour", title: "Beijing Hutong, Drum Tower & Fortune Temple Tour", description: "Old lanes, the Drum Tower, and a temple most tourists miss entirely.", price: "From $78", duration: "Half day", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9179579e8225c71c901c7ad" },
+          },
+          {
+            title: "Best for Curious Travellers: Temple of Heaven",
+            content: "A **game-format detective tour** at the Temple of Heaven keeps the complex's history engaging rather than a straight lecture — a different, more peaceful architectural counterpoint to the Forbidden City.",
+            tourCard: { slug: "beijing-temple-of-heaven-detective-tour-with", title: "Beijing: Temple of Heaven Detective Tour with Tickets", description: "A game-format guided visit that keeps the Temple of Heaven's history engaging rather than a straight lecture — tickets included.", price: "From $81", duration: "Half day", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0cab3f" },
+          },
+          {
+            title: "Best for a Short Trip: One-Day Highlights",
+            content: "If you're on a tight transit window, a **one-day loop** covering the Great Wall, Forbidden City, a hutong walk and acrobatics show gets the headline sights done without wasting a travel day — compressed, but genuinely complete.",
+            tourCard: { slug: "bj-in-a-day-great-wall-forbidden-city-hutong", title: "BJ in a Day: Great Wall, Forbidden City, Hutong & Acrobatics", description: "If you're using the 240-hour transit window, this is the one-day version that gets the headline sights done without wasting a travel day.", price: "From $246", duration: "8 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/70c602548385993fe63184f846c1d0b664db7cfcd45baf6fc9d31370e08f4080.jpg" },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Beijing tours](/china/beijing)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Beijing?", a: "An off-peak Mutianyu Great Wall tour, timed for early morning or last entry to avoid the tour-bus crowd wave — Mutianyu has fewer crowds than Badaling with the same cable car and toboggan options." },
+          { q: "Can I visit the Great Wall and Forbidden City in one day?", a: "Not well on a leisurely schedule — the Great Wall alone requires 3-4 hours of driving round trip. A compressed one-day highlights tour covers both, but it's rushed compared to splitting them across two days." },
+          { q: "Do I need to book Forbidden City tickets in advance?", a: "Yes — entry requires a passport-linked advance reservation, and a pre-booked ticket removes that booking risk entirely." },
+          { q: "What is the best evening activity in Beijing?", a: "A hutong, Drum Tower and Fortune Temple tour through the old lanes around Nanluoguxiang or Shichahai." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Beijing?", "acceptedAnswer": { "@type": "Answer", "text": "An off-peak Mutianyu Great Wall tour, timed for early morning or last entry." } },
+                { "@type": "Question", "name": "Do I need to book Forbidden City tickets in advance?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, entry requires a passport-linked advance reservation." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Off-Peak Mutianyu Great Wall' },
+          { icon: 'Landmark', label: 'Best Palace', value: 'Forbidden City' },
+          { icon: 'Moon', label: 'Best Evening', value: 'Hutong Tour' }
+        ]
+      };
+
     default:
       return null;
   }

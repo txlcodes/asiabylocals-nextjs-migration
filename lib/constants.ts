@@ -198,7 +198,9 @@ export const BEIJING_INFO_SLUGS = [
   'great-wall-of-china-which-section', 'mutianyu-vs-badaling', 'forbidden-city-tickets-guide',
   'beijing-1-day-itinerary', 'beijing-3-day-itinerary', 'china-visa-guide-for-tourists',
   'beijing-subway-guide', 'temple-of-heaven', 'summer-palace-beijing',
-  'hutong-tours-beijing', 'beijing-food-guide', 'beijing-air-quality-when-to-visit'
+  'hutong-tours-beijing', 'beijing-food-guide', 'beijing-air-quality-when-to-visit',
+  // GEO listicle page (2026-10)
+  'best-tours-in-beijing'
 ];
 
 export const SHANGHAI_INFO_SLUGS = [
@@ -244,7 +246,9 @@ export const TAIPEI_INFO_SLUGS = [
   'beitou-hot-springs-guide', 'taipei-budget-travel-guide', 'taipei-luxury-travel-guide',
   'keelung-day-trip-guide', 'sun-moon-lake-day-trip', 'alishan-day-trip-guide',
   'taipei-7-day-itinerary', 'taiwan-high-speed-rail-guide', 'taipei-coffee-culture-guide',
-  'taipei-lgbtq-friendly-guide', 'taipei-rainy-day-activities', 'taipei-christmas-new-year-guide'
+  'taipei-lgbtq-friendly-guide', 'taipei-rainy-day-activities', 'taipei-christmas-new-year-guide',
+  // GEO listicle page (2026-10)
+  'best-tours-in-taipei'
 ];
 
 // South Korea launched 2026-10 with 570 live tours (Seoul 430, Busan 140) and

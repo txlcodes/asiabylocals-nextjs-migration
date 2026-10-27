@@ -439,6 +439,7 @@ const BANGKOK_SIDEBAR = [
 ];
 
 const BEIJING_SIDEBAR = [
+    { name: 'Best Tours in Beijing', slug: 'best-tours-in-beijing' },
     { name: 'Beijing Travel Guide', slug: 'beijing-travel-guide-2026' },
     { name: 'Things to Do', slug: 'things-to-do-in-beijing' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-beijing' },
@@ -496,6 +497,7 @@ const HONG_KONG_SIDEBAR = [
 ];
 
 const TAIPEI_SIDEBAR = [
+    { name: 'Best Tours in Taipei', slug: 'best-tours-in-taipei' },
     { name: 'Taipei Travel Guide', slug: 'taipei-travel-guide-2026' },
     { name: 'Things to Do', slug: 'things-to-do-in-taipei' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-taipei' },

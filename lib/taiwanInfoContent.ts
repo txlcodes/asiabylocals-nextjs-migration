@@ -1138,6 +1138,68 @@ export function getTaiwanInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-taipei":
+      return {
+        title: "Best Tours in Taipei — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Taipei 2026: Top-Rated Picks by Category",
+        description: "The best Taipei tours for 2026, picked by category — Taipei 101, Longshan Temple and Dihua Street, a night market food crawl, Jiufen and Maokong's tea hills — with real prices and an honest note on how we chose them.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1dc72d786636f64e3a6ab0305d5d38e68f59356f59f82436e69ef6baabbe1080.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "**Taipei 101's 89th-floor observatory** is the single most-visited landmark, mainly for the city view and the visible tuned mass damper — but Longshan Temple and a night market food crawl are what locals consider equally essential.\n\nBelow is our honest, by-category breakdown — real tours, real prices, no inflated ratings.",
+            tourCard: { slug: "taipei-city-highlights-tour-with-taipei-101", title: "Taipei: City Highlights Tour with Taipei 101 Observatory", description: "An indoor-heavy highlights loop that still works on a rainy or storm-adjacent day.", price: "From $89", duration: "9 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1dc72d786636f64e3a6ab0305d5d38e68f59356f59f82436e69ef6baabbe1080.png" },
+          },
+          {
+            title: "Best Cultural Walk: Longshan Temple & Dihua Street",
+            content: "**Longshan Temple, the Dadaocheng old quarter and Taipei 101** in one guided loop covers Taipei's working temple culture alongside its modern skyline — a sharp, well-paced contrast.",
+            tourCard: { slug: "taipei-longshan-temple-dihua-street-taipei-101", title: "Taipei: Longshan Temple, Dihua Street & Taipei 101 Tour", description: "Longshan Temple, the Dadaocheng old quarter and Taipei 101 in one guided loop.", price: "From $466", duration: "5 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1c6e6382cd4e43257d35e28c523c9ac75b5c4bd79122f4ce9656a2ca3ef3fbd4.png" },
+          },
+          {
+            title: "Best Food Tour: Night Market Crawl",
+            content: "Night markets aren't a tourist add-on in Taipei, they're how the city actually eats dinner. A guided walk through **Raohe Street Night Market** gets past the language barrier at the stalls and steers you to what's actually good, rather than wasting stomach space on the wrong first few dishes.",
+            tourCard: { slug: "taipei-2-hour-raohe-night-market-walking-tour", title: "Taipei: 2-Hour Raohe Night Market Walking Tour", description: "A guided walk through Raohe's stalls with a local pointing out what's actually good.", price: "From $78", duration: "2 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9a93e9c213f8958b4ec19e656eddff00cf009f5799d4da38df6f883acb67576b.png" },
+          },
+          {
+            title: "Best Day Trip: Jiufen & Shifen",
+            content: "**Jiufen**, a former gold-mining town with a lantern-lit old street that inspired comparisons to Spirited Away, paired with **Shifen**'s sky lantern release, is the best half-day escape from the city — go on a weekday if your schedule allows, since weekend crowds slow the narrow alleys to a shuffle.",
+            tourCard: { slug: "from-taipei-jiufen-and-shifen-day-trip-with-guide", title: "From Taipei: Jiufen and Shifen Day Trip with Guide Bus Tour", description: "A guided day covering Jiufen's old street and Shifen's lantern release and waterfall.", price: "From $62", duration: "7.5 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1e47d3f0f962cc7bd362da4d85a5ae1f321fceebb78a91f3c8ffaa921ddf757.jpg" },
+          },
+          {
+            title: "Best for a Slower Pace: Maokong Tea Hills",
+            content: "**Maokong**, reached by a scenic gondola from Taipei Zoo station, is a tea-growing hillside with open-air teahouses looking back over the city — a slower, greener contrast to the Xinyi skyline.",
+            tourCard: { slug: "from-taipei-private-maokong-gondola-tea-culture", title: "From Taipei: Private Maokong Gondola & Tea Culture Day Tour", description: "The gondola ride up and a proper tea-tasting stop in the hills above the city.", price: "From $546", duration: "8 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4582daf2ac14268b503fdf943a54e9cf5b7f442c689b80a04ef2d861aca7a428.jpeg" },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Taipei tours](/taiwan/taipei)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Taipei?", a: "Taipei 101's observatory is the single most-visited landmark, but Longshan Temple and a night market food crawl are equally essential to locals." },
+          { q: "What is the best day trip from Taipei?", a: "Jiufen's lantern-lit old street paired with Shifen's sky lantern release — go on a weekday to avoid the weekend crowds in the narrow alleys." },
+          { q: "What is the best food experience in Taipei?", a: "A guided night market crawl, usually at Raohe Street Night Market — it gets past the language barrier at the stalls and steers you away from the wrong first dishes." },
+          { q: "Is Maokong worth visiting?", a: "Yes, for a slower pace — a scenic gondola ride to tea-growing hills with open-air teahouses overlooking the city." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Taipei?", "acceptedAnswer": { "@type": "Answer", "text": "Taipei 101's observatory, Longshan Temple, and a night market food crawl." } },
+                { "@type": "Question", "name": "What is the best day trip from Taipei?", "acceptedAnswer": { "@type": "Answer", "text": "Jiufen's lantern-lit old street paired with Shifen's sky lantern release." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Taipei 101 Observatory' },
+          { icon: 'Map', label: 'Best Day Trip', value: 'Jiufen + Shifen' },
+          { icon: 'Utensils', label: 'Best Food Tour', value: 'Raohe Night Market' }
+        ]
+      };
+
     default:
       return null;
   }
