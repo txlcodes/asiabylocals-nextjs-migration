@@ -59937,6 +59937,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Depenses personnelles, repas sauf indication contraire, pourboires"
   ]
  },
+ "osaka-photoshoot-photography-tour": {
+  "title": "Seance photo en kimono - 100 photos incluses",
+  "metaTitle": "Seance photo en kimono a Osaka",
+  "metaDescription": "Une seance photo en studio en kimono avec famille et amis, environ 100 photos fournies.",
+  "shortDescription": "Un plan pour prendre des photos en studio en kimono avec famille, partenaires et amis.\nToutes les donnees (environ 100 photos) seront fournies.",
+  "fullDescription": "La plupart des services de location de kimono vous remettent le vetement et une carte ; l'operateur local vous remet le vetement, une seance en studio professionnelle, et chaque photo prise - environ une centaine de cliches, tous inclus. C'est le plan pour les personnes qui veulent que l'experience du kimono survive vraiment au voyage : au lieu de quelques photos de telephone prises a la hate dans une rue bondee, vous obtenez une veritable seance photo en studio a Osaka vetu d'un kimono traditionnel, et vous partez avec l'ensemble complet des images plutot que de payer par impression ou par fichier. Le format est concu autant pour les groupes que pour les individus - le plan est pense pour des photos avec la famille, les partenaires et les amis, de sorte que les couples, les parents avec enfants, et les groupes d'amis peuvent tous etre habilles et photographies ensemble, ce qui est precisement la ou le format a une centaine de cliches prend toute sa valeur. La seance commence par l'essayage du kimono, ou le personnel vous aide a choisir et vous habille correctement selon la methode traditionnelle, couche par couche, avant de passer en studio pour la seance elle-meme. Comme la prise de vue se deroule dans un studio controle plutot que dans la rue, l'eclairage est constant, aucune foule ne traverse votre cadre, et le photographe peut explorer une gamme de poses et de compositions - portraits formels, photos de groupe spontanees, details rapproches du kimono lui-meme. Ensuite, toutes les donnees de la seance, environ une centaine d'images, vous sont fournies, vous donnant un enorme ensemble parmi lequel choisir pour imprimer, partager, ou simplement garder. Les details du rendez-vous a Osaka sont confirmes avec l'operateur au moment de la reservation, et le studio s'occupe de tout sur place. Comme souvenir d'un voyage au Japon, une veritable seance de kimono professionnelle avec chaque photo incluse est difficile a surpasser.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "osaka-samurai-entry-ticket": {
+  "title": "Osaka : visite du chateau d'Osaka et de l'histoire des samourais avec options d'entree",
+  "metaTitle": "Chateau d'Osaka et histoire des samourais",
+  "metaDescription": "Decouvrez l'histoire, l'architecture et les jardins du chateau d'Osaka lors d'une visite guidee a pied avec options d'entree.",
+  "shortDescription": "Decouvrez la riche histoire, l'architecture impressionnante et les jardins paisibles du chateau d'Osaka lors d'une visite guidee a pied. Apprenez son role et son importance strategique.",
+  "fullDescription": "Le chateau d'Osaka est le site le plus charge d'histoire de la ville, mais sans contexte il est facile de parcourir ses jardins sans en percevoir le drame : les sieges, les trahisons, et la chute du clan Toyotomi qui a mis fin ici meme a l'ere des provinces en guerre du Japon. Cette visite guidee a pied de trois heures place un guide averti a vos cotes pour faire revivre pierre par pierre l'histoire samourai du chateau. En partant pres de la gare d'Osakajokoen, l'itineraire traverse le jardin Nishinomaru, dont les pelouses offrent la vue classique de carte postale sur le donjon principal s'elevant au-dessus des fosses, puis le parc du chateau plus vaste avec ses colossaux murs de pierre, dont certains assembles a partir de megalithes uniques que les daimyo ont fait transporter ici pour prouver leur loyaute. Vous visiterez Miraiza Osaka-jo, le bel ancien batiment du quartier general militaire a cote du donjon, et le sanctuaire Hokoku, dedie a Toyotomi Hideyoshi lui-meme, le paysan devenu souverain qui a construit le chateau original et dont l'histoire votre guide devoilera en chemin. Les options d'entree vous permettent d'adapter l'experience, y compris des versions avec acces au musee interieur du chateau, ou armures, paravents et expositions vous font traverser les sieges de 1614 et 1615. Tout au long, le guide explique comment l'importance strategique du chateau a facconne l'Osaka moderne - pourquoi la ville marchande s'est developpee a cet endroit precis, et ce qui a survecu aux siecles de feu, de guerre et de reconstruction. La visite se termine a la station Tanimachi 4-chome, vous laissant parfaitement places pour continuer vers le centre d'Osaka pour le dejeuner.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "osaka-samurai-guided-tour": {
+  "title": "Plan experience sumo et samourai",
+  "metaTitle": "Experience sumo et samourai a Osaka",
+  "metaDescription": "Un spectacle en duree limitee associant un show de sumo de 45 minutes a une performance de samourai de 60 minutes, avec repas inclus.",
+  "shortDescription": "Un double spectacle en duree limitee associant le show de sumo de 45 minutes a une performance de samourai de 60 minutes en une soiree, avec un repas, pour decouvrir deux piliers de la culture guerriere et sportive japonaise.",
+  "fullDescription": "Le sumo et les samourais sont les deux grandes icones de la culture guerriere et sportive du Japon, et ce double spectacle a duree limitee d'OCHIIZUMIBEYA les reunit sur une seule scene en une seule soiree a Osaka. Le programme associe le show de sumo en direct de 45 minutes de l'operateur a une performance de samourai de 60 minutes, plus un repas, afin qu'en moins de deux heures vous decouvriez vraiment les deux traditions plutot que de devoir choisir entre elles. La soiree commence avec le show de sumo : rituels en direct et combats de plein contact executes assez pres pour se faire sentir, presentes de maniere a ce que les visiteurs puissent suivre le sens derriere le pietinement, le sel, et la ceremonie, autant que les collisions elles-memes. Puis la scene passe a la performance de samourai - une heure complete construite autour de la tradition guerriere du Japon, de l'escrime, et de la discipline et du drame qui entouraient la classe des samourais. Les deux arts se completent etonnamment bien l'un apres l'autre : la puissance brute et ritualisee du sumo suivie de la precision et de la theatralite de l'epee, deux expressions tres differentes de la meme culture martiale. Un repas est inclus entre les performances, ce qui fait de cette soiree une sortie complete plutot qu'un spectacle auquel on ajoute un diner, et la duree totale compacte d'environ une heure et 45 minutes laisse encore le reste de votre soiree a Osaka ouverte. En tant que plan a duree limitee, cette association n'est pas un element permanent de l'offre de l'operateur, ce qui vaut le coup de la saisir pendant qu'elle existe - c'est le seul format ou le show de sumo et la performance de samourai partagent un billet. Les details du rendez-vous au lieu a Osaka sont confirmes avec l'operateur au moment de la reservation. Pour les voyageurs qui essaient de faire entrer un maximum de culture japonaise dans un minimum de soiree, deux piliers de la tradition guerriere plus un diner en une seule session est aussi efficace que possible.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "osaka-session-photography-tour": {
+  "title": "Seance photo en kimono (location de base et seance en studio)",
+  "metaTitle": "Seance photo en kimono pres de Shinsaibashi",
+  "metaDescription": "Un forfait location de kimono en studio et seance photo pres de Shinsaibashi, avec kimono, sac, chaussures et maquillage inclus.",
+  "shortDescription": "Un forfait location de kimono en studio et seance photo pres de Shinsaibashi comprenant le kimono, un sac de style japonais, des chaussures et le maquillage, avec seance photo professionnelle.",
+  "fullDescription": "Ce forfait en studio pres de Shinsaibashi est le moyen simple d'obtenir de vraies photos en kimono a Osaka : la location, le stylisme et une seance photo professionnelle, tout gere en un seul endroit, en une seule visite. Le forfait comprend le kimono lui-meme ainsi que les pieces qui completent le look - un sac de style japonais, des chaussures traditionnelles, et le maquillage - de sorte que vous arrivez en vetements de ville et partez avec des photographies de vous-meme correctement habille de la tete aux pieds, sans avoir a assembler quoi que ce soit ni a savoir ce qui va avec quoi. Cette completude est tout l'interet d'un forfait en studio par rapport a une simple location. Les kimonos sont des vetements en couches avec des regles, et le fait d'etre habille par des personnes qui le font tous les jours - et stylise avec un maquillage adapte au look - se voit immediatement sur les photographies. La seance photo elle-meme est geree de maniere professionnelle en studio, avec un eclairage controle et aucune foule de rue qui traverse le cadre, explorant des poses et des compositions qui mettent en valeur le vetement : portraits en pied, poses assises, et details du tissu et des accessoires. Selon les options que vous choisissez, la seance dure d'une a trois heures du debut a la fin, ce qui la rend facile a integrer dans une journee de shopping et de repas autour de Shinsaibashi - l'emplacement du studio vous place a quelques pas de l'un des meilleurs quartiers commercants d'Osaka, donc l'experience s'integre parfaitement dans une journee de visite normale plutot que de la consumer. Gere par un operateur local agree, le forfait de base est le point d'entree accessible de leur photographie en kimono : tout l'essentiel inclus, rien que vous ayez a vous procurer vous-meme. Il convient aux voyageurs solos voulant un veritable portrait, aux couples qui marquent un voyage, et a quiconque a vu des photos de location de kimono dans la rue et a voulu quelque chose d'un peu plus soigne. Les details du rendez-vous a Osaka sont confirmes avec l'operateur au moment de la reservation.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "osaka-sightseeing-full-day-tour": {
+  "title": "Osaka : visite touristique d'une journee complete en vehicule prive",
+  "metaTitle": "Osaka : visite d'une journee complete",
+  "metaDescription": "Decouvrez le meilleur d'Osaka, Dotonbori, le chateau d'Osaka, Shinsekai, le marche Kuromon et plus encore, en vehicule prive confortable.",
+  "shortDescription": "Decouvrez le meilleur d'Osaka, incluant Dotonbori, le chateau d'Osaka, Shinsekai, le marche Kuromon et bien plus. Voyagez en vehicule prive confortable.",
+  "fullDescription": "C'est la visite pour les voyageurs qui veulent les plus grands incontournables d'Osaka en une seule journee sans la logistique epuisante des trains, des transferts et de la verification des plans entre deux. Sur environ sept heures et demie, vous couvrez l'essentiel de la ville - le chateau d'Osaka, le temple Shitennoji, le quartier retro de Shinsekai, l'observatoire Abeno Harukas 300, le marche Kuromon Ichiba, et Dotonbori - tous relies par un vehicule prive confortable, de sorte que le temps entre les arrets est passe a se reposer plutot qu'a naviguer. La journee est structuree pour donner a chaque lieu le temps qu'il merite : environ soixante-quinze minutes au chateau d'Osaka pour parcourir les jardins et admirer les immenses murs de pierre, une heure complete a Shitennoji, l'un des plus anciens temples bouddhistes du Japon, et un vrai moment au marche Kuromon Ichiba, ou les stands de nourriture font un arret dejeuner ideal pour grignoter. Shinsekai offre l'atmosphere du vieux Osaka - la tour Tsutenkaku, les enseignes retro, les boutiques de kushikatsu - avant de monter a l'observatoire Abeno Harukas 300 pour une vue panoramique sur la ville que vous venez de traverser. La journee se termine a Dotonbori, le coeur de neon d'Osaka, avec environ soixante-quinze minutes pour s'immerger dans le canal, l'enseigne de l'homme Glico, et l'energie de la street food dont la ville est celebre. Un guide local professionnel vous accompagne tout au long, ajoutant l'histoire et le contexte qui transforment une liste de cases a cocher en une veritable comprehension de la ville, et la prise en charge peut etre organisee depuis Osaka, Kyoto ou Kobe, ce qui rend cette option efficace meme si vous ne logez pas a Osaka meme. Les frais mentionnes dans le programme sont couverts ; les repas et les depenses personnelles sont a votre charge, ce qui fonctionne bien puisque Kuromon et Dotonbori sont deux des meilleurs endroits pour manger dans toute la region du Kansai.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "osaka-spiritual-tour": {
+  "title": "Pelerinage goshuin des sept dieux de la fortune",
+  "metaTitle": "Pelerinage goshuin des sept dieux de la fortune",
+  "metaDescription": "Un pelerinage guide d'une journee complete pour collecter des tampons sacres goshuin dans sept temples et sanctuaires d'Osaka.",
+  "shortDescription": "Un pelerinage guide d'une journee complete pour collecter des tampons sacres goshuin ecrits a la main dans sept temples et sanctuaires dedies aux sept dieux de la fortune d'Osaka, melant marche, visites et reflexion spirituelle.",
+  "fullDescription": "Le goshuin - les tampons sacres ecrits a la main que les temples et sanctuaires inscrivent a l'encre et au vermillon pour les pelerins en visite - est devenu l'un des souvenirs les plus significatifs du Japon, et cette visite guidee d'une journee complete construit tout un pelerinage autour de ceux-ci. L'itineraire visite sept temples et sanctuaires a travers Osaka, chacun dedie a l'un des sept dieux de la fortune, les divinites bien-aimees qui veillent sur tout, de la richesse et la longevite a la musique et aux pecheurs. A chaque arret, vous recevez un goshuin ecrit a la main, de sorte qu'a la fin de la journee vous portez un ensemble complet de sept - chacun une petite oeuvre de calligraphie irreproductible, encree a la main a l'endroit meme qu'elle honore. Le format du pelerinage change votre facon de voir Osaka. Au lieu de sauter entre les attractions principales, vous suivez un fil de foi a travers la ville, melant marche, visites et moments calmes de reflexion spirituelle dans des sanctuaires que la plupart des touristes n'entrent jamais. Votre guide porte la journee : expliquant qui est chacun des sept dieux de la fortune, ce qu'ils protegent, comment rendre hommage correctement a chaque autel, et comment fonctionne la tradition du goshuin - quand presenter votre carnet, ce que signifient les inscriptions, et pourquoi chaque tampon est unique. Entre les sept arrets, la marche elle-meme devient une visite, traversant quartiers et paysages urbains au rythme d'un pelerin plutot qu'a celui d'un bus touristique. En tant qu'experience d'une journee complete, elle convient aux voyageurs qui veulent de la profondeur plutot que la vitesse d'une liste de cases a cocher : les collectionneurs de goshuin trouveront que sept tampons ecrits a la main en une journee sont un veritable tresor, tandis que quiconque curieux de la spiritualite japonaise obtient une voie structuree et guidee vers des pratiques qui peuvent sembler opaques de l'exterieur. Les details du rendez-vous a Osaka sont confirmes avec l'operateur au moment de la reservation. Venez avec des chaussures confortables et partez avec les benedictions de sept dieux en encre.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
  "kyoto-kid-friendly-ninja-class-museum": {
   "title": "Cours de ninja pour familles a Kyoto : sarbacanes, etoiles et discretion",
   "metaTitle": "Cours de ninja pour familles a Kyoto",
