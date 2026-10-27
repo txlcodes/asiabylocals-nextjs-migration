@@ -59517,6 +59517,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Optionale Aktivitäten und persönliche Ausgaben"
   ]
  },
+ "nara-park-full-day-tour": {
+  "title": "Nara mit staatlich lizenziertem Guide: individueller Ganztagesspaziergang ab Kyoto",
+  "metaTitle": "Nara mit lizenziertem Guide ab Kyoto",
+  "metaDescription": "Ein privater achtstuendiger Nara-Spaziergangstag ab Kyoto mit einem staatlich lizenzierten, mehrsprachigen Guide und einem Reiseplan nach Ihren Interessen.",
+  "shortDescription": "Ein privater achtstuendiger Nara-Spaziergangstag ab Kyoto mit einem staatlich lizenzierten, mehrsprachigen Guide und einem Reiseplan nach Ihren Interessen gebaut.",
+  "fullDescription": "Das besondere Merkmal dieses Achtstundentages ist die Qualifikation: Ihr Guide besitzt Japans staatliche Lizenz, eine Qualifikation, die das Bestehen staatlicher Pruefungen in japanischer Geschichte, Geografie, Kultur und Allgemeinwissen zusammen mit einer Fremdsprache erfordert. In der Praxis bedeutet das, dass der Kommentar bei Todai-ji oder Kasuga Taisha mit Daten, Dynastien und Kontext kommt, nicht nur Anekdoten, und Sie koennen Nachfragen stellen und echte Antworten erhalten.\n\nDer Reiseplan wird mit Ihnen angepasst statt im Voraus festgelegt. Nara belohnt dies, weil der Standardrundgang und der interessante Rundgang nicht dasselbe sind. Die meisten Besucher machen den Nara-Park, die Daibutsuden und gehen. Ein Guide, der die Stadt kennt, kann Kofuku-jis fuenfstoeckige Pagode im Stadtzentrum hinzufuegen, die Laternenallee von Kasuga Taisha, 768 n. Chr. gegruendet und gesaeumt von Tausenden von Stein- und Bronzelaternen, die ueber die Jahrhunderte gestiftet wurden, oder die Haendlergassen aus der Edo-Zeit in Naramachi, wohin fast niemand aus den Reisebussen geht. Todai-jis grosser Buddha, etwa fuenfzehn Meter Bronze, 752 n. Chr. eingeweiht, steht in einer 1709 bei zwei Drittel ihrer urspruenglichen Breite wiederaufgebauten Halle, die immer noch zu den groessten Holzstrukturen der Erde zaehlt.\n\nDies ist ein Gehtag, also legen Sie das Terrain zu Fuss zwischen den Staetten innerhalb und um den Nara-Park zurueck. Er beginnt ab Kyoto, das etwa 45 Minuten mit dem Zug entfernt liegt, und der Guide reist mit Ihnen. Da der Preis pro Buchung fuer eine private Gruppe statt eines Pro-Sitz-Tarifs auf einem Bus berechnet wird, ergibt dies am meisten Sinn fuer ein Paar, eine Familie oder eine kleine Gruppe, die die Kosten teilt. Senden Sie Ihre Prioritaeten vorab, damit die acht Stunden darum geplant werden.",
+  "highlights": [],
+  "included": [
+   "Staatlich lizenzierter mehrsprachiger Guide fuer 8 Stunden, auf Ihre Interessen abgestimmte Reiseplanung, gefuehrter Kommentar zu Fuss durchgehend"
+  ],
+  "notIncluded": [
+   "Zugfahrpreise nach und von Nara, Tempel- und Schreineintrittsgebuehren, Mahlzeiten und Getraenke, Hirschkekse, Transport- und Eintrittskosten des Guides sofern erforderlich, Trinkgelder"
+  ]
+ },
+ "nara-park-guided-tour": {
+  "title": "Nara-Hirschpark, Fushimi Inari und Arashiyama per Bus ab Kyoto oder Osaka",
+  "metaTitle": "Nara, Fushimi Inari und Arashiyama per Bus",
+  "metaDescription": "Ein Bustag ab Kyoto oder Osaka, der die Hirsche des Nara-Parks mit Fushimi Inaris Torii-Toren und Arashiyamas Bambushain verbindet.",
+  "shortDescription": "Ein Bustag ab Kyoto oder Osaka, der die Hirsche des Nara-Parks mit Fushimi Inaris Torii-Toren und Arashiyamas Bambushain verbindet.",
+  "fullDescription": "Dies ist ein langer Bustag, der Nara mit zwei der meistfotografierten Orte Kyotos verbindet, und er faehrt von der Stadt ab, in der Sie bereits uebernachten, statt von Nara selbst. Sie steigen entweder bei Harimaya Nippombashi 1-chome in Osaka oder am versunkenen Garten des Hachijo-Eingangs des Bahnhofs Kyoto ein, und der Bus uebernimmt jeden Umstieg dazwischen, was hier der echte Wert ist: Nara-Park, Fushimi Inari und Arashiyama mit dem Zug an einem Tag zu machen ist moeglich, laesst Sie aber einen Grossteil der Zeit auf Bahnsteigen stehen.\n\nDer Nara-Stopp dauert etwa eine Stunde im Park, was ausreicht, um zwischen den Hirschen zu gehen und den Zugang zu Todai-ji zu erreichen, aber nicht genug, um fuer die Daibutsuden anzustehen und den 15 Meter hohen Bronze-Buddha, 752 n. Chr. eingeweiht, richtig zu sehen. Mehr als tausend wilde Sika-Hirsche leben im Park; sie sind geschuetzt, seit sie als Boten der Gottheit Takemikazuchi angesehen wurden, und wurden 1957 zum Nationalen Naturdenkmal erklaert. Verkaeufer bieten Shika-Senbei-Kekse an Staenden nahe den Hauptwegen an, und die Hirsche verbeugen sich fuer eines. Von Oktober bis Dezember sind die Boecke in der Brunft und die Stadt veroeffentlicht eine jaehrliche Warnung, halten Sie also in diesen Monaten etwas Abstand.\n\nDie Kyoto-Haelfte ist um etwa 70 Minuten am Fushimi-Inari-Taisha-Schrein fuer die Senbon-Torii-Tortunnel geplant, dann etwa neunzig Minuten freie Zeit in Arashiyama, mit kurzen Stopps am Bambushain, dem Nonomiya-Schrein, der Togetsukyo-Bruecke und dem Kimono-Wald. Die Absetzung erfolgt zurueck am Bahnhof Kyoto oder in Nippombashi. Die Zeit an jeder Staette ist fest, behandeln Sie dies also als gut organisierten Ueberblick statt als tiefen Besuch.",
+  "highlights": [],
+  "included": [
+   "Klimatisierter Bustransport zwischen allen Stopps, Fahrer, Reisebegleiter, hotelfreie Abholung und -ruecktransfer im Stadtzentrum an den aufgefuehrten Punkten"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke, Hirschkekse (Shika Senbei), jegliche Tempel- oder Schreineintrittsgebuehren, persoenliche Ausgaben, Trinkgelder"
+  ]
+ },
+ "nara-park-half-day-tour": {
+  "title": "Nara-Halbtagesspaziergang auf Spanisch: Hirschpark, Todaiji und Kasuga Taisha",
+  "metaTitle": "Nara im Halbtag auf Spanisch",
+  "metaDescription": "Vier Stunden durch den Nara-Park, Todaiji und Kasuga Taisha mit einem spanischsprachigen Guide, in kleiner Gruppe oder privat.",
+  "shortDescription": "Vier Stunden durch den Nara-Park, Todaiji und Kasuga Taisha mit einem spanischsprachigen Guide, in kleiner Gruppe oder privat.",
+  "fullDescription": "Nara war Japans erste staendige Hauptstadt, 710 als Heijo-kyo gegruendet, und fast alles Sehenswerte aus dieser Zeit liegt in Gehdistanz zum Bahnhof Kintetsu Nara. Dieser vierstuendige Spaziergang deckt es mit einem Guide ab, der auf Spanisch arbeitet, was in Nara wirklich schwer zu finden ist, und kann entweder als Kleingruppe oder als private Tour fuer Ihre eigene Gruppe gebucht werden. Sie treffen sich vor der Statue des Moenchs Gyoki ausserhalb des Bahnhofs und enden am selben Punkt.\n\nDie Route fuehrt durch den Nara-Park, Heimat von rund 1.465 frei umherlaufenden Sika-Hirschen, die seit Jahrhunderten als Boten der Shinto-Goetter geschuetzt sind und seit 1957 als Nationales Naturdenkmal ausgewiesen sind. Von dort gehen Sie durch das grosse Suedtor von Todaiji und weiter zur Grosse-Buddha-Halle, einer rund 1.300 Jahre alten Holzstruktur, die einen etwa 15 Meter hohen Bronze-Buddha beherbergt. Der Spaziergang endet bei Kasuga Taisha, dem 768 gegruendeten Schrein, dessen Zugangswege mit Tausenden von Steinlaternen gesaeumt sind, die ueber die Jahrhunderte als Opfergaben hinterlassen wurden. Zwei der Stopps sind UNESCO-Weltkulturerbe-Eintragungen.\n\nAbfahrten sind um 09:00 Uhr morgens und 13:30 Uhr nachmittags, und die Saison dauert etwa von Maerz bis November. Was Ihr Guide Ihnen gibt, ist Kontext: wer diese Orte baute, warum die Hirsche so behandelt werden, wie sie es sind, und wie eine Hauptstadt, die nur 74 Jahre dauerte, so viel zurueckliess. Der Eintritt zur Grosse-Buddha-Halle von 800 Yen wird vor Ort bezahlt und ist nicht enthalten, und Hirschkekse kosten 200 Yen, falls Sie die Hirsche fuettern moechten. Mahlzeiten und Getraenke sind nicht Teil des Preises.",
+  "highlights": [],
+  "included": [
+   "Spanischsprachiger lokaler Guide in Nara"
+  ],
+  "notIncluded": [
+   "Mahlzeiten, Getraenke und persoenliche Gegenstaende, Eintritt zur Grosse-Buddha-Halle (800 Yen), Hirschkekse (200 Yen), Transport nach und von Nara"
+  ]
+ },
+ "nara-park-morning-morning-tour": {
+  "title": "Nara am fruehen Morgen ab Kyoto: Hirschpark, Kasuga Taisha und der grosse Buddha",
+  "metaTitle": "Nara am fruehen Morgen ab Kyoto",
+  "metaDescription": "Eine Abfahrt um 7:30 Uhr ab Kyoto, die Naras Hirschpark, Kasuga Taisha und Todai-ji vor den Busgruppen erreicht.",
+  "shortDescription": "Eine Abfahrt um 7:30 Uhr ab Kyoto, die Naras Hirschpark, Kasuga Taisha und Todai-ji vor den Busgruppen erreicht.",
+  "fullDescription": "Dies ist eine ab Kyoto startende Tour statt einer Nara-basierten. Sie treffen sich am Bahnhof Kintetsu Kyoto um 7:30 Uhr und reisen suedwaerts mit dem Aoniyoshi-Schnellzug, erreichen Nara, waehrend der Park noch ruhig ist. Reisende, die bereits in Nara uebernachten, koennen den Zugabschnitt vollstaendig auslassen und sich der Gruppe um 8:40 Uhr neben der Moench-Gyoki-Statue am Bahnhof Kintetsu Nara anschliessen. Der fruehe Start ist die gesamte Begruendung hinter dem Reiseplan: Naras Hauptttempel beginnen ab dem spaeten Vormittag, Busgruppen zu absorbieren, und die ersten paar Stunden sind bei weitem die ruhigsten des Tages.\n\nDer Nara-Park kommt zuerst, Heimat von rund 1.465 frei umherlaufenden Sika-Hirschen. Sie sind echte wilde Tiere statt eine Streichel-Attraktion, seit Jahrhunderten als Boten der Shinto-Gottheit Takemikazuchi geschuetzt und seit 1957 als Nationales Naturdenkmal ausgewiesen. Ihr Guide zeigt Ihnen, wie man Shika-Senbei-Kekse anbietet, ohne umgeben zu werden. Der Spaziergang fuehrt dann weiter zu Kasuga Taisha, 768 n. Chr. gegruendet, dessen Zugangswege und zinnoberrote Korridore mit Tausenden von Stein- und Bronzelaternen gesaeumt sind, die Glaeubige ueber mehr als ein Jahrtausend gestiftet haben.\n\nDer Vormittag endet bei Todai-ji. Falls das Timing es erlaubt, macht die Route einen Abstecher bergauf zur Nigatsudo-Halle, wo jeden Fruehling die Omizutori-Feuerzeremonie abgehalten wird, bevor sie am 25 Meter hohen Suedtor vorbeikommt und die Daibutsuden betritt. Der Eintritt zur Grosse-Buddha-Halle ist im Preis enthalten, und im Inneren steht der etwa 15 Meter hohe Bronze-Daibutsu, erstmals 752 n. Chr. eingeweiht; die Halle um ihn herum, 1709 bei zwei Drittel ihrer urspruenglichen Breite wiederaufgebaut, zaehlt immer noch zu den groessten Holzgebaeuden der Welt. Die Gruppe loest sich am Bahnhof Kintetsu Nara gegen 12:30 Uhr auf und laesst den Nachmittag frei. Beachten Sie, dass der Anbieter diese Abfahrt nur von April bis Juli und erneut im Dezember anbietet.",
+  "highlights": [],
+  "included": [
+   "Englisch-, Japanisch- und Spanischsprachiger Guide, Eintritt zur Grosse-Buddha-Halle des Todaiji-Tempels (800 JPY), Expresszuggebuehr zwischen Kyoto und Nara (520 JPY), Aoniyoshi-Lux-Zuggebuehr von Kyoto nach Nara (210 JPY)"
+  ],
+  "notIncluded": [
+   "Mahlzeiten, Getraenke und andere persoenliche Gegenstaende, einfache Zugfahrkarten zwischen Kyoto und Nara (ca. 5 USD pro Richtung)"
+  ]
+ },
+ "nara-park-morning-tour": {
+  "title": "Nara-Morgenspaziergang zum Hirschpark und Todai-ji (vor den Menschenmengen)",
+  "metaTitle": "Nara am Morgen, vor den Menschenmengen",
+  "metaDescription": "Kommen Sie Naras Nachmittagsmengen zuvor mit einem fruehen Spaziergang durch den Hirschpark, Todai-jis Grosse-Buddha-Halle, und Kasuga Taisha.",
+  "shortDescription": "Kommen Sie Naras Nachmittagsmengen zuvor mit einem fruehen Spaziergang durch den Hirschpark, Todai-jis Grosse-Buddha-Halle, und den von Hirschen gesaeumten Zugang zu Kasuga Taisha.",
+  "fullDescription": "Nara ist einer der meistbesuchten Tagesausfluege Japans ab Kyoto und Osaka, und am frueuhen Nachmittag sind seine Hauptttempel wirklich ueberfuellt, Reisebusse fuellen den Zugang zu Todai-ji und die Hirsche im Nara-Park werden von Besuchern mit ausgestreckten Shika-Senbei-Keksen umschwaermt. Diese Tour ist darauf aufgebaut, das vollstaendig zu vermeiden: sie beginnt frueh, bevor die Busgruppen ankommen, sodass Sie den Nara-Park und die Grosse-Buddha-Halle erleben, waehrend sie noch ruhig sind.\n\nIhr Guide trifft Sie am Bahnhof Kintetsu Nara und fuehrt Sie in den Nara-Park, Heimat von ueber tausend frei umherlaufenden Sika-Hirschen, die im Shinto-Glauben als Boten der Goetter angesehen werden. In der Stille des Morgens koennen Sie die seltsame, erlernte Angewohnheit der Hirsche, sich fuer Kekse zu verbeugen, tatsaechlich beobachten, ohne sich durch Menschenmengen kaempfen zu muessen. Von dort fuehrt der Spaziergang weiter zu Todai-ji, der Holzhalle, die den 15 Meter hohen Bronze-Daibutsu beherbergt, eine der groessten Bronze-Buddha-Statuen der Welt, 752 n. Chr. gegossen. Ihr Guide erklaert, wie der Tempel Braende, Erdbeben und Wiederaufbauten ueber fast 1.300 Jahre ueberlebte, und weist auf die beruehmte Saeule mit einem Loch hin, das angeblich genau die Groesse des Nasenlochs des Buddha hat, hindurchkriechen soll der lokalen Ueberzeugung zufolge Erleuchtung garantieren.\n\nDer Spaziergang endet nahe dem Zugang zu Kasuga Taisha, Naras wichtigstem Shinto-Schrein, bekannt fuer seine Tausenden von Bronze- und Steinlaternen, die Glaeubige ueber die Jahrhunderte gestiftet haben. Da die Tour vor Mittag endet, haben Sie den Rest des Tages frei, um Naramachis altes Haendlerviertel auf eigene Faust zu erkunden, oder weiter nach Kyoto oder Osaka zu reisen.",
+  "highlights": [],
+  "included": [
+   "Lizenzierter englischsprachiger Guide, Fusstour durch den Nara-Park, Todai-ji und den Zugang zu Kasuga Taisha"
+  ],
+  "notIncluded": [
+   "Eintrittskarte fuer Todai-ji, Hirschkekse, Mahlzeiten, Transport zu/von Nara"
+  ]
+ },
+ "nara-park-photography-tour": {
+  "title": "Nara Furisode-Kimono-Ankleiden mit einstuendiger Fotositzung",
+  "metaTitle": "Furisode-Kimono und Fotositzung in Nara",
+  "metaDescription": "Formelles Furisode-Kimono-Ankleiden und Haar-Styling in einem Laden in Nara, gefolgt von einer einstuendigen Fotositzung in der Stadt.",
+  "shortDescription": "Formelles Furisode-Kimono-Ankleiden und Haar-Styling in einem Laden in Nara, gefolgt von einer einstuendigen Fotositzung in der Stadt.",
+  "fullDescription": "Dies ist ein Ankleide-und-Fotografie-Paket fuer eine Frau, keine gefuehrte Tour: niemand fuehrt Sie herum und erklaert Naras Geschichte. Was Sie erhalten, ist der formellste Alltagskimono der Garderobe und ein Fotograf, der Sie darin aufnimmt. Furisode sind die langaermeligen Kimonos, die traditionell von unverheirateten jungen Frauen getragen werden, und der Plan kombiniert einen mit einem seidenen Fukuro-Obi, Juban-Unterlage, Zori, Tabi-Socken, einer Tasche und Haarschmuck. Eine professionelle Kitsuke-Ankleiderin bindet alles, was mehr zaehlt, als es klingt, ein Obi ist wirklich schwer, selbst zu binden, und ein lockerer zeigt sich auf jedem Foto. Haar-Styling fuer Frauen ist enthalten.\n\nDas Ankleiden findet in Sakura Kimono Kyotos Nara-Laden statt, zweiter Stock von 26-3 Hashimotocho. Von dort gehen Sie fuer etwa eine Stunde Schnappschuss-Fotografie mit einem Fotografen vom Komorebi Studio in Osaka hinaus. Die ueblichen Hintergruende sind Naramachi, das erhaltene Haendlerviertel aus der Edo-Zeit mit dunkel gebalkten Machiya-Stadthaeusern, und der Nara-Park, wo mehr als tausend wilde Sika-Hirsche als Boten der Shinto-Goetter geschuetzt sind und seit 1957 ein Nationales Naturdenkmal sind.\n\nDanach sendet der Fotograf alle Originaldateien plus zwanzig farbkorrigierte Bilder nach eigener Wahl, innerhalb eines Monats nach dem Shooting; die Daten werden zwei Wochen nach dem Versand geloescht, laden Sie also umgehend herunter. Gesichtsretusche und kosmetische Bearbeitungen sind ausgeschlossen. Ein Punkt der Ehrlichkeit zum Preis: er spiegelt den reduzierten Veranstaltungstarif des Anbieters wider, angeboten zwischen Juni und dem 10. September und nur fuer Gaeste, die zustimmen, dass ihre Fotos in den sozialen Medien des Ladens verwendet werden. Ausserhalb dieses Fensters, oder wenn Sie lieber moechten, dass Ihre Bilder privat bleiben, gilt der normale Tarif, bestaetigen Sie, welcher fuer Ihr Datum gilt, bevor Sie buchen.",
+  "highlights": [],
+  "included": [
+   "1-stuendiges Nara-Kimono-Schnappschuss-Fotoshooting (ca. 1 Stunde Aufnahme), alle Original-Fotodaten bereitgestellt, 20 farbkorrigierte Fotos (Auswahl des Fotografen) bereitgestellt, hochwertigster Damen-Furisode-Kimono-Verleih, Damen-Haar-Styling, seidener Fukuro-Obi, vollstaendige Zusammenstellung einschliesslich Kimono-Tasche, Juban (Unterwaesche), Zori, Tabi-Socken, Haaraccessoires"
+  ],
+  "notIncluded": [
+   "Gesichtsretusche/kosmetische Fotobearbeitungen sind nicht enthalten. Nicht angegeben: Transport, Essen, Park- oder Tempeleintritt. Zahlung nur in bar; eine Anzahlung von 2.000 JPY ist zur Bestaetigung der Reservierung erforderlich"
+  ]
+ },
  "kyoto-kid-friendly-ninja-class-museum": {
   "title": "Ninja-Kurs für Familien in Kyoto: Blasrohre, Sterne und Tarnung",
   "metaTitle": "Ninja-Kurs für Familien in Kyoto",

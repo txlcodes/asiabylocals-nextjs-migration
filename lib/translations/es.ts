@@ -59517,6 +59517,90 @@ export const ES_TOURS: Record<string, TourT> = {
    "Actividades opcionales y gastos personales"
   ]
  },
+ "nara-park-full-day-tour": {
+  "title": "Nara con un guia con licencia del gobierno: caminata personalizada de dia completo desde Kioto",
+  "metaTitle": "Nara con guia con licencia desde Kioto",
+  "metaDescription": "Un dia privado de caminata de ocho horas por Nara desde Kioto con un guia multilingue con licencia del gobierno y un itinerario segun sus intereses.",
+  "shortDescription": "Un dia privado de caminata de ocho horas por Nara desde Kioto con un guia multilingue con licencia del gobierno y un itinerario construido segun sus intereses.",
+  "fullDescription": "La caracteristica distintiva de este dia de ocho horas es la credencial: su guia tiene la licencia nacional del gobierno de Japon, una calificacion que requiere aprobar examenes estatales de historia, geografia, cultura y conocimiento general japones junto con un idioma extranjero. En la practica eso significa que el comentario en Todai-ji o Kasuga Taisha viene con fechas, dinastias y contexto, no solo anecdotas, y puede hacer preguntas de seguimiento y obtener respuestas reales.\n\nEl itinerario se personaliza con usted en lugar de fijarse de antemano. Nara recompensa esto, porque el circuito estandar y el circuito interesante no son lo mismo. La mayoria de los visitantes hacen el parque de Nara, el Daibutsuden y se van. Un guia que conoce la ciudad puede anadir la pagoda de cinco pisos de Kofuku-ji en el centro de la ciudad, las avenidas de linternas de Kasuga Taisha, fundado en el ano 768 d.C. y bordeado de miles de linternas de piedra y bronce donadas a lo largo de los siglos, o los callejones mercantiles de la era Edo de Naramachi adonde casi nadie de los autocares turisticos va. El gran Buda de Todai-ji, unos quince metros de bronce dedicado en el ano 752 d.C., se encuentra en un salon reconstruido en 1709 a dos tercios de su ancho original y todavia contado entre las estructuras de madera mas grandes de la tierra.\n\nEste es un dia de caminata, asi que el terreno que cubre es a pie entre sitios dentro y alrededor del parque de Nara. Comienza desde Kioto, que esta a unos 45 minutos en tren, y el guia viaja con usted. Debido a que el precio es por reserva para un grupo privado en lugar de una tarifa por asiento en un autocar, tiene mas sentido para una pareja, familia o grupo pequeno que divida el costo. Envie sus prioridades con antelacion para que las ocho horas se planifiquen alrededor de ellas.",
+  "highlights": [],
+  "included": [
+   "Guia multilingue con licencia del gobierno durante 8 horas, planificacion de itinerario adaptada a sus intereses, comentario guiado a pie durante todo el recorrido"
+  ],
+  "notIncluded": [
+   "Tarifas de tren hacia y desde Nara, tarifas de entrada a templos y santuarios, comidas y bebidas, galletas para ciervos, costos de transporte y entrada del guia cuando se requiera, propinas"
+  ]
+ },
+ "nara-park-guided-tour": {
+  "title": "Parque de ciervos de Nara, Fushimi Inari y Arashiyama en autocar desde Kioto u Osaka",
+  "metaTitle": "Nara, Fushimi Inari y Arashiyama en autocar",
+  "metaDescription": "Un dia en autocar desde Kioto u Osaka que conecta los ciervos del parque de Nara con las puertas torii de Fushimi Inari y el bosque de bambu de Arashiyama.",
+  "shortDescription": "Un dia en autocar desde Kioto u Osaka que conecta los ciervos del parque de Nara con las puertas torii de Fushimi Inari y el bosque de bambu de Arashiyama.",
+  "fullDescription": "Este es un largo dia en autocar que combina Nara con dos de los lugares mas fotografiados de Kioto, y sale de la ciudad donde ya se esta alojando en lugar de desde Nara misma. Sube a bordo ya sea en Harimaya Nippombashi 1-chome en Osaka o en el jardin hundido de la entrada Hachijo de la estacion de Kioto, y el autobus maneja cada transbordo entre medio, que es el verdadero valor aqui: hacer Nara, Fushimi Inari y Arashiyama en tren en un dia es posible pero lo deja de pie en andenes gran parte del tiempo.\n\nLa parada de Nara dura aproximadamente una hora en el parque, lo que es suficiente para caminar entre los ciervos y llegar al acceso de Todai-ji, aunque no suficiente para hacer fila para el Daibutsuden y ver adecuadamente el Buda de bronce de 15 metros dedicado en el ano 752 d.C. Mas de mil ciervos sika salvajes viven en el parque; han sido protegidos desde que se les considero mensajeros de la deidad Takemikazuchi, y fueron designados Tesoro Natural Nacional en 1957. Los vendedores venden galletas shika senbei en puestos cerca de los caminos principales, y los ciervos hacen una reverencia por una. De octubre a diciembre los machos estan en celo y la ciudad publica una advertencia anual, asi que mantenga algo de distancia en esos meses.\n\nLa mitad de Kioto se programa alrededor de 70 minutos en el santuario Fushimi Inari Taisha para los tuneles de puertas Senbon Torii, luego aproximadamente noventa minutos de tiempo libre en Arashiyama, con breves paradas en el bosque de bambu, el santuario Nonomiya, el puente Togetsukyo y el Bosque de Kimonos. La entrega es de vuelta en la estacion de Kioto o Nippombashi. El tiempo en cada sitio es fijo, asi que trate esto como una vision general bien organizada en lugar de una visita profunda.",
+  "highlights": [],
+  "included": [
+   "Transporte en autocar con aire acondicionado entre todas las paradas, conductor, acompanante de tour, recogida y entrega sin hotel en el centro de la ciudad en los puntos listados"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas, galletas para ciervos (shika senbei), cualquier tarifa de entrada a templos o santuarios, gastos personales, propinas"
+  ]
+ },
+ "nara-park-half-day-tour": {
+  "title": "Tour a pie de medio dia por Nara en espanol: parque de ciervos, Todaiji y Kasuga Taisha",
+  "metaTitle": "Nara en medio dia en espanol",
+  "metaDescription": "Cuatro horas por el parque de Nara, Todaiji y Kasuga Taisha con un guia de habla hispana, en grupo pequeno o privado.",
+  "shortDescription": "Cuatro horas por el parque de Nara, Todaiji y Kasuga Taisha con un guia de habla hispana, en grupo pequeno o privado.",
+  "fullDescription": "Nara fue la primera capital permanente de Japon, fundada como Heijo-kyo en 710, y casi todo lo que vale la pena ver de esa era esta a distancia de caminata de la estacion Kintetsu Nara. Esta caminata de cuatro horas lo cubre con un guia que trabaja en espanol, genuinamente dificil de encontrar en Nara, y se puede reservar ya sea como grupo pequeno o como tour privado para su propio grupo. Se encuentra frente a la estatua del monje Gyoki fuera de la estacion y termina en el mismo punto.\n\nLa ruta recorre el parque de Nara, hogar de aproximadamente 1.465 ciervos sika que deambulan libremente y han sido protegidos durante siglos como mensajeros de los dioses sintoistas y designados Tesoro Natural Nacional desde 1957. Desde alli pasa por la gran Puerta Sur de Todaiji y hacia el Salon del Gran Buda, una estructura de madera de unos 1.300 anos que alberga un Buda de bronce de unos 15 metros de altura. La caminata termina en Kasuga Taisha, el santuario fundado en 768 cuyos caminos de acceso estan bordeados de miles de linternas de piedra dejadas como ofrendas a lo largo de los siglos. Dos de las paradas son catalogaciones de Patrimonio Mundial de la UNESCO.\n\nLas salidas son a las 09:00 de la manana y 13:30 de la tarde, y la temporada va aproximadamente de marzo a noviembre. Lo que su guia le da es contexto: quien construyo estos lugares, por que los ciervos son tratados como lo son, y como una capital que duro solo 74 anos dejo tanto atras. La entrada al Salon del Gran Buda de 800 yenes se paga en el lugar y no esta incluida, y las galletas para ciervos cuestan 200 yenes si quiere alimentar a los ciervos. Las comidas y bebidas no forman parte del precio.",
+  "highlights": [],
+  "included": [
+   "Guia local de habla hispana en Nara"
+  ],
+  "notIncluded": [
+   "Comidas, bebidas y articulos personales, entrada al Salon del Gran Buda (800 yenes), galletas para ciervos (200 yenes), transporte hacia y desde Nara"
+  ]
+ },
+ "nara-park-morning-morning-tour": {
+  "title": "Nara temprano en la manana desde Kioto: parque de ciervos, Kasuga Taisha y el gran Buda",
+  "metaTitle": "Nara temprano desde Kioto",
+  "metaDescription": "Una salida a las 7:30 desde Kioto que llega al parque de ciervos de Nara, Kasuga Taisha y Todai-ji antes de las multitudes de autocares.",
+  "shortDescription": "Una salida a las 7:30 desde Kioto que llega al parque de ciervos de Nara, Kasuga Taisha y Todai-ji antes de las multitudes de autocares.",
+  "fullDescription": "Este es un tour que sale de Kioto en lugar de uno con base en Nara. Se encuentra en la estacion Kintetsu Kioto a las 7:30 y viaja al sur en el expreso limitado Aoniyoshi, llegando a Nara mientras el parque todavia esta tranquilo. Los viajeros que ya se alojan en Nara pueden saltarse el tramo de tren por completo y unirse al grupo a las 8:40 junto a la estatua del monje Gyoki en la estacion Kintetsu Nara. El inicio temprano es toda la razon detras del itinerario: los sitios destacados de Nara comienzan a absorber grupos de autocares desde media manana en adelante, y las primeras dos horas son por mucho las mas tranquilas del dia.\n\nEl parque de Nara viene primero, hogar de aproximadamente 1.465 ciervos sika que deambulan libremente. Son animales genuinamente salvajes en lugar de una atraccion de acariciar, protegidos durante siglos como mensajeros de la deidad sintoista Takemikazuchi y designados Tesoro Natural Nacional desde 1957. Su guia le muestra como ofrecer galletas shika senbei sin estar rodeado. La caminata continua luego hacia Kasuga Taisha, fundado en el ano 768 d.C., cuyos caminos de acceso y corredores bermellon estan bordeados de miles de linternas de piedra y bronce donadas por fieles durante mas de un milenio.\n\nLa manana termina en Todai-ji. Si el tiempo lo permite, la ruta se desvia cuesta arriba hacia el Salon Nigatsudo, donde se celebra la ceremonia del fuego Omizutori cada primavera, antes de pasar la Puerta Sur de 25 metros y entrar al Daibutsuden. La entrada al Salon del Gran Buda esta incluida en el precio, y dentro se encuentra el Daibutsu de bronce de unos 15 metros dedicado por primera vez en el ano 752 d.C.; el salon que lo rodea, reconstruido en 1709 a dos tercios de su ancho original, sigue siendo uno de los edificios de madera mas grandes del mundo. El grupo se disuelve en la estacion Kintetsu Nara alrededor de las 12:30, dejando la tarde libre. Tenga en cuenta que el operador solo realiza esta salida de abril a julio y nuevamente en diciembre.",
+  "highlights": [],
+  "included": [
+   "Guia de habla inglesa, japonesa y espanola, entrada al Salon del Gran Buda del templo Todaiji (800 JPY), tarifa de tren express entre Kioto y Nara (520 JPY), tarifa del tren Aoniyoshi Lux de Kioto a Nara (210 JPY)"
+  ],
+  "notIncluded": [
+   "Comidas, bebidas y otros articulos personales, boletos de tren basicos entre Kioto y Nara (aproximadamente 5 USD por trayecto)"
+  ]
+ },
+ "nara-park-morning-tour": {
+  "title": "Caminata matutina por el parque de ciervos de Nara y Todai-ji (ganele a las multitudes)",
+  "metaTitle": "Nara temprano, ganele a las multitudes",
+  "metaDescription": "Ganele a las multitudes de la tarde en Nara con una caminata matutina por el parque de ciervos, el Salon del Gran Buda de Todai-ji, y Kasuga Taisha.",
+  "shortDescription": "Ganele a las multitudes de la tarde en Nara con una caminata matutina por el parque de ciervos, el Salon del Gran Buda de Todai-ji, y el acceso bordeado de ciervos a Kasuga Taisha.",
+  "fullDescription": "Nara es una de las excursiones de un dia mas visitadas de Japon desde Kioto y Osaka, y a primera hora de la tarde sus sitios principales estan genuinamente concurridos, los autobuses turisticos llenan el acceso a Todai-ji y los ciervos del parque de Nara son rodeados por visitantes que les tienden galletas shika senbei. Este tour esta construido para evitar eso por completo: comienza temprano, antes de que lleguen los grupos de autocares, para que tenga el parque de Nara y el Salon del Gran Buda mientras todavia estan tranquilos.\n\nSu guia lo encuentra en la estacion Kintetsu Nara y lo lleva al parque de Nara, hogar de mas de mil ciervos sika que deambulan libremente y son considerados mensajeros de los dioses en la creencia sintoista. En la tranquilidad de la manana realmente puede observar el habito extrano y aprendido de los ciervos de hacer una reverencia por galletas sin luchar contra multitudes para hacerlo. Desde alli la caminata continua hacia Todai-ji, el salon de madera que alberga el Daibutsu de bronce de 15 metros, una de las estatuas de Buda de bronce mas grandes del mundo, fundida en el ano 752 d.C. Su guia explica como el templo sobrevivio incendios, terremotos y reconstrucciones durante casi 1.300 anos, y senala la famosa columna con un agujero que se dice es del tamano exacto de la fosa nasal del Buda, atravesarlo garantiza, segun la creencia local, la iluminacion.\n\nLa caminata termina cerca del acceso a Kasuga Taisha, el santuario sintoista mas importante de Nara, conocido por sus miles de linternas de bronce y piedra donadas por fieles a lo largo de los siglos. Debido a que el tour termina antes del mediodia, tendra el resto del dia libre para explorar el antiguo barrio mercantil de Naramachi por su cuenta, o continuar hacia Kioto u Osaka.",
+  "highlights": [],
+  "included": [
+   "Guia con licencia de habla inglesa, tour a pie por el parque de Nara, Todai-ji y el acceso a Kasuga Taisha"
+  ],
+  "notIncluded": [
+   "Boleto de entrada a Todai-ji, galletas para ciervos, comidas, transporte hacia/desde Nara"
+  ]
+ },
+ "nara-park-photography-tour": {
+  "title": "Vestimenta de kimono furisode en Nara con sesion de fotos de una hora",
+  "metaTitle": "Kimono furisode y sesion de fotos en Nara",
+  "metaDescription": "Vestimenta formal de kimono furisode y peinado en una tienda de Nara, seguido de una sesion de fotos de una hora por la ciudad.",
+  "shortDescription": "Vestimenta formal de kimono furisode y peinado en una tienda de Nara, seguido de una sesion de fotos de una hora por la ciudad.",
+  "fullDescription": "Este es un paquete de vestimenta y fotografia para una mujer, no un tour guiado: nadie la lleva explicando la historia de Nara. Lo que obtiene es el kimono cotidiano mas formal del armario y un fotografo para registrarla usandolo. Los furisode son los kimonos de manga larga tradicionalmente usados por mujeres jovenes solteras, y el plan combina uno con un obi fukuro de seda, capa interior juban, zori, calcetines tabi, una bolsa y adornos de cabello. Una vestidora profesional de kitsuke hace el atado, lo cual importa mas de lo que parece, un obi es genuinamente dificil de atar uno mismo, y uno flojo se nota en cada fotografia. El peinado femenino esta incluido.\n\nEl vestido ocurre en la tienda de Nara de Sakura Kimono Kyoto, segundo piso de 26-3 Hashimotocho. Desde alli sale por aproximadamente una hora de fotografia instantanea con un fotografo de Komorebi Studio en Osaka. Los fondos habituales son Naramachi, el barrio mercantil preservado de la era Edo de casas machiya de madera oscura, y el parque de Nara, donde mas de mil ciervos sika salvajes estan protegidos como mensajeros de los dioses sintoistas y son Tesoro Natural Nacional desde 1957.\n\nDespues, el fotografo envia todos los archivos originales mas veinte imagenes corregidas de color de su propia eleccion, dentro de un mes de la sesion; los datos se eliminan dos semanas despues de enviarse, asi que descargue con prontitud. El retoque facial y las ediciones cosmeticas estan excluidos. Un punto de honestidad sobre el precio: refleja la tarifa reducida de evento del operador, ofrecida entre junio y el 10 de septiembre y solo a huespedes que acepten que sus fotos se usen en las redes sociales de la tienda. Fuera de esa ventana, o si prefiere que sus imagenes permanezcan privadas, aplica la tarifa regular, confirme cual aplica a su fecha antes de reservar.",
+  "highlights": [],
+  "included": [
+   "Sesion de fotos instantaneas de kimono de 1 hora en Nara (aproximadamente 1 hora de toma), todos los archivos de fotos originales proporcionados, 20 fotos corregidas de color (seleccion del fotografo) proporcionadas, alquiler de kimono furisode femenino de la mas alta calidad, peinado femenino, obi fukuro de seda, coordinacion completa incluyendo bolsa de kimono, juban (ropa interior), zori, calcetines tabi, accesorios de cabello"
+  ],
+  "notIncluded": [
+   "El retoque facial/ediciones cosmeticas de fotos no estan incluidos. No indicado: transporte, comida, entrada al parque o templo. El pago es solo en efectivo; se requiere un deposito de 2.000 JPY para confirmar la reserva"
+  ]
+ },
  "kyoto-kid-friendly-ninja-class-museum": {
   "title": "Clase de ninja para familias en Kyoto: cerbatanas, estrellas y sigilo",
   "metaTitle": "Clase de ninja para familias en Kyoto",
