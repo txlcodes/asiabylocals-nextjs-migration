@@ -1026,7 +1026,9 @@ export const DUBAI_INFO_SLUGS = [
   'dubai-yacht-charter-guide',
   'dubai-helicopter-tours-guide',
   'day-trips-from-dubai',
-  'dubai-water-sports-guide'
+  'dubai-water-sports-guide',
+  // GEO listicle page (2026-10)
+  'best-tours-in-dubai'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/abuDhabiInfoContent.ts.

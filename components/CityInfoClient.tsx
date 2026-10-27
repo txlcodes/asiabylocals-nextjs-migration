@@ -936,6 +936,7 @@ const HAKONE_SIDEBAR = [
 
 
 const DUBAI_SIDEBAR = [
+    { name: 'Best Tours in Dubai', slug: 'best-tours-in-dubai' },
     { name: 'Burj Khalifa Tickets', slug: 'burj-khalifa-tickets-guide' },
     { name: 'Desert Safari Guide', slug: 'dubai-desert-safari-guide' },
     { name: 'Yacht Charters', slug: 'dubai-yacht-charter-guide' },

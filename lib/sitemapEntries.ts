@@ -624,7 +624,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'dubai-yacht-charter-guide',
     'dubai-helicopter-tours-guide',
     'day-trips-from-dubai',
-    'dubai-water-sports-guide'].map(slug => ({
+    'dubai-water-sports-guide',
+    'best-tours-in-dubai'].map(slug => ({
     url: `${BASE_URL}/uae/dubai/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

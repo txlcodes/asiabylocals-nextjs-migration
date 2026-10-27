@@ -514,6 +514,105 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-dubai":
+      return {
+        title: "Best Tours in Dubai — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Dubai 2026: Top-Rated Picks by Category",
+        description: "The best Dubai tours for 2026, picked by category — Burj Khalifa, desert safari, marina speedboat, yacht cruise, Old Dubai and an Abu Dhabi day trip — with real prices and an honest note on how we chose them.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Dubai rewards picking **one iconic sight and one experience that doesn't exist back home** — the Burj Khalifa observation deck covers the first, and a desert safari at sunset covers the second. Most first-timers regret trying to cram in more than two major bookings on the same day given how spread out the city is.\n\nBelow is our honest, by-category breakdown — real tours, real prices, no inflated ratings.",
+            tourCard: {
+              slug: "burj-khalifa-124-125-and-dubai-aquarium-combo-ticket",
+              title: "Burj Khalifa Levels 124 & 125 and Dubai Aquarium Combo Ticket",
+              description: "The world's tallest building plus the aquarium at its base, on one combo ticket.",
+              price: "From USD 100",
+              duration: "Flexible",
+              image: IMG,
+            },
+          },
+          {
+            title: "Best Desert Safari",
+            content: "A **red-dune evening safari** is the single most-booked Dubai experience for a reason: dune bashing in a 4x4, a camel ride, sandboarding and a BBQ camp dinner under the desert sky, all inside one afternoon-into-evening block with hotel pickup included. If you have an extra night to spare, the overnight version with a private tent and stargazing is the upgrade worth paying for.",
+            tourCard: {
+              slug: "dubai-red-dune-evening-safari-with-camel-ride-and-bbq-camp",
+              title: "Dubai Red Dune Evening Safari with Camel Ride and Camp Dinner",
+              description: "Dune bashing, camel ride, sandboarding and a BBQ dinner camp — the classic Dubai desert evening.",
+              price: "From USD 40",
+              duration: "About 6 hours",
+              image: IMG,
+            },
+          },
+          {
+            title: "Best Marina & Skyline Views",
+            content: "A **speedboat tour** past the Marina, Palm Jumeirah, Atlantis and the Burj Al Arab is the fastest way to see Dubai's whole modern skyline from the water in under 90 minutes — and considerably cheaper than a yacht charter if photos are the goal rather than lounging.",
+            tourCard: {
+              slug: "dubai-speedboat-tour-marina-palm-atlantis-and-burj-al-arab",
+              title: "Dubai Speedboat Tour: Marina, Palm, Atlantis and Burj Al Arab",
+              description: "90 minutes past Dubai's four most photographed landmarks, by speedboat.",
+              price: "From USD 53",
+              duration: "60-90 minutes",
+              image: IMG,
+            },
+          },
+          {
+            title: "Best Way to Slow Down: Old Dubai",
+            content: "Old Dubai, around the Creek, is the side of the city the glass towers make you forget exists — gold and spice souks, a traditional abra crossing, and street food that has nothing to do with brunch buffets. A guided walking tour here is the best-value few hours in the whole city.",
+            tourCard: {
+              slug: "old-dubai-walking-tour-with-souks-street-food-and-abra-ride",
+              title: "Old Dubai Walking Tour with the Souks, Street Food and an Abra Ride",
+              description: "Gold and spice souks, a traditional abra ride across the Creek, and real street food — the Dubai before the skyline.",
+              price: "From USD 22",
+              duration: "About 3 hours",
+              image: IMG,
+            },
+          },
+          {
+            title: "Best Day Trip from Dubai",
+            content: "**Abu Dhabi**, 90 minutes south, is the best full-day trip from Dubai — the Sheikh Zayed Grand Mosque and the Corniche cover both the religious and the modern faces of the capital in one day, without needing to change hotels.",
+            tourCard: {
+              slug: "abu-dhabi-full-day-tour-from-dubai-with-grand-mosque-and-corniche",
+              title: "Abu Dhabi Full-Day Tour from Dubai with the Grand Mosque and Corniche",
+              description: "The UAE capital's biggest sights in one day trip from Dubai, no hotel change required.",
+              price: "From USD 51",
+              duration: "Full day",
+              image: IMG,
+            },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Dubai tours](/uae/dubai)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Dubai?", a: "For a first visit, pair the Burj Khalifa observation deck with a desert safari at sunset — one covers the iconic skyline view, the other covers the experience you can't get back home." },
+          { q: "What is the best desert safari in Dubai?", a: "A red-dune evening safari with dune bashing, camel ride, sandboarding and a BBQ camp dinner rates highest for a first-timer. An overnight version with a private tent and stargazing is the upgrade if you have the extra night." },
+          { q: "What is the best way to see the Dubai skyline?", a: "A marina speedboat tour past the Palm, Atlantis and Burj Al Arab covers the whole modern skyline from the water in under 90 minutes, at a fraction of a private yacht's cost." },
+          { q: "What is the best day trip from Dubai?", a: "Abu Dhabi, about 90 minutes south — the Sheikh Zayed Grand Mosque and the Corniche in one full day, no hotel change needed." },
+          { q: "Is Old Dubai worth visiting?", a: "Yes — the Creek, gold and spice souks and a traditional abra ride show a completely different side of the city than the glass towers, and a guided walking tour is one of the best-value few hours in Dubai." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Dubai?", "acceptedAnswer": { "@type": "Answer", "text": "Pair the Burj Khalifa observation deck with a desert safari at sunset for a first visit." } },
+                { "@type": "Question", "name": "What is the best desert safari in Dubai?", "acceptedAnswer": { "@type": "Answer", "text": "A red-dune evening safari with dune bashing, camel ride, sandboarding and a BBQ camp dinner." } },
+                { "@type": "Question", "name": "What is the best day trip from Dubai?", "acceptedAnswer": { "@type": "Answer", "text": "Abu Dhabi, about 90 minutes south, covering the Grand Mosque and the Corniche in one day." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Burj Khalifa + Desert Safari' },
+          { icon: 'Map', label: 'Best Day Trip', value: 'Abu Dhabi' },
+          { icon: 'Camera', label: 'Best Skyline View', value: 'Marina Speedboat Tour' }
+        ]
+      };
+
     default:
       return null;
   }
