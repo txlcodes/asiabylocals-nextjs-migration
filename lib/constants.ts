@@ -1119,6 +1119,8 @@ export const UBUD_INFO_SLUGS = [
   'ubud-art-villages-guide',
   'how-many-days-in-ubud',
   'ubud-with-kids',
+  // GEO listicle page (2026-10)
+  'best-tours-in-ubud',
 ];
 
 export const CANGGU_INFO_SLUGS = [

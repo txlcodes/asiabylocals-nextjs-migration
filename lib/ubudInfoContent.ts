@@ -1540,6 +1540,103 @@ export function getUbudInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-ubud":
+      return {
+        title: "Best Tours in Ubud — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Ubud 2026: Top-Rated Picks by Category",
+        description: "The best Ubud and Bali tours for 2026, picked by category — Mount Batur sunrise, Tegalalang rice terrace, the Monkey Forest, Tirta Empul and a cooking class — with real prices and an honest note on how we chose them.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mount-batur-sunrise-hike-jeep-tour-all-inclusive/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "If you only do one thing outside Ubud itself, make it the **Mount Batur sunrise hike** — a 2 AM start, but the volcano-crater sunrise is the single most-talked-about experience in Bali. Pair it with the **Tegalalang rice terrace and jungle swing** for the classic Bali photo, and a half-day in Ubud itself for the Monkey Forest and temples.\n\nBelow is our honest, by-category breakdown — real tours, real prices, no inflated ratings.",
+            tourCard: {
+              slug: "sunrise-mount-batur-guided-hike-with-breakfast",
+              title: "Sunrise Mount Batur Guided Hike with Breakfast",
+              description: "A 2 AM start and a two-hour climb in the dark, for a volcano-crater sunrise that's the single most-talked-about experience in Bali.",
+              price: "From USD 35.50",
+              duration: "5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/sunrise-mount-batur-guided-hike-with-breakfast/img0/1600.webp",
+            },
+          },
+          {
+            title: "Best Photo Spot: Tegalalang Rice Terrace",
+            content: "The **Tegalalang rice terrace**, paired with the jungle swing that's become inseparable from the Bali Instagram aesthetic, is the classic green-terrace shot — go early morning before the tour buses and the heat both arrive.",
+            tourCard: {
+              slug: "tegalalang-rice-terrace-instagram-tour-and-jungle-swing-in-ubud",
+              title: "Tegalalang Rice Terrace Instagram Tour and Jungle Swing in Ubud",
+              description: "The classic green-terrace shot plus the jungle swing, best done early before the crowds and heat.",
+              price: "From USD 29.00",
+              duration: "2 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/tegalalang-rice-terrace-instagram-tour-and-jungle-swing-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "Best in Ubud Itself: Sacred Monkey Forest",
+            content: "The **Sacred Monkey Forest Sanctuary**, right in central Ubud, is genuinely worth an hour — cool old forest, three 14th-century temples, and over a thousand long-tailed macaques going about their business at close range. Keep sunglasses and loose items secured; it's the most common place in Bali to lose one.",
+            tourCard: {
+              slug: "sacred-monkey-forest-sanctuary-ticket-and-guided-tour-in-ubud",
+              title: "Sacred Monkey Forest Sanctuary Ticket and Guided Tour in Ubud",
+              description: "A guided hour through the cool old forest, its three temples and the resident macaque troops.",
+              price: "From USD 23.00",
+              duration: "1 hour",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/sacred-monkey-forest-sanctuary-ticket-and-guided-tour-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "Best Cultural Experience: Tirta Empul Purification",
+            content: "**Tirta Empul**, a thousand-year-old water temple near Tampaksiring, is where Balinese Hindus still come daily for melukat, a purification ritual under the carved spring-fed spouts. Visitors are welcome to join with a sarong and a change of clothes — it's one of the few Bali temple experiences that's genuinely participatory rather than just observed.",
+            tourCard: {
+              slug: "half-day-tirta-empul-purification-and-gunung-kawi-temple-in-ubud",
+              title: "Half-Day Tirta Empul Purification and Gunung Kawi Temple in Ubud",
+              description: "The thousand-year-old spring-fed purification ritual, plus the rock-cut shrines of Gunung Kawi.",
+              price: "From USD 29.00",
+              duration: "4 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/half-day-tirta-empul-purification-and-gunung-kawi-temple-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "Best Hands-On Experience: Balinese Cooking Class",
+            content: "A real Balinese cooking class starts in the market, builds base genep (the spice paste under nearly every dish) from scratch in a stone mortar, and ends with six to eight dishes you cooked yourself. If the menu is mostly fried rice and satay, it's a tourist menu, not a Balinese one — this one isn't.",
+            tourCard: {
+              slug: "balinese-cooking-class-for-couples-with-market-visit-in-ubud",
+              title: "Balinese Cooking Class for Couples with Market Visit in Ubud",
+              description: "Market visit, hand-pounded spice paste, and six to eight real Balinese dishes you cook and eat yourself.",
+              price: "From USD 137.80",
+              duration: "4 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/balinese-cooking-class-for-couples-with-market-visit-in-ubud/img0/1600.webp",
+            },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Ubud tours](/indonesia/ubud)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Ubud?", a: "The Mount Batur sunrise hike is the single most-talked-about experience in Bali — a 2 AM start rewarded with a volcano-crater sunrise. Pair it with the Tegalalang rice terrace and a half-day in Ubud itself." },
+          { q: "Is the Mount Batur sunrise hike worth the early start?", a: "Yes — it's the most-recommended Bali experience precisely because of the sunrise, not despite the 2 AM wake-up. Most people say it's worth it exactly once." },
+          { q: "What is the best thing to do in Ubud itself?", a: "The Sacred Monkey Forest Sanctuary — an hour of cool old forest, three 14th-century temples and resident macaque troops, right in central Ubud." },
+          { q: "Is Tirta Empul worth visiting?", a: "Yes, especially if you want a participatory experience rather than just sightseeing — visitors can join the purification ritual under the spring-fed spouts with a sarong and a change of clothes." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Ubud?", "acceptedAnswer": { "@type": "Answer", "text": "The Mount Batur sunrise hike, paired with the Tegalalang rice terrace and a half-day in Ubud itself." } },
+                { "@type": "Question", "name": "Is the Mount Batur sunrise hike worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — it's Bali's most-recommended experience precisely because of the volcano-crater sunrise." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Mount Batur Sunrise Hike' },
+          { icon: 'Camera', label: 'Best Photo Spot', value: 'Tegalalang Rice Terrace' },
+          { icon: 'Users', label: 'Best in Ubud', value: 'Sacred Monkey Forest' }
+        ]
+      };
+
     default:
       return null;
   }

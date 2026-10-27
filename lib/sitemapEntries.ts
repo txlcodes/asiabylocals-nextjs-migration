@@ -907,6 +907,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'ubud-art-villages-guide',
     'how-many-days-in-ubud',
     'ubud-with-kids',
+    'best-tours-in-ubud',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/ubud/${slug}`,
     lastModified: new Date(),
