@@ -304,7 +304,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'kl-1-day-itinerary', 'kl-3-day-itinerary', 'batu-caves-guide',
     'kl-public-transport-guide', 'kl-halal-food-guide',
     'bukit-bintang-shopping-guide', 'kl-to-penang-travel',
-    'malaysia-visa-guide-for-tourists',
+    'malaysia-visa-guide-for-tourists', 'best-tours-in-kuala-lumpur',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/kuala-lumpur/${slug}`,
     lastModified: new Date(),
@@ -318,6 +318,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'penang-1-day-itinerary', 'penang-food-guide', 'penang-hill-guide',
     'georgetown-unesco-heritage-guide', 'penang-beaches-guide',
     'penang-3-day-itinerary', 'clan-jetties-penang', 'kek-lok-si-temple-guide',
+    'best-tours-in-penang',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/penang/${slug}`,
     lastModified: new Date(),

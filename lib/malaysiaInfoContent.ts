@@ -858,6 +858,124 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ]
             };
 
+        case "best-tours-in-kuala-lumpur":
+            return {
+                title: "Best Tours in Kuala Lumpur — 2026, Honestly Compared",
+                seoTitle: "Best Tours in Kuala Lumpur 2026: Top-Rated Picks by Category",
+                description: "The best Kuala Lumpur tours for 2026, picked by category — Petronas Twin Towers, Batu Caves, street food, a heritage walk and a Genting Highlands day trip — with real prices and an honest note on how we chose them.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1428644/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "**Batu Caves in the morning, Petronas Towers in the evening** is the most efficient single-day sequence — beat the heat at the caves early, then catch the towers at golden hour before dinner at Jalan Alor. If you only have one tour slot, make it Batu Caves; it's the harder of the two to do well on your own.",
+                        tourCard: { slug: "kuala-lumpur-batu-caves-petronas-towers-guided", title: "Kuala Lumpur: Batu Caves & Petronas Towers Guided Tour", description: "Both headline sights, one guide, no queue guesswork on timed-entry tickets.", price: "From $592", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1366794/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Skyline Experience: Petronas Towers",
+                        content: "Tickets to the **Petronas Towers Skybridge** are capped per time slot, and the earliest morning slots sell out first for both the haze-free visibility and the fact that tour groups book the same window. Combining the Skybridge visit with dining extends the experience beyond the timed ticket window.",
+                        tourCard: { slug: "petronas-twin-towers-skybridge-view-dining", title: "Petronas Twin Towers Skybridge View & Dining Experience", description: "Combines the Skybridge visit with a sit-down meal that extends the experience beyond the timed ticket window.", price: "From $121", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1380041/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Food Tour",
+                        content: "A **street food tour with 15+ tastings** through KL's night-market hawker culture covers the dishes a first-timer would otherwise never find on their own — nasi lemak, char kway teow and the decades-old noodle shops tucked behind Petaling Street's souvenir stalls.",
+                        tourCard: { slug: "kuala-lumpur-sambal-streets-food-tour-with-15", title: "Kuala Lumpur: Sambal Streets Food Tour with 15+ Tastings", description: "A guided route through the dishes a first-timer would otherwise never find on their own.", price: "From $90", image: "https://images.asiabylocals.com/asiabylocals/tours/my-203827/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Cultural Walk: Heritage Trail",
+                        content: "A **half-day heritage trail** through KL's old city gives the colonial, Chinese and Malay context that's easy to miss walking it alone — Merdeka Square, the Moorish-colonial Sultan Abdul Samad Building, and the spot where Malaysia's independence was declared in 1957.",
+                        tourCard: { slug: "kuala-lumpur-half-day-heritage-trail-guided", title: "Kuala Lumpur: Half-Day Heritage Trail Guided Walking Tour", description: "Context for the colonial, Chinese and Malay layers of the old city that are easy to miss on your own.", price: "From $84", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1409232/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Day Trip: Genting Highlands",
+                        content: "**Genting Highlands**, reached by the Awana SkyWay cable car from the base station, is the biggest day out from KL — cooler mountain air, a casino and theme parks, roughly 1.5-2 hours from the city by road to the base.",
+                        tourCard: { slug: "kuala-lumpur-genting-full-day-tour", title: "From Kuala Lumpur: Genting Highlands Day Trip with Cable Car", description: "The full cable-car-and-hilltop-resort day out, transport included.", price: "From $106", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1503528/img0/1600.webp" },
+                    },
+                    {
+                        title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+                        content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Kuala Lumpur tours](/malaysia/kuala-lumpur)."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best tour in Kuala Lumpur?", a: "Batu Caves in the morning, Petronas Towers in the evening — the most efficient single-day sequence, beating the heat at the caves and catching the towers at golden hour." },
+                    { q: "What is the best food tour in Kuala Lumpur?", a: "A street food tour with 15+ tastings through the night-market hawker scene, covering dishes a first-timer would never find alone — nasi lemak, char kway teow and the decades-old noodle shops behind Petaling Street." },
+                    { q: "What is the best day trip from Kuala Lumpur?", a: "Genting Highlands, reached by cable car — cooler mountain air, a casino and theme parks, about 1.5-2 hours from the city." },
+                    { q: "Should I book Petronas Towers tickets ahead?", a: "Yes — tickets are capped per time slot and the earliest morning slots sell out fastest. Book at least 3-5 days ahead for a weekday, a week or more for weekends." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@graph": [
+                        {
+                            "@type": "FAQPage",
+                            "mainEntity": [
+                                { "@type": "Question", "name": "What is the best tour in Kuala Lumpur?", "acceptedAnswer": { "@type": "Answer", "text": "Batu Caves in the morning, Petronas Towers in the evening." } },
+                                { "@type": "Question", "name": "What is the best day trip from Kuala Lumpur?", "acceptedAnswer": { "@type": "Answer", "text": "Genting Highlands, reached by cable car for cooler mountain air, a casino and theme parks." } }
+                            ]
+                        }
+                    ]
+                },
+                fastFacts: [
+                    { icon: 'Star', label: 'Top Pick', value: 'Batu Caves + Petronas Towers' },
+                    { icon: 'Utensils', label: 'Best Food Tour', value: '15+ Tastings Street Food' },
+                    { icon: 'Map', label: 'Best Day Trip', value: 'Genting Highlands' }
+                ]
+            };
+
+        case "best-tours-in-penang":
+            return {
+                title: "Best Tours in Penang — 2026, Honestly Compared",
+                seoTitle: "Best Tours in Penang 2026: Top-Rated Picks by Category",
+                description: "The best Penang tours for 2026, picked by category — Penang Hill and Kek Lok Si at sunrise, George Town's heritage streets, the Clan Jetties and a dedicated food day — with real prices and an honest note on how we chose them.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1294852/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "**Sunrise at Penang Hill and Kek Lok Si Temple** is the one tour worth setting an early alarm for — it takes the guesswork out of beating both the hill's queues and the temple's midday heat. Pair it with a dedicated food day, since Penang's street food reputation is not exaggerated.",
+                        tourCard: { slug: "sunrise-at-penang-hill-kek-lok-si-temple-and", title: "Sunrise at Penang Hill, Kek Lok Si Temple, and Market Tour", description: "Takes the guesswork out of beating the queues with a genuinely early sunrise timing.", price: "From $181", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1294852/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Food Tour",
+                        content: "A **food tour with 15+ tastings** through George Town's hawker stalls is the dedicated food day Penang's reputation demands — a guide steers you to the right stalls instead of leaving it to chance.",
+                        tourCard: { slug: "penang-plates-food-tour-with-15-tastings", title: "Penang Plates Food Tour with 15+ Tastings", description: "The dedicated food day Penang's reputation demands.", price: "From $84", image: "https://images.asiabylocals.com/asiabylocals/tours/my-672622/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Heritage Experience: George Town",
+                        content: "A **customizable private tour** through George Town's old town — Malaysia's UNESCO-listed heritage core — is the best way to get oriented on a first day before deciding where to focus your remaining time.",
+                        tourCard: { slug: "george-town-penang-customizable-private-tour", title: "George Town: Penang Customizable Private Tour", description: "A flexible first day to get oriented before deciding where to focus your remaining time.", price: "From $216", image: "https://images.asiabylocals.com/asiabylocals/tours/my-892858/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Evening Experience: Clan Jetties",
+                        content: "The **Clan Jetties**, Chinese stilt-house settlements built directly over the water, are best visited in the evening combined with the surrounding heritage zone and street food — a quieter, more atmospheric side of George Town.",
+                        tourCard: { slug: "penang-chew-jetty-heritage-street-food-night-tour", title: "Penang: Chew Jetty, Heritage & Street Food Night Tour", description: "An evening visit to the jetty combined with the surrounding heritage zone and food.", price: "From $121", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1466451/img0/1600.webp" },
+                    },
+                    {
+                        title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+                        content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Penang tours](/malaysia/penang)."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best tour in Penang?", a: "Sunrise at Penang Hill and Kek Lok Si Temple — it beats both the hill's queues and the temple's midday heat with a genuinely early start." },
+                    { q: "What is the best food tour in Penang?", a: "A food tour with 15+ tastings through George Town's hawker stalls — a guide steers you to the right stalls rather than leaving it to chance." },
+                    { q: "Are the Clan Jetties worth visiting?", a: "Yes, especially in the evening — the Chinese stilt-house settlements built over the water, combined with the surrounding heritage zone and street food, are a quieter, more atmospheric side of George Town." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@graph": [
+                        {
+                            "@type": "FAQPage",
+                            "mainEntity": [
+                                { "@type": "Question", "name": "What is the best tour in Penang?", "acceptedAnswer": { "@type": "Answer", "text": "Sunrise at Penang Hill and Kek Lok Si Temple, beating both the queues and the midday heat." } },
+                                { "@type": "Question", "name": "What is the best food tour in Penang?", "acceptedAnswer": { "@type": "Answer", "text": "A food tour with 15+ tastings through George Town's hawker stalls." } }
+                            ]
+                        }
+                    ]
+                },
+                fastFacts: [
+                    { icon: 'Star', label: 'Top Pick', value: 'Sunrise Penang Hill + Kek Lok Si' },
+                    { icon: 'Utensils', label: 'Best Food Tour', value: '15+ Tastings' },
+                    { icon: 'Landmark', label: 'Best Heritage', value: 'George Town Old Town' }
+                ]
+            };
+
         default:
             return null;
     }

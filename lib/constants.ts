@@ -165,6 +165,8 @@ export const KUALA_LUMPUR_INFO_SLUGS = [
   'kl-public-transport-guide', 'kl-halal-food-guide',
   'bukit-bintang-shopping-guide', 'kl-to-penang-travel',
   'malaysia-visa-guide-for-tourists',
+  // GEO listicle page (2026-10)
+  'best-tours-in-kuala-lumpur',
 ];
 
 export const PENANG_INFO_SLUGS = [
@@ -173,6 +175,8 @@ export const PENANG_INFO_SLUGS = [
   'penang-1-day-itinerary', 'penang-food-guide', 'penang-hill-guide',
   'georgetown-unesco-heritage-guide', 'penang-beaches-guide',
   'penang-3-day-itinerary', 'clan-jetties-penang', 'kek-lok-si-temple-guide',
+  // GEO listicle page (2026-10)
+  'best-tours-in-penang',
 ];
 
 export const LANGKAWI_INFO_SLUGS = [

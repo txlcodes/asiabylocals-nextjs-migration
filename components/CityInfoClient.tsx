@@ -103,6 +103,7 @@ const JAIPUR_SIDEBAR = [
 ];
 
 const KUALA_LUMPUR_SIDEBAR = [
+    { name: 'Best Tours in Kuala Lumpur', slug: 'best-tours-in-kuala-lumpur' },
     { name: 'KL Travel Guide', slug: 'kuala-lumpur-travel-guide-2026' },
     { name: 'Things to Do', slug: 'things-to-do-in-kuala-lumpur' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-kuala-lumpur' },
@@ -118,6 +119,7 @@ const KUALA_LUMPUR_SIDEBAR = [
 ];
 
 const PENANG_SIDEBAR = [
+    { name: 'Best Tours in Penang', slug: 'best-tours-in-penang' },
     { name: 'Penang Travel Guide', slug: 'penang-travel-guide-2026' },
     { name: 'Things to Do', slug: 'things-to-do-in-penang' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-penang' },
