@@ -59601,6 +59601,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "La retouche faciale et les modifications photo cosmetiques ne sont pas incluses. Non precise : transport, nourriture, entree au parc ou au temple. Le paiement se fait en especes uniquement ; un acompte de 2 000 JPY est requis pour confirmer la reservation"
   ]
  },
+ "nara-park-private-tour": {
+  "title": "Boucle privee d'une journee Kyoto et Nara en van depuis Osaka",
+  "metaTitle": "Boucle privee Kyoto et Nara en van",
+  "metaDescription": "Une visite privee de dix heures en van depuis Osaka reliant six incontournables de Kyoto au parc de Nara et au grand Bouddha de Todai-ji.",
+  "shortDescription": "Une visite privee de dix heures en van depuis Osaka reliant six incontournables de Kyoto au parc de Nara et au grand Bouddha de Todai-ji.",
+  "fullDescription": "C'est une sortie d'une journee privee en vehicule qui traite Kyoto et Nara comme une seule boucle plutot que deux voyages separes. Vous commencez et terminez a Osaka avec votre propre guide et van, ce qui rend la journee faisable du tout : les six arrets de Kyoto sont disperses au nord-ouest, au sud et a l'est de la ville, et le trajet vers Nara ajoute environ 45 minutes supplementaires. Comme le groupe est uniquement le votre, l'ordre et le temps passe a chaque arret peuvent etre modifies le jour meme, et il n'y a pas d'attente pour des etrangers au point de rendez-vous.\n\nLa moitie Kyoto se deplace des forets de bambous d'Arashiyama a Kinkaku-ji, puis aux tunnels de torii vermillon de Fushimi Inari Taisha, aux ruelles de Gion, aux etals de nourriture du marche de Nishiki et enfin Kiyomizu-dera. La moitie Nara est plus courte mais plus chargee en histoire. Nara fut la premiere capitale permanente du Japon, fondee comme Heijo-kyo en 710 de notre ere et a tenu ce role pendant 74 ans, et le Daibutsu de Todai-ji, un Bouddha de bronze d'environ quinze metres, y a ete dedie en 752 de notre ere. Le hall qui l'abrite, reconstruit en 1709 a deux tiers de la largeur de l'original, reste parmi les plus grands batiments en bois nulle part.\n\nLe parc de Nara vient juste avant, et les cerfs sont la raison pour laquelle la plupart des gens se souviennent de l'apres-midi. Plus d'un millier de cerfs sika sauvages errent dans le parc, proteges depuis des siecles comme messagers de la divinite shinto Takemikazuchi et designes tresor naturel national en 1957. Des vendeurs vendent des biscuits shika senbei, et les cerfs savent exactement a quoi ressemblent les gaufrettes. Sachez que c'est une journee de dix heures veritablement complete avec beaucoup de marche et plusieurs longs transferts entre les sites.",
+  "highlights": [],
+  "included": [
+   "Guide prive anglophone, van prive avec chauffeur, prise en charge et retour a l'hotel a Osaka, toute la conduite entre les arrets de Kyoto et Nara"
+  ],
+  "notIncluded": [
+   "Repas et boissons, frais d'entree aux temples et sanctuaires, pourboires, shopping personnel, assurance voyage"
+  ]
+ },
+ "nara-park-session-photography-tour": {
+  "title": "Seance photo en kimono au parc de Nara pour couples avec prise de vue en studio",
+  "metaTitle": "Seance photo en kimono au parc de Nara",
+  "metaDescription": "Habillage en kimono ou yukata pour deux, une seance photo de 40 minutes au parc de Nara et une session en studio, un prix pour le couple.",
+  "shortDescription": "Habillage en kimono ou yukata pour deux, une seance photo de 40 minutes au parc de Nara et une session en studio, un prix pour le couple.",
+  "fullDescription": "Reserve par un homme et une femme ensemble, c'est le forfait photographique de Minori, et le tarif publie est pour la paire plutot que pour chacun de vous. A la difference des forfaits de location simple de la boutique, un photographe vous accompagne. Vous etes tous les deux habilles a la boutique de Takama-cho dans un kimono premium ou, pendant les mois chauds, un ensemble yukata, la coiffure simple des femmes est faite, puis environ quarante minutes de prise de vue ont lieu au parc de Nara. Une session en studio a la boutique est incluse sans frais supplementaires. Ce qui n'est pas publie est la duree totale de bout en bout, les quarante minutes font reference uniquement a la prise de vue au parc, et l'habillage, la marche jusqu'a la et le travail en studio s'ajoutent tous a la journee.\n\nLe parc de Nara merite sa place comme lieu. Plus d'un millier de cerfs sika sauvages y vivent, proteges comme messagers des dieux shinto et designes tresor naturel national en 1957, errant librement parmi les pelouses et les bosquets de cedres qui menent vers Todaiji et Kasuga Taisha. La boutique est au rez-de-chaussee au 43-1 Takama-cho, a trente secondes de la sortie 7S de la gare de Kintetsu Nara et a dix minutes a pied du parc, avec les ruelles marchandes preservees de l'ere Edo de Naramachi entre les deux si vous voulez continuer a flaner une fois l'appareil photo range.\n\nLes conditions de livraison sont specifiques. Les donnees photo originales plus vingt images editees sont envoyees par email dans les trente jours suivant la seance. Le photographe fait un etalonnage des couleurs de la selection, mais l'edition cosmetique, remodelage du visage, retouche de peau, est exclue. Les conditions de reservation comptent aussi : cela fonctionne comme un forfait d'evenement special, donc le paiement se fait en especes uniquement, un acompte de 5 000 yens est pris a la reservation, les prix sont cotes avant la taxe a la consommation, et le tarif d'evenement reduit n'est disponible que pour les invites qui acceptent que leurs photos soient utilisees sur les reseaux sociaux de la boutique.",
+  "highlights": [],
+  "included": [
+   "Ensemble yukata ou kimono premium homme/femme, environ 40 minutes de prise de vue au parc de Nara, donnees photo originales, 20 photos editees, seance photo en studio gratuite"
+  ],
+  "notIncluded": [
+   "La taxe a la consommation (prix hors taxe). La retouche photo cosmetique. Le transport, la nourriture et toute entree de temple. Le paiement se fait en especes uniquement et un acompte de 5 000 yens est requis a la reservation. Le tarif d'evenement reduit exige d'accepter l'utilisation de vos photos sur les reseaux sociaux"
+  ]
+ },
+ "nara-park-walking-tour": {
+  "title": "Visite a pied en petit groupe a Nara : parc aux cerfs et grand Bouddha de Todai-ji",
+  "metaTitle": "Nara en petit groupe : cerfs et grand Bouddha",
+  "metaDescription": "Une visite a pied en petit groupe couvrant les cerfs sacres du parc de Nara et le grand Bouddha de Todai-ji en une boucle facile.",
+  "shortDescription": "Une visite a pied en petit groupe couvrant les cerfs sacres du parc de Nara et le hall du grand Bouddha de Todai-ji, les deux incontournables de Nara en une boucle facile.",
+  "fullDescription": "Nara fut la premiere capitale permanente du Japon, fondee en 710 de notre ere, et pendant 74 ans elle fut le cœur politique et religieux du pays avant que la capitale ne se deplace a Kyoto. Cette periode courte mais formatrice a laisse derriere elle certains des monuments bouddhistes les plus importants du Japon, et cette visite a pied en petit groupe couvre les deux qui comptent le plus : les cerfs du parc de Nara et le grand Bouddha de Todai-ji.\n\nLa marche commence dans le parc de Nara, un espace vert de 660 hectares abritant plus de 1 000 cerfs sika sauvages. Contrairement aux cerfs de la plupart des endroits du monde, ceux de Nara sont proteges comme messagers sacres des dieux shinto depuis le 8e siecle, et des generations de contact avec les visiteurs les ont rendus celebres pour leur docilite, beaucoup s'inclinent la tete pour un biscuit, un comportement appris qui ravit les visiteurs novices. Votre guide explique la mythologie derriere leur statut protege, ainsi que des conseils pratiques pour les nourrir et les photographier en toute securite.\n\nDepuis le parc, la marche continue vers Todai-ji, le temple construit en 752 de notre ere pour abriter le Daibutsu, un Bouddha de bronze assis se tenant a plus de 15 metres de haut, une des plus grandes statues de bronze sur Terre. Le hall en bois qui l'enferme, le Daibutsuden, a detenu le record du plus grand batiment en bois du monde pendant des siecles. A l'interieur, votre guide signale des details faciles a manquer sans connaissance locale : l'echelle de la main de la statue seule, l'histoire de destruction et de reconstruction du temple apres incendies et tremblements de terre, et le petit pilier a travers lequel on peut se glisser, dit garantir l'illumination a quiconque passe par son trou de la taille d'une narine de Bouddha. A un rythme detendu en petit groupe, la boucle complete prend environ deux heures et demie.",
+  "highlights": [],
+  "included": [
+   "Guide agree anglophone, visite a pied en petit groupe du parc de Nara et du terrain de Todai-ji"
+  ],
+  "notIncluded": [
+   "Billet d'entree a Todai-ji, biscuits pour cerfs, repas, transport vers/depuis Nara"
+  ]
+ },
+ "nara-park-walking-walking-tour": {
+  "title": "Visite a pied de Nara : cerfs sacres, le grand Bouddha et mochi de Naramachi",
+  "metaTitle": "Visite a pied de Nara avec degustation de mochi",
+  "metaDescription": "Une marche guidee de quatre heures a travers Kofuku-ji, le parc de Nara, Todai-ji et Kasuga Taisha, se terminant par une degustation de mochi a Naramachi.",
+  "shortDescription": "Une marche guidee de quatre heures a travers Kofuku-ji, le parc de Nara, Todai-ji et Kasuga Taisha, se terminant par une degustation de mochi a Naramachi.",
+  "fullDescription": "Quatre heures, un guide, et un itineraire qui se termine par quelque chose a manger. Cette marche couvre la sequence classique de Nara mais ajoute deux choses que les visites plus courtes ignorent : Naramachi, le quartier marchand preserve de l'ere Edo de maisons de ville en bois basses au sud des sites principaux, et une degustation de mochi traditionnelle pour terminer. C'est l'option guidee complete la moins chere de ce lot, ce qui en fait un choix raisonnable si vous visitez Nara en excursion d'une journee et ne voulez pas depenser beaucoup avant le train retour.\n\nVous vous rencontrez a Higashimuki Nakamachi, la galerie commerciale couverte juste a cote de la gare de Kintetsu Nara, et marchez vers Kofuku-ji, puis dans le parc de Nara, puis Todai-ji. Le grand Bouddha s'y trouve, une figure de bronze d'environ quinze metres dediee en 752 de notre ere, quand Nara etait la premiere capitale permanente du Japon sous le nom de Heijo-kyo, un role qu'elle a tenu pendant 74 ans a partir de 710. Le Daibutsuden actuel date de 1709 et fait environ deux tiers de la largeur du hall qu'il a remplace. Kasuga Taisha, fonde en 768 de notre ere et celebre pour les milliers de lanternes donnees le long de ses chemins, suit avant que la marche ne descende dans Naramachi.\n\nLes cerfs recoivent une vraie attention plutot qu'une simple mention. Plus d'un millier de cerfs sika sauvages vivent dans et autour du parc, proteges comme tresor naturel national depuis 1957 et consideres comme messagers de la divinite Takemikazuchi, et votre guide vous montrera comment donner des biscuits shika senbei sans finir entoure. La marche se termine a la statue de Gyoki Bosatsu a l'exterieur de la gare, ce qui vous met a une minute de votre train.",
+  "highlights": [],
+  "included": [
+   "Guide local anglophone, visites guidees a Kofuku-ji, le parc de Nara, Todai-ji, Kasuga Taisha et Naramachi, degustation de mochi traditionnelle"
+  ],
+  "notIncluded": [
+   "Frais d'entree aux temples et musees, biscuits pour cerfs, nourriture et boissons additionnelles, prise en charge a l'hotel, tarif de train vers Nara"
+  ]
+ },
+ "nara-townhouse-mini-tour": {
+  "title": "Fabriquez votre propre mini tatami dans une maison de ville a Nara, avec the et douceurs",
+  "metaTitle": "Atelier de mini tatami a Nara",
+  "metaDescription": "Un atelier pratique d'une heure de fabrication de tatami dans une maison de ville a Nara, avec the japonais, douceurs, et un mini tapis a emporter.",
+  "shortDescription": "Un atelier pratique d'une heure de fabrication de tatami dans une maison de ville a Nara, avec the japonais, douceurs, et un mini tapis a emporter.",
+  "fullDescription": "Le tatami est le sol selon lequel presque toute piece traditionnelle japonaise est mesuree, et pourtant tres peu de visiteurs voient jamais comment l'un est assemble. Cet atelier d'une heure se deroule a l'interieur d'une maison machiya a Nara et vous remet les materiaux directement : une surface tissee en jonc igusa, le bord en tissu, et les outils utilises pour fixer l'un a l'autre. Vous partez avec un tatami miniature que vous avez fabrique vous-meme, assez petit pour rapporter chez vous dans une valise et utilisable comme sous-verre, support ou piece d'exposition.\n\nLa premiere chose que vous remarquez est l'odeur. L'igusa, le jonc doux a partir duquel la surface du tapis est tissee, degage un parfum herbace et legerement sucre qui est l'une des odeurs les plus reconnaissables du Japon et s'attenue avec le vieillissement du tapis, ce qui explique pourquoi une piece tatami fraichement posee est une experience si distinctive. Votre hote explique d'ou vient cet artisanat, comment les tailles de tapis en sont venues a definir les dimensions des pieces, et pourquoi le tissu de bordure etait autrefois un marqueur de rang. Du the japonais et des douceurs de saison sont servis pendant la session, donc il y a une pause pour s'asseoir avec le materiau plutot que de precipiter la fabrication.\n\nAvec une heure, cela s'integre parfaitement d'un cote ou de l'autre d'une matinee de temples, et c'est une utilisation veritablement differente du temps dans une ville ou presque toute autre activite concerne les cerfs et l'architecture bouddhiste. Cela fonctionne bien pour les familles, pour les apres-midis pluvieux, et pour les voyageurs qui preferent rapporter chez eux quelque chose qu'ils ont fabrique plutot qu'achete. Aucune experience artisanale n'est necessaire et tous les materiaux sont fournis.",
+  "highlights": [],
+  "included": [
+   "Tous les materiaux et outils d'artisanat, instruction guidee de votre hote, the japonais et douceurs, le mini tatami que vous fabriquez"
+  ],
+  "notIncluded": [
+   "Transport vers et depuis l'atelier, nourriture et boissons additionnelles, souvenirs au-dela de votre tapis fini, pourboires"
+  ]
+ },
+ "naramachi-old-town-mini-tour": {
+  "title": "Location de kimono et experience de ceremonie du the traditionnelle a Nara",
+  "metaTitle": "Kimono et ceremonie du the a Nara",
+  "metaDescription": "Choisissez et portez un kimono, puis participez a une ceremonie du the japonaise traditionnelle dans le quartier marchand historique de Naramachi a Nara.",
+  "shortDescription": "Choisissez et portez un kimono, puis participez a une ceremonie du the japonaise traditionnelle dans le quartier marchand historique de Naramachi a Nara.",
+  "fullDescription": "Naramachi, le vieux quartier marchand juste au sud du parc de Nara, est une grille de ruelles etroites bordees de maisons de ville en bois de l'ere Edo (machiya), beaucoup aujourd'hui converties en cafes, boutiques artisanales et studios comme celui-ci. C'est le cadre naturel pour cette experience culturelle en deux parties : s'habiller en kimono, puis s'asseoir pour une ceremonie du the traditionnelle, toutes deux enracinees dans des pratiques remontant a des siecles dans cette partie precise de la ville.\n\nL'experience commence par la selection du kimono, un membre du personnel vous aide a choisir parmi une gamme de motifs et de couleurs, puis vous habille correctement, y compris la ceinture obi, qui demande une vraie competence pour etre nouee correctement et n'est pas quelque chose que la plupart des visiteurs peuvent gerer seuls. Une fois habille, vous avez le temps de marcher dans les ruelles de Naramachi en kimono pour des photos avant ou apres la ceremonie elle-meme, une vue courante et bienvenue dans cette partie de la ville.\n\nLa ceremonie du the qui suit introduit les principes du chado, la « voie du the » japonaise : des mouvements precis et sans hate, des douceurs de saison servies avant le matcha amer pour equilibrer la saveur, et une etiquette d'hospitalite qui remonte au 16e siecle sous le maitre de the Sen no Rikyu. Votre hote demontre le processus de fouettage et de service et explique le sens derriere chaque etape, puis vous guide pour boire correctement votre propre bol. C'est une heure veritablement apaisante et sans hate apres les sites plus physiquement actifs de Nara, et une rare occasion de s'asseoir a l'interieur d'une veritable machiya traditionnelle plutot qu'une reconstruction moderne.",
+  "highlights": [],
+  "included": [
+   "Location et habillage de kimono, ceremonie du the avec matcha et douceurs de saison, utilisation du studio pour la session"
+  ],
+  "notIncluded": [
+   "Service de photographie (auto-prise de vue seulement), transport vers Naramachi"
+  ]
+ },
  "kyoto-kid-friendly-ninja-class-museum": {
   "title": "Cours de ninja pour familles a Kyoto : sarbacanes, etoiles et discretion",
   "metaTitle": "Cours de ninja pour familles a Kyoto",

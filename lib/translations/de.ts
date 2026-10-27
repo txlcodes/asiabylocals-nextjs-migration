@@ -59601,6 +59601,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Gesichtsretusche/kosmetische Fotobearbeitungen sind nicht enthalten. Nicht angegeben: Transport, Essen, Park- oder Tempeleintritt. Zahlung nur in bar; eine Anzahlung von 2.000 JPY ist zur Bestaetigung der Reservierung erforderlich"
   ]
  },
+ "nara-park-private-tour": {
+  "title": "Private Kyoto-und-Nara-Tagesschleife im Van ab Osaka",
+  "metaTitle": "Private Kyoto-und-Nara-Schleife im Van",
+  "metaDescription": "Eine private zehnstuendige Vantour ab Osaka, die sechs Kyoto-Highlights mit dem Nara-Park und Todai-jis grossem Buddha verbindet.",
+  "shortDescription": "Eine private zehnstuendige Vantour ab Osaka, die sechs Kyoto-Highlights mit dem Nara-Park und Todai-jis grossem Buddha verbindet.",
+  "fullDescription": "Dies ist ein privater, fahrzeugbasierter Tagesausflug, der Kyoto und Nara als eine Schleife statt zwei separate Reisen behandelt. Sie beginnen und enden in Osaka mit Ihrem eigenen Guide und Van, was den Tag ueberhaupt erst machbar macht: die sechs Kyoto-Stopps verteilen sich ueber den Nordwesten, Sueden und Osten der Stadt, und die Fahrt hinunter nach Nara fuegt rund 45 weitere Minuten hinzu. Da die Gruppe nur Ihnen gehoert, koennen die Reihenfolge und die an jedem Stopp verbrachte Zeit am Tag selbst angepasst werden, und es gibt kein Warten auf Fremde am Treffpunkt.\n\nDie Kyoto-Haelfte bewegt sich von den Bambushainen Arashiyamas zu Kinkaku-ji, dann zu den zinnoberroten Torii-Tunneln von Fushimi Inari Taisha, den Gassen Gions, den Essensstaenden des Nishiki-Marktes und schliesslich Kiyomizu-dera. Die Nara-Haelfte ist kuerzer, aber geschichtlich schwerer. Nara war Japans erste staendige Hauptstadt, 710 n. Chr. als Heijo-kyo gegruendet, eine Rolle, die sie 74 Jahre lang hielt, und Todai-jis Daibutsu, ein etwa fuenfzehn Meter hoher Bronze-Buddha, wurde dort 752 n. Chr. eingeweiht. Die Halle, die ihn beherbergt, 1709 bei zwei Drittel der Breite des Originals wiederaufgebaut, zaehlt immer noch zu den groessten Holzgebaeuden ueberhaupt.\n\nDer Nara-Park kommt kurz davor, und die Hirsche sind der Grund, warum sich die meisten Menschen an den Nachmittag erinnern. Mehr als tausend wilde Sika-Hirsche wandern durch den Park, seit Jahrhunderten als Boten der Shinto-Gottheit Takemikazuchi geschuetzt und 1957 als Nationales Naturdenkmal ausgewiesen. Verkaeufer verkaufen Shika-Senbei-Kekse, und die Hirsche wissen genau, wie die Waffeln aussehen. Seien Sie sich bewusst, dass dies ein wirklich voller zehnstuendiger Tag mit viel Gehen und mehreren langen Transfers zwischen den Staetten ist.",
+  "highlights": [],
+  "included": [
+   "Privater englischsprachiger Guide, Privatvan mit Fahrer, Hotelabholung und -ruecktransfer in Osaka, alle Fahrten zwischen den Kyoto- und Nara-Stopps"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke, Tempel- und Schreineintrittsgebuehren, Trinkgelder, persoenliches Einkaufen, Reiseversicherung"
+  ]
+ },
+ "nara-park-session-photography-tour": {
+  "title": "Kimono-Fotositzung im Nara-Park fuer Paare mit Studioshooting",
+  "metaTitle": "Kimono-Fotositzung im Nara-Park",
+  "metaDescription": "Kimono- oder Yukata-Ankleiden fuer zwei, ein 40-minuetiges Fotoshooting im Nara-Park und eine Studiositzung, ein Preis fuer das Paar.",
+  "shortDescription": "Kimono- oder Yukata-Ankleiden fuer zwei, ein 40-minuetiges Fotoshooting im Nara-Park und eine Studiositzung, ein Preis fuer das Paar.",
+  "fullDescription": "Gebucht von einem Mann und einer Frau zusammen, ist dies Minoris Fotografie-Paket, und der veroeffentlichte Preis gilt fuer das Paar statt fuer jeden einzeln. Anders als die einfachen Verleihplaene des Ladens begleitet Sie ein Fotograf. Sie beide werden im Laden in Takama-cho in einen hochwertigen Kimono oder, in den warmen Monaten, ein Yukata-Set gekleidet, das einfache Haar-Styling der Damen wird gemacht, und dann findet etwa vierzig Minuten Fotografieren im Nara-Park statt. Eine Studiositzung im Laden ist ohne zusaetzliche Kosten enthalten. Was nicht veroeffentlicht ist, ist die Gesamtdauer von Anfang bis Ende, die vierzig Minuten bezieht sich nur auf das Shooting im Park, und Ankleiden, der Weg dorthin und die Studioarbeit erhoehen alle den Tag.\n\nDer Nara-Park verdient sich seinen Platz als Standort. Mehr als tausend wilde Sika-Hirsche leben dort, geschuetzt als Boten der Shinto-Goetter und 1957 als Nationales Naturdenkmal ausgewiesen, frei umherwandernd zwischen den Rasenflaechen und Zedernhainen, die zu Todaiji und Kasuga Taisha fuehren. Der Laden liegt im Erdgeschoss von 43-1 Takama-cho, dreissig Sekunden von Ausgang 7S am Bahnhof Kintetsu Nara und zehn Gehminuten vom Park entfernt, mit Naramachis erhaltenen Haendlergassen aus der Edo-Zeit dazwischen, falls Sie weiter schlendern moechten, nachdem die Kamera weggepackt ist.\n\nDie Lieferbedingungen sind spezifisch. Original-Fotodaten plus zwanzig bearbeitete Bilder werden innerhalb von dreissig Tagen nach dem Shooting per E-Mail gesendet. Der Fotograf fuehrt eine Farbkorrektur der Auswahl durch, aber kosmetische Bearbeitung, Gesichtsumformung, Hautretusche, ist ausgeschlossen. Buchungsbedingungen zaehlen auch: dies laeuft als spezielles Veranstaltungspaket, also erfolgt die Zahlung nur in bar, eine Anzahlung von 5.000 Yen wird bei der Buchung erhoben, Preise werden vor der Verbrauchssteuer angegeben, und der ermaessigte Veranstaltungstarif ist nur fuer Gaeste verfuegbar, die der Nutzung ihrer Fotos in den sozialen Medien des Ladens zustimmen.",
+  "highlights": [],
+  "included": [
+   "Herren-/Damen-Yukata oder hochwertiges Kimono-Set, etwa 40 Minuten Fotografieren im Nara-Park, Original-Fotodaten, 20 bearbeitete Fotos, kostenlose Studio-Fotositzung"
+  ],
+  "notIncluded": [
+   "Verbrauchssteuer (Preise sind zzgl. Steuer). Kosmetische Fotoretusche. Transport, Essen und jeglicher Tempeleintritt. Zahlung nur in bar und eine Anzahlung von 5.000 Yen ist bei der Buchung erforderlich. Der ermaessigte Veranstaltungstarif erfordert die Zustimmung zur Social-Media-Nutzung Ihrer Fotos"
+  ]
+ },
+ "nara-park-walking-tour": {
+  "title": "Nara-Kleingruppen-Spaziergangstour: Hirschpark und Todai-jis grosser Buddha",
+  "metaTitle": "Nara in kleiner Gruppe: Hirsche und grosser Buddha",
+  "metaDescription": "Eine Kleingruppen-Spaziergangstour zu den heiligen Hirschen des Nara-Parks und Todai-jis grossem Buddha in einer einfachen Schleife.",
+  "shortDescription": "Eine Kleingruppen-Spaziergangstour, die den heiligen Hirschen des Nara-Parks und Todai-jis Grosse-Buddha-Halle abdeckt, Naras zwei unverzichtbare Sehenswuerdigkeiten in einer einfachen Schleife.",
+  "fullDescription": "Nara war Japans erste staendige Hauptstadt, 710 n. Chr. gegruendet, und war 74 Jahre lang das politische und religioese Herz des Landes, bevor die Hauptstadt nach Kyoto zog. Diese kurze, aber praegende Periode hinterliess einige der bedeutendsten buddhistischen Denkmaeler Japans, und diese Kleingruppen-Spaziergangstour deckt die zwei wichtigsten ab: die Hirsche des Nara-Parks und den grossen Buddha von Todai-ji.\n\nDer Spaziergang beginnt im Nara-Park, einer 660 Hektar grossen Gruenflaeche, die ueber 1.000 wilde Sika-Hirsche beherbergt. Anders als Hirsche in den meisten Teilen der Welt sind die von Nara seit dem 8. Jahrhundert als heilige Boten der Shinto-Goetter geschuetzt, und Generationen des Kontakts mit Besuchern haben sie beruehmt zahm gemacht, viele verbeugen ihre Koepfe fuer einen Keks, ein erlerntes Verhalten, das Erstbesucher erfreut. Ihr Guide erklaert die Mythologie hinter ihrem geschuetzten Status, sowie praktische Tipps zum sicheren Fuettern und Fotografieren.\n\nVom Park fuehrt der Spaziergang weiter zu Todai-ji, dem 752 n. Chr. gebauten Tempel, um den Daibutsu zu beherbergen, einen sitzenden Bronze-Buddha, der ueber 15 Meter hoch ist, eine der groessten Bronzestatuen der Erde. Die hoelzerne Halle, die ihn umschliesst, die Daibutsuden, hielt jahrhundertelang den Rekord als groesstes Holzgebaeude der Welt. Im Inneren weist Ihr Guide auf Details hin, die ohne lokales Wissen leicht uebersehen werden: die Groesse allein der Hand der Statue, die Geschichte der Zerstoerung und des Wiederaufbaus des Tempels nach Braenden und Erdbeben, und die kleine Durchkriechsaeule, die angeblich jedem Erleuchtung garantiert, der durch ihr buddhanasenlochgrosses Loch passt. In entspanntem Kleingruppentempo dauert die volle Schleife etwa zweieinhalb Stunden.",
+  "highlights": [],
+  "included": [
+   "Lizenzierter englischsprachiger Guide, Kleingruppen-Spaziergangstour durch den Nara-Park und das Gelaende von Todai-ji"
+  ],
+  "notIncluded": [
+   "Eintrittskarte fuer Todai-ji, Hirschkekse, Mahlzeiten, Transport zu/von Nara"
+  ]
+ },
+ "nara-park-walking-walking-tour": {
+  "title": "Nara-Spaziergangstour: heilige Hirsche, der grosse Buddha und Naramachi-Mochi",
+  "metaTitle": "Nara-Spaziergang mit Mochi-Verkostung",
+  "metaDescription": "Ein vierstuendiger gefuehrter Spaziergang durch Kofuku-ji, den Nara-Park, Todai-ji und Kasuga Taisha, endend mit Mochi-Verkostung in Naramachi.",
+  "shortDescription": "Ein vierstuendiger gefuehrter Spaziergang durch Kofuku-ji, den Nara-Park, Todai-ji und Kasuga Taisha, endend mit Mochi-Verkostung in Naramachi.",
+  "fullDescription": "Vier Stunden, ein Guide, und eine Route, die mit etwas zu essen endet. Dieser Spaziergang deckt die klassische Nara-Sequenz ab, fuegt aber zwei Dinge hinzu, die kuerzere Touren auslassen: Naramachi, das erhaltene Haendlerviertel aus der Edo-Zeit mit niedrigen Holzstadthaeusern suedlich der Hauptttempel, und eine traditionelle Mochi-Verkostung zum Abschluss. Es ist die preisgünstigste vollstaendig gefuehrte Option in dieser Gruppe, was sie zu einer vernuenftigen Wahl macht, wenn Sie Nara als Tagesausflug besuchen und nicht viel ausgeben wollen, bevor der Zug zurueckfaehrt.\n\nSie treffen sich in Higashimuki Nakamachi, der ueberdachten Einkaufspassage direkt am Bahnhof Kintetsu Nara, und gehen zu Kofuku-ji, dann in den Nara-Park, dann Todai-ji. Der grosse Buddha dort ist eine Bronzefigur von etwa fuenfzehn Metern, 752 n. Chr. eingeweiht, als Nara unter dem Namen Heijo-kyo Japans erste staendige Hauptstadt war, eine Rolle, die es 74 Jahre lang ab 710 hielt. Die aktuelle Daibutsuden stammt von 1709 und ist etwa zwei Drittel der Breite der Halle, die sie ersetzte. Kasuga Taisha, 768 n. Chr. gegruendet und beruehmt fuer die Tausenden von gestifteten Laternen entlang seiner Wege, folgt, bevor der Spaziergang nach Naramachi hinabsteigt.\n\nDie Hirsche erhalten echte Aufmerksamkeit statt einer fluechtigen Erwaehnung. Mehr als tausend wilde Sika-Hirsche leben in und um den Park, seit 1957 als Nationales Naturdenkmal geschuetzt und als Boten der Gottheit Takemikazuchi angesehen, und Ihr Guide zeigt Ihnen, wie man Shika-Senbei-Kekse uebergibt, ohne umgeben zu enden. Der Spaziergang endet an der Statue von Gyoki Bosatsu ausserhalb des Bahnhofs, was Sie eine Minute von Ihrem Zug entfernt platziert.",
+  "highlights": [],
+  "included": [
+   "Englischsprachiger lokaler Guide, gefuehrte Besuche in Kofuku-ji, dem Nara-Park, Todai-ji, Kasuga Taisha und Naramachi, traditionelle Mochi-Verkostung"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer Tempel und Museen, Hirschkekse, zusaetzliches Essen und Getraenke, Hotelabholung, Zugfahrpreis nach Nara"
+  ]
+ },
+ "nara-townhouse-mini-tour": {
+  "title": "Fertigen Sie Ihre eigene Mini-Tatami-Matte in einem Stadthaus in Nara, mit Tee und Suessigkeiten",
+  "metaTitle": "Mini-Tatami-Workshop in Nara",
+  "metaDescription": "Ein einstuendiger praktischer Tatami-Herstellungsworkshop in einem Stadthaus in Nara, mit japanischem Tee, Suessigkeiten, und einer Mini-Matte zum Mitnehmen.",
+  "shortDescription": "Ein einstuendiger praktischer Tatami-Herstellungsworkshop in einem Stadthaus in Nara, mit japanischem Tee, Suessigkeiten, und einer Mini-Matte zum Mitnehmen.",
+  "fullDescription": "Tatami ist der Boden, nach dem fast jeder traditionelle japanische Raum bemessen wird, und doch sehen sehr wenige Besucher je, wie einer zusammengesetzt wird. Dieser einstuendige Workshop findet in einem Machiya-Stadthaus in Nara statt und gibt Ihnen die Materialien direkt in die Hand: eine gewebte Igusa-Binsenoberflaeche, den Stoffrand, und die Werkzeuge, um eines am anderen zu befestigen. Sie gehen mit einer Miniatur-Tatami-Matte, die Sie selbst gemacht haben, klein genug, um sie in einem Koffer nach Hause zu tragen und als Untersetzer, Staender oder Ausstellungsstueck zu nutzen.\n\nDas Erste, das Sie bemerken, ist der Geruch. Igusa, die weiche Binse, aus der die Mattenoberflaeche gewoben wird, verstroemt einen grasigen, leicht suesslichen Duft, der einer der erkennbarsten Geruecke Japans ist und mit zunehmendem Alter der Matte verblasst, weshalb ein frisch verlegter Tatami-Raum ein so markantes Erlebnis ist. Ihr Gastgeber erklaert, woher das Handwerk kommt, wie Mattengroessen dazu kamen, Raumdimensionen zu definieren, und warum der Randstoff einst ein Rangmerkmal war. Japanischer Tee und saisonale Suessigkeiten werden waehrend der Sitzung serviert, sodass es eine Pause gibt, um mit dem Material zu sitzen, statt die Herstellung zu hetzen.\n\nMit einer Stunde passt dies ordentlich vor oder nach einem Tempelvormittag, und es ist eine wirklich andere Nutzung der Zeit in einer Stadt, in der fast jede andere Aktivitaet Hirsche und buddhistische Architektur betrifft. Es funktioniert gut fuer Familien, fuer verregnete Nachmittage, und fuer Reisende, die lieber etwas Selbstgemachtes als etwas Gekauftes nach Hause bringen. Keine Handwerkserfahrung ist erforderlich und alle Materialien werden bereitgestellt.",
+  "highlights": [],
+  "included": [
+   "Alle Handwerksmaterialien und Werkzeuge, gefuehrte Anleitung von Ihrem Gastgeber, japanischer Tee und Suessigkeiten, die Mini-Tatami-Matte, die Sie herstellen"
+  ],
+  "notIncluded": [
+   "Transport zum und vom Workshop, zusaetzliches Essen und Getraenke, Souvenirs ueber Ihre fertige Matte hinaus, Trinkgelder"
+  ]
+ },
+ "naramachi-old-town-mini-tour": {
+  "title": "Kimono-Verleih und traditionelle Teezeremonie-Erfahrung in Nara",
+  "metaTitle": "Kimono und Teezeremonie in Nara",
+  "metaDescription": "Waehlen und tragen Sie einen Kimono, dann nehmen Sie an einer traditionellen japanischen Teezeremonie im historischen Haendlerviertel Naramachi in Nara teil.",
+  "shortDescription": "Waehlen und tragen Sie einen Kimono, dann nehmen Sie an einer traditionellen japanischen Teezeremonie im historischen Haendlerviertel Naramachi in Nara teil.",
+  "fullDescription": "Naramachi, das alte Haendlerviertel direkt sueudlich des Nara-Parks, ist ein Raster enger Gassen, gesaeumt von hoelzernen Stadthaeusern (Machiya) aus der Edo-Zeit, viele heute zu Cafes, Handwerksladen und Studios wie diesem umgebaut. Es ist der natuerliche Rahmen fuer dieses zweiteilige kulturelle Erlebnis: sich in einen Kimono zu kleiden, dann an einer traditionellen Teezeremonie teilzunehmen, beide verwurzelt in Praktiken, die in genau diesem Teil der Stadt Jahrhunderte zurueckreichen.\n\nDas Erlebnis beginnt mit der Kimono-Auswahl, ein Mitarbeiter hilft Ihnen, aus einer Reihe von Mustern und Farben zu waehlen, und kleidet Sie dann richtig an, einschliesslich des Obi-Guertels, der echtes Geschick erfordert, um korrekt gebunden zu werden, und nicht etwas ist, das die meisten Besucher allein bewaeltigen koennen. Einmal angezogen, haben Sie Zeit, durch Naramachis Gassen im Kimono fuer Fotos zu gehen, vor oder nach der Zeremonie selbst, ein uebliches und willkommenes Bild in diesem Teil der Stadt.\n\nDie folgende Teezeremonie fuehrt in die Prinzipien des Chado ein, des japanischen 'Weges des Tees': praezise, ungehetzte Bewegungen, saisonale Suessigkeiten, die vor dem bitteren Matcha serviert werden, um den Geschmack auszugleichen, und eine Gastfreundschafts-Etikette, die auf das 16. Jahrhundert unter dem Teemeister Sen no Rikyu zurueckgeht. Ihr Gastgeber demonstriert den Prozess des Schlagens und Servierens und erklaert die Bedeutung hinter jedem Schritt, dann leitet er Sie an, Ihre eigene Schale korrekt zu trinken. Es ist eine wirklich beruhigende, ungehetzte Stunde nach Naras physisch aktiveren Sehenswuerdigkeiten, und eine seltene Gelegenheit, in einem echten traditionellen Machiya zu sitzen statt in einer modernen Rekonstruktion.",
+  "highlights": [],
+  "included": [
+   "Kimono-Verleih und Ankleiden, Teezeremonie mit Matcha und saisonalen Suessigkeiten, Studionutzung fuer die Sitzung"
+  ],
+  "notIncluded": [
+   "Fotografieservice (nur Selbstaufnahme), Transport nach Naramachi"
+  ]
+ },
  "kyoto-kid-friendly-ninja-class-museum": {
   "title": "Ninja-Kurs für Familien in Kyoto: Blasrohre, Sterne und Tarnung",
   "metaTitle": "Ninja-Kurs für Familien in Kyoto",
