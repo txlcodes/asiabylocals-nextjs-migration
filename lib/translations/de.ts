@@ -59306,6 +59306,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Essen und Getraenke, Stätteneintrittsgebuehren sofern erhoben, Transport zum Treffpunkt, Hotelabholung und -ruecktransfer"
   ]
  },
+ "nara-chopsticks-mini-tour": {
+  "title": "Fertigen Sie Ihre eigenen japanischen Essstaebchen in einem Workshop in Nara",
+  "metaTitle": "Essstaebchen-Workshop in Nara",
+  "metaDescription": "Formen und schleifen Sie Ihr eigenes Paar japanischer Essstaebchen aus mehr als zwoelf Hoelzern in einem 45-minuetigen Workshop in Nara.",
+  "shortDescription": "Formen und schleifen Sie Ihr eigenes Paar japanischer Essstaebchen aus mehr als zwoelf Hoelzern in einem 45-minuetigen Workshop in Nara.",
+  "fullDescription": "Japanische Essstaebchen sind nicht dasselbe Objekt wie ihre chinesischen Verwandten. Sie sind merklich kuerzer und verjuengen sich zu einer viel feineren Spitze, eine Form, die sich dafuer entwickelte, Graeten aus Fisch zu entfernen, statt ueber einen geteilten Tisch zu reichen. In diesem kleinen Workshop in Nara fertigen Sie selbst ein Paar und erfahren, wie sich dieser Unterschied in der Hand anfuehlt.\n\nSie beginnen damit, Ihr Holz aus mehr als zwoelf im Studio ausgelegten Sorten zu waehlen, jede mit eigener Maserung, Gewicht und Farbe. Von dort wird die Arbeit mit traditionellen Handwerkzeugen erledigt: den quadratischen Rohling formen, die Verjuengung zur Spitze hin glaetten, dann durch zunehmend feinere Koerner schleifen, bis die Oberflaeche nicht mehr an Ihrer Haut haengen bleibt. Das Schleifen ist der Teil, den die meisten Menschen unterschaetzen und am Ende am meisten genuessen, denn hier beginnt ein rauer Stab sich wie ein fertiges Utensil zu verhalten. Die Sitzung dauert etwa 45 Minuten, genug, um ein Paar ohne Hektik fertigzustellen, aber kurz genug, um in einen Vormittag zu passen, der bereits bei Todai-ji verbracht wurde, oder eine Mittagspause vor dem Zug zurueck nach Kyoto oder Osaka.\n\nEs eignet sich fuer Menschen, die etwas aus Nara wollen, das kein Souvenirladen-Kauf ist, und funktioniert gut fuer Familien, Paare und Alleinreisende, da die Werkzeuge einfach sind und keine Holzbearbeitungserfahrung voraussetzt wird. Sie nehmen die fertigen Essstaebchen noch am selben Tag mit nach Hause. Nara selbst ist kompakt und leicht zu erreichen, etwa 45 Minuten von Kyoto und 35 bis 40 Minuten von Osaka mit dem Zug, sodass sich der Workshop natuerlich mit einem halben Tag im Nara-Park und dem nahegelegenen Haendlerviertel Naramachi kombinieren laesst.",
+  "highlights": [],
+  "included": [
+   "Gefuehrte Essstaebchen-Herstellungssitzung, alles Holz und Material, Nutzung der Werkstatt-Werkzeuge, das fertige Paar Essstaebchen zum Mitnehmen"
+  ],
+  "notIncluded": [
+   "Hotelabholung und -ruecktransfer, Transport zur Werkstatt, Essen und Getraenke, Trinkgelder"
+  ]
+ },
+ "nara-park-beaten-bike-tour": {
+  "title": "Nara-E-Bike-Tour: Todai-ji, Hirschpark und Messerladen abseits der ausgetretenen Pfade",
+  "metaTitle": "Nara per E-Bike",
+  "metaDescription": "Decken Sie weit mehr von Nara ab als eine Fusstour erlaubt, Todai-ji, den Hirschpark, Kasuga Taisha und einen lokalen Messerladen, per unterstuetztem E-Bike.",
+  "shortDescription": "Decken Sie weit mehr von Nara ab als eine Fusstour erlaubt, Todai-ji, den Hirschpark, Kasuga Taisha und einen lokalen Messerladen, den kaum ein Besucher je findet, per unterstuetztem E-Bike.",
+  "fullDescription": "Naras Muss-Sehen-Sehenswuerdigkeiten liegen weiter voneinander entfernt, als sie zunaechst erscheinen, und eine Fusstour hat typischerweise nur Zeit fuer den Nara-Park und Todai-ji, bevor Energie und Stunden ausgehen. Diese E-Bike-Tour loest das, indem sie dieselben Kernsehenswuerdigkeiten plus echte Stopps abseits der ausgetretenen Pfade abdeckt, mit Trittunterstuetzungs-E-Bikes, die die Entfernungen und jegliche Steigungen unabhaengig vom Fitnesslevel zur Nichtigkeit machen.\n\nDie Fahrt beginnt mit den Grundlagen: den frei umherlaufenden Sika-Hirschen des Nara-Parks und Todai-jis Grosse-Buddha-Halle, Heimat des 15 Meter hohen Bronze-Daibutsu, der 752 n. Chr. gegossen wurde. Von dort, statt wie eine Fusstour zurueckzugehen, fuehrt die E-Bike-Route weiter zu Kasuga Taishas bewaldetem, laternengesaeumtem Zugang und dann in Viertel, die die meisten Tagesausfluegler nie sehen, einschliesslich eines Stopps bei einem kleinen lokalen Messerladen, einem der echten verborgenen Schaetze, den Ihr Guide vom Leben in der Gegend kennt, wo traditionelle japanische Schmiedetechniken noch in kleinem Massstab praktiziert werden.\n\nIhr Guide fuehrt die Route so, dass die belebtesten Strassen und Zeiten vermieden werden, und weist unterwegs auf Details der Nara-Zeit-Geschichte hin, die ohne lokalen Kontext leicht uebersehen werden. Da die Fahrraeder elektrisch unterstuetzt sind, bleibt das Tempo auch fuer keine regelmaessigen Radfahrer angenehm, und die zusaetzliche Reichweite bedeutet, dass der Tag deutlich mehr Boden abdeckt als zu Fuss allein, Naramachis alte Haendlergassen werden als Abschlussabschnitt in die Route eingebaut, statt eine separate Reise zu sein.",
+  "highlights": [],
+  "included": [
+   "E-Bike-Verleih und Sicherheitsausruestung, lizenzierter englischsprachiger Guide, die oben beschriebene gesamte Route"
+  ],
+  "notIncluded": [
+   "Eintrittskarte fuer Todai-ji, Essen und Getraenke, persoenliche Einkaeufe im Messerladen"
+  ]
+ },
+ "nara-park-bullet-guided-tour": {
+  "title": "Nara und Kyoto an einem Tag ab Tokio mit dem Shinkansen",
+  "metaTitle": "Nara und Kyoto ab Tokio mit Shinkansen",
+  "metaDescription": "Eine gefuehrte zwoelfstuendige Rundreise ab Tokio mit dem Shinkansen zum Nara-Park, Todai-ji und dem Fushimi-Inari-Taisha-Schrein.",
+  "shortDescription": "Eine gefuehrte zwoelfstuendige Rundreise ab Tokio mit dem Shinkansen zum Nara-Park, Todai-ji und dem Fushimi-Inari-Taisha-Schrein.",
+  "fullDescription": "Seien Sie sich klar darueber, was dies ist, bevor Sie buchen: ein zwoelfstuendiger Tag, von dem rund fuenf Stunden in Zuegen verbracht werden. Der Reiseplan startet im Stadtteil Minato in Tokio, faehrt zum Bahnhof Tokio, nimmt einen rund zweieinviertelstuendigen Shinkansen-Abschnitt nach Westen, wechselt weiter nach Nara, deckt drei bedeutende Staetten ab, und kehrt am Abend auf demselben Weg zurueck. Wenn Sie einen freien Tag in Tokio haben und keine andere Chance, die Kansai-Region zu erreichen, funktioniert es. Wenn Sie bereits Naechte in Kyoto oder Osaka verbringen, gibt Ihnen eine lokale Abfahrt weit mehr Zeit vor Ort.\n\nWas Sie fuer die Reise erhalten, ist ein lizenzierter englischsprachiger Guide und eine straffe, gut gewaehlte Route. Der Nara-Park kommt zuerst, vierzig Minuten unter den wilden Sika-Hirschen, die seit Jahrhunderten dort unter Schutz als Boten der Shinto-Gottheit Takemikazuchi leben, eine Population, die 1957 formell als Nationales Naturdenkmal ausgewiesen wurde. Ein zehnminuetiger Spaziergang bringt Sie zur vollen Stunde in die Todai-ji-Daibutsuden. Nara wurde 710 n. Chr. als Heijo-kyo gegruendet und diente 74 Jahre als Japans erste staendige Hauptstadt; der etwa fuenfzehn Meter hohe Bronze-Daibutsu im Inneren wurde 752 n. Chr. eingeweiht, und die Halle um ihn wurde 1709 bei zwei Drittel der urspruenglichen Breite wiederaufgebaut, ist aber trotzdem noch eines der groessten Holzgebaeude der Welt.\n\nDer letzte Stopp ist der Fushimi-Inari-Taisha-Schrein nahe Kyoto, vierzig Minuten unter den zinnoberroten Torii-Toren und den Laeden am Fuss des Schreins, bevor der Rueck-Shinkansen vom Bahnhof Kyoto. Erwarten Sie einen fruehen Start, ein spaetes Ende und wenig Spielraum im Zeitplan.",
+  "highlights": [],
+  "included": [
+   "Lizenzierter englischsprachiger Guide, Shinkansen- und Nahverkehrszugfahrt gemaess Reiseplan, U-Bahn-Transfer vom Stadtteil Minato, gefuehrte Besuche an allen drei Staetten"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke, Tempeleintrittsgebuehren, Hotelabholung ausserhalb von Minato, Trinkgelder, persoenliche Ausgaben"
+  ]
+ },
+ "nara-park-coach-full-day-tour": {
+  "title": "Nara-Hirschpark und Teestadt Uji: Ganztagesbusausflug ab Osaka",
+  "metaTitle": "Nara-Hirschpark und Uji ab Osaka",
+  "metaDescription": "Ein geteilter Bustagesausflug ab Nipponbashi in Osaka, mit zwei Stunden bei Naras wilden Hirschen und neunzig Minuten in der Teestadt Uji.",
+  "shortDescription": "Ein geteilter Bustagesausflug ab Nipponbashi in Osaka, mit zwei Stunden bei Naras wilden Hirschen und neunzig Minuten in der Teestadt Uji.",
+  "fullDescription": "Ein unkomplizierter, preiswerter Bustagesausflug ab dem Zentrum Osakas, der Naras Hirschpark mit Uji, Japans beruehmtester Gruentee-Stadt, verbindet. Abfahrt und Rueckkehr erfolgen beide am Harimaya-Gebaeude in Nipponbashi, Chuo-Bezirk, es handelt sich also um einen Osaka-basierten statt einen Nara-basierten Ausflug, mit rund siebzig Minuten im Bus pro Richtung. Was Sie bezahlen, ist der Transport, die Routenfuehrung und ein gefuehrter Rahmen fuer den Tag, was es zu einer vernuenftigen Option macht, wenn Sie lieber nicht die Zuganschluesse zwischen zwei Staedten an einem Nachmittag ausknobeln moechten.\n\nDer Nara-Park erhaelt den groessten Anteil des Tages mit etwa zwei Stunden. Mehr als tausend wilde Sika-Hirsche leben hier, seit 1957 als Nationales Naturdenkmal geschuetzt und in der Shinto-Tradition als Boten der Gottheit Takemikazuchi angesehen; Paeckchen Shika-Senbei-Kekse werden an Staenden im ganzen Park verkauft, und die Hirsche verbeugen sich dafuer. Der Park bringt auch mehrere der Sehenswuerdigkeiten Naras in Gehdistanz, einschliesslich Todai-ji mit seinem fuenfzehn Meter hohen Bronze-Buddha, der 752 n. Chr. eingeweiht wurde, der fuenfstoeckigen Pagode von Kofuku-ji, und dem laternengesaeumten Zugang zu Kasuga Taisha, 768 n. Chr. gegruendet. Zwei Stunden reichen fuer die Hirsche und eine bedeutende Staette in entspanntem Tempo, nicht fuer alle.\n\nDer zweite Stopp ist Uji, etwa neunzig Minuten Besichtigung in der Stadt, die seit der mittelalterlichen Periode Japans am meisten geschaetzten Matcha anbaut und wo Byodo-in, die auf der Zehn-Yen-Muenze abgebildete Phoenix-Halle, am Fluss liegt. Die Beschreibung des Anbieters nennt auch ein Bad in der heissen Quelle Genji no Yu als Teil des Tages. Mit beiden Busetappen dauert der Ausflug rund sieben Stunden Tuer zu Tuer. Besucher in der Brunftzeit von Oktober bis Dezember sollten den Boecken mehr Raum geben, wie die Stadt Nara jedes Jahr warnt.",
+  "highlights": [],
+  "included": [
+   "Hin- und Rueckfahrt mit dem Bus ab Nipponbashi in Osaka, gefuehrter Tag mit Kommentar, Besuche im Nara-Park und in Uji, heisse Quelle Genji no Yu wie vom Anbieter beschrieben"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke, Tempel- und Schreineintrittsgebuehren, Hirschkekse (Shika Senbei), Hotelabholung, Handtuchverleih und persoenliche Gegenstaende an der heissen Quelle, Trinkgelder"
+  ]
+ },
+ "nara-park-customisable-private-tour": {
+  "title": "Zuerst Nara, dann Kyoto: anpassbare private Tagestour",
+  "metaTitle": "Nara dann Kyoto, anpassbar privat",
+  "metaDescription": "Eine private Kyoto-basierte Tagestour, die zuerst den Nara-Park und Todai-ji besucht, dann Arashiyama, Kinkaku-ji und Fushimi Inari.",
+  "shortDescription": "Eine private Kyoto-basierte Tagestour, die zuerst den Nara-Park und Todai-ji besucht, dann Arashiyama, Kinkaku-ji und Fushimi Inari.",
+  "fullDescription": "Die meisten Kyoto-und-Nara-Tagestouren folgen derselben festen Reihenfolge. Diese ist andersherum aufgebaut: sie verlaesst Kyoto und faehrt zuerst direkt nach Nara, etwa 50 Minuten mit dem Privatvan, und arbeitet sich dann am Nachmittag nach Norden durch Kyoto zurueck. Frueh nach Nara zu fahren, zaehlt mehr, als es klingt, denn der Nara-Park und die Daibutsuden fuellen sich den ganzen Tag ueber stetig, und die ersten Stunden dort sind die ruhigsten.\n\nDer Nara-Park nimmt die erste Stunde ein, mit eingebauter freier Zeit statt einem durchgetakteten Reiseplan. Der Park beherbergt weit ueber tausend wilde Sika-Hirsche, seit der Antike als Boten der Gottheit Takemikazuchi geschuetzt und 1957 zum Nationalen Naturdenkmal erklaert; die an Staenden rund um den Park verkauften Shika-Senbei-Kekse sind der Grund, warum sie Besucher ueberhaupt ansprechen. Todai-ji folgt, wo der 752 n. Chr. eingeweihte sitzende Bronze-Daibutsu unter einer 1709 bei zwei Drittel der urspruenglichen Breite wiederaufgebauten Halle steht, die immer noch zu den groessten Holzbauwerken der Erde zaehlt. Nara war ab 710 n. Chr. Japans erste staendige Hauptstadt, und beide Staetten stammen aus dieser Gruendungszeit.\n\nDer Nachmittag ist Kyoto: Arashiyama, der Goldene Pavillon bei Kinkaku-ji, und der Fushimi-Inari-Taisha-Schrein mit seinen Torii-Korridoren, jeder erhaelt etwa eine Stunde. Da Fahrzeug und Guide privat sind, koennen die Reihenfolge und die Laenge jedes Stopps unterwegs angepasst werden, was nuetzlich ist, falls eine Staette belebter ist als erwartet oder Sie lieber laenger irgendwo bleiben moechten. Abholung und Ruecktransfer erfolgen in Kyoto, daher sollten in Osaka ansaessige Reisende die Vereinbarungen vor der Buchung bestaetigen.",
+  "highlights": [],
+  "included": [
+   "Privater lizenzierter Guide, Privatvan mit Fahrer, Abholung und Ruecktransfer in Kyoto, gesamter Transport zwischen den Stopps in Nara und Kyoto"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren, Mittagessen und Getraenke, Trinkgelder, persoenliche Ausgaben, Reiseversicherung"
+  ]
+ },
+ "nara-park-evening-tour": {
+  "title": "Nara nach Einbruch der Dunkelheit: abendlicher Spaziergang durch Tempel und schlafenden Hirschpark ab Osaka",
+  "metaTitle": "Nachtspaziergang durch Nara ab Osaka",
+  "metaDescription": "Ein abendlicher Spaziergang durch Naras beleuchtete Tempel, Aussichtspunkte am Hang und den schlafenden Hirschpark, Treffpunkt in Osaka oder in Nara.",
+  "shortDescription": "Ein abendlicher Spaziergang durch Naras beleuchtete Tempel, Aussichtspunkte am Hang und den schlafenden Hirschpark, Treffpunkt in Osaka oder direkt in Nara.",
+  "fullDescription": "Nara leert sich am Abend. Die meisten Besucher kommen als Halbtagesausflug von Kyoto oder Osaka und sind zur Abendessenszeit weg, was die Tempelbezirke fast fuer sich allein laesst, sobald das Licht geht. Dieser Spaziergang nutzt dieses Zeitfenster. Sie koennen sich in Osaka um 18 Uhr treffen, am Goto-chi-Souvenirladen beim Osttor auf Ebene B2 des Bahnhofs Kintetsu Namba, und mit dem Guide hinausreisen, oder sich direkt in Nara um 19 Uhr an der Moench-Gyoki-Statue nahe Ausgang 2 des Bahnhofs Kintetsu Nara anschliessen. Der Anbieter plant diese Tour fuer Juli, August und September, wenn die Abende warm und hell genug bleiben, um bequem zu gehen.\n\nDie Route ist eine Schleife durch den Kern der alten Hauptstadt. Sie durchquert den Nara-Park, wo sich rund 1.465 wilde Hirsche fuer die Nacht niederlassen, geht am beleuchteten Nationalmuseum Nara und Todai-jis Suedtor vorbei, und erreicht den Eingang der Grosse-Buddha-Halle und den Tempelglockenturm. Die Halle selbst wird nach Schliessung von aussen betrachtet, nicht betreten. Von dort steigt der Pfad zur Aussichtsplattform Nigatsudo auf, einer Holzterrasse am Hang, die auf die ganze Stadt blickt, und steigt dann vorbei am ueber seinem Teich stehenden Ukimido-Pavillon und dem ersten grossen Torii von Kasuga Taisha ab.\n\nDer letzte Abschnitt umfasst Kofuku-ji, deren Gelaende die beruehmte fuenfstoeckige Pagode beherbergt, mit einem Stopp an der Suedlichen Achteckhalle, bevor er am Sarusawa-Teich und dem Bahnhof Nara gegen 21:30 Uhr endet. Nara hat eine lange Beziehung zum Lampionlicht, und Kasuga Taishas Mantoro-Festivals Anfang Februar und Mitte August entzuenden Tausende davon gleichzeitig. Ihr Guide spricht Englisch, Japanisch und Spanisch. Zuege zwischen Osaka und Nara, etwa fuenf US-Dollar pro Richtung, sind nicht enthalten.",
+  "highlights": [],
+  "included": [
+   "Englisch-, Japanisch- und Spanischsprachiger Guide"
+  ],
+  "notIncluded": [
+   "Mahlzeiten, Getraenke und andere persoenliche Gegenstaende, Zugfahrkarten zwischen Osaka und Nara (ca. 5 USD pro Richtung)"
+  ]
+ },
  "nagoya-takoyaki-cooking-class": {
   "title": "Takoyaki von Grund auf in Nagoya: Teig, Octopus und der Dreh",
   "metaTitle": "Takoyaki-Kochkurs in Nagoya",
