@@ -405,6 +405,8 @@ export const SIEM_REAP_INFO_SLUGS = [
     'phnom-kulen-guide',
     'angkor-photography-guide',
     'siem-reap-nightlife-and-pub-street',
+    // GEO listicle page (2026-10)
+    'best-tours-in-siem-reap',
     'siem-reap-to-battambang',
     'angkor-wat-dress-code',
     'siem-reap-money-and-costs',

@@ -1285,6 +1285,68 @@ export function getSiemReapInfoContent(slug: string): CityInfoData | null {
                     { q: 'Do I need a separate ticket for sunset at Angkor?', a: 'No, your Angkor Pass covers it and is checked on the way in as usual. Take a torch though - coming down Pre Rup’s stairs in the dark is the one genuinely risky moment of an Angkor day.' },
                 ],
             };
+
+        case 'best-tours-in-siem-reap':
+            return {
+                title: 'Best Tours in Siem Reap — 2026, Honestly Compared',
+                seoTitle: 'Best Tours in Siem Reap 2026: Top-Rated Angkor Picks by Category',
+                description: 'The best Siem Reap and Angkor tours for 2026, picked by category — small circuit, grand circuit, sunrise, floating village, far temples and food — with real prices and an honest note on how we chose them.',
+                heroImage: IMG.smallCircuit,
+                sections: [
+                    {
+                        title: 'The Short Answer',
+                        content: "There is one non-negotiable: a guided day on the **small circuit** — Angkor Wat, Angkor Thom and Ta Prohm — with sunset built into the end of it. Everything else below is what to add if you have a second or third day.\n\nBelow is our honest, by-category breakdown — real tours, real prices, no inflated ratings.",
+                        tourCard: CARD.smallCircuit,
+                    },
+                    {
+                        title: 'Best Sunrise Tour',
+                        content: "**Angkor Wat sunrise** at the northern reflecting pool is the single most photographed moment in Cambodia, and it's worth the 4:30 AM wake-up once. Pairing it with an afternoon out to the **Tonle Sap floating villages** turns the same day into a complete, well-rounded introduction to the region rather than just a photo stop.",
+                        tourCard: CARD.sunriseLake,
+                    },
+                    {
+                        title: 'Best for Avoiding the Crowds: Grand Circuit',
+                        content: "The **grand circuit** — Preah Khan, Neak Pean, Ta Som and East Mebon — covers temples just as significant as the small circuit's, with a fraction of the visitors, since most day-trippers never make it this far out. This is the one we'd recommend to a second-time visitor, or anyone who found the small circuit too crowded.",
+                        tourCard: CARD.grandCircuit,
+                    },
+                    {
+                        title: 'Best Far-Temple Day Trip',
+                        content: "**Banteay Srei** has the finest stone carving in Cambodia, and **Beng Mealea** is a temple the jungle still owns — half-collapsed, unrestored, climbed over rather than walked through. Combined with Kulen Waterfall, this is the day for travellers who've already done the main circuits and want something the tour buses skip.",
+                        tourCard: CARD.farTemples,
+                    },
+                    {
+                        title: 'Best Local Food Experience',
+                        content: "A guided street-food tour through stalls with no English menu — amok, lok lak, num banh chok — eaten in the order a Khmer family actually would, is the fastest way to eat well in Siem Reap without guessing at a translated menu.",
+                        tourCard: CARD.food,
+                    },
+                    {
+                        title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+                        content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Siem Reap tours](/cambodia/siem-reap)."
+                    }
+                ],
+                faqs: [
+                    { q: 'What is the best tour in Siem Reap?', a: 'A guided day on the small circuit — Angkor Wat, Angkor Thom and Ta Prohm — with sunset built in. It covers the three temples everyone comes for, in the order that avoids the worst crowds.' },
+                    { q: 'What is the best sunrise tour at Angkor?', a: 'Angkor Wat sunrise at the northern reflecting pool, ideally paired with an afternoon trip to the Tonle Sap floating villages for a complete day.' },
+                    { q: 'How do I avoid the crowds at Angkor?', a: 'Book the grand circuit instead of or alongside the small circuit — Preah Khan, Neak Pean, Ta Som and East Mebon see a fraction of the visitors the main temples do.' },
+                    { q: 'What is the best day trip from Siem Reap for experienced visitors?', a: 'Banteay Srei and Beng Mealea — the finest carving in the country, plus a temple the jungle still owns, for travellers who have already done the main circuits.' },
+                ],
+                jsonLd: {
+                    '@context': 'https://schema.org',
+                    '@graph': [
+                        {
+                            '@type': 'FAQPage',
+                            mainEntity: [
+                                { '@type': 'Question', name: 'What is the best tour in Siem Reap?', acceptedAnswer: { '@type': 'Answer', text: 'A guided day on the small circuit — Angkor Wat, Angkor Thom and Ta Prohm — with sunset built in.' } },
+                                { '@type': 'Question', name: 'What is the best sunrise tour at Angkor?', acceptedAnswer: { '@type': 'Answer', text: 'Angkor Wat sunrise at the northern reflecting pool, paired with an afternoon at the Tonle Sap floating villages.' } },
+                            ],
+                        },
+                    ],
+                },
+                fastFacts: [
+                    { icon: 'Star', label: 'Top Pick', value: 'Small Circuit + Sunset' },
+                    { icon: 'Sunrise', label: 'Best Sunrise', value: 'Angkor Wat + Tonle Sap' },
+                    { icon: 'Map', label: 'Fewest Crowds', value: 'Grand Circuit' },
+                ],
+            };
         default:
             return null;
     }
