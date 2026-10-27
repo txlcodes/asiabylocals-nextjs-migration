@@ -2373,6 +2373,74 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-tokyo":
+      return {
+        title: "Best Tours in Tokyo — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Tokyo 2026: Top-Rated Picks by Category",
+        description: "The best Tokyo tours for 2026, picked by category — walking, bike, food, night and day trips — with real prices and an honest note on how we chose them.",
+        heroImage: IMG.walking,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Tokyo is too large and varied for one \"best\" tour — the right pick depends on pace and interest. For a flexible first day, a **private walking tour with no fixed route** lets you cover what you actually want rather than a preset checklist. Below is our honest, by-category breakdown.",
+            tourCard: CARD.walking,
+          },
+          {
+            title: "Best Bike Tour",
+            content: "Tokyo by **e-bike** covers roughly four times the ground a walking tour does in the same time — the Imperial Palace moat, Nihonbashi, Ginza and Tsukiji in one loop, or the Yanaka backstreets that survived both the 1923 earthquake and WWII firebombing for a quieter, older side of the city.",
+            tourCard: CARD.ebike,
+          },
+          {
+            title: "Best Food Tour",
+            content: "**Togoshi Ginza**, Tokyo's longest shopping street at 1.3 km and 400 shops, is the top-rated food walk precisely because it sees almost no other tour groups — you're eating where the neighbourhood actually eats, not a tourist-trail version of it.",
+            tourCard: CARD.food,
+          },
+          {
+            title: "Best Night Tour",
+            content: "Tokyo after dark is arguably better than Tokyo by day. The top-rated option bikes from Omotesando through Roppongi to a floodlit Tokyo Tower, finishing in the quiet of Aoyama Cemetery — a sharp contrast most day tours never show you.",
+            tourCard: CARD.nightBike,
+          },
+          {
+            title: "Best Full-Day Tour",
+            content: "For one comprehensive day, the top-rated option covers Asakusa, the Yanaka backstreets, the Imperial Palace and Harajuku with a local guide — old east side and modern west side in a single six-hour circuit.",
+            tourCard: CARD.fullDay,
+          },
+          {
+            title: "Best Day Trip from Tokyo",
+            content: "The **Jigokudani snow monkeys** bathing in hot springs, paired with Nagano's great temple Zenko-ji, is Tokyo's standout day trip — door-to-door transport included, no train logistics to figure out yourself.",
+            tourCard: CARD.snowMonkey,
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local guide we've vetted directly. We deliberately left out a side-by-side price comparison against GetYourGuide, Viator or Klook: several of these tours are sold on multiple platforms by the same guide, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the guide before it's treated as final. If you'd rather browse the full catalogue yourself, see [all Tokyo tours](/japan/tokyo).",
+          },
+        ],
+        faqs: [
+          { q: "What is the best tour in Tokyo?", a: "A private walking tour with no fixed route suits most first-time visitors best — it covers what you actually want to see rather than a preset checklist." },
+          { q: "What is the best food tour in Tokyo?", a: "A walk through Togoshi Ginza, Tokyo's longest shopping street at 1.3 km and 400 shops — it sees almost no other tour groups, unlike more famous food districts." },
+          { q: "What is the best day trip from Tokyo?", a: "Jigokudani to see the snow monkeys bathing in hot springs, paired with Nagano's Zenko-ji temple — a full day trip with door-to-door transport." },
+          { q: "Is a bike tour a good way to see Tokyo?", a: "Yes — an e-bike tour covers roughly four times the ground of a walking tour in the same time, useful for a city as spread out as Tokyo." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Tokyo?", "acceptedAnswer": { "@type": "Answer", "text": "A private walking tour with no fixed route suits most first-time visitors best." } },
+                { "@type": "Question", "name": "What is the best food tour in Tokyo?", "acceptedAnswer": { "@type": "Answer", "text": "A walk through Togoshi Ginza, Tokyo's longest shopping street, which sees almost no other tour groups." } },
+                { "@type": "Question", "name": "What is the best day trip from Tokyo?", "acceptedAnswer": { "@type": "Answer", "text": "Jigokudani to see the snow monkeys, paired with Nagano's Zenko-ji temple." } },
+              ],
+            },
+          ],
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Private Walking Tour' },
+          { icon: 'Utensils', label: 'Best Food Tour', value: 'Togoshi Ginza' },
+          { icon: 'Map', label: 'Best Day Trip', value: 'Jigokudani Snow Monkeys' },
+        ],
+      };
+
     default:
             return null;
     }

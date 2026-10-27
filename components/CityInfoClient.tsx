@@ -866,6 +866,7 @@ const OSAKA_SIDEBAR = [
     { name: 'Osaka with Kids', slug: 'osaka-with-kids' },
     { name: 'Where to Stay in Osaka', slug: 'where-to-stay-in-osaka' },
     { name: 'Day Trips from Osaka', slug: 'osaka-day-trips' },
+    { name: 'Best Tours in Osaka', slug: 'best-tours-in-osaka' },
 ];
 
 const HIROSHIMA_SIDEBAR = [

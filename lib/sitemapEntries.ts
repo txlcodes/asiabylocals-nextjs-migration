@@ -452,6 +452,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'harajuku-guide',
     'kamakura-day-trip-from-tokyo',
     'nikko-day-trip-from-tokyo',
+    'best-tours-in-tokyo',
 ].map(slug => ({
     url: `${BASE_URL}/japan/tokyo/${slug}`,
     lastModified: new Date(),
@@ -477,6 +478,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'kyoto-zen-meditation-guide',
     'nijo-castle-guide',
     'kyoto-sake-guide',
+    'best-tours-in-kyoto',
 ].map(slug => ({
     url: `${BASE_URL}/japan/kyoto/${slug}`,
     lastModified: new Date(),
@@ -499,6 +501,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'osaka-onsen-and-spa-guide',
     'kobe-day-trip-from-osaka',
     'osaka-kimono-rental-guide',
+    'best-tours-in-osaka',
 ].map(slug => ({
     url: `${BASE_URL}/japan/osaka/${slug}`,
     lastModified: new Date(),

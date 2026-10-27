@@ -2352,6 +2352,69 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-kyoto":
+      return {
+        title: "Best Tours in Kyoto — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Kyoto 2026: Top-Rated Picks by Category",
+        description: "The best Kyoto tours for 2026, picked by category — bamboo forest, shrines, Gion at night and sake tasting — with real prices and an honest note on how we chose them.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/arashiyama-private-morning-tour-bamboo-grove-and-zen-temple-kyoto/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kyoto rewards an early start more than almost any Japanese city — its most photographed sites (Arashiyama's bamboo grove, Fushimi Inari's gates) are overwhelmed by mid-morning tour groups. Our top pick is a **private morning Arashiyama tour** that reaches the bamboo grove and a Zen temple before the crowds arrive.\n\nBelow is our honest, by-category breakdown — real tours, real prices.",
+            tourCard: { slug: "arashiyama-private-morning-tour-bamboo-grove-and-zen-temple-kyoto", title: "Arashiyama Private Morning Tour: Bamboo Grove and Zen Temple", description: "Beat the crowds to Arashiyama's bamboo grove with a private guide, before the day-tripper buses arrive.", price: "From $108.50", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/arashiyama-private-morning-tour-bamboo-grove-and-zen-temple-kyoto/img0/1600.webp" },
+          },
+          {
+            title: "Best Shrine & Castle Tour",
+            content: "**Fushimi Inari's** thousands of vermillion torii gates and **Nijo Castle's** nightingale floors (designed to squeak and warn of intruders) pair naturally in one half-day — both are UNESCO-adjacent sites with genuinely different stories, Shinto shrine versus shogunate fortress.",
+            tourCard: { slug: "fushimi-inari-shrine-and-nijo-castle-highlights-tour", title: "Fushimi Inari Shrine and Nijo Castle Highlights Tour", description: "Thousands of torii gates and a shogun's \"nightingale floor\" castle in one guided half-day.", price: "From $115.50", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/fushimi-inari-shrine-and-nijo-castle-highlights-tour/img0/1600.webp" },
+          },
+          {
+            title: "Best Night Tour",
+            content: "**Gion**, Kyoto's famous geisha district, is best experienced after dark on foot — narrow lanes, traditional teahouses, and a real chance of spotting a geiko or maiko on their way to an appointment, with a guide who explains what you're actually looking at.",
+            tourCard: { slug: "gion-geisha-district-night-walking-tour", title: "Gion Geisha District Night Walking Tour", description: "Kyoto's geisha district after dark, with a guide who explains the real customs behind what you're seeing.", price: "From $39.50", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/gion-geisha-district-night-walking-tour/img0/1600.webp" },
+          },
+          {
+            title: "Best Sake Tasting Tour",
+            content: "**Fushimi** is one of Japan's three great sake-brewing districts, thanks to its exceptionally soft, iron-free water. The top-rated tour pairs a working brewery visit with 18 tastings — a genuinely different afternoon from the temple circuit.",
+            tourCard: { slug: "fushimi-sake-brewery-tour-18-tastings-in-2-5-hours", title: "Fushimi Sake Brewery Tour - 18 Tastings in 2.5 Hours", description: "One of Japan's great sake districts, a working brewery visit and 18 tastings in one afternoon.", price: "From $142", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/fushimi-sake-brewery-tour-18-tastings-in-2-5-hours/img0/1600.webp" },
+          },
+          {
+            title: "Best Full-Day Tour",
+            content: "For one comprehensive day, the top-rated guided option flexes between full-day and half-day depending on your pace, covering Kyoto's headline sites with a local guide rather than a fixed bus-tour script.",
+            tourCard: { slug: "best-of-kyoto-guided-full-day-or-half-day-tour-with-a-local-by-local-operator", title: "Best of Kyoto: Guided Full-Day or Half-Day Tour with a Local", description: "Kyoto's headline sites with a local guide, flexible between full-day and half-day pacing.", price: "From $122.50", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/best-of-kyoto-guided-full-day-or-half-day-tour-with-a-local-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local guide we've vetted directly. We deliberately left out a side-by-side price comparison against GetYourGuide, Viator or Klook: several of these tours are sold on multiple platforms by the same guide, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the guide before it's treated as final. If you'd rather browse the full catalogue yourself, see [all Kyoto tours](/japan/kyoto).",
+          },
+        ],
+        faqs: [
+          { q: "What is the best tour in Kyoto?", a: "A private morning Arashiyama tour covering the bamboo grove and a Zen temple before the crowds arrive, typically by 8-9 AM." },
+          { q: "What is the best Gion tour in Kyoto?", a: "A guided night walking tour through Gion's geisha district, which is best experienced after dark with a guide who explains the real customs rather than just pointing at buildings." },
+          { q: "What is the best sake tour in Kyoto?", a: "A Fushimi sake brewery tour with tastings — Fushimi is one of Japan's three great sake districts thanks to its exceptionally soft water." },
+          { q: "When should I visit Fushimi Inari to avoid crowds?", a: "Early morning, ideally before 8 AM, or paired with Nijo Castle as part of a guided half-day that times the visit right." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Kyoto?", "acceptedAnswer": { "@type": "Answer", "text": "A private morning Arashiyama tour covering the bamboo grove and a Zen temple before the crowds arrive." } },
+                { "@type": "Question", "name": "What is the best Gion tour in Kyoto?", "acceptedAnswer": { "@type": "Answer", "text": "A guided night walking tour through Gion's geisha district." } },
+                { "@type": "Question", "name": "What is the best sake tour in Kyoto?", "acceptedAnswer": { "@type": "Answer", "text": "A Fushimi sake brewery tour with tastings, one of Japan's three great sake districts." } },
+              ],
+            },
+          ],
+        },
+        fastFacts: [
+          { icon: 'Sunrise', label: 'Top Pick', value: 'Arashiyama Morning Tour' },
+          { icon: 'Moon', label: 'Best Night Tour', value: 'Gion Geisha District Walk' },
+          { icon: 'Wine', label: 'Best Tasting', value: 'Fushimi Sake Brewery' },
+        ],
+      };
+
     default:
             return null;
     }

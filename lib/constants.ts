@@ -448,6 +448,8 @@ export const TOKYO_INFO_SLUGS = [
   'harajuku-guide',
   'kamakura-day-trip-from-tokyo',
   'nikko-day-trip-from-tokyo',
+  // GEO listicle page (2026-10)
+  'best-tours-in-tokyo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/kyotoInfoContent.ts.
@@ -473,6 +475,8 @@ export const KYOTO_INFO_SLUGS = [
   'kyoto-zen-meditation-guide',
   'nijo-castle-guide',
   'kyoto-sake-guide',
+  // GEO listicle page (2026-10)
+  'best-tours-in-kyoto',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/sapporoInfoContent.ts.
@@ -645,6 +649,8 @@ export const OSAKA_INFO_SLUGS = [
   'osaka-onsen-and-spa-guide',
   'kobe-day-trip-from-osaka',
   'osaka-kimono-rental-guide',
+  // GEO listicle page (2026-10)
+  'best-tours-in-osaka',
 ];
 
 export const KASHMIR_INFO_SLUGS = [

@@ -1909,6 +1909,67 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-osaka":
+      return {
+        title: "Best Tours in Osaka — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Osaka 2026: Top-Rated Picks by Category",
+        description: "The best Osaka tours for 2026, picked by category — street food, the castle, night alleys and Kobe day trips — with real prices and an honest note on how we chose them.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kuromon-market-1-5-hour-seafood-and-street-food-tour-in-osaka/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Osaka is widely considered Japan's best eating city, so for most visitors the top pick is a **street food market tour** — Kuromon Market's seafood and street stalls in one guided 90 minutes, with a local who knows which vendor is actually worth the queue.\n\nBelow is our honest, by-category breakdown — real tours, real prices.",
+            tourCard: { slug: "kuromon-market-1-5-hour-seafood-and-street-food-tour-in-osaka", title: "Kuromon Market Seafood and Street Food Tour", description: "Osaka's best-known food market in 90 minutes, with a guide who knows which stalls are worth the queue.", price: "From $54.50", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/kuromon-market-1-5-hour-seafood-and-street-food-tour-in-osaka/img0/1600.webp" },
+          },
+          {
+            title: "Best Castle Tour",
+            content: "**Osaka Castle** anchors the city's history — originally built by Toyotomi Hideyoshi in the 1580s, rebuilt multiple times since. A guided visit explains the layered history a solo walk through the grounds would miss, in a tight two hours that fits easily into a half-day.",
+            tourCard: { slug: "osaka-castle-guided-tour", title: "2hrs Guided Tour Osaka Castle and Shrine with Local Guide", description: "Osaka Castle's layered history explained by a local guide, in a tight two-hour visit.", price: "From $52.80", duration: "2 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671582/asiabylocals/tours/osaka-2hrs-guided-tour-osaka-castle-and-shrine-with-local-guide/img0.jpg" },
+          },
+          {
+            title: "Best Private Walking Tour",
+            content: "For a comprehensive first day, a **private walking tour** covering the castle, Dotonbori's neon canal-side strip, and the old city gives full flexibility on pace — your own guide, your own route, not a shared group schedule.",
+            tourCard: { slug: "private-walking-tour-with-castle-dotonbori-old-city", title: "Private Walking Tour with Castle, Dotonbori, Old City", description: "Castle, neon Dotonbori and the old city in one private, flexible-pace walking tour.", price: "From $292.50", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-walking-tour-with-castle-dotonbori-old-city/img0/1600.webp" },
+          },
+          {
+            title: "Best Night Tour",
+            content: "Beyond Dotonbori's famous neon, Osaka's **hidden alleys and local streets** after dark show a quieter, more residential side of the city — a private night tour that most visitors sticking to the main strip never see.",
+            tourCard: { slug: "osaka-private-night-tour-hidden-alleys-and-local-streets-by-local-operator", title: "Osaka Private Night Tour: Hidden Alleys and Local Streets", description: "Beyond Dotonbori's neon — the quieter alleys and residential streets most visitors never see.", price: "From $154", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/osaka-private-night-tour-hidden-alleys-and-local-streets-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Best Day Trip from Osaka",
+            content: "**Kobe**, paired with Arima Onsen (one of Japan's oldest hot spring towns) and the Mt. Rokko night view, is Osaka's standout day trip — hot springs by day, one of Japan's famous "+"\"三大夜景\"" +" (three great night views) to close it out.",
+            tourCard: { slug: "kobe-day-trip-with-arima-onsen-and-mt-rokko-night-view", title: "Kobe Day Trip with Arima Onsen and Mt. Rokko Night View", description: "One of Japan's oldest hot spring towns by day, one of its three great night views after dark.", price: "From $82", duration: "9 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/kobe-day-trip-with-arima-onsen-and-mt-rokko-night-view/img0/1600.webp" },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local guide we've vetted directly. We deliberately left out a side-by-side price comparison against GetYourGuide, Viator or Klook: several of these tours are sold on multiple platforms by the same guide, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the guide before it's treated as final. If you'd rather browse the full catalogue yourself, see [all Osaka tours](/japan/osaka).",
+          },
+        ],
+        faqs: [
+          { q: "What is the best tour in Osaka?", a: "A Kuromon Market street food tour — Osaka is widely considered Japan's best eating city, and a guided visit to its best-known market is the top pick for most visitors." },
+          { q: "What is the best day trip from Osaka?", a: "Kobe, paired with Arima Onsen (one of Japan's oldest hot spring towns) and the Mt. Rokko night view, one of Japan's three great night views." },
+          { q: "Is Osaka Castle worth a guided tour?", a: "Yes — the castle's layered history (originally built in the 1580s, rebuilt multiple times) is explained in a tight two-hour visit that a solo walk through the grounds would miss." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Osaka?", "acceptedAnswer": { "@type": "Answer", "text": "A Kuromon Market street food tour — Osaka is widely considered Japan's best eating city." } },
+                { "@type": "Question", "name": "What is the best day trip from Osaka?", "acceptedAnswer": { "@type": "Answer", "text": "Kobe, paired with Arima Onsen and the Mt. Rokko night view." } },
+              ],
+            },
+          ],
+        },
+        fastFacts: [
+          { icon: 'Utensils', label: 'Top Pick', value: 'Kuromon Market Food Tour' },
+          { icon: 'Landmark', label: 'Must-See', value: 'Osaka Castle' },
+          { icon: 'Map', label: 'Best Day Trip', value: 'Kobe + Arima Onsen' },
+        ],
+      };
+
     default:
             return null;
     }
