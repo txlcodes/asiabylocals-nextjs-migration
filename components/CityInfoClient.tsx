@@ -780,6 +780,7 @@ const urlSlug = (s: string) => s.toLowerCase().trim().replace(/\s+/g, '-');
 
 
 const COLOMBO_SIDEBAR = [
+    { name: 'Best Tours in Colombo', slug: 'best-tours-in-colombo' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-colombo' },
     { name: 'Colombo City Guide', slug: 'colombo-city-guide' },
     { name: 'Getting Around', slug: 'getting-around-colombo' },

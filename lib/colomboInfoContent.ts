@@ -933,6 +933,68 @@ export function getColomboInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-tours-in-colombo":
+      return {
+        title: "Best Tours in Colombo — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Colombo 2026: Top-Rated Picks by Category",
+        description: "The best Colombo tours for 2026, picked by category — city sightseeing, Sigiriya day trip, Galle Fort, Negombo and a sunset cruise — with real prices and an honest note on how we chose them.",
+        heroImage: CARD_2.image,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Colombo itself is best seen in a half-day **tuk-tuk sightseeing tour**, leaving the rest of your trip for Sri Lanka's bigger draws — Sigiriya and Galle are both realistic day trips from the capital.\n\nBelow is our honest, by-category breakdown — real tours, real prices, no inflated ratings.",
+            tourCard: CARD_2,
+          },
+          {
+            title: "Best Day Trip: Sigiriya Rock",
+            content: "**Sigiriya Rock Fortress and the Dambulla Cave Temple** is Sri Lanka's single most iconic day trip, and doing it from Colombo rather than staying overnight in the cultural triangle works fine if your itinerary is short on time — it's a long day, but a private car and guide handle the distance.",
+            tourCard: CARD_0,
+          },
+          {
+            title: "Best Coastal Day Trip: Galle Fort",
+            content: "**Galle Fort**, Turtle Beach and the Bentota mangrove safari in one private day trip covers colonial history, wildlife and the beach in a single loop south of Colombo — the most varied day trip on this list.",
+            tourCard: CARD_4,
+          },
+          {
+            title: "Best for a Shorter Day: Negombo",
+            content: "**Negombo**, just north of the airport, is the easiest half-day escape from Colombo — a Dutch fort, the old fishing canals and a proper seafood lunch, without the long drive Sigiriya or Galle require.",
+            tourCard: CARD_3,
+          },
+          {
+            title: "Best Evening Experience",
+            content: "A **sunset cruise around Colombo's Port City** with snacks is the best way to end a day in the capital — the skyline from the water, away from the traffic and heat of the streets.",
+            tourCard: CARD_7,
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Colombo tours](/sri-lanka/colombo)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Colombo?", a: "A half-day tuk-tuk city sightseeing tour covers Colombo itself well. For the rest of your trip, Sigiriya and Galle Fort are both realistic day trips from the capital." },
+          { q: "Can I visit Sigiriya as a day trip from Colombo?", a: "Yes — it's a long day with a private car and guide, but doable, and a good option if your itinerary is too short to overnight in the cultural triangle." },
+          { q: "What is the best day trip from Colombo?", a: "Galle Fort combined with Turtle Beach and a Bentota mangrove safari covers colonial history, wildlife and the beach in one loop — the most varied day trip from the capital." },
+          { q: "Is Negombo worth visiting from Colombo?", a: "Yes, as an easy half-day escape — a Dutch fort, old fishing canals and a seafood lunch, without the long drive Sigiriya or Galle require." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Colombo?", "acceptedAnswer": { "@type": "Answer", "text": "A half-day tuk-tuk city sightseeing tour, then a day trip to Sigiriya or Galle Fort for the rest of the trip." } },
+                { "@type": "Question", "name": "What is the best day trip from Colombo?", "acceptedAnswer": { "@type": "Answer", "text": "Galle Fort combined with Turtle Beach and a Bentota mangrove safari." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Tuk-Tuk City Tour' },
+          { icon: 'Map', label: 'Best Day Trip', value: 'Sigiriya Rock' },
+          { icon: 'Waves', label: 'Best Coastal Day Trip', value: 'Galle Fort' }
+        ]
+      };
+
     default:
       return null;
   }

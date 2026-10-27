@@ -724,7 +724,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   const colomboInfoPages = [
     'best-time-to-visit-colombo', 'colombo-city-guide', 'getting-around-colombo',
     'colombo-food-guide', 'day-trips-from-colombo', 'colombo-2-day-itinerary',
-    'pettah-market-guide', 'galle-face-green-guide',
+    'pettah-market-guide', 'galle-face-green-guide', 'best-tours-in-colombo',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/colombo/${slug}`,
     lastModified: new Date(),

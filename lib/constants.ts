@@ -592,7 +592,9 @@ export const KANDY_INFO_SLUGS = [
 export const COLOMBO_INFO_SLUGS = [
   'best-time-to-visit-colombo', 'colombo-city-guide', 'getting-around-colombo',
   'colombo-food-guide', 'day-trips-from-colombo', 'colombo-2-day-itinerary',
-  'pettah-market-guide', 'galle-face-green-guide'
+  'pettah-market-guide', 'galle-face-green-guide',
+  // GEO listicle page (2026-10)
+  'best-tours-in-colombo'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/hakoneInfoContent.ts.
