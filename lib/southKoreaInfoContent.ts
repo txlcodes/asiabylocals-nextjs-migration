@@ -1030,6 +1030,63 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-busan":
+      return {
+        title: "Best Tours in Busan — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Busan 2026: Top-Rated Picks by Category",
+        description: "The best Busan tours for 2026, picked by category — Gamcheon Culture Village, Jagalchi Market, Haeundae Beach and Yonggungsa Temple, and a local food experience — with real prices and an honest note on how we chose them.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd3dab2e37e064f0ebeef9b3bbb9ad0bf893ff1b16eefdf4fae1e358afde878f.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "**Gamcheon Culture Village and Jagalchi Market** combined into one guided walk is Busan's single best half-day — the cascading pastel houses (Korea's 'Machu Picchu') followed by Korea's largest seafood market for lunch.\n\nBelow is our honest, by-category breakdown — real tours, real prices, no inflated ratings.",
+            tourCard: { slug: "busan-jagalchi-market-gamcheon-village-walking", title: "Busan: Jagalchi Market & Gamcheon Village Walking Tour", description: "Both of Busan's signature sights combined into a single guided walk.", price: "From $262", duration: "4 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd3dab2e37e064f0ebeef9b3bbb9ad0bf893ff1b16eefdf4fae1e358afde878f.jpg" },
+          },
+          {
+            title: "Best Coastal Experience: Haeundae & Yonggungsa",
+            content: "**Haedong Yonggungsa**, a coastal temple built directly on the rocks above the sea, paired with Haeundae Beach, is Busan's best combination of nature and culture — go in the morning or shoulder season to avoid the July-August weekend crowds.",
+            tourCard: { slug: "haeundae-beach-yonggungsa-boat-tour", title: "Busan: Haedong Yonggungsa & Haeundae", description: "Haeundae paired with the nearby coastal temple in one guided outing.", price: "From $135", duration: "4 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c895d2bf545e11bcb18babfbaed378fa5445cab12454d3b107553a9b434ccbb9.png" },
+          },
+          {
+            title: "Best Food Experience",
+            content: "A **Korean pancake cooking session** paired with other Busan-specific dishes is a hands-on introduction to the city's own food identity — distinct from Seoul's, built around milmyeon (cold wheat noodles) and dwaeji gukbap, both Korean War-era dishes specific to Busan.",
+            tourCard: { slug: "busan-local-food-experience-korean-pancake-cooking", title: "Busan Local Food Experience & Korean Pancake Cooking", description: "A hands-on introduction to Busan's own food identity, distinct from Seoul's.", price: "From $77", duration: "2 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/058ceb394d9c137736b85c72ad83cb6c037275c80186b7ae384baaad3ecd87d9.png" },
+          },
+          {
+            title: "Best Evening Experience",
+            content: "A **night yacht tour with fireworks** seeing Haeundae's skyline from the water is the best evening alternative to a beachfront dinner — Gwangalli's Diamond Bridge is visible further along the coastline.",
+            tourCard: { slug: "busan-night-views-tour-with-yacht-ride-and", title: "Busan: Night Views Tour with Yacht Ride and Fireworks", description: "An evening alternative to a beachfront dinner, seeing Haeundae's skyline from the water.", price: "From $228", duration: "2 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/928beadadd31968dd237c66c60408a6a05da367ecf83bc45c655d7524ed42650.jpg" },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Busan tours](/south-korea/busan)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Busan?", a: "Gamcheon Culture Village combined with Jagalchi Market in one guided walk — the cascading pastel houses followed by Korea's largest seafood market for lunch." },
+          { q: "Is Haeundae Beach worth visiting?", a: "Yes, especially paired with the nearby Haedong Yonggungsa coastal temple. Avoid July-August weekends if swimming isn't the priority — late spring or early autumn is noticeably calmer." },
+          { q: "What food should I try in Busan specifically?", a: "Milmyeon (cold wheat noodles) and dwaeji gukbap (pork and rice soup) — both Korean War-era dishes specific to Busan, distinct from Seoul's food culture." },
+          { q: "Can you see Busan in one day?", a: "You can cover Gamcheon Village, a Jagalchi Market lunch and a Haeundae Beach evening in one focused day, but Haedong Yonggungsa and nightlife won't both fit." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Busan?", "acceptedAnswer": { "@type": "Answer", "text": "Gamcheon Culture Village combined with Jagalchi Market in one guided walk." } },
+                { "@type": "Question", "name": "Is Haeundae Beach worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, especially paired with the nearby Haedong Yonggungsa coastal temple." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Gamcheon + Jagalchi Market' },
+          { icon: 'Waves', label: 'Best Coastal', value: 'Haeundae + Yonggungsa' },
+          { icon: 'Moon', label: 'Best Evening', value: 'Night Yacht Tour' }
+        ]
+      };
+
     case "best-tours-in-seoul":
       return {
         title: "Best Tours in Seoul — 2026, Honestly Compared",

@@ -303,6 +303,8 @@ export const DOHA_INFO_SLUGS = [
   'zekreet-film-city-guide', 'doha-islamic-architecture-guide', 'doha-falcon-souq-guide',
   'inland-sea-khor-al-adaid-guide', 'doha-ramadan-travel-guide', 'doha-weekend-guide',
   'doha-airport-stopover-guide',
+  // GEO listicle page (2026-10)
+  'best-tours-in-doha',
 ];
 
 export const BUSAN_INFO_SLUGS = [
@@ -310,6 +312,8 @@ export const BUSAN_INFO_SLUGS = [
   'busan-1-day-itinerary', 'haeundae-beach-guide', 'gamcheon-culture-village-guide',
   'jagalchi-fish-market-guide', 'busan-food-guide', 'seoul-to-busan-ktx-guide',
   'busan-nightlife-guide',
+  // GEO listicle page (2026-10)
+  'best-tours-in-busan',
 ];
 
 // Philippines launched 2026-10 with 677 live tours (Manila 213, Cebu 464) and
@@ -327,6 +331,8 @@ export const MALE_INFO_SLUGS = [
   'maldives-resort-vs-local-island-guide', 'male-local-island-guide', 'maldives-budget-travel-guide',
   'maldives-luxury-resort-guide', 'maldives-whale-shark-manta-ray-guide', 'maldives-sandbank-tour-guide',
   'male-city-guide', 'maldives-dolphin-watching-guide', 'maldives-airport-transfer-guide',
+  // GEO listicle page (2026-10)
+  'best-tours-in-male',
 ];
 
 export const MANILA_INFO_SLUGS = [

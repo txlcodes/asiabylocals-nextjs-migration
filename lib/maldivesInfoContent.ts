@@ -524,6 +524,63 @@ export function getMaldivesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-male":
+      return {
+        title: "Best Tours in Malé — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Male 2026: Top-Rated Picks by Category",
+        description: "The best Malé (Maldives) tours for 2026, picked by category — a city walking tour, manta ray snorkeling, Villingili beach time and a multilingual Malé tour — with real prices and an honest note on how we chose them.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/af7f58bdedab0ebed875cb07748c0749d8c66aa97018b86b12d1b426fe07bb34.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **guided walking tour through Malé** — the Grand Friday Mosque, the local and fish markets, the harbor — gives a side of the Maldives that resort islands simply don't show, and most visitors never see it because they go straight from airport to speedboat jetty.\n\nBelow is our honest, by-category breakdown — real tours, real prices, no inflated ratings.",
+            tourCard: { slug: "male-guided-walking-tour-with-a-local-guide", title: "Malé: Guided Walking Tour with a Local Guide", description: "A walking tour through Malé's streets and markets with context most visitors never get.", price: "From $39", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/af7f58bdedab0ebed875cb07748c0749d8c66aa97018b86b12d1b426fe07bb34.jpg" },
+          },
+          {
+            title: "Best for a Group: Multilingual City Tour",
+            content: "A **multilingual guided city tour** — available in English, Russian, Chinese or Italian — covers the mosque, markets and harbor area, good for mixed-nationality groups or anyone more comfortable in a language other than English.",
+            tourCard: { slug: "male-english-russian-chinese-or-italian-guided", title: "Malé: English, Russian, Chinese or Italian Guided City Tour", description: "A multilingual city tour covering the mosque, markets and harbor area.", price: "From $78", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1e7c95026ca9332fb030b72a5f416d1d4773637bb86b8b30c40e5a9e4ceb463.jpeg" },
+          },
+          {
+            title: "Best Beach Escape Without a Resort: Villingili",
+            content: "A **half-day trip to Villingili**, a short ferry ride from Malé, is the single best way to get actual beach time on a transfer day without booking into a resort — a genuine taste of island life rather than an airport layover spent entirely indoors.",
+            tourCard: { slug: "male-villimale-half-day-trip-with-hotel-or", title: "Malé: Villimalé Half-Day Trip with Hotel or Airport Pickup", description: "A half-day trip to Villingili's quieter beaches, pickup included.", price: "From $65", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2f5af09ce987347f8d1f241044edbfab270566e13ee8ce8acb303cdc07014f06.jpg" },
+          },
+          {
+            title: "Best Wildlife Experience: Manta Ray Snorkeling",
+            content: "**Manta ray snorkeling at Rasfari Corner** is timed to the manta season's feeding aggregations — one of the Maldives' most memorable in-water wildlife encounters, bookable as a day trip from Malé rather than needing a liveaboard.",
+            tourCard: { slug: "maldives-manta-ray-snorkeling-at-rasfari-corner", title: "Maldives: Manta Ray Snorkeling at Rasfari Corner", description: "A snorkeling trip timed to the manta season's feeding aggregations.", price: "From $221", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eda7256a80feec399244d280cc30a4fb0b34b1375524b2ac07ebcc96b97b9332.jpg" },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Malé tours](/maldives/male)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Malé?", a: "A guided walking tour covering the Grand Friday Mosque, the local and fish markets, and the harbor — a side of the Maldives most resort visitors never see." },
+          { q: "Is Malé worth visiting if I'm going straight to a resort?", a: "Yes, if you have even a few hours before a transfer — Malé's markets, mosque and harbor area show a side of the Maldives that resort islands simply don't." },
+          { q: "What is the best beach option in Malé without booking a resort?", a: "A half-day trip to Villingili, a short ferry ride from the capital, for a genuine taste of island life without a resort booking." },
+          { q: "Can I do manta ray snorkeling as a day trip from Malé?", a: "Yes — manta ray snorkeling at Rasfari Corner is bookable as a day trip, timed to the manta season's feeding aggregations." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Malé?", "acceptedAnswer": { "@type": "Answer", "text": "A guided walking tour covering the Grand Friday Mosque, the local and fish markets, and the harbor." } },
+                { "@type": "Question", "name": "Is Malé worth visiting if I'm going straight to a resort?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Malé's markets, mosque and harbor area show a side of the Maldives resort islands don't." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Guided Malé Walking Tour' },
+          { icon: 'Waves', label: 'Best Beach Escape', value: 'Villingili Half-Day Trip' },
+          { icon: 'Fish', label: 'Best Wildlife', value: 'Manta Ray Snorkeling' }
+        ]
+      };
+
     default:
       return null;
   }

@@ -1058,6 +1058,68 @@ export function getQatarInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-doha":
+      return {
+        title: "Best Tours in Doha — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Doha 2026: Top-Rated Picks by Category",
+        description: "The best Doha tours for 2026, picked by category — the Museum of Islamic Art, Souq Waqif, a desert safari to the Inland Sea, and a Corniche sunset dhow cruise — with real prices and an honest note on how we chose them.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f6c79b6b925263a2b6cd4880b16c089bd9bc7195fb62e4a55132a3248954f2de.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The **Museum of Islamic Art**, designed by I.M. Pei, is Doha's single most significant landmark — a guided city tour built around it folds in the Corniche and West Bay skyline views too.\n\nBelow is our honest, by-category breakdown — real tours, real prices, no inflated ratings.",
+            tourCard: { slug: "doha-guided-city-tour-with-museum-of-islamic-art", title: "Doha: Guided City Tour with Museum of Islamic Art Visit", description: "A guided city loop built around MIA, with the Corniche and skyline views folded in.", price: "From $46", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f6c79b6b925263a2b6cd4880b16c089bd9bc7195fb62e4a55132a3248954f2de.jpeg" },
+          },
+          {
+            title: "Best Market Experience: Souq Waqif",
+            content: "**Souq Waqif**, a restored traditional market of narrow covered lanes, is Doha's most atmospheric place to shop and eat — a guided food walk through its lanes is timed for the Corniche skyline at its best.",
+            tourCard: { slug: "doha-souq-waqif-traditional-food-tour-with", title: "Doha: Souq Waqif Traditional Food Tour with Skyline Views", description: "A guided food walk through Souq Waqif's lanes, timed for the Corniche skyline at its best.", price: "From $71", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2cab29b2b52f9ebf0f406d1a14f73ea0daa20f7124e88bd43053521f5b7d0fbf.jpeg" },
+          },
+          {
+            title: "Best Desert Experience: the Inland Sea",
+            content: "A **4x4 desert tour to Khor Al Adaid (the Inland Sea)**, a UNESCO-recognized reserve where the desert meets the sea with no barrier, is the one Doha experience that genuinely requires leaving the city — dune bashing, often paired with camel rides or sandboarding.",
+            tourCard: { slug: "from-doha-khor-al-adaid-inland-sea-4x4-desert", title: "From Doha: Khor Al Adaid & Inland Sea 4x4 Desert Tour", description: "A full desert and Inland Sea run by 4x4, the single trip outside the city most visitors prioritize.", price: "From $78", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b90cf497acfec171428d65cce1d7576ced2db4c7599284ca2eb9ac9b2aebdef1.jpeg" },
+          },
+          {
+            title: "Best Evening Experience: Corniche Sunset Cruise",
+            content: "A **traditional dhow sunset cruise** past the West Bay towers is often the single most-photographed view in the city once the skyline lights up after dark — the best way to close a day in Doha.",
+            tourCard: { slug: "doha-traditional-dhow-sunset-cruise-with-optional", title: "Doha: Traditional Dhow Sunset Cruise with Optional Dinner", description: "A sunset cruise past the West Bay skyline that closes a full day without extra planning.", price: "From $24", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c79071ddb93a209cbadc7f3b633f6133a15bfa3dedb17afb96a715c938e049e5.jpeg" },
+          },
+          {
+            title: "Best for a Layover: Stopover Tour",
+            content: "A **stopover and transit tour with airport pickup** is built for Doha's huge transit traffic — a guided first look at the city timed around a layover, so you don't need to plan anything yourself.",
+            tourCard: { slug: "doha-stopover-transit-tour-with-airport-pickup", title: "Doha: Stopover & Transit Tour with Airport Pickup & Drop-Off", description: "A guided first look at the city timed around a layover, airport pickup included.", price: "From $45", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/29076eaf0916d243832851ae706fa2fe41579dd676c7606fa1b6508cd156122a.jpg" },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Doha tours](/qatar/doha)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Doha?", a: "A guided city tour built around the Museum of Islamic Art, folding in the Corniche and West Bay skyline views." },
+          { q: "What is the best desert experience from Doha?", a: "A 4x4 tour to Khor Al Adaid (the Inland Sea), a UNESCO-recognized reserve where the desert meets the sea with no barrier." },
+          { q: "What is the best evening activity in Doha?", a: "A traditional dhow sunset cruise past the West Bay towers — often the single most-photographed view in the city once it's lit up after dark." },
+          { q: "Is there a good tour for a Doha layover?", a: "Yes — a stopover and transit tour with airport pickup is built exactly for Doha's huge transit traffic." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Doha?", "acceptedAnswer": { "@type": "Answer", "text": "A guided city tour built around the Museum of Islamic Art, with the Corniche and skyline views folded in." } },
+                { "@type": "Question", "name": "What is the best desert experience from Doha?", "acceptedAnswer": { "@type": "Answer", "text": "A 4x4 tour to Khor Al Adaid, the Inland Sea, where the desert meets the sea with no barrier." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Museum of Islamic Art + City Tour' },
+          { icon: 'Map', label: 'Best Desert Trip', value: 'Khor Al Adaid Inland Sea' },
+          { icon: 'Sunset', label: 'Best Evening', value: 'Dhow Sunset Cruise' }
+        ]
+      };
+
     default:
       return null;
   }

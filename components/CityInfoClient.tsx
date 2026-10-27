@@ -576,6 +576,7 @@ const ISTANBUL_SIDEBAR = [
 ];
 
 const DOHA_SIDEBAR = [
+    { name: 'Best Tours in Doha', slug: 'best-tours-in-doha' },
     { name: 'Doha Travel Guide', slug: 'doha-travel-guide-2026' },
     { name: 'Things to Do', slug: 'things-to-do-in-doha' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-doha' },
@@ -610,6 +611,7 @@ const DOHA_SIDEBAR = [
 ];
 
 const MALE_SIDEBAR = [
+    { name: 'Best Tours in Malé', slug: 'best-tours-in-male' },
     { name: 'Maldives Travel Guide', slug: 'maldives-travel-guide-2026' },
     { name: 'Things to Do in Malé', slug: 'things-to-do-in-male' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-maldives' },
@@ -628,6 +630,7 @@ const MALE_SIDEBAR = [
 ];
 
 const BUSAN_SIDEBAR = [
+    { name: 'Best Tours in Busan', slug: 'best-tours-in-busan' },
     { name: 'Busan Travel Guide', slug: 'busan-travel-guide-2026' },
     { name: 'Things to Do', slug: 'things-to-do-in-busan' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-busan' },

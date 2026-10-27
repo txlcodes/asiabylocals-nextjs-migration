@@ -191,7 +191,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-busan', 'things-to-do-in-busan', 'busan-travel-guide-2026',
     'busan-1-day-itinerary', 'haeundae-beach-guide', 'gamcheon-culture-village-guide',
     'jagalchi-fish-market-guide', 'busan-food-guide', 'seoul-to-busan-ktx-guide',
-    'busan-nightlife-guide',
+    'busan-nightlife-guide', 'best-tours-in-busan',
   ].map(slug => ({
     url: `${BASE_URL}/south-korea/busan/${slug}`,
     lastModified: new Date(),
@@ -231,7 +231,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'doha-dhow-cruise-guide', 'al-zubarah-fort-day-trip', 'doha-nightlife-guide',
     'zekreet-film-city-guide', 'doha-islamic-architecture-guide', 'doha-falcon-souq-guide',
     'inland-sea-khor-al-adaid-guide', 'doha-ramadan-travel-guide', 'doha-weekend-guide',
-    'doha-airport-stopover-guide',
+    'doha-airport-stopover-guide', 'best-tours-in-doha',
   ].map(slug => ({
     url: `${BASE_URL}/qatar/doha/${slug}`,
     lastModified: new Date(),
@@ -246,6 +246,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'maldives-resort-vs-local-island-guide', 'male-local-island-guide', 'maldives-budget-travel-guide',
     'maldives-luxury-resort-guide', 'maldives-whale-shark-manta-ray-guide', 'maldives-sandbank-tour-guide',
     'male-city-guide', 'maldives-dolphin-watching-guide', 'maldives-airport-transfer-guide',
+    'best-tours-in-male',
   ].map(slug => ({
     url: `${BASE_URL}/maldives/male/${slug}`,
     lastModified: new Date(),
