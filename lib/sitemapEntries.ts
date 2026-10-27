@@ -849,6 +849,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'hanoi-motorbike-tours-guide',
     'hanoi-cultural-shows-and-workshops',
     'hanoi-history-tour-guide',
+    'best-tours-in-hanoi',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/hanoi/${slug}`,
     lastModified: new Date(),
@@ -998,6 +999,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'ho-chi-minh-city-1-day-itinerary',
     'saigon-cooking-classes-guide',
     'saigon-day-trips-guide',
+    'best-tours-in-ho-chi-minh-city',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/ho-chi-minh-city/${slug}`,
     lastModified: new Date(),

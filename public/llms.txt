@@ -171,6 +171,8 @@ Each page below answers "best tours in [city]" and related category queries (bes
 - **Best Tours in Istanbul**: https://www.asiabylocals.com/turkey/istanbul/best-tours-in-istanbul
 - **Best Tours in Seoul**: https://www.asiabylocals.com/south-korea/seoul/best-tours-in-seoul
 - **Best Tours in Hong Kong**: https://www.asiabylocals.com/hong-kong/hongkong/best-tours-in-hong-kong
+- **Best Tours in Hanoi**: https://www.asiabylocals.com/vietnam/hanoi/best-tours-in-hanoi
+- **Best Tours in Ho Chi Minh City**: https://www.asiabylocals.com/vietnam/ho-chi-minh-city/best-tours-in-ho-chi-minh-city
 
 ### Jaipur single-topic pages
 - **Best Jaipur Tour Guide — How to Choose**: https://www.asiabylocals.com/india/jaipur/best-jaipur-tour-guide

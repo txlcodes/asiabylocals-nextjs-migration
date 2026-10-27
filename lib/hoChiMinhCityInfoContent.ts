@@ -577,6 +577,103 @@ export function getHoChiMinhCityInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-ho-chi-minh-city":
+      return {
+        title: "Best Tours in Ho Chi Minh City — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Ho Chi Minh City 2026: Top-Rated Picks by Category",
+        description: "The best Ho Chi Minh City (Saigon) tours for 2026, picked by category — the Cu Chi Tunnels, Mekong Delta, a motorbike city tour, street food and Mui Ne — with real prices and an honest note on how we chose them.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The **Cu Chi Tunnels** are the one half-day trip everyone takes from Saigon, and for good reason — the trapdoors, traps and a crawl through the actual tunnel network give a visceral sense of the war that no museum can match. Pair it with a motorbike city tour for the rest of the day.\n\nBelow is our honest, by-category breakdown — real tours, real prices, no inflated ratings.",
+            tourCard: {
+              slug: "cu-chi-tunnels-tour-with-optional-shooting-range-in-ho-chi-minh-city",
+              title: "Cu Chi Tunnels Tour with Optional Shooting Range",
+              description: "The Viet Cong tunnel network 70 km north-west — trapdoors, traps and a crawl through the real tunnels.",
+              price: "From USD 22",
+              duration: "7 hours",
+              image: IMG,
+            },
+          },
+          {
+            title: "Best Day Trip: Mekong Delta",
+            content: "A **Mekong Delta day trip** to My Tho and the Ben Tre coconut village covers the river-life side of Vietnam that Saigon's streets don't show — floating markets, coconut candy workshops, and sampan boat rides through narrow canals.",
+            tourCard: {
+              slug: "hcm-mekong-delta-my-tho-and-ben-tre-coconut-village-ho-chi-minh-city",
+              title: "Mekong Delta: My Tho and Ben Tre Coconut Village",
+              description: "Floating markets, coconut candy workshops, and narrow-canal sampan rides through the Mekong Delta.",
+              price: "From USD 23",
+              duration: "9 hours",
+              image: IMG,
+            },
+          },
+          {
+            title: "Best Way to See the City: Motorbike Tour",
+            content: "A **motorbike city tour** covering the War Remnants Museum and the Reunification Palace is the fastest, most local way to cross Saigon's districts — exactly how the city actually moves, not a tour bus crawling through it.",
+            tourCard: {
+              slug: "city-tour-by-motorbike-w-war-museum-and-reunification-palace-in-ho-chi-minh-city",
+              title: "City Tour By Motorbike w/ War Museum and Reunification Palace in Ho Chi Minh City",
+              description: "The War Remnants Museum and Reunification Palace, seen the way the city actually moves.",
+              price: "From USD 36.40",
+              duration: "4 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/city-tour-by-motorbike-w-war-museum-and-reunification-palace-in-ho-chi-minh-city/img0/1600.webp",
+            },
+          },
+          {
+            title: "Best Food Tour",
+            content: "A **Saigon street food tour** through the flower market and an old apartment block covers the city's everyday eating culture, not a tourist-menu version of it.",
+            tourCard: {
+              slug: "saigon-street-food-flower-market-and-old-apartment-tour",
+              title: "Saigon Street Food, Flower Market and Old Apartment Tour",
+              description: "Everyday Saigon eating culture, through the flower market and a converted old apartment block.",
+              price: "From USD 27",
+              duration: "3.5 hours",
+              image: IMG,
+            },
+          },
+          {
+            title: "Best Longer Day Trip: Mui Ne",
+            content: "**Mui Ne**, with its red and white sand dunes, is the best full-day escape from Saigon for travellers who want a genuinely different landscape rather than more delta or tunnels.",
+            tourCard: {
+              slug: "mui-ne-best-day-trip-in-ho-chi-minh-city",
+              title: "Mui Ne Best Day Trip in Ho Chi Minh City",
+              description: "Red and white sand dunes — a genuinely different landscape, full day from Saigon.",
+              price: "From USD 82.60",
+              duration: "12 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/mui-ne-best-day-trip-in-ho-chi-minh-city/img0/1600.webp",
+            },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Ho Chi Minh City tours](/vietnam/ho-chi-minh-city)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Ho Chi Minh City?", a: "The Cu Chi Tunnels — a half-day trip everyone takes, with trapdoors, traps and a crawl through the real Viet Cong tunnel network." },
+          { q: "What is the best day trip from Ho Chi Minh City?", a: "The Mekong Delta, covering My Tho and the Ben Tre coconut village — floating markets, coconut candy workshops and sampan rides through narrow canals." },
+          { q: "Is a motorbike tour a good way to see Saigon?", a: "Yes — it's the fastest, most local way to cross the city's districts, exactly how the city actually moves rather than a tour bus crawling through it." },
+          { q: "Is Mui Ne worth the day trip from Saigon?", a: "Yes, for a genuinely different landscape — red and white sand dunes, a full day away from the delta and tunnel trips." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Ho Chi Minh City?", "acceptedAnswer": { "@type": "Answer", "text": "The Cu Chi Tunnels — trapdoors, traps and a crawl through the real Viet Cong tunnel network." } },
+                { "@type": "Question", "name": "What is the best day trip from Ho Chi Minh City?", "acceptedAnswer": { "@type": "Answer", "text": "The Mekong Delta, covering My Tho and the Ben Tre coconut village." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Cu Chi Tunnels' },
+          { icon: 'Map', label: 'Best Day Trip', value: 'Mekong Delta' },
+          { icon: 'Compass', label: 'Best City Tour', value: 'Motorbike Tour' }
+        ]
+      };
+
     default:
       return null;
   }

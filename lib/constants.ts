@@ -1080,6 +1080,8 @@ export const HANOI_INFO_SLUGS = [
   'hanoi-motorbike-tours-guide',
   'hanoi-cultural-shows-and-workshops',
   'hanoi-history-tour-guide',
+  // GEO listicle page (2026-10)
+  'best-tours-in-hanoi',
 ];
 
 export const SAPA_INFO_SLUGS = [
@@ -1190,4 +1192,6 @@ export const HO_CHI_MINH_CITY_INFO_SLUGS = [
   'ho-chi-minh-city-1-day-itinerary',
   'saigon-cooking-classes-guide',
   'saigon-day-trips-guide',
+  // GEO listicle page (2026-10)
+  'best-tours-in-ho-chi-minh-city',
 ];

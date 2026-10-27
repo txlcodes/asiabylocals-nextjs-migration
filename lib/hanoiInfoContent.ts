@@ -617,6 +617,103 @@ export function getHanoiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-hanoi":
+      return {
+        title: "Best Tours in Hanoi — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Hanoi 2026: Top-Rated Picks by Category",
+        description: "The best Hanoi tours for 2026, picked by category — Old Quarter street food, a cooking class, the water puppet show, Ninh Binh day trip and the Ha Giang Loop — with real prices and an honest note on how we chose them.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hanoi rewards a **street food walking tour** more than any sightseeing checklist — the Old Quarter's alleys hold most of what makes the city worth visiting, and a guide earns their fee purely on knowing which of forty near-identical stalls is actually the good one.\n\nBelow is our honest, by-category breakdown — real tours, real prices, no inflated ratings.",
+            tourCard: {
+              slug: "old-quarter-street-food-tour-with-12-tastings-in-hanoi",
+              title: "Old Quarter Street Food Tour with Twelve Tastings",
+              description: "Twelve tastings through the Old Quarter's alleys, with a guide who knows which stall is actually the good one.",
+              price: "From USD 37",
+              duration: "3.5 hours",
+              image: IMG,
+            },
+          },
+          {
+            title: "Best Hands-On Experience: Cooking Class",
+            content: "A **market tour and cooking class** that starts at the wet market before the kitchen is the real version — you learn what you're cooking before you cook it, and leave with a full meal and recipes that actually work at home.",
+            tourCard: {
+              slug: "old-quarter-market-tour-and-cooking-class-with-meal-in-hanoi",
+              title: "Old Quarter Market Tour and Cooking Class with Meal in Hanoi",
+              description: "A real wet-market visit followed by a hands-on cooking class and the meal you made.",
+              price: "From USD 61.31",
+              duration: "3.5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/old-quarter-market-tour-and-cooking-class-with-meal-in-hanoi/img0/1600.webp",
+            },
+          },
+          {
+            title: "Best Cultural Experience: Water Puppet Show",
+            content: "The **traditional water puppet show**, a centuries-old Vietnamese art form performed on a lake-like stage, is the most-booked single cultural ticket in Hanoi, short, affordable and genuinely unlike anything else on a Southeast Asia trip.",
+            tourCard: {
+              slug: "traditional-water-puppet-show-ticket-in-hanoi-by-local-operator",
+              title: "Traditional Water Puppet Show Ticket in Hanoi by Local Operator",
+              description: "A centuries-old Vietnamese art form, performed on a lake-like stage — short, affordable, unlike anything else.",
+              price: "From USD 8.83",
+              duration: "1 hour",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/traditional-water-puppet-show-ticket-in-hanoi-by-local-operator/img0/1600.webp",
+            },
+          },
+          {
+            title: "Best Day Trip: Ninh Binh",
+            content: "**Ninh Binh** — Hoa Lu, Bai Dinh, Trang An or Tam Coc's river caves, and Mua Cave's viewpoint — is the best single-day escape from Hanoi, often described as \"Ha Long Bay on land\" for its limestone karst scenery.",
+            tourCard: {
+              slug: "ninh-binh-hoa-lu-bai-dinh-trang-an-tam-coc-mua-cave",
+              title: "Ninh Binh Hoa Lu/Bai Dinh, Trang An/Tam Coc, Mua Cave",
+              description: "Limestone karsts, river caves and a cave viewpoint — \"Ha Long Bay on land,\" as a single day trip from Hanoi.",
+              price: "From USD 43.29",
+              duration: "Flexible",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/ninh-binh-hoa-lu-bai-dinh-trang-an-tam-coc-mua-cave/img0/1600.webp",
+            },
+          },
+          {
+            title: "Best Multi-Day Adventure: the Ha Giang Loop",
+            content: "The **Ha Giang Loop**, four days and three nights by motorbike through Vietnam's dramatic northern mountains, is the trip serious travellers build their whole Vietnam itinerary around — small-group, guided, and nothing like the rest of a standard Hanoi visit.",
+            tourCard: {
+              slug: "small-group-4-day-3-night-ha-giang-loop-motorbike-tour-in-hanoi",
+              title: "Small group: 4-Day 3-Night Ha Giang Loop Motorbike Tour in Hanoi",
+              description: "Four days through Vietnam's dramatic northern mountains by motorbike, small-group and guided.",
+              price: "From USD 322.36",
+              duration: "4 days",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/small-group-4-day-3-night-ha-giang-loop-motorbike-tour-in-hanoi/img0/1600.webp",
+            },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Hanoi tours](/vietnam/hanoi)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Hanoi?", a: "An Old Quarter street food walking tour — a guide who knows which of the forty near-identical stalls is actually the good one earns their fee on logistics alone." },
+          { q: "What is the best day trip from Hanoi?", a: "Ninh Binh — limestone karsts, river caves at Trang An or Tam Coc, and the Mua Cave viewpoint, often called \"Ha Long Bay on land.\"" },
+          { q: "Is the Ha Giang Loop worth doing?", a: "Yes, for travellers with four days to spare — it's a small-group guided motorbike trip through Vietnam's most dramatic northern mountains, unlike anything else in a standard Hanoi visit." },
+          { q: "Is the water puppet show worth seeing?", a: "Yes — it's a centuries-old Vietnamese art form, short and affordable, and genuinely unlike any other cultural experience in Southeast Asia." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Hanoi?", "acceptedAnswer": { "@type": "Answer", "text": "An Old Quarter street food walking tour, led by a guide who knows which stalls are actually good." } },
+                { "@type": "Question", "name": "What is the best day trip from Hanoi?", "acceptedAnswer": { "@type": "Answer", "text": "Ninh Binh, often called Ha Long Bay on land, for its limestone karsts and river caves." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Old Quarter Street Food Tour' },
+          { icon: 'Map', label: 'Best Day Trip', value: 'Ninh Binh' },
+          { icon: 'Mountain', label: 'Best Multi-Day', value: 'Ha Giang Loop' }
+        ]
+      };
+
     default:
       return null;
   }
