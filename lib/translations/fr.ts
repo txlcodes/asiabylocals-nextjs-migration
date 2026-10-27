@@ -59853,6 +59853,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Depenses personnelles, repas sauf indication contraire, pourboires"
   ]
  },
+ "osaka-foodie-food-tour": {
+  "title": "Centre-ville d'Osaka : visite gourmande des ruelles cachees",
+  "metaTitle": "Visite gourmande des ruelles d'Osaka",
+  "metaDescription": "Une soiree gourmande de trois heures hors des sentiers touristiques, avec plusieurs arrets, plats et boissons et de vraies histoires locales.",
+  "shortDescription": "Evitez les sentiers touristiques et rejoignez des experts locaux pour une soiree gourmande de 3 heures au centre-ville ! 5 arrets, 13 plats, 2 boissons, et de vraies histoires.",
+  "fullDescription": "La rue principale de Dotonbori est ou mangent les touristes ; les ruelles a quelques minutes de la sont ou Osaka mange vraiment, et c'est exactement cet ecart que cette visite du soir de trois heures est concue pour combler. Les chiffres vous disent le genre de soiree que c'est : cinq arrets, treize plats, et deux boissons, repartis sur des lieux du centre-ville que des guides locaux ont choisis precisement parce qu'ils se trouvent a l'ecart du sentier touristique. Vous vous retrouvez en soiree et plongez directement dans le genre d'endroits devant lesquels vous passeriez sans un second regard seul - petits comptoirs et restaurants de quartier ou les menus sont en japonais, les habitues sont de vrais habitues, et la nourriture est faite pour les palais locaux plutot que pour les photos. Treize plats sur cinq arrets signifie que c'est un vrai diner progressif, pas un gadget de degustation : venir affame est le propre conseil de l'operateur, et ils le pensent vraiment. Ce qui distingue cela de simplement manger en descendant une rue, c'est les guides eux-memes - des experts locaux qui apportent de vraies histoires sur les quartiers, les plats, et les obsessions culinaires de la ville, de sorte qu'entre les bouchees vous apprenez pourquoi Osaka est appelee la cuisine du Japon et comment sa culture culinaire fonctionne vraiment. Les deux boissons incluses maintiennent la soiree sociable, et le format en petit groupe dans les ruelles signifie que vous pouvez vraiment entendre les histoires et poser des questions plutot que de suivre un drapeau dans une foule. Echapper au piege touristique de Dotonbori pour trouver les endroits que les habitants gardent pour eux est toute la premisse, et apres cinq arrets et treize plats vous aurez goute un echantillon plus large et plus honnete de la nourriture d'Osaka que la plupart des visiteurs en une semaine. Venez affame, partez heureux - c'est ecrit sur l'etiquette parce que c'est le plan.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "osaka-guided-tour": {
+  "title": "Visite d'une journee a Osaka",
+  "metaTitle": "Visite d'une journee a Osaka",
+  "metaDescription": "Une visite privee en voiture avec chauffeur a Osaka couvrant Dotonbori, le chateau d'Osaka et la street food de la ville.",
+  "shortDescription": "Une visite privee en voiture avec chauffeur a Osaka couvrant le quartier vivant de Dotonbori, le chateau historique d'Osaka, et la culture street food de la ville.",
+  "fullDescription": "Une voiture privee avec chauffeur change l'arithmetique d'une journee a Osaka : pas de plans de train, pas de files de taxi, pas de sacs a porter a travers la ville - juste un vehicule confortable, un chauffeur qui connait les rues, et une journee complete faconnee autour des essentiels de la ville. Cette visite d'une journee couvre les trois experiences qui definissent Osaka - le quartier vivant de divertissement de Dotonbori, le chateau historique d'Osaka, et la culture street food dont la ville est celebre - avec la voiture gerant chaque transition entre les deux. Le chateau d'Osaka ancre la moitie historique de la journee. La forteresse au centre de l'histoire de l'unification du Japon se trouve dans un vaste parc, et y arriver en voiture privee signifie que vous commencez la visite frais plutot qu'apres une marche depuis la gare, avec le temps d'apprecier les murs de pierre, les fosses et le donjon a votre propre rythme. Dotonbori ancre l'autre moitie : le quartier de divertissement au bord du canal dont les immenses enseignes illuminees, les foules et les rangees de restaurants sont l'image que la plupart des gens retiennent d'Osaka. Entre et autour des deux, la culture street food de la ville traverse la journee - Osaka est appelee la cuisine du Japon pour une raison, et les stands de takoyaki, les plaques d'okonomiyaki, et les etals de marche ne sont jamais loin de l'itineraire. Le format avec chauffeur convient particulierement aux familles avec enfants, aux voyageurs que les longues marches ou les transports fatiguent, et a quiconque dispose de peu de temps a Osaka au point que la logistique devient l'ennemi. Votre chauffeur adapte le rythme de la journee a vous - restez plus longtemps au chateau, ajoutez un arret, revenez plus tot - ce qui est le luxe discret d'avoir la voiture et le chauffeur pour vous seuls. Les details de prise en charge et de depose a Osaka sont confirmes avec l'operateur au moment de la reservation. C'est la facon sans friction de consacrer une journee entiere a Osaka et d'en profiter vraiment.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "osaka-highlights-private-tour": {
+  "title": "Visite privee des incontournables d'Osaka avec guide et vehicule de luxe",
+  "metaTitle": "Visite privee des incontournables d'Osaka",
+  "metaDescription": "Explorez Osaka en voiture privee avec prise en charge a l'hotel. Chateau d'Osaka, Dotonbori, marche Kuromon, Shinsekai et plus a votre rythme.",
+  "shortDescription": "Explorez Osaka en voiture privee avec prise en charge a l'hotel. Choisissez une formule de 5 heures ou une immersion de 10 heures. Chateau d'Osaka, Dotonbori, marche Kuromon, Shinsekai et plus a votre rythme.",
+  "fullDescription": "Osaka recompense les voyageurs qui peuvent avancer a leur propre rythme, et cette visite privee est entierement construite autour de cette idee : un vehicule de luxe, un chauffeur-guide dedie, et une prise en charge a l'hotel, avec vous qui decidez jusqu'ou aller. Choisissez la formule courte si vous voulez un parcours efficace et confortable des essentiels, ou l'immersion complete si vous voulez explorer la ville correctement avec le temps de vous attarder ou cela vous attire. L'itineraire classique relie les sites phares d'Osaka - le chateau d'Osaka et son parc, le canyon de neon de Dotonbori, les galeries chargees de fruits de mer du marche Kuromon, et les rues retro de Shinsekai sous la tour Tsutenkaku - mais rien dans la journee n'est fixe. Comme le vehicule et le guide sont exclusivement a vous, vous pouvez reorganiser les arrets, sauter ce qui ne vous interesse pas, transformer une visite de marche en un dejeuner grignotage, ou demander a voir un quartier qui n'est sur aucun itineraire standard. Voyager en voiture privee change la texture de la journee : pas de transferts en gare, pas de troupeau, un confort climatise entre chaque arret, et de l'espace pour les bagages, les poussettes ou les jambes fatiguees. C'est particulierement adapte aux familles avec enfants, aux groupes multigenerationnels, et aux voyageurs au calendrier serre qui veulent un maximum d'Osaka par heure sans la friction des transports publics. Votre guide gere la logistique et le recit ; vous dites simplement ce qui vous intrigue et la journee s'adapte. La prise en charge et la depose a votre hotel d'Osaka encadrent la visite, porte a porte.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "osaka-night-evening-tour": {
+  "title": "Osaka : croisiere nocturne privee a travers la ville de l'eau",
+  "metaTitle": "Osaka : croisiere nocturne privee",
+  "metaDescription": "Une croisiere fluviale privee et relaxante a travers le coeur d'Osaka avec un guide anglophone en direct et une boisson offerte.",
+  "shortDescription": "Profitez d'une croisiere fluviale relaxante de 60 minutes a travers le coeur d'Osaka avec un guide anglophone en direct et une boisson offerte.",
+  "fullDescription": "Osaka a ete construite sur ses voies d'eau - les marchands qui en ont fait la capitale commerciale du Japon deplacaient tout par bateau, et l'ancien nom de la ville, la ville de l'eau, n'est pas une ligne marketing mais une description litterale. Cette croisiere nocturne privee vous offre cet Osaka : une croisiere fluviale relaxante de 60 minutes a travers le coeur de la ville a la nuit tombee, avec un guide anglophone en direct et une boisson offerte, sans etrangers partageant votre bateau. La nuit est le moment ou les rivieres justifient le voyage. Les ponts, tours et batiments au bord de l'eau de la ville s'illuminent et se dedoublent en reflet sur l'eau, et la vue depuis un bateau est une vue qu'aucune marche au niveau de la rue ne peut reproduire - la silhouette de la ville qui glisse au rythme de la marche, le bruit de la ville adouci en un murmure, le neon lu comme une lueur plutot qu'un eclat. Votre guide raconte en direct en anglais tout au long, expliquant ce que vous passez : l'histoire des voies d'eau qui ont enrichi Osaka, les ponts et les quartiers le long de l'itineraire, et les histoires qui relient la silhouette moderne a la ville marchande en dessous. Comme la croisiere est privee, l'atmosphere est entierement la votre - une soiree de couple, une sortie en famille, ou un petit groupe qui se detend apres une journee a pied, avec la boisson incluse en main tandis que la ville defile. Les details d'embarquement a Osaka sont confirmes avec l'operateur au moment de la reservation. C'est l'heure la plus calme que vous puissiez passer dans la ville gastronomique la plus bruyante du Japon - et l'angle le plus joli sur elle apres la tombee de la nuit.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "osaka-original-guided-tour": {
+  "title": "Osaka : experience originale de kart de rue",
+  "metaTitle": "Osaka : experience de kart de rue",
+  "metaDescription": "Decouvrez Osaka de la facon la plus audacieuse possible, en conduisant un kart personnalise sur les routes publiques.",
+  "shortDescription": "Decouvrez Osaka de la facon la plus audacieuse et funky possible, en conduisant un kart personnalise sur les routes publiques ! Les principales attractions du centre-ville en une heure.",
+  "fullDescription": "Il y a le tourisme classique, et il y a filer a travers le centre d'Osaka au niveau de la rue dans un kart personnalise tandis que les pietons vous saluent et que les cameras de telephone se tournent vers vous. C'est l'experience originale de kart de rue : apres un briefing de securite et un equipement au garage, vous suivez votre guide sur les routes publiques d'Osaka en convoi, slalomant a travers le centre-ville sur un itineraire de conduite d'environ une heure qui couvre les principales attractions du centre d'Osaka - les enseignes demesurees et farfelues, les facades lumineuses, et l'energie au bord du canal qui rendent le paysage urbain de la ville different de tout autre endroit au Japon. Conduire un kart au niveau de la route change completement la facon dont la ville vous frappe. Les batiments dominent, les scooters bourdonnent a cote, et chaque passage de pietons devient un petit evenement tandis que les gens s'arretent pour photographier le convoi. Votre guide dirige le groupe tout le long, impose un rythme gerable, et maintient l'itineraire dans la voie amusante mais sure des rues du centre d'Osaka, pour que vous puissiez vous concentrer sur la conduite et le sourire plutot que sur la navigation. Les costumes font partie de la culture de ces visites, et se deguiser transforme la conduite en une seance photo roulante. Une exigence importante : c'est de la vraie conduite sur de vraies routes, vous devez donc avoir un permis de conduire valide au Japon - un permis de conduire international (Convention de Geneve de 1949) pour la plupart des visiteurs - et vous devrez le presenter a l'enregistrement. Si vous avez toujours voulu avoir l'impression d'etre dans la version jeu video d'Osaka, cette experience porte a porte vous offre exactement cela.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "osaka-photography-tour": {
+  "title": "Osaka : options de location de kimono ou yukata et service photo",
+  "metaTitle": "Osaka : location de kimono ou yukata et photos",
+  "metaDescription": "Plongez dans la culture japonaise avec une location de kimono ou yukata a Osaka, parmi 400 a 500 modeles, avec coiffure professionnelle en option.",
+  "shortDescription": "Plongez dans la culture japonaise avec une location de kimono ou yukata a Osaka. Choisissez parmi 400 a 500 modeles, dont des designs inspires des anime, et ajoutez une coiffure professionnelle.",
+  "fullDescription": "Marcher dans les quartiers historiques d'Osaka en kimono change toute la texture d'une journee : les commercants vous saluent differemment, les photos prennent une qualite intemporelle, et les temples et vieilles ruelles de la ville se sentent soudain etre le decor pour lequel ils ont ete batis. Ce service de location pres du coeur d'Osaka rend cette transformation facile et vraiment personnelle, avec une immense garde-robe de 400 a 500 modeles de kimono et yukata au choix - de tout, des motifs classiques aux couleurs saisonnieres aux imprimes modernes audacieux et meme des designs inspires des anime que les jeunes visiteurs adorent. Le personnel vous aide a choisir un modele, puis vous habille correctement dans l'arrangement complet de couches, liens et obi qui font tenir un kimono comme il se doit, quelque chose presque impossible a reussir seul. Des options supplementaires vous permettent de completer le look avec une coiffure professionnelle, transformant l'habillage en une transformation complete avant de sortir. Les options de service s'adaptent a la facon dont vous voulez utiliser la journee : choisissez un yukata plus leger pendant les mois chauds ou un kimono complet pour un temps plus frais et des photos formelles, et ajoutez des services photo si vous voulez des images soignees plutot que des cliches de telephone. Une fois habilles, vous etes libres de vous promener a Osaka pour la journee - les sanctuaires voisins, les galeries commercantes, et les ponts sur le canal font tous de superbes decors. Cela convient aux couples, aux familles, aux groupes d'amis et aux voyageurs solos egalement, et aucune experience du kimono n'est necessaire ; les habilleurs s'occupent de tout. Rendez la tenue a la fin de votre location et rapportez chez vous certaines des photos les plus distinctives de tout votre voyage.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
  "kyoto-kid-friendly-ninja-class-museum": {
   "title": "Cours de ninja pour familles a Kyoto : sarbacanes, etoiles et discretion",
   "metaTitle": "Cours de ninja pour familles a Kyoto",
