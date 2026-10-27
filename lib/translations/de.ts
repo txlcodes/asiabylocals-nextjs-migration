@@ -59222,6 +59222,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persoenliche Gegenstaende (Hut, Sonnenbrille, persoenliche Medikation)"
   ]
  },
+ "nachi-falls-full-day-tour": {
+  "title": "2-taegiger Ausflug auf die Kii-Halbinsel: Nachi-Faelle und Kumano Kodo ab Nagoya",
+  "metaTitle": "Nachi-Faelle und Kumano Kodo ab Nagoya",
+  "metaDescription": "Ein zweitaegiger Ausflug mit Uebernachtung ab Nagoya oder Osaka zu den Nachi-Faellen und den alten Pfaden des Kumano Kodo.",
+  "shortDescription": "Ein zweitaegiger Ausflug mit Uebernachtung ab Nagoya oder Osaka zu den Nachi-Faellen und den alten Pfaden des Kumano Kodo.",
+  "fullDescription": "Die Kii-Halbinsel liegt suedlich von Osaka und Nagoya, ein bergiger, dicht bewaldeter Abschnitt der Praefektur Wakayama, der seit ueber tausend Jahren Pilger anzieht. Dies ist eine Abfahrt mit Uebernachtung ueber zwei Tage statt eines eintaegigen Ausflugs, die Reisenden genug Zeit gibt, tatsaechlich Abschnitte des Kumano Kodo zu gehen, ein Netzwerk alter Pilgerpfade, das als UNESCO-Weltkulturerbe neben dem Camino de Santiago in Spanien eingetragen ist, eine von nur zwei Pilgerrouten mit dieser doppelten Auszeichnung.\n\nDas Herzstueck der Reise sind die Nachi-Faelle, mit 133 Metern einer der hoechsten Einzelstufenwasserfaelle Japans und einer der meistfotografierten, neben der zinnoberroten Pagode des Seiganto-ji-Tempels gelegen, eine Kombination, die seit Generationen auf Postkarten erscheint. Der Reiseplan umfasst auch ein Kostuemerlebnis aus der Heian-Zeit, das Reisenden erlaubt, sich im Stil des klassischen japanischen Kaiserhofs fuer Fotos vor der bewaldeten Kulisse des Pfades zu kleiden, ein Detail, das diese Reise von einem typischen Wasserfall-und-Schrein-Rundgang unterscheidet.\n\nDa dies ein Zweitages-Ein-Nacht-Reiseplan ist, erwarten Sie eine in den Zeitplan eingebaute Uebernachtung und ein insgesamt langsameres Tempo als eine Eintagestour. Abfahrtspunkte sind sowohl von Osaka als auch von Nagoya verfuegbar, bestaetigen Sie also Ihren spezifischen Treffpunkt und die genaue Stoppreihenfolge mit dem Anbieter, dem lokalen Anbieter, zum Zeitpunkt der Buchung, da detaillierte Tag-fuer-Tag-Zeiten nicht mit dieser Auflistung veroeffentlicht wurden.",
+  "highlights": [],
+  "included": [
+   "Transport fuer den 2-taegigen Reiseplan, eine Uebernachtung, Heian-Kostuemverleih fuer Fotos, Kommentar des Guides"
+  ],
+  "notIncluded": [
+   "Einige Mahlzeiten, persoenliche Ausgaben, Reiseversicherung, Trinkgelder"
+  ]
+ },
+ "nagoya-cutting-mini-tour": {
+  "title": "Nagoya Thunfisch-Zerlegeshow und Sushi-Herstellungskurs",
+  "metaTitle": "Thunfisch-Zerlegung und Sushi in Nagoya",
+  "metaDescription": "Sehen Sie eine Live-Thunfisch-Zerlegeshow, dann machen Sie Ihr eigenes Sushi mit unbegrenztem Thunfisch und unbegrenzten Getraenken.",
+  "shortDescription": "Sehen Sie eine Live-Thunfisch-Zerlegeshow, dann machen Sie Ihr eigenes Sushi mit unbegrenztem Thunfisch und unbegrenzten Getraenken.",
+  "fullDescription": "Dieses zweistuendige Erlebnis dreht sich um Maguro Kaitai, die traditionelle Thunfisch-Zerlegeshow, die in altmodischen Sushi-Restaurants in ganz Japan zu finden ist, wo ein ganzer Thunfisch von Hand vor den Gaesten zerlegt wird, die ihn essen werden. Ein ausgebildeter Koch arbeitet sich mit langen Sushi-Messern durch den Fisch und erzaehlt dabei jeden Schnitt und die Anatomie des Thunfischs, eine Vorfuehrung, die sich sowohl als Zerlegekunst als auch als Theater in Restaurants entwickelte, die die Frische dessen beweisen wollten, was serviert werden sollte. Es in Nagoya aus der Naehe zu beobachten, gibt Besuchern ein Stueck kulinarische Tradition, das aelter ist als die Sushi-Laufbaender und Export-Sushi, die die meisten Reisenden bereits kennen.\n\nWenn die Show endet, wird der Fisch zur Mahlzeit. Gaeste wechseln in eine praktische Sushi-Herstellungssitzung, formen ihre eigenen Nigiri und Rollen unter Anleitung mit Thunfisch direkt aus der Zerlegevorfuehrung, was eine direktere Hof-zu-Tisch-, oder in diesem Fall Meer-zu-Tisch-Verbindung ist, als die meisten Kochkurse bieten. Nagoyas kulinarische Identitaet stuetzt sich stark auf regionale Spezialitaeten wie Hitsumabushi und Miso Katsu statt auf Sushi, was dieses thunfischfokussierte Format vom ueblichen kulinarischen Tourismus der Stadt unterscheidet, statt eine Wiederholung dessen zu sein, was in Tokio oder Osaka angeboten wird.\n\nDas Erlebnis ist als unbegrenzter Thunfisch mit unbegrenzten Getraenken fuer die vollen zwei Stunden strukturiert, sodass kein Druck besteht, Bissen waehrend des Sushi-Herstellungsteils zu rationieren. Es eignet sich mehr fuer essensinteressierte Reisende als technische Kochschueler, da der Schwerpunkt auf dem Beobachten geschickter Messerarbeit und dann gutem Essen liegt statt der Beherrschung formeller Sushi-Technik. Kommen Sie hungrig, da das Thunfischschneiden allein typischerweise weit mehr ergibt als ein Standard-Sushi-Kurs.",
+  "highlights": [],
+  "included": [
+   "Live-Thunfisch-Zerlegeshow, praktische Sushi-Herstellungssitzung, unbegrenzter Thunfisch, unbegrenzte Getraenke"
+  ],
+  "notIncluded": [
+   "Hotelabholung und -ruecktransfer, Trinkgelder, zusaetzliches Essen ausserhalb des Thunfisch- und Sushi-Formats"
+  ]
+ },
+ "nagoya-gujo-full-day-tour": {
+  "title": "Gujo, Hida-Takayama und Shirakawa-go: Ganztagesausflug ab Nagoya",
+  "metaTitle": "Gujo, Hida-Takayama und Shirakawa-go ab Nagoya",
+  "metaDescription": "Eine lange ganztaegige Busfahrt ab Nagoya durch drei der geschichtsreichsten Doerfer der japanischen Alpen.",
+  "shortDescription": "Eine lange ganztaegige Busfahrt ab Nagoya durch drei der geschichtsreichsten Doerfer der japanischen Alpen.",
+  "fullDescription": "Nagoya ist Japans viertgroesste Stadt und das industrielle Herz der Chubu-Region, Heimat von Toyotas Hauptsitz im nahen Toyota City, aber eine kurze Busfahrt nach Norden bringt Sie in ein voellig anderes Japan. Dieser Ganztagesausflug startet im Zentrum Nagoyas und reiht drei der geschichtsreichsten Bergsiedlungen der Region aneinander, jede auf ihre eigene unterschiedliche Weise gegen den Zug der modernen Entwicklung erhalten, was einen langen, aber lohnenden Tag weg von der Stadt ergibt.\n\nDie Route beginnt in Gujo, einer Burgstadt, gebaut entlang der klaren Gewaesser des Yoshida-Flusses, die Ihnen eine Stunde zum Umherschlendern gibt, bevor es weiter nach Hida-Takayama geht, einer erhaltenen Haendlerstadt der Edo-Zeit in den japanischen Alpen, bekannt fuer ihre alten Holzladenfronten, Sake-Brauereien, und Morgenmaerkte. Sie haben hier volle zwei Stunden, um ihre lampionbeleuchteten Strassen in Ihrem eigenen Tempo zu erkunden. Der letzte und ikonischste Stopp des Tages ist Shirakawa-go, ein UNESCO-Weltkulturerbedorf aus steilen strohgedeckten Gassho-zukuri-Bauernhaeusern, ueber Jahrhunderte starken Bergschneefalls entwickelt, um das Gewicht des Winterschnees abzuschuetteln.\n\nDies ist ein langer Tag auf der Strasse, mit rund fuenf Stunden Fahrzeit in einen elfstuendigen Reiseplan eingebaut, erwarten Sie also grosszuegige freie Zeit an jedem Stopp statt einer eng gefuehrten Besichtigung. Es eignet sich fuer Reisende, die drei sehr unterschiedliche Gesichter des laendlichen Japan auf einer Reise sehen wollen und sich nicht an einer fruehen Abfahrt und spaeten Rueckkehr nach Nagoya stoeren.",
+  "highlights": [],
+  "included": [
+   "Hin- und Rueckfahrt mit Bus/Reisebus ab Nagoya, englischsprachiger Guide, freie Zeit in Gujo, Hida-Takayama, und Shirakawa-go"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke, persoenliche Ausgaben, Hotelabholung ausserhalb des bezeichneten Treffpunkts, Trinkgelder"
+  ]
+ },
+ "nagoya-nakasendo-guided-tour": {
+  "title": "3-taegige Reise auf dem Nakasendo-Pfad und den Nagano-Hochebenen: Nagoya nach Kawagoe",
+  "metaTitle": "3-Tage-Reise Nagoya-Kawagoe auf dem Nakasendo",
+  "metaDescription": "Eine gefuehrte dreitaegige Reise von Nagoya nach Kawagoe durch historische Poststaedte, Bergschreine, und die Nagano-Hochebenen.",
+  "shortDescription": "Eine gefuehrte dreitaegige Reise von Nagoya nach Kawagoe durch historische Poststaedte, Bergschreine, und die Nagano-Hochebenen.",
+  "fullDescription": "Diese dreitaegige Reise folgt einer Route, die die meisten Reisenden komplett auslassen: der alte Nakasendo-Pfad, der Nagoya mit den Bergen Zentraljapans verbindet und weiter nach Kawagoe nahe Tokio fuehrt. Der Nakasendo war eine der fuenf grossen Strassen der Edo-Zeit, die Kyoto und Edo durch das Landesinnere statt die Kueste verband, und Narai-juku ist eine ihrer am besten erhaltenen Poststaedte, ein Streifen hoelzerner Haendlerhaeuser und Gasthaeuser, die einst Reisenden Unterschlupf boten, die vor Jahrhunderten zu Fuss die gleiche Ueberquerung machten. Heute ihre Hauptstrasse zu gehen, fuehlt sich weniger wie ein Museum an und mehr wie eine Stadt, die einfach weiter im selben Stil baute.\n\nVon Narai-juku fuehrt die Route weiter nach Matsumoto, Heimat eines der aeltesten erhaltenen originalen Schlosstuerme Japans, und dann nach Nagano, der Stadt, die die Olympischen Winterspiele 1998 ausrichtete und ein Tor zu den japanischen Alpen bleibt. Die Reise umfasst auch Togakushi, ein Berggebiet, das lange mit Shugendo verbunden ist, Japans bergasketischer religioeser Tradition, und mit einem Netzwerk von Schreinen, die aelter sind als die meisten Edo-Zeit-Staedte, die frueher auf der Reise gesehen wurden. Diese Stopps in Reihenfolge zu durchlaufen, zeichnet einen echten historischen Korridor nach statt einer Liste unzusammenhaengender Highlights, und die Berglandschaft der Praefektur Nagano aendert sich merklich von Nagoyas urbanem, industriellem Charakter.\n\nDie Reise endet in Kawagoe, einer gut erhaltenen Haendlerstadt der Edo-Zeit direkt ausserhalb Tokios, bekannt fuer ihre lehmverputzten Kurazukuri-Lagerhaeuser, was die drei Tage zu einem echten Kueste-zu-Berge-zu-Tokio-Rand-Transit macht statt einer Schleife zurueck zum Startpunkt. Mit 72 Stunden ueber drei Tage eignet sich dies fuer Reisende, die eine tiefe, ungehetzte Immersion in laendliches und kleinstaedtisches Japan wollen, die zwei grosse Staedte ueber eine historische Inlandroute statt den Shinkansen verbindet.",
+  "highlights": [],
+  "included": [
+   "Gefuehrte dreitaegige Reise mit einem lokalen Guide, Route durch Narai-juku, Matsumoto, Nagano, Togakushi und Kawagoe, Transport zwischen jedem Stopp"
+  ],
+  "notIncluded": [
+   "Unterkunft fuer die drei Naechte, alle Mahlzeiten, Eintrittsgebuehren zu Schloessern und Museen, persoenliche Ausgaben und Trinkgelder"
+  ]
+ },
+ "nagoya-tv-tower-evening-tour": {
+  "title": "Nagoya bei Nacht: Fernsehturm und Sky Promenade Spaziergang",
+  "metaTitle": "Nagoya bei Nacht: Fernsehturm",
+  "metaDescription": "Abendlicher Spaziergang zum Nagoya-Fernsehturm und zur Sky Promenade fuer Panoramanachtblicke ueber die Stadt.",
+  "shortDescription": "Abendlicher Spaziergang zum Nagoya-Fernsehturm und zur Sky Promenade fuer Panoramanachtblicke ueber die Stadt.",
+  "fullDescription": "Waehrend sich die Daemmerung ueber Chubus groesste Stadt legt, tauscht Nagoyas Skyline ihr industrielles Tagesbrummen gegen eine ruhigere, glitzernde Eleganz, und dieser Abendspaziergang in kleiner Gruppe ist um diesen Wandel herum aufgebaut. Sie treffen Ihren Guide bei Oasis 21, dem Glas-und-Stahl-'Wasserraumschiff'-Platz in Sakae, bevor Sie zum Nagoya-Fernsehturm wechseln, Japans aeltestem freistehendem Fernsehturm, 1954 fertiggestellt und nun ein eingetragenes materielles Kulturgut, das ruhig neben seinem modernen Glasnachbarn steht.\n\nVon den Aussichtsebenen des Turms zeigt der Guide, wie sich Nagoyas Raster darunter entfaltet: der breite Hisaya-odori-Boulevard, der ferne Schein der beleuchteten Mauern des Nagoya-Schlosses, und die Fabriken und Hafenkraene, die diese Stadt zu Japans viertgroesster und dem industriellen Herz der Chubu-Region machen, Heimat von Toyota und einem Grossteil der Luft- und Raumfahrt- und Werkzeugmaschinenfertigung des Landes. Eine kurze U-Bahn-Fahrt bringt die Gruppe dann zur Sky Promenade im Midland Square, einem der hoechsten Tuerme der Stadt, fuer einen zweiten, hoeheren Aussichtspunkt, wo sich die Stadtlichter zu den Bergen erstrecken.\n\nUnterwegs webt der Guide lokale Geschichte und den Alltag Nagoyas ein, statt nur Fakten ueber die Gebaeude selbst, sodass sich der Spaziergang mehr wie eine Fuehrung durch einen Freund anfuehlt als das Befolgen eines festen Skripts. Die Tour endet nahe der beruehmten Goldenen Uhr im Stadtzentrum und laesst Sie in bequemer Gehdistanz zu Sakaes Restaurants und Bars, falls Sie die Nacht fortsetzen moechten. Sie laeuft trotz leichtem Regen und ist eine entspannte, gesellige Art, eine Seite Nagoyas zu sehen, die die meisten Tagesausfluegler komplett verpassen.",
+  "highlights": [],
+  "included": [
+   "Englischsprachiger lokaler Guide, Eintritt zur Aussichtsplattform des Nagoya-Fernsehturms, Eintritt zur Sky Promenade im Midland Square, U-Bahn-Fahrpreis zwischen den Stopps"
+  ],
+  "notIncluded": [
+   "Hotelabholung und -ruecktransfer, Essen und Getraenke, persoenliche Ausgaben, Trinkgelder"
+  ]
+ },
+ "nara-asuka-ebike-tour-ishibutai-megaliths": {
+  "title": "Asuka per E-Bike: Reisterrassen, das Ishibutai-Grab und Naras seltsamste Steine",
+  "metaTitle": "Asuka per E-Bike",
+  "metaDescription": "E-Bikes durch das Land, wo der japanische Staat begann, Grabkammern, geschnitzte Megalithen, die niemand vollstaendig erklaeren kann, und keine Menschenmengen.",
+  "shortDescription": "E-Bikes durch das Land, wo der japanische Staat begann, Grabkammern, geschnitzte Megalithen, die niemand vollstaendig erklaeren kann, und ueberhaupt keine Menschenmengen.",
+  "fullDescription": "Asuka ist, wo Japan begann, und fast niemand geht hin. Vor Nara und lange vor Kyoto beherbergte dieses Tal in den Huegeln suedlich der Stadt Nara den kaiserlichen Hof, nahm den Buddhismus vom Kontinent auf, und brachte den ersten erkennbaren japanischen Staat hervor. Es wurde vor kurzem als UNESCO-Weltkulturerbe eingetragen, und sieht immer noch wie Ackerland aus, terrassierte Reisfelder, hoelzerne Bauernhaeuser, niedrige Huegel, und Steindenkmaeler, die in Feldern stehen, ohne dass jemand um sie herum ist.\n\nE-Bikes sind hier das richtige Werkzeug. Die Entfernungen zwischen den Staetten sind wenige Kilometer und das Gelaende rollt staendig; die elektrische Unterstuetzung ebnet es, sodass Sie die Fahrt damit verbringen, die Landschaft zu betrachten statt Ihre eigenen Knie. Sie holen die Fahrraeder am Treffpunkt im Dorf Asuka und fahren durch die Reisfelder.\n\nDer Ishibutai-Kofun ist das Herzstueck: eine Grabkammer aus dem siebten Jahrhundert, deren Erdhuegel weggewittert ist und die megalithischen Steine vollstaendig freilegte. Der Deckstein allein wiegt etwa siebzig Tonnen, und Sie gehen hinein. Niemand ist sicher, wer dort begraben liegt, obwohl die vorherrschende Theorie auf Soga no Umako hinweist.\n\nDie seltsameren Stopps kommen danach. Kame-ishi, der Schildkrotenstein, und Sakafune-ishi, der Sake-Schiff-Stein, sind geschnitzte Granitobjekte, deren Zweck wirklich unbekannt ist, Theorien reichen von astronomischen Instrumenten ueber rituelle Gefaesse bis zu Gartenornamenten, und keine davon ist geklaert. Ihr Guide gibt Ihnen die konkurrierenden Argumente statt einer ordentlichen Antwort, was ehrlicher und erheblich interessanter ist.\n\nGruppen sind auf fuenfzehn begrenzt. Grundlegende Radfahrfaehigkeiten reichen aus. Der Reiz hier ist die Abwesenheit anderer Menschen, also wenn Kyoto Sie erschoepft hat, ist dies das Gegenmittel.",
+  "highlights": [],
+  "included": [
+   "Elektrisch unterstuetztes Fahrrad fuer die Fahrt, englischsprachiger lokaler Guide, gefuehrte Route durch die Landschaft Asukas und ihre megalithischen Staetten"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke, Stätteneintrittsgebuehren sofern erhoben, Transport zum Treffpunkt, Hotelabholung und -ruecktransfer"
+  ]
+ },
  "nagoya-takoyaki-cooking-class": {
   "title": "Takoyaki von Grund auf in Nagoya: Teig, Octopus und der Dreh",
   "metaTitle": "Takoyaki-Kochkurs in Nagoya",
