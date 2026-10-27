@@ -60021,6 +60021,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
   ]
  },
+ "osaka-sukiyaki-guided-tour": {
+  "title": "Osaka Sumo-Show mit Plaetzen in der ersten Reihe und Wagyu-Sukiyaki",
+  "metaTitle": "Osaka Sumo-Show mit Sukiyaki",
+  "metaDescription": "Eine Live-Sumo-Vorfuehrung von garantierten Plaetzen in der ersten Reihe, mit einem Premium-Wagyu-Sukiyaki-Abendessen und einem Kimono-Erlebnis.",
+  "shortDescription": "Geniessen Sie eine Live-Sumo-Vorfuehrung von garantierten Plaetzen in der ersten Reihe, nah genug, um die Mimik der Ringer zu sehen, mit einem Premium-Wagyu-Sukiyaki-Abendessen, optionalen passenden Getraenken, und einem Kimono-Erlebnis.",
+  "fullDescription": "Die meisten Sumo-Erlebnisse platzieren Sie irgendwo in der Menge; dieses garantiert Ihnen einen Platz in der ersten Reihe, nah genug, um die Mimik der Ringer zu sehen, den Aufprall jedes Zusammenstosses zu hoeren, und den Boden beben zu fuehlen, wenn zwei Rikishi kollidieren. Veranstaltet von OCHIIZUMIBEYA, dem Team hinter Osakas Sumo-Unterhaltungsshows, kombiniert der Abend eine Live-Sumo-Vorfuehrung mit einem Premium-Wagyu-Sukiyaki-Abendessen, sodass Sie eines der gefeiertsten Gerichte Japans essen, waehrend sich der Sport wenige Meter vor Ihnen entfaltet. Die Show selbst ist fuer Besucher gemacht: die Rituale, das Salzwerfen, das Stampfen, und die Kaempfe werden alle erklaert, waehrend sie passieren, sodass Sie nicht nur das Spektakel, sondern auch die Bedeutung dahinter verfolgen - warum die Ringer jede Bewegung ausfuehren, wie ein Kampf gewonnen wird, und wie das Leben im Sumo tatsaechlich aussieht. Das Sukiyaki ist authentisch, duenn geschnittenes Wagyu, am Tisch in suesser Sojabruehe geschmort, und optionale passende Getraenke sind verfuegbar, wenn Sie einen vollen Abend daraus machen wollen. Ein Kimono-Erlebnis rundet das Programm ab und gibt Ihnen die Chance, traditionelle Kleidung anzuziehen und Fotos in einer Umgebung zu machen, die japanischer kaum sein koennte. Mit einer Dauer von etwa zweieinhalb Stunden ist das Format kompakt genug, um in einen Osaka-Abend zu passen und sich trotzdem wie ein komplettes Ereignis anzufuehlen: Abendessen, Show, Teilnahme, und Fotos in einer Sitzung. Plaetze in der ersten Reihe sind naturgemaess begrenzt, was genau der Punkt ist - dies ist die Version der Sumo-Show fuer Leute, die den ungehinderten Blick und die besten Plaetze im Haus wollen. Die Treffpunktdetails in Osaka werden bei der Buchung mit dem Anbieter bestaetigt.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "osaka-sumo-guided-tour": {
+  "title": "Plan nur Sumo-Erlebnis",
+  "metaTitle": "Nur Sumo-Erlebnis in Osaka",
+  "metaDescription": "Eine 45-minuetige Live-Sumo-Show mit interaktivem Erlebnis, Fotosession und Kimono-Anprobe, ohne Mahlzeit.",
+  "shortDescription": "Eine 45-minuetige Live-Sumo-Show mit interaktivem Erlebnis, Fotosession und Kimono-Anprobe. Plan nur mit Eintrittsgebuehr, ohne Mahlzeit, ideal fuer einen schnellen Vorgeschmack auf die Sumo-Kultur.",
+  "fullDescription": "Nicht jeder Zeitplan hat Platz fuer eine volle Dinner-Show, und dieser 45-minuetige Plan von OCHIIZUMIBEYA ist die Antwort: die komplette Live-Sumo-Show und das interaktive Erlebnis, ohne die Mahlzeit, zu einem reinen Eintrittspreis. Es ist bewusst der schnelle, zugaengliche Vorgeschmack auf die Sumo-Kultur - ideal, wenn Sie es zwischen andere Osaka-Plaene schieben, mit knappem Budget reisen, oder einfach lieber anderswo essen und nur fuer den Sport kommen. Kompakt heisst nicht verwaessert. Der Kern des Programms ist alles hier: eine Live-Sumo-Show vor Ihnen aufgefuehrt, mit den Ritualen, die dem Sport sein Gewicht geben - das Stampfen, das Salz, die zeremoniellen Vorbereitungen - gefolgt von echten Kaempfen, bei denen der Aufprall zweier kollidierender Ringer mit einer Kraft landet, auf die kein Video Sie vorbereitet. Die Show wird so praesentiert, dass Besucher ihr folgen koennen, mit der Bedeutung hinter jeder Bewegung erklaert, sodass Sie mit Verstaendnis fuer das Gesehene gehen statt es nur gesehen zu haben. Dann bringt der interaktive Teil das Publikum mit ein und gibt Ihnen die Chance, direkt mit den Ringern zu interagieren statt aus der Distanz zu beobachten - der Teil, ueber den Gaeste anschliessend am meisten reden. Eine Fotosession laesst Sie die Begegnung mit dem Rikishi festhalten, und eine Kimono-Anprobe rundet das Kulturpaket ab, sodass Sie sich vor dem Gehen fuer Fotos in traditionelle Kleidung kleiden. In deutlich weniger als einer Stunde bekommen Sie Show, Teilnahme, Fotos, und Kimono - ein bemerkenswert vollstaendiger Ausschnitt japanischer Sportkultur fuer die investierte Zeit. Die Treffpunktdetails am Veranstaltungsort in Osaka werden bei der Buchung mit dem Anbieter bestaetigt. Wenn Sie den vollen Abend mit Abendessen wollen, gibt es dafuer die groesseren Plaene des Anbieters; wenn Sie Sumo selbst wollen, destilliert, ist dies der richtige.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "osaka-superhero-guided-tour": {
+  "title": "SuperHero Kart Osaka Tour S",
+  "metaTitle": "SuperHero Kart Osaka Tour S",
+  "metaDescription": "Eine gefuehrte Strassen-Kart-Fahrt durch das Zentrum von Osaka, durch Amerikamura, Shinsaibashi, Dotonbori und Namba im Kostuem.",
+  "shortDescription": "Eine gefuehrte Strassen-Kart-Fahrt durch das Zentrum von Osaka, durch Amerikamura, Shinsaibashi, Dotonbori und Nambas Unterhaltungsviertel, im Kostuem.",
+  "fullDescription": "Es gibt Wege, Osakas Unterhaltungsviertel zu sehen, und dann gibt es, sie in einem Go-Kart im Kostuem zu durchfahren, waehrend Fussgaenger winken und Kameras herausgeholt werden. Die SuperHero Kart Osaka Tour S ist eine einstuendige gefuehrte Strassen-Kart-Fahrt durch das eigentliche Zentrum der Stadt, die sich durch Amerikamura, Shinsaibashi, Dotonbori, und Nambas Unterhaltungsviertel schlaengelt - den dichtesten, neon-getraenktesten Abschnitt Osakas - hinter dem Lenkrad eines echten strassenzugelassenen Karts. Die Route ist der Star. Amerikamura ist Osakas Jugendkulturviertel, voller Streetwear-Laeden und Wandmalereien; Shinsaibashi bringt die langen Einkaufspassagen und den Glanz der Kaufhaeuser; und dann liefert die Fahrt durch das Dotonbori- und Namba-Gebiet das Postkarten-Osaka - riesige beleuchtete Schilder, Menschenmengen, und Spektakel am Kanal - auf Strassenniveau und in Bewegung, ein Blickwinkel, den keine Fussgaengertour Ihnen geben kann. Kostueme sind Teil des Formats, sodass Ihr Konvoi im Charakter durch alles rollt, was genau erklaert, warum Strassenkarting eine der meistfotografierten Aktivitaeten Japans geworden ist: Sie schauen nicht nur dem Spektakel zu, Sie sind kurz das Spektakel selbst. Ein Guide fuehrt den Konvoi durchgehend, setzt das Tempo, navigiert die Route, und haelt die Gruppe im Stadtverkehr zusammen, sodass Sie sich aufs Fahren und Grinsen konzentrieren koennen. Mit einer Stunde ist das Tour-S-Format die kompakte Version - lang genug, um die beruehmten Viertel abzudecken, kurz genug, um zwischen Mahlzeiten oder vor einer Nacht draussen zu passen. Beachten Sie den praktischen Aspekt: Dies ist echtes Fahren auf oeffentlichen Strassen, daher ist ein in Japan anerkannter gueltiger Fuehrerschein erforderlich, und die Details werden bei der Buchung mit dem Anbieter, Street Karts Osaka-Reservierungszentrum, bestaetigt. Als Weg, die Durchfahrt durch Osakas hellste Strassen zum Hoehepunkt der Reise zu machen, ist eine Stunde im Kart schwer zu schlagen.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "osaka-traditional-cultural-tour": {
+  "title": "Samurai- und traditionelle Kultur in vollen Zuegen erleben",
+  "metaTitle": "Samurai- und traditionelle Kultur erleben",
+  "metaDescription": "180 Minuten volle Immersion in Zen und Bushido: Samurai-Kalligrafie, Teezeremonie, Schwert, Ruestung und Foto an der Burg Osaka.",
+  "shortDescription": "180 Minuten / Vollstaendiges Lern-Set-Plan fuer Zen und Bushido\n- Samurai-Kalligrafie-Erlebnis\n- Teezeremonie\n- Iaido/Samurai-Schwert\n- Samurai-Ruestung\n- Fotos auf dem Gelaende der Burg Osaka",
+  "fullDescription": "Dies ist keine Kulturshow, die man vom Sitz aus beobachtet; es ist eine 180-minuetige, praktische Immersion in die beiden Zwillingsdisziplinen, die den Samurai formten: Zen-Verfeinerung und Bushido-Praxis. Durchgefuehrt als voller Set-Plan von einem auf Samurai-Kultur spezialisierten Unternehmen, fuehrt Sie das Erlebnis durch fuenf verbundene Aktivitaeten an einem einzigen Nachmittag. Sie beginnen mit Samurai-Kalligrafie, mahlen Tinte und lernen die Pinselstriche, die Krieger verwendeten, da Belesenheit in Poesie und Schrift als ebenso wesentlich fuer einen Samurai galt wie die Schwertkunst. Eine traditionelle Teezeremonie folgt und lehrt die bedachte, meditative Etikette, die Generaele zwischen Feldzuegen praktizierten. Dann beginnt die kaempferische Haelfte: eine Iaido-Session fuehrt Sie in das Samurai-Schwert selbst ein - wie es gezogen, geschnitten, und in den glatten, kontrollierten Formen, die die Kunst definieren, wieder eingesteckt wird. Als Naechstes werden Sie Schicht fuer Schicht in echte Samurai-Ruestung gekleidet, und einmal vollstaendig ausgeruestet, gipfelt das Erlebnis in einer Fotosession auf dem Gelaende der Burg Osaka, die Ruestung glaenzend mit dem grossen Burgturm hinter Ihnen - genau der Hintergrund, wo die Toyotomi-Samurai vor vier Jahrhunderten ihren letzten Stand machten. Da alles in einem nahtlosen dreistuendigen Block passiert, erhalten Sie ein ungewoehnlich vollstaendiges Bild des Samurai-Lebens: den Gelehrten, den Gastgeber, den Schwertkaempfer, und den Krieger in Ruestung, alles mit Ihren eigenen Haenden erlebt statt aus der Distanz beobachtet. Es passt zu Paaren, Familien, und allen, die ihre Japanreise um ein tiefes kulturelles Erlebnis statt fuenf oberflaechliche ergaenzen wollen.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "osaka-treasures-guided-tour": {
+  "title": "Tour zu geheimen Orten und lokalen Schaetzen",
+  "metaTitle": "Geheime Orte und lokale Schaetze in Osaka",
+  "metaDescription": "Eine 3,5-stuendige Gehtour von den Mauern der Burg Osaka zu den Neonstrassen von Dotonbori, durch versteckte Gassen und lokale Lieblingsrestaurants.",
+  "shortDescription": "Eine 3,5-stuendige Gehtour von den Mauern der Burg Osaka zu den Neonstrassen von Dotonbori, durch versteckte Gassen und lokale Lieblingsrestaurants auf dem Weg.",
+  "fullDescription": "Die Burg Osaka und Dotonbori stehen auf der Liste jedes Besuchers, aber die Stadt zwischen ihnen ist dort, wo Osaka tatsaechlich lebt, und genau dieses Dazwischen ist das eigentliche Thema dieser dreieinhalbstuendigen Gehtour. Die Route spaziert von den Mauern der Burg Osaka zu den Neonstrassen von Dotonbori, aber statt die direkte Linie zu nehmen, schlaengelt sie sich durch versteckte Gassen und vorbei an lokalen Lieblingsrestaurants - den geheimen Orten und lokalen Schaetzen des Titels - sodass die zwei beruehmten Endpunkte eine Mitte einrahmen, die die meisten Reisenden nie sehen. Der Start an der Burg gibt dem Spaziergang seinen historischen Anker: die Steinmauern und Graeben der Festung, die die Stadt formte, erfasst mit einem Guide, der erklaeren kann, was Sie sehen. Von dort taucht die Tour in die Hinterstrassen ein, und hier verdient sich ein lokaler Guide seinen Wert - die engen Gassen, versteckten Schreine, alten Einkaufspassagen, und winzigen Restaurants, die Einheimische fuer sich bewahren, jedes mit einer eigenen Geschichte. Die unterwegs gezeigten Restaurants dienen gleichzeitig als laufende kulinarische Karte der Stadt; am Ende haben Sie eine persoenliche Shortlist von Orten, zu denen Sie zurueckkehren koennen, die kein Algorithmus je aufgespuert haette. Der Spaziergang endet inmitten des Neons von Dotonbori, und durch die Hinterstrassen anzukommen veraendert, wie das beruehmte Viertel wirkt - weniger eine ueberwaeltigende Wand aus Schildern, mehr das laute Finale einer Stadt, die Sie gerade Strasse fuer Strasse kennengelernt haben. Mit 3,5 Stunden bleibt das Tempo entspannt, mit Zeit zum Verweilen, Fotografieren, und Fragenstellen durchgehend. Fuer Reisende, die die Hauptsehenswuerdigkeiten erledigt haben und das Bindegewebe der Stadt fuehlen wollen - dies ist ein wirklich lokaler Weg, Osaka zu Fuss zu durchqueren. Die Treffpunktdetails werden bei der Buchung mit dem Anbieter bestaetigt.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "osaka-walking-full-day-tour": {
+  "title": "Private Ganztages-Gehtour durch Osaka",
+  "metaTitle": "Private Ganztages-Gehtour durch Osaka",
+  "metaDescription": "Erleben Sie eine private Ganztages-Gehtour durch Osaka mit Best Adventure Kansai, einem verifizierten Osaka-Tourveranstalter.",
+  "shortDescription": "Erleben Sie eine private Ganztages-Gehtour durch Osaka mit Best Adventure Kansai, einem verifizierten Osaka-Tourveranstalter.",
+  "fullDescription": "Die meisten Gehtouren geben Ihnen ein Viertel; eine private Ganztages-Gehtour gibt Ihnen den ganzen Bogen Osakas, und es privat zu tun bedeutet, dass der Tag ab dem ersten Schritt um Sie herum gestaltet wird. Dieses Erlebnis verbindet Ihre Gruppe mit einem professionellen lokalen Guide fuer einen vollen Tag zu Fuss - das Format, das eine Stadt am besten offenbart, weil alles zwischen den Sehenswuerdigkeiten sichtbar bleibt statt an einem Zugfenster vorbeizuflitzen. Die private Struktur ist das, was dies vom Beitritt zu einer Gruppe unterscheidet. Der Tag beginnt mit Ihren Interessen: Geschichte, Essen, Maerkte, Tempel, Viertel, Fotografie - welche Mischung Sie auch wollen, Ihr Guide baut die Route dazu passend, und gestaltet sie live um, waehrend der Tag sich entfaltet. Ein Viertel gefunden, das Sie lieben? Bleiben Sie laenger. Fuesse brauchen eine Pause? Das Tempo passt sich an. Neugierig auf etwas auf der anderen Strassenseite? Fragen Sie - es gibt keinen Gruppenkonsens zu verhandeln, und jede Antwort ist fuer Sie. Gehen ist auch einfach die richtige Geschwindigkeit fuer Osaka, eine Stadt, deren Charakter auf Strassenniveau lebt: die Einkaufspassagen, die Schreintore zwischen Bueroanlagen gezwaengt, die Essensstaende und Marktbuden, der Stimmungswechsel von einem Viertel zum naechsten. Ein lokaler Guide verwandelt all das in eine laufende Erzaehlung davon, wie die Stadt funktioniert und wie Osakaner tatsaechlich darin leben. Ueber einen vollen Tag decken Sie ernsthaften Boden ab - mit natuerlichen Pausen fuer Mahlzeiten und Erholung eingebaut - und enden mit der Art mentaler Karte von Osaka, die normalerweise eine Woche Alleinwandern braucht, um sie zu erwerben. Alle im Programm genannten Gebuehren sind abgedeckt; Mahlzeiten und persoenliche Ausgaben sind Ihre eigenen, was in der Kueche Japans eine Chance statt einer Kosten ist. Die Treffpunktdetails in Osaka werden bei der Buchung mit dem Anbieter bestaetigt.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
  "kyoto-kid-friendly-ninja-class-museum": {
   "title": "Ninja-Kurs für Familien in Kyoto: Blasrohre, Sterne und Tarnung",
   "metaTitle": "Ninja-Kurs für Familien in Kyoto",
