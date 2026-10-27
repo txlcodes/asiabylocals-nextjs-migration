@@ -59685,6 +59685,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Fotografieservice (nur Selbstaufnahme), Transport nach Naramachi"
   ]
  },
+ "naramachi-premium-tour": {
+  "title": "Premium-Kimono-Verleih in Nara fuer zwei, wenige Schritte vom Bahnhof Kintetsu Nara",
+  "metaTitle": "Premium-Kimono-Verleih fuer zwei in Nara",
+  "metaDescription": "Premium-Kimono-Verleih und Ankleidung fuer einen Mann und eine Frau zusammen, ein Preis fuer das Paar.",
+  "shortDescription": "Premium-Kimono-Verleih und Ankleidung fuer einen Mann und eine Frau zusammen, ein Preis fuer das Paar, nicht pro Person.",
+  "fullDescription": "Preislich fuer zwei Personen zusammen kalkuliert, ist dies Minoris Premium-Kimono-Plan fuer einen Mann und eine Frau - der angegebene Preis deckt das Paar, nicht jede Person einzeln, sodass ein Paar einmal buchen muss. Es handelt sich um einen Verleih- und Ankleideservice, nicht um eine Tour: Das Personal kleidet Sie an, und der Rest des Tages gehoert Ihnen.\n\nJeder waehlt aus der Premium-Linie und erhaelt ein komplettes Set - Kimono, schmaler Obi, Tabi-Socken, Zori-Sandalen, eine Tasche und Haarschmuck - mit einfacher Haargestaltung fuer Frauen inklusive. Das Geschaeft verlangt nichts zusaetzlich fuer die Abstimmung, und es gibt keinen Druck, vor Ort auf einen hoeheren Plan zu wechseln.\n\nMinori befindet sich im Erdgeschoss in 43-1 Takama-cho, etwa dreissig Sekunden vom Ausgang 7S des Bahnhofs Kintetsu Nara und dreizehn Gehminuten vom Bahnhof JR Nara entfernt. Diese Lage ist das praktische Argument fuer den Plan: Einmal angekleidet, sind Sie zehn Gehminuten vom Nara-Park entfernt, wo mehr als tausend wilde Sika-Hirsche frei umherziehen, geschuetzt als Shinto-Boten und als Nationales Naturdenkmal. Zwischen Geschaeft und Park liegen die engen Kaufmannsgassen aus der Edo-Zeit von Naramachi mit Machiya-Haeusern und kleinen Cafes, wo die meisten Paare ihre eigenen Fotos machen. Kofukuji, Gangoji, Todaiji und Kasuga Taisha - letzterer 768 gegruendet und mit tausenden gespendeten Laternen behangen - sind alle auf demselben Spaziergang erreichbar.\n\nZwei Hinweise vor der Buchung: Fotografie ist in keinem Verleihplan enthalten; Minori verkauft Fotosessions als separate Produkte, bringen Sie also Ihre eigene Kamera mit oder buchen Sie eine davon. Und der Anbieter veroeffentlicht keine Rueckgabe- oder Verleihendzeit, vereinbaren Sie diese direkt mit dem Geschaeft bei der Buchung. Preise auf der Seite des Anbieters sind vor der japanischen Verbrauchssteuer angegeben. In den Sommermonaten wird die Premium-Linie als Yukata ausgegeben, die unfutterierte Baumwollversion, statt eines gefutterten Kimonos.",
+  "highlights": [],
+  "included": [
+   "Premium-Kimono fuer Mann/Frau (Sommer: Yukata); schmaler Obi (Kimono-Guertel); einfache Haargestaltung fuer Frauen; Kimono-Zubehoerverleih - vollstaendige Abstimmung inklusive Tasche, Schuhe, Socken und Haarschmuck."
+  ],
+  "notIncluded": [
+   "Verbrauchssteuer (alle Preise sind zzgl. Steuer angegeben). Fotografie ist in den Verleihplaenen nicht enthalten (siehe die separaten Photo-Plan-Produkte). Nichts anderes wird angegeben."
+  ]
+ },
+ "naramachi-professional-mini-tour": {
+  "title": "Sommer-Yukata-Verleih in Nara mit professioneller Ankleidung",
+  "metaTitle": "Sommer-Yukata-Verleih in Nara",
+  "metaDescription": "Sommer-Yukata-Verleih pro Person mit Nagoya-Obi und professioneller Ankleidung, eine Minute vom Bahnhof Kintetsu Nara.",
+  "shortDescription": "Sommer-Yukata-Verleih pro Person, Nagoya-Obi und professionelle Ankleidung, eine Minute vom Bahnhof Kintetsu Nara.",
+  "fullDescription": "Ein Yukata ist ein unfutterierter Baumwollkimono fuer heisses Wetter, und dieser Plan ist Minoris Sommerlinie - realistisch ein Produkt von Juni bis September. Buchen Sie ihn nicht in der Erwartung eines gefutterten Winterkimonos; wer Nara ausserhalb der warmen Monate besucht, sollte das Geschaeft nach seinen Standard-Kimono-Plaenen fragen. Innerhalb seiner Saison ist der Reiz klar: Baumwolle atmet, die Lagen sind leichter als formelle Seide, und man kann einen ganzen Nachmittag in der Hitze von Nara laufen, ohne zu ermatten. Der Preis gilt pro Person, sodass Freunde, Alleinreisende und Familien jeweils einzeln buchen.\n\nDas Set ist vollstaendig statt reduziert: Sie waehlen aus der Premium-Linie und werden vom Personal mit einem hochwertigen Nagoya-Obi, Tabi-Socken, Zori, einer Tasche und Haarschmuck angekleidet, mit einfacher Haargestaltung fuer Frauen inklusive. Die professionelle Ankleidung ist den Preis wert, denn ein Obi laesst sich schwer selbst binden, und ein lockerer loest sich innerhalb einer Stunde Gehens. Das Geschaeft liegt im Erdgeschoss in 43-1 Takama-cho, eine Minute vom Ausgang 7S des Bahnhofs Kintetsu Nara.\n\nWohin es danach geht, ist Ihre eigene Entscheidung - niemand fuehrt Sie. Der Nara-Park ist zehn Gehminuten entfernt, Heimat von mehr als tausend wilden Sika-Hirschen, geschuetzt als Boten der Shinto-Goetter und 1957 als Nationales Naturdenkmal ausgewiesen. Die Kaufmannsstrassen aus der Edo-Zeit von Naramachi liegen zwischen Geschaeft und Park, und Kofukuji, Gangoji, Todaiji und Kasuga Taisha, deren Bezirk aus dem Jahr 768 mit gespendeten Laternen behangen ist, sind alle an einem Nachmittag in der Stadt erreichbar, die ab 710 Japans erste dauerhafte Hauptstadt war. Fotografie ist in den Verleihplaenen nicht enthalten, Preise schliessen die Verbrauchssteuer aus, und keine Rueckgabezeit wird veroeffentlicht - vereinbaren Sie eine mit dem Geschaeft. Da der Anbieter Yukata innerhalb seiner Premium-Kimono-Linie auffuehrt, bestaetigen Sie bei der Buchung das genaue Kleidungsstueck.",
+  "highlights": [],
+  "included": [
+   "Premium-Kimono fuer Mann/Frau (Sommer: Yukata); hochwertiger Nagoya-Obi; einfache Haargestaltung fuer Frauen; Kimono-Zubehoerverleih - vollstaendige Abstimmung inklusive Tasche, Schuhe, Socken und Haarschmuck."
+  ],
+  "notIncluded": [
+   "Verbrauchssteuer (alle Preise sind zzgl. Steuer angegeben). Fotografie ist in den Verleihplaenen nicht enthalten (siehe die separaten Photo-Plan-Produkte). Nichts anderes wird angegeben."
+  ]
+ },
+ "osaka-brokenness-guided-tour": {
+  "title": "Osaka: Kintsugi-Workshop, Schoenheit im Zerbrochenen",
+  "metaTitle": "Osaka: Kintsugi-Workshop",
+  "metaDescription": "Lernen Sie Kintsugi im Atelier eines Handwerkers und reparieren Sie Keramik mit Lack und Goldpulver.",
+  "shortDescription": "Lernen Sie die Kunst des Kintsugi im Atelier eines Handwerkers. Reparieren Sie zerbrochene Keramik mit Lack und Goldpulver.",
+  "fullDescription": "Kintsugi ist die japanische Technik, zerbrochene Keramik mit Lack und Goldpulver zu reparieren, und dieser dreistuendige Workshop laesst Sie dies selbst im Atelier eines aktiven Handwerkers in Osaka ausueben, statt nur eine Vorfuehrung zu beobachten. Die Philosophie hinter der Technik ist es, was bei den Teilnehmern haengen bleibt: Statt einen Riss zu verstecken, zeichnet Kintsugi ihn in Gold nach und behandelt den Bruch als Teil der Geschichte des Objekts statt als zu verschleiernden Makel. Ihr Lehrer fuehrt Sie Schritt fuer Schritt durch den Prozess - Vorbereitung der zerbrochenen Keramik, Auftragen des Lacks entlang der Bruchlinien, dann Bestaeuben der Naehte mit Goldpulver, sodass die Reparatur gegen die Glasur glaenzt. Da Sie in einem echten Atelier mit einem Profi an Ihrer Seite arbeiten, bleibt das Tempo entspannt und praktisch, und Fragen zu Technik, Materialien und den Wurzeln der Tradition werden waehrend der Arbeit beantwortet statt vorab in einem Vortrag. Die Arbeit selbst hat etwas leise Meditatives: der sorgfaeltige Umgang mit den Teilen, das langsame Nachzeichnen jedes Risses, der Moment, in dem das Gold zum ersten Mal das Licht einfaengt. Am Ende nehmen Sie das von Ihnen reparierte Stueck mit - ein wirklich einzigartiges Souvenir mit einer Geschichte von Widerstandsfaehigkeit, und weit persoenlicher als alles, was man im Laden kaufen koennte. Der Workshop dauert etwa drei Stunden mit einem professionellen lokalen Guide, und alle im Programm genannten Gebuehren sind abgedeckt, sodass Sie einfach bereit erscheinen, mit Ihren Haenden zu arbeiten. Die Treffpunktdetails in Osaka werden bei der Buchung mit dem Anbieter bestaetigt. Wenn Ihre Reise nur aus Tempeln, Maerkten und Neonlichtern bestand, ist dies das Gegengewicht: ein langsamer, konzentrierter Nachmittag, um ein seit Jahrhunderten ueberliefertes Handwerk zu erlernen, durchgefuehrt von einem lizenzierten lokalen Anbieter.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "osaka-castle-guided-tour": {
+  "title": "2-stuendige gefuehrte Tour durch Burg Osaka und Schrein mit lokalem Guide",
+  "metaTitle": "Gefuehrte Tour durch Burg Osaka",
+  "metaDescription": "Gehen Sie durch die Burganlage, betrachten Sie die massiven Steinmauern aus der Naehe und besuchen Sie den Schrein mit einem lokalen Guide.",
+  "shortDescription": "Gehen Sie durch die schoene Burganlage, betrachten Sie die massiven Steinmauern aus der Naehe und besuchen Sie den Schrein. Erfahren Sie die Geschichte der Burg Osaka.",
+  "fullDescription": "Die Burg Osaka ist das meistbesuchte Wahrzeichen der Stadt, und sie ist auch der Ort in Osaka, den man am leichtesten durchquert, ohne etwas von dem zu verstehen, was man sieht. Diese zweistuendige gefuehrte Tour behebt das mit einem lokalen Guide, der Sie durch die Burganlage, die massiven Steinmauern und den benachbarten Hokoku-Schrein fuehrt und einen fotogenen Park in die dramatische Geschichte verwandelt, die er wirklich erzaehlt - den Aufstieg von Toyotomi Hideyoshi, die Belagerungen, die die Burg zerstoerten, und die Wiederaufbauten, die das heutige Bauwerk hervorbrachten. Die Tour beginnt nahe dem Bahnhof Osakajokoen und naehert sich der Burg zu Fuss, was der richtige Weg ist: Das Ausmass der aeusseren Befestigungen wird erst spuerbar, wenn man darunter steht, und Ihr Guide zeigt Ihnen die enormen einzelnen Steine - einige unter den groessten, die je im japanischen Burgbau verwendet wurden - und erklaert, wie sie vor Jahrhunderten gebrochen und hierher transportiert wurden. Die Route umfasst auch einen Bootsfahrt-Abschnitt auf dem Burggraben, der die Festung von der Wasserlinie aus zeigt, der Perspektive, die ihre Angreifer gehabt haetten. Der gefuehrte Rundgang durch die Anlage dauert etwa neunzig Minuten und deckt die Tore, Tuerme und Steinmauern aus der Naehe ab, bevor er am Hokoku-Schrein endet, der Hideyoshi selbst gewidmet ist, dem aus einfachen Verhaeltnissen stammenden Kriegsherrn, der Japan vereinte und die urspruengliche Burg als Sitz seiner Macht errichtete. Mit zwei Stunden ist das Format bewusst kompakt - lang genug, um die Geschichte richtig abzudecken, kurz genug, um den Rest Ihres Vormittags oder Nachmittags fuer die restliche Stadt frei zu lassen. Besonders fuer Erstbesucher ist der Unterschied zwischen einem grossen gruenen Park mit einem Turm in der Mitte und dem Verstehen des Ehrgeizes, des Verrats und des Feuers, die sie geformt haben, genau das, was ein Guide statt eines Alleingangs ausmacht.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "osaka-dinner-guided-tour": {
+  "title": "Osaka: LGBTQ+-Tour mit Abendessen und Getraenken",
+  "metaTitle": "Osaka: LGBTQ+-Tour mit Abendessen",
+  "metaDescription": "Gefuehrte Tour durch Osakas LGBTQ+-Szene mit leichtem Abendessen in Shinsekai und Besuch des Viertels Doyama.",
+  "shortDescription": "Gefuehrte Tour durch Osakas LGBTQ+-Szene. Leichtes Abendessen in Shinsekai, Besuch des Viertels Doyama und seiner Geschichte.",
+  "fullDescription": "Osaka hat eine der etabliertesten LGBTQ+-Szenen Japans, aber ohne einen Einheimischen, der die Tuer oeffnet, sehen die meisten Besucher nie mehr als die Oberflaeche davon. Diese dreistuendige Abendtour verbindet Sie mit einem lokalen Guide fuer genau das: ein Spaziergang durch die queere Geografie der Stadt, ein leichtes Abendessen im Retro-Viertel Shinsekai und ein Besuch von Doyama, dem Viertel, das seit Jahrzehnten als Osakas LGBTQ+-Zentrum dient. Der Abend beginnt am Bahnhof Dobutsuen-Mae und fuehrt zunaechst nach Shinsekai, das herrlich ungeschliffene alte Unterhaltungsviertel unter dem Tsutenkaku-Turm, wo Sie sich zu einem leichten Abendessen niederlassen und das Gespraech beginnt - Ihr Guide teilt die Geschichte der LGBTQ+-Gemeinschaft in Osaka, wie sie ihre Raeume in einer Gesellschaft fand, die oft Diskretion bevorzugt hat, und wie queeres Leben in der Stadt heute aussieht. Von dort geht es weiter nach Doyama, nahe Umeda, dem kompakten Viertel voller Bars und Lokale, das das Herz der Szene bildet. Es mit einem Guide zu durchqueren veraendert alles: Die unmarkierten Tueren und kleinen Gebaeude werden zu einer tatsaechlichen Landkarte der Gemeinschaft, und Sie lernen, welche Orte Besucher willkommen heissen und wie die Kultur des Viertels funktioniert. Getraenke sind Teil des Abends, und das Format ist bewusst gesellig - es ist ebenso ein Gespraech bei Essen und Getraenken wie ein Spaziergang, und Fragen sind jederzeit willkommen. Durchgefuehrt von einem lizenzierten lokalen Anbieter mit einem professionellen lokalen Guide, funktioniert die Tour gleichermassen fuer LGBTQ+-Reisende, die sich mit der lokalen Szene verbinden moechten, und fuer alle, die neugierig auf eine Seite von Osakas Geschichte und Nachtleben sind, die Reisefuehrer kaum erwaehnen. Mit drei Stunden am Abend passt sie gut nach einem Tag voller Sightseeing und kann Sie direkt in eine laengere Nacht in Doyama starten lassen, wenn die Stimmung passt.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "osaka-dotonbori-river-cruise-with-guided-walk": {
+  "title": "Dotonbori-Flusskreuzfahrt und gefuehrter Spaziergang: Osakas Kanaele vom Wasser aus",
+  "metaTitle": "Dotonbori-Flusskreuzfahrt und Spaziergang",
+  "metaDescription": "Ein gefuehrter Spaziergang durch Dotonbori plus das Flusskreuzfahrt-Ticket, die geteilte Alternative zu einer privaten Charter.",
+  "shortDescription": "Ein gefuehrter Spaziergang durch Dotonbori plus das Flusskreuzfahrt-Ticket, preislich guenstig - die geteilte Alternative zu einer privaten Charter.",
+  "fullDescription": "Osaka wurde auf Wasser erbaut. Es wurde die Stadt der tausend Bruecken genannt, und ihr Reichtum kam aus Kanaelen, die lange vor den Eisenbahnen Reis und Waren transportierten. Dotonbori selbst ist ein Kanal - 1612 von einem Kaufmann ausgehoben, der starb, bevor er fertiggestellt war - und der Streifen, den alle fotografieren, ist eigentlich ein Flussufer.\n\nDiese zwei Stunden machen das nachvollziehbar. Sie beginnen mit einem gefuehrten Spaziergang durch Dotonbori und die umliegenden Strassen, der erklaert, wie das Viertel zum Unterhaltungsbezirk wurde, wofuer die riesigen mechanischen Schilder tatsaechlich werben, und warum der Glico-Laufmann seit 1935 dort ist. Dann gehen Sie an Bord fuer die Flusskreuzfahrt, und die Neonlichter tun, wofuer sie entworfen wurden - der ganze Streifen ist darauf ausgelegt, im Wasser gespiegelt zu werden, und von einem Boot aus auf Deckhoehe ist das Ausmass der Beschilderung voellig anders.\n\nDas Kreuzfahrtticket ist im Preis enthalten, sodass am Kai nichts weiter zu zahlen ist. Die Gruppen sind begrenzt und der Guide arbeitet auf Englisch.\n\nWir bieten auch eine private Nachtkreuzfahrt in Osaka zu einem deutlich hoeheren Preis fuer alle, die das Boot ganz fuer sich haben moechten. Dies ist die geteilte Version und das bessere Preis-Leistungs-Verhaeltnis, wenn Sie vor allem die Aussicht und den Kontext wollen statt Exklusivitaet - sie kostet deutlich weniger und enthaelt den Spaziergang, den die private Charter nicht enthaelt.\n\nDer Treffpunkt ist neben dem Don Quijote Midosuji-Geschaeft, wo der Guide mit einem Schild wartet. Es funktioniert am besten nach Einbruch der Dunkelheit, wenn die Schilder leuchten, obwohl die Tagesfahrt eine klarere Sicht auf die Bruecken und die Kanalarchitektur bietet.",
+  "highlights": [],
+  "included": [
+   "Gefuehrter Spaziergang durch Dotonbori und die umliegenden Strassen\nDotonbori-Flusskreuzfahrt-Ticket\nEnglischsprachiger Guide"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke\nHotelabholung und -rueckbringung\nTransport zum Treffpunkt"
+  ]
+ },
  "kyoto-kid-friendly-ninja-class-museum": {
   "title": "Ninja-Kurs für Familien in Kyoto: Blasrohre, Sterne und Tarnung",
   "metaTitle": "Ninja-Kurs für Familien in Kyoto",

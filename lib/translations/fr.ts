@@ -59685,6 +59685,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Service de photographie (auto-prise de vue seulement), transport vers Naramachi"
   ]
  },
+ "naramachi-premium-tour": {
+  "title": "Location premium de kimono a Nara pour deux, a deux pas de la gare Kintetsu Nara",
+  "metaTitle": "Location premium de kimono pour deux a Nara",
+  "metaDescription": "Location et habillage premium d'un kimono pour un homme et une femme ensemble, un seul prix pour le couple.",
+  "shortDescription": "Location et habillage premium d'un kimono pour un homme et une femme ensemble, un seul prix pour le couple, pas par personne.",
+  "fullDescription": "Facture pour deux personnes ensemble, c'est le plan kimono premium de Minori pour un homme et une femme : le tarif affiche couvre le couple, pas chaque personne, donc on reserve une seule fois pour deux. C'est un service de location et d'habillage, pas une visite guidee : le personnel vous habille, et le reste de la journee est libre.\n\nChacun choisit dans la gamme premium et recoit un ensemble complet - kimono, obi demi-largeur, chaussettes tabi, sandales zori, un sac et des accessoires de cheveux - avec une coiffure simple incluse pour les femmes. La boutique ne facture rien de plus pour la coordination des tenues, et il n'y a aucune pression pour prendre un plan superieur une fois sur place.\n\nMinori se trouve au rez-de-chaussee au 43-1 Takama-cho, a environ trente secondes de la sortie 7S de la gare Kintetsu Nara et a treize minutes a pied de la gare JR Nara. Cet emplacement est l'argument pratique du plan : une fois habilles, vous etes a dix minutes a pied du parc de Nara, ou plus d'un millier de daims sika sauvages errent en liberte, proteges en tant que messagers shinto et Tresor naturel national. Entre la boutique et le parc se trouvent les ruelles marchandes de l'epoque Edo de Naramachi, bordees de maisons machiya et de petits cafes, ou la plupart des couples finissent par prendre leurs propres photos. Kofukuji, Gangoji, Todaiji et Kasuga Taisha - ce dernier fonde en 768 et orne de milliers de lanternes offertes - sont tous accessibles a pied depuis le meme trajet.\n\nDeux precisions avant de reserver. La photographie ne fait partie d'aucun plan de location ; Minori vend des seances photo comme produits separes, donc apportez votre propre appareil ou reservez l'une d'elles. Et l'operateur ne publie aucune heure de retour ou de fin de location, convenez-en directement avec la boutique au moment de la reservation. Les prix sur la page de l'operateur sont indiques hors taxe de consommation japonaise. Durant les mois d'ete, la gamme premium est fournie en yukata, la version en coton non doublee, plutot qu'en kimono double.",
+  "highlights": [],
+  "included": [
+   "Kimono premium homme/femme (ete : yukata) ; obi demi-largeur ; coiffure simple pour femmes ; location d'accessoires de kimono - coordination complete incluant sac, chaussures, chaussettes et accessoires de cheveux."
+  ],
+  "notIncluded": [
+   "La taxe de consommation (tous les prix sont indiques hors taxe). La photographie n'est pas incluse dans les plans de location (voir les produits Photo Plan separes). Rien d'autre n'est publie."
+  ]
+ },
+ "naramachi-professional-mini-tour": {
+  "title": "Location de yukata d'ete a Nara avec habillage professionnel",
+  "metaTitle": "Location de yukata d'ete a Nara",
+  "metaDescription": "Location de yukata d'ete par personne avec obi Nagoya et habillage professionnel, a une minute de la gare Kintetsu Nara.",
+  "shortDescription": "Location de yukata d'ete par personne, obi Nagoya et habillage professionnel, a une minute de la gare Kintetsu Nara.",
+  "fullDescription": "Un yukata est un kimono en coton non double, concu pour la chaleur, et ce plan est la gamme d'ete de Minori - un produit realiste de juin a septembre. Ne le reservez pas en attendant un kimono d'hiver double ; si vous visitez Nara hors des mois chauds, demandez plutot a la boutique ses plans de kimono classiques. Dans sa saison, l'attrait est simple : le coton respire, les couches sont plus legeres que la soie formelle, et on peut marcher tout l'apres-midi dans la chaleur de Nara sans flancher. Le tarif est indique par personne, donc amis, voyageurs solos et familles reservent chacun separement.\n\nL'ensemble est complet plutot que minimal : vous choisissez dans la gamme premium et etes habilles par le personnel avec un obi Nagoya de qualite, des chaussettes tabi, des zori, un sac et des accessoires de cheveux, avec une coiffure simple incluse pour les femmes. L'habillage professionnel vaut le prix, car un obi est difficile a nouer soi-meme et un noeud mal serre se defait en moins d'une heure de marche. La boutique est au rez-de-chaussee au 43-1 Takama-cho, a une minute de la sortie 7S de la gare Kintetsu Nara.\n\nOu aller apres est votre propre choix - personne ne vous guide. Le parc de Nara est a dix minutes a pied, abritant plus d'un millier de daims sika sauvages, proteges en tant que messagers des dieux shinto et designes Tresor naturel national en 1957. Les rues marchandes de l'epoque Edo de Naramachi se trouvent entre la boutique et le parc, et Kofukuji, Gangoji, Todaiji et Kasuga Taisha, dont l'enceinte de 768 est bordee de lanternes offertes, sont tous accessibles a pied en un apres-midi dans la ville qui fut la premiere capitale permanente du Japon a partir de 710. La photographie n'est pas incluse dans les locations, les prix excluent la taxe de consommation, et aucune heure de retour n'est publiee - convenez-en avec la boutique. Comme l'operateur classe le yukata dans sa gamme de kimono premium, confirmez la tenue exacte au moment de la reservation.",
+  "highlights": [],
+  "included": [
+   "Kimono premium homme/femme (ete : yukata) ; obi Nagoya de qualite ; coiffure simple pour femmes ; location d'accessoires de kimono - coordination complete incluant sac, chaussures, chaussettes et accessoires de cheveux."
+  ],
+  "notIncluded": [
+   "La taxe de consommation (tous les prix sont indiques hors taxe). La photographie n'est pas incluse dans les plans de location (voir les produits Photo Plan separes). Rien d'autre n'est publie."
+  ]
+ },
+ "osaka-brokenness-guided-tour": {
+  "title": "Osaka : atelier de kintsugi, la beaute dans la rupture",
+  "metaTitle": "Osaka : atelier de kintsugi",
+  "metaDescription": "Apprenez le kintsugi dans l'atelier d'un artisan et reparez une piece de poterie avec de la laque et de la poudre doree.",
+  "shortDescription": "Apprenez le kintsugi dans l'atelier d'un artisan. Reparez une poterie cassee avec de la laque et de la poudre doree, et gardez une piece unique.",
+  "fullDescription": "Le kintsugi est l'art japonais de reparer la poterie cassee avec de la laque et de la poudre doree, et cet atelier de trois heures vous permet de le pratiquer vous-meme dans l'atelier d'un artisan en activite a Osaka, plutot que de simplement observer une demonstration. La philosophie derriere cet art est ce qui marque les participants : plutot que de cacher une fissure, le kintsugi la souligne en or, traitant la cassure comme une partie de l'histoire de l'objet plutot qu'un defaut a dissimuler. Votre instructeur vous guide etape par etape - preparation de la ceramique cassee, application de la laque le long des lignes de fracture, puis saupoudrage des coutures de poudre doree pour que la reparation brille contre la glacure. Comme vous travaillez dans un veritable atelier avec un professionnel qui vous accompagne, le rythme reste calme et manuel, et les questions sur la technique, les materiaux et les racines de la tradition trouvent reponse pendant le travail plutot qu'avant, dans un cours magistral. Il y a quelque chose de discretement meditatif dans ce travail : la manipulation soigneuse des pieces, le trace lent de chaque fissure, le moment ou l'or capte la lumiere pour la premiere fois. A la fin, vous emportez la piece que vous avez reparee - un souvenir veritablement unique, porteur d'une histoire de resilience, et bien plus personnel que tout ce qu'on pourrait acheter en boutique. L'atelier dure environ trois heures avec un guide local professionnel, et tous les frais mentionnes dans le programme sont inclus, vous n'avez donc qu'a venir pret a travailler de vos mains. Les details du point de rencontre a Osaka sont confirmes avec l'operateur au moment de la reservation. Si votre voyage n'a ete que temples, marches et neons, c'est le contrepoids : un apres-midi lent et concentre pour apprendre un art transmis depuis des siecles, organise par un operateur local agree.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "osaka-castle-guided-tour": {
+  "title": "Visite guidee de 2h du chateau d'Osaka et du sanctuaire avec guide local",
+  "metaTitle": "Visite guidee du chateau d'Osaka",
+  "metaDescription": "Traversez les jardins du chateau, observez les imposants murs de pierre et visitez le sanctuaire voisin avec un guide local.",
+  "shortDescription": "Traversez les jardins du chateau, observez les imposants murs de pierre et visitez le sanctuaire. Decouvrez l'histoire du chateau d'Osaka.",
+  "fullDescription": "Le chateau d'Osaka est le monument le plus visite de la ville, et c'est aussi l'endroit d'Osaka le plus facile a traverser sans rien comprendre de ce que l'on regarde. Cette visite guidee de deux heures corrige cela grace a un guide local qui vous accompagne dans les jardins du chateau, le long des imposants murs de pierre, et au sanctuaire voisin de Hokoku, transformant un parc photogenique en l'histoire dramatique qu'il raconte reellement - l'ascension de Toyotomi Hideyoshi, les sieges qui ont detruit le chateau, et les reconstructions qui ont produit ce qui se dresse aujourd'hui. La visite debute pres de la gare d'Osakajokoen et approche le chateau a pied, ce qui est la bonne facon de faire : l'ampleur des fortifications exterieures ne se ressent qu'en marchant dessous, et votre guide signale les enormes pierres individuelles - parmi les plus grandes jamais utilisees dans la construction d'un chateau japonais - et explique comment elles ont ete extraites et transportees ici il y a des siecles. L'itineraire comprend aussi une croisiere en bateau sur les fosses du chateau, offrant une vue depuis l'eau, l'angle que les assaillants auraient affronte. La marche guidee a travers les jardins dure environ quatre-vingt-dix minutes, couvrant les portes, les tourelles et les murs de pierre de pres, avant de se terminer au sanctuaire Hokoku, dedie a Hideyoshi lui-meme, le seigneur de guerre ne paysan qui a unifie le Japon et construit le chateau original comme siege de son pouvoir. En deux heures, le format est volontairement compact - assez long pour couvrir l'histoire correctement, assez court pour laisser libre le reste de votre matinee ou apres-midi. Pour les visiteurs de premiere fois en particulier, faire le chateau avec un guide plutot que seul fait toute la difference entre voir un grand parc vert avec un donjon au milieu et comprendre l'ambition, la trahison et le feu qui l'ont forge.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "osaka-dinner-guided-tour": {
+  "title": "Osaka : visite LGBTQ+ avec diner et boissons",
+  "metaTitle": "Osaka : visite LGBTQ+ avec diner",
+  "metaDescription": "Visite guidee de la scene LGBTQ+ d'Osaka avec un diner leger a Shinsekai et une decouverte du quartier de Doyama.",
+  "shortDescription": "Visite guidee de la scene LGBTQ+ d'Osaka. Diner leger a Shinsekai, decouverte du quartier de Doyama et de son histoire.",
+  "fullDescription": "Osaka possede l'une des scenes LGBTQ+ les plus etablies du Japon, mais sans un guide local pour en ouvrir la porte, la plupart des visiteurs n'en voient jamais que la surface. Cette visite de trois heures en soiree vous associe a un guide local pour exactement cela : une marche a travers la geographie queer de la ville, un diner leger dans le quartier retro de Shinsekai, et une visite de Doyama, le quartier qui sert de centre LGBTQ+ d'Osaka depuis des decennies. La soiree commence a la gare de Dobutsuen-Mae et se dirige d'abord vers Shinsekai, le vieux quartier de divertissement magnifiquement brut sous la tour Tsutenkaku, ou vous vous installez pour un diner leger et la conversation commence - votre guide partageant l'histoire de la communaute LGBTQ+ a Osaka, comment elle a trouve ses espaces dans une societe qui a souvent prefere la discretion, et ce a quoi ressemble la vie queer dans la ville aujourd'hui. De la, la visite se dirige vers Doyama, pres d'Umeda, le quartier compact rempli de bars et de lieux qui forme le coeur de la scene. Le parcourir avec un guide change tout : les portes anonymes et les petits batiments se transforment en une veritable carte de la communaute, et vous apprenez quels espaces accueillent les visiteurs et comment fonctionne la culture du quartier. Les boissons font partie de la soiree, et le format est volontairement sociable - c'est autant une conversation autour de nourriture et de boissons qu'une visite a pied, et les questions sont les bienvenues tout au long. Organisee par un operateur local agree avec un guide local professionnel, la visite convient aussi bien aux voyageurs LGBTQ+ souhaitant se connecter a la scene locale qu'a tous ceux curieux d'un aspect de l'histoire et de la vie nocturne d'Osaka que les guides touristiques mentionnent a peine. En trois heures le soir, elle s'integre parfaitement apres une journee de visites et peut vous lancer directement dans une soiree plus longue a Doyama si l'envie vous prend.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "osaka-dotonbori-river-cruise-with-guided-walk": {
+  "title": "Croisiere sur la riviere Dotonbori et visite guidee : les canaux d'Osaka vus de l'eau",
+  "metaTitle": "Croisiere Dotonbori et visite guidee",
+  "metaDescription": "Une visite guidee de Dotonbori plus le billet de croisiere fluviale, l'alternative partagee a une charte privee.",
+  "shortDescription": "Une visite guidee de Dotonbori plus le billet de croisiere fluviale, pour un prix abordable - l'alternative partagee a une charte privee.",
+  "fullDescription": "Osaka a ete construite sur l'eau. On l'appelait la ville aux mille ponts, et sa richesse venait des canaux qui transportaient riz et marchandises longtemps avant les voies ferrees. Dotonbori est elle-meme un canal - creuse en 1612 par un marchand mort avant son achevement - et la rue que tout le monde photographie est en realite une rive.\n\nCes deux heures rendent cela lisible. La visite commence par une marche guidee a travers Dotonbori et les rues environnantes, expliquant comment le quartier est devenu le pole de divertissement, ce que les enormes enseignes mecaniques font vraiment de la publicite, et pourquoi l'homme courant Glico est la depuis 1935. Puis vous montez a bord pour la croisiere fluviale, et les neons font ce pour quoi ils sont concus - toute la rue est construite pour etre vue reflechie dans l'eau, et depuis un bateau au niveau du pont, l'echelle des enseignes est completement differente.\n\nLe billet de croisiere est inclus dans le prix, donc rien d'autre n'est payable au quai. Les groupes sont limites et le guide travaille en anglais.\n\nNous proposons aussi une croisiere nocturne privee a Osaka a un prix nettement plus eleve pour ceux qui veulent le bateau pour eux seuls. Ceci est la version partagee et c'est le meilleur rapport qualite-prix si vous recherchez surtout la vue et le contexte plutot que l'exclusivite - elle coute bien moins cher et inclut la visite a pied que la charte privee n'inclut pas.\n\nLe rendez-vous se fait a cote du magasin Don Quijote Midosuji, ou le guide attend avec un panneau. Cela fonctionne mieux a la nuit tombee, quand les enseignes sont allumees, bien que le depart en journee offre une vue plus claire des ponts et de l'architecture des canaux.",
+  "highlights": [],
+  "included": [
+   "Visite guidee a pied de Dotonbori et des rues environnantes\nBillet de croisiere fluviale Dotonbori\nGuide parlant anglais"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons\nPrise en charge et depose a l'hotel\nTransport jusqu'au point de rencontre"
+  ]
+ },
  "kyoto-kid-friendly-ninja-class-museum": {
   "title": "Cours de ninja pour familles a Kyoto : sarbacanes, etoiles et discretion",
   "metaTitle": "Cours de ninja pour familles a Kyoto",
