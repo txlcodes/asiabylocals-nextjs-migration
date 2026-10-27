@@ -1197,6 +1197,68 @@ export function getHongKongInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-hong-kong":
+      return {
+        title: "Best Tours in Hong Kong — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Hong Kong 2026: Top-Rated Picks by Category",
+        description: "The best Hong Kong tours for 2026, picked by category — Victoria Peak, Lantau Island and the Big Buddha, Temple Street night market, a harbour sunset cruise and Disneyland — with real prices and an honest note on how we chose them.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a770dcde68e54570c682cc4a54dbb1eb621ccf4700edddb505edcf5c667b19b8.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "**Victoria Peak**, reached by the historic Peak Tram funicular, is Hong Kong's single most-visited attraction — a pre-booked ticket skips the counter queue entirely and gets you straight to the Sky Terrace 428 view over the full skyline and harbour.\n\nBelow is our honest, by-category breakdown — real tours, real prices, no inflated ratings.",
+            tourCard: { slug: "hong-kong-peak-tram-sky-terrace-428-photos-tour", title: "Hong Kong: Peak Tram Sky Terrace 428 & Photos Tour", description: "The funicular ride plus the viewing deck, without the ticket-booking hassle.", price: "From $119", duration: "2 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a770dcde68e54570c682cc4a54dbb1eb621ccf4700edddb505edcf5c667b19b8.png" },
+          },
+          {
+            title: "Best Day Trip: Lantau Island & the Big Buddha",
+            content: "**Lantau Island** is mountainous, rural and home to the 34-metre bronze Big Buddha at Ngong Ping, reached by the dramatic Ngong Ping 360 cable car. Combined with Tai O, a stilt-house fishing village, it's a totally different side of Hong Kong from the glass towers.",
+            tourCard: { slug: "hong-kong-lantau-vip-priority-cable-car-big", title: "Hong Kong: Lantau VIP Priority Cable Car, Big Buddha & Tai O", description: "Priority cable car access plus the Tai O fishing village in one day — skips the weekend queue.", price: "From $131", duration: "7 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1b06e15f219028b4aa5249305d094571ec9394403bf321771f4700b13020c336.jpg" },
+          },
+          {
+            title: "Best Night Market Experience: Temple Street",
+            content: "**Temple Street Night Market** in Kowloon's Yau Ma Tei runs from late afternoon into the night with street food, fortune tellers and stall after stall — genuinely more atmosphere than bargain, worth it for the experience rather than deep discounts.",
+            tourCard: { slug: "hong-kong-yau-ma-tei-temple-street-night-walking", title: "Hong Kong: Yau Ma Tei Temple Street Night Walking Tour", description: "A guided evening through Temple Street's market stalls, fortune tellers and street food.", price: "From $228", duration: "2 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a5008587fb56e196dfaa948d1b25a7357b621c7e284237a865eb6869d279bda8.png" },
+          },
+          {
+            title: "Best Evening on the Harbour",
+            content: "A **sunset harbour cruise with dim sum** is the best way to see the Victoria Harbour skyline without the midday heat, and tasting dim sum on the water is a genuinely good version of a Hong Kong classic.",
+            tourCard: { slug: "hk-victoria-sunset-harbour-cruise-dim-sum-tasting", title: "HK Victoria Sunset Harbour Cruise Dim Sum Tasting Night Tour", description: "A sunset cruise and dim sum tasting that sidesteps the midday heat entirely.", price: "From $73", duration: "3 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5b4e977f13c491c10e6e35d2a0c05539387c38827e122f004319c18d33786167.jpg" },
+          },
+          {
+            title: "Best for Families: Disneyland",
+            content: "**Hong Kong Disneyland** is smaller and more compact than its US or Tokyo counterparts, which makes it genuinely doable as a single focused day — good for families with limited time who still want the Disney experience.",
+            tourCard: { slug: "hong-kong-disneyland-bibbidi-bobbidi-boutique", title: "Hong Kong Disneyland: Bibbidi Bobbidi Boutique Package", description: "A Disneyland day with the princess-makeover package bundled in — popular with families.", price: "From $113", duration: "2.5 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c164053dede917013a86e81394967aed912e526c8639d6b67c477d1f04c7f0c.jpg" },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Hong Kong tours](/hong-kong/hongkong)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Hong Kong?", a: "Victoria Peak via the Peak Tram, with a pre-booked Sky Terrace 428 ticket — it's the single most-visited attraction and the best full-skyline view in the city." },
+          { q: "What is the best day trip from Hong Kong city?", a: "Lantau Island — the Big Buddha, the Ngong Ping 360 cable car, and the Tai O fishing village, all a different side of Hong Kong from the glass towers." },
+          { q: "Is Temple Street Night Market worth visiting?", a: "Yes, for the atmosphere — street food, fortune tellers and stall after stall of goods — though go for the experience rather than expecting deep bargains." },
+          { q: "Is Hong Kong Disneyland worth it with limited time?", a: "Yes — it's the smallest global Disney park, which makes it genuinely doable as a single focused day rather than a multi-day commitment." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Hong Kong?", "acceptedAnswer": { "@type": "Answer", "text": "Victoria Peak via the Peak Tram, with a pre-booked Sky Terrace 428 ticket." } },
+                { "@type": "Question", "name": "What is the best day trip from Hong Kong city?", "acceptedAnswer": { "@type": "Answer", "text": "Lantau Island — the Big Buddha, the cable car, and the Tai O fishing village." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Victoria Peak Tram' },
+          { icon: 'Map', label: 'Best Day Trip', value: 'Lantau Island' },
+          { icon: 'Moon', label: 'Best Night Market', value: 'Temple Street' }
+        ]
+      };
+
     default:
       return null;
   }

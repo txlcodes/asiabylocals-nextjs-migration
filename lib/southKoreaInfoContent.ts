@@ -1030,6 +1030,68 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-seoul":
+      return {
+        title: "Best Tours in Seoul — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Seoul 2026: Top-Rated Picks by Category",
+        description: "The best Seoul tours for 2026, picked by category — Gyeongbokgung with hanbok, the DMZ, Hongdae nightlife with Korean BBQ, Insadong culture and a K-pop experience — with real prices and an honest note on how we chose them.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e83adac682525068c13880ea43e0dcf685f0e9146feb0243a603171589a2f62e.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "**Gyeongbokgung Palace in a rented hanbok** is Seoul's single most-visited experience — and the hanbok gets you free entry, which is a nice bonus on top of the photos. Pair it with the DMZ for the one experience you can't get anywhere else on Earth.\n\nBelow is our honest, by-category breakdown — real tours, real prices, no inflated ratings.",
+            tourCard: { slug: "seoul-gyeongbokgung-tour-with-hanbok-as-a-king-or", title: "Seoul: Gyeongbokgung Tour with Hanbok as a King or Queen", description: "A guided palace walk with the hanbok rental and free-entry angle handled for you.", price: "From $340", duration: "3 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e83adac682525068c13880ea43e0dcf685f0e9146feb0243a603171589a2f62e.jpg" },
+          },
+          {
+            title: "Best Unique Experience: the DMZ",
+            content: "The **DMZ day trip** — the Third Infiltration Tunnel, Dora Observatory and Imjingak Park — is the single most-booked day trip from Seoul, and genuinely unlike anything else available anywhere. Note the JSA/Panmunjom blue-hut area has been closed to civilian tours since 2023; a standard DMZ tour covers everything currently open.",
+            tourCard: { slug: "seoul-dmz-small-group-tour-with-lunch-north-korea", title: "Seoul: DMZ Small-Group Tour with Lunch & North Korea View", description: "A half-day DMZ tour timed to leave your afternoon free.", price: "From $129", duration: "5 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/43e4f501bad3975debe95bac8919a4e4e2045b5609d8340fdc276487c1c8c01a.png" },
+          },
+          {
+            title: "Best Evening Out: Hongdae & Korean BBQ",
+            content: "**Hongdae**, built around the gates of Hongik University, is Seoul's most reliable nightlife strip — indie music, street performances and affordable fashion. Pairing it with a proper sit-down Korean BBQ dinner (grilled meat cooked tableside, with banchan and soju) is the classic way to close out a Seoul day.",
+            tourCard: { slug: "seoul-hongdae-indie-live-music-night-korean-bbq", title: "Seoul: Hongdae Indie Live Music Night & Korean BBQ Dinner", description: "A guided evening pairing a proper BBQ dinner with Hongdae's indie music scene.", price: "From $57", duration: "4 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a3c7bd3c113aadb41d2f84904d24696c89bc6d1f1d5babf6e2472c8ba9a17082.jpg" },
+          },
+          {
+            title: "Best Cultural Walk: Insadong",
+            content: "**Insadong**, the traditional-crafts and tea-house district, home to Jogyesa Temple (the center of Korean Seon Buddhism), is the slower, calmer counterpoint to Myeongdong and Hongdae — good for a mid-trip breather.",
+            tourCard: { slug: "seoul-insadong-jogye-temple-cultural-guided", title: "Seoul: Insadong & Jogye Temple Cultural Guided Walking Tour", description: "The traditional-crafts district and its central Buddhist temple in one guided walk.", price: "From $68", duration: "2.5 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b5b2ff5b4df99e336e8fd31561f43c38a89fea5af32db715b593eb8d05e51188.png" },
+          },
+          {
+            title: "Best for K-Pop Fans",
+            content: "A dedicated **K-pop studio experience** — full styling, choreography and a video shoot, no dance background needed — is one of the more purely fun, photo-ready bookings in the city, and a genuine draw for fans beyond standard sightseeing.",
+            tourCard: { slug: "be-a-k-pop-star-in-seoul-studio-recording", title: "Be a K-Pop Star in Seoul: Studio Recording, Makeup & Video", description: "A full K-pop styling, choreography and video-shoot experience, no dance background needed.", price: "From $379", duration: "3 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/735a6acd3c7d0a5f204f0723432e2cc29280f51e07f766a6afb5f850c99ad885.jpg" },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Seoul tours](/south-korea/seoul)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Seoul?", a: "Gyeongbokgung Palace in a rented hanbok — it's the single most-visited Seoul experience, and the hanbok gets you free palace entry as a bonus." },
+          { q: "Is the DMZ day trip worth it?", a: "Yes for most visitors — it's a genuinely unusual experience available nowhere else, though the JSA blue-hut area has been closed to civilian tours since 2023, so a standard tour covers the Third Tunnel and observatory, not the JSA." },
+          { q: "What is the best nightlife tour in Seoul?", a: "Hongdae paired with a proper Korean BBQ dinner — indie music and street performances plus the classic grilled-meat, banchan and soju evening." },
+          { q: "Is there a good K-pop experience for fans?", a: "Yes — dedicated K-pop studio experiences with full styling, choreography and a video shoot, no dance background required." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Seoul?", "acceptedAnswer": { "@type": "Answer", "text": "Gyeongbokgung Palace in a rented hanbok, which also gets you free palace entry." } },
+                { "@type": "Question", "name": "Is the DMZ day trip worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — a genuinely unusual experience, though the JSA area has been closed to civilian tours since 2023." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Gyeongbokgung + Hanbok' },
+          { icon: 'Flag', label: 'Most Unique', value: 'DMZ Day Trip' },
+          { icon: 'Moon', label: 'Best Nightlife', value: 'Hongdae + Korean BBQ' }
+        ]
+      };
+
     default:
       return null;
   }

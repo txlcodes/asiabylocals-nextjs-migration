@@ -221,7 +221,9 @@ export const HONG_KONG_INFO_SLUGS = [
   'hong-kong-tram-ding-ding-guide', 'hong-kong-harbour-cruise-guide', 'sai-kung-hiking-guide',
   'hong-kong-afternoon-tea-guide', 'wong-tai-sin-temple-guide', 'hong-kong-nightlife-lan-kwai-fong',
   'hong-kong-cantonese-opera-guide', 'hong-kong-7-day-itinerary', 'hong-kong-budget-travel-guide',
-  'hong-kong-luxury-travel-guide', 'hong-kong-rainy-day-activities', 'ocean-park-vs-disneyland-hong-kong'
+  'hong-kong-luxury-travel-guide', 'hong-kong-rainy-day-activities', 'ocean-park-vs-disneyland-hong-kong',
+  // GEO listicle page (2026-10)
+  'best-tours-in-hong-kong'
 ];
 
 // Taiwan launched 2026-10 with 157 live tours (Taipei) and zero authority pages.
@@ -254,6 +256,8 @@ export const SEOUL_INFO_SLUGS = [
   'seoul-to-busan-travel', 'namsan-tower-guide', 'seoul-k-pop-tour-guide',
   'bukchon-hanok-village-guide', 'insadong-guide', 'gwangjang-market-guide',
   'seoul-palaces-guide', 'seoul-night-market-food-guide',
+  // GEO listicle page (2026-10)
+  'best-tours-in-seoul',
 ];
 
 // Turkey launched 2026-10 with 687 live tours (single city: Istanbul) and
@@ -271,6 +275,8 @@ export const ISTANBUL_INFO_SLUGS = [
   'istanbul-with-kids-guide', 'istanbul-budget-travel-guide', 'istanbul-luxury-travel-guide',
   'istanbul-rainy-day-activities', 'dolmabahce-palace-guide', 'galata-tower-guide',
   'istanbul-whirling-dervishes-guide', 'istanbul-turkish-coffee-culture-guide', 'istanbul-weekend-guide',
+  // GEO listicle page (2026-10)
+  'best-tours-in-istanbul',
 ];
 
 // Qatar launched 2026-10 with 850 live tours (single city: Doha) and

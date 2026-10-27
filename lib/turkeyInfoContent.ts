@@ -1034,6 +1034,68 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-istanbul":
+      return {
+        title: "Best Tours in Istanbul — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Istanbul 2026: Top-Rated Picks by Category",
+        description: "The best Istanbul tours for 2026, picked by category — Hagia Sophia & Sultanahmet, the Grand Bazaar, a Bosphorus sunset cruise, the Princes' Islands and food — with real prices and an honest note on how we chose them.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dcf68b321ccac985456d2efce5ad90f9daa43d9ee56aee55d69bdf3bbb43258c.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A first-time visitor should default to the **Sultanahmet core circuit** — Hagia Sophia, the Blue Mosque and the Basilica Cistern with a guide who explains the layered Byzantine-Ottoman history, which is what makes these sights mean something beyond the architecture. Add a Bosphorus cruise at sunset to close the day.\n\nBelow is our honest, by-category breakdown — real tours, real prices, no inflated ratings.",
+            tourCard: { slug: "istanbul-hagia-sophia-blue-mosque-cistern-guided", title: "Istanbul: Hagia Sophia, Blue Mosque & Cistern Guided Tour", description: "A guided morning covering the three headline Sultanahmet sights with the historical context explained on the spot.", price: "From $262", duration: "4 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dcf68b321ccac985456d2efce5ad90f9daa43d9ee56aee55d69bdf3bbb43258c.jpeg" },
+          },
+          {
+            title: "Best Sunset Experience: Bosphorus Cruise",
+            content: "A **Bosphorus sunset yacht tour** is the one Istanbul experience that genuinely requires water — both the European and Asian shorelines, the Ottoman waterfront palaces, and the two continental suspension bridges, timed for golden hour.",
+            tourCard: { slug: "istanbul-bosphorus-sunset-yacht-tour-with-guide", title: "Istanbul: Bosphorus Sunset Yacht Tour With Guide & Snacks", description: "A late-afternoon cruise timed for the golden-hour light.", price: "From $35", duration: "2 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6024c78ccbf626cabea49fd9701ff28924340966fc088184d649b880daf1a73e.jpeg" },
+          },
+          {
+            title: "Best Shopping & Market Tour",
+            content: "The **Grand Bazaar**, one of the world's oldest covered markets with roughly 4,000 shops, is built for haggling — a guide who knows which stalls are worth it and what a fair counter-offer looks like turns a confusing maze into an actually enjoyable couple of hours.",
+            tourCard: { slug: "istanbul-private-grand-bazaar-shopping-tour-with", title: "Istanbul: Private Grand Bazaar Shopping Tour with Guide", description: "A guided walk through the Grand Bazaar's lanes with a local explaining what's worth buying and what to haggle on.", price: "From $104", duration: "3 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/09e5af000b61afab317a5e87bc9d9c28f47e0a4575a4cc3eb8408c4f1c53871c.jpg" },
+          },
+          {
+            title: "Best Day Trip: Princes' Islands",
+            content: "The **Princes' Islands**, a short ferry ride from the city center, ban private cars entirely — walking, cycling or a horse-drawn carriage only. Büyükada, the largest island, has a genuinely slower pace than anywhere in the city proper, and it's the best full-day escape from Istanbul's density.",
+            tourCard: { slug: "istanbul-princess-islands-day-trip-with-lunch", title: "Istanbul: Princess Islands Day Trip with Lunch & Ferry", description: "A full day on the car-free Princes' Islands, ferry and lunch included.", price: "From $88", duration: "8 hours", rating: "4.6", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9bd18bf79d05f81d3cb769e7839dcee3ad0e68a5a30a717ccbd01b56db5e1c91.jpg" },
+          },
+          {
+            title: "Best Food Tour",
+            content: "A small-group **food tour** through Istanbul's neighbourhoods covers the everyday dishes and photo spots most guidebooks skip, run by a local rather than a script.",
+            tourCard: { slug: "istanbul-food-tour-small-group-history-photo-spots", title: "Istanbul Food Tour: Small Group, History & Photo Spots", description: "A guided first dinner-and-walk that also covers the city's everyday rhythms most guidebooks skip.", price: "From $117", duration: "3.5 hours", rating: "4.8", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/838b47cab4965458e2bd87e4c8c9d30ef843b2c4a03aff5e5ed74f4f665636ba.jpg" },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Istanbul tours](/turkey/istanbul)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Istanbul?", a: "A guided Sultanahmet core circuit — Hagia Sophia, the Blue Mosque and the Basilica Cistern — covers the three headline sights with the historical context that makes them mean something. Add a Bosphorus sunset cruise to close the day." },
+          { q: "What is the best day trip from Istanbul?", a: "The Princes' Islands — a short ferry ride to a place with no private cars at all, and a noticeably slower pace than the rest of the city." },
+          { q: "Is the Grand Bazaar worth a guided tour?", a: "Yes — it's built for haggling and a local guide who knows which stalls are worth it turns a confusing 4,000-shop maze into a genuinely enjoyable couple of hours." },
+          { q: "What is the best Bosphorus cruise?", a: "A sunset yacht tour, timed for golden hour, showing both the European and Asian shorelines and the Ottoman waterfront palaces." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Istanbul?", "acceptedAnswer": { "@type": "Answer", "text": "A guided Sultanahmet core circuit covering Hagia Sophia, the Blue Mosque and the Basilica Cistern, plus a Bosphorus sunset cruise." } },
+                { "@type": "Question", "name": "What is the best day trip from Istanbul?", "acceptedAnswer": { "@type": "Answer", "text": "The Princes' Islands, a car-free island escape a short ferry ride from the city." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Sultanahmet Core Circuit' },
+          { icon: 'Sunset', label: 'Best Sunset', value: 'Bosphorus Cruise' },
+          { icon: 'Map', label: 'Best Day Trip', value: "Princes' Islands" }
+        ]
+      };
+
     default:
       return null;
   }

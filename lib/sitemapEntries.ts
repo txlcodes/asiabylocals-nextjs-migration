@@ -141,6 +141,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'hong-kong-afternoon-tea-guide', 'wong-tai-sin-temple-guide', 'hong-kong-nightlife-lan-kwai-fong',
     'hong-kong-cantonese-opera-guide', 'hong-kong-7-day-itinerary', 'hong-kong-budget-travel-guide',
     'hong-kong-luxury-travel-guide', 'hong-kong-rainy-day-activities', 'ocean-park-vs-disneyland-hong-kong',
+    'best-tours-in-hong-kong',
   ].map(slug => ({
     url: `${BASE_URL}/hong-kong/hongkong/${slug}`,
     lastModified: new Date(),
@@ -176,7 +177,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'myeongdong-shopping-guide', 'seoul-korean-bbq-guide', 'hongdae-nightlife-guide',
     'seoul-to-busan-travel', 'namsan-tower-guide', 'seoul-k-pop-tour-guide',
     'bukchon-hanok-village-guide', 'insadong-guide', 'gwangjang-market-guide',
-    'seoul-palaces-guide', 'seoul-night-market-food-guide',
+    'seoul-palaces-guide', 'seoul-night-market-food-guide', 'best-tours-in-seoul',
   ].map(slug => ({
     url: `${BASE_URL}/south-korea/seoul/${slug}`,
     lastModified: new Date(),
@@ -208,6 +209,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'istanbul-with-kids-guide', 'istanbul-budget-travel-guide', 'istanbul-luxury-travel-guide',
     'istanbul-rainy-day-activities', 'dolmabahce-palace-guide', 'galata-tower-guide',
     'istanbul-whirling-dervishes-guide', 'istanbul-turkish-coffee-culture-guide', 'istanbul-weekend-guide',
+    'best-tours-in-istanbul',
   ].map(slug => ({
     url: `${BASE_URL}/turkey/istanbul/${slug}`,
     lastModified: new Date(),
