@@ -60479,6 +60479,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten"
   ]
  },
+ "sapporo-inclusive-private-tour": {
+  "title": "Sapporo Teine Pulvertag: All-inclusive privater Ski- oder Snowboardkurs",
+  "metaTitle": "Sapporo Teine Pulvertag All-inclusive",
+  "metaDescription": "Hin- und Ruckfahrt, Ausruestungsverleih, Liftkarten und ein zweistuendiger Privatkurs in Sapporo Teine, mit einem ortskundigen Fahrer den ganzen Tag ueber.",
+  "shortDescription": "Ein komplett inklusiver Tag im Schnee in Sapporo Teine, mit Hin- und Ruckfahrt, Ausruestungsverleih, Liftkarten und einem ortskundigen Fahrer den ganzen Tag ueber.",
+  "fullDescription": "Sapporo Teine liegt nah genug an der Stadt, um es in etwa einer Stunde zu erreichen, und ist gut genug, um olympische Wettbewerbe ausgetragen zu haben. Dieser All-inclusive-Tag nimmt Ihnen jeden Verwaltungsschritt ab, der sich normalerweise zwischen einen Besucher und den Pulverschnee von Hokkaido stellt. Ihr ortskundiger Fahrer holt Sie ab und bringt Sie zum Berg, und von dort sind der Ausruestungsverleih und die Liftkarten bereits geregelt, sodass kein Anstehen an einem Schalter in einer Sprache notwendig ist, die Sie nicht lesen, und kein Herausfinden, welche Karte welchen Lift abdeckt. Der Kurs selbst dauert etwa zwei Stunden im privaten Format, was bedeutet, dass der Unterricht auf Sie zugeschnitten ist statt auf den Durchschnitt einer gemischten Gruppe, egal ob Sie zum ersten Mal die Bindung schliessen oder eine bereits vorhandene Technik verfeinern. Danach haben Sie noch einige weitere Stunden, um den Berg frei zu nutzen und das Gelernte auf Pisten umzusetzen, die zur Kueste hin abfallen. Teines besonderer Reiz ist dieser Ausblick: Das Meer liegt am Ende Ihrer Sichtlinie, waehrend Sie fahren, was an jedem Ort selten und bei Schnee dieser Qualitaet sehr selten ist. Der Pulverschnee von Hokkaido hat einen Ruf, der Menschen aus aller Welt anzieht, und Teine bietet ihn in derselben Fuelle wie die bekannteren Resorts im Landesinneren, ist dabei aber von einem Sapporo-Hotel aus deutlich leichter zu erreichen. Ihr Fahrer bleibt den ganzen Tag ueber fuer Unterstuetzung vor Ort verfuegbar und bringt Sie am Ende zurueck in die Stadt, sodass dieser Ausflug von Ihnen nichts weiter verlangt, als einfach zu erscheinen.",
+  "highlights": [],
+  "included": [
+   "Hin- und Ruckfahrt ab Sapporo, Ausruestungsverleih, Liftkarten, Privatkurs, Unterstuetzung vor Ort durch einen ortskundigen Fahrer"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "sapporo-lavender-guided-tour": {
+  "title": "Furano-Lavendel und Bieis Blauer Teich: Zweitaegige Sommertour durch Hokkaido",
+  "metaTitle": "Furano-Lavendel und Bieis Blauer Teich",
+  "metaDescription": "Zweitaegige Sommertour von Sapporo zu den Lavendelterrassen von Farm Tomita, Bieis kobaltblauem Teich und den laternenerleuchteten Huetten von Ningle Terrace.",
+  "shortDescription": "Eine zweitaegige Sommertour, die Sapporo gegen die Farben Zentral-Hokkaidos tauscht: die Lavendelterrassen von Farm Tomita, Bieis kobaltblauer Blauer Teich und die laternenerleuchteten Huetten von Ningle Terrace.",
+  "fullDescription": "Hokkaidos Sommer hat ein kurzes, spektakulaeres Zeitfenster, und diese zweitaegige Tour ist darauf ausgelegt, es einzufangen. Sie verlassen Sapporo in Richtung des Inselinneren, wo sich das Farmland rund um Furano und Biei in Farbbaender verwandelt, die Besucher aus ganz Japan anziehen. Das Herzstueck ist Farm Tomita, deren Lavendelterrassen in violetten Streifen den Hang hinablaufen und die ganze Zeit ueber die Luft durchduften. Beim Lavendel kommt es auf das Timing an, daher wendet sich die Tour nach Mitte August stattdessen Shikisai-no-oka zu, wo die Blumenstreifen ihre Farbe laenger in der Saison halten und der Effekt genauso beeindruckend ist. Bieis Blauer Teich ist das andere Highlight der Reise, ein stilles, kobaltfarbenes Gewaesser mit abgestorbenen Baeumen darin, ein Ort, der auf Fotos unwirklich wirkt und in Wirklichkeit nur geringfuegig weniger. Die zwei Tage enden in Ningle Terrace, einer verstreuten Ansammlung kleiner Holzhuetten mit Kunsthandwerk, verbunden durch Waldwege und nach Einbruch der Dunkelheit von Laternen erleuchtet, der ruhige, atmosphaerische Abschluss, den diese Reise verdient. Dieses Programm auf zwei Tage zu verteilen statt es auf einen zusammenzudraengen, macht den Unterschied zwischen Hetzen zwischen Aussichtspunkten und tatsaechlich irgendwo zu sein aus. Die Entfernungen in Zentral-Hokkaido sind lang, das Licht ist am schoensten morgens und abends, und eine Uebernachtung laesst Sie beide Enden des Tages nutzen, statt sie auf der Strasse zu verbringen.",
+  "highlights": [],
+  "included": [
+   "Professioneller ortskundiger Reiseleiter, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "sapporo-morning-tour": {
+  "title": "Sapporos Goldene Route: Morgenspaziergang am Uhrturm und Fernsehturm vorbei",
+  "metaTitle": "Sapporos Goldene Route am Morgen",
+  "metaDescription": "Gefuehrter zweistuendiger Morgenspaziergang entlang Sapporos Goldener Route, der den Fernsehturm, den Uhrturm und das Backsteingebaeude verbindet.",
+  "shortDescription": "Ein gefuehrter zweistuendiger Morgenspaziergang entlang Sapporos Goldener Route, der den Fernsehturm, den Uhrturm und das Alte Regierungsgebaeude mit fachkundigem Kommentar verbindet.",
+  "fullDescription": "Wenn Sie nur einen Morgen in Sapporo haben, ist die Goldene Route der Spaziergang, der die Stadt zusammenfasst, und diese gefuehrte zweistuendige Version deckt sie richtig ab. Sie beginnen am Sapporo-Fernsehturm am Kopf der Odori-Strasse, wo Sie eine gute halbe Stunde haben, um die Aussicht entlang des Parks zu genieessen und sich von Ihrem Reiseleiter den Aufbau der unter Ihnen ausgebreiteten Stadt erklaeren zu lassen. Sapporo wurde geplant statt gewachsen, und dieses Gitter von oben zu sehen, bevor Sie es durchlaufen, macht alles Folgende leichter verstaendlich. Vom Turm fuehrt die Route zu Fuss nach Westen zum Sapporo-Uhrturm, dem bescheidenen Holzgebaeude, das zum Markenzeichen der Stadt geworden ist, wo Ihr Reiseleiter seine Geschichte darlegt und erklaert, warum eine so schlichte Struktur den Einwohnern so viel bedeutet. Der Spaziergang endet am ehemaligen Regierungsgebaeude von Hokkaido, dem roten Backsteingebaeude, das zurueckversetzt auf seinem eigenen Gelaende steht und dessen Architektur viel ueber die Ambitionen der Epoche verraet, in der Hokkaido entwickelt wurde. Der Wert liegt durchgehend im Kommentar: Dies sind drei Landmarken, die Sie allein in zwanzig Minuten mit einer Karte finden koennten, aber zu wissen, was sie bedeuten und wie sie zusammenpassen, verwandelt eine Checkliste in eine zusammenhaengende Geschichte darueber, wie diese Stadt entstanden ist. Die gesamte Route ist flach, zentral und leicht zu Fuss zu bewaeltigen, und sie vor Mittag zu beenden laesst Ihnen den Rest des Tages frei fuer die Maerkte, das Essen oder einen Ausflug aus der Stadt.",
+  "highlights": [],
+  "included": [
+   "Professioneller ortskundiger Reiseleiter, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "sapporo-noboribetsu-full-day-tour": {
+  "title": "Lake Toya, Showa Shinzan und das Hoellental von Noboribetsu: Tagesausflug",
+  "metaTitle": "Lake Toya und Hoellental von Noboribetsu",
+  "metaDescription": "Ganztaegiger Busausflug in den Sueden Hokkaidos mit Lake Toya, Lake Hill Farm, Showa Shinzan und den dampfenden Schloten des Hoellentals von Noboribetsu.",
+  "shortDescription": "Ein ganztaegiger Busausflug in den Sueden Hokkaidos mit Lake Toya, Lake Hill Farm, Showa Shinzan und den dampfenden Schloten des Hoellentals von Noboribetsu.",
+  "fullDescription": "Der Sueden Hokkaidos ist Vulkanland, und dieser ganztaegige Ausflug von Sapporo zeigt Ihnen, was das in der Praxis bedeutet. Nach etwa zwei Stunden im Bus erreichen Sie Lake Toya, einen breiten Caldera-See, umgeben von Huegeln, wo Sie eine Stunde Zeit haben, am Ufer zu spazieren, Fotos zu machen, in den Geschaeften zu stoebern und von Ihrem Reiseleiter zu hoeren, wie der See entstanden ist. Eine kurze Fahrt bringt Sie weiter zu Lake Hill Farm fuer eine Pause in offenem Weideland, der Art weiter gruener Landschaft, die viel mehr an Nordeuropa erinnert als an den Rest Japans. Von dort fuehrt die Route weiter zum Showa Shinzan, dem jungen Lavadom, der sich zu Lebzeiten lebender Menschen aus dem Feld eines Bauern erhob und am Gipfel noch sanft raucht. Hier haben Sie eine Stunde Freizeit fuer Mittagessen und eine richtige Pause, bevor der letzte und dramatischste Halt des Tages folgt. Das Hoellental von Noboribetsu ist ein rohes vulkanisches Becken aus Dampfschloten, schwefelverfaerbtem Gestein und heissen Baechen, und die Stege lassen Sie nahe genug herankommen, um die Hitze vom Boden zu spueren. Je nach Jahreszeit umfasst der Tag auch den Meisui Park ausserhalb des Winters oder ein Schneemobilabenteuer, sobald der Schnee da ist, sodass der Ausflug im Laufe des Jahres seinen Charakter aendert. Zwei Startpunkte und zwei Ausstiegspunkte werden angeboten, sodass Sie dort einsteigen und enden koennen, wo es Ihnen passt, und der ganze Tag wird in einem komfortablen Bus verbracht, bei dem das Fahren fuer Sie erledigt ist.",
+  "highlights": [],
+  "included": [
+   "Professioneller ortskundiger Reiseleiter, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "sapporo-noboribetsu-group-tour": {
+  "title": "Lake Toya, Niseko und Noboribetsu: Saisonale Kleingruppentour",
+  "metaTitle": "Lake Toya, Niseko und Noboribetsu Kleingruppe",
+  "metaDescription": "Saisonale zehnstuendige Kleingruppentour von Sapporo durch das Farmland rund um Lake Toya, die Parks von Niseko und den Thermalort Noboribetsu.",
+  "shortDescription": "Eine saisonale zehnstuendige Kleingruppentour von Sapporo durch das Farmland rund um Lake Toya, die Parks von Niseko und den Thermalort Noboribetsu.",
+  "fullDescription": "Der Sueden Hokkaidos im Fruehling und Sommer sieht aus wie nirgendwo sonst in Japan, und diese zehnstuendige Kleingruppentour ist speziell fuer diese Jahreszeiten gemacht. Die Route verbindet drei der bekanntesten Orte der Region an einem einzigen Tag, mit nicht mehr als neun Teilnehmern, was das Fahrzeug angenehm und die Stopps flexibel haelt. Rund um Lake Toya liegt der Reiz in den Farmen: offenes, sanft hingelegtes Weideland, das zu einem breiten Caldera-See hinabfuehrt, mit der Art weiter gruener Ausblicke, die Menschen diesen Teil Japans mit Europa vergleichen lassen. Die Tour nimmt sich Zeit fuer dieses schoene Farmland, statt den See nur als einzelnen Fotostopp zu behandeln. Niseko, international besser fuer seinen Winter bekannt, ist nach dem Schmelzen des Schnees ein voellig anderer Ort, und die Parks dort bieten die Berglandschaft ohne das Gedraenge der Skisaison. Noboribetsu vervollstaendigt das Trio, der Thermalort, dessen vulkanische Landschaft die dramatischste der Region ist. Das Reisen in einer kleinen Gruppe macht an einem so langen Tag einen echten Unterschied: Das Einsteigen geht schnell, die Gruppe bewegt sich leicht gemeinsam, und es gibt deutlich weniger von dem Warten, das bei einer grossen Bustour Zeit kostet. Da es saisonal ist, ist dieser Tag darauf ausgelegt, Hokkaido im Fruehling und Sommer von seiner besten Seite zu zeigen, eine Version der Insel, die die meisten internationalen Besucher, die wegen des Pulverschnees kommen, nie zu sehen bekommen.",
+  "highlights": [],
+  "included": [
+   "Professioneller ortskundiger Reiseleiter, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "sapporo-noboribetsu-private-tour": {
+  "title": "Noboribetsu, Lake Toya und Otaru: Private Tagestour ab Sapporo",
+  "metaTitle": "Noboribetsu, Lake Toya und Otaru privat",
+  "metaDescription": "Private zehnstuendige Tour ab Sapporo zu den heissen Quellen und dem Hoellental von Noboribetsu, dem Lake Toya und der Hafenstadt Otaru.",
+  "shortDescription": "Eine private zehnstuendige Tour ab Sapporo zu den heissen Quellen und dem Hoellental von Noboribetsu, dem Lake Toya und der Hafenstadt Otaru.",
+  "fullDescription": "Diese private Tagestour verknuepft drei der wichtigsten Reiseziele Hokkaidos und stellt Ihnen fuer die gesamte Dauer ein Fahrzeug nur fuer sich zur Verfuegung. Noboribetsu kommt zuerst, das beruehmteste Thermalbad der Insel, wo die Anziehungskraft nicht nur in den Baedern liegt, sondern im Hoellental, dem dampfenden vulkanischen Becken oberhalb der Stadt, das den Quellen ihr Wasser liefert. Schwefelschlote, verfaerbtes Gestein und heisse Baeche lassen es wirken, als waere der Boden aufgerissen worden, und Stege lassen Sie wirklich nahe heran. Von dort fuehrt die Route zum Lake Toya, einem weiten, von Huegeln umgebenen Caldera-See, wo die Landschaft fuer sich spricht: stilles Wasser, ferne vulkanische Gipfel und weite Ausblicke, die es lohnen, einfach anzuhalten und zu schauen. Der letzte der drei ist Otaru, die kleine Hafenstadt, deren alter Kanal, Steinlagerhaeuser und erhaltene Strassen sie zum charmantesten Halt jeder Hokkaido-Reise gemacht haben. Alle drei an einem Tag zu schaffen ist nur mit einem privaten Auto realistisch, da die oeffentlichen Verkehrsverbindungen zwischen ihnen langsam und schlecht abgestimmt sind, und eine feste Gruppentour wuerde Sie durch jeden Ort hetzen. Hier gehoeren Tempo und Gewichtung Ihnen. Wenn das Hoellental Sie packt, bleiben Sie laenger; wenn Sie den Nachmittag lieber Otaru geben moechten, sagen Sie es einfach. Zehn Stunden mit Ihrem eigenen Fahrer verwandeln das, was ein anstrengendes logistisches Puzzle waere, in einen einfachen und wirklich genussvollen Erkundungstag.",
+  "highlights": [],
+  "included": [
+   "Professioneller ortskundiger Reiseleiter, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
   "title": "Obstpflücken in Yoichi, die Nikka-Destillerie und die Shakotan-Küste",
   "metaTitle": "Obstpflücken, Nikka-Destillerie und Shakotan-Küste",

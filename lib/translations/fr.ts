@@ -60479,6 +60479,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Repas"
   ]
  },
+ "sapporo-inclusive-private-tour": {
+  "title": "Journee poudreuse a Sapporo Teine : cours prive tout compris de ski ou snowboard",
+  "metaTitle": "Journee poudreuse a Sapporo Teine",
+  "metaDescription": "Transferts aller-retour, location d'equipement, forfaits de ski et deux heures de cours prive a Sapporo Teine, avec un chauffeur local present toute la journee.",
+  "shortDescription": "Une journee tout compris sur la neige a Sapporo Teine, avec transferts aller-retour, location d'equipement, forfaits de ski et un chauffeur local present toute la journee.",
+  "fullDescription": "Sapporo Teine est assez proche de la ville pour y arriver en environ une heure et assez bon pour avoir accueilli des epreuves olympiques, et cette journee tout compris elimine toutes les formalites qui se dressent habituellement entre un visiteur et la poudreuse de Hokkaido. Votre chauffeur local vient vous chercher et vous emmene a la montagne, et la location d'equipement et les forfaits de ski sont deja regles, donc pas de file d'attente a un guichet dans une langue que vous ne lisez pas et pas besoin de comprendre quel forfait couvre quel telesiege. Le cours lui-meme dure environ deux heures en format prive, ce qui signifie que l'enseignement est adapte a vous plutot qu'a la moyenne d'un groupe mixte, que vous chaussiez des skis pour la premiere fois ou que vous affiniez une technique deja acquise. Ensuite, vous avez encore quelques heures pour utiliser librement la montagne, en mettant en pratique la lecon sur des pistes qui descendent vers la cote. Le plaisir particulier de Teine, c'est cette vue : l'ocean se trouve au pied de votre ligne de visee pendant que vous skiez, ce qui est rare partout et tres rare sur une neige aussi bonne. La poudreuse de Hokkaido a une reputation qui attire des gens du monde entier, et Teine en profite autant que les stations plus connues de l'interieur tout en etant beaucoup plus facile a rejoindre depuis un hotel de Sapporo. Votre chauffeur reste disponible toute la journee pour une assistance sur place, et a la fin vous ramene en ville, si bien que cette sortie ne vous demande rien d'autre que de vous presenter.",
+  "highlights": [],
+  "included": [
+   "Transferts aller-retour depuis Sapporo, location d'equipement, forfaits de ski, cours prive, assistance sur place par un chauffeur local"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "sapporo-lavender-guided-tour": {
+  "title": "Lavande de Furano et etang bleu de Biei : circuit d'ete de deux jours a Hokkaido",
+  "metaTitle": "Lavande de Furano et etang bleu de Biei",
+  "metaDescription": "Circuit d'ete de deux jours depuis Sapporo vers les terrasses de lavande de Farm Tomita, l'etang bleu de Biei et les cabanes illuminees de Ningle Terrace.",
+  "shortDescription": "Un circuit d'ete de deux jours qui quitte Sapporo pour les couleurs du centre de Hokkaido, avec les terrasses de lavande de Farm Tomita, l'etang bleu cobalt de Biei et les cabanes illuminees de Ningle Terrace.",
+  "fullDescription": "L'ete de Hokkaido a une fenetre courte et spectaculaire, et ce circuit de deux jours est concu pour la saisir. Vous quittez Sapporo pour l'interieur de l'ile, ou les terres agricoles autour de Furano et Biei se transforment en bandes de couleur qui attirent des visiteurs de tout le Japon. La piece maitresse est Farm Tomita, dont les terrasses de lavande descendent en bandes violettes le long de la colline et parfument l'air pendant toute votre visite. Le moment compte avec la lavande, donc apres la mi-aout, le circuit se tourne plutot vers Shikisai-no-oka, ou les bandes de fleurs gardent leur couleur plus tard dans la saison et l'effet est tout aussi saisissant. L'etang bleu de Biei est l'autre site emblematique du voyage, une etendue d'eau immobile et couleur cobalt avec des arbres morts qui s'y dressent, un lieu qui parait irreel en photo et seulement un peu moins en realite. Les deux jours se terminent a Ningle Terrace, un ensemble de petites cabanes d'artisanat en bois relies par des sentiers forestiers et illumines de lanternes a la nuit tombee, la conclusion calme et pleine d'atmosphere que ce voyage merite. Repartir ce programme sur deux jours plutot que de le comprimer en un seul fait toute la difference entre se precipiter entre les points de vue et vraiment etre quelque part. Les distances au centre de Hokkaido sont longues, la lumiere est la plus belle tot le matin et en fin de journee, et une nuit sur place vous permet de profiter des deux extremites de la journee plutot que de les passer sur la route.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "sapporo-morning-tour": {
+  "title": "Route doree de Sapporo : promenade matinale devant la tour de l'horloge et la tour TV",
+  "metaTitle": "Route doree de Sapporo le matin",
+  "metaDescription": "Promenade guidee de deux heures le matin sur la route doree de Sapporo, reliant la tour TV, la tour de l'horloge et le batiment en briques rouges.",
+  "shortDescription": "Une promenade guidee de deux heures le matin sur la route doree de Sapporo, reliant la tour TV, la tour de l'horloge et le bureau en briques rouges, avec un commentaire expert.",
+  "fullDescription": "Si vous n'avez qu'une matinee a Sapporo, la route doree est la promenade qui resume la ville, et cette version guidee de deux heures la couvre correctement. Vous commencez a la tour TV de Sapporo, a la tete d'Odori, ou vous avez une bonne demi-heure pour admirer les vues le long du parc et laisser votre guide expliquer le plan de la ville etalee sous vos yeux. Sapporo a ete planifiee plutot que nee d'une croissance naturelle, et voir cette grille depuis les hauteurs avant de la parcourir rend tout ce qui suit plus facile a comprendre. Depuis la tour, l'itineraire continue a pied vers l'ouest jusqu'a la tour de l'horloge de Sapporo, le modeste batiment en bois devenu l'embleme de la ville, ou votre guide expose son histoire et explique pourquoi une structure aussi sobre compte autant pour les habitants. La promenade se termine a l'ancien bureau du gouvernement de Hokkaido, le batiment en briques rouges en retrait dans son propre terrain, dont l'architecture en dit long sur les ambitions de l'epoque ou Hokkaido a ete developpee. Tout au long, la valeur reside dans le commentaire : ce sont trois sites que vous pourriez trouver seul en vingt minutes avec une carte, mais savoir ce qu'ils signifient et comment ils s'articulent transforme une liste en une histoire coherente sur la facon dont cette ville a vu le jour. L'ensemble du parcours est plat, central et facile a marcher, et le terminer avant midi laisse le reste de votre journee libre pour les marches, la gastronomie ou une excursion hors de la ville.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "sapporo-noboribetsu-full-day-tour": {
+  "title": "Lac Toya, Showa Shinzan et la vallee de l'enfer de Noboribetsu : excursion d'une journee",
+  "metaTitle": "Lac Toya et vallee de l'enfer de Noboribetsu",
+  "metaDescription": "Excursion d'une journee en car dans le sud de Hokkaido, avec le lac Toya, Lake Hill Farm, Showa Shinzan et les fumerolles de la vallee de l'enfer de Noboribetsu.",
+  "shortDescription": "Une excursion d'une journee complete en car dans le sud de Hokkaido, avec le lac Toya, Lake Hill Farm, Showa Shinzan et les fumerolles de la vallee de l'enfer de Noboribetsu.",
+  "fullDescription": "Le sud de Hokkaido est un pays de volcans, et cette excursion d'une journee depuis Sapporo vous montre ce que cela signifie concretement. Apres environ deux heures de car, vous arrivez au lac Toya, un large lac de caldera entoure de collines, ou vous avez une heure pour marcher sur la rive, prendre des photos, flaner dans les boutiques et ecouter votre guide expliquer comment le lac s'est forme. Une courte route vous mene ensuite a Lake Hill Farm pour une pause en pleine campagne, le genre de paysage vert et vaste qui rappelle bien plus l'Europe du Nord que le reste du Japon. De la, l'itineraire continue vers Showa Shinzan, le jeune dome volcanique qui a surgi du champ d'un fermier de memoire d'homme et qui fume encore doucement au sommet. Vous disposez d'une heure ici, avec du temps libre pour dejeuner et bien vous reposer avant la derniere etape, la plus spectaculaire de la journee. La vallee de l'enfer de Noboribetsu est un bassin volcanique brut de fumerolles, de roches tachees de soufre et de ruisseaux chauds, et les passerelles vous permettent d'approcher suffisamment pres pour sentir la chaleur qui s'en degage. Selon la saison, la journee inclut aussi Meisui Park hors de l'hiver ou une aventure en motoneige une fois la neige arrivee, si bien que l'excursion change de caractere au fil de l'annee. Deux points de depart et deux points de depose sont proposes afin que vous puissiez rejoindre et terminer la ou cela vous convient, et toute la journee se passe dans un car confortable, la conduite etant prise en charge pour vous.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "sapporo-noboribetsu-group-tour": {
+  "title": "Lac Toya, Niseko et Noboribetsu : excursion saisonniere en petit groupe",
+  "metaTitle": "Lac Toya, Niseko et Noboribetsu en petit groupe",
+  "metaDescription": "Excursion saisonniere de dix heures en petit groupe depuis Sapporo, a travers la campagne du lac Toya, les parcs de Niseko et la ville thermale de Noboribetsu.",
+  "shortDescription": "Une excursion saisonniere de dix heures en petit groupe depuis Sapporo, a travers la campagne agricole du lac Toya, les parcs de Niseko et la ville thermale de Noboribetsu.",
+  "fullDescription": "Le sud de Hokkaido au printemps et en ete ne ressemble a aucun autre endroit du Japon, et cette excursion de dix heures en petit groupe est concue specifiquement pour ces saisons. L'itineraire relie trois des lieux les plus connus de la region en une seule journee, avec pas plus de neuf participants a bord, ce qui garde le vehicule confortable et les arrets flexibles. Autour du lac Toya, l'attrait tient aux fermes : des paturages ouverts et vallonnes qui descendent vers un vaste lac de caldera, avec le genre de vues vertes et etendues qui font comparer cette partie du Japon a l'Europe. L'excursion prend le temps de profiter de cette belle campagne plutot que de traiter le lac comme un simple arret photo. Niseko, plus connue a l'international pour son hiver, devient un endroit totalement different une fois la neige partie, et ses parcs offrent le paysage montagneux sans la foule de la saison de ski. Noboribetsu complete le trio, la ville thermale dont le paysage volcanique est le plus spectaculaire de la region. Voyager en petit groupe fait une vraie difference sur une journee aussi longue : l'embarquement est rapide, le groupe se deplace facilement ensemble, et il y a beaucoup moins de l'attente qui grignote le temps sur un grand circuit en car. Etant saisonniere, cette journee est concue pour montrer Hokkaido au printemps et en ete sous son meilleur jour, une version de l'ile que la plupart des visiteurs internationaux, venus pour la poudreuse, ne voient jamais.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "sapporo-noboribetsu-private-tour": {
+  "title": "Noboribetsu, lac Toya et Otaru : excursion privee d'une journee depuis Sapporo",
+  "metaTitle": "Noboribetsu, lac Toya et Otaru en prive",
+  "metaDescription": "Excursion privee de dix heures depuis Sapporo vers les sources chaudes et la vallee de l'enfer de Noboribetsu, le lac Toya et la ville portuaire d'Otaru.",
+  "shortDescription": "Une excursion privee de dix heures depuis Sapporo vers les sources chaudes et la vallee de l'enfer de Noboribetsu, le lac Toya et la ville portuaire d'Otaru.",
+  "fullDescription": "Cette excursion privee relie trois des destinations phares de Hokkaido et vous offre un vehicule pour vous seul pendant toute la journee. Noboribetsu vient en premier, la station thermale la plus celebre de l'ile, ou l'attrait ne se limite pas aux bains mais inclut la vallee de l'enfer, le bassin volcanique fumant au-dessus de la ville qui alimente les sources en eau. Les fumerolles de soufre, les roches decolorees et les ruisseaux chauds donnent l'impression que le sol s'est ouvert, et des passerelles permettent de s'en approcher vraiment. De la, l'itineraire mene au lac Toya, un vaste lac de caldera entoure de collines, ou le paysage fait tout le travail : eau calme, pics volcaniques lointains et longues vues qui recompensent simplement le fait de s'arreter et de regarder. Le dernier des trois est Otaru, la petite ville portuaire dont le vieux canal, les entrepots en pierre et les rues preservees en ont fait l'arret le plus charmant de tout itineraire a Hokkaido. Faire les trois en une journee n'est realiste qu'avec une voiture privee, car les liaisons en transports en commun entre ces lieux sont lentes et mal coordonnees, et une excursion en groupe fixe vous presserait a travers chacun d'eux. Ici, le rythme et l'equilibre sont les votres. Si la vallee de l'enfer vous captive, restez plus longtemps ; si vous preferez consacrer l'apres-midi a Otaru, dites-le. Dix heures avec votre propre chauffeur transforment ce qui serait un puzzle logistique epuisant en une journee d'exploration simple et vraiment agreable.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
   "title": "Cueillette de fruits a Yoichi, distillerie Nikka et cote de Shakotan",
   "metaTitle": "Cueillette, distillerie Nikka et cote de Shakotan",
