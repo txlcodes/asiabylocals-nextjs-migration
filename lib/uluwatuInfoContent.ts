@@ -788,6 +788,54 @@ export function getUluwatuInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-uluwatu":
+      return {
+        title: "Best Tours in Uluwatu — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Uluwatu 2026: Top-Rated Picks by Category",
+        description: "The best Uluwatu tours for 2026, picked by category — the Kecak fire dance at sunset, a combined surfing and Tanah Lot day, and the temple's naughty monkeys — with real prices and an honest note on how we chose them.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uluwatu-temple-sunset-tour-with-kecak-fire-dance/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "**Uluwatu Temple at sunset with the Kecak fire dance** is Bali's single most iconic evening experience — the cliff-top temple, the sunset over the ocean, and the trance-like fire dance performed as the light fades.",
+            tourCard: { slug: "uluwatu-temple-sunset-tour-with-kecak-fire-dance", title: "Uluwatu Temple Sunset Tour with Kecak Fire Dance", description: "Bookable directly through AsiaByLocals, with a verified local operator.", price: "From USD 97.50", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uluwatu-temple-sunset-tour-with-kecak-fire-dance/img0/1600.webp" },
+          },
+          {
+            title: "Best Combined Day: Surfing & Tanah Lot",
+            content: "A **surfing class paired with Tanah Lot and the Kecak dance** covers Bali's two most iconic temple sunsets and a surf lesson in a single full day — efficient if your time in Bali is limited.",
+            tourCard: { slug: "surfing-class-tanah-lot-and-kecak-dance-sunset-tour", title: "Surfing Class, Tanah Lot and Kecak Dance Sunset Tour", description: "Bookable directly through AsiaByLocals, with a verified local operator.", price: "From USD 76.50", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/surfing-class-tanah-lot-and-kecak-dance-sunset-tour/img0/1600.webp" },
+          },
+          {
+            title: "Best for a Shorter Visit: Temple & Monkeys",
+            content: "**Uluwatu Temple, the naughty monkeys and nearby beaches**, with pickup included, is the best half-day version if you don't want the full sunset wait — the resident macaques are a genuine attraction of their own (watch your sunglasses).",
+            tourCard: { slug: "uluwatu-temple-naughty-monkeys-and-beaches-tour-with-pickup", title: "Uluwatu Temple, Naughty Monkeys, and Beaches Tour with Pickup", description: "Bookable directly through AsiaByLocals, with a verified local operator.", price: "From USD 65.00", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uluwatu-temple-naughty-monkeys-and-beaches-tour-with-pickup/img0/1600.webp" },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Uluwatu tours](/indonesia/uluwatu)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Uluwatu?", a: "Uluwatu Temple at sunset with the Kecak fire dance — the cliff-top temple, ocean sunset, and trance-like fire dance in one evening." },
+          { q: "Are the monkeys at Uluwatu Temple dangerous?", a: "They're known for grabbing sunglasses, hats and loose items rather than being dangerous — keep valuables secured and don't engage with them directly." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Uluwatu?", "acceptedAnswer": { "@type": "Answer", "text": "Uluwatu Temple at sunset with the Kecak fire dance." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Uluwatu Sunset + Kecak Dance' },
+          { icon: 'Waves', label: 'Best Combined Day', value: 'Surfing + Tanah Lot' }
+        ]
+      };
+
     default:
       return null;
   }

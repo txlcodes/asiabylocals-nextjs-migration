@@ -402,6 +402,7 @@ export const PHNOM_PENH_INFO_SLUGS = [
     'phnom-penh-with-kids',
     'phnom-penh-to-sihanoukville-and-the-islands',
     'phnom-penh-airport-guide',
+    'best-tours-in-phnom-penh',
 ];
 
 export const SIEM_REAP_INFO_SLUGS = [
@@ -1114,6 +1115,7 @@ export const SAPA_INFO_SLUGS = [
   'sapa-markets-and-bac-ha-guide',
   'mu-cang-chai-and-rice-terrace-guide',
   'sapa-2-day-itinerary',
+  'best-tours-in-sapa',
 ];
 
 export const HOI_AN_INFO_SLUGS = [
@@ -1164,6 +1166,7 @@ export const CANGGU_INFO_SLUGS = [
   'canggu-rice-field-walks-guide',
   'north-bali-day-trip-from-canggu',
   'canggu-nusa-penida-day-trip',
+  'best-tours-in-canggu',
 ];
 
 export const ULUWATU_INFO_SLUGS = [
@@ -1177,6 +1180,7 @@ export const ULUWATU_INFO_SLUGS = [
   'jimbaran-seafood-dinner-guide',
   'melasti-beach-guide',
   'uluwatu-sunset-spots-guide',
+  'best-tours-in-uluwatu',
 ];
 
 export const NUSA_PENIDA_INFO_SLUGS = [

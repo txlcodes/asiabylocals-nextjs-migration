@@ -725,6 +725,7 @@ const PATTAYA_SIDEBAR = [
 ];
 
 const PHNOM_PENH_SIDEBAR = [
+    { name: 'Best Tours in Phnom Penh', slug: 'best-tours-in-phnom-penh' },
     { name: 'S-21 & Killing Fields', slug: 'tuol-sleng-and-choeung-ek-guide' },
     { name: 'Royal Palace', slug: 'royal-palace-phnom-penh' },
     { name: '2-Day Itinerary', slug: 'phnom-penh-2-day-itinerary' },

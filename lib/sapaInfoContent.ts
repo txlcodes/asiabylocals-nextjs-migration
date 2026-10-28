@@ -527,6 +527,75 @@ export function getSapaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-sapa":
+      return {
+        title: "Best Tours in Sapa — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Sapa 2026: Top-Rated Picks by Category",
+        description: "The best Sapa tours for 2026, picked by category — village treks through rice terraces, a Ta Van to Su Pan guided trek, and a one-day trekking tour — with real prices and an honest note on how we chose them.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **trek to Y Linh Ho, Lao Chai and Ta Van villages** is the classic Sapa experience — rice terraces, Hmong and Dao villages, and a local guide from the ethnic minority communities you're walking through.",
+            tourCard: {
+              slug: "trekking-to-y-linh-ho-lao-chai-and-ta-van-villages-in-sapa",
+              title: "Trekking to Y Linh Ho, Lao Chai and Ta Van Villages",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 39",
+              duration: "6 hours",
+              image: IMG,
+            },
+          },
+          {
+            title: "Best One-Day Option",
+            content: "A **one-day trekking tour through rice terraces and villages** covers the essential Sapa landscape in a single day for travellers with limited time.",
+            tourCard: {
+              slug: "sapa-1-day-trekking-tour-rice-terraces-and-villages-sapa",
+              title: "Sapa One-Day Trekking Tour: Rice Terraces and Villages",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 39",
+              duration: "6 hours",
+              image: IMG,
+            },
+          },
+          {
+            title: "Best for Going Further: Ta Van to Su Pan",
+            content: "A **guided trek from Ta Van to Su Pan** with a local guide goes further off the main trekking routes, for travellers who've already done the standard village circuit.",
+            tourCard: {
+              slug: "t-van-to-su-pan-guided-trek-with-local-guide-in-sapa",
+              title: "Ta Van to Su Pan Guided Trek with a Local Guide",
+              description: "Bookable directly through AsiaByLocals, with a verified local operator.",
+              price: "From USD 38",
+              duration: "5 hours",
+              image: IMG,
+            },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Sapa tours](/vietnam/sapa)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Sapa?", a: "A trek to Y Linh Ho, Lao Chai and Ta Van villages — rice terraces, Hmong and Dao villages, with a local guide from the communities you're walking through." },
+          { q: "Is one day enough for Sapa trekking?", a: "A one-day trekking tour through rice terraces and villages covers the essentials, but Sapa rewards more time if you want to trek further routes like Ta Van to Su Pan." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Sapa?", "acceptedAnswer": { "@type": "Answer", "text": "A trek to Y Linh Ho, Lao Chai and Ta Van villages." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Y Linh Ho + Ta Van Village Trek' },
+          { icon: 'Mountain', label: 'Best for Going Further', value: 'Ta Van to Su Pan Trek' }
+        ]
+      };
+
     default:
       return null;
   }

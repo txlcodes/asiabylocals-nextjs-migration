@@ -405,7 +405,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   // Krabi info pages
   const phnomPenhInfoPages = [
     'tuol-sleng-and-choeung-ek-guide', 'royal-palace-phnom-penh', 'phnom-penh-2-day-itinerary', 'phnom-penh-food-and-markets', 'phnom-penh-to-siem-reap-transport', 'best-time-to-visit-phnom-penh',
-    'phnom-penh-1-day-itinerary', 'koh-dach-silk-island', 'kampot-and-kep-day-trip', 'phnom-penh-street-art', 'where-to-stay-in-phnom-penh', 'phnom-penh-to-battambang', 'oudong-guide', 'phnom-penh-with-kids', 'phnom-penh-to-sihanoukville-and-the-islands', 'phnom-penh-airport-guide',
+    'phnom-penh-1-day-itinerary', 'koh-dach-silk-island', 'kampot-and-kep-day-trip', 'phnom-penh-street-art', 'where-to-stay-in-phnom-penh', 'phnom-penh-to-battambang', 'oudong-guide', 'phnom-penh-with-kids', 'phnom-penh-to-sihanoukville-and-the-islands', 'phnom-penh-airport-guide', 'best-tours-in-phnom-penh',
   ].map(slug => ({
     url: `${BASE_URL}/cambodia/phnom-penh/${slug}`,
     lastModified: new Date(),
@@ -869,7 +869,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'sapa-homestay-guide',
     'sapa-markets-and-bac-ha-guide',
     'mu-cang-chai-and-rice-terrace-guide',
-    'sapa-2-day-itinerary',
+    'sapa-2-day-itinerary', 'best-tours-in-sapa',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/sapa/${slug}`,
     lastModified: new Date(),
@@ -933,7 +933,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
       'canggu-to-ubud-day-trip',
     'canggu-rice-field-walks-guide',
     'north-bali-day-trip-from-canggu',
-    'canggu-nusa-penida-day-trip',
+    'canggu-nusa-penida-day-trip', 'best-tours-in-canggu',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/canggu/${slug}`,
     lastModified: new Date(),
@@ -951,7 +951,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
       'gwk-cultural-park-guide',
     'jimbaran-seafood-dinner-guide',
     'melasti-beach-guide',
-    'uluwatu-sunset-spots-guide',
+    'uluwatu-sunset-spots-guide', 'best-tours-in-uluwatu',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/uluwatu/${slug}`,
     lastModified: new Date(),

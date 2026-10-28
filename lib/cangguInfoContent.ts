@@ -863,6 +863,54 @@ export function getCangguInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-canggu":
+      return {
+        title: "Best Tours in Canggu — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Canggu 2026: Top-Rated Picks by Category",
+        description: "The best Canggu tours for 2026, picked by category — a surf lesson at Batu Bolong, a Kuta Beach surf lesson, and a private Seminyak sunset photoshoot — with real prices and an honest note on how we chose them.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/surf-lesson-in-batu-bolong-canggu-with-certified-instructor-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **surf lesson at Batu Bolong with a certified instructor** is the essential Canggu experience — the beach this district is actually built around, and a lesson gets you standing up on your first day rather than fighting the board alone.",
+            tourCard: { slug: "surf-lesson-in-batu-bolong-canggu-with-certified-instructor-canggu", title: "Surf lesson in Batu Bolong Canggu with certified instructor (Canggu)", description: "Bookable directly through AsiaByLocals, with a verified local operator.", price: "From USD 38.50", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/surf-lesson-in-batu-bolong-canggu-with-certified-instructor-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Best for Beginners: Kuta Beach Surf Lesson",
+            content: "A **Kuta Beach surfing lesson** with a local instructor is the gentler, more beginner-friendly alternative to Canggu's breaks — softer waves, a longer sandy beach, and a slightly lower price point too.",
+            tourCard: { slug: "kuta-beach-surfing-lesson-2-hours-local-instructor", title: "Kuta Beach Surfing Lesson (2 Hours, Local Instructor)", description: "Bookable directly through AsiaByLocals, with a verified local operator.", price: "From USD 29.00", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/kuta-beach-surfing-lesson-2-hours-local-instructor/img0/1600.webp" },
+          },
+          {
+            title: "Best Evening Experience: Seminyak Sunset Photoshoot",
+            content: "A **private sunset photoshoot at Seminyak Beach** is the best way to capture Bali's famous beach-club sunset properly, rather than relying on your own phone camera and bad angles.",
+            tourCard: { slug: "private-sunset-photoshoot-experience-at-seminyak-beach", title: "Private Sunset Photoshoot Experience at Seminyak Beach", description: "Bookable directly through AsiaByLocals, with a verified local operator.", price: "From USD 76.50", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-sunset-photoshoot-experience-at-seminyak-beach/img0/1600.webp" },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Canggu tours](/indonesia/canggu)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Canggu?", a: "A surf lesson at Batu Bolong with a certified instructor — the beach the district is built around." },
+          { q: "What is the best beach for a beginner surfer near Canggu?", a: "Kuta Beach — softer waves and a longer sandy beach, making it more forgiving for a first lesson than Canggu's own breaks." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Canggu?", "acceptedAnswer": { "@type": "Answer", "text": "A surf lesson at Batu Bolong with a certified instructor." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Batu Bolong Surf Lesson' },
+          { icon: 'Sunset', label: 'Best Evening', value: 'Seminyak Sunset Photoshoot' }
+        ]
+      };
+
     default:
       return null;
   }

@@ -780,6 +780,66 @@ export function getPhnomPenhInfoContent(slug: string): CityInfoData | null {
                     { q: 'Does the new airport change whether I should fly to Siem Reap?', a: 'Yes. With both airports now well outside their cities, the 55-minute flight is about four and a half hours door to door against five and a half to six on a bus that drops you in the centre of town. The plane buys about ninety useful minutes.' },
                 ],
             };
+        case "best-tours-in-phnom-penh":
+            return {
+                title: "Best Tours in Phnom Penh — 2026, Honestly Compared",
+                seoTitle: "Best Tours in Phnom Penh 2026: Top-Rated Picks by Category",
+                description: "The best Phnom Penh tours for 2026, picked by category — Tuol Sleng and the Killing Fields, the Royal Palace, a street art and food tour, and a Mekong sunset cruise — with real prices and an honest note on how we chose them.",
+                heroImage: CARD.palace.image,
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "**Tuol Sleng and Choeung Ek with a guide** is the essential, difficult half-day every visitor to Phnom Penh should do — the two Khmer Rouge sites, done quietly and at the right pace, with a guide who gives the history context that makes the visit mean something rather than just being grim.",
+                        tourCard: CARD.s21,
+                    },
+                    {
+                        title: "Best Cultural Experience: Royal Palace & National Museum",
+                        content: "The **Royal Palace, National Museum and Wat Phnom** in one guided day covers the Silver Pagoda, the best Khmer sculpture collection anywhere, and the hill the city is named after.",
+                        tourCard: CARD.palace,
+                    },
+                    {
+                        title: "Best Food Experience",
+                        content: "A **street art and food tour with pickup** solves the actual barrier to eating well in Cambodia — the ordering — while taking in the murals that have gone up across the city since 2015.",
+                        tourCard: CARD.food,
+                    },
+                    {
+                        title: "Best Evening Experience: Mekong Sunset Cruise",
+                        content: "**Street art in the afternoon, then a sunset Mekong cruise** — an hour on the water where the Mekong, Tonle Sap and Bassac rivers meet, is the best way to close a day in Phnom Penh.",
+                        tourCard: CARD.cruise,
+                    },
+                    {
+                        title: "Best Day Trip: Kampot & Kep",
+                        content: "**Kampot and Kep** — pepper smallholdings under Bokor mountain, and blue swimmer crab cooked with green pepper at the Kep crab market — is the best full-day escape from the city for travellers with time to spare.",
+                        tourCard: CARD.kampot,
+                    },
+                    {
+                        title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+                        content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Phnom Penh tours](/cambodia/phnom-penh)."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best tour in Phnom Penh?", a: "Tuol Sleng and Choeung Ek with a guide — the two Khmer Rouge sites, done quietly and at the right pace, with the history context that makes the visit mean something." },
+                    { q: "What is the best day trip from Phnom Penh?", a: "Kampot and Kep — pepper smallholdings under Bokor mountain and blue swimmer crab at the Kep crab market." },
+                    { q: "What is the best evening activity in Phnom Penh?", a: "Street art in the afternoon followed by a sunset Mekong cruise, where the Mekong, Tonle Sap and Bassac rivers meet." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@graph": [
+                        {
+                            "@type": "FAQPage",
+                            "mainEntity": [
+                                { "@type": "Question", "name": "What is the best tour in Phnom Penh?", "acceptedAnswer": { "@type": "Answer", "text": "Tuol Sleng and Choeung Ek with a guide." } },
+                                { "@type": "Question", "name": "What is the best day trip from Phnom Penh?", "acceptedAnswer": { "@type": "Answer", "text": "Kampot and Kep." } }
+                            ]
+                        }
+                    ]
+                },
+                fastFacts: [
+                    { icon: 'Star', label: 'Top Pick', value: 'Tuol Sleng + Choeung Ek' },
+                    { icon: 'Landmark', label: 'Best Cultural Site', value: 'Royal Palace + Museum' },
+                    { icon: 'Map', label: 'Best Day Trip', value: 'Kampot + Kep' }
+                ]
+            };
         default:
             return null;
     }
