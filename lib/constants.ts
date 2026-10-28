@@ -526,7 +526,7 @@ export const NARA_INFO_SLUGS = [
   'getting-around-nara',
   'mount-yoshino-cherry-blossom-guide',
   'nara-workshops-and-crafts',
-  'should-you-stay-overnight-in-nara'];
+  'should-you-stay-overnight-in-nara', 'best-tours-in-nara'];
 
 // Re-add a slug here ONLY once its page exists in lib/nagoyaInfoContent.ts.
 export const NAGOYA_INFO_SLUGS = [
@@ -542,6 +542,7 @@ export const NAGOYA_INFO_SLUGS = [
   'where-to-stay-in-nagoya',
   'takayama-shirakawago-day-trip-from-nagoya',
   'nagoya-samurai-experiences',
+  'best-tours-in-nagoya',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/ellaInfoContent.ts.
@@ -625,7 +626,8 @@ export const HAKONE_INFO_SLUGS = [
   'owakudani-black-eggs-guide',
   'hakone-yosegi-marquetry-guide',
   'where-to-stay-in-hakone',
-  'hakone-or-kawaguchiko-for-mount-fuji'
+  'hakone-or-kawaguchiko-for-mount-fuji',
+  'best-tours-in-hakone'
 ];
 
 // Fuji content that was sitting under Hakone. The page bodies still live in
@@ -641,6 +643,7 @@ export const MOUNT_FUJI_INFO_SLUGS = [
   'oshino-hakkai-guide',
   'fuji-five-lakes-guide',
   'mount-fuji-day-tour-routes',
+  'best-tours-in-mount-fuji',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/hiroshimaInfoContent.ts.

@@ -899,6 +899,7 @@ const HIROSHIMA_SIDEBAR = [
 ];
 
 const NARA_SIDEBAR = [
+    { name: 'Best Tours in Nara', slug: 'best-tours-in-nara' },
     { name: 'Nara Deer Park', slug: 'nara-deer-park-guide' },
     { name: 'Todai-ji Temple', slug: 'todai-ji-temple-guide' },
     { name: 'Kasuga Taisha', slug: 'kasuga-taisha-guide' },
@@ -914,6 +915,7 @@ const NARA_SIDEBAR = [
 ];
 
 const NAGOYA_SIDEBAR = [
+    { name: 'Best Tours in Nagoya', slug: 'best-tours-in-nagoya' },
     { name: 'Ghibli Park Guide', slug: 'ghibli-park-guide' },
     { name: 'Nagoya Castle', slug: 'nagoya-castle-guide' },
     { name: 'Castle Keep Closure', slug: 'nagoya-castle-keep-closure' },
@@ -930,6 +932,7 @@ const NAGOYA_SIDEBAR = [
 ];
 
 const HAKONE_SIDEBAR = [
+    { name: 'Best Tours in Hakone', slug: 'best-tours-in-hakone' },
     { name: 'Owakudani & Black Eggs', slug: 'owakudani-black-eggs-guide' },
     { name: 'Open-Air Museum', slug: 'hakone-open-air-museum-guide' },
     { name: 'Yosegi Marquetry', slug: 'hakone-yosegi-marquetry-guide' },
@@ -979,6 +982,7 @@ const ABU_DHABI_SIDEBAR = [
 ];
 
 const MOUNT_FUJI_SIDEBAR = [
+    { name: 'Best Tours in Mount Fuji', slug: 'best-tours-in-mount-fuji' },
     { name: 'Climbing Mount Fuji', slug: 'climbing-mount-fuji-guide' },
     { name: 'Mount Fuji Viewpoints', slug: 'mount-fuji-viewpoints' },
     { name: 'Chureito Pagoda', slug: 'chureito-pagoda-guide' },

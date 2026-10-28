@@ -549,7 +549,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'nara-day-trip-from-kyoto-osaka', 'nara-half-day-itinerary',
     'kasuga-taisha-guide', 'naramachi-guide', 'nara-food-guide', 'getting-around-nara', 'mount-yoshino-cherry-blossom-guide',
     'nara-workshops-and-crafts',
-    'should-you-stay-overnight-in-nara'].map(slug => ({
+    'should-you-stay-overnight-in-nara', 'best-tours-in-nara'].map(slug => ({
     url: `${BASE_URL}/japan/nara/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -564,7 +564,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-nagoya-worth-visiting',
     'where-to-stay-in-nagoya',
     'takayama-shirakawago-day-trip-from-nagoya',
-    'nagoya-samurai-experiences',
+    'nagoya-samurai-experiences', 'best-tours-in-nagoya',
 ].map(slug => ({
     url: `${BASE_URL}/japan/nagoya/${slug}`,
     lastModified: new Date(),
@@ -578,7 +578,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'hakone-onsen-guide', 'hakone-2-day-itinerary',
     'hakone-open-air-museum-guide', 'owakudani-black-eggs-guide', 'hakone-yosegi-marquetry-guide',
     'where-to-stay-in-hakone',
-    'hakone-or-kawaguchiko-for-mount-fuji'].map(slug => ({
+    'hakone-or-kawaguchiko-for-mount-fuji', 'best-tours-in-hakone'].map(slug => ({
     url: `${BASE_URL}/japan/hakone/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -591,7 +591,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-mount-fuji',
     'oshino-hakkai-guide',
     'fuji-five-lakes-guide',
-    'mount-fuji-day-tour-routes',
+    'mount-fuji-day-tour-routes', 'best-tours-in-mount-fuji',
 ].map(slug => ({
     url: `${BASE_URL}/japan/mount-fuji/${slug}`,
     lastModified: new Date(),

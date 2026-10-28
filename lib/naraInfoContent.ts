@@ -725,6 +725,62 @@ export function getNaraInfoContent(slug: string): CityInfoData | null {
         },
         heroImage: TOUR_CARD_MORNING.image,
       };
+    case "best-tours-in-nara":
+      return {
+        title: "Best Tours in Nara — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Nara 2026: Top-Rated Picks by Category",
+        description: "The best Nara tours for 2026, picked by category — the Deer Park and Todai-ji, an early-morning crowd-beating walk, kimono rental, and temples beyond the park — with real prices and an honest note on how we chose them.",
+        heroImage: TOUR_CARD_DEER.image,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The **Deer Park, Todai-ji Temple and Great Buddha walking tour** is the essential Nara experience — the deer, the temple housing Japan's largest bronze Buddha, and the park that ties them together, all in one guided walk.",
+            tourCard: TOUR_CARD_DEER,
+          },
+          {
+            title: "Best for Avoiding Crowds: Early Morning Walk",
+            content: "An **early-morning Deer Park and Todai-ji walk** beats both the heat and the tour-bus crowds that build from mid-morning onward — the deer are calmer too, before the day's steady stream of cracker-feeding visitors arrives.",
+            tourCard: TOUR_CARD_MORNING,
+          },
+          {
+            title: "Best Cultural Experience: Kimono & Tea Ceremony",
+            content: "A **kimono rental paired with a traditional tea ceremony** is Nara's best hands-on cultural experience — walking the park and Naramachi's old merchant quarter in kimono adds a different texture to photos than the usual street clothes.",
+            tourCard: TOUR_CARD_KIMONO,
+          },
+          {
+            title: "Best for Going Deeper: Beyond the Deer Park",
+            content: "A **private tour to Yakushi-ji Temple and the mountains beyond the Deer Park** is for travellers who've already done Todai-ji and want Nara's quieter, less-visited temples and a genuine escape from the crowds.",
+            tourCard: TOUR_CARD_DEEP,
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Nara tours](/japan/nara)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Nara?", a: "The Deer Park, Todai-ji Temple and Great Buddha walking tour — the essential Nara experience, covering the deer, the temple and the park that ties them together." },
+          { q: "How do I avoid crowds at Nara's Deer Park?", a: "Go early morning — it beats both the heat and the tour-bus crowds that build from mid-morning onward, and the deer are calmer before the steady stream of visitors arrives." },
+          { q: "Is a kimono rental worth it in Nara?", a: "Yes, especially paired with a tea ceremony — it's Nara's best hands-on cultural experience, and walking the park in kimono gives a different texture to photos than street clothes." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Nara?", "acceptedAnswer": { "@type": "Answer", "text": "The Deer Park, Todai-ji Temple and Great Buddha walking tour." } },
+                { "@type": "Question", "name": "How do I avoid crowds at Nara's Deer Park?", "acceptedAnswer": { "@type": "Answer", "text": "Go early morning, before the heat and tour-bus crowds build." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Deer Park + Todai-ji Walk' },
+          { icon: 'Sunrise', label: 'Best for Crowds', value: 'Early Morning Tour' },
+          { icon: 'Camera', label: 'Best Cultural Experience', value: 'Kimono + Tea Ceremony' }
+        ]
+      };
+
     default:
       return null;
   }

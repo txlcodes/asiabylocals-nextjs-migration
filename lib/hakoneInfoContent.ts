@@ -1510,6 +1510,105 @@ export function getHakoneInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-hakone":
+      return {
+        title: "Best Tours in Hakone — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Hakone 2026: Top-Rated Picks by Category",
+        description: "The best Hakone tours for 2026, picked by category — the Hakone Loop, a Fuji Lakes day tour, and a guided transfer to Kawaguchiko — with real prices and an honest note on how we chose them.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788271747/asiabylocals/tours/hakone-explorer-guided-day-tour/img0.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The **Hakone Loop with a local guide** — the Tozan Railway, the Owakudani ropeway and a Lake Ashinoko cruise — is the single tour that covers everything the region is known for in one day, without the trial-and-error of linking up the public transit yourself.",
+            tourCard: CARD_2,
+          },
+          {
+            title: "Best Combined Day: Hakone & Fuji Lakes",
+            content: "A **Hakone Caldera and Fuji Lakes day tour** — Hakone Shrine, the ropeway and a Lake Ashi cruise — is the best single day if you want both Hakone's caldera scenery and a shot at seeing Fuji itself, weather permitting.",
+            tourCard: CARD_1,
+          },
+          {
+            title: "Best Transfer: Kawaguchiko to Hakone",
+            content: "A **private guided transfer from Kawaguchiko to Hakone** removes the logistics of linking Japan's two main Fuji-viewing bases, with stops built in along the way rather than a straight bus ride.",
+            tourCard: CARD_KAWA,
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Hakone tours](/japan/hakone)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Hakone?", a: "The Hakone Loop with a local guide — the Tozan Railway, Owakudani ropeway and a Lake Ashinoko cruise in one day, without piecing the public transit together yourself." },
+          { q: "Can I see Mount Fuji from Hakone?", a: "Yes, weather permitting — a combined Hakone and Fuji Lakes day tour covers both the caldera scenery and a shot at seeing Fuji, though cloud cover is common outside the winter months." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Hakone?", "acceptedAnswer": { "@type": "Answer", "text": "The Hakone Loop with a local guide, covering the Tozan Railway, ropeway and a lake cruise in one day." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'The Hakone Loop' },
+          { icon: 'Mountain', label: 'Best Fuji View', value: 'Hakone + Fuji Lakes Day Tour' }
+        ]
+      };
+
+    case "best-tours-in-mount-fuji":
+      return {
+        title: "Best Tours in Mount Fuji — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Mount Fuji 2026: Top-Rated Picks by Category",
+        description: "The best Mount Fuji tours for 2026, picked by category — a sunrise summit climb, a private Kawaguchiko day tour, and Chureito Pagoda — with real prices and an honest note on how we chose them.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788271570/asiabylocals/tours/mount-fuji-sunrise-summit-2day-guided-climb/img0.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "For the serious version, the **two-day sunrise summit climb** with Tokyo transfers is the real Mount Fuji experience — not just viewing the mountain, but standing on top of it at dawn.",
+            tourCard: CARD_0,
+          },
+          {
+            title: "Best for Most Visitors: Private Kawaguchiko Day Tour",
+            content: "If climbing isn't the goal, a **private day tour from Kawaguchiko** covers the lake-town side of Fuji — the classic viewpoints and photo spots — in a single, flexible day with your own guide and vehicle.",
+            tourCard: CARD_4,
+          },
+          {
+            title: "Best Photo Spot: Chureito Pagoda",
+            content: "**Chureito Pagoda**, with Fuji rising behind it, is the single most reproduced view of the mountain in existence — go at dawn before the crowds build, and build in a second morning if clear visibility is the whole point of the trip.",
+            tourCard: CARD_5,
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Mount Fuji tours](/japan/mount-fuji)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour of Mount Fuji?", a: "For climbing it, the two-day sunrise summit climb with Tokyo transfers. For viewing it without climbing, a private Kawaguchiko day tour covering the classic lake-town viewpoints." },
+          { q: "What is the best photo spot for Mount Fuji?", a: "Chureito Pagoda, with Fuji rising behind it — go at dawn before the crowds and before midday cloud typically builds around the peak." },
+          { q: "Can I see Mount Fuji reliably?", a: "No — it's hidden by cloud more often than visible, most reliably seen November through February. Build in a second morning if a clear view matters to you." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour of Mount Fuji?", "acceptedAnswer": { "@type": "Answer", "text": "A two-day sunrise summit climb for climbing it, or a private Kawaguchiko day tour for viewing it." } },
+                { "@type": "Question", "name": "What is the best photo spot for Mount Fuji?", "acceptedAnswer": { "@type": "Answer", "text": "Chureito Pagoda, with Fuji rising behind it, best at dawn." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: '2-Day Sunrise Summit Climb' },
+          { icon: 'Camera', label: 'Best Photo Spot', value: 'Chureito Pagoda' },
+          { icon: 'Cloud', label: 'Best Visibility', value: 'November to February' }
+        ]
+      };
+
     default:
       return null;
   }

@@ -943,6 +943,61 @@ export function getNagoyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-nagoya":
+      return {
+        title: "Best Tours in Nagoya — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Nagoya 2026: Top-Rated Picks by Category",
+        description: "The best Nagoya tours for 2026, picked by category — Nagoya Castle, a night tower walk, and day trips to Inuyama and Gujo/Hida-Takayama — with real prices and an honest note on how we chose them.",
+        heroImage: TOUR_CARD_CASTLE.image,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **Nagoya Castle and Samurai Heritage private walking tour** is the essential Nagoya experience — the reconstructed keep, the painstakingly rebuilt Honmaru Palace, and the samurai history that explains why the city looks the way it does.",
+            tourCard: TOUR_CARD_CASTLE,
+          },
+          {
+            title: "Best Day Trip: Inuyama & Nakasendo Post Towns",
+            content: "**Inuyama Castle and the Nakasendo post towns** (Magome-juku and Tsumago-juku) are the best single day trip from Nagoya for travellers who want a genuine historic town feel rather than a reconstructed landmark.",
+            tourCard: TOUR_CARD_INUYAMA,
+          },
+          {
+            title: "Best Longer Day Trip: Gujo, Takayama & Shirakawa-go",
+            content: "A **full-day trip to Gujo, Hida-Takayama and Shirakawa-go** covers the mountain side of the Chubu region in one long but genuinely worthwhile day — thatched-roof villages and old post towns well outside Nagoya's urban reach.",
+            tourCard: TOUR_CARD_GUJO,
+          },
+          {
+            title: "Best Evening Experience: Nagoya by Night",
+            content: "A **TV Tower and Sky Promenade walking tour** at night is the best way to see Nagoya's skyline after dark — less visited than the castle, and a good lower-key close to a full day of sightseeing.",
+            tourCard: TOUR_CARD_NIGHT,
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Nagoya tours](/japan/nagoya)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Nagoya?", a: "A Nagoya Castle and Samurai Heritage private walking tour — the reconstructed keep, the rebuilt Honmaru Palace, and the samurai history behind the city." },
+          { q: "What is the best day trip from Nagoya?", a: "Inuyama Castle and the Nakasendo post towns (Magome-juku, Tsumago-juku) for a shorter day, or Gujo, Hida-Takayama and Shirakawa-go for a longer mountain-focused day." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Nagoya?", "acceptedAnswer": { "@type": "Answer", "text": "A Nagoya Castle and Samurai Heritage private walking tour." } },
+                { "@type": "Question", "name": "What is the best day trip from Nagoya?", "acceptedAnswer": { "@type": "Answer", "text": "Inuyama Castle and the Nakasendo post towns, or Gujo, Hida-Takayama and Shirakawa-go for a longer day." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Nagoya Castle Walking Tour' },
+          { icon: 'Map', label: 'Best Day Trip', value: 'Inuyama + Nakasendo' },
+          { icon: 'Moon', label: 'Best Evening', value: 'TV Tower Night Walk' }
+        ]
+      };
+
     default:
       return null;
   }
