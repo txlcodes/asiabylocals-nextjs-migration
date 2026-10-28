@@ -60815,6 +60815,90 @@ export const ES_TOURS: Record<string, TourT> = {
    "Permiso de conducir internacional (gestionarlo antes de viajar), traslados de hotel, comida y bebida, propinas"
   ]
  },
+ "shibuya-crossing-walking-tour": {
+  "title": "Tokio a su manera: dia privado a pie con un guia local",
+  "metaTitle": "Tokio a pie con guia privado",
+  "metaDescription": "Un guia privado, sin guion fijo: usted dice lo que quiere de Tokio y el dia se construye alrededor de esa respuesta.",
+  "shortDescription": "Un guia privado, sin guion fijo: usted dice lo que quiere de Tokio y el dia se construye alrededor, desde el cruce de Shibuya hasta las calles tranquilas de los santuarios.",
+  "fullDescription": "La mayoria de los tours de Tokio hacen desfilar a todos por los mismos cinco lugares en el mismo orden. Este empieza en cambio con una conversacion. Su guia pregunta que quiere realmente, los neones y las multitudes, o las callejuelas donde nadie filma; una manana de templo, o un dia entero de comer, y construye la ruta alrededor de esa respuesta.\n\nUn dia tipico aun asi toca lo que vino a buscar. El cruce de Shibuya merece verse a nivel de calle y luego otra vez desde arriba, y su guia sabe que ventanas son gratis y cuales le cobran por la vista. El santuario Meiji se encuentra en medio de un bosque de aproximadamente 100.000 arboles, todos donados y plantados a mano en la decada de 1920, y esta a diez minutos a pie del caos adolescente de Harajuku, un contraste que dice mas sobre Tokio que cualquiera de los dos lugares por separado. Al otro lado del rio, el Senso-ji se alza en Asakusa desde el 645, lo que lo convierte en el templo mas antiguo de la ciudad.\n\nLo que un local realmente cambia son los detalles pequenos: que vagon del tren le deja en la salida correcta, por que lado de Nakamise-dori caminar para no luchar contra la multitud, cual de los mostradores de ramen identicos es el que merece la cola. Usted se mueve en tren y a pie como lo hacen los residentes, no en un autocar.\n\nComo el grupo es solo su propia compania, el ritmo se adapta. Vaya mas despacio para un almuerzo largo, saltese por completo una parada, sientese cuando haya tenido suficiente, nada de esto necesita un comite.",
+  "highlights": [],
+  "included": [
+   "Guia local privado de habla inglesa para todo el dia, ruta totalmente personalizada planificada con usted de antemano, costes de transporte del guia, recomendaciones de ruta y restaurantes para el resto de su viaje"
+  ],
+  "notIncluded": [
+   "Sus propios billetes de tren y metro (aproximadamente 800 a 1500 yenes para el dia), comida y bebida, tarifas de entrada a templos o miradores, recogida en el hotel fuera del centro de Tokio, propinas"
+  ]
+ },
+ "shikizakura-park-obara-full-day-tour": {
+  "title": "Excursion de un dia: cerezos shikizakura de Obara e iluminacion del desfiladero de Korankei",
+  "metaTitle": "Shikizakura de Obara y desfiladero de Korankei",
+  "metaDescription": "Excursion de un dia que combina los raros cerezos de doble floracion de Obara con los arces iluminados de otono del desfiladero de Korankei.",
+  "shortDescription": "Una excursion de un dia que combina los raros cerezos de doble floracion de Obara con los arces iluminados de otono del desfiladero de Korankei.",
+  "fullDescription": "La mayoria de los cerezos en flor y el follaje de otono de Japon estan separados por medio ano, lo que hace tan inusual al parque Shikizakura de Obara: alli crece una rara variedad de cerezo de doble floracion que vuelve a florecer en noviembre, justo cuando los arces de alrededor se tornan rojos. Esta excursion de un dia desde la estacion de Nagoya aprovecha esa coincidencia, combinando una visita al parque Shikizakura con una parada al atardecer en el desfiladero de Korankei, uno de los lugares de iluminacion otonal mas celebrados de la region de Chubu.\n\nEn el parque Shikizakura hay plantados unos 10.000 arboles shikizakura en las laderas sobre Obara, un distrito de montana al noreste del centro de Nagoya, y en temporada sus flores de un rosa palido se alzan junto a las mismas hojas de arce rojas y doradas que normalmente solo se esperarian en primavera o solo en otono, no en ambas a la vez. El grupo pasa aqui unos 50 minutos disfrutando de las vistas de las laderas antes de continuar hacia el desfiladero de Korankei, un valle junto al rio Tomoe bordeado de unos 4.000 arces, uno de los destinos otonales emblematicos de la prefectura de Aichi desde hace generaciones.\n\nMientras cae la luz del dia, los arces de Korankei se iluminan para la iluminacion nocturna, convirtiendo los puentes de piedra y los senderos junto al rio del desfiladero en un corredor rojo y dorado resplandeciente que atrae a visitantes de toda la region. Con alrededor de dos horas previstas para recorrer el desfiladero a su propio ritmo antes de que caiga la noche por completo, hay tiempo para seguir el sendero del rio, cruzar sus puentes arqueados y observar como cambia la luz a medida que la iluminacion hace efecto, antes de que el grupo regrese a la estacion de Nagoya para concluir la excursion.",
+  "highlights": [],
+  "included": [
+   "Guia de habla inglesa, transporte de ida y vuelta desde la estacion de Nagoya, entrada al parque Shikizakura y a la zona de iluminacion del desfiladero de Korankei"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas, gastos personales, propinas"
+  ]
+ },
+ "shirakawa-go-private-tour": {
+  "title": "Ruta alpina privada de 3 dias: de Nagoya a Tokio via Shirakawa-go y Nagano",
+  "metaTitle": "Ruta alpina privada de 3 dias Nagoya-Tokio",
+  "metaDescription": "Fletamento privado de un solo sentido de 3 dias desde Nagoya a traves de los Alpes japoneses hasta Tokio, que termina en Tokio y no en Nagoya.",
+  "shortDescription": "Un fletamento privado de un solo sentido de 3 dias desde Nagoya a traves de los Alpes japoneses hasta Tokio, que termina en Tokio y no en Nagoya.",
+  "fullDescription": "IMPORTANTE: este es un viaje privado de varios dias en un solo sentido que empieza en Nagoya y termina en Tokio, no se le llevara de vuelta a Nagoya, asi que planifique su viaje posterior o su vuelo de regreso desde Tokio. Viajando en vehiculo charter privado solo con su propio grupo, los tres dias atraviesan el corazon montanoso del Japon central en lugar de seguir la ruta costera del Shinkansen que toman la mayoria de los visitantes entre las dos ciudades.\n\nEl primer dia sale de Nagoya hacia Shirakawa-go, un pueblo declarado Patrimonio de la Humanidad por la Unesco con empinadas granjas gassho-zukuri de techo de paja construidas para hacer caer la pesada nieve de montana, antes de continuar hacia la ciudad costera de Toyama para la primera noche. El segundo dia se dirige a los Alpes japoneses del norte, a Hakuba, una conocida estacion de esqui enmarcada por picos espectaculares, y luego a Nagano, una ciudad crecida alrededor de su historico complejo del templo Zenko-ji y conocida como puerta de entrada a las tierras altas circundantes, para la segunda noche.\n\nEl ultimo dia sigue un tramo del antiguo Nakasendo, una de cinco rutas comerciales oficiales del periodo Edo que unia Edo (el actual Tokio) con Kioto a traves de las montanas, con parada en Narai-juku, uno de los pueblos de posta mejor conservados de la ruta, antes de visitar el castillo de Matsumoto, uno de los pocos torreones de madera originales de Japon, y su calle adyacente de Nakamachi. El vehiculo privado continua despues hasta Tokio, llegando por la tarde cuando el tour concluye alli. Como el grupo viaja de forma privada, el ritmo puede ajustarse en torno a paradas fotograficas, comidas y descansos durante los tres dias.",
+  "highlights": [],
+  "included": [
+   "Guia y conductor privados de habla inglesa, vehiculo charter privado para los 3 dias, transporte entre todas las paradas listadas de Nagoya a Tokio"
+  ],
+  "notIncluded": [
+   "Alojamiento para 2 noches, comidas y bebidas, tarifas de entrada a Shirakawa-go, el castillo de Matsumoto y otros lugares, gastos personales, propinas"
+  ]
+ },
+ "tateyama-kurobe-alpine-route-private-day-tour": {
+  "title": "La ruta alpina de Tateyama Kurobe: muros de nieve y el techo de Japon, con guia privado",
+  "metaTitle": "Ruta alpina de Tateyama Kurobe en privado",
+  "metaDescription": "Un dia privado completo por la travesia alpina de Japon, hasta la meseta de Murodo a 2.450 metros, con recogida en el hotel incluida.",
+  "shortDescription": "Un dia privado completo por la travesia alpina de Japon: telecabinas, telefericos y autobuses-tunel hasta la meseta de Murodo a 2.450 metros, con recogida en el hotel incluida.",
+  "fullDescription": "La ruta alpina de Tateyama Kurobe es una travesia mas que un destino. Sube desde el fondo del valle hasta la meseta de Murodo a 2.450 metros usando una cadena de telecabinas, telefericos y autobuses electricos que atraviesan la montana, y la razon de su fama es lo que pasa en primavera: la carretera se despeja a traves de un manto de nieve de hasta veinte metros de profundidad, dejando un corredor con muros de nieve que se alzan a ambos lados.\n\nLa ruta cambia por completo segun la temporada. Muros de nieve de abril a junio. Aire alpino limpio y terreno volcanico en verano. De septiembre a octubre, rojo y oro por las crestas, uno de los colores de otono mas tempranos y espectaculares de Japon, porque a esta altitud cambia semanas antes que en las tierras bajas.\n\nEl argumento practico para hacerlo en privado es el transito en si. La ruta es una cadena de varios pasos con horarios fijos, billetes separados en varias etapas y colas que se forman rapido en temporada alta, y equivocarse cuesta horas. Su guia gestiona los horarios y las compras de billetes in situ, navega por los traslados y le hace las fotos mientras usted mira las montanas en lugar de un panel de salidas.\n\nLa recogida y el regreso al hotel en vehiculo privado estan incluidos, junto con todos los peajes, tarifas de aparcamiento y todo el combustible. El grupo es solo su propia compania, limitado a siete personas.\n\nSe ofrecen dos puntos de salida: un circuito de ida y vuelta desde Nagano de doce horas, o desde Matsumoto de once. El almuerzo no esta incluido, y hay lugares para comer en la meseta. El clima a 2.450 metros tiene sus propias reglas, lleve una capa adicional sea lo que diga el pronostico en el valle.",
+  "highlights": [],
+  "included": [
+   "Guia privado local de habla inglesa para todo el dia, recogida y regreso al hotel en vehiculo privado, todos los peajes de autopista, tarifas de aparcamiento y combustible, navegacion sobre el terreno, ayuda con los billetes y fotografias"
+  ],
+  "notIncluded": [
+   "Almuerzo y comida y bebida personal, billetes de transito de la ruta alpina no especificados, recuerdos y compras personales"
+  ]
+ },
+ "togoshi-ginza-shotengai-food-tour": {
+  "title": "Paseo gastronomico por Togoshi Ginza: la calle comercial mas larga de Tokio",
+  "metaTitle": "Paseo gastronomico por Togoshi Ginza",
+  "metaDescription": "El shotengai mas largo de Tokio, 1,3 km de tiendas casi sin turistas, degustado como se debe durante tres horas.",
+  "shortDescription": "El shotengai mas largo de Tokio, 1,3 km de tiendas casi sin turistas, degustado como se debe durante tres horas.",
+  "fullDescription": "Un shotengai es una calle comercial local cubierta, y Togoshi Ginza es la mas larga de Tokio, unos 1,3 kilometros y alrededor de 400 tiendas, en una zona residencial de Shinagawa a la que casi ningun visitante llega, a pocos minutos del centro pero viviendo por completo del comercio de barrio.\n\nEso importa porque la comida aqui esta pensada y hecha para gente que vive cerca y vuelve cada semana. El nombre es prestado: tras el gran terremoto de Kanto de 1923 la calle se reconstruyo con ladrillos de pavimento recuperados de las lineas de tranvia arruinadas de Ginza, y se quedo con el nombre. Docenas de calles por todo Tokio copiaron despues el sufijo; esta es la que realmente se lo ha ganado.\n\nEl paseo come a lo largo de la calle en lugar de detenerse en un solo sitio. Karaage de una freidora que no hace nada mas, okonomiyaki cocinado en la plancha frente a usted, croquetas entregadas calientes en papel, y una parada izakaya sentada hacia el final. Su guia explica por que es conocida cada tienda y desde cuando esta ahi, varias son negocios familiares a lo largo de generaciones, y los mostradores son tan pequenos que la persona que cocina suele ser el propietario.\n\nLas noches son cuando mejor funciona. Las persianas que a medio dia estaban medio bajadas estan arriba, los que vuelven del trabajo llegan con bolsas de la compra, y los izakaya estan abiertos. Unos 2 km de caminata llana bajo una arcada, asi que la lluvia no es un problema, y la comida es lo bastante contundente como para servir de cena. Las dietas estrictamente vegetarianas y halal son dificiles aqui y hay que avisarlas con antelacion, tienda por tienda.\n\nEs lo contrario de un tour gastronomico en Tsukiji: sin colas, sin menus en ingles, sin otros grupos.",
+  "highlights": [],
+  "included": [
+   "Guia local de habla inglesa durante tres horas, todas las degustaciones a lo largo de la calle, menu izakaya con platos, historias y contexto sobre cada tienda"
+  ],
+  "notIncluded": [
+   "Bebidas alcoholicas mas alla de las incluidas, traslados de hotel, billete de tren hasta el punto de encuentro, propinas"
+  ]
+ },
+ "tokoname-full-day-tour": {
+  "title": "El camino de los alfareros de Tokoname: excursion de un dia a una antigua ciudad de hornos",
+  "metaTitle": "Camino de los alfareros de Tokoname",
+  "metaDescription": "Excursion de un dia completo al camino historico de los alfareros de Tokoname, flanqueado por muros de hornos y estatuas de gatos de la suerte.",
+  "shortDescription": "Una excursion de un dia completo al camino historico de los alfareros de Tokoname, flanqueado por muros de hornos y estatuas de gatos de la suerte.",
+  "fullDescription": "Tokoname es uno de los Seis Hornos Antiguos de Japon, un grupo de regiones alfareras cuya historia de produccion ininterrumpida se remonta a aproximadamente mil anos, y esta excursion de un dia completo desde Nagoya esta pensada para explorarla a pie, sin prisas. En lugar de un recorrido al estilo de un museo, el dia se centra en el Yakimono Sanpo-michi, o camino de los alfareros, un sendero sinuoso por el antiguo distrito de los hornos donde los propios muros estan hechos de tuberias de arcilla apiladas, botellas de sake desechadas y fragmentos de ceramica sin esmaltar cocidos hace decadas.\n\nAl recorrer el camino, pasara junto a chimeneas de ladrillo de antiguos hornos escalonados noborigama retirados hace tiempo, pequenos talleres que siguen produciendo teteras y macetas, y una dispersion de estatuas de gatos de la suerte maneki-neko, ya que Tokoname es tambien el mayor productor de Japon de estos gatos ceramicos que llaman con la pata. Callejones estrechos se abren a vistas inesperadas hacia el mar, y todo el distrito tiene un encanto vivido y sin pulir que se siente muy lejos de los rascacielos del centro de Nagoya, a pesar de estar a apenas media hora en tren.\n\nLa posicion costera de la ciudad cerca del aeropuerto internacional de Chubu Centrair tambien da al viaje un ritmo facil y relajado, con tiempo previsto para curiosear en tiendas de ceramica, ver a los artesanos trabajar y llevarse a casa una pieza hecha a mano. Es una buena opcion para viajeros que prefieren pasear por calles autenticas en lugar de marcar grandes monumentos, y para cualquiera con curiosidad por las tradiciones artesanales que estan justo a las puertas de las grandes ciudades de Japon. Se recomienda calzado comodo, ya que la mayor parte del dia se pasa caminando por el camino y las callejuelas circundantes a un ritmo relajado.",
+  "highlights": [],
+  "included": [
+   "Guia de habla inglesa, transporte de ida y vuelta entre Nagoya y Tokoname, paseo guiado por el camino de los alfareros"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas, compras de ceramica, gastos personales, propinas"
+  ]
+ },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
   "title": "Recoleccion de fruta en Yoichi, la destileria Nikka y la costa de Shakotan",
   "metaTitle": "Recoleccion de fruta, destileria Nikka y costa de Shakotan",

@@ -60815,6 +60815,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Permis de conduire international (a organiser avant le depart), transferts hotel, nourriture et boissons, pourboires"
   ]
  },
+ "shibuya-crossing-walking-tour": {
+  "title": "Tokyo a votre maniere : journee privee a pied avec un guide local",
+  "metaTitle": "Tokyo a pied avec un guide prive",
+  "metaDescription": "Un guide prive, aucun script fixe : vous dites ce que vous voulez de Tokyo et la journee se construit autour de votre reponse.",
+  "shortDescription": "Un guide prive, aucun script fixe : vous dites ce que vous voulez de Tokyo et la journee se construit autour, du carrefour de Shibuya aux ruelles calmes des sanctuaires.",
+  "fullDescription": "La plupart des visites de Tokyo font defiler tout le monde devant les cinq memes sites dans le meme ordre. Celle-ci commence plutot par une conversation. Votre guide vous demande ce que vous voulez vraiment, les neons et la foule, ou les ruelles ou personne ne filme ; un matin de temple, ou une journee entiere a manger, et construit l'itineraire autour de cette reponse.\n\nUne journee typique touche quand meme ce pour quoi vous etes venu. Le carrefour de Shibuya merite d'etre vu au niveau du sol puis a nouveau depuis les hauteurs, et votre guide sait quelles fenetres sont gratuites et lesquelles vous font payer la vue. Le sanctuaire Meiji se trouve au milieu d'une foret d'environ 100 000 arbres, tous offerts et plantes a la main dans les annees 1920, a dix minutes a pied du chaos adolescent de Harajuku, un contraste qui en dit plus sur Tokyo que chacun des deux lieux pris separement. De l'autre cote de la riviere, Senso-ji se dresse a Asakusa depuis 645, ce qui en fait le plus ancien temple de la ville.\n\nCe qu'un local change vraiment, c'est les petites choses : quelle voiture de train vous met a la bonne sortie, de quel cote de Nakamise-dori marcher pour ne pas lutter contre la foule, lequel des comptoirs de ramen identiques merite la file d'attente. Vous vous deplacez en train et a pied comme le font les habitants, pas en car.\n\nComme le groupe n'est que votre propre compagnie, le rythme s'adapte. Ralentissez pour un long dejeuner, sautez carrement un arret, asseyez-vous quand vous en avez assez, rien de tout cela ne necessite de comite.",
+  "highlights": [],
+  "included": [
+   "Guide local prive anglophone pour la journee complete, itineraire entierement personnalise prepare avec vous a l'avance, frais de transport du guide, recommandations d'itineraire et de restaurants pour le reste de votre voyage"
+  ],
+  "notIncluded": [
+   "Vos propres frais de train et de metro (environ 800 a 1500 yens pour la journee), nourriture et boissons, frais d'entree des temples ou observatoires, prise en charge hotel hors du centre de Tokyo, pourboires"
+  ]
+ },
+ "shikizakura-park-obara-full-day-tour": {
+  "title": "Excursion d'une journee : cerisiers shikizakura d'Obara et illumination des gorges de Korankei",
+  "metaTitle": "Shikizakura d'Obara et gorges de Korankei",
+  "metaDescription": "Excursion d'une journee associant les rares cerisiers a double floraison d'Obara aux erables illumines des gorges de Korankei en automne.",
+  "shortDescription": "Une excursion d'une journee associant les rares cerisiers a double floraison d'Obara aux erables illumines d'automne des gorges de Korankei.",
+  "fullDescription": "La plupart des fleurs de cerisier et des couleurs d'automne du Japon sont separees par six mois, ce qui rend le parc Shikizakura d'Obara si particulier : il cultive une rare variete de cerisier a double floraison qui fleurit a nouveau en novembre, juste au moment ou les erables environnants rougissent. Cette excursion d'une journee depuis la gare de Nagoya tire parti de cette coincidence, associant une visite du parc Shikizakura a un arret en soiree aux gorges de Korankei, l'un des sites d'illumination automnale les plus celebres de la region de Chubu.\n\nAu parc Shikizakura, environ 10 000 shikizakura sont plantes sur les collines au-dessus d'Obara, un district montagneux au nord-est du centre de Nagoya, et en saison leurs fleurs rose pale se dressent contre les memes feuilles d'erable rouges et dorees que l'on n'attendrait normalement qu'au printemps ou qu'en automne, pas les deux ensemble. Le groupe passe environ 50 minutes ici a admirer les vues sur les collines avant de continuer vers les gorges de Korankei, une vallee le long de la riviere Tomoe bordee d'environ 4 000 erables, l'une des destinations automnales emblematiques de la prefecture d'Aichi depuis des generations.\n\nA mesure que la lumiere du jour decline, les erables de Korankei s'illuminent pour la soiree, transformant les ponts de pierre et les chemins le long de la riviere en un corridor rouge et or incandescent qui attire des visiteurs de toute la region. Avec environ deux heures prevues pour parcourir les gorges a votre rythme avant la nuit complete, il y a le temps de suivre le sentier de la riviere, de traverser ses ponts en arc et d'observer le changement de lumiere au moment ou l'illumination prend effet, avant que le groupe ne retourne a la gare de Nagoya pour conclure l'excursion.",
+  "highlights": [],
+  "included": [
+   "Guide anglophone, transport aller-retour depuis la gare de Nagoya, entree au parc Shikizakura et a la zone d'illumination des gorges de Korankei"
+  ],
+  "notIncluded": [
+   "Repas et boissons, depenses personnelles, pourboires"
+  ]
+ },
+ "shirakawa-go-private-tour": {
+  "title": "Route alpine privee de 3 jours : de Nagoya a Tokyo via Shirakawa-go et Nagano",
+  "metaTitle": "Route alpine privee de 3 jours Nagoya-Tokyo",
+  "metaDescription": "Charter prive aller simple de 3 jours depuis Nagoya a travers les Alpes japonaises jusqu'a Tokyo, qui se termine a Tokyo et non a Nagoya.",
+  "shortDescription": "Charter prive aller simple de 3 jours depuis Nagoya a travers les Alpes japonaises jusqu'a Tokyo, qui se termine a Tokyo et non a Nagoya.",
+  "fullDescription": "IMPORTANT : il s'agit d'un voyage prive aller simple de plusieurs jours qui commence a Nagoya et se termine a Tokyo, vous ne serez pas ramene a Nagoya, prevoyez donc votre voyage ulterieur ou votre vol de retour depuis Tokyo. En voyageant en vehicule charter prive avec votre propre groupe uniquement, les trois jours traversent le coeur montagneux du Japon central plutot que de suivre la route cotiere du Shinkansen que prennent la plupart des visiteurs entre les deux villes.\n\nLe premier jour quitte Nagoya pour Shirakawa-go, un village classe au patrimoine mondial de l'UNESCO aux fermes gassho-zukuri au toit de chaume abrupt concues pour evacuer la lourde neige de montagne, avant de continuer vers la ville cotiere de Toyama pour la premiere nuit. Le deuxieme jour se dirige vers les Alpes japonaises du Nord jusqu'a Hakuba, une station de ski bien connue encadree de sommets spectaculaires, puis vers Nagano, une ville construite autour de son complexe historique du temple Zenko-ji et connue comme une porte d'entree vers les hauts plateaux environnants, pour la seconde nuit.\n\nLe dernier jour suit un troncon de l'ancien Nakasendo, l'une des cinq routes commerciales officielles de l'epoque d'Edo qui reliaient Edo (le Tokyo actuel) a Kyoto a travers les montagnes, s'arretant a Narai-juku, l'une des villes-relais les mieux preservees de la route, avant de visiter le chateau de Matsumoto, l'un des rares donjons en bois d'origine du Japon, et sa rue adjacente de Nakamachi. Le vehicule prive continue ensuite vers Tokyo, arrivant en soiree a la fin de la visite. Comme le groupe voyage en prive, le rythme peut s'adapter autour des arrets photo, des repas et des pauses tout au long des trois jours.",
+  "highlights": [],
+  "included": [
+   "Guide et chauffeur prives anglophones, vehicule charter prive pour les 3 jours, transport entre tous les arrets listes de Nagoya a Tokyo"
+  ],
+  "notIncluded": [
+   "Hebergement pour 2 nuits, repas et boissons, frais d'entree a Shirakawa-go, au chateau de Matsumoto et autres sites, depenses personnelles, pourboires"
+  ]
+ },
+ "tateyama-kurobe-alpine-route-private-day-tour": {
+  "title": "La route alpine de Tateyama Kurobe : murs de neige et toit du Japon, en visite privee",
+  "metaTitle": "Route alpine de Tateyama Kurobe en prive",
+  "metaDescription": "Une journee privee complete sur la traversee alpine du Japon, jusqu'au plateau de Murodo a 2 450 metres, prise en charge a l'hotel incluse.",
+  "shortDescription": "Une journee privee complete sur la traversee alpine du Japon : telecabines, telepheriques et bus-tunnels jusqu'au plateau de Murodo a 2 450 metres, prise en charge a l'hotel incluse.",
+  "fullDescription": "La route alpine de Tateyama Kurobe est une traversee plutot qu'une destination. Elle monte du fond de la vallee jusqu'au plateau de Murodo a 2 450 metres grace a une chaine de telecabines, telepheriques et bus electriques qui traversent la montagne, et la raison de sa celebrite tient a ce qui se passe au printemps : la route est degagee a travers un manteau neigeux pouvant atteindre vingt metres d'epaisseur, laissant un corridor avec des murs de neige dominant des deux cotes.\n\nLa route change completement selon la saison. Murs de neige d'avril a juin. Air alpin pur et terrain volcanique en ete. De septembre a octobre, du rouge et de l'or sur les cretes, l'une des couleurs d'automne les plus precoces et spectaculaires du Japon, car a cette altitude elle tourne des semaines avant les plaines.\n\nL'argument pratique pour y aller en prive est le transit lui-meme. La route est une chaine en plusieurs etapes avec des horaires fixes, des billets separes a plusieurs stades et des files qui se forment vite en haute saison, et se tromper coute des heures. Votre guide gere les horaires et les achats de billets sur place, navigue dans les transferts, et prend vos photos tandis que vous regardez les montagnes plutot qu'un tableau de depart.\n\nLa prise en charge et le retour a l'hotel en vehicule prive sont inclus, ainsi que chaque peage, frais de parking et tout le carburant. Le groupe n'est que votre propre compagnie, limite a sept personnes.\n\nDeux points de depart sont proposes : un aller-retour depuis Nagano en douze heures, ou depuis Matsumoto en onze heures. Le dejeuner n'est pas inclus, et il y a des endroits pour manger sur le plateau. Le temps a 2 450 metres suit ses propres regles, apportez une couche supplementaire quelle que soit la prevision pour la vallee.",
+  "highlights": [],
+  "included": [
+   "Guide prive local anglophone pour toute la journee, prise en charge et retour a l'hotel en vehicule prive, tous les peages d'autoroute, frais de parking et carburant, navigation sur place, aide pour les billets et photographies"
+  ],
+  "notIncluded": [
+   "Dejeuner et nourriture et boissons personnelles, billets de transit de la route alpine non precises, souvenirs et achats personnels"
+  ]
+ },
+ "togoshi-ginza-shotengai-food-tour": {
+  "title": "Balade gourmande a Togoshi Ginza : la plus longue rue commercante de Tokyo",
+  "metaTitle": "Balade gourmande a Togoshi Ginza",
+  "metaDescription": "Le plus long shotengai de Tokyo, 1,3 km de boutiques presque sans touristes, degustes correctement sur trois heures.",
+  "shortDescription": "Le plus long shotengai de Tokyo, 1,3 km de boutiques presque sans touristes, degustes correctement sur trois heures.",
+  "fullDescription": "Un shotengai est une rue commercante locale couverte, et Togoshi Ginza est la plus longue de Tokyo, environ 1,3 kilometre et quelque 400 boutiques, dans un quartier residentiel de Shinagawa que presque aucun visiteur n'atteint, a quelques minutes du centre mais vivant entierement du commerce de proximite.\n\nCela compte parce que la nourriture ici est tarifee et preparee pour des gens qui vivent a proximite et reviennent chaque semaine. Le nom est un emprunt : apres le grand tremblement de terre du Kanto de 1923, la rue a ete reconstruite avec des briques de pavage recuperees des lignes de tramway en ruine de Ginza, et elle en a garde le nom. Des dizaines de rues autour de Tokyo ont ensuite copie le suffixe ; celle-ci est celle qui l'a vraiment merite.\n\nLa balade mange a travers la rue plutot que de s'arreter a un seul endroit. Du karaage sorti d'une friteuse qui ne fait rien d'autre, de l'okonomiyaki cuit sur la plaque devant vous, des croquettes tendues chaudes dans du papier, et une pause izakaya assise vers la fin. Votre guide explique pour quoi chaque boutique est connue et depuis combien de temps elle existe, plusieurs sont des affaires familiales depuis des generations, et les comptoirs sont assez petits pour que la personne qui cuisine soit generalement le proprietaire.\n\nC'est le soir que cela fonctionne le mieux. Les rideaux a moitie baisses l'apres-midi sont releves, les travailleurs rentrent chez eux avec leurs sacs de courses, et les izakaya sont ouverts. Environ 2 km de marche a plat sous une arcade, donc la pluie n'est pas un probleme, et la nourriture est assez consistante pour tenir lieu de diner. Les regimes strictement vegetariens et halal sont difficiles ici et doivent etre signales tot, boutique par boutique.\n\nC'est l'inverse d'une visite gourmande a Tsukiji : pas de files, pas de menus en anglais, pas d'autres groupes.",
+  "highlights": [],
+  "included": [
+   "Guide local anglophone pendant trois heures, toutes les degustations le long de la rue, formule izakaya avec plats, histoires et contexte sur chaque boutique"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisees au-dela de celles incluses, transferts hotel, frais de train jusqu'au point de rendez-vous, pourboires"
+  ]
+ },
+ "tokoname-full-day-tour": {
+  "title": "Le chemin des potiers de Tokoname : excursion d'une journee dans une ancienne ville de fours",
+  "metaTitle": "Chemin des potiers de Tokoname",
+  "metaDescription": "Excursion d'une journee complete au chemin historique des potiers de Tokoname, bordee de murs de fours et de statues de chats porte-bonheur.",
+  "shortDescription": "Une excursion d'une journee complete au chemin historique des potiers de Tokoname, bordee de murs de fours et de statues de chats porte-bonheur.",
+  "fullDescription": "Tokoname est l'un des Six Fours Anciens du Japon, un groupe de regions de poterie dont l'histoire de production ininterrompue remonte a environ mille ans, et cette excursion d'une journee complete depuis Nagoya est concue pour l'explorer a pied, sans se presser. Plutot qu'un apercu a la maniere d'un musee, la journee se concentre sur le Yakimono Sanpo-michi, ou chemin des potiers, une ruelle sinueuse a travers l'ancien quartier des fours ou les murs eux-memes sont batis a partir de tuyaux d'argile empiles, de bouteilles de sake jetees et d'eclats de ceramique non emaillee cuits il y a des decennies.\n\nEn parcourant le chemin, vous passez devant des cheminees en brique d'anciens fours a chambres montantes noborigama a la retraite depuis longtemps, de petits ateliers qui produisent encore theieres et pots de jardin, et une poignee de statues de chats porte-bonheur maneki-neko, car Tokoname est aussi le plus grand producteur japonais de ces chats ceramiques qui invitent du geste. Des ruelles etroites s'ouvrent sur des vues inattendues vers la mer, et tout le quartier a un charme vecu et brut qui semble tres loin des tours du centre de Nagoya, malgre une distance d'a peine une demi-heure en train.\n\nLa position cotiere de la ville pres de l'aeroport international de Chubu Centrair donne aussi au voyage un rythme facile et decontracte, avec du temps prevu pour flaner dans les boutiques de poterie, observer les artisans au travail et rapporter une piece artisanale chez soi. C'est une bonne option pour les voyageurs qui preferent flaner dans de vraies rues plutot que de cocher des monuments majeurs, et pour quiconque est curieux des traditions artisanales qui se trouvent juste aux portes des grandes villes du Japon. Des chaussures confortables sont recommandees, car la plus grande partie de la journee se passe a marcher le long du chemin et des ruelles environnantes a un rythme tranquille.",
+  "highlights": [],
+  "included": [
+   "Guide anglophone, transport aller-retour entre Nagoya et Tokoname, promenade guidee du chemin des potiers"
+  ],
+  "notIncluded": [
+   "Repas et boissons, achats de poterie, depenses personnelles, pourboires"
+  ]
+ },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
   "title": "Cueillette de fruits a Yoichi, distillerie Nikka et cote de Shakotan",
   "metaTitle": "Cueillette, distillerie Nikka et cote de Shakotan",
