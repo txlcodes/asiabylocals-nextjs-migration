@@ -61151,6 +61151,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Essen und Getraenke, Transport zwischen den Vierteln, nicht oben aufgefuehrte Eintrittsgebuehren, Hotelabholung und Rueckfahrt"
   ]
  },
+ "tokyo-sento-bathhouse-experience-tattoo-friendly": {
+  "title": "Ein lokales Sento mit Fuehrer: Tokios Nachbarschafts-Badehaus, Tattoos willkommen",
+  "metaTitle": "Lokales Sento in Tokio mit Fuehrer",
+  "metaDescription": "Eine Stunde in einem aktiven Sento in Shin-Okubo mit einem gleichgeschlechtlichen Fuehrer, der mit Ihnen hineingeht und die Etikette erklaert, Tattoos erlaubt.",
+  "shortDescription": "Eine Stunde in einem aktiven Sento in Shin-Okubo mit einem gleichgeschlechtlichen Fuehrer, der mit Ihnen hineingeht und die Etikette erklaert, und wo Tattoos kein Problem sind.",
+  "fullDescription": "Das Sento ist der Teil des japanischen Alltags, den Besucher am meisten ausprobieren wollen und am haeufigsten auslassen, aus zwei Gruenden: Niemand erklaert die Regeln, und die meisten Orte weisen jeden mit einem Tattoo zurueck.\n\nDiese Stunde loest beides. Ein gleichgeschlechtlicher japanischer Fuehrer geht mit Ihnen ins Bad, nicht wartet aussen, und fuehrt Sie durch den Ablauf, waehrend er geschieht: wo Sie Ihre Sachen lassen, warum man sich an den sitzenden Waschplaetzen gruendlich waescht, bevor man dem Wasser nahekommt, was mit dem kleinen Handtuch zu tun ist, wie heiss das heisse Bad tatsaechlich ist. Es im Sento falsch zu machen, ist ein echter sozialer Fehler, und jemanden an Ihrer Seite zu haben, nimmt die Angst vollstaendig weg.\n\nSeien Sie sich vor der Buchung ueber einen Punkt klar, denn der Betreiber ist es: Das Baden im Sento erfolgt nackt. Keine Badekleidung, keine Kleidung. Das ist der Brauch, und es gibt keine Version dieses Erlebnisses, die das umgeht. Die Baeder sind nach Geschlecht getrennt.\n\nDies ist ein Nachbarschaftsbadehaus statt eines Resort-Onsen, die Art von Ort, zu dem Menschen nach der Arbeit kommen, was genau der Grund ist, warum es sich lohnt. Der Badeeintritt, Shampoo, Spuelung und Koerperseife sind alle inbegriffen, sodass Sie nichts mitbringen muessen.\n\nTattoos sind hier erlaubt, was der andere Grund ist, warum es das gibt. Japans Verknuepfung von Tattoos mit organisierter Kriminalitaet bedeutet, dass die meisten Badehaeuser und Onsen Menschen immer noch an der Tuer abweisen, und persoenlich abgelehnt zu werden, ist schlimmer, als gar nicht hinzugehen.\n\nDie Gruppen sind auf sechs begrenzt. Treffpunkt ist vor den Fahrkartenautomaten am JR-Bahnhof Shin-Okubo in Shinjuku, und das Ganze dauert etwa sechzig Minuten.",
+  "highlights": [],
+  "included": [
+   "Badeeintritt, gleichgeschlechtlicher lokaler Fuehrer, der Sie ins Bad begleitet, Erklaerung der Sento-Etikette und -Kultur, Shampoo, Spuelung und Koerperseife"
+  ],
+  "notIncluded": [
+   "Transport zum Treffpunkt, Getraenke, Handtuchverleih, sofern berechnet, Hotelabholung und Rueckfahrt"
+  ]
+ },
+ "tokyo-shibuya-food-walk-thirteen-dishes": {
+  "title": "Shibuya-Food-Walk: Dreizehn Gerichte, drei Lokale und ein Dessert",
+  "metaTitle": "Shibuya-Food-Walk mit dreizehn Gerichten",
+  "metaDescription": "Ein auf zehn Personen begrenzter Spaziergang durch Dogenzaka und Center Gai mit vier Stopps und zwei Getraenken inbegriffen.",
+  "shortDescription": "Ein auf zehn Personen begrenzter Spaziergang durch Dogenzaka und Center Gai, ein Izakaya, ein Streetfood-Stand, ein traditionelles Lokal und ein Dessert, zwei Getraenke inbegriffen.",
+  "fullDescription": "Das Essen in Shibuya versteckt sich direkt vor den Augen. Dogenzaka und Center Gai sind zwei der belebtesten Strassen Tokios, und die guten Lokale dort liegen meist eine enge Treppe hinauf, hinter einer Tuer ohne Fotos und einem nur auf Japanisch beschrifteten Schild. Drei Stunden mit jemandem, der hier regelmaessig isst, sind die Abkuerzung.\n\nDie Gruppe ist auf zehn begrenzt, die kleinste der Shibuya-Food-Walks, was es gespraechig haelt und bedeutet, dass der Fuehrer Sie in Raeume bringen kann, die nur ein Dutzend Leute fassen. Vier Stopps: ein Izakaya, ein Streetfood-Stand, ein traditionelles Lokal und zum Abschluss ein Dessert. Dreizehn Gerichte sind darueber verteilt inbegriffen, zusammen mit zwei Getraenken, alkoholisch oder nicht, ganz nach Wahl, sodass Sie nicht an jedem Stopp bezahlen oder herausfinden muessen, wie man bestellt.\n\nDie Route dient zugleich als Orientierung. Sie ueberqueren die Shibuya-Kreuzung zu Fuss und gehen durch die Gassen dahinter, und der Fuehrer vermittelt das praktische Wissen, das den Rest einer Tokio-Reise einfacher macht: wie eine Izakaya-Rechnung funktioniert, warum man in Runden bestellt statt alles auf einmal, was mit dem heissen Handtuch zu tun ist, welche dieser Lokale spaeter am Abend auch ohne Reservierung Gaeste nehmen. Die meisten Gruppen gehen mit einer Liste von Adressen fuer die Rueckkehr.\n\nWas dies nicht ist, ist ein Degustationsmenue in einem einzigen Restaurant. Sie sind drei Stunden auf den Beinen und bewegen sich zwischen kleinen Raeumen, und der Reiz liegt in der Vielfalt der Formate statt in einem einzelnen Gericht. Die Route ist rollstuhlgerecht. Ernaehrungsbeduerfnisse koennen meist mit Vorlauf beruecksichtigt werden, erwaehnen Sie sie also bei der Buchung statt am Abend selbst.\n\nTreffpunkt ist vor dem 7-Eleven nahe Chuo-Gai und der Tokyu Plaza auf Dogenzaka, ein Orientierungspunkt selbst in der Menge.",
+  "highlights": [],
+  "included": [
+   "Erfahrener englischsprachiger Fuehrer, dreizehn Gerichte verteilt auf ein Izakaya, einen Streetfood-Stand und ein traditionelles Lokal, plus Dessert, zwei Getraenke, alkoholisch oder nicht, gefuehrte Tour durch die Shibuya-Kreuzung und die Gassen dahinter, Empfehlungen fuer den Rest Ihres Japan-Aufenthalts"
+  ],
+  "notIncluded": [
+   "Trinkgelder (optional), Hotelabholung und Rueckfahrt, zusaetzliches Essen und Getraenke ueber die inbegriffenen hinaus"
+  ]
+ },
+ "tokyo-shibuya-highlights-walk-hidden-viewpoint": {
+  "title": "Shibuya zu Fuss: Hachiko, die Scramble-Kreuzung und ein Aussichtspunkt der Einheimischen",
+  "metaTitle": "Shibuya zu Fuss mit versteckter Aussicht",
+  "metaDescription": "Neunzig Minuten, um Shibuya zu verstehen, endend an einem freien Aussichtspunkt ueber die Kreuzung, den die meisten Besucher nie finden.",
+  "shortDescription": "Neunzig Minuten und unter dreissig Dollar, der schnellste Weg, Shibuya zu verstehen, endend an einem freien Aussichtspunkt ueber die Kreuzung, den die meisten Besucher nie finden.",
+  "fullDescription": "Shibuya lohnt einen Fuehrer mehr als fast jeder andere Ort in Tokio, weil so wenig sich von selbst erklaert. Die Kreuzung ist beruehmt, die Hundestatue ist beruehmt, und die Strassen dahinter sind ein dichtes Raster aus Bars, Plattenlaeden und Restaurants, an denen die meisten Besucher vorbeigehen, ohne zu wissen, welche Tuer sich zu oeffnen lohnt.\n\nDieser neunzigminuetige Spaziergang beginnt an der Hachiko-Statue auf Dogenzaka, wo der Fuehrer die Geschichte richtig erzaehlt, ein Akita, der fast zehn Jahre lang zum Bahnhof zurueckkehrte, nachdem sein Besitzer dort 1925 gestorben war, und warum sich eine ganze Nation daran band. Von dort ueberqueren Sie das Shibuya-Scramble zu Fuss, die einzige Art, seine Grossenordnung zu verstehen: mehrere tausend Menschen gleichzeitig, die sich in alle Richtungen bewegen, ohne Zusammenstoesse und ohne Rufen.\n\nDer Rest des Spaziergangs geht hinter die Ladenfronten. Sie durchqueren die neonbeleuchteten Restaurant- und Bargassen, die mittags tot und nach Einbruch der Dunkelheit kaum wiederzuerkennen sind, und der Fuehrer weist auf das Praktische hin, welche Gassen sich zum Abendessen lohnen, wo die Stehbars sind, welches der Kaufhaeuser die Lebensmittelabteilung hat, die einen Abstecher wert ist. Es endet an einem Aussichtspunkt ueber die Kreuzung, der frei zugaenglich und meist nur den hier Lebenden bekannt ist, statt an den kostenpflichtigen Aussichtsplattformen.\n\nZu diesem Preis ist es bewusst schlicht. Es gibt kein Essen, keinen Transport und kein Ticket inbegriffen; Sie zahlen fuer neunzig Minuten Wissen eines Einheimischen und eine Route, die Sie sich selbst nicht zusammenstellen wuerden. Gruppen koennen bis zu fuenfzig Personen umfassen, also ist es mehr ein Gehen-und-Zuhoeren als ein Gespraech. Es findet bei jedem Wetter statt, und die Route ist rollstuhlgerecht. Die meisten machen es frueh in ihrer Reise und nutzen die Empfehlungen fuer den Rest der Woche.",
+  "highlights": [],
+  "included": [
+   "Lokaler englischsprachiger Fuehrer, neunzigminuetige gefuehrte Wanderroute durch Shibuya, Besuch eines freien lokalen Aussichtspunkts ueber die Kreuzung"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke, Transport, Hotelabholung und Rueckfahrt, bezahlte Tickets fuer Aussichtsplattformen, Trinkgelder (optional)"
+  ]
+ },
+ "tokyo-shibuya-night-walk-sky-deck-miyashita-park": {
+  "title": "Shibuya bei Nacht in zwei Stunden: Sky Deck, Scramble-Kreuzung, Center Gai und Miyashita Park",
+  "metaTitle": "Shibuya bei Nacht in zwei Stunden",
+  "metaDescription": "Eine knappe zweistuendige Schleife durch Shibuya bei Nacht, die das Viertel nie verlaesst: Dachterrasse, die Kreuzung und Miyashita Park.",
+  "shortDescription": "Eine knappe zweistuendige Schleife durch Shibuya nach Einbruch der Dunkelheit, die das Viertel nie verlaesst, Dachterrasse, die Kreuzung, Don Quijote und die Laternengassen bei Miyashita Park.",
+  "fullDescription": "Dies ist die Version von Shibuya bei Nacht, die in Shibuya bleibt. Zwei Stunden, ein Viertel, keine Zugfahrten, und es funktioniert gut als etwas zwischen Abendessen und letztem Zug statt als Mittelpunkt eines Abends.\n\nEs beginnt oben. Das Shibuya-Sky-Ticket ist inbegriffen, und Sie haben rund fuenfundvierzig Minuten auf der Freiluftplattform 230 Meter hoch, zu der Stunde, wenn Tokio aufhoert, ein graues Raster zu sein, und zu einem Lichtfeld wird, das sich bis zum Horizont erstreckt, mit dem Tokyo Tower orange beleuchtet in der Mitteldistanz. Das zeitgebundene Eintrittsticket ist inbegriffen, was der Teil ist, der sich in der Hochsaison wirklich schwer selbst organisieren laesst.\n\nZurueck auf Strassenebene ueberqueren Sie die Scramble-Kreuzung zu Fuss. Es lohnt sich, dies gerade nachts zu tun: Die Bildschirme an den umgebenden Gebaeuden sind auf voller Helligkeit, und die gesamte Kreuzung leuchtet, was ein anderes Erlebnis als die Tagesversion ist. Die Aufgabe des Fuehrers hier ist teils navigatorisch und teils zu wissen, wo man fuer das Foto steht, das jeder will.\n\nDer Rest des Spaziergangs ist die eigene Textur des Viertels. Center Gai, die Fussgaengerstrasse, die von der Kreuzung abgeht. MEGA Don Quijote, ein Discount-Laden, bis zur Decke vollgestapelt ueber mehrere Stockwerke, am besten als Spektakel verstanden statt als Geschaeft. Und Miyashita Park zum Abschluss, ein Dachpark, errichtet ueber einer retro-gestalteten Essensgasse, wo laternenbeleuchtete Gassen mit winzigen Bars unter einem modernen Komplex liegen, was eine so gute Zusammenfassung des heutigen Tokio ist, wie die Stadt es zu bieten hat.\n\nDie Gruppen sind auf fuenfzehn begrenzt. Essen, Getraenke und Transport sind nicht inbegriffen, und der Fuehrer weist Sie darauf hin, wo man essen kann, sobald der Spaziergang endet. Wenn Sie lieber zwei Viertel abdecken und einen Fuehrer haben moechten, der Sie die ganze Zeit fotografiert, nehmen Sie stattdessen unseren dreistuendigen Nachtspaziergang durch Shibuya und Shinjuku.",
+  "highlights": [],
+  "included": [
+   "Eintrittsticket fuer Shibuya Sky, zeitgebundener Eintritt, englischsprachiger lokaler Fuehrer, zweistuendige gefuehrte Nachtroute durch Shibuya"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke, Transport, nicht oben aufgefuehrte Eintrittsgebuehren, Hotelabholung und Rueckfahrt"
+  ]
+ },
+ "tokyo-shibuya-sumo-show-five-daily-times": {
+  "title": "Sumo in Shibuya: Fuenf Vorstellungen am Tag, Ring-Herausforderung inbegriffen",
+  "metaTitle": "Sumo in Shibuya, fuenf Vorstellungen taeglich",
+  "metaDescription": "Dasselbe Nahdistanz-Sumo-Format in einem groesseren Saal in Shibuya, mit fuenf Startzeiten am Tag, einfach einzuplanen im Tokio-Programm.",
+  "shortDescription": "Dasselbe Nahdistanz-Sumo-Format in einem groesseren Saal in Shibuya, mit fuenf Startzeiten ueber den Tag verteilt, die einfachste Version fuer ein volles Tokio-Programm.",
+  "fullDescription": "Dies ist Sumo, das sich um Ihren Zeitplan dreht statt umgekehrt. Der Saal in Shibuya veranstaltet fuenf Vorstellungen am Tag, von einer um 9:30 Uhr morgens bis zu einer um 19:30 Uhr abends, was es zur Version macht, die man buchen sollte, wenn der Rest Ihres Tokio-Tages schon belegt ist. Er liegt in Sakuragaoka, auf der ruhigeren Seite des Bahnhofs von der Kreuzung aus, wenige Gehminuten vom Suedausgang.\n\nDer Saal ist groesser als der in Shinjuku und fasst bis zu achtzig Personen, sodass es sich mehr wie eine Show und weniger wie ein Trainingsraum anfuehlt. Was im Ring passiert, ist dasselbe: Profiringer gehen durch die Salzreinigung, das Stampfen, die lange Konfrontation, und dann echte Kaempfe, die meist in Sekunden vorbei sind. Ein englischsprachiger Moderator kommentiert die ganze Zeit, was dies vom Ansehen eines Clips online unterscheidet, Sie lernen, was der Faecher des Schiedsrichters bedeutet, warum der Ring diese Groesse hat, und was jeder Ringer in der ersten halben Sekunde des Kontakts tatsaechlich zu erreichen versucht.\n\nNach den Kaempfen koennen Gaeste in den Ring steigen und einen Ringer herausfordern. Die Plaetze sind begrenzt und werden bei hoher Nachfrage per Losverfahren vergeben, also nicht garantiert, aber die anschliessenden Fotos stehen allen offen, und die Ringer nehmen sich grosszuegig Zeit. Eine Flasche Wasser ist bei der Ankunft inbegriffen.\n\nDas praktische Argument fuer diese Version gegenueber der Shinjuku-Show ist einfach der Zeitplan und der Standort: Wenn Sie bereits einen Nachmittag rund um die Shibuya-Kreuzung, Miyashita Park oder Shibuya Sky verbringen, passt eine 90-minuetige Sumo-Show in denselben Block ohne Zugfahrt. Beachten Sie, dass Hoteltransfers nicht inbegriffen sind und es ausser dem Willkommensgetraenk kein Essen gibt, planen Sie also, vorher oder danach zu essen, Sakuragaoka bietet reichlich Auswahl in zwei Gehminuten.",
+  "highlights": [],
+  "included": [
+   "Sumo-Show mit Live-Demonstrationen und Trainingskaempfen, englischsprachiger Moderator durchgehend, Willkommensgetraenk (Flaschenwasser), Teilnahme an der Verlosung, einen Ringer herauszufordern, Fotogelegenheiten mit den Ringern"
+  ],
+  "notIncluded": [
+   "Hotelabholung und Rueckfahrt, zusaetzliche Snacks und Getraenke, Trinkgelder"
+  ]
+ },
+ "tokyo-shinjuku-evening-food-walk-four-eateries": {
+  "title": "Shinjuku nach Einbruch der Dunkelheit: Dreizehn Gerichte in vier lokalen Lokalen",
+  "metaTitle": "Nachtlicher Food-Walk in Shinjuku",
+  "metaDescription": "Drei Stunden, vier Orte in Shinjuku, an denen Einheimische tatsaechlich essen, mit dreizehn Gerichten und zwei Getraenken inbegriffen.",
+  "shortDescription": "Drei Stunden, vier Orte, an denen Einheimische tatsaechlich essen, ein Streetfood-Stand, ein Izakaya, ein traditionelles Lokal und eine Gastrobar, dreizehn Gerichte und zwei Getraenke inbegriffen.",
+  "fullDescription": "Shinjuku ist kein schwieriger Ort, um schlecht zu essen. Die Gassen um den Bahnhof fassen eine enorme Zahl von Restaurants, ein grosser Teil davon mit Fotos im Schaufenster und englischen Speisekarten draussen, und die wirklich guten werben selten so, dass ein Besucher es lesen kann. Dieser dreistuendige Spaziergang loest das, indem er die Entscheidungen jemandem uebergibt, der hier isst.\n\nDie Gruppe ist auf zwoelf begrenzt, was mehr zaehlt, als es klingt, die Lokale auf dieser Route sind klein, und eine Busgruppe koennte physisch nicht durch sie hindurch. Sie besuchen vier an einem Abend, und sie sind bewusst unterschiedlich: ein Stand, ein Izakaya, ein traditionelles Lokal und eine Gastrobar, sodass die Tour eine Bandbreite an Formaten abdeckt statt vier Variationen derselben Mahlzeit.\n\nDreizehn Gerichte sind ueber die vier Stopps verteilt inbegriffen. Die genaue Auswahl aendert sich mit der Saison und dem, was jede Kueche gerade gut macht, laeuft aber typischerweise ueber Sashimi, Tonkatsu, Yakitori und Takoyaki, zusammen mit Sake. Zwei Getraenke sind inbegriffen, alkoholisch oder nicht, nach Wahl. Zwischen den Stopps vermittelt der Fuehrer den Kontext, warum ein Izakaya so funktioniert, wie man ohne Speisekarte bestellt, wie die Etikette beim Eingiessen und Teilen tatsaechlich aussieht.\n\nDer praktische Nutzen ueberdauert oft den Abend. Fuehrer verbringen hier einen guten Teil des Spaziergangs damit, Fragen ueber den Rest Ihrer Reise zu beantworten, und die meisten Gruppen gehen mit einer kurzen Liste von Orten, zu denen sie allein zurueckkehren wollen. Treffpunkt ist vor einem markanten Gebaeude in Nishi-Shinjuku, wenige Minuten vom Westausgang des Bahnhofs, und die Tour endet in Gehdistanz zum selben Verkehrsanschluss.\n\nEs passt gleichermassen zu mutigen und vorsichtigen Essern; die Portionen werden geteilt, und niemand wird zu etwas gedraengt. Teilen Sie dem Betreiber Ernaehrungsbeduerfnisse bei der Buchung mit, da sich Ersetzungen im Voraus viel leichter organisieren lassen als am Abend selbst.",
+  "highlights": [],
+  "included": [
+   "Englischsprachiger lokaler Food-Fuehrer, dreizehn japanische Gerichte verteilt auf vier Lokale, zwei Getraenke, alkoholisch oder nicht, Stopps an einem Streetfood-Stand, einem Izakaya, einem traditionellen Lokal und einer Gastrobar, gefuehrte Tour durch die Essensgassen von Shinjuku, Empfehlungen fuer den Rest Ihres Aufenthalts"
+  ],
+  "notIncluded": [
+   "Trinkgelder (optional), Hotelabholung und Rueckfahrt, zusaetzliches Essen und Getraenke ueber die inbegriffenen hinaus"
+  ]
+ },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
   "title": "Obstpflücken in Yoichi, die Nikka-Destillerie und die Shakotan-Küste",
   "metaTitle": "Obstpflücken, Nikka-Destillerie und Shakotan-Küste",
