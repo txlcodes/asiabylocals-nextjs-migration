@@ -60189,6 +60189,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittsgebuehren zu optionalen Attraktionen\nPersoenliche Ausgaben und Souvenirs\nEin separater Reiseguide zusaetzlich zum Fahrer-Guide\nZusaetzliche Snacks und Getraenke"
   ]
  },
+ "sapporo-chauffeured-private-tour": {
+  "title": "Sapporo im Privatauto: individueller Stadttag mit Chauffeur",
+  "metaTitle": "Sapporo im Privatauto mit Chauffeur",
+  "metaDescription": "Ein privat gechartertes Fahrzeug mit Fahrer fuer zehn Stunden in Sapporo, um die Hauptattraktionen der Stadt komfortabel und in Ihrem eigenen Tempo zu besuchen.",
+  "shortDescription": "Ein privat gechartertes Fahrzeug mit Fahrer fuer zehn Stunden in Sapporo, mit dem Sie die Hauptattraktionen der Stadt komfortabel und ganz in Ihrem eigenen Tempo besuchen.",
+  "fullDescription": "Sapporo ist eine ausgedehnte Stadt. Sie wurde in einem Gitter ueber eine weite Ebene angelegt, und die Konsequenz fuer einen Besucher ist, dass die sehenswerten Attraktionen weiter voneinander entfernt liegen, als sie auf einer Karte aussehen, wobei die Luecken zwischen ihnen von U-Bahn-Umstiegen und langen Spaziergaengen aufgefressen werden. Ein privates Fahrzeug mit Fahrer fuer zehn Stunden zu chartern loest dieses Problem vollstaendig. Der Tag wird fuer Ihre Gruppe angepasst. Sie waehlen die Attraktionen, Sie entscheiden, wie lange Sie bei jeder verbleiben, und die Reihenfolge kann sich am Tag selbst aendern, wenn sich das Wetter dreht oder etwas laenger dauert als erwartet. Es gibt keine Gruppe, auf die man warten muss, und keinen Zeitplan, den man einhalten muss. Zwischen den Stopps sind Sie in einem komfortablen Auto statt auf einem Bahnsteig, was in einer Stadt, die einen guten Teil des Jahres wirklich kalt und mitten im Sommer heiss ist, sehr viel ausmacht. Ihr Fahrer uebernimmt Navigation, Parken und die Logistik, sodass das, was sonst ein Tag voller Planung waere, zu einem Tag wird, an dem man einfach irgendwo ankommt. Diese Art von Reise passt zu Familien mit kleinen Kindern, Reisenden mit eingeschraenkter Mobilitaet, allen, die mit knappem Zeitplan viel sehen wollen ohne zu hetzen, und Fotografen, die zu einer bestimmten Tageszeit an einem bestimmten Ort sein muessen. Es funktioniert auch bei schlechtem Wetter gut, wenn ein fester Gehplan unangenehm wird, ein Privatauto aber nicht. Zehn Stunden sind ein langer Tag, und gut genutzt deckt er weit mehr von Sapporo ab, als es oeffentliche Verkehrsmittel erlauben wuerden.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "sapporo-corners-experience": {
+  "title": "Sapporo mit einem lokalen Gastgeber: Ikonen, versteckte Ecken und lokale Aromen",
+  "metaTitle": "Sapporo mit einem lokalen Gastgeber",
+  "metaDescription": "Eine private Gehtour durch Sapporo, ganz um Sie gestaltet, mit einem freundlichen lokalen Gastgeber zu beruehmten Sehenswuerdigkeiten und versteckten Ecken.",
+  "shortDescription": "Eine private Gehtour durch Sapporo, ganz um Sie herum gestaltet, gefuehrt von einem freundlichen lokalen Gastgeber, der Ihnen die beruehmten Sehenswuerdigkeiten zusammen mit den Ecken zeigt, die Reisefuehrer auslassen.",
+  "fullDescription": "Dies ist eine private Gehtour durch Sapporo mit einem freundlichen lokalen Gastgeber, und der ganze Punkt daran ist, dass sie Ihnen gehoert statt einem festen Skript. Bevor Sie losgehen, fragt Ihr Gastgeber, was Sie neugierig macht, und der Spaziergang wird von dort aus angepasst. Wenn Sie die ikonischen Sehenswuerdigkeiten wollen, bekommen Sie sie, mit dem Kontext, der ihnen Bedeutung gibt statt nur ein Name auf einem Schild zu sein. Wenn Sie lieber treiben lassen moechten, kann Ihr Gastgeber Sie in die Seitenstrassen und versteckten Ecken fuehren, die in keinem Reisefuehrer stehen, die Art von Orten, an denen ein Besucher vorbeigehen wuerde, ohne je zu wissen, dass man anhalten sollte. Lokale Aromen sind auch Teil des Tages, und Ihr Gastgeber kann Sie darauf hinweisen, was Sapporo besonders gut macht und wo man es richtig gemacht findet. Weil Sie gehen, kommt die Stadt in menschlichem Tempo an: Sie bemerken, wie sich die Viertel aendern, wo die Menschenmengen sind und wo nicht, und wie es sich tatsaechlich anfuehlt, in einer geplanten Gitterstadt im hohen Norden Japans zu leben. Und weil der Gastgeber ein Einheimischer ist statt ein geskripteter Guide, geht das Gespraech in beide Richtungen. Fragen Sie alles, von wo er an einem Dienstagabend isst bis dazu, wie die Stadt ihre Winter bewaeltigt, und Sie erhalten eine echte Antwort. Es funktioniert gut als Orientierung an Ihrem ersten Tag, wenn alles, was Sie lernen, den Rest Ihres Aufenthalts erleichtert, und genauso gut spaeter, wenn Sie den Umriss schon kennen und die Details fuellen wollen.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "sapporo-culture-full-day-tour": {
+  "title": "Private Ganztagestour durch Sapporo: Kultur, Charme und lokales Leben",
+  "metaTitle": "Sapporo: Kultur, Charme und lokales Leben",
+  "metaDescription": "Eine private Ganztagestour durch Sapporo in gemaechlichem Tempo, pro Gruppe berechnet, mit der Geschichte und dem ruhigen nordischen Charakter der Stadt.",
+  "shortDescription": "Eine private Ganztagestour durch Sapporo in gemaechlichem Tempo, pro Gruppe berechnet, mit der Geschichte der Stadt, lokalen Perlen und ruhigem nordischem Charakter.",
+  "fullDescription": "Diese private Ganztagestour wird pro Gruppe statt pro Person berechnet, und sie ist um die Idee gebaut, dass Sapporo ein gemaechliches Tempo belohnt. Hokkaidos Hauptstadt ist keine Stadt, die schreit. Ihr Reiz ist eine ruhige Eleganz, eine Weitlaeufigkeit und eine Frische in der Luft, die Besucher, die aus den ueberfuellten Staedten Honshus kommen, innerhalb einer Stunde nach ihrer Ankunft bemerken, und sich durch sie zu hetzen verfehlt den Punkt vollstaendig. Im Laufe des Tages bewegt sich Ihr privater Guide zwischen der reichen Geschichte der Stadt und den lokalen Perlen, die nicht auf einer Standard-Sightseeing-Liste stehen, und laesst jeden Stopp atmen statt den Tag als abzuhakende Checkliste zu behandeln. Weil die Gruppe nur Ihnen gehoert, gehoert die Form des Tages Ihnen. Interessen koennen verfolgt werden, wohin sie fuehren, Zeit kann grossmuetig einem Ort gegeben werden, der sich als wichtig fuer Sie herausstellt, und der Plan kann sich verlangsamen oder oeffnen, waehrend der Tag vergeht. Was ueber einen vollen Tag entsteht, ist ein Gefuehl fuer die Seele der Stadt statt einer Serie von Fotografien: wie Sapporo entstand, wie die Menschen, die hier leben, es nutzen, und was Hokkaidos Hauptstadt so unterschiedlich von allem weiter im Sueden macht. Das Tempo ist durchgehend bewusst und gemaechlich, und immersive Momente erhalten Raum. Es passt zu Reisenden, die eine Stadt lieber richtig verstehen als drei nur halb zu sehen, und funktioniert besonders gut als Ankerpunkt einer Hokkaido-Reise.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "sapporo-essentials-private-tour": {
+  "title": "Private Sapporo-Essentials-Tour: Uhrturm, Odori-Park und Hokkaido-Schrein",
+  "metaTitle": "Sapporo: Uhrturm, Odori-Park und Schrein",
+  "metaDescription": "Eine vierstuendige private Tour durch Sapporo mit einem lokalen Guide, die den Uhrturm, den Odori-Park und den Hokkaido-Schrein abdeckt.",
+  "shortDescription": "Eine vierstuendige private Tour durch Sapporo mit einem lokalen Guide, die den Uhrturm, den Odori-Park und den Hokkaido-Schrein in einem fuer Ihre Gruppe passenden Tempo abdeckt.",
+  "fullDescription": "Vier Stunden reichen aus, um ein Gefuehl fuer Sapporo zu bekommen, wenn jemand, der dort lebt, auswaehlt, wo Sie sie verbringen, und diese private Tour tut genau das. Sie beginnen am Sapporo-Uhrturm, dem schlichten Holzgebaeude, das zum Emblem der Stadt geworden ist, wo Ihr Guide erklaert, warum eine so bescheidene Struktur so viel Gewicht in einer sonst aus Beton und Glas gebauten Stadt traegt. Von dort geht die Tour weiter zum Odori-Park, dem langen gruenen Streifen, der durch das Zentrum von Sapporo verlaeuft und als dessen Wohnzimmer dient. Odori veraendert sich mit den Jahreszeiten komplett, beherbergt im Februar das Schneefest und fuellt sich beim ersten Zeichen warmen Wetters mit Menschen, und es mit einem Guide zu durchlaufen gibt Ihnen ein Gefuehl dafuer, wie die Stadt ihr Zentrum tatsaechlich nutzt. Der dritte Ankerpunkt des Tages ist der Hokkaido-Schrein, in bewaldetem Gelaende etwas abseits des Innenstadtgitters gelegen und ruhig auf eine Art, die der Rest der Stadt nicht ist. Er ist das spirituelle Zentrum der Insel und ein nuetzliches Gegengewicht zu dem sehr modernen Gesicht, das Sapporo anderswo zeigt, und Ihr Guide kann Sie durch die Bedeutung des Schreins und das richtige Verhalten dort fuehren. Da die Tour privat ist, gehoert das Tempo Ihrer Gruppe. Sie koennen verweilen, wo etwas Ihr Interesse weckt, und ueberspringen, was es nicht tut, und der Guide passt sich unterwegs an. Es ist eine effiziente, gut gestaltete Einfuehrung in die Stadt, am besten frueh in einem Aufenthalt genommen, damit der Rest Ihrer Zeit mehr Sinn ergibt.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "sapporo-evening-tour": {
+  "title": "Yoichi-Whisky und Otaru bei Nacht: privater Kuestentag mit Fahrer-Guide",
+  "metaTitle": "Yoichi und Otaru bei Nacht mit Fahrer-Guide",
+  "metaDescription": "Ein privater zehnstuendiger Tag mit Fahrer-Guide entlang Hokkaidos Kueste: Yoichi-Whisky und Otarus beleuchteter Kanal bei Nacht.",
+  "shortDescription": "Ein privater zehnstuendiger Tag mit Fahrer-Guide entlang Hokkaidos Kueste, mit der Yoichi-Whisky-Destillerie, Otarus Sakaimachi-Strasse, dem Mt. Tengu und den Kanallichtern nach Einbruch der Dunkelheit.",
+  "fullDescription": "Dieser private Tag gibt Ihnen einen Fahrer-Guide und einen Luxusvan fuer zehn Stunden und nutzt sie, um die Kueste westlich von Sapporo zu befahren, endend mit dem einen Teil Otarus, den die meisten Tagesausfluege verpassen, weil sie vor Einbruch der Dunkelheit abreisen. Der erste Stopp ist die Yoichi-Whisky-Destillerie, der Ort, an dem der japanische Whisky praktisch begann, in einem Tal gelegen, das genau deshalb gewaehlt wurde, weil sein Klima dem Schottlands aehnelte. Das Gelaende und die alten Steingebaeude zu durchlaufen erklaert viel darueber, warum der japanische Whisky so wurde, wie er ist. Von Yoichi fuehrt die Route weiter nach Otaru und Sakaimachi, der erhaltenen Handelsstrasse aus Steinlagerhaeusern und Glaswerkstaetten, die durch die Altstadt verlaeuft, wo Zeit zum Schlendern statt zum Marschieren bleibt. Der Mt. Tengu folgt als Naechstes, erhebt sich direkt hinter der Stadt und bietet den weiten Blick hinab auf den Hafen und die Bucht, der die ganze Kuestenlinie in Perspektive setzt. Das Finale ist der Otaru-Kanal nach Einbruch der Dunkelheit, wenn die alten gasartigen Lampen entlang des Wassers angehen und die Lagerhaeuser von unten beleuchtet werden, mit Abstand die beste Zeit, ihn zu sehen, und der Grund, einen Fahrer statt eines Zugfahrplans zu haben. Tuer-zu-Tuer-Transfers in einem Privatvan bedeuten kein Gehen zwischen Bahnhoefen mit kalten Haenden, und einen Guide sowie einen Fahrer zu haben bedeutet, dass der Tag mit Erklaerung kommt statt nur mit Transport. Es ist ein langer, voller und komfortabler Tagesausflug aus der Stadt.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Programm genannten Gebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
+ "sapporo-expert-experience": {
+  "title": "Sapporo-Ramen-Pfad: drei Mini-Schalen mit einem Ramen-Experten",
+  "metaTitle": "Sapporo-Ramen-Pfad",
+  "metaDescription": "Drei Mini-Schalen Ramen in drei Laeden in Susukino, Tanukikoji und der Innenstadt von Sapporo, gewaehlt aus sechs bis zehn Optionen und von einem Experten erklaert.",
+  "shortDescription": "Drei Mini-Schalen Ramen in drei Laeden in Susukino, Tanukikoji und der Innenstadt von Sapporo, gewaehlt aus sechs bis zehn Optionen und von einem Ramen-Experten erklaert.",
+  "fullDescription": "Sapporo ist eine der Staedte, die den japanischen Ramen definierten, und eine einzige Schale zu essen sagt Ihnen fast nichts darueber. Diese Verkostungstour behebt das, indem sie Sie in etwas mehr als zwei Stunden zu drei verschiedenen Laeden bringt und Ihnen bei jedem eine Mini-Schale gibt, sodass Sie drei essen koennen, ohne sich zu erschoepfen. Die Laeden liegen in Susukino, entlang der Tanukikoji-Passage und im Innenstadtbereich, drei Teile der Stadt mit unterschiedlichem Charakter, sodass der Spaziergang zwischen ihnen an sich schon etwas wert ist. An jedem Stopp waehlen Sie Ihre Schale aus einer Auswahl von sechs bis zehn Optionen, was bedeutet, dass sich die Tour daran anpasst, was Sie moegen und was Sie bereits probiert haben. All dies fuehrt ein Ramen-Experte, dessen Kommentar die eigentliche Substanz des Erlebnisses ist. Sie erfahren die Urspruenge des Gerichts und wie es nach Japan kam, die Unterschiede zwischen den Haupttypen und was jeden definiert, wie eine Schale tatsaechlich von der Bruehe ueber die Nudel bis zum Topping aufgebaut wird, und wohin sich die aktuellen Trends in einer Szene entwickeln, die sich schneller aendert, als die meisten Aussenstehenden realisieren. Bei der dritten Schale kosten Sie vergleichend statt nur zu essen, und bemerken, wie sich die Bruehen unterscheiden und warum die Nudeln eines Ladens sich anders verhalten als die eines anderen. Es sind kompakte, gut getaktete paar Stunden, leicht um andere Plaene herum einzupassen, und am Ende koennen Sie in jeden Ramen-Laden Japans gehen und mit einer gewissen Vorstellung davon bestellen, was Sie da verlangen.",
+  "highlights": [],
+  "included": [
+   "Professioneller lokaler Guide, alle im Programm genannten Gebuehren, 3 Mini-Schalen Ramen"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben, Mahlzeiten sofern nicht angegeben, Trinkgelder"
+  ]
+ },
  "kyoto-kid-friendly-ninja-class-museum": {
   "title": "Ninja-Kurs für Familien in Kyoto: Blasrohre, Sterne und Tarnung",
   "metaTitle": "Ninja-Kurs für Familien in Kyoto",

@@ -60189,6 +60189,90 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tarifas de entrada a atracciones opcionales\nGastos personales y souvenirs\nUn guia de tour separado ademas del conductor-guia\nBocadillos y bebidas adicionales"
   ]
  },
+ "sapporo-chauffeured-private-tour": {
+  "title": "Sapporo en auto privado: dia personalizado con chofer",
+  "metaTitle": "Sapporo en auto privado con chofer",
+  "metaDescription": "Un vehiculo privado fletado con conductor durante diez horas en Sapporo, para visitar las principales atracciones de la ciudad con comodidad y a su propio ritmo.",
+  "shortDescription": "Un vehiculo privado fletado con conductor durante diez horas en Sapporo, que les permite visitar las principales atracciones de la ciudad con comodidad y enteramente a su propio ritmo.",
+  "fullDescription": "Sapporo es una ciudad extendida. Se trazo en cuadricula sobre una amplia llanura, y la consecuencia para un visitante es que las atracciones que vale la pena ver estan mas separadas entre si de lo que parecen en un mapa, con los espacios entre ellas consumidos por cambios de metro y largas caminatas. Fletar un vehiculo privado con conductor durante diez horas resuelve ese problema por completo. El dia se personaliza para su grupo. Ustedes eligen las atracciones, deciden cuanto tiempo pasar en cada una, y el orden puede cambiar durante el dia si el clima cambia o algo toma mas tiempo del esperado. No hay grupo que esperar ni horario que cumplir. Entre paradas estan en un auto confortable en lugar de en un anden, lo cual importa mucho en una ciudad que es realmente fria buena parte del ano y calurosa a mitad del verano. Su conductor maneja la navegacion, el estacionamiento y la logistica, de modo que lo que de otro modo seria un dia de planificacion se convierte en un dia de simplemente llegar a los lugares. Este tipo de viaje conviene a familias con ninos pequenos, viajeros con movilidad reducida, cualquiera que visite con un horario ajustado y quiera ver mucho sin apurarse, y fotografos que necesitan estar en algun lugar a una hora particular del dia. Tambien funciona bien con mal clima, cuando un itinerario a pie fijo se vuelve miserable pero un auto privado no. Diez horas es un dia largo, y bien utilizado cubre mucho mas de Sapporo de lo que permitiria el transporte publico.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "sapporo-corners-experience": {
+  "title": "Sapporo con un anfitrion local: iconos, rincones ocultos y sabores locales",
+  "metaTitle": "Sapporo con un anfitrion local",
+  "metaDescription": "Un tour privado a pie por Sapporo moldeado enteramente alrededor de ustedes, guiado por un anfitrion local amistoso que muestra sitios famosos y rincones ocultos.",
+  "shortDescription": "Un tour privado a pie por Sapporo moldeado enteramente alrededor de ustedes, guiado por un anfitrion local amistoso que les muestra los sitios famosos junto con los rincones que las guias turisticas dejan fuera.",
+  "fullDescription": "Este es un tour privado a pie por Sapporo con un anfitrion local amistoso, y el objetivo completo es que les pertenece a ustedes en lugar de seguir un guion fijo. Antes de salir, su anfitrion pregunta que les interesa, y la caminata se adapta a partir de ahi. Si quieren los sitios iconicos, los obtienen, con el contexto que les da sentido en lugar de ser solo un nombre en un cartel. Si prefieren deambular, su anfitrion puede llevarlos por las calles laterales y los rincones ocultos que no aparecen en una guia turistica, el tipo de lugares que un visitante pasaria sin saber nunca que debia detenerse. Los sabores locales tambien son parte del dia, y su anfitrion puede indicarles que hace Sapporo particularmente bien y donde encontrarlo hecho correctamente. Como estan caminando, la ciudad llega a un ritmo humano: notan como cambian los barrios, donde estan las multitudes y donde no, y como se siente realmente vivir en una ciudad planificada en cuadricula en el extremo norte de Japon. Y porque el anfitrion es un local en lugar de un guia con libreto, la conversacion va en ambas direcciones. Pregunten lo que sea, desde donde comen un martes por la noche hasta como maneja la ciudad sus inviernos, y obtendran una respuesta real. Funciona bien como orientacion en su primer dia, cuando todo lo que aprenden facilita el resto de su estadia, y funciona igual de bien mas adelante cuando ya conocen el esquema general y quieren llenar los detalles.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "sapporo-culture-full-day-tour": {
+  "title": "Tour privado de un dia completo por Sapporo: cultura, encanto y vida local",
+  "metaTitle": "Sapporo: cultura, encanto y vida local",
+  "metaDescription": "Un tour privado de un dia completo por Sapporo a un ritmo tranquilo, con precio por grupo, descubriendo la historia y el caracter nordico de la ciudad.",
+  "shortDescription": "Un tour privado de un dia completo por Sapporo a un ritmo tranquilo, con precio por grupo, descubriendo la historia de la ciudad, sus tesoros locales y su caracter nordico apacible.",
+  "fullDescription": "Este tour privado de un dia completo tiene precio por grupo en lugar de por persona, y esta construido alrededor de la idea de que Sapporo recompensa un ritmo tranquilo. La capital de Hokkaido no es una ciudad que grita. Su atractivo es una elegancia tranquila, una amplitud y una frescura en el aire que los visitantes que llegan desde las ciudades abarrotadas de Honshu notan dentro de la primera hora de llegar, y apresurarse por ella derrota el proposito por completo. A lo largo del dia, su guia privado se mueve entre la rica historia de la ciudad y los tesoros locales que no aparecen en una lista de turismo estandar, dejando que cada parada respire en lugar de tratar el dia como una lista de verificacion a completar. Como el grupo es solo suyo, la forma del dia les pertenece. Los intereses pueden seguirse adonde lleven, el tiempo puede darse generosamente a algun lugar que resulte importante para ustedes, y el plan puede ralentizarse o abrirse conforme avanza el dia. Lo que emerge a lo largo de un dia completo es una sensacion del alma de la ciudad en lugar de una serie de fotografias: como llego a existir Sapporo, como la usan quienes viven ahi, y que hace que la capital de Hokkaido se sienta tan distinta de cualquier lugar mas al sur. El ritmo es deliberado y relajado en todo momento, y los momentos inmersivos tienen espacio. Conviene a viajeros que prefieren entender bien una ciudad en lugar de ver tres a medias, y funciona particularmente bien como ancla de un viaje a Hokkaido.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "sapporo-essentials-private-tour": {
+  "title": "Tour privado de lo esencial de Sapporo: torre del reloj, parque Odori y santuario de Hokkaido",
+  "metaTitle": "Sapporo: torre del reloj, Odori y santuario",
+  "metaDescription": "Un tour privado de cuatro horas por Sapporo con un guia local, que cubre la torre del reloj, el parque Odori y el santuario de Hokkaido.",
+  "shortDescription": "Un tour privado de cuatro horas por Sapporo con un guia local, que cubre la torre del reloj, el parque Odori y el santuario de Hokkaido a un ritmo que conviene a su grupo.",
+  "fullDescription": "Cuatro horas son suficientes para tomarle la medida a Sapporo si alguien que vive ahi elige donde las pasan, y este tour privado hace precisamente eso. Comienzan con la torre del reloj de Sapporo, el sencillo edificio de madera que se ha convertido en el emblema de la ciudad, donde su guia explica por que una estructura tan modesta lleva tanto peso en una ciudad construida mayormente de concreto y vidrio. De ahi el tour se mueve hacia el parque Odori, la larga franja verde que atraviesa el centro de Sapporo y funciona como su sala de estar. Odori cambia por completo con las estaciones, albergando el festival de la nieve en febrero y llenandose de gente al primer indicio de clima calido, y recorrerlo con un guia les da una idea de como la ciudad realmente usa su centro. El tercer ancla del dia es el santuario de Hokkaido, ubicado en terrenos arbolados un poco alejados de la cuadricula del centro y tranquilo de una manera que el resto de la ciudad no lo es. Es el centro espiritual de la isla y un util contrapeso a la cara muy moderna que Sapporo muestra en otros lugares, y su guia puede explicarles que significa el santuario y como comportarse ahi. Como el tour es privado, el ritmo le pertenece a su grupo. Pueden quedarse donde algo les llame la atencion y saltarse lo que no, y el guia se ajustara sobre la marcha. Es una introduccion eficiente y bien disenada a la ciudad, mejor tomada temprano en una estadia para que el resto de su tiempo tenga mas sentido.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "sapporo-evening-tour": {
+  "title": "Whisky de Yoichi y Otaru de noche: dia costero privado con conductor-guia",
+  "metaTitle": "Yoichi y Otaru de noche con conductor-guia",
+  "metaDescription": "Un dia privado de diez horas con conductor-guia por la costa de Hokkaido: whisky de Yoichi y el canal iluminado de Otaru.",
+  "shortDescription": "Un dia privado de diez horas con conductor-guia por la costa de Hokkaido, con la destileria de whisky de Yoichi, la calle Sakaimachi de Otaru, el monte Tengu y las luces del canal tras el anochecer.",
+  "fullDescription": "Este dia privado les da un conductor-guia y una furgoneta de lujo durante diez horas y los usa para recorrer la costa al oeste de Sapporo, terminando con la parte de Otaru que la mayoria de las excursiones de un dia se pierden porque parten antes del anochecer. La primera parada es la destileria de whisky de Yoichi, el lugar donde el whisky japones practicamente comenzo, ubicada en un valle elegido precisamente porque su clima se parecia al de Escocia. Recorrer los terrenos y los viejos edificios de piedra explica mucho sobre por que el whisky japones resulto como resulto. Desde Yoichi la ruta continua hacia Otaru y Sakaimachi, la calle mercantil preservada de almacenes de piedra y talleres de vidrio que atraviesa el casco antiguo, donde hay tiempo para deambular en lugar de marchar. Sigue el monte Tengu, que se eleva directamente detras de la ciudad y ofrece la amplia vista sobre el puerto y la bahia que pone toda la linea costera en perspectiva. El final es el canal de Otaru tras el anochecer, cuando las viejas lamparas de estilo gas se encienden junto al agua y los almacenes se iluminan desde abajo, por lejos el mejor momento para verlo y la razon para tener un conductor en lugar de un horario de tren. Los traslados puerta a puerta en una furgoneta privada significan nada de caminar entre estaciones con las manos frias, y tener un guia asi como un conductor significa que el dia viene con explicacion en lugar de solo transporte. Es un dia largo, completo y confortable fuera de la ciudad.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "sapporo-expert-experience": {
+  "title": "Ruta del ramen de Sapporo: tres mini tazones con un experto en ramen",
+  "metaTitle": "Ruta del ramen de Sapporo",
+  "metaDescription": "Tres mini tazones de ramen en tres locales de Susukino, Tanukikoji y el centro de Sapporo, elegidos entre seis y diez opciones y explicados por un experto.",
+  "shortDescription": "Tres mini tazones de ramen en tres locales de Susukino, Tanukikoji y el centro de Sapporo, elegidos entre seis y diez opciones y explicados por un experto en ramen.",
+  "fullDescription": "Sapporo es una de las ciudades que definio el ramen japones, y comer un solo tazon casi no les ensena nada sobre el. Este tour de degustacion arregla eso llevandolos a tres locales diferentes en poco mas de dos horas, dandoles un mini tazon en cada uno para que puedan comer tres sin agotarse. Los locales estan en Susukino, a lo largo de la galeria Tanukikoji y en la zona del centro, tres partes de la ciudad con caracteres distintos, asi que la caminata entre ellos vale algo por si misma. En cada parada eligen su tazon entre una seleccion de seis a diez opciones, lo que significa que el tour se adapta a lo que les gusta y a lo que ya han probado. Guiando todo esto hay un experto en ramen cuyo comentario es la verdadera sustancia de la experiencia. Obtienen los origenes del plato y como llego a Japon, las diferencias entre los principales tipos y que define a cada uno, como se construye realmente un tazon desde el caldo hasta el fideo y el aderezo, y hacia donde se dirigen las tendencias actuales en una escena que cambia mas rapido de lo que la mayoria de los forasteros se dan cuenta. Para el tercer tazon estan degustando de forma comparativa en lugar de solo comer, notando como difieren los caldos y por que los fideos de un local se comportan distinto a los de otro. Son un par de horas compactas y bien ritmadas, faciles de encajar junto a otros planes, y los deja capaces de entrar a cualquier local de ramen en Japon despues y pedir con cierta idea de lo que estan solicitando.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario, 3 mini tazones de ramen"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
  "kyoto-kid-friendly-ninja-class-museum": {
   "title": "Clase de ninja para familias en Kyoto: cerbatanas, estrellas y sigilo",
   "metaTitle": "Clase de ninja para familias en Kyoto",
