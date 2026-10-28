@@ -60899,6 +60899,90 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comidas y bebidas, compras de ceramica, gastos personales, propinas"
   ]
  },
+ "tokyo-akihabara-anime-manga-maid-cafe-tour": {
+  "title": "Akihabara con un guia de anime: plantas de manga, juegos retro y un maid cafe",
+  "metaTitle": "Akihabara con un guia de anime",
+  "metaDescription": "Tres horas por las tiendas de anime y videojuegos de Akihabara con un guia experto, terminando con un maid cafe, bebida y foto incluidas.",
+  "shortDescription": "Tres horas por las tiendas de anime y videojuegos de Akihabara con un guia que sabe que plantas merece la pena subir, terminando con un maid cafe, bebida y foto incluidas.",
+  "fullDescription": "Akihabara es casi imposible de recorrer sin ayuda. Fue el distrito de la electronica durante cincuenta anos y hoy es el centro de la cultura del anime, el manga y los videojuegos en Japon, pero las tiendas que importan se apilan verticalmente, ocho plantas de un edificio donde cada nivel vende algo completamente distinto, sin nada en la calle que le indique cual quiere.\n\nUn guia que sigue esta materia resuelve eso. El paseo cubre las tiendas de manga y anime de varias plantas, las tiendas de videojuegos retro donde esta el stock interesante, y los sitios especializados que son efectivamente invisibles para quien no sabe leer la senalizacion. Si busca algo concreto, digalo al principio; el guia sabra a que planta de que edificio llevarle.\n\nEl maid cafe es la parte de la que mas pregunta la gente. Es la institucion mas comentada del distrito y tambien la mas incomprendida, el formato es deliberadamente teatral y apto para familias, mas parecido a un restaurante tematico con espectaculo que a cualquier otra cosa. El tour estandar incluye una hora alli con una bebida y una foto. Tambien hay una version todo incluido con dos horas en el cafe, un postre y una actuacion de baile en directo, y una version solo paseo que se salta el cafe por completo si no es lo suyo.\n\nLos grupos estan limitados a diez personas y el guia trabaja en ingles. La ruta es accesible en silla de ruedas. El merchandising no esta incluido y le hara falta dinero para eso, es el distrito donde la contencion falla.\n\nEl punto de encuentro es frente a la taquilla justo fuera de la salida Electric Town de la estacion JR de Akihabara, que es la salida que necesita y no la obvia.",
+  "highlights": [],
+  "included": [
+   "Guia de habla inglesa especializado en anime y videojuegos, recorrido a pie por las tiendas de anime, manga y videojuegos de Akihabara, una hora de entrada al maid cafe con una bebida y una foto (en el tour estandar), dos horas en el maid cafe con un postre y una actuacion de baile en directo (en la opcion todo incluido)"
+  ],
+  "notIncluded": [
+   "Comida y bebida adicionales, compras de merchandising, recogida y regreso al hotel, entrada al maid cafe en la opcion solo paseo"
+  ]
+ },
+ "tokyo-akihabara-game-boy-modding-workshop": {
+  "title": "Modifique su propia Game Boy en Akihabara: pantalla IPS retroiluminada y carcasa personalizada",
+  "metaTitle": "Modding de Game Boy en Akihabara",
+  "metaDescription": "Desmonte una Game Boy Advance, instale una pantalla IPS y una carcasa personalizada, y salga con una consola que ha reconstruido usted mismo.",
+  "shortDescription": "Desmonte una Game Boy Advance real, instale una pantalla IPS retroiluminada y una carcasa del color que elija, y salga con una consola que ha reconstruido usted mismo.",
+  "fullDescription": "La mayor debilidad de la Game Boy original era su pantalla, una LCD reflectante que habia que inclinar hacia una lampara, por lo que el mercado de accesorios de los anos 1990 estaba lleno de luces de pinza. Treinta anos despues, un panel IPS retroiluminado moderno encaja en la misma carcasa y transforma completamente la maquina. Este taller le permite hacer usted mismo esa conversion, en Akihabara, donde siempre ha vivido el comercio de piezas.\n\nElige su consola al reservar: la DMG-01 original de 1989, o la Game Boy Advance con su pantalla mas ancha y su biblioteca de 32 bits mucho mayor. Cada unidad se prueba y se verifica antes de su sesion, asi que no estara arreglando el hardware roto de otra persona.\n\nLa sesion es genuinamente practica. Usted desmonta la consola con sus propias manos, instala la pantalla IPS retroiluminada, cambia los botones, y coloca una carcasa del color que elija, todo el sentido es que el objeto terminado sea inconfundiblemente suyo. Personal de habla inglesa al que realmente le apasiona este tema le guia en cada etapa, y no se espera experiencia tecnica; la mayoria llega sin haber abierto nunca un aparato electronico.\n\nHay un estante de cartuchos originales para jugar in situ mientras trabaja, en lo que suele irse una buena parte de la sesion.\n\nEl grupo esta limitado a seis personas, y el taller esta en la septima planta de un edificio en Kanda, a minutos de la calle principal de Akihabara. No son dos horas baratas, pero sale con una consola funcional y modificada en lugar de una foto, y seguira funcionando dentro de veinte anos.",
+  "highlights": [],
+  "included": [
+   "Modificacion practica de una Game Boy o Game Boy Advance original, instalacion de pantalla IPS retroiluminada, carcasa personalizada del color de su eleccion, cambio de botones, todas las herramientas y materiales, guia de personal de habla inglesa, cartuchos originales para jugar durante la sesion"
+  ],
+  "notIncluded": [
+   "Consolas o piezas adicionales, recogida y regreso al hotel, comida y bebida"
+  ]
+ },
+ "tokyo-asakusa-coin-ring-making-workshop": {
+  "title": "Convierta una moneda japonesa en un anillo: una hora con metalistas de Asakusa",
+  "metaTitle": "Taller de anillos con monedas en Asakusa",
+  "metaDescription": "Forje a martillo una moneda japonesa en un anillo o colgante, en un taller de Asakusa de cinco personas, con los artesanos haciendo las partes dificiles.",
+  "shortDescription": "Forje a martillo una moneda japonesa real hasta convertirla en un anillo o colgante que se pueda llevar, en un taller de Asakusa de cinco personas, con los artesanos haciendo las partes dificiles.",
+  "fullDescription": "Una moneda japonesa de cinco yenes tiene un agujero en el centro, por lo que aparece en las ofrendas de los templos, la palabra para ella, go-en, es homofona de buena fortuna y conexion. Tambien resulta tener exactamente la forma adecuada para convertirse en un anillo, y de eso trata esta hora.\n\nEl proceso es genuinamente practico. Usted empieza con una moneda real, y al trabajar el metal hacia fuera desde el agujero central y martillarlo sobre un mandril, el disco plano se convierte gradualmente en una banda. Suena poco plausible hasta que lo ve ocurrir. Los artesanos se encargan de las partes que requieren verdadera habilidad y un yunque adecuado, y se lo devuelven entre etapas, asi que lo que se lleva a casa es algo que visiblemente hizo usted en lugar de algo que vio hacer.\n\nEl grupo esta limitado a cinco personas, el mas pequeno de cualquier taller que listamos en Tokio, y eso hace que la hora se sienta mas como una leccion con un artesano que como una clase. La instruccion es en ingles. Las herramientas y materiales se proporcionan todos, y no se espera experiencia; la mayoria llega sin haber sostenido nunca un martillo de joyero.\n\nPuede hacer un anillo o un colgante segun lo que quiera obtener al final. En cualquier caso se va llevandolo puesto, que es el atractivo: es un recuerdo con una historia que cabe en un bolsillo y le ha costado una hora en lugar de una excursion de compras.\n\nEl taller esta en Nishi-Asakusa, unas calles detras del Senso-ji y la calle comercial de Nakamise, asi que se integra naturalmente en una manana en Asakusa. La talla se decide el mismo dia, asi que no hay que decidir nada de antemano.",
+  "highlights": [],
+  "included": [
+   "Guia de artesanos expertos durante toda la sesion, una moneda japonesa real para trabajar, todas las herramientas y materiales, su anillo o colgante terminado para llevarse a casa"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel, comida y bebida, piezas adicionales mas alla de la incluida"
+  ]
+ },
+ "tokyo-asakusa-kimono-yukata-rental-full-day": {
+  "title": "Alquiler de kimono o yukata para todo el dia en Asakusa, con peinado incluido",
+  "metaTitle": "Kimono o yukata por el dia en Asakusa",
+  "metaDescription": "Un conjunto completo de kimono o yukata para todo el dia cerca de la estacion de Asakusa, peinado incluido, con sesion de fotos opcional.",
+  "shortDescription": "Un conjunto completo de kimono o yukata para todo el dia cerca de la estacion de Asakusa, peinado incluido, con sesion de fotos al aire libre opcional y quince fotos editadas.",
+  "fullDescription": "Asakusa es el distrito adecuado para llevar un kimono. El Senso-ji, la calle comercial de Nakamise y las calles antiguas detras de ellas se construyeron para la escala y el ritmo de la vestimenta tradicional, y suficientes locales hacen lo mismo en los dias de festival como para que no se sienta llamativo.\n\nEl alquiler es un conjunto completo, el kimono o el yukata en si, el cinturon obi, un clutch japones, sandalias y calcetines, y es suyo para todo el dia en lugar de una hora, lo que marca la diferencia entre una parada fotografica y pasar realmente el dia vestido asi. El peinado esta incluido para mujeres.\n\nEl kimono y el yukata no son la misma prenda y la eleccion importa. Un kimono se lleva por capas y todo el ano; un yukata no esta forrado, es mas ligero y fresco, se lleva en verano y esta disponible de junio a septiembre. Si reserva el plan yukata y cambia de opinion el mismo dia, puede cambiar a kimono por un pequeno recargo en el lugar.\n\nLa sesion de fotos es opcional pero debe reservarse con antelacion, el estudio normalmente no puede anadirla el mismo dia. La sesion dura veinte minutos para una persona, treinta para dos, cuarenta y cinco para tres o mas, al aire libre en Asakusa. Cada persona recibe quince fotografias editadas para descargar, ajustadas en brillo y color, con extras disponibles para comprar.\n\nUna nota practica del operador: las prendas quedan bien hasta una medida de cadera de 130 cm. Compruebelo antes de reservar en lugar de a la llegada.\n\nLa tienda esta en la cuarta planta de un edificio cerca de la salida norte de la estacion de Asakusa en la linea Tobu Skytree, tome el ascensor. Los grupos estan limitados a seis personas y el local es accesible en silla de ruedas.",
+  "highlights": [],
+  "included": [
+   "Conjunto completo de kimono: kimono, cinturon obi, clutch japones, sandalias y calcetines, conjunto completo de yukata de junio a septiembre, peinado (mujeres), vestir por parte del personal, sesion de fotos al aire libre con quince fotos editadas en los planes con sesion de fotos"
+  ],
+  "notIncluded": [
+   "Fotos adicionales mas alla de las quince incluidas, cambio de yukata a kimono el mismo dia (pequeno recargo en el lugar), recogida y regreso al hotel, comida y bebida"
+  ]
+ },
+ "tokyo-asakusa-samurai-ninja-museum-shuriken-throwing": {
+  "title": "Museo de samurais y ninjas en Asakusa: hora guiada con lanzamiento de shuriken",
+  "metaTitle": "Museo de samurais y ninjas en Asakusa",
+  "metaDescription": "Una hora con armaduras y armas reales, un guia que separa la historia de las peliculas, y un intento de lanzar estrellas ninja, por menos de veintiocho dolares.",
+  "shortDescription": "Una hora con armaduras y armas reales, un guia que separa la historia de las peliculas, y un intento de lanzar estrellas ninja, por menos de veintiocho dolares.",
+  "fullDescription": "Samurais y ninjas son las dos figuras japonesas sobre las que todos llegan con una opinion ya formada, y casi toda esa opinion viene del cine. Este pequeno museo en Asakusa existe para corregirla, y la hora esta bien empleada precisamente porque un guia le acompana en lugar de dejarle leer carteles.\n\nLa coleccion es equipo real y no accesorios: armaduras, hojas y las herramientas de trabajo de ambos oficios, con el guia explicando para que servia cada pieza y como se usaba realmente. La historia samurai es la mas sorprendente para la mayoria de los visitantes, una clase guerrera hereditaria que paso largos periodos de su historia como burocratas y terratenientes mas que como duelistas, cuyo codigo se formalizo en gran parte despues de que cesaran los combates. El material ninja es lo contrario: mucho menos romantico de lo que sugieren las peliculas, mas cercano al espionaje y el sabotaje que a la acrobacia, y buena parte de lo que la gente cree sobre ello se invento en el siglo veinte.\n\nLa parte que todos recuerdan llega al final. Se lanzan shuriken, las hojas en forma de estrella, a una diana bajo instruccion, y resulta inmediatamente evidente que la tecnica no tiene nada que ver con el movimiento de muneca que se ve en las pantallas.\n\nLos grupos estan limitados a diez personas, lo que lo mantiene cercano, y el guia trabaja en ingles. La entrada y la sesion de lanzamiento estan ambas incluidas en el precio, asi que no hay nada extra en la puerta. Es accesible en silla de ruedas.\n\nCon una hora y menos de treinta dolares, se integra facilmente en una manana en Asakusa junto al Senso-ji y Nakamise-dori, y funciona especialmente bien con ninos, que suelen salir mejor informados de lo que los adultos esperaban.",
+  "highlights": [],
+  "included": [
+   "Entrada al museo, visita guiada con un guia de habla inglesa, experiencia de lanzamiento de shuriken (estrellas ninja)"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel, comida y bebida, alquiler de disfraz cuando se ofrece por separado"
+  ]
+ },
+ "tokyo-asakusa-samurai-sword-lesson-armour-museum": {
+  "title": "Leccion de espada samurai en Asakusa: hakama, armadura y dos horas de instruccion",
+  "metaTitle": "Leccion de espada samurai en Asakusa",
+  "metaDescription": "Dos horas aprendiendo formas reales de espada en hakama, con armadura samurai para fotos, con la visita al museo incluida.",
+  "shortDescription": "Dos horas aprendiendo formas reales de espada en hakama, con armadura samurai para fotos, con la visita al museo incluida.",
+  "fullDescription": "Esta es la version mas larga y practica de una visita a la coleccion de samurais y ninjas de Asakusa. La visita al museo forma parte de ella, pero lo sustancial es la leccion de espada, que ocupa la mayor parte de las dos horas.\n\nPrimero se cambia al hakama, el pantalon plisado que se lleva para el kenjutsu y que todavia se usa en el kendo, porque moverse correctamente con ropa normal es dificil y la prenda forma parte de la tecnica. Lo que sigue es instruccion real en lugar de una oportunidad fotografica con un accesorio: como colocarse, como sostener el arma con ambas manos haciendo tareas distintas, como se da realmente un corte, y por que casi todas las representaciones en pantalla se equivocan en los tres puntos. Las formas que aprende son las basicas que se ensenarian a un principiante en un dojo, y son mas dificiles de lo que parecen.\n\nTambien se pone un conjunto de armadura samurai, algo que merece la pena solo por el peso. Una o-yoroi completa pesaba alrededor de treinta kilogramos, y en el momento en que la lleva puesta, se vuelve evidente buena parte de como luchaban realmente los samurais, y por que la caballeria y el tiro con arco importaban mas que el duelo. Se toman fotos tematicas mientras la lleva puesta.\n\nLa visita guiada de la coleccion envuelve la sesion, cubriendo las armaduras, hojas y equipo expuestos y separando la historia documentada de la mitologia que crecio despues en torno a ella.\n\nLos grupos estan limitados a diez personas y la instruccion es en ingles. Es accesible en silla de ruedas. Si quiere la version mas corta, tambien ofrecemos la entrada de una hora al museo con el lanzamiento de estrellas ninja, una experiencia distinta y mas economica.",
+  "highlights": [],
+  "included": [
+   "Leccion de espada samurai con instruccion en ingles, uso del hakama, uso de la armadura samurai, oportunidades fotograficas tematicas, visita guiada al museo de samurais y ninjas"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel, comida y bebida, fotos impresas cuando se cobran por separado"
+  ]
+ },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
   "title": "Recoleccion de fruta en Yoichi, la destileria Nikka y la costa de Shakotan",
   "metaTitle": "Recoleccion de fruta, destileria Nikka y costa de Shakotan",

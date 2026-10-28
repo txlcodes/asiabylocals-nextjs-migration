@@ -60899,6 +60899,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Repas et boissons, achats de poterie, depenses personnelles, pourboires"
   ]
  },
+ "tokyo-akihabara-anime-manga-maid-cafe-tour": {
+  "title": "Akihabara avec un guide anime : etages manga, jeux retro et un maid cafe",
+  "metaTitle": "Akihabara avec un guide anime",
+  "metaDescription": "Trois heures dans les boutiques anime et jeux d'Akihabara avec un guide expert, terminant par un maid cafe, boisson et photo incluses.",
+  "shortDescription": "Trois heures dans les boutiques anime et jeux d'Akihabara avec un guide qui connait les etages qui valent la montee, terminant par un maid cafe, boisson et photo incluses.",
+  "fullDescription": "Akihabara est quasiment impossible a naviguer sans aide. C'etait le quartier de l'electronique pendant cinquante ans et c'est aujourd'hui le centre de la culture anime, manga et jeu video au Japon, mais les boutiques qui comptent sont empilees verticalement, huit etages d'un immeuble ou chaque niveau vend quelque chose de completement different, sans rien dans la rue pour vous indiquer lequel vous voulez.\n\nUn guide qui connait cette matiere resout ce probleme. La balade couvre les boutiques de manga et d'anime sur plusieurs etages, les magasins de jeux retro ou se trouve le stock interessant, et les endroits specialises qui restent effectivement invisibles pour quiconque ne sait pas lire les enseignes. Si vous recherchez quelque chose en particulier, dites-le au depart ; le guide saura quel etage de quel immeuble vous y amener.\n\nLe maid cafe est la partie dont les gens parlent le plus. C'est l'institution la plus commentee du quartier et aussi la plus mal comprise, le format est deliberement theatral et familial, plus proche d'un diner a theme avec spectacle sur scene que de toute autre chose. La visite standard inclut une heure sur place avec une boisson et une photo. Il existe aussi une version tout compris avec deux heures au cafe, un dessert et une prestation de danse en direct, et une version balade seule qui evite le cafe entierement si cela ne vous tente pas.\n\nLes groupes sont limites a dix personnes et le guide travaille en anglais. L'itineraire est accessible en fauteuil roulant. Les produits derives ne sont pas inclus et vous voudrez de l'argent pour cela, c'est le quartier ou la retenue echoue.\n\nLe rendez-vous se fait devant le guichet juste a l'exterieur de la sortie Electric Town de la gare JR d'Akihabara, qui est la sortie qu'il vous faut et non la plus evidente.",
+  "highlights": [],
+  "included": [
+   "Guide anglophone specialiste anime et jeux video, visite a pied des boutiques anime, manga et jeux video d'Akihabara, une heure d'entree au maid cafe avec une boisson et une photo (sur la visite standard), deux heures au maid cafe avec un dessert et une prestation de danse en direct (sur l'option tout compris)"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons supplementaires, achats de produits derives, prise en charge et retour a l'hotel, entree au maid cafe sur l'option balade seule"
+  ]
+ },
+ "tokyo-akihabara-game-boy-modding-workshop": {
+  "title": "Modifiez votre propre Game Boy a Akihabara : ecran IPS retroeclaire et coque personnalisee",
+  "metaTitle": "Modding de Game Boy a Akihabara",
+  "metaDescription": "Demontez une vraie Game Boy Advance, installez un ecran IPS retroeclaire et une coque personnalisee, et repartez avec votre console reconstruite.",
+  "shortDescription": "Demontez une vraie Game Boy Advance, installez un ecran IPS retroeclaire et une coque de la couleur que vous choisissez, et repartez avec une console que vous avez reconstruite vous-meme.",
+  "fullDescription": "La plus grande faiblesse de la Game Boy originale etait son ecran, un LCD reflechissant qu'il fallait orienter vers une lampe, ce qui explique pourquoi le marche des accessoires des annees 1990 etait plein de lampes a clipser. Trente ans plus tard, un panneau IPS retroeclaire moderne se glisse dans la meme coque et transforme completement la machine. Cet atelier vous laisse realiser vous-meme cette conversion, a Akihabara, ou le commerce des pieces detachees a toujours vecu.\n\nVous choisissez votre console a la reservation : la DMG-01 originale de 1989, ou la Game Boy Advance avec son ecran plus large et sa bibliotheque 32 bits bien plus vaste. Chaque unite est testee et verifiee avant votre session, donc vous ne depannez pas le materiel casse de quelqu'un d'autre.\n\nLa session est vraiment pratique. Vous demontez la console de vos propres mains, installez l'ecran IPS retroeclaire, changez les boutons, et posez une coque de la couleur que vous choisissez, tout l'interet est que l'objet fini soit indeniablement le votre. Du personnel anglophone qui se passionne vraiment pour cette matiere vous accompagne a chaque etape, et aucune experience technique n'est attendue ; la plupart des gens arrivent n'ayant jamais ouvert un appareil electronique.\n\nIl y a une etagere de cartouches originales a utiliser sur place pendant que vous travaillez, ce qui occupe souvent une bonne partie de la session.\n\nLe groupe est limite a six personnes, et l'atelier se trouve au septieme etage d'un immeuble a Kanda, a quelques minutes de l'artere principale d'Akihabara. Ce ne sont pas deux heures bon marche, mais vous partez avec une console fonctionnelle et modifiee plutot qu'une photo, et elle fonctionnera encore dans vingt ans.",
+  "highlights": [],
+  "included": [
+   "Modification pratique d'une Game Boy ou Game Boy Advance originale, installation d'un ecran IPS retroeclaire, coque personnalisee de la couleur de votre choix, remplacement des boutons, tous les outils et materiaux, accompagnement par du personnel anglophone, cartouches originales pour jouer pendant la session"
+  ],
+  "notIncluded": [
+   "Consoles ou pieces supplementaires, prise en charge et retour a l'hotel, nourriture et boissons"
+  ]
+ },
+ "tokyo-asakusa-coin-ring-making-workshop": {
+  "title": "Transformez une piece japonaise en bague : une heure avec des metallurgistes d'Asakusa",
+  "metaTitle": "Fabrication de bague en piece a Asakusa",
+  "metaDescription": "Martelez une vraie piece japonaise pour en faire une bague, dans un atelier d'Asakusa de cinq personnes, les artisans gerant les parties delicates.",
+  "shortDescription": "Martelez une vraie piece japonaise pour en faire une bague ou un porte-bonheur a porter, dans un atelier d'Asakusa de cinq personnes, les artisans gerant les parties delicates.",
+  "fullDescription": "Une piece japonaise de cinq yens a un trou au milieu, ce qui explique sa presence dans les offrandes de temple, le mot qui la designe, go-en, est un homophone de la bonne fortune et du lien. Elle a aussi exactement la forme qu'il faut pour devenir une bague, et c'est tout l'objet de cette heure.\n\nLe processus est vraiment pratique. Vous partez d'une vraie piece, et en travaillant le metal vers l'exterieur depuis le trou central et en le martelant sur un mandrin, le disque plat devient progressivement un anneau. Cela parait improbable jusqu'a ce que vous le voyiez se faire. Les artisans gerent les parties qui exigent une vraie competence et une enclume adaptee, puis vous la rendent entre les etapes, si bien que ce que vous emportez est quelque chose que vous avez visiblement fabrique plutot que regarde se faire.\n\nLe groupe est limite a cinq personnes, le plus petit de tous les ateliers que nous listons a Tokyo, ce qui fait que l'heure ressemble davantage a une lecon avec un artisan qu'a un cours. L'instruction se fait en anglais. Les outils et materiaux sont tous fournis, et aucune experience n'est attendue ; la plupart des gens arrivent n'ayant jamais tenu un marteau de bijoutier.\n\nVous pouvez faire une bague ou un porte-bonheur selon ce que vous voulez obtenir au final. Dans tous les cas, vous partez en le portant, ce qui fait tout l'interet : c'est un souvenir avec une histoire qui tient dans une poche et qui vous a coute une heure plutot qu'un shopping.\n\nL'atelier se trouve a Nishi-Asakusa, a quelques rues de Senso-ji et de l'allee commercante de Nakamise, ce qui l'integre naturellement a une matinee a Asakusa. La taille se determine le jour meme, donc rien n'a besoin d'etre decide a l'avance.",
+  "highlights": [],
+  "included": [
+   "Accompagnement par des artisans qualifies tout au long, une vraie piece japonaise a travailler, tous les outils et materiaux, votre bague ou porte-bonheur fini a emporter"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel, nourriture et boissons, pieces supplementaires au-dela de celle incluse"
+  ]
+ },
+ "tokyo-asakusa-kimono-yukata-rental-full-day": {
+  "title": "Location de kimono ou yukata pour la journee complete a Asakusa, coiffure incluse",
+  "metaTitle": "Kimono ou yukata pour la journee a Asakusa",
+  "metaDescription": "Un ensemble complet de kimono ou yukata pour toute la journee pres de la gare d'Asakusa, coiffure incluse, avec seance photo optionnelle.",
+  "shortDescription": "Un ensemble complet de kimono ou yukata pour toute la journee pres de la gare d'Asakusa, coiffure incluse, avec une seance photo exterieure optionnelle et quinze photos retouchees.",
+  "fullDescription": "Asakusa est le bon quartier pour porter un kimono. Senso-ji, l'allee commercante de Nakamise et les vieilles rues derriere ont ete concues pour l'allure et le rythme de la tenue traditionnelle, et suffisamment d'habitants font de meme les jours de festival pour que vous ne vous sentiez pas voyant.\n\nLa location est un ensemble complet, le kimono ou le yukata lui-meme, la ceinture obi, une pochette japonaise, des sandales et des chaussettes, et il est a vous pour la journee plutot que pour une heure, ce qui fait toute la difference entre un arret photo et le fait de passer reellement sa journee habille ainsi. La coiffure est incluse pour les femmes.\n\nLe kimono et le yukata ne sont pas le meme vetement et le choix compte. Un kimono se porte en couches et toute l'annee ; un yukata est non double, plus leger et plus frais, porte en ete, disponible de juin a septembre. Si vous reservez la formule yukata et changez d'avis le jour meme, vous pouvez passer au kimono pour un petit supplement sur place.\n\nLa seance photo est optionnelle mais doit etre reservee a l'avance, le studio ne peut generalement pas l'ajouter le jour meme. La prise de vue dure vingt minutes pour une personne, trente pour deux, quarante-cinq pour trois ou plus, en exterieur a Asakusa. Chaque personne recoit quinze photos retouchees telechargeables, ajustees en luminosite et en couleur, avec des extras disponibles a l'achat.\n\nUne remarque pratique de l'operateur : les tenues conviennent jusqu'a un tour de hanches de 130 cm. Verifiez cela avant de reserver plutot qu'a l'arrivee.\n\nLa boutique se trouve au quatrieme etage d'un immeuble pres de la sortie nord de la gare d'Asakusa sur la ligne Tobu Skytree, prenez l'ascenseur. Les groupes sont limites a six personnes et les locaux sont accessibles en fauteuil roulant.",
+  "highlights": [],
+  "included": [
+   "Ensemble complet de kimono : kimono, ceinture obi, pochette japonaise, sandales et chaussettes, ensemble complet de yukata de juin a septembre, coiffure (femmes), habillage par le personnel, seance photo exterieure avec quinze photos retouchees sur les formules avec seance photo"
+  ],
+  "notIncluded": [
+   "Photos supplementaires au-dela des quinze incluses, passage du yukata au kimono le jour meme (petit supplement sur place), prise en charge et retour a l'hotel, nourriture et boissons"
+  ]
+ },
+ "tokyo-asakusa-samurai-ninja-museum-shuriken-throwing": {
+  "title": "Musee des samourais et ninjas a Asakusa : heure guidee avec lancer de shuriken",
+  "metaTitle": "Musee samourais et ninjas a Asakusa",
+  "metaDescription": "Une heure avec de vraies armures et armes, un guide qui separe l'histoire des films, et un essai de lancer d'etoiles de ninja, pour moins de vingt-huit dollars.",
+  "shortDescription": "Une heure avec de vraies armures et armes, un guide qui separe l'histoire des films, et un essai de lancer d'etoiles de ninja, pour moins de vingt-huit dollars.",
+  "fullDescription": "Samourais et ninjas sont les deux figures japonaises sur lesquelles tout le monde arrive avec une opinion deja faite, et presque toute cette opinion vient du cinema. Ce petit musee d'Asakusa existe pour la corriger, et l'heure est bien employee precisement parce qu'un guide vous accompagne plutot que de vous laisser lire des panneaux.\n\nLa collection est du veritable equipement et non des accessoires : armures, lames et outils de travail des deux metiers, le guide expliquant a quoi servait chaque piece et comment elle etait reellement utilisee. L'histoire des samourais est la plus surprenante pour la plupart des visiteurs, une classe guerriere hereditaire qui a passe de longues periodes de son histoire en tant que bureaucrates et proprietaires terriens plutot qu'en duellistes, dont le code a ete formalise largement apres la fin des combats. La matiere sur les ninjas est l'inverse : bien moins romantique que ce que suggerent les films, plus proche de l'espionnage et du sabotage que de l'acrobatie, et une grande partie de ce que les gens croient a ce sujet a ete inventee au vingtieme siecle.\n\nLa partie que tout le monde retient arrive a la fin. Vous lancez des shuriken, les lames en forme d'etoile, sur une cible sous instruction, et il devient immediatement evident que la technique n'a rien du geste du poignet vu a l'ecran.\n\nLes groupes sont limites a dix personnes, ce qui garde une ambiance conviviale, et le guide travaille en anglais. Le billet d'entree et la session de lancer sont tous deux inclus dans le prix, donc rien de plus a payer sur place. C'est accessible en fauteuil roulant.\n\nAvec une heure et moins de trente dollars, cela s'integre facilement a une matinee a Asakusa avec Senso-ji et Nakamise-dori, et cela fonctionne particulierement bien avec des enfants, qui ont tendance a repartir mieux informes que les adultes ne s'y attendaient.",
+  "highlights": [],
+  "included": [
+   "Billet d'entree au musee, visite guidee avec un guide anglophone, experience de lancer de shuriken (etoiles de ninja)"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel, nourriture et boissons, location de costume lorsqu'elle est proposee separement"
+  ]
+ },
+ "tokyo-asakusa-samurai-sword-lesson-armour-museum": {
+  "title": "Lecon de sabre de samourai a Asakusa : hakama, armure et deux heures d'instruction",
+  "metaTitle": "Lecon de sabre de samourai a Asakusa",
+  "metaDescription": "Deux heures a apprendre de vraies formes au sabre en hakama, a porter une armure de samourai pour des photos, avec la visite du musee incluse.",
+  "shortDescription": "Deux heures a apprendre de vraies formes au sabre en hakama, a porter une armure de samourai pour des photos, avec la visite du musee incluse.",
+  "fullDescription": "C'est la version plus longue et pratique d'une visite de la collection samourais et ninjas d'Asakusa. La visite du musee en fait partie, mais l'essentiel est la lecon de sabre, qui occupe la plus grande partie des deux heures.\n\nVous enfilez d'abord le hakama, le pantalon plisse porte pour le kenjutsu et encore porte en kendo, parce qu'il est difficile de se mouvoir correctement en vetements ordinaires et que le vetement fait partie de la technique. Ce qui suit est une vraie instruction plutot qu'une photo avec un accessoire : comment se tenir, comment tenir l'arme avec les deux mains faisant des taches differentes, comment une coupe est reellement portee, et pourquoi presque toutes les representations a l'ecran se trompent sur ces trois points. Les formes que vous apprenez sont les bases qu'un debutant apprendrait dans un dojo, et elles sont plus difficiles qu'elles ne paraissent.\n\nVous portez aussi un ensemble d'armure de samourai, ce qui merite d'etre fait pour le poids seul. Une o-yoroi complete pesait environ trente kilogrammes, et des l'instant ou vous la portez, beaucoup de choses sur la facon dont les samourais combattaient vraiment, et pourquoi la cavalerie et le tir a l'arc comptaient plus que le duel, deviennent evidentes. Des photos a theme sont prises pendant que vous la portez.\n\nLa visite guidee de la collection s'articule autour de la session, couvrant les armures, lames et equipements exposes et separant l'histoire documentee de la mythologie qui s'est developpee par la suite.\n\nLes groupes sont limites a dix personnes et l'instruction se fait en anglais. C'est accessible en fauteuil roulant. Si vous voulez la version plus courte, nous proposons aussi l'entree d'une heure au musee avec le lancer d'etoiles de ninja, une experience differente et moins chere.",
+  "highlights": [],
+  "included": [
+   "Lecon de sabre de samourai avec instruction en anglais, utilisation du hakama, utilisation de l'armure de samourai, occasions de photos a theme, visite guidee du musee des samourais et ninjas"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel, nourriture et boissons, photos imprimees lorsqu'elles sont facturees separement"
+  ]
+ },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
   "title": "Cueillette de fruits a Yoichi, distillerie Nikka et cote de Shakotan",
   "metaTitle": "Cueillette, distillerie Nikka et cote de Shakotan",
