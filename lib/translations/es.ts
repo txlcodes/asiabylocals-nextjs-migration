@@ -60563,6 +60563,90 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales, comidas salvo que se indique, propinas"
   ]
  },
+ "sapporo-private-tour": {
+  "title": "Su Sapporo, a su ritmo: dia privado con un guia local con licencia",
+  "metaTitle": "Sapporo privado con guia con licencia",
+  "metaDescription": "Visita privada de cuatro o seis horas por Sapporo segun lo que quiera ver, con un guia con licencia que conoce la ciudad moderna y su lado antiguo.",
+  "shortDescription": "Una visita privada de cuatro o seis horas por Sapporo construida alrededor de lo que usted quiera ver, dirigida por un guia con licencia nacional que conoce tanto la ciudad moderna como su lado mas antiguo.",
+  "fullDescription": "Sapporo recompensa a los visitantes que tienen a alguien que los guie, y esta visita privada le entrega un guia con licencia nacional durante cuatro o seis horas para hacer exactamente eso. Nada del dia esta fijado de antemano. Usted le dice a su guia que le atrae de la ciudad, y la ruta se construye alrededor de eso ese mismo dia, ya sea que su interes vaya hacia la cara moderna de la capital de Hokkaido o hacia el lado tradicional que permanece en silencio detras. Como la visita es privada, el ritmo le pertenece a usted: puede pasar una hora tranquila en algun lugar que le llame la atencion, o seguir moviendose para ver mas, y nadie espera en un autocar por usted. Un guia con licencia aporta mas que indicaciones. Puede explicar en que se diferencia Sapporo de las ciudades de Honshu, por que tiene el aspecto que tiene, y que merece su tiempo limitado en un lugar que se extiende mas que la mayoria de las ciudades japonesas. La ayuda practica tambien forma parte de ello, desde entender el transporte hasta leer un menu o saber cual de varias opciones de aspecto similar es la que realmente usan los locales. La opcion de cuatro horas conviene a una media jornada concentrada, abarcando un conjunto compacto de puntos destacados; la opcion de seis horas deja espacio para combinar los puntos centrales con algo mas alejado y una pausa de verdad para comer. En cualquier caso, termina el dia con una idea mucho mas clara de la ciudad de la que le daria un mapa por si solo.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se indique, propinas"
+  ]
+ },
+ "sapporo-seafood-food-tour": {
+  "title": "Paseo por el casco antiguo de Sapporo con almuerzo de marisco en el mercado Nijo",
+  "metaTitle": "Casco antiguo de Sapporo y almuerzo en Nijo",
+  "metaDescription": "Paseo guiado por el casco antiguo de Sapporo y el barrio de Sosei East, con un almuerzo de marisco fresco en el mercado Nijo.",
+  "shortDescription": "Un paseo guiado por los hitos fundacionales del centro de Sapporo y el barrio de Sosei East, que termina con un almuerzo de marisco fresco de Hokkaido en el mercado Nijo.",
+  "fullDescription": "Este paseo guiado de dos horas y media combina la historia de como surgio Sapporo con los sabores que hicieron famosa a Hokkaido. Empieza en la torre del reloj de Sapporo, el edificio de madera que ha sobrevivido a todo lo que lo rodea y que sigue marcando la hora en medio de una ciudad moderna, donde su guia expone la primera historia del asentamiento. Un breve paseo lo lleva a la torre de TV de Sapporo, en el extremo este de Odori, donde tiene tiempo para disfrutar de las vistas a lo largo del parque y escuchar como se trazo la cuadricula de la ciudad moderna bajo usted. Desde alli la ruta entra en el barrio de Sosei East, el distrito donde los primeros origenes de Sapporo todavia son legibles en la trama de las calles y en los edificios mas antiguos, y su guia explica que habia aqui antes de que la ciudad creciera alrededor. El paseo termina en el mercado Nijo, la hilera cubierta de pescaderias y pequenos restaurantes que ha alimentado a la ciudad durante generaciones. Aqui se sienta a un almuerzo fresco y generoso proveniente de las aguas de Hokkaido, con su guia disponible para explicar que esta de temporada, que es local y que merece la pena volver a probar por su cuenta. Es una ruta facil, llana y completamente transitable a pie por el centro de la ciudad, y funciona igual de bien como primera orientacion en su primera manana o como forma de completar el contexto despues de haber echado ya un vistazo.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se indique, propinas"
+  ]
+ },
+ "sapporo-shakotan-full-day-tour": {
+  "title": "Azul de Shakotan, whisky Nikka y Otaru: escapada de un dia por la costa de Hokkaido",
+  "metaTitle": "Azul de Shakotan y whisky Nikka",
+  "metaDescription": "Escapada costera de un dia desde Sapporo: destileria Nikka Whisky de Yoichi, el azul de Shakotan en el cabo Kamui y vistas desde el monte Tengu.",
+  "shortDescription": "Una escapada costera de un dia completo desde Sapporo con la destileria Nikka Whisky de Yoichi, el azul de Shakotan en el cabo Kamui, recoleccion de fruta de temporada y las vistas desde el monte Tengu.",
+  "fullDescription": "La costa al oeste de Sapporo tiene el mejor paisaje al alcance de un dia desde la ciudad, y esta excursion de diez horas la recorre poco a poco. La primera parada es la destileria Nikka Whisky de Yoichi, donde tiene tres cuartos de hora para explorar a su propio ritmo entre los edificios de piedra y los hornos del lugar que dio inicio al whisky japones. Desde Yoichi la carretera sube a la peninsula de Shakotan y llega hasta el cabo Kamui, donde un sendero recorre un estrecho promontorio hasta un punto con aproximadamente trescientos grados de mar abierto a su alrededor. El agua de abajo es la razon de esta visita: el azul de Shakotan es un color realmente inusual, y una hora y media aqui le da tiempo para recorrer bien el cabo en lugar de verlo de reojo desde el aparcamiento. El almuerzo sigue de vuelta en Yoichi, y la tarde incluye la recoleccion de fruta de temporada, por lo que es conocido este fertil tramo de costa aparte del whisky. La ultima parada es el monte Tengu sobre Otaru, donde poco mas de una hora le ofrece la vista panoramica sobre el puerto y la bahia, especialmente bonita cuando cae la luz. Se ofrecen dos puntos de salida y dos puntos de llegada para que pueda unirse y dejar la excursion donde le convenga. El trayecto se hace en autocar con tiempo libre en cada parada, lo que mantiene el dia relajado en lugar de rigido.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se indique, propinas"
+  ]
+ },
+ "sapporo-shakotan-group-tour": {
+  "title": "Otaru y la costa de Shakotan: dia estacional en grupo reducido desde Sapporo",
+  "metaTitle": "Otaru y la costa de Shakotan en grupo reducido",
+  "metaDescription": "Excursion estacional de diez horas en grupo reducido desde Sapporo: Zenibako y monte Tengu en invierno, o cabo Kamui, Shakotan y Otaru en verano.",
+  "shortDescription": "Una excursion estacional de diez horas en grupo reducido desde Sapporo con Zenibako, la zona del acuario de Otaru y el monte Tengu en invierno, o el cabo Kamui, Shakotan y Otaru en los meses mas calidos.",
+  "fullDescription": "Esta excursion en grupo reducido cambia de ruta segun el calendario, que es la forma sensata de llevar un tour por una costa que parece dos lugares distintos segun el mes. En invierno el dia se desarrolla cerca de Otaru: Zenibako en el camino de salida junto al litoral, la zona alrededor del acuario de Otaru, y el monte Tengu elevandose detras de la ciudad para la amplia vista sobre el puerto cuando toda la bahia esta bajo la nieve. En verano y otono la excursion avanza mucho mas al oeste hacia la peninsula de Shakotan, con el cabo Kamui y el litoral de Shakotan antes de terminar en la propia Otaru, momento en que el mar aqui adquiere el azul profundo por el que la region es conocida. En cualquier caso el grupo se mantiene reducido, entre seis y nueve participantes, y ese es el sentido de la excursion. Un grupo de ese tamano sube rapido, se mueve junto y puede ser flexible sobre cuanto tiempo quedarse en algun lugar cuando la luz es buena o el clima cambia. Tambien hay comodidad en ello, con mas espacio en el vehiculo del que permite un autocar completo en un dia de diez horas. Ambas versiones de la ruta cubren terreno realmente dificil sin coche, ya que las carreteras costeras al oeste de Otaru estan mal atendidas por el transporte publico, y el diseno estacional significa que obtiene la version de esta costa que realmente merece la pena ver en el momento en que visita.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se indique, propinas"
+  ]
+ },
+ "sapporo-shikotsu-group-tour": {
+  "title": "Lago Shikotsu y Jozankei: escapada de primavera y verano en grupo reducido",
+  "metaTitle": "Lago Shikotsu y Jozankei en grupo reducido",
+  "metaDescription": "Escapada de primavera y verano en grupo reducido desde Sapporo al lago Shikotsu y Jozankei, con kayak, crucero, rafting, senderismo u onsen de dia a elegir.",
+  "shortDescription": "Una escapada de primavera y verano en grupo reducido desde Sapporo al lago Shikotsu y Jozankei, con kayak, crucero, rafting, senderismo u onsen de dia a elegir.",
+  "fullDescription": "Este es el contrapunto de clima calido a los famosos inviernos de Hokkaido, un dia de nueve horas y media que lleva a un grupo reducido fuera de Sapporo hasta el lago Shikotsu y el valle termal de Jozankei. El lago Shikotsu, uno de los lagos mas claros de Japon, es la primera parada del dia, con un par de horas para disfrutarlo. Que haga con ese tiempo depende de usted: salir al agua en kayak, tomar el crucero, o simplemente caminar por la orilla y dejar que el dia se ralentice. El grupo esta limitado a un maximo de nueve personas, lo que mantiene todo flexible de una manera que un tour en autocar no puede ofrecer. Desde el lago, el vehiculo continua hasta Jozankei, una ciudad termal enclavada en un valle fluvial dentro de los propios limites de la ciudad de Sapporo, donde las opciones se abren de nuevo. Puede hacer rafting en el rio, hacer una caminata por el bosque circundante, o usar uno de los onsen de dia y relajarse una hora o dos antes de volver. El tiempo libre es deliberadamente generoso en todo momento, asi que el dia se construye alrededor de decisiones en lugar de una sucesion fija de paradas. El traslado de ida y vuelta desde la estacion de Sapporo esta incluido, lo que importa aqui porque ambos destinos son dificiles de alcanzar y combinar usando el transporte publico. El resultado es un dia que le muestra el lado verde y acuatico de Hokkaido que la reputacion invernal tiende a ocultar, sin la rigidez de un gran tour organizado.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se indique, propinas"
+  ]
+ },
+ "sapporo-shopping-tour": {
+  "title": "Presa de Hoheikyo y Jozankei: colores de otono, buffet y compras en el outlet",
+  "metaTitle": "Presa de Hoheikyo y Jozankei en otono",
+  "metaDescription": "Tour clasico de un dia desde Sapporo con los colores de otono en la presa de Hoheikyo, un buffet, Takino Park y compras en Mitsui Outlet.",
+  "shortDescription": "Un tour clasico de un dia completo desde Sapporo con los colores de otono de la presa de Hoheikyo y Jozankei Onsen, un almuerzo buffet, un paseo por Takino Park y compras en Mitsui Outlet.",
+  "fullDescription": "El otono es la temporada que los propios habitantes de Hokkaido esperan con ganas, y este tour de un dia completo lo pone en medio de ella sin salir de los limites de la ciudad de Sapporo durante la mayor parte del dia. La primera y mas larga parada es la presa de Hoheikyo, en lo profundo del valle al sur de la ciudad, donde el embalse se encuentra bajo laderas boscosas empinadas que adquieren todos los tonos de rojo y naranja en la segunda mitad de la temporada. Una hora y media aqui le da tiempo para caminar, hacer fotografias y escuchar a su guia en lugar de simplemente detenerse para una foto. Desde la presa, la ruta se dirige a Jozankei, la ciudad termal del mismo valle fluvial, donde el almuerzo es un buffet de comida regional en un spa resort, una verdadera pausa sentada en medio de una larga jornada. La tarde continua en Takino Suzuran Hillside Park, un gran parque ajardinado donde ochenta minutos de tiempo libre bastan para un paseo de verdad entre los arboles y las vistas pintorescas en el camino. El dia se cierra con una parada en Mitsui Outlet, donde los residentes de Sapporo hacen sus compras y una ultima parada util si quiere adquirir algo antes de volver a casa. El tour empieza y termina en la estacion de Sapporo, y todo el recorrido esta disenado como un circuito clasico del mejor paisaje otonal de la ciudad, con la conduccion y los tiempos resueltos para usted.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario, almuerzo buffet"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se indique, propinas"
+  ]
+ },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
   "title": "Recoleccion de fruta en Yoichi, la destileria Nikka y la costa de Shakotan",
   "metaTitle": "Recoleccion de fruta, destileria Nikka y costa de Shakotan",
