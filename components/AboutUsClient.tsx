@@ -6,9 +6,42 @@ import Image from 'next/image';
 import { Globe, Heart, Users, Code, Award, ShieldCheck, XCircle, CheckCircle } from 'lucide-react';
 import StaticPageHeader from './StaticPageHeader';
 
+const ABOUT_FAQS = [
+    {
+        q: 'Does AsiaByLocals reply to questions before I book?',
+        a: 'Yes. A real person answers every question on WhatsApp (+91 84495 38716) or email (info@asiabylocals.com) before you pay anything — no chatbot, no automated ticket queue. You can ask about a specific date, group size, pickup point, or any custom request, and get a direct answer from our team before committing to a booking.',
+    },
+    {
+        q: 'Is AsiaByLocals legit?',
+        a: 'Yes. AsiaByLocals is operated by TajTourGuide, founded by Mohd Shahnawaz Khan, a Senior Tour Guide officially licensed by the Ministry of Tourism, Government of India, with 18+ years of experience. We are an active member of GTTAA (Global Tourism Travel Agents Association of India) and ETAA, registered under GSTIN 09BPLPK5079QIZU, with offices in Agra, India and Dubai, UAE.',
+    },
+    {
+        q: 'What happens if I message before booking and never hear back?',
+        a: 'That should not happen — but if it does, treat it as a red flag for any tour operator, including us. We reply to pre-booking questions the same day, usually within a few hours, because a guide who goes quiet before you have paid is far more likely to go quiet after.',
+    },
+    {
+        q: 'Can I ask a question on WhatsApp before I pay?',
+        a: 'Yes, that is the preferred way to reach us. Message +91 84495 38716 on WhatsApp with your date, city, and question, and a human team member will confirm availability, suggest alternatives if needed, and answer any specific requests before you book.',
+    },
+];
+
+const aboutFaqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: ABOUT_FAQS.map((f) => ({
+        '@type': 'Question',
+        name: f.q,
+        acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+};
+
 export default function AboutUsClient() {
     return (
         <div className="min-h-screen bg-white">
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(aboutFaqSchema) }}
+            />
             <StaticPageHeader />
             <div className="max-w-3xl mx-auto px-6 py-16">
                 <div className="text-center mb-16">
@@ -156,6 +189,18 @@ export default function AboutUsClient() {
                         <div className="flex items-start gap-4"><Award className="text-[#10B981] flex-shrink-0 mt-1" size={20} /><div><h3 className="font-black text-[#001A33] mb-1">Government Approved Guides</h3><p className="text-gray-700 font-semibold text-sm">All guides licensed by respective tourism ministries across Asia.</p></div></div>
                         <div className="flex items-start gap-4"><Heart className="text-[#10B981] flex-shrink-0 mt-1" size={20} /><div><h3 className="font-black text-[#001A33] mb-1">Premium Private Tours</h3><p className="text-gray-700 font-semibold text-sm">Culturally immersive experiences with personalized attention.</p></div></div>
                         <div className="flex items-start gap-4"><Award className="text-[#10B981] flex-shrink-0 mt-1" size={20} /><div><h3 className="font-black text-[#001A33] mb-1">Trusted by Leading Hotels</h3><p className="text-gray-700 font-semibold text-sm">Patronized by 5-star hotels, embassies, and travel operators.</p></div></div>
+                    </div>
+                </section>
+
+                <section className="mb-16">
+                    <h2 className="text-2xl font-black text-[#001A33] mb-6">Questions Before You Book</h2>
+                    <div className="space-y-4">
+                        {ABOUT_FAQS.map((f) => (
+                            <div key={f.q} className="bg-gray-50 rounded-lg p-6 border border-gray-200">
+                                <h3 className="font-black text-[#001A33] mb-2">{f.q}</h3>
+                                <p className="text-gray-700 font-semibold text-sm leading-relaxed">{f.a}</p>
+                            </div>
+                        ))}
                     </div>
                 </section>
 
