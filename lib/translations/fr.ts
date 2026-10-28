@@ -60983,6 +60983,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Prise en charge et retour a l'hotel, nourriture et boissons, photos imprimees lorsqu'elles sont facturees separement"
   ]
  },
+ "tokyo-asakusa-sumo-dinner-show-geisha-hot-pot": {
+  "title": "Sumo, geisha et hot pot chanko a Asakusa : diner autour d'un vrai dohyo",
+  "metaTitle": "Sumo et geisha avec diner a Asakusa",
+  "metaDescription": "Deux heures autour d'un veritable cercle de sumo a Asakusa : danse de geisha, combat de professionnels retraites et hot pot chanko a volonte.",
+  "shortDescription": "Deux heures autour d'un veritable cercle de sumo a Asakusa : danse de geisha, combat de professionnels retraites et hot pot chanko a volonte.",
+  "fullDescription": "C'est la visite a reserver si vous voulez du sumo et un diner dans les memes deux heures, et elle est construite autour de quelque chose que la plupart des lieux n'ont pas : un vrai dohyo, le cercle en argile et paille de riz, installe au milieu de la salle avec les tables disposees autour. Vous mangez au bord du cercle plutot que de regarder depuis une galerie.\n\nLa soiree commence calmement. Une geisha execute une danse traditionnelle en kimono complet, ce qui donne un ton tres different de ce qui suit, et vous offre une rare occasion de voir cet art de pres sans le cout ni le formalisme d'une reservation en maison de the.\n\nPuis vient le sumo. Les lutteurs sont des professionnels retraites, donc la technique est reelle meme si l'enjeu ne l'est pas : ils demontrent la routine d'entrainement du matin, passent en revue les techniques de victoire classiques, abordent l'etiquette et les superstitions du sport, et terminent par un combat en trois manches. Un animateur bilingue travaille en anglais et en japonais tout au long, ce qui rend le rituel comprehensible plutot que simplement bruyant. Les invites peuvent ensuite monter sur le cercle et affronter un lutteur, les places etant tirees au sort en cas de forte demande.\n\nLe plat est le chanko-nabe, le hot pot au poulet que les ecuries de sumo mangent par marmites entieres pour prendre et maintenir du poids. C'est a volonte, servi avec d'autres plats japonais, et une boisson est incluse avec la possibilite d'en acheter d'autres. Vous partez aussi avec une photo imprimee avec les lutteurs et un ensemble souvenir.\n\nTrois niveaux de places existent. Les places standard dans le lieu principal et dans l'annexe derriere offrent toutes deux une vue degagee ; la premiere rangee VIP vous place au bord du cercle. Le lieu se trouve a Asakusa, au sous-sol d'un immeuble pres de Matsuya, a quelques pas de Senso-ji si vous voulez voir le temple d'abord.",
+  "highlights": [],
+  "included": [
+   "Commentaire bilingue en direct en anglais et en japonais, spectacle de sumo avec des lutteurs professionnels retraites, representation traditionnelle de danse de geisha, hot pot chanko au poulet et plats japonais a volonte, une boisson offerte, participation a la loterie pour affronter un lutteur sur le cercle, photo souvenir imprimee avec les lutteurs, ensemble souvenir"
+  ],
+  "notIncluded": [
+   "Boissons supplementaires, repas, places et souvenirs pour nourrissons, transport jusqu'au lieu, prise en charge et retour a l'hotel"
+  ]
+ },
+ "tokyo-asakusa-sushi-making-class-vegan-halal-options": {
+  "title": "Cours de fabrication de sushi a Asakusa, avec menus vegan, halal et allergies",
+  "metaTitle": "Cours de sushi a Asakusa",
+  "metaDescription": "Roulez vos propres nigiri et maki a trois minutes de la gare d'Asakusa, puis mangez ce que vous avez fait, avec de veritables menus vegan et halal.",
+  "shortDescription": "Roulez vos propres nigiri et maki a trois minutes de la gare d'Asakusa, puis mangez ce que vous avez fait, avec de veritables menus vegan, vegetarien, halal, sans gluten et pour allergies.",
+  "fullDescription": "Le sushi parait simple et ne l'est pas, ce qui est toute la raison pour laquelle un cours en vaut la peine. Le riz est la partie difficile : comment il est assaisonne, a quelle temperature il doit etre quand vous le faconnez, et quelle pression votre main applique avant qu'il cesse d'etre du sushi pour devenir une masse compressee. En cent minutes, on vous apprend cela correctement, puis vous fabriquez vous-meme des nigiri et des maki roules, et enfin vous vous asseyez pour tout manger.\n\nL'instruction se fait en anglais et aucune experience n'est presumee. La plupart des personnes dans la salle n'ont jamais manipule de riz a sushi, et le personnel y est habitue ; le rythme est assez lent pour que vous ne suiviez pas simplement le mouvement, et des la deuxieme ou troisieme piece vous sentez ce que vous faites de travers.\n\nL'eventail de regimes est ce qui distingue ce cours, et il est inhabituellement authentique. En plus du menu standard, il existe des menus vegan et vegetarien vraiment separes, un menu halal, une option sans gluten, et un menu pour allergies qui exclut viande, noix, fruits et produits laitiers, pas une substitution improvisee le jour meme mais une version du cours concue pour cela. Deux conditions s'appliquent, et l'operateur est ferme sur les deux : vous devez demander le changement au moment de la reservation, et il ne peut pas repondre a des specifications d'ingredients personnalisees. Demander le jour meme, la reponse est non.\n\nLe studio est a trois minutes a pied de la gare d'Asakusa, pres de Kaminarimon, ce qui le place a une courte marche de Senso-ji et a portee de vue du Skytree. Les groupes peuvent etre grands mais les tables sont organisees en petits groupes, et l'espace est accessible en fauteuil roulant.\n\nTous les ingredients et le repas lui-meme sont inclus. Rien d'autre n'est necessaire, venez le ventre vide et partez avec une competence qui survivra au voyage.",
+  "highlights": [],
+  "included": [
+   "Instructeur anglophone, tous les ingredients pour le cours, le repas que vous preparez, menus vegan, vegetarien, halal, sans gluten et pour allergies sur demande a la reservation"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel, boissons au-dela de celles fournies, specifications d'ingredients personnalisees"
+  ]
+ },
+ "tokyo-backstreets-walking-tour": {
+  "title": "Balade des fantomes de Tokyo : yokai, esprits vengeurs et folklore urbain",
+  "metaTitle": "Balade des fantomes de Tokyo",
+  "metaDescription": "Deux heures apres la nuit tombee dans les quartiers de Tokyo au lourd passe, racontees serieusement plutot que jouees pour des sursauts de frayeur.",
+  "shortDescription": "Deux heures apres la nuit tombee dans les quartiers de Tokyo au lourd passe, racontees serieusement plutot que jouees pour des sursauts de frayeur.",
+  "fullDescription": "Edo fut, pendant une longue periode, la plus grande ville du monde, et elle a brule a repetition, inonde, et vu des executions publiques. Tokyo est construite directement sur tout cela, et les histoires de fantomes japonaises sont inhabituellement precises sur l'endroit ou les choses se sont passees, pas une vague vieille maison sur une colline, mais une rue nommee, un canal nomme, une victime nommee.\n\nCette balade vous mene a ces endroits apres la nuit tombee. Le folklore japonais ne suit pas vraiment le modele occidental de la maison hantee, il a les yurei, les morts vengeurs qui reviennent pour un grief precis, et les yokai, un vaste catalogue d'esprits aussi souvent espiegles ou absurdes qu'effrayants. Les histoires sont plus anciennes et plus etranges que les films d'horreur qui s'en sont inspires, et les cliches avec lesquels arrivent les voyageurs descendent des estampes sur bois, du kabuki et des histoires de fantomes racontees a voix haute en ete.\n\nUne partie de ce que votre guide vous raconte est de l'histoire documentee : incendies, executions, epidemies, les lieux ou ils se sont produits. Les grands incendies de l'epoque d'Edo ont redessine la ville plus d'une fois, et les quartiers que vous traversez portent la trace de ces catastrophes dans leur plan de rues. Une partie est du folklore raconte dans ces rues depuis des siecles. Le guide est clair sur ce qui releve de l'un ou de l'autre, ce qui rend les deux plus interessants.\n\nC'est une balade d'atmosphere plutot qu'une attraction a frissons, pas d'acteurs, pas de sursauts programmes. Juste des rues sombres, des lieux reels et des histoires qui ont dure. Deux heures, 2 a 3 kilometres sur terrain plat a un rythme tranquille.\n\nLe sujet traite d'execution, de feu et de mort, de maniere serieuse. Cela convient a la plupart des adultes et adolescents plus ages ; usez de votre propre jugement avec de plus jeunes enfants. Elle a lieu meme sous une pluie legere, ce qui lui convient franchement bien, apportez un parapluie.",
+  "highlights": [],
+  "included": [
+   "Guide anglophone pendant deux heures, itineraire a pied a travers les sites historiques, recits a chaque arret"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons, transferts hotel, frais d'entree eventuels, pourboires"
+  ]
+ },
+ "tokyo-gotokuji-cat-temple-and-cat-cafe-tour": {
+  "title": "Temple des chats porte-bonheur de Gotokuji, le chat 3D de Shinjuku et le plus grand maid cafe a chats du Japon",
+  "metaTitle": "Temple des chats de Gotokuji et cat cafe",
+  "metaDescription": "Deux heures et demie parmi les sites feline de Tokyo : un temple couvert de mille chats porte-bonheur et un cafe a chats avec bar a boissons gratuit.",
+  "shortDescription": "Deux heures et demie parmi les sites feline de Tokyo : un temple couvert de mille chats porte-bonheur, le panneau geant en 3D, et une demi-heure dans un cafe a chats avec bar a boissons gratuit.",
+  "fullDescription": "Le maneki-neko, le chat porte-bonheur avec une patte levee, se trouve sur le comptoir de la moitie des boutiques du Japon, et Gotokuji revendique en etre l'origine. L'histoire raconte qu'un seigneur de passage s'est abrite d'une tempete apres qu'un chat du temple lui a fait signe d'entrer, et a dote le lieu par gratitude. Que cela soit vrai ou non, les visiteurs y deposent des figurines de chats depuis tres longtemps, et les etageres en contiennent aujourd'hui bien plus d'un millier, disposees en gradins et allant de la taille d'un pouce a la hauteur d'un genou. C'est vraiment etrange a voir en vrai.\n\nLa visite commence de l'autre cote de la ville, devant le panneau geant du chat en 3D au-dessus de la sortie est de Shinjuku, un ecran courbe qui produit une illusion convaincante d'un chat tricolore de la taille d'un arret de bus s'etirant et baillant au-dessus du carrefour. C'est un incontournable d'internet depuis son installation et cela vaut les deux minutes.\n\nLe trajet en train jusqu'a Gotokuji est inclus, et le temple se trouve dans un quartier residentiel tranquille avec une rue commercante attenante, ou les boutiques a theme chat et une confiserie a theme chat sont plus charmantes que l'expression ne le suggere.\n\nEntre les deux vient une demi-heure dans le plus grand cafe a chats du Japon, avec le bar a boissons gratuit inclus. Le moment est choisi avec soin, vous arrivez pendant le petit-dejeuner des chats, qui est le moment ou ils sont les plus actifs de la journee.\n\nLe groupe est limite a huit personnes, ce qui convient aux petits espaces concernes. C'est une demi-journee facile et peu exigeante, et cela fonctionne particulierement bien avec des enfants et avec quiconque commence a trouver que sa liste de choses a voir a Tokyo ressemble a une serie de temples.",
+  "highlights": [],
+  "included": [
+   "Visite guidee des sites a theme chat de Tokyo, trajet en train de Shinjuku a Gotokuji, entree au cafe a chats pour un sejour de trente minutes, bar a boissons gratuit au cafe a chats, guide anglophone"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, nourriture et boissons supplementaires, prise en charge et retour a l'hotel, souvenirs et figurines de chats"
+  ]
+ },
+ "tokyo-harajuku-japanese-denim-jeans-workshop": {
+  "title": "Fabriquez votre propre jean en denim japonais a Harajuku",
+  "metaTitle": "Fabrication de jean en denim a Harajuku",
+  "metaDescription": "Une heure dans un atelier de Harajuku a construire un jean en denim d'Okayama selon votre silhouette, ourle a la longueur et emporte le jour meme.",
+  "shortDescription": "Une heure dans un atelier de Harajuku a construire un jean en denim d'Okayama selon votre propre silhouette, patch et rivets, ourle a la longueur et emporte le jour meme.",
+  "fullDescription": "Le denim d'Okayama est la raison pour laquelle les passionnes de jean serieux parlent du Japon. Les filatures du district de Kojima ont continue a tisser sur de vieux metiers a navette longtemps apres que le reste du monde soit passe a des machines plus rapides, et le tissu legerement irregulier et dense qu'elles produisent est aujourd'hui ce qu'achetent la plupart des marques de denim premium. Cet atelier d'une heure a Harajuku est l'occasion de manipuler ce tissu et d'en sortir habille.\n\nVous commencez par choisir une silhouette, puis la quincaillerie : un patch, six rivets et un bouton sont inclus, et vous les choisissez chacun sur un plateau plutot que d'accepter une option par defaut. Le personnel vous explique a quoi servent vraiment les pieces, pourquoi les rivets sont places la ou ils sont, de quoi un patch est traditionnellement fait, comment une ceinture est finie, si bien que l'heure se rapproche davantage d'un petit cours de construction que d'un exercice d'assemblage. L'ourlet a votre longueur est inclus, c'est le detail qui transforme cela d'un souvenir en quelque chose que vous porterez vraiment.\n\nLes tailles sont unisexes et vont par increments de deux de 24 a 44, et la disponibilite varie, donc verifiez l'e-mail de confirmation pour ce qui est en stock a votre date. Le groupe est limite a six personnes, le personnel parle anglais et japonais, et aucune experience n'est presumee ; la plupart des gens arrivent n'ayant jamais pense a la maniere dont un jean est assemble.\n\nDes ameliorations existent et sont optionnelles : denim selvedge, patchs en cuir premium, rivets supplementaires, broderie. Aucune n'est necessaire pour un bon resultat. L'atelier se trouve au quatrieme etage d'un immeuble a une minute de la sortie Omotesando de la gare JR de Harajuku, ce qui le place a une courte marche de la rue Takeshita et d'Omotesando si vous voulez en faire une matinee. C'est accessible en fauteuil roulant.",
+  "highlights": [],
+  "included": [
+   "Un jean en denim japonais, tailles unisexes 24 a 44 par increments de deux, introduction au denim premium d'Okayama, session de construction pratique avec tous les outils et materiaux, choix de la silhouette du jean, un patch, six rivets et un bouton de votre choix, ourlet a la longueur, accompagnement par du personnel anglophone et japonophone"
+  ],
+  "notIncluded": [
+   "Rivets et boutons supplementaires au-dela de ceux inclus, surclassement en denim selvedge, patchs en cuir premium, broderie, articles disponibles a l'achat"
+  ]
+ },
+ "tokyo-harajuku-traditional-japanese-music-concert": {
+  "title": "Concert de wagakki a Harajuku : koto, shamisen, shakuhachi et taiko en une heure",
+  "metaTitle": "Concert de wagakki a Harajuku",
+  "metaDescription": "Une heure assise d'instruments traditionnels japonais joues en direct et expliques en anglais, a une minute de la gare de Meiji-Jingumae.",
+  "shortDescription": "Une heure assise d'instruments traditionnels japonais joues en direct et expliques en anglais, a une minute de la gare de Meiji-Jingumae.",
+  "fullDescription": "Les instruments traditionnels japonais sont faciles a entendre au Japon et presque impossibles a entendre correctement. Ils apparaissent en fond sonore dans les temples, les restaurants et les grands magasins, affaiblis par des haut-parleurs, sans personne pour vous dire ce que vous entendez. Une heure dans une petite salle avec les musiciens a trois metres change completement la donne.\n\nLe programme couvre les principaux wagakki : le koto, une longue cithare a treize cordes jouee au sol ; le shamisen, trois cordes frappees avec un grand plectre, dont l'attaque percussive ne ressemble a aucun instrument a cordes occidental ; le shakuhachi, une flute de bambou a embouchure terminale capable d'un timbre soufflant et instable que les compositeurs ont passe des siecles a affiner ; et les tambours taiko, qui n'ont besoin d'aucune presentation une fois qu'ils commencent.\n\nCe qui eleve cela au-dessus d'un recital, c'est que chaque morceau est presente. Le spectacle se deroule en anglais et en japonais, et les musiciens expliquent d'ou vient un morceau et a quoi il servait a l'origine, si bien qu'une ancienne piece de cour et une composition moderne restent dans leur contexte plutot que de se confondre. Le programme comprend aussi une reprise d'un succes occidental, ce qui ressemble a un gadget mais est en fait la partie la plus instructive de l'heure, entendre quelque chose que vous connaissez joue sur ces instruments rend leur caractere evident d'une maniere que rien d'autre ne fait.\n\nLes musiciens se produisent en kimono et la photographie et la video sont bienvenues tout au long, avec des photos avec les artistes a la fin.\n\nLe lieu est la Hall 60 a Jingumae, a une minute de la sortie 7 de la gare de Meiji-Jingumae, a cinq minutes de la sortie Omotesando de Harajuku, ce qui l'integre facilement a un apres-midi autour de la rue Takeshita ou de Meiji Jingu. Les places sont reservees, la salle est accessible en fauteuil roulant, et le tout dure une heure.",
+  "highlights": [],
+  "included": [
+   "Billet d'entree au lieu, place reservee, programme de concert d'une heure avec commentaire en anglais, photos avec les musiciens apres le spectacle"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel, nourriture et boissons, produits derives"
+  ]
+ },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
   "title": "Cueillette de fruits a Yoichi, distillerie Nikka et cote de Shakotan",
   "metaTitle": "Cueillette, distillerie Nikka et cote de Shakotan",
