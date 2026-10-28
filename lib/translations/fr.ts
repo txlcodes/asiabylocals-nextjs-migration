@@ -60647,6 +60647,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Depenses personnelles, repas sauf indication contraire, pourboires"
   ]
  },
+ "sapporo-silver-jewellery-forging-workshop": {
+  "title": "Forgez vos propres bijoux en argent a Sapporo, dans un studio en mapping video",
+  "metaTitle": "Forge de bijoux en argent a Sapporo",
+  "metaDescription": "Quatre-vingt-dix minutes d'orfevrerie en tete-a-tete au centre de Sapporo, dans une salle ou les visuels projetes bougent au rythme de votre marteau.",
+  "shortDescription": "Quatre-vingt-dix minutes d'orfevrerie en tete-a-tete au centre de Sapporo, dans une salle ou les visuels projetes bougent au rythme de votre marteau.",
+  "fullDescription": "C'est une veritable seance de travail du metal habillee d'un cadre inhabituel. Le studio est en mapping video 3D, et les visuels sur les murs reagissent au son du marteau, si bien que la salle change pendant que vous travaillez. Cela ressemble a un gadget, et ca l'est, mais l'artisanat en dessous est reel : la forge, avec de l'argent 925, sous la conduite en tete-a-tete d'un artisan.\n\nForger signifie mettre en forme le metal en le travaillant plutot qu'en le moulant, ce qui produit une piece plus dense et meilleure qu'un moule. Vous partez d'argent brut que vous martelez, recuisez et finissez jusqu'a l'objet choisi. Les debutants sont la norme ici ; l'artisan travaille avec vous tout au long et le groupe est limite a quatre personnes.\n\nTrois formules sont proposees. La formule collier produit une piece finie que vous emportez le jour meme. La formule bracelet est la plus poussee, un bracelet en argent forge jusqu'a 3 mm de large en taille M, qui demande plus des quatre-vingt-dix minutes car il y a plus de metal a travailler. Et pour qui veut que la piece compte davantage, il existe une formule bague en or 18 carats, egalement le jour meme.\n\nLa gravure laser, y compris votre propre ecriture, et le traitement anti-ternissement sont proposes en supplement. Une formule de traitement de trois jours existe pour le collier, incluant gravure et traitement, si vous preferez le recuperer plus tard parfaitement fini.\n\nL'atelier se trouve a Minami 2-jo Nishi, dans le quartier de Chuo-ku, a trois minutes a pied du metro, ce qui le place au coeur du quartier des restaurants et de la vie nocturne de Sapporo.",
+  "highlights": [],
+  "included": [
+   "Seance d'orfevrerie de quatre-vingt-dix minutes, argent 925 ou or 18 carats pour la piece choisie, conduite en tete-a-tete par un artisan en activite, tous les outils et le studio en mapping video, votre piece finie le jour meme selon la formule choisie"
+  ],
+  "notIncluded": [
+   "Gravure laser, traitement anti-ternissement, depenses personnelles, transport jusqu'au studio"
+  ]
+ },
+ "sapporo-snowshoe-experience": {
+  "title": "Randonnee en raquettes et bain onsen dans le parc national de Shikotsu-Toya",
+  "metaTitle": "Raquettes et onsen a Shikotsu-Toya",
+  "metaDescription": "Randonnee guidee de six heures en raquettes dans le parc national de Shikotsu-Toya pres de Sapporo, dejeuner sur le sentier et bain onsen pour finir.",
+  "shortDescription": "Une randonnee guidee de six heures en raquettes dans le parc national de Shikotsu-Toya pres de Sapporo, avec dejeuner sur le sentier et un bain onsen pour finir.",
+  "fullDescription": "Hokkaido recoit d'enormes quantites de neige, et les raquettes sont la reponse traditionnelle a la question de savoir comment s'y deplacer. Lors de cette sortie guidee de six heures, vous apprenez exactement cela, en partant de Makomanai en bordure sud de Sapporo et en roulant une demi-heure jusque dans le parc national de Shikotsu-Toya. Apres un briefing de securite, votre guide vous equipe et vous enseigne la technique, qui ne demande que tres peu de temps a maitriser et ouvre immediatement un terrain qu'il serait impossible de traverser a pied normalement. La randonnee elle-meme dure environ quatre heures et demie dans la foret hivernale, et son attrait tient au calme : loin de la route, il n'y a pratiquement aucun bruit, les arbres portent une charge de neige, et les traces d'animaux sont souvent le seul signe que quelqu'un ou quelque chose est passe. Le dejeuner se prend sur le sentier, ce qui fait partie du plaisir d'une journee d'hiver comme celle-ci. Votre guide fixe le rythme et lit les conditions, et aucune experience prealable en raquettes n'est necessaire, seulement une condition physique raisonnable et l'envie d'etre a l'exterieur dans le froid. La journee se termine comme doit se terminer une journee d'hiver japonaise, avec une visite dans l'un des nombreux onsen du secteur, pour passer directement de la neige a l'eau chaude. Le transport en van depuis Sapporo et retour fait partie du voyage, donc tout ce que vous avez a faire est de vous habiller pour le temps et de vous presenter.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme, randonnee en raquettes, dejeuner et visite onsen"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "sapporo-vehicle-boat-tour": {
+  "title": "Otaru a votre propre rythme : journee privee guidee avec vehicule et chauffeur",
+  "metaTitle": "Otaru en prive avec vehicule et chauffeur",
+  "metaDescription": "Dix heures a Otaru avec un vehicule prive et un guide-chauffeur anglophone, pour votre groupe seul, sur un itineraire modifiable au fil de la journee.",
+  "shortDescription": "Dix heures a Otaru avec un vehicule prive et un guide-chauffeur anglophone, pour votre groupe seul et sur un itineraire que vous pouvez modifier au fil de la journee.",
+  "fullDescription": "Otaru est l'excursion d'une journee la plus evidente depuis Sapporo, et aussi celle le plus souvent mal faite, reduite a un arret de groupe de deux heures qui vous offre une photo du canal et bien peu d'autre. Cette visite privee prend l'approche inverse : dix heures pleines, un vehicule pour votre groupe seul, et un guide-chauffeur anglophone qui explique a la fois la ville et conduit. Avoir la langue reglee compte ici plus que les gens ne l'imaginent. L'interet d'Otaru reside dans les details, dans les raisons pour lesquelles un petit port de la mer du Japon s'est retrouve avec de grandes banques en pierre et un canal borde d'entrepots, et rien de tout cela n'est lisible a partir de simples panneaux. Un guide qui parle anglais peut vous raconter l'histoire en marchant. La flexibilite compte tout autant. L'itineraire est le votre et peut changer le jour meme, donc si le temps se degrade vous pouvez reorganiser autour, et si un endroit se revele etre le point fort vous pouvez simplement y rester. Dix heures sont largement suffisantes pour inclure les parties du secteur que les circuits en groupe n'atteignent jamais, et pour integrer un vrai repas plutot qu'un repas presse. Avec votre propre vehicule, vous n'attendez jamais de transport, vos manteaux et sacs restent dans la voiture, et les distances entre la ville et les points de vue environnants cessent d'avoir de l'importance. Pour les familles, les petits groupes et quiconque n'aime pas etre mene en troupeau, c'est une bien meilleure facon de voir cet endroit.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "sapporo-vehicle-private-tour": {
+  "title": "Noboribetsu et le lac Toya : journee privee guidee avec votre propre vehicule",
+  "metaTitle": "Noboribetsu et lac Toya en prive",
+  "metaDescription": "Dix heures a Noboribetsu et au lac Toya avec un vehicule prive et un guide-chauffeur anglophone, pour votre groupe seul, sur un itineraire modifiable le jour meme.",
+  "shortDescription": "Dix heures a Noboribetsu et au lac Toya avec un vehicule prive et un guide-chauffeur anglophone, pour votre groupe seul et sur un itineraire que vous pouvez modifier le jour meme.",
+  "fullDescription": "Noboribetsu et le lac Toya sont les deux grandes destinations volcaniques du sud de Hokkaido, et une journee privee est la seule facon de leur accorder a toutes deux le temps qu'elles meritent. Cette visite confie a votre groupe son propre vehicule et un guide-chauffeur anglophone pendant dix heures, sans personne d'autre a bord et sans autre horaire que le votre. Noboribetsu est la station thermale la plus connue du Japon, et la raison se trouve au-dessus de la ville, dans la vallee de l'enfer, un bassin volcanique brut ou la vapeur s'echappe d'un sol fissure et ou la roche est tachee de jaune par le soufre. Des passerelles vous emmenent en plein milieu, et avoir un guide signifie que vous comprenez ce que vous regardez plutot que de simplement le photographier. Le lac Toya est le contrepoint, un vaste lac de caldera a la surface calme entoure de pics volcaniques, un lieu pour ralentir apres l'intensite de la vallee. Comme tout est flexible, l'equilibre entre les deux est le votre a definir, et l'itineraire peut etre remodele en cours de journee si le temps change ou si un lieu retient votre attention. En pratique, un vehicule prive fait une enorme difference sur cet itineraire : les deux destinations sont tres eloignees, les transports en commun entre elles sont lents, et un car de groupe ne vous donnerait guere plus d'une heure a chaque endroit. Ici vous avez un trajet porte a porte depuis votre logement, un endroit chaud ou vous asseoir entre les arrets, et un guide qui peut repondre aux questions plutot que de recitez un texte.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "scmaglev-and-railway-park-heritage-tour": {
+  "title": "Visite privee du patrimoine industriel ferroviaire, aerien et portuaire de Nagoya",
+  "metaTitle": "Patrimoine ferroviaire et aerien de Nagoya",
+  "metaDescription": "Visite privee en van de huit heures a Nagoya : le parc ferroviaire SCMAGLEV, le musee de l'aviation d'Aichi et le port de Nagoya, avec un guide dedie.",
+  "shortDescription": "Une visite privee en van de huit heures du parc ferroviaire SCMAGLEV de Nagoya, du musee de l'aviation d'Aichi et du port de Nagoya, avec un guide dedie.",
+  "fullDescription": "Cette visite privee en voiture de huit heures est construite autour de l'identite moins connue de Nagoya comme pole industriel et de transport, plutot qu'autour des temples et des chateaux pour lesquels la plupart des visiteurs viennent. La prise en charge se fait en van prive depuis l'un de deux lieux a Nagoya, dont la gare de Nagoya, avec les memes options pour la depose, et toute la journee se passe avec le meme vehicule et le meme guide plutot qu'en rejoignant un bus de groupe a itineraire fixe. La piece maitresse est le parc SCMAGLEV and Railway, un musee construit par Central Japan Railway qui expose des Shinkansen historiques aux cotes de la technologie experimentale du maglev, laquelle a repousse les records de vitesse ferroviaire lors d'essais sur des voies voisines.\n\nL'itineraire comprend aussi le musee de l'aviation d'Aichi, situe pres de l'aeroport de Komaki de Nagoya, qui se concentre sur l'industrie aerospatiale de la region ; la prefecture d'Aichi abrite une production majeure de composants d'aeronefs, incluant des travaux lies aux programmes japonais d'avions regionaux, ce qui fait du musee un reflet authentique de l'industrie locale plutot qu'une presentation generique de l'aviation. De la, la visite continue vers la zone portuaire de Nagoya, l'un des ports de marchandises les plus actifs du Japon, offrant un apercu du cote transport maritime et logistique de la ville qui apparait rarement sur les circuits touristiques classiques.\n\nComme la visite est privee et se fait en voiture, le rythme exact et le temps passe a chaque arret peuvent s'adapter aux interets du groupe, ce qui convient aux voyageurs qui veulent approfondir l'histoire des transports et de l'industrie plutot que de faire une journee multi-sites superficielle. L'operateur local conduit la visite avec un guide prive pendant les huit heures completes, et comme elle depend d'un van plutot que des transports en commun, c'est une option pratique pour qui veut couvrir ces trois sites eloignes les uns des autres sans gerer soi-meme les trains et bus locaux.",
+  "highlights": [],
+  "included": [
+   "Van prive et guide-chauffeur pendant huit heures, prise en charge et depose dans l'un de deux lieux a Nagoya, transport entre tous les arrets"
+  ],
+  "notIncluded": [
+   "Billets d'entree des musees, repas et boissons, depenses personnelles, pourboires"
+  ]
+ },
+ "senso-ji-temple-guided-tour": {
+  "title": "Tokyo en une journee : Asakusa, Yanaka, le palais et Harajuku avec un local",
+  "metaTitle": "Tokyo en une journee avec un guide local",
+  "metaDescription": "Six heures entre le vieux et le nouveau Tokyo : le temple le plus ancien, un quartier d'avant-guerre, les douves du palais et Harajuku.",
+  "shortDescription": "Six heures entre le vieux et le nouveau Tokyo : le temple le plus ancien, un quartier d'avant-guerre, les douves du palais et Harajuku.",
+  "fullDescription": "Six heures suffisent pour comprendre comment Tokyo s'est construite, si l'itineraire est pense autour du contraste plutot qu'autour d'une liste de sites. Celui-ci part du tissu urbain le plus ancien de la ville pour aller vers le plus recent, avec des trajets en train entre les etapes.\n\nIl commence a Asakusa, au temple Senso-ji, debout depuis 645 et le plus ancien temple de la ville, que l'on aborde en descendant la rangee d'echoppes de Nakamise-dori. Vous entrez sous le Kaminarimon et son enorme lanterne rouge, en passant devant le brasero d'encens ou les gens font passer la fumee sur eux. Arriver le matin compte ici : vers midi, l'approche est bondee epaule contre epaule.\n\nPuis Yanaka, le morceau que la plupart des excursions a la journee sautent : l'un des rares quartiers a avoir survecu a la fois au grand tremblement de terre du Kanto de 1923 et aux bombardements incendiaires de 1945, si bien que ses maisons en bois, ses murs de temple et sa rue commercante sont vraiment anciens plutot que reconstruits. Presque tout le reste de Tokyo a ete rase puis reconstruit au moins deux fois.\n\nLe domaine du palais imperial occupe le site du chateau d'Edo, autrefois la plus grande forteresse du monde ; les douves et les murs en pierre sont ce qu'il en reste, et ils se trouvent exactement au centre de la ville. Vient ensuite le sanctuaire Meiji, a l'interieur d'une foret d'environ 100 000 arbres offerts de tout le Japon et plantes a la main dans les annees 1920, concue pour avoir cet aspect un siecle plus tard, et fraiche meme en aout.\n\nHarajuku cloture la journee, a cinq minutes a pied et cent ans de distance du portail du sanctuaire, ou la foule adolescente de Takeshita-dori court parallelement aux boutiques phares des grands couturiers d'Omotesando. Cette distance est exactement ce que tout l'itineraire cherche a montrer.\n\nCela convient aux marcheurs, sept a neuf kilometres au fil de la journee, moins a quiconque a besoin de s'asseoir souvent, bien que l'itineraire soit reconstruit autour des limites de mobilite si vous le signalez a la reservation.",
+  "highlights": [],
+  "included": [
+   "Guide local anglophone pendant six heures, aide a la planification de l'itineraire et a la navigation, frais de transport du guide, recommandations locales pour le reste de votre sejour"
+  ],
+  "notIncluded": [
+   "Vos propres frais de train et de metro (environ 800 a 1500 yens), nourriture et boissons, frais d'entree eventuels, pourboires"
+  ]
+ },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
   "title": "Cueillette de fruits a Yoichi, distillerie Nikka et cote de Shakotan",
   "metaTitle": "Cueillette, distillerie Nikka et cote de Shakotan",
