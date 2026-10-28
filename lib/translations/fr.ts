@@ -60105,6 +60105,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Depenses personnelles, repas sauf indication contraire, pourboires"
   ]
  },
+ "osaka-walking-tour": {
+  "title": "Osaka : visite guidee a pied des sites principaux et lieux caches",
+  "metaTitle": "Osaka : sites principaux et lieux caches",
+  "metaDescription": "Decouvrez les meilleurs sites et les tresors caches d'Osaka lors de cette visite guidee a pied, avec option privee.",
+  "shortDescription": "Decouvrez les meilleurs sites d'Osaka et les tresors caches locaux lors de cette visite guidee a pied. Voyez le chateau d'Osaka et les quartiers de Namba, Dotonbori et Tsuruhashi - ou personnalisez la visite avec une option privee.",
+  "fullDescription": "Osaka est vraiment deux villes : la version carte postale autour du chateau et de Dotonbori, et la ville du quotidien faite de galeries de marche et de ruelles de quartier ou les habitants mangent et font leurs courses. Cette visite guidee a pied de quatre heures est concue pour vous montrer les deux en une seule boucle. Vous commencez au chateau d'Osaka, ou votre guide vous fait traverser le parc et les fortifications et explique comment la forteresse de Hideyoshi a facconne la ville marchande qui s'est developpee autour d'elle. De la, l'itineraire change de rythme vers Tsuruhashi, abritant l'un des quartiers de marche coreen les plus animes du Japon, un labyrinthe de ruelles etroites que la plupart des visiteurs ne trouvent jamais seuls. Vous passez ensuite devant Abeno Harukas, le celebre gratte-ciel du Japon au sud de la ville, avant de plonger dans Shinsekai, le quartier de divertissement magnifiquement retro construit au debut des annees 1900, dont les rues restent animees de boutiques de kushikatsu et d'enseignes lumineuses sous la tour Tsutenkaku. La marche se termine ou Osaka est la plus bruyante : Namba et Dotonbori, avec l'enseigne de l'homme Glico, les neons au bord du canal, et les stands de nourriture qui ont donne a la ville sa reputation de 'kuidaore' (manger jusqu'a s'ecrouler). En chemin, le guide remplit les vides entre les sites avec les histoires, conseils d'etiquette, et recommandations culinaires qui transforment une liste de cases a cocher en une veritable comprehension de la ville. Une option privee vous permet de personnaliser l'itineraire s'il y a un quartier dans lequel vous voulez particulierement vous attarder. Portez des chaussures confortables - c'est une veritable visite a pied, et la recompense est de voir comment les sites celebres d'Osaka et ses coins caches se relient a pied.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "osaka-walking-walking-tour": {
+  "title": "Le meilleur d'Osaka a pied",
+  "metaTitle": "Le meilleur d'Osaka a pied",
+  "metaDescription": "Une visite guidee de 5 heures au chateau d'Osaka du 16e siecle, le quartier retro de Shinsekai, et Namba et Dotonbori.",
+  "shortDescription": "Une visite guidee d'une journee de 5 heures au chateau d'Osaka du 16e siecle, le quartier retro de Shinsekai, et l'enseigne de l'homme Glico et le temple Hozenji a Namba et Dotonbori.",
+  "fullDescription": "Cinq heures a pied avec un guide est la facon honnete d'apprendre a connaitre Osaka, et cette visite Le meilleur d'Osaka a pied enchaine les trois experiences essentielles de la ville en une seule journee bien rythmee : le chateau d'Osaka du seizieme siecle, le quartier retro de Shinsekai, et le quartier de divertissement de Namba et Dotonbori avec son enseigne de l'homme Glico et le temple Hozenji cache. La journee s'ouvre au chateau d'Osaka, la forteresse que Toyotomi Hideyoshi a elevee au seizieme siecle comme siege de son pouvoir. Marcher dans les jardins avec un guide transforme les immenses murs de pierre et les fosses en une histoire - unification, siege, destruction, et reconstruction - plutot qu'un simple decor photogenique. De la, la visite se dirige vers Shinsekai, le quartier du 'Nouveau Monde' construit au debut des annees 1900 et magnifiquement fige quelque part au milieu du siecle dernier au Japon : la tour Tsutenkaku au-dessus, les boutiques de kushikatsu et les enseignes retro au niveau de la rue, et une atmosphere qu'aucun autre quartier d'Osaka n'egale. L'acte final est Namba et Dotonbori, ou la ville monte le volume - le canal, les foules, et la celebre enseigne de l'homme courant Glico qui est l'embleme non officiel d'Osaka depuis des decennies. Puis, a quelques pas de l'artere principale, la visite trouve le temple Hozenji, le minuscule sanctuaire couvert de mousse ou les habitants aspergent d'eau la statue de Fudo Myoo, une poche de calme que les foules depassent en hate. Ce contraste - chateau vers quartier retro vers neon vers temple cache - est le vrai sujet de la visite : les siecles d'Osaka superposes les uns sur les autres, parcourables en un apres-midi. Cinq heures maintiennent un rythme detendu, avec le temps pour des photos, des questions, et des arrets gourmands en chemin, et un guide tout au long pour relier le tout. Les details du rendez-vous sont confirmes avec l'operateur au moment de la reservation ; des chaussures confortables sont la seule exigence.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "rainbow-bridge-evening-tour": {
+  "title": "Tokyo de nuit : visite privee en voiture avec prise en charge a l'hotel",
+  "metaTitle": "Tokyo de nuit en voiture privee",
+  "metaDescription": "Quatre heures de Tokyo illumine depuis une voiture privee, itineraire modifiable, prise en charge et retour a votre porte.",
+  "shortDescription": "Quatre heures de Tokyo illumine depuis une voiture privee, itineraire a modifier a volonte, prise en charge et retour a votre porte.",
+  "fullDescription": "Tokyo est une ville differente apres la tombee de la nuit et frustrante a photographier a pied, car les meilleures vues sont tres eloignees les unes des autres et les trains s'arretent avant que la nuit ne s'installe vraiment.\n\nUne voiture privee resout la geographie. Le Rainbow Bridge est illumine sur toute sa longueur et traverse vers Odaiba avec la skyline empilee derriere lui - une vue que vous ne pouvez tout simplement pas obtenir depuis une gare, et le pont porte une autoroute, une route de surface et la ligne sans conducteur Yurikamome sur ses deux etages. La tour de Tokyo, 333 metres de treillis orange construits en 1958 et deliberement neuf metres plus haute que la tour Eiffel qu'elle a copiee, est illuminee chaque nuit et se lit mieux depuis les rues autour de Shiba que directement en dessous. Les facades phares de Ginza fonctionnent a la lumiere apres la fermeture, et le carrefour de Shibuya est plus anime a 21h00 qu'a midi.\n\nL'itineraire est le votre a faconner. Vous voulez plus de temps a un point de vue, un arret pour manger, un detour vers un endroit dont vous avez vu une photo - dites-le et le chauffeur s'adapte. Rien n'est fixe sauf les quatre heures.\n\nLa prise en charge couvre les hotels de Tokyo et Yokohama, ce qui rend cela possible si vous logez pres du port ou descendez d'un navire. Les adresses eloignees empietent sur les quatre heures, donc confirmez la votre a la reservation.\n\nComme c'est un trajet en voiture avec des arrets photo plutot qu'une marche, cela fonctionne bien sous la pluie, par le froid de fevrier et l'humidite d'aout, et cela convient a la mobilite reduite, aux enfants fatigues, ou a quiconque vient d'atterrir cet apres-midi-la. L'entree a l'observatoire n'est pas incluse si vous voulez monter dans la tour.",
+  "highlights": [],
+  "included": [
+   "Vehicule prive avec chauffeur anglophone\nPrise en charge et depose a l'hotel a Tokyo ou Yokohama\nCarburant et tous les peages d'autoroute\nItineraire personnalisable\nArrets photo tout au long du parcours"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons\nFrais d'entree a l'observatoire\nPourboires\nDepenses personnelles"
+  ]
+ },
+ "sakura-kimono-nara-couples-photo-shoot": {
+  "title": "Location de kimono pour couples a Nara avec seance photo d'une heure",
+  "metaTitle": "Location de kimono pour couples a Nara",
+  "metaDescription": "Location et habillage de kimono pour deux, un homme et une femme, plus une seance photo d'une heure autour de Nara. Prix par couple.",
+  "shortDescription": "Location et habillage de kimono pour deux, un homme et une femme, plus une seance photo d'une heure autour de Nara. Le prix est par couple.",
+  "fullDescription": "Ceci est un forfait de location de kimono et de photos plutot qu'une visite guidee, et le prix affiche est pour deux personnes ensemble, un homme et une femme, pas par personne. Il est gere par Sakura Kimono Kyoto, une boutique de location fondee a Kyoto en 2017, depuis leur agence de Nara au 2F #201, 26-3 Hashimotocho dans la ville de Nara, a quelques minutes des vieilles rues de Naramachi et facilement accessible depuis le parc de Nara. Les creneaux de reservation vont de 09h30 a 16h00, et la boutique recommande le matin tot ou apres 15h00 en ete, car le milieu de journee a Nara devient vraiment chaud en kimono complet.\n\nA la boutique, vous choisissez vos vetements, avec la gamme femme allant du kimono premium jusqu'au homongi en soie, et un kimono homme pour votre partenaire. La coordination complete est incluse : ceinture obi, soit un han-haba obi soit un obi Nagoya en soie, avec un fukuro obi en soie si vous choisissez un furisode, plus un sac kimono, une sous-couche juban, des sandales zori, des chaussettes tabi et des accessoires de cheveux. Le personnel vous habille correctement, ce qui compte plus qu'il n'y parait, car un obi est presque impossible a nouer correctement soi-meme. La mise en forme des cheveux est incluse pour la femme.\n\nVous avez ensuite environ une heure de photographie instantanee autour de Nara avec un photographe de Komorebi Studio a Osaka, portant le kimono dans les rues plutot que de poser en studio. Par la suite, vous recevez toutes les donnees photo originales plus 20 images corrigees en couleur choisies par le photographe, envoyees dans le mois suivant la seance ; la retouche faciale n'est pas incluse, et les donnees sont supprimees deux semaines apres la livraison, donc telechargez-les rapidement. Le paiement a la boutique se fait uniquement en especes, et un acompte de 2 000 JPY confirme la reservation.",
+  "highlights": [],
+  "included": [
+   "Seance photo instantanee d'une heure en kimono a Nara, toutes les donnees photo originales, 20 photos corrigees en couleur selectionnees par le photographe, location de kimono femme du kimono premium au homongi en soie, location de kimono homme, mise en forme des cheveux pour la femme, han-haba obi ou obi Nagoya en soie, et coordination complete avec sac kimono, sous-couche juban, zori, chaussettes tabi et accessoires de cheveux"
+  ],
+  "notIncluded": [
+   "La retouche faciale et les modifications photo esthetiques, le transport, la nourriture et les boissons, l'entree aux parcs et temples (aucun de ceux-ci n'est indique comme inclus), et l'acompte de reservation de 2 000 JPY ; le paiement a la boutique se fait uniquement en especes"
+  ]
+ },
+ "sapporo-asahikawa-group-tour": {
+  "title": "Asahikawa, Biei et Furano : visite d'une journee en petit groupe l'hiver depuis Sapporo",
+  "metaTitle": "Asahikawa, Biei et Furano depuis Sapporo",
+  "metaDescription": "Une visite d'une journee de dix heures en petit groupe depuis Sapporo vers Asahikawa, Biei et Furano, avec trois itineraires au choix.",
+  "shortDescription": "Une visite d'une journee detendue de dix heures en petit groupe l'hiver depuis Sapporo vers Asahikawa, Biei et Furano, avec trois itineraires soigneusement selectionnes au choix.",
+  "fullDescription": "Le centre de Hokkaido en hiver est le paysage qui met cette ile sur les cartes postales, et cette visite d'une journee en petit groupe vous y emmene sans l'effort de conduire vous-meme sur la neige. Le groupe est limite a neuf personnes dans un vehicule confortable haut de gamme, ce qui maintient la journee detendue et les arrets flexibles. Trois itineraires soigneusement selectionnes sont proposes pour que la visite puisse convenir a differentes preferences de voyage plutot que de forcer tout le monde sur le meme parcours. Le trajet vers le nord dure environ deux heures et demie et vous amene d'abord dans la region d'Asahikawa, y compris la foret d'echantillons d'especes d'arbres etrangeres, avant une heure et demie a Asahikawa meme avec du temps pour le dejeuner. De la, la journee se deplace vers la campagne de Biei, les fermes onduleuses dont les arbres isoles sont devenus celebres a part entiere, avec un arret au Christmas Tree Tree se tenant seul dans les champs blancs. La chute d'eau Shirahige suit, se deversant de la face rocheuse et encadree de neige, moment ou la version hivernale de ce paysage justifie vraiment le voyage. Le trajet de retour comprend une pause a la gare d'Iwamizawa avant que le vehicule ne continue vers Sapporo, avec deux points de depose disponibles. Le rythme est deliberement sans hate plutot qu'une course entre les arrets photo, et le petit groupe signifie moins d'attente et plus de temps reellement passe dans le paysage que vous etiez venu voir.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "sapporo-biei-furano-summer-day-trip-blue-pond": {
+  "title": "Biei et Furano en une journee : l'etang bleu, les chutes de Shirahige et Shikisai-no-Oka",
+  "metaTitle": "Biei et Furano : l'etang bleu depuis Sapporo",
+  "metaDescription": "Le pays des fleurs de Hokkaido et l'etang bleu cobalt en une journee depuis Sapporo, entree a Shikisai-no-Oka incluse et option bus a moins de soixante-cinq dollars.",
+  "shortDescription": "Le pays des fleurs de Hokkaido et l'etang bleu cobalt en une journee depuis Sapporo, avec entree a Shikisai-no-Oka incluse et une option bus a moins de soixante-cinq dollars.",
+  "fullDescription": "L'etang bleu de Biei est un veritable accident. Il a ete cree dans les annees 1980 dans le cadre d'un systeme de controle des coulees de boue apres l'eruption du mont Tokachi, et l'eau a pris cette improbable couleur cobalt parce que des mineraux s'infiltrant d'une source chaude voisine reagissent avec l'aluminium dans le ruissellement. Apple en a diffuse une photographie comme fond d'ecran Mac par defaut, c'est ainsi que la plupart des gens l'ont vu sans savoir ou il se trouve.\n\nCette journee le couvre avec le reste de ce qui rend le centre de Hokkaido different de tout autre endroit au Japon. Les chutes de Shirahige, ou l'eau emerge directement d'une paroi rocheuse plutot que de couler par-dessus, deversant la meme couleur cobalt dans les gorges en dessous. La Roller Coaster Road, une ligne droite de montees abruptes a travers les terres agricoles que vous traversez en chemin. Et Shikisai-no-Oka a Furano - des champs de fleurs en bandes plantes en rayures sur une colline, avec l'entree incluse dans votre billet.\n\nL'echelle du paysage de Hokkaido est le vrai sujet. L'ile a ete colonisee tardivement, selon un plan en grille, avec des conseils agricoles americains, et elle rappelle davantage le nord des Etats-Unis que le reste du Japon.\n\nQuatre facons de la decouvrir. Le groupe en bus est le moins cher et se retrouve a la sortie nord du terminal de bus de la gare de Sapporo a 08h00. Les options en van en petit groupe ajoutent une prise en charge a l'hotel dans un rayon de trois kilometres de la gare a 07h30. Une version du samedi uniquement ajoute un buffet avec melon de Hokkaido a volonte. Et tout le parcours peut etre mis a niveau en prive.\n\nLe chauffeur fait office de guide, et l'itineraire peut changer selon la meteo et le trafic. Notez que l'operateur demande un numero WhatsApp a la reservation pour la coordination de la prise en charge.",
+  "highlights": [],
+  "included": [
+   "Transport aller-retour depuis Sapporo\nCarburant et frais de peage\nChauffeur-guide\nEntree a Shikisai-no-Oka\nBuffet et melon de Hokkaido (options du samedi uniquement)\nPrise en charge a l'hotel dans un rayon de 3 km de la gare de Sapporo (options van en petit groupe)"
+  ],
+  "notIncluded": [
+   "Frais d'entree aux attractions optionnelles\nDepenses personnelles et souvenirs\nUn guide separe en plus du chauffeur-guide\nCollations et boissons supplementaires"
+  ]
+ },
  "kyoto-kid-friendly-ninja-class-museum": {
   "title": "Cours de ninja pour familles a Kyoto : sarbacanes, etoiles et discretion",
   "metaTitle": "Cours de ninja pour familles a Kyoto",
