@@ -61438,6 +61438,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "tokyo-toyosu-tuna-auction-tsukiji-market-tour": {
+  "title": "La criee au thon de Toyosu a l'aube, puis le marche exterieur de Tsukiji",
+  "metaTitle": "Criee au thon de Toyosu et Tsukiji",
+  "metaDescription": "Un depart a 5h du matin au plus grand marche aux poissons du monde : la criee au thon, un petit-dejeuner de fruits de mer, puis le vieux Tsukiji.",
+  "shortDescription": "Un depart a 5h du matin au plus grand marche aux poissons du monde : la criee au thon avec interpretation en direct des signes, un petit-dejeuner de fruits de mer, puis le vieux Tsukiji.",
+  "fullDescription": "La criee au thon est la raison de regler un reveil a quatre heures du matin. Toyosu traite plus de produits de la mer que n'importe quel marche sur terre, et la criee est le moment ou les poissons les plus precieux de la journee, des thons rouges pouvant atteindre des centaines de kilos, changent de mains en quelques minutes d'encheres menees presque entierement en signes de la main.\n\nVous regardez depuis la terrasse d'observation publique du deuxieme etage, le seul endroit ou les visiteurs sont autorises. Ce qui transforme cela d'une curiosite en quelque chose qui merite l'heure, c'est le guide audio personnel : votre guide lit les signes en temps reel et vous explique ce qui se passe au moment ou cela se produit, qui enchere, ce que vaut le poisson, pourquoi une carcasse attire une melee et la suivante non. Sans cela, ce n'est qu'une salle d'hommes qui se font signe.\n\nLe petit-dejeuner suit dans le marche lui-meme, aux comptoirs qui servent les marchands. C'est le poisson le plus frais de Tokyo de loin et il se mange a sept heures du matin, ce qui demande un temps d'adaptation. Ramen de fruits de mer, sushi, ce qui est arrive pendant la nuit.\n\nPuis Tsukiji. Quand l'activite de gros s'est deplacee vers Toyosu en 2018, le marche exterieur est reste exactement a sa place, et c'est aujourd'hui le meilleur endroit pour flaner, boutiques de couteaux, stands de tamagoyaki, produits secs, et les petits restaurants qui ne sont jamais partis.\n\nSoyez realiste sur les horaires. Vous devez etre au Lawson du marche de Toyosu a 5h00 pile, donc arrivez vers 4h45, et la visite se termine a 8h30. La prise en charge a l'hotel entre 4h20 et 5h00 est disponible en supplement payant. Les groupes sont limites a douze personnes. Le transport entre les deux marches est inclus.",
+  "highlights": [],
+  "included": [
+   "Visite guidee professionnelle du marche de Toyosu et de la criee au thon, guide audio personnel avec interpretation en direct des signes de la criee, transport entre Toyosu et Tsukiji, visite guidee a pied du marche exterieur de Tsukiji"
+  ],
+  "notIncluded": [
+   "Petit-dejeuner (sur l'option sans repas), prise en charge a l'hotel disponible en supplement payant, service de retour, pourboires (optionnels), assurance voyage"
+  ]
+ },
+ "tokyo-yakatabune-houseboat-cruise-sukiyaki-shamisen": {
+  "title": "Bateau-maison yakatabune sur la baie de Tokyo : sukiyaki, shamisen et le Rainbow Bridge",
+  "metaTitle": "Yakatabune sur la baie de Tokyo",
+  "metaDescription": "Quatre-vingt-dix minutes sur un bateau-maison traditionnel : diner de sukiyaki au boeuf, shamisen en direct, et le Rainbow Bridge vu de l'eau.",
+  "shortDescription": "Quatre-vingt-dix minutes sur un bateau-maison traditionnel bas sur l'eau : diner de sukiyaki au boeuf, shamisen en direct, et Odaiba et le Rainbow Bridge vus de l'eau.",
+  "fullDescription": "Le yakatabune est un bateau-maison bas en bois avec des sieges tatami et des lanternes en papier le long des avant-toits, et il transporte des gens sur les voies navigables de Tokyo depuis environ quatre cents ans. Il a commence comme une indulgence aristocratique a l'epoque d'Edo, est devenu une pratique de la classe marchande, et survit aujourd'hui comme l'une des rares experiences veritablement anciennes de Tokyo qui ne soit ni un musee ni une reconstitution.\n\nLe bateau part du quai d'Etchujima dans l'arrondissement de Koto et descend la baie de Tokyo en direction d'Odaiba. Vous vous asseyez a de basses tables pendant que le diner est servi : un sukiyaki au boeuf cuit a table, exactement la nourriture qu'il faut pour ce cadre, chaude, conviviale et lente. Les boissons non alcoolisees sont illimitees, et une formule d'ete remplace cela par des boissons alcoolisees a volonte si vous preferez.\n\nA mi-chemin, un musicien joue du shamisen en direct dans la cabine. L'instrument a trois cordes resonne dans un petit espace en bois d'une maniere qu'il ne fait jamais a travers des haut-parleurs, et c'est le moment que la plupart des gens retiennent par la suite.\n\nL'itineraire passe sous le Rainbow Bridge et le long du front de mer d'Odaiba, le meilleur angle sur cette partie de la ville, les tours d'un cote, le pont illumine au-dessus de vous, et l'eau qui attenue completement le bruit de Tokyo. Les fenetres s'ouvrent sur la plus grande partie du trajet pour les photos.\n\nDeux choses a savoir. Il n'y a pas de prise en charge a l'hotel, et Etchujima est a un court trajet en taxi ou a pied de la station Monzen-Nakacho plutot qu'un endroit ou vous passeriez par hasard, donc prevoyez du temps. Et si vous voulez aussi l'observatoire de la tour de Tokyo, prenez l'option qui le regroupe, c'est moins cher que d'acheter le billet de l'observatoire separement par la suite. Le bateau accueille jusqu'a quarante personnes et est accessible en fauteuil roulant.",
+  "highlights": [],
+  "included": [
+   "Croisiere de quatre-vingt-dix minutes sur la baie de Tokyo a bord d'un yakatabune traditionnel, diner de sukiyaki au boeuf servi a bord, boissons non alcoolisees illimitees, prestation de shamisen en direct, billet pour l'observatoire a 150 m de la tour de Tokyo (sur les options qui l'incluent)"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel, transport jusqu'au quai d'Etchujima, boissons alcoolisees (sauf si la formule a volonte est choisie)"
+  ]
+ },
+ "toyokawa-inari-shrine-shopping-tour": {
+  "title": "Sanctuaire Toyokawa Inari, dejeuner au verger et shopping a l'outlet depuis Nagoya",
+  "metaTitle": "Toyokawa Inari et outlet depuis Nagoya",
+  "metaDescription": "Excursion d'une journee depuis Nagoya au sanctuaire Toyokawa Inari, cueillette de fruits avec sukiyaki au boeuf Omi, et shopping a l'outlet.",
+  "shortDescription": "Une excursion d'une journee depuis Nagoya au sanctuaire Toyokawa Inari, cueillette de fruits avec un dejeuner sukiyaki au boeuf Omi, et shopping au centre commercial outlet.",
+  "fullDescription": "Cette excursion d'une journee depuis la gare de Nagoya combine trois experiences tres differentes en une sortie : une visite de Toyokawa Inari, une cueillette de fruits dans un verger, et du shopping dans un centre outlet. Toyokawa Inari est l'un des trois grands sanctuaires Inari du Japon, dedie a la divinite renard associee a la prosperite et aux bonnes recoltes, et son enceinte abrite plus d'un millier de statues de renard en pierre de toutes tailles, dissimulees parmi d'etroites ruelles bordees de lanternes et de petits batiments de sanctuaire. C'est un complexe bouddhiste et shinto en activite plutot qu'une piece de musee, donc la fumee d'encens, les chants et les fideles locaux vaquant a leur journee font partie de l'atmosphere.\n\nApres le sanctuaire, le groupe se dirige vers un verger pour une session de cueillette de fruits pratique, le fruit exact dependant de la saison, et s'installe pour un dejeuner sukiyaki mettant en vedette le boeuf Omi, l'une des marques de wagyu les plus reputees du Japon, servi au restaurant meme du verger. Associer un arret tranquille a la campagne a un vrai repas assis casse ce qui serait autrement une journee de sanctuaire et de shopping, et donne aux visiteurs un gout de la campagne de la prefecture d'Aichi que la plupart des itineraires bases a Nagoya evitent entierement.\n\nLe dernier arret est Mitsui Outlet Park, ou les voyageurs disposent de temps libre pour parcourir des marques japonaises et internationales a prix reduits avant que le car ne retourne a la gare de Nagoya. Operee par KKT Co., Ltd., la visite dure pres de dix heures porte a porte, avec environ deux heures et demie passees en car entre les trois arrets, ce qui convient aux voyageurs qui veulent culture, gastronomie et temps de shopping dans une seule reservation plutot que trois sorties separees. Etant basee sur un car avec des arrets fixes, elle convient mieux aux visiteurs a l'aise avec un horaire de groupe fixe plutot qu'une journee libre en autonomie.",
+  "highlights": [],
+  "included": [
+   "Transport en car depuis la gare de Nagoya, entree au sanctuaire Toyokawa Inari, activite de cueillette de fruits, dejeuner sukiyaki au boeuf Omi, temps libre a Mitsui Outlet Park"
+  ],
+  "notIncluded": [
+   "Depenses de shopping personnelles, boissons en dehors du dejeuner inclus, pourboires, prise en charge a l'hotel hors de la gare de Nagoya"
+  ]
+ },
+ "toyota-commemorative-museum-of-industry": {
+  "title": "Visite privee d'une journee complete a Nagoya : musee Toyota, chateau et sanctuaire Atsuta",
+  "metaTitle": "Nagoya en journee complete : Toyota, chateau, Atsuta",
+  "metaDescription": "Un guide prive pour une journee complete a travers les racines industrielles de Toyota, le chateau de Nagoya et le sanctuaire sacre d'Atsuta.",
+  "shortDescription": "Un guide prive pour une journee complete a travers les racines industrielles de Toyota, le chateau de Nagoya et le sanctuaire sacre d'Atsuta.",
+  "fullDescription": "Nagoya est la quatrieme plus grande ville du Japon et le coeur industriel de la region de Chubu, et cette visite privee d'une journee complete retrace cette identite depuis ses racines industrielles jusqu'a son passe feodal. La journee commence au musee commemoratif de l'industrie et de la technologie Toyota, ou une promenade guidee parmi des metiers a tisser automatiques en fonctionnement et des presentations de chaines de montage anciennes montre comment un fabricant de metiers a tisser dans la proche ville de Toyota est devenu un constructeur automobile mondial. C'est une occasion rare de voir la filiation mecanique derriere l'une des marques automobiles les plus connues au monde avant meme de poser le pied dans une salle d'exposition.\n\nDe la, la visite se poursuit en bus jusqu'au chateau de Nagoya, construit pour la premiere fois en 1612 sur les ordres de Tokugawa Ieyasu comme place forte gardant l'acces a la ville. Le donjon original a ete detruit lors des bombardements de 1945 et reconstruit en beton en 1959, a nouveau couronne des shachihoko dores, les ornements de toit mythiques en forme de tigre-poisson devenus le symbole officieux de la ville. Une promenade guidee dans l'enceinte du chateau est suivie d'un trajet en train jusqu'a Osu Kannon, un temple bouddhiste anime borde des galeries couvertes de la rue commercante d'Osu, ou le guide fait un arret dans un restaurant local pour decouvrir l'ambiance du marche alimentaire du quartier.\n\nLa journee se termine a Atsuta Jingu, l'un des sanctuaires shinto les plus venere, cense abriter l'epee Kusanagi, l'un des trois tresors imperiaux du Japon. Parcourir son enceinte boisee avec un guide donne un contexte a un site devant lequel la plupart des visiteurs passeraient autrement sans comprendre son importance. Le transport entre chaque arret est inclus et commente, si bien que les six heures et demie couvrent quatre facettes tres differentes de Nagoya sans aucune logistique a gerer.",
+  "highlights": [],
+  "included": [
+   "Guide local prive pour la journee complete, tout le transport entre les arrets (bus, train), accompagnement a l'entree de chaque site"
+  ],
+  "notIncluded": [
+   "Frais d'entree des musees et sanctuaires le cas echeant, repas et boissons, prise en charge et retour a l'hotel, depenses personnelles"
+  ]
+ },
+ "yakushi-ji-temple-spiritual-tour": {
+  "title": "Nara en profondeur : evasion privee entre temples et montagne, au-dela du parc aux daims",
+  "metaTitle": "Nara en profondeur : temples et montagne",
+  "metaDescription": "Evitez la foule du parc aux daims : visite privee vers les temples UNESCO plus calmes de Nara et un temple de montagne au choix, Hase-dera ou Muro-ji.",
+  "shortDescription": "Evitez entierement la foule du parc aux daims : une visite privee en vehicule a plaque verte vers les temples UNESCO plus calmes de Nara et un temple de montagne au choix, Hase-dera ou Muro-ji.",
+  "fullDescription": "La plupart des visiteurs de Nara ne vont jamais au-dela du parc de Nara et du Todai-ji, ce qui se comprend, car ce sont vraiment les sites phares, mais cela signifie que le reste des temples classes UNESCO de la prefecture de Nara reste largement vide meme en haute saison. Cette visite privee, menee dans un vehicule entierement licencie a plaque verte avec un chauffeur professionnel, est concue pour les voyageurs qui ont deja fait le parc aux daims ou qui veulent simplement aller plus loin.\n\nLa journee commence au temple Yakushi-ji, fonde en 680 et l'un des plus beaux exemples d'architecture de l'epoque de Nara qui subsistent, remarquable pour son elegante pagode est a trois etages, l'une des rares structures originales du Japon a avoir survecu plus de 1 300 ans sans etre reconstruite apres un incendie. De la, la visite se poursuit vers Toshodai-ji, fonde en 759 par le moine chinois Ganjin, qui a traverse jusqu'au Japon apres cinq tentatives echouees et une cecite totale au moment ou il a reussi, pour etablir des pratiques orthodoxes d'ordination bouddhiste. Son hall principal Kondo est l'un des plus grands et des mieux preserves batiments de l'epoque de Nara encore debout.\n\nLa piece maitresse de la journee est un choix entre deux temples de montagne, organise selon vos interets : Hase-dera, celebre pour son long corridor en bois d'escaliers menant a un hall abritant une statue de Kannon en bois de 11 metres, avec des hortensias en juin et des couleurs d'erable en automne ; ou Muro-ji, un temple isole et rarement visite installe dans des montagnes boisees, historiquement remarquable comme l'un des rares grands temples japonais a avoir autorise les femmes a pratiquer, ce qui lui a valu le surnom de Koyasan des femmes. Comme toute la journee se deroule en vehicule prive avec prise en charge a l'hotel, vous evitez les trains et bus regionaux souvent peu frequents de Nara, et pouvez ajuster les horaires et les arrets au fil de la journee.",
+  "highlights": [],
+  "included": [
+   "Vehicule licencie prive et chauffeur, prise en charge et retour a l'hotel, itineraire pour la journee complete"
+  ],
+  "notIncluded": [
+   "Frais d'entree des temples, repas, commentaire du guide (chauffeur seul sauf demande separee d'un guide)"
+  ]
+ },
+ "yanaka-backstreets-bike-tour": {
+  "title": "Les ruelles de Tokyo a velo electrique : Yanaka, Shitamachi et les vieux quartiers",
+  "metaTitle": "Ruelles de Tokyo a velo electrique",
+  "metaDescription": "L'autre Tokyo : maisons en bois, ruelles de temples et rues commercantes de la vieille ville basse, sur des routes trop etroites pour les cars de tourisme.",
+  "shortDescription": "L'autre Tokyo : maisons en bois, ruelles de temples et rues commercantes de la vieille ville basse, sur des routes trop etroites pour les cars de tourisme.",
+  "fullDescription": "C'est la balade pour ceux qui ont deja fait les monuments, ou qui n'en ont jamais voulu. Elle se dirige vers Shitamachi, la ville basse, ou les ruelles sont trop etroites pour les cars, ou les batiments sont des constructions de bois et de tuiles sur deux etages, et ou la vie quotidienne suit encore un rythme de quartier. Le nom est ancien et litteral : c'etait la moitie orientale plate et basse d'Edo ou vivaient marchands et artisans, en dessous des collines occupees par les samourais.\n\nYanaka en est la piece centrale. Le quartier a largement echappe au tremblement de terre de 1923 comme aux bombardements incendiaires de la guerre qui ont rase la plus grande partie de l'est de Tokyo, donc ce qui s'y trouve est vraiment ancien plutot que reconstruit : murs de temples, maisons en bois, une rue commercante ou les gens achetent encore leur diner chez des bouchers et des marchands de pickles individuels, et une population de chats residents devenue la mascotte officieuse du quartier. On entre dans Yanaka Ginza en descendant un court escalier que les habitants appellent l'escalier du coucher de soleil, et c'est le plus beau en fin d'apres-midi quand les stands de croquettes commencent a frire.\n\nNezu et Sendagi completent la boucle avec des enceintes de sanctuaires tranquilles et des ruelles arriere, le sanctuaire Nezu conserve des batiments du debut des annees 1700 et un court tunnel de torii vermillon, tandis que Kagurazaka apporte les ruelles pavees de geishas devenues l'un des meilleurs quartiers gastronomiques de la ville.\n\nUn velo est l'outil adapte ici precisement parce que la zone est un labyrinthe. A pied, vous ne voyez qu'une rue ; a velo, vous pouvez explorer toute la grille, et votre guide sait quels virages valent la peine d'etre pris. Le terrain est plat et le rythme facile, mais il faut etre un cycliste confiant : les ruelles impliquent des arrets, des departs et des virages serres constants, et le groupe roule calmement et descend de velo quand on le lui demande.",
+  "highlights": [],
+  "included": [
+   "Location de velo ou velo electrique pour toute la visite, guide local anglophone, casque, assurance velo, eau en bouteille, arrets photo tout au long du parcours"
+  ],
+  "notIncluded": [
+   "Transferts hotel, nourriture et boissons au-dela de l'eau fournie, achats dans les rues commercantes, pourboires"
+  ]
+ },
  "nagoya-shimenawa-wreath-making-workshop": {
   "title": "Fabriquez un shimenawa : la couronne du nouvel an japonais, a Nagoya",
   "metaTitle": "Atelier de fabrication de shimenawa a Nagoya",
