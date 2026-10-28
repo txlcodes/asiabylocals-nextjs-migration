@@ -33,6 +33,7 @@ interface Props {
 }
 
 const AGRA_SIDEBAR = [
+    { name: 'Avoid Touts & Scams', slug: 'agra-tour-guide-scams-how-to-avoid-touts' },
     { name: 'Things to Do', slug: 'things-to-do-in-agra' },
     { name: 'Places Guide', slug: 'places-to-visit-in-agra' },
     { name: '1-Day Itinerary', slug: '1-day-agra-itinerary' },
@@ -60,6 +61,7 @@ const AGRA_SIDEBAR = [
 ];
 
 const DELHI_SIDEBAR = [
+    { name: 'Avoid Touts & Scams', slug: 'delhi-tourist-scams-how-to-avoid-touts' },
     { name: 'Delhi Travel Guide', slug: 'delhi-travel-guide-2026' },
     { name: 'Red Fort', slug: 'red-fort' },
     { name: 'Qutub Minar', slug: 'qutub-minar' },
@@ -81,6 +83,7 @@ const DELHI_SIDEBAR = [
 ];
 
 const JAIPUR_SIDEBAR = [
+    { name: 'Avoid Touts & Scams', slug: 'jaipur-tourist-scams-how-to-avoid-touts' },
     { name: 'Things to Do', slug: 'things-to-do-in-jaipur' },
     { name: 'Travel Guide 2026', slug: 'jaipur-travel-guide-2026' },
     { name: '1-Day Itinerary', slug: '1-day-jaipur-itinerary' },

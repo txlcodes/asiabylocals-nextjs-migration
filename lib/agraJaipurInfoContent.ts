@@ -944,6 +944,110 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'Should I stay near Amber Fort or in central Jaipur?', acceptedAnswer: { '@type': 'Answer', text: 'For most travellers, central Jaipur is more practical, with only a 20-30 minute transfer to the fort.' } }] }] },
       };
 
+    case "agra-tour-guide-scams-how-to-avoid-touts":
+      return {
+        title: "Agra Tour Guide Scams: How to Avoid Touts at the Taj Mahal",
+        seoTitle: "Agra Tour Guide Scams 2026 — How to Avoid Touts at the Taj Mahal",
+        description: "The exact scams that target tourists outside the Taj Mahal and Agra Fort, how to spot a fake 'government guide,' and how to tell a licensed guide from a tout in two minutes.",
+        heroImage: A_GUIDE.image,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Only **government-licensed guides**, identifiable by an official ID card issued by the Archaeological Survey of India or the UP Tourism department, are allowed to guide inside the Taj Mahal complex. Anyone approaching you in the parking lot or at the gate without that card and offering a 'special discount tour' is a tout, not a guide — booking ahead with a verified operator removes the guesswork entirely.",
+            tourCard: A_GUIDE,
+          },
+          {
+            title: "The Three Scams That Actually Happen",
+            content: "**The fake-guide approach**: someone in plain clothes or a loose uniform intercepts you before the ticket counter, claims to be 'assigned' to your hotel or tour group, and demands payment after a rushed, inaccurate tour. **The shop-commission detour**: a tout offers a 'free' extra stop at a marble or carpet shop on the way back, which pays them a commission baked into inflated prices — you end up paying far more than the item is worth. **The ticket-counter markup**: someone offers to 'skip the queue' for a fee, when the real skip-the-line option is an official, fixed-price ticket anyone can buy online.",
+          },
+          {
+            title: "How to Tell a Real Guide from a Tout in Two Minutes",
+            content: "A genuine licensed guide carries a laminated ID card with a photo, a government seal, and a license number — ask to see it, and don't proceed if they can't produce one immediately or get defensive about the request. Real guides wait inside the ticketed area or at a pre-arranged meeting point, not swarming the parking lot. If you booked through a platform ahead of time, your guide will already know your name and booking reference without being told.",
+            tourCard: A_FULL,
+          },
+          {
+            title: "The Simplest Fix: Book Ahead",
+            content: "The entire scam ecosystem outside the Taj Mahal exists because walk-up tourists have no way to verify who they're dealing with on the spot. Booking a guide in advance, with a confirmed meeting point and a named operator, removes that uncertainty completely — you know exactly who to look for and what you're paying before you arrive.",
+            tourCard: A_FORT,
+          }
+        ],
+        faqs: [
+          { q: "How do I know if an Agra guide is legitimate?", a: "Ask to see their official ID card — a photo, government seal and license number issued by ASI or UP Tourism. A real guide will produce it immediately without hesitation." },
+          { q: "Are there scams at the Taj Mahal specifically?", a: "Yes — the main ones are fake guides intercepting tourists before the ticket counter, 'free' shop detours that pay the tout a commission, and inflated 'skip the line' fees for a service that's actually a fixed-price official ticket." },
+          { q: "Is it safe to hire a guide outside the Taj Mahal gate?", a: "It's risky — anyone can claim to be a guide at the gate with no way for you to verify it on the spot. Booking ahead with a verified operator is the safer, simpler option." },
+          { q: "What should I do if a tout won't leave me alone?", a: "A firm 'no, thank you' and continuing to walk works in almost every case. Touts are persistent but not aggressive toward tourists who clearly aren't interested." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "How do I know if an Agra guide is legitimate?", "acceptedAnswer": { "@type": "Answer", "text": "Ask to see their official government-issued ID card with a photo, seal and license number." } },
+                { "@type": "Question", "name": "Are there scams at the Taj Mahal specifically?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — fake guides, commission-paying shop detours, and inflated 'skip the line' fees are the three main ones." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Shield', label: 'Check For', value: 'Government-Issued ID Card' },
+          { icon: 'AlertTriangle', label: 'Common Scam', value: 'Fake Guides at the Gate' },
+          { icon: 'CheckCircle', label: 'Safest Fix', value: 'Book Ahead of Arrival' }
+        ]
+      };
+
+    case "jaipur-tourist-scams-how-to-avoid-touts":
+      return {
+        title: "Jaipur Tourist Scams: How to Avoid Touts and Overcharging",
+        seoTitle: "Jaipur Tourist Scams 2026 — How to Avoid Touts and Overcharging",
+        description: "The common scams around Amber Fort, Hawa Mahal and the Pink City bazaars, how commission-paying 'free' shop stops actually work, and how to book with confidence instead.",
+        heroImage: J_CITY.image,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The most common Jaipur scam isn't a fake guide at the gate — it's a **commission-paying detour** to a gem, carpet or textile shop, pitched as a free stop on your tour. The driver or guide earns a cut of whatever you buy, and prices there run well above what locals pay. Booking with a verified operator who has no financial stake in where you shop avoids this entirely.",
+            tourCard: J_CITY,
+          },
+          {
+            title: "Around Amber Fort and Jaigarh",
+            content: "Unofficial 'guides' cluster at Amber Fort's entrance offering cheap tours with no license — the same rule as Agra applies: a real guide carries an ID card and doesn't need to intercept you in the parking lot. Elephant rides up to the fort are also sold aggressively by touts at inflated prices; if an elephant experience interests you at all, book the ethical, no-riding sanctuary version instead rather than the fort-gate version.",
+            tourCard: J_FULL,
+          },
+          {
+            title: "The Pink City Bazaars",
+            content: "Johari Bazaar and the surrounding lanes are genuinely excellent for jewellery, textiles and block-print fabric — but a tuk-tuk driver who insists on taking you to 'his cousin's shop' is working on commission, and the quoted price there reflects that markup. A guided bazaar walk with someone who isn't paid by the shops gets you the same browsing without the steering.",
+          },
+          {
+            title: "Day Trips and Transfers",
+            content: "For Delhi-Jaipur or Agra-Jaipur transfers booked on arrival at a train station or bus stand, confirm the full price and route before getting in any vehicle — a common tactic is to quote a low price, then add 'toll' or 'waiting' charges mid-journey. A pre-booked transfer at a fixed, confirmed rate avoids the negotiation entirely.",
+            tourCard: J_DELHI,
+          }
+        ],
+        faqs: [
+          { q: "What is the most common Jaipur tourist scam?", a: "A 'free' shop stop built into a tour, where the driver or guide earns a commission on anything you buy at inflated prices — not a fake-guide scam like Agra's." },
+          { q: "Are the elephant rides at Amber Fort worth it?", a: "They're aggressively oversold by touts at the fort gate at high prices. A no-riding elephant sanctuary experience is both more ethical and better value." },
+          { q: "How do I avoid being overcharged by a tuk-tuk driver in Jaipur?", a: "Agree on the full price and destination before getting in, and be wary of any driver steering you toward a specific shop 'his cousin owns' — that's a commission arrangement, not a recommendation." },
+          { q: "Is it safe to book a Jaipur day trip on arrival?", a: "It works, but confirm the total price upfront — mid-journey 'toll' or 'waiting' add-ons are a common tactic. A pre-booked transfer at a fixed rate avoids this." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the most common Jaipur tourist scam?", "acceptedAnswer": { "@type": "Answer", "text": "A 'free' shop stop built into a tour, where the driver or guide earns a commission on inflated prices." } },
+                { "@type": "Question", "name": "Are the elephant rides at Amber Fort worth it?", "acceptedAnswer": { "@type": "Answer", "text": "No — they're oversold by touts. A no-riding ethical sanctuary is the better option." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'AlertTriangle', label: 'Common Scam', value: 'Commission Shop Detours' },
+          { icon: 'Shield', label: 'At Amber Fort', value: 'Verify Guide ID Card' },
+          { icon: 'CheckCircle', label: 'Safest Fix', value: 'Fixed-Price Pre-Booking' }
+        ]
+      };
+
     default:
       return null;
   }

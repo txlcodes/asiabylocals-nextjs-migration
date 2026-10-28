@@ -739,6 +739,58 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'What is the best way to see the Taj Mahal from Delhi?', acceptedAnswer: { '@type': 'Answer', text: 'A private car day tour with a licensed guide, roughly 3-4 hours each way.' } }] }] },
       };
 
+    case "delhi-tourist-scams-how-to-avoid-touts":
+      return {
+        title: "Delhi Tourist Scams: How to Avoid Touts and Common Traps",
+        seoTitle: "Delhi Tourist Scams 2026 — How to Avoid Touts and Common Traps",
+        description: "The real scams around Connaught Place, Old Delhi and major sights — fake tourism offices, commission shop detours, and the overcharging tricks — plus how to sidestep every one of them.",
+        heroImage: T_HERITAGE.image,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Delhi's most persistent scam is the **fake tourism office** — someone tells you the real government tourism office is 'closed' or 'moved' and walks you to a private travel agency instead, which then oversells packages and tours at inflated prices. The actual Delhi Tourism office rarely needs walk-in visits at all once you've booked directly with a verified operator.",
+            tourCard: T_HERITAGE,
+          },
+          {
+            title: "Connaught Place and the 'Government Shop'",
+            content: "Around Connaught Place and near major sights, touts approach with claims of a 'government emporium' or 'fixed price government shop' — these are private shops paying the tout a commission, nothing government about them. Genuine government emporiums exist (Central Cottage Industries Emporium, for one) but you find them yourself, not through someone who approached you on the street.",
+            tourCard: T_SHOPPING,
+          },
+          {
+            title: "Old Delhi: Rickshaws and 'Closed' Monuments",
+            content: "In the lanes around Chandni Chowk and Jama Masjid, cycle-rickshaw drivers sometimes claim a monument is 'closed today' to redirect you to a shop instead — it's almost always open. A guided rickshaw tour with a verified operator removes this entirely, since the route and stops are agreed in advance.",
+            tourCard: T_OLDDELHI,
+          },
+          {
+            title: "Airport and Taxi Overcharging",
+            content: "Unmetered taxis and auto-rickshaws outside the airport or train stations frequently quote tourists 3-5x the real fare. Pre-booking an airport transfer at a fixed rate, or insisting on the prepaid taxi counter, avoids the negotiation entirely.",
+          }
+        ],
+        faqs: [
+          { q: "What is the most common Delhi tourist scam?", a: "The fake tourism office — a tout claims the real government office is closed and redirects you to a private travel agency, which then oversells inflated packages." },
+          { q: "Are there 'government shop' scams in Delhi?", a: "Yes — touts claim a private shop is a 'government emporium' with fixed prices. Genuine government emporiums exist but should be found independently, not through someone who approached you on the street." },
+          { q: "Do Old Delhi rickshaw drivers scam tourists?", a: "Some claim a monument is 'closed' to redirect you to a shop instead — it's almost always open. A pre-booked guided rickshaw tour avoids this." },
+          { q: "How do I avoid taxi overcharging in Delhi?", a: "Use the prepaid taxi counter at the airport or train station, or pre-book a transfer at a fixed rate rather than negotiating with an unmetered driver." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the most common Delhi tourist scam?", "acceptedAnswer": { "@type": "Answer", "text": "The fake tourism office, where a tout redirects you to a private travel agency selling inflated packages." } },
+                { "@type": "Question", "name": "How do I avoid taxi overcharging in Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "Use the prepaid taxi counter or pre-book a transfer at a fixed rate." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'AlertTriangle', label: 'Common Scam', value: 'Fake Tourism Office' },
+          { icon: 'Shield', label: 'Old Delhi Trick', value: '"Monument Closed" Redirect' },
+          { icon: 'CheckCircle', label: 'Safest Fix', value: 'Prepaid Taxi + Pre-Booked Tours' }
+        ]
+      };
+
     default:
       return null;
   }
