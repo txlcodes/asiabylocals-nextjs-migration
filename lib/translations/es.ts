@@ -61067,6 +61067,90 @@ export const ES_TOURS: Record<string, TourT> = {
    "Recogida y regreso al hotel, comida y bebida, merchandising"
   ]
  },
+ "tokyo-helicopter-flight-skytree-tokyo-tower": {
+  "title": "Treinta minutos sobre Tokio en helicoptero: Skytree y la torre de Tokio",
+  "metaTitle": "Treinta minutos sobre Tokio en helicoptero",
+  "metaDescription": "Un vuelo privado de treinta minutos desde el helipuerto de Chiba Wangan pasando junto a las dos torres de Tokio, para hasta cuatro pasajeros.",
+  "shortDescription": "Un vuelo privado de treinta minutos desde el helipuerto de Chiba Wangan pasando junto a las dos torres de Tokio, para hasta cuatro pasajeros.",
+  "fullDescription": "Tokio no se lee como una sola ciudad desde el suelo. Es demasiado grande y demasiado plana, y los miradores le muestran cada uno solo una porcion. Treinta minutos en helicoptero son la unica forma de ver como todo encaja realmente, la bahia, el sistema fluvial, los distritos que corren hasta el horizonte, y las dos torres que anclan el perfil de la ciudad en extremos opuestos.\n\nLa ruta cubre ambas. El Tokyo Skytree, con 634 metros, es la estructura mas alta de Japon y parece completamente distinta desde el aire, donde se ve contra la extension de baja altura de los distritos del este en lugar de desde abajo. La torre de Tokio, la estructura de celosia de 1958 pintada en naranja internacional, se alza en el denso centro occidental, rodeada de edificios que la han superado en altura desde hace mucho pero nunca en reconocimiento.\n\nLa aeronave lleva de uno a cuatro pasajeros y el precio es por el vuelo y no por persona, asi que baja mucho por cabeza con la cabina llena. Los vuelos salen del helipuerto de Chiba Wangan en Shinko, Chiba, frente a Aqualink Chiba, en el lado este del parque Inage Seaside, calcule tiempo de desplazamiento, esto no es el centro de Tokio.\n\nLlegue al menos treinta minutos antes de su horario para el briefing de seguridad y el papeleo. El personal hara fotos si lo pide.\n\nDos advertencias honestas. Un vuelo programado antes de la puesta de sol se realiza con luz diurna, asi que reserve un horario mas tardio si quiere la ciudad iluminada. Y en reservas antes de las 19:00, las restricciones del espacio aereo pueden impedir ocasionalmente el tramo hacia la torre de Tokio, asi que la ruta puede diferir de la descripcion, vale la pena saberlo antes de gastar tanto en media hora.",
+  "highlights": [],
+  "included": [
+   "Vuelo en helicoptero de treinta minutos en la ruta de las dos torres, briefing de seguridad antes del vuelo, hasta cuatro pasajeros en una aeronave"
+  ],
+  "notIncluded": [
+   "Transporte hasta el helipuerto de Chiba Wangan, fotos cuando se cobran, comida y bebida, recogida y regreso al hotel"
+  ]
+ },
+ "tokyo-hop-on-hop-off-open-top-bus-ticket": {
+  "title": "Autobus de techo descubierto Tokio Hop-On Hop-Off: tres rutas, un billete",
+  "metaTitle": "Autobus de techo descubierto en Tokio",
+  "metaDescription": "Viajes ilimitados en tres rutas de techo descubierto que cubren Skytree, Asakusa, Ginza, Shinjuku y Shibuya, con guia de audio multilingue a bordo.",
+  "shortDescription": "Viajes ilimitados en tres rutas de techo descubierto que cubren Skytree, Asakusa, la torre de Tokio, Ginza, Shinjuku y Shibuya, con guia de audio multilingue a bordo.",
+  "fullDescription": "Tokio es una ciudad dificil de abarcar de un vistazo. El metro es excelente y oculta completamente la superficie, asi que se puede pasar una semana aqui moviendose entre estaciones sin ver nunca como se conectan los distritos. Un autobus de techo descubierto soluciona eso en una tarde.\n\nUn billete cubre las tres rutas y subidas y bajadas ilimitadas. La ruta de Skytree va hacia el este por Kodemmacho, el distrito de sumo de Ryogoku y el Museo Edo-Tokio hasta el propio Skytree, luego Asakusa, Ueno y Akihabara. La ruta de la torre de Tokio va hacia el sur pasando por Zojo-ji, cruza hasta la estacion Teleport de Odaiba y vuelve por Tsukiji y Ginza. La ruta de Shinjuku y Shibuya cubre el jardin Shinjuku Gyoen, las torres de Nishi-Shinjuku, Shibuya y el santuario Meiji. Las tres empiezan y terminan en el edificio Marunouchi Mitsubishi, a pocos minutos de la estacion de Tokio.\n\nLa guia de audio a bordo funciona en japones, ingles, coreano, chino, frances, aleman y espanol, aunque vale la pena saber que un pequeno numero de autobuses no lleva el sistema integrado. Un servicio de lanzadera gratuito tambien esta incluido con el billete.\n\nEl argumento practico es mas fuerte en un primer dia, antes de tener un mapa mental de la ciudad, o en un dia con equipaje o piernas cansadas en el que quiera avanzar sin las escaleras que exige el metro. La planta superior esta descubierta, asi que es una experiencia mucho mejor en primavera y otono que en la humedad de agosto o un viento de enero.\n\nEl billete de un dia basta si piensa recorrer una o dos rutas. El billete de dos dias cuesta aproximadamente la mitad mas y tiene sentido si realmente piensa bajarse y explorar en lugar de solo dar las vueltas.",
+  "highlights": [],
+  "included": [
+   "Viajes ilimitados en las tres rutas de techo descubierto, guia de audio a bordo en japones, ingles, coreano, chino, frances, aleman y espanol (no disponible en un pequeno numero de autobuses), servicio de lanzadera gratuito"
+  ],
+  "notIncluded": [
+   "Traslados desde y hacia su hotel, entradas a atracciones, comida y bebida"
+  ]
+ },
+ "tokyo-imperial-palace-east-gardens-guided-walk": {
+  "title": "El palacio imperial a pie: puerta Otemon, ruinas de la casa de guardia y jardin Ninomaru",
+  "metaTitle": "Palacio imperial de Tokio a pie",
+  "metaDescription": "Dos horas dentro del recinto del castillo de Edo con un guia: las puertas, la torre en ruinas y el jardin, por unos cuarenta y seis dolares.",
+  "shortDescription": "Dos horas dentro del recinto del castillo de Edo con un guia: las puertas, la torre en ruinas y el jardin, por unos cuarenta y seis dolares.",
+  "fullDescription": "El recinto del palacio imperial es el centro de Tokio y casi nadie entiende lo que esta mirando. Esto fue el castillo de Edo, la fortaleza mas grande del mundo cuando se construyo, y la sede de los shogunes Tokugawa durante dos siglos y medio. La ciudad crecio hacia fuera desde aqui en anillos. El palacio no se volvio imperial hasta 1868, cuando el emperador se traslado desde Kioto y termino el shogunato, y la residencia moderna se encuentra dentro de murallas trazadas para un proposito completamente distinto.\n\nEl paseo entra por Otemon, la puerta principal, por donde entraban los senores daimyo para presentarse. Pasa junto a las ruinas de la casa de guardia, donde esperaban los vasallos y donde se hacian los controles de quien entraba, y hasta los cimientos de la gran torre, una torre que ardio en 1657 y nunca se reconstruyo, por la razon razonable de que el pais estaba en paz y el dinero se gastaba mejor en otra parte. Lo que queda es una enorme plataforma de piedra con vista sobre los fosos y las torres modernas al fondo.\n\nEl jardin Ninomaru cierra la ruta: un jardin reconstruido del periodo Edo, deliberadamente tranquilo, y uno de los pocos lugares del centro de Tokio donde el trafico desaparece por completo.\n\nLos grupos se limitan a un maximo de diez por guia y el guia trabaja en ingles, con una opcion en frances en la misma ruta. Su guia le indicara los angulos fotograficos que funcionan si lo pide. No hay codigo de vestimenta y los tatuajes estan bien, algo que merece mencionarse porque varios sitios japoneses son mas estrictos.\n\nEl punto de encuentro es el parque de la fuente Wadakura, a cinco o diez minutos a pie de la estacion de Tokio o de Otemachi. No se incluye nada mas alla del guia, el recinto en si es gratuito.",
+  "highlights": [],
+  "included": [
+   "Visita guiada a pie por el recinto del palacio imperial, grupo pequeno, maximo diez invitados por guia, puerta Otemon, ruinas de la casa de guardia y jardin Ninomaru, historias del periodo Edo, la era samurai y el Tokio moderno, sugerencias de puntos fotograficos a peticion"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel, transporte hasta el punto de encuentro, comida y bebida, propinas (opcionales)"
+  ]
+ },
+ "tokyo-mount-takao-hike-ramen-tattoo-friendly-onsen": {
+  "title": "El monte Takao en un dia: telecabina, caminata a la cumbre, ramen de Hachioji y onsen que acepta tatuajes",
+  "metaTitle": "Monte Takao en un dia con onsen",
+  "metaDescription": "Un dia para siete personas en la propia montana de Tokio: parque de monos, templo de 1.300 anos, una caminata real, ramen y una fuente termal que acepta tatuajes.",
+  "shortDescription": "Un dia para siete personas en la propia montana de Tokio: parque de monos, templo de 1.300 anos, una caminata real, ramen y una fuente termal que acepta tatuajes.",
+  "fullDescription": "El monte Takao esta dentro de Tokio. El tren desde Shinjuku tarda menos de una hora y le deja al pie de una montana de 599 metros cubierta de bosque antiguo, por lo que es la montana mas escalada del mundo en numero de visitantes y por lo que la mayoria de los viajeros nunca oyen hablar de ella.\n\nEl dia es deliberadamente variado. Empieza en el Museo Takao 599, donde las ardillas voladoras, tanukis, insectos y hongos de la montana se muestran correctamente en lugar de como algo secundario. Luego la telecabina o la silla elevadora a traves del dosel forestal, la silla elevadora es la mejor opcion si no le da miedo la altura, porque se sienta al aire libre viendo pasar los arboles.\n\nDesde ahi es una caminata moderada por un camino acondicionado hasta la cumbre, donde el Fuji es visible en un dia claro, y la bajada pasa junto al Yakuo-in, un templo budista fundado en el 744 y aun en activo, con santuarios sintoistas entrelazados en el mismo recinto. El parque de monos en el camino alberga mas de noventa macacos japoneses.\n\nEl almuerzo es ramen de Hachioji, el estilo local, con cebolla cruda en lugar del habitual cebollino, con opciones de soba y vegetarianas disponibles.\n\nEl dia termina en una fuente termal natural al pie de la montana, y este es el detalle que justifica la reserva: acepta tatuajes, algo que la mayoria de los onsen japoneses no hacen. A cualquiera con tatuajes visibles se le suele negar la entrada en otros lugares, asi que un dia guiado que termina en un bano al que realmente se le permite entrar resuelve un problema real. Las toallas estan incluidas.\n\nEl grupo esta limitado a siete personas. Su guia espera en las puertas de billetes de la estacion de Takaosanguchi sosteniendo una pelota de tenis amarilla, tan facil de encontrar como suena.",
+  "highlights": [],
+  "included": [
+   "Guia de habla inglesa para todo el dia, entrada al Museo Takao 599, entrada al parque de monos, telecabina o silla elevadora para subir la montana, almuerzo de ramen de Hachioji, con opciones de soba y vegetarianas, visita a una fuente termal natural, toallas para la fuente termal"
+  ],
+  "notIncluded": [
+   "Transporte de ida y vuelta a la estacion de Takaosanguchi, comida y bebida adicionales, recogida y regreso al hotel"
+  ]
+ },
+ "tokyo-nerikiri-wagashi-making-and-tea-ceremony": {
+  "title": "Haga wagashi nerikiri y beba matcha de Uji: una ceremonia del te en Kanda",
+  "metaTitle": "Nerikiri y ceremonia del te en Kanda",
+  "metaDescription": "Coloree y esculpa sus propios dulces nerikiri a partir de pasta de judias de Kioto, luego bata y beba matcha de Uji junto a ellos, por menos de veintitres dolares.",
+  "shortDescription": "Coloree y esculpa sus propios dulces nerikiri a partir de pasta de judias de Kioto, luego bata y beba matcha de Uji junto a ellos, por menos de veintitres dolares.",
+  "fullDescription": "El nerikiri es la cima de la reposteria japonesa: pasta de judias blancas endulzada, coloreada a mano y esculpida en formas estacionales, una camelia en invierno, una hoja de arce en otono, un crisantemo entre medias. Esta hecha para comerse con matcha, porque su dulzor esta calibrado contra el amargor del te y ninguno de los dos funciona bien por si solo.\n\nEn noventa y cinco minutos hace dos de ellos y luego bebe el te para el que fueron disenados. La sesion empieza con el coloreado, que es donde ocurren las decisiones creativas, usted mezcla sus propios tonos en la pasta blanca, y pasa luego al modelado, usando las pequenas herramientas de madera que dan al nerikiri sus caracteristicos petalos acanalados. La pasta de judias viene de fabricantes de Kioto bien establecidos, un detalle con el que el operador no necesitaba molestarse.\n\nLa ceremonia del te sigue. Usted mismo prepara el matcha de Uji, Uji, al sur de Kioto, ha proporcionado el mejor te verde de Japon durante ochocientos anos, y lo bebe con los dulces que acaba de hacer. Hacerlo en ese orden es el objetivo: entiende por que el dulce es ese dulce solo cuando llega el matcha.\n\nA este precio, es una de las mejores experiencias culturales por su valor en el centro de Tokio, y el local esta en Kanda, a pocos minutos de Akihabara y de la estacion de Tokio. La instruccion es en japones con el proceso demostrado paso a paso, lo que funciona bien para una sesion practica pero conviene saberlo de antemano.\n\nDos pequenos extras se cobran por separado si los quiere: una caja para llevar los dulces, y un certificado de finalizacion. Si quiere su nombre en el certificado, indiquelo al reservar.",
+  "highlights": [],
+  "included": [
+   "Sesion de elaboracion de wagashi nerikiri con todos los ingredientes, pasta de judias blancas y rojas hecha en Kioto, ceremonia del te con matcha de Uji, los dulces que hace y el te que prepara"
+  ],
+  "notIncluded": [
+   "Caja para llevar los dulces (cobrada en el lugar), certificado de finalizacion (cobrado en el lugar), recogida y regreso al hotel"
+  ]
+ },
+ "tokyo-night-photo-tour-shibuya-sky-shinjuku": {
+  "title": "Tokio de noche con un fotografo: Shibuya Sky en la hora dorada, luego los neones de Shinjuku",
+  "metaTitle": "Tokio de noche: Shibuya Sky y Shinjuku",
+  "metaDescription": "Tres horas por las dos caras de Tokio de noche, la terraza en altura al atardecer y los callejones neon de Kabukicho, con fotografia incluida.",
+  "shortDescription": "Tres horas por las dos caras nocturnas de Tokio, la terraza en altura al atardecer y los callejones neon de Kabukicho, con un guia que le fotografia todo el trayecto.",
+  "fullDescription": "Tokio de noche son dos ciudades completamente distintas, y esta velada cubre ambas, deliberadamente en el orden correcto. Tambien resuelve el problema que todo viajero tiene aqui: vuelve a casa con fotos de la ciudad y ninguna de usted mismo en ellas, porque no habia nadie para tomarlas.\n\nLa primera mitad es altura. Shibuya Sky es una terraza al aire libre a 230 metros de altura, y la entrada con hora reservada esta incluida, lo que importa porque los horarios se agotan con dias de antelacion en temporada alta. Llega para la hora dorada y se queda durante el cambio, el sol bajando detras del perfil urbano, luego la cuadricula iluminandose bajo usted, con el Fuji visible en tardes de invierno claras. El guia sabe donde pararse en la terraza cuando la luz pasa de dorado a azul, y le fotografia mientras usted mira.\n\nLa segunda mitad es a nivel de calle, y el contraste es el objetivo. Un breve salto hasta Shinjuku le lleva a Kabukicho, donde el neon es lo bastante denso como para leer con el, pasando junto a la cabeza de Godzilla sobre el edificio Toho, y hacia Omoide Yokocho, un conjunto de callejones supervivientes apenas lo bastante anchos para dos personas, bordeados de pequenos bares de parrilla y espesos de humo de yakitori. Es el Tokio mas antiguo que las torres han reemplazado en todas partes, y se fotografia mejor que ningun otro lugar de la ciudad.\n\nEl guia es un local que recorre esta misma ruta lo bastante a menudo como para saber que esquinas mantienen su luz y cuales quedan bloqueadas por camiones de reparto a las nueve de la noche. El tamano del grupo esta limitado a quince personas. La comida, las bebidas y el transporte entre distritos no estan incluidos, asi que lleve una tarjeta de transporte y algo de efectivo si quiere pararse a comer un pincho, y la mayoria lo hace.",
+  "highlights": [],
+  "included": [
+   "Entrada con hora reservada para Shibuya Sky, guia local de habla inglesa, fotos suyas tomadas durante toda la velada, ruta guiada por Shibuya y Shinjuku"
+  ],
+  "notIncluded": [
+   "Comida y bebida, transporte entre distritos, tarifas de entrada no listadas arriba, recogida y regreso al hotel"
+  ]
+ },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
   "title": "Recoleccion de fruta en Yoichi, la destileria Nikka y la costa de Shakotan",
   "metaTitle": "Recoleccion de fruta, destileria Nikka y costa de Shakotan",
