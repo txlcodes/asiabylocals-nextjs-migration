@@ -60731,6 +60731,90 @@ export const ES_TOURS: Record<string, TourT> = {
    "Sus propios billetes de tren y metro (aproximadamente 800 a 1500 yenes), comida y bebida, posibles tarifas de entrada, propinas"
   ]
  },
+ "senso-ji-temple-highlights-guided-tour": {
+  "title": "Lo esencial de Tokio en media jornada con un guia local",
+  "metaTitle": "Lo esencial de Tokio en media jornada",
+  "metaDescription": "Cuatro horas para cubrir lo esencial: el templo mas antiguo, el cruce mas transitado y el bosque del santuario entre ambos.",
+  "shortDescription": "Cuatro horas para cubrir lo esencial: el templo mas antiguo, el cruce mas transitado y el bosque del santuario entre ambos.",
+  "fullDescription": "Cuatro horas, las tres cosas que lamentaria perderse, y un local que hace los traslados sin esfuerzo. Este es el tour para una estancia corta, una escala, o una primera tarde mientras todavia se ajusta al cambio de horario.\n\nEl Senso-ji se alza en Asakusa desde el 645, lo que lo convierte en uno de los lugares mas antiguos de la ciudad, y el acceso bajando por Nakamise-dori, pasando junto al enorme farol rojo de la puerta Kaminarimon y las hileras de pequenos puestos detras, forma parte de la experiencia en lugar de ser una cola que soportar. El salon principal actual es una reconstruccion de posguerra, tras arder el original en los bombardeos incendiarios de 1945.\n\nEl santuario Meiji ofrece el registro contrario: silencio, grava bajo los pies, y un bosque de aproximadamente 100.000 arboles plantados a mano y donados, disenado en la decada de 1920 para tener exactamente este aspecto hoy, con sus planificadores eligiendo especies que madurarian hasta convertirse en un bosque autosuficiente a lo largo de un siglo. El cruce de Shibuya no necesita presentacion.\n\nPara lo que realmente sirve el guia es para el tejido conector: que tren, que salida, que lado de la calle, y el comentario continuo que convierte tres lugares separados en una sola imagen coherente de como funciona Tokio.\n\nEspere entre 4 y 6 km caminando ademas de los tramos en tren, asi que mencione cualquier necesidad de movilidad al reservar. Lleve una Suica o Pasmo cargada y efectivo para ofrendas y pequenas tiendas, y mantenga los hombros cubiertos, ambos lugares son sitios de culto activos. El bosque del santuario es un verdadero refugio frente al calor del verano; el cruce esta en su mejor momento cuando cae la luz.\n\nTambien funciona bien como orientacion. Hagalo el primer dia y el resto del viaje se vuelve mas facil.",
+  "highlights": [],
+  "included": [
+   "Guia local de habla inglesa durante cuatro horas, planificacion de la ruta segun sus intereses, costes de transporte del guia, ayuda con la navegacion en trenes y metro"
+  ],
+  "notIncluded": [
+   "Sus propios billetes de tren y metro, comida y bebida, posibles tarifas de entrada, propinas"
+  ]
+ },
+ "shibuya-backstreets-bike-tour": {
+  "title": "Shibuya y Harajuku en bicicleta: tres horas por las calles secundarias",
+  "metaTitle": "Shibuya y Harajuku en bicicleta",
+  "metaDescription": "Shibuya y Harajuku son mucho mas grandes que las dos calles que todos recorren. Una bicicleta le lleva al resto en tres horas.",
+  "shortDescription": "Shibuya y Harajuku son mucho mas grandes que las dos calles que todos recorren. Una bicicleta le lleva al resto en tres horas.",
+  "fullDescription": "Casi todos los que visitan Shibuya ven los mismos 500 metros: el cruce, Center Gai, quiza la calle Takeshita en Harajuku. Los distritos se extienden kilometros en todas direcciones y las mejores partes estan sobre todo en medio, en calles en las que un visitante de primera vez no tiene motivo para entrar.\n\nEste recorrido empieza cerca de Shinjuku, a diez minutos a pie de la estacion, y avanza hacia el sur por toda la zona. Las calles secundarias detras de Shibuya estan llenas de tostadores de cafe independientes, tiendas de discos y pequenas galerias, ninguna de las cuales sobrevive a los alquileres de la avenida principal. Omotesando le ofrece la arquitectura, una serie de tiendas insignia de Ando, SANAA y Herzog & de Meuron a lo largo de la avenida bordeada de zelkovas, que equivale a un museo al aire libre del diseno japones contemporaneo, cada una con una respuesta distinta a la misma parcela estrecha. El parque Yoyogi aporta el descanso, y los domingos los bailarines rockabilly todavia aparecen cerca de la entrada.\n\nLa bicicleta es la velocidad adecuada para esto. A pie cubriria solo una fraccion; en tren se saltaria todo lo intermedio, que es precisamente donde esta todo. Tambien resuelve el verdadero problema de navegacion de Tokio: los huecos entre estaciones son la parte que los visitantes nunca llenan.\n\nBueno para quienes visitan por primera vez y quieren orientacion, e igualmente bueno para quienes repiten y ya han hecho la lista tipica y quieren saber que hay detras.\n\nEs menos adecuado si no ha montado en bicicleta en anos. La ruta usa calles reales con trafico real, asi que hay que ser un ciclista seguro; la edad minima suele ser de 12 anos y los cascos se proporcionan y son obligatorios. Las salidas por la manana son notablemente mas comodas durante el verano, y el domingo trae tanto a los artistas del parque como a la multitud mas densa de Harajuku.",
+  "highlights": [],
+  "included": [
+   "Bicicleta de calidad para todo el recorrido, guia local de habla inglesa, casco, seguro de bicicleta, paradas para fotos durante todo el trayecto"
+  ],
+  "notIncluded": [
+   "Traslados de hotel, comida y bebida, posibles tarifas de entrada, propinas"
+  ]
+ },
+ "shibuya-crossing-crossing-photography-tour": {
+  "title": "Paseo en kart por el cruce de Shibuya con paradas fotograficas",
+  "metaTitle": "Kart por el cruce de Shibuya con fotos",
+  "metaDescription": "La forma corta y barata de hacerlo: una hora, directo al cruce de Shibuya y Harajuku, con disfraz puesto y fotos tomadas.",
+  "shortDescription": "La forma corta y barata de hacerlo: una hora, directo al cruce de Shibuya y Harajuku, con disfraz puesto y fotos tomadas.",
+  "fullDescription": "Si solo quiere esa unica foto, usted, disfrazado, en un kart, en medio del cruce de Shibuya, este es el tour que le lleva exactamente ahi sin rellenar el resto.\n\nUna hora, un circuito ajustado, y el propio cruce como pieza central. El scramble de Shibuya gestiona hasta 3.000 personas en un solo cambio de semaforo y cerca de medio millon al dia, y atravesarlo a nivel de calle con peatones inundando desde todos los lados es realmente distinto a cualquier otra cosa en la ciudad. Hachiko, el Akita que esperaba en la estacion y que se alza en bronce aqui desde 1934, esta a pocos metros de donde pasa el grupo.\n\nEl resto del circuito sube por Harajuku y a lo largo de Omotesando, la ancha avenida bordeada de zelkovas que los habitantes de Tokio llaman sus Campos Eliseos y que se trazo como acceso al santuario Meiji. Es el tramo mas facil de la hora y le da al guia espacio despejado para fotografiar al grupo en movimiento, mientras que las calles mas estrechas de Harajuku alrededor de Takeshita-dori aportan la multitud.\n\nDisfraz, casco y fotos estan incluidos. Lo unico que no lo esta, y que ya no se puede arreglar una vez alli, es el permiso: Japon exige un permiso de conducir internacional de la convencion de Ginebra, llevado fisicamente junto con su permiso de su pais y su pasaporte. Resuelvalo antes de volar, los escaneos y fotos de telefono se rechazan en el mostrador.\n\nLa edad minima es 18 anos, los karts son de un solo asiento, asi que cada uno conduce el suyo, y una lluvia ligera no es problema porque se proporcionan ponchos. Esta expuesto al clima durante todo el recorrido, asi que vistase segun la temperatura y no segun las fotos.",
+  "highlights": [],
+  "included": [
+   "Kart homologado para via publica y combustible, guia de habla inglesa que circula con el grupo, alquiler de disfraz, casco y charla de seguridad, fotos tomadas por su guia a lo largo de la ruta, seguro del vehiculo"
+  ],
+  "notIncluded": [
+   "Permiso de conducir internacional (gestionarlo antes de viajar), traslados de hotel, comida y bebida, propinas, gastos personales"
+  ]
+ },
+ "shibuya-crossing-evening-tour": {
+  "title": "Kart callejero por Tokio: paseo nocturno por el cruce de Shibuya y la torre de Tokio",
+  "metaTitle": "Kart nocturno por Shibuya y la torre de Tokio",
+  "metaDescription": "Conduzca un kart por el cruce de Shibuya y junto a la torre de Tokio iluminada, disfrazado, con un guia que marca el camino.",
+  "shortDescription": "Conduzca un kart homologado por el cruce de Shibuya y junto a una torre de Tokio iluminada, disfrazado, con un guia que marca el camino y fotografia todo el trayecto.",
+  "fullDescription": "Conducir por Tokio a la altura del asfalto es una ciudad completamente distinta a la que ve desde la ventana de un tren. Los karts son vehiculos matriculados para via publica, no atracciones de parque, lo que explica precisamente por que la ruta puede llevarle por trafico real y por el propio cruce de Shibuya en lugar de dar vueltas en un circuito cerrado.\n\nEl recorrido enlaza los lugares que realmente lucen bien a velocidad. La torre de Tokio es el punto culminante, 333 metros de enrejado naranja, mas alta que la torre Eiffel en la que se inspiro, e iluminada cada noche. Las amplias avenidas de Roppongi dejan que el grupo se extienda, Harajuku lo vuelve a estrechar todo, y el cruce de Shibuya llega como final, donde unos cientos de peatones bajan de la acera a su alrededor.\n\nSu guia conduce delante, marca el ritmo y se detiene en los puntos fotogenicos para fotografiarle. Los disfraces forman parte de ello y estan incluidos, es algo a lo que los conductores de Tokio simplemente se han acostumbrado a ver.\n\nUna cosa que resolver antes de volar: no puede hacer esto solo con su permiso de su pais. Japon exige un permiso de conducir internacional expedido bajo la convencion de Ginebra de 1949, llevado fisicamente junto a su permiso y su pasaporte. Consigalo en su propio pais antes de salir, ninguna tienda en Tokio puede emitirle uno.",
+  "highlights": [],
+  "included": [
+   "Kart homologado para via publica y combustible, guia de habla inglesa que circula con el grupo, alquiler de disfraz, casco y charla de seguridad, fotos tomadas por su guia a lo largo de la ruta, seguro del vehiculo"
+  ],
+  "notIncluded": [
+   "Permiso de conducir internacional (gestionarlo antes de viajar), traslados de hotel, comida y bebida, propinas, gastos personales"
+  ]
+ },
+ "shibuya-crossing-photography-tour": {
+  "title": "Shibuya tras el anochecer: paseo fotografico de neones privado con un fotografo local",
+  "metaTitle": "Paseo fotografico de neones en Shibuya de noche",
+  "metaDescription": "Una hora por las calles secundarias iluminadas de Shibuya con un fotografo que le retrata sobre la marcha, imagenes retocadas entregadas, sin maraton de poses.",
+  "shortDescription": "Una hora caminando por las calles secundarias iluminadas de Shibuya con un fotografo que le retrata sobre la marcha, imagenes retocadas entregadas, sin maraton de poses.",
+  "fullDescription": "Shibuya se fotografia mal si solo se capta el cruce. El famoso scramble son cinco segundos de un barrio mucho mas interesante una calle mas adentro, donde los carteles se aprietan, los callejones se estrechan hasta el ancho de los hombros y la luz se vuelve genuinamente cinematografica. Una hora basta para salir del encuadre obvio y entrar en el bueno.\n\nEsto es un paseo con un fotografo, no una sesion de fotos. Empieza en la estatua de Hachiko, instalada en 1934 por un perro que seguia volviendo a la estacion a esperar a su dueno, y que hoy es el punto de encuentro por defecto de todo el distrito. Desde ahi se mueve por Shibuya, el cruce, el muro de pantallas de Center Gai, y luego hacia los callejones de copas donde bares de madera de dos plantas sobreviven entre las torres, y las fotos se toman sobre la marcha. Algunas estan preparadas, la mayoria no. El objetivo son imagenes que parezcan una noche que realmente vivio, no una sesion de estudio celebrada al aire libre.\n\nNonbei Yokocho, el callejon de los borrachos, es lo que la mayoria se pierde. Unas pocas docenas de bares diminutos apretados a lo largo de dos callejones detras de la estacion, la mayoria con sitio para seis o siete personas, iluminados casi por completo con farolillos y maquinas expendedoras. Esta a un minuto del cruce y se siente como otra decada. Los callejones son estrechos y los bares son negocios en activo, asi que su fotografo mantiene al grupo compacto y en movimiento.\n\nLas fotos editadas se entregan digitalmente despues del paseo, retocadas e incluidas, no hay venta adicional por imagen al final, y los derechos de uso son suyos.\n\nSe realiza tras el anochecer para aprovechar los neones, asi que la hora de inicio varia segun la temporada. La lluvia ligera no es un problema y podria incluso ser mejor, ya que el asfalto mojado duplica cada letrero. La ropa mas oscura resalta bien contra los carteles.",
+  "highlights": [],
+  "included": [
+   "Fotografo local privado durante una hora, camara profesional e iluminacion, recorrido por los lugares destacados y calles secundarias de Shibuya, fotos digitales retocadas profesionalmente, entregadas tras el paseo, derechos de uso personal completos sobre sus imagenes"
+  ],
+  "notIncluded": [
+   "Traslados de hotel, comida y bebida, fotos impresas, propinas"
+  ]
+ },
+ "shibuya-crossing-premium-tour": {
+  "title": "Kart premium por las calles de Shibuya: cuarenta y cinco minutos a traves del cruce",
+  "metaTitle": "Kart premium por el cruce de Shibuya",
+  "metaDescription": "Cuarenta y cinco minutos, disfraz puesto, directo a traves del cruce de Shibuya con la torre de Tokio en el camino.",
+  "shortDescription": "Cuarenta y cinco minutos, disfraz puesto, directo a traves del cruce de Shibuya con la torre de Tokio en el camino.",
+  "fullDescription": "La version mas ajustada del recorrido en kart de Tokio. Cuarenta y cinco minutos en carretera, sin relleno, y las dos fotos que la gente realmente quiere: el cruce y la torre.\n\nSon vehiculos matriculados para via publica, lo que explica por que la ruta usa trafico real en lugar de un circuito cerrado. Se sienta bajo, mas o menos a la altura del paso de rueda de un coche, lo que hace que las calles normales de Tokio parezcan enormes. El cruce de Shibuya mueve hasta 3.000 personas en un solo cambio de semaforo, y atravesarlo a nivel de calle con peatones inundando desde todos los lados es la unica razon de ser de este tour. La torre de Tokio, 333 metros de enrejado naranja construida en 1958, aporta la otra fotografia.\n\nOmotesando ofrece el tramo facil, una amplia avenida bordeada de zelkovas trazada como acceso formal al santuario Meiji y hoy bordeada de tiendas insignia de disenadores, lo que le da al guia espacio despejado para fotografiar al grupo en movimiento, mientras que Harajuku aprieta las cosas antes del final.\n\nLos disfraces estan incluidos y son la mitad del atractivo. El papeleo no es opcional: Japon exige un permiso de conducir internacional expedido bajo la convencion de Ginebra de 1949, llevado fisicamente junto con su permiso de su pais y su pasaporte. Debe organizarse en su propio pais antes de volar, ninguna tienda en Tokio puede emitir uno, y los escaneos se rechazan en el mostrador.\n\nLa edad minima es 18 anos y los karts son de un solo asiento, asi que cada uno conduce el suyo y nadie viaja como pasajero. Esta expuesto al aire durante todo el recorrido, asi que vistase segun la temperatura y no segun las fotos. Con 45 minutos, esta es la ruta mas corta disponible.",
+  "highlights": [],
+  "included": [
+   "Kart homologado para via publica y combustible, guia de habla inglesa que circula con el grupo, alquiler de disfraz, casco y charla de seguridad, fotos tomadas por su guia, seguro del vehiculo"
+  ],
+  "notIncluded": [
+   "Permiso de conducir internacional (gestionarlo antes de viajar), traslados de hotel, comida y bebida, propinas"
+  ]
+ },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
   "title": "Recoleccion de fruta en Yoichi, la destileria Nikka y la costa de Shakotan",
   "metaTitle": "Recoleccion de fruta, destileria Nikka y costa de Shakotan",

@@ -60731,6 +60731,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Vos propres frais de train et de metro (environ 800 a 1500 yens), nourriture et boissons, frais d'entree eventuels, pourboires"
   ]
  },
+ "senso-ji-temple-highlights-guided-tour": {
+  "title": "Les incontournables de Tokyo en une demi-journee avec un guide local",
+  "metaTitle": "Incontournables de Tokyo en demi-journee",
+  "metaDescription": "Quatre heures pour couvrir l'essentiel : le temple le plus ancien, le carrefour le plus frequente et la foret du sanctuaire entre les deux.",
+  "shortDescription": "Quatre heures pour couvrir l'essentiel : le temple le plus ancien, le carrefour le plus frequente et la foret du sanctuaire entre les deux.",
+  "fullDescription": "Quatre heures, les trois choses que vous regretteriez de manquer, et un local pour rendre les transitions sans effort. C'est la visite ideale pour un court sejour, une escale, ou un premier apres-midi pendant que vous vous ajustez encore au decalage horaire.\n\nSenso-ji se tient a Asakusa depuis 645, ce qui en fait l'un des sites les plus anciens de la ville, et l'approche en descendant Nakamise-dori, passant devant l'enorme lanterne rouge du portail Kaminarimon et les rangees de petites echoppes qui le suivent, fait partie de l'experience plutot que d'etre une file a supporter. Le hall principal actuel est une reconstruction d'apres-guerre, l'original ayant brule lors des bombardements incendiaires de 1945.\n\nLe sanctuaire Meiji offre le registre inverse : silence, gravier sous les pieds, et une foret d'environ 100 000 arbres plantes a la main et offerts, concue dans les annees 1920 pour avoir exactement cet aspect aujourd'hui, ses concepteurs ayant choisi des especes capables de murir en une foret autosuffisante sur un siecle. Le carrefour de Shibuya, lui, n'a besoin d'aucune presentation.\n\nCe a quoi le guide sert vraiment, c'est le tissu de liaison : quel train, quelle sortie, quel cote de la rue, et le commentaire continu qui transforme trois sites separes en une seule image coherente du fonctionnement de Tokyo.\n\nAttendez-vous a 4 a 6 km de marche en plus des trajets en train, donc signalez vos besoins de mobilite a la reservation. Apportez une carte Suica ou Pasmo chargee et des especes pour les offrandes et les petites boutiques, et gardez les epaules couvertes, les deux sites etant des lieux de culte actifs. La foret du sanctuaire est un vrai refuge contre la chaleur de l'ete ; le carrefour est a son meilleur quand la lumiere baisse.\n\nElle fonctionne aussi tres bien comme orientation. Faites-la le premier jour et le reste du voyage en devient plus facile.",
+  "highlights": [],
+  "included": [
+   "Guide local anglophone pendant quatre heures, planification de l'itineraire selon vos interets, frais de transport du guide, aide a la navigation dans les trains et le metro"
+  ],
+  "notIncluded": [
+   "Vos propres frais de train et de metro, nourriture et boissons, frais d'entree eventuels, pourboires"
+  ]
+ },
+ "shibuya-backstreets-bike-tour": {
+  "title": "Shibuya et Harajuku a velo : trois heures dans les ruelles",
+  "metaTitle": "Shibuya et Harajuku a velo",
+  "metaDescription": "Shibuya et Harajuku sont bien plus vastes que les deux rues que tout le monde parcourt. Un velo vous fait decouvrir le reste en trois heures.",
+  "shortDescription": "Shibuya et Harajuku sont bien plus vastes que les deux rues que tout le monde parcourt. Un velo vous fait decouvrir le reste en trois heures.",
+  "fullDescription": "Presque tous ceux qui visitent Shibuya voient les memes 500 metres : le carrefour, Center Gai, peut-etre la rue Takeshita a Harajuku. Les quartiers s'etendent sur des kilometres dans toutes les directions et les meilleures parties se trouvent surtout entre deux, dans des rues ou un visiteur de premiere fois n'a aucune raison de s'engager.\n\nCette balade commence pres de Shinjuku, a dix minutes a pied de la gare, et traverse vers le sud toute la zone. Les ruelles derriere Shibuya regorgent de torrefacteurs de cafe independants, de disquaires et de minuscules galeries, aucun ne pouvant survivre aux loyers de l'avenue principale. Omotesando vous offre l'architecture, une serie de boutiques phares signees Ando, SANAA et Herzog & de Meuron le long de l'avenue bordee de zelkovas, qui equivaut a un musee en plein air du design japonais contemporain, chacune apportant une reponse differente a la meme parcelle etroite. Le parc Yoyogi offre la pause, et le dimanche les danseurs rockabilly se produisent encore pres de l'entree.\n\nLe velo est la bonne vitesse pour cela. A pied, vous n'en couvririez qu'une fraction ; en train, vous sauteriez tout l'entre-deux, qui est pourtant l'endroit ou tout se trouve vraiment. Cela resout aussi le vrai probleme de navigation de Tokyo : les ecarts entre les stations sont la partie que les visiteurs ne comblent jamais.\n\nIdeal pour les primo-visiteurs qui veulent une orientation, et tout aussi bon pour les visiteurs reguliers qui ont deja fait la liste classique et veulent savoir ce qu'il y a derriere.\n\nC'est moins adapte si vous n'avez pas fait de velo depuis des annees. L'itineraire utilise des rues reelles avec une circulation reelle, donc il faut etre un cycliste confiant ; l'age minimum est generalement de 12 ans et les casques sont fournis et obligatoires. Les departs matinaux sont nettement plus agreables en ete, et le dimanche apporte a la fois les artistes du parc et la foule la plus dense de Harajuku.",
+  "highlights": [],
+  "included": [
+   "Velo de qualite pour toute la visite, guide local anglophone, casque, assurance velo, arrets photo tout au long du parcours"
+  ],
+  "notIncluded": [
+   "Transferts hotel, nourriture et boissons, frais d'entree eventuels, pourboires"
+  ]
+ },
+ "shibuya-crossing-crossing-photography-tour": {
+  "title": "Tour en kart au carrefour de Shibuya avec arrets photo",
+  "metaTitle": "Kart au carrefour de Shibuya avec photos",
+  "metaDescription": "La maniere courte et abordable de le faire : une heure, direction le carrefour de Shibuya et Harajuku, costume et photos a la cle.",
+  "shortDescription": "La maniere courte et abordable de le faire : une heure, direction le carrefour de Shibuya et Harajuku, costume et photos a la cle.",
+  "fullDescription": "Si vous ne voulez que ce cliche unique, vous, en costume, dans un kart, au milieu du carrefour de Shibuya, c'est la visite qui vous y amene sans rien y ajouter en trop.\n\nUne heure, une boucle serree, et le carrefour lui-meme comme piece maitresse. Le passage pieton de Shibuya gere jusqu'a 3 000 personnes a chaque changement de feu et pres d'un demi-million par jour, et le traverser au niveau de la route avec des pietons deferlant de tous les cotes est vraiment different de tout le reste de la ville. Hachiko, l'Akita qui attendait a la gare et qui se dresse en bronze ici depuis 1934, se trouve a quelques metres de l'endroit ou passe le groupe.\n\nLe reste de la boucle remonte a travers Harajuku et le long d'Omotesando, la large avenue bordee de zelkovas que les habitants de Tokyo appellent leurs Champs-Elysees et qui a ete tracee comme voie d'acces au sanctuaire Meiji. C'est le trajet le plus facile de l'heure et il laisse au guide l'espace pour photographier le groupe en mouvement, tandis que les rues plus etroites de Harajuku autour de Takeshita-dori fournissent la foule.\n\nCostume, casque et photos sont inclus. La seule chose qui ne l'est pas, et qui ne peut plus se regler une fois sur place, c'est le permis : le Japon exige un permis de conduire international de la convention de Geneve, porte physiquement avec votre permis national et votre passeport. Reglez cela avant de prendre l'avion, les scans et photos de telephone sont refuses au comptoir.\n\nL'age minimum est de 18 ans, les karts sont monoplaces donc chacun conduit le sien, et une pluie legere ne pose pas de probleme, des ponchos etant fournis. Vous etes exposes aux intemperies tout au long, donc habillez-vous selon la temperature plutot que pour les photos.",
+  "highlights": [],
+  "included": [
+   "Kart homologue route et carburant, guide anglophone roulant avec le groupe, location de costume, casque et briefing de securite, photos prises par votre guide le long du parcours, assurance vehicule"
+  ],
+  "notIncluded": [
+   "Permis de conduire international (a organiser avant le depart), transferts hotel, nourriture et boissons, pourboires, depenses personnelles"
+  ]
+ },
+ "shibuya-crossing-evening-tour": {
+  "title": "Kart dans les rues de Tokyo : balade nocturne au carrefour de Shibuya et vers la tour de Tokyo",
+  "metaTitle": "Kart nocturne a Shibuya et la tour de Tokyo",
+  "metaDescription": "Conduisez un kart homologue a travers le carrefour de Shibuya et devant la tour de Tokyo illuminee, en costume, avec un guide qui ouvre la route.",
+  "shortDescription": "Conduisez un kart homologue a travers le carrefour de Shibuya et devant une tour de Tokyo illuminee, en costume, avec un guide qui ouvre la route et photographie tout le trajet.",
+  "fullDescription": "Rouler a travers Tokyo au niveau du bitume offre une ville completement differente de celle que vous voyez depuis une fenetre de train. Les karts sont des vehicules homologues route, pas des manieges de parc d'attractions, ce qui explique precisement pourquoi l'itineraire peut vous faire traverser une circulation reelle et le carrefour de Shibuya lui-meme plutot que de tourner autour d'une piste.\n\nLe circuit relie les sites qui sont vraiment beaux a prendre en vitesse. La tour de Tokyo est le point culminant, 333 metres de treillis orange, plus haute que la tour Eiffel dont elle s'est inspiree, et illuminee chaque nuit. Les larges avenues de Roppongi laissent le groupe se deployer, Harajuku resserre a nouveau tout, et le carrefour de Shibuya arrive en finale, ou quelques centaines de pietons descendent du trottoir autour de vous.\n\nVotre guide roule en tete, donne le rythme et s'arrete aux points photogeniques pour vous photographier. Les costumes en font partie et sont inclus, c'est la chose a laquelle les automobilistes de Tokyo se sont simplement habitues.\n\nUne chose a regler avant l'avion : vous ne pouvez pas le faire avec votre seul permis national. Le Japon exige un permis de conduire international delivre selon la convention de Geneve de 1949, porte physiquement avec votre permis et votre passeport. Obtenez-le dans votre pays avant le depart, aucune boutique a Tokyo ne peut vous en delivrer un.",
+  "highlights": [],
+  "included": [
+   "Kart homologue route et carburant, guide anglophone roulant avec le groupe, location de costume, casque et briefing de securite, photos prises par votre guide le long du parcours, assurance vehicule"
+  ],
+  "notIncluded": [
+   "Permis de conduire international (a organiser avant le depart), transferts hotel, nourriture et boissons, pourboires, depenses personnelles"
+  ]
+ },
+ "shibuya-crossing-photography-tour": {
+  "title": "Shibuya apres la nuit tombee : balade photo neon privee avec un photographe local",
+  "metaTitle": "Balade photo neon a Shibuya la nuit",
+  "metaDescription": "Une heure a marcher dans les ruelles illuminees de Shibuya avec un photographe qui vous photographie en chemin, images retouchees livrees, sans marathon de pose.",
+  "shortDescription": "Une heure a marcher dans les ruelles illuminees de Shibuya avec un photographe qui vous photographie en chemin, images retouchees livrees, sans marathon de pose.",
+  "fullDescription": "Shibuya se photographie mal si vous ne shootez que le carrefour. Le fameux passage pieton n'est que cinq secondes d'un quartier bien plus interessant une rue plus loin, ou les enseignes se resserrent, les ruelles se retrecissent jusqu'a la largeur des epaules et la lumiere devient veritablement cinematographique. Une heure suffit pour sortir du cadre evident et entrer dans le bon.\n\nC'est une promenade avec un photographe plutot qu'une seance photo. Vous commencez a la statue de Hachiko, installee en 1934 pour un chien qui revenait sans cesse a la gare attendre son maitre, et qui est aujourd'hui le point de rendez-vous par defaut de tout le quartier. De la, vous traversez Shibuya, le carrefour, le mur d'ecrans de Center Gai, puis les ruelles a boire ou des bars en bois de deux etages survivent entre les tours, et les photos sont prises en chemin. Certaines sont mises en scene, la plupart non. Le but, ce sont des images qui ressemblent a une soiree que vous avez vraiment vecue, pas a une seance de studio tenue en exterieur.\n\nNonbei Yokocho, l'allee des ivrognes, est ce que la plupart des gens manquent. Quelques dizaines de minuscules bars serres le long de deux ruelles derriere la gare, la plupart n'accueillant que six ou sept personnes, eclaires presque entierement par des lanternes et des distributeurs automatiques. C'est a une minute du carrefour et on s'y sent dans une autre decennie. Les ruelles sont etroites et les bars sont de vrais commerces en activite, donc votre photographe garde le groupe compact en le faisant avancer.\n\nLes photos retouchees sont livrees numeriquement apres la balade, incluses sans supplement, il n'y a pas de vente additionnelle par image a la fin, et les droits d'utilisation vous appartiennent.\n\nElle se deroule apres la nuit tombee pour profiter des neons, donc l'heure de depart varie selon la saison. Une pluie legere n'est pas un probleme et serait meme preferable, l'asphalte mouille doublant l'effet de chaque enseigne. Des vetements plus sombres se detachent bien sur les enseignes.",
+  "highlights": [],
+  "included": [
+   "Photographe local prive pendant une heure, appareil photo professionnel et eclairage, parcours a travers les sites et ruelles de Shibuya, photos numeriques retouchees professionnellement, livrees apres la balade, droits d'usage personnel complets sur vos images"
+  ],
+  "notIncluded": [
+   "Transferts hotel, nourriture et boissons, photos imprimees, pourboires"
+  ]
+ },
+ "shibuya-crossing-premium-tour": {
+  "title": "Kart premium dans les rues de Shibuya : quarante-cinq minutes a travers le carrefour",
+  "metaTitle": "Kart premium au carrefour de Shibuya",
+  "metaDescription": "Quarante-cinq minutes, costume sur le dos, directement a travers le carrefour de Shibuya avec la tour de Tokyo sur le trajet.",
+  "shortDescription": "Quarante-cinq minutes, costume sur le dos, directement a travers le carrefour de Shibuya avec la tour de Tokyo sur le trajet.",
+  "fullDescription": "La version la plus condensee du parcours en kart de Tokyo. Quarante-cinq minutes sur la route, sans remplissage, et les deux cliches que tout le monde veut vraiment : le carrefour et la tour.\n\nCe sont des vehicules homologues route, ce qui explique pourquoi l'itineraire utilise une circulation reelle plutot qu'une piste fermee. Vous etes assis bas, a peu pres a la hauteur du passage de roue d'une voiture, ce qui rend les rues ordinaires de Tokyo immenses. Le carrefour de Shibuya fait passer jusqu'a 3 000 personnes a chaque changement de feu, et le traverser au niveau de la route avec des pietons deferlant de tous les cotes est la seule raison d'etre de cette visite. La tour de Tokyo, 333 metres de treillis orange construite en 1958, offre l'autre photo.\n\nOmotesando fournit le trajet facile, une large avenue bordee de zelkovas tracee comme voie d'acces officielle au sanctuaire Meiji et aujourd'hui bordee de boutiques phares de designers, ce qui laisse au guide l'espace pour photographier le groupe en mouvement, tandis que Harajuku resserre les choses avant l'arrivee.\n\nLes costumes sont inclus et constituent la moitie de l'interet. Les papiers ne sont pas optionnels : le Japon exige un permis de conduire international delivre selon la convention de Geneve de 1949, porte physiquement avec votre permis national et votre passeport. Il doit etre organise dans votre propre pays avant le depart, aucune boutique a Tokyo ne peut en delivrer un, et les scans sont refuses au comptoir.\n\nL'age minimum est de 18 ans et les karts sont monoplaces, donc chacun conduit le sien et personne ne monte en passager. Vous etes exposes a l'air tout au long, donc habillez-vous selon la temperature plutot que pour les photos. A 45 minutes, c'est l'itineraire le plus court disponible.",
+  "highlights": [],
+  "included": [
+   "Kart homologue route et carburant, guide anglophone roulant avec le groupe, location de costume, casque et briefing de securite, photos prises par votre guide, assurance vehicule"
+  ],
+  "notIncluded": [
+   "Permis de conduire international (a organiser avant le depart), transferts hotel, nourriture et boissons, pourboires"
+  ]
+ },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
   "title": "Cueillette de fruits a Yoichi, distillerie Nikka et cote de Shakotan",
   "metaTitle": "Cueillette, distillerie Nikka et cote de Shakotan",

@@ -60731,6 +60731,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Ihre eigenen Zug- und U-Bahn-Fahrten (etwa 800 bis 1500 Yen), Essen und Getraenke, eventuelle Eintrittsgebuehren, Trinkgelder"
   ]
  },
+ "senso-ji-temple-highlights-guided-tour": {
+  "title": "Tokios Highlights in einem halben Tag mit einem ortskundigen Fuehrer",
+  "metaTitle": "Tokios Highlights in einem halben Tag",
+  "metaDescription": "Vier Stunden fuer das Wesentliche: der aelteste Tempel, die belebteste Kreuzung und der Schreinwald dazwischen.",
+  "shortDescription": "Vier Stunden fuer das Wesentliche: der aelteste Tempel, die belebteste Kreuzung und der Schreinwald dazwischen.",
+  "fullDescription": "Vier Stunden, die drei Dinge, die Sie bereuen wuerden zu verpassen, und ein Ortskundiger, der die Uebergaenge muehelos macht. Das ist die Tour fuer einen kurzen Aufenthalt, einen Zwischenstopp oder einen ersten Nachmittag, waehrend Sie sich noch an die Zeitverschiebung gewoehnen.\n\nDer Senso-ji steht seit 645 in Asakusa, was ihn zu einem der aeltesten Orte der Stadt macht, und der Zugang entlang Nakamise-dori, vorbei an der riesigen roten Laterne des Kaminarimon-Tors und den Reihen kleiner Staende dahinter, ist Teil des Erlebnisses und keine Warteschlange, die man ertragen muss. Die heutige Haupthalle ist ein Wiederaufbau aus der Nachkriegszeit, nachdem das Original bei der Brandbombardierung von 1945 niedergebrannt war.\n\nDer Meiji-Schrein bietet das Gegenteil: Stille, Kies unter den Fuessen, und ein Wald aus rund 100.000 handgepflanzten, gespendeten Baeumen, der in den 1920er Jahren so gestaltet wurde, dass er heute genau so aussieht, wobei die Planer Arten waehlten, die sich innerhalb eines Jahrhunderts zu einem selbsterhaltenden Wald entwickeln wuerden. Die Shibuya-Kreuzung braucht keine Einfuehrung.\n\nWozu der Fuehrer wirklich da ist, ist das Verbindungsgewebe: welcher Zug, welcher Ausgang, welche Strassenseite, und der fortlaufende Kommentar, der drei getrennte Sehenswuerdigkeiten in ein zusammenhaengendes Bild davon verwandelt, wie Tokio funktioniert.\n\nRechnen Sie mit 4 bis 6 km zu Fuss zusaetzlich zu den Zugfahrten, erwaehnen Sie also bei der Buchung etwaige Mobilitaetsbeduerfnisse. Bringen Sie eine aufgeladene Suica oder Pasmo und Bargeld fuer Opfergaben und kleine Laeden mit, und halten Sie die Schultern bedeckt, beide Orte sind aktive Gebetsstaetten. Der Schreinwald ist im Sommer ein echter Zufluchtsort vor der Hitze; die Kreuzung ist am schoensten, wenn das Licht abnimmt.\n\nSie funktioniert auch gut als Orientierung. Machen Sie sie am ersten Tag, und der Rest der Reise wird leichter.",
+  "highlights": [],
+  "included": [
+   "Englischsprachiger ortskundiger Fuehrer fuer vier Stunden, Routenplanung nach Ihren Interessen, Transportkosten des Fuehrers, Navigationshilfe in Zuegen und U-Bahnen"
+  ],
+  "notIncluded": [
+   "Ihre eigenen Zug- und U-Bahn-Fahrten, Essen und Getraenke, eventuelle Eintrittsgebuehren, Trinkgelder"
+  ]
+ },
+ "shibuya-backstreets-bike-tour": {
+  "title": "Shibuya und Harajuku per Rad: Drei Stunden durch die Nebenstrassen",
+  "metaTitle": "Shibuya und Harajuku per Rad",
+  "metaDescription": "Shibuya und Harajuku sind weit groesser als die zwei Strassen, die jeder entlanglaeuft. Ein Rad bringt Sie in drei Stunden in den Rest davon.",
+  "shortDescription": "Shibuya und Harajuku sind weit groesser als die zwei Strassen, die jeder entlanglaeuft. Ein Rad bringt Sie in drei Stunden in den Rest davon.",
+  "fullDescription": "Fast jeder, der Shibuya besucht, sieht dieselben 500 Meter: die Kreuzung, Center Gai, vielleicht die Takeshita-Strasse in Harajuku. Die Viertel erstrecken sich kilometerweit in alle Richtungen, und die guten Teile liegen meist dazwischen, in Strassen, in die ein Erstbesucher keinen Grund hat einzubiegen.\n\nDiese Radtour beginnt nahe Shinjuku, zehn Gehminuten vom Bahnhof entfernt, und arbeitet sich nach Sueden durch das gesamte Gebiet. Die Nebenstrassen hinter Shibuya sind voll von unabhaengigen Kaffeeroestereien, Plattenlaeden und winzigen Galerien, von denen keine die Mieten der Hauptstrasse ueberleben wuerde. Omotesando liefert die Architektur, eine Reihe von Flagship-Stores von Ando, SANAA und Herzog & de Meuron entlang der mit Zelkoven bepflanzten Allee, die einem Freiluftmuseum des zeitgenoessischen japanischen Designs gleichkommt, jeder davon eine andere Antwort auf dasselbe schmale Grundstueck. Der Yoyogi-Park bietet die Pause, und sonntags tauchen die Rockabilly-Taenzer immer noch in der Naehe des Eingangs auf.\n\nRadfahren ist genau das richtige Tempo dafuer. Zu Fuss wuerden Sie nur einen Bruchteil davon abdecken; mit dem Zug wuerden Sie alles dazwischen ueberspringen, wo sich eigentlich alles befindet. Es loest auch Tokios eigentliches Navigationsproblem: die Luecken zwischen den Bahnhoefen sind der Teil, den Besucher nie ausfuellen.\n\nGut fuer Erstbesucher, die eine Orientierung wollen, und ebenso gut fuer Wiederholungsbesucher, die die Checkliste schon abgearbeitet haben und wissen wollen, was dahinter liegt.\n\nWeniger gut, wenn Sie seit Jahren nicht mehr Rad gefahren sind. Die Route nutzt echte Strassen mit echtem Verkehr, daher muessen Sie ein sicherer Radfahrer sein; das Mindestalter liegt in der Regel bei 12 Jahren, und Helme werden gestellt und sind Pflicht. Morgenabfahrten sind im Sommer merklich angenehmer, und sonntags bringt es sowohl die Kuenstler im Park als auch das dichteste Gedraenge in Harajuku.",
+  "highlights": [],
+  "included": [
+   "Hochwertiges Fahrrad fuer die gesamte Tour, englischsprachiger ortskundiger Fuehrer, Helm, Fahrradversicherung, Fotostopps unterwegs"
+  ],
+  "notIncluded": [
+   "Hoteltransfers, Essen und Getraenke, eventuelle Eintrittsgebuehren, Trinkgelder"
+  ]
+ },
+ "shibuya-crossing-crossing-photography-tour": {
+  "title": "Go-Kart-Fahrt an der Shibuya-Kreuzung mit Fotostopps",
+  "metaTitle": "Go-Kart an der Shibuya-Kreuzung mit Fotos",
+  "metaDescription": "Die kurze, guenstige Variante: eine Stunde, direkt zur Shibuya-Kreuzung und nach Harajuku, Kostuem an und Fotos gemacht.",
+  "shortDescription": "Die kurze, guenstige Variante: eine Stunde, direkt zur Shibuya-Kreuzung und nach Harajuku, Kostuem an und Fotos gemacht.",
+  "fullDescription": "Wenn Sie nur den einen Schnappschuss wollen, Sie, im Kostuem, im Kart, mitten in der Shibuya-Kreuzung, ist das die Tour, die Sie genau dorthin bringt, ohne den Rest aufzublasen.\n\nEine Stunde, eine enge Runde, und die Kreuzung selbst als Hoehepunkt. Shibuyas Scramble bewaeltigt bis zu 3.000 Menschen bei einem einzigen Ampelwechsel und fast eine halbe Million am Tag, und sie auf Strassenebene zu durchqueren, waehrend Passanten von allen Seiten vorbeistroemen, ist wirklich wie nichts anderes in der Stadt. Hachiko, der Akita, der am Bahnhof wartete und hier seit 1934 in Bronze steht, befindet sich nur wenige Meter von der Stelle, an der die Gruppe vorbeifaehrt.\n\nDer Rest der Runde fuehrt hinauf durch Harajuku und entlang der Omotesando, der breiten, mit Zelkoven bepflanzten Allee, die die Einwohner Tokios ihre Champs-Elysees nennen und die als Zufahrt zum Meiji-Schrein angelegt wurde. Das ist der leichteste Streckenabschnitt der Stunde und gibt dem Fuehrer freien Raum, die Gruppe in Bewegung zu fotografieren, waehrend die engeren Strassen von Harajuku rund um Takeshita-dori die Menschenmengen liefern.\n\nKostuem, Helm und Fotos sind inbegriffen. Das Einzige, was es nicht ist und sich vor Ort nicht mehr beheben laesst, ist der Fuehrerschein: Japan verlangt einen Internationalen Fuehrerschein nach der Genfer Konvention, physisch mitgefuehrt zusammen mit Ihrem Heimatfuehrerschein und Ihrem Pass. Klaeren Sie das vor dem Abflug, Scans und Handyfotos werden am Schalter abgelehnt.\n\nDas Mindestalter ist 18, die Karts sind Einsitzer, sodass jeder seinen eigenen faehrt, und leichter Regen ist kein Problem, da Ponchos bereitgestellt werden. Sie sind die ganze Zeit dem Wetter ausgesetzt, kleiden Sie sich also nach der Temperatur und nicht nach den Fotos.",
+  "highlights": [],
+  "included": [
+   "Strassenzugelassener Go-Kart und Treibstoff, englischsprachiger Fuehrer, der mit der Gruppe faehrt, Kostuemverleih, Helm und Sicherheitseinweisung, Fotos aufgenommen von Ihrem Fuehrer entlang der Strecke, Fahrzeugversicherung"
+  ],
+  "notIncluded": [
+   "Internationaler Fuehrerschein (vor der Abreise organisieren), Hoteltransfers, Essen und Getraenke, Trinkgelder, persoenliche Ausgaben"
+  ]
+ },
+ "shibuya-crossing-evening-tour": {
+  "title": "Tokio-Strassen-Go-Kart: Nachtfahrt durch die Shibuya-Kreuzung und am Tokyo Tower vorbei",
+  "metaTitle": "Nacht-Go-Kart durch Shibuya und den Tokyo Tower",
+  "metaDescription": "Fahren Sie einen Kart durch die Shibuya-Kreuzung und vorbei am beleuchteten Tokyo Tower, im Kostuem, mit einem Fuehrer, der voranfaehrt.",
+  "shortDescription": "Fahren Sie einen strassenzugelassenen Kart durch die Shibuya-Kreuzung und vorbei an einem beleuchteten Tokyo Tower, im Kostuem, mit einem Fuehrer, der voranfaehrt und den ganzen Weg Fotos macht.",
+  "fullDescription": "Durch Tokio auf Augenhoehe mit dem Asphalt zu fahren, ist eine voellig andere Stadt als die, die Sie aus einem Zugfenster sehen. Die Karts sind strassenzugelassene Fahrzeuge, keine Freizeitpark-Fahrgeschaefte, weshalb die Route Sie genau deshalb durch echten Verkehr und ueber die Shibuya-Kreuzung selbst fuehren kann, statt um eine Rennstrecke zu kreisen.\n\nDer Rundkurs verbindet die Sehenswuerdigkeiten, die bei Geschwindigkeit wirklich gut aussehen. Der Tokyo Tower ist der Hoehepunkt, 333 Meter orangefarbenes Gitterwerk, hoeher als der Eiffelturm, dem er nachempfunden wurde, und jede Nacht beleuchtet. Roppongis breite Avenuen lassen die Gruppe sich ausbreiten, Harajuku zieht alles wieder enger zusammen, und die Shibuya-Kreuzung kommt als Finale, wo ein paar hundert Fussgaenger um Sie herum vom Buergersteig treten.\n\nIhr Fuehrer faehrt voraus, gibt das Tempo vor und haelt an den fotogenen Punkten, um Sie zu fotografieren. Kostueme gehoeren dazu und sind inbegriffen, das ist etwas, an das sich Autofahrer in Tokio einfach gewoehnt haben.\n\nEine Sache vor dem Abflug zu klaeren: Mit Ihrem Heimatfuehrerschein allein geht das nicht. Japan verlangt einen Internationalen Fuehrerschein nach der Genfer Konvention von 1949, physisch mitgefuehrt zusammen mit Ihrem Fuehrerschein und Ihrem Pass. Besorgen Sie ihn in Ihrem eigenen Land vor der Abreise, kein Geschaeft in Tokio kann Ihnen einen ausstellen.",
+  "highlights": [],
+  "included": [
+   "Strassenzugelassener Go-Kart und Treibstoff, englischsprachiger Fuehrer, der mit der Gruppe faehrt, Kostuemverleih, Helm und Sicherheitseinweisung, Fotos aufgenommen von Ihrem Fuehrer entlang der Strecke, Fahrzeugversicherung"
+  ],
+  "notIncluded": [
+   "Internationaler Fuehrerschein (vor der Abreise organisieren), Hoteltransfers, Essen und Getraenke, Trinkgelder, persoenliche Ausgaben"
+  ]
+ },
+ "shibuya-crossing-photography-tour": {
+  "title": "Shibuya nach Einbruch der Dunkelheit: Privater Neon-Fotospaziergang mit einem lokalen Fotografen",
+  "metaTitle": "Neon-Fotospaziergang in Shibuya bei Nacht",
+  "metaDescription": "Eine Stunde durch Shibuyas beleuchtete Nebenstrassen mit einem Fotografen, der Sie im Gehen fotografiert, retuschierte Bilder werden geliefert, kein Posier-Marathon.",
+  "shortDescription": "Eine Stunde durch Shibuyas beleuchtete Nebenstrassen mit einem Fotografen, der Sie im Gehen fotografiert, retuschierte Bilder werden geliefert, kein Posier-Marathon.",
+  "fullDescription": "Shibuya fotografiert sich schlecht, wenn Sie nur die Kreuzung ablichten. Das beruehmte Gewimmel sind fuenf Sekunden eines Viertels, das eine Strasse weiter viel interessanter ist, wo die Beschilderung sich verdichtet, die Gassen sich auf Schulterbreite verengen und das Licht wirklich kinoreif wird. Eine Stunde reicht, um aus dem offensichtlichen Bild herauszukommen und ins gute hineinzukommen.\n\nDies ist ein Spaziergang mit einem Fotografen, kein Fotoshooting. Sie beginnen an der Hachiko-Statue, aufgestellt 1934 fuer einen Hund, der immer wieder zum Bahnhof zurueckkam, um auf seinen Besitzer zu warten, und die heute der Standardtreffpunkt fuer das gesamte Viertel ist. Von dort bewegen Sie sich durch Shibuya, die Kreuzung, Center Gais Wand aus Bildschirmen, dann hinein in die Trinkgassen, wo zweistoeckige Holzbars zwischen den Tuermen ueberlebt haben, und die Aufnahmen entstehen im Gehen. Manche sind gestellt, die meisten nicht. Der Punkt sind Bilder, die wie ein Abend aussehen, den Sie tatsaechlich hatten, nicht wie eine Studiositzung im Freien.\n\nNonbei Yokocho, die \"Gasse der Trinker\", ist das, was die meisten verpassen. Ein paar Dutzend winzige Bars, eng aneinandergedraengt entlang zwei Gassen hinter dem Bahnhof, die meisten mit Platz fuer sechs oder sieben Personen, beleuchtet fast ausschliesslich von Laternen und Automaten. Es ist eine Minute von der Kreuzung entfernt und fuehlt sich wie ein anderes Jahrzehnt an. Die Gassen sind eng und die Bars sind aktive Geschaefte, daher haelt Ihr Fotograf die Gruppe eng zusammen und in Bewegung.\n\nBearbeitete Fotos werden nach dem Spaziergang digital geliefert, retuschiert und inbegriffen, es gibt am Ende keinen Zusatzverkauf pro Bild, und die Nutzungsrechte gehoeren Ihnen.\n\nSie findet nach Einbruch der Dunkelheit wegen der Neonlichter statt, daher verschiebt sich die Startzeit je nach Jahreszeit. Leichter Regen ist kein Problem und ist eigentlich sogar besser, da nasser Asphalt jede Leuchtreklame verdoppelt. Dunklere Kleidung wirkt gut vor den Leuchtreklamen.",
+  "highlights": [],
+  "included": [
+   "Privater lokaler Fotograf fuer eine Stunde, professionelle Kamera und Beleuchtung, Route durch Shibuyas Sehenswuerdigkeiten und Nebenstrassen, professionell retuschierte digitale Fotos, geliefert nach dem Spaziergang, volle persoenliche Nutzungsrechte an Ihren Bildern"
+  ],
+  "notIncluded": [
+   "Hoteltransfers, Essen und Getraenke, gedruckte Fotos, Trinkgelder"
+  ]
+ },
+ "shibuya-crossing-premium-tour": {
+  "title": "Shibuya Premium Strassen-Kart: 45 Minuten durch die Kreuzung",
+  "metaTitle": "Premium-Kart durch die Shibuya-Kreuzung",
+  "metaDescription": "Fuenfundvierzig Minuten, Kostuem an, direkt durch die Shibuya-Kreuzung mit dem Tokyo Tower auf dem Weg.",
+  "shortDescription": "Fuenfundvierzig Minuten, Kostuem an, direkt durch die Shibuya-Kreuzung mit dem Tokyo Tower auf dem Weg.",
+  "fullDescription": "Die straffste Version der Tokio-Kart-Tour. Fuenfundvierzig Minuten auf der Strasse, ohne Fuellmaterial, und die zwei Aufnahmen, die Leute wirklich wollen: die Kreuzung und der Turm.\n\nDas sind strassenzugelassene Fahrzeuge, weshalb die Route echten Verkehr statt einer geschlossenen Strecke nutzt. Sie sitzen tief, etwa auf Hoehe des Radkastens eines Autos, was gewoehnliche Tokio-Strassen riesig wirken laesst. Die Shibuya-Kreuzung bewegt bis zu 3.000 Menschen bei einem einzigen Ampelwechsel, und sie auf Strassenebene zu durchqueren, waehrend Passanten von allen Seiten vorbeistroemen, ist der ganze Grund, warum es das gibt. Der Tokyo Tower, 333 Meter orangefarbenes Gitterwerk, gebaut 1958, liefert die andere Aufnahme.\n\nOmotesando bietet die leichte Fahrt, eine breite, mit Zelkoven bepflanzte Allee, angelegt als formeller Zugang zum Meiji-Schrein und heute gesaeumt von Designer-Flagship-Stores, was dem Fuehrer freien Raum gibt, die Gruppe in Bewegung zu fotografieren, waehrend Harajuku vor dem Ziel alles wieder enger macht.\n\nKostueme sind inbegriffen und machen die Haelfte des Reizes aus. Die Papiere sind nicht optional: Japan verlangt einen Internationalen Fuehrerschein nach der Genfer Konvention von 1949, physisch mitgefuehrt zusammen mit Ihrem Heimatfuehrerschein und Ihrem Pass. Er muss in Ihrem eigenen Land vor dem Abflug organisiert werden, kein Geschaeft in Tokio kann einen ausstellen, und Scans werden am Schalter abgelehnt.\n\nDas Mindestalter ist 18, und die Karts sind Einsitzer, sodass jeder seinen eigenen faehrt und niemand als Beifahrer mitfaehrt. Sie sind die ganze Zeit der Luft ausgesetzt, kleiden Sie sich also nach der Temperatur und nicht nach den Fotos. Mit 45 Minuten ist das die kuerzeste verfuegbare Route.",
+  "highlights": [],
+  "included": [
+   "Strassenzugelassener Go-Kart und Treibstoff, englischsprachiger Fuehrer, der mit der Gruppe faehrt, Kostuemverleih, Helm und Sicherheitseinweisung, Fotos aufgenommen von Ihrem Fuehrer, Fahrzeugversicherung"
+  ],
+  "notIncluded": [
+   "Internationaler Fuehrerschein (vor der Abreise organisieren), Hoteltransfers, Essen und Getraenke, Trinkgelder"
+  ]
+ },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
   "title": "Obstpflücken in Yoichi, die Nikka-Destillerie und die Shakotan-Küste",
   "metaTitle": "Obstpflücken, Nikka-Destillerie und Shakotan-Küste",
