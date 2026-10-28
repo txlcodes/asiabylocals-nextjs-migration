@@ -60273,6 +60273,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Depenses personnelles, repas sauf indication contraire, pourboires"
   ]
  },
+ "sapporo-food-food-tour": {
+  "title": "Promenade gourmande privee a Sapporo : marches, ramen et specialites regionales",
+  "metaTitle": "Promenade gourmande privee a Sapporo",
+  "metaDescription": "Une visite gourmande privee de trois heures a Sapporo avec un hote local, construite autour de votre appetit : marches, ramen et specialites d'Hokkaido.",
+  "shortDescription": "Une visite gourmande privee de trois heures a Sapporo avec un hote local, construite entierement autour de votre appetit, decouvrant marches, ramen et specialites regionales d'Hokkaido.",
+  "fullDescription": "Hokkaido mange differemment du reste du Japon, et cette visite gourmande privee de trois heures est le chemin le plus court pour comprendre pourquoi. Vous sortez avec un hote local plutot qu'un guide scripte, et toute la visite est faconnee autour de ce que vous voulez reellement manger. Dites a votre hote que vous etes la pour le ramen et la marche s'oriente dans cette direction ; dites que vous voulez des fruits de mer, ou que vous preferez grignoter largement plutot que de vous engager dans un gros repas, et l'itineraire change en consequence. Les plats les plus emblematiques de Sapporo sont tous sur la table, du style de ramen propre a la ville aux fruits de mer frais pour lesquels les eaux d'Hokkaido sont reputees, et votre hote explique ce qui rend chacun particulier a cet endroit. Les marches animes font partie de la marche, et ils valent la peine d'etre faits avec quelqu'un qui peut vous dire ce que vous regardez, car un etal de marche est l'endroit ou la difference entre une bonne et une version ordinaire de quelque chose devient evidente. Entre les arrets, vous parcourez du terrain a pied a travers les quartiers ou vit la scene culinaire, ce qui vous donne la geographie autant que les saveurs. Comme la visite est privee, il n'y a pas de groupe avec qui garder le rythme et pas d'ordre fixe : si quelque chose a l'air bon, vous pouvez vous arreter, et si un endroit s'avere etre le point fort de la journee, vous pouvez y rester plus longtemps. Vous terminez en sachant non seulement ce que vous avez mange, mais ou revenir pour le reste de votre voyage.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "sapporo-food-tour": {
+  "title": "Tournee culinaire locale a Sapporo : plus de dix plats dans quatre lieux",
+  "metaTitle": "Tournee culinaire locale a Sapporo",
+  "metaDescription": "Quatre heures, quatre lieux et plus de dix plats avec un guide local, incluant une formule boissons a volonte de soixante minutes dans un izakaya.",
+  "shortDescription": "Quatre heures, quatre lieux et plus de dix plats avec un guide local, incluant une formule boissons a volonte de soixante minutes dans un izakaya de Sapporo.",
+  "fullDescription": "Sapporo a une culture culinaire difficile a percer de l'exterieur, en partie parce que le meilleur se passe derriere des portes sans enseigne et en partie parce que les menus sont rarement en anglais. Cette tournee de quatre heures resout les deux problemes en vous confiant un guide local qui sait quelles portes ouvrir. Au cours de la soiree, vous passez par quatre lieux differents et goutez plus de dix plats, chaque endroit choisi pour une raison differente et chacun apportant quelque chose que les autres n'apportent pas. Le guide explique ce que vous mangez et pourquoi cela compte ici, de sorte que le repas se construit en une image de la cuisine de la ville plutot qu'une succession de plats sans lien. L'un des arrets est un veritable izakaya, le pub japonais qui ancre la culture de la boisson du pays, et il vient avec une formule boissons a volonte de soixante minutes pour que vous puissiez vous installer sans faire de calculs chaque fois que vous commandez. Marcher entre les lieux fait aussi partie de l'experience, vous emmenant a travers les parties du centre de Sapporo ou se passent reellement les repas et les boissons a la nuit tombee. Le tout fonctionne particulierement bien tot dans un voyage, car une fois qu'on vous a montre comment est structure un menu d'izakaya, quoi commander et comment le demander, vous pouvez y retourner seul pour le reste de votre sejour avec beaucoup plus de confiance. Venez affame : dix plats dans quatre lieux representent un repas complet pour toute une soiree.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme, 10+ plats dans 4 lieux, formule boissons a volonte de 60 minutes a l'izakaya"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "sapporo-full-day-tour": {
+  "title": "Excursion d'une journee depuis Sapporo a Hokkaido : zoo Asahiyama, etang bleu et chutes de Shirahige",
+  "metaTitle": "Excursion d'Hokkaido depuis Sapporo",
+  "metaDescription": "Une journee complete en car depuis Sapporo au zoo Asahiyama, aux chutes de Shirahige, a l'etang bleu de Shirogane et aux cabanes de la terrasse Ningle.",
+  "shortDescription": "Une journee complete hors de Sapporo en car, decouvrant le zoo Asahiyama, la chute de Shirahige, l'etang bleu de Shirogane et les cabanes des elfes de la foret de la terrasse Ningle.",
+  "fullDescription": "Cette visite panoramique d'une journee de neuf heures vous sort du centre de Sapporo et vous emmene vers le nord, dans la vaste campagne ouverte que la plupart des visiteurs d'Hokkaido ne prennent jamais le temps de voir. Le car roule environ deux heures avant votre premier et plus long arret, le zoo Asahiyama, ou vous avez quelques heures pour parcourir a votre rythme les enclos celebrement inventifs. Le design ici est ce qui a rendu le zoo celebre, vous permettant d'observer les ours polaires et le reste de la collection sous des angles inhabituellement proches et inhabituellement naturels. Depuis le zoo, la route se tourne vers la campagne, s'arretant brievement pour une photo de l'arbre de Ken et Mary se tenant seul dans son champ, puis continuant vers la chute de Shirahige, ou l'eau de fonte se deverse directement de la paroi rocheuse dans la riviere en dessous. A une courte distance se trouve l'etang bleu de Shirogane, l'eau immobile teintee de mineraux dont la couleur en a fait l'un des endroits les plus photographies d'Hokkaido ; vous avez le temps ici de marcher le long du rivage, de prendre des photos et de parcourir les petites boutiques. Le dernier arret est la terrasse Ningle, un eparpillement de petites cabanes d'artisanat en bois installees parmi les arbres et souvent appelee la terrasse des elfes de la foret, ou vous pouvez errer entre les ateliers avant que le car ne reprenne la direction de la ville. Deux points de prise en charge et deux points de depose sont disponibles selon l'option que vous choisissez, de sorte que vous pouvez rejoindre et terminer ou cela est le plus pratique pour votre sejour.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "sapporo-half-day-tour": {
+  "title": "Visite privee d'une demi-journee a Sapporo : histoire, culture et charme du nord",
+  "metaTitle": "Sapporo en demi-journee : histoire et culture",
+  "metaDescription": "Une visite privee d'une demi-journee a Sapporo a un rythme detendu, tarifee par groupe, couvrant l'histoire, la culture et les coins plus calmes de la ville.",
+  "shortDescription": "Une visite privee d'une demi-journee a Sapporo a un rythme detendu, tarifee par groupe, couvrant l'histoire, la culture et les coins plus calmes de la ville.",
+  "fullDescription": "Tarifee par groupe plutot que par personne, cette visite privee d'une demi-journee est la voie plus courte vers Sapporo pour les voyageurs qui ont une seule matinee ou un seul apres-midi libre et veulent que cela compte. La capitale d'Hokkaido est une ville d'elegance discrete et de charme local, et une demi-journee en compagnie d'un guide prive suffit a decouvrir une bonne partie des deux, a condition que le temps soit bien utilise plutot que passe a chercher ou aller ensuite. La visite decouvre la riche histoire de Sapporo, sa culture et la beaute sereine qui distingue les villes du nord, et elle le fait a un rythme detendu plutot qu'en courant entre les sites. Comme elle est privee, la demi-journee appartient uniquement a votre groupe. Vous pouvez poser des questions librement, suivre ce qui vous interesse et ralentir ou vous le souhaitez, et votre guide adaptera l'itineraire plutot que de vous tenir a un horaire fixe. Cette flexibilite est ce qui rend une visite courte interessante, car un guide qui connait la ville peut concentrer vos heures limitees sur ce qui comptera vraiment pour vous et sauter ce qui ne comptera pas. Elle convient bien aux voyageurs qui veulent une connexion plus profonde avec l'une des villes du nord les plus captivantes du Japon sans sacrifier une journee entiere, et elle fonctionne particulierement bien tot dans un sejour, quand tout ce que vous apprenez en ces quelques heures facilite et enrichit le reste de votre propre exploration.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "sapporo-hitsujigaoka-boat-tour": {
+  "title": "Lac Shikotsu, parc Takino et Hitsujigaoka : journee privee avec chauffeur",
+  "metaTitle": "Lac Shikotsu, Takino et Hitsujigaoka",
+  "metaDescription": "Une visite privee flexible de neuf heures depuis Sapporo reliant le lac Shikotsu, le parc enneige de Takino et la colline d'Hitsujigaoka.",
+  "shortDescription": "Une visite privee flexible de neuf heures depuis Sapporo reliant le lac Shikotsu, le parc enneige de Takino et la colline d'Hitsujigaoka.",
+  "fullDescription": "Cette journee privee couvre trois lieux sur la bordure sud de Sapporo qui valent tous le detour et sont tous difficiles a combiner sans voiture. Le lac Shikotsu est le plus eloigne, a environ une heure de la ville, un lac de caldera profond reconnu pour son eau exceptionnellement claire et entoure de pentes volcaniques boisees. C'est la partie calme de la journee et celle dont la plupart des gens se souviennent. Depuis le lac, l'itineraire revient vers la ville et le parc enneige de Takino, ou la version hivernale d'un grand parc en coteau se transforme en luge, en jeux de neige et en pentes blanches ouvertes, un bon arret pour les familles et un facile pour quiconque veut simplement etre dans la neige sans marcher a travers elle. Le dernier des trois est la colline d'observation d'Hitsujigaoka, le paturage a la lisiere de Sapporo ou paissent des moutons devant une vue directe sur la ville, et ou la statue du Dr Clark se dresse le bras tendu sur la plaine. C'est la photographie classique de Sapporo et elle a plus de sens a la fin d'une journee qu'au debut, une fois que vous avez vu ce qui se trouve au-dela de la ville. Tout au long, vous beneficiez d'un confort porte-a-porte avec un chauffeur-guide dedie et un plan qui reste flexible, de sorte que l'ordre et les horaires peuvent changer pour s'adapter au temps, a la lumiere ou simplement a l'humeur de votre groupe.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
+ "sapporo-hopping-experience": {
+  "title": "Sapporo apres la nuit tombee : tournee de trois bars locaux avec un guide",
+  "metaTitle": "Sapporo apres la nuit tombee : tournee des bars",
+  "metaDescription": "Trois heures en soiree a Sapporo avec un guide local, visitant trois bars et izakaya pour des boissons et l'histoire de la culture locale.",
+  "shortDescription": "Trois heures en soiree a Sapporo avec un guide local, visitant trois bars et izakaya pour des boissons et l'histoire de la culture locale.",
+  "fullDescription": "Sapporo boit bien, et boit local, mais trouver les bons endroits seul est vraiment difficile dans une ville ou les meilleurs bars sont empiles sur plusieurs etages derriere des portes sans enseigne. Cette visite du soir de trois heures place un guide local entre vous et ce probleme. Vous visitez trois lieux differents au cours de la soiree, un melange de bars et d'izakaya allant de lieux bien connus que les habitants remplissent reellement a de plus petits endroits caches que vous n'auriez jamais trouves en errant. A chaque arret, il y a des boissons et des collations, et votre guide vous explique ce qui se trouve devant vous, qu'il s'agisse de sake local, de vin d'Hokkaido ou de biere artisanale d'une ville qui brasse serieusement depuis bien plus d'un siecle. Le but n'est pas seulement de boire mais de comprendre une scene : comment fonctionne l'izakaya, ce que les gens commandent et dans quel ordre, pourquoi certaines boissons appartiennent a cette partie du Japon, et comment la culture alcoolisee florissante ici differe du reste du pays. Marcher entre les lieux vous fait traverser le centre de Sapporo apres la tombee de la nuit, qui est une ville differente de celle que vous voyez de jour. La visite commence a la tour de television et se termine pres d'Odori, de sorte que vous vous retrouvez au milieu de tout avec la soiree encore devant vous si vous voulez continuer. C'est sociable, facile a rejoindre seul, et une facon rapide de se sentir chez soi dans une ville ou vous venez d'arriver.",
+  "highlights": [],
+  "included": [
+   "Guide local professionnel, tous les frais mentionnes dans le programme, boissons et collations a chaque lieu"
+  ],
+  "notIncluded": [
+   "Depenses personnelles, repas sauf indication contraire, pourboires"
+  ]
+ },
  "kyoto-kid-friendly-ninja-class-museum": {
   "title": "Cours de ninja pour familles a Kyoto : sarbacanes, etoiles et discretion",
   "metaTitle": "Cours de ninja pour familles a Kyoto",

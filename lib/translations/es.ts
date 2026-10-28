@@ -60273,6 +60273,90 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales, comidas salvo que se especifique, propinas"
   ]
  },
+ "sapporo-food-food-tour": {
+  "title": "Caminata gastronomica privada por Sapporo: mercados, ramen y especialidades regionales",
+  "metaTitle": "Caminata gastronomica privada por Sapporo",
+  "metaDescription": "Un tour gastronomico privado de tres horas por Sapporo con un anfitrion local, construido alrededor de su apetito: mercados, ramen y especialidades de Hokkaido.",
+  "shortDescription": "Un tour gastronomico privado de tres horas por Sapporo con un anfitrion local, construido enteramente alrededor de su apetito, con mercados, ramen y especialidades regionales de Hokkaido.",
+  "fullDescription": "Hokkaido come de forma diferente al resto de Japon, y este tour gastronomico privado de tres horas es la ruta mas corta para entender por que. Salen con un anfitrion local en lugar de un guia con libreto, y todo el tour se moldea alrededor de lo que realmente quieren comer. Digan a su anfitrion que estan ahi por el ramen y la caminata se inclina en esa direccion; digan que quieren mariscos, o que prefieren picar ampliamente en lugar de comprometerse a una gran comida, y la ruta cambia en consecuencia. Los platos mas iconicos de Sapporo estan todos sobre la mesa, desde el estilo propio de ramen de la ciudad hasta los mariscos frescos por los que son conocidas las aguas de Hokkaido, y su anfitrion explica que hace a cada uno particular de este lugar. Los mercados animados son parte de la caminata, y vale la pena hacerlos con alguien que pueda decirles que estan viendo, ya que un puesto de mercado es donde la diferencia entre una buena y una version ordinaria de algo se vuelve evidente. Entre paradas recorren terreno a pie por los barrios donde vive la escena gastronomica, lo que les da la geografia tanto como los sabores. Como el tour es privado, no hay grupo con el que mantener el ritmo ni un orden fijo: si algo se ve bien pueden detenerse, y si un lugar resulta ser lo mejor del dia pueden quedarse mas tiempo. Terminan sabiendo no solo que comieron sino a donde volver por el resto de su viaje.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "sapporo-food-tour": {
+  "title": "Recorrido gastronomico local de Sapporo: mas de diez platos en cuatro lugares",
+  "metaTitle": "Recorrido gastronomico local de Sapporo",
+  "metaDescription": "Cuatro horas, cuatro lugares y mas de diez platos con un guia local, incluyendo un plan de bebida libre de sesenta minutos en una izakaya de Sapporo.",
+  "shortDescription": "Cuatro horas, cuatro lugares y mas de diez platos con un guia local, incluyendo un plan de bebida libre de sesenta minutos en una izakaya de Sapporo.",
+  "fullDescription": "Sapporo tiene una cultura gastronomica dificil de descifrar desde fuera, en parte porque lo mejor ocurre detras de puertas sin letrero y en parte porque los menus rara vez estan en ingles. Este recorrido de cuatro horas resuelve ambos problemas poniendoles un guia local que sabe que puertas abrir. A lo largo de la noche se mueven por cuatro lugares diferentes y prueban mas de diez platos, cada lugar elegido por una razon distinta y cada uno aportando algo que los demas no. El guia explica que estan comiendo y por que importa aqui, de modo que la comida se construye en una imagen de la gastronomia de la ciudad en lugar de una serie de platos sin conexion. Una de las paradas es una autentica izakaya, el bar japones que ancla la cultura de bebida del pais, y viene con un plan de bebida libre de sesenta minutos para que puedan acomodarse sin hacer cuentas cada vez que piden. Caminar entre los lugares es tambien parte de la experiencia, llevandolos por las zonas del centro de Sapporo donde realmente ocurren la comida y la bebida tras el anochecer. Todo esto funciona particularmente bien al inicio de un viaje, porque una vez que les han mostrado como esta estructurado un menu de izakaya, que pedir y como pedirlo, pueden volver solos por el resto de su estadia con mucha mas confianza. Vengan hambrientos: diez platos en cuatro lugares suman toda una noche de comer.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario, 10+ platos en 4 lugares, plan de bebida libre de 60 minutos en la izakaya"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "sapporo-full-day-tour": {
+  "title": "Excursion de un dia a Hokkaido desde Sapporo: zoo Asahiyama, estanque azul y cataratas Shirahige",
+  "metaTitle": "Excursion a Hokkaido desde Sapporo",
+  "metaDescription": "Un dia completo en autobus desde Sapporo al zoo Asahiyama, las cataratas Shirahige, el estanque azul de Shirogane y las cabanas de la terraza Ningle.",
+  "shortDescription": "Un dia completo fuera de Sapporo en autobus, con el zoo Asahiyama, la catarata Shirahige, el estanque azul de Shirogane y las cabanas de los duendes del bosque en la terraza Ningle.",
+  "fullDescription": "Este tour panoramico de un dia de nueve horas los sacan del centro de Sapporo y los lleva hacia el norte, al amplio y abierto campo para el que la mayoria de los visitantes de Hokkaido nunca se hacen tiempo. El autobus avanza alrededor de dos horas antes de su primera y mas larga parada, el zoo Asahiyama, donde tienen un par de horas para recorrer a su propio ritmo los recintos famosamente ingeniosos. El diseno aqui es lo que hizo famoso al zoo, permitiendoles observar a los osos polares y al resto de la coleccion desde angulos que se sienten inusualmente cercanos e inusualmente naturales. Desde el zoo la ruta gira hacia el campo, deteniendose brevemente para una foto del Arbol de Ken y Mary que se alza solo en su campo, y luego continua hacia la catarata Shirahige, donde el agua de deshielo se derrama directamente de la pared rocosa hacia el rio debajo. A un corto trecho se encuentra el estanque azul de Shirogane, el agua quieta y tenida de minerales cuyo color lo ha convertido en uno de los lugares mas fotografiados de Hokkaido; tienen tiempo aqui para caminar por la orilla, tomar fotos y recorrer las pequenas tiendas. La ultima parada es la terraza Ningle, un conjunto de pequenas cabanas artesanales de madera entre los arboles, a menudo llamada la terraza de los duendes del bosque, donde pueden deambular entre los talleres antes de que el autobus regrese hacia la ciudad. Hay dos puntos de recogida y dos puntos de bajada disponibles segun la opcion que elijan, asi que pueden unirse y terminar donde sea mas conveniente para su estadia.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "sapporo-half-day-tour": {
+  "title": "Tour privado de medio dia por Sapporo: historia, cultura y encanto nordico",
+  "metaTitle": "Sapporo medio dia: historia y cultura",
+  "metaDescription": "Un tour privado de medio dia por Sapporo a un ritmo relajado, con precio por grupo, que cubre la historia, cultura y rincones mas tranquilos de la ciudad.",
+  "shortDescription": "Un tour privado de medio dia por Sapporo a un ritmo relajado, con precio por grupo, que cubre la historia, cultura y rincones mas tranquilos de la ciudad.",
+  "fullDescription": "Con precio por grupo en lugar de por persona, este tour privado de medio dia es la via mas corta hacia Sapporo para viajeros que tienen una sola manana o tarde libre y quieren que cuente. La capital de Hokkaido es una ciudad de elegancia tranquila y encanto local, y medio dia en compania de un guia privado es suficiente para descubrir bastante de ambos, siempre que el tiempo se use bien en lugar de pasarlo decidiendo adonde ir despues. El tour recorre la rica historia de Sapporo, su cultura y la belleza serena que distingue a las ciudades nordicas, y lo hace a un ritmo relajado en lugar de correr entre puntos de interes. Como es privado, el medio dia pertenece solo a su grupo. Pueden preguntar libremente, seguir lo que les interese y reducir el ritmo donde quieran, y su guia ajustara la ruta en lugar de atenerse a un horario fijo. Esa flexibilidad es lo que hace que un tour corto valga la pena, ya que un guia que conoce la ciudad puede concentrar sus horas limitadas en lo que realmente significara algo para ustedes y saltarse lo que no. Conviene bien a viajeros que quieren una conexion mas profunda con una de las ciudades nordicas mas cautivadoras de Japon sin renunciar a un dia entero, y funciona particularmente bien al inicio de una estadia, cuando todo lo que aprenden en esas pocas horas facilita y enriquece el resto de su propia exploracion.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "sapporo-hitsujigaoka-boat-tour": {
+  "title": "Lago Shikotsu, parque Takino e Hitsujigaoka: dia privado con conductor",
+  "metaTitle": "Lago Shikotsu, Takino e Hitsujigaoka",
+  "metaDescription": "Un tour privado flexible de nueve horas desde Sapporo que une el lago Shikotsu, el parque de nieve Takino y la colina de Hitsujigaoka.",
+  "shortDescription": "Un tour privado flexible de nueve horas desde Sapporo que une el lago Shikotsu, el parque de nieve Takino y la colina de Hitsujigaoka.",
+  "fullDescription": "Este dia privado cubre tres lugares en el borde sur de Sapporo que vale la pena ver y que son todos dificiles de combinar sin un auto. El lago Shikotsu es el mas alejado, a aproximadamente una hora de la ciudad, un profundo lago de caldera conocido por su agua excepcionalmente clara y rodeado de laderas volcanicas boscosas. Es la parte tranquila del dia y la que mas recuerda la mayoria de la gente. Desde el lago la ruta vuelve hacia la ciudad y el parque de nieve Takino, donde la version invernal de un gran parque en la colina se convierte en trineos, juegos en la nieve y amplias laderas blancas, una buena parada para familias y facil para cualquiera que solo quiera estar en la nieve sin caminar a traves de ella. El ultimo de los tres es la colina mirador de Hitsujigaoka, el pastizal en el borde de Sapporo donde pastan ovejas frente a una vista directa de regreso sobre la ciudad, y donde se encuentra la estatua del Dr. Clark con el brazo extendido sobre la llanura. Es la fotografia clasica de Sapporo y tiene mas sentido al final de un dia que al principio, una vez que han visto lo que hay mas alla de la ciudad. Durante todo el recorrido, tienen comodidad de puerta a puerta con un conductor-guia dedicado y un plan que se mantiene flexible, de modo que el orden y los horarios pueden cambiar segun el clima, la luz o simplemente como se sienta su grupo.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
+ "sapporo-hopping-experience": {
+  "title": "Sapporo tras el anochecer: recorrido de tres bares locales con un guia",
+  "metaTitle": "Sapporo tras el anochecer: recorrido de bares",
+  "metaDescription": "Tres horas de noche en Sapporo con un guia local, visitando tres bares e izakayas para bebidas, bocadillos y la historia de la cultura de bebida de la ciudad.",
+  "shortDescription": "Tres horas de noche en Sapporo con un guia local, visitando tres bares e izakayas para bebidas, bocadillos y la historia de la cultura de bebida de la ciudad.",
+  "fullDescription": "Sapporo bebe bien, y bebe local, pero encontrar los buenos lugares por su cuenta es realmente dificil en una ciudad donde los mejores bares estan apilados varios pisos arriba detras de puertas sin letrero. Este tour vespertino de tres horas pone a un guia local entre ustedes y ese problema. Visitan tres lugares diferentes a lo largo de la noche, una mezcla de bares e izakayas que va desde sitios conocidos que los locales realmente llenan hasta lugares mas pequenos y escondidos que nunca habrian encontrado deambulando. En cada parada hay bebidas y bocadillos, y su guia les explica que tienen frente a ustedes, ya sea sake local, vino de Hokkaido o cerveza artesanal de una ciudad que ha estado elaborando en serio desde hace mas de un siglo. El punto no es solo beber sino entender una escena: como funciona la izakaya, que piden las personas y en que orden, por que ciertas bebidas pertenecen a esta parte de Japon, y como la prospera cultura del alcohol aqui difiere del resto del pais. Caminar entre los lugares los lleva por el centro de Sapporo tras el anochecer, que es una ciudad distinta de la que ven a la luz del dia. El tour comienza en la Torre de Television y termina cerca de Odori, asi que quedan en medio de todo con la noche todavia por delante si quieren seguir. Es sociable, facil de unirse solo, y una forma rapida de sentirse como en casa en una ciudad a la que recien han llegado.",
+  "highlights": [],
+  "included": [
+   "Guia local profesional, todas las tarifas mencionadas en el itinerario, bebidas y bocadillos en cada lugar"
+  ],
+  "notIncluded": [
+   "Gastos personales, comidas salvo que se especifique, propinas"
+  ]
+ },
  "kyoto-kid-friendly-ninja-class-museum": {
   "title": "Clase de ninja para familias en Kyoto: cerbatanas, estrellas y sigilo",
   "metaTitle": "Clase de ninja para familias en Kyoto",
