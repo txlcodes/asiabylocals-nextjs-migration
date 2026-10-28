@@ -61235,6 +61235,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires (optionnels), prise en charge et retour a l'hotel, nourriture et boissons supplementaires au-dela de celles incluses"
   ]
  },
+ "tokyo-shinjuku-samurai-restaurant-show-two-drinks": {
+  "title": "Le spectacle samourai de Kabukicho, avec deux boissons",
+  "metaTitle": "Spectacle samourai de Kabukicho",
+  "metaDescription": "Quatre-vingt-dix minutes de neons, de percussions, de danseurs et de spectacle mecanise au coeur de Kabukicho, avec deux boissons de votre choix incluses.",
+  "shortDescription": "Quatre-vingt-dix minutes de neons, de percussions, de danseurs et de spectacle mecanise au coeur de Kabukicho, avec deux boissons de votre choix incluses.",
+  "fullDescription": "Il n'existe pas de maniere sensee de decrire le spectacle samourai, et c'est precisement le but. Il se trouve au sous-sol d'un immeuble sur l'artere principale de Kabukicho, la salle est tapissee du sol au plafond de miroirs et de LED, et pendant quatre-vingt-dix minutes vous etes soumis a des percussions taiko, des danseurs, des artistes en costume, des effets laser et de la machinerie, a un volume qui rend la conversation optionnelle.\n\nC'est le descendant direct du Robot Restaurant qui occupait la meme place dans l'itineraire de Tokyo pendant une decennie, et il faut l'aborder dans le meme esprit : non pas comme une fenetre sur le Japon traditionnel, mais comme un morceau d'exces de Kabukicho entierement sincere qui ne pourrait exister ailleurs. Les gens qui arrivent en attendant de l'authenticite culturelle partent confus. Ceux qui arrivent en attendant un spectacle partent ravis.\n\nDeux boissons sont incluses et vous pouvez les prendre alcoolisees ou non. L'accueil se fait a l'entree du lieu sur Kabukicho 1-chome, a quelques minutes de la sortie est de la gare de Shinjuku, et il y a un choix de niveau de places a la reservation.\n\nL'argument pratique est qu'il est court, qu'il se deroule en interieur, qu'il a lieu le soir, et qu'il se trouve au milieu du quartier ou vous dinerez probablement de toute facon, Omoide Yokocho et Golden Gai sont tous deux a dix minutes a pied. La nourriture au-dela des boissons n'est pas incluse et n'est pas necessaire ; la plupart des gens vont diner apres.\n\nSi vous n'aimez pas le bruit fort, les lumieres stroboscopiques ou la foule, ce n'est pas pour vous, et aucune curiosite n'y changera quoi que ce soit.",
+  "highlights": [],
+  "included": [
+   "Billet pour le spectacle samourai, deux boissons de votre choix, alcoolisees ou non"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel, nourriture, boissons supplementaires, transport jusqu'au lieu"
+  ]
+ },
+ "tokyo-shinjuku-sumo-show-ring-challenge": {
+  "title": "Sumo a Shinjuku : combats en direct, defi sur le ring et photos avec les lutteurs",
+  "metaTitle": "Sumo a Shinjuku avec defi sur le ring",
+  "metaDescription": "Quatre-vingt-dix minutes de sumo professionnel a Shinjuku, rituels expliques en anglais, combats en direct a quelques metres, et la chance de monter sur le ring.",
+  "shortDescription": "Quatre-vingt-dix minutes de sumo professionnel dans une salle de Shinjuku, rituels expliques en anglais, combats en direct a quelques metres, et la chance de monter sur le ring.",
+  "fullDescription": "Le sumo est difficile a voir correctement en tant que visiteur. Les six tournois officiels se vendent des mois a l'avance et seulement trois d'entre eux se tiennent a Tokyo, ce qui laisse la plupart des voyageurs avec une visite de musee et une photo d'affiche. Ce spectacle de quatre-vingt-dix minutes a Shinjuku existe pour combler cette lacune, et il le fait avec des professionnels en activite plutot que des acteurs.\n\nLe lieu est une salle au deuxieme etage d'un immeuble a Okubo, a quelques minutes a pied de la gare de Shin-Okubo, et les places vous mettent assez pres pour entendre l'impact. Les lutteurs ouvrent avec les parties du sumo habituellement mal expliquees ou pas du tout : le shiko, le lourd martelement des pieds qui chasse les mauvais esprits ; le sel jete sur le ring pour le purifier ; le long face-a-face avant la charge, qui n'est pas du spectacle mais un vrai test de preparation. Un animateur anglophone commente chacun de ces elements au moment ou il se produit, si bien que le rituel cesse d'etre decoratif et commence a avoir du sens.\n\nPuis ils se battent. Les combats sont de vrais affrontements, et de pres, c'est la vitesse qui surprend, la plupart ne durent que quelques secondes, decides par une prise ou un deplacement de poids que vous manqueriez entierement a la television.\n\nEnsuite, le ton change completement. Les invites sont invites a porter une tenue de sumo et a affronter un lutteur sur le ring, ce qui est joue pour faire rire et d'ou viennent la plupart des bonnes photos. Les places pour cela sont limitees et tirees au sort quand plus de gens veulent essayer qu'il n'y a de temps, donc considerez cela comme un bonus plutot que la raison de votre venue. Les photos avec les lutteurs qui suivent sont ouvertes a tous.\n\nUne bouteille d'eau est incluse, la salle est en interieur, et le tout dure une heure et demie, ce qui permet de le placer facilement avant ou apres le diner a Shinjuku. Cela convient aux familles, aux primo-visiteurs et a quiconque dont le voyage ne coincide pas avec un tournoi.",
+  "highlights": [],
+  "included": [
+   "Demonstration de sumo professionnel avec combats en direct, animateur anglophone expliquant les rituels tout au long, contexte sur l'histoire et les regles du sumo, boisson d'accueil (eau en bouteille), participation a la loterie pour affronter un lutteur sur le ring, photos avec les lutteurs"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel, nourriture et boissons supplementaires, pourboires"
+  ]
+ },
+ "tokyo-skytree-spiritual-tour": {
+  "title": "Circuit en kart d'Asakusa a Akihabara : Skytree, temples et Electric Town",
+  "metaTitle": "Kart d'Asakusa a Akihabara",
+  "metaDescription": "Un circuit en kart costume a travers le vieux Tokyo : le quartier de Senso-ji, le long de la Sumida sous Skytree, puis dans l'eclat electrique d'Akihabara.",
+  "shortDescription": "Un circuit en kart costume a travers le vieux Tokyo : le quartier de Senso-ji, le long de la Sumida sous Skytree, puis dans l'eclat electrique d'Akihabara.",
+  "fullDescription": "Le cote est de Tokyo est le meilleur itineraire en kart et moins d'operateurs le proposent. Au lieu de la cohue de Shibuya, vous avez les basses rues en bois d'Asakusa, la riviere, puis l'assaut sensoriel complet d'Akihabara, trois versions completement differentes de la ville en soixante-dix minutes.\n\nAsakusa est la plus ancienne partie de Tokyo encore debout en tant que quartier. Senso-ji se trouve ici depuis 645 et les rues alentour sont restees basses, donc depuis un kart vous etes au niveau des devantures qui n'ont pas beaucoup change en plusieurs decennies ; le portail Kaminarimon du temple et son enorme lanterne rouge sont le repere que tout le monde reconnait. Puis la route rejoint la Sumida et la Tokyo Skytree remplit le pare-brise, a 634 metres c'est la plus haute tour du monde, ouverte en 2012 pour faire passer les signaux de diffusion au-dessus des gratte-ciel, et c'est vraiment saisissant depuis un vehicule qui se trouve a vingt centimetres du sol.\n\nAkihabara boucle la boucle. Le quartier vendait des pieces radio dans des echoppes sous les arches du chemin de fer apres la guerre, s'est developpe en marche de l'electronique de Tokyo puis en centre de la culture otaku ; aujourd'hui ses salles d'arcade, ses panneaux anime et ses boutiques sur plusieurs etages projettent plus de lumiere sur la rue que les lampadaires, et le traverser en costume est exactement aussi absurde qu'il y parait.\n\nUn depart en debut d'apres-midi garde Asakusa dans une lumiere claire et atteint Akihabara au moment ou les enseignes commencent a s'imposer. La circulation y est reelle, donc les conducteurs doivent etre a l'aise pour suivre les instructions plutot que de regarder le paysage au volant.\n\nAvant de reserver, reglez les papiers : le Japon exige un permis de conduire international de la convention de Geneve, porte avec votre permis national et votre passeport. Organisez cela chez vous, il ne peut pas etre delivre au Japon.",
+  "highlights": [],
+  "included": [
+   "Kart homologue route et carburant, guide anglophone roulant avec le groupe, location de costume, casque et briefing de securite, photos prises par votre guide le long du parcours, assurance vehicule"
+  ],
+  "notIncluded": [
+   "Permis de conduire international (a organiser avant le depart), transferts hotel, nourriture et boissons, pourboires, depenses personnelles"
+  ]
+ },
+ "tokyo-sumo-morning-practice-training-stable": {
+  "title": "Entrainement matinal de sumo dans une ecurie en activite a Kiyosumi-Shirakawa",
+  "metaTitle": "Entrainement matinal de sumo a Tokyo",
+  "metaDescription": "Deux heures dans une vraie heya de sumo pendant l'entrainement matinal, sans spectacle, juste la session que la plupart des habitants de Tokyo n'ont jamais vue.",
+  "shortDescription": "Deux heures a l'interieur d'une vraie heya de sumo pendant l'entrainement matinal, sans spectacle ni commentaire enregistre, juste la session que la plupart des habitants de Tokyo n'ont jamais vue.",
+  "fullDescription": "Une ecurie de sumo, ou heya, est l'endroit ou les lutteurs vivent reellement. Ils y dorment, y mangent et s'y entrainent chaque matin avant l'aube, sous l'autorite d'un maitre d'ecurie qui est presque totale sur leur vie. L'acces a toujours ete reserve aux sponsors et a la famille, ce qui explique que la plupart des habitants de Tokyo n'y sont jamais entres.\n\nCette visite de deux heures est la chose reelle plutot qu'une demonstration. Vous observez une veritable session d'entrainement : les exercices repetitifs, les collisions, les jeunes repetant le meme mouvement plusieurs centaines de fois pendant que les lutteurs seniors les corrigent. C'est plus calme qu'un spectacle et considerablement plus intense. Personne ne joue pour la salle, et la discipline est tout l'interet, les jeunes lutteurs se disputent un rang dans un systeme ou seule la division superieure recoit un vrai salaire.\n\nUn guide anglophone explique ce que vous observez au fur et a mesure : comment un combat se gagne, pourquoi un lutteur frappe le sol et jette du sel, ce que signifient en pratique les racines shinto du sport, et comment le calendrier des tournois structure l'annee. En dehors de l'entrainement lui-meme, il y a generalement une occasion de parler avec les lutteurs, ce qui reste souvent le moment le plus marquant pour les visiteurs.\n\nComme c'est le domicile et le lieu de travail de quelqu'un, l'etiquette est plus stricte qu'un lieu public : silence, pas d'interruption, et vous suivez les instructions du guide sur ou vous asseoir et quand les photos sont acceptables. Les horaires d'entrainement bougent aussi avec le calendrier des tournois, donc la session exacte depend du jour.\n\nLe rendez-vous se fait a la gare de Kiyosumi-Shirakawa, sortie A1, accessible par les lignes Toei Oedo et Hanzomon. Le quartier merite une heure apres la visite, c'est l'un des quartiers du cafe a Tokyo et il se trouve a cote du jardin Kiyosumi Teien.",
+  "highlights": [],
+  "included": [
+   "Guide anglophone, visite d'une ecurie de sumo en activite pendant l'entrainement matinal, explication des regles, classements et rituels du sumo, occasion de parler avec les lutteurs hors des heures d'entrainement"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel, nourriture et boissons, transport jusqu'au point de rendez-vous, pourboires"
+  ]
+ },
+ "tokyo-tower-bike-tour": {
+  "title": "Tokyo apres la nuit tombee a velo : Omotesando, Roppongi et le cimetiere d'Aoyama",
+  "metaTitle": "Tokyo de nuit a velo",
+  "metaDescription": "Deux heures a velo dans Tokyo qui s'illumine, se terminant dans le calme inattendu du cimetiere d'Aoyama.",
+  "shortDescription": "Deux heures a velo dans Tokyo qui s'illumine, se terminant dans le calme inattendu du cimetiere d'Aoyama.",
+  "fullDescription": "Tokyo la nuit a velo est plus calme qu'il n'y parait. La circulation s'allege apres l'heure de pointe du soir, les rues secondaires se vident, et vous couvrez du terrain assez vite pour relier des endroits qui ne se ressemblent en rien.\n\nLa balade part de Shibuya avec un guide qui y vit vraiment. Omotesando vient en premier, la large avenue bordee de zelkovas avec sa serie d'architectures de boutiques phares, commandees batiment par batiment a des architectes connus, et bien mieux eclairee et bien plus calme une fois les magasins fermes. Roppongi suit, toujours animee, un quartier devenu le pole de vie nocturne internationale de Tokyo autour des bars qui servaient l'occupation d'apres-guerre, puis la tour de Tokyo apparait illuminee au bout d'une rue, comme elle le fait pour les habitants plutot que depuis une plateforme d'observation.\n\nLe cimetiere d'Aoyama est la partie que personne n'attend. Un vaste cimetiere borde d'arbres au milieu de certains des terrains les plus chers de Tokyo, ouvert dans les annees 1870 comme l'un des premiers cimetieres publics de la ville, silencieux la nuit, avec des cerisiers le long de son allee principale qui attirent les foules au printemps et personne du tout le reste de l'annee. Le traverser apres le bruit de Roppongi est une transition vraiment etrange, et le groupe avance lentement et silencieusement car il reste un cimetiere en activite.\n\nDeux heures, plat sur tout le trajet, et les velos sont equipes de lumieres. Aucune condition physique n'est necessaire, mais il faut savoir rouler avec assurance dans de vraies rues. L'age minimum est generalement de 12 ans avec un adulte, et la balade a lieu sous une pluie legere, annulee avec remboursement en cas de forte intemperie.",
+  "highlights": [],
+  "included": [
+   "Location de velo avec eclairage installe, guide local anglophone, casque, assurance velo, arrets photo tout au long du parcours"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons, transferts hotel, pourboires"
+  ]
+ },
+ "tokyo-tower-premium-tour": {
+  "title": "Kart premium a Tokyo : tour de Tokyo, carrefour de Shibuya et Harajuku",
+  "metaTitle": "Kart premium a Tokyo, deux heures",
+  "metaDescription": "La version longue : deux heures, groupe plus petit, la tour de Tokyo et le carrefour de Shibuya, avec un guide qui photographie correctement a chaque arret.",
+  "shortDescription": "La version longue : deux heures, groupe plus petit, a la fois la tour de Tokyo et le carrefour de Shibuya, avec un guide qui photographie correctement a chaque arret.",
+  "fullDescription": "C'est l'itineraire prolonge pour ceux qui preferent ne pas se presser. Deux heures au lieu d'une, un groupe plus petit, et assez de temps pour faire les deux decors de kart emblematiques de Tokyo, la tour et le carrefour, sans avoir a choisir entre les deux.\n\nPlus long compte plus qu'il n'y parait. Les circuits en kart courts passent la plupart de leur temps en transit entre deux arrets photo ; a cette duree, le guide peut retenir le groupe a chaque site assez longtemps pour vraiment le photographier, refaire le carrefour plus d'une fois si la lumiere tombe mal, et prendre l'itineraire pittoresque par Roppongi plutot que le plus rapide. Roppongi est devenu un quartier de vie nocturne pendant les annees d'occupation apres 1945, quand des bars ont ouvert autour de la presence etrangere, et ses larges avenues sont inhabituellement faciles a conduire.\n\nLa tour de Tokyo ancre l'itineraire. Achevee en 1958 et peinte dans l'orange et le blanc reglementaires pour la securite aerienne, elle s'eleve a 333 metres, deliberement neuf metres plus haute que la tour Eiffel qui l'a inspiree. Les rues plus etroites de Harajuku suivent, les ruelles plus calmes derriere Takeshita-dori et autour des vitrines de designers d'Omotesando, puis Shibuya, ou le scramble fait passer jusqu'a 3 000 personnes a chaque changement de feu et ou la statue de Hachiko se dresse pres de la gare depuis 1934.\n\nUn depart en apres-midi garde la tour en pleine lumiere et vous amene a Shibuya au moment ou les ecrans commencent a surpasser le ciel en luminosite. Cela convient aux conducteurs deja a l'aise dans une circulation reelle ; les debutants nerveux ont tendance a passer les deux heures a se concentrer plutot qu'a regarder autour d'eux.\n\nLes papiers d'abord : un permis de conduire international de la convention de Geneve, votre permis national et votre passeport, tous physiques. Organisez le permis dans votre propre pays avant de prendre l'avion.",
+  "highlights": [],
+  "included": [
+   "Kart homologue route et carburant, guide anglophone roulant avec le groupe, location de costume, casque et briefing de securite, photos prises par votre guide le long du parcours, assurance vehicule"
+  ],
+  "notIncluded": [
+   "Permis de conduire international (a organiser avant le depart), transferts hotel, nourriture et boissons, pourboires, depenses personnelles"
+  ]
+ },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
   "title": "Cueillette de fruits a Yoichi, distillerie Nikka et cote de Shakotan",
   "metaTitle": "Cueillette, distillerie Nikka et cote de Shakotan",
