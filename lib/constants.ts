@@ -99,7 +99,8 @@ export const AGRA_INFO_SLUGS = [
   'best-private-taj-mahal-tour', 'best-baby-taj-tour', 'golden-triangle-tour-india',
   'best-agra-tour-operator', 'best-agra-tour-for-families', 'is-agra-safe-for-tourists',
   'best-hotel-near-taj-mahal', 'taj-mahal-night-viewing-tour',
-  'agra-tour-guide-scams-how-to-avoid-touts'
+  'agra-tour-guide-scams-how-to-avoid-touts',
+  'should-i-book-taj-mahal-tour-direct-or-through-app'
 ];
 
 export const DELHI_INFO_SLUGS = [
@@ -119,7 +120,8 @@ export const DELHI_INFO_SLUGS = [
   'best-delhi-tour-guide', 'best-delhi-tour-for-families', 'is-delhi-safe-for-tourists',
   'best-delhi-museum-tour', 'best-delhi-airport-layover-tour', 'best-private-delhi-tour',
   'best-taj-mahal-guide-tour-from-delhi',
-  'delhi-tourist-scams-how-to-avoid-touts'
+  'delhi-tourist-scams-how-to-avoid-touts',
+  'should-i-book-delhi-tour-direct-or-through-app'
 ];
 
 export const JAIPUR_INFO_SLUGS = [
@@ -141,7 +143,8 @@ export const JAIPUR_INFO_SLUGS = [
   'is-jaipur-safe-for-tourists', 'best-jaipur-tour-operator', 'best-jaipur-photography-tour',
   'best-jaipur-hot-air-balloon-tour', 'best-jaipur-sunset-night-tour',
   'best-jaipur-elephant-experience', 'best-hotel-near-amber-fort',
-  'jaipur-tourist-scams-how-to-avoid-touts'
+  'jaipur-tourist-scams-how-to-avoid-touts',
+  'should-i-book-jaipur-tour-direct-or-through-app'
 ];
 
 export const PHUKET_INFO_SLUGS = [

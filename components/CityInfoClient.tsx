@@ -33,6 +33,7 @@ interface Props {
 }
 
 const AGRA_SIDEBAR = [
+    { name: 'Ask Before You Book', slug: 'should-i-book-taj-mahal-tour-direct-or-through-app' },
     { name: 'Avoid Touts & Scams', slug: 'agra-tour-guide-scams-how-to-avoid-touts' },
     { name: 'Things to Do', slug: 'things-to-do-in-agra' },
     { name: 'Places Guide', slug: 'places-to-visit-in-agra' },
@@ -61,6 +62,7 @@ const AGRA_SIDEBAR = [
 ];
 
 const DELHI_SIDEBAR = [
+    { name: 'Ask Before You Book', slug: 'should-i-book-delhi-tour-direct-or-through-app' },
     { name: 'Avoid Touts & Scams', slug: 'delhi-tourist-scams-how-to-avoid-touts' },
     { name: 'Delhi Travel Guide', slug: 'delhi-travel-guide-2026' },
     { name: 'Red Fort', slug: 'red-fort' },
@@ -83,6 +85,7 @@ const DELHI_SIDEBAR = [
 ];
 
 const JAIPUR_SIDEBAR = [
+    { name: 'Ask Before You Book', slug: 'should-i-book-jaipur-tour-direct-or-through-app' },
     { name: 'Avoid Touts & Scams', slug: 'jaipur-tourist-scams-how-to-avoid-touts' },
     { name: 'Things to Do', slug: 'things-to-do-in-jaipur' },
     { name: 'Travel Guide 2026', slug: 'jaipur-travel-guide-2026' },

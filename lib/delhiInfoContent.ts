@@ -739,6 +739,51 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'What is the best way to see the Taj Mahal from Delhi?', acceptedAnswer: { '@type': 'Answer', text: 'A private car day tour with a licensed guide, roughly 3-4 hours each way.' } }] }] },
       };
 
+    case "should-i-book-delhi-tour-direct-or-through-app":
+      return {
+        title: "Should You Book a Delhi Tour Direct or Through an App? What Actually Matters",
+        seoTitle: "Book Delhi Tour Direct or Through an App — What Actually Matters (2026)",
+        description: "The real question isn't direct vs. app — it's whether a real person answers your questions before you pay. What to check before booking any Red Fort, Old Delhi or Delhi tour.",
+        heroImage: T_REDFORT.image,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Most Delhi tours, however they're sold, trace back to the same small pool of local guides and operators — the platform matters less than whether you can **ask a specific question and get a real answer before paying**. On AsiaByLocals, that question goes straight to the team over WhatsApp, not a chatbot, before you book.",
+            tourCard: T_REDFORT,
+          },
+          {
+            title: "What to Actually Check Before Booking",
+            content: "Confirm who answers if your flight lands late and your tour time needs to shift, whether a specific dietary need can be handled on a food tour, and whether the quoted price already includes monument entry tickets. A platform that lets you ask these questions and get a specific answer beats one that just shows the lowest listed number with no way to ask anything first.",
+            tourCard: T_OLDDELHI,
+          },
+          {
+            title: "Why We Built It This Way",
+            content: "Every AsiaByLocals tour page has an \"Ask a question on WhatsApp\" button, and a real person replies — checking with the local operator when the answer depends on them — not a bot, not a ticket queue. Bookings are confirmed with the operator before they're treated as final. Message +91 84495 38716 on WhatsApp or info@asiabylocals.com if you'd rather talk it through first.",
+            tourCard: T_HERITAGE,
+          }
+        ],
+        faqs: [
+          { q: "Should I book a Delhi tour direct or through a booking app?", a: "What matters more than direct-vs-app is whether you can ask a specific question and get a real answer before paying." },
+          { q: "Can I ask questions before booking a Delhi tour?", a: "Yes — every AsiaByLocals tour page has a WhatsApp button, and a real person answers, checking with the local operator if needed, before you pay." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "Should I book a Delhi tour direct or through a booking app?", "acceptedAnswer": { "@type": "Answer", "text": "What matters more is whether you can ask a specific question and get a real answer before paying." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'MessageCircle', label: 'Ask Before Booking', value: 'WhatsApp +91 84495 38716' },
+          { icon: 'User', label: 'Who Answers', value: 'A Real Person, Not a Bot' },
+          { icon: 'CheckCircle', label: 'Confirmed With Operator', value: 'Before It\'s Final' }
+        ]
+      };
+
     case "delhi-tourist-scams-how-to-avoid-touts":
       return {
         title: "Delhi Tourist Scams: How to Avoid Touts and Common Traps",

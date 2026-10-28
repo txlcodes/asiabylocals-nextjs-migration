@@ -54,6 +54,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-agra-tour-operator', 'best-agra-tour-for-families', 'is-agra-safe-for-tourists',
     'best-hotel-near-taj-mahal', 'taj-mahal-night-viewing-tour',
     'agra-tour-guide-scams-how-to-avoid-touts',
+    'should-i-book-taj-mahal-tour-direct-or-through-app',
   ].map(slug => ({
     url: `${BASE_URL}/india/agra/${slug}`,
     lastModified: new Date(),
@@ -74,6 +75,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-delhi-museum-tour', 'best-delhi-airport-layover-tour', 'best-private-delhi-tour',
     'best-taj-mahal-guide-tour-from-delhi',
     'delhi-tourist-scams-how-to-avoid-touts',
+    'should-i-book-delhi-tour-direct-or-through-app',
   ].map(slug => ({
     url: `${BASE_URL}/india/delhi/${slug}`,
     lastModified: new Date(),
@@ -96,6 +98,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-jaipur-hot-air-balloon-tour', 'best-jaipur-sunset-night-tour',
     'best-jaipur-elephant-experience', 'best-hotel-near-amber-fort',
     'jaipur-tourist-scams-how-to-avoid-touts',
+    'should-i-book-jaipur-tour-direct-or-through-app',
   ].map(slug => ({
     url: `${BASE_URL}/india/jaipur/${slug}`,
     lastModified: new Date(),

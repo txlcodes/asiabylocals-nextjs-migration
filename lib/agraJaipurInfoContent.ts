@@ -944,6 +944,53 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         jsonLd: { '@context': 'https://schema.org', '@graph': [{ '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'Should I stay near Amber Fort or in central Jaipur?', acceptedAnswer: { '@type': 'Answer', text: 'For most travellers, central Jaipur is more practical, with only a 20-30 minute transfer to the fort.' } }] }] },
       };
 
+    case "should-i-book-taj-mahal-tour-direct-or-through-app":
+      return {
+        title: "Should You Book a Taj Mahal Tour Direct or Through an App? What Actually Matters",
+        seoTitle: "Book Taj Mahal Tour Direct or Through an App — What Actually Matters (2026)",
+        description: "The real difference isn't direct vs. app — it's whether a real person answers your questions before you pay. What to check before booking any Taj Mahal or Agra tour.",
+        heroImage: A_SUNSET.image,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The app-versus-direct question matters less than it seems — most Agra tours, however they're sold, trace back to the same small pool of licensed local guides and operators. What actually matters is whether you can **ask a real person a specific question before paying**: can your elderly parent manage the walk, does the guide speak Spanish, can the timing shift by an hour. On AsiaByLocals, that question goes to the AsiaByLocals team directly over WhatsApp, not a chatbot or a ticket queue, before you book.",
+            tourCard: A_SUNSET,
+          },
+          {
+            title: "What to Actually Check Before Booking",
+            content: "Whatever platform you book through, confirm: who answers if something changes the night before, whether the guide is government-licensed (ask for the license number), and whether the price already includes entry tickets or adds them later. A platform that lets you ask these questions and get a specific answer before paying is worth more than one offering the lowest listed price with no way to ask anything first.",
+            tourCard: A_FULL,
+          },
+          {
+            title: "Why We Built It This Way",
+            content: "Every AsiaByLocals tour page has an \"Ask a question on WhatsApp\" button, and a real person replies, checking with the local operator when the answer depends on them — not a bot, and not a form that disappears into a queue. Bookings are confirmed with the operator before they're treated as final. If you'd rather talk to someone before deciding anything, message +91 84495 38716 on WhatsApp or email info@asiabylocals.com.",
+            tourCard: A_GUIDE,
+          }
+        ],
+        faqs: [
+          { q: "Should I book a Taj Mahal tour direct or through a booking app?", a: "What matters more than direct-vs-app is whether you can ask a specific question and get a real answer before paying. Check for that rather than just comparing where the listing appears." },
+          { q: "Can I ask questions before booking an Agra tour?", a: "Yes — every AsiaByLocals tour page has a WhatsApp button, and a real person answers, checking with the local operator if needed, before you pay anything." },
+          { q: "How do I verify a Taj Mahal guide is licensed?", a: "Ask for their license number before the tour. A real government-licensed guide will provide it without hesitation." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "Should I book a Taj Mahal tour direct or through a booking app?", "acceptedAnswer": { "@type": "Answer", "text": "What matters more is whether you can ask a specific question and get a real answer before paying." } },
+                { "@type": "Question", "name": "Can I ask questions before booking an Agra tour?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — every tour page has a WhatsApp button and a real person answers before you pay." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'MessageCircle', label: 'Ask Before Booking', value: 'WhatsApp +91 84495 38716' },
+          { icon: 'User', label: 'Who Answers', value: 'A Real Person, Not a Bot' },
+          { icon: 'CheckCircle', label: 'Confirmed With Operator', value: 'Before It\'s Final' }
+        ]
+      };
+
     case "agra-tour-guide-scams-how-to-avoid-touts":
       return {
         title: "Agra Tour Guide Scams: How to Avoid Touts at the Taj Mahal",
@@ -993,6 +1040,51 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
           { icon: 'Shield', label: 'Check For', value: 'Government-Issued ID Card' },
           { icon: 'AlertTriangle', label: 'Common Scam', value: 'Fake Guides at the Gate' },
           { icon: 'CheckCircle', label: 'Safest Fix', value: 'Book Ahead of Arrival' }
+        ]
+      };
+
+    case "should-i-book-jaipur-tour-direct-or-through-app":
+      return {
+        title: "Should You Book a Jaipur Tour Direct or Through an App? What Actually Matters",
+        seoTitle: "Book Jaipur Tour Direct or Through an App — What Actually Matters (2026)",
+        description: "The real question isn't direct vs. app — it's whether a real person answers your questions before you pay. What to check before booking any Amber Fort or Jaipur tour.",
+        heroImage: J_AMBER.image,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Most Jaipur tours, however they're sold, trace back to the same small pool of local guides and operators — the platform matters less than whether you can **ask a specific question and get a real answer before paying**. On AsiaByLocals, that question goes straight to the team over WhatsApp, not a chatbot, before you book anything.",
+            tourCard: J_AMBER,
+          },
+          {
+            title: "What to Actually Check Before Booking",
+            content: "Confirm who answers if your flight time changes, whether the Amber Fort elephant-ride alternative you want (a no-riding sanctuary, for instance) is actually bookable on the itinerary, and whether entry tickets are already included in the quoted price. A platform that lets you ask these questions and get a specific answer beats one that just shows the lowest number with no way to ask anything first.",
+            tourCard: J_FULL,
+          },
+          {
+            title: "Why We Built It This Way",
+            content: "Every AsiaByLocals tour page has an \"Ask a question on WhatsApp\" button, and a real person replies — checking with the local operator when the answer depends on them — not a bot, not a ticket queue. Bookings are confirmed with the operator before they're treated as final. Message +91 84495 38716 on WhatsApp or info@asiabylocals.com if you'd rather talk it through first.",
+            tourCard: J_CITY,
+          }
+        ],
+        faqs: [
+          { q: "Should I book a Jaipur tour direct or through a booking app?", a: "What matters more than direct-vs-app is whether you can ask a specific question and get a real answer before paying." },
+          { q: "Can I ask questions before booking a Jaipur tour?", a: "Yes — every AsiaByLocals tour page has a WhatsApp button, and a real person answers, checking with the local operator if needed, before you pay." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "Should I book a Jaipur tour direct or through a booking app?", "acceptedAnswer": { "@type": "Answer", "text": "What matters more is whether you can ask a specific question and get a real answer before paying." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'MessageCircle', label: 'Ask Before Booking', value: 'WhatsApp +91 84495 38716' },
+          { icon: 'User', label: 'Who Answers', value: 'A Real Person, Not a Bot' },
+          { icon: 'CheckCircle', label: 'Confirmed With Operator', value: 'Before It\'s Final' }
         ]
       };
 

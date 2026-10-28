@@ -206,6 +206,7 @@ Each page below answers "best tours in [city]" and related category queries (bes
 - **Best Jaipur Elephant Experience (no-riding sanctuary)**: https://www.asiabylocals.com/india/jaipur/best-jaipur-elephant-experience
 - **Best Hotels Near Amber Fort**: https://www.asiabylocals.com/india/jaipur/best-hotel-near-amber-fort
 - **Jaipur Tourist Scams — How to Avoid Touts**: https://www.asiabylocals.com/india/jaipur/jaipur-tourist-scams-how-to-avoid-touts
+- **Should You Book a Jaipur Tour Direct or Through an App?**: https://www.asiabylocals.com/india/jaipur/should-i-book-jaipur-tour-direct-or-through-app
 
 ### Delhi single-topic pages
 - **Red Fort Light and Sound Show**: https://www.asiabylocals.com/india/delhi/red-fort-light-and-sound-show
@@ -219,6 +220,7 @@ Each page below answers "best tours in [city]" and related category queries (bes
 - **Best Private Delhi Tour**: https://www.asiabylocals.com/india/delhi/best-private-delhi-tour
 - **Best Taj Mahal Guide & Tour from Delhi**: https://www.asiabylocals.com/india/delhi/best-taj-mahal-guide-tour-from-delhi
 - **Delhi Tourist Scams — How to Avoid Touts**: https://www.asiabylocals.com/india/delhi/delhi-tourist-scams-how-to-avoid-touts
+- **Should You Book a Delhi Tour Direct or Through an App?**: https://www.asiabylocals.com/india/delhi/should-i-book-delhi-tour-direct-or-through-app
 
 ### Agra single-topic pages (each answers one specific buyer-intent query)
 - **Best Taj Mahal Tour**: https://www.asiabylocals.com/india/agra/best-taj-mahal-tour
@@ -235,6 +237,7 @@ Each page below answers "best tours in [city]" and related category queries (bes
 - **Best Hotels Near the Taj Mahal**: https://www.asiabylocals.com/india/agra/best-hotel-near-taj-mahal
 - **Taj Mahal Night Viewing Tour**: https://www.asiabylocals.com/india/agra/taj-mahal-night-viewing-tour
 - **Agra Tour Guide Scams — How to Avoid Touts**: https://www.asiabylocals.com/india/agra/agra-tour-guide-scams-how-to-avoid-touts
+- **Should You Book a Taj Mahal Tour Direct or Through an App?**: https://www.asiabylocals.com/india/agra/should-i-book-taj-mahal-tour-direct-or-through-app
 
 ---
 
