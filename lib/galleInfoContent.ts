@@ -404,6 +404,49 @@ export function getGalleInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-tours-in-galle":
+      return {
+        title: "Best Tours in Galle — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Galle 2026: Top-Rated Picks by Category",
+        description: "The best Galle tours for 2026, picked by category — a countryside cycling tour through villages and paddy fields, and scuba diving on the Hikkaduwa reef — with real prices and an honest note on how we chose them.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375761/asiabylocals/tours/from-galle-all-inclusive-countryside-cycling-tour/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **countryside cycling tour through villages, paddy fields and plantations** is the best way to see the Galle region beyond the fort walls — everyday rural Sri Lankan life that the coastal fort town doesn't show.",
+            tourCard: { slug: "galle-countryside-cycling-tour-through-villages-paddy-fields", title: "Galle Countryside Cycling Tour through Villages, Paddy Fields and Plantations", description: "Bookable directly through AsiaByLocals, with a verified local operator.", price: "From USD 84.5", duration: "4 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375761/asiabylocals/tours/from-galle-all-inclusive-countryside-cycling-tour/img0.jpg" },
+          },
+          {
+            title: "Best Water Activity: Hikkaduwa Reef Diving",
+            content: "A **scuba diving session on the Hikkaduwa reef**, a short drive from Galle, is the best underwater experience on this stretch of coast — a marine sanctuary with visibility good enough for a genuine reef dive.",
+            tourCard: { slug: "hikkaduwa-reef-scuba-diving-session", title: "Hikkaduwa Reef Scuba Diving Session", description: "Bookable directly through AsiaByLocals, with a verified local operator.", price: "From USD 127.78", duration: "3 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788368965/asiabylocals/tours/scuba-diving-in-hikkaduwa/img0.jpg" },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Galle tours](/sri-lanka/galle)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Galle?", a: "A countryside cycling tour through villages, paddy fields and plantations — the best way to see the region beyond the fort walls." },
+          { q: "Is diving near Galle worth it?", a: "Yes — Hikkaduwa reef, a short drive away, is a marine sanctuary with visibility good enough for a genuine reef dive." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Galle?", "acceptedAnswer": { "@type": "Answer", "text": "A countryside cycling tour through villages, paddy fields and plantations." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Countryside Cycling Tour' },
+          { icon: 'Waves', label: 'Best Water Activity', value: 'Hikkaduwa Reef Diving' }
+        ]
+      };
+
     default:
       return null;
   }

@@ -513,7 +513,7 @@ export const SAPPORO_INFO_SLUGS = [
   'sapporo-beer-chocolate-factories',
   'lake-toya-shikotsu-guide',
   'where-to-stay-in-sapporo',
-  'sapporo-with-kids'];
+  'sapporo-with-kids', 'best-tours-in-sapporo'];
 
 // Re-add a slug here ONLY once its page exists in lib/naraInfoContent.ts.
 export const NARA_INFO_SLUGS = [
@@ -556,7 +556,8 @@ export const ELLA_INFO_SLUGS = [
   'yala-vs-udawalawe-from-ella',
   'liptons-seat-and-ella-tea-country',
   'ella-waterfalls-and-day-tours',
-  'leaving-ella-onward-transfers'
+  'leaving-ella-onward-transfers',
+  'best-tours-in-ella'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/galleInfoContent.ts.
@@ -564,19 +565,22 @@ export const GALLE_INFO_SLUGS = [
   'galle-fort-guide',
   'mirissa-whale-watching-guide',
   'south-coast-beaches-guide',
-  'galle-2-day-itinerary'
+  'galle-2-day-itinerary',
+  'best-tours-in-galle'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/negomboInfoContent.ts.
 export const NEGOMBO_INFO_SLUGS = [
   'negombo-airport-guide',
-  'negombo-lagoon-guide'
+  'negombo-lagoon-guide',
+  'best-tours-in-negombo'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/nuwaraEliyaInfoContent.ts.
 export const NUWARA_ELIYA_INFO_SLUGS = [
   'nuwara-eliya-tea-guide',
-  'horton-plains-guide'
+  'horton-plains-guide',
+  'best-tours-in-nuwara-eliya'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/bentotaInfoContent.ts.

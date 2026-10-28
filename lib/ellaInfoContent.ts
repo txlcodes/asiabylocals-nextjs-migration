@@ -878,6 +878,54 @@ export function getEllaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-ella":
+      return {
+        title: "Best Tours in Ella — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Ella 2026: Top-Rated Picks by Category",
+        description: "The best Ella tours for 2026, picked by category — waterfall abseiling and a scenic transfer to Kandy via Nuwara Eliya and the hill country train — with real prices and an honest note on how we chose them.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375778/asiabylocals/tours/ella-kandy-transfer-with-train-ride-nuwara-eliya-tour/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "**Waterfall abseiling** near Ella is the single most memorable adrenaline experience in Sri Lanka's hill country — a genuine adventure activity rather than a standard sightseeing stop, with hotel pickup included.",
+            tourCard: { slug: "ella-waterfall-abseiling-adventure-hotel-pickup", title: "Ella Waterfall Abseiling Adventure with Hotel Pickup", description: "Bookable directly through AsiaByLocals, with a verified local operator.", price: "From USD 57.71", duration: "4 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788368885/asiabylocals/tours/from-ella-waterfalls-abseiling-adventure-thrill-nature/img0.jpg" },
+          },
+          {
+            title: "Best Scenic Transfer: Ella to Kandy with the Hill Country Train",
+            content: "An **Ella to Kandy transfer that includes the hill country train ride and Nuwara Eliya** turns the journey into the main event — Sri Lanka's train through the tea hills is one of the most scenic rail journeys in Asia.",
+            tourCard: { slug: "ella-to-kandy-transfer-with-the-hill-country-train-ride-and-nuwara-eliya", title: "Ella to Kandy Transfer with the Hill Country Train Ride and Nuwara Eliya", description: "Bookable directly through AsiaByLocals, with a verified local operator.", price: "From USD 65.95", duration: "8 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375778/asiabylocals/tours/ella-kandy-transfer-with-train-ride-nuwara-eliya-tour/img0.jpg" },
+          },
+          {
+            title: "Best Road Transfer: Ella to Kandy with Ramboda Falls",
+            content: "An **Ella to Kandy guided transfer via Nuwara Eliya, Ramboda Falls and Peradeniya** is the road alternative — more stops, more flexibility on timing, for travellers who'd rather not be tied to the train schedule.",
+            tourCard: { slug: "ella-to-kandy-guided-transfer-with-nuwara-eliya-ramboda-falls", title: "Ella to Kandy Guided Transfer with Nuwara Eliya, Ramboda Falls and Peradeniya", description: "Bookable directly through AsiaByLocals, with a verified local operator.", price: "From USD 60.67", duration: "8 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375678/asiabylocals/tours/ella-to-kandy-transfer-with-lakes-falls-botanical-garden/img0.jpg" },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Ella tours](/sri-lanka/ella)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Ella?", a: "Waterfall abseiling — the single most memorable adrenaline experience in the hill country, with hotel pickup included." },
+          { q: "What is the best way to get from Ella to Kandy?", a: "A transfer that includes the hill country train ride and Nuwara Eliya — the train through the tea hills is one of the most scenic rail journeys in Asia. The road alternative via Ramboda Falls offers more flexible timing." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Ella?", "acceptedAnswer": { "@type": "Answer", "text": "Waterfall abseiling, the most memorable adrenaline experience in the hill country." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Waterfall Abseiling' },
+          { icon: 'Train', label: 'Best Transfer', value: 'Hill Country Train to Kandy' }
+        ]
+      };
+
     default:
       return null;
   }

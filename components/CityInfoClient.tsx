@@ -813,6 +813,7 @@ const SIGIRIYA_SIDEBAR = [
 ];
 
 const ELLA_SIDEBAR = [
+    { name: 'Best Tours in Ella', slug: 'best-tours-in-ella' },
     { name: 'Leaving Ella: Transfers', slug: 'leaving-ella-onward-transfers' },
     { name: 'Nine Arch Bridge', slug: 'nine-arch-bridge-guide' },
     { name: "Little Adam's Peak & Ella Rock", slug: 'little-adams-peak-and-ella-rock' },
@@ -826,6 +827,7 @@ const ELLA_SIDEBAR = [
 ];
 
 const GALLE_SIDEBAR = [
+    { name: 'Best Tours in Galle', slug: 'best-tours-in-galle' },
     { name: 'Galle Fort Guide', slug: 'galle-fort-guide' },
     { name: 'Mirissa Whale Watching', slug: 'mirissa-whale-watching-guide' },
     { name: 'South Coast Beaches', slug: 'south-coast-beaches-guide' },
@@ -833,11 +835,13 @@ const GALLE_SIDEBAR = [
 ];
 
 const NEGOMBO_SIDEBAR = [
+    { name: 'Best Tours in Negombo', slug: 'best-tours-in-negombo' },
     { name: 'Negombo Airport Guide', slug: 'negombo-airport-guide' },
     { name: 'Negombo Lagoon Guide', slug: 'negombo-lagoon-guide' },
 ];
 
 const NUWARA_ELIYA_SIDEBAR = [
+    { name: 'Best Tours in Nuwara Eliya', slug: 'best-tours-in-nuwara-eliya' },
     { name: 'Ceylon Tea Guide', slug: 'nuwara-eliya-tea-guide' },
     { name: 'Horton Plains & World\'s End', slug: 'horton-plains-guide' },
 ];
@@ -990,6 +994,7 @@ const MOUNT_FUJI_SIDEBAR = [
 ];
 
 const SAPPORO_SIDEBAR = [
+    { name: 'Best Tours in Sapporo', slug: 'best-tours-in-sapporo' },
     { name: 'Snow Festival Guide', slug: 'sapporo-snow-festival-guide' },
     { name: 'Furano & Biei', slug: 'furano-biei-guide' },
     { name: 'Noboribetsu Onsen', slug: 'noboribetsu-onsen-guide' },

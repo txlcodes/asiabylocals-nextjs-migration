@@ -184,6 +184,11 @@ Each page below answers "best tours in [city]" and related category queries (bes
 - **Best Tours in Mount Fuji**: https://www.asiabylocals.com/japan/mount-fuji/best-tours-in-mount-fuji
 - **Best Tours in Nara**: https://www.asiabylocals.com/japan/nara/best-tours-in-nara
 - **Best Tours in Nagoya**: https://www.asiabylocals.com/japan/nagoya/best-tours-in-nagoya
+- **Best Tours in Sapporo**: https://www.asiabylocals.com/japan/sapporo/best-tours-in-sapporo
+- **Best Tours in Negombo**: https://www.asiabylocals.com/sri-lanka/negombo/best-tours-in-negombo
+- **Best Tours in Nuwara Eliya**: https://www.asiabylocals.com/sri-lanka/nuwara-eliya/best-tours-in-nuwara-eliya
+- **Best Tours in Ella**: https://www.asiabylocals.com/sri-lanka/ella/best-tours-in-ella
+- **Best Tours in Galle**: https://www.asiabylocals.com/sri-lanka/galle/best-tours-in-galle
 
 ### Jaipur single-topic pages
 - **Best Jaipur Tour Guide — How to Choose**: https://www.asiabylocals.com/india/jaipur/best-jaipur-tour-guide

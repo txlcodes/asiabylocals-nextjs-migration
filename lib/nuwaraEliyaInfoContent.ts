@@ -194,6 +194,49 @@ export function getNuwaraEliyaInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-tours-in-nuwara-eliya":
+      return {
+        title: "Best Tours in Nuwara Eliya — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Nuwara Eliya 2026: Top-Rated Picks by Category",
+        description: "The best Nuwara Eliya tours for 2026, picked by category — tea-estate transfers to Kandy and a guided transfer to Sigiriya with Dambulla — with real prices and an honest note on how we chose them.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375991/asiabylocals/tours/nuwaraeliya-or-nanu-oya-to-kandy-tour-tea-waterfalls-view/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **transfer from Nuwara Eliya to Kandy with tea plantations and Ramboda Falls** turns the drive into the main event — this stretch of road through Sri Lanka's hill country is one of the most scenic in the country, and worth stopping for rather than rushing through.",
+            tourCard: { slug: "nuwara-eliya-to-kandy-transfer-with-tea-plantations-and-ramboda-falls", title: "Nuwara Eliya to Kandy Transfer with Tea Plantations and Ramboda Falls", description: "Bookable directly through AsiaByLocals, with a verified local operator.", price: "From USD 48.75", duration: "7 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375991/asiabylocals/tours/nuwaraeliya-or-nanu-oya-to-kandy-tour-tea-waterfalls-view/img0.jpg" },
+          },
+          {
+            title: "Best for Continuing North: Sigiriya & Dambulla",
+            content: "A **guided transfer to Sigiriya with Dambulla and tea estate stops** is the best way to continue from the hill country into the cultural triangle without wasting the drive as dead travel time.",
+            tourCard: { slug: "nuwara-eliya-to-sigiriya-guided-transfer-with-tea-estates-and-dambulla", title: "Nuwara Eliya to Sigiriya Guided Transfer with Tea Estates and Dambulla", description: "Bookable directly through AsiaByLocals, with a verified local operator.", price: "From USD 65.95", duration: "7 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788369035/asiabylocals/tours/from-nuwara-eliya-to-kandy-drop-tour/img0.png" },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Nuwara Eliya tours](/sri-lanka/nuwara-eliya)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour from Nuwara Eliya?", a: "A transfer to Kandy with tea plantations and Ramboda Falls — the drive itself is one of the most scenic stretches in Sri Lanka and worth treating as the main event." },
+          { q: "How do I continue from Nuwara Eliya to the cultural triangle?", a: "A guided transfer to Sigiriya with tea estate stops and Dambulla, which turns the drive into a sightseeing day rather than dead travel time." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour from Nuwara Eliya?", "acceptedAnswer": { "@type": "Answer", "text": "A transfer to Kandy with tea plantations and Ramboda Falls." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Kandy Transfer + Tea Plantations' },
+          { icon: 'Map', label: 'Best Onward Route', value: 'Sigiriya + Dambulla Transfer' }
+        ]
+      };
+
     default:
       return null;
   }

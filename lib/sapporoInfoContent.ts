@@ -1038,6 +1038,56 @@ export function getSapporoInfoContent(slug: string): CityInfoData | null {
         },
         heroImage: S_ASAHI.image,
       };
+    case "best-tours-in-sapporo":
+            return {
+                title: "Best Tours in Sapporo — 2026, Honestly Compared",
+                seoTitle: "Best Tours in Sapporo 2026: Top-Rated Picks by Category",
+                description: "The best Sapporo tours for 2026, picked by category — a Golden Route morning walk, a local food crawl, and a Hokkaido day trip to the Blue Pond — with real prices and an honest note on how we chose them.",
+                heroImage: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015029/asiabylocals/tours/sapporo-sapporo-golden-route-morning-walk-past-the-clock-tower-and-tv-tower/img0.jpg',
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "A **morning walk past the Clock Tower and TV Tower** is the essential Sapporo city orientation — short, efficient, and gets you the landmarks before the day's main activity, whether that's a food crawl or a Hokkaido day trip.",
+                        tourCard: { slug: 'sapporo-morning-tour', title: 'Sapporo Golden Route: Morning Walk Past the Clock Tower and TV Tower', description: 'A top-rated Sapporo experience, bookable directly through AsiaByLocals.', price: 'From USD 50.45', duration: '2 hours', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015029/asiabylocals/tours/sapporo-sapporo-golden-route-morning-walk-past-the-clock-tower-and-tv-tower/img0.jpg' },
+                    },
+                    {
+                        title: "Best Food Tour",
+                        content: "A **local food crawl across four venues** covers ten-plus dishes — Sapporo's food reputation (miso ramen, fresh Hokkaido seafood, soup curry) is genuinely deserved, and a guide gets you past the language barrier at smaller spots.",
+                        tourCard: { slug: 'sapporo-food-tour', title: 'Sapporo Local Food Crawl: Ten-Plus Dishes Across Four Venues', description: 'A top-rated Sapporo experience, bookable directly through AsiaByLocals.', price: 'From USD 120.47', duration: '4 hours', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015045/asiabylocals/tours/sapporo-sapporo-local-food-crawl-ten-plus-dishes-across-four-venues/img0.jpg' },
+                    },
+                    {
+                        title: "Best Day Trip: Hokkaido's Blue Pond",
+                        content: "A **Hokkaido day trip to Asahiyama Zoo, the Blue Pond and Shirahige Falls** is the best full day outside Sapporo — the Blue Pond's unusual aquamarine colour, caused by natural mineral deposits, is a genuinely unique sight.",
+                        tourCard: { slug: 'sapporo-full-day-tour', title: 'Hokkaido Day Trip from Sapporo: Asahiyama Zoo, Blue Pond & Shirahige Falls', description: 'A top-rated Sapporo experience, bookable directly through AsiaByLocals.', price: 'From USD 56.92', duration: '9 hours', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788014991/asiabylocals/tours/sapporo-hokkaido-day-trip-from-sapporo-asahiyama-zoo-blue-pond-shirahige-falls/img0.jpg' },
+                    },
+                    {
+                        title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+                        content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Sapporo tours](/japan/sapporo)."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best tour in Sapporo?", a: "A morning walk past the Clock Tower and TV Tower for orientation, paired with a local food crawl or a Hokkaido day trip depending on how much time you have." },
+                    { q: "What is the best day trip from Sapporo?", a: "A Hokkaido day trip to Asahiyama Zoo, the Blue Pond and Shirahige Falls — the Blue Pond's aquamarine colour, from natural mineral deposits, is a genuinely unique sight." },
+                    { q: "Is Sapporo's food scene worth a guided tour?", a: "Yes — a local food crawl across four venues covers ten-plus dishes and gets you past the language barrier at smaller, non-touristy spots." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@graph": [
+                        {
+                            "@type": "FAQPage",
+                            "mainEntity": [
+                                { "@type": "Question", "name": "What is the best tour in Sapporo?", "acceptedAnswer": { "@type": "Answer", "text": "A morning walk past the Clock Tower and TV Tower, paired with a food crawl or Hokkaido day trip." } },
+                                { "@type": "Question", "name": "What is the best day trip from Sapporo?", "acceptedAnswer": { "@type": "Answer", "text": "A Hokkaido day trip to Asahiyama Zoo, the Blue Pond and Shirahige Falls." } }
+                            ]
+                        }
+                    ]
+                },
+                fastFacts: [
+                    { icon: 'Star', label: 'Top Pick', value: 'Golden Route Morning Walk' },
+                    { icon: 'Utensils', label: 'Best Food Tour', value: '4-Venue Food Crawl' },
+                    { icon: 'Map', label: 'Best Day Trip', value: 'Blue Pond + Shirahige Falls' }
+                ]
+            };
     default:
             return null;
     }

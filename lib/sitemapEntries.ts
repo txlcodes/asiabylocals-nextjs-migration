@@ -536,7 +536,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'sapporo-3-day-itinerary',
     'furano-biei-guide', 'noboribetsu-onsen-guide', 'asahiyama-zoo-guide', 'sapporo-beer-chocolate-factories', 'lake-toya-shikotsu-guide',
     'where-to-stay-in-sapporo',
-    'sapporo-with-kids'].map(slug => ({
+    'sapporo-with-kids', 'best-tours-in-sapporo'].map(slug => ({
     url: `${BASE_URL}/japan/sapporo/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -610,7 +610,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'yala-vs-udawalawe-from-ella',
     'liptons-seat-and-ella-tea-country',
     'ella-waterfalls-and-day-tours',
-    'leaving-ella-onward-transfers'].map(slug => ({
+    'leaving-ella-onward-transfers', 'best-tours-in-ella'].map(slug => ({
     url: `${BASE_URL}/sri-lanka/ella/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -658,7 +658,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   }));
 
   const galleInfoPages = [
-    'galle-fort-guide', 'mirissa-whale-watching-guide', 'south-coast-beaches-guide', 'galle-2-day-itinerary'
+    'galle-fort-guide', 'mirissa-whale-watching-guide', 'south-coast-beaches-guide', 'galle-2-day-itinerary', 'best-tours-in-galle'
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/galle/${slug}`,
     lastModified: new Date(),
@@ -667,7 +667,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   }));
 
   const negomboInfoPages = [
-    'negombo-airport-guide', 'negombo-lagoon-guide'
+    'negombo-airport-guide', 'negombo-lagoon-guide', 'best-tours-in-negombo'
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/negombo/${slug}`,
     lastModified: new Date(),
@@ -676,7 +676,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   }));
 
   const nuwaraEliyaInfoPages = [
-    'nuwara-eliya-tea-guide', 'horton-plains-guide'
+    'nuwara-eliya-tea-guide', 'horton-plains-guide', 'best-tours-in-nuwara-eliya'
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/nuwara-eliya/${slug}`,
     lastModified: new Date(),

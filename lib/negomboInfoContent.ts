@@ -203,6 +203,54 @@ export function getNegomboInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-tours-in-negombo":
+      return {
+        title: "Best Tours in Negombo — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Negombo 2026: Top-Rated Picks by Category",
+        description: "The best Negombo tours for 2026, picked by category — a tuk-tuk city tour, a lagoon and mangrove boat excursion, and the Monkey Island boat trip — with real prices and an honest note on how we chose them.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788369162/asiabylocals/tours/negombo-and-colombo-city-tour-with-ceylon-tuk-tuk/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **Negombo and Colombo city tour by tuk-tuk** is the easiest way to see both cities, good for a first or last day near the airport without needing to arrange your own transport between them.",
+            tourCard: { slug: "negombo-colombo-city-tour-tuk-tuk", title: "Negombo and Colombo City Tour by Tuk Tuk", description: "Bookable directly through AsiaByLocals, with a verified local operator.", price: "From USD 75.4", duration: "6 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788369162/asiabylocals/tours/negombo-and-colombo-city-tour-with-ceylon-tuk-tuk/img0.jpg" },
+          },
+          {
+            title: "Best Nature Experience: Lagoon & Mangroves",
+            content: "A **Negombo Lagoon and mangrove boat excursion**, with stops at the Dutch Canal and fish market, covers the quieter, local-life side of Negombo that the beach strip doesn't show.",
+            tourCard: { slug: "negombo-lagoon-mangrove-boat-excursion-dutch-canal-fish-market", title: "Negombo Lagoon and Mangrove Boat Excursion with Dutch Canal and Fish Market", description: "Bookable directly through AsiaByLocals, with a verified local operator.", price: "From USD 156", duration: "Half day", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788369182/asiabylocals/tours/negombo-lagoon-mangrove-boat-excursion/img0.jpg" },
+          },
+          {
+            title: "Best Short Boat Trip: Monkey Island",
+            content: "A **lagoon boat trip to Monkey Island** is a shorter, lighter version of the lagoon experience — good for travellers with limited time near the airport.",
+            tourCard: { slug: "negombo-lagoon-boat-trip-monkey-island", title: "Negombo Lagoon Boat Trip to Monkey Island", description: "Bookable directly through AsiaByLocals, with a verified local operator.", price: "From USD 88.62", duration: "2 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788369162/asiabylocals/tours/negombo-and-colombo-city-tour-with-ceylon-tuk-tuk/img0.jpg" },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Negombo tours](/sri-lanka/negombo)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Negombo?", a: "A Negombo and Colombo city tour by tuk-tuk — the easiest way to see both cities, especially for a first or last day near the airport." },
+          { q: "What is the best nature experience in Negombo?", a: "A lagoon and mangrove boat excursion with stops at the Dutch Canal and fish market, or the shorter Monkey Island boat trip if time is limited." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Negombo?", "acceptedAnswer": { "@type": "Answer", "text": "A Negombo and Colombo city tour by tuk-tuk." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Negombo + Colombo Tuk-Tuk Tour' },
+          { icon: 'Waves', label: 'Best Nature Tour', value: 'Lagoon + Mangrove Excursion' }
+        ]
+      };
+
     default:
       return null;
   }
