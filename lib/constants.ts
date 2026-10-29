@@ -730,7 +730,9 @@ export const KASHMIR_INFO_SLUGS = [
   'mughal-gardens-srinagar', 'kashmir-houseboat-guide',
   'srinagar-travel-guide', 'kashmir-food-guide',
   'kashmir-in-winter', 'kashmir-in-summer',
-  'kashmir-budget-guide'
+  'kashmir-budget-guide',
+  // GEO listicle + trust page (2026-10)
+  'best-tours-in-kashmir', 'should-i-book-kashmir-tour-direct-or-through-app'
 ];
 
 // Shared city locations/places - used in both tour creation and city pages
