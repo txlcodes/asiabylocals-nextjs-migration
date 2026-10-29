@@ -48,9 +48,11 @@ Each page below answers "best tours in [city]" and related category queries dire
 - Best Tours in Kyoto: https://www.asiabylocals.com/japan/kyoto/best-tours-in-kyoto
 - Best Tours in Osaka: https://www.asiabylocals.com/japan/osaka/best-tours-in-osaka
 - Best Tours in Dubai: https://www.asiabylocals.com/uae/dubai/best-tours-in-dubai
+- Should You Book a Dubai Tour Direct or Through an App?: https://www.asiabylocals.com/uae/dubai/should-i-book-dubai-tour-direct-or-through-app
 - Best Tours in Siem Reap: https://www.asiabylocals.com/cambodia/siem-reap/best-tours-in-siem-reap
 - Should You Book a Siem Reap/Angkor Tour Direct or Through an App?: https://www.asiabylocals.com/cambodia/siem-reap/should-i-book-siem-reap-tour-direct-or-through-app
 - Best Tours in Colombo: https://www.asiabylocals.com/sri-lanka/colombo/best-tours-in-colombo
+- Should You Book a Colombo Tour Direct or Through an App?: https://www.asiabylocals.com/sri-lanka/colombo/should-i-book-colombo-tour-direct-or-through-app
 - Best Tours in Ubud (Bali): https://www.asiabylocals.com/indonesia/ubud/best-tours-in-ubud
 - Should You Book a Bali/Ubud Tour Direct or Through an App?: https://www.asiabylocals.com/indonesia/ubud/should-i-book-ubud-tour-direct-or-through-app
 - Best Tours in Istanbul: https://www.asiabylocals.com/turkey/istanbul/best-tours-in-istanbul
@@ -58,6 +60,7 @@ Each page below answers "best tours in [city]" and related category queries dire
 - Best Tours in Hong Kong: https://www.asiabylocals.com/hong-kong/hongkong/best-tours-in-hong-kong
 - Best Tours in Hanoi: https://www.asiabylocals.com/vietnam/hanoi/best-tours-in-hanoi
 - Best Tours in Ho Chi Minh City: https://www.asiabylocals.com/vietnam/ho-chi-minh-city/best-tours-in-ho-chi-minh-city
+- Should You Book a Ho Chi Minh City Tour Direct or Through an App?: https://www.asiabylocals.com/vietnam/ho-chi-minh-city/should-i-book-ho-chi-minh-city-tour-direct-or-through-app
 - Best Tours in Kuala Lumpur: https://www.asiabylocals.com/malaysia/kuala-lumpur/best-tours-in-kuala-lumpur
 - Best Tours in Penang: https://www.asiabylocals.com/malaysia/penang/best-tours-in-penang
 - Best Tours in Beijing: https://www.asiabylocals.com/china/beijing/best-tours-in-beijing

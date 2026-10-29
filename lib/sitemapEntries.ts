@@ -637,7 +637,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'dubai-helicopter-tours-guide',
     'day-trips-from-dubai',
     'dubai-water-sports-guide',
-    'best-tours-in-dubai'].map(slug => ({
+    'best-tours-in-dubai', 'should-i-book-dubai-tour-direct-or-through-app'].map(slug => ({
     url: `${BASE_URL}/uae/dubai/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -736,7 +736,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   const colomboInfoPages = [
     'best-time-to-visit-colombo', 'colombo-city-guide', 'getting-around-colombo',
     'colombo-food-guide', 'day-trips-from-colombo', 'colombo-2-day-itinerary',
-    'pettah-market-guide', 'galle-face-green-guide', 'best-tours-in-colombo',
+    'pettah-market-guide', 'galle-face-green-guide', 'best-tours-in-colombo', 'should-i-book-colombo-tour-direct-or-through-app',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/colombo/${slug}`,
     lastModified: new Date(),
@@ -1010,7 +1010,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'ho-chi-minh-city-1-day-itinerary',
     'saigon-cooking-classes-guide',
     'saigon-day-trips-guide',
-    'best-tours-in-ho-chi-minh-city',
+    'best-tours-in-ho-chi-minh-city', 'should-i-book-ho-chi-minh-city-tour-direct-or-through-app',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/ho-chi-minh-city/${slug}`,
     lastModified: new Date(),
