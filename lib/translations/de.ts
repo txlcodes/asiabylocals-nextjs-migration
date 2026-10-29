@@ -31572,19 +31572,6 @@ export const DE_TOURS: Record<string, TourT> = {
    "Getraenke zum Kauf erhaeltlich"
   ]
  },
- "small-group-angkor-wat-sunrise-tour-with-guide-sie": {
-  "title": "Kleingruppen-Angkor-Wat-Sonnenaufgangstour mit Guide",
-  "metaTitle": "Kleingruppen-Angkor-Wat-Sonnenaufgangstour mit Guide",
-  "shortDescription": "7-stuendige Tour in Siem Reap, mit Angkor Wat und Angkor Thom and Bayon Temple. Direkt gebucht bei Angkor Pro Travel, statt ueber einen Wiederverkaeufer.",
-  "fullDescription": "Dies ist ein 7-stuendiges Erlebnis ab Siem Reap, rund um Angkor Wat und Angkor Thom and Bayon Temple. Es wird von Angkor Pro Travel durchgefuehrt, einem Anbieter, bei dem wir direkt buchen statt ueber einen Wiederverkaeufer, weshalb wir Ihren Platz reservieren koennen, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDer Sonnenaufgang bei Angkor Wat wird vom Rand des noerdlichen Spiegelteichs aus beobachtet, wo die fuenf Tuerme schwarz gegen den Himmel aufsteigen und sich dann im Wasser verdoppeln. Die Kasse oeffnet um 04:30 Uhr und Angkor Wat laesst Besucher ab 05:00 Uhr ein, deshalb starten Touren gegen 04:30 Uhr in Siem Reap fuer eine zwanzigminuetige Fahrt; der Himmel faerbt sich, bevor die Sonne ueber die Tuerme steigt, sodass eine Ankunft im ersten Licht fuer das Beste schon zu spaet ist. Die Trockenzeit von November bis Maerz bietet die klarsten Himmel, waehrend der Regen Wolken bringt, die den Sonnenaufgang entweder zerstoeren oder erst recht schoen machen koennen. Der Teichrand fuellt sich frueh, der suedliche Teich ist meist ruhiger, und ein Guide, der weiss, auf welcher Seite man stehen sollte, macht den Unterschied zwischen einem Foto und einer Wand erhobener Handys.\n\nIm Preis enthalten sind Hotelabholung zwischen 4:20 und 5:10 Uhr. Nicht enthalten sind Angkor-Wat-Tempel-Pass, 1 Tag, 37 und Speisen und Getraenke auf eigene Kosten, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.",
-  "included": [
-   "Hotelabholung zwischen 4:20 und 5:10 Uhr"
-  ],
-  "notIncluded": [
-   "Angkor-Wat-Tempel-Pass, 1 Tag, 37",
-   "Speisen und Getraenke auf eigene Kosten"
-  ]
- },
  "phnom-penh-haft-day-tour-to-silk-island-by": {
   "title": "Phnom Penh, Halbtagestour zur Seideninsel per Tuk-Tuk",
   "metaTitle": "Phnom Penh, Halbtagestour zur Seideninsel per Tuk-Tuk",
@@ -32883,6 +32870,38 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder für Guide und Chauffeur",
    "Getränke zum Frühstück",
    "Alles, was nicht unter Inklusive genannt ist"
+  ]
+ },
+ "4-days-luxury-tour-by-car-guide-delhi-agra": {
+  "title": "4-tägige Luxustour mit Auto und Guide (Delhi → Agra → Jaipur)",
+  "metaTitle": "4-tägige Luxustour, Goldenes Dreieck",
+  "metaDescription": "Erkunden Sie Indiens ikonisches Goldenes Dreieck mit Delhi, Agra und Jaipur in 4 Tagen, mit privatem Fahrer und Guide.",
+  "shortDescription": "Erkunden Sie Indiens ikonisches Goldenes Dreieck mit Delhi, Agra und Jaipur in 4 Tagen",
+  "fullDescription": "4-tägige Luxustour mit Auto und Guide (Delhi → Agra → Jaipur). Erkunden Sie Indiens ikonisches Goldenes Dreieck mit Delhi, Agra und Jaipur in 4 Tagen.\n\nTag 1: Delhi-Besichtigung und Fahrt nach Agra\nIhre Reise beginnt mit einer bequemen Abholung an Ihrem Hotel oder Flughafen in Neu-Delhi. Treffen Sie Ihren privaten Fahrer und erfahrenen Guide, bevor Sie sich auf den Weg machen, um die ikonischen Sehenswuerdigkeiten der Hauptstadt zu erkunden.\n\nBeginnen Sie mit Alt-Delhi, wo Sie das majestaetische Rote Fort besuchen (Fotostopp) und die lebendige Atmosphaere von Chandni Chowk bei einer Rikscha-Fahrt durch die geschaeftigen Gassen geniessen. Weiter geht es zur grossen Jama Masjid.\n\nIn Neu-Delhi bewundern Sie das elegante India Gate, fahren am Praesidentensitz Rashtrapati Bhavan vorbei und besuchen den hochaufragenden Qutub Minar.\n\nSpaeter am Nachmittag Fahrt nach Agra ueber die Schnellstrasse (etwa 3-4 Stunden). Bei der Ankunft Check-in im Hotel und Entspannung ueber Nacht.\n\nTag 2: Agra-Besichtigung und Fahrt nach Jaipur (ueber Fatehpur Sikri)\nBeginnen Sie Ihren Tag fruehzeitig mit einem atemberaubenden Sonnenaufgangsbesuch des ikonischen Taj Mahal, ein Symbol ewiger Liebe. Beobachten Sie, wie das Marmordenkmal im sanften Morgenlicht erstrahlt.\n\nRueckkehr zu Ihrem Hotel zum Fruehstueck, dann Erkundung des historischen Agra Forts, einer prachtvollen Festung aus rotem Sandstein, die einst als moghulische Residenz diente.\n\nSpaeter Fahrt in Richtung Jaipur. Auf dem Weg Stopp in der verlassenen Mogulstadt Fatehpur Sikri, bekannt fuer ihre atemberaubende Architektur und faszinierende Geschichte.\n\nSetzen Sie Ihre Reise nach Jaipur fort. Bei der Ankunft Check-in im Hotel und Genuss eines friedlichen Abends.\n\nTag 3: Jaipur-Besichtigung\nNach dem Fruehstueck beginnen Sie Ihre Stadttour durch Jaipur mit einem Besuch des prachtvollen Amber Forts, bekannt fuer seine schoenen Hoefe und Huegelblicke.\n\nHalten Sie fuer Fotos am ikonischen Hawa Mahal, beruehmt fuer seine kunstvolle Fassade aus rosa Sandstein. Weiter geht es zum grossen City Palace Jaipur, gefolgt vom faszinierenden astronomischen Observatorium Jantar Mantar.\n\nSie koennen auch lokale Maerkte fuer Kunsthandwerk, Textilien und Schmuck erkunden, bevor Sie zu Ihrem Hotel fuer eine Uebernachtung in Jaipur zurueckkehren.\n\nTag 4: Jaipur nach Delhi - Abreise\nNach dem Fruehstueck beginnen Sie Ihre Rueckfahrt nach Neu-Delhi (etwa 5-6 Stunden).\n\nBei der Ankunft werden Sie an Ihrem Hotel, Flughafen oder bevorzugten Ort abgesetzt, was das Ende Ihrer denkwuerdigen 4-taegigen Reise durch das Goldene Dreieck markiert.\n\n### Im Preis enthalten\n\n- Abholung und Rueckfahrt zum Hotel/Flughafen\n- Privates klimatisiertes Auto fuer die gesamte Touraktivitaet mit Fahrer\n- Professioneller Reiseleiter in jeder Stadt\n- 3 Naechte Hotelunterkunft (wenn Option gewaehlt)\n- Fruehstueck im Hotel\n- Mineralwasserflasche\n- Alle Mautgebuehren und Parkgebuehren\n\n### Nicht enthalten\n\n- Eintrittskarten fuer Denkmaeler\n- Mittag- und Abendessen\n- Jegliche persoenlichen Ausgaben",
+  "highlights": [
+   "Erkunden Sie Indiens ikonisches Goldenes Dreieck mit Delhi, Agra und Jaipur in 4 Tagen"
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel/Flughafen\nPrivates klimatisiertes Auto fuer die gesamte Touraktivitaet mit Fahrer\nProfessioneller Reiseleiter in jeder Stadt\n3 Naechte Hotelunterkunft (wenn Option gewaehlt)\nFruehstueck im Hotel\nMineralwasserflasche\nAlle Mautgebuehren und Parkgebuehren"
+  ],
+  "notIncluded": [
+   "Eintrittskarten fuer Denkmaeler\nMittag- und Abendessen\nJegliche persoenlichen Ausgaben"
+  ]
+ },
+ "delhi-agra-jaipur-3-day-golden-triangle": {
+  "title": "Delhi, Agra und Jaipur: 3-taegiges Goldenes-Dreieck-Erlebnis",
+  "metaTitle": "Delhi, Agra, Jaipur, Goldenes Dreieck 3 Tage",
+  "metaDescription": "Taj Mahal in Agra: ikonische UNESCO-Weltkulturerbestaette, auf einer 3-taegigen Tour durch das Goldene Dreieck.",
+  "shortDescription": "Taj Mahal, Agra: ikonische UNESCO-Weltkulturerbestaette",
+  "fullDescription": "Delhi, Agra und Jaipur: 3-taegiges Goldenes-Dreieck-Erlebnis. Taj Mahal, Agra: ikonische UNESCO-Weltkulturerbestaette.\n\n\n\n### Im Preis enthalten\n\n- Professioneller Reiseleiter\n- Privates klimatisiertes Auto fuer die gesamte Aktivitaet\n- Mineralwasser in Flaschen\n- 3-Sterne-Hotelunterkunft\n- Fruehstueck im Hotel\n- Alle Mautgebuehren und Parken\n- Eintrittskarten\n- Mittagessen\n\n### Nicht enthalten\n\n- Jegliche persoenliche Ausgaben",
+  "highlights": [
+   "Taj Mahal, Agra: ikonische UNESCO-Weltkulturerbestaette"
+  ],
+  "included": [
+   "Professioneller Reiseleiter\nPrivates klimatisiertes Auto fuer die gesamte Aktivitaet\nMineralwasser in Flaschen\n3-Sterne-Hotelunterkunft\nFruehstueck im Hotel\nAlle Mautgebuehren und Parken\nEintrittskarten\nMittagessen"
+  ],
+  "notIncluded": [
+   "Jegliche persoenliche Ausgaben"
   ]
  },
  "hazrat-nizamuddin-railway-station-delhi-express-tour": {
@@ -55698,22 +55717,6 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche Mahlzeiten oder Getraenke\nJegliche persoenlichen Ausgaben\nTrinkgelder fuer den Fahrer"
   ]
  },
- "4-days-luxury-tour-by-car-guide-delhi-agra": {
-  "title": "4-tägige Luxustour mit Auto und Guide (Delhi → Agra → Jaipur)",
-  "metaTitle": "4-tägige Luxustour, Goldenes Dreieck",
-  "metaDescription": "Erkunden Sie Indiens ikonisches Goldenes Dreieck mit Delhi, Agra und Jaipur in 4 Tagen, mit privatem Fahrer und Guide.",
-  "shortDescription": "Erkunden Sie Indiens ikonisches Goldenes Dreieck mit Delhi, Agra und Jaipur in 4 Tagen",
-  "fullDescription": "4-tägige Luxustour mit Auto und Guide (Delhi → Agra → Jaipur). Erkunden Sie Indiens ikonisches Goldenes Dreieck mit Delhi, Agra und Jaipur in 4 Tagen.\n\nTag 1: Delhi-Besichtigung und Fahrt nach Agra\nIhre Reise beginnt mit einer bequemen Abholung an Ihrem Hotel oder Flughafen in Neu-Delhi. Treffen Sie Ihren privaten Fahrer und erfahrenen Guide, bevor Sie sich auf den Weg machen, um die ikonischen Sehenswuerdigkeiten der Hauptstadt zu erkunden.\n\nBeginnen Sie mit Alt-Delhi, wo Sie das majestaetische Rote Fort besuchen (Fotostopp) und die lebendige Atmosphaere von Chandni Chowk bei einer Rikscha-Fahrt durch die geschaeftigen Gassen geniessen. Weiter geht es zur grossen Jama Masjid.\n\nIn Neu-Delhi bewundern Sie das elegante India Gate, fahren am Praesidentensitz Rashtrapati Bhavan vorbei und besuchen den hochaufragenden Qutub Minar.\n\nSpaeter am Nachmittag Fahrt nach Agra ueber die Schnellstrasse (etwa 3-4 Stunden). Bei der Ankunft Check-in im Hotel und Entspannung ueber Nacht.\n\nTag 2: Agra-Besichtigung und Fahrt nach Jaipur (ueber Fatehpur Sikri)\nBeginnen Sie Ihren Tag fruehzeitig mit einem atemberaubenden Sonnenaufgangsbesuch des ikonischen Taj Mahal, ein Symbol ewiger Liebe. Beobachten Sie, wie das Marmordenkmal im sanften Morgenlicht erstrahlt.\n\nRueckkehr zu Ihrem Hotel zum Fruehstueck, dann Erkundung des historischen Agra Forts, einer prachtvollen Festung aus rotem Sandstein, die einst als moghulische Residenz diente.\n\nSpaeter Fahrt in Richtung Jaipur. Auf dem Weg Stopp in der verlassenen Mogulstadt Fatehpur Sikri, bekannt fuer ihre atemberaubende Architektur und faszinierende Geschichte.\n\nSetzen Sie Ihre Reise nach Jaipur fort. Bei der Ankunft Check-in im Hotel und Genuss eines friedlichen Abends.\n\nTag 3: Jaipur-Besichtigung\nNach dem Fruehstueck beginnen Sie Ihre Stadttour durch Jaipur mit einem Besuch des prachtvollen Amber Forts, bekannt fuer seine schoenen Hoefe und Huegelblicke.\n\nHalten Sie fuer Fotos am ikonischen Hawa Mahal, beruehmt fuer seine kunstvolle Fassade aus rosa Sandstein. Weiter geht es zum grossen City Palace Jaipur, gefolgt vom faszinierenden astronomischen Observatorium Jantar Mantar.\n\nSie koennen auch lokale Maerkte fuer Kunsthandwerk, Textilien und Schmuck erkunden, bevor Sie zu Ihrem Hotel fuer eine Uebernachtung in Jaipur zurueckkehren.\n\nTag 4: Jaipur nach Delhi - Abreise\nNach dem Fruehstueck beginnen Sie Ihre Rueckfahrt nach Neu-Delhi (etwa 5-6 Stunden).\n\nBei der Ankunft werden Sie an Ihrem Hotel, Flughafen oder bevorzugten Ort abgesetzt, was das Ende Ihrer denkwuerdigen 4-taegigen Reise durch das Goldene Dreieck markiert.\n\n### Im Preis enthalten\n\n- Abholung und Rueckfahrt zum Hotel/Flughafen\n- Privates klimatisiertes Auto fuer die gesamte Touraktivitaet mit Fahrer\n- Professioneller Reiseleiter in jeder Stadt\n- 3 Naechte Hotelunterkunft (wenn Option gewaehlt)\n- Fruehstueck im Hotel\n- Mineralwasserflasche\n- Alle Mautgebuehren und Parkgebuehren\n\n### Nicht enthalten\n\n- Eintrittskarten fuer Denkmaeler\n- Mittag- und Abendessen\n- Jegliche persoenlichen Ausgaben",
-  "highlights": [
-   "Erkunden Sie Indiens ikonisches Goldenes Dreieck mit Delhi, Agra und Jaipur in 4 Tagen"
-  ],
-  "included": [
-   "Abholung und Rueckfahrt zum Hotel/Flughafen\nPrivates klimatisiertes Auto fuer die gesamte Touraktivitaet mit Fahrer\nProfessioneller Reiseleiter in jeder Stadt\n3 Naechte Hotelunterkunft (wenn Option gewaehlt)\nFruehstueck im Hotel\nMineralwasserflasche\nAlle Mautgebuehren und Parkgebuehren"
-  ],
-  "notIncluded": [
-   "Eintrittskarten fuer Denkmaeler\nMittag- und Abendessen\nJegliche persoenlichen Ausgaben"
-  ]
- },
  "visit-mandawa-on-the-way-to-bikaner-from-jaipur": {
   "title": "Besuchen Sie Mandawa auf dem Weg nach Bikaner ab Jaipur",
   "metaTitle": "Mandawa auf dem Weg nach Bikaner",
@@ -56704,22 +56707,6 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Persoenliche Ausgaben\nEssen und Getraenke\nOptionale Aktivitaeten, die nicht im ausgewaehlten Paket enthalten sind"
-  ]
- },
- "delhi-agra-jaipur-3-day-golden-triangle": {
-  "title": "Delhi, Agra und Jaipur: 3-taegiges Goldenes-Dreieck-Erlebnis",
-  "metaTitle": "Delhi, Agra, Jaipur, Goldenes Dreieck 3 Tage",
-  "metaDescription": "Taj Mahal in Agra: ikonische UNESCO-Weltkulturerbestaette, auf einer 3-taegigen Tour durch das Goldene Dreieck.",
-  "shortDescription": "Taj Mahal, Agra: ikonische UNESCO-Weltkulturerbestaette",
-  "fullDescription": "Delhi, Agra und Jaipur: 3-taegiges Goldenes-Dreieck-Erlebnis. Taj Mahal, Agra: ikonische UNESCO-Weltkulturerbestaette.\n\n\n\n### Im Preis enthalten\n\n- Professioneller Reiseleiter\n- Privates klimatisiertes Auto fuer die gesamte Aktivitaet\n- Mineralwasser in Flaschen\n- 3-Sterne-Hotelunterkunft\n- Fruehstueck im Hotel\n- Alle Mautgebuehren und Parken\n- Eintrittskarten\n- Mittagessen\n\n### Nicht enthalten\n\n- Jegliche persoenliche Ausgaben",
-  "highlights": [
-   "Taj Mahal, Agra: ikonische UNESCO-Weltkulturerbestaette"
-  ],
-  "included": [
-   "Professioneller Reiseleiter\nPrivates klimatisiertes Auto fuer die gesamte Aktivitaet\nMineralwasser in Flaschen\n3-Sterne-Hotelunterkunft\nFruehstueck im Hotel\nAlle Mautgebuehren und Parken\nEintrittskarten\nMittagessen"
-  ],
-  "notIncluded": [
-   "Jegliche persoenliche Ausgaben"
   ]
  },
  "tour-of-artistic-work-in-jaipur-with-a-local": {

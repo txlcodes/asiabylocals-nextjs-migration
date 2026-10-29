@@ -31572,19 +31572,6 @@ export const ES_TOURS: Record<string, TourT> = {
    "bebidas disponibles para comprar"
   ]
  },
- "small-group-angkor-wat-sunrise-tour-with-guide-sie": {
-  "title": "Tour en grupo pequeno de Angkor Wat al amanecer con guia",
-  "metaTitle": "Tour en grupo pequeno de Angkor Wat al amanecer con guia",
-  "shortDescription": "Recorrido de 7 horas en Siem Reap, con Angkor Wat y Angkor Thom and Bayon Temple. Reserva directa con Angkor Pro Travel, en lugar de a traves de un revendedor.",
-  "fullDescription": "Esta es una experiencia de 7 horas desde Siem Reap, centrada en Angkor Wat y Angkor Thom and Bayon Temple. Esta a cargo de Angkor Pro Travel, un operador con el que reservamos directamente en lugar de a traves de un revendedor, por lo que podemos reservar su plaza antes de dar la reserva por definitiva.\n\nEl amanecer en Angkor Wat se observa desde el borde del estanque reflectante norte, donde las cinco torres se elevan en negro contra el cielo y luego se duplican en el agua. La taquilla abre a las 04:30 y Angkor Wat deja entrar a la gente desde las 05:00, por eso los tours salen de Siem Reap hacia las 04:30 para veinte minutos de trayecto; el cielo se colorea antes de que el sol despeje las torres, asi que llegar con las primeras luces ya es tarde para lo mejor. La temporada seca de noviembre a marzo ofrece los cielos mas limpios, mientras que las lluvias traen nubes que pueden arruinar el amanecer o hacerlo aun mejor. El borde del estanque se llena pronto, el estanque sur suele ser mas tranquilo, y un guia que sabe de que lado situarse marca la diferencia entre una fotografia y una pared de telefonos en alto.\n\nEl precio incluye recogida en el hotel entre las 4:20 y las 5:10. No incluye pase de templo Angkor Wat, 1 dia, 37 y comida y bebidas por su cuenta, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.",
-  "included": [
-   "recogida en el hotel entre las 4:20 y las 5:10"
-  ],
-  "notIncluded": [
-   "pase de templo Angkor Wat, 1 dia, 37",
-   "comida y bebidas por su cuenta"
-  ]
- },
  "phnom-penh-haft-day-tour-to-silk-island-by": {
   "title": "Phnom Penh, tour de medio dia a la isla de la seda en tuk-tuk",
   "metaTitle": "Phnom Penh, tour de medio dia a la isla de la seda en tuk-tuk",
@@ -32883,6 +32870,38 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas para guía y chófer",
    "Bebidas en el desayuno",
    "Todo lo no mencionado en lo incluido"
+  ]
+ },
+ "4-days-luxury-tour-by-car-guide-delhi-agra": {
+  "title": "Tour de lujo de 4 dias en coche con guia (Delhi → Agra → Jaipur)",
+  "metaTitle": "Tour de lujo de 4 dias, triangulo dorado",
+  "metaDescription": "Explore el iconico triangulo dorado de India, cubriendo Delhi, Agra y Jaipur en 4 dias, con conductor y guia privados.",
+  "shortDescription": "Explore el iconico triangulo dorado de India, cubriendo Delhi, Agra y Jaipur en 4 dias",
+  "fullDescription": "Tour de lujo de 4 dias en coche con guia (Delhi → Agra → Jaipur). Explore el iconico triangulo dorado de India, cubriendo Delhi, Agra y Jaipur en 4 dias.\n\nDia 1: recorrido por Delhi y viaje a Agra\nSu viaje comienza con una comoda recogida en su hotel o aeropuerto en Nueva Delhi. Reunase con su conductor privado y guia experto antes de partir a explorar los monumentos iconicos de la capital.\n\nComience con el viejo Delhi, donde visitara el majestuoso Fuerte Rojo (parada fotografica) y disfrutara del vibrante ambiente de Chandni Chowk con un paseo en rickshaw por sus bulliciosos callejones. Continue hacia la gran Jama Masjid.\n\nEn Nueva Delhi, admire la elegante India Gate, pase por la residencia presidencial Rashtrapati Bhavan y visite el imponente Qutub Minar.\n\nMas tarde por la tarde, conduzca hacia Agra por la autopista (aproximadamente 3-4 horas). A su llegada, registrese en su hotel y relajese durante la noche.\n\nDia 2: recorrido por Agra y viaje a Jaipur (via Fatehpur Sikri)\nComience su dia temprano con una impresionante visita al amanecer al iconico Taj Mahal, un simbolo de amor eterno. Observe el monumento de marmol brillando con la suave luz matutina.\n\nRegrese a su hotel para el desayuno, luego explore el historico fuerte de Agra, una magnifica fortaleza de arenisca roja que una vez sirvio como residencia mogola.\n\nMas tarde, conduzca hacia Jaipur. En el camino, detengase en la abandonada ciudad mogola de Fatehpur Sikri, conocida por su impresionante arquitectura e historia fascinante.\n\nContinue su viaje hacia Jaipur. A su llegada, registrese en su hotel y disfrute de una tarde pacifica.\n\nDia 3: recorrido por Jaipur\nDespues del desayuno, comience su recorrido por la ciudad de Jaipur con una visita al magnifico fuerte de Amber, conocido por sus hermosos patios y vistas desde la colina.\n\nDetengase para fotos en el iconico Hawa Mahal, famoso por su intrincada fachada de arenisca rosa. Continue hacia el gran City Palace de Jaipur, seguido del fascinante observatorio astronomico Jantar Mantar.\n\nTambien puede explorar mercados locales de artesania, textiles y joyeria antes de regresar a su hotel para pasar la noche en Jaipur.\n\nDia 4: de Jaipur a Delhi - salida\nDespues del desayuno, comience su viaje de regreso a Nueva Delhi (aproximadamente 5-6 horas).\n\nA su llegada, lo dejaran en su hotel, aeropuerto o ubicacion preferida, marcando el final de su memorable viaje de 4 dias por el triangulo dorado.\n\n### Que incluye\n\n- Recogida y traslado al hotel/aeropuerto\n- Coche privado con aire acondicionado para toda la actividad del tour con conductor\n- Guia turistico profesional en cada ciudad\n- 3 noches de alojamiento en hotel (si se elige la opcion)\n- Desayuno en el hotel\n- Botella de agua mineral\n- Todos los peajes y estacionamiento\n\n### No incluye\n\n- Entradas a monumentos\n- Almuerzo y cena\n- Cualquier gasto personal",
+  "highlights": [
+   "Explore el iconico triangulo dorado de India, cubriendo Delhi, Agra y Jaipur en 4 dias"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto\nCoche privado con aire acondicionado para toda la actividad del tour con conductor\nGuia turistico profesional en cada ciudad\n3 noches de alojamiento en hotel (si se elige la opcion)\nDesayuno en el hotel\nBotella de agua mineral\nTodos los peajes y estacionamiento"
+  ],
+  "notIncluded": [
+   "Entradas a monumentos\nAlmuerzo y cena\nCualquier gasto personal"
+  ]
+ },
+ "delhi-agra-jaipur-3-day-golden-triangle": {
+  "title": "Delhi, Agra y Jaipur: experiencia del Triangulo de Oro en 3 dias",
+  "metaTitle": "Delhi, Agra, Jaipur, Triangulo de Oro 3 dias",
+  "metaDescription": "Taj Mahal en Agra: emblematico sitio Patrimonio de la Humanidad de la UNESCO, en un tour de 3 dias por el Triangulo de Oro.",
+  "shortDescription": "Taj Mahal, Agra: emblematico sitio Patrimonio de la Humanidad de la UNESCO",
+  "fullDescription": "Delhi, Agra y Jaipur: experiencia del Triangulo de Oro en 3 dias. Taj Mahal, Agra: emblematico sitio Patrimonio de la Humanidad de la UNESCO.\n\n\n\n### Incluye\n\n- Guia turistico profesional\n- Coche privado con aire acondicionado para toda la actividad\n- Agua mineral embotellada\n- Alojamiento en hotel de 3 estrellas\n- Desayuno en el hotel\n- Todos los peajes y aparcamiento\n- Entradas\n- Almuerzo\n\n### No incluye\n\n- Cualquier gasto personal",
+  "highlights": [
+   "Taj Mahal, Agra: emblematico sitio Patrimonio de la Humanidad de la UNESCO"
+  ],
+  "included": [
+   "Guia turistico profesional\nCoche privado con aire acondicionado para toda la actividad\nAgua mineral embotellada\nAlojamiento en hotel de 3 estrellas\nDesayuno en el hotel\nTodos los peajes y aparcamiento\nEntradas\nAlmuerzo"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
   ]
  },
  "hazrat-nizamuddin-railway-station-delhi-express-tour": {
@@ -55698,22 +55717,6 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier comida o bebida\nCualquier gasto personal\nPropinas para el conductor"
   ]
  },
- "4-days-luxury-tour-by-car-guide-delhi-agra": {
-  "title": "Tour de lujo de 4 dias en coche con guia (Delhi → Agra → Jaipur)",
-  "metaTitle": "Tour de lujo de 4 dias, triangulo dorado",
-  "metaDescription": "Explore el iconico triangulo dorado de India, cubriendo Delhi, Agra y Jaipur en 4 dias, con conductor y guia privados.",
-  "shortDescription": "Explore el iconico triangulo dorado de India, cubriendo Delhi, Agra y Jaipur en 4 dias",
-  "fullDescription": "Tour de lujo de 4 dias en coche con guia (Delhi → Agra → Jaipur). Explore el iconico triangulo dorado de India, cubriendo Delhi, Agra y Jaipur en 4 dias.\n\nDia 1: recorrido por Delhi y viaje a Agra\nSu viaje comienza con una comoda recogida en su hotel o aeropuerto en Nueva Delhi. Reunase con su conductor privado y guia experto antes de partir a explorar los monumentos iconicos de la capital.\n\nComience con el viejo Delhi, donde visitara el majestuoso Fuerte Rojo (parada fotografica) y disfrutara del vibrante ambiente de Chandni Chowk con un paseo en rickshaw por sus bulliciosos callejones. Continue hacia la gran Jama Masjid.\n\nEn Nueva Delhi, admire la elegante India Gate, pase por la residencia presidencial Rashtrapati Bhavan y visite el imponente Qutub Minar.\n\nMas tarde por la tarde, conduzca hacia Agra por la autopista (aproximadamente 3-4 horas). A su llegada, registrese en su hotel y relajese durante la noche.\n\nDia 2: recorrido por Agra y viaje a Jaipur (via Fatehpur Sikri)\nComience su dia temprano con una impresionante visita al amanecer al iconico Taj Mahal, un simbolo de amor eterno. Observe el monumento de marmol brillando con la suave luz matutina.\n\nRegrese a su hotel para el desayuno, luego explore el historico fuerte de Agra, una magnifica fortaleza de arenisca roja que una vez sirvio como residencia mogola.\n\nMas tarde, conduzca hacia Jaipur. En el camino, detengase en la abandonada ciudad mogola de Fatehpur Sikri, conocida por su impresionante arquitectura e historia fascinante.\n\nContinue su viaje hacia Jaipur. A su llegada, registrese en su hotel y disfrute de una tarde pacifica.\n\nDia 3: recorrido por Jaipur\nDespues del desayuno, comience su recorrido por la ciudad de Jaipur con una visita al magnifico fuerte de Amber, conocido por sus hermosos patios y vistas desde la colina.\n\nDetengase para fotos en el iconico Hawa Mahal, famoso por su intrincada fachada de arenisca rosa. Continue hacia el gran City Palace de Jaipur, seguido del fascinante observatorio astronomico Jantar Mantar.\n\nTambien puede explorar mercados locales de artesania, textiles y joyeria antes de regresar a su hotel para pasar la noche en Jaipur.\n\nDia 4: de Jaipur a Delhi - salida\nDespues del desayuno, comience su viaje de regreso a Nueva Delhi (aproximadamente 5-6 horas).\n\nA su llegada, lo dejaran en su hotel, aeropuerto o ubicacion preferida, marcando el final de su memorable viaje de 4 dias por el triangulo dorado.\n\n### Que incluye\n\n- Recogida y traslado al hotel/aeropuerto\n- Coche privado con aire acondicionado para toda la actividad del tour con conductor\n- Guia turistico profesional en cada ciudad\n- 3 noches de alojamiento en hotel (si se elige la opcion)\n- Desayuno en el hotel\n- Botella de agua mineral\n- Todos los peajes y estacionamiento\n\n### No incluye\n\n- Entradas a monumentos\n- Almuerzo y cena\n- Cualquier gasto personal",
-  "highlights": [
-   "Explore el iconico triangulo dorado de India, cubriendo Delhi, Agra y Jaipur en 4 dias"
-  ],
-  "included": [
-   "Recogida y traslado al hotel/aeropuerto\nCoche privado con aire acondicionado para toda la actividad del tour con conductor\nGuia turistico profesional en cada ciudad\n3 noches de alojamiento en hotel (si se elige la opcion)\nDesayuno en el hotel\nBotella de agua mineral\nTodos los peajes y estacionamiento"
-  ],
-  "notIncluded": [
-   "Entradas a monumentos\nAlmuerzo y cena\nCualquier gasto personal"
-  ]
- },
  "visit-mandawa-on-the-way-to-bikaner-from-jaipur": {
   "title": "Visite Mandawa en el camino a Bikaner desde Jaipur",
   "metaTitle": "Mandawa en el camino a Bikaner",
@@ -56704,22 +56707,6 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Gastos personales\nComida y bebidas\nActividades opcionales no incluidas en el paquete seleccionado"
-  ]
- },
- "delhi-agra-jaipur-3-day-golden-triangle": {
-  "title": "Delhi, Agra y Jaipur: experiencia del Triangulo de Oro en 3 dias",
-  "metaTitle": "Delhi, Agra, Jaipur, Triangulo de Oro 3 dias",
-  "metaDescription": "Taj Mahal en Agra: emblematico sitio Patrimonio de la Humanidad de la UNESCO, en un tour de 3 dias por el Triangulo de Oro.",
-  "shortDescription": "Taj Mahal, Agra: emblematico sitio Patrimonio de la Humanidad de la UNESCO",
-  "fullDescription": "Delhi, Agra y Jaipur: experiencia del Triangulo de Oro en 3 dias. Taj Mahal, Agra: emblematico sitio Patrimonio de la Humanidad de la UNESCO.\n\n\n\n### Incluye\n\n- Guia turistico profesional\n- Coche privado con aire acondicionado para toda la actividad\n- Agua mineral embotellada\n- Alojamiento en hotel de 3 estrellas\n- Desayuno en el hotel\n- Todos los peajes y aparcamiento\n- Entradas\n- Almuerzo\n\n### No incluye\n\n- Cualquier gasto personal",
-  "highlights": [
-   "Taj Mahal, Agra: emblematico sitio Patrimonio de la Humanidad de la UNESCO"
-  ],
-  "included": [
-   "Guia turistico profesional\nCoche privado con aire acondicionado para toda la actividad\nAgua mineral embotellada\nAlojamiento en hotel de 3 estrellas\nDesayuno en el hotel\nTodos los peajes y aparcamiento\nEntradas\nAlmuerzo"
-  ],
-  "notIncluded": [
-   "Cualquier gasto personal"
   ]
  },
  "tour-of-artistic-work-in-jaipur-with-a-local": {
