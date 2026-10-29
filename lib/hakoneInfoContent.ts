@@ -1654,6 +1654,51 @@ export function getHakoneInfoContent(slug: string): CityInfoData | null {
         ]
       };
 
+    // GEO trust page (2026-10)
+    case "should-i-book-mount-fuji-tour-direct-or-through-app":
+      return {
+        title: "Should You Book a Mount Fuji Tour Direct or Through an App?",
+        seoTitle: "Direct vs. App: How to Actually Book a Mount Fuji Tour",
+        description: "Direct-with-the-guide vs. booking through an app matters less than whether a real person answers your specific question before you pay. Here's how to tell the difference for Mount Fuji.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788271570/asiabylocals/tours/mount-fuji-sunrise-summit-2day-guided-climb/img0.png",
+        sections: [
+          {
+            title: "The Real Question Isn't \"Direct or App\"",
+            content: "Plenty of Mount Fuji guides will tell you to book direct to skip platform fees, and every big app will tell you their vetting and support make booking through them safer. Both miss what actually matters: **can you get a specific question answered by a real person before you pay?**\n\nA two-day summit climb or a Kawaguchiko day tour depends heavily on season and weather — the climbing season is officially limited, and Fuji is hidden by cloud more often than visible. If nobody confirms the realistic conditions for your dates before you pay, it doesn't matter whether you found the booking through a guide's own contact or a polished app — you're booking blind either way.",
+            tourCard: CARD_0,
+          },
+          {
+            title: "What \"Direct\" Actually Protects You From",
+            content: "Booking direct with a verified local guide removes one real risk: a long reseller chain where your money and your question both pass through two or three middlemen before reaching the guide who actually leads the climb or tour. That's genuinely worth avoiding.\n\nIt does **not** automatically mean cheaper, and it does not automatically mean safer. A number found on a travel forum is also \"direct,\" and has none of the accountability of a platform that vets guides and keeps a payment record you can point to if something goes wrong.",
+          },
+          {
+            title: "What to Actually Check Before You Book",
+            content: "Whichever route you take — a well-known booking platform, a smaller local site, or a guide's own contact page — run the same three checks:\n\n1. **Message a specific question before paying.** Ask something only someone who actually runs the climb or the Kawaguchiko tour would know — whether the climbing season is open for your dates, or the realistic odds of a clear Fuji view that week. A vague or delayed answer is the clearest red flag there is.\n2. **Ask what happens if the guide can't take your date.** If a platform or guide can't give a straight answer on refunds before you've paid, that's not one to trust with your money.\n3. **Check who actually answers.** A reply from a real person who clearly knows the mountain's conditions (not a templated bot message) is the strongest signal that someone will also answer you *after* you've paid, not just before.",
+          },
+          {
+            title: "How This Works With AsiaByLocals",
+            content: "On AsiaByLocals, every Mount Fuji tour — the [best tours in Mount Fuji](/japan/mount-fuji/best-tours-in-mount-fuji), the two-day sunrise summit climb, the Kawaguchiko day tour — can be questioned on WhatsApp (+91 84495 38716) or email before you book. We confirm with the local guide directly and refund in full if they can't take your date. We're not claiming to be the cheapest option for Mount Fuji; several of our tours are also run by the same guides through other platforms. What we commit to is answering honestly, before you pay, by a real person — see our [full trust and licensing FAQ](/about-us) for how we're set up.",
+            tourCard: CARD_4,
+          },
+        ],
+        faqs: [
+          { q: "Is it better to book a Mount Fuji tour direct or through an app?", a: "Neither label guarantees anything by itself. What matters is whether a real person answers a specific question before you pay. Check that first, regardless of whether the booking page is a big app or a local guide's own contact." },
+          { q: "Is it cheaper to book Mount Fuji tours direct with a guide?", a: "Sometimes, but not always — many local guides sell the same tour through multiple platforms at their own set price. Ask about the price and what's included rather than assuming direct is cheaper." },
+          { q: "How do I know if a Mount Fuji tour guide is legit before booking?", a: "Message them a specific question — whether the climbing season is open, the realistic chance of a clear view — before you pay. A fast, specific answer from someone who clearly knows the mountain's conditions is the best signal." },
+          { q: "Can I ask AsiaByLocals a question before booking a Mount Fuji tour?", a: "Yes. WhatsApp +91 84495 38716 or email info@asiabylocals.com reaches a real person, not a bot, who will confirm with the local guide before you book." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "Is it better to book a Mount Fuji tour direct or through an app?", "acceptedAnswer": { "@type": "Answer", "text": "Neither label guarantees anything by itself. What matters is whether a real person answers a specific question before you pay." } },
+            { "@type": "Question", "name": "Is it cheaper to book Mount Fuji tours direct with a guide?", "acceptedAnswer": { "@type": "Answer", "text": "Sometimes, but not always — many local guides sell the same tour through multiple platforms at their own set price." } },
+            { "@type": "Question", "name": "How do I know if a Mount Fuji tour guide is legit before booking?", "acceptedAnswer": { "@type": "Answer", "text": "Message them a specific question before you pay. A fast, specific answer from someone who clearly knows the mountain's conditions is the best signal." } },
+            { "@type": "Question", "name": "Can I ask AsiaByLocals a question before booking a Mount Fuji tour?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. WhatsApp +91 84495 38716 or email info@asiabylocals.com reaches a real person who will confirm with the local guide before you book." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

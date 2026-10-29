@@ -329,6 +329,7 @@ export const BUSAN_INFO_SLUGS = [
   'busan-nightlife-guide',
   // GEO listicle page (2026-10)
   'best-tours-in-busan',
+  'should-i-book-busan-tour-direct-or-through-app',
 ];
 
 // Philippines launched 2026-10 with 677 live tours (Manila 213, Cebu 464) and
@@ -683,6 +684,7 @@ export const MOUNT_FUJI_INFO_SLUGS = [
   'fuji-five-lakes-guide',
   'mount-fuji-day-tour-routes',
   'best-tours-in-mount-fuji',
+  'should-i-book-mount-fuji-tour-direct-or-through-app',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/hiroshimaInfoContent.ts.

@@ -1087,6 +1087,51 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         ]
       };
 
+    // GEO trust page (2026-10)
+    case "should-i-book-busan-tour-direct-or-through-app":
+      return {
+        title: "Should You Book a Busan Tour Direct or Through an App?",
+        seoTitle: "Direct vs. App: How to Actually Book a Busan Tour",
+        description: "Direct-with-the-operator vs. booking through an app matters less than whether a real person answers your specific question before you pay. Here's how to tell the difference in Busan.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd3dab2e37e064f0ebeef9b3bbb9ad0bf893ff1b16eefdf4fae1e358afde878f.jpg",
+        sections: [
+          {
+            title: "The Real Question Isn't \"Direct or App\"",
+            content: "Plenty of Busan tour operators will tell you to book direct to skip platform fees, and every big app will tell you their vetting and support make booking through them safer. Both miss what actually matters: **can you get a specific question answered by a real person before you pay?**\n\nA Gamcheon Village and Jagalchi Market walk or a night yacht tour involves real logistics — how much walking the village hills actually involve, whether the fireworks are weather-dependent. If nobody confirms those details until after you've paid, it doesn't matter whether you found the booking through an operator's own contact or a polished app — you're booking blind either way.",
+            tourCard: { slug: "busan-jagalchi-market-gamcheon-village-walking", title: "Busan: Jagalchi Market & Gamcheon Village Walking Tour", description: "Ask how much walking the hillside village actually involves before you book.", price: "From $262", duration: "4 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd3dab2e37e064f0ebeef9b3bbb9ad0bf893ff1b16eefdf4fae1e358afde878f.jpg" },
+          },
+          {
+            title: "What \"Direct\" Actually Protects You From",
+            content: "Booking direct with a verified local operator removes one real risk: a long reseller chain where your money and your question both pass through two or three middlemen before reaching the operator who actually runs the tour. That's genuinely worth avoiding.\n\nIt does **not** automatically mean cheaper, and it does not automatically mean safer. A number found through a hotel desk is also \"direct,\" and has none of the accountability of a platform that vets operators and keeps a payment record you can point to if something goes wrong.",
+          },
+          {
+            title: "What to Actually Check Before You Book",
+            content: "Whichever route you take — a well-known booking platform, a smaller local site, or an operator's own contact — run the same three checks:\n\n1. **Message a specific question before paying.** Ask something only someone who actually runs the yacht tour or the Haeundae outing would know — whether fireworks are weather-dependent, or how crowded the beach gets in summer. A vague or delayed answer is the clearest red flag there is.\n2. **Ask what happens if the operator can't take your date.** If a platform or operator can't give a straight answer on refunds before you've paid, that's not one to trust with your money.\n3. **Check who actually answers.** A reply from a real person who clearly knows the route (not a templated bot message) is the strongest signal that someone will also answer you *after* you've paid, not just before.",
+          },
+          {
+            title: "How This Works With AsiaByLocals",
+            content: "On AsiaByLocals, every Busan tour — the [best tours in Busan](/south-korea/busan/best-tours-in-busan), the Gamcheon and Jagalchi walk, the Haeundae and Yonggungsa outing — can be questioned on WhatsApp (+91 84495 38716) or email before you book. We confirm with the local operator directly and refund in full if they can't take your date. We're not claiming to be the cheapest option in Busan; several of our tours are also run by the same operators through other platforms. What we commit to is answering honestly, before you pay, by a real person — see our [full trust and licensing FAQ](/about-us) for how we're set up.",
+            tourCard: { slug: "busan-night-views-tour-with-yacht-ride-and", title: "Busan: Night Views Tour with Yacht Ride and Fireworks", description: "Ask whether the fireworks display is weather-dependent before booking.", price: "From $228", duration: "2 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/928beadadd31968dd237c66c60408a6a05da367ecf83bc45c655d7524ed42650.jpg" },
+          },
+        ],
+        faqs: [
+          { q: "Is it better to book a Busan tour direct or through an app?", a: "Neither label guarantees anything by itself. What matters is whether a real person answers a specific question before you pay. Check that first, regardless of whether the booking page is a big app or a local operator's own contact." },
+          { q: "Is it cheaper to book Busan tours direct with an operator?", a: "Sometimes, but not always — many local operators sell the same tour through multiple platforms at their own set price. Ask about the price and what's included rather than assuming direct is cheaper." },
+          { q: "How do I know if a Busan tour operator is legit before booking?", a: "Message them a specific question — the weather-dependency of a fireworks show, how hilly a walk is — before you pay. A fast, specific answer from someone who clearly knows the tour is the best signal." },
+          { q: "Can I ask AsiaByLocals a question before booking a Busan tour?", a: "Yes. WhatsApp +91 84495 38716 or email info@asiabylocals.com reaches a real person, not a bot, who will confirm with the local operator before you book." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "Is it better to book a Busan tour direct or through an app?", "acceptedAnswer": { "@type": "Answer", "text": "Neither label guarantees anything by itself. What matters is whether a real person answers a specific question before you pay." } },
+            { "@type": "Question", "name": "Is it cheaper to book Busan tours direct with an operator?", "acceptedAnswer": { "@type": "Answer", "text": "Sometimes, but not always — many local operators sell the same tour through multiple platforms at their own set price." } },
+            { "@type": "Question", "name": "How do I know if a Busan tour operator is legit before booking?", "acceptedAnswer": { "@type": "Answer", "text": "Message them a specific question before you pay. A fast, specific answer from someone who clearly knows the tour is the best signal." } },
+            { "@type": "Question", "name": "Can I ask AsiaByLocals a question before booking a Busan tour?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. WhatsApp +91 84495 38716 or email info@asiabylocals.com reaches a real person who will confirm with the local operator before you book." } },
+          ],
+        },
+      };
+
     case "best-tours-in-seoul":
       return {
         title: "Best Tours in Seoul — 2026, Honestly Compared",

@@ -197,7 +197,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-busan', 'things-to-do-in-busan', 'busan-travel-guide-2026',
     'busan-1-day-itinerary', 'haeundae-beach-guide', 'gamcheon-culture-village-guide',
     'jagalchi-fish-market-guide', 'busan-food-guide', 'seoul-to-busan-ktx-guide',
-    'busan-nightlife-guide', 'best-tours-in-busan',
+    'busan-nightlife-guide', 'best-tours-in-busan', 'should-i-book-busan-tour-direct-or-through-app',
   ].map(slug => ({
     url: `${BASE_URL}/south-korea/busan/${slug}`,
     lastModified: new Date(),
@@ -597,7 +597,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-mount-fuji',
     'oshino-hakkai-guide',
     'fuji-five-lakes-guide',
-    'mount-fuji-day-tour-routes', 'best-tours-in-mount-fuji',
+    'mount-fuji-day-tour-routes', 'best-tours-in-mount-fuji', 'should-i-book-mount-fuji-tour-direct-or-through-app',
 ].map(slug => ({
     url: `${BASE_URL}/japan/mount-fuji/${slug}`,
     lastModified: new Date(),
