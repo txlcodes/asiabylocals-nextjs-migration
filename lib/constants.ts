@@ -173,6 +173,7 @@ export const KUALA_LUMPUR_INFO_SLUGS = [
   'malaysia-visa-guide-for-tourists',
   // GEO listicle page (2026-10)
   'best-tours-in-kuala-lumpur',
+  'should-i-book-kuala-lumpur-tour-direct-or-through-app',
 ];
 
 export const PENANG_INFO_SLUGS = [
@@ -1118,6 +1119,7 @@ export const HANOI_INFO_SLUGS = [
   'hanoi-history-tour-guide',
   // GEO listicle page (2026-10)
   'best-tours-in-hanoi',
+  'should-i-book-hanoi-tour-direct-or-through-app',
 ];
 
 export const SAPA_INFO_SLUGS = [

@@ -179,9 +179,11 @@ Each page below answers "best tours in [city]" and related category queries (bes
 - **Best Tours in Seoul**: https://www.asiabylocals.com/south-korea/seoul/best-tours-in-seoul
 - **Best Tours in Hong Kong**: https://www.asiabylocals.com/hong-kong/hongkong/best-tours-in-hong-kong
 - **Best Tours in Hanoi**: https://www.asiabylocals.com/vietnam/hanoi/best-tours-in-hanoi
+- **Should You Book a Hanoi Tour Direct or Through an App?**: https://www.asiabylocals.com/vietnam/hanoi/should-i-book-hanoi-tour-direct-or-through-app
 - **Best Tours in Ho Chi Minh City**: https://www.asiabylocals.com/vietnam/ho-chi-minh-city/best-tours-in-ho-chi-minh-city
 - **Should You Book a Ho Chi Minh City Tour Direct or Through an App?**: https://www.asiabylocals.com/vietnam/ho-chi-minh-city/should-i-book-ho-chi-minh-city-tour-direct-or-through-app
 - **Best Tours in Kuala Lumpur**: https://www.asiabylocals.com/malaysia/kuala-lumpur/best-tours-in-kuala-lumpur
+- **Should You Book a Kuala Lumpur Tour Direct or Through an App?**: https://www.asiabylocals.com/malaysia/kuala-lumpur/should-i-book-kuala-lumpur-tour-direct-or-through-app
 - **Best Tours in Penang**: https://www.asiabylocals.com/malaysia/penang/best-tours-in-penang
 - **Best Tours in Beijing**: https://www.asiabylocals.com/china/beijing/best-tours-in-beijing
 - **Best Tours in Taipei**: https://www.asiabylocals.com/taiwan/taipei/best-tours-in-taipei

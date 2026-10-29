@@ -313,7 +313,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'kl-1-day-itinerary', 'kl-3-day-itinerary', 'batu-caves-guide',
     'kl-public-transport-guide', 'kl-halal-food-guide',
     'bukit-bintang-shopping-guide', 'kl-to-penang-travel',
-    'malaysia-visa-guide-for-tourists', 'best-tours-in-kuala-lumpur',
+    'malaysia-visa-guide-for-tourists', 'best-tours-in-kuala-lumpur', 'should-i-book-kuala-lumpur-tour-direct-or-through-app',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/kuala-lumpur/${slug}`,
     lastModified: new Date(),
@@ -859,7 +859,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'hanoi-motorbike-tours-guide',
     'hanoi-cultural-shows-and-workshops',
     'hanoi-history-tour-guide',
-    'best-tours-in-hanoi',
+    'best-tours-in-hanoi', 'should-i-book-hanoi-tour-direct-or-through-app',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/hanoi/${slug}`,
     lastModified: new Date(),
