@@ -586,7 +586,8 @@ export const ELLA_INFO_SLUGS = [
   'liptons-seat-and-ella-tea-country',
   'ella-waterfalls-and-day-tours',
   'leaving-ella-onward-transfers',
-  'best-tours-in-ella'
+  'best-tours-in-ella',
+  'should-i-book-ella-tour-direct-or-through-app'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/galleInfoContent.ts.
@@ -595,7 +596,8 @@ export const GALLE_INFO_SLUGS = [
   'mirissa-whale-watching-guide',
   'south-coast-beaches-guide',
   'galle-2-day-itinerary',
-  'best-tours-in-galle'
+  'best-tours-in-galle',
+  'should-i-book-galle-tour-direct-or-through-app'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/negomboInfoContent.ts.

@@ -616,7 +616,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'yala-vs-udawalawe-from-ella',
     'liptons-seat-and-ella-tea-country',
     'ella-waterfalls-and-day-tours',
-    'leaving-ella-onward-transfers', 'best-tours-in-ella'].map(slug => ({
+    'leaving-ella-onward-transfers', 'best-tours-in-ella', 'should-i-book-ella-tour-direct-or-through-app'].map(slug => ({
     url: `${BASE_URL}/sri-lanka/ella/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -664,7 +664,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   }));
 
   const galleInfoPages = [
-    'galle-fort-guide', 'mirissa-whale-watching-guide', 'south-coast-beaches-guide', 'galle-2-day-itinerary', 'best-tours-in-galle'
+    'galle-fort-guide', 'mirissa-whale-watching-guide', 'south-coast-beaches-guide', 'galle-2-day-itinerary', 'best-tours-in-galle', 'should-i-book-galle-tour-direct-or-through-app'
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/galle/${slug}`,
     lastModified: new Date(),
