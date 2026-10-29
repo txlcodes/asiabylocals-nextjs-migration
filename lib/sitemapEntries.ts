@@ -237,7 +237,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'doha-dhow-cruise-guide', 'al-zubarah-fort-day-trip', 'doha-nightlife-guide',
     'zekreet-film-city-guide', 'doha-islamic-architecture-guide', 'doha-falcon-souq-guide',
     'inland-sea-khor-al-adaid-guide', 'doha-ramadan-travel-guide', 'doha-weekend-guide',
-    'doha-airport-stopover-guide', 'best-tours-in-doha',
+    'doha-airport-stopover-guide', 'best-tours-in-doha', 'should-i-book-doha-tour-direct-or-through-app',
   ].map(slug => ({
     url: `${BASE_URL}/qatar/doha/${slug}`,
     lastModified: new Date(),
@@ -327,7 +327,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'penang-1-day-itinerary', 'penang-food-guide', 'penang-hill-guide',
     'georgetown-unesco-heritage-guide', 'penang-beaches-guide',
     'penang-3-day-itinerary', 'clan-jetties-penang', 'kek-lok-si-temple-guide',
-    'best-tours-in-penang',
+    'best-tours-in-penang', 'should-i-book-penang-tour-direct-or-through-app',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/penang/${slug}`,
     lastModified: new Date(),
@@ -555,7 +555,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'nara-day-trip-from-kyoto-osaka', 'nara-half-day-itinerary',
     'kasuga-taisha-guide', 'naramachi-guide', 'nara-food-guide', 'getting-around-nara', 'mount-yoshino-cherry-blossom-guide',
     'nara-workshops-and-crafts',
-    'should-you-stay-overnight-in-nara', 'best-tours-in-nara'].map(slug => ({
+    'should-you-stay-overnight-in-nara', 'best-tours-in-nara', 'should-i-book-nara-tour-direct-or-through-app'].map(slug => ({
     url: `${BASE_URL}/japan/nara/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -570,7 +570,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-nagoya-worth-visiting',
     'where-to-stay-in-nagoya',
     'takayama-shirakawago-day-trip-from-nagoya',
-    'nagoya-samurai-experiences', 'best-tours-in-nagoya',
+    'nagoya-samurai-experiences', 'best-tours-in-nagoya', 'should-i-book-nagoya-tour-direct-or-through-app',
 ].map(slug => ({
     url: `${BASE_URL}/japan/nagoya/${slug}`,
     lastModified: new Date(),

@@ -185,6 +185,7 @@ export const PENANG_INFO_SLUGS = [
   'penang-3-day-itinerary', 'clan-jetties-penang', 'kek-lok-si-temple-guide',
   // GEO listicle page (2026-10)
   'best-tours-in-penang',
+  'should-i-book-penang-tour-direct-or-through-app',
 ];
 
 export const LANGKAWI_INFO_SLUGS = [
@@ -318,6 +319,7 @@ export const DOHA_INFO_SLUGS = [
   'doha-airport-stopover-guide',
   // GEO listicle page (2026-10)
   'best-tours-in-doha',
+  'should-i-book-doha-tour-direct-or-through-app',
 ];
 
 export const BUSAN_INFO_SLUGS = [
@@ -551,7 +553,7 @@ export const NARA_INFO_SLUGS = [
   'getting-around-nara',
   'mount-yoshino-cherry-blossom-guide',
   'nara-workshops-and-crafts',
-  'should-you-stay-overnight-in-nara', 'best-tours-in-nara'];
+  'should-you-stay-overnight-in-nara', 'best-tours-in-nara', 'should-i-book-nara-tour-direct-or-through-app'];
 
 // Re-add a slug here ONLY once its page exists in lib/nagoyaInfoContent.ts.
 export const NAGOYA_INFO_SLUGS = [
@@ -568,6 +570,7 @@ export const NAGOYA_INFO_SLUGS = [
   'takayama-shirakawago-day-trip-from-nagoya',
   'nagoya-samurai-experiences',
   'best-tours-in-nagoya',
+  'should-i-book-nagoya-tour-direct-or-through-app',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/ellaInfoContent.ts.
