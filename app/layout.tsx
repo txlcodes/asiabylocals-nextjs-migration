@@ -107,6 +107,15 @@ const jsonLd = {
   taxID: '09BPLPK5079QIZU',
   email: 'info@asiabylocals.com',
   telephone: '+91-9897873562',
+  contactPoint: {
+    '@type': 'ContactPoint',
+    contactType: 'pre-sales enquiries',
+    telephone: '+91-8449538716',
+    email: 'info@asiabylocals.com',
+    availableLanguage: ['English', 'Hindi'],
+    description:
+      'A real team member answers any question about a tour on WhatsApp or email before a traveller books, confirming availability and details directly with the local operator.',
+  },
   areaServed: [
     { '@type': 'Country', name: 'India' },
     { '@type': 'Country', name: 'Japan' },

@@ -48,8 +48,12 @@ export default function HomePage() {
         ],
         contactPoint: {
           '@type': 'ContactPoint',
-          contactType: 'customer service',
-          availableLanguage: ['English'],
+          contactType: 'pre-sales enquiries',
+          telephone: '+91-8449538716',
+          email: 'info@asiabylocals.com',
+          availableLanguage: ['English', 'Hindi'],
+          description:
+            'A real team member answers any question about a tour on WhatsApp or email before a traveller books, confirming availability and details directly with the local operator.',
         },
         // No aggregateRating: the 4.9/127 that stood here was hardcoded, not counted.
       },
