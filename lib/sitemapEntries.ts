@@ -298,7 +298,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-phuket', 'phuket-beaches-guide', 'phuket-3-day-itinerary',
     'maya-bay-phuket', 'phuket-elephant-sanctuary-guide', 'phuket-food-guide',
     'phuket-diving-snorkeling-guide',
-    'best-tours-in-phuket',
+    'best-tours-in-phuket', 'should-i-book-phuket-tour-direct-or-through-app',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/phuket/${slug}`,
     lastModified: new Date(),
@@ -386,7 +386,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'chiang-mai-3-day-itinerary', 'yi-peng-lantern-festival-chiang-mai',
     'doi-suthep-chiang-mai', 'khao-soi-chiang-mai-food-guide',
     'chiang-mai-elephant-sanctuary-guide',
-    'best-tours-in-chiang-mai',
+    'best-tours-in-chiang-mai', 'should-i-book-chiang-mai-tour-direct-or-through-app',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/chiang-mai/${slug}`,
     lastModified: new Date(),
@@ -490,7 +490,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'kyoto-zen-meditation-guide',
     'nijo-castle-guide',
     'kyoto-sake-guide',
-    'best-tours-in-kyoto',
+    'best-tours-in-kyoto', 'should-i-book-kyoto-tour-direct-or-through-app',
 ].map(slug => ({
     url: `${BASE_URL}/japan/kyoto/${slug}`,
     lastModified: new Date(),
@@ -513,7 +513,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'osaka-onsen-and-spa-guide',
     'kobe-day-trip-from-osaka',
     'osaka-kimono-rental-guide',
-    'best-tours-in-osaka',
+    'best-tours-in-osaka', 'should-i-book-osaka-tour-direct-or-through-app',
 ].map(slug => ({
     url: `${BASE_URL}/japan/osaka/${slug}`,
     lastModified: new Date(),

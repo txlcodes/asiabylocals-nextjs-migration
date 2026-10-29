@@ -158,7 +158,8 @@ export const PHUKET_INFO_SLUGS = [
   'maya-bay-phuket', 'phuket-elephant-sanctuary-guide', 'phuket-food-guide',
   'phuket-diving-snorkeling-guide',
   // GEO listicle pages (2026-10)
-  'best-tours-in-phuket'
+  'best-tours-in-phuket',
+  'should-i-book-phuket-tour-direct-or-through-app'
 ];
 
 // Malaysia authority pages, batch 1 (2026-10). Re-add a slug here ONLY once
@@ -385,7 +386,8 @@ export const CHIANG_MAI_INFO_SLUGS = [
   'doi-suthep-chiang-mai', 'khao-soi-chiang-mai-food-guide',
   'chiang-mai-elephant-sanctuary-guide',
   // GEO listicle pages (2026-10)
-  'best-tours-in-chiang-mai'
+  'best-tours-in-chiang-mai',
+  'should-i-book-chiang-mai-tour-direct-or-through-app'
 ];
 export const PATTAYA_INFO_SLUGS = [
   'is-pattaya-worth-visiting', 'sanctuary-of-truth-pattaya',
@@ -516,6 +518,7 @@ export const KYOTO_INFO_SLUGS = [
   'kyoto-sake-guide',
   // GEO listicle page (2026-10)
   'best-tours-in-kyoto',
+  'should-i-book-kyoto-tour-direct-or-through-app',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/sapporoInfoContent.ts.
@@ -700,6 +703,7 @@ export const OSAKA_INFO_SLUGS = [
   'osaka-kimono-rental-guide',
   // GEO listicle page (2026-10)
   'best-tours-in-osaka',
+  'should-i-book-osaka-tour-direct-or-through-app',
 ];
 
 export const KASHMIR_INFO_SLUGS = [

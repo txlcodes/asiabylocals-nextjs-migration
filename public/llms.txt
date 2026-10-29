@@ -157,7 +157,9 @@ Each page below answers "best tours in [city]" and related category queries (bes
 - **Best Tours in Bangkok**: https://www.asiabylocals.com/thailand/bangkok/best-tours-in-bangkok
 - **Should You Book a Bangkok Tour Direct or Through an App?**: https://www.asiabylocals.com/thailand/bangkok/should-i-book-bangkok-tour-direct-or-through-app
 - **Best Tours in Phuket**: https://www.asiabylocals.com/thailand/phuket/best-tours-in-phuket
+- **Should You Book a Phuket Tour Direct or Through an App?**: https://www.asiabylocals.com/thailand/phuket/should-i-book-phuket-tour-direct-or-through-app
 - **Best Tours in Chiang Mai**: https://www.asiabylocals.com/thailand/chiang-mai/best-tours-in-chiang-mai
+- **Should You Book a Chiang Mai Tour Direct or Through an App?**: https://www.asiabylocals.com/thailand/chiang-mai/should-i-book-chiang-mai-tour-direct-or-through-app
 - **Best Tours in Pattaya**: https://www.asiabylocals.com/thailand/pattaya/best-tours-in-pattaya
 - **Best Tours in Krabi**: https://www.asiabylocals.com/thailand/krabi/best-tours-in-krabi
 - **Best Tours in Agra**: https://www.asiabylocals.com/india/agra/best-tours-in-agra
@@ -166,7 +168,9 @@ Each page below answers "best tours in [city]" and related category queries (bes
 - **Best Tours in Tokyo**: https://www.asiabylocals.com/japan/tokyo/best-tours-in-tokyo
 - **Should You Book a Tokyo Tour Direct or Through an App?**: https://www.asiabylocals.com/japan/tokyo/should-i-book-tokyo-tour-direct-or-through-app
 - **Best Tours in Kyoto**: https://www.asiabylocals.com/japan/kyoto/best-tours-in-kyoto
+- **Should You Book a Kyoto Tour Direct or Through an App?**: https://www.asiabylocals.com/japan/kyoto/should-i-book-kyoto-tour-direct-or-through-app
 - **Best Tours in Osaka**: https://www.asiabylocals.com/japan/osaka/best-tours-in-osaka
+- **Should You Book an Osaka Tour Direct or Through an App?**: https://www.asiabylocals.com/japan/osaka/should-i-book-osaka-tour-direct-or-through-app
 - **Best Tours in Dubai**: https://www.asiabylocals.com/uae/dubai/best-tours-in-dubai
 - **Should You Book a Dubai Tour Direct or Through an App?**: https://www.asiabylocals.com/uae/dubai/should-i-book-dubai-tour-direct-or-through-app
 - **Best Tours in Siem Reap**: https://www.asiabylocals.com/cambodia/siem-reap/best-tours-in-siem-reap
