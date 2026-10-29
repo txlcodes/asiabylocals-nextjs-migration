@@ -176,7 +176,9 @@ Each page below answers "best tours in [city]" and related category queries (bes
 - **Best Tours in Ubud (Bali)**: https://www.asiabylocals.com/indonesia/ubud/best-tours-in-ubud
 - **Should You Book a Bali/Ubud Tour Direct or Through an App?**: https://www.asiabylocals.com/indonesia/ubud/should-i-book-ubud-tour-direct-or-through-app
 - **Best Tours in Istanbul**: https://www.asiabylocals.com/turkey/istanbul/best-tours-in-istanbul
+- **Should You Book an Istanbul Tour Direct or Through an App?**: https://www.asiabylocals.com/turkey/istanbul/should-i-book-istanbul-tour-direct-or-through-app
 - **Best Tours in Seoul**: https://www.asiabylocals.com/south-korea/seoul/best-tours-in-seoul
+- **Should You Book a Seoul Tour Direct or Through an App?**: https://www.asiabylocals.com/south-korea/seoul/should-i-book-seoul-tour-direct-or-through-app
 - **Best Tours in Hong Kong**: https://www.asiabylocals.com/hong-kong/hongkong/best-tours-in-hong-kong
 - **Best Tours in Hanoi**: https://www.asiabylocals.com/vietnam/hanoi/best-tours-in-hanoi
 - **Should You Book a Hanoi Tour Direct or Through an App?**: https://www.asiabylocals.com/vietnam/hanoi/should-i-book-hanoi-tour-direct-or-through-app
@@ -190,6 +192,7 @@ Each page below answers "best tours in [city]" and related category queries (bes
 - **Best Tours in Busan**: https://www.asiabylocals.com/south-korea/busan/best-tours-in-busan
 - **Best Tours in Doha**: https://www.asiabylocals.com/qatar/doha/best-tours-in-doha
 - **Best Tours in Malé (Maldives)**: https://www.asiabylocals.com/maldives/male/best-tours-in-male
+- **Should You Book a Malé Tour Direct or Through an App?**: https://www.asiabylocals.com/maldives/male/should-i-book-male-tour-direct-or-through-app
 - **Best Tours in Hakone**: https://www.asiabylocals.com/japan/hakone/best-tours-in-hakone
 - **Best Tours in Mount Fuji**: https://www.asiabylocals.com/japan/mount-fuji/best-tours-in-mount-fuji
 - **Best Tours in Nara**: https://www.asiabylocals.com/japan/nara/best-tours-in-nara

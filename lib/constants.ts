@@ -273,6 +273,7 @@ export const SEOUL_INFO_SLUGS = [
   'seoul-palaces-guide', 'seoul-night-market-food-guide',
   // GEO listicle page (2026-10)
   'best-tours-in-seoul',
+  'should-i-book-seoul-tour-direct-or-through-app',
 ];
 
 // Turkey launched 2026-10 with 687 live tours (single city: Istanbul) and
@@ -292,6 +293,7 @@ export const ISTANBUL_INFO_SLUGS = [
   'istanbul-whirling-dervishes-guide', 'istanbul-turkish-coffee-culture-guide', 'istanbul-weekend-guide',
   // GEO listicle page (2026-10)
   'best-tours-in-istanbul',
+  'should-i-book-istanbul-tour-direct-or-through-app',
 ];
 
 // Qatar launched 2026-10 with 850 live tours (single city: Doha) and
@@ -340,6 +342,7 @@ export const MALE_INFO_SLUGS = [
   'male-city-guide', 'maldives-dolphin-watching-guide', 'maldives-airport-transfer-guide',
   // GEO listicle page (2026-10)
   'best-tours-in-male',
+  'should-i-book-male-tour-direct-or-through-app',
 ];
 
 export const MANILA_INFO_SLUGS = [

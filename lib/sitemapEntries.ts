@@ -185,7 +185,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'myeongdong-shopping-guide', 'seoul-korean-bbq-guide', 'hongdae-nightlife-guide',
     'seoul-to-busan-travel', 'namsan-tower-guide', 'seoul-k-pop-tour-guide',
     'bukchon-hanok-village-guide', 'insadong-guide', 'gwangjang-market-guide',
-    'seoul-palaces-guide', 'seoul-night-market-food-guide', 'best-tours-in-seoul',
+    'seoul-palaces-guide', 'seoul-night-market-food-guide', 'best-tours-in-seoul', 'should-i-book-seoul-tour-direct-or-through-app',
   ].map(slug => ({
     url: `${BASE_URL}/south-korea/seoul/${slug}`,
     lastModified: new Date(),
@@ -217,7 +217,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'istanbul-with-kids-guide', 'istanbul-budget-travel-guide', 'istanbul-luxury-travel-guide',
     'istanbul-rainy-day-activities', 'dolmabahce-palace-guide', 'galata-tower-guide',
     'istanbul-whirling-dervishes-guide', 'istanbul-turkish-coffee-culture-guide', 'istanbul-weekend-guide',
-    'best-tours-in-istanbul',
+    'best-tours-in-istanbul', 'should-i-book-istanbul-tour-direct-or-through-app',
   ].map(slug => ({
     url: `${BASE_URL}/turkey/istanbul/${slug}`,
     lastModified: new Date(),
@@ -252,7 +252,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'maldives-resort-vs-local-island-guide', 'male-local-island-guide', 'maldives-budget-travel-guide',
     'maldives-luxury-resort-guide', 'maldives-whale-shark-manta-ray-guide', 'maldives-sandbank-tour-guide',
     'male-city-guide', 'maldives-dolphin-watching-guide', 'maldives-airport-transfer-guide',
-    'best-tours-in-male',
+    'best-tours-in-male', 'should-i-book-male-tour-direct-or-through-app',
   ].map(slug => ({
     url: `${BASE_URL}/maldives/male/${slug}`,
     lastModified: new Date(),

@@ -581,6 +581,51 @@ export function getMaldivesInfoContent(slug: string): CityInfoData | null {
         ]
       };
 
+    // GEO trust page (2026-10)
+    case "should-i-book-male-tour-direct-or-through-app":
+      return {
+        title: "Should You Book a Malé Tour Direct or Through an App?",
+        seoTitle: "Direct vs. App: How to Actually Book a Malé Tour",
+        description: "Direct-with-the-operator vs. booking through an app matters less than whether a real person answers your specific question before you pay. Here's how to tell the difference in Malé.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/af7f58bdedab0ebed875cb07748c0749d8c66aa97018b86b12d1b426fe07bb34.jpg",
+        sections: [
+          {
+            title: "The Real Question Isn't \"Direct or App\"",
+            content: "Plenty of Malé tour operators will tell you to book direct to skip platform fees, and every big app will tell you their vetting and support make booking through them safer. Both miss what actually matters: **can you get a specific question answered by a real person before you pay?**\n\nA manta-ray snorkeling trip or a Villingili half-day transfer-day escape involves real logistics — exact pickup timing around a flight, whether snorkeling gear is included. If nobody confirms those details until after you've paid, it doesn't matter whether you found the booking through an operator's own contact or a polished app — you're booking blind either way.",
+            tourCard: { slug: "maldives-manta-ray-snorkeling-at-rasfari-corner", title: "Maldives: Manta Ray Snorkeling at Rasfari Corner", description: "Ask whether snorkeling gear is included before booking.", price: "From $221", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eda7256a80feec399244d280cc30a4fb0b34b1375524b2ac07ebcc96b97b9332.jpg" },
+          },
+          {
+            title: "What \"Direct\" Actually Protects You From",
+            content: "Booking direct with a verified local operator removes one real risk: a long reseller chain where your money and your question both pass through two or three middlemen before reaching the operator who actually runs the trip. That's genuinely worth avoiding.\n\nIt does **not** automatically mean cheaper, and it does not automatically mean safer. A number found through a resort transfer desk is also \"direct,\" and has none of the accountability of a platform that vets operators and keeps a payment record you can point to if something goes wrong.",
+          },
+          {
+            title: "What to Actually Check Before You Book",
+            content: "Whichever route you take — a well-known booking platform, a smaller local site, or an operator's own contact — run the same three checks:\n\n1. **Message a specific question before paying.** Ask something only someone who actually runs the Malé walking tour or the Villingili trip would know — whether the schedule can flex around a flight connection, or what the backup plan is for bad weather. A vague or delayed answer is the clearest red flag there is.\n2. **Ask what happens if the operator can't take your date.** If a platform or operator can't give a straight answer on refunds before you've paid, that's not one to trust with your money.\n3. **Check who actually answers.** A reply from a real person who clearly knows the route (not a templated bot message) is the strongest signal that someone will also answer you *after* you've paid, not just before.",
+          },
+          {
+            title: "How This Works With AsiaByLocals",
+            content: "On AsiaByLocals, every Malé tour — the [best tours in Malé](/maldives/male/best-tours-in-male), the guided walking tour, the manta ray snorkeling trip — can be questioned on WhatsApp (+91 84495 38716) or email before you book. We confirm with the local operator directly and refund in full if they can't take your date. We're not claiming to be the cheapest option in Malé; several of our tours are also run by the same operators through other platforms. What we commit to is answering honestly, before you pay, by a real person — see our [full trust and licensing FAQ](/about-us) for how we're set up.",
+            tourCard: { slug: "male-villimale-half-day-trip-with-hotel-or", title: "Malé: Villimalé Half-Day Trip with Hotel or Airport Pickup", description: "Ask whether the pickup can flex around a flight connection before booking.", price: "From $65", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2f5af09ce987347f8d1f241044edbfab270566e13ee8ce8acb303cdc07014f06.jpg" },
+          },
+        ],
+        faqs: [
+          { q: "Is it better to book a Malé tour direct or through an app?", a: "Neither label guarantees anything by itself. What matters is whether a real person answers a specific question before you pay. Check that first, regardless of whether the booking page is a big app or a local operator's own contact." },
+          { q: "Is it cheaper to book Malé tours direct with an operator?", a: "Sometimes, but not always — many local operators sell the same tour through multiple platforms at their own set price. Ask about the price and what's included rather than assuming direct is cheaper." },
+          { q: "How do I know if a Malé tour operator is legit before booking?", a: "Message them a specific question — whether gear is included, a flight-connection timing concern — before you pay. A fast, specific answer from someone who clearly knows the tour is the best signal." },
+          { q: "Can I ask AsiaByLocals a question before booking a Malé tour?", a: "Yes. WhatsApp +91 84495 38716 or email info@asiabylocals.com reaches a real person, not a bot, who will confirm with the local operator before you book." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "Is it better to book a Malé tour direct or through an app?", "acceptedAnswer": { "@type": "Answer", "text": "Neither label guarantees anything by itself. What matters is whether a real person answers a specific question before you pay." } },
+            { "@type": "Question", "name": "Is it cheaper to book Malé tours direct with an operator?", "acceptedAnswer": { "@type": "Answer", "text": "Sometimes, but not always — many local operators sell the same tour through multiple platforms at their own set price." } },
+            { "@type": "Question", "name": "How do I know if a Malé tour operator is legit before booking?", "acceptedAnswer": { "@type": "Answer", "text": "Message them a specific question before you pay. A fast, specific answer from someone who clearly knows the tour is the best signal." } },
+            { "@type": "Question", "name": "Can I ask AsiaByLocals a question before booking a Malé tour?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. WhatsApp +91 84495 38716 or email info@asiabylocals.com reaches a real person who will confirm with the local operator before you book." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }
