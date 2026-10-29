@@ -1099,6 +1099,97 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 }
             };
 
+        // GEO single-topic page (2026-10) — anchored to Bangkok as the
+        // highest-volume market for this query per growth/geo_gaps.md
+        case "private-tour-vs-group-tour-thailand":
+            return {
+                title: "Private Tour vs. Group Tour in Thailand: Which Should You Book?",
+                seoTitle: "Private vs. Group Tour in Thailand — An Honest Comparison",
+                description: "Private tours cost more per person but control the pace, timing and stops. Group tours cost less but run on a fixed schedule. Here's how to actually decide for a Thailand trip.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773710349/tours/bangkok-grand-palace/hq_1.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "**Group tours are cheaper per person; private tours buy you control.** A group tour to the Grand Palace or Ayutthaya runs on a fixed schedule with a set itinerary and other travellers along — you save money but can't skip a stop, linger somewhere, or start later if you're jetlagged. A private tour costs more per person (often 2-4x for a solo traveller, less of a gap for a group of 4+) but the guide works around your pace, your interests, and your schedule.\n\nThe real decision point isn't price — it's whether you have specific needs (mobility, dietary, a particular interest, a tight connection to work around) that a fixed group schedule can't accommodate.",
+                        tourCard: { slug: "bangkok-grand-palace-wat-pho-wat-arun-guided-tour", title: "Bangkok: Grand Palace, Wat Pho & Wat Arun Guided Tour", description: "Available as both a small-group and a private booking — ask which fits your pace before you book.", price: "From $29", duration: "4-5 hours", rating: "4.8", reviews: "10", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773710349/tours/bangkok-grand-palace/hq_1.jpg" },
+                    },
+                    {
+                        title: "When a Group Tour Makes More Sense",
+                        content: "If you're travelling solo or as a couple with no particular accessibility or dietary needs, and your main goal is seeing the sights at a reasonable cost, a small-group tour (typically 6-12 people) gets you the same stops at a lower price. The schedule is fixed, but for a first visit to the Grand Palace or Ayutthaya, that's rarely a real constraint — most travellers want roughly the same amount of time at each stop anyway.",
+                    },
+                    {
+                        title: "When a Private Tour Is Worth the Extra Cost",
+                        content: "A private tour earns its price difference when: you're travelling with young kids or an elderly relative who needs a flexible pace; you have a specific interest (food, photography, history) that a general-interest group itinerary won't go deep on; you're on a tight layover or transit schedule and need exact timing; or you simply value not sharing a van with strangers. For a family or a group of 3-4+, the per-person gap between private and group often shrinks to the point where private is the easy choice.",
+                    },
+                    {
+                        title: "How to Decide for Your Specific Trip",
+                        content: "Message the operator before booking either option and ask: can the group tour accommodate [your specific need], and what would a private version of the same itinerary cost for your group size? A real person who answers honestly — including telling you a group tour is fine for your situation, even though a private booking pays them more — is the one worth booking with. On AsiaByLocals, every tour can be questioned this way on WhatsApp (+91 84495 38716) or email before you commit either way — see our [full trust FAQ](/about-us) for how that works.",
+                        tourCard: { slug: "bangkok-ayutthaya-day-trip", title: "Ayutthaya Ancient Temples Day Trip from Bangkok with Thai Lunch", description: "Ask whether a private version suits your schedule better than the standard group departure time.", price: "From $27", duration: "7 hours", rating: "4.8", reviews: "12", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773778104/tours/bangkok/ayutthaya_cover_1773778102218.jpg" },
+                    },
+                ],
+                faqs: [
+                    { q: "Is a private tour worth it in Thailand?", a: "It depends on your group size and needs. For a solo traveller or couple with no special requirements, a group tour is usually better value. For families, groups of 3+, or anyone with a specific pace or interest, private often closes the price gap and adds real flexibility." },
+                    { q: "How much more expensive is a private tour than a group tour in Thailand?", a: "Typically 2-4x per person for a solo traveller, but the gap narrows fast with group size — by 4 people, a private tour can cost close to the same per-person rate as a group tour." },
+                    { q: "Can I ask for a private version of a group tour in Thailand?", a: "Often yes — many operators who run group departures will also quote a private version of the same itinerary on request. Ask before booking what a private option would cost for your group size." },
+                    { q: "What's the biggest downside of a group tour?", a: "The fixed schedule — you can't skip a stop you're not interested in, linger somewhere you love, or shift the start time around a late flight or jetlag." },
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "Is a private tour worth it in Thailand?", "acceptedAnswer": { "@type": "Answer", "text": "It depends on your group size and needs. For a solo traveller or couple, a group tour is usually better value. For families or groups of 3+, private often closes the price gap." } },
+                        { "@type": "Question", "name": "How much more expensive is a private tour than a group tour in Thailand?", "acceptedAnswer": { "@type": "Answer", "text": "Typically 2-4x per person for a solo traveller, narrowing fast with group size." } },
+                        { "@type": "Question", "name": "Can I ask for a private version of a group tour in Thailand?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — many operators will quote a private version of the same itinerary on request." } },
+                        { "@type": "Question", "name": "What's the biggest downside of a group tour?", "acceptedAnswer": { "@type": "Answer", "text": "The fixed schedule — no skipping, lingering, or shifting the start time." } },
+                    ],
+                },
+            };
+
+        // GEO single-topic page (2026-10)
+        case "how-much-should-a-private-tour-guide-cost-in-bangkok":
+            return {
+                title: "How Much Should a Private Tour Guide Cost in Bangkok?",
+                seoTitle: "Bangkok Private Guide Prices 2026 — What's Reasonable",
+                description: "Real price ranges for a private guide in Bangkok in 2026, by tour length and type, so you know what's fair before you book.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773710349/tours/bangkok-grand-palace/hq_1.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "A **half-day private guided tour in Bangkok (4-5 hours) typically runs $25-50 per person** for 1-2 travellers, dropping toward $15-25 per person for a group of 4+ sharing the same guide and vehicle. A full day runs roughly double. Specialty tours — a food crawl with 10+ tastings, or a private evening tuk-tuk tour — often price a flat rate per group rather than per person, usually $70-150 for the group regardless of size, since the cost is the guide's time and logistics rather than per-head consumption.",
+                        tourCard: { slug: "bangkok-grand-palace-wat-pho-wat-arun-guided-tour", title: "Bangkok: Grand Palace, Wat Pho & Wat Arun Guided Tour", description: "A real example of a half-day private-eligible Bangkok tour and its actual price.", price: "From $29", duration: "4-5 hours", rating: "4.8", reviews: "10", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773710349/tours/bangkok-grand-palace/hq_1.jpg" },
+                    },
+                    {
+                        title: "What Changes the Price",
+                        content: "**Group size** is the biggest lever — a guide's fee is mostly fixed regardless of 1 or 4 people, so the per-person cost drops sharply as the group grows. **Transport** adds cost if a private air-conditioned vehicle is included versus walking or public transport. **Entrance fees** are usually separate from the guide fee and listed individually. **Specialty skills** — a licensed historian for temple tours, a trained diver for a scuba add-on — cost more than a general city guide.",
+                    },
+                    {
+                        title: "Red Flags on Price",
+                        content: "A quote that's dramatically below the ranges above for a *private* tour (not group) usually means one of three things: the guide isn't actually licensed or experienced, the itinerary is thinner than advertised (fewer stops, less time), or there's a commission-shop detour built in to make up the margin — a known pattern across Southeast Asia, not specific to any platform. A quote that seems high is worth asking about directly: what exactly is included, and why.",
+                    },
+                    {
+                        title: "How to Get a Fair Price",
+                        content: "Ask the operator directly what's included — guide fee, transport, entrance tickets, meals — rather than comparing one all-in number to another. On AsiaByLocals, every Bangkok tour price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will tell you honestly what's driving the cost rather than just defending the number. See our [full trust FAQ](/about-us) for how that works, or browse [all Bangkok tours](/thailand/bangkok) to compare real, current prices directly.",
+                        tourCard: { slug: "bangkok-chinatown-food-tour-15-tastings-michelin-stops", title: "Bangkok Chinatown Food Tour: 15+ Tastings at Michelin Street Food Stops", description: "An example of a flat per-group specialty tour price rather than a strict per-person rate.", price: "From $70", duration: "4 hours", rating: "4.9", reviews: "12", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773776051/tours/bangkok/chefs_tour_6_1773776050893.jpg" },
+                    },
+                ],
+                faqs: [
+                    { q: "How much does a private tour guide cost in Bangkok?", a: "A half-day private tour typically runs $25-50 per person for 1-2 people, dropping to $15-25 per person for groups of 4+. A full day runs roughly double." },
+                    { q: "Why is a private tour cheaper per person in a bigger group?", a: "The guide's fee and vehicle cost are mostly fixed regardless of group size, so splitting them across more people lowers the per-person rate sharply." },
+                    { q: "Is a very cheap private tour quote in Bangkok a red flag?", a: "Often yes — it can mean an unlicensed or inexperienced guide, a thinner itinerary than advertised, or a commission-shop detour built in to make up the margin." },
+                    { q: "What's usually included in a Bangkok private tour price?", a: "Typically the guide's fee and often a private air-conditioned vehicle. Entrance fees and meals are usually listed separately — ask for the breakdown before comparing prices." },
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "How much does a private tour guide cost in Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "A half-day private tour typically runs $25-50 per person for 1-2 people, dropping to $15-25 per person for groups of 4+." } },
+                        { "@type": "Question", "name": "Why is a private tour cheaper per person in a bigger group?", "acceptedAnswer": { "@type": "Answer", "text": "The guide's fee and vehicle cost are mostly fixed regardless of group size." } },
+                        { "@type": "Question", "name": "Is a very cheap private tour quote in Bangkok a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean an unlicensed guide, a thinner itinerary, or a commission-shop detour." } },
+                        { "@type": "Question", "name": "What's usually included in a Bangkok private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the guide's fee and often a private vehicle; entrance fees and meals are usually separate." } },
+                    ],
+                },
+            };
+
         default:
             return null;
     }

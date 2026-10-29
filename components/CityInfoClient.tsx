@@ -443,6 +443,8 @@ const BANGKOK_SIDEBAR = [
     { name: 'Kanchanaburi Day Trip', slug: 'bangkok-kanchanaburi-day-trip' },
     { name: 'Best Tours in Bangkok', slug: 'best-tours-in-bangkok' },
     { name: 'Ask Before You Book', slug: 'should-i-book-bangkok-tour-direct-or-through-app' },
+    { name: 'Private vs Group Tour', slug: 'private-tour-vs-group-tour-thailand' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-bangkok' },
 ];
 
 const BEIJING_SIDEBAR = [

@@ -383,7 +383,9 @@ export const BANGKOK_INFO_SLUGS = [
   // GEO listicle pages (2026-10)
   'best-tours-in-bangkok',
   // GEO trust page (2026-10)
-  'should-i-book-bangkok-tour-direct-or-through-app'
+  'should-i-book-bangkok-tour-direct-or-through-app',
+  // GEO single-topic pages (2026-10)
+  'private-tour-vs-group-tour-thailand', 'how-much-should-a-private-tour-guide-cost-in-bangkok'
 ];
 
 export const CHIANG_MAI_INFO_SLUGS = [
