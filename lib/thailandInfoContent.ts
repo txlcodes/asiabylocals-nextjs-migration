@@ -1009,6 +1009,51 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ]
             };
 
+        // GEO trust page (2026-10)
+        case "should-i-book-bangkok-tour-direct-or-through-app":
+            return {
+                title: "Should You Book a Bangkok Tour Direct or Through an App?",
+                seoTitle: "Direct vs. App: How to Actually Book a Bangkok Tour",
+                description: "Direct-with-the-operator vs. booking through an app matters less than whether a real person answers your specific question before you pay. Here's how to tell the difference in Bangkok.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773710349/tours/bangkok-grand-palace/hq_1.jpg",
+                sections: [
+                    {
+                        title: "The Real Question Isn't \"Direct or App\"",
+                        content: "Every Bangkok tour guide will tell you to \"book direct\" to save money, and every big platform will tell you their reviews and support make booking through them safer. Both pitches miss what actually matters: **can you get a specific question answered by a real person before you pay?**\n\nA Chinatown food tour or a floating-market day trip is a commitment — a pickup time, a group size, sometimes a dietary restriction. If nobody will confirm those details until after your card is charged, it doesn't matter whether you booked \"direct\" through a WhatsApp number scrawled on a hostel noticeboard or through a polished app — you're booking blind either way.",
+                        tourCard: { slug: "bangkok-grand-palace-wat-pho-wat-arun-guided-tour", title: "Bangkok: Grand Palace, Wat Pho & Wat Arun Guided Tour", description: "The royal temple circuit — ask about pickup timing or dress-code logistics on WhatsApp before you book.", price: "From $29", duration: "4-5 hours", rating: "4.8", reviews: "10", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773710349/tours/bangkok-grand-palace/hq_1.jpg" }
+                    },
+                    {
+                        title: "What \"Direct\" Actually Protects You From",
+                        content: "Booking direct with a verified local operator removes one real risk: a long reseller chain where your money and your question both have to pass through two or three middlemen before reaching the person who actually runs the tour. That's genuinely worth avoiding — it's how pickup times get garbled and refund requests disappear into a queue.\n\nIt does **not** automatically mean cheaper, and it does not automatically mean safer. A random number found through a hotel concierge or a street tout is also \"direct,\" and has none of the accountability of a platform that vets operators and holds a payment record.",
+                    },
+                    {
+                        title: "What to Actually Check Before You Book",
+                        content: "Whichever route you take — a well-known booking platform, a smaller local site, or a number handed to you by your hotel — run the same three checks:\n\n1. **Message a specific question before paying.** Not \"is this available\" — ask something only a person who actually runs the tour would know, like whether the Chinatown tour accommodates a shellfish allergy, or whether the Ayutthaya day trip includes air-conditioned transport. A vague or delayed answer is the clearest red flag there is.\n2. **Ask what happens if the operator can't take your date.** A platform or operator that can't give you a straight answer on refunds before you've paid is not one to trust with your money.\n3. **Check who actually answers.** If the reply comes from a real person who clearly knows the tour (not a templated bot message), that's the strongest signal that someone will also answer you *after* you've paid, not just before.",
+                    },
+                    {
+                        title: "How This Works With AsiaByLocals",
+                        content: "On AsiaByLocals, every Bangkok tour — the [Grand Palace circuit](/thailand/bangkok/grand-palace-bangkok), the [Chinatown food tour](/thailand/bangkok/best-tours-in-bangkok), the [Ayutthaya day trip](/thailand/bangkok/best-tours-in-bangkok) — can be questioned on WhatsApp (+91 84495 38716) or email before you book. We confirm with the local operator directly and refund in full if they can't take your date. We're not claiming to be the cheapest option in Bangkok; several of our tours are also sold on other platforms by the same operator. What we commit to is answering honestly, before you pay, by a real person — see our [full trust and licensing FAQ](/about-us) for how we're set up.",
+                        tourCard: { slug: "bangkok-chinatown-food-tour-15-tastings-michelin-stops", title: "Bangkok Chinatown Food Tour: 15+ Tastings at Michelin Street Food Stops", description: "Ask about a dietary restriction on WhatsApp before booking — a real person will confirm with the guide.", price: "From $70", duration: "4 hours", rating: "4.9", reviews: "12", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773776051/tours/bangkok/chefs_tour_6_1773776050893.jpg" }
+                    }
+                ],
+                faqs: [
+                    { q: "Is it better to book a Bangkok tour direct or through an app?", a: "Neither label guarantees anything by itself. What matters is whether a real person answers a specific question before you pay. Check that first, regardless of whether the booking page is a big app or a small local site." },
+                    { q: "Is it cheaper to book Bangkok tours direct?", a: "Sometimes, but not always — many local operators sell the same tour on multiple platforms at their own set price, so \"direct\" doesn't automatically mean a discount. Ask about the price and what's included rather than assuming." },
+                    { q: "How do I know if a Bangkok tour operator is legit before booking?", a: "Message them a specific question — a dietary restriction, a pickup detail, a refund scenario — before you pay. A fast, specific answer from someone who clearly knows the tour is the best signal. A vague or delayed reply is a red flag." },
+                    { q: "Can I ask AsiaByLocals a question before booking a Bangkok tour?", a: "Yes. WhatsApp +91 84495 38716 or email info@asiabylocals.com reaches a real person, not a bot, who will confirm with the local operator before you book." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "Is it better to book a Bangkok tour direct or through an app?", "acceptedAnswer": { "@type": "Answer", "text": "Neither label guarantees anything by itself. What matters is whether a real person answers a specific question before you pay." } },
+                        { "@type": "Question", "name": "Is it cheaper to book Bangkok tours direct?", "acceptedAnswer": { "@type": "Answer", "text": "Sometimes, but not always — many local operators sell the same tour on multiple platforms at their own set price." } },
+                        { "@type": "Question", "name": "How do I know if a Bangkok tour operator is legit before booking?", "acceptedAnswer": { "@type": "Answer", "text": "Message them a specific question before you pay. A fast, specific answer from someone who clearly knows the tour is the best signal." } },
+                        { "@type": "Question", "name": "Can I ask AsiaByLocals a question before booking a Bangkok tour?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. WhatsApp +91 84495 38716 or email info@asiabylocals.com reaches a real person who will confirm with the local operator before you book." } }
+                    ]
+                }
+            };
+
         default:
             return null;
     }

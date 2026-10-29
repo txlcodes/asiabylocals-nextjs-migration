@@ -372,7 +372,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'bangkok-ayutthaya-day-trip', 'chinatown-yaowarat-bangkok',
     'where-to-stay-in-bangkok', 'bangkok-street-food-guide',
     'khao-san-road-bangkok', 'bangkok-kanchanaburi-day-trip',
-    'best-tours-in-bangkok',
+    'best-tours-in-bangkok', 'should-i-book-bangkok-tour-direct-or-through-app',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/bangkok/${slug}`,
     lastModified: new Date(),

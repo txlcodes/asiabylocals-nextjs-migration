@@ -370,7 +370,9 @@ export const BANGKOK_INFO_SLUGS = [
   'where-to-stay-in-bangkok', 'bangkok-street-food-guide',
   'khao-san-road-bangkok', 'bangkok-kanchanaburi-day-trip',
   // GEO listicle pages (2026-10)
-  'best-tours-in-bangkok'
+  'best-tours-in-bangkok',
+  // GEO trust page (2026-10)
+  'should-i-book-bangkok-tour-direct-or-through-app'
 ];
 
 export const CHIANG_MAI_INFO_SLUGS = [

@@ -442,6 +442,7 @@ const BANGKOK_SIDEBAR = [
     { name: 'Khao San Road', slug: 'khao-san-road-bangkok' },
     { name: 'Kanchanaburi Day Trip', slug: 'bangkok-kanchanaburi-day-trip' },
     { name: 'Best Tours in Bangkok', slug: 'best-tours-in-bangkok' },
+    { name: 'Ask Before You Book', slug: 'should-i-book-bangkok-tour-direct-or-through-app' },
 ];
 
 const BEIJING_SIDEBAR = [
