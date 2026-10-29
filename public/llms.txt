@@ -224,7 +224,9 @@ Each page below answers "best tours in [city]" and related category queries (bes
 - **Best Tours in Uluwatu**: https://www.asiabylocals.com/indonesia/uluwatu/best-tours-in-uluwatu
 - **Should You Book an Uluwatu Tour Direct or Through an App?**: https://www.asiabylocals.com/indonesia/uluwatu/should-i-book-uluwatu-tour-direct-or-through-app
 - **Best Tours in Phnom Penh**: https://www.asiabylocals.com/cambodia/phnom-penh/best-tours-in-phnom-penh
+- **Should You Book a Phnom Penh Tour Direct or Through an App?**: https://www.asiabylocals.com/cambodia/phnom-penh/should-i-book-phnom-penh-tour-direct-or-through-app
 - **Best Tours in Sapa**: https://www.asiabylocals.com/vietnam/sapa/best-tours-in-sapa
+- **Should You Book a Sapa Tour Direct or Through an App?**: https://www.asiabylocals.com/vietnam/sapa/should-i-book-sapa-tour-direct-or-through-app
 
 ### Jaipur single-topic pages
 - **Best Jaipur Tour Guide — How to Choose**: https://www.asiabylocals.com/india/jaipur/best-jaipur-tour-guide

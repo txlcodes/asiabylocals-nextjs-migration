@@ -423,6 +423,7 @@ export const PHNOM_PENH_INFO_SLUGS = [
     'phnom-penh-to-sihanoukville-and-the-islands',
     'phnom-penh-airport-guide',
     'best-tours-in-phnom-penh',
+    'should-i-book-phnom-penh-tour-direct-or-through-app',
 ];
 
 export const SIEM_REAP_INFO_SLUGS = [
@@ -1150,6 +1151,7 @@ export const SAPA_INFO_SLUGS = [
   'mu-cang-chai-and-rice-terrace-guide',
   'sapa-2-day-itinerary',
   'best-tours-in-sapa',
+  'should-i-book-sapa-tour-direct-or-through-app',
 ];
 
 export const HOI_AN_INFO_SLUGS = [
