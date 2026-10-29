@@ -258,7 +258,8 @@ export const TAIPEI_INFO_SLUGS = [
   'taipei-7-day-itinerary', 'taiwan-high-speed-rail-guide', 'taipei-coffee-culture-guide',
   'taipei-lgbtq-friendly-guide', 'taipei-rainy-day-activities', 'taipei-christmas-new-year-guide',
   // GEO listicle page (2026-10)
-  'best-tours-in-taipei'
+  'best-tours-in-taipei',
+  'should-i-book-taipei-tour-direct-or-through-app'
 ];
 
 // South Korea launched 2026-10 with 570 live tours (Seoul 430, Busan 140) and
@@ -397,7 +398,8 @@ export const PATTAYA_INFO_SLUGS = [
   'best-time-to-visit-pattaya', 'nong-nooch-tropical-garden-pattaya',
   'pattaya-2-day-itinerary', 'pattaya-cabaret-shows-guide',
   // GEO listicle pages (2026-10)
-  'best-tours-in-pattaya'
+  'best-tours-in-pattaya',
+  'should-i-book-pattaya-tour-direct-or-through-app'
 ];
 // Cambodia. isInfoSlug() gates the route, so a page missing from here 404s
 // however good the content is.
@@ -655,7 +657,8 @@ export const HAKONE_INFO_SLUGS = [
   'hakone-yosegi-marquetry-guide',
   'where-to-stay-in-hakone',
   'hakone-or-kawaguchiko-for-mount-fuji',
-  'best-tours-in-hakone'
+  'best-tours-in-hakone',
+  'should-i-book-hakone-tour-direct-or-through-app'
 ];
 
 // Fuji content that was sitting under Hakone. The page bodies still live in

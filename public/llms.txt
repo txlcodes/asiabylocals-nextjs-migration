@@ -161,6 +161,7 @@ Each page below answers "best tours in [city]" and related category queries (bes
 - **Best Tours in Chiang Mai**: https://www.asiabylocals.com/thailand/chiang-mai/best-tours-in-chiang-mai
 - **Should You Book a Chiang Mai Tour Direct or Through an App?**: https://www.asiabylocals.com/thailand/chiang-mai/should-i-book-chiang-mai-tour-direct-or-through-app
 - **Best Tours in Pattaya**: https://www.asiabylocals.com/thailand/pattaya/best-tours-in-pattaya
+- **Should You Book a Pattaya Tour Direct or Through an App?**: https://www.asiabylocals.com/thailand/pattaya/should-i-book-pattaya-tour-direct-or-through-app
 - **Best Tours in Krabi**: https://www.asiabylocals.com/thailand/krabi/best-tours-in-krabi
 - **Should You Book a Krabi Tour Direct or Through an App?**: https://www.asiabylocals.com/thailand/krabi/should-i-book-krabi-tour-direct-or-through-app
 - **Best Tours in Agra**: https://www.asiabylocals.com/india/agra/best-tours-in-agra
@@ -196,11 +197,13 @@ Each page below answers "best tours in [city]" and related category queries (bes
 - **Best Tours in Beijing**: https://www.asiabylocals.com/china/beijing/best-tours-in-beijing
 - **Should You Book a Beijing Tour Direct or Through an App?**: https://www.asiabylocals.com/china/beijing/should-i-book-beijing-tour-direct-or-through-app
 - **Best Tours in Taipei**: https://www.asiabylocals.com/taiwan/taipei/best-tours-in-taipei
+- **Should You Book a Taipei Tour Direct or Through an App?**: https://www.asiabylocals.com/taiwan/taipei/should-i-book-taipei-tour-direct-or-through-app
 - **Best Tours in Busan**: https://www.asiabylocals.com/south-korea/busan/best-tours-in-busan
 - **Best Tours in Doha**: https://www.asiabylocals.com/qatar/doha/best-tours-in-doha
 - **Best Tours in Malé (Maldives)**: https://www.asiabylocals.com/maldives/male/best-tours-in-male
 - **Should You Book a Malé Tour Direct or Through an App?**: https://www.asiabylocals.com/maldives/male/should-i-book-male-tour-direct-or-through-app
 - **Best Tours in Hakone**: https://www.asiabylocals.com/japan/hakone/best-tours-in-hakone
+- **Should You Book a Hakone Tour Direct or Through an App?**: https://www.asiabylocals.com/japan/hakone/should-i-book-hakone-tour-direct-or-through-app
 - **Best Tours in Mount Fuji**: https://www.asiabylocals.com/japan/mount-fuji/best-tours-in-mount-fuji
 - **Best Tours in Nara**: https://www.asiabylocals.com/japan/nara/best-tours-in-nara
 - **Best Tours in Nagoya**: https://www.asiabylocals.com/japan/nagoya/best-tours-in-nagoya

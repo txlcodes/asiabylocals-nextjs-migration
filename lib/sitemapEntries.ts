@@ -169,7 +169,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'keelung-day-trip-guide', 'sun-moon-lake-day-trip', 'alishan-day-trip-guide',
     'taipei-7-day-itinerary', 'taiwan-high-speed-rail-guide', 'taipei-coffee-culture-guide',
     'taipei-lgbtq-friendly-guide', 'taipei-rainy-day-activities', 'taipei-christmas-new-year-guide',
-    'best-tours-in-taipei',
+    'best-tours-in-taipei', 'should-i-book-taipei-tour-direct-or-through-app',
   ].map(slug => ({
     url: `${BASE_URL}/taiwan/taipei/${slug}`,
     lastModified: new Date(),
@@ -400,7 +400,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'koh-larn-island-guide', 'where-to-stay-in-pattaya',
     'best-time-to-visit-pattaya', 'nong-nooch-tropical-garden-pattaya',
     'pattaya-2-day-itinerary', 'pattaya-cabaret-shows-guide',
-    'best-tours-in-pattaya',
+    'best-tours-in-pattaya', 'should-i-book-pattaya-tour-direct-or-through-app',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/pattaya/${slug}`,
     lastModified: new Date(),
@@ -584,7 +584,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'hakone-onsen-guide', 'hakone-2-day-itinerary',
     'hakone-open-air-museum-guide', 'owakudani-black-eggs-guide', 'hakone-yosegi-marquetry-guide',
     'where-to-stay-in-hakone',
-    'hakone-or-kawaguchiko-for-mount-fuji', 'best-tours-in-hakone'].map(slug => ({
+    'hakone-or-kawaguchiko-for-mount-fuji', 'best-tours-in-hakone', 'should-i-book-hakone-tour-direct-or-through-app'].map(slug => ({
     url: `${BASE_URL}/japan/hakone/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
