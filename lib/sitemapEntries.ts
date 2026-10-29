@@ -55,6 +55,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-hotel-near-taj-mahal', 'taj-mahal-night-viewing-tour',
     'agra-tour-guide-scams-how-to-avoid-touts',
     'should-i-book-taj-mahal-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-agra',
   ].map(slug => ({
     url: `${BASE_URL}/india/agra/${slug}`,
     lastModified: new Date(),

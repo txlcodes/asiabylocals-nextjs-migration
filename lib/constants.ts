@@ -100,7 +100,8 @@ export const AGRA_INFO_SLUGS = [
   'best-agra-tour-operator', 'best-agra-tour-for-families', 'is-agra-safe-for-tourists',
   'best-hotel-near-taj-mahal', 'taj-mahal-night-viewing-tour',
   'agra-tour-guide-scams-how-to-avoid-touts',
-  'should-i-book-taj-mahal-tour-direct-or-through-app'
+  'should-i-book-taj-mahal-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-agra'
 ];
 
 export const DELHI_INFO_SLUGS = [

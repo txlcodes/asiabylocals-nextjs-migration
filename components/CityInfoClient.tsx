@@ -34,6 +34,7 @@ interface Props {
 
 const AGRA_SIDEBAR = [
     { name: 'Ask Before You Book', slug: 'should-i-book-taj-mahal-tour-direct-or-through-app' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-agra' },
     { name: 'Avoid Touts & Scams', slug: 'agra-tour-guide-scams-how-to-avoid-touts' },
     { name: 'Things to Do', slug: 'things-to-do-in-agra' },
     { name: 'Places Guide', slug: 'places-to-visit-in-agra' },

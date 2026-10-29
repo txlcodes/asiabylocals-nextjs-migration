@@ -1140,6 +1140,53 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         ]
       };
 
+    // GEO single-topic page (2026-10)
+    case "how-much-should-a-private-tour-guide-cost-in-agra":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Agra?",
+        seoTitle: "Agra Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private, government-licensed guide at the Taj Mahal and Agra Fort in 2026, so you know what's fair before you book.",
+        heroImage: A_SUNSET.image,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **licensed private guide for a single Taj Mahal visit in Agra typically costs $15-20 per person for a group of 1-2**, dropping toward $10-15 per person for a group of 4+ sharing the same guide. A full day covering the Taj Mahal, Agra Fort and the Baby Taj runs $30-40 per person for a small group. These prices are for the guide's fee only — the Taj Mahal entrance ticket (around ₹1,300 / ~$16 for international visitors) and transport are usually separate line items.",
+            tourCard: A_SUNSET,
+          },
+          {
+            title: "What Changes the Price",
+            content: "**Group size** is the main lever, the same as anywhere — a guide's fee is largely fixed per tour, so splitting it across more people lowers the per-person cost. **Timing matters too**: a sunrise or sunset slot (the best light, and the reason most serious photographers book one) sometimes carries a small premium over a midday visit. **Licensing matters most of all** — a government-approved guide (ASI/Ministry of Tourism licensed) commands a fair price precisely because they're legally allowed to guide inside the monument; an unlicensed tout offering a cheaper \"guide\" service is operating outside the law and has no accountability if something goes wrong.",
+            tourCard: A_GUIDE,
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A quote far below the ranges above for a genuinely private, licensed guide usually means the person isn't actually government-licensed — a real risk at the Taj Mahal specifically, where touts without ASI authorization approach tourists near the gates. A legitimate guide will provide their license number without hesitation; if they can't or won't, the price doesn't matter, because they can't legally guide you inside anyway.",
+            tourCard: A_FULL,
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask for the license number before you pay, and ask what's included — the entrance ticket, transport, and any other monuments on the day. On AsiaByLocals, every Agra tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, confirmed by a real person, not a bot. See our [full trust and licensing FAQ](/about-us) for how we're set up, or browse [all Agra tours](/india/agra) to compare real, current prices directly.",
+            tourCard: A_FORT,
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost at the Taj Mahal?", a: "A licensed private guide for a single Taj Mahal visit typically costs $15-20 per person for 1-2 travellers, dropping to $10-15 per person for groups of 4+." },
+          { q: "Is the Taj Mahal entrance ticket included in a guide's price?", a: "Usually not — the entrance ticket (around ₹1,300 / ~$16 for international visitors) is typically a separate line item from the guide's fee." },
+          { q: "Why do some Agra guides quote a much cheaper price?", a: "It often means they're not actually government-licensed to guide inside the monument. Ask for a license number before paying — a legitimate guide provides it without hesitation." },
+          { q: "Does a sunrise Taj Mahal tour cost more?", a: "Sometimes slightly, since sunrise slots are in higher demand for the light and the cooler temperature, but the difference is usually small compared to group-size effects on price." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost at the Taj Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "A licensed private guide typically costs $15-20 per person for 1-2 travellers, dropping to $10-15 per person for groups of 4+." } },
+            { "@type": "Question", "name": "Is the Taj Mahal entrance ticket included in a guide's price?", "acceptedAnswer": { "@type": "Answer", "text": "Usually not — the entrance ticket is typically a separate line item from the guide's fee." } },
+            { "@type": "Question", "name": "Why do some Agra guides quote a much cheaper price?", "acceptedAnswer": { "@type": "Answer", "text": "It often means they're not actually government-licensed to guide inside the monument." } },
+            { "@type": "Question", "name": "Does a sunrise Taj Mahal tour cost more?", "acceptedAnswer": { "@type": "Answer", "text": "Sometimes slightly, since sunrise slots are in higher demand, but the difference is small compared to group-size effects." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }
