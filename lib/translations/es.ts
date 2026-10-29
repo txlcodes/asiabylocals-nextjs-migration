@@ -93631,14 +93631,14 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Tour guiado privado de un dia a Sigiriya y Dambulla",
   "metaDescription": "Una excursion de un dia completo desde Sigiriya que visita Sigiriya Lion Rock and Dambulla Royal Cave Temple y Golden Temple. Ofrecido por SIGIRITRIP TOURS (PVT) ...",
   "shortDescription": "Una excursion de un dia completo desde Sigiriya que visita Sigiriya Lion Rock and Dambulla Royal Cave Temple y Golden Temple. Ofrecido por SIGIRITRIP TOURS (PVT) LTD.",
-  "fullDescription": "Una excursion de un dia completo desde Sigiriya, que recorre Sigiriya Lion Rock and Dambulla Royal Cave Temple y Golden Temple. Hay 2 paradas en total.\n\nEl orden de la ruta es Sigiriya Lion Rock, luego Dambulla Royal Cave Temple and Golden Temple.\n\nEl precio incluye todos los impuestos, tarifas y cargos de manejo, recargo de combustible, tarifa de corretaje de TripAdvisor Experiences, agua embotellada y conductor-guia. No incluye , por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una excursion de un dia completo desde Sigiriya, que recorre Sigiriya Lion Rock and Dambulla Royal Cave Temple y Golden Temple. Hay 2 paradas en total.\n\nEl orden de la ruta es Sigiriya Lion Rock, luego Dambulla Royal Cave Temple and Golden Temple.\n\nEl precio incluye todos los impuestos, tarifas y cargos de manejo, recargo de combustible, tarifa de servicio de reserva, agua embotellada y conductor-guia. No incluye , por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Una excursion de un dia completo desde Sigiriya que visita Sigiriya Lion Rock and Dambulla Royal Cave Temple y Golden Temple. Ofrecido por SIGIRITRIP TOURS (PVT) LTD."
   ],
   "included": [
    "Todos los impuestos, tarifas y cargos de manejo",
    "Recargo de combustible",
-   "Tarifa de corretaje de TripAdvisor Experiences",
+   "Tarifa de servicio de reserva",
    "Agua embotellada",
    "Conductor-guia"
   ],

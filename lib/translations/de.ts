@@ -93631,14 +93631,14 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Private gefuehrte Tagestour nach Sigiriya und Dambulla",
   "metaDescription": "Ein ganztaegigeer Ausflug ab Sigiriya, der Sigiriya Lion Rock and Dambulla Royal Cave Temple und Golden Temple besucht. Angeboten von SIGIRITRIP TOURS (PVT) LTD.",
   "shortDescription": "Ein ganztaegigeer Ausflug ab Sigiriya, der Sigiriya Lion Rock and Dambulla Royal Cave Temple und Golden Temple besucht. Angeboten von SIGIRITRIP TOURS (PVT) LTD.",
-  "fullDescription": "Ein ganztaegigeer Ausflug ab Sigiriya, der Sigiriya Lion Rock and Dambulla Royal Cave Temple und Golden Temple umfasst. Es gibt insgesamt 2 Stopps.\n\nDie Reihenfolge ist Sigiriya Lion Rock, dann Dambulla Royal Cave Temple and Golden Temple.\n\nDer Preis beinhaltet alle Steuern, Gebuehren, und Bearbeitungsgebuehren, treibstoffzuschlag, tripAdvisor-Experiences-Vermittlungsgebuehr, flaschenwasser und fahrer-Guide. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Sigiriya, der Sigiriya Lion Rock and Dambulla Royal Cave Temple und Golden Temple umfasst. Es gibt insgesamt 2 Stopps.\n\nDie Reihenfolge ist Sigiriya Lion Rock, dann Dambulla Royal Cave Temple and Golden Temple.\n\nDer Preis beinhaltet alle Steuern, Gebuehren, und Bearbeitungsgebuehren, treibstoffzuschlag, buchungs-Servicegebuehr, flaschenwasser und fahrer-Guide. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren.",
   "highlights": [
    "Ein ganztaegigeer Ausflug ab Sigiriya, der Sigiriya Lion Rock and Dambulla Royal Cave Temple und Golden Temple besucht. Angeboten von SIGIRITRIP TOURS (PVT) LTD."
   ],
   "included": [
    "Alle Steuern, Gebuehren, und Bearbeitungsgebuehren",
    "Treibstoffzuschlag",
-   "TripAdvisor-Experiences-Vermittlungsgebuehr",
+   "Buchungs-Servicegebuehr",
    "Flaschenwasser",
    "Fahrer-Guide"
   ],

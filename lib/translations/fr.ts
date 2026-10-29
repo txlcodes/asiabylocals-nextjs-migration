@@ -93631,14 +93631,14 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Visite guidee privee d'une journee a Sigiriya et Dambulla",
   "metaDescription": "Une excursion d'une journee complete au depart de Sigiriya passant par Sigiriya Lion Rock and Dambulla Royal Cave Temple et Golden Temple. Propose par SIGIRITRIP ...",
   "shortDescription": "Une excursion d'une journee complete au depart de Sigiriya passant par Sigiriya Lion Rock and Dambulla Royal Cave Temple et Golden Temple. Propose par SIGIRITRIP TOURS (PVT) LTD.",
-  "fullDescription": "Une excursion d'une journee complete au depart de Sigiriya, passant par Sigiriya Lion Rock and Dambulla Royal Cave Temple et Golden Temple. Il y a 2 arrets au total.\n\nL'ordre de visite est Sigiriya Lion Rock, puis Dambulla Royal Cave Temple and Golden Temple.\n\nLe prix comprend toutes les taxes, frais et frais de traitement, surtaxe de carburant, frais de courtage TripAdvisor Experiences, eau en bouteille et chauffeur-guide. Il ne comprend pas , prevoyez donc un budget separe.",
+  "fullDescription": "Une excursion d'une journee complete au depart de Sigiriya, passant par Sigiriya Lion Rock and Dambulla Royal Cave Temple et Golden Temple. Il y a 2 arrets au total.\n\nL'ordre de visite est Sigiriya Lion Rock, puis Dambulla Royal Cave Temple and Golden Temple.\n\nLe prix comprend toutes les taxes, frais et frais de traitement, surtaxe de carburant, frais de service de reservation, eau en bouteille et chauffeur-guide. Il ne comprend pas , prevoyez donc un budget separe.",
   "highlights": [
    "Une excursion d'une journee complete au depart de Sigiriya passant par Sigiriya Lion Rock and Dambulla Royal Cave Temple et Golden Temple. Propose par SIGIRITRIP TOURS (PVT) LTD."
   ],
   "included": [
    "Toutes les taxes, frais et frais de traitement",
    "Surtaxe de carburant",
-   "Frais de courtage TripAdvisor Experiences",
+   "Frais de service de reservation",
    "Eau en bouteille",
    "Chauffeur-guide"
   ],
