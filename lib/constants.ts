@@ -540,7 +540,7 @@ export const SAPPORO_INFO_SLUGS = [
   'sapporo-beer-chocolate-factories',
   'lake-toya-shikotsu-guide',
   'where-to-stay-in-sapporo',
-  'sapporo-with-kids', 'best-tours-in-sapporo'];
+  'sapporo-with-kids', 'best-tours-in-sapporo', 'should-i-book-sapporo-tour-direct-or-through-app'];
 
 // Re-add a slug here ONLY once its page exists in lib/naraInfoContent.ts.
 export const NARA_INFO_SLUGS = [
@@ -601,14 +601,16 @@ export const GALLE_INFO_SLUGS = [
 export const NEGOMBO_INFO_SLUGS = [
   'negombo-airport-guide',
   'negombo-lagoon-guide',
-  'best-tours-in-negombo'
+  'best-tours-in-negombo',
+  'should-i-book-negombo-tour-direct-or-through-app'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/nuwaraEliyaInfoContent.ts.
 export const NUWARA_ELIYA_INFO_SLUGS = [
   'nuwara-eliya-tea-guide',
   'horton-plains-guide',
-  'best-tours-in-nuwara-eliya'
+  'best-tours-in-nuwara-eliya',
+  'should-i-book-nuwara-eliya-tour-direct-or-through-app'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/bentotaInfoContent.ts.

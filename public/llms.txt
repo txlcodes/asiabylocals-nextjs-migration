@@ -212,8 +212,11 @@ Each page below answers "best tours in [city]" and related category queries (bes
 - **Best Tours in Nagoya**: https://www.asiabylocals.com/japan/nagoya/best-tours-in-nagoya
 - **Should You Book a Nagoya Tour Direct or Through an App?**: https://www.asiabylocals.com/japan/nagoya/should-i-book-nagoya-tour-direct-or-through-app
 - **Best Tours in Sapporo**: https://www.asiabylocals.com/japan/sapporo/best-tours-in-sapporo
+- **Should You Book a Sapporo Tour Direct or Through an App?**: https://www.asiabylocals.com/japan/sapporo/should-i-book-sapporo-tour-direct-or-through-app
 - **Best Tours in Negombo**: https://www.asiabylocals.com/sri-lanka/negombo/best-tours-in-negombo
+- **Should You Book a Negombo Tour Direct or Through an App?**: https://www.asiabylocals.com/sri-lanka/negombo/should-i-book-negombo-tour-direct-or-through-app
 - **Best Tours in Nuwara Eliya**: https://www.asiabylocals.com/sri-lanka/nuwara-eliya/best-tours-in-nuwara-eliya
+- **Should You Book a Nuwara Eliya Tour Direct or Through an App?**: https://www.asiabylocals.com/sri-lanka/nuwara-eliya/should-i-book-nuwara-eliya-tour-direct-or-through-app
 - **Best Tours in Ella**: https://www.asiabylocals.com/sri-lanka/ella/best-tours-in-ella
 - **Best Tours in Galle**: https://www.asiabylocals.com/sri-lanka/galle/best-tours-in-galle
 - **Best Tours in Canggu**: https://www.asiabylocals.com/indonesia/canggu/best-tours-in-canggu
