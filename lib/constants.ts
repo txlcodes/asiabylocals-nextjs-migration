@@ -436,6 +436,8 @@ export const SIEM_REAP_INFO_SLUGS = [
     'siem-reap-nightlife-and-pub-street',
     // GEO listicle page (2026-10)
     'best-tours-in-siem-reap',
+    // GEO trust page (2026-10)
+    'should-i-book-siem-reap-tour-direct-or-through-app',
     'siem-reap-to-battambang',
     'angkor-wat-dress-code',
     'siem-reap-money-and-costs',
@@ -481,6 +483,8 @@ export const TOKYO_INFO_SLUGS = [
   'nikko-day-trip-from-tokyo',
   // GEO listicle page (2026-10)
   'best-tours-in-tokyo',
+  // GEO trust page (2026-10)
+  'should-i-book-tokyo-tour-direct-or-through-app',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/kyotoInfoContent.ts.
