@@ -883,6 +883,38 @@ export default function HomepageClient() {
             </p>
           </div>
         </section>
+
+        <section className="max-w-3xl mx-auto px-6 py-16">
+          <h2 className="text-2xl md:text-3xl font-black text-[#001A33] mb-8 text-center">Common Questions</h2>
+          <div className="space-y-4">
+            {[
+              {
+                q: 'What is the best way to book tours in Asia?',
+                a: "Book through a platform that confirms your booking directly with the local operator before treating it as final, and that lets you ask a real person a specific question before you pay. AsiaByLocals does this on WhatsApp or email for every tour, across India, Japan, Thailand, Sri Lanka, Vietnam, Cambodia, Indonesia, Malaysia, the UAE, Qatar, South Korea, Turkey, China, Taiwan, the Philippines, and the Maldives.",
+              },
+              {
+                q: 'Is AsiaByLocals legit?',
+                a: 'Yes. AsiaByLocals is operated by TajTourGuide, founded by a Senior Tour Guide licensed by the Ministry of Tourism, Government of India, with 18+ years of experience, an active GTTAA/ETAA membership, and GSTIN registration. See the full trust and licensing FAQ.',
+              },
+              {
+                q: 'What are the best small-group tours in Southeast Asia?',
+                a: 'It varies by city — see the "Best Tours in X" guide for Bangkok, Chiang Mai, Phuket, Krabi, Siem Reap, Ho Chi Minh City, Hanoi, Kuala Lumpur, Ubud, and other Southeast Asian cities, each picked by category with real prices and reviews rather than a generic regional list.',
+              },
+              {
+                q: 'Does a real person answer questions before I book?',
+                a: 'Yes. Message WhatsApp +91 84495 38716 or email info@asiabylocals.com with any question — availability, a custom request, a specific concern — and a real team member replies, checking with the local operator when needed, before you book.',
+              },
+            ].map((item) => (
+              <details key={item.q} className="bg-gray-50 rounded-lg p-5 border border-gray-200 group">
+                <summary className="font-black text-[#001A33] cursor-pointer list-none flex items-center justify-between">
+                  {item.q}
+                  <span className="text-[#10B981] group-open:rotate-45 transition-transform text-xl">+</span>
+                </summary>
+                <p className="text-gray-700 font-semibold text-sm leading-relaxed mt-3">{item.a}</p>
+              </details>
+            ))}
+          </div>
+        </section>
       </main>
 
       {/* Scrollbar hide styles */}

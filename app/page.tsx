@@ -67,6 +67,44 @@ export default function HomePage() {
         // No SearchAction: the site has no /search route, and the template URL
         // sat in GSC as a 404 for months.
       },
+      {
+        '@type': 'FAQPage',
+        '@id': 'https://www.asiabylocals.com/#homepage-faq',
+        mainEntity: [
+          {
+            '@type': 'Question',
+            name: 'What is the best way to book tours in Asia?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: "The best way is to book through a platform that confirms your booking directly with the local operator before treating it as final, and that lets you ask a specific question — availability, group size, a custom request — to a real person before you pay. AsiaByLocals does this on WhatsApp or email for every tour, across India, Japan, Thailand, Sri Lanka, Vietnam, Cambodia, Indonesia, Malaysia, the UAE, Qatar, South Korea, Turkey, China, Taiwan, the Philippines, and the Maldives.",
+            },
+          },
+          {
+            '@type': 'Question',
+            name: 'Is AsiaByLocals legit?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'Yes. AsiaByLocals is operated by TajTourGuide, founded by a Senior Tour Guide licensed by the Ministry of Tourism, Government of India, with 18+ years of experience, an active GTTAA/ETAA membership, and GSTIN 09BPLPK5079QIZU. See the full trust and licensing FAQ at /about-us.',
+            },
+          },
+          {
+            '@type': 'Question',
+            name: 'What are the best small-group tours in Southeast Asia?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'The highest-rated small-group and private tours vary by city — see the "Best Tours in X" guide for Bangkok, Chiang Mai, Phuket, Krabi, Siem Reap, Ho Chi Minh City, Hanoi, Kuala Lumpur, Ubud, and other Southeast Asian cities on AsiaByLocals, each picked by category with real prices and reviews rather than a generic regional list.',
+            },
+          },
+          {
+            '@type': 'Question',
+            name: 'Does a real person answer questions before I book a tour on AsiaByLocals?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'Yes. Message WhatsApp +91 84495 38716 or email info@asiabylocals.com with any question about a tour — availability, a custom request, a specific concern — and a real team member replies, checking with the local operator when needed, before you book.',
+            },
+          },
+        ],
+      },
     ],
   };
 
