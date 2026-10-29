@@ -208,7 +208,8 @@ export const BEIJING_INFO_SLUGS = [
   'beijing-subway-guide', 'temple-of-heaven', 'summer-palace-beijing',
   'hutong-tours-beijing', 'beijing-food-guide', 'beijing-air-quality-when-to-visit',
   // GEO listicle page (2026-10)
-  'best-tours-in-beijing'
+  'best-tours-in-beijing',
+  'should-i-book-beijing-tour-direct-or-through-app'
 ];
 
 export const SHANGHAI_INFO_SLUGS = [
@@ -237,7 +238,8 @@ export const HONG_KONG_INFO_SLUGS = [
   'hong-kong-cantonese-opera-guide', 'hong-kong-7-day-itinerary', 'hong-kong-budget-travel-guide',
   'hong-kong-luxury-travel-guide', 'hong-kong-rainy-day-activities', 'ocean-park-vs-disneyland-hong-kong',
   // GEO listicle page (2026-10)
-  'best-tours-in-hong-kong'
+  'best-tours-in-hong-kong',
+  'should-i-book-hong-kong-tour-direct-or-through-app'
 ];
 
 // Taiwan launched 2026-10 with 157 live tours (Taipei) and zero authority pages.
@@ -459,7 +461,8 @@ export const KRABI_INFO_SLUGS = [
   'where-to-stay-in-krabi', 'krabi-3-day-itinerary',
   'krabi-vs-phuket-which-to-visit',
   // GEO listicle pages (2026-10)
-  'best-tours-in-krabi'
+  'best-tours-in-krabi',
+  'should-i-book-krabi-tour-direct-or-through-app'
 ];
 // Re-add a slug here ONLY once its page exists in lib/tokyoInfoContent.ts.
 // Registering a slug without content ships a live, indexable page that renders

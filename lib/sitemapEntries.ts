@@ -113,7 +113,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'beijing-1-day-itinerary', 'beijing-3-day-itinerary', 'china-visa-guide-for-tourists',
     'beijing-subway-guide', 'temple-of-heaven', 'summer-palace-beijing',
     'hutong-tours-beijing', 'beijing-food-guide', 'beijing-air-quality-when-to-visit',
-    'best-tours-in-beijing',
+    'best-tours-in-beijing', 'should-i-book-beijing-tour-direct-or-through-app',
   ].map(slug => ({
     url: `${BASE_URL}/china/beijing/${slug}`,
     lastModified: new Date(),
@@ -148,7 +148,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'hong-kong-afternoon-tea-guide', 'wong-tai-sin-temple-guide', 'hong-kong-nightlife-lan-kwai-fong',
     'hong-kong-cantonese-opera-guide', 'hong-kong-7-day-itinerary', 'hong-kong-budget-travel-guide',
     'hong-kong-luxury-travel-guide', 'hong-kong-rainy-day-activities', 'ocean-park-vs-disneyland-hong-kong',
-    'best-tours-in-hong-kong',
+    'best-tours-in-hong-kong', 'should-i-book-hong-kong-tour-direct-or-through-app',
   ].map(slug => ({
     url: `${BASE_URL}/hong-kong/hongkong/${slug}`,
     lastModified: new Date(),
@@ -435,7 +435,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'krabi-4-islands-tour-guide', 'tiger-cave-temple-krabi',
     'where-to-stay-in-krabi', 'krabi-3-day-itinerary',
     'krabi-vs-phuket-which-to-visit',
-    'best-tours-in-krabi',
+    'best-tours-in-krabi', 'should-i-book-krabi-tour-direct-or-through-app',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/krabi/${slug}`,
     lastModified: new Date(),
