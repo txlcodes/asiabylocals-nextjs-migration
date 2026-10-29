@@ -64,6 +64,7 @@ const AGRA_SIDEBAR = [
 
 const DELHI_SIDEBAR = [
     { name: 'Ask Before You Book', slug: 'should-i-book-delhi-tour-direct-or-through-app' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-delhi' },
     { name: 'Avoid Touts & Scams', slug: 'delhi-tourist-scams-how-to-avoid-touts' },
     { name: 'Delhi Travel Guide', slug: 'delhi-travel-guide-2026' },
     { name: 'Red Fort', slug: 'red-fort' },
@@ -87,6 +88,7 @@ const DELHI_SIDEBAR = [
 
 const JAIPUR_SIDEBAR = [
     { name: 'Ask Before You Book', slug: 'should-i-book-jaipur-tour-direct-or-through-app' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-jaipur' },
     { name: 'Avoid Touts & Scams', slug: 'jaipur-tourist-scams-how-to-avoid-touts' },
     { name: 'Things to Do', slug: 'things-to-do-in-jaipur' },
     { name: 'Travel Guide 2026', slug: 'jaipur-travel-guide-2026' },

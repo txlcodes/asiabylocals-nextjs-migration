@@ -836,6 +836,53 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         ]
       };
 
+    // GEO single-topic page (2026-10)
+    case "how-much-should-a-private-tour-guide-cost-in-delhi":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Delhi?",
+        seoTitle: "Delhi Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private guide at the Red Fort, Qutub Minar and Old Delhi in 2026, so you know what's fair before you book.",
+        heroImage: T_REDFORT.image,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private half-day Delhi tour (Red Fort and Jama Masjid, or Qutub Minar and Humayun's Tomb) typically costs $11-18 per person** for a small group, dropping toward $8-13 per person for a group of 4+. A full day covering Old and New Delhi's major sights runs $24-30 per person for 1-2 travellers.",
+            tourCard: T_REDFORT,
+          },
+          {
+            title: "What Changes the Price",
+            content: "**Group size** moves the price the most — the guide's fee is largely fixed per tour, so a group of 4 pays well under half what a solo traveller pays per person. **Vehicle type** matters in Delhi's traffic specifically — an air-conditioned car for a full day across the spread-out city costs more than a shorter walking-focused Old Delhi tour. **Specialty add-ons** — a street food tasting crawl, a spiritual temple circuit — price slightly above a standard sightseeing tour because they involve more planning and local knowledge.",
+            tourCard: T_FULLDAY,
+          },
+          {
+            title: "Red Flags on Price",
+            content: "Old Delhi specifically sees a known pattern: a very cheap \"guide\" or rickshaw driver who claims a monument is closed and redirects you to a different stop (often a shop). A genuinely licensed guide quoting a fair price has no reason to do this. If a quote seems unusually low, ask directly whether the itinerary includes any shop stops before you commit.",
+            tourCard: T_OLDDELHI,
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask what's included — the guide fee, vehicle type, and whether any shop stops are built in — before comparing quotes. On AsiaByLocals, every Delhi tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, confirmed by a real person. See our [full trust and licensing FAQ](/about-us) for how we're set up, or browse [all Delhi tours](/india/delhi) to compare real, current prices directly.",
+            tourCard: T_QUTUBHUMAYUN,
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Delhi?", a: "A private half-day tour typically costs $11-18 per person, dropping to $8-13 per person for groups of 4+. A full day runs $24-30 per person for 1-2 travellers." },
+          { q: "Why does a full-day Delhi tour cost more per person than Agra or Jaipur?", a: "Delhi's sights are more spread out across the city, so a full day typically needs more driving time and an air-conditioned vehicle, which adds to the cost." },
+          { q: "What is the Old Delhi 'monument closed' scam?", a: "A rickshaw driver or unlicensed guide claims a sight is closed and redirects you elsewhere, often a commission shop. A genuinely licensed guide has no reason to do this — ask directly about any shop stops before booking." },
+          { q: "Are entrance fees included in a Delhi guide's price?", a: "Usually not — entrance fees at the Red Fort, Qutub Minar and Humayun's Tomb are typically separate from the guide fee." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "A private half-day tour typically costs $11-18 per person, dropping to $8-13 per person for groups of 4+." } },
+            { "@type": "Question", "name": "Why does a full-day Delhi tour cost more per person than Agra or Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "Delhi's sights are more spread out, needing more driving time and an air-conditioned vehicle." } },
+            { "@type": "Question", "name": "What is the Old Delhi 'monument closed' scam?", "acceptedAnswer": { "@type": "Answer", "text": "An unlicensed guide claims a sight is closed and redirects you to a commission shop instead." } },
+            { "@type": "Question", "name": "Are entrance fees included in a Delhi guide's price?", "acceptedAnswer": { "@type": "Answer", "text": "Usually not — entrance fees are typically separate from the guide fee." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

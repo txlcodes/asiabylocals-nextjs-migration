@@ -77,6 +77,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-taj-mahal-guide-tour-from-delhi',
     'delhi-tourist-scams-how-to-avoid-touts',
     'should-i-book-delhi-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-delhi',
   ].map(slug => ({
     url: `${BASE_URL}/india/delhi/${slug}`,
     lastModified: new Date(),
@@ -100,6 +101,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-jaipur-elephant-experience', 'best-hotel-near-amber-fort',
     'jaipur-tourist-scams-how-to-avoid-touts',
     'should-i-book-jaipur-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-jaipur',
   ].map(slug => ({
     url: `${BASE_URL}/india/jaipur/${slug}`,
     lastModified: new Date(),

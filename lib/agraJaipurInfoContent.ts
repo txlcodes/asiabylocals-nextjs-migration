@@ -1187,6 +1187,53 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-10)
+    case "how-much-should-a-private-tour-guide-cost-in-jaipur":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Jaipur?",
+        seoTitle: "Jaipur Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private guide at Amber Fort, City Palace and the Pink City's bazaars in 2026, so you know what's fair before you book.",
+        heroImage: J_AMBER.image,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private half-day Jaipur tour (Amber Fort, or the City Palace and bazaars) typically costs $13-32 per person** for a small group, depending on the specific sights and whether transport (a tuk-tuk or car) is included. A full day covering the major palaces and bazaars runs $30-35 per person for 1-2 travellers, dropping sharply for a group of 4+ sharing the same guide and vehicle.",
+            tourCard: J_AMBER,
+          },
+          {
+            title: "What Changes the Price",
+            content: "**Transport type** matters in Jaipur specifically — a tuk-tuk tour is cheaper than an air-conditioned car, and some travellers specifically want the tuk-tuk experience rather than treating it as a downgrade. **Group size** works the same as everywhere: the guide's fee is largely fixed, so a group of 4 pays far less per person than a solo traveller. **Entrance fees** at Amber Fort, City Palace and Hawa Mahal are separate from the guide fee and add up if you're visiting several in one day.",
+            tourCard: J_PALACES,
+          },
+          {
+            title: "Red Flags on Price",
+            content: "Jaipur's bazaars are also where commission-shop detours are most common — a guide or driver who's unusually cheap, or who pushes a \"quick stop\" at a specific shop, is often making up the difference through a commission arrangement rather than overcharging you directly. Ask upfront whether the itinerary includes any shop stops, and if the honest answer is yes, decide whether that's something you want before booking rather than finding out mid-tour.",
+            tourCard: J_SHOPPING,
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask what's included — the guide's fee, transport type, and whether any shop stops are built in — before comparing one quote to another. On AsiaByLocals, every Jaipur tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, confirmed by a real person. See our [full trust and licensing FAQ](/about-us) for how we're set up, or browse [all Jaipur tours](/india/jaipur) to compare real, current prices directly.",
+            tourCard: J_CITY,
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Jaipur?", a: "A private half-day tour (Amber Fort, or City Palace and bazaars) typically costs $13-32 per person, and a full day runs $30-35 per person for 1-2 travellers, dropping for larger groups." },
+          { q: "Is a tuk-tuk tour cheaper than a car tour in Jaipur?", a: "Yes, generally — a tuk-tuk tour costs less than an air-conditioned car tour, and some travellers choose it specifically for the open-air experience rather than as a budget downgrade." },
+          { q: "Are entrance fees included in a Jaipur guide's price?", a: "Usually not — Amber Fort, City Palace and Hawa Mahal entrance fees are typically separate from the guide fee." },
+          { q: "How do I avoid commission-shop stops on a Jaipur tour?", a: "Ask upfront whether the itinerary includes any shop stops. A guide who answers honestly, rather than denying it then adding one anyway, is the one worth booking with." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "A private half-day tour typically costs $13-32 per person, and a full day runs $30-35 per person for 1-2 travellers." } },
+            { "@type": "Question", "name": "Is a tuk-tuk tour cheaper than a car tour in Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, generally — a tuk-tuk tour costs less than an air-conditioned car tour." } },
+            { "@type": "Question", "name": "Are entrance fees included in a Jaipur guide's price?", "acceptedAnswer": { "@type": "Answer", "text": "Usually not — Amber Fort, City Palace and Hawa Mahal entrance fees are typically separate." } },
+            { "@type": "Question", "name": "How do I avoid commission-shop stops on a Jaipur tour?", "acceptedAnswer": { "@type": "Answer", "text": "Ask upfront whether the itinerary includes any shop stops." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }
