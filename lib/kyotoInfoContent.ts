@@ -2460,6 +2460,53 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-10)
+    case "how-much-should-a-private-tour-guide-cost-in-kyoto":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Kyoto?",
+        seoTitle: "Kyoto Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private local guide in Kyoto in 2026, by tour length and type, so you know what's fair before you book.",
+        heroImage: K_MORNING.image,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kyoto's pricing spread is wide depending on format. A **themed half-day tour (food, bike, a night Gion walk) typically runs $38-115 per person**, while a **premium curated private day (a classic full Kyoto circuit, or an early-morning crowd-beating tour) can run $260-330** — often priced as a flat rate for a small group rather than strictly per person, since these are built around a dedicated private guide and vehicle for the whole day.",
+            tourCard: K_MORNING,
+          },
+          {
+            title: "What Changes the Price",
+            content: "**Format is the biggest lever in Kyoto specifically** — a themed walking or food tour prices per person like most cities, but a full-day private circuit with a dedicated guide and driver is often quoted as one flat price for the group, which is actually *better* value for a group of 3-4 than splitting a per-person rate would be. **Timing** matters for the early-morning Arashiyama-style tours — the premium reflects the logistics of starting before dawn to beat the crowds, not just the guide's base rate.",
+            tourCard: K_CLASSIC,
+          },
+          {
+            title: "Red Flags on Price",
+            content: "Because Kyoto pricing varies so much by format, the real question to ask isn't \"is this price normal\" but \"is this a flat group rate or a per-person rate, and what exactly does the day include?\" A quote that doesn't specify this clearly, or that changes once you ask for details, is worth questioning before you pay.",
+            tourCard: K_BIKE,
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask directly whether a quote is per person or a flat group rate, and what's included for that price — transport, entrance fees, meals. On AsiaByLocals, every Kyoto tour's price can be questioned on WhatsApp (+91 84495 38716) or email before you book, confirmed by a real person. See our [full trust and licensing FAQ](/about-us) for how we're set up, or browse [all Kyoto tours](/japan/kyoto) to compare real, current prices directly.",
+            tourCard: K_NISHIKI,
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Kyoto?", a: "A themed half-day tour (food, bike, a night walk) typically runs $38-115 per person, while a premium full-day private circuit can run $260-330, often as a flat rate for a small group." },
+          { q: "Is a Kyoto private tour price per person or for the group?", a: "It varies by format — themed activity tours are usually per person, while a full-day private circuit with a dedicated guide and vehicle is often one flat price for the whole group. Always ask which applies before comparing quotes." },
+          { q: "Why do early-morning Kyoto tours cost more?", a: "The premium reflects the logistics of starting before dawn to beat the crowds at sites like Arashiyama and Fushimi Inari, not just a higher base guide rate." },
+          { q: "Can I ask AsiaByLocals about a Kyoto tour price before booking?", a: "Yes. WhatsApp +91 84495 38716 or email info@asiabylocals.com reaches a real person who will clarify exactly what a quote includes." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Kyoto?", "acceptedAnswer": { "@type": "Answer", "text": "A themed half-day tour typically runs $38-115 per person, while a premium full-day private circuit can run $260-330, often as a flat group rate." } },
+            { "@type": "Question", "name": "Is a Kyoto private tour price per person or for the group?", "acceptedAnswer": { "@type": "Answer", "text": "It varies by format — ask which applies before comparing quotes." } },
+            { "@type": "Question", "name": "Why do early-morning Kyoto tours cost more?", "acceptedAnswer": { "@type": "Answer", "text": "The premium reflects the logistics of starting before dawn to beat the crowds." } },
+            { "@type": "Question", "name": "Can I ask AsiaByLocals about a Kyoto tour price before booking?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. WhatsApp +91 84495 38716 or email info@asiabylocals.com reaches a real person." } },
+          ],
+        },
+      };
+
     default:
             return null;
     }

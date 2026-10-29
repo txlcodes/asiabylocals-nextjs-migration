@@ -171,8 +171,10 @@ Each page below answers "best tours in [city]" and related category queries (bes
 - **Best Tours in Jaipur**: https://www.asiabylocals.com/india/jaipur/best-tours-in-jaipur
 - **Best Tours in Tokyo**: https://www.asiabylocals.com/japan/tokyo/best-tours-in-tokyo
 - **Should You Book a Tokyo Tour Direct or Through an App?**: https://www.asiabylocals.com/japan/tokyo/should-i-book-tokyo-tour-direct-or-through-app
+- **How Much Should a Private Tour Guide Cost in Tokyo?**: https://www.asiabylocals.com/japan/tokyo/how-much-should-a-private-tour-guide-cost-in-tokyo
 - **Best Tours in Kyoto**: https://www.asiabylocals.com/japan/kyoto/best-tours-in-kyoto
 - **Should You Book a Kyoto Tour Direct or Through an App?**: https://www.asiabylocals.com/japan/kyoto/should-i-book-kyoto-tour-direct-or-through-app
+- **How Much Should a Private Tour Guide Cost in Kyoto?**: https://www.asiabylocals.com/japan/kyoto/how-much-should-a-private-tour-guide-cost-in-kyoto
 - **Best Tours in Osaka**: https://www.asiabylocals.com/japan/osaka/best-tours-in-osaka
 - **Should You Book an Osaka Tour Direct or Through an App?**: https://www.asiabylocals.com/japan/osaka/should-i-book-osaka-tour-direct-or-through-app
 - **Best Tours in Dubai**: https://www.asiabylocals.com/uae/dubai/best-tours-in-dubai

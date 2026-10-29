@@ -468,7 +468,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'harajuku-guide',
     'kamakura-day-trip-from-tokyo',
     'nikko-day-trip-from-tokyo',
-    'best-tours-in-tokyo', 'should-i-book-tokyo-tour-direct-or-through-app',
+    'best-tours-in-tokyo', 'should-i-book-tokyo-tour-direct-or-through-app', 'how-much-should-a-private-tour-guide-cost-in-tokyo',
 ].map(slug => ({
     url: `${BASE_URL}/japan/tokyo/${slug}`,
     lastModified: new Date(),
@@ -494,7 +494,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'kyoto-zen-meditation-guide',
     'nijo-castle-guide',
     'kyoto-sake-guide',
-    'best-tours-in-kyoto', 'should-i-book-kyoto-tour-direct-or-through-app',
+    'best-tours-in-kyoto', 'should-i-book-kyoto-tour-direct-or-through-app', 'how-much-should-a-private-tour-guide-cost-in-kyoto',
 ].map(slug => ({
     url: `${BASE_URL}/japan/kyoto/${slug}`,
     lastModified: new Date(),

@@ -2486,6 +2486,52 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-10)
+    case "how-much-should-a-private-tour-guide-cost-in-tokyo":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Tokyo?",
+        seoTitle: "Tokyo Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private local guide in Tokyo in 2026, by tour length and type, so you know what's fair before you book.",
+        heroImage: IMG.walking,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private half-day guide in Tokyo (around 4 hours) typically runs $50 per person** for a small group, and a **full-day private walking day (6 hours, no fixed route) runs around $85 per person** for 1-2 travellers — dropping sharply for a group of 4+ sharing the same guide. Specialty activities like an e-bike tour price slightly differently, often $60-80 per person flat regardless of a small group size, since the cost is mostly the bike rental plus the guide's time.",
+            tourCard: CARD.halfDay,
+          },
+          {
+            title: "What Changes the Price",
+            content: "**Group size** moves the price the most — a guide's fee is largely fixed per tour, so a group of 4 pays well under half what a solo traveller pays per person. **Transport mode** matters in spread-out Tokyo specifically: a walking tour costs less than an e-bike tour, which covers roughly four times the ground in the same time. **Specialty experiences** — a go-kart ride through Shibuya Crossing, a food-focused neighbourhood walk — price above a standard sightseeing tour because of equipment, bookings, or specialist local knowledge.",
+            tourCard: CARD.ebike,
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private Tokyo guide quoting far below these ranges is worth a direct question: is this actually a private, one-on-one booking, or will you be merged into a larger group on the day? Tokyo doesn't have the same commission-shop pattern as some other Asian cities, but a guide who's vague about group size or itinerary specifics before you pay is still the clearest general red flag anywhere.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask exactly what's included — the guide fee, any transport (e-bike, car), and whether the route is genuinely private or semi-fixed — before comparing quotes. On AsiaByLocals, every Tokyo tour's price can be questioned on WhatsApp (+91 84495 38716) or email before you book, confirmed by a real person. See our [full trust and licensing FAQ](/about-us) for how we're set up, or browse [all Tokyo tours](/japan/tokyo) to compare real, current prices directly.",
+            tourCard: CARD.walking,
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Tokyo?", a: "A private half-day guide typically costs around $50 per person, and a full private walking day around $85 per person for 1-2 travellers, dropping for larger groups." },
+          { q: "Is an e-bike tour more expensive than a walking tour in Tokyo?", a: "Yes, generally — an e-bike tour costs more than a walking tour, but covers roughly four times the ground in the same time, which matters in a spread-out city like Tokyo." },
+          { q: "Why would a private Tokyo tour quote seem unusually cheap?", a: "It's worth asking directly whether it's a genuinely private, one-on-one booking or whether you'll be merged into a larger group on the day." },
+          { q: "Can I ask AsiaByLocals about a Tokyo tour price before booking?", a: "Yes. WhatsApp +91 84495 38716 or email info@asiabylocals.com reaches a real person who will give you a straight answer on what's included." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Tokyo?", "acceptedAnswer": { "@type": "Answer", "text": "A private half-day guide typically costs around $50 per person, and a full private walking day around $85 per person for 1-2 travellers." } },
+            { "@type": "Question", "name": "Is an e-bike tour more expensive than a walking tour in Tokyo?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, generally, but it covers roughly four times the ground in the same time." } },
+            { "@type": "Question", "name": "Why would a private Tokyo tour quote seem unusually cheap?", "acceptedAnswer": { "@type": "Answer", "text": "Ask directly whether it's genuinely private or whether you'll be merged into a larger group." } },
+            { "@type": "Question", "name": "Can I ask AsiaByLocals about a Tokyo tour price before booking?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. WhatsApp +91 84495 38716 or email info@asiabylocals.com reaches a real person." } },
+          ],
+        },
+      };
+
     default:
             return null;
     }

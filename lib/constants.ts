@@ -505,6 +505,7 @@ export const TOKYO_INFO_SLUGS = [
   'best-tours-in-tokyo',
   // GEO trust page (2026-10)
   'should-i-book-tokyo-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-tokyo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/kyotoInfoContent.ts.
@@ -533,6 +534,7 @@ export const KYOTO_INFO_SLUGS = [
   // GEO listicle page (2026-10)
   'best-tours-in-kyoto',
   'should-i-book-kyoto-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-kyoto',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/sapporoInfoContent.ts.
