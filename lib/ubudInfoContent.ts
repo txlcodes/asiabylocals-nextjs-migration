@@ -1637,6 +1637,65 @@ export function getUbudInfoContent(slug: string): CityInfoData | null {
         ]
       };
 
+    // GEO trust page (2026-10)
+    case "should-i-book-ubud-tour-direct-or-through-app":
+      return {
+        title: "Should You Book a Bali/Ubud Tour Direct or Through an App?",
+        seoTitle: "Direct vs. App: How to Actually Book an Ubud Tour",
+        description: "Direct-with-the-driver vs. booking through an app matters less than whether a real person answers your specific question before you pay. Here's how to tell the difference in Ubud and Bali.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mount-batur-sunrise-hike-jeep-tour-all-inclusive/img0/1600.webp",
+        sections: [
+          {
+            title: "The Real Question Isn't \"Direct or App\"",
+            content: "Bali is full of advice to \"book direct with a local driver\" to save money, and every big platform will tell you their vetting and support make booking through them safer. Both pitches skip the part that actually matters: **can you get a specific question answered by a real person before you pay?**\n\nA 2am Mount Batur pickup or a Tirta Empul purification visit involves real logistics — exact pickup time, whether sarongs are provided, what happens if it rains. If nobody confirms those details until after you've paid, it doesn't matter whether you found the booking through a driver's WhatsApp number or a polished app — you're booking blind either way.",
+            tourCard: {
+              slug: "sunrise-mount-batur-guided-hike-with-breakfast",
+              title: "Sunrise Mount Batur Guided Hike with Breakfast",
+              description: "Ask about the 2am pickup time or fitness level on WhatsApp before you book.",
+              price: "From USD 35.50",
+              duration: "5 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/sunrise-mount-batur-guided-hike-with-breakfast/img0/1600.webp",
+            },
+          },
+          {
+            title: "What \"Direct\" Actually Protects You From",
+            content: "Booking direct with a verified local operator removes one real risk: a long reseller chain where your money and your question both pass through two or three middlemen before reaching the driver or guide who actually runs the trip. That's genuinely worth avoiding.\n\nIt does **not** automatically mean cheaper, and it does not automatically mean safer. A number scrawled on a villa noticeboard is also \"direct,\" and has none of the accountability of a platform that vets operators and keeps a payment record you can point to if something goes wrong.",
+          },
+          {
+            title: "What to Actually Check Before You Book",
+            content: "Whichever route you take — a well-known booking platform, a smaller local site, or a driver's number handed to you by your villa — run the same three checks:\n\n1. **Message a specific question before paying.** Ask something only someone who actually runs the Batur hike or the Tirta Empul visit would know — like whether sarongs are provided at the temple, or what the backup plan is if it rains on trek day. A vague or delayed answer is the clearest red flag there is.\n2. **Ask what happens if the operator can't take your date.** If a platform or driver can't give you a straight answer on refunds before you've paid, that's not one to trust with your money.\n3. **Check who actually answers.** A reply from a real person who clearly knows the route (not a templated bot message) is the strongest signal that someone will also answer you *after* you've paid, not just before.",
+          },
+          {
+            title: "How This Works With AsiaByLocals",
+            content: "On AsiaByLocals, every Ubud and Bali tour — the [best tours in Ubud](/indonesia/ubud/best-tours-in-ubud), the Mount Batur sunrise hike, Tirta Empul, the cooking class — can be questioned on WhatsApp (+91 84495 38716) or email before you book. We confirm with the local operator directly and refund in full if they can't take your date. We're not claiming to be the cheapest option in Bali; several of our tours are also run by the same operators through other platforms. What we commit to is answering honestly, before you pay, by a real person — see our [full trust and licensing FAQ](/about-us) for how we're set up.",
+            tourCard: {
+              slug: "half-day-tirta-empul-purification-and-gunung-kawi-temple-in-ubud",
+              title: "Half-Day Tirta Empul Purification and Gunung Kawi Temple in Ubud",
+              description: "Ask whether a sarong is provided, or about a mobility concern, before booking.",
+              price: "From USD 29.00",
+              duration: "4 hours",
+              image: "https://images.asiabylocals.com/asiabylocals/tours/half-day-tirta-empul-purification-and-gunung-kawi-temple-in-ubud/img0/1600.webp",
+            },
+          },
+        ],
+        faqs: [
+          { q: "Is it better to book an Ubud tour direct or through an app?", a: "Neither label guarantees anything by itself. What matters is whether a real person answers a specific question before you pay. Check that first, regardless of whether the booking page is a big app or a local driver's WhatsApp." },
+          { q: "Is it cheaper to book Bali tours direct with a driver?", a: "Sometimes, but not always — many local operators and drivers sell the same tour through multiple platforms at their own set price. Ask about the price and what's included rather than assuming direct is cheaper." },
+          { q: "How do I know if a Bali tour operator is legit before booking?", a: "Message them a specific question — pickup timing, what happens if it rains, a mobility concern — before you pay. A fast, specific answer from someone who clearly knows the route is the best signal." },
+          { q: "Can I ask AsiaByLocals a question before booking an Ubud tour?", a: "Yes. WhatsApp +91 84495 38716 or email info@asiabylocals.com reaches a real person, not a bot, who will confirm with the local operator before you book." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "Is it better to book an Ubud tour direct or through an app?", "acceptedAnswer": { "@type": "Answer", "text": "Neither label guarantees anything by itself. What matters is whether a real person answers a specific question before you pay." } },
+            { "@type": "Question", "name": "Is it cheaper to book Bali tours direct with a driver?", "acceptedAnswer": { "@type": "Answer", "text": "Sometimes, but not always — many local operators sell the same tour through multiple platforms at their own set price." } },
+            { "@type": "Question", "name": "How do I know if a Bali tour operator is legit before booking?", "acceptedAnswer": { "@type": "Answer", "text": "Message them a specific question before you pay. A fast, specific answer from someone who clearly knows the route is the best signal." } },
+            { "@type": "Question", "name": "Can I ask AsiaByLocals a question before booking an Ubud tour?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. WhatsApp +91 84495 38716 or email info@asiabylocals.com reaches a real person who will confirm with the local operator before you book." } }
+          ]
+        }
+      };
+
     default:
       return null;
   }

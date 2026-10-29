@@ -1160,6 +1160,8 @@ export const UBUD_INFO_SLUGS = [
   'ubud-with-kids',
   // GEO listicle page (2026-10)
   'best-tours-in-ubud',
+  // GEO trust page (2026-10)
+  'should-i-book-ubud-tour-direct-or-through-app',
 ];
 
 export const CANGGU_INFO_SLUGS = [

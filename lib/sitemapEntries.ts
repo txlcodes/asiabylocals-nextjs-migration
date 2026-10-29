@@ -921,6 +921,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'how-many-days-in-ubud',
     'ubud-with-kids',
     'best-tours-in-ubud',
+    'should-i-book-ubud-tour-direct-or-through-app',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/ubud/${slug}`,
     lastModified: new Date(),
