@@ -1203,6 +1203,7 @@ export const CANGGU_INFO_SLUGS = [
   'north-bali-day-trip-from-canggu',
   'canggu-nusa-penida-day-trip',
   'best-tours-in-canggu',
+  'should-i-book-canggu-tour-direct-or-through-app',
 ];
 
 export const ULUWATU_INFO_SLUGS = [
@@ -1217,6 +1218,7 @@ export const ULUWATU_INFO_SLUGS = [
   'melasti-beach-guide',
   'uluwatu-sunset-spots-guide',
   'best-tours-in-uluwatu',
+  'should-i-book-uluwatu-tour-direct-or-through-app',
 ];
 
 export const NUSA_PENIDA_INFO_SLUGS = [

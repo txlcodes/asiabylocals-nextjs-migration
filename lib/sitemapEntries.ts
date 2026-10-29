@@ -940,7 +940,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
       'canggu-to-ubud-day-trip',
     'canggu-rice-field-walks-guide',
     'north-bali-day-trip-from-canggu',
-    'canggu-nusa-penida-day-trip', 'best-tours-in-canggu',
+    'canggu-nusa-penida-day-trip', 'best-tours-in-canggu', 'should-i-book-canggu-tour-direct-or-through-app',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/canggu/${slug}`,
     lastModified: new Date(),
@@ -958,7 +958,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
       'gwk-cultural-park-guide',
     'jimbaran-seafood-dinner-guide',
     'melasti-beach-guide',
-    'uluwatu-sunset-spots-guide', 'best-tours-in-uluwatu',
+    'uluwatu-sunset-spots-guide', 'best-tours-in-uluwatu', 'should-i-book-uluwatu-tour-direct-or-through-app',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/uluwatu/${slug}`,
     lastModified: new Date(),
