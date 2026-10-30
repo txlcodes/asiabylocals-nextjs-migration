@@ -49877,6 +49877,23 @@ export const FR_TOURS: Record<string, TourT> = {
    "transport, prise en charge et retour"
   ]
  },
+ "mount-rinjani-2d-1n-trekking-to-sembalun-views-in-ubud": {
+  "title": "Mont Rinjani: Trek de 2 Jours/1 Nuit vers les Vues de Sembalun (Ubud)",
+  "metaTitle": "Mont Rinjani: Trek de 2 Jours/1 Nuit vers les Vues de Sembalun",
+  "shortDescription": "Visite de 2 jours a Ubud, avec prise en charge depuis les zones du village de Senaru, transport jusqu au point de depart et transport depuis la ligne d'arrivee. Reservation directe aupres de Din Trekking Rinjani}, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 2 jours a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nMarcher autour d'Ubud, ce sont les gorges de rivieres et les terrasses. La crete de Campuhan est la plus facile, deux kilometres sur un chemin pave. Le canyon cache de Beji Guwang, a Sukawati, est une marche fluviale a travers une gorge de gres etroite avec un guide, parfois jusqu'a la taille dans l'eau, fermee apres de fortes pluies. Les treks plus longs partent dans les collines au-dessus de Sidemen ou de Munduk, ou en haut du Batur et de l'Agung avant l'aube. Les matinees sont le moment pour tout cela: vers 11h00 l'humidite devient lourde, et les apres-midis de la saison des pluies, de novembre a mars, apportent la pluie a partir de deux heures environ. Emportez un litre d'eau par personne et des chaussures a bonne adherence.\n\nLe prix comprend prise en charge depuis les zones du village de Senaru, transport jusqu au point de depart et transport depuis la ligne d'arrivee. Il ne comprend pas 1 nuit d hebergement avant le debut du trek, chaussures de trek, baton de trek et lampe frontale et torche, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "prise en charge depuis les zones du village de Senaru",
+   "transport jusqu au point de depart",
+   "transport depuis la ligne d'arrivee"
+  ],
+  "notIncluded": [
+   "1 nuit d hebergement avant le debut du trek",
+   "chaussures de trek",
+   "baton de trek",
+   "lampe frontale et torche"
+  ]
+ },
  "twin-lakes-jungle-trek-canoe-and-banyumala-waterfall-in-ubud": {
   "title": "Trek dans la jungle aux lacs jumeaux, canoe et cascade de Banyumala a Ubud",
   "metaTitle": "Trek dans la jungle aux lacs jumeaux, canoe et cascade de",
@@ -56572,6 +56589,23 @@ export const FR_TOURS: Record<string, TourT> = {
    "pourboire pour le guide"
   ]
  },
+ "bike-tour-inside-rice-field-with-meal-and-hotel-transfer-in-ubud": {
+  "title": "Tour a Velo dans les Rizieres avec Repas et Transfert a l Hotel a Ubud",
+  "metaTitle": "Tour a Velo dans les Rizieres avec Repas et Transfert a l Hotel",
+  "shortDescription": "Visite de 6 heures a Ubud, avec View point and Traditional village. Reservation directe aupres de Dewa Bike Tour, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 6 heures au depart de Ubud, construite autour de View point and Traditional village. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes rizieres en terrasses de Tegallalang se trouvent a vingt minutes au nord d'Ubud sur la route de Kintamani, et ce sont de veritables rizieres irriguees par le systeme subak, classe par l'UNESCO en 2012. Avant environ 8h30 le matin, la vallee appartient aux agriculteurs, les rizieres sont encore humides de la nuit, et il fait assez frais pour marcher a travers les terrasses et remonter de l'autre cote. Vers dix heures, les cars venus du sud arrivent et la route au-dessus des terrasses devient une succession de cafes, de balancoires et de plateformes photo. Il y a un petit droit d'entree au point de vue, et des agriculteurs le long des sentiers a travers les champs demandent quelques milliers de roupies pour traverser leur terrain, ce qui est normal. Les balancoires sont des commerces independants avec leurs propres tarifs.\n\nLe prix comprend prise en charge et retour a l'hotel dans la zone d'Ubud, velo et casque et eau minerale. Il ne comprend pas petit dejeuner (Rp 40 000 par personne, especes en roupies), prise en charge et retour a Sanur (Rp 285 000 par voiture, max 5 personnes, especes en roupies sur place), prise en charge et retour a Kuta/Legian (Rp 428 000 par voiture, max 5 personnes, paiement en especes en roupies sur place) et prise en charge et retour a Seminyak (Rp 464 000 par voiture, max 5 personnes, paiement en especes en roupies sur place), a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLa prise en charge est proposee depuis Kuta, Kuta Selatan, Ubud et Denpasar and Karangasem Regency ; le lieu et l'heure exacts sont convenus avec Dewa Bike Tour une fois la reservation confirmee, et l'option choisie determine si le transport est inclus.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "prise en charge et retour a l'hotel dans la zone d'Ubud",
+   "velo et casque",
+   "eau minerale"
+  ],
+  "notIncluded": [
+   "petit dejeuner (Rp 40 000 par personne, especes en roupies)",
+   "prise en charge et retour a Sanur (Rp 285 000 par voiture, max 5 personnes, especes en roupies sur place)",
+   "prise en charge et retour a Kuta/Legian (Rp 428 000 par voiture, max 5 personnes, paiement en especes en roupies sur place)",
+   "prise en charge et retour a Seminyak (Rp 464 000 par voiture, max 5 personnes, paiement en especes en roupies sur place)"
+  ]
+ },
  "bali-full-day-combo-telaga-waja-rafting-and-atv-quad-biking-ubud": {
   "title": "Bali, combine journee complete : rafting a Telaga Waja et quad ATV (Ubud)",
   "metaTitle": "Bali, combine journee complete : rafting a Telaga Waja et quad",
@@ -58548,6 +58582,23 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "transport",
    "le service de prise en charge et de retour a l'hotel est disponible avec un supplement"
+  ]
+ },
+ "cycling-tour-through-rice-fields-and-countryside-in-ubud": {
+  "title": "Tour a Velo a travers les Rizieres et la Campagne a Ubud",
+  "metaTitle": "Tour a Velo a travers les Rizieres et la Campagne a Ubud",
+  "shortDescription": "Visite de 2,5 heures a Ubud, avec Traditional village. Reservation directe aupres de Dewa Bike Tour, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 2,5 heures au depart de Ubud, construite autour de Traditional village. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes rizieres en terrasses de Tegallalang se trouvent a vingt minutes au nord d'Ubud sur la route de Kintamani, et ce sont de veritables rizieres irriguees par le systeme subak, classe par l'UNESCO en 2012. Avant environ 8h30 le matin, la vallee appartient aux agriculteurs, les rizieres sont encore humides de la nuit, et il fait assez frais pour marcher a travers les terrasses et remonter de l'autre cote. Vers dix heures, les cars venus du sud arrivent et la route au-dessus des terrasses devient une succession de cafes, de balancoires et de plateformes photo. Il y a un petit droit d'entree au point de vue, et des agriculteurs le long des sentiers a travers les champs demandent quelques milliers de roupies pour traverser leur terrain, ce qui est normal. Les balancoires sont des commerces independants avec leurs propres tarifs.\n\nLe prix comprend velo et casque, eau minerale et guide (anglais). Il ne comprend pas petit dejeuner (Rp 40 000 par personne, especes en roupies indonesiennes), dejeuner (Rp 70 000 par personne, especes en roupies indonesiennes), prise en charge et retour a Ubud (Rp 400 000 par voiture, max 5 personnes, especes en roupies indonesiennes) et prise en charge et retour a Sanur (Rp 550 000 par voiture, max 5 personnes, especes en roupies indonesiennes), a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nUbud Private Cycling Tours - Dewa Bike Tour.. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "velo et casque",
+   "eau minerale",
+   "guide (anglais)"
+  ],
+  "notIncluded": [
+   "petit dejeuner (Rp 40 000 par personne, especes en roupies indonesiennes)",
+   "dejeuner (Rp 70 000 par personne, especes en roupies indonesiennes)",
+   "prise en charge et retour a Ubud (Rp 400 000 par voiture, max 5 personnes, especes en roupies indonesiennes)",
+   "prise en charge et retour a Sanur (Rp 550 000 par voiture, max 5 personnes, especes en roupies indonesiennes)"
   ]
  },
  "day-sunset-mount-batur-4wd-jeep-and-natural-hot-spring": {

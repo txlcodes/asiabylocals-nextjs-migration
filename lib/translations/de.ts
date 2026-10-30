@@ -49877,6 +49877,23 @@ export const DE_TOURS: Record<string, TourT> = {
    "Transport, Abholung und Ruecktransfer"
   ]
  },
+ "mount-rinjani-2d-1n-trekking-to-sembalun-views-in-ubud": {
+  "title": "Mount Rinjani: 2-Tages-1-Nacht-Trekking zu den Sembalun-Aussichten (Ubud)",
+  "metaTitle": "Mount Rinjani: 2-Tages-1-Nacht-Trekking zu den",
+  "shortDescription": "2-taegige Tour in Ubud, mit Abholung aus den Dorfgebieten von Senaru, Transport zum Startpunkt und Transport vom Zielpunkt. Direkt gebucht bei Din Trekking Rinjani}, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 2-taegiges Erlebnis in Ubud. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nWandern rund um Ubud bedeutet die Flussschluchten und die Terrassen. Der Campuhan-Grat ist der leichte, zwei Kilometer auf einem gepflasterten Pfad. Die versteckte Schlucht bei Beji Guwang, in Sukawati, ist eine Flusswanderung durch eine enge Sandsteinschlucht mit Guide, an manchen Stellen hueftiief, nach starkem Regen geschlossen. Laengere Trekkingtouren fuehren in die Huegel oberhalb von Sidemen oder Munduk oder vor Sonnenaufgang auf Batur und Agung hinauf. Morgens ist die Zeit fuer alles davon: gegen 11:00 Uhr wird die Luftfeuchtigkeit schwer, und in der Regenzeit, von November bis Maerz, bringen die Nachmittage ab etwa zwei Uhr Regen. Nehmen Sie einen Liter Wasser pro Person und Schuhe mit gutem Grip mit.\n\nIm Preis enthalten sind Abholung aus den Dorfgebieten von Senaru, Transport zum Startpunkt und Transport vom Zielpunkt. Nicht enthalten sind 1 Uebernachtung vor Beginn der Trekkingtour, Trekkingschuhe, Trekkingstock und Kopflampe und Taschenlampe, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Abholung aus den Dorfgebieten von Senaru",
+   "Transport zum Startpunkt",
+   "Transport vom Zielpunkt"
+  ],
+  "notIncluded": [
+   "1 Uebernachtung vor Beginn der Trekkingtour",
+   "Trekkingschuhe",
+   "Trekkingstock",
+   "Kopflampe und Taschenlampe"
+  ]
+ },
  "twin-lakes-jungle-trek-canoe-and-banyumala-waterfall-in-ubud": {
   "title": "Zwillingsseen-Dschungeltrekking, Kanu und Banyumala-Wasserfall in Ubud",
   "metaTitle": "Zwillingsseen-Dschungeltrekking, Kanu und Banyumala-Wasserfall",
@@ -56572,6 +56589,23 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld fuer den Guide"
   ]
  },
+ "bike-tour-inside-rice-field-with-meal-and-hotel-transfer-in-ubud": {
+  "title": "Fahrradtour durch Reisfelder mit Mahlzeit und Hoteltransfer in Ubud",
+  "metaTitle": "Fahrradtour durch Reisfelder mit Mahlzeit und Hoteltransfer in",
+  "shortDescription": "6-stuendige Tour in Ubud, mit View point and Traditional village. Direkt gebucht bei Dewa Bike Tour, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 6-stuendiges Erlebnis ab Ubud, rund um View point and Traditional village aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDie Reisterrassen von Tegallalang liegen zwanzig Minuten nordlich von Ubud an der Strasse nach Kintamani und sind arbeitende Reisfelder, die vom subak-Bewaesserungssystem versorgt werden, das die UNESCO 2012 gelistet hat. Vor etwa 8:30 Uhr morgens gehoert das Tal den Bauern, die Felder sind noch feucht von der Nacht, und es ist kuehl genug, um durch die Terrassen hinab- und auf der anderen Seite wieder hinaufzugehen. Gegen zehn Uhr treffen die Busse aus dem Sueden ein, und die Strasse oberhalb der Terrassen wird zu einer Reihe von Cafes, Schaukeln und Fotoplattformen. Am Aussichtspunkt gibt es eine kleine Eintrittsgebuehr, und Bauern entlang der Pfade durch die Felder bitten um ein paar Tausend Rupiah fuer das Ueberqueren ihres Landes, was normal ist. Die Schaukeln sind eigenstaendige Unternehmen mit eigenen Preisen.\n\nIm Preis enthalten sind Abholung und Ruecktransfer zum Hotel im Gebiet Ubud, Fahrrad und Helm und Mineralwasser. Nicht enthalten sind Fruehstueck (Rp 40 000 pro Person, Bargeld in Rupiah), Abholung und Ruecktransfer in Sanur (Rp 285 000 pro Auto, max. 5 Personen, Bargeld in Rupiah vor Ort), Abholung und Ruecktransfer in Kuta/Legian (Rp 428 000 pro Auto, max. 5 Personen, Zahlung in Rupiah-Bargeld vor Ort) und Abholung und Ruecktransfer in Seminyak (Rp 464 000 pro Auto, max. 5 Personen, Zahlung in Rupiah-Bargeld vor Ort), das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDie Abholung wird ab Kuta, Kuta Selatan, Ubud und Denpasar and Karangasem Regency angeboten; der genaue Ort und die Uhrzeit werden nach Bestaetigung der Buchung mit Dewa Bike Tour vereinbart, und die gewaehlte Option bestimmt, ob der Transport enthalten ist.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Abholung und Ruecktransfer zum Hotel im Gebiet Ubud",
+   "Fahrrad und Helm",
+   "Mineralwasser"
+  ],
+  "notIncluded": [
+   "Fruehstueck (Rp 40 000 pro Person, Bargeld in Rupiah)",
+   "Abholung und Ruecktransfer in Sanur (Rp 285 000 pro Auto, max. 5 Personen, Bargeld in Rupiah vor Ort)",
+   "Abholung und Ruecktransfer in Kuta/Legian (Rp 428 000 pro Auto, max. 5 Personen, Zahlung in Rupiah-Bargeld vor Ort)",
+   "Abholung und Ruecktransfer in Seminyak (Rp 464 000 pro Auto, max. 5 Personen, Zahlung in Rupiah-Bargeld vor Ort)"
+  ]
+ },
  "bali-full-day-combo-telaga-waja-rafting-and-atv-quad-biking-ubud": {
   "title": "Bali, Ganztages-Kombi: Telaga-Waja-Rafting und ATV-Quad (Ubud)",
   "metaTitle": "Bali, Ganztages-Kombi: Telaga-Waja-Rafting und ATV-Quad (Ubud)",
@@ -58548,6 +58582,23 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Transport",
    "Hotelabholung und -ruecktransfer sind gegen Aufpreis verfuegbar"
+  ]
+ },
+ "cycling-tour-through-rice-fields-and-countryside-in-ubud": {
+  "title": "Radtour durch Reisfelder und Landschaft in Ubud",
+  "metaTitle": "Radtour durch Reisfelder und Landschaft in Ubud",
+  "shortDescription": "2,5-stuendige Tour in Ubud, mit Traditional village. Direkt gebucht bei Dewa Bike Tour, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein Erlebnis von 2,5 Stunden ab Ubud, rund um Traditional village aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDie Reisterrassen von Tegallalang liegen zwanzig Minuten nordlich von Ubud an der Strasse nach Kintamani und sind arbeitende Reisfelder, die vom subak-Bewaesserungssystem versorgt werden, das die UNESCO 2012 gelistet hat. Vor etwa 8:30 Uhr morgens gehoert das Tal den Bauern, die Felder sind noch feucht von der Nacht, und es ist kuehl genug, um durch die Terrassen hinab- und auf der anderen Seite wieder hinaufzugehen. Gegen zehn Uhr treffen die Busse aus dem Sueden ein, und die Strasse oberhalb der Terrassen wird zu einer Reihe von Cafes, Schaukeln und Fotoplattformen. Am Aussichtspunkt gibt es eine kleine Eintrittsgebuehr, und Bauern entlang der Pfade durch die Felder bitten um ein paar Tausend Rupiah fuer das Ueberqueren ihres Landes, was normal ist. Die Schaukeln sind eigenstaendige Unternehmen mit eigenen Preisen.\n\nIm Preis enthalten sind Fahrrad und Helm, Mineralwasser und Guide (Englisch). Nicht enthalten sind Fruehstueck (Rp 40 000 pro Person, Bargeld in indonesischen Rupiah), Mittagessen (Rp 70 000 pro Person, Bargeld in indonesischen Rupiah), Abholung und Ruecktransfer in Ubud (Rp 400 000 pro Auto, max. 5 Personen, Bargeld in indonesischen Rupiah) und Abholung und Ruecktransfer in Sanur (Rp 550 000 pro Auto, max. 5 Personen, Bargeld in indonesischen Rupiah), das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nUbud Private Cycling Tours - Dewa Bike Tour.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Fahrrad und Helm",
+   "Mineralwasser",
+   "Guide (Englisch)"
+  ],
+  "notIncluded": [
+   "Fruehstueck (Rp 40 000 pro Person, Bargeld in indonesischen Rupiah)",
+   "Mittagessen (Rp 70 000 pro Person, Bargeld in indonesischen Rupiah)",
+   "Abholung und Ruecktransfer in Ubud (Rp 400 000 pro Auto, max. 5 Personen, Bargeld in indonesischen Rupiah)",
+   "Abholung und Ruecktransfer in Sanur (Rp 550 000 pro Auto, max. 5 Personen, Bargeld in indonesischen Rupiah)"
   ]
  },
  "day-sunset-mount-batur-4wd-jeep-and-natural-hot-spring": {

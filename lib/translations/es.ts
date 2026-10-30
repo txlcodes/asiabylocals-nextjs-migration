@@ -49877,6 +49877,23 @@ export const ES_TOURS: Record<string, TourT> = {
    "transporte, recogida y regreso"
   ]
  },
+ "mount-rinjani-2d-1n-trekking-to-sembalun-views-in-ubud": {
+  "title": "Monte Rinjani: Trekking de 2 Dias/1 Noche a las Vistas de Sembalun (Ubud)",
+  "metaTitle": "Monte Rinjani: Trekking de 2 Dias/1 Noche a las Vistas de",
+  "shortDescription": "Recorrido de 2 dias en Ubud, con recogida en las zonas del pueblo de Senaru, transporte hasta el punto de partida y transporte desde la linea de meta. Reserva directa con Din Trekking Rinjani}, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 2 dias en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nCaminar alrededor de Ubud significa los desfiladeros fluviales y las terrazas. La cresta de Campuhan es la facil, dos kilometros por un camino pavimentado. El canon escondido de Beji Guwang, en Sukawati, es una caminata fluvial por un estrecho desfiladero de arenisca con guia, hasta la cintura en algunos tramos, cerrado tras lluvias fuertes. Las caminatas mas largas se dirigen a las colinas sobre Sidemen o Munduk, o suben el Batur y el Agung antes del amanecer. Las mananas son el momento para todo esto: hacia las 11:00 la humedad se vuelve pesada, y en las tardes de la temporada de lluvias, de noviembre a marzo, llueve desde aproximadamente las dos. Lleve un litro de agua por persona y calzado con buen agarre.\n\nEl precio incluye recogida en las zonas del pueblo de Senaru, transporte hasta el punto de partida y transporte desde la linea de meta. No incluye 1 noche de alojamiento antes de que comience el trekking, botas de trekking, baston de trekking y linterna frontal y linterna, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "recogida en las zonas del pueblo de Senaru",
+   "transporte hasta el punto de partida",
+   "transporte desde la linea de meta"
+  ],
+  "notIncluded": [
+   "1 noche de alojamiento antes de que comience el trekking",
+   "botas de trekking",
+   "baston de trekking",
+   "linterna frontal y linterna"
+  ]
+ },
  "twin-lakes-jungle-trek-canoe-and-banyumala-waterfall-in-ubud": {
   "title": "Trekking en la selva a los lagos gemelos, canoa y cascada de Banyumala en Ubud",
   "metaTitle": "Trekking en la selva a los lagos gemelos, canoa y cascada de",
@@ -56572,6 +56589,23 @@ export const ES_TOURS: Record<string, TourT> = {
    "propina para el guia"
   ]
  },
+ "bike-tour-inside-rice-field-with-meal-and-hotel-transfer-in-ubud": {
+  "title": "Tour en Bicicleta por los Arrozales con Comida y Traslado al Hotel en Ubud",
+  "metaTitle": "Tour en Bicicleta por los Arrozales con Comida y Traslado al",
+  "shortDescription": "Recorrido de 6 horas en Ubud, con View point and Traditional village. Reserva directa con Dewa Bike Tour, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 6 horas desde Ubud, organizada en torno a View point and Traditional village. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLas terrazas de arroz de Tegallalang estan a veinte minutos al norte de Ubud, en la carretera hacia Kintamani, y son arrozales en activo alimentados por el sistema de riego subak, declarado por la UNESCO en 2012. Antes de las 8:30 de la manana aproximadamente, el valle pertenece a los agricultores, los campos todavia estan humedos por la noche, y hace el fresco suficiente para caminar por las terrazas y subir por el otro lado. Hacia las diez llegan los autobuses del sur y la carretera sobre las terrazas se convierte en una fila de cafeterias, columpios y plataformas para fotos. Hay una pequena tarifa de entrada en el mirador, y agricultores a lo largo de los senderos entre los campos piden unos pocos miles de rupias por cruzar su terreno, lo cual es normal. Los columpios son negocios independientes con sus propios precios.\n\nEl precio incluye recogida y traslado de regreso al hotel en la zona de Ubud, bicicleta y casco y agua mineral. No incluye desayuno (Rp 40 000 por persona, efectivo en rupias), recogida y traslado de regreso en Sanur (Rp 285 000 por coche, max. 5 personas, efectivo en rupias en el lugar), recogida y traslado de regreso en Kuta/Legian (Rp 428 000 por coche, max. 5 personas, pago en efectivo en rupias en el lugar) y recogida y traslado de regreso en Seminyak (Rp 464 000 por coche, max. 5 personas, pago en efectivo en rupias en el lugar), cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSe ofrece recogida desde Kuta, Kuta Selatan, Ubud y Denpasar and Karangasem Regency; el lugar y la hora exactos se acuerdan con Dewa Bike Tour una vez confirmada la reserva, y la opcion elegida determina si el transporte esta incluido.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "recogida y traslado de regreso al hotel en la zona de Ubud",
+   "bicicleta y casco",
+   "agua mineral"
+  ],
+  "notIncluded": [
+   "desayuno (Rp 40 000 por persona, efectivo en rupias)",
+   "recogida y traslado de regreso en Sanur (Rp 285 000 por coche, max. 5 personas, efectivo en rupias en el lugar)",
+   "recogida y traslado de regreso en Kuta/Legian (Rp 428 000 por coche, max. 5 personas, pago en efectivo en rupias en el lugar)",
+   "recogida y traslado de regreso en Seminyak (Rp 464 000 por coche, max. 5 personas, pago en efectivo en rupias en el lugar)"
+  ]
+ },
  "bali-full-day-combo-telaga-waja-rafting-and-atv-quad-biking-ubud": {
   "title": "Bali, combo de dia completo: rafting en Telaga Waja y cuatrimoto ATV (Ubud)",
   "metaTitle": "Bali, combo de dia completo: rafting en Telaga Waja y cuatrimoto",
@@ -58548,6 +58582,23 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "transporte",
    "el servicio de recogida y regreso al hotel esta disponible con un cargo adicional"
+  ]
+ },
+ "cycling-tour-through-rice-fields-and-countryside-in-ubud": {
+  "title": "Tour en Bicicleta por Arrozales y Campo en Ubud",
+  "metaTitle": "Tour en Bicicleta por Arrozales y Campo en Ubud",
+  "shortDescription": "Recorrido de 2,5 horas en Ubud, con Traditional village. Reserva directa con Dewa Bike Tour, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 2,5 horas desde Ubud, organizada en torno a Traditional village. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLas terrazas de arroz de Tegallalang estan a veinte minutos al norte de Ubud, en la carretera hacia Kintamani, y son arrozales en activo alimentados por el sistema de riego subak, declarado por la UNESCO en 2012. Antes de las 8:30 de la manana aproximadamente, el valle pertenece a los agricultores, los campos todavia estan humedos por la noche, y hace el fresco suficiente para caminar por las terrazas y subir por el otro lado. Hacia las diez llegan los autobuses del sur y la carretera sobre las terrazas se convierte en una fila de cafeterias, columpios y plataformas para fotos. Hay una pequena tarifa de entrada en el mirador, y agricultores a lo largo de los senderos entre los campos piden unos pocos miles de rupias por cruzar su terreno, lo cual es normal. Los columpios son negocios independientes con sus propios precios.\n\nEl precio incluye bicicleta y casco, agua mineral y guia (ingles). No incluye desayuno (Rp 40 000 por persona, efectivo en rupias indonesias), almuerzo (Rp 70 000 por persona, efectivo en rupias indonesias), recogida y traslado de regreso en Ubud (Rp 400 000 por coche, max. 5 personas, efectivo en rupias indonesias) y recogida y traslado de regreso en Sanur (Rp 550 000 por coche, max. 5 personas, efectivo en rupias indonesias), cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nUbud Private Cycling Tours - Dewa Bike Tour.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "bicicleta y casco",
+   "agua mineral",
+   "guia (ingles)"
+  ],
+  "notIncluded": [
+   "desayuno (Rp 40 000 por persona, efectivo en rupias indonesias)",
+   "almuerzo (Rp 70 000 por persona, efectivo en rupias indonesias)",
+   "recogida y traslado de regreso en Ubud (Rp 400 000 por coche, max. 5 personas, efectivo en rupias indonesias)",
+   "recogida y traslado de regreso en Sanur (Rp 550 000 por coche, max. 5 personas, efectivo en rupias indonesias)"
   ]
  },
  "day-sunset-mount-batur-4wd-jeep-and-natural-hot-spring": {
