@@ -809,6 +809,7 @@ const urlSlug = (s: string) => s.toLowerCase().trim().replace(/\s+/g, '-');
 
 const COLOMBO_SIDEBAR = [
     { name: 'Best Tours in Colombo', slug: 'best-tours-in-colombo' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-colombo' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-colombo' },
     { name: 'Colombo City Guide', slug: 'colombo-city-guide' },
     { name: 'Getting Around', slug: 'getting-around-colombo' },
@@ -974,6 +975,7 @@ const HAKONE_SIDEBAR = [
 
 const DUBAI_SIDEBAR = [
     { name: 'Best Tours in Dubai', slug: 'best-tours-in-dubai' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-dubai' },
     { name: 'Burj Khalifa Tickets', slug: 'burj-khalifa-tickets-guide' },
     { name: 'Desert Safari Guide', slug: 'dubai-desert-safari-guide' },
     { name: 'Yacht Charters', slug: 'dubai-yacht-charter-guide' },

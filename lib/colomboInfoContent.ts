@@ -1040,6 +1040,51 @@ export function getColomboInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-10/31)
+    case "how-much-should-a-private-tour-guide-cost-in-colombo":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Colombo?",
+        seoTitle: "Colombo Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private tuk-tuk or car tour in Colombo in 2026, by length and type, so you know what's fair before you book.",
+        heroImage: CARD_2.image,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private 3-hour tuk-tuk city tour in Colombo** typically starts around **$49-51 for one person**, roughly doubling for a second traveller (around $85-102 for two) since most tuk-tuk operators charge close to per-seat rather than a flat vehicle rate. A **private car day trip** out of the city (Galle Fort, Negombo, Anuradhapura) often prices flat for 1-2 people — around $112-169 regardless of whether 1 or 2 travel — before stepping up for 3+. Multi-day private car tours around Sri Lanka (3-7 days, driver and hotels included) run roughly **$900-2,000 for the group**, a different, much bigger commitment than a single city day.",
+            tourCard: { slug: "colombo-city-private-tour", title: "Colombo: Private Tuk-Tuk City Tour with Guide & All Tickets", description: "A real example of tuk-tuk pricing that roughly doubles per added traveller.", price: "From $49", duration: "3 hours", image: CARD_2.image },
+          },
+          {
+            title: "Why Tuk-Tuks and Cars Price Differently",
+            content: "A **tuk-tuk** seats 2-3 at most, so most operators price close to per-person since there's little spare capacity to absorb a second traveller for free. A **private car** has more seats, so many operators quote the same flat rate for 1-2 people and only raise it once a third or fourth traveller needs a bigger vehicle. If you're comparing a tuk-tuk quote to a car quote, you're not comparing like for like — ask which vehicle you're actually getting.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private tuk-tuk quote dramatically below $49 for a 3-hour city tour often means a shorter route, unlicensed driver, or a commission-shop stop built into the day to make up the margin — a known pattern across South Asia tourism, not unique to any platform. For multi-day private car tours, a quote well under $900-2,000 for the group may mean lower hotel quality than advertised, not a genuine bargain — ask exactly which hotels are included.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly whether you're booking a tuk-tuk or a car, what's included (entrance tickets, lunch, hotels for multi-day trips), and whether the quote is per person or flat for the vehicle. On AsiaByLocals, every Colombo tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Colombo tours](/sri-lanka/colombo) to compare real, current prices directly.",
+            tourCard: { slug: "colombo-city-tour-on-a-private-car-full-day", title: "Colombo: City Tour on a Private Car — Full Day & Half Day", description: "A real example of flat 1-2-person pricing on a private car, unlike tuk-tuk pricing.", price: "From $112", duration: "Full day", image: CARD_2.image },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Colombo?", a: "A private 3-hour tuk-tuk city tour typically starts around $49-51 for one person, roughly doubling for a second traveller. A private car day trip out of the city often prices flat around $112-169 for 1-2 people." },
+          { q: "Is a private tuk-tuk or a private car better value in Colombo?", a: "A tuk-tuk is usually cheaper for a solo traveller; a private car becomes better value for 2 people since many car tours price flat for 1-2 while tuk-tuks price closer to per person." },
+          { q: "How much does a multi-day private car tour of Sri Lanka cost from Colombo?", a: "Roughly $900-2,000 for the group for a 3-7 day private tour with driver and hotels included — a different commitment from a single city day." },
+          { q: "Is a very cheap private tuk-tuk tour quote in Colombo a red flag?", a: "Often yes — it can mean a shorter route, an unlicensed driver, or a commission-shop stop built in to make up the margin." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Colombo?", "acceptedAnswer": { "@type": "Answer", "text": "A private 3-hour tuk-tuk city tour typically starts around $49-51 for one person. A private car day trip often prices flat around $112-169 for 1-2 people." } },
+            { "@type": "Question", "name": "Is a private tuk-tuk or a private car better value in Colombo?", "acceptedAnswer": { "@type": "Answer", "text": "A tuk-tuk is usually cheaper for a solo traveller; a private car becomes better value for 2 people." } },
+            { "@type": "Question", "name": "How much does a multi-day private car tour of Sri Lanka cost from Colombo?", "acceptedAnswer": { "@type": "Answer", "text": "Roughly $900-2,000 for the group for a 3-7 day private tour with driver and hotels included." } },
+            { "@type": "Question", "name": "Is a very cheap private tuk-tuk tour quote in Colombo a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a shorter route, an unlicensed driver, or a commission-shop stop." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

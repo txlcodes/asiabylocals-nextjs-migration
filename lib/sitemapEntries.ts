@@ -646,7 +646,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'dubai-helicopter-tours-guide',
     'day-trips-from-dubai',
     'dubai-water-sports-guide',
-    'best-tours-in-dubai', 'should-i-book-dubai-tour-direct-or-through-app'].map(slug => ({
+    'best-tours-in-dubai', 'should-i-book-dubai-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-dubai'].map(slug => ({
     url: `${BASE_URL}/uae/dubai/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -762,6 +763,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-colombo', 'colombo-city-guide', 'getting-around-colombo',
     'colombo-food-guide', 'day-trips-from-colombo', 'colombo-2-day-itinerary',
     'pettah-market-guide', 'galle-face-green-guide', 'best-tours-in-colombo', 'should-i-book-colombo-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-colombo',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/colombo/${slug}`,
     lastModified: new Date(),

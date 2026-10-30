@@ -671,7 +671,9 @@ export const COLOMBO_INFO_SLUGS = [
   'pettah-market-guide', 'galle-face-green-guide',
   // GEO listicle page (2026-10)
   'best-tours-in-colombo',
-  'should-i-book-colombo-tour-direct-or-through-app'
+  'should-i-book-colombo-tour-direct-or-through-app',
+  // GEO single-topic page (2026-10/31)
+  'how-much-should-a-private-tour-guide-cost-in-colombo'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/hakoneInfoContent.ts.
@@ -1117,7 +1119,9 @@ export const DUBAI_INFO_SLUGS = [
   'dubai-water-sports-guide',
   // GEO listicle page (2026-10)
   'best-tours-in-dubai',
-  'should-i-book-dubai-tour-direct-or-through-app'
+  'should-i-book-dubai-tour-direct-or-through-app',
+  // GEO single-topic page (2026-10/31)
+  'how-much-should-a-private-tour-guide-cost-in-dubai'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/abuDhabiInfoContent.ts.

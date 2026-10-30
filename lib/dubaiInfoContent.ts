@@ -672,6 +672,51 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-10/31)
+    case "how-much-should-a-private-tour-guide-cost-in-dubai":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Dubai?",
+        seoTitle: "Dubai Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private guided tour or car in Dubai in 2026, by type, so you know what's fair before you book.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private Dubai city highlights tour with a local guide** for a half day typically runs **$230-625 flat for 1-2 people**, depending on the vehicle and whether a chauffeur plus a separately-licensed guide are both included — a luxury chauffeur-driven tour with a licensed guide prices noticeably higher than a standard private car tour. A **private full-day East Coast or Hatta Mountains trip** runs **$519-1,330+ for the group**. Private water activities (yacht cruises, sailboat tours) vary the most: some price flat regardless of group size up to the boat's capacity, others charge per person and step up sharply.",
+            tourCard: { slug: "dubaiprivate-dubai-highlights-tour-with-local-guid", title: "Dubai: Private Dubai Highlights Tour with Local Guide", description: "A real example of private city-tour pricing with a local guide.", price: "From $231", duration: "Full day", image: IMG },
+          },
+          {
+            title: "Why the Pricing Style Varies So Much in Dubai",
+            content: "Dubai's private-tour market spans everything from a shared sedan with a driver to a chauffeured luxury SUV with a separately licensed guide, which is why quotes for what sounds like \"the same tour\" can differ by 2-3x. For boats, chartering the whole vessel (flat, up to its passenger cap) is a completely different product from a per-person seat on a shared departure — always confirm which one you're being quoted, since the terms \"private\" and \"exclusive\" get used loosely in marketing.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private tour quote dramatically below these ranges for a multi-stop Dubai highlights day usually means a shorter route, a driver with no actual guiding qualification despite the \"guide\" label, or a shopping-commission detour built into the itinerary. For desert safaris and yacht trips specifically, confirm the exact vehicle or boat and departure time — a cheap quote sometimes means a shared group slot mislabelled as private.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly whether a licensed guide is included or just a driver, what vehicle or boat you're actually getting, and whether the quote is flat or per person. On AsiaByLocals, every Dubai tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Dubai tours](/uae/dubai) to compare real, current prices directly.",
+            tourCard: { slug: "luxury-private-dubai-city-tour-with", title: "Luxury Private Dubai City Tour with Chauffeur + Licensed Guide", description: "A real example of a premium private tour with both a chauffeur and a separately licensed guide.", price: "From $624", duration: "Full day", image: IMG },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Dubai?", a: "A private city highlights tour with a local guide typically runs $230-625 flat for 1-2 people, depending on the vehicle and whether a chauffeur and a licensed guide are both included." },
+          { q: "How much is a private full-day desert or mountain tour from Dubai?", a: "A private full-day East Coast or Hatta Mountains trip runs roughly $519-1,330+ for the group, depending on the exact itinerary." },
+          { q: "Is a private yacht charter flat-priced or per person in Dubai?", a: "It varies by operator — some charter the whole boat flat up to its capacity, others charge per person and step up sharply with group size. Always confirm which you're being quoted." },
+          { q: "Is a very cheap private tour quote in Dubai a red flag?", a: "Often yes — it can mean a shorter route, a driver with no actual guiding qualification, or a shopping-commission stop built into the itinerary." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Dubai?", "acceptedAnswer": { "@type": "Answer", "text": "A private city highlights tour with a local guide typically runs $230-625 flat for 1-2 people." } },
+            { "@type": "Question", "name": "How much is a private full-day desert or mountain tour from Dubai?", "acceptedAnswer": { "@type": "Answer", "text": "A private full-day East Coast or Hatta Mountains trip runs roughly $519-1,330+ for the group." } },
+            { "@type": "Question", "name": "Is a private yacht charter flat-priced or per person in Dubai?", "acceptedAnswer": { "@type": "Answer", "text": "It varies by operator — some charter the whole boat flat, others charge per person and step up with group size." } },
+            { "@type": "Question", "name": "Is a very cheap private tour quote in Dubai a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a shorter route, an unqualified driver, or a shopping-commission stop." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }
