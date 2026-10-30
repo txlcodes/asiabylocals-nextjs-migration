@@ -101,6 +101,7 @@ const AGRA_SIDEBAR = [
     { name: "Half-Day Tour", slug: 'best-half-day-agra-tour' },
     { name: "Sunrise Tour from Delhi", slug: 'best-sunrise-taj-mahal-tour-from-delhi-by-car' },
     { name: "Cooking Class", slug: 'best-agra-cooking-class' },
+    { name: "All Agra Tours by Question", slug: 'agra-tours-by-question' },
 ];
 
 const DELHI_SIDEBAR = [
