@@ -47714,6 +47714,18 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "bali-nusa-dua-3-watersports-with-free-photography-and-pickup-uluwatu": {
+  "title": "Bali Nusa Dua: 3 Wassersportarten mit kostenloser Fotografie und Abholung (Uluwatu)",
+  "metaTitle": "Bali Nusa Dua: 3 Wassersportarten mit kostenloser Fotografie und",
+  "shortDescription": "1-stuendige Tour in Uluwatu, mit Nusa Dua Beach. Direkt gebucht bei BLUSUKAN BALI TRAVEL, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 1-stuendiges Erlebnis ab Uluwatu, rund um Nusa Dua Beach aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDie Bukit-Halbinsel, der Kalksteinblock an der Suedspitze Balis, beherbergt den Uluwatu-Tempel mit seinem Kecak, die Klippenstraende und die Garuda-Wisnu-Kencana-Statue, eine 121 Meter hohe Figur von Vishnu auf Garuda, 2018 nach 28 Jahren fertiggestellt, die in einem Kulturpark mit Tanzvorfuehrungen ueber den Tag steht. Die Halbinsel ist trocken, heiss und meist ohne Schatten, und die Entfernungen zwischen den Straenden sind laenger, als sie auf einer Karte aussehen, daher ist ein Fahrer fuer den Tag die ueblichste Art, sie zu sehen. Der Sonnenuntergang liegt das ganze Jahr etwa zwischen 18:15 und 18:30 Uhr, und Uluwatus Klippenpfad fuellt sich dafuer.\n\nIm Preis enthalten sind Hotelabholung und -ruecktransfer, drei Wassersportaktivitaeten und ein Lehrer begleitet Sie als Guide fuer jede Aktivitaet. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDenpasar.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Hotelabholung und -ruecktransfer",
+   "drei Wassersportaktivitaeten",
+   "ein Lehrer begleitet Sie als Guide fuer jede Aktivitaet"
+  ],
+  "notIncluded": []
+ },
  "kuta-bali-silver-making-class-stone-and-gold-plated-option-canggu": {
   "title": "Silberschmuck-Kurs in Kuta Bali (Option mit Stein und Vergoldung), in Canggu",
   "metaTitle": "Silberschmuck-Kurs in Kuta Bali (Option mit Stein und",
@@ -48111,6 +48123,40 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Trinkgeld fuer den Rafting-Guide, optional und nach eigenem Ermessen",
    "Fotos vom Fotografen"
+  ]
+ },
+ "rice-terraces-waterfall-and-village-tour-in-ubud": {
+  "title": "Tour zu Reisterrassen, Wasserfall und Dorf in Ubud",
+  "metaTitle": "Tour zu Reisterrassen, Wasserfall und Dorf in Ubud",
+  "shortDescription": "5-stuendige Tour in Ubud, mit Jembatan Kuning Tukad Yeh Unda. Direkt gebucht bei Sidemen tour guide, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 5-stuendiges Erlebnis ab Ubud, rund um Jembatan Kuning Tukad Yeh Unda aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDie Reisterrassen von Tegallalang liegen zwanzig Minuten nordlich von Ubud an der Strasse nach Kintamani und sind arbeitende Reisfelder, die vom subak-Bewaesserungssystem versorgt werden, das die UNESCO 2012 gelistet hat. Vor etwa 8:30 Uhr morgens gehoert das Tal den Bauern, die Felder sind noch feucht von der Nacht, und es ist kuehl genug, um durch die Terrassen hinab- und auf der anderen Seite wieder hinaufzugehen. Gegen zehn Uhr treffen die Busse aus dem Sueden ein, und die Strasse oberhalb der Terrassen wird zu einer Reihe von Cafes, Schaukeln und Fotoplattformen. Am Aussichtspunkt gibt es eine kleine Eintrittsgebuehr, und Bauern entlang der Pfade durch die Felder bitten um ein paar Tausend Rupiah fuer das Ueberqueren ihres Landes, was normal ist. Die Schaukeln sind eigenstaendige Unternehmen mit eigenen Preisen.\n\nIm Preis enthalten sind Hotelabholung und Ruecktransfer, Guide, Besuch der Reisterrassen, Kaffee- und Teeverkostung auf einem lokalen Bauernhof und Besuch des Wasserfalls. Nicht enthalten sind Persoenliche Ausgaben, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nSidemen.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Hotelabholung und Ruecktransfer",
+   "Guide",
+   "Besuch der Reisterrassen",
+   "Kaffee- und Teeverkostung auf einem lokalen Bauernhof",
+   "Besuch des Wasserfalls"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben"
+  ]
+ },
+ "blue-lagoon-snorkeling-temple-and-waterfall-tour-in-ubud": {
+  "title": "Schnorcheln an der Blauen Lagune, Tempel- und Wasserfalltour in Ubud",
+  "metaTitle": "Schnorcheln an der Blauen Lagune, Tempel- und Wasserfalltour in",
+  "shortDescription": "10-stuendige Tour in Ubud, mit Padang Bai Harbour und Goa Lawah Temple and Kanto Lampo Waterfall. Direkt gebucht bei Bali Taksu Private Tour, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 10-stuendiges Erlebnis ab Ubud, rund um Padang Bai Harbour und Goa Lawah Temple and Kanto Lampo Waterfall aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDie Wasserfaelle rund um Ubud liegen in einem Streifen oestlich und suedlich der Stadt, meist innerhalb einer Autostunde. Tegenungan ist der naeheste und meistbesuchte, mit einem breiten Fall und einem Becken am Fuss. Tibumana und Kanto Lampo, beide in Bangli, sind kleiner und besser zum Hineingehen ins Wasser geeignet: Tibumana faellt in einem einzigen Vorhang in ein klares Becken, und bei Kanto Lampo faechert sich das Wasser ueber eine gestufte Felswand, auf die Besucher fuer Fotos klettern. Bei allen geht es Stufen hinunter und wieder hinauf, und die Felsen sind rutschig, daher sind richtige Sandalen oder Schuhe, die nass werden duerfen, das passende Schuhwerk. Die Regenzeit, von November bis Maerz, bringt den vollsten Durchfluss, aber auch braunes Wasser fuer ein bis zwei Tage nach starkem Regen.\n\nIm Preis enthalten sind Schnorcheln an der Blauen Lagune, Schnorcheln in Tanjung Jepun, Besuch des Goa-Lawah-Tempels, Besuch des Kanto-Lampo-Wasserfalls und Besuch des traditionellen Marktes. Nicht enthalten sind Verpflegung und Getraenke, Persoenliche Ausgaben und Trinkgelder, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDenpasar.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Schnorcheln an der Blauen Lagune",
+   "Schnorcheln in Tanjung Jepun",
+   "Besuch des Goa-Lawah-Tempels",
+   "Besuch des Kanto-Lampo-Wasserfalls",
+   "Besuch des traditionellen Marktes"
+  ],
+  "notIncluded": [
+   "Verpflegung und Getraenke",
+   "Persoenliche Ausgaben",
+   "Trinkgelder"
   ]
  },
  "mount-batur-sunrise-hike-1-717-masl": {
@@ -48871,6 +48917,24 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "monkey-forest-sangeh-taman-ayun-temple-and-waterfalls-tour-in-ubud": {
+  "title": "Affenwald Sangeh, Taman-Ayun-Tempel und Wasserfall-Tour in Ubud",
+  "metaTitle": "Affenwald Sangeh, Taman-Ayun-Tempel und Wasserfall-Tour in Ubud",
+  "shortDescription": "8-stuendige Tour in Ubud, mit Leke Leke Waterfall und Pengempu Waterfall and Taman Ayun Temple. Direkt gebucht bei CV. Ubud Private Tur, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 8-stuendiges Erlebnis ab Ubud, rund um Leke Leke Waterfall und Pengempu Waterfall and Taman Ayun Temple aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDie Wasserfaelle rund um Ubud liegen in einem Streifen oestlich und suedlich der Stadt, meist innerhalb einer Autostunde. Tegenungan ist der naeheste und meistbesuchte, mit einem breiten Fall und einem Becken am Fuss. Tibumana und Kanto Lampo, beide in Bangli, sind kleiner und besser zum Hineingehen ins Wasser geeignet: Tibumana faellt in einem einzigen Vorhang in ein klares Becken, und bei Kanto Lampo faechert sich das Wasser ueber eine gestufte Felswand, auf die Besucher fuer Fotos klettern. Bei allen geht es Stufen hinunter und wieder hinauf, und die Felsen sind rutschig, daher sind richtige Sandalen oder Schuhe, die nass werden duerfen, das passende Schuhwerk. Die Regenzeit, von November bis Maerz, bringt den vollsten Durchfluss, aber auch braunes Wasser fuer ein bis zwei Tage nach starkem Regen.\n\nIm Preis enthalten sind Abholung und Ruecktransfer, Auto, Fahrer, klimatisiertes Auto und Parken. Nicht enthalten sind Mittagessen, Persoenliche Ausgaben und Trinkgelder, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nBadung Regency.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Abholung und Ruecktransfer",
+   "Auto",
+   "Fahrer",
+   "klimatisiertes Auto",
+   "Parken"
+  ],
+  "notIncluded": [
+   "Mittagessen",
+   "Persoenliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
  "mount-batur-sunrise-trekking-waterfall-and-nature-tour": {
   "title": "Mount-Batur-Sonnenaufgangs-Trekking, Wasserfall- und Naturtour",
   "metaTitle": "Mount-Batur-Sonnenaufgangs-Trekking, Wasserfall- und Naturtour",
@@ -49031,6 +49095,23 @@ export const DE_TOURS: Record<string, TourT> = {
    "Reiseversicherung"
   ]
  },
+ "countryside-scooter-tour-with-waterfall-and-arak-tasting-in-ubud": {
+  "title": "Landschafts-Rollertour mit Wasserfall und Arak-Verkostung in Ubud",
+  "metaTitle": "Landschafts-Rollertour mit Wasserfall und Arak-Verkostung in Ubud",
+  "shortDescription": "4-stuendige Tour in Ubud, mit Gembleng Waterfall and GF54+3W. Direkt gebucht bei Experience silver class sidemen, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 4-stuendiges Erlebnis ab Ubud, rund um Gembleng Waterfall and GF54+3W aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDie Wasserfaelle rund um Ubud liegen in einem Streifen oestlich und suedlich der Stadt, meist innerhalb einer Autostunde. Tegenungan ist der naeheste und meistbesuchte, mit einem breiten Fall und einem Becken am Fuss. Tibumana und Kanto Lampo, beide in Bangli, sind kleiner und besser zum Hineingehen ins Wasser geeignet: Tibumana faellt in einem einzigen Vorhang in ein klares Becken, und bei Kanto Lampo faechert sich das Wasser ueber eine gestufte Felswand, auf die Besucher fuer Fotos klettern. Bei allen geht es Stufen hinunter und wieder hinauf, und die Felsen sind rutschig, daher sind richtige Sandalen oder Schuhe, die nass werden duerfen, das passende Schuhwerk. Die Regenzeit, von November bis Maerz, bringt den vollsten Durchfluss, aber auch braunes Wasser fuer ein bis zwei Tage nach starkem Regen.\n\nIm Preis enthalten sind Rollerverleih, Live-Reiseleiter, Besuch des Gembleng-Wasserfalls, Besuch einer Arak-Herstellungswerkstatt und Besuch einer Kamen-Herstellungswerkstatt. Nicht enthalten sind Verpflegung und Getraenke und Persoenliche Ausgaben, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nSidemen.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Rollerverleih",
+   "Live-Reiseleiter",
+   "Besuch des Gembleng-Wasserfalls",
+   "Besuch einer Arak-Herstellungswerkstatt",
+   "Besuch einer Kamen-Herstellungswerkstatt"
+  ],
+  "notIncluded": [
+   "Verpflegung und Getraenke",
+   "Persoenliche Ausgaben"
+  ]
+ },
  "leather-journal-workshop-a6-size-with-instructor-in-ubud": {
   "title": "Lederjournal-Workshop (A6-Format) mit Instruktor in Ubud",
   "metaTitle": "Lederjournal-Workshop (A6-Format) mit Instruktor in Ubud",
@@ -49047,6 +49128,18 @@ export const DE_TOURS: Record<string, TourT> = {
    "Transport zum Workshop"
   ]
  },
+ "petak-river-tubing-and-purification-at-dalem-temple-in-ubud": {
+  "title": "Petak-Fluss-Tubing und Reinigung im Dalem-Tempel in Ubud",
+  "metaTitle": "Petak-Fluss-Tubing und Reinigung im Dalem-Tempel in Ubud",
+  "shortDescription": "2,5-stuendige Tour in Ubud, mit TUBING PETAKAJA and Pura Dalem Br. Petak Kaja. Direkt gebucht bei Made Bati Tour and Travel, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein Erlebnis von 2,5 Stunden ab Ubud, rund um TUBING PETAKAJA and Pura Dalem Br. Petak Kaja aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nTirta Empul ist ein Wassertempel am Fluss Pakerisan in Tampaksiring, gegruendet im Jahr 962 n. Chr. um eine Quelle, die die Balinesen als heilig betrachten. Das Reinigungsritual, melukat, bedeutet, in das Becken zu steigen und der Reihe nach von einem Wasserspeier zum naechsten unter Wasser zu gehen; zwei der Speier sind fuer Totenriten reserviert und werden nicht genutzt, ein Guide zeigt Ihnen, welche. Sarongs werden am Eingang gestellt, und Sie werden Wechselkleidung fuer danach wollen. Der Tempel ist bei lokalen Gottesdienstbesuchern am vollsten rund um Vollmond und an balinesischen heiligen Tagen, was man besser wissen als meiden sollte. Der von Sukarno in den 1950er Jahren erbaute Praesidentenpalast steht auf dem Huegel direkt ueber den Quellen.\n\nIm Preis enthalten sind Tubing-Ausruestung (Schlauch, Schwimmweste, Helm), Flussguide und Melukat-Guide in Pura Dalem. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTUBING PETAKAJA.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Tubing-Ausruestung (Schlauch, Schwimmweste, Helm)",
+   "Flussguide",
+   "Melukat-Guide in Pura Dalem"
+  ],
+  "notIncluded": []
+ },
  "palm-reading-aura-chakras-purification-and-blessing-in-ubud": {
   "title": "Handlesen, Aura, Chakren, Reinigung und Segnung in Ubud",
   "metaTitle": "Handlesen, Aura, Chakren, Reinigung und Segnung in Ubud",
@@ -49062,6 +49155,21 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten und persoenliche Ausgaben",
    "zusaetzliches Essen und Getraenke",
    "optionale Spenden"
+  ]
+ },
+ "white-water-river-tubing-adventure-with-guide-in-ubud": {
+  "title": "Wildwasser-Tubing-Abenteuer mit Guide in Ubud",
+  "metaTitle": "Wildwasser-Tubing-Abenteuer mit Guide in Ubud",
+  "shortDescription": "2-stuendige Tour in Ubud, mit TUBING PETAKAJA. Direkt gebucht bei Made Bati Tour and Travel, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 2-stuendiges Erlebnis ab Ubud, rund um TUBING PETAKAJA aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nFahrradtouren rund um Ubud verlaufen meist bergab: Ein Van bringt Sie hinauf nach Kintamani am Rand der Caldera auf etwa 1.500 Metern, und die Fahrt geht zurueck durch die Doerfer, vorbei an Tempeln, Familienhoefen und Reisfeldern, ueber 20 bis 25 Kilometer mit sehr wenig Treten, und endet gegen Mittag in der Naehe von Ubud. E-Bike-Varianten fahren dieselbe Runde mit Motorunterstuetzung fuer die kurzen Anstiege. Flussrohr-Fahrten finden auf den ruhigeren Abschnitten des Ayung und am Siap-Fluss bei Payangan statt, etwa eine Stunde auf dem Wasser in einem einzelnen Schlauch, und werden an vielen dieser Tage mit der Radfahrt kombiniert. Helme werden gestellt, und die Strassen werden mit Rollern geteilt, daher fuehrt der Guide die Gruppe und haelt an Kreuzungen an.\n\nIm Preis enthalten sind Tubing-Ausruestung (Schlauch, Schwimmweste, Helm), Begleitung durch einen Dorf-Guide und grundlegender Versicherungsschutz. Nicht enthalten sind Mittagessen und Foto- und Videopaket, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTUBING PETAKAJA.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Tubing-Ausruestung (Schlauch, Schwimmweste, Helm)",
+   "Begleitung durch einen Dorf-Guide",
+   "grundlegender Versicherungsschutz"
+  ],
+  "notIncluded": [
+   "Mittagessen",
+   "Foto- und Videopaket"
   ]
  },
  "palm-reading-aura-chakra-and-blessing-ceremony-in-ubud": {
@@ -50578,6 +50686,20 @@ export const DE_TOURS: Record<string, TourT> = {
    "Fruehstueck"
   ]
  },
+ "private-padel-lesson-with-court-and-equipment-in-nusa-penida": {
+  "title": "Privater Padel-Unterricht mit Platz und Ausruestung in Nusa Penida",
+  "metaTitle": "Privater Padel-Unterricht mit Platz und Ausruestung in Nusa",
+  "shortDescription": "1-stuendige Tour in Nusa Penida, mit Nusa Lembongan. Direkt gebucht bei Lembongan Padel Club, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 1-stuendiges Erlebnis ab Nusa Penida, rund um Nusa Lembongan aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nNusa Penida ist die groesste der drei Inseln vor der Suedostkueste Balis, etwa 200 Quadratkilometer Kalkstein mit Klippen im Sueden und Westen und ein paar Doerfern an der Nordkueste, wo die Boote anlegen. Es gibt praktisch keinen Verkehr, aber die Strassen sind eng und langsam, weshalb ein Tagesausflug entweder die Westseite (Kelingking, Broken Beach, Angel's Billabong) oder die Ostseite (Diamond Beach, Atuh, Tree House) abdeckt, nicht beide. Schnellboote von Sanur brauchen dreissig bis fuenfundvierzig Minuten, fahren ab etwa 7:00 Uhr, und werden bei starker Dunung abgesagt oder verspaetet. Bringen Sie Bargeld mit: Kartenterminals sind selten und die Geldautomaten unzuverlaessig.\n\nIm Preis enthalten sind zertifizierter Trainer, Platzzugang und Schlaeger. Nicht enthalten sind Persoenliche Ausgaben, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nLembongan Padel Club.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "zertifizierter Trainer",
+   "Platzzugang",
+   "Schlaeger"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben"
+  ]
+ },
  "nusa-lembongan-and-ceningan-ultimate-scooter-island-adventure-nusa-penida": {
   "title": "Nusa Lembongan und Ceningan: ultimatives Insel-Rollerabenteuer (Nusa Penida)",
   "metaTitle": "Nusa Lembongan und Ceningan: ultimatives Insel-Rollerabenteuer",
@@ -50768,6 +50890,22 @@ export const DE_TOURS: Record<string, TourT> = {
    "Willkommensflasche Mineralwasser"
   ],
   "notIncluded": []
+ },
+ "nusa-penida-3-spot-manta-bay-snorkel-with-gopro": {
+  "title": "Nusa Penida: Schnorcheln an 3 Spots in der Manta Bay mit GoPro",
+  "metaTitle": "Nusa Penida: Schnorcheln an 3 Spots in der Manta Bay mit GoPro",
+  "shortDescription": "4-stuendige Tour in Nusa Penida, mit Matahari Terbit Port und Speedboat and Nusa Penida. Direkt gebucht bei The Angkal, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 4-stuendiges Erlebnis in Nusa Penida, rund um Matahari Terbit Port und Speedboat and Nusa Penida aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nBeim Schnorcheln vor Nusa Penida geht es vor allem um die Riffmantarochen am Manta Point an der Suedkueste der Insel, wo sie das ganze Jahr ueber zu finden sind, fressen und sich im Wellengang am Fuss der Klippen reinigen lassen. Die Boote fahren danach zu ruhigeren Stellen wie Crystal Bay, Gamat Bay und der Wand bei Buyuk fuer Korallen und Fische. Zwischen Juli und Oktober ist Crystal Bay auch der Ort, an den Taucher wegen des ozeanischen Mondfisches, mola mola, kommen, der in den kuehleren Monaten aus tieferem Wasser aufsteigt. Der Manta Point ist der Dunung aus dem Sueden ausgesetzt, und Boote lassen ihn aus, wenn das Meer aufgewuehlt ist, daher haengt ein Tag hier immer vom Wetter ab. Die Ueberfahrt von Sanur dauert dreissig bis fuenfundvierzig Minuten.\n\nIm Preis enthalten sind Hin- und Rueckfahrt mit dem Schnellboot (Sanur-Nusa Penida-Sanur) mit The Angkal Fast Cruise, geteiltes Schnorchelboot und professioneller Schnorchelguide. Nicht enthalten sind Hoteltransfers, Tourismusabgabe fuer Nusa Penida und Persoenliche Ausgaben, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nThe Angkal Fast Boat.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Hin- und Rueckfahrt mit dem Schnellboot (Sanur-Nusa Penida-Sanur) mit The Angkal Fast Cruise",
+   "geteiltes Schnorchelboot",
+   "professioneller Schnorchelguide"
+  ],
+  "notIncluded": [
+   "Hoteltransfers",
+   "Tourismusabgabe fuer Nusa Penida",
+   "Persoenliche Ausgaben"
+  ]
  },
  "nusa-lembongan-cruise-with-snorkeling-and-bbq-lunch": {
   "title": "Nusa-Lembongan-Kreuzfahrt mit Schnorcheln und BBQ-Mittagessen",
@@ -52076,6 +52214,21 @@ export const DE_TOURS: Record<string, TourT> = {
    "echte 24-Karat-Vergoldung, 200 K IDR"
   ]
  },
+ "sanur-cycling-tour-with-market-ritual-and-rice-fields": {
+  "title": "Sanur-Radtour mit Markt, Ritual und Reisfeldern",
+  "metaTitle": "Sanur-Radtour mit Markt, Ritual und Reisfeldern",
+  "shortDescription": "4-stuendige Tour in Canggu, mit Discova und Sindhu Beach Market and Utamaning Yadnya. Direkt gebucht bei Buffalo Tours Singapore Pvt Ltd., statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 4-stuendiges Erlebnis ab Canggu, rund um Discova und Sindhu Beach Market and Utamaning Yadnya aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDie Reisterrassen von Tegallalang liegen zwanzig Minuten nordlich von Ubud an der Strasse nach Kintamani und sind arbeitende Reisfelder, die vom subak-Bewaesserungssystem versorgt werden, das die UNESCO 2012 gelistet hat. Vor etwa 8:30 Uhr morgens gehoert das Tal den Bauern, die Felder sind noch feucht von der Nacht, und es ist kuehl genug, um durch die Terrassen hinab- und auf der anderen Seite wieder hinaufzugehen. Gegen zehn Uhr treffen die Busse aus dem Sueden ein, und die Strasse oberhalb der Terrassen wird zu einer Reihe von Cafes, Schaukeln und Fotoplattformen. Am Aussichtspunkt gibt es eine kleine Eintrittsgebuehr, und Bauern entlang der Pfade durch die Felder bitten um ein paar Tausend Rupiah fuer das Ueberqueren ihres Landes, was normal ist. Die Schaukeln sind eigenstaendige Unternehmen mit eigenen Preisen.\n\nIm Preis enthalten sind englischsprachiger Reiseleiter, Fahrraeder und Helme und Snacks auf dem Sindhu-Markt. Nicht enthalten sind Mahlzeiten und Persoenliche Ausgaben, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDiscova.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "englischsprachiger Reiseleiter",
+   "Fahrraeder und Helme",
+   "Snacks auf dem Sindhu-Markt"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persoenliche Ausgaben"
+  ]
+ },
  "coastal-area-snorkeling-session-in-canggu": {
   "title": "Schnorchelsession im Kuestengebiet von Canggu",
   "metaTitle": "Schnorchelsession im Kuestengebiet von Canggu",
@@ -52515,6 +52668,24 @@ export const DE_TOURS: Record<string, TourT> = {
    "Foto und Video gegen Aufpreis verfuegbar"
   ]
  },
+ "manta-point-private-snorkeling-tour-in-nusa-penida": {
+  "title": "Private Schnorcheltour zum Manta Point in Nusa Penida",
+  "metaTitle": "Private Schnorcheltour zum Manta Point in Nusa Penida",
+  "shortDescription": "3-stuendige Tour in Nusa Penida, mit Manta Bay und Gamat Bay and Mangrove Point. Direkt gebucht bei Lembongan Water Sport, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 3-stuendiges Erlebnis ab Nusa Penida, rund um Manta Bay und Gamat Bay and Mangrove Point aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nBeim Schnorcheln vor Nusa Penida geht es vor allem um die Riffmantarochen am Manta Point an der Suedkueste der Insel, wo sie das ganze Jahr ueber zu finden sind, fressen und sich im Wellengang am Fuss der Klippen reinigen lassen. Die Boote fahren danach zu ruhigeren Stellen wie Crystal Bay, Gamat Bay und der Wand bei Buyuk fuer Korallen und Fische. Zwischen Juli und Oktober ist Crystal Bay auch der Ort, an den Taucher wegen des ozeanischen Mondfisches, mola mola, kommen, der in den kuehleren Monaten aus tieferem Wasser aufsteigt. Der Manta Point ist der Dunung aus dem Sueden ausgesetzt, und Boote lassen ihn aus, wenn das Meer aufgewuehlt ist, daher haengt ein Tag hier immer vom Wetter ab. Die Ueberfahrt von Sanur dauert dreissig bis fuenfundvierzig Minuten.\n\nIm Preis enthalten sind Hotelabholung und -ruecktransfer in Nusa Lembongan / Abholung am Hafen Toyapakeh, Schnorchelausruestung, Schnorcheln an 3 Spots und privates Boot fuer maximal 6 Personen. Nicht enthalten sind Persoenliche Ausgaben, Essen und Getraenke, Trinkgelder und Steuer, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nLembongan.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Hotelabholung und -ruecktransfer in Nusa Lembongan / Abholung am Hafen Toyapakeh",
+   "Schnorchelausruestung",
+   "Schnorcheln an 3 Spots",
+   "privates Boot fuer maximal 6 Personen"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben",
+   "Essen und Getraenke",
+   "Trinkgelder",
+   "Steuer"
+  ]
+ },
  "lembongan-tour-with-kayaking-and-buffet-lunch": {
   "title": "Lembongan-Tour mit Kajakfahren und Mittagsbuffet",
   "metaTitle": "Lembongan-Tour mit Kajakfahren und Mittagsbuffet",
@@ -52818,6 +52989,18 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "surf-lesson-with-local-instructor-in-uluwatu": {
+  "title": "Surfkurs mit lokalem Lehrer in Uluwatu",
+  "metaTitle": "Surfkurs mit lokalem Lehrer in Uluwatu",
+  "shortDescription": "1,5-stuendige Tour in Uluwatu, mit Surf-Coaching fuer Anfaenger, Fortgeschrittene und privat, Unterricht angepasst an die taeglichen Wellenbedingungen und das Koennen des Surfers und private, semi-private und Gruppenkurse sowie Mehrfach-Surfprogramme. Direkt gebucht bei SURF WITH TEE - ULUWATU, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein Erlebnis von 1,5 Stunden in Uluwatu. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nSurfkurse rund um Canggu finden an Beach Breaks statt, meist in Batu Bolong und Berawa, wo der Sandboden und die langsamen, bruechigen Wellen fuer die ersten Tage geeignet sind. Die Kurse dauern etwa zwei Stunden mit einem Softtop-Board und zunaechst einer kurzen Einheit im Sand, und die Lehrer schicken Anfaenger ins Weisswasser statt auf gruene Wellen zu warten. Morgen vor 9:00 Uhr sind in der Trockenzeit, April bis Oktober, am saubersten, wenn der Wind ablandig ist; die Regenzeit bringt groesseren, unruhigeren Surf und nachmittaegliche auflandige Winde. Rashguards werden gestellt, und Riffschuhe sind an diesen Straenden nicht noetig. Buchen Sie eine zweite Stunde erst nach der ersten; die meisten Leute stehen am Ende davon.\n\nIm Preis enthalten sind Surf-Coaching fuer Anfaenger, Fortgeschrittene und privat, Unterricht angepasst an die taeglichen Wellenbedingungen und das Koennen des Surfers und private, semi-private und Gruppenkurse sowie Mehrfach-Surfprogramme. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nNasa Warung.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Surf-Coaching fuer Anfaenger, Fortgeschrittene und privat",
+   "Unterricht angepasst an die taeglichen Wellenbedingungen und das Koennen des Surfers",
+   "private, semi-private und Gruppenkurse sowie Mehrfach-Surfprogramme"
+  ],
+  "notIncluded": []
+ },
  "south-bali-customized-sunset-tour-rock-bar-savaya-uluwatu-uluwatu": {
   "title": "Individuelle Sonnenuntergangstour im Sueden Balis, Rock Bar-Savaya Uluwatu",
   "metaTitle": "Individuelle Sonnenuntergangstour im Sueden Balis, Rock",
@@ -52831,6 +53014,21 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Persoenliche Ausgaben",
    "Mahlzeiten und Getraenke, sofern in Ihrer gewaehlten Option nicht ausdruecklich angegeben"
+  ]
+ },
+ "uluwatu-temple-and-kecak-fire-dance-sunset-experience-uluwatu": {
+  "title": "Uluwatu-Tempel und Kecak-Feuertanz bei Sonnenuntergang (Uluwatu)",
+  "metaTitle": "Uluwatu-Tempel und Kecak-Feuertanz bei Sonnenuntergang (Uluwatu)",
+  "shortDescription": "6-stuendige Tour in Uluwatu, mit Uluwatu Temple and Kecak Uluwatu. Direkt gebucht bei Go Bali Holiday Tour & Travel, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 6-stuendiges Erlebnis in Uluwatu, rund um Uluwatu Temple and Kecak Uluwatu aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nPura Luhur Uluwatu steht auf einer Klippe etwa 70 Meter ueber dem Meer an der suedwestlichen Spitze der Bukit-Halbinsel, einer von Balis sechs Richtungstempeln, verbunden mit dem Priester Empu Kuturan aus dem elften Jahrhundert. Der Kecak-Feuertanz wird jeden Abend gegen 18:00 Uhr in einem Amphitheater neben dem Tempel aufgefuehrt, zeitlich so gelegt, dass der Sonnenuntergang hinter den Taenzern liegt; er dauert etwa eine Stunde, der Gesang wird von einem Kreis von Maennern ohne Instrumente ausgefuehrt, und die Geschichte ist das Ramayana. Sarongs werden am Eingang gestellt. Die Affen des Tempels sind geuebte Diebe von Sonnenbrillen und Handys, also beides auf dem Klippenweg in einer Tasche verstauen.\n\nIm Preis enthalten sind Privates klimatisiertes Fahrzeug, Englischsprachiger lokaler Fahrer und Hotelabholung und Rueckbringung aus ausgewaehlten Gebieten. Nicht enthalten sind Eintrittskarten und Ticket fuer den Kecak-Feuertanz bei der Option ohne Tickets und Persoenliche Ausgaben, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDenpasar.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Privates klimatisiertes Fahrzeug",
+   "Englischsprachiger lokaler Fahrer",
+   "Hotelabholung und Rueckbringung aus ausgewaehlten Gebieten"
+  ],
+  "notIncluded": [
+   "Eintrittskarten und Ticket fuer den Kecak-Feuertanz bei der Option ohne Tickets",
+   "Persoenliche Ausgaben"
   ]
  },
  "fly-fish-parasailing-and-kecak-fire-dance-experience-in-uluwatu": {
@@ -56031,6 +56229,21 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Mahlzeit",
    "Persoenliche Ausgaben"
+  ]
+ },
+ "ayung-river-rafting-all-inclusive-with-optional-tour-in-ubud": {
+  "title": "Ayung-Fluss-Rafting - Alles inklusive mit optionaler Tour in Ubud",
+  "metaTitle": "Ayung-Fluss-Rafting - Alles inklusive mit optionaler Tour in Ubud",
+  "shortDescription": "7-stuendige Tour in Ubud, mit Ubud Rafting und Cantik Agriculture Luwak Coffee and Majas Spa Ubud. Direkt gebucht bei BJ Transport Bali By GW, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 7-stuendiges Erlebnis in Ubud, rund um Ubud Rafting und Cantik Agriculture Luwak Coffee and Majas Spa Ubud aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nWildwasser-Rafting bei Ubud findet auf dem Ayung-Fluss statt, etwa zwoelf Kilometer Wasser der Klasse II bis III durch eine Schlucht unterhalb von Payangan, bei rund zwei Stunden auf dem Wasser. Der Telaga Waja im Osten ist steiler, Klasse III bis IV, und wird von Anbietern genutzt, die eine intensivere Fahrt wollen. Beide Fluesse steigen nach Regen stark an, wodurch die Regenzeit, von November bis Maerz, die schnellere Fahrt bietet und die Trockenzeit die ruhigere; Anbieter sagen ab, wenn der Fluss wirklich zu hoch steht. Es geht Stufen hinab zum Einstieg und am Ende wieder hinauf, und alles, was man mitnimmt, wird nass, also Handys in den vom Anbieter gestellten wasserdichten Beutel legen.\n\nIm Preis enthalten sind Hotelabholung und Ruecktransfer, Rafting und Ausruestung und englischsprachiger Fahrer. Nicht enthalten sind Persoenliche Ausgaben und Trinkgelder, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nBadung Regency.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Hotelabholung und Ruecktransfer",
+   "Rafting und Ausruestung",
+   "englischsprachiger Fahrer"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben",
+   "Trinkgelder"
   ]
  },
  "bali-swing-koi-boat-photo-taman-beji-griya-waterfall-tour-ubud": {
