@@ -49172,6 +49172,20 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "swing-heaven-koi-boat-and-coffee-plantation-tour-in-ubud": {
+  "title": "Swing Heaven, bateau aux carpes koi et plantation de cafe a Ubud",
+  "metaTitle": "Swing Heaven, bateau aux carpes koi et plantation de cafe a Ubud",
+  "shortDescription": "Visite de 8 heures a Ubud, avec prise en charge a l'hotel, experience Bali Swing, occasion de photo avec le bateau aux carpes koi, visite d une plantation de cafe traditionnelle et degustations de cafe et de tisanes. Reservation directe aupres de BALI QUAD BIKE & BUGGY ADVENTURES, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 8 heures a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes balancoires de la jungle pres d'Ubud forment un groupe d'entreprises le long de la gorge de la riviere Ayung autour de Bongkasa et le long de la route au-dessus de Tegallalang, chacune proposant plusieurs balancoires de hauteurs differentes, d'environ 10 metres jusqu'a 78 metres pour la plus haute, ainsi que des nids, des lits suspendus et des accessoires photo. Vous etes attache dans un harnais et pousse par le personnel, et la balancoire oscille au-dessus de la gorge. Les prix sont par balancoire ou en forfait, des robes vaporeuses sont louees sur place pour les photos, et la file d'attente un apres-midi charge est le vrai cout, donc un creneau matinal est celui qu'il faut reserver.\n\nLe prix comprend prise en charge a l'hotel, experience Bali Swing, occasion de photo avec le bateau aux carpes koi, visite d une plantation de cafe traditionnelle et degustations de cafe et de tisanes. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nPrise en charge a l'hotel a Ubud. BALI QUAD BIKE & BUGGY ADVENTURES confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "prise en charge a l'hotel",
+   "experience Bali Swing",
+   "occasion de photo avec le bateau aux carpes koi",
+   "visite d une plantation de cafe traditionnelle",
+   "degustations de cafe et de tisanes"
+  ],
+  "notIncluded": []
+ },
  "gianyar-bali-horse-riding-at-the-beach-ubud": {
   "title": "Gianyar : balade a cheval sur la plage a Bali (Ubud)",
   "metaTitle": "Gianyar : balade a cheval sur la plage a Bali (Ubud)",
@@ -51028,6 +51042,22 @@ export const FR_TOURS: Record<string, TourT> = {
    "photo et video disponibles avec supplement"
   ]
  },
+ "lembongan-tour-with-kayaking-and-buffet-lunch": {
+  "title": "Excursion a Lembongan avec kayak et dejeuner buffet",
+  "metaTitle": "Excursion a Lembongan avec kayak et dejeuner buffet",
+  "shortDescription": "Visite de 5 heures a Nusa Penida, avec Yellow Bridge Port. Reservation directe aupres de Lembongan Water Sport, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 5 heures au depart de Nusa Penida, construite autour de Yellow Bridge Port. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nNusa Lembongan est la petite ile entre Bali et Nusa Penida, a une demi-heure de Sanur en bateau rapide, avec un rythme plus lent que les deux autres. Les journees ici incluent generalement Devil's Tear, ou la houle explose a travers une plateforme rocheuse sur la cote sud-ouest, les canaux de mangrove sur la cote nord-est en petit bateau, et le Pont Jaune vers Nusa Ceningan et son Lagon Bleu. Le snorkeling se pratique au large de la cote nord et dans la derive de Mangrove Point, et les raies manta se rejoignent par une traversee supplementaire jusqu'a Penida. La culture d'algues qui couvrait autrefois les hauts-fonds a presque disparu, mais on peut encore voir les cadres a maree basse.\n\nLe prix comprend transferts aller-retour depuis le port de Toyapakeh et Lembongan, boissons d'accueil et collations, dejeuner buffet au restaurant de la plage de Mesari, excursion terrestre a Lembongan visitant le pont jaune, Panorama Point, Devil s Tears et Dream Beach et assurance pour les personnes de 10 a 64 ans. Il ne comprend pas Prise en charge et retour a l'hotel, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "transferts aller-retour depuis le port de Toyapakeh et Lembongan",
+   "boissons d'accueil et collations",
+   "dejeuner buffet au restaurant de la plage de Mesari",
+   "excursion terrestre a Lembongan visitant le pont jaune, Panorama Point, Devil s Tears et Dream Beach",
+   "assurance pour les personnes de 10 a 64 ans"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel"
+  ]
+ },
  "kelingking-beach-broken-beach-and-sunset-dinner-in-nusa-penida": {
   "title": "Plage de Kelingking, Broken Beach et diner au coucher du soleil a Nusa Penida",
   "metaTitle": "Plage de Kelingking, Broken Beach et diner au coucher du soleil",
@@ -51139,6 +51169,20 @@ export const FR_TOURS: Record<string, TourT> = {
    "etui et sacs etanches"
   ]
  },
+ "nusa-penida-snorkeling-day-trip": {
+  "title": "Excursion de snorkeling d une journee a Nusa Penida",
+  "metaTitle": "Excursion de snorkeling d une journee a Nusa Penida",
+  "shortDescription": "Visite de 3 heures a Nusa Penida, avec Mesari Beach Restaurant et Manta Point and Gamat Bay. Reservation directe aupres de Lembongan Water Sport, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 3 heures au depart de Nusa Penida, construite autour de Mesari Beach Restaurant et Manta Point and Gamat Bay. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nFaire du snorkeling au large de Nusa Penida, c'est avant tout aller a la rencontre des raies manta de recif a Manta Point, sur la cote sud de l'ile, ou elles sont presentes toute l'annee, se nourrissant et se faisant nettoyer dans le ressac au pied des falaises. Les bateaux se deplacent ensuite vers des spots plus calmes comme Crystal Bay, Gamat Bay et le mur de Buyuk pour le corail et les poissons. Entre juillet et octobre, Crystal Bay est aussi l'endroit ou viennent les plongeurs pour le poisson-lune oceanique, le mola mola, qui remonte des eaux profondes pendant les mois plus frais. Manta Point est expose au ressac venant du sud et les bateaux l'evitent quand la mer est agitee, donc une journee ici depend toujours de la meteo. La traversee depuis Sanur dure de trente a quarante-cinq minutes.\n\nLe prix comprend prise en charge et retour a l'hotel dans la zone de Lembongan si l'option est selectionnee, boissons d'accueil et collations et trois sites de snorkeling. Il ne comprend pas retribution maritime IDR 100 000 par personne, si vous l'avez deja payee a votre arrivee sur l'ile, merci d'apporter les billets avec vous, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nPrise en charge a l'hotel a Nusa Penida. Lembongan Water Sport confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "prise en charge et retour a l'hotel dans la zone de Lembongan si l'option est selectionnee",
+   "boissons d'accueil et collations",
+   "trois sites de snorkeling"
+  ],
+  "notIncluded": [
+   "retribution maritime IDR 100 000 par personne, si vous l'avez deja payee a votre arrivee sur l'ile, merci d'apporter les billets avec vous"
+  ]
+ },
  "combine-tour-in-nusa-penida": {
   "title": "Circuit combine a Nusa Penida",
   "metaTitle": "Circuit combine a Nusa Penida",
@@ -51195,6 +51239,23 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "bali-cruise-private-customizable-shore-excursion-north-and-south-uluwatu": {
+  "title": "Croisiere a Bali : excursion a terre privee et personnalisable, nord et sud (Uluwatu)",
+  "metaTitle": "Croisiere a Bali : excursion a terre privee et personnalisable,",
+  "shortDescription": "Visite de 6 heures a Uluwatu, avec Vehicule prive climatise, chauffeur parlant anglais en tant que guide local et prise en charge et retour au port de croisiere de Benoa ou Celukan Bawang selon l'option selectionnee. Reservation directe aupres de Balioversea, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 6 heures a Uluwatu. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLa peninsule de Bukit, le bloc calcaire a la pointe sud de Bali, abrite le temple d'Uluwatu et son Kecak, les plages de falaise, et la statue du Garuda Wisnu Kencana, une figure de 121 metres de Vishnu monte sur Garuda achevee en 2018 apres 28 ans, qui se trouve dans un parc culturel avec des spectacles de danse tout au long de la journee. La peninsule est seche, chaude et presque sans ombre, et les distances entre les plages sont plus longues qu'elles ne paraissent sur une carte, donc un chauffeur pour la journee est le moyen habituel de la visiter. Le coucher du soleil est vers 18h15 a 18h30 toute l'annee, et le sentier de falaise d'Uluwatu se remplit a cette heure.\n\nLe prix comprend Vehicule prive climatise, chauffeur parlant anglais en tant que guide local et prise en charge et retour au port de croisiere de Benoa ou Celukan Bawang selon l'option selectionnee. Il ne comprend pas billets d'entree aux attractions, dejeuner et depenses personnelles, activites optionnelles et services supplementaires et pourboires, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLa prise en charge est proposee depuis Celukan Bawang, Benoa Marina, Port of Celukan Bawang, Bali et Benoa and Bali Cruise Ship Terminal ; le lieu et l'heure exacts sont convenus avec Balioversea une fois la reservation confirmee, et l'option choisie determine si le transport est inclus.\n\nPrise en charge a l'hotel a Uluwatu. Balioversea confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "Vehicule prive climatise",
+   "chauffeur parlant anglais en tant que guide local",
+   "prise en charge et retour au port de croisiere de Benoa ou Celukan Bawang selon l'option selectionnee"
+  ],
+  "notIncluded": [
+   "billets d'entree aux attractions",
+   "dejeuner et depenses personnelles",
+   "activites optionnelles et services supplementaires",
+   "pourboires"
+  ]
+ },
  "surf-lessons-beginner-intermediate-in-uluwatu": {
   "title": "Cours de surf debutant / intermediaire a Uluwatu",
   "metaTitle": "Cours de surf debutant / intermediaire a Uluwatu",
@@ -51218,6 +51279,39 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Depenses personnelles",
    "repas et boissons, sauf mention contraire dans l'option selectionnee"
+  ]
+ },
+ "fly-fish-parasailing-and-kecak-fire-dance-experience-in-uluwatu": {
+  "title": "Flyfish, parachute ascensionnel et danse du feu Kecak a Uluwatu",
+  "metaTitle": "Flyfish, parachute ascensionnel et danse du feu Kecak a Uluwatu",
+  "shortDescription": "Visite de 7 heures a Uluwatu, avec Tanjung Benoa and Kecak Melasti. Reservation directe aupres de PT Basudara Best Bali, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 7 heures au depart de Uluwatu, construite autour de Tanjung Benoa and Kecak Melasti. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nPura Luhur Uluwatu se dresse sur une falaise a environ 70 metres au-dessus de la mer, a la pointe sud-ouest de la peninsule de Bukit, l'un des six temples directionnels de Bali, associe au pretre du onzieme siecle Empu Kuturan. La danse du feu Kecak est executee dans un amphitheatre a cote du temple chaque soir vers 18h00, programmee pour que le coucher de soleil soit derriere les danseurs ; elle dure environ une heure, le chant est assure par un cercle d'hommes sans instruments, et l'histoire racontee est le Ramayana. Des sarongs sont fournis a l'entree. Les singes du temple sont des voleurs experimentes de lunettes de soleil et de telephones, gardez donc les deux dans un sac en marchant sur le sentier de la falaise.\n\nLe prix comprend sport nautique flyfish, Aventure de parachute ascensionnel, assurance pour les sports nautiques, spectacle de danse Kecak a Melasti et prise en charge a l'hotel. Il ne comprend pas pourboire et Depenses personnelles, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLa prise en charge est proposee depuis Gianyar and Ubud ; le lieu et l'heure exacts sont convenus avec PT Basudara Best Bali une fois la reservation confirmee, et l'option choisie determine si le transport est inclus.\n\nPrise en charge a l'hotel a Uluwatu. PT Basudara Best Bali confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "sport nautique flyfish",
+   "Aventure de parachute ascensionnel",
+   "assurance pour les sports nautiques",
+   "spectacle de danse Kecak a Melasti",
+   "prise en charge a l'hotel"
+  ],
+  "notIncluded": [
+   "pourboire",
+   "Depenses personnelles"
+  ]
+ },
+ "surfing-for-all-levels-equipment-included-in-uluwatu": {
+  "title": "Surf pour tous les niveaux, equipement inclus, a Uluwatu",
+  "metaTitle": "Surf pour tous les niveaux, equipement inclus, a Uluwatu",
+  "shortDescription": "Visite a Uluwatu, avec apercu des cours de surf et chez Surf with Tee, nous proposons des cours de surf d une heure et demie maximum, concus pour une experience d apprentissage ciblee et agreable, voici ce a quoi vous attendre. Reservation directe aupres de SURF WITH TEE - ULUWATU, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience a Uluwatu. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes cours de surf autour de Canggu se deroulent sur des beach breaks, surtout a Batu Bolong et Berawa, ou le fond de sable et les vagues lentes et faciles conviennent aux premiers jours. Les cours durent environ deux heures avec une planche en mousse et une courte session sur le sable d'abord, et les instructeurs poussent les debutants dans la mousse plutot que d'attendre les vagues formees. Les matinees avant 9h00 sont les plus propres pendant la saison seche, d'avril a octobre, quand le vent vient du large ; la saison des pluies apporte un surf plus gros et plus desordonne et des vents de terre l'apres-midi. Des lycras sont fournis et les chaussures de recif ne sont pas necessaires sur ces plages. Reservez un deuxieme cours seulement apres le premier ; la plupart des gens se tiennent debout a la fin de celui-ci.\n\nLe prix comprend apercu des cours de surf et chez Surf with Tee, nous proposons des cours de surf d une heure et demie maximum, concus pour une experience d apprentissage ciblee et agreable, voici ce a quoi vous attendre. Il ne comprend pas entree du parking, Repas, boisson et bosse sur la planche, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nPrise en charge a l'hotel a Uluwatu. SURF WITH TEE - ULUWATU confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "apercu des cours de surf",
+   "chez Surf with Tee, nous proposons des cours de surf d une heure et demie maximum, concus pour une experience d apprentissage ciblee et agreable, voici ce a quoi vous attendre"
+  ],
+  "notIncluded": [
+   "entree du parking",
+   "Repas",
+   "boisson",
+   "bosse sur la planche"
   ]
  },
  "south-bali-tour-with-turtle-sanctuary-and-hotel-transfer": {
@@ -51423,6 +51517,20 @@ export const FR_TOURS: Record<string, TourT> = {
    "Depenses personnelles"
   ]
  },
+ "uluwatu-sunset-magic-kecak-padang-padang-cliff-and-dinner-uluwatu": {
+  "title": "Magie du coucher du soleil a Uluwatu : Kecak, falaise de Padang Padang et diner",
+  "metaTitle": "Magie du coucher du soleil a Uluwatu : Kecak, falaise de Padang",
+  "shortDescription": "Visite de 8 heures a Uluwatu, avec visite de la falaise de Padang Padang, visite du temple d'Uluwatu, spectacle de danse Kecak, diner de fruits de mer et prise en charge et retour a l'hotel. Reservation directe aupres de Bali Discount Adventure, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 8 heures a Uluwatu. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nPura Luhur Uluwatu se dresse sur une falaise a environ 70 metres au-dessus de la mer, a la pointe sud-ouest de la peninsule de Bukit, l'un des six temples directionnels de Bali, associe au pretre du onzieme siecle Empu Kuturan. La danse du feu Kecak est executee dans un amphitheatre a cote du temple chaque soir vers 18h00, programmee pour que le coucher de soleil soit derriere les danseurs ; elle dure environ une heure, le chant est assure par un cercle d'hommes sans instruments, et l'histoire racontee est le Ramayana. Des sarongs sont fournis a l'entree. Les singes du temple sont des voleurs experimentes de lunettes de soleil et de telephones, gardez donc les deux dans un sac en marchant sur le sentier de la falaise.\n\nLe prix comprend visite de la falaise de Padang Padang, visite du temple d'Uluwatu, spectacle de danse Kecak, diner de fruits de mer et prise en charge et retour a l'hotel. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "visite de la falaise de Padang Padang",
+   "visite du temple d'Uluwatu",
+   "spectacle de danse Kecak",
+   "diner de fruits de mer",
+   "prise en charge et retour a l'hotel"
+  ],
+  "notIncluded": []
+ },
  "private-uluwatu-gwk-beaches-and-coffee-full-day-tour": {
   "title": "Visite privee d'une journee complete : Uluwatu, GWK, plages et cafe",
   "metaTitle": "Visite privee d'une journee complete : Uluwatu, GWK, plages et",
@@ -51526,6 +51634,21 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Retour a l'hotel"
+  ]
+ },
+ "surfers-paradise-2-hour-surf-experience-in-uluwatu-uluwatu": {
+  "title": "Paradis des surfeurs : experience de surf de 2 heures a Uluwatu",
+  "metaTitle": "Paradis des surfeurs : experience de surf de 2 heures a Uluwatu",
+  "shortDescription": "Visite de 2 heures a Uluwatu, avec coach de surf professionnel, coaching dans l eau et photos et videos de surf. Reservation directe aupres de Cakrawala asia, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 2 heures a Uluwatu. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes cours de surf autour de Canggu se deroulent sur des beach breaks, surtout a Batu Bolong et Berawa, ou le fond de sable et les vagues lentes et faciles conviennent aux premiers jours. Les cours durent environ deux heures avec une planche en mousse et une courte session sur le sable d'abord, et les instructeurs poussent les debutants dans la mousse plutot que d'attendre les vagues formees. Les matinees avant 9h00 sont les plus propres pendant la saison seche, d'avril a octobre, quand le vent vient du large ; la saison des pluies apporte un surf plus gros et plus desordonne et des vents de terre l'apres-midi. Des lycras sont fournis et les chaussures de recif ne sont pas necessaires sur ces plages. Reservez un deuxieme cours seulement apres le premier ; la plupart des gens se tiennent debout a la fin de celui-ci.\n\nLe prix comprend coach de surf professionnel, coaching dans l eau et photos et videos de surf. Il ne comprend pas Prise en charge et retour, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "coach de surf professionnel",
+   "coaching dans l eau",
+   "photos et videos de surf"
+  ],
+  "notIncluded": [
+   "Prise en charge",
+   "retour"
   ]
  },
  "paragliding-tandem-flight-in-pandawa-and-uluwatu-with-a-pilot-uluwatu": {
@@ -51879,6 +52002,23 @@ export const FR_TOURS: Record<string, TourT> = {
    "Depenses personnelles"
   ]
  },
+ "esthetic-and-body-sculpting-massage-sessions-in-canggu": {
+  "title": "Seances de massage esthetique et de sculpture corporelle a Canggu",
+  "metaTitle": "Seances de massage esthetique et de sculpture corporelle a Canggu",
+  "shortDescription": "Visite de 1 heure a Canggu, avec seance de massage personnalisee, choix de la playlist musicale, choix de l ambiance de la salle, soins de massage esthetique et sculpture et remodelage corporel. Reservation directe aupres de VOL MASSAGE & EXP. STUDIO, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 1 heure a Canggu. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLe secteur du bien-etre d'Ubud s'est developpe a partir de son histoire de centre de guerison ; le nom de la ville vient d'ubad, medicament. Le massage balinais est une technique a longs mouvements, a base d'huile, avec de l'acupression, et un gommage boreh, une pate d'epices et de poudre de riz, en est le traitement chauffant traditionnel qui suit. La plupart des seances de spa durent de 60 a 120 minutes et se terminent par un bain de fleurs ou un the au gingembre. Les studios de yoga de la ville enseignent tous les styles, avec des cours ouverts toute la journee ; les seances de guerison sonore utilisent des gongs et des bols chantants et durent environ une heure. Portez des vetements amples, arrivez dix minutes en avance, et mangez leger avant.\n\nLe prix comprend seance de massage personnalisee, choix de la playlist musicale, choix de l ambiance de la salle, soins de massage esthetique et sculpture et remodelage corporel. Il ne comprend pas Repas et boissons et transport jusqu au lieu, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "seance de massage personnalisee",
+   "choix de la playlist musicale",
+   "choix de l ambiance de la salle",
+   "soins de massage esthetique",
+   "sculpture et remodelage corporel"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "transport jusqu au lieu"
+  ]
+ },
  "bbq-party-group-at-salt-restaurant-and-pool-bar-10-pax-in-canggu": {
   "title": "Soiree BBQ de groupe au Salt Restaurant and Pool Bar, 10 personnes, a Canggu",
   "metaTitle": "Soiree BBQ de groupe au Salt Restaurant and Pool Bar, 10",
@@ -51888,6 +52028,22 @@ export const FR_TOURS: Record<string, TourT> = {
    "profitez d'un cadre exterieur decontracte, de delicieuses grillades et de l'ambiance vibrante de Canggu, qui donne le ton d'une soiree memorable avec vos proches"
   ],
   "notIncluded": []
+ },
+ "sport-and-recovery-massage-sessions-in-canggu": {
+  "title": "Seances de massage sportif et de recuperation a Canggu",
+  "metaTitle": "Seances de massage sportif et de recuperation a Canggu",
+  "shortDescription": "Visite de 1 heure a Canggu, avec seance de massage personnalisee, choix de la playlist musicale, choix de l ambiance de la salle et massage sportif pour la performance et la recuperation. Reservation directe aupres de VOL MASSAGE & EXP. STUDIO, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 1 heure a Canggu. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLe secteur du bien-etre d'Ubud s'est developpe a partir de son histoire de centre de guerison ; le nom de la ville vient d'ubad, medicament. Le massage balinais est une technique a longs mouvements, a base d'huile, avec de l'acupression, et un gommage boreh, une pate d'epices et de poudre de riz, en est le traitement chauffant traditionnel qui suit. La plupart des seances de spa durent de 60 a 120 minutes et se terminent par un bain de fleurs ou un the au gingembre. Les studios de yoga de la ville enseignent tous les styles, avec des cours ouverts toute la journee ; les seances de guerison sonore utilisent des gongs et des bols chantants et durent environ une heure. Portez des vetements amples, arrivez dix minutes en avance, et mangez leger avant.\n\nLe prix comprend seance de massage personnalisee, choix de la playlist musicale, choix de l ambiance de la salle et massage sportif pour la performance et la recuperation. Il ne comprend pas Repas et boissons et transport jusqu au point de rendez-vous, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "seance de massage personnalisee",
+   "choix de la playlist musicale",
+   "choix de l ambiance de la salle",
+   "massage sportif pour la performance et la recuperation"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "transport jusqu au point de rendez-vous"
+  ]
  },
  "explore-indonesian-s-iconic-and-hidden-volcano-in-canggu": {
   "title": "Explorez le volcan emblematique et cache d Indonesie depuis Canggu",
@@ -51902,6 +52058,22 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "dejeuner et diner",
    "certificat medical en option"
+  ]
+ },
+ "basic-massage-sessions-in-canggu": {
+  "title": "Seances de massage de base a Canggu",
+  "metaTitle": "Seances de massage de base a Canggu",
+  "shortDescription": "Visite de 1 heure a Canggu, avec seance de massage personnalisee, choix du style de massage, choix de l ambiance de la salle, playlist musicale personnalisee et reglages de pression adaptables. Reservation directe aupres de VOL MASSAGE & EXP. STUDIO, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 1 heure a Canggu. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLe secteur du bien-etre d'Ubud s'est developpe a partir de son histoire de centre de guerison ; le nom de la ville vient d'ubad, medicament. Le massage balinais est une technique a longs mouvements, a base d'huile, avec de l'acupression, et un gommage boreh, une pate d'epices et de poudre de riz, en est le traitement chauffant traditionnel qui suit. La plupart des seances de spa durent de 60 a 120 minutes et se terminent par un bain de fleurs ou un the au gingembre. Les studios de yoga de la ville enseignent tous les styles, avec des cours ouverts toute la journee ; les seances de guerison sonore utilisent des gongs et des bols chantants et durent environ une heure. Portez des vetements amples, arrivez dix minutes en avance, et mangez leger avant.\n\nLe prix comprend seance de massage personnalisee, choix du style de massage, choix de l ambiance de la salle, playlist musicale personnalisee et reglages de pression adaptables. Il ne comprend pas Repas et boissons, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "seance de massage personnalisee",
+   "choix du style de massage",
+   "choix de l ambiance de la salle",
+   "playlist musicale personnalisee",
+   "reglages de pression adaptables"
+  ],
+  "notIncluded": [
+   "Repas et boissons"
   ]
  },
  "half-day-city-tour-with-relaxing-aromatherapy-massage-in-canggu": {
@@ -51996,6 +52168,20 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "meuyah-cooking-class-2-people-in-canggu": {
+  "title": "Cours de cuisine Meuyah pour 2 personnes a Canggu",
+  "metaTitle": "Cours de cuisine Meuyah pour 2 personnes a Canggu",
+  "shortDescription": "Visite de 2 heures a Canggu, avec IDR 429 000 par personne, reservation minimum de 2 personnes, au restaurant Salt et au bar de la piscine, debute a 9h et decouvrez la culture balinaise a travers la nourriture. Reservation directe aupres de EASTIN ASHTA RESORT CANGGU, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 2 heures a Canggu. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes cours de cuisine balinaise commencent generalement par un marche matinal pour acheter les ingredients, puis se poursuivent dans une cour familiale ou une cuisine amenagee pour l'occasion. La base de la plupart des plats est base genep, une pate d'epices a base d'echalotes, d'ail, de galanga, de curcuma, de gingembre, de piments, de noix de bancoule et de pate de crevettes pilees ensemble, et elle donne naissance au sate lilit (viande hachee sur des batonnets de citronnelle), au lawar (une salade hachee avec de la noix de coco et du sang dans la version traditionnelle), au pepes (poisson cuit a la vapeur dans une feuille de bananier) et au riz jaune, nasi kuning. Les cours durent de trois a quatre heures, vous mangez ce que vous preparez a la fin, et des versions vegetariennes sont proposees sur demande.\n\nLe prix comprend IDR 429 000 par personne, reservation minimum de 2 personnes, au restaurant Salt et au bar de la piscine, debute a 9h et decouvrez la culture balinaise a travers la nourriture. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "IDR 429 000 par personne",
+   "reservation minimum de 2 personnes",
+   "au restaurant Salt et au bar de la piscine",
+   "debute a 9h",
+   "decouvrez la culture balinaise a travers la nourriture"
+  ],
+  "notIncluded": []
+ },
  "private-indonesian-sign-language-mini-class-and-dinner-in-canggu": {
   "title": "Mini cours prive de langue des signes indonesienne et diner a Canggu",
   "metaTitle": "Mini cours prive de langue des signes indonesienne et diner a",
@@ -52035,6 +52221,19 @@ export const FR_TOURS: Record<string, TourT> = {
    "heures supplementaires, 50 K IDR par heure",
    "pourboires facultatifs"
   ]
+ },
+ "pool-pass-with-drink-sunbed-and-towel-in-canggu": {
+  "title": "Acces piscine avec boisson, transat et serviette a Canggu",
+  "metaTitle": "Acces piscine avec boisson, transat et serviette a Canggu",
+  "shortDescription": "Visite a Canggu, avec mimosa offert a l'arrivee, 20 pourcent de reduction sur toute la nourriture et les boissons, transat et serviette selon disponibilite et profitez de notre restaurant Salt et du bar de la piscine, ouverts tous les jours de 12h00 a 22h00. Reservation directe aupres de EASTIN ASHTA RESORT CANGGU, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience a Canggu. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLe prix comprend mimosa offert a l'arrivee, 20 pourcent de reduction sur toute la nourriture et les boissons, transat et serviette selon disponibilite et profitez de notre restaurant Salt et du bar de la piscine, ouverts tous les jours de 12h00 a 22h00. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "mimosa offert a l'arrivee",
+   "20 pourcent de reduction sur toute la nourriture et les boissons",
+   "transat et serviette selon disponibilite",
+   "profitez de notre restaurant Salt et du bar de la piscine, ouverts tous les jours de 12h00 a 22h00"
+  ],
+  "notIncluded": []
  },
  "museum-traditional-market-and-food-tasting-tour-in-canggu": {
   "title": "Musee, marche traditionnel et degustation culinaire a Canggu",
@@ -52078,6 +52277,23 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "nourriture ou boissons supplementaires en dehors du repas inclus",
    "Depenses personnelles"
+  ]
+ },
+ "kuta-silver-and-brass-jewelry-making-with-gold-plating-option-canggu": {
+  "title": "Fabrication de bijoux en argent et laiton a Kuta avec option de placage or (Canggu)",
+  "metaTitle": "Fabrication de bijoux en argent et laiton a Kuta avec option de",
+  "shortDescription": "Visite de 2 heures a Canggu, avec atelier de fabrication de bijoux, accompagnement par l'instructeur, studio climatise, wifi gratuit et 1/6 gramme d'argent pur ou de laiton (1/10 gramme pour un modele de bijou). Reservation directe aupres de Big Tree Jewelry Classes, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 2 heures a Canggu. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nUbud est le centre des villages d'artisanat de Bali : Celuk pour le travail de l'argent et de l'or, Mas pour la sculpture sur bois, Batuan pour son style de peinture, et Batubulan pour la pierre. Les cours d'artisanat reproduisent les memes savoir-faire dans un atelier avec un instructeur et durent de trois a quatre heures, et vous partez avec la piece que vous avez realisee. Les cours d'argenterie travaillent l'argent sterling avec des outils a main, des scies et un chalumeau ; les cours de sculpture travaillent le bois tendre d'hibiscus ou de jacquier ; le batik utilise de la cire chaude et de la teinture sur coton et necessite du temps pour secher. Les cours sont pratiques plutot que des demonstrations, donc portez des vetements qui peuvent supporter la teinture ou la cire.\n\nLe prix comprend atelier de fabrication de bijoux, accompagnement par l'instructeur, studio climatise, wifi gratuit et 1/6 gramme d'argent pur ou de laiton (1/10 gramme pour un modele de bijou). Il ne comprend pas transport vers le studio et Repas, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "atelier de fabrication de bijoux",
+   "accompagnement par l'instructeur",
+   "studio climatise",
+   "wifi gratuit",
+   "1/6 gramme d'argent pur ou de laiton (1/10 gramme pour un modele de bijou)"
+  ],
+  "notIncluded": [
+   "transport vers le studio",
+   "Repas"
   ]
  },
  "silver-and-brass-jewelry-class-with-gold-plating-option-in-canggu": {
@@ -52197,6 +52413,24 @@ export const FR_TOURS: Record<string, TourT> = {
    "services photo et video professionnels"
   ]
  },
+ "sugandha-abhyanga-a-shiatsu-inspired-massage-in-ubud": {
+  "title": "Sugandha Abhyanga : un massage inspire du shiatsu a Ubud",
+  "metaTitle": "Sugandha Abhyanga : un massage inspire du shiatsu a Ubud",
+  "shortDescription": "Visite de 1,5 heures a Ubud, avec boisson d'accueil, serviettes froides a l'arrivee, massage inspire du shiatsu, therapie a l'huile d'herbes chaude et acces a la piscine. Reservation directe aupres de Sanggraloka Farm, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 1,5 heures a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLe secteur du bien-etre d'Ubud s'est developpe a partir de son histoire de centre de guerison ; le nom de la ville vient d'ubad, medicament. Le massage balinais est une technique a longs mouvements, a base d'huile, avec de l'acupression, et un gommage boreh, une pate d'epices et de poudre de riz, en est le traitement chauffant traditionnel qui suit. La plupart des seances de spa durent de 60 a 120 minutes et se terminent par un bain de fleurs ou un the au gingembre. Les studios de yoga de la ville enseignent tous les styles, avec des cours ouverts toute la journee ; les seances de guerison sonore utilisent des gongs et des bols chantants et durent environ une heure. Portez des vetements amples, arrivez dix minutes en avance, et mangez leger avant.\n\nLe prix comprend boisson d'accueil, serviettes froides a l'arrivee, massage inspire du shiatsu, therapie a l'huile d'herbes chaude et acces a la piscine. Il ne comprend pas Repas, hebergement et transport, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "boisson d'accueil",
+   "serviettes froides a l'arrivee",
+   "massage inspire du shiatsu",
+   "therapie a l'huile d'herbes chaude",
+   "acces a la piscine"
+  ],
+  "notIncluded": [
+   "Repas",
+   "hebergement",
+   "transport"
+  ]
+ },
  "craft-your-own-silver-ring-and-arma-art-gallery-tour-in-ubud": {
   "title": "Fabriquez votre propre bague en argent et visitez la galerie d art ARMA a Ubud",
   "metaTitle": "Fabriquez votre propre bague en argent et visitez la galerie d",
@@ -52225,6 +52459,23 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Depenses personnelles",
    "Dejeuner"
+  ]
+ },
+ "eco-printing-workshop-with-farm-visit-in-ubud": {
+  "title": "Atelier d eco-impression avec visite de la ferme a Ubud",
+  "metaTitle": "Atelier d eco-impression avec visite de la ferme a Ubud",
+  "shortDescription": "Visite de 3 heures a Ubud, avec visite de la ferme, atelier d eco-impression, acces aux zones de piscine publique du complexe et acces a l escalator exterieur. Reservation directe aupres de Sanggraloka Farm, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 3 heures a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nUne journee de village balinais tourne autour de la cour familiale et du cycle du riz. Une cour familiale est un groupe mure de pavillons autour d'un temple domestique, dispose selon un schema fixe avec l'autel du cote de la montagne ; la cuisine et le grenier a riz ont leur propre place. Autour, les rizieres suivent le calendrier subak, plantation, inondation, recolte et sechage sur la route, et les champs sont travailles a la main et au motoculteur. Les matinees commencent tot : le marche a l'aube, les offrandes, le petit-dejeuner de riz et de cafe. Ce type de visite est accueilli par la famille, et quelques mots d'indonesien, un sarong pour le temple et les chaussures retirees a la porte sont les egards qui comptent.\n\nLe prix comprend visite de la ferme, atelier d eco-impression, acces aux zones de piscine publique du complexe et acces a l escalator exterieur. Il ne comprend pas Repas et boissons, transport et hebergement, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "visite de la ferme",
+   "atelier d eco-impression",
+   "acces aux zones de piscine publique du complexe",
+   "acces a l escalator exterieur"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "transport",
+   "hebergement"
   ]
  },
  "mount-batur-sunrise-jeep-with-waterfall-and-riceterrace-tour-ubud": {
@@ -52291,6 +52542,23 @@ export const FR_TOURS: Record<string, TourT> = {
    "Billets d'entree",
    "Dejeuner",
    "Pourboires"
+  ]
+ },
+ "swing-monkey-forest-coffee-and-tlaga-singha-tour-in-ubud": {
+  "title": "Balancoire, foret des singes, cafe et visite de Tlaga Singha a Ubud",
+  "metaTitle": "Balancoire, foret des singes, cafe et visite de Tlaga Singha a",
+  "shortDescription": "Visite de 8 heures a Ubud, avec Prise en charge et retour a l'hotel, transport et chauffeur professionnel et guide local. Reservation directe aupres de Tour Activity Bali, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 8 heures a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLa Foret Sacree des Singes de Padangtegal, au sud de la ville d'Ubud, couvre environ 12 hectares de foret abritant environ un millier de macaques a longue queue et trois temples datant du quatorzieme siecle. Les singes sont sauvages et habitues aux gens, une combinaison qui coute chaque jour aux visiteurs des lunettes de soleil, des bouteilles d'eau et tout ce qui est comestible; la regle est de ne rien porter de non attache, d'eviter le contact visuel avec un singe qui vous fixe, et de ne jamais en toucher un. La foret ouvre a 9h00 et la derniere heure avant la fermeture est la plus calme. Les temples a l'interieur sont des temples en activite et ne sont accessibles qu'aux fideles.\n\nLe prix comprend Prise en charge et retour a l'hotel, transport et chauffeur professionnel et guide local. Il ne comprend pas billet et forfait Bali Swing, nourriture et repas, Depenses personnelles et souvenirs ou produits a base de cafe, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLa prise en charge est proposee depuis Nusa dua and Denpasar ; le lieu et l'heure exacts sont convenus avec Tour Activity Bali une fois la reservation confirmee, et l'option choisie determine si le transport est inclus.\n\nPrise en charge a l'hotel a Ubud. Tour Activity Bali confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "Prise en charge et retour a l'hotel",
+   "transport",
+   "chauffeur professionnel et guide local"
+  ],
+  "notIncluded": [
+   "billet et forfait Bali Swing",
+   "nourriture et repas",
+   "Depenses personnelles",
+   "souvenirs ou produits a base de cafe"
   ]
  },
  "waterfall-rice-terrace-temple-and-monkey-forest-tour-in-ubud": {
@@ -52467,6 +52735,41 @@ export const FR_TOURS: Record<string, TourT> = {
    "nourriture et boissons supplementaires"
   ]
  },
+ "tlaga-singha-massage-and-bali-zoo-day-trip-ubud": {
+  "title": "Tlaga Singha, massage et excursion d une journee au zoo de Bali, Ubud",
+  "metaTitle": "Tlaga Singha, massage et excursion d une journee au zoo de Bali,",
+  "shortDescription": "Visite de 8 heures a Ubud, avec transport climatise, chauffeur local professionnel et guide touristique et billet d'entree a la piscine a debordement Tlaga Singha. Reservation directe aupres de Tour Activity Bali, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 8 heures a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLe secteur du bien-etre d'Ubud s'est developpe a partir de son histoire de centre de guerison ; le nom de la ville vient d'ubad, medicament. Le massage balinais est une technique a longs mouvements, a base d'huile, avec de l'acupression, et un gommage boreh, une pate d'epices et de poudre de riz, en est le traitement chauffant traditionnel qui suit. La plupart des seances de spa durent de 60 a 120 minutes et se terminent par un bain de fleurs ou un the au gingembre. Les studios de yoga de la ville enseignent tous les styles, avec des cours ouverts toute la journee ; les seances de guerison sonore utilisent des gongs et des bols chantants et durent environ une heure. Portez des vetements amples, arrivez dix minutes en avance, et mangez leger avant.\n\nLe prix comprend transport climatise, chauffeur local professionnel et guide touristique et billet d'entree a la piscine a debordement Tlaga Singha. Il ne comprend pas nourriture et repas, Depenses personnelles, activites supplementaires non mentionnees dans l'itineraire et Pourboires, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nPrise en charge a l'hotel a Ubud. Tour Activity Bali confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "transport climatise",
+   "chauffeur local professionnel et guide touristique",
+   "billet d'entree a la piscine a debordement Tlaga Singha"
+  ],
+  "notIncluded": [
+   "nourriture et repas",
+   "Depenses personnelles",
+   "activites supplementaires non mentionnees dans l'itineraire",
+   "Pourboires"
+  ]
+ },
+ "balinese-massage-and-singing-bowl-ritual-with-spa-access-in-ubud": {
+  "title": "Massage balinais et rituel aux bols chantants avec acces au spa a Ubud",
+  "metaTitle": "Massage balinais et rituel aux bols chantants avec acces au spa",
+  "shortDescription": "Visite de 1 heure a Ubud, avec boisson d'accueil, serviettes froides a l'arrivee, rituel Shanti Nada, massage balinais traditionnel et bols chantants tibetains. Reservation directe aupres de Sanggraloka Farm, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 1 heure a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLe secteur du bien-etre d'Ubud s'est developpe a partir de son histoire de centre de guerison ; le nom de la ville vient d'ubad, medicament. Le massage balinais est une technique a longs mouvements, a base d'huile, avec de l'acupression, et un gommage boreh, une pate d'epices et de poudre de riz, en est le traitement chauffant traditionnel qui suit. La plupart des seances de spa durent de 60 a 120 minutes et se terminent par un bain de fleurs ou un the au gingembre. Les studios de yoga de la ville enseignent tous les styles, avec des cours ouverts toute la journee ; les seances de guerison sonore utilisent des gongs et des bols chantants et durent environ une heure. Portez des vetements amples, arrivez dix minutes en avance, et mangez leger avant.\n\nLe prix comprend boisson d'accueil, serviettes froides a l'arrivee, rituel Shanti Nada, massage balinais traditionnel et bols chantants tibetains. Il ne comprend pas Repas, transport et hebergement, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "boisson d'accueil",
+   "serviettes froides a l'arrivee",
+   "rituel Shanti Nada",
+   "massage balinais traditionnel",
+   "bols chantants tibetains"
+  ],
+  "notIncluded": [
+   "Repas",
+   "transport",
+   "hebergement"
+  ]
+ },
  "combo-activity-water-rafting-heaven-swing-and-atv-quad-bike-in-ubud": {
   "title": "Combo : rafting, balancoire Heaven Swing et quad ATV a Ubud",
   "metaTitle": "Combo : rafting, balancoire Heaven Swing et quad ATV a Ubud",
@@ -52536,6 +52839,23 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "photos et videos",
+   "Pourboires"
+  ]
+ },
+ "tlaga-singha-infinity-pool-and-buggy-adventure-ubud": {
+  "title": "Piscine a debordement de Tlaga Singha et aventure en buggy, Ubud",
+  "metaTitle": "Piscine a debordement de Tlaga Singha et aventure en buggy, Ubud",
+  "shortDescription": "Visite de 8 heures a Ubud, avec transport prive climatise, chauffeur et guide locaux professionnels et billet d'entree a la piscine a debordement Tlaga Singha. Reservation directe aupres de Tour Activity Bali, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 8 heures a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes pistes de quad autour d'Ubud traversent les villages au nord de la ville, pres de Payangan et de Tegallalang, sur un melange de chemin de terre, de piste de plantation, de lit de riviere et, sur la plupart des parcours, un passage de boue profonde qui reste le souvenir marquant. Les balades durent generalement de 1h30 a 2 heures sur l'engin, en quad tandem ou individuel, avec un guide en tete. Vous serez sales des genoux vers le bas, et souvent entierement, donc portez des vetements auxquels vous ne tenez pas ; les operateurs fournissent bottes, casques et une douche ensuite. L'age minimum pour conduire varie selon l'operateur et est indique sur l'option, et les enfants roulent generalement en tant que passagers.\n\nLe prix comprend transport prive climatise, chauffeur et guide locaux professionnels et billet d'entree a la piscine a debordement Tlaga Singha. Il ne comprend pas nourriture et repas, Depenses personnelles, activites supplementaires non mentionnees dans l'itineraire et Pourboires, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nPrise en charge a l'hotel a Ubud. Tour Activity Bali confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "transport prive climatise",
+   "chauffeur et guide locaux professionnels",
+   "billet d'entree a la piscine a debordement Tlaga Singha"
+  ],
+  "notIncluded": [
+   "nourriture et repas",
+   "Depenses personnelles",
+   "activites supplementaires non mentionnees dans l'itineraire",
    "Pourboires"
   ]
  },
