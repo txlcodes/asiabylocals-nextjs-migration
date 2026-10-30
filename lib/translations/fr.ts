@@ -47355,6 +47355,23 @@ export const FR_TOURS: Record<string, TourT> = {
    "Transfert a l'hotel"
   ]
  },
+ "monkey-forest-rice-terraces-and-waterfall-in-ubud": {
+  "title": "Foret des singes, rizieres et cascade a Ubud",
+  "metaTitle": "Foret des singes, rizieres et cascade a Ubud",
+  "shortDescription": "Visite de 10 heures a Ubud, avec Sacred Monkey Forest Sanctuary and Tegallalang. Reservation directe aupres de Baliosa Tour, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 10 heures au depart de Ubud, construite autour de Sacred Monkey Forest Sanctuary and Tegallalang. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes rizieres en terrasses de Tegallalang se trouvent a vingt minutes au nord d'Ubud sur la route de Kintamani, et ce sont de veritables rizieres irriguees par le systeme subak, classe par l'UNESCO en 2012. Avant environ 8h30 le matin, la vallee appartient aux agriculteurs, les rizieres sont encore humides de la nuit, et il fait assez frais pour marcher a travers les terrasses et remonter de l'autre cote. Vers dix heures, les cars venus du sud arrivent et la route au-dessus des terrasses devient une succession de cafes, de balancoires et de plateformes photo. Il y a un petit droit d'entree au point de vue, et des agriculteurs le long des sentiers a travers les champs demandent quelques milliers de roupies pour traverser leur terrain, ce qui est normal. Les balancoires sont des commerces independants avec leurs propres tarifs.\n\nLe prix comprend Prise en charge et retour a l'hotel, location de vehicule, guide touristique parlant espagnol, Droits d'entree et parking. Il ne comprend pas supplements photographe personnel et articles de nature personnelle, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLa prise en charge est proposee depuis Bali et Kuta and Ubud ; le lieu et l'heure exacts sont convenus avec Baliosa Tour une fois la reservation confirmee, et l'option choisie determine si le transport est inclus.\n\nPrise en charge a l'hotel a Ubud. Baliosa Tour confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "Prise en charge et retour a l'hotel",
+   "location de vehicule",
+   "guide touristique parlant espagnol",
+   "Droits d'entree",
+   "parking"
+  ],
+  "notIncluded": [
+   "supplements photographe personnel",
+   "articles de nature personnelle"
+  ]
+ },
  "utv-buggy-adventure-in-bali-thrills-in-the-heart-of-nature-ubud": {
   "title": "Aventure en buggy UTV a Bali - sensations fortes au coeur de la nature (Ubud)",
   "metaTitle": "Aventure en buggy UTV a Bali - sensations fortes au coeur de la",
@@ -47632,6 +47649,22 @@ export const FR_TOURS: Record<string, TourT> = {
    "Depenses personnelles"
   ]
  },
+ "guided-quad-bike-atv-adventure-with-waterfall-and-tunnel-in-ubud": {
+  "title": "Aventure guidee en quad ATV avec cascade et tunnel a Ubud",
+  "metaTitle": "Aventure guidee en quad ATV avec cascade et tunnel a Ubud",
+  "shortDescription": "Visite de 3 heures a Ubud, avec experience guidee en quad ATV, option solo ou tandem, guide et instructeur ATV professionnels et equipement de securite : casque et bottes en caoutchouc. Reservation directe aupres de synergy tour, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 3 heures a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes cascades autour d'Ubud se situent dans une bande a l'est et au sud de la ville, pour la plupart a moins d'une heure de route. Tegenungan est la plus proche et la plus frequentee, avec une large chute et un bassin au pied. Tibumana et Kanto Lampo, toutes deux dans la region de Bangli, sont plus petites et plus propices a la baignade : Tibumana tombe en un seul rideau dans un bassin clair, et a Kanto Lampo l'eau se deploie sur une paroi rocheuse en gradins sur laquelle les visiteurs grimpent pour les photos. Toutes impliquent de descendre puis de remonter des marches, et les rochers sont glissants, donc des sandales ou des chaussures adaptees a l'eau sont le bon choix. La saison des pluies, de novembre a mars, apporte le debit le plus abondant mais aussi une eau brunatre pendant un jour ou deux apres de fortes pluies.\n\nLe prix comprend experience guidee en quad ATV, option solo ou tandem, guide et instructeur ATV professionnels et equipement de securite : casque et bottes en caoutchouc. Il ne comprend pas Prise en charge et retour a l'hotel, documentation photo ou video personnelle et depenses et pourboires pour le guide, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "experience guidee en quad ATV, option solo ou tandem",
+   "guide et instructeur ATV professionnels",
+   "equipement de securite : casque et bottes en caoutchouc"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel",
+   "documentation photo ou video personnelle",
+   "depenses et pourboires pour le guide"
+  ]
+ },
  "mount-agung-sunrise-trekking-with-breakfast-all-inclusive-in-ubud": {
   "title": "Randonnee au lever du soleil au mont Agung avec petit-dejeuner, tout compris, depuis Ubud",
   "metaTitle": "Randonnee au lever du soleil au mont Agung avec petit-dejeuner,",
@@ -47661,6 +47694,23 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Frais supplementaires de 100 000 IDR par gramme au-dela de 5 grammes d'argent"
+  ]
+ },
+ "jatiluwih-rice-terraces-waterfall-and-temple-tour": {
+  "title": "Rizieres en terrasses de Jatiluwih, cascade et temple",
+  "metaTitle": "Rizieres en terrasses de Jatiluwih, cascade et temple",
+  "shortDescription": "Visite a Ubud, avec visite des rizieres en terrasses de Jatiluwih, visite de la cascade de Leke Leke, visite du temple Ulun Danu Beratan, point de vue des lacs jumeaux et seance de degustation de cafe offerte. Reservation directe aupres de BALIVOYA TOUR, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nJatiluwih est la plus vaste etendue de rizieres en terrasses de Bali, environ 600 hectares sur les pentes sud du mont Batukaru a Tabanan, et c'est la vitrine du systeme d'irrigation subak classe par l'UNESCO en 2012. A la difference de Tegallalang, il y a de la place pour marcher une heure ou deux sur des sentiers balises a travers les champs, sans circulation ni balancoires, et les terrasses y sont larges et plates plutot qu'escarpees. Le riz est plante par cycles, donc les champs sont d'un vert vif certains mois et en chaume coupe d'autres; demandez a l'operateur a quel stade ils en sont si les photos vous importent. Les matinees sont plus claires, et les nuages tendent a s'accumuler au-dessus du Batukaru apres midi.\n\nLe prix comprend visite des rizieres en terrasses de Jatiluwih, visite de la cascade de Leke Leke, visite du temple Ulun Danu Beratan, point de vue des lacs jumeaux et seance de degustation de cafe offerte. Il ne comprend pas Dejeuner et frais d'entree aux attractions, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLa prise en charge est proposee depuis Kuta, Ubud, Ubud Palace, Kuta Beach et Canggu Beach and Seminyak Beach ; le lieu et l'heure exacts sont convenus avec BALIVOYA TOUR une fois la reservation confirmee, et l'option choisie determine si le transport est inclus.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "visite des rizieres en terrasses de Jatiluwih",
+   "visite de la cascade de Leke Leke",
+   "visite du temple Ulun Danu Beratan",
+   "point de vue des lacs jumeaux",
+   "seance de degustation de cafe offerte"
+  ],
+  "notIncluded": [
+   "Dejeuner",
+   "frais d'entree aux attractions"
   ]
  },
  "tegalalang-rice-terrace-private-swing-tour-with-pickup-in-ubud": {
@@ -47980,6 +48030,23 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Depenses personnelles"
+  ]
+ },
+ "make-a-leather-wallet-your-way-ubud-craft-experience-ubud": {
+  "title": "Fabriquez un portefeuille en cuir a votre facon, experience artisanale a Ubud",
+  "metaTitle": "Fabriquez un portefeuille en cuir a votre facon, experience",
+  "shortDescription": "Visite de 2 heures a Ubud, avec atelier de travail du cuir, materiaux pour fabriquer un portefeuille en cuir, accompagnement etape par etape par une equipe d'atelier experimentee, personnalisation par gravure laser et une boisson offerte. Reservation directe aupres de My Leather Workshop Coffee, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 2 heures a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nUbud est le centre des villages d'artisanat de Bali : Celuk pour le travail de l'argent et de l'or, Mas pour la sculpture sur bois, Batuan pour son style de peinture, et Batubulan pour la pierre. Les cours d'artisanat reproduisent les memes savoir-faire dans un atelier avec un instructeur et durent de trois a quatre heures, et vous partez avec la piece que vous avez realisee. Les cours d'argenterie travaillent l'argent sterling avec des outils a main, des scies et un chalumeau ; les cours de sculpture travaillent le bois tendre d'hibiscus ou de jacquier ; le batik utilise de la cire chaude et de la teinture sur coton et necessite du temps pour secher. Les cours sont pratiques plutot que des demonstrations, donc portez des vetements qui peuvent supporter la teinture ou la cire.\n\nLe prix comprend atelier de travail du cuir, materiaux pour fabriquer un portefeuille en cuir, accompagnement etape par etape par une equipe d'atelier experimentee, personnalisation par gravure laser et une boisson offerte. Il ne comprend pas boissons supplementaires et Repas, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "atelier de travail du cuir",
+   "materiaux pour fabriquer un portefeuille en cuir",
+   "accompagnement etape par etape par une equipe d'atelier experimentee",
+   "personnalisation par gravure laser",
+   "une boisson offerte"
+  ],
+  "notIncluded": [
+   "boissons supplementaires",
+   "Repas"
   ]
  },
  "private-telaga-waja-river-rafting-with-lunch-in-ubud": {
@@ -54870,6 +54937,20 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "buggy-adventure-meal-and-water-tubing-experience-in-ubud": {
+  "title": "Aventure en buggy, repas et experience de bouee sur eau a Ubud",
+  "metaTitle": "Aventure en buggy, repas et experience de bouee sur eau a Ubud",
+  "shortDescription": "Visite de 1 heure a Ubud, avec balade en buggy tout-terrain, repas local et experience de bouee sur eau. Reservation directe aupres de PT BATOUR NET BALI, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 1 heure a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes pistes de quad autour d'Ubud traversent les villages au nord de la ville, pres de Payangan et de Tegallalang, sur un melange de chemin de terre, de piste de plantation, de lit de riviere et, sur la plupart des parcours, un passage de boue profonde qui reste le souvenir marquant. Les balades durent generalement de 1h30 a 2 heures sur l'engin, en quad tandem ou individuel, avec un guide en tete. Vous serez sales des genoux vers le bas, et souvent entierement, donc portez des vetements auxquels vous ne tenez pas ; les operateurs fournissent bottes, casques et une douche ensuite. L'age minimum pour conduire varie selon l'operateur et est indique sur l'option, et les enfants roulent generalement en tant que passagers.\n\nLe prix comprend balade en buggy tout-terrain, repas local et experience de bouee sur eau. Il ne comprend pas depenses personnelles, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "balade en buggy tout-terrain",
+   "repas local",
+   "experience de bouee sur eau"
+  ],
+  "notIncluded": [
+   "depenses personnelles"
+  ]
+ },
  "ultimate-atv-350-cc-exclusive-track-with-lunch-in-ubud": {
   "title": "ATV ultime 350 cc sur piste exclusive avec dejeuner a Ubud",
   "metaTitle": "ATV ultime 350 cc sur piste exclusive avec dejeuner a Ubud",
@@ -54938,6 +55019,22 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "balinese-massage-collection-at-atisha-day-spa-in-ubud": {
+  "title": "Collection de massages balinais au Atisha Day Spa a Ubud",
+  "metaTitle": "Collection de massages balinais au Atisha Day Spa a Ubud",
+  "shortDescription": "Visite de 60 minutes a Ubud, avec boisson d'accueil, bain de pieds, tisane apres le soin et soin de votre choix. Reservation directe aupres de Atisha Spa Ubud, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 60 minutes a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLe secteur du bien-etre d'Ubud s'est developpe a partir de son histoire de centre de guerison ; le nom de la ville vient d'ubad, medicament. Le massage balinais est une technique a longs mouvements, a base d'huile, avec de l'acupression, et un gommage boreh, une pate d'epices et de poudre de riz, en est le traitement chauffant traditionnel qui suit. La plupart des seances de spa durent de 60 a 120 minutes et se terminent par un bain de fleurs ou un the au gingembre. Les studios de yoga de la ville enseignent tous les styles, avec des cours ouverts toute la journee ; les seances de guerison sonore utilisent des gongs et des bols chantants et durent environ une heure. Portez des vetements amples, arrivez dix minutes en avance, et mangez leger avant.\n\nLe prix comprend boisson d'accueil, bain de pieds, tisane apres le soin et soin de votre choix. Il ne comprend pas pourboires optionnels, a la discretion du client et Depenses personnelles, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "boisson d'accueil",
+   "bain de pieds",
+   "tisane apres le soin",
+   "soin de votre choix"
+  ],
+  "notIncluded": [
+   "pourboires optionnels, a la discretion du client",
+   "Depenses personnelles"
+  ]
+ },
  "water-temple-waterfalls-and-unesco-rice-terrace-tour-in-ubud": {
   "title": "Temple de l'eau, cascades et riziere en terrasses classee UNESCO a Ubud",
   "metaTitle": "Temple de l'eau, cascades et riziere en terrasses classee UNESCO",
@@ -54997,6 +55094,21 @@ export const FR_TOURS: Record<string, TourT> = {
    "Repas"
   ]
  },
+ "traditional-wedding-photoshoot-with-the-rice-field-view-in-ubud": {
+  "title": "Seance photo de mariage traditionnel avec vue sur les rizieres a Ubud",
+  "metaTitle": "Seance photo de mariage traditionnel avec vue sur les rizieres a",
+  "shortDescription": "Visite de 2 heures a Ubud, avec U Fun Field- Swing zipline & more. Reservation directe aupres de U Fun Field, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 2 heures au depart de Ubud, construite autour de U Fun Field- Swing zipline & more. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes rizieres en terrasses de Tegallalang se trouvent a vingt minutes au nord d'Ubud sur la route de Kintamani, et ce sont de veritables rizieres irriguees par le systeme subak, classe par l'UNESCO en 2012. Avant environ 8h30 le matin, la vallee appartient aux agriculteurs, les rizieres sont encore humides de la nuit, et il fait assez frais pour marcher a travers les terrasses et remonter de l'autre cote. Vers dix heures, les cars venus du sud arrivent et la route au-dessus des terrasses devient une succession de cafes, de balancoires et de plateformes photo. Il y a un petit droit d'entree au point de vue, et des agriculteurs le long des sentiers a travers les champs demandent quelques milliers de roupies pour traverser leur terrain, ce qui est normal. Les balancoires sont des commerces independants avec leurs propres tarifs.\n\nLe prix comprend billet d'entree a U Fun Field, un parc d'activites de plein air, costume de mariage balinais complet et accessoires complets. Il ne comprend pas nourriture et boissons au restaurant sur place et Depenses personnelles, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "billet d'entree a U Fun Field, un parc d'activites de plein air",
+   "costume de mariage balinais complet",
+   "accessoires complets"
+  ],
+  "notIncluded": [
+   "nourriture et boissons au restaurant sur place",
+   "Depenses personnelles"
+  ]
+ },
  "bali-unesco-sites-and-coffee-tasting-shared-or-private-tour-ubud": {
   "title": "Sites UNESCO de Bali et degustation de cafe : excursion partagee ou privee (Ubud)",
   "metaTitle": "Sites UNESCO de Bali et degustation de cafe : excursion partagee",
@@ -55041,6 +55153,20 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Depenses personnelles",
    "service de photographie, forfaits a choisir sur place avec supplement"
+  ]
+ },
+ "ubud-gorilla-atv-ride-adventure-and-beach-horse-riding": {
+  "title": "Aventure en ATV Gorilla a Ubud et equitation sur la plage",
+  "metaTitle": "Aventure en ATV Gorilla a Ubud et equitation sur la plage",
+  "shortDescription": "Visite de 1,5 heures a Ubud, avec Ubud et Gorilla ATV Adventure and Bali Horse Riding. Reservation directe aupres de PT. Gorilla Adventures Bali, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 1,5 heures a Ubud, construite autour de Ubud et Gorilla ATV Adventure and Bali Horse Riding. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes pistes de quad autour d'Ubud traversent les villages au nord de la ville, pres de Payangan et de Tegallalang, sur un melange de chemin de terre, de piste de plantation, de lit de riviere et, sur la plupart des parcours, un passage de boue profonde qui reste le souvenir marquant. Les balades durent generalement de 1h30 a 2 heures sur l'engin, en quad tandem ou individuel, avec un guide en tete. Vous serez sales des genoux vers le bas, et souvent entierement, donc portez des vetements auxquels vous ne tenez pas ; les operateurs fournissent bottes, casques et une douche ensuite. L'age minimum pour conduire varie selon l'operateur et est indique sur l'option, et les enfants roulent generalement en tant que passagers.\n\nLe prix comprend transfert aller-retour vers votre hotel si l'option est selectionnee et balade en ATV de 1h30 a travers le tunnel de la grotte Gorilla. Il ne comprend pas dejeuner si non inclus dans le forfait et service de transfert a l'hotel si vous reservez l'option point de rendez-vous, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "transfert aller-retour vers votre hotel si l'option est selectionnee",
+   "balade en ATV de 1h30 a travers le tunnel de la grotte Gorilla"
+  ],
+  "notIncluded": [
+   "dejeuner si non inclus dans le forfait",
+   "service de transfert a l'hotel si vous reservez l'option point de rendez-vous"
   ]
  },
  "mount-batur-sunset-sunrise-4wd-jeep-tour-with-photographer-ubud": {
@@ -55105,6 +55231,20 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "repas et depenses personnelles",
    "acces a la balancoire dans la jungle, supplement optionnel disponible"
+  ]
+ },
+ "kintamani-downhill-bike-tour-and-firefly-watching": {
+  "title": "Excursion a velo en descente a Kintamani et observation des lucioles",
+  "metaTitle": "Excursion a velo en descente a Kintamani et observation des",
+  "shortDescription": "Visite de 4 heures a Ubud, avec Kintamani and Taro. Reservation directe aupres de The Authentic Bali Experience, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 4 heures au depart de Ubud, construite autour de Kintamani and Taro. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nKintamani est la crete sur le bord de la caldeira du Batur, a environ 1 500 metres, et le point de vue de Penelokan surplombe le volcan, le champ de lave de l'eruption de 1968 et le lac Batur. Il fait assez frais pour une veste. Penglipuran, a Bangli sur la route qui monte, est un village traditionnel aux ruelles pavees de pierre et aux enclos a toit de bambou, dont l'agencement est maintenu selon des regles villageoises, avec une foret de bambous derriere. Les plantations de cafe le long de cette route proposent des degustations d'arabica et de robusta locaux ainsi que le kopi luwak traite par les civettes; les degustations sont gratuites avec l'attente d'un achat, et les civettes en cage de certaines d'entre elles valent la peine d'etre questionnees avant d'acheter.\n\nLe prix comprend transport gratuit pour la prise en charge et le retour dans la zone d'Ubud jusqu'au point de depart, visite de Kintamani pour voir le volcan du mont Batur et le lac et VTT bien entretenu et casque. Il ne comprend pas transport hors de la zone d'Ubud, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nPrise en charge a l'hotel a Ubud. The Authentic Bali Experience confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "transport gratuit pour la prise en charge et le retour dans la zone d'Ubud jusqu'au point de depart",
+   "visite de Kintamani pour voir le volcan du mont Batur et le lac",
+   "VTT bien entretenu et casque"
+  ],
+  "notIncluded": [
+   "transport hors de la zone d'Ubud"
   ]
  },
  "rafting-atv-ride-and-tubing-adventure-with-lunch-in-ubud": {
@@ -55249,6 +55389,20 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Depenses personnelles"
+  ]
+ },
+ "blue-lagoon-snorkeling-with-option-waterfall-and-temple-in-ubud": {
+  "title": "Snorkeling au Blue Lagoon avec option cascade et temple depuis Ubud",
+  "metaTitle": "Snorkeling au Blue Lagoon avec option cascade et temple depuis",
+  "shortDescription": "Visite de 6 heures a Ubud, avec Tanjung Jepun et Local restaurant and Tegenungan Waterfall. Reservation directe aupres de Bali Charm, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 6 heures au depart de Ubud, construite autour de Tanjung Jepun et Local restaurant and Tegenungan Waterfall. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes cascades autour d'Ubud se situent dans une bande a l'est et au sud de la ville, pour la plupart a moins d'une heure de route. Tegenungan est la plus proche et la plus frequentee, avec une large chute et un bassin au pied. Tibumana et Kanto Lampo, toutes deux dans la region de Bangli, sont plus petites et plus propices a la baignade : Tibumana tombe en un seul rideau dans un bassin clair, et a Kanto Lampo l'eau se deploie sur une paroi rocheuse en gradins sur laquelle les visiteurs grimpent pour les photos. Toutes impliquent de descendre puis de remonter des marches, et les rochers sont glissants, donc des sandales ou des chaussures adaptees a l'eau sont le bon choix. La saison des pluies, de novembre a mars, apporte le debit le plus abondant mais aussi une eau brunatre pendant un jour ou deux apres de fortes pluies.\n\nLe prix comprend snorkeling a la plage du Blue Lagoon, snorkeling a la plage de Tanjung Jepun et transport en bateau traditionnel. Il ne comprend pas serviette et autres depenses personnelles, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLa prise en charge est proposee depuis Legian, Nusa dua, Denpasar, Jimbaran et Seminyak and Sanur ; le lieu et l'heure exacts sont convenus avec Bali Charm une fois la reservation confirmee, et l'option choisie determine si le transport est inclus.\n\nPrise en charge a l'hotel a Ubud. Bali Charm confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "snorkeling a la plage du Blue Lagoon",
+   "snorkeling a la plage de Tanjung Jepun",
+   "transport en bateau traditionnel"
+  ],
+  "notIncluded": [
+   "serviette et autres depenses personnelles"
   ]
  },
  "mount-batur-sunset-trek-with-picnic": {
@@ -55397,6 +55551,20 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "jungle-waterfall-and-tunnel-atv-tour-and-lunch-options-in-ubud": {
+  "title": "Jungle, cascade et tunnel en ATV avec options dejeuner a Ubud",
+  "metaTitle": "Jungle, cascade et tunnel en ATV avec options dejeuner a Ubud",
+  "shortDescription": "Visite de 1,5 heures a Ubud, avec Kuber BALI ADVENTURE. Reservation directe aupres de Potato Bali Tours & Activities, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 1,5 heures au depart de Ubud, construite autour de Kuber BALI ADVENTURE. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes cascades autour d'Ubud se situent dans une bande a l'est et au sud de la ville, pour la plupart a moins d'une heure de route. Tegenungan est la plus proche et la plus frequentee, avec une large chute et un bassin au pied. Tibumana et Kanto Lampo, toutes deux dans la region de Bangli, sont plus petites et plus propices a la baignade : Tibumana tombe en un seul rideau dans un bassin clair, et a Kanto Lampo l'eau se deploie sur une paroi rocheuse en gradins sur laquelle les visiteurs grimpent pour les photos. Toutes impliquent de descendre puis de remonter des marches, et les rochers sont glissants, donc des sandales ou des chaussures adaptees a l'eau sont le bon choix. La saison des pluies, de novembre a mars, apporte le debit le plus abondant mais aussi une eau brunatre pendant un jour ou deux apres de fortes pluies.\n\nLe prix comprend prise en charge et retour a l'hotel dans la zone d'Ubud si l'option de transfert est selectionnee et aventure en ATV de 1 a 1h30 selon le niveau de conduite et l etat de la piste. Il ne comprend pas photographe et videaste disponibles avec supplement et visites privees, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nPrise en charge a l'hotel a Ubud. Potato Bali Tours & Activities confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "prise en charge et retour a l'hotel dans la zone d'Ubud si l'option de transfert est selectionnee",
+   "aventure en ATV de 1 a 1h30 selon le niveau de conduite et l etat de la piste"
+  ],
+  "notIncluded": [
+   "photographe et videaste disponibles avec supplement",
+   "visites privees"
+  ]
+ },
  "sacred-monkey-forest-sanctuary-ticket-and-guided-tour-in-ubud": {
   "title": "Billet et visite guidee du sanctuaire de la Foret Sacree des Singes a Ubud",
   "metaTitle": "Billet et visite guidee du sanctuaire de la Foret Sacree des",
@@ -55410,6 +55578,23 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Repas et boissons",
    "Pourboires"
+  ]
+ },
+ "ubud-balinese-cooking-class-9-dishes-and-local-market-ubud": {
+  "title": "Cours de cuisine balinaise a Ubud : 9 plats et marche local",
+  "metaTitle": "Cours de cuisine balinaise a Ubud : 9 plats et marche local",
+  "shortDescription": "Visite de 3 heures a Ubud, avec prise en charge et retour dans la zone d'Ubud, eau minerale, tout le materiel de cuisine, degustation de nourriture et dejeuner buffet. Reservation directe aupres de Balinese Local activities, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 3 heures a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes cours de cuisine balinaise commencent generalement par un marche matinal pour acheter les ingredients, puis se poursuivent dans une cour familiale ou une cuisine amenagee pour l'occasion. La base de la plupart des plats est base genep, une pate d'epices a base d'echalotes, d'ail, de galanga, de curcuma, de gingembre, de piments, de noix de bancoule et de pate de crevettes pilees ensemble, et elle donne naissance au sate lilit (viande hachee sur des batonnets de citronnelle), au lawar (une salade hachee avec de la noix de coco et du sang dans la version traditionnelle), au pepes (poisson cuit a la vapeur dans une feuille de bananier) et au riz jaune, nasi kuning. Les cours durent de trois a quatre heures, vous mangez ce que vous preparez a la fin, et des versions vegetariennes sont proposees sur demande.\n\nLe prix comprend prise en charge et retour dans la zone d'Ubud, eau minerale, tout le materiel de cuisine, degustation de nourriture et dejeuner buffet. Il ne comprend pas hotels hors du centre d'Ubud et boissons alcoolisees, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "prise en charge et retour dans la zone d'Ubud",
+   "eau minerale",
+   "tout le materiel de cuisine",
+   "degustation de nourriture",
+   "dejeuner buffet"
+  ],
+  "notIncluded": [
+   "hotels hors du centre d'Ubud",
+   "boissons alcoolisees"
   ]
  },
  "mystical-and-burial-rituals-tour-with-kehen-temple-in-ubud": {
@@ -55471,6 +55656,22 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Repas et boissons",
    "Pourboires"
+  ]
+ },
+ "downhill-bike-tour-with-rice-fields-volcano-and-meal-in-ubud": {
+  "title": "Excursion a velo en descente avec rizieres, volcan et repas a Ubud",
+  "metaTitle": "Excursion a velo en descente avec rizieres, volcan et repas a",
+  "shortDescription": "Visite de 6 heures a Ubud, avec prise en charge et transport de retour a l'hotel dans la zone d'Ubud, velo et casque et eau minerale. Reservation directe aupres de Dewa Bike Tour, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 6 heures a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes rizieres en terrasses de Tegallalang se trouvent a vingt minutes au nord d'Ubud sur la route de Kintamani, et ce sont de veritables rizieres irriguees par le systeme subak, classe par l'UNESCO en 2012. Avant environ 8h30 le matin, la vallee appartient aux agriculteurs, les rizieres sont encore humides de la nuit, et il fait assez frais pour marcher a travers les terrasses et remonter de l'autre cote. Vers dix heures, les cars venus du sud arrivent et la route au-dessus des terrasses devient une succession de cafes, de balancoires et de plateformes photo. Il y a un petit droit d'entree au point de vue, et des agriculteurs le long des sentiers a travers les champs demandent quelques milliers de roupies pour traverser leur terrain, ce qui est normal. Les balancoires sont des commerces independants avec leurs propres tarifs.\n\nLe prix comprend prise en charge et transport de retour a l'hotel dans la zone d'Ubud, velo et casque et eau minerale. Il ne comprend pas entree au mont Batur, petit-dejeuner disponible en supplement et transport, prise en charge et retour hors de la zone d'Ubud, 1x transport pour 5 personnes, disponible en supplement, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLa prise en charge est proposee depuis Denpasar, Karangasem Regency, Denpasar, Kuta et Ubud and Kuta Selatan ; le lieu et l'heure exacts sont convenus avec Dewa Bike Tour une fois la reservation confirmee, et l'option choisie determine si le transport est inclus.\n\nPrise en charge a l'hotel a Ubud. Dewa Bike Tour confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "prise en charge et transport de retour a l'hotel dans la zone d'Ubud",
+   "velo et casque",
+   "eau minerale"
+  ],
+  "notIncluded": [
+   "entree au mont Batur",
+   "petit-dejeuner disponible en supplement",
+   "transport, prise en charge et retour hors de la zone d'Ubud, 1x transport pour 5 personnes, disponible en supplement"
   ]
  },
  "gorilla-cave-atv-rice-terrace-and-cretya-pool-tour-in-ubud": {
@@ -55907,6 +56108,20 @@ export const FR_TOURS: Record<string, TourT> = {
    "pourboire pour le guide"
   ]
  },
+ "rice-terrace-unesco-motorcycle-tour-photo-experience-in-ubud": {
+  "title": "Excursion en moto aux rizieres UNESCO, experience photo a Ubud",
+  "metaTitle": "Excursion en moto aux rizieres UNESCO, experience photo a Ubud",
+  "shortDescription": "Visite de 8 heures a Ubud, avec equipement de moto complet : casque, gants, impermeable, guide parlant anglais et indonesien, autres langues sur demande : russe, ukrainien, polonais et un plein reservoir de carburant. Reservation directe aupres de PT. SOUL BIKES INDONESIA, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 8 heures a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes rizieres en terrasses de Tegallalang se trouvent a vingt minutes au nord d'Ubud sur la route de Kintamani, et ce sont de veritables rizieres irriguees par le systeme subak, classe par l'UNESCO en 2012. Avant environ 8h30 le matin, la vallee appartient aux agriculteurs, les rizieres sont encore humides de la nuit, et il fait assez frais pour marcher a travers les terrasses et remonter de l'autre cote. Vers dix heures, les cars venus du sud arrivent et la route au-dessus des terrasses devient une succession de cafes, de balancoires et de plateformes photo. Il y a un petit droit d'entree au point de vue, et des agriculteurs le long des sentiers a travers les champs demandent quelques milliers de roupies pour traverser leur terrain, ce qui est normal. Les balancoires sont des commerces independants avec leurs propres tarifs.\n\nLe prix comprend equipement de moto complet : casque, gants, impermeable, guide parlant anglais et indonesien, autres langues sur demande : russe, ukrainien, polonais et un plein reservoir de carburant. Il ne comprend pas nourriture et boissons au restaurant, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "equipement de moto complet : casque, gants, impermeable",
+   "guide parlant anglais et indonesien, autres langues sur demande : russe, ukrainien, polonais",
+   "un plein reservoir de carburant"
+  ],
+  "notIncluded": [
+   "nourriture et boissons au restaurant"
+  ]
+ },
  "tabanan-belimbing-rice-terrace-trekking-and-local-life-tour-in-ubud": {
   "title": "Tabanan : trek a la riziere en terrasses de Belimbing et vie locale a Ubud",
   "metaTitle": "Tabanan : trek a la riziere en terrasses de Belimbing et vie",
@@ -55975,6 +56190,21 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Repas",
    "frais d'entree au temple Ulun Danu et a la porte Handara"
+  ]
+ },
+ "sunrise-jeep-tour-mount-batur-and-hot-spring-private-tour-ubud": {
+  "title": "Jeep au lever du soleil au mont Batur et source chaude, excursion privee depuis Ubud",
+  "metaTitle": "Jeep au lever du soleil au mont Batur et source chaude,",
+  "shortDescription": "Visite de 3 heures a Ubud, avec Mount Batur et Black Lava and Coffee plantation. Reservation directe aupres de Batur Geopark, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 3 heures au depart de Ubud, construite autour de Mount Batur et Black Lava and Coffee plantation. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLe mont Batur est un volcan actif de 1 717 metres qui se dresse a l'interieur d'une caldeira bien plus ancienne, avec le lac Batur au fond de celle-ci. Les treks au lever du soleil partent de Toya Bungkah, sur la rive du lac, montent pendant environ deux heures sur du sable volcanique et des pierres instables, et visent a atteindre le bord vers 5h30, car le soleil se leve entre 6h00 et 6h30 selon le mois, derriere le cone du mont Agung a l'est. Au sommet, avant l'aube, il fait regulierement entre 8 et 12 degres C avec du vent, si bien qu'une veste bien chaude importe plus que tout le reste de votre equipement. Les treks sont organises via l'association du village local, c'est pourquoi chaque circuit, le notre inclus, est accompagne d'un guide, et la plupart des matinees se terminent aux sources chaudes sur la rive du lac. Les versions en jeep ou en ATV roulent jusqu'a un point de vue sur le flanc du volcan pour le meme lever du soleil et evitent la montee a pied, ce qui est le bon choix pour les genoux, les jeunes enfants et quiconque n'a pas assez dormi. Pendant la saison des pluies, de novembre a mars, le sommet est souvent dans les nuages a l'aube et il n'y a pas de remboursement pour cause de meteo.\n\nLe prix comprend zone de prise en charge a l'hotel : Kintamani, billet pour le forfait source chaude naturelle de Batur, source chaude uniquement et eau minerale. Il ne comprend pas zone de prise en charge : Kuta, Sanur, Nusa Dua, Ubud, Amed, etc et pourboire optionnel, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "zone de prise en charge a l'hotel : Kintamani",
+   "billet pour le forfait source chaude naturelle de Batur, source chaude uniquement",
+   "eau minerale"
+  ],
+  "notIncluded": [
+   "zone de prise en charge : Kuta, Sanur, Nusa Dua, Ubud, Amed, etc",
+   "pourboire optionnel"
   ]
  },
  "camping-experience-with-dinner-and-breakfast-in-ubud": {
@@ -56049,6 +56279,21 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "transport jusqu au point de depart",
    "pourboires"
+  ]
+ },
+ "best-cretya-day-club-in-ubud-and-waterfalls-private-tour": {
+  "title": "Le meilleur Cretya Day Club a Ubud et excursion privee aux cascades",
+  "metaTitle": "Le meilleur Cretya Day Club a Ubud et excursion privee aux",
+  "shortDescription": "Visite de 5 heures a Ubud, avec Kanto Lampo Waterfall et Tibumana Waterfall and Cretya Ubud. Reservation directe aupres de CV. Bali Sunrise Group, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 5 heures a Ubud, construite autour de Kanto Lampo Waterfall et Tibumana Waterfall and Cretya Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes cascades autour d'Ubud se situent dans une bande a l'est et au sud de la ville, pour la plupart a moins d'une heure de route. Tegenungan est la plus proche et la plus frequentee, avec une large chute et un bassin au pied. Tibumana et Kanto Lampo, toutes deux dans la region de Bangli, sont plus petites et plus propices a la baignade : Tibumana tombe en un seul rideau dans un bassin clair, et a Kanto Lampo l'eau se deploie sur une paroi rocheuse en gradins sur laquelle les visiteurs grimpent pour les photos. Toutes impliquent de descendre puis de remonter des marches, et les rochers sont glissants, donc des sandales ou des chaussures adaptees a l'eau sont le bon choix. La saison des pluies, de novembre a mars, apporte le debit le plus abondant mais aussi une eau brunatre pendant un jour ou deux apres de fortes pluies.\n\nLe prix comprend transfert hotel aller-retour, prise en charge et retour, billet d'entree Cretya Ubud, en option et billet d'entree a la cascade de Kanto Lampo, en option. Il ne comprend pas autres depenses personnelles et activite piscine Cretya, baignade, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLa prise en charge est proposee depuis Ubud, Gianyar Arena Mini Soccer, Gianyar, Kuta et Bangli Regency and Gianyar Regency ; le lieu et l'heure exacts sont convenus avec CV. Bali Sunrise Group une fois la reservation confirmee, et l'option choisie determine si le transport est inclus.\n\nPrise en charge a l'hotel a Ubud. CV. Bali Sunrise Group confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "transfert hotel aller-retour, prise en charge et retour",
+   "billet d'entree Cretya Ubud, en option",
+   "billet d'entree a la cascade de Kanto Lampo, en option"
+  ],
+  "notIncluded": [
+   "autres depenses personnelles",
+   "activite piscine Cretya, baignade"
   ]
  },
  "1-day-lemukih-waterfall-cliff-jumping-tour-in-ubud": {
@@ -56150,6 +56395,23 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Depenses personnelles",
    "Dejeuner"
+  ]
+ },
+ "lovina-dolphin-watching-and-aling-aling-waterfall-tour": {
+  "title": "Observation des dauphins a Lovina et excursion a la cascade d Aling-Aling",
+  "metaTitle": "Observation des dauphins a Lovina et excursion a la cascade d",
+  "shortDescription": "Visite de 3 heures a Ubud, avec Lovina and Aling-Aling Waterfall. Reservation directe aupres de PT Basudara Best Bali, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 3 heures au depart de Ubud, construite autour de Lovina and Aling-Aling Waterfall. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes cascades du nord de Bali sont plus grandes et plus calmes que celles autour d'Ubud, et plus eloignees : Sekumpul, Banyumala, Gitgit et les chutes autour de Munduk se trouvent toutes a environ deux heures d'Ubud par la route qui passe les montagnes au-dela des lacs. Sekumpul est la plus grande de l'ile avec environ 80 metres, et atteindre la base implique une descente abrupte de plusieurs centaines de marches et une traversee de riviere, c'est donc une marche plutot qu'un arret point de vue. Munduk se situe a environ 800 metres, ce qui la rend nettement plus fraiche et souvent brumeuse l'apres-midi. Les journees ici associent generalement une cascade avec le temple du lac d'Ulun Danu Beratan et la porte de Handara.\n\nLe prix comprend experience d observation des dauphins, nager avec les dauphins, bateau prive, visite de la cascade d Aling-Aling et saut de falaise avec instructeur. Il ne comprend pas pourboire et Depenses personnelles, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nPrise en charge a l'hotel a Ubud. PT Basudara Best Bali confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "experience d observation des dauphins",
+   "nager avec les dauphins",
+   "bateau prive",
+   "visite de la cascade d Aling-Aling",
+   "saut de falaise avec instructeur"
+  ],
+  "notIncluded": [
+   "pourboire",
+   "Depenses personnelles"
   ]
  },
  "jungle-trek-lake-canoe-and-waterfall-for-two-in-ubud": {
@@ -56256,6 +56518,21 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "frais d'entree et de billets",
    "Depenses personnelles"
+  ]
+ },
+ "mount-batur-black-lava-atv-sunset-adventure": {
+  "title": "Aventure en ATV sur la lave noire du mont Batur au coucher du soleil",
+  "metaTitle": "Aventure en ATV sur la lave noire du mont Batur au coucher du",
+  "shortDescription": "Visite de 1,5 heures a Ubud, avec transfert aller-retour vers votre hotel si l'option est selectionnee, equipement de securite : casque, protege-coudes et protege-genoux et ATV puissant, solo ou en tandem. Reservation directe aupres de PT. Gorilla Adventures Bali, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 1,5 heures a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLe mont Batur est un volcan actif de 1 717 metres qui se dresse a l'interieur d'une caldeira bien plus ancienne, avec le lac Batur au fond de celle-ci. Les treks au lever du soleil partent de Toya Bungkah, sur la rive du lac, montent pendant environ deux heures sur du sable volcanique et des pierres instables, et visent a atteindre le bord vers 5h30, car le soleil se leve entre 6h00 et 6h30 selon le mois, derriere le cone du mont Agung a l'est. Au sommet, avant l'aube, il fait regulierement entre 8 et 12 degres C avec du vent, si bien qu'une veste bien chaude importe plus que tout le reste de votre equipement. Les treks sont organises via l'association du village local, c'est pourquoi chaque circuit, le notre inclus, est accompagne d'un guide, et la plupart des matinees se terminent aux sources chaudes sur la rive du lac. Les versions en jeep ou en ATV roulent jusqu'a un point de vue sur le flanc du volcan pour le meme lever du soleil et evitent la montee a pied, ce qui est le bon choix pour les genoux, les jeunes enfants et quiconque n'a pas assez dormi. Pendant la saison des pluies, de novembre a mars, le sommet est souvent dans les nuages a l'aube et il n'y a pas de remboursement pour cause de meteo.\n\nLe prix comprend transfert aller-retour vers votre hotel si l'option est selectionnee, equipement de securite : casque, protege-coudes et protege-genoux et ATV puissant, solo ou en tandem. Il ne comprend pas transfert aller-retour vers votre hotel si vous reservez l'option point de rendez-vous et pourboires, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "transfert aller-retour vers votre hotel si l'option est selectionnee",
+   "equipement de securite : casque, protege-coudes et protege-genoux",
+   "ATV puissant, solo ou en tandem"
+  ],
+  "notIncluded": [
+   "transfert aller-retour vers votre hotel si vous reservez l'option point de rendez-vous",
+   "pourboires"
   ]
  },
  "telaga-waja-river-rafting-small-group-tour-with-lunch-in-ubud": {
@@ -56392,6 +56669,21 @@ export const FR_TOURS: Record<string, TourT> = {
    "Depenses personnelles"
   ]
  },
+ "e-bike-tour-of-ubud-countryside-and-rice-fields-with-a-meal": {
+  "title": "Excursion en velo electrique dans la campagne et les rizieres d Ubud avec repas",
+  "metaTitle": "Excursion en velo electrique dans la campagne et les rizieres d",
+  "shortDescription": "Visite de 6 heures a Ubud, avec View point and Traditional village. Reservation directe aupres de Dewa Bike Tour, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 6 heures au depart de Ubud, construite autour de View point and Traditional village. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes rizieres en terrasses de Tegallalang se trouvent a vingt minutes au nord d'Ubud sur la route de Kintamani, et ce sont de veritables rizieres irriguees par le systeme subak, classe par l'UNESCO en 2012. Avant environ 8h30 le matin, la vallee appartient aux agriculteurs, les rizieres sont encore humides de la nuit, et il fait assez frais pour marcher a travers les terrasses et remonter de l'autre cote. Vers dix heures, les cars venus du sud arrivent et la route au-dessus des terrasses devient une succession de cafes, de balancoires et de plateformes photo. Il y a un petit droit d'entree au point de vue, et des agriculteurs le long des sentiers a travers les champs demandent quelques milliers de roupies pour traverser leur terrain, ce qui est normal. Les balancoires sont des commerces independants avec leurs propres tarifs.\n\nLe prix comprend prise en charge et retour a l'hotel dans la zone d'Ubud, velo electrique et casque et eau minerale. Il ne comprend pas petit-dejeuner disponible en supplement et prise en charge et transfert de retour hors de la zone d'Ubud, disponible en supplement, maximum 5 personnes par vehicule, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLa prise en charge est proposee depuis Kuta Selatan, Karangasem Regency, Denpasar City, Kuta et Ubud and Denpasar ; le lieu et l'heure exacts sont convenus avec Dewa Bike Tour une fois la reservation confirmee, et l'option choisie determine si le transport est inclus.\n\nPrise en charge a l'hotel a Ubud. Dewa Bike Tour confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "prise en charge et retour a l'hotel dans la zone d'Ubud",
+   "velo electrique et casque",
+   "eau minerale"
+  ],
+  "notIncluded": [
+   "petit-dejeuner disponible en supplement",
+   "prise en charge et transfert de retour hors de la zone d'Ubud, disponible en supplement, maximum 5 personnes par vehicule"
+  ]
+ },
  "mount-batur-sunrise-dirt-bike-trek-with-trained-riders-ubud": {
   "title": "Mont Batur, randonnee en moto tout-terrain au lever du soleil avec pilotes formes (Ubud)",
   "metaTitle": "Mont Batur, randonnee en moto tout-terrain au lever du soleil",
@@ -56421,6 +56713,36 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dejeuner",
    "Depenses personnelles",
    "options supplementaires"
+  ]
+ },
+ "mount-batur-sunrise-atv-quad-bike-with-breakfast": {
+  "title": "Quad ATV au lever du soleil au mont Batur avec petit-dejeuner",
+  "metaTitle": "Quad ATV au lever du soleil au mont Batur avec petit-dejeuner",
+  "shortDescription": "Visite de 3 heures a Ubud, avec Mount Batur. Reservation directe aupres de PT. Gorilla Adventures Bali, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 3 heures au depart de Ubud, construite autour de Mount Batur. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLe mont Batur est un volcan actif de 1 717 metres qui se dresse a l'interieur d'une caldeira bien plus ancienne, avec le lac Batur au fond de celle-ci. Les treks au lever du soleil partent de Toya Bungkah, sur la rive du lac, montent pendant environ deux heures sur du sable volcanique et des pierres instables, et visent a atteindre le bord vers 5h30, car le soleil se leve entre 6h00 et 6h30 selon le mois, derriere le cone du mont Agung a l'est. Au sommet, avant l'aube, il fait regulierement entre 8 et 12 degres C avec du vent, si bien qu'une veste bien chaude importe plus que tout le reste de votre equipement. Les treks sont organises via l'association du village local, c'est pourquoi chaque circuit, le notre inclus, est accompagne d'un guide, et la plupart des matinees se terminent aux sources chaudes sur la rive du lac. Les versions en jeep ou en ATV roulent jusqu'a un point de vue sur le flanc du volcan pour le meme lever du soleil et evitent la montee a pied, ce qui est le bon choix pour les genoux, les jeunes enfants et quiconque n'a pas assez dormi. Pendant la saison des pluies, de novembre a mars, le sommet est souvent dans les nuages a l'aube et il n'y a pas de remboursement pour cause de meteo.\n\nLe prix comprend transfert aller-retour vers votre hotel si l'option est selectionnee, equipement de securite : casque, protege-coudes et protege-genoux et ATV puissant, solo ou en tandem. Il ne comprend pas transfert aller-retour vers votre hotel si vous reservez l'option point de rendez-vous et pourboires, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "transfert aller-retour vers votre hotel si l'option est selectionnee",
+   "equipement de securite : casque, protege-coudes et protege-genoux",
+   "ATV puissant, solo ou en tandem"
+  ],
+  "notIncluded": [
+   "transfert aller-retour vers votre hotel si vous reservez l'option point de rendez-vous",
+   "pourboires"
+  ]
+ },
+ "mount-batur-atv-sunrise-with-breakfast-and-hot-spring": {
+  "title": "ATV au lever du soleil au mont Batur avec petit-dejeuner et source chaude",
+  "metaTitle": "ATV au lever du soleil au mont Batur avec petit-dejeuner et",
+  "shortDescription": "Visite de 4 heures a Ubud, avec Mount Batur. Reservation directe aupres de PT. Gorilla Adventures Bali, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 4 heures au depart de Ubud, construite autour de Mount Batur. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLe mont Batur est un volcan actif de 1 717 metres qui se dresse a l'interieur d'une caldeira bien plus ancienne, avec le lac Batur au fond de celle-ci. Les treks au lever du soleil partent de Toya Bungkah, sur la rive du lac, montent pendant environ deux heures sur du sable volcanique et des pierres instables, et visent a atteindre le bord vers 5h30, car le soleil se leve entre 6h00 et 6h30 selon le mois, derriere le cone du mont Agung a l'est. Au sommet, avant l'aube, il fait regulierement entre 8 et 12 degres C avec du vent, si bien qu'une veste bien chaude importe plus que tout le reste de votre equipement. Les treks sont organises via l'association du village local, c'est pourquoi chaque circuit, le notre inclus, est accompagne d'un guide, et la plupart des matinees se terminent aux sources chaudes sur la rive du lac. Les versions en jeep ou en ATV roulent jusqu'a un point de vue sur le flanc du volcan pour le meme lever du soleil et evitent la montee a pied, ce qui est le bon choix pour les genoux, les jeunes enfants et quiconque n'a pas assez dormi. Pendant la saison des pluies, de novembre a mars, le sommet est souvent dans les nuages a l'aube et il n'y a pas de remboursement pour cause de meteo.\n\nLe prix comprend prise en charge et retour a l'hotel si une option avec prise en charge est selectionnee, balade en ATV solo ou en tandem et visite des sources chaudes naturelles, en option. Il ne comprend pas prise en charge et retour a l'hotel si une option de prise en charge n'est pas selectionnee et Depenses personnelles, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nPrise en charge a l'hotel a Ubud. PT. Gorilla Adventures Bali confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "prise en charge et retour a l'hotel si une option avec prise en charge est selectionnee",
+   "balade en ATV solo ou en tandem",
+   "visite des sources chaudes naturelles, en option"
+  ],
+  "notIncluded": [
+   "prise en charge et retour a l'hotel si une option de prise en charge n'est pas selectionnee",
+   "Depenses personnelles"
   ]
  },
  "safari-park-and-tegenungan-waterfall-day-trip-in-ubud": {
