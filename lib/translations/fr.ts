@@ -50516,6 +50516,23 @@ export const FR_TOURS: Record<string, TourT> = {
    "ordinateur de plongee"
   ]
  },
+ "reef-cruise-day-trip-to-nusa-lembongan": {
+  "title": "Excursion d'une Journee en Croisiere vers les Recifs de Nusa Lembongan",
+  "metaTitle": "Excursion d'une Journee en Croisiere vers les Recifs de Nusa",
+  "shortDescription": "Visite de 8 heures a Nusa Penida, avec transfert a l'hotel en vehicule climatise, transferts aller-retour vers Lembongan Bay et the et cafe du matin et de l apres-midi, et collations. Reservation directe aupres de Bali Hai Cruises, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 8 heures a Nusa Penida. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nNusa Lembongan est la petite ile entre Bali et Nusa Penida, a une demi-heure de Sanur en bateau rapide, avec un rythme plus lent que les deux autres. Les journees ici incluent generalement Devil's Tear, ou la houle explose a travers une plateforme rocheuse sur la cote sud-ouest, les canaux de mangrove sur la cote nord-est en petit bateau, et le Pont Jaune vers Nusa Ceningan et son Lagon Bleu. Le snorkeling se pratique au large de la cote nord et dans la derive de Mangrove Point, et les raies manta se rejoignent par une traversee supplementaire jusqu'a Penida. La culture d'algues qui couvrait autrefois les hauts-fonds a presque disparu, mais on peut encore voir les cadres a maree basse.\n\nLe prix comprend transfert a l'hotel en vehicule climatise, transferts aller-retour vers Lembongan Bay et the et cafe du matin et de l apres-midi, et collations. Il ne comprend pas boissons gazeuses et alcool (disponibles a l'achat), marche sous-marine en casque Aquanaut (supplement facultatif), plongee sous-marine (supplement facultatif) et 1 ou 2 plongees (supplement facultatif pour plongeurs certifies), a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nPrise en charge a l'hotel a Nusa Penida. Bali Hai Cruises confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "transfert a l'hotel en vehicule climatise",
+   "transferts aller-retour vers Lembongan Bay",
+   "the et cafe du matin et de l apres-midi, et collations"
+  ],
+  "notIncluded": [
+   "boissons gazeuses et alcool (disponibles a l'achat)",
+   "marche sous-marine en casque Aquanaut (supplement facultatif)",
+   "plongee sous-marine (supplement facultatif)",
+   "1 ou 2 plongees (supplement facultatif pour plongeurs certifies)"
+  ]
+ },
  "sailing-cruise-day-trip-to-nusa-lembongan": {
   "title": "Croisiere a la voile d une journee vers Nusa Lembongan",
   "metaTitle": "Croisiere a la voile d une journee vers Nusa Lembongan",
@@ -51724,6 +51741,23 @@ export const FR_TOURS: Record<string, TourT> = {
    "boissons"
   ]
  },
+ "island-sightseeing-one-day-trip-in-nusa-penida": {
+  "title": "Excursion d'une Journee de Tourisme Insulaire a Nusa Penida",
+  "metaTitle": "Excursion d'une Journee de Tourisme Insulaire a Nusa Penida",
+  "shortDescription": "Visite de 10 heures a Nusa Penida, avec Speedboat et Kelingking Beach and Pasih Uug Beach. Reservation directe aupres de BIMA BALI JOURNEY, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 10 heures a Nusa Penida, construite autour de Speedboat et Kelingking Beach and Pasih Uug Beach. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nNusa Penida est la plus grande des trois iles au large de la cote sud-est de Bali, environ 200 kilometres carres de calcaire avec des falaises au sud et a l'ouest et quelques villages sur la cote nord ou accostent les bateaux. Il n'y a quasiment pas de circulation mais ses routes sont etroites et lentes, c'est pourquoi une excursion d'une journee couvre soit le cote ouest (Kelingking, Broken Beach, Angel's Billabong), soit le cote est (Diamond Beach, Atuh, Tree House), mais pas les deux. Les bateaux rapides depuis Sanur mettent de trente a quarante-cinq minutes, partent a partir d'environ 7h00, et sont annules ou retardes en cas de forte houle. Prevoyez de l'argent liquide : les terminaux de carte sont rares et les distributeurs peu fiables.\n\nLe prix comprend fastboat public aller-retour (Sanur - Nusa Penida - Sanur), transferts aller-retour a l'hotel dans la zone de Sanur, Kuta, Seminyak, Jimbaran, Canggu, Denpasar, Nusa Dua, centre d'Ubud et cote ouest (Kelingking Beach, Angel Billabong, Broken Beach, Crystal Beach). Il ne comprend pas Depenses personnelles, frais de photo a la Tree House, frais d'entree a la Tree House et frais d'entree a Diamond Beach, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLa prise en charge est proposee depuis Tabanan Regency and Ubud ; le lieu et l'heure exacts sont convenus avec BIMA BALI JOURNEY une fois la reservation confirmee, et l'option choisie determine si le transport est inclus.\n\nPrise en charge a l'hotel a Nusa Penida. BIMA BALI JOURNEY confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "fastboat public aller-retour (Sanur - Nusa Penida - Sanur)",
+   "transferts aller-retour a l'hotel dans la zone de Sanur, Kuta, Seminyak, Jimbaran, Canggu, Denpasar, Nusa Dua, centre d'Ubud",
+   "cote ouest (Kelingking Beach, Angel Billabong, Broken Beach, Crystal Beach)"
+  ],
+  "notIncluded": [
+   "Depenses personnelles",
+   "frais de photo a la Tree House",
+   "frais d'entree a la Tree House",
+   "frais d'entree a Diamond Beach"
+  ]
+ },
  "gate-of-heaven-private-tour-by-luxury-car-in-nusa-penida": {
   "title": "Tour Prive de la Porte du Ciel en Voiture de Luxe a Nusa Penida",
   "metaTitle": "Tour Prive de la Porte du Ciel en Voiture de Luxe a Nusa Penida",
@@ -52166,6 +52200,23 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Temps supplementaire facture 10 $ par heure",
    "Prise en charge depuis Nusa Dua, Jimbaran et Uluwatu"
+  ]
+ },
+ "south-bali-private-adventure-kayaking-jet-ski-by-option-uluwatu": {
+  "title": "Sud de Bali: Aventure Privee en Kayak et Jet Ski selon Option (Uluwatu)",
+  "metaTitle": "Sud de Bali: Aventure Privee en Kayak et Jet Ski selon Option",
+  "shortDescription": "Visite de 6 heures a Uluwatu, avec experience de kayak dans la mangrove, equipement de kayak et guide local de kayak dans la mangrove. Reservation directe aupres de Balioversea, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 6 heures a Uluwatu. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLa peninsule de Bukit, le bloc calcaire a la pointe sud de Bali, abrite le temple d'Uluwatu et son Kecak, les plages de falaise, et la statue du Garuda Wisnu Kencana, une figure de 121 metres de Vishnu monte sur Garuda achevee en 2018 apres 28 ans, qui se trouve dans un parc culturel avec des spectacles de danse tout au long de la journee. La peninsule est seche, chaude et presque sans ombre, et les distances entre les plages sont plus longues qu'elles ne paraissent sur une carte, donc un chauffeur pour la journee est le moyen habituel de la visiter. Le coucher du soleil est vers 18h15 a 18h30 toute l'annee, et le sentier de falaise d'Uluwatu se remplit a cette heure.\n\nLe prix comprend experience de kayak dans la mangrove, equipement de kayak et guide local de kayak dans la mangrove. Il ne comprend pas repas et depenses personnelles, bebe tortue parraine pour etre relache dans son habitat, activites supplementaires non listees dans l'option choisie et prise en charge et retour a l'hotel hors de la zone designee, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLa prise en charge est proposee depuis Kuta et Sanur and Uluwatu ; le lieu et l'heure exacts sont convenus avec Balioversea une fois la reservation confirmee, et l'option choisie determine si le transport est inclus.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "experience de kayak dans la mangrove",
+   "equipement de kayak",
+   "guide local de kayak dans la mangrove"
+  ],
+  "notIncluded": [
+   "repas et depenses personnelles",
+   "bebe tortue parraine pour etre relache dans son habitat",
+   "activites supplementaires non listees dans l'option choisie",
+   "prise en charge et retour a l'hotel hors de la zone designee"
   ]
  },
  "improve-your-surf-skills-with-us-in-uluwatu": {
@@ -55546,6 +55597,24 @@ export const FR_TOURS: Record<string, TourT> = {
    "pourboires facultatifs"
   ]
  },
+ "swing-zipline-and-skybike-rice-terrace-adventure-in-ubud": {
+  "title": "Balancoire, Tyrolienne et SkyBike: Aventure dans les Rizieres a Ubud",
+  "metaTitle": "Balancoire, Tyrolienne et SkyBike: Aventure dans les Rizieres a",
+  "shortDescription": "Visite de 2 heures a Ubud, avec U Fun Field. Reservation directe aupres de U Fun Field, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 2 heures au depart de Ubud, construite autour de U Fun Field. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes rizieres en terrasses de Tegallalang se trouvent a vingt minutes au nord d'Ubud sur la route de Kintamani, et ce sont de veritables rizieres irriguees par le systeme subak, classe par l'UNESCO en 2012. Avant environ 8h30 le matin, la vallee appartient aux agriculteurs, les rizieres sont encore humides de la nuit, et il fait assez frais pour marcher a travers les terrasses et remonter de l'autre cote. Vers dix heures, les cars venus du sud arrivent et la route au-dessus des terrasses devient une succession de cafes, de balancoires et de plateformes photo. Il y a un petit droit d'entree au point de vue, et des agriculteurs le long des sentiers a travers les champs demandent quelques milliers de roupies pour traverser leur terrain, ce qui est normal. Les balancoires sont des commerces independants avec leurs propres tarifs.\n\nLe prix comprend billet d'entree au parc U Fun Field, acces aux attractions et activites selon le forfait choisi, avec des options completes ou individuelles telles que balancoires (4 types), tyrolienne, Sky Bike et Sky Cycle, equipement de securite (casque, harnais et ceinture de securite) et couverture d'assurance et acces a 6 points photo uniques: Ailes de Bali, Nid d'Abeille, Nid d'Oiseau, Pont de Bambou, Vue sur les Rizieres, et la Cabane de Fermier Traditionnelle avec accessoires (panier et chapeau de fermier). Il ne comprend pas location de robe flottante disponible avec supplement, service de photographe disponible avec supplement, nourriture et boissons au restaurant sur place et Depenses personnelles, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "billet d'entree au parc U Fun Field",
+   "acces aux attractions et activites selon le forfait choisi, avec des options completes ou individuelles telles que balancoires (4 types), tyrolienne, Sky Bike et Sky Cycle",
+   "equipement de securite (casque, harnais et ceinture de securite) et couverture d'assurance",
+   "acces a 6 points photo uniques: Ailes de Bali, Nid d'Abeille, Nid d'Oiseau, Pont de Bambou, Vue sur les Rizieres, et la Cabane de Fermier Traditionnelle avec accessoires (panier et chapeau de fermier)"
+  ],
+  "notIncluded": [
+   "location de robe flottante disponible avec supplement",
+   "service de photographe disponible avec supplement",
+   "nourriture et boissons au restaurant sur place",
+   "Depenses personnelles"
+  ]
+ },
  "ubud-full-day-all-inclusive-highlights-tour": {
   "title": "Visite d'une journee complete des sites phares d'Ubud, tout compris",
   "metaTitle": "Visite d'une journee complete des sites phares d'Ubud, tout",
@@ -56574,6 +56643,22 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "nourriture et boissons supplementaires non listees dans les inclusions",
    "Pourboires"
+  ]
+ },
+ "ubud-zipline-and-watersport-jet-ski-parasailing-banana-boat-ubud": {
+  "title": "Tyrolienne et Sports Nautiques a Ubud (Jet Ski, Parapente Nautique, Bouee Tractee) (Ubud)",
+  "metaTitle": "Tyrolienne et Sports Nautiques a Ubud (Jet Ski, Parapente",
+  "shortDescription": "Visite de 2 heures a Ubud, avec NBC Dive & Watersport and U Fun Field. Reservation directe aupres de U Fun Field, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 2 heures au depart de Ubud, construite autour de NBC Dive & Watersport and U Fun Field. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes sports nautiques de Bali se concentrent a Tanjung Benoa, la bande de plage abritee au nord de Nusa Dua, ou les operateurs proposent jet-ski, parachute ascensionnel, bouees tractees, flyboard et plongee casque sea walker depuis la meme plage toute la journee, le plus souvent de 8h00 a environ 16h00. La mer y est plate car le recif casse la houle au large, ce qui en fait la plage pour cela et non pour le surf. Les tyroliennes se trouvent dans la region d'Ubud au-dessus de la gorge de l'Ayung et dans les parcs d'aventure pres de Tegallalang, en harnais, sur des lignes de quelques centaines de metres. Tout depend de la meteo, et les operateurs suspendent l'activite en cas d'orage.\n\nLe prix comprend couverture assurance, bouee tractee de 15 minutes (si l'option est selectionnee), jet ski de 10 minutes avec instructeur (si l'option est selectionnee) et parapente nautique de 5 minutes (si l'option est selectionnee). Il ne comprend pas autres activites a U Fun Field (les 4 balancoires, la tyrolienne, le Sky Bike et le Sky Cycle sont disponibles en supplement) et location de robe flottante disponible avec supplement, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "couverture assurance",
+   "bouee tractee de 15 minutes (si l'option est selectionnee)",
+   "jet ski de 10 minutes avec instructeur (si l'option est selectionnee)",
+   "parapente nautique de 5 minutes (si l'option est selectionnee)"
+  ],
+  "notIncluded": [
+   "autres activites a U Fun Field (les 4 balancoires, la tyrolienne, le Sky Bike et le Sky Cycle sont disponibles en supplement)",
+   "location de robe flottante disponible avec supplement"
   ]
  },
  "monkey-forest-cretya-pool-and-zipline-shared-tour-in-ubud": {

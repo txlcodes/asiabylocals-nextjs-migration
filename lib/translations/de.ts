@@ -50516,6 +50516,23 @@ export const DE_TOURS: Record<string, TourT> = {
    "Tauchcomputer"
   ]
  },
+ "reef-cruise-day-trip-to-nusa-lembongan": {
+  "title": "Riff-Kreuzfahrt-Tagesausflug nach Nusa Lembongan",
+  "metaTitle": "Riff-Kreuzfahrt-Tagesausflug nach Nusa Lembongan",
+  "shortDescription": "8-stuendige Tour in Nusa Penida, mit Hoteltransfer im klimatisierten Fahrzeug, Hin- und Ruecktransfers nach Lembongan Bay und Tee und Kaffee am Vormittag und Nachmittag sowie Snacks. Direkt gebucht bei Bali Hai Cruises, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 8-stuendiges Erlebnis in Nusa Penida. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nNusa Lembongan ist die kleine Insel zwischen Bali und Nusa Penida, eine halbe Stunde von Sanur mit dem Schnellboot entfernt, mit einem langsameren Tempo als beide anderen. Tage hier umfassen meist Devil's Tear, wo die Dunung durch ein Felsriff an der Suedwestkueste explodiert, die Mangrovenkanaele auf der Nordostseite mit kleinem Boot, und die Gelbe Bruecke nach Nusa Ceningan mit seiner Blue Lagoon. Schnorcheln findet vor der Nordkueste und an der Mangrove-Point-Drift statt, und Mantas erreicht man mit einer weiteren Bootsfahrt nach Penida. Der Algenanbau, der einst die Untiefen bedeckte, ist weitgehend verschwunden, aber man kann die Gestelle bei Niedrigwasser noch sehen.\n\nIm Preis enthalten sind Hoteltransfer im klimatisierten Fahrzeug, Hin- und Ruecktransfers nach Lembongan Bay und Tee und Kaffee am Vormittag und Nachmittag sowie Snacks. Nicht enthalten sind Softdrinks und Alkohol (kaeuflich erwerbbar), Aquanaut-Unterwasser-Helmspaziergang (optionaler Zusatz), Geraetetauchen (optionaler Zusatz) und 1 oder 2 Tauchgaenge (optionaler Zusatz fuer zertifizierte Taucher), das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHotelabholung in Nusa Penida. Bali Hai Cruises bestaetigt Ihre Abholzeit und den genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Hoteltransfer im klimatisierten Fahrzeug",
+   "Hin- und Ruecktransfers nach Lembongan Bay",
+   "Tee und Kaffee am Vormittag und Nachmittag sowie Snacks"
+  ],
+  "notIncluded": [
+   "Softdrinks und Alkohol (kaeuflich erwerbbar)",
+   "Aquanaut-Unterwasser-Helmspaziergang (optionaler Zusatz)",
+   "Geraetetauchen (optionaler Zusatz)",
+   "1 oder 2 Tauchgaenge (optionaler Zusatz fuer zertifizierte Taucher)"
+  ]
+ },
  "sailing-cruise-day-trip-to-nusa-lembongan": {
   "title": "Segelkreuzfahrt-Tagesausflug nach Nusa Lembongan",
   "metaTitle": "Segelkreuzfahrt-Tagesausflug nach Nusa Lembongan",
@@ -51724,6 +51741,23 @@ export const DE_TOURS: Record<string, TourT> = {
    "Getraenke"
   ]
  },
+ "island-sightseeing-one-day-trip-in-nusa-penida": {
+  "title": "Eintagesausflug zur Inselbesichtigung in Nusa Penida",
+  "metaTitle": "Eintagesausflug zur Inselbesichtigung in Nusa Penida",
+  "shortDescription": "10-stuendige Tour in Nusa Penida, mit Speedboat und Kelingking Beach and Pasih Uug Beach. Direkt gebucht bei BIMA BALI JOURNEY, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 10-stuendiges Erlebnis in Nusa Penida, rund um Speedboat und Kelingking Beach and Pasih Uug Beach aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nNusa Penida ist die groesste der drei Inseln vor der Suedostkueste Balis, etwa 200 Quadratkilometer Kalkstein mit Klippen im Sueden und Westen und ein paar Doerfern an der Nordkueste, wo die Boote anlegen. Es gibt praktisch keinen Verkehr, aber die Strassen sind eng und langsam, weshalb ein Tagesausflug entweder die Westseite (Kelingking, Broken Beach, Angel's Billabong) oder die Ostseite (Diamond Beach, Atuh, Tree House) abdeckt, nicht beide. Schnellboote von Sanur brauchen dreissig bis fuenfundvierzig Minuten, fahren ab etwa 7:00 Uhr, und werden bei starker Dunung abgesagt oder verspaetet. Bringen Sie Bargeld mit: Kartenterminals sind selten und die Geldautomaten unzuverlaessig.\n\nIm Preis enthalten sind oeffentliches Schnellboot hin und zurueck (Sanur - Nusa Penida - Sanur), Hin- und Ruecktransfers zum Hotel im Gebiet Sanur, Kuta, Seminyak, Jimbaran, Canggu, Denpasar, Nusa Dua, Zentrum von Ubud und Westkueste (Kelingking Beach, Angel Billabong, Broken Beach, Crystal Beach). Nicht enthalten sind Persoenliche Ausgaben, Fotogebuehr am Tree House, Eintrittsgebuehr fuer das Tree House und Eintrittsgebuehr fuer Diamond Beach, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDie Abholung wird ab Tabanan Regency and Ubud angeboten; der genaue Ort und die Uhrzeit werden nach Bestaetigung der Buchung mit BIMA BALI JOURNEY vereinbart, und die gewaehlte Option bestimmt, ob der Transport enthalten ist.\n\nHotelabholung in Nusa Penida. BIMA BALI JOURNEY bestaetigt Ihre Abholzeit und den genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "oeffentliches Schnellboot hin und zurueck (Sanur - Nusa Penida - Sanur)",
+   "Hin- und Ruecktransfers zum Hotel im Gebiet Sanur, Kuta, Seminyak, Jimbaran, Canggu, Denpasar, Nusa Dua, Zentrum von Ubud",
+   "Westkueste (Kelingking Beach, Angel Billabong, Broken Beach, Crystal Beach)"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben",
+   "Fotogebuehr am Tree House",
+   "Eintrittsgebuehr fuer das Tree House",
+   "Eintrittsgebuehr fuer Diamond Beach"
+  ]
+ },
  "gate-of-heaven-private-tour-by-luxury-car-in-nusa-penida": {
   "title": "Private Tour zum Himmelstor mit Luxuswagen in Nusa Penida",
   "metaTitle": "Private Tour zum Himmelstor mit Luxuswagen in Nusa Penida",
@@ -52166,6 +52200,23 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Zusatzzeit mit 10 $ pro Stunde berechnet",
    "Abholung von Nusa Dua, Jimbaran und Uluwatu"
+  ]
+ },
+ "south-bali-private-adventure-kayaking-jet-ski-by-option-uluwatu": {
+  "title": "Suedbali: Private Kajak- und Jetski-Abenteuer nach Wahl (Uluwatu)",
+  "metaTitle": "Suedbali: Private Kajak- und Jetski-Abenteuer nach Wahl (Uluwatu)",
+  "shortDescription": "6-stuendige Tour in Uluwatu, mit Kajak-Erlebnis im Mangrovenwald, Kajakausruestung und lokaler Kajak-Guide im Mangrovenwald. Direkt gebucht bei Balioversea, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 6-stuendiges Erlebnis in Uluwatu. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDie Bukit-Halbinsel, der Kalksteinblock an der Suedspitze Balis, beherbergt den Uluwatu-Tempel mit seinem Kecak, die Klippenstraende und die Garuda-Wisnu-Kencana-Statue, eine 121 Meter hohe Figur von Vishnu auf Garuda, 2018 nach 28 Jahren fertiggestellt, die in einem Kulturpark mit Tanzvorfuehrungen ueber den Tag steht. Die Halbinsel ist trocken, heiss und meist ohne Schatten, und die Entfernungen zwischen den Straenden sind laenger, als sie auf einer Karte aussehen, daher ist ein Fahrer fuer den Tag die ueblichste Art, sie zu sehen. Der Sonnenuntergang liegt das ganze Jahr etwa zwischen 18:15 und 18:30 Uhr, und Uluwatus Klippenpfad fuellt sich dafuer.\n\nIm Preis enthalten sind Kajak-Erlebnis im Mangrovenwald, Kajakausruestung und lokaler Kajak-Guide im Mangrovenwald. Nicht enthalten sind Mahlzeiten und persoenliche Ausgaben, adoptierte Baby-Schildkroete zur Freilassung in ihren Lebensraum, zusaetzliche Aktivitaeten, die nicht in der gewaehlten Option aufgefuehrt sind und Hotelabholung und -ruecktransfer ausserhalb des festgelegten Abholgebiets, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDie Abholung wird ab Kuta und Sanur and Uluwatu angeboten; der genaue Ort und die Uhrzeit werden nach Bestaetigung der Buchung mit Balioversea vereinbart, und die gewaehlte Option bestimmt, ob der Transport enthalten ist.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Kajak-Erlebnis im Mangrovenwald",
+   "Kajakausruestung",
+   "lokaler Kajak-Guide im Mangrovenwald"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und persoenliche Ausgaben",
+   "adoptierte Baby-Schildkroete zur Freilassung in ihren Lebensraum",
+   "zusaetzliche Aktivitaeten, die nicht in der gewaehlten Option aufgefuehrt sind",
+   "Hotelabholung und -ruecktransfer ausserhalb des festgelegten Abholgebiets"
   ]
  },
  "improve-your-surf-skills-with-us-in-uluwatu": {
@@ -55546,6 +55597,24 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder optional"
   ]
  },
+ "swing-zipline-and-skybike-rice-terrace-adventure-in-ubud": {
+  "title": "Schaukel, Seilrutsche und SkyBike: Reisterrassen-Abenteuer in Ubud",
+  "metaTitle": "Schaukel, Seilrutsche und SkyBike: Reisterrassen-Abenteuer in",
+  "shortDescription": "2-stuendige Tour in Ubud, mit U Fun Field. Direkt gebucht bei U Fun Field, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 2-stuendiges Erlebnis ab Ubud, rund um U Fun Field aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDie Reisterrassen von Tegallalang liegen zwanzig Minuten nordlich von Ubud an der Strasse nach Kintamani und sind arbeitende Reisfelder, die vom subak-Bewaesserungssystem versorgt werden, das die UNESCO 2012 gelistet hat. Vor etwa 8:30 Uhr morgens gehoert das Tal den Bauern, die Felder sind noch feucht von der Nacht, und es ist kuehl genug, um durch die Terrassen hinab- und auf der anderen Seite wieder hinaufzugehen. Gegen zehn Uhr treffen die Busse aus dem Sueden ein, und die Strasse oberhalb der Terrassen wird zu einer Reihe von Cafes, Schaukeln und Fotoplattformen. Am Aussichtspunkt gibt es eine kleine Eintrittsgebuehr, und Bauern entlang der Pfade durch die Felder bitten um ein paar Tausend Rupiah fuer das Ueberqueren ihres Landes, was normal ist. Die Schaukeln sind eigenstaendige Unternehmen mit eigenen Preisen.\n\nIm Preis enthalten sind Eintrittskarte fuer den U Fun Field Park, Zugang zu Fahrgeschaeften und Aktivitaeten je nach gewaehltem Paket, mit vollstaendigen oder einzelnen Optionen wie Schaukeln (4 Typen), Seilrutsche, Sky Bike und Sky Cycle, Sicherheitsausruestung (Helm, Gurtzeug und Sicherheitsgurt) und Versicherungsschutz und Zugang zu 6 einzigartigen Fotospots: Bali-Fluegel, Bienennest, Vogelnest, Bambusbruecke, Reisfeldblick und traditionelle Bauernhuette mit Requisiten (Korb und Bauernhut). Nicht enthalten sind Verleih eines schwebenden Kleides gegen Aufpreis verfuegbar, Fotografenservice gegen Aufpreis verfuegbar, Essen und Getraenke im Restaurant vor Ort und Persoenliche Ausgaben, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Eintrittskarte fuer den U Fun Field Park",
+   "Zugang zu Fahrgeschaeften und Aktivitaeten je nach gewaehltem Paket, mit vollstaendigen oder einzelnen Optionen wie Schaukeln (4 Typen), Seilrutsche, Sky Bike und Sky Cycle",
+   "Sicherheitsausruestung (Helm, Gurtzeug und Sicherheitsgurt) und Versicherungsschutz",
+   "Zugang zu 6 einzigartigen Fotospots: Bali-Fluegel, Bienennest, Vogelnest, Bambusbruecke, Reisfeldblick und traditionelle Bauernhuette mit Requisiten (Korb und Bauernhut)"
+  ],
+  "notIncluded": [
+   "Verleih eines schwebenden Kleides gegen Aufpreis verfuegbar",
+   "Fotografenservice gegen Aufpreis verfuegbar",
+   "Essen und Getraenke im Restaurant vor Ort",
+   "Persoenliche Ausgaben"
+  ]
+ },
  "ubud-full-day-all-inclusive-highlights-tour": {
   "title": "Ganztages-Highlight-Tour Ubud, All-inclusive",
   "metaTitle": "Ganztages-Highlight-Tour Ubud, All-inclusive",
@@ -56574,6 +56643,22 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "zusaetzliches Essen und Getraenke, die nicht in den Leistungen aufgefuehrt sind",
    "Trinkgelder"
+  ]
+ },
+ "ubud-zipline-and-watersport-jet-ski-parasailing-banana-boat-ubud": {
+  "title": "Seilrutsche und Wassersport in Ubud (Jetski, Parasailing, Bananaboot) (Ubud)",
+  "metaTitle": "Seilrutsche und Wassersport in Ubud (Jetski, Parasailing,",
+  "shortDescription": "2-stuendige Tour in Ubud, mit NBC Dive & Watersport and U Fun Field. Direkt gebucht bei U Fun Field, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 2-stuendiges Erlebnis ab Ubud, rund um NBC Dive & Watersport and U Fun Field aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nBalis Wassersportarten konzentrieren sich auf Tanjung Benoa, den geschuetzten Strandstreifen nordlich von Nusa Dua, wo Anbieter Jetski, Parasailing, Bananenboote, Flyboards und Sea-Walker-Helmtauchgaenge den ganzen Tag ueber vom selben Strand aus anbieten, meist von 8:00 bis etwa 16:00 Uhr. Das Meer ist hier flach, weil das Riff die Dunung vor der Kueste bricht, weshalb dies der Strand dafuer und nicht zum Surfen ist. Ziplines gibt es in der Gegend von Ubud ueber der Ayung-Schlucht und in den Abenteuerparks bei Tegallalang, in Gurten, mit Strecken von einigen hundert Metern. Alles ist wetterabhaengig, und die Anbieter pausieren bei Blitzschlag.\n\nIm Preis enthalten sind Versicherungsschutz, 15-minuetige Bananabootfahrt (falls die Option gewaehlt wird), 10-minuetige Jetski-Fahrt mit Lehrer (falls die Option gewaehlt wird) und 5-minuetiges Parasailing (falls die Option gewaehlt wird). Nicht enthalten sind weitere Aktivitaeten im U Fun Field (alle 4 Schaukeln, Seilrutsche, Sky Bike und Sky Cycle sind als Zusatzoptionen verfuegbar) und Verleih eines schwebenden Kleides gegen Aufpreis verfuegbar, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Versicherungsschutz",
+   "15-minuetige Bananabootfahrt (falls die Option gewaehlt wird)",
+   "10-minuetige Jetski-Fahrt mit Lehrer (falls die Option gewaehlt wird)",
+   "5-minuetiges Parasailing (falls die Option gewaehlt wird)"
+  ],
+  "notIncluded": [
+   "weitere Aktivitaeten im U Fun Field (alle 4 Schaukeln, Seilrutsche, Sky Bike und Sky Cycle sind als Zusatzoptionen verfuegbar)",
+   "Verleih eines schwebenden Kleides gegen Aufpreis verfuegbar"
   ]
  },
  "monkey-forest-cretya-pool-and-zipline-shared-tour-in-ubud": {
