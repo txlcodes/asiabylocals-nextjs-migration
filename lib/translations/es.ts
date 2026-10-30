@@ -48128,6 +48128,22 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "sidemen-scooter-tour-ubud": {
+  "title": "Tour en Scooter por Sidemen (Ubud)",
+  "metaTitle": "Tour en Scooter por Sidemen (Ubud)",
+  "shortDescription": "Recorrido de 4 horas en Ubud, con Scooter y Gembleng Waterfall and Jembatan Kuning Tukad Yeh Unda. Reserva directa con Mice Bali Travels, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 4 horas desde Ubud, organizada en torno a Scooter y Gembleng Waterfall and Jembatan Kuning Tukad Yeh Unda. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nEl este de Bali es el lado mas tranquilo de la isla, bajo el monte Agung. El valle de Sidemen tiene terrazas de arroz sin las multitudes de Tegallalang y una vista directa al volcan; Tirta Gangga es un palacio de agua construido por el ultimo raja de Karangasem en 1946, con piedras para cruzar un estanque de carpas; Taman Ujung es el palacio anterior de la misma familia, de 1919, en la costa. Besakih, el templo madre, es un complejo de 23 templos a 1.000 metros en la ladera del Agung y requiere un sarong y, desde 2023, un guia oficial. Mas adelante por la costa, Amed tiene playas de arena negra y Tulamben tiene el USAT Liberty, un carguero torpedeado en 1942 y empujado al mar por la erupcion del Agung de 1963, hoy un pecio para bucear y hacer esnorquel desde la playa.\n\nEl precio incluye recogida y traslado de regreso al hotel en Sidemen, scooter con conductor local, casco y combustible. No incluye Tarifas de entrada y las propinas para el conductor local son opcionales pero siempre muy apreciadas; gracias por apoyar a nuestro conductor local, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSidemen.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "recogida y traslado de regreso al hotel en Sidemen",
+   "scooter con conductor local",
+   "casco",
+   "combustible"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada",
+   "las propinas para el conductor local son opcionales pero siempre muy apreciadas; gracias por apoyar a nuestro conductor local"
+  ]
+ },
  "cyanotype-sun-printing-workshop-at-bk-creative-hub-in-ubud": {
   "title": "Taller de impresion solar en cianotipia en el BK Creative Hub, en Ubud",
   "metaTitle": "Taller de impresion solar en cianotipia en el BK Creative Hub,",
@@ -48404,6 +48420,22 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Gastos personales",
    "Propinas"
+  ]
+ },
+ "full-day-ulun-danu-beratan-temple-and-gitgit-waterfall-in-ubud": {
+  "title": "Dia Completo en el Templo Ulun Danu Beratan y la Cascada de Gitgit en Ubud",
+  "metaTitle": "Dia Completo en el Templo Ulun Danu Beratan y la Cascada de",
+  "shortDescription": "Recorrido de 8 horas en Ubud, con Ulun Danu Bratan Temple y Handara Iconic Gate and Gitgit Waterfall. Reserva directa con Trip Gotik - Bali Tours, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 8 horas desde Ubud, organizada en torno a Ulun Danu Bratan Temple y Handara Iconic Gate and Gitgit Waterfall. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLas cascadas del norte de Bali son mas grandes y tranquilas que las de alrededor de Ubud, y estan mas lejos: Sekumpul, Banyumala, Gitgit y las cascadas de Munduk estan todas a unas dos horas de Ubud por la carretera que cruza las montanas pasando los lagos. Sekumpul es la mas grande de la isla, con unos 80 metros, y llegar a la base implica un descenso empinado de varios cientos de escalones y cruzar un rio, asi que es una caminata en lugar de una parada en un mirador. Munduk esta a unos 800 metros, lo que la hace notablemente mas fresca y a menudo con niebla por la tarde. Los dias aqui arriba suelen combinar una cascada con el templo del lago de Ulun Danu Beratan y la puerta de Handara.\n\nEl precio incluye conductor local profesional, vehiculo con aire acondicionado y traslado al hotel (segun la opcion elegida). No incluye almuerzo y bebidas, Gastos personales y propina para el conductor, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nDenpasar.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "conductor local profesional",
+   "vehiculo con aire acondicionado",
+   "traslado al hotel (segun la opcion elegida)"
+  ],
+  "notIncluded": [
+   "almuerzo y bebidas",
+   "Gastos personales",
+   "propina para el conductor"
   ]
  },
  "sensual-clay-couple-ritual-at-bk-creative-hub-in-ubud": {
@@ -48852,6 +48884,18 @@ export const ES_TOURS: Record<string, TourT> = {
    "transporte hasta el lugar",
    "Comida y bebidas"
   ]
+ },
+ "petak-village-walk-morning-life-traditional-houses-and-lunch-in-ubud": {
+  "title": "Paseo por el Pueblo de Petak: Vida Matutina, Casas Tradicionales y Almuerzo en Ubud",
+  "metaTitle": "Paseo por el Pueblo de Petak: Vida Matutina, Casas Tradicionales",
+  "shortDescription": "Recorrido de 2 horas en Ubud, con Puri Biya Delodan Br. Petak Kaja. Reserva directa con Made Bati Tour and Travel, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 2 horas desde Ubud, organizada en torno a Puri Biya Delodan Br. Petak Kaja. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nEl hinduismo balines es una religion de practica diaria: las pequenas ofrendas de hojas de palma, canang sari, se colocan cada manana en puertas, altares y salpicaderos, y cada templo de pueblo tiene fiestas segun su propio calendario, por lo que hay una ceremonia en algun lugar de la isla todos los dias. Los visitantes entran en los templos con sarong y faja, proporcionados en la entrada, y se mantienen fuera de los patios interiores durante la oracion. Nyepi, el dia del silencio en marzo, cierra toda la isla durante 24 horas, incluidos el aeropuerto y las carreteras, y los tours no funcionan ese dia. Los balian, los curanderos tradicionales, y los lectores de manos aun ejercen en los pueblos alrededor de Ubud, y una lectura es una conversacion con un interprete mas que un espectaculo.\n\nEl precio incluye guia local durante toda la duracion, degustacion de kue en la casa del vendedor y refresco ligero. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPuri Biya Delodan Br. Petak Kaja.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "guia local durante toda la duracion",
+   "degustacion de kue en la casa del vendedor",
+   "refresco ligero"
+  ],
+  "notIncluded": []
  },
  "sunrise-jeep-tour-to-mount-batur": {
   "title": "Tour en jeep al amanecer al monte Batur",
@@ -49704,6 +49748,20 @@ export const ES_TOURS: Record<string, TourT> = {
    "protector solar"
   ]
  },
+ "pemuteran-west-bali-national-park-trek-with-hotel-pickup-ubud": {
+  "title": "Pemuteran: Trekking en el Parque Nacional del Oeste de Bali con Recogida en el Hotel (Ubud)",
+  "metaTitle": "Pemuteran: Trekking en el Parque Nacional del Oeste de Bali con",
+  "shortDescription": "Recorrido de 3,5 horas en Ubud, con transporte de ida y vuelta desde su hotel en las zonas de Pemuteran o Menjangan (transporte desde fuera de estas zonas disponible con cargo adicional), un guia de habla inglesa y tarifa de entrada al parque nacional del oeste de Bali. Reserva directa con Menjangan Tour Snorkeling & Diving, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 3,5 horas en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nCaminar alrededor de Ubud significa los desfiladeros fluviales y las terrazas. La cresta de Campuhan es la facil, dos kilometros por un camino pavimentado. El canon escondido de Beji Guwang, en Sukawati, es una caminata fluvial por un estrecho desfiladero de arenisca con guia, hasta la cintura en algunos tramos, cerrado tras lluvias fuertes. Las caminatas mas largas se dirigen a las colinas sobre Sidemen o Munduk, o suben el Batur y el Agung antes del amanecer. Las mananas son el momento para todo esto: hacia las 11:00 la humedad se vuelve pesada, y en las tardes de la temporada de lluvias, de noviembre a marzo, llueve desde aproximadamente las dos. Lleve un litro de agua por persona y calzado con buen agarre.\n\nEl precio incluye transporte de ida y vuelta desde su hotel en las zonas de Pemuteran o Menjangan (transporte desde fuera de estas zonas disponible con cargo adicional), un guia de habla inglesa y tarifa de entrada al parque nacional del oeste de Bali. No incluye camara, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nBanjuwedang.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "transporte de ida y vuelta desde su hotel en las zonas de Pemuteran o Menjangan (transporte desde fuera de estas zonas disponible con cargo adicional)",
+   "un guia de habla inglesa",
+   "tarifa de entrada al parque nacional del oeste de Bali"
+  ],
+  "notIncluded": [
+   "camara"
+  ]
+ },
  "rice-field-trekking-and-balinese-cooking-class-in-ubud": {
   "title": "Senderismo por campos de arroz y clase de cocina balinesa en Ubud",
   "metaTitle": "Senderismo por campos de arroz y clase de cocina balinesa en Ubud",
@@ -49843,6 +49901,19 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Gastos personales"
   ]
+ },
+ "tampaksiring-pura-mengening-melukat-ritual-with-guide-in-ubud": {
+  "title": "Tampaksiring: Ritual Melukat en Pura Mengening con Guia en Ubud",
+  "metaTitle": "Tampaksiring: Ritual Melukat en Pura Mengening con Guia en Ubud",
+  "shortDescription": "Recorrido de 2 horas en Ubud, con Pura Mengening. Reserva directa con Made Bati Tour and Travel, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 2 horas desde Ubud, organizada en torno a Pura Mengening. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nTirta Empul es un templo de agua en el rio Pakerisan, en Tampaksiring, fundado en el ano 962 d. C. alrededor de un manantial que los balineses consideran sagrado. El ritual de purificacion, melukat, consiste en entrar en la piscina e ir de surtidor en surtidor bajo el agua, en orden; dos de los surtidores estan reservados para ritos funerarios y no se usan, y un guia le indicara cuales. Se proporcionan sarongs en la entrada, y querra ropa de cambio para despues. El templo esta mas concurrido de fieles locales en torno a la luna llena y en los dias sagrados balineses, algo que conviene saber en lugar de evitar. El palacio presidencial construido por Sukarno en la decada de 1950 se encuentra en la colina justo encima de los manantiales.\n\nEl precio incluye guia presente durante toda la duracion, sarong para el ritual, materiales para la ofrenda y entrada al templo. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPura Mengening.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "guia presente durante toda la duracion",
+   "sarong para el ritual",
+   "materiales para la ofrenda",
+   "entrada al templo"
+  ],
+  "notIncluded": []
  },
  "discover-sidemen-s-first-silver-class-at-agung-silver-ubud": {
   "title": "Descubra la primera clase de plateria de Sidemen en Agung Silver (Ubud)",
@@ -50155,6 +50226,22 @@ export const ES_TOURS: Record<string, TourT> = {
    "refresco"
   ],
   "notIncluded": []
+ },
+ "the-authentic-sunset-of-baluran-national-park-banyuwangi-in-ubud": {
+  "title": "El Autentico Atardecer del Parque Nacional de Baluran, Banyuwangi (Ubud)",
+  "metaTitle": "El Autentico Atardecer del Parque Nacional de Baluran,",
+  "shortDescription": "Recorrido de 7 horas en Ubud, con Bekol View Point y Evergreen Forest and Bama beach. Reserva directa con Epic Escapes Indonesia, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 7 horas desde Ubud, organizada en torno a Bekol View Point y Evergreen Forest and Bama beach. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nEl sol se pone en Bali entre las 18:10 y las 18:40 durante todo el ano, y la oscuridad total llega en media hora, por lo que los tours de noche se programan de cerca alrededor de esto. Las luciernagas se encuentran en los arrozales humedos y a lo largo de los rios fuera de las luces del pueblo, normalmente desde las 19:00, y son mas brillantes en la temporada de lluvias; las danzas en Ubud empiezan a las 19:30 en el palacio y en el Ubud Water Palace. Los mercados nocturnos abren hacia las 17:00. El repelente de mosquitos importa tras el anochecer en los arrozales, y una linterna es util en los senderos.\n\nEl precio incluye servicio de recogida y traslado de regreso en vehiculo climatizado, transporte entre destinos y guia y conductor de habla inglesa. No incluye entrada al Parque Nacional de Baluran (225 000 IDR por persona), Gastos personales y propina, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nKalipuro.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "servicio de recogida y traslado de regreso en vehiculo climatizado",
+   "transporte entre destinos",
+   "guia y conductor de habla inglesa"
+  ],
+  "notIncluded": [
+   "entrada al Parque Nacional de Baluran (225 000 IDR por persona)",
+   "Gastos personales",
+   "propina"
+  ]
  },
  "7-day-guided-tour-with-accommodation-in-nusa-penida": {
   "title": "Tour guiado de 7 dias con alojamiento en Nusa Penida",
@@ -51130,6 +51217,21 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "turtle-conservation-and-quiet-snorkel-in-nusa-penida": {
+  "title": "Conservacion de Tortugas y Snorkel Tranquilo en Nusa Penida",
+  "metaTitle": "Conservacion de Tortugas y Snorkel Tranquilo en Nusa Penida",
+  "shortDescription": "Recorrido de 11 horas en Nusa Penida, con Nusa Penida. Reserva directa con Bali Good Trip, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 11 horas en Nusa Penida, organizada en torno a Nusa Penida. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nHacer esnorquel frente a Nusa Penida gira en torno a las mantarrayas de arrecife de Manta Point, en la costa sur de la isla, donde estan presentes todo el ano, alimentandose y siendo limpiadas en el oleaje al pie de los acantilados. Los barcos luego se trasladan a puntos mas tranquilos como Crystal Bay, Gamat Bay y el muro de Buyuk en busca de coral y peces. Entre julio y octubre, Crystal Bay es tambien el lugar al que llegan los buceadores por el pez luna oceanico, mola mola, que sube desde aguas profundas en los meses mas frescos. Manta Point esta expuesto al oleaje del sur y los barcos lo evitan cuando el mar esta agitado, por lo que un dia aqui siempre depende del clima. El cruce desde Sanur dura entre treinta y cuarenta y cinco minutos.\n\nEl precio incluye guia local, tarifa de entrada al centro de conservacion de tortugas y equipo de snorkel (mascara, tubo, aletas). No incluye Gastos personales y Almuerzo, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPenida Island.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "guia local",
+   "tarifa de entrada al centro de conservacion de tortugas",
+   "equipo de snorkel (mascara, tubo, aletas)"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Almuerzo"
+  ]
+ },
  "historic-murals-fairy-garden-and-bat-cave-temple-tour-in-nusa-penida": {
   "title": "Murales historicos, jardin de las hadas y templo de la cueva de los murcielagos, en Nusa Penida",
   "metaTitle": "Murales historicos, jardin de las hadas y templo de la cueva de",
@@ -51372,6 +51474,22 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas",
    "Gastos personales"
+  ]
+ },
+ "pemuteran-bali-menjangan-island-snorkeling-trip-with-lunch-uluwatu": {
+  "title": "Pemuteran, Bali: Excursion de Snorkel a la Isla de Menjangan con Almuerzo (Uluwatu)",
+  "metaTitle": "Pemuteran, Bali: Excursion de Snorkel a la Isla de Menjangan con",
+  "shortDescription": "Recorrido de 5 horas en Uluwatu, con Menjangan Snorkeling Trip & Diving and Menjangan Island. Reserva directa con Menjangan Snorkeling Trip & Diving, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 5 horas desde Uluwatu, organizada en torno a Menjangan Snorkeling Trip & Diving and Menjangan Island. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nHacer esnorquel frente a Nusa Penida gira en torno a las mantarrayas de arrecife de Manta Point, en la costa sur de la isla, donde estan presentes todo el ano, alimentandose y siendo limpiadas en el oleaje al pie de los acantilados. Los barcos luego se trasladan a puntos mas tranquilos como Crystal Bay, Gamat Bay y el muro de Buyuk en busca de coral y peces. Entre julio y octubre, Crystal Bay es tambien el lugar al que llegan los buceadores por el pez luna oceanico, mola mola, que sube desde aguas profundas en los meses mas frescos. Manta Point esta expuesto al oleaje del sur y los barcos lo evitan cuando el mar esta agitado, por lo que un dia aqui siempre depende del clima. El cruce desde Sanur dura entre treinta y cuarenta y cinco minutos.\n\nEl precio incluye viaje en barco compartido a la isla de Menjangan, dos sesiones de snorkel, caja de almuerzo, agua mineral y equipo de snorkel. No incluye camara submarina, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nNaya Gawana Resort and Spa.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "viaje en barco compartido a la isla de Menjangan",
+   "dos sesiones de snorkel",
+   "caja de almuerzo",
+   "agua mineral",
+   "equipo de snorkel"
+  ],
+  "notIncluded": [
+   "camara submarina"
   ]
  },
  "melasti-spectacular-sunset-with-kecak-dance-in-uluwatu": {
@@ -52200,6 +52318,21 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "snorkeling-with-lembongan-tour-and-buffet-lunch": {
+  "title": "Snorkel con Tour de Lembongan y Almuerzo Buffet",
+  "metaTitle": "Snorkel con Tour de Lembongan y Almuerzo Buffet",
+  "shortDescription": "Recorrido de 5 horas en Nusa Penida, con Speedboat y Manta Point and Gamat Bay. Reserva directa con Lembongan Water Sport, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 5 horas desde Nusa Penida, organizada en torno a Speedboat y Manta Point and Gamat Bay. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nHacer esnorquel frente a Nusa Penida gira en torno a las mantarrayas de arrecife de Manta Point, en la costa sur de la isla, donde estan presentes todo el ano, alimentandose y siendo limpiadas en el oleaje al pie de los acantilados. Los barcos luego se trasladan a puntos mas tranquilos como Crystal Bay, Gamat Bay y el muro de Buyuk en busca de coral y peces. Entre julio y octubre, Crystal Bay es tambien el lugar al que llegan los buceadores por el pez luna oceanico, mola mola, que sube desde aguas profundas en los meses mas frescos. Manta Point esta expuesto al oleaje del sur y los barcos lo evitan cuando el mar esta agitado, por lo que un dia aqui siempre depende del clima. El cruce desde Sanur dura entre treinta y cuarenta y cinco minutos.\n\nEl precio incluye traslados de ida y vuelta desde el puerto de Toyapakeh y Lembongan, bebidas de bienvenida y aperitivos y sesiones de snorkel en 3 puntos alrededor de Nusa Penida y Nusa Lembongan. No incluye Recogida y traslado al hotel y retribucion marina IDR 100 000 por persona, si ya la pago al llegar a la isla, traiga los billetes con usted, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nToya Pakeh Harbour.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "traslados de ida y vuelta desde el puerto de Toyapakeh y Lembongan",
+   "bebidas de bienvenida y aperitivos",
+   "sesiones de snorkel en 3 puntos alrededor de Nusa Penida y Nusa Lembongan"
+  ],
+  "notIncluded": [
+   "Recogida y traslado al hotel",
+   "retribucion marina IDR 100 000 por persona, si ya la pago al llegar a la isla, traiga los billetes con usted"
+  ]
+ },
  "nusa-penida-island-safari-with-manta-ray-snorkeling-nusa-penida": {
   "title": "Safari por la isla de Nusa Penida con snorkel de mantarrayas (Nusa Penida)",
   "metaTitle": "Safari por la isla de Nusa Penida con snorkel de mantarrayas",
@@ -52257,6 +52390,22 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Almuerzo",
    "cena"
+  ]
+ },
+ "manta-snorkeling-with-buffet-lunch-and-kayaking-in-nusa-penida": {
+  "title": "Snorkel con Mantarrayas, Almuerzo Buffet y Kayak en Nusa Penida",
+  "metaTitle": "Snorkel con Mantarrayas, Almuerzo Buffet y Kayak en Nusa Penida",
+  "shortDescription": "Recorrido de 3 horas en Nusa Penida, con Other water transport y Mesari Beach Restaurant and Manta Point. Reserva directa con Lembongan Water Sport, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 3 horas desde Nusa Penida, organizada en torno a Other water transport y Mesari Beach Restaurant and Manta Point. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nHacer esnorquel frente a Nusa Penida gira en torno a las mantarrayas de arrecife de Manta Point, en la costa sur de la isla, donde estan presentes todo el ano, alimentandose y siendo limpiadas en el oleaje al pie de los acantilados. Los barcos luego se trasladan a puntos mas tranquilos como Crystal Bay, Gamat Bay y el muro de Buyuk en busca de coral y peces. Entre julio y octubre, Crystal Bay es tambien el lugar al que llegan los buceadores por el pez luna oceanico, mola mola, que sube desde aguas profundas en los meses mas frescos. Manta Point esta expuesto al oleaje del sur y los barcos lo evitan cuando el mar esta agitado, por lo que un dia aqui siempre depende del clima. El cruce desde Sanur dura entre treinta y cuarenta y cinco minutos.\n\nEl precio incluye traslados de ida y vuelta desde el puerto de Toyapakeh y Lembongan, transporte desde el centro de actividades acuaticas de regreso al barco, bebidas de bienvenida y aperitivos y sesiones de snorkel en 3 puntos alrededor de Nusa Penida y Nusa Lembongan. No incluye Recogida y traslado al hotel y retribucion marina IDR 100 000 por persona, si ya la pago al llegar a la isla, traiga los billetes con usted, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nToya Pakeh Harbour.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "traslados de ida y vuelta desde el puerto de Toyapakeh y Lembongan",
+   "transporte desde el centro de actividades acuaticas de regreso al barco",
+   "bebidas de bienvenida y aperitivos",
+   "sesiones de snorkel en 3 puntos alrededor de Nusa Penida y Nusa Lembongan"
+  ],
+  "notIncluded": [
+   "Recogida y traslado al hotel",
+   "retribucion marina IDR 100 000 por persona, si ya la pago al llegar a la isla, traiga los billetes con usted"
   ]
  },
  "private-car-with-driver-and-opt-fastboat-tickets-in-nusa-penida": {
@@ -52368,6 +52517,20 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "retribucion marina IDR 100 000 por persona, si ya la pago al llegar a la isla, traiga los billetes con usted"
+  ]
+ },
+ "private-car-hire-with-driver-in-nusa-penida": {
+  "title": "Alquiler de Coche Privado con Conductor en Nusa Penida",
+  "metaTitle": "Alquiler de Coche Privado con Conductor en Nusa Penida",
+  "shortDescription": "Recorrido de 6 horas en Nusa Penida, con Vehiculo privado con aire acondicionado, conductor local y combustible. Reserva directa con Trip Gotik - Bali Tours, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 6 horas en Nusa Penida. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nNusa Penida es la mas grande de las tres islas frente a la costa sureste de Bali, unos 200 kilometros cuadrados de piedra caliza con acantilados al sur y al oeste y unos pocos pueblos en la costa norte donde atracan los barcos. Apenas tiene trafico, pero sus carreteras son estrechas y lentas, por lo que una excursion de un dia cubre el lado oeste (Kelingking, Broken Beach, Angel's Billabong) o el este (Diamond Beach, Atuh, Tree House), no ambos. Los barcos rapidos desde Sanur tardan entre treinta y cuarenta y cinco minutos, salen a partir de las 7:00 aproximadamente, y se cancelan o retrasan con oleaje fuerte. Lleve efectivo: los terminales de tarjeta son escasos y los cajeros poco fiables.\n\nEl precio incluye Vehiculo privado con aire acondicionado, conductor local y combustible. No incluye retribucion local de IDR 25 000 por persona a la llegada a Nusa Penida, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nNusa Penida.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "Vehiculo privado con aire acondicionado",
+   "conductor local",
+   "combustible"
+  ],
+  "notIncluded": [
+   "retribucion local de IDR 25 000 por persona a la llegada a Nusa Penida"
   ]
  },
  "combine-tour-in-nusa-penida": {
@@ -53627,6 +53790,18 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "transporte al estudio",
    "Comidas"
+  ]
+ },
+ "horse-riding-adventure-on-seminyak-beach": {
+  "title": "Aventura a Caballo en la Playa de Seminyak",
+  "metaTitle": "Aventura a Caballo en la Playa de Seminyak",
+  "shortDescription": "Recorrido de 30 minutos en Canggu, con Seminyak. Reserva directa con Bali Rahayu Travel, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 30 minutos desde Canggu, organizada en torno a Seminyak. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLa equitacion en Bali se practica en las playas de arena negra de Gianyar, en Saba y Keramas, a media hora al sureste de Ubud, y en Sanur y Seminyak en el sur. Los paseos duran de 60 a 90 minutos al paso y al trote por la arena y entre los cocoteros detras de ella, sobre pequenos caballos indonesios tranquilos, con un guia que lleva a los principiantes de una cuerda; los cascos se proporcionan y los pantalones largos son recomendables. La primera hora de la manana y la ultima antes del atardecer son los mejores momentos para montar, por la luz y porque la arena esta demasiado caliente al mediodia.\n\nEl precio incluye paseo de 30 minutos o 1 hora segun la opcion elegida. No incluye Comida, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nHorse's Riding in Bali on the seminyak beach🤠/HorsesRiding Seminyak beach, MesariStables.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "paseo de 30 minutos o 1 hora segun la opcion elegida"
+  ],
+  "notIncluded": [
+   "Comida"
   ]
  },
  "silver-and-brass-jewelry-class-with-gold-plating-option-in-canggu": {
@@ -55252,6 +55427,24 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "ubud-highlights-swing-rice-terace-waterfalls-and-more": {
+  "title": "Lo Mejor de Ubud: Columpio, Terrazas de Arroz, Cascadas y Mas",
+  "metaTitle": "Lo Mejor de Ubud: Columpio, Terrazas de Arroz, Cascadas y Mas",
+  "shortDescription": "Recorrido de 9 horas en Ubud, con Happy Swing Bali y Tegallalang Rice Terrace and Ulu Petanu Waterfall. Reserva directa con bali best private tour, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 9 horas desde Ubud, organizada en torno a Happy Swing Bali y Tegallalang Rice Terrace and Ulu Petanu Waterfall. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLas cascadas alrededor de Ubud se encuentran en una franja al este y al sur de la ciudad, en su mayoria a menos de una hora en coche. Tegenungan es la mas cercana y la mas concurrida, con una caida ancha y una piscina en la base. Tibumana y Kanto Lampo, ambas en Bangli, son mas pequenas y mejores para meterse en el agua: Tibumana cae en una sola cortina hacia una piscina clara, y en Kanto Lampo el agua se abre en abanico sobre una pared de roca escalonada a la que la gente se sube para hacerse fotos. En todas hay que bajar y volver a subir escalones, y las rocas son resbaladizas, asi que unas sandalias o zapatos que puedan mojarse son el calzado adecuado. La temporada de lluvias, de noviembre a marzo, trae el caudal mas abundante pero tambien agua marron durante uno o dos dias tras lluvias fuertes.\n\nEl precio incluye visita a Happy Swing, visita a la terraza de arroz de Tegalalang, visita a la cascada de Ulu Petanu, visita al templo de Tirta Empul y visita a una plantacion de cafe local. No incluye Comidas, Gastos personales y Entradas, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nBadung Regency.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "visita a Happy Swing",
+   "visita a la terraza de arroz de Tegalalang",
+   "visita a la cascada de Ulu Petanu",
+   "visita al templo de Tirta Empul",
+   "visita a una plantacion de cafe local"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Gastos personales",
+   "Entradas"
+  ]
+ },
  "walking-tour-with-campuhan-ridge-and-monkey-forest-in-ubud": {
   "title": "Tour a pie con la cresta de Campuhan y el Bosque de los Monos, en Ubud",
   "metaTitle": "Tour a pie con la cresta de Campuhan y el Bosque de los Monos,",
@@ -55776,6 +55969,22 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Almuerzo"
+  ]
+ },
+ "nungnung-waterfall-unesco-rice-terraces-and-temple-in-ubud": {
+  "title": "Cascada de Nungnung, Terrazas de Arroz UNESCO y Templo en Ubud",
+  "metaTitle": "Cascada de Nungnung, Terrazas de Arroz UNESCO y Templo en Ubud",
+  "shortDescription": "Recorrido de 8 horas en Ubud, con Nungnung Waterfall y Jatiluwih Rice Terrace and Pura Luhur Batukaru. Reserva directa con Trip Gotik - Bali Tours, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 8 horas desde Ubud, organizada en torno a Nungnung Waterfall y Jatiluwih Rice Terrace and Pura Luhur Batukaru. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLas terrazas de arroz de Tegallalang estan a veinte minutos al norte de Ubud, en la carretera hacia Kintamani, y son arrozales en activo alimentados por el sistema de riego subak, declarado por la UNESCO en 2012. Antes de las 8:30 de la manana aproximadamente, el valle pertenece a los agricultores, los campos todavia estan humedos por la noche, y hace el fresco suficiente para caminar por las terrazas y subir por el otro lado. Hacia las diez llegan los autobuses del sur y la carretera sobre las terrazas se convierte en una fila de cafeterias, columpios y plataformas para fotos. Hay una pequena tarifa de entrada en el mirador, y agricultores a lo largo de los senderos entre los campos piden unos pocos miles de rupias por cruzar su terreno, lo cual es normal. Los columpios son negocios independientes con sus propios precios.\n\nEl precio incluye conductor local profesional, vehiculo con aire acondicionado y Traslado al hotel. No incluye almuerzo y bebidas, Gastos personales y Propinas, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nDenpasar.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "conductor local profesional",
+   "vehiculo con aire acondicionado",
+   "Traslado al hotel"
+  ],
+  "notIncluded": [
+   "almuerzo y bebidas",
+   "Gastos personales",
+   "Propinas"
   ]
  },
  "sunrise-dolphin-snorkel-waterfall-and-unesco-temple-in-ubud": {
@@ -56427,6 +56636,20 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "toalla"
+  ]
+ },
+ "ubud-s-waterfall-trail-four-hidden-falls-ubud": {
+  "title": "Ruta de Cascadas de Ubud: Cuatro Caidas Escondidas (Ubud)",
+  "metaTitle": "Ruta de Cascadas de Ubud: Cuatro Caidas Escondidas (Ubud)",
+  "shortDescription": "Recorrido de 8 horas en Ubud, con Kanto Lampo Waterfall y Tibumana Waterfall and Suwat Waterfall. Reserva directa con Go Bali Holiday Tour & Travel, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 8 horas desde Ubud, organizada en torno a Kanto Lampo Waterfall y Tibumana Waterfall and Suwat Waterfall. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLas cascadas alrededor de Ubud se encuentran en una franja al este y al sur de la ciudad, en su mayoria a menos de una hora en coche. Tegenungan es la mas cercana y la mas concurrida, con una caida ancha y una piscina en la base. Tibumana y Kanto Lampo, ambas en Bangli, son mas pequenas y mejores para meterse en el agua: Tibumana cae en una sola cortina hacia una piscina clara, y en Kanto Lampo el agua se abre en abanico sobre una pared de roca escalonada a la que la gente se sube para hacerse fotos. En todas hay que bajar y volver a subir escalones, y las rocas son resbaladizas, asi que unas sandalias o zapatos que puedan mojarse son el calzado adecuado. La temporada de lluvias, de noviembre a marzo, trae el caudal mas abundante pero tambien agua marron durante uno o dos dias tras lluvias fuertes.\n\nEl precio incluye Vehiculo privado con aire acondicionado, recogida y regreso al hotel desde zonas seleccionadas y Conductor local de habla inglesa. No incluye entradas para las 4 cascadas (salvo que se seleccione la opcion con entradas incluidas), cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nNusa dua.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "Vehiculo privado con aire acondicionado",
+   "recogida y regreso al hotel desde zonas seleccionadas",
+   "Conductor local de habla inglesa"
+  ],
+  "notIncluded": [
+   "entradas para las 4 cascadas (salvo que se seleccione la opcion con entradas incluidas)"
   ]
  },
  "amed-jemeluk-and-lipah-beach-snorkeling-adventure": {
