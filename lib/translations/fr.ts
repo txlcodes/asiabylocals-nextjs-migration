@@ -48222,6 +48222,21 @@ export const FR_TOURS: Record<string, TourT> = {
    "Depenses personnelles"
   ]
  },
+ "rice-terraces-gembleng-waterfall-and-honey-bee-farm-in-ubud": {
+  "title": "Rizieres en Terrasses, Cascade de Gembleng et Ferme Apicole a Ubud",
+  "metaTitle": "Rizieres en Terrasses, Cascade de Gembleng et Ferme Apicole a",
+  "shortDescription": "Visite de 8 heures a Ubud, avec SIDEMEN RICE TERRACE et Gembleng Waterfall and Lokasari Luwak Coffee Plantation & Honeybee farm. Reservation directe aupres de ATV & RAFTING Telaga Waja, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 8 heures au depart de Ubud, construite autour de SIDEMEN RICE TERRACE et Gembleng Waterfall and Lokasari Luwak Coffee Plantation & Honeybee farm. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes rizieres en terrasses de Tegallalang se trouvent a vingt minutes au nord d'Ubud sur la route de Kintamani, et ce sont de veritables rizieres irriguees par le systeme subak, classe par l'UNESCO en 2012. Avant environ 8h30 le matin, la vallee appartient aux agriculteurs, les rizieres sont encore humides de la nuit, et il fait assez frais pour marcher a travers les terrasses et remonter de l'autre cote. Vers dix heures, les cars venus du sud arrivent et la route au-dessus des terrasses devient une succession de cafes, de balancoires et de plateformes photo. Il y a un petit droit d'entree au point de vue, et des agriculteurs le long des sentiers a travers les champs demandent quelques milliers de roupies pour traverser leur terrain, ce qui est normal. Les balancoires sont des commerces independants avec leurs propres tarifs.\n\nLe prix comprend chauffeur professionnel parlant anglais, Voiture privee climatisee et prise en charge et retour a l'hotel dans la zone de prise en charge selectionnee. Il ne comprend pas billets d'entree pour toutes les attractions et nourriture et repas, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nSidemen.. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "chauffeur professionnel parlant anglais",
+   "Voiture privee climatisee",
+   "prise en charge et retour a l'hotel dans la zone de prise en charge selectionnee"
+  ],
+  "notIncluded": [
+   "billets d'entree pour toutes les attractions",
+   "nourriture et repas"
+  ]
+ },
  "sidemen-scooter-tour-ubud": {
   "title": "Tour en Scooter a Sidemen (Ubud)",
   "metaTitle": "Tour en Scooter a Sidemen (Ubud)",
@@ -50886,6 +50901,19 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires facultatifs, a votre discretion"
   ]
  },
+ "fun-diving-island-adventure-1-day-trip-lunch-in-nusa-penida": {
+  "title": "Aventure Insulaire de Plongee Loisir, Excursion d une Journee avec Dejeuner a Nusa Penida",
+  "metaTitle": "Aventure Insulaire de Plongee Loisir, Excursion d une Journee",
+  "shortDescription": "Visite de 8 heures a Nusa Penida, avec Manta Point et Nusa Penida and Crystal Bay. Reservation directe aupres de Jukung Dive Resort Bali, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 8 heures a Nusa Penida, construite autour de Manta Point et Nusa Penida and Crystal Bay. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nNusa Penida est la plus grande des trois iles au large de la cote sud-est de Bali, environ 200 kilometres carres de calcaire avec des falaises au sud et a l'ouest et quelques villages sur la cote nord ou accostent les bateaux. Il n'y a quasiment pas de circulation mais ses routes sont etroites et lentes, c'est pourquoi une excursion d'une journee couvre soit le cote ouest (Kelingking, Broken Beach, Angel's Billabong), soit le cote est (Diamond Beach, Atuh, Tree House), mais pas les deux. Les bateaux rapides depuis Sanur mettent de trente a quarante-cinq minutes, partent a partir d'environ 7h00, et sont annules ou retardes en cas de forte houle. Prevoyez de l'argent liquide : les terminaux de carte sont rares et les distributeurs peu fiables.\n\nLe prix comprend 2 plongees de loisir guidees a Nusa Penida. Il ne comprend pas assurance plongee et voyage personnelle et transferts a l hotel disponibles en option supplementaire (depuis Penida ou Bali), a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nJukung Dive Resort Penida.. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "2 plongees de loisir guidees a Nusa Penida"
+  ],
+  "notIncluded": [
+   "assurance plongee et voyage personnelle",
+   "transferts a l hotel disponibles en option supplementaire (depuis Penida ou Bali)"
+  ]
+ },
  "full-day-private-boat-snorkeling-nusa-penida": {
   "title": "Journee complete en bateau prive et snorkeling a Nusa Penida",
   "metaTitle": "Journee complete en bateau prive et snorkeling a Nusa Penida",
@@ -51044,6 +51072,21 @@ export const FR_TOURS: Record<string, TourT> = {
    "nourriture et boissons supplementaires non mentionnees dans les inclusions",
    "Assurance voyage",
    "transferts facultatifs depuis Bali continentale vers Nusa Penida"
+  ]
+ },
+ "nusa-penida-island-tour-and-private-snorkeling-nusa-penida": {
+  "title": "Tour de l Ile de Nusa Penida et Snorkeling Prive (Nusa Penida)",
+  "metaTitle": "Tour de l Ile de Nusa Penida et Snorkeling Prive (Nusa Penida)",
+  "shortDescription": "Visite de 9 heures a Nusa Penida, avec Speedboat et Diamond Beach Nusa Penida and Manta Bay. Reservation directe aupres de CV. Melali Nusa penida Travel, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 9 heures a Nusa Penida, construite autour de Speedboat et Diamond Beach Nusa Penida and Manta Bay. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nFaire du snorkeling au large de Nusa Penida, c'est avant tout aller a la rencontre des raies manta de recif a Manta Point, sur la cote sud de l'ile, ou elles sont presentes toute l'annee, se nourrissant et se faisant nettoyer dans le ressac au pied des falaises. Les bateaux se deplacent ensuite vers des spots plus calmes comme Crystal Bay, Gamat Bay et le mur de Buyuk pour le corail et les poissons. Entre juillet et octobre, Crystal Bay est aussi l'endroit ou viennent les plongeurs pour le poisson-lune oceanique, le mola mola, qui remonte des eaux profondes pendant les mois plus frais. Manta Point est expose au ressac venant du sud et les bateaux l'evitent quand la mer est agitee, donc une journee ici depend toujours de la meteo. La traversee depuis Sanur dure de trente a quarante-cinq minutes.\n\nLe prix comprend prise en charge et retour a l'hotel depuis Bali (Kuta, Seminyak, Sanur, Canggu, Ubud, Jimbaran, Nusa Dua), billet de fastboat aller-retour (Sanur-Nusa Penida) et voiture privee climatisee et chauffeur local sur l'ile. Il ne comprend pas pourboires pour le guide et l'equipage (facultatifs mais apprecies) et depenses personnelles et souvenirs, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nDenpasar.. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "prise en charge et retour a l'hotel depuis Bali (Kuta, Seminyak, Sanur, Canggu, Ubud, Jimbaran, Nusa Dua)",
+   "billet de fastboat aller-retour (Sanur-Nusa Penida)",
+   "voiture privee climatisee et chauffeur local sur l'ile"
+  ],
+  "notIncluded": [
+   "pourboires pour le guide et l'equipage (facultatifs mais apprecies)",
+   "depenses personnelles et souvenirs"
   ]
  },
  "3-days-nusa-penida-tour-west-east-and-nusa-lembongan-nusa-penida": {
@@ -51330,6 +51373,20 @@ export const FR_TOURS: Record<string, TourT> = {
    "Les enfants de 1 a 3 ans participent gratuitement"
   ],
   "notIncluded": []
+ },
+ "private-nusa-penida-west-snorkeling-and-east-coast-2-days": {
+  "title": "Nusa Penida Prive: Snorkeling a l Ouest et Cote Est, 2 Jours",
+  "metaTitle": "Nusa Penida Prive: Snorkeling a l Ouest et Cote Est, 2 Jours",
+  "shortDescription": "Visite de 2 jours a Nusa Penida, avec Boat transfer et Kelingking and Broken beach. Reservation directe aupres de CV. Melali Nusa penida Travel, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 2 jours au depart de Nusa Penida, construite autour de Boat transfer et Kelingking and Broken beach. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nFaire du snorkeling au large de Nusa Penida, c'est avant tout aller a la rencontre des raies manta de recif a Manta Point, sur la cote sud de l'ile, ou elles sont presentes toute l'annee, se nourrissant et se faisant nettoyer dans le ressac au pied des falaises. Les bateaux se deplacent ensuite vers des spots plus calmes comme Crystal Bay, Gamat Bay et le mur de Buyuk pour le corail et les poissons. Entre juillet et octobre, Crystal Bay est aussi l'endroit ou viennent les plongeurs pour le poisson-lune oceanique, le mola mola, qui remonte des eaux profondes pendant les mois plus frais. Manta Point est expose au ressac venant du sud et les bateaux l'evitent quand la mer est agitee, donc une journee ici depend toujours de la meteo. La traversee depuis Sanur dure de trente a quarante-cinq minutes.\n\nLe prix comprend prise en charge et retour privee a l'hotel (aller-retour), voiture privee et chauffeur (jour 1 et jour 2) et traversee en bateau privee (jour 1 et jour 2). Il ne comprend pas hebergement entre le jour 1 et le jour 2, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nTransfer to Sanur Harbor.. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "prise en charge et retour privee a l'hotel (aller-retour)",
+   "voiture privee et chauffeur (jour 1 et jour 2)",
+   "traversee en bateau privee (jour 1 et jour 2)"
+  ],
+  "notIncluded": [
+   "hebergement entre le jour 1 et le jour 2"
+  ]
  },
  "nusa-penida-snorkeling-adventure-with-lunch": {
   "title": "Aventure de snorkeling a Nusa Penida avec dejeuner",
@@ -52291,6 +52348,21 @@ export const FR_TOURS: Record<string, TourT> = {
    "assurance"
   ]
  },
+ "nusa-dua-tandem-paragliding-with-certified-pilot-in-uluwatu": {
+  "title": "Parapente en Tandem a Nusa Dua avec Pilote Certifie (Uluwatu)",
+  "metaTitle": "Parapente en Tandem a Nusa Dua avec Pilote Certifie (Uluwatu)",
+  "shortDescription": "Visite a Uluwatu, avec View point and Nusa Dua. Reservation directe aupres de RIUG Paragliding, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience au depart de Uluwatu, construite autour de View point and Nusa Dua. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLa peninsule de Bukit, le bloc calcaire a la pointe sud de Bali, abrite le temple d'Uluwatu et son Kecak, les plages de falaise, et la statue du Garuda Wisnu Kencana, une figure de 121 metres de Vishnu monte sur Garuda achevee en 2018 apres 28 ans, qui se trouve dans un parc culturel avec des spectacles de danse tout au long de la journee. La peninsule est seche, chaude et presque sans ombre, et les distances entre les plages sont plus longues qu'elles ne paraissent sur une carte, donc un chauffeur pour la journee est le moyen habituel de la visiter. Le coucher du soleil est vers 18h15 a 18h30 toute l'annee, et le sentier de falaise d'Uluwatu se remplit a cette heure.\n\nLe prix comprend vol en parapente en tandem avec un pilote certifie (environ 15 minutes), equipement de securite (casque, harnais et parapente), tous conformes aux normes FAI et europeennes et pret de notre GoPro HERO9 pour filmer le vol. Il ne comprend pas transport prive aller-retour vers le site de vol et depenses personnelles (ex: nourriture, boissons), a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\n(Paragliding Bali) Riug Paragliding.. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "vol en parapente en tandem avec un pilote certifie (environ 15 minutes)",
+   "equipement de securite (casque, harnais et parapente), tous conformes aux normes FAI et europeennes",
+   "pret de notre GoPro HERO9 pour filmer le vol"
+  ],
+  "notIncluded": [
+   "transport prive aller-retour vers le site de vol",
+   "depenses personnelles (ex: nourriture, boissons)"
+  ]
+ },
  "balinese-tantra-and-energy-meditation-workshop-in-canggu": {
   "title": "Atelier de Tantra Balinais et de Meditation Energetique a Canggu",
   "metaTitle": "Atelier de Tantra Balinais et de Meditation Energetique a Canggu",
@@ -52753,6 +52825,24 @@ export const FR_TOURS: Record<string, TourT> = {
    "frais de photo a la Tree House",
    "frais d'entree a la Tree House",
    "frais d'entree a Diamond Beach"
+  ]
+ },
+ "lembongan-and-penida-2-day-tour-with-snorkeling": {
+  "title": "Tour de 2 Jours a Lembongan et Penida avec Snorkeling",
+  "metaTitle": "Tour de 2 Jours a Lembongan et Penida avec Snorkeling",
+  "shortDescription": "Visite de 2 jours a Nusa Penida, avec Go to Nusa Lembongan Island et Transport to Lembongan Watersport and Snorkeling 3 spots. Reservation directe aupres de Lembongan Water Sport, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 2 jours a Nusa Penida, construite autour de Go to Nusa Lembongan Island et Transport to Lembongan Watersport and Snorkeling 3 spots. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nFaire du snorkeling au large de Nusa Penida, c'est avant tout aller a la rencontre des raies manta de recif a Manta Point, sur la cote sud de l'ile, ou elles sont presentes toute l'annee, se nourrissant et se faisant nettoyer dans le ressac au pied des falaises. Les bateaux se deplacent ensuite vers des spots plus calmes comme Crystal Bay, Gamat Bay et le mur de Buyuk pour le corail et les poissons. Entre juillet et octobre, Crystal Bay est aussi l'endroit ou viennent les plongeurs pour le poisson-lune oceanique, le mola mola, qui remonte des eaux profondes pendant les mois plus frais. Manta Point est expose au ressac venant du sud et les bateaux l'evitent quand la mer est agitee, donc une journee ici depend toujours de la meteo. La traversee depuis Sanur dure de trente a quarante-cinq minutes.\n\nLe prix comprend prise en charge et retour a l'hotel dans certaines zones (si l'option est selectionnee), transferts en hors-bord aller-retour Bali/Lembongan, 1 bagage enregistre par client sur le transfert en hors-bord, boissons d'accueil et collations et tour de snorkeling avec 3 arrets. Il ne comprend pas photos et videos sous marines, boissons et frais de Nusa Penida, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nYou'll get picked up from the hotel.. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "prise en charge et retour a l'hotel dans certaines zones (si l'option est selectionnee)",
+   "transferts en hors-bord aller-retour Bali/Lembongan",
+   "1 bagage enregistre par client sur le transfert en hors-bord",
+   "boissons d'accueil et collations",
+   "tour de snorkeling avec 3 arrets"
+  ],
+  "notIncluded": [
+   "photos et videos sous marines",
+   "boissons",
+   "frais de Nusa Penida"
   ]
  },
  "gate-of-heaven-private-tour-by-luxury-car-in-nusa-penida": {
@@ -55074,6 +55164,18 @@ export const FR_TOURS: Record<string, TourT> = {
    "Repas",
    "Pourboires"
   ]
+ },
+ "family-private-cooking-with-harvest-and-cow-feeding-in-ubud": {
+  "title": "Cuisine Familiale Privee avec Recolte et Nourrissage des Vaches a Ubud",
+  "metaTitle": "Cuisine Familiale Privee avec Recolte et Nourrissage des Vaches",
+  "shortDescription": "Visite de 5 heures a Ubud, avec Paon Escape. Reservation directe aupres de Paon Escape Balinese Cooking Class, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 5 heures au depart de Ubud, construite autour de Paon Escape. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes cours de cuisine balinaise commencent generalement par un marche matinal pour acheter les ingredients, puis se poursuivent dans une cour familiale ou une cuisine amenagee pour l'occasion. La base de la plupart des plats est base genep, une pate d'epices a base d'echalotes, d'ail, de galanga, de curcuma, de gingembre, de piments, de noix de bancoule et de pate de crevettes pilees ensemble, et elle donne naissance au sate lilit (viande hachee sur des batonnets de citronnelle), au lawar (une salade hachee avec de la noix de coco et du sang dans la version traditionnelle), au pepes (poisson cuit a la vapeur dans une feuille de bananier) et au riz jaune, nasi kuning. Les cours durent de trois a quatre heures, vous mangez ce que vous preparez a la fin, et des versions vegetariennes sont proposees sur demande.\n\nLe prix comprend cours de cuisine familial prive, instructeur de cuisine local et hote et ingredients de cuisine. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nPura Dalem Puri Peliatan.. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "cours de cuisine familial prive",
+   "instructeur de cuisine local et hote",
+   "ingredients de cuisine"
+  ],
+  "notIncluded": []
  },
  "3-waterfalls-rice-terrace-and-coffee-plantation-in-ubud": {
   "title": "3 cascades, rizieres en terrasses et plantation de cafe a Ubud",
