@@ -54703,6 +54703,20 @@ export const ES_TOURS: Record<string, TourT> = {
    "complementos opcionales"
   ]
  },
+ "buggy-utv-adventure-with-options-tour-and-activities-in-canggu": {
+  "title": "Aventura en buggy UTV con opciones de tour y actividades en Canggu",
+  "metaTitle": "Aventura en buggy UTV con opciones de tour y actividades en",
+  "shortDescription": "Recorrido de 8 horas en Canggu, con Ubud Buggy Adventure y Abian Desa Rice Terrace and Ulu Petanu Waterfall. Reserva directa con BJ Transport Bali By GW, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 8 horas desde Canggu, organizada en torno a Ubud Buggy Adventure y Abian Desa Rice Terrace and Ulu Petanu Waterfall. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLas pistas de ATV alrededor de Ubud recorren los pueblos al norte de la ciudad, cerca de Payangan y Tegallalang, sobre una mezcla de camino de tierra, pista de plantacion, lecho de rio y, en la mayoria de las rutas, un tramo de barro profundo que es lo que la gente mas recuerda. Los recorridos suelen durar de 1,5 a 2 horas sobre la maquina, en cuatrimoto en tandem o individual, con un guia al frente. Terminara sucio desde las rodillas hacia abajo, y a menudo por completo, asi que use ropa que no le importe ensuciar; los operadores proporcionan botas, cascos y una ducha despues. Las edades minimas para conducir varian segun el operador y figuran en la opcion, y los ninos suelen ir como pasajeros.\n\nEl precio incluye coche privado con conductor de habla inglesa, recogida y regreso al hotel desde las zonas de Ketewel, Sanur, Ubud, aventura en buggy de 1,5 horas con guia, entradas a las terrazas de arroz y a la cascada de Ulun Petanu y agua mineral. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Canggu. BJ Transport Bali By GW confirma la hora de recogida y el lugar exacto una vez realizada la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "coche privado con conductor de habla inglesa",
+   "recogida y regreso al hotel desde las zonas de Ketewel, Sanur, Ubud",
+   "aventura en buggy de 1,5 horas con guia",
+   "entradas a las terrazas de arroz y a la cascada de Ulun Petanu",
+   "agua mineral"
+  ],
+  "notIncluded": []
+ },
  "sanur-beach-horse-riding-experience-with-transport": {
   "title": "Experiencia de equitacion en la playa de Sanur con transporte",
   "metaTitle": "Experiencia de equitacion en la playa de Sanur con transporte",

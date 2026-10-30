@@ -54703,6 +54703,20 @@ export const DE_TOURS: Record<string, TourT> = {
    "optionale Add-ons"
   ]
  },
+ "buggy-utv-adventure-with-options-tour-and-activities-in-canggu": {
+  "title": "Buggy-UTV-Abenteuer mit optionaler Tour und Aktivitaeten in Canggu",
+  "metaTitle": "Buggy-UTV-Abenteuer mit optionaler Tour und Aktivitaeten in",
+  "shortDescription": "8-stuendige Tour in Canggu, mit Ubud Buggy Adventure und Abian Desa Rice Terrace and Ulu Petanu Waterfall. Direkt gebucht bei BJ Transport Bali By GW, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 8-stuendiges Erlebnis ab Canggu, rund um Ubud Buggy Adventure und Abian Desa Rice Terrace and Ulu Petanu Waterfall aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nATV-Strecken rund um Ubud fuehren durch die Doerfer nordlich der Stadt in der Naehe von Payangan und Tegallalang, auf einer Mischung aus Feldweg, Plantagenpfad, Flussbett und, auf den meisten Strecken, einem Abschnitt tiefen Schlamms, an den man sich am meisten erinnert. Die Fahrten dauern meist 1,5 bis 2 Stunden auf der Maschine, im Tandem- oder Einzelquad, mit einem vorausfahrenden Guide. Sie werden von den Knien abwaerts, oft auch komplett, dreckig werden, tragen Sie also Kleidung, die Ihnen egal ist; die Anbieter stellen Stiefel, Helme und danach eine Dusche zur Verfuegung. Mindestalter zum Fahren variieren je nach Anbieter und stehen bei der Option, und Kinder fahren meist als Beifahrer mit.\n\nIm Preis enthalten sind privates Auto mit englischsprachigem Fahrer, Hotelabholung und -ruecktransfer aus den Gebieten Ketewel, Sanur, Ubud, Buggy-Abenteuer von 1,5 Stunden mit Guide, Eintrittskarten fuer die Reisterrassen und den Ulun-Petanu-Wasserfall und Mineralwasser. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHotelabholung in Canggu. BJ Transport Bali By GW bestaetigt Ihre Abholzeit und den genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "privates Auto mit englischsprachigem Fahrer",
+   "Hotelabholung und -ruecktransfer aus den Gebieten Ketewel, Sanur, Ubud",
+   "Buggy-Abenteuer von 1,5 Stunden mit Guide",
+   "Eintrittskarten fuer die Reisterrassen und den Ulun-Petanu-Wasserfall",
+   "Mineralwasser"
+  ],
+  "notIncluded": []
+ },
  "sanur-beach-horse-riding-experience-with-transport": {
   "title": "Reiterlebnis am Strand von Sanur mit Transport",
   "metaTitle": "Reiterlebnis am Strand von Sanur mit Transport",
