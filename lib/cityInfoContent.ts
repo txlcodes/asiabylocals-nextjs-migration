@@ -41,6 +41,7 @@ import { getSiemReapInfoContent } from './siemReapInfoContent';
 import { getPhnomPenhInfoContent } from './phnomPenhInfoContent';
 import { getDelhiInfoContent } from './delhiInfoContent';
 import { getAgraJaipurInfoContent } from './agraJaipurInfoContent';
+import { getAgraBestInfoContent } from './agraBestInfoContent';
 import { getJaipurDelhiMoreInfoContent } from './jaipurDelhiMoreInfoContent';
 
 export interface CityInfoData {
@@ -67,6 +68,9 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const agraJaipurPage = getAgraJaipurInfoContent(slug);
     if (agraJaipurPage) return agraJaipurPage;
+
+    const agraBestPage = getAgraBestInfoContent(slug);
+    if (agraBestPage) return agraBestPage;
 
     const delhiPage = getDelhiInfoContent(slug);
     if (delhiPage) return delhiPage;

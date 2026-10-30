@@ -56,6 +56,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'agra-tour-guide-scams-how-to-avoid-touts',
     'should-i-book-taj-mahal-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-agra',
+    'best-taj-mahal-tour-from-delhi', 'best-taj-mahal-tour-by-train-from-delhi', 'best-taj-mahal-sunset-tour', 'best-agra-street-food-tour', 'best-agra-tour-with-fatehpur-sikri', 'best-overnight-taj-mahal-tour-from-delhi', 'best-agra-tour-from-delhi-airport-layover', 'best-agra-tour-with-mathura-vrindavan', 'best-agra-tour-with-female-guide', 'best-agra-tuk-tuk-tour', 'best-bharatpur-bird-sanctuary-tour-from-agra', 'best-taj-mahal-tour-with-german-speaking-guide', 'best-taj-mahal-tour-with-french-speaking-guide', 'best-taj-mahal-tour-with-spanish-speaking-guide',
   ].map(slug => ({
     url: `${BASE_URL}/india/agra/${slug}`,
     lastModified: new Date(),

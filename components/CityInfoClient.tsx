@@ -60,6 +60,20 @@ const AGRA_SIDEBAR = [
     { name: 'Is Agra Safe?', slug: 'is-agra-safe-for-tourists' },
     { name: 'Best Hotels Near Taj Mahal', slug: 'best-hotel-near-taj-mahal' },
     { name: 'Night Viewing Tour', slug: 'taj-mahal-night-viewing-tour' },
+    { name: 'Best Tour from Delhi', slug: 'best-taj-mahal-tour-from-delhi' },
+    { name: 'Tour by Train from Delhi', slug: 'best-taj-mahal-tour-by-train-from-delhi' },
+    { name: 'Sunset Tour', slug: 'best-taj-mahal-sunset-tour' },
+    { name: 'Street Food Tour', slug: 'best-agra-street-food-tour' },
+    { name: 'Tour with Fatehpur Sikri', slug: 'best-agra-tour-with-fatehpur-sikri' },
+    { name: 'Overnight Tour from Delhi', slug: 'best-overnight-taj-mahal-tour-from-delhi' },
+    { name: 'Delhi Airport Layover Tour', slug: 'best-agra-tour-from-delhi-airport-layover' },
+    { name: 'With Mathura & Vrindavan', slug: 'best-agra-tour-with-mathura-vrindavan' },
+    { name: 'Tour with Female Guide', slug: 'best-agra-tour-with-female-guide' },
+    { name: 'Tuk-Tuk Tour', slug: 'best-agra-tuk-tuk-tour' },
+    { name: 'Bharatpur Bird Sanctuary', slug: 'best-bharatpur-bird-sanctuary-tour-from-agra' },
+    { name: 'German-Speaking Guide', slug: 'best-taj-mahal-tour-with-german-speaking-guide' },
+    { name: 'French-Speaking Guide', slug: 'best-taj-mahal-tour-with-french-speaking-guide' },
+    { name: 'Spanish-Speaking Guide', slug: 'best-taj-mahal-tour-with-spanish-speaking-guide' },
 ];
 
 const DELHI_SIDEBAR = [

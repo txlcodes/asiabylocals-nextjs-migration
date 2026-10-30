@@ -101,7 +101,9 @@ export const AGRA_INFO_SLUGS = [
   'best-hotel-near-taj-mahal', 'taj-mahal-night-viewing-tour',
   'agra-tour-guide-scams-how-to-avoid-touts',
   'should-i-book-taj-mahal-tour-direct-or-through-app',
-  'how-much-should-a-private-tour-guide-cost-in-agra'
+  'how-much-should-a-private-tour-guide-cost-in-agra',
+  // 2026-10-31: human-phrased "best X / is X worth it" pages that sell live Agra tours.
+  'best-taj-mahal-tour-from-delhi', 'best-taj-mahal-tour-by-train-from-delhi', 'best-taj-mahal-sunset-tour', 'best-agra-street-food-tour', 'best-agra-tour-with-fatehpur-sikri', 'best-overnight-taj-mahal-tour-from-delhi', 'best-agra-tour-from-delhi-airport-layover', 'best-agra-tour-with-mathura-vrindavan', 'best-agra-tour-with-female-guide', 'best-agra-tuk-tuk-tour', 'best-bharatpur-bird-sanctuary-tour-from-agra', 'best-taj-mahal-tour-with-german-speaking-guide', 'best-taj-mahal-tour-with-french-speaking-guide', 'best-taj-mahal-tour-with-spanish-speaking-guide'
 ];
 
 export const DELHI_INFO_SLUGS = [
