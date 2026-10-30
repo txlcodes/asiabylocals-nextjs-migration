@@ -761,6 +761,7 @@ const PHNOM_PENH_SIDEBAR = [
 
 const SIEM_REAP_SIDEBAR = [
     { name: 'Best Tours in Siem Reap', slug: 'best-tours-in-siem-reap' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-siem-reap' },
     { name: 'Angkor Tickets & Pass', slug: 'angkor-wat-tickets-and-pass-guide' },
     { name: 'Angkor Sunrise', slug: 'angkor-wat-sunrise-guide' },
     { name: 'Small vs Grand Circuit', slug: 'angkor-temples-small-vs-grand-circuit' },

@@ -470,6 +470,8 @@ export const SIEM_REAP_INFO_SLUGS = [
     'angkor-temples-in-the-rainy-season',
     'angkor-with-limited-mobility',
     'angkor-sunset-where-to-go',
+    // GEO single-topic page (2026-10/31)
+    'how-much-should-a-private-tour-guide-cost-in-siem-reap',
 ];
 
 export const KRABI_INFO_SLUGS = [

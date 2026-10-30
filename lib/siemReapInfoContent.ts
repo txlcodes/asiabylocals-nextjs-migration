@@ -1393,6 +1393,51 @@ export function getSiemReapInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        // GEO single-topic page (2026-10/31)
+        case 'how-much-should-a-private-tour-guide-cost-in-siem-reap':
+            return {
+                title: 'How Much Should a Private Tour Guide Cost in Siem Reap?',
+                seoTitle: 'Siem Reap Private Guide Prices 2026 — What\'s Reasonable',
+                description: 'Real price ranges for a private tuk-tuk guide or car tour of Angkor in 2026, so you know what\'s fair before you book.',
+                heroImage: IMG.smallCircuit,
+                sections: [
+                    {
+                        title: 'The Short Answer',
+                        content: 'A **private sunrise or sunset Angkor tuk-tuk tour** for 1-2 people typically runs **$34-38 flat**, stepping up to roughly $51-68 for a third or fourth traveller once a bigger tuk-tuk or car is needed. A fuller private Angkor Park day with a licensed guide (not just a driver) runs **$143-156 for 1-2 people**, climbing to $215-260 for 3-4. A multi-day private tour with guide and transfers (Angkor plus Tonle Sap, or a 3-day Angkor-and-countryside package) runs **$150-623 for the group** depending on length — a genuinely different product from a single-day booking.',
+                        tourCard: { slug: 'private-angkor-wat-sunrisesunset-tuk-tuk-tour', title: 'Private Angkor Wat Sunrise/Sunset Tuk-Tuk Tour', description: 'A real example of flat 1-2-person pricing that steps up for larger groups.', price: 'From $34', duration: '7 hours', image: IMG.smallCircuit },
+                    },
+                    {
+                        title: 'Driver, Guide, or Both?',
+                        content: 'Siem Reap\'s private tours split into two different products that get confused in marketing: a **tuk-tuk driver** who gets you between temples but doesn\'t explain them, and a **licensed guide** (sometimes also driving, sometimes paired with a separate driver) who covers the history and carving detail Angkor is actually famous for. A driver-only private tuk-tuk day is the cheaper option above; a true guided private tour costs more because a licensed Angkor guide is a specific, tested qualification, not just anyone with a vehicle.',
+                    },
+                    {
+                        title: 'Red Flags on Price',
+                        content: 'A private guided-tour quote well under the $143+ range for a full Angkor Park day usually means the "guide" is actually just a driver, or the itinerary skips the temples that take real time (Angkor Thom\'s Bayon, Ta Prohm) for a shorter, easier loop. Always ask directly whether a guide is licensed and will be with you at each temple, not just the vehicle.',
+                    },
+                    {
+                        title: 'How to Get a Fair Price',
+                        content: 'Ask the operator directly whether you\'re booking a driver or a licensed guide, which temples are actually included, and whether the Angkor Pass fee ($37/$62/$72 for 1/3/7 days) is separate from the quote. On AsiaByLocals, every Siem Reap tour\'s price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Siem Reap tours](/cambodia/siem-reap) to compare real, current prices directly.',
+                        tourCard: { slug: 'private-angkor-park-guided-tour-must-visit-temples', title: 'Private Angkor Park Guided Tour (Must-Visit Temples)', description: 'A real example of a full private day with a licensed guide, not just a driver.', price: 'From $143', duration: 'Full day', image: IMG.smallCircuit },
+                    },
+                ],
+                faqs: [
+                    { q: 'How much does a private tour guide cost in Siem Reap?', a: 'A private sunrise or sunset tuk-tuk tour typically runs $34-38 flat for 1-2 people. A full private Angkor Park day with a licensed guide runs $143-156 for 1-2 people, climbing to $215-260 for 3-4.' },
+                    { q: 'Is a private tuk-tuk driver the same as a private guide in Siem Reap?', a: 'No — a driver gets you between temples but doesn\'t explain them. A licensed guide covers the history and carving detail, and costs more because it\'s a tested qualification, not just a vehicle.' },
+                    { q: 'Does the private tour price include the Angkor Pass?', a: 'Usually not — the Angkor Pass ($37 for 1 day, $62 for 3 days, $72 for 7 days) is typically a separate fee from the guide or driver\'s price. Ask for the breakdown before comparing quotes.' },
+                    { q: 'Is a very cheap private Angkor tour quote a red flag?', a: 'Often yes — it can mean the "guide" is actually just a driver, or the itinerary skips the temples that take real time for a shorter, easier loop.' },
+                ],
+                jsonLd: {
+                    '@context': 'https://schema.org',
+                    '@type': 'FAQPage',
+                    mainEntity: [
+                        { '@type': 'Question', name: 'How much does a private tour guide cost in Siem Reap?', acceptedAnswer: { '@type': 'Answer', text: 'A private sunrise or sunset tuk-tuk tour typically runs $34-38 flat for 1-2 people. A full private Angkor Park day with a licensed guide runs $143-156 for 1-2 people.' } },
+                        { '@type': 'Question', name: 'Is a private tuk-tuk driver the same as a private guide in Siem Reap?', acceptedAnswer: { '@type': 'Answer', text: 'No — a driver gets you between temples but doesn\'t explain them, while a licensed guide covers the history and costs more.' } },
+                        { '@type': 'Question', name: 'Does the private tour price include the Angkor Pass?', acceptedAnswer: { '@type': 'Answer', text: 'Usually not — the Angkor Pass is typically a separate fee from the guide or driver\'s price.' } },
+                        { '@type': 'Question', name: 'Is a very cheap private Angkor tour quote a red flag?', acceptedAnswer: { '@type': 'Answer', text: 'Often yes — it can mean the guide is actually just a driver, or the itinerary skips key temples.' } },
+                    ],
+                },
+            };
+
         default:
             return null;
     }
