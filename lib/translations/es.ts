@@ -185478,6 +185478,36 @@ export const ES_TOURS: Record<string, TourT> = {
    "gastos personales, comidas, propinas y articulos no mencionados especificamente en las inclusiones"
   ]
  },
+ "ayutthaya-and-big-buddha-full-day-tour": {
+  "title": "Dia completo: Ayutthaya y el Gran Buda",
+  "metaTitle": "Dia completo: Ayutthaya y el Gran Buda",
+  "shortDescription": "Excursión de día completo en Pattaya, con Bang Pa-In Royal Palace y Wat Yai Chai Mongkhon and Wat Maha That. Operador: Pattaya Guide Travel, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de día completo desde Pattaya, centrada en Bang Pa-In Royal Palace y Wat Yai Chai Mongkhon and Wat Maha That. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nAyutthaya fue la capital de Siam durante 417 años hasta que los birmanos la arrasaron en 1767, y sus ruinas, a 80 kilometros al norte de Bangkok, son un sitio de la Unesco de prangs de ladrillo y budas sin cabeza repartidos por una isla en el rio. La cabeza de Buda atrapada en las raices de un arbol de bodhi en Wat Mahathat es la imagen que todos vienen a ver, y la etiqueta es agacharse para que tu cabeza quede mas baja que la suya. Wat Chaiwatthanaram, a orillas del rio, es el complejo mejor conservado y se ilumina de noche. El calor se vuelve feroz hacia las 11:00; los tours que empiezan temprano y usan bicicleta o tuk-tuk entre templos ven mas que los que van a pie.\n\nEl precio incluye recogida y regreso al hotel en Pattaya, transporte en furgoneta con aire acondicionado y guia de habla inglesa o rusa. No incluye gastos personales y bebidas alcoholicas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPattaya City.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recogida y regreso al hotel en Pattaya",
+   "transporte en furgoneta con aire acondicionado",
+   "guia de habla inglesa o rusa"
+  ],
+  "notIncluded": [
+   "gastos personales",
+   "bebidas alcoholicas"
+  ]
+ },
+ "big-buddha-temple-night-market-and-sunset-tour-in-pattaya": {
+  "title": "Templo del Gran Buda, mercado nocturno y tour al atardecer en Pattaya",
+  "metaTitle": "Templo del Gran Buda, mercado nocturno y tour al atardecer en",
+  "shortDescription": "Excursión de 3 horas en Pattaya, con Wat Phra Yai and Khao Phra Tamnak Viewpoint. Operador: Sun Leisure World Corporation, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 3 horas desde Pattaya, centrada en Wat Phra Yai and Khao Phra Tamnak Viewpoint. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nLos lugares propios de Phuket estan lejos de las playas. Las casas-tienda sino-portuguesas del casco antiguo de Phuket en Thalang y Soi Romanee, construidas por los comerciantes chinos del estaño de la decada de 1900, hoy son cafes y galerias y se visitan mejor a ultima hora de la tarde. El Gran Buda, 45 metros de marmol blanco en la colina de Nakkerd, tiene vistas sobre ambas costas y es gratuito; Wat Chalong, debajo, es el templo mas importante de la isla; el cabo Promthep, en la punta sur, es donde todos van para el atardecer. Un tour de medio dia por la isla une estos lugares con los miradores; el circuito habitual pasa por el mirador de Karon, Promthep, el Gran Buda, Wat Chalong, el casco antiguo.\n\nEl precio incluye recogida y regreso al hotel en Pattaya, vehiculo con aire acondicionado con un conductor experimentado y guia de habla inglesa. No incluye gastos personales y comida en el mercado y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPattaya City.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recogida y regreso al hotel en Pattaya",
+   "vehiculo con aire acondicionado con un conductor experimentado",
+   "guia de habla inglesa"
+  ],
+  "notIncluded": [
+   "gastos personales y comida en el mercado",
+   "propinas"
+  ]
+ },
  "muscat-wahiba-desert-and-wadi-bani-khalid-in-pattaya": {
   "title": "Muscat: desierto de Wahiba y Wadi Bani Khalid en Pattaya",
   "metaTitle": "Muscat: desierto de Wahiba y Wadi Bani Khalid en Pattaya",
@@ -185504,6 +185534,21 @@ export const ES_TOURS: Record<string, TourT> = {
    "gastos personales y comida en el mercado"
   ]
  },
+ "white-water-rafting-zipline-and-elephant-feeding-in-phuket": {
+  "title": "Rafting en aguas bravas, tirolina y alimentacion de elefantes en Phuket",
+  "metaTitle": "Rafting en aguas bravas, tirolina y alimentacion de elefantes en",
+  "shortDescription": "Excursión de 9 horas en Phuket, con Phang Nga Province. Operador: Anda Adventure Co.,Ltd, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 9 horas desde Phuket, centrada en Phang Nga Province. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nLos dias al aire libre del norte de Tailandia salen de Chiang Mai: rafting en aguas bravas en el rio Mae Taeng, grado II a IV en la temporada de lluvias de julio a octubre y suave el resto del año; los circuitos de tirolina en la selva tropical al norte de la ciudad, algunos con mas de 30 plataformas; las pistas de ATV por las colinas de Mae Rim; y el trekking que llega a pie a los pueblos Karen y Lahu, de un dia a tres noches. Phuket y Krabi tienen sus propios parques de ATV y tirolina, pero la selva esta en el norte.\n\nEl precio incluye recogida y regreso en hoteles de Khao Lak, guia de habla inglesa y rafting en aguas bravas. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nKhao Lak.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recogida y regreso en hoteles de Khao Lak",
+   "guia de habla inglesa",
+   "rafting en aguas bravas"
+  ],
+  "notIncluded": [
+   "gastos personales",
+   "propinas"
+  ]
+ },
  "2-racha-islands-snorkeling-from-yacht-full-day": {
   "title": "2 islas Racha, snorkel desde un yate, dia completo",
   "metaTitle": "2 islas Racha, snorkel desde un yate, dia completo",
@@ -185526,6 +185571,20 @@ export const ES_TOURS: Record<string, TourT> = {
    "tour todo incluido en catamaran rapido",
    "recogida y regreso al hotel en Khao Lak, si se selecciona esa opcion",
    "guia profesional de habla inglesa"
+  ],
+  "notIncluded": []
+ },
+ "full-day-phi-phi-islands-and-sunset-tour-by-speedboat": {
+  "title": "Dia completo a las islas Phi Phi y tour al atardecer en lancha rapida",
+  "metaTitle": "Dia completo a las islas Phi Phi y tour al atardecer en lancha",
+  "shortDescription": "Excursión de 9 horas en Phuket, con Speedboat y Monkey Beach and Bamboo Island. Operador: Oh-Hoo, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 9 horas desde Phuket, centrada en Speedboat y Monkey Beach and Bamboo Island. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nLas islas Phi Phi estan a 45 kilometros de Phuket y 40 de Krabi, dos islas calizas donde Phi Phi Don tiene el pueblo y los hoteles y Phi Phi Leh, deshabitada, tiene Maya Bay, la playa de la pelicula del año 2000. Maya Bay cerro de 2018 a 2022 para que el arrecife se recuperara y ahora funciona con prohibicion de barcos dentro de la bahia, una pasarela desde la parte trasera de la isla, sin nadar, y cierres de agosto a septiembre cada año. La laguna de Pileh, la cueva vikinga y Bamboo Island son las otras paradas de cada ruta en lancha rapida; el mar esta mas calmado de noviembre a abril, y los barcos tempraneros llegan a Maya antes que la multitud.\n\nEl precio incluye tour en lancha rapida, guia, almuerzo, agua potable y fruta. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nMcDonald's PP Island Krabi.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "tour en lancha rapida",
+   "guia",
+   "almuerzo",
+   "agua potable",
+   "fruta"
   ],
   "notIncluded": []
  },
@@ -185581,6 +185640,21 @@ export const ES_TOURS: Record<string, TourT> = {
    "cargo adicional de traslado de 200 baht por persona desde Chalong, Rawai, Soi Ta Eaid, Laem Hin, Naiharn, Saiyuan, Panwa, Sirey, Laguna, Ao Por, Pa Klok, Layan, Naithon, Naiyang, aeropuerto, Maikhao y Yamu"
   ]
  },
+ "phi-phi-bamboo-and-maithon-by-premium-speed-catamaran": {
+  "title": "Phi Phi, Bamboo y Maithon en catamaran rapido premium",
+  "metaTitle": "Phi Phi, Bamboo y Maithon en catamaran rapido premium",
+  "shortDescription": "Excursión de 10 horas en Phuket, con Catamaran y Bamboo Island and Ko Phi Phi Don. Operador: One Asia Corporation, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 10 horas desde Phuket, centrada en Catamaran y Bamboo Island and Ko Phi Phi Don. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nLas islas Phi Phi estan a 45 kilometros de Phuket y 40 de Krabi, dos islas calizas donde Phi Phi Don tiene el pueblo y los hoteles y Phi Phi Leh, deshabitada, tiene Maya Bay, la playa de la pelicula del año 2000. Maya Bay cerro de 2018 a 2022 para que el arrecife se recuperara y ahora funciona con prohibicion de barcos dentro de la bahia, una pasarela desde la parte trasera de la isla, sin nadar, y cierres de agosto a septiembre cada año. La laguna de Pileh, la cueva vikinga y Bamboo Island son las otras paradas de cada ruta en lancha rapida; el mar esta mas calmado de noviembre a abril, y los barcos tempraneros llegan a Maya antes que la multitud.\n\nEl precio incluye recogida y regreso al hotel, transporte en catamaran rapido premium y guia. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSe ofrece recogida desde Phuket y Phuket and Pa Tong; el lugar y la hora exactos se acuerdan con One Asia Corporation una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nRecogida en el hotel en Phuket. One Asia Corporation confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recogida y regreso al hotel",
+   "transporte en catamaran rapido premium",
+   "guia"
+  ],
+  "notIncluded": [
+   "gastos personales",
+   "propinas"
+  ]
+ },
  "eagle-the-adventure-phuket-go-kart-and-atv-adventure-by-local-operator": {
   "title": "Eagle the Adventure Phuket: aventura en kart y ATV",
   "metaTitle": "Eagle the Adventure Phuket: aventura en kart y ATV",
@@ -185617,6 +185691,34 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "hot-spring-emerald-pool-and-elephant-sanctuary-tour-in-krabi": {
+  "title": "Aguas termales, piscina esmeralda y tour al santuario de elefantes en Krabi",
+  "metaTitle": "Aguas termales, piscina esmeralda y tour al santuario de",
+  "shortDescription": "Excursión de 9 horas en Krabi, con traslado al hotel, agua potable, tarifa del parque nacional, almuerzo buffet y seguro. Operador: khao panombenja jungle trekking, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 9 horas en Krabi. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl turismo de elefantes en Tailandia ha pasado, de forma desigual, de los paseos a lomos y los espectaculos a santuarios donde los visitantes alimentan, caminan junto a y bañan a animales rescatados sin montarlos, y la diferencia se nota en el estado de los animales y en si el operador permite montarlos, ganchos o cadenas. Los campamentos mejor gestionados en Chiang Mai y Phuket limitan el tamaño de los grupos y el tiempo de contacto, y los que merece la pena reservar dicen lo que no permiten. Khao Yai, el primer parque nacional de Tailandia a tres horas al noreste de Bangkok, es donde se ven elefantes salvajes desde un todoterreno al atardecer, junto con gibones, calaos y, en raras ocasiones, los pocos osos del parque.\n\nEl precio incluye traslado al hotel, agua potable, tarifa del parque nacional, almuerzo buffet y seguro. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nAo Nang.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "traslado al hotel",
+   "agua potable",
+   "tarifa del parque nacional",
+   "almuerzo buffet",
+   "seguro"
+  ],
+  "notIncluded": []
+ },
+ "muay-thai-class-in-aonang-in-krabi": {
+  "title": "Clase de muay thai en Ao Nang, Krabi",
+  "metaTitle": "Clase de muay thai en Ao Nang, Krabi",
+  "shortDescription": "Excursión de 1,5 horas en Krabi, con entrada a Thewaritnoi Krabi Lion Muaythai, clase de 1 hora incluida y instructor de habla inglesa. Operador: Thewaritnoi Krabi Muaythai, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 1,5 horas en Krabi. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl muay thai, el arte de los ocho miembros, es el deporte nacional de Tailandia, y los combates de estadio en Bangkok son lo autentico, no un espectaculo: Rajadamnern, abierto en 1945, y Lumpinee son los dos grandes recintos, con carteleras de ocho a diez combates que van de aproximadamente las 18:30 a las 23:00, la danza ram muay antes de cada combate, la banda piphat en vivo que acelera con la accion, y las señas de manos de los apostadores en las gradas superiores. Los asientos junto al ring son los caros; en el segundo nivel esta el ambiente. Las sesiones de entrenamiento en los gimnasios de la ciudad, desde clases turisticas de una hora hasta campamentos completos, son la otra forma de entrar.\n\nEl precio incluye entrada a Thewaritnoi Krabi Lion Muaythai, clase de 1 hora incluida y instructor de habla inglesa. No incluye recogida y regreso al hotel y comida y bebidas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "entrada a Thewaritnoi Krabi Lion Muaythai, clase de 1 hora incluida",
+   "instructor de habla inglesa"
+  ],
+  "notIncluded": [
+   "recogida y regreso al hotel",
+   "comida y bebidas"
+  ]
+ },
  "mantra-yoga-class-in-krabi": {
   "title": "Clase de yoga Mantra en Krabi",
   "metaTitle": "Clase de yoga Mantra en Krabi",
@@ -185628,6 +185730,20 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "transporte hasta el lugar"
+  ]
+ },
+ "old-market-tiger-cave-hot-springs-and-emerald-pool-in-krabi": {
+  "title": "Mercado antiguo, Cueva del Tigre, aguas termales y piscina esmeralda en Krabi",
+  "metaTitle": "Mercado antiguo, Cueva del Tigre, aguas termales y piscina",
+  "shortDescription": "Excursión de 5 horas en Krabi, con recogida y regreso al hotel, guia experimentado de habla inglesa y almuerzo. Operador: Ask Discovery Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 5 horas en Krabi. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl dia de interior de Krabi es el trio de selva al sur de la ciudad: el templo de la Cueva del Tigre, Wat Tham Suea, donde 1260 escalones suben hasta un Buda en la cima de una colina y una vista sobre toda la llanura karstica (una hora de subida, y es brutal despues de las 10:00); la piscina esmeralda, un manantial mineral de agua verde en el bosque de Thung Teao con un corto sendero que continua hasta la piscina azul, que es para mirar, no para nadar; y las aguas termales de Klong Thom, donde el agua tibia se derrama por pilas naturales de roca hasta un arroyo fresco. Los tours lo hacen en ese orden y terminan mojados.\n\nEl precio incluye recogida y regreso al hotel, guia experimentado de habla inglesa y almuerzo. No incluye tarifa del parque nacional, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSe ofrece recogida desde Ao Nang y Mueang Krabi District and Tubkak hotel and resort; el lugar y la hora exactos se acuerdan con Ask Discovery Thailand una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nRecogida en el hotel en Krabi. Ask Discovery Thailand confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recogida y regreso al hotel",
+   "guia experimentado de habla inglesa",
+   "almuerzo"
+  ],
+  "notIncluded": [
+   "tarifa del parque nacional"
   ]
  },
  "private-1-on-1-muay-thai-session-at-e-n-muaythai-gym-in-krabi": {
@@ -185657,6 +185773,20 @@ export const ES_TOURS: Record<string, TourT> = {
    "tarifa de entrada a la Cueva del Tigre (50 baht)"
   ]
  },
+ "khao-ngon-nak-trekking-experience-in-krabi": {
+  "title": "Experiencia de trekking en Khao Ngon Nak, Krabi",
+  "metaTitle": "Experiencia de trekking en Khao Ngon Nak, Krabi",
+  "shortDescription": "Excursión de 6 horas en Krabi, con recogida y regreso al hotel, guia de habla inglesa y aperitivo. Operador: Anda Krabi Seatour, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 6 horas en Krabi. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nLos dias al aire libre del norte de Tailandia salen de Chiang Mai: rafting en aguas bravas en el rio Mae Taeng, grado II a IV en la temporada de lluvias de julio a octubre y suave el resto del año; los circuitos de tirolina en la selva tropical al norte de la ciudad, algunos con mas de 30 plataformas; las pistas de ATV por las colinas de Mae Rim; y el trekking que llega a pie a los pueblos Karen y Lahu, de un dia a tres noches. Phuket y Krabi tienen sus propios parques de ATV y tirolina, pero la selva esta en el norte.\n\nEl precio incluye recogida y regreso al hotel, guia de habla inglesa y aperitivo. No incluye recogida y regreso al hotel desde Railay Beach o Koh Lanta, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSe ofrece recogida desde Nong Thale y 4203 and 102 Panurat; el lugar y la hora exactos se acuerdan con Anda Krabi Seatour una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nRecogida en el hotel en Krabi. Anda Krabi Seatour confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recogida y regreso al hotel",
+   "guia de habla inglesa",
+   "aperitivo"
+  ],
+  "notIncluded": [
+   "recogida y regreso al hotel desde Railay Beach o Koh Lanta"
+  ]
+ },
  "4-island-speedboat-tour-with-lunch-and-transfer-in-krabi": {
   "title": "Tour de 4 islas en lancha rapida con almuerzo y traslado en Krabi",
   "metaTitle": "Tour de 4 islas en lancha rapida con almuerzo y traslado en Krabi",
@@ -185671,6 +185801,20 @@ export const ES_TOURS: Record<string, TourT> = {
    "parque nacional"
   ]
  },
+ "hot-spring-and-emerald-pool-jungle-tour-in-krabi": {
+  "title": "Tour por la selva con aguas termales y piscina esmeralda en Krabi",
+  "metaTitle": "Tour por la selva con aguas termales y piscina esmeralda en Krabi",
+  "shortDescription": "Excursión de 6 horas en Krabi, con traslado al hotel, agua potable, tarifa del parque nacional, almuerzo buffet y seguro. Operador: khao panombenja jungle trekking, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 6 horas en Krabi. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl dia de interior de Krabi es el trio de selva al sur de la ciudad: el templo de la Cueva del Tigre, Wat Tham Suea, donde 1260 escalones suben hasta un Buda en la cima de una colina y una vista sobre toda la llanura karstica (una hora de subida, y es brutal despues de las 10:00); la piscina esmeralda, un manantial mineral de agua verde en el bosque de Thung Teao con un corto sendero que continua hasta la piscina azul, que es para mirar, no para nadar; y las aguas termales de Klong Thom, donde el agua tibia se derrama por pilas naturales de roca hasta un arroyo fresco. Los tours lo hacen en ese orden y terminan mojados.\n\nEl precio incluye traslado al hotel, agua potable, tarifa del parque nacional, almuerzo buffet y seguro. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Krabi. khao panombenja jungle trekking confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "traslado al hotel",
+   "agua potable",
+   "tarifa del parque nacional",
+   "almuerzo buffet",
+   "seguro"
+  ],
+  "notIncluded": []
+ },
  "jungle-tour-with-hot-springs-emerald-pool-and-lunch-in-krabi": {
   "title": "Tour por la selva con aguas termales, piscina esmeralda y almuerzo en Krabi",
   "metaTitle": "Tour por la selva con aguas termales, piscina esmeralda y",
@@ -185682,6 +185826,67 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "tarifas del parque nacional (650 baht por adulto)",
    "tarifas del parque nacional (320 baht por niño de 3 a 12 años)"
+  ]
+ },
+ "wareerak-hot-spring-and-spa-with-transfer-from-ao-nang": {
+  "title": "Aguas termales y spa de Wareerak con traslado desde Ao Nang",
+  "metaTitle": "Aguas termales y spa de Wareerak con traslado desde Ao Nang",
+  "shortDescription": "Excursión de 5 horas en Krabi, con tratamiento corporal y terapia segun las opciones seleccionadas, sesiones en piscinas minerales naturales calientes y frias, orientacion de terapeutas certificados y expertos, almuerzo y frutas. Operador: Wareerak Hot Spring & Wellness, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 5 horas en Krabi. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl dia de interior de Krabi es el trio de selva al sur de la ciudad: el templo de la Cueva del Tigre, Wat Tham Suea, donde 1260 escalones suben hasta un Buda en la cima de una colina y una vista sobre toda la llanura karstica (una hora de subida, y es brutal despues de las 10:00); la piscina esmeralda, un manantial mineral de agua verde en el bosque de Thung Teao con un corto sendero que continua hasta la piscina azul, que es para mirar, no para nadar; y las aguas termales de Klong Thom, donde el agua tibia se derrama por pilas naturales de roca hasta un arroyo fresco. Los tours lo hacen en ese orden y terminan mojados.\n\nEl precio incluye tratamiento corporal y terapia segun las opciones seleccionadas, sesiones en piscinas minerales naturales calientes y frias, orientacion de terapeutas certificados y expertos, almuerzo y frutas. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "tratamiento corporal y terapia segun las opciones seleccionadas",
+   "sesiones en piscinas minerales naturales calientes y frias",
+   "orientacion de terapeutas certificados y expertos",
+   "almuerzo",
+   "frutas"
+  ],
+  "notIncluded": []
+ },
+ "hot-spring-emerald-pool-tiger-cave-and-elephant-in-krabi": {
+  "title": "Aguas termales, piscina esmeralda, Cueva del Tigre y elefantes en Krabi",
+  "metaTitle": "Aguas termales, piscina esmeralda, Cueva del Tigre y elefantes",
+  "shortDescription": "Excursión de 10 horas en Krabi, con traslado al hotel, agua potable, tarifa del parque nacional, almuerzo buffet y seguro. Operador: khao panombenja jungle trekking, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 10 horas en Krabi. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl dia de interior de Krabi es el trio de selva al sur de la ciudad: el templo de la Cueva del Tigre, Wat Tham Suea, donde 1260 escalones suben hasta un Buda en la cima de una colina y una vista sobre toda la llanura karstica (una hora de subida, y es brutal despues de las 10:00); la piscina esmeralda, un manantial mineral de agua verde en el bosque de Thung Teao con un corto sendero que continua hasta la piscina azul, que es para mirar, no para nadar; y las aguas termales de Klong Thom, donde el agua tibia se derrama por pilas naturales de roca hasta un arroyo fresco. Los tours lo hacen en ese orden y terminan mojados.\n\nEl precio incluye traslado al hotel, agua potable, tarifa del parque nacional, almuerzo buffet y seguro. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nAo Nang.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "traslado al hotel",
+   "agua potable",
+   "tarifa del parque nacional",
+   "almuerzo buffet",
+   "seguro"
+  ],
+  "notIncluded": []
+ },
+ "elephant-option-jurassic-world-location-film-ortemple-in-krabi": {
+  "title": "Elefantes (opcion), localizacion de Jurassic World o templo en Krabi",
+  "metaTitle": "Elefantes (opcion), localizacion de Jurassic World o templo en",
+  "shortDescription": "Excursión de 4 horas en Krabi, con recogida y regreso al hotel en Ao Nang, Ao Nammao, Tub Kaek, Klong Muang o la ciudad de Krabi, transporte compartido en vehiculo con aire acondicionado y guia de habla inglesa. Operador: Eco Ventures Co., Ltd., con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 4 horas en Krabi. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTailandia tiene unos 40.000 templos budistas y la etiqueta es la misma en todos: hombros y rodillas cubiertos, zapatos fuera antes de cualquier edificio con una imagen de Buda, pies nunca apuntando a un Buda o a un monje, y las mujeres no tocan a los monjes ni les entregan nada directamente. Las rondas de limosnas, cuando los monjes recorren las calles al amanecer con sus cuencos, son un acto diario de merito y no una actuacion; mejor unirse con un local que conozca la forma. Se ofrecen retiros de meditacion de un dia a un mes en templos de Chiang Mai y en las afueras de Bangkok, en ingles, a cambio de un donativo.\n\nEl precio incluye recogida y regreso al hotel en Ao Nang, Ao Nammao, Tub Kaek, Klong Muang o la ciudad de Krabi, transporte compartido en vehiculo con aire acondicionado y guia de habla inglesa. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Krabi. Eco Ventures Co., Ltd. confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recogida y regreso al hotel en Ao Nang, Ao Nammao, Tub Kaek, Klong Muang o la ciudad de Krabi",
+   "transporte compartido en vehiculo con aire acondicionado",
+   "guia de habla inglesa"
+  ],
+  "notIncluded": [
+   "gastos personales",
+   "propinas"
+  ]
+ },
+ "hong-islands-day-tour-by-premium-longtail-boat": {
+  "title": "Excursion de un dia a las islas Hong en barco de cola larga premium",
+  "metaTitle": "Excursion de un dia a las islas Hong en barco de cola larga",
+  "shortDescription": "Excursión de 8 horas en Krabi, con traslado de ida y vuelta al hotel, barco de cola larga, guia turistico, almuerzo y frutas de temporada y agua potable. Operador: บริษัท เจ แอนด์ เจ แอฟฟลูเอนท์ ทราเวล แอนด์ ทัวร์ จํากัด, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 8 horas en Krabi. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nLa excursion de las Cuatro Islas de Krabi es el dia clasico en barco de cola larga desde Ao Nang: la playa de la cueva de Phra Nang bajo los acantilados de Railay, Chicken Island, el banco de arena que une Tup y Mor en marea baja (transitable a pie un par de horas a cada lado), y la playa blanca de Poda con la torre karstica frente a la costa. Las islas Hong, mas al norte en la bahia de Phang Nga, son la alternativa mas tranquila con una laguna a la que se entra por una grieta en los acantilados y un mirador de 400 escalones. Las condiciones del mar importan: de noviembre a abril esta calmado y claro, y los barcos de cola larga dejan de navegar con mal tiempo de mayo a octubre.\n\nEl precio incluye traslado de ida y vuelta al hotel, barco de cola larga, guia turistico, almuerzo y frutas de temporada y agua potable. No incluye tarifa del parque nacional, gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "traslado de ida y vuelta al hotel",
+   "barco de cola larga",
+   "guia turistico",
+   "almuerzo",
+   "frutas de temporada y agua potable"
+  ],
+  "notIncluded": [
+   "tarifa del parque nacional",
+   "gastos personales",
+   "propinas"
   ]
  },
  "full-day-outdoor-hot-spring-and-traditional-thai-spa-in-krabi": {
@@ -185726,6 +185931,21 @@ export const ES_TOURS: Record<string, TourT> = {
    "gastos personales"
   ]
  },
+ "chiang-mai-hidden-gems-3-temples-by-local-red-truck-by-local-operator": {
+  "title": "Joyas ocultas de Chiang Mai: 3 templos en camioneta roja local",
+  "metaTitle": "Joyas ocultas de Chiang Mai: 3 templos en camioneta roja local",
+  "shortDescription": "Excursión de 3,5 horas en Chiang Mai, con guia de habla inglesa, agua potable y seguro. Operador: CanalTour x ExploreSiam, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 3,5 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTailandia tiene unos 40.000 templos budistas y la etiqueta es la misma en todos: hombros y rodillas cubiertos, zapatos fuera antes de cualquier edificio con una imagen de Buda, pies nunca apuntando a un Buda o a un monje, y las mujeres no tocan a los monjes ni les entregan nada directamente. Las rondas de limosnas, cuando los monjes recorren las calles al amanecer con sus cuencos, son un acto diario de merito y no una actuacion; mejor unirse con un local que conozca la forma. Se ofrecen retiros de meditacion de un dia a un mes en templos de Chiang Mai y en las afueras de Bangkok, en ingles, a cambio de un donativo.\n\nEl precio incluye guia de habla inglesa, agua potable y seguro. No incluye gastos personales y propinas para el conductor y el guia, opcionales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nTha Phae Gate.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "guia de habla inglesa",
+   "agua potable",
+   "seguro"
+  ],
+  "notIncluded": [
+   "gastos personales",
+   "propinas para el conductor y el guia, opcionales"
+  ]
+ },
  "private-elephant-care-atv-zipline-waterfall-and-raft-in-chiang-mai": {
   "title": "Cuidado privado de elefantes, ATV/tirolina, cascada y balsa en Chiang Mai",
   "metaTitle": "Cuidado privado de elefantes, ATV/tirolina, cascada y balsa en",
@@ -185749,6 +185969,38 @@ export const ES_TOURS: Record<string, TourT> = {
    "guia profesional de habla inglesa o mandarin"
   ],
   "notIncluded": []
+ },
+ "white-temple-blue-red-temples-and-lalitta-cafe-in-chiang-mai": {
+  "title": "Templo blanco, templos azul y rojo y cafe Lalitta en Chiang Mai",
+  "metaTitle": "Templo blanco, templos azul y rojo y cafe Lalitta en Chiang Mai",
+  "shortDescription": "Excursión de 12 horas en Chiang Mai, con Bus/coach y Phu Forest Cafe and Restaurant and Wat Rong Khun. Operador: TripGuru Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 12 horas desde Chiang Mai, centrada en Bus/coach y Phu Forest Cafe and Restaurant and Wat Rong Khun. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nChiang Rai, a tres horas al noreste de Chiang Mai, es la excursion de un dia al Templo Blanco, Wat Rong Khun, la fantasia blanca y de espejos del artista Chalermchai Kositpipat, comenzada en 1997 y aun en construccion, con un puente sobre un mar de manos extendidas y murales de demonios de la cultura pop en su interior. El Templo Azul y la Casa Negra, el recinto del difunto Thawan Duchanee hecho de pieles de animales y teca oscura, completan el trio. El Triangulo de Oro, donde Tailandia, Laos y Myanmar se encuentran en el Mekong, esta una hora mas al norte, con un mirador, el museo del opio y paseos en barco a una isla-mercado laosiana. Es un dia de 12 horas desde Chiang Mai.\n\nEl precio incluye vehiculo con aire acondicionado, guia turistico profesional y agua potable. No incluye recogida y regreso al hotel, almuerzo por cuenta propia, gastos personales y tarifas de entrada del Templo Blanco (200 baht, salvo que se seleccione la opcion), así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nThree Kings Monument.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "vehiculo con aire acondicionado",
+   "guia turistico profesional",
+   "agua potable"
+  ],
+  "notIncluded": [
+   "recogida y regreso al hotel",
+   "almuerzo por cuenta propia",
+   "gastos personales",
+   "tarifas de entrada del Templo Blanco (200 baht, salvo que se seleccione la opcion)"
+  ]
+ },
+ "6km-whitewater-and-bamboo-rafting-scenic-caf-in-chiang-mai": {
+  "title": "6 km de rafting en aguas bravas y balsa de bambu, cafe panoramico en Chiang Mai",
+  "metaTitle": "6 km de rafting en aguas bravas y balsa de bambu, cafe",
+  "shortDescription": "Excursión de 6 horas en Chiang Mai, con Mae Taeng River and Mae Taeng District. Operador: Chiangmai One Day Trip, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 6 horas desde Chiang Mai, centrada en Mae Taeng River and Mae Taeng District. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nLos dias al aire libre del norte de Tailandia salen de Chiang Mai: rafting en aguas bravas en el rio Mae Taeng, grado II a IV en la temporada de lluvias de julio a octubre y suave el resto del año; los circuitos de tirolina en la selva tropical al norte de la ciudad, algunos con mas de 30 plataformas; las pistas de ATV por las colinas de Mae Rim; y el trekking que llega a pie a los pueblos Karen y Lahu, de un dia a tres noches. Phuket y Krabi tienen sus propios parques de ATV y tirolina, pero la selva esta en el norte.\n\nEl precio incluye recogida y regreso al hotel, 4 kilometros de rafting en aguas bravas y deslizamiento de 50 minutos en una balsa de bambu. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nChiang Mai.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recogida y regreso al hotel",
+   "4 kilometros de rafting en aguas bravas",
+   "deslizamiento de 50 minutos en una balsa de bambu"
+  ],
+  "notIncluded": [
+   "gastos personales",
+   "propinas"
+  ]
  },
  "herbal-tea-thai-inhaler-and-massage-ball-workshop-in-chiang-mai": {
   "title": "Taller de te de hierbas, inhalador tailandes y pelota de masaje en Chiang Mai",
@@ -185790,6 +186042,50 @@ export const ES_TOURS: Record<string, TourT> = {
    "gastos personales"
   ]
  },
+ "chiang-mai-thai-costume-and-temple-experience-by-local-operator": {
+  "title": "Chiang Mai: traje tailandes tradicional y experiencia de templos",
+  "metaTitle": "Chiang Mai: traje tailandes tradicional y experiencia de templos",
+  "shortDescription": "Excursión de 3 horas en Chiang Mai, con guia de habla inglesa, alquiler de traje tradicional tailandes y agua potable. Operador: CanalTour x ExploreSiam, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 3 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTailandia tiene unos 40.000 templos budistas y la etiqueta es la misma en todos: hombros y rodillas cubiertos, zapatos fuera antes de cualquier edificio con una imagen de Buda, pies nunca apuntando a un Buda o a un monje, y las mujeres no tocan a los monjes ni les entregan nada directamente. Las rondas de limosnas, cuando los monjes recorren las calles al amanecer con sus cuencos, son un acto diario de merito y no una actuacion; mejor unirse con un local que conozca la forma. Se ofrecen retiros de meditacion de un dia a un mes en templos de Chiang Mai y en las afueras de Bangkok, en ingles, a cambio de un donativo.\n\nEl precio incluye guia de habla inglesa, alquiler de traje tradicional tailandes y agua potable. No incluye fotografo profesional y maquillaje y peinado profesional, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nTha Phae Gate.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "guia de habla inglesa",
+   "alquiler de traje tradicional tailandes",
+   "agua potable"
+  ],
+  "notIncluded": [
+   "fotografo profesional",
+   "maquillaje y peinado profesional"
+  ]
+ },
+ "private-suthep-pha-lat-umong-sacred-temples-and-baan-kang-wat-in-chiang-mai": {
+  "title": "Tour privado: Suthep, Pha Lat, templos sagrados de Umong y Baan Kang Wat en Chiang Mai",
+  "metaTitle": "Tour privado: Suthep, Pha Lat, templos sagrados de Umong y Baan",
+  "shortDescription": "Excursión de 7 horas en Chiang Mai, con Bua Thong Sticky WaterfallsVan. Operador: Chiang Mai Butler Services, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 7 horas desde Chiang Mai, centrada en Bua Thong Sticky WaterfallsVan. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTailandia tiene unos 40.000 templos budistas y la etiqueta es la misma en todos: hombros y rodillas cubiertos, zapatos fuera antes de cualquier edificio con una imagen de Buda, pies nunca apuntando a un Buda o a un monje, y las mujeres no tocan a los monjes ni les entregan nada directamente. Las rondas de limosnas, cuando los monjes recorren las calles al amanecer con sus cuencos, son un acto diario de merito y no una actuacion; mejor unirse con un local que conozca la forma. Se ofrecen retiros de meditacion de un dia a un mes en templos de Chiang Mai y en las afueras de Bangkok, en ingles, a cambio de un donativo.\n\nEl precio incluye tarifas de entrada, agua potable y transporte al hotel en furgoneta con aire acondicionado. No incluye el almuerzo no esta incluido; dejamos que los visitantes disfruten de la mejor comida en Baan Kang Wat a su ritmo, durante aproximadamente 1,5 horas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nChiang Mai.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "tarifas de entrada",
+   "agua potable",
+   "transporte al hotel en furgoneta con aire acondicionado"
+  ],
+  "notIncluded": [
+   "el almuerzo no esta incluido; dejamos que los visitantes disfruten de la mejor comida en Baan Kang Wat a su ritmo, durante aproximadamente 1,5 horas"
+  ]
+ },
+ "walking-food-tour-in-chiang-mai": {
+  "title": "Tour gastronomico a pie en Chiang Mai",
+  "metaTitle": "Tour gastronomico a pie en Chiang Mai",
+  "shortDescription": "Excursión de 3 horas en Chiang Mai, con recorrido a pie, guia y arroz pegajoso en hoja de platano. Operador: Secret Food Tours, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 3 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl barrio chino de Bangkok recorre Yaowarat Road, trazada en 1891 y flanqueada de joyerias de oro de dia y puestos de comida de noche, cuando las aceras se llenan de parrillas de carbon, carritos de fideos y las colas de los puestos famosos: mariscos a la parrilla en Phadungdao, fideos enrollados y picantes guay jub, castañas asadas, nido de pajaro y aleta de tiburon para quien los quiera. Es el barrio de comida callejera mas denso de Asia y empieza hacia las 18:00. La guia Michelin de Bangkok premia puestos callejeros desde 2018; un guia que come alli sabe que colas merecen la pena.\n\nEl precio incluye recorrido a pie, guia y arroz pegajoso en hoja de platano. No incluye recogida y regreso al hotel y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recorrido a pie",
+   "guia",
+   "arroz pegajoso en hoja de platano"
+  ],
+  "notIncluded": [
+   "recogida y regreso al hotel",
+   "propinas"
+  ]
+ },
  "elephant-sanctuary-and-jungle-trek-w-waterfall-in-chiang-mai": {
   "title": "Santuario de elefantes y trekking en la selva con cascada en Chiang Mai",
   "metaTitle": "Santuario de elefantes y trekking en la selva con cascada en",
@@ -185801,6 +186097,53 @@ export const ES_TOURS: Record<string, TourT> = {
    "guia turistico de habla inglesa"
   ],
   "notIncluded": []
+ },
+ "chiang-mai-angel-land-dantewada-blue-temple-sticky-waterfall-by-local-operator": {
+  "title": "Chiang Mai: Angel Land, Dantewada, templo azul y cascada pegajosa",
+  "metaTitle": "Chiang Mai: Angel Land, Dantewada, templo azul y cascada pegajosa",
+  "shortDescription": "Excursión de 7 horas en Chiang Mai, con traslados de ida y vuelta al hotel desde Chiang Mai, transporte con aire acondicionado y guia de habla inglesa. Operador: Eco Ventures Co., Ltd., con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 7 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nChiang Rai, a tres horas al noreste de Chiang Mai, es la excursion de un dia al Templo Blanco, Wat Rong Khun, la fantasia blanca y de espejos del artista Chalermchai Kositpipat, comenzada en 1997 y aun en construccion, con un puente sobre un mar de manos extendidas y murales de demonios de la cultura pop en su interior. El Templo Azul y la Casa Negra, el recinto del difunto Thawan Duchanee hecho de pieles de animales y teca oscura, completan el trio. El Triangulo de Oro, donde Tailandia, Laos y Myanmar se encuentran en el Mekong, esta una hora mas al norte, con un mirador, el museo del opio y paseos en barco a una isla-mercado laosiana. Es un dia de 12 horas desde Chiang Mai.\n\nEl precio incluye traslados de ida y vuelta al hotel desde Chiang Mai, transporte con aire acondicionado y guia de habla inglesa. No incluye gastos personales, comida y bebidas adicionales no mencionadas y propinas y gratificaciones, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Chiang Mai. Eco Ventures Co., Ltd. confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "traslados de ida y vuelta al hotel desde Chiang Mai",
+   "transporte con aire acondicionado",
+   "guia de habla inglesa"
+  ],
+  "notIncluded": [
+   "gastos personales",
+   "comida y bebidas adicionales no mencionadas",
+   "propinas y gratificaciones"
+  ]
+ },
+ "chiang-rai-one-day-private-tour": {
+  "title": "Tour privado de un dia a Chiang Rai",
+  "metaTitle": "Tour privado de un dia a Chiang Rai",
+  "shortDescription": "Excursión de 10 horas en Chiang Mai, con Wat Rong Khun and Wat Rong Suea Ten. Operador: Beyond Experience, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 10 horas desde Chiang Mai, centrada en Wat Rong Khun and Wat Rong Suea Ten. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nChiang Rai, a tres horas al noreste de Chiang Mai, es la excursion de un dia al Templo Blanco, Wat Rong Khun, la fantasia blanca y de espejos del artista Chalermchai Kositpipat, comenzada en 1997 y aun en construccion, con un puente sobre un mar de manos extendidas y murales de demonios de la cultura pop en su interior. El Templo Azul y la Casa Negra, el recinto del difunto Thawan Duchanee hecho de pieles de animales y teca oscura, completan el trio. El Triangulo de Oro, donde Tailandia, Laos y Myanmar se encuentran en el Mekong, esta una hora mas al norte, con un mirador, el museo del opio y paseos en barco a una isla-mercado laosiana. Es un dia de 12 horas desde Chiang Mai.\n\nEl precio incluye transporte en furgoneta con aire acondicionado, guia de habla inglesa y tarifas de entrada para todos los lugares. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nChiang Mai.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "transporte en furgoneta con aire acondicionado",
+   "guia de habla inglesa",
+   "tarifas de entrada para todos los lugares"
+  ],
+  "notIncluded": [
+   "gastos personales",
+   "propinas"
+  ]
+ },
+ "full-day-ethical-elephant-sanctuary-and-waterfall-in-chiang-mai": {
+  "title": "Santuario etico de elefantes y cascada, dia completo en Chiang Mai",
+  "metaTitle": "Santuario etico de elefantes y cascada, dia completo en Chiang",
+  "shortDescription": "Excursión de 9 horas en Chiang Mai, con Mae Wang District. Operador: Joy Elephant Sanctuary, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 9 horas desde Chiang Mai, centrada en Mae Wang District. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl turismo de elefantes en Tailandia ha pasado, de forma desigual, de los paseos a lomos y los espectaculos a santuarios donde los visitantes alimentan, caminan junto a y bañan a animales rescatados sin montarlos, y la diferencia se nota en el estado de los animales y en si el operador permite montarlos, ganchos o cadenas. Los campamentos mejor gestionados en Chiang Mai y Phuket limitan el tamaño de los grupos y el tiempo de contacto, y los que merece la pena reservar dicen lo que no permiten. Khao Yai, el primer parque nacional de Tailandia a tres horas al noreste de Bangkok, es donde se ven elefantes salvajes desde un todoterreno al atardecer, junto con gibones, calaos y, en raras ocasiones, los pocos osos del parque.\n\nEl precio incluye recogida y regreso al hotel, guia turistico, almuerzo, agua y comida para elefantes y aperitivos. No incluye propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nMueang Chiang Mai District.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recogida y regreso al hotel",
+   "guia turistico",
+   "almuerzo",
+   "agua",
+   "comida para elefantes y aperitivos"
+  ],
+  "notIncluded": [
+   "propinas"
+  ]
  },
  "doi-inthanon-park-hiking-and-elephants-sanctuary": {
   "title": "Senderismo en el parque de Doi Inthanon y santuario de elefantes",
@@ -185839,6 +186182,21 @@ export const ES_TOURS: Record<string, TourT> = {
    "todas las tarifas de entrada"
   ],
   "notIncluded": []
+ },
+ "doi-inthanon-tour-and-pha-dok-siew-trail-trek": {
+  "title": "Tour de Doi Inthanon y trekking por el sendero de Pha Dok Siew",
+  "metaTitle": "Tour de Doi Inthanon y trekking por el sendero de Pha Dok Siew",
+  "shortDescription": "Excursión de 10 horas en Chiang Mai, con Doi Inthanon National Park and Pha Dok Sieo Waterfall / น้ำตกผาดอกเสี้ยว. Operador: TripGuru Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 10 horas desde Chiang Mai, centrada en Doi Inthanon National Park and Pha Dok Sieo Waterfall / น้ำตกผาดอกเสี้ยว. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nDoi Inthanon es la montaña mas alta de Tailandia con 2565 metros, a 90 kilometros al suroeste de Chiang Mai, y su parque nacional alberga bosque de niebla, las pagodas reales gemelas construidas para los sesenta cumpleaños del rey y la reina, las cascadas de Vachiratharn y Wachirathan, y los pueblos Karen y Hmong en sus laderas donde se cultiva el cafe. En la cima suele haber 10 grados, asi que se necesita una chaqueta incluso en abril. El sendero natural de Ang Ka por el bosque musgoso de la cima dura veinte minutos y es el mejor paseo corto del norte. Los tours van de 8:00 a 17:00 desde Chiang Mai.\n\nEl precio incluye recogida y regreso al hotel, si se selecciona esa opcion, guia turistico profesional y guia de senderismo local en el sendero de Pha Dok Siew. No incluye almuerzo y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Chiang Mai. TripGuru Thailand confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recogida y regreso al hotel, si se selecciona esa opcion",
+   "guia turistico profesional",
+   "guia de senderismo local en el sendero de Pha Dok Siew"
+  ],
+  "notIncluded": [
+   "almuerzo",
+   "gastos personales"
+  ]
  },
  "half-day-afternoon-doi-suthep-wat-pha-lat-and-baan-kang-wat-chiang-mai": {
   "title": "Medio dia (tarde): Doi Suthep, Wat Pha Lat y Baan Kang Wat (Chiang Mai)",
@@ -185886,6 +186244,37 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "1-day-eco-trek-with-bamboo-rafting-in-chiang-mai": {
+  "title": "Eco-trekking de un dia con balsa de bambu en Chiang Mai",
+  "metaTitle": "Eco-trekking de un dia con balsa de bambu en Chiang Mai",
+  "shortDescription": "Excursión de 11 horas en Chiang Mai, con ตลาดสดบ้านกาด(อุ้ยคำ) y Baan Huai Hoi Waterfall(Mae Puai Waterfall) and Bamboo Rafting Point. Operador: Chiangmai Smiley Tour Official, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 11 horas desde Chiang Mai, centrada en ตลาดสดบ้านกาด(อุ้ยคำ) y Baan Huai Hoi Waterfall(Mae Puai Waterfall) and Bamboo Rafting Point. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nLos dias al aire libre del norte de Tailandia salen de Chiang Mai: rafting en aguas bravas en el rio Mae Taeng, grado II a IV en la temporada de lluvias de julio a octubre y suave el resto del año; los circuitos de tirolina en la selva tropical al norte de la ciudad, algunos con mas de 30 plataformas; las pistas de ATV por las colinas de Mae Rim; y el trekking que llega a pie a los pueblos Karen y Lahu, de un dia a tres noches. Phuket y Krabi tienen sus propios parques de ATV y tirolina, pero la selva esta en el norte.\n\nEl precio incluye recogida y regreso al hotel en la zona urbana de Chiang Mai, guia de habla inglesa y almuerzo. No incluye gastos personales, agua potable y aperitivos y bebidas en el mercado local, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nMueang Chiang Mai District.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recogida y regreso al hotel en la zona urbana de Chiang Mai",
+   "guia de habla inglesa",
+   "almuerzo"
+  ],
+  "notIncluded": [
+   "gastos personales",
+   "agua potable",
+   "aperitivos y bebidas en el mercado local"
+  ]
+ },
+ "white-blue-and-black-temple-tour-with-karen-tribe-in-chiang-mai": {
+  "title": "Tour por los templos blanco, azul y negro con la tribu Karen en Chiang Mai",
+  "metaTitle": "Tour por los templos blanco, azul y negro con la tribu Karen en",
+  "shortDescription": "Excursión de 8 horas en Chiang Mai, con Wat Rong Khun y Baan Dam Museum and Wat Rong Suea Ten. Operador: Happy Holiday Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 8 horas desde Chiang Mai, centrada en Wat Rong Khun y Baan Dam Museum and Wat Rong Suea Ten. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTailandia tiene unos 40.000 templos budistas y la etiqueta es la misma en todos: hombros y rodillas cubiertos, zapatos fuera antes de cualquier edificio con una imagen de Buda, pies nunca apuntando a un Buda o a un monje, y las mujeres no tocan a los monjes ni les entregan nada directamente. Las rondas de limosnas, cuando los monjes recorren las calles al amanecer con sus cuencos, son un acto diario de merito y no una actuacion; mejor unirse con un local que conozca la forma. Se ofrecen retiros de meditacion de un dia a un mes en templos de Chiang Mai y en las afueras de Bangkok, en ingles, a cambio de un donativo.\n\nEl precio incluye guia turistico de habla inglesa, almuerzo y seguro de viaje medico y de accidentes. No incluye propinas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nChiang Mai.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "guia turistico de habla inglesa",
+   "almuerzo",
+   "seguro de viaje medico y de accidentes"
+  ],
+  "notIncluded": [
+   "propinas",
+   "gastos personales"
+  ]
+ },
  "doi-inthanon-park-day-trip-with-kiw-mae-pan-hike": {
   "title": "Excursion al parque de Doi Inthanon con senderismo en Kiw Mae Pan",
   "metaTitle": "Excursion al parque de Doi Inthanon con senderismo en Kiw Mae Pan",
@@ -185899,6 +186288,20 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "lalita-cafe-and-chiang-rai-temple-white-blue-from-chiangmai-chiang-mai": {
+  "title": "Cafe Lalita y templos blanco y azul de Chiang Rai desde Chiang Mai (Chiang Mai)",
+  "metaTitle": "Cafe Lalita y templos blanco y azul de Chiang Rai desde Chiang",
+  "shortDescription": "Excursión de día completo en Chiang Mai, con recogida y regreso al hotel, guia de habla inglesa y almuerzo. Operador: Chiang Mai Footsteps Travel, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de día completo en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nChiang Rai, a tres horas al noreste de Chiang Mai, es la excursion de un dia al Templo Blanco, Wat Rong Khun, la fantasia blanca y de espejos del artista Chalermchai Kositpipat, comenzada en 1997 y aun en construccion, con un puente sobre un mar de manos extendidas y murales de demonios de la cultura pop en su interior. El Templo Azul y la Casa Negra, el recinto del difunto Thawan Duchanee hecho de pieles de animales y teca oscura, completan el trio. El Triangulo de Oro, donde Tailandia, Laos y Myanmar se encuentran en el Mekong, esta una hora mas al norte, con un mirador, el museo del opio y paseos en barco a una isla-mercado laosiana. Es un dia de 12 horas desde Chiang Mai.\n\nEl precio incluye recogida y regreso al hotel, guia de habla inglesa y almuerzo. No incluye gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Chiang Mai. Chiang Mai Footsteps Travel confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recogida y regreso al hotel",
+   "guia de habla inglesa",
+   "almuerzo"
+  ],
+  "notIncluded": [
+   "gastos personales"
+  ]
+ },
  "detox-tea-workshop-and-wellness-day-pass-in-chiang-mai": {
   "title": "Taller de te detox y pase de bienestar de un dia en Chiang Mai",
   "metaTitle": "Taller de te detox y pase de bienestar de un dia en Chiang Mai",
@@ -185910,6 +186313,50 @@ export const ES_TOURS: Record<string, TourT> = {
    "conocer las hierbas tailandesas locales y sus beneficios"
   ],
   "notIncluded": []
+ },
+ "old-city-walking-tour-with-temples-and-history-in-chiang-mai": {
+  "title": "Tour a pie por el casco antiguo con templos e historia en Chiang Mai",
+  "metaTitle": "Tour a pie por el casco antiguo con templos e historia en Chiang",
+  "shortDescription": "Excursión de 2,5 horas en Chiang Mai, con guia de habla inglesa, agua potable y seguro. Operador: CanalTour x ExploreSiam, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 2,5 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTailandia tiene unos 40.000 templos budistas y la etiqueta es la misma en todos: hombros y rodillas cubiertos, zapatos fuera antes de cualquier edificio con una imagen de Buda, pies nunca apuntando a un Buda o a un monje, y las mujeres no tocan a los monjes ni les entregan nada directamente. Las rondas de limosnas, cuando los monjes recorren las calles al amanecer con sus cuencos, son un acto diario de merito y no una actuacion; mejor unirse con un local que conozca la forma. Se ofrecen retiros de meditacion de un dia a un mes en templos de Chiang Mai y en las afueras de Bangkok, en ingles, a cambio de un donativo.\n\nEl precio incluye guia de habla inglesa, agua potable y seguro. No incluye gastos personales y entrada para el Wat Chedi Luang (50 baht), así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nThree Kings Monument.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "guia de habla inglesa",
+   "agua potable",
+   "seguro"
+  ],
+  "notIncluded": [
+   "gastos personales",
+   "entrada para el Wat Chedi Luang (50 baht)"
+  ]
+ },
+ "bamboo-rafting-and-wat-phra-that-doi-kham-in-chiang-mai": {
+  "title": "Balsa de bambu y Wat Phra That Doi Kham en Chiang Mai",
+  "metaTitle": "Balsa de bambu y Wat Phra That Doi Kham en Chiang Mai",
+  "shortDescription": "Excursión de 5 horas en Chiang Mai, con บ้านน้ำใส (MaeWang River House) and Wat Phra That Doi Kham. Operador: TripGuru Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 5 horas desde Chiang Mai, centrada en บ้านน้ำใส (MaeWang River House) and Wat Phra That Doi Kham. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nWat Phra That Doi Suthep es el templo en la montaña sobre Chiang Mai, fundado en 1383 para albergar una reliquia que se dice es un hueso del hombro de Buda, llevada hasta alli por un elefante blanco que elegio el lugar. La escalera naga de 306 escalones sube hasta una terraza donde el chedi dorado esta rodeado de campanas y la ciudad queda 1000 metros mas abajo; hay un funicular para quien lo necesite. Los monjes cantan a las 6:00 y a las 18:00, y la madrugada, antes de que lleguen los songthaews desde la ciudad, es la hora tranquila. La entrada cuesta 30 baht, y la vestimenta debe cubrir hombros y rodillas.\n\nEl precio incluye recogida y regreso al hotel, guia turistico de habla inglesa y vehiculo con aire acondicionado. No incluye gastos personales y comidas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nChiang Mai.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recogida y regreso al hotel",
+   "guia turistico de habla inglesa",
+   "vehiculo con aire acondicionado"
+  ],
+  "notIncluded": [
+   "gastos personales",
+   "comidas"
+  ]
+ },
+ "jungle-zipline-river-bamboo-raft-with-pickup-in-chiang-mai": {
+  "title": "Tirolina en la selva, balsa de bambu en el rio con recogida en Chiang Mai",
+  "metaTitle": "Tirolina en la selva, balsa de bambu en el rio con recogida en",
+  "shortDescription": "Excursión en Chiang Mai, con MAE WANG ZIPLINE ADVENTURE แม่วางซิปไลน์แอดเวนเจอร์ and Mae Wang River. Operador: MAEWANG ZIPLINE ADVENTURE TOUR, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia desde Chiang Mai, centrada en MAE WANG ZIPLINE ADVENTURE แม่วางซิปไลน์แอดเวนเจอร์ and Mae Wang River. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nLos dias al aire libre del norte de Tailandia salen de Chiang Mai: rafting en aguas bravas en el rio Mae Taeng, grado II a IV en la temporada de lluvias de julio a octubre y suave el resto del año; los circuitos de tirolina en la selva tropical al norte de la ciudad, algunos con mas de 30 plataformas; las pistas de ATV por las colinas de Mae Rim; y el trekking que llega a pie a los pueblos Karen y Lahu, de un dia a tres noches. Phuket y Krabi tienen sus propios parques de ATV y tirolina, pero la selva esta en el norte.\n\nEl precio incluye traslado de ida y vuelta al hotel desde la ciudad de Chiang Mai y 1 hora de tirolina en el dosel del bosque (15 plataformas, 5 tirolinas), rapel, cabaña en el arbol, patineta aerea y bicicleta aerea. No incluye almuerzo y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nChiang Mai.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "traslado de ida y vuelta al hotel desde la ciudad de Chiang Mai",
+   "1 hora de tirolina en el dosel del bosque (15 plataformas, 5 tirolinas), rapel, cabaña en el arbol, patineta aerea y bicicleta aerea"
+  ],
+  "notIncluded": [
+   "almuerzo",
+   "gastos personales"
+  ]
  },
  "chiang-mai-rafting-on-the-mae-taeng-river-with-thai-buffet-by-local-operator": {
   "title": "Rafting en el rio Mae Taeng con bufet tailandes desde Chiang Mai",
@@ -185950,6 +186397,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "propinas"
   ]
  },
+ "elephant-sanctuary-bamboo-raft-and-pad-thai-cooking-in-chiang-mai": {
+  "title": "Santuario de elefantes, balsa de bambu y clase de cocina de pad thai en Chiang Mai",
+  "metaTitle": "Santuario de elefantes, balsa de bambu y clase de cocina de pad",
+  "shortDescription": "Excursión de 10 horas en Chiang Mai, con Living Green Elephant Sanctuary. Operador: Living Green Elephant Sanctuary Chiang Mai and Chonburi, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 10 horas desde Chiang Mai, centrada en Living Green Elephant Sanctuary. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl turismo de elefantes en Tailandia ha pasado, de forma desigual, de los paseos a lomos y los espectaculos a santuarios donde los visitantes alimentan, caminan junto a y bañan a animales rescatados sin montarlos, y la diferencia se nota en el estado de los animales y en si el operador permite montarlos, ganchos o cadenas. Los campamentos mejor gestionados en Chiang Mai y Phuket limitan el tamaño de los grupos y el tiempo de contacto, y los que merece la pena reservar dicen lo que no permiten. Khao Yai, el primer parque nacional de Tailandia a tres horas al noreste de Bangkok, es donde se ven elefantes salvajes desde un todoterreno al atardecer, junto con gibones, calaos y, en raras ocasiones, los pocos osos del parque.\n\nEl precio incluye recogida y regreso al hotel, vestimenta tradicional del norte para la visita y taller de cocina de pad thai. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nChiang Mai.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recogida y regreso al hotel",
+   "vestimenta tradicional del norte para la visita",
+   "taller de cocina de pad thai"
+  ],
+  "notIncluded": [
+   "gastos personales",
+   "propinas"
+  ]
+ },
+ "ethical-half-day-elephant-sanctuary-and-waterfall-in-chiang-mai": {
+  "title": "Santuario etico de elefantes y cascada, medio dia en Chiang Mai",
+  "metaTitle": "Santuario etico de elefantes y cascada, medio dia en Chiang Mai",
+  "shortDescription": "Excursión de 7 horas en Chiang Mai, con Mae Wang District. Operador: Joy Elephant Sanctuary, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 7 horas desde Chiang Mai, centrada en Mae Wang District. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl turismo de elefantes en Tailandia ha pasado, de forma desigual, de los paseos a lomos y los espectaculos a santuarios donde los visitantes alimentan, caminan junto a y bañan a animales rescatados sin montarlos, y la diferencia se nota en el estado de los animales y en si el operador permite montarlos, ganchos o cadenas. Los campamentos mejor gestionados en Chiang Mai y Phuket limitan el tamaño de los grupos y el tiempo de contacto, y los que merece la pena reservar dicen lo que no permiten. Khao Yai, el primer parque nacional de Tailandia a tres horas al noreste de Bangkok, es donde se ven elefantes salvajes desde un todoterreno al atardecer, junto con gibones, calaos y, en raras ocasiones, los pocos osos del parque.\n\nEl precio incluye recogida y regreso al hotel, guia, almuerzo, agua y comida para elefantes. No incluye propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSe ofrece recogida desde Mueang Chiang Mai District and Mueang Chiang Mai District; el lugar y la hora exactos se acuerdan con Joy Elephant Sanctuary una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nRecogida en el hotel en Chiang Mai. Joy Elephant Sanctuary confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recogida y regreso al hotel",
+   "guia",
+   "almuerzo",
+   "agua",
+   "comida para elefantes"
+  ],
+  "notIncluded": [
+   "propinas"
+  ]
+ },
+ "chiang-mai-light-tuk-tuk-night-tour-with-temples-and-markets-by-local-operator": {
+  "title": "Chiang Mai de noche: tour en tuk-tuk con templos y mercados",
+  "metaTitle": "Chiang Mai de noche: tour en tuk-tuk con templos y mercados",
+  "shortDescription": "Excursión de 3 horas en Chiang Mai, con Wat Chedi Luang y Wat Phra Singh and Wat Lok Moli. Operador: Sun Leisure World Corporation, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 3 horas en Chiang Mai, centrada en Wat Chedi Luang y Wat Phra Singh and Wat Lok Moli. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTailandia tiene unos 40.000 templos budistas y la etiqueta es la misma en todos: hombros y rodillas cubiertos, zapatos fuera antes de cualquier edificio con una imagen de Buda, pies nunca apuntando a un Buda o a un monje, y las mujeres no tocan a los monjes ni les entregan nada directamente. Las rondas de limosnas, cuando los monjes recorren las calles al amanecer con sus cuencos, son un acto diario de merito y no una actuacion; mejor unirse con un local que conozca la forma. Se ofrecen retiros de meditacion de un dia a un mes en templos de Chiang Mai y en las afueras de Bangkok, en ingles, a cambio de un donativo.\n\nEl precio incluye entrada, guia de habla inglesa y traslado en tuk-tuk. No incluye recogida en el hotel, regreso al hotel, almuerzo y desayuno, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nDuangtawan Hotel Chiang Mai.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "entrada",
+   "guia de habla inglesa",
+   "traslado en tuk-tuk"
+  ],
+  "notIncluded": [
+   "recogida en el hotel",
+   "regreso al hotel",
+   "almuerzo",
+   "desayuno"
+  ]
+ },
  "chiang-rai-temples-golden-triangle-and-kayan": {
   "title": "Templos de Chiang Rai, Triangulo de Oro y pueblo Kayan",
   "metaTitle": "Templos de Chiang Rai, Triangulo de Oro y pueblo Kayan",
@@ -185963,6 +186458,20 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "gastos personales"
   ]
+ },
+ "chiang-rai-temples-and-golden-triangle-tour": {
+  "title": "Templos de Chiang Rai y tour por el Triangulo de Oro",
+  "metaTitle": "Templos de Chiang Rai y tour por el Triangulo de Oro",
+  "shortDescription": "Excursión de día completo en Chiang Mai, con Mae Kachan Hot Spring y Wat Rong Khun and Local restaurant. Operador: Chiang Mai Footsteps Travel, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de día completo desde Chiang Mai, centrada en Mae Kachan Hot Spring y Wat Rong Khun and Local restaurant. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nChiang Rai, a tres horas al noreste de Chiang Mai, es la excursion de un dia al Templo Blanco, Wat Rong Khun, la fantasia blanca y de espejos del artista Chalermchai Kositpipat, comenzada en 1997 y aun en construccion, con un puente sobre un mar de manos extendidas y murales de demonios de la cultura pop en su interior. El Templo Azul y la Casa Negra, el recinto del difunto Thawan Duchanee hecho de pieles de animales y teca oscura, completan el trio. El Triangulo de Oro, donde Tailandia, Laos y Myanmar se encuentran en el Mekong, esta una hora mas al norte, con un mirador, el museo del opio y paseos en barco a una isla-mercado laosiana. Es un dia de 12 horas desde Chiang Mai.\n\nEl precio incluye recogida y regreso al hotel, guia, todas las tarifas de entrada, paseo en barco al Triangulo de Oro y almuerzo. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Chiang Mai. Chiang Mai Footsteps Travel confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recogida y regreso al hotel",
+   "guia",
+   "todas las tarifas de entrada",
+   "paseo en barco al Triangulo de Oro",
+   "almuerzo"
+  ],
+  "notIncluded": []
  },
  "3-temples-golden-triangle-boat-trip-in-chiang-mai": {
   "title": "3 templos y paseo en barco al Triangulo de Oro desde Chiang Mai",
@@ -186000,6 +186509,36 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "elephant-sanctuary-waterfall-and-bamboo-rafting-in-chiang-mai": {
+  "title": "Santuario de elefantes, cascada y balsa de bambu en Chiang Mai",
+  "metaTitle": "Santuario de elefantes, cascada y balsa de bambu en Chiang Mai",
+  "shortDescription": "Excursión de 9 horas en Chiang Mai, con recogida y regreso al hotel, si se selecciona esa opcion, guia y almuerzo. Operador: PON ELEPHANT (THAILAND) CO., LTD., con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 9 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl turismo de elefantes en Tailandia ha pasado, de forma desigual, de los paseos a lomos y los espectaculos a santuarios donde los visitantes alimentan, caminan junto a y bañan a animales rescatados sin montarlos, y la diferencia se nota en el estado de los animales y en si el operador permite montarlos, ganchos o cadenas. Los campamentos mejor gestionados en Chiang Mai y Phuket limitan el tamaño de los grupos y el tiempo de contacto, y los que merece la pena reservar dicen lo que no permiten. Khao Yai, el primer parque nacional de Tailandia a tres horas al noreste de Bangkok, es donde se ven elefantes salvajes desde un todoterreno al atardecer, junto con gibones, calaos y, en raras ocasiones, los pocos osos del parque.\n\nEl precio incluye recogida y regreso al hotel, si se selecciona esa opcion, guia y almuerzo. No incluye toalla y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Chiang Mai. PON ELEPHANT (THAILAND) CO., LTD. confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recogida y regreso al hotel, si se selecciona esa opcion",
+   "guia",
+   "almuerzo"
+  ],
+  "notIncluded": [
+   "toalla",
+   "propinas"
+  ]
+ },
+ "small-group-bangkok-tour-street-food-markets-and-temples-by-local-operator": {
+  "title": "Tour en grupo pequeño por Bangkok: comida callejera, mercados y templos",
+  "metaTitle": "Tour en grupo pequeño por Bangkok: comida callejera, mercados y",
+  "shortDescription": "Excursión de 12 horas en Bangkok, con Wat Traimit y Chinatown Bangkok (Yaowarat) and Nai Mong Fry Oyster. Operador: Pattaya Guide Travel, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 12 horas en Bangkok, centrada en Wat Traimit y Chinatown Bangkok (Yaowarat) and Nai Mong Fry Oyster. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl barrio chino de Bangkok recorre Yaowarat Road, trazada en 1891 y flanqueada de joyerias de oro de dia y puestos de comida de noche, cuando las aceras se llenan de parrillas de carbon, carritos de fideos y las colas de los puestos famosos: mariscos a la parrilla en Phadungdao, fideos enrollados y picantes guay jub, castañas asadas, nido de pajaro y aleta de tiburon para quien los quiera. Es el barrio de comida callejera mas denso de Asia y empieza hacia las 18:00. La guia Michelin de Bangkok premia puestos callejeros desde 2018; un guia que come alli sabe que colas merecen la pena.\n\nEl precio incluye recogida y regreso al hotel en Pattaya, transporte en vehiculo con aire acondicionado y guia de habla inglesa. No incluye bebidas alcoholicas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPattaya City.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recogida y regreso al hotel en Pattaya",
+   "transporte en vehiculo con aire acondicionado",
+   "guia de habla inglesa"
+  ],
+  "notIncluded": [
+   "bebidas alcoholicas",
+   "gastos personales"
+  ]
+ },
  "history-temples-markets-and-food-tasting-in-bangkok": {
   "title": "Historia, templos, mercados y degustaciones en Bangkok",
   "metaTitle": "Historia, templos, mercados y degustaciones en Bangkok",
@@ -186035,6 +186574,21 @@ export const ES_TOURS: Record<string, TourT> = {
    "guia profesional con licencia"
   ],
   "notIncluded": []
+ },
+ "grand-palace-and-wat-phra-kaew-guided-walking-tour": {
+  "title": "Tour guiado a pie por el Gran Palacio y el Wat Phra Kaew",
+  "metaTitle": "Tour guiado a pie por el Gran Palacio y el Wat Phra Kaew",
+  "shortDescription": "Excursión de 2,5 horas en Bangkok, con Grand Palace Bangkok and Wat Phra Kaew. Operador: TripGuru Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 2,5 horas en Bangkok, centrada en Grand Palace Bangkok and Wat Phra Kaew. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl Gran Palacio fue el hogar de los reyes siameses desde 1782, cuando Rama I traslado la capital al otro lado del rio a Bangkok, hasta principios del siglo XX, y el Wat Phra Kaew dentro de sus muros alberga el Buda de Esmeralda, una figura de jade de 66 centimetros que es el objeto mas sagrado del reino y cuyas vestiduras el rey cambia tres veces al año segun las estaciones. El complejo abre a las 8:30 y los autocares llegan hacia las 9:30, asi que la primera hora es la tranquila. La vestimenta se controla en la puerta: hombros y rodillas cubiertos, sin vaqueros rotos, sin mallas, y hay sarongs disponibles en la entrada para quien los olvide. La entrada para visitantes extranjeros cuesta 500 baht e incluye el museo textil de la reina Sirikit.\n\nEl precio incluye guia de habla inglesa, recorrido a pie y creditos de compensacion de emisiones de carbono. No incluye recogida y regreso al hotel y comida y bebidas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "guia de habla inglesa",
+   "recorrido a pie",
+   "creditos de compensacion de emisiones de carbono"
+  ],
+  "notIncluded": [
+   "recogida y regreso al hotel",
+   "comida y bebidas"
+  ]
  },
  "harmony-onsen-hand-spa-foot-reflexology-and-onsen-in-bangkok": {
   "title": "Harmony Onsen: spa de manos, reflexologia podal y onsen en Bangkok",
@@ -186092,6 +186646,21 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "ayutthaya-temples-and-khao-yai-national-park-tour": {
+  "title": "Tour por los templos de Ayutthaya y el parque nacional de Khao Yai",
+  "metaTitle": "Tour por los templos de Ayutthaya y el parque nacional de Khao",
+  "shortDescription": "Excursión de 12 horas en Bangkok, con Wat Ratchaburana y Wat Maha That and Wat Phra Si Sanphet. Operador: TripGuru Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 12 horas desde Bangkok, centrada en Wat Ratchaburana y Wat Maha That and Wat Phra Si Sanphet. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nAyutthaya fue la capital de Siam durante 417 años hasta que los birmanos la arrasaron en 1767, y sus ruinas, a 80 kilometros al norte de Bangkok, son un sitio de la Unesco de prangs de ladrillo y budas sin cabeza repartidos por una isla en el rio. La cabeza de Buda atrapada en las raices de un arbol de bodhi en Wat Mahathat es la imagen que todos vienen a ver, y la etiqueta es agacharse para que tu cabeza quede mas baja que la suya. Wat Chaiwatthanaram, a orillas del rio, es el complejo mejor conservado y se ilumina de noche. El calor se vuelve feroz hacia las 11:00; los tours que empiezan temprano y usan bicicleta o tuk-tuk entre templos ven mas que los que van a pie.\n\nEl precio incluye guia turistico de habla inglesa, vehiculo con aire acondicionado y seguro de accidentes. No incluye gastos personales y almuerzo, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nThe Beef Master by Company B (Halal).. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "guia turistico de habla inglesa",
+   "vehiculo con aire acondicionado",
+   "seguro de accidentes"
+  ],
+  "notIncluded": [
+   "gastos personales",
+   "almuerzo"
+  ]
+ },
  "ayutthaya-one-day-famous-temples-and-bang-pa-in-palace-tour-bangkok": {
   "title": "Ayutthaya en un dia: templos famosos y tour al palacio de Bang Pa-In (Bangkok)",
   "metaTitle": "Ayutthaya en un dia: templos famosos y tour al palacio de Bang",
@@ -186106,6 +186675,21 @@ export const ES_TOURS: Record<string, TourT> = {
    "tarifas de entrada del palacio de verano de Bang Pa-In (100 baht), Wat Yai Chai Mongkol (40 baht), Wat Chaiwatthanaram (80 baht), Wat Mahathat (80 baht), todas opcionales"
   ]
  },
+ "bangkok-heritage-walk-temples-giant-swing-and-golden-mount-by-local-operator": {
+  "title": "Paseo patrimonial por Bangkok: templos, gran columpio y Monte Dorado",
+  "metaTitle": "Paseo patrimonial por Bangkok: templos, gran columpio y Monte",
+  "shortDescription": "Excursión de 2 horas en Bangkok, con guia de habla inglesa, agua potable y seguro. Operador: CanalTour x ExploreSiam, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 2 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTailandia tiene unos 40.000 templos budistas y la etiqueta es la misma en todos: hombros y rodillas cubiertos, zapatos fuera antes de cualquier edificio con una imagen de Buda, pies nunca apuntando a un Buda o a un monje, y las mujeres no tocan a los monjes ni les entregan nada directamente. Las rondas de limosnas, cuando los monjes recorren las calles al amanecer con sus cuencos, son un acto diario de merito y no una actuacion; mejor unirse con un local que conozca la forma. Se ofrecen retiros de meditacion de un dia a un mes en templos de Chiang Mai y en las afueras de Bangkok, en ingles, a cambio de un donativo.\n\nEl precio incluye guia de habla inglesa, agua potable y seguro. No incluye gastos personales y propinas para el conductor y el guia, opcionales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "guia de habla inglesa",
+   "agua potable",
+   "seguro"
+  ],
+  "notIncluded": [
+   "gastos personales",
+   "propinas para el conductor y el guia, opcionales"
+  ]
+ },
  "night-tuk-tuk-tour-with-chinatown-meal-and-transfers-in-bangkok": {
   "title": "Tour nocturno en tuk-tuk con comida en el barrio chino y traslados en Bangkok",
   "metaTitle": "Tour nocturno en tuk-tuk con comida en el barrio chino y",
@@ -186117,6 +186701,21 @@ export const ES_TOURS: Record<string, TourT> = {
    "traslados al hotel en coche o minivan, solo dentro de la ciudad de Bangkok"
   ],
   "notIncluded": []
+ },
+ "ayutthaya-and-lopburi-monkey-temple-private-day-trip": {
+  "title": "Excursion privada de un dia a Ayutthaya y al templo de los monos de Lopburi",
+  "metaTitle": "Excursion privada de un dia a Ayutthaya y al templo de los monos",
+  "shortDescription": "Excursión de 10 horas en Bangkok, con Wat Phra Sri Sanphet y Wihan Phra Mongkhon Bophit and Ayutthaya. Operador: Amazing Asia Tours, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 10 horas desde Bangkok, centrada en Wat Phra Sri Sanphet y Wihan Phra Mongkhon Bophit and Ayutthaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nAyutthaya fue la capital de Siam durante 417 años hasta que los birmanos la arrasaron en 1767, y sus ruinas, a 80 kilometros al norte de Bangkok, son un sitio de la Unesco de prangs de ladrillo y budas sin cabeza repartidos por una isla en el rio. La cabeza de Buda atrapada en las raices de un arbol de bodhi en Wat Mahathat es la imagen que todos vienen a ver, y la etiqueta es agacharse para que tu cabeza quede mas baja que la suya. Wat Chaiwatthanaram, a orillas del rio, es el complejo mejor conservado y se ilumina de noche. El calor se vuelve feroz hacia las 11:00; los tours que empiezan temprano y usan bicicleta o tuk-tuk entre templos ven mas que los que van a pie.\n\nEl precio incluye guia de habla inglesa, vehiculo con aire acondicionado y conductor con licencia. No incluye propinas y comida y bebida adicionales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nBangkok.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "guia de habla inglesa",
+   "vehiculo con aire acondicionado",
+   "conductor con licencia"
+  ],
+  "notIncluded": [
+   "propinas",
+   "comida y bebida adicionales"
+  ]
  },
  "ayutthaya-temples-tour-with-german-guide": {
   "title": "Tour por los templos de Ayutthaya con guia de habla alemana",
@@ -186169,6 +186768,51 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "affordable-ayutthaya-highlights-tour": {
+  "title": "Tour economico de los sitios destacados de Ayutthaya",
+  "metaTitle": "Tour economico de los sitios destacados de Ayutthaya",
+  "shortDescription": "Excursión de 7 horas en Bangkok, con Bus/coach y Wat Chaiwatthanaram and Wat Phra Sri Sanphet. Operador: Affordable Holiday Co., Ltd., con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 7 horas desde Bangkok, centrada en Bus/coach y Wat Chaiwatthanaram and Wat Phra Sri Sanphet. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nAyutthaya fue la capital de Siam durante 417 años hasta que los birmanos la arrasaron en 1767, y sus ruinas, a 80 kilometros al norte de Bangkok, son un sitio de la Unesco de prangs de ladrillo y budas sin cabeza repartidos por una isla en el rio. La cabeza de Buda atrapada en las raices de un arbol de bodhi en Wat Mahathat es la imagen que todos vienen a ver, y la etiqueta es agacharse para que tu cabeza quede mas baja que la suya. Wat Chaiwatthanaram, a orillas del rio, es el complejo mejor conservado y se ilumina de noche. El calor se vuelve feroz hacia las 11:00; los tours que empiezan temprano y usan bicicleta o tuk-tuk entre templos ven mas que los que van a pie.\n\nEl precio incluye seguro de viaje, guia de habla inglesa y transporte de ida y vuelta. No incluye almuerzo y gasto personal, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRiver City Bangkok.. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "seguro de viaje",
+   "guia de habla inglesa",
+   "transporte de ida y vuelta"
+  ],
+  "notIncluded": [
+   "almuerzo",
+   "gasto personal"
+  ]
+ },
+ "atv-adventure-with-tuk-tuk-transfer-and-lunch-in-bangkok": {
+  "title": "Aventura en ATV con traslado en tuk-tuk y almuerzo en Bangkok",
+  "metaTitle": "Aventura en ATV con traslado en tuk-tuk y almuerzo en Bangkok",
+  "shortDescription": "Excursión de 4 horas en Bangkok, con Tuk tuk y Ayothaya Floating Market and Wat Samana Kottharam. Operador: Sun Leisure World Corporation, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 4 horas desde Bangkok, centrada en Tuk tuk y Ayothaya Floating Market and Wat Samana Kottharam. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nLas distancias en Tailandia son mas largas de lo que sugiere el mapa: Bangkok a Ayutthaya son 80 kilometros y 90 minutos, Bangkok a Kanchanaburi dos horas y media, el aeropuerto de Phuket a Patong una hora en temporada, Chiang Mai a Chiang Rai tres horas. Un coche privado con conductor se cobra por vehiculo y por dia, y es la opcion sensata para una excursion de tres personas o mas, ya que los tours en autobus siguen un horario fijo y la aplicacion Grab no funciona bien entre ciudades. Los conductores rara vez son guias; si quiere la historia, reserve el guia por separado o elija un tour que nombre uno.\n\nEl precio incluye refrescos, instructor profesional de ATV y almuerzo. No incluye gastos personales y bebidas alcoholicas disponibles para comprar, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Bangkok. Sun Leisure World Corporation confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "refrescos",
+   "instructor profesional de ATV",
+   "almuerzo"
+  ],
+  "notIncluded": [
+   "gastos personales",
+   "bebidas alcoholicas disponibles para comprar"
+  ]
+ },
+ "instagram-spots-and-half-day-temples-tour-in-bangkok": {
+  "title": "Lugares para Instagram y tour de medio dia por los templos en Bangkok",
+  "metaTitle": "Lugares para Instagram y tour de medio dia por los templos en",
+  "shortDescription": "Excursión de 4 horas en Bangkok, con Wat Pho y River boat and Wat Arun. Operador: TripGuru Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 4 horas desde Bangkok, centrada en Wat Pho y River boat and Wat Arun. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nTailandia tiene unos 40.000 templos budistas y la etiqueta es la misma en todos: hombros y rodillas cubiertos, zapatos fuera antes de cualquier edificio con una imagen de Buda, pies nunca apuntando a un Buda o a un monje, y las mujeres no tocan a los monjes ni les entregan nada directamente. Las rondas de limosnas, cuando los monjes recorren las calles al amanecer con sus cuencos, son un acto diario de merito y no una actuacion; mejor unirse con un local que conozca la forma. Se ofrecen retiros de meditacion de un dia a un mes en templos de Chiang Mai y en las afueras de Bangkok, en ingles, a cambio de un donativo.\n\nEl precio incluye paseo en barco al Wat Arun, agua potable y guia de habla inglesa. No incluye recogida y regreso en hoteles ubicados en Khaosan Road, Narathiwas Ratnakarin, Sathorn Road, Pratunam norte y sur, o Wireless Road, salvo que se seleccione otra opcion y almuerzo, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSe ofrece recogida desde Pathum Wan, Phra Nakhon, Bang Rak, Lumphini y Bangkok and Sathon; el lugar y la hora exactos se acuerdan con TripGuru Thailand una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "paseo en barco al Wat Arun",
+   "agua potable",
+   "guia de habla inglesa"
+  ],
+  "notIncluded": [
+   "recogida y regreso en hoteles ubicados en Khaosan Road, Narathiwas Ratnakarin, Sathorn Road, Pratunam norte y sur, o Wireless Road, salvo que se seleccione otra opcion",
+   "almuerzo"
+  ]
+ },
  "ayutthaya-temples-guided-tour-with-lunch": {
   "title": "Tour guiado por los templos de Ayutthaya con almuerzo",
   "metaTitle": "Tour guiado por los templos de Ayutthaya con almuerzo",
@@ -186194,6 +186838,21 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "recogida y regreso al hotel",
    "gastos personales"
+  ]
+ },
+ "khao-yai-emerald-spring-and-hokkaido-flower-park": {
+  "title": "Khao Yai, manantial esmeralda y parque floral de Hokkaido",
+  "metaTitle": "Khao Yai, manantial esmeralda y parque floral de Hokkaido",
+  "shortDescription": "Excursión de 10 horas en Bangkok, con Wat Thep Phithak Punnaram y Pak Chong and Ban Tha Chang Spring. Operador: TripGuru Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 10 horas desde Bangkok, centrada en Wat Thep Phithak Punnaram y Pak Chong and Ban Tha Chang Spring. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl turismo de elefantes en Tailandia ha pasado, de forma desigual, de los paseos a lomos y los espectaculos a santuarios donde los visitantes alimentan, caminan junto a y bañan a animales rescatados sin montarlos, y la diferencia se nota en el estado de los animales y en si el operador permite montarlos, ganchos o cadenas. Los campamentos mejor gestionados en Chiang Mai y Phuket limitan el tamaño de los grupos y el tiempo de contacto, y los que merece la pena reservar dicen lo que no permiten. Khao Yai, el primer parque nacional de Tailandia a tres horas al noreste de Bangkok, es donde se ven elefantes salvajes desde un todoterreno al atardecer, junto con gibones, calaos y, en raras ocasiones, los pocos osos del parque.\n\nEl precio incluye recogida desde el centro comercial MBK, vehiculo con aire acondicionado y guia turistico profesional. No incluye gastos personales y almuerzo, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Bangkok. TripGuru Thailand confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "included": [
+   "recogida desde el centro comercial MBK",
+   "vehiculo con aire acondicionado",
+   "guia turistico profesional"
+  ],
+  "notIncluded": [
+   "gastos personales",
+   "almuerzo"
   ]
  },
  "bangkok-chinatown-michelin-street-food-tour-10-tastings-by-local-operator": {
