@@ -48603,6 +48603,23 @@ export const FR_TOURS: Record<string, TourT> = {
    "Depenses personnelles"
   ]
  },
+ "batur-jeep-tour-with-trekking-black-lava-and-hot-springs": {
+  "title": "Tour en Jeep au Mont Batur avec Trek, Lave Noire et Sources Chaudes",
+  "metaTitle": "Tour en Jeep au Mont Batur avec Trek, Lave Noire et Sources",
+  "shortDescription": "Visite de 6 heures a Ubud, avec Jeep / SUV. Reservation directe aupres de Batur Outdoor Activities, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 6 heures au depart de Ubud, construite autour de Jeep / SUV. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLe mont Batur est un volcan actif de 1 717 metres qui se dresse a l'interieur d'une caldeira bien plus ancienne, avec le lac Batur au fond de celle-ci. Les treks au lever du soleil partent de Toya Bungkah, sur la rive du lac, montent pendant environ deux heures sur du sable volcanique et des pierres instables, et visent a atteindre le bord vers 5h30, car le soleil se leve entre 6h00 et 6h30 selon le mois, derriere le cone du mont Agung a l'est. Au sommet, avant l'aube, il fait regulierement entre 8 et 12 degres C avec du vent, si bien qu'une veste bien chaude importe plus que tout le reste de votre equipement. Les treks sont organises via l'association du village local, c'est pourquoi chaque circuit, le notre inclus, est accompagne d'un guide, et la plupart des matinees se terminent aux sources chaudes sur la rive du lac. Les versions en jeep ou en ATV roulent jusqu'a un point de vue sur le flanc du volcan pour le meme lever du soleil et evitent la montee a pied, ce qui est le bon choix pour les genoux, les jeunes enfants et quiconque n'a pas assez dormi. Pendant la saison des pluies, de novembre a mars, le sommet est souvent dans les nuages a l'aube et il n'y a pas de remboursement pour cause de meteo.\n\nLe prix comprend prise en charge et retour a l'hotel depuis Ubud, Kuta, Seminyak, Canggu, Sanur, guide local parlant anglais et indonesien et jeep 4x4 jusqu au point intermediaire et tour en jeep sur lave noire. Il ne comprend pas Pourboires pour le guide et le chauffeur, location de chaussures de trek, assurance voyage personnelle et nourriture aux sources chaudes, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLa prise en charge est proposee depuis Jl. Mawar No.89 et Ubud and Gg. Anila No.1 ; le lieu et l'heure exacts sont convenus avec Batur Outdoor Activities une fois la reservation confirmee, et l'option choisie determine si le transport est inclus.\n\nPrise en charge a l'hotel a Ubud. Batur Outdoor Activities confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "prise en charge et retour a l'hotel depuis Ubud, Kuta, Seminyak, Canggu, Sanur",
+   "guide local parlant anglais et indonesien",
+   "jeep 4x4 jusqu au point intermediaire et tour en jeep sur lave noire"
+  ],
+  "notIncluded": [
+   "Pourboires pour le guide et le chauffeur",
+   "location de chaussures de trek",
+   "assurance voyage personnelle",
+   "nourriture aux sources chaudes"
+  ]
+ },
  "instagram-highlights-with-waterfall-and-temple-visit-in-ubud": {
   "title": "Sites phares Instagram avec visite de cascade et temple a Ubud",
   "metaTitle": "Sites phares Instagram avec visite de cascade et temple a Ubud",
@@ -48657,6 +48674,25 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Depenses personnelles et boissons"
+  ]
+ },
+ "gianyar-silver-jewelry-and-canang-workshop-in-a-balinese-home-in-ubud": {
+  "title": "Gianyar: Bijouterie en Argent et Atelier Canang dans une Maison Balinaise a Ubud",
+  "metaTitle": "Gianyar: Bijouterie en Argent et Atelier Canang dans une Maison",
+  "shortDescription": "Visite de 5 heures a Ubud, avec experience guidee de 2 heures de fabrication d'offrandes Canang Sari, explication de la philosophie du Canang Sari, cours guide de 3 heures de bijouterie en argent, 5 grammes d argent par participant et bijou fait main cree pendant le cours. Reservation directe aupres de Trivpass, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 5 heures a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nUbud est le centre des villages d'artisanat de Bali : Celuk pour le travail de l'argent et de l'or, Mas pour la sculpture sur bois, Batuan pour son style de peinture, et Batubulan pour la pierre. Les cours d'artisanat reproduisent les memes savoir-faire dans un atelier avec un instructeur et durent de trois a quatre heures, et vous partez avec la piece que vous avez realisee. Les cours d'argenterie travaillent l'argent sterling avec des outils a main, des scies et un chalumeau ; les cours de sculpture travaillent le bois tendre d'hibiscus ou de jacquier ; le batik utilise de la cire chaude et de la teinture sur coton et necessite du temps pour secher. Les cours sont pratiques plutot que des demonstrations, donc portez des vetements qui peuvent supporter la teinture ou la cire.\n\nLe prix comprend experience guidee de 2 heures de fabrication d'offrandes Canang Sari, explication de la philosophie du Canang Sari, cours guide de 3 heures de bijouterie en argent, 5 grammes d argent par participant et bijou fait main cree pendant le cours. Il ne comprend pas argent supplementaire au-dela de 5 grammes, repas autres que le gateau balinais et les boissons inclus, achats personnels et Autres depenses personnelles, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "experience guidee de 2 heures de fabrication d'offrandes Canang Sari",
+   "explication de la philosophie du Canang Sari",
+   "cours guide de 3 heures de bijouterie en argent",
+   "5 grammes d argent par participant",
+   "bijou fait main cree pendant le cours"
+  ],
+  "notIncluded": [
+   "argent supplementaire au-dela de 5 grammes",
+   "repas autres que le gateau balinais et les boissons inclus",
+   "achats personnels",
+   "Autres depenses personnelles"
   ]
  },
  "mount-batur-jeep-sunrise-with-breakfast-hot-spring-or-cafe-ubud": {
@@ -48940,6 +48976,25 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Pourboires"
+  ]
+ },
+ "tabanan-private-jeep-balinese-village-workshop-and-lunch-in-ubud": {
+  "title": "Tabanan: Jeep Prive, Atelier de Village Balinais et Dejeuner a Ubud",
+  "metaTitle": "Tabanan: Jeep Prive, Atelier de Village Balinais et Dejeuner a",
+  "shortDescription": "Visite de 6 heures a Ubud, avec trajet prive en jeep classique a travers le village de Tua, visite de Desa Coklat Bali, introduction au processus de fabrication du chocolat, activite pratique pour preparer du chocolat chaud traditionnel et introduction a la danse balinaise. Reservation directe aupres de Trivpass, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 6 heures a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLes pistes de quad autour d'Ubud traversent les villages au nord de la ville, pres de Payangan et de Tegallalang, sur un melange de chemin de terre, de piste de plantation, de lit de riviere et, sur la plupart des parcours, un passage de boue profonde qui reste le souvenir marquant. Les balades durent generalement de 1h30 a 2 heures sur l'engin, en quad tandem ou individuel, avec un guide en tete. Vous serez sales des genoux vers le bas, et souvent entierement, donc portez des vetements auxquels vous ne tenez pas ; les operateurs fournissent bottes, casques et une douche ensuite. L'age minimum pour conduire varie selon l'operateur et est indique sur l'option, et les enfants roulent generalement en tant que passagers.\n\nLe prix comprend trajet prive en jeep classique a travers le village de Tua, visite de Desa Coklat Bali, introduction au processus de fabrication du chocolat, activite pratique pour preparer du chocolat chaud traditionnel et introduction a la danse balinaise. Il ne comprend pas nourriture et boissons supplementaires, produits ou souvenirs en chocolat supplementaires, Depenses personnelles et pourboires, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "trajet prive en jeep classique a travers le village de Tua",
+   "visite de Desa Coklat Bali",
+   "introduction au processus de fabrication du chocolat",
+   "activite pratique pour preparer du chocolat chaud traditionnel",
+   "introduction a la danse balinaise"
+  ],
+  "notIncluded": [
+   "nourriture et boissons supplementaires",
+   "produits ou souvenirs en chocolat supplementaires",
+   "Depenses personnelles",
+   "pourboires"
   ]
  },
  "telaga-waja-rafting-with-5-meter-dam-drop-and-lunch-in-ubud": {
@@ -50342,6 +50397,25 @@ export const FR_TOURS: Record<string, TourT> = {
    "dejeuner le jour 1 de la visite d Ubud"
   ]
  },
+ "2-day-beginner-diving-dsd-and-island-tour-in-nusa-penida": {
+  "title": "Plongee pour Debutants 2 Jours (DSD) et Visite de l Ile a Nusa Penida",
+  "metaTitle": "Plongee pour Debutants 2 Jours (DSD) et Visite de l Ile a Nusa",
+  "shortDescription": "Visite de 2 jours a Nusa Penida, avec seance d'entrainement en piscine, 2 plongees en mer guidees a Manta Point et Crystal Bay, instructeur PADI professionnel et guide de plongee local, equipement de plongee sous-marine complet et 1 nuit d hebergement au Jukung Dive Resort Penida. Reservation directe aupres de Jukung Dive Resort Bali, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 2 jours a Nusa Penida. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nNusa Penida est la plus grande des trois iles au large de la cote sud-est de Bali, environ 200 kilometres carres de calcaire avec des falaises au sud et a l'ouest et quelques villages sur la cote nord ou accostent les bateaux. Il n'y a quasiment pas de circulation mais ses routes sont etroites et lentes, c'est pourquoi une excursion d'une journee couvre soit le cote ouest (Kelingking, Broken Beach, Angel's Billabong), soit le cote est (Diamond Beach, Atuh, Tree House), mais pas les deux. Les bateaux rapides depuis Sanur mettent de trente a quarante-cinq minutes, partent a partir d'environ 7h00, et sont annules ou retardes en cas de forte houle. Prevoyez de l'argent liquide : les terminaux de carte sont rares et les distributeurs peu fiables.\n\nLe prix comprend seance d'entrainement en piscine, 2 plongees en mer guidees a Manta Point et Crystal Bay, instructeur PADI professionnel et guide de plongee local, equipement de plongee sous-marine complet et 1 nuit d hebergement au Jukung Dive Resort Penida. Il ne comprend pas Depenses personnelles, nourriture et boissons supplementaires non mentionnees dans les inclusions, Assurance voyage et transferts facultatifs depuis Bali continentale vers Nusa Penida, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "seance d'entrainement en piscine",
+   "2 plongees en mer guidees a Manta Point et Crystal Bay",
+   "instructeur PADI professionnel et guide de plongee local",
+   "equipement de plongee sous-marine complet",
+   "1 nuit d hebergement au Jukung Dive Resort Penida"
+  ],
+  "notIncluded": [
+   "Depenses personnelles",
+   "nourriture et boissons supplementaires non mentionnees dans les inclusions",
+   "Assurance voyage",
+   "transferts facultatifs depuis Bali continentale vers Nusa Penida"
+  ]
+ },
  "3-days-nusa-penida-tour-west-east-and-nusa-lembongan-nusa-penida": {
   "title": "Excursion de 3 jours a Nusa Penida : ouest, est et Nusa Lembongan",
   "metaTitle": "Excursion de 3 jours a Nusa Penida : ouest, est et Nusa Lembongan",
@@ -50587,6 +50661,25 @@ export const FR_TOURS: Record<string, TourT> = {
    "transport hors du sud de Bali sur demande, avec supplement"
   ]
  },
+ "fun-dive-safari-2-days-1-night-4-dives-in-nusa-penida": {
+  "title": "Safari de Plongee Loisir, 2 Jours 1 Nuit (4 Plongees) a Nusa Penida",
+  "metaTitle": "Safari de Plongee Loisir, 2 Jours 1 Nuit (4 Plongees) a Nusa",
+  "shortDescription": "Visite de 2 jours a Nusa Penida, avec guide de plongee professionnel, 4 plongees de loisir guidees autour de Nusa Penida, plongee en bateau autour de l'ile, plongees sur des sites tels que Manta Point, Crystal Bay et Toyapakeh et 1 nuit d hebergement au Jukung Dive Resort Penida. Reservation directe aupres de Jukung Dive Resort Bali, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 2 jours a Nusa Penida. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nNusa Penida est la plus grande des trois iles au large de la cote sud-est de Bali, environ 200 kilometres carres de calcaire avec des falaises au sud et a l'ouest et quelques villages sur la cote nord ou accostent les bateaux. Il n'y a quasiment pas de circulation mais ses routes sont etroites et lentes, c'est pourquoi une excursion d'une journee couvre soit le cote ouest (Kelingking, Broken Beach, Angel's Billabong), soit le cote est (Diamond Beach, Atuh, Tree House), mais pas les deux. Les bateaux rapides depuis Sanur mettent de trente a quarante-cinq minutes, partent a partir d'environ 7h00, et sont annules ou retardes en cas de forte houle. Prevoyez de l'argent liquide : les terminaux de carte sont rares et les distributeurs peu fiables.\n\nLe prix comprend guide de plongee professionnel, 4 plongees de loisir guidees autour de Nusa Penida, plongee en bateau autour de l'ile, plongees sur des sites tels que Manta Point, Crystal Bay et Toyapakeh et 1 nuit d hebergement au Jukung Dive Resort Penida. Il ne comprend pas Depenses personnelles, diner et boissons supplementaires, assurance plongee et transferts facultatifs vers l'hotel a Bali, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "guide de plongee professionnel",
+   "4 plongees de loisir guidees autour de Nusa Penida",
+   "plongee en bateau autour de l'ile",
+   "plongees sur des sites tels que Manta Point, Crystal Bay et Toyapakeh",
+   "1 nuit d hebergement au Jukung Dive Resort Penida"
+  ],
+  "notIncluded": [
+   "Depenses personnelles",
+   "diner et boissons supplementaires",
+   "assurance plongee",
+   "transferts facultatifs vers l'hotel a Bali"
+  ]
+ },
  "nusa-lembongan-day-tour": {
   "title": "Excursion d une journee a Nusa Lembongan",
   "metaTitle": "Excursion d une journee a Nusa Lembongan",
@@ -50754,6 +50847,25 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Depenses personnelles"
+  ]
+ },
+ "manta-point-dive-and-manta-ecology-in-nusa-penida": {
+  "title": "Plongee a Manta Point et Ecologie des Raies Manta a Nusa Penida",
+  "metaTitle": "Plongee a Manta Point et Ecologie des Raies Manta a Nusa Penida",
+  "shortDescription": "Visite de 6 heures a Nusa Penida, avec cours SSI Manta et Ray Ecology dirige par un scientifique marin, e-learning numerique SSI Manta et Ray Ecology, certification numerique SSI Manta et Ray Ecology a l'issue du cours, 2 plongees de loisir guidees pour plongeurs certifies et 1 plongee a Manta Point (selon les conditions). Reservation directe aupres de Project Laut, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 6 heures a Nusa Penida. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nFaire du snorkeling au large de Nusa Penida, c'est avant tout aller a la rencontre des raies manta de recif a Manta Point, sur la cote sud de l'ile, ou elles sont presentes toute l'annee, se nourrissant et se faisant nettoyer dans le ressac au pied des falaises. Les bateaux se deplacent ensuite vers des spots plus calmes comme Crystal Bay, Gamat Bay et le mur de Buyuk pour le corail et les poissons. Entre juillet et octobre, Crystal Bay est aussi l'endroit ou viennent les plongeurs pour le poisson-lune oceanique, le mola mola, qui remonte des eaux profondes pendant les mois plus frais. Manta Point est expose au ressac venant du sud et les bateaux l'evitent quand la mer est agitee, donc une journee ici depend toujours de la meteo. La traversee depuis Sanur dure de trente a quarante-cinq minutes.\n\nLe prix comprend cours SSI Manta et Ray Ecology dirige par un scientifique marin, e-learning numerique SSI Manta et Ray Ecology, certification numerique SSI Manta et Ray Ecology a l'issue du cours, 2 plongees de loisir guidees pour plongeurs certifies et 1 plongee a Manta Point (selon les conditions). Il ne comprend pas transfert en bateau depuis Bali disponible sur demande, transport vers et depuis le centre de plongee sur demande, nitrox (air enrichi) disponible sur demande et location de camera d action disponible sur demande, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "cours SSI Manta et Ray Ecology dirige par un scientifique marin",
+   "e-learning numerique SSI Manta et Ray Ecology",
+   "certification numerique SSI Manta et Ray Ecology a l'issue du cours",
+   "2 plongees de loisir guidees pour plongeurs certifies",
+   "1 plongee a Manta Point (selon les conditions)"
+  ],
+  "notIncluded": [
+   "transfert en bateau depuis Bali disponible sur demande",
+   "transport vers et depuis le centre de plongee sur demande",
+   "nitrox (air enrichi) disponible sur demande",
+   "location de camera d action disponible sur demande"
   ]
  },
  "nusa-penida-west-private-tour-nusa-penida": {
