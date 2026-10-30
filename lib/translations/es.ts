@@ -50451,6 +50451,24 @@ export const ES_TOURS: Record<string, TourT> = {
    "comida y bebidas, excepto el agua"
   ]
  },
+ "padi-open-water-package-with-2-night-stay-in-nusa-penida": {
+  "title": "Paquete PADI Open Water con 2 Noches en Nusa Penida",
+  "metaTitle": "Paquete PADI Open Water con 2 Noches en Nusa Penida",
+  "shortDescription": "Recorrido de 3 dias en Nusa Penida, con certificacion PADI Open Water Diver, materiales de aprendizaje en linea PADI, instructor profesional PADI, 4 inmersiones de entrenamiento en aguas abiertas y 1 sesion de entrenamiento en piscina. Reserva directa con Jukung Dive Resort Bali, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 3 dias en Nusa Penida. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nNusa Penida es la mas grande de las tres islas frente a la costa sureste de Bali, unos 200 kilometros cuadrados de piedra caliza con acantilados al sur y al oeste y unos pocos pueblos en la costa norte donde atracan los barcos. Apenas tiene trafico, pero sus carreteras son estrechas y lentas, por lo que una excursion de un dia cubre el lado oeste (Kelingking, Broken Beach, Angel's Billabong) o el este (Diamond Beach, Atuh, Tree House), no ambos. Los barcos rapidos desde Sanur tardan entre treinta y cuarenta y cinco minutos, salen a partir de las 7:00 aproximadamente, y se cancelan o retrasan con oleaje fuerte. Lleve efectivo: los terminales de tarjeta son escasos y los cajeros poco fiables.\n\nEl precio incluye certificacion PADI Open Water Diver, materiales de aprendizaje en linea PADI, instructor profesional PADI, 4 inmersiones de entrenamiento en aguas abiertas y 1 sesion de entrenamiento en piscina. No incluye Gastos personales, cena y los traslados son extras opcionales, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "certificacion PADI Open Water Diver",
+   "materiales de aprendizaje en linea PADI",
+   "instructor profesional PADI",
+   "4 inmersiones de entrenamiento en aguas abiertas",
+   "1 sesion de entrenamiento en piscina"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "cena",
+   "los traslados son extras opcionales"
+  ]
+ },
  "manta-ray-3-spots-snorkeling-tour-in-nusa-penida": {
   "title": "Tour de snorkel con mantarrayas en 3 puntos en Nusa Penida",
   "metaTitle": "Tour de snorkel con mantarrayas en 3 puntos en Nusa Penida",
@@ -50980,6 +50998,23 @@ export const ES_TOURS: Record<string, TourT> = {
    "los clientes deben pagar una tarifa de entrada para las actividades"
   ]
  },
+ "bali-tandem-paragliding-with-hotel-pickup-and-drop-off-uluwatu": {
+  "title": "Parapente en Tandem en Bali con Recogida y Regreso al Hotel (Uluwatu)",
+  "metaTitle": "Parapente en Tandem en Bali con Recogida y Regreso al Hotel",
+  "shortDescription": "Recorrido de 2 horas en Uluwatu, con Pandawa Beach. Reserva directa con Wisata Bali Agung, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 2 horas desde Uluwatu, organizada en torno a Pandawa Beach. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLa peninsula de Bukit, el bloque de piedra caliza en la punta sur de Bali, alberga el templo de Uluwatu y su Kecak, las playas de acantilado, y la estatua Garuda Wisnu Kencana, una figura de 121 metros de Vishnu montando a Garuda terminada en 2018 tras 28 anos, que se encuentra en un parque cultural con espectaculos de danza durante todo el dia. La peninsula es seca, calurosa y en su mayoria sin sombra, y las distancias entre las playas son mas largas de lo que parecen en un mapa, por lo que un conductor para todo el dia es la forma habitual de recorrerla. La puesta de sol es hacia las 18:15 a 18:30 durante todo el ano, y el sendero del acantilado de Uluwatu se llena para verla.\n\nEl precio incluye equipo de vuelo completo y equipo de seguridad, piloto de parapente en tandem cualificado y experimentado, vuelo en parapente de 15 minutos, fotos y videos del vuelo en parapente y seguro para actividades de parapente. No incluye Otros gastos personales y propinas (opcional), cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSe ofrece recogida desde Kuta, Kuta Selatan y North Kuta and Denpasar; el lugar y la hora exactos se acuerdan con Wisata Bali Agung una vez confirmada la reserva, y la opcion elegida determina si el transporte esta incluido.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "equipo de vuelo completo y equipo de seguridad",
+   "piloto de parapente en tandem cualificado y experimentado",
+   "vuelo en parapente de 15 minutos",
+   "fotos y videos del vuelo en parapente",
+   "seguro para actividades de parapente"
+  ],
+  "notIncluded": [
+   "Otros gastos personales",
+   "propinas (opcional)"
+  ]
+ },
  "private-south-bali-beach-hopping-tour": {
   "title": "Tour privado de playa en playa por el sur de Bali",
   "metaTitle": "Tour privado de playa en playa por el sur de Bali",
@@ -51196,6 +51231,23 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "north-bali-ulundanu-waterfall-and-sunset-tanah-lot-temple-canggu": {
+  "title": "Norte de Bali: Ulun Danu, Cascada y Atardecer en el Templo de Tanah Lot (Canggu)",
+  "metaTitle": "Norte de Bali: Ulun Danu, Cascada y Atardecer en el Templo de",
+  "shortDescription": "Recorrido de 8 horas en Canggu, con visita a Banyumala, visita a la colina escondida de Wanagiri, visita al templo de Tanah Lot, visita al templo Ulun Danu y coche privado con conductor. Reserva directa con Bali Your Trip Driver, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 8 horas en Canggu. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLas cascadas del norte de Bali son mas grandes y tranquilas que las de alrededor de Ubud, y estan mas lejos: Sekumpul, Banyumala, Gitgit y las cascadas de Munduk estan todas a unas dos horas de Ubud por la carretera que cruza las montanas pasando los lagos. Sekumpul es la mas grande de la isla, con unos 80 metros, y llegar a la base implica un descenso empinado de varios cientos de escalones y cruzar un rio, asi que es una caminata en lugar de una parada en un mirador. Munduk esta a unos 800 metros, lo que la hace notablemente mas fresca y a menudo con niebla por la tarde. Los dias aqui arriba suelen combinar una cascada con el templo del lago de Ulun Danu Beratan y la puerta de Handara.\n\nEl precio incluye visita a Banyumala, visita a la colina escondida de Wanagiri, visita al templo de Tanah Lot, visita al templo Ulun Danu y coche privado con conductor. No incluye Almuerzo y entrada (opcion adicional), cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "visita a Banyumala",
+   "visita a la colina escondida de Wanagiri",
+   "visita al templo de Tanah Lot",
+   "visita al templo Ulun Danu",
+   "coche privado con conductor"
+  ],
+  "notIncluded": [
+   "Almuerzo",
+   "entrada (opcion adicional)"
+  ]
+ },
  "private-north-bali-tour-with-tanah-lot-sunset": {
   "title": "Tour privado por el norte de Bali con atardecer en Tanah Lot",
   "metaTitle": "Tour privado por el norte de Bali con atardecer en Tanah Lot",
@@ -51401,6 +51453,23 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "1 traslado de recogida y regreso al hotel"
+  ]
+ },
+ "kuta-beach-surfing-lesson-with-instructor": {
+  "title": "Clase de Surf con Instructor en Kuta Beach",
+  "metaTitle": "Clase de Surf con Instructor en Kuta Beach",
+  "shortDescription": "Recorrido de 2 horas en Canggu, con tablas de surf de alta calidad, camisetas lycra, briefing completo en la playa, entrenamiento personalizado y orientacion practica. Reserva directa con Hobby Surf School, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 2 horas en Canggu. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLas clases de surf en Canggu se dan en olas de playa, principalmente en Batu Bolong y Berawa, donde el fondo de arena y las olas lentas y suaves son ideales para los primeros dias. Las clases duran unas dos horas con una tabla blanda y primero una breve sesion en la arena, y los instructores empujan a los principiantes hacia la espuma en lugar de esperar olas formadas. Las mananas antes de las 9:00 son las mas limpias en la temporada seca, de abril a octubre, cuando el viento es terral; la temporada de lluvias trae un surf mas grande y desordenado y vientos de mar por la tarde. Se proporcionan camisetas lycra y no se necesitan escarpines en estas playas. Reserve una segunda clase solo despues de la primera; la mayoria de la gente ya se mantiene de pie al final de esta.\n\nEl precio incluye tablas de surf de alta calidad, camisetas lycra, briefing completo en la playa, entrenamiento personalizado y orientacion practica. No incluye traslado de regreso y recogida, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "tablas de surf de alta calidad",
+   "camisetas lycra",
+   "briefing completo en la playa",
+   "entrenamiento personalizado",
+   "orientacion practica"
+  ],
+  "notIncluded": [
+   "traslado de regreso",
+   "recogida"
   ]
  },
  "bali-private-surf-lesson-with-surf-photos-and-videos": {
@@ -52359,7 +52428,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "title": "Paraiso de surfistas: experiencia de surf de 2 horas en Uluwatu",
   "metaTitle": "Paraiso de surfistas: experiencia de surf de 2 horas en Uluwatu",
   "shortDescription": "Recorrido de 2 horas en Uluwatu, con entrenador de surf profesional, entrenamiento en el agua y fotos y videos de surf. Reserva directa con Cakrawala asia, en lugar de a traves de un revendedor.",
-  "fullDescription": "Esta es una experiencia de 2 horas en Uluwatu. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLas clases de surf en Canggu se dan en olas de playa, principalmente en Batu Bolong y Berawa, donde el fondo de arena y las olas lentas y suaves son ideales para los primeros dias. Las clases duran unas dos horas con una tabla blanda y primero una breve sesion en la arena, y los instructores empujan a los principiantes hacia la espuma en lugar de esperar olas formadas. Las mananas antes de las 9:00 son las mas limpias en la temporada seca, de abril a octubre, cuando el viento es terral; la temporada de lluvias trae un surf mas grande y desordenado y vientos de mar por la tarde. Se proporcionan camisetas lycra y no se necesitan escarpines en estas playas. Reserve una segunda clase solo despues de la primera; la mayoria de la gente ya se mantiene de pie al final de esta.\n\nEl precio incluye entrenador de surf profesional, entrenamiento en el agua y fotos y videos de surf. No incluye Recogida y regreso, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "fullDescription": "Esta es una experiencia de 2 horas en Uluwatu. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLas clases de surf en Canggu se dan en olas de playa, principalmente en Batu Bolong y Berawa, donde el fondo de arena y las olas lentas y suaves son ideales para los primeros dias. Las clases duran unas dos horas con una tabla blanda y primero una breve sesion en la arena, y los instructores empujan a los principiantes hacia la espuma en lugar de esperar olas formadas. Las mananas antes de las 9:00 son las mas limpias en la temporada seca, de abril a octubre, cuando el viento es terral; la temporada de lluvias trae un surf mas grande y desordenado y vientos de mar por la tarde. Se proporcionan camisetas lycra y no se necesitan escarpines en estas playas. Reserve una segunda clase solo despues de la primera; la mayoria de la gente ya se mantiene de pie al final de esta.\n\nEl precio incluye entrenador de surf profesional, entrenamiento en el agua y fotos y videos de surf. No incluye Recogida y traslado de regreso, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
   "included": [
    "entrenador de surf profesional",
    "entrenamiento en el agua",
@@ -52367,7 +52436,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Recogida",
-   "regreso"
+   "traslado de regreso"
   ]
  },
  "paragliding-tandem-flight-in-pandawa-and-uluwatu-with-a-pilot-uluwatu": {
@@ -53552,6 +53621,23 @@ export const ES_TOURS: Record<string, TourT> = {
    "comida y bebidas adicionales"
   ]
  },
+ "bali-swing-traditional-swing-with-jungle-bed-and-love-swing-ubud": {
+  "title": "Columpio de Bali: Columpio Tradicional con Selva, Cama y Columpio del Amor (Ubud)",
+  "metaTitle": "Columpio de Bali: Columpio Tradicional con Selva, Cama y",
+  "shortDescription": "Recorrido en Ubud, con columpio vestido largo, columpio individual, columpio corazon, columpio cama y acceso a 6 puntos fotograficos. Reserva directa con Pandita Bali Travel Agency, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLos columpios de la selva cerca de Ubud son un grupo de negocios a lo largo del desfiladero del rio Ayung alrededor de Bongkasa y por la carretera sobre Tegallalang, cada uno con varios columpios de distintas alturas, desde unos 10 metros hasta 78 metros en el mas alto, ademas de nidos, camas colgantes y accesorios para fotos. Lo sujetan con un arnes y el personal lo empuja, y el columpio se mece sobre el desfiladero. Los precios son por columpio o como paquete, se alquilan vestidos vaporosos en el lugar para las fotos, y la cola en una tarde concurrida es el coste real, asi que conviene reservar un horario temprano.\n\nEl precio incluye columpio vestido largo, columpio individual, columpio corazon, columpio cama y acceso a 6 puntos fotograficos. No incluye fotografo privado y traslado privado al hotel, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "columpio vestido largo",
+   "columpio individual",
+   "columpio corazon",
+   "columpio cama",
+   "acceso a 6 puntos fotograficos"
+  ],
+  "notIncluded": [
+   "fotografo privado",
+   "traslado privado al hotel"
+  ]
+ },
  "tlaga-singha-massage-and-bali-zoo-day-trip-ubud": {
   "title": "Tlaga Singha, masaje y excursion de un dia al zoo de Bali, Ubud",
   "metaTitle": "Tlaga Singha, masaje y excursion de un dia al zoo de Bali, Ubud",
@@ -53612,6 +53698,24 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Gastos personales"
+  ]
+ },
+ "from-ubud": {
+  "title": "Desde Ubud",
+  "metaTitle": "Desde Ubud",
+  "shortDescription": "Recorrido de 6 horas en Ubud, con transporte en coche privado, conductor como guia, Recogida y traslado al hotel, tarifas de entrada si son necesarias y agua mineral. Reserva directa con Tour Activity Bali, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 6 horas en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nUn dia privado alrededor de Ubud dura de ocho a diez horas con un conductor-guia y un coche, y la ruta la decide usted. Las paradas habituales son Tegallalang o Jatiluwih para las terrazas, una o dos cascadas en Bangli, Tirta Empul para el templo del agua, el Bosque de los Monos o los pueblos de artesania, y una parada en un columpio o una plantacion de cafe, con el orden determinado por la luz y las colas: terrazas y columpios primero, templos al mediodia, cascadas cuando hace calor. Las tarifas de entrada suelen pagarse sobre la marcha, salvo que la opcion indique todo incluido. De Ubud al mas lejano de estos lugares hay menos de una hora, pero las carreteras van lentas despues de las 9:00, asi que cinco o seis paradas es un dia realista y ocho es ir con prisas.\n\nEl precio incluye transporte en coche privado, conductor como guia, Recogida y traslado al hotel, tarifas de entrada si son necesarias y agua mineral. No incluye Comidas, Gastos personales y Propinas, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSe ofrece recogida desde Nusa dua and Kuta; el lugar y la hora exactos se acuerdan con Tour Activity Bali una vez confirmada la reserva, y la opcion elegida determina si el transporte esta incluido.\n\nRecogida en el hotel en Ubud. Tour Activity Bali confirma la hora de recogida y el lugar exacto una vez realizada la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "transporte en coche privado",
+   "conductor como guia",
+   "Recogida y traslado al hotel",
+   "tarifas de entrada si son necesarias",
+   "agua mineral"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Gastos personales",
+   "Propinas"
   ]
  },
  "snorkeling-using-traditional-boat-with-ubud-tour": {
@@ -54334,6 +54438,22 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "zapatos de senderismo"
+  ]
+ },
+ "ubud-e-bike-tour-and-water-tubing-adventure-with-meal": {
+  "title": "Tour en Bicicleta Electrica y Aventura de Tubing en Ubud con Comida",
+  "metaTitle": "Tour en Bicicleta Electrica y Aventura de Tubing en Ubud con",
+  "shortDescription": "Recorrido de 1 hora en Ubud, con bicicleta electrica comoda, casco y equipo de seguridad, exploracion de arrozales y campo, pueblo tradicional de Tegallalang y terrazas de arroz de Ceking. Reserva directa con PT BATOUR NET BALI, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 1 hora en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLos recorridos en bicicleta alrededor de Ubud son sobre todo cuesta abajo: una furgoneta lo lleva hasta Kintamani, en el borde de la caldera a unos 1.500 metros, y el descenso atraviesa los pueblos, pasa junto a templos, recintos familiares y arrozales, a lo largo de 20 a 25 kilometros con muy poco pedaleo, y termina cerca de Ubud hacia la hora del almuerzo. Las versiones en bicicleta electrica hacen el mismo circuito con ayuda del motor para las subidas cortas. El tubing en rio se practica en los tramos mas tranquilos del Ayung y en el rio Siap cerca de Payangan, alrededor de una hora en el agua dentro de un tubo individual, y se combina a menudo con el paseo en bici esos dias. Los cascos se proporcionan y las carreteras se comparten con los scooters, por lo que el guia dirige al grupo y se detiene en los cruces.\n\nEl precio incluye bicicleta electrica comoda, casco y equipo de seguridad, exploracion de arrozales y campo, pueblo tradicional de Tegallalang y terrazas de arroz de Ceking. No incluye gastos personales, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Ubud. PT BATOUR NET BALI confirma la hora de recogida y el lugar exacto una vez realizada la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "bicicleta electrica comoda",
+   "casco y equipo de seguridad",
+   "exploracion de arrozales y campo",
+   "pueblo tradicional de Tegallalang",
+   "terrazas de arroz de Ceking"
+  ],
+  "notIncluded": [
+   "gastos personales"
   ]
  },
  "luxury-spa-and-flower-bath-at-chaya-spa-kamandalu-resort-in-ubud": {
@@ -55381,6 +55501,38 @@ export const ES_TOURS: Record<string, TourT> = {
    "cabana, tumbona o gasto minimo en Tlaga Singha"
   ]
  },
+ "authentic-cooking-class-and-magical-fireflies-tour-in-ubud": {
+  "title": "Clase de Cocina Autentica y Tour Magico de Luciernagas en Ubud",
+  "metaTitle": "Clase de Cocina Autentica y Tour Magico de Luciernagas en Ubud",
+  "shortDescription": "Recorrido de 3 horas en Ubud, con caminata guiada por el pueblo de Taro, clase de cocina con chefs del pueblo, ingredientes para cocinar, experiencia de cocina a lena y preparacion de platos balineses. Reserva directa con The Authentic Bali Experience, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 3 horas en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLas clases de cocina balinesa suelen empezar en un mercado matutino para comprar los ingredientes, y luego se trasladan a un recinto familiar o a una cocina preparada para la ocasion. La base de la mayoria de los platos es base genep, una pasta de especias de chalotas, ajo, galanga, curcuma, jengibre, chiles, nuez candela y pasta de camarones machacados juntos, y de ella salen el sate lilit (carne picada en palitos de citronela), el lawar (una ensalada picada con coco y sangre en la version tradicional), el pepes (pescado cocido al vapor en hoja de platano) y el arroz amarillo, nasi kuning. Las clases duran de tres a cuatro horas, usted se come lo que prepara al final, y las versiones vegetarianas son habituales por peticion.\n\nEl precio incluye caminata guiada por el pueblo de Taro, clase de cocina con chefs del pueblo, ingredientes para cocinar, experiencia de cocina a lena y preparacion de platos balineses. No incluye transporte al pueblo de Taro y Gastos personales, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "caminata guiada por el pueblo de Taro",
+   "clase de cocina con chefs del pueblo",
+   "ingredientes para cocinar",
+   "experiencia de cocina a lena",
+   "preparacion de platos balineses"
+  ],
+  "notIncluded": [
+   "transporte al pueblo de Taro",
+   "Gastos personales"
+  ]
+ },
+ "mount-batur-atv-sunrise-zip-line-and-cretya-alas-harum": {
+  "title": "Monte Batur: ATV al Amanecer, Tirolina y Cretya Alas Harum",
+  "metaTitle": "Monte Batur: ATV al Amanecer, Tirolina y Cretya Alas Harum",
+  "shortDescription": "Recorrido de 4 horas en Ubud, con Mount Batur. Reserva directa con PT. Gorilla Adventures Bali, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 4 horas desde Ubud, organizada en torno a Mount Batur. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nEl monte Batur es un volcan activo de 1.717 metros que se alza dentro de una caldera mucho mas antigua, con el lago Batur en su fondo. Las caminatas al amanecer salen desde Toya Bungkah, en la orilla del lago, ascienden durante unas dos horas sobre arena volcanica y roca suelta, y buscan llegar al borde hacia las 5:30, ya que el sol sale entre las 6:00 y las 6:30 segun el mes, detras del cono del monte Agung al este. En la cumbre, antes del amanecer, suele haber entre 8 y 12 grados C con viento, por lo que una capa realmente abrigada importa mas que cualquier otra cosa que lleve. El trekking se organiza a traves de la asociacion local del pueblo, por eso cada tour, incluido el nuestro, viene con un guia, y la mayoria de las mananas terminan en las aguas termales de la orilla del lago. Las versiones en jeep y ATV suben hasta un mirador en el flanco del volcan para el mismo amanecer y evitan la subida a pie, lo cual es la opcion adecuada para las rodillas, los ninos pequenos y cualquiera que no haya dormido bien. En la temporada de lluvias, de noviembre a marzo, la cima suele estar entre nubes al amanecer y no hay reembolso por el clima.\n\nEl precio incluye traslado de ida y vuelta al hotel (si se selecciona la opcion), ATV al amanecer, solo o en tandem y desayuno, cafe o te. No incluye traslado de ida y vuelta al hotel (si no se selecciona la opcion) y tirolina y Cretya Alas Harum (si no se selecciona la opcion), cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Ubud. PT. Gorilla Adventures Bali confirma la hora de recogida y el lugar exacto una vez realizada la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "traslado de ida y vuelta al hotel (si se selecciona la opcion)",
+   "ATV al amanecer, solo o en tandem",
+   "desayuno, cafe o te"
+  ],
+  "notIncluded": [
+   "traslado de ida y vuelta al hotel (si no se selecciona la opcion)",
+   "tirolina y Cretya Alas Harum (si no se selecciona la opcion)"
+  ]
+ },
  "hidden-waterfalls-tour-with-pickup-and-drop-off-in-ubud": {
   "title": "Tour a cascadas escondidas con recogida y regreso en Ubud",
   "metaTitle": "Tour a cascadas escondidas con recogida y regreso en Ubud",
@@ -55456,6 +55608,24 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas y bebidas",
    "entradas, a menos que se seleccione esa opcion"
+  ]
+ },
+ "8-dish-cooking-class-with-market-tour-in-ubud": {
+  "title": "Clase de Cocina de 8 Platos con Visita al Mercado en Ubud",
+  "metaTitle": "Clase de Cocina de 8 Platos con Visita al Mercado en Ubud",
+  "shortDescription": "Recorrido de 3 horas en Ubud, con recogida y traslado de regreso en el centro de Ubud, agua mineral, todo el equipo de cocina, archivo PDF con la receta para llevar y almuerzo o cena con su comida. Reserva directa con Balinese Local activities, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 3 horas en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLas clases de cocina balinesa suelen empezar en un mercado matutino para comprar los ingredientes, y luego se trasladan a un recinto familiar o a una cocina preparada para la ocasion. La base de la mayoria de los platos es base genep, una pasta de especias de chalotas, ajo, galanga, curcuma, jengibre, chiles, nuez candela y pasta de camarones machacados juntos, y de ella salen el sate lilit (carne picada en palitos de citronela), el lawar (una ensalada picada con coco y sangre en la version tradicional), el pepes (pescado cocido al vapor en hoja de platano) y el arroz amarillo, nasi kuning. Las clases duran de tres a cuatro horas, usted se come lo que prepara al final, y las versiones vegetarianas son habituales por peticion.\n\nEl precio incluye recogida y traslado de regreso en el centro de Ubud, agua mineral, todo el equipo de cocina, archivo PDF con la receta para llevar y almuerzo o cena con su comida. No incluye tarifas de traslado para huespedes fuera del area de Ubud, bebidas alcoholicas y visita al mercado para la clase de la tarde, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Ubud. Balinese Local activities confirma la hora de recogida y el lugar exacto una vez realizada la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "recogida y traslado de regreso en el centro de Ubud",
+   "agua mineral",
+   "todo el equipo de cocina",
+   "archivo PDF con la receta para llevar",
+   "almuerzo o cena con su comida"
+  ],
+  "notIncluded": [
+   "tarifas de traslado para huespedes fuera del area de Ubud",
+   "bebidas alcoholicas",
+   "visita al mercado para la clase de la tarde"
   ]
  },
  "bali-swing-waterfalls-and-tegalalang-rice-terrace-tour-ubud": {
@@ -55954,6 +56124,21 @@ export const ES_TOURS: Record<string, TourT> = {
    "equipo de ATV, casco y calzado"
   ],
   "notIncluded": []
+ },
+ "mount-batur-sunrise-atv-ride-and-ubud-zipline-tour": {
+  "title": "Monte Batur: Paseo en ATV al Amanecer y Tirolina en Ubud",
+  "metaTitle": "Monte Batur: Paseo en ATV al Amanecer y Tirolina en Ubud",
+  "shortDescription": "Recorrido de 4 horas en Ubud, con Mount Batur. Reserva directa con PT. Gorilla Adventures Bali, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 4 horas desde Ubud, organizada en torno a Mount Batur. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nEl monte Batur es un volcan activo de 1.717 metros que se alza dentro de una caldera mucho mas antigua, con el lago Batur en su fondo. Las caminatas al amanecer salen desde Toya Bungkah, en la orilla del lago, ascienden durante unas dos horas sobre arena volcanica y roca suelta, y buscan llegar al borde hacia las 5:30, ya que el sol sale entre las 6:00 y las 6:30 segun el mes, detras del cono del monte Agung al este. En la cumbre, antes del amanecer, suele haber entre 8 y 12 grados C con viento, por lo que una capa realmente abrigada importa mas que cualquier otra cosa que lleve. El trekking se organiza a traves de la asociacion local del pueblo, por eso cada tour, incluido el nuestro, viene con un guia, y la mayoria de las mananas terminan en las aguas termales de la orilla del lago. Las versiones en jeep y ATV suben hasta un mirador en el flanco del volcan para el mismo amanecer y evitan la subida a pie, lo cual es la opcion adecuada para las rodillas, los ninos pequenos y cualquiera que no haya dormido bien. En la temporada de lluvias, de noviembre a marzo, la cima suele estar entre nubes al amanecer y no hay reembolso por el clima.\n\nEl precio incluye traslado de ida y vuelta al hotel (si se selecciona la opcion), ATV al amanecer, solo o en tandem y desayuno, cafe o te. No incluye traslado de ida y vuelta al hotel (si no se selecciona la opcion) y tirolina (si no se selecciona la opcion), cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Ubud. PT. Gorilla Adventures Bali confirma la hora de recogida y el lugar exacto una vez realizada la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "traslado de ida y vuelta al hotel (si se selecciona la opcion)",
+   "ATV al amanecer, solo o en tandem",
+   "desayuno, cafe o te"
+  ],
+  "notIncluded": [
+   "traslado de ida y vuelta al hotel (si no se selecciona la opcion)",
+   "tirolina (si no se selecciona la opcion)"
+  ]
  },
  "monkey-forest-waterfall-and-rice-terrace-tour-in-ubud": {
   "title": "Bosque de los monos, cascada y terraza de arroz en Ubud",
@@ -57174,6 +57359,23 @@ export const ES_TOURS: Record<string, TourT> = {
    "propinas"
   ]
  },
+ "romantic-candlelit-dinner-by-the-river-in-ubud": {
+  "title": "Cena Romantica a la Luz de las Velas junto al Rio en Ubud",
+  "metaTitle": "Cena Romantica a la Luz de las Velas junto al Rio en Ubud",
+  "shortDescription": "Recorrido de 3 horas en Ubud, con cena preparada por un chef y seleccion de platos cuidada, mesa romantica personalizada y decoracion, cena a la luz de las velas, entorno privado junto al rio y encantador telon de fondo con cascada. Reserva directa con Sanggraloka Farm, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 3 horas en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLa comida balinesa se basa en base genep, la pasta de especias de la isla, y se come en warungs y mercados nocturnos mas que en restaurantes. Babi guling, cerdo asado al espeton con corteza crujiente y arroz especiado, es el plato por el que la isla es conocida; nasi campur es arroz con una cucharada de varias cosas; sate lilit es carne picada sobre citronela; y lawar es la ensalada picada que acompana a casi todo. El mercado nocturno de Gianyar abre hacia las 17:00 y es el mejor cerca de Ubud. Los tours gastronomicos paran en seis a diez lugares para porciones pequenas, asi que llegue con hambre, y avise al guia pronto sobre su tolerancia al picante, porque el sambal balines no es suave.\n\nEl precio incluye cena preparada por un chef y seleccion de platos cuidada, mesa romantica personalizada y decoracion, cena a la luz de las velas, entorno privado junto al rio y encantador telon de fondo con cascada. No incluye transporte hasta el lugar y alojamiento, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "cena preparada por un chef y seleccion de platos cuidada",
+   "mesa romantica personalizada y decoracion",
+   "cena a la luz de las velas",
+   "entorno privado junto al rio",
+   "encantador telon de fondo con cascada"
+  ],
+  "notIncluded": [
+   "transporte hasta el lugar",
+   "alojamiento"
+  ]
+ },
  "best-cretya-day-club-in-ubud-and-waterfalls-private-tour": {
   "title": "El mejor Cretya Day Club en Ubud y tour privado a cascadas",
   "metaTitle": "El mejor Cretya Day Club en Ubud y tour privado a cascadas",
@@ -57258,6 +57460,22 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comidas",
+   "Gastos personales"
+  ]
+ },
+ "real-bali-swing-experience-ubud": {
+  "title": "Auntentica Experiencia de Columpio en Bali (Ubud)",
+  "metaTitle": "Auntentica Experiencia de Columpio en Bali (Ubud)",
+  "shortDescription": "Recorrido de 4 horas en Ubud, con 1 columpio Adrenaline, 1 columpio individual, 1 columpio Libra, 1 columpio romantico y 1 columpio cama. Reserva directa con BIMA BALI JOURNEY, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 4 horas en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLos columpios de la selva cerca de Ubud son un grupo de negocios a lo largo del desfiladero del rio Ayung alrededor de Bongkasa y por la carretera sobre Tegallalang, cada uno con varios columpios de distintas alturas, desde unos 10 metros hasta 78 metros en el mas alto, ademas de nidos, camas colgantes y accesorios para fotos. Lo sujetan con un arnes y el personal lo empuja, y el columpio se mece sobre el desfiladero. Los precios son por columpio o como paquete, se alquilan vestidos vaporosos en el lugar para las fotos, y la cola en una tarde concurrida es el coste real, asi que conviene reservar un horario temprano.\n\nEl precio incluye 1 columpio Adrenaline, 1 columpio individual, 1 columpio Libra, 1 columpio romantico y 1 columpio cama. No incluye Gastos personales, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "1 columpio Adrenaline",
+   "1 columpio individual",
+   "1 columpio Libra",
+   "1 columpio romantico",
+   "1 columpio cama"
+  ],
+  "notIncluded": [
    "Gastos personales"
   ]
  },
