@@ -1304,6 +1304,51 @@ export function getHongKongInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-10/31)
+    case "how-much-should-a-private-tour-guide-cost-in-hong-kong":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Hong Kong?",
+        seoTitle: "Hong Kong Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private guide or car tour in Hong Kong in 2026, by tour type, so you know what's fair before you book.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a770dcde68e54570c682cc4a54dbb1eb621ccf4700edddb505edcf5c667b19b8.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private Lantau Island or city highlights tour by car** typically runs **$400-620 flat for 1-2 people**, stepping up roughly $270-400 for a third traveller once a bigger vehicle or extra ticket cost is needed. A shorter private market or photo-walk experience runs cheaper, around **$22-315 flat for 1-2 people**, depending on length and whether a professional photographer is involved. A **private boat or speedboat trip** (Geopark, outlying islands) prices considerably higher, **$1,000-1,500+ for 1-2 people**, because you're paying for the vessel and crew.",
+            tourCard: { slug: "hong-kong-private-lantau-island-big-buddha-tai-o", title: "Hong Kong: Private Lantau Island, Big Buddha & Tai O Tour", description: "A real example of standard private-car-tour pricing that steps up for a third traveller.", price: "From $402", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a770dcde68e54570c682cc4a54dbb1eb621ccf4700edddb505edcf5c667b19b8.png" },
+          },
+          {
+            title: "Why the Price Range Is So Wide",
+            content: "A private car tour's cost is mostly the driver and vehicle, which is why many quotes stay flat for 1-2 people before stepping up. A private boat trip's cost is the vessel itself, so it prices high even solo. A photo-walk or market-hopping tour is priced on the guide or photographer's time, which is why the cheapest options here are the walking, no-vehicle experiences. Compare the product, not just the headline price.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private car-tour quote well under $400 for a full Lantau Island or city highlights day usually means a shorter route, a shared minivan marketed as private, or a jewellery or electronics-shop detour built into the schedule. For boat trips, confirm the boat is genuinely chartered and not a shared departure re-labelled.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly what's included — which sites, transport type, whether a licensed guide travels with you — and whether a boat quote is a full charter or a shared seat. On AsiaByLocals, every Hong Kong tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Hong Kong tours](/hong-kong/hongkong) to compare real, current prices directly.",
+            tourCard: { slug: "private-hong-kong-local-market-hopper", title: "Private: Hong Kong Local Market Hopper", description: "A real example of flat, lower-cost pricing for a walking, no-vehicle private experience.", price: "From $315", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a770dcde68e54570c682cc4a54dbb1eb621ccf4700edddb505edcf5c667b19b8.png" },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Hong Kong?", a: "A private Lantau Island or city highlights tour by car typically runs $400-620 flat for 1-2 people. A shorter private market or photo-walk experience runs $22-315 flat for 1-2 people." },
+          { q: "How much does a private boat trip cost in Hong Kong?", a: "A private boat or speedboat trip to the Geopark or outlying islands runs $1,000-1,500+ for 1-2 people, since you're paying for the vessel and crew." },
+          { q: "Is a very cheap private tour quote in Hong Kong a red flag?", a: "Often yes — it can mean a shorter route, a shared minivan marketed as private, or a jewellery or electronics-shop detour." },
+          { q: "What's usually included in a Hong Kong private tour price?", a: "Typically the driver or guide's fee and transport. Entrance fees and meals are usually listed separately — ask for the full breakdown before comparing prices." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Hong Kong?", "acceptedAnswer": { "@type": "Answer", "text": "A private Lantau Island or city highlights tour by car typically runs $400-620 flat for 1-2 people." } },
+            { "@type": "Question", "name": "How much does a private boat trip cost in Hong Kong?", "acceptedAnswer": { "@type": "Answer", "text": "A private boat trip to the Geopark or outlying islands runs $1,000-1,500+ for 1-2 people." } },
+            { "@type": "Question", "name": "Is a very cheap private tour quote in Hong Kong a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a shorter route or a shared minivan marketed as private." } },
+            { "@type": "Question", "name": "What's usually included in a Hong Kong private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the driver or guide's fee and transport; entrance fees and meals are usually separate." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

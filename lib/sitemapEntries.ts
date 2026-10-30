@@ -152,6 +152,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'hong-kong-cantonese-opera-guide', 'hong-kong-7-day-itinerary', 'hong-kong-budget-travel-guide',
     'hong-kong-luxury-travel-guide', 'hong-kong-rainy-day-activities', 'ocean-park-vs-disneyland-hong-kong',
     'best-tours-in-hong-kong', 'should-i-book-hong-kong-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-hong-kong',
   ].map(slug => ({
     url: `${BASE_URL}/hong-kong/hongkong/${slug}`,
     lastModified: new Date(),
@@ -189,6 +190,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'seoul-to-busan-travel', 'namsan-tower-guide', 'seoul-k-pop-tour-guide',
     'bukchon-hanok-village-guide', 'insadong-guide', 'gwangjang-market-guide',
     'seoul-palaces-guide', 'seoul-night-market-food-guide', 'best-tours-in-seoul', 'should-i-book-seoul-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-seoul',
   ].map(slug => ({
     url: `${BASE_URL}/south-korea/seoul/${slug}`,
     lastModified: new Date(),
@@ -221,6 +223,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'istanbul-rainy-day-activities', 'dolmabahce-palace-guide', 'galata-tower-guide',
     'istanbul-whirling-dervishes-guide', 'istanbul-turkish-coffee-culture-guide', 'istanbul-weekend-guide',
     'best-tours-in-istanbul', 'should-i-book-istanbul-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-istanbul',
   ].map(slug => ({
     url: `${BASE_URL}/turkey/istanbul/${slug}`,
     lastModified: new Date(),
@@ -949,6 +952,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'ubud-with-kids',
     'best-tours-in-ubud',
     'should-i-book-ubud-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-ubud',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/ubud/${slug}`,
     lastModified: new Date(),

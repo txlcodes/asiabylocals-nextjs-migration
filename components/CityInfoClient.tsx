@@ -489,6 +489,7 @@ const SHANGHAI_SIDEBAR = [
 
 const HONG_KONG_SIDEBAR = [
     { name: 'Best Tours in Hong Kong', slug: 'best-tours-in-hong-kong' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-hong-kong' },
     { name: 'Hong Kong Travel Guide', slug: 'hong-kong-travel-guide-2026' },
     { name: 'Things to Do', slug: 'things-to-do-in-hong-kong' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-hong-kong' },
@@ -531,6 +532,7 @@ const TAIPEI_SIDEBAR = [
 
 const SEOUL_SIDEBAR = [
     { name: 'Best Tours in Seoul', slug: 'best-tours-in-seoul' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-seoul' },
     { name: 'Seoul Travel Guide', slug: 'seoul-travel-guide-2026' },
     { name: 'Things to Do', slug: 'things-to-do-in-seoul' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-seoul' },
@@ -555,6 +557,7 @@ const SEOUL_SIDEBAR = [
 
 const ISTANBUL_SIDEBAR = [
     { name: 'Best Tours in Istanbul', slug: 'best-tours-in-istanbul' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-istanbul' },
     { name: 'Istanbul Travel Guide', slug: 'istanbul-travel-guide-2026' },
     { name: 'Things to Do', slug: 'things-to-do-in-istanbul' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-istanbul' },

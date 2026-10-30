@@ -1239,6 +1239,51 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-10/31)
+    case "how-much-should-a-private-tour-guide-cost-in-seoul":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Seoul?",
+        seoTitle: "Seoul Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private guide or interpreter in Seoul in 2026, by tour type, so you know what's fair before you book.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e83adac682525068c13880ea43e0dcf685f0e9146feb0243a603171589a2f62e.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private city tour** in Seoul (palaces, night views) typically starts around **$280-480 flat for 1-2 people**, stepping up roughly $250-350 for a third traveller. A **private airport layover tour from Incheon** runs similarly, **$320-520 for 1-2 people**. A **private day trip outside Seoul** (Nami Island, the DMZ, Suwon) runs **$280-620 for 1-2 people**, and a multi-day private tour with KTX train travel and hotels (Busan, Gyeongju) runs into the **$1,600-2,900+** range for the group. Specialty VIP tours with an interpreter or a Russian/other-language guide price noticeably higher, often $1,500+ even solo, since they're a different, premium product.",
+            tourCard: { slug: "seoul-private-city-tour-with-palace-night-views", title: "Seoul: Private City Tour with Palace & Night Views", description: "A real example of standard private city-tour pricing that steps up for a third traveller.", price: "From $481", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e83adac682525068c13880ea43e0dcf685f0e9146feb0243a603171589a2f62e.jpg" },
+          },
+          {
+            title: "Why the Price Range Is So Wide",
+            content: "Seoul's \"private tour\" label covers a standard local guide, a VIP tour with a specific-language interpreter (Russian, Japanese) built for a specific traveller segment, and multi-day trips bundling KTX high-speed rail and hotels. The interpreter-led VIP tours price far above standard guided tours even for one person, because the guide's qualification (fluent in a less-common language) is the scarce resource being sold, not just their time.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private day-tour quote well under $280 for a full day with transport usually means a shorter route or a driver without real guiding commentary. For DMZ tours specifically, confirm whether a passport check and advance registration are actually arranged — a very cheap quote sometimes means a shortened itinerary that skips the harder-to-access DMZ sites.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly what's included — transport, meals, specific sites — and whether you need a standard guide or a specific-language interpreter. On AsiaByLocals, every Seoul tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Seoul tours](/south-korea/seoul) to compare real, current prices directly.",
+            tourCard: { slug: "seoul-nami-island-private-day-tour-with-coex-cafe", title: "Seoul: Nami Island Private Day Tour with COEX & Café Pokpo", description: "A real example of a private day trip outside Seoul and its actual tiered price.", price: "From $364", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e83adac682525068c13880ea43e0dcf685f0e9146feb0243a603171589a2f62e.jpg" },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Seoul?", a: "A private city tour (palaces, night views) typically starts around $280-480 flat for 1-2 people. A private day trip outside Seoul runs $280-620 for 1-2 people." },
+          { q: "Why do VIP interpreter-led Seoul tours cost so much more?", a: "The guide's language qualification (Russian, Japanese, etc.) is the scarce resource, not just their time, so these price well above standard guided tours even for a solo traveller." },
+          { q: "Is a very cheap private day-tour quote in Seoul a red flag?", a: "Often yes — it can mean a shorter route or a driver without real guiding commentary, and for DMZ tours specifically, a shortened itinerary that skips harder-to-access sites." },
+          { q: "What's usually included in a Seoul private tour price?", a: "Typically the guide's fee and private transport. Meals and specific site entrance fees are sometimes separate — ask for the full breakdown before comparing prices." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Seoul?", "acceptedAnswer": { "@type": "Answer", "text": "A private city tour typically starts around $280-480 flat for 1-2 people." } },
+            { "@type": "Question", "name": "Why do VIP interpreter-led Seoul tours cost so much more?", "acceptedAnswer": { "@type": "Answer", "text": "The guide's language qualification is the scarce resource, not just their time." } },
+            { "@type": "Question", "name": "Is a very cheap private day-tour quote in Seoul a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a shorter route or a shortened DMZ itinerary." } },
+            { "@type": "Question", "name": "What's usually included in a Seoul private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the guide's fee and private transport; meals and entrance fees are sometimes separate." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

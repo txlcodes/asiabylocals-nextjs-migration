@@ -1141,6 +1141,51 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-10/31)
+    case "how-much-should-a-private-tour-guide-cost-in-istanbul":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Istanbul?",
+        seoTitle: "Istanbul Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private guide or driver in Istanbul in 2026, by tour type, so you know what's fair before you book.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dcf68b321ccac985456d2efce5ad90f9daa43d9ee56aee55d69bdf3bbb43258c.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private Old Town guided walking tour** (Hagia Sophia, Blue Mosque, Grand Bazaar) typically runs **$48-230 for 1-2 people**, depending on whether it's a standard guide or a premium \"best of\" small-group-turned-private format, and often climbs by roughly $48-70 per added traveller. A **private airport layover city tour** runs considerably more, **$550-800 for 1-2 people**, since it includes a longer route and private transport across the city. A **private day trip outside Istanbul** (Pamukkale by plane, Göbeklitepe) runs into the **$700-2,000+** range for the group, reflecting flights or long drives, not just guide time.",
+            tourCard: { slug: "istanbul-old-town-private-guided-tour-with-tram", title: "Istanbul: Old Town Private Guided Tour with Tram Ride", description: "A real example of standard private guided-tour pricing that steps up per added traveller.", price: "From $48", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dcf68b321ccac985456d2efce5ad90f9daa43d9ee56aee55d69bdf3bbb43258c.jpeg" },
+          },
+          {
+            title: "Why the Price Range Is So Wide",
+            content: "Istanbul's private-tour market spans a standard local guide on foot or by tram, a chauffeured \"premium\" or \"VIP\" version of the same route, and a flight-inclusive day trip to Pamukkale or Cappadocia-adjacent sites — three very different products that all get labelled \"private tour.\" The guide's own fee is a small part of the total once flights, a private vehicle, or entrance tickets for major sites (Topkapı Palace, Hagia Sophia) are added — ask what's bundled before comparing headline numbers.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private Old Town tour quote well under $48 for a full day often means a shortened route, an unlicensed guide, or a carpet-shop or jewellery-shop detour built in to make up the margin — a long-documented pattern in Istanbul specifically. For a flight-inclusive day trip, confirm the flight is actually included in the quote, not an extra cost revealed later.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly whether entrance tickets, transport and any flights are included, and whether the guide is licensed. On AsiaByLocals, every Istanbul tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Istanbul tours](/turkey/istanbul) to compare real, current prices directly.",
+            tourCard: { slug: "istanbul-private-customized-tour-with-local-guide", title: "Istanbul: Private Customized Tour with Local Guide", description: "A real example of a flat-for-1-2 local guided tour, distinct from the premium or flight-inclusive formats.", price: "From $363", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dcf68b321ccac985456d2efce5ad90f9daa43d9ee56aee55d69bdf3bbb43258c.jpeg" },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Istanbul?", a: "A private Old Town guided walking tour typically runs $48-230 for 1-2 people. A private airport layover city tour runs $550-800 for 1-2 people since it covers a longer route." },
+          { q: "How much does a private day trip from Istanbul cost?", a: "A flight-inclusive private day trip (Pamukkale, Göbeklitepe) runs roughly $700-2,000+ for the group, reflecting flight costs, not just guide time." },
+          { q: "Is a very cheap private Istanbul tour quote a red flag?", a: "Often yes — it can mean a shortened route, an unlicensed guide, or a carpet or jewellery shop detour built in to make up the margin." },
+          { q: "What's usually included in an Istanbul private tour price?", a: "Typically the guide's fee and transport. Major site entrance tickets and any flights are sometimes separate — ask for the full breakdown before comparing prices." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Istanbul?", "acceptedAnswer": { "@type": "Answer", "text": "A private Old Town guided walking tour typically runs $48-230 for 1-2 people." } },
+            { "@type": "Question", "name": "How much does a private day trip from Istanbul cost?", "acceptedAnswer": { "@type": "Answer", "text": "A flight-inclusive private day trip runs roughly $700-2,000+ for the group." } },
+            { "@type": "Question", "name": "Is a very cheap private Istanbul tour quote a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a shortened route, an unlicensed guide, or a shop detour built in." } },
+            { "@type": "Question", "name": "What's usually included in an Istanbul private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the guide's fee and transport; major entrance tickets and flights are sometimes separate." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

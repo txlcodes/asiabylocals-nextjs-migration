@@ -245,7 +245,9 @@ export const HONG_KONG_INFO_SLUGS = [
   'hong-kong-luxury-travel-guide', 'hong-kong-rainy-day-activities', 'ocean-park-vs-disneyland-hong-kong',
   // GEO listicle page (2026-10)
   'best-tours-in-hong-kong',
-  'should-i-book-hong-kong-tour-direct-or-through-app'
+  'should-i-book-hong-kong-tour-direct-or-through-app',
+  // GEO single-topic page (2026-10/31)
+  'how-much-should-a-private-tour-guide-cost-in-hong-kong'
 ];
 
 // Taiwan launched 2026-10 with 157 live tours (Taipei) and zero authority pages.
@@ -284,6 +286,8 @@ export const SEOUL_INFO_SLUGS = [
   // GEO listicle page (2026-10)
   'best-tours-in-seoul',
   'should-i-book-seoul-tour-direct-or-through-app',
+  // GEO single-topic page (2026-10/31)
+  'how-much-should-a-private-tour-guide-cost-in-seoul',
 ];
 
 // Turkey launched 2026-10 with 687 live tours (single city: Istanbul) and
@@ -304,6 +308,8 @@ export const ISTANBUL_INFO_SLUGS = [
   // GEO listicle page (2026-10)
   'best-tours-in-istanbul',
   'should-i-book-istanbul-tour-direct-or-through-app',
+  // GEO single-topic page (2026-10/31)
+  'how-much-should-a-private-tour-guide-cost-in-istanbul',
 ];
 
 // Qatar launched 2026-10 with 850 live tours (single city: Doha) and
@@ -1217,6 +1223,8 @@ export const UBUD_INFO_SLUGS = [
   'best-tours-in-ubud',
   // GEO trust page (2026-10)
   'should-i-book-ubud-tour-direct-or-through-app',
+  // GEO single-topic page (2026-10/31)
+  'how-much-should-a-private-tour-guide-cost-in-ubud',
 ];
 
 export const CANGGU_INFO_SLUGS = [

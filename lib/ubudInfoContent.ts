@@ -1696,6 +1696,51 @@ export function getUbudInfoContent(slug: string): CityInfoData | null {
         }
       };
 
+    // GEO single-topic page (2026-10/31)
+    case "how-much-should-a-private-tour-guide-cost-in-ubud":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Ubud?",
+        seoTitle: "Ubud/Bali Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private driver or guide around Ubud and Bali in 2026, so you know what's fair before you book.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **6-hour private car charter with an English-speaking driver** around Ubud typically runs a flat **$53 regardless of group size** up to the car's capacity — this is the single most common Bali pricing style. A **guided private day trip** (temples, waterfalls, rice terraces) usually starts around **$60-90 for 1-2 people**, stepping up by roughly $25-40 per added traveller. A specialty private experience (diving, a Balinese ceremony with dinner) runs higher and often prices per person from the start, since real per-head costs (dive gear, offerings, a second guide) apply.",
+            tourCard: { slug: "private-car-charter-with-english-speaking-driver-in-ubud", title: "6-Hour Car Charter with English-Speaking Driver", description: "A real example of flat pricing regardless of group size, up to the car's capacity.", price: "From $53", duration: "6 hours", image: IMG },
+          },
+          {
+            title: "Driver-Only vs. Driver-Plus-Guide",
+            content: "Most Bali \"private tour\" listings are actually a **driver with a car**, who takes you between sights but doesn't explain them in depth — that's the flat, cheaper pricing above. A trip billed as a guided tour, with someone who genuinely narrates temple history or leads a trek, costs more because it's a different skill. If the itinerary matters to you (which temples, which route, dress-code help), ask directly whether you're booking a driver or a guide.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private day-trip quote well under $50-60 for a full day often means a shorter route, a driver with limited English, or a commission-shop stop (a silver or batik workshop with a kickback) built into the schedule — a known pattern in Bali specifically. Ask for the exact stop list before assuming a cheap quote is a bargain.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly whether you're getting a driver or a guide, what stops are included, and whether the quote is flat or per person. On AsiaByLocals, every Ubud/Bali tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Ubud tours](/indonesia/ubud) to compare real, current prices directly.",
+            tourCard: { slug: "bali-private-tour-gate-of-heaven-tirta-gangga-and-besakih-ubud", title: "Bali Private Tour: Gate of Heaven, Tirta Gangga & Besakih", description: "A real example of a guided private day trip that steps up per added traveller.", price: "From $147", duration: "Full day", image: IMG },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private driver cost in Ubud/Bali?", a: "A 6-hour private car charter with an English-speaking driver typically runs a flat $53 regardless of group size. A guided private day trip usually starts around $60-90 for 1-2 people, stepping up per added traveller." },
+          { q: "Is a private driver the same as a private guide in Bali?", a: "No — a driver takes you between sights without explaining them in depth, while a guide narrates and leads. A guided tour costs more because it's a different skill." },
+          { q: "Is a very cheap private tour quote in Bali a red flag?", a: "Often yes — it can mean a shorter route, limited English, or a commission-shop stop built into the schedule." },
+          { q: "What's usually included in a Bali private tour price?", a: "Typically the driver or guide's fee and the vehicle. Entrance fees and meals are usually listed separately — ask for the full breakdown before comparing prices." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private driver cost in Ubud/Bali?", "acceptedAnswer": { "@type": "Answer", "text": "A 6-hour private car charter typically runs a flat $53 regardless of group size. A guided private day trip usually starts around $60-90 for 1-2 people." } },
+            { "@type": "Question", "name": "Is a private driver the same as a private guide in Bali?", "acceptedAnswer": { "@type": "Answer", "text": "No — a driver takes you between sights without explaining them, while a guide narrates and leads and costs more." } },
+            { "@type": "Question", "name": "Is a very cheap private tour quote in Bali a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a shorter route or a commission-shop stop built into the schedule." } },
+            { "@type": "Question", "name": "What's usually included in a Bali private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the driver or guide's fee and the vehicle; entrance fees and meals are usually separate." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }
