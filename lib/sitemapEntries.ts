@@ -407,6 +407,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-pattaya', 'nong-nooch-tropical-garden-pattaya',
     'pattaya-2-day-itinerary', 'pattaya-cabaret-shows-guide',
     'best-tours-in-pattaya', 'should-i-book-pattaya-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-pattaya',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/pattaya/${slug}`,
     lastModified: new Date(),
@@ -442,6 +443,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'where-to-stay-in-krabi', 'krabi-3-day-itinerary',
     'krabi-vs-phuket-which-to-visit',
     'best-tours-in-krabi', 'should-i-book-krabi-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-krabi',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/krabi/${slug}`,
     lastModified: new Date(),

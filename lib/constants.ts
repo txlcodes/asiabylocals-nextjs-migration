@@ -411,7 +411,9 @@ export const PATTAYA_INFO_SLUGS = [
   'pattaya-2-day-itinerary', 'pattaya-cabaret-shows-guide',
   // GEO listicle pages (2026-10)
   'best-tours-in-pattaya',
-  'should-i-book-pattaya-tour-direct-or-through-app'
+  'should-i-book-pattaya-tour-direct-or-through-app',
+  // GEO single-topic page (2026-10/31)
+  'how-much-should-a-private-tour-guide-cost-in-pattaya'
 ];
 // Cambodia. isInfoSlug() gates the route, so a page missing from here 404s
 // however good the content is.
@@ -477,7 +479,9 @@ export const KRABI_INFO_SLUGS = [
   'krabi-vs-phuket-which-to-visit',
   // GEO listicle pages (2026-10)
   'best-tours-in-krabi',
-  'should-i-book-krabi-tour-direct-or-through-app'
+  'should-i-book-krabi-tour-direct-or-through-app',
+  // GEO single-topic page (2026-10/31)
+  'how-much-should-a-private-tour-guide-cost-in-krabi'
 ];
 // Re-add a slug here ONLY once its page exists in lib/tokyoInfoContent.ts.
 // Registering a slug without content ships a live, indexable page that renders

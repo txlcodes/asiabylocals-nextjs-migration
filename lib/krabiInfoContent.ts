@@ -534,6 +534,51 @@ export function getKrabiInfoContent(slug: string): CityInfoData | null {
                 }
             };
 
+        // GEO single-topic page (2026-10/31)
+        case "how-much-should-a-private-tour-guide-cost-in-krabi":
+            return {
+                title: "How Much Should a Private Tour Guide Cost in Krabi?",
+                seoTitle: "Krabi Private Guide Prices 2026 — What's Reasonable",
+                description: "Real price ranges for a private boat or guide in Krabi in 2026, by trip length and type, so you know what's fair before you book.",
+                heroImage: IMG.hongIsland,
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Krabi's \"private\" pricing is almost always about the **boat**, not a walking guide. A private longtail charter to Hong Island or the 4-island circuit for a small group typically runs **$210-215 total** for a half or full day — a flat rate for the boat and boatman, not a per-head fare. A private full-day speedboat charter to Phi Phi runs considerably more, **$500+ for the boat**, versus roughly $115-130 per person on the same route's shared group departure. A private inland trip (Khao Sok's Cheow Lan Lake, cave and kayak) runs around **$211 for the group** for a half day.",
+                        tourCard: { slug: "krabi-private-longtail-charter-hong-island", title: "Private Luxury Longtail Charter to Krabi's Best Islands", description: "A real example of flat boat-charter pricing, not a per-person fare.", price: "From $212", duration: "8 hours", rating: "4.8", reviews: "8", image: IMG.hongIsland },
+                    },
+                    {
+                        title: "Why the Pricing Style Varies",
+                        content: "Chartering the whole boat (a private trip) means one flat total covers the boat and crew whether 1 person or a small group is aboard, up to the boat's own capacity. A **shared group boat** is priced per seat and is far cheaper per person, but runs on the operator's fixed schedule and stops. The two are genuinely different products — compare the exact option (private charter vs. shared seat), not a headline number.",
+                    },
+                    {
+                        title: "Red Flags on Price",
+                        content: "A \"private\" boat quote that's close to the shared group per-person rate usually isn't actually a private charter — ask directly whether other travellers will be aboard. For inland trips, a price well under the ranges above often means fewer stops or a shorter route than advertised, not a genuine bargain.",
+                    },
+                    {
+                        title: "How to Get a Fair Price",
+                        content: "Ask the operator directly whether the quote is a full charter or a shared seat, and what the boat's maximum capacity is for your group size. On AsiaByLocals, every Krabi tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Krabi tours](/thailand/krabi) to compare real, current prices directly.",
+                        tourCard: { slug: "khao-sok-private-boat-cheow-lan-lake-cave-and-kayak-in-krabi", title: "Khao Sok: Private Boat, Cheow Lan Lake, Cave and Kayak", description: "A real example of flat group pricing for a private inland boat trip.", price: "From $211", duration: "4 hours", rating: "4.8", reviews: "8", image: IMG.kayak },
+                    },
+                ],
+                faqs: [
+                    { q: "How much does a private boat charter cost in Krabi?", a: "A private longtail charter to Hong Island or the 4-island circuit typically runs $210-215 total for the boat. A private full-day speedboat charter to Phi Phi runs $500+ for the boat." },
+                    { q: "Is a private boat cheaper than a shared group tour in Krabi?", a: "Per person, no — a shared group boat to Phi Phi runs roughly $115-130 per person, far less than chartering the whole boat privately. Private pricing buys control, not a discount." },
+                    { q: "How do I know if a Krabi boat quote is really private?", a: "Ask directly whether other travellers will be aboard. A \"private\" quote close to the shared group per-person rate usually isn't an actual charter." },
+                    { q: "What's usually included in a Krabi private boat price?", a: "Typically the boat, crew and fuel. Snorkelling gear, lunch and national park fees are sometimes separate — ask for the full breakdown before comparing prices." },
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "How much does a private boat charter cost in Krabi?", "acceptedAnswer": { "@type": "Answer", "text": "A private longtail charter to Hong Island or the 4-island circuit typically runs $210-215 total for the boat." } },
+                        { "@type": "Question", "name": "Is a private boat cheaper than a shared group tour in Krabi?", "acceptedAnswer": { "@type": "Answer", "text": "Per person, no — a shared group boat to Phi Phi runs roughly $115-130 per person." } },
+                        { "@type": "Question", "name": "How do I know if a Krabi boat quote is really private?", "acceptedAnswer": { "@type": "Answer", "text": "Ask directly whether other travellers will be aboard." } },
+                        { "@type": "Question", "name": "What's usually included in a Krabi private boat price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the boat, crew and fuel; gear, lunch and park fees are sometimes separate." } },
+                    ],
+                },
+            };
+
         default:
             return null;
     }

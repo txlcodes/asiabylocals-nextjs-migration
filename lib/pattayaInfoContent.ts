@@ -597,6 +597,51 @@ export function getPattayaInfoContent(slug: string): CityInfoData | null {
                 }
             };
 
+        // GEO single-topic page (2026-10/31)
+        case "how-much-should-a-private-tour-guide-cost-in-pattaya":
+            return {
+                title: "How Much Should a Private Tour Guide Cost in Pattaya?",
+                seoTitle: "Pattaya Private Guide Prices 2026 — What's Reasonable",
+                description: "Real price ranges for a private guide or car tour in Pattaya in 2026, by tour length and type, so you know what's fair before you book.",
+                heroImage: IMG.bigBuddha,
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "A **private car tour in Pattaya** — Sanctuary of Truth, Khao Chi Chan and a floating market combined is a real example — typically runs **$128-183 flat for 1-2 people**, stepping up to roughly $190-340 once a third or fourth traveller joins, since the car and driver stay fixed but a bigger vehicle or extra ticket cost kicks in past 2 people. A shorter 4-hour private-car city tour runs around **$78-109 flat for 1-2 people**. Private boat trips to Koh Larn or beyond price very differently — a full-day private speedboat charter runs **$700+ for the boat**, versus ~$116 per person on the same operator's shared group departure.",
+                        tourCard: { slug: "pattaya-highlights-private-half-day-tour-by-local-operator", title: "Pattaya Highlights: Private Half-Day Tour by Local Operator", description: "A real example of flat 1-2-person pricing that steps up for larger groups.", price: "From $128", duration: "6 hours", rating: "4.8", reviews: "8", image: IMG.bigBuddha },
+                    },
+                    {
+                        title: "Why the Pricing Style Varies",
+                        content: "Most Pattaya private **car** tours price flat for 1-2 people (since one car covers a couple at no extra cost) and then step up per extra traveller past that, once a bigger vehicle or more entrance tickets are needed. Private **boats** work completely differently: chartering the whole boat (for a small group, at a cost in the hundreds) is a different product from a seat on a shared group boat (which is priced per person and far cheaper) — compare the exact option you're being quoted, not just a headline number.",
+                    },
+                    {
+                        title: "Red Flags on Price",
+                        content: "A private car-tour quote well under the ranges above for a multi-stop day (Sanctuary of Truth plus a market plus a garden) usually means fewer stops than advertised, a shared rather than private vehicle, or a mandatory shopping-commission detour built into the day — a known pattern in Pattaya specifically, not unique to any platform. For boats, make sure \"private\" actually means a chartered vessel and not a shared departure re-labelled.",
+                    },
+                    {
+                        title: "How to Get a Fair Price",
+                        content: "Ask the operator directly what's included — which stops, entrance tickets, lunch — and whether the boat option is a full charter or a shared seat. On AsiaByLocals, every Pattaya tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Pattaya tours](/thailand/pattaya) to compare real, current prices directly.",
+                        tourCard: { slug: "pattaya-city-private-tour", title: "Private Pattaya Sightseeing Tour from City or Laem Chabang Port", description: "A real example of a short private car tour with flat 1-2-person pricing.", price: "From $78", duration: "4 hours", rating: "4.8", reviews: "7", image: IMG.bigBuddha },
+                    },
+                ],
+                faqs: [
+                    { q: "How much does a private tour guide cost in Pattaya?", a: "A multi-stop private car tour typically runs $128-183 flat for 1-2 people, stepping up to $190-340 for 3-4. A shorter 4-hour private-car tour runs around $78-109 flat for 1-2 people." },
+                    { q: "How much is a private boat charter in Pattaya?", a: "A full-day private speedboat charter can run $700+ for the boat, versus around $116 per person on the same operator's shared group departure — a very different product." },
+                    { q: "Is a very cheap private tour quote in Pattaya a red flag?", a: "Often yes — it can mean fewer stops than advertised, a shared vehicle marketed as private, or a mandatory shopping stop built in to make up the margin." },
+                    { q: "What's usually included in a Pattaya private tour price?", a: "Typically the driver or guide's fee and a private vehicle. Entrance fees and meals are usually listed separately — ask for the full breakdown before comparing prices." },
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "How much does a private tour guide cost in Pattaya?", "acceptedAnswer": { "@type": "Answer", "text": "A multi-stop private car tour typically runs $128-183 flat for 1-2 people, stepping up to $190-340 for 3-4." } },
+                        { "@type": "Question", "name": "How much is a private boat charter in Pattaya?", "acceptedAnswer": { "@type": "Answer", "text": "A full-day private speedboat charter can run $700+ for the boat, versus around $116 per person on a shared group departure." } },
+                        { "@type": "Question", "name": "Is a very cheap private tour quote in Pattaya a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean fewer stops than advertised, a shared vehicle, or a mandatory shopping stop." } },
+                        { "@type": "Question", "name": "What's usually included in a Pattaya private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the driver or guide's fee and a private vehicle; entrance fees and meals are usually separate." } },
+                    ],
+                },
+            };
+
         default:
             return null;
     }

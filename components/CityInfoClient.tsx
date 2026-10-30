@@ -736,6 +736,7 @@ const PATTAYA_SIDEBAR = [
     { name: '2-Day Itinerary', slug: 'pattaya-2-day-itinerary' },
     { name: 'Cabaret Shows', slug: 'pattaya-cabaret-shows-guide' },
     { name: 'Best Tours in Pattaya', slug: 'best-tours-in-pattaya' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-pattaya' },
 ];
 
 const PHNOM_PENH_SIDEBAR = [
@@ -798,6 +799,7 @@ const KRABI_SIDEBAR = [
     { name: '3-Day Itinerary', slug: 'krabi-3-day-itinerary' },
     { name: 'Krabi vs Phuket', slug: 'krabi-vs-phuket-which-to-visit' },
     { name: 'Best Tours in Krabi', slug: 'best-tours-in-krabi' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-krabi' },
 ];
 
 /** "Sri Lanka" -> "sri-lanka". toLowerCase() alone leaves the space in the URL. */
