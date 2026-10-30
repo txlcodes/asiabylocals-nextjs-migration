@@ -876,7 +876,7 @@ const PAGES: Record<string, CityInfoData> = {
       {
         "title": "How to protect your connection",
         "icon": "shield",
-        "content": "- Check that both flights are on **one ticket**, so the airline looks after you if the return is late.\n- Keep two hours spare at the end, not one.\n- Tell the operator your flight time so they can pick a safe return.\n\nSee also [Delhi to Agra](/india/agra/delhi-to-agra) and [same-day Agra tour from Delhi](/india/agra/same-day-agra-tour-from-delhi)."
+        "content": "- Book a **separate** flight for the return if the airline does not protect it.\n- Keep two hours spare at the end, not one.\n- Tell the operator your flight time so they can pick a safe return.\n\nSee also [Delhi to Agra](/india/agra/delhi-to-agra) and [same-day Agra tour from Delhi](/india/agra/same-day-agra-tour-from-delhi)."
       }
     ],
     "faqs": [
@@ -1894,6 +1894,1994 @@ const PAGES: Record<string, CityInfoData> = {
               "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "Tell us and we will suggest a replacement date or option."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-taj-mahal-tour-from-jaipur": {
+    "title": "Can You Do the Taj Mahal as a Day Trip from Jaipur? The Best Tours",
+    "seoTitle": "Best Taj Mahal Tour from Jaipur 2026: Day Trip?",
+    "description": "Jaipur to the Taj Mahal and back is a very long day. What it really involves, when it works, and four real tours from Jaipur.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/full-day-agra-trip-from-jaipur-by-car-with/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "car",
+        "content": "It can be done, but be honest with yourself: Jaipur to Agra is about **240 km, four to five hours each way**, so a same-day return is roughly **15 hours** with the Taj in the middle. It works for people who are short on days and fine with a very early start. If you can spare a night, it is much kinder. And if you are heading Jaipur to Delhi anyway, the best plan is to go **Jaipur to Agra to Delhi** and end the day there. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Full-day trip by car with a guide",
+        "icon": "car",
+        "content": "The standard Jaipur day trip. Leave early, expect a late return.",
+        "tourCard": {
+          "slug": "full-day-agra-trip-from-jaipur-by-car-with",
+          "title": "Full day Agra trip from Jaipur by car with guide.",
+          "description": "Full day Agra trip from Jaipur by car with a guide.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/full-day-agra-trip-from-jaipur-by-car-with/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Taj Mahal, Agra Fort and Baby Taj by car",
+        "icon": "landmark",
+        "content": "A shorter, tighter sightseeing set, for those who want the three essentials only.",
+        "tourCard": {
+          "slug": "from-jaipur-taj-mahal-agra-fort-baby-taj-day",
+          "title": "From Jaipur: Taj Mahal, Agra Fort, Baby Taj Day Trip by Car",
+          "description": "Taj Mahal, Agra Fort and Baby Taj day trip by car from Jaipur.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-jaipur-taj-mahal-agra-fort-baby-taj-day/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Private, with a 5-star lunch",
+        "icon": "utensils",
+        "content": "A private day with a proper lunch built in, which matters on a 12-hour day.",
+        "tourCard": {
+          "slug": "from-jaipur-private-taj-mahal-agra-day-trip-with",
+          "title": "From Jaipur: Private Taj Mahal & Agra Day Trip with 5* Lunch",
+          "description": "Private Taj Mahal and Agra day trip from Jaipur with 5-star lunch.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-jaipur-private-taj-mahal-agra-day-trip-with/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Day tour with an optional transfer",
+        "icon": "route",
+        "content": "Flexible: do the Taj, then continue to Delhi instead of coming back.",
+        "tourCard": {
+          "slug": "from-jaipurdelhiagra-taj-mahal-day-touroptional-tr",
+          "title": "From Jaipur/Delhi/Agra: Taj Mahal Day Tour+Optional Transfer",
+          "description": "Taj Mahal day tour from Jaipur, Delhi or Agra with optional transfer.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-jaipurdelhiagra-taj-mahal-day-touroptional-tr/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Day trip or one-way? A quick guide",
+        "icon": "scale",
+        "content": "- **Returning to Jaipur the same night:** pick the full-day car tour and leave by 5 am.\n- **Going on to Delhi:** use the optional transfer and end in Delhi.\n- **Have a spare day:** see [Agra to Jaipur](/india/agra/agra-to-jaipur) and plan Fatehpur Sikri on the way.\n\nThe Taj is closed on Fridays. See [Taj Mahal opening times](/india/agra/taj-mahal-opening-time)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How far is Agra from Jaipur?",
+        "a": "About 240 km, four to five hours by road each way."
+      },
+      {
+        "q": "Is a same-day Jaipur to Taj Mahal trip too much?",
+        "a": "It is long, around 15 hours in all. It works if you accept an early start and a late return, or if you end the day in Delhi."
+      },
+      {
+        "q": "Can I stop at Fatehpur Sikri on the way?",
+        "a": "Yes. It is on the road between Agra and Jaipur."
+      },
+      {
+        "q": "Which day should I avoid?",
+        "a": "Friday, as the Taj Mahal is closed to regular visitors."
+      },
+      {
+        "q": "Can I be dropped in Delhi after the Taj?",
+        "a": "Yes, with the optional transfer on the day-tour listing. Check the tour page for details."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How far is Agra from Jaipur?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "About 240 km, four to five hours by road each way."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is a same-day Jaipur to Taj Mahal trip too much?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is long, around 15 hours in all. It works if you accept an early start and a late return, or if you end the day in Delhi."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I stop at Fatehpur Sikri on the way?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. It is on the road between Agra and Jaipur."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which day should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Friday, as the Taj Mahal is closed to regular visitors."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I be dropped in Delhi after the Taj?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, with the optional transfer on the day-tour listing. Check the tour page for details."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-golden-triangle-tour-3-days": {
+    "title": "Is 3 Days Enough for the Golden Triangle? The Best 3-Day Tours from Delhi",
+    "seoTitle": "Best 3-Day Golden Triangle Tour from Delhi 2026",
+    "description": "Delhi, Agra and Jaipur in three days: whether it is enough, what you will skip, and four real 3-day Golden Triangle tours.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/agra-express-evening-tour/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "route",
+        "content": "Three days is enough to **see the headline sights**, not to enjoy them. The loop is roughly 750 km, and Delhi to Agra to Jaipur to Delhi involves about 13 hours of driving across the three days. If you only have three days, a private car with a driver-guide keeps it painless. If you have four or five, take them. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "3 days, 2 nights with hotel, express format",
+        "icon": "clock",
+        "content": "A tight, well-organised version with hotels included.",
+        "tourCard": {
+          "slug": "agra-express-evening-tour",
+          "title": "Golden Triangle 3 Days / 2 Nights Express Tour With Hotel",
+          "description": "Golden Triangle 3 days, 2 nights express tour with hotel.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-express-evening-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "3 days with a private car and guide",
+        "icon": "car",
+        "content": "The private-car version for those who want their own pace.",
+        "tourCard": {
+          "slug": "golden-triangle-tour-3-days-2-nights-with-private",
+          "title": "Golden Triangle Tour 3 Days 2 Nights with Private Car &Guide",
+          "description": "Golden Triangle 3 days, 2 nights with private car and guide.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/golden-triangle-tour-3-days-2-nights-with-private/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Delhi, Agra and Jaipur with options",
+        "icon": "settings-2",
+        "content": "A 3-day tour with options, so you can adjust the stops.",
+        "tourCard": {
+          "slug": "3-days-delhi-agra-jaipur-tour-with-options",
+          "title": "3 Days Delhi, Agra & Jaipur Tour with Options",
+          "description": "3 days Delhi, Agra and Jaipur tour with options.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/3-days-delhi-agra-jaipur-tour-with-options/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Agra, Fatehpur Sikri and Jaipur",
+        "icon": "landmark",
+        "content": "Adds Fatehpur Sikri on the Agra to Jaipur leg, which is the best stop on the route.",
+        "tourCard": {
+          "slug": "from-delhi-3-day-trip-to-agra-fatehpur-sikri",
+          "title": "From Delhi: 3-Day Trip to Agra, Fatehpur Sikri and Jaipur",
+          "description": "3-day trip to Agra, Fatehpur Sikri and Jaipur from Delhi.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-3-day-trip-to-agra-fatehpur-sikri/img0/1600.webp"
+        }
+      },
+      {
+        "title": "What three days costs you",
+        "icon": "info",
+        "content": "- You will have **one full day per city at most**.\n- Old Delhi and the Delhi museums are the usual sacrifice.\n- You will spend a lot of time in the car; keep one rest stop for lunch.\n\nSee [Golden Triangle tour India](/india/agra/golden-triangle-tour-india), [Delhi to Agra](/india/agra/delhi-to-agra) and [Agra to Jaipur](/india/agra/agra-to-jaipur). The best season is October to March."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How many days do you need for the Golden Triangle?",
+        "a": "Four to five days is comfortable. Three is possible if you accept a fast pace."
+      },
+      {
+        "q": "How far is the Golden Triangle loop?",
+        "a": "Around 750 km in total."
+      },
+      {
+        "q": "Is it better by car or train?",
+        "a": "Private car for flexibility; train between Delhi and Agra saves time, but the Agra to Jaipur leg is better by road."
+      },
+      {
+        "q": "When should I go?",
+        "a": "October to March. April to June is very hot."
+      },
+      {
+        "q": "Are hotels included?",
+        "a": "Depends on the tour. The tour page says; ask us on WhatsApp if unclear."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How many days do you need for the Golden Triangle?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Four to five days is comfortable. Three is possible if you accept a fast pace."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How far is the Golden Triangle loop?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Around 750 km in total."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it better by car or train?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Private car for flexibility; train between Delhi and Agra saves time, but the Agra to Jaipur leg is better by road."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "When should I go?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "October to March. April to June is very hot."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are hotels included?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the tour. The tour page says; ask us on WhatsApp if unclear."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-luxury-golden-triangle-tour": {
+    "title": "What Is the Best Luxury Golden Triangle Tour? 4 Private Options",
+    "seoTitle": "Best Luxury Golden Triangle Tour India 2026",
+    "description": "Private, luxury Golden Triangle tours from Delhi: what luxury actually means on this route, and four real tours from 4 to 6 days.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/indias-private-luxury-golden-triangle-tour-4-day/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "star",
+        "content": "On the Golden Triangle, luxury means three things: **a private car and driver-guide** for the whole trip, **good hotels** that are well placed for the monuments, and **no rushed days**. The best luxury tours are not the longest; they are the ones that give you four or five days instead of three. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "4 days, private, luxury",
+        "icon": "star",
+        "content": "A four-day private luxury loop from Delhi.",
+        "tourCard": {
+          "slug": "indias-private-luxury-golden-triangle-tour-4-day",
+          "title": "India’s Private Luxury Golden Triangle Tour 4 Day from Delhi",
+          "description": "India's private luxury Golden Triangle tour, 4 days from Delhi.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/indias-private-luxury-golden-triangle-tour-4-day/img0/1600.webp"
+        }
+      },
+      {
+        "title": "3 nights, 4 days, exclusive",
+        "icon": "crown",
+        "content": "An exclusive-format four-day version.",
+        "tourCard": {
+          "slug": "exclusive-golden-triangle-tour-03-nights-04-days",
+          "title": "Exclusive, Golden Triangle Tour (03 Nights / 04 Days)",
+          "description": "Exclusive Golden Triangle tour, 3 nights and 4 days.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/exclusive-golden-triangle-tour-03-nights-04-days/img0/1600.webp"
+        }
+      },
+      {
+        "title": "5 days, private luxury",
+        "icon": "sparkles",
+        "content": "A relaxed five days, with time at each city.",
+        "tourCard": {
+          "slug": "5-days-private-luxury-golden-triangle-tour-agra",
+          "title": "5-Days Private Luxury Golden Triangle Tour Agra Jaipur Delhi",
+          "description": "5-day private luxury Golden Triangle tour: Agra, Jaipur, Delhi.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/5-days-private-luxury-golden-triangle-tour-agra/img0/1600.webp"
+        }
+      },
+      {
+        "title": "6 days with a private guide",
+        "icon": "user",
+        "content": "The longest of the four, for those who want to add extras.",
+        "tourCard": {
+          "slug": "india-luxury-golden-triangle-tour-with-private",
+          "title": "India: Luxury Golden Triangle Tour with Private Guide",
+          "description": "Luxury Golden Triangle tour with private guide, 6 days.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/india-luxury-golden-triangle-tour-with-private/img0/1600.webp"
+        }
+      },
+      {
+        "title": "What to check before booking luxury",
+        "icon": "shield",
+        "content": "- Which **hotels**, by name, and in which part of each city.\n- Whether the **guide stays with you** or changes city by city.\n- What the **car** is, and how many hours a day you will be driving.\n\nMore: [Golden Triangle tour India](/india/agra/golden-triangle-tour-india)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How many days is a luxury Golden Triangle tour?",
+        "a": "Typically four to six days."
+      },
+      {
+        "q": "Is a private driver included?",
+        "a": "Yes on these private tours; the tour page confirms."
+      },
+      {
+        "q": "Can I choose the hotels?",
+        "a": "Ask us on WhatsApp; some tours allow upgrades."
+      },
+      {
+        "q": "When is the best season?",
+        "a": "October to March."
+      },
+      {
+        "q": "Can I add Ranthambore?",
+        "a": "Yes; see our Golden Triangle with Ranthambore page."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How many days is a luxury Golden Triangle tour?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Typically four to six days."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is a private driver included?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes on these private tours; the tour page confirms."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I choose the hotels?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ask us on WhatsApp; some tours allow upgrades."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "When is the best season?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "October to March."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I add Ranthambore?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes; see our Golden Triangle with Ranthambore page."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-golden-triangle-tour-with-ranthambore-tiger-safari": {
+    "title": "Can You Add a Tiger Safari to the Golden Triangle? The Best Tours with Ranthambore",
+    "seoTitle": "Golden Triangle + Ranthambore Tiger Safari Tours 2026",
+    "description": "Adding Ranthambore to Delhi, Agra and Jaipur: how many days it needs, what to expect from a safari, and four real tours.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-golden-triangle-with-ranthambore-5-day/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "trees",
+        "content": "Yes, and it fits naturally: **Ranthambore is about 180 km from Jaipur**, so it adds roughly two days to the loop. A safari is never a guarantee of seeing a tiger, but Ranthambore is one of the better places in India to try. The park is closed during the monsoon, roughly July to September, so this is an October to June addition. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "5 days, Golden Triangle with Ranthambore",
+        "icon": "trees",
+        "content": "The classic five-day version.",
+        "tourCard": {
+          "slug": "from-delhi-golden-triangle-with-ranthambore-5-day",
+          "title": "From Delhi: Golden Triangle with Ranthambore 5-Day Tour",
+          "description": "Golden Triangle with Ranthambore, 5-day tour from Delhi.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-golden-triangle-with-ranthambore-5-day/img0/1600.webp"
+        }
+      },
+      {
+        "title": "5-day tiger safari, Delhi, Agra, Jaipur",
+        "icon": "map",
+        "content": "A guided five-day tour built around the safari.",
+        "tourCard": {
+          "slug": "from-delhi-5-day-tiger-safari-delhi-agra-jaipur",
+          "title": "From Delhi: 5-Day Tiger Safari Delhi Agra Jaipur guided tour",
+          "description": "5-day tiger safari Delhi, Agra and Jaipur guided tour.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-5-day-tiger-safari-delhi-agra-jaipur/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Agra, Ranthambore, Jaipur and Delhi, multi-day",
+        "icon": "route",
+        "content": "A flexible multi-day route starting from Agra.",
+        "tourCard": {
+          "slug": "agra-ranthambore-jaipur-delhi-multi-day-tour",
+          "title": "Agra: Ranthambore, Jaipur & Delhi Multi-Day Tour",
+          "description": "Agra, Ranthambore, Jaipur and Delhi multi-day tour.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-ranthambore-jaipur-delhi-multi-day-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "From Agra, 2 days and 1 night",
+        "icon": "moon",
+        "content": "A short add-on if you only want the safari.",
+        "tourCard": {
+          "slug": "from-agra-2-days-1-night-ranthambore-tiger-safari",
+          "title": "From Agra: 2 Days 1 Night Ranthambore Tiger Safari Tour",
+          "description": "From Agra: 2 days 1 night Ranthambore tiger safari.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-agra-2-days-1-night-ranthambore-tiger-safari/img0/1600.webp"
+        }
+      },
+      {
+        "title": "What to expect from a safari",
+        "icon": "info",
+        "content": "- You go out in a **jeep or canter** in the morning or afternoon.\n- Sightings are possible but never guaranteed; the more safaris you do, the better the odds.\n- Dress in neutral colours and carry layers; early mornings are cold in winter.\n\nSee our [Ranthambore from Agra guide](/india/agra/best-ranthambore-tiger-safari-from-agra) and [Golden Triangle tour](/india/agra/golden-triangle-tour-india)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How many days does Ranthambore add?",
+        "a": "About two days to the Golden Triangle."
+      },
+      {
+        "q": "Will I see a tiger?",
+        "a": "Possibly; it is never guaranteed. Doing more than one safari improves the odds."
+      },
+      {
+        "q": "When is the park closed?",
+        "a": "During the monsoon, roughly July to September."
+      },
+      {
+        "q": "Jeep or canter?",
+        "a": "A jeep is smaller and more flexible; a canter is a larger shared vehicle."
+      },
+      {
+        "q": "Can I go from Agra?",
+        "a": "Yes, there are 2-day tours from Agra."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How many days does Ranthambore add?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "About two days to the Golden Triangle."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Will I see a tiger?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Possibly; it is never guaranteed. Doing more than one safari improves the odds."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "When is the park closed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "During the monsoon, roughly July to September."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jeep or canter?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A jeep is smaller and more flexible; a canter is a larger shared vehicle."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I go from Agra?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, there are 2-day tours from Agra."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-ranthambore-tiger-safari-from-agra": {
+    "title": "How Do You Get to Ranthambore from Agra? The Best Tiger Safari Tours",
+    "seoTitle": "Ranthambore Tiger Safari from Agra 2026: Best Tours",
+    "description": "Getting to Ranthambore from Agra, how many days you need, and four real tours and transfers.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/from-agra-2-days-1-night-ranthambore-tiger-safari/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "trees",
+        "content": "Ranthambore is about **five hours by road** from Agra, so the easiest plan is **two days and one night**: drive out, do an afternoon safari, a second safari at dawn, then continue to Jaipur or back. Trains stop at nearby Sawai Madhopur, but the last stretch is best arranged with a driver. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "2 days, 1 night from Agra",
+        "icon": "moon",
+        "content": "The straightforward version.",
+        "tourCard": {
+          "slug": "from-agra-2-days-1-night-ranthambore-tiger-safari",
+          "title": "From Agra: 2 Days 1 Night Ranthambore Tiger Safari Tour",
+          "description": "From Agra: 2 days 1 night Ranthambore tiger safari.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-agra-2-days-1-night-ranthambore-tiger-safari/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Safari only, by jeep or canter",
+        "icon": "trees",
+        "content": "For those who already have transport to the park.",
+        "tourCard": {
+          "slug": "ranthambore-national-park-tiger-safari-by-jeep-or",
+          "title": "Ranthambore National Park: Tiger Safari by Jeep or Canter",
+          "description": "Ranthambore National Park tiger safari by jeep or canter.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/ranthambore-national-park-tiger-safari-by-jeep-or/img0/1600.webp"
+        }
+      },
+      {
+        "title": "3 days: Agra, Ranthambore and Sariska",
+        "icon": "map",
+        "content": "A longer tour with a second tiger reserve.",
+        "tourCard": {
+          "slug": "3-day-adventure-discover-agra-ranthambore-sariska",
+          "title": "3-Day Adventure: Discover Agra, Ranthambore & Sariska",
+          "description": "3-day adventure: Agra, Ranthambore and Sariska.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/3-day-adventure-discover-agra-ranthambore-sariska/img0/1600.webp"
+        }
+      },
+      {
+        "title": "One-way transfer to Ranthambore",
+        "icon": "car",
+        "content": "A one-way car transfer between Jaipur, Agra, Delhi and Ranthambore.",
+        "tourCard": {
+          "slug": "jaipuragradelhi-tofrom-ranthambore-one-way",
+          "title": "Jaipur/Agra/Delhi To/From Ranthambore One Way Transfer",
+          "description": "Jaipur, Agra or Delhi to and from Ranthambore one-way transfer.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/jaipuragradelhi-tofrom-ranthambore-one-way/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Planning notes",
+        "icon": "info",
+        "content": "- The park closes for the monsoon, roughly July to September.\n- Book safari zones early in peak months.\n- Combine with the [Golden Triangle](/india/agra/best-golden-triangle-tour-with-ranthambore-tiger-safari)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How far is Ranthambore from Agra?",
+        "a": "About 250 km, roughly five hours by road."
+      },
+      {
+        "q": "Can I go by train?",
+        "a": "Trains reach Sawai Madhopur nearby, but a car makes the last stretch easier."
+      },
+      {
+        "q": "How many safaris should I do?",
+        "a": "At least two; sightings are never guaranteed."
+      },
+      {
+        "q": "When is it closed?",
+        "a": "During the monsoon, roughly July to September."
+      },
+      {
+        "q": "Can I continue to Jaipur?",
+        "a": "Yes; Jaipur is about 180 km from the park."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How far is Ranthambore from Agra?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "About 250 km, roughly five hours by road."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I go by train?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Trains reach Sawai Madhopur nearby, but a car makes the last stretch easier."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How many safaris should I do?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "At least two; sightings are never guaranteed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "When is it closed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "During the monsoon, roughly July to September."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I continue to Jaipur?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes; Jaipur is about 180 km from the park."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-taj-mahal-instagram-photoshoot-tour": {
+    "title": "Can You Get a Professional Photoshoot at the Taj Mahal? The Best Instagram Tours",
+    "seoTitle": "Taj Mahal Instagram Photoshoot Tour 2026",
+    "description": "Taj Mahal tours that include a photographer: what you get, when to go, and five real options from Agra and Delhi.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/agra-taj-mahal-guided-tour-with-cinematic/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "camera",
+        "content": "Yes. Several tours pair a guide with a **professional photographer** who knows the angles, the light and the rules inside the complex. Go at **sunrise** for the fewest people. The famous bench in front of the Taj, the central pond and the archway frame are the classic shots, and a photographer will know when each is quiet. Drones are not allowed. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Cinematic Instagram shoot with a guided tour",
+        "icon": "camera",
+        "content": "A three-hour guided tour with a cinematic photo shoot.",
+        "tourCard": {
+          "slug": "agra-taj-mahal-guided-tour-with-cinematic",
+          "title": "Agra: Taj Mahal Guided Tour with Cinematic Instagram Shoot",
+          "description": "Taj Mahal guided tour with a cinematic Instagram shoot.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-taj-mahal-guided-tour-with-cinematic/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Guided tour with an Instagram photoshoot",
+        "icon": "camera",
+        "content": "A four-hour tour with the shoot included.",
+        "tourCard": {
+          "slug": "agra-taj-mahal-guided-tour-with-instagram",
+          "title": "Agra: Taj Mahal Guided Tour with Instagram Photoshoot",
+          "description": "Taj Mahal guided tour with an Instagram photoshoot.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-taj-mahal-guided-tour-with-instagram/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Expert photographer, Instagram focus",
+        "icon": "sparkles",
+        "content": "Led by a photographer, built around the shots.",
+        "tourCard": {
+          "slug": "taj-mahal-instagram-photography-tour-w-expert-phot",
+          "title": "Taj Mahal Instagram Photography Tour w/ Expert Photographer",
+          "description": "Taj Mahal Instagram photography tour with an expert photographer.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/taj-mahal-instagram-photography-tour-w-expert-phot/img0/1600.webp"
+        }
+      },
+      {
+        "title": "From Delhi at sunrise with a photographer",
+        "icon": "sun",
+        "content": "If you are staying in Delhi, this goes at sunrise.",
+        "tourCard": {
+          "slug": "delhi-taj-mahal-sunrise-tour-with-professional",
+          "title": "Delhi: Taj Mahal Sunrise Tour With Professional Photographer",
+          "description": "Delhi: Taj Mahal sunrise tour with a professional photographer.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/delhi-taj-mahal-sunrise-tour-with-professional/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Sunrise photoshoot experience",
+        "icon": "sun",
+        "content": "A sunrise shoot in Agra.",
+        "tourCard": {
+          "slug": "agra-professional-sunrise-tour",
+          "title": "Agra: Taj Mahal Sunrise Photoshoot Tour Experience with Professional Photographer",
+          "description": "Agra: Taj Mahal sunrise photoshoot tour experience.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-professional-sunrise-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Tips before you go",
+        "icon": "info",
+        "content": "- Wear light, plain colours; white and pastels can wash out in the marble glare.\n- Ask how many edited photos you receive and in how long.\n- Rules on equipment change; a local photographer knows the current ones.\n\nMore: [best Taj Mahal photography tour](/india/agra/best-taj-mahal-photography-tour) and [sunrise tours](/india/agra/best-taj-mahal-sunrise-tour)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Can I bring a drone to the Taj Mahal?",
+        "a": "No, drones are not allowed."
+      },
+      {
+        "q": "What is the best time for photos?",
+        "a": "Sunrise, for soft light and fewer people."
+      },
+      {
+        "q": "How many photos do I get?",
+        "a": "It varies per tour; ask before booking."
+      },
+      {
+        "q": "What should I wear?",
+        "a": "Plain light or pastel colours work well; avoid very busy patterns."
+      },
+      {
+        "q": "Is it good for couples?",
+        "a": "Yes; many couples book these for portraits."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Can I bring a drone to the Taj Mahal?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, drones are not allowed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the best time for photos?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sunrise, for soft light and fewer people."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How many photos do I get?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It varies per tour; ask before booking."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What should I wear?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Plain light or pastel colours work well; avoid very busy patterns."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it good for couples?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes; many couples book these for portraits."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-taj-mahal-tour-with-lunch": {
+    "title": "Which Taj Mahal Tours Include Lunch? The Best Ones with a Proper Meal",
+    "seoTitle": "Best Taj Mahal Tours with Lunch Included 2026",
+    "description": "Taj Mahal tours that include a sit-down lunch, why it matters on a long day, and four real options from Delhi and Agra.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/agra-taj-mahal-agra-fort-skip-the-line-tour/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "utensils",
+        "content": "On a 10 to 12 hour Taj day, lunch decides whether the afternoon is enjoyable. The best tours **include a sit-down meal**, often a buffet at a good Agra hotel, rather than a roadside stop. Check whether it is a set menu, whether it is vegetarian-friendly, and whether drinks are included. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Skip-the-line Taj and Fort with lunch",
+        "icon": "utensils",
+        "content": "A guided Taj and Agra Fort day, with lunch included.",
+        "tourCard": {
+          "slug": "agra-taj-mahal-agra-fort-skip-the-line-tour",
+          "title": "Agra: Taj Mahal & Agra Fort Skip-the-Line Tour with Lunch",
+          "description": "Taj Mahal and Agra Fort skip-the-line tour with lunch.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-taj-mahal-agra-fort-skip-the-line-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "From Delhi, 5-star Marriott lunch",
+        "icon": "star",
+        "content": "A day from Delhi with a hotel lunch.",
+        "tourCard": {
+          "slug": "from-delhi-taj-mahal-agra-tour-with-5-star",
+          "title": "From Delhi: Taj Mahal & Agra Tour with 5-Star Marriott Lunch",
+          "description": "Taj Mahal and Agra tour with a 5-star Marriott lunch.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-taj-mahal-agra-tour-with-5-star/img0/1600.webp"
+        }
+      },
+      {
+        "title": "From Delhi, all inclusive with lunch",
+        "icon": "car",
+        "content": "All-inclusive, lunch included.",
+        "tourCard": {
+          "slug": "from-delhi-all-inclusive-same-day-taj-mahal-tour",
+          "title": "From Delhi: All Inclusive Same Day Taj Mahal Tour with lunch",
+          "description": "All-inclusive same-day Taj Mahal tour with lunch.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-all-inclusive-same-day-taj-mahal-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Skip the line, all inclusive, 5-star lunch",
+        "icon": "crown",
+        "content": "A simple all-inclusive Agra option.",
+        "tourCard": {
+          "slug": "taj-mahal-tour-skip-the-line-all-inclusive-with",
+          "title": "Taj Mahal Tour - Skip the Line All Inclusive with 5* Lunch",
+          "description": "Taj Mahal tour, skip the line, all inclusive with 5-star lunch.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/taj-mahal-tour-skip-the-line-all-inclusive-with/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Questions to ask",
+        "icon": "list-checks",
+        "content": "- Is the lunch **vegetarian**, non-vegetarian or both?\n- Is it a **buffet** or a set menu?\n- Are drinks included?\n- Can the guide adjust the time if you are tired?\n\nSee [best full-day Agra tour](/india/agra/best-full-day-agra-tour)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Is lunch included in most Taj tours?",
+        "a": "No; it varies by listing. These four include it."
+      },
+      {
+        "q": "Are vegetarian meals available?",
+        "a": "Yes in most cases; tell us in advance."
+      },
+      {
+        "q": "Which hotel is the lunch at?",
+        "a": "It depends on the tour; the page or WhatsApp will tell you."
+      },
+      {
+        "q": "Is bottled water included?",
+        "a": "Often yes, but check the listing."
+      },
+      {
+        "q": "Can I request a different restaurant?",
+        "a": "Sometimes; ask before booking."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is lunch included in most Taj tours?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No; it varies by listing. These four include it."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are vegetarian meals available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes in most cases; tell us in advance."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which hotel is the lunch at?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on the tour; the page or WhatsApp will tell you."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is bottled water included?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Often yes, but check the listing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I request a different restaurant?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sometimes; ask before booking."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-taj-mahal-tour-with-hotel-pickup": {
+    "title": "Can I Get Picked Up from My Hotel in Agra for the Taj Mahal? The Best Tours",
+    "seoTitle": "Taj Mahal Tour with Hotel Pickup and Drop 2026",
+    "description": "Taj Mahal tours with hotel pickup and drop in Agra: why it matters, and four real options with a guide.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/taj-mahal-vip-tickets-with-complimentary-guide-pic/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "car",
+        "content": "Yes. Pickup and drop at your Agra hotel matters more than it sounds: petrol and diesel vehicles cannot go right up to the Taj, parking is far from the gates, and a driver who knows the drop-off point saves you a hot walk. Check that the **pickup time suits the slot** you want. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Taj Mahal VIP tickets with guide and pickup",
+        "icon": "ticket",
+        "content": "A short, simple visit with guide and transport.",
+        "tourCard": {
+          "slug": "taj-mahal-vip-tickets-with-complimentary-guide-pic",
+          "title": "Taj Mahal VIP Tickets with Complimentary Guide & Pickup-Drop",
+          "description": "Taj Mahal VIP tickets with a complimentary guide and pickup-drop.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/taj-mahal-vip-tickets-with-complimentary-guide-pic/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Sunset or morning view, with hotel pickup",
+        "icon": "sun",
+        "content": "Choose a morning or sunset visit.",
+        "tourCard": {
+          "slug": "taj-mahal-sunset-view-or-morning-view-tour-with",
+          "title": "Taj Mahal Sunset View or Morning View Tour with Hotel Pickup",
+          "description": "Taj Mahal sunset or morning tour with hotel pickup.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/taj-mahal-sunset-view-or-morning-view-tour-with/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Private 5-hour sightseeing with pickup",
+        "icon": "user",
+        "content": "A private half day around Agra.",
+        "tourCard": {
+          "slug": "agra-private-5-hour-sightseeing-tour-with-hotel",
+          "title": "Agra: Private 5-Hour Sightseeing Tour with Hotel Pickup",
+          "description": "Agra: private 5-hour sightseeing tour with hotel pickup.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-private-5-hour-sightseeing-tour-with-hotel/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Skip the line, Taj and Fort with pickup",
+        "icon": "zap",
+        "content": "The Taj and Agra Fort with pickup, skip the line.",
+        "tourCard": {
+          "slug": "taj-mahal-pick-guided-tour",
+          "title": "Agra: Skip-the-line Taj Mahal & Agra Fort Tour with Pick-Up",
+          "description": "Skip-the-line Taj Mahal and Agra Fort tour with pickup.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/taj-mahal-pick-guided-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Practical notes",
+        "icon": "info",
+        "content": "- Tell the operator your **hotel name and area**.\n- Confirm the pickup time the evening before.\n- If you stay far from the centre, add buffer time.\n\nSee [best hotel near Taj Mahal](/india/agra/best-hotel-near-taj-mahal)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Is hotel pickup free?",
+        "a": "Included on these listings; the tour page confirms."
+      },
+      {
+        "q": "Can I be picked up from the station?",
+        "a": "Often yes; message us with your train details."
+      },
+      {
+        "q": "What if my hotel is outside the city?",
+        "a": "Tell us in advance so the time is adjusted."
+      },
+      {
+        "q": "Is drop-off at the hotel included?",
+        "a": "Yes on these listings."
+      },
+      {
+        "q": "How early is the first pickup?",
+        "a": "It depends on the slot; sunrise pickups are early."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is hotel pickup free?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Included on these listings; the tour page confirms."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I be picked up from the station?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Often yes; message us with your train details."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What if my hotel is outside the city?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tell us in advance so the time is adjusted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is drop-off at the hotel included?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes on these listings."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How early is the first pickup?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on the slot; sunrise pickups are early."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "is-a-group-tour-to-the-taj-mahal-worth-it": {
+    "title": "Is a Group Tour to the Taj Mahal Worth It? When Shared Beats Private",
+    "seoTitle": "Taj Mahal Group Tour from Delhi: Worth It? 2026",
+    "description": "Shared group tours to the Taj Mahal: what you gain, what you lose, and three real group and small-group options from Delhi.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-taj-mahal-agra-fort-shared-group-tour/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "users",
+        "content": "A group tour is worth it if **price matters more than pace**. You share a vehicle and a guide, so it usually costs less per person, and the schedule is fixed. The trade-off is that you move with the group at the Taj, the busiest building in India, and you cannot linger or skip anything. If you are travelling alone and on a tight budget, group is a sensible choice. If you want photographs or have mobility needs, go private. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Shared group tour from Delhi, Taj and Agra Fort",
+        "icon": "users",
+        "content": "The standard shared day trip.",
+        "tourCard": {
+          "slug": "from-delhi-taj-mahal-agra-fort-shared-group-tour",
+          "title": "From Delhi: Taj Mahal & Agra Fort Shared Group Tour",
+          "description": "From Delhi: Taj Mahal and Agra Fort shared group tour.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-taj-mahal-agra-fort-shared-group-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Same-day group tour with transfers",
+        "icon": "car",
+        "content": "A group tour with transfers from your Delhi hotel.",
+        "tourCard": {
+          "slug": "from-delhi-same-day-group-tour-to-taj-mahal",
+          "title": "From Delhi: Same Day Group Tour to Taj Mahal with Transfers",
+          "description": "From Delhi: same day group tour to the Taj Mahal with transfers.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-same-day-group-tour-to-taj-mahal/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Step up: group tour with a hotel lunch",
+        "icon": "utensils",
+        "content": "A fuller day, including a hotel lunch.",
+        "tourCard": {
+          "slug": "from-delhi-taj-mahal-agra-tour-with-5-star",
+          "title": "From Delhi: Taj Mahal & Agra Tour with 5-Star Marriott Lunch",
+          "description": "Taj Mahal and Agra tour with a 5-star Marriott lunch.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-taj-mahal-agra-tour-with-5-star/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Group or private? Quick rules",
+        "icon": "scale",
+        "content": "- **Solo, budget, flexible:** group is fine.\n- **Couples or families:** private is worth the difference.\n- **Photography or sunrise:** go private; see [best private Taj tour](/india/agra/best-private-taj-mahal-tour).\n- **Older travellers:** private, so the pace can slow."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How big are the groups?",
+        "a": "It varies per tour; ask before you book."
+      },
+      {
+        "q": "Is a group tour cheaper than private?",
+        "a": "Usually per person, yes."
+      },
+      {
+        "q": "Do group tours include entry tickets?",
+        "a": "It varies; the tour page says."
+      },
+      {
+        "q": "Can I leave the group?",
+        "a": "Generally no; the schedule is fixed."
+      },
+      {
+        "q": "Is it safe for solo travellers?",
+        "a": "Yes, and it is a good way to meet people."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How big are the groups?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It varies per tour; ask before you book."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is a group tour cheaper than private?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Usually per person, yes."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do group tours include entry tickets?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It varies; the tour page says."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I leave the group?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Generally no; the schedule is fixed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it safe for solo travellers?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, and it is a good way to meet people."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-agra-fort-tour": {
+    "title": "Is a Guided Tour of Agra Fort Worth It? The Best Ones",
+    "seoTitle": "Best Agra Fort Tour 2026: Guided Options",
+    "description": "Whether Agra Fort deserves a guide of its own, what you will see, and four real tours: Fort only, Fort with the Taj, and Fort with Sikandra.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/agra-fort-monument-visits-with-licensed-guide/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "castle",
+        "content": "Yes, with a guide. **Agra Fort** is a UNESCO World Heritage Site, built largely in red sandstone, with marble palaces added by Shah Jahan. It is where he spent his last years, looking at the Taj from the Musamman Burj. Without a guide it is a big, confusing complex; with one it makes sense. Most tours pair it with the Taj, since the Fort is only about two kilometres away. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Agra Fort only, with a licensed guide",
+        "icon": "castle",
+        "content": "A two-hour visit focused on the Fort.",
+        "tourCard": {
+          "slug": "agra-fort-monument-visits-with-licensed-guide",
+          "title": "Agra Fort monument visits with Licensed Guide",
+          "description": "Agra Fort monument visit with a licensed guide.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-fort-monument-visits-with-licensed-guide/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Taj Mahal and Agra Fort, skip the line",
+        "icon": "zap",
+        "content": "The classic pairing, private and skip-the-line.",
+        "tourCard": {
+          "slug": "agra-taj-mahal-agra-fort-skip-the-line-private",
+          "title": "Agra: Taj Mahal & Agra Fort Skip-the-Line Private Tour",
+          "description": "Taj Mahal and Agra Fort skip-the-line private tour.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-taj-mahal-agra-fort-skip-the-line-private/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Fort, Baby Taj and Mehtab Bagh",
+        "icon": "landmark",
+        "content": "Fort and two quieter stops.",
+        "tourCard": {
+          "slug": "agra-fort-baby-taj-mehtab-bagh-express-ticket",
+          "title": "Agra fort, Baby Taj & Mehtab Bagh Express Ticket With Guide",
+          "description": "Agra Fort, Baby Taj and Mehtab Bagh express ticket with guide.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-fort-baby-taj-mehtab-bagh-express-ticket/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Akbar Tomb, Fort and Baby Taj",
+        "icon": "crown",
+        "content": "A private tour that adds Akbar's tomb.",
+        "tourCard": {
+          "slug": "private-agra-tour-akbar-tomb-agra-fort-and-baby",
+          "title": "Private Agra Tour: Akbar Tomb, Agra Fort, and Baby Taj",
+          "description": "Private Agra tour: Akbar Tomb, Agra Fort and Baby Taj.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/private-agra-tour-akbar-tomb-agra-fort-and-baby/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Tips",
+        "icon": "info",
+        "content": "- Go in the **morning**; the red sandstone gets very hot by afternoon.\n- Allow two hours.\n- Read about [Agra Fort](/india/agra/agra-fort) and [hiring a guide](/india/agra/agra-tour-guide)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How long does Agra Fort take?",
+        "a": "About two hours with a guide."
+      },
+      {
+        "q": "How far is it from the Taj Mahal?",
+        "a": "About two kilometres."
+      },
+      {
+        "q": "Is it worth seeing if I have seen the Taj?",
+        "a": "Yes; it is a different story and a very different building."
+      },
+      {
+        "q": "Is it open every day?",
+        "a": "Yes, including Fridays, when the Taj is closed."
+      },
+      {
+        "q": "Which is better, Fort or Fatehpur Sikri?",
+        "a": "See both if you can; the Fort is closer."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How long does Agra Fort take?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "About two hours with a guide."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How far is it from the Taj Mahal?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "About two kilometres."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth seeing if I have seen the Taj?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes; it is a different story and a very different building."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it open every day?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, including Fridays, when the Taj is closed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which is better, Fort or Fatehpur Sikri?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "See both if you can; the Fort is closer."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-akbars-tomb-sikandra-tour": {
+    "title": "Is Akbar’s Tomb at Sikandra Worth Visiting? The Best Tours",
+    "seoTitle": "Akbar Tomb Sikandra Tour 2026: Best Options",
+    "description": "Akbar’s Tomb in Sikandra: what is there, how long it takes, and four real tours that include it with the Taj or Fatehpur Sikri.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/private-agra-tour-akbar-tomb-agra-fort-and-baby/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "landmark",
+        "content": "Yes, and it is one of the **quietest major monuments** around Agra. The tomb of the Mughal emperor Akbar sits in a large garden in Sikandra, about 10 km out of the city centre, with a grand red sandstone gateway and inlaid marble. It takes about an hour, and it makes a good first stop on the road to or from Fatehpur Sikri. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Private Agra tour: Akbar Tomb, Fort and Baby Taj",
+        "icon": "crown",
+        "content": "A private half-day tour with Sikandra, the Fort and Baby Taj.",
+        "tourCard": {
+          "slug": "private-agra-tour-akbar-tomb-agra-fort-and-baby",
+          "title": "Private Agra Tour: Akbar Tomb, Agra Fort, and Baby Taj",
+          "description": "Private Agra tour: Akbar Tomb, Agra Fort and Baby Taj.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/private-agra-tour-akbar-tomb-agra-fort-and-baby/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Fatehpur Sikri and Sikandra from Agra",
+        "icon": "route",
+        "content": "Akbar's capital and his tomb on the same day.",
+        "tourCard": {
+          "slug": "from-agra-explore-fatehpur-sikri-and-sikandra-akba",
+          "title": "From Agra: Explore Fatehpur Sikri and Sikandra (Akbar Tomb)",
+          "description": "From Agra: explore Fatehpur Sikri and Sikandra.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-agra-explore-fatehpur-sikri-and-sikandra-akba/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Sunrise Taj, Fort and Akbar’s Tomb from Delhi",
+        "icon": "sun",
+        "content": "A Delhi-based day tour with Sikandra included.",
+        "tourCard": {
+          "slug": "from-delhi-taj-mahal-sunrise-agra-fort-akbars-tomb",
+          "title": "From Delhi: Taj Mahal Sunrise, Agra Fort & Akbar’s Tomb Tour",
+          "description": "From Delhi: Taj Mahal sunrise, Agra Fort and Akbar’s Tomb tour.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-taj-mahal-sunrise-agra-fort-akbars-tomb/img0/1600.webp"
+        }
+      },
+      {
+        "title": "How to fit it in",
+        "icon": "info",
+        "content": "- Add Sikandra to the road toward [Fatehpur Sikri](/india/agra/best-agra-tour-with-fatehpur-sikri).\n- It is quiet, so it works well late in the day.\n- Allow about an hour."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Where is Akbar’s Tomb?",
+        "a": "In Sikandra, about 10 km from central Agra."
+      },
+      {
+        "q": "How long does a visit take?",
+        "a": "About an hour."
+      },
+      {
+        "q": "Is it crowded?",
+        "a": "Usually much quieter than the Taj."
+      },
+      {
+        "q": "Can I see it with Fatehpur Sikri?",
+        "a": "Yes; they are close on the same road."
+      },
+      {
+        "q": "Is a guide needed?",
+        "a": "Recommended, as the history is easy to miss otherwise."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Where is Akbar’s Tomb?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Sikandra, about 10 km from central Agra."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does a visit take?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "About an hour."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it crowded?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Usually much quieter than the Taj."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I see it with Fatehpur Sikri?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes; they are close on the same road."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is a guide needed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recommended, as the history is easy to miss otherwise."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-taj-mahal-tour-with-mehtab-bagh": {
+    "title": "Should You Visit Mehtab Bagh with Your Taj Mahal Tour? The Best Combined Tours",
+    "seoTitle": "Taj Mahal + Mehtab Bagh Tour 2026: Best Options",
+    "description": "Seeing the Taj Mahal from the river side: Mehtab Bagh, moonlight and sunset views, and five real tours that include it.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-taj-mahal-agra-fort-mehtab-bagh-same/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "trees",
+        "content": "Yes, if you have an evening. **Mehtab Bagh** is a Mughal garden across the Yamuna that faces the Taj head-on, so it is the best place to see the full building framed without the crowds. It works best at **sunset**, and it is a calm way to end a hot Taj day. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Taj, Fort and Mehtab Bagh from Delhi",
+        "icon": "map-pin",
+        "content": "A same-day tour from Delhi that includes Mehtab Bagh.",
+        "tourCard": {
+          "slug": "from-delhi-taj-mahal-agra-fort-mehtab-bagh-same",
+          "title": "From Delhi: Taj Mahal, Agra Fort & Mehtab Bagh Same-Day Tour",
+          "description": "From Delhi: Taj Mahal, Agra Fort and Mehtab Bagh same-day tour.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-taj-mahal-agra-fort-mehtab-bagh-same/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Taj skip-the-line, Fort, Baby Taj and Mehtab Bagh",
+        "icon": "landmark",
+        "content": "A six-hour Agra tour with all four.",
+        "tourCard": {
+          "slug": "taj-mahal-mehtab-guided-tour",
+          "title": "Agra: Taj Mahal Skip-The-Line, Agra Fort, Baby Taj  and Mehtab Bagh Tour",
+          "description": "Taj Mahal skip-the-line, Agra Fort, Baby Taj and Mehtab Bagh.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/taj-mahal-mehtab-guided-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Fort, Baby Taj and Mehtab Bagh with guide",
+        "icon": "castle",
+        "content": "Without the Taj itself, for those who have already been.",
+        "tourCard": {
+          "slug": "agra-fort-baby-taj-mehtab-bagh-express-ticket",
+          "title": "Agra fort, Baby Taj & Mehtab Bagh Express Ticket With Guide",
+          "description": "Agra Fort, Baby Taj and Mehtab Bagh express ticket with guide.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-fort-baby-taj-mehtab-bagh-express-ticket/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Baby Taj and Mehtab Bagh, private",
+        "icon": "user",
+        "content": "A private four-hour tour.",
+        "tourCard": {
+          "slug": "agra-baby-taj-and-mehtab-bagh-private-guided-tour",
+          "title": "Agra: Baby Taj and Mehtab Bagh Private Guided Tour w/ Pickup",
+          "description": "Baby Taj and Mehtab Bagh private guided tour with pickup.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-baby-taj-and-mehtab-bagh-private-guided-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Moonlight viewing from the river side",
+        "icon": "moon",
+        "content": "A different view: the Taj from the Yamuna riverside.",
+        "tourCard": {
+          "slug": "taj-mahal-moonlight-viewing-tour-from-the-yamuna-r",
+          "title": "Taj Mahal Moonlight Viewing Tour from the Yamuna River Side",
+          "description": "Taj Mahal moonlight viewing tour from the Yamuna riverside.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/taj-mahal-moonlight-viewing-tour-from-the-yamuna-r/img0/1600.webp"
+        }
+      },
+      {
+        "title": "More",
+        "icon": "info",
+        "content": "Read our [Mehtab Bagh guide](/india/agra/mehtab-bagh) and [night viewing](/india/agra/taj-mahal-night-viewing-tour)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is Mehtab Bagh?",
+        "a": "A Mughal garden on the Yamuna, directly opposite the Taj."
+      },
+      {
+        "q": "When is the best time?",
+        "a": "Sunset."
+      },
+      {
+        "q": "Is it crowded?",
+        "a": "Much less than the Taj."
+      },
+      {
+        "q": "Do I need a ticket?",
+        "a": "Yes, a small one; tours include it where listed."
+      },
+      {
+        "q": "Can I see the Taj at night?",
+        "a": "On full moon nights, subject to the schedule; see our night viewing page."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is Mehtab Bagh?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A Mughal garden on the Yamuna, directly opposite the Taj."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "When is the best time?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sunset."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it crowded?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Much less than the Taj."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do I need a ticket?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, a small one; tours include it where listed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I see the Taj at night?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On full moon nights, subject to the schedule; see our night viewing page."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "can-i-build-my-own-agra-itinerary-with-a-private-car": {
+    "title": "Can I Build My Own Agra Itinerary with a Private Car and Guide?",
+    "seoTitle": "Custom Agra Itinerary with Private Car and Guide 2026",
+    "description": "Create-your-own Agra itineraries: how they work, what to decide first, and four real flexible tours with a car and guide.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/agra-create-your-own-itinerary-with-private-car/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "settings-2",
+        "content": "Yes. A flexible tour gives you a **private car and a guide** for a set number of hours, and you decide the stops. It suits repeat visitors, people with specific interests such as Mughal history, crafts or food, and families who do not want a fixed script. Send us your list on WhatsApp and we will tell you what fits in the time. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Create your own itinerary, car and guide",
+        "icon": "settings-2",
+        "content": "A flexible private day in Agra.",
+        "tourCard": {
+          "slug": "agra-create-your-own-itinerary-with-private-car",
+          "title": "Agra: Create Your Own Itinerary with Private Car & Guide",
+          "description": "Agra: create your own itinerary with a private car and guide.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-create-your-own-itinerary-with-private-car/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Create your own, private tour and transfer",
+        "icon": "route",
+        "content": "Private tour with a transfer included.",
+        "tourCard": {
+          "slug": "agra-create-your-own-itinerary-private-tour",
+          "title": "Agra: Create Your Own Itinerary - Private Tour & Transfer",
+          "description": "Agra: create your own itinerary, private tour and transfer.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-create-your-own-itinerary-private-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Private 5-hour sightseeing with pickup",
+        "icon": "clock",
+        "content": "A set 5-hour block, easy to adjust.",
+        "tourCard": {
+          "slug": "agra-private-5-hour-sightseeing-tour-with-hotel",
+          "title": "Agra: Private 5-Hour Sightseeing Tour with Hotel Pickup",
+          "description": "Agra: private 5-hour sightseeing tour with hotel pickup.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-private-5-hour-sightseeing-tour-with-hotel/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Taj and Fort, private, with transfers",
+        "icon": "car",
+        "content": "A fixed core with room to tweak.",
+        "tourCard": {
+          "slug": "taj-mahal-and-agra-fort-private-guided-tour-with",
+          "title": "Taj Mahal and Agra Fort Private Guided Tour with Transfers",
+          "description": "Taj Mahal and Agra Fort private guided tour with transfers.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/taj-mahal-and-agra-fort-private-guided-tour-with/img0/1600.webp"
+        }
+      },
+      {
+        "title": "What to decide first",
+        "icon": "list-checks",
+        "content": "- **How many hours** you want.\n- Your **must-see** places, and one or two optional.\n- Whether you want a **sunrise** or **sunset** slot.\n- Any **mobility** or food needs.\n\nUse [1 day Agra itinerary](/india/agra/1-day-agra-itinerary) as a starting point."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How long should a custom tour be?",
+        "a": "Five to eight hours is typical."
+      },
+      {
+        "q": "Can I include shopping or food?",
+        "a": "Yes, though we suggest reading our shopping guide first."
+      },
+      {
+        "q": "Can I change the plan on the day?",
+        "a": "Within reason, yes."
+      },
+      {
+        "q": "Is the guide licensed?",
+        "a": "Ask us on WhatsApp to confirm for your date."
+      },
+      {
+        "q": "Are tickets included?",
+        "a": "Usually not; each page states."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How long should a custom tour be?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Five to eight hours is typical."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I include shopping or food?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, though we suggest reading our shopping guide first."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I change the plan on the day?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Within reason, yes."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the guide licensed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ask us on WhatsApp to confirm for your date."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are tickets included?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Usually not; each page states."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "how-much-is-a-private-car-from-delhi-to-agra-and-jaipur": {
+    "title": "How Do I Get a Private Car from Delhi to Agra or Jaipur? One-Way Transfers with Sightseeing",
+    "seoTitle": "Private Car Delhi to Agra / Jaipur One-Way 2026",
+    "description": "One-way private car transfers between Delhi, Agra and Jaipur, and how to turn the drive into a sightseeing day. Three real options.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/delhiagrajaipur-private-one-way-premium-car/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "car",
+        "content": "If you are moving on rather than coming back, a **one-way private car** is usually the best value: you leave from your Delhi hotel, see the Taj with a guide on the way, and arrive in Jaipur or wherever you are going that evening. Pricing depends on the car type and the stops you add, so ask for a quote for your exact dates. The Delhi to Agra drive is about 3.5 to 4 hours, Agra to Jaipur about 4 to 5. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Private one-way premium car",
+        "icon": "car",
+        "content": "A premium car for a one-way transfer between Delhi, Agra and Jaipur.",
+        "tourCard": {
+          "slug": "delhiagrajaipur-private-one-way-premium-car",
+          "title": "Delhi/Agra/Jaipur: Private One-Way Premium Car Transfer",
+          "description": "Delhi, Agra or Jaipur: private one-way premium car transfer.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/delhiagrajaipur-private-one-way-premium-car/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Day tour with an optional transfer",
+        "icon": "route",
+        "content": "Do the Taj and end in a different city.",
+        "tourCard": {
+          "slug": "from-jaipurdelhiagra-taj-mahal-day-touroptional-tr",
+          "title": "From Jaipur/Delhi/Agra: Taj Mahal Day Tour+Optional Transfer",
+          "description": "Taj Mahal day tour with optional transfer from Jaipur, Delhi or Agra.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-jaipurdelhiagra-taj-mahal-day-touroptional-tr/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Transfer to or from Ranthambore",
+        "icon": "trees",
+        "content": "If your route includes the tiger reserve.",
+        "tourCard": {
+          "slug": "jaipuragradelhi-tofrom-ranthambore-one-way",
+          "title": "Jaipur/Agra/Delhi To/From Ranthambore One Way Transfer",
+          "description": "Jaipur, Agra or Delhi to and from Ranthambore one-way transfer.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/jaipuragradelhi-tofrom-ranthambore-one-way/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Making the drive worth it",
+        "icon": "info",
+        "content": "- Add **Fatehpur Sikri** between Agra and Jaipur; it is on the road.\n- Leave early to beat Delhi traffic.\n- Ask for a driver who speaks English.\n\nSee [Delhi to Agra](/india/agra/delhi-to-agra) and [Agra to Jaipur](/india/agra/agra-to-jaipur)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How long is the drive from Delhi to Agra?",
+        "a": "About 3.5 to 4 hours on the Yamuna Expressway."
+      },
+      {
+        "q": "Can I stop at the Taj on the way to Jaipur?",
+        "a": "Yes, with a day tour that ends in Jaipur."
+      },
+      {
+        "q": "Is the price per car or per person?",
+        "a": "Per car on transfers; tours can differ. Ask for the exact quote."
+      },
+      {
+        "q": "Can I book a driver for several days?",
+        "a": "Yes; see our Golden Triangle tours."
+      },
+      {
+        "q": "Do drivers speak English?",
+        "a": "Most do; ask when you book."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How long is the drive from Delhi to Agra?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "About 3.5 to 4 hours on the Yamuna Expressway."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I stop at the Taj on the way to Jaipur?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, with a day tour that ends in Jaipur."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the price per car or per person?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Per car on transfers; tours can differ. Ask for the exact quote."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I book a driver for several days?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes; see our Golden Triangle tours."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do drivers speak English?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most do; ask when you book."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-agra-to-varanasi-and-khajuraho-tour": {
+    "title": "Can You Go from Agra to Varanasi or Khajuraho? The Best Rail Tours",
+    "seoTitle": "Agra to Varanasi and Khajuraho Tour 2026",
+    "description": "Extending a trip beyond the Golden Triangle: Agra to Varanasi and Khajuraho by rail, and what each leg takes. Three real tours.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/from-agra-varanasi-2-day-tour-with-train-tickets/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "train-front",
+        "content": "Yes, and rail is the sensible way to do it. From Agra, **Varanasi is a long overnight journey**, and Khajuraho needs a train to Jhansi followed by a road leg. A tour with train tickets arranged saves a lot of booking stress. Varanasi is best around dawn on the ghats and the evening aarti. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Agra to Varanasi, 2 days with train tickets",
+        "icon": "train-front",
+        "content": "A two-day trip with the rail booked.",
+        "tourCard": {
+          "slug": "from-agra-varanasi-2-day-tour-with-train-tickets",
+          "title": "From Agra: Varanasi 2-Day Tour with Train Tickets",
+          "description": "From Agra: Varanasi 2-day tour with train tickets.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-agra-varanasi-2-day-tour-with-train-tickets/img0/1600.webp"
+        }
+      },
+      {
+        "title": "5 days: Khajuraho, Varanasi and Agra by rail",
+        "icon": "route",
+        "content": "A longer loop covering all three.",
+        "tourCard": {
+          "slug": "from-delhi-5-day-khajuraho-varanasi-agra-rail-tour",
+          "title": "From Delhi: 5-Day Khajuraho, Varanasi & Agra Rail Tour",
+          "description": "From Delhi: 5-day Khajuraho, Varanasi and Agra rail tour.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-5-day-khajuraho-varanasi-agra-rail-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Orchha and Jhansi Fort from Khajuraho",
+        "icon": "castle",
+        "content": "A day trip from Khajuraho to Orchha and Jhansi Fort.",
+        "tourCard": {
+          "slug": "a-day-tour-of-orchha-jhansi-fort-from-khajuraho",
+          "title": "A Day Tour of Orchha & Jhansi Fort from Khajuraho with Guide",
+          "description": "Orchha and Jhansi Fort day tour from Khajuraho.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/a-day-tour-of-orchha-jhansi-fort-from-khajuraho/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Planning notes",
+        "icon": "info",
+        "content": "- Rail tickets sell out early on these routes; book weeks ahead.\n- Two days for Varanasi is a minimum.\n- Pair with [Delhi to Agra](/india/agra/delhi-to-agra) for the first leg."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How long is Agra to Varanasi?",
+        "a": "A long journey, overnight by train."
+      },
+      {
+        "q": "Is two days enough for Varanasi?",
+        "a": "It is enough for the main ghats and the aarti."
+      },
+      {
+        "q": "How do I reach Khajuraho?",
+        "a": "By train to Jhansi, then road."
+      },
+      {
+        "q": "When should I go?",
+        "a": "October to March."
+      },
+      {
+        "q": "Are tickets included?",
+        "a": "On the rail tours, yes; each page says."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How long is Agra to Varanasi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A long journey, overnight by train."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is two days enough for Varanasi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is enough for the main ghats and the aarti."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I reach Khajuraho?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "By train to Jhansi, then road."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "When should I go?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "October to March."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are tickets included?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On the rail tours, yes; each page says."
               }
             }
           ]

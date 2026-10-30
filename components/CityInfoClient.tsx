@@ -74,6 +74,21 @@ const AGRA_SIDEBAR = [
     { name: 'German-Speaking Guide', slug: 'best-taj-mahal-tour-with-german-speaking-guide' },
     { name: 'French-Speaking Guide', slug: 'best-taj-mahal-tour-with-french-speaking-guide' },
     { name: 'Spanish-Speaking Guide', slug: 'best-taj-mahal-tour-with-spanish-speaking-guide' },
+    { name: "Tour from Jaipur", slug: 'best-taj-mahal-tour-from-jaipur' },
+    { name: "3-Day Golden Triangle", slug: 'best-golden-triangle-tour-3-days' },
+    { name: "Luxury Golden Triangle", slug: 'best-luxury-golden-triangle-tour' },
+    { name: "Golden Triangle + Tiger Safari", slug: 'best-golden-triangle-tour-with-ranthambore-tiger-safari' },
+    { name: "Ranthambore from Agra", slug: 'best-ranthambore-tiger-safari-from-agra' },
+    { name: "Instagram Photoshoot Tour", slug: 'best-taj-mahal-instagram-photoshoot-tour' },
+    { name: "Tour with Lunch", slug: 'best-taj-mahal-tour-with-lunch' },
+    { name: "Tour with Hotel Pickup", slug: 'best-taj-mahal-tour-with-hotel-pickup' },
+    { name: "Group Tour: Worth It?", slug: 'is-a-group-tour-to-the-taj-mahal-worth-it' },
+    { name: "Agra Fort Tour", slug: 'best-agra-fort-tour' },
+    { name: "Akbar's Tomb, Sikandra", slug: 'best-akbars-tomb-sikandra-tour' },
+    { name: "Tour with Mehtab Bagh", slug: 'best-taj-mahal-tour-with-mehtab-bagh' },
+    { name: "Build Your Own Itinerary", slug: 'can-i-build-my-own-agra-itinerary-with-a-private-car' },
+    { name: "Private Car Delhi-Agra-Jaipur", slug: 'how-much-is-a-private-car-from-delhi-to-agra-and-jaipur' },
+    { name: "Agra to Varanasi & Khajuraho", slug: 'best-agra-to-varanasi-and-khajuraho-tour' },
 ];
 
 const DELHI_SIDEBAR = [
