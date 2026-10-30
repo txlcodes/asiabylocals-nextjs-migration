@@ -47461,6 +47461,23 @@ export const FR_TOURS: Record<string, TourT> = {
    "Depenses personnelles"
   ]
  },
+ "ubud-sound-yoga-and-energy-healing-experience": {
+  "title": "Experience de Yoga Sonore et de Guerison Energetique a Ubud",
+  "metaTitle": "Experience de Yoga Sonore et de Guerison Energetique a Ubud",
+  "shortDescription": "Visite de 2 heures a Ubud, avec meditation guidee et guerison prana, pratique de respiration pranayama, seance de nettoyage energetique, seance de mantra sonore et de guerison et transfert a l hotel facultatif dans le centre et le sud de Bali. Reservation directe aupres de Pranasanti By Luh Manis, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 2 heures a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLe secteur du bien-etre d'Ubud s'est developpe a partir de son histoire de centre de guerison ; le nom de la ville vient d'ubad, medicament. Le massage balinais est une technique a longs mouvements, a base d'huile, avec de l'acupression, et un gommage boreh, une pate d'epices et de poudre de riz, en est le traitement chauffant traditionnel qui suit. La plupart des seances de spa durent de 60 a 120 minutes et se terminent par un bain de fleurs ou un the au gingembre. Les studios de yoga de la ville enseignent tous les styles, avec des cours ouverts toute la journee ; les seances de guerison sonore utilisent des gongs et des bols chantants et durent environ une heure. Portez des vetements amples, arrivez dix minutes en avance, et mangez leger avant.\n\nLe prix comprend meditation guidee et guerison prana, pratique de respiration pranayama, seance de nettoyage energetique, seance de mantra sonore et de guerison et transfert a l hotel facultatif dans le centre et le sud de Bali. Il ne comprend pas repas ou collations au-dela de la boisson d'accueil et tapis de yoga personnels (vous pouvez apporter le votre), a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nPrise en charge a l'hotel a Ubud. Pranasanti By Luh Manis confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "meditation guidee et guerison prana",
+   "pratique de respiration pranayama",
+   "seance de nettoyage energetique",
+   "seance de mantra sonore et de guerison",
+   "transfert a l hotel facultatif dans le centre et le sud de Bali"
+  ],
+  "notIncluded": [
+   "repas ou collations au-dela de la boisson d'accueil",
+   "tapis de yoga personnels (vous pouvez apporter le votre)"
+  ]
+ },
  "saraswati-temple-and-ubud-monkey-forest-with-waterfalls": {
   "title": "Temple de Saraswati et foret des singes d'Ubud avec cascades",
   "metaTitle": "Temple de Saraswati et foret des singes d'Ubud avec cascades",
@@ -50150,6 +50167,22 @@ export const FR_TOURS: Record<string, TourT> = {
    "pourboire pour le guide"
   ]
  },
+ "coral-reef-restoration-with-marine-scientists-in-nusa-penida": {
+  "title": "Restauration de Recifs Coralliens avec des Scientifiques Marins a Nusa Penida",
+  "metaTitle": "Restauration de Recifs Coralliens avec des Scientifiques Marins",
+  "shortDescription": "Visite de 4 heures a Nusa Penida, avec presentation par un biologiste marin, guide de snorkeling marin et tour de snorkeling de notre site de restauration et du recif local. Reservation directe aupres de Project Laut, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 4 heures a Nusa Penida. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nNusa Penida est la plus grande des trois iles au large de la cote sud-est de Bali, environ 200 kilometres carres de calcaire avec des falaises au sud et a l'ouest et quelques villages sur la cote nord ou accostent les bateaux. Il n'y a quasiment pas de circulation mais ses routes sont etroites et lentes, c'est pourquoi une excursion d'une journee couvre soit le cote ouest (Kelingking, Broken Beach, Angel's Billabong), soit le cote est (Diamond Beach, Atuh, Tree House), mais pas les deux. Les bateaux rapides depuis Sanur mettent de trente a quarante-cinq minutes, partent a partir d'environ 7h00, et sont annules ou retardes en cas de forte houle. Prevoyez de l'argent liquide : les terminaux de carte sont rares et les distributeurs peu fiables.\n\nLe prix comprend presentation par un biologiste marin, guide de snorkeling marin et tour de snorkeling de notre site de restauration et du recif local. Il ne comprend pas transfert en bateau depuis Bali disponible sur demande, transport vers et depuis le centre de plongee sur demande et location de camera d action disponible sur demande, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "presentation par un biologiste marin",
+   "guide de snorkeling marin",
+   "tour de snorkeling de notre site de restauration et du recif local"
+  ],
+  "notIncluded": [
+   "transfert en bateau depuis Bali disponible sur demande",
+   "transport vers et depuis le centre de plongee sur demande",
+   "location de camera d action disponible sur demande"
+  ]
+ },
  "nusa-penida-beginner-friendly-guided-snorkeling-nusa-penida": {
   "title": "Snorkeling guide adapte aux debutants a Nusa Penida",
   "metaTitle": "Snorkeling guide adapte aux debutants a Nusa Penida",
@@ -51217,6 +51250,25 @@ export const FR_TOURS: Record<string, TourT> = {
    "serviette",
    "Depenses personnelles",
    "assurance"
+  ]
+ },
+ "balinese-tantra-and-energy-meditation-workshop-in-canggu": {
+  "title": "Atelier de Tantra Balinais et de Meditation Energetique a Canggu",
+  "metaTitle": "Atelier de Tantra Balinais et de Meditation Energetique a Canggu",
+  "shortDescription": "Visite de 5 heures a Canggu, avec instructeur balinais, pratique guidee de respiration et d ancrage, meditation guidee, initiation energetique facultative et coussin ou tapis de meditation. Reservation directe aupres de kingdom bali, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 5 heures a Canggu. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLe secteur du bien-etre d'Ubud s'est developpe a partir de son histoire de centre de guerison ; le nom de la ville vient d'ubad, medicament. Le massage balinais est une technique a longs mouvements, a base d'huile, avec de l'acupression, et un gommage boreh, une pate d'epices et de poudre de riz, en est le traitement chauffant traditionnel qui suit. La plupart des seances de spa durent de 60 a 120 minutes et se terminent par un bain de fleurs ou un the au gingembre. Les studios de yoga de la ville enseignent tous les styles, avec des cours ouverts toute la journee ; les seances de guerison sonore utilisent des gongs et des bols chantants et durent environ une heure. Portez des vetements amples, arrivez dix minutes en avance, et mangez leger avant.\n\nLe prix comprend instructeur balinais, pratique guidee de respiration et d ancrage, meditation guidee, initiation energetique facultative et coussin ou tapis de meditation. Il ne comprend pas Prise en charge et retour a l'hotel, nourriture ou repas complet, traitement medical ou psychologique et Depenses personnelles, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "instructeur balinais",
+   "pratique guidee de respiration et d ancrage",
+   "meditation guidee",
+   "initiation energetique facultative",
+   "coussin ou tapis de meditation"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel",
+   "nourriture ou repas complet",
+   "traitement medical ou psychologique",
+   "Depenses personnelles"
   ]
  },
  "bali-surfing-lessons-at-kedungu-beach-with-private-transfer-canggu": {
@@ -55455,6 +55507,23 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "private-full-day-tour-of-ubud-highlights": {
+  "title": "Tour Prive d'une Journee Complete des Incontournables d'Ubud",
+  "metaTitle": "Tour Prive d'une Journee Complete des Incontournables d'Ubud",
+  "shortDescription": "Visite de 9 heures a Ubud, avec Sacred Monkey Forest Sanctuary et Tegallalang Rice Terrace and Ulu Petanu Waterfall. Reservation directe aupres de Bali trips, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 9 heures au depart de Ubud, construite autour de Sacred Monkey Forest Sanctuary et Tegallalang Rice Terrace and Ulu Petanu Waterfall. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nUne journee de highlights autour d'Ubud enchaine les lieux qui se photographient le mieux dans l'ordre que la lumiere leur convient : Tegallalang avant les cars, une balancoire pendant que la file est courte, une cascade en fin de matinee, et Tirta Empul ou un temple l'apres-midi. Les distances sont courtes mais les routes sont lentes, donc l'ordre compte plus que la liste. Des sarongs sont necessaires dans chaque temple et sont fournis a l'entree ; les balancoires et certains points de vue se paient separement du circuit ; et les apres-midis de saison des pluies, de novembre a mars, apportent souvent de la pluie a partir d'environ deux heures, c'est pourquoi ces journees commencent tot.\n\nLe prix comprend prise en charge et retour a Ubud, Sanur, Kuta, Nusa Dua, voiture privee avec guide parlant anglais, eau en bouteille, frais de parking et taxes locales et tous les billets d'entree si l'option tout inclus est selectionnee. Il ne comprend pas dejeuner et boissons disponibles a l achat dans les restaurants sur le parcours et serviette et effets personnels, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nPrise en charge a l'hotel a Ubud. Bali trips confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "prise en charge et retour a Ubud, Sanur, Kuta, Nusa Dua",
+   "voiture privee avec guide parlant anglais",
+   "eau en bouteille",
+   "frais de parking et taxes locales",
+   "tous les billets d'entree si l'option tout inclus est selectionnee"
+  ],
+  "notIncluded": [
+   "dejeuner et boissons disponibles a l achat dans les restaurants sur le parcours",
+   "serviette et effets personnels"
+  ]
+ },
  "healing-and-aura-cleansing-tour-with-yoga-and-meditation-in-ubud": {
   "title": "Visite de guerison et de purification de l'aura avec yoga et meditation a Ubud",
   "metaTitle": "Visite de guerison et de purification de l'aura avec yoga et",
@@ -56570,6 +56639,21 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "ubud-yoga-and-healing-meditation": {
+  "title": "Yoga et Meditation de Guerison a Ubud",
+  "metaTitle": "Yoga et Meditation de Guerison a Ubud",
+  "shortDescription": "Visite de 1,5 heures a Ubud, avec meditation de guerison guidee, tapis de yoga et equipement necessaire et transfert a l'hotel facultatif. Reservation directe aupres de Pranasanti By Luh Manis, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 1,5 heures a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nLe secteur du bien-etre d'Ubud s'est developpe a partir de son histoire de centre de guerison ; le nom de la ville vient d'ubad, medicament. Le massage balinais est une technique a longs mouvements, a base d'huile, avec de l'acupression, et un gommage boreh, une pate d'epices et de poudre de riz, en est le traitement chauffant traditionnel qui suit. La plupart des seances de spa durent de 60 a 120 minutes et se terminent par un bain de fleurs ou un the au gingembre. Les studios de yoga de la ville enseignent tous les styles, avec des cours ouverts toute la journee ; les seances de guerison sonore utilisent des gongs et des bols chantants et durent environ une heure. Portez des vetements amples, arrivez dix minutes en avance, et mangez leger avant.\n\nLe prix comprend meditation de guerison guidee, tapis de yoga et equipement necessaire et transfert a l'hotel facultatif. Il ne comprend pas repas ou collations au-dela de la boisson d'accueil et effets personnels ou souvenirs, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nPrise en charge a l'hotel a Ubud. Pranasanti By Luh Manis confirme l'heure de prise en charge et le lieu exact une fois la reservation effectuee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "meditation de guerison guidee",
+   "tapis de yoga et equipement necessaire",
+   "transfert a l'hotel facultatif"
+  ],
+  "notIncluded": [
+   "repas ou collations au-dela de la boisson d'accueil",
+   "effets personnels ou souvenirs"
+  ]
+ },
  "atv-zipline-swing-and-sky-bike-in-ubud-rice-field": {
   "title": "ATV, tyrolienne, balancoire et velo suspendu dans les rizieres d Ubud",
   "metaTitle": "ATV, tyrolienne, balancoire et velo suspendu dans les rizieres d",
@@ -56615,6 +56699,23 @@ export const FR_TOURS: Record<string, TourT> = {
    "frais pour la balancoire",
    "Dejeuner",
    "Pourboires"
+  ]
+ },
+ "traditional-heritage-batik-painting-experience-in-ubud": {
+  "title": "Experience de Peinture Batik Traditionnelle a Ubud",
+  "metaTitle": "Experience de Peinture Batik Traditionnelle a Ubud",
+  "shortDescription": "Visite de 3 heures a Ubud, avec nourriture: collations ou gateau balinais, boisson d'accueil: eau minerale, the ou cafe, tissu de coton, tous les outils et materiaux et instructeur. Reservation directe aupres de Five Arts Studio, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 3 heures a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nUbud est le centre des villages d'artisanat de Bali : Celuk pour le travail de l'argent et de l'or, Mas pour la sculpture sur bois, Batuan pour son style de peinture, et Batubulan pour la pierre. Les cours d'artisanat reproduisent les memes savoir-faire dans un atelier avec un instructeur et durent de trois a quatre heures, et vous partez avec la piece que vous avez realisee. Les cours d'argenterie travaillent l'argent sterling avec des outils a main, des scies et un chalumeau ; les cours de sculpture travaillent le bois tendre d'hibiscus ou de jacquier ; le batik utilise de la cire chaude et de la teinture sur coton et necessite du temps pour secher. Les cours sont pratiques plutot que des demonstrations, donc portez des vetements qui peuvent supporter la teinture ou la cire.\n\nLe prix comprend nourriture: collations ou gateau balinais, boisson d'accueil: eau minerale, the ou cafe, tissu de coton, tous les outils et materiaux et instructeur. Il ne comprend pas transport et le service de prise en charge et de retour a l'hotel est disponible avec un supplement, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "nourriture: collations ou gateau balinais",
+   "boisson d'accueil: eau minerale, the ou cafe",
+   "tissu de coton",
+   "tous les outils et materiaux",
+   "instructeur"
+  ],
+  "notIncluded": [
+   "transport",
+   "le service de prise en charge et de retour a l'hotel est disponible avec un supplement"
   ]
  },
  "day-sunset-mount-batur-4wd-jeep-and-natural-hot-spring": {
@@ -57448,6 +57549,25 @@ export const FR_TOURS: Record<string, TourT> = {
    "hebergement"
   ]
  },
+ "private-balinese-purification-ritual-with-priest-in-ubud": {
+  "title": "Rituel de Purification Balinais Prive avec un Pretre a Ubud",
+  "metaTitle": "Rituel de Purification Balinais Prive avec un Pretre a Ubud",
+  "shortDescription": "Visite de 1 heure a Ubud, avec ceremonie de benediction traditionnelle, accompagnement par un pretre balinais, utilisation d'eau benite, benediction wija et acces a la piscine publique de la zone de l'hotel. Reservation directe aupres de Sanggraloka Farm, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 1 heure a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nTirta Empul est un temple des eaux sur la riviere Pakerisan a Tampaksiring, fonde en 962 apres J.-C. autour d'une source que les Balinais considerent sacree. Le rituel de purification, melukat, consiste a entrer dans le bassin et passer d'une fontaine a l'autre sous l'eau, dans l'ordre ; deux des fontaines sont reservees aux rites funeraires et ne sont pas utilisees, et un guide vous indiquera lesquelles. Des sarongs sont fournis a l'entree, et vous voudrez des vetements de rechange pour apres. Le temple est le plus frequente par les fideles locaux autour de la pleine lune et lors des jours saints balinais, ce qui vaut mieux savoir que d'eviter. Le palais presidentiel construit par Sukarno dans les annees 1950 se trouve sur la colline directement au-dessus des sources.\n\nLe prix comprend ceremonie de benediction traditionnelle, accompagnement par un pretre balinais, utilisation d'eau benite, benediction wija et acces a la piscine publique de la zone de l'hotel. Il ne comprend pas boisson d'accueil, Repas et boissons, transport et hebergement, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "ceremonie de benediction traditionnelle",
+   "accompagnement par un pretre balinais",
+   "utilisation d'eau benite",
+   "benediction wija",
+   "acces a la piscine publique de la zone de l'hotel"
+  ],
+  "notIncluded": [
+   "boisson d'accueil",
+   "Repas et boissons",
+   "transport",
+   "hebergement"
+  ]
+ },
  "sukawati-temple-waterfall-traditional-house-and-rice-in-ubud": {
   "title": "Temple de Sukawati, cascade, maison traditionnelle et riziere a Ubud",
   "metaTitle": "Temple de Sukawati, cascade, maison traditionnelle et riziere a",
@@ -57614,6 +57734,22 @@ export const FR_TOURS: Record<string, TourT> = {
    "Depenses personnelles",
    "Dejeuner",
    "pourboires"
+  ]
+ },
+ "bali-silver-jewelry-making-class-stone-and-gold-plated-option-ubud": {
+  "title": "Cours de Bijouterie en Argent a Bali (Option Pierre et Plaque Or) (Ubud)",
+  "metaTitle": "Cours de Bijouterie en Argent a Bali (Option Pierre et Plaque",
+  "shortDescription": "Visite de 3 heures a Ubud, avec obtenez 1 a 5 grammes d argent de haute qualite, instruction personnalisee d'un orfevre, tous les materiaux et outils necessaires, piece finie a emporter et collation. Reservation directe aupres de Bali Silver Class, plutot que via un revendeur.",
+  "fullDescription": "Ceci est une experience de 3 heures a Ubud. Votre place est retenue avec l'operateur avant que nous ne considerions votre reservation comme definitive.\n\nUbud est le centre des villages d'artisanat de Bali : Celuk pour le travail de l'argent et de l'or, Mas pour la sculpture sur bois, Batuan pour son style de peinture, et Batubulan pour la pierre. Les cours d'artisanat reproduisent les memes savoir-faire dans un atelier avec un instructeur et durent de trois a quatre heures, et vous partez avec la piece que vous avez realisee. Les cours d'argenterie travaillent l'argent sterling avec des outils a main, des scies et un chalumeau ; les cours de sculpture travaillent le bois tendre d'hibiscus ou de jacquier ; le batik utilise de la cire chaude et de la teinture sur coton et necessite du temps pour secher. Les cours sont pratiques plutot que des demonstrations, donc portez des vetements qui peuvent supporter la teinture ou la cire.\n\nLe prix comprend obtenez 1 a 5 grammes d argent de haute qualite, instruction personnalisee d'un orfevre, tous les materiaux et outils necessaires, piece finie a emporter et collation. Il ne comprend pas poids de bijou superieur a 5 grammes facture sur place, a prevoir en plus. Tout ce qui est inclus est liste en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considerez que ce n'est pas compris dans le prix.\n\nLe lieu et l'heure de rendez-vous sont envoyes par e-mail des que la reservation est confirmee. Il nous faut un prealable d'au moins un jour, et nous confirmons la date avant de considerer votre reservation comme definitive. Si la date ne peut pas etre confirmee, nous vous le disons et vous remboursons plutot que de vous laisser attendre.",
+  "included": [
+   "obtenez 1 a 5 grammes d argent de haute qualite",
+   "instruction personnalisee d'un orfevre",
+   "tous les materiaux et outils necessaires",
+   "piece finie a emporter",
+   "collation"
+  ],
+  "notIncluded": [
+   "poids de bijou superieur a 5 grammes facture sur place"
   ]
  },
  "north-highlights-private-full-day-customized-tour-in-ubud": {
