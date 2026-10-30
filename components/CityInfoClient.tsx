@@ -89,6 +89,18 @@ const AGRA_SIDEBAR = [
     { name: "Build Your Own Itinerary", slug: 'can-i-build-my-own-agra-itinerary-with-a-private-car' },
     { name: "Private Car Delhi-Agra-Jaipur", slug: 'how-much-is-a-private-car-from-delhi-to-agra-and-jaipur' },
     { name: "Agra to Varanasi & Khajuraho", slug: 'best-agra-to-varanasi-and-khajuraho-tour' },
+    { name: "Mohabbat the Taj Show", slug: 'is-the-mohabbat-the-taj-show-in-agra-worth-it' },
+    { name: "Book Tickets Online", slug: 'how-to-book-taj-mahal-tickets-online' },
+    { name: "Shopping & Marble Inlay", slug: 'best-agra-shopping-tour-marble-inlay-workshop' },
+    { name: "Walking Tour", slug: 'best-agra-walking-tour' },
+    { name: "2-Day Delhi + Taj", slug: 'best-delhi-and-taj-mahal-2-day-tour' },
+    { name: "From Mumbai, Bangalore, Goa", slug: 'can-you-visit-the-taj-mahal-from-mumbai-bangalore-or-goa' },
+    { name: "Elephant Rescue Tour", slug: 'best-agra-elephant-sanctuary-tour' },
+    { name: "Saree Rental Tour", slug: 'can-i-wear-a-saree-to-the-taj-mahal-tour' },
+    { name: "Holi Tours", slug: 'best-holi-tours-near-agra-mathura-vrindavan' },
+    { name: "Half-Day Tour", slug: 'best-half-day-agra-tour' },
+    { name: "Sunrise Tour from Delhi", slug: 'best-sunrise-taj-mahal-tour-from-delhi-by-car' },
+    { name: "Cooking Class", slug: 'best-agra-cooking-class' },
 ];
 
 const DELHI_SIDEBAR = [

@@ -3888,6 +3888,1559 @@ const PAGES: Record<string, CityInfoData> = {
         }
       ]
     }
+  },
+  "is-the-mohabbat-the-taj-show-in-agra-worth-it": {
+    "title": "Is the Mohabbat the Taj Show in Agra Worth Seeing? What to Book",
+    "seoTitle": "Mohabbat the Taj Show Agra 2026: Worth It?",
+    "description": "Mohabbat the Taj is a live evening stage show about Shah Jahan and Mumtaz. Who it suits, how to book with transfers, and what else to do in an Agra evening.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/agra-mohabbat-the-taj-show-tickets-and-agra-transf/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "music",
+        "content": "Yes, if you have an **evening free in Agra** and want something other than monuments. Mohabbat the Taj is a live stage show, with music and dance, that retells the story of **Shah Jahan and Mumtaz Mahal**, the couple behind the Taj. It runs about an hour and a half, suits couples and families, and is most enjoyable after a Taj day because you already know the building it is about. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Show tickets with Agra transfers",
+        "icon": "ticket",
+        "content": "Show tickets with transfers handled, so you do not have to find the venue after dark.",
+        "tourCard": {
+          "slug": "agra-mohabbat-the-taj-show-tickets-and-agra-transf",
+          "title": "Agra: Mohabbat the Taj show tickets and agra transfers",
+          "description": "Mohabbat the Taj show tickets with Agra transfers.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-mohabbat-the-taj-show-tickets-and-agra-transf/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Add a full moon night at the Taj",
+        "icon": "moon",
+        "content": "If your dates match a full moon, pair the show with a night viewing of the Taj. Dates and availability change, so confirm first.",
+        "tourCard": {
+          "slug": "agra-taj-mahal-full-moon-night-tour-with-hotel",
+          "title": "Agra: Taj Mahal Full Moon Night Tour with Hotel Pickup",
+          "description": "Taj Mahal full moon night tour with hotel pickup.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-taj-mahal-full-moon-night-tour-with-hotel/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Or an evening of street food",
+        "icon": "utensils",
+        "content": "For a less formal night, a private street food tour through the markets.",
+        "tourCard": {
+          "slug": "agra-by-night-private-street-food-tour-with-local",
+          "title": "Agra by Night: Private Street Food Tour With Local Markets",
+          "description": "Agra by night: private street food tour with local markets.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-by-night-private-street-food-tour-with-local/img0/1600.webp"
+        }
+      },
+      {
+        "title": "How to plan the evening",
+        "icon": "calendar",
+        "content": "- Do the Taj at **sunrise or sunset**, then the show, so the day has a shape.\n- Ask about the **start time** and how long the transfer takes.\n- Dinner after the show is easier than before it.\n\nRead our [night viewing guide](/india/agra/taj-mahal-night-viewing-tour) and [1 day Agra itinerary](/india/agra/1-day-agra-itinerary)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is Mohabbat the Taj?",
+        "a": "A live evening stage show with music and dance about Shah Jahan and Mumtaz Mahal."
+      },
+      {
+        "q": "How long is it?",
+        "a": "About an hour and a half."
+      },
+      {
+        "q": "Is it suitable for children?",
+        "a": "Generally yes; check the tour page for age notes."
+      },
+      {
+        "q": "Are transfers included?",
+        "a": "On this listing, yes."
+      },
+      {
+        "q": "Can I see the Taj at night too?",
+        "a": "On full moon nights, subject to the official schedule."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is Mohabbat the Taj?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A live evening stage show with music and dance about Shah Jahan and Mumtaz Mahal."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long is it?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "About an hour and a half."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it suitable for children?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Generally yes; check the tour page for age notes."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are transfers included?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On this listing, yes."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I see the Taj at night too?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On full moon nights, subject to the official schedule."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "how-to-book-taj-mahal-tickets-online": {
+    "title": "How Do I Book Taj Mahal Tickets Online? Entry-Ticket Options Compared",
+    "seoTitle": "Book Taj Mahal Tickets Online 2026: Real Options",
+    "description": "Booking Taj Mahal entry tickets online for foreigners and Indians: what an entry-ticket tour includes, when you still need a guide, and five real options.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/agra-taj-mahal-entry-ticket-for-foreigner-and/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "ticket",
+        "content": "If all you want is to **get in without a long queue**, an entry-ticket booking is the simplest. Tickets differ for foreign and Indian visitors, and the main mausoleum has its own separate ticket, so read what is covered. If you want the building explained, pick a guided ticket instead. Either way, book ahead in October to March, and remember the Taj is **closed on Fridays**. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Entry ticket for foreigners and Indians",
+        "icon": "ticket",
+        "content": "A straightforward entry-ticket booking that covers both visitor types.",
+        "tourCard": {
+          "slug": "agra-taj-mahal-entry-ticket-for-foreigner-and",
+          "title": "Agra: Taj Mahal Entry Ticket For Foreigner and Indian",
+          "description": "Taj Mahal entry ticket for foreigners and Indians.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-taj-mahal-entry-ticket-for-foreigner-and/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Entry tickets for Indian and foreign visitors",
+        "icon": "ticket",
+        "content": "A second entry-ticket option with a longer visit window.",
+        "tourCard": {
+          "slug": "agra-taj-mahal-entry-tickets-for-indian-foreign-vi",
+          "title": "Agra: Taj Mahal Entry Tickets for Indian & Foreign Visitors",
+          "description": "Taj Mahal entry tickets for Indian and foreign visitors.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-taj-mahal-entry-tickets-for-indian-foreign-vi/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Skip-the-line express entry for foreigners",
+        "icon": "zap",
+        "content": "Express entry with a guide, designed to avoid the main queue.",
+        "tourCard": {
+          "slug": "taj-mahal-skip-the-line-express-entry-tour-for",
+          "title": "Taj Mahal Skip-the-Line Express Entry Tour for Foreigners",
+          "description": "Taj Mahal skip-the-line express entry tour for foreigners.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/taj-mahal-skip-the-line-express-entry-tour-for/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Private tour with fast-track entry and guide",
+        "icon": "user",
+        "content": "A private visit with fast-track entry and a guide included.",
+        "tourCard": {
+          "slug": "private-taj-mahal-tour-with-fast-track-entry",
+          "title": "Private Taj Mahal Tour with Fast-Track Entry Ticket & Guide",
+          "description": "Private Taj Mahal tour with fast-track entry ticket and guide.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/private-taj-mahal-tour-with-fast-track-entry/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Entry ticket with a longer window",
+        "icon": "clock",
+        "content": "A ticket booking designed for a more relaxed visit.",
+        "tourCard": {
+          "slug": "taj-mahal-entry-tickets",
+          "title": "Taj Mahal entry tickets",
+          "description": "Taj Mahal entry tickets.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/taj-mahal-entry-tickets/img0/1600.webp"
+        }
+      },
+      {
+        "title": "What to check",
+        "icon": "list-checks",
+        "content": "- Does the booking include the **main mausoleum** ticket?\n- Is it for **foreigners, Indians or both**?\n- Is the entry **time-slotted**?\n- Do you need to carry ID?\n\nSee [Taj Mahal ticket price 2026](/india/agra/taj-mahal-ticket-price-2026) and [skip-the-line tickets](/india/agra/taj-mahal-skip-the-line-tickets)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Can I book Taj Mahal tickets online?",
+        "a": "Yes; the tours below include tickets or arrange entry for you."
+      },
+      {
+        "q": "Are tickets different for foreigners and Indians?",
+        "a": "Yes. See our ticket price page for the current structure."
+      },
+      {
+        "q": "Is the main mausoleum ticket separate?",
+        "a": "Yes, there is a separate ticket for entering the main mausoleum."
+      },
+      {
+        "q": "Do I need a guide?",
+        "a": "No, but it helps. Guided options are listed."
+      },
+      {
+        "q": "Which day is the Taj closed?",
+        "a": "Friday."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Can I book Taj Mahal tickets online?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes; the tours below include tickets or arrange entry for you."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are tickets different for foreigners and Indians?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. See our ticket price page for the current structure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the main mausoleum ticket separate?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, there is a separate ticket for entering the main mausoleum."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do I need a guide?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, but it helps. Guided options are listed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which day is the Taj closed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Friday."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-agra-shopping-tour-marble-inlay-workshop": {
+    "title": "Is There an Honest Agra Shopping Tour? The Best Marble Inlay and Handicraft Tours",
+    "seoTitle": "Best Agra Shopping Tour: Marble Inlay and Handicrafts 2026",
+    "description": "Agra shopping without commission traps: how marble inlay is made, what to look for, and four real guided shopping and workshop tours.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/agra-handicraft-shopping-tour-marble-jewelry-rugs/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "shopping-bag",
+        "content": "Agra is genuinely good for **marble inlay, leather and rugs**, and also notorious for stops where the driver takes a commission. The way around it is to shop on a **guided tour built around workshops**, where you see the work being made and can say no. Go in knowing what you want, ask how long the craftsmen's family has done the work, and never feel obliged to buy. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Marble, jewellery and rugs, guided",
+        "icon": "shopping-bag",
+        "content": "A short guided tour of Agra handicraft makers.",
+        "tourCard": {
+          "slug": "agra-handicraft-shopping-tour-marble-jewelry-rugs",
+          "title": "Agra Handicraft Shopping Tour: Marble, Jewelry & Rugs",
+          "description": "Agra handicraft shopping tour: marble, jewellery and rugs.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-handicraft-shopping-tour-marble-jewelry-rugs/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Shopping tour with an expert guide and workshop",
+        "icon": "sparkles",
+        "content": "A four-hour tour with a marble inlay workshop.",
+        "tourCard": {
+          "slug": "agra-shopping-tour-with-female-guide-marble-inlay-",
+          "title": "Agra Shopping Tour with Expert Guide & Marble Inlay Workshop",
+          "description": "Agra shopping tour with an expert guide and marble inlay workshop.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-shopping-tour-with-female-guide-marble-inlay-/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Shopping with a female guide",
+        "icon": "user",
+        "content": "The same format, led by a woman guide.",
+        "tourCard": {
+          "slug": "agra-shopping-tour-with-female-guide-marble-inlay",
+          "title": "Agra Shopping Tour with Female Guide & Marble Inlay Workshop",
+          "description": "Agra shopping tour with a female guide and marble inlay workshop.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-shopping-tour-with-female-guide-marble-inlay/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Delhi, Agra and Jaipur shopping tour",
+        "icon": "route",
+        "content": "A six-hour guided shopping tour usable in any of the three cities.",
+        "tourCard": {
+          "slug": "delhiagrajaipur-guided-shopping-tour-with-expert",
+          "title": "Delhi/Agra/Jaipur: Guided Shopping Tour with Expert Guide",
+          "description": "Delhi, Agra and Jaipur guided shopping tour with an expert guide.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/delhiagrajaipur-guided-shopping-tour-with-expert/img0/1600.webp"
+        }
+      },
+      {
+        "title": "How to shop smart",
+        "icon": "list-checks",
+        "content": "- Ask to see the **making**, not just the showroom.\n- Compare prices before you commit, and **do not buy on the first stop**.\n- Real marble inlay is cool to the touch and uses semi-precious stones set flush.\n\nRead our [Agra shopping guide](/india/agra/agra-shopping-guide) and [tout and scam guide](/india/agra/agra-tour-guide-scams-how-to-avoid-touts)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What should I buy in Agra?",
+        "a": "Marble inlay, leather goods, rugs and petha."
+      },
+      {
+        "q": "How do I avoid commission traps?",
+        "a": "Book a guided shopping tour, and decline unplanned stops from drivers."
+      },
+      {
+        "q": "Is bargaining expected?",
+        "a": "Yes in markets; workshops have more fixed prices."
+      },
+      {
+        "q": "Can I ship things home?",
+        "a": "Many workshops arrange shipping; ask about insurance."
+      },
+      {
+        "q": "How long does a shopping tour take?",
+        "a": "Two and a half to six hours."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What should I buy in Agra?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Marble inlay, leather goods, rugs and petha."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I avoid commission traps?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Book a guided shopping tour, and decline unplanned stops from drivers."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is bargaining expected?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes in markets; workshops have more fixed prices."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I ship things home?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Many workshops arrange shipping; ask about insurance."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does a shopping tour take?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Two and a half to six hours."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-agra-walking-tour": {
+    "title": "What Is the Best Walking Tour in Agra? Heritage Trails Beyond the Taj",
+    "seoTitle": "Best Agra Walking Tour 2026: Heritage Trails",
+    "description": "Agra on foot: artistic heritage trails, Agra Fort walks, old city lanes and a Taj walking tour. Five real tours.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/agra-artistic-heritage-trails-guided-walking-tour/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "footprints",
+        "content": "Agra is best seen on foot in short bursts: the **Taj in the morning**, the **Fort before the heat**, and the **old city lanes** in the evening. A good walking tour keeps groups small, stays in the shade where it can, and explains what you are looking at. Wear sturdy shoes and carry water. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Artistic heritage trails on foot",
+        "icon": "footprints",
+        "content": "A guided walk through craft neighbourhoods.",
+        "tourCard": {
+          "slug": "agra-artistic-heritage-trails-guided-walking-tour",
+          "title": "Agra Artistic Heritage Trails: Guided Walking Tour by Foot",
+          "description": "Agra artistic heritage trails: guided walking tour on foot.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-artistic-heritage-trails-guided-walking-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Agra Fort UNESCO heritage walk",
+        "icon": "castle",
+        "content": "A three-hour walk around the Fort.",
+        "tourCard": {
+          "slug": "agra-fort-guided-unesco-heritage-walking-tour",
+          "title": "Agra Fort: Guided UNESCO Heritage Walking Tour",
+          "description": "Agra Fort: guided UNESCO heritage walking tour.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-fort-guided-unesco-heritage-walking-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Mysteries of Agra with a local",
+        "icon": "search",
+        "content": "A two-hour walk led by a local, off the main circuit.",
+        "tourCard": {
+          "slug": "mysteries-of-agra-local-tour",
+          "title": "Mysteries of Agra by local",
+          "description": "Mysteries of Agra by local.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/mysteries-of-agra-local-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Taj Mahal walking tour with skip the line",
+        "icon": "zap",
+        "content": "A short, focused Taj walk with skip-the-line entry.",
+        "tourCard": {
+          "slug": "agra-taj-mahal-walking-tour-with-skip-the-line",
+          "title": "Agra: Taj Mahal Walking Tour with Skip the Line Ticket",
+          "description": "Agra: Taj Mahal walking tour with skip-the-line ticket.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-taj-mahal-walking-tour-with-skip-the-line/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Heritage walk plus cooking class",
+        "icon": "chef-hat",
+        "content": "A longer day that ends with food you cook yourself.",
+        "tourCard": {
+          "slug": "from-agra-guided-heritage-walk-local-cooking-class",
+          "title": "From Agra: Guided Heritage Walk & Local Cooking Class Tour",
+          "description": "From Agra: guided heritage walk and local cooking class tour.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-agra-guided-heritage-walk-local-cooking-class/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Tips for walking in Agra",
+        "icon": "info",
+        "content": "- Go **early or late**; midday is punishing from April to June.\n- Dress modestly and cover shoulders at religious sites.\n- Keep to your guide in the old lanes.\n\nSee [places to visit in Agra](/india/agra/places-to-visit-in-agra)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Is Agra walkable?",
+        "a": "In parts. The old city and monuments are best on foot; between them use a vehicle."
+      },
+      {
+        "q": "How long are walking tours?",
+        "a": "Two to five hours."
+      },
+      {
+        "q": "Are they suitable for children?",
+        "a": "Yes for shorter walks; check the page."
+      },
+      {
+        "q": "What should I wear?",
+        "a": "Comfortable shoes, light modest clothing."
+      },
+      {
+        "q": "Are walking tours safe?",
+        "a": "With a licensed guide, yes."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is Agra walkable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In parts. The old city and monuments are best on foot; between them use a vehicle."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long are walking tours?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Two to five hours."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are they suitable for children?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes for shorter walks; check the page."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What should I wear?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Comfortable shoes, light modest clothing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are walking tours safe?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With a licensed guide, yes."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-delhi-and-taj-mahal-2-day-tour": {
+    "title": "Is a 2-Day Delhi and Taj Mahal Tour a Good Plan? The Best Options",
+    "seoTitle": "Best 2-Day Delhi + Taj Mahal Tour 2026",
+    "description": "Combining Delhi and Agra in two days: how to split the time, and four real 2-day tours including Old Delhi and Taj Mahal sunrise.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-2-days-new-delhi-taj-mahal-guided/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "calendar",
+        "content": "Yes, and it is a better plan than cramming both into one day. **Day one for Delhi**, with Old Delhi and the main monuments, and **day two for Agra**, with the Taj at its best light. A private car links them. If you arrive in Delhi tired, start Delhi in the afternoon and do the Taj the following morning. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "2 days: New Delhi and Taj Mahal",
+        "icon": "map",
+        "content": "The straightforward two-day version.",
+        "tourCard": {
+          "slug": "from-delhi-2-days-new-delhi-taj-mahal-guided",
+          "title": "From Delhi : 2 Days New Delhi & Taj Mahal Guided Tour",
+          "description": "From Delhi: 2 days New Delhi and Taj Mahal guided tour.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-2-days-new-delhi-taj-mahal-guided/img0/1600.webp"
+        }
+      },
+      {
+        "title": "2 days, private, with car",
+        "icon": "car",
+        "content": "A private two-day tour with a car.",
+        "tourCard": {
+          "slug": "delhi-2-day-private-guided-tour-with-car",
+          "title": "Delhi: 2-Day Private Guided Tour with Car",
+          "description": "Delhi: 2-day private guided tour with car.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/delhi-2-day-private-guided-tour-with-car/img0/1600.webp"
+        }
+      },
+      {
+        "title": "2 days, Delhi and Agra, private car",
+        "icon": "star",
+        "content": "A private two-day Delhi and Agra tour by car.",
+        "tourCard": {
+          "slug": "delhi-2-day-private-delhi-agra-with-taj-mahal",
+          "title": "Delhi: 2-Day Private Delhi & Agra with Taj Mahal Tour by Car",
+          "description": "Delhi: 2-day private Delhi and Agra with Taj Mahal tour by car.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/delhi-2-day-private-delhi-agra-with-taj-mahal/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Taj sunrise plus Old Delhi, one itinerary",
+        "icon": "sun",
+        "content": "For people who want sunrise at the Taj and Old Delhi in a single tour.",
+        "tourCard": {
+          "slug": "from-delhi-taj-mahal-sunrise-and-old-delhi-tour",
+          "title": "From Delhi: Taj Mahal Sunrise and Old Delhi Tour - By Car",
+          "description": "From Delhi: Taj Mahal sunrise and Old Delhi tour by car.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-taj-mahal-sunrise-and-old-delhi-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "How to split two days",
+        "icon": "scale",
+        "content": "- **Day 1:** Old Delhi, Red Fort area, Humayun's Tomb, India Gate.\n- **Day 2:** leave Delhi early or stay in Agra overnight.\n\nSee [Delhi to Agra](/india/agra/delhi-to-agra) and [best overnight tour](/india/agra/best-overnight-taj-mahal-tour-from-delhi)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Is two days enough for Delhi and the Taj?",
+        "a": "Yes, for the highlights of both."
+      },
+      {
+        "q": "Should I stay overnight in Agra?",
+        "a": "It is better for sunrise; otherwise return to Delhi."
+      },
+      {
+        "q": "Which is better, car or train?",
+        "a": "A car gives flexibility; a train saves time."
+      },
+      {
+        "q": "Can I add Jaipur?",
+        "a": "That makes a 3-day Golden Triangle."
+      },
+      {
+        "q": "What is the best season?",
+        "a": "October to March."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is two days enough for Delhi and the Taj?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, for the highlights of both."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Should I stay overnight in Agra?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is better for sunrise; otherwise return to Delhi."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which is better, car or train?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A car gives flexibility; a train saves time."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I add Jaipur?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "That makes a 3-day Golden Triangle."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the best season?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "October to March."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "can-you-visit-the-taj-mahal-from-mumbai-bangalore-or-goa": {
+    "title": "Can You Visit the Taj Mahal from Mumbai, Bangalore or Goa in a Day or Two?",
+    "seoTitle": "Taj Mahal Tour from Mumbai, Bangalore, Goa 2026",
+    "description": "Flying in for the Taj Mahal: same-day trips from Mumbai, a 2-day plan from Bangalore, and a Goa tour with flights. Three real tours.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/from-mumbaisame-day-agra-taj-mahal-tour/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "plane",
+        "content": "Yes, and it is more common than it sounds. The usual route is a **flight to Delhi**, then a car or train to Agra and back, as a long same-day trip. From farther away, such as Bangalore, a **two-day** plan is kinder. Check each listing for what is included: some include flights, some begin at the airport in Delhi. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "From Mumbai, same-day Agra and Taj Mahal",
+        "icon": "plane",
+        "content": "A same-day Taj tour for those flying from Mumbai.",
+        "tourCard": {
+          "slug": "from-mumbaisame-day-agra-taj-mahal-tour",
+          "title": "From Mumbai:Same Day Agra Taj Mahal Tour",
+          "description": "From Mumbai: same day Agra Taj Mahal tour.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-mumbaisame-day-agra-taj-mahal-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "From Bangalore, 2 days all inclusive",
+        "icon": "calendar",
+        "content": "A two-day plan with city touring included.",
+        "tourCard": {
+          "slug": "2-day-all-inclusive-taj-mahal-agra-city-tour",
+          "title": "2 Day All Inclusive Taj Mahal & Agra City Tour From Banglore",
+          "description": "2-day all-inclusive Taj Mahal and Agra city tour from Bangalore.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/2-day-all-inclusive-taj-mahal-agra-city-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "From Goa, with flight and guide",
+        "icon": "sun",
+        "content": "A Goa-based tour that includes the flight and a guide.",
+        "tourCard": {
+          "slug": "from-goa-to-agra-taj-mahal-tour-with-flight",
+          "title": "From Goa : To Agra & Taj Mahal Tour with Flight & Guide",
+          "description": "From Goa: to Agra and Taj Mahal tour with flight and guide.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-goa-to-agra-taj-mahal-tour-with-flight/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Before you book",
+        "icon": "list-checks",
+        "content": "- Are **flights included** or separate?\n- What is the **return flight time**? Keep two hours spare.\n- Is the plan **Delhi to Agra by car or train**?\n\nSee [same-day Agra tour from Delhi](/india/agra/same-day-agra-tour-from-delhi)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Can I do the Taj Mahal in one day from Mumbai?",
+        "a": "Yes, by flying to Delhi and going by car or train. It is a long day."
+      },
+      {
+        "q": "Is Agra connected by direct flights?",
+        "a": "Check current schedules; most visitors go via Delhi."
+      },
+      {
+        "q": "Are flights included in the tour price?",
+        "a": "Depends on the listing; check each page."
+      },
+      {
+        "q": "How many days from Bangalore?",
+        "a": "Two days is comfortable."
+      },
+      {
+        "q": "Which day should I avoid?",
+        "a": "Friday, as the Taj is closed."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Can I do the Taj Mahal in one day from Mumbai?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, by flying to Delhi and going by car or train. It is a long day."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Agra connected by direct flights?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Check current schedules; most visitors go via Delhi."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are flights included in the tour price?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the listing; check each page."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How many days from Bangalore?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Two days is comfortable."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which day should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Friday, as the Taj is closed."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-agra-elephant-sanctuary-tour": {
+    "title": "Can You Visit an Elephant Rescue Centre near Agra? The Best Tours",
+    "seoTitle": "Agra Elephant Sanctuary Tour 2026: Ethical Visit",
+    "description": "Visiting a rescue and care centre for elephants near Agra, combined with a Taj Mahal sunrise. What to expect and two real tours.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/agra-sunrise-taj-mahal-tour-elephant-sanctuary/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "heart",
+        "content": "Yes. There is an **elephant rescue and care centre** within reach of Agra, and some tours pair it with the Taj. It is a place where rescued elephants live and are looked after, not a ride attraction. If animal welfare matters to you, ask the operator what the visit involves before you book. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Sunrise Taj and elephant sanctuary, one day",
+        "icon": "sun",
+        "content": "A full day pairing the Taj at sunrise with the sanctuary.",
+        "tourCard": {
+          "slug": "agra-sunrise-taj-mahal-tour-elephant-sanctuary",
+          "title": "Agra: Sunrise Taj Mahal Tour & Elephant Sanctuary Day Tour",
+          "description": "Agra: sunrise Taj Mahal tour and elephant sanctuary day tour.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-sunrise-taj-mahal-tour-elephant-sanctuary/img0/1600.webp"
+        }
+      },
+      {
+        "title": "2 days: Taj sunrise, Agra and elephant rescue",
+        "icon": "calendar",
+        "content": "A two-day tour that adds the rescue centre.",
+        "tourCard": {
+          "slug": "2-day-taj-mahal-sunrise-agra-tour-with-elephant",
+          "title": "2-Day Taj Mahal Sunrise & Agra Tour with Elephant Rescue",
+          "description": "2-day Taj Mahal sunrise and Agra tour with elephant rescue.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/2-day-taj-mahal-sunrise-agra-tour-with-elephant/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Things to check",
+        "icon": "list-checks",
+        "content": "- Is there **no riding**?\n- How many **visitors per group**?\n- What is the **visit time**? Many rescue centres have fixed windows.\n\nSee our [best full-day Agra tour](/india/agra/best-full-day-agra-tour)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Can I ride the elephants?",
+        "a": "Rescue centres do not offer rides. Check the listing."
+      },
+      {
+        "q": "Is it good for children?",
+        "a": "Often yes, but check age notes."
+      },
+      {
+        "q": "How far is it from Agra?",
+        "a": "Within a short drive; the tour page gives timings."
+      },
+      {
+        "q": "Can I combine it with the Taj?",
+        "a": "Yes, both tours below do."
+      },
+      {
+        "q": "When is the best time?",
+        "a": "Morning visits are cooler."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Can I ride the elephants?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rescue centres do not offer rides. Check the listing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it good for children?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Often yes, but check age notes."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How far is it from Agra?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Within a short drive; the tour page gives timings."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I combine it with the Taj?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, both tours below do."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "When is the best time?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Morning visits are cooler."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "can-i-wear-a-saree-to-the-taj-mahal-tour": {
+    "title": "Can I Rent a Saree or Kurta for the Taj Mahal? The Best Tours with a Dress-Up Experience",
+    "seoTitle": "Taj Mahal Saree Rental Photo Tour 2026",
+    "description": "Renting a saree or kurta for your Taj Mahal visit and photos: how it works, and three real tours including henna.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/rent-a-sari-or-kurta-pajama-for-taj-mahal/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "sparkles",
+        "content": "Yes. Several tours let you **rent a saree or kurta pajama** for your visit, with help dressing and a photographer or guide who knows the best angles. It is popular with couples, friends and families, and it makes the photographs very different. Wear light layers underneath because the Taj is hot for much of the year. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Rent a saree or kurta pajama for the Taj",
+        "icon": "sparkles",
+        "content": "A four-hour experience built around the outfit.",
+        "tourCard": {
+          "slug": "rent-a-sari-or-kurta-pajama-for-taj-mahal",
+          "title": "Rent a sari or kurta pajama for Taj Mahal visit & picture",
+          "description": "Rent a sari or kurta pajama for a Taj Mahal visit and pictures.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/rent-a-sari-or-kurta-pajama-for-taj-mahal/img0/1600.webp"
+        }
+      },
+      {
+        "title": "From Delhi or Agra, with rental saree experience",
+        "icon": "car",
+        "content": "A ten-hour day tour with the saree experience included.",
+        "tourCard": {
+          "slug": "from-delhiagra-taj-mahal-tour-with-rental-saree-ex",
+          "title": "From Delhi/Agra: Taj Mahal Tour with Rental Saree Experience",
+          "description": "From Delhi or Agra: Taj Mahal tour with rental saree experience.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-delhiagra-taj-mahal-tour-with-rental-saree-ex/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Add a henna experience",
+        "icon": "palette",
+        "content": "A traditional henna design session to pair with your visit.",
+        "tourCard": {
+          "slug": "agra-traditional-indian-henna-design-experience",
+          "title": "Agra: Traditional Indian Henna Design Experience",
+          "description": "Agra: traditional Indian henna design experience.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-traditional-indian-henna-design-experience/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Tips",
+        "icon": "info",
+        "content": "- Choose lighter colours for the heat.\n- Ask about **sizes and changing facilities**.\n- A sunrise visit is cooler.\n\nSee our [Instagram photoshoot tours](/india/agra/best-taj-mahal-instagram-photoshoot-tour)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Is it allowed at the Taj Mahal?",
+        "a": "Yes; many visitors wear traditional clothing."
+      },
+      {
+        "q": "Is the outfit included?",
+        "a": "On these listings, yes. Check the page."
+      },
+      {
+        "q": "Can men rent outfits too?",
+        "a": "Yes; kurta pajama is offered."
+      },
+      {
+        "q": "How long does dressing take?",
+        "a": "About 30 to 45 minutes."
+      },
+      {
+        "q": "Is it comfortable in summer?",
+        "a": "Choose light fabrics and an early slot."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is it allowed at the Taj Mahal?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes; many visitors wear traditional clothing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the outfit included?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On these listings, yes. Check the page."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can men rent outfits too?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes; kurta pajama is offered."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does dressing take?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "About 30 to 45 minutes."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it comfortable in summer?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Choose light fabrics and an early slot."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-holi-tours-near-agra-mathura-vrindavan": {
+    "title": "Where Can You Celebrate Holi near Agra? The Best Holi Tours",
+    "seoTitle": "Best Holi Tours near Agra, Mathura and Vrindavan 2027",
+    "description": "Holi in Agra, Mathura and Vrindavan: what to expect, how to stay comfortable, and real Holi day trips and a Golden Triangle Holi tour.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/holi-celebration-day-trip-to-mathura-vrindavan/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "sparkles",
+        "content": "**Mathura and Vrindavan**, about an hour from Agra, are where Holi is at its most famous, with temple celebrations that run for days. Holi falls in **March** and moves every year. It is joyful, crowded and messy, so go with a guide who knows the temple timings and safe spots. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Holi day trip to Mathura and Vrindavan",
+        "icon": "sparkles",
+        "content": "A guided Holi day trip to the two temple towns.",
+        "tourCard": {
+          "slug": "holi-celebration-day-trip-to-mathura-vrindavan",
+          "title": "Holi Celebration Day Trip to Mathura & Vrindavan with Guide",
+          "description": "Holi celebration day trip to Mathura and Vrindavan with a guide.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/holi-celebration-day-trip-to-mathura-vrindavan/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Same-day Taj Mahal with Holi celebration",
+        "icon": "landmark",
+        "content": "The Taj and a Holi celebration on the same day.",
+        "tourCard": {
+          "slug": "same-day-tajmahal-tour-with-holi-celebration",
+          "title": "Same Day Tajmahal tour with Holi Celebration",
+          "description": "Same day Taj Mahal tour with Holi celebration.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/same-day-tajmahal-tour-with-holi-celebration/img0/1600.webp"
+        }
+      },
+      {
+        "title": "7-day Golden Triangle with Holi",
+        "icon": "route",
+        "content": "A week-long private Golden Triangle timed for Holi.",
+        "tourCard": {
+          "slug": "7-days-private-golden-triangle-tour-with-holi",
+          "title": "7 Days Private Golden Triangle Tour With Holi Festival 2027",
+          "description": "7-day private Golden Triangle tour with Holi festival 2027.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/7-days-private-golden-triangle-tour-with-holi/img0/1600.webp"
+        }
+      },
+      {
+        "title": "How to enjoy Holi safely",
+        "icon": "shield",
+        "content": "- Wear clothes you are happy to throw away; cover your phone and camera.\n- Use oil on skin and hair before you go.\n- Women should go with a guide or group.\n- Book **well ahead**; this is the busiest week of the year.\n\nSee [Mathura and Vrindavan tours](/india/agra/best-agra-tour-with-mathura-vrindavan)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "When is Holi?",
+        "a": "In March; the date changes each year."
+      },
+      {
+        "q": "Where is Holi best near Agra?",
+        "a": "Mathura and Vrindavan."
+      },
+      {
+        "q": "Is the Taj open on Holi?",
+        "a": "Check the day; the Taj is closed on Fridays."
+      },
+      {
+        "q": "Is it safe for tourists?",
+        "a": "With a guide, yes. Be prepared for crowds."
+      },
+      {
+        "q": "What should I bring?",
+        "a": "Old clothes, sunglasses, a waterproof phone cover."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "When is Holi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In March; the date changes each year."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Where is Holi best near Agra?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mathura and Vrindavan."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Taj open on Holi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Check the day; the Taj is closed on Fridays."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it safe for tourists?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With a guide, yes. Be prepared for crowds."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What should I bring?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Old clothes, sunglasses, a waterproof phone cover."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-half-day-agra-tour": {
+    "title": "What Can You See in a Half Day in Agra? The Best Half-Day Tours",
+    "seoTitle": "Best Half-Day Agra Tour 2026: Taj and Fort",
+    "description": "Half a day in Agra: what fits, what does not, and four real half-day tours including Taj Mahal and Agra Fort with lunch.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/taj-mahal-mahal-private-tour/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "clock",
+        "content": "In four to five hours you can see the **Taj Mahal and Agra Fort** properly, with a guide, if you start early. You will not fit Fatehpur Sikri or Sikandra. A half day suits people on a tight schedule, or arriving by train from Delhi with only a morning. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Taj Mahal and Agra Fort, half day private",
+        "icon": "landmark",
+        "content": "The classic half day, private.",
+        "tourCard": {
+          "slug": "taj-mahal-mahal-private-tour",
+          "title": "Agra: Taj Mahal & Agra Fort Half-Day Private Tour",
+          "description": "Agra: Taj Mahal and Agra Fort half-day private tour.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/taj-mahal-mahal-private-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Taj and Fort with a 5-star lunch",
+        "icon": "utensils",
+        "content": "A half day that ends with a proper lunch.",
+        "tourCard": {
+          "slug": "agra-taj-mahal-agra-fort-private-tour-with-5lunch",
+          "title": "Agra: Taj Mahal & Agra Fort Private Tour with 5*Lunch",
+          "description": "Agra: Taj Mahal and Agra Fort private tour with 5-star lunch.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-taj-mahal-agra-fort-private-tour-with-5lunch/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Local private half day, custom itinerary",
+        "icon": "settings-2",
+        "content": "A custom half day.",
+        "tourCard": {
+          "slug": "local-agra-private-half-day-tour-with-custom-itine",
+          "title": "Local Agra Private Half-Day Tour with Custom Itinerary",
+          "description": "Local Agra private half-day tour with custom itinerary.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/local-agra-private-half-day-tour-with-custom-itine/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Taj and Fort, full or half day",
+        "icon": "scale",
+        "content": "Choose a full or half day on the same listing.",
+        "tourCard": {
+          "slug": "agra-taj-mahal-agra-full-or-half-day-tour",
+          "title": "Agra: Taj Mahal Agra Full or Half Day Tour with Local Guide",
+          "description": "Agra: Taj Mahal, Agra full or half day tour with a local guide.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-taj-mahal-agra-full-or-half-day-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Making the most of four hours",
+        "icon": "list-checks",
+        "content": "- Start at **opening time**.\n- Do the Taj first, the Fort second.\n- Skip shopping stops; you do not have time.\n\nSee [best full-day Agra tour](/india/agra/best-full-day-agra-tour) if you have more time."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Can I see the Taj and Agra Fort in half a day?",
+        "a": "Yes, starting early with a guide."
+      },
+      {
+        "q": "Is a half day enough?",
+        "a": "For the highlights, yes."
+      },
+      {
+        "q": "What will I miss?",
+        "a": "Fatehpur Sikri, Sikandra and the shopping."
+      },
+      {
+        "q": "Is lunch included?",
+        "a": "On the lunch-inclusive tour, yes."
+      },
+      {
+        "q": "When is the best start time?",
+        "a": "At gate opening."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Can I see the Taj and Agra Fort in half a day?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, starting early with a guide."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is a half day enough?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For the highlights, yes."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What will I miss?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fatehpur Sikri, Sikandra and the shopping."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is lunch included?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On the lunch-inclusive tour, yes."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "When is the best start time?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "At gate opening."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-sunrise-taj-mahal-tour-from-delhi-by-car": {
+    "title": "Can You See Sunrise at the Taj Mahal on a Day Trip from Delhi? The Best Tours",
+    "seoTitle": "Taj Mahal Sunrise Tour from Delhi by Car 2026",
+    "description": "Reaching the Taj Mahal for sunrise from Delhi: what time you leave, whether it is worth it, and four real sunrise tours by car.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-taj-mahal-sunrise-tour-by-car-with/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "sun",
+        "content": "Yes, but it means an **extremely early start**: you leave Delhi in the small hours so you are at the gate when it opens, and Delhi to Agra is about **3.5 to 4 hours**. It is worth it for the light and the thin crowds. If you hate the idea, the overnight option gives the same sunrise with a bed in between. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Sunrise tour by car with all options",
+        "icon": "sun",
+        "content": "A sunrise tour from Delhi with options for the rest of the day.",
+        "tourCard": {
+          "slug": "from-delhi-taj-mahal-sunrise-tour-by-car-with",
+          "title": "From Delhi : Taj Mahal Sunrise tour by Car with All Options",
+          "description": "From Delhi: Taj Mahal sunrise tour by car with all options.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-taj-mahal-sunrise-tour-by-car-with/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Sunrise Taj and Agra Fort by AC car",
+        "icon": "car",
+        "content": "A sunrise day trip with the Fort included.",
+        "tourCard": {
+          "slug": "from-delhi-sunrise-taj-mahal-agra-fort-day-trip",
+          "title": "From Delhi: Sunrise Taj Mahal & Agra Fort Day Trip by AC Car",
+          "description": "From Delhi: sunrise Taj Mahal and Agra Fort day trip by AC car.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-sunrise-taj-mahal-agra-fort-day-trip/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Sunrise plus Old Delhi",
+        "icon": "map",
+        "content": "A longer day that adds Old Delhi on the return.",
+        "tourCard": {
+          "slug": "from-delhi-taj-mahal-sunrise-and-old-delhi-tour",
+          "title": "From Delhi: Taj Mahal Sunrise and Old Delhi Tour - By Car",
+          "description": "From Delhi: Taj Mahal sunrise and Old Delhi tour by car.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-taj-mahal-sunrise-and-old-delhi-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "All-inclusive sunrise photography",
+        "icon": "camera",
+        "content": "A five-and-a-half-hour all-inclusive sunrise photography tour.",
+        "tourCard": {
+          "slug": "from-delhi-all-inclusive-taj-mahal-sunrise-photogr",
+          "title": "From Delhi: All-Inclusive Taj Mahal Sunrise Photography Tour",
+          "description": "From Delhi: all-inclusive Taj Mahal sunrise photography tour.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-all-inclusive-taj-mahal-sunrise-photogr/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Sunrise from Delhi: day trip or overnight?",
+        "icon": "scale",
+        "content": "- **Day trip:** cheaper, but a very short night.\n- **Overnight:** see the [overnight tour](/india/agra/best-overnight-taj-mahal-tour-from-delhi) for a calmer plan.\n\nMore on [sunrise tours](/india/agra/best-taj-mahal-sunrise-tour)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What time do I leave Delhi for sunrise?",
+        "a": "In the small hours, usually between 1 and 2 am, depending on the season."
+      },
+      {
+        "q": "Is it worth it?",
+        "a": "For the light and the quiet, yes."
+      },
+      {
+        "q": "Is the Taj open on Fridays?",
+        "a": "No, it is closed."
+      },
+      {
+        "q": "Is the road safe at night?",
+        "a": "The expressway is good; use a licensed operator."
+      },
+      {
+        "q": "What if I am too tired?",
+        "a": "Stay overnight in Agra instead."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What time do I leave Delhi for sunrise?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In the small hours, usually between 1 and 2 am, depending on the season."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth it?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For the light and the quiet, yes."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Taj open on Fridays?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, it is closed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the road safe at night?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The expressway is good; use a licensed operator."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What if I am too tired?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Stay overnight in Agra instead."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "best-agra-cooking-class": {
+    "title": "Is a Cooking Class in Agra Worth Doing? The Best Ones",
+    "seoTitle": "Best Agra Cooking Class 2026: Real Options",
+    "description": "Cooking in Agra with a local: what you learn, vegetarian options, and three real classes including a heritage walk.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/food-tour-agra-food-tour/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "icon": "chef-hat",
+        "content": "Yes, especially if you are cautious about street food. A class takes you through a **local kitchen**, usually with a market stop first, and ends with you eating what you made. Most classes are **vegetarian-friendly** and teach the basics of Indian spice use. Good for couples, families and solo travellers. Every tour below is a real listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers."
+      },
+      {
+        "title": "Cooking class in Agra",
+        "icon": "chef-hat",
+        "content": "A classic Agra cooking class.",
+        "tourCard": {
+          "slug": "food-tour-agra-food-tour",
+          "title": "Agra Cooking Classes",
+          "description": "Agra cooking classes.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/food-tour-agra-food-tour/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Cooking class with Taj views",
+        "icon": "heart",
+        "content": "A three-hour class close to the Taj.",
+        "tourCard": {
+          "slug": "cooking-class-with-taj",
+          "title": "Cooking class with taj",
+          "description": "Cooking class with Taj.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/cooking-class-with-taj/img0/1600.webp"
+        }
+      },
+      {
+        "title": "Heritage walk plus cooking class",
+        "icon": "footprints",
+        "content": "A five-hour combination of a walk and a class.",
+        "tourCard": {
+          "slug": "from-agra-guided-heritage-walk-local-cooking-class",
+          "title": "From Agra: Guided Heritage Walk & Local Cooking Class Tour",
+          "description": "From Agra: guided heritage walk and local cooking class tour.",
+          "image": "https://images.asiabylocals.com/asiabylocals/tours/from-agra-guided-heritage-walk-local-cooking-class/img0/1600.webp"
+        }
+      },
+      {
+        "title": "What to expect",
+        "icon": "info",
+        "content": "- You usually **cook 3 to 4 dishes**.\n- Tell the host about allergies and spice tolerance.\n- Ask for the recipes.\n\nSee also [Agra street food tours](/india/agra/best-agra-street-food-tour)."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Is a cooking class vegetarian?",
+        "a": "Most are; ask for non-vegetarian if you want it."
+      },
+      {
+        "q": "How long is a class?",
+        "a": "Two to five hours."
+      },
+      {
+        "q": "Can children join?",
+        "a": "Often yes; check the page."
+      },
+      {
+        "q": "Do I get recipes?",
+        "a": "Ask on the day."
+      },
+      {
+        "q": "Is it good for solo travellers?",
+        "a": "Yes; classes are friendly."
+      }
+    ],
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is a cooking class vegetarian?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most are; ask for non-vegetarian if you want it."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long is a class?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Two to five hours."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can children join?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Often yes; check the page."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do I get recipes?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ask on the day."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it good for solo travellers?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes; classes are friendly."
+              }
+            }
+          ]
+        }
+      ]
+    }
   }
 };
 export const AGRA_BEST_SLUGS = Object.keys(PAGES);
