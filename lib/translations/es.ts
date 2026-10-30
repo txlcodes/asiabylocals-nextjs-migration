@@ -49365,6 +49365,21 @@ export const ES_TOURS: Record<string, TourT> = {
    "costos de transporte"
   ]
  },
+ "west-bali-national-park-bird-watching-tour-ubud": {
+  "title": "Parque Nacional del Oeste de Bali: Tour de Observacion de Aves (Ubud)",
+  "metaTitle": "Parque Nacional del Oeste de Bali: Tour de Observacion de Aves",
+  "shortDescription": "Recorrido de 2,5 horas en Ubud, con tarifa de entrada al Parque Nacional del Oeste de Bali, guia local profesional de observacion de aves y caminata guiada de observacion de aves en el parque nacional. Reserva directa con Menjangan Tour Snorkeling & Diving, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 2,5 horas en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nEl oeste de Bali es el extremo vacio de la isla, a tres o cuatro horas de Ubud, donde el Parque Nacional del Oeste de Bali cubre unos 190 kilometros cuadrados de bosque seco, manglar y sabana en la punta noroeste y es el ultimo refugio del estornino de Bali, el ave blanca endemica de la isla, recuperada a partir de una poblacion salvaje de apenas unas docenas. La isla de Menjangan, dentro del parque, tiene el agua mas clara y el mejor esnorquel y buceo de pared de Bali, a la que se llega en barco desde Labuhan Lalang o Pemuteran. Banyuwedang tiene aguas termales y canales de manglar en barco. Es una larga excursion de un dia o, mejor, una noche en Pemuteran.\n\nEl precio incluye tarifa de entrada al Parque Nacional del Oeste de Bali, guia local profesional de observacion de aves y caminata guiada de observacion de aves en el parque nacional. No incluye recogida y traslado de regreso al hotel (salvo que se seleccione como extra) y Comida y bebidas, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPejarakan.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "tarifa de entrada al Parque Nacional del Oeste de Bali",
+   "guia local profesional de observacion de aves",
+   "caminata guiada de observacion de aves en el parque nacional"
+  ],
+  "notIncluded": [
+   "recogida y traslado de regreso al hotel (salvo que se seleccione como extra)",
+   "Comida y bebidas"
+  ]
+ },
  "mount-agung-sunrise-trekking-with-breakfast-in-ubud": {
   "title": "Caminata al amanecer al monte Agung con desayuno desde Ubud",
   "metaTitle": "Caminata al amanecer al monte Agung con desayuno desde Ubud",
@@ -50279,6 +50294,24 @@ export const ES_TOURS: Record<string, TourT> = {
    "fotos o videos"
   ]
  },
+ "bites-food-tour-with-over-15-tastings-in-ubud": {
+  "title": "Bites Food Tour con Mas de 15 Degustaciones en Ubud",
+  "metaTitle": "Bites Food Tour con Mas de 15 Degustaciones en Ubud",
+  "shortDescription": "Recorrido de 4 horas en Ubud, con Denpasar. Reserva directa con A Chef's Tour, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 4 horas desde Ubud, organizada en torno a Denpasar. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLa comida balinesa se basa en base genep, la pasta de especias de la isla, y se come en warungs y mercados nocturnos mas que en restaurantes. Babi guling, cerdo asado al espeton con corteza crujiente y arroz especiado, es el plato por el que la isla es conocida; nasi campur es arroz con una cucharada de varias cosas; sate lilit es carne picada sobre citronela; y lawar es la ensalada picada que acompana a casi todo. El mercado nocturno de Gianyar abre hacia las 17:00 y es el mejor cerca de Ubud. Los tours gastronomicos paran en seis a diez lugares para porciones pequenas, asi que llegue con hambre, y avise al guia pronto sobre su tolerancia al picante, porque el sambal balines no es suave.\n\nEl precio incluye mas de 15 degustaciones incluidas, mas que cualquier otro tour gastronomico en Bali, festin ambulante con 7 a 8 paradas por las calles del antiguo Denpasar, maximo 8 huespedes exclusivos, el grupo mas pequeno de Bali (tour privado, o para 9 o mas huespedes, contactenos), agua embotellada y bebidas locales incluidas y la duracion es de aproximadamente 3 a 4 horas, segun el ritmo del grupo. No incluye bebidas alcoholicas, recogida y traslado de regreso al hotel (hay un punto de encuentro facil de encontrar para todos los huespedes) y las dietas vegetarianas tienen 3 a 4 degustaciones menos debido a alternativas limitadas en algunos puestos, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nInna Bali Heritage Hotel.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "mas de 15 degustaciones incluidas, mas que cualquier otro tour gastronomico en Bali",
+   "festin ambulante con 7 a 8 paradas por las calles del antiguo Denpasar",
+   "maximo 8 huespedes exclusivos, el grupo mas pequeno de Bali (tour privado, o para 9 o mas huespedes, contactenos)",
+   "agua embotellada y bebidas locales incluidas",
+   "la duracion es de aproximadamente 3 a 4 horas, segun el ritmo del grupo"
+  ],
+  "notIncluded": [
+   "bebidas alcoholicas",
+   "recogida y traslado de regreso al hotel (hay un punto de encuentro facil de encontrar para todos los huespedes)",
+   "las dietas vegetarianas tienen 3 a 4 degustaciones menos debido a alternativas limitadas en algunos puestos"
+  ]
+ },
  "mount-agung-sunrise-trekking-all-inclusive-tour-in-ubud": {
   "title": "Caminata al amanecer al monte Agung, tour todo incluido desde Ubud",
   "metaTitle": "Caminata al amanecer al monte Agung, tour todo incluido desde",
@@ -50538,6 +50571,16 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales",
    "propina"
   ]
+ },
+ "nusa-penida-diving-tour-with-hotel-transfer-and-lunch": {
+  "title": "Tour de Buceo en Nusa Penida con Traslado al Hotel y Almuerzo",
+  "metaTitle": "Tour de Buceo en Nusa Penida con Traslado al Hotel y Almuerzo",
+  "shortDescription": "Recorrido de 6 horas en Nusa Penida, con Nusa Penida. Reserva directa con KRISS Bali Diving, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 6 horas en Nusa Penida, organizada en torno a Nusa Penida. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nNusa Penida es la mas grande de las tres islas frente a la costa sureste de Bali, unos 200 kilometros cuadrados de piedra caliza con acantilados al sur y al oeste y unos pocos pueblos en la costa norte donde atracan los barcos. Apenas tiene trafico, pero sus carreteras son estrechas y lentas, por lo que una excursion de un dia cubre el lado oeste (Kelingking, Broken Beach, Angel's Billabong) o el este (Diamond Beach, Atuh, Tree House), no ambos. Los barcos rapidos desde Sanur tardan entre treinta y cuarenta y cinco minutos, salen a partir de las 7:00 aproximadamente, y se cancelan o retrasan con oleaje fuerte. Lleve efectivo: los terminales de tarjeta son escasos y los cajeros poco fiables.\n\nEl precio incluye 3 inmersiones. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSanur.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "3 inmersiones"
+  ],
+  "notIncluded": []
  },
  "7-day-guided-tour-with-accommodation-in-nusa-penida": {
   "title": "Tour guiado de 7 dias con alojamiento en Nusa Penida",
@@ -50913,6 +50956,18 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "nusa-lembongan-and-nusa-ceningan-trip-by-boat": {
+  "title": "Excursion en Barco a Nusa Lembongan y Nusa Ceningan",
+  "metaTitle": "Excursion en Barco a Nusa Lembongan y Nusa Ceningan",
+  "shortDescription": "Recorrido de 6 horas en Nusa Penida, con Nusa Lembongan and Ceningan island. Reserva directa con Made Bati Tour and Travel, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 6 horas desde Nusa Penida, organizada en torno a Nusa Lembongan and Ceningan island. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nNusa Lembongan es la pequena isla entre Bali y Nusa Penida, a media hora de Sanur en barco rapido, con un ritmo mas tranquilo que ambas. Los dias aqui suelen incluir Devil's Tear, donde el oleaje revienta a traves de una plataforma rocosa en la costa suroeste, los canales de manglar en el lado noreste en barca pequena, y el Puente Amarillo hacia Nusa Ceningan y su Laguna Azul. El esnorquel se hace frente a la costa norte y en la deriva de Mangrove Point, y las mantarrayas se alcanzan con otro trayecto en barco hasta Penida. El cultivo de algas que antes cubria los bajios ha desaparecido casi por completo, pero todavia se pueden ver los armazones en marea baja.\n\nEl precio incluye billete de lancha rapida de ida y vuelta de Sanur a Nusa Lembongan, transporte en barco entre Bali y Nusa Lembongan y tour por las islas de Nusa Lembongan y Nusa Ceningan. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nTanis Office Check In.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "billete de lancha rapida de ida y vuelta de Sanur a Nusa Lembongan",
+   "transporte en barco entre Bali y Nusa Lembongan",
+   "tour por las islas de Nusa Lembongan y Nusa Ceningan"
+  ],
+  "notIncluded": []
+ },
  "nusa-penida-day-tour-and-snorkeling": {
   "title": "Tour de un dia por Nusa Penida y snorkel",
   "metaTitle": "Tour de un dia por Nusa Penida y snorkel",
@@ -51093,6 +51148,22 @@ export const ES_TOURS: Record<string, TourT> = {
    "gastos personales fuera de la excursion",
    "los traslados desde Bali son extras opcionales",
    "los tours terrestres en Penida son extras opcionales"
+  ]
+ },
+ "beginner-scuba-diving-with-2-ocean-dives-in-nusa-penida": {
+  "title": "Buceo para Principiantes con 2 Inmersiones en el Mar en Nusa Penida",
+  "metaTitle": "Buceo para Principiantes con 2 Inmersiones en el Mar en Nusa",
+  "shortDescription": "Recorrido de 8 horas en Nusa Penida, con Nusa Penida y Manta Point and Crystal Bay. Reserva directa con Jukung Dive Resort Bali, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 8 horas en Nusa Penida, organizada en torno a Nusa Penida y Manta Point and Crystal Bay. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nNusa Penida es la mas grande de las tres islas frente a la costa sureste de Bali, unos 200 kilometros cuadrados de piedra caliza con acantilados al sur y al oeste y unos pocos pueblos en la costa norte donde atracan los barcos. Apenas tiene trafico, pero sus carreteras son estrechas y lentas, por lo que una excursion de un dia cubre el lado oeste (Kelingking, Broken Beach, Angel's Billabong) o el este (Diamond Beach, Atuh, Tree House), no ambos. Los barcos rapidos desde Sanur tardan entre treinta y cuarenta y cinco minutos, salen a partir de las 7:00 aproximadamente, y se cancelan o retrasan con oleaje fuerte. Lleve efectivo: los terminales de tarjeta son escasos y los cajeros poco fiables.\n\nEl precio incluye instructor profesional PADI, 1 sesion de entrenamiento en piscina y 2 inmersiones guiadas en el mar. No incluye traslados al hotel desde fuera de Nusa Penida, Gastos personales y inmersion adicional opcional mas alla de las 2 incluidas, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nJukung Dive Resort Penida.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "instructor profesional PADI",
+   "1 sesion de entrenamiento en piscina",
+   "2 inmersiones guiadas en el mar"
+  ],
+  "notIncluded": [
+   "traslados al hotel desde fuera de Nusa Penida",
+   "Gastos personales",
+   "inmersion adicional opcional mas alla de las 2 incluidas"
   ]
  },
  "nusa-lembongan-cruise-with-snorkeling-and-bbq-lunch": {
@@ -51363,6 +51434,21 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "actividades opcionales de deportes acuaticos disponibles para comprar en el lugar"
+  ]
+ },
+ "nusa-lembongan-manta-snorkeling-trip-mangrove-and-island-tour-nusa-penida": {
+  "title": "Nusa Lembongan: Snorkel con Mantarrayas, Manglar y Tour de la Isla (Nusa Penida)",
+  "metaTitle": "Nusa Lembongan: Snorkel con Mantarrayas, Manglar y Tour de la",
+  "shortDescription": "Recorrido de 3 horas en Nusa Penida, con Lembongan Snorkeling Trips y Manta Bay and Crystal Bay. Reserva directa con The Kara Trip, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 3 horas desde Nusa Penida, organizada en torno a Lembongan Snorkeling Trips y Manta Bay and Crystal Bay. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nHacer esnorquel frente a Nusa Penida gira en torno a las mantarrayas de arrecife de Manta Point, en la costa sur de la isla, donde estan presentes todo el ano, alimentandose y siendo limpiadas en el oleaje al pie de los acantilados. Los barcos luego se trasladan a puntos mas tranquilos como Crystal Bay, Gamat Bay y el muro de Buyuk en busca de coral y peces. Entre julio y octubre, Crystal Bay es tambien el lugar al que llegan los buceadores por el pez luna oceanico, mola mola, que sube desde aguas profundas en los meses mas frescos. Manta Point esta expuesto al oleaje del sur y los barcos lo evitan cuando el mar esta agitado, por lo que un dia aqui siempre depende del clima. El cruce desde Sanur dura entre treinta y cuarenta y cinco minutos.\n\nEl precio incluye recogida y traslado de regreso al hotel en Nusa Lembongan, bebida de bienvenida y toalla, ducha, casillero, agua mineral. No incluye traje de bano y protector solar, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nNusa Lembongan.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "recogida y traslado de regreso al hotel en Nusa Lembongan",
+   "bebida de bienvenida",
+   "toalla, ducha, casillero, agua mineral"
+  ],
+  "notIncluded": [
+   "traje de bano",
+   "protector solar"
   ]
  },
  "manta-rays-snorkeling-trip-in-nusa-penida": {
@@ -51816,6 +51902,20 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Almuerzo",
    "Desayuno"
+  ]
+ },
+ "nusa-penida-blue-trails-manta-and-turtle-snorkeling-adventure-nusa-penida": {
+  "title": "Nusa Penida Blue Trails: Aventura de Snorkel con Mantarrayas y Tortugas (Nusa Penida)",
+  "metaTitle": "Nusa Penida Blue Trails: Aventura de Snorkel con Mantarrayas y",
+  "shortDescription": "Recorrido de 2 horas en Nusa Penida, con Speedboat. Reserva directa con Dede Bali Tour, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 2 horas desde Nusa Penida, organizada en torno a Speedboat. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nHacer esnorquel frente a Nusa Penida gira en torno a las mantarrayas de arrecife de Manta Point, en la costa sur de la isla, donde estan presentes todo el ano, alimentandose y siendo limpiadas en el oleaje al pie de los acantilados. Los barcos luego se trasladan a puntos mas tranquilos como Crystal Bay, Gamat Bay y el muro de Buyuk en busca de coral y peces. Entre julio y octubre, Crystal Bay es tambien el lugar al que llegan los buceadores por el pez luna oceanico, mola mola, que sube desde aguas profundas en los meses mas frescos. Manta Point esta expuesto al oleaje del sur y los barcos lo evitan cuando el mar esta agitado, por lo que un dia aqui siempre depende del clima. El cruce desde Sanur dura entre treinta y cuarenta y cinco minutos.\n\nEl precio incluye equipo de snorkel, asistencia de la tripulacion local y foto submarina DJI. No incluye Comida y bebidas, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nArjuna Beach Club Nusa penida.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "equipo de snorkel",
+   "asistencia de la tripulacion local",
+   "foto submarina DJI"
+  ],
+  "notIncluded": [
+   "Comida y bebidas"
   ]
  },
  "watersports-and-uluwatu-temple-private-tour": {
@@ -52835,6 +52935,24 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "regalo para ninos, opcional",
    "propina"
+  ]
+ },
+ "3-day-diving-tour-at-nusa-penida-amed-and-tulamben": {
+  "title": "Tour de Buceo de 3 Dias en Nusa Penida, Amed y Tulamben",
+  "metaTitle": "Tour de Buceo de 3 Dias en Nusa Penida, Amed y Tulamben",
+  "shortDescription": "Recorrido de 3 dias en Nusa Penida, con Equipment fitting & dive briefing y First dive: USAT Liberty Shipwreck and Surface interval with refreshments. Reserva directa con Auravena Travel, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 3 dias en Nusa Penida, organizada en torno a Equipment fitting & dive briefing y First dive: USAT Liberty Shipwreck and Surface interval with refreshments. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nNusa Penida es la mas grande de las tres islas frente a la costa sureste de Bali, unos 200 kilometros cuadrados de piedra caliza con acantilados al sur y al oeste y unos pocos pueblos en la costa norte donde atracan los barcos. Apenas tiene trafico, pero sus carreteras son estrechas y lentas, por lo que una excursion de un dia cubre el lado oeste (Kelingking, Broken Beach, Angel's Billabong) o el este (Diamond Beach, Atuh, Tree House), no ambos. Los barcos rapidos desde Sanur tardan entre treinta y cuarenta y cinco minutos, salen a partir de las 7:00 aproximadamente, y se cancelan o retrasan con oleaje fuerte. Lleve efectivo: los terminales de tarjeta son escasos y los cajeros poco fiables.\n\nEl precio incluye Recogida y traslado al hotel, guia de buceo profesional, briefings de buceo y 6 inmersiones de buceo (2 inmersiones por dia). No incluye Gastos personales, fotos y videos submarinos, inmersiones adicionales y propinas para guias y conductores, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nMeet your driver in the hotel lobby and begin the journey to Tulamben. Enjoy a scenic drive through East Bali before arriving at the dive center.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "Recogida y traslado al hotel",
+   "guia de buceo profesional",
+   "briefings de buceo",
+   "6 inmersiones de buceo (2 inmersiones por dia)"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "fotos y videos submarinos",
+   "inmersiones adicionales",
+   "propinas para guias y conductores"
   ]
  },
  "3-day-must-do-highlights-nature-and-culture-tour-in-nusa-penida": {
@@ -54411,6 +54529,23 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "horas extra, 50 K IDR por hora",
    "propinas opcionales"
+  ]
+ },
+ "guided-motorcycle-night-ride-with-photos-and-videos-in-canggu": {
+  "title": "Paseo Nocturno Guiado en Moto con Fotos y Videos en Canggu",
+  "metaTitle": "Paseo Nocturno Guiado en Moto con Fotos y Videos en Canggu",
+  "shortDescription": "Recorrido de 3,5 horas en Canggu, con Jl. Raya Semer Banjar semer No.60 and Starbucks Reserve Dewata. Reserva directa con PT. SOUL BIKES INDONESIA, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 3,5 horas desde Canggu, organizada en torno a Jl. Raya Semer Banjar semer No.60 and Starbucks Reserve Dewata. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nUn dia de puntos destacados alrededor de Ubud enlaza los lugares que mejor salen en foto en el orden que mejor conviene a la luz: Tegallalang antes de los autobuses, un columpio mientras la cola es corta, una cascada a media manana, y Tirta Empul o un templo por la tarde. Las distancias son cortas pero las carreteras son lentas, asi que el orden importa mas que la lista. Se necesitan sarongs en cada templo y se proporcionan en la entrada; los columpios y algunos miradores se pagan aparte del tour; y las tardes de temporada de lluvias, de noviembre a marzo, suelen traer lluvia a partir de las dos aproximadamente, por lo que estos dias empiezan temprano.\n\nEl precio incluye alquiler de moto, combustible para la ruta del tour y guia profesional en vivo. No incluye cena, Comida, Gastos personales y bebidas adicionales, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nIRON RENT - motorcycle rental.. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "alquiler de moto",
+   "combustible para la ruta del tour",
+   "guia profesional en vivo"
+  ],
+  "notIncluded": [
+   "cena",
+   "Comida",
+   "Gastos personales",
+   "bebidas adicionales"
   ]
  },
  "pool-pass-with-drink-sunbed-and-towel-in-canggu": {
