@@ -47663,6 +47663,37 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tarifa adicional de 100.000 IDR por gramo por encima de 5 gramos de plata"
   ]
  },
+ "tegalalang-rice-terrace-private-swing-tour-with-pickup-in-ubud": {
+  "title": "Tour privado en columpio a las terrazas de arroz de Tegalalang con recogida, Ubud",
+  "metaTitle": "Tour privado en columpio a las terrazas de arroz de Tegalalang",
+  "shortDescription": "Recorrido de 4 horas en Ubud, con recogida y regreso privados al hotel, visita privada a las terrazas de arroz de Tegalalang, visita ilimitada a los columpios y visita a una plantacion de cafe y te balinesa. Reserva directa con Batur explore by jeep, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 4 horas en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLas terrazas de arroz de Tegallalang estan a veinte minutos al norte de Ubud, en la carretera hacia Kintamani, y son arrozales en activo alimentados por el sistema de riego subak, declarado por la UNESCO en 2012. Antes de las 8:30 de la manana aproximadamente, el valle pertenece a los agricultores, los campos todavia estan humedos por la noche, y hace el fresco suficiente para caminar por las terrazas y subir por el otro lado. Hacia las diez llegan los autobuses del sur y la carretera sobre las terrazas se convierte en una fila de cafeterias, columpios y plataformas para fotos. Hay una pequena tarifa de entrada en el mirador, y agricultores a lo largo de los senderos entre los campos piden unos pocos miles de rupias por cruzar su terreno, lo cual es normal. Los columpios son negocios independientes con sus propios precios.\n\nEl precio incluye recogida y regreso privados al hotel, visita privada a las terrazas de arroz de Tegalalang, visita ilimitada a los columpios y visita a una plantacion de cafe y te balinesa. No incluye almuerzo (makan siang) y Gastos personales, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Ubud. Batur explore by jeep confirma la hora de recogida y el lugar exacto una vez realizada la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "recogida y regreso privados al hotel",
+   "visita privada a las terrazas de arroz de Tegalalang",
+   "visita ilimitada a los columpios",
+   "visita a una plantacion de cafe y te balinesa"
+  ],
+  "notIncluded": [
+   "almuerzo (makan siang)",
+   "Gastos personales"
+  ]
+ },
+ "trunyan-village-and-lake-batur-photography-tour-guide": {
+  "title": "Pueblo de Trunyan y tour fotografico en el lago Batur con guia",
+  "metaTitle": "Pueblo de Trunyan y tour fotografico en el lago Batur con guia",
+  "shortDescription": "Recorrido de 2,5 horas en Ubud, con guia local de Trunyan, transporte en barco por el lago Batur y experiencia en el pueblo de Trunyan. Reserva directa con Bali Yansu Tour, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 2,5 horas en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nEl monte Batur es un volcan activo de 1.717 metros que se alza dentro de una caldera mucho mas antigua, con el lago Batur en su fondo. Las caminatas al amanecer salen desde Toya Bungkah, en la orilla del lago, ascienden durante unas dos horas sobre arena volcanica y roca suelta, y buscan llegar al borde hacia las 5:30, ya que el sol sale entre las 6:00 y las 6:30 segun el mes, detras del cono del monte Agung al este. En la cumbre, antes del amanecer, suele haber entre 8 y 12 grados C con viento, por lo que una capa realmente abrigada importa mas que cualquier otra cosa que lleve. El trekking se organiza a traves de la asociacion local del pueblo, por eso cada tour, incluido el nuestro, viene con un guia, y la mayoria de las mananas terminan en las aguas termales de la orilla del lago. Las versiones en jeep y ATV suben hasta un mirador en el flanco del volcan para el mismo amanecer y evitan la subida a pie, lo cual es la opcion adecuada para las rodillas, los ninos pequenos y cualquiera que no haya dormido bien. En la temporada de lluvias, de noviembre a marzo, la cima suele estar entre nubes al amanecer y no hay reembolso por el clima.\n\nEl precio incluye guia local de Trunyan, transporte en barco por el lago Batur y experiencia en el pueblo de Trunyan. No incluye recogida y regreso al hotel, salvo que se seleccione y equipo fotografico profesional, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "guia local de Trunyan",
+   "transporte en barco por el lago Batur",
+   "experiencia en el pueblo de Trunyan"
+  ],
+  "notIncluded": [
+   "recogida y regreso al hotel, salvo que se seleccione",
+   "equipo fotografico profesional"
+  ]
+ },
  "bali-2-day-best-atv-rafting-and-nature-temples-ubud": {
   "title": "Bali en 2 dias: lo mejor de ATV, rafting, naturaleza y templos (Ubud)",
   "metaTitle": "Bali en 2 dias: lo mejor de ATV, rafting, naturaleza y templos",
@@ -47691,6 +47722,21 @@ export const ES_TOURS: Record<string, TourT> = {
    "Ceremonia de oracion tradicional"
   ],
   "notIncluded": []
+ },
+ "private-atv-and-rafting-adventure-with-lunch-in-ubud": {
+  "title": "Aventura privada en ATV y rafting con almuerzo en Ubud",
+  "metaTitle": "Aventura privada en ATV y rafting con almuerzo en Ubud",
+  "shortDescription": "Recorrido de 8 horas en Ubud, con traslados privados de ida y vuelta al hotel, vehiculo con aire acondicionado, Conductor y guia profesionales de habla inglesa y experiencia en cuatrimoto ATV, individual o en tandem segun la reserva. Reserva directa con kingdom bali, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 8 horas en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nEl rafting en aguas bravas cerca de Ubud se practica en el rio Ayung, unos doce kilometros de agua de clase II a III a traves de un canon debajo de Payangan, con una duracion de unas dos horas en el agua. El Telaga Waja, al este, es mas empinado, clase III a IV, y lo usan los operadores que buscan un descenso mas intenso. Ambos rios suben con fuerza tras la lluvia, lo que convierte la temporada de lluvias, de noviembre a marzo, en el descenso mas rapido, y la temporada seca en el mas tranquilo; los operadores cancelan cuando el rio esta realmente demasiado alto. Hay que bajar unos escalones hasta el punto de entrada y volver a subirlos al final, y todo lo que lleve se mojara, asi que deje los telefonos en la bolsa estanca que proporciona el operador.\n\nEl precio incluye traslados privados de ida y vuelta al hotel, vehiculo con aire acondicionado, Conductor y guia profesionales de habla inglesa y experiencia en cuatrimoto ATV, individual o en tandem segun la reserva. No incluye documentacion fotografica y de video profesional disponible para comprar en el lugar y gastos personales y propinas para guias y conductor, opcional, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSe ofrece recogida desde KFC and Domino's Pizza; el lugar y la hora exactos se acuerdan con kingdom bali una vez confirmada la reserva, y la opcion elegida determina si el transporte esta incluido.\n\nRecogida en el hotel en Ubud. kingdom bali confirma la hora de recogida y el lugar exacto una vez realizada la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "traslados privados de ida y vuelta al hotel, vehiculo con aire acondicionado",
+   "Conductor y guia profesionales de habla inglesa",
+   "experiencia en cuatrimoto ATV, individual o en tandem segun la reserva"
+  ],
+  "notIncluded": [
+   "documentacion fotografica y de video profesional disponible para comprar en el lugar",
+   "gastos personales y propinas para guias y conductor, opcional"
+  ]
  },
  "sangeh-monkey-forest-waterfall-and-atv-tour-with-lunch-in-ubud": {
   "title": "Bosque de los monos de Sangeh, cascada y ATV con almuerzo en Ubud",
@@ -47819,6 +47865,21 @@ export const ES_TOURS: Record<string, TourT> = {
    "propina"
   ]
  },
+ "350cc-atv-ride-and-taman-beji-griya-purification-ritual-in-ubud": {
+  "title": "Paseo en ATV de 350cc y ritual de purificacion en Taman Beji Griya en Ubud",
+  "metaTitle": "Paseo en ATV de 350cc y ritual de purificacion en Taman Beji",
+  "shortDescription": "Recorrido de 5 horas en Ubud, con Pertiwi Adventure Bali and Taman Beji Griya Waterfall. Reserva directa con PT Trans Wisata Dewata, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 5 horas desde Ubud, organizada en torno a Pertiwi Adventure Bali and Taman Beji Griya Waterfall. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nTirta Empul es un templo de agua en el rio Pakerisan, en Tampaksiring, fundado en el ano 962 d. C. alrededor de un manantial que los balineses consideran sagrado. El ritual de purificacion, melukat, consiste en entrar en la piscina e ir de surtidor en surtidor bajo el agua, en orden; dos de los surtidores estan reservados para ritos funerarios y no se usan, y un guia le indicara cuales. Se proporcionan sarongs en la entrada, y querra ropa de cambio para despues. El templo esta mas concurrido de fieles locales en torno a la luna llena y en los dias sagrados balineses, algo que conviene saber en lugar de evitar. El palacio presidencial construido por Sukarno en la decada de 1950 se encuentra en la colina justo encima de los manantiales.\n\nEl precio incluye transporte de recogida y regreso al hotel, bebida de bienvenida a la llegada y experiencia de conduccion en ATV de 350cc en la pista de ATV mas larga de Bali. No incluye se pueden comprar fotos de recuerdo y entradas a la cascada Taman Griya Beji, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Ubud. PT Trans Wisata Dewata confirma la hora de recogida y el lugar exacto una vez realizada la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "transporte de recogida y regreso al hotel",
+   "bebida de bienvenida a la llegada",
+   "experiencia de conduccion en ATV de 350cc en la pista de ATV mas larga de Bali"
+  ],
+  "notIncluded": [
+   "se pueden comprar fotos de recuerdo",
+   "entradas a la cascada Taman Griya Beji"
+  ]
+ },
  "private-monkey-forest-rice-terrace-and-waterfall-tour-in-ubud": {
   "title": "Tour privado al bosque de los monos, terrazas de arroz y cascada en Ubud",
   "metaTitle": "Tour privado al bosque de los monos, terrazas de arroz y cascada",
@@ -47834,6 +47895,20 @@ export const ES_TOURS: Record<string, TourT> = {
    "propinas",
    "Comida y bebidas"
   ]
+ },
+ "ubud-white-water-rafting-and-atv-ride-with-lunch": {
+  "title": "Rafting en aguas bravas y paseo en ATV con almuerzo en Ubud",
+  "metaTitle": "Rafting en aguas bravas y paseo en ATV con almuerzo en Ubud",
+  "shortDescription": "Recorrido de 8 horas en Ubud, con Recogida y traslado al hotel, equipo de rafting, paseo en ATV y equipo, guias y uso de toallas e instalaciones de ducha. Reserva directa con Balian Breeze, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 8 horas en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nEl rafting en aguas bravas cerca de Ubud se practica en el rio Ayung, unos doce kilometros de agua de clase II a III a traves de un canon debajo de Payangan, con una duracion de unas dos horas en el agua. El Telaga Waja, al este, es mas empinado, clase III a IV, y lo usan los operadores que buscan un descenso mas intenso. Ambos rios suben con fuerza tras la lluvia, lo que convierte la temporada de lluvias, de noviembre a marzo, en el descenso mas rapido, y la temporada seca en el mas tranquilo; los operadores cancelan cuando el rio esta realmente demasiado alto. Hay que bajar unos escalones hasta el punto de entrada y volver a subirlos al final, y todo lo que lleve se mojara, asi que deje los telefonos en la bolsa estanca que proporciona el operador.\n\nEl precio incluye Recogida y traslado al hotel, equipo de rafting, paseo en ATV y equipo, guias y uso de toallas e instalaciones de ducha. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Ubud. Balian Breeze confirma la hora de recogida y el lugar exacto una vez realizada la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "Recogida y traslado al hotel",
+   "equipo de rafting",
+   "paseo en ATV y equipo",
+   "guias",
+   "uso de toallas e instalaciones de ducha"
+  ],
+  "notIncluded": []
  },
  "jatiluwih-rice-terraces-1-hour-electric-bike-tour": {
   "title": "Terrazas de arroz de Jatiluwih, tour de 1 hora en bicicleta electrica",
@@ -48055,6 +48130,38 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "waterfalls-and-swing-tour-with-photographer-in-ubud": {
+  "title": "Tour de cascadas y columpio con fotografo en Ubud",
+  "metaTitle": "Tour de cascadas y columpio con fotografo en Ubud",
+  "shortDescription": "Recorrido de 6 horas en Ubud, con Suwat Waterfall y Tibumana Waterfall and Cantik Agriculture Luwak Coffee. Reserva directa con BJ Transport Bali By GW, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 6 horas desde Ubud, organizada en torno a Suwat Waterfall y Tibumana Waterfall and Cantik Agriculture Luwak Coffee. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLas cascadas alrededor de Ubud se encuentran en una franja al este y al sur de la ciudad, en su mayoria a menos de una hora en coche. Tegenungan es la mas cercana y la mas concurrida, con una caida ancha y una piscina en la base. Tibumana y Kanto Lampo, ambas en Bangli, son mas pequenas y mejores para meterse en el agua: Tibumana cae en una sola cortina hacia una piscina clara, y en Kanto Lampo el agua se abre en abanico sobre una pared de roca escalonada a la que la gente se sube para hacerse fotos. En todas hay que bajar y volver a subir escalones, y las rocas son resbaladizas, asi que unas sandalias o zapatos que puedan mojarse son el calzado adecuado. La temporada de lluvias, de noviembre a marzo, trae el caudal mas abundante pero tambien agua marron durante uno o dos dias tras lluvias fuertes.\n\nEl precio incluye recogida y regreso privados al hotel desde Ubud, Seminyak, Canggu, Kuta, Nusa Dua, coche privado con aire acondicionado y conductor de habla inglesa y fotografo profesional con camara DSLR. No incluye entrada y Gastos personales, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSe ofrece recogida desde Dalung and Badung Regency; el lugar y la hora exactos se acuerdan con BJ Transport Bali By GW una vez confirmada la reserva, y la opcion elegida determina si el transporte esta incluido.\n\nRecogida en el hotel en Ubud. BJ Transport Bali By GW confirma la hora de recogida y el lugar exacto una vez realizada la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "recogida y regreso privados al hotel desde Ubud, Seminyak, Canggu, Kuta, Nusa Dua",
+   "coche privado con aire acondicionado y conductor de habla inglesa",
+   "fotografo profesional con camara DSLR"
+  ],
+  "notIncluded": [
+   "entrada",
+   "Gastos personales"
+  ]
+ },
+ "amazing-kintamani-ubud-tour-with-volcano-view-ubud": {
+  "title": "Increible tour Kintamani-Ubud con vistas al volcan",
+  "metaTitle": "Increible tour Kintamani-Ubud con vistas al volcan",
+  "shortDescription": "Recorrido de 3 horas en Ubud, con entrada a Kintamani, entrada a las terrazas de arroz de Tegalalang, Coche privado con aire acondicionado, Tarifas de aparcamiento y agua mineral embotellada. Reserva directa con Bali Discount Adventure, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 3 horas en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nKintamani es la cresta en el borde de la caldera del Batur, a unos 1.500 metros, y el mirador de Penelokan contempla el volcan, el campo de lava de la erupcion de 1968 y el lago Batur. Hace el frio suficiente para una chaqueta. Penglipuran, en Bangli en la carretera de subida, es un pueblo tradicional de callejuelas empedradas y recintos con techo de bambu que mantiene su trazado segun normas del pueblo, con un bosque de bambu detras. Las plantaciones de cafe a lo largo de esta carretera venden degustaciones de arabica y robusta locales y del kopi luwak procesado por civetas; las degustaciones son gratuitas con la expectativa de una compra, y vale la pena preguntar por las civetas enjauladas de algunas de ellas antes de comprar.\n\nEl precio incluye entrada a Kintamani, entrada a las terrazas de arroz de Tegalalang, Coche privado con aire acondicionado, Tarifas de aparcamiento y agua mineral embotellada. No incluye propina para el conductor y comida, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "entrada a Kintamani",
+   "entrada a las terrazas de arroz de Tegalalang",
+   "Coche privado con aire acondicionado",
+   "Tarifas de aparcamiento",
+   "agua mineral embotellada"
+  ],
+  "notIncluded": [
+   "propina para el conductor",
+   "comida"
+  ]
+ },
  "jeep-and-quad-bike-adventure-with-scenic-rice-fields-in-ubud": {
   "title": "Aventura en jeep y cuatrimoto con pintorescos arrozales en Ubud",
   "metaTitle": "Aventura en jeep y cuatrimoto con pintorescos arrozales en Ubud",
@@ -48079,6 +48186,24 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Gastos personales",
    "silla de ruedas"
+  ]
+ },
+ "sindhu-turtle-conservation-cycling-with-dinner-in-ubud": {
+  "title": "Conservacion de tortugas de Sindhu, ciclismo con cena desde Ubud",
+  "metaTitle": "Conservacion de tortugas de Sindhu, ciclismo con cena desde Ubud",
+  "shortDescription": "Recorrido de 4 horas en Ubud, con recogida y regreso desde el hotel, visita a la conservacion de tortugas de Sindhu Dwarawati, ciclismo desde la playa de Sindhu a la playa de Mertasari, cena en el mercado nocturno de Sindhu y tarifa de aparcamiento. Reserva directa con Baliosa Tour, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 4 horas en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLos parques de animales cerca de Ubud estan en Gianyar: el Zoo de Bali en Singapadu, el Bali Safari and Marine Park en la carretera costera al este, y el Mason Elephant Park en Taro, que mantiene una manada de elefantes de Sumatra rescatados de campamentos de tala. El Bali Bird Park en Batubulan alberga unos mil pajaros, incluida una gran coleccion de especies indonesias y aves del paraiso, en pajareras transitables. La conservacion de tortugas se encuentra en la costa sur en Serangan y Kuta. Todos abren a diario, la mayoria desde las 9:00, y los circuitos en tranvia y los espectaculos de animales del parque safari siguen un horario, asi que compruebe los horarios si hay uno que le interese.\n\nEl precio incluye recogida y regreso desde el hotel, visita a la conservacion de tortugas de Sindhu Dwarawati, ciclismo desde la playa de Sindhu a la playa de Mertasari, cena en el mercado nocturno de Sindhu y tarifa de aparcamiento. No incluye Gastos personales, complementos opcionales y Propinas, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Ubud. Baliosa Tour confirma la hora de recogida y el lugar exacto una vez realizada la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "recogida y regreso desde el hotel",
+   "visita a la conservacion de tortugas de Sindhu Dwarawati",
+   "ciclismo desde la playa de Sindhu a la playa de Mertasari",
+   "cena en el mercado nocturno de Sindhu",
+   "tarifa de aparcamiento"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "complementos opcionales",
+   "Propinas"
   ]
  },
  "gate-of-heaven-with-snorkeling-private-day-tour-in-ubud": {
@@ -48166,6 +48291,21 @@ export const ES_TOURS: Record<string, TourT> = {
    "propina opcional"
   ]
  },
+ "bali-in-1-day-iconic-temples-unesco-sight-all-inclusive-ubud": {
+  "title": "Bali en 1 dia: templos emblematicos, sitio UNESCO, todo incluido (Ubud)",
+  "metaTitle": "Bali en 1 dia: templos emblematicos, sitio UNESCO, todo incluido",
+  "shortDescription": "Recorrido de 10 horas en Ubud, con Taman Ayun Temple y Ulun Danu Bratan Temple and Lake Beratan. Reserva directa con Bali Charm, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 10 horas desde Ubud, organizada en torno a Taman Ayun Temple y Ulun Danu Bratan Temple and Lake Beratan. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nEl hinduismo balines es una religion de practica diaria: las pequenas ofrendas de hojas de palma, canang sari, se colocan cada manana en puertas, altares y salpicaderos, y cada templo de pueblo tiene fiestas segun su propio calendario, por lo que hay una ceremonia en algun lugar de la isla todos los dias. Los visitantes entran en los templos con sarong y faja, proporcionados en la entrada, y se mantienen fuera de los patios interiores durante la oracion. Nyepi, el dia del silencio en marzo, cierra toda la isla durante 24 horas, incluidos el aeropuerto y las carreteras, y los tours no funcionan ese dia. Los balian, los curanderos tradicionales, y los lectores de manos aun ejercen en los pueblos alrededor de Ubud, y una lectura es una conversacion con un interprete mas que un espectaculo.\n\nEl precio incluye incluido, tarifa de aparcamiento y tarifa de entrada al lugar que visitamos. No incluye no incluido y comida, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSe ofrece recogida desde Port of Benoa, Nusa Dua Beach, Kuta, Ubud y Jimbaran and Sanur; el lugar y la hora exactos se acuerdan con Bali Charm una vez confirmada la reserva, y la opcion elegida determina si el transporte esta incluido.\n\nRecogida en el hotel en Ubud. Bali Charm confirma la hora de recogida y el lugar exacto una vez realizada la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "incluido",
+   "tarifa de aparcamiento",
+   "tarifa de entrada al lugar que visitamos"
+  ],
+  "notIncluded": [
+   "no incluido",
+   "comida"
+  ]
+ },
  "watersport-bali-banana-boat-parasailing-jetski-spa-bali-ubud": {
   "title": "Deportes acuaticos en Bali: banana boat, parasailing, moto de agua + spa (Ubud)",
   "metaTitle": "Deportes acuaticos en Bali: banana boat, parasailing, moto de",
@@ -48203,6 +48343,39 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Gastos personales",
    "Comida"
+  ]
+ },
+ "authentic-cultural-village-tour-with-local-guide-in-ubud": {
+  "title": "Tour cultural autentico por el pueblo con guia local desde Ubud",
+  "metaTitle": "Tour cultural autentico por el pueblo con guia local desde Ubud",
+  "shortDescription": "Recorrido de 10 horas en Ubud, con Batuan y Tegenungan Waterfall and Tegallalang Rice Terrace. Reserva directa con DIEGO CONDUCTOR BALI, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 10 horas en Ubud, organizada en torno a Batuan y Tegenungan Waterfall and Tegallalang Rice Terrace. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nUn dia de pueblo balines gira en torno al recinto familiar y al ciclo del arroz. Un recinto familiar es un grupo amurallado de pabellones alrededor de un templo domestico, dispuesto segun un patron fijo con el altar hacia el lado de la montana; la cocina y el granero de arroz tienen su propio lugar en el. Alrededor, los arrozales siguen el calendario subak, siembra, inundacion, cosecha y secado en la carretera, y los campos se trabajan a mano y con tractor de mano. Las mananas empiezan temprano: el mercado al amanecer, las ofrendas, el desayuno de arroz y cafe. Visitas como esta las acoge la familia, y unas pocas palabras en indonesio, un sarong para el templo y quitarse los zapatos en la puerta son las cortesias que importan.\n\nEl precio incluye recogida y traslado de regreso a su hotel, conductor balines local, tambien guia de habla hispana y Tarifas de aparcamiento. No incluye entrada, almuerzo o comidas y Gastos personales, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSe ofrece recogida desde Legian, Sanur, Jimbaran, Canggu y Nusa dua and Kerobokan; el lugar y la hora exactos se acuerdan con DIEGO CONDUCTOR BALI una vez confirmada la reserva, y la opcion elegida determina si el transporte esta incluido.\n\nRecogida en el hotel en Ubud. DIEGO CONDUCTOR BALI confirma la hora de recogida y el lugar exacto una vez realizada la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "recogida y traslado de regreso a su hotel",
+   "conductor balines local, tambien guia de habla hispana",
+   "Tarifas de aparcamiento"
+  ],
+  "notIncluded": [
+   "entrada",
+   "almuerzo o comidas",
+   "Gastos personales"
+  ]
+ },
+ "tengkudak-village-guided-tour-with-bird-spotting-in-ubud": {
+  "title": "Tour guiado por el pueblo de Tengkudak con observacion de aves desde Ubud",
+  "metaTitle": "Tour guiado por el pueblo de Tengkudak con observacion de aves",
+  "shortDescription": "Recorrido de 10 horas en Ubud, con Bali y Pura Luhur Batukaru and Jatiluwih Rice Terrace. Reserva directa con CV. BALAKOSA TOUR, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 10 horas desde Ubud, organizada en torno a Bali y Pura Luhur Batukaru and Jatiluwih Rice Terrace. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nUn dia de pueblo balines gira en torno al recinto familiar y al ciclo del arroz. Un recinto familiar es un grupo amurallado de pabellones alrededor de un templo domestico, dispuesto segun un patron fijo con el altar hacia el lado de la montana; la cocina y el granero de arroz tienen su propio lugar en el. Alrededor, los arrozales siguen el calendario subak, siembra, inundacion, cosecha y secado en la carretera, y los campos se trabajan a mano y con tractor de mano. Las mananas empiezan temprano: el mercado al amanecer, las ofrendas, el desayuno de arroz y cafe. Visitas como esta las acoge la familia, y unas pocas palabras en indonesio, un sarong para el templo y quitarse los zapatos en la puerta son las cortesias que importan.\n\nEl precio incluye visita al pueblo del estornino de Bali (Jalak Bali) en Tengkudak, visita al templo de Baturkaru y visita al sitio UNESCO de las terrazas de arroz de Jatiluwih. No incluye Desayuno, Almuerzo, cena y gastos propios, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSe ofrece recogida desde Nusa dua, Ubud, Jimbaran y Sanur and Canggu; el lugar y la hora exactos se acuerdan con CV. BALAKOSA TOUR una vez confirmada la reserva, y la opcion elegida determina si el transporte esta incluido.\n\nRecogida en el hotel en Ubud. CV. BALAKOSA TOUR confirma la hora de recogida y el lugar exacto una vez realizada la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "visita al pueblo del estornino de Bali (Jalak Bali) en Tengkudak",
+   "visita al templo de Baturkaru",
+   "visita al sitio UNESCO de las terrazas de arroz de Jatiluwih"
+  ],
+  "notIncluded": [
+   "Desayuno",
+   "Almuerzo",
+   "cena",
+   "gastos propios"
   ]
  },
  "bali-quad-bike-through-gorilla-cave-and-waterfall-ubud": {
@@ -48322,6 +48495,20 @@ export const ES_TOURS: Record<string, TourT> = {
    "Bebidas fuera de la comida incluida"
   ]
  },
+ "underwater-show-spectacle-at-varuna-bali-theatre-ubud": {
+  "title": "Espectaculo submarino en el teatro Varuna Bali (Ubud)",
+  "metaTitle": "Espectaculo submarino en el teatro Varuna Bali (Ubud)",
+  "shortDescription": "Recorrido de 3 horas en Ubud, con espectaculo Varuna de 45 minutos. Reserva directa con Indotrip, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 3 horas en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nUbud ofrece una actuacion de danza cada noche de la semana. El Legong, bailado por mujeres jovenes con trajes dorados ajustados y rapidos movimientos de ojos y dedos, y el Barong, el guardian parecido a un leon que lucha contra la bruja Rangda, son los dos mas representados, con el canto Kecak interpretado por un circulo de hombres sin instrumentos. Las funciones duran unos 90 minutos desde las 19:30 en el palacio real, Puri Saren Agung, en el Ubud Water Palace y en el ARMA, el museo Agung Rai, cuyo escenario esta en los jardines del museo; las entradas se venden en el lugar durante el dia. Los asientos no son reservados, asi que conviene llegar hacia las 19:00 para las primeras filas.\n\nEl precio incluye espectaculo Varuna de 45 minutos. No incluye recogida y regreso al hotel, almuerzo o cena para las funciones Varuna de dia y de noche, asiento estandar y bebidas, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "espectaculo Varuna de 45 minutos"
+  ],
+  "notIncluded": [
+   "recogida y regreso al hotel",
+   "almuerzo o cena para las funciones Varuna de dia y de noche, asiento estandar",
+   "bebidas"
+  ]
+ },
  "most-popular-mount-batur-sunrise-jeep-and-black-lava-tour-ubud": {
   "title": "El mas popular: jeep al amanecer en el monte Batur y lava negra (Ubud)",
   "metaTitle": "El mas popular: jeep al amanecer en el monte Batur y lava negra",
@@ -48339,6 +48526,19 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "still-life-painting-workshop-at-bk-creative-hub-in-ubud": {
+  "title": "Taller de pintura de bodegones en BK Creative Hub en Ubud",
+  "metaTitle": "Taller de pintura de bodegones en BK Creative Hub en Ubud",
+  "shortDescription": "Recorrido de 1,5 horas en Ubud, con lienzo, caballete, pinturas acrilicas y pinceles. Reserva directa con BK Creative Hub, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 1,5 horas en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nUn dia de pueblo balines gira en torno al recinto familiar y al ciclo del arroz. Un recinto familiar es un grupo amurallado de pabellones alrededor de un templo domestico, dispuesto segun un patron fijo con el altar hacia el lado de la montana; la cocina y el granero de arroz tienen su propio lugar en el. Alrededor, los arrozales siguen el calendario subak, siembra, inundacion, cosecha y secado en la carretera, y los campos se trabajan a mano y con tractor de mano. Las mananas empiezan temprano: el mercado al amanecer, las ofrendas, el desayuno de arroz y cafe. Visitas como esta las acoge la familia, y unas pocas palabras en indonesio, un sarong para el templo y quitarse los zapatos en la puerta son las cortesias que importan.\n\nEl precio incluye lienzo, caballete, pinturas acrilicas y pinceles. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "lienzo",
+   "caballete",
+   "pinturas acrilicas",
+   "pinceles"
+  ],
+  "notIncluded": []
+ },
  "mount-batur-sunrise-trekking-waterfall-and-nature-tour": {
   "title": "Trekking al amanecer en el monte Batur, cascada y tour de naturaleza",
   "metaTitle": "Trekking al amanecer en el monte Batur, cascada y tour de",
@@ -48352,6 +48552,21 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comida y bebidas",
    "Propinas para el guia y el conductor"
+  ]
+ },
+ "aloha-swing-bali-jungle-views-bali-swing-and-photo-experience-ubud": {
+  "title": "Aloha Swing Bali: vistas a la jungla, columpio y experiencia fotografica (Ubud)",
+  "metaTitle": "Aloha Swing Bali: vistas a la jungla, columpio y experiencia",
+  "shortDescription": "Recorrido de 2,5 horas en Ubud, con acceso a varios columpios, puntos fotograficos panoramicos y ambiente tropical. Reserva directa con Bali Horizon Experience, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 2,5 horas en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLos columpios de la selva cerca de Ubud son un grupo de negocios a lo largo del desfiladero del rio Ayung alrededor de Bongkasa y por la carretera sobre Tegallalang, cada uno con varios columpios de distintas alturas, desde unos 10 metros hasta 78 metros en el mas alto, ademas de nidos, camas colgantes y accesorios para fotos. Lo sujetan con un arnes y el personal lo empuja, y el columpio se mece sobre el desfiladero. Los precios son por columpio o como paquete, se alquilan vestidos vaporosos en el lugar para las fotos, y la cola en una tarde concurrida es el coste real, asi que conviene reservar un horario temprano.\n\nEl precio incluye acceso a varios columpios, puntos fotograficos panoramicos y ambiente tropical. No incluye transporte hasta el lugar y Comida y bebidas, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "acceso a varios columpios",
+   "puntos fotograficos panoramicos",
+   "ambiente tropical"
+  ],
+  "notIncluded": [
+   "transporte hasta el lugar",
+   "Comida y bebidas"
   ]
  },
  "sunrise-jeep-tour-to-mount-batur": {
@@ -48490,6 +48705,22 @@ export const ES_TOURS: Record<string, TourT> = {
    "donaciones opcionales"
   ]
  },
+ "twin-lakes-jungle-trek-canoe-and-banyuwana-waterfall-in-ubud": {
+  "title": "Caminata por la jungla a los lagos gemelos, canoa y cascada de Banyuwana desde Ubud",
+  "metaTitle": "Caminata por la jungla a los lagos gemelos, canoa y cascada de",
+  "shortDescription": "Recorrido de 2,5 horas en Ubud, con Twin Lake Viewpoint y Jungle Amerta Jati Trekking point and Lake Tamblingan. Reserva directa con PT Munduk Luwih Bali Tour, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 2,5 horas desde Ubud, organizada en torno a Twin Lake Viewpoint y Jungle Amerta Jati Trekking point and Lake Tamblingan. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLas cascadas alrededor de Ubud se encuentran en una franja al este y al sur de la ciudad, en su mayoria a menos de una hora en coche. Tegenungan es la mas cercana y la mas concurrida, con una caida ancha y una piscina en la base. Tibumana y Kanto Lampo, ambas en Bangli, son mas pequenas y mejores para meterse en el agua: Tibumana cae en una sola cortina hacia una piscina clara, y en Kanto Lampo el agua se abre en abanico sobre una pared de roca escalonada a la que la gente se sube para hacerse fotos. En todas hay que bajar y volver a subir escalones, y las rocas son resbaladizas, asi que unas sandalias o zapatos que puedan mojarse son el calzado adecuado. La temporada de lluvias, de noviembre a marzo, trae el caudal mas abundante pero tambien agua marron durante uno o dos dias tras lluvias fuertes.\n\nEl precio incluye guia profesional local de senderismo, botella de agua, experiencia de canoa tradicional, transporte durante la actividad y tarifas de entrada a la atraccion incluida. No incluye Propinas, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "guia profesional local de senderismo",
+   "botella de agua",
+   "experiencia de canoa tradicional",
+   "transporte durante la actividad",
+   "tarifas de entrada a la atraccion incluida"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
  "telaga-waja-rafting-with-5-meter-dam-drop-and-lunch-in-ubud": {
   "title": "Rafting en Telaga Waja con caida de presa de 5 metros y almuerzo en Ubud",
   "metaTitle": "Rafting en Telaga Waja con caida de presa de 5 metros y almuerzo",
@@ -48505,6 +48736,37 @@ export const ES_TOURS: Record<string, TourT> = {
    "fotos y videos",
    "propinas",
    "comida y bebidas adicionales"
+  ]
+ },
+ "tulamben-2-dive-beginner-1-1-private-guide-and-video-in-ubud": {
+  "title": "Tulamben: 2 inmersiones para principiantes, guia privado 1 a 1 y video desde Ubud",
+  "metaTitle": "Tulamben: 2 inmersiones para principiantes, guia privado 1 a 1 y",
+  "shortDescription": "Recorrido de 4 horas en Ubud, con Paradise Dive Tulamben (Season Paradise) y Coral Garden and Tulamben. Reserva directa con Paradise Dive Tulamben (Season Paradise), en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 4 horas desde Ubud, organizada en torno a Paradise Dive Tulamben (Season Paradise) y Coral Garden and Tulamben. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nEl este de Bali es el lado mas tranquilo de la isla, bajo el monte Agung. El valle de Sidemen tiene terrazas de arroz sin las multitudes de Tegallalang y una vista directa al volcan; Tirta Gangga es un palacio de agua construido por el ultimo raja de Karangasem en 1946, con piedras para cruzar un estanque de carpas; Taman Ujung es el palacio anterior de la misma familia, de 1919, en la costa. Besakih, el templo madre, es un complejo de 23 templos a 1.000 metros en la ladera del Agung y requiere un sarong y, desde 2023, un guia oficial. Mas adelante por la costa, Amed tiene playas de arena negra y Tulamben tiene el USAT Liberty, un carguero torpedeado en 1942 y empujado al mar por la erupcion del Agung de 1963, hoy un pecio para bucear y hacer esnorquel desde la playa.\n\nEl precio incluye 2 inmersiones en el mar, naufragio del USAT Liberty y jardin de coral y guia de buceo profesional privado, 1 a 1. No incluye traje de bano personal, bikini o camiseta de proteccion y protector solar seguro para los arrecifes y articulos de cuidado personal, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Ubud. Paradise Dive Tulamben (Season Paradise) confirma la hora de recogida y el lugar exacto una vez realizada la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "2 inmersiones en el mar, naufragio del USAT Liberty y jardin de coral",
+   "guia de buceo profesional privado, 1 a 1"
+  ],
+  "notIncluded": [
+   "traje de bano personal, bikini o camiseta de proteccion",
+   "protector solar seguro para los arrecifes y articulos de cuidado personal"
+  ]
+ },
+ "private-photoshoot-experience-photo-and-video-packages-in-ubud": {
+  "title": "Experiencia de sesion de fotos privada, paquetes de foto y video en Ubud",
+  "metaTitle": "Experiencia de sesion de fotos privada, paquetes de foto y video",
+  "shortDescription": "Recorrido de 1 hora en Ubud, con Bali. Reserva directa con Lensa Experience Indonesia, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 1 hora desde Ubud, organizada en torno a Bali. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nUn dia de puntos destacados alrededor de Ubud enlaza los lugares que mejor salen en foto en el orden que mejor conviene a la luz: Tegallalang antes de los autobuses, un columpio mientras la cola es corta, una cascada a media manana, y Tirta Empul o un templo por la tarde. Las distancias son cortas pero las carreteras son lentas, asi que el orden importa mas que la lista. Se necesitan sarongs en cada templo y se proporcionan en la entrada; los columpios y algunos miradores se pagan aparte del tour; y las tardes de temporada de lluvias, de noviembre a marzo, suelen traer lluvia a partir de las dos aproximadamente, por lo que estos dias empiezan temprano.\n\nEl precio incluye sesion de fotos profesional privada, fotografo profesional y edicion de fotos. No incluye Entradas, permisos, Tarifas de aparcamiento y costos de transporte, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "sesion de fotos profesional privada",
+   "fotografo profesional",
+   "edicion de fotos"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "permisos",
+   "Tarifas de aparcamiento",
+   "costos de transporte"
   ]
  },
  "mount-agung-sunrise-trekking-with-breakfast-in-ubud": {
@@ -48611,6 +48873,23 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "tarifa de entrada al parque nacional del oeste de Bali"
+  ]
+ },
+ "private-sunrise-jeep-tour-with-hot-springs-in-ubud": {
+  "title": "Tour privado en jeep al amanecer con aguas termales desde Ubud",
+  "metaTitle": "Tour privado en jeep al amanecer con aguas termales desde Ubud",
+  "shortDescription": "Recorrido de 8 horas en Ubud, con Mount Batur View Point and Batur Natural Hot Spring. Reserva directa con BLUSUKAN BALI TRAVEL, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 8 horas desde Ubud, organizada en torno a Mount Batur View Point and Batur Natural Hot Spring. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLas pistas de ATV alrededor de Ubud recorren los pueblos al norte de la ciudad, cerca de Payangan y Tegallalang, sobre una mezcla de camino de tierra, pista de plantacion, lecho de rio y, en la mayoria de las rutas, un tramo de barro profundo que es lo que la gente mas recuerda. Los recorridos suelen durar de 1,5 a 2 horas sobre la maquina, en cuatrimoto en tandem o individual, con un guia al frente. Terminara sucio desde las rodillas hacia abajo, y a menudo por completo, asi que use ropa que no le importe ensuciar; los operadores proporcionan botas, cascos y una ducha despues. Las edades minimas para conducir varian segun el operador y figuran en la opcion, y los ninos suelen ir como pasajeros.\n\nEl precio incluye Recogida y traslado al hotel, tour en jeep 4x4, visita al mirador del monte Batur, visita a los campos de lava negra y visita a las fuentes termales naturales. No incluye Comidas y Gastos personales, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Ubud. BLUSUKAN BALI TRAVEL confirma la hora de recogida y el lugar exacto una vez realizada la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "Recogida y traslado al hotel",
+   "tour en jeep 4x4",
+   "visita al mirador del monte Batur",
+   "visita a los campos de lava negra",
+   "visita a las fuentes termales naturales"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Gastos personales"
   ]
  },
  "stunning-munduk-waterfalls-and-temple": {
@@ -51867,6 +52146,21 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "rice-fields-photoshoot-with-optional-video-reel-in-ubud": {
+  "title": "Sesion de fotos en los campos de arroz con video opcional en Ubud",
+  "metaTitle": "Sesion de fotos en los campos de arroz con video opcional en Ubud",
+  "shortDescription": "Recorrido de 30 minutos en Ubud, con tarifas de entrada a los campos de arroz, fotografo profesional, accesorios a peticion y entrega de la galeria de fotos dentro de 48 horas. Reserva directa con Picster, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 30 minutos en Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nLas terrazas de arroz de Tegallalang estan a veinte minutos al norte de Ubud, en la carretera hacia Kintamani, y son arrozales en activo alimentados por el sistema de riego subak, declarado por la UNESCO en 2012. Antes de las 8:30 de la manana aproximadamente, el valle pertenece a los agricultores, los campos todavia estan humedos por la noche, y hace el fresco suficiente para caminar por las terrazas y subir por el otro lado. Hacia las diez llegan los autobuses del sur y la carretera sobre las terrazas se convierte en una fila de cafeterias, columpios y plataformas para fotos. Hay una pequena tarifa de entrada en el mirador, y agricultores a lo largo de los senderos entre los campos piden unos pocos miles de rupias por cruzar su terreno, lo cual es normal. Los columpios son negocios independientes con sus propios precios.\n\nEl precio incluye tarifas de entrada a los campos de arroz, fotografo profesional, accesorios a peticion y entrega de la galeria de fotos dentro de 48 horas. No incluye transporte hasta el lugar, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "tarifas de entrada a los campos de arroz",
+   "fotografo profesional",
+   "accesorios a peticion",
+   "entrega de la galeria de fotos dentro de 48 horas"
+  ],
+  "notIncluded": [
+   "transporte hasta el lugar"
+  ]
+ },
  "private-tour-with-rice-terrace-temple-and-waterfall-in-ubud": {
   "title": "Tour privado con terraza de arroz, templo y cascada en Ubud",
   "metaTitle": "Tour privado con terraza de arroz, templo y cascada en Ubud",
@@ -53581,6 +53875,21 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "comidas y gastos personales",
    "acceso al columpio en la jungla, complemento opcional disponible"
+  ]
+ },
+ "rafting-atv-ride-and-tubing-adventure-with-lunch-in-ubud": {
+  "title": "Rafting, paseo en ATV y aventura de tubing con almuerzo en Ubud",
+  "metaTitle": "Rafting, paseo en ATV y aventura de tubing con almuerzo en Ubud",
+  "shortDescription": "Recorrido de 1,5 horas en Ubud, con Ubud. Reserva directa con Kim Bali Tour, en lugar de a traves de un revendedor.",
+  "fullDescription": "Esta es una experiencia de 1,5 horas en Ubud, organizada en torno a Ubud. Su plaza se reserva con el operador antes de considerar su reserva definitiva.\n\nEl rafting en aguas bravas cerca de Ubud se practica en el rio Ayung, unos doce kilometros de agua de clase II a III a traves de un canon debajo de Payangan, con una duracion de unas dos horas en el agua. El Telaga Waja, al este, es mas empinado, clase III a IV, y lo usan los operadores que buscan un descenso mas intenso. Ambos rios suben con fuerza tras la lluvia, lo que convierte la temporada de lluvias, de noviembre a marzo, en el descenso mas rapido, y la temporada seca en el mas tranquilo; los operadores cancelan cuando el rio esta realmente demasiado alto. Hay que bajar unos escalones hasta el punto de entrada y volver a subirlos al final, y todo lo que lleve se mojara, asi que deje los telefonos en la bolsa estanca que proporciona el operador.\n\nEl precio incluye cuatrimoto ATV, equipo de ATV, casco, botas y equipo de rafting. No incluye Gastos personales y fotografo y videografo disponibles con cargo adicional, cada opcion, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envian por correo electronico en cuanto se confirma la reserva. Necesitamos al menos un dia de aviso, y confirmamos la fecha antes de considerar su reserva definitiva. Si la fecha no puede confirmarse, se lo decimos y le devolvemos el dinero en lugar de dejarle esperando.",
+  "included": [
+   "cuatrimoto ATV",
+   "equipo de ATV, casco, botas",
+   "equipo de rafting"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "fotografo y videografo disponibles con cargo adicional, cada opcion"
   ]
  },
  "gosek-atv-adventure-350cc-temple-run-and-jungle-trails-in-ubud": {
