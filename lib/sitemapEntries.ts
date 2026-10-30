@@ -302,6 +302,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'maya-bay-phuket', 'phuket-elephant-sanctuary-guide', 'phuket-food-guide',
     'phuket-diving-snorkeling-guide',
     'best-tours-in-phuket', 'should-i-book-phuket-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-phuket',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/phuket/${slug}`,
     lastModified: new Date(),
@@ -391,6 +392,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'doi-suthep-chiang-mai', 'khao-soi-chiang-mai-food-guide',
     'chiang-mai-elephant-sanctuary-guide',
     'best-tours-in-chiang-mai', 'should-i-book-chiang-mai-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-chiang-mai',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/chiang-mai/${slug}`,
     lastModified: new Date(),

@@ -579,6 +579,51 @@ export function getChiangMaiInfoContent(slug: string): CityInfoData | null {
                 }
             };
 
+        // GEO single-topic page (2026-10/31)
+        case "how-much-should-a-private-tour-guide-cost-in-chiang-mai":
+            return {
+                title: "How Much Should a Private Tour Guide Cost in Chiang Mai?",
+                seoTitle: "Chiang Mai Private Guide Prices 2026 — What's Reasonable",
+                description: "Real price ranges for a private guide or driver in Chiang Mai in 2026, by tour length and type, so you know what's fair before you book.",
+                heroImage: IMG.doiSuthep,
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "A **half-day (4-hour) private tour in Chiang Mai** — a hike on the Monk's Trail up to Doi Suthep is a real example — typically runs **$140 flat for 1-2 people**, rising to roughly $210-280 for a group of 3-4 sharing the same guide and vehicle. Longer private day trips (Doi Inthanon, Chiang Rai) run $350-390 for the group. Many Chiang Mai operators price **flat per group rather than per person**: a private waterfall-and-temple day trip can cost the same $194 whether 1 or 5 people join, which makes private tours an easy win once you have 3+ travellers.",
+                        tourCard: { slug: "hike-on-monk-s-trail-and-doi-suthep-private-tour", title: "Hike on Monk's Trail and Doi Suthep Private Tour", description: "A real example of a half-day private tour and its actual tiered price.", price: "From $140", duration: "4 hours", rating: "4.8", reviews: "10", image: IMG.doiSuthep },
+                    },
+                    {
+                        title: "Why the Pricing Style Varies",
+                        content: "Some Chiang Mai private tours step up with group size (e.g. $140 for 1-2 people, $210 for 3, $280 for 4) because the operator's own costs — entrance tickets, a bigger vehicle — rise too. Others charge a genuinely flat rate regardless of group size, because the real cost is the guide's day and a fixed vehicle, not per-head consumption. Flat pricing is the better deal for 3+ travellers; stepped per-group pricing is usually cheaper for a solo traveller or couple.",
+                    },
+                    {
+                        title: "Red Flags on Price",
+                        content: "A private-tour quote well below these ranges for Doi Inthanon or Chiang Rai usually means a shorter itinerary than advertised, a shared songthaew marketed as \"private,\" or — specific to Chiang Mai — an elephant or animal-interaction stop that cuts costs by skipping genuine welfare standards. Always confirm the exact stops and any animal-interaction policy before comparing price alone.",
+                    },
+                    {
+                        title: "How to Get a Fair Price",
+                        content: "Ask the operator directly whether the quote is flat for the group or climbs per person, and what's included — entrance fees, a specific waterfall or village stop, lunch. On AsiaByLocals, every Chiang Mai tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Chiang Mai tours](/thailand/chiang-mai) to compare real, current prices directly.",
+                        tourCard: { slug: "private-sticky-waterfall-and-secret-temple-and-karen-village-in-chiang-mai", title: "Private: Sticky Waterfall & Secret Temple & Karen Village", description: "A real example of flat per-group pricing — the same total whether 1 or 5 people join.", price: "From $194", duration: "5 hours", rating: "4.8", reviews: "10", image: IMG.doiSuthep },
+                    },
+                ],
+                faqs: [
+                    { q: "How much does a private tour guide cost in Chiang Mai?", a: "A half-day private tour typically runs $140 flat for 1-2 people, rising to $210-280 for a group of 3-4. Longer day trips to Doi Inthanon or Chiang Rai run $350-390 for the group." },
+                    { q: "Is private tour pricing flat or per person in Chiang Mai?", a: "It varies by operator — some step the price up with group size, others charge a flat group rate regardless of how many join. Flat pricing is the better deal for 3+ travellers." },
+                    { q: "Is a very cheap private tour quote in Chiang Mai a red flag?", a: "Often yes — it can mean a shorter itinerary, a shared vehicle marketed as private, or (specific to Chiang Mai) an animal-interaction stop that skips genuine welfare standards." },
+                    { q: "What's usually included in a Chiang Mai private tour price?", a: "Typically the guide's fee and a private vehicle. Entrance fees, specific stops and meals are usually listed separately — ask for the full breakdown before comparing prices." },
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "How much does a private tour guide cost in Chiang Mai?", "acceptedAnswer": { "@type": "Answer", "text": "A half-day private tour typically runs $140 flat for 1-2 people, rising to $210-280 for a group of 3-4." } },
+                        { "@type": "Question", "name": "Is private tour pricing flat or per person in Chiang Mai?", "acceptedAnswer": { "@type": "Answer", "text": "It varies by operator — some step the price up with group size, others charge a flat group rate." } },
+                        { "@type": "Question", "name": "Is a very cheap private tour quote in Chiang Mai a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a shorter itinerary or a shared vehicle marketed as private." } },
+                        { "@type": "Question", "name": "What's usually included in a Chiang Mai private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the guide's fee and a private vehicle; entrance fees and meals are usually separate." } },
+                    ],
+                },
+            };
+
         default:
             return null;
     }

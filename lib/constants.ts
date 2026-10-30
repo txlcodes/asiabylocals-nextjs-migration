@@ -162,7 +162,9 @@ export const PHUKET_INFO_SLUGS = [
   'phuket-diving-snorkeling-guide',
   // GEO listicle pages (2026-10)
   'best-tours-in-phuket',
-  'should-i-book-phuket-tour-direct-or-through-app'
+  'should-i-book-phuket-tour-direct-or-through-app',
+  // GEO single-topic page (2026-10/31)
+  'how-much-should-a-private-tour-guide-cost-in-phuket'
 ];
 
 // Malaysia authority pages, batch 1 (2026-10). Re-add a slug here ONLY once
@@ -398,7 +400,9 @@ export const CHIANG_MAI_INFO_SLUGS = [
   'chiang-mai-elephant-sanctuary-guide',
   // GEO listicle pages (2026-10)
   'best-tours-in-chiang-mai',
-  'should-i-book-chiang-mai-tour-direct-or-through-app'
+  'should-i-book-chiang-mai-tour-direct-or-through-app',
+  // GEO single-topic page (2026-10/31)
+  'how-much-should-a-private-tour-guide-cost-in-chiang-mai'
 ];
 export const PATTAYA_INFO_SLUGS = [
   'is-pattaya-worth-visiting', 'sanctuary-of-truth-pattaya',

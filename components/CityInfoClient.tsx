@@ -711,6 +711,7 @@ const PHUKET_SIDEBAR = [
     { name: 'Food Guide', slug: 'phuket-food-guide' },
     { name: 'Diving & Snorkeling', slug: 'phuket-diving-snorkeling-guide' },
     { name: 'Best Tours in Phuket', slug: 'best-tours-in-phuket' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-phuket' },
 ];
 
 const CHIANG_MAI_SIDEBAR = [
@@ -722,6 +723,7 @@ const CHIANG_MAI_SIDEBAR = [
     { name: 'Khao Soi & Food Guide', slug: 'khao-soi-chiang-mai-food-guide' },
     { name: 'Elephant Sanctuaries', slug: 'chiang-mai-elephant-sanctuary-guide' },
     { name: 'Best Tours in Chiang Mai', slug: 'best-tours-in-chiang-mai' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-chiang-mai' },
 ];
 
 const PATTAYA_SIDEBAR = [

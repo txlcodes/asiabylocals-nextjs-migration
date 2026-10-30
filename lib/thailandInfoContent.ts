@@ -1190,6 +1190,51 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        // GEO single-topic page (2026-10/31)
+        case "how-much-should-a-private-tour-guide-cost-in-phuket":
+            return {
+                title: "How Much Should a Private Tour Guide Cost in Phuket?",
+                seoTitle: "Phuket Private Guide Prices 2026 — What's Reasonable",
+                description: "Real price ranges for a private guide or boat tour in Phuket in 2026, by length and type, so you know what's fair before you book.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773710349/tours/bangkok-grand-palace/hq_1.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "A **short (3-4 hour) private land tour in Phuket** — a Big Buddha and longtail-canal run is a real example — typically starts around **$55-60 for one or two people**, climbing toward $100-125 for a group of 4 sharing the same guide and vehicle. Some operators price flat per group instead: a 4-hour customizable private tour with a local guide can run a flat **$134 regardless of whether 1 or 5 people join**, which is the better deal once you have 3+ travellers. Private longtail and speedboat day trips to Phi Phi or James Bond Island run considerably higher — $300-550 for a private boat for the day — because you're paying for the whole boat and crew, not a per-head seat.",
+                        tourCard: { slug: "private-tour-to-big-buddha-and-longtail-boat-canals-in-phuket", title: "Private Tour to Big Buddha and Longtail Boat Canals in Phuket", description: "A real example of a short private land tour and its actual tiered price.", price: "From $58", duration: "3 hours", rating: "4.8", reviews: "10", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773710349/tours/bangkok-grand-palace/hq_1.jpg" },
+                    },
+                    {
+                        title: "Why the Pricing Style Varies",
+                        content: "Phuket's private tours split into two pricing styles, and it's worth knowing which one you're looking at before you compare prices. **Per-person-additive pricing** (price climbs with each traveller, e.g. $58 solo → $78 for two → $101 for three) is common on land tours where the operator pays per-head costs like entrance tickets. **Flat group pricing** (same total no matter the group size, up to a cap) is common on private boat charters and some customisable tours, because the real cost is the boat or guide's day, not each individual seat. A flat-priced tour is a much better deal for 3+ people; a per-person tour is usually cheaper for a solo traveller or couple.",
+                    },
+                    {
+                        title: "Red Flags on Price",
+                        content: "A private boat quote dramatically below the $300+ range for a full-day Phi Phi or James Bond Island private trip usually means a shared longtail disguised as \"private,\" an unlicensed boat, or a shorter route than advertised. For land tours, a price far under the ranges above often means a thinner itinerary (fewer stops, less time at each) rather than a genuine bargain — ask exactly what's included before assuming it's a deal.",
+                    },
+                    {
+                        title: "How to Get a Fair Price",
+                        content: "Ask the operator directly whether the quote is per person or flat for the group, and what happens to the price if your group size changes. On AsiaByLocals, every Phuket tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Phuket tours](/thailand/phuket) to compare real, current prices directly.",
+                        tourCard: { slug: "phuket-private-customize-tour-local-guide", title: "Phuket Private Customize Tour with Local Guide", description: "A real example of flat per-group pricing — the same total whether 1 or 5 people join.", price: "From $134", duration: "4 hours", rating: "4.8", reviews: "10", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773710349/tours/bangkok-grand-palace/hq_1.jpg" },
+                    },
+                ],
+                faqs: [
+                    { q: "How much does a private tour guide cost in Phuket?", a: "A short 3-4 hour private land tour typically starts around $55-60 for 1-2 people, rising toward $100-125 for a group of 4. Some operators charge a flat group rate instead — around $134 for a 4-hour tour regardless of group size." },
+                    { q: "How much is a private boat tour in Phuket?", a: "A private longtail or speedboat day trip to Phi Phi or James Bond Island typically runs $300-550 for the boat, since you're paying for the whole vessel and crew rather than a per-seat rate." },
+                    { q: "Is per-person or flat group pricing better value in Phuket?", a: "Flat group pricing is the better deal once you have 3 or more travellers. Per-person pricing is usually cheaper for a solo traveller or couple." },
+                    { q: "Is a very cheap private boat quote in Phuket a red flag?", a: "Often yes — it can mean a shared boat marketed as private, an unlicensed vessel, or a shorter route than advertised. Ask for the exact itinerary before booking." },
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "How much does a private tour guide cost in Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "A short 3-4 hour private land tour typically starts around $55-60 for 1-2 people, rising toward $100-125 for a group of 4." } },
+                        { "@type": "Question", "name": "How much is a private boat tour in Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "A private longtail or speedboat day trip to Phi Phi or James Bond Island typically runs $300-550 for the boat." } },
+                        { "@type": "Question", "name": "Is per-person or flat group pricing better value in Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "Flat group pricing is the better deal once you have 3 or more travellers." } },
+                        { "@type": "Question", "name": "Is a very cheap private boat quote in Phuket a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a shared boat marketed as private or a shorter route than advertised." } },
+                    ],
+                },
+            };
+
         default:
             return null;
     }
