@@ -51431,6 +51431,21 @@ export const DE_TOURS: Record<string, TourT> = {
    "optionale Aktivitaeten, die nicht im gewaehlten Paket enthalten sind"
   ]
  },
+ "nusa-penida-manta-snorkeling-with-turtle-and-beautiful-corals-nusa-penida": {
+  "title": "Nusa Penida: Manta-Schnorcheln mit Schildkroete und wunderschoenen Korallen (Nusa Penida)",
+  "metaTitle": "Nusa Penida: Manta-Schnorcheln mit Schildkroete und",
+  "shortDescription": "3-stuendige Tour in Nusa Penida, mit Tiger Rays Snorkeling und Manta Point and Gamat Bay. Direkt gebucht bei The Kara Trip, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 3-stuendiges Erlebnis ab Nusa Penida, rund um Tiger Rays Snorkeling und Manta Point and Gamat Bay aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nBeim Schnorcheln vor Nusa Penida geht es vor allem um die Riffmantarochen am Manta Point an der Suedkueste der Insel, wo sie das ganze Jahr ueber zu finden sind, fressen und sich im Wellengang am Fuss der Klippen reinigen lassen. Die Boote fahren danach zu ruhigeren Stellen wie Crystal Bay, Gamat Bay und der Wand bei Buyuk fuer Korallen und Fische. Zwischen Juli und Oktober ist Crystal Bay auch der Ort, an den Taucher wegen des ozeanischen Mondfisches, mola mola, kommen, der in den kuehleren Monaten aus tieferem Wasser aufsteigt. Der Manta Point ist der Dunung aus dem Sueden ausgesetzt, und Boote lassen ihn aus, wenn das Meer aufgewuehlt ist, daher haengt ein Tag hier immer vom Wetter ab. Die Ueberfahrt von Sanur dauert dreissig bis fuenfundvierzig Minuten.\n\nIm Preis enthalten sind Schnellboot-Schnorcheltour mit professionellem Kapitaen und Crew, hochwertige Schnorchelausruestung (Maske, Schnorchel, Flossen) und Schwimmwesten und Schwimmhilfen. Nicht enthalten sind Badeanzug und Sonnencreme, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTiger Rays Snorkeling.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Schnellboot-Schnorcheltour mit professionellem Kapitaen und Crew",
+   "hochwertige Schnorchelausruestung (Maske, Schnorchel, Flossen)",
+   "Schwimmwesten und Schwimmhilfen"
+  ],
+  "notIncluded": [
+   "Badeanzug",
+   "Sonnencreme"
+  ]
+ },
  "nusa-penida-fast-boat-ticket": {
   "title": "Schnellboot-Ticket nach Nusa Penida",
   "metaTitle": "Schnellboot-Ticket nach Nusa Penida",
@@ -51522,6 +51537,21 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Verpflegung und Getraenke"
+  ]
+ },
+ "nusa-penida-west-tour-with-turtle-conservation": {
+  "title": "Westtour durch Nusa Penida mit Schildkroeten-Schutz",
+  "metaTitle": "Westtour durch Nusa Penida mit Schildkroeten-Schutz",
+  "shortDescription": "8-stuendige Tour in Nusa Penida, mit Speedboat und Kelingking Beach and Angel's Billabong. Direkt gebucht bei CV. Melali Nusa penida Travel, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 8-stuendiges Erlebnis ab Nusa Penida, rund um Speedboat und Kelingking Beach and Angel's Billabong aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nKelingking ist die Klippe an der Suedwestkueste von Nusa Penida, die vom Aussichtspunkt aus wie ein T-Rex geformt wirkt, mit einem Sandstreifen am Fuss. Der Aussichtspunkt ist fuenf Minuten vom Parkplatz entfernt; der Strand braucht jeweils eine Stunde oder mehr hinunter auf einem Pfad mit etwa 400 Metern Hoehenunterschied, auf unebenen Stufen mit einem Bambusgelaender, und die See am Fuss hat eine starke Brandung. Die meisten Leute gehen nur zum Aussichtspunkt. Broken Beach, Pasih Uug, ist eine eingestuerzte Meereshoehle, die einen natuerlichen Bogen zuruckliess, und Angel's Billabong direkt daneben ist ein Gezeitenbecken, das bei Niedrigwasser sicher und bei Hochwasser gefaehrlich ist, wenn Wellen ueber den Rand schlagen. Diese drei liegen zusammen auf der Westseite und ergeben einen halben Tag.\n\nIm Preis enthalten sind privater Wagen mit Fahrer, Bootstickets (Sanur-Nusa Penida hin und zurueck) und Hotelabholung und Ruecktransfer. Nicht enthalten sind Trinkgeld (optional, nach Ihrem Ermessen) und Schildkroeten-Freilassungsaktivitaet im Schutzzentrum (vor Ort zu zahlen, optional), das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDenpasar.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "privater Wagen mit Fahrer",
+   "Bootstickets (Sanur-Nusa Penida hin und zurueck)",
+   "Hotelabholung und Ruecktransfer"
+  ],
+  "notIncluded": [
+   "Trinkgeld (optional, nach Ihrem Ermessen)",
+   "Schildkroeten-Freilassungsaktivitaet im Schutzzentrum (vor Ort zu zahlen, optional)"
   ]
  },
  "beyond-nusa-penida-2-day-secret-shores-and-manta-escape-nusa-penida": {
@@ -52177,6 +52207,19 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persoenliche Ausgaben"
   ]
  },
+ "kuta-beach-surfing-lesson-1-hour-local-instructor": {
+  "title": "Surfkurs am Kuta Beach (1 Stunde, lokaler Lehrer)",
+  "metaTitle": "Surfkurs am Kuta Beach (1 Stunde, lokaler Lehrer)",
+  "shortDescription": "1-stuendige Tour in Canggu, mit privater Einzelunterricht mit einem professionellen Lehrer. Direkt gebucht bei Orange Surf School Bali, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 1-stuendiges Erlebnis in Canggu. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nSurfkurse rund um Canggu finden an Beach Breaks statt, meist in Batu Bolong und Berawa, wo der Sandboden und die langsamen, bruechigen Wellen fuer die ersten Tage geeignet sind. Die Kurse dauern etwa zwei Stunden mit einem Softtop-Board und zunaechst einer kurzen Einheit im Sand, und die Lehrer schicken Anfaenger ins Weisswasser statt auf gruene Wellen zu warten. Morgen vor 9:00 Uhr sind in der Trockenzeit, April bis Oktober, am saubersten, wenn der Wind ablandig ist; die Regenzeit bringt groesseren, unruhigeren Surf und nachmittaegliche auflandige Winde. Rashguards werden gestellt, und Riffschuhe sind an diesen Straenden nicht noetig. Buchen Sie eine zweite Stunde erst nach der ersten; die meisten Leute stehen am Ende davon.\n\nIm Preis enthalten sind privater Einzelunterricht mit einem professionellen Lehrer. Nicht enthalten sind Hotelabholung und Ruecktransfer und Sonnencreme, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nOrange Surf School Bali.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "privater Einzelunterricht mit einem professionellen Lehrer"
+  ],
+  "notIncluded": [
+   "Hotelabholung und Ruecktransfer",
+   "Sonnencreme"
+  ]
+ },
  "2-hour-canggu-private-beginner-surf-lesson-canggu": {
   "title": "2-stuendiger privater Anfaenger-Surfunterricht in Canggu",
   "metaTitle": "2-stuendiger privater Anfaenger-Surfunterricht in Canggu",
@@ -52266,6 +52309,19 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "ausser Sie moechten die Schokolade mit nach Hause nehmen, dann muessen Sie dafuer bezahlen",
    "und Trinkgeld fuer den Guide"
+  ]
+ },
+ "baluran-national-park-jeep-adventure-and-sunset-experience-in-canggu": {
+  "title": "Jeep-Abenteuer im Baluran-Nationalpark und Sonnenuntergangserlebnis (Canggu)",
+  "metaTitle": "Jeep-Abenteuer im Baluran-Nationalpark und",
+  "shortDescription": "7-stuendige Tour in Canggu, mit Jeep / SUV und Baluran National Park and Bama Beach. Direkt gebucht bei Indo Trans Vacation, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 7-stuendiges Erlebnis ab Canggu, rund um Jeep / SUV und Baluran National Park and Bama Beach aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nATV-Strecken rund um Ubud fuehren durch die Doerfer nordlich der Stadt in der Naehe von Payangan und Tegallalang, auf einer Mischung aus Feldweg, Plantagenpfad, Flussbett und, auf den meisten Strecken, einem Abschnitt tiefen Schlamms, an den man sich am meisten erinnert. Die Fahrten dauern meist 1,5 bis 2 Stunden auf der Maschine, im Tandem- oder Einzelquad, mit einem vorausfahrenden Guide. Sie werden von den Knien abwaerts, oft auch komplett, dreckig werden, tragen Sie also Kleidung, die Ihnen egal ist; die Anbieter stellen Stiefel, Helme und danach eine Dusche zur Verfuegung. Mindestalter zum Fahren variieren je nach Anbieter und stehen bei der Option, und Kinder fahren meist als Beifahrer mit.\n\nIm Preis enthalten sind Abholservice und 4x4-Jeep-Safari mit professionellem Fahrer. Nicht enthalten sind Eintrittsgebuehr fuer auslaendische Touristen (205k, vor Ort zu zahlen), das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nBanyuwangi Regency.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Abholservice",
+   "4x4-Jeep-Safari mit professionellem Fahrer"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehr fuer auslaendische Touristen (205k, vor Ort zu zahlen)"
   ]
  },
  "charm-bar-workshop-necklace-or-bracelet-with-a-drink-in-canggu": {
@@ -52923,6 +52979,18 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten",
    "Trinkgelder",
    "optionale Add-ons"
+  ]
+ },
+ "manta-ray-and-blue-coral-snorkeling-adventure-in-nusa-penida": {
+  "title": "Mantarochen- und Blaukorallen-Schnorchelabenteuer in Nusa Penida",
+  "metaTitle": "Mantarochen- und Blaukorallen-Schnorchelabenteuer in Nusa Penida",
+  "shortDescription": "2,5-stuendige Tour in Nusa Penida, mit Speedboat und Manta Bay and Gamat Bay. Direkt gebucht bei BIMA BALI JOURNEY, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein Erlebnis von 2,5 Stunden ab Nusa Penida, rund um Speedboat und Manta Bay and Gamat Bay aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nBeim Schnorcheln vor Nusa Penida geht es vor allem um die Riffmantarochen am Manta Point an der Suedkueste der Insel, wo sie das ganze Jahr ueber zu finden sind, fressen und sich im Wellengang am Fuss der Klippen reinigen lassen. Die Boote fahren danach zu ruhigeren Stellen wie Crystal Bay, Gamat Bay und der Wand bei Buyuk fuer Korallen und Fische. Zwischen Juli und Oktober ist Crystal Bay auch der Ort, an den Taucher wegen des ozeanischen Mondfisches, mola mola, kommen, der in den kuehleren Monaten aus tieferem Wasser aufsteigt. Der Manta Point ist der Dunung aus dem Sueden ausgesetzt, und Boote lassen ihn aus, wenn das Meer aufgewuehlt ist, daher haengt ein Tag hier immer vom Wetter ab. Die Ueberfahrt von Sanur dauert dreissig bis fuenfundvierzig Minuten.\n\nIm Preis enthalten sind Schnorchelabenteuer an 3 bis 4 Orten. Nicht enthalten sind Persoenliche Ausgaben, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nArjuna Beach Club Nusa penida.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Schnorchelabenteuer an 3 bis 4 Orten"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben"
   ]
  },
  "sunrise-sunset-tour-with-manta-point-snorkeling-in-nusa-penida": {
@@ -54081,6 +54149,16 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Verpflegung und Getraenke"
   ]
+ },
+ "neon-painting-under-uv-lights-with-fun-and-unusual-tools-in-canggu": {
+  "title": "Neon-Malerei unter UV-Licht mit lustigen und ungewoehnlichen Werkzeugen in Canggu",
+  "metaTitle": "Neon-Malerei unter UV-Licht mit lustigen und ungewoehnlichen",
+  "shortDescription": "1-stuendige Tour in Canggu, mit 1 Leinwand oder 1 Textilartikel (T-Shirt / Stoffbeutel / Cap / Babykleidung). Direkt gebucht bei Wild Art Bali, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 1-stuendiges Erlebnis in Canggu. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nUbuds Ruf als Balis Kunststadt geht auf die 1930er Jahre zurueck, als sich die Maler Walter Spies und Rudolf Bonnet hier niederliessen und zusammen mit der Koenigsfamilie die Kuenstlervereinigung Pita Maha gruendeten, die den Ubud-Malstil praegte. Die Museen Neka, Puri Lukisan und ARMA besitzen die besten Sammlungen, und die Doerfer rund um die Stadt sind weiterhin spezialisiert: Batuan auf Malerei, Mas auf Schnitzkunst, Celuk auf Silber. Studio-Workshops machen daraus ein paar Stunden, in denen Sie mit einem Lehrer selbst etwas herstellen, und Sie nehmen das Stueck mit. Tragen Sie Kleidung, die Farbe, Wachs oder Faerbemittel vertraegt.\n\nIm Preis enthalten sind 1 Leinwand oder 1 Textilartikel (T-Shirt / Stoffbeutel / Cap / Babykleidung). Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nWild Art Bali.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "1 Leinwand oder 1 Textilartikel (T-Shirt / Stoffbeutel / Cap / Babykleidung)"
+  ],
+  "notIncluded": []
  },
  "half-day-city-tour-with-relaxing-aromatherapy-massage-in-canggu": {
   "title": "Halbtaegige Stadtrundfahrt mit entspannender Aromatherapie-Massage in Canggu",
@@ -55799,6 +55877,23 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder empfohlen"
   ]
  },
+ "tirta-empul-purification-and-coffee-tour-in-ubud": {
+  "title": "Tirta-Empul-Reinigung und Kaffeetour in Ubud",
+  "metaTitle": "Tirta-Empul-Reinigung und Kaffeetour in Ubud",
+  "shortDescription": "4-stuendige Tour in Ubud, mit Tirta Empul. Direkt gebucht bei Good Bali Tour, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 4-stuendiges Erlebnis ab Ubud, rund um Tirta Empul aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nTirta Empul ist ein Wassertempel am Fluss Pakerisan in Tampaksiring, gegruendet im Jahr 962 n. Chr. um eine Quelle, die die Balinesen als heilig betrachten. Das Reinigungsritual, melukat, bedeutet, in das Becken zu steigen und der Reihe nach von einem Wasserspeier zum naechsten unter Wasser zu gehen; zwei der Speier sind fuer Totenriten reserviert und werden nicht genutzt, ein Guide zeigt Ihnen, welche. Sarongs werden am Eingang gestellt, und Sie werden Wechselkleidung fuer danach wollen. Der Tempel ist bei lokalen Gottesdienstbesuchern am vollsten rund um Vollmond und an balinesischen heiligen Tagen, was man besser wissen als meiden sollte. Der von Sukarno in den 1950er Jahren erbaute Praesidentenpalast steht auf dem Huegel direkt ueber den Quellen.\n\nIm Preis enthalten sind Eintrittskarte fuer den Tirta-Empul-Tempel, traditionelles balinesisches Reinigungserlebnis und Opfergabe fuer die Reinigungszeremonie. Nicht enthalten sind Persoenliche Ausgaben, Mahlzeiten und Getraenke, die nicht in den Leistungen aufgefuehrt sind, Trinkgelder fuer den Guide oder Fahrer und Abholung und Ruecktransfer ausserhalb des festgelegten Treffpunkts am Ubud-Palast, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nUbud Palace.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Eintrittskarte fuer den Tirta-Empul-Tempel",
+   "traditionelles balinesisches Reinigungserlebnis",
+   "Opfergabe fuer die Reinigungszeremonie"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben",
+   "Mahlzeiten und Getraenke, die nicht in den Leistungen aufgefuehrt sind",
+   "Trinkgelder fuer den Guide oder Fahrer",
+   "Abholung und Ruecktransfer ausserhalb des festgelegten Treffpunkts am Ubud-Palast"
+  ]
+ },
  "utv-buggy-adventure-and-ayung-river-rafting-with-lunch-in-ubud": {
   "title": "UTV-Buggy-Abenteuer und Ayung-Fluss-Rafting mit Mittagessen in Ubud",
   "metaTitle": "UTV-Buggy-Abenteuer und Ayung-Fluss-Rafting mit Mittagessen in",
@@ -56300,6 +56395,22 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persoenliche Ausgaben",
    "Mittagessen",
    "Trinkgelder"
+  ]
+ },
+ "kintamani-downhill-cycling-small-group-and-private": {
+  "title": "Kintamani-Downhill-Radtour: Kleingruppe und Privat",
+  "metaTitle": "Kintamani-Downhill-Radtour: Kleingruppe und Privat",
+  "shortDescription": "2,5-stuendige Tour in Ubud, mit Traditional village. Direkt gebucht bei Dewa Bike Tour, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein Erlebnis von 2,5 Stunden ab Ubud, rund um Traditional village aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nKintamani ist der Grat am Rand der Batur-Caldera, auf etwa 1.500 Metern, und der Aussichtspunkt Penelokan blickt hinab auf den Vulkan, das Lavafeld des Ausbruchs von 1968 und den Batur-See. Es ist kuehl genug fuer eine Jacke. Penglipuran, in Bangli an der Strasse hinauf, ist ein traditionelles Dorf mit steingepflasterten Gassen und Hoefen mit Bambusdaechern, dessen Anordnung nach Dorfregeln erhalten bleibt, mit einem Bambuswald dahinter. Die Kaffeeplantagen entlang dieser Strasse bieten Verkostungen von lokalem Arabica und Robusta sowie von Zibet-verarbeitetem Kopi Luwak an; die Verkostungen sind kostenlos in Erwartung eines Kaufs, und es lohnt sich, bei einigen nach den Zibetkatzen in Kaefigen zu fragen, bevor man kauft.\n\nIm Preis enthalten sind Fahrrad und Helm, Mineralwasser und Guide (Englisch). Nicht enthalten sind Hin- und Ruecktransport, Mittagessen und Eintritt / Zugang zum Mount Batur, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPUKUH SARI.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Fahrrad und Helm",
+   "Mineralwasser",
+   "Guide (Englisch)"
+  ],
+  "notIncluded": [
+   "Hin- und Ruecktransport",
+   "Mittagessen",
+   "Eintritt / Zugang zum Mount Batur"
   ]
  },
  "mount-batur-sunrise-jeep-tour-and-ubud-rafting-adventure": {
@@ -57966,6 +58077,23 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Persoenliche Ausgaben",
    "Trinkgeld optional"
+  ]
+ },
+ "classic-vw-volcano-safari-and-hot-spring-in-ubud": {
+  "title": "Vulkan-Safari im klassischen VW und heisse Quelle in Ubud",
+  "metaTitle": "Vulkan-Safari im klassischen VW und heisse Quelle in Ubud",
+  "shortDescription": "8-stuendige Tour in Ubud, mit Mount Batur View Point und Mount Batur and Batur Natural Hot Spring. Direkt gebucht bei Your Bali Trekking Tour, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 8-stuendiges Erlebnis ab Ubud, rund um Mount Batur View Point und Mount Batur and Batur Natural Hot Spring aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nFahrradtouren rund um Ubud verlaufen meist bergab: Ein Van bringt Sie hinauf nach Kintamani am Rand der Caldera auf etwa 1.500 Metern, und die Fahrt geht zurueck durch die Doerfer, vorbei an Tempeln, Familienhoefen und Reisfeldern, ueber 20 bis 25 Kilometer mit sehr wenig Treten, und endet gegen Mittag in der Naehe von Ubud. E-Bike-Varianten fahren dieselbe Runde mit Motorunterstuetzung fuer die kurzen Anstiege. Flussrohr-Fahrten finden auf den ruhigeren Abschnitten des Ayung und am Siap-Fluss bei Payangan statt, etwa eine Stunde auf dem Wasser in einem einzelnen Schlauch, und werden an vielen dieser Tage mit der Radfahrt kombiniert. Helme werden gestellt, und die Strassen werden mit Rollern geteilt, daher fuehrt der Guide die Gruppe und haelt an Kreuzungen an.\n\nIm Preis enthalten sind Hotelabholung und Ruecktransfer, Transport mit klassischem VW, privater Fahrer, Eintrittskarten und Besuch der natuerlichen heissen Quellen. Nicht enthalten sind Persoenliche Ausgaben und Trinkgelder optional, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nJimbaran.. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Hotelabholung und Ruecktransfer",
+   "Transport mit klassischem VW",
+   "privater Fahrer",
+   "Eintrittskarten",
+   "Besuch der natuerlichen heissen Quellen"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben",
+   "Trinkgelder optional"
   ]
  },
  "bali-adventure-atv-ride-and-sacred-monkey-forest-experience-ubud": {
