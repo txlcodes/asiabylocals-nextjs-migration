@@ -48525,6 +48525,23 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "explore-amed-bali-by-scooter-with-local-driver-ubud": {
+  "title": "Amed, Bali, mit dem Roller und einem ortskundigen Fahrer erkunden (Ubud)",
+  "metaTitle": "Amed, Bali, mit dem Roller und einem ortskundigen Fahrer",
+  "shortDescription": "4-stuendige Tour in Ubud, mit Motorroller und ortskundiger Fahrer, Helm, Treibstoff, Trinkwasser und Abholung und Rueckbringung. Direkt gebucht bei AMED SAILING, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 4-stuendiges Erlebnis in Ubud. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nOstbali ist die ruhigere Seite der Insel unter dem Mount Agung. Das Sidemen-Tal hat Reisterrassen ohne die Massen von Tegallalang und einen direkten Blick auf den Vulkan; Tirta Gangga ist ein Wasserpalast, den der letzte Raja von Karangasem 1946 baute, mit Trittsteinen ueber einem Karpfenteich; Taman Ujung ist der fruehere Palast derselben Familie von 1919 an der Kueste. Besakih, der Muttertempel, ist ein Komplex aus 23 Tempeln auf 1.000 Metern am Hang des Agung und erfordert einen Sarong und seit 2023 einen offiziellen Guide. Weiter die Kueste entlang hat Amed schwarze Sandstraende, und Tulamben hat die USAT Liberty, ein 1942 torpediertes Frachtschiff, das 1963 durch den Ausbruch des Agung ins Meer gedrueckt wurde, heute ein Wracktauch- und Schnorchelspot direkt vom Strand aus.\n\nIm Preis enthalten sind Motorroller und ortskundiger Fahrer, Helm, Treibstoff, Trinkwasser und Abholung und Rueckbringung. Nicht enthalten sind Mahlzeiten und Getraenke, einschliesslich Mittagessen oder Kaffeepausen und Fotografenleistungen, Bootsverleih, Schnorchelausruestung und Schnorchelguide, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHotelabholung in Ubud. AMED SAILING bestaetigt Ihre Abholzeit und den genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Motorroller und ortskundiger Fahrer",
+   "Helm",
+   "Treibstoff",
+   "Trinkwasser",
+   "Abholung und Rueckbringung"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke, einschliesslich Mittagessen oder Kaffeepausen",
+   "Fotografenleistungen, Bootsverleih, Schnorchelausruestung und Schnorchelguide"
+  ]
+ },
  "east-bali-private-tour-with-lempuyang-temple-2": {
   "title": "Private Tour durch Ostbali mit dem Lempuyang-Tempel",
   "metaTitle": "Private Tour durch Ostbali mit dem Lempuyang-Tempel",
@@ -48859,6 +48876,21 @@ export const DE_TOURS: Record<string, TourT> = {
    "Kamera"
   ]
  },
+ "blue-lagoon-snorkeling-and-hidden-waterfall-with-lunch-in-ubud": {
+  "title": "Schnorcheln an der Blue Lagoon und versteckter Wasserfall mit Mittagessen ab Ubud",
+  "metaTitle": "Schnorcheln an der Blue Lagoon und versteckter Wasserfall mit",
+  "shortDescription": "2-stuendige Tour in Ubud, mit Padang Bai Harbour. Direkt gebucht bei Sweet Bali Tour (SBT), statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 2-stuendiges Erlebnis ab Ubud, rund um Padang Bai Harbour aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDie Wasserfaelle rund um Ubud liegen in einem Streifen oestlich und suedlich der Stadt, meist innerhalb einer Autostunde. Tegenungan ist der naeheste und meistbesuchte, mit einem breiten Fall und einem Becken am Fuss. Tibumana und Kanto Lampo, beide in Bangli, sind kleiner und besser zum Hineingehen ins Wasser geeignet: Tibumana faellt in einem einzigen Vorhang in ein klares Becken, und bei Kanto Lampo faechert sich das Wasser ueber eine gestufte Felswand, auf die Besucher fuer Fotos klettern. Bei allen geht es Stufen hinunter und wieder hinauf, und die Felsen sind rutschig, daher sind richtige Sandalen oder Schuhe, die nass werden duerfen, das passende Schuhwerk. Die Regenzeit, von November bis Maerz, bringt den vollsten Durchfluss, aber auch braunes Wasser fuer ein bis zwei Tage nach starkem Regen.\n\nIm Preis enthalten sind Hotelabholung und Ruecktransfer, professioneller Schnorchelguide und Fahrt mit dem traditionellen Jukung-Boot. Nicht enthalten sind frisch gebruehte Tasse authentischen Luwak-Kaffees, auf der Plantage kaeuflich erhaeltlich und persoenliche Ausgaben und Souvenireinkaeufe, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHotelabholung in Ubud. Sweet Bali Tour (SBT) bestaetigt Ihre Abholzeit und den genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Hotelabholung und Ruecktransfer",
+   "professioneller Schnorchelguide",
+   "Fahrt mit dem traditionellen Jukung-Boot"
+  ],
+  "notIncluded": [
+   "frisch gebruehte Tasse authentischen Luwak-Kaffees, auf der Plantage kaeuflich erhaeltlich",
+   "persoenliche Ausgaben und Souvenireinkaeufe"
+  ]
+ },
  "banyuwangi-mini-workshop-for-traditional-batik-making-in-ubud": {
   "title": "Banyuwangi: Mini-Workshop zur traditionellen Batikherstellung in Ubud",
   "metaTitle": "Banyuwangi: Mini-Workshop zur traditionellen Batikherstellung in",
@@ -49077,6 +49109,38 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "west-nusa-penida-with-photography-service-and-amok-sunset-nusa-penida": {
+  "title": "Westliches Nusa Penida mit Fotoservice und Sonnenuntergang in Amok (Nusa Penida)",
+  "metaTitle": "Westliches Nusa Penida mit Fotoservice und Sonnenuntergang in",
+  "shortDescription": "8-stuendige Tour in Nusa Penida, mit Kelingking Beach und Broken Beach and Angel Billabong. Direkt gebucht bei Kay Tour and Travel, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 8-stuendiges Erlebnis ab Nusa Penida, rund um Kelingking Beach und Broken Beach and Angel Billabong aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nKelingking ist die Klippe an der Suedwestkueste von Nusa Penida, die vom Aussichtspunkt aus wie ein T-Rex geformt wirkt, mit einem Sandstreifen am Fuss. Der Aussichtspunkt ist fuenf Minuten vom Parkplatz entfernt; der Strand braucht jeweils eine Stunde oder mehr hinunter auf einem Pfad mit etwa 400 Metern Hoehenunterschied, auf unebenen Stufen mit einem Bambusgelaender, und die See am Fuss hat eine starke Brandung. Die meisten Leute gehen nur zum Aussichtspunkt. Broken Beach, Pasih Uug, ist eine eingestuerzte Meereshoehle, die einen natuerlichen Bogen zuruckliess, und Angel's Billabong direkt daneben ist ein Gezeitenbecken, das bei Niedrigwasser sicher und bei Hochwasser gefaehrlich ist, wenn Wellen ueber den Rand schlagen. Diese drei liegen zusammen auf der Westseite und ergeben einen halben Tag.\n\nIm Preis enthalten sind Schnellboot-Tickets hin und zurueck, privates klimatisiertes Fahrzeug in Nusa Penida, Fahrer-Guide, Treibstoff und Fotografie-Service. Nicht enthalten sind Mittag- und Abendessen, Persoenliche Ausgaben und Trinkgelder, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Schnellboot-Tickets hin und zurueck",
+   "privates klimatisiertes Fahrzeug in Nusa Penida",
+   "Fahrer-Guide",
+   "Treibstoff",
+   "Fotografie-Service"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen",
+   "Persoenliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "nusa-lembongan-and-ceningan-island-day-tour": {
+  "title": "Tagestour zu den Inseln Nusa Lembongan und Ceningan",
+  "metaTitle": "Tagestour zu den Inseln Nusa Lembongan und Ceningan",
+  "shortDescription": "10-stuendige Tour in Nusa Penida, mit Speedboat and Yellow Bridge. Direkt gebucht bei Penida Getway, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 10-stuendiges Erlebnis ab Nusa Penida, rund um Speedboat and Yellow Bridge aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nNusa Lembongan ist die kleine Insel zwischen Bali und Nusa Penida, eine halbe Stunde von Sanur mit dem Schnellboot entfernt, mit einem langsameren Tempo als beide anderen. Tage hier umfassen meist Devil's Tear, wo die Dunung durch ein Felsriff an der Suedwestkueste explodiert, die Mangrovenkanaele auf der Nordostseite mit kleinem Boot, und die Gelbe Bruecke nach Nusa Ceningan mit seiner Blue Lagoon. Schnorcheln findet vor der Nordkueste und an der Mangrove-Point-Drift statt, und Mantas erreicht man mit einer weiteren Bootsfahrt nach Penida. Der Algenanbau, der einst die Untiefen bedeckte, ist weitgehend verschwunden, aber man kann die Gestelle bei Niedrigwasser noch sehen.\n\nIm Preis enthalten sind Hotelabholung und -ruecktransfer: Sanur, Kuta, Legian, Seminyak, Hin- und Ruecktickets fuer das Boot von Sanur nach Nusa Lembongan und Willkommensgetraenke. Nicht enthalten sind persoenlicher Einkauf, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDie Abholung wird ab Kuta, Denpasar und Seminyak and Legian angeboten; der genaue Ort und die Uhrzeit werden nach Bestaetigung der Buchung mit Penida Getway vereinbart, und die gewaehlte Option bestimmt, ob der Transport enthalten ist.\n\nHotelabholung in Nusa Penida. Penida Getway bestaetigt Ihre Abholzeit und den genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Hotelabholung und -ruecktransfer: Sanur, Kuta, Legian, Seminyak",
+   "Hin- und Ruecktickets fuer das Boot von Sanur nach Nusa Lembongan",
+   "Willkommensgetraenke"
+  ],
+  "notIncluded": [
+   "persoenlicher Einkauf"
+  ]
+ },
  "manta-snorkeling-banah-cliff-and-west-nusa-penida": {
   "title": "Manta-Schnorcheln, Banah-Klippe und Westen von Nusa Penida",
   "metaTitle": "Manta-Schnorcheln, Banah-Klippe und Westen von Nusa Penida",
@@ -49101,6 +49165,38 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "manta-point-and-gamat-bay-snorkeling-tour-in-nusa-penida": {
+  "title": "Schnorcheltour zu Manta Point und der Gamat-Bucht in Nusa Penida",
+  "metaTitle": "Schnorcheltour zu Manta Point und der Gamat-Bucht in Nusa Penida",
+  "shortDescription": "3-stuendige Tour in Nusa Penida, mit Mineralwasser, privater professioneller Fotograf und Schnorchelboot, Maske, Schwimmweste, Flossen, DJI-Kamera, Handtuch, Dusche. Direkt gebucht bei Fast Bali Tour, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 3-stuendiges Erlebnis in Nusa Penida. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nBeim Schnorcheln vor Nusa Penida geht es vor allem um die Riffmantarochen am Manta Point an der Suedkueste der Insel, wo sie das ganze Jahr ueber zu finden sind, fressen und sich im Wellengang am Fuss der Klippen reinigen lassen. Die Boote fahren danach zu ruhigeren Stellen wie Crystal Bay, Gamat Bay und der Wand bei Buyuk fuer Korallen und Fische. Zwischen Juli und Oktober ist Crystal Bay auch der Ort, an den Taucher wegen des ozeanischen Mondfisches, mola mola, kommen, der in den kuehleren Monaten aus tieferem Wasser aufsteigt. Der Manta Point ist der Dunung aus dem Sueden ausgesetzt, und Boote lassen ihn aus, wenn das Meer aufgewuehlt ist, daher haengt ein Tag hier immer vom Wetter ab. Die Ueberfahrt von Sanur dauert dreissig bis fuenfundvierzig Minuten.\n\nIm Preis enthalten sind Mineralwasser, privater professioneller Fotograf und Schnorchelboot, Maske, Schwimmweste, Flossen, DJI-Kamera, Handtuch, Dusche. Nicht enthalten sind Essen und Getraenke und Trinkgelder, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Mineralwasser",
+   "privater professioneller Fotograf",
+   "Schnorchelboot, Maske, Schwimmweste, Flossen, DJI-Kamera, Handtuch, Dusche"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke",
+   "Trinkgelder"
+  ]
+ },
+ "nusa-penida-watersport-adventure-with-lunch": {
+  "title": "Wassersport-Abenteuer in Nusa Penida mit Mittagessen",
+  "metaTitle": "Wassersport-Abenteuer in Nusa Penida mit Mittagessen",
+  "shortDescription": "10-stuendige Tour in Nusa Penida, mit Hoteltransfer, Snackbox am Hafen, Tablette gegen Seekrankheit, Hin- und Ruecktour mit dem Schnellboot und Willkommensgetraenk. Direkt gebucht bei Penida Getway, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 10-stuendiges Erlebnis in Nusa Penida. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nNusa Penida ist die groesste der drei Inseln vor der Suedostkueste Balis, etwa 200 Quadratkilometer Kalkstein mit Klippen im Sueden und Westen und ein paar Doerfern an der Nordkueste, wo die Boote anlegen. Es gibt praktisch keinen Verkehr, aber die Strassen sind eng und langsam, weshalb ein Tagesausflug entweder die Westseite (Kelingking, Broken Beach, Angel's Billabong) oder die Ostseite (Diamond Beach, Atuh, Tree House) abdeckt, nicht beide. Schnellboote von Sanur brauchen dreissig bis fuenfundvierzig Minuten, fahren ab etwa 7:00 Uhr, und werden bei starker Dunung abgesagt oder verspaetet. Bringen Sie Bargeld mit: Kartenterminals sind selten und die Geldautomaten unzuverlaessig.\n\nIm Preis enthalten sind Hoteltransfer, Snackbox am Hafen, Tablette gegen Seekrankheit, Hin- und Ruecktour mit dem Schnellboot und Willkommensgetraenk. Nicht enthalten sind Persoenliche Ausgaben und Reiseversicherung, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHotelabholung in Nusa Penida. Penida Getway bestaetigt Ihre Abholzeit und den genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Hoteltransfer",
+   "Snackbox am Hafen",
+   "Tablette gegen Seekrankheit",
+   "Hin- und Ruecktour mit dem Schnellboot",
+   "Willkommensgetraenk"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben",
+   "Reiseversicherung"
+  ]
+ },
  "full-day-guided-snorkeling-and-island-tour-in-nusa-penida": {
   "title": "Ganztages-Schnorchel- und Inseltour mit Guide in Nusa Penida",
   "metaTitle": "Ganztages-Schnorchel- und Inseltour mit Guide in Nusa Penida",
@@ -49114,6 +49210,21 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittsgebuehren"
   ],
   "notIncluded": [
+   "Persoenliche Ausgaben"
+  ]
+ },
+ "all-inclusive-2-spot-manta-snorkeling-tour-in-nusa-penida": {
+  "title": "All-Inclusive-Schnorcheltour mit Mantarochen an 2 Spots in Nusa Penida",
+  "metaTitle": "All-Inclusive-Schnorcheltour mit Mantarochen an 2 Spots in Nusa",
+  "shortDescription": "8-stuendige Tour in Nusa Penida, mit Tickets fuer das gemeinsame Schnorchelboot, professioneller Schnorchelguide und Schnorchelausruestung. Direkt gebucht bei Kay Tour and Travel, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 8-stuendiges Erlebnis in Nusa Penida. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nBeim Schnorcheln vor Nusa Penida geht es vor allem um die Riffmantarochen am Manta Point an der Suedkueste der Insel, wo sie das ganze Jahr ueber zu finden sind, fressen und sich im Wellengang am Fuss der Klippen reinigen lassen. Die Boote fahren danach zu ruhigeren Stellen wie Crystal Bay, Gamat Bay und der Wand bei Buyuk fuer Korallen und Fische. Zwischen Juli und Oktober ist Crystal Bay auch der Ort, an den Taucher wegen des ozeanischen Mondfisches, mola mola, kommen, der in den kuehleren Monaten aus tieferem Wasser aufsteigt. Der Manta Point ist der Dunung aus dem Sueden ausgesetzt, und Boote lassen ihn aus, wenn das Meer aufgewuehlt ist, daher haengt ein Tag hier immer vom Wetter ab. Die Ueberfahrt von Sanur dauert dreissig bis fuenfundvierzig Minuten.\n\nIm Preis enthalten sind Tickets fuer das gemeinsame Schnorchelboot, professioneller Schnorchelguide und Schnorchelausruestung. Nicht enthalten sind Besuch einer Algenfarm optional und Persoenliche Ausgaben, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Tickets fuer das gemeinsame Schnorchelboot",
+   "professioneller Schnorchelguide",
+   "Schnorchelausruestung"
+  ],
+  "notIncluded": [
+   "Besuch einer Algenfarm optional",
    "Persoenliche Ausgaben"
   ]
  },
@@ -49233,6 +49344,23 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "nusa-penida-private-snorkeling-manta-rays-and-land-tour": {
+  "title": "Private Schnorcheltour, Mantarochen und Landtour in Nusa Penida",
+  "metaTitle": "Private Schnorcheltour, Mantarochen und Landtour in Nusa Penida",
+  "shortDescription": "9-stuendige Tour in Nusa Penida, mit privater Schnellboot-Transport, Guide, Schnorchelausruestung, Handtuecher und Unterwasserfotos und -videos mit GoPro. Direkt gebucht bei Indo Compass, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 9-stuendiges Erlebnis in Nusa Penida. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nBeim Schnorcheln vor Nusa Penida geht es vor allem um die Riffmantarochen am Manta Point an der Suedkueste der Insel, wo sie das ganze Jahr ueber zu finden sind, fressen und sich im Wellengang am Fuss der Klippen reinigen lassen. Die Boote fahren danach zu ruhigeren Stellen wie Crystal Bay, Gamat Bay und der Wand bei Buyuk fuer Korallen und Fische. Zwischen Juli und Oktober ist Crystal Bay auch der Ort, an den Taucher wegen des ozeanischen Mondfisches, mola mola, kommen, der in den kuehleren Monaten aus tieferem Wasser aufsteigt. Der Manta Point ist der Dunung aus dem Sueden ausgesetzt, und Boote lassen ihn aus, wenn das Meer aufgewuehlt ist, daher haengt ein Tag hier immer vom Wetter ab. Die Ueberfahrt von Sanur dauert dreissig bis fuenfundvierzig Minuten.\n\nIm Preis enthalten sind privater Schnellboot-Transport, Guide, Schnorchelausruestung, Handtuecher und Unterwasserfotos und -videos mit GoPro. Nicht enthalten sind Fruehstueck und Persoenliche Ausgaben, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "privater Schnellboot-Transport",
+   "Guide",
+   "Schnorchelausruestung",
+   "Handtuecher",
+   "Unterwasserfotos und -videos mit GoPro"
+  ],
+  "notIncluded": [
+   "Fruehstueck",
+   "Persoenliche Ausgaben"
+  ]
+ },
  "bali-nusa-penida-all-inclusive-day-tour-nusa-penida": {
   "title": "All-Inclusive-Tagestour nach Nusa Penida, Bali (Nusa Penida)",
   "metaTitle": "All-Inclusive-Tagestour nach Nusa Penida, Bali (Nusa Penida)",
@@ -49246,6 +49374,23 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "persoenliche Ausgaben, Souvenirs, zusaetzliche Snacks usw",
    "Trinkgeld fuer den Fahrer oder Guide"
+  ]
+ },
+ "private-half-day-snorkeling-tour-to-nusa-penida": {
+  "title": "Private halbtaegige Schnorcheltour nach Nusa Penida",
+  "metaTitle": "Private halbtaegige Schnorcheltour nach Nusa Penida",
+  "shortDescription": "4-stuendige Tour in Nusa Penida, mit Yacht und Manta Point and Gamat Bay. Direkt gebucht bei Indo Compass, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 4-stuendiges Erlebnis ab Nusa Penida, rund um Yacht und Manta Point and Gamat Bay aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nBeim Schnorcheln vor Nusa Penida geht es vor allem um die Riffmantarochen am Manta Point an der Suedkueste der Insel, wo sie das ganze Jahr ueber zu finden sind, fressen und sich im Wellengang am Fuss der Klippen reinigen lassen. Die Boote fahren danach zu ruhigeren Stellen wie Crystal Bay, Gamat Bay und der Wand bei Buyuk fuer Korallen und Fische. Zwischen Juli und Oktober ist Crystal Bay auch der Ort, an den Taucher wegen des ozeanischen Mondfisches, mola mola, kommen, der in den kuehleren Monaten aus tieferem Wasser aufsteigt. Der Manta Point ist der Dunung aus dem Sueden ausgesetzt, und Boote lassen ihn aus, wenn das Meer aufgewuehlt ist, daher haengt ein Tag hier immer vom Wetter ab. Die Ueberfahrt von Sanur dauert dreissig bis fuenfundvierzig Minuten.\n\nIm Preis enthalten sind privates Boot fuer 4 Stunden, Unterwasserfotos und -videos, Schnorcheln an 4 Spots, Schnorchelausruestung und Alle Eintrittskarten. Nicht enthalten sind Mittagessen und Fruehstueck, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "privates Boot fuer 4 Stunden",
+   "Unterwasserfotos und -videos",
+   "Schnorcheln an 4 Spots",
+   "Schnorchelausruestung",
+   "Alle Eintrittskarten"
+  ],
+  "notIncluded": [
+   "Mittagessen",
+   "Fruehstueck"
   ]
  },
  "watersports-and-uluwatu-temple-private-tour": {
@@ -49265,6 +49410,22 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittsgebuehr"
   ]
  },
+ "2-day-tour-with-ubud-and-melasti-kecak-dance": {
+  "title": "2-taegige Tour nach Ubud und Kecak-Tanz in Melasti",
+  "metaTitle": "2-taegige Tour nach Ubud und Kecak-Tanz in Melasti",
+  "shortDescription": "2-taegige Tour in Uluwatu, mit Alle Eintrittskarten, privates Auto mit Klimaanlage, englischsprachiger Fahrer und Guide und Versicherung. Direkt gebucht bei Smart Bali Tours, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 2-taegiges Erlebnis in Uluwatu. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nPura Luhur Uluwatu steht auf einer Klippe etwa 70 Meter ueber dem Meer an der suedwestlichen Spitze der Bukit-Halbinsel, einer von Balis sechs Richtungstempeln, verbunden mit dem Priester Empu Kuturan aus dem elften Jahrhundert. Der Kecak-Feuertanz wird jeden Abend gegen 18:00 Uhr in einem Amphitheater neben dem Tempel aufgefuehrt, zeitlich so gelegt, dass der Sonnenuntergang hinter den Taenzern liegt; er dauert etwa eine Stunde, der Gesang wird von einem Kreis von Maennern ohne Instrumente ausgefuehrt, und die Geschichte ist das Ramayana. Sarongs werden am Eingang gestellt. Die Affen des Tempels sind geuebte Diebe von Sonnenbrillen und Handys, also beides auf dem Klippenweg in einer Tasche verstauen.\n\nIm Preis enthalten sind Alle Eintrittskarten, privates Auto mit Klimaanlage, englischsprachiger Fahrer und Guide und Versicherung. Nicht enthalten sind Wassersport-Ticket und Mahlzeit, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Alle Eintrittskarten",
+   "privates Auto mit Klimaanlage",
+   "englischsprachiger Fahrer und Guide",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Wassersport-Ticket",
+   "Mahlzeit"
+  ]
+ },
  "kecak-fire-dance-show-with-optional-hotel-transfer-in-uluwatu": {
   "title": "Kecak-Feuertanz-Show mit optionalem Hoteltransfer, in Uluwatu",
   "metaTitle": "Kecak-Feuertanz-Show mit optionalem Hoteltransfer, in Uluwatu",
@@ -49279,6 +49440,20 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persoenliche Ausgaben"
   ]
  },
+ "tulamben-usat-liberty-shipwreck-diving-experience-in-uluwatu": {
+  "title": "Taucherlebnis am Schiffswrack USAT Liberty in Tulamben, ab Uluwatu",
+  "metaTitle": "Taucherlebnis am Schiffswrack USAT Liberty in Tulamben, ab",
+  "shortDescription": "12-stuendige Tour in Uluwatu, mit Hotelabholung und Ruecktransfer, professioneller PADI-Tauchlehrer und zwei Tauchgaenge. Direkt gebucht bei KRISS Bali Diving, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 12-stuendiges Erlebnis in Uluwatu. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nOstbali ist die ruhigere Seite der Insel unter dem Mount Agung. Das Sidemen-Tal hat Reisterrassen ohne die Massen von Tegallalang und einen direkten Blick auf den Vulkan; Tirta Gangga ist ein Wasserpalast, den der letzte Raja von Karangasem 1946 baute, mit Trittsteinen ueber einem Karpfenteich; Taman Ujung ist der fruehere Palast derselben Familie von 1919 an der Kueste. Besakih, der Muttertempel, ist ein Komplex aus 23 Tempeln auf 1.000 Metern am Hang des Agung und erfordert einen Sarong und seit 2023 einen offiziellen Guide. Weiter die Kueste entlang hat Amed schwarze Sandstraende, und Tulamben hat die USAT Liberty, ein 1942 torpediertes Frachtschiff, das 1963 durch den Ausbruch des Agung ins Meer gedrueckt wurde, heute ein Wracktauch- und Schnorchelspot direkt vom Strand aus.\n\nIm Preis enthalten sind Hotelabholung und Ruecktransfer, professioneller PADI-Tauchlehrer und zwei Tauchgaenge. Nicht enthalten sind Tauchzertifizierung fuer nicht zertifizierte Taucher, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHotelabholung in Uluwatu. KRISS Bali Diving bestaetigt Ihre Abholzeit und den genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Hotelabholung und Ruecktransfer",
+   "professioneller PADI-Tauchlehrer",
+   "zwei Tauchgaenge"
+  ],
+  "notIncluded": [
+   "Tauchzertifizierung fuer nicht zertifizierte Taucher"
+  ]
+ },
  "monumental-grace-art-reflection-and-hidden-calm-shore-in-uluwatu": {
   "title": "Monumentale Anmut, Kunstreflexion und verborgene ruhige Kueste, in Uluwatu",
   "metaTitle": "Monumentale Anmut, Kunstreflexion und verborgene ruhige Kueste,",
@@ -49288,6 +49463,107 @@ export const DE_TOURS: Record<string, TourT> = {
    "Hotelabholung und Ruecktransfer je nach gewaehlter Option",
    "Kinder von 1 bis 3 Jahren nehmen kostenlos teil",
    "Willkommensflasche Mineralwasser"
+  ],
+  "notIncluded": []
+ },
+ "ubud-and-uluwatu-private-full-day-tour": {
+  "title": "Private Ganztagestour nach Ubud und Uluwatu",
+  "metaTitle": "Private Ganztagestour nach Ubud und Uluwatu",
+  "shortDescription": "14-stuendige Tour in Uluwatu, mit View point. Direkt gebucht bei upperTour, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 14-stuendiges Erlebnis ab Uluwatu, rund um View point aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDie Bukit-Halbinsel, der Kalksteinblock an der Suedspitze Balis, beherbergt den Uluwatu-Tempel mit seinem Kecak, die Klippenstraende und die Garuda-Wisnu-Kencana-Statue, eine 121 Meter hohe Figur von Vishnu auf Garuda, 2018 nach 28 Jahren fertiggestellt, die in einem Kulturpark mit Tanzvorfuehrungen ueber den Tag steht. Die Halbinsel ist trocken, heiss und meist ohne Schatten, und die Entfernungen zwischen den Straenden sind laenger, als sie auf einer Karte aussehen, daher ist ein Fahrer fuer den Tag die ueblichste Art, sie zu sehen. Der Sonnenuntergang liegt das ganze Jahr etwa zwischen 18:15 und 18:30 Uhr, und Uluwatus Klippenpfad fuellt sich dafuer.\n\nIm Preis enthalten sind privates Auto fuer eine Ganztagestour, Eintrittsgebuehr und Besuch von Ubud und Uluwatu. Nicht enthalten sind Mahlzeiten und Persoenliche Ausgaben, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "privates Auto fuer eine Ganztagestour",
+   "Eintrittsgebuehr",
+   "Besuch von Ubud und Uluwatu"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persoenliche Ausgaben"
+  ]
+ },
+ "watersport-tanjung-benoa-adventure-package-in-uluwatu": {
+  "title": "Wassersport-Abenteuerpaket in Tanjung Benoa, ab Uluwatu",
+  "metaTitle": "Wassersport-Abenteuerpaket in Tanjung Benoa, ab Uluwatu",
+  "shortDescription": "15-minuetige Tour in Uluwatu, mit Tanjung Benoa. Direkt gebucht bei Bali Rahayu Travel, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 15-minuetiges Erlebnis ab Uluwatu, rund um Tanjung Benoa aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDie Bukit-Halbinsel, der Kalksteinblock an der Suedspitze Balis, beherbergt den Uluwatu-Tempel mit seinem Kecak, die Klippenstraende und die Garuda-Wisnu-Kencana-Statue, eine 121 Meter hohe Figur von Vishnu auf Garuda, 2018 nach 28 Jahren fertiggestellt, die in einem Kulturpark mit Tanzvorfuehrungen ueber den Tag steht. Die Halbinsel ist trocken, heiss und meist ohne Schatten, und die Entfernungen zwischen den Straenden sind laenger, als sie auf einer Karte aussehen, daher ist ein Fahrer fuer den Tag die ueblichste Art, sie zu sehen. Der Sonnenuntergang liegt das ganze Jahr etwa zwischen 18:15 und 18:30 Uhr, und Uluwatus Klippenpfad fuellt sich dafuer.\n\nIm Preis enthalten sind Bananenboot, falls die Option gewaehlt wird, Jetski mit Instruktor, Option Einzelfahrt und Parasailing, falls die Option gewaehlt wird. Nicht enthalten sind Verpflegung, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Bananenboot, falls die Option gewaehlt wird",
+   "Jetski mit Instruktor, Option Einzelfahrt",
+   "Parasailing, falls die Option gewaehlt wird"
+  ],
+  "notIncluded": [
+   "Verpflegung"
+  ]
+ },
+ "jimbaran-bay-romantic-spa-and-seafood-sunset-dinner": {
+  "title": "Romantisches Spa und Meeresfruechte-Abendessen bei Sonnenuntergang in der Bucht von Jimbaran",
+  "metaTitle": "Romantisches Spa und Meeresfruechte-Abendessen bei",
+  "shortDescription": "5-stuendige Tour in Uluwatu, mit Hotelabholung und Ruecktransfer, Fahrer-Guide, Spa-Eintrittskarte, 2-stuendige Spa-Behandlung und Thalasso-Fusswaschung. Direkt gebucht bei CV. BALAKOSA TOUR, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 5-stuendiges Erlebnis in Uluwatu. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nUbuds Wellness-Branche entstand aus seiner Geschichte als Heilzentrum; der Name der Stadt kommt von ubad, Medizin. Die balinesische Massage ist eine Technik mit langen Zuegen auf Oelbasis mit Akupressur, und ein boreh-Peeling, eine Paste aus Gewuerzen und Reispulver, ist die traditionelle waermende Behandlung danach. Die meisten Spa-Sitzungen dauern 60 bis 120 Minuten und enden mit einem Blumenbad oder Ingwertee. Yogastudios in der Stadt unterrichten jeden Stil, mit Drop-in-Kursen ueber den ganzen Tag; Klangheilungs-Sitzungen nutzen Gongs und singende Schalen und dauern etwa eine Stunde. Tragen Sie lockere Kleidung, kommen Sie zehn Minuten frueher und essen Sie vorher leicht.\n\nIm Preis enthalten sind Hotelabholung und Ruecktransfer, Fahrer-Guide, Spa-Eintrittskarte, 2-stuendige Spa-Behandlung und Thalasso-Fusswaschung. Nicht enthalten sind Mittagessen und Trinkgelder, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHotelabholung in Uluwatu. CV. BALAKOSA TOUR bestaetigt Ihre Abholzeit und den genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Hotelabholung und Ruecktransfer",
+   "Fahrer-Guide",
+   "Spa-Eintrittskarte",
+   "2-stuendige Spa-Behandlung",
+   "Thalasso-Fusswaschung"
+  ],
+  "notIncluded": [
+   "Mittagessen",
+   "Trinkgelder"
+  ]
+ },
+ "devdan-show-at-bali-nusa-dua-theatre-uluwatu": {
+  "title": "Devdan-Show im Nusa Dua Theatre, Bali (Uluwatu)",
+  "metaTitle": "Devdan-Show im Nusa Dua Theatre, Bali (Uluwatu)",
+  "shortDescription": "2-stuendige Tour in Uluwatu, mit 70-minuetige Vorstellung. Direkt gebucht bei Indotrip, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 2-stuendiges Erlebnis in Uluwatu. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDie Bukit-Halbinsel, der Kalksteinblock an der Suedspitze Balis, beherbergt den Uluwatu-Tempel mit seinem Kecak, die Klippenstraende und die Garuda-Wisnu-Kencana-Statue, eine 121 Meter hohe Figur von Vishnu auf Garuda, 2018 nach 28 Jahren fertiggestellt, die in einem Kulturpark mit Tanzvorfuehrungen ueber den Tag steht. Die Halbinsel ist trocken, heiss und meist ohne Schatten, und die Entfernungen zwischen den Straenden sind laenger, als sie auf einer Karte aussehen, daher ist ein Fahrer fuer den Tag die ueblichste Art, sie zu sehen. Der Sonnenuntergang liegt das ganze Jahr etwa zwischen 18:15 und 18:30 Uhr, und Uluwatus Klippenpfad fuellt sich dafuer.\n\nIm Preis enthalten sind 70-minuetige Vorstellung. Nicht enthalten sind Mahlzeiten, Hoteltransfer aus bestimmten Gebieten fuer Sitzplatz C und Hoteltransfer fuer Sitzplatz A, B, C aus dem Randgebiet, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "70-minuetige Vorstellung"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Hoteltransfer aus bestimmten Gebieten fuer Sitzplatz C",
+   "Hoteltransfer fuer Sitzplatz A, B, C aus dem Randgebiet"
+  ]
+ },
+ "nusa-dua-bali-benoa-watersport-5-combo-water-activities-uluwatu": {
+  "title": "Nusa Dua: Benoa-Wassersport Bali, 5 Kombi-Wasseraktivitaeten (Uluwatu)",
+  "metaTitle": "Nusa Dua: Benoa-Wassersport Bali, 5 Kombi-Wasseraktivitaeten",
+  "shortDescription": "Tour in Uluwatu, mit Bali. Direkt gebucht bei Watersport Bali Tanjung Benoa, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein Erlebnis ab Uluwatu, rund um Bali aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDie Bukit-Halbinsel, der Kalksteinblock an der Suedspitze Balis, beherbergt den Uluwatu-Tempel mit seinem Kecak, die Klippenstraende und die Garuda-Wisnu-Kencana-Statue, eine 121 Meter hohe Figur von Vishnu auf Garuda, 2018 nach 28 Jahren fertiggestellt, die in einem Kulturpark mit Tanzvorfuehrungen ueber den Tag steht. Die Halbinsel ist trocken, heiss und meist ohne Schatten, und die Entfernungen zwischen den Straenden sind laenger, als sie auf einer Karte aussehen, daher ist ein Fahrer fuer den Tag die ueblichste Art, sie zu sehen. Der Sonnenuntergang liegt das ganze Jahr etwa zwischen 18:15 und 18:30 Uhr, und Uluwatus Klippenpfad fuellt sich dafuer.\n\nIm Preis enthalten sind Eintrittsticket fuer Wassersport je nach gewaehltem Wassersportpaket, Abhol- und Ruecktransferservice, falls die Option gewaehlt wird und Mittagessen, wenn diese Option gewaehlt wird. Nicht enthalten sind Trinkgelder und auf eigene Kosten, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHotelabholung in Uluwatu. Watersport Bali Tanjung Benoa bestaetigt Ihre Abholzeit und den genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Eintrittsticket fuer Wassersport je nach gewaehltem Wassersportpaket",
+   "Abhol- und Ruecktransferservice, falls die Option gewaehlt wird",
+   "Mittagessen, wenn diese Option gewaehlt wird"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "auf eigene Kosten"
+  ]
+ },
+ "5-course-romantic-evening-cruise-with-live-music-in-uluwatu": {
+  "title": "Romantische Abendkreuzfahrt mit 5-Gaenge-Menue und Live-Musik, ab Uluwatu",
+  "metaTitle": "Romantische Abendkreuzfahrt mit 5-Gaenge-Menue und Live-Musik,",
+  "shortDescription": "3-stuendige Tour in Uluwatu, mit Benoa Bay. Direkt gebucht bei Bali Hai Cruises, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 3-stuendiges Erlebnis ab Uluwatu, rund um Benoa Bay aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDie Bukit-Halbinsel, der Kalksteinblock an der Suedspitze Balis, beherbergt den Uluwatu-Tempel mit seinem Kecak, die Klippenstraende und die Garuda-Wisnu-Kencana-Statue, eine 121 Meter hohe Figur von Vishnu auf Garuda, 2018 nach 28 Jahren fertiggestellt, die in einem Kulturpark mit Tanzvorfuehrungen ueber den Tag steht. Die Halbinsel ist trocken, heiss und meist ohne Schatten, und die Entfernungen zwischen den Straenden sind laenger, als sie auf einer Karte aussehen, daher ist ein Fahrer fuer den Tag die ueblichste Art, sie zu sehen. Der Sonnenuntergang liegt das ganze Jahr etwa zwischen 18:15 und 18:30 Uhr, und Uluwatus Klippenpfad fuellt sich dafuer.\n\nIm Preis enthalten sind Willkommensgetraenk, Blumenkette und tropisches 5-Gaenge-Abendessen. Nicht enthalten sind Getraenke koennen gekauft werden, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHotelabholung in Uluwatu. Bali Hai Cruises bestaetigt Ihre Abholzeit und den genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Willkommensgetraenk",
+   "Blumenkette",
+   "tropisches 5-Gaenge-Abendessen"
+  ],
+  "notIncluded": [
+   "Getraenke koennen gekauft werden"
+  ]
+ },
+ "bali-surfing-lessons-at-kedungu-beach-with-private-transfer-canggu": {
+  "title": "Surfunterricht auf Bali am Strand von Kedungu mit privatem Transfer (Canggu)",
+  "metaTitle": "Surfunterricht auf Bali am Strand von Kedungu mit privatem",
+  "shortDescription": "6-stuendige Tour in Canggu, mit privater Hin- und Ruecktransfer von und zu Ihrer Unterkunft, Surfunterricht mit einem erfahrenen ortskundigen Trainer und Surfbrett und die gesamte notwendige Surfausruestung. Direkt gebucht bei Bali Discount Adventure, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 6-stuendiges Erlebnis in Canggu. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nSurfkurse rund um Canggu finden an Beach Breaks statt, meist in Batu Bolong und Berawa, wo der Sandboden und die langsamen, bruechigen Wellen fuer die ersten Tage geeignet sind. Die Kurse dauern etwa zwei Stunden mit einem Softtop-Board und zunaechst einer kurzen Einheit im Sand, und die Lehrer schicken Anfaenger ins Weisswasser statt auf gruene Wellen zu warten. Morgen vor 9:00 Uhr sind in der Trockenzeit, April bis Oktober, am saubersten, wenn der Wind ablandig ist; die Regenzeit bringt groesseren, unruhigeren Surf und nachmittaegliche auflandige Winde. Rashguards werden gestellt, und Riffschuhe sind an diesen Straenden nicht noetig. Buchen Sie eine zweite Stunde erst nach der ersten; die meisten Leute stehen am Ende davon.\n\nIm Preis enthalten sind privater Hin- und Ruecktransfer von und zu Ihrer Unterkunft, Surfunterricht mit einem erfahrenen ortskundigen Trainer und Surfbrett und die gesamte notwendige Surfausruestung. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "privater Hin- und Ruecktransfer von und zu Ihrer Unterkunft",
+   "Surfunterricht mit einem erfahrenen ortskundigen Trainer",
+   "Surfbrett und die gesamte notwendige Surfausruestung"
   ],
   "notIncluded": []
  },
@@ -49306,6 +49582,88 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "kuta-yoga-class-with-puppy-and-smoothie-bowl-and-pool-access-canggu": {
+  "title": "Kuta: Yogakurs mit Welpen, Smoothie Bowl und Poolzugang (Canggu)",
+  "metaTitle": "Kuta: Yogakurs mit Welpen, Smoothie Bowl und Poolzugang (Canggu)",
+  "shortDescription": "1,5-stuendige Tour in Canggu, mit gefuehrte Yoga-Sitzung, Smoothie Bowl und Getraenk, All-Access-Pass und Zugang zum Swimmingpool. Direkt gebucht bei Bali Pet Nirvana Indonesia, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein Erlebnis von 1,5 Stunden in Canggu. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nUbuds Wellness-Branche entstand aus seiner Geschichte als Heilzentrum; der Name der Stadt kommt von ubad, Medizin. Die balinesische Massage ist eine Technik mit langen Zuegen auf Oelbasis mit Akupressur, und ein boreh-Peeling, eine Paste aus Gewuerzen und Reispulver, ist die traditionelle waermende Behandlung danach. Die meisten Spa-Sitzungen dauern 60 bis 120 Minuten und enden mit einem Blumenbad oder Ingwertee. Yogastudios in der Stadt unterrichten jeden Stil, mit Drop-in-Kursen ueber den ganzen Tag; Klangheilungs-Sitzungen nutzen Gongs und singende Schalen und dauern etwa eine Stunde. Tragen Sie lockere Kleidung, kommen Sie zehn Minuten frueher und essen Sie vorher leicht.\n\nIm Preis enthalten sind gefuehrte Yoga-Sitzung, Smoothie Bowl und Getraenk, All-Access-Pass und Zugang zum Swimmingpool. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "gefuehrte Yoga-Sitzung",
+   "Smoothie Bowl und Getraenk",
+   "All-Access-Pass",
+   "Zugang zum Swimmingpool"
+  ],
+  "notIncluded": []
+ },
+ "surf-lesson-in-batu-bolong-canggu-with-certified-instructor-canggu": {
+  "title": "Surfunterricht in Batu Bolong, Canggu, mit zertifiziertem Instruktor",
+  "metaTitle": "Surfunterricht in Batu Bolong, Canggu, mit zertifiziertem",
+  "shortDescription": "2-stuendige Tour in Canggu, mit Surfbrett, Wasserflasche und Rashguard. Direkt gebucht bei Nyangko Surf School, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 2-stuendiges Erlebnis in Canggu. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nSurfkurse rund um Canggu finden an Beach Breaks statt, meist in Batu Bolong und Berawa, wo der Sandboden und die langsamen, bruechigen Wellen fuer die ersten Tage geeignet sind. Die Kurse dauern etwa zwei Stunden mit einem Softtop-Board und zunaechst einer kurzen Einheit im Sand, und die Lehrer schicken Anfaenger ins Weisswasser statt auf gruene Wellen zu warten. Morgen vor 9:00 Uhr sind in der Trockenzeit, April bis Oktober, am saubersten, wenn der Wind ablandig ist; die Regenzeit bringt groesseren, unruhigeren Surf und nachmittaegliche auflandige Winde. Rashguards werden gestellt, und Riffschuhe sind an diesen Straenden nicht noetig. Buchen Sie eine zweite Stunde erst nach der ersten; die meisten Leute stehen am Ende davon.\n\nIm Preis enthalten sind Surfbrett, Wasserflasche und Rashguard. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Surfbrett",
+   "Wasserflasche",
+   "Rashguard"
+  ],
+  "notIncluded": []
+ },
+ "beginner-surf-lessons-in-canggu-canggu": {
+  "title": "Surfunterricht fuer Anfaenger in Canggu",
+  "metaTitle": "Surfunterricht fuer Anfaenger in Canggu",
+  "shortDescription": "2-stuendige Tour in Canggu, mit Surfbrett, Wasserflasche und Rashguard. Direkt gebucht bei Nyangko Surf School, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 2-stuendiges Erlebnis in Canggu. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nSurfkurse rund um Canggu finden an Beach Breaks statt, meist in Batu Bolong und Berawa, wo der Sandboden und die langsamen, bruechigen Wellen fuer die ersten Tage geeignet sind. Die Kurse dauern etwa zwei Stunden mit einem Softtop-Board und zunaechst einer kurzen Einheit im Sand, und die Lehrer schicken Anfaenger ins Weisswasser statt auf gruene Wellen zu warten. Morgen vor 9:00 Uhr sind in der Trockenzeit, April bis Oktober, am saubersten, wenn der Wind ablandig ist; die Regenzeit bringt groesseren, unruhigeren Surf und nachmittaegliche auflandige Winde. Rashguards werden gestellt, und Riffschuhe sind an diesen Straenden nicht noetig. Buchen Sie eine zweite Stunde erst nach der ersten; die meisten Leute stehen am Ende davon.\n\nIm Preis enthalten sind Surfbrett, Wasserflasche und Rashguard. Nicht enthalten sind Transfer von und zum Strand und sehr einfach, einen Transport fuer etwa 15000 IDR (1 Dollar) ueber Gojek oder Grab zu buchen, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Surfbrett",
+   "Wasserflasche",
+   "Rashguard"
+  ],
+  "notIncluded": [
+   "Transfer von und zum Strand",
+   "sehr einfach, einen Transport fuer etwa 15000 IDR (1 Dollar) ueber Gojek oder Grab zu buchen"
+  ]
+ },
+ "village-tour-with-coconut-oil-and-chocolate-factory-in-canggu": {
+  "title": "Dorftour mit Kokosoel- und Schokoladenfabrik in Canggu",
+  "metaTitle": "Dorftour mit Kokosoel- und Schokoladenfabrik in Canggu",
+  "shortDescription": "8-stuendige Tour in Canggu, mit Reise komplett inklusive, keine versteckten Kosten: Transport, Mittagessen, Eintrittskarte und Wasser sind enthalten. Direkt gebucht bei Cv bintang tour, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 8-stuendiges Erlebnis in Canggu. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nEin balinesischer Dorftag dreht sich um den Hofkomplex und den Reiszyklus. Ein Familienkomplex ist eine ummauerte Gruppe von Pavillons um einen Haustempel, angelegt nach einem festen Muster mit dem Schrein zur Bergseite; die Kueche und die Reisscheune haben ihre eigenen Plaetze darin. Rundherum folgen die Reisfelder dem subak-Kalender, Pflanzen, Fluten, Ernten und Trocknen auf der Strasse, und die Felder werden per Hand und mit Handtraktor bearbeitet. Die Morgen beginnen frueh: der Markt bei Sonnenaufgang, die Opfergaben, Fruehstueck aus Reis und Kaffee. Besuche wie dieser werden von der Familie ausgerichtet, und ein paar Worte Indonesisch, ein Sarong fuer den Tempel und Schuhe aus an der Tuer sind die Hoeflichkeiten, die zaehlen.\n\nIm Preis enthalten sind Reise komplett inklusive, keine versteckten Kosten: Transport, Mittagessen, Eintrittskarte und Wasser sind enthalten. Nicht enthalten sind ausser Sie moechten die Schokolade mit nach Hause nehmen, dann muessen Sie dafuer bezahlen und und Trinkgeld fuer den Guide, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDie Abholung wird ab ITDC Nusa Dua North Gate, Canggu und Ubud and Kuta angeboten; der genaue Ort und die Uhrzeit werden nach Bestaetigung der Buchung mit Cv bintang tour vereinbart, und die gewaehlte Option bestimmt, ob der Transport enthalten ist.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Reise komplett inklusive, keine versteckten Kosten: Transport, Mittagessen, Eintrittskarte und Wasser sind enthalten"
+  ],
+  "notIncluded": [
+   "ausser Sie moechten die Schokolade mit nach Hause nehmen, dann muessen Sie dafuer bezahlen",
+   "und Trinkgeld fuer den Guide"
+  ]
+ },
+ "jatiluwih-unesco-bratan-lake-iconic-gate-and-tanah-lot": {
+  "title": "Jatiluwih UNESCO, Bratan-See, das ikonische Tor und Tanah Lot",
+  "metaTitle": "Jatiluwih UNESCO, Bratan-See, das ikonische Tor und Tanah Lot",
+  "shortDescription": "Tour in Canggu, mit Jatiluwih Rice Terrace und Ulun Danu Bratan Temple and Handara Iconic Gate. Direkt gebucht bei Mantra Bali Tour, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein Erlebnis ab Canggu, rund um Jatiluwih Rice Terrace und Ulun Danu Bratan Temple and Handara Iconic Gate aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nJatiluwih ist die groesste Flaeche an terrassierten Reisfeldern auf Bali, etwa 600 Hektar an den Suedhaengen des Mount Batukaru in Tabanan, und ist das Vorzeigebeispiel des subak-Bewaesserungssystems, das die UNESCO 2012 gelistet hat. Anders als Tegallalang gibt es hier Platz, um ein bis zwei Stunden auf markierten Pfaden durch die Felder zu laufen, ohne Verkehr oder Schaukeln, und die Terrassen hier sind breit und flach statt steil. Reis wird in Zyklen gepflanzt, daher sind die Felder einige Monate leuchtend gruen und andere abgeschnittene Stoppeln; fragen Sie den Anbieter, in welcher Phase sie gerade sind, wenn Ihnen die Fotos wichtig sind. Morgens ist es klarer, und ueber dem Batukaru baut sich nach Mittag meist Bewoelkung auf.\n\nIm Preis enthalten sind Transport im klimatisierten Auto, lokaler englischsprachiger Fahrer und Eintritt und Zugang zum UNESCO-Gebiet Jatiluwih, falls die Option gewaehlt wird. Nicht enthalten sind Mahlzeiten und Eintrittsgebuehren, falls die Option nicht gewaehlt wird, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Transport im klimatisierten Auto",
+   "lokaler englischsprachiger Fahrer",
+   "Eintritt und Zugang zum UNESCO-Gebiet Jatiluwih, falls die Option gewaehlt wird"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Eintrittsgebuehren, falls die Option nicht gewaehlt wird"
+  ]
+ },
+ "relaxing-bali-spa-experience-at-lluvia-spa": {
+  "title": "Entspannendes Spa-Erlebnis auf Bali im LLuvia Spa",
+  "metaTitle": "Entspannendes Spa-Erlebnis auf Bali im LLuvia Spa",
+  "shortDescription": "1,5-stuendige Tour in Canggu, mit kostenlose Erfrischungen nach der Behandlung, Nutzung der Spa-Einrichtungen: Schliessfach, Dusche, desinfizierte Pantoffeln und personalisierter Behandlungsplan basierend auf Ihren Vorlieben. Direkt gebucht bei LLuvia Spa Bali, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein Erlebnis von 1,5 Stunden in Canggu. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nUbuds Wellness-Branche entstand aus seiner Geschichte als Heilzentrum; der Name der Stadt kommt von ubad, Medizin. Die balinesische Massage ist eine Technik mit langen Zuegen auf Oelbasis mit Akupressur, und ein boreh-Peeling, eine Paste aus Gewuerzen und Reispulver, ist die traditionelle waermende Behandlung danach. Die meisten Spa-Sitzungen dauern 60 bis 120 Minuten und enden mit einem Blumenbad oder Ingwertee. Yogastudios in der Stadt unterrichten jeden Stil, mit Drop-in-Kursen ueber den ganzen Tag; Klangheilungs-Sitzungen nutzen Gongs und singende Schalen und dauern etwa eine Stunde. Tragen Sie lockere Kleidung, kommen Sie zehn Minuten frueher und essen Sie vorher leicht.\n\nIm Preis enthalten sind kostenlose Erfrischungen nach der Behandlung, Nutzung der Spa-Einrichtungen: Schliessfach, Dusche, desinfizierte Pantoffeln und personalisierter Behandlungsplan basierend auf Ihren Vorlieben. Nicht enthalten sind Persoenliche Ausgaben, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "kostenlose Erfrischungen nach der Behandlung",
+   "Nutzung der Spa-Einrichtungen: Schliessfach, Dusche, desinfizierte Pantoffeln",
+   "personalisierter Behandlungsplan basierend auf Ihren Vorlieben"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben"
+  ]
+ },
  "sanur-village-e-bike-tour-canggu": {
   "title": "E-Bike-Tour durch das Dorf Sanur (Canggu)",
   "metaTitle": "E-Bike-Tour durch das Dorf Sanur (Canggu)",
@@ -49318,6 +49676,20 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Trinkgelder"
+  ]
+ },
+ "bali-spa-experience-with-transfers-at-lluvia-spa": {
+  "title": "Spa-Erlebnis auf Bali mit Transfers im LLuvia Spa",
+  "metaTitle": "Spa-Erlebnis auf Bali mit Transfers im LLuvia Spa",
+  "shortDescription": "1,5-stuendige Tour in Canggu, mit LLuvia Spa. Direkt gebucht bei LLuvia Spa Bali, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein Erlebnis von 1,5 Stunden ab Canggu, rund um LLuvia Spa aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nUbuds Wellness-Branche entstand aus seiner Geschichte als Heilzentrum; der Name der Stadt kommt von ubad, Medizin. Die balinesische Massage ist eine Technik mit langen Zuegen auf Oelbasis mit Akupressur, und ein boreh-Peeling, eine Paste aus Gewuerzen und Reispulver, ist die traditionelle waermende Behandlung danach. Die meisten Spa-Sitzungen dauern 60 bis 120 Minuten und enden mit einem Blumenbad oder Ingwertee. Yogastudios in der Stadt unterrichten jeden Stil, mit Drop-in-Kursen ueber den ganzen Tag; Klangheilungs-Sitzungen nutzen Gongs und singende Schalen und dauern etwa eine Stunde. Tragen Sie lockere Kleidung, kommen Sie zehn Minuten frueher und essen Sie vorher leicht.\n\nIm Preis enthalten sind kostenlose Erfrischungen nach der Behandlung und Nutzung der Spa-Einrichtungen: Schliessfach, Dusche, desinfizierte Pantoffeln. Nicht enthalten sind Persoenliche Ausgaben und Transport ab Ubud, Mengwi, Sawangan, Uluwatu und Canggu, es koennen zusaetzliche Kosten anfallen, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "kostenlose Erfrischungen nach der Behandlung",
+   "Nutzung der Spa-Einrichtungen: Schliessfach, Dusche, desinfizierte Pantoffeln"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben",
+   "Transport ab Ubud, Mengwi, Sawangan, Uluwatu und Canggu, es koennen zusaetzliche Kosten anfallen"
   ]
  },
  "seminyak-private-beach-horse-ride-at-sunrise-or-sunset": {
@@ -49344,6 +49716,36 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zusatzzeit mit 10 $ pro Stunde berechnet"
   ]
  },
+ "lembongan-and-ceningan-bridge-tour-with-snorkeling": {
+  "title": "Lembongan- und Ceningan-Bruecken-Tour mit Schnorcheln",
+  "metaTitle": "Lembongan- und Ceningan-Bruecken-Tour mit Schnorcheln",
+  "shortDescription": "9-stuendige Tour in Nusa Penida, mit Ferry und Nusa Lembongan and Mangrove Point. Direkt gebucht bei Trip Gotik - Bali Tours, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 9-stuendiges Erlebnis ab Nusa Penida, rund um Ferry und Nusa Lembongan and Mangrove Point aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nBeim Schnorcheln vor Nusa Penida geht es vor allem um die Riffmantarochen am Manta Point an der Suedkueste der Insel, wo sie das ganze Jahr ueber zu finden sind, fressen und sich im Wellengang am Fuss der Klippen reinigen lassen. Die Boote fahren danach zu ruhigeren Stellen wie Crystal Bay, Gamat Bay und der Wand bei Buyuk fuer Korallen und Fische. Zwischen Juli und Oktober ist Crystal Bay auch der Ort, an den Taucher wegen des ozeanischen Mondfisches, mola mola, kommen, der in den kuehleren Monaten aus tieferem Wasser aufsteigt. Der Manta Point ist der Dunung aus dem Sueden ausgesetzt, und Boote lassen ihn aus, wenn das Meer aufgewuehlt ist, daher haengt ein Tag hier immer vom Wetter ab. Die Ueberfahrt von Sanur dauert dreissig bis fuenfundvierzig Minuten.\n\nIm Preis enthalten sind Hin- und Ruecktransfers mit dem Boot Sanur - Lembongan, falls die Option ab Bali gewaehlt wird, Schnorchelausruestung und Boot fuer die Mangrovenbesichtigung. Nicht enthalten sind Persoenliche Ausgaben, Mittagessen und Getraenke, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDie Abholung wird ab Penida Island, Ubud und Lembongan and Bali angeboten; der genaue Ort und die Uhrzeit werden nach Bestaetigung der Buchung mit Trip Gotik - Bali Tours vereinbart, und die gewaehlte Option bestimmt, ob der Transport enthalten ist.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Hin- und Ruecktransfers mit dem Boot Sanur - Lembongan, falls die Option ab Bali gewaehlt wird",
+   "Schnorchelausruestung",
+   "Boot fuer die Mangrovenbesichtigung"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben",
+   "Mittagessen",
+   "Getraenke"
+  ]
+ },
+ "full-day-trip-to-nusa-lembongan-and-ceningan-islands-from-bali-nusa-penida": {
+  "title": "Ganztagesausflug zu den Inseln Nusa Lembongan und Ceningan ab Bali (Nusa Penida)",
+  "metaTitle": "Ganztagesausflug zu den Inseln Nusa Lembongan und Ceningan ab",
+  "shortDescription": "6-stuendige Tour in Nusa Penida, mit SanurFerry und Nusa Lembongan and Ceningan Island. Direkt gebucht bei Asta Sedana Bali Wisata, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 6-stuendiges Erlebnis ab Nusa Penida, rund um SanurFerry und Nusa Lembongan and Ceningan Island aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nNusa Penida ist die groesste der drei Inseln vor der Suedostkueste Balis, etwa 200 Quadratkilometer Kalkstein mit Klippen im Sueden und Westen und ein paar Doerfern an der Nordkueste, wo die Boote anlegen. Es gibt praktisch keinen Verkehr, aber die Strassen sind eng und langsam, weshalb ein Tagesausflug entweder die Westseite (Kelingking, Broken Beach, Angel's Billabong) oder die Ostseite (Diamond Beach, Atuh, Tree House) abdeckt, nicht beide. Schnellboote von Sanur brauchen dreissig bis fuenfundvierzig Minuten, fahren ab etwa 7:00 Uhr, und werden bei starker Dunung abgesagt oder verspaetet. Bringen Sie Bargeld mit: Kartenterminals sind selten und die Geldautomaten unzuverlaessig.\n\nIm Preis enthalten sind Hotel-Ruecktransfer auf Bali, ausgewaehlte Optionen, Abgabe und Hin- und Rueckticket fuer das Schnellboot. Nicht enthalten sind Persoenliche Ausgaben, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Hotel-Ruecktransfer auf Bali, ausgewaehlte Optionen",
+   "Abgabe",
+   "Hin- und Rueckticket fuer das Schnellboot"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben"
+  ]
+ },
  "bali-and-nusa-penida-2-day-highlights-instagram-tour-nusa-penida": {
   "title": "Bali und Nusa Penida: 2-taegige Instagram-Highlights-Tour (Nusa Penida)",
   "metaTitle": "Bali und Nusa Penida: 2-taegige Instagram-Highlights-Tour (Nusa",
@@ -49358,6 +49760,49 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten, sofern nicht als Add-on gewaehlt",
    "optionale Aktivitaeten, die nicht in den Leistungen aufgefuehrt sind",
    "Persoenliche Ausgaben"
+  ]
+ },
+ "fast-boat-transfer-between-sanur-and-nusa-penida": {
+  "title": "Schnellboot-Transfer zwischen Sanur und Nusa Penida",
+  "metaTitle": "Schnellboot-Transfer zwischen Sanur und Nusa Penida",
+  "shortDescription": "30-minuetige Tour in Nusa Penida, mit Transfertickets. Direkt gebucht bei GILITRANSFERS by EKAWISATA, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 30-minuetiges Erlebnis in Nusa Penida. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nNusa Penida ist die groesste der drei Inseln vor der Suedostkueste Balis, etwa 200 Quadratkilometer Kalkstein mit Klippen im Sueden und Westen und ein paar Doerfern an der Nordkueste, wo die Boote anlegen. Es gibt praktisch keinen Verkehr, aber die Strassen sind eng und langsam, weshalb ein Tagesausflug entweder die Westseite (Kelingking, Broken Beach, Angel's Billabong) oder die Ostseite (Diamond Beach, Atuh, Tree House) abdeckt, nicht beide. Schnellboote von Sanur brauchen dreissig bis fuenfundvierzig Minuten, fahren ab etwa 7:00 Uhr, und werden bei starker Dunung abgesagt oder verspaetet. Bringen Sie Bargeld mit: Kartenterminals sind selten und die Geldautomaten unzuverlaessig.\n\nIm Preis enthalten sind Transfertickets. Nicht enthalten sind Hoteltransfer auf Bali, Mahlzeiten und Getraenke, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Transfertickets"
+  ],
+  "notIncluded": [
+   "Hoteltransfer auf Bali",
+   "Mahlzeiten",
+   "Getraenke"
+  ]
+ },
+ "nusa-lembongan-island-tour-with-lunch-and-transfers": {
+  "title": "Insel-Tour nach Nusa Lembongan mit Mittagessen und Transfers",
+  "metaTitle": "Insel-Tour nach Nusa Lembongan mit Mittagessen und Transfers",
+  "shortDescription": "8-stuendige Tour in Nusa Penida, mit Ferry and Yellow Bridge. Direkt gebucht bei Asta Sedana Bali Wisata, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 8-stuendiges Erlebnis ab Nusa Penida, rund um Ferry and Yellow Bridge aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nNusa Lembongan ist die kleine Insel zwischen Bali und Nusa Penida, eine halbe Stunde von Sanur mit dem Schnellboot entfernt, mit einem langsameren Tempo als beide anderen. Tage hier umfassen meist Devil's Tear, wo die Dunung durch ein Felsriff an der Suedwestkueste explodiert, die Mangrovenkanaele auf der Nordostseite mit kleinem Boot, und die Gelbe Bruecke nach Nusa Ceningan mit seiner Blue Lagoon. Schnorcheln findet vor der Nordkueste und an der Mangrove-Point-Drift statt, und Mantas erreicht man mit einer weiteren Bootsfahrt nach Penida. Der Algenanbau, der einst die Untiefen bedeckte, ist weitgehend verschwunden, aber man kann die Gestelle bei Niedrigwasser noch sehen.\n\nIm Preis enthalten sind Hotel-Ruecktransfer auf Bali, falls die Hoteltransfer-Option gewaehlt wird, Abgabe und Rueckfahrkarte fuer das Schnellboot. Nicht enthalten sind Persoenliche Ausgaben, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "Hotel-Ruecktransfer auf Bali, falls die Hoteltransfer-Option gewaehlt wird",
+   "Abgabe",
+   "Rueckfahrkarte fuer das Schnellboot"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben"
+  ]
+ },
+ "nusa-penida-day-trip-with-various-pickup-and-admission": {
+  "title": "Nusa Penida: Tagesausflug mit verschiedenen Abhol- und Eintrittsoptionen",
+  "metaTitle": "Nusa Penida: Tagesausflug mit verschiedenen Abhol- und",
+  "shortDescription": "10-stuendige Tour in Nusa Penida, mit Speedboat und Angel's Billabong and Pasih Uug Beach. Direkt gebucht bei PT Favotrip Bali Tour, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 10-stuendiges Erlebnis ab Nusa Penida, rund um Speedboat und Angel's Billabong and Pasih Uug Beach aufgebaut. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nNusa Penida ist die groesste der drei Inseln vor der Suedostkueste Balis, etwa 200 Quadratkilometer Kalkstein mit Klippen im Sueden und Westen und ein paar Doerfern an der Nordkueste, wo die Boote anlegen. Es gibt praktisch keinen Verkehr, aber die Strassen sind eng und langsam, weshalb ein Tagesausflug entweder die Westseite (Kelingking, Broken Beach, Angel's Billabong) oder die Ostseite (Diamond Beach, Atuh, Tree House) abdeckt, nicht beide. Schnellboote von Sanur brauchen dreissig bis fuenfundvierzig Minuten, fahren ab etwa 7:00 Uhr, und werden bei starker Dunung abgesagt oder verspaetet. Bringen Sie Bargeld mit: Kartenterminals sind selten und die Geldautomaten unzuverlaessig.\n\nIm Preis enthalten sind sauberes und bequemes Fahrzeug mit Klimaanlage, gefuehrte Tour mit Foto- und Videounterstuetzung und alle Eintrittsgebuehren. Nicht enthalten sind Mahlzeiten und persoenlicher Verzehr, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDie Abholung wird ab Ubud and Klungkung Regency angeboten; der genaue Ort und die Uhrzeit werden nach Bestaetigung der Buchung mit PT Favotrip Bali Tour vereinbart, und die gewaehlte Option bestimmt, ob der Transport enthalten ist.\n\nHotelabholung in Nusa Penida. PT Favotrip Bali Tour bestaetigt Ihre Abholzeit und den genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "sauberes und bequemes Fahrzeug mit Klimaanlage",
+   "gefuehrte Tour mit Foto- und Videounterstuetzung",
+   "alle Eintrittsgebuehren"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "persoenlicher Verzehr"
   ]
  },
  "one-day-trip-nusa-penida-with-all-inclusive": {
@@ -50640,6 +51085,19 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Mahlzeiten"
   ]
+ },
+ "1-day-private-ubud-tour-in-wana-ayu-jelijih-and-tenganan": {
+  "title": "Eintaegige private Ubud-Tour in Wana Ayu Jelijih und Tenganan",
+  "metaTitle": "Eintaegige private Ubud-Tour in Wana Ayu Jelijih und Tenganan",
+  "shortDescription": "Ganztaegige Tour in Ubud, mit privater Transport mit Fahrer, Treibstoff, Parkgebuehren und Wasserflaschen. Direkt gebucht bei Bali Tunjung Tour Guide, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein ganztaegiges Erlebnis in Ubud. Ihr Platz wird beim Anbieter reserviert, bevor wir Ihre Buchung als endgueltig behandeln.\n\nIm Preis enthalten sind privater Transport mit Fahrer, Treibstoff, Parkgebuehren und Wasserflaschen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden per E-Mail mitgeteilt, sobald die Buchung bestaetigt ist. Wir brauchen mindestens einen Tag Vorlauf, und wir bestaetigen das Datum, bevor wir Ihre Buchung als endgueltig behandeln. Kann das Datum nicht bestaetigt werden, sagen wir Ihnen Bescheid und erstatten Ihnen das Geld, anstatt Sie warten zu lassen.",
+  "included": [
+   "privater Transport mit Fahrer",
+   "Treibstoff",
+   "Parkgebuehren",
+   "Wasserflaschen"
+  ],
+  "notIncluded": []
  },
  "cretya-infinity-pool-hidden-waterfall-and-water-temple-in-ubud": {
   "title": "Cretya-Infinity-Pool, versteckter Wasserfall und Wassertempel in Ubud",
