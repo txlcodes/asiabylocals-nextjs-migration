@@ -1,16 +1,20 @@
 // Chrome strings with no data behind them, split out of index.ts so a client
 // component can import them without dragging fr.ts/de.ts/es.ts into the browser
 // bundle. index.ts re-exports everything here, so server code is unaffected.
-export const LANGS = ['fr', 'de', 'es'] as const;
+export const LANGS = ['fr', 'de', 'es', 'it'] as const;
 export type Lang = (typeof LANGS)[number];
 export const isLang = (s: string): s is Lang => (LANGS as readonly string[]).includes(s);
-export const LANG_LOCALE: Record<Lang | 'en', string> = { en: 'en', fr: 'fr', de: 'de', es: 'es' };
+export const LANG_LOCALE: Record<Lang | 'en', string> = { en: 'en', fr: 'fr', de: 'de', es: 'es', it: 'it' };
 
 // Small UI strings for the translated folders (chrome inside server components).
+// Italian chrome uses the informal register ("tu"/imperative), matching how
+// Italian travel sites normally address the reader, same choice as the
+// content-level opener/closing sentences in i18n/tourgen_*/templates.py.
 export const UI: Record<Lang, Record<string, string>> = {
   fr: { from: 'À partir de', perPerson: 'par personne', tours: 'excursions', bookNow: 'Réserver', freeCancellation: 'Annulation gratuite', verifiedOperator: 'Opérateur local vérifié', guides: 'Guides pratiques', faq: 'Questions fréquentes', reviews: 'Avis', included: 'Inclus', notIncluded: 'Non inclus', duration: 'Durée', meetingPoint: 'Point de rendez-vous', highlights: 'Points forts', readInEnglish: 'Lire en anglais' },
   de: { from: 'Ab', perPerson: 'pro Person', tours: 'Touren', bookNow: 'Jetzt buchen', freeCancellation: 'Kostenlose Stornierung', verifiedOperator: 'Geprüfter lokaler Anbieter', guides: 'Reiseführer', faq: 'Häufige Fragen', reviews: 'Bewertungen', included: 'Inklusive', notIncluded: 'Nicht inklusive', duration: 'Dauer', meetingPoint: 'Treffpunkt', highlights: 'Highlights', readInEnglish: 'Auf Englisch lesen' },
   es: { from: 'Desde', perPerson: 'por persona', tours: 'tours', bookNow: 'Reservar', freeCancellation: 'Cancelación gratuita', verifiedOperator: 'Operador local verificado', guides: 'Guías', faq: 'Preguntas frecuentes', reviews: 'Opiniones', included: 'Incluido', notIncluded: 'No incluido', duration: 'Duración', meetingPoint: 'Punto de encuentro', highlights: 'Lo más destacado', readInEnglish: 'Leer en inglés' },
+  it: { from: 'A partire da', perPerson: 'a persona', tours: 'tour', bookNow: 'Prenota ora', freeCancellation: 'Cancellazione gratuita', verifiedOperator: 'Operatore locale verificato', guides: 'Guide pratiche', faq: 'Domande frequenti', reviews: 'Recensioni', included: 'Incluso', notIncluded: 'Non incluso', duration: 'Durata', meetingPoint: 'Punto d’incontro', highlights: 'Punti forti', readInEnglish: 'Leggi in inglese' },
 };
 
 // Country names per language. Without this a French page says "3 jours India",
@@ -19,6 +23,7 @@ const COUNTRY_NAME: Record<Lang, Record<string, string>> = {
   fr: { india: 'Inde', thailand: 'Thaïlande', japan: 'Japon', 'sri-lanka': 'Sri Lanka', vietnam: 'Vietnam', indonesia: 'Indonésie', uae: 'Émirats arabes unis', nepal: 'Népal' },
   de: { india: 'Indien', thailand: 'Thailand', japan: 'Japan', 'sri-lanka': 'Sri Lanka', vietnam: 'Vietnam', indonesia: 'Indonesien', uae: 'VAE', nepal: 'Nepal' },
   es: { india: 'India', thailand: 'Tailandia', japan: 'Japón', 'sri-lanka': 'Sri Lanka', vietnam: 'Vietnam', indonesia: 'Indonesia', uae: 'EAU', nepal: 'Nepal' },
+  it: { india: 'India', thailand: 'Tailandia', japan: 'Giappone', 'sri-lanka': 'Sri Lanka', vietnam: 'Vietnam', indonesia: 'Indonesia', uae: 'Emirati Arabi Uniti', nepal: 'Nepal' },
 };
 /** Localised country name, or the caller's English label when we have none. */
 export const countryNameT = (lang: Lang | null | undefined, slug: string, fallback: string) =>
@@ -31,6 +36,7 @@ export const ITIN_TPL: Record<Lang | 'en', { crumb: (n: number) => string; atAGl
   fr: { crumb: n => `Itinéraire de ${n} jours`, atAGlance: (n, c) => `${n} jours en ${c} en un coup d\u2019œil` },
   de: { crumb: n => `Reiseroute für ${n} Tage`, atAGlance: (n, c) => `${n} Tage ${c} auf einen Blick` },
   es: { crumb: n => `Itinerario de ${n} días`, atAGlance: (n, c) => `${n} días en ${c} de un vistazo` },
+  it: { crumb: n => `Itinerario di ${n} giorni`, atAGlance: (n, c) => `${n} giorni a ${c} in breve` },
 };
 
 // Chrome for the itinerary pages. Held here rather than in the client so the
@@ -41,6 +47,7 @@ export const ITIN_UI: Record<Lang | 'en', Record<string, string>> = {
   fr: { home: 'Accueil', days: 'jours', basedIn: 'Base', whatYouDo: 'Au programme', gettingThere: 'Trajet', bestFor: 'Idéal pour', differentTime: 'Vous avez plus ou moins de temps ?', day: 'Jour', planning: 'Préparer ce voyage', faq: 'Questions fréquentes', bookTitle: 'Réservez les visites guidées de ce voyage', bookSub: 'Chaque excursion ci-dessus est assurée par un opérateur local vérifié.', itineraries: 'Itinéraires' },
   de: { home: 'Startseite', days: 'Tage', basedIn: 'Standort', whatYouDo: 'Programm', gettingThere: 'Anreise', bestFor: 'Ideal für', differentTime: 'Haben Sie mehr oder weniger Zeit?', day: 'Tag', planning: 'Diese Reise planen', faq: 'Häufige Fragen', bookTitle: 'Buchen Sie die geführten Teile dieser Reise', bookSub: 'Jede Tour oben wird von einem geprüften lokalen Anbieter durchgeführt.', itineraries: 'Reiserouten' },
   es: { home: 'Inicio', days: 'días', basedIn: 'Base', whatYouDo: 'Qué haces', gettingThere: 'Cómo llegar', bestFor: 'Ideal para', differentTime: '¿Tienes más o menos tiempo?', day: 'Día', planning: 'Planificar este viaje', faq: 'Preguntas frecuentes', bookTitle: 'Reserva las partes guiadas de este viaje', bookSub: 'Cada tour de arriba lo opera un operador local verificado.', itineraries: 'Itinerarios' },
+  it: { home: 'Home', days: 'giorni', basedIn: 'Base a', whatYouDo: 'Cosa fai', gettingThere: 'Come arrivare', bestFor: 'Ideale per', differentTime: 'Hai più o meno tempo a disposizione?', day: 'Giorno', planning: 'Pianifica questo viaggio', faq: 'Domande frequenti', bookTitle: 'Prenota le parti guidate di questo viaggio', bookSub: 'Ogni tour sopra è gestito da un operatore locale verificato.', itineraries: 'Itinerari' },
 };
 
 
@@ -53,6 +60,7 @@ export const CITY_H1: Record<Lang | 'en', (city: string) => string> = {
   fr: c => `Visites guidées et activités à ${c}`,
   de: c => `Geführte Touren und Aktivitäten in ${c}`,
   es: c => `Tours guiados y actividades en ${c}`,
+  it: c => `Tour guidati e attività a ${c}`,
 };
 
 // City-page chrome. Every string below was hardcoded English inside
@@ -102,6 +110,16 @@ export const CITY_UI: Record<Lang | 'en', Record<string, string>> = {
     sortPriceHigh: 'Precio: de mayor a menor', noToursYet: 'Aún no hay tours disponibles',
     tryFilters: 'Pruebe a ajustar los filtros',
   },
+  it: {
+    back: 'Indietro', noImage: 'Nessuna immagine', topRated: 'I più votati', startingFrom: 'A partire da',
+    showMore: 'Mostra altro', expanding: 'Stiamo ampliando la nostra offerta. Torna presto per nuove esperienze!',
+    refresh: 'Aggiorna risultati', guidesBlurb: 'Guide approfondite su orari, maree, code e com’è davvero ogni luogo.',
+    dates: 'Date', dayTrips: 'Escursioni di un giorno', multiDay: 'Più giorni', photography: 'Fotografia',
+    sunrise: 'Alba', privateTours: 'Tour privati', walkingTours: 'Tour a piedi', filters: 'Filtri',
+    sortBy: 'Ordina per:', sortRecommended: 'Consigliati', sortPriceLow: 'Prezzo: dal più basso',
+    sortPriceHigh: 'Prezzo: dal più alto', noToursYet: 'Nessun tour disponibile ancora',
+    tryFilters: 'Prova a modificare i filtri',
+  },
 };
 
 // The city name sits inside these rather than in front of them, so they are
@@ -136,5 +154,11 @@ export const CITY_TPL: Record<Lang | 'en', {
     everythingBefore: c => `Todo lo que hay que saber antes de visitar ${c}`,
     results: (n, c) => `${n} ${n === 1 ? 'resultado' : 'resultados'}: ${c}`,
     beTheFirst: c => `Sea el primero en crear un tour en ${c}.`,
+  },
+  it: {
+    noToursFound: c => `Nessun tour trovato a ${c}`,
+    everythingBefore: c => `Tutto quello che devi sapere prima di visitare ${c}`,
+    results: (n, c) => `${n} ${n === 1 ? 'risultato' : 'risultati'}: ${c}`,
+    beTheFirst: c => `Sii il primo a creare un tour a ${c}!`,
   },
 };
