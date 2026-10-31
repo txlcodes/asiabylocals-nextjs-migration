@@ -185480,6 +185480,24 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ]
  },
+ "pattaya-plates-food-tour-with-14-tastings-by-local-operator": {
+  "title": "Visite culinaire Pattaya Plates avec plus de 14 degustations",
+  "metaTitle": "Visite culinaire Pattaya Plates avec plus de 14 degustations",
+  "shortDescription": "Excursion de 4 heures à Pattaya, comprenant Pattaya. Opérateur : A Chef's Tour, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 4 heures se déroule à Pattaya, construite autour de Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe quartier chinois de Bangkok s'étend le long de Yaowarat Road, tracée en 1891 et bordée de bijouteries le jour et d'étals de rue la nuit, quand les trottoirs se remplissent de grils au charbon, de charrettes à nouilles et des files devant les étals célèbres : fruits de mer grillés sur Phadungdao, nouilles roulées poivrées guay jub, châtaignes grillées, nid d'oiseau et aileron de requin pour ceux qui le souhaitent. C'est le quartier de street food le plus dense d'Asie, qui démarre vers 18 h. Le guide Michelin de Bangkok récompense des étals de rue depuis 2018 ; un guide qui y mange sait quelles files valent le coup.\n\nLe prix comprend 14 degustations culinaires incluses, plus que toute autre visite gastronomique a Pattaya, festin itinerant avec 8 a 9 arrets dans les rues du vieux Pattaya, 8 convives exclusifs maximum, le plus petit groupe de Pattaya, eau en bouteille et la duree est d'environ 3h30 a 4 heures selon le rythme du groupe. Il ne comprend pas boissons alcoolisées, prise en charge et retour a l'hotel non inclus ; point de rendez-vous facile a trouver pour tous les clients et les regimes vegetariens comptent 3 a 4 degustations de moins en raison d'alternatives limitees chez certains vendeurs, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nNaklua Chalermprakiat Park.. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "14 degustations culinaires incluses, plus que toute autre visite gastronomique a Pattaya",
+   "festin itinerant avec 8 a 9 arrets dans les rues du vieux Pattaya",
+   "8 convives exclusifs maximum, le plus petit groupe de Pattaya",
+   "eau en bouteille",
+   "la duree est d'environ 3h30 a 4 heures selon le rythme du groupe"
+  ],
+  "notIncluded": [
+   "boissons alcoolisées",
+   "prise en charge et retour a l'hotel non inclus ; point de rendez-vous facile a trouver pour tous les clients",
+   "les regimes vegetariens comptent 3 a 4 degustations de moins en raison d'alternatives limitees chez certains vendeurs"
+  ]
+ },
  "coral-island-half-day-trip-with-indian-lunch": {
   "title": "Excursion d'une demi-journee a Coral Island avec dejeuner indien",
   "metaTitle": "Excursion d'une demi-journee a Coral Island avec dejeuner indien",
@@ -185505,6 +185523,24 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "depenses personnelles",
    "boissons alcoolisees"
+  ]
+ },
+ "muay-thai-boxing-introduction-class-for-beginners-in-pattaya": {
+  "title": "Cours d'introduction a la boxe muay thai pour debutants a Pattaya",
+  "metaTitle": "Cours d'introduction a la boxe muay thai pour debutants a Pattaya",
+  "shortDescription": "Excursion de 1 heure à Pattaya, comprenant cours d'introduction au muay thai, instructeurs certifies de muay thai, cours en groupe ou prive, gants de boxe et bandages de mains et douche et vestiaire. Opérateur : Discover Thailand, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe muay thaï, l'art des huit membres, est le sport national de la Thaïlande, et les combats en stade à Bangkok sont la vraie chose, pas un spectacle : Rajadamnern, ouvert en 1945, et Lumpinee sont les deux grandes salles, avec des cartes de huit à dix combats se déroulant d'environ 18 h 30 à 23 h, la danse ram muay avant chaque combat, l'orchestre piphat en direct qui accélère avec l'action, et les signes de main des parieurs dans les gradins supérieurs. Les places au bord du ring sont les plus chères ; c'est au deuxième niveau que se trouve l'ambiance. Les séances d'entraînement dans les salles de la ville, des cours touristiques d'une heure aux camps complets, sont l'autre façon d'y entrer.\n\nLe prix comprend cours d'introduction au muay thai, instructeurs certifies de muay thai, cours en groupe ou prive, gants de boxe et bandages de mains et douche et vestiaire. Il ne comprend pas nourriture et eau, transferts à l'hôtel et serviette, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "cours d'introduction au muay thai",
+   "instructeurs certifies de muay thai",
+   "cours en groupe ou prive",
+   "gants de boxe et bandages de mains",
+   "douche et vestiaire"
+  ],
+  "notIncluded": [
+   "nourriture et eau",
+   "transferts à l'hôtel",
+   "serviette"
   ]
  },
  "big-buddha-temple-night-market-and-sunset-tour-in-pattaya": {
@@ -185550,6 +185586,25 @@ export const FR_TOURS: Record<string, TourT> = {
    "Wadi Bani Khalid"
   ],
   "notIncluded": []
+ },
+ "scuba-diving-3-islands-for-beginner-with-transfer-in-pattaya": {
+  "title": "Plongee sous-marine sur 3 iles pour debutants avec transfert a Pattaya",
+  "metaTitle": "Plongee sous-marine sur 3 iles pour debutants avec transfert a",
+  "shortDescription": "Excursion de 8 heures à Pattaya, comprenant Khram Yai Island and Koh Kramnoi. Opérateur : TSA_Thailand, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 8 heures se déroule au départ de Pattaya, construite autour de Khram Yai Island and Koh Kramnoi. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLes îles Similan, à 70 kilomètres de Khao Lak, offrent la meilleure plongée et le meilleur snorkeling de Thaïlande, neuf îles granitiques aux récifs de blocs rocheux, à l'eau claire et avec une chance de voir requins-baleines et raies manta à Richelieu Rock, dans le groupe Surin plus au nord. Le parc n'est ouvert que de la mi-octobre à la mi-mai et fermé pour la mousson ; les excursions d'une journée se font en hors-bord depuis Khao Lak ou Phuket, les croisières en liveaboard durent de deux à cinq jours. Les amateurs de snorkeling voient déjà beaucoup depuis la surface à Koh Miang et Koh Bangu ; les plongeurs devraient réserver auprès d'un prestataire qui exploite son propre bateau plutôt que de revendre.\n\nLe prix comprend dejeuner, boissons, equipement de plongee et de peche, 3 plongees et service de prise en charge aller-retour. Il ne comprend pas serviette, creme solaire, médicament contre le mal des transports et tir individuel, 500 bahts par personne, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPattaya City.. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "dejeuner",
+   "boissons",
+   "equipement de plongee et de peche",
+   "3 plongees",
+   "service de prise en charge aller-retour"
+  ],
+  "notIncluded": [
+   "serviette",
+   "creme solaire",
+   "médicament contre le mal des transports",
+   "tir individuel, 500 bahts par personne"
+  ]
  },
  "big-buddha-temple-and-night-market-tour-in-pattaya": {
   "title": "Grand Bouddha, temple et marche de nuit a Pattaya",
@@ -185598,6 +185653,23 @@ export const FR_TOURS: Record<string, TourT> = {
    "pourboires"
   ]
  },
+ "phi-phi-and-bamboo-islands-snorkeling-by-speedboat": {
+  "title": "Snorkeling a Phi Phi et Bamboo Island en hors-bord",
+  "metaTitle": "Snorkeling a Phi Phi et Bamboo Island en hors-bord",
+  "shortDescription": "Excursion de 10 heures à Phuket, comprenant Phuket et Speedboat and Maya Bay. Opérateur : Amazing Canoeing, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 10 heures se déroule à Phuket, construite autour de Phuket et Speedboat and Maya Bay. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLes îles Phi Phi se trouvent à 45 kilomètres de Phuket et 40 de Krabi, deux îles calcaires où Phi Phi Don abrite le village et les hôtels tandis que Phi Phi Leh, inhabitée, a Maya Bay, la plage du film de 2000. Maya Bay a fermé de 2018 à 2022 pour laisser le récif se régénérer et fonctionne maintenant avec une interdiction des bateaux dans la baie, une passerelle depuis l'arrière de l'île, aucune baignade, et des fermetures d'août à septembre chaque année. Le lagon de Pileh, la grotte viking et Bamboo Island sont les autres arrêts de chaque tour en hors-bord ; la mer est la plus calme de novembre à avril, et les premiers bateaux atteignent Maya avant la foule.\n\nLe prix comprend prise en charge et retour a l'hotel a Phuket, frais de parc national, petit rafraichissement au bureau du Royal Phuket Marina, informations reelles sur l'excursion en bateau et deux seances de snorkeling. Il ne comprend pas pourboires et boissons alcoolisees disponibles a l'achat au Royal Phuket Marina, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Phuket. Amazing Canoeing confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "prise en charge et retour a l'hotel a Phuket",
+   "frais de parc national",
+   "petit rafraichissement au bureau du Royal Phuket Marina",
+   "informations reelles sur l'excursion en bateau",
+   "deux seances de snorkeling"
+  ],
+  "notIncluded": [
+   "pourboires",
+   "boissons alcoolisees disponibles a l'achat au Royal Phuket Marina"
+  ]
+ },
  "phuket-and-khao-lak-platinum-phi-phi-and-bamboo-island-escape-by-local-operator": {
   "title": "Phuket et Khao Lak : escapade platinum a Phi Phi et Bamboo Island",
   "metaTitle": "Phuket et Khao Lak : escapade platinum a Phi Phi et Bamboo Island",
@@ -185626,6 +185698,23 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "pourboires pour le guide et l'equipage du bateau, facultatifs",
    "balade en bateau longtail traditionnel au lagon de Pileh, disponible en option"
+  ]
+ },
+ "phi-phi-islands-day-tour-by-ferry-with-lunch": {
+  "title": "Visite d'une journee des iles Phi Phi en ferry avec dejeuner",
+  "metaTitle": "Visite d'une journee des iles Phi Phi en ferry avec dejeuner",
+  "shortDescription": "Excursion de 9 heures à Phuket, comprenant Mueang Phuket District et Ferry and Maya Bay. Opérateur : Tour Pro, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 9 heures se déroule à Phuket, construite autour de Mueang Phuket District et Ferry and Maya Bay. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLes îles Phi Phi se trouvent à 45 kilomètres de Phuket et 40 de Krabi, deux îles calcaires où Phi Phi Don abrite le village et les hôtels tandis que Phi Phi Leh, inhabitée, a Maya Bay, la plage du film de 2000. Maya Bay a fermé de 2018 à 2022 pour laisser le récif se régénérer et fonctionne maintenant avec une interdiction des bateaux dans la baie, une passerelle depuis l'arrière de l'île, aucune baignade, et des fermetures d'août à septembre chaque année. Le lagon de Pileh, la grotte viking et Bamboo Island sont les autres arrêts de chaque tour en hors-bord ; la mer est la plus calme de novembre à avril, et les premiers bateaux atteignent Maya avant la foule.\n\nLe prix comprend prise en charge et retour a l'hotel, uniquement dans la zone gratuite, zone de prise en charge gratuite : Patong, Kalim, Kathu, Phuket Town, Koh Siray, Kata, Karon, Chalong et guide professionnel. Il ne comprend pas prise en charge et retour a l'hotel hors zone, Rawai, Naiharn, Panwa, Kamala et Ao Makham, 200 THB par personne et par trajet, Bangtao, Surin et Laguna, 300 THB par personne et par trajet et By Pass et Laem Hin, 1 200 THB par voiture, 10 personnes maximum, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPhuket.. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "prise en charge et retour a l'hotel, uniquement dans la zone gratuite",
+   "zone de prise en charge gratuite : Patong, Kalim, Kathu, Phuket Town, Koh Siray, Kata, Karon, Chalong",
+   "guide professionnel"
+  ],
+  "notIncluded": [
+   "prise en charge et retour a l'hotel hors zone",
+   "Rawai, Naiharn, Panwa, Kamala et Ao Makham, 200 THB par personne et par trajet",
+   "Bangtao, Surin et Laguna, 300 THB par personne et par trajet",
+   "By Pass et Laem Hin, 1 200 THB par voiture, 10 personnes maximum"
   ]
  },
  "white-water-rafting-zipline-and-elephant-feeding-in-phuket": {
@@ -185757,6 +185846,23 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "rafting-5-km-atv-ride-adventure-in-phuket": {
+  "title": "Rafting de 5 km, aventure en ATV a Phuket",
+  "metaTitle": "Rafting de 5 km, aventure en ATV a Phuket",
+  "shortDescription": "Excursion de 9 heures à Phuket, comprenant Phuket. Opérateur : Tour Pro, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 9 heures se déroule à Phuket, construite autour de Phuket. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLes journées de plein air du nord de la Thaïlande partent de Chiang Mai : le rafting en eaux vives sur la Mae Taeng, de classe II à IV pendant la saison des pluies de juillet à octobre et plus doux le reste de l'année ; les parcours de tyrolienne dans la forêt tropicale au nord de la ville, certains avec plus de 30 plateformes ; les pistes de quad dans les collines de Mae Rim ; et les treks qui atteignent à pied les villages Karen et Lahu, d'une journée à trois nuits. Phuket et Krabi ont leurs propres parcs de quad et de tyrolienne, mais c'est dans le nord que se trouve la jungle.\n\nLe prix comprend prise en charge et retour a l'hotel dans certaines zones de Phuket, guide touristique professionnel parlant anglais et thai, experience de rafting en eaux vives sur 5 km, balade en ATV dans la jungle, environ 30 minutes et tyrolienne et flying fox de 150 metres, maximum 90 kg. Il ne comprend pas frais supplementaires pour une prise en charge hors des zones gratuites, si applicable et boissons alcoolisees, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPhuket.. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "prise en charge et retour a l'hotel dans certaines zones de Phuket",
+   "guide touristique professionnel parlant anglais et thai",
+   "experience de rafting en eaux vives sur 5 km",
+   "balade en ATV dans la jungle, environ 30 minutes",
+   "tyrolienne et flying fox de 150 metres, maximum 90 kg"
+  ],
+  "notIncluded": [
+   "frais supplementaires pour une prise en charge hors des zones gratuites, si applicable",
+   "boissons alcoolisees"
+  ]
+ },
  "coral-island-day-tour-by-speedboat": {
   "title": "Visite d'une journee a Coral Island en hors-bord",
   "metaTitle": "Visite d'une journee a Coral Island en hors-bord",
@@ -185770,6 +185876,23 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "frais de transfert aller-retour supplementaires de 250 THB par personne (Panwa, Boat Lagoon, Koh Sirey, Kamala, Surin, Bangtao, Laguna, Leamhin)",
    "frais de transfert aller-retour supplementaires de 2 000 THB par van prive (Layan, Naithon, Naiyang, Maikhao, Ao Por, aeroport)"
+  ]
+ },
+ "phi-phi-overnight-and-private-longtail-adventure": {
+  "title": "Nuit a Phi Phi et aventure en bateau longtail prive",
+  "metaTitle": "Nuit a Phi Phi et aventure en bateau longtail prive",
+  "shortDescription": "Excursion de 2 jours à Phuket, comprenant Speedboat et Phi Phi Cliff Beach Resort and Ko Phi Phi Le. Opérateur : Tourly Tours, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 2 jours se déroule au départ de Phuket, construite autour de Speedboat et Phi Phi Cliff Beach Resort and Ko Phi Phi Le. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLes îles Phi Phi se trouvent à 45 kilomètres de Phuket et 40 de Krabi, deux îles calcaires où Phi Phi Don abrite le village et les hôtels tandis que Phi Phi Leh, inhabitée, a Maya Bay, la plage du film de 2000. Maya Bay a fermé de 2018 à 2022 pour laisser le récif se régénérer et fonctionne maintenant avec une interdiction des bateaux dans la baie, une passerelle depuis l'arrière de l'île, aucune baignade, et des fermetures d'août à septembre chaque année. Le lagon de Pileh, la grotte viking et Bamboo Island sont les autres arrêts de chaque tour en hors-bord ; la mer est la plus calme de novembre à avril, et les premiers bateaux atteignent Maya avant la foule.\n\nLe prix comprend prise en charge a l'hotel a Phuket, transfert en hors-bord de Phuket a Phi Phi, visite privee en bateau longtail de 3 heures, capitaine de bateau local prive et equipement de snorkeling. Il ne comprend pas nourriture et boissons, sauf celles specifiquement mentionnees et frais d'entree au parc national, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLa prise en charge est proposée depuis Tri Trang Beach, Karon Beach, Kata Beach, Rawai et Chalong and Phuket ; le lieu et l’heure exacts sont convenus avec Tourly Tours une fois la réservation confirmée, et l’option que vous choisissez détermine si le transport est inclus.\n\nPrise en charge à l'hôtel à Phuket. Tourly Tours confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "prise en charge a l'hotel a Phuket",
+   "transfert en hors-bord de Phuket a Phi Phi",
+   "visite privee en bateau longtail de 3 heures",
+   "capitaine de bateau local prive",
+   "equipement de snorkeling"
+  ],
+  "notIncluded": [
+   "nourriture et boissons, sauf celles specifiquement mentionnees",
+   "frais d'entree au parc national"
   ]
  },
  "khao-sok-half-day-and-night-wildlife-jungle-trek-and-waterfalls-in-phuket": {
@@ -185907,6 +186030,23 @@ export const FR_TOURS: Record<string, TourT> = {
    "boissons alcoolisées"
   ]
  },
+ "mantra-forest-spa-entry-with-roundtrip-transfer-in-phuket": {
+  "title": "Entree au Mantra Forest Spa avec transfert aller-retour a Phuket",
+  "metaTitle": "Entree au Mantra Forest Spa avec transfert aller-retour a Phuket",
+  "shortDescription": "Excursion de 5 heures à Phuket, comprenant Mantra Forest Spa. Opérateur : The Scenery Group, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 5 heures se déroule au départ de Phuket, construite autour de Mantra Forest Spa. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLes distances en Thaïlande sont plus longues que la carte ne le laisse croire : Bangkok à Ayutthaya, c'est 80 kilomètres et 90 minutes, Bangkok à Kanchanaburi deux heures et demie, l'aéroport de Phuket à Patong une heure en haute saison, Chiang Mai à Chiang Rai trois heures. Une voiture privée avec chauffeur est tarifée par véhicule et par jour, et c'est la solution sensée pour une excursion à trois ou plus, puisque les circuits en car suivent un horaire fixe et que l'application Grab ne fonctionne pas bien entre les villes. Les chauffeurs sont rarement guides ; pour l'histoire, réservez le guide séparément ou choisissez une visite qui en nomme un.\n\nLe prix comprend transfert aller-retour, billet d'entree avec baignade illimitee dans toutes les piscines, acces aux bassins mineraux aux herbes, acces aux saunas et acces aux cascades. Il ne comprend pas nourriture et boissons gazeuses et services de photographie ou video professionnels, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nTri Trang Beach.. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "transfert aller-retour",
+   "billet d'entree avec baignade illimitee dans toutes les piscines",
+   "acces aux bassins mineraux aux herbes",
+   "acces aux saunas",
+   "acces aux cascades"
+  ],
+  "notIncluded": [
+   "nourriture et boissons gazeuses",
+   "services de photographie ou video professionnels"
+  ]
+ },
  "phi-phi-maya-and-khai-islands-tour-with-private-pier": {
   "title": "Visite de Phi Phi, Maya et des iles Khai avec quai prive",
   "metaTitle": "Visite de Phi Phi, Maya et des iles Khai avec quai prive",
@@ -185947,6 +186087,22 @@ export const FR_TOURS: Record<string, TourT> = {
    "prise en charge et retour a l'hotel a Phuket, si cette option est choisie"
   ],
   "notIncluded": []
+ },
+ "rafting-atv-zipline-and-jungle-tour-in-phuket": {
+  "title": "Rafting, ATV, tyrolienne et visite de la jungle a Phuket",
+  "metaTitle": "Rafting, ATV, tyrolienne et visite de la jungle a Phuket",
+  "shortDescription": "Excursion de 8 heures à Phuket, comprenant transferts aller-retour a l'hotel en vehicule climatise, guides d'aventure professionnels parlant anglais, experience de rafting en eaux vives sur 5,5 km et safari ATV de 30 minutes dans la jungle. Opérateur : Choke Chai M Travel, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 8 heures se déroule à Phuket. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLes journées de plein air du nord de la Thaïlande partent de Chiang Mai : le rafting en eaux vives sur la Mae Taeng, de classe II à IV pendant la saison des pluies de juillet à octobre et plus doux le reste de l'année ; les parcours de tyrolienne dans la forêt tropicale au nord de la ville, certains avec plus de 30 plateformes ; les pistes de quad dans les collines de Mae Rim ; et les treks qui atteignent à pied les villages Karen et Lahu, d'une journée à trois nuits. Phuket et Krabi ont leurs propres parcs de quad et de tyrolienne, mais c'est dans le nord que se trouve la jungle.\n\nLe prix comprend transferts aller-retour a l'hotel en vehicule climatise, guides d'aventure professionnels parlant anglais, experience de rafting en eaux vives sur 5,5 km et safari ATV de 30 minutes dans la jungle. Il ne comprend pas depenses personnelles et souvenirs et nourriture pour les singes au temple, achat optionnel sur place, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Phuket. Choke Chai M Travel confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "transferts aller-retour a l'hotel en vehicule climatise",
+   "guides d'aventure professionnels parlant anglais",
+   "experience de rafting en eaux vives sur 5,5 km",
+   "safari ATV de 30 minutes dans la jungle"
+  ],
+  "notIncluded": [
+   "depenses personnelles et souvenirs",
+   "nourriture pour les singes au temple, achat optionnel sur place"
+  ]
  },
  "3-khai-islands-relax-and-snorkeling-half-full-day-tour-in-phuket": {
   "title": "3 iles Khai, detente et snorkeling, visite d'une demi-journee ou journee complete a Phuket",
@@ -186171,6 +186327,23 @@ export const FR_TOURS: Record<string, TourT> = {
    "sieges enfants ou porte-bebes pour les jeunes enfants"
   ],
   "notIncluded": []
+ },
+ "hands-on-learn-to-cook-3-popular-thai-s-street-food-in-krabi": {
+  "title": "Cours pratique pour apprendre a cuisiner 3 plats de street food thailandais populaires a Krabi",
+  "metaTitle": "Cours pratique pour apprendre a cuisiner 3 plats de street food",
+  "shortDescription": "Excursion de 2 heures à Krabi, comprenant cours de cuisine pratique, tous les ingredients pour la cuisine, eau potable, livre de recettes en PDF et photos de l'activite. Opérateur : Authentic Thai Cooking School, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Krabi. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe quartier chinois de Bangkok s'étend le long de Yaowarat Road, tracée en 1891 et bordée de bijouteries le jour et d'étals de rue la nuit, quand les trottoirs se remplissent de grils au charbon, de charrettes à nouilles et des files devant les étals célèbres : fruits de mer grillés sur Phadungdao, nouilles roulées poivrées guay jub, châtaignes grillées, nid d'oiseau et aileron de requin pour ceux qui le souhaitent. C'est le quartier de street food le plus dense d'Asie, qui démarre vers 18 h. Le guide Michelin de Bangkok récompense des étals de rue depuis 2018 ; un guide qui y mange sait quelles files valent le coup.\n\nLe prix comprend cours de cuisine pratique, tous les ingredients pour la cuisine, eau potable, livre de recettes en PDF et photos de l'activite. Il ne comprend pas biere et alcool disponibles a l'achat et pas de prise en charge, pas de service de transport, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "cours de cuisine pratique",
+   "tous les ingredients pour la cuisine",
+   "eau potable",
+   "livre de recettes en PDF",
+   "photos de l'activite"
+  ],
+  "notIncluded": [
+   "biere et alcool disponibles a l'achat",
+   "pas de prise en charge, pas de service de transport"
+  ]
  },
  "emerald-and-blue-pool-hot-springs-and-tiger-cave-krabi": {
   "title": "Piscine emeraude et bleue, sources chaudes et grotte du tigre a Krabi",
@@ -186447,6 +186620,22 @@ export const FR_TOURS: Record<string, TourT> = {
    "aliments et boissons"
   ]
  },
+ "krabi-atv-off-road-adventure-with-scenic-trails-and-transfer-by-local-operator": {
+  "title": "Aventure en ATV tout-terrain a Krabi avec sentiers panoramiques et transfert",
+  "metaTitle": "Aventure en ATV tout-terrain a Krabi avec sentiers panoramiques",
+  "shortDescription": "Excursion de 30 minutes à Krabi, comprenant prise en charge gratuite a l'hotel disponible pour la zone d'Ao Nang, minimum 2 personnes, participer a l'experience ATV et impermeable en cas de pluie. Opérateur : Oh-Hoo, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 30 minutes se déroule à Krabi. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLes distances en Thaïlande sont plus longues que la carte ne le laisse croire : Bangkok à Ayutthaya, c'est 80 kilomètres et 90 minutes, Bangkok à Kanchanaburi deux heures et demie, l'aéroport de Phuket à Patong une heure en haute saison, Chiang Mai à Chiang Rai trois heures. Une voiture privée avec chauffeur est tarifée par véhicule et par jour, et c'est la solution sensée pour une excursion à trois ou plus, puisque les circuits en car suivent un horaire fixe et que l'application Grab ne fonctionne pas bien entre les villes. Les chauffeurs sont rarement guides ; pour l'histoire, réservez le guide séparément ou choisissez une visite qui en nomme un.\n\nLe prix comprend prise en charge gratuite a l'hotel disponible pour la zone d'Ao Nang, minimum 2 personnes, participer a l'experience ATV et impermeable en cas de pluie. Il ne comprend pas transfert de 50 THB par personne depuis la zone de Klong Muang ou d'Ao Nam Mao, transfert de 400 THB par personne depuis la zone de Tub Kaek et transfert de 500 THB par personne depuis la zone de Krabi Town, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Krabi. Oh-Hoo confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "prise en charge gratuite a l'hotel disponible pour la zone d'Ao Nang, minimum 2 personnes",
+   "participer a l'experience ATV",
+   "impermeable en cas de pluie"
+  ],
+  "notIncluded": [
+   "transfert de 50 THB par personne depuis la zone de Klong Muang ou d'Ao Nam Mao",
+   "transfert de 400 THB par personne depuis la zone de Tub Kaek",
+   "transfert de 500 THB par personne depuis la zone de Krabi Town"
+  ]
+ },
  "2-day-phi-phi-islands-tour-with-hotel-and-transfer": {
   "title": "Visite de 2 jours des iles Phi Phi avec hotel et transfert",
   "metaTitle": "Visite de 2 jours des iles Phi Phi avec hotel et transfert",
@@ -186705,6 +186894,25 @@ export const FR_TOURS: Record<string, TourT> = {
    "frais de transfert supplementaires de 400 THB par personne depuis Krabi Town, Klong Muang ou Tubkaek"
   ]
  },
+ "rainforest-jungle-tour-with-emerald-pool-and-hot-spring-in-krabi": {
+  "title": "Visite de la jungle tropicale avec piscine emeraude et source chaude a Krabi",
+  "metaTitle": "Visite de la jungle tropicale avec piscine emeraude et source",
+  "shortDescription": "Excursion de 6 heures à Krabi, comprenant Krabi Hot Springs and Emerald Pool. Opérateur : Krabi Blue Sky, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 6 heures se déroule à Krabi, construite autour de Krabi Hot Springs and Emerald Pool. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLa journée dans l'arrière-pays de Krabi, c'est le trio de jungle au sud de la ville : le temple de la Grotte du Tigre, Wat Tham Suea, où 1 260 marches montent vers un Bouddha au sommet d'une colline et une vue sur toute la plaine karstique (une heure de montée, et c'est brutal après 10 h) ; la piscine d'émeraude, une source minérale d'eau verte dans la forêt de Thung Teao avec un court sentier menant à la piscine bleue, faite pour regarder, pas pour se baigner ; et les sources chaudes de Klong Thom, où l'eau tiède se déverse dans des bassins de roche naturels puis dans un ruisseau frais. Les circuits les font dans cet ordre et se terminent mouillés.\n\nLe prix comprend transferts aller-retour depuis votre hotel, dejeuner buffet au restaurant du complexe, guide touristique, assurance voyage et boissons gazeuses. Il ne comprend pas frais de parc national, piscine emeraude, 400 THB adulte et 200 THB enfant, sources chaudes, 200 THB adulte et 100 THB enfant et temple de la grotte du tigre, 50 THB adulte, gratuit pour les enfants, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLa prise en charge est proposée depuis Ao Nang and Krabi Noi ; le lieu et l’heure exacts sont convenus avec Krabi Blue Sky une fois la réservation confirmée, et l’option que vous choisissez détermine si le transport est inclus.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "transferts aller-retour depuis votre hotel",
+   "dejeuner buffet au restaurant du complexe",
+   "guide touristique",
+   "assurance voyage",
+   "boissons gazeuses"
+  ],
+  "notIncluded": [
+   "frais de parc national",
+   "piscine emeraude, 400 THB adulte et 200 THB enfant",
+   "sources chaudes, 200 THB adulte et 100 THB enfant",
+   "temple de la grotte du tigre, 50 THB adulte, gratuit pour les enfants"
+  ]
+ },
  "full-day-outdoor-hot-spring-and-traditional-thai-spa-in-krabi": {
   "title": "Journee complete : source chaude en plein air et spa thai traditionnel a Krabi",
   "metaTitle": "Journee complete : source chaude en plein air et spa thai",
@@ -186811,6 +187019,23 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "depenses personnelles",
    "nourriture et boissons"
+  ]
+ },
+ "ethical-elephant-sanctuary-and-thai-cooking-class-in-chiang-mai": {
+  "title": "Sanctuaire d'elephants ethique et cours de cuisine thailandaise a Chiang Mai",
+  "metaTitle": "Sanctuaire d'elephants ethique et cours de cuisine thailandaise",
+  "shortDescription": "Excursion de 11 heures à Chiang Mai, comprenant Muang Chiang Mai and Mae Wang District. Opérateur : Joy Elephant Sanctuary, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 11 heures se déroule à Chiang Mai, construite autour de Muang Chiang Mai and Mae Wang District. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe tourisme des éléphants en Thaïlande est passé, de façon inégale, des promenades à dos d'éléphant et des spectacles aux sanctuaires où les visiteurs nourrissent, marchent aux côtés et baignent des animaux secourus sans les monter, et la différence se voit dans l'état des animaux et dans le fait que l'opérateur autorise ou non les montées, les crochets ou les chaînes. Les camps les mieux gérés à Chiang Mai et à Phuket limitent la taille des groupes et le temps de contact, et ceux qui valent la réservation précisent ce qu'ils n'autorisent pas. Khao Yai, le premier parc national de Thaïlande à trois heures au nord-est de Bangkok, est l'endroit où l'on observe des éléphants sauvages depuis une jeep au crépuscule, avec des gibbons, des calaos et, rarement, les quelques ours du parc.\n\nLe prix comprend service de transfert aller-retour vers tous les hebergements dans un rayon de 5 km de la vieille ville de Chiang Mai, billets d'entree au sanctuaire d'elephants et cours de cuisine, guide touristique et repas local offert. Il ne comprend pas hebergement, autres depenses personnelles et pourboires et gratifications, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nMueang Chiang Mai District.. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "service de transfert aller-retour vers tous les hebergements dans un rayon de 5 km de la vieille ville de Chiang Mai",
+   "billets d'entree au sanctuaire d'elephants et cours de cuisine",
+   "guide touristique",
+   "repas local offert"
+  ],
+  "notIncluded": [
+   "hebergement",
+   "autres depenses personnelles",
+   "pourboires et gratifications"
   ]
  },
  "chiang-mai-hidden-gems-3-temples-by-local-red-truck-by-local-operator": {
@@ -187368,6 +187593,22 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "private-sticky-waterfall-and-secret-temple-and-karen-village-in-chiang-mai": {
+  "title": "Privee : cascade collante, temple secret et village Karen a Chiang Mai",
+  "metaTitle": "Privee : cascade collante, temple secret et village Karen a",
+  "shortDescription": "Excursion de 5 heures à Chiang Mai, comprenant Long neck Karen Village and Bua Thong Sticky Waterfalls. Opérateur : KiKi CM Tour., en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 5 heures se déroule au départ de Chiang Mai, construite autour de Long neck Karen Village and Bua Thong Sticky Waterfalls. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nDoi Inthanon est la plus haute montagne de Thaïlande à 2 565 mètres, à 90 kilomètres au sud-ouest de Chiang Mai, et son parc national abrite une forêt de nuages, les pagodes royales jumelles construites pour les soixantièmes anniversaires du roi et de la reine, les cascades de Vachiratharn et Wachirathan, et les villages Karen et Hmong sur ses pentes où l'on cultive le café. Au sommet, il fait souvent 10 degrés, si bien qu'une veste est nécessaire même en avril. Le sentier nature d'Ang Ka à travers la forêt moussue du sommet prend vingt minutes et c'est la meilleure courte marche du nord. Les circuits se déroulent de 8 h à 17 h depuis Chiang Mai.\n\nLe prix comprend billets pour le village Karen a cous longs, delicieux dejeuner gastronomique, service de transfert a l'hotel dans la ville de Chiang Mai, guide parlant anglais et voiture avec chauffeur et assurance voyage incluse. Il ne comprend pas depenses personnelles pendant le voyage, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nChiang Mai.. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "billets pour le village Karen a cous longs",
+   "delicieux dejeuner gastronomique",
+   "service de transfert a l'hotel dans la ville de Chiang Mai",
+   "guide parlant anglais et voiture avec chauffeur",
+   "assurance voyage incluse"
+  ],
+  "notIncluded": [
+   "depenses personnelles pendant le voyage"
+  ]
+ },
  "doi-inthanon-tour-and-pha-dok-siew-trail-trek": {
   "title": "Visite de Doi Inthanon et trek sur le sentier de Pha Dok Siew",
   "metaTitle": "Visite de Doi Inthanon et trek sur le sentier de Pha Dok Siew",
@@ -187552,6 +187793,23 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "autre depense personnelle",
+   "pourboires et gratifications"
+  ]
+ },
+ "elephant-observation-and-wang-river-bamboo-rafting-in-chiang-mai": {
+  "title": "Observation des elephants et rafting en bambou sur la riviere Wang a Chiang Mai",
+  "metaTitle": "Observation des elephants et rafting en bambou sur la riviere",
+  "shortDescription": "Excursion de 9 heures à Chiang Mai, comprenant Joy Elephant Sanctuary and Mae Wang District. Opérateur : Joy Elephant Sanctuary, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 9 heures se déroule au départ de Chiang Mai, construite autour de Joy Elephant Sanctuary and Mae Wang District. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLes journées de plein air du nord de la Thaïlande partent de Chiang Mai : le rafting en eaux vives sur la Mae Taeng, de classe II à IV pendant la saison des pluies de juillet à octobre et plus doux le reste de l'année ; les parcours de tyrolienne dans la forêt tropicale au nord de la ville, certains avec plus de 30 plateformes ; les pistes de quad dans les collines de Mae Rim ; et les treks qui atteignent à pied les villages Karen et Lahu, d'une journée à trois nuits. Phuket et Krabi ont leurs propres parcs de quad et de tyrolienne, mais c'est dans le nord que se trouve la jungle.\n\nLe prix comprend service de transfert aller-retour vers tous les hebergements dans un rayon de 5 km de la vieille ville de Chiang Mai, guide touristique, repas local offert et eau potable. Il ne comprend pas hebergement, autres depenses personnelles et pourboires et gratifications, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nMueang Chiang Mai District.. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "service de transfert aller-retour vers tous les hebergements dans un rayon de 5 km de la vieille ville de Chiang Mai",
+   "guide touristique",
+   "repas local offert",
+   "eau potable"
+  ],
+  "notIncluded": [
+   "hebergement",
+   "autres depenses personnelles",
    "pourboires et gratifications"
   ]
  },
@@ -188290,6 +188548,23 @@ export const FR_TOURS: Record<string, TourT> = {
    "toute autre activité non mentionnée dans l'itinéraire"
   ]
  },
+ "vegan-thai-food-tour-of-bangkok": {
+  "title": "Visite culinaire vegane thailandaise a Bangkok",
+  "metaTitle": "Visite culinaire vegane thailandaise a Bangkok",
+  "shortDescription": "Excursion de 4 heures à Bangkok, comprenant Sukhumvit District. Opérateur : Taste of Thailand, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 4 heures se déroule au départ de Bangkok, construite autour de Sukhumvit District. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe quartier chinois de Bangkok s'étend le long de Yaowarat Road, tracée en 1891 et bordée de bijouteries le jour et d'étals de rue la nuit, quand les trottoirs se remplissent de grils au charbon, de charrettes à nouilles et des files devant les étals célèbres : fruits de mer grillés sur Phadungdao, nouilles roulées poivrées guay jub, châtaignes grillées, nid d'oiseau et aileron de requin pour ceux qui le souhaitent. C'est le quartier de street food le plus dense d'Asie, qui démarre vers 18 h. Le guide Michelin de Bangkok récompense des étals de rue depuis 2018 ; un guide qui y mange sait quelles files valent le coup.\n\nLe prix comprend guide touristique local, degustations dans divers stands de nourriture vegane et vendeurs de nourriture. Il ne comprend pas nourriture non vegane, transport aller-retour vers le point de rendez-vous, boissons et pourboire, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nEkkamai BTS Station.. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "guide touristique local",
+   "degustations dans divers stands de nourriture vegane",
+   "vendeurs de nourriture"
+  ],
+  "notIncluded": [
+   "nourriture non vegane",
+   "transport aller-retour vers le point de rendez-vous",
+   "boissons",
+   "pourboire"
+  ]
+ },
  "golden-mount-and-marble-temple-morning-tour-tuk-tuk-in-bangkok": {
   "title": "Mont d'Or et temple de marbre, visite matinale en tuk-tuk a Bangkok",
   "metaTitle": "Mont d'Or et temple de marbre, visite matinale en tuk-tuk a",
@@ -188469,6 +188744,25 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "bangkok-airports-vip-fast-track-arrival-and-meet-and-greet-by-local-operator": {
+  "title": "Aeroports de Bangkok : arrivee VIP prioritaire et accueil personnalise",
+  "metaTitle": "Aeroports de Bangkok : arrivee VIP prioritaire et accueil",
+  "shortDescription": "Excursion de 30 minutes à Bangkok, comprenant assistant personnel a l'aeroport, accueil a l'aeroport, assistance en voie prioritaire, si disponible, aide a l'orientation a l'aeroport et accompagnement pour les formalites d'arrivee ou de depart. Opérateur : MYHoliday Centre, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 30 minutes se déroule à Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLes distances en Thaïlande sont plus longues que la carte ne le laisse croire : Bangkok à Ayutthaya, c'est 80 kilomètres et 90 minutes, Bangkok à Kanchanaburi deux heures et demie, l'aéroport de Phuket à Patong une heure en haute saison, Chiang Mai à Chiang Rai trois heures. Une voiture privée avec chauffeur est tarifée par véhicule et par jour, et c'est la solution sensée pour une excursion à trois ou plus, puisque les circuits en car suivent un horaire fixe et que l'application Grab ne fonctionne pas bien entre les villes. Les chauffeurs sont rarement guides ; pour l'histoire, réservez le guide séparément ou choisissez une visite qui en nomme un.\n\nLe prix comprend assistant personnel a l'aeroport, accueil a l'aeroport, assistance en voie prioritaire, si disponible, aide a l'orientation a l'aeroport et accompagnement pour les formalites d'arrivee ou de depart. Il ne comprend pas transfert a l'aeroport ou a l'hotel, bagage enregistre supplementaire, 500 THB par piece, bagage hors format, 500 THB par piece et frais de prise en charge d'animal, 1 000 THB par animal, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "assistant personnel a l'aeroport",
+   "accueil a l'aeroport",
+   "assistance en voie prioritaire, si disponible",
+   "aide a l'orientation a l'aeroport",
+   "accompagnement pour les formalites d'arrivee ou de depart"
+  ],
+  "notIncluded": [
+   "transfert a l'aeroport ou a l'hotel",
+   "bagage enregistre supplementaire, 500 THB par piece",
+   "bagage hors format, 500 THB par piece",
+   "frais de prise en charge d'animal, 1 000 THB par animal"
+  ]
+ },
  "kanchanaburi-river-kwai-and-hellfire-pass-private-tour-bangkok": {
   "title": "Visite privee de Kanchanaburi, de la riviere Kwaï et de Hellfire Pass (Bangkok)",
   "metaTitle": "Visite privee de Kanchanaburi, de la riviere Kwaï et de Hellfire",
@@ -188539,6 +188833,25 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "prise en charge et retour a l'hotel"
+  ]
+ },
+ "thai-massage-and-dining-experience-in-bangkok": {
+  "title": "Massage thailandais et experience culinaire a Bangkok",
+  "metaTitle": "Massage thailandais et experience culinaire a Bangkok",
+  "shortDescription": "Excursion de 2 heures à Bangkok, comprenant massage therapeutique thailandais traditionnel, experience culinaire thailandaise privee a plusieurs plats, therapeutes qualifies formes aux techniques traditionnelles, massage thailandais authentique et plusieurs plats thailandais traditionnels. Opérateur : tt paradise thai ari, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe massage thaï est une séquence au sol d'étirements et de pressions le long des lignes d'énergie du corps, pratiqué en vêtements amples sans huile, descendant de la tradition ayurvédique apportée avec le bouddhisme ; l'école du Wat Pho à Bangkok l'enseigne depuis 1955 et ses élèves équipent des spas dans tout le pays. Une bonne séance de deux heures devrait vous détendre, pas vous laisser des bleus ; dites « bao bao » pour plus de douceur. Le massage à l'huile, la réflexologie plantaire et la compresse d'herbes de plai et de citronnelle à la vapeur sont les autres classiques. Les prix vont de quelques centaines de bahts dans une échoppe de rue à plusieurs milliers dans un spa de complexe, et l'échoppe de rue offre souvent le meilleur massage.\n\nLe prix comprend massage therapeutique thailandais traditionnel, experience culinaire thailandaise privee a plusieurs plats, therapeutes qualifies formes aux techniques traditionnelles, massage thailandais authentique et plusieurs plats thailandais traditionnels. Il ne comprend pas transport aller-retour vers le lieu, pourboires, boisson alcoolisee et depenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "massage therapeutique thailandais traditionnel",
+   "experience culinaire thailandaise privee a plusieurs plats",
+   "therapeutes qualifies formes aux techniques traditionnelles",
+   "massage thailandais authentique",
+   "plusieurs plats thailandais traditionnels"
+  ],
+  "notIncluded": [
+   "transport aller-retour vers le lieu",
+   "pourboires",
+   "boisson alcoolisee",
+   "depenses personnelles"
   ]
  },
  "ayutthaya-one-day-famous-temples-and-bang-pa-in-palace-tour-bangkok": {
@@ -188746,6 +189059,23 @@ export const FR_TOURS: Record<string, TourT> = {
    "sodas et boissons gazeuses"
   ]
  },
+ "tuk-tuk-night-food-tour-with-rooftop-bar-and-markets-in-bangkok": {
+  "title": "Visite culinaire nocturne en tuk-tuk avec bar sur le toit et marches a Bangkok",
+  "metaTitle": "Visite culinaire nocturne en tuk-tuk avec bar sur le toit et",
+  "shortDescription": "Excursion de 4 heures à Bangkok, comprenant balade en tuk-tuk a travers Bangkok, visite du monument de la democratie, diner dans un restaurant pad thai recommande au Michelin Bib Gourmand, pause photo a la balancoire geante et visite d'un marche nocturne local. Opérateur : WendyMu Travel, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 4 heures se déroule à Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe quartier chinois de Bangkok s'étend le long de Yaowarat Road, tracée en 1891 et bordée de bijouteries le jour et d'étals de rue la nuit, quand les trottoirs se remplissent de grils au charbon, de charrettes à nouilles et des files devant les étals célèbres : fruits de mer grillés sur Phadungdao, nouilles roulées poivrées guay jub, châtaignes grillées, nid d'oiseau et aileron de requin pour ceux qui le souhaitent. C'est le quartier de street food le plus dense d'Asie, qui démarre vers 18 h. Le guide Michelin de Bangkok récompense des étals de rue depuis 2018 ; un guide qui y mange sait quelles files valent le coup.\n\nLe prix comprend balade en tuk-tuk a travers Bangkok, visite du monument de la democratie, diner dans un restaurant pad thai recommande au Michelin Bib Gourmand, pause photo a la balancoire geante et visite d'un marche nocturne local. Il ne comprend pas depenses personnelles et boissons non incluses dans le repas, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "balade en tuk-tuk a travers Bangkok",
+   "visite du monument de la democratie",
+   "diner dans un restaurant pad thai recommande au Michelin Bib Gourmand",
+   "pause photo a la balancoire geante",
+   "visite d'un marche nocturne local"
+  ],
+  "notIncluded": [
+   "depenses personnelles",
+   "boissons non incluses dans le repas"
+  ]
+ },
  "popular-night-market-guided-food-tour-in-bangkok": {
   "title": "Visite culinaire guidee du marche de nuit populaire a Bangkok",
   "metaTitle": "Visite culinaire guidee du marche de nuit populaire a Bangkok",
@@ -188865,6 +189195,23 @@ export const FR_TOURS: Record<string, TourT> = {
    "nourriture et boissons au Le Bua"
   ]
  },
+ "grand-palace-and-temples-guided-tuktuk-city-tour": {
+  "title": "Grand Palais et temples, visite guidee de la ville en tuk-tuk",
+  "metaTitle": "Grand Palais et temples, visite guidee de la ville en tuk-tuk",
+  "shortDescription": "Excursion de 5,5 heures à Bangkok, comprenant Amulet Market et Grand Palace Bangkok and Ferry. Opérateur : MONKEY TRAVEL ASIA by Ask Discovery, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 5,5 heures se déroule à Bangkok, construite autour de Amulet Market et Grand Palace Bangkok and Ferry. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe Grand Palais fut la résidence des rois siamois de 1782, quand Rama Ier déplaça la capitale de l'autre côté du fleuve à Bangkok, jusqu'au début du vingtième siècle, et le Wat Phra Kaew à l'intérieur de ses murs abrite le Bouddha d'émeraude, une figure de jade de 66 centimètres qui est l'objet le plus sacré du royaume et dont le roi change les robes trois fois par an au rythme des saisons. Le complexe ouvre à 8 h 30 et les cars arrivent vers 9 h 30, si bien que la première heure est la plus calme. La tenue est contrôlée à l'entrée : épaules et genoux couverts, pas de jeans déchirés, pas de leggings, et des sarongs sont disponibles à l'entrée pour ceux qui l'ont oublié. L'entrée pour les visiteurs étrangers coûte 500 bahts et inclut le musée textile de la reine Sirikit.\n\nLe prix comprend guide agree parlant anglais, promenade au marche aux amulettes, visite du Grand Palais, visite du Wat Phra Kaew et du Bouddha d'emeraude et visite du Wat Arun. Il ne comprend pas ecouteurs et boissons, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nGolden Place (Tha Chang Pier Branch).. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "guide agree parlant anglais",
+   "promenade au marche aux amulettes",
+   "visite du Grand Palais",
+   "visite du Wat Phra Kaew et du Bouddha d'emeraude",
+   "visite du Wat Arun"
+  ],
+  "notIncluded": [
+   "ecouteurs",
+   "boissons"
+  ]
+ },
  "ayutthaya-temples-guided-tour-with-lunch": {
   "title": "Visite guidee des temples d'Ayutthaya avec dejeuner",
   "metaTitle": "Visite guidee des temples d'Ayutthaya avec dejeuner",
@@ -188935,6 +189282,24 @@ export const FR_TOURS: Record<string, TourT> = {
    "gratifications et pourboires",
    "prise en charge et retour a l'hotel",
    "nourriture et boissons chez Teens of Thailand"
+  ]
+ },
+ "tuk-tuk-adventure-chinatown-michelin-food-and-temples-in-bangkok": {
+  "title": "Aventure en tuk-tuk : quartier chinois, cuisine etoilee Michelin et temples a Bangkok",
+  "metaTitle": "Aventure en tuk-tuk : quartier chinois, cuisine etoilee Michelin",
+  "shortDescription": "Excursion de 1,5 heures à Bangkok, comprenant Tuk tuk et Loha Prasat and Democracy Monument. Opérateur : MONKEY TRAVEL ASIA by Ask Discovery, en réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cette expérience de 1,5 heures se déroule à Bangkok, construite autour de Tuk tuk et Loha Prasat and Democracy Monument. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe quartier chinois de Bangkok s'étend le long de Yaowarat Road, tracée en 1891 et bordée de bijouteries le jour et d'étals de rue la nuit, quand les trottoirs se remplissent de grils au charbon, de charrettes à nouilles et des files devant les étals célèbres : fruits de mer grillés sur Phadungdao, nouilles roulées poivrées guay jub, châtaignes grillées, nid d'oiseau et aileron de requin pour ceux qui le souhaitent. C'est le quartier de street food le plus dense d'Asie, qui démarre vers 18 h. Le guide Michelin de Bangkok récompense des étals de rue depuis 2018 ; un guide qui y mange sait quelles files valent le coup.\n\nLe prix comprend transport en tuk-tuk, guide local officiel, explication historique et culturelle, degustation culinaire recommandee par le Michelin et assurance obligatoire. Il ne comprend pas ecouteurs, depenses personnelles et prise en charge a l'hotel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\n191 Thanon Rama IV, Khwaeng Rong Muang, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand.. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "included": [
+   "transport en tuk-tuk",
+   "guide local officiel",
+   "explication historique et culturelle",
+   "degustation culinaire recommandee par le Michelin",
+   "assurance obligatoire"
+  ],
+  "notIncluded": [
+   "ecouteurs",
+   "depenses personnelles",
+   "prise en charge a l'hotel"
   ]
  },
  "seaworld-abu-dhabi-general-admission-optional-add": {
