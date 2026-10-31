@@ -13651,6 +13651,16 @@ export const DE_TOURS: Record<string, TourT> = {
    "3, Getraenk"
   ]
  },
+ "full-day-kulen-mountain-trekking-tour-and-lunch-pa": {
+  "title": "Ganztages-Trekking-Tour zum Kulen-Berg mit Mittagessen",
+  "metaTitle": "Ganztages-Trekking-Tour zum Kulen-Berg mit Mittagessen",
+  "shortDescription": "Ganztaegige Tour in Siem Reap, mit Krong Siem Reap, Preah Ang Choub Pagoda und Kulen park and 1000 Lingas. Direkt gebucht bei Camboya Travel, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Eine ganztaegige Tour ab Siem Reap, die Krong Siem Reap, Preah Ang Choub Pagoda und Kulen park and 1000 Lingas besucht. Es gibt insgesamt 6 Stopps, sodass der Tag gut ausgefuellt ist, statt lange Luecken zwischen zwei oder drei Hoehepunkten zu lassen.\n\nPhnom Kulen ist das Sandsteinplateau, aus dem die Steine der Angkor-Tempel gebrochen wurden, und der Ort, an dem sich Jayavarman II im Jahr 802 zum universalen Monarchen erklaerte, das Gruendungsdatum, das Kambodschaner ihrem Reich geben. Die Strasse hinauf ist steil und die Anlage hat einen eigenen Eintritt von 20 USD, getrennt vom Angkor Pass. Oben befinden sich der zweistufige Wasserfall, unter dem man schwimmt, das mit Lingas geschnitzte Flussbett, der groessere Cousin von Kbal Spean, und ein liegender Buddha, der in einen Felsblock an der Gipfel-Pagode gehauen ist und barfuss erreicht wird. Es ist ein voller Tag ab Siem Reap und am besten waehrend oder kurz nach der Regenzeit, wenn die Wasserfaelle tatsaechlich fliessen.\n\nIm Preis enthalten sind der Service umfasst den lokalen khmerischen Guide, das Mittagspaket, Snacks und Trinkwasser. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nCamboya Travel fuehrt es durch. Wir buchen direkt mit ihnen, sodass der Guide, der Sie trifft, fuer den Anbieter arbeitet und nicht fuer einen Wiederverkaeufer.",
+  "included": [
+   "der Service umfasst den lokalen khmerischen Guide, das Mittagspaket, Snacks und Trinkwasser"
+  ],
+  "notIncluded": []
+ },
  "kompong-phluk-village-sunset-boat-tour": {
   "title": "Sonnenuntergangs-Bootstour im Dorf Kompong Phluk",
   "metaTitle": "Sonnenuntergangs-Bootstour im Dorf Kompong Phluk",
@@ -13930,6 +13940,21 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Banteay-Srei-Tempel-Pass, Eintrittsgebuehr vom Kunden zu zahlen",
    "Eintrittsgebuehr fuer den Berg Kulen vom Kunden zu zahlen"
+  ]
+ },
+ "half-day-kampong-phluk-with-sunset-boat-and-guide": {
+  "title": "Halbtagestour nach Kampong Phluk mit Sonnenuntergangsboot und Guide",
+  "metaTitle": "Halbtagestour nach Kampong Phluk mit Sonnenuntergangsboot und",
+  "shortDescription": "1-stuendige Tour in Siem Reap, mit Krong Siem Reap, Ro Lus Market und Kampong Phluk and Tonlé Sap. Direkt gebucht bei Wadi Rum Fire Camp, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Eine Tour von 1 Stunde ab Siem Reap, die Krong Siem Reap, Ro Lus Market und Kampong Phluk and Tonlé Sap besucht. Es gibt insgesamt 5 Stopps, sodass der Tag gut ausgefuellt ist, statt lange Luecken zwischen zwei oder drei Hoehepunkten zu lassen.\n\nDer Tonle Sap ist der groesste Suesswassersee Suedostasiens und kehrt zweimal im Jahr seine Fliessrichtung um: in der Monsunzeit drueckt der Mekong Wasser zurueck in den Tonle-Sap-Fluss, und der See schwillt mehrfach an, um sich ab etwa November wieder zu entleeren. Die Doerfer darauf leben damit. Die Pfahlhaeuser von Kampong Phluk stehen sechs bis zehn Meter hoch auf ihren Stelzen, im Maerz trocken darunter und im Oktober wadentief; Kampong Khleang ist groesser, weiter draussen und deutlich weniger besucht; Chong Kneas liegt am naechsten zu Siem Reap und ist am touristischsten. Welches Dorf passt und ob das Boot den ueberfluteten Wald ueberhaupt erreichen kann, haengt vollstaendig vom Monat ab.\n\nIm Preis enthalten sind Abholung und Rueckfahrt zum Hotel, Transport mit klimatisiertem Minivan und Kleinbus und professioneller englischsprachiger Guide. Nicht enthalten sind persoenliche Ausgaben und Ruderboot zum Mangrovenwald, 5-50 USD pro Person (aktualisiert 2014), das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDer Preis liegt bei etwa 30 $ pro Person, eine Gruppe von 8 kommt also auf 242 $. Der auf dieser Seite angezeigte Betrag ist der Gesamtpreis fuer die gewaehlte Gruppengroesse, keine Zahl pro Kopf zum Multiplizieren.\n\nWadi Rum Fire Camp fuehrt es durch. Wir buchen direkt mit ihnen, sodass der Guide, der Sie trifft, fuer den Anbieter arbeitet und nicht fuer einen Wiederverkaeufer.",
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel",
+   "Transport mit klimatisiertem Minivan und Kleinbus",
+   "professioneller englischsprachiger Guide"
+  ],
+  "notIncluded": [
+   "persoenliche Ausgaben",
+   "Ruderboot zum Mangrovenwald, 5-50 USD pro Person (aktualisiert 2014)"
   ]
  },
  "angkor-wat-sunrise-tour-with-tonle-sap-2-day": {
@@ -19590,6 +19615,21 @@ export const DE_TOURS: Record<string, TourT> = {
    "Essen und Getraenke"
   ]
  },
+ "kulen-mountain-beng-mealea-and-kampong-phluk": {
+  "title": "Kulen-Berg, Beng Mealea und Kampong Phluk",
+  "metaTitle": "Kulen-Berg, Beng Mealea und Kampong Phluk",
+  "shortDescription": "Ganztaegige Tour in Siem Reap, mit Krong Siem Reap, Preah Dak und Phnom Kulen National Park and 1000 Lingas. Direkt gebucht bei Passion Indochina Travel Co.,Ltd., statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Eine ganztaegige Tour ab Siem Reap, die Krong Siem Reap, Preah Dak und Phnom Kulen National Park and 1000 Lingas besucht. Es gibt insgesamt 8 Stopps, sodass der Tag gut ausgefuellt ist, statt lange Luecken zwischen zwei oder drei Hoehepunkten zu lassen.\n\nDer Tonle Sap ist der groesste Suesswassersee Suedostasiens und kehrt zweimal im Jahr seine Fliessrichtung um: in der Monsunzeit drueckt der Mekong Wasser zurueck in den Tonle-Sap-Fluss, und der See schwillt mehrfach an, um sich ab etwa November wieder zu entleeren. Die Doerfer darauf leben damit. Die Pfahlhaeuser von Kampong Phluk stehen sechs bis zehn Meter hoch auf ihren Stelzen, im Maerz trocken darunter und im Oktober wadentief; Kampong Khleang ist groesser, weiter draussen und deutlich weniger besucht; Chong Kneas liegt am naechsten zu Siem Reap und ist am touristischsten. Welches Dorf passt und ob das Boot den ueberfluteten Wald ueberhaupt erreichen kann, haengt vollstaendig vom Monat ab.\n\nIm Preis enthalten sind Abholung und Rueckfahrt zum Hotel, Transport mit klimatisiertem Auto oder Minivan und englischsprachiger Reisefuehrer. Nicht enthalten sind Eintrittsgebuehr fuer den Berg Kulen, 20 USD pro Person und Pass fuer Beng Mealea, 10 USD pro Person (ein gueltiger Angkor-Pass wird fuer diesen Besuch akzeptiert), das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDer Preis liegt bei etwa 130 $ pro Person, eine Gruppe von 8 kommt also auf 1,040 $. Der auf dieser Seite angezeigte Betrag ist der Gesamtpreis fuer die gewaehlte Gruppengroesse, keine Zahl pro Kopf zum Multiplizieren.\n\nPassion Indochina Travel Co.,Ltd. fuehrt es durch. Wir buchen direkt mit ihnen, sodass der Guide, der Sie trifft, fuer den Anbieter arbeitet und nicht fuer einen Wiederverkaeufer.",
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel",
+   "Transport mit klimatisiertem Auto oder Minivan",
+   "englischsprachiger Reisefuehrer"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehr fuer den Berg Kulen, 20 USD pro Person",
+   "Pass fuer Beng Mealea, 10 USD pro Person (ein gueltiger Angkor-Pass wird fuer diesen Besuch akzeptiert)"
+  ]
+ },
  "koh-rong-samloem-day-trip-from-phnom-penh-hike": {
   "title": "Koh Rong Samloem: Tagesausflug ab Phnom Penh - Wandern und Schnorcheln",
   "metaTitle": "Koh Rong Samloem: Tagesausflug ab Phnom Penh - Wandern und",
@@ -21088,6 +21128,21 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Eintrittsticket fuer den Angkor-Wat-Tempel, 37,00 pro Person, deckt alle Tempel ab"
+  ]
+ },
+ "kulen-mountain-beng-mealea-and-with-asean-angkor": {
+  "title": "Kulen-Berg, Beng Mealea und ASEAN Angkor",
+  "metaTitle": "Kulen-Berg, Beng Mealea und ASEAN Angkor",
+  "shortDescription": "Ganztaegige Tour in Siem Reap, mit Krong Siem Reap, Preah Dak und Phnom Kulen National Park and 1000 Lingas. Direkt gebucht bei ASEAN ANGKOR GUIDE, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Eine ganztaegige Tour ab Siem Reap, die Krong Siem Reap, Preah Dak und Phnom Kulen National Park and 1000 Lingas besucht. Es gibt insgesamt 8 Stopps, sodass der Tag gut ausgefuellt ist, statt lange Luecken zwischen zwei oder drei Hoehepunkten zu lassen.\n\nDer Tonle Sap ist der groesste Suesswassersee Suedostasiens und kehrt zweimal im Jahr seine Fliessrichtung um: in der Monsunzeit drueckt der Mekong Wasser zurueck in den Tonle-Sap-Fluss, und der See schwillt mehrfach an, um sich ab etwa November wieder zu entleeren. Die Doerfer darauf leben damit. Die Pfahlhaeuser von Kampong Phluk stehen sechs bis zehn Meter hoch auf ihren Stelzen, im Maerz trocken darunter und im Oktober wadentief; Kampong Khleang ist groesser, weiter draussen und deutlich weniger besucht; Chong Kneas liegt am naechsten zu Siem Reap und ist am touristischsten. Welches Dorf passt und ob das Boot den ueberfluteten Wald ueberhaupt erreichen kann, haengt vollstaendig vom Monat ab.\n\nIm Preis enthalten sind Abholung und Rueckfahrt zum Hotel, Transport mit klimatisiertem Auto oder Minivan und professioneller englischsprachiger Reisefuehrer. Nicht enthalten sind Pass fuer den Berg Kulen, 20 USD pro Person und Pass fuer Beng Mealea, 10 USD pro Person (ein gueltiger Angkor-Pass wird fuer diesen Besuch akzeptiert), das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDer Preis liegt bei etwa 64 $ pro Person, eine Gruppe von 8 kommt also auf 510 $. Der auf dieser Seite angezeigte Betrag ist der Gesamtpreis fuer die gewaehlte Gruppengroesse, keine Zahl pro Kopf zum Multiplizieren.\n\nASEAN ANGKOR GUIDE fuehrt es durch. Wir buchen direkt mit ihnen, sodass der Guide, der Sie trifft, fuer den Anbieter arbeitet und nicht fuer einen Wiederverkaeufer.",
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel",
+   "Transport mit klimatisiertem Auto oder Minivan",
+   "professioneller englischsprachiger Reisefuehrer"
+  ],
+  "notIncluded": [
+   "Pass fuer den Berg Kulen, 20 USD pro Person",
+   "Pass fuer Beng Mealea, 10 USD pro Person (ein gueltiger Angkor-Pass wird fuer diesen Besuch akzeptiert)"
   ]
  },
  "khmer-village-and-fish-farm-atv-tour": {
@@ -22628,6 +22683,20 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "persoenliche Ausgaben"
+  ]
+ },
+ "painting-workshop-with-professional-artist": {
+  "title": "Malworkshop mit einem professionellen Kuenstler",
+  "metaTitle": "Malworkshop mit einem professionellen Kuenstler",
+  "shortDescription": "2-stuendige Tour in Siem Reap, mit professionelle Kuenstleranleitung, alle hochwertigen Kunstmaterialien: Stifte, Papier, Farben und 90-120-minuetige Workshop-Sitzung. Direkt gebucht bei SM Art Center, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Ein 2-stuendiges Erlebnis in Siem Reap. Der Anbieter fasst es so zusammen: Studio oder Garten: malen in unserem konzentrierten Studio oder dem ueppigen SM-Art-Garten.\n\nIm Preis enthalten sind professionelle Kuenstleranleitung, alle hochwertigen Kunstmaterialien: Stifte, Papier, Farben und 90-120-minuetige Workshop-Sitzung. Nicht enthalten sind Museumseintritt, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDer Preis liegt bei etwa 64 $ pro Person, eine Gruppe von 5 kommt also auf 319 $. Der auf dieser Seite angezeigte Betrag ist der Gesamtpreis fuer die gewaehlte Gruppengroesse, keine Zahl pro Kopf zum Multiplizieren.\n\nSM Art Center fuehrt es durch. Wir buchen direkt mit ihnen, sodass der Guide, der Sie trifft, fuer den Anbieter arbeitet und nicht fuer einen Wiederverkaeufer.",
+  "included": [
+   "professionelle Kuenstleranleitung",
+   "alle hochwertigen Kunstmaterialien: Stifte, Papier, Farben",
+   "90-120-minuetige Workshop-Sitzung"
+  ],
+  "notIncluded": [
+   "Museumseintritt"
   ]
  },
  "angkor-wat-sunrise-breakfast-and-coffee-by-serva-t": {

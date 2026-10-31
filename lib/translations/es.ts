@@ -13651,6 +13651,16 @@ export const ES_TOURS: Record<string, TourT> = {
    "3, bebida"
   ]
  },
+ "full-day-kulen-mountain-trekking-tour-and-lunch-pa": {
+  "title": "Tour de trekking de dia completo a la montana Kulen con almuerzo",
+  "metaTitle": "Tour de trekking de dia completo a la montana Kulen con almuerzo",
+  "shortDescription": "Recorrido de dia completo en Siem Reap, con Krong Siem Reap, Preah Ang Choub Pagoda y Kulen park and 1000 Lingas. Reserva directa con Camboya Travel, en lugar de a traves de un revendedor.",
+  "fullDescription": "Un recorrido de dia completo desde Siem Reap que visita Krong Siem Reap, Preah Ang Choub Pagoda y Kulen park and 1000 Lingas. Hay 6 paradas en total, por lo que el dia se llena en vez de dejar largos intervalos entre dos o tres momentos destacados.\n\nPhnom Kulen es la meseta de arenisca de donde se extrajeron las piedras de los templos de Angkor, y el lugar donde Jayavarman II se declaro monarca universal en el ano 802, fecha que los camboyanos dan como fundacion de su imperio. La carretera de subida es empinada y el sitio tiene su propia entrada de 20 USD, separada del Angkor Pass. En la cima estan la cascada de dos niveles bajo la que la gente se bana, el lecho del rio tallado con lingas, el primo mas grande de Kbal Spean, y un Buda reclinado tallado en una roca en la pagoda de la cumbre, a la que se llega descalzo. Es un dia completo desde Siem Reap y es mejor durante o justo despues de las lluvias, cuando las cascadas realmente corren.\n\nEl precio incluye el servicio incluye el guia local jemer, el paquete de almuerzo, aperitivos y agua potable. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nCamboya Travel lo lleva a cabo. Reservamos directamente con ellos, de modo que el guia que le recibe trabaja para el operador y no para un revendedor.",
+  "included": [
+   "el servicio incluye el guia local jemer, el paquete de almuerzo, aperitivos y agua potable"
+  ],
+  "notIncluded": []
+ },
  "kompong-phluk-village-sunset-boat-tour": {
   "title": "Tour en barco al atardecer en el pueblo de Kompong Phluk",
   "metaTitle": "Tour en barco al atardecer en el pueblo de Kompong Phluk",
@@ -13930,6 +13940,21 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "pase del templo de Banteay Srei, tarifa de entrada a pagar por el cliente",
    "tarifa de entrada a la montana Kulen a pagar por el cliente"
+  ]
+ },
+ "half-day-kampong-phluk-with-sunset-boat-and-guide": {
+  "title": "Tour de medio dia a Kampong Phluk con barco al atardecer y guia",
+  "metaTitle": "Tour de medio dia a Kampong Phluk con barco al atardecer y guia",
+  "shortDescription": "Recorrido de 1 hora en Siem Reap, con Krong Siem Reap, Ro Lus Market y Kampong Phluk and Tonlé Sap. Reserva directa con Wadi Rum Fire Camp, en lugar de a traves de un revendedor.",
+  "fullDescription": "Un recorrido de 1 hora desde Siem Reap que visita Krong Siem Reap, Ro Lus Market y Kampong Phluk and Tonlé Sap. Hay 5 paradas en total, por lo que el dia se llena en vez de dejar largos intervalos entre dos o tres momentos destacados.\n\nEl Tonle Sap es el lago de agua dulce mas grande del sudeste asiatico e invierte su direccion dos veces al ano: en el monzon el Mekong empuja el agua de vuelta hacia el rio Tonle Sap y el lago se hincha varias veces su tamano, para luego drenar de nuevo a partir de noviembre. Los pueblos que viven en el se adaptan a eso. Las casas sobre pilotes de Kampong Phluk se elevan de seis a diez metros sobre sus patas, secas por debajo en marzo y a la altura de los tobillos en octubre; Kampong Khleang es mas grande, mas alejado y mucho menos visitado; Chong Kneas es el mas cercano a Siem Reap y el mas turistico. Que pueblo funciona, y si el barco puede siquiera llegar al bosque inundado, depende por completo del mes.\n\nEl precio incluye recogida y regreso al hotel, transporte en furgoneta y minibus con aire acondicionado y guia profesional de habla inglesa. No incluye gastos personales y bote de remos al bosque de manglares, 5-50 USD por persona (actualizado en 2014), cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl precio es de unos 30 $ por persona, asi que un grupo de 8 sale por 242 $. El importe que ve en esta pagina es el total para el tamano de grupo elegido, no una cifra por persona para multiplicar.\n\nWadi Rum Fire Camp lo lleva a cabo. Reservamos directamente con ellos, de modo que el guia que le recibe trabaja para el operador y no para un revendedor.",
+  "included": [
+   "recogida y regreso al hotel",
+   "transporte en furgoneta y minibus con aire acondicionado",
+   "guia profesional de habla inglesa"
+  ],
+  "notIncluded": [
+   "gastos personales",
+   "bote de remos al bosque de manglares, 5-50 USD por persona (actualizado en 2014)"
   ]
  },
  "angkor-wat-sunrise-tour-with-tonle-sap-2-day": {
@@ -19590,6 +19615,21 @@ export const ES_TOURS: Record<string, TourT> = {
    "comida y bebidas"
   ]
  },
+ "kulen-mountain-beng-mealea-and-kampong-phluk": {
+  "title": "Montana Kulen, Beng Mealea y Kampong Phluk",
+  "metaTitle": "Montana Kulen, Beng Mealea y Kampong Phluk",
+  "shortDescription": "Recorrido de dia completo en Siem Reap, con Krong Siem Reap, Preah Dak y Phnom Kulen National Park and 1000 Lingas. Reserva directa con Passion Indochina Travel Co.,Ltd., en lugar de a traves de un revendedor.",
+  "fullDescription": "Un recorrido de dia completo desde Siem Reap que visita Krong Siem Reap, Preah Dak y Phnom Kulen National Park and 1000 Lingas. Hay 8 paradas en total, por lo que el dia se llena en vez de dejar largos intervalos entre dos o tres momentos destacados.\n\nEl Tonle Sap es el lago de agua dulce mas grande del sudeste asiatico e invierte su direccion dos veces al ano: en el monzon el Mekong empuja el agua de vuelta hacia el rio Tonle Sap y el lago se hincha varias veces su tamano, para luego drenar de nuevo a partir de noviembre. Los pueblos que viven en el se adaptan a eso. Las casas sobre pilotes de Kampong Phluk se elevan de seis a diez metros sobre sus patas, secas por debajo en marzo y a la altura de los tobillos en octubre; Kampong Khleang es mas grande, mas alejado y mucho menos visitado; Chong Kneas es el mas cercano a Siem Reap y el mas turistico. Que pueblo funciona, y si el barco puede siquiera llegar al bosque inundado, depende por completo del mes.\n\nEl precio incluye recogida y regreso al hotel, transporte en coche o furgoneta con aire acondicionado y guia turistico de habla inglesa. No incluye tarifa de entrada a la montana Kulen, 20 USD por persona y pase para Beng Mealea, 10 USD por persona (se acepta un pase de Angkor valido para esta visita), cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl precio es de unos 130 $ por persona, asi que un grupo de 8 sale por 1,040 $. El importe que ve en esta pagina es el total para el tamano de grupo elegido, no una cifra por persona para multiplicar.\n\nPassion Indochina Travel Co.,Ltd. lo lleva a cabo. Reservamos directamente con ellos, de modo que el guia que le recibe trabaja para el operador y no para un revendedor.",
+  "included": [
+   "recogida y regreso al hotel",
+   "transporte en coche o furgoneta con aire acondicionado",
+   "guia turistico de habla inglesa"
+  ],
+  "notIncluded": [
+   "tarifa de entrada a la montana Kulen, 20 USD por persona",
+   "pase para Beng Mealea, 10 USD por persona (se acepta un pase de Angkor valido para esta visita)"
+  ]
+ },
  "koh-rong-samloem-day-trip-from-phnom-penh-hike": {
   "title": "Koh Rong Samloem: excursion de un dia desde Phnom Penh - senderismo y snorkel",
   "metaTitle": "Koh Rong Samloem: excursion de un dia desde Phnom Penh -",
@@ -21088,6 +21128,21 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "entrada al templo de Angkor Wat, 37,00 por persona, cubre todos los templos"
+  ]
+ },
+ "kulen-mountain-beng-mealea-and-with-asean-angkor": {
+  "title": "Montana Kulen, Beng Mealea y ASEAN Angkor",
+  "metaTitle": "Montana Kulen, Beng Mealea y ASEAN Angkor",
+  "shortDescription": "Recorrido de dia completo en Siem Reap, con Krong Siem Reap, Preah Dak y Phnom Kulen National Park and 1000 Lingas. Reserva directa con ASEAN ANGKOR GUIDE, en lugar de a traves de un revendedor.",
+  "fullDescription": "Un recorrido de dia completo desde Siem Reap que visita Krong Siem Reap, Preah Dak y Phnom Kulen National Park and 1000 Lingas. Hay 8 paradas en total, por lo que el dia se llena en vez de dejar largos intervalos entre dos o tres momentos destacados.\n\nEl Tonle Sap es el lago de agua dulce mas grande del sudeste asiatico e invierte su direccion dos veces al ano: en el monzon el Mekong empuja el agua de vuelta hacia el rio Tonle Sap y el lago se hincha varias veces su tamano, para luego drenar de nuevo a partir de noviembre. Los pueblos que viven en el se adaptan a eso. Las casas sobre pilotes de Kampong Phluk se elevan de seis a diez metros sobre sus patas, secas por debajo en marzo y a la altura de los tobillos en octubre; Kampong Khleang es mas grande, mas alejado y mucho menos visitado; Chong Kneas es el mas cercano a Siem Reap y el mas turistico. Que pueblo funciona, y si el barco puede siquiera llegar al bosque inundado, depende por completo del mes.\n\nEl precio incluye recogida y regreso al hotel, transporte en coche o furgoneta con aire acondicionado y guia turistico profesional de habla inglesa. No incluye pase para la montana Kulen, 20 USD por persona y pase para Beng Mealea, 10 USD por persona (se acepta un pase de Angkor valido para esta visita), cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl precio es de unos 64 $ por persona, asi que un grupo de 8 sale por 510 $. El importe que ve en esta pagina es el total para el tamano de grupo elegido, no una cifra por persona para multiplicar.\n\nASEAN ANGKOR GUIDE lo lleva a cabo. Reservamos directamente con ellos, de modo que el guia que le recibe trabaja para el operador y no para un revendedor.",
+  "included": [
+   "recogida y regreso al hotel",
+   "transporte en coche o furgoneta con aire acondicionado",
+   "guia turistico profesional de habla inglesa"
+  ],
+  "notIncluded": [
+   "pase para la montana Kulen, 20 USD por persona",
+   "pase para Beng Mealea, 10 USD por persona (se acepta un pase de Angkor valido para esta visita)"
   ]
  },
  "khmer-village-and-fish-farm-atv-tour": {
@@ -22628,6 +22683,20 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "gastos personales"
+  ]
+ },
+ "painting-workshop-with-professional-artist": {
+  "title": "Taller de pintura con un artista profesional",
+  "metaTitle": "Taller de pintura con un artista profesional",
+  "shortDescription": "Recorrido de 2 horas en Siem Reap, con guia de artista profesional, todos los materiales de arte de alta calidad: lapices, papel, pinturas y sesion de taller de 90 a 120 minutos. Reserva directa con SM Art Center, en lugar de a traves de un revendedor.",
+  "fullDescription": "Una experiencia de 2 horas en Siem Reap. El operador lo resume asi: estudio o jardin: pintar en nuestro estudio enfocado o el exuberante jardin SM Art.\n\nEl precio incluye guia de artista profesional, todos los materiales de arte de alta calidad: lapices, papel, pinturas y sesion de taller de 90 a 120 minutos. No incluye entrada al museo, cuente con ese gasto aparte. Todo lo incluido figura al completo en esta pagina; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl precio es de unos 64 $ por persona, asi que un grupo de 5 sale por 319 $. El importe que ve en esta pagina es el total para el tamano de grupo elegido, no una cifra por persona para multiplicar.\n\nSM Art Center lo lleva a cabo. Reservamos directamente con ellos, de modo que el guia que le recibe trabaja para el operador y no para un revendedor.",
+  "included": [
+   "guia de artista profesional",
+   "todos los materiales de arte de alta calidad: lapices, papel, pinturas",
+   "sesion de taller de 90 a 120 minutos"
+  ],
+  "notIncluded": [
+   "entrada al museo"
   ]
  },
  "angkor-wat-sunrise-breakfast-and-coffee-by-serva-t": {
