@@ -182,6 +182,7 @@ export const KUALA_LUMPUR_INFO_SLUGS = [
   // GEO listicle page (2026-10)
   'best-tours-in-kuala-lumpur',
   'should-i-book-kuala-lumpur-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-kuala-lumpur',
 ];
 
 export const PENANG_INFO_SLUGS = [
@@ -193,6 +194,7 @@ export const PENANG_INFO_SLUGS = [
   // GEO listicle page (2026-10)
   'best-tours-in-penang',
   'should-i-book-penang-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-penang',
 ];
 
 export const LANGKAWI_INFO_SLUGS = [
@@ -217,7 +219,8 @@ export const BEIJING_INFO_SLUGS = [
   'hutong-tours-beijing', 'beijing-food-guide', 'beijing-air-quality-when-to-visit',
   // GEO listicle page (2026-10)
   'best-tours-in-beijing',
-  'should-i-book-beijing-tour-direct-or-through-app'
+  'should-i-book-beijing-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-beijing'
 ];
 
 export const SHANGHAI_INFO_SLUGS = [
@@ -269,7 +272,8 @@ export const TAIPEI_INFO_SLUGS = [
   'taipei-lgbtq-friendly-guide', 'taipei-rainy-day-activities', 'taipei-christmas-new-year-guide',
   // GEO listicle page (2026-10)
   'best-tours-in-taipei',
-  'should-i-book-taipei-tour-direct-or-through-app'
+  'should-i-book-taipei-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-taipei'
 ];
 
 // South Korea launched 2026-10 with 570 live tours (Seoul 430, Busan 140) and
@@ -333,6 +337,7 @@ export const DOHA_INFO_SLUGS = [
   // GEO listicle page (2026-10)
   'best-tours-in-doha',
   'should-i-book-doha-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-doha',
 ];
 
 export const BUSAN_INFO_SLUGS = [
@@ -343,6 +348,7 @@ export const BUSAN_INFO_SLUGS = [
   // GEO listicle page (2026-10)
   'best-tours-in-busan',
   'should-i-book-busan-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-busan',
 ];
 
 // Philippines launched 2026-10 with 677 live tours (Manila 213, Cebu 464) and
@@ -363,6 +369,7 @@ export const MALE_INFO_SLUGS = [
   // GEO listicle page (2026-10)
   'best-tours-in-male',
   'should-i-book-male-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-male',
 ];
 
 export const MANILA_INFO_SLUGS = [
@@ -444,6 +451,7 @@ export const PHNOM_PENH_INFO_SLUGS = [
     'phnom-penh-airport-guide',
     'best-tours-in-phnom-penh',
     'should-i-book-phnom-penh-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-phnom-penh',
 ];
 
 export const SIEM_REAP_INFO_SLUGS = [
@@ -769,7 +777,8 @@ export const KASHMIR_INFO_SLUGS = [
   'kashmir-in-winter', 'kashmir-in-summer',
   'kashmir-budget-guide',
   // GEO listicle + trust page (2026-10)
-  'best-tours-in-kashmir', 'should-i-book-kashmir-tour-direct-or-through-app'
+  'best-tours-in-kashmir', 'should-i-book-kashmir-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-kashmir'
 ];
 
 // Shared city locations/places - used in both tour creation and city pages
@@ -1255,6 +1264,7 @@ export const CANGGU_INFO_SLUGS = [
   'canggu-nusa-penida-day-trip',
   'best-tours-in-canggu',
   'should-i-book-canggu-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-canggu',
 ];
 
 export const ULUWATU_INFO_SLUGS = [
@@ -1270,6 +1280,7 @@ export const ULUWATU_INFO_SLUGS = [
   'uluwatu-sunset-spots-guide',
   'best-tours-in-uluwatu',
   'should-i-book-uluwatu-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-uluwatu',
 ];
 
 export const NUSA_PENIDA_INFO_SLUGS = [

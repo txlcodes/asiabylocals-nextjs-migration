@@ -881,6 +881,51 @@ export function getUluwatuInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-11-01)
+    case "how-much-should-a-private-tour-guide-cost-in-uluwatu":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Uluwatu?",
+        seoTitle: "Uluwatu Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private guide or car tour around Uluwatu in 2026, so you know what's fair before you book.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uluwatu-temple-sunset-tour-with-kecak-fire-dance/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private Uluwatu Temple and watersports tour** runs a flat **$68 regardless of group size** on some operators. A **full-day customizable Bali private tour** runs flat **$85**, also regardless of group size. A **private South Bali beach-hopping tour** runs **$87 solo**, stepping up roughly $25-40 per added traveller. A **private cooking class with a market tour** runs **$246 solo**, scaling per student since ingredients and instruction are a real per-head cost.",
+            tourCard: { slug: "watersports-and-uluwatu-temple-private-tour", title: "Bali: Watersports & Uluwatu Temple Private Tour", description: "A real example of flat pricing regardless of group size.", price: "From $68", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/uluwatu-temple-sunset-tour-with-kecak-fire-dance/img0/1600.webp" },
+          },
+          {
+            title: "Why Flat Pricing Is Common Around Uluwatu",
+            content: "Most Uluwatu private car tours quote one flat price because the real cost is the driver and vehicle for the day, not per-head consumption — a genuinely good deal once you have 3-4 people sharing. Activities with real per-person costs (cooking classes with ingredients, kayaking/jet-ski gear) step up per traveller instead, since each person needs their own equipment or portion.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private tour quote well under $68-85 for a full day often means a shorter route or fewer stops than advertised. For the Kecak fire dance specifically, confirm whether the show ticket is included in the quote or charged separately at the temple.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly which stops and how much time at each are included, and whether temple entrance or show tickets are bundled. On AsiaByLocals, every Uluwatu tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Uluwatu tours](/indonesia/uluwatu) to compare real, current prices directly.",
+            tourCard: { slug: "full-day-customizable-bali-private-or-shared-tour-uluwatu", title: "Full Day Customizable Bali Private or Shared Tour", description: "A real example of flat pricing regardless of group size for a full-day tour.", price: "From $85", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/uluwatu-temple-sunset-tour-with-kecak-fire-dance/img0/1600.webp" },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Uluwatu?", a: "A private Uluwatu Temple and watersports tour runs a flat $68 regardless of group size. A full-day customizable private tour runs flat $85." },
+          { q: "Why is flat pricing so common for Uluwatu private tours?", a: "The real cost is the driver and vehicle for the day, not per-head consumption, which is why many quotes stay flat up to the car's capacity." },
+          { q: "Is a very cheap private Uluwatu tour quote a red flag?", a: "Often yes — it can mean a shorter route or fewer stops than advertised." },
+          { q: "Does a private Uluwatu Temple tour include the Kecak fire dance ticket?", a: "Not always — confirm whether the show ticket is bundled or charged separately at the temple before booking." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Uluwatu?", "acceptedAnswer": { "@type": "Answer", "text": "A private Uluwatu Temple and watersports tour runs a flat $68 regardless of group size." } },
+            { "@type": "Question", "name": "Why is flat pricing so common for Uluwatu private tours?", "acceptedAnswer": { "@type": "Answer", "text": "The real cost is the driver and vehicle for the day, not per-head consumption." } },
+            { "@type": "Question", "name": "Is a very cheap private Uluwatu tour quote a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a shorter route or fewer stops." } },
+            { "@type": "Question", "name": "Does a private Uluwatu Temple tour include the Kecak fire dance ticket?", "acceptedAnswer": { "@type": "Answer", "text": "Not always — confirm whether the show ticket is bundled or separate." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

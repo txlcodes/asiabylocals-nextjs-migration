@@ -553,6 +553,51 @@ export function getBeijingInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-11-01)
+    case "how-much-should-a-private-tour-guide-cost-in-beijing":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Beijing?",
+        seoTitle: "Beijing Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private guide and car in Beijing in 2026, by tour length and type, so you know what's fair before you book.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c6c2e541f4e7c143070d03",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private Mutianyu Great Wall day tour with guide and car** typically runs **$389-553 for 1-2 people**, roughly doubling per added traveller up to a point. A **private day combining the Forbidden City, Summer Palace and a lake cruise** runs **$605 flat for 1-2 people**. A **private day trip to Chengde** (a longer-distance site) runs **$535 solo**, stepping up with group size. A **multi-day private tour** (4 days with guide) runs **$1,709 solo**, scaling roughly linearly per added traveller since it includes extended guiding time each day.",
+            tourCard: { slug: "beijing-mutianyu-great-wall-private-tour-cable-car", title: "Beijing: Mutianyu Great Wall Private Tour & Cable Car", description: "A real example of standard private day-tour pricing with guide and car.", price: "From $389", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c6c2e541f4e7c143070d03" },
+          },
+          {
+            title: "Why Beijing Private Tours Cost More Than Some Destinations",
+            content: "Beijing's private tours typically bundle a licensed English-speaking guide AND a private car with driver together, which is why prices run higher than a tuk-tuk-based destination — you're paying for two people's time (driver and guide), not just one. Some tours combine both roles into one person, which can be cheaper; always ask whether it's a guide-plus-driver team or a single guide-driver.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private Mutianyu tour quote well under $389 for a full day often means a shorter time at the wall, no cable car included, or a driver without real guiding commentary. For sites further from the city (Chengde), confirm the actual travel time and whether high-speed rail or a long car drive is used, since that changes both the price and the day's pace.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly whether you're getting a separate guide and driver or one combined role, and how the cable car or high-speed rail (if relevant) is handled. On AsiaByLocals, every Beijing tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Beijing tours](/china/beijing) to compare real, current prices directly.",
+            tourCard: { slug: "private-tour-forbidden-city-summer-palace-lake", title: "Private Tour: Forbidden City, Summer Palace & Lake Cruise", description: "A real example of flat pricing for 1-2 people on a multi-site private day.", price: "From $605", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c6c2e541f4e7c143070d03" },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Beijing?", a: "A private Mutianyu Great Wall tour with guide and car typically runs $389-553 for 1-2 people. A private day combining the Forbidden City, Summer Palace and a lake cruise runs $605 flat for 1-2 people." },
+          { q: "Why do Beijing private tours cost more than tuk-tuk-based destinations?", a: "They typically bundle a licensed guide AND a separate private car with driver, which is two people's time rather than one." },
+          { q: "Is a very cheap private Mutianyu tour quote a red flag?", a: "Often yes — it can mean less time at the wall, no cable car included, or a driver without real guiding commentary." },
+          { q: "What's usually included in a Beijing private tour price?", a: "Typically the guide and driver's fees and the vehicle. Entrance tickets and the cable car are sometimes separate — ask for the full breakdown before comparing prices." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Beijing?", "acceptedAnswer": { "@type": "Answer", "text": "A private Mutianyu Great Wall tour with guide and car typically runs $389-553 for 1-2 people." } },
+            { "@type": "Question", "name": "Why do Beijing private tours cost more than tuk-tuk-based destinations?", "acceptedAnswer": { "@type": "Answer", "text": "They typically bundle a licensed guide AND a separate private car with driver." } },
+            { "@type": "Question", "name": "Is a very cheap private Mutianyu tour quote a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean less time at the wall or no cable car included." } },
+            { "@type": "Question", "name": "What's usually included in a Beijing private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the guide and driver's fees and the vehicle; entrance tickets are sometimes separate." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

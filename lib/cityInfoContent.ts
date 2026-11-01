@@ -5452,6 +5452,51 @@ description: "Amber Fort at opening, City Palace, Hawa Mahal and Nahargarh for s
                     },
                 };
 
+            // GEO single-topic page (2026-11-01)
+            case "how-much-should-a-private-tour-guide-cost-in-kashmir":
+                return {
+                    title: "How Much Should a Private Tour Guide Cost in Kashmir?",
+                    seoTitle: "Kashmir Private Guide Prices 2026 — What's Reasonable",
+                    description: "Real price ranges for a private guide or driver in Kashmir in 2026, so you know what's fair before you book.",
+                    heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4a8875dadbd794addd8bcfa9320bc62ffd8a9cd9d0e77a67bb10f6967bc77cf7.jpg",
+                    sections: [
+                        {
+                            title: "The Short Answer",
+                            content: "Most Kashmir day tours from Srinagar are already small private or near-private trips by default, since group departures are less common here than in Southeast Asia — so the real question is usually **private with a dedicated guide vs. a cheaper shared-driver transfer**. A **private Pahalgam day trip with a guide** runs around **$296**, versus a **private Gulmarg day trip with a guide** at roughly **$254**. A bare **shared-driver day trip to Gulmarg with no dedicated guide** runs as low as **$40** — a very different, much more basic product. Multi-day private Kashmir circuits (Srinagar-Gulmarg-Pahalgam, 7 days with transfers and guide) run **$1,500+ for the trip**.",
+                            tourCard: { slug: "from-srinagar-private-pahalgam-day-trip-with-guide", title: "From Srinagar: Private Pahalgam Day Trip with Guide", description: "A real example of a genuinely guided private day trip, not just a shared transfer.", price: "From $296", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4a8875dadbd794addd8bcfa9320bc62ffd8a9cd9d0e77a67bb10f6967bc77cf7.jpg" },
+                        },
+                        {
+                            title: "Driver vs. Guide — A Bigger Price Gap Here Than Most Destinations",
+                            content: "In Kashmir specifically, the gap between a bare driver-only transfer ($40) and a genuinely guided day ($250-300) is unusually large, because Gulmarg and Pahalgam's gondola routes, seasonal conditions and photo spots benefit heavily from local knowledge — a driver who just drops you at the gondola station isn't the same product as a guide who knows which viewpoints and routes are worth the time that day.",
+                        },
+                        {
+                            title: "Red Flags on Price",
+                            content: "A quote well under $40 for a full-day Gulmarg or Pahalgam trip often means a very basic shared vehicle with no flexibility on timing or stops. Always ask directly whether you're booking a driver or a guide, since both get marketed loosely as \"private tour\" in Kashmir.",
+                        },
+                        {
+                            title: "How to Get a Fair Price",
+                            content: "Ask the operator directly whether a dedicated guide travels with you or it's a driver-only transfer, and what the current road/weather conditions mean for the day's route. On AsiaByLocals, every Kashmir tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Kashmir tours](/india/kashmir) to compare real, current prices directly.",
+                            tourCard: { slug: "from-srinagar-day-trip-to-gulmarg-with-local-guide", title: "From Srinagar: Day Trip to Gulmarg with Local Guide", description: "A real example of the cheaper, bare shared-driver format — a different product from a guided private day.", price: "From $40", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4a8875dadbd794addd8bcfa9320bc62ffd8a9cd9d0e77a67bb10f6967bc77cf7.jpg" },
+                        },
+                    ],
+                    faqs: [
+                        { q: "How much does a private tour guide cost in Kashmir?", a: "A private Pahalgam day trip with a dedicated guide runs around $296, and a private Gulmarg day trip with a guide runs about $254. A bare shared-driver transfer with no guide can run as low as $40." },
+                        { q: "Why is there such a big gap between a $40 and a $300 Kashmir day trip?", a: "The $40 option is a bare driver-only transfer, while the $250-300 option includes a dedicated guide with local knowledge of routes, timing and conditions — genuinely different products." },
+                        { q: "Is a very cheap Kashmir day trip quote a red flag?", a: "Often it just means a bare shared vehicle with no guide and no flexibility on timing — not necessarily a scam, but confirm what you're actually getting." },
+                        { q: "What's usually included in a Kashmir private tour price?", a: "Typically the driver or guide's fee and the vehicle. Gondola/cable car tickets and meals are usually listed separately — ask for the full breakdown before comparing prices." },
+                    ],
+                    jsonLd: {
+                        "@context": "https://schema.org",
+                        "@type": "FAQPage",
+                        "mainEntity": [
+                            { "@type": "Question", "name": "How much does a private tour guide cost in Kashmir?", "acceptedAnswer": { "@type": "Answer", "text": "A private Pahalgam day trip with a dedicated guide runs around $296, and a private Gulmarg day trip with a guide runs about $254. A bare shared-driver transfer can run as low as $40." } },
+                            { "@type": "Question", "name": "Why is there such a big gap between a $40 and a $300 Kashmir day trip?", "acceptedAnswer": { "@type": "Answer", "text": "The $40 option is a bare driver-only transfer; the $250-300 option includes a dedicated guide with local knowledge." } },
+                            { "@type": "Question", "name": "Is a very cheap Kashmir day trip quote a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often it just means a bare shared vehicle with no guide — confirm what you're actually getting." } },
+                            { "@type": "Question", "name": "What's usually included in a Kashmir private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the driver or guide's fee and the vehicle; gondola tickets and meals are usually separate." } },
+                        ],
+                    },
+                };
+
             default:
                 return null;
     }

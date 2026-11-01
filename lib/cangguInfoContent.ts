@@ -956,6 +956,51 @@ export function getCangguInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-11-01)
+    case "how-much-should-a-private-tour-guide-cost-in-canggu":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Canggu?",
+        seoTitle: "Canggu Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private surf lesson, guide or car tour in Canggu in 2026, so you know what's fair before you book.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/surf-lesson-in-batu-bolong-canggu-with-certified-instructor-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private beginner surf lesson** at Canggu ranges widely, from **$19-59 flat for 1-2 people** on some operators to **$98 solo, doubling per added person** on others with photo/video included. A **private custom day tour with a female guide** runs **$75 solo**, stepping up roughly $30-50 per added traveller. A **private North Bali tour** (Tanah Lot sunset) runs **$110-114 solo**. A **private horse ride at Seminyak Beach** runs **$111 solo, doubling per added rider**, since it's priced per horse.",
+            tourCard: { slug: "2-hour-canggu-private-beginner-surf-lesson-canggu", title: "2-Hour Canggu Private Beginner Surf Lesson", description: "A real example of flat pricing regardless of group size for a private surf lesson.", price: "From $59", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/surf-lesson-in-batu-bolong-canggu-with-certified-instructor-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Why Surf Lesson Prices Vary So Much",
+            content: "Canggu's cheapest private surf lessons are genuinely private (one instructor, your group only) but basic — no photos or video included. A higher-priced lesson often bundles professional photo or video of your session, which is worth it if you want the memory but adds real cost. Neither is more or less \"private\" — they're different inclusions at the same instructor-to-student ratio.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private surf lesson quote dramatically below $19-59 sometimes means a shared instructor watching multiple students at once despite the \"private\" label — ask directly how many students the instructor is responsible for. For car tours, a very cheap quote may mean a shorter route or fewer stops.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly whether photo/video is included in a surf lesson, and how many students one instructor actually supervises. On AsiaByLocals, every Canggu tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Canggu tours](/indonesia/canggu) to compare real, current prices directly.",
+            tourCard: { slug: "customized-private-tour-with-a-female-guide-in-canggu", title: "Customized Private Tour with a Female Guide in Canggu", description: "A real example of standard private guided-tour pricing that steps up per added traveller.", price: "From $75", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/surf-lesson-in-batu-bolong-canggu-with-certified-instructor-canggu/img0/1600.webp" },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private surf lesson cost in Canggu?", a: "A private beginner surf lesson ranges from $19-59 flat for 1-2 people to $98 solo with photo/video included, doubling per added person." },
+          { q: "Why do some private surf lessons cost more than others?", a: "Higher-priced lessons often bundle professional photo or video of your session; both are genuinely private at the same instructor-to-student ratio." },
+          { q: "Is a very cheap private surf lesson quote in Canggu a red flag?", a: "Sometimes yes — it can mean a shared instructor watching multiple students despite the private label. Ask directly how many students are supervised." },
+          { q: "What's usually included in a Canggu private tour price?", a: "Typically the instructor or guide's fee. Photo/video, board rental and transport are sometimes separate — ask for the full breakdown before comparing prices." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private surf lesson cost in Canggu?", "acceptedAnswer": { "@type": "Answer", "text": "A private beginner surf lesson ranges from $19-59 flat for 1-2 people to $98 solo with photo/video included." } },
+            { "@type": "Question", "name": "Why do some private surf lessons cost more than others?", "acceptedAnswer": { "@type": "Answer", "text": "Higher-priced lessons often bundle professional photo or video of your session." } },
+            { "@type": "Question", "name": "Is a very cheap private surf lesson quote in Canggu a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Sometimes yes — it can mean a shared instructor despite the private label." } },
+            { "@type": "Question", "name": "What's usually included in a Canggu private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the instructor or guide's fee; photo/video and board rental are sometimes separate." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

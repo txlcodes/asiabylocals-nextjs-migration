@@ -626,6 +626,51 @@ export function getMaldivesInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-11-01)
+    case "how-much-should-a-private-tour-guide-cost-in-male":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Malé?",
+        seoTitle: "Malé Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private guide, boat charter or snorkeling trip in Malé in 2026, so you know what's fair before you book.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/af7f58bdedab0ebed875cb07748c0749d8c66aa97018b86b12d1b426fe07bb34.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private Malé city walking tour** is the cheapest format, starting around **$39-94 solo**, roughly doubling per added traveller. A **private boat charter** (Hulhumalé, with captain and crew) runs **$415 flat for 1-2 people**. A **private snorkeling trip** (stingrays) runs **$520 solo, doubling for a second traveller**, since it's priced per snorkeler rather than per boat. A **private beach bonfire dinner experience** runs **$1,300 solo**, stepping up sharply per added guest since it's a catered, staffed event, not just a tour.",
+            tourCard: { slug: "maldives-male-city-private-walking-tour", title: "Maldives: Male City Private Walking Tour", description: "A real example of the cheapest, most common private tour format in Malé.", price: "From $94", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/af7f58bdedab0ebed875cb07748c0749d8c66aa97018b86b12d1b426fe07bb34.jpg" },
+          },
+          {
+            title: "Boat Charter vs. Snorkeling Trip vs. Catered Experience",
+            content: "A **boat charter** (flat for 1-2 people) is priced on the boat and crew's day, not per guest — the better deal once you have multiple people. A **snorkeling or diving trip** is priced per person because gear and guiding attention scale with each swimmer. A **catered dinner or bonfire experience** is the most expensive per head because it involves staff, food and setup specifically for your group, not just transport.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private boat charter quote well under $415 often means a smaller or older boat than advertised, or a shorter route between islands. For snorkeling trips, confirm the actual snorkeling time and whether gear is genuinely included — a cheap quote sometimes trims one of those.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly what boat size and type is used, how much actual snorkeling or activity time is included, and what's catered for dinner experiences. On AsiaByLocals, every Malé tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Malé tours](/maldives/male) to compare real, current prices directly.",
+            tourCard: { slug: "hulhumale-private-boat-charter-with-captain-and", title: "Hulhumalé: Private Boat Charter with Captain and Crew", description: "A real example of flat boat-charter pricing, not a per-person fare.", price: "From $415", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/af7f58bdedab0ebed875cb07748c0749d8c66aa97018b86b12d1b426fe07bb34.jpg" },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Malé?", a: "A private city walking tour starts around $39-94 solo. A private boat charter runs $415 flat for 1-2 people, and a private snorkeling trip runs $520 per person." },
+          { q: "Is a private boat charter cheaper than a snorkeling tour in Malé?", a: "Per person, yes once you have 2+ people — the boat charter is flat for the boat, while the snorkeling trip prices each swimmer separately." },
+          { q: "Is a very cheap private boat charter quote in Malé a red flag?", a: "Often yes — it can mean a smaller or older boat, or a shorter route between islands." },
+          { q: "What's usually included in a Malé private tour price?", a: "Typically the boat/captain or guide's fee. Snorkeling gear and meals for catered experiences are sometimes separate — ask for the full breakdown before comparing prices." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Malé?", "acceptedAnswer": { "@type": "Answer", "text": "A private city walking tour starts around $39-94 solo. A private boat charter runs $415 flat for 1-2 people." } },
+            { "@type": "Question", "name": "Is a private boat charter cheaper than a snorkeling tour in Malé?", "acceptedAnswer": { "@type": "Answer", "text": "Per person, yes once you have 2+ people — the boat charter is flat while the snorkeling trip prices each swimmer." } },
+            { "@type": "Question", "name": "Is a very cheap private boat charter quote in Malé a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a smaller boat or a shorter route." } },
+            { "@type": "Question", "name": "What's usually included in a Malé private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the boat/captain or guide's fee; snorkeling gear and catered meals are sometimes separate." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

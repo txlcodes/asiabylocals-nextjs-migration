@@ -1245,6 +1245,51 @@ export function getTaiwanInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-11-01)
+    case "how-much-should-a-private-tour-guide-cost-in-taipei":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Taipei?",
+        seoTitle: "Taipei Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private guide or driver in Taipei in 2026, by tour type, so you know what's fair before you book.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1dc72d786636f64e3a6ab0305d5d38e68f59356f59f82436e69ef6baabbe1080.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private day trip out of Taipei** (Sanxia Old Town, Hsinchu Hakka culture, Thousand Island Lake) typically runs **$428-469 flat for 1-2 people**, stepping up roughly $200-230 per added traveller. An **airport layover private tour** from Taoyuan runs a flat **$520-624 regardless of group size** up to the vehicle's capacity — genuinely good value for a group of 3-4. A **private photoshoot experience** (Ximending, Dihua Street) prices differently, starting around **$103-168 solo** and climbing sharply per added person since it's priced on the photographer's package tiers.",
+            tourCard: { slug: "from-taipei-private-sanxia-old-town-yingge", title: "From Taipei: Private Sanxia Old Town & Yingge Pottery Tour", description: "A real example of flat pricing for 1-2 people on a day trip outside Taipei.", price: "From $428", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1dc72d786636f64e3a6ab0305d5d38e68f59356f59f82436e69ef6baabbe1080.png" },
+          },
+          {
+            title: "Why a Layover Tour Is Flat but a Photoshoot Isn't",
+            content: "A layover or day-trip car tour is priced on the vehicle and driver/guide for the day, which stays flat up to the car's seats — a good deal for 3-4 people sharing. A private photoshoot is priced on the photographer's package (number of edited photos, shooting time), which is why it climbs with each additional person in frame rather than staying flat.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private day-trip quote well under $428 for a full day outside Taipei often means a shorter route with fewer stops, or a driver without real guiding commentary. For layover tours specifically, confirm the exact pickup and drop-off points at the airport before assuming a cheap quote covers the same convenience.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly how many stops and how much time at each are included, and whether the layover tour's timing accounts for your actual connection window. On AsiaByLocals, every Taipei tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Taipei tours](/taiwan/taipei) to compare real, current prices directly.",
+            tourCard: { slug: "from-taoyuan-airport-taipei-4-hour-private", title: "From Taoyuan Airport: Taipei 4-Hour Private Layover Tour", description: "A real example of flat pricing regardless of group size, up to the vehicle's capacity.", price: "From $520", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1dc72d786636f64e3a6ab0305d5d38e68f59356f59f82436e69ef6baabbe1080.png" },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Taipei?", a: "A private day trip outside Taipei typically runs $428-469 flat for 1-2 people. An airport layover private tour runs a flat $520-624 regardless of group size up to the vehicle's capacity." },
+          { q: "Why does a private photoshoot cost more per person than a day tour?", a: "It's priced on the photographer's package (shooting time, edited photos), which climbs with each additional person, unlike a car tour priced on the vehicle." },
+          { q: "Is a very cheap private day-trip quote in Taipei a red flag?", a: "Often yes — it can mean a shorter route with fewer stops or a driver without real guiding commentary." },
+          { q: "What's usually included in a Taipei private tour price?", a: "Typically the driver or guide's fee and the vehicle. Entrance fees and meals are usually listed separately — ask for the full breakdown before comparing prices." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Taipei?", "acceptedAnswer": { "@type": "Answer", "text": "A private day trip outside Taipei typically runs $428-469 flat for 1-2 people. An airport layover private tour runs a flat $520-624 regardless of group size." } },
+            { "@type": "Question", "name": "Why does a private photoshoot cost more per person than a day tour?", "acceptedAnswer": { "@type": "Answer", "text": "It's priced on the photographer's package, which climbs with each additional person." } },
+            { "@type": "Question", "name": "Is a very cheap private day-trip quote in Taipei a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a shorter route or a driver without real guiding commentary." } },
+            { "@type": "Question", "name": "What's usually included in a Taipei private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the driver or guide's fee and the vehicle; entrance fees and meals are usually separate." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

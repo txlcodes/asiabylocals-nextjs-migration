@@ -141,6 +141,7 @@ const JAIPUR_SIDEBAR = [
 
 const KUALA_LUMPUR_SIDEBAR = [
     { name: 'Best Tours in Kuala Lumpur', slug: 'best-tours-in-kuala-lumpur' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-kuala-lumpur' },
     { name: 'KL Travel Guide', slug: 'kuala-lumpur-travel-guide-2026' },
     { name: 'Things to Do', slug: 'things-to-do-in-kuala-lumpur' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-kuala-lumpur' },
@@ -157,6 +158,7 @@ const KUALA_LUMPUR_SIDEBAR = [
 
 const PENANG_SIDEBAR = [
     { name: 'Best Tours in Penang', slug: 'best-tours-in-penang' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-penang' },
     { name: 'Penang Travel Guide', slug: 'penang-travel-guide-2026' },
     { name: 'Things to Do', slug: 'things-to-do-in-penang' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-penang' },
@@ -480,6 +482,7 @@ const BANGKOK_SIDEBAR = [
 
 const BEIJING_SIDEBAR = [
     { name: 'Best Tours in Beijing', slug: 'best-tours-in-beijing' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-beijing' },
     { name: 'Beijing Travel Guide', slug: 'beijing-travel-guide-2026' },
     { name: 'Things to Do', slug: 'things-to-do-in-beijing' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-beijing' },
@@ -539,6 +542,7 @@ const HONG_KONG_SIDEBAR = [
 
 const TAIPEI_SIDEBAR = [
     { name: 'Best Tours in Taipei', slug: 'best-tours-in-taipei' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-taipei' },
     { name: 'Taipei Travel Guide', slug: 'taipei-travel-guide-2026' },
     { name: 'Things to Do', slug: 'things-to-do-in-taipei' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-taipei' },
@@ -620,6 +624,7 @@ const ISTANBUL_SIDEBAR = [
 
 const DOHA_SIDEBAR = [
     { name: 'Best Tours in Doha', slug: 'best-tours-in-doha' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-doha' },
     { name: 'Doha Travel Guide', slug: 'doha-travel-guide-2026' },
     { name: 'Things to Do', slug: 'things-to-do-in-doha' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-doha' },
@@ -655,6 +660,7 @@ const DOHA_SIDEBAR = [
 
 const MALE_SIDEBAR = [
     { name: 'Best Tours in Malé', slug: 'best-tours-in-male' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-male' },
     { name: 'Maldives Travel Guide', slug: 'maldives-travel-guide-2026' },
     { name: 'Things to Do in Malé', slug: 'things-to-do-in-male' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-maldives' },
@@ -674,6 +680,7 @@ const MALE_SIDEBAR = [
 
 const BUSAN_SIDEBAR = [
     { name: 'Best Tours in Busan', slug: 'best-tours-in-busan' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-busan' },
     { name: 'Busan Travel Guide', slug: 'busan-travel-guide-2026' },
     { name: 'Things to Do', slug: 'things-to-do-in-busan' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-busan' },
@@ -772,6 +779,7 @@ const PATTAYA_SIDEBAR = [
 
 const PHNOM_PENH_SIDEBAR = [
     { name: 'Best Tours in Phnom Penh', slug: 'best-tours-in-phnom-penh' },
+    { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-phnom-penh' },
     { name: 'S-21 & Killing Fields', slug: 'tuol-sleng-and-choeung-ek-guide' },
     { name: 'Royal Palace', slug: 'royal-palace-phnom-penh' },
     { name: '2-Day Itinerary', slug: 'phnom-penh-2-day-itinerary' },

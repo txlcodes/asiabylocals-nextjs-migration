@@ -1066,6 +1066,95 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        // GEO single-topic pages (2026-11-01)
+        case "how-much-should-a-private-tour-guide-cost-in-kuala-lumpur":
+            return {
+                title: "How Much Should a Private Tour Guide Cost in Kuala Lumpur?",
+                seoTitle: "Kuala Lumpur Private Guide Prices 2026 — What's Reasonable",
+                description: "Real price ranges for a private guide or car tour in Kuala Lumpur in 2026, by tour type, so you know what's fair before you book.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1428644/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "A **private KL city tour** (Petronas Towers, Batu Caves) typically runs **$304 solo**, stepping up roughly $160-230 per added traveller. A **private day trip out of KL** (Kuala Gandah, Ipoh, Cameron Highlands) runs **$81-331 solo**, varying with distance, also stepping up per traveller. A **private photoshoot with a local photographer** runs **$179 solo**, climbing per added person since it's priced on the photographer's package. A **private cooking class with a market visit** runs **$215 solo**, scaling per student for ingredients and instruction.",
+                        tourCard: { slug: "private-kl-city-tour-with-petronas-twin-towers", title: "Private KL City Tour with Petronas Twin Towers & Batu Caves", description: "A real example of standard private city-tour pricing that steps up per added traveller.", price: "From $304", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1428644/img0/1600.webp" },
+                    },
+                    {
+                        title: "Why Day Trips Out of KL Vary So Much",
+                        content: "A day trip to Kuala Gandah (closer, a half-day activity) costs much less than a full day to Cameron Highlands or Ipoh (2-3 hours each way), which is why the private day-trip range spans $81 to over $300 — it's mostly about distance and how much of the day is spent driving versus doing activities, not a quality difference.",
+                    },
+                    {
+                        title: "Red Flags on Price",
+                        content: "A private KL city tour quote well under $304 often means fewer stops or less time at each site. For longer day trips, a suspiciously low quote compared to the distance involved usually means a rushed itinerary — confirm actual time at each destination, not just which stops are listed.",
+                    },
+                    {
+                        title: "How to Get a Fair Price",
+                        content: "Ask the operator directly how much time is spent at each stop versus in transit, especially for longer day trips. On AsiaByLocals, every Kuala Lumpur tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Kuala Lumpur tours](/malaysia/kuala-lumpur) to compare real, current prices directly.",
+                        tourCard: { slug: "cameron-highlands-private-day-tour-from-kuala", title: "Cameron Highlands Private Day Tour from Kuala Lumpur", description: "A real example of longer-distance private day-trip pricing.", price: "From $305", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1428644/img0/1600.webp" },
+                    },
+                ],
+                faqs: [
+                    { q: "How much does a private tour guide cost in Kuala Lumpur?", a: "A private KL city tour typically runs $304 solo, stepping up per added traveller. A private day trip out of KL runs $81-331 solo depending on distance." },
+                    { q: "Why do some KL day trips cost so much more than others?", a: "It's mostly about distance — a closer half-day trip costs much less than a 2-3 hour drive to Cameron Highlands or Ipoh." },
+                    { q: "Is a very cheap private KL city tour quote a red flag?", a: "Often yes — it can mean fewer stops or less time at each site." },
+                    { q: "What's usually included in a Kuala Lumpur private tour price?", a: "Typically the guide or driver's fee and the vehicle. Entrance fees and meals are usually listed separately — ask for the full breakdown before comparing prices." },
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "How much does a private tour guide cost in Kuala Lumpur?", "acceptedAnswer": { "@type": "Answer", "text": "A private KL city tour typically runs $304 solo, stepping up per added traveller." } },
+                        { "@type": "Question", "name": "Why do some KL day trips cost so much more than others?", "acceptedAnswer": { "@type": "Answer", "text": "It's mostly about distance — a closer trip costs much less than a 2-3 hour drive out." } },
+                        { "@type": "Question", "name": "Is a very cheap private KL city tour quote a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean fewer stops or less time at each site." } },
+                        { "@type": "Question", "name": "What's usually included in a Kuala Lumpur private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the guide or driver's fee and the vehicle; entrance fees and meals are usually separate." } },
+                    ],
+                },
+            };
+
+        case "how-much-should-a-private-tour-guide-cost-in-penang":
+            return {
+                title: "How Much Should a Private Tour Guide Cost in Penang?",
+                seoTitle: "Penang Private Guide Prices 2026 — What's Reasonable",
+                description: "Real price ranges for a private guide or car tour in Penang in 2026, by tour type, so you know what's fair before you book.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1294852/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "A **private Penang highlights tour** (temples, hill, gardens) typically runs **$518 flat for 1-2 people**, stepping up for 3+. A **private Ipoh day tour with hotel pickup** runs **$151 solo**, roughly doubling per added traveller. A **private Cameron Highlands trek and tea plantation tour** runs a flat **$250 regardless of group size** on some operators. A **private boat cruise** (Port Dickson sail boat) runs considerably higher, a flat **$2,048 for the whole boat**, since you're chartering the vessel, not buying a seat.",
+                        tourCard: { slug: "penang-private-highlights-tour-with-temples-hill", title: "Penang: Private Highlights Tour with Temples, Hill & Gardens", description: "A real example of flat pricing for 1-2 people on a Penang highlights day.", price: "From $518", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1294852/img0/1600.webp" },
+                    },
+                    {
+                        title: "Land Tour vs. Boat Charter — Very Different Pricing",
+                        content: "Land-based private tours in Penang price on the guide and vehicle for the day, which is why many quote flat or step up modestly per traveller. A boat charter is a completely different cost structure — you're paying for the whole vessel and crew, which is why it jumps to the thousands even though it's technically still \"one private booking.\"",
+                    },
+                    {
+                        title: "Red Flags on Price",
+                        content: "A private highlights tour quote well under $518 for a full day often means fewer stops or less time at the hill/gardens. For boat charters, confirm the boat size and exact route before assuming a lower quote covers the same experience.",
+                    },
+                    {
+                        title: "How to Get a Fair Price",
+                        content: "Ask the operator directly which stops and how much time at each are included, and for boats, what size vessel and route are covered. On AsiaByLocals, every Penang tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Penang tours](/malaysia/penang) to compare real, current prices directly.",
+                        tourCard: { slug: "ipoh-private-full-day-tour-with-hotel-pickup-and", title: "Ipoh: Private Full-Day Tour with Hotel Pickup and Drop-off", description: "A real example of standard private day-tour pricing that steps up per added traveller.", price: "From $151", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1294852/img0/1600.webp" },
+                    },
+                ],
+                faqs: [
+                    { q: "How much does a private tour guide cost in Penang?", a: "A private Penang highlights tour typically runs $518 flat for 1-2 people. A private Ipoh day tour runs $151 solo, roughly doubling per added traveller." },
+                    { q: "How much does a private boat charter cost in Penang?", a: "A private sail boat cruise (Port Dickson) runs a flat $2,048 for the whole boat, since you're chartering the vessel and crew, not buying a seat." },
+                    { q: "Is a very cheap private Penang tour quote a red flag?", a: "Often yes — it can mean fewer stops or less time at the hill or gardens." },
+                    { q: "What's usually included in a Penang private tour price?", a: "Typically the guide or driver's fee and the vehicle. Entrance fees and meals are usually listed separately — ask for the full breakdown before comparing prices." },
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "How much does a private tour guide cost in Penang?", "acceptedAnswer": { "@type": "Answer", "text": "A private Penang highlights tour typically runs $518 flat for 1-2 people." } },
+                        { "@type": "Question", "name": "How much does a private boat charter cost in Penang?", "acceptedAnswer": { "@type": "Answer", "text": "A private sail boat cruise runs a flat $2,048 for the whole boat." } },
+                        { "@type": "Question", "name": "Is a very cheap private Penang tour quote a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean fewer stops or less time at key sites." } },
+                        { "@type": "Question", "name": "What's usually included in a Penang private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the guide or driver's fee and the vehicle; entrance fees and meals are usually separate." } },
+                    ],
+                },
+            };
+
         default:
             return null;
     }

@@ -1165,6 +1165,51 @@ export function getQatarInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-11-01)
+    case "how-much-should-a-private-tour-guide-cost-in-doha":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Doha?",
+        seoTitle: "Doha Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private city tour, desert safari or custom guide in Doha in 2026, so you know what's fair before you book.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f6c79b6b925263a2b6cd4880b16c089bd9bc7195fb62e4a55132a3248954f2de.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private 4-hour custom city tour** (Souq, Pearl, Katara) typically runs **$91-221 flat for 1-2 people**, stepping up roughly $90-100 per added traveller. A **VIP private desert safari** (Arabic costume, camel ride) runs **$254-377 for 1-2 people**. A **full-day private tour of Qatar's North/West coasts** runs **$442-449 flat for 1-2 people**. These are genuinely wide ranges because Doha's private tours span a basic city loop to a premium, fully customised VIP experience — the word \"private\" alone doesn't tell you which.",
+            tourCard: { slug: "doha-private-4-hour-custom-city-tour-souq-pearl", title: "Doha: Private 4-Hour Custom City Tour, Souq, Pearl & Katara", description: "A real example of standard private city-tour pricing that steps up per added traveller.", price: "From $91", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f6c79b6b925263a2b6cd4880b16c089bd9bc7195fb62e4a55132a3248954f2de.jpeg" },
+          },
+          {
+            title: "What \"VIP\" Actually Buys You",
+            content: "A VIP label on a Doha desert safari usually means a more comfortable 4x4, a smaller group (often just your party), and extras like a private photo session or Arabic coffee service — not just a marketing word. A standard (non-VIP) private tour at a lower price still gets you a dedicated vehicle and driver, just without those added touches. Decide based on whether the extras matter to you, not the label alone.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private city tour quote well under $91 for 4 hours often means a shorter route or fewer stops than advertised. For desert safaris, confirm whether it's genuinely a private vehicle for your group or a shared departure re-labelled \"private\" — a known pattern across the Gulf region, not unique to Doha.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly whether the vehicle is exclusively yours, what's included in a VIP upgrade, and how many stops the city tour covers. On AsiaByLocals, every Doha tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Doha tours](/qatar/doha) to compare real, current prices directly.",
+            tourCard: { slug: "doha-vip-private-desert-safari-arabic-costume", title: "Doha: VIP Private Desert Safari, Arabic Costume & Camel Ride", description: "A real example of a premium VIP private experience with added extras.", price: "From $254", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f6c79b6b925263a2b6cd4880b16c089bd9bc7195fb62e4a55132a3248954f2de.jpeg" },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Doha?", a: "A private 4-hour custom city tour typically runs $91-221 flat for 1-2 people. A VIP private desert safari runs $254-377 for 1-2 people." },
+          { q: "What does 'VIP' mean on a Doha desert safari?", a: "Usually a more comfortable 4x4, a smaller exclusive group, and extras like a private photo session or coffee service — not just marketing." },
+          { q: "Is a very cheap private Doha city tour quote a red flag?", a: "Often yes — it can mean a shorter route or fewer stops than advertised." },
+          { q: "Is a 'private' desert safari in Doha always exclusive to my group?", a: "Not always — confirm directly, since some shared departures are marketed as private. Ask whether the vehicle is exclusively yours." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Doha?", "acceptedAnswer": { "@type": "Answer", "text": "A private 4-hour custom city tour typically runs $91-221 flat for 1-2 people. A VIP private desert safari runs $254-377 for 1-2 people." } },
+            { "@type": "Question", "name": "What does 'VIP' mean on a Doha desert safari?", "acceptedAnswer": { "@type": "Answer", "text": "Usually a more comfortable 4x4, a smaller exclusive group, and extras like a photo session or coffee service." } },
+            { "@type": "Question", "name": "Is a very cheap private Doha city tour quote a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a shorter route or fewer stops." } },
+            { "@type": "Question", "name": "Is a 'private' desert safari in Doha always exclusive to my group?", "acceptedAnswer": { "@type": "Answer", "text": "Not always — confirm directly, since some shared departures are marketed as private." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

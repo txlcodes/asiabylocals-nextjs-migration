@@ -1284,6 +1284,51 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-11-01)
+    case "how-much-should-a-private-tour-guide-cost-in-busan":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Busan?",
+        seoTitle: "Busan Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private guide or cruise shore excursion in Busan in 2026, so you know what's fair before you book.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd3dab2e37e064f0ebeef9b3bbb9ad0bf893ff1b16eefdf4fae1e358afde878f.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private cruise shore excursion** in Busan typically runs **$285-340 flat for 1-2 people**, stepping up roughly $140-170 per added traveller. A **private movie filming locations tour** runs similarly, **$233 solo**, roughly $117 per extra person. A **private full-day van tour** (hidden gems, temple, spa, East Coast with luge) runs **$519-665 flat for 1-2 people**. A **multi-day private South Korea tour** including Busan on a wider circuit (palaces, islands, beaches) runs **$364 solo**, scaling up per traveller since it includes multiple full days.",
+            tourCard: { slug: "busan-cruise-shore-excursion-private-tour-with", title: "Busan Cruise Shore Excursion: Private Tour with Local Guide", description: "A real example of standard private shore-excursion pricing that steps up per added traveller.", price: "From $340", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd3dab2e37e064f0ebeef9b3bbb9ad0bf893ff1b16eefdf4fae1e358afde878f.jpg" },
+          },
+          {
+            title: "Why Cruise Shore Excursions Price the Way They Do",
+            content: "Busan's private cruise shore excursions are a specific product built around the ship's docking schedule — the guide plans the route backward from your return-to-ship deadline, which is why they cost more than an equivalent land tour booked without a time constraint. If you're not on a cruise, a standard full-day van tour at a similar or lower price often covers more ground without the strict timing pressure.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private shore excursion quote well under $285 often means a shorter route that risks cutting it close to your ship's departure, or a driver without real cruise-schedule experience — a genuine risk if you miss the ship. Confirm the operator has handled cruise excursions before, not just regular city tours.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly whether they build in a safety buffer before your ship's departure time, and what happens if the ship is delayed. On AsiaByLocals, every Busan tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Busan tours](/south-korea/busan) to compare real, current prices directly.",
+            tourCard: { slug: "busan-private-van-tour-of-hidden-gems-food-cafe", title: "Busan: Private Van Tour of Hidden Gems, Food & Cafe Spots", description: "A real example of flat pricing for 1-2 people on a non-cruise-timed full-day tour.", price: "From $582", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd3dab2e37e064f0ebeef9b3bbb9ad0bf893ff1b16eefdf4fae1e358afde878f.jpg" },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Busan?", a: "A private cruise shore excursion typically runs $285-340 flat for 1-2 people. A private full-day van tour runs $519-665 flat for 1-2 people." },
+          { q: "Why do cruise shore excursions cost more than a regular Busan tour?", a: "The route is planned backward from your ship's departure deadline, which costs more in planning and risk than a tour without that time constraint." },
+          { q: "Is a very cheap private shore excursion quote a red flag?", a: "Often yes — it can mean a shorter route that risks cutting it close to your ship's departure, a genuine risk, not just a comfort issue." },
+          { q: "What's usually included in a Busan private tour price?", a: "Typically the guide and driver's fee and the vehicle. Entrance fees and meals are usually listed separately — ask for the full breakdown before comparing prices." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Busan?", "acceptedAnswer": { "@type": "Answer", "text": "A private cruise shore excursion typically runs $285-340 flat for 1-2 people. A private full-day van tour runs $519-665 flat for 1-2 people." } },
+            { "@type": "Question", "name": "Why do cruise shore excursions cost more than a regular Busan tour?", "acceptedAnswer": { "@type": "Answer", "text": "The route is planned backward from your ship's departure deadline, costing more in planning and risk." } },
+            { "@type": "Question", "name": "Is a very cheap private shore excursion quote a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a shorter route that risks missing your ship's departure." } },
+            { "@type": "Question", "name": "What's usually included in a Busan private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the guide and driver's fee and the vehicle; entrance fees and meals are usually separate." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

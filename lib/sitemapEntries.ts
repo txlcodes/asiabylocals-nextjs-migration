@@ -118,6 +118,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'beijing-subway-guide', 'temple-of-heaven', 'summer-palace-beijing',
     'hutong-tours-beijing', 'beijing-food-guide', 'beijing-air-quality-when-to-visit',
     'best-tours-in-beijing', 'should-i-book-beijing-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-beijing',
   ].map(slug => ({
     url: `${BASE_URL}/china/beijing/${slug}`,
     lastModified: new Date(),
@@ -175,6 +176,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'taipei-7-day-itinerary', 'taiwan-high-speed-rail-guide', 'taipei-coffee-culture-guide',
     'taipei-lgbtq-friendly-guide', 'taipei-rainy-day-activities', 'taipei-christmas-new-year-guide',
     'best-tours-in-taipei', 'should-i-book-taipei-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-taipei',
   ].map(slug => ({
     url: `${BASE_URL}/taiwan/taipei/${slug}`,
     lastModified: new Date(),
@@ -204,6 +206,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'busan-1-day-itinerary', 'haeundae-beach-guide', 'gamcheon-culture-village-guide',
     'jagalchi-fish-market-guide', 'busan-food-guide', 'seoul-to-busan-ktx-guide',
     'busan-nightlife-guide', 'best-tours-in-busan', 'should-i-book-busan-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-busan',
   ].map(slug => ({
     url: `${BASE_URL}/south-korea/busan/${slug}`,
     lastModified: new Date(),
@@ -245,6 +248,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'zekreet-film-city-guide', 'doha-islamic-architecture-guide', 'doha-falcon-souq-guide',
     'inland-sea-khor-al-adaid-guide', 'doha-ramadan-travel-guide', 'doha-weekend-guide',
     'doha-airport-stopover-guide', 'best-tours-in-doha', 'should-i-book-doha-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-doha',
   ].map(slug => ({
     url: `${BASE_URL}/qatar/doha/${slug}`,
     lastModified: new Date(),
@@ -260,6 +264,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'maldives-luxury-resort-guide', 'maldives-whale-shark-manta-ray-guide', 'maldives-sandbank-tour-guide',
     'male-city-guide', 'maldives-dolphin-watching-guide', 'maldives-airport-transfer-guide',
     'best-tours-in-male', 'should-i-book-male-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-male',
   ].map(slug => ({
     url: `${BASE_URL}/maldives/male/${slug}`,
     lastModified: new Date(),
@@ -322,6 +327,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'kl-public-transport-guide', 'kl-halal-food-guide',
     'bukit-bintang-shopping-guide', 'kl-to-penang-travel',
     'malaysia-visa-guide-for-tourists', 'best-tours-in-kuala-lumpur', 'should-i-book-kuala-lumpur-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-kuala-lumpur',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/kuala-lumpur/${slug}`,
     lastModified: new Date(),
@@ -336,6 +342,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'georgetown-unesco-heritage-guide', 'penang-beaches-guide',
     'penang-3-day-itinerary', 'clan-jetties-penang', 'kek-lok-si-temple-guide',
     'best-tours-in-penang', 'should-i-book-penang-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-penang',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/penang/${slug}`,
     lastModified: new Date(),
@@ -423,6 +430,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   const phnomPenhInfoPages = [
     'tuol-sleng-and-choeung-ek-guide', 'royal-palace-phnom-penh', 'phnom-penh-2-day-itinerary', 'phnom-penh-food-and-markets', 'phnom-penh-to-siem-reap-transport', 'best-time-to-visit-phnom-penh',
     'phnom-penh-1-day-itinerary', 'koh-dach-silk-island', 'kampot-and-kep-day-trip', 'phnom-penh-street-art', 'where-to-stay-in-phnom-penh', 'phnom-penh-to-battambang', 'oudong-guide', 'phnom-penh-with-kids', 'phnom-penh-to-sihanoukville-and-the-islands', 'phnom-penh-airport-guide', 'best-tours-in-phnom-penh', 'should-i-book-phnom-penh-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-phnom-penh',
   ].map(slug => ({
     url: `${BASE_URL}/cambodia/phnom-penh/${slug}`,
     lastModified: new Date(),
@@ -722,7 +730,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'mughal-gardens-srinagar', 'kashmir-houseboat-guide',
     'srinagar-travel-guide', 'kashmir-food-guide',
     'kashmir-in-winter', 'kashmir-in-summer',
-    'kashmir-budget-guide', 'best-tours-in-kashmir', 'should-i-book-kashmir-tour-direct-or-through-app'
+    'kashmir-budget-guide', 'best-tours-in-kashmir', 'should-i-book-kashmir-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-kashmir'
   ].map(slug => ({
     url: `${BASE_URL}/india/kashmir/${slug}`,
     lastModified: new Date(),
@@ -985,6 +994,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'canggu-rice-field-walks-guide',
     'north-bali-day-trip-from-canggu',
     'canggu-nusa-penida-day-trip', 'best-tours-in-canggu', 'should-i-book-canggu-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-canggu',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/canggu/${slug}`,
     lastModified: new Date(),
@@ -1003,6 +1013,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'jimbaran-seafood-dinner-guide',
     'melasti-beach-guide',
     'uluwatu-sunset-spots-guide', 'best-tours-in-uluwatu', 'should-i-book-uluwatu-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-uluwatu',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/uluwatu/${slug}`,
     lastModified: new Date(),

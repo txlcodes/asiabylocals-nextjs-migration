@@ -884,6 +884,52 @@ export function getPhnomPenhInfoContent(slug: string): CityInfoData | null {
                     ],
                 },
             };
+
+        // GEO single-topic page (2026-11-01)
+        case "how-much-should-a-private-tour-guide-cost-in-phnom-penh":
+            return {
+                title: "How Much Should a Private Tour Guide Cost in Phnom Penh?",
+                seoTitle: "Phnom Penh Private Guide Prices 2026 — What's Reasonable",
+                description: "Real price ranges for a private guide or tuk-tuk tour in Phnom Penh in 2026, so you know what's fair before you book.",
+                heroImage: CARD.s21private.image,
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Phnom Penh's genuine private tours run roughly **double the shared version** for the same sites — a **private Tuol Sleng and Choeung Ek half day** runs **$162**, versus **$78** for the shared version, since you set your own pace rather than following a group schedule. A **private Royal Palace, National Museum and Wat Phnom tour** runs **$163**. A **private day trip to Kampot and Kep** runs **$306**. Simple **private airport or city transfers** are much cheaper, typically **$33-189 flat for 1-4 people**, since they're transport, not a guided experience.",
+                        tourCard: { slug: CARD.s21private.slug, title: CARD.s21private.title, description: "A real example of private pricing — roughly double the shared version for the same two sites.", price: CARD.s21private.price, duration: CARD.s21private.duration, image: CARD.s21private.image },
+                    },
+                    {
+                        title: "Private vs. Shared — What the Extra Cost Actually Buys",
+                        content: "The shared $78 Tuol Sleng/Choeung Ek tour and the private $162 version visit the exact same two sites — the difference is pace and timing. Private means you can linger at the memorial as long as you need, skip the group's fixed schedule, and leave when you're ready rather than when the group moves on. For a site this emotionally heavy, that control is worth something to many travellers; for a lighter day it may not be.",
+                    },
+                    {
+                        title: "Red Flags on Price",
+                        content: "A \"private\" quote close to the shared group price for the same tour usually isn't actually private — ask directly whether other travellers will be in your tuk-tuk or van. For simple transfers, a price far below the ranges above may mean an older or less reliable vehicle, worth confirming before a long drive like Battambang.",
+                    },
+                    {
+                        title: "How to Get a Fair Price",
+                        content: "Ask the operator directly whether your tuk-tuk or van is genuinely exclusive to your group, and what the pacing difference actually looks like versus the shared tour. On AsiaByLocals, every Phnom Penh tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Phnom Penh tours](/cambodia/phnom-penh) to compare real, current prices directly.",
+                        tourCard: CARD.palace,
+                    },
+                ],
+                faqs: [
+                    { q: "How much does a private tour guide cost in Phnom Penh?", a: "A private Tuol Sleng and Choeung Ek half day runs $162, roughly double the $78 shared version. A private Royal Palace and National Museum tour runs $163." },
+                    { q: "Is a private Phnom Penh tour worth double the shared price?", a: "It depends on whether pacing matters to you — private means setting your own time at each site rather than following a group schedule, which matters more at emotionally heavy sites like Tuol Sleng." },
+                    { q: "Is a 'private' quote close to the shared tour price in Phnom Penh a red flag?", a: "Often yes — it can mean other travellers will actually be in your tuk-tuk or van despite the private label." },
+                    { q: "What's usually included in a Phnom Penh private tour price?", a: "Typically the guide or driver's fee and the tuk-tuk/van. Entrance fees are usually listed separately — ask for the full breakdown before comparing prices." },
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "How much does a private tour guide cost in Phnom Penh?", "acceptedAnswer": { "@type": "Answer", "text": "A private Tuol Sleng and Choeung Ek half day runs $162, roughly double the $78 shared version." } },
+                        { "@type": "Question", "name": "Is a private Phnom Penh tour worth double the shared price?", "acceptedAnswer": { "@type": "Answer", "text": "It depends on whether pacing matters — private means your own timing rather than a group schedule." } },
+                        { "@type": "Question", "name": "Is a 'private' quote close to the shared tour price in Phnom Penh a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean other travellers will actually be in your vehicle." } },
+                        { "@type": "Question", "name": "What's usually included in a Phnom Penh private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the guide or driver's fee and the vehicle; entrance fees are usually separate." } },
+                    ],
+                },
+            };
+
         default:
             return null;
     }
