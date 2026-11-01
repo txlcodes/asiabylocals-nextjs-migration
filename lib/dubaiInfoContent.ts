@@ -717,6 +717,128 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // Tour-selling pages (2026-11-01) — each section sells one specific
+    // real tour, not a generic FAQ. Pattern from lib/agraBestInfoContent.ts.
+    case "best-desert-safari-dubai":
+      return {
+        title: "Which Is the Best Desert Safari in Dubai?",
+        seoTitle: "Best Desert Safari Dubai 2026: 6 Real Options",
+        description: "Evening dune bashing with BBQ, morning photography safari, overnight camping or a VIP private version — which Dubai desert safari to pick, and six real options.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "For most visitors the best desert safari is a **standard evening safari with dune bashing, a camel ride, BBQ dinner and live shows** — it covers everything people picture when they imagine a Dubai desert trip in one booking, timed around sunset when the dunes look their best. Six real options are below, one for each kind of trip — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+            tourCard: { slug: "dubai-desert-safari-with-quad-bike-bbq-and-shows", title: "Dubai: Desert Safari with Quad Bike, BBQ, and Shows", description: "The standard evening safari — dune bashing, BBQ dinner and live shows, timed for sunset.", price: "From $68", duration: "6 hours", image: IMG },
+          },
+          {
+            title: "Cheapest: dune bashing and BBQ, no extras",
+            content: "A stripped-down version with the core experience — dune bashing, camel riding, sandboarding and a BBQ dinner — at the lowest price point, for travellers who want the essentials without paying for a premium camp.",
+            tourCard: { slug: "dubai-desert-safari-camel-riding-sandboarding-bbq", title: "Dubai: Desert Safari Camel Riding, Sandboarding & BBQ Dinner", description: "The essentials at the lowest price — dune bashing, camel ride, sandboarding and BBQ.", price: "From $36", duration: "7 hours", image: IMG },
+          },
+          {
+            title: "If mornings suit you better: the photography safari",
+            content: "A morning safari is cooler, far quieter, and the sand is untouched and freshly rippled — genuinely better for photos than the busier evening version, though it skips the camp dinner since it finishes before midday.",
+            tourCard: { slug: "premium-dubai-morning-desert-safari-dune-bashing-c", title: "Premium Dubai Morning Desert Safari Dune Bashing, Camel Ride", description: "Cooler, quieter, and the dunes are untouched — the best option for photos.", price: "From $83", duration: "4 hours", image: IMG },
+          },
+          {
+            title: "If you want it premium and private",
+            content: "Private seating and a smaller, more exclusive camp setup is worth it if you don't want to share dinner tables and shows with dozens of other visitors — a genuinely different evening from the standard group safari at the same dunes.",
+            tourCard: { slug: "dubai-vip-desert-safari-with-private-seating-and-live-shows", title: "Dubai VIP Desert Safari with Private Seating and Live Shows", description: "A smaller, more exclusive camp with private seating.", price: "From $524", duration: "Flexible", image: IMG },
+          },
+          {
+            title: "If one evening isn't enough: stay overnight",
+            content: "Everyone else leaves the camp around 10pm; staying overnight means the generators go quiet and you get the Al Lahbab dunes' night sky with none of the light pollution Dubai city has, plus sunrise over the dunes almost nobody else sees.",
+            tourCard: { slug: "dubai-overnight-desert-safari-with-private-tent-and-stargazing", title: "Dubai Overnight Desert Safari with a Private Tent and Stargazing", description: "Stay past when everyone else leaves — a genuinely different night under the stars.", price: "From $181", duration: "Flexible", image: IMG },
+          },
+          {
+            title: "If you want it combined with the city",
+            content: "Pairing the safari with a Dubai city tour in one booking is efficient if the desert is one of several things you want to fit into a single day rather than a dedicated evening.",
+            tourCard: { slug: "dubai-city-tour-desert-safari-bbq-dinner", title: "Dubai City Tour & Desert Safari BBQ Dinner", description: "The city highlights and the desert evening in one combined day.", price: "From $116", duration: "5 hours", image: IMG },
+          },
+          {
+            title: "What actually varies between $36 and $524 quotes",
+            content: "At the low end you're getting the genuine core experience — dune bashing, camel ride, BBQ — just without the camp upgrades. At the high end you're paying for a smaller, more private group, better food, and sometimes a nicer vehicle for the dune bashing itself. Neither is a scam; they're different products at the same dunes. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best desert safari in Dubai?", a: "A standard evening safari with dune bashing, camel ride, BBQ dinner and live shows covers the classic Dubai desert experience in one booking." },
+          { q: "Is a morning desert safari better than an evening one?", a: "For photography, yes — mornings are cooler, quieter and the sand is untouched. Evening safaris include the camp dinner and shows, which mornings skip." },
+          { q: "Why do desert safari prices range from $36 to $500+?", a: "The core experience (dune bashing, camel ride, BBQ) is similar across the range — higher prices buy a smaller private group, better food and camp upgrades, not a fundamentally different desert." },
+          { q: "Is an overnight desert safari worth it?", a: "Yes if you want a genuinely different experience from the standard evening trip — the camp empties out after 10pm and you get the dunes' night sky and a sunrise most visitors never see." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best desert safari in Dubai?", "acceptedAnswer": { "@type": "Answer", "text": "A standard evening safari with dune bashing, camel ride, BBQ dinner and live shows covers the classic experience." } },
+            { "@type": "Question", "name": "Is a morning desert safari better than an evening one?", "acceptedAnswer": { "@type": "Answer", "text": "For photography, yes — mornings are cooler, quieter and the sand is untouched." } },
+            { "@type": "Question", "name": "Why do desert safari prices range from $36 to $500+?", "acceptedAnswer": { "@type": "Answer", "text": "Higher prices buy a smaller private group, better food and camp upgrades, not a different desert." } },
+            { "@type": "Question", "name": "Is an overnight desert safari worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — the camp empties out after 10pm and you get the night sky and a sunrise most visitors never see." } },
+          ],
+        },
+      };
+
+    case "best-burj-khalifa-tour-dubai":
+      return {
+        title: "Which Is the Best Burj Khalifa Tour in Dubai?",
+        seoTitle: "Best Burj Khalifa Tour Dubai 2026: 6 Real Options",
+        description: "At the Top ticket, a combo with the Dubai Mall fountains, a private city tour or a flying-dress photoshoot — which Burj Khalifa experience to pick, and six real options.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "For most visitors the best option is the **At the Top ticket with private hotel transfer**, since it's the simplest way to the observation deck without worrying about getting there, and the transfer removes the one real logistics headache (Downtown Dubai traffic and parking). Six real options are below, one for each kind of visit — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+            tourCard: { slug: "burj-khalifa-at-the-top-ticket-private-hotel-trans", title: "Burj Khalifa At the Top Ticket + Private Hotel Transfer", description: "The observation deck ticket plus a private transfer, no logistics to worry about.", price: "From $172", duration: "4 hours", image: IMG },
+          },
+          {
+            title: "If you want it combined with the city",
+            content: "A city tour that includes Burj Khalifa tickets as part of a wider day covers Old Dubai or the Marina alongside the tower, efficient if you only have one day downtown and want to see more than just the view.",
+            tourCard: { slug: "dubai-traditional-city-tour-with-burj-khalifa", title: "Dubai Traditional City Tour with Burj Khalifa", description: "The tower plus a wider city tour in one day.", price: "From $81", duration: "4 hours", image: IMG },
+          },
+          {
+            title: "For the view from the water instead",
+            content: "A sailboat tour gives you the Burj Khalifa and the skyline from offshore rather than from inside the tower — a genuinely different perspective, and worth it if you've already been up once or prefer the photo from outside.",
+            tourCard: { slug: "2-hrs-sailboat-group-tour-with-burj-khalifa-skylin", title: "2-hrs Sailboat Group Tour with Burj Khalifa & Skyline views", description: "The skyline view from the water, a different angle than the observation deck.", price: "From $162", duration: "2 hours", image: IMG },
+          },
+          {
+            title: "If photos are the actual goal",
+            content: "A dedicated photoshoot at the Burj Khalifa with a photographer handling the shots is worth it over a quick phone photo from the deck if you actually want professional images from the trip, not just the memory of going up.",
+            tourCard: { slug: "dubai-private-photoshoot-at-the-burj-khalifa", title: "Dubai: Private Photoshoot at the Burj Khalifa", description: "A professional photographer-led session at the tower.", price: "From $151", duration: "30 minutes", image: IMG },
+          },
+          {
+            title: "If you want it private and flexible",
+            content: "A private city tour that includes Burj Khalifa Levels 124/125 means your own schedule and pace rather than a group tour's fixed timing — worth it for families or anyone who wants to linger.",
+            tourCard: { slug: "dubai-private-city-tour-with-burj-khalifa-levels-1", title: "Dubai: Private City Tour with Burj Khalifa Levels 124/125", description: "Your own schedule, with access to the higher 124/125 floors.", price: "From $207", duration: "6 hours", image: IMG },
+          },
+          {
+            title: "If you want something more dramatic",
+            content: "A flying-dress videography shoot at the Burj Khalifa is a specific, planned production for travellers who want a dramatic, shareable video, not just a standard visit — book this knowing it's a photo/video session first, a tower visit second.",
+            tourCard: { slug: "dubai-burj-khalifa-flying-dress-videography-shoot", title: "Dubai: Burj Khalifa Flying Dress Videography Shoot", description: "A dramatic, produced video shoot at the tower.", price: "From $392", duration: "1 hour", image: IMG },
+          },
+          {
+            title: "Timing matters more than which ticket",
+            content: "Book a sunset time slot if you can — the transition from daylight to the city's lights coming on is the single most photographed moment from the deck, and slots do sell out in peak season. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best Burj Khalifa tour in Dubai?", a: "The At the Top ticket with private hotel transfer is simplest for most visitors — it removes the Downtown Dubai traffic and parking logistics." },
+          { q: "What time should I book for the Burj Khalifa?", a: "Sunset slots are the most popular, since you see the transition from daylight to the city lights coming on. Book ahead in peak season as these sell out." },
+          { q: "Is there a way to see the Burj Khalifa without going up it?", a: "Yes — a sailboat tour gives you the tower and skyline from the water, a different perspective than the observation deck." },
+          { q: "Can I combine the Burj Khalifa with other Dubai sights in one day?", a: "Yes — several tours combine Burj Khalifa tickets with a wider city tour of Old Dubai or the Marina in a single booking." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best Burj Khalifa tour in Dubai?", "acceptedAnswer": { "@type": "Answer", "text": "The At the Top ticket with private hotel transfer is simplest for most visitors." } },
+            { "@type": "Question", "name": "What time should I book for the Burj Khalifa?", "acceptedAnswer": { "@type": "Answer", "text": "Sunset slots are most popular and sell out in peak season." } },
+            { "@type": "Question", "name": "Is there a way to see the Burj Khalifa without going up it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — a sailboat tour gives you the tower and skyline from the water." } },
+            { "@type": "Question", "name": "Can I combine the Burj Khalifa with other Dubai sights in one day?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — several tours combine Burj Khalifa tickets with a wider city tour." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

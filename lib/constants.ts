@@ -1152,7 +1152,9 @@ export const DUBAI_INFO_SLUGS = [
   'best-tours-in-dubai',
   'should-i-book-dubai-tour-direct-or-through-app',
   // GEO single-topic page (2026-10/31)
-  'how-much-should-a-private-tour-guide-cost-in-dubai'
+  'how-much-should-a-private-tour-guide-cost-in-dubai',
+  // Tour-selling pages (2026-11-01)
+  'best-desert-safari-dubai', 'best-burj-khalifa-tour-dubai'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/abuDhabiInfoContent.ts.

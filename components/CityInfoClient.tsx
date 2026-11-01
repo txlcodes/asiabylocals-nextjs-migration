@@ -1028,6 +1028,8 @@ const HAKONE_SIDEBAR = [
 const DUBAI_SIDEBAR = [
     { name: 'Best Tours in Dubai', slug: 'best-tours-in-dubai' },
     { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-dubai' },
+    { name: 'Best Desert Safari', slug: 'best-desert-safari-dubai' },
+    { name: 'Best Burj Khalifa Tour', slug: 'best-burj-khalifa-tour-dubai' },
     { name: 'Burj Khalifa Tickets', slug: 'burj-khalifa-tickets-guide' },
     { name: 'Desert Safari Guide', slug: 'dubai-desert-safari-guide' },
     { name: 'Yacht Charters', slug: 'dubai-yacht-charter-guide' },

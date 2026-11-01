@@ -668,7 +668,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'day-trips-from-dubai',
     'dubai-water-sports-guide',
     'best-tours-in-dubai', 'should-i-book-dubai-tour-direct-or-through-app',
-    'how-much-should-a-private-tour-guide-cost-in-dubai'].map(slug => ({
+    'how-much-should-a-private-tour-guide-cost-in-dubai',
+    'best-desert-safari-dubai', 'best-burj-khalifa-tour-dubai'].map(slug => ({
     url: `${BASE_URL}/uae/dubai/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
