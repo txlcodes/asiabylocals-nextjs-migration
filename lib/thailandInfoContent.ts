@@ -1235,6 +1235,174 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        // Tour-selling pages (2026-11-01) — each section sells one specific
+        // real tour, not a generic FAQ. Pattern copied from the Agra "best X
+        // tour" pages (lib/agraBestInfoContent.ts).
+        case "best-grand-palace-tour-bangkok":
+            return {
+                title: "Which Is the Best Grand Palace Tour in Bangkok?",
+                seoTitle: "Best Grand Palace Tour Bangkok 2026: 5 Real Options",
+                description: "Skip-the-line ticket, guided walking tour, private tour or a boat combo — which Grand Palace tour to pick, and five real options from budget to premium.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773710349/tours/bangkok-grand-palace/hq_1.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "For most first-time visitors the best Grand Palace tour is a **guided walking tour that also covers Wat Pho and Wat Arun**, since the three sites sit within a short walk or quick ferry of each other and a guide explains the strict dress code before you're turned away at the gate. If you've already visited Thailand or just want the palace itself, a **skip-the-line entry ticket alone** is enough. Five real options are below, one for each kind of traveller — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+                        tourCard: { slug: "bangkok-grand-palace-wat-pho-wat-arun-guided-tour", title: "Bangkok: Grand Palace, Wat Pho, and Wat Arun Guided Tour", description: "The royal temple circuit with a licensed local guide, dress-code help included.", price: "From $29", duration: "4-5 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773710349/tours/bangkok-grand-palace/hq_1.jpg" },
+                    },
+                    {
+                        title: "Just the ticket: the cheapest way to go it alone",
+                        content: "If you've done a guided temple tour elsewhere in Asia and just want entry without a narration, a skip-the-line ticket covers the Grand Palace and the Emerald Buddha, leaving you free to explore at your own pace.",
+                        tourCard: { slug: "grand-palace-skip-the-line-entry-ticket", title: "Grand Palace Skip-the-Line Entry Ticket", description: "Entry only, no guide — the cheapest way to see the palace yourself.", price: "From $25", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/grand-palace-skip-the-line-entry-ticket/img0/1600.webp" },
+                    },
+                    {
+                        title: "If you want it private and flexible",
+                        content: "A private tour means you're not waiting for a group to assemble or move together, and the guide's attention is on you alone — worth it if you're travelling with kids, elderly relatives, or just prefer your own pace.",
+                        tourCard: { slug: "2-hour-grand-palace-and-wat-pho-private-tour", title: "2-Hour Grand Palace and Wat Pho Private Tour", description: "A private guide and your own schedule for the palace and Wat Pho.", price: "From $107", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/2-hour-grand-palace-and-wat-pho-private-tour/img0/1600.webp" },
+                    },
+                    {
+                        title: "If you want the full royal-and-river day",
+                        content: "This combines the palace and temples with a Chao Phraya boat ride to the Golden Buddha water gate — a longer day, but it turns a single sight into a genuine outing on the river Bangkok was built around.",
+                        tourCard: { slug: "grand-palace-temples-and-water-gate-buddha-boat-tour", title: "Grand Palace, Temples and Water Gate Buddha Boat Tour", description: "The palace, temples and a boat ride to the Golden Buddha water gate in one day.", price: "From $272", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/grand-palace-temples-and-water-gate-buddha-boat-tour/img0/1600.webp" },
+                    },
+                    {
+                        title: "If you're short on time: the fast loop",
+                        content: "A tight 2-hour loop covering the palace and the Emerald Buddha only, for travellers slotting the Grand Palace into a half-day that also needs to cover something else.",
+                        tourCard: { slug: "grand-palace-and-emerald-buddha-tour", title: "Grand Palace and Emerald Buddha Tour", description: "The fastest guided way to see the palace and Emerald Buddha, no extra stops.", price: "From $17", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/grand-palace-and-emerald-buddha-tour/img0/1600.webp" },
+                    },
+                    {
+                        title: "Dress code and timing, either way",
+                        content: "The Grand Palace enforces a strict dress code: shoulders and knees covered, no sandals showing heels, and shawls are sold at the gate if you're caught out (at a markup). Go in the morning — the palace is one of Bangkok's most visited sights and afternoons bring both heat and crowds. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+                    },
+                ],
+                faqs: [
+                    { q: "What is the best Grand Palace tour in Bangkok?", a: "A guided walking tour covering the Grand Palace, Wat Pho and Wat Arun together is the best fit for most first-time visitors. A skip-the-line ticket alone suits a repeat visitor who just wants entry." },
+                    { q: "Is a private Grand Palace tour worth it?", a: "Yes if you're travelling with kids or elderly relatives, or simply want your own pace rather than a group schedule — the guide's full attention is on you." },
+                    { q: "What should I wear to the Grand Palace?", a: "Shoulders and knees covered, no see-through clothing, and no sandals with exposed heels. Shawls are sold at the gate if needed, at a markup — bring your own to save money." },
+                    { q: "Do I need a ticket in advance for the Grand Palace?", a: "A skip-the-line ticket is worth booking ahead in peak season to avoid the entrance queue, which can run long by mid-morning." },
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Grand Palace tour in Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "A guided walking tour covering the Grand Palace, Wat Pho and Wat Arun together is the best fit for most first-time visitors." } },
+                        { "@type": "Question", "name": "Is a private Grand Palace tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes if you're travelling with kids or elderly relatives, or want your own pace rather than a group schedule." } },
+                        { "@type": "Question", "name": "What should I wear to the Grand Palace?", "acceptedAnswer": { "@type": "Answer", "text": "Shoulders and knees covered, no see-through clothing, no sandals with exposed heels." } },
+                        { "@type": "Question", "name": "Do I need a ticket in advance for the Grand Palace?", "acceptedAnswer": { "@type": "Answer", "text": "A skip-the-line ticket is worth booking ahead in peak season to avoid the entrance queue." } },
+                    ],
+                },
+            };
+
+        case "best-ayutthaya-day-trip-from-bangkok":
+            return {
+                title: "Which Is the Best Ayutthaya Day Trip from Bangkok?",
+                seoTitle: "Best Ayutthaya Day Trip from Bangkok 2026: 5 Real Options",
+                description: "Train, bus, private car, river cruise or a combo with Lopburi's monkeys — which Ayutthaya day trip to pick, and five real options for every budget and pace.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773778104/tours/bangkok/ayutthaya_cover_1773778102218.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "For most visitors the best Ayutthaya day trip is a **guided tour with transport, lunch and the main temples included**, since Ayutthaya is 80 km north of Bangkok and the ruins are spread out enough that walking between them in the heat is genuinely tiring. If budget is tight, a train-based DIY-style guided trip costs the least. Five real options are below, one for each priority — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+                        tourCard: { slug: "ayutthaya-ancient-temples-day-trip-bangkok-thai-lunch", title: "Ayutthaya Ancient Temples Day Trip from Bangkok with Thai Lunch", description: "The UNESCO ruins of old Siam with a guide and lunch included.", price: "From $27", duration: "7 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773778104/tours/bangkok/ayutthaya_cover_1773778102218.jpg" },
+                    },
+                    {
+                        title: "Cheapest: by train, with a guide at the ruins",
+                        content: "This option uses the train to Ayutthaya (the genuine local way to get there) paired with a guide once you arrive, keeping the cost down while still explaining the history rather than leaving you to read plaques alone.",
+                        tourCard: { slug: "ayutthaya-unesco-world-heritage-day-trip-by-train", title: "Ayutthaya UNESCO World Heritage Day Trip by Train", description: "The budget way to Ayutthaya: real train, guided once you arrive.", price: "From $47", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ayutthaya-unesco-world-heritage-day-trip-by-train/img0/1600.webp" },
+                    },
+                    {
+                        title: "If you want the river cruise back",
+                        content: "Returning to Bangkok by boat on the Chao Phraya turns the trip into something more memorable than a straight bus ride — this option pairs the temples with Bang Pa-In Royal Palace and a river cruise home.",
+                        tourCard: { slug: "bang-pa-in-royal-palace-boat-tour", title: "From Bangkok: Ayutthaya, Bang Pa-In Palace & River Cruise", description: "Temples, the royal palace, and a scenic river cruise back to Bangkok.", price: "From $86", duration: "8 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1782987279/tours/bangkok/tours/bangkok_1782987278606_0.jpg" },
+                    },
+                    {
+                        title: "If you want it private, at your own pace",
+                        content: "A private day trip means no group schedule and no waiting for others to finish photographing a temple — worth it if Ayutthaya is one of several things you're trying to fit into the day.",
+                        tourCard: { slug: "ayutthaya-and-lopburi-monkey-temple-private-day-trip", title: "Ayutthaya and Lopburi Monkey Temple Private Day Trip", description: "Private transport and guide, combined with Lopburi's famous monkey temple.", price: "From $371", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ayutthaya-and-lopburi-monkey-temple-private-day-trip/img0/1600.webp" },
+                    },
+                    {
+                        title: "If daytime heat is the dealbreaker: go at night",
+                        content: "Ayutthaya's temples are lit after dark, and the ruins photograph completely differently at night — this option pairs illuminated temples with a night market, avoiding the worst of the day's heat entirely.",
+                        tourCard: { slug: "ayutthaya-night-temples-and-market-with-snacks", title: "Ayutthaya Night Temples and Market with Snacks", description: "Illuminated ruins after dark, paired with a local night market.", price: "From $86", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ayutthaya-night-temples-and-market-with-snacks/img0/1600.webp" },
+                    },
+                    {
+                        title: "How long you actually need",
+                        content: "A full day (7-9 hours including transport) is the realistic minimum to see Ayutthaya's main sites without rushing — Wat Mahathat's tree-wrapped Buddha head, Wat Chaiwatthanaram's riverside prangs, and the Bang Pa-In palace if included. A half-day trip exists but typically covers only one or two temples, not the historical park as a whole. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+                    },
+                ],
+                faqs: [
+                    { q: "What is the best Ayutthaya day trip from Bangkok?", a: "A guided tour with transport, lunch and the main temples included suits most visitors. For a tighter budget, a train-based trip with a guide at the ruins costs less." },
+                    { q: "How long does an Ayutthaya day trip take?", a: "A full day, roughly 7-9 hours including transport from Bangkok, is the realistic minimum to see the main temples without rushing." },
+                    { q: "Can I visit Ayutthaya by train on my own?", a: "Yes, but a guided version still handles navigation and explains the history on-site, for a modest extra cost over doing it fully independently." },
+                    { q: "Is Ayutthaya worth visiting at night?", a: "Yes — the main temples are illuminated after dark, and several tours pair the night ruins with a local market, which also avoids the daytime heat." },
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Ayutthaya day trip from Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "A guided tour with transport, lunch and the main temples included suits most visitors." } },
+                        { "@type": "Question", "name": "How long does an Ayutthaya day trip take?", "acceptedAnswer": { "@type": "Answer", "text": "A full day, roughly 7-9 hours including transport, is the realistic minimum." } },
+                        { "@type": "Question", "name": "Can I visit Ayutthaya by train on my own?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, but a guided version still handles navigation and explains the history on-site." } },
+                        { "@type": "Question", "name": "Is Ayutthaya worth visiting at night?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — the main temples are illuminated after dark, and it avoids the daytime heat." } },
+                    ],
+                },
+            };
+
+        case "best-bangkok-chinatown-food-tour":
+            return {
+                title: "Which Is the Best Chinatown Food Tour in Bangkok?",
+                seoTitle: "Best Bangkok Chinatown Food Tour 2026: 5 Real Options",
+                description: "Michelin stalls, tuk-tuk at night, vegan-friendly or a budget walking tour — which Chinatown food tour to pick, and five real options for every appetite and budget.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773776051/tours/bangkok/chefs_tour_6_1773776050893.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "For most visitors the best Chinatown food tour is a **small-group evening tour with 10+ Michelin-listed stalls**, since a guide who knows Yaowarat can skip the worst queues and order in Thai, which matters in a neighbourhood with dozens of near-identical-looking carts. Five real options are below, one for each kind of appetite — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+                        tourCard: { slug: "bangkok-chinatown-food-tour-15-tastings-michelin-stops", title: "Bangkok Chinatown Food Tour: 15+ Tastings at Michelin Street Food Stops", description: "Yaowarat's best stalls in one evening, ordering and queues handled.", price: "From $70", duration: "4 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773776051/tours/bangkok/chefs_tour_6_1773776050893.jpg" },
+                    },
+                    {
+                        title: "Cheapest: a focused walking tour",
+                        content: "A shorter, lower-priced walking tour that still covers Michelin-listed stalls without the add-ons (bars, tuk-tuks, rooftop stops) that push other tours' prices up — good for travellers who just want to eat well without a long evening commitment.",
+                        tourCard: { slug: "chinatown-food-tour-with-michelin-food-stalls-in-bangkok", title: "Chinatown Food Tour with Michelin Food Stalls in Bangkok", description: "A focused, lower-cost version covering the same Michelin-listed stalls.", price: "From $45", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/chinatown-food-tour-with-michelin-food-stalls-in-bangkok/img0/1600.webp" },
+                    },
+                    {
+                        title: "If you want the tuk-tuk transport included",
+                        content: "This pairs the food stops with tuk-tuk rides between them, which is genuinely useful since Chinatown's best stalls are spread further apart than they look on a map, and it's simply more fun after dark.",
+                        tourCard: { slug: "bangkok-street-food-tuk-tuk-night-tour", title: "Bangkok After Dark: Street Food & Tuk-Tuk Night Tour with 10+ Tastings", description: "Tuk-tuk rides between Chinatown's best night-market stalls.", price: "From $88", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/bangkok-street-food-tuk-tuk-night-tour/img0/1600.webp" },
+                    },
+                    {
+                        title: "If you don't eat meat: a vegan-specific tour",
+                        content: "A dedicated vegan Thai food tour solves the real problem with joining a standard Chinatown crawl as a vegan — most of the famous stalls are meat- or seafood-based, so a generic tour leaves you watching others eat. This one is built around what you actually can eat.",
+                        tourCard: { slug: "vegan-thai-food-tour-of-bangkok", title: "Vegan Thai Food Tour of Bangkok", description: "A food tour built entirely around plant-based Thai dishes.", price: "From $252", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/vegan-thai-food-tour-of-bangkok/img0/1600.webp" },
+                    },
+                    {
+                        title: "If you want to burn it off: a bike tour",
+                        content: "A cycling food tour at night covers more ground than a walking tour and feels less like a straight eating marathon, pairing Chinatown stalls with local backstreets you'd never find walking.",
+                        tourCard: { slug: "bangkok-by-night-cycling-tour-with-street-food-meal-by-local-operator", title: "Bangkok by Night Cycling Tour with Street-food Meal by Local Operator", description: "Chinatown stalls and backstreets by bike after dark.", price: "From $113", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/bangkok-by-night-cycling-tour-with-street-food-meal-by-local-operator/img0/1600.webp" },
+                    },
+                    {
+                        title: "Dietary needs and timing",
+                        content: "Tell the operator about any allergy or restriction before booking, not on arrival — Chinatown's stalls use shellfish, peanuts and fish sauce across most dishes, and a guide can route around a known allergy if told in advance. Evening tours (after 5pm) hit Yaowarat at its most atmospheric, when the neon signs and the crowds both pick up. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+                    },
+                ],
+                faqs: [
+                    { q: "What is the best Chinatown food tour in Bangkok?", a: "A small-group evening tour with 10+ Michelin-listed stalls suits most visitors, since a local guide handles ordering and queue-skipping." },
+                    { q: "Is there a vegan Chinatown food tour in Bangkok?", a: "Yes — a dedicated vegan Thai food tour exists, built around plant-based dishes rather than trying to adapt a meat-focused standard tour." },
+                    { q: "What time should I book a Chinatown food tour?", a: "Evening, after 5pm, when Yaowarat's stalls and neon signs are at their most atmospheric and most stalls are in full swing." },
+                    { q: "Can I tell the guide about a food allergy in advance?", a: "Yes, and you should — Chinatown stalls use shellfish, peanuts and fish sauce widely, and a guide can route around a known allergy if told before the tour." },
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Chinatown food tour in Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "A small-group evening tour with 10+ Michelin-listed stalls suits most visitors." } },
+                        { "@type": "Question", "name": "Is there a vegan Chinatown food tour in Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — a dedicated vegan Thai food tour built around plant-based dishes exists." } },
+                        { "@type": "Question", "name": "What time should I book a Chinatown food tour?", "acceptedAnswer": { "@type": "Answer", "text": "Evening, after 5pm, when the stalls and neon signs are at their most atmospheric." } },
+                        { "@type": "Question", "name": "Can I tell the guide about a food allergy in advance?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Chinatown stalls use shellfish, peanuts and fish sauce widely, so tell the operator before the tour." } },
+                    ],
+                },
+            };
+
         default:
             return null;
     }

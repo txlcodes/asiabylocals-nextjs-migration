@@ -478,6 +478,9 @@ const BANGKOK_SIDEBAR = [
     { name: 'Ask Before You Book', slug: 'should-i-book-bangkok-tour-direct-or-through-app' },
     { name: 'Private vs Group Tour', slug: 'private-tour-vs-group-tour-thailand' },
     { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-bangkok' },
+    { name: 'Best Grand Palace Tour', slug: 'best-grand-palace-tour-bangkok' },
+    { name: 'Best Ayutthaya Day Trip', slug: 'best-ayutthaya-day-trip-from-bangkok' },
+    { name: 'Best Chinatown Food Tour', slug: 'best-bangkok-chinatown-food-tour' },
 ];
 
 const BEIJING_SIDEBAR = [

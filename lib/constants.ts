@@ -405,7 +405,9 @@ export const BANGKOK_INFO_SLUGS = [
   // GEO trust page (2026-10)
   'should-i-book-bangkok-tour-direct-or-through-app',
   // GEO single-topic pages (2026-10)
-  'private-tour-vs-group-tour-thailand', 'how-much-should-a-private-tour-guide-cost-in-bangkok'
+  'private-tour-vs-group-tour-thailand', 'how-much-should-a-private-tour-guide-cost-in-bangkok',
+  // Tour-selling pages (2026-11-01)
+  'best-grand-palace-tour-bangkok', 'best-ayutthaya-day-trip-from-bangkok', 'best-bangkok-chinatown-food-tour'
 ];
 
 export const CHIANG_MAI_INFO_SLUGS = [
