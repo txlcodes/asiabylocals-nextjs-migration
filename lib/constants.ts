@@ -567,7 +567,8 @@ export const SAPPORO_INFO_SLUGS = [
   'sapporo-beer-chocolate-factories',
   'lake-toya-shikotsu-guide',
   'where-to-stay-in-sapporo',
-  'sapporo-with-kids', 'best-tours-in-sapporo', 'should-i-book-sapporo-tour-direct-or-through-app'];
+  'sapporo-with-kids', 'best-tours-in-sapporo', 'should-i-book-sapporo-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-sapporo'];
 
 // Re-add a slug here ONLY once its page exists in lib/naraInfoContent.ts.
 export const NARA_INFO_SLUGS = [
@@ -580,7 +581,8 @@ export const NARA_INFO_SLUGS = [
   'getting-around-nara',
   'mount-yoshino-cherry-blossom-guide',
   'nara-workshops-and-crafts',
-  'should-you-stay-overnight-in-nara', 'best-tours-in-nara', 'should-i-book-nara-tour-direct-or-through-app'];
+  'should-you-stay-overnight-in-nara', 'best-tours-in-nara', 'should-i-book-nara-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-nara'];
 
 // Re-add a slug here ONLY once its page exists in lib/nagoyaInfoContent.ts.
 export const NAGOYA_INFO_SLUGS = [
@@ -598,6 +600,7 @@ export const NAGOYA_INFO_SLUGS = [
   'nagoya-samurai-experiences',
   'best-tours-in-nagoya',
   'should-i-book-nagoya-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-nagoya',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/ellaInfoContent.ts.
@@ -694,7 +697,8 @@ export const HAKONE_INFO_SLUGS = [
   'where-to-stay-in-hakone',
   'hakone-or-kawaguchiko-for-mount-fuji',
   'best-tours-in-hakone',
-  'should-i-book-hakone-tour-direct-or-through-app'
+  'should-i-book-hakone-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-hakone'
 ];
 
 // Fuji content that was sitting under Hakone. The page bodies still live in
@@ -712,6 +716,7 @@ export const MOUNT_FUJI_INFO_SLUGS = [
   'mount-fuji-day-tour-routes',
   'best-tours-in-mount-fuji',
   'should-i-book-mount-fuji-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-mount-fuji',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/hiroshimaInfoContent.ts.
@@ -747,6 +752,7 @@ export const OSAKA_INFO_SLUGS = [
   // GEO listicle page (2026-10)
   'best-tours-in-osaka',
   'should-i-book-osaka-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-osaka',
 ];
 
 export const KASHMIR_INFO_SLUGS = [

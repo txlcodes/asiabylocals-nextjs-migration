@@ -1043,6 +1043,51 @@ export function getNagoyaInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-11-01)
+    case "how-much-should-a-private-tour-guide-cost-in-nagoya":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Nagoya?",
+        seoTitle: "Nagoya Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private guide in Nagoya in 2026, by tour type, so you know what's fair before you book.",
+        heroImage: TOUR_CARD_CASTLE.image,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private custom walking tour with a local guide in Nagoya** typically runs **$186-227 flat for 1-4 people** for a half day, since a single guide's fee doesn't change with a small group. A **short specialty experience** (bonsai workshop, koto lesson, calligraphy) runs cheaper and often **per person from the first traveller** — around $57-151 solo, roughly doubling per added person — since there's a genuine per-head material or instruction cost. A **multi-day private journey** (the 2-day Nakasendo and Kiso Valley trip) runs **$1,440 flat for the group**.",
+            tourCard: { slug: "nagoya-private-custom-tour-with-local-guide-by-local-operator", title: "Nagoya Private Custom Tour with Local Guide (4 hours)", description: "A real example of flat pricing for 1-4 people on a guided walking tour.", price: "From $189", duration: "4 hours", image: TOUR_CARD_CASTLE.image },
+          },
+          {
+            title: "Why Walking Tours and Workshops Price Differently",
+            content: "A guided city walking tour's cost is mostly the guide's time, which is why it stays flat for a small group. A workshop (bonsai, koto, pottery) has a genuine per-person cost — materials, a second instructor slot, individual attention — which is why those step up per traveller from the very first added person, unlike a walking tour.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private walking-tour quote well under $150-180 for a half day often means a shorter route or a guide without real local credentials. For workshops, a price far under the per-person range above may mean a shared class rather than a genuinely private session — ask directly whether other guests will be in the room.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly whether the quote is flat for the group or per person, and whether a workshop session is genuinely private or shared. On AsiaByLocals, every Nagoya tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Nagoya tours](/japan/nagoya) to compare real, current prices directly.",
+            tourCard: { slug: "private-bonsai-workshop-with-master-ajisawa-in-nagoya", title: "Nagoya: Private Bonsai Workshop with Master Ajisawa (1 hour)", description: "A real example of per-person pricing for a specialty workshop experience.", price: "From $114", duration: "1 hour", image: TOUR_CARD_CASTLE.image },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Nagoya?", a: "A private custom walking tour typically runs $186-227 flat for 1-4 people for a half day. A specialty workshop (bonsai, koto, pottery) runs $57-151 per person." },
+          { q: "Why do some Nagoya private experiences charge per person while others are flat?", a: "A walking tour's cost is mostly the guide's time, so it stays flat for a small group. A workshop has real per-person material and instruction costs, so it steps up per traveller." },
+          { q: "Is a very cheap private walking tour quote in Nagoya a red flag?", a: "Often yes — it can mean a shorter route or a guide without real local credentials." },
+          { q: "What's usually included in a Nagoya private tour price?", a: "Typically the guide's fee. Entrance fees, materials for workshops, and transport are sometimes separate — ask for the full breakdown before comparing prices." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Nagoya?", "acceptedAnswer": { "@type": "Answer", "text": "A private custom walking tour typically runs $186-227 flat for 1-4 people for a half day." } },
+            { "@type": "Question", "name": "Why do some Nagoya private experiences charge per person while others are flat?", "acceptedAnswer": { "@type": "Answer", "text": "A walking tour's cost is mostly the guide's time; a workshop has real per-person material costs." } },
+            { "@type": "Question", "name": "Is a very cheap private walking tour quote in Nagoya a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a shorter route or an uncredentialed guide." } },
+            { "@type": "Question", "name": "What's usually included in a Nagoya private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the guide's fee; entrance fees, materials and transport are sometimes separate." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

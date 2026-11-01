@@ -2015,6 +2015,51 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-11-01)
+    case "how-much-should-a-private-tour-guide-cost-in-osaka":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Osaka?",
+        seoTitle: "Osaka Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private guide in Osaka in 2026, by tour type, so you know what's fair before you book.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kuromon-market-1-5-hour-seafood-and-street-food-tour-in-osaka/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **short 1-3 hour private custom tour** in Osaka can run as low as **$60 flat for 1-2 people** on a basic package, while a proper **3-hour private guided tour** (Osaka Castle, a food crawl) typically runs **$264-313 for 1-2 people**, stepping up roughly $65-110 per added traveller. A **private samurai or ninja experience** prices higher, **$500-530 flat for 1-4 people**, reflecting specialist instruction rather than general sightseeing. Multi-day private Japan tours with an English-speaking guide run into the **$2,700+** range for the group.",
+            tourCard: { slug: "osaka-castle-three-hour-private-guided-tour-by-local-operator", title: "Osaka Castle: Three-Hour Private Guided Tour", description: "A real example of standard private guided-tour pricing that steps up per added traveller.", price: "From $264", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/kuromon-market-1-5-hour-seafood-and-street-food-tour-in-osaka/img0/1600.webp" },
+          },
+          {
+            title: "Why the Price Range Is So Wide",
+            content: "Osaka's cheapest private tours are often a basic 1-hour custom walk with minimal narration, while a 3-hour tour at major sites (the Castle, a food market) involves a guide who genuinely explains the history and handles logistics like queue-skipping. Specialist experiences (samurai training, ninja experiences at Iga) cost more because the instructor's specific skill, not just general guiding, is what's being sold.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private tour quote dramatically below $264 for a 3-hour Castle or food tour usually means a shorter route, a less-experienced guide, or a shop-commission detour built into the schedule. For specialist experiences, confirm the instructor's actual credentials before assuming a cheap quote delivers the same quality.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly what's included — which sites, how much time at each, whether food tastings are covered. On AsiaByLocals, every Osaka tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Osaka tours](/japan/osaka) to compare real, current prices directly.",
+            tourCard: { slug: "eat-like-a-local-in-osaka-private-custom-street-food-tour-by-local-operator", title: "Eat Like a Local in Osaka – Private Custom Street Food Tour", description: "A real example of a private food tour that steps up per added traveller.", price: "From $313", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/kuromon-market-1-5-hour-seafood-and-street-food-tour-in-osaka/img0/1600.webp" },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Osaka?", a: "A 3-hour private guided tour (Osaka Castle, a food crawl) typically runs $264-313 for 1-2 people, stepping up per added traveller. A basic short custom tour can run as low as $60 flat for 1-2 people." },
+          { q: "Why do private samurai or ninja experiences cost more in Osaka?", a: "They're priced on the instructor's specific skill, not just general guiding, which is why they run $500-530 even flat for a small group." },
+          { q: "Is a very cheap private tour quote in Osaka a red flag?", a: "Often yes — it can mean a shorter route, a less-experienced guide, or a shop-commission detour built into the schedule." },
+          { q: "What's usually included in an Osaka private tour price?", a: "Typically the guide's fee. Entrance fees and food tastings are sometimes separate — ask for the full breakdown before comparing prices." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Osaka?", "acceptedAnswer": { "@type": "Answer", "text": "A 3-hour private guided tour typically runs $264-313 for 1-2 people, stepping up per added traveller." } },
+            { "@type": "Question", "name": "Why do private samurai or ninja experiences cost more in Osaka?", "acceptedAnswer": { "@type": "Answer", "text": "They're priced on the instructor's specific skill, not just general guiding." } },
+            { "@type": "Question", "name": "Is a very cheap private tour quote in Osaka a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a shorter route or a shop-commission detour." } },
+            { "@type": "Question", "name": "What's usually included in an Osaka private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the guide's fee; entrance fees and tastings are sometimes separate." } },
+          ],
+        },
+      };
+
     default:
             return null;
     }

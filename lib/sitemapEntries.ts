@@ -527,6 +527,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'kobe-day-trip-from-osaka',
     'osaka-kimono-rental-guide',
     'best-tours-in-osaka', 'should-i-book-osaka-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-osaka',
 ].map(slug => ({
     url: `${BASE_URL}/japan/osaka/${slug}`,
     lastModified: new Date(),
@@ -555,7 +556,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'sapporo-3-day-itinerary',
     'furano-biei-guide', 'noboribetsu-onsen-guide', 'asahiyama-zoo-guide', 'sapporo-beer-chocolate-factories', 'lake-toya-shikotsu-guide',
     'where-to-stay-in-sapporo',
-    'sapporo-with-kids', 'best-tours-in-sapporo', 'should-i-book-sapporo-tour-direct-or-through-app'].map(slug => ({
+    'sapporo-with-kids', 'best-tours-in-sapporo', 'should-i-book-sapporo-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-sapporo'].map(slug => ({
     url: `${BASE_URL}/japan/sapporo/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -568,7 +570,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'nara-day-trip-from-kyoto-osaka', 'nara-half-day-itinerary',
     'kasuga-taisha-guide', 'naramachi-guide', 'nara-food-guide', 'getting-around-nara', 'mount-yoshino-cherry-blossom-guide',
     'nara-workshops-and-crafts',
-    'should-you-stay-overnight-in-nara', 'best-tours-in-nara', 'should-i-book-nara-tour-direct-or-through-app'].map(slug => ({
+    'should-you-stay-overnight-in-nara', 'best-tours-in-nara', 'should-i-book-nara-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-nara'].map(slug => ({
     url: `${BASE_URL}/japan/nara/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -584,6 +587,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'where-to-stay-in-nagoya',
     'takayama-shirakawago-day-trip-from-nagoya',
     'nagoya-samurai-experiences', 'best-tours-in-nagoya', 'should-i-book-nagoya-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-nagoya',
 ].map(slug => ({
     url: `${BASE_URL}/japan/nagoya/${slug}`,
     lastModified: new Date(),
@@ -597,7 +601,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'hakone-onsen-guide', 'hakone-2-day-itinerary',
     'hakone-open-air-museum-guide', 'owakudani-black-eggs-guide', 'hakone-yosegi-marquetry-guide',
     'where-to-stay-in-hakone',
-    'hakone-or-kawaguchiko-for-mount-fuji', 'best-tours-in-hakone', 'should-i-book-hakone-tour-direct-or-through-app'].map(slug => ({
+    'hakone-or-kawaguchiko-for-mount-fuji', 'best-tours-in-hakone', 'should-i-book-hakone-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-hakone'].map(slug => ({
     url: `${BASE_URL}/japan/hakone/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -611,6 +616,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'oshino-hakkai-guide',
     'fuji-five-lakes-guide',
     'mount-fuji-day-tour-routes', 'best-tours-in-mount-fuji', 'should-i-book-mount-fuji-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-mount-fuji',
 ].map(slug => ({
     url: `${BASE_URL}/japan/mount-fuji/${slug}`,
     lastModified: new Date(),

@@ -826,6 +826,51 @@ export function getNaraInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-11-01)
+    case "how-much-should-a-private-tour-guide-cost-in-nara":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Nara?",
+        seoTitle: "Nara Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private guide in Nara in 2026, by tour length and type, so you know what's fair before you book.",
+        heroImage: TOUR_CARD_DEER.image,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private Nara Park and Todai-ji tour** (Deer Park, the Great Buddha) typically runs **$111-334 flat for 1-2 people**, depending on whether it's a basic custom tour or a full licensed-guide day, stepping up by roughly $40-80 per added traveller. A **private walking tour from Osaka** (Nara plus transport) runs similarly, **$393 flat for 1-2 people**. A specialty private half-day (Mount Ikoma, Isuien Garden) runs **$300-430 for 1-2 people**. Multi-day private tours bundling Osaka, Kyoto and Nara run into the **$1,500+** range for the group.",
+            tourCard: { slug: "private-walking-tour-with-a-local-in-nara", title: "3-Hour Nara Private Walking Tour with a Local", description: "A real example of standard private walking-tour pricing that steps up for a third traveller.", price: "From $180", duration: "3 hours", image: TOUR_CARD_DEER.image },
+          },
+          {
+            title: "Why the Price Range Varies",
+            content: "Nara's private tours span a basic custom walk, a full licensed-guide day at the major Deer Park and Todai-ji sites, and specialty half-days to quieter spots (Mount Ikoma, Isuien Garden) that cost more because fewer guides specialise in them. The guide's own qualification — general city guide versus a licensed site-specific guide — matters more to price here than the exact route length.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private Nara tour quote well under $111 for a half day at the main sites usually means a very short route or a guide without real local credentials. Confirm which specific sites (Todai-ji, Kasuga Taisha, Isuien Garden) are included before comparing a cheap quote to a fuller one.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly which sites are included and whether the guide holds a specific Nara-area licence. On AsiaByLocals, every Nara tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Nara tours](/japan/nara) to compare real, current prices directly.",
+            tourCard: { slug: "nara-customized-private-tour-in-1-day-with-licensed-guide-by-local-operator", title: "Nara: Private Tour with Private Guide", description: "A real example of flat pricing on a full licensed-guide private day.", price: "From $334", duration: "Full day", image: TOUR_CARD_DEER.image },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Nara?", a: "A private Nara Park and Todai-ji tour typically runs $111-334 flat for 1-2 people, depending on whether it's a basic custom tour or a full licensed-guide day." },
+          { q: "Why do Nara private tour prices vary so much?", a: "They span a basic custom walk, a full licensed-guide day at the major sites, and specialty half-days to quieter spots that cost more due to fewer specialist guides." },
+          { q: "Is a very cheap private Nara tour quote a red flag?", a: "Often yes — it can mean a very short route or a guide without real local credentials." },
+          { q: "What's usually included in a Nara private tour price?", a: "Typically the guide's fee. Entrance fees and transport from Osaka or Kyoto are sometimes separate — ask for the full breakdown before comparing prices." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Nara?", "acceptedAnswer": { "@type": "Answer", "text": "A private Nara Park and Todai-ji tour typically runs $111-334 flat for 1-2 people." } },
+            { "@type": "Question", "name": "Why do Nara private tour prices vary so much?", "acceptedAnswer": { "@type": "Answer", "text": "They span a basic custom walk to a full licensed-guide day and specialty half-days to quieter spots." } },
+            { "@type": "Question", "name": "Is a very cheap private Nara tour quote a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a very short route or an uncredentialed guide." } },
+            { "@type": "Question", "name": "What's usually included in a Nara private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the guide's fee; entrance fees and transport are sometimes separate." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

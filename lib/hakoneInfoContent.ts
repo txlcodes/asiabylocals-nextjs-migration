@@ -1699,6 +1699,95 @@ export function getHakoneInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic pages (2026-11-01)
+    case "how-much-should-a-private-tour-guide-cost-in-hakone":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Hakone?",
+        seoTitle: "Hakone Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private guide or car tour of Hakone from Tokyo in 2026, so you know what's fair before you book.",
+        heroImage: CARD_1.image,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private Hakone day trip from Tokyo** with a guide and driver (Lake Ashi cruise, Owakudani ropeway) typically runs **$720-920 flat for up to 5-6 people** in a standard car — a genuinely good deal once you're 3+ travellers, since the quoted price doesn't change by head count up to the car's seats. A **customised 6-hour private walking tour** without a vehicle runs cheaper, around **$400 flat**. Multi-day private tours bundling Hakone with Nikko, Kamakura or Fuji run into the thousands for the group, a different, longer commitment.",
+            tourCard: { slug: "hakone-private-day-trip-lake-ashi-owakudani", title: "Private Hakone Day Trip from Tokyo: Lake Ashi Cruise, Owakudani Ropeway and the Old Tokaido Road", description: "A real example of flat pricing up to 6 people in one car.", price: "From $752", duration: "Full day", image: CARD_1.image },
+          },
+          {
+            title: "Why Hakone Tours Price Flat So Often",
+            content: "Hakone's private day tours are built around one car and one licensed guide for the whole day, so the quoted price is usually for the vehicle's full capacity (often 5-6 seats), not per person — this is why it reads as expensive solo but becomes very competitive once you have 3 or more travellers. A walking-only tour without a car is priced on guide time alone, which is why it's cheaper even though it covers less ground.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private Hakone day-trip quote well under $700 for a full day with a car and guide usually means a shared minivan tour mislabelled as private, a shorter route that skips the ropeway or cruise, or an unlicensed driver standing in as the \"guide.\" Confirm the exact stops and whether the guide is licensed before assuming a cheap quote is a bargain.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly how many seats the quoted price covers, and which stops (Lake Ashi cruise, Owakudani, the Old Tokaido Road) are actually included. On AsiaByLocals, every Hakone tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Hakone tours](/japan/hakone) to compare real, current prices directly.",
+            tourCard: { slug: "hakone-customized-private-tour-in-1-day-with-licensed-guide-by-local-operator", title: "Hakone Customized Private Tour in 1 Day with Licensed Guide", description: "A real example of flat pricing for a walking-only private tour without a car.", price: "From $400", duration: "6 hours", image: CARD_1.image },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Hakone?", a: "A private Hakone day trip from Tokyo with a guide and driver typically runs $720-920 flat for up to 5-6 people in one car. A walking-only private tour runs around $400 flat." },
+          { q: "Is a private Hakone car tour cheaper per person for a group?", a: "Yes — most quotes cover the car's full capacity (5-6 seats) at one flat price, so it becomes very competitive once you have 3 or more travellers." },
+          { q: "Is a very cheap private Hakone tour quote a red flag?", a: "Often yes — it can mean a shared minivan mislabelled as private, a shortened route skipping the ropeway or cruise, or an unlicensed driver standing in as the guide." },
+          { q: "What's usually included in a Hakone private tour price?", a: "Typically the guide and driver's fee and the vehicle. Ropeway, cruise and entrance tickets are sometimes separate — ask for the full breakdown before comparing prices." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Hakone?", "acceptedAnswer": { "@type": "Answer", "text": "A private Hakone day trip from Tokyo with a guide and driver typically runs $720-920 flat for up to 5-6 people in one car." } },
+            { "@type": "Question", "name": "Is a private Hakone car tour cheaper per person for a group?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — most quotes cover the car's full capacity at one flat price." } },
+            { "@type": "Question", "name": "Is a very cheap private Hakone tour quote a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a shared minivan or a shortened route." } },
+            { "@type": "Question", "name": "What's usually included in a Hakone private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the guide and driver's fee and the vehicle; entrance tickets are sometimes separate." } },
+          ],
+        },
+      };
+
+    case "how-much-should-a-private-tour-guide-cost-in-mount-fuji":
+      return {
+        title: "How Much Should a Private Tour Guide Cost for Mount Fuji?",
+        seoTitle: "Mount Fuji Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private guide or car tour of Mount Fuji from Tokyo in 2026, so you know what's fair before you book.",
+        heroImage: CARD_0.image,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **standard private Mount Fuji day tour from Tokyo** (5th Station, a lake viewpoint) runs surprisingly cheap at **$45 flat for 1-4 people** on some operators' basic packages, while a **fuller private tour with an English-speaking driver and guide** for the whole day runs **$330-420 flat for 1-4 people**. A **combined Mount Fuji and Hakone private day** runs **$1,000+ flat for a standard car**. A **multi-day private climb** (the 2-day Prince Route) prices per person from the start, at roughly **$1,700+ for up to 5 climbers**, since mountain-guide certification and safety equipment are genuine per-head costs.",
+            tourCard: { slug: "mount-fuji-and-hakone-private-day-tour", title: "From Tokyo: Mount Fuji & Hakone Private Day Tour", description: "A real example of flat pricing for 1-4 people on a fuller private day tour.", price: "From $332", duration: "Full day", image: CARD_0.image },
+          },
+          {
+            title: "Why the Price Range Is So Wide",
+            content: "The cheapest Mount Fuji \"private tours\" are often a basic transfer-plus-photo-stop package, not a genuinely narrated guided day — the $45 flat rate reflects that. A fuller private day with an English-speaking guide who explains the mountain, the shrines and the lakes costs considerably more because it's a different, more involved product. A multi-day summit climb is different again: it's priced per climber because mountain-guide certification is the real cost, not a day-tour driver's time.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A rock-bottom private tour quote is not automatically a scam here — some genuinely are basic transfer packages — but always confirm exactly what's included (which viewpoints, how much time at each, whether a guide narrates or just drives) before assuming a cheap and a fuller tour are the same product.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly whether you're booking a transfer-with-photo-stops or a fully narrated guided day, and what viewpoints are included. On AsiaByLocals, every Mount Fuji tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Mount Fuji tours](/japan/mount-fuji) to compare real, current prices directly.",
+            tourCard: { slug: "mount-fuji-private-tour-with-guide-and-pickup", title: "From Tokyo: Mount Fuji Private Tour with Guide & Pickup", description: "A real example of the cheaper, basic-package style of private Mount Fuji tour.", price: "From $45", duration: "Full day", image: CARD_0.image },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost for Mount Fuji?", a: "A basic private day tour runs as low as $45 flat for 1-4 people, while a fuller private tour with an English-speaking guide runs $330-420 flat for 1-4 people." },
+          { q: "Why is one Mount Fuji private tour so much cheaper than another?", a: "The cheapest options are often a basic transfer-plus-photo-stop package, not a fully narrated guided day — confirm what's actually included before comparing prices." },
+          { q: "How much does a private Mount Fuji summit climb cost?", a: "A multi-day private climb (like the 2-day Prince Route) prices per person from the start, at roughly $1,700+ for up to 5 climbers, since mountain-guide certification is a real per-head cost." },
+          { q: "What's usually included in a Mount Fuji private tour price?", a: "Typically the driver or guide's fee and transport. Entrance fees, meals and equipment for climbs are usually separate — ask for the full breakdown before comparing prices." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost for Mount Fuji?", "acceptedAnswer": { "@type": "Answer", "text": "A basic private day tour runs as low as $45 flat for 1-4 people, while a fuller guided private tour runs $330-420 flat for 1-4 people." } },
+            { "@type": "Question", "name": "Why is one Mount Fuji private tour so much cheaper than another?", "acceptedAnswer": { "@type": "Answer", "text": "The cheapest options are often a basic transfer-plus-photo-stop package, not a fully narrated guided day." } },
+            { "@type": "Question", "name": "How much does a private Mount Fuji summit climb cost?", "acceptedAnswer": { "@type": "Answer", "text": "A multi-day private climb prices per person, at roughly $1,700+ for up to 5 climbers." } },
+            { "@type": "Question", "name": "What's usually included in a Mount Fuji private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the driver or guide's fee and transport; entrance fees and climbing equipment are usually separate." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

@@ -1133,6 +1133,51 @@ export function getSapporoInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+    // GEO single-topic page (2026-11-01)
+    case "how-much-should-a-private-tour-guide-cost-in-sapporo":
+            return {
+                title: "How Much Should a Private Tour Guide Cost in Sapporo?",
+                seoTitle: "Sapporo Private Guide Prices 2026 — What's Reasonable",
+                description: "Real price ranges for a private guide or car tour in Sapporo and Hokkaido in 2026, so you know what's fair before you book.",
+                heroImage: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015029/asiabylocals/tours/sapporo-sapporo-golden-route-morning-walk-past-the-clock-tower-and-tv-tower/img0.jpg',
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "A **private history and food walking tour** in Sapporo typically runs **$108 flat for 1-2 people**, stepping up roughly $38 per added traveller. A **full private day trip to Otaru** (the canal town) runs **$470 flat for 1-2 people**. An **8-hour private Sapporo city tour with night views** runs a flat **$569** regardless of group size up to the vehicle's capacity — a strong deal for 3-4 people. A longer **private day trip to Lake Toya and Noboribetsu** runs considerably more, **$2,945+ for the group**, reflecting the distance covered outside the city.",
+                        tourCard: { slug: "private-day-trip-to-otaru", title: "From Sapporo: Private Day Trip to Otaru", description: "A real example of flat pricing for 1-2 people on a full day trip to Otaru's canal town.", price: "From $470", duration: "Full day", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015029/asiabylocals/tours/sapporo-sapporo-golden-route-morning-walk-past-the-clock-tower-and-tv-tower/img0.jpg' },
+                    },
+                    {
+                        title: "Why the Pricing Style Varies",
+                        content: "A short city walking tour's cost scales with the guide's time per extra person they're responsible for, which is why it steps up modestly per traveller. A full-day car tour (Otaru, the night-view city tour) is built around one vehicle for the whole day, which is why several of these quote flat regardless of a small group's exact size — the better deal once you have 3 or more travellers.",
+                    },
+                    {
+                        title: "Red Flags on Price",
+                        content: "A private day-trip quote well under $400-500 for a full day covering Otaru or the city's night views usually means a shorter route or a shared rather than private vehicle. For the longer Lake Toya/Noboribetsu trip, confirm the exact stops before assuming a lower quote covers the same ground.",
+                    },
+                    {
+                        title: "How to Get a Fair Price",
+                        content: "Ask the operator directly whether the quote covers a private vehicle for the whole day and which stops are included. On AsiaByLocals, every Sapporo tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Sapporo tours](/japan/sapporo) to compare real, current prices directly.",
+                        tourCard: { slug: "8-hour-private-sapporo-city-tour-with-night-views-by-local-operator", title: "Sapporo Private Tour | Up to 6 Guests", description: "A real example of flat pricing regardless of group size, up to 6 guests.", price: "From $569", duration: "8 hours", image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788015029/asiabylocals/tours/sapporo-sapporo-golden-route-morning-walk-past-the-clock-tower-and-tv-tower/img0.jpg' },
+                    },
+                ],
+                faqs: [
+                    { q: "How much does a private tour guide cost in Sapporo?", a: "A private history and food walking tour typically runs $108 flat for 1-2 people. A full private day trip to Otaru runs $470 flat for 1-2 people." },
+                    { q: "Is a private Sapporo car tour cheaper per person for a group?", a: "Yes — several full-day car tours (Otaru, night views) quote flat regardless of group size up to the vehicle's capacity, a strong deal for 3-4 people." },
+                    { q: "Is a very cheap private day-trip quote in Sapporo a red flag?", a: "Often yes — it can mean a shorter route or a shared rather than private vehicle." },
+                    { q: "What's usually included in a Sapporo private tour price?", a: "Typically the guide and driver's fee and the vehicle. Entrance fees and meals are usually listed separately — ask for the full breakdown before comparing prices." },
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "How much does a private tour guide cost in Sapporo?", "acceptedAnswer": { "@type": "Answer", "text": "A private history and food walking tour typically runs $108 flat for 1-2 people. A full private day trip to Otaru runs $470 flat for 1-2 people." } },
+                        { "@type": "Question", "name": "Is a private Sapporo car tour cheaper per person for a group?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — several full-day car tours quote flat regardless of group size up to the vehicle's capacity." } },
+                        { "@type": "Question", "name": "Is a very cheap private day-trip quote in Sapporo a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a shorter route or a shared vehicle." } },
+                        { "@type": "Question", "name": "What's usually included in a Sapporo private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the guide and driver's fee and the vehicle; entrance fees and meals are usually separate." } },
+                    ],
+                },
+            };
+
     default:
             return null;
     }
