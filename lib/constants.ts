@@ -492,6 +492,8 @@ export const SIEM_REAP_INFO_SLUGS = [
     'angkor-sunset-where-to-go',
     // GEO single-topic page (2026-10/31)
     'how-much-should-a-private-tour-guide-cost-in-siem-reap',
+    // Tour-selling pages (2026-11-01)
+    'best-angkor-wat-sunrise-tour', 'best-floating-village-tour-siem-reap',
 ];
 
 export const KRABI_INFO_SLUGS = [

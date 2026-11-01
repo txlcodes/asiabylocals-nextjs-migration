@@ -1438,6 +1438,128 @@ export function getSiemReapInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        // Tour-selling pages (2026-11-01) — each section sells one specific
+        // real tour, not a generic FAQ. Pattern from lib/agraBestInfoContent.ts.
+        case "best-angkor-wat-sunrise-tour":
+            return {
+                title: "Which Is the Best Angkor Wat Sunrise Tour?",
+                seoTitle: "Best Angkor Wat Sunrise Tour 2026: 6 Real Options",
+                description: "Shared group, private tuk-tuk, e-bike or a full-day combo with breakfast — which Angkor Wat sunrise tour to pick, and six real options for every budget and pace.",
+                heroImage: IMG.smallCircuit,
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "For most visitors the best Angkor Wat sunrise tour is a **shared group tour covering sunrise plus Bayon, Ta Prohm and Banteay Srei**, since it stretches the pre-dawn start into a full productive day rather than ending once the sun is up. Six real options are below, one for each priority — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+                        tourCard: { slug: "angkor-wat-sunrise-shared-tours-bayon-ta-prohm-ban", title: "Angkor Wat Sunrise Shared Tours: Bayon-Ta Prohm-Banteay Srei", description: "Sunrise plus the major temple circuit in one full day.", price: "From $36", duration: "9 hours", image: IMG.smallCircuit },
+                    },
+                    {
+                        title: "Cheapest: sunrise and the main temples only",
+                        content: "A focused, lower-priced version that covers sunrise and Angkor Wat itself without the full-day temple circuit — good if you only have the morning free or want to keep the cost down.",
+                        tourCard: { slug: "angkor-sunrise-or-sunset-tour", title: "Angkor Sunrise or Sunset Tour", description: "A focused, lower-cost sunrise visit without the full-day circuit.", price: "From $20", duration: "8 hours", image: IMG.smallCircuit },
+                    },
+                    {
+                        title: "If you want it private, your own pace",
+                        content: "A private sunrise tour means you're not on a shared tuk-tuk's schedule — worth it if you want to linger at the reflecting pool for the best photo rather than being moved along for the next group.",
+                        tourCard: { slug: "angkor-wat-sun-rise-private-day-tour-with-guide", title: "Angkor Wat Sun rise Private Day Tour with Guide", description: "Your own pace at sunrise, with a private guide.", price: "From $37", duration: "8 hours", image: IMG.smallCircuit },
+                    },
+                    {
+                        title: "If breakfast matters: the gourmet option",
+                        content: "A sunrise tour with an actual sit-down Khmer breakfast afterward solves the real problem with most sunrise tours — you're up before dawn and hungry by 7am with nowhere decent to eat nearby.",
+                        tourCard: { slug: "gourmet-dawn-angkor-wat-sunrise-authentic-khmer-br", title: "Gourmet Dawn: Angkor Wat Sunrise Authentic Khmer Breakfast", description: "Sunrise followed by a proper sit-down Khmer breakfast.", price: "From $25", duration: "8 hours", image: IMG.smallCircuit },
+                    },
+                    {
+                        title: "If you want to cover more ground: by e-bike",
+                        content: "An e-bike sunrise tour covers more temples than a tuk-tuk-bound group in the same morning, and it's genuinely more fun — worth it if you're comfortable cycling and want to feel less like you're on a bus route between stops.",
+                        tourCard: { slug: "angkor-wat-sunrise-e-bike-and-mtb-tour-from", title: "Angkor Wat Sunrise E-Bike and MTB Tour from Siem Reap", description: "Cover more temples by e-bike than a standard tuk-tuk tour.", price: "From $115", duration: "10 hours", image: IMG.smallCircuit },
+                    },
+                    {
+                        title: "If one morning isn't enough: the multi-day version",
+                        content: "A 2-day tour pairing Angkor Wat sunrise with Tonle Sap Lake spreads the experience across two mornings rather than cramming everything into one exhausting pre-dawn day — worth it if you have the extra day.",
+                        tourCard: { slug: "angkor-wat-sunrise-tour-with-tonle-sap-2-day", title: "Angkor Wat Sunrise Tour with Tonle Sap 2-Day Tour", description: "Sunrise and Tonle Sap Lake spread across two days, not crammed into one.", price: "From $88", duration: "2 days", image: IMG.smallCircuit },
+                    },
+                    {
+                        title: "What time you actually need to leave",
+                        content: "Pickup is typically 5-5:30am depending on the season's sunrise time, since the reflecting pool fills up fast once the gates open. Bring a flashlight for the walk in — it's genuinely dark. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+                    },
+                ],
+                faqs: [
+                    { q: "What is the best Angkor Wat sunrise tour?", a: "A shared group tour covering sunrise plus Bayon, Ta Prohm and Banteay Srei suits most visitors, turning the early start into a full productive day." },
+                    { q: "What time does an Angkor Wat sunrise tour start?", a: "Pickup is typically 5-5:30am depending on the season, since the best reflecting-pool spots fill up fast once the gates open." },
+                    { q: "Is a private Angkor Wat sunrise tour worth it?", a: "Yes if you want your own pace rather than following a shared tuk-tuk's schedule, especially for photography at the reflecting pool." },
+                    { q: "Should I book a sunrise tour with breakfast included?", a: "Worth considering — you'll be up before dawn and hungry by mid-morning, and a built-in sit-down breakfast solves the logistics of finding somewhere decent nearby." },
+                ],
+                jsonLd: {
+                    '@context': 'https://schema.org',
+                    '@type': 'FAQPage',
+                    mainEntity: [
+                        { '@type': 'Question', name: 'What is the best Angkor Wat sunrise tour?', acceptedAnswer: { '@type': 'Answer', text: 'A shared group tour covering sunrise plus Bayon, Ta Prohm and Banteay Srei suits most visitors.' } },
+                        { '@type': 'Question', name: 'What time does an Angkor Wat sunrise tour start?', acceptedAnswer: { '@type': 'Answer', text: 'Pickup is typically 5-5:30am depending on the season.' } },
+                        { '@type': 'Question', name: 'Is a private Angkor Wat sunrise tour worth it?', acceptedAnswer: { '@type': 'Answer', text: 'Yes if you want your own pace rather than following a shared tuk-tuk schedule.' } },
+                        { '@type': 'Question', name: 'Should I book a sunrise tour with breakfast included?', acceptedAnswer: { '@type': 'Answer', text: 'Worth considering, since a built-in breakfast solves the logistics of finding food nearby after an early start.' } },
+                    ],
+                },
+            };
+
+        case "best-floating-village-tour-siem-reap":
+            return {
+                title: "Which Is the Best Floating Village Tour from Siem Reap?",
+                seoTitle: "Best Floating Village Tour Siem Reap 2026: 6 Real Options",
+                description: "Kampong Phluk, Kompong Khleang, combined with temples or a sunset version — which Tonle Sap floating village tour to pick, and six real options.",
+                heroImage: IMG.sunriseLake,
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "For most visitors the best floating village tour is a **Kampong Phluk boat tour** — it's the closest village to Siem Reap, genuinely lived-in rather than built for tourists, and the mangrove approach by boat is scenic on its own before you even reach the stilt houses. Six real options are below, one for each kind of trip — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+                        tourCard: { slug: "kampong-phluk-floating-village-boat-tour", title: "Kampong Phluk Floating Village Boat Tour", description: "The closest, most genuinely lived-in floating village to Siem Reap.", price: "From $130", duration: "5 hours", image: IMG.sunriseLake },
+                    },
+                    {
+                        title: "Cheapest: a focused private visit",
+                        content: "A shorter, lower-priced private version of the Kampong Phluk visit, for travellers who want the boat ride and the village without a longer combined-itinerary day.",
+                        tourCard: { slug: "kampong-phluk-floating-village-private-tour", title: "Kampong Phluk Floating Village Private Tour", description: "A focused, shorter private visit at a lower price.", price: "From $65", duration: "2.5 hours", image: IMG.sunriseLake },
+                    },
+                    {
+                        title: "If you want the sunset version",
+                        content: "A sunset timing turns the mangrove boat ride into a genuinely different, more atmospheric trip than the standard daytime visit, with the light hitting the stilt houses and water at its best.",
+                        tourCard: { slug: "siem-reap-sunset-kampong-phluk-floating-village-pr", title: "Siem Reap Sunset Kampong Phluk Floating Village Private Tour", description: "The same village at the most atmospheric time of day.", price: "From $65", duration: "7 hours", image: IMG.sunriseLake },
+                    },
+                    {
+                        title: "For something quieter: Kampong Khleang",
+                        content: "Kompong Khleang is further from Siem Reap and sees far fewer tourists than Kampong Phluk, at the cost of a longer drive — worth it if you've already done a floating village or specifically want the less-visited option.",
+                        tourCard: { slug: "kampong-khleang-floating-village-and-private-airpo", title: "Kampong Khleang Floating Village and Private Airport Transfers", description: "A quieter, less-visited floating village further from the city.", price: "From $115", duration: "4.5 hours", image: IMG.sunriseLake },
+                    },
+                    {
+                        title: "If you want it combined with temples",
+                        content: "Pairing the floating village with Beng Mealea and Koh Ker in one day is efficient if you want to cover a wider spread of Siem Reap's attractions without separately booking each one.",
+                        tourCard: { slug: "beng-mealea-koh-ker-and-floating-village-day-tour", title: "Beng Mealea, Koh Ker and Floating village Day Tour", description: "The floating village plus two major outlying temples in one day.", price: "From $85", duration: "1 day", image: IMG.sunriseLake },
+                    },
+                    {
+                        title: "For the full mangrove experience",
+                        content: "A tour that adds a dedicated mangrove forest cruise alongside the village visit spends more time on the water itself, worth it if the boat ride and the ecosystem are what draw you, not just the village.",
+                        tourCard: { slug: "kompong-phluk-floating-village-and-mangrove-forest", title: "Kompong Phluk Floating village and Mangrove forest Cruise", description: "More time on the water, with a dedicated mangrove forest cruise.", price: "From $169", duration: "4 hours", image: IMG.sunriseLake },
+                    },
+                    {
+                        title: "When to go",
+                        content: "The village looks dramatically different by season — during the wet season (roughly June-November) the water is high and houses appear to float; in the dry season the stilts are fully exposed and the water recedes far from the houses. Ask the operator what the water level looks like on your travel dates before booking. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+                    },
+                ],
+                faqs: [
+                    { q: "What is the best floating village tour from Siem Reap?", a: "A Kampong Phluk boat tour suits most visitors — it's the closest village, genuinely lived-in, and the mangrove approach by boat is scenic on its own." },
+                    { q: "Kampong Phluk or Kompong Khleang — which floating village is better?", a: "Kampong Phluk is closer and easier; Kompong Khleang is further but sees far fewer tourists, worth it if you want the quieter option." },
+                    { q: "What season is best for a floating village tour?", a: "Wet season (roughly June-November) shows the houses genuinely floating on high water; dry season exposes the stilts with the water far from the houses. Ask about current conditions before booking." },
+                    { q: "Can I combine a floating village tour with Angkor temples?", a: "Yes — several tours pair the village with outlying temples like Beng Mealea and Koh Ker in one combined day." },
+                ],
+                jsonLd: {
+                    '@context': 'https://schema.org',
+                    '@type': 'FAQPage',
+                    mainEntity: [
+                        { '@type': 'Question', name: 'What is the best floating village tour from Siem Reap?', acceptedAnswer: { '@type': 'Answer', text: 'A Kampong Phluk boat tour suits most visitors — closest, genuinely lived-in, and scenic by boat.' } },
+                        { '@type': 'Question', name: 'Kampong Phluk or Kompong Khleang — which floating village is better?', acceptedAnswer: { '@type': 'Answer', text: 'Kampong Phluk is closer and easier; Kompong Khleang is further but quieter.' } },
+                        { '@type': 'Question', name: 'What season is best for a floating village tour?', acceptedAnswer: { '@type': 'Answer', text: 'Wet season (June-November) shows houses genuinely floating; dry season exposes the stilts.' } },
+                        { '@type': 'Question', name: 'Can I combine a floating village tour with Angkor temples?', acceptedAnswer: { '@type': 'Answer', text: 'Yes — several tours pair the village with outlying temples like Beng Mealea and Koh Ker.' } },
+                    ],
+                },
+            };
+
         default:
             return null;
     }
