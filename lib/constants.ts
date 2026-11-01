@@ -1184,6 +1184,7 @@ export const HANOI_INFO_SLUGS = [
   // GEO listicle page (2026-10)
   'best-tours-in-hanoi',
   'should-i-book-hanoi-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-hanoi',
 ];
 
 export const SAPA_INFO_SLUGS = [
@@ -1197,6 +1198,7 @@ export const SAPA_INFO_SLUGS = [
   'sapa-2-day-itinerary',
   'best-tours-in-sapa',
   'should-i-book-sapa-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-sapa',
 ];
 
 export const HOI_AN_INFO_SLUGS = [
@@ -1307,4 +1309,5 @@ export const HO_CHI_MINH_CITY_INFO_SLUGS = [
   // GEO listicle page (2026-10)
   'best-tours-in-ho-chi-minh-city',
   'should-i-book-ho-chi-minh-city-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-ho-chi-minh-city',
 ];

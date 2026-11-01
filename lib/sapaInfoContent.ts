@@ -655,6 +655,51 @@ export function getSapaInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-11-01)
+    case "how-much-should-a-private-tour-guide-cost-in-sapa":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Sapa?",
+        seoTitle: "Sapa Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private trekking guide or driver in Sapa in 2026, by tour type, so you know what's fair before you book.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private day trek** (terraced fields, Ta Van to Su Pan) typically runs **$38-39 solo**, roughly doubling per added traveller — though some operators flat-price a trek at **$88 regardless of group size**. A **private motorbike tour** (O Quy Ho Pass, Easy Rider-style) runs **$103-207 solo**. A **private Fansipan summit tour with cable car** runs **$283 flat for 1-2 people**. A **multi-day private trek with homestay** (2-4 days, Mu Cang Chai) runs **$259-830 solo**, scaling with length and transport (bungalow vs. full car-and-driver).",
+            tourCard: { slug: "private-fansipan-summit-tour-with-cable-car-and-guide", title: "Sapa: Private Fansipan Summit Tour with Cable Car & Guide", description: "A real example of flat pricing for 1-2 people on a premium guided summit tour.", price: "From $283", duration: "Full day", image: IMG },
+          },
+          {
+            title: "Trek, Motorbike, or Car — Different Products",
+            content: "A trekking guide's cost is mostly their time walking with you, which is why some operators price it flat for a small group. A motorbike tour (whether you ride or are a passenger) costs more because of the vehicle and the rider/guide's skill on mountain roads. A multi-day homestay trek bundles accommodation into the price, which is why it reads much higher than a single day — it's not actually more expensive per day.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private trekking guide quote well under $38 for a full day often means a less experienced guide or a shorter, easier route than advertised — a real concern in Sapa's mountain terrain, not just a comfort issue. For multi-day treks, confirm the homestay standard and exactly how many trekking hours per day are included.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly how many trekking hours per day are included, what the homestay or hotel standard is for multi-day trips, and whether a motorbike tour means you ride or are a passenger. On AsiaByLocals, every Sapa tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Sapa tours](/vietnam/sapa) to compare real, current prices directly.",
+            tourCard: { slug: "from-ta-van-private-trekking-tour-to-giang-ta-chai-and-su-pan-in-sapa", title: "From Ta Van: Private Trekking Tour to Giang Ta Chai & Su Pan", description: "A real example of standard private day-trek pricing that steps up per added traveller.", price: "From $39", duration: "Full day", image: IMG },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Sapa?", a: "A private day trek typically runs $38-39 solo, roughly doubling per added traveller. A private Fansipan summit tour with cable car runs $283 flat for 1-2 people." },
+          { q: "Why does a multi-day private Sapa trek cost so much more than a one-day trek?", a: "It bundles homestay accommodation into the price, which is why it reads much higher — it's not actually more expensive per trekking day." },
+          { q: "Is a very cheap private trekking guide quote in Sapa a red flag?", a: "Often yes — it can mean a less experienced guide or a shorter, easier route than advertised, a real safety concern in mountain terrain." },
+          { q: "What's usually included in a Sapa private trek price?", a: "Typically the guide's fee. Transport, meals and homestay accommodation for multi-day treks are sometimes separate — ask for the full breakdown before comparing prices." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Sapa?", "acceptedAnswer": { "@type": "Answer", "text": "A private day trek typically runs $38-39 solo. A private Fansipan summit tour with cable car runs $283 flat for 1-2 people." } },
+            { "@type": "Question", "name": "Why does a multi-day private Sapa trek cost so much more than a one-day trek?", "acceptedAnswer": { "@type": "Answer", "text": "It bundles homestay accommodation into the price, which is why it reads much higher per trip, not per day." } },
+            { "@type": "Question", "name": "Is a very cheap private trekking guide quote in Sapa a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a less experienced guide or a shorter route, a real safety concern in mountain terrain." } },
+            { "@type": "Question", "name": "What's usually included in a Sapa private trek price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the guide's fee; transport, meals and homestay accommodation are sometimes separate." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

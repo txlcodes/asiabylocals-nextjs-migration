@@ -733,6 +733,51 @@ export function getHoChiMinhCityInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-11-01)
+    case "how-much-should-a-private-tour-guide-cost-in-ho-chi-minh-city":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Ho Chi Minh City?",
+        seoTitle: "Ho Chi Minh City Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private guide or motorbike tour in Ho Chi Minh City (Saigon) in 2026, so you know what's fair before you book.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **4-hour private motorbike city tour** typically starts around **$38 solo**, roughly doubling per added traveller. A **private Cu Chi Tunnels tour with an English-speaking guide** runs **$307-343 flat for 1-2 people**, considerably more than the shared/group version ($30 per person) because of the guide's language skill and the private vehicle. A **private Mekong Delta day trip** (cycling, kayaking, Cu Chi combined) runs **$222-258 flat for 1-2 people**. A **multi-day private Mekong journey** (4-day sampan) runs **$3,623 flat for 1-2 people**, a genuinely different, longer product.",
+            tourCard: { slug: "private-authentic-michelin-food-and-sunset-rooftop-in-ho-chi-minh-city", title: "Saigon: Private Authentic Michelin Food & Sunset Rooftop", description: "A real example of flat pricing for 1-2 people on a private food tour.", price: "From $130", duration: "Half day", image: IMG },
+          },
+          {
+            title: "Why a Private Cu Chi Tunnels Tour Costs 10x a Group Tour",
+            content: "The group Cu Chi Tunnels tour ($30/person, up to 25 pax on one bus) and the private English-speaking-guide version ($307+ flat) are genuinely different products, not the same tour at different prices. The group tour uses a shared Vietnamese-narrated guide and a big bus on a fixed schedule; the private version gets you a dedicated fluent guide, a private vehicle, and your own timing. Decide based on whether you actually need that, not just price.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private motorbike tour quote well under $38 for 4 hours often means a shorter route or a driver with limited English narration. For the Mekong Delta, confirm whether kayaking and cooking are actually included — some cheaper \"private\" listings are the shared/base version without those activities, per the tour's own options list.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly whether the guide speaks fluent English, what activities are included (kayaking, cooking, specific tunnel sections), and whether it's a shared or private vehicle. On AsiaByLocals, every Ho Chi Minh City tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Ho Chi Minh City tours](/vietnam/ho-chi-minh-city) to compare real, current prices directly.",
+            tourCard: { slug: "4-hour-private-motorbike-guide-with-options-in-ho-chi-minh-city", title: "4-Hour Private Motorbike Guide with Options", description: "A real example of standard private motorbike-tour pricing that steps up per added traveller.", price: "From $38", duration: "4 hours", image: IMG },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Ho Chi Minh City?", a: "A 4-hour private motorbike city tour typically starts around $38 solo. A private Cu Chi Tunnels tour with an English-speaking guide runs $307-343 flat for 1-2 people." },
+          { q: "Why is a private Cu Chi Tunnels tour so much more than the group tour?", a: "They're different products — the group tour shares a bus and a Vietnamese-narrated guide on a fixed schedule, while the private version gets a dedicated fluent guide and your own timing." },
+          { q: "Is a very cheap private motorbike tour quote a red flag?", a: "Often yes — it can mean a shorter route or a driver with limited English narration." },
+          { q: "Does a private Mekong Delta tour always include kayaking and cooking?", a: "Not always — some cheaper listings are the shared/base version without those activities. Check the tour's own options before assuming they're included." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Ho Chi Minh City?", "acceptedAnswer": { "@type": "Answer", "text": "A 4-hour private motorbike city tour typically starts around $38 solo. A private Cu Chi Tunnels tour with an English-speaking guide runs $307-343 flat for 1-2 people." } },
+            { "@type": "Question", "name": "Why is a private Cu Chi Tunnels tour so much more than the group tour?", "acceptedAnswer": { "@type": "Answer", "text": "The group tour shares a bus and guide on a fixed schedule; the private version gets a dedicated fluent guide and private vehicle." } },
+            { "@type": "Question", "name": "Is a very cheap private motorbike tour quote a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a shorter route or limited English narration." } },
+            { "@type": "Question", "name": "Does a private Mekong Delta tour always include kayaking and cooking?", "acceptedAnswer": { "@type": "Answer", "text": "Not always — check the tour's own options before assuming they're included." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

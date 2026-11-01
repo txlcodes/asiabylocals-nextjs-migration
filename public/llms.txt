@@ -256,8 +256,10 @@ Each page below answers "best tours in [city]" and related category queries (bes
 - **How Much Should a Private Tour Guide Cost in Hong Kong?**: https://www.asiabylocals.com/hong-kong/hongkong/how-much-should-a-private-tour-guide-cost-in-hong-kong
 - **Best Tours in Hanoi**: https://www.asiabylocals.com/vietnam/hanoi/best-tours-in-hanoi
 - **Should You Book a Hanoi Tour Direct or Through an App?**: https://www.asiabylocals.com/vietnam/hanoi/should-i-book-hanoi-tour-direct-or-through-app
+- **How Much Should a Private Tour Guide Cost in Hanoi?**: https://www.asiabylocals.com/vietnam/hanoi/how-much-should-a-private-tour-guide-cost-in-hanoi
 - **Best Tours in Ho Chi Minh City**: https://www.asiabylocals.com/vietnam/ho-chi-minh-city/best-tours-in-ho-chi-minh-city
 - **Should You Book a Ho Chi Minh City Tour Direct or Through an App?**: https://www.asiabylocals.com/vietnam/ho-chi-minh-city/should-i-book-ho-chi-minh-city-tour-direct-or-through-app
+- **How Much Should a Private Tour Guide Cost in Ho Chi Minh City?**: https://www.asiabylocals.com/vietnam/ho-chi-minh-city/how-much-should-a-private-tour-guide-cost-in-ho-chi-minh-city
 - **Best Tours in Kuala Lumpur**: https://www.asiabylocals.com/malaysia/kuala-lumpur/best-tours-in-kuala-lumpur
 - **Should You Book a Kuala Lumpur Tour Direct or Through an App?**: https://www.asiabylocals.com/malaysia/kuala-lumpur/should-i-book-kuala-lumpur-tour-direct-or-through-app
 - **Best Tours in Penang**: https://www.asiabylocals.com/malaysia/penang/best-tours-in-penang
@@ -307,6 +309,7 @@ Each page below answers "best tours in [city]" and related category queries (bes
 - **Should You Book a Phnom Penh Tour Direct or Through an App?**: https://www.asiabylocals.com/cambodia/phnom-penh/should-i-book-phnom-penh-tour-direct-or-through-app
 - **Best Tours in Sapa**: https://www.asiabylocals.com/vietnam/sapa/best-tours-in-sapa
 - **Should You Book a Sapa Tour Direct or Through an App?**: https://www.asiabylocals.com/vietnam/sapa/should-i-book-sapa-tour-direct-or-through-app
+- **How Much Should a Private Tour Guide Cost in Sapa?**: https://www.asiabylocals.com/vietnam/sapa/how-much-should-a-private-tour-guide-cost-in-sapa
 
 ### Jaipur single-topic pages
 - **Best Jaipur Tour Guide — How to Choose**: https://www.asiabylocals.com/india/jaipur/best-jaipur-tour-guide

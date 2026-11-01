@@ -773,6 +773,51 @@ export function getHanoiInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-11-01)
+    case "how-much-should-a-private-tour-guide-cost-in-hanoi":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Hanoi?",
+        seoTitle: "Hanoi Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private guide or driver in Hanoi in 2026, by tour type, so you know what's fair before you book.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private half-day city highlights tour** in Hanoi typically starts around **$34 solo**, roughly doubling per added traveller. A **private street food walking tour** runs similarly, **$42-47 solo**. A **private full-day Ninh Binh car tour** runs **$147 flat for 1-2 people**, stepping up for 3+. The **Ha Giang Loop** — Hanoi's signature multi-day motorbike trip — varies hugely by vehicle and quality: a basic 3-day private-room package runs **$221 solo**, a higher-spec modern jeep version runs **$580-1,040 solo**, since the vehicle and guide quality differ substantially.",
+            tourCard: { slug: "private-half-day-city-highlights-and-hidden-gems-tour-in-hanoi", title: "Hanoi: Private Half-Day City Highlights and Hidden Gems Tour", description: "A real example of standard private half-day pricing that steps up per added traveller.", price: "From $34", duration: "Half day", image: IMG },
+          },
+          {
+            title: "Why Ha Giang Loop Prices Vary So Much",
+            content: "The Ha Giang Loop is sold at wildly different prices because the product varies: a basic shared jeep with a private room at the hotel, versus a genuinely modern open-air jeep with a dedicated guide and better accommodation. A $221 and a $1,040 quote for \"the same 3-day loop\" are often not the same trip at all — ask specifically about the vehicle age/type and group size before comparing price alone.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private city tour quote well under $34 for a half day often means a shorter route or a driver without real local narration. For the Ha Giang Loop specifically, a price far below the ranges above is the single biggest red flag in Hanoi tourism — it usually means an old, poorly maintained jeep or motorbike, which matters for safety on mountain roads, not just comfort.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly what vehicle is used, how many people share it, and what's included (meals, hotel, fuel). On AsiaByLocals, every Hanoi tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Hanoi tours](/vietnam/hanoi) to compare real, current prices directly.",
+            tourCard: { slug: "ninh-binh-full-day-private-car-tour", title: "From Ninh Binh: Full-Day Private Transfer, Guide & Lunch", description: "A real example of flat pricing for 1-2 people on a full-day private car tour.", price: "From $147", duration: "Full day", image: IMG },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Hanoi?", a: "A private half-day city highlights tour typically starts around $34 solo. A private full-day Ninh Binh car tour runs $147 flat for 1-2 people." },
+          { q: "Why does the Ha Giang Loop range from $221 to $1,040?", a: "The vehicle and guide quality vary hugely — a basic shared jeep versus a modern open-air jeep with a dedicated guide are very different products despite being sold under the same name." },
+          { q: "Is a very cheap Ha Giang Loop quote a red flag?", a: "Yes, often more than for other tours — it can mean an old, poorly maintained jeep or motorbike, which is a safety issue on mountain roads, not just a comfort one." },
+          { q: "What's usually included in a Hanoi private tour price?", a: "Typically the guide or driver's fee and the vehicle. Meals, hotel and entrance fees are sometimes separate — ask for the full breakdown before comparing prices." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Hanoi?", "acceptedAnswer": { "@type": "Answer", "text": "A private half-day city highlights tour typically starts around $34 solo. A private full-day Ninh Binh car tour runs $147 flat for 1-2 people." } },
+            { "@type": "Question", "name": "Why does the Ha Giang Loop range from $221 to $1,040?", "acceptedAnswer": { "@type": "Answer", "text": "The vehicle and guide quality vary hugely between a basic shared jeep and a modern open-air jeep with a dedicated guide." } },
+            { "@type": "Question", "name": "Is a very cheap Ha Giang Loop quote a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — it can mean an old, poorly maintained jeep or motorbike, a real safety concern on mountain roads." } },
+            { "@type": "Question", "name": "What's usually included in a Hanoi private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the guide or driver's fee and the vehicle; meals, hotel and entrance fees are sometimes separate." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

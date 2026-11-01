@@ -901,6 +901,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'hanoi-cultural-shows-and-workshops',
     'hanoi-history-tour-guide',
     'best-tours-in-hanoi', 'should-i-book-hanoi-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-hanoi',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/hanoi/${slug}`,
     lastModified: new Date(),
@@ -917,6 +918,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'sapa-markets-and-bac-ha-guide',
     'mu-cang-chai-and-rice-terrace-guide',
     'sapa-2-day-itinerary', 'best-tours-in-sapa', 'should-i-book-sapa-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-sapa',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/sapa/${slug}`,
     lastModified: new Date(),
@@ -1053,6 +1055,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'saigon-cooking-classes-guide',
     'saigon-day-trips-guide',
     'best-tours-in-ho-chi-minh-city', 'should-i-book-ho-chi-minh-city-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-ho-chi-minh-city',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/ho-chi-minh-city/${slug}`,
     lastModified: new Date(),
