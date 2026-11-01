@@ -189635,7 +189635,7 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "SeaWorld Abu Dhabi : entree generale et options supplementaires",
   "metaDescription": "Experience de 0,5 heure(s) a Abu Dhabi. Abrite le plus grand aquarium multi-especes au monde. Propose par MIRAL EXPERIENCES L.L.C.",
   "shortDescription": "Experience de 0,5 heure(s) a Abu Dhabi. Abrite le plus grand aquarium multi-especes au monde. Propose par MIRAL EXPERIENCES L.L.C.",
-  "fullDescription": "Une experience de 0,5 heure(s) a Abu Dhabi. Abrite le plus grand aquarium multi-especes au monde.\n\nMIRAL EXPERIENCES L.L.C s'en charge, et 3 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend acces illimite toute la journee aux manieges, attractions, presentations animalieres et mondes immersifs de SeaWorld Abu Dhabi, important : les experiences additionnelles n'incluent pas l'entree a SeaWorld Abu Dhabi. Un billet d'entree generale valide est requis pour entrer dans le parc et profiter de ces experiences et stationnement offert et navette gratuite au sein de Yas Island. Il ne comprend pas , prevoyez donc un budget separe.",
+  "fullDescription": "Une experience de 0,5 heure(s) a Abu Dhabi. Abrite le plus grand aquarium multi-especes au monde.\n\nMIRAL EXPERIENCES L.L.C s'en charge, et 3 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend acces illimite toute la journee aux manieges, attractions, presentations animalieres et mondes immersifs de SeaWorld Abu Dhabi, important : les experiences additionnelles n'incluent pas l'entree a SeaWorld Abu Dhabi. Un billet d'entree generale valide est requis pour entrer dans le parc et profiter de ces experiences et stationnement offert et navette gratuite au sein de Yas Island. Il ne comprend pas les mises a niveau Quick Pass/Fast Track ne sont pas incluses et peuvent etre achetees separement dans les parcs et nourriture et boissons, prevoyez donc un budget separe.",
   "highlights": [
    "Abrite le plus grand aquarium multi-especes au monde"
   ],
@@ -189645,7 +189645,8 @@ export const FR_TOURS: Record<string, TourT> = {
    "Stationnement offert et navette gratuite au sein de Yas Island"
   ],
   "notIncluded": [
-   ""
+   "Les mises a niveau Quick Pass/Fast Track ne sont pas incluses et peuvent etre achetees separement dans les parcs",
+   "Nourriture et boissons"
   ]
  },
  "abu-dhabi-yas-waterworld-entry-ticket": {
@@ -191131,15 +191132,18 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Croisiere privee en yacht de 50 pieds a Dubai",
   "metaDescription": "Une excursion de 1 heure(s) au depart de Dubai passant par Dubai Eye. Propose par Supernova Yacht.",
   "shortDescription": "Une excursion de 1 heure(s) au depart de Dubai passant par Dubai Eye. Propose par Supernova Yacht.",
-  "fullDescription": "Une excursion de 1 heure(s) au depart de Dubai, passant par Dubai Eye.\n\nSupernova Yacht s'en charge, et 4 elements sont inclus dans le prix. L'annulation est gratuite. Visite incroyable de la skyline de Dubai pour jusqu'a 19 invites.\n\nLe prix comprend les lieux de la visite dependront de la duree selectionnee. Les options doivent etre discutees avec le capitaine au moment de l'embarquement. Il ne comprend pas , prevoyez donc un budget separe. Deux voyageurs paient 331 $ ensemble plutot que 331 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "fullDescription": "Une excursion de 1 heure(s) au depart de Dubai, passant par Dubai Eye.\n\nSupernova Yacht s'en charge, et 4 elements sont inclus dans le prix. L'annulation est gratuite. Visite incroyable de la skyline de Dubai pour jusqu'a 19 invites.\n\nLe prix comprend les lieux de la visite dependront de la duree selectionnee. Les options doivent etre discutees avec le capitaine au moment de l'embarquement, remarque : la baignade n'est autorisee qu'avant le coucher du soleil, inclusions offertes : et eau, jus, glace, couverts et vaisselle, glaciere. Il ne comprend pas option peche avec materiel et appats, jet-ski, barbecue grille en direct a bord, gateau d'anniversaire, decoration de ballons, prevoyez donc un budget separe. Deux voyageurs paient 331 $ ensemble plutot que 331 $ chacun, car le prix est fixe par groupe et non par personne.",
   "highlights": [
    "Une excursion de 1 heure(s) au depart de Dubai passant par Dubai Eye. Propose par Supernova Yacht."
   ],
   "included": [
-   "Les lieux de la visite dependront de la duree selectionnee. Les options doivent etre discutees avec le capitaine au moment de l'embarquement"
+   "Les lieux de la visite dependront de la duree selectionnee. Les options doivent etre discutees avec le capitaine au moment de l'embarquement",
+   "Remarque : la baignade n'est autorisee qu'avant le coucher du soleil",
+   "Inclusions offertes :",
+   "Eau, jus, glace, couverts et vaisselle, glaciere"
   ],
   "notIncluded": [
-   ""
+   "Option peche avec materiel et appats, jet-ski, barbecue grille en direct a bord, gateau d'anniversaire, decoration de ballons"
   ]
  },
  "dubai-superyacht-party-with-live-dj-open-bar": {
@@ -191207,7 +191211,7 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Safari desertique a Dubai : balade a dos de chameau, sandboard...",
   "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV, Dubai, Lahbab Desert et Lahbab Desert. Propose par Dream Journey.",
   "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV, Dubai, Lahbab Desert et Lahbab Desert. Propose par Dream Journey.",
-  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Jeep / SUV, Dubai, Lahbab Desert et Lahbab Desert. Il y a 5 arrets au total.\n\nL'ordre de visite est Jeep / SUV (50 min), puis Dubai, puis Lahbab Desert (30 min), puis Lahbab Desert (45 min), puis Lahbab Desert (30 min).\n\nLe prix comprend prise en charge et depose a l'hotel, guide de safari licencie et experimente, 45 minutes de dune bashing en vehicule 4x4 et courte balade a dos de chameau (environ 2 minutes). Il ne comprend pas , prevoyez donc un budget separe.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Jeep / SUV, Dubai, Lahbab Desert et Lahbab Desert. Il y a 5 arrets au total.\n\nL'ordre de visite est Jeep / SUV (50 min), puis Dubai, puis Lahbab Desert (30 min), puis Lahbab Desert (45 min), puis Lahbab Desert (30 min).\n\nLe prix comprend prise en charge et depose a l'hotel, guide de safari licencie et experimente, 45 minutes de dune bashing en vehicule 4x4 et courte balade a dos de chameau (environ 2 minutes). Il ne comprend pas pourboires, repas et prise en charge depuis des lieux hors de Dubai (visite privee uniquement), prevoyez donc un budget separe.",
   "highlights": [
    "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV, Dubai, Lahbab Desert et Lahbab Desert. Propose par Dream Journey."
   ],
@@ -191218,7 +191222,9 @@ export const FR_TOURS: Record<string, TourT> = {
    "Courte balade a dos de chameau (environ 2 minutes)"
   ],
   "notIncluded": [
-   ""
+   "Pourboires",
+   "Repas",
+   "Prise en charge depuis des lieux hors de Dubai (visite privee uniquement)"
   ]
  },
  "1-hours-tridational-boat-ride-at-creek-canalold-du": {
@@ -192521,17 +192527,19 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai : vol en montgolfiere de luxe avec petit-dejeuner concu ...",
   "metaDescription": "Experience d'une demi-journee a Dubai. Profitez d'un trajet vers le desert dans un Land Rover Defender moderne. Propose par Balloon Adventures Dubai.",
   "shortDescription": "Experience d'une demi-journee a Dubai. Profitez d'un trajet vers le desert dans un Land Rover Defender moderne. Propose par Balloon Adventures Dubai.",
-  "fullDescription": "Une experience d'une demi-journee a Dubai. Profitez d'un trajet vers le desert dans un Land Rover Defender moderne.\n\nBalloon Adventures Dubai s'en charge, et 6 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge et depose a Dubai, briefing de securite avec le pilote de la montgolfiere et vol en montgolfiere au lever du soleil d'environ 1 heure. Il ne comprend pas , prevoyez donc un budget separe.",
+  "fullDescription": "Une experience d'une demi-journee a Dubai. Profitez d'un trajet vers le desert dans un Land Rover Defender moderne.\n\nBalloon Adventures Dubai s'en charge, et 6 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge et depose a Dubai, briefing de securite avec le pilote de la montgolfiere, vol en montgolfiere au lever du soleil d'environ 1 heure et fauconnerie en vol et conteur. Il ne comprend pas photos et video et pourboires, prevoyez donc un budget separe.",
   "highlights": [
    "Profitez d'un trajet vers le desert dans un Land Rover Defender moderne"
   ],
   "included": [
    "Prise en charge et depose a Dubai",
    "Briefing de securite avec le pilote de la montgolfiere",
-   "Vol en montgolfiere au lever du soleil d'environ 1 heure"
+   "Vol en montgolfiere au lever du soleil d'environ 1 heure",
+   "Fauconnerie en vol et conteur"
   ],
   "notIncluded": [
-   ""
+   "Photos et video",
+   "Pourboires"
   ]
  },
  "dubai-horse-riding-experience-at-m11-equestrian-cl": {
@@ -192762,15 +192770,17 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Abu Dhabi : experience de karting Al Forsan",
   "metaDescription": "Experience de 0,5 heure(s) a Abu Dhabi. Ressentez le frisson de la course sur la piste de karting. Propose par Al Forsan.",
   "shortDescription": "Experience de 0,5 heure(s) a Abu Dhabi. Ressentez le frisson de la course sur la piste de karting. Propose par Al Forsan.",
-  "fullDescription": "Une experience de 0,5 heure(s) a Abu Dhabi. Ressentez le frisson de la course sur la piste de karting.\n\nAl Forsan s'en charge, et 2 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend session de karting de 15 minutes avec gants et cagoule. Il ne comprend pas , prevoyez donc un budget separe.",
+  "fullDescription": "Une experience de 0,5 heure(s) a Abu Dhabi. Ressentez le frisson de la course sur la piste de karting.\n\nAl Forsan s'en charge, et 2 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend session de karting de 15 minutes avec gants et cagoule et briefing de securite. Il ne comprend pas nourriture et boissons et prise en charge et depose a l'hotel, prevoyez donc un budget separe.",
   "highlights": [
    "Ressentez le frisson de la course sur la piste de karting"
   ],
   "included": [
-   "Session de karting de 15 minutes avec gants et cagoule"
+   "Session de karting de 15 minutes avec gants et cagoule",
+   "Briefing de securite"
   ],
   "notIncluded": [
-   ""
+   "Nourriture et boissons",
+   "Prise en charge et depose a l'hotel"
   ]
  },
  "evening-desert-safari-tour-with-dinner-entertainme": {
@@ -192937,15 +192947,20 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Abu Dhabi : billet d'entree pour Warner Bros. World et visite ...",
   "metaDescription": "Experience d'une journee complete a Abu Dhabi. Profitez d'un transfert prive vers Warner Bros. World Abu Dhabi en GMC Yukon. Propose par HARBOR TOURISM LLC.",
   "shortDescription": "Experience d'une journee complete a Abu Dhabi. Profitez d'un transfert prive vers Warner Bros. World Abu Dhabi en GMC Yukon. Propose par HARBOR TOURISM LLC.",
-  "fullDescription": "Une experience d'une journee complete a Abu Dhabi. Profitez d'un transfert prive vers Warner Bros. World Abu Dhabi en GMC Yukon.\n\nHARBOR TOURISM LLC s'en charge, et 9 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend billets d'entree pour Warner Bros. World Abu Dhabi. Il ne comprend pas , prevoyez donc un budget separe. Deux voyageurs paient 1198 $ ensemble plutot que 952 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "fullDescription": "Une experience d'une journee complete a Abu Dhabi. Profitez d'un transfert prive vers Warner Bros. World Abu Dhabi en GMC Yukon.\n\nHARBOR TOURISM LLC s'en charge, et 9 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend billets d'entree pour Warner Bros. World Abu Dhabi, transport prive dans un GMC Yukon haut de gamme, prise en charge et retour depuis l'hotel ou la residence et variete de manages passionnants. Il ne comprend pas nourriture et boissons, depenses personnelles et souvenirs, prevoyez donc un budget separe. Deux voyageurs paient 1198 $ ensemble plutot que 952 $ chacun, car le prix est fixe par groupe et non par personne.",
   "highlights": [
    "Profitez d'un transfert prive vers Warner Bros. World Abu Dhabi en GMC Yukon"
   ],
   "included": [
-   "Billets d'entree pour Warner Bros. World Abu Dhabi"
+   "Billets d'entree pour Warner Bros. World Abu Dhabi",
+   "Transport prive dans un GMC Yukon haut de gamme",
+   "Prise en charge et retour depuis l'hotel ou la residence",
+   "Variete de manages passionnants"
   ],
   "notIncluded": [
-   ""
+   "Nourriture et boissons",
+   "Depenses personnelles",
+   "Souvenirs"
   ]
  },
  "dubai-desert-safari-dune-adventure-bbq-dinner-quad": {
@@ -193791,15 +193806,19 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Croisiere en yacht a Dubai Marina avec billet d'entree pour Ai...",
   "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Dubai Marina, Ain Dubai et Jumeirah Beach Residence. Propose par 360 Adventures Tourism LLC.",
   "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Dubai Marina, Ain Dubai et Jumeirah Beach Residence. Propose par 360 Adventures Tourism LLC.",
-  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Dubai Marina, Ain Dubai et Jumeirah Beach Residence. Il y a 3 arrets au total.\n\nL'ordre de visite est Dubai Marina (20 min), puis Ain Dubai (10 min), puis Jumeirah Beach Residence (20 min).\n\nLe prix comprend billets d'entree pour Ain Dubai (cabine partagee) aux heures non-pleines (12h00 a 16h30 et a partir de 20h00). Il ne comprend pas , prevoyez donc un budget separe.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Dubai Marina, Ain Dubai et Jumeirah Beach Residence. Il y a 3 arrets au total.\n\nL'ordre de visite est Dubai Marina (20 min), puis Ain Dubai (10 min), puis Jumeirah Beach Residence (20 min).\n\nLe prix comprend billets d'entree pour Ain Dubai (cabine partagee) aux heures non-pleines (12h00 a 16h30 et a partir de 20h00), entree a une excursion en yacht de 1,5 heure l'apres-midi, membres d'equipage professionnels et eau en bouteille illimitee. Il ne comprend pas repas et transport aller-retour depuis le port, prevoyez donc un budget separe.",
   "highlights": [
    "Une excursion d'une demi-journee au depart de Dubai passant par Dubai Marina, Ain Dubai et Jumeirah Beach Residence. Propose par 360 Adventures Tourism LLC."
   ],
   "included": [
-   "Billets d'entree pour Ain Dubai (cabine partagee) aux heures non-pleines (12h00 a 16h30 et a partir de 20h00)"
+   "Billets d'entree pour Ain Dubai (cabine partagee) aux heures non-pleines (12h00 a 16h30 et a partir de 20h00)",
+   "Entree a une excursion en yacht de 1,5 heure l'apres-midi",
+   "Membres d'equipage professionnels",
+   "Eau en bouteille illimitee"
   ],
   "notIncluded": [
-   ""
+   "Repas",
+   "Transport aller-retour depuis le port"
   ]
  },
  "dubai-desert-safari-with-quad-bike-camel-ride-bbq": {
@@ -194082,15 +194101,18 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai : experience en jet car avec transferts prives",
   "metaDescription": "Une excursion de 0,333333 heure(s) au depart de Dubai passant par Umm Suqeim. Propose par Travzi World Travel & Tourism LLC.",
   "shortDescription": "Une excursion de 0,333333 heure(s) au depart de Dubai passant par Umm Suqeim. Propose par Travzi World Travel & Tourism LLC.",
-  "fullDescription": "Une excursion de 0,333333 heure(s) au depart de Dubai, passant par Umm Suqeim. Le plus long arret est Umm Suqeim, d'environ 1 heure.\n\nLe prix comprend 1. Trajet en Jet Car selon l'option selectionnee |20 min|30 min|60 min|. Il ne comprend pas , prevoyez donc un budget separe. Deux voyageurs paient 484 $ ensemble plutot que 484 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "fullDescription": "Une excursion de 0,333333 heure(s) au depart de Dubai, passant par Umm Suqeim. Le plus long arret est Umm Suqeim, d'environ 1 heure.\n\nLe prix comprend 1. Trajet en Jet Car selon l'option selectionnee |20 min|30 min|60 min|, 2. Gilet de sauvetage, 3. Capitaine bien forme et 4. Vehicule climatise. Il ne comprend pas nourriture et boissons, prevoyez donc un budget separe. Deux voyageurs paient 484 $ ensemble plutot que 484 $ chacun, car le prix est fixe par groupe et non par personne.",
   "highlights": [
    "Une excursion de 0,333333 heure(s) au depart de Dubai passant par Umm Suqeim. Propose par Travzi World Travel & Tourism LLC."
   ],
   "included": [
-   "1. Trajet en Jet Car selon l'option selectionnee |20 min|30 min|60 min|"
+   "1. Trajet en Jet Car selon l'option selectionnee |20 min|30 min|60 min|",
+   "2. Gilet de sauvetage",
+   "3. Capitaine bien forme",
+   "4. Vehicule climatise"
   ],
   "notIncluded": [
-   ""
+   "Nourriture et boissons"
   ]
  },
  "2-day-city-tour-dubai-abu-dhabi-yacht-experience": {
@@ -194779,17 +194801,19 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Visite de la ville d'Abu Dhabi avec Qasr Al Watan",
   "metaDescription": "Une excursion d'une journee complete au depart de Abu Dhabi passant par Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Emirates Palace et Qasr Al Watan. Propose pa...",
   "shortDescription": "Une excursion d'une journee complete au depart de Abu Dhabi passant par Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Emirates Palace et Qasr Al Watan. Propose par Ammar Tours.",
-  "fullDescription": "Une excursion d'une journee complete au depart de Abu Dhabi, passant par Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Emirates Palace et Qasr Al Watan. Il y a 4 arrets au total.\n\nL'ordre de visite est Sheikh Zayed Mosque, puis The Corniche, Abu Dhabi, puis Emirates Palace, puis Qasr Al Watan.\n\nLe prix comprend prise en charge et depose a l'hotel, transport en vehicule climatise et visite d'1h30 a la Grande Mosquee Sheikh Zayed. Il ne comprend pas , prevoyez donc un budget separe.",
+  "fullDescription": "Une excursion d'une journee complete au depart de Abu Dhabi, passant par Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Emirates Palace et Qasr Al Watan. Il y a 4 arrets au total.\n\nL'ordre de visite est Sheikh Zayed Mosque, puis The Corniche, Abu Dhabi, puis Emirates Palace, puis Qasr Al Watan.\n\nLe prix comprend prise en charge et depose a l'hotel, transport en vehicule climatise, visite d'1h30 a la Grande Mosquee Sheikh Zayed et billets pour le palais Qasr Al Watan. Il ne comprend pas repas et pourboires, prevoyez donc un budget separe.",
   "highlights": [
    "Une excursion d'une journee complete au depart de Abu Dhabi passant par Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Emirates Palace et Qasr Al Watan. Propose par Ammar Tours."
   ],
   "included": [
    "Prise en charge et depose a l'hotel",
    "Transport en vehicule climatise",
-   "Visite d'1h30 a la Grande Mosquee Sheikh Zayed"
+   "Visite d'1h30 a la Grande Mosquee Sheikh Zayed",
+   "Billets pour le palais Qasr Al Watan"
   ],
   "notIncluded": [
-   ""
+   "Repas",
+   "Pourboires"
   ]
  },
  "from-abu-dhabi-snorkeling-with-turtles-in-fujairah": {
@@ -195138,7 +195162,7 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai : buggy des dunes V6 3000cc et sandboard, visite privee",
   "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Lahbab Desert Safari. Propose par ARABIAN EXPEDITION Dubai.",
   "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Lahbab Desert Safari. Propose par ARABIAN EXPEDITION Dubai.",
-  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Lahbab Desert Safari.\n\nLe prix comprend transferts prives en vehicules de luxe depuis n'importe ou a Dubai, y compris hotels, residences, et autres lieux, guide dedie avec d'excellentes competences en communication, balade d'une heure en buggy des dunes, visite guidee (3000cc, moteur V6, transmission automatique). Assure jusqu'a 5 millions d'AED, sandboard et safari desertique offerts, acces au salon des invites avec cafe arabe de bienvenue, dattes, boissons gazeuses et eau et acces au Wi-Fi gratuit. Il ne comprend pas , prevoyez donc un budget separe.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Lahbab Desert Safari.\n\nLe prix comprend transferts prives en vehicules de luxe depuis n'importe ou a Dubai, y compris hotels, residences, et autres lieux, guide dedie avec d'excellentes competences en communication, balade d'une heure en buggy des dunes, visite guidee (3000cc, moteur V6, transmission automatique). Assure jusqu'a 5 millions d'AED, sandboard et safari desertique offerts, acces au salon des invites avec cafe arabe de bienvenue, dattes, boissons gazeuses et eau, acces au Wi-Fi gratuit et le client peut choisir facilement n'importe quel creneau de 6h a 21h, tous les jours de la semaine. Il ne comprend pas les boissons alcoolisees ne sont pas servies pendant l'excursion et les foulards ne font pas partie de l'excursion et sont disponibles a l'achat, prevoyez donc un budget separe.",
   "highlights": [
    "Une excursion d'une demi-journee au depart de Dubai passant par Lahbab Desert Safari. Propose par ARABIAN EXPEDITION Dubai."
   ],
@@ -195148,10 +195172,12 @@ export const FR_TOURS: Record<string, TourT> = {
    "Balade d'une heure en buggy des dunes, visite guidee (3000cc, moteur V6, transmission automatique). Assure jusqu'a 5 millions d'AED",
    "Sandboard et safari desertique offerts",
    "Acces au salon des invites avec cafe arabe de bienvenue, dattes, boissons gazeuses et eau",
-   "Acces au Wi-Fi gratuit"
+   "Acces au Wi-Fi gratuit",
+   "Le client peut choisir facilement n'importe quel creneau de 6h a 21h, tous les jours de la semaine"
   ],
   "notIncluded": [
-   ""
+   "Les boissons alcoolisees ne sont pas servies pendant l'excursion",
+   "Les foulards ne font pas partie de l'excursion et sont disponibles a l'achat"
   ]
  },
  "jet-car-squad-goals-4-seats-1-epic-ride": {
@@ -195723,16 +195749,20 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Abu Dhabi : visite de la mosquee et de Warner Bros depuis Abu ...",
   "metaDescription": "Experience d'une demi-journee a Abu Dhabi. Decouvrez les points forts d'Abu Dhabi. Propose par DMC Arabia Tourism LLC.",
   "shortDescription": "Experience d'une demi-journee a Abu Dhabi. Decouvrez les points forts d'Abu Dhabi. Propose par DMC Arabia Tourism LLC.",
-  "fullDescription": "Une experience d'une demi-journee a Abu Dhabi. Decouvrez les points forts d'Abu Dhabi.\n\nDMC Arabia Tourism LLC s'en charge, et 6 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend audioguide multilingue et guide anglophone licencie et billet d'entree pour Warner Bros. Il ne comprend pas , prevoyez donc un budget separe.",
+  "fullDescription": "Une experience d'une demi-journee a Abu Dhabi. Decouvrez les points forts d'Abu Dhabi.\n\nDMC Arabia Tourism LLC s'en charge, et 6 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend audioguide multilingue et guide anglophone licencie, billet d'entree pour Warner Bros, prise en charge a votre hotel par le personnel de Gray Line et entree - Centre de la Grande Mosquee Sheikh Zayed. Il ne comprend pas depenses personnelles, entree a l'Emirates Palace et entree a Ferrari World ou Yas Waterworld, prevoyez donc un budget separe.",
   "highlights": [
    "Decouvrez les points forts d'Abu Dhabi"
   ],
   "included": [
    "Audioguide multilingue et guide anglophone licencie",
-   "Billet d'entree pour Warner Bros."
+   "Billet d'entree pour Warner Bros.",
+   "Prise en charge a votre hotel par le personnel de Gray Line",
+   "Entree - Centre de la Grande Mosquee Sheikh Zayed"
   ],
   "notIncluded": [
-   ""
+   "Depenses personnelles",
+   "Entree a l'Emirates Palace",
+   "Entree a Ferrari World ou Yas Waterworld"
   ]
  },
  "abu-dhabi-private-yacht-formula-1-luxury-experienc": {
@@ -196889,15 +196919,18 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Visite express du Louvre Abu Dhabi avec un guide emirati",
   "metaDescription": "Experience de 1,5 heure(s) a Abu Dhabi. Guide passionne et licencie pour le Louvre Abu Dhabi. Propose par Tours By Emirati.",
   "shortDescription": "Experience de 1,5 heure(s) a Abu Dhabi. Guide passionne et licencie pour le Louvre Abu Dhabi. Propose par Tours By Emirati.",
-  "fullDescription": "Une experience de 1,5 heure(s) a Abu Dhabi. Guide passionne et licencie pour le Louvre Abu Dhabi.\n\nTours By Emirati s'en charge, et 3 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend 1. Prise en charge et depose depuis l'hotel. Il ne comprend pas , prevoyez donc un budget separe.",
+  "fullDescription": "Une experience de 1,5 heure(s) a Abu Dhabi. Guide passionne et licencie pour le Louvre Abu Dhabi.\n\nTours By Emirati s'en charge, et 3 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend 1. Prise en charge et depose depuis l'hotel, 2. Billet d'entree et 3. Visite guidee avec explications sur les principales oeuvres emblematiques a l'interieur et a l'exterieur du musee Louvre Abu Dhabi. Il ne comprend pas pas de repas et pas de pourboires, prevoyez donc un budget separe.",
   "highlights": [
    "Guide passionne et licencie pour le Louvre Abu Dhabi"
   ],
   "included": [
-   "1. Prise en charge et depose depuis l'hotel"
+   "1. Prise en charge et depose depuis l'hotel",
+   "2. Billet d'entree",
+   "3. Visite guidee avec explications sur les principales oeuvres emblematiques a l'interieur et a l'exterieur du musee Louvre Abu Dhabi"
   ],
   "notIncluded": [
-   ""
+   "Pas de repas",
+   "Pas de pourboires"
   ]
  },
  "abu-dhabi-private-fishing-trip-with-captain": {
@@ -197708,7 +197741,7 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Safari desertique a Dubai : diner barbecue premium et option quad",
   "metaDescription": "Une excursion d'une journee complete au depart de Dubai passant par Jeep / SUV, Dubai, Lahbab Desert et Lahbab Desert. Propose par Dream Journey.",
   "shortDescription": "Une excursion d'une journee complete au depart de Dubai passant par Jeep / SUV, Dubai, Lahbab Desert et Lahbab Desert. Propose par Dream Journey.",
-  "fullDescription": "Une excursion d'une journee complete au depart de Dubai, passant par Jeep / SUV, Dubai, Lahbab Desert et Lahbab Desert. Le plus long arret est Lahbab Desert, d'environ 2 heures. Il y a 9 arrets au total.\n\nL'ordre de visite est Jeep / SUV (50 min), puis Dubai, puis Lahbab Desert (30 min), puis Lahbab Desert (45 min), puis Lahbab Desert (30 min).\n\nLe prix comprend prise en charge et depose a l'hotel en 4x4, session de dune bashing de 45 minutes, sandboard sur les dunes rouges et courte balade a dos de chameau (environ 2 a 3 minutes). Il ne comprend pas , prevoyez donc un budget separe.",
+  "fullDescription": "Une excursion d'une journee complete au depart de Dubai, passant par Jeep / SUV, Dubai, Lahbab Desert et Lahbab Desert. Le plus long arret est Lahbab Desert, d'environ 2 heures. Il y a 9 arrets au total.\n\nL'ordre de visite est Jeep / SUV (50 min), puis Dubai, puis Lahbab Desert (30 min), puis Lahbab Desert (45 min), puis Lahbab Desert (30 min).\n\nLe prix comprend prise en charge et depose a l'hotel en 4x4, session de dune bashing de 45 minutes, sandboard sur les dunes rouges et courte balade a dos de chameau (environ 2 a 3 minutes). Il ne comprend pas pourboires, boissons alcoolisees et chicha (disponible en supplement), prevoyez donc un budget separe.",
   "highlights": [
    "Une excursion d'une journee complete au depart de Dubai passant par Jeep / SUV, Dubai, Lahbab Desert et Lahbab Desert. Propose par Dream Journey."
   ],
@@ -197719,7 +197752,9 @@ export const FR_TOURS: Record<string, TourT> = {
    "Courte balade a dos de chameau (environ 2 a 3 minutes)"
   ],
   "notIncluded": [
-   ""
+   "Pourboires",
+   "Boissons alcoolisees",
+   "Chicha (disponible en supplement)"
   ]
  },
  "private-dubai-old-town-tourstreet-foodboat-museums": {
@@ -198249,15 +198284,18 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai : location de bateau de 40 pieds pour une croisiere en mer",
   "metaDescription": "Une excursion de 1 heure(s) au depart de Dubai passant par Jumeirah Beach Residence, Dubai Eye et Burj Al Arab. Propose par Supernova Yacht.",
   "shortDescription": "Une excursion de 1 heure(s) au depart de Dubai passant par Jumeirah Beach Residence, Dubai Eye et Burj Al Arab. Propose par Supernova Yacht.",
-  "fullDescription": "Une excursion de 1 heure(s) au depart de Dubai, passant par Jumeirah Beach Residence, Dubai Eye et Burj Al Arab. Il y a 3 arrets au total.\n\nL'ordre de visite est Jumeirah Beach Residence, puis Dubai Eye, puis Burj Al Arab.\n\nLe prix comprend les lieux de la visite dependront de la duree selectionnee. Les options doivent etre discutees avec le capitaine au moment de l'embarquement. Il ne comprend pas , prevoyez donc un budget separe.",
+  "fullDescription": "Une excursion de 1 heure(s) au depart de Dubai, passant par Jumeirah Beach Residence, Dubai Eye et Burj Al Arab. Il y a 3 arrets au total.\n\nL'ordre de visite est Jumeirah Beach Residence, puis Dubai Eye, puis Burj Al Arab.\n\nLe prix comprend les lieux de la visite dependront de la duree selectionnee. Les options doivent etre discutees avec le capitaine au moment de l'embarquement, remarque : la baignade n'est autorisee qu'avant le coucher du soleil, inclusions offertes : et eau, jus, glace, couverts et vaisselle, glaciere. Il ne comprend pas option peche avec materiel et appats, jet-ski, barbecue grille en direct a bord, gateau d'anniversaire, decoration de ballons, prevoyez donc un budget separe.",
   "highlights": [
    "Une excursion de 1 heure(s) au depart de Dubai passant par Jumeirah Beach Residence, Dubai Eye et Burj Al Arab. Propose par Supernova Yacht."
   ],
   "included": [
-   "Les lieux de la visite dependront de la duree selectionnee. Les options doivent etre discutees avec le capitaine au moment de l'embarquement"
+   "Les lieux de la visite dependront de la duree selectionnee. Les options doivent etre discutees avec le capitaine au moment de l'embarquement",
+   "Remarque : la baignade n'est autorisee qu'avant le coucher du soleil",
+   "Inclusions offertes :",
+   "Eau, jus, glace, couverts et vaisselle, glaciere"
   ],
   "notIncluded": [
-   ""
+   "Option peche avec materiel et appats, jet-ski, barbecue grille en direct a bord, gateau d'anniversaire, decoration de ballons"
   ]
  },
  "dubai-old-townmuseumsmarketsstreet-foodabra-boat-t": {
@@ -199953,15 +199991,19 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai : croisiere-diner avec spectacle de danse Tanoura",
   "metaDescription": "Experience de 2 heure(s) a Dubai. Savourez un delicieux diner buffet avec une variete de plats. Propose par ARABIAN DESTINATION TOURISM L.L.C.",
   "shortDescription": "Experience de 2 heure(s) a Dubai. Savourez un delicieux diner buffet avec une variete de plats. Propose par ARABIAN DESTINATION TOURISM L.L.C.",
-  "fullDescription": "Une experience de 2 heure(s) a Dubai. Savourez un delicieux diner buffet avec une variete de plats.\n\nARABIAN DESTINATION TOURISM L.L.C s'en charge, et 7 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend croisiere d'1h30 le long d'Al Seef. Il ne comprend pas , prevoyez donc un budget separe.",
+  "fullDescription": "Une experience de 2 heure(s) a Dubai. Savourez un delicieux diner buffet avec une variete de plats.\n\nARABIAN DESTINATION TOURISM L.L.C s'en charge, et 7 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend croisiere d'1h30 le long d'Al Seef, boissons de bienvenue et entrees, buffet diner continental et boissons gazeuses et eau en quantite illimitee. Il ne comprend pas articles supplementaires, photos prises par le photographe a bord (montant additionnel, achat facultatif) et stand de jus frais prepare sur place, prevoyez donc un budget separe.",
   "highlights": [
    "Savourez un delicieux diner buffet avec une variete de plats"
   ],
   "included": [
-   "Croisiere d'1h30 le long d'Al Seef"
+   "Croisiere d'1h30 le long d'Al Seef",
+   "Boissons de bienvenue et entrees",
+   "Buffet diner continental",
+   "Boissons gazeuses et eau en quantite illimitee"
   ],
   "notIncluded": [
-   ""
+   "Articles supplementaires, photos prises par le photographe a bord (montant additionnel, achat facultatif)",
+   "Stand de jus frais prepare sur place"
   ]
  },
  "abu-dhabi-emirati-house-experience-with-traditiona": {
