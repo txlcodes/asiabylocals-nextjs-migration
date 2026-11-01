@@ -282,6 +282,51 @@ export function getNuwaraEliyaInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-11-01)
+    case "how-much-should-a-private-tour-guide-cost-in-nuwara-eliya":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Nuwara Eliya?",
+        seoTitle: "Nuwara Eliya Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private driver or car tour around Nuwara Eliya's tea country in 2026, so you know what's fair before you book.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375991/asiabylocals/tours/nuwaraeliya-or-nanu-oya-to-kandy-tour-tea-waterfalls-view/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **basic private tea and waterfall tour** can run as low as **$39-45 solo**, roughly doubling per added traveller. A **private city tour by tuk-tuk** runs **$82 for 1 person**, stepping up to $237 for 4. A **premium private SUV tea and waterfall tour** runs a flat **$214 regardless of group size** up to the vehicle's capacity — the better deal once you have 3-4 people. A **private transfer to Yala via Ella and the Nine Arch Bridge** runs flat **$221 for 1-4 people** in one car.",
+            tourCard: { slug: "nuwara-eliya-premium-tea-waterfall-tour-private", title: "Nuwara Eliya: Premium Tea & Waterfall Tour - Private SUV", description: "A real example of flat pricing regardless of group size, up to the SUV's capacity.", price: "From $214", duration: "Full day", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375991/asiabylocals/tours/nuwaraeliya-or-nanu-oya-to-kandy-tour-tea-waterfalls-view/img0.jpg" },
+          },
+          {
+            title: "Why a 'Private' Tea Tour Can Cost $39 or $214",
+            content: "The cheapest tea and waterfall tours are a basic car or tuk-tuk with minimal narration about the estates and the production process. The premium SUV version at a flat higher rate includes a more comfortable vehicle and, often, a guide who actually explains the tea process rather than just driving between viewpoints — ask which you're booking before comparing the two prices directly.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private tour quote dramatically below $39 for a full day often means a very short route with few stops, or a driver who doesn't actually explain the tea estates. For long transfers (to Yala, to Kandy), confirm the route and any scenic stops (the Nine Arch Bridge, waterfalls) are actually included, not just a direct drive.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly whether the quote is for a basic transfer or a narrated tour with stops, and what vehicle is included. On AsiaByLocals, every Nuwara Eliya tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Nuwara Eliya tours](/sri-lanka/nuwara-eliya) to compare real, current prices directly.",
+            tourCard: { slug: "nuwara-eliya-tea-tour-nature-experience-waterfall", title: "Nuwara Eliya Tea Tour - Nature Experience & Waterfall (Private)", description: "A real example of the cheaper, basic-format private tea and waterfall tour.", price: "From $39", duration: "Half day", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375991/asiabylocals/tours/nuwaraeliya-or-nanu-oya-to-kandy-tour-tea-waterfalls-view/img0.jpg" },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Nuwara Eliya?", a: "A basic private tea and waterfall tour can run as low as $39-45 solo. A premium private SUV version runs a flat $214 regardless of group size up to the vehicle's capacity." },
+          { q: "Why do Nuwara Eliya tea tour prices range from $39 to $214?", a: "The cheapest tours are a basic transfer with minimal narration; the premium version includes a more comfortable vehicle and a guide who actually explains the tea process." },
+          { q: "Is a very cheap private tea tour quote in Nuwara Eliya a red flag?", a: "Often yes — it can mean a very short route with few stops or a driver who doesn't explain the estates." },
+          { q: "What's usually included in a Nuwara Eliya private tour price?", a: "Typically the driver's fee and the vehicle. Entrance fees to specific tea factories or waterfalls are sometimes separate — ask for the full breakdown before comparing prices." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Nuwara Eliya?", "acceptedAnswer": { "@type": "Answer", "text": "A basic private tea and waterfall tour can run as low as $39-45 solo. A premium private SUV version runs a flat $214 regardless of group size." } },
+            { "@type": "Question", "name": "Why do Nuwara Eliya tea tour prices range from $39 to $214?", "acceptedAnswer": { "@type": "Answer", "text": "The cheapest tours are a basic transfer; the premium version includes a better vehicle and a guide who explains the tea process." } },
+            { "@type": "Question", "name": "Is a very cheap private tea tour quote in Nuwara Eliya a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a very short route or a driver who doesn't explain the estates." } },
+            { "@type": "Question", "name": "What's usually included in a Nuwara Eliya private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the driver's fee and the vehicle; entrance fees to specific sites are sometimes separate." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

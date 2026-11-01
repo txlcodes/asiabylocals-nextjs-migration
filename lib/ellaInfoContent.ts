@@ -971,6 +971,51 @@ export function getEllaInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-11-01)
+    case "how-much-should-a-private-tour-guide-cost-in-ella":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Ella?",
+        seoTitle: "Ella Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private driver or tuk-tuk tour around Ella in 2026, so you know what's fair before you book.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375778/asiabylocals/tours/ella-kandy-transfer-with-train-ride-nuwara-eliya-tour/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **full-day private tuk-tuk tour** around Ella (Bandarawela, Lipton's Seat-style stops) can run a flat **$51 for 1-3 people** on some operators, while a more comprehensive **private day tour of 8 iconic sights with a train ride** steps up per person, roughly **$104 solo to $310 for 3**. A **private Yala safari transfer from Ella** typically runs **$85 for 1 person, roughly doubling per added traveller** up to a point. A **2-day private group tour** runs **$254 flat up to 3 people**, a strong deal for a small group.",
+            tourCard: { slug: "from-ella-private-day-tour-of-8-iconic-sights", title: "From Ella - Private Day Tour of 8 Iconic Sights & Train Ride", description: "A real example of standard private day-tour pricing that steps up per traveller.", price: "From $104", duration: "Full day", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375778/asiabylocals/tours/ella-kandy-transfer-with-train-ride-nuwara-eliya-tour/img0.jpg" },
+          },
+          {
+            title: "Tuk-Tuk vs. Car, and Flat vs. Per-Person",
+            content: "Ella's hill country roads mean many private tours use a **tuk-tuk**, which is cheaper but seats fewer people, versus a private **car or van** for longer multi-stop days or safari transfers. Some tours (like the 2-day group tour) quote one flat price up to a capacity limit, which is the better deal for a group of 3; others step the price up per person from the very first traveller, which matters less if you're travelling solo or as a couple.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private tour quote well under $50 for a full day with multiple stops often means a shorter route or an inexperienced driver without real local knowledge of the hill country roads. For Yala safari transfers specifically, confirm the safari jeep and park entrance are actually included, not just the transfer.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly whether you're getting a tuk-tuk or a car, how many stops are included, and whether the Yala safari jeep/entrance is bundled or separate. On AsiaByLocals, every Ella tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Ella tours](/sri-lanka/ella) to compare real, current prices directly.",
+            tourCard: { slug: "ella-2-day-tour-private-group-tour", title: "Ella 2 Day Tour (Private Group Tour)", description: "A real example of flat pricing up to 3 people on a 2-day private group tour.", price: "From $254", duration: "2 days", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375778/asiabylocals/tours/ella-kandy-transfer-with-train-ride-nuwara-eliya-tour/img0.jpg" },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Ella?", a: "A full-day private tuk-tuk tour can run a flat $51 for 1-3 people, while a more comprehensive private day tour with a train ride runs $104-310 depending on group size." },
+          { q: "Is a tuk-tuk or a car better for a private Ella tour?", a: "A tuk-tuk is cheaper but seats fewer people and suits shorter routes; a car or van is better for multi-stop days or safari transfers." },
+          { q: "Is a very cheap private tour quote in Ella a red flag?", a: "Often yes — it can mean a shorter route or an inexperienced driver unfamiliar with the hill country roads." },
+          { q: "Does a private Yala safari transfer from Ella include the safari jeep?", a: "Not always — confirm whether the safari jeep and park entrance are bundled in the quote or charged separately." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Ella?", "acceptedAnswer": { "@type": "Answer", "text": "A full-day private tuk-tuk tour can run a flat $51 for 1-3 people, while a more comprehensive private day tour runs $104-310 depending on group size." } },
+            { "@type": "Question", "name": "Is a tuk-tuk or a car better for a private Ella tour?", "acceptedAnswer": { "@type": "Answer", "text": "A tuk-tuk is cheaper but seats fewer people; a car or van suits multi-stop days or safari transfers." } },
+            { "@type": "Question", "name": "Is a very cheap private tour quote in Ella a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a shorter route or an inexperienced driver." } },
+            { "@type": "Question", "name": "Does a private Yala safari transfer from Ella include the safari jeep?", "acceptedAnswer": { "@type": "Answer", "text": "Not always — confirm whether the safari jeep and entrance are bundled or separate." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

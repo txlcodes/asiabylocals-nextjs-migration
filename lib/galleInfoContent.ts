@@ -492,6 +492,51 @@ export function getGalleInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-11-01)
+    case "how-much-should-a-private-tour-guide-cost-in-galle":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Galle?",
+        seoTitle: "Galle Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private tuk-tuk or car tour in Galle in 2026, by tour type, so you know what's fair before you book.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375761/asiabylocals/tours/from-galle-all-inclusive-countryside-cycling-tour/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private Galle Fort tuk-tuk tour** typically starts around **$17-34 solo**, roughly doubling per added traveller — the cheapest, most common private-tour format here. A **private coastal heritage tour by car or tuk-tuk** (stilt fishermen, the Fort, turtles) runs **$111-203 for 1-2 people**. A **longer private day trip** combining Galle with a waterfall hunt or a 2-day nature tour runs considerably more, **$320-2,975** depending on length and distance. A short **private surf lesson** runs **$51 solo**, stepping up per added student.",
+            tourCard: { slug: "galle-private-coastal-heritage-tour-by-car-or-tuk", title: "Galle: Private Coastal Heritage Tour by Car or Tuk-Tuk", description: "A real example of standard private tour pricing that steps up per added traveller.", price: "From $203", duration: "Full day", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375761/asiabylocals/tours/from-galle-all-inclusive-countryside-cycling-tour/img0.jpg" },
+          },
+          {
+            title: "Why Prices Vary So Much in Galle",
+            content: "A short Galle Fort tuk-tuk tour is the cheapest option because it covers a small, walkable area. A coastal heritage tour covering stilt fishermen, turtles and the Fort together costs more because it's a longer route by car. Gem-workshop and jewellery-making tours are priced low per person but exist partly to sell gems — treat a very cheap gem-tour quote as a sign the real revenue is the shop, not the tour.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private Galle Fort tour quote dramatically below $17-34 for a solo traveller usually means a very short route or a driver who just waits outside rather than guiding. For gem and jewellery-making \"private tours,\" a suspiciously low price plus pressure to buy at the end is a well-known pattern in Sri Lanka's gem trade — go in aware of that, not assuming it's a straightforward sightseeing tour.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly what's included — which stops, how much time at each, whether a gem-shop visit is part of the plan. On AsiaByLocals, every Galle tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Galle tours](/sri-lanka/galle) to compare real, current prices directly.",
+            tourCard: { slug: "galle-authentic-private-tuk-tuk-tour", title: "Galle: Authentic Private Tuk-Tuk Tour", description: "A real example of the cheapest, most common private tuk-tuk tour format in Galle.", price: "From $34", duration: "Half day", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375761/asiabylocals/tours/from-galle-all-inclusive-countryside-cycling-tour/img0.jpg" },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Galle?", a: "A private Galle Fort tuk-tuk tour typically starts around $17-34 solo, roughly doubling per added traveller. A coastal heritage tour by car runs $111-203 for 1-2 people." },
+          { q: "Is a gem or jewellery-making private tour in Galle actually cheap?", a: "The per-person price looks low, but these tours exist partly to sell gems — a suspiciously cheap quote plus pressure to buy at the end is a known pattern, not a genuine bargain." },
+          { q: "Is a very cheap private Galle Fort tour quote a red flag?", a: "Often yes — it can mean a very short route or a driver who just waits outside rather than guiding." },
+          { q: "What's usually included in a Galle private tour price?", a: "Typically the driver or guide's fee and the vehicle. Entrance fees and any workshop materials are sometimes separate — ask for the full breakdown before comparing prices." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Galle?", "acceptedAnswer": { "@type": "Answer", "text": "A private Galle Fort tuk-tuk tour typically starts around $17-34 solo. A coastal heritage tour by car runs $111-203 for 1-2 people." } },
+            { "@type": "Question", "name": "Is a gem or jewellery-making private tour in Galle actually cheap?", "acceptedAnswer": { "@type": "Answer", "text": "The per-person price looks low, but these tours exist partly to sell gems — a cheap quote plus sales pressure is a known pattern." } },
+            { "@type": "Question", "name": "Is a very cheap private Galle Fort tour quote a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a very short route or a driver who doesn't actually guide." } },
+            { "@type": "Question", "name": "What's usually included in a Galle private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the driver or guide's fee and the vehicle; entrance fees and workshop materials are sometimes separate." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

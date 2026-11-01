@@ -635,7 +635,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'yala-vs-udawalawe-from-ella',
     'liptons-seat-and-ella-tea-country',
     'ella-waterfalls-and-day-tours',
-    'leaving-ella-onward-transfers', 'best-tours-in-ella', 'should-i-book-ella-tour-direct-or-through-app'].map(slug => ({
+    'leaving-ella-onward-transfers', 'best-tours-in-ella', 'should-i-book-ella-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-ella'].map(slug => ({
     url: `${BASE_URL}/sri-lanka/ella/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -684,7 +685,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   }));
 
   const galleInfoPages = [
-    'galle-fort-guide', 'mirissa-whale-watching-guide', 'south-coast-beaches-guide', 'galle-2-day-itinerary', 'best-tours-in-galle', 'should-i-book-galle-tour-direct-or-through-app'
+    'galle-fort-guide', 'mirissa-whale-watching-guide', 'south-coast-beaches-guide', 'galle-2-day-itinerary', 'best-tours-in-galle', 'should-i-book-galle-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-galle'
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/galle/${slug}`,
     lastModified: new Date(),
@@ -693,7 +695,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   }));
 
   const negomboInfoPages = [
-    'negombo-airport-guide', 'negombo-lagoon-guide', 'best-tours-in-negombo', 'should-i-book-negombo-tour-direct-or-through-app'
+    'negombo-airport-guide', 'negombo-lagoon-guide', 'best-tours-in-negombo', 'should-i-book-negombo-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-negombo'
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/negombo/${slug}`,
     lastModified: new Date(),
@@ -702,7 +705,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   }));
 
   const nuwaraEliyaInfoPages = [
-    'nuwara-eliya-tea-guide', 'horton-plains-guide', 'best-tours-in-nuwara-eliya', 'should-i-book-nuwara-eliya-tour-direct-or-through-app'
+    'nuwara-eliya-tea-guide', 'horton-plains-guide', 'best-tours-in-nuwara-eliya', 'should-i-book-nuwara-eliya-tour-direct-or-through-app',
+    'how-much-should-a-private-tour-guide-cost-in-nuwara-eliya'
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/nuwara-eliya/${slug}`,
     lastModified: new Date(),

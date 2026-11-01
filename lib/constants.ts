@@ -616,7 +616,8 @@ export const ELLA_INFO_SLUGS = [
   'ella-waterfalls-and-day-tours',
   'leaving-ella-onward-transfers',
   'best-tours-in-ella',
-  'should-i-book-ella-tour-direct-or-through-app'
+  'should-i-book-ella-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-ella'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/galleInfoContent.ts.
@@ -626,7 +627,8 @@ export const GALLE_INFO_SLUGS = [
   'south-coast-beaches-guide',
   'galle-2-day-itinerary',
   'best-tours-in-galle',
-  'should-i-book-galle-tour-direct-or-through-app'
+  'should-i-book-galle-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-galle'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/negomboInfoContent.ts.
@@ -634,7 +636,8 @@ export const NEGOMBO_INFO_SLUGS = [
   'negombo-airport-guide',
   'negombo-lagoon-guide',
   'best-tours-in-negombo',
-  'should-i-book-negombo-tour-direct-or-through-app'
+  'should-i-book-negombo-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-negombo'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/nuwaraEliyaInfoContent.ts.
@@ -642,7 +645,8 @@ export const NUWARA_ELIYA_INFO_SLUGS = [
   'nuwara-eliya-tea-guide',
   'horton-plains-guide',
   'best-tours-in-nuwara-eliya',
-  'should-i-book-nuwara-eliya-tour-direct-or-through-app'
+  'should-i-book-nuwara-eliya-tour-direct-or-through-app',
+  'how-much-should-a-private-tour-guide-cost-in-nuwara-eliya'
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/bentotaInfoContent.ts.

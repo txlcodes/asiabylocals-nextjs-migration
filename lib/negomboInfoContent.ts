@@ -296,6 +296,51 @@ export function getNegomboInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // GEO single-topic page (2026-11-01)
+    case "how-much-should-a-private-tour-guide-cost-in-negombo":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Negombo?",
+        seoTitle: "Negombo Private Guide Prices 2026 — What's Reasonable",
+        description: "Real price ranges for a private tuk-tuk, car or boat tour in Negombo in 2026, so you know what's fair before you book.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788369162/asiabylocals/tours/negombo-and-colombo-city-tour-with-ceylon-tuk-tuk/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A **private city tour by tuk-tuk** in Negombo is the cheapest format, typically **$42-60 for 1-2 people**. A **private tour by air-conditioned car** runs more, **$97-117 for 1-2 people**, stepping up roughly $95-190 per added traveller. A **private boat safari** (lagoon sunrise/sunset, the fishing village) runs **$60-102 for 1 person**, roughly doubling per added traveller. A **multi-day private trip** to Sinharaja Rainforest runs **$176 solo, doubling for a second traveller**.",
+            tourCard: { slug: "negombo-fun-insightful-private-tour-by-ac-car", title: "Negombo: Fun & Insightful Private Tour by A/C Car", description: "A real example of standard private car-tour pricing that steps up per added traveller.", price: "From $97", duration: "Full day", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788369162/asiabylocals/tours/negombo-and-colombo-city-tour-with-ceylon-tuk-tuk/img0.jpg" },
+          },
+          {
+            title: "Tuk-Tuk, Car, or Boat — Different Prices for Different Products",
+            content: "Negombo's cheapest private option is a tuk-tuk for the city's market, temples and canal — fine for a short, central route. An A/C car costs more but suits a longer day with more stops. A boat safari (the lagoon, the fishing village, Monkey Island) is priced separately again, usually per person, since it's a different activity with its own boat and boatman cost.",
+          },
+          {
+            title: "Red Flags on Price",
+            content: "A private city tour quote well under $42 by tuk-tuk often means a shorter route or a driver without real local knowledge. For boat safaris specifically, confirm the boat and route — a very cheap quote sometimes means a shorter stretch of lagoon than advertised.",
+          },
+          {
+            title: "How to Get a Fair Price",
+            content: "Ask the operator directly whether you're booking a tuk-tuk, a car, or a boat, and what stops or route length is included. On AsiaByLocals, every Negombo tour's price breakdown can be questioned on WhatsApp (+91 84495 38716) or email before you book, and a real person will explain honestly what drives the cost. See our [full trust FAQ](/about-us) for how that works, or browse [all Negombo tours](/sri-lanka/negombo) to compare real, current prices directly.",
+            tourCard: { slug: "negombo-private-city-lagoon-sunrise-or-sunset", title: "Negombo Private City-Lagoon: Sunrise or Sunset Kayaking Tour", description: "A real example of per-person boat/kayak pricing, a different product from a tuk-tuk or car tour.", price: "From $102", duration: "Half day", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788369162/asiabylocals/tours/negombo-and-colombo-city-tour-with-ceylon-tuk-tuk/img0.jpg" },
+          },
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Negombo?", a: "A private tuk-tuk city tour typically runs $42-60 for 1-2 people. A private A/C car tour runs $97-117 for 1-2 people, and a boat safari runs $60-102 for 1 person." },
+          { q: "Is a tuk-tuk, car or boat tour better value in Negombo?", a: "A tuk-tuk is cheapest for a short central route; a car suits a longer multi-stop day; a boat is a different activity priced separately for lagoon or fishing-village trips." },
+          { q: "Is a very cheap private tuk-tuk tour quote in Negombo a red flag?", a: "Often yes — it can mean a shorter route or a driver without real local knowledge." },
+          { q: "What's usually included in a Negombo private tour price?", a: "Typically the driver or boatman's fee and the vehicle or boat. Entrance fees and meals are usually listed separately — ask for the full breakdown before comparing prices." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a private tour guide cost in Negombo?", "acceptedAnswer": { "@type": "Answer", "text": "A private tuk-tuk city tour typically runs $42-60 for 1-2 people. A private A/C car tour runs $97-117 for 1-2 people." } },
+            { "@type": "Question", "name": "Is a tuk-tuk, car or boat tour better value in Negombo?", "acceptedAnswer": { "@type": "Answer", "text": "A tuk-tuk is cheapest for a short route; a car suits a longer day; a boat is a separate activity priced on its own." } },
+            { "@type": "Question", "name": "Is a very cheap private tuk-tuk tour quote in Negombo a red flag?", "acceptedAnswer": { "@type": "Answer", "text": "Often yes — it can mean a shorter route or a driver without real local knowledge." } },
+            { "@type": "Question", "name": "What's usually included in a Negombo private tour price?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the driver or boatman's fee and the vehicle or boat; entrance fees and meals are usually separate." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }
