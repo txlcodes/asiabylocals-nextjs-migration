@@ -593,6 +593,8 @@ const SEOUL_SIDEBAR = [
 const ISTANBUL_SIDEBAR = [
     { name: 'Best Tours in Istanbul', slug: 'best-tours-in-istanbul' },
     { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-istanbul' },
+    { name: 'Best Hagia Sophia Tour', slug: 'best-hagia-sophia-blue-mosque-tour' },
+    { name: 'Best Bosphorus Cruise', slug: 'best-bosphorus-cruise-istanbul' },
     { name: 'Istanbul Travel Guide', slug: 'istanbul-travel-guide-2026' },
     { name: 'Things to Do', slug: 'things-to-do-in-istanbul' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-istanbul' },

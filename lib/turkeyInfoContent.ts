@@ -1186,6 +1186,128 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // Tour-selling pages (2026-11-01) — each section sells one specific
+    // real tour, not a generic FAQ. Pattern from lib/agraBestInfoContent.ts.
+    case "best-hagia-sophia-blue-mosque-tour":
+      return {
+        title: "Which Is the Best Hagia Sophia & Blue Mosque Tour?",
+        seoTitle: "Best Hagia Sophia Blue Mosque Tour Istanbul 2026: 6 Options",
+        description: "Skip-the-line ticket, small-group tour, private guide or the full multi-site combo — which Hagia Sophia and Blue Mosque tour to pick, and six real options for every budget.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dcf68b321ccac985456d2efce5ad90f9daa43d9ee56aee55d69bdf3bbb43258c.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "For most first-time visitors the best option is a **guided tour covering Hagia Sophia, the Blue Mosque and the Basilica Cistern together**, since the three sit within a 10-minute walk of each other in Sultanahmet and a guide explains what you're actually looking at — Hagia Sophia alone has been a church, a mosque, a museum and a mosque again across 1,500 years, which is easy to miss without context. Six real options are below, one for each priority — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+            tourCard: { slug: "istanbul-hagia-sophia-blue-mosque-cistern-guided", title: "Istanbul: Hagia Sophia, Blue Mosque & Cistern Guided Tour", description: "The three major Sultanahmet sites together, with a guide who explains the history.", price: "From $262", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dcf68b321ccac985456d2efce5ad90f9daa43d9ee56aee55d69bdf3bbb43258c.jpeg" },
+          },
+          {
+            title: "Cheapest: skip-the-line entry only",
+            content: "If you've already done a guided Istanbul tour or just want to beat the entrance queue without a narration, a skip-the-line Hagia Sophia ticket with an audio guide gets you in fast at the lowest cost.",
+            tourCard: { slug: "istanbul-hagia-sophia-guided-tour-with-skip-the", title: "Istanbul: Hagia Sophia Guided Tour with Skip-the-Line Entry", description: "The fastest, cheapest way in, no group schedule to follow.", price: "From $48", duration: "30 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dcf68b321ccac985456d2efce5ad90f9daa43d9ee56aee55d69bdf3bbb43258c.jpeg" },
+          },
+          {
+            title: "If you want it private and flexible",
+            content: "A private Old City tour means you're not waiting for a group to regroup at each site, and the guide's full attention is on your questions — worth it for families or anyone who wants to linger at one site and rush another.",
+            tourCard: { slug: "istanbul-private-blue-mosque-hagia-sophia-old", title: "Istanbul: Private Blue Mosque & Hagia Sophia Old City Tour", description: "Your own pace through the Old City's major sites, with a private guide.", price: "From $221", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dcf68b321ccac985456d2efce5ad90f9daa43d9ee56aee55d69bdf3bbb43258c.jpeg" },
+          },
+          {
+            title: "If you want the full multi-site pass",
+            content: "A combo covering Hagia Sophia, Topkapi Palace, the Basilica Cistern and more in one go is the efficient choice if you only have one day for Istanbul's historic core and want to see as much as possible without separately booking each site.",
+            tourCard: { slug: "istanbul-5-in-1-hagia-sophia-topkapi-cistern", title: "Istanbul: 5-in-1 Hagia Sophia Topkapi Cistern & Grand Bazaar", description: "Five major Old City sites in one guided day, no separate bookings needed.", price: "From $116", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dcf68b321ccac985456d2efce5ad90f9daa43d9ee56aee55d69bdf3bbb43258c.jpeg" },
+          },
+          {
+            title: "If you're short on time: the fast 30-minute version",
+            content: "A short, focused Hagia Sophia visit with an archaeologist guide, for travellers slotting the site into a half-day that also needs to cover something else in the city.",
+            tourCard: { slug: "istanbul-hagia-sophia-guided-tour-with", title: "Istanbul: Hagia Sophia Guided Tour with Archaeologist & Guide", description: "A tight, expert-led visit for a tight schedule.", price: "From $103", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dcf68b321ccac985456d2efce5ad90f9daa43d9ee56aee55d69bdf3bbb43258c.jpeg" },
+          },
+          {
+            title: "For something different: Hagia Sophia at night",
+            content: "An evening visit sees Hagia Sophia with far fewer crowds and the building lit differently than during the day — a genuinely different experience from the standard daytime tour, worth it for a second visit or a quieter first one.",
+            tourCard: { slug: "hagia-sophia-under-the-stars-evening-tour-private", title: "Hagia Sophia under the Stars: Evening Tour - Private Tour", description: "A quieter, after-dark visit with a private guide.", price: "From $105", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dcf68b321ccac985456d2efce5ad90f9daa43d9ee56aee55d69bdf3bbb43258c.jpeg" },
+          },
+          {
+            title: "Dress code and timing",
+            content: "The Blue Mosque requires modest dress and shoe removal — shawls are provided at the door for women if needed, but bringing your own saves a queue. Hagia Sophia operates as an active mosque, so prayer times briefly close sections to tourists; a guide who knows the schedule times your visit around this. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best Hagia Sophia and Blue Mosque tour?", a: "A guided tour covering Hagia Sophia, the Blue Mosque and the Basilica Cistern together suits most first-time visitors, since the sites are close together and a guide provides context." },
+          { q: "Do I need to book Hagia Sophia tickets in advance?", a: "It's worth it in peak season — a skip-the-line option avoids the entrance queue, which can run long by mid-morning." },
+          { q: "What should I wear to the Blue Mosque?", a: "Modest dress and shoe removal are required. Shawls are available at the door, but bringing your own avoids a queue." },
+          { q: "Is Hagia Sophia closed during prayer times?", a: "Sections briefly close to tourists during prayer times since it operates as an active mosque. A guide who knows the schedule can time your visit around this." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best Hagia Sophia and Blue Mosque tour?", "acceptedAnswer": { "@type": "Answer", "text": "A guided tour covering Hagia Sophia, the Blue Mosque and the Basilica Cistern together suits most first-time visitors." } },
+            { "@type": "Question", "name": "Do I need to book Hagia Sophia tickets in advance?", "acceptedAnswer": { "@type": "Answer", "text": "It's worth it in peak season to avoid the entrance queue." } },
+            { "@type": "Question", "name": "What should I wear to the Blue Mosque?", "acceptedAnswer": { "@type": "Answer", "text": "Modest dress and shoe removal are required; shawls are available at the door." } },
+            { "@type": "Question", "name": "Is Hagia Sophia closed during prayer times?", "acceptedAnswer": { "@type": "Answer", "text": "Sections briefly close to tourists during prayer times since it's an active mosque." } },
+          ],
+        },
+      };
+
+    case "best-bosphorus-cruise-istanbul":
+      return {
+        title: "Which Is the Best Bosphorus Cruise in Istanbul?",
+        seoTitle: "Best Bosphorus Cruise Istanbul 2026: 6 Real Options",
+        description: "Sunset cruise, dinner cruise with a show, yacht breakfast or a budget option — which Bosphorus cruise to pick, and six real options for every kind of evening.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6024c78ccbf626cabea49fd9701ff28924340966fc088184d649b880daf1a73e.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "For most visitors the best Bosphorus cruise is a **sunset cruise with snacks and drinks**, since it's shorter than a full dinner cruise, cheaper, and still delivers the view of the city lit gold between two continents that makes the Bosphorus worth doing at all. Six real options are below, one for each kind of evening — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+            tourCard: { slug: "istanbul-bosphorus-sunset-cruise-with-snacks", title: "Istanbul: Bosphorus Sunset Cruise with Snacks & Drinks", description: "The classic golden-hour cruise, shorter and cheaper than a full dinner cruise.", price: "From $109", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6024c78ccbf626cabea49fd9701ff28924340966fc088184d649b880daf1a73e.jpeg" },
+          },
+          {
+            title: "Cheapest: a short daytime cruise",
+            content: "A straightforward daytime cruise with Instagram-reel-style photo stops, at the lowest price point — good for a quick taste of the Bosphorus without committing an evening to it.",
+            tourCard: { slug: "istanbul-bosphorus-cruise-with-instagram-reels", title: "Istanbul: Bosphorus Cruise with Instagram Reels & Photos", description: "A short, low-cost daytime cruise focused on the views and photos.", price: "From $29", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6024c78ccbf626cabea49fd9701ff28924340966fc088184d649b880daf1a73e.jpeg" },
+          },
+          {
+            title: "If you want dinner and a show",
+            content: "A full evening cruise with dinner, Turkish shows and a DJ turns the Bosphorus into a night out rather than just a scenic ride — worth it if you want the cruise to be the evening's main event, not a quick add-on.",
+            tourCard: { slug: "istanbul-bosphorus-dinner-cruise-turkish-shows-dj", title: "Istanbul: Bosphorus Dinner Cruise, Turkish Shows & DJ Party", description: "Dinner, live Turkish shows and a DJ, on the water.", price: "From $58", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6024c78ccbf626cabea49fd9701ff28924340966fc088184d649b880daf1a73e.jpeg" },
+          },
+          {
+            title: "If you want breakfast instead of dinner",
+            content: "A morning cruise with Turkish breakfast between the European and Asian sides is a quieter, calmer version of the experience, before the city and the water traffic both pick up for the day.",
+            tourCard: { slug: "istanbul-bosphorus-cruise-breakfast-between-2", title: "Istanbul: Bosphorus Cruise & Breakfast Between 2 Continents", description: "A calm morning cruise with Turkish breakfast, before the crowds.", price: "From $98", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6024c78ccbf626cabea49fd9701ff28924340966fc088184d649b880daf1a73e.jpeg" },
+          },
+          {
+            title: "If you want it upgraded: a private yacht",
+            content: "A yacht cruise with breakfast is the premium version — smaller group, a more comfortable vessel, and a calmer pace than a larger tourist boat, for travellers who want the Bosphorus experience without the crowd.",
+            tourCard: { slug: "istanbul-bosphorus-yacht-cruise-with-turkish", title: "Istanbul: Bosphorus Yacht Cruise with Turkish Breakfast", description: "A smaller, more comfortable yacht version of the classic cruise.", price: "From $160", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6024c78ccbf626cabea49fd9701ff28924340966fc088184d649b880daf1a73e.jpeg" },
+          },
+          {
+            title: "If you want it combined with sightseeing",
+            content: "Pairing the cruise with the Old City tour and lunch turns it into a full day out rather than a standalone evening activity — efficient if the Bosphorus is one of several things you want to fit into a single day in Istanbul.",
+            tourCard: { slug: "istanbul-old-city-tour-bosphorus-cruise-with-lunch", title: "Istanbul: Old City Tour, Bosphorus Cruise with Lunch", description: "The Old City's major sites and a Bosphorus cruise in one full day.", price: "From $202", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6024c78ccbf626cabea49fd9701ff28924340966fc088184d649b880daf1a73e.jpeg" },
+          },
+          {
+            title: "Sunset or dinner — which actually matters",
+            content: "The sunset timing is what most people are actually chasing when they book a Bosphorus cruise — the skyline lit gold with the mosques silhouetted is the photo everyone wants. A dinner cruise delivers the same sunset window plus a full evening of food and entertainment, at a correspondingly higher price; a short sunset-only cruise delivers the view for less. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best Bosphorus cruise in Istanbul?", a: "A sunset cruise with snacks and drinks suits most visitors, since it's shorter and cheaper than a full dinner cruise but still delivers the golden-hour skyline view." },
+          { q: "Is a Bosphorus dinner cruise worth it?", a: "Yes if you want the cruise to be your evening's main event, with food, live shows and entertainment included, not just a scenic ride." },
+          { q: "What time of day is best for a Bosphorus cruise?", a: "Sunset is the most popular timing for the view, but a morning cruise with breakfast is quieter and calmer before the water traffic picks up." },
+          { q: "Is a private yacht cruise better than a standard boat?", a: "It's a smaller, more comfortable group experience at a higher price — worth it if you want to avoid a larger tourist boat's crowd." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best Bosphorus cruise in Istanbul?", "acceptedAnswer": { "@type": "Answer", "text": "A sunset cruise with snacks and drinks suits most visitors — shorter and cheaper than a full dinner cruise but still delivers the golden-hour view." } },
+            { "@type": "Question", "name": "Is a Bosphorus dinner cruise worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes if you want the cruise to be your evening's main event with food and entertainment included." } },
+            { "@type": "Question", "name": "What time of day is best for a Bosphorus cruise?", "acceptedAnswer": { "@type": "Answer", "text": "Sunset is most popular for the view; morning is quieter and calmer." } },
+            { "@type": "Question", "name": "Is a private yacht cruise better than a standard boat?", "acceptedAnswer": { "@type": "Answer", "text": "It's a smaller, more comfortable group experience at a higher price." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

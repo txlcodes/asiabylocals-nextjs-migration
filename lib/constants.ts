@@ -316,6 +316,8 @@ export const ISTANBUL_INFO_SLUGS = [
   'should-i-book-istanbul-tour-direct-or-through-app',
   // GEO single-topic page (2026-10/31)
   'how-much-should-a-private-tour-guide-cost-in-istanbul',
+  // Tour-selling pages (2026-11-01)
+  'best-hagia-sophia-blue-mosque-tour', 'best-bosphorus-cruise-istanbul',
 ];
 
 // Qatar launched 2026-10 with 850 live tours (single city: Doha) and
