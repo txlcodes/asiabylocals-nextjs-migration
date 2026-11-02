@@ -2532,6 +2532,128 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // Tour-selling pages (2026-11-02) — each section sells one specific
+    // real tour, not a generic FAQ. Pattern from lib/agraBestInfoContent.ts.
+    case "best-asakusa-sensoji-tour":
+      return {
+        title: "Which Is the Best Asakusa & Senso-ji Tour in Tokyo?",
+        seoTitle: "Best Asakusa Sensoji Tour Tokyo 2026: 6 Real Options",
+        description: "Walking tour, kimono experience, rickshaw, night walk or a wider Tokyo combo — which Asakusa and Senso-ji tour to pick, and six real options for every kind of visit.",
+        heroImage: IMG.walking,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "For most first-time visitors the best option is a **guided Asakusa and Senso-ji walking tour**, since Tokyo's oldest temple and the Nakamise shopping street that leads to it are genuinely better with context — a guide explains what the giant lantern and the five-story pagoda actually mean, not just where to stand for a photo. Six real options are below, one for each kind of visit — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+            tourCard: { slug: "asakusa-walking-tour-with-sensoji-temple-visit", title: "Asakusa Walking Tour with Sensoji Temple Visit", description: "Tokyo's oldest temple and the Nakamise street, explained by a local guide.", price: "From $30", duration: "2 hours", image: IMG.walking },
+          },
+          {
+            title: "Cheapest: the focused 2-hour version",
+            content: "A shorter, lower-priced walking tour covering just Asakusa and Senso-ji without add-ons — good if you're slotting the temple into a packed day and don't need the extras.",
+            tourCard: { slug: "asakusa-and-sensoji-oldest-temple-walking-tour-2hrs", title: "Asakusa and Sensoji ー Oldest Temple Walking Tour (2hrs)", description: "A focused, lower-cost version of the classic temple walk.", price: "From $33", duration: "2 hours", image: IMG.walking },
+          },
+          {
+            title: "If you want the kimono experience",
+            content: "Renting a kimono for the Asakusa visit is genuinely popular for a reason — the temple's traditional architecture is the one place in Tokyo where dressing the part actually fits the setting, and most rentals include hairstyling.",
+            tourCard: { slug: "asakusa-kimono-rental-with-professional-hairstyling", title: "Asakusa Kimono Rental with Professional Hairstyling", description: "Dress for the temple's traditional setting, hairstyling included.", price: "From $39", duration: "1 hour", image: IMG.walking },
+          },
+          {
+            title: "For something different: by rickshaw",
+            content: "A rickshaw ride through Asakusa's streets is a genuinely different way to see the neighbourhood than walking — slower-paced sightseeing with a driver who often doubles as a guide, good for anyone who wants to cover ground without tiring out.",
+            tourCard: { slug: "tokyo-asakusa-sightseeing-rickshaw-by-local-operator", title: "【Tokyo Asakusa】Sightseeing Rickshaw by Local Operator", description: "See Asakusa's streets from a traditional rickshaw.", price: "From $74", duration: "30 minutes", image: IMG.walking },
+          },
+          {
+            title: "If you want it at night: the retro night walk",
+            content: "Asakusa after dark is a different neighbourhood — the crowds thin out, the temple is lit differently, and the retro backstreets feel more atmospheric than during the day's tourist rush.",
+            tourCard: { slug: "retro-asakusa-night-walk-and-senso-ji-temple", title: "Retro Asakusa Night Walk and Senso-ji Temple", description: "A quieter, more atmospheric version of the temple visit after dark.", price: "From $91", duration: "1.5 hours", image: IMG.walking },
+          },
+          {
+            title: "If you want it combined with teamLab",
+            content: "Pairing Asakusa with teamLab Planets in one booking is efficient if you want to cover Tokyo's most traditional and most futuristic attractions in a single day rather than booking each separately.",
+            tourCard: { slug: "4-hour-teamlab-planets-and-asakusa-tour", title: "4-Hour teamLab Planets and Asakusa Tour", description: "Tokyo's oldest temple and its most futuristic digital art museum in one day.", price: "From $264", duration: "4 hours", image: IMG.walking },
+          },
+          {
+            title: "What to actually expect at Senso-ji",
+            content: "The temple itself is free to enter and genuinely crowded most of the day — arriving early morning (before 9am) or in the evening after the shops close gives you the best chance at a quiet visit. The Nakamise shopping street leading to the temple sells everything from senbei crackers to souvenir fans, and it's worth budgeting time to browse, not just walk through. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best Asakusa and Senso-ji tour in Tokyo?", a: "A guided walking tour covering Asakusa and Senso-ji together suits most first-time visitors, since a guide explains the temple's history and the Nakamise shopping street." },
+          { q: "Is kimono rental worth it for an Asakusa visit?", a: "Yes for many visitors — the temple's traditional architecture is a fitting backdrop, and most rentals include hairstyling as part of the package." },
+          { q: "What time is best to visit Senso-ji to avoid crowds?", a: "Early morning before 9am or evening after the shops close gives the best chance at a quieter visit; the temple is genuinely crowded most of the day." },
+          { q: "Is Senso-ji temple free to enter?", a: "Yes, entry to the temple grounds is free. A guided tour's cost covers the guide's time and context, not an entrance fee." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best Asakusa and Senso-ji tour in Tokyo?", "acceptedAnswer": { "@type": "Answer", "text": "A guided walking tour covering Asakusa and Senso-ji together suits most first-time visitors." } },
+            { "@type": "Question", "name": "Is kimono rental worth it for an Asakusa visit?", "acceptedAnswer": { "@type": "Answer", "text": "Yes for many visitors — the temple's traditional architecture fits a kimono well, and most rentals include hairstyling." } },
+            { "@type": "Question", "name": "What time is best to visit Senso-ji to avoid crowds?", "acceptedAnswer": { "@type": "Answer", "text": "Early morning before 9am or evening after shops close." } },
+            { "@type": "Question", "name": "Is Senso-ji temple free to enter?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, entry to the temple grounds is free." } },
+          ],
+        },
+      };
+
+    case "best-kimono-rental-tokyo":
+      return {
+        title: "Which Is the Best Kimono Rental Experience in Tokyo?",
+        seoTitle: "Best Kimono Rental Tokyo 2026: 6 Real Options",
+        description: "Basic rental, full hairstyling, full-day hire or a photoshoot add-on — which Tokyo kimono rental to pick, and six real options for every budget and occasion.",
+        heroImage: IMG.walking,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "For most visitors the best kimono rental is a **standard package with professional hairstyling included**, since the hairstyling is genuinely what makes the photos look complete — a rented kimono with your regular hair looks noticeably less finished than the same outfit styled properly. Six real options are below, one for each priority — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+            tourCard: { slug: "asakusa-kimono-rental-with-professional-hairstyling", title: "Asakusa Kimono Rental with Professional Hairstyling", description: "The standard package — a kimono and proper styling to match.", price: "From $39", duration: "1 hour", image: IMG.walking },
+          },
+          {
+            title: "If you want added photos",
+            content: "A package that bundles optional professional photos solves the real problem with a solo or self-shot kimono day — you end up with phone photos instead of images that actually do the outfit justice.",
+            tourCard: { slug: "tokyo-asakusa-kimono-rental-with-hair-and-optional-photos-by-local-operator", title: "Tokyo Asakusa: Kimono Rental with Hair and Optional Photos", description: "Hairstyling plus the option to add professional photos.", price: "From $39", duration: "30 minutes", image: IMG.walking },
+          },
+          {
+            title: "If you want the rickshaw too",
+            content: "Combining the kimono with a rickshaw ride around Asakusa turns a styling appointment into a genuine activity — you're not just getting dressed up, you're seeing the neighbourhood in character.",
+            tourCard: { slug: "tokyo-asakusa-kimono-rental-with-add-on-photos-and-rickshaw-by-local-operator", title: "Tokyo Asakusa: Kimono Rental with Add-On Photos and Rickshaw", description: "Kimono styling plus a rickshaw ride through Asakusa.", price: "From $39", duration: "30 minutes", image: IMG.walking },
+          },
+          {
+            title: "If you want it premium",
+            content: "A premium rental with more elaborate hairstyling and accessories is worth it if you want a genuinely higher-end look, not just the standard tourist-rental outfit — the difference shows up clearly in photos.",
+            tourCard: { slug: "tokyo-asakusa-premium-kimono-rental-and-hairstyling-and-accessorie-by-local-operator", title: "Tokyo Asakusa: Premium Kimono Rental and Hairstyling and Accessories", description: "A more elaborate styling and accessories package.", price: "From $24", duration: "1 hour", image: IMG.walking },
+          },
+          {
+            title: "If you want it for the whole day",
+            content: "A full-day rental means you're not rushing back to change after an hour — worth it if you want to wear the kimono across multiple Asakusa stops, or just not feel time pressure.",
+            tourCard: { slug: "tokyo-asakusa-miu-kimono-rental-and-optional-photoshoot-by-local-operator", title: "Tokyo Asakusa: Miu Kimono Rental and Optional Photoshoot", description: "A full-day rental with no time pressure, plus an optional photoshoot.", price: "From $58", duration: "Full day", image: IMG.walking },
+          },
+          {
+            title: "For a different style: yukata",
+            content: "A yukata (the lighter, more casual cousin of a formal kimono) rental is a genuinely different look, cooler and simpler, and often associated more with summer festivals than temple visits — worth choosing if that's the aesthetic you actually want.",
+            tourCard: { slug: "tokyo-asakusa-kimono-yukata-rental-full-day", title: "Full-Day Kimono or Yukata Rental in Asakusa, with Hair Styling", description: "Choose between a formal kimono or a lighter yukata, full day.", price: "From $62", duration: "1 day", image: IMG.walking },
+          },
+          {
+            title: "Sizing and timing",
+            content: "Most rental shops carry a wide range of sizes but book ahead in peak cherry-blossom and autumn-foliage seasons, when kimono rentals are at their busiest and popular colours sell out early in the day. Arriving by mid-morning gives the best selection. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best kimono rental in Tokyo?", a: "A standard package with professional hairstyling included suits most visitors — the styling is what makes the finished look come together." },
+          { q: "What's the difference between a kimono and a yukata rental?", a: "A yukata is lighter and more casual than a formal kimono, often associated with summer festivals rather than temple visits — choose based on the look you want." },
+          { q: "Should I book a kimono rental with photos included?", a: "Worth considering if you don't want to rely on phone photos — several packages bundle a professional photo session with the rental." },
+          { q: "When should I arrive for a kimono rental to get the best selection?", a: "Mid-morning, especially in peak cherry-blossom and autumn-foliage seasons, since popular colours and sizes go first." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best kimono rental in Tokyo?", "acceptedAnswer": { "@type": "Answer", "text": "A standard package with professional hairstyling included suits most visitors." } },
+            { "@type": "Question", "name": "What's the difference between a kimono and a yukata rental?", "acceptedAnswer": { "@type": "Answer", "text": "A yukata is lighter and more casual, often associated with summer festivals." } },
+            { "@type": "Question", "name": "Should I book a kimono rental with photos included?", "acceptedAnswer": { "@type": "Answer", "text": "Worth considering — several packages bundle a professional photo session." } },
+            { "@type": "Question", "name": "When should I arrive for a kimono rental to get the best selection?", "acceptedAnswer": { "@type": "Answer", "text": "Mid-morning, especially in peak cherry-blossom and autumn-foliage seasons." } },
+          ],
+        },
+      };
+
     default:
             return null;
     }
