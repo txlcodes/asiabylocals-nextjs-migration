@@ -208,7 +208,8 @@ export default function RootLayout({
           `}
         </Script>
 
-        {/* Google tag (gtag.js) — Google Ads */}
+        {/* Google tag (gtag.js) — Google Ads + GA4. One loader serves both
+            IDs; GA4 property is www.asiabylocals.com (G-W22MER4S6G). */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=AW-18035560397"
           strategy="afterInteractive"
@@ -219,6 +220,7 @@ export default function RootLayout({
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
             gtag('config', 'AW-18035560397');
+            gtag('config', 'G-W22MER4S6G');
           `}
         </Script>
         <LanguageBoot />
