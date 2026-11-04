@@ -3,6 +3,7 @@ import { Plus_Jakarta_Sans } from 'next/font/google'
 import Script from 'next/script'
 import Footer from '@/components/Footer'
 import LanguageBoot from '@/components/LanguageBoot'
+import WhatsAppButton from '@/components/WhatsAppButton'
 import './globals.css'
 
 const plusJakartaSans = Plus_Jakarta_Sans({
@@ -224,6 +225,7 @@ export default function RootLayout({
           `}
         </Script>
         <LanguageBoot />
+        <WhatsAppButton />
         <div id="app-root">
           {children}
           <Footer />
