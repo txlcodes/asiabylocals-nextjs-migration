@@ -1741,6 +1741,188 @@ export function getUbudInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // Tour-selling pages (2026-11-10) — each section sells one specific
+    // real tour, not a generic FAQ. Pattern from lib/agraBestInfoContent.ts.
+    case "best-tegalalang-rice-terrace-tour":
+      return {
+        title: "Which Is the Best Tegalalang Rice Terrace Tour?",
+        seoTitle: "Best Tegalalang Rice Terrace Tour 2026: 6 Real Options",
+        description: "Swing experience, combined with waterfalls and Monkey Forest, Jatiluwih's bigger terraces or an e-bike version — which rice terrace tour to pick, and six real options.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "For most visitors the best option is a tour combining **Tegalalang's rice terraces with a waterfall and the Monkey Forest**, since the three sit on a natural loop north of Ubud and splitting the day across them is more efficient than three separate bookings. Six real options are below, one for each priority — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+            tourCard: { slug: "waterfall-rice-terraces-and-monkey-forest-private-tour-in-ubud", title: "Waterfall, Rice Terraces and Monkey Forest Private Tour in Ubud", description: "The natural loop north of Ubud, covered efficiently in one private day.", price: "From $53", duration: "5 hours", image: IMG },
+          },
+          {
+            title: "If the swing is the actual goal",
+            content: "A private swing-focused tour at Tegalalang is worth booking separately if the swing photos are genuinely what you're after, since a combined tour often allocates less time at the swing itself to fit in the other stops.",
+            tourCard: { slug: "tegalalang-rice-terrace-private-swing-tour-with-pickup-in-ubud", title: "Tegalalang Rice Terrace Private Swing Tour with Pickup in Ubud", description: "Dedicated swing time, not squeezed into a multi-stop day.", price: "From $83", duration: "4 hours", image: IMG },
+          },
+          {
+            title: "If you want the bigger, less crowded terraces",
+            content: "Jatiluwih's rice terraces are a UNESCO site and genuinely larger and less commercialised than Tegalalang's, at the cost of a longer drive — worth it if you've already seen Tegalalang's crowds in photos and want the quieter alternative.",
+            tourCard: { slug: "jatiluwih-rice-terraces-waterfall-and-temple-tour", title: "Jatiluwih Rice Terraces, Waterfall and Temple Tour", description: "A UNESCO terrace system, bigger and quieter than Tegalalang.", price: "From $72", duration: "Flexible", image: IMG },
+          },
+          {
+            title: "Cheapest: a focused half-day trek",
+            content: "A shorter, lower-priced trekking tour covering the terraces and a secret waterfall without the wider multi-stop itinerary, for travellers who want to keep the cost and time down.",
+            tourCard: { slug: "trekking-rice-terraces-and-secret-waterfalls-in-ubud", title: "Trekking Rice Terraces and Secret Waterfalls in Ubud", description: "A focused, lower-cost half-day trek.", price: "From $54", duration: "5 hours", image: IMG },
+          },
+          {
+            title: "If you want it by e-bike",
+            content: "An electric bike tour through Jatiluwih's terraces covers more ground than walking and is a genuinely different, more active way to experience the landscape than the standard viewpoint-and-photo stop.",
+            tourCard: { slug: "jatiluwih-rice-terraces-1-hour-electric-bike-tour", title: "Jatiluwih Rice Terraces 1-Hour Electric Bike Tour", description: "See the terraces by e-bike, covering more ground than on foot.", price: "From $29", duration: "1 hour", image: IMG },
+          },
+          {
+            title: "If you want the full day, village included",
+            content: "A tour adding a local village walk to the terraces and waterfall rounds out the day with a look at how the rice farming community actually lives, not just the scenic viewpoint.",
+            tourCard: { slug: "rice-terraces-waterfall-and-village-tour-in-ubud", title: "Rice Terraces, Waterfall, and Village Tour in Ubud", description: "The terraces and waterfall plus a look at the farming village itself.", price: "From $135", duration: "5 hours", image: IMG },
+          },
+          {
+            title: "What to actually expect",
+            content: "Tegalalang charges a small local entrance/donation fee separate from the tour price, and the swing and photo spots each have their own additional fee on top — budget for these as separate cash costs, not included in the guide or driver's fee. Go early morning to beat both the heat and the tour-bus crowds. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best Tegalalang rice terrace tour?", a: "A tour combining the terraces with a waterfall and the Monkey Forest suits most visitors, since the three sit on a natural loop north of Ubud." },
+          { q: "Is Tegalalang or Jatiluwih better for rice terraces?", a: "Tegalalang is closer and more famous for the swings; Jatiluwih is a UNESCO site, bigger and less crowded, at the cost of a longer drive." },
+          { q: "Are the swing and photo spots at Tegalalang included in a tour price?", a: "No — they're usually separate fees paid in cash on-site, on top of the entrance fee and the tour's guide or driver cost." },
+          { q: "What time should I visit Tegalalang to avoid crowds?", a: "Early morning, to beat both the heat and the tour-bus crowds that build up by mid-morning." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best Tegalalang rice terrace tour?", "acceptedAnswer": { "@type": "Answer", "text": "A tour combining the terraces with a waterfall and the Monkey Forest suits most visitors." } },
+            { "@type": "Question", "name": "Is Tegalalang or Jatiluwih better for rice terraces?", "acceptedAnswer": { "@type": "Answer", "text": "Tegalalang is closer and famous for swings; Jatiluwih is bigger, a UNESCO site, and less crowded." } },
+            { "@type": "Question", "name": "Are the swing and photo spots at Tegalalang included in a tour price?", "acceptedAnswer": { "@type": "Answer", "text": "No — usually separate cash fees paid on-site." } },
+            { "@type": "Question", "name": "What time should I visit Tegalalang to avoid crowds?", "acceptedAnswer": { "@type": "Answer", "text": "Early morning, to beat the heat and tour-bus crowds." } },
+          ],
+        },
+      };
+
+    case "best-mount-batur-sunrise-tour":
+      return {
+        title: "Which Is the Best Mount Batur Sunrise Tour?",
+        seoTitle: "Best Mount Batur Sunrise Tour 2026: 6 Real Options",
+        description: "Trek with breakfast, a jeep alternative, combined with hot springs or a canoe trip — which Mount Batur sunrise tour to pick, and six real options for every fitness level.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "For most visitors the best option is the **standard sunrise trek with breakfast at the summit**, since reaching 1,717 metres on foot before dawn and eating breakfast as the sun comes up over the crater is the experience people actually picture when they book this. Six real options are below, one for each kind of traveller — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+            tourCard: { slug: "mount-batur-sunrise-trekking-and-breakfast-tour", title: "Mount Batur Sunrise Trekking and Breakfast Tour", description: "The classic hike to the summit, with breakfast as the sun comes up.", price: "From $53", duration: "8 hours", image: IMG },
+          },
+          {
+            title: "If hiking isn't for you: the jeep alternative",
+            content: "A sunrise jeep tour reaches a viewpoint without the 2-3 hour pre-dawn climb, genuinely opening the experience up to anyone who can't or doesn't want to hike in the dark — the view is still the same sunrise over the same crater.",
+            tourCard: { slug: "mount-batur-sunrise-jeep-with-optional-experiences", title: "Mount Batur Sunrise Jeep with Optional Experiences", description: "The same sunrise, without the pre-dawn climb.", price: "From $25", duration: "4 hours", image: IMG },
+          },
+          {
+            title: "If you want the hot springs after",
+            content: "Adding natural hot springs after the trek genuinely helps with the muscle soreness from the pre-dawn climb, and it's a relaxing, scenic way to end what's otherwise an exhausting early morning.",
+            tourCard: { slug: "mount-batur-shared-sunrise-jeep-and-natural-hot-springs", title: "Mount Batur Shared Sunrise Jeep and Natural Hot Springs", description: "The sunrise jeep experience, with hot springs to recover after.", price: "From $25", duration: "5 hours", image: IMG },
+          },
+          {
+            title: "If you want the canoe on Lake Batur",
+            content: "Pairing the trek with a canoe trip on Lake Batur at the base of the volcano adds a genuinely different activity to the morning, worth it if trekking alone feels like not enough for the early start.",
+            tourCard: { slug: "mount-batur-sunrise-trek-and-lake-batur-canoe-tour", title: "Mount Batur Sunrise Trek and Lake Batur Canoe Tour", description: "The trek plus a canoe trip on the lake below the volcano.", price: "From $35", duration: "5 hours", image: IMG },
+          },
+          {
+            title: "If you want it private",
+            content: "A private jeep tour means your own schedule and pace rather than a shared group's — worth it if you want flexibility on timing or stops, including the hot springs, without waiting on others.",
+            tourCard: { slug: "private-jeep-tour-mount-batur-sunrise-and-hot-springs", title: "(private) jeep tour mount batur sunrise and hot springs", description: "Your own pace and timing, not a shared group schedule.", price: "From $83", duration: "4 hours", image: IMG },
+          },
+          {
+            title: "If one morning isn't enough",
+            content: "A 2-day tour pairing the Batur sunrise with Lempuyang Temple spreads the early starts across two days rather than cramming the volcano and the temple's \"Gates of Heaven\" into one exhausting trip.",
+            tourCard: { slug: "2-day-tour-with-mount-batur-sunrise-and-lempuyang-temple", title: "2-Day Tour with Mount Batur Sunrise and Lempuyang Temple", description: "The volcano and the famous temple gates, spread across two days.", price: "From $61", duration: "2 days", image: IMG },
+          },
+          {
+            title: "What time you actually need to leave",
+            content: "Pickup for the trekking version is typically 2-3am, since the climb takes 2-3 hours and needs to finish before sunrise, which shifts with the season. Bring a headlamp, warm layers (it's genuinely cold at altitude before dawn) and proper shoes — this is a real hike on volcanic scree, not a paved path. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best Mount Batur sunrise tour?", a: "The standard sunrise trek with breakfast at the summit suits most visitors — the classic experience of hiking to 1,717 metres before dawn." },
+          { q: "Is there a way to see the Mount Batur sunrise without hiking?", a: "Yes — a sunrise jeep tour reaches a viewpoint without the pre-dawn climb, opening the experience to anyone who can't or doesn't want to hike." },
+          { q: "What time does a Mount Batur sunrise trek start?", a: "Pickup is typically 2-3am, since the 2-3 hour climb needs to finish before sunrise, which shifts by season." },
+          { q: "What should I bring for a Mount Batur sunrise hike?", a: "A headlamp, warm layers for the cold pre-dawn altitude, and proper shoes — it's a real hike on volcanic scree, not a paved path." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best Mount Batur sunrise tour?", "acceptedAnswer": { "@type": "Answer", "text": "The standard sunrise trek with breakfast at the summit suits most visitors." } },
+            { "@type": "Question", "name": "Is there a way to see the Mount Batur sunrise without hiking?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — a sunrise jeep tour reaches a viewpoint without the pre-dawn climb." } },
+            { "@type": "Question", "name": "What time does a Mount Batur sunrise trek start?", "acceptedAnswer": { "@type": "Answer", "text": "Pickup is typically 2-3am, depending on the season." } },
+            { "@type": "Question", "name": "What should I bring for a Mount Batur sunrise hike?", "acceptedAnswer": { "@type": "Answer", "text": "A headlamp, warm layers and proper shoes — it's a real hike on volcanic scree." } },
+          ],
+        },
+      };
+
+    case "best-balinese-cooking-class-ubud":
+      return {
+        title: "Which Is the Best Balinese Cooking Class in Ubud?",
+        seoTitle: "Best Balinese Cooking Class Ubud 2026: 6 Real Options",
+        description: "Market tour included, an evening dinner version, a couples option or a garden-harvest class — which Ubud cooking class to pick, and six real options for every budget.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "For most visitors the best option is a **cooking class with a market tour included**, since shopping for the actual ingredients first — fresh turmeric, galangal, palm sugar — gives real context to the dishes you then cook, rather than starting with pre-measured ingredients already laid out. Six real options are below, one for each priority — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+            tourCard: { slug: "balinese-cooking-class-with-market-tour-in-ubud", title: "Balinese Cooking Class with Market Tour in Ubud", description: "Shop for real ingredients first, then cook with context.", price: "From $64", duration: "3 hours", image: IMG },
+          },
+          {
+            title: "Cheapest: a focused 3-course class",
+            content: "A shorter, lower-priced class covering three core dishes without the market trip or extra add-ons — good if cost matters more than the full experience.",
+            tourCard: { slug: "3-course-balinese-cooking-class-in-ubud", title: "3-Course Balinese Cooking Class in Ubud", description: "A focused, lower-cost class covering the essentials.", price: "From $34", duration: "2 hours", image: IMG },
+          },
+          {
+            title: "If you want the evening dinner version",
+            content: "An evening class that ends with the dinner you've cooked, rather than a lunchtime tasting, turns the activity into your actual evening meal — efficient if you'd be eating out anyway.",
+            tourCard: { slug: "evening-balinese-cooking-class-with-dinner-in-ubud", title: "Evening Balinese Cooking Class with Dinner in Ubud", description: "Cook your own dinner as the evening's meal, not a separate tasting.", price: "From $102", duration: "2.5 hours", image: IMG },
+          },
+          {
+            title: "If you're doing it as a couple",
+            content: "A class designed specifically for couples with its own market visit is worth knowing about if a shared, more intimate version of the experience matters more than a larger group class.",
+            tourCard: { slug: "balinese-cooking-class-for-couples-with-market-visit-in-ubud", title: "Balinese Cooking Class for Couples with Market Visit in Ubud", description: "A more intimate version designed for two.", price: "From $138", duration: "4 hours", image: IMG },
+          },
+          {
+            title: "If you want to harvest your own ingredients",
+            content: "A class that starts with harvesting vegetables and herbs from a garden before cooking goes a step beyond the market version — you're not just buying the ingredients, you're pulling them from the ground yourself.",
+            tourCard: { slug: "balinese-cooking-class-with-garden-harvest-in-ubud", title: "Balinese Cooking Class with Garden Harvest in Ubud", description: "Harvest your own vegetables and herbs before cooking.", price: "From $98", duration: "6 hours", image: IMG },
+          },
+          {
+            title: "If you want it combined with fireflies",
+            content: "Pairing the cooking class with an evening firefly spotting trip adds a genuinely magical, low-cost extra to the night, worth it if you're already booking an evening class.",
+            tourCard: { slug: "balinese-cooking-class-with-dinner-and-fireflies-in-ubud", title: "Balinese Cooking Class with Dinner and Fireflies in Ubud", description: "Dinner from the class, followed by firefly spotting.", price: "From $98", duration: "5 hours", image: IMG },
+          },
+          {
+            title: "What you'll actually cook",
+            content: "Most classes cover a similar core: a sambal made fresh, a chicken or tofu curry (base paste ground by hand, not a jar), and a vegetable dish like gado-gado or urap, plus a dessert like black rice pudding. Vegetarian and vegan adjustments are usually available if you ask when booking, not something every listing states upfront. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best Balinese cooking class in Ubud?", a: "A class with a market tour included suits most visitors, since shopping for real ingredients first gives context before you cook." },
+          { q: "What dishes do you actually cook in a Balinese cooking class?", a: "Most cover a hand-ground sambal, a chicken or tofu curry, a vegetable dish like gado-gado, and a dessert like black rice pudding." },
+          { q: "Can I get a vegetarian or vegan Balinese cooking class?", a: "Usually yes — ask when booking, since it's not always stated upfront in the listing." },
+          { q: "Is a couples-specific cooking class worth the extra cost?", a: "Worth it if a more intimate, shared experience matters more to you than a standard group class." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best Balinese cooking class in Ubud?", "acceptedAnswer": { "@type": "Answer", "text": "A class with a market tour included suits most visitors." } },
+            { "@type": "Question", "name": "What dishes do you actually cook in a Balinese cooking class?", "acceptedAnswer": { "@type": "Answer", "text": "Most cover a hand-ground sambal, a curry, a vegetable dish and a dessert like black rice pudding." } },
+            { "@type": "Question", "name": "Can I get a vegetarian or vegan Balinese cooking class?", "acceptedAnswer": { "@type": "Answer", "text": "Usually yes — ask when booking." } },
+            { "@type": "Question", "name": "Is a couples-specific cooking class worth the extra cost?", "acceptedAnswer": { "@type": "Answer", "text": "Worth it if a more intimate experience matters more than a standard group class." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

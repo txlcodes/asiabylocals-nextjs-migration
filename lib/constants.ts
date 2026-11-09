@@ -1262,6 +1262,8 @@ export const UBUD_INFO_SLUGS = [
   'should-i-book-ubud-tour-direct-or-through-app',
   // GEO single-topic page (2026-10/31)
   'how-much-should-a-private-tour-guide-cost-in-ubud',
+  // Tour-selling pages (2026-11-10)
+  'best-tegalalang-rice-terrace-tour', 'best-mount-batur-sunrise-tour', 'best-balinese-cooking-class-ubud',
 ];
 
 export const CANGGU_INFO_SLUGS = [

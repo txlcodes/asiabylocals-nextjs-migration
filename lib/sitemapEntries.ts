@@ -982,6 +982,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-tours-in-ubud',
     'should-i-book-ubud-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-ubud',
+    'best-tegalalang-rice-terrace-tour', 'best-mount-batur-sunrise-tour', 'best-balinese-cooking-class-ubud',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/ubud/${slug}`,
     lastModified: new Date(),
