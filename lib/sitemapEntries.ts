@@ -79,6 +79,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'delhi-tourist-scams-how-to-avoid-touts',
     'should-i-book-delhi-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-delhi',
+    'best-old-delhi-tour',
   ].map(slug => ({
     url: `${BASE_URL}/india/delhi/${slug}`,
     lastModified: new Date(),
@@ -103,6 +104,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'jaipur-tourist-scams-how-to-avoid-touts',
     'should-i-book-jaipur-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-jaipur',
+    'best-amber-fort-tour-jaipur',
   ].map(slug => ({
     url: `${BASE_URL}/india/jaipur/${slug}`,
     lastModified: new Date(),

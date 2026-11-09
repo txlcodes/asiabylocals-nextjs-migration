@@ -1234,6 +1234,68 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // Tour-selling page (2026-11-10) — each section sells one specific
+    // real tour, not a generic FAQ. Pattern from lib/agraBestInfoContent.ts.
+    case "best-amber-fort-tour-jaipur":
+      return {
+        title: "Which Is the Best Amber Fort Tour in Jaipur?",
+        seoTitle: "Best Amber Fort Tour Jaipur 2026: 6 Real Options",
+        description: "Skip-the-line entry, a full heritage circuit, the evening light show or a private car tour — which Amber Fort tour to pick, and six real options for every budget.",
+        heroImage: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp',
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "For most first-time visitors the best option is a **guided tour combining Amber Fort with the City Palace and Jantar Mantar**, since the three sit within a short drive of each other and a guide explains the fort's defensive architecture and the maharajas' history that a solo visit would miss entirely. Six real options are below, one for each priority — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+            tourCard: { slug: "jaipur-amber-fort-city-palace-and-jantar-mantar", title: "Jaipur: Amber Fort, City Palace, and Jantar Mantar Tour", description: "The fort plus two major palaces in one guided day.", price: "From $40", duration: "Flexible", image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp' },
+          },
+          {
+            title: "Cheapest: skip-the-line entry and guide",
+            content: "A straightforward guided tour with skip-the-line tickets, for travellers who just want the fort itself explained properly without a wider multi-site circuit.",
+            tourCard: { slug: "jaipur-amber-fort-guided-tour-with-skip-the-line", title: "Jaipur: Amber Fort Guided Tour with Skip-the-Line Tickets", description: "The fort alone, with skip-the-line entry and a guide.", price: "From $55", duration: "3 hours", image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp' },
+          },
+          {
+            title: "If you want it private, by car",
+            content: "A private car tour covering Amber Fort, Jal Mahal and more means your own schedule rather than a group's — worth it if you're pairing the fort with other stops in one flexible day.",
+            tourCard: { slug: "from-jaipur-private-amber-fort-jal-mahal-and-more", title: "From Jaipur: Private Amber Fort, Jal Mahal and More Car Tour", description: "Your own pace through the fort and nearby sites, by private car.", price: "From $32", duration: "5 hours", image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp' },
+          },
+          {
+            title: "If you want the evening light show",
+            content: "The Amber Fort light and sound show in the evening tells the fort's history against its own walls after dark — a genuinely different, more atmospheric experience than the daytime visit, worth doing as a separate evening.",
+            tourCard: { slug: "jaipur-evening-light-and-sound-show-at-amber-fort", title: "Jaipur: Evening Light and Sound Show at Amber Fort", description: "The fort's history told through light and sound after dark.", price: "From $52", duration: "Flexible", image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp' },
+          },
+          {
+            title: "If you want it combined with a boat ride",
+            content: "Pairing the fort visit with a boat ride adds the Maota Lake crossing to the day — a nice variation on the standard walk-up approach and genuinely scenic.",
+            tourCard: { slug: "jaipur-half-day-guided-tour-with-amber-fort-and", title: "Jaipur: Half Day Guided Tour with Amber Fort and Boat Ride", description: "The fort plus a boat ride across Maota Lake.", price: "From $31", duration: "5 hours", image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp' },
+          },
+          {
+            title: "If you want the full Pink City circuit",
+            content: "A full-day tour combining Amber Fort with Nahargarh Fort at sunset covers Jaipur's two major hilltop forts in one booking — efficient if you only have one day for Jaipur's major sights.",
+            tourCard: { slug: "jaipur-full-day-tour-with-amer-fort-and-nahargarh", title: "Jaipur: Full-Day Tour with Amer Fort and Nahargarh Sunset", description: "Both of Jaipur's major hilltop forts in one full day.", price: "From $11", duration: "10 hours", image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp' },
+          },
+          {
+            title: "Elephant rides and commission stops",
+            content: "Amber Fort historically offered elephant rides up to the entrance; these are increasingly restricted on animal-welfare grounds, so don't assume one is included — ask directly if it matters to you. Also ask upfront whether the itinerary includes any shop stops, a known pattern on budget Jaipur tours. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best Amber Fort tour in Jaipur?", a: "A guided tour combining Amber Fort with the City Palace and Jantar Mantar suits most visitors, covering three major sites in one day with historical context." },
+          { q: "Can I still ride an elephant up to Amber Fort?", a: "Elephant rides are increasingly restricted on animal-welfare grounds — don't assume one is included, and ask directly if it matters to you." },
+          { q: "Is the Amber Fort evening light show worth it separately from the daytime visit?", a: "Yes — it's a genuinely different, more atmospheric experience told through light and sound after dark, worth booking as its own evening." },
+          { q: "How do I avoid commission-shop stops on a Jaipur tour?", a: "Ask upfront whether the itinerary includes any shop stops, a known pattern especially on lower-priced Jaipur tours." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best Amber Fort tour in Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "A guided tour combining Amber Fort with the City Palace and Jantar Mantar suits most visitors." } },
+            { "@type": "Question", "name": "Can I still ride an elephant up to Amber Fort?", "acceptedAnswer": { "@type": "Answer", "text": "Increasingly restricted on animal-welfare grounds — ask directly if it matters to you." } },
+            { "@type": "Question", "name": "Is the Amber Fort evening light show worth it separately?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — a genuinely different, more atmospheric experience after dark." } },
+            { "@type": "Question", "name": "How do I avoid commission-shop stops on a Jaipur tour?", "acceptedAnswer": { "@type": "Answer", "text": "Ask upfront whether the itinerary includes any shop stops." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

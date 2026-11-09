@@ -883,6 +883,68 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    // Tour-selling page (2026-11-10) — each section sells one specific
+    // real tour, not a generic FAQ. Pattern from lib/agraBestInfoContent.ts.
+    case "best-old-delhi-tour":
+      return {
+        title: "Which Is the Best Old Delhi Tour?",
+        seoTitle: "Best Old Delhi Tour 2026: 6 Real Options",
+        description: "Food and heritage, street food night, Red Fort light show or a private full-day version — which Old Delhi tour to pick, and six real options for every budget.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "For most first-time visitors the best Old Delhi tour is a **guided food and heritage walk** through Chandni Chowk and the surrounding bazaars, since Old Delhi's real draw is the street food and chaotic lanes, not a single monument — a guide who knows which stall is actually worth the queue makes a genuine difference here. Six real options are below, one for each priority — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+            tourCard: { slug: "delhi-private-old-delhi-food-and-heritage-tour", title: "Delhi: Private Old Delhi Food and Heritage Tour with Guide", description: "Chandni Chowk's street food and heritage, with a guide who knows the right stalls.", price: "From $164", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp" },
+          },
+          {
+            title: "Cheapest: a focused street food walk",
+            content: "A shorter, lower-priced tour focused specifically on the food stalls and tastings, without the fuller heritage walk around it — good if street food is the actual draw and you want to keep the cost down.",
+            tourCard: { slug: "delhi-old-delhi-street-food-tour-tastings", title: "Delhi: Old Delhi Street Food Tour & Tastings", description: "A focused food tour through Chandni Chowk's best stalls.", price: "From $36", duration: "4.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp" },
+          },
+          {
+            title: "If you want it at night",
+            content: "An evening version pairs street food with the bazaars and a tuk-tuk ride once the heat breaks and the lanes light up — a genuinely different atmosphere than the same streets at midday.",
+            tourCard: { slug: "old-delhi-street-food-night-spices-bazaars-tuk", title: "Old Delhi: Street Food Night, Spices, Bazaars & Tuk Tuk Ride", description: "The same streets after dark, by tuk-tuk, once the heat breaks.", price: "From $21", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp" },
+          },
+          {
+            title: "If you want the Red Fort light and sound show",
+            content: "A dedicated evening show at the Red Fort tells the fort's history through light and narration against the walls themselves — worth doing as its own evening rather than squeezed into a daytime sightseeing circuit.",
+            tourCard: { slug: "delhi-red-fort-guided-evening-light-sound-show", title: "Delhi: Red Fort Guided Evening Light & Sound Show", description: "The fort's history told through light and sound against its own walls.", price: "From $52", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp" },
+          },
+          {
+            title: "If you want a female guide",
+            content: "A tour led specifically by a female guide is worth knowing exists if that's a genuine preference for comfort navigating Old Delhi's crowded lanes and markets.",
+            tourCard: { slug: "delhi-new-and-old-delhi-tour-with-female-guide", title: "Delhi: New And Old Delhi Tour With Female Guide", description: "Both new and old Delhi, led by a female guide.", price: "From $55", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp" },
+          },
+          {
+            title: "If shopping is the real goal",
+            content: "A private shopping tour with a local guide gets you into the Khari Baoli spice market and the fabric and jewellery lanes with someone who can actually help you bargain, rather than wandering in cold.",
+            tourCard: { slug: "delhi-old-delhi-private-shopping-tour-with-local", title: "Delhi: Old Delhi Private Shopping Tour with Local Guide", description: "The spice market and bazaars with a guide who helps you bargain.", price: "From $84", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp" },
+          },
+          {
+            title: "What to actually watch for",
+            content: "Old Delhi's lanes are genuinely crowded and a known spot for the \"monument is closed\" scam, where an unlicensed tout redirects you to a commission shop instead. A guide who's actually licensed and known to the operator removes this risk entirely — it's one of the clearest cases where a guided tour earns its price over going it alone. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best Old Delhi tour?", a: "A guided food and heritage walk through Chandni Chowk suits most visitors, since a guide who knows the right stalls makes a real difference in the chaotic lanes." },
+          { q: "Is the Old Delhi street food tour worth it over going alone?", a: "Yes for most visitors — a guide handles the ordering and knows which stalls are worth the queue, which matters in a neighbourhood with dozens of similar-looking options." },
+          { q: "What is the 'monument is closed' scam in Old Delhi?", a: "An unlicensed tout claims a sight is closed and redirects tourists to a commission shop instead. A licensed guide from a vetted operator avoids this entirely." },
+          { q: "Should I see the Red Fort during the day or at the evening light show?", a: "Both are worth doing separately — the daytime visit covers the fort itself, while the evening light and sound show tells its history through a different, more atmospheric format." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best Old Delhi tour?", "acceptedAnswer": { "@type": "Answer", "text": "A guided food and heritage walk through Chandni Chowk suits most visitors." } },
+            { "@type": "Question", "name": "Is the Old Delhi street food tour worth it over going alone?", "acceptedAnswer": { "@type": "Answer", "text": "Yes for most visitors — a guide handles ordering and knows which stalls are worth the queue." } },
+            { "@type": "Question", "name": "What is the 'monument is closed' scam in Old Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "An unlicensed tout claims a sight is closed and redirects tourists to a commission shop." } },
+            { "@type": "Question", "name": "Should I see the Red Fort during the day or at the evening light show?", "acceptedAnswer": { "@type": "Answer", "text": "Both are worth doing separately, for different experiences." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }
