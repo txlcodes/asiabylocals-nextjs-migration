@@ -126,8 +126,8 @@ export const DELHI_INFO_SLUGS = [
   'delhi-tourist-scams-how-to-avoid-touts',
   'should-i-book-delhi-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-delhi',
-  // Tour-selling page (2026-11-10)
-  'best-old-delhi-tour'
+  // Tour-selling pages (2026-11-10)
+  'best-old-delhi-tour', 'best-india-gate-tour'
 ];
 
 export const JAIPUR_INFO_SLUGS = [
@@ -152,8 +152,8 @@ export const JAIPUR_INFO_SLUGS = [
   'jaipur-tourist-scams-how-to-avoid-touts',
   'should-i-book-jaipur-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-jaipur',
-  // Tour-selling page (2026-11-10)
-  'best-amber-fort-tour-jaipur'
+  // Tour-selling pages (2026-11-10)
+  'best-amber-fort-tour-jaipur', 'best-hawa-mahal-tour-jaipur'
 ];
 
 export const PHUKET_INFO_SLUGS = [

@@ -945,6 +945,56 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-india-gate-tour":
+      return {
+        title: "Which Is the Best India Gate Tour in Delhi?",
+        seoTitle: "Best India Gate Tour Delhi 2026: 5 Real Options",
+        description: "Night tour with Connaught Place, combined with Akshardham, an airport layover version or a half-day combo — which India Gate tour to pick, and five real options.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "For most visitors the best option is a **night tour combining India Gate with Connaught Place**, since the monument is genuinely better lit and more atmospheric after dark, and pairing it with Connaught Place's markets and cafes turns a quick photo stop into a proper evening out. Five real options are below, one for each kind of visit — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+            tourCard: { slug: "delhi-night-tour-with-india-gate-and-connaught", title: "Delhi: Night Tour with India Gate and Connaught Place", description: "India Gate lit up at night, paired with Connaught Place's markets and cafes.", price: "From $16", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp" },
+          },
+          {
+            title: "If you want it combined with Akshardham",
+            content: "Pairing India Gate with Akshardham Temple and Safdarjung Tomb in one evening covers three very different sights — a war memorial, a modern temple complex and a Mughal-era tomb — efficiently in a single night tour.",
+            tourCard: { slug: "delhi-akshardham-temple-india-gate-safdarjung-nigh", title: "Delhi: Akshardham Temple India Gate & Safdarjung Night Tour", description: "Three very different Delhi landmarks in one evening.", price: "From $63", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp" },
+          },
+          {
+            title: "If you have an airport layover",
+            content: "A dedicated layover tour covering India Gate plus airport transfers is built specifically for travellers with a long connection who want to see something of Delhi without the logistics risk of a standalone city trip.",
+            tourCard: { slug: "india-gate-airport-guided-tour", title: "New Delhi: India Gate & Airport Guided Tour", description: "A layover-specific tour built around your flight connection.", price: "From $70", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp" },
+          },
+          {
+            title: "If you want it combined with lunch and a cathedral stop",
+            content: "A half-day tour adding the Sacred Heart Cathedral and lunch before or after India Gate is a good fit if you want a calmer, less rushed daytime version rather than the evening crowd.",
+            tourCard: { slug: "delhi-half-day-sacred-heart-cathedral-lunch-india-", title: "Delhi: Half Day Sacred Heart Cathedral, Lunch & India Gate", description: "A calmer daytime version with lunch and a cathedral stop.", price: "From $26", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp" },
+          },
+          {
+            title: "What to actually expect",
+            content: "India Gate is a public memorial with no entrance fee — most of what you're paying for in a tour is the guide's context (the memorial's WWI history, the Amar Jawan Jyoti eternal flame) and transport to and from your hotel, not an entrance ticket. Evenings and weekends draw large local crowds for picnics and ice cream vendors, which is part of the atmosphere, not a problem. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best India Gate tour in Delhi?", a: "A night tour combining India Gate with Connaught Place suits most visitors, since the monument is more atmospheric after dark and pairs well with the markets nearby." },
+          { q: "Is there an entrance fee for India Gate?", a: "No, it's a public memorial with free access. A guided tour's cost covers the guide's context and transport, not an entrance ticket." },
+          { q: "Is India Gate worth visiting during the day or at night?", a: "Night is generally considered the better experience, since the monument is lit and the atmosphere (including local families picnicking) is part of the draw." },
+          { q: "Can I combine an India Gate tour with an airport layover?", a: "Yes — a dedicated layover tour exists that times the visit around flight connections and includes airport transfers." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best India Gate tour in Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "A night tour combining India Gate with Connaught Place suits most visitors." } },
+            { "@type": "Question", "name": "Is there an entrance fee for India Gate?", "acceptedAnswer": { "@type": "Answer", "text": "No, it's a public memorial with free access." } },
+            { "@type": "Question", "name": "Is India Gate worth visiting during the day or at night?", "acceptedAnswer": { "@type": "Answer", "text": "Night is generally considered the better experience, since the monument is lit." } },
+            { "@type": "Question", "name": "Can I combine an India Gate tour with an airport layover?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — a dedicated layover tour exists built around flight connections." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

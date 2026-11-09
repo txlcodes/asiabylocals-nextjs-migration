@@ -1296,6 +1296,66 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-hawa-mahal-tour-jaipur":
+      return {
+        title: "Which Is the Best Hawa Mahal Tour in Jaipur?",
+        seoTitle: "Best Hawa Mahal Tour Jaipur 2026: 6 Real Options",
+        description: "A focused photoshoot, a walking tour with Jantar Mantar, a full City Palace combo or the complete Pink City circuit — which Hawa Mahal tour to pick, and six real options.",
+        heroImage: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp',
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "For most visitors the best option is a **guided walking tour combining Hawa Mahal with Jantar Mantar**, since both sit a short walk apart in the old Pink City and a guide explains why Hawa Mahal's 953 windows exist at all — it was built so royal women could watch street life unseen, a detail that changes how the facade reads. Six real options are below, one for each priority — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+            tourCard: { slug: "jaipur-jantar-mantar-hawa-mahal-guided-walking", title: "Jaipur: Jantar Mantar & Hawa Mahal Guided Walking Tour", description: "Both sights a short walk apart, explained by a local guide.", price: "From $13", duration: "Flexible", image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp' },
+          },
+          {
+            title: "If photos are the actual goal",
+            content: "A dedicated photoshoot in front of Hawa Mahal's iconic pink facade is worth it over a quick phone photo if you actually want professional images from the trip — the famous honeycomb facade photographs best in early morning light before the street fills up.",
+            tourCard: { slug: "jaipur-hawa-mahal-private-photoshoot", title: "Jaipur: Hawa Mahal Private Photoshoot", description: "Professional photos of the iconic honeycomb facade.", price: "From $34", duration: "30 minutes", image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp' },
+          },
+          {
+            title: "If you want the full City Palace combo",
+            content: "Pairing Hawa Mahal with City Palace and Jantar Mantar in one private tour covers Jaipur's three central old-city attractions efficiently, all within walking distance of each other.",
+            tourCard: { slug: "jaipur-city-palace-hawa-mahal-jantar-mantar", title: "Jaipur: City Palace, Hawa Mahal & Jantar Mantar Private Tour", description: "The three central old-city sights in one private tour.", price: "From $47", duration: "8 hours", image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp' },
+          },
+          {
+            title: "If you want it with entry ticket included",
+            content: "A guided tour that bundles the City Palace entrance ticket with Hawa Mahal removes a separate line and purchase, simplifying the day if you're planning to go inside the palace itself, not just view the facade.",
+            tourCard: { slug: "jaipur-city-palace-hawa-mahal-guided-tour-with-ent", title: "Jaipur: City Palace Hawa Mahal Guided Tour with Entry Ticket", description: "City Palace entry bundled in, no separate ticket line.", price: "From $18", duration: "4 hours", image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp' },
+          },
+          {
+            title: "If you want the full Pink City circuit",
+            content: "A full day combining Amber Fort, Hawa Mahal and Jal Mahal covers Jaipur's major sights across both the hilltop fort and the old city in one booking, by private car.",
+            tourCard: { slug: "jaipur-private-car-tour-with-hawa-mahal-amber-pala", title: "Jaipur: Private Car Tour with Hawa Mahal & Amber Palace", description: "The fort and the old city's major sights in one private day.", price: "From $47", duration: "8 hours", image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp' },
+          },
+          {
+            title: "If shopping is part of the plan",
+            content: "A tour combining a Hawa Mahal photo stop with lac bangle-making and shopping is worth knowing about if you want a craft experience built into the sightseeing, not just a drive-by photo.",
+            tourCard: { slug: "shopping-lac-bangles-making-photostop-at-hawa-maha", title: "Shopping, Lac Bangles Making & Photostop at Hawa Mahal", description: "A craft workshop and shopping combined with the Hawa Mahal visit.", price: "From $53", duration: "4 hours", image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp' },
+          },
+          {
+            title: "What most visitors don't realise",
+            content: "Hawa Mahal's famous facade is viewed from the street — most tours don't actually go inside, and the interior is far less visually striking than the exterior. If going inside matters to you, confirm it's included before booking; many of the options above are photo-and-facade tours, not interior visits. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best Hawa Mahal tour in Jaipur?", a: "A guided walking tour combining Hawa Mahal with Jantar Mantar suits most visitors, since both sights are a short walk apart in the old Pink City." },
+          { q: "Do Hawa Mahal tours go inside the building?", a: "Most don't — the famous facade is viewed from the street, and many tours are photo-and-facade visits rather than interior tours. Confirm before booking if going inside matters to you." },
+          { q: "What time is best to photograph Hawa Mahal?", a: "Early morning, before the street in front fills up with traffic and crowds, gives the clearest shot of the honeycomb facade." },
+          { q: "Can I combine a Hawa Mahal visit with shopping or a craft workshop?", a: "Yes — some tours combine the photo stop with lac bangle-making and nearby shopping for a fuller experience." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best Hawa Mahal tour in Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "A guided walking tour combining Hawa Mahal with Jantar Mantar suits most visitors." } },
+            { "@type": "Question", "name": "Do Hawa Mahal tours go inside the building?", "acceptedAnswer": { "@type": "Answer", "text": "Most don't — the facade is viewed from the street; confirm before booking if going inside matters to you." } },
+            { "@type": "Question", "name": "What time is best to photograph Hawa Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "Early morning, before the street fills up with traffic and crowds." } },
+            { "@type": "Question", "name": "Can I combine a Hawa Mahal visit with shopping or a craft workshop?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — some tours combine the photo stop with lac bangle-making and shopping." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }
