@@ -995,6 +995,66 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-qutub-minar-tour":
+      return {
+        title: "Which Is the Best Qutub Minar Tour in Delhi?",
+        seoTitle: "Best Qutub Minar Tour Delhi 2026: 6 Real Options",
+        description: "Combined with Humayun's Tomb, a skip-the-line express version, a night tour or the light and sound show — which Qutub Minar tour to pick, and six real options.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "For most visitors the best option is a **combined Qutub Minar and Humayun's Tomb private tour**, since both are UNESCO World Heritage Sites within a reasonable drive of each other and a guide explains the Qutub complex's layered history — the 73-metre minaret itself, plus the iron pillar and the ruins around it that most visitors walk past without context. Six real options are below, one for each priority — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+            tourCard: { slug: "delhi-qutub-minar-and-humayuns-tomb-private", title: "Delhi: Qutub Minar and Humayun's Tomb Private Guided Tour", description: "Both UNESCO sites in one private tour, with context for both.", price: "From $60", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp" },
+          },
+          {
+            title: "Cheapest: a focused walking tour",
+            content: "A straightforward UNESCO site walking tour covering just the Qutub Minar complex, without a wider combined itinerary — good if you're short on time or budget.",
+            tourCard: { slug: "delhi-qutub-minar-unesco-world-heritage-site-walki", title: "Delhi: Qutub Minar UNESCO World Heritage Site Walking Tour", description: "A focused tour of the complex alone.", price: "From $18", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp" },
+          },
+          {
+            title: "If you want it fast: skip-the-line with transfers",
+            content: "A skip-the-line express version with transfers included removes the entrance queue and the logistics of getting there, good for travellers with a tight schedule who still want the guided context.",
+            tourCard: { slug: "delhi-qutub-minar-skip-the-line-private-tour-with", title: "Delhi: Qutub Minar Skip-the-Line Private Tour with Transfers", description: "No queue, transfers handled, a faster version of the visit.", price: "From $45", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp" },
+          },
+          {
+            title: "If you want it at night",
+            content: "A heritage night tour sees the minaret lit differently than during the day, with far fewer visitors around — a genuinely different atmosphere worth considering as a separate evening rather than squeezed into a daytime sightseeing circuit.",
+            tourCard: { slug: "delhi-qutub-minar-heritage-night-tour-with-guide", title: "Delhi: Qutub Minar Heritage Night Tour with Guide", description: "The complex lit at night, with far fewer visitors.", price: "From $30", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp" },
+          },
+          {
+            title: "If you want the light and sound show",
+            content: "A private tour built around the light and sound show tells the Qutub complex's history through narration and lighting against the ruins themselves, a different format from a standard daytime guided walk.",
+            tourCard: { slug: "new-delhi-private-tour-of-qutub-minar-light-and", title: "New Delhi: Private Tour of Qutub Minar Light and Sound Show", description: "The complex's history told through light and sound after dark.", price: "From $11", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp" },
+          },
+          {
+            title: "If you want Humayun's Tomb added differently",
+            content: "A half-day tour pairing Humayun's Tomb with the nearby Safdarjung Tomb instead of Qutub Minar is worth knowing about if you'd rather see Delhi's other major Mughal-era tomb complexes in one trip.",
+            tourCard: { slug: "delhi-half-day-guided-tour-humayuns-tomb", title: "Delhi: Half-Day Guided Tour Humayun's Tomb & Safdarjung Tomb", description: "Two of Delhi's major Mughal tomb complexes, not including Qutub Minar.", price: "From $50", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp" },
+          },
+          {
+            title: "What's actually worth knowing",
+            content: "The Qutub Minar's iron pillar is famous for having resisted rust for over 1,600 years — a detail most self-guided visitors miss entirely without someone pointing out what makes it unusual. The complex gets genuinely hot and offers little shade by midday, so morning or late afternoon visits are more comfortable than midday ones. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best Qutub Minar tour in Delhi?", a: "A combined Qutub Minar and Humayun's Tomb private tour suits most visitors, covering both UNESCO sites with historical context." },
+          { q: "How long does a Qutub Minar visit take?", a: "A focused walking tour of the complex alone runs flexible/short; combined tours with Humayun's Tomb typically run 3-4 hours." },
+          { q: "Is Qutub Minar worth visiting at night?", a: "Yes — a heritage night tour or the light and sound show offers a genuinely different, less crowded experience than the daytime visit." },
+          { q: "What is special about the iron pillar at Qutub Minar?", a: "It has resisted rust for over 1,600 years, a detail most visitors miss without a guide pointing it out." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best Qutub Minar tour in Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "A combined Qutub Minar and Humayun's Tomb private tour suits most visitors." } },
+            { "@type": "Question", "name": "How long does a Qutub Minar visit take?", "acceptedAnswer": { "@type": "Answer", "text": "A focused walking tour runs short; combined tours typically run 3-4 hours." } },
+            { "@type": "Question", "name": "Is Qutub Minar worth visiting at night?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — a night tour or light and sound show offers a different, less crowded experience." } },
+            { "@type": "Question", "name": "What is special about the iron pillar at Qutub Minar?", "acceptedAnswer": { "@type": "Answer", "text": "It has resisted rust for over 1,600 years." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

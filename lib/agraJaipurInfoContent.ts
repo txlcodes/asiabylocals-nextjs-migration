@@ -1356,6 +1356,66 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-jaipur-shopping-tour":
+      return {
+        title: "Which Is the Best Jaipur Shopping Tour?",
+        seoTitle: "Best Jaipur Shopping Tour 2026: 6 Real Options",
+        description: "Jewelry and fabrics, a tuk-tuk bazaar crawl, a female-guide option, spice market walk or a no-shopping heritage alternative — which Jaipur shopping tour to pick.",
+        heroImage: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp',
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "For most visitors the best option is a **shopping tour covering jewelry, fabrics, rugs and block prints**, since Jaipur is genuinely one of India's best cities for these specific crafts and a guide who knows the honest shops from the commission-heavy ones is worth having — bargaining culture here rewards local knowledge more than confidence alone. Six real options are below, one for each priority — every one is a live listing you can message about before you pay: WhatsApp +91 84495 38716 or email, and a person answers.",
+            tourCard: { slug: "jaipur-shopping-tour-jewelry-fabrics-rugs-block", title: "Jaipur Shopping Tour: Jewelry, Fabrics, Rugs & Block Prints", description: "Jaipur's signature crafts, with a guide who knows the honest shops.", price: "From $35", duration: "4 hours", image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp' },
+          },
+          {
+            title: "Cheapest: a tuk-tuk bazaar crawl",
+            content: "A lower-priced tuk-tuk tour through the bazaars with art workshops included covers more ground for less, good for travellers who want the atmosphere and craft demonstrations without a focused buying trip.",
+            tourCard: { slug: "jaipur-tuk-tuk-shopping-tour-with-art-workshops", title: "Jaipur: Tuk Tuk Shopping Tour with Art Workshops and Bazaar", description: "A budget-friendly bazaar crawl with craft demonstrations.", price: "From $13", duration: "4 hours", image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp' },
+          },
+          {
+            title: "If you want a female guide",
+            content: "A private shopping tour led specifically by a female guide is worth knowing exists if that's a genuine preference for comfort navigating crowded markets and negotiating with shopkeepers.",
+            tourCard: { slug: "jaipur-private-shopping-tour-with-female-expert", title: "Jaipur: Private Shopping Tour with Female Expert Tour Guide", description: "A shopping tour led by a female guide.", price: "From $20", duration: "4 hours", image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp' },
+          },
+          {
+            title: "If spices and street food are the goal",
+            content: "A dedicated spice market and street food walking tour is a genuinely different focus than textiles or jewelry — worth booking separately if food and spices are what actually draws you to the markets.",
+            tourCard: { slug: "jaipur-spice-market-and-street-food-walking-tour", title: "Jaipur: Spice Market and Street Food Walking Tour", description: "A focused walk through the spice bazaars and food stalls.", price: "From $21", duration: "2.5 hours", image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp' },
+          },
+          {
+            title: "If you're shopping for a wedding outfit",
+            content: "A tour specifically built around finding wedding outfits is worth knowing about if that's your actual purpose — Jaipur's bridal and formal-wear shops are a specific niche that a general shopping tour won't navigate as well.",
+            tourCard: { slug: "jaipur-wedding-outfit-shopping-tour-with-local-guy", title: "Jaipur: Wedding Outfit Shopping Tour with Local Guy", description: "A focused tour for bridal and formal wear specifically.", price: "From $7", duration: "6 hours", image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp' },
+          },
+          {
+            title: "If you don't want the commission-shop pressure",
+            content: "A tour explicitly marketed as \"no shopping\" and focused on a heritage walk instead is worth booking if you've been burned by pushy sales tactics before, or simply want sightseeing without any commercial detours at all.",
+            tourCard: { slug: "jaipur-no-shopping-full-day-guided-tour-with", title: "Jaipur: No Shopping, Full-day Guided Tour with Heritage Walk", description: "A full day of sightseeing with zero shopping stops, by design.", price: "From $52", duration: "8 hours", image: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp' },
+          },
+          {
+            title: "How bargaining actually works here",
+            content: "Jaipur's bazaars expect negotiation on most non-fixed-price items — starting at roughly half the quoted price and settling somewhere in the middle is a reasonable approach for crafts, textiles and jewelry, though gemstones and genuinely old pieces are a specialist category where a guide's honesty matters most. A tour operator with a long-standing relationship to specific shops may receive a commission on sales, which isn't automatically dishonest, but ask directly if that affects what gets recommended. On AsiaByLocals, every option above can be questioned on WhatsApp or email before you pay, and we confirm with the operator and refund in full if they can't take your date.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best Jaipur shopping tour?", a: "A shopping tour covering jewelry, fabrics, rugs and block prints suits most visitors, with a guide who knows the honest shops from commission-heavy ones." },
+          { q: "Do Jaipur shopping tour guides get a commission from shops?", a: "Some do, through long-standing shop relationships — this isn't automatically dishonest, but ask directly if it affects what gets recommended to you." },
+          { q: "How much should I bargain in Jaipur's bazaars?", a: "Starting at roughly half the quoted price and settling in the middle is a reasonable approach for most crafts and textiles; gemstones are a specialist category needing more care." },
+          { q: "Is there a Jaipur tour with no shopping stops at all?", a: "Yes — a \"no shopping\" full-day heritage tour exists specifically for travellers who want sightseeing without any commercial detours." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best Jaipur shopping tour?", "acceptedAnswer": { "@type": "Answer", "text": "A shopping tour covering jewelry, fabrics, rugs and block prints suits most visitors." } },
+            { "@type": "Question", "name": "Do Jaipur shopping tour guides get a commission from shops?", "acceptedAnswer": { "@type": "Answer", "text": "Some do, through long-standing shop relationships — ask directly if it affects recommendations." } },
+            { "@type": "Question", "name": "How much should I bargain in Jaipur's bazaars?", "acceptedAnswer": { "@type": "Answer", "text": "Starting at roughly half the quoted price and settling in the middle is reasonable for most items." } },
+            { "@type": "Question", "name": "Is there a Jaipur tour with no shopping stops at all?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — a 'no shopping' full-day heritage tour exists for that specifically." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }
