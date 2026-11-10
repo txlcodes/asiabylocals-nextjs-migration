@@ -13652,6 +13652,258 @@ export const IT_TOURS: Record<string, TourT> = {
    "Fotografia dove limitata"
   ]
  },
+ "kyoto-samurai-sword-chambara-filming-experience": {
+  "title": "Chambara al Myokaku-ji: coreografia di spada filmata nei terreni del tempio",
+  "metaTitle": "Esperienza di spada chambara a Kyoto",
+  "metaDescription": "Imparate le tecniche di spada usate nei film storici giapponesi da attori che le eseguono professionalmente, in kimono, in un tempio dove soggiornò Nobunaga.",
+  "shortDescription": "Imparate le tecniche di spada usate nei film storici giapponesi da attori che le eseguono professionalmente, in kimono, in un tempio dove soggiornò Nobunaga.",
+  "fullDescription": "Il chambara è la coreografia di spada del cinema e della televisione storica giapponese, una disciplina a sé, con scuole proprie, e nulla a che vedere con il combattimento scenico occidentale. Gli istruttori qui sono attori professionisti di film storici, ed è ciò che distingue questa esperienza da una semplice occasione fotografica in costume.\n\nImparerete a tenere e muovere la spada, poi due dei tagli fondamentali: **makkogiri**, il colpo verticale verso il basso, e **kesagiri**, il taglio diagonale che prende il nome dalla linea di una veste monacale. Entrambi sono più difficili di quanto appaiano, e la difficoltà sta nell'arresto del movimento, non nello slancio.\n\nSarete vestiti in kimono per l'occasione, incluso nel prezzo, e imparerete anche a indossarlo come parte della lezione.\n\nGli istruttori eseguono poi una dimostrazione, ed è la parte che ridefinisce le aspettative di tutti, vedere persone che lo fanno di professione muoversi a piena velocità, da vicino, rende le versioni cinematografiche comprensibili in un modo che nessuna spiegazione riesce a dare.\n\nPoi eseguite ciò che avete imparato, e viene filmato. Foto e video sono realizzati con la vostra fotocamera personale, con un servizio di download incluso.\n\nL'ambientazione è il punto centrale di tutta l'esperienza. Il **Myokaku-ji** è un tempio a Kamigyo-ku dove soggiornarono signori della guerra del periodo Sengoku, tra cui Oda Nobunaga, e il dojo si trova all'interno del terreno. Fare esercizi di spada su quel suolo è un'esperienza molto diversa da uno studio in un centro commerciale.\n\nIl gruppo è limitato a sei persone. L'istruzione è in giapponese, mostrata per intero dal vivo, il che funziona bene per un addestramento fisico. Trasporto e pasti sono a carico dei partecipanti.",
+  "highlights": [],
+  "included": [
+   "Istruzione di spada chambara da attori professionisti di film storici",
+   "Noleggio del kimono e vestizione",
+   "Dimostrazione da parte degli istruttori",
+   "Sequenza di spada filmata",
+   "Servizio di download delle foto",
+   "Foto e video con la propria fotocamera",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il tempio Myokaku-ji",
+   "Pasti",
+   "Transfer da e per l'hotel"
+  ]
+ },
+ "osaka-tea-ceremony-calligraphy-kimono-experience": {
+  "title": "Tre tradizioni in un pomeriggio: kimono, calligrafia e tè a Osaka",
+  "metaTitle": "Kimono, calligrafia e cerimonia del tè a Osaka",
+  "metaDescription": "Vestiti in kimono con una semplice acconciatura, poi una lezione di calligrafia, poi una cerimonia del tè con dolcetti, tre ore, massimo quattro persone.",
+  "shortDescription": "Vestiti in kimono con una semplice acconciatura, poi una lezione di calligrafia, poi una cerimonia del tè con dolcetti, tre ore, massimo quattro persone.",
+  "fullDescription": "Fare kimono, calligrafia e tè come tre prenotazioni separate richiede tre mezze giornate e tre spostamenti. Questa sessione le unisce in un solo pomeriggio nella stessa stanza, nell'ordine che ha più senso, con un massimo di quattro persone.\n\n**Prima il kimono**, perché tutto ciò che viene dopo si fa meglio vestiti a modo. Scegliete da una collezione e il personale vi veste correttamente, gli strati, l'imbottitura, l'obi, con una semplice acconciatura inclusa. Cambia il modo in cui ci si siede, cosa che si rivela importante per le due ore successive.\n\n**Poi la calligrafia.** Un insegnante vi guida attraverso il pennello: la presa verticale, la quantità di inchiostro, e come la pressione cambia la larghezza del tratto. Scrivete un carattere a vostra scelta. È la parte che la maggior parte si aspetta come riempitivo e finisce per essere quella a cui dedicano più tempo.\n\n**Il tè per ultimo**, che è l'ordine corretto, la cerimonia del tè è pensata come il momento di quiete alla fine di qualcosa, e arrivarci in kimono dopo un'ora di concentrazione è vicino al modo in cui va vissuta. Imparerete la storia e il senso dietro al rituale invece di vederlo solo eseguito, e vengono servite caramelle tradizionali insieme al matcha.\n\nIl limite di quattro persone è ciò che la fa funzionare. È vicina a una sessione privata, il che si adatta bene a famiglie e a chi è alla prima esperienza e preferisce fare domande piuttosto che seguire il ritmo di un gruppo di venti persone.\n\nIl luogo si trova al secondo piano di un edificio a Uehonmachi, distretto di Tennoji, raggiungibile da due stazioni principali. L'insegnamento è interamente in inglese. Trasporto, acconciatura extra e trucco non sono inclusi.",
+  "highlights": [],
+  "included": [
+   "Costume kimono e vestizione",
+   "Semplice acconciatura",
+   "Sessione di calligrafia con un insegnante",
+   "Cerimonia del tè giapponese",
+   "Dolcetti tradizionali"
+  ],
+  "notIncluded": [
+   "Trasporto fino al luogo di svolgimento",
+   "Acconciatura o trucco extra",
+   "Cibo e bevande aggiuntivi",
+   "Transfer da e per l'hotel",
+   "Mance"
+  ]
+ },
+ "osaka-kendo-samurai-training-dojo": {
+  "title": "Kendo in un dojo di Osaka: armatura, spada di bambù e due ore di lezione",
+  "metaTitle": "Esperienza di kendo in un dojo a Osaka",
+  "metaDescription": "Indossate l'armatura completa di kendo in un dojo attivo, imparate l'etichetta e i colpi da un istruttore di lingua inglese, e fate sparring se lo desiderate.",
+  "shortDescription": "Indossate l'armatura completa di kendo in un dojo attivo, imparate l'etichetta e i colpi da un istruttore di lingua inglese, e fate sparring se lo desiderate.",
+  "fullDescription": "Il kendo è ciò che è diventata la spada giapponese quando le lame hanno smesso di essere affilate. Le tecniche derivano direttamente dalle scuole che addestravano i samurai; lo shinai, una spada di quattro listelli di bambù legati insieme, e l'armatura bogu furono sviluppati nel diciottesimo secolo per permettere ai praticanti di colpirsi a piena forza senza uccidersi. Si pratica ancora così, ed è ancora rumoroso.\n\nQuesta sessione di due ore si svolge in un vero dojo, non in uno studio, ed è pensata per i principianti. Si apre con la parte più importante, di cui la maggior parte dei visitatori non ha mai sentito parlare: il **reiho**, l'etichetta. Dove inchinarsi, quando, davanti a chi, come entrare e uscire dalla sala. Nel kendo l'etichetta non è una decorazione intorno alla pratica, viene trattata come parte della pratica stessa, e sbagliarla è un errore più grave di un colpo mal riuscito.\n\nPoi l'armatura. Il bogu è più pesante e più caldo di quanto sembri, e il men, il casco con la sua grata, cambia ciò che si può vedere e sentire. Indossarlo correttamente richiede aiuto.\n\nSeguono poi i colpi: men alla testa, kote al polso, do al busto, ciascuno annunciato con un grido nel momento in cui colpisce, perché nel kendo un punto richiede il colpo, la voce e il movimento completo insieme. Colpire correttamente è molto più difficile che colpire con forza.\n\nChiunque abbia esperienza precedente nelle arti marziali o nel kendo può invece fare sparring con un praticante esperto. Le fotografie in armatura sono incluse.\n\nI gruppi sono limitati a dodici persone, l'insegnamento è in inglese, e il dojo si trova nel distretto di Kita-ku, Osaka.",
+  "highlights": [],
+  "included": [
+   "Lezione su kendo, bushido ed etichetta reiho",
+   "Uniforme completa di kendo e armatura protettiva",
+   "Istruzione da un insegnante esperto di lingua inglese",
+   "Sparring per gli ospiti con esperienza precedente",
+   "Fotografie in armatura"
+  ],
+  "notIncluded": [
+   "Trasporto al dojo",
+   "Cibo e bevande",
+   "Transfer da e per l'hotel"
+  ]
+ },
+ "nagoya-osu-maid-cafe-experience": {
+  "title": "Un maid cafe a Osu: la versione di Nagoya dell'originale di Akihabara",
+  "metaTitle": "Maid cafe a Osu, Nagoya",
+  "metaDescription": "Un'ora nel quartiere commerciale di Osu, nella filiale di Nagoya della più conosciuta catena di maid cafe, con bevanda, cibo, foto e tassa del tavolo incluse.",
+  "shortDescription": "Un'ora nel quartiere commerciale di Osu, nella filiale di Nagoya della più conosciuta catena di maid cafe, con bevanda, cibo, foto e tassa del tavolo incluse.",
+  "fullDescription": "Osu è la versione di Akihabara a Nagoya, incrociata con un mercato coperto: diverse centinaia di metri di gallerie che vendono abiti di seconda mano, elettronica, articoli anime, cibo da strada e antiquariato, ancorate a un tempio. È il quartiere commerciale più piacevole della città e notevolmente meno levigato del suo equivalente a Tokyo, che è proprio il punto.\n\nIl maid cafe qui appartiene alla catena nata ad Akihabara e diffusa da allora in tutto il Giappone. Il formato è rimasto invariato e completamente sincero: sarete accolti come ospiti della casa, non come clienti, il personale mantiene il tono per tutta la durata, e c'è un rituale, l'omajinai, parole magiche recitate sopra il cibo, al quale gli ospiti sono invitati a partecipare.\n\nÈ teatro interattivo con una bevanda. Non per adulti, non è un bar, ed è adatto alle famiglie. Ciò che distingue un'ora riuscita da una imbarazzante dipende interamente dalla vostra disponibilità a giocare al gioco.\n\nCiò che è incluso copre le cose che di solito sorprendono: una bevanda, un pasto o un dessert, una fotografia con una maid, e la tassa del tavolo che quasi ovunque altrove viene fatturata separatamente.\n\nQuattro piani. Il pranzo è il più economico, la cena un po' di più, e i pacchetti per coppie e famiglie da due e tre persone costano meno a testa.\n\nIl caffè si trova sulla via Akamon-dori a Osu, quindi si inserisce naturalmente in un pomeriggio tra le gallerie, il modo giusto di viverlo, dato che Osu stessa vale due ore sia che ci entriate o no.",
+  "highlights": [],
+  "included": [
+   "Una bevanda",
+   "Un pasto o un dessert",
+   "Fotografia con una maid",
+   "Tassa del tavolo (Passport of Dreamland)",
+   "Il rituale omajinai"
+  ],
+  "notIncluded": [
+   "Opzioni extra acquistate sul posto",
+   "Cibo e bevande aggiuntivi",
+   "Trasporto fino al luogo di svolgimento"
+  ]
+ },
+ "nagoya-calligraphy-class-with-tea-and-sweets": {
+  "title": "Calligrafia nel centro di Nagoya, con tè e dolcetti",
+  "metaTitle": "Corso di calligrafia a Nagoya con tè",
+  "metaDescription": "Due ore tranquille con un maestro di calligrafia a Sakae, al mattino o al pomeriggio, con tè giapponese e dolcetti serviti durante la pratica.",
+  "shortDescription": "Due ore tranquille con un maestro di calligrafia a Sakae, al mattino o al pomeriggio, con tè giapponese e dolcetti serviti durante la pratica.",
+  "fullDescription": "La calligrafia è un'ottima attività da inserire a metà di una giornata di viaggio, ed è esattamente così che è stata pensata questa sessione. Due ore, nel centro di Sakae, alle 10:00 o alle 15:00, in una stanza dove il ritmo è volutamente lento e c'è il tè.\n\nInsegna un maestro di calligrafia. La prima parte è meccanica e conta più di quanto sembri: come tenere il pennello in verticale, quanto inchiostro deve portare, come la pressione cambia la larghezza del tratto, e perché il movimento parte dal braccio e non dalle dita. Sbagliare questi dettagli fa sì che nulla, dopo, funzioni.\n\nUna volta che il pennello non sembra più estraneo, si scrive. La maggior parte inizia con un kanji scelto per il suo significato e finisce per lavorare sul proprio nome, il pezzo che tende a tornare a casa incorniciato.\n\nCiò che rende questa versione migliore di una dimostrazione rapida sono il tempo e il tè. Durante la sessione vengono serviti tè giapponese e dolcetti tradizionali, e le due ore lasciano spazio per sbagliare, riposare, osservare il risultato e riprovare, che è davvero il modo in cui questa pratica è pensata per funzionare. La calligrafia è trattata come disciplina meditativa da secoli, e funziona come tale solo se non si ha fretta.\n\nL'insegnamento è interamente in inglese, i materiali sono forniti, e il gruppo è limitato a dieci persone. Non è richiesta esperienza; la maggior parte delle persone nella stanza non ha mai tenuto in mano un pennello.\n\nLo studio si trova al sesto piano di un edificio a Sakae, oltre il Lawson, facile da inserire tra altri programmi nel centro di Nagoya.",
+  "highlights": [],
+  "included": [
+   "Corso di calligrafia di due ore con un maestro",
+   "Tutti i materiali di calligrafia",
+   "Tè giapponese",
+   "Dolcetti tradizionali giapponesi",
+   "Insegnamento in inglese"
+  ],
+  "notIncluded": [
+   "Trasporto allo studio",
+   "Spese personali aggiuntive",
+   "Incorniciatura o montaggio"
+  ]
+ },
+ "kyoto-by-the-sea-day-tour-sightseeing-train": {
+  "title": "Kyoto sul mare: il treno panoramico costiero da Nishi-Maizuru",
+  "metaTitle": "Tour costiero da Kyoto con treno panoramico",
+  "metaDescription": "La prefettura di Kyoto arriva al Mare del Giappone, e quasi nessuno ci va. Un tragitto panoramico costiero di 45 minuti in treno è il punto centrale di questa giornata da Osaka.",
+  "shortDescription": "La prefettura di Kyoto arriva al Mare del Giappone, e quasi nessuno ci va. Un tragitto panoramico costiero di 45 minuti in treno è il punto centrale di questa giornata da Osaka.",
+  "fullDescription": "La prefettura di Kyoto non è solo la città. Si estende verso nord fino alla costa del Mare del Giappone, e quella metà settentrionale, porti di pescatori, banchi di sabbia coperti di pini e una costa di insenature, non ha quasi nulla a che vedere con i templi per cui la gente viene. È anche quasi del tutto assente dagli itinerari stranieri.\n\nIl punto centrale è un **tragitto di 45 minuti sul treno panoramico da Nishi-Maizuru**. È una carrozza panoramica costruita appositamente, con sedili rivolti verso il mare e finestre panoramiche fuori misura, e la linea in alcuni punti corre così vicina alla riva che l'acqua si trova proprio sotto di voi. Il Mare del Giappone è un mare diverso dal lato Pacifico, più scuro, più freddo, con un moto ondoso più forte, e lo si vede.\n\nAttorno al tragitto in treno, la giornata copre la costa: i porti di pescatori, i punti panoramici e la particolare quiete di una parte del Giappone che non deve gestire la folla.\n\nQuesta è una giornata lunga, circa undici ore, con partenza dalla stazione Nipponbashi di Osaka alle 7:10 del mattino, perché la distanza è reale. L'autobus è climatizzato, e tutti i pedaggi, il parcheggio e il carburante sono inclusi insieme al conducente e alla guida, che lavorano in inglese e cinese.\n\nUn'opzione con upgrade aggiunge una funivia. I pasti non sono inclusi, cosa normale per questo formato, e vi lascia i frutti di mare del porto di pescatori come scelta invece che come menu fisso.\n\nPrenotate questa esperienza se avete già visto Kyoto e Nara e volete qualcosa che nessun altro passeggero sul vostro volo di ritorno avrà fatto. Non prenotatela come primo giorno nel Kansai.",
+  "highlights": [],
+  "included": [
+   "Tragitto in treno panoramico con vista mare di 45 minuti",
+   "Autobus climatizzato per l'intera giornata",
+   "Conducente e guida professionisti",
+   "Transfer da e per Osaka",
+   "Tutte le tasse, pedaggi, parcheggio e carburante",
+   "Funivia nell'opzione con upgrade"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Spese personali",
+   "Ingressi facoltativi alle attrazioni"
+  ]
+ },
+ "nagoya-takoyaki-cooking-class": {
+  "title": "Takoyaki da zero a Nagoya: pastella, polpo e il giro",
+  "metaTitle": "Corso di cucina del takoyaki a Nagoya",
+  "metaDescription": "Due ore per imparare l'unico piatto giapponese per cui la maggior parte delle famiglie possiede una padella speciale, pastella, polpo, cipollotto e il giro.",
+  "shortDescription": "Due ore per imparare il piatto giapponese più amato, pastella, polpo, cipollotto e il movimento di rotazione che richiede a chiunque una dozzina di tentativi.",
+  "fullDescription": "Il takoyaki è cibo da strada tornato a casa. Si vende dai chioschi ovunque in Giappone, ma la cosa che i visitatori raramente vedono è che la maggior parte delle famiglie giapponesi possiede una padella per takoyaki e una festa a base di takoyaki è un modo normale di passare una serata con gli amici, pastella, una padella sul tavolo, e tutti a discutere sulla tecnica.\n\nQuesto corso lo insegna nel modo corretto. Mescolerete la pastella, che è più liquida di quanto chiunque si aspetti, ed è per questo che l'interno resta quasi liquido. Aggiungerete polpo, cipollotto e zenzero in salamoia. E poi imparerete il giro, l'abilità vera e propria: uno spiedino di metallo, un quarto di giro nel momento giusto, e ripetere finché la pallina non si chiude su se stessa.\n\nNessuno ci riesce ai primi tentativi. Ed è proprio questo il bello: le prime sono storte e le ultime sono rotonde, e il miglioramento avviene visibilmente in venti minuti.\n\nTutto è incluso: ingredienti, padelle e utensili, grembiuli e l'assaggio finale. L'insegnamento è in inglese.\n\nIl corso si svolge al Nagoya City Higashi Lifelong Learning Center, a tre minuti dalla metropolitana ad Aoi, un edificio comunale invece di un luogo turistico, il che fa parte del suo fascino.\n\nUn'opzione più lunga di tre ore aggiunge una gita per gli acquisti, davvero utile se volete comprare una padella per takoyaki da portare a casa. Sono economiche, durano per sempre, e sono il pezzo di equipaggiamento da cucina giapponese che garantisce che cucinerete davvero di nuovo questo piatto.",
+  "highlights": [],
+  "included": [
+   "Corso di cucina del takoyaki con insegnamento in inglese",
+   "Tutti gli ingredienti",
+   "Utensili da cucina e padelle",
+   "Grembiuli",
+   "Assaggio finale",
+   "Gita per gli acquisti nell'opzione più lunga"
+  ],
+  "notIncluded": [
+   "Trasporto fino al luogo di svolgimento",
+   "Cibo e bevande aggiuntivi",
+   "Articoli acquistati durante l'opzione shopping"
+  ]
+ },
+ "osaka-namba-maid-cafe-experience": {
+  "title": "Un maid cafe a Namba: un'ora nel teatro kawaii del Giappone",
+  "metaTitle": "Maid cafe a Namba, Osaka",
+  "metaDescription": "Un'ora nella filiale di Osaka della più conosciuta catena di maid cafe, bevanda, cibo, foto con una maid e tassa del tavolo incluse.",
+  "shortDescription": "Un'ora nella filiale di Osaka della più conosciuta catena di maid cafe, bevanda, cibo, foto con una maid e tassa del tavolo incluse.",
+  "fullDescription": "Il maid cafe è il pezzo di cultura pop giapponese che i visitatori trovano più difficile da inquadrare. Non è un bar, non è propriamente un ristorante e non è uno spettacolo nel senso comune; è più vicino al teatro interattivo, e funziona ad Akihabara dai primi anni 2000.\n\nIl formato è coerente e del tutto sincero. Sarete accolti all'ingresso come se arrivaste in un altro luogo, gli uomini vengono chiamati goshujin-sama, padrone, e le donne ojou-sama, e il personale mantiene il tono per tutta la durata. L'omajinai, le parole magiche recitate sopra il cibo per farlo sembrare più buono, è il momento in cui la maggior parte di chi è alla prima esperienza si rende conto che ci si aspetta che partecipi, e chi lo fa trascorre un'ora molto migliore di chi resta con le braccia incrociate.\n\nQuesta particolare catena è la più grande e la più conosciuta, e la sua filiale di Namba si trova sopra le vie di Nanbanaka, nel cuore del quartiere dei divertimenti di Osaka. Ciò che è incluso è più del solito: una bevanda, un pasto o un dessert, una fotografia con una maid, la tassa del tavolo che altrove sorprende i visitatori, e il rituale omajinai stesso.\n\nEsistono quattro piani. Il pranzo è il più economico, la cena un po' di più, e ci sono pacchetti per coppie e famiglie da due e tre persone che costano meno a testa. Si possono acquistare opzioni extra sul posto se si desidera di più.\n\nAndateci con l'aspettativa giusta. Questa è cultura kawaii deliberata e senza scuse, non una finestra sul Giappone tradizionale, e viene apprezzata al meglio da chi è disposto a farne parte per un'ora. I cinici passano un'ora miserabile, e si vede.",
+  "highlights": [],
+  "included": [
+   "Una bevanda",
+   "Un pasto o un dessert",
+   "Fotografia con una maid",
+   "Tassa del tavolo (Passport of Dreamland)",
+   "Il rituale omajinai sopra il vostro cibo"
+  ],
+  "notIncluded": [
+   "Opzioni extra e aggiunte acquistate sul posto",
+   "Cibo e bevande aggiuntivi",
+   "Trasporto fino al luogo di svolgimento"
+  ]
+ },
+ "osaka-five-highlights-walking-tour-with-ramen-lunch": {
+  "title": "I cinque luoghi simbolo di Osaka a piedi, con pranzo di ramen e tessera della metro",
+  "metaTitle": "Tour a piedi dei 5 luoghi simbolo di Osaka",
+  "metaDescription": "Sette ore tra castello, Shitennoji, Shinsekai e Dotonbori con guida locale, trasporto durante il tour e pranzo di ramen incluso.",
+  "shortDescription": "Sette ore tra castello, Shitennoji, Shinsekai e Dotonbori con guida locale, trasporto durante il tour e pranzo di ramen incluso.",
+  "fullDescription": "Osaka è stata chiamata la città dei mercanti, la città del cibo, la città della commedia, e il luogo dove il periodo Sengoku finì davvero. Tutte e quattro le definizioni sono vere, e spiegano perché la città si senta diversa da Kyoto, a un'ora di distanza, meno reverenziale, più rapida a parlare con gli stranieri, e molto più interessata al cibo.\n\nQuesta passeggiata copre i luoghi simbolo che lo dimostrano. Prima il Castello di Osaka: la torre ospita un museo sulla storia del castello e sulle guerre Sengoku che finirono proprio sotto di esso, e la vista dall'alto racchiude l'intera città in un solo colpo d'occhio. Poi Shitennoji, fondato nel 593, il più antico tempio buddista costruito dallo stato in Giappone, più antico di qualsiasi cosa a Kyoto, e un ricordo del fatto che Osaka fu il primo porto internazionale e capitale del paese molto prima di entrambe.\n\nIl pranzo è ramen in un locale locale animato, ed è incluso nel prezzo invece di essere una sosta in cui ci si deve arrangiare da soli.\n\nIl pomeriggio copre la città moderna: Shinsekai con la sua torre Tsutenkaku e i negozi di kushikatsu, e il canale e le insegne di Dotonbori. Il trasporto durante il tour è incluso, il che conta perché questi luoghi sono davvero distanziati e la metropolitana è il solo modo sensato per spostarsi tra loro.\n\nI gruppi sono limitati a otto persone, e la guida si occupa delle fotografie, un piccolo dettaglio che i visitatori apprezzano sempre.\n\nDue biglietti d'ingresso vanno pagati separatamente durante la giornata: Castello di Osaka 1.200 yen e Shitennoji 500 yen. Una versione più breve di quattro ore copre due dei cinque luoghi, se l'intera giornata è troppo. Il punto d'incontro è l'uscita 4 della stazione Tanimachi 4-chome, davanti al FamilyMart.",
+  "highlights": [],
+  "included": [
+   "Guida locale di lingua inglese",
+   "Pranzo di ramen",
+   "Trasporto durante il tour",
+   "Commento e accompagnamento per tutta la durata",
+   "Assistenza fotografica"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso al Castello di Osaka, 1.200 yen",
+   "Biglietto d'ingresso al tempio Shitennoji, 500 yen",
+   "Cibo e bevande aggiuntivi",
+   "Transfer da e per l'hotel"
+  ]
+ },
+ "kyoto-hozugawa-white-water-rafting": {
+  "title": "Rafting in acque bianche sul fiume Hozugawa: cinque chilometri di rapide vicino a Kyoto",
+  "metaTitle": "Rafting sul fiume Hozugawa vicino a Kyoto",
+  "metaDescription": "Cinque chilometri di vere rapide sul fiume Hozugawa vicino a Kyoto, con attrezzatura, scarpe e biglietto del treno di ritorno inclusi.",
+  "shortDescription": "La stessa gola che le barche turistiche attraversano lentamente, ma a tutta velocità, tre ore e mezza di rapide, con attrezzatura, scarpe e viaggio di ritorno inclusi.",
+  "fullDescription": "La maggior parte dei visitatori incontra il fiume Hozugawa da una barca, spinta lentamente lungo la gola da barcaioli con pertiche mentre tutti fotografano le scogliere. Questa è l'altra versione di quel fiume.\n\nIl percorso comprende **cinque chilometri di vere rapide** attraverso la stessa gola, e l'acqua vi passa sopra la testa invece che lungo il bordo della barca. Non è una galleggiata tranquilla; è un vero e proprio percorso di rafting con tratti di acque bianche autentiche, interrotto da bacini calmi dove le guide vi lasciano nuotare se lo desiderate. C'è una roccia alta tre metri da cui saltare per chi vuole.\n\nTutto l'aspetto tecnico è incluso: casco, giubbotto di salvataggio, scarpe da rafting, attrezzatura di sicurezza, assicurazione e la guida. Portate voi stessi vestiti che non vi dispiace rovinare e un asciugamano. Una foto commemorativa è inclusa, e, un dettaglio davvero utile, anche il biglietto del treno di ritorno alla base del rafting.\n\nArrivarci è sorprendentemente facile. **Prendete il treno dalla stazione di Kyoto per JR Umahori e camminate per tre minuti.** Questo è tutto. La base si trova a Kameoka, sul lato a monte della gola, da dove partono anche le barche tradizionali.\n\nLa guida è in giapponese, il che conta meno di quanto sembri per il rafting, le istruzioni sono fisiche, mostrate con l'esempio e brevi, e gli ospiti internazionali lo fanno regolarmente.\n\nLa stagione dura finché lo consente l'acqua, e le condizioni cambiano con le precipitazioni. È il miglior antidoto che conosciamo a tre giorni di templi, e dopo vi lascia nella zona di Arashiyama, un buon modo di passare il resto della giornata.",
+  "highlights": [],
+  "included": [
+   "Mezza giornata di rafting sul fiume Hozugawa",
+   "Guida",
+   "Tutta l'attrezzatura di sicurezza: casco, giubbotto di salvataggio e scarpe da rafting",
+   "Assicurazione e tasse",
+   "Foto commemorativa",
+   "Biglietto del treno di ritorno alla base del rafting"
+  ],
+  "notIncluded": [
+   "Costume da bagno o vestiti che si possono bagnare",
+   "Asciugamano",
+   "Protezione solare",
+   "Pasti"
+  ]
+ },
+ "nagoya-kimono-rental-and-castle-city-tour": {
+  "title": "Kimono a Nagoya: vestiti a Sakae, guidati attraverso il castello",
+  "metaTitle": "Noleggio kimono e tour del castello a Nagoya",
+  "metaDescription": "Quattro ore e mezza in un kimono a vostra scelta, con l'ingresso al Castello di Nagoya, una guida che conosce la storia e scatta le vostre foto.",
+  "shortDescription": "Quattro ore e mezza in un kimono a vostra scelta, con l'ingresso al Castello di Nagoya, una guida che conosce la storia e scatta le vostre foto.",
+  "fullDescription": "La maggior parte dei noleggi di kimono vi consegna l'indumento e vi manda in strada. Questo è invece un mezza giornata guidata, il che cambia cosa ne ricavate: l'ingresso al castello è incluso, qualcuno vi spiega cosa state guardando, e le vostre fotografie sono scattate da una persona invece che da un treppiede.\n\nInizia all'ufficio noleggi di Sakae, il centro di Nagoya, alle 9:30. Scegliete da una collezione completa, kimono e obi in una gamma di colori e motivi, combinati tra loro, con borsa e accessori per capelli inclusi. La vestizione viene fatta per voi, richiede un po' di tempo e vale la pena osservarla.\n\nPoi il Castello di Nagoya, a cinque minuti di metropolitana. Il castello è una delle grandi fortezze Tokugawa e il suo palazzo Honmaru è stato ricostruito meticolosamente con i paraventi dipinti originali riprodotti, un interno molto più impressionante di quanto l'esterno lasci immaginare. La vostra guida racconta cosa il castello significasse per la regione e come la storia di Nagoya differisca da quella di Kyoto e di Edo, la parte che una passeggiata in kimono senza guida non può darvi.\n\nIl percorso termina lungo la Hisaya Odori, il viale centrale alberato chiamato a volte gli Champs-Élysées del Giappone, con tempo per le fotografie.\n\nDa tenere a mente: scarpe e acconciatura sono extra, i biglietti dei trasporti pubblici sono a vostro carico, e la giornata dura quattro ore e mezza con calzature tradizionali, comode ma non trascurabili. I gruppi sono limitati a dieci persone.",
+  "highlights": [],
+  "included": [
+   "Noleggio di kimono, obi, borsa e accessori per capelli",
+   "Vestizione professionale",
+   "Guida di lingua inglese per la mezza giornata",
+   "Tutti i biglietti d'ingresso al Castello di Nagoya",
+   "Fotografie scattate dalla vostra guida"
+  ],
+  "notIncluded": [
+   "Noleggio scarpe",
+   "Acconciatura",
+   "Biglietti dei trasporti pubblici",
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "miho-museum-shirahige-shrine-shiga-day-tour": {
+  "title": "Il museo sepolto di I. M. Pei e il torii nel lago: una giornata nello Shiga da Kyoto o Osaka",
+  "metaTitle": "Museo Miho e Santuario Shirahige da Kyoto/Osaka",
+  "metaDescription": "Una giornata nella prefettura di Shiga per un museo costruito per quattro quinti sottoterra tra le montagne, e un torii vermiglio nel lago Biwa.",
+  "shortDescription": "Una giornata nella prefettura di Shiga per un museo costruito per quattro quinti sottoterra tra le montagne, e un torii vermiglio nel lago Biwa.",
+  "fullDescription": "Il Museo Miho è il motivo per rinunciare a una giornata. I. M. Pei, l'architetto della piramide del Louvre, lo progettò tra le montagne dello Shiga, e circa l'ottanta per cento della struttura è sepolto, cosicché l'edificio quasi non si annuncia dall'esterno. Si arriva attraverso un tunnel scavato nella collina e su un ponte sospeso, un accesso costruito deliberatamente: Pei trasse la sua ispirazione dalla Fonte dei Fiori di Pesco, il racconto cinese di un pescatore che segue un ruscello attraverso una grotta stretta ed emerge in un paradiso nascosto. Camminandolo, il riferimento è inequivocabile.\n\nAll'interno si trova una collezione di antichità egiziane, persiane, greche, romane, sudasiatiche, cinesi e giapponesi, illuminate in gran parte dalla luce naturale attraverso i tetti di vetro. Circa due ore e mezza qui, inclusi tempo libero e pranzo a proprie spese.\n\nIl Santuario Shirahige offre l'altra immagine della giornata. Il suo torii vermiglio si erge nelle acque basse del lago Biwa, il lago più grande del Giappone, a pochi metri dalla riva, lo stesso effetto del celebre cancello di Miyajima, su un lago d'acqua dolce, con una frazione della folla.\n\nUna cosa da verificare prima di prenotare: il Museo Miho chiude per lunghi periodi dell'anno, incluso tutto gennaio e febbraio, la maggior parte di giugno e la maggior parte di settembre. L'operatore non effettua il tour nei giorni di chiusura, ma è bene confermare la data invece di darla per scontata.\n\nLe partenze avvengono da Osaka alle 8:40 o da Kyoto alle 9:50, con transfer dall'hotel disponibile a Osaka come opzione a pagamento. La dimensione del veicolo è stabilita in base al gruppo finale. Ingressi e pasti non sono inclusi.",
+  "highlights": [],
+  "included": [
+   "Trasporto in veicolo di andata e ritorno per un massimo di dieci ore",
+   "Servizio di autista-guida",
+   "Carburante, pedaggi e tasse autostradali",
+   "Veicolo adeguato alla dimensione del gruppo"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso al museo e al santuario",
+   "Pasti",
+   "Alloggio",
+   "Bagagli, si applica una tariffa se dovete portarne, da concordare al momento della prenotazione",
+   "Attività facoltative e spese personali"
+  ]
+ },
  "kandy-nuwara-eliya-or-ambewala-raiway-station": {
   "title": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya o Ambewela",
   "metaTitle": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya...",
@@ -54813,38 +55065,5 @@ export const IT_TOURS: Record<string, TourT> = {
  }
 };
 export const IT_PAGES: Record<string, PageT> = {};
-export const IT_CITIES: Record<string, CityT> = {
- "country:india": {
-  "title": "India: tour guidati ed escursioni con operatori locali verificati",
-  "description": "Taj Mahal, Rajasthan, Delhi, Mumbai e molto altro: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
- },
- "country:thailand": {
-  "title": "Thailandia: tour guidati ed escursioni con operatori locali verificati",
-  "description": "Bangkok, Phuket, Krabi, Chiang Mai e Pattaya: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
- },
- "country:vietnam": {
-  "title": "Vietnam: tour guidati ed escursioni con operatori locali verificati",
-  "description": "Hanoi, la baia di Ha Long, Sapa, Hoi An, Da Nang e Ho Chi Minh City: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
- },
- "country:japan": {
-  "title": "Giappone: tour guidati ed escursioni con operatori locali verificati",
-  "description": "Tokyo, Kyoto, Osaka e le escursioni di un giorno dai porti delle crociere: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
- },
- "country:uae": {
-  "title": "Emirati Arabi Uniti: tour guidati ed escursioni con operatori locali verificati",
-  "description": "Dubai, Abu Dhabi e safari nel deserto: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
- },
- "country:indonesia": {
-  "title": "Indonesia: tour guidati ed escursioni con operatori locali verificati",
-  "description": "Bali, Ubud e le isole circostanti: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
- },
- "country:sri-lanka": {
-  "title": "Sri Lanka: tour guidati ed escursioni con operatori locali verificati",
-  "description": "Colombo, Kandy, Ella e i parchi nazionali per i safari: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
- },
- "country:cambodia": {
-  "title": "Cambogia: tour guidati ed escursioni con operatori locali verificati",
-  "description": "Angkor Wat, Siem Reap e Phnom Penh: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
- }
-};
+export const IT_CITIES: Record<string, CityT> = {};
 export const IT_ITINERARIES: Record<string, ItineraryT> = {};
