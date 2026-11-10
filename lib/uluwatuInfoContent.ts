@@ -926,6 +926,61 @@ export function getUluwatuInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-kecak-dance-tour-uluwatu":
+      return {
+        title: "Which Is the Best Kecak Fire Dance Tour in Uluwatu?",
+        seoTitle: "Best Kecak Fire Dance Tour Uluwatu 2026 | Honest Comparison",
+        description: "Compare real Uluwatu Kecak fire dance tours — from a $23 show-only ticket to combo tours with GWK Park, Melasti Beach sunset, or a seafood dinner in Jimbaran.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Kecak fire dance at Uluwatu Temple at sunset is one of Bali's most photographed experiences — dozens of bare-chested dancers circling a fire while chanting, with the temple cliff and ocean as the backdrop. Nearly every operator in Uluwatu sells some version of it, but they differ a lot in what else is bundled in. The standard version pairs the show with a quick temple visit and hotel transfer for around $23-30. Combo tours add GWK Cultural Park, Melasti Beach, or a private itinerary, and prices scale up from there.",
+            tourCard: { slug: "kecak-fire-dance-show-with-optional-hotel-transfer-in-uluwatu", title: "Kecak Fire Dance Show with Optional Hotel Transfer", description: "The standard, no-frills way to see the Kecak dance at Uluwatu Temple with a simple round-trip transfer.", price: "From $23", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/uluwatu-temple-sunset-tour-with-kecak-fire-dance/img0/1600.webp" },
+          },
+          {
+            title: "Cheapest: Show-Only Ticket",
+            content: "If you just want the dance itself and nothing else, a show-only ticket with transfer is the cheapest way in — you watch the performance, see the temple cliffs at golden hour, and head back. Good for travellers on a tight schedule or anyone staying nearby who doesn't need a full day built around it.",
+            tourCard: { slug: "kecak-fire-dance-show-with-optional-hotel-transfer-in-uluwatu", title: "Kecak Fire Dance Show with Optional Hotel Transfer", description: "Just the show, the temple, and a transfer — nothing extra to pay for.", price: "From $23", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/uluwatu-temple-sunset-tour-with-kecak-fire-dance/img0/1600.webp" },
+          },
+          {
+            title: "If You Want a Fuller Day: GWK Park + Beaches Combo",
+            content: "GWK Cultural Park (home of the giant Garuda Wisnu Kencana statue), Dreamland Beach, and Melasti Beach's sunset viewpoint all sit a short drive from Uluwatu Temple, so pairing them with the Kecak show makes for a full, well-paced day rather than three separate bookings.",
+            tourCard: { slug: "gwk-park-dreamland-beach-and-melasti-sunset-kecak-tour-in-uluwatu", title: "GWK Park, Dreamland Beach and Melasti Sunset Kecak Tour", description: "A full day combining GWK Park, two beaches, and the sunset Kecak show.", price: "From $90", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uluwatu-temple-sunset-tour-with-kecak-fire-dance/img0/1600.webp" },
+          },
+          {
+            title: "If You Want It Private",
+            content: "A private version covers GWK Park, Suluban Beach's cliffside setting, and the Kecak show with your own driver and no group to coordinate around — useful for families, couples wanting their own pace, or anyone who dislikes being herded between stops.",
+            tourCard: { slug: "private-gwk-suluban-beach-uluwatu-and-kecak-dance-tour", title: "Private GWK, Suluban Beach, Uluwatu and Kecak Dance Tour", description: "Your own car and driver through GWK Park, Suluban Beach, and the sunset Kecak show.", price: "From $139", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uluwatu-temple-sunset-tour-with-kecak-fire-dance/img0/1600.webp" },
+          },
+          {
+            title: "If You Want Dinner Included",
+            content: "Jimbaran Bay's beachfront seafood grills are a short drive from Uluwatu and a natural way to end the evening after the Kecak show — fresh-caught fish and prawns grilled right on the sand, with the ocean a few steps away.",
+            tourCard: { slug: "kecak-fire-dance-temple-and-jimbaran-seafood-dinner", title: "Kecak Fire Dance, Temple and Jimbaran Seafood Dinner", description: "The sunset Kecak show followed by a beachfront seafood dinner in Jimbaran Bay.", price: "From $67", duration: "9 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uluwatu-temple-sunset-tour-with-kecak-fire-dance/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Arrive at least 45-60 minutes before showtime — seating fills up fast and the pre-sunset views over the cliffs are part of the experience. Dress modestly for the temple grounds (a sarong is usually provided or required at entry). Book the combo or private options if you want the day planned around the show rather than racing back from elsewhere in Bali.",
+          },
+        ],
+        faqs: [
+          { q: "What is the Kecak fire dance in Uluwatu?", a: "A traditional Balinese dance performed at sunset on the cliffs of Uluwatu Temple, where dancers chant and circle a fire while telling a story from the Ramayana." },
+          { q: "What's the cheapest way to see the Kecak dance?", a: "A show-only ticket with hotel transfer runs from about $23 — the cheapest way to see just the performance and the temple." },
+          { q: "Can I combine the Kecak show with other Uluwatu attractions?", a: "Yes — common combinations include GWK Cultural Park, Dreamland or Melasti Beach, Suluban Beach, and a Jimbaran seafood dinner afterward." },
+          { q: "How early should I arrive for the Kecak show?", a: "Arrive 45-60 minutes early to get good seating and catch the pre-sunset views over the temple cliffs." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the Kecak fire dance in Uluwatu?", "acceptedAnswer": { "@type": "Answer", "text": "A traditional Balinese dance performed at sunset on the cliffs of Uluwatu Temple, telling a story from the Ramayana around a fire." } },
+            { "@type": "Question", "name": "What's the cheapest way to see the Kecak dance?", "acceptedAnswer": { "@type": "Answer", "text": "A show-only ticket with hotel transfer runs from about $23." } },
+            { "@type": "Question", "name": "Can I combine the Kecak show with other Uluwatu attractions?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — GWK Cultural Park, Dreamland or Melasti Beach, Suluban Beach, and a Jimbaran seafood dinner are common pairings." } },
+            { "@type": "Question", "name": "How early should I arrive for the Kecak show?", "acceptedAnswer": { "@type": "Answer", "text": "45-60 minutes early for good seating and the pre-sunset views." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

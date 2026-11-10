@@ -1281,6 +1281,8 @@ export const CANGGU_INFO_SLUGS = [
   'best-tours-in-canggu',
   'should-i-book-canggu-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-canggu',
+  // Tour-selling page (2026-11-10)
+  'best-surf-lesson-canggu',
 ];
 
 export const ULUWATU_INFO_SLUGS = [
@@ -1297,6 +1299,8 @@ export const ULUWATU_INFO_SLUGS = [
   'best-tours-in-uluwatu',
   'should-i-book-uluwatu-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-uluwatu',
+  // Tour-selling page (2026-11-10)
+  'best-kecak-dance-tour-uluwatu',
 ];
 
 export const NUSA_PENIDA_INFO_SLUGS = [

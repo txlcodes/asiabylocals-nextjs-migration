@@ -1001,6 +1001,66 @@ export function getCangguInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-surf-lesson-canggu":
+      return {
+        title: "Which Is the Best Surf Lesson in Canggu?",
+        seoTitle: "Best Surf Lesson Canggu 2026 | Honest Comparison",
+        description: "Compare real Canggu surf lessons — from a $14 budget group class to a $59 private beginner lesson, plus photo/video-included and nearby-beach options.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Canggu is Bali's surf-lesson hub, and beginner classes here run anywhere from $14 to around $59 depending on group size, beach, and whether photos or video are included. Most lessons run 1-2 hours and cover the same fundamentals — paddling, popping up, and catching whitewash waves on a soft-top board — so the real differences are instructor ratio, beach choice, and what's bundled in.",
+            tourCard: { slug: "2-hour-canggu-private-beginner-surf-lesson-canggu", title: "2-Hour Canggu Private Beginner Surf Lesson", description: "A standard private beginner lesson at one of Canggu's main surf beaches.", price: "From $59", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/surf-lesson-in-batu-bolong-canggu-with-certified-instructor-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Cheapest: Budget Group Lesson",
+            content: "The lowest-priced option is a 1-hour group lesson with a local instructor at Kuta Beach, a short drive from Canggu — good for a first try at surfing without committing to a longer session or higher price.",
+            tourCard: { slug: "kuta-beach-surfing-lesson-1-hour-local-instructor", title: "Kuta Beach Surfing Lesson 1 Hour Local Instructor", description: "The cheapest way to try surfing — a short group lesson with a local instructor.", price: "From $14", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/surf-lesson-in-batu-bolong-canggu-with-certified-instructor-canggu/img0/1600.webp" },
+          },
+          {
+            title: "If You Want It Private",
+            content: "A private 2-hour lesson means one instructor focused entirely on you rather than splitting attention across a group — worth it if you want faster progress or just prefer not to share the lesson with strangers.",
+            tourCard: { slug: "2-hour-canggu-private-beginner-surf-lesson-canggu", title: "2-Hour Canggu Private Beginner Surf Lesson", description: "A full private lesson with one instructor's full attention for two hours.", price: "From $59", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/surf-lesson-in-batu-bolong-canggu-with-certified-instructor-canggu/img0/1600.webp" },
+          },
+          {
+            title: "If You Want a Certified Instructor at Batu Bolong",
+            content: "Batu Bolong is Canggu's best-known surf beach, and this lesson pairs it with a certified instructor rather than just a local guide — a middle-ground choice between the cheapest group class and the full private session.",
+            tourCard: { slug: "surf-lesson-in-batu-bolong-canggu-with-certified-instructor-canggu", title: "Surf Lesson in Batu Bolong Canggu with Certified Instructor", description: "A certified instructor at Canggu's signature surf beach, Batu Bolong.", price: "From $38", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/surf-lesson-in-batu-bolong-canggu-with-certified-instructor-canggu/img0/1600.webp" },
+          },
+          {
+            title: "If You Want Photos and Video of Your Session",
+            content: "This private lesson bundles professional photos and video of you surfing — worth the extra cost if you want proof (and social content) of actually standing up on a wave, not just the memory.",
+            tourCard: { slug: "bali-private-surf-lesson-with-surf-photos-and-videos", title: "Bali Private Surf Lesson with Surf Photos and Videos", description: "A private lesson that includes professional photos and video of your session.", price: "From $19", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/surf-lesson-in-batu-bolong-canggu-with-certified-instructor-canggu/img0/1600.webp" },
+          },
+          {
+            title: "If You Want a Different Beach: Sanur",
+            content: "Sanur's calmer, more sheltered water is a good alternative for nervous first-timers or families with kids, trading Canggu's bigger beach-break waves for a gentler, more forgiving learning environment.",
+            tourCard: { slug: "sanur-surf-lesson-for-all-levels-canggu", title: "Sanur Surf Lesson for All Levels", description: "A calmer, more sheltered beach alternative to Canggu's bigger surf breaks.", price: "From $54", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/surf-lesson-in-batu-bolong-canggu-with-certified-instructor-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Morning sessions typically have calmer, more consistent waves for beginners than afternoon ones. Board and rash guard are included in all of these; ask ahead if you want a wetsuit, though Bali's water rarely needs one. If you're unsure which beach suits your level, message us on WhatsApp before booking and we'll point you to the right one.",
+          },
+        ],
+        faqs: [
+          { q: "How much does a surf lesson in Canggu cost?", a: "Group lessons start around $14 for an hour; private 2-hour lessons run $19-59 depending on whether photos/video are included." },
+          { q: "What's the cheapest surf lesson near Canggu?", a: "A 1-hour group lesson with a local instructor at Kuta Beach, from about $14." },
+          { q: "Should I get a private or group surf lesson as a beginner?", a: "Private gives you the instructor's full attention and faster progress; group is cheaper and still fine for a first try." },
+          { q: "Is Canggu or Sanur better for a first surf lesson?", a: "Canggu's beaches have more consistent waves for building skills; Sanur's calmer water suits nervous beginners, kids, or families better." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "How much does a surf lesson in Canggu cost?", "acceptedAnswer": { "@type": "Answer", "text": "Group lessons start around $14 for an hour; private 2-hour lessons run $19-59 depending on inclusions." } },
+            { "@type": "Question", "name": "What's the cheapest surf lesson near Canggu?", "acceptedAnswer": { "@type": "Answer", "text": "A 1-hour group lesson with a local instructor at Kuta Beach, from about $14." } },
+            { "@type": "Question", "name": "Should I get a private or group surf lesson as a beginner?", "acceptedAnswer": { "@type": "Answer", "text": "Private gives full instructor attention; group is cheaper and still fine for a first try." } },
+            { "@type": "Question", "name": "Is Canggu or Sanur better for a first surf lesson?", "acceptedAnswer": { "@type": "Answer", "text": "Canggu suits building skills; Sanur's calmer water suits nervous beginners or families." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }
