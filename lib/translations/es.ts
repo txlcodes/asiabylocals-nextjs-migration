@@ -258205,6 +258205,26 @@ export const ES_CITIES: Record<string, CityT> = {
  "country:india": {
   "title": "India: visitas guiadas y excursiones con operadores locales verificados",
   "description": "Taj Mahal, Rajastán, Delhi, Mumbai y más: cientos de visitas reservadas directamente con operadores locales verificados, con confirmación por WhatsApp."
+ },
+ "country:japan": {
+  "title": "Japón: visitas guiadas y excursiones con operadores locales verificados",
+  "description": "Tokio, Kioto, Osaka y las excursiones de un día desde los puertos de crucero: cientos de visitas reservadas directamente con operadores locales verificados, con confirmación por WhatsApp."
+ },
+ "country:uae": {
+  "title": "Emiratos Árabes Unidos: visitas guiadas y excursiones con operadores locales verificados",
+  "description": "Dubái, Abu Dabi y safaris por el desierto: cientos de visitas reservadas directamente con operadores locales verificados, con confirmación por WhatsApp."
+ },
+ "country:indonesia": {
+  "title": "Indonesia: visitas guiadas y excursiones con operadores locales verificados",
+  "description": "Bali, Ubud y las islas de los alrededores: cientos de visitas reservadas directamente con operadores locales verificados, con confirmación por WhatsApp."
+ },
+ "country:sri-lanka": {
+  "title": "Sri Lanka: visitas guiadas y excursiones con operadores locales verificados",
+  "description": "Colombo, Kandy, Ella y los parques nacionales de safari: cientos de visitas reservadas directamente con operadores locales verificados, con confirmación por WhatsApp."
+ },
+ "country:cambodia": {
+  "title": "Camboya: visitas guiadas y excursiones con operadores locales verificados",
+  "description": "Angkor Wat, Siem Reap y Phnom Penh: cientos de visitas reservadas directamente con operadores locales verificados, con confirmación por WhatsApp."
  }
 };
 export const ES_ITINERARIES: Record<string, ItineraryT> = {

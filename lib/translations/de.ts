@@ -258204,6 +258204,26 @@ export const DE_CITIES: Record<string, CityT> = {
  "country:india": {
   "title": "Indien: geführte Touren und Ausflüge mit geprüften lokalen Veranstaltern",
   "description": "Taj Mahal, Rajasthan, Delhi, Mumbai und mehr: Hunderte Touren direkt bei geprüften lokalen Veranstaltern gebucht, Bestätigung per WhatsApp."
+ },
+ "country:japan": {
+  "title": "Japan: geführte Touren und Ausflüge mit geprüften lokalen Veranstaltern",
+  "description": "Tokio, Kyoto, Osaka und Tagesausflüge ab den Kreuzfahrthäfen: Hunderte Touren direkt bei geprüften lokalen Veranstaltern gebucht, Bestätigung per WhatsApp."
+ },
+ "country:uae": {
+  "title": "Vereinigte Arabische Emirate: geführte Touren und Ausflüge mit geprüften lokalen Veranstaltern",
+  "description": "Dubai, Abu Dhabi und Wüstensafaris: Hunderte Touren direkt bei geprüften lokalen Veranstaltern gebucht, Bestätigung per WhatsApp."
+ },
+ "country:indonesia": {
+  "title": "Indonesien: geführte Touren und Ausflüge mit geprüften lokalen Veranstaltern",
+  "description": "Bali, Ubud und die umliegenden Inseln: Hunderte Touren direkt bei geprüften lokalen Veranstaltern gebucht, Bestätigung per WhatsApp."
+ },
+ "country:sri-lanka": {
+  "title": "Sri Lanka: geführte Touren und Ausflüge mit geprüften lokalen Veranstaltern",
+  "description": "Colombo, Kandy, Ella und die Safari-Nationalparks: Hunderte Touren direkt bei geprüften lokalen Veranstaltern gebucht, Bestätigung per WhatsApp."
+ },
+ "country:cambodia": {
+  "title": "Kambodscha: geführte Touren und Ausflüge mit geprüften lokalen Veranstaltern",
+  "description": "Angkor Wat, Siem Reap und Phnom Penh: Hunderte Touren direkt bei geprüften lokalen Veranstaltern gebucht, Bestätigung per WhatsApp."
  }
 };
 export const DE_ITINERARIES: Record<string, ItineraryT> = {

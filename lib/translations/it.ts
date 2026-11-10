@@ -13534,6 +13534,124 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "hiroshima-futaba-morning-hike-open-air-tea-ceremony": {
+  "title": "Escursione mattutina sopra Hiroshima, con una cerimonia del tè all'aperto alla Pagoda della Pace",
+  "metaTitle": "Escursione mattutina sopra Hiroshima con cerimonia del tè",
+  "metaDescription": "Venticinque minuti in salita dalla stazione di Hiroshima a una vista sulla città, il Mare Interno e Miyajima, con matcha preparato all'aperto in cima.",
+  "shortDescription": "Venticinque minuti in salita dalla stazione di Hiroshima a una vista sulla città, il Mare Interno e Miyajima, con matcha preparato all'aperto in cima.",
+  "fullDescription": "Quasi nessuno guarda Hiroshima dall'alto, il che è strano, perché la montagna si trova proprio dietro la stazione.\n\nQuesta camminata mattutina di tre ore sale sul monte Futaba, partendo dalla stazione di Hiroshima e passando prima per il **Santuario Hiroshima Toshogu**, che custodisce importanti beni culturali e si trova ai piedi della collina. Da lì il percorso sale attraverso il **Santuario Kinko Inari**, i cui torii risalgono il pendio come a Fushimi Inari, ma senza la folla.\n\nLa salita in sé dura circa venticinque minuti, reale ma non impegnativa, e termina alla **Pagoda della Pace**, da dove si vede la città distesa sotto di sé, il Mare Interno di Seto oltre e Miyajima all'orizzonte. Vedere Hiroshima nella sua interezza, dall'alto, è un'esperienza diversa dal camminare nel Parco della Pace a livello del suolo, e farlo al mattino prima delle visite più pesanti della giornata è una scelta deliberata.\n\nIn cima arriva **nodate**, la cerimonia del tè all'aperto. Il tè all'aperto è una tradizione vera e propria, non un'improvvisazione, praticata storicamente durante l'osservazione dei fiori di ciliegio e nei viaggi, e avere il matcha preparato apposta per voi su un pendio montano con quella vista è il motivo per prenotare questa esperienza invece di una sala da tè in un tempio.\n\nLa camminata comprende anche il bagno nella foresta, shinrin-yoku, che in pratica significa essere invitati a fermarsi e prestare attenzione, invece di continuare a camminare.\n\nI gruppi sono limitati a sei persone e la guida è in giapponese, il che funziona bene per una camminata. La colazione è disponibile con un'opzione. Il transfer dall'hotel non è incluso; l'incontro è sulla terrazza al secondo piano della stazione di Hiroshima.",
+  "highlights": [],
+  "included": [
+   "Guida per la camminata mattutina di tre ore",
+   "Cerimonia del tè all'aperto nodate alla Pagoda della Pace",
+   "Sessione di bagno nella foresta",
+   "Colazione con l'opzione che la include"
+  ],
+  "notIncluded": [
+   "Transfer da e per l'hotel",
+   "Trasporto alla stazione di Hiroshima",
+   "Cibo e bevande aggiuntivi"
+  ]
+ },
+ "osaka-gluten-free-ramen-and-gyoza-class": {
+  "title": "Ramen e gyoza senza glutine, fatti da zero in una casa di Osaka",
+  "metaTitle": "Corso di ramen e gyoza senza glutine a Osaka",
+  "metaDescription": "Ramen e gyoza sono grano da cima a fondo. Questo corso li ricostruisce entrambi senza glutine, in una cucina domestica, insegnato da una cuoca professionista.",
+  "shortDescription": "Ramen e gyoza sono grano da cima a fondo. Questo corso li ricostruisce entrambi senza glutine, in una cucina domestica, insegnato da una cuoca professionista.",
+  "fullDescription": "Il Giappone è un paese difficile in cui mangiare senza glutine, e il ramen è l'esempio più chiaro del perché. I noodle sono di grano. Gli involucri dei gyoza sono di grano. La salsa di soia, presente in quasi tutto, è tradizionalmente prodotta con il grano, quindi anche un brodo che sembra sicuro di solito non lo è. La maggior parte dei visitatori con celiachia o un'intolleranza vera semplicemente non mangia questi piatti in Giappone.\n\nQuesto corso di tre ore esiste per risolvere il problema, e l'insegnante ha sviluppato personalmente le ricette in oltre un decennio di cucina professionale. Si preparano **sia il ramen che i gyoza da zero**, senza glutine, compresi i noodle e gli involucri, che è la parte che non può essere sostituita con un prodotto comprato pronto ed è il motivo per cui il corso dura tre ore.\n\nNel frattempo si imparano le tecniche giapponesi trasferibili a tutto il resto della cucina: come si costruisce un brodo, come si piegano i ravioli e perché la piega conta per come cuociono, e quali condimenti giapponesi sono sicuri e quali no. Ricette e consigli tornano a casa con voi, che per chi cucina senza glutine è il vero valore.\n\nL'ambientazione è la casa in stile giapponese dell'insegnante a Higashiosaka, non uno studio commerciale, e il gruppo è limitato a quattro persone. L'insegnamento è in inglese.\n\nAlla fine si mangia il pasto completo che avete preparato. È disponibile come opzione un abbinamento con il sake.\n\nIl luogo si trova a cinque minuti a piedi dalla stazione di Nukata. È più lontano dal centro di Osaka, e il viaggio ne vale la pena: per molti viaggiatori questa sarà l'unica ciotola di ramen che mangeranno in Giappone.",
+  "highlights": [],
+  "included": [
+   "Corso di cucina pratico senza glutine",
+   "Lezione personale in inglese",
+   "Ricette e appunti sulle tecniche da portare a casa",
+   "Il pasto completo che preparate",
+   "Abbinamento con il sake in quell'opzione"
+  ],
+  "notIncluded": [
+   "Trasporto fino al luogo di svolgimento",
+   "Bevande aggiuntive oltre l'abbinamento"
+  ]
+ },
+ "nagoya-sword-museum-admission-ticket": {
+  "title": "Museo della spada di Nagoya: duecento spade, armature e ukiyo-e",
+  "metaTitle": "Museo Touken di Nagoya (museo della spada)",
+  "metaDescription": "Lame classificate Tesoro Nazionale, cinquanta armature complete e 150 stampe ukiyo-e nel centro di Sakae, per meno di dodici dollari.",
+  "shortDescription": "Lame classificate Tesoro Nazionale, cinquanta armature complete e 150 stampe ukiyo-e nel centro di Sakae, per meno di dodici dollari.",
+  "fullDescription": "La spada giapponese è uno dei pochi oggetti in cui l'artigianato e la mitologia risultano interessanti in egual misura, e la maggior parte dei visitatori la incontra solo dietro un vetro, in un museo generico con un cartellino di due righe.\n\nIl Museo Touken di Nagoya, conosciuto come Meihaku, esiste apposta per questo. L'edificio può esporre **fino a duecento spade contemporaneamente**, inclusi pezzi classificati Tesoro Nazionale, Importante Bene Culturale e Importante Oggetto d'Arte, una concentrazione che quasi nessun'altra istituzione al mondo riesce a eguagliare.\n\nIntorno a esse si trovano **circa cinquanta armature complete** e **150 stampe ukiyo-e** in esposizione permanente, che forniscono il contesto giusto: le stampe mostrano come la classe dei guerrieri vedeva se stessa e voleva essere vista, e le armature mostrano con cosa venivano usate le spade.\n\nCiò che lo eleva oltre una semplice vetrina sono i contenuti interattivi. Il museo ha investito in modi di mostrare ciò che accade realmente in una lama, la linea di tempra hamon, la grana dell'acciaio piegato, la curvatura e come viene ottenuta, con ingrandimenti e angolazioni che l'osservazione diretta non può offrire. L'apprezzamento delle spade è una disciplina davvero tecnica, e questo è il raro museo che cerca di insegnarla invece di presupporla.\n\nL'ingresso è valido per il giorno di utilizzo. Sul posto ci sono un caffè e un negozio del museo, entrambi a pagamento separato.\n\nIl museo si trova a Sakae, nel centro di Nagoya, ed è accessibile in sedia a rotelle. A questo prezzo è una delle visite museali serie più economiche del Giappone, e si abbina naturalmente al Museo d'Arte Tokugawa, che custodisce le armature e le spade di una sola famiglia invece di una panoramica nazionale.",
+  "highlights": [],
+  "included": [
+   "Ingresso al Museo Touken di Nagoya, valido per il giorno della visita"
+  ],
+  "notIncluded": [
+   "Cibo e bevande al caffè del museo",
+   "Acquisti al negozio del museo",
+   "Trasporto al museo",
+   "Commento guidato"
+  ]
+ },
+ "seto-pottery-wheel-experience-from-nagoya": {
+  "title": "Modellare vasi a Seto, la città che ha dato al Giappone la sua parola per la ceramica",
+  "metaTitle": "Esperienza al tornio per ceramica a Seto da Nagoya",
+  "metaDescription": "Tre ore al tornio con un ceramista con cinquant'anni di esperienza a Seto, pezzi cotti e spediti in una scatola firmata.",
+  "shortDescription": "Tre ore a un tornio elettrico con un ceramista con cinquant'anni di esperienza, in una città di fornaci quaranta minuti da Nagoya. Due pezzi cotti vengono spediti in una scatola di paulonia firmata.",
+  "fullDescription": "Il giapponese ha una parola per la ceramica, **setomono**, letteralmente \"cose di Seto\", e viene proprio da questa città. Qui le fornaci sono attive da circa mille anni, il che la rende una delle Sei Antiche Fornaci del Giappone, e l'industria è ancora operativa, non solo conservata.\n\nLa sessione inizia alla stazione di Meitetsu Owari-Seto, quaranta minuti da Nagoya, dove la guida vi incontra, la stazione ha un solo tornello, quindi è davvero difficile perdersi, e vi porta con un veicolo privato a uno studio storico in città.\n\nSarete istruiti da **un ceramista con oltre cinquant'anni al tornio**. Ciò che realizzerete è vasellame d'uso quotidiano: ciotole, tazze da tè, oggetti che useresti davvero. Il tornio elettrico è molto meno indulgente di quanto sembri, e il primo pezzo collasserà; è la normale sequenza degli eventi e l'insegnante l'ha vista accadere diverse migliaia di volte.\n\nRealizzerete tre pezzi. **I due migliori verranno cotti e spediti a voi**, in una scatola di paulonia di qualità, firmata dal ceramista, un modo decisamente migliore di riceverli rispetto al pluriball. Potrete scegliere tra quindici colori di smalto per ciascun pezzo. Se desiderate tutti e tre, è previsto un piccolo supplemento.\n\nLa visita include anche lo studio della fornace stesso, dove diventa evidente la scala dell'attività.\n\nI gruppi sono limitati a quattro persone e la guida lavora in inglese. Grembiuli, tassa di cottura e trasporto all'interno di Seto sono tutti inclusi. La spedizione internazionale è a pagamento separato, cosa da tenere in conto nel budget, e i pezzi richiedono tempo per essere cotti: li riceverete dopo essere tornati a casa.",
+  "highlights": [],
+  "included": [
+   "Sessione al tornio con un ceramista con cinquant'anni di esperienza",
+   "Due dei vostri pezzi cotti e spediti",
+   "Scelta tra quindici colori di smalto",
+   "Visita allo studio della fornace",
+   "Trasporto privato all'interno di Seto",
+   "Grembiuli e tassa di cottura",
+   "Guida in lingua inglese",
+   "Scatola di paulonia di qualità firmata dal ceramista"
+  ],
+  "notIncluded": [
+   "Spese di spedizione internazionale",
+   "Trasporto al punto d'incontro",
+   "Cibo e bevande",
+   "Acquisti personali",
+   "Mance"
+  ]
+ },
+ "kyoto-private-japanese-sound-bath": {
+  "title": "Un bagno sonoro privato a Kyoto, su anelli sonori giapponesi",
+  "metaTitle": "Bagno sonoro privato a Kyoto",
+  "metaDescription": "Bagno sonoro privato di 90 minuti a Kyoto su anelli sonori giapponesi, l'antidoto alle file ai templi.",
+  "shortDescription": "Novanta minuti sdraiati in una stanza di tatami mentre vengono suonati sopra di voi strumenti giapponesi fatti a mano, l'antidoto a quattro giorni di code ai templi.",
+  "fullDescription": "C'è un momento nella maggior parte dei viaggi a Kyoto, di solito verso il terzo giorno, in cui i templi smettono di fare effetto. Avete camminato otto chilometri al giorno in mezzo alla folla, tutto è bellissimo, e niente di tutto ciò vi tocca più.\n\nQuesta esperienza esiste per quel momento. È un bagno sonoro privato in una stanza di tatami a cinque minuti dalla stazione di Kyoto, limitato a due o tre persone, e passerete la maggior parte del tempo sdraiati con gli occhi chiusi.\n\nCiò che la distingue dai bagni sonori che si trovano in ogni città occidentale è lo strumento. Gli **anelli sonori sono strumenti giapponesi fatti a mano**, non ciotole tibetane o di cristallo, e la loro risonanza è diversa, più lunga, più pura e percepita fisicamente, non solo udita, quando si è vicini. Che la si trovi significativa o semplicemente piacevole è una questione di temperamento, ma l'effetto su un corpo stanco non è in discussione.\n\nUna parte pratica vi permette di suonare gli strumenti voi stessi, che è un souvenir dell'ora migliore di una fotografia.\n\nDue formati: uno spazio privato, oppure una versione tenuta **in una sala da cerimonia del tè**, che vale la piccola differenza solo per l'ambientazione.\n\nCosa non è: non è una visita a un tempio, non è un massaggio e non è una lezione di meditazione guidata. Sono novanta minuti di quiete deliberata in una città che ne offre molto poca, ed è meglio prenotarlo a metà di un viaggio piuttosto che all'inizio.\n\nL'insegnamento è in inglese, il gruppo è la vostra compagnia, e il luogo si trova a cinque minuti a piedi dalla stazione di Kyoto, il che significa che potete farlo prima di prendere un treno.",
+  "highlights": [],
+  "included": [
+   "Bagno sonoro giapponese privato di novanta minuti",
+   "Strumenti ad anello sonoro fatti a mano",
+   "Sessione pratica di esecuzione degli strumenti",
+   "Ospite in lingua inglese",
+   "Spazio privato con tatami, oppure una sala da cerimonia del tè con quell'opzione"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Trasporto al luogo di svolgimento",
+   "Transfer da e per l'hotel"
+  ]
+ },
+ "kyoto-gion-geiko-maiko-dance-museum": {
+  "title": "Vedere una danza maiko a Gion: due brani di Kyomai e il Museo Kagai",
+  "metaTitle": "Danza maiko e Museo Kagai a Gion, Kyoto",
+  "metaDescription": "Il modo più economico e rispettoso di vedere una vera geiko o maiko esibirsi, una danza Kyomai di quindici minuti, con il museo d'arte di Gion incluso.",
+  "shortDescription": "Il modo più economico e rispettoso di vedere una vera geiko o maiko esibirsi, una danza Kyomai di quindici minuti, con il museo d'arte di Gion incluso.",
+  "fullDescription": "Vedere una geiko o una maiko nel modo giusto è difficile e costoso. Un banchetto ozashiki tradizionale richiede una presentazione e costa molto; seguirle lungo i vicoli di Gion con una macchina fotografica è sia invasivo che, nelle strade private, ormai sanzionabile.\n\nQuesta è la via di mezzo ragionevole. Il Museo d'Arte Kagai di Gion, nell'edificio del Yasaka Club nel cuore di Gion, presenta più volte al giorno **spettacoli di danza Kyomai eseguiti da una geiko o maiko attiva**, e il biglietto include l'esposizione permanente del museo.\n\n**Il Kyomai è la forma di danza propria di Kyoto**, qui eseguita nello stile Inoue, la scuola associata al quartiere di Gion Kobu, caratterizzata da contegno, movimenti piccoli e controllati e una quiete molto più difficile di quanto sembri. Vengono eseguiti due brani, circa quindici minuti in totale. Si è abbastanza vicini da vedere il dettaglio del kimono e degli ornamenti per capelli che uno spettacolo su palco non offre mai.\n\nDi solito si esibisce una sola interprete. In alcuni giorni la terza e la quarta sessione ne hanno due.\n\nGli spettacoli si svolgono alle 13:30, 14:20, 15:00, 16:00 e 16:30, quindi si inserisce in un pomeriggio a Higashiyama senza pianificare un'intera giornata attorno a esso.\n\nL'esposizione permanente tratta il kagai, i quartieri delle geiko, come una cultura viva, non come una curiosità: la formazione, l'abbigliamento, gli strumenti, il calendario stagionale. Leggerla prima della danza fa avere molto più senso ai quindici minuti.\n\nA questo prezzo è una delle esperienze culturali con il miglior rapporto qualità-prezzo a Kyoto, e porta denaro nel quartiere invece di portarne via solo fotografie.",
+  "highlights": [],
+  "included": [
+   "Ingresso al Museo d'Arte Kagai di Gion",
+   "Spettacolo di danza Kyomai eseguito da una geiko o maiko",
+   "Accesso all'esposizione permanente sulla cultura kagai"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Trasporto a Gion",
+   "Fotografia dove limitata"
+  ]
+ },
  "kandy-nuwara-eliya-or-ambewala-raiway-station": {
   "title": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya o Ambewela",
   "metaTitle": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya...",
@@ -54695,5 +54813,38 @@ export const IT_TOURS: Record<string, TourT> = {
  }
 };
 export const IT_PAGES: Record<string, PageT> = {};
-export const IT_CITIES: Record<string, CityT> = {};
+export const IT_CITIES: Record<string, CityT> = {
+ "country:india": {
+  "title": "India: tour guidati ed escursioni con operatori locali verificati",
+  "description": "Taj Mahal, Rajasthan, Delhi, Mumbai e molto altro: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
+ },
+ "country:thailand": {
+  "title": "Thailandia: tour guidati ed escursioni con operatori locali verificati",
+  "description": "Bangkok, Phuket, Krabi, Chiang Mai e Pattaya: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
+ },
+ "country:vietnam": {
+  "title": "Vietnam: tour guidati ed escursioni con operatori locali verificati",
+  "description": "Hanoi, la baia di Ha Long, Sapa, Hoi An, Da Nang e Ho Chi Minh City: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
+ },
+ "country:japan": {
+  "title": "Giappone: tour guidati ed escursioni con operatori locali verificati",
+  "description": "Tokyo, Kyoto, Osaka e le escursioni di un giorno dai porti delle crociere: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
+ },
+ "country:uae": {
+  "title": "Emirati Arabi Uniti: tour guidati ed escursioni con operatori locali verificati",
+  "description": "Dubai, Abu Dhabi e safari nel deserto: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
+ },
+ "country:indonesia": {
+  "title": "Indonesia: tour guidati ed escursioni con operatori locali verificati",
+  "description": "Bali, Ubud e le isole circostanti: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
+ },
+ "country:sri-lanka": {
+  "title": "Sri Lanka: tour guidati ed escursioni con operatori locali verificati",
+  "description": "Colombo, Kandy, Ella e i parchi nazionali per i safari: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
+ },
+ "country:cambodia": {
+  "title": "Cambogia: tour guidati ed escursioni con operatori locali verificati",
+  "description": "Angkor Wat, Siem Reap e Phnom Penh: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
+ }
+};
 export const IT_ITINERARIES: Record<string, ItineraryT> = {};

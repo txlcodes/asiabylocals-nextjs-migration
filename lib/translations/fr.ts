@@ -258205,6 +258205,26 @@ export const FR_CITIES: Record<string, CityT> = {
  "country:india": {
   "title": "Inde : visites guidées et excursions avec des opérateurs locaux vérifiés",
   "description": "Taj Mahal, Rajasthan, Delhi, Mumbai et plus : des centaines de visites réservées directement auprès d'opérateurs locaux vérifiés, avec confirmation sur WhatsApp."
+ },
+ "country:japan": {
+  "title": "Japon : visites guidées et excursions avec des opérateurs locaux vérifiés",
+  "description": "Tokyo, Kyoto, Osaka et les excursions d'une journée depuis les ports de croisière : des centaines de visites réservées directement auprès d'opérateurs locaux vérifiés, avec confirmation sur WhatsApp."
+ },
+ "country:uae": {
+  "title": "Émirats arabes unis : visites guidées et excursions avec des opérateurs locaux vérifiés",
+  "description": "Dubaï, Abou Dabi et safaris dans le désert : des centaines de visites réservées directement auprès d'opérateurs locaux vérifiés, avec confirmation sur WhatsApp."
+ },
+ "country:indonesia": {
+  "title": "Indonésie : visites guidées et excursions avec des opérateurs locaux vérifiés",
+  "description": "Bali, Ubud et les îles environnantes : des centaines de visites réservées directement auprès d'opérateurs locaux vérifiés, avec confirmation sur WhatsApp."
+ },
+ "country:sri-lanka": {
+  "title": "Sri Lanka : visites guidées et excursions avec des opérateurs locaux vérifiés",
+  "description": "Colombo, Kandy, Ella et les parcs nationaux de safari : des centaines de visites réservées directement auprès d'opérateurs locaux vérifiés, avec confirmation sur WhatsApp."
+ },
+ "country:cambodia": {
+  "title": "Cambodge : visites guidées et excursions avec des opérateurs locaux vérifiés",
+  "description": "Angkor Wat, Siem Reap et Phnom Penh : des centaines de visites réservées directement auprès d'opérateurs locaux vérifiés, avec confirmation sur WhatsApp."
  }
 };
 export const FR_ITINERARIES: Record<string, ItineraryT> = {
