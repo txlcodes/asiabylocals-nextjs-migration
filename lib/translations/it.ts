@@ -13904,6 +13904,247 @@ export const IT_TOURS: Record<string, TourT> = {
    "Attività facoltative e spese personali"
   ]
  },
+ "kyoto-kid-friendly-ninja-class-museum": {
+  "title": "Corso di ninja per famiglie a Kyoto: cerbottane, stelle e furtività",
+  "metaTitle": "Corso di ninja per famiglie a Kyoto",
+  "metaDescription": "Due ore di addestramento ninja in costume per tutta la famiglia, tecnica di furtività, una cerbottana e stelle da lancio, con ingresso al museo incluso.",
+  "shortDescription": "Due ore di addestramento ninja in costume per tutta la famiglia, tecnica di furtività, una cerbottana e stelle da lancio, con ingresso al museo incluso.",
+  "fullDescription": "Questa è la versione dell'esperienza ninja pensata per i bambini, e funziona perché si impegna sul serio invece che a metà. Tutti indossano un costume da ninja, e le due ore sono strutturate come una sessione di addestramento piuttosto che una visita al museo con un'attività aggiunta.\n\nL'addestramento spiega cosa fosse davvero il ninjutsu, il che è più interessante della versione cinematografica: una disciplina di spionaggio, infiltrazione e raccolta di informazioni praticata dalle famiglie delle regioni di Iga e Koga, il cui valore per un signore della guerra consisteva nel non essere visti del tutto. Le tecniche di furtività insegnate qui, come muoversi in silenzio, come usare ombra e copertura, sono la parte che i bambini prendono più sul serio.\n\nPoi l'equipaggiamento. Una cerbottana, che all'inizio richiede più controllo del respiro che precisione, e il lancio degli shuriken, le lame a forma di stella, lanciate verso un bersaglio sotto supervisione. Entrambi sono più difficili di quanto sembrino e nessuno dei due si comporta come suggeriscono i film.\n\nL'ingresso al museo è incluso, così la collezione storica, armature, armi e strumenti sia dei ninja che dei samurai, fa parte della visita invece di essere un extra.\n\nI gruppi sono limitati a cinque persone, il che lo rende gestibile con i bambini e significa che ognuno ha turni reali invece di stare in fila. L'istruzione è in inglese e il luogo è accessibile in sedia a rotelle.\n\nUna regola da tenere a mente: i bambini sotto i tre anni non possono partecipare alle attività ninja, anche se sono benvenuti nel locale. La sede si trova al secondo piano di un edificio su Teramachi, a Nakagyo-ku, nelle gallerie coperte nel centro della città.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso al museo",
+   "Costume da ninja da indossare",
+   "Sessione di addestramento ninja",
+   "Istruzione nelle tecniche di furtività",
+   "Cerbottana ninja",
+   "Lancio di stelle ninja autentiche"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il luogo di svolgimento",
+   "Cibo e bevande",
+   "Partecipazione per bambini sotto i tre anni (possono entrare nel locale)"
+  ]
+ },
+ "kyoto-sushi-making-class-with-footbath": {
+  "title": "Corso di sushi nel centro di Kyoto, con pediluvio finale",
+  "metaTitle": "Corso di sushi a Kyoto con pediluvio",
+  "metaDescription": "Novanta minuti per modellare nigiri con tonno e salmone e arrotolare un mini maki, insegnato in inglese e giapponese a pochi passi dal mercato Nishiki.",
+  "shortDescription": "Novanta minuti per modellare nigiri con tonno e salmone e arrotolare un mini maki, insegnato in inglese e giapponese a pochi passi dal mercato Nishiki.",
+  "fullDescription": "Il nigiri è due ingredienti e un'abilità. Il pesce è la parte facile; il riso è dove si vince o si perde, e la difficoltà specifica è la pressione, se stringete troppo ottenete un mattoncino compatto, se andate troppo delicati si disfa tra il piatto e la bocca. Un pezzo ben fatto mantiene la forma e si scompone nell'istante in cui raggiunge la lingua, e nessuno impara a farlo bene solo guardando.\n\nQuesto corso è costruito attorno al metterci le mani sopra. Imparate come si condisce il riso da sushi e perché va maneggiato a temperatura corporea, poi modellate nigiri con i condimenti classici, tonno e salmone, con correzioni man mano che procedete. Arrotolate anche un mini maki, così lasciate la lezione avendo fatto entrambe le forme base del sushi invece di una sola.\n\nL'istruzione avviene in inglese e giapponese ed è deliberatamente calibrata per i principianti. I gruppi sono limitati a dieci persone.\n\nIl pediluvio è il tocco locale ed è opzionale, a pagamento separato, 1.300 yen. Kyoto si trova su acque termali, e l'ashiyu, sedersi su una panca con i piedi in una vasca calda, è la versione leggera di un onsen, particolarmente gradita dopo una giornata a girare tra i templi. È un bel modo di chiudere novanta minuti ma non fa parte del biglietto, quindi decidete sul momento.\n\nIl locale si trova al secondo piano di un edificio a Kitakurumayacho, a Nakagyo-ku, a pochi passi dal mercato Nishiki e dal quartiere dello shopping di Kawaramachi, il che lo rende facile da inserire in un pomeriggio nel centro di Kyoto. Da notare che il locale non è accessibile in sedia a rotelle.",
+  "highlights": [],
+  "included": [
+   "Corso di sushi in inglese e giapponese",
+   "Tutti gli ingredienti",
+   "Istruttore",
+   "Il sushi che preparate"
+  ],
+  "notIncluded": [
+   "Costo del pediluvio, 1.300 yen a persona, pagato sul posto",
+   "Trasporto al locale",
+   "Cibo e bevande aggiuntivi"
+  ]
+ },
+ "kyoto-ebike-tour-ginkakuji-philosophers-path": {
+  "title": "Kyoto Est in e-bike: Ginkaku-ji, giardini zen e il Sentiero del Filosofo",
+  "metaTitle": "Tour in e-bike di Kyoto Est",
+  "metaDescription": "Quattro ore lungo le colline orientali con ingressi ai giardini incluse, e la guida vi porta dentro ai siti invece di fermarsi al cancello.",
+  "shortDescription": "Quattro ore lungo le colline orientali con ingressi ai giardini incluse, e la guida vi porta dentro ai siti invece di fermarsi al cancello.",
+  "fullDescription": "Il margine orientale di Kyoto è dove la città è al suo meglio e più dispersa. Ginkaku-ji si trova all'estremità nord, il Sentiero del Filosofo corre per due chilometri a sud lungo un canale sotto i ciliegi, e templi e giardini sono allineati a distanze tali da rendere la camminata completa un'intera giornata di lavoro e un tour in bus una serie di visite a parcheggi.\n\nUna e-bike risolve la geometria. L'assistenza appiana le colline ai piedi della catena di Higashiyama, le biciclette vanno bene per ciclisti fino a due metri, e coprite comodamente tutto il lato orientale in quattro ore con tempo per fermarvi come si deve.\n\nQuest'ultimo punto è l'argomento vero del tour. Gli ingressi ai giardini sono inclusi e la guida vi porta dentro, molti tour in bici a Kyoto passano davanti ai muri famosi e fotografano solo il cancello. Ginkaku-ji, il Padiglione d'Argento, non fu mai argentato; lo shogun che lo costruì come villa per il ritiro morì prima che il piano fosse eseguito, e la sobrietà che ne risultò è esattamente perché il giardino e il suo cono di sabbia rastrellata sono considerati il risultato più raffinato.\n\nIl Sentiero del Filosofo porta il nome di Nishida Kitaro, che lo percorreva ogni giorno andando all'Università di Kyoto, e funziona meglio esattamente come lo usa questo tour, come filo di collegamento tra templi piuttosto che come destinazione.\n\nI gruppi sono limitati a otto persone. Caschi ed e-bike sono inclusi; pranzo e trasferimenti d'albergo no. Il punto d'incontro è la base noleggio dell'operatore a Koyamacho, Kita-ku, facilmente trovabile per nome sulle mappe.",
+  "highlights": [],
+  "included": [
+   "Noleggio e-bike per quattro ore",
+   "Guida di lingua inglese",
+   "Ingressi ai giardini lungo il percorso",
+   "Caschi"
+  ],
+  "notIncluded": [
+   "Prelievo e riaccompagno in hotel",
+   "Pranzo",
+   "Ingressi aggiuntivi a templi fuori percorso"
+  ]
+ },
+ "kyoto-sumo-show-chanko-hot-pot-geisha-dance": {
+  "title": "Sumo, geisha e chanko illimitato nel centro di Kyoto",
+  "metaTitle": "Spettacolo di sumo e geisha a Kyoto",
+  "metaDescription": "Due ore attorno a un vero dohyo su Shinkyogoku, danza di geisha, spettacolo di sumo narrato in inglese, e chanko hot pot e bevande illimitati.",
+  "shortDescription": "Due ore attorno a un vero dohyo su Shinkyogoku, danza di geisha, spettacolo di sumo narrato in inglese, e chanko hot pot e bevande illimitati.",
+  "fullDescription": "Questo si trova nel mezzo delle gallerie commerciali coperte di Kyoto, cinque piani sopra Shinkyogoku, non è dove ci si aspetterebbe di trovare un ring di sumo. Ma al centro della sala c'è un vero dohyo, e i tavoli sono disposti attorno ad esso, quindi si mangia a bordo ring invece di guardare da lontano.\n\nLa serata si apre con una geisha che esegue una danza tradizionale in kimono completo. A Kyoto nello specifico questo ha un peso particolare, i quartieri delle geiko della città sono notoriamente difficili da entrare, e vedere la danza da vicino senza una presentazione da una teahouse è cosa rara per un visitatore.\n\nSegue il sumo, narrato per intero in inglese. Il locale è chiaro su cosa sia: non un torneo e non un allenamento, ma uno spettacolo costruito per portare vicino la cultura del sumo. In pratica questo significa che i lottatori spiegano mentre procedono, i rituali, le tecniche vincenti, l'etichetta, e poi combattono a pochi metri dal vostro tavolo. Gli ospiti possono entrare nel ring e affrontare un lottatore dopo lo spettacolo, con i posti estratti a sorte quando la richiesta è alta.\n\nIl cibo è l'altra metà. Chanko-nabe, lo hot pot su cui vivono le scuderie di sumo, servito illimitato insieme a un'ampia varietà di altri piatti, e bevande illimitate, cosa inusuale a questo prezzo e che cambia notevolmente il carattere della serata. Un set di souvenir è incluso.\n\nDue livelli di posti: standard, oppure VIP in prima fila sul bordo del dohyo. Il locale si trova al quinto piano dell'edificio con Animate su Shinkyogoku, nella galleria Takoyakushi, ed è accessibile in sedia a rotelle.",
+  "highlights": [],
+  "included": [
+   "Spettacolo di sumo con commento in inglese",
+   "Chanko-nabe illimitato e un'ampia varietà di piatti",
+   "Servizio bevande illimitato",
+   "Esibizione tradizionale di danza di geisha",
+   "Partecipazione all'estrazione per sfidare un lottatore nel ring",
+   "Set di souvenir"
+  ],
+  "notIncluded": [
+   "Pasti, posti e souvenir per neonati",
+   "Trasporto al locale",
+   "Prelievo e riaccompagno in hotel"
+  ]
+ },
+ "sapporo-kimono-dressing-and-matcha-tea-ceremony": {
+  "title": "Vestizione in kimono e sala da tè privata a Sapporo",
+  "metaTitle": "Kimono e cerimonia del tè a Sapporo",
+  "metaDescription": "Scegliete e fatevi vestire con un kimono, fotografatevi tra artigianati esposti, poi bevete un matcha preparato davanti a voi in una sala da tè privata.",
+  "shortDescription": "Scegliete e fatevi vestire con un kimono, fotografatevi tra artigianati esposti, poi bevete un matcha preparato davanti a voi in una sala da tè privata.",
+  "fullDescription": "Hokkaido è la parte del Giappone con radici tradizionali più superficiali, fu colonizzata sul serio solo a partire dagli anni 1870, su una griglia urbanistica, con consulenza agricola straniera, ed è esattamente per questo che una sessione di kimono e tè fatta bene a Sapporo merita di essere cercata invece di presumere che si debba aspettare Kyoto.\n\nSi comincia scegliendo un kimono da una collezione curata e facendosi vestire con cura professionale. Quel processo richiede più tempo di quanto ci si aspetti e vale la pena prestarci attenzione: gli strati, l'imbottitura, il modo in cui viene legato l'obi e come l'intero indumento sia costruito per essere indossato piuttosto che drappeggiato. Cambia il modo in cui si sta in piedi.\n\nVestiti, avete tempo nello spazio principale, allestito come un'esposizione museale di artigianati tradizionali da tutto il Giappone. Fotografarsi qui invece che per strada è lo scambio che questa esperienza propone, l'ambientazione è controllata e studiata, e potete prendervi il vostro tempo.\n\nLa seconda metà si sposta in una sala da tè privata con tatami. Il matcha viene preparato davanti a voi, così osservate la sequenza per intero, il riscaldamento della ciotola, la polvere misurata, la frullatura, e lo bevete con dolci tradizionali da tè. Vederlo fatto bene da vicino è una cosa molto diversa dall'essere serviti in una sala affollata.\n\nUna condizione da tenere a mente: il kimono non può essere indossato fuori dal locale. Questa è un'esperienza interna, non un noleggio per girare la città, e chiunque speri di fotografarsi in giro per Sapporo dovrebbe prenotare invece un noleggio da strada.\n\nI gruppi sono limitati a quattro persone e l'istruzione è in inglese. Dieci minuti a piedi dalla stazione Nishi 28-chome.",
+  "highlights": [],
+  "included": [
+   "Selezione del kimono e vestizione professionale",
+   "Accesso allo spazio Japanese Modern e alle sue esposizioni artigianali",
+   "Matcha preparato e servito in una sala da tè privata",
+   "Dolci tradizionali da tè",
+   "Personale di lingua inglese"
+  ],
+  "notIncluded": [
+   "Indossare il kimono fuori dal locale",
+   "Trasporto al locale",
+   "Servizi fotografici",
+   "Acquisti nel negozio di artigianato"
+  ]
+ },
+ "sapporo-kumiko-woodworking-workshop": {
+  "title": "Kumiko a Sapporo: assemblare un sottobicchiere a reticolo senza un solo chiodo",
+  "metaTitle": "Workshop di kumiko a Sapporo",
+  "metaDescription": "Novanta minuti per incastrare legno intagliato a mano in un motivo geometrico kumiko tenuto insieme solo dall'attrito, con tè, un dolcetto e uno showroom di artigianato.",
+  "shortDescription": "Novanta minuti per incastrare legno intagliato a mano in un motivo geometrico kumiko tenuto insieme solo dall'attrito, con tè, un dolcetto e uno showroom di artigianato.",
+  "fullDescription": "Il kumiko è la falegnameria ridotta alla sua forma più pura. Sottili listelli di legno vengono tagliati, intaccati e incastrati in reticoli geometrici senza chiodi, senza viti e, tradizionalmente, senza colla: i pezzi tengono perché gli angoli sono tagliati con precisione tale da bloccarsi da soli. È usato nelle porte, nei pannelli scorrevoli e nelle traverse giapponesi da oltre mille anni, e un singolo pannello può contenere centinaia di pezzi lavorati individualmente.\n\nNon costruirete una traversa in novanta minuti, ma costruirete un sottobicchiere, e il kit è preparato in modo che anche un principiante assoluto produca qualcosa di genuinamente buono. Assemblate i pezzi passo dopo passo, li incollate e rifinite la superficie con carta vetrata, l'intera sequenza invece di un gesto finale simbolico, ed è proprio questo che la rende appagante.\n\nI motivi hanno nomi e significati, e la guida vi accompagna attraverso la storia e la geometria: quali disposizioni rappresentano foglie di canapa, quali rappresentano il guscio di tartaruga, e perché la stessa manciata di angoli generi così tanti disegni.\n\nL'ambientazione aggiunge molto. Questo è uno spazio culturale e showroom di artigianato a Kita-Maruyama, e i lavori kumiko finiti, quelli veri, in scala reale, sono in esposizione, il che metta il vostro sottobicchiere nella giusta prospettiva, nel modo migliore possibile. Tè giapponese e un dolcetto leggero vengono serviti durante la sessione, e c'è un negozio curato di artigianato tradizionale da visitare dopo.\n\nI gruppi sono limitati a quattro persone, l'istruzione è in inglese, e il locale è a circa dieci minuti a piedi dalla stazione Nishi 28-chome sulla linea Tozai. Cercate il cartello N6 nella parte alta a destra della facciata.",
+  "highlights": [],
+  "included": [
+   "Kit per la creazione di un sottobicchiere kumiko in legno",
+   "Istruzione e supporto dal personale",
+   "Introduzione alla storia e ai motivi del kumiko",
+   "Tè giapponese e un dolcetto leggero",
+   "Visione di autentici lavori kumiko",
+   "Accesso allo showroom di artigianato tradizionale"
+  ],
+  "notIncluded": [
+   "Trasporto al locale",
+   "Acquisti aggiuntivi nel negozio di artigianato",
+   "Pasti"
+  ]
+ },
+ "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
+  "title": "Raccolta frutta a Yoichi, la distilleria Nikka e la costa di Shakotan",
+  "metaTitle": "Raccolta frutta, distilleria Nikka e costa di Shakotan",
+  "metaDescription": "Raccolta di frutta illimitata, la distilleria di whisky più celebre del Giappone e le scogliere blu di Capo Kamui, un giorno in bus a ovest di Sapporo.",
+  "shortDescription": "Raccolta di frutta illimitata, la distilleria di whisky più celebre del Giappone e le scogliere blu di Capo Kamui, un giorno in bus a ovest di Sapporo.",
+  "fullDescription": "La costa occidentale di Hokkaido fa tre cose scollegate tra loro in modo straordinario, e questa giornata le lega insieme.\n\nPrima la frutta, in un frutteto turistico a Yoichi. La raccolta è illimitata e ciò che è maturo dipende interamente da quando venite, ciliegie a luglio, prugne e pere fino a fine estate, mele in autunno. L'opzione da conoscere è lo Shine Muscat, l'uva verde senza semi diventata il frutto di prestigio del Giappone e venduta a prezzi assurdi nei grandi magazzini di Tokyo; la finestra di raccolta a Hokkaido è breve, e colei che la stacca con le proprie mani dalla vite è un'esperienza molto diversa dall'acquistarla in una scatola regalo.\n\nSegue la distilleria Nikka Yoichi, che è la storia d'origine del whisky giapponese. Masataka Taketsuru studiò la distillazione in Scozia negli anni 1920, tornò con una moglie scozzese e scelse Yoichi perché la costa fredda, umida e torbosa gli ricordava lo Speyside. Gli alambicchi qui sono ancora riscaldati a carbone, cosa che quasi nessun altro luogo al mondo fa più. Novanta minuti coprono la visita e il pranzo nel ristorante interno, da pagare separatamente.\n\nPoi la costa. Shimamui è uno dei cento paesaggi marini più belli del Giappone, si attraversa un tunnel e la vista si apre su scogliere sopra un'acqua di un blu davvero, incredibilmente intenso. Capo Kamui, alla punta della penisola di Shakotan, chiude la giornata con una stretta camminata su una cresta sospesa sul mare.\n\nLa partenza è alle 8:50 dall'Uscita 31 della stazione Odori a Sapporo. Le guide lavorano in inglese, cinese e giapponese. I pasti sono a vostro carico, e l'ingresso al frutteto è incluso solo nei pacchetti che lo specificano.",
+  "highlights": [],
+  "included": [
+   "Trasporto in bus andata e ritorno da Sapporo",
+   "Guida di lingua inglese, cinese e giapponese",
+   "Ingresso al frutteto (nei pacchetti che lo includono)",
+   "Visite alla distilleria Nikka Yoichi, alla costa di Shimamui e a Capo Kamui"
+  ],
+  "notIncluded": [
+   "Pasti, incluso il pranzo alla distilleria",
+   "Biglietto di raccolta frutta nel pacchetto base",
+   "Spese personali"
+  ]
+ },
+ "sapporo-sake-tasting-through-traditional-cups": {
+  "title": "Un sake, tante coppe: una degustazione in vetro, legno e peltro a Sapporo",
+  "metaTitle": "Degustazione di sake in coppe tradizionali a Sapporo",
+  "metaDescription": "Lo stesso sake versato in vetro intagliato di Otaru, legno flessibile e peltro, novanta minuti insolitamente precisi su come il recipiente cambi la bevanda.",
+  "shortDescription": "Lo stesso sake versato in vetro intagliato di Otaru, legno flessibile e peltro, novanta minuti insolitamente precisi su come il recipiente cambi la bevanda.",
+  "fullDescription": "La maggior parte delle degustazioni di sake confronta sake diversi. Questa fa il contrario, ed è molto più istruttiva: un unico sake scelto con cura, servito in una successione di coppe tradizionali diverse, così che l'unica variabile sia il contenitore da cui lo si beve.\n\nLa differenza non è sottile. L'Otaru kiriko, il vetro intagliato prodotto lungo la costa di Hokkaido, è freddo e dai contorni netti e intensifica l'aroma. Il magewappa, coppe curvate da cedro o cipresso sottile, aggiunge l'odore stesso del legno e ammorbidisce tutto. Il peltro conduce il calore in modo insolitamente rapido e viene tradizionalmente accreditato di smussare l'asprezza. Bere lo stesso liquido attraverso tutte e tre nell'arco di un'ora è la dimostrazione più chiara possibile del perché il recipiente sia trattato come parte della cultura del bere giapponese piuttosto che come un semplice contenitore.\n\nOgni coppa è un oggetto artigianale fatto a mano con un suo artigiano e una sua storia, e chi guida la sessione racconta entrambe le cose, da dove viene la tecnica, chi la pratica ancora, e come è stato realizzato il pezzo che avete in mano. Questo trasforma la sessione in qualcosa più simile a un corso di apprezzamento dell'artigianato che, per caso, coinvolge l'alcol.\n\nSnack leggeri vengono serviti durante la degustazione, e avete accesso al negozio di artigianato tradizionale annesso allo spazio, dove le coppe stesse e altri pezzi artigianali sono in vendita. Diverse persone se ne vanno dopo aver comprato quella che per loro ha funzionato meglio, un modo decisamente migliore di scegliere una coppa da sake rispetto a indovinare in un grande magazzino.\n\nI gruppi sono limitati a quattro persone, chi guida la sessione lavora in inglese, e il locale è a circa dieci minuti a piedi dalla stazione Nishi 28-chome.",
+  "highlights": [],
+  "included": [
+   "Sessione di degustazione di sake",
+   "Una varietà di coppe da sake tradizionali fatte a mano",
+   "Snack leggeri",
+   "Introduzione all'artigianato dietro ogni coppa",
+   "Accesso al negozio di artigianato tradizionale"
+  ],
+  "notIncluded": [
+   "Sake aggiuntivo oltre alla degustazione",
+   "Trasporto al locale",
+   "Acquisti nel negozio di artigianato"
+  ]
+ },
+ "nagoya-aichi-wagashi-and-matcha-workshop": {
+  "title": "I wagashi tipici di Aichi: due dolci di stagione e una ciotola di matcha a Nagoya",
+  "metaTitle": "Workshop di wagashi e matcha ad Aichi, Nagoya",
+  "metaDescription": "Novanta minuti per preparare due dolci di stagione con pasta di fagioli rossi e farina di riso glutinoso, insegnati da una nutrizionista, poi frullare il matcha con cui mangiarli.",
+  "shortDescription": "Novanta minuti per preparare due dolci di stagione con pasta di fagioli rossi e farina di riso glutinoso, insegnati da una nutrizionista, poi frullare il matcha con cui mangiarli.",
+  "fullDescription": "I corsi di wagashi a Kyoto e Tokyo insegnano la tradizione di corte. Questo insegna quella di Aichi, che è una cosa diversa, il Giappone centrale ha costruito la propria pasticceria sui fagioli e sulla stessa cultura di fermentazione che ha dato alla regione il suo miso e la sua salsa di soia, e i dolci qui sono più densi, più semplici e più domestici dei delicati nerikiri dell'antica capitale.\n\nNell'arco di novanta minuti preparate due dolci di stagione usando pasta dolce di fagioli rossi e farina di riso glutinoso, i due ingredienti su cui si fonda gran parte della pasticceria giapponese. L'istruttrice è una nutrizionista con regolare abilitazione, e l'insegnamento va oltre la tecnica, come si bilanciano dolcezza, consistenza e amarezza l'una contro l'altra, e perché un dolce pensato per essere mangiato con il matcha debba essere più dolce di uno mangiato da solo.\n\nQuell'equilibrio è l'intero senso della lezione, e lo verificate direttamente: dopo aver preparato i dolci, frullate la vostra ciotola di matcha e li mangiate insieme. L'amarezza arriva e la dolcezza improvvisamente ha senso.\n\nC'è anche un vero discorso regionale che attraversa la lezione, su come il clima e gli ingredienti locali abbiano modellato la pasticceria in modo diverso in questa parte del Giappone. È il tipo di contesto che rende il resto di un viaggio più interessante, si comincia a notare cosa vendono davvero le pasticcerie in ogni città.\n\nI gruppi arrivano fino a quattordici persone e l'istruzione è in inglese. Lo studio si trova a Izumi, nel centro di Nagoya, vicino alla stazione.",
+  "highlights": [],
+  "included": [
+   "Workshop pratico di wagashi e matcha di novanta minuti",
+   "Preparazione di due dolci giapponesi di stagione",
+   "Frullatura e consumo del proprio matcha",
+   "Nutrizionista abilitata come istruttrice",
+   "Tutti gli ingredienti"
+  ],
+  "notIncluded": [
+   "Trasporto allo studio",
+   "Cibo e bevande aggiuntivi",
+   "Prelievo e riaccompagno in hotel"
+  ]
+ },
+ "nagoya-toyota-commemorative-museum-guided-tour": {
+  "title": "Dai telai alle Land Cruiser: il Museo Commemorativo Toyota con una guida",
+  "metaTitle": "Museo Commemorativo Toyota a Nagoya con guida",
+  "metaDescription": "Tre ore guidate nel mulino in mattoni rossi dove nacque Toyota, telai in funzione, la Model AA, e le dimostrazioni dal vivo che spiegano tutto il resto.",
+  "shortDescription": "Tre ore guidate nel mulino in mattoni rossi dove nacque Toyota, telai in funzione, la Model AA, e le dimostrazioni dal vivo che spiegano tutto il resto.",
+  "fullDescription": "Toyota non è cominciata con le automobili. È cominciata con un telaio, inventato da Sakichi Toyoda, che si fermava automaticamente nell'istante in cui un filo si rompeva, così un solo operatore poteva gestire decine di macchine invece di sorvegliarne una sola. Quel principio, chiamato jidoka, divenne metà del fondamento del Toyota Production System, che a sua volta divenne il modo in cui funziona la maggior parte delle fabbriche del mondo. Capirlo è il motivo per venire qui piuttosto che in un museo d'automobili.\n\nIl museo occupa l'originale mulino tessile in mattoni rossi del gruppo, e il Padiglione del Macchinario Tessile viene prima: i telai, in funzione, con dimostrazioni dal vivo dei meccanismi. Vedere l'arresto automatico attivarsi davvero spiega più cose in tre secondi di qualsiasi diagramma.\n\nSegue il Padiglione delle Automobili, che segue il passaggio alle auto, la Toyoda Model AA del 1936, e poi pressatura, saldatura, assemblaggio, robotica, motori hybrid e celle a combustibile a idrogeno, gran parte di tutto ciò mostrato in azione piuttosto che esposto dietro un vetro.\n\nUna guida è ciò che trasforma questo da museo industriale in un discorso coerente. Il filo che collega un telaio del diciannovesimo secolo a un'auto a idrogeno è genuinamente interessante e completamente invisibile se si gira per le sale leggendo le didascalie.\n\nL'ingresso al Toyota Commemorative Museum of Industry and Technology è incluso. Da notare che il Toyota Kaikan e il Toyota Automobile Museum, separato, sono siti diversi e non fanno parte di questo tour.\n\nI gruppi sono limitati a otto persone e la guida lavora in inglese. Il museo si trova a Noritake Shinmachi, a breve distanza a piedi dalla stazione di Nagoya.",
+  "highlights": [],
+  "included": [
+   "Ingresso al Toyota Commemorative Museum of Industry and Technology",
+   "Guida di lingua inglese per tre ore",
+   "Padiglione del Macchinario Tessile",
+   "Padiglione delle Automobili",
+   "Dimostrazioni dal vivo dei macchinari"
+  ],
+  "notIncluded": [
+   "Toyota Kaikan Museum",
+   "Toyota Automobile Museum",
+   "Cibo e bevande",
+   "Trasporto al museo"
+  ]
+ },
+ "nagoya-ramen-making-class-at-a-working-shop": {
+  "title": "Preparare il ramen tonkotsu dentro un vero negozio di Nagoya",
+  "metaTitle": "Corso di ramen in un negozio vero a Nagoya",
+  "metaDescription": "Un'ora dietro il bancone di un vero ramen-ya, a cucinare la propria ciotola di tonkotsu bianco, nero o miso piccante con uno chef formato e supporto in inglese.",
+  "shortDescription": "Un'ora dietro il bancone di un vero ramen-ya, a cucinare la propria ciotola di tonkotsu bianco, nero o miso piccante con uno chef formato e supporto in inglese.",
+  "fullDescription": "La maggior parte dei corsi di cucina si svolge in studi dedicati. Questo si svolge in un vero negozio di ramen, il che cambia cosa si impara, si lavora con le attrezzature del negozio, il suo brodo e i suoi tempi, nello spazio dove il cibo viene normalmente venduto.\n\nLo stile è il tonkotsu di Hakata, il ramen con ossa di maiale di Fukuoka: brodo cotto a fuoco lento finché il collagene si scioglie e il liquido diventa bianco opaco, servito con noodle sottili, sodi e dritti. Il fondatore della catena si è formato a Hakata sotto un cuoco di yatai prima di portare lo stile a Nagoya, quindi ciò che vi viene insegnato è una filiera precisa piuttosto che una ricetta generica.\n\nScegliete una delle tre versioni: tonkotsu bianco, la versione semplice e cremosa; tonkotsu nero, finito con olio d'aglio bruciato, che gli dona una profondità scura, quasi amara; oppure kara miso tonkotsu, speziato al miso. Poi lo preparate. La parte critica sono i noodle, quelli di Hakata cuociono in ben meno di un minuto e la finestra tra giusto e rovinato è larga pochi secondi, motivo per cui i negozi chiedono quanto sodi li vogliate e perché i tentativi casalinghi di solito falliscono.\n\nInsegna uno chef di ramen formato, con Yuka che fornisce supporto in inglese per tutta la durata, così niente va perso per la lingua. Alla fine ricevete un certificato e, più utilmente, una comprensione di cosa cercare in ogni ciotola che ordinerete per il resto del viaggio.\n\nIl negozio si trova a Noritake Shinmachi, nel distretto di Nishi, vicino alla stazione di Nagoya. I gruppi sono limitati a sei persone e l'intera attività dura un'ora, il che la rende facile da inserire prima o dopo un treno.",
+  "highlights": [],
+  "included": [
+   "Corso di preparazione del ramen con uno chef formato",
+   "Scelta tra tonkotsu bianco, tonkotsu nero o kara miso tonkotsu",
+   "La ciotola di ramen che preparate",
+   "Supporto in inglese dall'host",
+   "Certificato di completamento"
+  ],
+  "notIncluded": [
+   "Trasporto al locale",
+   "Pasti diversi dal ramen che preparate",
+   "Bevande aggiuntive"
+  ]
+ },
+ "nagoya-private-kyudo-archery-lesson-toyoake-dojo": {
+  "title": "Kyudo in un dojo attivo fuori Nagoya: tre ore di tiro con l'arco giapponese",
+  "metaTitle": "Lezione privata di kyudo a Toyoake",
+  "metaDescription": "Tre ore al Chokushi Kyudojo a Toyoake, un'ora di postura e respirazione prima di toccare una freccia, poi tiro al makiwara sotto un arciere in attività.",
+  "shortDescription": "Tre ore al Chokushi Kyudojo a Toyoake, un'ora di postura e respirazione prima di toccare una freccia, poi tiro al makiwara sotto un arciere in attività.",
+  "fullDescription": "Il kyudo è la più severa tra le arti marziali giapponesi nei confronti dei visitatori, e questa sessione non lo addolcisce. Il Chokushi Kyudojo a Toyoake, a circa trenta minuti dal centro di Nagoya, è una sala attiva dove si allenano arcieri locali, e vi si entra come fanno loro, con un inchino sulla soglia, in silenzio.\n\nLa prima ora non ha nessuna freccia. Nel kyudo, postura e respirazione sono la pratica e la freccia è solo il risultato, quindi passate quell'ora in piedi, respirando e imparando il hassetsu, le otto fasi del tiro, un movimento alla volta. La maggior parte delle persone trova questa la parte più difficile proprio perché non sembra accadere nulla.\n\nPoi tirate al makiwara, il bersaglio di paglia posto a due metri di distanza che esiste apposta perché un principiante possa lavorare sulla forma senza alcuna questione di mira. L'arco è asimmetrico, l'impugnatura si trova a un terzo dell'altezza di un yumi di due metri, diverso da qualsiasi altra tradizione di tiro con l'arco al mondo, e il tiro si solleva sopra la testa e si porta giù. È più strano da fare che da vedere.\n\nL'istruzione è impartita da un arciere di kyudo in attività o da un istruttore senior dello stesso dojo, in inglese, con correzioni dirette per ogni persona in un gruppo limitato a sei.\n\nArco, frecce ed equipaggiamento protettivo sono forniti insieme all'uso della sala. Indossate qualcosa in cui possiate muovervi; il dojo ha uno standard di abbigliamento e il vostro istruttore spiegherà cosa è richiesto prima del vostro arrivo.\n\nIl trasporto verso Toyoake è a vostro carico, circa trenta minuti in treno o in auto dal centro di Nagoya, con il dojo all'interno del Chokushi Park.",
+  "highlights": [],
+  "included": [
+   "Lezione privata di kyudo di tre ore con un istruttore qualificato",
+   "Uso di arco, frecce ed equipaggiamento protettivo",
+   "Uso del dojo",
+   "Istruzione in inglese"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il dojo",
+   "Cibo e bevande",
+   "Mance"
+  ]
+ },
  "kandy-nuwara-eliya-or-ambewala-raiway-station": {
   "title": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya o Ambewela",
   "metaTitle": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya...",
