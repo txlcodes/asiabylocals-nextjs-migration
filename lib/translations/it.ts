@@ -14571,20 +14571,6 @@ export const IT_TOURS: Record<string, TourT> = {
    "Cibo e bevande, prelievo e riaccompagno in hotel, biglietti d'ingresso nell'opzione senza biglietti, mance"
   ]
  },
- "kyoto-fushimi-guided-tour": {
-  "title": "Fushimi Inari e Nara",
-  "metaTitle": "Fushimi Inari e Nara in un giorno",
-  "metaDescription": "Abbinare Fushimi Inari a Nara in un solo giorno sembra ambizioso sulla carta, ma i due siti si completano in un modo che rende la combinazione più intelligente che visitarli separatamente.",
-  "shortDescription": "Abbinare Fushimi Inari a Nara in un solo giorno sembra ambizioso sulla carta, ma i due siti si completano in un modo che rende la combinazione più intelligente che visitarli separatamente.",
-  "fullDescription": "Abbinare Fushimi Inari a Nara in un solo giorno sembra ambizioso sulla carta, ma i due siti si completano in un modo che rende la combinazione più intelligente che visitarli separatamente: uno è un santuario di montagna definito dalla ripetizione artificiale, migliaia di cancelli torii vermigli che salgono un pendio boscoso, e l'altro è un'antica capitale dove la natura stessa, nella forma di oltre mille cervi sacri che si muovono liberamente, occupa il centro della scena. La giornata inizia a Fushimi Inari, camminando attraverso il tunnel Senbon Torii con una guida privata che spiega la tradizione secolare delle aziende che donano cancelli nella speranza di prosperità da Inari, il dio del riso, del sake e del commercio, e segnalando dettagli come le volpi di pietra che tengono chiavi in bocca che la maggior parte dei visitatori oltrepassa senza notare. Da lì, il tour si dirige verso Nara, a circa 45 minuti a sud, dove la scala cambia completamente: il tempio Todaiji ospita la Sala del Grande Buddha, ancora tra i più grandi edifici in legno della Terra nonostante sia stata ricostruita più piccola della sua forma originale dell'VIII secolo, che ripara un Buddha di bronzo di 15 metri fuso nel 752 d.C. Camminare fino a Todaiji significa attraversare il parco di Nara, dove i cervi considerati messaggeri degli dei si avvicinano liberamente per i cracker di riso venduti alle bancarelle del parco, un'esperienza genuinamente diversa e leggermente caotica rispetto alla quieta reverenza di Fushimi Inari quella mattina. La giornata tipicamente continua verso Kasuga Taisha, l'altro grande santuario di Nara, noto per le migliaia di lanterne di bronzo e pietra che fiancheggiano il suo accesso boscoso, donate nel corso dei secoli dai devoti in una tradizione parallela ai cancelli di Fushimi Inari, un'eco deliberata che la vostra guida probabilmente segnalerà, collegando tematicamente le due metà della giornata invece di trattarle come tappe non correlate. Questo si svolge come un tour privato a piedi per un massimo di sei persone, il che significa che il programma si piega attorno al vostro gruppo piuttosto che a un orario di autobus, e le domande ottengono risposte vere piuttosto che un copione registrato. Con otto ore che coprono due città, questa è una giornata piena ma gratificante, più adatta ai viaggiatori che vogliono profondità piuttosto che ampiezza, due siti genuinamente significativi esplorati come si deve piuttosto che quattro affrettati. Indossate scarpe vere da camminata, portate contanti per i cracker per i cervi e le offerte al santuario, e aspettatevi una giornata che si muove dalla geometria sacra di cancelli infiniti all'energia selvatica e leggermente comica dei cervi di Nara senza nulla di generico in mezzo.",
-  "highlights": [],
-  "included": [
-   "Guida privata di lingua inglese e trasporto tra Fushimi Inari e Nara per l'intera giornata"
-  ],
-  "notIncluded": [
-   "Biglietti d'ingresso ai templi, pranzo e cracker per i cervi non sono inclusi"
-  ]
- },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara al Myokaku-ji: coreografia di spada filmata nei terreni del tempio",
   "metaTitle": "Esperienza di spada chambara a Kyoto",
@@ -14764,20 +14750,6 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Prelievo e riaccompagno in hotel, cibo e bevande, e il trasporto da e per il punto d'incontro non sono inclusi"
-  ]
- },
- "kyoto-morning-tour": {
-  "title": "Mattina presto a Kyoto",
-  "metaTitle": "Mattina presto a Kyoto: alba a Fushimi Inari",
-  "metaDescription": "Fushimi Inari all'alba è un santuario diverso da quello di ogni foto che avete visto online. I cancelli torii vermigli che scavano un tunnel sul fianco della montagna sono di solito spalla a spalla con i visitatori a metà mattina.",
-  "shortDescription": "Fushimi Inari all'alba è un santuario diverso da quello di ogni foto che avete visto online. I cancelli torii vermigli che scavano un tunnel sul fianco della montagna sono di solito spalla a spalla con i visitatori a metà mattina.",
-  "fullDescription": "Fushimi Inari all'alba è un santuario diverso da quello di ogni foto che avete visto online. I cancelli torii vermigli che famosamente scavano un tunnel sul fianco della montagna sono di solito spalla a spalla con i visitatori a metà mattina; arrivate invece all'alba e otterrete lunghi tratti del sentiero tutti per voi, luce soffusa che filtra attraverso i cancelli, e il silenzio quasi inquietante di un santuario attivo senza interruzione fin dall'VIII secolo. Questo tour privato di mezza giornata è costruito interamente per sfruttare quella finestra, iniziando presto abbastanza da battere i pullman turistici. Da lì, il percorso si dirige a nord verso Higashiyama, il distretto storico meglio preservato di Kyoto, calibrando la passeggiata così da raggiungere Kiyomizu-dera e il suo spettacolare palco in legno mentre la folla è ancora rada. La discesa attraverso Ninen-zaka e Sannen-zaka, due vicoli pavimentati in pietra fiancheggiati da case machiya, case da tè e piccole botteghe artigianali, è una delle passeggiate più fotogeniche del Giappone, e farla presto significa poter davvero apprezzare l'architettura del periodo Edo invece di navigare un muro di gruppi turistici. La vostra guida intreccia contesto locale per tutto il percorso: perché queste particolari strade siano sopravvissute alla riqualificazione, cosa cercare nelle facciate tradizionali dei negozi, quali piccoli vicoli secondari meritino una deviazione. Essendo privato e limitato a sei persone, il ritmo si piega al vostro gruppo piuttosto che a un orario fisso. Questo tour premia specificamente chi si sveglia presto, è costruito per viaggiatori che capiscono che i luoghi più iconici di Kyoto si trasformano semplicemente arrivando prima di tutti gli altri.",
-  "highlights": [],
-  "included": [
-   "Tour guidato privato a piedi che comprende Fushimi Inari, Kiyomizu-dera e il distretto di Higashiyama"
-  ],
-  "notIncluded": [
-   "Biglietti d'ingresso ai templi e acquisti di cibo o bevande lungo il percorso non sono inclusi"
   ]
  },
  "kyoto-nara-fushimi-inari-deer-park-day-tour": {
@@ -14960,6 +14932,375 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Biglietti d'ingresso a templi e giardini dove applicabili, pasti e bevande, spese personali, mance"
+  ]
+ },
+ "kyoto-walking-evening-tour": {
+  "title": "Tour serale a piedi di Fushimi Inari a Kyoto",
+  "metaTitle": "Passeggiata notturna a Fushimi Inari",
+  "metaDescription": "Due ore tranquille tra i torii di Fushimi Inari con una guida locale, lontano dalla folla diurna.",
+  "shortDescription": "Due ore tranquille tra i torii di Fushimi Inari con una guida locale, lontano dalla folla diurna.",
+  "fullDescription": "Alle nove del mattino i cancelli inferiori di Fushimi Inari sono già un fiume lento di gruppi turistici e bastoni per selfie. Dopo il tramonto, la montagna appartiene quasi a nessuno, solo ai corvi, alle statue di volpe che catturano la luce delle torce, e al debole profumo di incenso che proviene dagli uffici del santuario. Questa è la versione del luogo più fotografato di Kyoto che sembra davvero il posto sacro che è. La guida vi incontra vicino all'ingresso della stazione JR Inari, mentre i torii vermiglio iniziano a brillare sotto la luce delle lanterne, e vi conduce su attraverso il Senbon Torii, il denso tunnel di migliaia di cancelli donati da aziende nel corso dei secoli, ognuno inciso con il nome dell'azienda e la data della donazione, una tradizione che risale al periodo Edo, quando i mercanti credevano che lo spirito volpe Inari portasse prosperità. Lontano dal caldo e dalla folla diurna, potete davvero fermarvi, respirare e notare dettagli che la maggior parte dei visitatori non vede: i santuari minori nascosti nei sentieri laterali, i guardiani di pietra a forma di volpe che tengono chiavi e gioielli in bocca, il modo in cui il tunnel di cancelli si restringe e si allarga mentre salite verso l'incrocio di Yotsutsuji, dove le luci di Kyoto si stendono sotto di voi. L'operatore locale ha costruito la sua reputazione esattamente su questo tipo di tempistica da intenditore, guide che sanno quali tratti della montagna si svuotano prima dopo il tramonto e quali santuari laterali hanno storie che valgono una sosta, dalle misteriose pietre divinatorie \"omokaru\" al folklore su perché le volpi, e non i cervi, siano diventate gli animali messaggeri di Inari. Non è un tour frettoloso da tappa fotografica, sono due ore senza fretta che trattano Fushimi Inari come un santuario vivo piuttosto che una voce da spuntare, con tanto tempo per le domande e per restare semplicemente in silenzio tra i cancelli. Qui contano le scarpe comode, i sentieri sono in pietra e terra battuta con qualche pendenza, anche se questo tour non arriva fino alla cima. Se avete già visto Fushimi Inari su una cartolina e volete davvero sentire ciò che attirava i pellegrini qui da oltre mille anni, questo è il modo giusto. Prenotate la fascia serale, portate una giacca leggera per l'aria di montagna, e lasciate che la versione notturna del santuario più famoso di Kyoto vi sorprenda.",
+  "highlights": [
+   "Esplorate Fushimi Inari dopo che la folla diurna è sparita",
+   "Camminate nel tunnel illuminato da lanterne del Senbon Torii",
+   "La guida locale racconta il folklore sullo spirito volpe e la storia del santuario",
+   "Aria serale più fresca, foto migliori, vera quiete",
+   "Ritmo in piccolo gruppo con tempo per fermarsi e osservare davvero"
+  ],
+  "included": [
+   "Una guida locale esperta e di lingua inglese per l'intera passeggiata serale di due ore."
+  ],
+  "notIncluded": [
+   "Il ritiro e il rientro in hotel e il cibo o le bevande lungo il percorso non sono inclusi."
+  ]
+ },
+ "kyoto-walking-tour": {
+  "title": "Kyoto: tour guidato a piedi del Palazzo Imperiale e del Castello Nijo",
+  "metaTitle": "Palazzo Imperiale e Castello Nijo a piedi",
+  "metaDescription": "Kyoto vi ricompensa nel momento in cui smettete di voler vedere tutto e invece vi fermate con calma in due luoghi che spiegano davvero come funzionava la città.",
+  "shortDescription": "Kyoto vi ricompensa nel momento in cui smettete di voler vedere tutto e invece vi fermate con calma in due luoghi che spiegano davvero come funzionava la città.",
+  "fullDescription": "Kyoto vi ricompensa nel momento in cui smettete di voler vedere tutto e invece vi fermate con calma in due luoghi che spiegano davvero come funzionava la città. Questa passeggiata collega il Palazzo Imperiale di Kyoto, ancora circondato dalle sue mura di pietra e dai terreni ghiaiosi punteggiati di pini dentro il parco Kyoto Gyoen, con il Castello Nijo, la residenza fortificata che Tokugawa Ieyasu costruì per tenere d'occhio l'imperatore a pochi chilometri di distanza. La guida intreccia i due luoghi in un'unica storia piuttosto che in due tappe separate: perché uno shogun aveva bisogno di un castello a distanza di passeggiata dal palazzo, a cosa servivano davvero i pavimenti d'usignolo del Palazzo Ninomaru (quel caratteristico cigolio sotto i piedi è un sistema d'allarme vecchio di quattrocento anni, e funziona ancora), e come i dipinti su pannelli della scuola Kano all'interno venissero usati per intimidire i daimyo in visita prima che raggiungessero la sede dello shogun. Il parco Kyoto Gyoen in sé merita una sosta oltre gli edifici del palazzo, è uno dei pochi grandi spazi verdi nel centro di Kyoto dove i locali corrono, portano a spasso i cani e fanno un sonnellino sotto i susini e i ciliegi, e la guida vi indicherà dove si raggruppano le fioriture stagionali se visitate nel periodo giusto. All'interno del Palazzo Ninomaru, la disposizione stanza per stanza si legge ancora chiaramente: le camere esterne per i visitatori di rango inferiore, le stanze interne riservate agli alleati più vicini dello shogun, ciascuna con uno status codificato nei tatami fin nella geometria dell'edificio. Non è un tour che vi fa correre oltre le targhette informative, è costruito attorno a una guida capace di rispondere sul momento alla domanda più strana. Con solo tre ore, si inserisce bene in una mattinata a Kyoto senza consumarvi l'intera giornata, lasciandovi liberi di dirigervi al mercato di Nishiki o a Gion per il pranzo dopo. Se volete che la spina dorsale politica e architettonica della storia di Kyoto vi venga spiegata da qualcuno che ama evidentemente l'argomento, questo è il modo giusto per farlo.",
+  "highlights": [
+   "Ascoltate i pavimenti d'usignolo vecchi di quattrocento anni cigolare sotto i piedi",
+   "Camminate su terreni ancora usati ogni giorno dagli abitanti di Kyoto",
+   "La guida collega la storia imperiale e quella dello shogunato in un'unica narrazione",
+   "Il formato compatto di 3 ore lascia libero il pomeriggio",
+   "Osservate da vicino gli originali dipinti su pannelli della scuola Kano"
+  ],
+  "included": [
+   "Guida autorizzata di lingua inglese e tutto il commento lungo il percorso a piedi tra i due siti."
+  ],
+  "notIncluded": [
+   "Il biglietto d'ingresso al Castello Nijo e qualsiasi cibo o bevanda lungo il percorso."
+  ]
+ },
+ "kyoto-workshop-guided-tour": {
+  "title": "Laboratorio di Ukiyoe",
+  "metaTitle": "Laboratorio di stampa ukiyo-e a Kyoto",
+  "metaDescription": "Molto prima che Kyoto avesse negozi di souvenir con riproduzioni di massa della Grande Onda di Hokusai, le stampe xilografiche ukiyo-e erano un'arte collaborativa.",
+  "shortDescription": "Molto prima che Kyoto avesse negozi di souvenir con riproduzioni di massa della Grande Onda di Hokusai, le stampe xilografiche ukiyo-e erano un'arte collaborativa.",
+  "fullDescription": "Molto prima che Kyoto avesse negozi di souvenir con riproduzioni di massa della Grande Onda di Hokusai, le stampe xilografiche ukiyo-e erano un'arte collaborativa che coinvolgeva un artista, un intagliatore e uno stampatore che lavoravano in sequenza, con ogni strato di colore che richiedeva una propria matrice intagliata a mano allineata con precisione meticolosa. Questo laboratorio, guidato dall'artista attiva Kurumi Wakaki, riduce quel processo a qualcosa che potete davvero imparare in un pomeriggio senza perdere ciò che lo rende affascinante: iniziate con una matrice già intagliata in stile Hiroshige e Hokusai, e Kurumi vi guida attraverso la tecnica di frizione con il baren, la stratificazione dei pigmenti a base d'acqua e i segni di registro (kento) che mantengono alineate le stampe multicolore, lo stesso metodo fondamentale usato negli studi di stampa del periodo Edo, solo compresso e reso accessibile per una singola sessione invece di anni di apprendistato. Ciò che distingue questa esperienza da un generico corso artigianale è il background di Kurumi come artista ukiyo-e praticante piuttosto che come dipendente di un'agenzia che legge da un copione; racconta perché certi pigmenti fossero storicamente riservati a certi soggetti, come le stampe del \"mondo fluttuante\" ritraessero attori kabuki e scene dei quartieri del piacere come una sorta di cultura pop dell'epoca Edo, e cosa è davvero difficile nella registrazione rispetto a ciò che la stampa moderna ha rese più semplice. Tirerete la vostra stampa, vedrete l'immagine emergere specchiata dalla matrice alla carta, e ve ne andrete con un pezzo finito che è vostro e non un acquisto da negozio. Si svolge in un vero studio piuttosto che in una vetrina turistica, quindi il ritmo è senza fretta e il gruppo resta piccolo abbastanza da permettere una guida davvero individuale da parte di Kurumi mentre lavorate. Non è richiesta alcuna esperienza artistica, l'intaglio è già fatto per voi, e la tecnica si insegna nella finestra di due ore, anche se se avete qualche background di disegno o stampa noterete sfumature extra nelle sue spiegazioni. È un'esperienza adatta a chi vuole un'attività culturale pratica con un souvenir tangibile alla fine, piuttosto che un'altra visita a un tempio, e un'ottima opzione per i giorni di pioggia in una città costruita attorno alle visite all'aperto. Prenotatelo come cambio di ritmo a metà viaggio, e ve ne andrete con una stampa e una comprensione davvero migliore di una delle forme d'arte più influenti del Giappone.",
+  "highlights": [
+   "Stampa xilografica pratica insegnata da un'artista attiva",
+   "Imparate le tecniche tradizionali di intaglio, inchiostratura e registro",
+   "Stile radicato nelle stampe dell'epoca di Hokusai e Hiroshige",
+   "Portate a casa la vostra stampa ukiyo-e finita",
+   "Studio in piccolo gruppo, nessuna esperienza richiesta"
+  ],
+  "included": [
+   "Tutti i materiali, matrici già intagliate, pigmenti e istruzione dell'artista Kurumi Wakaki."
+  ],
+  "notIncluded": [
+   "Il trasporto da e per lo studio non è incluso."
+  ]
+ },
+ "magome-juku-guided-tour": {
+  "title": "Tour di un giorno da Nagoya a Magome-juku, Tsumago-juku e Cascate Ryujin",
+  "metaTitle": "Magome-juku, Tsumago-juku e Cascate Ryujin da Nagoya",
+  "metaDescription": "Un'escursione di un giorno da Nagoya attraverso due città postali Nakasendo ben conservate e un'escursione a una cascata nascosta.",
+  "shortDescription": "Un'escursione di un giorno da Nagoya attraverso due città postali Nakasendo ben conservate e un'escursione a una cascata nascosta.",
+  "fullDescription": "Molto prima che le ferrovie collegassero le principali città del Giappone, i viaggiatori a piedi usavano il Nakasendo, una via commerciale interna che collegava Edo, l'attuale Tokyo, con Kyoto passando per le montagne invece che lungo la costa. Questa escursione di un giorno da Nagoya visita due delle città postali meglio conservate su quella via, Magome-juku e Tsumago-juku, che si trovano abbastanza vicine da essere state storicamente collegate da un sentiero a piedi ancora usato oggi dagli escursionisti, prima di concludersi a una cascata più tranquilla e meno visitata.\n\nLa giornata inizia con due ore di autobus dal punto d'incontro Silver Clock alla stazione di Nagoya fino a Magome, dove sono previste due ore per foto e tempo libero lungo la sua via principale in pietra, in pendenza, costeggiata da locande e negozi di legno. Un breve tragitto in auto conduce poi a Tsumago-juku, probabilmente ancora meglio conservata della sua vicina, essendo stata tra le prime città del Giappone a limitare le linee elettriche aeree e i distributori automatici per proteggere il suo aspetto del periodo Edo, dove avrete novanta minuti per esplorare. L'ultima tappa sono le Cascate Ryujin, una cascata appartata raggiungibile con una breve escursione, che offre un contrasto più tranquillo e naturale rispetto alle due città storiche.\n\nCon solo una recensione registrata finora, questo è un itinerario più piccolo e meno battuto rispetto ai tour giornalieri più noti da Nagoya, e si nota nel ritmo: tre tappe senza fretta invece di una lista di cose da vedere, con tempo vero per camminare davvero in entrambe le città postali piuttosto che correre per le foto. È adatto a chi vuole un vero assaggio dell'atmosfera del periodo Edo del Nakasendo insieme a una breve escursione nella natura, piuttosto che una versione frenetica e piena di punti salienti della regione.",
+  "highlights": [
+   "Camminate in due delle città postali del periodo Edo meglio conservate sul Sentiero Nakasendo",
+   "Escursione alle appartate Cascate Ryujin",
+   "Piccolo tour valutato 5 stelle dai primi viaggiatori"
+  ],
+  "included": [
+   "Trasporto di andata e ritorno in autobus da Nagoya, guida di lingua inglese, tempo libero a Magome-juku e Tsumago-juku, visita guidata alle Cascate Ryujin"
+  ],
+  "notIncluded": [
+   "Pasti e bevande, spese personali, mance"
+  ]
+ },
+ "meiji-shrine-half-day-tour": {
+  "title": "La vostra Tokyo, il vostro percorso: mezza giornata privata con una guida locale",
+  "metaTitle": "Mezza giornata privata a Tokyo con guida locale",
+  "metaDescription": "Quattro ore, una guida, e un percorso che decidete voi, templi, l'incrocio, oppure un intero pomeriggio nel labirinto anime di Nakano.",
+  "shortDescription": "Quattro ore, una guida, e un percorso che decidete voi, templi, l'incrocio, oppure un intero pomeriggio nel labirinto anime di Nakano.",
+  "fullDescription": "Mezza giornata è sufficiente per vedere Tokyo come si deve se non cercate di vederla tutta. Questo tour dura quattro ore e le dedica a ciò che vi interessa davvero piuttosto che a una lista di cose da vedere.\n\nLa forma abituale copre l'essenziale. Il Santuario Meiji si trova dentro una foresta di circa 100.000 alberi, ognuno donato da tutto il Giappone e piantato a mano negli anni '20, un secolo dopo si legge come un bosco antico, il che era esattamente l'intenzione. Il santuario stesso è dedicato all'imperatore Meiji e all'imperatrice Shoken, e il viale di ghiaia sotto il grande torii di legno è deliberatamente lungo, per mettere distanza tra la città e il santuario. Senso-ji ad Asakusa risale al 645 ed è il tempio più antico della città; si entra sotto il Kaminarimon e la sua enorme lanterna rossa. L'incrocio di Shibuya non ha bisogno di spiegazioni, anche se la statua di Hachiko accanto ne ha, è stata eretta nel 1934 per un cane che continuava a incontrare un treno su cui il suo padrone non viaggiava più.\n\nNakano Broadway è quello su cui vale la pena chiedere. Un complesso commerciale del 1966 che è diventato l'alternativa seria per i collezionisti rispetto ad Akihabara, quattro piani di minuscole unità che vendono manga vintage, action figure fuori produzione, giochi retrò e orologi, gestite da specialisti che sono lì da decenni. È più denso e più strano di qualsiasi cosa ad Akihabara e la maggior parte dei visitatori non ne sente mai parlare.\n\nEssendo privato e a prezzo contenuto, funziona bene come orientamento per il primo pomeriggio, prendete le misure, imparate il sistema dei treni con qualcuno che lo conosce, e passate il resto del viaggio con fiducia. Aspettatevi da quattro a sei chilometri di camminata con tratti in treno tra una tappa e l'altra; segnalate eventuali esigenze di mobilità al momento della prenotazione e il percorso viene adattato.",
+  "highlights": [
+   "Quattro ore modellate interamente su ciò che volete vedere",
+   "La foresta piantata a mano di 100.000 alberi donati del Santuario Meiji",
+   "Senso-ji, in piedi ad Asakusa dal 645",
+   "Nakano Broadway facoltativa, la risposta dei collezionisti ad Akihabara",
+   "Guida privata a un prezzo davvero contenuto"
+  ],
+  "included": [
+   "Guida locale privata di lingua inglese per quattro ore\nPercorso pianificato secondo i vostri interessi\nCosti di trasporto della guida\nAiuto nella navigazione con il sistema di treni e metropolitana\nConsigli locali per il resto del vostro soggiorno"
+  ],
+  "notIncluded": [
+   "Le vostre tariffe personali di treno e metropolitana\nCibo e bevande\nQualsiasi biglietto d'ingresso\nMance"
+  ]
+ },
+ "miyajima-adventure-full-day-tour": {
+  "title": "Avventura di una giornata in bici e barca tra Hiroshima e Miyajima",
+  "metaTitle": "Hiroshima e Miyajima in bici e barca",
+  "metaDescription": "Scoprite Hiroshima e l'isola di Miyajima in un tour guidato in bicicletta. Visitate il Parco della Pace, la Cupola della Bomba Atomica e il Castello di Hiroshima in bici, poi traghetto per Miyajima.",
+  "shortDescription": "Scoprite Hiroshima e l'isola di Miyajima in un tour guidato in bicicletta. Visitate il Parco della Pace, la Cupola della Bomba Atomica e il Castello di Hiroshima in bici, poi traghetto per Miyajima.",
+  "fullDescription": "La maggior parte dei tour di un giorno tra Hiroshima e Miyajima comporta molto stare seduti: autobus, treni, attese. Questa avventura di sette ore e mezza di InKansai sostituisce quasi tutto questo con la pedalata e il ponte di un traghetto, e la giornata ne guadagna. Si inizia nel centro di Hiroshima, dove dopo la sistemazione delle biciclette e un briefing il vostro piccolo gruppo parte in bici attraverso la città pianeggiante e attraversata dai fiumi. Il giro mattutino collega i siti essenziali in modo attivo: il Parco Memoriale della Pace e la Cupola della Bomba Atomica, dove scendete dalla bici per una vera visita guidata, e il Castello di Hiroshima con il suo fossato e i suoi terreni, collegati da sentieri lungo il fiume e vicoli che mostrano come vive davvero la città ricostruita. Poi il percorso si volge verso il mare, pedalando lungo la costa fino al traghetto, dove voi e le biciclette attraversate lo stretto verso Miyajima mentre la cresta boscosa dell'isola e il grande torii del Santuario Itsukushima crescono sempre più grandi oltre l'acqua. Sull'isola c'è tempo per esplorare l'area del santuario e la scena della via Omotesando, incontrare i cervi residenti, e mangiare, le ostriche grigliate sono praticamente obbligatorie qui, prima dell'attraversamento di ritorno e del tragitto in bici verso la città. È una giornata davvero piena e moderatamente attiva, ma il terreno è pianeggiante e l'assistenza elettrica e un ritmo costante la rendono accessibile a qualsiasi ciclista ragionevolmente allenato. I viaggiatori le hanno finora dato un punteggio perfetto di cinque stelle, ed è facile capire perché: finite la giornata avendo guadagnato entrambi i siti UNESCO con le vostre gambe, il che cambia il modo in cui li ricorderete.",
+  "highlights": [
+   "Percorso in bici e barca che collega entrambi i siti UNESCO",
+   "Visite guidate al Parco della Pace, alla Cupola della Bomba Atomica e al castello",
+   "Attraversamento verso Miyajima in traghetto con le biciclette",
+   "Pedalata pianeggiante lungo il fiume e la costa, ritmo costante e cordiale",
+   "Ostriche grigliate e incontri con i cervi sull'isola",
+   "Punteggio perfetto di cinque stelle dai viaggiatori"
+  ],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "miyajima-adventure-tour": {
+  "title": "Avventura in kayak alle spiagge nascoste di Miyajima vicino a Hiroshima",
+  "metaTitle": "Kayak alle spiagge nascoste di Miyajima",
+  "metaDescription": "Fuggite dalla folla con un tour in kayak sul lato nascosto di Miyajima. Pagaiate in acque cristalline, nuotate in spiagge appartate e osservate i cervi selvatici, con foto gratuite incluse.",
+  "shortDescription": "Fuggite dalla folla con un tour in kayak sul lato nascosto di Miyajima. Pagaiate in acque cristalline, nuotate in spiagge appartate e osservate i cervi selvatici, con foto gratuite incluse.",
+  "fullDescription": "Quasi tutti quelli che visitano Miyajima vedono lo stesso chilometro quadrato: il molo del traghetto, la via dello shopping, il santuario, il torii. Questa avventura in kayak di tre ore riguarda il resto dell'isola, il lato che la folla non raggiunge mai. Dal punto d'incontro al terminal del traghetto di Miyajima, un breve tragitto in auto di dieci minuti vi porta a un tranquillo punto di partenza lontano dal cuore turistico. Dopo un briefing e la sistemazione dell'attrezzatura, partite per due ore intere di pagaiata guidata lungo una costa intatta di acque limpide e calme, insenature con la schiena di pini e spiagge senza impronte. Il ritmo è davvero rilassato; l'operatore accoglie canoisti dai quattro ai settant'anni, e i kayak seduti sono stabili abbastanza per principianti assoluti e per genitori che condividono una barca con bambini piccoli. Lungo il percorso vi fermate su spiagge appartate raggiungibili solo dall'acqua, dove potete nuotare nei bassifondi, curiosare lungo la riva, e con buone probabilità condividere la sabbia con i cervi selvatici dell'isola, che scendono dalla foresta verso le coste più tranquille. La guida fotografa il gruppo durante tutto il percorso e le foto sono incluse gratuitamente, così i telefoni possono restare al sicuro e asciutti. Dopo la pagaiata di ritorno, venite riportati al terminal del traghetto, tre ore dopo la partenza, avendo visto una versione di Miyajima che la maggior parte delle migliaia di visitatori giornalieri non sa esistere. Si combina perfettamente con una mattina o un tardo pomeriggio al santuario, e in estate le soste per il nuoto da sole giustificano la gita.",
+  "highlights": [
+   "Fuggite dalla folla verso la costa nascosta di Miyajima",
+   "Nuotate da spiagge appartate raggiungibili solo via acqua",
+   "Osservate i cervi selvatici che scendono verso le coste tranquille",
+   "Kayak adatti ai principianti, accolti dai quattro ai settant'anni",
+   "Foto gratuite del gruppo scattate dalla guida",
+   "Si combina perfettamente con il santuario prima o dopo"
+  ],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "miyajima-bullet-full-day-tour": {
+  "title": "Da Kyoto a Hiroshima e Miyajima: tour di un'intera giornata con il treno proiettile",
+  "metaTitle": "Hiroshima e Miyajima da Kyoto con lo Shinkansen",
+  "metaDescription": "Vivete un indimenticabile tour di un giorno a Hiroshima e Miyajima con il treno proiettile da Kyoto. Immergetevi nei momenti salienti di Hiroshima, dal Santuario Itsukushima al Parco Memoriale della Pace.",
+  "shortDescription": "Vivete un indimenticabile tour di un giorno a Hiroshima e Miyajima con il treno proiettile da Kyoto. Immergetevi nei momenti salienti di Hiroshima, dal Santuario Itsukushima al Parco Memoriale della Pace.",
+  "fullDescription": "Hiroshima sembra lontana da Kyoto finché non vi ricordate cosa può fare lo Shinkansen: questo tour di un'intera giornata vi fa salire sul treno proiettile di prima mattina e vi fa trovare in piedi nel Parco Memoriale della Pace prima che molti viaggiatori abbiano finito la colazione. È una giornata lunga, circa tredici ore porta a porta, ma è la giornata che permette ai viaggiatori basati a Kyoto di vivere una delle destinazioni più importanti del Giappone senza rifare la valigia. Incontrate la vostra guida esperta selezionata a mano alla stazione di Kyoto e viaggiate sullo Shinkansen verso sud-ovest a fino a 300 chilometri all'ora, un'esperienza da lista dei desideri in sé, con il trasporto incluso nel prezzo. Le ore a Hiroshima sono dedicate ai siti che contano: il Parco Memoriale della Pace con i suoi cenotafi e le gru di carta, la Cupola della Bomba Atomica conservata come l'ha lasciata l'esplosione, e le storie umane che la guida porta con sé e che trasformano i monumenti di nuovo in persone. Poi la giornata passa dalla riflessione alla serenità. Il treno locale e il traghetto vi portano a Miyajima, dove il grande torii del Santuario Itsukushima si erge nella marea, e i corridoi del santuario, le vie dell'isola e i cervi residenti riempiono il pomeriggio; la vostra tassa di visita a Miyajima è già coperta. C'è tempo per mangiare, i momiji manju e le ostriche grigliate sono i biglietti da visita dell'isola, prima che lo Shinkansen serale vi riporti a Kyoto. Il ritmo è onesto: una partenza presto, una giornata piena, e una delle gite di un giorno più coinvolgenti che il Giappone offra, gestita dall'inizio alla fine da una guida così non dovrete mai pensare alla logistica.",
+  "highlights": [
+   "Shinkansen di andata e ritorno da Kyoto incluso",
+   "Guida esperta selezionata a mano per tutta la giornata",
+   "Parco Memoriale della Pace e Cupola della Bomba Atomica con contesto",
+   "Il torii fluttuante di Miyajima e il Santuario Itsukushima",
+   "Tassa di visita a Miyajima coperta",
+   "Zero logistica: tutto gestito porta a porta"
+  ],
+  "included": [
+   "Guida turistica esperta selezionata a mano, tassa di visita a Miyajima, trasporto con lo Shinkansen"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "miyajima-chauffeur-private-tour": {
+  "title": "Tour privato di una giornata con autista a Hiroshima e Miyajima dal vostro hotel",
+  "metaTitle": "Hiroshima e Miyajima con autista privato",
+  "metaDescription": "Una giornata privata con autista tra Hiroshima e Miyajima, con partenza direttamente dal vostro hotel a Hiroshima. Parco Memoriale della Pace, Castello di Hiroshima, Giardino Shukkei-en e il torii fluttuante, al vostro ritmo.",
+  "shortDescription": "Una giornata privata con autista tra Hiroshima e Miyajima, con partenza direttamente dal vostro hotel a Hiroshima. Parco Memoriale della Pace, Castello di Hiroshima, Giardino Shukkei-en e il torii fluttuante, al vostro ritmo.",
+  "fullDescription": "Questo è il modo senza sforzo per fare Hiroshima e Miyajima: una giornata privata con autista che inizia alla porta del vostro hotel a Hiroshima e gestisce ogni chilometro in mezzo. Il vostro autista di lingua inglese arriva con una Toyota Alphard, il minivan di lusso che è il trasporto esecutivo preferito del Giappone, con posti per fino a quattro persone, con un HiAce disponibile per gruppi fino a nove, e da quel momento il ritmo, i parcheggi e la logistica del traghetto diventano completamente un problema di qualcun altro. La giornata copre l'intera ampiezza della regione. In città visitate il Parco Memoriale della Pace e la Cupola della Bomba Atomica, con il vostro autista che calcola gli orari di arrivo per evitare il peggio della folla, poi il Castello di Hiroshima e lo squisito Giardino Shukkei-en, il giardino paesaggistico dell'epoca feudale che la maggior parte dei tour giornalieri salta. Poi il viaggio verso sud fino al molo, dove il vostro autista gestisce la traversata in traghetto verso Miyajima, e il torii fluttuante dell'isola e il Santuario Itsukushima riempiono il pomeriggio al ritmo che preferite. Poiché il veicolo è vostro, la giornata si adatta: restate più a lungo al museo, saltate una tappa, o aggiungete la deviazione facoltativa a Iwakuni per vedere il Ponte Kintaikyo, lo straordinario ponte di legno a cinque archi a un'ora di distanza, che aggiunge circa novanta minuti o due ore. Il prezzo è per veicolo e non per persona, 105.000 yen per l'Alphard, 120.000 yen per il HiAce da nove posti, il che lo rende sorprendentemente economico per famiglie e piccoli gruppi; notate che la piccola tariffa del traghetto, i pasti e i biglietti d'ingresso alle attrazioni si pagano man mano. Per i viaggiatori che apprezzano comfort, flessibilità e zero logistica, questa è l'opzione premium della regione.",
+  "highlights": [
+   "Giornata privata con autista dalla porta del vostro hotel",
+   "L'autista di lingua inglese gestisce traghetto, parcheggi e ritmo",
+   "Parco della Pace, castello, Shukkei-en e Miyajima in una giornata",
+   "Prezzo per veicolo: economico per famiglie e gruppi",
+   "Deviazione facoltativa al Ponte Kintaikyo a cinque archi di Iwakuni",
+   "Lussuosa Toyota Alphard, oppure un HiAce per fino a nove persone"
+  ],
+  "included": [
+   "Veicolo privato con autista per l'intera giornata (Toyota Alphard o HiAce), autista di lingua inglese, ritiro e rientro in hotel a Hiroshima, ritmo flessibile ed estensione facoltativa a Iwakuni / Ponte Kintaikyo"
+  ],
+  "notIncluded": [
+   "Tariffa del traghetto per Miyajima (piccola, da pagare al molo), pasti, biglietti d'ingresso alle attrazioni"
+  ]
+ },
+ "miyajima-floating-full-day-tour": {
+  "title": "Tour privato di un'intera giornata a Hiroshima e Miyajima: dal Parco della Pace al torii fluttuante",
+  "metaTitle": "Hiroshima e Miyajima, tour privato con torii fluttuante",
+  "metaDescription": "Un tour privato di 8 ore che abbina la storia di riflessione e rinascita di Hiroshima al santuario insulare di Miyajima e al suo famoso cancello torii fluttuante. Tutti i biglietti d'ingresso inclusi.",
+  "shortDescription": "Un tour privato di 8 ore che abbina la storia di riflessione e rinascita di Hiroshima al santuario insulare di Miyajima e al suo famoso cancello torii fluttuante. Tutti i biglietti d'ingresso inclusi.",
+  "fullDescription": "Questa giornata privata di otto ore abbina le due esperienze che definiscono questo angolo del Giappone, la storia di riflessione, resilienza e rinascita di Hiroshima, e il santuario insulare di Miyajima, e le intreccia con un'unica guida multilingue dedicata la cui attenzione non lascia mai il vostro gruppo. La giornata inizia con calma alle 10 del mattino, con incontro nella hall del vostro hotel o alla stazione di Hiroshima, e l'itinerario è completamente personalizzabile da quel punto; quanto segue è la forma classica. La mattina appartiene al Parco Memoriale della Pace, percorso con lentezza: il cenotafio e la sua fiamma eterna, il Monumento della Pace per i Bambini drappeggiato di gru, la Cupola della Bomba Atomica oltre il fiume, con la vostra guida che intreccia la storia e le storie umane a un ritmo che lascia spazio per sentire e non solo imparare, e tutti i biglietti d'ingresso per le attrazioni elencate già inclusi. Dopo pranzo, il viaggio verso Miyajima diventa un piacere a sé, treno lungo la costa, traghetto attraverso lo stretto, prima che l'isola offra la sua famosa rivelazione: il grande torii vermiglio del Santuario Itsukushima che fluttua sulla marea, i corridoi del santuario costruiti sul mare, i cervi che vagano per le vie, e i pendii boscosi e antichi del Monte Misen sopra tutto questo. La vostra guida gestisce gli aspetti pratici e adatta il pomeriggio alla vostra energia, più templi, più via dello shopping, o semplicemente più tempo a guardare la luce cambiare sull'acqua. Ogni ospite porta a casa un souvenir Stovenir, il supporto personale al viaggio continua oltre la giornata, e non ci si aspetta mance; i pasti e le tariffe di trasporto sono gli unici extra. È l'intera giornata a Hiroshima, rese personale.",
+  "highlights": [
+   "Giornata privata di otto ore che abbina Parco della Pace e Miyajima",
+   "Guida multilingue dedicata, percorso completamente personalizzabile",
+   "Tutti i biglietti d'ingresso per le attrazioni elencate inclusi",
+   "Il torii fluttuante e i corridoi sul mare del Santuario Itsukushima",
+   "Souvenir Stovenir e supporto continuo al viaggio",
+   "Nessuna mancia prevista; il ritmo si adatta alla vostra energia"
+  ],
+  "included": [
+   "Guida turistica locale professionale e multilingue dedicata (8 ore), tutti i biglietti d'ingresso per le attrazioni elencate, souvenir 'Stovenir' per ogni ospite, itinerario personalizzabile, supporto personale al viaggio (nessuna mancia prevista)"
+  ],
+  "notIncluded": [
+   "Costi dei pasti e del trasporto"
+  ]
+ },
+ "miyajima-guided-tour": {
+  "title": "Hiroshima e Miyajima in un giorno: Cupola della Bomba Atomica e Itsukushima con un locale",
+  "metaTitle": "Hiroshima e Miyajima in un giorno con guida locale",
+  "metaDescription": "Vivete Hiroshima e Miyajima in una giornata privata con una guida locale giapponese. Scoprite la Cupola della Bomba Atomica, il Parco Memoriale della Pace e il Santuario Itsukushima, e le storie e tradizioni che li circondano.",
+  "shortDescription": "Vivete Hiroshima e Miyajima in una giornata privata con una guida locale giapponese. Scoprite la Cupola della Bomba Atomica, il Parco Memoriale della Pace e il Santuario Itsukushima, e le storie e tradizioni che li circondano.",
+  "fullDescription": "I due siti del Patrimonio Mondiale UNESCO di Hiroshima si trovano a meno di un'ora di distanza l'uno dall'altro, e questa giornata privata di sette ore li collega come farebbe un locale: prima l'isola, poi la città, con una guida giapponese il cui commento nasce da un legame personale e familiare con entrambi. La giornata inizia con il ritiro da una qualsiasi delle quattordici posizioni centrali, inclusi i principali hotel e la stazione di Hiroshima, prima di viaggiare in treno lungo la costa e prendere il breve traghetto verso Miyajima. La mattina appartiene all'isola: il grande torii vermiglio del Santuario Itsukushima che sembra fluttuare sulla marea, i corridoi del santuario sopra l'acqua, la salita attraverso il tempio Daisho-in con le sue centinaia di statue, e il padiglione Senjokaku di mille tatami. Avete poi generosi novanta minuti sulla via dello shopping Omotesando per assaggiare ostriche grigliate, dolci momiji manju all'acero e qualsiasi altra cosa offrano le bancarelle, il che funge anche da pranzo. Il viaggio in tram di ritorno in città fa parte dell'esperienza, ripercorrendo la rotta lungo la quale Hiroshima si è ricostruita. Il pomeriggio si fa riflessivo: la Cupola della Bomba Atomica, l'ipocentro, il Parco Memoriale della Pace e il Monumento della Pace per i Bambini, terminando con un'ora intera nel Museo Memoriale della Pace. Le guide qui hanno una valutazione di cinque stelle su decine di recensioni esattamente perché gestiscono questo contrasto, mattina sacra, pomeriggio toccante, con calore e onestà. Se avete un solo giorno a Hiroshima e lo volete modellato su di voi piuttosto che su un orario di autobus, questo è il formato che funziona.",
+  "highlights": [
+   "Due siti del Patrimonio Mondiale UNESCO in una giornata privata",
+   "Guida locale giapponese con legami familiari con la città",
+   "Ritiro in hotel da quattordici posizioni centrali",
+   "Novanta minuti per mangiare lungo la via Omotesando",
+   "Tempio Daisho-in e padiglione Senjokaku oltre il torii",
+   "Valutazione perfetta di cinque stelle dai viaggiatori"
+  ],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "miyajima-half-day-tour": {
+  "title": "Tour di mezza giornata in piccolo gruppo all'isola di Miyajima da Hiroshima",
+  "metaTitle": "Miyajima in mezza giornata da Hiroshima",
+  "metaDescription": "Esplorate l'isola di Miyajima in un tour guidato di mezza giornata da Hiroshima. Scoprite l'iconico cancello torii fluttuante mentre scoprite la storia, la cultura e i sapori locali dell'isola.",
+  "shortDescription": "Esplorate l'isola di Miyajima in un tour guidato di mezza giornata da Hiroshima. Scoprite l'iconico cancello torii fluttuante mentre scoprite la storia, la cultura e i sapori locali dell'isola.",
+  "fullDescription": "Miyajima funziona magnificamente come mezza giornata se qualcun altro gestisce la logistica, ed è esattamente ciò che fa questo tour in piccolo gruppo di quattro ore. Incontrate la vostra guida alla stazione di Hiroshima la mattina, e da lì il trasporto è semplicemente gestito: i trenta minuti di treno lungo la costa fino a Miyajimaguchi, poi i dieci minuti di traghetto con la cresta boscosa dell'isola e il torii vermiglio che sorgono davanti a voi. Sull'isola il tour copre bene il circuito essenziale. Iniziate sulla riva con il grande cancello Otorii, in piedi nella marea o sulla sabbia bagnata a seconda dell'ora, mentre la guida spiega gli oltre mille anni di storia del santuario e perché l'intero complesso sia stato costruito sull'acqua su un'isola sacra. All'interno del Santuario Itsukushima camminate sui corridoi in legno vermiglio sopra il mare, poi continuate verso l'alto lungo le vie fino a Daisho-in, il suggestivo tempio collinare le cui scalinate sono costeggiate da centinaia di piccole statue, ruote della preghiera e sale silenziose; è la tappa che trasforma Miyajima da cartolina a luogo vero. Il tour si conclude lungo la via dello shopping Omotesando con tempo per provare le specialità dell'isola, ostriche grigliate e caldi dolci momiji manju a forma di foglia d'acero, e per cercare souvenir mentre i cervi residenti sorvegliano. Poiché il gruppo è piccolo, il ritmo resta conversazionale e c'è spazio per le domande in ogni momento. Siete di ritorno con collegamenti comodi verso Hiroshima nel primo pomeriggio, lasciando il resto della giornata libero per il Parco Memoriale della Pace.",
+  "highlights": [
+   "Tutta la logistica di treno e traghetto gestita dalla stazione di Hiroshima",
+   "Piccolo gruppo con un ritmo conversazionale e senza fretta",
+   "Vedete il cancello Otorii fluttuante e il Santuario Itsukushima",
+   "Salite attraverso il tempio Daisho-in costeggiato di statue",
+   "Assaggiate ostriche grigliate e momiji manju a Omotesando",
+   "Di ritorno nel primo pomeriggio, lasciando il Parco della Pace per dopo"
+  ],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "miyajima-heritage-tour": {
+  "title": "Tour in kayak al Grande Torii di Miyajima: pagaiare in una baia Patrimonio Mondiale",
+  "metaTitle": "Kayak al Grande Torii di Miyajima",
+  "metaDescription": "Pagaiate nelle acque calme di Miyajima per vedute spettacolari del Grande Torii del Santuario Itsukushima. A seconda delle maree e del meteo, potreste scendere a terra per esplorare negozi e templi locali.",
+  "shortDescription": "Pagaiate nelle acque calme di Miyajima per vedute spettacolari del Grande Torii del Santuario Itsukushima. A seconda delle maree e del meteo, potreste scendere a terra per esplorare negozi e templi locali.",
+  "fullDescription": "Ogni fotografia del grande torii di Miyajima viene scattata dalla riva, ma il cancello fu costruito per essere avvicinato dall'acqua; per mille anni, i pellegrini arrivavano in barca, passando sotto di esso prima di metter piede sull'isola sacra. Questo tour in kayak di due ore ripristina quella prospettiva originale. Dopo l'incontro sul lato di Miyajima e un adeguato briefing sulla sicurezza vicino al Santuario Nagahama, vi sistemate in stabili kayak seduti e partite nelle acque riparate e lisce della baia, senza esperienza di pagaiata richiesta. Il percorso segue la costa della baia Patrimonio Mondiale prima di aprirsi sul suo elemento centrale: l'Otorii vermiglio del Santuario Itsukushima che si innalza dal mare proprio davanti alla vostra prua. A seconda della marea, pagaiate attorno al cancello, scivolando abbastanza vicino da apprezzare le dimensioni enormi dei suoi pilastri di legno di canfora, con i corridoi fluttuanti del santuario e i pendii boscosi del Monte Misen accumulati dietro, un'angolazione che nessun visitatore da terra ottiene mai. Una sosta al Santuario Kiyomori sul bordo dell'acqua dà tempo per foto e per riprendere fiato, e quando le maree e il meteo lo permettono, il gruppo può scendere a terra per esplorare i negozi e i templi vicino al santuario. Le guide gestiscono le correnti e mantengono un ritmo gentile per tutto il tempo, rendendo questa esperienza adatta sia ai principianti che ai canoisti esperti. I recensori definiscono costantemente la vista dall'acqua il punto più alto di tutta la loro visita a Miyajima. Portate vestiti che possano bagnarsi e un telefono o una fotocamera impermeabile; vi serviranno entrambi.",
+  "highlights": [
+   "Avvicinatevi al Grande Torii dall'acqua, come facevano un tempo i pellegrini",
+   "Pagaiate in una baia Patrimonio Mondiale UNESCO su stabili kayak",
+   "Nessuna esperienza richiesta; briefing completo e ritmo gentile",
+   "Scivolate vicino agli enormi pilastri di legno di canfora del cancello",
+   "Possibile sbarco a negozi e templi, maree permettendo"
+  ],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "miyajima-itsukushima-guided-tour": {
+  "title": "Tour guidato dell'isola di Miyajima: Santuario Itsukushima, Daisho-in e Grotta Henjo",
+  "metaTitle": "Miyajima: Itsukushima, Daisho-in e Grotta Henjo",
+  "metaDescription": "Visitate l'isola di Miyajima, sede del Santuario Itsukushima patrimonio UNESCO e del suo iconico cancello torii fluttuante, un luogo dove storia, spiritualità e bellezza naturale si incontrano.",
+  "shortDescription": "Visitate l'isola di Miyajima, sede del Santuario Itsukushima patrimonio UNESCO e del suo iconico cancello torii fluttuante, un luogo dove storia, spiritualità e bellezza naturale si incontrano.",
+  "fullDescription": "Miyajima ricompensa la profondità, e questo tour guidato dell'isola di Voyagers va più a fondo del solito circuito di santuario e shopping. La giornata inizia con il ritiro, dall'uscita Shinkansen della stazione di Hiroshima, da Miyajimaguchi, o dai terminal delle crociere, rendendolo particolarmente comodo per i passeggeri di crociera con una giornata in porto, prima che il traghetto vi porti sull'isola dove storia, spiritualità e bellezza naturale si incontrano. Il tour si apre sull'acqua con l'Otorii, il grande cancello di legno di canfora del Santuario Itsukushima patrimonio UNESCO, poi passa trentacinque minuti interi dentro il santuario stesso, camminando sui corridoi vermigli costruiti sopra la marea e ascoltando perché un intero complesso religioso sia stato costruito su palafitte sopra il mare. Da lì sale fino alla pagoda a cinque piani prima di dedicare un'ora intera a Daisho-in, il vasto tempio collinare che è il cuore spirituale dell'isola: scalinate costeggiate da cinquecento statue, sale di lanterne tremolanti, ruote della preghiera girevoli che si dice concedano il merito di leggere i sutra. Poi arriva la tappa che quasi nessun tour include, la Grotta Henjo, la sala in penombra sotto Daisho-in illuminata da centinaia di lanterne, che conserva sabbia da ciascuno degli ottantotto templi del pellegrinaggio di Shikoku; camminare il suo circuito si dice equivalga all'intero pellegrinaggio. Il tour scende attraverso il padiglione Senjokaku di mille tatami e si conclude con quasi un'ora sulla via Omotesando per ostriche, momiji manju e souvenir prima del traghetto di ritorno e del rientro. Valutato 4,88 dai viaggiatori, è il ritratto più completo in una singola visita dell'isola sacra disponibile.",
+  "highlights": [
+   "Visitate la Grotta Henjo, la sala illuminata da lanterne che quasi nessun tour include",
+   "Un'ora intera a Daisho-in, il cuore spirituale dell'isola",
+   "Trentacinque minuti dentro il Santuario Itsukushima patrimonio UNESCO",
+   "Ritiro comodo alla stazione, a Miyajimaguchi o nei porti delle crociere",
+   "La sala di mille tatami di Senjokaku",
+   "Valutato 4,88 dai viaggiatori"
+  ],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "miyajima-private-tour": {
+  "title": "Miyajima in risciò: corsa privata al Santuario Itsukushima",
+  "metaTitle": "Miyajima in risciò privato",
+  "metaDescription": "Godetevi una corsa privata in risciò sull'isola di Miyajima, 'l'Isola degli Dei'. Ammirate splendide vedute e visitate templi e altri luoghi spirituali in stile tradizionale.",
+  "shortDescription": "Godetevi una corsa privata in risciò sull'isola di Miyajima, 'l'Isola degli Dei'. Ammirate splendide vedute e visitate templi e altri luoghi spirituali in stile tradizionale.",
+  "fullDescription": "Esiste un modo più antico e più lento di vedere Miyajima, e arriva con due ruote, una panca imbottita e un corridore in abito tradizionale. Ebisuya, la compagnia di risciò più famosa del Giappone, da decenni trasporta viaggiatori attraverso i quartieri storici del paese, e il loro percorso a Miyajima trasforma l'Isola degli Dei in un panorama in movimento. Da vicino al terminal del traghetto, il vostro conducente di risciò, parte atleta, parte guida, parte fotografo, alza le stanghe e parte lungo la strada costiera, calcolando le pause in modo che vediate il grande torii del Santuario Itsukushima da angolazioni che i pedoni raramente trovano, con il cancello incorniciato contro il Mare Interno di Seto e i tetti del tempio che salgono sulla collina dietro. Il percorso attraversa santuari e luoghi spirituali, lungo viuzze dove i cervi dell'isola sonnecchiano all'ombra, mentre il vostro conducente racconta la storia e le leggende lungo il percorso e scende per scattarvi foto nei punti panoramici migliori. I conducenti di risciò si allenano intensamente prima di poter trasportare ospiti, e la loro combinazione di spettacolarità, conoscenza locale e vera forma fisica è metà del piacere dell'esperienza; con una valutazione di 4,9 su decine di recensioni, gli ospiti citano costantemente i loro conducenti per nome. Le corse sono private per il vostro gruppo, e il ritmo è interamente vostro: un giro compatto lungo la costa o un circuito più lungo nelle vie più profonde dell'isola. È adatto a coppie, famiglie con bambini, e chiunque abbia le gambe stanche dopo le scale dei templi. Su un'isola costruita per la devozione, arrivare al Santuario Itsukushima nel modo in cui potrebbero aver fatto i pellegrini di un altro secolo è un piccolo, memorabile lusso.",
+  "highlights": [
+   "Corsa privata in risciò di Ebisuya, la famosa casa di risciò del Giappone",
+   "Vedete il torii fluttuante da angolazioni che i pedoni raramente trovano",
+   "I conducenti raccontano, posano per le foto e adattano il ritmo a voi",
+   "Attraversate viuzze oltre santuari e cervi sonnecchianti",
+   "Valutato 4,9 dai viaggiatori, che elogiano i conducenti per nome"
+  ],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "miyajima-serenity-guided-tour": {
+  "title": "Tour classico di un giorno a Hiroshima e Miyajima: storia e serenità dell'isola",
+  "metaTitle": "Hiroshima e Miyajima: storia e serenità",
+  "metaDescription": "La scelta perfetta per chi vuole assistere sia alla storia commovente di Hiroshima che all'antica serenità di Miyajima, tutto in una giornata guidata.",
+  "shortDescription": "La scelta perfetta per chi vuole assistere sia alla storia commovente di Hiroshima che all'antica serenità di Miyajima, tutto in una giornata guidata.",
+  "fullDescription": "Se soggiornate a Hiroshima, questa giornata guidata di otto ore è l'itinerario classico fatto bene: la storia commovente della città al mattino, l'antica serenità di Miyajima al pomeriggio, con una guida esperta e tutto il trasporto gestito così che la giornata scorra senza un solo pensiero logistico. Inizia nel Parco Memoriale della Pace, dove la vostra guida selezionata a mano vi accompagna attraverso il paesaggio commemorativo, il cenotafio allineato con la Fiamma della Pace e la Cupola della Bomba Atomica, il Monumento della Pace per i Bambini sepolto di gru di carta, e racconta la storia del 6 agosto 1945 con la cura che richiede: cosa accadde, a chi accadde, e come la città scelse di rispondere alla distruzione con un messaggio di pace. Il tempo nell'area del museo approfondisce il quadro prima che la giornata cambi deliberatamente registro. Il trasporto vi porta lungo la costa e attraverso lo stretto fino a Miyajima, l'isola così sacra che il suo santuario fu costruito sopra il mare, e il pomeriggio appartiene ai suoi ritmi più dolci: il grande torii in piedi nella marea, i corridoi vermigli del Santuario Itsukushima, i cervi che sonnecchiano nelle vie, e tempo libero sulla via Omotesando per ostriche grigliate e caldi momiji manju; la vostra tassa di visita a Miyajima è inclusa. Le due metà sono il punto centrale. Testimoniare al mattino dà peso alla bellezza dell'isola, e i viaggiatori descrivono costantemente la combinazione come il punto più alto emotivamente del loro tempo in Giappone. Venite riportati a Hiroshima nel tardo pomeriggio, avendo visto i due siti del Patrimonio Mondiale UNESCO della regione in un'unica giornata fluida e ben ritmata.",
+  "highlights": [
+   "La classica giornata Hiroshima-Miyajima, ritmata con esperienza",
+   "La guida selezionata a mano racconta la storia del 6 agosto con cura",
+   "Tutto il trasporto e la tassa di visita a Miyajima inclusi",
+   "La storia della mattina dà peso alla bellezza dell'isola",
+   "Tempo libero per ostriche e momiji manju a Omotesando",
+   "Entrambi i siti del Patrimonio Mondiale UNESCO in otto ore"
+  ],
+  "included": [
+   "Guida turistica esperta selezionata a mano, tassa di visita a Miyajima, trasporto"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "miyajima-spiritual-tour": {
+  "title": "Esperienza nel tempio Zen di Miyajima: cerimonia del tè e calligrafia in kimono",
+  "metaTitle": "Cerimonia del tè e calligrafia in kimono a Miyajima",
+  "metaDescription": "Godetevi una cerimonia del tè, una lezione di calligrafia, o entrambe, indossando un kimono dentro un tempio Zen a Miyajima. Assorbite l'atmosfera tranquilla e passeggiate nel giardino.",
+  "shortDescription": "Godetevi una cerimonia del tè, una lezione di calligrafia, o entrambe, indossando un kimono dentro un tempio Zen a Miyajima. Assorbite l'atmosfera tranquilla e passeggiate nel giardino.",
+  "fullDescription": "La maggior parte dei visitatori vede i templi di Miyajima dall'esterno. Questa esperienza culturale con okeiko Japan vi fa sedere dentro uno di essi, vestiti con un kimono, con una ciotola di matcha tra le mani. Ospitata in un tranquillo tempio Zen sull'isola sacra, la sessione vi permette di scegliere una cerimonia del tè tradizionale, una lezione di calligrafia giapponese, o entrambe, ciascuna condotta nello spirito senza fretta e deliberato per cui gli ambienti dei templi sono stati creati. L'esperienza inizia con la vestizione del kimono: il personale vi veste correttamente nell'indumento a strati, un'arte a sé stante, e il kimono è vostro da indossare per tutta la durata, anche nel giardino del tempio, il che produce il tipo di fotografie che nessun kimono noleggiato all'angolo della strada può eguagliare. Se scegliete la cerimonia del tè, guardate l'ospite preparare il matcha con la coreografia precisa e secolare della stanza del tè, assaggiate il tè verde frullato con un dolce tradizionale, e poi imparate a preparare una ciotola voi stessi. L'opzione calligrafia vi metterà un pennello in mano e vi insegnerà i tratti, il ritmo e la respirazione dello shodo, inchiostro su carta in una sala silenziosa, con il vostro lavoro finito da portare a casa. Tra le attività c'è tempo per semplicemente essere nel tempio: passeggiare nel giardino, ascoltare il silenzio, e lasciare che l'atmosfera dell'isola si depositi. Gli ospiti sono calorosi, parlano bene inglese e sono paziente con i principianti, il che si vede nei numeri: una valutazione di 4,97 su 270 recensioni, tra le più alte di qualsiasi esperienza nella regione. È un ideale controbilancio a una mattinata al santuario, circa novanta minuti che molti ospiti definiscono i più calmi di tutto il loro viaggio.",
+  "highlights": [
+   "Cerimonia del tè e calligrafia dentro un vero tempio Zen",
+   "Kimono vestito correttamente e indossato per tutta l'esperienza",
+   "Preparate voi stessi una ciotola di matcha nel modo tradizionale",
+   "Portate a casa la calligrafia che dipingete voi stessi",
+   "Passeggiate nel giardino del tempio in kimono per le foto",
+   "Valutato 4,97 su 270 recensioni"
+  ],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "miyajima-unesco-private-tour": {
+  "title": "Tour privato di un giorno a Hiroshima e Miyajima: due siti UNESCO con una guida locale",
+  "metaTitle": "Hiroshima e Miyajima: due siti UNESCO privati",
+  "metaDescription": "Scoprite due siti del Patrimonio Mondiale UNESCO in un giorno: Miyajima e la Cupola della Bomba Atomica. Entrate in 1.200 anni di storia e potenti racconti di resilienza con una guida esperta di Hiroshima.",
+  "shortDescription": "Scoprite due siti del Patrimonio Mondiale UNESCO in un giorno: Miyajima e la Cupola della Bomba Atomica. Entrate in 1.200 anni di storia e potenti racconti di resilienza con una guida esperta di Hiroshima.",
+  "fullDescription": "Sei ore, due siti del Patrimonio Mondiale UNESCO, e una guida esperta di Hiroshima che non lascia mai il vostro fianco: questa è la forma di questa giornata privata con Voyagers, e l'efficienza nasconde quanto terreno copra realmente. La giornata inizia con il ritiro dall'uscita Shinkansen della stazione di Hiroshima o dai terminal delle crociere, rendendola una scelta naturale per i viaggiatori che arrivano con il treno proiettile o la nave. La prima metà è la storia di resilienza di Hiroshima, trattata a fondo: un'ora intera guidata nel Museo Memoriale della Pace, poi i monumenti del parco uno per uno, il Cenotafio Memoriale delle Vittime, la Fiamma della Pace, il Monumento della Pace per i Bambini, la Campana della Pace, prima di raggiungere la Cupola della Bomba Atomica, la Casa di Riposo bombardata e il marcatore dell'ipocentro sulla strada tranquilla dove l'esplosione avvenne davvero. Poi l'atmosfera cambia completamente. Il treno e il traghetto vi portano a Miyajima, dove milleduecento anni di storia sacra si svelano a passo d'uomo: il grande cancello Otorii che si innalza dalla marea, i corridoi sopra il mare del Santuario Itsukushima, le sale più tranquille del Tempio Daiganji, una buona mezz'ora tra le statue e le ruote della preghiera di Daisho-in, e il vasto padiglione di legno Senjokaku. Poiché il tour è privato, l'equilibrio tra le due metà si adatta ai vostri interessi, e la vostra guida, tratta da un team con oltre 300 recensioni e valutazioni costantemente alte, regola ritmo e profondità sul momento. Quando venite riportati alla stazione o al porto, avete visto la regione essenziale di Hiroshima, storia potente e serenità insulare, in un'unica giornata ben organizzata.",
+  "highlights": [
+   "Due siti del Patrimonio Mondiale UNESCO in una giornata privata di sei ore",
+   "Guidati da una guida esperta di Hiroshima, dall'inizio alla fine",
+   "Ritiro all'uscita Shinkansen o nei terminal delle crociere",
+   "Un'ora guidata nel Museo Memoriale della Pace",
+   "Milleduecento anni di storia sulla sacra Miyajima",
+   "Ritmo privato che si adatta ai vostri interessi"
+  ],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
   ]
  },
  "nagoya-takoyaki-cooking-class": {
