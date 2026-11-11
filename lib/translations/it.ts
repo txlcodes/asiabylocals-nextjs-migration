@@ -14145,6 +14145,488 @@ export const IT_TOURS: Record<string, TourT> = {
    "Mance"
   ]
  },
+ "nagoya-shimenawa-wreath-making-workshop": {
+  "title": "Crea uno shimenawa: la ghirlanda giapponese del Capodanno, a Nagoya",
+  "metaTitle": "Workshop di shimenawa a Nagoya",
+  "metaDescription": "Un'ora per creare la corona sacra di corda che segna uno spazio purificato alle porte giapponesi, in un minuscolo studio per tre persone con tutti i materiali inclusi.",
+  "shortDescription": "Un'ora per creare la corona sacra di corda che segna uno spazio purificato alle porte giapponesi, in un minuscolo studio per tre persone con tutti i materiali inclusi.",
+  "fullDescription": "Uno shimenawa è una corda di paglia di riso che segna un confine. Ci sarete passati sotto decine di volte in Giappone senza accorgervene, tesa sui cancelli dei santuari, legata attorno ad alberi secolari, appesa sopra le porte a Capodanno, e la sua funzione è separare lo spazio purificato da quello ordinario. A Capodanno, le famiglie appendono all'ingresso una versione a ghirlanda per invitare la buona fortuna e tenere fuori la sfortuna.\n\nQuesto workshop ne costruisce una. La logica decorativa alla base viene direttamente dall'ikebana, la tradizione giapponese di composizione floreale, motivo per cui la sessione parte da lì: armonia con la stagione, uso deliberato dello spazio vuoto e sobrietà. Questi principi sono ciò che impedisce a una ghirlanda di diventare un cumulo di ornamenti, e sono la differenza tra qualcosa che sembra giapponese e qualcosa che non lo è.\n\nLavorate con fiori artificiali, così il pezzo è durevole e, importante per un viaggiatore, può attraversare un confine, a differenza del materiale vegetale fresco. Una pistola per colla e un tronchesino sono forniti, e l'istruttore guida ogni fase. Non si presuppone alcuna esperienza di artigianato.\n\nIl gruppo è limitato a tre persone, il che rende questa una delle sessioni più personali della città, e l'istruzione è in inglese. Lo studio è un piccolo edificio a un piano a Kaminagoya, con pareti in intonaco bianco e pilastri in legno, nel distretto di Nishi, facile da identificare dalla strada.\n\nUn'ora, e ve ne andate con un pezzo da parete che porta un vero frammento di rituale domestico giapponese invece di un magnete da frigo. È accessibile in sedia a rotelle.",
+  "highlights": [],
+  "included": [
+   "Workshop di un'ora per creare uno shimenawa",
+   "Fiori artificiali e tutti i materiali decorativi",
+   "Pistola per colla e tronchesino",
+   "Istruzione in inglese",
+   "La vostra ghirlanda finita"
+  ],
+  "notIncluded": [
+   "Trasporto allo studio",
+   "Cibo e bevande",
+   "Materiali aggiuntivi"
+  ]
+ },
+ "nagoya-bento-making-hatcho-miso-soy-sauce-tasting": {
+  "title": "Prepara un bento con il miso hatcho: la cucina fermentata tipica di Nagoya",
+  "metaTitle": "Bento con miso hatcho a Nagoya",
+  "metaDescription": "Due ore di cucina con il miso scuro invecchiato due anni che definisce la cucina di Nagoya, in degustazione contro altri miso e salse di soia, componendo il proprio bento.",
+  "shortDescription": "Due ore di cucina con il miso scuro invecchiato due anni che definisce la cucina di Nagoya, in degustazione contro altri miso e salse di soia, componendo il proprio bento.",
+  "fullDescription": "Il cibo di Nagoya ha un sapore diverso dal resto del Giappone e la ragione è una sola: il miso hatcho. Prodotto a Okazaki, poco più di venti chilometri da qui, è miso puro di soia, senza riso né orzo, fermentato in barili di cedro sotto pietre di fiume accatastate per due anni o più. Il risultato è quasi nero, denso, e molto meno dolce e molto più sapido dei miso chiari che la maggior parte conosce. A Nagoya lo si aggiunge a tutto: katsu, oden, udon, dengaku.\n\nQuesta lezione vi porta a toccarlo con le mani. Cucinate una serie di semplici piatti casalinghi giapponesi usando il miso hatcho e salsa di soia tradizionale, e li disponete in un bento, una disciplina a sé, dato che un bento viene preparato freddo, mangiato freddo e giudicato tanto per come appare nella scatola quanto per il sapore. Equilibrio, colore e quanto strettamente le cose siano disposte fanno tutti parte del gioco.\n\nLa degustazione è il nucleo didattico. Diversi miso e salse di soia uno accanto all'altro, così potete assaggiare cosa fa una fermentazione di soia di due anni rispetto a un miso di riso più leggero, e perché una cucina di Nagoya si comporti diversamente da una di Kyoto. La maggior parte delle persone esce in grado di comprare il miso con un'intenzione precisa.\n\nSe volete un bento a tema o in stile anime, con nori e verdure disposte a formare un volto, avvisate l'operatore in anticipo e lo prepareranno per voi. È popolare tra i bambini e, per esperienza, anche tra gli adulti che non lo ammetteranno.\n\nI gruppi sono limitati a otto persone e l'istruzione è in inglese. Lo studio si trova a Izumi, nel centro di Nagoya.",
+  "highlights": [],
+  "included": [
+   "Sessione di cucina pratica",
+   "Creazione del proprio bento giapponese",
+   "Degustazione di diversi tipi di miso e salsa di soia",
+   "Istruzione sugli ingredienti tradizionali di Nagoya",
+   "Istruttore di lingua inglese"
+  ],
+  "notIncluded": [
+   "Trasporto allo studio",
+   "Cibo e bevande aggiuntivi",
+   "Prelievo e riaccompagno in hotel"
+  ]
+ },
+ "nagoya-shinto-priest-shrine-maiden-experience": {
+  "title": "Indossa le vesti di un sacerdote shintoista o miko al santuario Wakaoe",
+  "metaTitle": "Esperienza sacerdote shintoista a Nagoya",
+  "metaDescription": "Vestitevi da sacerdote o miko, entrate in aree normalmente chiuse ai visitatori, create il vostro sigillo goshuin e partecipate a una cerimonia formale di culto shintoista.",
+  "shortDescription": "Vestitevi da sacerdote o miko, entrate in aree normalmente chiuse ai visitatori, create il vostro sigillo goshuin e partecipate a una cerimonia formale di culto shintoista.",
+  "fullDescription": "Lo shintoismo è la più antica delle due religioni giapponesi e quella che i visitatori capiscono meno, perché una visita a un santuario dura tre minuti, inchino, battito di mani, inchino, via, e nulla nel rituale si spiega da sé. Indossare le vesti e andare oltre il confine ordinario è un modo di entrarci completamente diverso.\n\nAl santuario Wakaoe, nel nord di Nagoya, dedicato alle divinità della prosperità, indossate l'abito di un kannushi, un sacerdote shintoista, oppure di una miko, una sacerdotessa del santuario. Il noleggio del costume e l'ingresso al santuario sono entrambi inclusi nel prezzo. I sacerdoti portano l'alto cappello laccato e le vesti a strati; le miko indossano la tunica bianca e l'hakama vermiglio che chiunque abbia visitato un santuario durante un festival riconoscerà.\n\nCiò che segue è la parte che non si può organizzare come semplice visitatore. Imparate i rituali e l'etichetta corretti, poi entrate in aree normalmente riservate al personale del santuario e partecipate lì a un servizio devozionale. Una cerimonia formale di culto vi porta molto più vicino al santuario interno di quanto permetta la cassetta delle offerte pubbliche.\n\nCreate anche il vostro goshuin, il sigillo calligrafato e timbrato che i pellegrini collezionano nei loro quaderni nei santuari di tutto il Giappone, invece di riceverne uno già pronto. Una sessione fotografica in abito tradizionale chiude l'esperienza.\n\nI sacerdoti parlano durante tutta la sessione, il che è il vero valore: domande sullo shintoismo che sarebbe impossibile fare in un santuario affollato qui trovano risposte appropriate.\n\nSono offerte tre durate, da quarantacinque minuti a centocinque. La più lunga è quella che permette di includere tutto senza affrettarsi. I gruppi sono piccolissimi, massimo tre persone.",
+  "highlights": [],
+  "included": [
+   "Noleggio costume, abito da sacerdote shintoista o miko",
+   "Ingresso al santuario Wakaoe",
+   "Istruzione sui rituali e l'etichetta shintoista",
+   "Accesso ad aree normalmente riservate al personale del santuario",
+   "Sigillo goshuin personalizzato",
+   "Cerimonia formale di culto",
+   "Sessione fotografica in abito tradizionale"
+  ],
+  "notIncluded": [
+   "Trasporto al santuario",
+   "Pasti e bevande",
+   "Goshuin o souvenir aggiuntivi"
+  ]
+ },
+ "nagoya-private-koto-lesson-with-musician": {
+  "title": "Lezione privata di koto in una stanza tatami a Nagoya",
+  "metaTitle": "Lezione privata di koto a Nagoya",
+  "metaDescription": "Novanta minuti uno a uno con un suonatore professionista di koto, imparando la cetra giapponese a tredici corde in una tradizionale stanza giapponese.",
+  "shortDescription": "Novanta minuti uno a uno con un suonatore professionista di koto, imparando la cetra giapponese a tredici corde in una tradizionale stanza giapponese.",
+  "fullDescription": "Il koto è quasi due metri di legno di paulonia con tredici corde di seta tese su ponticelli mobili, ed è lo strumento che la maggior parte delle persone ha sentito in Giappone senza mai averlo visto. Arrivò dalla Cina nell'ottavo secolo, divenne uno strumento di corte, e nel periodo Edo era ciò che una persona accomplita era tenuta a saper suonare.\n\nQuesta è una lezione privata con un suonatore professionista, limitata a due persone, il che significa che suonate davvero invece di guardare. Portate dei plettri sul pollice e sulle prime due dita della mano destra e pizzicate le corde; la mano sinistra preme dietro i ponticelli per alterare l'altezza, ed è lì che nasce il suono scivolante caratteristico del koto e dove sta la difficoltà.\n\nI fondamentali sono ciò che novanta minuti permettono: postura, i plettri, il movimento di pizzicatura, come i ponticelli mobili accordino ogni corda individualmente, e quanto basta di una semplice melodia per sentire lo strumento funzionare davvero. È una cosa fisica stare dietro: il corpo è grande, il suono è più forte di quanto ci si aspetti da vicino, e la risonanza sale attraverso il pavimento.\n\nLa stanza è una classe tradizionale giapponese, tatami e silenzio, e l'ambientazione è una parte vera dell'esperienza, la musica per koto è stata scritta esattamente per questo tipo di spazio e suona sottile ovunque altrove.\n\nLo strumento e tutti gli accessori sono forniti. Una nota pratica su cui l'operatore è fermo: portate i calzini. I piedi nudi non sono accettabili in una stanza in stile giapponese, ed è il tipo di dettaglio scomodo da scoprire all'arrivo.",
+  "highlights": [],
+  "included": [
+   "Lezione privata di koto, massimo due persone",
+   "Musicista professionista di koto come istruttore",
+   "Strumento koto e tutti gli accessori",
+   "Classe tradizionale giapponese in tatami"
+  ],
+  "notIncluded": [
+   "Trasporto al locale",
+   "Pasti e bevande",
+   "Calzini, da portare con sé, poiché i piedi nudi non sono permessi in una stanza in stile giapponese"
+  ]
+ },
+ "tokyo-ichikawa-zoo-red-pandas-day-trip": {
+  "title": "Panda rossi e Punch-kun: una giornata in piccolo gruppo allo zoo di Ichikawa",
+  "metaTitle": "Zoo di Ichikawa con panda rossi, da Tokyo",
+  "metaDescription": "Una giornata per cinque persone in un piccolo zoo di Chiba con tredici panda rossi e la scimmietta famosa su internet, con trasporto dal centro di Tokyo e ingresso garantito.",
+  "shortDescription": "Una giornata per cinque persone in un piccolo zoo di Chiba con tredici panda rossi e la scimmietta famosa su internet, con trasporto dal centro di Tokyo e ingresso garantito.",
+  "fullDescription": "Lo zoo della città di Ichikawa non è in nessun itinerario di Tokyo, e questo è esattamente il suo fascino. È un piccolo zoo municipale a Chiba, a breve distanza in auto dalla città, e l'esperienza che offre non ha nulla a che vedere con Ueno, nessuna fila davanti a ogni recinto, nessuno che vi sposta avanti, e animali abbastanza vicini da poter davvero osservarli.\n\nLo zoo è un'istituzione seria per i panda rossi. Tredici vivono qui, una proporzione significativa della popolazione in cattività del Giappone, e Ichikawa è diventata un punto di riferimento nella loro conservazione. Sono le mascotte dello zoo e il recinto è costruito attorno a strutture in legno su cui arrampicarsi, così li vedete fare ciò che i panda rossi fanno davvero invece di dormire fuori vista.\n\nL'altro residente che merita il viaggio è Punch-kun, una scimmietta diventata famosa a livello internazionale per il suo attaccamento a un peluche. La vostra guida racconta la storia di come è stato allevato e, più utilmente, sa quando e dove è probabile vederlo.\n\nPer le famiglie c'è la Nakayoshi Friendship Square, dove l'interazione con gli animali è diretta e supervisionata.\n\nLa giornata è deliberatamente senza fretta, dieci ore incluso il trasporto dal centro di Tokyo, con prelievo in hotel, biglietti d'ingresso garantiti e un gruppo limitato a cinque persone, così non diventa mai una ressa. La guida lavora in inglese.\n\nPranzo e souvenir sono a vostro carico. Lo zoo è accessibile in sedia a rotelle, e questa è una delle giornate intere più facili da fare con bambini piccoli, dato che il ritmo è stabilito dal vostro gruppo e non da un orario di pullman.",
+  "highlights": [],
+  "included": [
+   "Trasporto andata e ritorno dal centro di Tokyo",
+   "Biglietto d'ingresso garantito allo zoo della città di Ichikawa",
+   "Guida di lingua inglese",
+   "Esperienza in piccolo gruppo, massimo cinque persone"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Souvenir personali",
+   "Cibo e bevande aggiuntivi"
+  ]
+ },
+ "nagoya-udon-and-gyoza-cooking-class": {
+  "title": "Udon e gyoza fatti a mano a Nagoya: un corso di cucina pensato per le famiglie",
+  "metaTitle": "Corso di udon e gyoza a Nagoya",
+  "metaDescription": "Impastate, stendete e tagliate il vostro udon, preparate un brodo dashi e piegate gyoza, con una nutrizionista abilitata come istruttrice e salsa di soia, miso e mirin dell'Aichi da assaggiare.",
+  "shortDescription": "Impastate, stendete e tagliate il vostro udon, preparate un brodo dashi e piegate gyoza, con una nutrizionista abilitata come istruttrice e salsa di soia, miso e mirin dell'Aichi da assaggiare.",
+  "fullDescription": "L'udon è il piatto giusto da imparare per primo, perché tutto si basa su un'unica abilità: ottenere l'impasto giusto. È farina, acqua e sale, e tutto ciò che distingue una buona ciotola da una scarsa accade durante l'impastamento e il riposo. Una volta che l'avete fatto con le vostre mani, ne sentite la differenza in ogni ciotola che mangiate dopo.\n\nLa lezione parte da lì. Impastate l'impasto, lo stendete e tagliate i vostri noodle, un'operazione disordinata e appagante, ed è il motivo per cui questa sessione funziona così bene con i bambini, la trasformazione da un grumo di pasta a un piatto di noodle è visibile e completamente opera vostra. Poi il dashi, il brodo su cui si basa gran parte della cucina giapponese, e la scelta dei vostri condimenti.\n\nSeguono i gyoza, e piegarli è la metà più conviviale delle due ore. Le pieghe richiedono qualche tentativo e i primi di tutti sono orribili; al decimo sembrano quelli di un negozio, e a quel punto il tavolo di solito ha smesso di essere composto da estranei.\n\nL'insegnante è una nutrizionista abilitata e specialista culinaria, e lo stile di insegnamento è deliberatamente rilassato e inclusivo, questa è una classe pensata per funzionare per un gruppo che va dai bambini piccoli ai nonni, non solo per cuochi appassionati.\n\nLa prefettura di Aichi produce alcuni dei migliori condimenti fermentati del Giappone, e assaggiate salsa di soia, miso e mirin fatti localmente durante la cucina, un'educazione utile sul perché il cibo giapponese regionale abbia il sapore che ha.\n\nLo studio si trova a Izumi, nel distretto di Higashi, nel centro di Nagoya. I gruppi arrivano fino a sedici persone.",
+  "highlights": [],
+  "included": [
+   "Preparazione dei noodle udon da zero",
+   "Preparazione del brodo dashi",
+   "Piegatura dei ravioli gyoza",
+   "Degustazione di salsa di soia, miso e mirin dell'Aichi prodotti localmente",
+   "Lezione guidata da una nutrizionista abilitata e specialista culinaria",
+   "Il pasto che cucinate"
+  ],
+  "notIncluded": [
+   "Trasporto allo studio",
+   "Cibo e bevande aggiuntivi",
+   "Prelievo e riaccompagno in hotel"
+  ]
+ },
+ "nagoya-shirakawago-takayama-observatory-day-trip": {
+  "title": "Shirakawa-go dall'osservatorio e il centro storico di Takayama, in un giorno da Nagoya",
+  "metaTitle": "Shirakawa-go e Takayama da Nagoya",
+  "metaDescription": "Una giornata in pullman verso le montagne di Hida a meno di settanta dollari, le fattorie gassho viste dal punto panoramico in alto, e le vie dei mercanti di Takayama a piedi.",
+  "shortDescription": "Una giornata in pullman verso le montagne di Hida a meno di settanta dollari, le fattorie gassho viste dal punto panoramico in alto, e le vie dei mercanti di Takayama a piedi.",
+  "fullDescription": "Shirakawa-go fotografa male dal livello del suolo e in modo indimenticabile da sopra, motivo per cui l'osservatorio conta. Il punto panoramico del castello di Ogimachi si trova sul pendio sopra il villaggio e mostra tutta la valle in un colpo d'occhio: una sessantina di fattorie gassho-zukuri disposte nei campi di riso, i loro tetti di paglia spioventi inclinati a sessanta gradi per far scivolare via la neve che ogni inverno sommerge questa valle. Il nome significa mani in preghiera, che è esattamente ciò a cui assomiglia la forma del tetto vista da lassù.\n\nLe case sono il punto centrale. Furono costruite senza chiodi, usando corde e incastri di legno flessibili abbastanza da muoversi sotto il peso della neve pesante, e gli enormi solai sotto quei tetti erano depositi per i bombici da seta, l'industria che pagava per il villaggio finché non collassò nel ventesimo secolo. L'UNESCO ha inserito il sito nella lista nel 1995 e in gran parte delle case si vive ancora.\n\nTakayama è l'altra metà della giornata e un piacere diverso. Il vecchio quartiere mercantile ha case in legno scuro con facciate a grata e canali di irrigazione che corrono sotto le grondaie, e si possono individuare le fabbriche di sake dalle palle di foglie di cedro appese sopra le loro porte, un sugidama, appeso verde quando il nuovo sake viene pressato e che si fa marrone man mano che matura, un segnale che la città usa da secoli.\n\nIl pullman gestisce un tragitto davvero scomodo senza un'auto. Due orari di partenza lasciano da vicino l'uscita ovest della stazione di Nagoya. Pasti, biglietti d'ingresso alle attrazioni e bevande non sono inclusi, e la guida lavora in inglese.",
+  "highlights": [],
+  "included": [
+   "Trasporto in pullman andata e ritorno da Nagoya",
+   "Guidatore e guida di lingua inglese",
+   "Visita guidata del centro storico di Takayama",
+   "Visita al villaggio gassho-zukuri di Shirakawa-go",
+   "Punto panoramico dell'osservatorio di Shirakawa-go",
+   "Oneri di servizio"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Biglietti d'ingresso alle attrazioni",
+   "Trasporto da e per il punto di partenza",
+   "Spese personali"
+  ]
+ },
+ "osaka-kuromon-market-street-food-walking-tour": {
+  "title": "Il mercato Kuromon a piedi: la cucina di Osaka, Doguyasuji e Hozenji Yokocho",
+  "metaTitle": "Tour a piedi del mercato Kuromon, Osaka",
+  "metaDescription": "Due ore nel mercato coperto dove gli abitanti di Osaka fanno davvero la spesa, con assaggi in quattro o cinque bancarelle, più la via dei coltelli e un vicolo illuminato da lanterne.",
+  "shortDescription": "Due ore nel mercato coperto dove gli abitanti di Osaka fanno davvero la spesa, con assaggi in quattro o cinque bancarelle, più la via dei coltelli e un vicolo illuminato da lanterne.",
+  "fullDescription": "Il Kuromon Ichiba nutre Osaka fin dal diciannovesimo secolo ed è ancora, nonostante la folla, un mercato attivo, i ristoranti di Minami comprano qui al mattino, e le bancarelle che sopravvivono lo fanno grazie alla qualità di una o due cose.\n\nEcco perché una guida aiuta esattamente in questo. Camminandolo da soli mangereste qualsiasi cosa più vicina e paghereste prezzi da turista. In due ore questo tour assapora quattro o cinque bancarelle curate, capesante grigliate, spiedini di yakitori, takoyaki e qualsiasi altra cosa sia buona quel giorno, con una guida che spiega la specialità di ogni venditore e il ruolo che il mercato ha avuto nell'approvvigionamento alimentare della città.\n\nAltre due tappe stanno ai lati. Sennichimae Doguyasuji è la via dei coltelli da cucina, qualche centinaio di metri di negozi che vendono solo coltelli, stampi, padelle, e le riproduzioni di plastica del cibo che riempiono ogni vetrina di ristorante in Giappone. È il miglior posto per lo shopping di souvenir a Osaka e quasi nessuno lo trova. Hozenji Yokocho è un vicolo lastricato di piccoli ristoranti dietro il rumore di Dotonbori, costruito attorno a un piccolo tempio la cui statua coperta di muschio viene bagnata d'acqua da tutti quelli che passano.\n\nLa guida lavora in inglese ed è formata su cultura, storia ed etichetta e non solo sui percorsi, cosa che si vede dalle domande a cui sa rispondere.\n\nLa versione condivisa è limitata a dieci persone; una versione privata segue lo stesso percorso per un gruppo proprio. Cibo e bevande aggiuntivi oltre agli assaggi inclusi sono a vostro carico, e li vorrete, Kuromon non è un posto dove la moderazione sopravvive.",
+  "highlights": [],
+  "included": [
+   "Tour a piedi di due ore con assaggi di street food",
+   "Quattro o cinque assaggi curati alle bancarelle del mercato Kuromon",
+   "Guida locale professionista di lingua inglese",
+   "Visite a Sennichimae Doguyasuji e Hozenji Yokocho",
+   "Contesto sulla cultura alimentare giapponese e la storia del mercato"
+  ],
+  "notIncluded": [
+   "Cibo e bevande aggiuntivi oltre agli assaggi",
+   "Trasporto da e per il punto d'incontro",
+   "Prelievo e riaccompagno in hotel"
+  ]
+ },
+ "kyoto-gion-temari-ball-workshop-kimono-fabric": {
+  "title": "Crea una palla temari da tessuto di kimono vintage a Gion",
+  "metaTitle": "Workshop di temari a Gion, Kyoto",
+  "metaDescription": "Un'ora a Gion per rivestire una palla temari con seta di kimono a motivi, un'artigianato adatto ai principianti che entra nel bagaglio a mano.",
+  "shortDescription": "Un'ora a Gion per rivestire una palla temari con seta di kimono a motivi, un'artigianato adatto ai principianti che entra nel bagaglio a mano.",
+  "fullDescription": "Il temari nacque come giocattolo. Le dame di corte le facevano con ritagli di seta, avvolti e cuciti in palle decorate, e passarono nell'artigianato popolare come oggetti regalati ai bambini e poi agli sposi come pegni di buona fortuna, il filo ininterrotto a rappresentare un legame ininterrotto.\n\nQuesto workshop usa quell'eredità alla lettera. Scegliete tra una selezione di tessuti di kimono, ognuno con motivi tradizionali e fiori di stagione, e costruite la vostra palla con essi. I colori e i motivi sono l'intera decisione, e richiede alla maggior parte delle persone più tempo di quanto non ne serva per cucire.\n\nLa tecnica è deliberatamente mantenuta semplice. È una versione di un'ora, senza stress, dell'artigianato, pensata perché chiunque possa finire qualcosa di cui essere soddisfatto, nessuna esperienza di cucito presupposta, nessun bambino escluso, nessun rischio di portare a casa in valigia un oggetto incompiuto. L'istruttore guida ogni passaggio e il gruppo è limitato a sedici persone.\n\nCiò che la rende un buon souvenir è la praticità. È piccola, leggera, resistente abbastanza da sopravvivere a una valigia, fatta di vera seta di kimono, e nulla in una vetrina sarà identico. Funziona anche come regalo, in un modo in cui la maggior parte degli artigianati fatti in proprio non riesce.\n\nLo studio è al quarto piano del Gion First Building, di fronte allo Starbucks a Gion-machi Kitagawa, vicino al santuario Yasaka, il che significa che potete inserirlo tra Kiyomizu-dera al mattino e una passeggiata per Pontocho alla sera senza attraversare la città.",
+  "highlights": [],
+  "included": [
+   "Tessuto di kimono per la vostra palla temari",
+   "Tutti gli attrezzi e i materiali",
+   "Guida dell'istruttore in ogni fase",
+   "Il vostro temari finito da portare a casa"
+  ],
+  "notIncluded": [
+   "Trasporto allo studio",
+   "Cibo e bevande",
+   "Temari aggiuntivi oltre a quello incluso"
+  ]
+ },
+ "kyoto-ikebana-class-nishijin-machiya": {
+  "title": "Ikebana con un maestro in una casa mercantile di Nishijin",
+  "metaTitle": "Lezione di ikebana a Nishijin, Kyoto",
+  "metaDescription": "Un'ora di composizione floreale giapponese insegnata da un maestro in una casa storica preservata di Nishijin, con la vostra opera finita esposta contro il giardino per le foto.",
+  "shortDescription": "Un'ora di composizione floreale giapponese insegnata da un maestro in una casa storica preservata di Nishijin, con la vostra opera finita esposta contro il giardino per le foto.",
+  "fullDescription": "L'ikebana nacque a Kyoto nel 1462. Prima di allora, i fiori in Giappone erano offerte, disposte per templi e divinità; ciò che emerse nel quindicesimo secolo fu qualcosa di diverso, una composizione pensata per esprimere la relazione tra il materiale vegetale e lo spazio che una persona occupa. Quella distinzione è l'intera arte, e per questo l'ikebana si occupa di linea, spazio vuoto e asimmetria piuttosto che di massa e colore come l'arrangiamento occidentale.\n\nUn maestro insegna questa sessione, con fiori di stagione e tutti gli attrezzi forniti. Imparate i principi mentre lavorate piuttosto che in astratto, dove va la linea principale, perché il secondo fusto è più corto, e quanto vuoto serve a una composizione per respirare. La maggior parte delle persone trova che l'istruzione più difficile da seguire sia togliere, non aggiungere.\n\nL'ambientazione è Tondaya, una casa mercantile preservata a Nishijin, il distretto tessile di Kyoto, sul lato nord-ovest della città e ben lontano dalla folla di Higashiyama. La casa stessa è il tipo di edificio per cui l'ikebana fu sviluppata, il che cambia come si legge l'opera finita.\n\nDopo la lezione la vostra composizione viene esposta davanti al giardino e fotografata, un souvenir considerevolmente migliore di una composizione floreale che non potete portare su un aereo.\n\nL'ingresso alla casa è incluso, e la guida è disponibile in sei lingue attraverso un sistema multilingue: giapponese, inglese, cinese, coreano, francese e spagnolo. La sessione dura un'ora, e il quartiere circostante di Nishijin, laboratori tessili, vicoli silenziosi, pochissimi turisti, merita la passeggiata dopo.",
+  "highlights": [],
+  "included": [
+   "Lezione di ikebana con un maestro",
+   "Fiori di stagione e tutti gli attrezzi",
+   "Ingresso alla casa culturale di Nishijin",
+   "Esposizione e fotografia della vostra composizione finita",
+   "Guida multilingue in giapponese, inglese, cinese, coreano, francese e spagnolo"
+  ],
+  "notIncluded": [
+   "Trasporto al locale",
+   "Cibo e bevande",
+   "Portare via la composizione"
+  ]
+ },
+ "osaka-katashimo-winery-tour-tasting-vineyard-walk": {
+  "title": "La cantina occidentale più antica del Giappone: degustazione e passeggiata tra i vigneti fuori Osaka",
+  "metaTitle": "Cantina Katashimo vicino a Osaka",
+  "metaDescription": "A quaranta minuti da Namba, una cantina fondata nel 1914 con una cantina d'invecchiamento secolare, tre vini giapponesi, piccoli assaggi e una città del periodo Edo a piedi.",
+  "shortDescription": "A quaranta minuti da Namba, una cantina fondata nel 1914 con una cantina d'invecchiamento secolare, tre vini giapponesi, piccoli assaggi e una città del periodo Edo a piedi.",
+  "fullDescription": "Il Giappone produce vino, e quasi nessuno tra i visitatori lo sa. L'uva viene coltivata nella prefettura di Osaka dall'inizio del ventesimo secolo, e la cantina che questo tour visita fu fondata nel 1914, il che la rende la più antica del Giappone occidentale. Si trova a Kashiwara, quaranta minuti in treno dal centro di Osaka, in una valle di vigneti che i visitatori di Dotonbori non hanno idea esista.\n\nIl tour inizia al bar della cantina e prosegue nella cantina d'invecchiamento, cent'anni, designata sito di patrimonio culturale, e ancora in uso. Il vino è maturato in quella stanza ininterrottamente per generazioni, e il suo odore racconta tanto quanto qualsiasi spiegazione. Da lì si cammina tra i vigneti stessi.\n\nLa seconda metà è la città. Kashiwara ha edifici in legno del periodo Edo ancora in piedi sulle sue strade e un albero di canfora che ha tra gli 800 e gli 850 anni, già antico quando furono piantate le prime vigne. È il tipo di città giapponese ordinaria che è completamente invisibile dal circuito turistico, e considerevolmente più piacevole per questo.\n\nLa degustazione chiude le due ore: tre vini giapponesi diversi con piccoli assaggi, e l'ingresso al museo del vino incluso. Il vino giapponese merita un approccio con mente aperta, l'uva Koshu in particolare produce qualcosa di genuinamente diverso da qualsiasi cosa europea, leggero e vagamente citrico, pensato per il cibo con cui si beve.\n\nI gruppi sono limitati a dodici persone e la guida lavora in inglese. Degustazioni aggiuntive oltre alle tre incluse sono a pagamento separato. L'incontro è al negozio di vendita diretta della cantina a Taiheiji, Kashiwara.",
+  "highlights": [],
+  "included": [
+   "Visita guidata alla cantina incluso la cantina d'invecchiamento secolare",
+   "Passeggiata tra i vigneti",
+   "Passeggiata guidata nella città storica",
+   "Degustazione di tre vini giapponesi",
+   "Piccoli assaggi serviti con il vino",
+   "Ingresso al museo del vino"
+  ],
+  "notIncluded": [
+   "Degustazioni aggiuntive oltre alle tre incluse",
+   "Trasporto a Kashiwara",
+   "Pasti",
+   "Prelievo e riaccompagno in hotel"
+  ]
+ },
+ "tokyo-sailor-moon-shining-theater-shinagawa": {
+  "title": "Sailor Moon dal vivo a Shinagawa: lo spettacolo Shining Theater",
+  "metaTitle": "Spettacolo di Sailor Moon a Shinagawa",
+  "metaDescription": "Novanta minuti di una produzione teatrale originale di Sailor Moon supervisionata da Naoko Takeuchi, con una bevanda a tema e una foto con il cast nei posti premium.",
+  "shortDescription": "Novanta minuti di una produzione teatrale originale di Sailor Moon supervisionata da Naoko Takeuchi, con una bevanda a tema e una foto con il cast nei posti premium.",
+  "fullDescription": "Questo è un teatro costruito appositamente per Sailor Moon piuttosto che uno spettacolo itinerante. Ha aperto al Club eX del Shinagawa Prince Hotel nel 2026, costruendo su quanto fatto dalla produzione Shining Moon Tokyo che si è svolta ad Azabujuban dal 2019, e la storia è interamente originale, scritta per questo locale e supervisionata da Naoko Takeuchi, che ha creato la serie.\n\nQuesta supervisione è ciò che lo distingue dall'enorme quantità di merchandising non ufficiale di Sailor Moon che incontrerete a Tokyo. È una continuazione autorizzata del mondo piuttosto che un tributo, messa in scena come performance dal vivo immersiva in una sala progettata per essa.\n\nIl cast è l'altra caratteristica insolita. I biglietti vengono venduti in base a quale guardiana si esibisce, Sailor Moon, Mercury, Mars, Jupiter, Neptune, Uranus, Saturn o Chibi Moon, quindi se ne avete una preferita prenotate la sua data invece di accettare chiunque capiti. Chiunque sia cresciuto con la serie capirà esattamente perché questo conta.\n\nUna bevanda a tema originale è inclusa con ogni biglietto, il suo design e colore abbinati al personaggio. I posti premium aggiungono una fotografia commemorativa con il cast, la versione da scegliere se fate il viaggio apposta per questo.\n\nIl locale è al terzo piano della torre annessa del Shinagawa Prince Hotel, proprio accanto alla stazione di Shinagawa, quindi è facile da raggiungere da qualsiasi punto della linea Yamanote e semplice andarsene dopo.\n\nLo spettacolo dura novanta minuti ed è recitato in giapponese.",
+  "highlights": [],
+  "included": [
+   "Biglietto per lo spettacolo",
+   "Bevanda a tema originale, abbinata al personaggio",
+   "Fotografia commemorativa con il cast (solo posti premium)"
+  ],
+  "notIncluded": [
+   "Cibo e bevande aggiuntivi",
+   "Merchandise",
+   "Prelievo e riaccompagno in hotel",
+   "Trasporto al locale"
+  ]
+ },
+ "nara-wagashi-workshop-with-matcha-tasting": {
+  "title": "Prepara tre wagashi di stagione con un maestro a Nara, e assaggia il suo matcha",
+  "metaTitle": "Workshop di wagashi a Nara con degustazione di matcha",
+  "metaDescription": "Novanta minuti nell'atelier di un pasticcere per preparare a mano tre dolci di stagione, con un traduttore al vostro fianco e un matcha scelto dal maestro.",
+  "shortDescription": "Novanta minuti nell'atelier di un pasticcere per preparare a mano tre dolci di stagione, con un traduttore al vostro fianco e un matcha scelto dal maestro.",
+  "fullDescription": "Questa è la più piccola e personale tra le sessioni di preparazione dolci che elenchiamo, e la differenza si nota. Il gruppo è limitato a cinque persone, si svolge nell'atelier del maestro stesso dietro il negozio, e un traduttore locale è seduto con voi così la conversazione scorre davvero invece di fermarsi alle istruzioni.\n\nSi apre con il tè e la storia del negozio, da quanto tempo la famiglia prepara dolci a Nara, e dove si collochino i wagashi nella cultura giapponese, una domanda più seria di quanto sembri a prima vista. I wagashi esistono a causa del tè: la dolcezza è calibrata contro l'amarezza del matcha, le forme seguono le stagioni con tale precisione che la vetrina di un pasticcere indica il mese, e l'intero mestiere è un ramo della cerimonia del tè piuttosto che della pasticceria.\n\nPoi ne preparate tre, ognuno con una tecnica diversa, seguendo la dimostrazione del maestro. La tecnica di riempimento viene prima, far stare la pasta di fagioli centrata dentro uno strato esterno senza strapparlo è più difficile di quanto sembri, poi la modellatura, da cui nascono i disegni di stagione.\n\nLe fotografie dei vostri tre pezzi arrivano prima di mangiarli, cosa che tutti vogliono e a nessuno viene in mente di organizzare. Poi vi sedete e mangiate ciò che avete preparato con un matcha scelto dal maestro, parlando con lui tramite il vostro traduttore, dove si rivela la maggior parte dell'interesse dei novanta minuti.\n\nL'atelier è a Tsurufukuincho, nel centro di Nara. L'istruzione è in giapponese con traduzione fornita, e tutto è incluso, i tre dolci che preparate sono vostri.",
+  "highlights": [],
+  "included": [
+   "Sessione pratica di preparazione wagashi, tre pezzi fatti da voi",
+   "Servizio di tè di stagione all'arrivo",
+   "Degustazione di matcha scelta dal maestro",
+   "Traduttore locale per tutta la durata",
+   "Tutti gli ingredienti e gli attrezzi"
+  ],
+  "notIncluded": [
+   "Trasporto all'atelier",
+   "Cibo e bevande aggiuntivi",
+   "Prelievo e riaccompagno in hotel"
+  ]
+ },
+ "nara-japanese-calligraphy-experience": {
+  "title": "Calligrafia giapponese a Nara: scrivi un kanji che significhi qualcosa",
+  "metaTitle": "Calligrafia giapponese a Nara",
+  "metaDescription": "Un'ora con un calligrafo professionista a tre minuti dalla stazione JR di Nara, guardate una dimostrazione, imparate il pennello, e portate a casa il vostro lavoro su una tavola shikishi.",
+  "shortDescription": "Un'ora con un calligrafo professionista a tre minuti dalla stazione JR di Nara, guardate una dimostrazione, imparate il pennello, e portate a casa il vostro lavoro su una tavola shikishi.",
+  "fullDescription": "La calligrafia è l'arte giapponese che fotografa peggio e ricompensa di più chi la pratica davvero. Su carta sembra solo scrittura; nella pratica è più vicina a una disciplina fisica, dove la pressione del pennello, la velocità del tratto e il momento in cui si solleva determinano tutto, e non si può correggere una linea una volta fatta.\n\nL'ora inizia con la scelta di un carattere kanji. Ognuno viene spiegato, armonia, pace, sogno, amore, forza, così la scelta è vostra e significa qualcosa invece di esservi assegnata. Questa singola decisione è ciò che rende la sessione personale dal primo minuto.\n\nPoi il calligrafo scrive il vostro nome in giapponese, cosa che gli ospiti ricordano sistematicamente: vedere il proprio nome reso in tratti di pennello, in un sistema di scrittura che non sapete leggere, è più strano e commovente di quanto suoni. Dopo lo praticate voi stessi, come tenere il pennello eretto, quanto inchiostro caricare, come muoversi lentamente e con intenzione invece di abbozzare.\n\nL'istruzione è individuale all'interno di un gruppo limitato a sei persone, in inglese chiaro e semplice. Non c'è fretta e nessuna aspettativa che qualcosa sia bello al primo tentativo; il punto dell'ora è il ritmo e la concentrazione, motivo per cui la calligrafia è trattata come una pratica meditativa da secoli.\n\nLa vostra opera finita va su una tavola shikishi tradizionale, la rigida carta quadrata usata per esporre la calligrafia, così viaggia a casa piatta e intatta.\n\nLo studio è al secondo piano di un edificio ad Aburasaka, tre minuti dalla stazione JR di Nara, e la stanza è accessibile in sedia a rotelle. Kimono e acconciatura non fanno parte di questa sessione.",
+  "highlights": [],
+  "included": [
+   "Dimostrazione da parte di un calligrafo professionista",
+   "Sessione di calligrafia di un'ora con istruzione personalizzata",
+   "Tutti i pennelli, l'inchiostro e la carta",
+   "Tavola shikishi tradizionale per la vostra opera finita"
+  ],
+  "notIncluded": [
+   "Kimono e acconciatura",
+   "Trasporto al locale",
+   "Pasti e bevande"
+  ]
+ },
+ "miyama-thatched-village-katsuoji-arashiyama-day-tour": {
+  "title": "Il villaggio di paglia di Miyama, Katsuo-ji e Arashiyama in un giorno da Osaka",
+  "metaTitle": "Miyama, Katsuo-ji e Arashiyama da Osaka",
+  "metaDescription": "Una giornata in pullman nella Kyoto rurale, fattorie di paglia tra le montagne, un tempio ricoperto di bambole daruma, e il boschetto di bambù per finire.",
+  "shortDescription": "Una giornata in pullman nella Kyoto rurale, fattorie di paglia tra le montagne, un tempio ricoperto di bambole daruma, e il boschetto di bambù per finire.",
+  "fullDescription": "Miyama è il motivo per fare questa giornata. È un villaggio tra le montagne della prefettura settentrionale di Kyoto dove circa quaranta fattorie kayabuki, con il tetto di canne, spesso un metro e inclinato per la neve, restano ancora in piedi insieme in un unico luogo. La maggior parte dei villaggi di paglia giapponesi non esiste più o è conservata come museo all'aperto; Miyama è abitata, i tetti vengono rifatti a rotazione da persone che ancora sanno come farlo, e l'effetto in ogni stagione è quello di un paesaggio che ha smesso di cambiare.\n\nKatsuo-ji è più strano e più allegro. È un tempio associato a vittoria e buona fortuna, e i pellegrini vi lasciano bambole daruma da così tanto tempo che le figure rosse e rotonde ora coprono ogni mensola, muro, scalino e radice d'albero del terreno, decine di migliaia, che fissano. Ne comprate una, fate un desiderio, dipingete un occhio, e dipingete il secondo quando il desiderio si realizza.\n\nArashiyama chiude la giornata: il boschetto di bambù e il santuario Nonomiya, il piccolo santuario tra i bambù dove le principesse imperiali si purificavano un tempo prima di servire a Ise.\n\nIl pullman gestisce le distanze, il che è l'argomento pratico. Miyama in particolare è davvero difficile da raggiungere con i mezzi pubblici e consuma gran parte di una giornata se ci si prova.\n\nI biglietti d'ingresso alle attrazioni e i pasti non sono inclusi. Le partenze sono dall'uscita 2 della stazione di Nipponbashi a Osaka, e potete scegliere di essere lasciati a Kyoto alla fine invece di tornare, utile se state continuando il viaggio.",
+  "highlights": [],
+  "included": [
+   "Trasporto in pullman andata e ritorno",
+   "Carburante, pedaggi e spese autostradali",
+   "Guida di lingua inglese o cinese"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso alle attrazioni",
+   "Pasti",
+   "Spese personali",
+   "Prelievo e riaccompagno in hotel"
+  ]
+ },
+ "kure-naval-history-walk-yamato-museum-submarine": {
+  "title": "La storia navale di Kure: il museo Yamato e un sottomarino in cui si può camminare",
+  "metaTitle": "Museo Yamato e sottomarino a Kure",
+  "metaDescription": "Tre ore guidate nel porto che costruì la più grande nave da battaglia del mondo, un modello in scala di 26 metri dello Yamato, e un sottomarino dismesso posato su terraferma.",
+  "shortDescription": "Tre ore guidate nel porto che costruì la più grande nave da battaglia del mondo, un modello in scala di 26 metri dello Yamato, e un sottomarino dismesso posato su terraferma.",
+  "fullDescription": "Kure è a mezz'ora da Hiroshima e quasi nessuno sul circuito del Parco della Pace ci va, un peccato, perché spiega molto sul perché Hiroshima fosse un obiettivo in primo luogo. Questo era uno dei quattro principali arsenali navali del Giappone e il cantiere che costruì lo Yamato, la nave da battaglia più grande mai costruita, lunga 263 metri, con cannoni da 46 centimetri che restano i più grandi mai montati su una nave da guerra.\n\nIl museo Yamato è costruito attorno a un modello in scala 1:10 della nave, ventisei metri di essa, assemblato con un livello di dettaglio che richiede tempo per essere assorbito. Attorno ci sono reperti reali, la storia ingegneristica di come un paese appena industrializzato nel 1868 costruisse navi così entro il 1940, e, trattato seriamente invece che evitato, cosa successe a lei e ai 3.000 uomini a bordo quando fu affondata nel 1945 in una missione di sola andata verso Okinawa.\n\nDall'altro lato della strada c'è il museo JMSDF di Kure, conosciuto come la Balena di Ferro. Un sottomarino dismesso, l'Akishio, è posato a terra accanto all'edificio, e ci si entra dentro: la sala di controllo, le brande impilate tra i macchinari, i corridoi dove dovete girarvi di lato per passare. Capire il servizio sottomarino è una questione di starci dentro, e pochi posti lo permettono.\n\nLa passeggiata include anche i punti panoramici del porto, dove la moderna flotta della Forza di Autodifesa Marittima è di solito visibile ai suoi ormeggi.\n\nUna guida conta qui perché i musei etichettano pesantemente in giapponese e il contesto, industriale, militare e morale, è ciò che trasforma la visita in qualcosa di più del guardare modelli. I gruppi sono limitati a quindici persone.",
+  "highlights": [],
+  "included": [
+   "Guida locale di lingua inglese per tre ore",
+   "Percorso guidato a piedi nel distretto portuale di Kure",
+   "Visite al museo Yamato e al museo JMSDF di Kure",
+   "Punti panoramici del porto"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso ai musei",
+   "Trasporto da Hiroshima a Kure",
+   "Pasti e bevande",
+   "Prelievo e riaccompagno in hotel"
+  ]
+ },
+ "kyoto-machiya-table-style-tea-ceremony-fushimi": {
+  "title": "Cerimonia del tè in una machiya secolare a Fushimi, seduti a tavola",
+  "metaTitle": "Cerimonia del tè in stile ryurei a Fushimi, Kyoto",
+  "metaDescription": "Una cerimonia del tè completa in una casa tradizionale centenaria, in stile ryurei con tavolo e sedie, senza stare in ginocchio, con wagashi, una lezione di matcha e un souvenir calligrafico.",
+  "shortDescription": "Una cerimonia del tè completa in una casa tradizionale centenaria, in stile ryurei con tavolo e sedie, senza stare in ginocchio, con wagashi, una lezione di matcha e un souvenir calligrafico.",
+  "fullDescription": "Ciò che impedisce alla maggior parte dei visitatori di apprezzare una cerimonia del tè è il pavimento. Il seiza, la postura formale in ginocchio, diventa doloroso in pochi minuti per chiunque non ci sia cresciuto, e un'ora di rituale silenzioso è difficile da apprezzare mentre le gambe si addormentano.\n\nIl ryurei risolve il problema. È lo stile con tavolo e sedie, sviluppato nel diciannovesimo secolo quando il Giappone iniziò a ricevere ospiti stranieri e oggi ampiamente usato anche in Giappone stesso, una cerimonia completa e corretta condotta in piedi e seduti a tavola invece che sul tatami. Nulla viene sminuito; semplicemente non si soffre.\n\nL'ambientazione è una machiya preservata, una casa tradizionale in legno di Kyoto con più di un secolo, a Fushimi, nel sud della città, il distretto della produzione di sake, lontano dalla folla di Higashiyama. Il matcha proviene da una pluripremiata piantagione di tè di Uji, e dopo aver osservato la cerimonia frullate la vostra ciotola con utensili veri e una guida passo dopo passo, dove scoprite quanto polso serva per ottenere la schiuma giusta.\n\nDolci wagashi di stagione vengono serviti con esso, e una bevanda di benvenuto, sake, succo o tè, arriva prima. Vi portate a casa un souvenir calligrafico personalizzato, il vostro nome o una parola scelta scritta in kanji o hiragana.\n\nIl giardino della machiya è allestito per fotografie con accessori tradizionali, e secondo la stagione potreste anche vedere le arti collegate che circondano il tè: calligrafia, incenso kodo, e composizione floreale chabana.\n\nTre formati: piccolo gruppo, piccolo gruppo con noleggio kimono, oppure privato.",
+  "highlights": [],
+  "included": [
+   "Cerimonia del tè completa in stile ryurei con tavolo e sedie",
+   "Dolci wagashi giapponesi di stagione",
+   "Bevanda di benvenuto, sake, succo o tè",
+   "Lezione pratica di preparazione del matcha con matcha premium di Uji",
+   "Souvenir calligrafico personalizzato",
+   "Noleggio kimono tradizionale nell'opzione con kimono"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Trasporto a Fushimi",
+   "Cibo e bevande aggiuntivi"
+  ]
+ },
+ "amanohashidate-ine-funaya-day-tour-from-osaka-kyoto": {
+  "title": "Amanohashidate e le case galleggianti di Ine: una delle tre grandi vedute del Giappone",
+  "metaTitle": "Amanohashidate e Ine da Osaka o Kyoto",
+  "metaDescription": "Una giornata in pullman verso nord, sul mare del Giappone, la lingua di sabbia coperta di pini vista al contrario, e un villaggio di pescatori dove le case sono in piedi nell'acqua.",
+  "shortDescription": "Una giornata in pullman verso nord, sul mare del Giappone, la lingua di sabbia coperta di pini vista al contrario, e un villaggio di pescatori dove le case sono in piedi nell'acqua.",
+  "fullDescription": "Amanohashidate è uno dei Nihon Sankei, le tre vedute classicamente considerate le più belle del Giappone, insieme al torii fluttuante di Miyajima e alla baia di Matsushima. È una lingua di sabbia lunga tre chilometri e mezzo, coperta da diverse migliaia di pini, che attraversa quasi completamente una baia sulla costa del mare del Giappone, e attira visitatori fin dal diciassettesimo secolo, molto prima che il turismo esistesse come idea.\n\nL'usanza locale è guardarla al contrario. Si sta sul punto panoramico in alto, ci si piega avanti e si guarda indietro tra le gambe, a quel punto la lingua di sabbia sembra appesa nel cielo e il nome, ponte verso il paradiso, ha senso. Si chiama matanozoki e lo fanno tutti, senza imbarazzo.\n\nIne è la seconda metà e il piacere più tranquillo. È un villaggio di pescatori su una baia riparata dove circa 230 funaya, case con il garage per la barca a livello dell'acqua e gli alloggi sopra, stanno in una fila ininterrotta direttamente sull'acqua. Nulla è messo in scena; le persone vivono e pescano lì, e i riflessi delle facciate in legno in una baia calma nel tardo pomeriggio sono il motivo per cui i fotografi fanno il viaggio.\n\nAttenzione a cosa non è incluso. La funivia fino al punto panoramico di Amanohashidate e la barca turistica di Ine non sono nel prezzo di default; la guida può aiutarvi ad acquistarle una volta a bordo del pullman. I pasti sono anche esclusi.\n\nLe partenze avvengono dall'uscita 2 della stazione di Nipponbashi a Osaka o dall'area dei pullman turistici Hachijoguchi alla stazione di Kyoto, e la giornata dura circa dieci ore.",
+  "highlights": [],
+  "included": [
+   "Trasporto in pullman andata e ritorno da Osaka o Kyoto",
+   "Visita guidata all'area panoramica di Amanohashidate",
+   "Visita al villaggio di pescatori funaya di Ine"
+  ],
+  "notIncluded": [
+   "Funivia al punto panoramico di Amanohashidate",
+   "Biglietto della barca turistica funaya di Ine",
+   "Pasti",
+   "Spese personali"
+  ]
+ },
+ "kyoto-arashiyama-sagano-train-hozugawa-boat-onsen": {
+  "title": "Arashiyama con il treno Sagano, la barca sul fiume Hozugawa e un onsen per finire",
+  "metaTitle": "Arashiyama, treno Sagano e barca Hozugawa",
+  "metaDescription": "Il treno panoramico lungo la gola, la barca di ritorno sul fiume, il boschetto di bambù a piedi e una fonte termale alla fine, con entrambi i biglietti difficili da prenotare già inclusi.",
+  "shortDescription": "Il treno panoramico lungo la gola, la barca di ritorno sul fiume, il boschetto di bambù a piedi e una fonte termale alla fine, con entrambi i biglietti difficili da prenotare già inclusi.",
+  "fullDescription": "Arashiyama di solito si visita a piedi: il boschetto di bambù, il ponte, un tempio, e di nuovo sul treno. Questo la affronta invece come un anello attraverso la gola, ed è una giornata considerevolmente migliore.\n\nIl Sagano Romantic Train va per primo. È una linea preservata che corre lungo la gola di Hozugawa su rotaie che la ferrovia moderna ha abbandonato, in vagoni apertti ai lati, salendo tra le montagne con il fiume sotto. I biglietti si esauriscono con largo anticipo in autunno e nella stagione dei ciliegi, e sono inclusi qui.\n\nPoi tornate giù per la stessa gola sull'acqua. La discesa in barca sul fiume Hozugawa è spinta e remata da barcaioli che lavorano il fiume con pertiche, attraverso tratti di vera acqua bianca e lunghe pozze calme, e dura circa due ore. La prospettiva dall'acqua è completamente diversa da quella del treno sopra, motivo per cui vale la pena fare entrambe le cose in un solo giorno invece di scegliere.\n\nIl boschetto di bambù segue a piedi, gli steli che si innalzano e quella particolare luce verde filtrata che nessuna fotografia riproduce correttamente.\n\nUn onsen di Arashiyama chiude la giornata. L'ingresso alla fonte termale è opzionale e si paga separatamente se lo desiderate, ma dopo quattro ore e mezza di treno, barca e camminata è la conclusione giusta.\n\nUn'avvertenza onesta: sia il treno che la barca sono servizi di terze parti soggetti a meteo e condizioni del fiume. In inverno l'operatore offre un rimborso completo garantito sulle prenotazioni interessate, un accordo più equo della maggior parte. I gruppi sono limitati a nove persone e le guide lavorano in inglese e giapponese.",
+  "highlights": [],
+  "included": [
+   "Biglietto del Sagano Romantic Train",
+   "Biglietto della barca sul fiume Hozugawa",
+   "Passeggiata guidata nel boschetto di bambù di Arashiyama",
+   "Guida di lingua inglese o giapponese"
+  ],
+  "notIncluded": [
+   "Ingresso alla fonte termale (opzionale)",
+   "Pasti",
+   "Trasporto da e per il punto d'incontro",
+   "Spese personali"
+  ]
+ },
+ "kyoto-blacksmith-knife-making-workshop": {
+  "title": "Fucina un coltello da cucina giapponese da un fabbro di Kyoto",
+  "metaTitle": "Workshop di forgiatura coltelli a Kyoto",
+  "metaDescription": "Tre ore in una fucina attiva sulle colline a nord di Kyoto, uniforme da fabbro, martello e tenaglie, e un coltello fatto da voi a partire da acciaio grezzo da portare a casa.",
+  "shortDescription": "Tre ore in una fucina attiva sulle colline a nord di Kyoto, uniforme da fabbro, martello e tenaglie, e un coltello fatto da voi a partire da acciaio grezzo da portare a casa.",
+  "fullDescription": "I coltelli da cucina giapponesi sono il prodotto di una tecnica di forgiatura di spade riconvertita. Quando il governo Meiji proibì il porto di spade nel 1876, i fabbri che avevano passato generazioni a saldare per forgiatura acciaio duro e tenero si rivolsero alle lame da cucina, motivo per cui un buon coltello giapponese è laminato come una katana e perché prende un filo che nessun acciaio europeo riesce a tenere.\n\nQuesta sessione di tre ore è il processo reale, non una dimostrazione. Vi cambiate con l'uniforme da artigiano che i fabbri giapponesi indossano davvero, cosa che sembra teatrale e si rivela pratica, una fucina è calda e le scintille volano. Gli istruttori sono professionisti attivi nella produzione di coltelli, e iniziano con attrezzi e sicurezza: martello, tenaglie, molatrice, e i modi specifici in cui ognuno vi farà male se maneggiato con negligenza.\n\nPoi la forgiatura. Imparate cosa fa ogni fase all'acciaio, come il calore cambi la sua struttura, perché si colpisce dove si colpisce, cosa sta effettivamente correggendo la molatura, e lavorate la vostra lama attraverso tutta la sequenza. È un'attività fisica, calda, e considerevolmente più coinvolgente della maggior parte dei workshop, perché il materiale risponde.\n\nTutto è fornito: costume, attrezzi, materiali, asciugamano, acqua, e una scatola e una borsa per portare a casa il coltello finito. Un'opzione premium fa passare il manico al legno, che vale la differenza se avete intenzione di usarlo davvero.\n\nLo studio è a Yase, nel distretto di Sakyo, al margine settentrionale di Kyoto, ai piedi del monte Hiei, a circa venti minuti dal centro sulla linea Eizan, che è parte del fascino.\n\nUna nota pratica per i viaggiatori: un coltello non può stare nel bagaglio a mano. Metetelo nel bagaglio da stiva.",
+  "highlights": [],
+  "included": [
+   "Sessione di forgiatura di un coltello di tre ore con istruttori professionisti",
+   "Uniforme da fabbro",
+   "Tutti gli attrezzi e i materiali",
+   "Asciugamano e acqua",
+   "Scatola e borsa per portare a casa il coltello",
+   "Manico premium in legno con l'opzione di upgrade"
+  ],
+  "notIncluded": [
+   "Trasporto allo studio",
+   "Pasti",
+   "Spedizione del coltello"
+  ]
+ },
+ "nagoya-tokugawa-art-museum-guided-tour": {
+  "title": "Il museo d'arte Tokugawa con una guida: armature, abiti noh e la casa di uno shogun",
+  "metaTitle": "Museo d'arte Tokugawa a Nagoya con guida",
+  "metaDescription": "Tre ore nella collezione privata della famiglia Owari Tokugawa, con una guida che seleziona gli oggetti davanti ai quali vale la pena fermarsi.",
+  "shortDescription": "Tre ore nella collezione privata della famiglia Owari Tokugawa, con una guida che seleziona gli oggetti davanti ai quali vale la pena fermarsi.",
+  "fullDescription": "La maggior parte dei musei dei samurai mostra armi. Il museo d'arte Tokugawa a Nagoya mostra una casa, i beni del ramo Owari, il più alto dei tre rami Tokugawa, mantenuti insieme dal periodo Edo invece di essere assemblati in seguito da collezionisti. Questa continuità è ciò che lo rende insolito: sono gli oggetti che una famiglia ha davvero posseduto e usato.\n\nLe spade e le armature ci sono, e sono eccezionali. Ma il vero argomento della collezione riguarda cosa accadde alla classe dei guerrieri una volta cessati i combattimenti. Lo shogunato Tokugawa mantenne il Giappone in pace per due secoli e mezzo, e gli uomini che erano stati comandanti sul campo di battaglia diventarono amministratori, patroni e conoscitori. Si vede questa trasformazione negli oggetti: utensili da tè scelti con cura ossessiva, costumi e strumenti noh, pannelli dipinti, mobili laccati, e corredi nuziali assemblati su una scala difficile da comprendere.\n\nUna guida conta qui più che in un castello. Le etichette del museo presuppongono un contesto che un visitatore non ha, e tre ore con qualcuno che seleziona una manciata di oggetti chiave e ne spiega le storie vale più di un'intera giornata passata a leggere cartelli. Ciò che è esposto cambia con il calendario delle mostre, quindi i pezzi specifici variano a seconda della stagione.\n\nIl gruppo è limitato a otto persone e la guida lavora in inglese. Il museo si trova a Tokugawacho, nell'est di Nagoya, vicino a Tokugawaen, un giardino giapponese sul sito della residenza di ritiro della famiglia, che vale un'ora in più se il tempo è buono.",
+  "highlights": [],
+  "included": [
+   "Visita guidata al museo d'arte Tokugawa",
+   "Accesso alle esposizioni di manufatti della famiglia Tokugawa",
+   "Contesto sul periodo Edo e la cultura samurai",
+   "Guida di lingua inglese con competenza in storia giapponese"
+  ],
+  "notIncluded": [
+   "Trasporto al museo",
+   "Cibo e bevande",
+   "Ingresso al giardino Tokugawaen",
+   "Prelievo e riaccompagno in hotel"
+  ]
+ },
+ "uji-tea-museum-and-matcha-grinding-experience": {
+  "title": "Macina il tuo matcha a Uji: il museo del tè a Chazuna",
+  "metaTitle": "Macinatura del matcha a Uji",
+  "metaDescription": "Un'ora nella città che fornisce il miglior tè verde del Giappone da otto secoli, ingresso al museo più macinatura del vostro matcha su una macina di pietra.",
+  "shortDescription": "Un'ora nella città che fornisce il miglior tè verde del Giappone da otto secoli, ingresso al museo più macinatura del vostro matcha su una macina di pietra.",
+  "fullDescription": "Uji è il motivo per cui il tè giapponese è tè giapponese. Le piantagioni qui furono stabilite nel tredicesimo secolo, la tecnica di ombreggiatura che produce gyokuro e matcha fu sviluppata in questa valle, e la città fornisce ancora il tè usato nella cerimonia formale in tutto il paese. Si trova venti minuti a sud di Kyoto e la maggior parte dei visitatori la attraversa per Byodo-in senza mai occuparsi del tè.\n\nChazuna è il museo costruito per rimediare, all'interno del Parco storico del tè e di Uji. Le esposizioni sono interattive e digitali piuttosto che vetrine, come viene coltivata e processata la foglia, da dove viene il tè di Uji, e la domanda pratica che tutti vogliono davvero vedere risposta, cioè cosa separi il gyokuro dal sencha e come preparare entrambi senza rovinarli. La sala di storia copre la città stessa, incluso il padiglione della fenice di Byodo-in che è sul retro della moneta da dieci yen.\n\nLa parte che vale il viaggio è la macinatura. Il matcha non viene polverizzato in una macchina per il lavoro di cerimonia; viene macinato su una macina di pietra, lentamente, e girate voi stessi la maniglia. Richiede molto più tempo di quanto chiunque si aspetti, un'ora di macinatura produce circa quaranta grammi, e capirlo è ciò che fa avere senso al prezzo di un buon matcha. Bevete ciò che preparate.\n\nL'istruzione è disponibile in inglese e giapponese, il gruppo è limitato a venti persone, e il locale è accessibile in sedia a rotelle. A questo prezzo è una delle esperienze culturali più economiche nell'area di Kyoto, e si combina naturalmente con Byodo-in e una passeggiata lungo il fiume Uji.",
+  "highlights": [],
+  "included": [
+   "Biglietto per il museo Chazuna",
+   "Esperienza di macinatura del matcha su una macina di pietra",
+   "Istruttore in inglese o giapponese",
+   "Il matcha che preparate"
+  ],
+  "notIncluded": [
+   "Trasporto a Uji",
+   "Cibo e bevande aggiuntivi",
+   "Ingresso a Byodo-in",
+   "Prelievo e riaccompagno in hotel"
+  ]
+ },
+ "kyoto-zazen-meditation-private-temple-with-monk": {
+  "title": "Zazen con un monaco in un tempio di Kyoto chiuso al pubblico",
+  "metaTitle": "Zazen con un monaco a Kyoto",
+  "metaDescription": "Novanta minuti di meditazione zen seduta insegnata da un monaco in un tempio di Higashiyama che i visitatori normalmente non possono varcare, concludendo con tè nel giardino.",
+  "shortDescription": "Novanta minuti di meditazione zen seduta insegnata da un monaco in un tempio di Higashiyama che i visitatori normalmente non possono varcare, concludendo con tè nel giardino.",
+  "fullDescription": "Lo zen arrivò in Giappone dalla Cina nel dodicesimo secolo e Kyoto è dove attecchì, ma i templi che lo praticano seriamente sono per lo più chiusi ai visitatori, il che è la parte frustrante nel tentare di incontrare lo zen nella città più associata ad esso.\n\nQuesta sessione si svolge dentro uno di quei templi. Non è sul circuito pubblico, entrate con una guida, e la stanza non viene condivisa con una fila di turisti.\n\nUn monaco la guida. C'è una breve introduzione allo zen e al suo posto nella cultura giapponese, poi una vera lezione sullo zazen, la meditazione seduta che costituisce l'intera pratica dello zen Soto, che tratta postura, respirazione, cosa fare con gli occhi, e a cosa serve davvero la pratica. Poi vi sedete. È più difficile di quanto suoni e la difficoltà è il punto: l'istruzione è smettere di gestire i propri pensieri e semplicemente lasciarli passare, cosa che quasi nessuno riesce al primo tentativo, e il monaco lo dirà apertamente.\n\nDopo c'è il tè, guardando i giardini del tempio, e tempo per fare il tipo di domande che vengono in mente solo dopo averlo provato. Fotografie con il monaco e all'interno del tempio sono permesse, cosa inusuale e che vale la pena avere.\n\nI gruppi sono limitati a nove persone, ed è disponibile una sessione privata se preferite avere l'attenzione del monaco solo per voi. L'ingresso al tempio è incluso. L'incontro è al parco Kodaiji a Higashiyama, la guida aspetta sul lato nord, e il tempio è a breve distanza a piedi da lì. Il percorso è accessibile in sedia a rotelle.",
+  "highlights": [],
+  "included": [
+   "Ingresso a un tempio non aperto al pubblico generale",
+   "Lezione di un monaco sui principi e la tecnica dello zazen",
+   "Pratica guidata di zazen",
+   "Tè con vista sui giardini del tempio",
+   "Guida di lingua inglese"
+  ],
+  "notIncluded": [
+   "Trasporto al punto d'incontro",
+   "Pasti",
+   "Prelievo e riaccompagno in hotel"
+  ]
+ },
+ "izu-peninsula-day-trip-from-tokyo-mount-omuro-jogasaki": {
+  "title": "La penisola di Izu da Tokyo: il monte Omuro, la costa lavica di Jogasaki e Shuzenji",
+  "metaTitle": "Penisola di Izu da Tokyo",
+  "metaDescription": "Una giornata sulla costa che la maggior parte dei visitatori di Tokyo non raggiunge mai, una seggiovia su un vulcano erboso, un ponte sospeso sopra scogliere di lava, e una città termale chiamata Piccola Kyoto.",
+  "shortDescription": "Una giornata sulla costa che la maggior parte dei visitatori di Tokyo non raggiunge mai, una seggiovia su un vulcano erboso, un ponte sospeso sopra scogliere di lava, e una città termale chiamata Piccola Kyoto.",
+  "fullDescription": "Quasi ogni gita giornaliera a sud di Tokyo va a Hakone o Kamakura. Izu è più lontana, più tranquilla e geologicamente più strana, ed è il motivo per fare questa invece di una quinta versione dei laghi del Fuji.\n\nIl monte Omuro è la prima tappa e sembra sbagliato nel modo migliore: un vulcano a ciotola rovesciata perfettamente simmetrico, alto 580 metri, interamente coperto d'erba perché l'intera superficie viene bruciata una volta all'anno in un fuoco controllato ripetuto da sette secoli. Una seggiovia sale fino al bordo, e dalla cima si ha una vista a 360 gradi sul Fuji da un lato e le isole di Izu disseminate in mare dall'altro.\n\nSegue la costa di Jogasaki. Qui una colata lavica dell'Omuro incontrò il Pacifico e si raffreddò in scogliere colonnari, e il ponte sospeso di Kadowaki è teso attraverso un varco tra di esse, quarantotto metri di passerella con il mare che si muove sotto. È più emozionante di quanto le fotografie suggeriscano.\n\nShuzenji chiude la giornata, una città termale su una gola fluviale con ponti rossi, un sentiero di bambù e un tempio fondato nel nono secolo, con un fascino tale da essere chiamata regolarmente una Piccola Kyoto.\n\nIl prelievo in hotel è incluso all'interno dei quattro distretti centrali di Tokyo, Shinjuku, Chiyoda, Chuo e Taito, con un punto d'incontro designato organizzato per chi alloggia fuori da questi. Il prelievo avviene tra le 8:00 e le 8:45 ed è confermato il giorno prima, poiché si tratta di un veicolo condiviso.\n\nI pasti non sono inclusi. Esiste una versione di due giorni che aggiunge un pernottamento con colazione in camera doppia, la scelta migliore se volete godervi Shuzenji con calma invece di attraversarla.",
+  "highlights": [],
+  "included": [
+   "Trasporto andata e ritorno da Tokyo con veicolo privato",
+   "Servizio di guidatore",
+   "Prelievo in hotel nei quattro distretti centrali di Tokyo",
+   "Una notte di pernottamento in camera doppia con colazione (nell'opzione di due giorni)"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Attività opzionali e ingressi alle attrazioni nelle destinazioni",
+   "Spese personali",
+   "Assicurazione di viaggio"
+  ]
+ },
  "kandy-nuwara-eliya-or-ambewala-raiway-station": {
   "title": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya o Ambewela",
   "metaTitle": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya...",
