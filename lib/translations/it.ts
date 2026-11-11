@@ -14878,6 +14878,90 @@ export const IT_TOURS: Record<string, TourT> = {
    "Trasporto alla casa da tè di Gion e copie digitali oltre a quanto organizzato con il fotografo non sono incluse"
   ]
  },
+ "kyoto-photoshoot-photography-tour": {
+  "title": "Servizio fotografico da maiko geisha a Gion, Kyoto",
+  "metaTitle": "Servizio fotografico da maiko geisha a Gion",
+  "metaDescription": "La casa da tè che ospita questa trasformazione risale all'era Taisho, un dettaglio che conta più di quanto sembri, non entrate in uno studio moderno costruito per sembrare antico, ma vi sedete in un edificio genuinamente storico di Gion.",
+  "shortDescription": "La casa da tè che ospita questa trasformazione risale all'era Taisho, un dettaglio che conta più di quanto sembri, non entrate in uno studio moderno costruito per sembrare antico, ma vi sedete in un edificio genuinamente storico di Gion.",
+  "fullDescription": "La casa da tè che ospita questa trasformazione risale all'era Taisho, un dettaglio che conta più di quanto sembri, non entrate in uno studio moderno costruito per sembrare antico, vi sedete in un edificio genuinamente storico di Gion dove il tatami, i paraventi scorrevoli e il cortile silenzioso fanno parte del tessuto del quartiere da un secolo. Il processo stesso richiede tempo vero e abilità vera: un make-up artist professionista costruisce l'iconico fondotinta bianco oshiroi e i distintivi tratti rosso e nero attorno agli occhi e alle labbra associati alle maiko, mentre un vestitore vi avvolge in un ensemble completo di kimono, completo dell'elaborato obi legato sulla schiena e degli ornamenti per capelli kanzashi stagionali. Questo non è un cambio di costume di cinque minuti, solo la vestizione richiede tipicamente quasi un'ora. Una volta trasformati, entrate in una vera stanza di tatami per una sessione fotografica professionale, dove il fotografo sa come posare la pesante silhouette del kimono e lavorare con la luce naturale soffusa per cui sono note le vecchie case machiya di Gion. Ve ne andrete con quattro foto stampate in formato 2L, scelte dalla sessione, pronte da conservare o incorniciare. Ciò che distingue questa esperienza dalle generiche foto con noleggio kimono sparse per la città è l'ambientazione e la specificità, questa è costruita specificamente attorno allo stile maiko, in una vera casa da tè storica nel quartiere dove quella tradizione ha avuto origine. È un'esperienza più lenta e più ponderata, e si fotografa di conseguenza. Prenotatela come un vero ricordo da Gion, non solo una tappa veloce per un selfie.",
+  "highlights": [],
+  "included": [
+   "Stile maiko completo (trucco, kimono, capelli), sessione fotografica professionale, e quattro foto stampate in formato 2L"
+  ],
+  "notIncluded": [
+   "Copie digitali di foto aggiuntive oltre alle quattro stampe non sono incluse salvo acquisto separato"
+  ]
+ },
+ "kyoto-private-tour": {
+  "title": "Tour privato di una giornata a Kyoto",
+  "metaTitle": "Tour privato di una giornata a Kyoto",
+  "metaDescription": "Una giornata che comprende gli infiniti cancelli torii vermigli di Fushimi Inari, il boschetto di bambù di Arashiyama, il padiglione dorato di Kinkaku-ji, il quartiere delle geisha di Gion, e il palco in legno di Kiyomizu-dera.",
+  "shortDescription": "Una giornata che comprende gli infiniti cancelli torii vermigli di Fushimi Inari, il boschetto di bambù di Arashiyama, il padiglione dorato di Kinkaku-ji, il quartiere delle geisha di Gion, e il palco in legno di Kiyomizu-dera.",
+  "fullDescription": "Una giornata che comprende gli infiniti cancelli torii vermigli di Fushimi Inari, il boschetto di bambù di Arashiyama, il padiglione dorato di Kinkaku-ji, il quartiere delle geisha di Gion, e il palco in legno di Kiyomizu-dera sembra impossibile da realizzare senza sprecare metà del vostro tempo in trasferimenti, a meno che non abbiate un'auto privata e un conducente di lingua inglese che sappia esattamente come sequenziarla. Questo è ciò che risolve questo tour. I siti principali di Kyoto sono sparsi per la città in un modo che punisce chiunque si affidi solo a treni e autobus, poiché Fushimi Inari si trova a sud, Arashiyama a ovest, e Kinkaku-ji a nord-ovest, con Gion e Kiyomizu-dera raggruppati nell'est storico. Un conducente privato elimina i collegamenti sprecati e vi permette di colpire ogni sito nel momento più intelligente della giornata, salendo in parte sui mille cancelli torii di Fushimi Inari presto prima che si formi la folla, girando per il corridoio di bambù di Arashiyama mentre la luce filtra verde tra gli steli, poi concludendo tra i vicoli preservati di Higashiyama vicino a Kiyomizu-dera mentre la luce del pomeriggio trasforma tutto in oro. Con una finestra di 6-10 ore e fino a quattro passeggeri per veicolo, c'è vero spazio per soffermarsi dove volete. Il vostro conducente non si limita a guidare, è una fonte sempre disponibile di contesto su ciò che state vedendo. Per gruppi che vogliono coprire a fondo i siti essenziali di Kyoto in un solo giorno, senza la stanchezza di navigare i collegamenti dei trasporti pubblici, questo tour in auto privata trasforma una lista di desideri ambiziosa in una giornata fluida e ben calibrata.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato e conducente di lingua inglese per l'intera durata del tour"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso, pasti, e qualsiasi spesa personale nei siti visitati non sono inclusi"
+  ]
+ },
+ "kyoto-private-tour-heritage": {
+  "title": "Tour privato in auto di un giorno a Kyoto",
+  "metaTitle": "Tour privato in auto di un giorno a Kyoto",
+  "metaDescription": "I siti più importanti di Kyoto sono sparsi in una città che non sempre collabora con gli orari dei trasporti pubblici, esattamente il problema che risolve un'auto privata.",
+  "shortDescription": "I siti più importanti di Kyoto sono sparsi in una città che non sempre collabora con gli orari dei trasporti pubblici, esattamente il problema che risolve un'auto privata.",
+  "fullDescription": "I siti più importanti di Kyoto sono sparsi in una città che non sempre collabora con gli orari dei trasporti pubblici, esattamente il problema che risolve un'auto privata. Questo tour con autista per l'intera giornata racchiude insieme tre elementi essenziali della città, il complesso templare collinare di Kiyomizu-dera, gli infiniti cancelli torii di Fushimi Inari, e i boschetti di bambù di Arashiyama, in un'unica giornata senza i cambi, le code ai biglietti e gli orari ferroviari che di solito consumano ore di un itinerario indipendente. Per un gruppo di due a sei persone che viaggiano insieme, dividere il costo di un'auto privata e di un conducente spesso risulta efficiente, con il beneficio aggiunto del comfort climatizzato tra una tappa e l'altra e un conducente che sa quali strade secondarie evitano il famigerato traffico della stagione turistica di Kyoto. La giornata tipicamente si apre con Kiyomizu-dera, il cui palco in legno sporge sul pendio offrendo vedute panoramiche, poi si dirige a Fushimi Inari per la camminata tra i tunnel di cancelli vermigli che salgono sul monte Inari. Da lì è un viaggio più lungo verso ovest fino ad Arashiyama, dove gli steli imponenti del boschetto di bambù creano uno dei corridoi naturali più fotografati del Giappone, con l'opzione di aggiungere il treno romantico Sagano per uno strato extra alla sosta. Poiché l'auto e il conducente sono vostri per la giornata, l'ordine e il ritmo possono adattarsi alla vostra energia e ai vostri interessi. Questa è meno un tour fisso e più una soluzione di trasporto privato avvolta attorno ai grandi classici di Kyoto, costruita per viaggiatori che vogliono vedere tutto in un giorno senza cedere ore alla logistica.",
+  "highlights": [],
+  "included": [
+   "Auto privata con conducente per l'intera giornata che comprende tre siti principali di Kyoto, con prelievo e riaccompagno in hotel"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso a templi e santuari, pasti, e il biglietto opzionale del treno romantico Sagano non sono inclusi"
+  ]
+ },
+ "kyoto-sommelier-guided-tour": {
+  "title": "Degustazione di sake a Kyoto con un sommelier del sake",
+  "metaTitle": "Degustazione di sake a Kyoto con un sommelier",
+  "metaDescription": "Incastonata in un angolo tranquillo vicino a Sanjo, questa sala di degustazione elimina l'intimidazione che di solito circonda il sake e la sostituisce con una vera educazione, offerta da un sommelier certificato del sake.",
+  "shortDescription": "Incastonata in un angolo tranquillo vicino a Sanjo, questa sala di degustazione elimina l'intimidazione che di solito circonda il sake e la sostituisce con una vera educazione, offerta da un sommelier certificato del sake.",
+  "fullDescription": "Incastonata in un angolo tranquillo vicino a Sanjo, questa sala di degustazione elimina l'intimidazione che di solito circonda il sake e la sostituisce con una vera educazione, offerta da un sommelier certificato del sake che gira per la sala in kimono e ama chiaramente il suo argomento. Kyoto produce sake da oltre mille anni grazie all'acqua di pozzo incontaminata che scorre dalle montagne circostanti, e Fushimi, appena a sud del centro città, resta uno dei distretti di produzione più celebrati del Giappone. Questa sessione usa sette sake scelti con cura come arco di degustazione, muovendosi da stili ginjo leggeri e profumati attraverso junmai più ricchi fino a qualcosa invecchiato o inusuale, così ve ne andate capendo la gamma piuttosto che avendo semplicemente assaggiato sette coppe. Ogni versamento viene accompagnato da uno stuzzichino abbinato, scelto specificamente per far emergere sapori che da soli risultano piatti. Il sommelier spiega i rapporti di lucidatura, il ruolo della muffa koji, perché la temperatura di servizio cambi completamente il carattere di un sake, e come leggere davvero un'etichetta in un negozio di liquori a casa. Le domande sono benvenute per tutto il tempo, e il formato in piccolo gruppo significa che non competete per l'attenzione. Dura circa 80 minuti, abbastanza a lungo da sembrare sostanziale senza trasformarsi in una maratona. Che arriviate non sapendo nulla di sake o pensiate di conoscere già la differenza tra junmai e daiginjo, ve ne andrete con un palato più affinato. Prenotatela come una deviazione del primo serata prima di cena nelle vie dei ristoranti circostanti di Sanjo.",
+  "highlights": [],
+  "included": [
+   "Degustazione di sette sake con stuzzichini abbinati, condotta da un sommelier del sake professionista"
+  ],
+  "notIncluded": [
+   "Bevande o cibo aggiuntivi oltre alla degustazione in programma non sono inclusi"
+  ]
+ },
+ "kyoto-stitching-guided-tour": {
+  "title": "Kyoto: laboratorio di ricamo sashiko",
+  "metaTitle": "Laboratorio di ricamo sashiko a Kyoto",
+  "metaDescription": "Il sashiko è uno di quegli artigianati giapponesi che sembra decorativo finché non si scopre cosa fosse davvero: una tecnica di sopravvivenza.",
+  "shortDescription": "Il sashiko è uno di quegli artigianati giapponesi che sembra decorativo finché non si scopre cosa fosse davvero: una tecnica di sopravvivenza.",
+  "fullDescription": "Il sashiko è uno di quegli artigianati giapponesi che sembra decorativo finché non si scopre cosa fosse davvero: una tecnica di sopravvivenza. Le famiglie di agricoltori e pescatori nelle regioni fredde e povere di cotone del Giappone usavano punti correnti in filo bianco su tessuto indaco per rinforzare e rammendare i tessuti usurati, e nel corso delle generazioni il lavoro di riparazione divenne una forma d'arte a sé stante, motivi geometrici come la foglia di canapa e le onde intrecciate, ognuno con il proprio nome e la propria storia. Questo laboratorio si trova in un piccolo studio nel quartiere artistico di Kyoto, gestito da persone che chiaramente ricamano per vivere, non solo per fare demo. Imparerete la tecnica base del punto corrente su vero tessuto sashiko, lavorerete uno dei motivi geometrici tradizionali al vostro ritmo, e ve ne andrete con un pezzo finito che avete davvero realizzato. L'istruttore mantiene il gruppo piccolo abbastanza da dare una vera correzione individuale, cosa che conta qui perché il fascino del sashiko sta nella regolarità dei punti, non solo nel finire in fretta. Tra una cucitura e l'altra, avete tempo per guardare gli articoli sashiko dello studio stesso, dandovi un'idea di come si presenti l'artigianato a livello professionale. Questo non è un laboratorio di massa innestato su un negozio di souvenir; è un'introduzione genuina a una tradizione tessile che sta vivendo una vera rinascita tra i designer giapponesi più giovani. Se volete un pomeriggio a Kyoto che vi lasci con un'abilità e un oggetto fatto a mano invece che solo foto, questo è adatto, e con 2,5 ore si abbina facilmente a una passeggiata tra gallerie o caffè vicini subito dopo.",
+  "highlights": [],
+  "included": [
+   "Tutti i materiali, gli strumenti e le istruzioni necessari per completare il vostro pezzo sashiko"
+  ],
+  "notIncluded": [
+   "Trasporto allo studio e qualsiasi articolo aggiuntivo acquistato dal negozio non sono inclusi"
+  ]
+ },
+ "kyoto-temple-grounds-full-day-tour": {
+  "title": "I vicoli segreti e gli angoli nascosti di Kyoto: escursione privata di un giorno da Nagoya",
+  "metaTitle": "Angoli nascosti di Kyoto da Nagoya",
+  "metaDescription": "Escursione privata di un'intera giornata da Nagoya ai vicoli più tranquilli di Higashiyama, ai terreni templari e agli angoli di Arashiyama a Kyoto.",
+  "shortDescription": "Escursione privata di un'intera giornata da Nagoya ai vicoli più tranquilli di Higashiyama, ai terreni templari e agli angoli di Arashiyama a Kyoto.",
+  "fullDescription": "Kyoto è stata la capitale imperiale del Giappone per oltre mille anni, e mentre i suoi templi più famosi attirano folle ogni giorno, un'escursione privata di un'intera giornata da Nagoya permette di rallentare e vedere gli angoli più tranquilli che i locali attraversano davvero. Questo tour è costruito attorno a tre zone distinte della vecchia città: i vicoli preservati di Higashiyama, terreni templari pacifici lontani dai circuiti principali, e gli angoli meno visitati di Arashiyama oltre il suo famoso boschetto di bambù.\n\nLe strade pavimentate in pietra di Higashiyama, fiancheggiate da case machiya in legno, case da tè e piccole botteghe artigianali, seguono ancora la loro disposizione storica vicino alla base delle montagne di Higashiyama, e una guida privata può farvi percorrere i vicoli secondari che collegano le sue strade più note senza la folla incanalata lungo le strade di accesso principali. Da lì, la giornata continua verso terreni templari scelti per la calma piuttosto che per la fama, dove cancelli torii, giardini di muschio e sale silenziose offrono un senso più contemplativo della storia religiosa della città.\n\nLa giornata si chiude ad Arashiyama, alla periferia occidentale di Kyoto, dove la guida vi conduce oltre il boschetto di bambù nei suoi angoli meno fotografati: sentieri lungo il fiume, giardini templari più piccoli, e le colline circostanti che danno al quartiere la sua reputazione di ritiro dalla vita cittadina anche per gli stessi residenti di Kyoto. Essendo il tour privato e in partenza da Nagoya, circa 15 ore porta a porta, il ritmo e il percorso possono adattarsi agli interessi del vostro gruppo, rendendolo adatto a viaggiatori che hanno già visto le icone di Kyoto e vogliono uno sguardo più profondo e senza fretta su ciò che le circonda.",
+  "highlights": [],
+  "included": [
+   "Guida privata di lingua inglese, trasporto in veicolo privato tra Nagoya e Kyoto, itinerario di un'intera giornata tra Higashiyama, terreni templari e Arashiyama"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso a templi e giardini dove applicabili, pasti e bevande, spese personali, mance"
+  ]
+ },
  "nagoya-takoyaki-cooking-class": {
   "title": "Takoyaki da zero a Nagoya: pastella, polpo e il giro",
   "metaTitle": "Corso di cucina del takoyaki a Nagoya",
