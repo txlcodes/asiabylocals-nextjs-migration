@@ -16156,6 +16156,229 @@ export const IT_TOURS: Record<string, TourT> = {
    "Servizio fotografico (solo autoscatto), trasporto fino a Naramachi"
   ]
  },
+ "naramachi-premium-tour": {
+  "title": "Noleggio premium di kimono per due a Nara, a pochi passi dalla stazione Kintetsu Nara",
+  "metaTitle": "Kimono premium per due a Nara",
+  "metaDescription": "Noleggio e vestizione premium di kimono per un uomo e una donna insieme, un solo prezzo copre la coppia, non ogni persona.",
+  "shortDescription": "Noleggio e vestizione premium di kimono per un uomo e una donna insieme, un solo prezzo copre la coppia, non ogni persona.",
+  "fullDescription": "Prezzato per due persone insieme, questo è il piano premium di kimono di Minori per un uomo e una donna, la tariffa indicata copre la coppia, non ogni persona, quindi una coppia prenota una sola volta. È un servizio di noleggio e vestizione piuttosto che un tour: lo staff vi veste, e il resto della giornata è vostro da passare come preferite. Ciascuno di voi scegli dalla gamma premium e riceve un set completo, kimono, obi a metà larghezza, calzini tabi, sandali zori, una borsa e ornamenti per capelli, con l'acconciatura semplice femminile incluso. Il negozio non addebita nulla in più per la coordinazione, e non c'è pressione a passare a un piano superiore una volta dentro.\n\nMinori si trova al piano terra al 43-1 Takama-cho, circa trenta secondi dall'Uscita 7S della stazione Kintetsu Nara e tredici minuti a piedi da JR Nara. Quella posizione è l'argomento pratico per il piano: una volta vestiti, siete a dieci minuti a piedi dal Parco di Nara, dove oltre mille cervi sika selvatici vagano come messaggeri shintoisti protetti e Tesoro Naturale Nazionale. Tra negozio e parco si trovano i vicoli stretti del periodo Edo di Naramachi con case machiya e piccoli caffè, dove la maggior parte delle coppie finisce per scattarsi le proprie fotografie. Kofukuji, Gangoji, Todaiji e Kasuga Taisha, quest'ultimo fondato nel 768 e costeggiato da migliaia di lanterne donate, sono tutti raggiungibili nella stessa passeggiata.\n\nDue avvertenze prima di prenotare. La fotografia non fa parte di nessun piano di noleggio; Minori vende sessioni fotografiche come prodotti separati, quindi portate la vostra macchina fotografica o prenotatene una di quelle invece. E l'operatore non pubblica nessun orario di rientro o fine noleggio, quindi concordatelo direttamente con il negozio quando prenotate. I prezzi sulla pagina dell'operatore sono indicati prima dell'imposta giapponese sui consumi. Nei mesi estivi la linea premium viene fornita come yukata, la versione in cotone senza fodera, piuttosto che un kimono foderato.",
+  "highlights": [
+   "Un solo prezzo copre entrambe le persone, un set premium di kimono per un uomo e una donna",
+   "Coordinazione completa senza costi aggiuntivi: obi, tabi, zori, borsa e ornamenti per capelli",
+   "Acconciatura semplice femminile incluso",
+   "Trenta secondi dall'Uscita 7S della stazione Kintetsu Nara, dieci minuti a piedi dal Parco di Nara",
+   "I vicoli machiya del periodo Edo di Naramachi iniziano a poche strade dalla porta"
+  ],
+  "included": [
+   "Kimono premium maschile/femminile (estate: yukata); obi a metà larghezza (cintura del kimono); acconciatura semplice femminile; noleggio accessori kimono, coordinazione completa inclusi borsa, scarpe, calzini e accessori per capelli."
+  ],
+  "notIncluded": [
+   "Imposta sui consumi (tutti i prezzi sono indicati +tasse). La fotografia non è incluso nei piani di noleggio (vedi i prodotti separati Photo Plan). Nient'altro pubblicato."
+  ]
+ },
+ "naramachi-professional-mini-tour": {
+  "title": "Noleggio yukata estivo a Nara con vestizione professionale",
+  "metaTitle": "Yukata estivo a Nara con vestizione professionale",
+  "metaDescription": "Noleggio di yukata estivo per persona con obi Nagoya e vestizione professionale, a un minuto dalla stazione Kintetsu Nara.",
+  "shortDescription": "Noleggio di yukata estivo per persona con obi Nagoya e vestizione professionale, a un minuto dalla stazione Kintetsu Nara.",
+  "fullDescription": "Lo yukata è un kimono di cotone senza fodera fatto per il clima caldo, e questo piano è la linea estiva di Minori, realisticamente un prodotto da giugno a settembre. Non prenotatelo aspettandovi un kimono invernale foderato; se visitate Nara fuori dai mesi caldi, chiedete al negozio i suoi piani standard di kimono invece. Dentro la sua stagione l'attrattiva è semplice: il cotone respira, gli strati sono più leggeri della seta formale, e potete camminare tutto il pomeriggio nel caldo di Nara senza appassire. La tariffa è indicata per persona, quindi amici, viaggiatori solitari e famiglie prenotano ciascuno per sé.\n\nIl set è completo piuttosto che ridotto: scegliete dalla gamma premium e siete vestiti dallo staff con un obi Nagoya di alta qualità, calzini tabi, zori, una borsa e ornamenti per capelli, con un'acconciatura semplice incluso per le donne. La vestizione professionale è la parte che vale la pena pagare, poiché un obi è scomodo da annodare da soli e uno slacciato si allenta entro un'ora di camminata. Il negozio è al piano terra al 43-1 Takama-cho, un minuto dall'Uscita 7S della stazione Kintetsu Nara.\n\nDove andate dopo è una vostra scelta, nessuno vi guida. Il Parco di Nara è a dieci minuti a piedi, casa di oltre mille cervi sika selvatici, protetti come messaggeri degli dei shintoisti e designati Tesoro Naturale Nazionale nel 1957. Le strade mercantili del periodo Edo di Naramachi si trovano tra negozio e parco, e Kofukuji, Gangoji, Todaiji e Kasuga Taisha, il cui recinto del 768 d.C. è costeggiato di lanterne donate, sono tutti raggiungibili a piedi in un pomeriggio nella città che fu la prima capitale permanente del Giappone dal 710. La fotografia non è incluso nei piani di noleggio, i prezzi escludono l'imposta sui consumi, e nessun orario di rientro è pubblicato, concordatene uno con il negozio. Poiché l'operatore elenca lo yukata dentro la sua gamma premium di kimono, confermate l'indumento esatto al momento della prenotazione.",
+  "highlights": [
+   "Yukata di cotone senza fodera, la linea estiva dell'operatore, sensata nel caldo di Nara",
+   "Obi Nagoya di alta qualità annodato da personale di vestizione professionale",
+   "Prezzato per persona, con acconciatura semplice femminile incluso",
+   "Calzini tabi, zori, borsa e accessori per capelli senza costi aggiuntivi",
+   "Dieci minuti a piedi dal Parco di Nara e dai suoi cervi selvatici protetti"
+  ],
+  "included": [
+   "Kimono premium maschile/femminile (estate: yukata); obi Nagoya di alta qualità; acconciatura semplice femminile; noleggio accessori kimono, coordinazione completa inclusi borsa, scarpe, calzini e accessori per capelli."
+  ],
+  "notIncluded": [
+   "Imposta sui consumi (tutti i prezzi sono indicati +tasse). La fotografia non è incluso nei piani di noleggio (vedi i prodotti separati Photo Plan). Nient'altro pubblicato."
+  ]
+ },
+ "osaka-brokenness-guided-tour": {
+  "title": "Osaka: laboratorio di kintsugi, la bellezza nella rottura",
+  "metaTitle": "Laboratorio di kintsugi a Osaka",
+  "metaDescription": "Imparate l'arte del kintsugi nello studio di un artigiano. Riparate ceramiche rotte con laccatura e polvere dorata, e portate a casa un pezzo unico con una storia di resilienza.",
+  "shortDescription": "Imparate l'arte del kintsugi nello studio di un artigiano. Riparate ceramiche rotte con laccatura e polvere dorata, e portate a casa un pezzo unico con una storia di resilienza.",
+  "fullDescription": "Il kintsugi è l'arte giapponese di riparare ceramiche rotte con laccatura e polvere dorata, e questo laboratorio di tre ore vi permette di praticarlo voi stessi dentro lo studio funzionante di un artigiano a Osaka piuttosto che semplicemente guardare una demostrazione. La filosofia dietro l'arte è ciò che rende la sessione memorabile per le persone: invece di nascondere una crepa, il kintsugi la traccia in oro, trattando la rottura come parte della storia dell'oggetto piuttosto che un difetto da camuffare. Il vostro istruttore vi guida attraverso il processo passo per passo, preparando la ceramica rotta, applicando la laccatura lungo le linee di frattura, poi spolverando le giunture con polvere dorata così la riparazione brilla contro il rivestimento. Poiché lavorate in un vero studio con un professionista che vi guida, il ritmo resta senza fretta e pratico, e le domande su tecnica, materiali e le radici della tradizione trovano risposta mentre lavorate piuttosto che in una lezione preliminare. C'è qualcosa di silenziosamente meditativo nel lavoro stesso: la gestione attenta dei pezzi, il lento tracciare di ogni crepa, il momento in cui l'oro catturata la luce per la prima volta. Alla fine portate a casa il pezzo che avete riparato, un souvenir genuinamente unico con una storia di resilienza incorporata, e molto più personale di qualsiasi cosa potreste comprare in un negozio. Il laboratorio dura circa tre ore con una guida locale professionale, e tutte le spese indicate nell'itinerario sono coperte, quindi vi presentate semplicemente pronti a lavorare con le mani. I dettagli dell'incontro a Osaka vengono confermati con l'operatore al momento della prenotazione. Se il vostro viaggio è stato tutto templi, mercati e neon, questo è il controbilancio: un pomeriggio lento e concentrato a imparare un'arte trasmessa per secoli, gestito da un operatore locale autorizzato.",
+  "highlights": [
+   "Praticate il vero kintsugi dentro lo studio funzionante di un artigiano",
+   "Riparate ceramiche rotte con laccatura e polvere dorata",
+   "Portate a casa il pezzo unico che avete restaurato voi stessi",
+   "Scoprite la filosofia della bellezza nella rottura",
+   "Formato piccolo e pratico con guida passo per passo"
+  ],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-castle-guided-tour": {
+  "title": "Tour guidato di 2 ore al Castello di Osaka e al santuario con una guida locale",
+  "metaTitle": "Castello di Osaka con guida locale",
+  "metaDescription": "Camminate attraverso i bellissimi terreni del castello, vedete da vicino le enormi mura di pietra, e visitate il santuario. Esplorate il Castello di Osaka e scoprite la sua storia.",
+  "shortDescription": "Camminate attraverso i bellissimi terreni del castello, vedete da vicino le enormi mura di pietra, e visitate il santuario. Esplorate il Castello di Osaka e scoprite la sua storia.",
+  "fullDescription": "Il Castello di Osaka è il monumento più visitato della città, ed è anche il luogo più facile a Osaka da attraversare senza capire nulla di ciò che si sta guardando. Questo tour guidato di due ore risolve il problema con una guida locale che vi conduce attraverso i terreni del castello, le enormi mura di pietra, e il vicino Santuario Hokoku, trasformando un parco fotogenico nella storia drammatica che davvero è, l'ascesa di Toyotomi Hideyoshi, gli assedi che distrussero il castello, e le ricostruzioni che hanno prodotto ciò che si trova oggi. Il tour inizia vicino alla stazione Osakajokoen e si avvicina al castello a piedi, il modo giusto per farlo: la scala delle fortificazioni esterne si registra solo quando si camminata sotto di esse, e la vostra guida indica le enormi pietre singole, alcune tra le più grandi mai usate nella costruzione di castelli giapponesi, e spiega come siano state cavate e trasportate qui secoli fa. Il percorso include anche un tratto di crociera in barca sul fossato del castello, offrendovi la fortezza dalla linea dell'acqua, l'angolazione che i suoi assalitori avrebbero affrontato. La passeggiata guidata attraverso i terreni dura circa novanta minuti, coprendo i cancelli, le torri e le mura di pietra da vicino, prima di terminare al Santuario Hokoku, dedicato a Hideyoshi stesso, il signore della guerra di nascita contadina che unificò il Giappone e costruì il castello originale come sede del suo potere. Con due ore, il formato è deliberatamente compatto, abbastanza lungo da coprire bene la storia, abbastanza breve da lasciare libera la vostra mattinata o il pomeriggio per il resto della città. Per i visitatori alla prima volta specialmente, fare il castello con una guida piuttosto che da soli è la differenza tra vedere un grande parco verde con una torre al centro e capire l'ambizione, il tradimento e il fuoco che lo hanno modellato.",
+  "highlights": [
+   "La guida locale svela il passato drammatico del castello",
+   "Vedete da vicino le enormi mura di pietra",
+   "Crociera in barca sul fossato con vedute della fortezza dall'acqua",
+   "Visitate il Santuario Hokoku, dedicato a Hideyoshi",
+   "Formato compatto di 2 ore lascia libera la vostra giornata"
+  ],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-dinner-guided-tour": {
+  "title": "Osaka: tour LGBTQ+ con cena e drink",
+  "metaTitle": "Osaka: tour LGBTQ+ con cena",
+  "metaDescription": "Unitevi a una guida locale in un tour della scena LGBTQ+ di Osaka. Godetevi una cena leggera a Shin-sekai, visitate il distretto di Doyama, e scoprite la storia della comunità LGBTQ+ di Osaka.",
+  "shortDescription": "Unitevi a una guida locale in un tour della scena LGBTQ+ di Osaka. Godetevi una cena leggera a Shin-sekai, visitate il distretto di Doyama, e scoprite la storia della comunità LGBTQ+ di Osaka.",
+  "fullDescription": "Osaka ha una delle scene LGBTQ+ più consolidate del Giappone, ma senza un locale che vi apra la porta, la maggior parte dei visitatori non ne vede mai oltre la superficie. Questo tour serale di tre ore vi abbina a una guida locale per esattamente questo: una passeggiata attraverso la geografia queer della città, una cena leggera nel retrò distretto di Shinsekai, e una visita a Doyama, il quartiere che è stato il centro LGBTQ+ di Osaka per decenni. La serata inizia alla stazione Dobutsuen-Mae e si sposta prima a Shinsekai, il gloriosamente non levigato vecchio quartiere dei divertimenti sotto la Torre Tsutenkaku, dove vi sedete per una cena leggera e la conversazione inizia, la vostra guida condivide la storia della comunità LGBTQ+ a Osaka, come abbia trovato i suoi spazi in una società che ha spesso preferito la discrezione, e come appaia oggi la vita queer in città. Da lì il tour si dirige a Doyama, vicino a Umeda, il compatto distretto pieno di bar e locali che forma il cuore della scena. Camminarlo con una guida cambia tutto: le porte senza insegne e gli edifici piccoli si trasformano in una vera mappa della comunità, e scoprite quali spazi accolgono i visitatori e come funziona la cultura del distretto. I drink fanno parte della serata, e il formato è deliberatamente sociale, questo è tanto una conversazione tra cibo e drink quanto un tour a piedi, e le domande sono benvenute per tutto il tempo. Gestito da un operatore locale autorizzato con una guida locale professionale, il tour funziona altrettanto bene per viaggiatori LGBTQ+ che vogliono connettersi con la scena locale e per chiunque sia curioso di un lato della storia e della vita notturna di Osaka che le guide turistiche menzionano appena. Con tre ore di sera, si inserisce bene dopo una giornata di visite turistiche e può lanciarvi direttamente in una serata più lunga a Doyama se vi va.",
+  "highlights": [
+   "Esplorate la scena LGBTQ+ di Osaka con una guida locale",
+   "Cena leggera nel retrò distretto di Shinsekai",
+   "Camminate a Doyama, il cuore della comunità per decenni",
+   "Scoprite la storia della vita LGBTQ+ a Osaka",
+   "Formato serale che fluisce direttamente in una serata fuori"
+  ],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-dotonbori-river-cruise-with-guided-walk": {
+  "title": "Crociera sul fiume Dotonbori e passeggiata guidata: i canali di Osaka dall'acqua",
+  "metaTitle": "Crociera a Dotonbori e passeggiata guidata",
+  "metaDescription": "Una passeggiata guidata attraverso Dotonbori più il biglietto della crociera sul fiume, per circa quarantatré dollari, l'alternativa condivisa a un charter privato.",
+  "shortDescription": "Una passeggiata guidata attraverso Dotonbori più il biglietto della crociera sul fiume, per circa quarantatré dollari, l'alternativa condivisa a un charter privato.",
+  "fullDescription": "Osaka fu costruita sull'acqua. Era chiamata la città dei mille ponti, e la sua ricchezza veniva dai canali che muovevano riso e merci molto prima delle ferrovie. Dotonbori stesso è un canale, scavato nel 1612 da un mercante morto prima che fosse terminato, e la fascia che tutti fotografano è in realtà una riva.\n\nQueste due ore lo rendono leggibile. Inizia con una passeggiata guidata attraverso Dotonbori e le strade circostanti, coprendo come il distretto divenne il quartiere dei divertimenti, cosa pubblicizzano davvero le enormi insegne meccaniche, e perché l'omino che corre di Glico è lì dal 1935. Poi salite a bordo per la crociera sul fiume, e il neon fa quello per cui è progettato, l'intera fascia è costruita per essere vista riflessa nell'acqua, e da una barca al livello del ponte la scala delle insegne è completamente diversa.\n\nIl biglietto della crociera è incluso nel prezzo, quindi nulla da pagare ulteriormente al molo. I gruppi sono limitati a ventiquattro e la guida lavora in inglese.\n\nElenchiamo anche una crociera notturna privata a Osaka a un prezzo considerevolmente più alto per chi vuole la barca per sé. Questa è la versione condivisa ed è il miglior valore se volete principalmente la vista e il contesto piuttosto che l'esclusività, costa circa un quinto e include il tour a piedi che il charter privato non include.\n\nL'incontro è vicino al negozio Don Quijote Midosuji, dove la guida aspetta con un cartello. Funziona meglio dopo il tramonto, quando le insegne sono illuminate, anche se la partenza diurna offre una vista più chiara dei ponti e dell'architettura del canale.",
+  "highlights": [],
+  "included": [
+   "Tour guidato a piedi di Dotonbori e delle strade circostanti\nBiglietto della crociera sul fiume Dotonbori\nGuida di lingua inglese"
+  ],
+  "notIncluded": [
+   "Cibo e bevande\nRitiro e rientro in hotel\nTrasporto fino al punto d'incontro"
+  ]
+ },
+ "osaka-dotonbori-sushi-making-class-halal-vegan": {
+  "title": "Corso di preparazione del sushi vicino a Dotonbori, con menu vegano, halal e per allergie",
+  "metaTitle": "Corso di sushi a Osaka: vegano e halal",
+  "metaDescription": "Imparate a modellare nigiri e arrotolare maki a poche strade dall'insegna Glico, poi mangiate ciò che avete preparato, con veri menu vegani, halal, senza glutine e per allergie.",
+  "shortDescription": "Imparate a modellare nigiri e arrotolare maki a poche strade dall'insegna Glico, poi mangiate ciò che avete preparato, con veri menu vegani, halal, senza glutine e per allergie.",
+  "fullDescription": "Osaka si definisce la cucina del Giappone e lo dimostra soprattutto con cose cotte su una piastra calda, takoyaki, okonomiyaki, kushikatsu. Il sushi è la controparte più silenziosa, ed è il piatto in cui guardare qualcuno farlo vi insegna quasi nulla, perché tutto ciò che è difficile accade nelle sue mani.\n\nQuesta classe di cento minuti vi metterà dall'altra parte di tutto questo. Imparerete come il riso per sushi viene condito e raffreddato e, più importante, come dovrebbe sentirsi quando lo raccogliete, caldo, che si tiene a malapena insieme, rovinato da una presa salda. Poi modellerete nigiri e arrotolerete maki voi stessi, li impiatterete e li mangerete. L'istruzione è in inglese e la sala è abituata a principianti assoluti.\n\nLe opzioni dietetiche sono la parte che vale la pena conoscere, perché sono reali piuttosto che improvvisate. Ci sono menu separati vegani e vegetariani, un menu halal, un'opzione senza glutine, e un menu per allergie che esclude carne, noci, frutta e latticini. Due condizioni ferme: richiedete il menu quando prenotate, e capite che l'operatore non accetterà liste personalizzate di ingredienti. Non possono cambiare il giorno stesso.\n\nLo studio è al terzo piano di un edificio a Higashi-Shinsaibashi, pochi minuti a piedi da Dotonbori e Shinsaibashi-suji, il che rende facile inserirlo in un pomeriggio di shopping e cibo. I gruppi arrivano fino a venti persone su diversi tavoli, e lo spazio è accessibile in sedia a rotelle.\n\nTutto è incluso, ingredienti, strumenti, e il pasto stesso. È più economico della classe equivalente a Tokyo e funziona bene come prima attività in un viaggio a Osaka, perché passerete il resto della settimana notando cosa fanno i bancali di sushi attorno a voi.",
+  "highlights": [],
+  "included": [
+   "Istruttore di lingua inglese\nTutti gli ingredienti per la classe\nIl pasto che preparate\nMenu vegani, vegetariani, halal, senza glutine e per allergie su richiesta alla prenotazione"
+  ],
+  "notIncluded": [
+   "Ritiro e rientro in hotel\nSpecifiche personalizzate degli ingredienti\nBevande aggiuntive"
+  ]
+ },
+ "osaka-dotonbori-ura-namba-izakaya-bar-crawl": {
+  "title": "Giro dei bar di Ura-Namba: dietro il neon di Dotonbori con un locale",
+  "metaTitle": "Giro dei bar a Ura-Namba, Osaka",
+  "metaDescription": "Tre ore nei vicoli dietro l'insegna Glico, bevendo dove beve davvero Osaka, pagate il vostro cibo e le vostre bevande, la guida vi fa entrare dalla porta.",
+  "shortDescription": "Tre ore nei vicoli dietro l'insegna Glico, bevendo dove beve davvero Osaka, pagate il vostro cibo e le vostre bevande, la guida vi fa entrare dalla porta.",
+  "fullDescription": "Dotonbori è la fotografia. Ura-Namba è dove le persone bevono davvero. È la griglia di vicoli strette immediatamente dietro il neon, piena di bancali che ospitano otto persone, bar in piedi senza sedute affatto, e cucine specializzate in una sola cosa e nient'altro, e quasi nulla di tutto ciò è leggibile se non sapete leggere l'insegna o il menu.\n\nQuesto giro di tre ore risolve il problema della porta. Una guida locale porta un gruppo di non più di quindici persone attraverso diversi locali, e la cosa genuinamente utile incluso è l'aiuto nell'ordinare: leggere i menu scritti a mano sulle pareti, sapere quale delle otto cose che fa una particolare cucina è quella da provare, e gestire il ritmo giro dopo giro che un izakaya si aspetta.\n\nCibo e bevande non sono inclusi. Ciò mantiene basso il biglietto e significa che impostate il vostro ritmo e budget piuttosto che pagare per un menu fisso; la guida vi dice quanto probabilmente costerà una tappa prima che vi impegniate. Aspettatevi di spendere in aggiunta.\n\nLa cultura del bere a Osaka è diversa da quella di Tokyo e la guida renderà la differenza evidente, più rumorosa, più rapida a parlare con estranei, e più incline a nutrirvi che a lasciarvi bere a stomaco vuoto. Kuidaore, mangiarsi fino alla rovina, è un punto d'orgoglio locale piuttosto che un avvertimento.\n\nLe fotografie scattate durante la serata vengono condivise dopo. L'incontro è davanti all'insegna Glico al Monumento della Canzone dell'Umanità di Dotonbori, il punto di riferimento più facile da trovare in città. Il percorso è accessibile in sedia a rotelle, e una versione privata è disponibile per gruppi che preferiscono non condividere.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale per tre ore\nPercorso guidato a piedi attraverso Dotonbori e i vicoli di Ura-Namba\nAiuto nell'ordinare cibo e bevande in ogni locale\nFotografie scattate durante la serata, condivise dopo\nConsigli locali e contesto culturale"
+  ],
+  "notIncluded": [
+   "Cibo e bevande, pagati da voi in ogni locale\nTrasporto fino al punto d'incontro\nRitiro e rientro in hotel"
+  ]
+ },
+ "osaka-english-boat-tour": {
+  "title": "Osaka e Nara: tour privato personalizzato con autista di lingua inglese",
+  "metaTitle": "Osaka e Nara: tour privato con autista",
+  "metaDescription": "Godetevi un tour privato personalizzabile di 5-10 ore a Osaka e Nara in auto confortevole. Visitate il Castello di Osaka, il Tempio Todai-ji, incontrate i cervi di Nara, ed esplorate Dotonbori.",
+  "shortDescription": "Godetevi un tour privato personalizzabile di 5-10 ore a Osaka e Nara in auto confortevole. Visitate il Castello di Osaka, il Tempio Todai-ji, incontrate i cervi di Nara, ed esplorate Dotonbori.",
+  "fullDescription": "Osaka e Nara si trovano abbastanza vicine da combinarsi in un'unica giornata, ma fare bene entrambe in treno significa molto guardare l'orologio; questo tour privato personalizzabile elimina tutto ciò con un'auto confortevole e un autista di lingua inglese per cinque a dieci ore, modellato attorno a ciò che davvero volete vedere. Il percorso classico colpisce gli ancoraggi di entrambe le città: il Castello di Osaka e il suo vasto parco, l'Edificio Umeda Sky con il suo osservatorio fluttuante, poi il viaggio fuori verso Nara per il Tempio Todai-ji, casa del Grande Buddha, una delle più grandi statue di bronzo del mondo, ospitata in uno dei più grandi edifici di legno, e il Parco di Nara, dove oltre mille cervi sacri vagano liberi e si inchinano per i cracker. La giornata può chiudersi di nuovo a Osaka con il neon e il cibo di strada di Dotonbori se avete ancora energia. Poiché il tour è genuinamente personalizzato, quella struttura è un punto di partenza piuttosto che uno script: restate più a lungo con i cervi, aggiungete una tappa, saltate l'osservatorio, estendete la giornata a dieci ore o mantenetela compatta a cinque, il percorso è costruito attorno ai vostri interessi e ritmo, che è esattamente ciò che un'auto privata rende possibile e un tour in autobus non può mai fare. Il ritiro e il rientro sono a Osaka, e il fattore comfort conta più di quanto sembri: i siti principali di Nara comportano vera camminata, e poter crollare in un'auto privata tra una tappa e l'altra, con le vostre borse e gli acquisti riposti, mantiene la giornata gradevole fino alla fine. Gestito da un operatore locale autorizzato, questo formato è particolarmente buono per famiglie, piccoli gruppi, e chiunque voglia i punti salienti di due città, un castello dell'epoca degli shogun, un Buddha gigante, cervi selvatici, e il neon di Osaka, senza mai consultare un orario ferroviario. I dettagli del vostro percorso e ritiro vengono confermati con l'operatore al momento della prenotazione.",
+  "highlights": [
+   "Itinerario privato completamente personalizzabile di 5-10 ore",
+   "Auto confortevole con autista di lingua inglese",
+   "Il Grande Buddha di Todai-ji e i cervi inchinevoli di Nara",
+   "Il Castello di Osaka e l'Edificio Umeda Sky",
+   "Due città in un giorno senza un solo treno",
+   "Ritiro e rientro porta a porta a Osaka"
+  ],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-experience-guided-tour": {
+  "title": "Osaka: spettacolo ed esperienza di sumo con pasto hot pot e kimono",
+  "metaTitle": "Spettacolo di sumo a Osaka con hot pot",
+  "metaDescription": "Il nostro spettacolo di sumo è più che guardare, potete godervi un allenamento emozionante e sfidare un ex rikishi. Pasti facoltativi includono chanko nabe e sukiyaki Wagyu. Terminate con una foto sul ring del sumo.",
+  "shortDescription": "Il nostro spettacolo di sumo è più che guardare, potete godervi un allenamento emozionante e sfidare un ex rikishi. Pasti facoltativi includono chanko nabe e sukiyaki Wagyu. Terminate con una foto sul ring del sumo.",
+  "fullDescription": "La maggior parte delle esperienze di sumo vi fa guardare a distanza; questa vi tira dentro il mondo dei rikishi stessi. Ospitato da OCHIIZUMIBEYA, il team Osaka Sumo Samurai, lo spettacolo è costruito attorno a lottatori professionisti ritirati che vi mostrano vere routine di allenamento davanti a voi, spiegano le regole, la storia e le tradizioni dello sport nazionale del Giappone in termini semplici e adatti ai principianti, e poi apre il campo per il momento che tutti ricordano: i membri del pubblico sono invitati a farsi avanti e sfidare un ex rikishi sul ring. È teatrale, divertente, e sorprendentemente educativo tutto insieme, ve ne andrete capendo perché i rituali contano, non solo avendoli fotografati. L'esperienza è pensata attorno al cibo tanto quanto allo sport. Piani di pasto facoltativi vi permettono di sedervi per il chanko nabe, l'hot pot ricco di proteine che le scuderie di sumo cucinano da generazioni per creare campioni, oppure di passare al sukiyaki Wagyu se volete qualcosa di più indulgente. Una prova di kimono è intrecciata nella visita, così potete vestire la parte prima del finale: una foto commemorativa scattata sul ring del sumo stesso, qualcosa che quasi nessun visitatore del Giappone riesce mai a fare. Poiché il formato funziona come spettacoli serali programmati con diversi livelli di pasto, funziona altrettanto bene per famiglie, coppie, e gruppi di amici che vogliono una grande e memorabile serata culturale a Osaka. Venite affamati, portate il vostro senso dell'umorismo, e siate pronti ad alzare i palmi quando i lottatori chiedono un sfidante, la folla vi incoraggerà verso il ring in ogni caso.",
+  "highlights": [
+   "Sfidate un vero ex rikishi sul ring",
+   "Introduzione per principianti alle regole e tradizioni del sumo",
+   "Pasto facoltativo di chanko nabe hot pot o sukiyaki Wagyu",
+   "Prova di kimono incluso nell'esperienza",
+   "Foto commemorativa scattata sul ring del sumo stesso"
+  ],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-flavors-group-tour": {
+  "title": "Osaka: piccolo gruppo, grandi sapori e segreti locali nascosti",
+  "metaTitle": "Osaka: sapori e segreti locali in piccolo gruppo",
+  "metaDescription": "Scoprite la vera vita notturna di Osaka a Tenma e Kyobashi. Godetevi oltre 15 piatti selezionati, storie locali, e un'esperienza in piccolo gruppo (massimo 6) che rivela il carattere autentico e quotidiano della città.",
+  "shortDescription": "Scoprite la vera vita notturna di Osaka a Tenma e Kyobashi. Godetevi oltre 15 piatti selezionati, storie locali, e un'esperienza in piccolo gruppo (massimo 6) che rivela il carattere autentico e quotidiano della città.",
+  "fullDescription": "Dotonbori è dove mangiano i turisti; Tenma e Kyobashi sono dove mangia Osaka. Questo tour serale in piccolo gruppo di tre ore, limitato a soli sei ospiti, salta completamente la famosa fascia di neon e si dirige invece verso i due distretti dove gli impiegati, gli studenti e i vecchi abitanti della città si affollano ogni notte in bar in piedi e locali al bancale. Nel corso della serata assaggerete più di quindici piatti selezionati attraverso una manciata di ristoranti locali, dal tipo di piatti izakaya che non appaiono mai sui menu in inglese alle bevande che li accompagnano, birra, cocktail, distillati, e tè fanno tutti la loro apparizione lungo il percorso. Il mangiare è solo metà della storia. La vostra guida vi conduce attraverso la densa rete di vicoli illuminati da lanterne di Tenma vicino alla lunga galleria di Tenjinbashisuji, raccontando le storie locali che spiegano perché gli abitanti di Osaka siano le persone più ossessionate dal cibo del Giappone, prima di saltare un fermata di metro fino a Kyobashi, una sacca di vita notturna più rumorosa e retrò che quasi nessun visitatore straniero raggiunge mai. Poiché il gruppo è così piccolo, il tour sembra meno un prodotto guidato e più un giro mostrato da un amico che sa esattamente quale tenda scavalcare. È una vera serata locale: probabilmente sarete gli unici non abituali in alcune delle sale dove mangiate, e questo è esattamente il punto. Venite con lo stomaco vuoto e la mente aperta, il menu è selezionato per voi, e le note dietetiche possono essere segnalate alla prenotazione.",
+  "highlights": [
+   "Assaggiate oltre 15 piatti selezionati in due distretti locali",
+   "Piccolo gruppo limitato a sei ospiti",
+   "Esplorate Tenma e Kyobashi, lontano dal percorso turistico",
+   "Bevande incluse lungo il percorso",
+   "Mangiate dove mangiano davvero gli abitanti di Osaka"
+  ],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-food-tour": {
+  "title": "Tour del cibo di strada di Osaka: takoyaki, okonomiyaki e sapori locali",
+  "metaTitle": "Cibo di strada a Osaka: takoyaki e okonomiyaki",
+  "metaDescription": "Un tour serale privato del cibo attraverso Namba, Dotonbori, e il retrò distretto di Shinsekai assaggiando piatti iconici come takoyaki, okonomiyaki, e kushikatsu.",
+  "shortDescription": "Un tour serale privato del cibo attraverso Namba, Dotonbori, e il retrò distretto di Shinsekai assaggiando piatti iconici come takoyaki, okonomiyaki, e kushikatsu.",
+  "fullDescription": "Takoyaki, okonomiyaki, kushikatsu, la santa trinità del cibo di strada di Osaka è il motivo per cui la città è chiamata la cucina del Giappone, e questo tour serale privato è costruito per portarvi attraverso tutto ciò nei luoghi che hanno reso famoso ciascun piatto. Nel corso di tre ore vi spostate attraverso Namba, Dotonbori, e il retrò distretto di Shinsekai, assaggiando le icone dove appartengono: il takoyaki, palline di polpo con crosta croccante girate sulla piastra davanti a voi, dalle bancarelle di Namba e Dotonbori, l'okonomiyaki, la saporita frittella a strati di cui gli abitanti di Osaka sono ferocemente orgogliosi, cotta su una teppan calda, e il kushikatsu, spiedini impanati, fritti, e intinti una sola volta (mai due) in salsa comune, a Shinsekai, il vecchio quartiere della vecchia scuola che inventò il rituale. Poiché il tour è privato, la serata si adatta a voi. La vostra guida regola il percorso e le soste secondo i gusti e il ritmo del vostro gruppo, più di ciò che amate, uno scambio se qualcosa non vi attira, e ogni domanda risposta senza competere con una folla di estranei. Tra un boccone e l'altro, la passeggiata stessa è un tour di tre dei distretti più suggestivi di Osaka dopo il tramonto: il canale di Dotonbori e le enormi insegne illuminate, le gallerie di Namba, e il bagliore retrò di Shinsekai sotto la Torre Tsutenkaku, dove le strade sembrano ancora l'Osaka di metà secolo. Gli orari serali sono deliberati, questi distretti sono al loro meglio illuminati e affollati, e mangiare attraversandoli è come i locali vivono la propria città. Alla fine non avrete solo assaggiato la trinità; saprete come viene preparato ogni piatto, perché conta per Osaka, e dove trovare il vero affare per il resto del vostro soggiorno. I dettagli dell'incontro vengono confermati con l'operatore al momento della prenotazione. Arrivate affamati, l'itinerario è un pasto.",
+  "highlights": [
+   "Takoyaki, okonomiyaki e kushikatsu in un'unica serata",
+   "Formato privato, il percorso si adatta ai vostri gusti",
+   "Namba, Dotonbori e il retrò Shinsekai dopo il tramonto",
+   "Scoprite le storie dietro i piatti iconici di Osaka",
+   "Orario serale quando i distretti sono al loro meglio"
+  ],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
  "kyoto-kid-friendly-ninja-class-museum": {
   "title": "Corso di ninja per famiglie a Kyoto: cerbottane, stelle e furtività",
   "metaTitle": "Corso di ninja per famiglie a Kyoto",
