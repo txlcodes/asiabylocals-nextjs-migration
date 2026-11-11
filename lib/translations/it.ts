@@ -15303,6 +15303,364 @@ export const IT_TOURS: Record<string, TourT> = {
    "Spese personali, pasti se non specificati, mance"
   ]
  },
+ "miyajima-walking-tour": {
+  "title": "Passeggiata sull'isola sacra di Miyajima: torii fluttuante, santuari e angoli nascosti",
+  "metaTitle": "Miyajima a piedi: torii fluttuante e santuari",
+  "metaDescription": "Unitevi a un esperto locale di storia in una passeggiata a Miyajima che svela il passato sacro dell'isola, la storia del torii fluttuante, santuari nascosti e monumenti meno conosciuti.",
+  "shortDescription": "Unitevi a un esperto locale di storia in una passeggiata a Miyajima che svela il passato sacro dell'isola, la storia del torii fluttuante, santuari nascosti e monumenti meno conosciuti.",
+  "fullDescription": "Miyajima è considerata sacra da così tanto tempo che per secoli alla gente comune non era permesso metterci piede, motivo per cui il Santuario Itsukushima fu originariamente costruito sopra l'acqua. Questa passeggiata di due ore con un esperto locale di storia di F and Five parte dal terminal del traghetto di Miyajima e scompone quel passato sacro pezzo per pezzo. Il percorso si addentra lungo la via dello shopping Omotesando, dove avete tempo per curiosare e osservare i famosi cervi dell'isola lavorare la folla, prima di girare verso la riva per il punto centrale del tour: il grande cancello torii vermiglio che sembra fluttuare sulla marea, e la storia del perché si trovi nel mare e non sulla terra. Passate poi quaranta minuti interi dentro il Santuario Itsukushima, camminando sui suoi corridoi in legno sopra l'acqua mentre la guida spiega l'architettura, i rituali e il mondo aristocratico dell'epoca Heian che lo ha modellato. Dal santuario la passeggiata continua verso la pagoda a cinque piani di Itsukushima Jinja Gojunoto, passa per i tranquilli terreni del Tempio Daiganji, e si conclude con generosi quarantacinque minuti a Daisho-in, il complesso templare più antico e suggestivo dell'isola, dove centinaia di piccole statue costeggiano le scalinate sulla collina e ruote della preghiera girano sotto le grondaie. Daisho-in è la tappa che la maggior parte dei visitatori giornalieri salta completamente, ed è dove il carattere spirituale dell'isola emerge con maggiore chiarezza. Con una valutazione di 4,9 dai viaggiatori, questa è la passeggiata da fare se volete che Miyajima sia più di una tappa fotografica.",
+  "highlights": [
+   "Guidati da un esperto locale di storia nel passato sacro dell'isola",
+   "Ascoltate perché il grande torii si trova nel mare",
+   "Quaranta minuti dentro il Santuario Itsukushima patrimonio UNESCO",
+   "Esplorate Daisho-in, il tempio che la maggior parte dei visitatori giornalieri salta",
+   "Incontrate i cervi liberi di Miyajima sulla via Omotesando",
+   "Valutato 4,9 dai viaggiatori"
+  ],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "mount-fuji-chureito-pagoda-oshino-hakkai-day-tour": {
+  "title": "Tour di un giorno sui due lati del Monte Fuji: Pagoda Chureito, Oshino Hakkai e Owakudani",
+  "metaTitle": "Monte Fuji: due lati in un giorno",
+  "metaDescription": "Un'unica lunga giornata che circonda il Monte Fuji e vi mostra entrambe le sue facce: il lato nord con pagoda e santuario sopra Fujiyoshida, e il lato sud vulcanico dentro la caldera di Hakone.",
+  "shortDescription": "Un'unica lunga giornata che circonda il Monte Fuji e vi mostra entrambe le sue facce: il lato nord con pagoda e santuario sopra Fujiyoshida, e il lato sud vulcanico dentro la caldera di Hakone.",
+  "fullDescription": "Il Monte Fuji sembra una montagna diversa a seconda di dove vi trovate, e questa giornata di dieci ore è costruita attorno a questo fatto. Da nord, nella prefettura di Yamanashi, il cono di 3.776 metri si innalza netto sopra la città di Fujiyoshida con quasi nulla davanti. Da sud, dentro la caldera di Hakone, raramente vedete la montagna intera in una sola volta; invece la vedete a pezzi, incorniciata tra creste e bocche di vapore. Fare entrambi in un giorno è un tragitto lungo, ma è il modo più rapido per capire perché questo vulcano abbia ancorato la pittura e il pellegrinaggio giapponesi per secoli.\n\nSul lato di Hakone l'itinerario attraversa il classico circuito della caldera. Il Lago Ashi riempie il fondo crollato del vulcano ed è attraversato da battelli turistici vestiti da galeoni, un tocco curioso che risale al boom turistico degli anni '60 e che è rimasto da allora. La funivia di Hakone vi porta poi sopra il bordo, e il terreno sotto diventa grigio, giallo e spoglio mentre vi avvicinate a Owakudani, il campo di zolfo rimasto da un'eruzione di circa tremila anni fa. Qui il vapore esce continuamente dal pendio, e la specialità locale è un uovo di gallina bollito nell'acqua termale finché il guscio non diventa nero.\n\nIl lato nord è più tranquillo e devozionale. Oshino Hakkai è un gruppo di otto stagni alimentati dallo scioglimento delle nevi che ha passato decenni a filtrare attraverso la lava porosa del Fuji, motivo per cui l'acqua è sorprendentemente limpida e fredda anche in agosto. Case di villaggio con tetti di paglia si ergono attorno agli stagni, e tutto il sito è abbastanza piccolo da visitare a piedi in meno di un'ora.\n\nL'ultima tappa è quella per cui la maggior parte dei viaggiatori è venuta. Il Parco Arakurayama Sengen si trova su un pendio sopra Fujiyoshida, raggiungibile con circa quattrocento gradini dal Santuario Arakura Fuji Sengen alla sua base. In cima si trova la Pagoda Chureito, una sala di cinque piani a memoria della pace completata nel 1963, e dalla terrazza panoramica a fianco si ottiene la composizione che appare su metà dei poster mai stampati sul Giappone: pagoda in primo piano, città sotto, Fuji che riempie il cielo dietro. In aprile i ciliegi sul pendio fioriscono; in autunno sono gli aceri a prendere il sopravvento.\n\nQuesta è una giornata in autobus ed è onesta riguardo alla guida. Aspettatevi diverse ore sulla strada durante la giornata, una partenza presto, e soste cronometrate piuttosto che a tempo libero. Ciò che ottenete in cambio è un percorso che richiederebbe due giornate separate e diversi cambi di treno per organizzarlo da soli, con qualcun altro che gestisce le code della funivia, gli orari delle barche e il parcheggio.",
+  "highlights": [
+   "Navigate sul Lago Ashi su uno dei galeoni turistici della caldera",
+   "Percorrete la funivia di Hakone sopra il bordo del cratere fino al campo di zolfo a Owakudani",
+   "Camminate tra gli otto stagni alimentati dalle sorgenti di Oshino Hakkai, filtrati dalla lava del Fuji",
+   "Salite alla Pagoda Chureito nel Parco Arakurayama Sengen per la classica veduta pagoda-e-Fuji",
+   "Vedete entrambi i volti del Monte Fuji, Yamanashi e Hakone, in un'unica giornata"
+  ],
+  "included": [
+   "Guida turistica di lingua inglese, trasporto in autobus con aria condizionata, crociera turistica sul Lago Ashi, corsa in funivia di Hakone, ritiro e rientro in hotel o in centro nelle posizioni selezionate"
+  ],
+  "notIncluded": [
+   "Pranzo e bevande, spese personali e souvenir, mance, assicurazione di viaggio"
+  ]
+ },
+ "mount-fuji-fifth-station-private-day-tour": {
+  "title": "Giornata privata al Monte Fuji da Tokyo: Quinta Stazione, Lago Kawaguchiko e Pagoda Chureito",
+  "metaTitle": "Monte Fuji privato da Tokyo: Quinta Stazione",
+  "metaDescription": "Undici ore al Monte Fuji dal vostro hotel a Tokyo con una guida locale autorizzata, un autista e un veicolo privato, comprendendo la Quinta Stazione, il Lago Kawaguchiko, un pranzo di noodle Hoto e la Pagoda Chureito.",
+  "shortDescription": "Undici ore al Monte Fuji dal vostro hotel a Tokyo con una guida locale autorizzata, un autista e un veicolo privato, comprendendo la Quinta Stazione, il Lago Kawaguchiko, un pranzo di noodle Hoto e la Pagoda Chureito.",
+  "fullDescription": "Il Monte Fuji è abbastanza vicino a Tokyo da poter essere una gita di un giorno, e abbastanza complicato da esserlo male se lo tentate con i mezzi pubblici. I treni raggiungono Kawaguchiko, gli autobus raggiungono parte del resto, e i collegamenti tra i luoghi che davvero ripagano sono scarsi e lenti. Questo operatore gestisce la giornata con una guida autorizzata di lingua inglese, un autista autorizzato separato e un veicolo privato per undici ore proprio perché questa è la risposta onesta alla geografia della regione, non un upsell.\n\nLa giornata inizia alle 8:00 con il ritiro da un hotel nel centro di Tokyo e termina lì intorno alle 19:00. Il percorso principale sale alla Quinta Stazione sul fianco del Fuji, il punto più alto raggiunto dai veicoli e la testa del sentiero da cui partono gli scalatori, dove l'aria è più rarefatta e la linea degli alberi lascia spazio alla roccia vulcanica. Da lì la giornata scende al Lago Kawaguchiko, uno dei Cinque Laghi del Fuji e il classico specchio della montagna, e termina alla Pagoda Chureito nel Parco Arakurayama Sengen sopra Fujiyoshida, dove circa quattrocento gradini vi comprano la veduta che appare sulla maggior parte dei poster: pagoda a cinque piani, ciliegio o acero secondo la stagione, e il cono che si innalza dietro.\n\nIl pranzo è Hoto, la specialità locale di noodle di grano piatti cotti a fuoco lento con zucca e verdure a radice nel miso. È cibo contadino di Yamanashi piuttosto che un'invenzione turistica, e ha più senso in una giornata fredda in altitudine di qualsiasi cosa importata.\n\nPoiché il veicolo è vostro per la giornata, il percorso è davvero modificabile. Oshino Hakkai, un gruppo di otto stagni alimentati dallo scioglimento delle nevi filtrato lentamente attraverso la lava del Fuji, è un'aggiunta comune. Lo sono anche la Funivia Panoramica del Monte Fuji, il Centro del Patrimonio Mondiale Fujisan, la degustazione di vino locale, il festival dei ciliegi in fiore di Kawaguchiko secondo la stagione, e gli Outlet Premium di Gotemba per chi preferisce fare shopping con la montagna in vista. Ditelo alla vostra guida in anticipo e le tappe entrano o escono.\n\nUn punto da chiarire: il Fuji è uno stratovulcano attivo che è eruttato l'ultima volta nel 1707, e crea il proprio meteo. È stato inserito dall'UNESCO nel 2013 come sito culturale, per i suoi secoli di influenza sull'arte e il pellegrinaggio giapponesi, piuttosto che come sito naturale. Le nuvole possono nascondere la cima anche in una giornata altrimenti bella, e la strada per la Quinta Stazione chiude in inverno e in condizioni meteo avverse, nel qual caso la guida sostituisce un'alternativa più bassa. Il prezzo è per gruppo e non per persona, quindi la tariffa pubblicata è il totale per tutto il vostro gruppo e una famiglia di quattro nella prima fascia paga quanto pagherebbe una coppia.",
+  "highlights": [
+   "Quinta Stazione del Monte Fuji, il punto più alto della montagna raggiungibile su strada",
+   "Lago Kawaguchiko, il più fotografato dei Cinque Laghi del Fuji",
+   "Pagoda Chureito sopra Fujiyoshida, raggiunta da circa 400 gradini",
+   "Un pranzo di Yamanashi a base di Hoto, noodle piatti cotti a fuoco lento con zucca nel miso",
+   "Sostituzioni facoltative tra cui Oshino Hakkai, la Funivia Panoramica, il Centro del Patrimonio Mondiale Fujisan, la degustazione di vino e gli Outlet Premium di Gotemba",
+   "Guida locale autorizzata e un autista autorizzato separato per undici ore"
+  ],
+  "included": [
+   "Ritiro e rientro in hotel a Tokyo, 11 ore di veicolo confortevole e autista autorizzato, guida turistica locale autorizzata di lingua inglese, pedaggi autostradali"
+  ],
+  "notIncluded": [
+   "Pasti, biglietti d'ingresso, tariffe di parcheggio"
+  ]
+ },
+ "mount-fuji-hakone-private-day-tour-from-tokyo": {
+  "title": "Monte Fuji e Hakone in un'unica giornata privata da Tokyo con guida e autista",
+  "metaTitle": "Monte Fuji e Hakone in un giorno privato",
+  "metaDescription": "Una giornata privata di undici ore da Tokyo che copre entrambi i lati della regione: Pagoda Chureito, la Quinta Stazione della Fuji Subaru Line e Oshino Hakkai sulla montagna, poi la funivia di Hakone su Owakudani e una crociera sul Lago Ashi nella caldera.",
+  "shortDescription": "Una giornata privata di undici ore da Tokyo che copre entrambi i lati della regione: Pagoda Chureito, la Quinta Stazione della Fuji Subaru Line e Oshino Hakkai sulla montagna, poi la funivia di Hakone su Owakudani e una crociera sul Lago Ashi nella caldera.",
+  "fullDescription": "Fuji e Hakone sono solitamente vendute come due gite di un giorno separate, e c'è una ragione, farle entrambe bene in un giorno significa undici ore porta a porta e una partenza prima delle otto del mattino. Ciò che fa funzionare il tutto è un veicolo privato con autista e guida, che elimina le due cose che consumano la giornata sui mezzi pubblici: l'attesa delle coincidenze e i ritorni indietro. Se il vostro tempo in Giappone è limitato e volete la montagna e la caldera in un'unica spinta, questo è il modo onesto per farlo.\n\nLa mattina appartiene al Monte Fuji, uno stratovulcano attivo di 3.776 metri dormiente dall'eruzione di Hoei del 1707. La prima tappa è la Pagoda Chureito nel Parco Arakurayama Sengen sopra Fujiyoshida, su circa quattrocento gradini, per la veduta che ha messo questo tratto di Yamanashi su ogni itinerario. Da lì la strada sale la Fuji Subaru Line fino alla Quinta Stazione a circa 2.300 metri, il punto in cui inizia propriamente la via di salita di Yoshida, e abbastanza vicino da vedere le pietraie vulcaniche e i tornanti del sentiero sopra di voi. In inverno la strada è normalmente chiusa per neve e la tappa viene sostituita.\n\nSegue il Santuario Kitaguchi Hongu Fuji Sengen, il cui accesso attraversa un boschetto di cedri molto antichi fino al torii che ha aperto il pellegrinaggio settentrionale per secoli. Vale la pena sapere che l'inserimento UNESCO del Fuji nel 2013 è stato come sito culturale, il riconoscimento premia la presa della montagna sull'arte, la poesia e il pellegrinaggio giapponesi piuttosto che la sua geologia, e questo santuario è dove ciò diventa tangibile. Oshino Hakkai chiude la metà dedicata al Fuji: otto stagni alimentati dallo scioglimento delle nevi che ha filtrato per decenni attraverso la lava porosa della montagna, limpido abbastanza da vedere ogni pietra sul fondo.\n\nIl pomeriggio entra nella caldera di Hakone, un paesaggio molto diverso formato dal crollo di un vulcano più antico. La funivia di Hakone vi porta sopra Owakudani, dove lo zolfo continua a sfiatare dal terreno spoglio e le uova bollite nelle sorgenti escono con i gusci anneriti. La giornata termina con una crociera turistica sul Lago Ashi, il lago della caldera, passando davanti al torii vermiglio del Santuario Hakone che si erge nell'acqua. Hakone fu anche la sede del posto di blocco più strettamente vigilato del periodo Edo sulla via Tokaido, e la vecchia via di pietra sul passo attraversa ancora la foresta di cedri sopra il lago.\n\nSul prezzo: questa è una tariffa per gruppo, non per persona. Da uno a cinque ospiti pagano un unico totale, con fasce più alte per sei a otto, nove a dodici, e fino a venti, quindi cinque viaggiatori pagano lo stesso di uno, e lo dividono in cinque. Sono inclusi la guida, il veicolo privato autorizzato, il carburante, i pedaggi, il parcheggio, il ritiro e il rientro in hotel entro i 23 distretti di Tokyo, la pianificazione dell'itinerario su misura, e il Wi-Fi a bordo e l'acqua in bottiglia secondo disponibilità. I biglietti delle attrazioni non sono inclusi, il che significa specificamente la funivia di Hakone e la crociera sul Lago Ashi, e nemmeno i pasti. I ritiri fuori dai 23 distretti non sono coperti.",
+  "highlights": [
+   "Monte Fuji e caldera di Hakone coperti in un'unica giornata privata",
+   "Pagoda Chureito con la montagna che si innalza dietro",
+   "Quinta Stazione della Fuji Subaru Line a circa 2.300 metri, dove inizia la via di Yoshida",
+   "Santuario Kitaguchi Hongu Fuji Sengen e il suo antico viale di cedri",
+   "Gli otto stagni alimentati dalle sorgenti di Oshino Hakkai",
+   "La funivia di Hakone sopra le bocche di zolfo di Owakudani",
+   "Una crociera turistica sul Lago Ashi oltre il torii fluttuante",
+   "Veicolo privato autorizzato con ritiro in hotel in tutti i 23 distretti di Tokyo"
+  ],
+  "included": [
+   "Guida professionale di lingua inglese, trasporto privato autorizzato, ritiro e rientro in hotel entro i 23 distretti di Tokyo, carburante pedaggi e parcheggio, Wi-Fi a bordo e acqua in bottiglia (secondo disponibilità), pianificazione dell'itinerario su misura"
+  ],
+  "notIncluded": [
+   "Biglietti delle attrazioni (funivia di Hakone, crociera sul Lago Ashi), pasti e bevande, attività facoltative, ritiri fuori dai 23 distretti di Tokyo"
+  ]
+ },
+ "mount-fuji-prince-route-private-climb-2-days": {
+  "title": "Scalata privata di due giorni del Monte Fuji sulla Via del Principe attraverso il Cratere Hoei",
+  "metaTitle": "Monte Fuji: Via del Principe in due giorni",
+  "metaDescription": "Un'ascesa privata e faticosa di due giorni del Monte Fuji sulla Via del Principe, attraversando il Cratere Hoei del 1707 sul tranquillo lato di Gotemba e scendendo il pendio di sabbia Osunabashiri.",
+  "shortDescription": "Un'ascesa privata e faticosa di due giorni del Monte Fuji sulla Via del Principe, attraversando il Cratere Hoei del 1707 sul tranquillo lato di Gotemba e scendendo il pendio di sabbia Osunabashiri.",
+  "fullDescription": "La Via del Principe è la linea da intenditori del Fuji. Inizia alla Quinta Stazione di Fujinomiya a 2.380 metri, traversa la montagna fino al Cratere Hoei, la grande ferita lasciata dall'eruzione del 1707, e poi si unisce al sentiero di Gotemba per il cono superiore. Prende il nome dalla scalata fatta dall'attuale imperatore del Giappone nel 2008, quando era Principe Ereditario, ed esiste perché il lato di Gotemba del Fuji è il più vuoto: meno rifugi, meno persone, una camminata più lunga, e un paesaggio che si legge come vulcano piuttosto che come attrazione.\n\nDue giorni di camminata sommano dodici o tredici ore di scalata e circa 1.300 metri di dislivello, da 2.380 a circa 3.700 metri. Gran parte del percorso è su cenere aperta e lava senza rifugio e con pochissima compagnia. Il premio è una versione del Fuji che quasi nessuno vede: il fondo del cratere con le sue pareti erose, lunghe vedute lungo il fianco sud fino al Pacifico, e tratti di sentiero dove potreste non incontrare un altro gruppo per un'ora.\n\nQuesto itinerario prende una decisione che lo distingue dalla maggior parte delle scalate del Fuji. Invece di tirarvi giù da una branda del rifugio alle tre del mattino per una corsa con la torcia frontale fino al bordo del cratere, l'alba viene osservata dal rifugio stesso. Dormite un po' più a lungo, vedete il sole sorgere sopra il mare di nuvole da un posto riparato con una bevanda calda in mano, e scalate l'ultima sezione alla luce del giorno, a un ritmo umano. È uno scambio: perdete la foto della cima all'alba, e guadagnate una montagna molto più civile. La discesa usa l'Osunabashiri, il lungo pendio di sabbia scorrevole sul lato di Gotemba, dove la ghiaia vulcanica è abbastanza profonda da permettere grandi balzi in discesa.\n\nSiate chiari sulla difficoltà. Questo è il più lungo dei quattro sentieri del Fuji e la descrizione stessa della guida lo definisce faticoso. Camminate per sei ore o più ogni giorno ad altitudini dove l'aria è rarefatta, dormite in un rifugio comune, e attraversate terreno costantemente instabile ed esposto. Sopra i 3.000 metri, mal di testa, nausea e fiato corto sono comuni anche in persone in forma, e la difesa standard è un ritmo lento e un'assunzione costante di liquidi. Le temperature vicino alla cima possono essere quasi gelide con vento forte anche in piena estate. Questa scalata si adatta a escursionisti esperti che vogliono la montagna, non a principianti che vogliono il trofeo. La vostra guida locale autorizzata del Fuji si consulta con voi prima della scalata, camminando con voi durante e seguendovi dopo.\n\nSul prezzo, questa è una prenotazione privata e la tariffa viene applicata per tutto il gruppo fino a cinque persone piuttosto che a testa, quindi cinque scalatori pagano esattamente quanto ne pagherebbero due. Ciò che compra è la guida autorizzata e la consulenza personale attorno al viaggio. L'alloggio e i pasti nel rifugio, l'ingresso alla montagna e le tasse di scalata, le spese personali e il trasporto da e per la Quinta Stazione di Fujinomiya sono tutti separati. Il tour inizia e termina a quella testa di sentiero, quindi pianificate il vostro autobus o auto fino alla montagna. La stagione è breve, dai primi di luglio ai primi di settembre, e vale la pena prenotare con largo anticipo.",
+  "highlights": [
+   "Attraversate il Cratere Hoei, la cicatrice dell'ultima eruzione del Monte Fuji nel 1707",
+   "Seguite la Via del Principe, la linea presa dall'imperatore del Giappone nella sua scalata del 2008",
+   "Il lato di Gotemba del Fuji, il più tranquillo e meno sviluppato dei quattro sentieri",
+   "Alba osservata dal rifugio di montagna, senza corsa alla cima prima dell'alba",
+   "Circa 1.300 metri di dislivello, da 2.380 a circa 3.700 metri",
+   "Scendete l'Osunabashiri, un lungo pendio di sabbia vulcanica profonda",
+   "Guida locale autorizzata del Fuji con consulenza prima, durante e dopo la scalata",
+   "Prenotazione privata per fino a cinque persone a una singola tariffa di gruppo"
+  ],
+  "included": [
+   "Guida locale autorizzata per la scalata del Monte Fuji, consulenza personale prima, durante e dopo il tour"
+  ],
+  "notIncluded": [
+   "Alloggio e pasti nel rifugio di montagna, ingresso alla montagna / tasse di scalata, spese personali (bagni, cibo, souvenir), trasporto da e per il punto di partenza"
+  ]
+ },
+ "mount-fuji-private-car-day-tour-from-tokyo": {
+  "title": "Tour privato in auto di un giorno al Monte Fuji da Tokyo: Pagoda Chureito, Kawaguchiko e Oshino Hakkai",
+  "metaTitle": "Monte Fuji in auto privata da Tokyo",
+  "metaDescription": "Un tour privato in auto di un'intera giornata da Tokyo al lato nord del Monte Fuji, comprendendo la Pagoda Chureito, la riva del lago Kawaguchiko, la funivia Kachi Kachi, il Santuario Sengen e gli stagni di sorgente di Oshino Hakkai.",
+  "shortDescription": "Un tour privato in auto di un'intera giornata da Tokyo al lato nord del Monte Fuji, comprendendo la Pagoda Chureito, la riva del lago Kawaguchiko, la funivia Kachi Kachi, il Santuario Sengen e gli stagni di sorgente di Oshino Hakkai.",
+  "fullDescription": "Il Monte Fuji si erge a 3.776 metri sul livello del mare ed è uno stratovulcano attivo, anche se è tranquillo dall'eruzione di Hoei del 1707, che ha fatto esplodere il cratere ancora visibile sul fianco sud-est. Le fotografie suggeriscono che sia facile vederlo. In pratica la montagna si nasconde per gran parte dell'anno, e la differenza tra una buona giornata al Fuji e una sprecata di solito dipende dal sapere su quale lato stare e quando. Avere un'auto privata e una guida che controlla le previsioni è la soluzione più affidabile.\n\nQuesta è una giornata intera fuori da Tokyo, porta a porta dalla hall del vostro hotel, che copre gli approcci settentrionali sul lato di Yamanashi. La prima tappa è normalmente la Pagoda Chureito nel Parco Arakurayama Sengen sopra Fujiyoshida, raggiunta da circa quattrocento gradini. La veduta dalla terrazza, pagoda, città, e il cono dietro, è la singola immagine più riconoscibile del Giappone prodotta ovunque, e vale la pena arrivare presto abbastanza da avere un po' di spazio sulla piattaforma.\n\nDa lì la giornata si sposta al Lago Kawaguchiko, il più accessibile dei Cinque Laghi del Fuji, dove la riva settentrionale offre una linea di vista aperta sull'acqua senza nulla in mezzo. La funivia Kachi Kachi vi porta dalla riva del lago sul Monte Tenjo in pochi minuti per una veduta più ampia sul lago e su tutto il bacino. Segue il Santuario Kitaguchi Hongu Fuji Sengen: un viale di cedri e un torii che per secoli ha segnato l'inizio formale del percorso di pellegrinaggio di Yoshida, e la ragione per cui l'inserimento UNESCO del Fuji nel 2013 è stato fatto come sito culturale piuttosto che naturale. La giornata si chiude a Oshino Hakkai, otto stagni alimentati dallo scioglimento delle nevi che ha passato decenni a filtrare attraverso la lava della montagna.\n\nPoiché il tour è privato e il veicolo è vostro per la giornata, l'ordine non è fisso. La vostra guida riorganizzerà le tappe in base alle nuvole, al traffico e al vostro ritmo, e sarà felice di scambiare qualcosa se preferite restare più a lungo da qualche parte. Da ottobre a febbraio si ha l'aria più limpida e la più alta probabilità di una montagna senza ostacoli; l'estate spesso significa foschia anche in una bella giornata.\n\nSul costo: questa è una tariffa per gruppo che copre tutta la comitiva fino a sei ospiti, non una tariffa per persona, quindi sei viaggiatori pagano lo stesso totale di due e semplicemente lo dividono ulteriormente. Il ritiro e il rientro in hotel a Tokyo e le spese personali della guida sono inclusi. I biglietti d'ingresso, il biglietto della funivia e il pranzo sia per voi che per la guida non lo sono, portate contanti in yen per questi.",
+  "highlights": [
+   "Pagoda Chureito incorniciata contro il Monte Fuji sopra Fujiyoshida",
+   "Vedute aperte sulla riva del Lago Kawaguchiko verso la montagna",
+   "La funivia Kachi Kachi sul Monte Tenjo per un panorama più ampio del bacino",
+   "Santuario Kitaguchi Hongu Fuji Sengen, storico ingresso al percorso di pellegrinaggio di Yoshida",
+   "Gli otto stagni di Oshino Hakkai, alimentati dallo scioglimento delle nevi filtrato attraverso la lava del Fuji",
+   "Auto privata e guida dal vostro hotel a Tokyo, con il percorso riorganizzato secondo il meteo"
+  ],
+  "included": [
+   "Tour privato in auto con guida per l'intera giornata, ritiro e rientro in hotel a Tokyo, spese personali della guida, itinerario flessibile e personalizzabile"
+  ],
+  "notIncluded": [
+   "Spese personali, biglietti d'ingresso, pranzo per ospiti e guida, mance"
+  ]
+ },
+ "mount-fuji-shared-coach-day-tour-oishi-park-oshino-hakkai": {
+  "title": "Monte Fuji in autobus condiviso: Lago Yamanaka, Oshino Hakkai, Parco Oishi e Lago Kawaguchi",
+  "metaTitle": "Monte Fuji economico in autobus condiviso",
+  "metaDescription": "Il modo economico per vedere il Fuji da Tokyo, un'intera giornata in autobus attorno a quattro punti panoramici classici per circa sessanta dollari, con ogni attrazione del percorso gratuita.",
+  "shortDescription": "Il modo economico per vedere il Fuji da Tokyo, un'intera giornata in autobus attorno a quattro punti panoramici classici per circa sessanta dollari, con ogni attrazione del percorso gratuita.",
+  "fullDescription": "Quasi ogni gita di un giorno al Monte Fuji da Tokyo è in auto privata con autista, e il prezzo lo rispecchia. Questa è l'altro tipo: un autobus condiviso, un percorso fisso attorno al lato nord della montagna, e un prezzo che rende il Fuji una gita sensata piuttosto che una decisione di budget.\n\nIl percorso lega insieme le quattro vedute che davvero funzionano. Il Lago Yamanaka è il primo ed è il più grande dei Cinque Laghi del Fuji; la mattina presto l'acqua diventa abbastanza piatta da riflettere interamente la montagna. Segue Oshino Hakkai, otto stagni alimentati da sorgenti in un vecchio villaggio con tetti di paglia, riempiti dallo scioglimento delle nevi del Fuji che ha passato decenni a filtrare attraverso la roccia vulcanica, e abbastanza limpido che il fondo è netto a diversi metri. Il Parco Oishi si trova sulla riva nord del Lago Kawaguchi con la montagna direttamente dall'altra parte dell'acqua e aiuole stagionali in primo piano, motivo per cui appare in così tante fotografie. Il Lago Kawaguchi stesso chiude il circuito.\n\nOgni attrazione del percorso è gratuita, quindi il prezzo del biglietto copre l'autobus e la guida e non c'è altro da pagare al cancello. Le guide parlano inglese e indossano un gilet verde e portano una bandiera rossa numerata al punto d'incontro, il che rende semplice trovare il gruppo in una stazione affollata.\n\nUn avvertimento onesto, che l'operatore dichiara apertamente: il Fuji crea il proprio meteo e la montagna è spesso invisibile. Le mattine d'inverno sono le più affidabili; i pomeriggi d'estate le meno. Nessuno può garantire la vista, e dovreste prenotare sapendolo.\n\nLe partenze avvengono dall'uscita nord della stazione di Tokyo alle 7:30 o dall'uscita ovest di Shinjuku alle 8:00, ed esiste una versione privata dello stesso percorso se preferite non condividere.",
+  "highlights": [],
+  "included": [
+   "Trasferimenti di andata e ritorno in autobus dal punto d'incontro\nGuida di lingua inglese\nIngresso a tutte le attrazioni sul percorso (tutte gratuite)"
+  ],
+  "notIncluded": [
+   "Ritiro e rientro in hotel\nPasti e bevande\nTariffa bagagli, contattate l'operatore in anticipo se dovete portare borse\nSpese personali\nAssicurazione di viaggio"
+  ]
+ },
+ "mount-fuji-signature-private-day-tour-kawaguchiko": {
+  "title": "Tour privato distintivo di una giornata al Monte Fuji da Kawaguchiko",
+  "metaTitle": "Monte Fuji privato da Kawaguchiko",
+  "metaDescription": "Una giornata privata di sei ore attorno al lato nord del Monte Fuji, abbinando i famosi punti panoramici della Pagoda Chureito e di Oshino Hakkai con parchi lacustri più tranquilli.",
+  "shortDescription": "Una giornata privata di sei ore attorno al lato nord del Monte Fuji, abbinando i famosi punti panoramici della Pagoda Chureito e di Oshino Hakkai con parchi lacustri più tranquilli.",
+  "fullDescription": "Il Monte Fuji è uno stratovulcano di 3.776 metri dipinto, scritto e percorso per secoli, e nel 2013 l'UNESCO lo ha inserito come sito culturale piuttosto che naturale, un riconoscimento di ciò che la montagna ha significato per l'arte e il pellegrinaggio giapponesi piuttosto che della roccia in sé. Il problema, per chi viaggia a lungo per vederlo, è che il Fuji passa gran parte dell'anno dietro le nuvole. Questo tour è costruito attorno a quel problema. La vostra guida legge le condizioni e la luce del mattino prima di decidere l'ordine della giornata, inseguendo le angolazioni dove la cima è più probabile che si veda chiaramente.\n\nLa giornata è costruita da due metà del repertorio dell'operatore: i luoghi che le persone arrivano già volendo vedere, e gli angoli più tranquilli che non troverebbero mai da sole. La Pagoda Chureito, la sala a cinque piani nel Parco Arakurayama Sengen sopra Fujiyoshida, è del primo tipo, circa quattrocento gradini sopra la città, e fonte della singola veduta più riprodotta della montagna esistente. Oshino Hakkai è del secondo tipo: otto stagni alimentati dallo scioglimento delle nevi che ha passato decenni a filtrare attraverso i letti di lava del Fuji, arrivando così limpida da poter contare le pietre sul fondo. Il Santuario Sengen, nel suo boschetto di vecchi cedri, segna il punto di partenza storico del percorso di pellegrinaggio sul lato nord.\n\nIl resto del percorso si adatta. Sia il Parco Nagasaki che il Parco Oishi si trovano sulla riva del Lago Kawaguchiko, uno dei Cinque Laghi del Fuji, ed entrambi offrono una lunga linea di vista aperta sull'acqua verso la montagna senza quasi nulla in mezzo. A seconda del meteo e del tempo, la vostra guida può aggiungere le Cascate Haha no Shirataki, la Grotta del Vento Fugaku, il tubo di lava noto localmente come la Grotta del Dragone, o il villaggio con tetti di paglia di Saiko Iyashi no Sato. Sei o sette tappe sono una giornata normale.\n\nL'operatore descrive l'approccio come omakase, affidate la forma della giornata alla guida come affidereste un pasto a uno chef. A guidare saranno Yuka o Lewis, entrambi guide in inglese, ed entrambi disposti ad accogliere richieste specifiche se inviate in anticipo. Ciò che chiedono in cambio è un po' di fiducia quando cambiano il piano alle 11 del mattino perché la nuvola si è spostata.\n\nSul prezzo: questo è un tour genuinamente privato e la tariffa copre tutta la comitiva piuttosto che ogni viaggiatore, quindi una coppia e un gruppo di quattro pagano esattamente lo stesso totale. Dal quinto ospite in avanti si applica un supplemento a persona, e comitive di otto o più devono essere organizzate su richiesta. Il ritiro è dal vostro alloggio, ma solo nell'area di Fujikawaguchiko, questo non è un tour che inizia a Tokyo. Il pranzo si prende in un ristorante locale e si paga separatamente, e il tour non sale alla Quinta Stazione del Fuji.",
+  "highlights": [
+   "Pagoda Chureito e la classica veduta pagoda-e-Fuji sopra Fujiyoshida",
+   "Gli otto stagni di sorgente di Oshino Hakkai, filtrati attraverso i letti di lava del Fuji",
+   "Santuario Kitaguchi Hongu Fuji Sengen e il suo antico boschetto di cedri",
+   "Vedute aperte della montagna dal Parco Oishi e dal Parco Nagasaki",
+   "Pianificazione del percorso guidata dal meteo, puntando dove il Fuji è davvero visibile quel giorno",
+   "Completamente privato, guidato in inglese, con ritiro locale a Fujikawaguchiko"
+  ],
+  "included": [
+   "Tour privato guidato in inglese, ritiro locale nell'area di Fujikawaguchiko, guida esperta (Yuka o Lewis), adattamenti del percorso secondo il meteo"
+  ],
+  "notIncluded": [
+   "Pranzo (budget di 1.500-2.000 yen a persona), visite alla Quinta Stazione del Monte Fuji"
+  ]
+ },
+ "mount-fuji-summit-climb-fujinomiya-route-2-days": {
+  "title": "Scalata guidata di due giorni alla cima del Monte Fuji sulla Via Fujinomiya",
+  "metaTitle": "Monte Fuji: cima in due giorni, via Fujinomiya",
+  "metaDescription": "Una seria scalata guidata di due giorni del Monte Fuji sulla via Fujinomiya, con una notte in un rifugio alla nona stazione, una partenza alle 2:30 per l'alba a Kengamine (3.776 m) e una discesa oltre il Cratere Hoei.",
+  "shortDescription": "Una seria scalata guidata di due giorni del Monte Fuji sulla via Fujinomiya, con una notte in un rifugio alla nona stazione, una partenza alle 2:30 per l'alba a Kengamine (3.776 m) e una discesa oltre il Cratere Hoei.",
+  "fullDescription": "Fujinomiya è il più corto dei quattro sentieri sul Monte Fuji, e il più ripido. La sua testa di sentiero si trova a 2.400 metri sul lato di Shizuoka, più in alto di tutti gli altri, il che significa meno distanza dalla cima e meno tempo per l'acclimatamento. In due giorni salite circa 1.400 metri verticali fino a Kengamine, il punto sul bordo del cratere che è la vera cima del Giappone a 3.776 metri. Questa è una giornata di alpinismo con una guida professionale, non una gita turistica, e dovrebbe essere scelta su questa base.\n\nIl primo giorno inizia alla Quinta Stazione di Fujinomiya alle 10:30 e sale a un ritmo deliberato, passando dalla settima stazione originale a 3.010 metri a metà pomeriggio e raggiungendo il rifugio della nona stazione verso le cinque. Il rifugio offre cena, una piattaforma per dormire comune e un'ora serale di silenzio obbligatorio. Il sonno è di solito scarso a quell'altitudine e in quella compagnia, il che è normale ed è una delle ragioni per cui l'orario è costruito attorno a una notte breve piuttosto che a una completa.\n\nLa sveglia arriva all'1:30, la colazione alle 2:00, e si parte nel buio alle 2:30 con torce frontali. L'ultima spinta verso Kengamine richiede poco meno di tre ore e vi porta alla cima per l'alba. Dal bordo del cratere il Pacifico si trova a sud, le Alpi Meridionali a ovest e le luci delle città costiere sono ancora accese sotto. Se le condizioni sono giuste potreste cogliere il Kage Fuji, l'ombra della montagna stessa gettata sulle nuvole e sulla terra sotto, la più grande di questo tipo in Giappone. C'è tempo per camminare attorno al Tainaiin, il cratere stesso della cima.\n\nLa discesa è la parte che distingue questo itinerario dalla maggior parte. Invece di ripercorrere Fujinomiya, si scende sul sentiero di Gotemba e si prende l'Osuna Hashiri, un lungo tratto di cenere vulcanica profonda dove ogni passo scivola per diversi metri e l'altitudine scende rapidamente. Il percorso passa per il Cratere Hoei a 2.693 metri, la cicatrice spalancata strappata dal fianco sud-est del Fuji dall'eruzione del 1707, l'ultima volta che questo stratovulcano è eruttato e la ragione per cui la montagna ha un'asimmetria visibile da Tokyo in una giornata limpida. Si torna alla Quinta Stazione di Fujinomiya entro le 11:30.\n\nQualche onestà pratica. La stagione ufficiale di scalata del Fuji va dai primi di luglio ai primi di settembre; fuori da essa i rifugi chiudono, i sentieri sono innevati e la montagna è davvero pericolosa. Un permesso di scalata e una tassa d'ingresso alla montagna si applicano a partire dal 2026 e sono a vostro carico. Il mal di montagna è comune sopra i 3.000 metri anche tra persone in forma, il freddo e il vento forte in cima sono la norma piuttosto che l'eccezione in qualsiasi periodo dell'anno, e la montagna porta un inserimento culturale UNESCO concesso nel 2013 per i suoi secoli come sito di pellegrinaggio, una storia che si sente sul sentiero.\n\nLa tariffa della guida è applicata per gruppo, non per scalatore, su una scala pubblicata che aumenta con la dimensione della comitiva e aggiunge una seconda guida da otto persone in su. L'assicurazione di viaggio domestica è inclusa. La tassa del rifugio di circa 11.000-13.000 yen a persona, l'ingresso alla montagna di 4.000 yen e l'alloggio della guida sono separati e si pagano in aggiunta.",
+  "highlights": [
+   "Il sentiero più corto e più vicino alla cima più alta del Giappone (Kengamine, 3.776 m)",
+   "Alba dalla cima con ampie vedute sull'Oceano Pacifico e sulle montagne",
+   "Camminate nel cratere Tainaiin in cima",
+   "Vedete 'Kage Fuji', la più grande ombra di montagna del Giappone",
+   "Scendete oltre il Cratere Hoei, il cratere più grande e più recente del Fuji, attraverso il campo di cenere vulcanica dell'Osuna Hashiri"
+  ],
+  "included": [
+   "Tariffa della guida, assicurazione di viaggio domestica"
+  ],
+  "notIncluded": [
+   "Tassa del rifugio di montagna 11.000-13.000 yen, ingresso alla montagna 4.000 yen, alloggio della guida"
+  ]
+ },
+ "mount-fuji-summit-climb-subashiri-route-2-days": {
+  "title": "Scalata alla cima del Monte Fuji in due giorni sul sentiero boscoso di Subashiri",
+  "metaTitle": "Monte Fuji: cima in due giorni, via Subashiri",
+  "metaDescription": "Una scalata guidata di due giorni del Monte Fuji sul tranquillo sentiero alberato di Subashiri, con pernottamento in un rifugio all'ottava stazione a 3.270 metri e il bordo del cratere raggiunto la mattina successiva.",
+  "shortDescription": "Una scalata guidata di due giorni del Monte Fuji sul tranquillo sentiero alberato di Subashiri, con pernottamento in un rifugio all'ottava stazione a 3.270 metri e il bordo del cratere raggiunto la mattina successiva.",
+  "fullDescription": "Dei quattro sentieri di scalata del Fuji, Subashiri è quello che sembra ancora una montagna piuttosto che una fila. Inizia sul lato di Shizuoka a 2.000 metri e passa il primo tratto dentro la foresta, così si sale per un paio d'ore sotto gli alberi prima che la vegetazione si assottigli attorno ai 2.500 metri e il vulcano si mostri per ciò che è: un cono spoglio di cenere e lava. Yoshida, sul lato di Yamanashi, porta il grosso degli scalatori del Fuji. Subashiri ne porta una frazione, e si unisce al sentiero di Yoshida solo vicino alla cima.\n\nL'orario è costruito attorno a una notte piuttosto che a una spinta durante tutta la notte. Incontrate la vostra guida alla quinta stazione alle 10:00, raggiungete la nuova sesta stazione a 2.420 metri verso mezzogiorno, la settima a 2.920 metri a metà pomeriggio, e vi sistemate in un rifugio all'ottava stazione a 3.270 metri in prima serata. I rifugi sul Fuji sono piattaforme comuni per dormire, non camere d'hotel, ma quella sosta anticipata vi compra qualcosa di valore: diverse ore di riposo in altitudine, le luci della città sparse molto sotto, e in una notte limpida un cielo che rende l'impegno meritevole prima ancora di averlo finito.\n\nIl secondo giorno inizia alle 3:30. Si sale con la torcia frontale, e l'alba arriva verso le 4:45 mentre siete ancora sul sentiero piuttosto che sul cratere affollato della cima. L'ultima sezione raggiunge i 3.720 metri verso le 7:30, dove la guida conduce una camminata sul bordo del cratere oltre il Tainaiin. Meteo permettendo, guardate in basso verso il Cratere Hoei, la ferita lasciata sul fianco sud-est del Fuji dall'eruzione del 1707, e potreste cogliere il Kage Fuji, l'enorme ombra triangolare che la montagna getta sulle pianure e sul mare di nuvole all'alba. La discesa usa il Sunabashiri, un pendio di sabbia vulcanica morbida che potete più o meno correre giù, che vi riporta alla quinta stazione entro le 14:00.\n\nQuesta è una vera giornata di montagna e merita una descrizione onesta. Guadagnate circa 1.700 metri verticali in due giorni ad altitudini dove l'aria contiene circa due terzi dell'ossigeno a cui siete abituati. Mal di testa, nausea e fiato corto sono ordinari sul Fuji anche per persone in forma, e la difesa standard è camminare lentamente, bere costantemente, e avvisare presto la vostra guida. Il meteo in cima può restare vicino al gelo con vento forte in piena estate di Tokyo. Chiunque faccia escursioni regolarmente e prenda sul serio il ritmo può farlo; nessuno dovrebbe trattarla come una passeggiata.\n\nSul prezzo, leggete le fasce con attenzione perché la struttura è inusuale. Ciò che prenotate è la guida, e la tariffa viene applicata per la comitiva nel suo insieme su una scala crescente, quindi uno scalatore e due scalatori pagano lo stesso totale. La vostra notte nel rifugio, la tassa d'ingresso alla montagna, l'autobus navetta fino alla testa del sentiero e l'alloggio della guida sono tutti pagati separatamente, e l'operatore li dichiara apertamente piuttosto che incorporarli in una cifra complessiva. La finestra di scalata è breve, circa dal 10 luglio al 10 settembre, e l'età minima è sette anni.",
+  "highlights": [
+   "Scalate il sentiero di Subashiri, il più verde e uno dei più tranquilli dei quattro sentieri del Fuji",
+   "Pendii boscosi inferiori fino a circa 2.500 metri prima che il cono diventi cenere spoglia",
+   "Pernottamento in un rifugio all'ottava stazione a 3.270 metri con luci della città e osservazione delle stelle",
+   "Alba dal sentiero verso le 4:45, lontano dalla folla della cima",
+   "Cima a 3.720 metri con una camminata guidata sul bordo del cratere oltre il Tainaiin",
+   "Vedute del Cratere Hoei e, in mattinate limpide, dell'ombra di montagna Kage Fuji",
+   "Scendete il Sunabashiri, un pendio di sabbia vulcanica morbida",
+   "Guida autorizzata con prezzo per gruppo su una scala crescente piuttosto che a testa"
+  ],
+  "included": [
+   "Tariffa della guida"
+  ],
+  "notIncluded": [
+   "Alloggio 8.000-12.000 yen, tassa d'ingresso alla montagna 4.000 yen a persona, assicurazione facoltativa 500 yen a persona, alloggio della guida 8.000-12.000 yen, autobus navetta 2.000-2.500 yen a persona"
+  ]
+ },
+ "mount-fuji-sunrise-summit-climb-2-days": {
+  "title": "Scalata all'alba alla cima del Monte Fuji in due giorni con trasferimenti da Tokyo",
+  "metaTitle": "Monte Fuji: alba in due giorni da Tokyo",
+  "metaDescription": "Una scalata guidata di due giorni del Monte Fuji sul sentiero Subashiri, con trasferimenti privati in autobus da Tokyo o Gotemba, una notte in un rifugio di montagna e un'ascesa con torcia frontale cronometrata per l'alba alla cima a 3.776 metri.",
+  "shortDescription": "Una scalata guidata di due giorni del Monte Fuji sul sentiero Subashiri, con trasferimenti privati in autobus da Tokyo o Gotemba, una notte in un rifugio di montagna e un'ascesa con torcia frontale cronometrata per l'alba alla cima a 3.776 metri.",
+  "fullDescription": "Questa è la versione completamente assistita di una scalata del Fuji. Invece di organizzare il vostro autobus fino alla testa del sentiero e giocare d'azzardo sulla disponibilità del rifugio nel mezzo di una stagione breve e molto prenotata, incontrate un autobus nel centro di Tokyo a Tochomae o alla stazione di Gotemba più vicina alla montagna, e tutto, dal permesso di scalata alla branda e alla cena, è già organizzato. Guide di montagna di lingua inglese conducono la scalata, e il gruppo è diviso tra diverse di loro così il ritmo può essere adattato piuttosto che imposto.\n\nIl percorso è Subashiri, che inizia a 2.000 metri sul lato di Shizuoka ed è notevolmente più tranquillo del sentiero di Yoshida usato dalla maggior parte delle scalate organizzate. La sezione inferiore attraversa la foresta prima di aprirsi sul cono vulcanico spoglio. Il primo giorno sale dalla quinta stazione a un rifugio di montagna a 3.200 metri, il Miharashikan, o a 3.400 metri, il Fujisan Hotel, secondo quale delle due opzioni di partenza prenotate. Una cena calda di riso al curry giapponese viene servita al rifugio, con una versione vegetariana disponibile su richiesta al momento della prenotazione, e dormite su una branda con biancheria fornita.\n\nLa spinta alla cima avviene nel buio. Vi svegliano ben prima dell'alba, salite con la torcia frontale, e l'opzione del rifugio più alto richiede circa novanta minuti dall'ottava stazione mentre quella più bassa richiede circa tre ore. Il punto di quella tempistica è stare sul bordo del cratere a 3.776 metri mentre il sole sorge sopra il mare di nuvole, che in una mattina limpida è la singola immagine che la maggior parte delle persone porta via dal Giappone. Se le condizioni lo permettono, le guide conducono una camminata attorno al cratere. La colazione viene mangiata al rifugio prima della lunga discesa alla quinta stazione e dell'autobus di ritorno a Gotemba o Tokyo.\n\nIl Fuji non è una montagna tecnica, ma è alta, e l'altitudine non si preoccupa di quanto siate in forma. Sopra i 3.000 metri l'aria contiene circa due terzi dell'ossigeno del livello del mare, e mal di testa, nausea e fiato corto sono comuni. Una notte a 3.200 o 3.400 metri aiuta, il ritmo lento e guidato aiuta ancora di più, e le guide tengono d'occhio chi fa fatica. Le temperature in cima possono restare vicino al gelo con vento forte in agosto, e l'ascesa è un vero sforzo fisico di due giorni con sonno interrotto in un rifugio comune. Chiunque cammini a lungo con facilità se la caverà; chiunque si aspetti una passeggiata avrà difficoltà. L'attrezzatura personale può essere affittata se non possedete scarponi o strati impermeabili.\n\nIl prezzo qui è davvero per persona, non per gruppo, quindi ogni scalatore della vostra comitiva paga la stessa tariffa. Copre le guide, l'autobus privato di andata e ritorno, la branda e la biancheria del rifugio, la cena e la colazione, il permesso di scalata e un certificato che confermi la vostra ascesa alla cima. Due pranzi non sono inclusi e possono essere acquistati nei rifugi lungo il percorso, e c'è una tassa separata di 4.000 yen per il permesso di scalata da confermare al momento della prenotazione. La stagione va da fine giugno a circa il 10 settembre, e le dimensioni del gruppo sono maggiori di una scalata privata: fino a quaranta ospiti con cinque o sei guide nella partenza all'ottava stazione, fino a venti con tre o quattro guide nell'opzione della settima stazione.",
+  "highlights": [
+   "Stazionate sulla cima a 3.776 metri della montagna più alta del Giappone per l'alba",
+   "Scalate il sentiero Subashiri meno affollato dalla quinta stazione a 2.000 metri",
+   "Autobus charter privato in entrambe le direzioni da Tochomae a Tokyo o dalla stazione di Gotemba",
+   "Notte nel rifugio di montagna a 3.200 o 3.400 metri con branda, biancheria e una calda cena giapponese",
+   "Guide di montagna professionali di lingua inglese, diverse per gruppo",
+   "Permesso di scalata organizzato per voi e un certificato di cima in seguito",
+   "Camminata facoltativa sul bordo del cratere in cima se il meteo lo permette",
+   "Noleggio gratuito dell'attrezzatura disponibile se non possedete scarponi o strati esterni"
+  ],
+  "included": [
+   "Guide di lingua inglese, trasporto privato in autobus di andata e ritorno da Tokyo/Gotemba, alloggio nel rifugio di montagna (branda, biancheria, sacco a pelo, cuscino), cena del primo giorno (riso al curry giapponese; opzione vegetariana disponibile), colazione del secondo giorno, permesso di scalata (4.000 yen), certificato di cima"
+  ],
+  "notIncluded": [
+   "Due pranzi (acquistabili nei rifugi di montagna lungo il percorso), snack, attrezzatura personale (noleggio disponibile)"
+  ]
+ },
+ "mount-hoei-crater-day-trek-fuji": {
+  "title": "Escursione di un giorno al Cratere del Monte Hoei sul fianco vulcanico del Fuji",
+  "metaTitle": "Escursione al Cratere Hoei sul Monte Fuji",
+  "metaDescription": "Un'escursione guidata di un giorno attraverso i flussi di lava del Monte Fuji fino alla cima di 2.693 metri del Monte Hoei, il picco creato dall'ultima eruzione del vulcano nel 1707.",
+  "shortDescription": "Un'escursione guidata di un giorno attraverso i flussi di lava del Monte Fuji fino alla cima di 2.693 metri del Monte Hoei, il picco creato dall'ultima eruzione del vulcano nel 1707.",
+  "fullDescription": "Nel dicembre 1707 il Monte Fuji eruttò per l'ultima volta, strappando una serie di crateri nel suo fianco sud-est e cospargendo Edo, a centoventi chilometri di distanza, di cenere. Il bordo di quell'eruzione è il Monte Hoei, a 2.693 metri il secondo punto più alto della montagna, e questa escursione di un giorno vi conduce dritti dentro. Dove la scalata della cima riguarda altitudine e resistenza, questa riguarda vedere cosa fa davvero un vulcano: flussi di lava grezza, pendii di cenere instabile, e una parete di cratere che ha appena iniziato a far crescere qualcosa dopo tre secoli.\n\nIl percorso copre circa 7,2 km, iniziando dal campo base di Fujinomiya a 2.400 metri e salendo alla cima del Hoei a 2.693 metri. Quattro o cinque ore di camminata vi portano lì e ritorno, con il terreno che alterna tra sentiero compattato e tratti di roccia esposta e ghiaia vulcanica che si muove sotto i piedi. Il pranzo, un bento giapponese, si mangia in cima. La veduta dalla cima si estende per circa 280 gradi: la caldera di Hakone a est, il Lago Yamanaka tra i Cinque Laghi del Fuji a nord, la costa del Pacifico a sud, e dietro di voi l'intera massa grigia del Fuji che si innalza verso il cono della cima.\n\nIl grande vantaggio pratico del Hoei è la sua stagione. La finestra ufficiale di scalata del Fuji dura appena nove settimane, dai primi di luglio ai primi di settembre, e fuori da essa i rifugi chiudono e la montagna diventa davvero pericolosa. Questa escursione funziona da metà maggio a metà novembre, il che significa che potete camminare in alto sul Fuji nell'aria limpida dell'autunno tardo o dell'inizio estate, quando la folla se n'è andata e la visibilità è al suo meglio.\n\nÈ onesto definirla un'escursione intermedia piuttosto che facile. Siete sopra i 2.400 metri per tutta la camminata, la ghiaia vulcanica è faticosa e instabile in alcuni punti, e i tratti esposti prendono il vento. Non c'è arrampicata né difficoltà tecnica, e camminatori regolari in salute ragionevole la gestiscono comodamente, ma è una vera giornata di montagna piuttosto che una passeggiata panoramica. Le guide sono guide di montagna professionali di lingua inglese e il gruppo è limitato a otto.\n\nLa logistica è insolitamente ben coperta. La giornata dura circa dalle 8:30 alle 17:00 porta a porta, con ritiro gratuito alla stazione di Gotemba o al Fuji Mountain Coffee nella partenza di gruppo, oppure ritiro in hotel nelle aree di Kawaguchiko, Hakone e Gotemba in una prenotazione privata. Tutta l'attrezzatura essenziale per l'escursione, inclusi scarponi e strati impermeabili, è prestata senza costi aggiuntivi, quindi non dovete volare in Giappone con uno zaino di attrezzatura da montagna. Il prezzo è per persona nella partenza di gruppo, che richiede un minimo di due viaggiatori; una versione privata è disponibile su una scala crescente per persona che diventa più economica all'aumentare della comitiva. Solo oggetti personali come un cappello, occhiali da sole e i vostri farmaci sono lasciati a voi.",
+  "highlights": [
+   "Raggiungete la cima del Monte Hoei a 2.693 metri, il secondo picco più alto sul Monte Fuji",
+   "Camminate dentro il cratere lasciato dall'ultima eruzione del Fuji, nel 1707",
+   "Un panorama di 280 gradi sulla caldera di Hakone, il Lago Yamanaka e il Pacifico",
+   "Percorso di 7,2 km che sale dal campo base di Fujinomiya a 2.400 metri",
+   "Funziona da metà maggio a metà novembre, ben oltre la breve stagione di scalata del Fuji",
+   "Noleggio gratuito di scarponi, impermeabili e tutta l'attrezzatura essenziale da trekking",
+   "Pranzo bento giapponese mangiato in cima",
+   "Guide di montagna professionali di lingua inglese, massimo otto nel gruppo"
+  ],
+  "included": [
+   "Guide di montagna professionali di lingua inglese, trasporto (navetta o ritiro in hotel), pranzo bento giapponese, tutta l'attrezzatura essenziale per l'escursione inclusi scarponi e strati impermeabili, senza costo aggiuntivo"
+  ],
+  "notIncluded": [
+   "Oggetti personali (cappello, occhiali da sole, farmaci personali)"
+  ]
+ },
+ "nachi-falls-full-day-tour": {
+  "title": "Viaggio di 2 giorni nella penisola di Kii: Cascate di Nachi e Kumano Kodo da Nagoya",
+  "metaTitle": "Cascate di Nachi e Kumano Kodo in 2 giorni",
+  "metaDescription": "Un viaggio di 2 giorni con pernottamento da Nagoya o Osaka alle Cascate di Nachi e agli antichi sentieri del Kumano Kodo.",
+  "shortDescription": "Un viaggio di 2 giorni con pernottamento da Nagoya o Osaka alle Cascate di Nachi e agli antichi sentieri del Kumano Kodo.",
+  "fullDescription": "La penisola di Kii si trova a sud sia di Osaka che di Nagoya, un tratto montuoso e densamente boscoso della prefettura di Wakayama che attira pellegrini da oltre mille anni. Questa è una partenza di due giorni con pernottamento piuttosto che una gita in giornata, che dà ai viaggiatori abbastanza tempo per camminare davvero su tratti del Kumano Kodo, una rete di antichi sentieri di pellegrinaggio registrata come sito del Patrimonio Mondiale UNESCO insieme al Camino de Santiago in Spagna, uno dei soli due percorsi di pellegrinaggio con questa doppia designazione.\n\nIl punto centrale del viaggio sono le Cascate di Nachi, con i suoi 133 metri una delle cascate a caduta singola più alte del Giappone e una delle più fotografate, affiancata dalla pagoda vermiglia del tempio Seiganto-ji in una combinazione che appare su cartoline da generazioni. L'itinerario include anche un'esperienza di costume dell'epoca Heian, che permette ai viaggiatori di vestirsi nello stile della corte imperiale classica del Giappone per foto contro lo sfondo boscoso del sentiero, un dettaglio che distingue questo viaggio da un tipico circuito di cascate e santuari.\n\nPoiché si tratta di un itinerario di due giorni con una notte, aspettatevi un pernottamento inserito nel programma e un ritmo generale più lento rispetto a un tour di un solo giorno. Sono disponibili punti di partenza sia da Osaka che da Nagoya, quindi confermate il vostro specifico punto d'incontro e la sequenza esatta delle tappe con l'operatore, l'operatore locale, al momento della prenotazione, poiché la tempistica dettagliata giorno per giorno non era pubblicata insieme a questa inserzione.",
+  "highlights": [
+   "Esplorate i sacri sentieri di pellegrinaggio del Kumano Kodo nella penisola di Kii",
+   "Visitate le Cascate di Nachi, una delle cascate più alte e venerate del Giappone",
+   "Provate il costume tradizionale dell'epoca Heian per le foto"
+  ],
+  "included": [
+   "Trasporto per l'itinerario di 2 giorni, un pernottamento, noleggio del costume Heian per le foto, commento della guida"
+  ],
+  "notIncluded": [
+   "Alcuni pasti, spese personali, assicurazione di viaggio, mance"
+  ]
+ },
+ "nagoya-cutting-mini-tour": {
+  "title": "Spettacolo di taglio del tonno e corso di sushi a Nagoya",
+  "metaTitle": "Taglio del tonno e corso di sushi a Nagoya",
+  "metaDescription": "Guardate uno spettacolo live di macellazione del tonno, poi preparate il vostro sushi con tonno illimitato e bevande illimitate.",
+  "shortDescription": "Guardate uno spettacolo live di macellazione del tonno, poi preparate il vostro sushi con tonno illimitato e bevande illimitate.",
+  "fullDescription": "Questa esperienza di due ore è incentrata sul maguro kaitai, il tradizionale spettacolo di taglio del tonno che si trova nei ristoranti di sushi vecchio stile in tutto il Giappone, dove un tonno intero viene smontato a mano davanti ai commensali che lo mangeranno. Uno chef addestrato lavora il pesce con lunghi coltelli da sushi, narrando ogni taglio e l'anatomia del tonno mentre procede, una dimostrazione nata sia come macelleria che come teatro nei ristoranti che volevano dimostrare la freschezza di ciò che stava per essere servito. Osservarlo da vicino a Nagoya offre ai visitatori un pezzo di tradizione culinaria che precede i nastri trasportatori di sushi e il sushi da esportazione che la maggior parte dei viaggiatori già conosce.\n\nUna volta terminato lo spettacolo, il pesce diventa il pasto. Gli ospiti passano a una sessione pratica di preparazione del sushi, modellando i propri nigiri e rolli sotto guida usando il tonno appena tagliato dalla dimostrazione, un collegamento più diretto dalla fattoria alla tavola, o in questo caso dal mare alla tavola, di quanto offrano la maggior parte dei corsi di cucina. L'identità culinaria di Nagoya si basa molto su specialità regionali come l'hitsumabushi e il miso katsu piuttosto che sul sushi, il che rende questo formato incentrato sul tonno diverso dal solito turismo culinario della città piuttosto che una ripetizione di ciò che si trova a Tokyo o Osaka.\n\nL'esperienza è strutturata come tonno illimitato con bevande illimitate per l'intera durata di due ore, quindi non c'è pressione a razionare i bocconi durante la parte di preparazione del sushi. Si adatta più a viaggiatori curiosi del cibo che a studenti tecnici di cucina, poiché l'enfasi è sul guardare il lavoro abile del coltello e poi mangiare bene piuttosto che padroneggiare la tecnica formale del sushi. Venite con fame, poiché il solo taglio del tonno produce tipicamente molto più di una porzione standard di sushi.",
+  "highlights": [
+   "Guardate uno spettacolo live tradizionale di taglio del tonno eseguito da uno chef addestrato",
+   "Preparate il vostro sushi e nigiri usando il tonno appena tagliato",
+   "Tonno illimitato per l'intera sessione di due ore",
+   "Bevande illimitate incluse durante l'esperienza"
+  ],
+  "included": [
+   "Spettacolo live di taglio del tonno, sessione pratica di preparazione del sushi, tonno illimitato, bevande illimitate"
+  ],
+  "notIncluded": [
+   "Ritiro e rientro in hotel, mance, cibo aggiuntivo oltre al formato tonno e sushi"
+  ]
+ },
+ "nagoya-gujo-full-day-tour": {
+  "title": "Gujo, Hida-Takayama e Shirakawa-go: gita di un giorno intero da Nagoya",
+  "metaTitle": "Gujo, Hida-Takayama e Shirakawa-go da Nagoya",
+  "metaDescription": "Una lunga gita in autobus di un giorno intero da Nagoya attraverso tre dei villaggi più ricchi di storia delle Alpi giapponesi.",
+  "shortDescription": "Una lunga gita in autobus di un giorno intero da Nagoya attraverso tre dei villaggi più ricchi di storia delle Alpi giapponesi.",
+  "fullDescription": "Nagoya è la quarta città più grande del Giappone e il cuore industriale della regione del Chubu, sede del quartier generale della Toyota nella vicina Toyota City, ma un breve viaggio in autobus a nord vi porta in un Giappone completamente diverso. Questa escursione di un giorno intero parte dal centro di Nagoya e intreccia tre dei villaggi di montagna più ricchi di storia della regione, ciascuno conservato nel suo modo distinto contro la spinta dello sviluppo moderno, per una giornata lunga ma gratificante lontano dalla città.\n\nIl percorso inizia a Gujo, una città-castello costruita lungo le acque limpide del fiume Yoshida, dandovi un'ora per girovagare prima di continuare verso Hida-Takayama, una città mercantile conservata del periodo Edo nelle Alpi giapponesi nota per le sue vecchie vetrine di legno, le distillerie di sake e i mercati matutini. Avrete due ore intere qui per esplorare le sue strade illuminate da lanterne al vostro ritmo. L'ultima e più iconica tappa della giornata è Shirakawa-go, un villaggio patrimonio UNESCO di case contadine gassho-zukuri con tetti di paglia a spiovente, progettate nel corso di secoli di forti nevicate di montagna per scaricare il peso della neve invernale.\n\nQuesta è una lunga giornata sulla strada, con circa cinque ore di guida inserite in un itinerario di undici ore, quindi aspettatevi generoso tempo libero in ogni tappa piuttosto che una visita strettamente guidata. Si adatta a viaggiatori che vogliono vedere tre facce molto diverse del Giappone rurale in un unico viaggio e non si preoccupano di una partenza presto e un rientro tardo a Nagoya.",
+  "highlights": [
+   "Visitate tre storici villaggi del periodo Edo in una singola giornata",
+   "Esplorate le case contadine gassho-zukuri di Shirakawa-go, patrimonio UNESCO",
+   "Girovagate per le strade mercantili conservate e i mercati matutini di Hida-Takayama"
+  ],
+  "included": [
+   "Trasporto di andata e ritorno in autobus da Nagoya, guida di lingua inglese, tempo libero a Gujo, Hida-Takayama e Shirakawa-go"
+  ],
+  "notIncluded": [
+   "Pasti e bevande, spese personali, ritiro in hotel fuori dal punto d'incontro designato, mance"
+  ]
+ },
+ "nagoya-nakasendo-guided-tour": {
+  "title": "Viaggio di 3 giorni sul Sentiero Nakasendo e gli altipiani di Nagano: da Nagoya a Kawagoe",
+  "metaTitle": "Nakasendo e altipiani di Nagano in 3 giorni",
+  "metaDescription": "Un viaggio guidato di tre giorni da Nagoya a Kawagoe attraverso storiche città postali, santuari di montagna e gli altipiani di Nagano.",
+  "shortDescription": "Un viaggio guidato di tre giorni da Nagoya a Kawagoe attraverso storiche città postali, santuari di montagna e gli altipiani di Nagano.",
+  "fullDescription": "Questo viaggio di tre giorni segue un percorso che la maggior parte dei viaggiatori salta completamente: l'antico sentiero Nakasendo che collega Nagoya alle montagne del Giappone centrale e prosegue verso Kawagoe vicino a Tokyo. Il Nakasendo era una delle cinque grandi vie del periodo Edo, che collegava Kyoto ed Edo attraverso l'interno piuttosto che la costa, e Narai-juku è una delle sue città postali meglio conservate, una fila di case mercantili e locande di legno che un tempo ospitavano i viaggiatori che facevano a piedi lo stesso attraversamento secoli fa. Camminare oggi sulla sua via principale sembra meno un museo e più una città che ha semplicemente continuato a costruire nello stesso stile.\n\nDa Narai-juku il percorso continua fino a Matsumoto, sede di uno dei più antichi castelli originali sopravvissuti del Giappone, e poi a Nagano, la città che ha ospitato le Olimpiadi invernali del 1998 e resta una porta d'accesso alle Alpi giapponesi. Il viaggio comprende anche Togakushi, un'area di montagna da lungo tempo associata allo shugendo, la tradizione religiosa ascetica di montagna del Giappone, e a una rete di santuari che precedono la maggior parte delle città del periodo Edo viste prima nel viaggio. Passare per queste tappe in sequenza traccia un vero corridoio storico piuttosto che una lista di punti salienti scollegati, e il paesaggio montano della prefettura di Nagano si distingue notevolmente dal carattere urbano e industriale di Nagoya.\n\nIl viaggio termina a Kawagoe, una città mercantile ben conservata del periodo Edo appena fuori Tokyo nota per i suoi magazzini kurazukuri a parete di argilla, rendendo i tre giorni un vero transito dalla costa alla montagna fino ai margini di Tokyo piuttosto che un circuito di ritorno al punto di partenza. Con 72 ore in tre giorni, questo si adatta a viaggiatori che vogliono un'immersione profonda e senza fretta nel Giappone rurale e delle piccole città, collegando due grandi città tramite un'antica via interna invece dello shinkansen.",
+  "highlights": [
+   "Camminate nella conservata città postale del periodo Edo di Narai-juku sul storico sentiero Nakasendo",
+   "Visitate Matsumoto e uno dei più antichi castelli originali del Giappone",
+   "Esplorate Nagano e i santuari di montagna di Togakushi",
+   "Terminate a Kawagoe, nota per il suo quartiere di magazzini kurazukuri del periodo Edo",
+   "Viaggio di tre giorni a senso unico da Nagoya all'area di Tokyo attraverso il Giappone interno storico"
+  ],
+  "included": [
+   "Viaggio guidato di tre giorni con una guida locale, percorso che comprende Narai-juku, Matsumoto, Nagano, Togakushi e Kawagoe, trasporto tra ogni tappa"
+  ],
+  "notIncluded": [
+   "Alloggio per le tre notti, tutti i pasti, biglietti d'ingresso a castelli e museo, spese personali e mance"
+  ]
+ },
+ "nagoya-tv-tower-evening-tour": {
+  "title": "Nagoya di notte: tour a piedi della Torre TV e del Sky Promenade",
+  "metaTitle": "Nagoya di notte: Torre TV e Sky Promenade",
+  "metaDescription": "Tour serale a piedi sulla Torre TV di Nagoya e sul Sky Promenade per vedute panoramiche notturne della città.",
+  "shortDescription": "Tour serale a piedi sulla Torre TV di Nagoya e sul Sky Promenade per vedute panoramiche notturne della città.",
+  "fullDescription": "Mentre il crepuscolo si posa sulla città più grande del Chubu, lo skyline di Nagoya scambia il suo brusio industriale diurno con un'eleganza più tranquilla e scintillante, e questa passeggiata serale in piccolo gruppo è costruita attorno a quel cambiamento. Incontrate la vostra guida a Oasis 21, la piazza in vetro e acciaio \"Astronave d'Acqua\" a Sakae, prima di attraversare verso la Torre TV di Nagoya, la più antica torre TV autoportante del Giappone, completata nel 1954 e ora un Bene Culturale Tangibile registrato che si erge tranquillamente accanto alla sua moderna vicina di vetro.\n\nDai livelli panoramici della torre la guida indica come si sviluppa sotto la griglia di Nagoya: il largo viale Hisaya-odori, il bagliore distante delle mura illuminate del Castello di Nagoya, e le fabbriche e le gru del porto che fanno di questa la quarta città più grande del Giappone e il cuore industriale della regione del Chubu, sede della Toyota e di gran parte della produzione aerospaziale e di macchine utensili del paese. Un breve viaggio in metropolitana porta poi il gruppo al Sky Promenade di Midland Square, una delle torri più alte della città, per un secondo punto panoramico, più alto, dove le luci della città si estendono verso le montagne.\n\nLungo il percorso la guida intreccia storia locale e vita quotidiana di Nagoya piuttosto che semplici fatti sugli edifici stessi, così la passeggiata sembra più un giro mostrato da un amico che il seguire un copione fisso. Il tour si conclude vicino al famoso Golden Clock nel centro città, lasciandovi a distanza di comoda passeggiata dai ristoranti e bar di Sakae se volete continuare la serata. Funziona anche con pioggia leggera ed è un modo rilassato e socievole di vedere un lato di Nagoya che la maggior parte dei visitatori giornalieri si perde completamente.",
+  "highlights": [
+   "Ammirate la bellezza notturna di Nagoya da due torri iconiche"
+  ],
+  "included": [
+   "Guida locale di lingua inglese, ingresso al terrazzo panoramico della Torre TV di Nagoya, ingresso al Sky Promenade di Midland Square, tariffa della metropolitana tra le tappe"
+  ],
+  "notIncluded": [
+   "Ritiro e rientro in hotel, cibo e bevande, spese personali, mance"
+  ]
+ },
+ "nara-asuka-ebike-tour-ishibutai-megaliths": {
+  "title": "Asuka in e-bike: terrazze di riso, la Tomba Ishibutai e le pietre più strane di Nara",
+  "metaTitle": "Asuka in e-bike: tomba Ishibutai e megaliti",
+  "metaDescription": "Biciclette elettriche nella campagna dove è nato lo stato giapponese, camere funerarie, megaliti scolpiti che nessuno sa spiegare completamente, e nessuna folla.",
+  "shortDescription": "Biciclette elettriche nella campagna dove è nato lo stato giapponese, camere funerarie, megaliti scolpiti che nessuno sa spiegare completamente, e nessuna folla.",
+  "fullDescription": "Asuka è dove è iniziato il Giappone, e quasi nessuno ci va. Prima di Nara e molto prima di Kyoto, questa valle tra le colline a sud della città di Nara ospitava la corte imperiale, accolse il buddhismo dal continente, e produsse il primo stato giapponese riconoscibile. È diventata di recente un sito del Patrimonio Mondiale UNESCO, e sembra ancora terra agricola, risaie a terrazza, case contadine di legno, basse colline e monumenti in pietra che si trovano nei campi senza nessuno attorno.\n\nLe e-bike sono lo strumento giusto qui. Le distanze tra i siti sono di pochi chilometri e il terreno ondula costantemente; l'assistenza elettrica lo appiattisce così passate la pedalata a guardare il paesaggio piuttosto che le vostre ginocchia. Ritirate le bici al punto d'incontro nel villaggio di Asuka e pedalate attraverso le risaie.\n\nIl Kofun di Ishibutai è il punto centrale: una camera funeraria del settimo secolo il cui tumulo di terra si è eroso, lasciando le pietre megalitiche completamente esposte. La sola lastra di copertura pesa circa settanta tonnellate, e si entra dentro. Nessuno è certo di chi sia sepolto lì, anche se la teoria prevalente punta su Soga no Umako.\n\nLe tappe più strane arrivano dopo. Kame-ishi, la Pietra Tartaruga, e Sakafune-ishi, la Pietra Nave del Sake, sono oggetti di granito scolpito il cui scopo è davvero sconosciuto, le teorie vanno da strumenti astronomici a recipienti rituali a ornamenti da giardino, e nessuna è definitiva. La vostra guida vi darà gli argomenti contrapposti piuttosto che una risposta ordinata, il che è più onesto e considerevolmente più interessante.\n\nI gruppi sono limitati a quindici persone. Basta un'abilità di guida di base. Il fascino qui è l'assenza di altre persone, quindi se Kyoto vi ha logorato, questo è l'antidoto.",
+  "highlights": [],
+  "included": [
+   "Bicicletta a assistenza elettrica per il tragitto\nGuida locale di lingua inglese\nPercorso guidato attraverso la campagna di Asuka e i suoi siti megalitici"
+  ],
+  "notIncluded": [
+   "Cibo e bevande\nBiglietti d'ingresso ai siti dove previsti\nTrasporto fino al punto d'incontro\nRitiro e rientro in hotel"
+  ]
+ },
  "nagoya-takoyaki-cooking-class": {
   "title": "Takoyaki da zero a Nagoya: pastella, polpo e il giro",
   "metaTitle": "Corso di cucina del takoyaki a Nagoya",
