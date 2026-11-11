@@ -15661,6 +15661,131 @@ export const IT_TOURS: Record<string, TourT> = {
    "Cibo e bevande\nBiglietti d'ingresso ai siti dove previsti\nTrasporto fino al punto d'incontro\nRitiro e rientro in hotel"
   ]
  },
+ "nara-chopsticks-mini-tour": {
+  "title": "Create le vostre bacchette giapponesi in un laboratorio a Nara",
+  "metaTitle": "Create le vostre bacchette giapponesi a Nara",
+  "metaDescription": "Modellate e levigate la vostra coppia di bacchette giapponesi scegliendo tra oltre dodici legni in un laboratorio di 45 minuti a Nara.",
+  "shortDescription": "Modellate e levigate la vostra coppia di bacchette giapponesi scegliendo tra oltre dodici legni in un laboratorio di 45 minuti a Nara.",
+  "fullDescription": "Le bacchette giapponesi non sono lo stesso oggetto delle loro cugine cinesi. Sono notevolmente più corte, e si affinano verso una punta molto più sottile, una forma sviluppata per togliere le lische dal pesce piuttosto che raggiungere un piatto condiviso al centro del tavolo. In questo piccolo laboratorio a Nara ne create una coppia voi stessi e scoprite che sensazione dà quella differenza nella mano.\n\nIniziate scegliendo il vostro legno tra più di dodici varietà esposte nello studio, ognuna con la propria venatura, peso e colore. Da lì il lavoro si svolge con strumenti manuali tradizionali: sgrossando il blocco quadrato, affinando la rastremazione verso la punta, poi levigando attraverso grane progressivamente più fine finché la superficie non smette di attaccarsi alla pelle. La levigatura è la parte che la maggior parte delle persone sottovaluta e finisce per apprezzare di più, perché è dove un bastoncino grezzo comincia a comportarsi come un utensile finito. La sessione dura circa 45 minuti, abbastanza per completare una coppia senza fretta ma breve abbastanza da inserirsi in una mattinata già passata a Todai-ji o in una pausa pranzo prima del treno di ritorno per Kyoto o Osaka.\n\nSi adatta a chi vuole qualcosa da Nara che non sia un acquisto da negozio di souvenir, e funziona bene per famiglie, coppie e viaggiatori solitari, poiché gli strumenti sono semplici e non è richiesta alcuna esperienza di falegnameria. Portate a casa le bacchette finite lo stesso giorno. Nara stessa è compatta e facile da raggiungere, circa 45 minuti da Kyoto e 35-40 minuti da Osaka in treno, quindi il laboratorio si combina naturalmente con una mezza giornata al Parco di Nara e nel vicino quartiere mercantile di Naramachi.",
+  "highlights": [
+   "Scegliete tra più di dodici tipi di legno",
+   "Modellate e affinate le vostre bacchette con strumenti manuali tradizionali",
+   "Levigate a mano la coppia fino a una superficie finita",
+   "Scoprite come le bacchette giapponesi si differenziano da quelle cinesi",
+   "Portate a casa la vostra coppia finita lo stesso giorno",
+   "Abbastanza breve da combinare con una mezza giornata al Parco di Nara"
+  ],
+  "included": [
+   "Sessione guidata di creazione bacchette, tutto il legno e i materiali, uso degli strumenti del laboratorio, la coppia finita di bacchette da portare a casa"
+  ],
+  "notIncluded": [
+   "Ritiro e rientro in hotel, trasporto fino al laboratorio, cibo e bevande, mance"
+  ]
+ },
+ "nara-park-beaten-bike-tour": {
+  "title": "Tour in e-bike a Nara: Todai-ji, parco dei cervi e un negozio di coltelli fuori dai percorsi battuti",
+  "metaTitle": "Nara in e-bike: Todai-ji e negozio di coltelli",
+  "metaDescription": "Coprite molto più di Nara di quanto permetta un tour a piedi, Todai-ji, il parco dei cervi, Kasuga Taisha e un negozio locale di coltelli che pochi visitatori trovano mai, su una e-bike assistita.",
+  "shortDescription": "Coprite molto più di Nara di quanto permetta un tour a piedi, Todai-ji, il parco dei cervi, Kasuga Taisha e un negozio locale di coltelli che pochi visitatori trovano mai, su una e-bike assistita.",
+  "fullDescription": "I luoghi da non perdere di Nara sono più distanti tra loro di quanto appaia a prima vista, e un tour a piedi di solito ha tempo solo per il Parco di Nara e Todai-ji prima che energia e ore finiscano. Questo tour in e-bike risolve il problema coprendo gli stessi siti principali più tappe genuinamente fuori dai percorsi battuti, usando e-bike ad assistenza a pedalata che rendono le distanze e qualsiasi pendenza irrilevanti indipendentemente dal livello di forma fisica.\n\nIl giro inizia con l'essenziale: i cervi sika liberi del Parco di Nara e la Sala del Grande Buddha di Todai-ji, che ospita il Daibutsu di bronzo di 15 metri fuso nel 752 d.C. Da lì, invece di tornare indietro come farebbe un tour a piedi, il percorso in e-bike continua fino al viale boscoso e costeggiato di lanterne di Kasuga Taisha e poi in quartieri che la maggior parte dei visitatori giornalieri non vede mai, incluso una sosta in un piccolo negozio locale di coltelli, una delle gemme davvero nascoste che la vostra guida conosce vivendo nella zona, dove tecniche tradizionali giapponesi di fabbricazione di lame sono ancora praticate su piccola scala.\n\nLa vostra guida traccia il percorso per evitare le strade più trafficate e i momenti più affollati, indicando dettagli della storia del periodo Nara lungo il percorso che sono facili da perdere senza contesto locale. Poiché le bici sono a assistenza elettrica, il ritmo resta confortevole anche per ciclisti non abituali, e l'autonomia extra significa che la giornata coprirà significativamente più terreno che camminare da soli, i vecchi vicoli mercantili di Naramachi vengono inseriti nel percorso come tratto finale piuttosto che come viaggio separato.",
+  "highlights": [
+   "Le e-bike ad assistenza a pedalata coprono molto più terreno di un tour a piedi, nessun livello di forma fisica richiesto",
+   "I cervi sacri del Parco di Nara e il Grande Buddha di bronzo di 15 metri di Todai-ji",
+   "Il viale boscoso e costeggiato di lanterne di Kasuga Taisha",
+   "Una vera sosta fuori dai percorsi battuti in un negozio locale di coltelli",
+   "Il vecchio quartiere mercantile di Naramachi inserito nel percorso"
+  ],
+  "included": [
+   "Noleggio e-bike e attrezzatura di sicurezza, guida autorizzata di lingua inglese, l'intero percorso descritto sopra"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso a Todai-ji, cibo e bevande, acquisti personali nel negozio di coltelli"
+  ]
+ },
+ "nara-park-bullet-guided-tour": {
+  "title": "Nara e Kyoto in un giorno da Tokyo con il treno proiettile",
+  "metaTitle": "Nara e Kyoto in un giorno con lo Shinkansen",
+  "metaDescription": "Un viaggio guidato di andata e ritorno di dodici ore da Tokyo con lo shinkansen al Parco di Nara, Todai-ji e Fushimi Inari Taisha.",
+  "shortDescription": "Un viaggio guidato di andata e ritorno di dodici ore da Tokyo con lo shinkansen al Parco di Nara, Todai-ji e Fushimi Inari Taisha.",
+  "fullDescription": "Siate chiari su cosa sia questo prima di prenotare: una giornata di dodici ore, di cui circa cinque ore trascorse sui treni. L'itinerario parte dal distretto di Minato a Tokyo, arriva alla stazione di Tokyo, prende un tratto di shinkansen di circa due ore e un quarto verso ovest, cambia per Nara, copre tre siti principali, e ritorna nello stesso modo alla sera. Se avete una giornata libera a Tokyo e nessun'altra possibilità di raggiungere la regione del Kansai, funziona. Se state già passando le notti a Kyoto o Osaka, una partenza locale vi darà molto più tempo sul posto.\n\nCiò che ottenete per il viaggio è una guida autorizzata di lingua inglese e un percorso serrato e ben scelto. Il Parco di Nara viene prima, quaranta minuti tra i cervi sika selvatici che vivono lì da secoli protetti come messaggeri della divinità shintoista Takemikazuchi, una popolazione formalmente designata Tesoro Naturale Nazionale nel 1957. Una camminata di dieci minuti vi porta al Daibutsuden di Todai-ji per un'ora intera. Nara fu fondata come Heijo-kyo nel 710 d.C. e servì come prima capitale permanente del Giappone per 74 anni; il Daibutsu di bronzo all'interno, alto circa quindici metri, fu dedicato nel 752 d.C., e la sala che lo circonda fu ricostruita nel 1709 a due terzi della larghezza originale ma è ancora uno dei più grandi edifici di legno del mondo.\n\nL'ultima tappa è il Fushimi Inari Taisha vicino a Kyoto, quaranta minuti tra i cancelli torii vermigli e i negozi ai piedi del santuario, prima dello shinkansen di ritorno dalla stazione di Kyoto. Aspettatevi una partenza presto, un rientro tardo e poco margine nel programma.",
+  "highlights": [
+   "Raggiungete Nara e Kyoto da Tokyo e ritornate lo stesso giorno",
+   "Guida autorizzata di lingua inglese per tutta la giornata",
+   "Viaggio in shinkansen in entrambe le direzioni, circa 2 ore e 15 minuti ogni tratto",
+   "Quaranta minuti con i cervi sika selvatici del Parco di Nara",
+   "Un'ora intera al Daibutsuden di Todai-ji e il suo Grande Buddha del 752 d.C.",
+   "Camminate tra i cancelli torii di Fushimi Inari Taisha prima di tornare"
+  ],
+  "included": [
+   "Guida autorizzata di lingua inglese, viaggio in shinkansen e treno locale secondo l'itinerario, cambio in metropolitana dal distretto di Minato, visite guidate a tutti i tre siti"
+  ],
+  "notIncluded": [
+   "Pasti e bevande, biglietti d'ingresso ai templi, ritiro in hotel fuori dal distretto di Minato, mance, spese personali"
+  ]
+ },
+ "nara-park-coach-full-day-tour": {
+  "title": "Parco dei cervi di Nara e la città del tè di Uji: gita in autobus di un giorno intero da Osaka",
+  "metaTitle": "Parco dei cervi di Nara e Uji da Osaka",
+  "metaDescription": "Una gita in autobus condiviso da Nipponbashi a Osaka, che dà due ore con i cervi selvatici di Nara e novanta minuti nella città del tè di Uji.",
+  "shortDescription": "Una gita in autobus condiviso da Nipponbashi a Osaka, che dà due ore con i cervi selvatici di Nara e novanta minuti nella città del tè di Uji.",
+  "fullDescription": "Una gita in autobus semplice e di buon valore dal centro di Osaka che abbina il parco dei cervi di Nara con Uji, la città del tè verde più famosa del Giappone. Partenza e ritorno sono entrambi al Harimaya Building a Nipponbashi, distretto di Chuo, quindi questo è un viaggio basato su Osaka piuttosto che su Nara, con circa settanta minuti di autobus ogni tratto. Ciò per cui pagate è il trasporto, il percorso e una struttura guidata per la giornata, il che lo rende un'opzione sensata se preferite non calcolare le coincidenze di treno tra due città in un pomeriggio.\n\nIl Parco di Nara riceve la maggior parte della giornata, circa due ore. Più di mille cervi sika selvatici vivono qui, protetti dal 1957 come Tesoro Naturale Nazionale e considerati nella tradizione shintoista messaggeri della divinità Takemikazuchi; confezioni di cracker shika senbei sono vendute alle bancarelle in tutto il parco, e i cervi si inchineranno per averli. Il parco pone anche diversi dei monumenti di Nara a distanza di passeggiata, incluso Todai-ji con il suo Buddha di bronzo di quindici metri dedicato nel 752 d.C., la pagoda a cinque piani di Kofuku-ji, e l'approccio costeggiato di lanterne di Kasuga Taisha, fondato nel 768 d.C. Due ore bastano per i cervi e un sito principale a un ritmo rilassato, non per tutti.\n\nLa seconda tappa è Uji, circa novanta minuti di visita nella città che da tempi medievali coltiva il matcha più apprezzato del Giappone e dove Byodo-in, la sala della fenice raffigurata sulla moneta da dieci yen, si trova lungo il fiume. La descrizione dell'operatore menziona anche un bagno alla sorgente termale Genji no Yu come parte della giornata. Incluse entrambe le tratte in autobus, l'escursione dura circa sette ore porta a porta. I visitatori nella stagione degli amori da ottobre a dicembre dovrebbero dare più spazio ai maschi, come avverte ogni anno la città di Nara.",
+  "highlights": [
+   "Due ore intere al Parco di Nara tra più di mille cervi sika selvatici",
+   "Date da mangiare ai cervi i cracker shika senbei venduti alle bancarelle del parco",
+   "Todai-ji, la pagoda a cinque piani di Kofuku-ji e Kasuga Taisha tutti a distanza di passeggiata",
+   "Novanta minuti a Uji, la città più famosa del Giappone per la coltivazione del matcha",
+   "Trasferimento in autobus di ritorno dal centro di Osaka, nessuna coincidenza di treno da calcolare",
+   "Sorgente termale Genji no Yu inclusa nella giornata dell'operatore"
+  ],
+  "included": [
+   "Trasporto in autobus di andata e ritorno da Nipponbashi a Osaka, giornata guidata con commento, visite al Parco di Nara e a Uji, sorgente termale Genji no Yu come descritta dall'operatore"
+  ],
+  "notIncluded": [
+   "Pasti e bevande, biglietti d'ingresso a templi e santuari, cracker per i cervi (shika senbei), ritiro in hotel, noleggio asciugamani e oggetti personali alla sorgente termale, mance"
+  ]
+ },
+ "nara-park-customisable-private-tour": {
+  "title": "Prima Nara, poi Kyoto: tour privato personalizzabile di una giornata",
+  "metaTitle": "Nara e Kyoto: tour privato personalizzabile",
+  "metaDescription": "Un tour privato di una giornata con base a Kyoto che visita prima il Parco di Nara e Todai-ji, poi Arashiyama, Kinkaku-ji e Fushimi Inari.",
+  "shortDescription": "Un tour privato di una giornata con base a Kyoto che visita prima il Parco di Nara e Todai-ji, poi Arashiyama, Kinkaku-ji e Fushimi Inari.",
+  "fullDescription": "La maggior parte dei tour di un giorno Kyoto-e-Nara seguono la stessa sequenza fissa. Questo è costruito nel modo opposto: parte da Kyoto e guida direttamente a Nara prima di tutto, circa 50 minuti in furgone privato, poi torna a nord attraverso Kyoto nel pomeriggio. Andare a Nara presto conta più di quanto sembri, perché il Parco di Nara e il Daibutsuden si riempiono costantemente durante la giornata e le prime ore lì sono le più tranquille.\n\nIl Parco di Nara occupa la prima ora, con tempo libero incorporato piuttosto che un itinerario a marcia forzata. Il parco ospita ben oltre mille cervi sika selvatici, protetti fin dai tempi antichi come messaggeri della divinità Takemikazuchi e dotati di status di Tesoro Naturale Nazionale nel 1957; i cracker shika senbei venduti alle bancarelle attorno al parco sono il motivo per cui si avvicinano affatto ai visitatori. Segue Todai-ji, dove il Daibutsu di bronzo seduto dedicato nel 752 d.C. si trova sotto una sala ricostruita nel 1709 a due terzi della larghezza originale e ancora contata tra le più grandi strutture di legno sulla terra. Nara fu la prima capitale permanente del Giappone dal 710 d.C., ed entrambi i siti risalgono a quell'era fondativa.\n\nIl pomeriggio è a Kyoto: Arashiyama, il padiglione dorato di Kinkaku-ji, e Fushimi Inari Taisha con i suoi corridoi di torii, ognuno con circa un'ora. Poiché il veicolo e la guida sono privati, l'ordine di svolgimento e la durata di ogni tappa possono essere adattati mentre siete in viaggio, il che è utile se un sito risulta più affollato del previsto o se preferite restare più a lungo da qualche parte. Il ritiro e il rientro sono a Kyoto, quindi i viaggiatori basati a Osaka dovrebbero confermare gli accordi prima di prenotare.",
+  "highlights": [
+   "Raggiungete il Parco di Nara presto, prima delle ore più affollate",
+   "Vedete il Grande Buddha del 752 d.C. dentro il Daibutsuden di Todai-ji",
+   "Tempo libero incorporato nelle tappe di Nara, non solo camminata guidata",
+   "Pomeriggio ad Arashiyama, Kinkaku-ji e Fushimi Inari Taisha",
+   "Guida e veicolo privati, con l'ordine modificabile nella giornata",
+   "Ritiro e rientro a Kyoto"
+  ],
+  "included": [
+   "Guida privata autorizzata, furgone privato con autista, ritiro e rientro a Kyoto, tutto il trasporto tra le tappe di Nara e Kyoto"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso, pranzo e bevande, mance, spese personali, assicurazione di viaggio"
+  ]
+ },
+ "nara-park-evening-tour": {
+  "title": "Nara al calar della notte: passeggiata serale tra templi illuminati e parco dei cervi da Osaka",
+  "metaTitle": "Nara di notte: templi e parco dei cervi",
+  "metaDescription": "Una passeggiata serale attraverso i templi illuminati di Nara, i punti panoramici sulla collina e il parco dei cervi addormentati, con partenza da Osaka o a Nara.",
+  "shortDescription": "Una passeggiata serale attraverso i templi illuminati di Nara, i punti panoramici sulla collina e il parco dei cervi addormentati, con partenza da Osaka o a Nara.",
+  "fullDescription": "Nara si svuota di sera. La maggior parte dei visitatori arriva come gita di mezza giornata da Kyoto o Osaka e se ne va per l'ora di cena, il che lascia i recinti dei templi quasi tutti per sé una volta scesa la luce. Questa passeggiata usa quella finestra. Potete incontrarvi a Osaka alle 18:00, al negozio di souvenir Goto-chi vicino al cancello biglietti Est al livello B2 della stazione Kintetsu Namba, e viaggiare con la guida, oppure unirvi direttamente a Nara alle 19:00 davanti alla statua del monaco Gyoki vicino all'Uscita 2 della stazione Kintetsu Nara. L'operatore programma questo tour durante luglio, agosto e settembre, quando le serate restano calde e abbastanza luminose per camminare comodamente.\n\nIl percorso è un anello attraverso il cuore dell'antica capitale. Attraversa il Parco di Nara, dove circa 1.465 cervi selvatici si sistemano per la notte, passa il Museo Nazionale di Nara illuminato e il Cancello Sud di Todai-ji, e raggiunge l'ingresso della Sala del Grande Buddha e la torre campanaria del tempio. La sala stessa viene vista dall'esterno dopo la chiusura, non si entra. Da lì il percorso sale alla terrazza panoramica di Nigatsudo, una terrazza di legno sulla collina che guarda su tutta la città, poi scende passando il padiglione Ukimido che si erge sopra il suo stagno e il primo grande torii di Kasuga Taisha.\n\nL'ultimo tratto comprende Kofuku-ji, i cui terreni ospitano la celebre pagoda a cinque piani, con una sosta alla Sala Ottagonale Sud prima di terminare allo Stagno Sarusawa e alla stazione di Nara verso le 21:30. Nara ha un lungo rapporto con la luce delle lanterne, e i festival Mantoro di Kasuga Taisha ai primi di febbraio e a metà agosto ne accendono migliaia in una sola volta. La vostra guida parla inglese, giapponese e spagnolo. I treni tra Osaka e Nara, circa cinque dollari a tratta, non sono inclusi.",
+  "highlights": [
+   "Il Parco di Nara dopo che i visitatori giornalieri se ne vanno, con circa 1.465 cervi selvatici che si sistemano per la notte",
+   "Il Cancello Sud, la torre campanaria e l'ingresso della Sala del Grande Buddha di Todai-ji visti illuminati dall'esterno",
+   "Vista notturna sulla città dalla terrazza panoramica di Nigatsudo",
+   "Il padiglione lacustre Ukimido e il primo grande torii di Kasuga Taisha",
+   "La Sala Ottagonale Sud di Kofuku-ji e lo Stagno Sarusawa",
+   "Unitevi a Osaka alle 18:00 o direttamente a Nara alle 19:00"
+  ],
+  "included": [
+   "Guida di lingua inglese, giapponese e spagnolo"
+  ],
+  "notIncluded": [
+   "Pasti, bevande e altri oggetti personali, biglietti del treno tra Osaka e Nara (circa 5 USD a tratta)"
+  ]
+ },
  "nagoya-takoyaki-cooking-class": {
   "title": "Takoyaki da zero a Nagoya: pastella, polpo e il giro",
   "metaTitle": "Corso di cucina del takoyaki a Nagoya",
@@ -15786,6 +15911,249 @@ export const IT_TOURS: Record<string, TourT> = {
    "Alloggio",
    "Bagagli, si applica una tariffa se dovete portarne, da concordare al momento della prenotazione",
    "Attività facoltative e spese personali"
+  ]
+ },
+ "nara-park-full-day-tour": {
+  "title": "Nara con una guida autorizzata dal governo: passeggiata personalizzata di un giorno intero da Kyoto",
+  "metaTitle": "Nara con guida governativa da Kyoto",
+  "metaDescription": "Una giornata privata di otto ore a piedi a Nara da Kyoto con una guida multilingue autorizzata dal governo e un itinerario costruito sui vostri interessi.",
+  "shortDescription": "Una giornata privata di otto ore a piedi a Nara da Kyoto con una guida multilingue autorizzata dal governo e un itinerario costruito sui vostri interessi.",
+  "fullDescription": "La caratteristica distintiva di questa giornata di otto ore è la credenziale: la vostra guida possiede la licenza nazionale del governo giapponese, una qualifica che richiede di superare esami statali di storia, geografia, cultura e cultura generale giapponese insieme a una lingua straniera. In pratica ciò significa che il commento a Todai-ji o Kasuga Taisha arriva con date, dinastie e contesto, non solo aneddoti, e potete fare domande di approfondimento e ottenere vere risposte.\n\nL'itinerario è personalizzato con voi piuttosto che fissato in anticipo. Nara ricompensa questo approccio, perché il circuito standard e il circuito interessante non sono la stessa cosa. La maggior parte dei visitatori fa il Parco di Nara, il Daibutsuden e se ne va. Una guida che conosce la città può aggiungere la pagoda a cinque piani di Kofuku-ji nel centro della città, i viali di lanterne di Kasuga Taisha, fondato nel 768 d.C. e costeggiato da migliaia di lanterne di pietra e bronzo donate nel corso dei secoli, o i vicoli mercantili del periodo Edo di Naramachi dove quasi nessuno dai pullman turistici va. Il Grande Buddha di Todai-ji, circa quindici metri di bronzo dedicato nel 752 d.C., si trova in una sala ricostruita nel 1709 a due terzi della sua larghezza originale e ancora contata tra le più grandi strutture di legno sulla terra.\n\nQuesta è una giornata a piedi, quindi il terreno che percorrete è a piedi tra i siti dentro e attorno al Parco di Nara. Inizia da Kyoto, che si trova a circa 45 minuti di treno, e la guida viaggia con voi. Poiché il prezzo è per prenotazione per un gruppo privato piuttosto che una tariffa a posto su un pullman, ha più senso per una coppia, famiglia o piccolo gruppo che divide il costo. Inviate le vostre priorità in anticipo così le otto ore sono pianificate attorno ad esse.",
+  "highlights": [
+   "La guida possiede la licenza nazionale di guida del governo giapponese, ottenuta tramite esame statale",
+   "Itinerario completamente personalizzato di un giorno intero piuttosto che un percorso fisso",
+   "Tour privato a piedi: solo il vostro gruppo, al vostro ritmo di camminata",
+   "Comprende il Grande Buddha, il parco dei cervi e il viale di lanterne verso Kasuga Taisha",
+   "Guida multilingue, con contesto storico sulla capitale giapponese dell'VIII secolo"
+  ],
+  "included": [
+   "Una guida multilingue autorizzata dal governo per 8 ore, pianificazione dell'itinerario su misura secondo i vostri interessi, commento guidato a piedi durante tutto il percorso"
+  ],
+  "notIncluded": [
+   "Tariffe del treno da e per Nara, biglietti d'ingresso a templi e santuari, pasti e bevande, cracker per i cervi, i costi di trasporto e ingresso della guida dove richiesti, mance"
+  ]
+ },
+ "nara-park-guided-tour": {
+  "title": "Parco dei cervi di Nara, Fushimi Inari e Arashiyama in autobus da Kyoto o Osaka",
+  "metaTitle": "Nara, Fushimi Inari e Arashiyama in un giorno",
+  "metaDescription": "Una giornata in autobus da Kyoto o Osaka che collega i cervi del Parco di Nara con i cancelli torii di Fushimi Inari e il boschetto di bambù di Arashiyama.",
+  "shortDescription": "Una giornata in autobus da Kyoto o Osaka che collega i cervi del Parco di Nara con i cancelli torii di Fushimi Inari e il boschetto di bambù di Arashiyama.",
+  "fullDescription": "Questa è una lunga giornata in autobus che abbina Nara con due dei luoghi più fotografati di Kyoto, e parte dalla città in cui già soggiornate piuttosto che da Nara stessa. Salite a bordo a Harimaya Nippombashi 1-chome a Osaka oppure al giardino incassato dell'Ingresso Hachijo della stazione di Kyoto, e l'autobus gestisce ogni trasferimento tra una tappa e l'altra, che è il vero valore qui: fare il Parco di Nara, Fushimi Inari e Arashiyama in treno in un giorno è possibile ma vi lascia in piedi sulle banchine per gran parte del tempo.\n\nLa tappa di Nara dura circa un'ora nel parco, abbastanza per camminare tra i cervi e raggiungere l'accesso a Todai-ji, anche se non abbastanza per fare la fila per il Daibutsuden e vedere correttamente il Buddha di bronzo di 15 metri dedicato nel 752 d.C. Più di mille cervi sika selvatici vivono nel parco; sono protetti da quando erano considerati messaggeri della divinità Takemikazuchi, e sono stati designati Tesoro Naturale Nazionale nel 1957. I venditori vendono cracker shika senbei alle bancarelle vicino ai sentieri principali, e i cervi si inchineranno per averne uno. Da ottobre a dicembre i maschi sono in calore e la città pubblica un avviso annuale, quindi mantenete un po' di distanza in quei mesi.\n\nLa metà di Kyoto è programmata attorno a 70 minuti a Fushimi Inari Taisha per i tunnel di cancelli Senbon Torii, poi circa novanta minuti di tempo libero ad Arashiyama, con brevi soste al boschetto di bambù, al Santuario Nonomiya, al Ponte Togetsukyo e alla Foresta di Kimono. Il rientro è alla stazione di Kyoto o a Nippombashi. Il tempo in ogni sito è fisso, quindi considerate questo come una panoramica ben organizzata piuttosto che una visita approfondita.",
+  "highlights": [
+   "Date da mangiare e fotografate i cervi sika selvatici del Parco di Nara, protetti come messaggeri divini",
+   "Camminate nei tunnel di cancelli vermigli Senbon Torii a Fushimi Inari Taisha",
+   "Tempo libero ad Arashiyama, incluso il boschetto di bambù e il Ponte Togetsukyo",
+   "Tutti i trasferimenti gestiti in autobus, quindi nessun cambio di treno tra tre siti sparsi",
+   "Scelta di ritiro a Osaka (Nippombashi) o alla stazione di Kyoto"
+  ],
+  "included": [
+   "Trasporto in autobus con aria condizionata tra tutte le tappe, autista, accompagnatore del tour, ritiro e rientro in centro città senza hotel nei punti elencati"
+  ],
+  "notIncluded": [
+   "Pasti e bevande, cracker per i cervi (shika senbei), qualsiasi biglietto d'ingresso a templi o santuari, spese personali, mance"
+  ]
+ },
+ "nara-park-half-day-tour": {
+  "title": "Tour a piedi di mezza giornata a Nara in spagnolo: parco dei cervi, Todaiji e Kasuga Taisha",
+  "metaTitle": "Nara in spagnolo: mezza giornata",
+  "metaDescription": "Quattro ore attraverso il Parco di Nara, Todaiji e Kasuga Taisha con una guida di lingua spagnola, come piccolo gruppo o privato.",
+  "shortDescription": "Quattro ore attraverso il Parco di Nara, Todaiji e Kasuga Taisha con una guida di lingua spagnola, come piccolo gruppo o privato.",
+  "fullDescription": "Nara fu la prima capitale permanente del Giappone, fondata come Heijo-kyo nel 710, e quasi tutto ciò che vale la pena vedere di quell'epoca si trova a distanza di passeggiata dalla stazione Kintetsu Nara. Questa passeggiata di quattro ore la copre con una guida che lavora in spagnolo, cosa davvero difficile da trovare a Nara, e può essere prenotata sia come piccolo gruppo sia come tour privato per il vostro gruppo. Vi incontrate davanti alla statua del monaco Gyoki fuori dalla stazione e terminate nello stesso punto.\n\nIl percorso attraversa il Parco di Nara, casa di circa 1.465 cervi sika liberi protetti per secoli come messaggeri delle divinità shintoiste e designati Tesoro Naturale Nazionale dal 1957. Da lì passate attraverso il grande Cancello Sud di Todaiji e fino alla Sala del Grande Buddha, una struttura di legno di circa 1.300 anni che ospita un Buddha di bronzo di circa 15 metri. La passeggiata termina a Kasuga Taisha, il santuario fondato nel 768 i cui sentieri d'accesso sono costeggiati da migliaia di lanterne di pietra lasciate come offerte nel corso dei secoli. Due delle tappe sono patrimonio mondiale UNESCO.\n\nLe partenze avvengono alle 09:00 del mattino e alle 13:30 del pomeriggio, e la stagione va circa da marzo a novembre. Ciò che la vostra guida vi offre è contesto: chi ha costruito questi luoghi, perché i cervi sono trattati come sono, e come una capitale durata solo 74 anni abbia lasciato così tanto dietro di sé. L'ingresso alla Sala del Grande Buddha di 800 yen si paga sul posto e non è incluso, e i cracker per i cervi costano 200 yen se volete nutrirli. I pasti e le bevande non fanno parte del prezzo.",
+  "highlights": [
+   "Guida in spagnolo, disponibile come piccolo gruppo o tour privato",
+   "Il Parco di Nara e i suoi circa 1.465 cervi sika liberi",
+   "Il Cancello Sud di Todaiji e la Sala del Grande Buddha con il suo Buddha di bronzo di 15 metri",
+   "Kasuga Taisha, il santuario costeggiato di lanterne fondato nel 768",
+   "Due siti patrimonio mondiale UNESCO in un'unica passeggiata",
+   "Partenza al mattino o al pomeriggio, entrambe terminano alla stazione Kintetsu Nara"
+  ],
+  "included": [
+   "Guida locale di lingua spagnola a Nara"
+  ],
+  "notIncluded": [
+   "Pasti, bevande e oggetti personali, ingresso alla Sala del Grande Buddha (800 yen), cracker per i cervi (200 yen), trasporto da e per Nara"
+  ]
+ },
+ "nara-park-morning-morning-tour": {
+  "title": "Nara di prima mattina da Kyoto: parco dei cervi, Kasuga Taisha e il Grande Buddha",
+  "metaTitle": "Nara di prima mattina da Kyoto",
+  "metaDescription": "Una partenza alle 7:30 da Kyoto che raggiunge il parco dei cervi di Nara, Kasuga Taisha e Todai-ji prima della folla dei pullman.",
+  "shortDescription": "Una partenza alle 7:30 da Kyoto che raggiunge il parco dei cervi di Nara, Kasuga Taisha e Todai-ji prima della folla dei pullman.",
+  "fullDescription": "Questo è un tour con partenza da Kyoto piuttosto che basato a Nara. Vi incontrate alla stazione Kintetsu Kyoto alle 7:30 del mattino e viaggiate a sud sul treno express limitato Aoniyoshi, raggiungendo Nara mentre il parco è ancora tranquillo. I viaggiatori già basati a Nara possono saltare completamente il tratto in treno e unirsi al gruppo alle 8:40 del mattino vicino alla statua del monaco Gyoki alla stazione Kintetsu Nara. La partenza presto è tutta la logica dietro l'itinerario: i siti principali di Nara iniziano ad assorbire gruppi di pullman dalla metà mattina in avanti, e le prime due ore sono di gran lunga le più tranquille della giornata.\n\nIl Parco di Nara viene prima, casa di circa 1.465 cervi sika liberi. Sono animali davvero selvatici piuttosto che un'attrazione da carezzare, protetti per secoli come messaggeri della divinità shintoista Takemikazuchi e designati Tesoro Naturale Nazionale dal 1957. La vostra guida vi mostra come offrire i cracker shika senbei senza essere circondati. La passeggiata continua poi fino a Kasuga Taisha, fondato nel 768 d.C., i cui sentieri d'accesso e corridoi vermigli sono costeggiati da migliaia di lanterne di pietra e bronzo donate dai fedeli nel corso di oltre un millennio.\n\nLa mattinata si conclude a Todai-ji. Se i tempi lo permettono, il percorso devia in salita verso la Sala Nigatsudo, dove si tiene ogni primavera la cerimonia del fuoco Omizutori, prima di passare il Cancello Sud di 25 metri ed entrare nel Daibutsuden. L'ingresso alla Sala del Grande Buddha è incluso nel prezzo, e all'interno si trova il Daibutsu di bronzo di circa 15 metri dedicato per la prima volta nel 752 d.C.; la sala che lo circonda, ricostruita nel 1709 a due terzi della sua larghezza originale, resta tra i più grandi edifici di legno del mondo. Il gruppo si sciogli alla stazione Kintetsu Nara verso le 12:30, lasciando libero il pomeriggio. Da notare che l'operatore gestisce questa partenza solo da aprile a luglio e di nuovo in dicembre.",
+  "highlights": [
+   "Partite da Kyoto alle 7:30 sull'express limitato Aoniyoshi e raggiungete Nara prima della folla",
+   "Camminate nel Parco di Nara tra circa 1.465 cervi sika selvatici liberi",
+   "Kasuga Taisha, fondato nel 768 d.C., costeggiato da migliaia di lanterne donate",
+   "Ingresso incluso al Daibutsuden di Todai-ji e il suo Buddha di bronzo di 15 metri",
+   "Il Cancello Sud di 25 metri, e la Sala Nigatsudo se il tempo lo permette",
+   "La guida lavora in inglese, giapponese e spagnolo"
+  ],
+  "included": [
+   "Guida di lingua inglese, giapponese e spagnolo, ingresso alla Sala del Grande Buddha del Tempio Todaiji (800 yen), tariffa del treno express tra Kyoto e Nara (520 yen), tariffa del treno Aoniyoshi Lux da Kyoto a Nara (210 yen)"
+  ],
+  "notIncluded": [
+   "Pasti, bevande e altri oggetti personali, biglietti del treno base tra Kyoto e Nara (circa 5 USD a tratta)"
+  ]
+ },
+ "nara-park-morning-tour": {
+  "title": "Passeggiata di prima mattina al parco dei cervi e Todai-ji a Nara (battete la folla)",
+  "metaTitle": "Nara di prima mattina: battete la folla",
+  "metaDescription": "Battete la folla pomeridiana di Nara con una passeggiata di partenza anticipata attraverso il Parco di Nara, la Sala del Grande Buddha di Todai-ji, e l'accesso costeggiato di cervi a Kasuga Taisha.",
+  "shortDescription": "Battete la folla pomeridiana di Nara con una passeggiata di partenza anticipata attraverso il Parco di Nara, la Sala del Grande Buddha di Todai-ji, e l'accesso costeggiato di cervi a Kasuga Taisha.",
+  "fullDescription": "Nara è una delle gite di un giorno più visitate del Giappone da Kyoto e Osaka, e nel primo pomeriggio i suoi siti principali sono genuinamente affollati, i pullman turistici riempiono l'accesso a Todai-ji e i cervi nel Parco di Nara sono assediati da visitatori che tendono cracker shika senbei. Questo tour è costruito per evitare tutto ciò: inizia presto, prima che arrivino i gruppi in pullman, così avete il Parco di Nara e la Sala del Grande Buddha mentre sono ancora tranquilli.\n\nLa vostra guida vi incontra alla stazione Kintetsu Nara e vi conduce nel Parco di Nara, casa di oltre mille cervi sika liberi considerati messaggeri degli dei nella fede shintoista. Nella quiete del mattino potete davvero osservare la strana abitudine imparata dei cervi di inchinarsi per i cracker senza combattere contro la folla per farlo. Da lì la passeggiata continua a Todai-ji, la sala di legno che ospita il Daibutsu di bronzo di 15 metri, una delle più grandi statue di Buddha in bronzo del mondo, fusa nel 752 d.C. La vostra guida spiega come il tempio sia sopravvissuto a incendi, terremoti e ricostruzioni nel corso di quasi 1.300 anni, e indica il famoso pilastro con un foro che si dice abbia esattamente le dimensioni della narice del Buddha, strisciando attraverso di esso la credenza locale dice che siate garantiti l'illuminazione.\n\nLa passeggiata termina vicino all'accesso di Kasuga Taisha, il più importante santuario shintoista di Nara, noto per le sue migliaia di lanterne di bronzo e pietra donate dai fedeli nel corso dei secoli. Poiché il tour si conclude prima di mezzogiorno, avrete il resto della giornata libero per esplorare da soli il vecchio quartiere mercantile di Naramachi, o continuare verso Kyoto o Osaka.",
+  "highlights": [
+   "Iniziate prima che arrivi la folla dei pullman a Todai-ji e al Parco di Nara",
+   "Incontrate i cervi sacri liberi di Nara nella quiete del mattino",
+   "Entrate nella Sala del Grande Buddha di Todai-ji e vedete il Daibutsu di bronzo di 15 metri",
+   "Camminate sull'accesso costeggiato di lanterne al santuario di Kasuga Taisha",
+   "Il tour si conclude prima di mezzogiorno, lasciando libero il pomeriggio"
+  ],
+  "included": [
+   "Guida autorizzata di lingua inglese, tour a piedi del Parco di Nara, Todai-ji e l'accesso a Kasuga Taisha"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso a Todai-ji, cracker per i cervi, pasti, trasporto da/per Nara"
+  ]
+ },
+ "nara-park-photography-tour": {
+  "title": "Vestizione kimono furisode a Nara con sessione fotografica di un'ora",
+  "metaTitle": "Kimono furisode a Nara con sessione fotografica",
+  "metaDescription": "Vestizione formale di kimono furisode e acconciatura in un negozio a Nara, seguita da una sessione fotografica di un'ora in città.",
+  "shortDescription": "Vestizione formale di kimono furisode e acconciatura in un negozio a Nara, seguita da una sessione fotografica di un'ora in città.",
+  "fullDescription": "Questo è un pacchetto di vestizione e fotografia per una donna, non un tour guidato: nessuno vi accompagna spiegando la storia di Nara. Ciò che ottenete è il kimono quotidiano più formale del guardaroba e un fotografo che vi registra mentre lo indossate. I furisode sono i kimono a maniche lunghe tradizionalmente indossati dalle giovani donne non sposate, e il piano li abbina a un obi fukuro di seta, strato interno juban, zori, calzini tabi, una borsa e ornamenti per capelli. Una vestitrice professionale kitsuke esegue l'annodatura, il che conta più di quanto sembri, un obi è davvero difficile da annodare da sole, e uno slacciato si nota in ogni fotografia. L'acconciatura delle donne è incluso.\n\nLa vestizione avviene al negozio di Nara di Sakura Kimono Kyoto, secondo piano al 26-3 Hashimotocho. Da lì vi dirigete per circa un'ora di fotografia spontanea con un fotografo del Komorebi Studio di Osaka. Gli sfondi abituali sono Naramachi, il quartiere mercantile conservato del periodo Edo di case machiya in legno scuro, e il Parco di Nara, dove più di mille cervi sika selvatici sono protetti come messaggeri degli dei shintoisti e sono un Tesoro Naturale Nazionale dal 1957.\n\nSuccessivamente il fotografo invia tutti i file originali più venti immagini corrette nel colore di sua scelta, entro un mese dalla sessione; i dati vengono eliminati due settimane dopo l'invio, quindi scaricateli prontamente. La ritocco del viso e le modifiche estetiche sono escluse. Un punto di onestà sul prezzo: rispecchia la tariffa evento ridotta dell'operatore, offerta tra giugno e il 10 settembre e solo agli ospiti che accettano che le loro foto vengano usate sui social media del negozio. Fuori da quella finestra, o se preferite che le vostre immagini restino private, si applica la tariffa normale, confermate quale si applica alla vostra data prima di prenotare.",
+  "highlights": [
+   "Kimono furisode femminile della qualità più alta con obi fukuro di seta, vestito da uno stilista professionale kitsuke",
+   "Acconciatura femminile e coordinamento completo, juban, zori, calzini tabi, borsa e accessori per capelli",
+   "Circa un'ora di fotografia spontanea con un fotografo del Komorebi Studio",
+   "Tutti i file fotografici originali più 20 immagini corrette nel colore, consegnate entro un mese",
+   "I vicoli del periodo Edo di Naramachi e i cervi del Parco di Nara come sfondi"
+  ],
+  "included": [
+   "1 ora di servizio fotografico spontaneo in kimono a Nara (circa 1 ora di scatti); tutti i dati fotografici originali forniti; 20 foto corrette nel colore (selezione del fotografo) fornite; noleggio kimono furisode femminile della massima qualità; acconciatura femminile; obi fukuro di seta; coordinamento completo inclusa borsa kimono, juban (sottoveste), zori, calzini tabi, accessori per capelli."
+  ],
+  "notIncluded": [
+   "Il ritocco del viso / le modifiche estetiche delle foto non sono incluse. Non specificato: trasporto, cibo, ingresso a parco o tempio. Il pagamento è solo in contanti; è richiesto un deposito di 2.000 yen per confermare la prenotazione."
+  ]
+ },
+ "nara-park-private-tour": {
+  "title": "Anello privato di un giorno Kyoto e Nara in furgone da Osaka",
+  "metaTitle": "Kyoto e Nara privato in furgone da Osaka",
+  "metaDescription": "Un tour privato di dieci ore in furgone da Osaka che collega sei punti salienti di Kyoto con il Parco di Nara e il Grande Buddha di Todai-ji.",
+  "shortDescription": "Un tour privato di dieci ore in furgone da Osaka che collega sei punti salienti di Kyoto con il Parco di Nara e il Grande Buddha di Todai-ji.",
+  "fullDescription": "Questa è una gita privata basata su veicolo che tratta Kyoto e Nara come un unico anello piuttosto che due viaggi separati. Iniziate e terminate a Osaka con la vostra guida e furgone, il che è ciò che rende la giornata praticabile: le sei tappe di Kyoto sono sparse tra nord-ovest, sud ed est della città, e la guida verso Nara aggiunge altri circa 45 minuti in più. Poiché il gruppo è solo il vostro, l'ordine e il tempo passato in ogni tappa possono essere spostati nella giornata, e non c'è attesa di estranei al punto d'incontro.\n\nLa metà di Kyoto si sposta dai boschetti di bambù di Arashiyama a Kinkaku-ji, poi ai tunnel di torii vermigli di Fushimi Inari Taisha, i vicoli di Gion, le bancarelle di cibo del Mercato Nishiki e infine Kiyomizu-dera. La metà di Nara è più corta ma più pesante in storia. Nara fu la prima capitale permanente del Giappone, fondata come Heijo-kyo nel 710 d.C. e mantenne quel ruolo per 74 anni, e il Daibutsu di Todai-ji, un Buddha di bronzo di circa quindici metri, fu dedicato lì nel 752 d.C. La sala che lo ospita, ricostruita nel 1709 a due terzi della larghezza originale, è ancora tra i più grandi edifici di legno ovunque.\n\nIl Parco di Nara viene appena prima, e i cervi sono il motivo per cui la maggior parte delle persone ricorda il pomeriggio. Più di mille cervi sika selvatici vagano nel parco, protetti per secoli come messaggeri della divinità shintoista Takemikazuchi e designati Tesoro Naturale Nazionale nel 1957. I venditori vendono cracker shika senbei, e i cervi sanno esattamente che aspetto hanno quelle cialde. Siate consapevoli che si tratta di una giornata davvero piena di dieci ore con molta camminata e diversi lunghi trasferimenti tra i siti.",
+  "highlights": [
+   "Guida e furgone privati con ritiro e rientro in hotel a Osaka",
+   "Camminate nei boschetti di bambù di Arashiyama di prima mattina",
+   "Vedete Kinkaku-ji, Fushimi Inari Taisha e Kiyomizu-dera in un unico anello",
+   "Incontrate i cervi sika selvatici del Parco di Nara",
+   "State sotto il Daibutsu di bronzo di 15 metri a Todai-ji",
+   "Ritmo e ordine delle tappe modificabili perché il veicolo è solo vostro"
+  ],
+  "included": [
+   "Guida privata di lingua inglese, furgone privato con autista, ritiro e rientro in hotel a Osaka, tutti i tragitti tra le tappe di Kyoto e Nara"
+  ],
+  "notIncluded": [
+   "Pasti e bevande, biglietti d'ingresso a templi e santuari, mance, shopping personale, assicurazione di viaggio"
+  ]
+ },
+ "nara-park-session-photography-tour": {
+  "title": "Sessione fotografica in kimono per coppie al Parco di Nara con scatto in studio",
+  "metaTitle": "Kimono per coppie al Parco di Nara",
+  "metaDescription": "Vestizione in kimono o yukata per due, una sessione fotografica di 40 minuti nel Parco di Nara e una sessione in studio, un solo prezzo per la coppia.",
+  "shortDescription": "Vestizione in kimono o yukata per due, una sessione fotografica di 40 minuti nel Parco di Nara e una sessione in studio, un solo prezzo per la coppia.",
+  "fullDescription": "Prenotabile da un uomo e una donna insieme, questo è il pacchetto fotografico di Minori, e la tariffa pubblicata è per la coppia piuttosto che per ciascuno di voi. A differenza dei semplici piani di noleggio del negozio, un fotografo viene con voi. Entrambi venite vestiti nel negozio di Takama-cho con un kimono premium o, nei mesi caldi, un set yukata, l'acconciatura semplice femminile viene fatta, e poi circa quaranta minuti di scatti avvengono nel Parco di Nara. Una sessione in studio al negozio è incluso senza costi aggiuntivi. Ciò che non è pubblicato è la durata totale da inizio a fine, i quaranta minuti si riferiscono solo allo scatto nel parco, e la vestizione, la camminata fino lì e il lavoro in studio si aggiungono alla giornata.\n\nIl Parco di Nara si merita il posto come location. Più di mille cervi sika selvatici vivono lì, protetti come messaggeri degli dei shintoisti e designati Tesoro Naturale Nazionale nel 1957, che vagano liberamente tra i prati e i boschetti di cedro che conducono verso Todaiji e Kasuga Taisha. Il negozio è al piano terra al 43-1 Takama-cho, trenta secondi dall'Uscita 7S della stazione Kintetsu Nara e dieci minuti a piedi dal parco, con i vicoli mercantili conservati del periodo Edo di Naramachi in mezzo se volete continuare a girovagare dopo che la macchina fotografica è stata riposta.\n\nI termini di consegna sono specifici. I dati fotografici originali più venti immagini editate sono inviati via email entro trenta giorni dallo scatto. Il fotografo calibra i colori della selezione, ma l'editing cosmetico, rimodellamento del viso, ritocco della pelle, è escluso. Contano anche le condizioni di prenotazione: questo funziona come pacchetto evento speciale, quindi il pagamento è solo in contanti, un deposito di 5.000 yen viene preso alla prenotazione, i prezzi sono indicati prima dell'imposta sui consumi, e la tariffa evento scontata è disponibile solo agli ospiti che accettano che le loro fotografie vengano usate sui social media del negozio.",
+  "highlights": [
+   "Un fotografo professionale per circa 40 minuti nel Parco di Nara",
+   "Scatto gratuito in studio al negozio incluso insieme alla sessione all'aperto",
+   "Set premium di kimono o yukata estivo e vestizione per entrambe le persone",
+   "Tutti i file originali più 20 foto editate nel colore inviate via email entro 30 giorni",
+   "Un solo prezzo copre la coppia, non ogni persona"
+  ],
+  "included": [
+   "Set yukata o kimono premium maschile/femminile; circa 40 minuti di scatti nel Parco di Nara; dati fotografici originali; 20 foto editate; scatto fotografico gratuito in studio."
+  ],
+  "notIncluded": [
+   "Imposta sui consumi (prezzi +tasse). Ritocco fotografico cosmetico. Trasporto, cibo e qualsiasi ingresso a templi. Il pagamento è solo in contanti ed è richiesto un deposito di 5.000 yen alla prenotazione. La tariffa evento scontata richiede di accettare l'uso delle vostre foto sui social media."
+  ]
+ },
+ "nara-park-walking-tour": {
+  "title": "Tour a piedi in piccolo gruppo a Nara: parco dei cervi e Grande Buddha di Todai-ji",
+  "metaTitle": "Nara in piccolo gruppo: cervi e Grande Buddha",
+  "metaDescription": "Un tour a piedi in piccolo gruppo che comprende i cervi sacri del Parco di Nara e la Sala del Grande Buddha di Todai-ji, i due siti imperdibili di Nara in un unico percorso facile.",
+  "shortDescription": "Un tour a piedi in piccolo gruppo che comprende i cervi sacri del Parco di Nara e la Sala del Grande Buddha di Todai-ji, i due siti imperdibili di Nara in un unico percorso facile.",
+  "fullDescription": "Nara fu la prima capitale permanente del Giappone, fondata nel 710 d.C., e per 74 anni fu il cuore politico e religioso del paese prima che la capitale si spostasse a Kyoto. Quel periodo breve ma formativo ha lasciato dietro di sé alcuni dei più importanti monumenti buddhisti del Giappone, e questo tour a piedi in piccolo gruppo comprende i due che contano di più: i cervi del Parco di Nara e il Grande Buddha di Todai-ji.\n\nLa passeggiata inizia nel Parco di Nara, uno spazio verde di 660 ettari che ospita oltre 1.000 cervi sika selvatici. A differenza dei cervi nella maggior parte del mondo, quelli di Nara sono protetti come messaggeri sacri degli dei shintoisti dall'VIII secolo, e generazioni di contatto con i visitatori li hanno rese famosamente mansueti, molti si inchineranno per un cracker, un comportamento imparato che delizia i visitatori alla prima volta. La vostra guida spiega la mitologia dietro il loro status protetto, insieme a consigli pratici per nutrirli e fotografarli in sicurezza.\n\nDal parco, la passeggiata continua a Todai-ji, il tempio costruito nel 752 d.C. per ospitare il Daibutsu, un Buddha di bronzo seduto alto oltre 15 metri, una delle più grandi statue di bronzo sulla Terra. La sala di legno che lo racchiude, il Daibutsuden, ha detenuto il record di più grande edificio di legno del mondo per secoli. All'interno, la vostra guida indica dettagli facili da perdere senza conoscenza locale: la scala della sola mano della statua, la storia del tempio di distruzione e ricostruzione dopo incendi e terremoti, e il piccolo pilastro attraversabile a quattro zampe che si dice garantisca l'illuminazione a chiunque riesca a passare attraverso il suo foro delle dimensioni di una narice di Buddha. A un ritmo rilassato in piccolo gruppo, l'intero anello richiede circa due ore e mezza.",
+  "highlights": [
+   "Formato in piccolo gruppo, non un grande tour in pullman",
+   "Incontrate i cervi sika sacri del Parco di Nara, protetti dall'VIII secolo",
+   "Entrate nella Sala del Grande Buddha di Todai-ji, un tempo il più grande edificio di legno del mondo",
+   "Vedete il Daibutsu di bronzo di 15 metri, fuso nel 752 d.C.",
+   "Contesto della guida locale sull'era di Nara come prima capitale permanente del Giappone"
+  ],
+  "included": [
+   "Guida autorizzata di lingua inglese, tour a piedi in piccolo gruppo del Parco di Nara e dei terreni di Todai-ji"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso a Todai-ji, cracker per i cervi, pasti, trasporto da/per Nara"
+  ]
+ },
+ "nara-park-walking-walking-tour": {
+  "title": "Tour a piedi a Nara: cervi sacri, il Grande Buddha e mochi a Naramachi",
+  "metaTitle": "Nara: cervi, Grande Buddha e mochi",
+  "metaDescription": "Una passeggiata guidata di quattro ore attraverso Kofuku-ji, il Parco di Nara, Todai-ji e Kasuga Taisha, che termina con un assaggio di mochi a Naramachi.",
+  "shortDescription": "Una passeggiata guidata di quattro ore attraverso Kofuku-ji, il Parco di Nara, Todai-ji e Kasuga Taisha, che termina con un assaggio di mochi a Naramachi.",
+  "fullDescription": "Quattro ore, una guida, e un percorso che termina con qualcosa da mangiare. Questa passeggiata copre la classica sequenza di Nara ma aggiunge due cose che i tour più brevi saltano: Naramachi, il quartiere mercantile conservato del periodo Edo di basse case di legno a sud dei siti principali, e un assaggio tradizionale di mochi per concludere. È l'opzione guidata completa più economica di questo gruppo, il che la rende una scelta sensata se visitate Nara come gita di un giorno e non volete spendere molto prima del treno di ritorno.\n\nVi incontrate a Higashimuki Nakamachi, la galleria commerciale coperta appena fuori dalla stazione Kintetsu Nara, e camminate fino a Kofuku-ji, poi nel Parco di Nara, poi Todai-ji. Il Grande Buddha lì è una figura di bronzo di circa quindici metri dedicata nel 752 d.C., quando Nara era la prima capitale permanente del Giappone con il nome di Heijo-kyo, un ruolo che mantenne per 74 anni dal 710. L'attuale Daibutsuden risale al 1709 ed è circa due terzi della larghezza della sala che ha sostituito. Kasuga Taisha, fondato nel 768 d.C. e famoso per le migliaia di lanterne donate lungo i suoi sentieri, segue prima che la passeggiata scenda a Naramachi.\n\nI cervi ricevono vera attenzione piuttosto che una menzione di passaggio. Più di mille cervi sika selvatici vivono dentro e attorno al parco, protetti come Tesoro Naturale Nazionale dal 1957 e considerati messaggeri della divinità Takemikazuchi, e la vostra guida vi mostrerà come consegnare i cracker shika senbei senza finire circondati. La passeggiata termina alla statua di Gyoki Bosatsu fuori dalla stazione, che vi pone a un minuto dal vostro treno.",
+  "highlights": [
+   "Assaggio tradizionale di mochi nel quartiere del periodo Edo di Naramachi",
+   "Tempo con i cervi sika selvatici del Parco di Nara e indicazioni per nutrirli con i cracker shika",
+   "Il Grande Buddha del 752 d.C. dentro il Daibutsuden di Todai-ji",
+   "Kofuku-ji e Kasuga Taisha coperti nello stesso percorso a piedi",
+   "Inizia e termina a un minuto dalla stazione Kintetsu Nara"
+  ],
+  "included": [
+   "Guida locale di lingua inglese, visite guidate a Kofuku-ji, Parco di Nara, Todai-ji, Kasuga Taisha e Naramachi, assaggio tradizionale di mochi"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso a templi e musei, cracker per i cervi, cibo e bevande aggiuntivi, ritiro in hotel, tariffa del treno per Nara"
+  ]
+ },
+ "nara-townhouse-mini-tour": {
+  "title": "Create il vostro mini tatami in una casa storica di Nara, con tè e dolci",
+  "metaTitle": "Mini tatami a Nara con tè e dolci",
+  "metaDescription": "Un laboratorio pratico di un'ora per creare tatami in una casa storica di Nara, con tè giapponese, dolci e un mini tappeto da portare a casa.",
+  "shortDescription": "Un laboratorio pratico di un'ora per creare tatami in una casa storica di Nara, con tè giapponese, dolci e un mini tappeto da portare a casa.",
+  "fullDescription": "Il tatami è il pavimento con cui quasi ogni stanza giapponese tradizionale viene misurata, eppure pochissimi visitatori vedono mai come ne viene assemblato uno. Questo laboratorio di un'ora si svolge dentro una casa machiya a Nara e vi mette direttamente in mano i materiali: una superficie intrecciata di canna igusa, il bordo di stoffa, e gli strumenti usati per fissare l'uno all'altro. Ve ne andrete con un mini tatami che avete fatto voi stessi, piccolo abbastanza da portare a casa in una valigia e utilizzabile come sottobicchiere, supporto o pezzo da esposizione.\n\nLa prima cosa che notate è l'odore. L'igusa, la canna morbida con cui è tessuta la superficie del tatami, emana un profumo erboso, leggermente dolce che è uno degli odori più riconoscibili del Giappone e sfuma con l'invecchiamento del tappeto, motivo per cui una stanza con tatami appena posato è un'esperienza così distintiva. Il vostro ospite spiega da dove viene l'arte, come le dimensioni dei tappeti arrivarono a definire le dimensioni delle stanze, e perché il tessuto del bordo era un tempo un segno di rango. Tè giapponese e dolci stagionali sono serviti durante la sessione, quindi c'è una pausa per sedersi con il materiale piuttosto che correre nella creazione.\n\nIn un'ora, questo si inserisce bene ai lati di una mattinata al tempio, ed è un uso davvero diverso del tempo in una città dove quasi ogni altra attività riguarda cervi e architettura buddhista. Funziona bene per famiglie, per pomeriggi piovosi, e per viaggiatori che preferiscono portare a casa qualcosa che hanno costruito piuttosto che qualcosa che hanno comprato. Non è richiesta alcuna esperienza artigianale e tutti i materiali sono forniti.",
+  "highlights": [
+   "Costruite il vostro mini tatami e portatelo a casa con voi",
+   "Lavorate con vera canna igusa e bordatura tradizionale in una casa storica di Nara",
+   "Scoprite come le dimensioni del tatami arrivarono a definire le stanze tradizionali giapponesi",
+   "Tè giapponese e dolci stagionali serviti durante la sessione",
+   "Adatto ai principianti: tutti i materiali e gli strumenti forniti, nessuna esperienza richiesta"
+  ],
+  "included": [
+   "Tutti i materiali e strumenti artigianali, istruzione guidata dal vostro ospite, tè e dolci giapponesi, il mini tatami che create"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il laboratorio, cibo e bevande aggiuntivi, souvenir oltre al vostro tappeto finito, mance"
+  ]
+ },
+ "naramachi-old-town-mini-tour": {
+  "title": "Noleggio kimono a Nara ed esperienza tradizionale di cerimonia del tè",
+  "metaTitle": "Kimono e cerimonia del tè a Naramachi",
+  "metaDescription": "Scegliete e indossate un kimono, poi partecipate a una tradizionale cerimonia del tè giapponese nello storico quartiere mercantile di Naramachi a Nara.",
+  "shortDescription": "Scegliete e indossate un kimono, poi partecipate a una tradizionale cerimonia del tè giapponese nello storico quartiere mercantile di Naramachi a Nara.",
+  "fullDescription": "Naramachi, il vecchio quartiere mercantile appena a sud del Parco di Nara, è una griglia di vicoli stretti costeggiati da case di legno del periodo Edo (machiya), molte oggi convertite in caffè, negozi artigianali e studi come questo. È l'ambientazione naturale per questa esperienza culturale in due parti: vestirsi in kimono, poi sedersi per una tradizionale cerimonia del tè, entrambe radicate in pratiche che risalgono a secoli fa esattamente in questa parte della città.\n\nL'esperienza inizia con la scelta del kimono, un membro dello staff vi aiuta a scegliere tra una gamma di motivi e colori, poi vi veste correttamente, incluso l'obi, la fascia che richiede vera abilità per essere annodata correttamente e non è qualcosa che la maggior parte dei visitatori può gestire da sola. Una volta vestiti, avete tempo per camminare per i vicoli di Naramachi in kimono per le foto prima o dopo la cerimonia stessa, una vista comune e benvenuta in questa parte della città.\n\nLa cerimonia del tè che segue introduce i principi del chado, la \"via del tè\" giapponese: movimenti precisi e senza fretta, dolci stagionali serviti prima del matcha amaro per bilanciare il sapore, e un'etichetta di ospitalità che risale al XVI secolo sotto il maestro del tè Sen no Rikyu. Il vostro ospite mostra il processo di sbattitura e servizio e spiega il significato dietro ogni passo, poi vi guida a bere correttamente la vostra ciotola. È un'ora genuinamente calmante e senza fretta dopo i siti più fisicamente attivi di Nara, e una rara occasione per sedersi dentro una vera machiya tradizionale piuttosto che una ricostruzione moderna.",
+  "highlights": [
+   "Vestizione completa di kimono inclusa la fascia obi, eseguita correttamente dallo staff",
+   "Tempo libero per camminare per i fotogenici vicoli di Naramachi in kimono",
+   "Tradizionale cerimonia del tè matcha dentro una storica casa machiya",
+   "Scoprite l'etichetta e la storia dietro la tradizione giapponese della cerimonia del tè",
+   "Dolci wagashi stagionali serviti insieme al matcha"
+  ],
+  "included": [
+   "Noleggio e vestizione del kimono, cerimonia del tè con matcha e dolci stagionali, uso dello studio per la sessione"
+  ],
+  "notIncluded": [
+   "Servizio fotografico (solo autoscatto), trasporto fino a Naramachi"
   ]
  },
  "kyoto-kid-friendly-ninja-class-museum": {
