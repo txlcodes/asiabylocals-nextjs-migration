@@ -14055,6 +14055,452 @@ export const IT_TOURS: Record<string, TourT> = {
    "Mance"
   ]
  },
+ "hiroshima-night-evening-tour": {
+  "title": "Bocconi notturni a Hiroshima: tour gastronomico serale guidato con degustazioni",
+  "metaTitle": "Tour gastronomico serale guidato di Hiroshima",
+  "metaDescription": "Imbarcatevi in un viaggio culinario guidato di 3 ore nella scena gastronomica di Hiroshima. Assaggiate l'okonomiyaki in stile Hiroshima e le specialità locali, con degustazioni di cibo e bevande incluse.",
+  "shortDescription": "Imbarcatevi in un viaggio culinario guidato di 3 ore nella scena gastronomica di Hiroshima. Assaggiate l'okonomiyaki in stile Hiroshima e le specialità locali, con degustazioni di cibo e bevande incluse.",
+  "fullDescription": "La scena gastronomica di Hiroshima si anima dopo il buio, e questo tour gastronomico serale guidato di tre ore è la via più diretta verso il meglio di essa. Guidata da un esperto accompagnatore locale selezionato con cura, la passeggiata attraversa i quartieri più vivaci della città per mangiare, la galleria coperta di Hondori con i suoi vicoletti luminosi, e le strade illuminate al neon di Nagarekawa, il quartiere della vita notturna di Hiroshima, fermandosi a mangiare e bere lungo il percorso, con le degustazioni incluse nel prezzo. La protagonista indiscussa è l'okonomiyaki in stile Hiroshima, l'amata frittella salata a strati della città: a differenza della versione di Osaka, qui tutto è impilato invece che mescolato, cavolo, pastella, maiale e un mucchio di noodle costruiti a strati sulla piastra teppan e finiti con una salsa dolce-salata, idealmente mangiata direttamente dalla piastra calda con una spatola di metallo. La vostra guida vi porta dove i locali fanno la fila per averla e vi spiega perché la città difenda la sua versione con tanta fierezza. Attorno all'okonomiyaki, la serata si estende ad altre specialità locali, con le bevande incluse nelle degustazioni, e attraverso il teatro serale della città stessa: impiegati che si infilano sotto le tende noren, bancone illuminati da lanterne con otto posti in fila, l'energia particolare di una città ricostruita che sa come divertirsi. Poiché la guida si occupa degli ordini e dell'orientamento, i locali che intimidiscono chi non parla giapponese, di solito i migliori, si aprono facilmente. Arrivate affamati: le degustazioni della serata si sommano in una cena completa, e finite la notte con una mappa mentale di dove mangiare per il resto del vostro soggiorno.",
+  "highlights": [],
+  "included": [
+   "Esperta guida turistica selezionata con cura",
+   "Degustazioni di cibo e bevande"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Pasti salvo diversa indicazione",
+   "Mance"
+  ]
+ },
+ "hiroshima-osaka-full-day-tour": {
+  "title": "Da Osaka a Hiroshima e Miyajima: tour di un'intera giornata con lo shinkansen",
+  "metaTitle": "Osaka, Hiroshima e Miyajima in un giorno",
+  "metaDescription": "Questo tour di un giorno a Hiroshima e Miyajima da Osaka è il modo migliore per raggiungere questa importante destinazione e viverne il passato e il presente, tutto in un solo giorno.",
+  "shortDescription": "Questo tour di un giorno a Hiroshima e Miyajima da Osaka è il modo migliore per raggiungere questa importante destinazione e viverne il passato e il presente, tutto in un solo giorno.",
+  "fullDescription": "Da Osaka, Hiroshima è a novanta minuti di treno veloce, e questo tour di un'intera giornata trasforma quel dato in una delle escursioni di un giorno più significative del Giappone: il passato e il presente della città, più l'isola sacra di Miyajima, tutto in una lunga giornata ben orchestrata. Incontrate la vostra esperta guida selezionata con cura al mattino e salite sullo Shinkansen, incluso nel prezzo, guardando l'Honshu occidentale scorrere fino a 300 chilometri all'ora. A Hiroshima la mattinata è dedicata a rendere testimonianza: il Parco Memoriale della Pace, il suo cenotafio e il Monumento della Pace ai Bambini drappeggiato di gru di carta, e la Cupola della Bomba Atomica che resta preservata lungo il fiume, con la vostra guida che fornisce il contesto storico e le storie umane che rendono il sito comprensibile invece che semplicemente sopraffacente. Altrettanto importante, vedete il presente: una città verde, sicura di sé, ricostruita, che ha trasformato la sua storia in un messaggio. Dopo pranzo la giornata cambia completamente registro. Il treno e il traghetto vi portano a Miyajima, dove il grande torii vermiglio del santuario di Itsukushima si alza dalla marea, e il pomeriggio si distende tra i corridoi del santuario sull'acqua, i vicoli punteggiati di cervi e le bancarelle gastronomiche di Omotesando; la vostra tassa di soggiorno per Miyajima è già gestita. Mentre la luce diventa dorata sul Mare Interno di Seto, tornate con il traghetto e prendete lo Shinkansen serale per rientrare a Osaka. Con circa tredici ore è un impegno pieno per una giornata, ma i viaggiatori la definiscono costantemente la più toccante di tutto il loro viaggio in Giappone, e ogni collegamento è gestito per voi.",
+  "highlights": [],
+  "included": [
+   "Esperta guida turistica selezionata con cura",
+   "Tassa di soggiorno per Miyajima",
+   "Trasporto con lo Shinkansen"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Pasti salvo diversa indicazione",
+   "Mance"
+  ]
+ },
+ "hiroshima-private-tour": {
+  "title": "Tour storico privato di Hiroshima: Parco della Pace e Museo al vostro ritmo",
+  "metaTitle": "Tour storico privato di Hiroshima al vostro ritmo",
+  "metaDescription": "Vivete il Parco Memoriale della Pace di Hiroshima con una vostra guida privata. Esplorate i memoriali iconici, ascoltate le storie dei sopravvissuti e vivete la storia di Hiroshima interamente al vostro ritmo.",
+  "shortDescription": "Vivete il Parco Memoriale della Pace di Hiroshima con una vostra guida privata. Esplorate i memoriali iconici, ascoltate le storie dei sopravvissuti e vivete la storia di Hiroshima interamente al vostro ritmo.",
+  "fullDescription": "Alcuni luoghi meritano di essere vissuti al proprio ritmo, e il Parco Memoriale della Pace di Hiroshima è uno di questi. Questo tour privato a piedi di tre ore vi dà una guida interamente a vostra disposizione, cosa che cambia il carattere della visita: potete soffermarvi dove serve, fare le domande che un contesto di gruppo scoraggia, e affrontare il museo alla velocità che sentite giusta. Il percorso inizia alle Porte della Pace e procede attraverso i memoriali del parco in una sequenza ponderata, dalla scultura della Madre e del Bambino nella Tempesta e la Fontana della Preghiera fino al poco visitato memoriale a Marcel Junod, il medico svizzero della Croce Rossa che portò di corsa forniture mediche alla città nelle settimane successive al bombardamento. Un'ora intera è dedicata al Museo Memoriale della Pace, dove la vostra guida vi accompagna tra gli exhibit di oggetti personali e testimonianze di sopravvissuti, aggiungendo un contesto che le sole vetrine non possono trasmettere. Tornati all'esterno, continuate oltre il Cenotafio commemorativo e la Fiamma della Pace fino alla Sala Nazionale Memoriale della Pace, vi fermate alla Casa di Riposo del parco, essa stessa un edificio sopravvissuto al bombardamento, e visitate il Monumento della Pace ai Bambini e il Cenotafio delle vittime coreane della bomba atomica prima di terminare alla Cupola della Bomba Atomica e al monumento dell'ipocentro sulla strada vicina. Per tutto il percorso, le guide intrecciano storie di sopravvissuti che danno ai monumenti il loro peso umano. Sono tre ore riflessive e senza fretta, e per molti viaggiatori diventano la cosa più significativa che fanno in Giappone.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionista",
+   "Tutte le spese menzionate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Pasti salvo diversa indicazione",
+   "Mance"
+  ]
+ },
+ "hiroshima-remembered-walking-tour": {
+  "title": "Hiroshima ricordata: passeggiata di gruppo guidata nel Parco Memoriale della Pace",
+  "metaTitle": "Hiroshima ricordata: passeggiata di gruppo",
+  "metaDescription": "Esplorate il Parco Memoriale della Pace di Hiroshima in una passeggiata di gruppo guidata che unisce approfondimento storico e prospettive locali. Scoprite gli eventi del 6 agosto 1945 e il messaggio di pace di Hiroshima.",
+  "shortDescription": "Esplorate il Parco Memoriale della Pace di Hiroshima in una passeggiata di gruppo guidata che unisce approfondimento storico e prospettive locali. Scoprite gli eventi del 6 agosto 1945 e il messaggio di pace di Hiroshima.",
+  "fullDescription": "Questa passeggiata di gruppo guidata di due ore affronta il Parco Memoriale della Pace come un luogo da leggere lentamente, monumento dopo monumento, con gli eventi del 6 agosto 1945 e il messaggio di pace della città come filo conduttore. Incontrandosi a Nakajimacho, sul margine meridionale del parco, il quartiere che era il centro cittadino più vivace di Hiroshima prima che il bombardamento lo cancellasse, la vostra guida inizia alle Porte della Pace, la fila di archi di vetro incisi con la parola pace in lingue di tutto il mondo. Da lì il percorso si sviluppa tra gli angoli più silenziosi del parco oltre che tra i suoi monumenti principali: la Fontana della Preghiera, i prati aperti dove una volta si trovava un intero quartiere, la Fiamma della Pace che arderà finché l'ultima arma nucleare non sarà smantellata, e la Sala Nazionale Memoriale della Pace, dove avete tempo all'interno tra i nomi e le fotografie delle vittime. La passeggiata si ferma alla Casa di Riposo del parco, un edificio che sopravvisse all'esplosione e resta ancora oggi come silenziosa testimonianza, poi visita il Monumento della Pace ai Bambini, sempre avvolto in fili freschi di gru piegate, e la Campana della Pace, che i visitatori sono invitati a suonare. Si conclude alla Cupola della Bomba Atomica, la rovina lungo il fiume nota in tutto il mondo, vista ora con due ore di contesto dietro di sé. Le guide uniscono approfondimento storico e prospettiva locale, su come Hiroshima stessa ricordi, insegni e vada avanti, mantenendo un tono onesto senza essere sopraffacente. Con un ritmo gentile di due ore e un prezzo adatto ai gruppi, è uno dei modi più accessibili per dare a questo straordinario parco l'attenzione che merita.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionista",
+   "Tutte le spese menzionate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Pasti salvo diversa indicazione",
+   "Mance"
+  ]
+ },
+ "hiroshima-walking-tour": {
+  "title": "Hiroshima non raccontata: perché cadde la bomba atomica, passeggiata storica guidata",
+  "metaTitle": "Perché cadde la bomba atomica: passeggiata storica di Hiroshima",
+  "metaDescription": "Partecipate a una profonda passeggiata guidata attraverso Hiroshima per capire perché la bomba atomica fu lanciata su questa città. Dal castello di Hiroshima alla Cupola della Bomba Atomica e al Parco Memoriale della Pace con una guida locale esperta.",
+  "shortDescription": "Partecipate a una profonda passeggiata guidata attraverso Hiroshima per capire perché la bomba atomica fu lanciata su questa città. Dal castello di Hiroshima alla Cupola della Bomba Atomica e al Parco Memoriale della Pace con una guida locale esperta.",
+  "fullDescription": "La maggior parte delle passeggiate guidate di Hiroshima inizia al Parco Memoriale della Pace e procede a ritroso. Questa fa il contrario, e la differenza conta. Incontrate la vostra guida al santuario Gokoku di Hiroshima, all'ombra del castello di Hiroshima, e dedicate il primo tratto della passeggiata a capire cosa fosse davvero questa città nel 1945: una città castello trasformata in quartier generale militare, con guarnigioni, posti di comando e linee di approvvigionamento che la posero su una lista di obiettivi ben prima della mattina del 6 agosto. Dai terreni del castello continuate attraverso il Hiroshima Gate Park, e quando raggiungete la Cupola della Bomba Atomica non state più guardando una rovina isolata; state vedendo il punto finale di una catena di decisioni che la vostra guida ha analizzato nell'ultima ora. La domanda nel titolo del tour, perché la bomba atomica cadde qui, viene trattata seriamente e non retoricamente, con il contesto militare, politico e umano esposto mentre camminate. Il tratto finale vi porta attraverso il Parco Memoriale della Pace stesso, tra i memoriali e le gru di carta, prima che il tour termini all'ingresso del Museo Memoriale della Pace, posto deliberatamente lì così potete continuare all'interno da soli con tutto ciò che avete appena ascoltato ancora fresco. Oltre 1.300 viaggiatori hanno recensito questa passeggiata e la sua valutazione quasi perfetta riflette quanto attentamente le guide gestiscano un materiale difficile: oneste su cosa accadde, rispettose verso le vittime, e lucide sulla ripresa della città. Con due ore e mezza è abbastanza compatta da inserirsi in qualsiasi itinerario a Hiroshima, e trasforma una visita che può sembrare sopraffacente in una che ha senso.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionista",
+   "Tutte le spese menzionate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Pasti salvo diversa indicazione",
+   "Mance"
+  ]
+ },
+ "hozanji-temple-evening-tour": {
+  "title": "Notte di Halloween sul monte Ikoma: tempio Hozanji e funivia da Osaka",
+  "metaTitle": "Notte di Halloween sul monte Ikoma da Osaka",
+  "metaDescription": "Una salita notturna in stagione di Halloween sul monte Ikoma con la più antica funivia del Giappone fino al tempio Hozanji del VII secolo.",
+  "shortDescription": "Una salita notturna in stagione di Halloween sul monte Ikoma con la più antica funivia del Giappone fino al tempio Hozanji del VII secolo.",
+  "fullDescription": "Questa escursione serale si svolge solo nella stagione di Halloween, da settembre a ottobre, ed è l'unica partenza notturna dell'anno dell'operatore. Incontrate la vostra guida alle 18:00 all'interno della stazione Kintetsu Namba a Osaka e viaggiate fino ai piedi del monte Ikoma, la montagna che forma la dorsale tra Osaka e la pianura di Nara. Da lì la salita avviene sulla linea Hozanji, apertasi nel 1918 e prima funivia del Giappone, una piccola funicolare che continua a salire il pendio boscoso dopo il tramonto.\n\nIn cima si trova Hozanji, un tempio fondato nell'anno 665 come luogo di addestramento per i monaci buddisti. L'accesso corre lungo un sentiero nel bosco fiancheggiato da statue di jizo, le piccole figure di pietra guardiane presenti in tutto il Giappone rurale, e nel buio, sotto la luce delle lanterne e le nuvole in movimento, la passeggiata assume quella qualità mistica e leggermente irreale che le persone di solito paragonano a un film Ghibli. La vostra guida spiega cosa la montagna abbia significato per i devoti, perché il tempio fu costruito proprio lì, e a cosa servano davvero le statue lungo il sentiero, così l'atmosfera è sostenuta da un contesto reale e non da effetti da storia di fantasmi.\n\nIl tour dura circa tre ore e mezza e vi riporta alla stazione Kintetsu Namba verso le 21:30, così siete di nuovo nel centro di Osaka per la notte. Il commento è disponibile in inglese, giapponese e spagnolo. Le tariffe del treno tra Osaka e Ikoma e il costo della funivia si pagano separatamente il giorno stesso e non sono incluse nel prezzo, e non c'è una sosta per il pasto, quindi mangiate prima di partire. Essendo una partenza stagionale di Halloween, le date fuori da settembre e ottobre non sono disponibili.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese, giapponese e spagnola"
+  ],
+  "notIncluded": [
+   "Pasti, bevande e oggetti personali, biglietti del treno tra Osaka e Ikoma (circa 4 USD a tratta), costo della funivia di Ikoma (circa 2 USD a tratta)"
+  ]
+ },
+ "imperial-palace-bike-tour": {
+  "title": "Tokyo centrale in e-bike: tre ore tra i luoghi iconici",
+  "metaTitle": "Tokyo centrale in e-bike in tre ore",
+  "metaDescription": "Tokyo è piatta, tranquilla sulle strade secondarie e fatta per la bicicletta. Tre ore coprono ciò che un tour a piedi impiegherebbe due giorni a raggiungere.",
+  "shortDescription": "Tokyo è piatta, tranquilla sulle strade secondarie e fatta per la bicicletta. Tre ore coprono ciò che un tour a piedi impiegherebbe due giorni a raggiungere.",
+  "fullDescription": "Tokyo sorprende le persone come città da bicicletta. È piatta, le strade secondarie non hanno quasi traffico, e andare in bicicletta è così normale qui che nessuno ci presta attenzione, coprite quattro o cinque volte il terreno che gestirebbe un tour a piedi, potendo comunque fermarvi dove volete.\n\nTre ore permettono di vedere bene il centro. I terreni del Palazzo Imperiale si trovano sul sito del castello di Edo, sede degli shogun Tokugawa per due secoli e mezzo prima che l'imperatore si trasferisse da Kyoto nel 1868, e il giro lungo il fossato è uno dei percorsi più piacevoli della città, con i bastioni e le porte di pietra originali su un lato. La griglia di Ginza vi offre i negozi di punta e la torre dell'orologio Wako degli anni Trenta. Nihonbashi è il punto da cui ogni strada del Giappone è ancora ufficialmente misurata, c'è un segnale incastonato nel ponte, e il mercato esterno di Tsukiji ha continuato a vendere pesce, coltelli e tamagoyaki molto dopo che l'asta all'ingrosso si è trasferita a Toyosu nel 2018.\n\nLe e-bike sono disponibili e vale la pena prenderle se non siete ciclisti abituali; l'assistenza elimina ogni fatica sulle poche salite e sulla distanza totale. Le biciclette standard sono disponibili per chi preferisce pedalare senza assistenza.\n\nLa vostra guida gestisce il percorso, il traffico e dove lasciare le biciclette a ogni tappa, il che è la parte che rende il ciclismo a Tokyo senza accompagnamento più stressante di quanto debba essere.\n\nUna partenza al mattino è la scelta giusta, e non solo per la luce: Tokyo è calda e umida da giugno a settembre, e le bancarelle di Tsukiji sono più vivaci presto. Dovete arrivare già in grado di pedalare, non è il posto per imparare, e il tour si svolge anche con pioggia leggera ma viene rimborsato per intero se il meteo peggiora seriamente.",
+  "highlights": [],
+  "included": [
+   "Noleggio bicicletta o e-bike per l'intero tour, guida locale di lingua inglese, casco, assicurazione sulla bicicletta, acqua in bottiglia, soste fotografiche durante tutto il percorso"
+  ],
+  "notIncluded": [
+   "Trasferimenti in hotel, cibo e bevande oltre all'acqua fornita, ingressi a eventuali interni opzionali, mance"
+  ]
+ },
+ "inuyama-castle-full-day-tour": {
+  "title": "Castello di Inuyama e le città-stazione del Nakasendo: escursione di un giorno da Nagoya",
+  "metaTitle": "Castello di Inuyama e Nakasendo da Nagoya",
+  "metaDescription": "Escursione di un giorno da Nagoya alla torre originale in legno del castello di Inuyama e alle storiche città-stazione del Nakasendo di Tsumago-juku e Magome-juku.",
+  "shortDescription": "Escursione di un giorno da Nagoya alla torre originale in legno del castello di Inuyama e alle storiche città-stazione del Nakasendo di Tsumago-juku e Magome-juku.",
+  "fullDescription": "Questo tour di un'intera giornata lascia il centro di Nagoya per il castello di Inuyama, a circa un'ora di pullman, uno dei soli dodici castelli del Giappone che conserva ancora la sua torre originale in legno dell'epoca feudale. A differenza del castello di Nagoya, ricostruito in cemento dopo essere stato distrutto nella Seconda guerra mondiale, la torre di Inuyama sopravvive in gran parte come fu costruita, ed è registrata come uno dei Tesori Nazionali del Giappone. Una visita guidata vi porta attraverso le scale di legno scoscese e i corridoi stretti del castello fino all'ultimo piano, da dove la vista si estende sul fiume Kiso e sulle colline circostanti.\n\nDa Inuyama, il gruppo continua verso Enakyo, una gola lungo il fiume Kiso nota per le sue formazioni rocciose spettacolari e, secondo la stagione, per il foliage autunnale o il verde fresco, prima di una breve sosta panoramica. Il tour prosegue poi verso le montagne fino a Tsumago-juku, una delle città-stazione dell'epoca Edo meglio conservate sulla vecchia via commerciale del Nakasendo che una volta collegava Kyoto ed Edo, l'odierna Tokyo. Edifici tradizionali in legno fiancheggiano la sua via principale senza auto, e la città ha deliberatamente tenuto fuori dalla vista i cavi aerei e la segnaletica moderna per preservare la sua atmosfera storica, dando ai visitatori un senso raro e concreto di come fosse una città commerciale giapponese due secoli fa.\n\nLa giornata si svolge in pullman, con diverse ore di guida inserite nell'itinerario di circa dieci ore, quindi aspettatevi una giornata piena ma senza fretta piuttosto che un elenco di tappe affrettato. L'operatore locale conduce il tour con una guida di lingua inglese che narra la storia di ogni sito. Indossate scarpe comode da camminata, poiché l'interno del castello non è climatizzato e le strade di Tsumago-juku sono in pietra e legno irregolari.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese, trasporto in pullman di andata e ritorno da Nagoya, ingresso e visita guidata del castello di Inuyama, sosta guidata alla gola di Enakyo, tempo a Tsumago-juku"
+  ],
+  "notIncluded": [
+   "Pasti e bevande, spese personali, ritiro in hotel fuori dal punto d'incontro, mance"
+  ]
+ },
+ "jigokudani-monkey-park-full-day-tour": {
+  "title": "Scimmie delle nevi e Zenko-ji: escursione privata di un giorno a Nagano da Tokyo",
+  "metaTitle": "Scimmie delle nevi e Zenko-ji da Tokyo",
+  "metaDescription": "Dieci ore andata e ritorno a Nagano per i macachi delle terme e un tempio di 1.400 anni, in auto privata.",
+  "shortDescription": "Dieci ore andata e ritorno a Nagano per i macachi delle terme e un tempio di 1.400 anni, in auto privata.",
+  "fullDescription": "I macachi di Jigokudani sono le uniche scimmie sulla terra note per bagnarsi nelle sorgenti termali, e lo fanno fin dagli anni Sessanta, quando il parco fu costruito attorno a un'abitudine che il branco aveva preso da un bagno all'aperto di una vicina locanda. Il nome della valle significa 'valle dell'inferno', il vapore sfiata tra pareti boscose e scoscese e la neve resta sulle scogliere per mesi, e il branco scende alla piscina artificiale per la maggior parte dell'anno, non solo in inverno.\n\nArrivarci con i mezzi pubblici consuma la giornata in trasferimenti. Un'auto privata ne fa una singola giornata gestibile: dormite in autostrada, arrivate quando la luce è buona, e tornate senza guardare l'orologio per l'ultimo treno. Il viaggio verso nord attraversa le montagne delle Alpi giapponesi e passa per il bacino di Nagano, sede delle Olimpiadi invernali del 1998.\n\nZenko-ji, nella città di Nagano, è l'altra metà del viaggio. Fondato nel VII secolo, precede la divisione del buddismo giapponese in sette e quindi non appartiene a nessuna di esse, motivo per cui ha attirato pellegrini da ogni scuola per 1.400 anni, donne incluse in un'epoca in cui molti templi di montagna le respingevano. La sua sala principale è un Tesoro Nazionale, e sotto di essa corre un passaggio sotterraneo completamente buio dove i visitatori cercano a tastoni lungo la parete una chiave che si dice conceda la salvezza.\n\nIl vostro conducente-guida gestisce l'intera giornata e conosce i ritmi del parco delle scimmie, quando il branco scende e quando il sentiero vale la camminata.\n\nPreparatevi per la durata: circa sette ore di guida, e una camminata di 1,6 km su un sentiero forestale non pavimentato in ciascuna direzione, che in inverno si ghiaccia. I mesi freddi offrono i bagni più affidabili; le scimmie sono selvatiche, quindi nulla è garantito.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con conducente-guida di lingua inglese, prelievo e riaccompagno in hotel a Tokyo, carburante e tutti i pedaggi autostradali, assistenza sia al parco delle scimmie che al tempio"
+  ],
+  "notIncluded": [
+   "Ingresso al parco delle scimmie di Jigokudani, cibo e bevande, tariffa del santuario interno di Zenko-ji, mance"
+  ]
+ },
+ "kamakura-enoshima-day-trip-from-tokyo-enoden-train": {
+  "title": "Kamakura ed Enoshima in pullman e treno Enoden: il Grande Buddha e la costa",
+  "metaTitle": "Kamakura ed Enoshima in pullman e treno Enoden",
+  "metaDescription": "Una giornata intera sulla costa partendo da Tokyo per circa novantatré dollari: il Buddha di bronzo di tredici metri, la linea Enoden lungo il mare, e l'isola di Enoshima.",
+  "shortDescription": "Una giornata intera sulla costa partendo da Tokyo per circa novantatré dollari: il Buddha di bronzo di tredici metri, la linea Enoden lungo il mare, e l'isola di Enoshima.",
+  "fullDescription": "Kamakura fu sede del governo per un secolo e mezzo a partire dal 1185, motivo per cui una città di 170.000 abitanti su una spiaggia ha la densità di grandi templi che ha. È a un'ora da Tokyo e il modo standard di visitarla, treni, cambi, capire quale linea va dove, consuma buona parte della giornata. Questo tour in pullman elimina tutto ciò e aggiunge l'unico mezzo di trasporto su cui volete davvero salire.\n\nIl Grande Buddha viene prima. Tredici metri di bronzo fuso nel 1252, seduto all'aperto perché la sala costruita attorno a esso fu distrutta da uno tsunami nel 1498 e non fu mai ricostruita, motivo per cui ora appare come tutti lo immaginano. L'ingresso per camminare all'interno della statua è un piccolo costo separato al cancello, se lo desiderate.\n\nIl viaggio sulla Enoden è incluso ed è il motivo per fare questo tour piuttosto che una generica escursione di un giorno. È una linea a binario unico del 1902 che corre tra le case della gente, abbastanza vicina da toccare i muri in alcuni punti, poi esce sulla strada costiera con il mare da un lato. La fermata di Kamakura Koko-Mae è il passaggio a livello che appare nella sigla di Slam Dunk, motivo per cui una fila di persone fotografa sempre un normale passaggio a livello ferroviario con l'oceano sullo sfondo.\n\nEnoshima chiude la giornata: una piccola isola collegata da un ponte, con santuari che risalgono il suo pendio e vista su Fuji quando l'aria è limpida.\n\nLe partenze sono alle 8:00 dalla stazione di Tokyo o alle 8:30 da Shinjuku, e la giornata dura circa dieci ore. I pasti non sono inclusi, ed è giusto così, il shirasu-don di Kamakura, la ciotola di riso con bianchetti locali, merita di essere scelto da voi stessi.",
+  "highlights": [],
+  "included": [
+   "Trasporto in pullman di andata e ritorno da Tokyo, guida di lingua inglese, viaggio sul treno Enoden da Hase a Enoshima, conducente e spese di parcheggio"
+  ],
+  "notIncluded": [
+   "Ingresso per camminare all'interno del Grande Buddha (circa 300 yen, pagato al cancello), pasti, bevande e acquisti personali, prelievo e riaccompagno in hotel"
+  ]
+ },
+ "kamakura-hakone-private-day-tour-from-tokyo": {
+  "title": "Kamakura e Hakone in un giorno: tour privato da Tokyo con conducente-guida",
+  "metaTitle": "Kamakura e Hakone in un giorno da Tokyo",
+  "metaDescription": "Una giornata privata porta a porta che unisce la città-templi di Kamakura alla caldera vulcanica di Hakone, guidata da un conducente-guida di lingua inglese dal vostro hotel a Tokyo.",
+  "shortDescription": "Una giornata privata porta a porta che unisce la città-templi di Kamakura alla caldera vulcanica di Hakone, guidata da un conducente-guida di lingua inglese dal vostro hotel a Tokyo.",
+  "fullDescription": "Kamakura e Hakone si trovano nella stessa direzione da Tokyo ma appartengono a secoli diversi, e metterle insieme in una sola giornata ha un senso che un itinerario in treno raramente permette. Con un conducente-guida privato non ci sono collegamenti da fare né bagagli da trascinare; lasciate il vostro hotel al mattino e l'auto si occupa dei collegamenti. Il compromesso è una lunga giornata e una discreta quantità di tempo sulla strada, cosa che vale la pena sapere prima di prenotare.\n\nKamakura fu sede del primo shogunato del Giappone a partire dal 1185, e per circa un secolo e mezzo fu la capitale effettiva mentre Kyoto conservava l'imperatore e il cerimoniale. La città che rimane è piccola, boscosa e densa di templi. Il Grande Buddha di Kotoku-in è l'emblema: un Amida di bronzo fuso nel 1252, poco più di undici metri di altezza, che una volta si trovava dentro una sala finché uno tsunami alla fine del quindicesimo secolo portò via l'edificio e lasciò la figura all'aperto, dove si è consumata da allora.\n\nPoco più in basso, Hase-dera sale un pendio a terrazze. La sua sala principale custodisce un alto Kannon dorato a undici teste, e i giardini scendono verso una vista sulla baia di Sagami. Il tempio è noto anche per le file di piccole statue di jizo collocate lì in memoria dei bambini. Dopo, Komachi-dori corre dalla stazione verso il grande santuario Hachimangu, una stradina stretta di negozi di dolci, bancarelle artigianali e cibo da strada, dove si svolge buona parte della vita quotidiana di Kamakura.\n\nL'auto si dirige poi verso ovest fino a Hakone, dentro la caldera lasciata da un vulcano collassato. Il santuario di Hakone si trova in un boschetto di cedri accanto al lago Ashi, con il suo torii vermiglio piantato nelle acque basse del lago. Una crociera panoramica attraversa le acque, e la funivia vi porta sopra il bordo fino a Owakudani, dove il vapore continua a sfiatare dal pendio e la specialità locale è un uovo bollito nero nelle sorgenti. In una giornata serena il monte Fuji si erge oltre il bordo settentrionale, la vista che rese famoso questo passo molto prima che diventasse una stazione turistica.\n\nEssendo il tour privato, l'equilibrio tra le due metà può cambiare nel corso della giornata. Soffermatevi più a lungo nei templi di Kamakura, o proseguite per dare più spazio a Hakone. Il vostro conducente-guida parla inglese, guida e resta con voi per tutto il tempo, il che significa anche che gli orari sopra indicati sono un piano di lavoro e non un contratto fisso.",
+  "highlights": [],
+  "included": [
+   "Conducente-guida privato di lingua inglese",
+   "Veicolo privato per la giornata",
+   "Prelievo e riaccompagno in hotel a Tokyo",
+   "Carburante, pedaggi e parcheggio"
+  ],
+  "notIncluded": [
+   "Ingressi a templi e attrazioni",
+   "Crociera sul lago Ashi e biglietti della funivia",
+   "Pasti e bevande",
+   "Mance",
+   "Assicurazione di viaggio"
+  ]
+ },
+ "kappa-bridge-full-day-tour": {
+  "title": "Escursione alpina e fotografica a Kamikochi da Nagoya",
+  "metaTitle": "Escursione alpina a Kamikochi da Nagoya",
+  "metaDescription": "Una fuga di un'intera giornata tra escursionismo e fotografia da Nagoya nella valle d'alta quota di Kamikochi.",
+  "shortDescription": "Una fuga di un'intera giornata tra escursionismo e fotografia da Nagoya nella valle d'alta quota di Kamikochi.",
+  "fullDescription": "Kamikochi è una valle d'alta quota incontaminata incastonata nelle Alpi settentrionali del Giappone, e questa escursione di un giorno scambia le strade cittadine di Nagoya con uno dei pezzi di natura più fotografati del paese. La valle è priva di auto dagli anni Settanta, cosa che mantiene i suoi sentieri tranquilli e l'aria notevolmente pulita, e il suo fulcro è il fiume Azusa, un corso d'acqua glaciale sorprendentemente limpido che si snoda sotto la frastagliata catena montuosa di Hotaka. Raggiungerlo da Nagoya richiede alcune ore su strada, il che è parte del motivo per cui questa escursione è pensata come giornata di undici ore, dando agli escursionisti tempo reale nella valle invece di una sosta affrettata di passaggio.\n\nUna volta a Kamikochi, il percorso a piedi passa accanto allo stagno Taisho, una pozza immobile e riflettente creata quando un'eruzione vulcanica del 1915 ostruì il fiume, e continua fino allo stagno Tashiro, una zona umida paludosa amata dai fotografi per la sua acqua simile a uno specchio nelle mattine calme. Il sentiero attraversa due dei ponti sospesi iconici della valle, il ponte Kappa vicino all'ingresso e il ponte Myojin più nel profondo della foresta, entrambi punti di vista classici per immortalare le cime di Hotaka incorniciate dall'acqua immobile. Camminare è facile su passerelle ben mantenute e sentieri di ghiaia, quindi la giornata si adatta a escursionisti di diversi livelli di forma fisica piuttosto che richiedere un trekking tecnico.\n\nLa combinazione di panorami alpini, colori del foliage autunnale nella stagione giusta, e un ritmo senza fretta rende questo viaggio meno una questione di percorrere distanze e più un invito a fermarsi per osservare luce, acqua e montagne che la maggior parte degli itinerari da Nagoya non raggiunge mai. Portate una macchina fotografica a prescindere dal livello di abilità, poiché gli stagni e i ponti sono le inquadrature più riconoscibili di Kamikochi, e aspettatevi una giornata piena dato il tempo di viaggio di andata e ritorno dalla città.",
+  "highlights": [],
+  "included": [
+   "Escursione guidata di un giorno tra camminata e fotografia, trasporto di andata e ritorno da Nagoya, percorso a piedi tra i principali stagni e ponti di Kamikochi"
+  ],
+  "notIncluded": [
+   "Pasti e bevande, equipaggiamento personale da trekking, assicurazione di viaggio, mance per la guida"
+  ]
+ },
+ "kasuga-taisha-morning-tour": {
+  "title": "Gita mattutina a Nara da Kyoto in pullman: Kasuga Taisha, parco dei cervi e il Grande Buddha",
+  "metaTitle": "Gita mattutina a Nara da Kyoto in pullman",
+  "metaDescription": "Una gita mattutina di quattro ore in pullman da Kyoto che copre Kasuga Taisha, i cervi del parco di Nara e Todai-ji, terminando alla stazione di Kintetsu-Nara.",
+  "shortDescription": "Una gita mattutina di quattro ore in pullman da Kyoto che copre Kasuga Taisha, i cervi del parco di Nara e Todai-ji, terminando alla stazione di Kintetsu-Nara.",
+  "fullDescription": "Questa è una gita di mezza giornata che parte da Kyoto, non da Nara. Vi incontrate al Tully's Coffee vicino al Kyoto Avanti, accanto alla stazione di Kyoto, salite su un pullman e viaggiate per circa un'ora verso sud fino all'antica capitale, il che vi risparmia il dover capire i collegamenti ferroviari con i bagagli o in gruppo. Il tour è un'organizzazione di sola andata: termina alla stazione di Kintetsu-Nara invece di tornare a Kyoto, così potete rientrare secondo il vostro programma o restare a Nara per il resto della giornata.\n\nLa parte guidata segue un ordine inusuale che evita la folla di metà mattina. Kasuga Taisha viene prima, un santuario shintoista fondato nel 768 d.C. i cui sentieri e tetti portano migliaia di lanterne di pietra e bronzo donate dai devoti in oltre un millennio. Poi arriva il tempo libero nel parco di Nara tra più di mille cervi sika selvatici, protetti come messaggeri della divinità Takemikazuchi e designati Tesoro Naturale Nazionale nel 1957. Todai-ji viene lasciato per ultimo, con il blocco guidato più lungo della mattinata.\n\nA Todai-ji vi avvicinate al Daibutsu, il Buddha di bronzo di quindici metri dedicato nel 752 d.C., durante il periodo di Nara come prima capitale permanente del Giappone, un ruolo che tenne per 74 anni a partire dal 710. L'attuale Daibutsuden risale al 1709 ed è largo solo circa due terzi della sala che sostituì, il che dà un'idea della scala dell'originale. Una guida gestisce il contesto e la logistica; a voi resta la camminata, moderata e per lo più pianeggiante eccetto l'accesso al santuario.",
+  "highlights": [],
+  "included": [
+   "Trasporto in pullman da Kyoto a Nara, guida di lingua inglese, visite guidate a Kasuga Taisha e Todai-ji"
+  ],
+  "notIncluded": [
+   "Trasporto di ritorno a Kyoto, ingresso a Todai-ji se non indicato al momento della prenotazione, pasti e bevande, cracker per i cervi, prelievo in hotel"
+  ]
+ },
+ "kawaguchiko-to-hakone-private-guided-transfer": {
+  "title": "Trasferimento privato guidato da Kawaguchiko a Hakone con soste al santuario e alle sorgenti",
+  "metaTitle": "Trasferimento privato da Kawaguchiko a Hakone",
+  "metaDescription": "Un trasferimento privato di quattro ore che trasforma il collegamento scomodo tra Kawaguchiko e Hakone in un viaggio guidato, con soste a stagni sorgivi, un santuario nel bosco e un punto panoramico sul lago Ashi.",
+  "shortDescription": "Un trasferimento privato di quattro ore che trasforma il collegamento scomodo tra Kawaguchiko e Hakone in un viaggio guidato, con soste a stagni sorgivi, un santuario nel bosco e un punto panoramico sul lago Ashi. I bagagli restano nel veicolo per tutto il tragitto.",
+  "fullDescription": "Arrivare da Kawaguchiko a Hakone con i mezzi pubblici è uno dei tratti più frustranti del Giappone centrale. Non c'è una linea diretta. La risposta abituale è un autobus per Gotemba, un'attesa, un cambio e un altro autobus, con le valigie al traino e buona parte di una giornata persa. Questo tour prende lo stesso percorso, lo mette in un veicolo privato con una guida di lingua inglese, e riempie le ore con luoghi che vale la pena vedere.\n\nÈ anche un pezzo di geografia genuinamente interessante. Iniziate nel bacino alpino sul lato settentrionale del Fuji, attraversate un passo di montagna e scendete in un paesaggio vulcanico completamente diverso: Hakone è una caldera, il resto collassato di un vulcano molto più antico, e il cambiamento di terreno e vegetazione quando superate la cresta è evidente dal finestrino dell'auto.\n\nLa prima sosta è Oshino Hakkai, un villaggio di otto stagni ai piedi del Fuji alimentati dallo scioglimento delle nevi che si è filtrato attraverso la lava porosa della montagna per decenni. L'acqua arriva sorprendentemente limpida e fredda. Da lì il percorso si volge al santuario di Ninooka, un piccolo santuario nel bosco che riceve quasi nessun visitatore straniero e offre un registro molto diverso, muschio, cedri e silenzio. Il pranzo è a vostra scelta tra due opzioni: Fukunoya per soba fatta a mano, o Toraya Kobo, dove i dolci wagashi sono serviti in un giardino di bambù.\n\nL'ultima sosta è l'arrivo, ed è calibrata deliberatamente. Il parco panoramico di Ashinoko si trova in alto sopra il lago Ashi, il lago di caldera attorno al quale è costruita Hakone, con un panorama a 360 gradi che abbraccia l'acqua, il bordo circostante e, quando l'aria è limpida, il Fuji stesso che si erge dietro di esso. Vedete la forma intera di dove alloggerete prima ancora di fare il check-in, cosa che cambia come leggerete il resto del vostro tempo a Hakone.\n\nIn pratica: questo è un trasferimento privato di sola andata, quattro ore porta a porta, che termina al vostro hotel o ryokan a Hakone invece che a una stazione. I vostri bagagli viaggiano con voi e non ci sono cambi o attese. La tariffa viene applicata per gruppo e non per viaggiatore, da uno a quattro ospiti pagano lo stesso totale, quindi quattro persone lo dividono in quattro, e gruppi di cinque o più devono essere organizzati su richiesta. Il pranzo non è incluso; prevedete 2.000-3.000 yen a persona.",
+  "highlights": [],
+  "included": [
+   "Guida professionista di lingua inglese",
+   "Trasporto in veicolo privato",
+   "Soste in siti culturali e naturali selezionati",
+   "Riaccompagno al vostro alloggio di destinazione"
+  ],
+  "notIncluded": [
+   "Pranzo (prevedere 2.000-3.000 yen a persona)"
+  ]
+ },
+ "kimpusenji-temple-full-day-tour": {
+  "title": "Escursione di un giorno ai ciliegi in fiore del monte Yoshino da Osaka con il treno Blue Symphony",
+  "metaTitle": "Ciliegi in fiore del monte Yoshino da Osaka",
+  "metaDescription": "Solo in stagione di fioritura: un'intera giornata camminando tra i 30.000 ciliegi del monte Yoshino da Osaka, con pranzo e il treno Blue Symphony al ritorno.",
+  "shortDescription": "Solo in stagione di fioritura: un'intera giornata camminando tra i 30.000 ciliegi del monte Yoshino da Osaka, con pranzo e il treno Blue Symphony al ritorno.",
+  "fullDescription": "Questo è un tour strettamente stagionale: si svolge solo mentre il monte Yoshino è in fiore, approssimativamente da fine marzo a metà o fine aprile, e l'operatore ha pubblicato solo due partenze, il 31 marzo e il 2 aprile. Non esiste una versione estiva o autunnale. Nemmeno i 30.000 ciliegi di Yoshino fioriscono tutti insieme; si aprono in un'onda scalata che sale il pendio della montagna attraverso quattro boschetti storici, Shimo Senbon alla base, poi Naka Senbon, Kami Senbon e infine Oku Senbon vicino alla cima, motivo per cui la data esatta del vostro viaggio cambia quale parte della montagna sia al suo picco.\n\nLa giornata inizia a Osaka, non a Nara. Vi incontrate alle 8:45 ai cancelli dei biglietti della stazione Kintetsu Osaka-Abenobashi e prendete il treno fino a Yoshino, un paesaggio Patrimonio dell'Umanità UNESCO dove gli alberi sono stati piantati e ripiantati come offerte religiose per oltre mille anni. Aspettatevi una vera camminata: i sentieri dei fiori si percorrono a piedi e la montagna è scoscesa in alcuni punti. Lungo il percorso il gruppo visita il tempio Kimpusenji, il tempio principale dell'ascetismo di montagna shugendo, con il suo biglietto d'ingresso di 1.600 yen incluso nel prezzo.\n\nUn pranzo tradizionale giapponese è incluso a metà giornata, seguito dal punto panoramico al santuario di Yoshimizu, noto in giapponese come hitome senbon, il luogo dove si dice che mille ciliegi in fiore siano visibili in un solo sguardo. Il ritorno a Osaka avviene a bordo del treno panoramico Blue Symphony, il cui supplemento deluxe è incluso, con arrivo a Osaka-Abenobashi alle 17:22. La vostra guida parla inglese, giapponese e spagnolo. I biglietti del treno base tra Osaka e Yoshino, circa otto dollari americani a tratta, non sono inclusi e si pagano il giorno stesso.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese, giapponese e spagnola, ingresso al tempio Kimpusenji (1.600 yen), pranzo, supplementi del treno espresso e deluxe"
+  ],
+  "notIncluded": [
+   "Biglietto del treno base tra Osaka e Yoshino (circa 8 USD a tratta), cibo e bevande salvo diversa indicazione"
+  ]
+ },
+ "kimpusenji-temple-symphony-full-day-tour": {
+  "title": "Escursione autunnale ai colori del foliage sul monte Yoshino con il treno Blue Symphony da Osaka",
+  "metaTitle": "Foliage autunnale sul monte Yoshino da Osaka",
+  "metaDescription": "Una giornata esclusiva di novembre sul monte Yoshino con il treno di lusso Blue Symphony, con Kimpusenji, pranzo e una degustazione di dolci al kuzu.",
+  "shortDescription": "Una giornata esclusiva di novembre sul monte Yoshino con il treno di lusso Blue Symphony, con Kimpusenji, pranzo e una degustazione di dolci al kuzu.",
+  "fullDescription": "Il monte Yoshino si colora per una breve finestra ogni anno, e questa intera giornata è costruita attorno a quella finestra: si svolge solo a novembre, quando gli aceri sul fianco della montagna attraversano cremisi, ruggine e oro. La giornata inizia alle 9:45 alla stazione Kintetsu Osaka-Abenobashi e viaggia verso sud nella prefettura di Nara a bordo del Blue Symphony, un treno panoramico a due vagoni con posti a sedere stile salotto e finestre ampie. La tariffa deluxe e il supplemento espresso sono entrambi compresi nel prezzo, così il viaggio stesso fa parte della giornata invece di essere un costo da saldare al cancello.\n\nSulla montagna camminate il sentiero del foliage a un ritmo confortevole e vi fermate a Kimpusenji, il tempio principale dell'ascetismo di montagna shugendo e uno dei più grandi edifici in legno del Giappone, con il biglietto d'ingresso incluso. Il vicino santuario di Yoshimizu guarda diritto attraverso la valle verso le creste, la vista per cui vengono la maggior parte dei visitatori. Il pranzo è un pasto tradizionale giapponese ed è incluso, così come una demo e una degustazione di kuzu, il dolce a base di radice di freccia per cui Yoshino è noto da secoli e che si produce ancora in città usando l'amido locale.\n\nLa vostra guida parla inglese, giapponese o spagnolo e gestisce i collegamenti in treno, così siete liberi di guardare fuori dal finestrino invece che su una mappa. La giornata dura circa otto ore e rientra a Osaka-Abenobashi alle 17:52. I biglietti del treno base tra le stazioni, circa 8 dollari americani a tratta, si pagano separatamente, e qualsiasi cibo o bevanda oltre al pranzo incluso è a vostro carico. I tempi del foliage si spostano di circa una settimana con il meteo ogni anno, quindi il colore a Yoshino è al suo meglio da qualche parte a metà della stagione di novembre piuttosto che a una data fissa.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese, giapponese e spagnola, supplemento treno espresso (1.040 yen), tariffa deluxe Blue Symphony (210 yen), ingresso al tempio Kimpusenji (1.600 yen), pranzo tradizionale giapponese, demo e degustazione di dolci al kuzu (valore 1.000 yen)"
+  ],
+  "notIncluded": [
+   "Biglietti del treno base tra le stazioni (circa 8 USD a tratta), cibo e bevande oltre al pranzo incluso, spese personali"
+  ]
+ },
+ "kinjo-pier-food-tour": {
+  "title": "Tour gastronomico di Nagoya al molo Kinjo per i passeggeri di crociera",
+  "metaTitle": "Tour gastronomico di Nagoya al molo Kinjo",
+  "metaDescription": "Un breve tour gastronomico guidato vicino al molo Kinjo, pensato per i passeggeri di crociera con poco tempo a terra.",
+  "shortDescription": "Un breve tour gastronomico guidato vicino al molo Kinjo, pensato per i passeggeri di crociera con poco tempo a terra.",
+  "fullDescription": "La scena gastronomica di Nagoya si distingue dai sapori del Kansai di Kyoto e Osaka, e questo tour compatto è pensato specificamente per i viaggiatori il cui tempo in città è limitato a una sosta di crociera al molo Kinjo, il terminal crociere del porto di Nagoya. Invece di cercare di coprire l'intera città, resta vicino al porto e si concentra nel dare ai visitatori un assaggio genuino, seppur breve, di ciò che rende distintive le cucine di Nagoya.\n\nIl tour si incontra a un minimarket Daily Yamazaki a pochi passi dalla stazione di Kinjo-futo e si sposta a piedi fino a ristoranti locali vicino al terminal, dove una guida conduce il gruppo tra degustazioni che tipicamente attingono ai piatti classici di Nagoya come l'hitsumabushi (anguilla grigliata servita su riso e mangiata in tre modi diversi), i tebasaki (ali di pollo fritte in stile Nagoya), e il miso katsu, una cotoletta di maiale finita con la caratteristica salsa di miso rosso della regione. La parte guidata dura circa un'ora, con degustazioni, una breve introduzione a piedi alla zona, e tempo per fare domande sui piatti e sulle loro origini.\n\nQuesto tour è tariffato e calibrato per i passeggeri di crociera con una finestra di sbarco limitata piuttosto che per un giro gastronomico di un'intera giornata, quindi aspettatevi un'esperienza concentrata e relativamente breve piuttosto che un lungo menù di degustazione a più tappe. È un'opzione pratica se la vostra nave è ancorata al molo Kinjo e volete un'introduzione genuina e guidata alla cucina di Nagoya senza allontanarvi troppo dal terminal.",
+  "highlights": [],
+  "included": [
+   "Tour gastronomico guidato a piedi, degustazioni in ristoranti locali vicino al molo Kinjo, guida di lingua inglese"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il terminal crociere oltre il punto d'incontro, bevande o piatti aggiuntivi oltre alle degustazioni incluse, mance"
+  ]
+ },
+ "kintetsu-namba-station-guided-tour": {
+  "title": "Matabei Zakura: giornata di fiori di ciliegio in campagna a Uda da Osaka",
+  "metaTitle": "Ciliegi in fiore in campagna a Uda da Osaka",
+  "metaDescription": "Solo in stagione di fioritura: una giornata rurale di sakura a Uda costruita attorno a un ciliegio piangente di 300 anni, in partenza da Osaka.",
+  "shortDescription": "Solo in stagione di fioritura: una giornata rurale di sakura a Uda costruita attorno a un ciliegio piangente di 300 anni, in partenza da Osaka.",
+  "fullDescription": "Questo tour si svolge solo durante la stagione dei fiori di ciliegio, approssimativamente da fine marzo a metà o fine aprile, e l'operatore lo elenca attualmente con partenze per la primavera 2027. Non può essere prenotato fuori dalla fioritura, perché l'intera giornata è costruita attorno a un singolo albero. Il Matabei Zakura è un ciliegio piangente che si dice abbia circa 300 anni, isolato su un pendio a Uda, nelle colline orientali della prefettura di Nara, e quando fiorisce attira fotografi da tutto il Giappone.\n\nLa partenza è da Osaka: il gruppo si raduna al negozio di souvenir Goto-chi vicino al cancello biglietti Est al livello B2 della stazione Kintetsu Namba e viaggia in treno e autobus fino in campagna. Uda è terra agricola e piccole città piuttosto che distretto templare, e il ritmo lo riflette. La giornata include una passeggiata tra i fiori lungo il fiume Uda, una sosta a un bagno dei piedi comunitario, e tempo a una stazione di sosta michi no eki dove agricoltori e artigiani locali vendono ciò che hanno realizzato. Si chiude nello scenario commerciale preservato di Uda Matsuyama, un quartiere di case tradizionali che ha mantenuto il suo vecchio tracciato stradale.\n\nVale la pena essere chiari su cosa questo non sia. Non ci sono cervi, nessun Grande Buddha e nessuna folla di turisti in pullman; se questa è la vostra unica giornata nella regione e volete Todai-ji e il parco di Nara, prenotate un altro tour. Quello che ottenete invece è la Nara rurale in fiore, guidata in inglese, giapponese o spagnolo, di ritorno alla stazione Kintetsu Namba per le 18:00. Pasti, bevande e le tariffe di treno e autobus tra Osaka e Uda, circa dieci dollari americani a tratta, non sono incluse, quindi portate contanti o una carta IC per il viaggio.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese, giapponese e spagnola"
+  ],
+  "notIncluded": [
+   "Pasti, bevande e altri oggetti personali, biglietti di treno e autobus da Osaka a Uda e ritorno (circa 10 USD a tratta)"
+  ]
+ },
+ "kintetsu-nara-station-guided-tour": {
+  "title": "Nara in tre siti UNESCO: Kofuku-ji, Todai-ji e Kasuga Taisha",
+  "metaTitle": "Nara in tre siti UNESCO",
+  "metaDescription": "Una passeggiata guidata di tre ore che collega Kofuku-ji, il parco di Nara, il Grande Buddha di Todai-ji e Kasuga Taisha fiancheggiata da lanterne.",
+  "shortDescription": "Una passeggiata guidata di tre ore che collega Kofuku-ji, il parco di Nara, il Grande Buddha di Todai-ji e Kasuga Taisha fiancheggiata da lanterne.",
+  "fullDescription": "Tre dei siti di Nara classificati dall'UNESCO si trovano a una lunga camminata l'uno dall'altro, e questo percorso guidato di tre ore li collega nell'ordine che ha senso storico. Iniziate a Kofuku-ji, il tempio di famiglia dei Fujiwara, la cui pagoda a cinque piani è rimasta il punto di riferimento dello skyline dell'antica capitale per secoli. Da lì la passeggiata entra nel parco di Nara, poi raggiunge Todai-ji e termina a Kasuga Taisha, così la mattinata si muove dalla politica templare aristocratica al buddismo di stato fino al rituale shintoista senza tornare indietro.\n\nIl punto centrale è il Daibutsu, il Buddha di bronzo di circa quindici metri dedicato nel 752 d.C. quando Nara, allora chiamata Heijo-kyo, era la prima capitale permanente del Giappone. La sala che lo ospita, il Daibutsuden, fu ricostruita nel 1709 a circa due terzi della larghezza originale ed è ancora tra i più grandi edifici in legno al mondo. Kasuga Taisha, fondato nel 768 d.C., chiude il percorso con una nota completamente diversa: migliaia di lanterne di pietra e bronzo donate dai devoti nel corso dei secoli fiancheggiano i sentieri d'accesso e pendono dai suoi tetti.\n\nTra un sito e l'altro siete in compagnia dei cervi sika selvatici del parco di Nara, più di mille, trattati come messaggeri della divinità Takemikazuchi e protetti come Tesoro Naturale Nazionale dal 1957. Sono animali genuinamente selvatici e non uno zoo da coccolare, e la vostra guida vi spiegherà come offrire i cracker shika senbei senza essere assaliti. Il ritmo è sempre a passo di camminata, su sentieri pianeggianti con una leggera salita verso Kasuga Taisha.",
+  "highlights": [],
+  "included": [
+   "Guida locale di lingua inglese, commento guidato a Kofuku-ji, al parco di Nara, a Todai-ji e a Kasuga Taisha"
+  ],
+  "notIncluded": [
+   "Ingresso al Daibutsuden di Todai-ji, cracker per i cervi (shika senbei), cibo e bevande, trasferimenti in hotel, biglietto del treno per Nara"
+  ]
+ },
+ "kintetsu-nara-station-walking-tour": {
+  "title": "Passeggiata del sake a Nara: degustazioni, negozi specializzati e vicoli secondari",
+  "metaTitle": "Passeggiata del sake a Nara",
+  "metaDescription": "Una passeggiata di tre ore in piccolo gruppo nel centro di Nara con degustazioni guidate, negozi specializzati e vicoli locali.",
+  "shortDescription": "Una passeggiata di tre ore in piccolo gruppo nel centro di Nara con degustazioni guidate, negozi specializzati e vicoli locali.",
+  "fullDescription": "Nara ha una pretesa seria di essere il luogo dove nacque la produzione raffinata del sake. Il tempio Shoryaku-ji, sulle colline a sud-est della città, è accreditato di aver sviluppato le prime tecniche di avviamento bodaimoto che hanno plasmato il modo in cui il sake è stato prodotto da allora. Questa passeggiata di tre ore prende quella storia come punto di partenza e poi fa la cosa ovvia con essa: mette bicchieri davanti a voi e lascia che una guida spieghi cosa state assaggiando.\n\nVi incontrate alla stazione Kintetsu Nara e state già bevendo dopo pochi minuti di cammino, in un bar locale dove la parte di degustazione guidata dura circa 25 minuti. Il resto del tour è un circuito a piedi tra le strade circostanti tra una sosta e l'altra, passando per negozi specializzati di sake e i vicoli ordinari di una città che la maggior parte dei visitatori vede solo tra i cancelli dei templi. La vostra guida spiega le basi senza trasformarlo in una lezione: cosa significhino davvero junmai e ginjo, come i rapporti di lucidatura cambino il carattere di un sake, e perché i produttori di Nara parlino ancora dei loro predecessori monastici. Il circuito torna alla stazione Kintetsu Nara da dove era partito.\n\nÈ un'esperienza in piccolo gruppo e un buon contrappeso a una giornata passata sul circuito dei templi, specialmente nel tardo pomeriggio quando Todai-ji e Kasuga Taisha si avviano a chiudere. Venite con un appetito sufficiente per gestire diverse degustazioni, e considerate questo un tour da bere piuttosto che da visitare; i cervi e il Grande Buddha sono a breve distanza a piedi ma non fanno parte del percorso.",
+  "highlights": [],
+  "included": [
+   "Guida del sake di lingua inglese, degustazioni di sake durante il tour, visita a un bar locale e a negozi di sake specializzati"
+  ],
+  "notIncluded": [
+   "Pasti, bevande aggiuntive ordinate fuori dal set di degustazione, bottiglie souvenir, trasporto per Nara, prelievo in hotel"
+  ]
+ },
+ "kofuku-ji-temple-half-day-tour": {
+  "title": "Il nucleo del Patrimonio dell'Umanità di Nara: passeggiata privata di mezza giornata a Kofuku-ji, Todai-ji e Kasuga Taisha",
+  "metaTitle": "Nucleo UNESCO di Nara in mezza giornata",
+  "metaDescription": "Una passeggiata privata guidata di mezza giornata nel nucleo UNESCO di Nara: Kofuku-ji, il parco dei cervi, il Grande Buddha e Kasuga Taisha.",
+  "shortDescription": "Una passeggiata privata guidata di mezza giornata nel nucleo UNESCO di Nara: Kofuku-ji, il parco dei cervi, il Grande Buddha e Kasuga Taisha.",
+  "fullDescription": "Quattro siti, quarantacinque minuti a ciascuno, una guida e solo il vostro gruppo: questa passeggiata di mezza giornata è la versione efficiente di Nara. Inizia alla stazione Kintetsu Nara, a pochi minuti dai cancelli del parco, oppure alla stazione di Kyoto se preferite viaggiare con la vostra guida, e resta nel nucleo Patrimonio dell'Umanità dell'antica capitale invece di disperdersi per la prefettura.\n\nIniziate a Kofuku-ji, la cui pagoda a cinque piani è la sagoma che la maggior parte delle persone fotografa senza conoscerne il nome; il tempio era il tempio di famiglia dei Fujiwara e una volta esercitava abbastanza potere da arruolare i propri eserciti. Da lì il percorso attraversa il parco di Nara, casa di oltre mille cervi sika selvatici protetti da secoli come messaggeri di Takemikazuchi e dichiarati Tesoro Naturale Nazionale nel 1957. Segue Todai-ji, dove il Daibutsu, circa quindici metri di bronzo fuso, fu dedicato nel 752 d.C. e si trova dentro una sala ricostruita nel 1709 a due terzi della larghezza originale ma ancora classificata tra i più grandi edifici in legno del mondo. La passeggiata termina a Kasuga Taisha, fondato nel 768 d.C., raggiunto attraverso viali boscosi appesi e impilati con migliaia di lanterne di pietra e bronzo donate dai devoti in oltre un millennio.\n\nMezza giornata basta per questi quattro siti perché si trovano vicini tra loro, e avere una guida significa cogliere i collegamenti tra essi piuttosto che quattro tappe separate. Nara è a circa 35-40 minuti da Osaka e circa 45 da Kyoto, quindi si abbina facilmente a un pomeriggio di ritorno in entrambe le città.",
+  "highlights": [],
+  "included": [
+   "Guida privata per la durata della passeggiata, commento guidato in tutti i quattro siti, itinerario dal punto di partenza scelto"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso ai templi e santuari, biglietto del treno se si parte da Kyoto, pasti e bevande, cracker per i cervi, mance"
+  ]
+ },
+ "kyoto-airport-mini-tour": {
+  "title": "Servizio taxi dall'aeroporto del Kansai (KIX)",
+  "metaTitle": "Servizio taxi dall'aeroporto del Kansai",
+  "metaDescription": "Atterrare all'Aeroporto Internazionale del Kansai dopo un volo lungo è già disorientante, senza doversi preoccupare di cambi di treno, bagagli sulle scale e collegamenti che non si incastrano bene.",
+  "shortDescription": "Atterrare all'Aeroporto Internazionale del Kansai dopo un volo lungo è già disorientante, senza doversi preoccupare di cambi di treno, bagagli sulle scale e collegamenti che non si incastrano con la posizione del vostro hotel.",
+  "fullDescription": "Atterrare all'Aeroporto Internazionale del Kansai dopo un volo lungo è già disorientante, senza poi dover capire cambi di treno, bagagli sulle scale e collegamenti che non si incastrano bene con la posizione del vostro hotel. L'operatore locale esiste per eliminare questo intero problema: un'auto privata e un conducente di lingua inglese che vi aspettano all'arrivo, il numero del vostro volo già registrato così sanno se siete in ritardo, e un tragitto diretto porta a porta fino al vostro hotel a Osaka, Kyoto, Nara, Kobe o Himeji senza un solo cambio. Per Kyoto in particolare, ciò significa saltare la combinazione dell'Haruka Express più i mezzi locali, che tipicamente richiede ben più di un'ora con i cambi, e percorrere invece un tragitto fisso in autostrada che vi porta al vostro alloggio in circa 90 minuti, porta a porta, con i bagagli gestiti dal conducente invece che trascinati su per le scale della stazione. Questo conta di più all'arrivo di un viaggio, quando il jet lag rende l'orientarsi in un sistema di trasporto non familiare genuinamente più difficile di quanto sembri sulla carta, e alla partenza, quando un collegamento in treno mancato può significare perdere un volo internazionale. Il servizio funziona in entrambe le direzioni tra il KIX e la più ampia regione del Kansai, e il prezzo è per veicolo e non per persona, il che lo rende notevolmente più economico per famiglie o gruppi di tre o quattro persone rispetto all'acquisto di biglietti del treno individuali. Ogni prenotazione include il monitoraggio del volo, così se il vostro volo in arrivo è in ritardo, il conducente adatta automaticamente l'orario di prelievo invece di lasciarvi a cercare un'auto già partita. Un addetto all'accoglienza vi incontra dentro la sala arrivi con un cartello col vostro nome, vi accompagna al veicolo, e il conducente gestisce la conversazione in un inglese funzionale per la logistica base del viaggio. Questo non è un tour o un'esperienza nel senso abituale, è un trasferimento privato e pratico pensato per i viaggiatori che preferiscono passare le prime e le ultime ore in Giappone riposando o rivedendo il loro itinerario piuttosto che lottare con le macchinette dei biglietti. Se il vostro volo atterra tardi, il vostro gruppo ha più bagagli di quanti un treno possa gestire comodamente, o semplicemente volete una cosa in meno da pianificare, questo trasferimento si guadagna il suo valore prima ancora che il vostro viaggio sia davvero iniziato.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato, conducente di lingua inglese, monitoraggio del volo e servizio di accoglienza"
+  ],
+  "notIncluded": [
+   "Pedaggi oltre il percorso standard e qualsiasi sosta extra richiesta fuori dall'itinerario prenotato"
+  ]
+ },
+ "kyoto-arashiyama-chopstick-making-workshop": {
+  "title": "Pialla e leviga le tue bacchette ad Arashiyama",
+  "metaTitle": "Laboratorio di bacchette ad Arashiyama",
+  "metaDescription": "Un'ora sopra un negozio vicino a Tenryu-ji, per modellare un paio di bacchette con una pialla manuale partendo dal legno che scegliete, l'attività pratica più economica da fare ad Arashiyama.",
+  "shortDescription": "Un'ora sopra un negozio vicino a Tenryu-ji, per modellare un paio di bacchette con una pialla manuale partendo dal legno che scegliete, l'attività pratica più economica da fare ad Arashiyama.",
+  "fullDescription": "Arashiyama si affolla. Il boschetto di bambù, il ponte e Tenryu-ji assorbono buona parte di una mattinata e buona parte della folla, e nel primo pomeriggio molti visitatori cercano qualcosa da fare che non sia fare la fila. Questo laboratorio è una buona risposta, e a questo prezzo è vicino all'ora pratica più economica di Kyoto.\n\nIniziate scegliendo il legno. Tre tipi sono inclusi e più di dieci sono disponibili, ognuno con una venatura, un colore e un odore diversi, i legni più chiari sono più morbidi sotto la pialla, quelli scuri e premium mantengono meglio il filo ma costano in più. Il vostro grezzo viene posto su un supporto e lo modellate con una pialla manuale, il che è la parte che sorprende le persone: l'utensile fa il lavoro se l'angolo è giusto, e sbagliarlo produce un risultato immediato ed evidente. Segue la carta vetrata, poi uno strato di olio naturale che fa risaltare la venatura e la sigilla.\n\nL'incisione è disponibile se volete il vostro nome in kanji o il tipo di legno segnato sul paio finito. Il tutto richiede un'ora, tutto è fornito, e il personale lavora in inglese per tutto il tempo. Non si presume alcuna abilità e non c'è nulla di abbastanza affilato da preoccuparsi con i bambini più grandi.\n\nIl laboratorio si trova al secondo piano di un edificio a Sagatenryuji Susukinobabacho, su per le scale a sinistra dell'ingresso, a un paio di minuti dal tempio e dal boschetto. Il personale offre anche consigli genuinamente utili per il resto di Arashiyama, quali sentieri si svuotano, dove si trova davvero l'ingresso del parco delle scimmie, utili prima di tornare fuori.\n\nSe preferite fare le bacchette a Nara, offriamo un laboratorio separato lì; questo è l'opzione di Kyoto e i due non sono collegati.",
+  "highlights": [],
+  "included": [
+   "Laboratorio di fabbricazione bacchette con tutti gli strumenti e i materiali, scelta del legno con tre tipi inclusi, pialla manuale, levigatura e finitura con olio naturale, personale di lingua inglese, consigli locali per esplorare Arashiyama"
+  ],
+  "notIncluded": [
+   "Selezioni di legno premium oltre ai tre tipi incluse, incisione personalizzata, cibo e bevande, trasporto al laboratorio"
+  ]
+ },
+ "kyoto-around-bike-tour": {
+  "title": "Pedalare per Kyoto, tour privato di un giorno in e-bike con prelievo in hotel",
+  "metaTitle": "Kyoto in e-bike con prelievo in hotel",
+  "metaDescription": "I siti imperdibili di Kyoto sono sparsi in una città che resiste alle facili camminate, Gion è a est, Arashiyama è lontana a ovest, e i templi tra i due sono separati da distanze che rendono una sola giornata a piedi.",
+  "shortDescription": "I siti imperdibili di Kyoto sono sparsi in una città che resiste alle facili camminate, Gion è a est, Arashiyama è lontana a ovest, e i templi tra i due sono separati da distanze che rendono una sola giornata a piedi.",
+  "fullDescription": "I siti imperdibili di Kyoto sono sparsi in una città che resiste alle facili camminate, Gion si trova a est, Arashiyama lontana a ovest, e i templi nel mezzo sono separati da distanze che rendono una sola giornata di visite a piedi estenuante piuttosto che piacevole. Un'e-bike risolve questo problema con eleganza, appiattendo le dolci colline di Kyoto e trasformando quella che sarebbe una giornata frettolosa a più taxi in un unico giro continuo e senza fretta. Questo tour privato di Kyoto Bike Rental and Tours Saiin, gestito sotto il nome Love Tango, inizia con il prelievo in hotel, così non c'è bisogno di orientarsi verso un negozio di noleggio prima ancora che inizi la giornata, e costruisce un percorso di un'intera giornata attraverso Gion e i vicoli preservati di Higashiyama, oltre il famoso acquedotto e i giardini zen del tempio Nanzenji, e fino al più tranquillo santuario di Shimogamo con il suo accesso di foresta antica, prima di terminare ad Arashiyama per il boschetto di bambù e il paesaggio lungo il fiume. Essendo privato e non una partenza di gruppo fissa, la vostra guida può adattare il ritmo e fermarsi più a lungo dove interessa, più tempo a fotografare le strade machiya di Higashiyama, un passaggio più lento nella foresta Tadasu no Mori di Shimogamo, qualunque cosa richieda la giornata. Le e-bike stesse fanno una vera differenza su un percorso così lungo: l'assistenza alla pedalata elimina la fatica delle salite attorno a Nanzenji e agli accessi ai santuari settentrionali, così arrivate a ogni tappa con energia rimasta per esplorare davvero piuttosto che avere bisogno di riprendervi. Circa sei ore in sella suonano come molto, ma sono divise in segmenti di pedalata e soste a piedi per tutta la giornata, e finire ad Arashiyama significa che il tour si costruisce naturalmente verso uno dei quartieri più fotogenici di Kyoto invece di partire da lì e procedere a ritroso. Il riaccompagno in hotel alla fine significa che non dovete affannarvi per ritrovare la strada attraverso la città dopo un'intera giornata in sella. È una forte opzione per i viaggiatori che hanno già fatto la versione standard a piedi di Kyoto, o che vogliono semplicemente coprire più terreno, quattro quartieri distinti in un giorno, senza sacrificare la possibilità di fermarsi dove qualcosa attira l'attenzione.",
+  "highlights": [],
+  "included": [
+   "Noleggio e-bike, casco, prelievo e riaccompagno in hotel, e una guida privata di lingua inglese"
+  ],
+  "notIncluded": [
+   "Pranzo, biglietti d'ingresso ai templi e spese personali non sono incluse"
+  ]
+ },
+ "kyoto-best-guided-tour": {
+  "title": "Tour del meglio di Kyoto in un giorno",
+  "metaTitle": "Il meglio di Kyoto in un giorno",
+  "metaDescription": "Kyoto premia i viaggiatori lenti, ma la maggior parte dei visitatori ha solo due o tre giorni in città prima di spostarsi a Osaka o Tokyo, il che rende una giornata intera ben sequenziata genuinamente preziosa.",
+  "shortDescription": "Kyoto premia i viaggiatori lenti, ma la maggior parte dei visitatori ha solo due o tre giorni in città prima di spostarsi a Osaka o Tokyo, il che rende una giornata intera ben sequenziata genuinamente preziosa. Questo tour è costruito attorno a questa realtà.",
+  "fullDescription": "Kyoto premia i viaggiatori lenti, ma la maggior parte dei visitatori ha solo due o tre giorni in città prima di spostarsi a Osaka o Tokyo, il che rende una giornata intera ben sequenziata genuinamente preziosa. Questo tour è costruito attorno a questa realtà: invece di affollare ogni tempio entro i confini della città, intreccia insieme tre siti che mostrano secoli diversi e volti diversi di Kyoto in un unico giro sensato. La giornata si apre al castello di Nijo, la fortezza in pianura costruita da Tokugawa Ieyasu nel 1603 come sua residenza a Kyoto, famosa per i suoi \"pavimenti usignolo\" che cigolano sotto i passi come un allarme integrato contro gli assassini, e per le porte scorrevoli dipinte del palazzo Ninomaru che raffigurano tigri e pini pensati per intimidire i daimyo in visita. Dal mondo del teatro politico dello shogun, la giornata si muove verso Kinkaku-ji, il Padiglione d'Oro, dove una villa zen di ritiro trasformata in tempio sta foglia d'oro e specchiata nel proprio giardino d'acqua, uno di quei rari spettacoli che sembrano quasi irreali di persona, apprezzati meglio con calma piuttosto che attraverso un mirino, esattamente il ritmo che un piccolo gruppo guidato permette. Il pomeriggio si sposta interamente a ovest, nel boschetto di bambù di Arashiyama, dove il sentiero si restringe e la luce diventa oro-verde mentre steli di bambù millenari scricchiolano e si urtano sopra di voi nel vento, un registro sensoriale completamente diverso dai templi del mattino, e spesso abbinato a una passeggiata verso il ponte Togetsukyo sul fiume Katsura se il tempo lo permette. Si svolge come una giornata in piccolo gruppo vera e propria, non un tour in pullman da 40 posti, il che significa che la vostra guida può davvero rispondere alle domande, adattare i tempi in base alla folla, e dare contesto sul perché questi tre siti siano stati scelti insieme piuttosto che isolatamente, lo shogunato, l'estetica zen e la storia letteraria di Arashiyama come ritiro dei nobili dell'epoca Heian si collegano tutti in un'unica storia coerente su cosa sia davvero Kyoto. Con 9,5 ore è una giornata piena, quindi gestite il vostro ritmo, indossate scarpe da camminata vere, e aspettatevi un mix di terreni templari, sentieri di giardino e un po' di tempo di trasferimento tra i siti. Se avete solo un giorno per capire perché Kyoto è stata la capitale culturale del Giappone per oltre mille anni, questo itinerario si guadagna il suo nome.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese, ingressi al castello di Nijo e a Kinkaku-ji, e trasporto di andata e ritorno tra i siti"
+  ],
+  "notIncluded": [
+   "Pranzo e spese personali non sono inclusi nel prezzo del tour"
+  ]
+ },
+ "kyoto-bike-tour": {
+  "title": "Tour in bicicletta di Kyoto",
+  "metaTitle": "Tour in bicicletta di Kyoto",
+  "metaDescription": "Kyoto premia il movimento lento più di quasi ogni altra città del Giappone, e una bicicletta si rivela esattamente la velocità giusta per viverla.",
+  "shortDescription": "Kyoto premia il movimento lento più di quasi ogni altra città del Giappone, e una bicicletta si rivela esattamente la velocità giusta per viverla: abbastanza rapida da coprire vera distanza in un'ex capitale estesa, abbastanza lenta da notare ciò che il finestrino di un autobus fa sfumare.",
+  "fullDescription": "Kyoto premia il movimento lento più di quasi ogni altra città del Giappone, e una bicicletta si rivela esattamente la velocità giusta per viverla, abbastanza rapida da coprire vera distanza in un'ex capitale estesa, abbastanza lenta da notare davvero ciò che il finestrino di un autobus fa sfumare. Questo tour ciclistico guidato attraversa il nucleo storico di Kyoto a quel ritmo, coprendo a due ruote un terreno che altrimenti significherebbe una giornata estenuante di cambi in metropolitana e lunghe camminate tra i siti. Il percorso tipicamente si intreccia tra quartieri centrali e terreni templari, pedalando lungo il fiume Kamo dove i locali corrono e fanno picnic, attraverso tranquille strade residenziali fiancheggiate da case machiya in legno che non compaiono mai in un tipico itinerario in taxi, e verso alcuni dei templi e santuari più iconici della città. Una guida locale esperta conduce il gruppo, fornendo la storia dietro il ruolo di Kyoto come capitale imperiale del Giappone per oltre mille anni, e segnalando dettagli architettonici e culturali facili da perdere senza contesto. Pedalare apre anche parti della città che i pullman turistici semplicemente non possono raggiungere: vicoli stretti, sentieri lungo il fiume e santuari di retrovia incastonati tra le case. Con 3,5 ore, il ritmo resta confortevole piuttosto che atletico, con soste regolari previste per foto e sguardi più attenti a ogni sito. È richiesta solo una capacità di base nel pedalare, il terreno nel centro di Kyoto è in gran parte pianeggiante. Indossate abiti comodi in cui potete muovervi e scarpe adatte alla pedalata, e aspettatevi un punto di vista genuinamente diverso su una città che la maggior parte dei visitatori vede solo da marciapiedi e banchine ferroviarie. Per chiunque voglia coprire un terreno significativo sentendo ancora di muoversi attraverso Kyoto piuttosto che oltrepassarla, questo è il formato che offre entrambe le cose.",
+  "highlights": [],
+  "included": [
+   "Noleggio bicicletta, casco, e un percorso ciclistico guidato tra i siti storici e i quartieri del centro di Kyoto"
+  ],
+  "notIncluded": [
+   "Prelievo e riaccompagno in hotel, cibo e bevande, e biglietti d'ingresso a templi o santuari non sono inclusi"
+  ]
+ },
+ "kyoto-classic-guided-tour": {
+  "title": "Tour classico di Kyoto",
+  "metaTitle": "Tour classico di Kyoto",
+  "metaDescription": "Se è la vostra prima volta a Kyoto e avete solo un giorno per capire la città prima di proseguire, questo è l'itinerario che copre ciò che conta davvero: il santuario di Fushimi Inari, il palco di Kiyomizu-dera e il padiglione d'oro di Kinkaku-ji.",
+  "shortDescription": "Se è la vostra prima volta a Kyoto e avete solo un giorno per capire la città prima di proseguire, questo è l'itinerario che copre ciò che conta davvero: il santuario di Fushimi Inari, il palco di Kiyomizu-dera e il padiglione d'oro di Kinkaku-ji.",
+  "fullDescription": "Se è la vostra prima volta a Kyoto e avete solo un giorno per dare un senso alla città prima di proseguire, questo è l'itinerario che copre il terreno che conta davvero: la montagna di torii del santuario di Fushimi Inari, il palco in legno di Kiyomizu-dera che sporge sul pendio di Higashiyama, e il padiglione dorato di Kinkaku-ji riflesso nell'acqua immobile. Questa giornata di sette ore è pensata specificamente come introduzione piuttosto che come approfondimento, toccando i tre luoghi che emergono in quasi ogni conversazione su Kyoto. Fushimi Inari al mattino significa che salite tra i tunnel di cancelli vermigli mentre la luce è ancora morbida e la folla non si è ancora accumulata completamente, un'esperienza genuinamente diversa dalla calca di mezzogiorno in cui finisce la maggior parte dei visitatori alla loro prima volta. Da lì, la giornata si sposta a Higashiyama, dove il palco di Kiyomizu-dera, costruito senza un solo chiodo, un'impresa di ingegneria di secoli fa, offre vedute panoramiche sul pendio boscoso, con i vicoli preservati di Ninenzaka e Sannenzaka vicini che vi danno un assaggio delle vie dello shopping della vecchia Kyoto. La giornata si chiude a Kinkaku-ji, probabilmente l'edificio più fotografato di Kyoto, dove gli ultimi due piani sono ricoperti di vera foglia d'oro e l'intera struttura si trova specchiata nel proprio stagno. Ciò che rende questo tour efficace come introduzione classica è la sequenza, è calibrato così da non farvi tornare indietro attraverso la città, e vi lascia con una vera mappa mentale della geografia di Kyoto quando avete finito. Per chiunque arrivi a Kyoto con tempo limitato, questo è il modo efficiente e ben calibrato di farlo.",
+  "highlights": [],
+  "included": [
+   "Tour di gruppo guidato che comprende la logistica dei trasporti e la pianificazione del percorso tra i tre siti principali"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso a templi e santuari, e i pasti durante la giornata"
+  ]
+ },
+ "kyoto-design-guided-tour": {
+  "title": "Progetta il tuo tour su misura di Kyoto",
+  "metaTitle": "Tour su misura di Kyoto",
+  "metaDescription": "La maggior parte degli itinerari di Kyoto viene costruita al contrario, un viaggiatore legge un elenco di dieci templi imperdibili, cerca di stiparli in un giorno, e finisce per correre attraverso lo stagno dorato di Kinkaku-ji con altre quaranta persone.",
+  "shortDescription": "La maggior parte degli itinerari di Kyoto viene costruita al contrario, un viaggiatore legge un elenco di dieci templi imperdibili, cerca di stiparli in un giorno, e finisce per correre attraverso lo stagno dorato di Kinkaku-ji con altre quaranta persone. Questo tour su misura inverte il processo.",
+  "fullDescription": "La maggior parte degli itinerari di Kyoto viene costruita al contrario, un viaggiatore legge un elenco di dieci templi imperdibili, cerca di stiparli in un giorno, e finisce per correre attraverso lo stagno dorato di riflessi di Kinkaku-ji con altre quaranta persone che cercano gli stessi tre scatti. Questo tour su misura inverte quel processo: invece di darvi un percorso fisso, una guida locale veterana si siede prima con voi a discutere i vostri interessi, che si tratti di architettura templare, della cultura della cerimonia del tè di Kyoto, della scena gastronomica del mercato Nishiki, del design silenzioso dei giardini, o delle vecchie strade mercantili di Nishijin, e costruisce la giornata attorno a ciò che volete davvero vedere. Questo potrebbe significare passare novanta minuti senza fretta in un singolo giardino di muschio invece di correre tra cinque siti famosi, oppure un circuito a ritmo rapido dei vicoli storici di Higashiyama, Kiyomizu-dera, e una sosta in un negozio di dolci a gestione familiare che la vostra guida conosce da anni. Poiché l'itinerario si adatta tra le quattro e le otto ore, funziona altrettanto bene come aggiunta mattutina mirata o come giornata immersiva completa, e il prelievo e riaccompagno in hotel su richiesta fanno sparire del tutto la logistica di spostarsi in una città così estesa. Ciò che distingue questo da un tour di gruppo standardizzato è la profondità della conoscenza locale della guida, quella che sa quale tempio ha la luce fotogenica del mattino rispetto all'ora dorata, quale bancone di ramen di retrovia non compare nelle guide, e come sequenziare le soste così da non tornare mai indietro. È particolarmente adatto a viaggiatori che hanno già fatto un primo viaggio a Kyoto e vogliono andare più a fondo, a famiglie che hanno bisogno di un ritmo flessibile, o a chiunque non ami essere condotto attraverso uno schema fisso. Il prezzo è per gruppo e non per persona, il che lo rende genuinamente economico per coppie, famiglie o piccoli gruppi di amici. Se avete una visione precisa per la vostra giornata a Kyoto, o nessun piano fisso, questo tour è costruito per incontrarvi esattamente lì.",
+  "highlights": [],
+  "included": [
+   "Una guida locale veterana privata e di lingua inglese per un itinerario completamente su misura, con prelievo e riaccompagno in hotel su richiesta"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso a templi e siti, pasti, e costi di trasporto oltre al prelievo e riaccompagno della guida non sono inclusi"
+  ]
+ },
+ "kyoto-evening-evening-tour": {
+  "title": "Tour gastronomico serale di Pontocho e Gion Shirakawa a Kyoto",
+  "metaTitle": "Tour gastronomico serale di Pontocho e Gion",
+  "metaDescription": "Pontocho dopo il buio è un vicolo stretto e punteggiato di lanterne stretto tra il fiume Kamo e una fila di ingressi di ristoranti, molti senza insegne o scritti solo in kanji.",
+  "shortDescription": "Pontocho dopo il buio è un vicolo stretto e punteggiato di lanterne stretto tra il fiume Kamo e una fila di ingressi di ristoranti, molti senza insegne o scritti solo in kanji, il motivo esatto per cui attraversarlo senza una guida di solito significa perdere tutto ciò che vale la pena.",
+  "fullDescription": "Pontocho dopo il buio è un vicolo stretto e punteggiato di lanterne stretto tra il fiume Kamo e una fila di ingressi di ristoranti, molti senza insegne o scritti solo in kanji, il motivo esatto per cui attraversarlo senza una guida di solito significa perdere tutto ciò che vale la pena. Questo tour gastronomico serale tratta quel vicolo, più l'adiacente striscia lungo il fiume di Gion Shirakawa, con i suoi salici e il passeggio sul canale lastricato di pietra, come un menù operativo della cultura gastronomica di Kyoto piuttosto che uno sfondo fotografico. Nel corso di tre ore, una guida locale esperta conduce piccoli gruppi attraverso diverse tappe di degustazione scelte per varietà e autenticità: pensate a piatti veri in stile Kyoto radicati nelle tradizioni di cucina domestica kaiseki e obanzai della città, insieme al tipo di cibo da izakaya al bancone che i locali mangiano davvero in una serata infrasettimanale. Il percorso è costruito per stratificare i sapori nel corso della serata, qualcosa di leggero per iniziare, piatti più ricchi nel tratto centrale, e una chiusura soddisfacente, mentre la guida fornisce contesto sulla storia culinaria di Kyoto e su cosa distingua un vero ristorante di Kyoto da uno che vive solo di passaggio turistico. Pontocho e Gion Shirakawa sono state scelte deliberatamente: entrambe sono zone dove la cultura delle case da tè e delle geisha ha storicamente plasmato la scena gastronomica circostante. Venite affamati, questo non è un tour da spuntino leggero. Vale la pena segnalare in anticipo eventuali restrizioni alimentari poiché diverse tappe presentano menù fissi piuttosto che un ordine alla carta. Ciò che ottenete alla fine non è solo uno stomaco pieno ma un vero orientamento su come si mangia a Kyoto. Per i viaggiatori che preferiscono capire una città attraverso il suo cibo piuttosto che i suoi templi, questo è il modo più efficiente e gratificante di farlo in una sola serata.",
+  "highlights": [],
+  "included": [
+   "Una guida locale e diverse tappe di degustazione di cibo e bevande tra Pontocho e Gion Shirakawa"
+  ],
+  "notIncluded": [
+   "Cibo o bevande aggiuntivi oltre alle degustazioni incluse, e il trasporto in hotel non sono inclusi"
+  ]
+ },
+ "kyoto-evening-tour": {
+  "title": "Tour serale gastronomico e delle geisha di Kyoto",
+  "metaTitle": "Tour serale delle geisha di Kyoto",
+  "metaDescription": "Gion dopo il buio funziona a un ritmo diverso da quello che la folla diurna che fotografa Hanamikoji-dori immaginerebbe mai. Le lanterne si accendono, le facciate in legno delle case da tè ochaya secolari diventano ambra.",
+  "shortDescription": "Gion dopo il buio funziona a un ritmo diverso da quello che la folla diurna che fotografa Hanamikoji-dori immaginerebbe mai. Le lanterne si accendono, le facciate in legno delle case da tè ochaya secolari diventano ambra, e se sapete dove guardare, potreste scorgere una maiko che sfila tra un impegno e l'altro nei suoi sandali okobo.",
+  "fullDescription": "Gion dopo il buio funziona a un ritmo diverso da quello che la folla diurna che fotografa Hanamikoji-dori immaginerebbe mai. Le lanterne si accendono, le facciate in legno delle case da tè ochaya secolari diventano color ambra, e se sapete dove guardare, potreste scorgere una maiko che sfila tra un impegno e l'altro nei suoi sandali okobo. Questo tour serale è costruito attorno a quella transizione, usandola come sfondo per un pasto di dieci portate che si muove attraverso una serie di piccoli locali senza insegna che la maggior parte dei visitatori oltrepassa senza sapere che esistono. Nel corso di tre ore, attraverserete una progressione di piatti che potrebbe includere la cucina domestica stagionale obanzai in stile Kyoto, delicate preparazioni di tofu da un negozio che perfeziona lo yuba da generazioni, specialità allo spiedo da un bancone con sei posti, e una chiusura dolce che si ricollega alla lunga storia di ospitalità del quartiere delle geisha. Tra le portate, la vostra guida svela il mondo reale delle geiko e delle maiko, non la versione esotizzata venduta nei negozi di souvenir, ma il vero sistema di apprendistato e l'etichetta che ancora oggi governa come funzionano questi quartieri. Camminerete davanti a vere ochaya, sentirete come funzionano lì le prenotazioni, e capirete perché la preservazione di Gion conti per l'identità di Kyoto. Questa è una serata lenta e incentrata sul cibo piuttosto che un circuito fotografico frettoloso. Se volete una serata a Kyoto che vada oltre la superficie dell'immagine da cartolina di Gion, questa è costruita esattamente per quello.",
+  "highlights": [],
+  "included": [
+   "Tour gastronomico guidato di dieci portate attraverso Gion con commento culturale sulla storia e le tradizioni delle geisha"
+  ],
+  "notIncluded": [
+   "Le bevande alcoliche oltre a quanto specificato dai singoli locali non sono incluse"
+  ]
+ },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara al Myokaku-ji: coreografia di spada filmata nei terreni del tempio",
   "metaTitle": "Esperienza di spada chambara a Kyoto",
