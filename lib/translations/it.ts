@@ -13849,6 +13849,212 @@ export const IT_TOURS: Record<string, TourT> = {
    "Spese personali, biglietti d'ingresso, pranzo per ospiti e guida, mance"
   ]
  },
+ "hakone-yosegi-zaiku-marquetry-workshop": {
+  "title": "Laboratorio di intarsio yosegi zaiku a Hakone: create la vostra opera in legno",
+  "metaTitle": "Laboratorio di intarsio yosegi zaiku a Hakone",
+  "metaDescription": "Due ore e mezza in un vero laboratorio di intarsio sulle colline di Hakone, per imparare come nasce lo yosegi zaiku e portare a casa un pezzo fatto da voi.",
+  "shortDescription": "Una visita di due ore e mezza a un laboratorio di intarsio attivo sulle colline di Hakone, dove imparate come si costruisce lo yosegi zaiku con legni colorati e create un pezzo da portare a casa.",
+  "fullDescription": "Lo yosegi zaiku è l'artigianato tipico di Hakone, ed è più strano di quanto sembri a prima vista. I motivi geometrici paiono stampati o intarsiati pezzo per pezzo; in realtà sono costruiti. L'artigiano incolla insieme lunghe barre di legni diversi, scelte unicamente per il loro colore naturale, in un fascio la cui sezione forma una singola unità del motivo. Quel fascio viene poi combinato con altri in un blocco più grande, e il blocco viene infine rasato in foglie così sottili da lasciar passare la luce. Ogni foglia porta il disegno intero. Niente è tinto e niente è disegnato.\n\nL'artigianato nacque a Hatajuku, un villaggio sulla vecchia strada Tokaido che attraversava il passo di Hakone, all'inizio del diciannovesimo secolo. I viaggiatori che camminavano tra Kyoto ed Edo si fermavano qui, e un souvenir portatile, bello ed economico era esattamente ciò che quel traffico cercava. Le montagne fornivano la materia prima: questo tratto della prefettura di Kanagawa ospita una varietà inusuale di specie di alberi, e la tavolozza dei motivi, dal fusaggine chiaro al noce scuro e al tiepido keyaki, è semplicemente ciò che cresce su questi pendii.\n\nLa sessione inizia alla stazione di Hakone-Yumoto, da dove un breve tragitto in autobus vi porta su al laboratorio. Lì ricevete prima la storia, poi il materiale stesso: le barre, i blocchi incollati, e la pialla usata per rasare i fogli di impiallacciatura in un'unica riccia continua. Guardare un artigiano compiere quella rasatura è la parte che la maggior parte delle persone ricorda. Sembra facile e non lo è; la lama deve essere regolata a frazioni di millimetro e il blocco deve essere perfettamente dritto.\n\nPoi create qualcosa voi stessi. La parte pratica è pensata per chi non ha mai toccato una pialla o un blocco da intarsio, con la guida che traduce e l'artigiano del laboratorio che corregge mentre procedete. Ve ne andate con il vostro pezzo finito, un souvenir decisamente migliore delle versioni prodotte in serie vendute nei negozi della stazione qui sotto.\n\nÈ un'attività breve, al chiuso e indipendente dal meteo, il che la rende un complemento sensato a un viaggio a Hakone costruito attorno alla funivia e al lago, entrambi rovinabili dalle nuvole. Funziona bene anche come idea: lo yosegi zaiku è l'artigianato dietro le celebri scatole puzzle di Hakone, e una volta vista come si assemblano i motivi li notate ovunque nella regione.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese",
+   "Introduzione guidata alla storia e alla tecnica dello yosegi zaiku",
+   "Tutti i materiali e gli strumenti per il laboratorio",
+   "Il vostro pezzo finito da portare a casa",
+   "Trasferimento di andata e ritorno in autobus locale dalla stazione di Hakone-Yumoto"
+  ],
+  "notIncluded": [
+   "Viaggio da e per la stazione di Hakone-Yumoto",
+   "Pasti e bevande",
+   "Articoli artigianali aggiuntivi dal negozio del laboratorio",
+   "Mance"
+  ]
+ },
+ "hiroshima-evening-evening-tour": {
+  "title": "Riflessioni serali a Hiroshima: passeggiata al tramonto nel Parco della Pace",
+  "metaTitle": "Passeggiata al tramonto nel Parco della Pace di Hiroshima",
+  "metaDescription": "Esplorate il Parco Memoriale della Pace di Hiroshima in una suggestiva passeggiata serale guidata, scoprendo storia, memoriali e messaggio di pace in un'atmosfera calma e riflessiva.",
+  "shortDescription": "Esplorate il Parco Memoriale della Pace di Hiroshima in una suggestiva passeggiata serale. Mentre il parco si acquieta, scoprite la storia di Hiroshima, i suoi memoriali e il suo messaggio di pace in un'atmosfera calma e riflessiva.",
+  "fullDescription": "Nel tardo pomeriggio i gruppi di turisti lasciano il Parco Memoriale della Pace, e qualcosa cambia. I viali di ghiaia si svuotano, la luce si fa più morbida sul fiume Motoyasu, e i memoriali, così affollati a mezzogiorno, tornano a essere luoghi di quiete. Questa passeggiata serale di due ore è calibrata esattamente su quella finestra. Incontrate la vostra guida mentre la giornata si rinfresca e attraversate il parco mentre scivola nel crepuscolo: il Cenotafio commemorativo con il registro dei nomi delle vittime, la Fiamma della Pace che catturava i suoi primi riflessi nello stagno, il Monumento della Pace ai Bambini con le sue migliaia di gru di carta che si muovono nell'aria serale. La vostra guida racconta la storia del 6 agosto 1945 e delle sue conseguenze con un tono calmo e riflessivo che si adatta all'ora, lasciando tempo semplicemente per fermarsi e assorbire invece di marciare da una targa all'altra. La passeggiata termina dall'altra parte del fiume alla Cupola della Bomba Atomica quando si accendono i riflettori, con la struttura scheletrica che si illumina contro il cielo che si oscura, qualcosa che molti viaggiatori descrivono come l'immagine più toccante del loro soggiorno a Hiroshima. Le recensioni notano costantemente quanto il parco sembri diverso a quest'ora, contemplativo invece che affollato, e come il formato lasci spazio a domande che un tour di gruppo diurno attraversa di corsa. Se il vostro programma vi porta a Hiroshima nel pomeriggio, o volete semplicemente incontrare questo luogo nel suo momento più silenzioso, questa passeggiata serale è il modo giusto per farlo, e si abbina naturalmente a una cena nella zona della galleria Hondori, a pochi minuti a piedi.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionista",
+   "Tutte le spese menzionate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Pasti salvo diversa indicazione",
+   "Mance"
+  ]
+ },
+ "hiroshima-evening-tour": {
+  "title": "Hiroshima dopo il buio: passeggiata serale tra cibo e cultura con cena locale",
+  "metaTitle": "Passeggiata serale tra cibo e cultura a Hiroshima",
+  "metaDescription": "Immergetevi nel cibo, nella cultura e nella vita notturna di Hiroshima dopo il buio, con cena in locali tachinomi tipici in questo tour serale privato.",
+  "shortDescription": "Immergetevi nel cibo, nella cultura e nella vita notturna di Hiroshima dopo il buio. In questo tour serale privato ottenete uno sguardo intimo e da insider sul cibo e sullo stile di vita della città, con cena in locali tachinomi tipici.",
+  "fullDescription": "Hiroshima di giorno è una città di memoriali; di notte diventa una delle città più sottovalutate del Giappone per il cibo, e questo tour serale privato di tre ore è costruito attorno a questa seconda identità. Incontrate la vostra guida alle 18:30 vicino al negozio Don Quijote a Shintenchi, nel mezzo della rete di locali notturni del centro, e partite a piedi attraverso la galleria commerciale Hondori mentre le lanterne si accendono e gli impiegati si riversano nelle strade laterali. Il cuore della serata è la cena in tre diversi locali tachinomi, i bar informali in piedi al bancone dove la gente del posto mangia e beve davvero, invece di un unico ristorante pensato per i turisti. A ogni tappa la vostra guida ordina le specialità migliori della casa, abbinandole a birra, cocktail o liquori giapponesi, e traduce non solo il menù ma anche l'ambiente: chi beve lì, perché il maestro del locale organizza il bancone in quel modo, di cosa discutono gli abitanti di Hiroshima quando parlano di cibo. Tra una tappa e l'altra camminate lungo Nagarekawa-dori, la spina al neon del quartiere della vita notturna della città, ottenendo uno sguardo da insider su come questa città ricostruita si rilassa. Essendo il tour privato, il percorso si adatta al vostro appetito e alla vostra curiosità; amanti dei frutti di mare, mangiatori avventurosi e più cauti sono tutti considerati. Con circa 270 recensioni e una valutazione vicina a 4,9, è diventata silenziosamente una delle esperienze gastronomiche più apprezzate della città. Arrivate affamati, indossate scarpe comode, e aspettatevi di finire la serata vicino al punto di partenza con lo stomaco pieno e una lista di bar che non avreste mai trovato da soli.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionista",
+   "Tutte le spese menzionate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Pasti salvo diversa indicazione",
+   "Mance"
+  ]
+ },
+ "hiroshima-experience": {
+  "title": "Esperienza di kyudo a Hiroshima: tiro con l'arco tradizionale giapponese in uniforme",
+  "metaTitle": "Esperienza di kyudo a Hiroshima",
+  "metaDescription": "Scoprite il tiro con l'arco giapponese a Hiroshima. Indossate un'autentica uniforme kyudo e provate uno stile che richiede piena concentrazione di mente e corpo.",
+  "shortDescription": "Scoprite il tiro con l'arco giapponese a Hiroshima. Indossate un'autentica uniforme kyudo e provate uno stile di tiro con l'arco che richiede piena concentrazione di mente e corpo.",
+  "fullDescription": "Il kyudo, la via dell'arco, è la più meditativa delle arti marziali giapponesi: una disciplina in cui il tendere un arco asimmetrico di due metri è coreografato in una sequenza di movimenti affinata nei secoli, e dove colpire il bersaglio è considerato la conseguenza di una forma corretta, non l'obiettivo in sé. Questa esperienza di un'ora nel dojo Sharaku vicino al castello di Hiroshima è uno dei pochissimi luoghi in Giappone dove i viaggiatori possono praticarlo davvero. La sessione inizia con il vestirsi per l'occasione: vi viene fatta indossare un'autentica uniforme kyudo, la stessa usata dai praticanti, che fa più che apparire suggestiva nelle foto; cambia come state in piedi e come vi muovete. Il vostro istruttore vi guida poi attraverso le basi, l'appoggio dei piedi, la postura, l'incoccatura della freccia, il lento alzare e tendere dell'arco yumi, il momento del rilascio, enfatizzando la piena concentrazione di mente e corpo che dà al kyudo la sua fama di meditazione in movimento. Poi tirate davvero, su bersagli lungo il campo del dojo, con l'istruttore che corregge e incoraggia tra una freccia e l'altra. La maggior parte degli ospiti si sorprende due volte: prima per quanto risulti difficile quella elegante semplicità, e poi per quanto diventi coinvolgente; un'ora passa in fretta quando ogni freccia richiede tutta la vostra attenzione. Con quasi 470 recensioni e una valutazione vicina a 4,9, questa è tra le esperienze culturali più amate di Hiroshima, e si inserisce facilmente in qualsiasi itinerario come contrappunto ai siti storici più pesanti della città. Non è richiesta esperienza né forza, solo curiosità e la disponibilità a essere principianti.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionista",
+   "Tutte le spese menzionate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Pasti salvo diversa indicazione",
+   "Mance"
+  ]
+ },
+ "hiroshima-food-tour": {
+  "title": "Hiroshima in bicicletta: okonomiyaki, ostriche e strade nascoste",
+  "metaTitle": "Hiroshima in bicicletta tra sapori",
+  "metaDescription": "Pedalate tra le strade nascoste di Hiroshima con una guida locale, assaggiando okonomiyaki sfrigolante e le ostriche più fresche, e incontrando i volti dietro i migliori sapori della città.",
+  "shortDescription": "Pedalate tra le strade nascoste di Hiroshima con una guida locale: assaggiate okonomiyaki sfrigolante, sorseggiate le ostriche più fresche e incontrate i volti amichevoli dietro i migliori sapori della città.",
+  "fullDescription": "La cultura gastronomica di Hiroshima è ferocemente locale e per lo più nascosta in bella vista: le migliori piastre di okonomiyaki hanno posto per otto persone, gli ostricoltori conoscono i loro fornitori per nome, e niente di tutto ciò si trova sul percorso turistico principale. Questa avventura culinaria in bicicletta di quattro ore con InKansai vi porta in quei luoghi nel modo in cui ci arrivano i locali, in bicicletta, con una guida che conosce i volti amichevoli dietro i migliori sapori della città. Il tour parte vicino a Otemachi con l'adattamento delle biciclette e un briefing sulla sicurezza, poi scorre in un ritmo che alterna pedalata e cibo per il resto della giornata. Tra una sosta di degustazione e l'altra, il percorso attraversa le strade nascoste della città e passa per il suo cuore, con tempo guidato al Parco Memoriale della Pace e alla Cupola della Bomba Atomica, così il cibo è ancorato alla storia della città che lo produce. Il cibo resta però il protagonista: okonomiyaki sfrigolante in stile Hiroshima, costruito a strati con noodle invece che mescolato, appena uscito dal teppan; le ostriche più fresche, l'orgoglio della baia di Hiroshima, aperte e sorseggiate a un bancone locale; tempura croccante; e una tappa finale in un caffè locale per chiudere con qualcosa di dolce. Le porzioni delle varie tappe si somma in un pranzo molto abbondante, quindi arrivate affamati. Il pedalare in sé è facile, un percorso urbano pianeggiante a ritmo socievole, del tutto gestibile tra un boccone e l'altro. Con una valutazione a cinque stelle dai primi recensori, questa è Hiroshima come la vivono i locali: una città sopravvissuta per diventare, silenziosamente, una delle migliori città gastronomiche del Giappone, e una che si gusta meglio dal sellino di una bicicletta.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionista",
+   "Tutte le spese menzionate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Pasti salvo diversa indicazione",
+   "Mance"
+  ]
+ },
+ "hiroshima-half-day-tour": {
+  "title": "Mezza giornata privata a Hiroshima: punti salienti con guida multilingue",
+  "metaTitle": "Mezza giornata privata a Hiroshima con guida multilingue",
+  "metaDescription": "Un tour privato a piedi di 4 ore attraverso la storia di rinascita e pace di Hiroshima, guidato da una guida locale multilingue dedicata. Tutti gli ingressi inclusi, completamente personalizzabile.",
+  "shortDescription": "Un tour privato a piedi di 4 ore attraverso la potente storia di rinascita e pace di Hiroshima, guidato da una guida locale multilingue dedicata. Tutti gli ingressi inclusi, completamente personalizzabile e tariffato per gruppo.",
+  "fullDescription": "Quattro ore sono sufficienti per conoscere davvero Hiroshima, se quelle ore sono plasmate da qualcuno che conosce intimamente la storia della città. Questa passeggiata privata di mezza giornata inizia alle 9 del mattino nella hall del vostro hotel, dove vi incontra la vostra guida locale multilingue dedicata, e da quel momento la mattinata è interamente vostra: l'itinerario è completamente personalizzabile, anche se la sua spina dorsale è il potente arco di Hiroshima dalla tragedia a una vivace rinascita. Il cuore della passeggiata è l'area del Parco Memoriale della Pace e del museo, dove la vostra guida si muove tra il cenotafio, la Fiamma della Pace, il Monumento della Pace ai Bambini e la Cupola della Bomba Atomica con il tipo di contesto che rende possibile una riflessione tranquilla invece che obbligata, e tutti gli ingressi lungo il percorso sono già inclusi. Ma la vera particolarità del tour è ciò che circonda il nucleo memoriale: giardini tranquilli e angoli storici della città dove sopravvive la Hiroshima più antica, viali di templi, statue di jizo, cortili zen silenziosi, dove sentite la città come un luogo vivo dove riflessione e speranza convivono, non solo un sito commemorativo. Essendo il tour privato e multilingue, il ritmo, l'enfasi e la lingua si adattano interamente a voi; famiglie, visitatori per la prima volta e viaggiatori di ritorno vivono mattinate genuinamente diverse. Alcuni tocchi completano l'esperienza: ogni ospite riceve un souvenir Stovenir da portare a casa, l'assistenza personale al viaggio continua oltre il tour stesso, e non sono mai previste mance. Pasti e trasporti sono gli unici costi aggiuntivi. Terminate all'1 del pomeriggio con il pomeriggio libero, ideale per Miyajima, portando con voi un quadro di questa città più completo di quello che la maggior parte dei visitatori riesce a costruirsi.",
+  "highlights": [],
+  "included": [
+   "Guida turistica locale professionista multilingue dedicata",
+   "Tutti gli ingressi per le attrazioni elencate",
+   "Souvenir 'Stovenir' per ogni ospite",
+   "Itinerario personalizzabile",
+   "Assistenza personale al viaggio (nessuna mancia prevista)"
+  ],
+  "notIncluded": [
+   "Pasti e costi di trasporto"
+  ]
+ },
+ "hiroshima-highlights-private-tour": {
+  "title": "Tour privato dei punti salienti di Hiroshima: Memoriale della Pace, castello e Shukkei-en",
+  "metaTitle": "Tour privato dei punti salienti di Hiroshima",
+  "metaDescription": "Esplorate Hiroshima con una guida locale giapponese. Visitate la Cupola della Bomba Atomica, il Parco e il Museo Memoriale della Pace ascoltando storie familiari, prospettive locali e come Hiroshima si è risollevata.",
+  "shortDescription": "Esplorate Hiroshima con una guida locale giapponese. Visitate la Cupola della Bomba Atomica, il Parco Memoriale della Pace e il Museo ascoltando storie familiari, prospettive locali e come Hiroshima si è risollevata.",
+  "fullDescription": "Hiroshima è più degli eventi di una sola mattina di agosto, e questo tour privato è costruito per mostrarvi entrambi i volti della città: i memoriali della pace che il mondo conosce, e il castello, il giardino e i quartieri quotidiani che la maggior parte dei visitatori non ha mai tempo di vedere. La vostra guida locale giapponese, di un'azienda i cui accompagnatori hanno legami personali e familiari profondi con la città, vi preleva da uno qualsiasi dei quattordici punti di ritiro centrali. La mattinata inizia con un'ora intera guidata al Museo Memoriale della Pace, dove avere un interprete locale al vostro fianco trasforma gli exhibit di oggetti e testimonianze di sopravvissuti. Da lì camminate nel Parco Memoriale della Pace fino alla Cupola della Bomba Atomica, ascoltando non la storia da manuale ma racconti familiari, cosa videro i nonni, come si sono ricostruiti i quartieri, come la città parla tra sé di quel giorno. Poi il tour cambia deliberatamente registro. Una breve passeggiata vi porta al castello di Hiroshima, la torre ricostruita a cinque piani dei signori feudali che fondarono la città, il suo fossato e i suoi terreni a ricordare che Hiroshima aveva quattro secoli di storia prima del 1945. La giornata si chiude con un'ora intera e senza fretta a Shukkei-en, lo squisito giardino paesaggistico del 1620 circa il cui nome significa paesaggio rimpicciolito, dove montagne in miniatura, ponti e padiglioni da tè circondano uno stagno centrale. Il giardino stesso fu distrutto nel bombardamento e ripiantato, cosa che la vostra guida vi racconterà mentre percorrete il suo sentiero circolare; i sopravvissuti si rifugiarono qui tra gli alberi bruciati. È una giornata che parla di distruzione e continuità in egual misura, con una valutazione perfetta a cinque stelle dai viaggiatori che l'hanno provata.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionista",
+   "Tutte le spese menzionate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Pasti salvo diversa indicazione",
+   "Mance"
+  ]
+ },
+ "hiroshima-history-walking-tour": {
+  "title": "Passeggiata storica di Hiroshima: Parco della Pace e Cupola della Bomba Atomica in piccolo gruppo",
+  "metaTitle": "Passeggiata storica di Hiroshima in piccolo gruppo",
+  "metaDescription": "Esplorate la storia di Hiroshima in una passeggiata guidata in piccolo gruppo. Comprendete l'impatto del bombardamento atomico e come la città si è trasformata in un simbolo di pace e resilienza.",
+  "shortDescription": "Esplorate la storia di Hiroshima in una passeggiata guidata in piccolo gruppo. Comprendete l'impatto del bombardamento atomico e assistete a come la città si è trasformata in un simbolo di pace e resilienza.",
+  "fullDescription": "Il Parco Memoriale della Pace non è un unico monumento ma un paesaggio fatto di molti monumenti più piccoli, e la maggior parte dei visitatori ne supera la maggioranza senza sapere cosa stanno guardando. Questa passeggiata in piccolo gruppo esiste per rimediare a questo. In circa due ore, la vostra guida vi conduce monumento dopo monumento attraverso il parco: la statua della Madre e del Bambino nella Tempesta, la Fontana della Preghiera, il Cenotafio commemorativo che inquadra la Cupola della Bomba Atomica attraverso il suo arco, la Fiamma della Pace che arderà finché l'ultima arma nucleare non sarà smantellata, e il Monumento della Pace ai Bambini drappeggiato di migliaia di gru di carta piegate e inviate da tutto il mondo. Il percorso include anche tappe che molti tour saltano del tutto, tra cui il Cenotafio delle vittime coreane della bomba atomica, che apre una conversazione sulle decine di migliaia di lavoratori coreani morti nel bombardamento, e la Sala Nazionale Memoriale della Pace, dove sono conservati i nomi e le fotografie delle vittime. La passeggiata termina alla Cupola della Bomba Atomica e al vicino segnale dell'ipocentro, una semplice targa su una strada laterale sopra la quale la bomba esplose davvero, un punto che la maggior parte dei visitatori indipendenti non trova mai. Essendo il gruppo volutamente piccolo, c'è spazio per fare domande, e le guide sono esperte nel raccontare questa storia con onestà e cura, senza melodramma. Quasi 600 recensori hanno valutato l'esperienza vicino alle cinque stelle. Se volete lasciare Hiroshima capendo non solo cosa è accaduto qui ma come la città si sia ricostruita in un simbolo di pace e resilienza, queste due ore sono la migliore base che potete porre.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionista",
+   "Tutte le spese menzionate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Pasti salvo diversa indicazione",
+   "Mance"
+  ]
+ },
+ "hiroshima-memorial-walking-tour": {
+  "title": "Passeggiata guidata di gruppo al Parco Memoriale della Pace e alla Cupola della Bomba Atomica di Hiroshima",
+  "metaTitle": "Passeggiata di gruppo al Parco della Pace di Hiroshima",
+  "metaDescription": "Partecipate a una passeggiata guidata nel Parco Memoriale della Pace di Hiroshima con una guida locale. Esplorate la Cupola della Bomba Atomica, il Cenotafio e gemme nascoste scoprendo il messaggio di pace di Hiroshima.",
+  "shortDescription": "Partecipate a una passeggiata guidata nel Parco Memoriale della Pace di Hiroshima con una guida locale. Esplorate la Cupola della Bomba Atomica, il Cenotafio e gemme nascoste mentre scoprite il messaggio di pace di Hiroshima.",
+  "fullDescription": "Se il vostro tempo a Hiroshima è limitato, questa passeggiata di gruppo di due ore con l'operatore locale F e five copre il terreno essenziale del Parco Memoriale della Pace senza affrettarlo. Incontrate la vostra guida a Nakajimacho, sul margine meridionale del parco, ed entrate attraverso le Porte della Pace, la fila di alti archi di vetro incisi con la parola pace in decine di lingue. Da lì il percorso si muove tappa dopo tappa nel cuore del parco: la Fontana della Preghiera, il Cenotafio commemorativo dove è conservato il registro dei nomi delle vittime e dove l'arco inquadra deliberatamente la Cupola della Bomba Atomica in lontananza, e la Fiamma della Pace, accesa nel 1964 e ardente senza sosta fino al giorno in cui l'ultima arma nucleare del mondo sarà distrutta. La vostra guida si ferma al Cenotafio delle vittime coreane della bomba atomica per raccontare una parte della storia che le narrazioni ufficiali hanno a lungo trascurato, e al Monumento della Pace ai Bambini, ispirato a Sadako Sasaki e alle sue mille gru di carta, ancora oggi circondato da gru piegate da scolari di tutto il mondo. La passeggiata termina alla Cupola della Bomba Atomica stessa, la rovina lungo il fiume preservata esattamente come l'esplosione la lasciò nell'agosto 1945, dove avete tempo per fotografie e domande prima che il gruppo si sciolga, perfettamente posizionati per continuare al Museo Memoriale della Pace da soli. Le guide sono persone del posto cresciute con questa storia, e i recensori descrivono costantemente il tour come commovente senza essere pesante. È un'introduzione rispettosa e lucida al luogo, e con le sue due ore si abbina naturalmente a un pomeriggio a Miyajima.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionista",
+   "Tutte le spese menzionate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Pasti salvo diversa indicazione",
+   "Mance"
+  ]
+ },
+ "hiroshima-miyajima-day-trip-from-tokyo-shinkansen": {
+  "title": "Hiroshima e Miyajima in un giorno da Tokyo, con lo Shinkansen",
+  "metaTitle": "Hiroshima e Miyajima in giornata da Tokyo",
+  "metaDescription": "Una giornata lunga e ben organizzata: treno veloce da Tokyo, il torii galleggiante di Miyajima, e il Parco Memoriale della Pace con una guida che sa spiegare ciò che vedete.",
+  "shortDescription": "Una giornata lunga e ben organizzata: treno veloce da Tokyo, il torii galleggiante di Miyajima, e il Parco Memoriale della Pace con una guida che sa spiegare ciò che vedete.",
+  "fullDescription": "Hiroshima si trova a 800 chilometri da Tokyo, e il solo motivo per cui questa funziona come escursione di un giorno è lo Shinkansen. I biglietti di andata e ritorno sono inclusi nell'opzione da Tokyo, che è la parte più costosa della giornata e quella che la maggior parte delle persone preferirebbe non organizzare da sola. Se siete già nel Giappone occidentale esiste un'opzione più economica che salta il treno e parte invece dalla stazione di Hiroshima.\n\nLa giornata è costruita attorno a due luoghi molto diversi. Miyajima viene prima, raggiunta con un traghetto che attraversa un breve tratto del Mare Interno. Il santuario di Itsukushima è costruito sull'acqua su palafitte, e con l'alta marea il suo torii vermiglio sembra fluttuare libero dalla riva, l'immagine che la maggior parte delle persone ha già del Giappone senza sapere da dove venga. L'ingresso al santuario è incluso. L'isola è piccola abbastanza da girarla a piedi: i cervi si muovono liberamente per le strade, i vicoli dei negozi vendono ostriche grigliate e momiji manju, i dolcetti a forma di foglia d'acero prodotti qui fin dall'inizio del Novecento, e il ritmo è più lento di qualsiasi cosa abbiate conosciuto a Tokyo.\n\nPoi il traghetto di ritorno, e Hiroshima. Il Parco Memoriale della Pace occupa il terreno che si trovava direttamente sotto la detonazione del 1945, e la Cupola della Bomba Atomica, lasciata deliberatamente come era al momento, è il solo edificio della città che non è stato ricostruito. Qui una guida conta più che in qualsiasi altra tappa. Il parco si legge come uno spazio gradevole lungo il fiume se non sapete cosa segna ciascun monumento, e capire la disposizione, il cenotafio e il memoriale dei bambini cambia completamente la visita.\n\nSiate onesti con voi stessi riguardo alla lunghezza. Con il treno a entrambe le estremità questa è una giornata di sedici ore e tornerete a Tokyo tardi. I pasti non sono inclusi, ed è voluto: le ostriche di Miyajima e l'okonomiyaki di Hiroshima meritano di essere scelti da voi stessi. I gruppi arrivano a un massimo di trenta persone e la guida lavora in inglese per tutta la giornata.",
+  "highlights": [],
+  "included": [
+   "Treno veloce di andata e ritorno da Tokyo (nell'opzione Tokyo), guida di lingua inglese per l'intera giornata, traghetto per Miyajima e ritorno, ingresso al santuario di Itsukushima, visita guidata al Parco Memoriale della Pace e alla Cupola della Bomba Atomica di Hiroshima"
+  ],
+  "notIncluded": [
+   "Pasti e bevande, prelievo e riaccompagno in hotel, ingresso al Museo Memoriale della Pace, mance"
+  ]
+ },
+ "hiroshima-morning-tour": {
+  "title": "Hiroshima in bicicletta: giro guidato al mattino tra icone e gemme nascoste",
+  "metaTitle": "Hiroshima in bicicletta al mattino",
+  "metaDescription": "Scoprite Hiroshima in un rilassante e divertente giro guidato in bicicletta tra i siti iconici della città e le sue gemme sconosciute, in un'unica mattinata.",
+  "shortDescription": "Scoprite Hiroshima in un rilassante e divertente giro guidato in bicicletta tra i siti iconici della città e le sue gemme sconosciute. Un modo per vedere il meglio di questa città accogliente risparmiando tempo, in un'unica mattinata.",
+  "fullDescription": "Hiroshima è una delle migliori città del Giappone per andare in bicicletta e quasi nessuno lo sa: piatta come un tavolo, intrecciata di fiumi e generosi percorsi lungo l'acqua, e abbastanza compatta che una mattinata in sella copre ciò che un camminatore impiegherebbe due giorni a vedere. Questo giro guidato di tre ore e mezza con InKansai è costruito esattamente su questa intuizione. Dopo l'adattamento delle biciclette e un briefing sulla sicurezza, il vostro piccolo gruppo parte con una guida locale su un percorso rilassato e divertente che collega le icone della città, il castello di Hiroshima con il suo fossato e la torre ricostruita, il Parco Memoriale della Pace e la Cupola della Bomba Atomica, insieme alle gemme sconosciute che nessun tour in autobus raggiunge: viuzze tranquille, quartieri locali, tratti lungo il fiume dove gli aironi pescano sotto i ponti, e punti panoramici che la vostra guida ha raccolto in anni di pedalate qui. La bicicletta cambia il vostro rapporto con la città. Distanze che consumerebbero il programma di un tour a piedi passano in pochi minuti, così la mattinata ha spazio sia per il significativo che per l'occasionale, e il commento continuo della guida spiega come funziona oggi davvero questa città accogliente e ricostruita, non solo cosa le accadde nel 1945. Il ritmo è deliberatamente facile, con frequenti soste per foto e racconti; se sapete andare in bicicletta, potete fare questo tour. Con una valutazione vicina a 4,9 da oltre 120 recensioni, è diventato il modo in cui i viaggiatori più informati si orientano il primo giorno a Hiroshima, finendo verso l'ora di pranzo con tutto il pomeriggio libero, e con una mappa mentale della città che rende più facile tutto ciò che farete dopo.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionista",
+   "Tutte le spese menzionate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Pasti salvo diversa indicazione",
+   "Mance"
+  ]
+ },
+ "hiroshima-museum-walking-tour": {
+  "title": "Passeggiata guidata privata al Parco e Museo Memoriale della Pace di Hiroshima",
+  "metaTitle": "Passeggiata privata al Museo della Pace di Hiroshima",
+  "metaDescription": "Esplorate il Parco Memoriale della Pace di Hiroshima con una guida privata. Approfondite gli exhibit di testimonianze personali e oggetti che testimoniano la tragedia della guerra nucleare.",
+  "shortDescription": "Esplorate il Parco Memoriale della Pace di Hiroshima con una guida privata. Approfondite gli exhibit di testimonianze personali e oggetti che testimoniano la tragedia della guerra nucleare.",
+  "fullDescription": "Il Museo Memoriale della Pace è il centro emotivo di qualsiasi visita a Hiroshima, ed è anche la parte che la maggior parte dei viaggiatori vive peggio, muovendosi tra sale affollate senza contesto, incerti su cosa stiano guardando o su come i pezzi si collegano tra loro. Questo tour privato di due ore e mezza di Voyagers è pensato per affrontare bene il museo e il suo parco. Incontrandovi alla fermata dei taxi vicino al Parco Memoriale della Pace, la vostra guida privata inizia all'esterno con le Porte della Pace e il poco noto memoriale al dottor Marcel Junod, il medico della Croce Rossa che portò di corsa forniture mediche alla città distrutta. Poi arriva un'ora intera all'interno del museo, dove la guida vi aiuta a orientarvi tra exhibit di testimonianze personali e oggetti, effetti personali, fotografie, testimonianze, che attestano la realtà della guerra nucleare, scandendo la visita così che informi invece di sopraffare. Tornati all'esterno, la passeggiata intreccia le prove viventi del parco: gli alberi phoenix colpiti dalla bomba che sopravvissero all'esplosione e crescono ancora oggi, la piccola Sala Espositiva delle Rovine della Bomba Atomica, il Cenotafio commemorativo delle vittime e la Fiamma della Pace, il Monumento della Pace ai Bambini, il Cenotafio delle vittime coreane e la Sala Nazionale Memoriale della Pace. Si chiude alla Cupola della Bomba Atomica, alla Casa di Riposo colpita dalla bomba e al segnale dell'ipocentro, la modesta targa sopra la quale la bomba esplose. Essendo il tour privato, siete voi a stabilire il ritmo emotivo, soffermandovi, facendo domande, o semplicemente restando in silenzio, e la guida si adatta. I recensori valutano l'esperienza vicino a 4,9 e attribuiscono costantemente alle loro guide il merito di aver trasformato la visita più difficile del loro viaggio in quella più significativa.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionista",
+   "Tutte le spese menzionate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Pasti salvo diversa indicazione",
+   "Mance"
+  ]
+ },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara al Myokaku-ji: coreografia di spada filmata nei terreni del tempio",
   "metaTitle": "Esperienza di spada chambara a Kyoto",
