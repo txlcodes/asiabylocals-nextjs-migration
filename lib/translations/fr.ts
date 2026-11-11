@@ -71983,20 +71983,6 @@ export const FR_TOURS: Record<string, TourT> = {
    "Nourriture et boissons, prise en charge et retour a l'hotel, frais d'entree sur l'option sans billets, pourboires"
   ]
  },
- "kyoto-fushimi-guided-tour": {
-  "title": "Fushimi Inari et Nara",
-  "metaTitle": "Fushimi Inari et Nara en une journee",
-  "metaDescription": "Une journee privee a pied associant le sanctuaire Fushimi Inari et les cerfs sacres de Nara, avec Todai-ji et Kasuga Taisha, pour jusqu'a six personnes.",
-  "shortDescription": "Une journee privee a pied associant le sanctuaire Fushimi Inari et les cerfs sacres de Nara, avec Todai-ji et Kasuga Taisha, pour jusqu'a six personnes.",
-  "fullDescription": "Associer Fushimi Inari avec Nara en une seule journee semble ambitieux sur papier, mais les deux sites se completent d'une facon qui rend la combinaison plus intelligente que visiter l'un ou l'autre seul : l'un est un sanctuaire de montagne defini par la repetition humaine, des milliers de portes torii vermillon grimpant un flanc de colline boise, et l'autre est une ancienne capitale ou la nature elle-meme, sous la forme de plus d'un millier de cerfs sacres en liberte, occupe le devant de la scene. La journee commence a Fushimi Inari, montant a travers le tunnel Senbon Torii avec un guide prive qui explique la tradition seculaire des entreprises donnant des portes dans l'espoir de prosperite venant d'Inari, le dieu du riz, du sake et du commerce, et signalant des details comme les renards de pierre tenant des cles dans leur bouche que la plupart des visiteurs croisent sans les voir. De la, la visite se dirige vers Nara, a environ 45 minutes au sud, ou l'echelle change entierement : le temple Todaiji abrite le Hall du Grand Bouddha, encore parmi les plus grands batiments en bois sur Terre malgre avoir ete reconstruit plus petit que sa forme originale du huitieme siecle, abritant un Bouddha de bronze de 15 metres coule en 752 de notre ere. Marcher jusqu'a Todaiji signifie traverser le parc de Nara, ou des cerfs consideres comme messagers des dieux approchent librement pour les biscuits de riz vendus aux etals du parc, une experience veritablement differente, legerement chaotique par rapport a la reverence tranquille de Fushimi Inari ce matin-la. La journee continue generalement vers Kasuga Taisha, l'autre sanctuaire majeur de Nara, connu pour les milliers de lanternes de bronze et de pierre bordant son approche boisee, donnees sur des siecles par des fideles dans une tradition parallele aux portes de Fushimi Inari, un echo deliberer que votre guide signalera probablement, reliant thematiquement les deux moities de la journee plutot que de les traiter comme des arrets sans rapport. Cela se deroule comme une visite privee a pied pour jusqu'a six personnes, ce qui signifie que l'horaire s'adapte autour de votre groupe plutot qu'un horaire de bus, et les questions obtiennent de vraies reponses plutot qu'un script enregistre. Avec huit heures couvrant deux villes, c'est une journee complete mais gratifiante, mieux adaptee aux voyageurs qui veulent de la profondeur plutot que de l'etendue, deux sites veritablement significatifs explores correctement plutot que quatre parcourus a la hate. Portez de vraies chaussures de marche, apportez de l'argent liquide pour les biscuits pour cerfs et les offrandes au sanctuaire, et attendez-vous a une journee qui passe de la geometrie sacree de portes infinies a l'energie sauvage et legerement comique des cerfs de Nara sans rien de generique entre les deux.",
-  "highlights": [],
-  "included": [
-   "Guide prive anglophone et transport entre Fushimi Inari et Nara pour la journee complete"
-  ],
-  "notIncluded": [
-   "Les frais d'entree aux temples, le dejeuner, et les biscuits pour cerfs ne sont pas inclus"
-  ]
- },
  "kyoto-samurai-sword-chambara-filming-experience": {
   "title": "Chambara a Myokaku-ji : choregraphie au sabre filmee dans l'enceinte d'un temple",
   "metaTitle": "Experience de chambara au sabre a Kyoto",
@@ -72176,20 +72162,6 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "La prise en charge et le retour a l'hotel, la nourriture et les boissons, et le transport vers et depuis le point de rendez-vous ne sont pas inclus"
-  ]
- },
- "kyoto-morning-tour": {
-  "title": "Tot le matin a Kyoto",
-  "metaTitle": "Visite matinale de Kyoto",
-  "metaDescription": "Une visite privee d'une demi-journee tot le matin de Fushimi Inari, Kiyomizu-dera et les ruelles de Higashiyama avant que les foules n'arrivent.",
-  "shortDescription": "Une visite privee d'une demi-journee tot le matin de Fushimi Inari, Kiyomizu-dera et les ruelles de Higashiyama avant que les foules n'arrivent.",
-  "fullDescription": "Fushimi Inari au lever du soleil est un sanctuaire different de celui sur chaque photo que vous avez vue en ligne. Les portes torii vermillon qui tunnellent celebrement sur le flanc de la montagne sont habituellement epaule contre epaule avec les visiteurs en milieu de matinee ; arrivez a l'aube a la place et vous obtenez de longues etendues du chemin pour vous-meme, une lumiere douce filtrant a travers les portes, et le calme etrange d'un sanctuaire actif en continu depuis le huitieme siecle. Cette visite privee d'une demi-journee est construite entierement autour de l'exploitation de cette fenetre, commencant suffisamment tot pour devancer les bus touristiques. De la, l'itineraire se dirige vers le nord dans Higashiyama, le quartier historique le mieux preserve de Kyoto, chronometrant la marche pour que vous atteigniez Kiyomizu-dera et sa scene en bois spectaculaire pendant que les foules sont encore legeres. La descente par Ninen-zaka et Sannen-zaka, deux ruelles pavees de pierre bordees de maisons de ville machiya, de maisons de the, et de petites boutiques artisanales, est une des marches les plus photogeniques du Japon, et la faire tot signifie que vous pouvez reellement apprecier l'architecture de l'ere Edo au lieu de naviguer un mur de groupes touristiques. Votre guide tisse du contexte local tout au long : pourquoi ces rues particulieres ont survecu au redeveloppement, quoi chercher dans les devantures traditionnelles, quelles petites ruelles laterales recompensent un detour. Comme c'est prive et limite a six personnes, le rythme s'adapte a votre groupe plutot qu'un horaire fixe. Cette visite recompense specifiquement les leve-tot, elle est construite pour les voyageurs qui comprennent que les sites les plus emblematiques de Kyoto sont transformes simplement en se presentant avant tout le monde.",
-  "highlights": [],
-  "included": [
-   "Visite guidee privee a pied couvrant Fushimi Inari, Kiyomizu-dera, et le quartier de Higashiyama"
-  ],
-  "notIncluded": [
-   "Les frais d'entree aux temples et les achats de nourriture ou de boissons le long de l'itineraire ne sont pas inclus"
   ]
  },
  "kyoto-nara-fushimi-inari-deer-park-day-tour": {
@@ -72400,20 +72372,6 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Les frais d'entree au chateau Nijo et toute nourriture ou boisson le long de l'itineraire ne sont pas inclus"
-  ]
- },
- "kyoto-workshop-guided-tour": {
-  "title": "Atelier d'ukiyo-e",
-  "metaTitle": "Atelier d'estampe ukiyo-e",
-  "metaDescription": "Un atelier de deux heures avec l'artiste pratiquant Kurumi Wakaki pour apprendre la technique d'estampe sur bois ukiyo-e et imprimer votre propre piece.",
-  "shortDescription": "Un atelier de deux heures avec l'artiste pratiquant Kurumi Wakaki pour apprendre la technique d'estampe sur bois ukiyo-e et imprimer votre propre piece.",
-  "fullDescription": "Longtemps avant que Kyoto n'ait des boutiques de souvenirs vendant des reproductions imprimees en masse de la Grande Vague de Hokusai, les estampes sur bois ukiyo-e etaient un artisanat collaboratif impliquant un artiste, un graveur, et un imprimeur travaillant en sequence, chaque couche de couleur necessitant son propre bloc sculpte a la main aligne avec une precision minutieuse. Cet atelier, mene par l'artiste en activite Kurumi Wakaki, reduit ce processus a quelque chose que vous pouvez vraiment apprendre en un apres-midi sans perdre ce qui le rend fascinant : vous commencez avec un bloc pre-sculpte dans le style de maitres comme Hiroshige et Hokusai, et Kurumi vous guide a travers la technique de frottement au baren, la superposition de pigments a base d'eau, et les marques de repere (kento) qui maintiennent les estampes multicolores alignees, la meme methode fondamentale utilisee dans les studios d'estampe de l'ere Edo, juste compressee et rendue accessible pour une seule session plutot que des annees d'apprentissage. Ce qui distingue cela d'un cours d'artisanat generique est le propre parcours de Kurumi en tant qu'artiste ukiyo-e pratiquant plutot qu'une employee d'agence de voyage lisant un script ; elle explique pourquoi certains pigments etaient historiquement reserves a certains sujets, comment les estampes du « monde flottant » representaient les acteurs de kabuki et les scenes de quartiers de plaisir comme une sorte de culture pop de l'ere Edo, et ce qui est vraiment difficile dans l'alignement par rapport a ce que l'estampe moderne a rendu plus facile. Vous tirerez votre propre estampe, regarderez l'image emerger en inverse du bloc au papier, et partirez avec une piece finie qui vous appartient plutot qu'un achat en boutique. Cela se deroule dans un veritable cadre de studio plutot qu'une devanture orientee touristes, donc le rythme est sans hate et la taille du groupe reste assez petite pour une vraie guidance individuelle de Kurumi pendant que vous travaillez. Aucune experience artistique n'est necessaire, la sculpture est faite pour vous, et la technique est enseignable dans la fenetre de deux heures, bien que si vous avez des bases en dessin ou en estampe vous remarquerez des nuances supplementaires dans ses explications. C'est une bonne option pour les voyageurs qui veulent une experience culturelle pratique avec un souvenir tangible a la fin, plutot qu'une autre visite de temple, et une particulierement bonne option de jour de pluie dans une ville construite autour du tourisme en exterieur. Reservez-le comme un changement de rythme en milieu de voyage, et vous partirez avec a la fois une estampe et une comprehension vraiment meilleure d'une des formes d'art les plus influentes du Japon.",
-  "highlights": [],
-  "included": [
-   "Tous les materiaux, blocs pre-sculptes, pigments, et instruction de l'artiste Kurumi Wakaki"
-  ],
-  "notIncluded": [
-   "Le transport vers et depuis le studio n'est pas inclus"
   ]
  },
  "magome-juku-guided-tour": {
@@ -258205,26 +258163,6 @@ export const FR_CITIES: Record<string, CityT> = {
  "country:india": {
   "title": "Inde : visites guidées et excursions avec des opérateurs locaux vérifiés",
   "description": "Taj Mahal, Rajasthan, Delhi, Mumbai et plus : des centaines de visites réservées directement auprès d'opérateurs locaux vérifiés, avec confirmation sur WhatsApp."
- },
- "country:japan": {
-  "title": "Japon : visites guidées et excursions avec des opérateurs locaux vérifiés",
-  "description": "Tokyo, Kyoto, Osaka et les excursions d'une journée depuis les ports de croisière : des centaines de visites réservées directement auprès d'opérateurs locaux vérifiés, avec confirmation sur WhatsApp."
- },
- "country:uae": {
-  "title": "Émirats arabes unis : visites guidées et excursions avec des opérateurs locaux vérifiés",
-  "description": "Dubaï, Abou Dabi et safaris dans le désert : des centaines de visites réservées directement auprès d'opérateurs locaux vérifiés, avec confirmation sur WhatsApp."
- },
- "country:indonesia": {
-  "title": "Indonésie : visites guidées et excursions avec des opérateurs locaux vérifiés",
-  "description": "Bali, Ubud et les îles environnantes : des centaines de visites réservées directement auprès d'opérateurs locaux vérifiés, avec confirmation sur WhatsApp."
- },
- "country:sri-lanka": {
-  "title": "Sri Lanka : visites guidées et excursions avec des opérateurs locaux vérifiés",
-  "description": "Colombo, Kandy, Ella et les parcs nationaux de safari : des centaines de visites réservées directement auprès d'opérateurs locaux vérifiés, avec confirmation sur WhatsApp."
- },
- "country:cambodia": {
-  "title": "Cambodge : visites guidées et excursions avec des opérateurs locaux vérifiés",
-  "description": "Angkor Wat, Siem Reap et Phnom Penh : des centaines de visites réservées directement auprès d'opérateurs locaux vérifiés, avec confirmation sur WhatsApp."
  }
 };
 export const FR_ITINERARIES: Record<string, ItineraryT> = {
