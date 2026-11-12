@@ -17677,6 +17677,174 @@ export const IT_TOURS: Record<string, TourT> = {
    "Cibo e bevande\nTrasporto tra i quartieri\nTariffe di ingresso non elencate sopra\nRitiro e rientro in hotel"
   ]
  },
+ "tokyo-sento-bathhouse-experience-tattoo-friendly": {
+  "title": "Un Sento Locale con una Guida: il Bagno Pubblico di Quartiere di Tokyo, Tatuaggi Benvenuti",
+  "metaTitle": "Tokyo: sento locale, tatuaggi benvenuti",
+  "metaDescription": "Un'ora in un sento attivo a Shin-Okubo con una guida dello stesso sesso che entra con voi e spiega l'etichetta, e dove i tatuaggi non sono un problema.",
+  "shortDescription": "Un'ora in un sento attivo a Shin-Okubo con una guida dello stesso sesso che entra con voi e spiega l'etichetta, e dove i tatuaggi non sono un problema.",
+  "fullDescription": "Il sento e la parte della vita quotidiana giapponese che i visitatori vogliono provare di piu e che piu spesso saltano, per due ragioni: nessuno spiega le regole, e la maggior parte dei locali rifiuta chiunque abbia un tatuaggio.\n\nQuesta ora risolve entrambi i problemi. Una guida giapponese dello stesso sesso entra nel bagno con voi, non aspetta fuori, e vi accompagna attraverso la sequenza mentre accade: dove lasciare le vostre cose, perche vi lavate a fondo alle stazioni a sedere prima di avvicinarvi all'acqua, cosa fare con il piccolo asciugamano, quanto sia davvero caldo il bagno caldo. Sbagliare in un sento e un vero errore sociale, e avere qualcuno al vostro fianco elimina completamente l'ansia.\n\nChiarite un punto prima di prenotare, perche l'operatore lo e: il bagno nel sento e nudo. Nessun costume da bagno, nessun vestito. Questa e la consuetudine e non esiste una versione di questa esperienza che la aggiri. I bagni sono separati per genere.\n\nQuesto e un bagno pubblico di quartiere piuttosto che un onsen da resort, il tipo di posto dove la gente va dopo il lavoro, il che e esattamente il motivo per cui vale la pena farlo. La tariffa d'ingresso al bagno, shampoo, balsamo e sapone per il corpo sono tutti inclusi, quindi non dovete portare nulla.\n\nI tatuaggi sono accettati qui, l'altro motivo per cui questa esperienza esiste. L'associazione del Giappone tra tatuaggi e crimine organizzato fa si che la maggior parte dei bagni pubblici e degli onsen respinga ancora le persone alla porta, ed essere rifiutati di persona e peggio che non andare affatto.\n\nI gruppi sono limitati a sei persone. L'incontro e davanti alle macchinette dei biglietti alla stazione JR di Shin-Okubo a Shinjuku, e tutto il percorso dura circa sessanta minuti.",
+  "highlights": [],
+  "included": [
+   "Tariffa d'ingresso al bagno\nGuida locale dello stesso sesso che vi accompagna nel bagno\nSpiegazione dell'etichetta e della cultura del sento\nShampoo, balsamo e sapone per il corpo"
+  ],
+  "notIncluded": [
+   "Trasporto fino al punto d'incontro\nBevande\nNoleggio dell'asciugamano dove a pagamento\nRitiro e rientro in hotel"
+  ]
+ },
+ "tokyo-shibuya-food-walk-thirteen-dishes": {
+  "title": "Passeggiata Gastronomica a Shibuya: Tredici Piatti, Tre Locali e Dessert",
+  "metaTitle": "Shibuya: passeggiata gastronomica di tredici piatti",
+  "metaDescription": "Una passeggiata con massimo dieci persone tra Dogenzaka e Center Gai: un izakaya, una bancarella di strada, un locale tradizionale e dessert, con due bevande incluse.",
+  "shortDescription": "Una passeggiata con massimo dieci persone tra Dogenzaka e Center Gai: un izakaya, una bancarella di strada, un locale tradizionale e dessert, con due bevande incluse.",
+  "fullDescription": "Il cibo di Shibuya si nasconde in piena vista. Dogenzaka e Center Gai sono due delle strade piu affollate di Tokyo, e i posti buoni su di esse si trovano di solito in cima a una scala stretta, dietro una porta senza fotografie e un'insegna solo in giapponese. Tre ore con qualcuno che mangia qui regolarmente sono la scorciatoia.\n\nIl gruppo e limitato a dieci persone, il piu piccolo tra le passeggiate gastronomiche di Shibuya, il che mantiene l'atmosfera conversazionale e significa che la guida puo portarvi in sale che ospitano una dozzina di persone. Quattro tappe: un izakaya, una bancarella di cibo di strada, un locale tradizionale, e dessert per finire. Tredici piatti sono inclusi tra queste, insieme a due bevande, alcoliche o no, a vostra scelta, cosi non pagate a ogni tappa e non dovete capire come ordinare.\n\nIl percorso funziona anche come orientamento. Attraversate a piedi l'incrocio di Shibuya e camminate nei vicoli dietro di esso, e la guida riempie la conoscenza pratica che rende piu facile il resto di un viaggio a Tokyo: come funziona il conto in un izakaya, perche si ordina a giri invece che tutto insieme, cosa fare con il panno caldo, quali tra questi posti accettano clienti senza prenotazione piu avanti nella serata. La maggior parte dei gruppi se ne va con una lista di indirizzi a cui tornare.\n\nCio che questa esperienza non e un menu degustazione in un solo ristorante. Siete in piedi per tre ore, muovendovi tra piccole sale, e il fascino e la varieta dei formati piuttosto che un singolo piatto. Il percorso e accessibile in sedia a rotelle. Le esigenze alimentari possono di solito essere gestite con preavviso, quindi menzionatele al momento della prenotazione invece che la sera stessa.\n\nL'incontro e davanti al 7-Eleven vicino a Chuo-Gai e Tokyu Plaza su Dogenzaka, che e un punto di riferimento anche nella folla.",
+  "highlights": [],
+  "included": [
+   "Guida esperta di lingua inglese\nTredici piatti tra un izakaya, una bancarella di cibo di strada e un locale tradizionale, piu dessert\nDue bevande, alcoliche o non alcoliche\nTour a piedi dell'incrocio di Shibuya e dei vicoli dietro di esso\nConsigli per i piani del resto del vostro soggiorno in Giappone"
+  ],
+  "notIncluded": [
+   "Mance (opzionali)\nRitiro e rientro in hotel\nCibo e bevande aggiuntivi oltre a quelli inclusi"
+  ]
+ },
+ "tokyo-shibuya-highlights-walk-hidden-viewpoint": {
+  "title": "Shibuya a Piedi: Hachiko, lo Scramble Crossing e un Punto Panoramico Usato dagli Abitanti",
+  "metaTitle": "Shibuya a piedi: Hachiko e un punto panoramico nascosto",
+  "metaDescription": "Novanta minuti a meno di trenta dollari: il modo piu veloce per capire Shibuya, concludendosi in un punto panoramico gratuito sull'incrocio che la maggior parte dei visitatori non trova mai.",
+  "shortDescription": "Novanta minuti a meno di trenta dollari: il modo piu veloce per capire Shibuya, concludendosi in un punto panoramico gratuito sull'incrocio che la maggior parte dei visitatori non trova mai.",
+  "fullDescription": "Shibuya premia una guida piu di quasi qualsiasi altro posto a Tokyo, perche cosi poco di essa si spiega da sola. L'incrocio e famoso, la statua del cane e famosa, e le strade dietro di essi sono una densa griglia di bar, negozi di dischi e ristoranti che la maggior parte dei visitatori attraversa senza sapere quale porta valga la pena aprire.\n\nQuesta passeggiata di novanta minuti inizia alla statua di Hachiko su Dogenzaka, dove la guida racconta la storia per bene: un Akita che continuo a tornare alla stazione per quasi dieci anni dopo che il suo padrone mori li nel 1925, e perche una nazione si sia affezionata a questa storia. Da li attraversate a piedi lo Scramble di Shibuya, l'unico modo per capire la sua scala: diverse migliaia di persone alla volta, che si muovono in ogni direzione, senza collisioni e senza gridare.\n\nIl resto della passeggiata va dietro le vetrine. Passate attraverso i vicoli illuminati al neon di ristoranti e bar che sono morti a mezzogiorno e irriconoscibili dopo il tramonto, e la guida indica le cose pratiche: quali vicoli vale la pena rivisitare per la cena, dove si trovano i bar in piedi, quale dei grandi magazzini ha il reparto gastronomico che merita una deviazione. Si conclude in un punto panoramico sull'incrocio, gratuito da raggiungere e noto per lo piu a chi vive qui, invece che nei piani di osservazione a pagamento.\n\nA questo prezzo e deliberatamente senza fronzoli. Non c'e cibo, trasporto o biglietto incluso; state pagando per novanta minuti della conoscenza di un locale e un percorso che non assemblereste da soli. I gruppi possono arrivare a cinquanta persone, quindi e piu una camminata con ascolto che una conversazione. Si svolge con pioggia o sole, e il percorso e accessibile in sedia a rotelle. La maggior parte delle persone la fa all'inizio del viaggio e usa i consigli per il resto della settimana.",
+  "highlights": [],
+  "included": [
+   "Guida locale di lingua inglese\nPercorso guidato a piedi di novanta minuti attraverso Shibuya\nVisita a un punto panoramico locale gratuito sull'incrocio"
+  ],
+  "notIncluded": [
+   "Cibo e bevande\nTrasporto\nRitiro e rientro in hotel\nBiglietti per piani di osservazione a pagamento\nMance (opzionali)"
+  ]
+ },
+ "tokyo-shibuya-night-walk-sky-deck-miyashita-park": {
+  "title": "Shibuya di Notte in Due Ore: Terrazza Panoramica, Scramble Crossing, Center Gai e Parco Miyashita",
+  "metaTitle": "Shibuya di notte: terrazza, incrocio e parco Miyashita",
+  "metaDescription": "Un compatto giro di due ore a Shibuya dopo il tramonto che non lascia mai il quartiere: terrazza panoramica, l'incrocio, Don Quijote e i vicoli illuminati da lanterne al parco Miyashita.",
+  "shortDescription": "Un compatto giro di due ore a Shibuya dopo il tramonto che non lascia mai il quartiere: terrazza panoramica, l'incrocio, Don Quijote e i vicoli illuminati da lanterne al parco Miyashita.",
+  "fullDescription": "Questa e la versione di Shibuya di notte che resta a Shibuya. Due ore, un quartiere, nessun viaggio in treno, e funziona bene come qualcosa da fare tra la cena e l'ultimo treno piuttosto che come il momento centrale di una serata.\n\nSi apre in alto. Il biglietto per Shibuya Sky e incluso, e avrete circa quarantacinque minuti sulla terrazza all'aperto a 230 metri, nell'ora in cui Tokyo smette di essere una griglia grigia e diventa un campo di luce che si estende oltre l'orizzonte, con la Torre di Tokyo illuminata di arancione in lontananza. L'ingresso con orario prenotato e incluso, la parte che e davvero difficile da organizzare da soli in alta stagione.\n\nTornati a livello strada attraversate a piedi lo Scramble Crossing. Vale la pena farlo di notte in particolare: gli schermi sugli edifici circostanti sono alla massima luminosita e l'intero incrocio brilla, un'esperienza diversa dalla versione diurna. Il compito della guida qui e in parte di navigazione e in parte sapere dove posizionarsi per la fotografia che tutti vogliono.\n\nIl resto della passeggiata e la trama stessa del quartiere. Center Gai, la via pedonale che parte dall'incrocio. MEGA Don Quijote, un negozio scontato pieno fino al soffitto su piu piani e meglio inteso come spettacolo piuttosto che come negozio. E il parco Miyashita per finire, un parco sul tetto costruito sopra un vicolo gastronomico in stile retro, dove vicoli illuminati da lanterne con piccoli bar si trovano sotto un complesso moderno, che e un riassunto tanto buono della Tokyo contemporanea quanto la citta possa offrire.\n\nI gruppi sono limitati a quindici persone. Cibo, bevande e trasporto non sono inclusi, e la guida vi indichera dove mangiare una volta conclusa la passeggiata. Se preferite coprire due quartieri e avere una guida che vi fotografa durante tutto il percorso, scegliete invece la nostra passeggiata notturna di tre ore tra Shibuya e Shinjuku.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso per Shibuya Sky, orario prenotato\nGuida locale di lingua inglese\nPercorso notturno guidato di due ore attraverso Shibuya"
+  ],
+  "notIncluded": [
+   "Cibo e bevande\nTrasporto\nTariffe di ingresso non elencate sopra\nRitiro e rientro in hotel"
+  ]
+ },
+ "tokyo-shibuya-sumo-show-five-daily-times": {
+  "title": "Sumo a Shibuya: Cinque Orari di Spettacolo al Giorno, Sfida nel Ring Incluso",
+  "metaTitle": "Shibuya: spettacolo di sumo con cinque orari",
+  "metaDescription": "Lo stesso formato di sumo da vicino in una sala piu grande a Shibuya, con cinque orari di inizio durante la giornata, la versione piu facile da inserire in un itinerario di Tokyo impegnativo.",
+  "shortDescription": "Lo stesso formato di sumo da vicino in una sala piu grande a Shibuya, con cinque orari di inizio durante la giornata, la versione piu facile da inserire in un itinerario di Tokyo impegnativo.",
+  "fullDescription": "Questo e sumo costruito attorno al vostro programma invece del contrario. La sala di Shibuya offre cinque spettacoli al giorno, dalle 9:30 del mattino alle 19:30 di sera, il che la rende la versione da prenotare quando il resto della vostra giornata a Tokyo e gia impegnato. Si trova a Sakuragaoka, sul lato piu tranquillo della stazione rispetto all'incrocio, pochi minuti a piedi dall'uscita sud.\n\nLa sala e piu grande di quella di Shinjuku e ospita fino a ottanta persone, quindi sembra piu uno spettacolo e meno una sala d'allenamento. Cio che accade nel ring e lo stesso: lottatori professionisti che attraversano la purificazione con il sale, le pestate, il lungo confronto, e poi veri incontri che di solito finiscono in pochi secondi. Un presentatore di lingua inglese narra per tutta la durata, il che e cio che distingue questa esperienza dal guardare un video online: imparate cosa fa il ventaglio dell'arbitro, perche il ring ha quella dimensione, e cosa ogni lottatore sta davvero cercando di ottenere nel primo mezzo secondo di contatto.\n\nDopo gli incontri, gli ospiti possono entrare nel ring e sfidare un lottatore. I posti sono limitati e assegnati per sorteggio quando la domanda e alta, quindi non e garantito, ma le fotografie dopo sono aperte a tutti e i lottatori sono generosi con il loro tempo. Una bottiglia d'acqua e incluso all'arrivo.\n\nIl motivo pratico per scegliere questa versione invece dello spettacolo di Shinjuku e semplicemente l'orario e la posizione: se state gia passando un pomeriggio attorno all'incrocio di Shibuya, al parco Miyashita o a Shibuya Sky, uno spettacolo di sumo di 90 minuti si inserisce nello stesso blocco senza un viaggio in treno. Da notare che i trasferimenti dall'hotel non sono inclusi e non c'e cibo oltre alla bevanda di benvenuto, quindi pianificate di mangiare prima o dopo, Sakuragaoka ne ha in abbondanza a due minuti a piedi.",
+  "highlights": [],
+  "included": [
+   "Spettacolo di sumo con dimostrazioni dal vivo e incontri di combattimento\nPresentatore di lingua inglese durante tutto lo spettacolo\nBevanda di benvenuto (acqua in bottiglia)\nPartecipazione al sorteggio per sfidare un lottatore\nOccasioni fotografiche con i lottatori"
+  ],
+  "notIncluded": [
+   "Ritiro e rientro in hotel\nSnack e bevande aggiuntivi\nMance"
+  ]
+ },
+ "tokyo-shinjuku-evening-food-walk-four-eateries": {
+  "title": "Shinjuku di Notte: Tredici Piatti in Quattro Locali Locali",
+  "metaTitle": "Shinjuku di notte: tredici piatti in quattro locali",
+  "metaDescription": "Tre ore, quattro posti dove gli abitanti mangiano davvero: una bancarella di strada, un izakaya, un locale tradizionale e un gastrobar, con tredici piatti e due bevande incluse.",
+  "shortDescription": "Tre ore, quattro posti dove gli abitanti mangiano davvero: una bancarella di strada, un izakaya, un locale tradizionale e un gastrobar, con tredici piatti e due bevande incluse.",
+  "fullDescription": "Shinjuku non e un posto difficile in cui mangiare male. I vicoli attorno alla stazione contengono un numero enorme di ristoranti, una buona parte con fotografie in vetrina e menu in inglese all'esterno, e quelli davvero buoni raramente si pubblicizzano in un modo che un visitatore possa leggere. Questa passeggiata di tre ore risolve il problema affidando le decisioni a qualcuno che mangia qui.\n\nIl gruppo e limitato a dodici persone, il che conta piu di quanto sembri, i posti su questo percorso sono piccoli, e un gruppo in pullman non potrebbe fisicamente entrarci. Visitate quattro locali in una serata, deliberatamente diversi tra loro: una bancarella, un izakaya, un locale tradizionale e un gastrobar, cosi il tour copre una gamma di formati invece di quattro varianti dello stesso pasto.\n\nTredici piatti sono inclusi tra le quattro tappe. La lista esatta cambia con la stagione e con cio che ogni cucina fa bene, ma tipicamente include sashimi, tonkatsu, yakitori e takoyaki, insieme a sake. Due bevande sono incluse e potete scegliere se alcoliche o no. Tra una tappa e l'altra la guida riempie il contesto: perche un izakaya funziona nel modo in cui funziona, come ordinare senza un menu, qual e davvero l'etichetta attorno al versare e condividere.\n\nIl valore pratico tende a durare oltre la serata. Le guide qui passano una buona parte della passeggiata a rispondere a domande sul resto del vostro viaggio, e la maggior parte dei gruppi se ne va con una breve lista di posti dove tornare da soli. L'incontro e fuori da un edificio di riferimento a Nishi-Shinjuku, pochi minuti dall'uscita ovest della stazione, e il tour finisce a distanza percorribile a piedi dallo stesso trasporto.\n\nSi adatta sia a chi mangia con sicurezza sia a chi e piu cauto; le porzioni sono condivise e nessuno viene spinto a nulla. Comunicate le esigenze alimentari all'operatore al momento della prenotazione, poiche le sostituzioni sono molto piu facili da organizzare in anticipo che la sera stessa.",
+  "highlights": [],
+  "included": [
+   "Guida gastronomica locale di lingua inglese\nTredici piatti giapponesi in quattro locali\nDue bevande, alcoliche o non alcoliche\nSoste in una bancarella di strada, un izakaya, un locale tradizionale e un gastrobar\nTour a piedi dei vicoli gastronomici di Shinjuku\nConsigli per il resto del vostro soggiorno"
+  ],
+  "notIncluded": [
+   "Mance (opzionali)\nRitiro e rientro in hotel\nCibo e bevande aggiuntivi oltre a quelli inclusi"
+  ]
+ },
+ "tokyo-shinjuku-samurai-restaurant-show-two-drinks": {
+  "title": "Lo Spettacolo Samurai di Kabukicho, con Due Bevande",
+  "metaTitle": "Kabukicho: spettacolo samurai con due bevande",
+  "metaDescription": "Novanta minuti di neon, tamburi, danzatori e spettacolo meccanizzato nel bel mezzo di Kabukicho, con due bevande a scelta incluse.",
+  "shortDescription": "Novanta minuti di neon, tamburi, danzatori e spettacolo meccanizzato nel bel mezzo di Kabukicho, con due bevande a scelta incluse.",
+  "fullDescription": "Non c'e un modo sensato di descrivere lo spettacolo samurai, e questo e il punto. Si trova nel sotterraneo di un edificio sulla via principale di Kabukicho, la sala e ricoperta dal pavimento al soffitto di specchi e LED, e per novanta minuti venite sottoposti a tamburi taiko, danzatori, performer in costume, giochi di laser e macchinari, a un volume che rende la conversazione opzionale.\n\nE il discendente diretto del Robot Restaurant che occupo lo stesso posto nell'itinerario di Tokyo per un decennio, ed e meglio affrontarlo con lo stesso spirito: non come una finestra sul Giappone tradizionale, ma come un pezzo interamente sincero dell'eccesso di Kabukicho che non potrebbe esistere altrove. Chi arriva aspettandosi autenticita culturale se ne va confuso. Chi arriva aspettandosi uno spettacolo se ne va deliziato.\n\nDue bevande sono incluse e potete scegliere se alcoliche o soft. La reception e dentro l'ingresso del locale a Kabukicho 1-chome, un paio di minuti dall'uscita est della stazione di Shinjuku, e c'e una scelta di livello di posto al momento della prenotazione.\n\nIl motivo pratico per farlo e che e breve, al chiuso, si svolge la sera, ed e nel bel mezzo del quartiere dove probabilmente mangerete comunque, Omoide Yokocho e Golden Gai sono entrambi a dieci minuti a piedi. Il cibo oltre alle bevande non e incluso e non ce n'e bisogno; la maggior parte delle persone va a cena dopo.\n\nSe non vi piace il rumore forte, le luci stroboscopiche o la folla, questa esperienza non e per voi e nessuna quantita di curiosita cambiera le cose.",
+  "highlights": [],
+  "included": [
+   "Biglietto per lo spettacolo samurai\nDue bevande a vostra scelta, alcoliche o non alcoliche"
+  ],
+  "notIncluded": [
+   "Ritiro e rientro in hotel\nCibo\nBevande aggiuntive\nTrasporto fino al locale"
+  ]
+ },
+ "tokyo-shinjuku-sumo-show-ring-challenge": {
+  "title": "Sumo a Shinjuku: Incontri dal Vivo, Sfida nel Ring e Foto con i Lottatori",
+  "metaTitle": "Shinjuku: spettacolo di sumo con sfida nel ring",
+  "metaDescription": "Novanta minuti di sumo professionale in una sala di Shinjuku: rituali spiegati in inglese, incontri dal vivo a pochi metri, e la possibilita di entrare voi stessi nel ring.",
+  "shortDescription": "Novanta minuti di sumo professionale in una sala di Shinjuku: rituali spiegati in inglese, incontri dal vivo a pochi metri, e la possibilita di entrare voi stessi nel ring.",
+  "fullDescription": "Il sumo e difficile da vedere per bene come visitatore. I sei torneo ufficiali si esauriscono mesi prima e solo tre si svolgono a Tokyo, il che lascia la maggior parte dei viaggiatori con una visita a un museo e la fotografia di un poster. Questo spettacolo di novanta minuti a Shinjuku esiste per colmare quel vuoto, e lo fa con veri professionisti invece che attori.\n\nIl locale e una sala al secondo piano di un edificio a Okubo, pochi minuti a piedi dalla stazione di Shin-Okubo, e i posti vi mettono abbastanza vicini da sentire l'impatto. I lottatori aprono con le parti del sumo che di solito vengono spiegate male o non spiegate affatto: lo shiko, la pesante pestata con i piedi che scaccia gli spiriti malvagi; il sale gettato nel ring per purificarlo; il lungo confronto con lo sguardo fisso prima della carica, che non e spettacolo ma un vero test di prontezza. Un presentatore di lingua inglese racconta ognuno di questi elementi mentre accadono, cosi il rituale smette di essere decorativo e inizia ad avere senso.\n\nPoi combattono. Gli incontri sono veri scontri, e a distanza ravvicinata la velocita e la sorpresa, la maggior parte durano solo pochi secondi, decisi da una presa o da uno spostamento di peso che vi perdereste completamente in televisione.\n\nDopo il tono cambia completamente. Gli ospiti sono invitati a indossare un costume da sumo e fare un giro nel ring contro un lottatore, il che viene giocato per ridere ed e da dove arrivano la maggior parte delle foto migliori. I posti per questo sono limitati e assegnati per sorteggio quando piu persone vogliono provare di quanto ci sia tempo, quindi trattatelo come un bonus piuttosto che come il motivo per cui siete venuti. Le fotografie con i lottatori dopo sono aperte a tutti.\n\nUna bottiglia d'acqua e incluso, la sala e al chiuso, e il tutto dura un'ora e mezza, il che rende facile inserirlo prima o dopo la cena a Shinjuku. Si adatta a famiglie, chi visita per la prima volta e chiunque il cui viaggio non coincida con un torneo.",
+  "highlights": [],
+  "included": [
+   "Dimostrazione di sumo professionale con incontri dal vivo\nPresentatore di lingua inglese che spiega i rituali durante tutto lo spettacolo\nContesto sulla storia e sulle regole del sumo\nBevanda di benvenuto (acqua in bottiglia)\nPartecipazione al sorteggio per sfidare un lottatore nel ring\nFotografie con i lottatori"
+  ],
+  "notIncluded": [
+   "Ritiro e rientro in hotel\nCibo e bevande aggiuntivi\nMance"
+  ]
+ },
+ "tokyo-skytree-spiritual-tour": {
+  "title": "Giro in Go-Kart da Asakusa ad Akihabara: Skytree, Templi e la Citta Elettrica",
+  "metaTitle": "Go-kart da Asakusa ad Akihabara con Skytree",
+  "metaDescription": "Un giro in kart con costume attraverso la vecchia Tokyo: il quartiere del Senso-ji, lungo il Sumida sotto la Skytree, poi dentro il bagliore elettrico di Akihabara.",
+  "shortDescription": "Un giro in kart con costume attraverso la vecchia Tokyo: il quartiere del Senso-ji, lungo il Sumida sotto la Skytree, poi dentro il bagliore elettrico di Akihabara.",
+  "fullDescription": "Il lato est di Tokyo e il percorso in kart migliore e meno operatori lo propongono. Invece della folla di Shibuya ottenete le basse strade in legno di Asakusa, il fiume, e poi il pieno assalto sensoriale di Akihabara, tre versioni completamente diverse della citta in settanta minuti.\n\nAsakusa e la parte piu antica di Tokyo ancora in piedi come quartiere. Il Senso-ji e qui dal 645 e le strade attorno sono rimaste basse, cosi da un kart siete all'altezza degli occhi con vetrine che non sono cambiate molto in decenni; il portale Kaminarimon del tempio e la sua enorme lanterna rossa sono il punto di riferimento che tutti riconoscono. Poi la strada incontra il Sumida e la Tokyo Skytree riempie il parabrezza, a 634 metri e la torre piu alta del mondo, aperta nel 2012 per far passare i segnali di trasmissione sopra i grattacieli, ed e davvero sorprendente vista da un veicolo che sta a venti centimetri dal suolo.\n\nAkihabara chiude il giro. Il quartiere vendeva pezzi di radio dalle bancarelle sotto gli archi della ferrovia dopo la guerra, crebbe fino a diventare il mercato dell'elettronica di Tokyo e poi il centro della cultura otaku; oggi le sue sale giochi, i cartelloni anime e i negozi su piu piani riversano piu luce sulla strada dei lampioni stessi, e guidare attraverso tutto questo in costume e esattamente assurdo come suona.\n\nUn giro nel primo pomeriggio mantiene Asakusa in luce chiara e raggiunge Akihabara mentre le insegne iniziano a mordere. Il traffico li e vero traffico, quindi i guidatori devono sentirsi a loro agio nel seguire le istruzioni piuttosto che fare turismo al volante.\n\nPrima di prenotare, sistemate la documentazione: il Giappone richiede un permesso internazionale di guida della Convenzione di Ginevra portato con la patente nazionale e il passaporto. Organizzatelo a casa, non puo essere rilasciato in Giappone.",
+  "highlights": [],
+  "included": [
+   "Go-kart omologato per la strada e carburante\nGuida di lingua inglese che accompagna il gruppo\nNoleggio del costume\nCasco e briefing sulla sicurezza\nFoto scattate dalla guida lungo il percorso\nAssicurazione del veicolo"
+  ],
+  "notIncluded": [
+   "Permesso internazionale di guida (da organizzare prima del viaggio)\nTrasferimenti dall'hotel\nCibo e bevande\nMance\nSpese personali"
+  ]
+ },
+ "tokyo-sumo-morning-practice-training-stable": {
+  "title": "Allenamento Matutino di Sumo in una Scuderia Attiva a Kiyosumi-Shirakawa",
+  "metaTitle": "Tokyo: allenamento matutino di sumo",
+  "metaDescription": "Due ore dentro una vera heya di sumo durante l'allenamento matutino, nessuno spettacolo, nessun commento registrato, solo la sessione di allenamento che la maggior parte dei residenti di Tokyo non ha mai visto.",
+  "shortDescription": "Due ore dentro una vera heya di sumo durante l'allenamento matutino, nessuno spettacolo, nessun commento registrato, solo la sessione di allenamento che la maggior parte dei residenti di Tokyo non ha mai visto.",
+  "fullDescription": "Una scuderia di sumo, o heya, e dove i lottatori vivono davvero. Dormono li, mangiano li, e si allenano li ogni mattina prima dell'alba, sotto un capo-scuderia la cui autorita sulle loro vite e quasi totale. L'accesso e stato tradizionalmente riservato a sponsor e familiari, motivo per cui la maggior parte delle persone a Tokyo non ci e mai entrata.\n\nQuesta visita di due ore e la cosa vera, non una dimostrazione. Osservate una sessione di allenamento in corso: gli esercizi ripetitivi, gli scontri, i piu giovani che eseguono lo stesso movimento centinaia di volte mentre i lottatori senior li correggono. E piu silenzioso di uno spettacolo e considerevolmente piu intenso. Nessuno si esibisce per la sala, e la disciplina e il punto, i giovani lottatori competono per il rango in un sistema dove solo la divisione piu alta guadagna uno stipendio vero.\n\nUna guida di lingua inglese spiega cosa state guardando mentre accade: come si vince un incontro, perche un lottatore pesta i piedi e lancia il sale, cosa significano in pratica le radici shintoiste dello sport, e come il calendario dei torneo modelli l'anno. Oltre all'allenamento stesso di solito c'e la possibilita di parlare con i lottatori, che la maggior parte dei visitatori trova essere la parte che resta con loro.\n\nPoiche e la casa e il luogo di lavoro di qualcuno, l'etichetta e piu rigida di un luogo pubblico: silenzio, non interrompere, e seguite le istruzioni della guida su dove sedervi e quando le fotografie sono accettabili. Anche gli orari di allenamento si muovono con il calendario dei torneo, quindi la sessione esatta dipende dal giorno.\n\nL'incontro e alla stazione di Kiyosumi-Shirakawa, uscita A1, raggiungibile con le linee Toei Oedo e Hanzomon. La zona stessa merita un'ora dopo, e uno dei quartieri del caffe di Tokyo e si trova accanto al giardino Kiyosumi Teien.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese\nVisita a una scuderia di allenamento sumo attiva durante l'allenamento matutino\nSpiegazione delle regole, dei ranghi e dei rituali del sumo\nOpportunita di parlare con i lottatori fuori dagli orari di allenamento"
+  ],
+  "notIncluded": [
+   "Ritiro e rientro in hotel\nCibo e bevande\nTrasporto fino al punto d'incontro\nMance"
+  ]
+ },
+ "tokyo-tower-bike-tour": {
+  "title": "Tokyo di Notte in Bicicletta: Omotesando, Roppongi e il Cimitero di Aoyama",
+  "metaTitle": "Tokyo di notte in bicicletta",
+  "metaDescription": "Due ore in bicicletta attraverso una Tokyo che si illumina, concludendosi nella quiete inaspettata del cimitero di Aoyama.",
+  "shortDescription": "Due ore in bicicletta attraverso una Tokyo che si illumina, concludendosi nella quiete inaspettata del cimitero di Aoyama.",
+  "fullDescription": "Tokyo di notte in bicicletta e piu calma di quanto suoni. Il traffico si assottiglia dopo l'ora di punta serale, le strade laterali si svuotano, e coprite terreno abbastanza velocemente da collegare luoghi che non si assomigliano affatto.\n\nIl giro parte da Shibuya con una guida che vive davvero qui. Omotesando viene prima, il largo viale di zelkove con la sua fila di architettura di marca, commissionata edificio per edificio da architetti noti, e meglio illuminato e molto piu silenzioso dopo la chiusura dei negozi. Segue Roppongi, ancora affollata, un quartiere che e cresciuto fino a diventare la zona notturna internazionale di Tokyo attorno ai bar che servivano l'occupazione del dopoguerra, e poi la Torre di Tokyo appare illuminata in fondo a una strada nel modo in cui appare ai residenti piuttosto che da una piattaforma panoramica.\n\nIl cimitero di Aoyama e la parte che nessuno si aspetta. Un grande terreno sepolcrale alberato nel mezzo di alcune delle terre piu costose di Tokyo, aperto negli anni 1870 come uno dei primi cimiteri pubblici della citta, silenzioso di notte, con ciliegi lungo il viale principale che attirano folle in primavera e nessuno il resto dell'anno. Attraversarlo dopo il rumore di Roppongi e una transizione davvero strana, e il gruppo procede lentamente e silenziosamente perche resta un cimitero attivo.\n\nDue ore, pianeggianti per tutto il percorso, e le biciclette hanno luci montate. Non serve forma fisica, ma dovete pedalare con sicurezza su strade vere. L'eta minima e generalmente 12 anni con un adulto, e il giro si svolge con pioggia leggera, annullato con rimborso in caso di tempo severo.",
+  "highlights": [],
+  "included": [
+   "Noleggio bicicletta con luci montate\nGuida locale di lingua inglese\nCasco\nAssicurazione per la bicicletta\nSoste fotografiche durante il percorso"
+  ],
+  "notIncluded": [
+   "Cibo e bevande\nTrasferimenti dall'hotel\nMance"
+  ]
+ },
+ "tokyo-tower-premium-tour": {
+  "title": "Tokyo Go-Kart Premium: Torre di Tokyo, Incrocio di Shibuya e Harajuku",
+  "metaTitle": "Tokyo go-kart premium: torre, Shibuya e Harajuku",
+  "metaDescription": "La versione lunga: due ore, gruppo piu piccolo, sia la Torre di Tokyo che l'incrocio di Shibuya, con una guida che vi fotografa per bene a ogni tappa.",
+  "shortDescription": "La versione lunga: due ore, gruppo piu piccolo, sia la Torre di Tokyo che l'incrocio di Shibuya, con una guida che vi fotografa per bene a ogni tappa.",
+  "fullDescription": "Questo e il percorso esteso per chi preferisce non correre. Due ore invece di una, un gruppo piu piccolo, e tempo abbastanza per fare entrambi gli sfondi iconici dei kart di Tokyo, la torre e l'incrocio, senza dover scegliere tra i due.\n\nPiu lungo conta piu di quanto sembri. I tour in kart brevi passano la maggior parte del tempo in transito tra due soste fotografiche; a questa durata la guida puo fermare il gruppo a ogni monumento abbastanza a lungo da fotografarlo davvero, attraversare l'incrocio piu di una volta se i semafori vanno male, e prendere la linea panoramica attraverso Roppongi invece di quella piu veloce. Roppongi divenne un quartiere di vita notturna negli anni dell'occupazione dopo il 1945, quando aprirono bar attorno alla presenza straniera li, e i suoi larghi viali sono inusualmente facili da guidare.\n\nLa Torre di Tokyo ancora il percorso. Completata nel 1958 e dipinta di arancione e bianco regolamentare per la sicurezza aerea, si innalza per 333 metri, deliberatamente nove metri piu alta della Torre Eiffel che l'ha inspirata. Seguono le strade piu strette di Harajuku, i vicoli piu tranquilli dietro Takeshita-dori e attorno alle vetrine di marca di Omotesando, poi Shibuya, dove lo scramble muove fino a 3.000 persone a ogni cambio e la statua di Hachiko si trova vicino alla stazione dal 1934.\n\nUna partenza nel primo pomeriggio mantiene la torre in luce diurna e vi porta a Shibuya mentre gli schermi iniziano a superare in luminosita il cielo. Si adatta a guidatori gia a loro agio nel traffico vero; i principianti nervosi tendono a passare due ore concentrati invece di guardare intorno.\n\nPrima la documentazione: un permesso internazionale di guida della Convenzione di Ginevra, la vostra patente nazionale e il vostro passaporto, tutti fisici. Organizzate il permesso internazionale nel vostro paese prima di partire.",
+  "highlights": [],
+  "included": [
+   "Go-kart omologato per la strada e carburante\nGuida di lingua inglese che accompagna il gruppo\nNoleggio del costume\nCasco e briefing sulla sicurezza\nFoto scattate dalla guida lungo il percorso\nAssicurazione del veicolo"
+  ],
+  "notIncluded": [
+   "Permesso internazionale di guida (da organizzare prima del viaggio)\nTrasferimenti dall'hotel\nCibo e bevande\nMance\nSpese personali"
+  ]
+ },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
   "title": "Raccolta frutta a Yoichi, la distilleria Nikka e la costa di Shakotan",
   "metaTitle": "Raccolta frutta, distilleria Nikka e costa di Shakotan",
