@@ -16799,6 +16799,90 @@ export const IT_TOURS: Record<string, TourT> = {
    "Spese personali, pasti se non specificati, mance"
   ]
  },
+ "sapporo-food-food-tour": {
+  "title": "Passeggiata Gastronomica Privata a Sapporo: Mercati, Ramen e Specialita Regionali",
+  "metaTitle": "Sapporo: passeggiata gastronomica privata",
+  "metaDescription": "Un tour gastronomico privato di tre ore a Sapporo con un host locale, costruito interamente attorno al vostro appetito e che include mercati, ramen e specialita regionali del Hokkaido.",
+  "shortDescription": "Un tour gastronomico privato di tre ore a Sapporo con un host locale, costruito interamente attorno al vostro appetito e che include mercati, ramen e specialita regionali del Hokkaido.",
+  "fullDescription": "Il Hokkaido mangia in modo diverso dal resto del Giappone, e questo tour gastronomico privato di tre ore e la strada piu breve per capire il perche. Uscite con un host locale invece di una guida che recita un copione, e tutto il tour viene costruito attorno a cio che volete davvero mangiare. Dite al vostro host che siete qui per il ramen e la passeggiata si orientera in quella direzione; dite che volete il pesce, o che preferite assaggiare un po' di tutto piuttosto che impegnarvi in un solo grande pasto, e il percorso cambiera di conseguenza. I piatti piu iconici di Sapporo sono tutti sul tavolo, dallo stile di ramen tipico della citta ai frutti di mare freschi per cui le acque del Hokkaido sono note, e il vostro host spiega cosa rende ciascuno di essi particolare per questo luogo. I mercati vivaci fanno parte della passeggiata, e vale la pena visitarli con qualcuno che sappia dirvi cosa state guardando, poiche e a una bancarella di mercato che la differenza tra una buona e una mediocre versione di qualcosa diventa evidente. Tra una tappa e l'altra percorrete a piedi i quartieri dove vive la scena gastronomica, il che vi da la geografia oltre ai sapori. Poiche il tour e privato, non c'e un gruppo con cui tenere il passo e nessun ordine fisso: se qualcosa vi sembra buono potete fermarvi, e se un posto si rivela il momento clou della giornata potete restarci piu a lungo. Finirete sapendo non solo cosa avete mangiato ma anche dove tornare per il resto del vostro viaggio.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-food-tour": {
+  "title": "Giro Gastronomico Locale a Sapporo: Oltre Dieci Piatti in Quattro Locali",
+  "metaTitle": "Sapporo: giro gastronomico in quattro locali",
+  "metaDescription": "Quattro ore, quattro locali e oltre dieci piatti con una guida locale, incluso un piano di sessanta minuti con bevande illimitate in un izakaya di Sapporo.",
+  "shortDescription": "Quattro ore, quattro locali e oltre dieci piatti con una guida locale, incluso un piano di sessanta minuti con bevande illimitate in un izakaya di Sapporo.",
+  "fullDescription": "Sapporo ha una cultura gastronomica difficile da scoprire dall'esterno, in parte perche il meglio accade dietro porte senza insegne, e in parte perche i menu sono raramente in inglese. Questo giro di quattro ore risolve entrambi i problemi offrendovi una guida locale che sa quali porte aprire. Nel corso della serata attraversate quattro locali diversi e assaggiate piu di dieci piatti, ciascun posto scelto per una ragione diversa e ognuno contribuisce con qualcosa che gli altri non offrono. La guida spiega cosa state mangiando e perche sia importante qui, cosi il pasto costruisce un'immagine del cibo della citta invece di una sequenza di piatti scollegati. Una delle tappe e un vero izakaya, il pub giapponese che e il cuore della cultura del bere del paese, e viene accompagnato da un piano di sessanta minuti con bevande illimitate, cosi potete rilassarvi senza fare calcoli ogni volta che ordinate. Anche camminare tra i locali fa parte dell'esperienza, portandovi attraverso le parti del centro di Sapporo dove il mangiare e il bere accadono davvero dopo il tramonto. Il tutto funziona particolarmente bene all'inizio di un viaggio, perche una volta che vi e stato mostrato come e strutturato un menu di izakaya, cosa ordinare e come chiederlo, potete tornarci da soli per il resto del soggiorno con molta piu sicurezza. Arrivate affamati: dieci piatti in quattro locali equivalgono a una serata intera di buon cibo.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario, oltre 10 piatti in 4 locali, piano di 60 minuti con bevande illimitate all'izakaya"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-full-day-tour": {
+  "title": "Gita di un Giorno nel Hokkaido da Sapporo: Zoo di Asahiyama, Stagno Blu e Cascate Shirahige",
+  "metaTitle": "Hokkaido da Sapporo: zoo, Stagno Blu e cascate",
+  "metaDescription": "Una giornata intera in pullman fuori da Sapporo che include lo zoo di Asahiyama, la cascata Shirahige, lo Stagno Blu di Shirogane e le cabine degli elfi della foresta di Ningle Terrace.",
+  "shortDescription": "Una giornata intera in pullman fuori da Sapporo che include lo zoo di Asahiyama, la cascata Shirahige, lo Stagno Blu di Shirogane e le cabine degli elfi della foresta di Ningle Terrace.",
+  "fullDescription": "Questo tour panoramico di nove ore vi porta fuori dal centro di Sapporo e vi conduce a nord, nella vasta campagna aperta per cui la maggior parte dei visitatori del Hokkaido non trova mai il tempo. Il pullman viaggia per circa due ore prima della prima e piu lunga tappa, lo zoo di Asahiyama, dove avete un paio d'ore per esplorare al vostro ritmo i suoi recinti famosamente ingegnosi. E questo design che ha reso famoso lo zoo, permettendovi di osservare gli orsi polari e il resto della collezione da angolazioni inusualmente vicine e inusualmente naturali. Dallo zoo la strada si volge verso la campagna, con una breve sosta per una foto dell'Albero di Ken e Mary che si erge solitario nel suo campo, per poi continuare verso la cascata Shirahige, dove l'acqua di scioglimento sgorga direttamente dalla parete rocciosa nel fiume sottostante. Poco distante si trova lo Stagno Blu di Shirogane, l'acqua immobile e tinta di minerali il cui colore lo ha reso uno dei luoghi piu fotografati del Hokkaido; qui avrete tempo per camminare lungo la riva, fare fotografie e visitare i piccoli negozi. L'ultima tappa e Ningle Terrace, una serie di piccole cabine artigianali in legno disseminate tra gli alberi e spesso chiamata la Terrazza degli Elfi della Foresta, dove potete vagare tra i laboratori prima che il pullman torni verso la citta. Sono disponibili due punti di ritiro e due punti di arrivo in base all'opzione scelta, cosi potete unirvi e concludere dove e piu comodo per il vostro soggiorno.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-half-day-tour": {
+  "title": "Tour Privato di Mezza Giornata a Sapporo: Storia, Cultura e Fascino del Nord",
+  "metaTitle": "Sapporo: tour privato di mezza giornata",
+  "metaDescription": "Un tour privato di mezza giornata a Sapporo a ritmo rilassato, con prezzo per gruppo, che copre la storia, la cultura e gli angoli piu tranquilli della citta.",
+  "shortDescription": "Un tour privato di mezza giornata a Sapporo a ritmo rilassato, con prezzo per gruppo, che copre la storia, la cultura e gli angoli piu tranquilli della citta.",
+  "fullDescription": "Con un prezzo per gruppo invece che per persona, questo tour privato di mezza giornata e la via piu breve per entrare in Sapporo per i viaggiatori che hanno una sola mattina o un solo pomeriggio liberi e vogliono che contino davvero. La capitale del Hokkaido e una citta di quieta eleganza e fascino locale, e mezza giornata in compagnia di una guida privata e sufficiente per scoprirne una buona parte, a patto che il tempo venga usato bene invece che sprecato a decidere dove andare dopo. Il tour percorre la ricca storia di Sapporo, la sua cultura e la serena bellezza che distingue le citta del nord, e lo fa a un ritmo rilassato invece di correre tra i monumenti. Poiche e privato, la mezza giornata appartiene solo al vostro gruppo. Potete fare domande liberamente, seguire cio che vi interessa e rallentare dove volete, e la vostra guida adattera il percorso invece di tenervi a un orario fisso. Questa flessibilita e cio che rende un tour breve degno di essere fatto, poiche una guida che conosce la citta puo concentrare le vostre poche ore su cio che significhera davvero qualcosa per voi e saltare cio che non lo fara. Si adatta bene ai viaggiatori che vogliono un legame piu profondo con una delle citta del nord piu affascinanti del Giappone senza rinunciare a un'intera giornata, e funziona particolarmente bene all'inizio di un soggiorno, quando tutto cio che imparate in quelle poche ore rende il resto della vostra esplorazione piu facile e piu gratificante.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-hitsujigaoka-boat-tour": {
+  "title": "Lago Shikotsu, Parco Takino e Hitsujigaoka: Giornata Privata con Autista",
+  "metaTitle": "Sapporo: lago Shikotsu, parco Takino e Hitsujigaoka",
+  "metaDescription": "Un flessibile tour privato di nove ore da Sapporo con un autista-guida dedicato, che collega il lago Shikotsu, il parco della neve di Takino e la collina panoramica di Hitsujigaoka.",
+  "shortDescription": "Un flessibile tour privato di nove ore da Sapporo con un autista-guida dedicato, che collega il lago Shikotsu, il parco della neve di Takino e la collina panoramica di Hitsujigaoka.",
+  "fullDescription": "Questa giornata privata copre tre luoghi sul confine meridionale di Sapporo, tutti degni di essere visti e tutti scomodi da combinare senza un'auto. Il lago Shikotsu e il piu lontano, a circa un'ora dalla citta, un profondo lago di caldera noto per l'acqua eccezionalmente limpida e circondato da pendii vulcanici boscosi. E la parte tranquilla della giornata e quella che la maggior parte delle persone ricorda. Dal lago il percorso torna verso la citta e il parco della neve di Takino, dove la versione invernale di un grande parco su una collina si trasforma in slittino, giochi sulla neve e ampi pendii bianchi, una buona tappa per le famiglie e una facile per chiunque voglia semplicemente stare nella neve senza fare escursioni. L'ultimo dei tre e la collina panoramica di Hitsujigaoka, il pascolo ai margini di Sapporo dove le pecore pascolano davanti a una vista che guarda indietro sulla citta, e dove la statua del dottor Clark si erge con il braccio teso sulla pianura. E la fotografia classica di Sapporo e ha piu senso alla fine di una giornata che all'inizio, una volta visto cio che si estende oltre la citta. Durante tutto il percorso avrete il comfort porta a porta con un autista-guida dedicato e un piano che resta flessibile, cosi l'ordine e i tempi possono cambiare per adattarsi al meteo, alla luce o semplicemente a come si sente il vostro gruppo.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-hopping-experience": {
+  "title": "Sapporo di Notte: Giro in Tre Locali Locali con una Guida",
+  "metaTitle": "Sapporo di notte: giro di bar con una guida",
+  "metaDescription": "Tre ore fuori per la citta a Sapporo con una guida locale, visitando tre bar e izakaya per bevande, snack e la storia della cultura del bere della citta.",
+  "shortDescription": "Tre ore fuori per la citta a Sapporo con una guida locale, visitando tre bar e izakaya per bevande, snack e la storia della cultura del bere della citta.",
+  "fullDescription": "Sapporo beve bene, e beve in modo locale, ma trovare i posti giusti da soli e davvero difficile in una citta dove i migliori bar sono accatastati diversi piani in alto dietro porte senza insegne. Questo tour serale di tre ore mette una guida locale tra voi e questo problema. Visiterete tre locali diversi nel corso della serata, un mix di bar e izakaya che vanno da posti noti davvero frequentati dagli abitanti a piccoli luoghi nascosti che non avreste mai trovato vagando da soli. A ogni tappa ci sono bevande e snack, e la vostra guida vi racconta cosa avete davanti, sia che si tratti di sake locale, vino del Hokkaido o birra artigianale di una citta che produce birra seriamente da oltre un secolo. Il punto non e solo bere ma capire una scena: come funziona l'izakaya, cosa ordina la gente e in quale ordine, perche certe bevande appartengono a questa parte del Giappone, e come la vivace cultura alcolica di qui differisca dal resto del paese. Camminare tra i locali vi porta attraverso il centro di Sapporo dopo il tramonto, che e una citta diversa da quella che si vede di giorno. Il tour inizia alla torre della TV e finisce vicino a Odori, cosi vi ritrovate nel bel mezzo di tutto con la serata ancora davanti a voi se volete continuare. E socievole, facile da fare da soli, e un modo veloce per sentirsi a casa in una citta in cui siete appena arrivati.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario, bevande e snack in ogni locale"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
  "kyoto-kid-friendly-ninja-class-museum": {
   "title": "Corso di ninja per famiglie a Kyoto: cerbottane, stelle e furtività",
   "metaTitle": "Corso di ninja per famiglie a Kyoto",
@@ -16919,6 +17003,174 @@ export const IT_TOURS: Record<string, TourT> = {
    "Trasporto al locale",
    "Acquisti aggiuntivi nel negozio di artigianato",
    "Pasti"
+  ]
+ },
+ "sapporo-inclusive-private-tour": {
+  "title": "Giornata di Neve Fresca a Sapporo Teine: Lezione Privata di Sci o Snowboard Tutto Incluso",
+  "metaTitle": "Sapporo Teine: giornata di sci tutto incluso",
+  "metaDescription": "Una giornata privata tutto incluso sulla neve a Sapporo Teine, con trasferimenti di andata e ritorno, noleggio attrezzatura, skipass e un autista locale sempre disponibile.",
+  "shortDescription": "Una giornata privata tutto incluso sulla neve a Sapporo Teine, con trasferimenti di andata e ritorno, noleggio attrezzatura, skipass e un autista locale sempre disponibile.",
+  "fullDescription": "Sapporo Teine e abbastanza vicina alla citta da poterci arrivare in circa un'ora, ed e abbastanza valida che l'area sciistica ha ospitato eventi olimpici, e questa giornata tutto incluso elimina ogni incombenza amministrativa che normalmente si interpone tra un visitatore e la neve fresca del Hokkaido. Il vostro autista locale vi ritira e vi porta sulla montagna, e da li il noleggio dell'attrezzatura e gli skipass sono gia gestiti, cosi non c'e da fare la fila a un banco in una lingua che non leggete e non c'e da capire quale pass copra quale impianto. La lezione stessa dura circa due ore in formato privato, il che significa che l'istruzione e calibrata su di voi invece che sulla media di un gruppo misto, sia che stiate allacciando gli scarponi per la prima volta sia che stiate perfezionando una tecnica che avete gia. Dopo avete ulteriori un paio d'ore per usare liberamente la montagna, mettendo in pratica la lezione su piste che scendono verso la costa. Il piacere particolare di Teine e proprio quella vista: l'oceano si trova in fondo alla linea dello sguardo mentre sciate, cosa rara ovunque e molto rara su una neve cosi buona. La neve fresca del Hokkaido ha una fama che attira persone da tutto il mondo, e Teine la riceve nella stessa abbondanza delle stazioni piu conosciute nell'entroterra, essendo pero molto piu facile da raggiungere da un hotel di Sapporo. Il vostro autista rimane disponibile durante tutta la giornata per assistenza sul posto, e alla fine vi riporta in citta, cosi tutta l'uscita non richiede da voi nulla se non presentarvi.",
+  "highlights": [],
+  "included": [
+   "Trasferimenti di andata e ritorno da Sapporo, noleggio attrezzatura, skipass, lezione privata, assistenza sul posto da parte di un autista locale"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-lavender-guided-tour": {
+  "title": "Lavanda di Furano e Stagno Blu di Biei: Tour Estivo di Due Giorni nel Hokkaido",
+  "metaTitle": "Hokkaido: lavanda di Furano e Stagno Blu in due giorni",
+  "metaDescription": "Un tour estivo di due giorni che lascia Sapporo per i colori del Hokkaido centrale, con le terrazze di lavanda della Farm Tomita, lo Stagno Blu color cobalto di Biei e le cabine illuminate da lanterne di Ningle Terrace.",
+  "shortDescription": "Un tour estivo di due giorni che lascia Sapporo per i colori del Hokkaido centrale, con le terrazze di lavanda della Farm Tomita, lo Stagno Blu color cobalto di Biei e le cabine illuminate da lanterne di Ningle Terrace.",
+  "fullDescription": "L'estate del Hokkaido ha una finestra breve e spettacolare, e questo tour di due giorni e costruito per cogliere proprio quel momento. Lasciate Sapporo per l'interno dell'isola, dove le terre agricole attorno a Furano e Biei si trasformano in fasce di colore che attirano visitatori da tutto il Giappone. Il punto centrale e la Farm Tomita, le cui terrazze di lavanda scendono a strisce viola lungo la collina e profumano l'aria per tutto il tempo che ci passate. Il momento giusto conta molto con la lavanda, cosi dopo meta agosto il tour si sposta invece a Shikisai-no-oka, dove le strisce di fiori mantengono il loro colore piu avanti nella stagione e l'effetto e altrettanto sorprendente. Lo Stagno Blu di Biei e l'altro punto di riferimento del viaggio, uno specchio d'acqua immobile color cobalto con alberi morti che si ergono al suo interno, un luogo che appare irreale nelle fotografie e solo un po' meno dal vivo. I due giorni si concludono a Ningle Terrace, una serie di piccole cabine artigianali in legno collegate da sentieri boschivi e illuminate da lanterne dopo il tramonto, il finale tranquillo e suggestivo che il viaggio merita. Distribuire tutto questo su due giorni invece di comprimerlo in uno fa la differenza tra correre tra un punto panoramico e l'altro e trovarsi davvero in un luogo. Le distanze nel Hokkaido centrale sono lunghe, la luce e migliore la mattina presto e la sera tardi, e un pernottamento permette di usare entrambi gli estremi della giornata invece di passarli sulla strada.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-morning-tour": {
+  "title": "Percorso d'Oro di Sapporo: Passeggiata Mattutina tra la Torre dell'Orologio e la Torre della TV",
+  "metaTitle": "Sapporo: percorso d'oro al mattino",
+  "metaDescription": "Una passeggiata mattutina guidata di due ore lungo il percorso d'oro di Sapporo, che collega la torre della TV, la torre dell'orologio e l'ufficio in mattoni rossi con commenti di un esperto.",
+  "shortDescription": "Una passeggiata mattutina guidata di due ore lungo il percorso d'oro di Sapporo, che collega la torre della TV, la torre dell'orologio e l'ufficio in mattoni rossi con commenti di un esperto.",
+  "fullDescription": "Se avete solo una mattina a Sapporo, il Percorso d'Oro e la camminata che riassume la citta, e questa versione guidata di due ore la copre bene. Iniziate alla torre della TV di Sapporo, all'ingresso di Odori, dove avete una buona mezz'ora per godere della vista lungo il parco e lasciare che la vostra guida vi spieghi la struttura della citta che si estende sotto di voi. Sapporo e stata pianificata piuttosto che crescere spontaneamente, e vedere quella griglia dall'alto prima di percorrerla a piedi rende piu facile leggere tutto cio che segue. Dalla torre il percorso va a piedi verso ovest fino alla torre dell'orologio di Sapporo, il modesto edificio in legno diventato l'emblema della citta, dove la vostra guida illustra la sua storia e perche una struttura cosi semplice sia cosi importante per le persone che vivono qui. La camminata si conclude all'ex ufficio governativo del Hokkaido, l'edificio in mattoni rossi arretrato nei propri terreni, la cui architettura racconta molto sulle ambizioni dell'epoca in cui il Hokkaido fu sviluppato. Durante tutto il percorso, il valore sta nel commento: sono tre monumenti che potreste trovare da soli in venti minuti con una mappa, ma sapere cosa significassero e come si collegano tra loro trasforma una lista di cose da vedere in una storia coerente su come questa citta sia venuta a esistere. L'intero percorso e pianeggiante, centrale e facilmente percorribile a piedi, e finire prima di mezzogiorno lascia il resto della giornata libero per i mercati, il cibo o una gita fuori citta.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-noboribetsu-full-day-tour": {
+  "title": "Lago Toya, Showa Shinzan e la Valle Infernale di Noboribetsu: Gita di un Giorno",
+  "metaTitle": "Lago Toya, Showa Shinzan e Valle Infernale di Noboribetsu",
+  "metaDescription": "Una gita in pullman di una giornata intera nel sud del Hokkaido con il lago Toya, la Lake Hill Farm, Showa Shinzan e le fumarole della Valle Infernale di Noboribetsu.",
+  "shortDescription": "Una gita in pullman di una giornata intera nel sud del Hokkaido con il lago Toya, la Lake Hill Farm, Showa Shinzan e le fumarole della Valle Infernale di Noboribetsu.",
+  "fullDescription": "Il sud del Hokkaido e terra di vulcani, e questa gita di una giornata intera da Sapporo vi mostra cosa significhi davvero. Dopo circa due ore di pullman arrivate al lago Toya, un ampio lago di caldera circondato da colline, dove avete un'ora per camminare lungo la riva, fare fotografie, visitare i negozi e ascoltare dalla vostra guida come si sia formato il lago. Un breve tragitto vi porta alla Lake Hill Farm per una sosta in aperta campagna pastorale, il tipo di ampio paesaggio verde che ricorda molto piu il nord Europa che il resto del Giappone. Da li il percorso continua verso Showa Shinzan, il giovane duomo lavico che si e spinto fuori dal campo di un contadino in tempi relativamente recenti e che ancora fuma leggermente in cima. Qui avete un'ora di tempo libero per il pranzo e un vero riposo prima dell'ultima e piu drammatica tappa della giornata. La Valle Infernale di Noboribetsu e un grezzo bacino vulcanico di fumarole, rocce colorate dallo zolfo e ruscelli caldi, e le passerelle vi permettono di avvicinarvi abbastanza da sentire il calore che sale dal terreno. In base alla stagione, la giornata include anche il Meisui Park fuori dall'inverno o un'avventura in motoslitta una volta arrivata la neve, cosi il viaggio cambia carattere durante l'anno. Sono offerti due punti di partenza e due punti di arrivo, cosi potete unirvi e concludere dove preferite, e l'intera giornata si passa in un comodo pullman con la guida gestita per voi.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-noboribetsu-group-tour": {
+  "title": "Lago Toya, Niseko e Noboribetsu: Tour Stagionale di un Giorno in Piccolo Gruppo",
+  "metaTitle": "Lago Toya, Niseko e Noboribetsu in piccolo gruppo",
+  "metaDescription": "Un tour di un giorno di dieci ore in piccolo gruppo da Sapporo attraverso le terre agricole del lago Toya, i parchi di Niseko e la citta termale di Noboribetsu.",
+  "shortDescription": "Un tour di un giorno di dieci ore in piccolo gruppo da Sapporo attraverso le terre agricole del lago Toya, i parchi di Niseko e la citta termale di Noboribetsu.",
+  "fullDescription": "Il sud del Hokkaido in primavera e in estate non assomiglia a nessun altro luogo in Giappone, e questo tour di dieci ore in piccolo gruppo e costruito specificamente per queste stagioni. Il percorso collega tre dei luoghi piu conosciuti della regione in un'unica giornata, con non piu di nove partecipanti a bordo, il che mantiene il veicolo confortevole e le soste flessibili. Attorno al lago Toya l'attrazione sono le fattorie: pascoli aperti e ondulati che scendono verso un ampio lago di caldera, con lunghe vedute verdi che fanno paragonare questa parte del Giappone all'Europa. Il tour dedica tempo a questa bella campagna invece di trattare il lago come una semplice sosta fotografica. Niseko, piu conosciuta a livello internazionale per il suo inverno, e un luogo completamente diverso una volta sciolta la neve, e i suoi parchi vi offrono il paesaggio montano senza l'affollamento della stagione sciistica. Noboribetsu completa il trio, la citta termale il cui paesaggio vulcanico e la cosa piu spettacolare della regione. Viaggiare in piccolo gruppo fa una vera differenza in una giornata cosi lunga: l'imbarco e rapido, il gruppo si muove facilmente insieme, e c'e molto meno dell'attesa che consuma un tour in grande pullman. Essendo stagionale, la giornata e costruita per mostrare il Hokkaido primaverile ed estivo al suo meglio, una versione dell'isola che la maggior parte dei visitatori internazionali, che vengono per la neve fresca, non riesce mai a vedere.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-noboribetsu-private-tour": {
+  "title": "Noboribetsu, Lago Toya e Otaru: Tour Privato di un Giorno da Sapporo",
+  "metaTitle": "Noboribetsu, lago Toya e Otaru: tour privato",
+  "metaDescription": "Un tour privato di dieci ore da Sapporo con le terme e la Valle Infernale di Noboribetsu, il panoramico lago Toya e la citta portuale di Otaru.",
+  "shortDescription": "Un tour privato di dieci ore da Sapporo con le terme e la Valle Infernale di Noboribetsu, il panoramico lago Toya e la citta portuale di Otaru.",
+  "fullDescription": "Questa gita privata di un giorno collega tre delle destinazioni piu famose del Hokkaido e vi offre un veicolo tutto per voi per l'intera durata. Noboribetsu viene per primo, la stazione termale piu famosa dell'isola, dove l'attrazione non sono solo le terme ma anche la Valle Infernale, il bacino vulcanico fumante sopra la citta che da alle terme la loro acqua. Fumarole di zolfo, rocce scolorite e ruscelli caldi fanno sembrare che il terreno si sia aperto, e le passerelle vi permettono di avvicinarvi davvero. Da li il percorso continua verso il lago Toya, un ampio lago di caldera circondato da colline, dove e il paesaggio a fare il lavoro: acqua immobile, picchi vulcanici lontani e lunghe vedute che premiano il semplice fermarsi a guardare. L'ultimo dei tre e Otaru, la piccola citta portuale il cui vecchio canale, i magazzini in pietra e le strade conservate l'hanno rese la tappa piu affascinante di qualsiasi itinerario nel Hokkaido. Fare tutte le tre tappe in un solo giorno e realistico solo con un'auto privata, poiche i collegamenti di trasporto pubblico tra di esse sono lenti e mal sincronizzati, e un tour di gruppo fisso vi farebbe correre attraverso ognuna. Qui il ritmo e l'equilibrio sono vostri. Se la Valle Infernale vi affascina, restate piu a lungo; se preferite dedicare il pomeriggio a Otaru, basta dirlo. Dieci ore con il proprio autista trasformano quello che sarebbe un estenuante puzzle logistico in una giornata di esplorazione semplice e davvero piacevole.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-private-tour": {
+  "title": "La Vostra Sapporo, al Vostro Ritmo: Giornata Privata con una Guida Locale Autorizzata",
+  "metaTitle": "Sapporo: tour privato al vostro ritmo",
+  "metaDescription": "Un tour privato di quattro o sei ore a Sapporo costruito attorno a cio che volete vedere, condotto da una guida con licenza nazionale che conosce sia la citta moderna che il suo lato piu antico.",
+  "shortDescription": "Un tour privato di quattro o sei ore a Sapporo costruito attorno a cio che volete vedere, condotto da una guida con licenza nazionale che conosce sia la citta moderna che il suo lato piu antico.",
+  "fullDescription": "Sapporo premia i visitatori che hanno qualcuno a guidarli, e questo tour privato vi offre una guida con licenza nazionale per quattro o sei ore per fare esattamente questo. Nulla della giornata e fisso in anticipo. Dite alla vostra guida cosa vi attira della citta, e il percorso viene costruito di conseguenza nel corso della giornata, sia che il vostro interesse vada verso il volto moderno della capitale del Hokkaido sia verso il lato tradizionale che si trova silenziosamente dietro di esso. Poiche il tour e privato, il ritmo vi appartiene: potete passare un'ora senza fretta in un posto che catturi la vostra attenzione, o continuare a muovervi e inserire piu cose, e nessuno vi sta aspettando su un pullman. Una guida autorizzata porta piu di semplici indicazioni. Puo spiegarvi come Sapporo differisca dalle citta di Honshu, perche abbia l'aspetto che ha, e cosa valga le vostre poche ore in un luogo che si estende piu della maggior parte delle citta giapponesi. L'aiuto pratico fa parte dell'esperienza, dal capire i trasporti al leggere un menu al sapere quale tra diverse opzioni simili sia quella che gli abitanti usano davvero. L'opzione di quattro ore si adatta a una mezza giornata concentrata, con una serie compatta di punti salienti; l'opzione di sei ore da spazio per combinare i siti centrali con un luogo piu lontano e una vera sosta per mangiare. In entrambi i casi finirete la giornata con un'idea della citta molto piu chiara di quella che vi darebbe una semplice mappa.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-seafood-food-tour": {
+  "title": "Passeggiata nella Citta Vecchia di Sapporo con Pranzo di Pesce al Mercato di Nijo",
+  "metaTitle": "Sapporo: citta vecchia e pranzo di pesce a Nijo",
+  "metaDescription": "Una passeggiata guidata tra i monumenti fondativi del centro di Sapporo e l'area di Sosei East, che si conclude con un fresco pranzo di pesce del Hokkaido al mercato di Nijo.",
+  "shortDescription": "Una passeggiata guidata tra i monumenti fondativi del centro di Sapporo e l'area di Sosei East, che si conclude con un fresco pranzo di pesce del Hokkaido al mercato di Nijo.",
+  "fullDescription": "Questa camminata guidata di due ore e mezza abbina la storia di come e nata Sapporo ai sapori che hanno reso famoso il Hokkaido. Si inizia alla torre dell'orologio di Sapporo, l'edificio in legno che ha superato tutto cio che lo circonda e che ancora scandisce il tempo nel bel mezzo di una citta moderna, dove la vostra guida illustra la storia iniziale dell'insediamento. Una breve camminata vi porta alla torre della TV di Sapporo all'estremita orientale di Odori, dove avete tempo per godere della vista lungo il parco e sentire come sia stata disegnata la griglia della citta moderna sotto di voi. Da li il percorso si sposta nell'area di Sosei East, il quartiere dove i primi inizi di Sapporo sono ancora leggibili nella disposizione delle strade e negli edifici piu antichi, e la vostra guida racconta cosa ci fosse qui prima che la citta crescesse attorno a esso. La camminata si conclude al mercato di Nijo, la fila coperta di pescivendoli e piccoli locali che ha nutrito la citta per generazioni. Qui vi sedete per un pranzo fresco e generoso tratto dalle acque del Hokkaido, con la vostra guida pronta a spiegarvi cosa e di stagione, cosa e locale e cosa vale la pena tornare a provare da soli. E un percorso facile, pianeggiante e interamente percorribile a piedi nel centro della citta, e funziona altrettanto bene come prima introduzione nella vostra mattina di apertura o come modo per riempire il contesto una volta che avete gia dato un'occhiata in giro.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-shakotan-full-day-tour": {
+  "title": "Shakotan Blue, Whisky Nikka e Otaru: Fuga Costiera di una Giornata Intera nel Hokkaido",
+  "metaTitle": "Hokkaido: Shakotan Blue, whisky Nikka e Otaru",
+  "metaDescription": "Una fuga costiera di una giornata intera da Sapporo con la distilleria Nikka Whisky Yoichi, lo Shakotan Blue di Capo Kamui, la raccolta stagionale di frutta e la vista dal monte Tengu.",
+  "shortDescription": "Una fuga costiera di una giornata intera da Sapporo con la distilleria Nikka Whisky Yoichi, lo Shakotan Blue di Capo Kamui, la raccolta stagionale di frutta e la vista dal monte Tengu.",
+  "fullDescription": "La costa a ovest di Sapporo offre il miglior paesaggio raggiungibile in un giorno dalla citta, e questa gita di dieci ore vi porta lungo di essa. La prima tappa e la distilleria Nikka Whisky Yoichi, dove avete tre quarti d'ora per esplorare al vostro ritmo tra gli edifici in pietra e i forni del luogo dove e iniziato il whisky giapponese. Da Yoichi la strada sale sulla penisola di Shakotan e arriva a Capo Kamui, dove un sentiero a piedi corre lungo un promontorio stretto fino a un punto con quasi trecento gradi di mare aperto attorno a voi. L'acqua sottostante e la ragione per cui la gente viene qui: lo Shakotan Blue e un colore davvero inusuale, e un'ora e mezza qui vi da il tempo di percorrere il capo per bene invece di guardarlo di sfuggita dal parcheggio. Segue il pranzo di nuovo a Yoichi, e il pomeriggio include la raccolta stagionale di frutta, per cui questo tratto fertile di costa e conosciuto oltre al whisky. L'ultima tappa e il monte Tengu sopra Otaru, dove poco piu di un'ora vi da la vista panoramica sul porto e sulla baia, particolarmente bella quando la luce cala. Sono disponibili due punti di partenza e due punti di arrivo, cosi potete unirvi e lasciare il tour dove vi conviene. Il viaggio avviene in pullman con tempo libero a ogni tappa, il che mantiene la giornata rilassata invece che regimentata.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-shakotan-group-tour": {
+  "title": "Otaru e la Costa di Shakotan: Giornata Stagionale in Piccolo Gruppo da Sapporo",
+  "metaTitle": "Otaru e la costa di Shakotan in piccolo gruppo",
+  "metaDescription": "Una gita stagionale di dieci ore in piccolo gruppo da Sapporo che include Zenibako, l'area dell'acquario di Otaru e il monte Tengu in inverno, o Capo Kamui, Shakotan e Otaru nei mesi piu caldi.",
+  "shortDescription": "Una gita stagionale di dieci ore in piccolo gruppo da Sapporo che include Zenibako, l'area dell'acquario di Otaru e il monte Tengu in inverno, o Capo Kamui, Shakotan e Otaru nei mesi piu caldi.",
+  "fullDescription": "Questa gita di un giorno in piccolo gruppo cambia percorso con il calendario, il modo piu sensato di gestire un tour su una costa che sembra due luoghi diversi a seconda del mese. In inverno la giornata si svolge vicino a Otaru: Zenibako lungo la costa all'andata, l'area attorno all'acquario di Otaru, e il monte Tengu che si erge dietro la citta per l'ampia vista sul porto quando tutta la baia e sotto la neve. In estate e in autunno il tour si spinge molto piu a ovest sulla penisola di Shakotan, con Capo Kamui e la costa di Shakotan prima di concludersi a Otaru stessa, il momento in cui il mare qui diventa quel blu profondo per cui la regione e conosciuta. In entrambi i casi il gruppo resta piccolo, tra sei e nove partecipanti, e questo e il punto centrale. Un gruppo di quella dimensione sale a bordo rapidamente, si muove insieme con facilita e puo essere flessibile su quanto tempo passare in un posto quando la luce e buona o il meteo cambia. C'e anche piu comfort, con piu spazio nel veicolo di quanto permetta un pullman pieno in una giornata di dieci ore. Entrambe le versioni del percorso coprono un territorio davvero difficile senza un'auto, poiche le strade costiere a ovest di Otaru sono mal servite dai trasporti pubblici, e il design stagionale significa che ottenete la versione di questa costa che vale davvero la pena vedere nel momento in cui vi capita di visitarla.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-shikotsu-group-tour": {
+  "title": "Lago Shikotsu e Jozankei: Fuga in Piccolo Gruppo di Primavera ed Estate",
+  "metaTitle": "Lago Shikotsu e Jozankei in piccolo gruppo",
+  "metaDescription": "Una gita di primavera ed estate in piccolo gruppo da Sapporo al lago Shikotsu e alla valle termale di Jozankei, con kayak, crociera, rafting, escursioni o un onsen di giornata a scelta.",
+  "shortDescription": "Una gita di primavera ed estate in piccolo gruppo da Sapporo al lago Shikotsu e alla valle termale di Jozankei, con kayak, crociera, rafting, escursioni o un onsen di giornata a scelta.",
+  "fullDescription": "Questa e la controparte estiva dei famosi inverni del Hokkaido, una giornata di nove ore e mezza che porta un piccolo gruppo fuori da Sapporo verso il lago Shikotsu e la valle termale di Jozankei. Il lago Shikotsu e uno dei laghi piu limpidi del Giappone e la prima tappa della giornata, con un paio d'ore da passarci. Cosa fare con quel tempo spetta a voi: uscire sull'acqua in kayak, fare la crociera, o semplicemente camminare lungo la riva e lasciare che la giornata si rallenti. Il gruppo e limitato a un massimo di nove ospiti, il che mantiene tutto flessibile in un modo che un tour in pullman non potrebbe permettersi. Dal lago il veicolo continua verso Jozankei, una citta termale incastonata in una valle fluviale entro i confini della stessa Sapporo, dove le opzioni si aprono di nuovo. Potete fare rafting sul fiume, fare un'escursione nella foresta circostante, o usare uno degli onsen di giornata e immergervi per un'ora o due prima del viaggio di ritorno. Il tempo libero e deliberatamente generoso durante tutto il percorso, cosi la giornata e costruita attorno alle scelte piuttosto che a una processione fissa di soste. Il trasferimento di andata e ritorno dalla stazione di Sapporo e incluso, il che conta qui perche entrambe le destinazioni sono scomode da raggiungere e combinare usando i trasporti pubblici. Il risultato e una giornata che vi mostra il lato verde e acquatico del Hokkaido che la fama invernale tende a oscurare, senza la rigidita di un grande tour organizzato.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-shopping-tour": {
+  "title": "Diga di Hoheikyo e Jozankei: Colori Autunnali, Pranzo a Buffet e Shopping all'Outlet",
+  "metaTitle": "Hoheikyo e Jozankei: colori autunnali e outlet",
+  "metaDescription": "Un classico tour di una giornata intera da Sapporo con i colori autunnali della diga di Hoheikyo e l'onsen di Jozankei, un pranzo a buffet, una passeggiata nel parco Takino e shopping all'outlet Mitsui.",
+  "shortDescription": "Un classico tour di una giornata intera da Sapporo con i colori autunnali della diga di Hoheikyo e l'onsen di Jozankei, un pranzo a buffet, una passeggiata nel parco Takino e shopping all'outlet Mitsui.",
+  "fullDescription": "L'autunno e la stagione che gli stessi abitanti del Hokkaido aspettano con ansia, e questo tour di una giornata intera vi mette nel bel mezzo di essa senza lasciare i confini della citta di Sapporo per gran parte della giornata. La prima e piu lunga tappa e la diga di Hoheikyo, in profondita nella valle a sud della citta, dove il bacino si trova sotto pendii boscosi e scoscesi che assumono ogni tonalita di rosso e arancione nella seconda meta della stagione. Un'ora e mezza qui vi da il tempo di camminare, fare fotografie e ascoltare la vostra guida invece di fermarvi semplicemente per uno scatto. Dalla diga il percorso si sposta a Jozankei, la citta termale nella stessa valle fluviale, dove il pranzo e un buffet di cibo regionale in uno spa resort, una vera pausa seduti nel bel mezzo di una lunga giornata. Il pomeriggio continua al parco collinare Takino Suzuran, un grande parco paesaggistico dove ottanta minuti di tempo libero sono sufficienti per una vera passeggiata tra gli alberi e le vedute panoramiche lungo il percorso. La giornata si chiude con una sosta all'outlet Mitsui, dove i residenti di Sapporo fanno i loro acquisti e un'utile ultima tappa se volete comprare qualcosa prima di tornare a casa. Il tour parte e finisce alla stazione di Sapporo, e l'intero percorso e pensato come un circuito classico dei migliori paesaggi autunnali della citta, con la guida e i tempi gestiti per voi.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario, pranzo a buffet"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
   ]
  },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
