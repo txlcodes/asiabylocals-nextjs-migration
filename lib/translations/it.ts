@@ -17341,6 +17341,174 @@ export const IT_TOURS: Record<string, TourT> = {
    "Permesso internazionale di guida (da organizzare prima del viaggio)\nTrasferimenti dall'hotel\nCibo e bevande\nMance"
   ]
  },
+ "shibuya-crossing-walking-tour": {
+  "title": "Tokyo a Modo Vostro: Giornata Privata a Piedi con una Guida Locale",
+  "metaTitle": "Tokyo a modo vostro: tour privato a piedi",
+  "metaDescription": "Una guida privata, nessun copione fisso: dite cosa volete da Tokyo e la giornata viene costruita attorno a quello, dall'incrocio di Shibuya ai vicoli silenziosi dei santuari.",
+  "shortDescription": "Una guida privata, nessun copione fisso: dite cosa volete da Tokyo e la giornata viene costruita attorno a quello, dall'incrocio di Shibuya ai vicoli silenziosi dei santuari.",
+  "fullDescription": "La maggior parte dei tour di Tokyo fa marciare tutti davanti agli stessi cinque monumenti nello stesso ordine. Questo inizia invece con una conversazione. La vostra guida chiede cosa volete davvero, il neon e la folla, oppure i vicoli dove nessuno sta filmando; una mattinata al tempio, o una giornata intera dedicata al cibo, e costruisce il percorso attorno a quella risposta.\n\nUna giornata tipica tocca comunque cio per cui siete venuti. L'incrocio di Shibuya vale la pena vederlo a livello strada e poi di nuovo dall'alto, e la vostra guida sa quali finestre sono gratuite e quali fanno pagare per la vista. Il santuario Meiji si trova dentro una foresta di circa 100.000 alberi, ognuno donato e piantato a mano negli anni '20, ed e a dieci minuti a piedi dal caos adolescenziale di Harajuku, un contrasto che racconta di Tokyo piu di quanto facciano entrambi i luoghi da soli. Dall'altra parte del fiume, il Senso-ji si trova ad Asakusa dal 645, il che lo rende il tempio piu antico della citta.\n\nCio che un locale cambia davvero sono i piccoli dettagli: quale vagone del treno vi porta all'uscita giusta, quale lato di Nakamise-dori percorrere per non lottare contro la folla, quale tra i banconi di ramen tutti identici sia quello per cui vale davvero la pena fare la fila. Vi muovete in treno e a piedi come fanno i residenti, non in pullman.\n\nPoiche il gruppo e solo la vostra compagnia, il ritmo si adatta. Rallentate per un lungo pranzo, saltate del tutto una tappa, sedetevi quando ne avete avuto abbastanza, nulla richiede l'approvazione di un comitato.",
+  "highlights": [],
+  "included": [
+   "Guida locale privata di lingua inglese per l'intera giornata\nPercorso completamente personalizzato pianificato con voi in anticipo\nCosti di trasporto della guida\nConsigli su percorsi e ristoranti per il resto del vostro viaggio"
+  ],
+  "notIncluded": [
+   "Le vostre tariffe di treno e metropolitana (circa 800-1.500 yen per la giornata)\nCibo e bevande\nTariffe di ingresso a templi o piani di osservazione\nRitiro in hotel fuori dal centro di Tokyo\nMance"
+  ]
+ },
+ "shikizakura-park-obara-full-day-tour": {
+  "title": "Illuminazione a Obara Shikizakura e alla Gola di Korankei: Gita di un Giorno",
+  "metaTitle": "Obara Shikizakura e Korankei in autunno",
+  "metaDescription": "Gita di un giorno che abbina i rari ciliegi a doppia fioritura di Obara all'illuminazione autunnale degli aceri della gola di Korankei.",
+  "shortDescription": "Gita di un giorno che abbina i rari ciliegi a doppia fioritura di Obara all'illuminazione autunnale degli aceri della gola di Korankei.",
+  "fullDescription": "La maggior parte dei fiori di ciliegio e del foliage autunnale del Giappone sono separati da sei mesi, il che e cio che rende inusuale il parco Shikizakura di Obara: coltiva una rara varieta di ciliegio a doppia fioritura che fiorisce di nuovo a novembre, proprio quando gli aceri attorno diventano rossi. Questa gita di un giorno dalla stazione di Nagoya approfitta di quella sovrapposizione, abbinando una visita al parco Shikizakura a una sosta serale alla gola di Korankei, uno dei luoghi di illuminazione autunnale piu celebrati della regione di Chubu.\n\nAl parco Shikizakura, circa 10.000 alberi di shikizakura sono piantati sulle colline sopra Obara, un distretto montano a nordest del centro di Nagoya, e nella stagione giusta i loro fiori rosa pallido si trovano accanto alle stesse foglie di acero rosse e dorate che normalmente vi aspettereste solo in primavera o solo in autunno, non entrambe insieme. Il gruppo passa qui circa 50 minuti godendo delle vedute collinari prima di continuare verso la gola di Korankei, una valle lungo il fiume Tomoe fiancheggiata da circa 4.000 aceri che e stata per generazioni una delle destinazioni autunnali piu rappresentative della prefettura di Aichi.\n\nMentre la luce del giorno svanisce, gli aceri di Korankei si illuminano per l'illuminazione serale, trasformando i ponti di pietra e i sentieri lungo il fiume della gola in un corridoio luminoso rosso e dorato che attira visitatori da tutta la regione. Con circa due ore previste per camminare nella gola al vostro ritmo prima che faccia completamente buio, c'e tempo per seguire il sentiero lungo il fiume, attraversare i suoi ponti ad arco e osservare il cambiamento della luce mentre l'illuminazione prende effetto, prima che il gruppo torni alla stazione di Nagoya per concludere il viaggio.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese, trasporto di andata e ritorno dalla stazione di Nagoya, ingresso al parco Shikizakura e all'area di illuminazione della gola di Korankei"
+  ],
+  "notIncluded": [
+   "Pasti e bevande, spese personali, mance"
+  ]
+ },
+ "shirakawa-go-private-tour": {
+  "title": "Percorso Privato delle Alpi in 3 Giorni: da Nagoya a Tokyo via Shirakawa-go e Nagano",
+  "metaTitle": "3 giorni: Nagoya-Tokyo via Shirakawa-go e Nagano",
+  "metaDescription": "Noleggio privato di 3 giorni a senso unico da Nagoya attraverso le Alpi giapponesi fino a Tokyo, con conclusione a Tokyo, non a Nagoya.",
+  "shortDescription": "Noleggio privato di 3 giorni a senso unico da Nagoya attraverso le Alpi giapponesi fino a Tokyo, con conclusione a Tokyo, non a Nagoya.",
+  "fullDescription": "IMPORTANTE: questo e un viaggio privato di piu giorni a senso unico che inizia a Nagoya e termina a Tokyo, non verrete riportati a Nagoya, quindi pianificate il vostro viaggio successivo o il volo di ritorno dalla parte di Tokyo. Viaggiando con un veicolo privato noleggiato solo per il vostro gruppo, i tre giorni attraversano il cuore montuoso del Giappone centrale invece di seguire la rotta costiera dello Shinkansen che prende la maggior parte dei visitatori tra le due citta.\n\nIl primo giorno parte da Nagoya verso Shirakawa-go, un villaggio patrimonio mondiale UNESCO di fattorie gassho-zukuri con tetti di paglia a pendenza ripida costruite per far scivolare la neve pesante di montagna, prima di continuare verso la citta costiera di Toyama per la prima sosta notturna. Il secondo giorno si dirige verso le Alpi del Giappone settentrionale fino a Hakuba, una nota citta di stazioni sciistiche incorniciata da picchi spettacolari, poi verso Nagano, una citta costruita attorno al suo storico complesso del tempio Zenko-ji e conosciuta come porta d'accesso agli altopiani circostanti, per la seconda notte.\n\nL'ultimo giorno segue un tratto del vecchio Nakasendo, una delle cinque rotte commerciali ufficiali del periodo Edo che collegava Edo (la Tokyo moderna) con Kyoto attraverso le montagne, fermandosi a Narai-juku, una delle citta di posta meglio conservate della rotta, prima di visitare il castello di Matsumoto, uno dei pochi torrioni di castello originali in legno del Giappone, e la vicina via Nakamachi. Il veicolo privato continua poi verso Tokyo, arrivando la sera mentre il tour si conclude li. Poiche il gruppo viaggia privatamente, il ritmo puo adattarsi attorno a soste fotografiche, pasti e pause di riposo per tutti e tre i giorni.",
+  "highlights": [],
+  "included": [
+   "Guida e autista privati di lingua inglese, veicolo privato noleggiato per tutti i 3 giorni, trasporto tra tutte le tappe elencate da Nagoya a Tokyo"
+  ],
+  "notIncluded": [
+   "Alloggio per 2 notti, pasti e bevande, tariffe di ingresso a Shirakawa-go, al castello di Matsumoto e ad altri siti, spese personali, mance"
+  ]
+ },
+ "tateyama-kurobe-alpine-route-private-day-tour": {
+  "title": "Il Percorso Alpino di Tateyama Kurobe: Muraglie di Neve e il Tetto del Giappone, con Guida Privata",
+  "metaTitle": "Percorso alpino di Tateyama Kurobe, guida privata",
+  "metaDescription": "Una giornata intera privata attraverso l'alta traversata alpina del Giappone, funivie, ferrovie a fune e autobus in tunnel fino all'altopiano di Murodo a 2.450 metri, con ritiro in hotel incluso.",
+  "shortDescription": "Una giornata intera privata attraverso l'alta traversata alpina del Giappone, funivie, ferrovie a fune e autobus in tunnel fino all'altopiano di Murodo a 2.450 metri, con ritiro in hotel incluso.",
+  "fullDescription": "Il percorso alpino di Tateyama Kurobe e una traversata piuttosto che una destinazione. Sale dal fondo valle all'altopiano di Murodo a 2.450 metri usando una catena di funivie, ferrovie a fune e autobus elettrici che attraversano la montagna, e il motivo della sua fama e cio che accade in primavera: la strada viene liberata attraverso un manto nevoso profondo fino a venti metri, lasciando un corridoio con muraglie di neve che si innalzano su entrambi i lati.\n\nIl percorso cambia completamente con la stagione. Muraglie di neve da aprile a giugno. Aria alpina limpida e terreno vulcanico durante l'estate. Da settembre a ottobre, rosso e oro lungo le creste, uno dei colori autunnali piu precoci e spettacolari del Giappone, perche a questa altitudine cambia settimane prima delle pianure.\n\nIl motivo pratico per andarci privatamente e il transito stesso. Il percorso e una catena a piu fasi con orari fissi, biglietti separati in diverse fasi e code che si formano rapidamente in alta stagione, e sbagliare costa ore. La vostra guida gestisce la pianificazione e gli acquisti dei biglietti sul posto, naviga i trasferimenti, e scatta le vostre fotografie mentre voi guardate le montagne invece di un tabellone delle partenze.\n\nIl ritiro e il rientro in hotel con veicolo privato sono inclusi, insieme a ogni pedaggio, tariffa di parcheggio e tutto il carburante. Il gruppo e la vostra sola compagnia, limitato a sette persone.\n\nSono offerti due punti di partenza: un giro da Nagano di dodici ore, o da Matsumoto di undici. Il pranzo non e incluso, e ci sono posti dove mangiare sull'altopiano. Il meteo a 2.450 metri e un'altra storia, portate uno strato in piu indipendentemente da cosa dicano le previsioni in valle.",
+  "highlights": [],
+  "included": [
+   "Guida privata locale di lingua inglese per l'intera giornata\nRitiro e rientro in hotel con veicolo privato\nTutti i pedaggi autostradali, le tariffe di parcheggio e il carburante\nNavigazione del percorso sul posto, assistenza con i biglietti e fotografia"
+  ],
+  "notIncluded": [
+   "Pranzo e cibo e bevande personali\nBiglietti del transito del percorso alpino dove non indicato\nSouvenir e acquisti personali"
+  ]
+ },
+ "togoshi-ginza-shotengai-food-tour": {
+  "title": "Passeggiata Gastronomica a Togoshi Ginza: la Via Commerciale piu Lunga di Tokyo",
+  "metaTitle": "Togoshi Ginza: la via commerciale piu lunga di Tokyo",
+  "metaDescription": "Lo shotengai piu lungo di Tokyo, 1,3 km di negozi quasi senza turisti, da assaggiare per bene in tre ore.",
+  "shortDescription": "Lo shotengai piu lungo di Tokyo, 1,3 km di negozi quasi senza turisti, da assaggiare per bene in tre ore.",
+  "fullDescription": "Uno shotengai e una via commerciale locale coperta, e Togoshi Ginza e la piu lunga di Tokyo, circa 1,3 chilometri e circa 400 negozi, in una zona residenziale di Shinagawa che quasi nessun visitatore raggiunge, a pochi minuti dal centro eppure vive interamente del commercio di quartiere.\n\nQuesto conta perche il cibo qui e pensato e prezzato per le persone che vivono vicino e tornano ogni settimana. Il nome e preso in prestito: dopo il grande terremoto del Kanto del 1923 la strada fu ricostruita usando mattoni per pavimentazione recuperati dalle linee del tram distrutte di Ginza, e con essi prese anche il nome. Decine di strade in tutta Tokyo copiarono poi quel suffisso; questa e quella che se lo e guadagnato.\n\nLa passeggiata mangia attraverso la strada invece di fermarsi in un solo posto. Karaage da una friggitrice che non fa altro, okonomiyaki cucinato sulla piastra davanti a voi, crocchette consegnate calde nella carta, e una sosta in un izakaya verso la fine. La vostra guida spiega per cosa e famoso ogni negozio e da quanto tempo e li, diversi sono attivita familiari tramandate di generazione in generazione, e i banconi sono abbastanza piccoli che chi cucina e di solito il proprietario.\n\nLe serate sono il momento in cui funziona meglio. Le serrande che erano a meta abbassate nel pomeriggio sono alzate, i pendolari tornano a casa con le borse della spesa, e gli izakaya sono aperti. Circa 2 km di camminata pianeggiante sotto una galleria, quindi la pioggia non e un problema, e il cibo e abbastanza sostanzioso da essere una cena. Diete strettamente vegetariane e halal sono difficili qui e vanno segnalate presto, negozio per negozio.\n\nE l'opposto di un tour gastronomico a Tsukiji: nessuna fila, nessun menu in inglese, nessun altro gruppo.",
+  "highlights": [],
+  "included": [
+   "Guida locale di lingua inglese per tre ore\nTutti gli assaggi di cibo lungo la via\nMenu izakaya con piatti\nStorie e contesto su ogni negozio"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche oltre a quelle incluse\nTrasferimenti dall'hotel\nTariffa del treno fino al punto d'incontro\nMance"
+  ]
+ },
+ "tokoname-full-day-tour": {
+  "title": "Il Sentiero della Ceramica di Tokoname: Gita di un Giorno nella Citta delle Antiche Fornaci",
+  "metaTitle": "Tokoname: sentiero della ceramica in un giorno",
+  "metaDescription": "Gita di una giornata intera al Sentiero della Ceramica storico di Tokoname, fiancheggiato da muri di fornaci e statue di gatti della fortuna.",
+  "shortDescription": "Gita di una giornata intera al Sentiero della Ceramica storico di Tokoname, fiancheggiato da muri di fornaci e statue di gatti della fortuna.",
+  "fullDescription": "Tokoname e una delle Sei Antiche Fornaci del Giappone, un gruppo di regioni di produzione ceramica la cui storia produttiva ininterrotta risale a circa mille anni fa, e questa gita di una giornata intera da Nagoya e costruita per esplorarla a piedi, con un ritmo senza fretta. Invece di una panoramica da museo, la giornata si concentra sul Yakimono Sanpo-michi, il Sentiero della Ceramica, una strada tortuosa attraverso il vecchio distretto delle fornaci dove i muri stessi sono costruiti con tubi di argilla impilati, bottiglie di sake scartate e frammenti di ceramica non smaltata cotti decenni fa.\n\nVagando lungo il sentiero, passate accanto a ciminiere in mattoni di forni a salita (noborigama) da tempo in disuso, piccoli laboratori che ancora produce teiere e vasi da giardino, e una sparsa serie di statue di maneki-neko, i gatti della fortuna, poiche Tokoname e anche il piu grande produttore giapponese di questi gatti ceramici che chiamano la fortuna. Vicoli stretti si aprono su vedute inaspettate verso il mare, e tutto il distretto ha un fascino vissuto e non levigato che sembra molto lontano dai grattacieli del centro di Nagoya, nonostante sia a appena mezz'ora di treno.\n\nLa posizione costiera della citta vicino all'aeroporto internazionale di Chubu Centrair significa anche che il viaggio ha un ritmo facile e tranquillo, con tempo previsto per visitare i negozi di ceramica, osservare gli artigiani al lavoro e portare a casa un pezzo fatto a mano. E una buona scelta per i viaggiatori che preferiscono vagare per strade vere piuttosto che spuntare grandi monumenti, e per chiunque sia curioso delle tradizioni artigianali che si trovano appena fuori dalle grandi citta del Giappone. Si consigliano scarpe comode, poiche la maggior parte della giornata si passa camminando lungo il sentiero e i vicoli circostanti a un ritmo rilassato.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese, trasporto di andata e ritorno tra Nagoya e Tokoname, passeggiata guidata del Sentiero della Ceramica"
+  ],
+  "notIncluded": [
+   "Pasti e bevande, acquisti di ceramica, spese personali, mance"
+  ]
+ },
+ "tokyo-akihabara-anime-manga-maid-cafe-tour": {
+  "title": "Akihabara con una Guida Anime: Piani di Manga, Giochi Retro e un Maid Cafe",
+  "metaTitle": "Akihabara: anime, manga e maid cafe",
+  "metaDescription": "Tre ore attraverso i negozi di anime e giochi di Akihabara con una guida che conosce i piani che vale la pena salire, con una visita a un maid cafe, bevanda e foto incluse.",
+  "shortDescription": "Tre ore attraverso i negozi di anime e giochi di Akihabara con una guida che conosce i piani che vale la pena salire, con una visita a un maid cafe, bevanda e foto incluse.",
+  "fullDescription": "Akihabara e quasi impossibile da navigare senza aiuto. E stata il quartiere dell'elettronica per cinquant'anni ed e oggi il centro della cultura di anime, manga e videogiochi in Giappone, ma i negozi che contano sono impilati verticalmente, otto piani di un edificio dove ogni livello vende qualcosa di completamente diverso, senza nulla per strada che vi dica quale sia quello che vi interessa.\n\nUna guida che segue questo mondo risolve il problema. La passeggiata copre i negozi di manga e anime su piu piani, i negozi di giochi retro dove si trova la merce interessante, e i posti specializzati che sono praticamente invisibili per chiunque non sappia leggere le insegne. Se cercate qualcosa in particolare, ditelo all'inizio; la guida saprà quale piano di quale edificio portarvi a vedere.\n\nIl maid cafe e la parte di cui la gente parla di piu. E l'istituzione piu discussa del quartiere e anche la piu incompresa: il formato e deliberatamente teatrale e adatto alle famiglie, piu simile a un ristorante a tema con uno spettacolo sul palco che a qualsiasi altra cosa. Il tour standard include un'ora li dentro con una bevanda e una foto. Esiste anche una versione tutto incluso con due ore nel caffe, un dessert e uno spettacolo di danza dal vivo, e una versione solo a piedi che salta del tutto il maid cafe se non e per voi.\n\nI gruppi sono limitati a dieci persone e la guida lavora in inglese. Il percorso e accessibile in sedia a rotelle. Il merchandising non e incluso e vorrete portare soldi per quello, questo e il quartiere dove la moderazione fallisce.\n\nIl punto d'incontro e davanti alla biglietteria appena fuori dal cancello di Electric Town della stazione JR di Akihabara, che e l'uscita giusta e non quella ovvia.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese esperta di anime e giochi\nTour a piedi dei negozi di anime, manga e giochi di Akihabara\nUn'ora di ingresso al maid cafe con bevanda e foto (nel tour standard)\nDue ore nel maid cafe con dessert e spettacolo di danza dal vivo (nell'opzione tutto incluso)"
+  ],
+  "notIncluded": [
+   "Cibo e bevande aggiuntivi\nAcquisti di merchandising\nRitiro e rientro in hotel\nIngresso al maid cafe nell'opzione solo a piedi"
+  ]
+ },
+ "tokyo-akihabara-game-boy-modding-workshop": {
+  "title": "Modificate il Vostro Game Boy ad Akihabara: Schermo IPS Retroilluminato e Scocca Personalizzata",
+  "metaTitle": "Akihabara: modifica di un Game Boy",
+  "metaDescription": "Smontate un vero Game Boy Advance, montate uno schermo IPS retroilluminato e una scocca nel colore che scegliete, e tornate a casa con una console che avete ricostruito voi stessi.",
+  "shortDescription": "Smontate un vero Game Boy Advance, montate uno schermo IPS retroilluminato e una scocca nel colore che scegliete, e tornate a casa con una console che avete ricostruito voi stessi.",
+  "fullDescription": "Il piu grande punto debole del Game Boy originale era lo schermo, un LCD riflettente da inclinare verso una lampada, motivo per cui il mercato degli accessori degli anni '90 era pieno di lucine a clip. Trent'anni dopo, un moderno pannello IPS retroilluminato si inserisce nella stessa scocca e trasforma completamente la macchina. Questo laboratorio vi permette di fare quella conversione da soli, ad Akihabara, dove il commercio di pezzi di ricambio ha sempre vissuto.\n\nScegliete la vostra console al momento della prenotazione: l'originale DMG-01 del 1989, oppure il Game Boy Advance con il suo schermo piu largo e la libreria a 32 bit molto piu ampia. Ogni unita viene testata e verificata prima della vostra sessione, quindi non state risolvendo i problemi di un hardware rotto di qualcun altro.\n\nLa sessione e davvero pratica. Smontate la console con le vostre mani, installate lo schermo IPS retroilluminato, cambiate i pulsanti, e montate una scocca nel colore che scegliete, l'intero senso e che l'oggetto finito sia inequivocabilmente vostro. Lo staff di lingua inglese, che ha davvero a cuore questo mondo, vi guida attraverso ogni fase, e non e richiesta alcuna esperienza tecnica; la maggior parte delle persone arriva senza aver mai aperto un pezzo di elettronica.\n\nC'e uno scaffale di cartucce originali da giocare sul posto mentre lavorate, dove tende ad andare una buona parte della sessione.\n\nIl gruppo e limitato a sei persone, e il laboratorio si trova al settimo piano di un edificio a Kanda, pochi minuti dalla via principale di Akihabara. Non sono due ore economiche, ma ve ne andrete con una console funzionante e modificata invece che con una fotografia, e funzionera ancora dopo vent'anni.",
+  "highlights": [],
+  "included": [
+   "Modifica pratica di un Game Boy o Game Boy Advance originale\nInstallazione dello schermo IPS retroilluminato\nColore della scocca personalizzato a vostra scelta\nSostituzione dei pulsanti\nTutti gli strumenti e i materiali\nGuida da parte dello staff di lingua inglese\nCartucce originali da giocare durante la sessione"
+  ],
+  "notIncluded": [
+   "Console o pezzi aggiuntivi\nRitiro e rientro in hotel\nCibo e bevande"
+  ]
+ },
+ "tokyo-asakusa-coin-ring-making-workshop": {
+  "title": "Trasformate una Moneta Giapponese in un Anello: Un'Ora con gli Artigiani del Metallo di Asakusa",
+  "metaTitle": "Asakusa: trasformare una moneta in un anello",
+  "metaDescription": "Martellate una vera moneta giapponese per trasformarla in un anello o ciondolo indossabile in un laboratorio di Asakusa per cinque persone, con gli artigiani che si occupano delle parti difficili.",
+  "shortDescription": "Martellate una vera moneta giapponese per trasformarla in un anello o ciondolo indossabile in un laboratorio di Asakusa per cinque persone, con gli artigiani che si occupano delle parti difficili.",
+  "fullDescription": "Una moneta giapponese da cinque yen ha un buco al centro, motivo per cui compare nelle offerte dei templi: la parola per indicarla, go-en, e omofona di fortuna e connessione. Si da anche il caso che abbia esattamente la forma giusta per diventare un anello, e questo e l'oggetto di questa ora.\n\nIl processo e davvero pratico. Partite da una vera moneta, e lavorando il metallo verso l'esterno dal buco centrale e martellandolo su un mandrino, il disco piatto diventa gradualmente una fascia. Suona implausibile finche non lo vedete accadere. Gli artigiani gestiscono le parti che richiedono vera abilita e un'incudine vera, e vi restituiscono il pezzo tra una fase e l'altra, cosi quello che portate a casa e qualcosa che avete visibilmente fatto voi, non qualcosa che avete solo guardato fare.\n\nIl gruppo e limitato a cinque persone, il piu piccolo tra tutti i laboratori che elenchiamo a Tokyo, e questo fa sembrare l'ora piu una lezione con un artigiano che una classe. L'istruzione e in inglese. Strumenti e materiali sono tutti forniti, e non e richiesta alcuna esperienza; la maggior parte delle persone arriva senza aver mai tenuto in mano un martello da gioielliere.\n\nPotete fare un anello o un ciondolo in base a cosa volete ottenere. In entrambi i casi uscite indossandolo, il che e il bello della cosa: e un souvenir con una storia che entra in una tasca e vi e costato un'ora invece di una spesa per lo shopping.\n\nIl laboratorio si trova a Nishi-Asakusa, poche strade indietro dal Senso-ji e dalla via commerciale Nakamise, cosi si inserisce naturalmente in una mattinata ad Asakusa. La misurazione viene fatta il giorno stesso, quindi non c'e nulla da decidere in anticipo.",
+  "highlights": [],
+  "included": [
+   "Guida di artigiani esperti durante tutto il percorso\nUna vera moneta giapponese da lavorare\nTutti gli strumenti e i materiali\nIl vostro anello o ciondolo finito da portare a casa"
+  ],
+  "notIncluded": [
+   "Ritiro e rientro in hotel\nCibo e bevande\nPezzi aggiuntivi oltre a quello incluso"
+  ]
+ },
+ "tokyo-asakusa-kimono-yukata-rental-full-day": {
+  "title": "Noleggio di Kimono o Yukata per una Giornata Intera ad Asakusa, con Acconciatura",
+  "metaTitle": "Asakusa: noleggio kimono o yukata per un giorno",
+  "metaDescription": "Un set completo di kimono o yukata per tutta la giornata vicino alla stazione di Asakusa, acconciatura incluso, con un servizio fotografico all'aperto opzionale e quindici foto modificate.",
+  "shortDescription": "Un set completo di kimono o yukata per tutta la giornata vicino alla stazione di Asakusa, acconciatura incluso, con un servizio fotografico all'aperto opzionale e quindici foto modificate.",
+  "fullDescription": "Asakusa e il quartiere giusto in cui indossare un kimono. Il Senso-ji, la via commerciale Nakamise e le vecchie strade dietro di essa sono state costruite per la scala e il ritmo dell'abito tradizionale, e abbastanza abitanti fanno lo stesso nei giorni di festival che non vi sentirete fuori luogo.\n\nIl noleggio e un set completo: il kimono o lo yukata stesso, la cintura obi, una pochette giapponese, sandali e calzini, ed e vostro per tutta la giornata invece che per un'ora, il che e la differenza tra una sosta fotografica e passare davvero la giornata vestiti cosi. L'acconciatura e inclusa per le donne.\n\nKimono e yukata non sono lo stesso indumento e la scelta conta. Un kimono e a strati e si indossa tutto l'anno; uno yukata non e fodrato, piu leggero e fresco, si indossa in estate, e disponibile da giugno a settembre. Se prenotate il piano yukata e cambiate idea il giorno stesso, potete passare al kimono con un piccolo sovrapprezzo sul posto.\n\nIl servizio fotografico e opzionale ma deve essere prenotato in anticipo, lo studio di solito non puo aggiungerlo il giorno stesso. Lo scatto dura venti minuti per una persona, trenta per due, quarantacinque per tre o piu, all'aperto ad Asakusa. Ogni persona riceve quindici fotografie modificate scaricabili, corrette nella luminosita e nel colore, con extra disponibili da acquistare.\n\nUna nota pratica dall'operatore: gli indumenti vanno bene fino a una circonferenza fianchi di 130 cm. Verificatelo prima della prenotazione invece che all'arrivo.\n\nIl negozio si trova al quarto piano di un edificio vicino all'uscita nord della stazione di Asakusa sulla linea Tobu Skytree, prendete l'ascensore. I gruppi sono limitati a sei persone e i locali sono accessibili in sedia a rotelle.",
+  "highlights": [],
+  "included": [
+   "Set completo di kimono: kimono, cintura obi, pochette giapponese, sandali e calzini\nSet completo di yukata da giugno a settembre\nAcconciatura (donne)\nVestizione a cura dello staff\nServizio fotografico all'aperto con quindici foto modificate nei piani con servizio fotografico"
+  ],
+  "notIncluded": [
+   "Fotografie aggiuntive oltre alle quindici incluse\nCambio da yukata a kimono il giorno stesso (piccolo sovrapprezzo sul posto)\nRitiro e rientro in hotel\nCibo e bevande"
+  ]
+ },
+ "tokyo-asakusa-samurai-ninja-museum-shuriken-throwing": {
+  "title": "Museo dei Samurai e dei Ninja ad Asakusa: Ora Guidata con Lancio di Shuriken",
+  "metaTitle": "Asakusa: museo samurai e ninja con lancio di shuriken",
+  "metaDescription": "Un'ora con armature e armi vere, una guida che separa la storia dai film, e una prova di lancio di stelle ninja, a meno di ventotto dollari.",
+  "shortDescription": "Un'ora con armature e armi vere, una guida che separa la storia dai film, e una prova di lancio di stelle ninja, a meno di ventotto dollari.",
+  "fullDescription": "Samurai e ninja sono le due figure giapponesi su cui quasi tutti arrivano con un'opinione gia fatta, e quasi tutta quell'opinione deriva dal cinema. Questo piccolo museo ad Asakusa esiste per correggerla, e l'ora e ben spesa proprio perche una guida vi accompagna invece di lasciarvi leggere i cartelli.\n\nLa collezione e vera attrezzatura, non scenografie: armature, lame e gli strumenti di lavoro di entrambi i mestieri, con la guida che spiega a cosa serviva ogni pezzo e come veniva davvero usato. La storia dei samurai e quella piu sorprendente per la maggior parte dei visitatori, una classe guerriera ereditaria che passo lunghi periodi della sua storia come burocrati e proprietari terrieri piuttosto che duellanti, il cui codice venne formalizzato in gran parte dopo che i combattimenti erano finiti. Il materiale sui ninja e l'opposto: molto meno romantico di quanto suggeriscano i film, piu vicino allo spionaggio e al sabotaggio che all'acrobatica, e molta di cio che la gente crede su di essi fu inventato nel ventesimo secolo.\n\nLa parte che tutti ricordano arriva alla fine. Lanciate gli shuriken, le lame a forma di stella, verso un obiettivo sotto istruzione, ed e immediatamente evidente che la tecnica non ha nulla a che vedere con il movimento del polso che avete visto sullo schermo.\n\nI gruppi sono limitati a dieci persone, il che mantiene l'atmosfera conversazionale, e la guida lavora in inglese. Il biglietto d'ingresso e la sessione di lancio sono entrambi inclusi nel prezzo, quindi non c'e nulla extra alla porta. E accessibile in sedia a rotelle.\n\nCon un'ora e meno di trenta dollari si inserisce facilmente in una mattinata ad Asakusa insieme al Senso-ji e a Nakamise-dori, e funziona particolarmente bene con i bambini, che tendono a uscire piu informati di quanto gli adulti si aspettassero.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso al museo\nTour guidato con una guida di lingua inglese\nEsperienza di lancio di shuriken (stelle ninja)"
+  ],
+  "notIncluded": [
+   "Ritiro e rientro in hotel\nCibo e bevande\nNoleggio costume dove offerto separatamente"
+  ]
+ },
+ "tokyo-asakusa-samurai-sword-lesson-armour-museum": {
+  "title": "Lezione di Spada Samurai ad Asakusa: Hakama, Armatura e Due Ore di Istruzione",
+  "metaTitle": "Asakusa: lezione di spada samurai e armatura",
+  "metaDescription": "Due ore imparando vere forme di spada in hakama, indossando un'armatura samurai per le fotografie, con il tour del museo incluso.",
+  "shortDescription": "Due ore imparando vere forme di spada in hakama, indossando un'armatura samurai per le fotografie, con il tour del museo incluso.",
+  "fullDescription": "Questa e la versione piu lunga e pratica di una visita alla collezione di samurai e ninja ad Asakusa. Il tour del museo ne fa parte, ma la sostanza e la lezione di spada, che occupa la maggior parte delle due ore.\n\nVi cambiate indossando l'hakama, i pantaloni a pieghe usati per il kenjutsu e ancora indossati nel kendo, prima di qualsiasi altra cosa, perche muoversi correttamente e difficile con abiti ordinari e l'indumento fa parte della tecnica. Segue una vera istruzione piuttosto che un'occasione fotografica con un oggetto di scena: come stare in piedi, come tenere l'arma con entrambe le mani che fanno lavori diversi, come viene davvero eseguito un taglio, e perche quasi ogni rappresentazione sullo schermo sbaglia tutti e tre questi aspetti. Le forme che imparate sono quelle di base che verrebbero insegnate a un principiante in un dojo, e sono piu difficili di quanto sembrino.\n\nIndossate anche un set di armatura samurai, il che vale la pena fare solo per il peso. Una o-yoroi completa arrivava a circa trenta chilogrammi, e nel momento in cui la indossate, moltissime cose su come combattevano davvero i samurai, e sul perche la cavalleria e il tiro con l'arco contassero piu dei duelli, diventano evidenti. Fotografie a tema vengono scattate mentre la indossate.\n\nIl tour guidato della collezione si svolge attorno alla sessione, coprendo le armature, le lame e l'attrezzatura esposta e separando la storia documentata dalla mitologia che e cresciuta attorno a essa in seguito.\n\nI gruppi sono limitati a dieci persone e l'istruzione e in inglese. E accessibile in sedia a rotelle. Se volete la versione piu breve, elenchiamo anche l'ingresso al museo di un'ora con il lancio delle stelle ninja, un'esperienza diversa e piu economica.",
+  "highlights": [],
+  "included": [
+   "Lezione di spada samurai con istruzione in inglese\nUso dell'hakama\nUso dell'armatura samurai\nOccasioni fotografiche a tema\nTour guidato del museo dei samurai e dei ninja"
+  ],
+  "notIncluded": [
+   "Ritiro e rientro in hotel\nCibo e bevande\nFotografie stampate dove a pagamento separato"
+  ]
+ },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
   "title": "Raccolta frutta a Yoichi, la distilleria Nikka e la costa di Shakotan",
   "metaTitle": "Raccolta frutta, distilleria Nikka e costa di Shakotan",
