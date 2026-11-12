@@ -16379,6 +16379,426 @@ export const IT_TOURS: Record<string, TourT> = {
    "Spese personali, pasti se non specificati, mance"
   ]
  },
+ "osaka-foodie-food-tour": {
+  "title": "Osaka Centro: Tour Gastronomico nei Vicoli Nascosti",
+  "metaTitle": "Tour gastronomico nei vicoli di Osaka",
+  "metaDescription": "Una serata gastronomica di tre ore lontano dai percorsi turistici, con piu tappe, piatti e bevande e storie locali autentiche.",
+  "shortDescription": "Saltate i percorsi turistici e unitevi a esperti locali per una serata gastronomica di 3 ore in centro! 5 tappe, 13 piatti, 2 bevande e storie vere da guide che conoscono i tesori nascosti della citta. Arrivate affamati, tornate felici",
+  "fullDescription": "La via principale di Dotonbori e dove mangiano i turisti; i vicoli a pochi minuti di distanza sono dove mangia davvero Osaka, e proprio questo scarto e cio che questo tour serale di tre ore vuole colmare. I numeri dicono tutto sul tipo di serata che vi aspetta: cinque tappe, tredici piatti e due bevande, distribuiti tra locali del centro che le guide locali hanno scelto proprio perche lontani dai percorsi battuti. Vi incontrate alla sera e vi immergete subito nel tipo di posti davanti ai quali passereste senza una seconda occhiata se fosse per voi soli: piccoli banconi e ristoranti di quartiere dove i menu sono in giapponese, gli habitue sono habitue veri e il cibo e pensato per i palati locali, non per le fotografie. Tredici piatti in cinque tappe significano che questa e una vera cena progressiva, non un espediente da degustazione: venire affamati e il consiglio dell'operatore stesso, e lo dice sul serio. Cio che distingue questa esperienza dal semplice mangiare lungo una strada sono le guide stesse, esperti locali che portano storie autentiche sui quartieri, sui piatti e sulle ossessioni gastronomiche della citta, cosi che tra un boccone e l'altro imparate perche Osaka viene chiamata la cucina del Giappone e come funziona davvero la sua cultura del cibo. Le due bevande incluse mantengono la serata conviviale, e il formato in piccolo gruppo nei vicoli significa che potrete davvero ascoltare le storie e fare domande invece di seguire una bandiera in mezzo alla folla. Scappare dalla trappola turistica di Dotonbori per trovare i posti che i locali custodiscono per se e tutta la premessa, e dopo cinque tappe e tredici piatti avrete assaggiato uno spaccato piu ampio e onesto del cibo di Osaka di quanto riescano a fare molti visitatori in una settimana intera. Arrivate affamati, tornate felici: non e uno slogan vuoto, e il piano della serata.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-guided-tour": {
+  "title": "Tour di un Giorno a Osaka",
+  "metaTitle": "Tour di un giorno a Osaka",
+  "metaDescription": "Un tour privato di un giorno a Osaka con auto e autista, che copre il vivace quartiere di Dotonbori, il castello di Osaka e la cultura dello street food.",
+  "shortDescription": "Un tour privato di un giorno a Osaka con auto e autista, che copre il vivace quartiere dei divertimenti di Dotonbori, lo storico castello di Osaka e la cultura dello street food della citta.",
+  "fullDescription": "Un'auto privata con autista cambia completamente l'aritmetica di una giornata a Osaka: niente mappe dei treni, niente code per i taxi, niente bagagli da trascinare per la citta, solo un veicolo confortevole, un autista che conosce le strade e una giornata intera costruita attorno alle cose essenziali della citta. Questo tour di un giorno copre le tre esperienze che definiscono Osaka: il vivace quartiere dei divertimenti di Dotonbori, il castello storico di Osaka e la cultura dello street food per cui la citta e famosa, con l'auto che gestisce ogni spostamento nel mezzo. Il castello di Osaka ancora la meta storica della giornata. La fortezza al centro della storia dell'unificazione del Giappone si trova in un vasto parco, e arrivare in auto privata significa iniziare la visita riposati invece che dopo una camminata dalla stazione, con tempo per osservare al proprio ritmo le mura di pietra, i fossati e la torre del castello. Dotonbori ancora l'altra meta: il quartiere dei divertimenti lungo il canale, le cui insegne luminose gigantesche, la folla e le file di ristoranti sono l'immagine che la maggior parte delle persone porta con se di Osaka. Tra l'uno e l'altro, la cultura dello street food della citta attraversa l'intera giornata: Osaka viene chiamata la cucina del Giappone per un buon motivo, e i banchetti di takoyaki, le piastre per l'okonomiyaki e le bancarelle di mercato non sono mai lontani dal percorso. Il formato con autista privato si adatta particolarmente a famiglie con bambini, viaggiatori che trovano faticose le lunghe camminate o i trasporti pubblici, e chiunque abbia a Osaka un tempo cosi limitato che la logistica diventa il nemico numero uno. Il vostro autista adatta il ritmo della giornata a voi: fermarsi piu a lungo al castello, aggiungere una sosta, rientrare prima, il che e il lusso silenzioso di avere l'auto e l'autista a vostra completa disposizione. I dettagli di ritiro e rientro a Osaka vengono confermati con l'operatore al momento della prenotazione. E il modo piu semplice per dedicare a Osaka una giornata intera e godersela davvero tutta.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-highlights-private-tour": {
+  "title": "Tour Privato dei Punti Salienti di Osaka con Guida e Veicolo di Lusso",
+  "metaTitle": "Tour privato dei punti salienti di Osaka",
+  "metaDescription": "Esplorate Osaka in auto privata con ritiro in hotel. Castello di Osaka, Dotonbori, mercato di Kuromon, Shinsekai e altro ancora al vostro ritmo.",
+  "shortDescription": "Esplorate Osaka in auto privata con ritiro in hotel. Scegliete un giro di 5 ore sui punti salienti o un'immersione completa di 10 ore. Castello di Osaka, Dotonbori, mercato di Kuromon, Shinsekai e altro ancora al vostro ritmo.",
+  "fullDescription": "Osaka premia i viaggiatori che possono muoversi al proprio ritmo, e questo tour privato e costruito interamente attorno a questa idea: un veicolo di lusso, un autista-guida dedicato e ritiro in hotel, con voi che decidete quanto approfondire. Scegliete il giro di cinque ore sui punti salienti se volete una panoramica efficiente e confortevole dell'essenziale, oppure l'immersione di dieci ore se volete scoprire davvero la citta, con tempo per fermarvi ovunque vi catturi l'attenzione. Il percorso classico collega le attrazioni principali di Osaka: il castello di Osaka con il suo parco, il canyon di neon di Dotonbori, le gallerie ricche di pesce del mercato di Kuromon e le strade retro di Shinsekai sotto la torre Tsutenkaku, ma nulla nella giornata e fisso. Poiche il veicolo e la guida sono esclusivamente vostri, potete riordinare le tappe, saltare quello che non vi interessa, trasformare una visita al mercato in un pranzo prolungato, o chiedere di vedere un quartiere che non fa parte di alcun itinerario standard. Viaggiare in auto privata cambia la natura della giornata: niente cambi alla stazione, niente folla da seguire, comfort climatizzato tra una tappa e l'altra, e spazio per bagagli, passeggini o gambe stanche. Si adatta particolarmente bene a famiglie con bambini, gruppi multigenerazionali e viaggiatori con un programma serrato che vogliono il massimo di Osaka per ogni ora senza gli attriti dei trasporti pubblici. La vostra guida gestisce la logistica e i racconti; voi dovete solo dire cosa vi incuriosisce, e la giornata si adatta. Il ritiro e il rientro nel vostro hotel a Osaka incorniciano il tour, porta a porta.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-night-evening-tour": {
+  "title": "Osaka: Crociera Privata Notturna Attraverso la Citta dell'Acqua",
+  "metaTitle": "Osaka: crociera privata notturna",
+  "metaDescription": "Una rilassante crociera fluviale di 60 minuti nel cuore di Osaka con una guida dal vivo in inglese e una bevanda in omaggio.",
+  "shortDescription": "Godetevi una rilassante crociera fluviale di 60 minuti nel cuore di Osaka con una guida dal vivo in inglese e una bevanda in omaggio.",
+  "fullDescription": "Osaka e stata costruita sui suoi canali: i mercanti che la resero la capitale commerciale del Giappone spostavano tutto in barca, e il vecchio nome della citta, la Citta dell'Acqua, non e uno slogan pubblicitario ma una descrizione letterale. Questa crociera privata notturna vi regala proprio quella Osaka: una rilassante crociera fluviale di 60 minuti nel cuore della citta dopo il tramonto, con una guida dal vivo in inglese e una bevanda in omaggio, senza estranei a condividere la vostra barca. La notte e il momento in cui i fiumi si guadagnano il viaggio. I ponti, le torri e gli edifici sul lungofiume della citta si illuminano e si raddoppiano nel riflesso sull'acqua, e la vista da una barca e qualcosa che nessuna passeggiata a livello strada potrebbe riprodurre: lo skyline che scorre al ritmo di una camminata, il rumore della citta attutito in un ronzio, le luci al neon che diventano bagliore invece che accecare. La vostra guida racconta dal vivo in inglese per tutta la durata, spiegando cosa state attraversando: la storia dei canali che resero ricca Osaka, i ponti e i quartieri lungo il percorso, e le storie che collegano lo skyline moderno alla citta mercantile sottostante. Poiche la crociera e privata, l'atmosfera e tutta vostra: una serata di coppia, una gita in famiglia, o un piccolo gruppo che si rilassa dopo una giornata a piedi, con la bevanda incluso in mano mentre la citta scorre davanti a voi. Sessanta minuti sono la durata giusta per una crociera notturna: abbastanza lunghi per entrare nel ritmo dell'acqua e percorrere un vero tratto della citta, abbastanza brevi da inserirsi prima o dopo la cena senza stravolgere la serata. Gestita da un operatore locale autorizzato, con i dettagli di imbarco a Osaka confermati con l'operatore al momento della prenotazione, e l'ora piu tranquilla che potrete passare nella citta del cibo piu rumorosa del Giappone, e l'angolo piu bello da cui guardarla dopo il tramonto.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-original-guided-tour": {
+  "title": "Osaka: L'Esperienza Originale del Go-Kart Stradale (1 Ora)",
+  "metaTitle": "Osaka: l'esperienza originale del go-kart stradale",
+  "metaDescription": "Vivete Osaka nel modo piu audace possibile, al volante di un go-kart personalizzato su strade pubbliche.",
+  "shortDescription": "Vivete Osaka nel modo piu audace e stravagante possibile, al volante di un go-kart personalizzato su strade pubbliche! Vedrete le attrazioni principali del centro di Osaka in 1 ora!",
+  "fullDescription": "C'e il sightseeing, e poi c'e sfrecciare nel centro di Osaka a livello strada su un go-kart personalizzato, mentre i pedoni salutano e le fotocamere dei telefoni si girano verso di voi. Questa e l'esperienza originale del go-kart stradale: dopo un briefing sulla sicurezza e la vestizione in garage, seguite la vostra guida in convoglio sulle strade pubbliche di Osaka, inoltrandovi nel centro cittadino su un percorso di circa un'ora che attraversa le attrazioni principali del centro di Osaka, le insegne gigantesche e stravaganti, le facciate luminose e l'energia lungo i canali che rendono il paesaggio urbano della citta diverso da qualsiasi altro posto in Giappone. Guidare un kart a livello strada cambia completamente il modo in cui la citta vi colpisce. Gli edifici torreggiano, gli scooter sfrecciano a fianco, e ogni incrocio diventa un piccolo evento mentre la gente si ferma a fotografare il convoglio. La vostra guida conduce il gruppo per tutto il percorso, mantiene un ritmo gestibile e tiene il tragitto nella fascia divertente ma sicura delle strade del centro di Osaka, cosi potete concentrarvi sul guidare e sorridere invece che sul navigare. I costumi fanno parte della cultura di questi tour, e vestirsi trasforma la guida in un'occasione fotografica itinerante. Un requisito importante: si tratta di guida vera su strade vere, quindi dovete avere una patente valida per guidare in Giappone, un permesso internazionale di guida (Convenzione di Ginevra del 1949) per la maggior parte dei visitatori, e dovrete presentarlo al check-in. Se avete sempre voluto sentirvi dentro una versione videoludica di Osaka, novanta minuti porta a porta vi regalano esattamente questo.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-photography-tour": {
+  "title": "Osaka: Noleggio Kimono o Yukata con Opzioni di Servizio Fotografico",
+  "metaTitle": "Osaka: noleggio kimono o yukata con foto",
+  "metaDescription": "Immergetevi nella cultura giapponese con un noleggio di kimono o yukata a Osaka, tra 400 e 500 modelli, con acconciatura professionale come opzione.",
+  "shortDescription": "Immergetevi nella cultura giapponese con un noleggio di kimono o yukata a Osaka. Scegliete tra 400 e 500 modelli, incluse opzioni ispirate agli anime, e aggiungete un'acconciatura professionale.",
+  "fullDescription": "Camminare nei quartieri storici di Osaka con un kimono cambia tutta la trama di una giornata: i negozianti vi salutano in modo diverso, le foto assumono una qualita senza tempo, e i templi e i vicoli antichi della citta sembrano improvvisamente l'ambientazione per cui sono stati costruiti. Questo servizio di noleggio nel cuore di Osaka rende questa trasformazione facile e genuinamente personale, con un guardaroba enorme di 400 a 500 modelli di kimono e yukata tra cui scegliere, da pattern classici in colori stagionali a stampe moderne audaci e persino design ispirati agli anime che i visitatori piu giovani adorano. Il personale vi aiuta a scegliere un modello, poi vi veste correttamente con l'intera disposizione di strati, legacci e obi che fanno indossare un kimono come dovrebbe essere, qualcosa quasi impossibile da ottenere da soli. Aggiunte opzionali vi permettono di completare il look con un'acconciatura professionale, trasformando la vestizione in un vero e proprio trucco completo prima di uscire. Le opzioni di servizio si adattano a come volete usare la giornata: scegliete uno yukata piu leggero nei mesi caldi o un kimono completo per il clima piu fresco e le foto formali, e aggiungete servizi fotografici se volete immagini curate invece di scatti con il telefono. Una volta vestiti, siete liberi di vagare per Osaka per il resto della giornata: i santuari vicini, le gallerie commerciali e i ponti sui canali offrono tutti sfondi splendidi. E adatto a coppie, famiglie, gruppi di amici e viaggiatori solitari, e non e necessaria alcuna esperienza con il kimono; chi vi veste si occupa di tutto. Restituite l'abito alla fine del noleggio e portate a casa alcune delle foto piu particolari di tutto il vostro viaggio.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-photoshoot-photography-tour": {
+  "title": "Servizio Fotografico in Kimono - Comprende 100 Foto",
+  "metaTitle": "Servizio fotografico in kimono a Osaka",
+  "metaDescription": "Un piano per scattare foto in studio vestiti in kimono con familiari, partner e amici. Tutti i dati (circa 100 scatti) vengono forniti.",
+  "shortDescription": "Un piano per scattare foto in studio vestiti in kimono con familiari, partner e amici. Tutti i dati (circa 100 scatti) vengono forniti.",
+  "fullDescription": "La maggior parte dei servizi di noleggio kimono vi consegnano l'abito e una mappa; l'operatore locale vi offre l'abito, una vera sessione fotografica in studio e ogni singola foto scattata, circa cento scatti, tutti inclusi. Questo e il piano per chi vuole che l'esperienza del kimono sopravviva davvero al viaggio: invece di qualche scatto frettoloso con il telefono in una strada affollata, ottenete un vero servizio fotografico in studio a Osaka indossando il kimono tradizionale, e tornate a casa con l'intero set di immagini invece di pagare per stampa o per file. Il formato e pensato tanto per i gruppi quanto per i singoli: il piano e progettato per foto con famiglia, partner e amici, cosi coppie, genitori con bambini e gruppi di amici possono essere vestiti e fotografati insieme, ed e qui che il formato da cento scatti rivela davvero il suo valore. La sessione inizia con la vestizione del kimono, dove il personale vi aiuta a scegliere e vi veste correttamente nel modo tradizionale, strato dopo strato, prima di passare in studio per lo scatto vero e proprio. Poiche lo scatto avviene in uno studio controllato invece che per strada, l'illuminazione e costante, non ci sono folle che vagano nell'inquadratura, e il fotografo puo lavorare attraverso una serie di pose e composizioni: ritratti formali, scatti di gruppo spontanei, dettagli ravvicinati del kimono stesso. Alla fine, tutti i dati della sessione, circa cento immagini, vi vengono forniti, dandovi un set enorme tra cui scegliere per stampare, condividere o semplicemente conservare. I dettagli dell'incontro a Osaka vengono confermati con l'operatore al momento della prenotazione, e lo studio si occupa di tutto sul posto. Come ricordo di un viaggio in Giappone, una sessione completa e professionale in kimono con ogni foto incluso e difficile da superare.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-samurai-entry-ticket": {
+  "title": "Osaka: Tour del Castello di Osaka e della Storia dei Samurai con Opzioni di Ingresso",
+  "metaTitle": "Osaka: tour del castello e storia dei samurai",
+  "metaDescription": "Scoprite la ricca storia, l'architettura straordinaria e i giardini tranquilli del castello di Osaka in un tour guidato a piedi.",
+  "shortDescription": "Scoprite la ricca storia, l'architettura straordinaria e i giardini tranquilli del castello di Osaka in un tour guidato a piedi. Scoprite il ruolo del castello nella formazione della Osaka moderna e la sua importanza strategica.",
+  "fullDescription": "Il castello di Osaka e il sito piu ricco di storie della citta, ma senza contesto e facile camminare per i suoi terreni senza cogliere affatto il drammatico passato: gli assedi, i tradimenti e la caduta del clan Toyotomi che pose fine proprio qui all'epoca degli stati in guerra del Giappone. Questo tour guidato a piedi di tre ore vi affianca una guida competente per riportare in vita, pietra dopo pietra, la storia dei samurai legata al castello. Partendo da vicino alla stazione di Osakajokoen, il percorso attraversa il giardino Nishinomaru, i cui prati offrono la classica vista da cartolina della torre principale che si innalza sopra i fossati, poi il piu ampio parco del castello con le sue colossali mura di pietra, alcune assemblate da singoli megaliti che i daimyo trasportarono qui per dimostrare la loro lealta. Visiterete Miraiza Osaka-jo, l'elegante ex quartier generale militare accanto alla torre, e il santuario Hokoku, dedicato allo stesso Toyotomi Hideyoshi, il contadino diventato signore che costrui il castello originale e la cui storia la vostra guida vi racconterà lungo il percorso. Le opzioni di ingresso vi permettono di personalizzare l'esperienza, incluse versioni con accesso al museo interno del castello, dove armature, paraventi ed esposizioni vi guidano attraverso gli assedi del 1614 e del 1615. Per tutto il tour, la guida spiega come l'importanza strategica del castello abbia modellato la Osaka moderna: perche la citta mercantile e crescita proprio dove si trova, e cosa e sopravvissuto ai secoli di incendi, guerre e ricostruzioni. Il tour si conclude alla stazione di Tanimachi 4-chome, lasciandovi nella posizione perfetta per continuare verso il centro di Osaka per il pranzo.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-samurai-guided-tour": {
+  "title": "Piano Esperienza Sumo e Samurai",
+  "metaTitle": "Osaka: esperienza sumo e samurai",
+  "metaDescription": "Un doppio spettacolo a tempo limitato che abbina lo spettacolo di sumo di 45 minuti a una performance di samurai di 60 minuti in una sola serata, con un pasto incluso.",
+  "shortDescription": "Un doppio spettacolo a tempo limitato che abbina lo spettacolo di sumo di 45 minuti a una performance di samurai di 60 minuti in una sola serata, piu un pasto, per vivere due pilastri della cultura guerriera e sportiva giapponese.",
+  "fullDescription": "Il sumo e i samurai sono le due grandi icone della cultura guerriera e sportiva del Giappone, e questo doppio spettacolo a tempo limitato di OCHIIZUMIBEYA li porta su un unico palco in una sola serata a Osaka. Il programma abbina lo spettacolo di sumo dal vivo di 45 minuti dell'operatore a una performance di samurai di 60 minuti, piu un pasto, cosi in meno di due ore vivete entrambe le tradizioni per davvero, invece di dover scegliere tra una e l'altra. La serata si apre con lo spettacolo di sumo: rituali dal vivo e scontri a pieno contatto eseguiti abbastanza vicino da sentirli, presentati in modo che i visitatori possano seguire il significato dietro le pestate, il sale e la cerimonia, oltre agli scontri stessi. Poi il palco passa alla performance dei samurai, un'ora intera costruita attorno alla tradizione guerriera del Giappone, all'arte della spada, e alla disciplina e al drammatico fascino che circondavano la classe dei samurai. Le due arti si completano a vicenda sorprendentemente bene in sequenza: la potenza grezza e ritualizzata del sumo seguita dalla precisione e dalla teatralita della spada, due espressioni molto diverse della stessa cultura marziale. Un pasto e incluso tra le due performance, rendendo questa una serata completa fuori casa invece di uno spettacolo a cui aggiungere la cena, e la durata totale compatta di un'ora e 45 minuti lascia comunque aperto il resto della vostra sera a Osaka. Essendo un piano a tempo limitato, questo abbinamento non e un elemento fisso del programma dell'operatore, il che lo rende da cogliere mentre dura: e l'unico formato in cui lo spettacolo di sumo e la performance dei samurai condividono lo stesso biglietto. I dettagli dell'incontro nella sede a Osaka vengono confermati con l'operatore al momento della prenotazione. Per i viaggiatori che cercano di inserire il massimo della cultura giapponese nel minimo di tempo serale, due pilastri della tradizione guerriera piu la cena in un'unica serata e tra le soluzioni piu efficienti possibili.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-session-photography-tour": {
+  "title": "Servizio Fotografico in Kimono (Noleggio Base e Sessione in Studio)",
+  "metaTitle": "Servizio fotografico in kimono vicino a Shinsaibashi",
+  "metaDescription": "Un pacchetto di noleggio kimono in studio e servizio fotografico vicino a Shinsaibashi, con kimono, borsa in stile giapponese, scarpe e trucco, piu una sessione fotografica professionale.",
+  "shortDescription": "Un pacchetto di noleggio kimono in studio e servizio fotografico vicino a Shinsaibashi, con kimono, borsa in stile giapponese, scarpe e trucco, piu una sessione fotografica professionale.",
+  "fullDescription": "Questo pacchetto in studio vicino a Shinsaibashi e il modo piu semplice per ottenere vere foto in kimono a Osaka: il noleggio, lo stile e una sessione fotografica professionale, tutto gestito in un unico posto, in una sola visita. Il piano include il kimono stesso insieme ai pezzi che completano il look, una borsa in stile giapponese, scarpe tradizionali e trucco, cosi arrivate con i vostri abiti di tutti i giorni e tornate a casa con fotografie di voi stessi vestiti correttamente da capo a piedi, senza dover assemblare nulla o sapere cosa va con cosa. Questa completezza e il punto di forza di un pacchetto in studio rispetto a un semplice noleggio. I kimono sono indumenti a strati con regole proprie, ed essere vestiti da persone che lo fanno ogni giorno, e curati con un trucco adatto al look, si vede immediatamente nelle fotografie. La sessione fotografica stessa viene gestita professionalmente in studio, con illuminazione controllata e senza folle di strada che vagano nell'inquadratura, lavorando su pose e composizioni che valorizzano l'abito: ritratti a figura intera, pose da seduti e dettagli del tessuto e degli accessori. In base alle opzioni scelte, la sessione dura da una a tre ore in totale, rendendo facile inserirla in una giornata di shopping e pasti attorno a Shinsaibashi: la posizione dello studio vi mette a pochi passi da uno dei migliori quartieri commerciali di Osaka, cosi l'esperienza si inserisce perfettamente in una normale giornata di visite invece di consumarla intera. Gestito da un operatore locale autorizzato, il piano base e il punto di accesso piu accessibile alla loro fotografia in kimono: tutto l'essenziale incluso, niente da procurarsi da soli. Si adatta a viaggiatori solitari che vogliono un ritratto vero, a coppie che vogliono celebrare un viaggio, e a chiunque abbia visto le foto da noleggio kimono per strada e abbia voluto qualcosa di un livello piu curato. I dettagli dell'incontro a Osaka vengono confermati con l'operatore al momento della prenotazione.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-sightseeing-full-day-tour": {
+  "title": "Osaka: Tour Panoramico di una Giornata Intera in Veicolo Privato",
+  "metaTitle": "Osaka: tour panoramico di una giornata in auto privata",
+  "metaDescription": "Vivete il meglio di Osaka, tra cui Dotonbori, il castello di Osaka, Shinsekai, il mercato di Kuromon e molto altro, viaggiando in un comodo veicolo privato.",
+  "shortDescription": "Vivete il meglio di Osaka, tra cui Dotonbori, il castello di Osaka, Shinsekai, il mercato di Kuromon e molto altro. Viaggiate in un comodo veicolo privato.",
+  "fullDescription": "Questo e il tour per i viaggiatori che vogliono i grandi classici di Osaka in un solo giorno senza la logistica estenuante di treni, cambi e controlli di mappe tra una tappa e l'altra. In circa sette ore e mezza coprite i punti essenziali della citta: il castello di Osaka, il tempio Shitennoji, il quartiere retro di Shinsekai, l'osservatorio Abeno Harukas 300, il mercato Kuromon Ichiba e Dotonbori, tutti collegati da un comodo veicolo privato, cosi il tempo tra una tappa e l'altra viene passato a riposare invece che a orientarsi. La giornata e strutturata per dare a ogni luogo il tempo che merita: circa settantacinque minuti al castello di Osaka per camminare nei terreni e osservare le enormi mura di pietra, un'ora intera a Shitennoji, uno dei templi buddisti piu antichi del Giappone, e un blocco di tempo adeguato al mercato Kuromon Ichiba, dove le bancarelle di cibo offrono una sosta ideale per uno spuntino-pranzo. Shinsekai regala l'atmosfera della vecchia Osaka, con la torre Tsutenkaku, le insegne retro, i negozi di kushikatsu, prima di salire sull'Abeno Harukas 300 per una vista panoramica sulla citta che avete appena attraversato. La giornata si chiude a Dotonbori, il cuore al neon di Osaka, con circa settantacinque minuti per immergersi nel canale, nell'insegna dell'Uomo Glico e nell'energia dello street food per cui la citta e famosa. Una guida locale professionale viaggia con voi durante tutto il percorso, aggiungendo la storia e il contesto che trasformano una lista di cose da vedere in una comprensione reale della citta, e il ritiro puo essere organizzato da Osaka, Kyoto o Kobe, il che rende questa un'opzione efficiente anche se non alloggiate a Osaka stessa. Le tariffe indicate nell'itinerario sono comprese; i pasti e le spese personali sono a vostro carico, il che funziona bene visto che Kuromon e Dotonbori sono due dei posti migliori dove mangiare in tutta la regione del Kansai.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-spiritual-tour": {
+  "title": "Tour Pellegrinaggio Goshuin dei Sette Dei della Fortuna",
+  "metaTitle": "Osaka: pellegrinaggio goshuin dei sette dei della fortuna",
+  "metaDescription": "Un pellegrinaggio guidato di una giornata intera per raccogliere i timbri sacri goshuin scritti a mano in sette templi e santuari dedicati ai Sette Dei della Fortuna di Osaka.",
+  "shortDescription": "Un pellegrinaggio guidato di una giornata intera per raccogliere i timbri sacri goshuin scritti a mano in sette templi e santuari dedicati ai Sette Dei della Fortuna di Osaka, tra camminate, visite e riflessione spirituale.",
+  "fullDescription": "I goshuin, i timbri sacri scritti a mano che templi e santuari incidono con inchiostro e vermiglio per i pellegrini in visita, sono diventati uno dei souvenir piu significativi del Giappone, e questo tour guidato di una giornata intera costruisce un vero pellegrinaggio attorno a essi. Il percorso visita sette templi e santuari in tutta Osaka, ciascuno dedicato a uno dei Sette Dei della Fortuna, le amate divinita che vegliano su tutto, dalla ricchezza e la longevita alla musica e ai pescatori. A ogni tappa ricevete un goshuin scritto a mano, cosi a fine giornata portate con voi un set completo di sette, ognuno una piccola opera di calligrafia irripetibile, scritta a mano nel luogo stesso che onora. Il formato del pellegrinaggio cambia il modo in cui vedete Osaka. Invece di saltare da un'attrazione principale all'altra, seguite un filo di fede attraverso la citta, mescolando camminate, visite turistiche e momenti silenziosi di riflessione spirituale in santuari che la maggior parte dei turisti non visita mai. La vostra guida porta avanti la giornata: spiegando chi e ciascuno dei Sette Dei della Fortuna, cosa protegge, come rendere omaggio correttamente a ogni altare, e come funziona la tradizione del goshuin, quando presentare il vostro libretto, cosa significano le iscrizioni, e perche ogni timbro e unico. Tra le sette tappe, la camminata stessa diventa un'occasione di visita turistica, attraversando quartieri e paesaggi urbani al ritmo di un pellegrino piuttosto che a quello di un autobus turistico. Come esperienza di una giornata intera, si adatta ai viaggiatori che vogliono profondita piu che velocita da lista di controllo: i collezionisti di goshuin troveranno sette timbri scritti a mano in un giorno un vero premio, mentre chiunque sia curioso della spiritualita giapponese ottiene un modo strutturato e guidato per entrare in pratiche che da fuori possono sembrare poco chiare. I dettagli dell'incontro a Osaka vengono confermati con l'operatore al momento della prenotazione. Venite con scarpe comode e tornerete con le benedizioni di sette dei scritte in inchiostro.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-sukiyaki-guided-tour": {
+  "title": "Spettacolo di Sumo a Osaka con Posti in Prima Fila e Sukiyaki di Wagyu",
+  "metaTitle": "Osaka: spettacolo di sumo con sukiyaki di Wagyu",
+  "metaDescription": "Godetevi uno spettacolo di sumo dal vivo da posti garantiti in prima fila, abbastanza vicini da vedere le espressioni dei lottatori, con una cena sukiyaki premium di Wagyu.",
+  "shortDescription": "Godetevi uno spettacolo di sumo dal vivo da posti garantiti in prima fila, abbastanza vicini da vedere le espressioni dei lottatori, con una cena sukiyaki premium di Wagyu, bevande abbinate opzionali e un'esperienza in kimono.",
+  "fullDescription": "La maggior parte delle esperienze di sumo vi posiziona da qualche parte in mezzo alla folla; questa vi garantisce un posto in prima fila, abbastanza vicino da vedere le espressioni dei lottatori, sentire l'impatto di ogni scontro e percepire il pavimento muoversi quando due rikishi si scontrano. Gestita da OCHIIZUMIBEYA, il team dietro agli spettacoli di sumo di Osaka, la serata abbina una performance di sumo dal vivo a una cena sukiyaki premium di Wagyu, cosi mangiate uno dei piatti piu celebrati del Giappone mentre lo sport si svolge a pochi metri da voi. Lo spettacolo stesso e costruito per i visitatori: i rituali, il lancio del sale, le pestate e gli incontri vengono tutti spiegati mentre accadono, cosi seguite non solo lo spettacolo ma anche il significato dietro di esso, il perche i lottatori compiono ogni movimento, come si vince un incontro, e come e davvero la vita dentro il mondo del sumo. Il sukiyaki e quello vero, Wagyu tagliato finemente e cotto a fuoco lento al tavolo in brodo di soia dolce, e bevande abbinate opzionali sono disponibili se volete trasformarla in una serata completa. Un'esperienza in kimono completa il programma, dandovi la possibilita di vestirvi con abiti tradizionali e scattare foto in un'ambientazione che non potrebbe essere piu giapponese. Con circa due ore e mezza di durata, il formato e compatto a sufficienza da inserirsi in una serata a Osaka, pur sembrando un evento completo: cena, spettacolo, partecipazione e foto in un'unica seduta. I posti in prima fila sono per natura limitati, ed e esattamente questo il punto: questa e la versione dello spettacolo di sumo per chi vuole la vista senza ostacoli e i migliori posti della sala. I dettagli dell'incontro a Osaka vengono confermati con l'operatore al momento della prenotazione.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-sumo-guided-tour": {
+  "title": "Piano Solo Esperienza Sumo",
+  "metaTitle": "Osaka: solo esperienza sumo",
+  "metaDescription": "Uno spettacolo di sumo dal vivo di 45 minuti con un'esperienza interattiva, sessione fotografica e prova del kimono. Piano con solo il biglietto d'ingresso, senza pasto incluso.",
+  "shortDescription": "Uno spettacolo di sumo dal vivo di 45 minuti con un'esperienza interattiva, sessione fotografica e prova del kimono. Piano con solo biglietto d'ingresso, senza pasto, ideale per chi vuole un assaggio rapido della cultura del sumo.",
+  "fullDescription": "Non tutti i programmi hanno spazio per una cena spettacolo completa, e questo piano di 45 minuti di OCHIIZUMIBEYA e la risposta: lo spettacolo di sumo dal vivo completo e l'esperienza interattiva, senza il pasto, a un prezzo che comprende solo il biglietto d'ingresso. E deliberatamente l'assaggio rapido e accessibile della cultura del sumo, ideale se dovete incastrarlo tra altri piani a Osaka, viaggiate con un budget limitato, o semplicemente preferite mangiare altrove e venire solo per lo sport. Compatto non significa diluito. Il cuore del programma e tutto qui: uno spettacolo di sumo dal vivo eseguito davanti a voi, con i rituali che danno peso a questo sport, le pestate, il sale, i preparativi cerimoniali, seguiti da veri incontri dove l'impatto di due lottatori che si scontrano arriva con una forza che nessun video riesce a preparare. Lo spettacolo e presentato in modo che i visitatori possano seguirlo, con il significato dietro ogni movimento spiegato, cosi tornate a casa comprendendo cio che avete visto invece di averlo semplicemente guardato. Poi il segmento interattivo coinvolge il pubblico, dandovi la possibilita di interagire direttamente con i lottatori invece di osservare da lontano, la parte di cui gli ospiti tendono a parlare dopo. Una sessione fotografica vi permette di catturare l'incontro con i rikishi, e una prova del kimono completa il pacchetto culturale, lasciandovi vestire con abiti tradizionali per le foto prima di andarvene. In molto meno di un'ora ottenete spettacolo, partecipazione, foto e kimono, uno spaccato notevolmente completo della cultura sportiva giapponese per il tempo investito. I dettagli dell'incontro nella sede a Osaka vengono confermati con l'operatore al momento della prenotazione. Se volete la serata completa con la cena, esistono i piani piu grandi dell'operatore per questo; se volete il sumo in se stesso, distillato, questo e quello giusto.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-superhero-guided-tour": {
+  "title": "SuperHero Kart Osaka Tour S",
+  "metaTitle": "SuperHero Kart Osaka Tour S",
+  "metaDescription": "Un giro guidato in go-kart stradale attraverso il centro di Osaka, passando per Amerikamura, Shinsaibashi, Dotonbori e il quartiere dei divertimenti di Namba, in costume.",
+  "shortDescription": "Un giro guidato in go-kart stradale attraverso il centro di Osaka, passando per Amerikamura, Shinsaibashi, Dotonbori e il quartiere dei divertimenti di Namba, indossando un costume.",
+  "fullDescription": "Ci sono modi per vedere i quartieri dei divertimenti di Osaka, e poi c'e il guidarli attraversandoli in go-kart indossando un costume mentre i pedoni salutano e tirano fuori le fotocamere. Il SuperHero Kart Osaka Tour S e un giro guidato di un'ora in go-kart stradale attraverso il cuore stesso della citta, che intreccia Amerikamura, Shinsaibashi, Dotonbori e il quartiere dei divertimenti di Namba, il tratto piu denso e carico di neon di Osaka, visto da dietro il volante di un vero kart omologato per la strada. Il percorso e la vera star. Amerikamura e il quartiere della cultura giovanile di Osaka, tutto negozi di streetwear e murales; Shinsaibashi porta le lunghe gallerie commerciali e lo scintillio dei grandi magazzini; e poi il tratto attraverso l'area di Dotonbori e Namba regala la Osaka da cartolina, insegne luminose gigantesche, folla e spettacolo lungo il canale, a livello strada e in movimento, un'angolazione che nessun tour a piedi vi puo offrire. I costumi fanno parte del formato, cosi il vostro convoglio attraversa tutto questo in personaggio, ed e esattamente il motivo per cui il go-karting stradale e diventata una delle attivita piu fotografate del Giappone: non state solo guardando lo spettacolo, per un momento siete voi lo spettacolo. Una guida conduce il convoglio per tutto il tragitto, impostando il ritmo, orientandosi nel percorso e mantenendo il gruppo unito nel traffico cittadino, cosi potete concentrarvi sul guidare e sul sorridere. Con un'ora di durata, il formato Tour S e la versione compatta, lungo abbastanza da attraversare i quartieri famosi, breve abbastanza da inserirsi tra i pasti o prima di una serata fuori. Da notare il lato pratico: si tratta di guida vera su strade pubbliche, quindi e richiesta una patente valida riconosciuta in Giappone, e i dettagli vengono confermati con l'operatore, il centro prenotazioni di Osaka di Street Kart, al momento della prenotazione. Come modo per trasformare gli spostamenti lungo le strade piu luminose di Osaka nel momento clou del viaggio, un'ora in kart e difficile da battere.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-traditional-cultural-tour": {
+  "title": "Vivete al Massimo i Samurai e la Cultura Tradizionale",
+  "metaTitle": "Osaka: esperienza completa samurai e cultura tradizionale",
+  "metaDescription": "180 minuti, piano completo di apprendimento Zen e Bushido con calligrafia samurai, cerimonia del te, iaido, armatura samurai e foto nel parco del castello di Osaka.",
+  "shortDescription": "180 minuti / Piano completo di apprendimento Zen e Bushido: esperienza di calligrafia samurai, cerimonia del te, iaido/spada samurai, armatura samurai, foto nei terreni del castello di Osaka.",
+  "fullDescription": "Questo non e uno spettacolo culturale da guardare seduti; e un'immersione pratica di 180 minuti nelle due discipline gemelle che hanno formato i samurai: il raffinamento zen e la pratica del bushido. Gestita come un piano completo da un'azienda dedicata alla cultura samurai, l'esperienza vi porta attraverso cinque attivita collegate in un unico pomeriggio. Si inizia con la calligrafia samurai, macinando l'inchiostro e imparando i tratti di pennello usati dai guerrieri, poiche la padronanza della poesia e della scrittura era considerata essenziale per un samurai quanto l'arte della spada. Segue una cerimonia del te tradizionale, che insegna l'etichetta deliberata e meditativa che i generali praticavano tra una campagna e l'altra. Poi inizia la meta marziale: una sessione di iaido vi introduce alla spada samurai stessa, come viene sfoderata, usata per colpire e riposta nel fodero, nelle forme fluide e controllate che definiscono quest'arte. Successivamente venite vestiti con una vera armatura samurai, strato dopo strato, e una volta completamente equipaggiati l'esperienza culmina in una sessione fotografica nei terreni del castello di Osaka, con l'armatura che risplende e la grande torre sullo sfondo, esattamente l'ambientazione dove i samurai dei Toyotomi fecero la loro ultima resistenza quattro secoli fa. Poiche tutto avviene in un unico blocco continuo di tre ore, ottenete un quadro inusualmente completo della vita samurai: lo studioso, l'ospite, lo spadaccino e il guerriero in armatura, tutti vissuti con le proprie mani invece che osservati da lontano. Si adatta a coppie, famiglie e a chiunque voglia che il proprio viaggio in Giappone includa un'esperienza culturale profonda invece di cinque superficiali.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-treasures-guided-tour": {
+  "title": "Tour dei Luoghi Segreti e dei Tesori Locali",
+  "metaTitle": "Osaka: tour dei luoghi segreti e dei tesori locali",
+  "metaDescription": "Un tour a piedi di 3,5 ore che passa dalle mura del castello di Osaka alle strade al neon di Dotonbori, attraversando vicoli nascosti e locali amati dagli abitanti.",
+  "shortDescription": "Un tour a piedi di 3,5 ore che passa dalle mura del castello di Osaka alle strade al neon di Dotonbori, attraversando lungo il percorso vicoli nascosti e locali amati dagli abitanti.",
+  "fullDescription": "Il castello di Osaka e Dotonbori compaiono nella lista di ogni visitatore, ma la citta nel mezzo e dove Osaka vive davvero, e proprio quel tratto intermedio e il vero oggetto di questo tour a piedi di tre ore e mezza. Il percorso passa dalle mura del castello di Osaka alle strade al neon di Dotonbori, ma invece di prendere la linea diretta, attraversa vicoli nascosti e passa davanti a locali amati dagli abitanti, i luoghi segreti e i tesori locali del titolo, cosi i due famosi estremi incorniciano una parte intermedia che la maggior parte dei viaggiatori non vede mai. Partire dal castello da alla camminata la sua ancora storica: le mura di pietra e i fossati della fortezza che hanno modellato la citta, osservati con una guida capace di spiegare cosa state guardando. Da li il tour si immerge nei vicoli, ed e qui che una guida locale si guadagna il suo compenso, le strade strette, i santuari nascosti, le vecchie gallerie commerciali e i piccoli locali che gli abitanti custodiscono per se, ciascuno con una storia da raccontare. I locali indicati lungo il percorso diventano una mappa gastronomica in movimento della citta; alla fine avrete una lista personale di posti dove tornare che nessun algoritmo avrebbe mai fatto emergere. La camminata si conclude tra le luci al neon di Dotonbori, e arrivarci attraverso i vicoli cambia il modo in cui il famoso quartiere colpisce: meno un muro travolgente di insegne, piu il finale rumoroso di una citta che avete appena conosciuto strada per strada. Con 3,5 ore il ritmo resta rilassato, con tempo per fermarsi, fotografare e fare domande lungo tutto il percorso. Per i viaggiatori che hanno gia visto le attrazioni principali e vogliono sentire il tessuto connettivo della citta, questo e un modo davvero locale di attraversare Osaka a piedi. I dettagli dell'incontro vengono confermati con l'operatore al momento della prenotazione.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-walking-full-day-tour": {
+  "title": "Tour Privato a Piedi di una Giornata Intera a Osaka",
+  "metaTitle": "Tour privato a piedi di una giornata intera a Osaka",
+  "metaDescription": "Vivete un tour privato a piedi di una giornata intera a Osaka con Best Adventure Kansai, un operatore turistico verificato di Osaka.",
+  "shortDescription": "Vivete un tour privato a piedi di una giornata intera a Osaka con Best Adventure Kansai, un operatore turistico verificato di Osaka.",
+  "fullDescription": "La maggior parte dei tour a piedi vi offre un quartiere; un tour privato a piedi di una giornata intera vi offre l'intero arco di Osaka, e farlo in forma privata significa che la giornata viene disegnata attorno a voi dal primo passo. Questa esperienza abbina il vostro gruppo a una guida locale professionale per un'intera giornata a piedi, il formato che rivela meglio una citta, perche tutto cio che sta tra un monumento e l'altro resta visibile invece di scorrere oltre un finestrino di treno. La struttura privata e cio che distingue questa esperienza dall'unirsi a un gruppo. La giornata parte dai vostri interessi: storia, cibo, mercati, templi, quartieri, fotografia, qualsiasi combinazione vogliate, la vostra guida costruisce il percorso di conseguenza, e lo rimodella in tempo reale mentre la giornata si sviluppa. Avete trovato un quartiere che amate? Restate piu a lungo. I piedi hanno bisogno di una pausa? Il ritmo si adatta. Siete curiosi di qualcosa dall'altra parte della strada? Chiedete, non c'e un consenso di gruppo da negoziare, e ogni risposta e per voi. Camminare e anche semplicemente la velocita giusta per Osaka, una citta il cui carattere vive a livello strada: le gallerie commerciali, i portali dei santuari incastrati tra gli edifici di uffici, i banconi di cibo e le bancarelle di mercato, il cambio di atmosfera da un quartiere all'altro. Una guida locale trasforma tutto questo in un racconto continuo di come funziona la citta e di come vivono davvero gli abitanti di Osaka. Durante una giornata intera percorrete un territorio importante, con pause naturali per i pasti e il riposo incluse nel programma, e finite con il tipo di mappa mentale di Osaka che normalmente richiede una settimana di vagabondaggio solitario per guadagnarsi. Tutte le tariffe indicate nell'itinerario sono comprese; i pasti e le spese personali sono a vostro carico, il che nella cucina del Giappone e un'opportunita piuttosto che un costo. I dettagli dell'incontro a Osaka vengono confermati con l'operatore al momento della prenotazione.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-walking-tour": {
+  "title": "Osaka: Tour Guidato a Piedi tra Siti Principali e Luoghi Nascosti",
+  "metaTitle": "Osaka: siti principali e luoghi nascosti a piedi",
+  "metaDescription": "Vivete i punti principali di Osaka e le gemme nascoste locali in questo tour guidato a piedi. Vedrete il castello di Osaka e i quartieri di Namba, Dotonbori e Tsuruhashi.",
+  "shortDescription": "Vivete i punti principali di Osaka e le gemme nascoste locali in questo tour guidato a piedi. Vedrete il castello di Osaka e i quartieri di Namba, Dotonbori e Tsuruhashi, oppure personalizzate il tour con un'opzione privata.",
+  "fullDescription": "Osaka e in realta due citta: la versione da cartolina attorno al castello e Dotonbori, e la citta quotidiana delle gallerie di mercato e dei vicoli di quartiere dove gli abitanti mangiano e fanno la spesa per davvero. Questa camminata guidata di quattro ore e pensata per mostrarvele entrambe in un unico percorso circolare. Si inizia al castello di Osaka, dove la vostra guida vi accompagna nel parco e nelle fortificazioni e spiega come la roccaforte di Hideyoshi abbia modellato la citta mercantile cresciuta attorno a essa. Da li il percorso cambia marcia verso Tsuruhashi, sede di uno dei quartieri coreani piu vivaci del Giappone, un labirinto di vicoli stretti che la maggior parte dei visitatori non trova mai da sola. Passate poi vicino ad Abeno Harukas, il famoso grattacielo del Giappone sul lato sud, prima di immergervi in Shinsekai, il quartiere dei divertimenti gloriosamente retro costruito all'inizio del Novecento, le cui strade sono ancora affollate di negozi di kushikatsu e insegne luminose sotto la torre Tsutenkaku. La camminata si conclude dove Osaka e piu rumorosa: Namba e Dotonbori, con l'insegna dell'Uomo Glico, le luci al neon lungo il canale, e le bancarelle di cibo che hanno dato alla citta la sua fama di kuidaore (mangiare finche non si cade). Lungo il percorso la guida riempie gli spazi tra un sito e l'altro con storie, consigli di etichetta e suggerimenti gastronomici che trasformano una lista di cose da vedere in una comprensione reale della citta. Un'opzione privata permette di personalizzare il percorso se c'e un quartiere in cui volete soffermarvi in particolare. Indossate scarpe comode: questo e un vero tour a piedi, e la ricompensa e vedere come i siti famosi di Osaka e i suoi angoli nascosti si collegano camminando.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "osaka-walking-walking-tour": {
+  "title": "Il Meglio di Osaka a Piedi",
+  "metaTitle": "Il meglio di Osaka: tour a piedi",
+  "metaDescription": "Un tour guidato di 5 ore che visita il castello di Osaka del XVI secolo, il quartiere retro di Shinsekai, e Namba e Dotonbori con l'insegna dell'Uomo Glico e il tempio Hozenji.",
+  "shortDescription": "Un tour guidato di 5 ore che visita il castello di Osaka del XVI secolo, il quartiere retro di Shinsekai, e il quartiere dei divertimenti di Namba e Dotonbori con l'insegna dell'Uomo Glico e il tempio Hozenji.",
+  "fullDescription": "Cinque ore a piedi con una guida sono il modo onesto per conoscere Osaka, e questo tour \"il meglio di Osaka\" lega insieme le tre esperienze essenziali della citta in una giornata ben ritmata: il castello di Osaka del XVI secolo, il quartiere retro di Shinsekai, e il quartiere dei divertimenti di Namba e Dotonbori con la sua insegna dell'Uomo Glico e il tempio Hozenji nascosto. La giornata si apre al castello di Osaka, la fortezza che Toyotomi Hideyoshi fece erigere nel XVI secolo come sede del suo potere. Camminare nei terreni con una guida trasforma le enormi mura di pietra e i fossati in una storia, unificazione, assedio, distruzione e ricostruzione, invece di essere solo uno sfondo fotogenico. Da li il tour si sposta a Shinsekai, il quartiere del \"Nuovo Mondo\" costruito all'inizio del Novecento e gloriosamente fermo in un momento del Giappone di meta secolo: la torre Tsutenkaku sopra la testa, negozi di kushikatsu e insegne retro a livello strada, e un'atmosfera che nessun altro quartiere di Osaka riesce a replicare. L'atto finale e Namba e Dotonbori, dove la citta alza il volume: il canale, la folla, e la famosa insegna animata dell'Uomo Glico che da decenni e l'emblema non ufficiale di Osaka. Poi, a pochi passi dalla via principale, il tour trova il tempio Hozenji, il piccolo santuario coperto di muschio dove gli abitanti spruzzano acqua sulla statua di Fudo Myoo, un angolo di calma che la folla attraversa in fretta senza notarlo. Questo contrasto, dal castello al quartiere retro al neon fino al tempio nascosto, e il vero soggetto del tour: i secoli di Osaka stratificati uno sull'altro, percorribili in un pomeriggio. Cinque ore mantengono il ritmo senza fretta, con tempo per foto, domande e soste gastronomiche lungo il percorso, e una guida presente dall'inizio alla fine per collegare tutto. I dettagli dell'incontro vengono confermati con l'operatore al momento della prenotazione; scarpe comode sono l'unico requisito.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "rainbow-bridge-evening-tour": {
+  "title": "Tokyo di Notte: Tour in Auto Privata con Ritiro in Hotel",
+  "metaTitle": "Tokyo di notte: tour in auto privata",
+  "metaDescription": "Quattro ore di Tokyo illuminata da un'auto privata, con percorso modificabile, ritiro e rientro direttamente alla porta del vostro hotel.",
+  "shortDescription": "Quattro ore di Tokyo illuminata da un'auto privata, con percorso modificabile a vostro piacimento, ritiro e rientro direttamente alla porta del vostro hotel.",
+  "fullDescription": "Tokyo e una citta diversa dopo il tramonto, e una citta frustrante da fotografare a piedi, perche i punti panoramici migliori sono lontani tra loro e i treni si fermano prima che la notte si sia davvero stabilita.\n\nUn'auto privata risolve il problema della geografia. Il Rainbow Bridge e illuminato su tutta la sua lunghezza e attraversa verso Odaiba con lo skyline impilato sullo sfondo, una vista che semplicemente non si puo ottenere da una stazione, e il ponte porta un'autostrada, una strada di superficie e la linea senza conducente Yurikamome sul suo doppio piano. La Torre di Tokyo, 333 metri di traliccio arancione costruiti nel 1958 e deliberatamente nove metri piu alta della Torre Eiffel da cui e stata copiata, e illuminata ogni notte e si vede meglio dalle strade attorno a Shiba piuttosto che direttamente sotto di essa. Le facciate dei negozi principali di Ginza restano illuminate anche dopo la chiusura, e l'incrocio di Shibuya e piu affollato alle 21:00 che a mezzogiorno.\n\nL'itinerario e tutto da plasmare a vostro piacimento. Volete piu tempo in un punto panoramico, una sosta per mangiare, una deviazione verso un posto di cui avete visto una foto? Basta dirlo e il conducente si adatta. Nulla e fisso tranne le quattro ore.\n\nIl ritiro copre gli hotel di Tokyo e Yokohama, il che rende questo tour comodo se alloggiate vicino al porto o siete appena scesi da una nave. Gli indirizzi periferici riducono il tempo delle quattro ore, quindi confermate il vostro al momento della prenotazione.\n\nEssendo un giro in auto con soste fotografiche piuttosto che una camminata, funziona bene con la pioggia, nel freddo di febbraio e nell'umidita di agosto, e si adatta a chi ha mobilita limitata, a bambini stanchi, o a chiunque sia appena atterrato quel pomeriggio. L'ingresso al piano di osservazione non e incluso se volete salire sulla torre.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con conducente di lingua inglese\nRitiro e rientro in hotel a Tokyo o Yokohama\nCarburante e tutti i pedaggi autostradali\nPercorso personalizzabile\nSoste fotografiche durante tutto il tragitto"
+  ],
+  "notIncluded": [
+   "Cibo e bevande\nTariffe di ingresso al piano di osservazione\nMance\nSpese personali"
+  ]
+ },
+ "sakura-kimono-nara-couples-photo-shoot": {
+  "title": "Noleggio Kimono per Coppie a Nara con Servizio Fotografico di un'Ora",
+  "metaTitle": "Noleggio kimono per coppie a Nara con foto",
+  "metaDescription": "Noleggio e vestizione del kimono per due persone, un uomo e una donna, piu un servizio fotografico di un'ora in giro per Nara. Il prezzo e per coppia.",
+  "shortDescription": "Noleggio e vestizione del kimono per due persone, un uomo e una donna, piu un servizio fotografico di un'ora in giro per Nara. Il prezzo e per coppia.",
+  "fullDescription": "Questo e un pacchetto di noleggio kimono e foto piuttosto che un tour guidato, e il prezzo mostrato e per due persone insieme, un uomo e una donna, non a persona. E gestito da Sakura Kimono Kyoto, un negozio di noleggio fondato a Kyoto nel 2017, dalla loro filiale di Nara al 2F #201, 26-3 Hashimotocho nella citta di Nara, a pochi minuti dalle vecchie strade di Naramachi e a breve distanza dal parco di Nara. Gli orari di prenotazione vanno dalle 09:30 alle 16:00, e il negozio consiglia la mattina presto o dopo le 15:00 in estate, poiche la meta della giornata a Nara diventa davvero calda indossando il kimono completo.\n\nNel negozio scegliete i vostri abiti, con la gamma femminile che va dal kimono premium fino al homongi di seta, e un kimono maschile per il vostro partner. La coordinazione completa e inclusa: la cintura obi, un han-haba obi oppure un obi di seta Nagoya, con un fukuro obi di seta se scegliete un furisode, piu la borsa per il kimono, lo strato sottostante juban, i sandali zori, i calzini tabi e gli accessori per i capelli. Il personale vi veste correttamente, il che conta piu di quanto sembri, perche un obi e quasi impossibile da legare correttamente da soli. L'acconciatura e inclusa per la donna.\n\nAvrete poi circa un'ora di foto spontanee in giro per Nara con un fotografo di Komorebi Studio di Osaka, indossando il kimono per le strade invece di posare in uno studio. Dopo lo scatto riceverete tutti i dati fotografici originali piu 20 immagini corrette nei colori scelte dal fotografo, inviate entro un mese dallo scatto; il ritocco del viso non e incluso, e i dati vengono eliminati due settimane dopo la consegna, quindi scaricateli prontamente. Il pagamento al negozio e solo in contanti, e un deposito di 2.000 yen conferma la prenotazione.",
+  "highlights": [],
+  "included": [
+   "Servizio fotografico spontaneo di un'ora a Nara in kimono, tutti i dati fotografici originali, 20 foto corrette nei colori selezionate dal fotografo, noleggio kimono femminile dal premium al homongi di seta, noleggio kimono maschile, acconciatura femminile, han-haba obi o obi di seta Nagoya, e coordinazione completa con borsa per kimono, juban, zori, calzini tabi e accessori per capelli"
+  ],
+  "notIncluded": [
+   "Ritocco del viso e modifiche estetiche delle foto, trasporto, cibo e bevande, ingresso a parchi e templi (nessuno di questi e indicato come incluso), e il deposito di prenotazione di 2.000 yen; il pagamento al negozio e solo in contanti"
+  ]
+ },
+ "sapporo-asahikawa-group-tour": {
+  "title": "Asahikawa, Biei e Furano: Tour Invernale di un Giorno in Piccolo Gruppo da Sapporo",
+  "metaTitle": "Asahikawa, Biei e Furano da Sapporo in inverno",
+  "metaDescription": "Un rilassato tour invernale di un giorno in piccolo gruppo di dieci ore da Sapporo ad Asahikawa, Biei e Furano, con tre itinerari curati tra cui scegliere.",
+  "shortDescription": "Un rilassato tour invernale di un giorno in piccolo gruppo di dieci ore da Sapporo ad Asahikawa, Biei e Furano, con tre itinerari curati tra cui scegliere.",
+  "fullDescription": "Il Hokkaido centrale in inverno e il paesaggio che rende famosa questa isola sulle cartoline, e questo tour di un giorno in piccolo gruppo vi porta dentro di esso senza la fatica di guidare da soli sulla neve. Il gruppo e limitato a nove ospiti in un comodo veicolo premium, il che mantiene la giornata rilassata e le soste flessibili. Vengono offerti tre itinerari accuratamente curati, cosi il tour puo adattarsi a diverse preferenze di viaggio invece di costringere tutti sullo stesso percorso. Il tragitto verso nord dura circa due ore e mezza e vi porta prima nell'area di Asahikawa, incluso il Bosco Campione delle Specie Arboree Straniere, prima di un'ora e mezza ad Asahikawa stessa con tempo per il pranzo. Da li la giornata si sposta nella campagna di Biei, le dolci terre agricole i cui alberi isolati sono diventati famosi a modo loro, con una sosta all'Albero di Natale che si erge solitario nei campi innevati. Segue la Cascata Shirahige, che sgorga dalla parete rocciosa ed e incorniciata dalla neve, ed e qui che la versione invernale di questo paesaggio giustifica davvero il viaggio. Il tragitto di ritorno include una pausa alla stazione di Iwamizawa prima che il veicolo continui verso Sapporo, con due punti di discesa disponibili. Il ritmo e deliberatamente senza fretta piuttosto che una corsa tra soste fotografiche, e il piccolo gruppo significa meno attesa e piu tempo passato davvero in piedi nel paesaggio che siete venuti a vedere.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-biei-furano-summer-day-trip-blue-pond": {
+  "title": "Biei e Furano in un Giorno: Lo Stagno Blu, le Cascate Shirahige e Shikisai-no-Oka",
+  "metaTitle": "Biei e Furano in un giorno: lo Stagno Blu",
+  "metaDescription": "La terra dei fiori di Hokkaido e lo Stagno Blu color cobalto in un solo giorno da Sapporo, con l'ingresso a Shikisai-no-Oka incluso e un'opzione in autobus sotto i sessantacinque dollari.",
+  "shortDescription": "La terra dei fiori di Hokkaido e lo Stagno Blu color cobalto in un solo giorno da Sapporo, con l'ingresso a Shikisai-no-Oka incluso e un'opzione in autobus sotto i sessantacinque dollari.",
+  "fullDescription": "Lo Stagno Blu di Biei e un vero incidente. Fu creato negli anni '80 come parte di un sistema di controllo delle colate di fango dopo l'eruzione del monte Tokachi, e l'acqua assunse quell'improbabile colore cobalto perche i minerali che filtrano da una vicina fonte termale reagiscono con l'alluminio presente nel deflusso. Apple ha distribuito una fotografia dello stagno come sfondo predefinito per Mac, ed e cosi che la maggior parte delle persone l'ha visto senza sapere dove si trovasse.\n\nQuesta giornata lo include insieme al resto di cio che rende il Hokkaido centrale diverso da qualsiasi altro luogo in Giappone. La Cascata Shirahige, dove l'acqua emerge direttamente dalla parete rocciosa invece di scorrere dall'alto, riversando lo stesso colore cobalto nella gola sottostante. La Roller Coaster Road, un tratto rettilineo di salite ripide attraverso la campagna che percorrerete lungo il percorso. E Shikisai-no-Oka a Furano, quindici ettari di campi di fiori a strisce piantati lungo una collina, con l'ingresso incluso nel vostro biglietto.\n\nLa vastita del paesaggio del Hokkaido e il vero soggetto di questa giornata. Fu colonizzato tardivamente, secondo una griglia, con consulenza agricola americana, e si sente piu simile al nord degli Stati Uniti che al resto del Giappone.\n\nQuattro modi per viverlo. Il gruppo in autobus e il piu economico e si incontra al terminal degli autobus dell'uscita nord della stazione di Sapporo alle 8:00. Le opzioni in piccolo gruppo con furgone aggiungono il ritiro in hotel entro tre chilometri dalla stazione alle 7:30. Una versione disponibile solo il sabato aggiunge un pranzo a buffet con melone del Hokkaido a volonta. E tutto il percorso puo essere aggiornato alla versione privata.\n\nIl conducente agisce anche da guida, e l'itinerario puo cambiare in base al meteo e al traffico. Da notare che l'operatore chiede un numero WhatsApp al momento della prenotazione per coordinare il ritiro.",
+  "highlights": [],
+  "included": [
+   "Trasporto di andata e ritorno da Sapporo\nCarburante e pedaggi\nConducente-guida\nIngresso a Shikisai-no-Oka\nPranzo a buffet e melone del Hokkaido a volonta (opzioni solo sabato)\nRitiro in hotel entro 3 km dalla stazione di Sapporo (opzioni in piccolo gruppo con furgone)"
+  ],
+  "notIncluded": [
+   "Tariffe di ingresso alle attrazioni opzionali\nSpese personali e souvenir\nUna guida turistica separata oltre al conducente-guida\nSpuntini e bevande aggiuntivi"
+  ]
+ },
+ "sapporo-chauffeured-private-tour": {
+  "title": "Sapporo in Auto Privata: Giornata Cittadina Personalizzata con Autista",
+  "metaTitle": "Sapporo in auto privata con autista",
+  "metaDescription": "Un veicolo privato noleggiato con autista per dieci ore a Sapporo, per visitare le principali attrazioni della citta comodamente e interamente al vostro ritmo.",
+  "shortDescription": "Un veicolo privato noleggiato con autista per dieci ore a Sapporo, per visitare le principali attrazioni della citta comodamente e interamente al vostro ritmo.",
+  "fullDescription": "Sapporo e una citta estesa. E stata disegnata a griglia su una vasta pianura, e la conseguenza per un visitatore e che le attrazioni che vale la pena vedere si trovano piu distanti tra loro di quanto appaiono su una mappa, con gli spazi intermedi consumati da cambi di metropolitana e lunghe camminate. Noleggiare un veicolo privato con autista per dieci ore risolve completamente questo problema. La giornata e personalizzata per il vostro gruppo. Scegliete le attrazioni, decidete quanto tempo passare in ognuna, e l'ordine puo cambiare nel corso della giornata se il meteo cambia o qualcosa richiede piu tempo del previsto. Non c'e nessun gruppo da aspettare e nessun orario da rispettare. Tra una tappa e l'altra siete in un'auto confortevole invece che su una banchina, il che conta molto in una citta che e genuinamente fredda per gran parte dell'anno e calda in piena estate. Il vostro autista gestisce la navigazione, il parcheggio e la logistica, cosi quello che altrimenti sarebbe una giornata di pianificazione diventa una giornata di semplice arrivo nei luoghi. Questo tipo di viaggio si adatta a famiglie con bambini piccoli, viaggiatori con mobilita limitata, chiunque visiti con un programma serrato e voglia vedere molto senza correre, e fotografi che devono trovarsi in un posto particolare a una certa ora del giorno. Funziona bene anche con il brutto tempo, quando un itinerario a piedi fisso diventa infelice ma un'auto privata no. Dieci ore sono una lunga giornata, e usate bene permettono di coprire molto piu di Sapporo di quanto consentirebbero i trasporti pubblici.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-corners-experience": {
+  "title": "Sapporo con un Host Locale: Luoghi Iconici, Angoli Nascosti e Sapori Locali",
+  "metaTitle": "Sapporo con un host locale",
+  "metaDescription": "Un tour privato a piedi di Sapporo costruito interamente attorno a voi, condotto da un amichevole host locale che vi mostra i siti famosi insieme agli angoli che le guide turistiche lasciano fuori.",
+  "shortDescription": "Un tour privato a piedi di Sapporo costruito interamente attorno a voi, condotto da un amichevole host locale che vi mostra i siti famosi insieme agli angoli che le guide turistiche lasciano fuori.",
+  "fullDescription": "Questo e un tour privato a piedi di Sapporo con un amichevole host locale, e tutto il senso dell'esperienza e che appartiene a voi invece che a un copione fisso. Prima di partire, il vostro host vi chiede cosa vi incuriosisce, e la passeggiata viene costruita da li. Se volete i siti iconici, li avrete, con il contesto che li rende significativi invece di essere solo un nome su un cartello. Se preferite vagare senza meta, il vostro host puo portarvi lungo le strade laterali e negli angoli nascosti che non compaiono in nessuna guida turistica, il tipo di posti davanti ai quali un visitatore passerebbe senza mai sapere di dover fermarsi. I sapori locali fanno parte anche della giornata, e il vostro host puo indirizzarvi verso cio che Sapporo fa particolarmente bene e dove trovarlo fatto come si deve. Poiche camminate, la citta arriva a un ritmo umano: notate come cambiano i quartieri, dove c'e e dove non c'e folla, e come ci si senta a vivere davvero in una citta pianificata a griglia nel lontano nord del Giappone. E poiche l'host e un locale e non una guida che recita un copione, la conversazione va in entrambe le direzioni. Chiedete qualsiasi cosa, da dove mangia un martedi sera a come la citta affronta i suoi inverni, e otterrete una risposta vera. Funziona bene come orientamento nel primo giorno, quando tutto cio che imparate rende piu facile il resto del soggiorno, e funziona altrettanto bene piu avanti quando conoscete gia le linee generali e volete riempire i dettagli.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-culture-full-day-tour": {
+  "title": "Tour Privato di una Giornata Intera a Sapporo: Cultura, Fascino e Vita Locale",
+  "metaTitle": "Sapporo: tour privato di una giornata intera",
+  "metaDescription": "Un tour privato di una giornata intera a Sapporo a ritmo tranquillo, con prezzo per gruppo, per scoprire la storia della citta, le gemme locali e il tranquillo carattere del nord.",
+  "shortDescription": "Un tour privato di una giornata intera a Sapporo a ritmo tranquillo, con prezzo per gruppo, per scoprire la storia della citta, le gemme locali e il tranquillo carattere del nord.",
+  "fullDescription": "Questo tour privato di una giornata intera ha un prezzo per gruppo invece che per persona, ed e costruito attorno all'idea che Sapporo premia un ritmo tranquillo. La capitale del Hokkaido non e una citta che urla. Il suo fascino e un'elegante quiete, un senso di spazio e una frizzantezza nell'aria che i visitatori provenienti dalle affollate citta di Honshu notano entro un'ora dal loro arrivo, e correre attraverso di essa ne vanifica completamente il senso. Nel corso della giornata la vostra guida privata si muove tra la ricca storia della citta e le gemme locali che non compaiono in nessuna lista standard di luoghi da visitare, lasciando respirare ogni tappa invece di trattare la giornata come una lista di cose da spuntare. Poiche il gruppo e solo vostro, la forma della giornata vi appartiene. Gli interessi possono essere seguiti dove portano, il tempo puo essere dato generosamente a un luogo che si rivela importante per voi, e il piano puo rallentare o aprirsi mentre la giornata avanza. Cio che emerge nel corso di una giornata intera e un senso dell'anima della citta piuttosto che una serie di fotografie: come Sapporo sia nata, come la gente che ci vive la usi, e cosa rende la capitale del Hokkaido cosi distinta da qualsiasi altro luogo piu a sud. Il ritmo e deliberato e senza fretta per tutta la giornata, e i momenti immersivi hanno lo spazio che meritano. Si adatta ai viaggiatori che preferiscono comprendere bene una citta piuttosto che vederne a meta tre, e funziona particolarmente bene come ancora di un viaggio nel Hokkaido.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-essentials-private-tour": {
+  "title": "Tour Privato Essenziale di Sapporo: Torre dell'Orologio, Parco Odori e Santuario del Hokkaido",
+  "metaTitle": "Sapporo: torre dell'orologio, parco Odori e santuario",
+  "metaDescription": "Un tour privato di quattro ore a Sapporo con una guida locale, che copre la torre dell'orologio, il parco Odori e il santuario del Hokkaido a un ritmo adatto al vostro gruppo.",
+  "shortDescription": "Un tour privato di quattro ore a Sapporo con una guida locale, che copre la torre dell'orologio, il parco Odori e il santuario del Hokkaido a un ritmo adatto al vostro gruppo.",
+  "fullDescription": "Quattro ore sono sufficienti per farsi un'idea di Sapporo se qualcuno che ci vive sceglie dove passarle, e questo tour privato fa esattamente questo. Si inizia con la torre dell'orologio di Sapporo, l'edificio semplice in legno diventato l'emblema della citta, dove la vostra guida spiega perche una struttura cosi modesta porti tanto peso in una citta altrimenti costruita in cemento e vetro. Da li il tour si sposta al parco Odori, la lunga striscia verde che attraversa il centro di Sapporo e funziona come il suo salotto. Odori cambia completamente con le stagioni, ospitando il festival della neve a febbraio e riempendosi di gente al primo segno di tempo caldo, e camminarci con una guida da un'idea di come la citta usi davvero il suo centro. Il terzo pilastro della giornata e il santuario del Hokkaido, situato in terreni boschivi un po' lontano dalla griglia del centro e silenzioso in un modo in cui il resto della citta non lo e. E il centro spirituale dell'isola e un utile contrappeso al volto molto moderno che Sapporo presenta altrove, e la vostra guida puo accompagnarvi nel capire cosa significhi il santuario e come comportarsi al suo interno. Poiche il tour e privato, il ritmo appartiene al vostro gruppo. Potete soffermarvi dove qualcosa catturi il vostro interesse e saltare avanti dove non lo fa, e la guida si adattera di conseguenza. E un'introduzione efficiente e ben strutturata alla citta, ideale all'inizio di un soggiorno cosi che il resto del vostro tempo abbia piu senso.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-evening-tour": {
+  "title": "Whisky di Yoichi e Otaru di Notte: Giornata Costiera Privata con Autista-Guida",
+  "metaTitle": "Sapporo: whisky di Yoichi e Otaru di notte",
+  "metaDescription": "Una giornata privata di dieci ore con autista-guida lungo la costa del Hokkaido, che include la distilleria di whisky di Yoichi, la via Sakaimachi di Otaru, il monte Tengu e le luci del canale dopo il tramonto.",
+  "shortDescription": "Una giornata privata di dieci ore con autista-guida lungo la costa del Hokkaido, che include la distilleria di whisky di Yoichi, la via Sakaimachi di Otaru, il monte Tengu e le luci del canale dopo il tramonto.",
+  "fullDescription": "Questa giornata privata vi offre un autista-guida e un van di lusso per dieci ore, usandoli per percorrere la costa a ovest di Sapporo, concludendosi con l'unica parte di Otaru che la maggior parte delle gite di un giorno manca perche se ne vanno prima del tramonto. La prima tappa e la distilleria di whisky di Yoichi, il luogo dove e effettivamente nato il whisky giapponese, situata in una valle scelta proprio perche il suo clima ricordava quello della Scozia. Camminare nei terreni e negli antichi edifici in pietra spiega molto sul perche il whisky giapponese sia diventato quello che e. Da Yoichi il percorso continua verso Otaru e Sakaimachi, la via mercantile conservata di magazzini in pietra e vetrerie che attraversa il centro storico, dove c'e tempo per vagare invece che marciare. Segue il monte Tengu, che si innalza proprio dietro la citta e offre la vista panoramica sul porto e sulla baia che mette in prospettiva tutta la costa. Il finale e il canale di Otaru dopo il tramonto, quando si accendono le vecchie lampade in stile a gas lungo l'acqua e i magazzini sono illuminati dal basso, il momento di gran lunga migliore per vederlo e il motivo per avere un autista invece di un orario dei treni. I trasferimenti porta a porta in un van privato significano niente camminate tra le stazioni con le mani congelate, e avere una guida oltre a un autista significa che la giornata arriva con spiegazioni invece che solo trasporto. E una lunga, piena e confortevole giornata fuori dalla citta.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-expert-experience": {
+  "title": "Il Sentiero del Ramen a Sapporo: Tre Ciotole in Miniatura con un Esperto di Ramen",
+  "metaTitle": "Sapporo: sentiero del ramen con un esperto",
+  "metaDescription": "Tre ciotole in miniatura di ramen in tre locali tra Susukino, Tanukikoji e il centro di Sapporo, scelte tra sei a dieci opzioni e spiegate da un esperto di ramen.",
+  "shortDescription": "Tre ciotole in miniatura di ramen in tre locali tra Susukino, Tanukikoji e il centro di Sapporo, scelte tra sei a dieci opzioni e spiegate da un esperto di ramen.",
+  "fullDescription": "Sapporo e una delle citta che hanno definito il ramen giapponese, e mangiare una sola ciotola non vi dice quasi nulla su di esso. Questo tour degustazione risolve il problema portandovi in tre locali diversi in poco piu di due ore, offrendovi una ciotola in miniatura in ognuno, cosi potete mangiarne tre senza sfinirvi. I locali si trovano a Susukino, lungo la galleria Tanukikoji e nel centro citta, tre zone della citta con caratteri distinti, cosi la camminata tra l'uno e l'altro vale qualcosa di per se. A ogni tappa scegliete la vostra ciotola tra una selezione di sei a dieci opzioni, il che significa che il tour si adatta a cio che vi piace e a cio che avete gia provato. A guidare tutto questo c'e un esperto di ramen il cui commento e la vera sostanza dell'esperienza. Scoprirete le origini del piatto e come sia arrivato in Giappone, le differenze tra i tipi principali e cosa definisce ciascuno di essi, come viene costruita davvero una ciotola dal brodo alla pasta alla guarnizione, e dove stanno andando le tendenze attuali in una scena che cambia piu velocemente di quanto la maggior parte dei visitatori si rendano conto. Alla terza ciotola state assaggiando in modo comparativo piuttosto che semplicemente mangiando, notando come i brodi differiscano e perche la pasta di un locale si comporti diversamente da quella di un altro. Sono un paio d'ore compatte e ben ritmate, facili da inserire attorno ad altri piani, e vi lasciano capaci di entrare in qualsiasi locale di ramen in Giappone dopo l'esperienza e ordinare con un'idea di cosa state chiedendo.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario, 3 ciotole in miniatura di ramen"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
  "kyoto-kid-friendly-ninja-class-museum": {
   "title": "Corso di ninja per famiglie a Kyoto: cerbottane, stelle e furtività",
   "metaTitle": "Corso di ninja per famiglie a Kyoto",
