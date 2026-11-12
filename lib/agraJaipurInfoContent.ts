@@ -1526,6 +1526,61 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-jal-mahal-tour-jaipur":
+      return {
+        title: "Which Is the Best Jal Mahal Tour in Jaipur?",
+        seoTitle: "Best Jal Mahal Tour Jaipur 2026 | Honest Comparison",
+        description: "Compare real Jal Mahal tours in Jaipur — almost always paired with Amer Fort and a stepwell, from a $9 budget half-day to a fuller private circuit with Hawa Mahal.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-amber-fort-stepwell-jal-mahal-with-pickup/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Jal Mahal, the palace that appears to float in the middle of Man Sagar Lake, is not open for interior visits — nearly every tour here is a photo stop viewed from the shore, which is why it's never sold as a standalone tour and always bundled with Amer Fort and usually a stepwell, since all three sit on the same route into the city. The real choice is which combination and how private you want it.",
+            tourCard: { slug: "jaipur-amber-fort-stepwell-jal-mahal-with-pickup", title: "Jaipur: Amber Fort, Stepwell & Jal Mahal with Pickup", description: "The standard way to see Jal Mahal, paired with Amer Fort and a stepwell with hotel pickup included.", price: "From $29", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-amber-fort-stepwell-jal-mahal-with-pickup/img0/1600.webp" },
+          },
+          {
+            title: "Cheapest: Private Half-Day Circuit",
+            content: "This is the lowest-priced way to see Jal Mahal alongside Amer Fort and a stepwell — a solid budget option for travellers who want the private-tour flexibility without the premium price.",
+            tourCard: { slug: "amer-fort-jal-mahal-stepwell-private-jaipur-half", title: "Amer Fort, Jal Mahal & Stepwell Private Jaipur Half-Day Tour", description: "The most budget-friendly private circuit covering Jal Mahal, Amer Fort and a stepwell.", price: "From $9", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/amer-fort-jal-mahal-stepwell-private-jaipur-half/img0/1600.webp" },
+          },
+          {
+            title: "Best for a Specific Stepwell: Panna Meena",
+            content: "This version specifically includes Panna Meena ka Kund, one of Jaipur's most photogenic stepwells with its symmetrical staircases, alongside the Amer Fort and Jal Mahal stop.",
+            tourCard: { slug: "jaipur-half-day-tour-amber-fort-panna-meena-jal", title: "Jaipur: Half Day Tour (Amber Fort, Panna Meena, Jal Mahal)", description: "A half-day tour naming the specific stepwell included alongside Amer Fort and Jal Mahal.", price: "From $28", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-half-day-tour-amber-fort-panna-meena-jal/img0/1600.webp" },
+          },
+          {
+            title: "If You Want Hawa Mahal Added",
+            content: "This combination adds Hawa Mahal to the Amer Fort and Jal Mahal circuit, giving a fuller half-day covering three of Jaipur's most photographed landmarks instead of two.",
+            tourCard: { slug: "jaipur-amer-fort-jal-mahal-hawa-mahal-half-day", title: "Jaipur: Amer Fort, Jal Mahal & Hawa Mahal Half-Day Tour", description: "A fuller half-day circuit adding Hawa Mahal to the Amer Fort and Jal Mahal combination.", price: "From $18", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-amer-fort-jal-mahal-hawa-mahal-half-day/img0/1600.webp" },
+          },
+          {
+            title: "Best Private Version with Hawa Mahal",
+            content: "This is the private, more premium version of the Amer Fort/Jal Mahal/Hawa Mahal combination, for travellers who want their own vehicle and pace rather than a shared group schedule.",
+            tourCard: { slug: "jaipur-amer-fort-hawa-mahal-and-jal-mahal-tour", title: "Jaipur: Amer Fort, Hawa Mahal and Jal Mahal Tour", description: "A private version of the three-landmark circuit at your own pace.", price: "From $42", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-amer-fort-hawa-mahal-and-jal-mahal-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Jal Mahal is viewed exclusively from the lakeshore — don't book anything claiming interior access, since the palace isn't open to the public. Early morning or late afternoon light gives the best photos of the palace reflecting on the lake."
+          }
+        ],
+        faqs: [
+          { q: "What is the best Jal Mahal tour in Jaipur?", a: "A combined Amer Fort, stepwell and Jal Mahal tour is the standard option — Jal Mahal is never sold as a standalone visit since it's a shore viewpoint only." },
+          { q: "Can you go inside Jal Mahal?", a: "No — the palace is not open to the public and is viewed from the lakeshore only." },
+          { q: "What is usually combined with Jal Mahal?", a: "Amer Fort and a stepwell (often Panna Meena ka Kund) are the most common pairings, since they sit on the same route." },
+          { q: "When is the best time to photograph Jal Mahal?", a: "Early morning or late afternoon, when the light reflects best on the lake." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best Jal Mahal tour in Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "A combined Amer Fort, stepwell and Jal Mahal tour is standard — Jal Mahal is never sold standalone." } },
+            { "@type": "Question", "name": "Can you go inside Jal Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "No — the palace is viewed from the lakeshore only." } },
+            { "@type": "Question", "name": "What is usually combined with Jal Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "Amer Fort and a stepwell, most commonly Panna Meena ka Kund." } },
+            { "@type": "Question", "name": "When is the best time to photograph Jal Mahal?", "acceptedAnswer": { "@type": "Answer", "text": "Early morning or late afternoon for the best light." } }
+          ]
+        },
+      };
+
     default:
       return null;
   }

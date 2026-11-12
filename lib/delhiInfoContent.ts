@@ -1165,6 +1165,66 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-red-fort-tour-delhi":
+      return {
+        title: "Which Is the Best Red Fort Tour in Delhi?",
+        seoTitle: "Best Red Fort Tour Delhi 2026 | Honest Comparison",
+        description: "Compare real Red Fort tours in Delhi — from a $6 entry ticket to a skip-the-line guided walk, the evening light and sound show, and combos with Jama Masjid and Humayun's Tomb.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-red-fort-skip-the-line-guided-tour-with/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Red Fort was the Mughal Empire's seat of power for nearly 200 years, and it's one of Delhi's most-visited monuments for exactly that reason — most tours here fall into three buckets: a basic entry ticket for those who just want to walk through on their own, a skip-the-line guided tour for first-timers who want context, and the evening light and sound show, which tells the fort's history after dark with a completely different atmosphere.",
+            tourCard: { slug: "delhi-red-fort-skip-the-line-guided-tour-with", title: "Delhi: Red Fort Skip-The-Line Guided Tour with Entry Tickets", description: "The standard way to see the Red Fort with a guide and no queue.", price: "From $29", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-red-fort-skip-the-line-guided-tour-with/img0/1600.webp" },
+          },
+          {
+            title: "Cheapest: Basic Entry Ticket",
+            content: "If you're comfortable exploring without a guide, this is the lowest-priced way into the Red Fort — just the entry ticket, with optional add-ons if you want to upgrade later.",
+            tourCard: { slug: "new-delhi-red-fort-entry-ticket-with-optional-add", title: "New Delhi: Red Fort Entry Ticket with Optional Add-Ons", description: "The most budget-friendly way into the Red Fort, with optional upgrades.", price: "From $6", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/new-delhi-red-fort-entry-ticket-with-optional-add/img0/1600.webp" },
+          },
+          {
+            title: "Best for a UNESCO Walking Tour",
+            content: "This walking tour frames the Red Fort specifically as the UNESCO World Heritage Site it is, with a guide who explains the fort's architecture and its role across Mughal history rather than just listing buildings.",
+            tourCard: { slug: "delhi-unesco-world-heritage-walking-tour-of-red", title: "Delhi: UNESCO World Heritage Walking Tour of Red Fort", description: "A UNESCO-framed walking tour explaining the fort's full historical significance.", price: "From $15", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-unesco-world-heritage-walking-tour-of-red/img0/1600.webp" },
+          },
+          {
+            title: "Best at Night: Evening Light & Sound Show",
+            content: "The Red Fort tells its own history after dark through a light and sound show projected onto the fort's walls — a genuinely different experience from the daytime visit, and worth doing as a second visit rather than a substitute for the daytime tour.",
+            tourCard: { slug: "delhi-red-fort-guided-evening-light-sound-show", title: "Delhi: Red Fort Guided Evening Light & Sound Show", description: "The fort's history told after dark through a light and sound show.", price: "From $52", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-red-fort-guided-evening-light-sound-show/img0/1600.webp" },
+          },
+          {
+            title: "Best Combo: Jama Masjid & Chandni Chowk",
+            content: "This tour pairs the Red Fort with Jama Masjid (India's largest mosque) and a walk through Chandni Chowk's old bazaar lanes — a good fit for travellers who want the Red Fort folded into a broader Old Delhi sightseeing day.",
+            tourCard: { slug: "old-delhi-red-fort-jama-masjid-chandi-chowk", title: "Old Delhi: Red Fort, Jama Masjid & Chandi Chowk Guided Tour", description: "A combined Old Delhi circuit built around the Red Fort.", price: "From $20", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/old-delhi-red-fort-jama-masjid-chandi-chowk/img0/1600.webp" },
+          },
+          {
+            title: "Best Combo: Red Fort & Humayun's Tomb",
+            content: "This tour pairs the Mughal-era Red Fort with Humayun's Tomb, the other major Mughal monument in Delhi — both skip-the-line, making it an efficient way to cover two UNESCO sites in one trip.",
+            tourCard: { slug: "delhi-red-fort-humayuns-tomb-skip-the-line-guided", title: "Delhi: Red Fort, Humayun's Tomb Skip The Line Guided Tour", description: "Two of Delhi's major Mughal monuments in one skip-the-line tour.", price: "From $27", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-red-fort-humayuns-tomb-skip-the-line-guided/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Security checks at the Red Fort are strict — avoid large bags, tripods, and food items to move through entry faster. The fort is closed on Mondays, so plan accordingly if your itinerary is tight. Morning visits are cooler and less crowded than afternoon ones."
+          }
+        ],
+        faqs: [
+          { q: "What is the best Red Fort tour in Delhi?", a: "A skip-the-line guided tour suits most first-time visitors; a basic entry ticket works if you're comfortable exploring on your own." },
+          { q: "Is the Red Fort light and sound show worth it?", a: "Yes, as a second visit — it tells the fort's history after dark in a genuinely different format from the daytime tour." },
+          { q: "What can the Red Fort be combined with?", a: "Jama Masjid and Chandni Chowk for an Old Delhi circuit, or Humayun's Tomb for a Mughal-monuments focused day." },
+          { q: "Is the Red Fort open every day?", a: "No — it's closed on Mondays, so plan your Delhi itinerary around that." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best Red Fort tour in Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "A skip-the-line guided tour suits most first-time visitors." } },
+            { "@type": "Question", "name": "Is the Red Fort light and sound show worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a second visit — it tells the fort's history after dark." } },
+            { "@type": "Question", "name": "What can the Red Fort be combined with?", "acceptedAnswer": { "@type": "Answer", "text": "Jama Masjid/Chandni Chowk, or Humayun's Tomb." } },
+            { "@type": "Question", "name": "Is the Red Fort open every day?", "acceptedAnswer": { "@type": "Answer", "text": "No — it's closed on Mondays." } }
+          ]
+        },
+      };
+
     default:
       return null;
   }

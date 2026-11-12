@@ -81,6 +81,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'how-much-should-a-private-tour-guide-cost-in-delhi',
     'best-old-delhi-tour', 'best-india-gate-tour', 'best-qutub-minar-tour',
     'best-akshardham-temple-tour-delhi', 'best-lotus-temple-tour-delhi',
+    'best-red-fort-tour-delhi',
   ].map(slug => ({
     url: `${BASE_URL}/india/delhi/${slug}`,
     lastModified: new Date(),
@@ -107,6 +108,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'how-much-should-a-private-tour-guide-cost-in-jaipur',
     'best-amber-fort-tour-jaipur', 'best-hawa-mahal-tour-jaipur', 'best-jaipur-shopping-tour',
     'best-nahargarh-fort-tour-jaipur', 'best-jantar-mantar-tour-jaipur',
+    'best-jal-mahal-tour-jaipur',
   ].map(slug => ({
     url: `${BASE_URL}/india/jaipur/${slug}`,
     lastModified: new Date(),

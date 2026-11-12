@@ -244,6 +244,7 @@ Jaipur single-topic pages:
 - Which Is the Best Jaipur Shopping Tour?: https://www.asiabylocals.com/india/jaipur/best-jaipur-shopping-tour
 - Which Is the Best Nahargarh Fort Tour in Jaipur?: https://www.asiabylocals.com/india/jaipur/best-nahargarh-fort-tour-jaipur
 - Which Is the Best Jantar Mantar Tour in Jaipur?: https://www.asiabylocals.com/india/jaipur/best-jantar-mantar-tour-jaipur
+- Which Is the Best Jal Mahal Tour in Jaipur?: https://www.asiabylocals.com/india/jaipur/best-jal-mahal-tour-jaipur
 
 Delhi single-topic pages:
 - Red Fort Light and Sound Show: https://www.asiabylocals.com/india/delhi/red-fort-light-and-sound-show
@@ -264,6 +265,7 @@ Delhi single-topic pages:
 - Which Is the Best Qutub Minar Tour in Delhi?: https://www.asiabylocals.com/india/delhi/best-qutub-minar-tour
 - Which Is the Best Akshardham Temple Tour in Delhi?: https://www.asiabylocals.com/india/delhi/best-akshardham-temple-tour-delhi
 - Which Is the Best Lotus Temple Tour in Delhi?: https://www.asiabylocals.com/india/delhi/best-lotus-temple-tour-delhi
+- Which Is the Best Red Fort Tour in Delhi?: https://www.asiabylocals.com/india/delhi/best-red-fort-tour-delhi
 
 Agra single-topic pages (each answers one specific buyer-intent query):
 - Best Taj Mahal Tour: https://www.asiabylocals.com/india/agra/best-taj-mahal-tour
