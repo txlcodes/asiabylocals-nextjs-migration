@@ -36592,6 +36592,38 @@ export const IT_TOURS: Record<string, TourT> = {
    "ritiro e riaccompagno in hotel"
   ]
  },
+ "pattaya-day-trip-with-workshops-and-thai-costume": {
+  "title": "Gita di un giorno a Pattaya con laboratori e costume thailandese",
+  "metaTitle": "Gita di un giorno a Pattaya con laboratori e costume thailandese",
+  "shortDescription": "Escursione di 9 ore a Pattaya, con Pattaya. Operatore: Cruisingee, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 9 ore a Pattaya, costruita intorno a Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende trasferimento di andata e ritorno in hotel (area urbana di Bangkok), ingresso al villaggio culturale thailandese, noleggio costume tradizionale thailandese, pranzo a buffet thailandese e 1 laboratorio a scelta + 1 laboratorio bonus. Non comprende spese personali e bevande durante il pranzo (se non specificato altrimenti), da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nBangkok.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimento di andata e ritorno in hotel (area urbana di Bangkok)",
+   "ingresso al villaggio culturale thailandese",
+   "noleggio costume tradizionale thailandese",
+   "pranzo a buffet thailandese",
+   "1 laboratorio a scelta + 1 laboratorio bonus"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "bevande durante il pranzo (se non specificato altrimenti)"
+  ]
+ },
+ "ko-larn-island-vip-private-day-trip-with-water-activities-in-pattaya": {
+  "title": "Gita privata VIP di un giorno a Koh Larn con attività acquatiche, a Pattaya",
+  "metaTitle": "Gita privata VIP di un giorno a Koh Larn con attività",
+  "shortDescription": "Escursione di una giornata intera a Pattaya, con Bus/coach and Ko Lan. Operatore: Vacio Co.,Ltd, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di una giornata intera da Pattaya, costruita intorno a Bus/coach and Ko Lan. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende trasporto di andata e ritorno in van VIP, conducente dedicato e guida professionale di lingua cinese. Non comprende mancia e altra spesa personale, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nBangkok Yai.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasporto di andata e ritorno in van VIP",
+   "conducente dedicato",
+   "guida professionale di lingua cinese"
+  ],
+  "notIncluded": [
+   "mancia",
+   "altra spesa personale"
+  ]
+ },
  "coral-island-tour-with-water-sports-and-lunch": {
   "title": "Tour di Coral Island con sport acquatici e pranzo",
   "metaTitle": "Tour di Coral Island con sport acquatici e pranzo",
@@ -36640,6 +36672,23 @@ export const IT_TOURS: Record<string, TourT> = {
    "foto facoltative con gli artisti dopo lo spettacolo"
   ]
  },
+ "guided-highlights-tour-with-floating-market-and-lunch": {
+  "title": "Tour guidato dei punti d'interesse con mercato flottante e pranzo",
+  "metaTitle": "Tour guidato dei punti d'interesse con mercato flottante e pranzo",
+  "shortDescription": "Escursione di 5 ore a Pattaya, con trasporto condiviso di andata e ritorno dai punti d'incontro selezionati, assistenza in tour in lingua inglese e visita al punto panoramico di Pattaya. Operatore: AMAKA TOURS TRAVEL, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 5 ore a Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nDamnoen Saduak, 100 kilometres south-west of Bangkok, is the floating market of the postcards: boats of fruit and noodles on a canal dug in the 1860s, working by 7:00 and finished by 11:00, which is why tours leave the city at 6:30. It is crowded and much of the trade is souvenirs, and it is still worth an hour on the water. Amphawa, nearby, runs Friday to Sunday afternoons and evenings and is the one Bangkok residents prefer, with firefly boat trips after dark. Taling Chan and Khlong Lat Mayom are small weekend markets inside the city where the food is the point.\n\nIl prezzo comprende trasporto condiviso di andata e ritorno dai punti d'incontro selezionati, assistenza in tour in lingua inglese e visita al punto panoramico di Pattaya. Non comprende spese personali, attività opzionali, cibo e bevande non menzionati e mance e gratifiche, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Bali Hai Pier and Wat Phra Yai; il luogo e l'ora esatti vengono concordati con AMAKA TOURS TRAVEL una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasporto condiviso di andata e ritorno dai punti d'incontro selezionati",
+   "assistenza in tour in lingua inglese",
+   "visita al punto panoramico di Pattaya"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "attività opzionali",
+   "cibo e bevande non menzionati",
+   "mance e gratifiche"
+  ]
+ },
  "sanctuary-of-truth-sanctuary-entry-ticket": {
   "title": "Biglietto d'ingresso al Sanctuary of Truth a Pattaya",
   "metaTitle": "Biglietto d'ingresso al Sanctuary of Truth a Pattaya",
@@ -36681,6 +36730,21 @@ export const IT_TOURS: Record<string, TourT> = {
    "snack e pranzo"
   ]
  },
+ "laem-chabang-private-city-tour-and-sanctuary-of-truth-in-pattaya": {
+  "title": "Laem Chabang: tour privato della città e Sanctuary of Truth, a Pattaya",
+  "metaTitle": "Laem Chabang: tour privato della città e Sanctuary of Truth, a",
+  "shortDescription": "Escursione di 4,5 ore a Pattaya, con trasporto privato di andata e ritorno, veicolo con aria condizionata e ingresso al Sanctuary of Truth. Operatore: PattayaCentral, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4,5 ore a Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende trasporto privato di andata e ritorno, veicolo con aria condizionata e ingresso al Sanctuary of Truth. Non comprende cibo e bevande e spese personali, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Laem Chabang and Terminal Cruise; il luogo e l'ora esatti vengono concordati con PattayaCentral una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasporto privato di andata e ritorno",
+   "veicolo con aria condizionata",
+   "ingresso al Sanctuary of Truth"
+  ],
+  "notIncluded": [
+   "cibo e bevande",
+   "spese personali"
+  ]
+ },
  "pattaya-and-samaesan-2-day-wreck-diving-for-experience-divers-by-local-operator": {
   "title": "Pattaya e Samaesan: immersioni su relitti di 2 giorni per sub esperti, con operatore locale",
   "metaTitle": "Pattaya e Samaesan: immersioni su relitti di 2 giorni per sub",
@@ -36703,6 +36767,69 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "cibo",
    "transfer"
+  ]
+ },
+ "private-cooking-class-with-themed-menu-4-dish-in-pattaya": {
+  "title": "Corso di cucina privato con menu a tema (4 piatti), a Pattaya",
+  "metaTitle": "Corso di cucina privato con menu a tema (4 piatti), a Pattaya",
+  "shortDescription": "Escursione di 4 ore a Pattaya, con esperienza di cucina privata, drink di benvenuto, introduzione agli ingredienti thailandesi e pasto. Operatore: Pattaya Thai Cooking, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore a Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende esperienza di cucina privata, drink di benvenuto, introduzione agli ingredienti thailandesi e pasto. Non comprende trasporto verso il luogo, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "esperienza di cucina privata",
+   "drink di benvenuto",
+   "introduzione agli ingredienti thailandesi",
+   "pasto"
+  ],
+  "notIncluded": [
+   "trasporto verso il luogo"
+  ]
+ },
+ "full-day-private-tour-in-pattaya": {
+  "title": "Tour privato di una giornata completa, a Pattaya",
+  "metaTitle": "Tour privato di una giornata completa, a Pattaya",
+  "shortDescription": "Escursione di 9 ore a Pattaya, con trasporto privato di andata e ritorno, veicolo con aria condizionata e biglietti d'ingresso, se necessario. Operatore: PattayaCentral, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 9 ore a Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende trasporto privato di andata e ritorno, veicolo con aria condizionata e biglietti d'ingresso, se necessario. Non comprende spese personali e guida turistica privata, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasporto privato di andata e ritorno",
+   "veicolo con aria condizionata",
+   "biglietti d'ingresso, se necessario"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "guida turistica privata"
+  ]
+ },
+ "columbia-pictures-aquaverse-ticket-and-hotel-transfer-in-pattaya": {
+  "title": "Biglietto per il Columbia Pictures Aquaverse e trasferimento in hotel, a Pattaya",
+  "metaTitle": "Biglietto per il Columbia Pictures Aquaverse e trasferimento in",
+  "shortDescription": "Escursione di 10 ore a Pattaya, con Columbia Pictures Aquaverse. Operatore: Pattaya Guide Travel, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 10 ore da Pattaya, costruita intorno a Columbia Pictures Aquaverse. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende biglietto d'ingresso al Columbia Pictures Aquaverse, trasferimento premium climatizzato di andata e ritorno in hotel a Pattaya e acqua in bottiglia durante il trasferimento. Non comprende bevande alcoliche, cibo e bevande all'interno del parco e acquisti personali, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nPattaya City.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "biglietto d'ingresso al Columbia Pictures Aquaverse",
+   "trasferimento premium climatizzato di andata e ritorno in hotel a Pattaya",
+   "acqua in bottiglia durante il trasferimento"
+  ],
+  "notIncluded": [
+   "bevande alcoliche",
+   "cibo e bevande all'interno del parco",
+   "acquisti personali"
+  ]
+ },
+ "full-day-pattaya-beach-with-halal-lunch-and-rooftop-sunset-by-local-operator": {
+  "title": "Giornata in spiaggia a Pattaya con pranzo halal e tramonto sul rooftop, con operatore locale",
+  "metaTitle": "Giornata in spiaggia a Pattaya con pranzo halal e tramonto sul",
+  "shortDescription": "Escursione di 10 ore a Pattaya, con Pattaya e Pattaya Floating Market and Local restaurant. Operatore: MPG Thailand, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 10 ore a Pattaya, costruita intorno a Pattaya e Pattaya Floating Market and Local restaurant. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende pranzo halal in un pub irlandese, visita al mercato flottante di Pattaya, sosta sulla spiaggia di Na Jomtien, visita al punto panoramico di Pattaya e esperienza in un trendy rooftop beach bar. Non comprende ritiro e riaccompagno in hotel e spese personali, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "pranzo halal in un pub irlandese",
+   "visita al mercato flottante di Pattaya",
+   "sosta sulla spiaggia di Na Jomtien",
+   "visita al punto panoramico di Pattaya",
+   "esperienza in un trendy rooftop beach bar"
+  ],
+  "notIncluded": [
+   "ritiro e riaccompagno in hotel",
+   "spese personali"
   ]
  },
  "pattaya-oriental-atlantis-buffet-and-show-plus-by-local-operator": {
@@ -36787,6 +36914,23 @@ export const IT_TOURS: Record<string, TourT> = {
    "gratifiche (mance facoltative per guide e autisti)"
   ]
  },
+ "from-bangkok-koh-larn-full-day-adventure-with-shooting-range-pattaya": {
+  "title": "Da Bangkok: avventura di una giornata a Koh Larn con poligono di tiro (Pattaya)",
+  "metaTitle": "Da Bangkok: avventura di una giornata a Koh Larn con poligono di",
+  "shortDescription": "Escursione di 12 ore a Pattaya, con Bali Hai Pier e Ko Lan and Shooting Range. Operatore: Skyway Tours, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 12 ore da Pattaya, costruita intorno a Bali Hai Pier e Ko Lan and Shooting Range. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende veicolo con aria condizionata, trasporto privato e supplemento carburante. Non comprende spese personali, cibo e bevande, costi del pacchetto fotografico e costi delle attività acquatiche, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nBangkok.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "veicolo con aria condizionata",
+   "trasporto privato",
+   "supplemento carburante"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "cibo e bevande",
+   "costi del pacchetto fotografico",
+   "costi delle attività acquatiche"
+  ]
+ },
  "birthday-dinner-celebration-with-sunset-and-sea-view-in-pattaya": {
   "title": "Cena di compleanno con tramonto e vista mare a Pattaya",
   "metaTitle": "Cena di compleanno con tramonto e vista mare a Pattaya",
@@ -36802,6 +36946,21 @@ export const IT_TOURS: Record<string, TourT> = {
    "cibo o bevande aggiuntivi non inclusi nel pacchetto",
    "bevande alcoliche aggiuntive",
    "spese personali"
+  ]
+ },
+ "private-fishing-experience-at-pattaia-fishing-park-in-pattaya": {
+  "title": "Esperienza di pesca privata al Pattaya Fishing Park, a Pattaya",
+  "metaTitle": "Esperienza di pesca privata al Pattaya Fishing Park, a Pattaya",
+  "shortDescription": "Escursione di 5 ore a Pattaya, con accesso allo stagno di pesca privato, noleggio di un gazebo privato in bambù o di uno spazio sul molo e attrezzatura da pesca standard (canna, mulinello ed esca base). Operatore: Pattaia Fishing Park, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 5 ore a Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende accesso allo stagno di pesca privato, noleggio di un gazebo privato in bambù o di uno spazio sul molo e attrezzatura da pesca standard (canna, mulinello ed esca base). Non comprende alcolici e bevande e transfer in hotel, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "accesso allo stagno di pesca privato",
+   "noleggio di un gazebo privato in bambù o di uno spazio sul molo",
+   "attrezzatura da pesca standard (canna, mulinello ed esca base)"
+  ],
+  "notIncluded": [
+   "alcolici e bevande",
+   "transfer in hotel"
   ]
  },
  "ramayana-water-park-ticketed-fun-in-pattaya": {
@@ -36832,6 +36991,23 @@ export const IT_TOURS: Record<string, TourT> = {
    "cena a bordo",
    "bevande alcoliche selezionate",
    "snorkeling"
+  ],
+  "notIncluded": [
+   "transfer privato",
+   "extra"
+  ]
+ },
+ "koh-rin-and-bamboo-beach-sunset-premium-tour-in-pattaya": {
+  "title": "Tour premium al tramonto a Koh Rin e Bamboo Beach, a Pattaya",
+  "metaTitle": "Tour premium al tramonto a Koh Rin e Bamboo Beach, a Pattaya",
+  "shortDescription": "Escursione di 9 ore a Pattaya, con Bamboo Island and Monkey Beach. Operatore: Odeon Tours DMC Thailand, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 9 ore da Pattaya, costruita intorno a Bamboo Island and Monkey Beach. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, pranzo a bordo, bibite, attrezzatura da snorkeling e scivoli d'acqua. Non comprende transfer privato e extra, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nPattaya City.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "pranzo a bordo",
+   "bibite",
+   "attrezzatura da snorkeling",
+   "scivoli d'acqua"
   ],
   "notIncluded": [
    "transfer privato",
@@ -36907,6 +37083,41 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "spese personali, pasti, gratifiche e voci non specificamente menzionate tra gli elementi inclusi"
+  ]
+ },
+ "samae-san-island-snorkeling-and-kayak-tour-in-pattaya": {
+  "title": "Tour di snorkeling e kayak a Samae San Island, a Pattaya",
+  "metaTitle": "Tour di snorkeling e kayak a Samae San Island, a Pattaya",
+  "shortDescription": "Escursione di 8 ore a Pattaya, con River boat and Samae San Island. Operatore: SST Global Tour, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 8 ore da Pattaya, costruita intorno a River boat and Samae San Island. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende assicurazione, giubbotto di salvataggio, attrezzatura per lo snorkeling, lettino da spiaggia e trasferimento in traghetto all'isola di Samae San. Non comprende mance, spese personali, altre spese non menzionate sopra e pranzo, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nPattaya City.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "assicurazione",
+   "giubbotto di salvataggio",
+   "attrezzatura per lo snorkeling",
+   "lettino da spiaggia",
+   "trasferimento in traghetto all'isola di Samae San"
+  ],
+  "notIncluded": [
+   "mance",
+   "spese personali",
+   "altre spese non menzionate sopra",
+   "pranzo"
+  ]
+ },
+ "dragon-tower-buddha-temple-and-floating-market-tour": {
+  "title": "Tour della Torre del Dragone, del tempio buddista e del mercato flottante",
+  "metaTitle": "Tour della Torre del Dragone, del tempio buddista e del mercato",
+  "shortDescription": "Escursione di 10 ore a Pattaya, con วัดเวฬุวนาราม (ไผ่เขียว) e Wat Phra Dhammakaya and Som Tum Khun Dang Restaurant & cafe. Operatore: Pattaya Guide Travel, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 10 ore da Pattaya, costruita intorno a วัดเวฬุวนาราม (ไผ่เขียว) e Wat Phra Dhammakaya and Som Tum Khun Dang Restaurant & cafe. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nDamnoen Saduak, 100 kilometres south-west of Bangkok, is the floating market of the postcards: boats of fruit and noodles on a canal dug in the 1860s, working by 7:00 and finished by 11:00, which is why tours leave the city at 6:30. It is crowded and much of the trade is souvenirs, and it is still worth an hour on the water. Amphawa, nearby, runs Friday to Sunday afternoons and evenings and is the one Bangkok residents prefer, with firefly boat trips after dark. Taling Chan and Khlong Lat Mayom are small weekend markets inside the city where the food is the point.\n\nIl prezzo comprende acqua potabile, pranzo thailandese e veicolo con aria condizionata. Non comprende bevande alcoliche, gratifiche e spese personali, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nPattaya City.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "acqua potabile",
+   "pranzo thailandese",
+   "veicolo con aria condizionata"
+  ],
+  "notIncluded": [
+   "bevande alcoliche",
+   "gratifiche",
+   "spese personali"
   ]
  },
  "guided-shared-small-group-city-tour-in-pattaya": {
@@ -37019,6 +37230,18 @@ export const IT_TOURS: Record<string, TourT> = {
    "trasporto da e per il ristorante"
   ]
  },
+ "portal-vr-arena-vr-games-attractions-birthday-party-in-pattaya": {
+  "title": "Portal VR Arena: giochi VR, attrazioni e feste di compleanno, a Pattaya",
+  "metaTitle": "Portal VR Arena: giochi VR, attrazioni e feste di compleanno, a",
+  "shortDescription": "Escursione di una giornata intera a Pattaya, con entra in un mondo di divertimento in realtà virtuale, un invito a genitori e amanti dell'adrenalina: scatena la magia della realtà virtuale con la nostra esperienza di gioco immersiva, che trasporterà te e tuo figlio in nuove dimensioni di emozione e perché scegliere noi. Operatore: Portal VR, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di una giornata intera a Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende entra in un mondo di divertimento in realtà virtuale, un invito a genitori e amanti dell'adrenalina: scatena la magia della realtà virtuale con la nostra esperienza di gioco immersiva, che trasporterà te e tuo figlio in nuove dimensioni di emozione e perché scegliere noi. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "entra in un mondo di divertimento in realtà virtuale",
+   "un invito a genitori e amanti dell'adrenalina: scatena la magia della realtà virtuale con la nostra esperienza di gioco immersiva, che trasporterà te e tuo figlio in nuove dimensioni di emozione",
+   "perché scegliere noi"
+  ],
+  "notIncluded": []
+ },
  "bkk-to-pattaya-candy-wonderland-sheep-farm-and-sunset-bar-by-local-operator": {
   "title": "Da Bangkok a Pattaya: Candy Wonderland, fattoria di pecore e bar al tramonto, con operatore locale",
   "metaTitle": "Da Bangkok a Pattaya: Candy Wonderland, fattoria di pecore e bar",
@@ -37050,6 +37273,21 @@ export const IT_TOURS: Record<string, TourT> = {
    "asciugamano",
    "cambio di vestiti",
    "crema solare"
+  ]
+ },
+ "pattaya-aquaverse-water-park-day-pass-with-transfers-by-local-operator": {
+  "title": "Pattaya: pass giornaliero all'Aquaverse Water Park con trasferimenti, con operatore locale",
+  "metaTitle": "Pattaya: pass giornaliero all'Aquaverse Water Park con",
+  "shortDescription": "Escursione di 8 ore a Pattaya, con biglietto d'ingresso giornaliero all'Aquaverse, transfer di andata e ritorno in hotel e accesso a scivoli, piscine e aree a tema. Operatore: AMAKA TOURS TRAVEL, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 8 ore a Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende biglietto d'ingresso giornaliero all'Aquaverse, transfer di andata e ritorno in hotel e accesso a scivoli, piscine e aree a tema. Non comprende cibo e bevande e noleggio armadietto (300 THB), da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Pattaya City and The Column; il luogo e l'ora esatti vengono concordati con AMAKA TOURS TRAVEL una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nRitiro in hotel a Pattaya. AMAKA TOURS TRAVEL confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "biglietto d'ingresso giornaliero all'Aquaverse",
+   "transfer di andata e ritorno in hotel",
+   "accesso a scivoli, piscine e aree a tema"
+  ],
+  "notIncluded": [
+   "cibo e bevande",
+   "noleggio armadietto (300 THB)"
   ]
  },
  "ayutthaya-and-big-buddha-full-day-tour": {
@@ -37181,6 +37419,46 @@ export const IT_TOURS: Record<string, TourT> = {
    "trasporto"
   ]
  },
+ "the-beach-wat-yai-and-koh-larn-day-trip-and-transfer": {
+  "title": "La spiaggia, Wat Yai e Koh Larn: gita di un giorno e trasferimento",
+  "metaTitle": "La spiaggia, Wat Yai e Koh Larn: gita di un giorno e",
+  "shortDescription": "Escursione di 80 minuti a Pattaya, con trasporto di andata e ritorno, guida in lingua inglese e ingresso gratuito al Frost Magical of Siam. Operatore: WendyMu Travel, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 80 minuti a Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende trasporto di andata e ritorno, guida in lingua inglese e ingresso gratuito al Frost Magical of Siam. Non comprende attività acquatiche opzionali come snorkeling, banana boat o moto d'acqua, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasporto di andata e ritorno",
+   "guida in lingua inglese",
+   "ingresso gratuito al Frost Magical of Siam"
+  ],
+  "notIncluded": [
+   "attività acquatiche opzionali come snorkeling, banana boat o moto d'acqua"
+  ]
+ },
+ "full-day-guided-enduro-tour-with-meal-in-pattaya": {
+  "title": "Tour guidato di enduro per tutta la giornata con pasto, a Pattaya",
+  "metaTitle": "Tour guidato di enduro per tutta la giornata con pasto, a Pattaya",
+  "shortDescription": "Escursione di 7 ore a Pattaya, con Chonburi Province. Operatore: ATV Adventures Pattaya, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 7 ore da Pattaya, costruita intorno a Chonburi Province. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, guida turistica professionista e moto da cross Kawasaki e Honda e carburante. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nPattaya City.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "guida turistica professionista",
+   "moto da cross Kawasaki e Honda e carburante"
+  ],
+  "notIncluded": []
+ },
+ "private-pattaya-highlights-and-sanctuary-of-truth": {
+  "title": "Punti d'interesse privati di Pattaya e Sanctuary of Truth",
+  "metaTitle": "Punti d'interesse privati di Pattaya e Sanctuary of Truth",
+  "shortDescription": "Escursione di 9 ore a Pattaya, con Ko Loi e Sanctuary of Truth and Pattaya. Operatore: Roamhertravel, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 9 ore a Pattaya, costruita intorno a Ko Loi e Sanctuary of Truth and Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende guida privata, trasporto privato, tutti i biglietti d'ingresso, ritiro e riaccompagno in hotel e acqua in bottiglia. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nBangkok.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "guida privata",
+   "trasporto privato",
+   "tutti i biglietti d'ingresso",
+   "ritiro e riaccompagno in hotel",
+   "acqua in bottiglia"
+  ],
+  "notIncluded": []
+ },
  "3-islands-catamaran-tour-with-buffet-lunch-in-pattaya": {
   "title": "Tour in catamarano alle 3 isole con pranzo a buffet, da Pattaya",
   "metaTitle": "Tour in catamarano alle 3 isole con pranzo a buffet, da Pattaya",
@@ -37290,6 +37568,41 @@ export const IT_TOURS: Record<string, TourT> = {
    "cibo e bevande",
    "noleggio golf cart e autista nello zoo",
    "spese per lo shopping al J-Park"
+  ]
+ },
+ "waterfall-swim-cave-river-and-naga-temple-day-trip-in-pattaya": {
+  "title": "Cascata, nuoto, grotta, fiume e tempio Naga: gita di un giorno, a Pattaya",
+  "metaTitle": "Cascata, nuoto, grotta, fiume e tempio Naga: gita di un giorno,",
+  "shortDescription": "Escursione di 12 ore a Pattaya, con Khao Chamao Waterfall e Than Chamao Resort and Wat Tham Khao Prathun. Operatore: Pattaya Guide Travel, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 12 ore da Pattaya, costruita intorno a Khao Chamao Waterfall e Than Chamao Resort and Wat Tham Khao Prathun. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende ritiro e riaccompagno in hotel a Pattaya, furgone con aria condizionata e guida in lingua inglese. Non comprende bevande alcoliche, spese personali e gratifiche, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nPattaya City.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel a Pattaya",
+   "furgone con aria condizionata",
+   "guida in lingua inglese"
+  ],
+  "notIncluded": [
+   "bevande alcoliche",
+   "spese personali",
+   "gratifiche"
+  ]
+ },
+ "2-5-islands-jet-ski-adventure-2h-and-4h-experience-in-pattaya": {
+  "title": "Avventura in moto d'acqua tra 2-5 isole, esperienza di 2h o 4h, a Pattaya",
+  "metaTitle": "Avventura in moto d'acqua tra 2-5 isole, esperienza di 2h o 4h,",
+  "shortDescription": "Escursione di 2 ore a Pattaya, con Jomtien Beach e Pattaya View Point and Sanctuary of Truth. Operatore: TSA_Thailand, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 2 ore a Pattaya, costruita intorno a Jomtien Beach e Pattaya View Point and Sanctuary of Truth. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende servizio di ritiro in hotel, assicurazione di viaggio, video da action camera, attrezzatura da snorkeling e giubbotti di salvataggio. Non comprende cibo e bevande sull'isola, costi per danni alla moto d'acqua causati da incidenti, mance e spese personali e tassa del parco nazionale 100 THB/persona (solo percorso meridionale), da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nPattaya City.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "servizio di ritiro in hotel",
+   "assicurazione di viaggio",
+   "video da action camera",
+   "attrezzatura da snorkeling",
+   "giubbotti di salvataggio"
+  ],
+  "notIncluded": [
+   "cibo e bevande sull'isola",
+   "costi per danni alla moto d'acqua causati da incidenti",
+   "mance e spese personali",
+   "tassa del parco nazionale 100 THB/persona (solo percorso meridionale)"
   ]
  },
  "colosseum-show-entry-ticket-for-foreigners-in-pattaya": {
@@ -37558,6 +37871,20 @@ export const IT_TOURS: Record<string, TourT> = {
    "attività acquatiche non consentite per bambini sotto i 6 anni"
   ]
  },
+ "easykart-pattaya-thepprasit-go-kart-racing-experience-by-local-operator": {
+  "title": "EasyKart Pattaya (Thepprasit): esperienza di gare in go-kart, con operatore locale",
+  "metaTitle": "EasyKart Pattaya (Thepprasit): esperienza di gare in go-kart,",
+  "shortDescription": "Escursione a Pattaya, con attrezzatura di sicurezza (casco, tuta da gara se necessario, cuffia igienica), chiave dell'armadietto e accesso alla pit lane e alla terrazza panoramica. Operatore: EasyKart, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza a Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende attrezzatura di sicurezza (casco, tuta da gara se necessario, cuffia igienica), chiave dell'armadietto e accesso alla pit lane e alla terrazza panoramica. Non comprende scarpe sportive (disponibili a noleggio se non si hanno le proprie), da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "attrezzatura di sicurezza (casco, tuta da gara se necessario, cuffia igienica)",
+   "chiave dell'armadietto",
+   "accesso alla pit lane e alla terrazza panoramica"
+  ],
+  "notIncluded": [
+   "scarpe sportive (disponibili a noleggio se non si hanno le proprie)"
+  ]
+ },
  "muscat-wahiba-desert-and-wadi-bani-khalid-in-pattaya": {
   "title": "Muscat: Deserto di Wahiba e Wadi Bani Khalid a Pattaya",
   "metaTitle": "Muscat: Deserto di Wahiba e Wadi Bani Khalid a Pattaya",
@@ -37600,6 +37927,38 @@ export const IT_TOURS: Record<string, TourT> = {
    "altro cibo e bevande (disponibili da ordinare sul posto)",
    "richieste specifiche di posto nell'area \"net\"",
    "spesa minima: 1.000 THB per 2 ore (fino a 4 ospiti)."
+  ]
+ },
+ "ramayana-water-park-entry-ticket-and-transfer-in-pattaya": {
+  "title": "Biglietto d'ingresso al Ramayana Water Park con trasferimento, a Pattaya",
+  "metaTitle": "Biglietto d'ingresso al Ramayana Water Park con trasferimento, a",
+  "shortDescription": "Escursione di una giornata intera a Pattaya, con Ramayana Water Park. Operatore: Pattaya Guide Travel, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di una giornata intera da Pattaya, costruita intorno a Ramayana Water Park. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende biglietto d'ingresso al Ramayana Water Park, accesso illimitato a tutti gli scivoli d'acqua e alle attrazioni per la giornata, trasferimento di andata e ritorno in hotel da Pattaya, supervisione dei bagnini in tutto il parco e ingresso gratuito per bambini sotto i 106 cm. Non comprende noleggio armadietto (120 THB) e cibo e bevande, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nPattaya City.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "biglietto d'ingresso al Ramayana Water Park",
+   "accesso illimitato a tutti gli scivoli d'acqua e alle attrazioni per la giornata",
+   "trasferimento di andata e ritorno in hotel da Pattaya",
+   "supervisione dei bagnini in tutto il parco",
+   "ingresso gratuito per bambini sotto i 106 cm"
+  ],
+  "notIncluded": [
+   "noleggio armadietto (120 THB)",
+   "cibo e bevande"
+  ]
+ },
+ "let-s-relax-onsen-and-spa-all-day-pass-in-pattaya": {
+  "title": "Let's Relax Onsen & Spa: pass giornaliero, a Pattaya",
+  "metaTitle": "Let's Relax Onsen & Spa: pass giornaliero, a Pattaya",
+  "shortDescription": "Escursione a Pattaya, con accesso giornaliero a Let's Relax Onsen & Spa Pattaya. Operatore: MY Holiday Centre, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza a Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende accesso giornaliero a Let's Relax Onsen & Spa Pattaya. Non comprende trattamenti di massaggio, pacchetti spa, cibo e bevande e ritiro e riaccompagno in hotel, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "accesso giornaliero a Let's Relax Onsen & Spa Pattaya"
+  ],
+  "notIncluded": [
+   "trattamenti di massaggio",
+   "pacchetti spa",
+   "cibo e bevande",
+   "ritiro e riaccompagno in hotel"
   ]
  },
  "scuba-diving-3-islands-for-beginner-with-transfer-in-pattaya": {
@@ -37686,6 +38045,18 @@ export const IT_TOURS: Record<string, TourT> = {
    "mance e gratifiche"
   ]
  },
+ "elephant-jungle-sanctuary-half-day-tour-with-meal-in-pattaya": {
+  "title": "Elephant Jungle Sanctuary: tour di mezza giornata con pasto, a Pattaya",
+  "metaTitle": "Elephant Jungle Sanctuary: tour di mezza giornata con pasto, a",
+  "shortDescription": "Escursione di 3 ore a Pattaya, con Elephant Jungle Sanctuary Pattaya. Operatore: Elephant Jungle Sanctuary Pattaya, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 3 ore a Pattaya, costruita intorno a Elephant Jungle Sanctuary Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende tour, guida e ritiro e riaccompagno. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nPattaya City.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "tour",
+   "guida",
+   "ritiro e riaccompagno"
+  ],
+  "notIncluded": []
+ },
  "big-buddha-temple-and-night-market-tour-in-pattaya": {
   "title": "Tour del Tempio del Big Buddha e del mercato notturno a Pattaya",
   "metaTitle": "Tour del Tempio del Big Buddha e del mercato notturno a Pattaya",
@@ -37760,6 +38131,20 @@ export const IT_TOURS: Record<string, TourT> = {
    "mance"
   ]
  },
+ "the-sky-32-dining-packages-at-grande-centrepoint-hotel-in-pattaya": {
+  "title": "The Sky 32: pacchetti cena al Grande Centrepoint Hotel, a Pattaya",
+  "metaTitle": "The Sky 32: pacchetti cena al Grande Centrepoint Hotel, a Pattaya",
+  "shortDescription": "Escursione di 1,5 ore a Pattaya, con cibo e bevande di alta qualità, vista panoramica sulla città di Pattaya e ospitalità impeccabile. Operatore: Hungry Hub, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 1,5 ore a Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende cibo e bevande di alta qualità, vista panoramica sulla città di Pattaya e ospitalità impeccabile. Non comprende trasporto, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "cibo e bevande di alta qualità",
+   "vista panoramica sulla città di Pattaya",
+   "ospitalità impeccabile"
+  ],
+  "notIncluded": [
+   "trasporto"
+  ]
+ },
  "koh-larn-beach-day-trip-with-parasailing-and-lunch": {
   "title": "Gita di un giorno alla spiaggia di Koh Larn con parasailing e pranzo",
   "metaTitle": "Gita di un giorno alla spiaggia di Koh Larn con parasailing e",
@@ -37777,6 +38162,35 @@ export const IT_TOURS: Record<string, TourT> = {
    "mance e gratifiche"
   ]
  },
+ "koh-larn-speedboat-transfer-ticket": {
+  "title": "Biglietto per il trasferimento in motoscafo a Koh Larn",
+  "metaTitle": "Biglietto per il trasferimento in motoscafo a Koh Larn",
+  "shortDescription": "Escursione di 20 minuti a Pattaya, con biglietto di sola andata o di andata e ritorno e puoi selezionarlo nelle opzioni. Operatore: Smileon Corner, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 20 minuti a Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende biglietto di sola andata o di andata e ritorno e puoi selezionarlo nelle opzioni. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "biglietto di sola andata o di andata e ritorno",
+   "puoi selezionarlo nelle opzioni"
+  ],
+  "notIncluded": []
+ },
+ "frost-magical-ice-of-siam-entry-with-transfers-in-pattaya": {
+  "title": "Ingresso al Frost Magical Ice of Siam con trasferimenti, a Pattaya",
+  "metaTitle": "Ingresso al Frost Magical Ice of Siam con trasferimenti, a",
+  "shortDescription": "Escursione di 3 ore a Pattaya, con trasferimento di andata e ritorno dall'area urbana di Pattaya, trasporto con aria condizionata, biglietto d'ingresso al Frost Magical Ice of Siam e cappotto in omaggio per la cupola di ghiaccio. Operatore: AMAKA TOURS TRAVEL, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 3 ore a Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende trasferimento di andata e ritorno dall'area urbana di Pattaya, trasporto con aria condizionata, biglietto d'ingresso al Frost Magical Ice of Siam e cappotto in omaggio per la cupola di ghiaccio. Non comprende spese personali, mance e gratifiche, stivali da neve e guanti, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimento di andata e ritorno dall'area urbana di Pattaya",
+   "trasporto con aria condizionata",
+   "biglietto d'ingresso al Frost Magical Ice of Siam",
+   "cappotto in omaggio per la cupola di ghiaccio"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "mance e gratifiche",
+   "stivali da neve",
+   "guanti"
+  ]
+ },
  "onsen-hot-springs-therapeutic-experience-in-pattaya": {
   "title": "Esperienza terapeutica alle terme onsen a Pattaya",
   "metaTitle": "Esperienza terapeutica alle terme onsen a Pattaya",
@@ -37792,6 +38206,23 @@ export const IT_TOURS: Record<string, TourT> = {
    "cibo e bevande",
    "spese personali",
    "transfer in hotel"
+  ]
+ },
+ "pattaya-highlights-private-half-day-tour-by-local-operator": {
+  "title": "Pattaya: punti d'interesse, tour privato di mezza giornata, con operatore locale",
+  "metaTitle": "Pattaya: punti d'interesse, tour privato di mezza giornata, con",
+  "shortDescription": "Escursione di 6 ore a Pattaya, con veicolo privato, costi del carburante e assicurazione contro gli infortuni. Operatore: SST Global Tour, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 6 ore a Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende veicolo privato, costi del carburante e assicurazione contro gli infortuni. Non comprende spettacoli di cultura thailandese a Nong Nooch, giro in barca al mercato flottante, tutti i pasti durante il tour e altre spese personali, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "veicolo privato",
+   "costi del carburante",
+   "assicurazione contro gli infortuni"
+  ],
+  "notIncluded": [
+   "spettacoli di cultura thailandese a Nong Nooch",
+   "giro in barca al mercato flottante",
+   "tutti i pasti durante il tour",
+   "altre spese personali"
   ]
  },
  "elephant-jungle-sanctuary-feeding-experience-in-pattaya": {
@@ -37835,6 +38266,20 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "cibo e bevande"
+  ]
+ },
+ "nong-nooch-tropical-garden-tickets-with-private-hotel-pickup-pattaya": {
+  "title": "Biglietti per il Nong Nooch Tropical Garden con prelievo privato in hotel (Pattaya)",
+  "metaTitle": "Biglietti per il Nong Nooch Tropical Garden con prelievo privato",
+  "shortDescription": "Escursione di una giornata intera a Pattaya, con biglietto d'ingresso al Nong Nooch Tropical Garden, accesso al bus panoramico e accesso agli spettacoli. Operatore: Holidays World Pte Ltd, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di una giornata intera a Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende biglietto d'ingresso al Nong Nooch Tropical Garden, accesso al bus panoramico e accesso agli spettacoli. Non comprende shopping e spese personali, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nRitiro in hotel a Pattaya. Holidays World Pte Ltd confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "biglietto d'ingresso al Nong Nooch Tropical Garden",
+   "accesso al bus panoramico",
+   "accesso agli spettacoli"
+  ],
+  "notIncluded": [
+   "shopping e spese personali"
   ]
  },
  "indoor-shooting-range-experience-in-pattaya": {
@@ -37900,6 +38345,22 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "jet-ski-experience-in-pattaya": {
+  "title": "Esperienza in moto d'acqua, a Pattaya",
+  "metaTitle": "Esperienza in moto d'acqua, a Pattaya",
+  "shortDescription": "Escursione di 30 minuti a Pattaya, con noleggio moto d'acqua, attrezzatura di sicurezza, demo di sicurezza, supervisione e strutture per la doccia. Operatore: Pattaya water sport club, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 30 minuti a Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende noleggio moto d'acqua, attrezzatura di sicurezza, demo di sicurezza, supervisione e strutture per la doccia. Non comprende cibo, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "noleggio moto d'acqua",
+   "attrezzatura di sicurezza",
+   "demo di sicurezza",
+   "supervisione",
+   "strutture per la doccia"
+  ],
+  "notIncluded": [
+   "cibo"
+  ]
+ },
  "exclusive-3-island-catamaran-tour-with-buffet-lunch-in-pattaya": {
   "title": "Esclusivo tour in catamarano alle 3 isole con pranzo a buffet a Pattaya",
   "metaTitle": "Esclusivo tour in catamarano alle 3 isole con pranzo a buffet a",
@@ -37933,6 +38394,21 @@ export const IT_TOURS: Record<string, TourT> = {
    "spese personali"
   ]
  },
+ "private-pattaya-day-tour-sanctuary-of-truth-and-beach-caf-by-local-operator": {
+  "title": "Pattaya: tour privato di un giorno, Sanctuary of Truth e caffè in spiaggia, con operatore locale",
+  "metaTitle": "Pattaya: tour privato di un giorno, Sanctuary of Truth e caffè",
+  "shortDescription": "Escursione di 10 ore a Pattaya, con Sanctuary of Truth and Khao Phra Tamnak Viewpoint. Operatore: ori travel, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 10 ore da Pattaya, costruita intorno a Sanctuary of Truth and Khao Phra Tamnak Viewpoint. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende biglietto d'ingresso al Sanctuary of Truth, visita al punto panoramico Khao Phra Tamnak e prelievo e riconsegna in hotel a Bangkok. Non comprende pasti e altre bevande e spese personali, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nBangkok.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "biglietto d'ingresso al Sanctuary of Truth",
+   "visita al punto panoramico Khao Phra Tamnak",
+   "prelievo e riconsegna in hotel a Bangkok"
+  ],
+  "notIncluded": [
+   "pasti e altre bevande",
+   "spese personali"
+  ]
+ },
  "mini-siam-entry-ticket-in-pattaya": {
   "title": "Biglietto d'ingresso a Mini Siam a Pattaya",
   "metaTitle": "Biglietto d'ingresso a Mini Siam a Pattaya",
@@ -37963,6 +38439,22 @@ export const IT_TOURS: Record<string, TourT> = {
    "crociera in mare facoltativa"
   ]
  },
+ "the-sanctuary-of-truth-with-private-transfer-in-pattaya": {
+  "title": "Il Sanctuary of Truth con trasferimento privato, a Pattaya",
+  "metaTitle": "Il Sanctuary of Truth con trasferimento privato, a Pattaya",
+  "shortDescription": "Escursione di una giornata intera a Pattaya, con biglietto d'ingresso, conducente con inglese di base e trasferimento di andata e ritorno da Bangkok. Operatore: One Asia Corporation, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di una giornata intera a Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende biglietto d'ingresso, conducente con inglese di base e trasferimento di andata e ritorno da Bangkok. Non comprende cibo e bevande, spese personali e mance, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "biglietto d'ingresso",
+   "conducente con inglese di base",
+   "trasferimento di andata e ritorno da Bangkok"
+  ],
+  "notIncluded": [
+   "cibo e bevande",
+   "spese personali",
+   "mance"
+  ]
+ },
  "ramayana-water-park-columbia-pictures-aquaverse-in-pattaya": {
   "title": "Ramayana Water Park / Columbia Pictures Aquaverse a Pattaya",
   "metaTitle": "Ramayana Water Park / Columbia Pictures Aquaverse a Pattaya",
@@ -37977,6 +38469,67 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "pasti"
+  ]
+ },
+ "pattaya-elephant-jungle-sanctuary-half-day-tour": {
+  "title": "Pattaya: tour di mezza giornata all'Elephant Jungle Sanctuary",
+  "metaTitle": "Pattaya: tour di mezza giornata all'Elephant Jungle Sanctuary",
+  "shortDescription": "Escursione di 3 ore a Pattaya, con Elephant Jungle Sanctuary Pattaya. Operatore: Elephant Jungle Sanctuary Pattaya, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 3 ore a Pattaya, costruita intorno a Elephant Jungle Sanctuary Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende trasporto di andata e ritorno da Bangkok, ritiro e riaccompagno in hotel (se questa opzione è selezionata) e guida turistica. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nBangkok.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasporto di andata e ritorno da Bangkok",
+   "ritiro e riaccompagno in hotel (se questa opzione è selezionata)",
+   "guida turistica"
+  ],
+  "notIncluded": []
+ },
+ "floating-market-tour-with-hotel-transfer-and-guide": {
+  "title": "Tour del mercato flottante con trasferimento in hotel e guida",
+  "metaTitle": "Tour del mercato flottante con trasferimento in hotel e guida",
+  "shortDescription": "Escursione di 3 ore a Pattaya, con Pattaya Floating Market. Operatore: Sun Leisure World Corporation, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 3 ore a Pattaya, costruita intorno a Pattaya Floating Market. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nDamnoen Saduak, 100 kilometres south-west of Bangkok, is the floating market of the postcards: boats of fruit and noodles on a canal dug in the 1860s, working by 7:00 and finished by 11:00, which is why tours leave the city at 6:30. It is crowded and much of the trade is souvenirs, and it is still worth an hour on the water. Amphawa, nearby, runs Friday to Sunday afternoons and evenings and is the one Bangkok residents prefer, with firefly boat trips after dark. Taling Chan and Khlong Lat Mayom are small weekend markets inside the city where the food is the point.\n\nIl prezzo comprende transfer di andata e ritorno, guida in lingua inglese e costi d'ingresso. Non comprende spese personali e mance e gratifiche, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nPattaya City.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "transfer di andata e ritorno",
+   "guida in lingua inglese",
+   "costi d'ingresso"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "mance e gratifiche"
+  ]
+ },
+ "khao-kheow-zoo-private-tour-with-pickup-in-pattaya": {
+  "title": "Tour privato allo zoo di Khao Kheow con prelievo, a Pattaya",
+  "metaTitle": "Tour privato allo zoo di Khao Kheow con prelievo, a Pattaya",
+  "shortDescription": "Escursione di 6 ore a Pattaya, con assicurazione, pedaggi e tasse di parcheggio. Operatore: SST Global Tour, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 6 ore a Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende assicurazione, pedaggi e tasse di parcheggio. Non comprende costi dei pasti, mance, spese personali e attività di alimentazione degli animali, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "assicurazione",
+   "pedaggi",
+   "tasse di parcheggio"
+  ],
+  "notIncluded": [
+   "costi dei pasti",
+   "mance",
+   "spese personali",
+   "attività di alimentazione degli animali"
+  ]
+ },
+ "pattaya-romantic-tour-from-bangkok-private-day-trip-by-local-operator": {
+  "title": "Pattaya: tour romantico da Bangkok, gita privata di un giorno, con operatore locale",
+  "metaTitle": "Pattaya: tour romantico da Bangkok, gita privata di un giorno,",
+  "shortDescription": "Escursione di 10 ore a Pattaya, con Sanctuary of Truth Pattaya e Wong Amat Beach and House of Benedict Pattaya. Operatore: Skyway Tours, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 10 ore a Pattaya, costruita intorno a Sanctuary of Truth Pattaya e Wong Amat Beach and House of Benedict Pattaya. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\nIl prezzo comprende veicolo privato con aria condizionata, prelievo e riconsegna in hotel a Bangkok e autista in lingua inglese. Non comprende costi d'ingresso alle attrazioni, pasti e bevande, spese personali e attività opzionali, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nBangkok.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "veicolo privato con aria condizionata",
+   "prelievo e riconsegna in hotel a Bangkok",
+   "autista in lingua inglese"
+  ],
+  "notIncluded": [
+   "costi d'ingresso alle attrazioni",
+   "pasti e bevande",
+   "spese personali",
+   "attività opzionali"
   ]
  },
  "james-bond-and-phang-nga-bay-tour-by-longtail": {
@@ -38179,6 +38732,20 @@ export const IT_TOURS: Record<string, TourT> = {
    "servizio di transfer gratuito da Patong, Kata, Karon"
   ]
  },
+ "blue-elephant-thai-cooking-class-with-market-tour-in-phuket": {
+  "title": "Blue Elephant: corso di cucina thailandese con visita al mercato, a Phuket",
+  "metaTitle": "Blue Elephant: corso di cucina thailandese con visita al",
+  "shortDescription": "Escursione di 4 ore a Phuket, con tutti gli ingredienti, grembiule Blue Elephant e certificato Blue Elephant. Operatore: Oh-Hoo, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore a Phuket. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende tutti gli ingredienti, grembiule Blue Elephant e certificato Blue Elephant. Non comprende ritiro e riaccompagno in hotel, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "tutti gli ingredienti",
+   "grembiule Blue Elephant",
+   "certificato Blue Elephant"
+  ],
+  "notIncluded": [
+   "ritiro e riaccompagno in hotel"
+  ]
+ },
  "white-water-rafting-zipline-and-elephant-feeding-in-phuket": {
   "title": "Rafting in acque bianche, zipline e alimentazione degli elefanti a Phuket",
   "metaTitle": "Rafting in acque bianche, zipline e alimentazione degli elefanti",
@@ -38247,6 +38814,37 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "alcol (disponibile all'acquisto)",
    "mance"
+  ]
+ },
+ "bukit-thai-cooking-class-in-phuket-by-local-operator": {
+  "title": "Bukit: corso di cucina thailandese, a Phuket, con operatore locale",
+  "metaTitle": "Bukit: corso di cucina thailandese, a Phuket, con operatore",
+  "shortDescription": "Escursione di 3 ore a Phuket, con trasferimento di andata e ritorno per Patong, Rawai, Laem Hin Pier, Bang Tao, Karon, Panwa, Kho Siray, Kalim, Kata, Phuket Town, Kamala, cibo per gli elefanti e ricetta esclusiva di cucina thailandese tramandata dagli abitanti del posto. Operatore: Bukit Elephant Park, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 3 ore a Phuket. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende trasferimento di andata e ritorno per Patong, Rawai, Laem Hin Pier, Bang Tao, Karon, Panwa, Kho Siray, Kalim, Kata, Phuket Town, Kamala, cibo per gli elefanti e ricetta esclusiva di cucina thailandese tramandata dagli abitanti del posto. Non comprende questo programma non include il tour del mercato, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimento di andata e ritorno per Patong, Rawai, Laem Hin Pier, Bang Tao, Karon, Panwa, Kho Siray, Kalim, Kata, Phuket Town, Kamala",
+   "cibo per gli elefanti",
+   "ricetta esclusiva di cucina thailandese tramandata dagli abitanti del posto"
+  ],
+  "notIncluded": [
+   "questo programma non include il tour del mercato"
+  ]
+ },
+ "lazy-khao-phing-kan-and-yao-islands-speedboat-day-tour-in-phuket": {
+  "title": "Giornata tranquilla a Khao Phing Kan e alle isole Yao in motoscafo, a Phuket",
+  "metaTitle": "Giornata tranquilla a Khao Phing Kan e alle isole Yao in",
+  "shortDescription": "Escursione di 8 ore a Phuket, con AA Marina e Speedboat and Phang Nga Bay. Operatore: Oh-Hoo, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 8 ore da Phuket, costruita intorno a AA Marina e Speedboat and Phang Nga Bay. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, piccolo rinfresco all'AA Marina Pier, informazioni effettive sul tuo tour in barca., delizioso pranzo e assicurazione di viaggio. Non comprende asciugamano e pinne e tassa del parco nazionale (300 THB per adulto e 150 THB per bambino), da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nPhuket.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "piccolo rinfresco all'AA Marina Pier",
+   "informazioni effettive sul tuo tour in barca.",
+   "delizioso pranzo",
+   "assicurazione di viaggio"
+  ],
+  "notIncluded": [
+   "asciugamano e pinne",
+   "tassa del parco nazionale (300 THB per adulto e 150 THB per bambino)"
   ]
  },
  "custom-perfume-workshop-at-boat-avenue-in-phuket": {
@@ -38369,6 +38967,23 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "cibo e bevande",
    "trasporto verso il luogo dell'attività"
+  ]
+ },
+ "khao-sok-lake-and-bamboo-rafting-tour-in-phuket": {
+  "title": "Lago di Khao Sok e tour in rafting su bambù, a Phuket",
+  "metaTitle": "Lago di Khao Sok e tour in rafting su bambù, a Phuket",
+  "shortDescription": "Escursione di 10 ore a Phuket, con trasferimenti di andata e ritorno in hotel da Phuket in minivan climatizzato, guida turistica professionista in lingua inglese e crociera in piccolo gruppo su longtail boat sul lago Cheow Lan. Operatore: Choke Chai M Travel, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 10 ore a Phuket. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nKhao Sok National Park, two hours north of Phuket, is rainforest older than the Amazon on limestone cliffs, and Cheow Lan lake at its heart, created by a 1982 dam, is a drowned valley of karst towers and floating raft-house camps. Day trips run a long-tail boat across the lake, a jungle walk to a cave and lunch on a raft; overnights in the raft houses, with the gibbons calling at dawn, are what the park is for. Khao Lak itself is the quiet coast north of Phuket, the base for Similan trips, and the shore worst hit by the 2004 tsunami, with a memorial park at Ban Nam Khem.\n\nIl prezzo comprende trasferimenti di andata e ritorno in hotel da Phuket in minivan climatizzato, guida turistica professionista in lingua inglese e crociera in piccolo gruppo su longtail boat sul lago Cheow Lan. Non comprende mance per la guida, il conducente e il vogatore della zattera (opzionali ma apprezzate), bevande alcoliche e spese personali, servizi fotografici professionali e costo d'ingresso al parco nazionale (340 THB), da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nRitiro in hotel a Phuket. Choke Chai M Travel confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimenti di andata e ritorno in hotel da Phuket in minivan climatizzato",
+   "guida turistica professionista in lingua inglese",
+   "crociera in piccolo gruppo su longtail boat sul lago Cheow Lan"
+  ],
+  "notIncluded": [
+   "mance per la guida, il conducente e il vogatore della zattera (opzionali ma apprezzate)",
+   "bevande alcoliche e spese personali",
+   "servizi fotografici professionali",
+   "costo d'ingresso al parco nazionale (340 THB)"
   ]
  },
  "2-racha-islands-snorkeling-from-yacht-full-day": {
@@ -38548,6 +39163,21 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "transfer privato",
+   "mance"
+  ]
+ },
+ "phuket-cheow-guided-tour": {
+  "title": "Tutto incluso: lago Cheow Lan, grotta, kayak e pranzo, a Phuket",
+  "metaTitle": "Tutto incluso: lago Cheow Lan, grotta, kayak e pranzo, a Phuket",
+  "shortDescription": "Escursione di 14 ore a Phuket, con Khao Sam Kloe and Cheow Lan Lake. Operatore: GRAND NATURE TRAVEL, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 14 ore da Phuket, costruita intorno a Khao Sam Kloe and Cheow Lan Lake. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende trasferimento di andata e ritorno in hotel con minivan VIP climatizzato, biglietto del parco nazionale, costi d'ingresso, biglietto del molo e assicurazione viaggio contro gli infortuni. Non comprende spese personali e mance, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nPhuket.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimento di andata e ritorno in hotel con minivan VIP climatizzato",
+   "biglietto del parco nazionale, costi d'ingresso, biglietto del molo",
+   "assicurazione viaggio contro gli infortuni"
+  ],
+  "notIncluded": [
+   "spese personali",
    "mance"
   ]
  },
@@ -38820,6 +39450,21 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "supplemento per il ritiro fuori dalle zone di ritiro gratuito (se applicabile)",
    "bevande alcoliche"
+  ]
+ },
+ "phuket-rainforest-organic-farm-to-table-cooking-class-by-local-operator": {
+  "title": "Phuket: corso di cucina dalla foresta pluviale alla tavola, con operatore locale",
+  "metaTitle": "Phuket: corso di cucina dalla foresta pluviale alla tavola, con",
+  "shortDescription": "Escursione di 4 ore a Phuket, con trasferimenti di andata e ritorno in hotel dalle zone designate, laboratorio di cucina di mezza giornata con uno chef locale e visita alla fattoria biologica e sessione di raccolta. Operatore: Choke Chai M Travel, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore a Phuket. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende trasferimenti di andata e ritorno in hotel dalle zone designate, laboratorio di cucina di mezza giornata con uno chef locale e visita alla fattoria biologica e sessione di raccolta. Non comprende bevande alcoliche e spese personali e souvenir, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nRitiro in hotel a Phuket. Choke Chai M Travel confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimenti di andata e ritorno in hotel dalle zone designate",
+   "laboratorio di cucina di mezza giornata con uno chef locale",
+   "visita alla fattoria biologica e sessione di raccolta"
+  ],
+  "notIncluded": [
+   "bevande alcoliche",
+   "spese personali e souvenir"
   ]
  },
  "luxury-cruise-to-james-bond-island-and-phang-nga-bay": {
@@ -40001,6 +40646,20 @@ export const IT_TOURS: Record<string, TourT> = {
    "tasse del parco nazionale: 400 THB/adulto e 200 THB/bambino"
   ]
  },
+ "james-bond-island-by-longtail-boat-and-money-temple": {
+  "title": "James Bond Island con longtail boat e il tempio del denaro",
+  "metaTitle": "James Bond Island con longtail boat e il tempio del denaro",
+  "shortDescription": "Escursione di 9 ore a Phuket, con River boat. Operatore: Choke Chai M Travel, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 9 ore da Phuket, costruita intorno a River boat. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende transfer di andata e ritorno, pranzo a buffet nel villaggio di Panyee e attrezzatura per la canoa. Non comprende tassa del parco nazionale (300 THB per adulto e 200 THB per bambino), da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Chalong e Pa Tong and Thalang District; il luogo e l'ora esatti vengono concordati con Choke Chai M Travel una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "transfer di andata e ritorno",
+   "pranzo a buffet nel villaggio di Panyee",
+   "attrezzatura per la canoa"
+  ],
+  "notIncluded": [
+   "tassa del parco nazionale (300 THB per adulto e 200 THB per bambino)"
+  ]
+ },
  "surin-islands-and-moken-village-day-tour-with-snorkel-in-phuket": {
   "title": "Tour di un giorno alle isole Surin e al villaggio Moken con snorkeling, da Phuket",
   "metaTitle": "Tour di un giorno alle isole Surin e al villaggio Moken con",
@@ -40086,6 +40745,21 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "spese personali",
    "gratifiche"
+  ]
+ },
+ "bamboo-rafting-turtle-center-and-lampi-waterfall-in-phuket": {
+  "title": "Rafting in bambù, centro delle tartarughe e cascata di Lampi, a Phuket",
+  "metaTitle": "Rafting in bambù, centro delle tartarughe e cascata di Lampi, a",
+  "shortDescription": "Escursione di 4 ore a Phuket, con Bus/coach e Khao Lak and Sea Turtle Conservation Center. Operatore: Khaolak Planner, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore da Phuket, costruita intorno a Bus/coach e Khao Lak and Sea Turtle Conservation Center. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nKhao Sok National Park, two hours north of Phuket, is rainforest older than the Amazon on limestone cliffs, and Cheow Lan lake at its heart, created by a 1982 dam, is a drowned valley of karst towers and floating raft-house camps. Day trips run a long-tail boat across the lake, a jungle walk to a cave and lunch on a raft; overnights in the raft houses, with the gibbons calling at dawn, are what the park is for. Khao Lak itself is the quiet coast north of Phuket, the base for Similan trips, and the shore worst hit by the 2004 tsunami, with a memorial park at Ban Nam Khem.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, acqua potabile, bibite e biglietti d'ingresso. Non comprende gratifiche e foto ricordo, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nKhuekkhak.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "acqua potabile, bibite",
+   "biglietti d'ingresso"
+  ],
+  "notIncluded": [
+   "gratifiche",
+   "foto ricordo"
   ]
  },
  "rafting-atv-zipline-and-jungle-tour-in-phuket": {
@@ -40769,6 +41443,38 @@ export const IT_TOURS: Record<string, TourT> = {
    "alloggio"
   ]
  },
+ "james-bond-island-and-canoeing-day-tour-by-boat": {
+  "title": "Tour di un giorno in barca a James Bond Island con canoa",
+  "metaTitle": "Tour di un giorno in barca a James Bond Island con canoa",
+  "shortDescription": "Escursione di 7 ore a Phuket, con ritiro e riaccompagno in hotel a Phuket, biglietto d'ingresso al parco nazionale e assicurazione contro gli infortuni. Operatore: One Asia Corporation, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 7 ore a Phuket. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende ritiro e riaccompagno in hotel a Phuket, biglietto d'ingresso al parco nazionale e assicurazione contro gli infortuni. Non comprende spese proprie, bevande alcoliche, asciugamano e mance, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nRitiro in hotel a Phuket. One Asia Corporation confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel a Phuket",
+   "biglietto d'ingresso al parco nazionale",
+   "assicurazione contro gli infortuni"
+  ],
+  "notIncluded": [
+   "spese proprie",
+   "bevande alcoliche",
+   "asciugamano",
+   "mance"
+  ]
+ },
+ "all-inclusive-cheow-lan-lake-cave-kayak-and-lunch-in-phuket-2": {
+  "title": "Tutto incluso: lago Cheow Lan, grotta, kayak e pranzo, a Phuket",
+  "metaTitle": "Tutto incluso: lago Cheow Lan, grotta, kayak e pranzo, a Phuket",
+  "shortDescription": "Escursione di 14 ore a Phuket, con Khao Sam Kloe and Cheow Lan Lake. Operatore: GRAND NATURE TRAVEL, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 14 ore da Phuket, costruita intorno a Khao Sam Kloe and Cheow Lan Lake. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende trasferimento di andata e ritorno in hotel con minivan VIP climatizzato, biglietto del parco nazionale, costi d'ingresso, biglietto del molo e assicurazione viaggio contro gli infortuni. Non comprende spese personali e gratifica, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nPhuket.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimento di andata e ritorno in hotel con minivan VIP climatizzato",
+   "biglietto del parco nazionale, costi d'ingresso, biglietto del molo",
+   "assicurazione viaggio contro gli infortuni"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "gratifica"
+  ]
+ },
  "phang-nga-bay-catamaran-adventure-tour": {
   "title": "Tour avventura in catamarano alla baia di Phang Nga",
   "metaTitle": "Tour avventura in catamarano alla baia di Phang Nga",
@@ -41020,6 +41726,21 @@ export const IT_TOURS: Record<string, TourT> = {
    "tassa per il servizio bagagli, 100 THB a bagaglio"
   ]
  },
+ "damnoen-saduak-floating-and-maeklong-train-market-day-tour-krabi": {
+  "title": "Mercato flottante di Damnoen Saduak e mercato del treno di Maeklong, tour di un giorno (Krabi)",
+  "metaTitle": "Mercato flottante di Damnoen Saduak e mercato del treno di",
+  "shortDescription": "Escursione di 5 ore a Krabi, con transfer di andata e ritorno da zone selezionate (se questa opzione è selezionata), transfer dal punto d'incontro e mercato ferroviario di Maeklong. Operatore: Go Global Tours, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 5 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nDamnoen Saduak, 100 kilometres south-west of Bangkok, is the floating market of the postcards: boats of fruit and noodles on a canal dug in the 1860s, working by 7:00 and finished by 11:00, which is why tours leave the city at 6:30. It is crowded and much of the trade is souvenirs, and it is still worth an hour on the water. Amphawa, nearby, runs Friday to Sunday afternoons and evenings and is the one Bangkok residents prefer, with firefly boat trips after dark. Taling Chan and Khlong Lat Mayom are small weekend markets inside the city where the food is the point.\n\nIl prezzo comprende transfer di andata e ritorno da zone selezionate (se questa opzione è selezionata), transfer dal punto d'incontro e mercato ferroviario di Maeklong. Non comprende transfer di andata e ritorno da zone selezionate (se l'opzione non è selezionata) e spese personali e gratifiche, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "transfer di andata e ritorno da zone selezionate (se questa opzione è selezionata)",
+   "transfer dal punto d'incontro",
+   "mercato ferroviario di Maeklong"
+  ],
+  "notIncluded": [
+   "transfer di andata e ritorno da zone selezionate (se l'opzione non è selezionata)",
+   "spese personali e gratifiche"
+  ]
+ },
  "maeklong-railway-and-floating-market-tour": {
   "title": "Tour alla ferrovia di Maeklong e al mercato flottante",
   "metaTitle": "Tour alla ferrovia di Maeklong e al mercato flottante",
@@ -41035,6 +41756,23 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "spese personali",
    "pranzo"
+  ]
+ },
+ "a-speedboat-voyage-to-unveil-hong-s-grottoes-by-kayak-in-krabi": {
+  "title": "Viaggio in motoscafo per scoprire le grotte di Hong in kayak, a Krabi",
+  "metaTitle": "Viaggio in motoscafo per scoprire le grotte di Hong in kayak, a",
+  "shortDescription": "Escursione di 6 ore a Krabi, con Nopparat Thara pier e Speedboat and Hong Island. Operatore: Thailand Escapes, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 6 ore da Krabi, costruita intorno a Nopparat Thara pier e Speedboat and Hong Island. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende transfer di andata e ritorno in hotel, acqua potabile e frutta, pacchetto pranzo, attrezzatura per lo snorkeling e attrezzatura da kayak. Non comprende costo d'ingresso al parco nazionale di Than Bok Khorani: 300 THB per adulto e 150 THB per bambino e gratifiche personali, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Krabi, Ao Nang, Ao Nammao e Nong Thale and Khlong Muang; il luogo e l'ora esatti vengono concordati con Thailand Escapes una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "transfer di andata e ritorno in hotel",
+   "acqua potabile e frutta",
+   "pacchetto pranzo",
+   "attrezzatura per lo snorkeling",
+   "attrezzatura da kayak"
+  ],
+  "notIncluded": [
+   "costo d'ingresso al parco nazionale di Than Bok Khorani: 300 THB per adulto e 150 THB per bambino",
+   "gratifiche personali"
   ]
  },
  "7-islands-sunset-and-bioluminescent-swim-tour-in-krabi": {
@@ -41159,6 +41897,56 @@ export const IT_TOURS: Record<string, TourT> = {
    "gratifiche facoltative"
   ]
  },
+ "atv-and-kayak-tour-with-sunset-at-khao-thong-hill-in-krabi": {
+  "title": "Tour in ATV e kayak con tramonto sulla collina di Khao Thong, a Krabi",
+  "metaTitle": "Tour in ATV e kayak con tramonto sulla collina di Khao Thong, a",
+  "shortDescription": "Escursione di 3 ore a Krabi, con transfer di andata e ritorno, giro in ATV tra montagne e foreste, kayak attraverso la foresta di mangrovie ad Ao Thalane, guida esperta e briefing di sicurezza e attrezzatura necessaria. Operatore: TUM Tours&Travel, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 3 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende transfer di andata e ritorno, giro in ATV tra montagne e foreste, kayak attraverso la foresta di mangrovie ad Ao Thalane, guida esperta e briefing di sicurezza e attrezzatura necessaria. Non comprende cibo e bevande, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nAo Nang.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "transfer di andata e ritorno",
+   "giro in ATV tra montagne e foreste",
+   "kayak attraverso la foresta di mangrovie ad Ao Thalane",
+   "guida esperta",
+   "briefing di sicurezza e attrezzatura necessaria"
+  ],
+  "notIncluded": [
+   "cibo e bevande"
+  ]
+ },
+ "emerald-isles-a-speedboat-and-kayak-odyssey-adventure-in-krabi": {
+  "title": "Isole smeraldo: avventura in motoscafo e kayak, a Krabi",
+  "metaTitle": "Isole smeraldo: avventura in motoscafo e kayak, a Krabi",
+  "shortDescription": "Escursione di 7 ore a Krabi, con Nopparat Thara pier e Speedboat and Hong Island. Operatore: Thailand Escapes, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 7 ore da Krabi, costruita intorno a Nopparat Thara pier e Speedboat and Hong Island. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende transfer di andata e ritorno in hotel, acqua potabile e frutta di stagione, pranzo mini buffet in stile thailandese, attrezzatura per lo snorkeling e attrezzatura da kayak. Non comprende mance e tassa del Parco Nazionale di Than Bok Khorani, di 300 THB per adulto e 150 THB per bambino, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Ao Nammao, Ao Nang e Khlong Muang and Pak Nam; il luogo e l'ora esatti vengono concordati con Thailand Escapes una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "transfer di andata e ritorno in hotel",
+   "acqua potabile e frutta di stagione",
+   "pranzo mini buffet in stile thailandese",
+   "attrezzatura per lo snorkeling",
+   "attrezzatura da kayak"
+  ],
+  "notIncluded": [
+   "mance",
+   "tassa del Parco Nazionale di Than Bok Khorani, di 300 THB per adulto e 150 THB per bambino"
+  ]
+ },
+ "farm-to-table-thai-cooking-class-with-optional-add-ons-in-krabi": {
+  "title": "Corso di cucina thailandese dalla fattoria alla tavola, con extra opzionali, a Krabi",
+  "metaTitle": "Corso di cucina thailandese dalla fattoria alla tavola, con",
+  "shortDescription": "Escursione di 4 ore a Krabi, con prelievo e riconsegna in hotel nelle rispettive zone designate, visita alla fattoria ed esperienza di raccolta degli ingredienti e corso di cucina thailandese. Operatore: Eco Ventures Co., Ltd., con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende prelievo e riconsegna in hotel nelle rispettive zone designate, visita alla fattoria ed esperienza di raccolta degli ingredienti e corso di cucina thailandese. Non comprende spese personali, cibo e bevande aggiuntivi non elencati, gratifiche e mance e acquisti opzionali presso la fattoria, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nRitiro in hotel a Krabi. Eco Ventures Co., Ltd. confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "prelievo e riconsegna in hotel nelle rispettive zone designate",
+   "visita alla fattoria ed esperienza di raccolta degli ingredienti",
+   "corso di cucina thailandese"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "cibo e bevande aggiuntivi non elencati",
+   "gratifiche e mance",
+   "acquisti opzionali presso la fattoria"
+  ]
+ },
  "amazing-bor-thor-cave-boat-tour-and-three-temples-in-krabi": {
   "title": "Fantastico tour in barca alla grotta di Bor Thor e a tre templi, a Krabi",
   "metaTitle": "Fantastico tour in barca alla grotta di Bor Thor e a tre templi,",
@@ -41193,6 +41981,134 @@ export const IT_TOURS: Record<string, TourT> = {
    "spese personali"
   ]
  },
+ "hong-island-kayak-snorkel-and-sunset-tour": {
+  "title": "Tour a Hong Island con kayak, snorkeling e tramonto",
+  "metaTitle": "Tour a Hong Island con kayak, snorkeling e tramonto",
+  "shortDescription": "Escursione di 11 ore a Krabi, con ritiro e riaccompagno in hotel, attrezzatura da kayak di mare e gita in barca all'isola di Hong. Operatore: Ask Discovery Thailand, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 11 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, attrezzatura da kayak di mare e gita in barca all'isola di Hong. Non comprende costo d'ingresso al parco nazionale (adulto 300 THB / bambino 100 THB) e spese personali, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Ao Nang e Tubkak hotel and resort and Mueang Krabi District; il luogo e l'ora esatti vengono concordati con Ask Discovery Thailand una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nRitiro in hotel a Krabi. Ask Discovery Thailand confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "attrezzatura da kayak di mare",
+   "gita in barca all'isola di Hong"
+  ],
+  "notIncluded": [
+   "costo d'ingresso al parco nazionale (adulto 300 THB / bambino 100 THB)",
+   "spese personali"
+  ]
+ },
+ "kayaking-cave-atv-and-swimming-tour-with-lunch-in-krabi": {
+  "title": "Kayak, grotta, ATV e nuoto con pranzo, a Krabi",
+  "metaTitle": "Kayak, grotta, ATV e nuoto con pranzo, a Krabi",
+  "shortDescription": "Escursione di 5 ore a Krabi, con ritiro e riaccompagno in hotel, attrezzatura da kayak di mare, esperienza di guida in ATV, pranzo e frutta di stagione e acqua potabile. Operatore: Ask Discovery Thailand, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 5 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, attrezzatura da kayak di mare, esperienza di guida in ATV, pranzo e frutta di stagione e acqua potabile. Non comprende costo d'ingresso al parco nazionale (adulto 100 THB / bambino 50 THB) e spese personali, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Mueang Krabi District e Tubkak hotel and resort and Ao Nang; il luogo e l'ora esatti vengono concordati con Ask Discovery Thailand una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nRitiro in hotel a Krabi. Ask Discovery Thailand confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "attrezzatura da kayak di mare",
+   "esperienza di guida in ATV",
+   "pranzo",
+   "frutta di stagione e acqua potabile"
+  ],
+  "notIncluded": [
+   "costo d'ingresso al parco nazionale (adulto 100 THB / bambino 50 THB)",
+   "spese personali"
+  ]
+ },
+ "full-day-crystal-kayaking-cave-and-into-the-forest-cafe-in-krabi": {
+  "title": "Giornata completa di kayak nelle acque cristalline, grotta e caffè nella foresta, a Krabi",
+  "metaTitle": "Giornata completa di kayak nelle acque cristalline, grotta e",
+  "shortDescription": "Escursione di una giornata intera a Krabi, con Klang Cave and Into the forest. Operatore: SeaScape Adventures, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di una giornata intera da Krabi, costruita intorno a Klang Cave and Into the forest. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende trasferimento di andata e ritorno dagli hotel nelle zone designate di Krabi con veicolo climatizzato, attrezzatura premium da kayak sit-on-top e giubbotti di salvataggio a Klong Root e torce e attrezzatura di sicurezza per l'esplorazione della grotta Tham Klang. Non comprende mance per la guida turistica e i conducenti, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nAo Nang.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimento di andata e ritorno dagli hotel nelle zone designate di Krabi con veicolo climatizzato",
+   "attrezzatura premium da kayak sit-on-top e giubbotti di salvataggio a Klong Root",
+   "torce e attrezzatura di sicurezza per l'esplorazione della grotta Tham Klang"
+  ],
+  "notIncluded": [
+   "mance per la guida turistica e i conducenti"
+  ]
+ },
+ "ko-lanta-half-day-mangrove-eco-kayak-experience-with-lunch-krabi": {
+  "title": "Ko Lanta: mezza giornata di eco-kayak tra le mangrovie con pranzo (Krabi)",
+  "metaTitle": "Ko Lanta: mezza giornata di eco-kayak tra le mangrovie con",
+  "shortDescription": "Escursione di 4 ore a Krabi, con Tung Yee Peng. Operatore: Oh-Hoo, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore da Krabi, costruita intorno a Tung Yee Peng. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, pranzo, acqua potabile e frutta e giubbotto di salvataggio, sacca stagna, kayak e attrezzatura. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nKo Lanta District.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "pranzo, acqua potabile e frutta",
+   "giubbotto di salvataggio, sacca stagna, kayak e attrezzatura"
+  ],
+  "notIncluded": []
+ },
+ "khao-thong-kayak-and-mangrove-half-day-tour-in-krabi": {
+  "title": "Khao Thong: kayak e mangrovie, tour di mezza giornata, a Krabi",
+  "metaTitle": "Khao Thong: kayak e mangrovie, tour di mezza giornata, a Krabi",
+  "shortDescription": "Escursione di 5 ore a Krabi, con transfer in hotel, attrezzatura da kayak e giubbotto di salvataggio. Operatore: ธนภัทรการท่องเที่ยว2025จำกัด, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 5 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende transfer in hotel, attrezzatura da kayak e giubbotto di salvataggio. Non comprende pasti e bevande aggiuntive e mance e gratifiche, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Ao Nang and Krabi; il luogo e l'ora esatti vengono concordati con ธนภัทรการท่องเที่ยว2025จำกัด una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nRitiro in hotel a Krabi. ธนภัทรการท่องเที่ยว2025จำกัด confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "transfer in hotel",
+   "attrezzatura da kayak",
+   "giubbotto di salvataggio"
+  ],
+  "notIncluded": [
+   "pasti e bevande aggiuntive",
+   "mance e gratifiche"
+  ]
+ },
+ "khao-ngon-nak-hiking-kayaking-and-lunch-day-trip-in-krabi": {
+  "title": "Escursione a Khao Ngon Nak, kayak e pranzo, gita di un giorno a Krabi",
+  "metaTitle": "Escursione a Khao Ngon Nak, kayak e pranzo, gita di un giorno a",
+  "shortDescription": "Escursione di 8 ore a Krabi, con escursione sul sentiero Khao Hong Nak, pranzo in un caffè sulla spiaggia e kayak a Khlong Rood. Operatore: LoveLay Andaman, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 8 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende escursione sul sentiero Khao Hong Nak, pranzo in un caffè sulla spiaggia e kayak a Khlong Rood. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Sailfish Sculpture and Ao Nang Beach; il luogo e l'ora esatti vengono concordati con LoveLay Andaman una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "escursione sul sentiero Khao Hong Nak",
+   "pranzo in un caffè sulla spiaggia",
+   "kayak a Khlong Rood"
+  ],
+  "notIncluded": []
+ },
+ "jungle-atv-tour-and-thai-cooking-class-with-pickup-in-krabi": {
+  "title": "Tour in ATV nella giungla e corso di cucina thailandese con prelievo, a Krabi",
+  "metaTitle": "Tour in ATV nella giungla e corso di cucina thailandese con",
+  "shortDescription": "Escursione di 6 ore a Krabi, con trasferimento di andata e ritorno in hotel con veicolo climatizzato e guida un ATV per 45 minuti attraverso la foresta, esperienza off-road su pista di fango. Operatore: Choke Chai M Travel, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 6 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende trasferimento di andata e ritorno in hotel con veicolo climatizzato e guida un ATV per 45 minuti attraverso la foresta, esperienza off-road su pista di fango. Non comprende gratifiche (facoltative) e spese personali, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nRitiro in hotel a Krabi. Choke Chai M Travel confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimento di andata e ritorno in hotel con veicolo climatizzato",
+   "guida un ATV per 45 minuti attraverso la foresta, esperienza off-road su pista di fango"
+  ],
+  "notIncluded": [
+   "gratifiche (facoltative)",
+   "spese personali"
+  ]
+ },
+ "ao-luek-bor-thor-mangrove-kayaking-tour-with-lunch-in-krabi": {
+  "title": "Tour in kayak tra le mangrovie di Ao Luek Bor Thor con pranzo, a Krabi",
+  "metaTitle": "Tour in kayak tra le mangrovie di Ao Luek Bor Thor con pranzo, a",
+  "shortDescription": "Escursione di 4 ore a Krabi, con trasferimento di andata e ritorno in hotel in tutte le zone di Ao Nang, Ao Nammao, Tub Kaek, Klong, zone di Muang o della città di Krabi, con trasporto condiviso climatizzato e guida professionista in lingua inglese. Operatore: Eco Ventures Co., Ltd., con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende trasferimento di andata e ritorno in hotel in tutte le zone di Ao Nang, Ao Nammao, Tub Kaek, Klong, zone di Muang o della città di Krabi, con trasporto condiviso climatizzato e guida professionista in lingua inglese. Non comprende spese personali e mance e gratifiche, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nRitiro in hotel a Krabi. Eco Ventures Co., Ltd. confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimento di andata e ritorno in hotel in tutte le zone di Ao Nang, Ao Nammao, Tub Kaek, Klong",
+   "zone di Muang o della città di Krabi, con trasporto condiviso climatizzato",
+   "guida professionista in lingua inglese"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "mance e gratifiche"
+  ]
+ },
+ "kayaking-sunset-at-ao-thalane-tour-with-bbq-dinner-in-krabi": {
+  "title": "Kayak al tramonto ad Ao Thalane con cena barbecue, a Krabi",
+  "metaTitle": "Kayak al tramonto ad Ao Thalane con cena barbecue, a Krabi",
+  "shortDescription": "Escursione di 4 ore a Krabi, con ritiro e riaccompagno in hotel e guida turistica esperta. Operatore: Anda Krabi Seatour, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende ritiro e riaccompagno in hotel e guida turistica esperta. Non comprende gratifiche e trasferimenti dal Railey Beach, dal Centara Grand Beach Resort & Villas Krabi e da Koh Lanta, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Krabi and Ao Nang; il luogo e l'ora esatti vengono concordati con Anda Krabi Seatour una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "guida turistica esperta"
+  ],
+  "notIncluded": [
+   "gratifiche",
+   "trasferimenti dal Railey Beach, dal Centara Grand Beach Resort & Villas Krabi e da Koh Lanta"
+  ]
+ },
  "longtail-boat-tour-with-tiger-cave-temple-and-sunset-in-krabi": {
   "title": "Tour in barca longtail al Tempio della Grotta della Tigre e al tramonto, a Krabi",
   "metaTitle": "Tour in barca longtail al Tempio della Grotta della Tigre e al",
@@ -41207,6 +42123,22 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "tassa del parco nazionale (adulto THB 300 / bambino THB 150, età 3-9 anni)"
+  ]
+ },
+ "tiger-cave-temple-shopping-and-culture-tour-in-krabi": {
+  "title": "Tempio della grotta della tigre, shopping e tour culturale, a Krabi",
+  "metaTitle": "Tempio della grotta della tigre, shopping e tour culturale, a",
+  "shortDescription": "Escursione di 5 ore a Krabi, con visita al Tempio della Grotta della Tigre, visita al Krabi Outlet Mall e visita al Central Krabi. Operatore: Ask Discovery Thailand, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 5 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nChatuchak Weekend Market covers 35 acres and some 15,000 stalls on Saturdays and Sundays, from vintage denim and ceramics to plants, pets and the food alleys, and it is the largest market in Thailand. It opens around 9:00 and is hottest and fullest between noon and 15:00; go early, learn the section numbers, and carry water. The Mo Chit BTS and Chatuchak Park MRT stations are at the gate. Bargaining is expected on non-food stalls and usually ends around 20 percent off.\n\nIl prezzo comprende visita al Tempio della Grotta della Tigre, visita al Krabi Outlet Mall e visita al Central Krabi. Non comprende pasti, spese personali e spese per lo shopping, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Mueang Krabi District e Tubkak hotel and resort and Ao Nang; il luogo e l'ora esatti vengono concordati con Ask Discovery Thailand una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nRitiro in hotel a Krabi. Ask Discovery Thailand confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "visita al Tempio della Grotta della Tigre",
+   "visita al Krabi Outlet Mall",
+   "visita al Central Krabi"
+  ],
+  "notIncluded": [
+   "pasti",
+   "spese personali",
+   "spese per lo shopping"
   ]
  },
  "hong-islands-sunset-bbq-by-luxury-vintage-boat-join": {
@@ -41314,6 +42246,23 @@ export const IT_TOURS: Record<string, TourT> = {
    "tassa del Parco Nazionale di Hat Noppharat Thara - Mu Ko Phi Phi, di 200 THB per adulto e 100 THB per bambino"
   ]
  },
+ "klong-root-kayak-and-atv-30-45-60-min-khlong-nam-sai-in-krabi": {
+  "title": "Klong Root: kayak e ATV (30, 45, 60 min) + Khlong Nam Sai, a Krabi",
+  "metaTitle": "Klong Root: kayak e ATV (30, 45, 60 min) + Khlong Nam Sai, a",
+  "shortDescription": "Escursione di 3 ore a Krabi, con Krabi Atv Adventure @ Kayaking Klongroot and Krabi Atv Adventure At Aonang. Operatore: krabiatvadventure Co., Ltd, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 3 ore a Krabi, costruita intorno a Krabi Atv Adventure @ Kayaking Klongroot and Krabi Atv Adventure At Aonang. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende prelievo e riconsegna in hotel dalle aree di Ao Nang, Ao Nam Mao e della spiaggia di Klong Muang, kayak al lago cristallino di Klong Root e giro in ATV. Non comprende asciugamano, mantella impermeabile, transfer di 200 THB a persona dalla zona di Krabi Town e transfer in hotel da Railay Beach, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nAo Nammao.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "prelievo e riconsegna in hotel dalle aree di Ao Nang, Ao Nam Mao e della spiaggia di Klong Muang",
+   "kayak al lago cristallino di Klong Root",
+   "giro in ATV"
+  ],
+  "notIncluded": [
+   "asciugamano",
+   "mantella impermeabile",
+   "transfer di 200 THB a persona dalla zona di Krabi Town",
+   "transfer in hotel da Railay Beach"
+  ]
+ },
  "twilight-treasure-hunt-7-island-speedboat-adventure-in-krabi": {
   "title": "Caccia al tesoro al crepuscolo: avventura in motoscafo alle 7 isole, a Krabi",
   "metaTitle": "Caccia al tesoro al crepuscolo: avventura in motoscafo alle 7",
@@ -41327,6 +42276,35 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "mance",
    "tassa del Parco Nazionale di Hat Noppharat Thara - Mu Ko Phi Phi, di 200 THB per adulto e 100 THB per bambino"
+  ]
+ },
+ "huai-to-waterfall-tiger-cave-temple-and-kayak-tour-in-krabi": {
+  "title": "Cascata di Huai To, tempio della grotta della tigre e tour in kayak, a Krabi",
+  "metaTitle": "Cascata di Huai To, tempio della grotta della tigre e tour in",
+  "shortDescription": "Escursione di 8 ore a Krabi, con Wat Tham Suea. Operatore: LoveLay Andaman, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 8 ore da Krabi, costruita intorno a Wat Tham Suea. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende visita alla cascata Huai To, visita al Wat Tham Suea (tempio della grotta della tigre) e pranzo. Non comprende tassa del parco nazionale 200 THB/persona, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Aonang (Starbucks Aonang) e Sailfish Sculpture and Ao Nang Beach; il luogo e l'ora esatti vengono concordati con LoveLay Andaman una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "visita alla cascata Huai To",
+   "visita al Wat Tham Suea (tempio della grotta della tigre)",
+   "pranzo"
+  ],
+  "notIncluded": [
+   "tassa del parco nazionale 200 THB/persona"
+  ]
+ },
+ "kayaking-at-ao-thalane-with-atv-riding-in-krabi": {
+  "title": "Kayak ad Ao Thalane con giro in ATV, a Krabi",
+  "metaTitle": "Kayak ad Ao Thalane con giro in ATV, a Krabi",
+  "shortDescription": "Escursione di 7 ore a Krabi, con Ao Thalane. Operatore: Oh-Hoo, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 7 ore da Krabi, costruita intorno a Ao Thalane. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende trasferimento gratuito di andata e ritorno dall'area di Ao Nang, esperienza in ATV condivisa e attrezzatura di sicurezza e pranzo, acqua potabile, frutta. Non comprende costo extra per il trasferimento di 200 THB/persona (andata e ritorno) da Tub Kaek e Klong Muang e costo extra per il trasferimento di 100 THB/persona (andata e ritorno) dalla città di Krabi, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nKrabi.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimento gratuito di andata e ritorno dall'area di Ao Nang",
+   "esperienza in ATV condivisa e attrezzatura di sicurezza",
+   "pranzo, acqua potabile, frutta"
+  ],
+  "notIncluded": [
+   "costo extra per il trasferimento di 200 THB/persona (andata e ritorno) da Tub Kaek e Klong Muang",
+   "costo extra per il trasferimento di 100 THB/persona (andata e ritorno) dalla città di Krabi"
   ]
  },
  "family-friendly-phi-phi-with-maya-bay-and-bamboo": {
@@ -41343,6 +42321,21 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "biglietto d'ingresso al parco nazionale: 400 THB per adulto e 200 THB per bambino, pagabile in contanti il giorno del tour"
+  ]
+ },
+ "traditional-thai-cooking-class-in-krabi": {
+  "title": "Corso di cucina thailandese tradizionale, a Krabi",
+  "metaTitle": "Corso di cucina thailandese tradizionale, a Krabi",
+  "shortDescription": "Escursione di 3,5 ore a Krabi, con prelievo e riconsegna solo dagli hotel di Ao Nang, ingredienti crudi, attrezzatura da cucina e grembiule. Operatore: Anda Krabi Seatour, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 3,5 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende prelievo e riconsegna solo dagli hotel di Ao Nang, ingredienti crudi, attrezzatura da cucina e grembiule. Non comprende gratifiche, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da 102 Panurat e Ao Nang and Nong Thale; il luogo e l'ora esatti vengono concordati con Anda Krabi Seatour una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nRitiro in hotel a Krabi. Anda Krabi Seatour confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "prelievo e riconsegna solo dagli hotel di Ao Nang",
+   "ingredienti crudi",
+   "attrezzatura da cucina",
+   "grembiule"
+  ],
+  "notIncluded": [
+   "gratifiche"
   ]
  },
  "krabi-sunrise-market-and-river-heritage-tour-by-local-operator": {
@@ -41596,6 +42589,18 @@ export const IT_TOURS: Record<string, TourT> = {
    "pinne"
   ]
  },
+ "ko-lanta-full-day-mangrove-and-sea-cave-kayaking-experience-krabi": {
+  "title": "Ko Lanta: giornata completa di kayak tra mangrovie e grotte marine (Krabi)",
+  "metaTitle": "Ko Lanta: giornata completa di kayak tra mangrovie e grotte",
+  "shortDescription": "Escursione di 6 ore a Krabi, con Tung Yee Peng e Other water transport and Ko Talabeng. Operatore: Oh-Hoo, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 6 ore da Krabi, costruita intorno a Tung Yee Peng e Other water transport and Ko Talabeng. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende transfer di andata e ritorno in hotel, pranzo, acqua potabile e frutta e attrezzatura da kayak. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nKo Lanta District.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "transfer di andata e ritorno in hotel",
+   "pranzo, acqua potabile e frutta",
+   "attrezzatura da kayak"
+  ],
+  "notIncluded": []
+ },
  "half-day-dirt-bike-off-road-nature-trail-adventure-in-krabi": {
   "title": "Avventura di mezza giornata in moto da cross su sentiero naturale fuoristrada, a Krabi",
   "metaTitle": "Avventura di mezza giornata in moto da cross su sentiero",
@@ -41754,6 +42759,37 @@ export const IT_TOURS: Record<string, TourT> = {
    "guida"
   ]
  },
+ "klong-root-kayaking-tour-with-swim-stop-in-krabi": {
+  "title": "Tour in kayak a Klong Root con sosta per il nuoto, a Krabi",
+  "metaTitle": "Tour in kayak a Klong Root con sosta per il nuoto, a Krabi",
+  "shortDescription": "Escursione di 3 ore a Krabi, con Krabi Atv Adventure @ Kayaking Klongroot and Lake tbc. Operatore: krabiatvadventure Co., Ltd, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 3 ore a Krabi, costruita intorno a Krabi Atv Adventure @ Kayaking Klongroot and Lake tbc. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende guida turistica, bevande e frutta e prelievo e riconsegna in hotel dalle aree di Ao Nang, Ao Nam Mao e della spiaggia di Klong Muang. Non comprende pranzo e prelievo e riconsegna in hotel nelle aree di Railay Beach e della città di Krabi, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nAo Nammao.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "guida turistica",
+   "bevande e frutta",
+   "prelievo e riconsegna in hotel dalle aree di Ao Nang, Ao Nam Mao e della spiaggia di Klong Muang"
+  ],
+  "notIncluded": [
+   "pranzo",
+   "prelievo e riconsegna in hotel nelle aree di Railay Beach e della città di Krabi"
+  ]
+ },
+ "ko-lanta-sea-cave-kayaking-adventure-and-mangrove-kayaking-krabi": {
+  "title": "Ko Lanta: avventura in kayak tra grotte marine e mangrovie (Krabi)",
+  "metaTitle": "Ko Lanta: avventura in kayak tra grotte marine e mangrovie",
+  "shortDescription": "Escursione di 6,5 ore a Krabi, con ritiro e riaccompagno in hotel, guida, tour in kayak, frutta di stagione e bibite. Operatore: Diamond Cave Tour, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 6,5 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, guida, tour in kayak, frutta di stagione e bibite. Non comprende costi d'ingresso (40 baht) adulto, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nKo Lanta District.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "guida",
+   "tour in kayak",
+   "frutta di stagione",
+   "bibite"
+  ],
+  "notIncluded": [
+   "costi d'ingresso (40 baht) adulto"
+  ]
+ },
  "nong-thale-hidden-mountain-nature-trail-hike-in-krabi": {
   "title": "Escursione sul sentiero naturale nascosto di Nong Thale, a Krabi",
   "metaTitle": "Escursione sul sentiero naturale nascosto di Nong Thale, a Krabi",
@@ -41798,6 +42834,21 @@ export const IT_TOURS: Record<string, TourT> = {
    "biglietto d'ingresso al parco nazionale, 400 THB per adulto e 200 THB per bambino"
   ]
  },
+ "khao-sok-private-boat-cheow-lan-lake-cave-and-kayak-in-krabi": {
+  "title": "Khao Sok: barca privata, lago Cheow Lan, grotta e kayak, a Krabi",
+  "metaTitle": "Khao Sok: barca privata, lago Cheow Lan, grotta e kayak, a Krabi",
+  "shortDescription": "Escursione di 4 ore a Krabi, con Cheow Lan Lake e Khao Sam Kloe and Pra Kie Phet Cave. Operatore: GRAND NATURE TRAVEL, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore da Krabi, costruita intorno a Cheow Lan Lake e Khao Sam Kloe and Pra Kie Phet Cave. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende longtail boat privata, capitano professionale e assicurazione di viaggio. Non comprende biglietto del parco nazionale (300 THB) e biglietto del molo (40 THB), da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "longtail boat privata",
+   "capitano professionale",
+   "assicurazione di viaggio"
+  ],
+  "notIncluded": [
+   "biglietto del parco nazionale (300 THB)",
+   "biglietto del molo (40 THB)"
+  ]
+ },
  "hong-island-sunset-serenity-bioluminescent-dreams": {
   "title": "Hong Island: serenità al tramonto, sogni bioluminescenti",
   "metaTitle": "Hong Island: serenità al tramonto, sogni bioluminescenti",
@@ -41825,6 +42876,36 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "sunset-kayaking-through-klong-root-in-krabi": {
+  "title": "Kayak al tramonto a Klong Root, a Krabi",
+  "metaTitle": "Kayak al tramonto a Klong Root, a Krabi",
+  "shortDescription": "Escursione di 3 ore a Krabi, con Klong Root. Operatore: Best Backpacker Tours AoNang & Pai, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 3 ore da Krabi, costruita intorno a Klong Root. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende giubbotto da nuoto, servizio navetta, acqua potabile, frutta fresca e assicurazione. Non comprende mance per il personale, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nAo Nang.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "giubbotto da nuoto",
+   "servizio navetta",
+   "acqua potabile",
+   "frutta fresca",
+   "assicurazione"
+  ],
+  "notIncluded": [
+   "mance per il personale"
+  ]
+ },
+ "aonang-thai-cooking-class-with-market-and-kitchen-garden-tour-in-krabi": {
+  "title": "Ao Nang: corso di cucina thailandese con mercato e visita all'orto, a Krabi",
+  "metaTitle": "Ao Nang: corso di cucina thailandese con mercato e visita",
+  "shortDescription": "Escursione di 4 ore a Krabi, con ritiro e riaccompagno in hotel, acqua potabile e visita a un mercato locale e all'orto biologico di erbe thailandesi di una famiglia. Operatore: Authentic Thai Cooking School, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, acqua potabile e visita a un mercato locale e all'orto biologico di erbe thailandesi di una famiglia. Non comprende birra e alcol (disponibili all'acquisto), da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nRitiro in hotel a Krabi. Authentic Thai Cooking School confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "acqua potabile",
+   "visita a un mercato locale e all'orto biologico di erbe thailandesi di una famiglia"
+  ],
+  "notIncluded": [
+   "birra e alcol (disponibili all'acquisto)"
+  ]
+ },
  "4-island-whirlwind-tour-with-caves-sandbars-and-reefs-in-krabi": {
   "title": "Tour lampo alle 4 isole con grotte, lingue di sabbia e barriere coralline, a Krabi",
   "metaTitle": "Tour lampo alle 4 isole con grotte, lingue di sabbia e barriere",
@@ -41841,6 +42922,22 @@ export const IT_TOURS: Record<string, TourT> = {
    "tassa d'ingresso del Parco Nazionale Hat Noppharat Thara - Mu Ko Phi Phi (pagabile sul posto)"
   ]
  },
+ "authentic-thai-local-cooking-class-in-krabi": {
+  "title": "Autentico corso di cucina thailandese locale, a Krabi",
+  "metaTitle": "Autentico corso di cucina thailandese locale, a Krabi",
+  "shortDescription": "Escursione di 3,5 ore a Krabi, con ritiro e riaccompagno in hotel, acqua potabile, tutti gli ingredienti per cucinare, ricettario in PDF e lezione di cucina pratica. Operatore: Authentic Thai Cooking School, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 3,5 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, acqua potabile, tutti gli ingredienti per cucinare, ricettario in PDF e lezione di cucina pratica. Non comprende birra e alcol (disponibili all'acquisto), da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nRitiro in hotel a Krabi. Authentic Thai Cooking School confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "acqua potabile",
+   "tutti gli ingredienti per cucinare",
+   "ricettario in PDF",
+   "lezione di cucina pratica"
+  ],
+  "notIncluded": [
+   "birra e alcol (disponibili all'acquisto)"
+  ]
+ },
  "mantra-yoga-class-in-krabi": {
   "title": "Lezione di yoga Mantra a Krabi",
   "metaTitle": "Lezione di yoga Mantra a Krabi",
@@ -41852,6 +42949,21 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "trasporto verso il luogo"
+  ]
+ },
+ "hong-island-speedboat-tour-with-kayaking": {
+  "title": "Tour in motoscafo a Hong Island con kayak",
+  "metaTitle": "Tour in motoscafo a Hong Island con kayak",
+  "shortDescription": "Escursione di 6,5 ore a Krabi, con Nopparat Thara pier e Speedboat and Ko Daeng. Operatore: Krabi Sunrise Tours Co., Ltd., con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 6,5 ore da Krabi, costruita intorno a Nopparat Thara pier e Speedboat and Ko Daeng. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende transfer di andata e ritorno da e per il tuo hotel, guida in lingua inglese e assicurazione di base contro gli infortuni. Non comprende pinne e nessun ritiro da Railay Beach e Tonsai Beach, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nPak Nam.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "transfer di andata e ritorno da e per il tuo hotel",
+   "guida in lingua inglese",
+   "assicurazione di base contro gli infortuni"
+  ],
+  "notIncluded": [
+   "pinne",
+   "nessun ritiro da Railay Beach e Tonsai Beach"
   ]
  },
  "beginner-boxing-class-and-thai-boxing-fight-with-dinner-in-krabi": {
@@ -41884,6 +42996,19 @@ export const IT_TOURS: Record<string, TourT> = {
    "spese personali",
    "mance e gratifiche",
    "per le cancellazioni, inclusa la causa di forza maggiore, verrà offerto un rimborso completo. Una nuova data o alternative non possono sostituire il rimborso"
+  ]
+ },
+ "deer-farm-experience-with-feeding-dining-and-sunset-trang-in-krabi": {
+  "title": "Esperienza alla fattoria dei daini con alimentazione, pranzo e tramonto a Trang, Krabi",
+  "metaTitle": "Esperienza alla fattoria dei daini con alimentazione, pranzo e",
+  "shortDescription": "Escursione di 1 ora a Krabi, con 1. Visita alla fattoria e alimentazione dei daini. Operatore: CERVIDAE COMPANY LIMITED, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 1 ora a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nKoh Lanta, an hour and a half south of Krabi by road and car ferry, is the long, quiet island of the Andaman coast: a west-coast string of beaches that get emptier the further south you go, a national park at the tip with a lighthouse, and a Muslim fishing town on the east. Its day trips are the best in the region: Koh Rok's reef and beach, Koh Ngai and Koh Mook with the Emerald Cave, a swim through an 80-metre dark tunnel into a hidden lagoon, and Koh Haa's lagoon for snorkellers. The season is November to April; much of the island closes in the rains.\n\nIl prezzo comprende 1. Visita alla fattoria e alimentazione dei daini. Non comprende non incluso: e trasferimenti in hotel (disponibili su richiesta a costo extra), da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nCervidae Farm.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "1. Visita alla fattoria e alimentazione dei daini"
+  ],
+  "notIncluded": [
+   "non incluso:",
+   "trasferimenti in hotel (disponibili su richiesta a costo extra)"
   ]
  },
  "khao-khanab-nam-caves-tour-with-romantic-boat-ride-in-krabi": {
@@ -41963,6 +43088,23 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "il biglietto d'ingresso del Parco Nazionale Than Bok Khorani è di 300 THB per adulto e 150 THB per bambino"
+  ]
+ },
+ "khlong-rud-early-morning-kayaking-tour-in-krabi": {
+  "title": "Tour in kayak al primo mattino a Khlong Rud, a Krabi",
+  "metaTitle": "Tour in kayak al primo mattino a Khlong Rud, a Krabi",
+  "shortDescription": "Escursione di 3 ore a Krabi, con Bus/coach and Nong Thale. Operatore: บริษัท ทริปเปิล วี ทราเวล จำกัด, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 3 ore da Krabi, costruita intorno a Bus/coach and Nong Thale. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende guida dal vivo, attrezzatura da kayak, accesso a Khlong Rud, nuoto nelle lagune e frutta e acqua potabile. Non comprende cibo e tassa d'ingresso al parco nazionale, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nAo Nang.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "guida dal vivo",
+   "attrezzatura da kayak",
+   "accesso a Khlong Rud",
+   "nuoto nelle lagune",
+   "frutta e acqua potabile"
+  ],
+  "notIncluded": [
+   "cibo",
+   "tassa d'ingresso al parco nazionale"
   ]
  },
  "the-emerald-odyssey-4-island-signature-escape-in-krabi": {
@@ -42059,6 +43201,21 @@ export const IT_TOURS: Record<string, TourT> = {
    "gratifiche personali"
   ]
  },
+ "krabi-silent-waterways-kayak-and-temple-retreat-by-local-operator": {
+  "title": "Krabi: vie d'acqua silenziose, kayak e visita al tempio, con operatore locale",
+  "metaTitle": "Krabi: vie d'acqua silenziose, kayak e visita al tempio, con",
+  "shortDescription": "Escursione di 5,5 ore a Krabi, con ritiro e riaccompagno in hotel, attrezzatura da kayak e guida locale. Operatore: T.P. Travel & Tour (1989), con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 5,5 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, attrezzatura da kayak e guida locale. Non comprende spese personali e costo d'ingresso al tempio, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Ao Nang and Krabi Town; il luogo e l'ora esatti vengono concordati con T.P. Travel & Tour (1989) una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nRitiro in hotel a Krabi. T.P. Travel & Tour (1989) confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "attrezzatura da kayak",
+   "guida locale"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "costo d'ingresso al tempio"
+  ]
+ },
  "sunset-longtail-boat-trip-with-fire-show-and-swim-in-krabi": {
   "title": "Gita in barca longtail al tramonto con spettacolo di fuoco e bagno, a Krabi",
   "metaTitle": "Gita in barca longtail al tramonto con spettacolo di fuoco e",
@@ -42127,6 +43284,22 @@ export const IT_TOURS: Record<string, TourT> = {
    "transfer da Krabi Town, Khlong Muang, Tub Keek, supplemento di 100 THB a persona"
   ]
  },
+ "mangrove-kayaking-lagoon-and-waterfall-tour-in-krabi": {
+  "title": "Kayak tra le mangrovie, laguna e cascata, a Krabi",
+  "metaTitle": "Kayak tra le mangrovie, laguna e cascata, a Krabi",
+  "shortDescription": "Escursione di 7 ore a Krabi, con ritiro e riaccompagno in hotel, attrezzatura da kayak nelle mangrovie e guida locale professionista. Operatore: Ask Discovery Thailand, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 7 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, attrezzatura da kayak nelle mangrovie e guida locale professionista. Non comprende biglietto d'ingresso al parco nazionale, spese personali e gratifiche facoltative, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Tubkak hotel and resort e Mueang Krabi District and Ao Nang; il luogo e l'ora esatti vengono concordati con Ask Discovery Thailand una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nRitiro in hotel a Krabi. Ask Discovery Thailand confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "attrezzatura da kayak nelle mangrovie",
+   "guida locale professionista"
+  ],
+  "notIncluded": [
+   "biglietto d'ingresso al parco nazionale",
+   "spese personali",
+   "gratifiche facoltative"
+  ]
+ },
  "krabi-8-island-sunset-cruise-free-flow-wine-and-plankton-by-local-operator": {
   "title": "Krabi: crociera al tramonto alle 8 isole, vino illimitato e plancton, con operatore locale",
   "metaTitle": "Krabi: crociera al tramonto alle 8 isole, vino illimitato e",
@@ -42140,6 +43313,20 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "bevande alcoliche aggiuntive: qualsiasi bevanda ordinata oltre il servizio vino in omaggio di 1 ora",
    "gratifiche: mance per l'equipaggio della barca e la guida professionista (facoltative ma apprezzate)."
+  ]
+ },
+ "unforgettable-full-day-khao-sok-lake-adventure-in-krabi": {
+  "title": "Indimenticabile avventura di una giornata al lago di Khao Sok, a Krabi",
+  "metaTitle": "Indimenticabile avventura di una giornata al lago di Khao Sok, a",
+  "shortDescription": "Escursione di 11 ore a Krabi, con prelievo e riconsegna dal/al tuo hotel con minivan climatizzato, gita panoramica al lago Cheow Lan con longtail boat tradizionale e guida locale professionista. Operatore: Koh Tour, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 11 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nKhao Sok National Park, two hours north of Phuket, is rainforest older than the Amazon on limestone cliffs, and Cheow Lan lake at its heart, created by a 1982 dam, is a drowned valley of karst towers and floating raft-house camps. Day trips run a long-tail boat across the lake, a jungle walk to a cave and lunch on a raft; overnights in the raft houses, with the gibbons calling at dawn, are what the park is for. Khao Lak itself is the quiet coast north of Phuket, the base for Similan trips, and the shore worst hit by the 2004 tsunami, with a memorial park at Ban Nam Khem.\n\nIl prezzo comprende prelievo e riconsegna dal/al tuo hotel con minivan climatizzato, gita panoramica al lago Cheow Lan con longtail boat tradizionale e guida locale professionista. Non comprende bevande alcoliche, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nRitiro in hotel a Krabi. Koh Tour confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "prelievo e riconsegna dal/al tuo hotel con minivan climatizzato",
+   "gita panoramica al lago Cheow Lan con longtail boat tradizionale",
+   "guida locale professionista"
+  ],
+  "notIncluded": [
+   "bevande alcoliche"
   ]
  },
  "hong-island-day-tour-by-speedboat-with-lunch": {
@@ -42169,6 +43356,21 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "supplemento per auto per gruppo, andata e ritorno in auto, 500 THB, zona: Klong Muang"
+  ]
+ },
+ "ao-thalane-mangrove-kayaking-with-extras-in-krabi": {
+  "title": "Kayak tra le mangrovie di Ao Thalane con extra, a Krabi",
+  "metaTitle": "Kayak tra le mangrovie di Ao Thalane con extra, a Krabi",
+  "shortDescription": "Escursione di 4 ore a Krabi, con Ao Thalane Pier and Ao Tha Lane View Point. Operatore: Oh-Hoo, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore da Krabi, costruita intorno a Ao Thalane Pier and Ao Tha Lane View Point. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende prelievo e riconsegna in hotel ad Ao Nang, tour in kayak e guida. Non comprende prelievo e riconsegna in hotel a Tub Kaek e Klong Muang (200 THB a persona) e prelievo e riconsegna in hotel nella città di Krabi (100 THB a persona), da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Krabi e Ao Nang and Mueang Krabi District; il luogo e l'ora esatti vengono concordati con Oh-Hoo una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nRitiro in hotel a Krabi. Oh-Hoo confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "prelievo e riconsegna in hotel ad Ao Nang",
+   "tour in kayak",
+   "guida"
+  ],
+  "notIncluded": [
+   "prelievo e riconsegna in hotel a Tub Kaek e Klong Muang (200 THB a persona)",
+   "prelievo e riconsegna in hotel nella città di Krabi (100 THB a persona)"
   ]
  },
  "muay-thai-group-class-at-e-n-muaythai-gym-in-krabi": {
@@ -42215,6 +43417,34 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "biglietti d'ingresso al parco nazionale"
+  ]
+ },
+ "ao-thalane-sunset-kayak-adventure-group-of-10-max-in-krabi": {
+  "title": "Avventura in kayak al tramonto ad Ao Thalane (gruppo massimo di 10), a Krabi",
+  "metaTitle": "Avventura in kayak al tramonto ad Ao Thalane (gruppo massimo di",
+  "shortDescription": "Escursione di 4,5 ore a Krabi, con Ao Thalane. Operatore: For Friends travel &tour, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4,5 ore da Krabi, costruita intorno a Ao Thalane. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende trasferimento in hotel da Ao Nang, pollo e cena barbecue (opzione kayak al tramonto con cena barbecue) e frutta di stagione. Non comprende costo extra di 200 baht a persona per il prelievo dalla città di Krabi e dall'area di Klongmuang, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nPak Nam.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimento in hotel da Ao Nang",
+   "pollo e cena barbecue (opzione kayak al tramonto con cena barbecue)",
+   "frutta di stagione"
+  ],
+  "notIncluded": [
+   "costo extra di 200 baht a persona per il prelievo dalla città di Krabi e dall'area di Klongmuang"
+  ]
+ },
+ "krabi-kayak-and-atv-jungle-adventure-group-of-10-max": {
+  "title": "Krabi: avventura in kayak e ATV nella giungla (gruppo massimo di 10)",
+  "metaTitle": "Krabi: avventura in kayak e ATV nella giungla (gruppo massimo di",
+  "shortDescription": "Escursione di 5 ore a Krabi, con Ao Thalane and Krabi. Operatore: For Friends travel &tour, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 5 ore a Krabi, costruita intorno a Ao Thalane and Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende trasferimento in hotel dall'area di Ao Nang, acqua potabile e frutta di stagione. Non comprende costo extra di 100 baht a persona per il prelievo in hotel dalla città di Krabi e dall'area di Klongmuang, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Nong Thale e Ao Nang and Pak Nam; il luogo e l'ora esatti vengono concordati con For Friends travel &tour una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nRitiro in hotel a Krabi. For Friends travel &tour confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimento in hotel dall'area di Ao Nang",
+   "acqua potabile",
+   "frutta di stagione"
+  ],
+  "notIncluded": [
+   "costo extra di 100 baht a persona per il prelievo in hotel dalla città di Krabi e dall'area di Klongmuang"
   ]
  },
  "krabi-atv-extreme-experience-with-transfer-and-adventure-by-local-operator": {
@@ -42278,6 +43508,35 @@ export const IT_TOURS: Record<string, TourT> = {
    "tassa del parco nazionale"
   ]
  },
+ "ko-lanta-half-day-ko-phee-and-ko-talabeng-kayaking-2-caves-krabi": {
+  "title": "Ko Lanta: mezza giornata di kayak a Ko Phee e Ko Talabeng (2 grotte) (Krabi)",
+  "metaTitle": "Ko Lanta: mezza giornata di kayak a Ko Phee e Ko Talabeng (2",
+  "shortDescription": "Escursione di 4 ore a Krabi, con transfer di andata e ritorno, frutta di stagione, bibite, pranzo e giubbotto di salvataggio. Operatore: Diamond Cave Tour, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende transfer di andata e ritorno, frutta di stagione, bibite, pranzo e giubbotto di salvataggio. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nKo Lanta District.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "transfer di andata e ritorno",
+   "frutta di stagione",
+   "bibite",
+   "pranzo",
+   "giubbotto di salvataggio"
+  ],
+  "notIncluded": []
+ },
+ "hands-on-thai-cooking-class-at-railay-beach": {
+  "title": "Corso di cucina thailandese pratico a Railay Beach",
+  "metaTitle": "Corso di cucina thailandese pratico a Railay Beach",
+  "shortDescription": "Escursione di 3,5 ore a Krabi, con tutti gli ingredienti necessari, chef istruttore esperto e esperienza di cucina pratica. Operatore: Railay Thai Cooking School, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 3,5 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende tutti gli ingredienti necessari, chef istruttore esperto e esperienza di cucina pratica. Non comprende ritiro e riaccompagno in hotel e spese personali, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "tutti gli ingredienti necessari",
+   "chef istruttore esperto",
+   "esperienza di cucina pratica"
+  ],
+  "notIncluded": [
+   "ritiro e riaccompagno in hotel",
+   "spese personali"
+  ]
+ },
  "morning-or-afternoon-culinary-adventure-at-smart-cook-in-krabi": {
   "title": "Avventura culinaria al mattino o al pomeriggio al Smart Cook, Krabi",
   "metaTitle": "Avventura culinaria al mattino o al pomeriggio al Smart Cook,",
@@ -42292,6 +43551,33 @@ export const IT_TOURS: Record<string, TourT> = {
    "mance"
   ]
  },
+ "jurassic-trails-atv-ride-and-kayaking-tour-in-krabi": {
+  "title": "Sentieri giurassici: giro in ATV e tour in kayak, a Krabi",
+  "metaTitle": "Sentieri giurassici: giro in ATV e tour in kayak, a Krabi",
+  "shortDescription": "Escursione di 2 ore a Krabi, con prelievo e riconsegna in hotel (area di Ao Nang), guida professionista in lingua inglese e guida in ATV (percorso avventura di 5 km). Operatore: บริษัท เจ แอนด์ เจ แอฟฟลูเอนท์ ทราเวล แอนด์ ทัวร์ จํากัด, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 2 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende prelievo e riconsegna in hotel (area di Ao Nang), guida professionista in lingua inglese e guida in ATV (percorso avventura di 5 km). Non comprende pasti e spese personali, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nAo Nang.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "prelievo e riconsegna in hotel (area di Ao Nang)",
+   "guida professionista in lingua inglese",
+   "guida in ATV (percorso avventura di 5 km)"
+  ],
+  "notIncluded": [
+   "pasti",
+   "spese personali"
+  ]
+ },
+ "cooking-class-at-thai-charm-cooking-school-with-meal-in-krabi": {
+  "title": "Corso di cucina alla Thai Charm Cooking School con pasto, a Krabi",
+  "metaTitle": "Corso di cucina alla Thai Charm Cooking School con pasto, a Krabi",
+  "shortDescription": "Escursione di 4 ore a Krabi, con trasferimento di andata e ritorno dalla città di Krabi o da Ao Nang (minimo 2 persone), istruttore di cucina thailandese e frutta e preparazione di insalate thailandesi piccanti. Operatore: Oh-Hoo, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende trasferimento di andata e ritorno dalla città di Krabi o da Ao Nang (minimo 2 persone), istruttore di cucina thailandese e frutta e preparazione di insalate thailandesi piccanti. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimento di andata e ritorno dalla città di Krabi o da Ao Nang (minimo 2 persone)",
+   "istruttore di cucina thailandese",
+   "frutta e preparazione di insalate thailandesi piccanti"
+  ],
+  "notIncluded": []
+ },
  "private-1-on-1-muay-thai-session-at-e-n-muaythai-gym-in-krabi": {
   "title": "Sessione privata individuale di muay thai alla palestra E.N. Muaythai, Krabi",
   "metaTitle": "Sessione privata individuale di muay thai alla palestra E.N.",
@@ -42303,6 +43589,23 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "spesa personale",
    "cibo e bevande"
+  ]
+ },
+ "klong-sa-kaew-hidden-gem-kayaking-and-swimming-tour-in-krabi": {
+  "title": "Klong Sa Kaew (gemma nascosta): tour in kayak e nuoto, a Krabi",
+  "metaTitle": "Klong Sa Kaew (gemma nascosta): tour in kayak e nuoto, a Krabi",
+  "shortDescription": "Escursione di 2,5 ore a Krabi, con ritiro e riaccompagno in hotel, attrezzatura da kayak, ciambella di gomma per galleggiare, acqua potabile e frutta. Operatore: Diamond Cave Tour, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 2,5 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, attrezzatura da kayak, ciambella di gomma per galleggiare, acqua potabile e frutta. Non comprende trasferimento a Railay Beach non incluso e escluso il transfer a Koh Lanta., da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nKrabi.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "attrezzatura da kayak",
+   "ciambella di gomma per galleggiare",
+   "acqua potabile",
+   "frutta"
+  ],
+  "notIncluded": [
+   "trasferimento a Railay Beach non incluso",
+   "escluso il transfer a Koh Lanta."
   ]
  },
  "ultimate-phi-phi-and-maya-bay-ascent-by-speedboat": {
@@ -42351,6 +43654,52 @@ export const IT_TOURS: Record<string, TourT> = {
    "gratifiche"
   ]
  },
+ "kayaking-at-klong-rud-with-hotel-transfers-in-krabi": {
+  "title": "Kayak a Klong Rud con trasferimenti in hotel, a Krabi",
+  "metaTitle": "Kayak a Klong Rud con trasferimenti in hotel, a Krabi",
+  "shortDescription": "Escursione di 2,5 ore a Krabi, con prelievo e riconsegna in hotel nell'area di Ao Nang, acqua in bottiglia e frutta di stagione. Operatore: Guide GURU X, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 2,5 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende prelievo e riconsegna in hotel nell'area di Ao Nang, acqua in bottiglia e frutta di stagione. Non comprende trasferimento in barca da Railay Beach e cibo e bevande, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nAo Nang.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "prelievo e riconsegna in hotel nell'area di Ao Nang",
+   "acqua in bottiglia",
+   "frutta di stagione"
+  ],
+  "notIncluded": [
+   "trasferimento in barca da Railay Beach",
+   "cibo e bevande"
+  ]
+ },
+ "historic-bor-thor-caves-kayaking-tour-with-lunch-in-krabi": {
+  "title": "Tour storico in kayak alle grotte di Bor Thor con pranzo, a Krabi",
+  "metaTitle": "Tour storico in kayak alle grotte di Bor Thor con pranzo, a Krabi",
+  "shortDescription": "Escursione di 7 ore a Krabi, con prelievo e riconsegna in hotel dalla regione di Krabi, guida esperta e cordiale e sacca stagna per riporre i tuoi oggetti di valore. Operatore: Koh Tour, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 7 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende prelievo e riconsegna in hotel dalla regione di Krabi, guida esperta e cordiale e sacca stagna per riporre i tuoi oggetti di valore. Non comprende bevande alcoliche, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nRitiro in hotel a Krabi. Koh Tour confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "prelievo e riconsegna in hotel dalla regione di Krabi",
+   "guida esperta e cordiale",
+   "sacca stagna per riporre i tuoi oggetti di valore"
+  ],
+  "notIncluded": [
+   "bevande alcoliche"
+  ]
+ },
+ "guided-ao-thalane-kayaking-adventure-nature-in-krabi": {
+  "title": "Avventura naturalistica guidata in kayak ad Ao Thalane, a Krabi",
+  "metaTitle": "Avventura naturalistica guidata in kayak ad Ao Thalane, a Krabi",
+  "shortDescription": "Escursione di 3 ore a Krabi, con guida professionista in lingua inglese, passeggiata naturalistica guidata e kayak di mare e attrezzatura per la pagaiata. Operatore: Choke Chai M Travel, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 3 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende guida professionista in lingua inglese, passeggiata naturalistica guidata e kayak di mare e attrezzatura per la pagaiata. Non comprende spese personali, cibo e pasti (se non specificato nell'opzione di prenotazione), spese di viaggio personali e mance e gratifiche, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nRitiro in hotel a Krabi. Choke Chai M Travel confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "guida professionista in lingua inglese",
+   "passeggiata naturalistica guidata",
+   "kayak di mare e attrezzatura per la pagaiata"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "cibo e pasti (se non specificato nell'opzione di prenotazione)",
+   "spese di viaggio personali",
+   "mance e gratifiche"
+  ]
+ },
  "sunset-boat-tour-and-night-market-food-tasting-in-krabi": {
   "title": "Tour in barca al tramonto e degustazione al mercato notturno, a Krabi",
   "metaTitle": "Tour in barca al tramonto e degustazione al mercato notturno, a",
@@ -42376,6 +43725,32 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "cibo e bevande"
   ]
+ },
+ "atv-ride-crystal-kayaking-and-swimming-tour-in-krabi": {
+  "title": "Giro in ATV, kayak nelle acque cristalline e nuoto, a Krabi",
+  "metaTitle": "Giro in ATV, kayak nelle acque cristalline e nuoto, a Krabi",
+  "shortDescription": "Escursione di 4 ore a Krabi, con trasferimento di andata e ritorno in hotel dall'area di Ao Nang, avventura in ATV (30, 40 o 60 minuti in base al pacchetto selezionato), kayak a Klong Root, accesso esclusivo e privato al molo e punto panoramico a 360°. Operatore: Krabi tour, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende trasferimento di andata e ritorno in hotel dall'area di Ao Nang, avventura in ATV (30, 40 o 60 minuti in base al pacchetto selezionato), kayak a Klong Root, accesso esclusivo e privato al molo e punto panoramico a 360°. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Ao Nang and Ao Nang; il luogo e l'ora esatti vengono concordati con Krabi tour una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nRitiro in hotel a Krabi. Krabi tour confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimento di andata e ritorno in hotel dall'area di Ao Nang",
+   "avventura in ATV (30, 40 o 60 minuti in base al pacchetto selezionato)",
+   "kayak a Klong Root",
+   "accesso esclusivo e privato al molo",
+   "punto panoramico a 360°"
+  ],
+  "notIncluded": []
+ },
+ "half-day-bor-thor-mangrove-kayaking-tour-in-krabi": {
+  "title": "Tour in kayak di mezza giornata tra le mangrovie di Bor Thor, a Krabi",
+  "metaTitle": "Tour in kayak di mezza giornata tra le mangrovie di Bor Thor, a",
+  "shortDescription": "Escursione di 5 ore a Krabi, con โชคศรัญญาทราเวล | Choke Sarunya Travel e Lot cave and Phi Hua To Cave. Operatore: Oh-Hoo, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 5 ore da Krabi, costruita intorno a โชคศรัญญาทราเวล | Choke Sarunya Travel e Lot cave and Phi Hua To Cave. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende trasferimento di andata e ritorno da Ao Nang, Ao Nammao, Tub Kaek, Klong Muang o dalla città di Krabi, attrezzatura di sicurezza, giubbotto di salvataggio e pranzo, acqua potabile, frutta. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da 11 Rodboon and 2QXV+R7 Nong Thale; il luogo e l'ora esatti vengono concordati con Oh-Hoo una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimento di andata e ritorno da Ao Nang, Ao Nammao, Tub Kaek, Klong Muang o dalla città di Krabi",
+   "attrezzatura di sicurezza, giubbotto di salvataggio",
+   "pranzo, acqua potabile, frutta"
+  ],
+  "notIncluded": []
  },
  "4-islands-sunset-longtail-boat-cruise-with-bbq": {
   "title": "Crociera al tramonto alle 4 isole in barca longtail con barbecue",
@@ -42407,6 +43782,34 @@ export const IT_TOURS: Record<string, TourT> = {
    "gratifiche personali"
   ]
  },
+ "full-day-bor-thor-sea-cave-kayaking-adventure-in-krabi": {
+  "title": "Avventura di una giornata in kayak alle grotte marine di Bor Thor, a Krabi",
+  "metaTitle": "Avventura di una giornata in kayak alle grotte marine di Bor",
+  "shortDescription": "Escursione di 7 ore a Krabi, con โชคศรัญญาทราเวล | Choke Sarunya Travel e Lot cave and Phi Hua To Cave. Operatore: Oh-Hoo, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 7 ore da Krabi, costruita intorno a โชคศรัญญาทราเวล | Choke Sarunya Travel e Lot cave and Phi Hua To Cave. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende trasferimento di andata e ritorno da Ao Nang, Ao Nammao, Tub Kaek, Klong Muang o dalla città di Krabi, attrezzatura di sicurezza, giubbotto di salvataggio e pranzo, acqua potabile, frutta. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da 3W82+F8 Sai Thai and Sulwa Kitchen; il luogo e l'ora esatti vengono concordati con Oh-Hoo una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimento di andata e ritorno da Ao Nang, Ao Nammao, Tub Kaek, Klong Muang o dalla città di Krabi",
+   "attrezzatura di sicurezza, giubbotto di salvataggio",
+   "pranzo, acqua potabile, frutta"
+  ],
+  "notIncluded": []
+ },
+ "half-day-blue-lagoon-kayaking-at-klong-srakaew-and-atv-in-krabi": {
+  "title": "Mezza giornata di kayak nella laguna blu a Klong Srakaew e ATV, a Krabi",
+  "metaTitle": "Mezza giornata di kayak nella laguna blu a Klong Srakaew e ATV,",
+  "shortDescription": "Escursione di 5 ore a Krabi, con transfer in hotel, kayak e pranzo (per l'opzione ATV). Operatore: Anda Krabi Seatour, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 5 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende transfer in hotel, kayak e pranzo (per l'opzione ATV). Non comprende gratifiche, bevande alcoliche e trasferimenti da Railey Beach o Koh Lanta, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Pak Nam, 102 Panurat, Nong Thale e Ao Nang and 4203; il luogo e l'ora esatti vengono concordati con Anda Krabi Seatour una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nRitiro in hotel a Krabi. Anda Krabi Seatour confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "transfer in hotel",
+   "kayak",
+   "pranzo (per l'opzione ATV)"
+  ],
+  "notIncluded": [
+   "gratifiche",
+   "bevande alcoliche",
+   "trasferimenti da Railey Beach o Koh Lanta"
+  ]
+ },
  "early-bird-koh-hong-and-4-islands-speedboat-group-tour": {
   "title": "Tour mattutino di gruppo in motoscafo a Koh Hong e alle 4 isole",
   "metaTitle": "Tour mattutino di gruppo in motoscafo a Koh Hong e alle 4 isole",
@@ -42420,6 +43823,22 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "i 2 biglietti d'ingresso al parco nazionale;",
    "Parco Nazionale Than Bok Khorani, 300 THB/adulto e 150 THB/bambino"
+  ]
+ },
+ "kayaking-mangrove-forest-and-cave-tour-with-pickup-in-krabi": {
+  "title": "Kayak, foresta di mangrovie e grotta con prelievo, a Krabi",
+  "metaTitle": "Kayak, foresta di mangrovie e grotta con prelievo, a Krabi",
+  "shortDescription": "Escursione di 4 ore a Krabi, con ritiro e riaccompagno in hotel, kayak a Khlong Rood, nuoto nel canale cristallino, frutta fresca e bevande e visita alla grotta Khao Khanab Nam. Operatore: Diamond Cave Tour, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, kayak a Khlong Rood, nuoto nel canale cristallino, frutta fresca e bevande e visita alla grotta Khao Khanab Nam. Non comprende pasti al ristorante, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nAo Nang.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "kayak a Khlong Rood",
+   "nuoto nel canale cristallino",
+   "frutta fresca e bevande",
+   "visita alla grotta Khao Khanab Nam"
+  ],
+  "notIncluded": [
+   "pasti al ristorante"
   ]
  },
  "tiger-cave-temple-waterfall-and-night-market-tour-in-krabi": {
@@ -42531,6 +43950,21 @@ export const IT_TOURS: Record<string, TourT> = {
    "mance"
   ]
  },
+ "half-day-jurassic-jungle-kayaking-tour-at-klong-root-in-krabi": {
+  "title": "Tour in kayak di mezza giornata nella giungla giurassica a Klong Root, a Krabi",
+  "metaTitle": "Tour in kayak di mezza giornata nella giungla giurassica a Klong",
+  "shortDescription": "Escursione di 4 ore a Krabi, con guida turistica in lingua inglese, esperienza in kayak e giubbotto di salvataggio. Operatore: Baan Nong Thale Community Ecotoursim, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende guida turistica in lingua inglese, esperienza in kayak e giubbotto di salvataggio. Non comprende trasporto da e per il punto d'incontro e altre spese personali, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "guida turistica in lingua inglese",
+   "esperienza in kayak",
+   "giubbotto di salvataggio"
+  ],
+  "notIncluded": [
+   "trasporto da e per il punto d'incontro",
+   "altre spese personali"
+  ]
+ },
  "guided-atv-30-45-60-minute-swimming-khlong-nam-sai-in-krabi": {
   "title": "ATV guidato di 30, 45 o 60 minuti + bagno a Khlong Nam Sai, a Krabi",
   "metaTitle": "ATV guidato di 30, 45 o 60 minuti + bagno a Khlong Nam Sai, a",
@@ -42545,6 +43979,51 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "transfer di 200 THB a persona dalla zona di Krabi Town",
    "transfer in hotel da Railay Beach"
+  ]
+ },
+ "emerald-pool-and-hot-spring-waterfall-with-kayaking-in-krabi": {
+  "title": "Piscina smeraldo e cascata delle sorgenti termali con kayak, a Krabi",
+  "metaTitle": "Piscina smeraldo e cascata delle sorgenti termali con kayak, a",
+  "shortDescription": "Escursione di 7 ore a Krabi, con prelievo gratuito in hotel disponibile per la città di Krabi e l'area di Ao Nang, pranzo, acqua potabile, frutta e guida turistica. Operatore: Oh-Hoo, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 7 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende prelievo gratuito in hotel disponibile per la città di Krabi e l'area di Ao Nang, pranzo, acqua potabile, frutta e guida turistica. Non comprende tassa del parco nazionale: 600 THB per adulto / 300 THB per bambino, supplemento transfer: 100 THB/persona (andata e ritorno), Klong Muang e supplemento transfer: 200 THB/persona (andata e ritorno), Tub Kaek, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nRitiro in hotel a Krabi. Oh-Hoo confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "prelievo gratuito in hotel disponibile per la città di Krabi e l'area di Ao Nang",
+   "pranzo, acqua potabile, frutta",
+   "guida turistica"
+  ],
+  "notIncluded": [
+   "tassa del parco nazionale: 600 THB per adulto / 300 THB per bambino",
+   "supplemento transfer: 100 THB/persona (andata e ritorno), Klong Muang",
+   "supplemento transfer: 200 THB/persona (andata e ritorno), Tub Kaek"
+  ]
+ },
+ "khlong-root-kayaking-and-jungle-swimming-in-krabi": {
+  "title": "Kayak a Khlong Root e nuoto nella giungla, a Krabi",
+  "metaTitle": "Kayak a Khlong Root e nuoto nella giungla, a Krabi",
+  "shortDescription": "Escursione di 2,5 ore a Krabi, con Klong Root. Operatore: Whoopers Hospitality, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 2,5 ore da Krabi, costruita intorno a Klong Root. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende attrezzatura da kayak, guida, frutta di stagione e acqua potabile. Non comprende pasti, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nWhoopers Hostel Ao Nang - By The Beach.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "attrezzatura da kayak",
+   "guida",
+   "frutta di stagione",
+   "acqua potabile"
+  ],
+  "notIncluded": [
+   "pasti"
+  ]
+ },
+ "half-day-thai-cooking-class-in-krabi-province": {
+  "title": "Corso di cucina thailandese di mezza giornata, provincia di Krabi",
+  "metaTitle": "Corso di cucina thailandese di mezza giornata, provincia di Krabi",
+  "shortDescription": "Escursione di 2,5 ore a Krabi, con prelievo e riconsegna gratuiti presso il tuo hotel nell'area di Ao Nang, ogni corso include un libro di ricette e un certificato in omaggio e degustazione di cibo e acqua potabile. Operatore: Oh-Hoo, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 2,5 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende prelievo e riconsegna gratuiti presso il tuo hotel nell'area di Ao Nang, ogni corso include un libro di ricette e un certificato in omaggio e degustazione di cibo e acqua potabile. Non comprende costo extra per il trasferimento di andata e ritorno di 200 THB/persona (minimo 2 persone): città di Krabi, Klong Muang e Tub Kaek, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "prelievo e riconsegna gratuiti presso il tuo hotel nell'area di Ao Nang",
+   "ogni corso include un libro di ricette e un certificato in omaggio",
+   "degustazione di cibo e acqua potabile"
+  ],
+  "notIncluded": [
+   "costo extra per il trasferimento di andata e ritorno di 200 THB/persona (minimo 2 persone): città di Krabi, Klong Muang e Tub Kaek"
   ]
  },
  "bioluminescent-plankton-7-islands-sunset-tour-and-bbq-in-krabi": {
@@ -42638,6 +44117,18 @@ export const IT_TOURS: Record<string, TourT> = {
    "sacca impermeabile per dispositivi digitali",
    "tassa del parco nazionale, 200 baht a persona"
   ]
+ },
+ "kayak-hot-springs-and-emerald-pool-by-french-guide-in-krabi": {
+  "title": "Kayak, sorgenti termali e piscina smeraldo con guida francese, a Krabi",
+  "metaTitle": "Kayak, sorgenti termali e piscina smeraldo con guida francese, a",
+  "shortDescription": "Escursione di 7 ore a Krabi, con ritiro e riaccompagno in hotel, attrezzatura da kayak e guida professionista. Operatore: Ask Discovery Thailand, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 7 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, attrezzatura da kayak e guida professionista. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Tubkak hotel and resort e Mueang Krabi District and Ao Nang; il luogo e l'ora esatti vengono concordati con Ask Discovery Thailand una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nRitiro in hotel a Krabi. Ask Discovery Thailand confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "attrezzatura da kayak",
+   "guida professionista"
+  ],
+  "notIncluded": []
  },
  "sunrise-breakfast-and-kayaking-at-khlong-nam-sai-in-krabi": {
   "title": "Colazione all'alba e kayak a Khlong Nam Sai, a Krabi",
@@ -42779,6 +44270,20 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "ritiro e riaccompagno in hotel da Railay Beach o Koh Lanta"
+  ]
+ },
+ "krabi-railay-and-phra-nang-beach-kayak-and-glow-plankton-tour-by-local-operator": {
+  "title": "Krabi, Railay e Phra Nang Beach: kayak e tour del plancton luminoso, con operatore locale",
+  "metaTitle": "Krabi, Railay e Phra Nang Beach: kayak e tour del plancton",
+  "shortDescription": "Escursione di 3 ore a Krabi, con Phra Nang Beach. Operatore: SIAM SCAPE JOURNEYS CO.,LTD., con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 3 ore da Krabi, costruita intorno a Phra Nang Beach. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende trasferimenti gratuiti di andata e ritorno da Ao Nang e dalla città di Krabi, kayak trasparente e attrezzatura per lo snorkeling e giubbotti di salvataggio. Non comprende costo extra per il trasferimento di 200 THB/persona (andata e ritorno) da Tub Kaek e Khlong Muang, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Krabi and Ao Nang; il luogo e l'ora esatti vengono concordati con SIAM SCAPE JOURNEYS CO.,LTD. una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimenti gratuiti di andata e ritorno da Ao Nang e dalla città di Krabi",
+   "kayak trasparente",
+   "attrezzatura per lo snorkeling e giubbotti di salvataggio"
+  ],
+  "notIncluded": [
+   "costo extra per il trasferimento di 200 THB/persona (andata e ritorno) da Tub Kaek e Khlong Muang"
   ]
  },
  "4-island-speedboat-tour-with-lunch-and-transfer-in-krabi": {
@@ -43105,6 +44610,32 @@ export const IT_TOURS: Record<string, TourT> = {
    "nessun ritiro da Railay Beach e Tonsai Beach"
   ]
  },
+ "krabi-mangrove-kayaking-at-ao-thalane-half-day-premium-by-local-operator": {
+  "title": "Krabi: kayak tra le mangrovie ad Ao Thalane (mezza giornata premium), con operatore locale",
+  "metaTitle": "Krabi: kayak tra le mangrovie ad Ao Thalane (mezza giornata",
+  "shortDescription": "Escursione di 5 ore a Krabi, con transfer in hotel, attrezzatura da kayak, giubbotto di salvataggio, acqua potabile e frutta di stagione. Operatore: Krabi tour, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 5 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende transfer in hotel, attrezzatura da kayak, giubbotto di salvataggio, acqua potabile e frutta di stagione. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nAo Nang.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "transfer in hotel",
+   "attrezzatura da kayak",
+   "giubbotto di salvataggio",
+   "acqua potabile",
+   "frutta di stagione"
+  ],
+  "notIncluded": []
+ },
+ "klong-nam-sai-kayaking-with-hotel-transfer-in-krabi": {
+  "title": "Kayak a Klong Nam Sai con trasferimento in hotel, a Krabi",
+  "metaTitle": "Kayak a Klong Nam Sai con trasferimento in hotel, a Krabi",
+  "shortDescription": "Escursione di 3 ore a Krabi, con transfer in hotel, sacca impermeabile e guida in lingua inglese. Operatore: Krabi tour, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 3 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende transfer in hotel, sacca impermeabile e guida in lingua inglese. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nAo Nang.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "transfer in hotel",
+   "sacca impermeabile",
+   "guida in lingua inglese"
+  ],
+  "notIncluded": []
+ },
  "krabi-classic-4-island-tour-with-snorkeling-and-hotel-pickup-by-local-operator": {
   "title": "Krabi: classico tour alle 4 isole con snorkeling e ritiro in hotel, con operatore locale",
   "metaTitle": "Krabi: classico tour alle 4 isole con snorkeling e ritiro in",
@@ -43135,6 +44666,21 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "pinne",
    "nessun ritiro da Railay Beach e Tonsai Beach"
+  ]
+ },
+ "emerald-pool-hot-springs-and-kayaking-tour-in-krabi": {
+  "title": "Piscina smeraldo, sorgenti termali e tour in kayak, a Krabi",
+  "metaTitle": "Piscina smeraldo, sorgenti termali e tour in kayak, a Krabi",
+  "shortDescription": "Escursione di 2 ore a Krabi, con Emerald Pool. Operatore: Anda Krabi Seatour, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 2 ore da Krabi, costruita intorno a Emerald Pool. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende servizio di prelievo e riconsegna in hotel (area di Ao Nang e città di Krabi), pranzo a buffet e acqua potabile durante tutto il viaggio. Non comprende ingresso alla piscina smeraldo e ingresso alle sorgenti termali, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Ao Nang and Krabi; il luogo e l'ora esatti vengono concordati con Anda Krabi Seatour una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nRitiro in hotel a Krabi. Anda Krabi Seatour confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "servizio di prelievo e riconsegna in hotel (area di Ao Nang e città di Krabi)",
+   "pranzo a buffet",
+   "acqua potabile durante tutto il viaggio"
+  ],
+  "notIncluded": [
+   "ingresso alla piscina smeraldo",
+   "ingresso alle sorgenti termali"
   ]
  },
  "hong-island-by-speedboat-or-catamaran": {
@@ -43229,6 +44775,39 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "spese personali",
    "mance"
+  ]
+ },
+ "explore-kayaking-with-option-combo-atv-adventure-in-krabi": {
+  "title": "Esplora in kayak con opzione combo avventura in ATV, a Krabi",
+  "metaTitle": "Esplora in kayak con opzione combo avventura in ATV, a Krabi",
+  "shortDescription": "Escursione di 3 ore a Krabi, con ritiro e riaccompagno in hotel nelle zone di Ao Nang, Ao Nammao, Tub Kaek, Klong, Muang o la città di Krabi, trasporto condiviso con camion locale (veicolo non climatizzato), guida turistica di lingua inglese e opzioni di 30, 45 minuti o 1 ora di guida in ATV (se selezionata l'opzione combo ATV). Operatore: Eco Ventures Co., Ltd., con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 3 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende ritiro e riaccompagno in hotel nelle zone di Ao Nang, Ao Nammao, Tub Kaek, Klong, Muang o la città di Krabi, trasporto condiviso con camion locale (veicolo non climatizzato), guida turistica di lingua inglese e opzioni di 30, 45 minuti o 1 ora di guida in ATV (se selezionata l'opzione combo ATV). Non comprende spese personali e pranzo, cena o altri pasti e cibo non menzionati in ciascuna opzione, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nRitiro in hotel a Krabi. Eco Ventures Co., Ltd. confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel nelle zone di Ao Nang, Ao Nammao, Tub Kaek, Klong",
+   "Muang o la città di Krabi",
+   "trasporto condiviso con camion locale (veicolo non climatizzato)",
+   "guida turistica di lingua inglese",
+   "opzioni di 30, 45 minuti o 1 ora di guida in ATV (se selezionata l'opzione combo ATV)"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "pranzo, cena o altri pasti e cibo non menzionati in ciascuna opzione"
+  ]
+ },
+ "emerald-and-blue-pool-with-hot-springs-and-kayaking-in-krabi": {
+  "title": "Piscina smeraldo e blu con sorgenti termali e kayak, a Krabi",
+  "metaTitle": "Piscina smeraldo e blu con sorgenti termali e kayak, a Krabi",
+  "shortDescription": "Escursione di 8,5 ore a Krabi, con Emerald Pool and Hot Stream Krabi. Operatore: บริษัท เจ แอนด์ เจ แอฟฟลูเอนท์ ทราเวล แอนด์ ทัวร์ จํากัด, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 8,5 ore a Krabi, costruita intorno a Emerald Pool and Hot Stream Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende trasferimento in hotel (prelievo e riconsegna), guida turistica e pranzo. Non comprende spese personali, costo d'ingresso al tempio e tassa del parco nazionale, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nAo Nang.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimento in hotel (prelievo e riconsegna)",
+   "guida turistica",
+   "pranzo"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "costo d'ingresso al tempio",
+   "tassa del parco nazionale"
   ]
  },
  "tiger-temple-hot-springs-and-emerald-pool-day-tour-in-krabi": {
@@ -43369,6 +44948,23 @@ export const IT_TOURS: Record<string, TourT> = {
    "biglietto d'ingresso al parco nazionale"
   ]
  },
+ "all-inclusive-cheow-lan-lake-cave-kayak-and-lunch-in-krabi": {
+  "title": "Tutto incluso: lago Cheow Lan, grotta, kayak e pranzo, a Krabi",
+  "metaTitle": "Tutto incluso: lago Cheow Lan, grotta, kayak e pranzo, a Krabi",
+  "shortDescription": "Escursione di 11 ore a Krabi, con Khao Sam Kloe and Cheow Lan Lake. Operatore: GRAND NATURE TRAVEL, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 11 ore da Krabi, costruita intorno a Khao Sam Kloe and Cheow Lan Lake. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende trasferimento di andata e ritorno in hotel con minivan VIP climatizzato, biglietto del parco nazionale, costi d'ingresso, biglietto del molo, assicurazione viaggio contro gli infortuni, longtail boat con capitano professionale e pranzo al PhuTawan Rafthouse. Non comprende spese personali e gratifica (facoltativa), da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nKrabi.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimento di andata e ritorno in hotel con minivan VIP climatizzato",
+   "biglietto del parco nazionale, costi d'ingresso, biglietto del molo",
+   "assicurazione viaggio contro gli infortuni",
+   "longtail boat con capitano professionale",
+   "pranzo al PhuTawan Rafthouse"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "gratifica (facoltativa)"
+  ]
+ },
  "discover-krabi-emerald-pool-hot-spring-and-temple-tour-by-local-operator": {
   "title": "Scopri Krabi: Piscina Smeraldo, terme e tour al tempio, con operatore locale",
   "metaTitle": "Scopri Krabi: Piscina Smeraldo, terme e tour al tempio, con",
@@ -43504,6 +45100,20 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "traditional-thai-cooking-class-with-local-chef-in-krabi": {
+  "title": "Corso di cucina thailandese tradizionale con chef locale, a Krabi",
+  "metaTitle": "Corso di cucina thailandese tradizionale con chef locale, a Krabi",
+  "shortDescription": "Escursione di 4 ore a Krabi, con ritiro e riaccompagno in hotel, host locale e tutti gli ingredienti per cucinare. Operatore: Smart Cook Krabi,Thailand, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore a Krabi. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, host locale e tutti gli ingredienti per cucinare. Non comprende birra o altri alcolici, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nRitiro in hotel a Krabi. Smart Cook Krabi,Thailand confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "host locale",
+   "tutti gli ingredienti per cucinare"
+  ],
+  "notIncluded": [
+   "birra o altri alcolici"
+  ]
+ },
  "7-islands-sunset-tour-with-plankton-swim-and-bbq-in-krabi": {
   "title": "Tour al tramonto alle 7 isole con bagno nel plancton e barbecue, a Krabi",
   "metaTitle": "Tour al tramonto alle 7 isole con bagno nel plancton e barbecue,",
@@ -43580,6 +45190,21 @@ export const IT_TOURS: Record<string, TourT> = {
    "pasti"
   ]
  },
+ "private-floating-market-maeklong-train-and-dragon-temple-krabi": {
+  "title": "Privato: mercato flottante, treno di Maeklong e tempio del dragone (Krabi)",
+  "metaTitle": "Privato: mercato flottante, treno di Maeklong e tempio del",
+  "shortDescription": "Escursione di 9 ore a Krabi, con Train and River boat. Operatore: Lampoo Ocean Travel, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 9 ore da Krabi, costruita intorno a Train and River boat. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nDamnoen Saduak, 100 kilometres south-west of Bangkok, is the floating market of the postcards: boats of fruit and noodles on a canal dug in the 1860s, working by 7:00 and finished by 11:00, which is why tours leave the city at 6:30. It is crowded and much of the trade is souvenirs, and it is still worth an hour on the water. Amphawa, nearby, runs Friday to Sunday afternoons and evenings and is the one Bangkok residents prefer, with firefly boat trips after dark. Taling Chan and Khlong Lat Mayom are small weekend markets inside the city where the food is the point.\n\nIl prezzo comprende audioguida multilingue (in omaggio), disponibile tramite codice QR. Richiedilo durante la prenotazione per garantirne l'attivazione e porta il tuo smartphone e le cuffie. Non comprende pedalò opzionale (150 THB/persona, da pagare in loco) non incluso e non incluso: salita opzionale in cima al Tempio del Dragone (donazione di 80 THB a persona, in loco), da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nPhra Nakhon.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "audioguida multilingue (in omaggio)",
+   "disponibile tramite codice QR. Richiedilo durante la prenotazione per garantirne l'attivazione",
+   "porta il tuo smartphone e le cuffie"
+  ],
+  "notIncluded": [
+   "pedalò opzionale (150 THB/persona, da pagare in loco) non incluso",
+   "non incluso: salita opzionale in cima al Tempio del Dragone (donazione di 80 THB a persona, in loco)"
+  ]
+ },
  "bkk-maeklong-railway-sugar-palm-factory-and-floating-market-krabi": {
   "title": "Bangkok: ferrovia di Maeklong, fabbrica di zucchero di palma e mercato flottante (Krabi)",
   "metaTitle": "Bangkok: ferrovia di Maeklong, fabbrica di zucchero di palma e",
@@ -43612,6 +45237,23 @@ export const IT_TOURS: Record<string, TourT> = {
    "pasti e bevande",
    "mance",
    "altre spese proprie"
+  ]
+ },
+ "floating-market-and-maeklong-markets-private-transfer": {
+  "title": "Mercato flottante e mercato di Maeklong, trasferimento privato",
+  "metaTitle": "Mercato flottante e mercato di Maeklong, trasferimento privato",
+  "shortDescription": "Escursione di 10 ore a Krabi, con Maeklong Railway Market and Damnoen Saduak Floating Market. Operatore: Apsara transportation services, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 10 ore da Krabi, costruita intorno a Maeklong Railway Market and Damnoen Saduak Floating Market. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nDamnoen Saduak, 100 kilometres south-west of Bangkok, is the floating market of the postcards: boats of fruit and noodles on a canal dug in the 1860s, working by 7:00 and finished by 11:00, which is why tours leave the city at 6:30. It is crowded and much of the trade is souvenirs, and it is still worth an hour on the water. Amphawa, nearby, runs Friday to Sunday afternoons and evenings and is the one Bangkok residents prefer, with firefly boat trips after dark. Taling Chan and Khlong Lat Mayom are small weekend markets inside the city where the food is the point.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, trasporto privato di andata e ritorno con veicolo climatizzato e autista. Non comprende assicurazione di viaggio, pranzo, guida e costi della longtail boat, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nBangkok.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "trasporto privato di andata e ritorno con veicolo climatizzato",
+   "autista"
+  ],
+  "notIncluded": [
+   "assicurazione di viaggio",
+   "pranzo",
+   "guida",
+   "costi della longtail boat"
   ]
  },
  "premium-maeklong-and-floating-market-tour-9-pax": {
@@ -43961,6 +45603,16 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "chiang-mai-organic-thai-cooking-experience-by-local-operator": {
+  "title": "Chiang Mai: esperienza di cucina thailandese biologica, con operatore locale",
+  "metaTitle": "Chiang Mai: esperienza di cucina thailandese biologica, con",
+  "shortDescription": "Escursione di 4 ore a Chiang Mai, con trasporto gratuito entro un raggio di 3 km dal centro di Chiang Mai. Operatore: Oh-Hoo, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore a Chiang Mai. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende trasporto gratuito entro un raggio di 3 km dal centro di Chiang Mai. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasporto gratuito entro un raggio di 3 km dal centro di Chiang Mai"
+  ],
+  "notIncluded": []
+ },
  "sticky-waterfall-and-secret-temple-and-lunch-delectable-cuisine-in-chiang-mai": {
   "title": "Cascata Vischiosa, tempio segreto e pranzo con cucina deliziosa, a Chiang Mai",
   "metaTitle": "Cascata Vischiosa, tempio segreto e pranzo con cucina deliziosa,",
@@ -44293,6 +45945,21 @@ export const IT_TOURS: Record<string, TourT> = {
    "spese personali, gratifiche, biglietto d'ingresso al villaggio dai colli lunghi (se non selezionato come opzione)"
   ]
  },
+ "chiang-mai-elephant-jungle-sanctuary-and-mama-noi-cooking-class-by-local-operator": {
+  "title": "Chiang Mai: Elephant Jungle Sanctuary e corso di cucina Mama Noi, con operatore locale",
+  "metaTitle": "Chiang Mai: Elephant Jungle Sanctuary e corso di cucina Mama",
+  "shortDescription": "Escursione di 10 ore a Chiang Mai, con Elephant Jungle Sanctuary:, cibo e bevande (pranzo, snack, acqua potabile) e guida turistica di lingua inglese dell'Elephant Jungle Sanctuary. Operatore: Elephant Jungle Sanctuary Chiang Mai, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 10 ore a Chiang Mai. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende Elephant Jungle Sanctuary:, cibo e bevande (pranzo, snack, acqua potabile) e guida turistica di lingua inglese dell'Elephant Jungle Sanctuary. Non comprende spese personali e mance, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nRitiro in hotel a Chiang Mai. Elephant Jungle Sanctuary Chiang Mai confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "Elephant Jungle Sanctuary:",
+   "cibo e bevande (pranzo, snack, acqua potabile)",
+   "guida turistica di lingua inglese dell'Elephant Jungle Sanctuary"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "mance"
+  ]
+ },
  "atv-and-whitewater-rafting-adventure-in-chiang-mai": {
   "title": "Avventura in ATV e rafting in acque bianche a Chiang Mai",
   "metaTitle": "Avventura in ATV e rafting in acque bianche a Chiang Mai",
@@ -44382,6 +46049,21 @@ export const IT_TOURS: Record<string, TourT> = {
    "transfer di andata e ritorno in hotel entro la città di Chiang Mai"
   ],
   "notIncluded": []
+ },
+ "thai-cooking-class-in-organic-garden-and-visit-local-market-in-chiang-mai": {
+  "title": "Corso di cucina thailandese nell'orto biologico e visita al mercato locale, a Chiang Mai",
+  "metaTitle": "Corso di cucina thailandese nell'orto biologico e visita al",
+  "shortDescription": "Escursione a Chiang Mai, con ritiro e riaccompagno in hotel, visita a un mercato locale e lezione di cucina pratica. Operatore: LOCAL CNX. TOURS 99 CO., LTD., con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza a Chiang Mai. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, visita a un mercato locale e lezione di cucina pratica. Non comprende altre spese e mance, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nRitiro in hotel a Chiang Mai. LOCAL CNX. TOURS 99 CO., LTD. confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "visita a un mercato locale",
+   "lezione di cucina pratica"
+  ],
+  "notIncluded": [
+   "altre spese",
+   "mance"
+  ]
  },
  "elephant-dream-project-sanctuary-full-day-in-chiang-mai": {
   "title": "Santuario Elephant Dream Project, giornata intera a Chiang Mai",
@@ -45172,6 +46854,20 @@ export const IT_TOURS: Record<string, TourT> = {
    "giro in carrozza a cavallo, 500 THB a carrozza (2 ospiti)"
   ]
  },
+ "15-km-leisure-river-kayaking-at-mae-ngat-forest-in-chiang-mai": {
+  "title": "Kayak fluviale di 15 km nella foresta di Mae Ngat, a Chiang Mai",
+  "metaTitle": "Kayak fluviale di 15 km nella foresta di Mae Ngat, a Chiang Mai",
+  "shortDescription": "Escursione di una giornata intera a Chiang Mai, con Jeep / SUV e Chiang Mai Mountain Biking & Kayaks and Chur Lare Bridge. Operatore: CHIANG MAI MOUNTAIN BIKING & KAYAKS, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di una giornata intera a Chiang Mai, costruita intorno a Jeep / SUV e Chiang Mai Mountain Biking & Kayaks and Chur Lare Bridge. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende accompagnatore professionale: guidato dalle guide di kayak professionali di Chiang Mai, primo soccorso: i nostri istruttori sono certificati in primo soccorso e rianimazione cardiopolmonare, per garantire la tua sicurezza durante l'evento e offriamo kayak rigidi singoli e doppi di alta qualità per un'esperienza superiore. Non comprende tassa del fiume e assicurazione (150 baht), si prega di avere i dati del passaporto disponibili al check-in, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nChiang Mai.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "accompagnatore professionale: guidato dalle guide di kayak professionali di Chiang Mai",
+   "primo soccorso: i nostri istruttori sono certificati in primo soccorso e rianimazione cardiopolmonare, per garantire la tua sicurezza durante l'evento",
+   "offriamo kayak rigidi singoli e doppi di alta qualità per un'esperienza superiore"
+  ],
+  "notIncluded": [
+   "tassa del fiume e assicurazione (150 baht), si prega di avere i dati del passaporto disponibili al check-in"
+  ]
+ },
  "chiang-mai-atv-and-white-water-rafting-and-trekking-to-waterfall-by-local-operator": {
   "title": "Chiang Mai: ATV, rafting in acque bianche e trekking verso la cascata, con operatore locale",
   "metaTitle": "Chiang Mai: ATV, rafting in acque bianche e trekking verso la",
@@ -45460,6 +47156,20 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "kayak-the-jungle-river-of-chiang-dao-valley-in-chiang-mai": {
+  "title": "Kayak sul fiume della giungla della valle di Chiang Dao, a Chiang Mai",
+  "metaTitle": "Kayak sul fiume della giungla della valle di Chiang Dao, a",
+  "shortDescription": "Escursione di una giornata intera a Chiang Mai, con Jeep / SUV e Chiang Mai Mountain Biking & Kayaks and Chiang Dao. Operatore: CHIANG MAI MOUNTAIN BIKING & KAYAKS, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di una giornata intera a Chiang Mai, costruita intorno a Jeep / SUV e Chiang Mai Mountain Biking & Kayaks and Chiang Dao. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende accompagnatore professionale: guidato dalle guide di kayak professionali di Chiang Mai, primo soccorso: i nostri istruttori sono certificati in primo soccorso e rianimazione cardiopolmonare, per garantire la tua sicurezza durante l'evento e offriamo kayak rigidi singoli e doppi di alta qualità per un'esperienza superiore. Non comprende assicurazione e tassa del fiume (150 THB), si prega di fornire il numero di passaporto al check-in, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Chiang Dao and Chiang Mai; il luogo e l'ora esatti vengono concordati con CHIANG MAI MOUNTAIN BIKING & KAYAKS una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "accompagnatore professionale: guidato dalle guide di kayak professionali di Chiang Mai",
+   "primo soccorso: i nostri istruttori sono certificati in primo soccorso e rianimazione cardiopolmonare, per garantire la tua sicurezza durante l'evento",
+   "offriamo kayak rigidi singoli e doppi di alta qualità per un'esperienza superiore"
+  ],
+  "notIncluded": [
+   "assicurazione e tassa del fiume (150 THB), si prega di fornire il numero di passaporto al check-in"
+  ]
+ },
  "chiang-mai-full-day-trekking-tubing-and-elephant-observation-by-local-operator": {
   "title": "Chiang Mai, giornata intera: trekking, tubing e osservazione degli elefanti, con operatore locale",
   "metaTitle": "Chiang Mai, giornata intera: trekking, tubing e osservazione",
@@ -45561,6 +47271,22 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "street food",
    "bevande aggiuntive"
+  ]
+ },
+ "lanna-family-kitchen-cooking-class-in-chiang-mai": {
+  "title": "Corso di cucina Lanna Family Kitchen, a Chiang Mai",
+  "metaTitle": "Corso di cucina Lanna Family Kitchen, a Chiang Mai",
+  "shortDescription": "Escursione di 4 ore a Chiang Mai, con Mae Hia Fresh Market. Operatore: FERMENT SPACE COOKING CO., LTD., con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore da Chiang Mai, costruita intorno a Mae Hia Fresh Market. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende istruttore in lingua inglese, visita al mercato locale e raccogli uova fresche dalla fattoria. Non comprende trasporto di riconsegna, accesso alla sauna e accesso al bagno di ghiaccio, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Starbucks Nimmanhemin Soi 9 e Imm Hotel Tha Phae and Breakfast Club; il luogo e l'ora esatti vengono concordati con FERMENT SPACE COOKING CO., LTD. una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "istruttore in lingua inglese",
+   "visita al mercato locale",
+   "raccogli uova fresche dalla fattoria"
+  ],
+  "notIncluded": [
+   "trasporto di riconsegna",
+   "accesso alla sauna",
+   "accesso al bagno di ghiaccio"
   ]
  },
  "white-blue-red-3-temples-tour-in-chiang-mai": {
@@ -46392,6 +48118,20 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "25km-leisure-mountain-biking-and-jungle-kayaking-in-chiang-mai": {
+  "title": "Mountain bike da 25 km e kayak nella giungla, a Chiang Mai",
+  "metaTitle": "Mountain bike da 25 km e kayak nella giungla, a Chiang Mai",
+  "shortDescription": "Escursione di 4 ore a Chiang Mai, con Jeep / SUV e Chiang Mai Mountain Biking & Kayaks and Wat Thepnimit Nantharam. Operatore: CHIANG MAI MOUNTAIN BIKING & KAYAKS, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore a Chiang Mai, costruita intorno a Jeep / SUV e Chiang Mai Mountain Biking & Kayaks and Wat Thepnimit Nantharam. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende mountain bike di alta qualità, ben tenuta, in tutte le taglie. Fai un giro di prova nel nostro pro-shop, attrezzatura di sicurezza: in bici casco e guanti forniti, in kayak giubbotto di salvataggio, per la tua protezione e offriamo kayak rigidi singoli e doppi di alta qualità per un'esperienza superiore. Non comprende tassa del fiume e assicurazione (150 baht), si prega di fornire i dati del passaporto al check-in, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nChiang Mai.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "mountain bike di alta qualità, ben tenuta, in tutte le taglie. Fai un giro di prova nel nostro pro-shop",
+   "attrezzatura di sicurezza: in bici casco e guanti forniti, in kayak giubbotto di salvataggio, per la tua protezione",
+   "offriamo kayak rigidi singoli e doppi di alta qualità per un'esperienza superiore"
+  ],
+  "notIncluded": [
+   "tassa del fiume e assicurazione (150 baht), si prega di fornire i dati del passaporto al check-in"
+  ]
+ },
  "chiang-mai-to-chiang-rai-temples-tea-plantation-and-lalita-cafe-by-local-operator": {
   "title": "Da Chiang Mai a Chiang Rai: templi, piantagione di tè e Lalita Cafe, con operatore locale",
   "metaTitle": "Da Chiang Mai a Chiang Rai: templi, piantagione di tè e Lalita",
@@ -46507,6 +48247,23 @@ export const IT_TOURS: Record<string, TourT> = {
    "tassa d'ingresso al santuario degli elefanti"
   ],
   "notIncluded": []
+ },
+ "full-day-chiang-dao-caving-and-jungle-kayaking-in-chiang-mai": {
+  "title": "Giornata completa di speleologia a Chiang Dao e kayak nella giungla, a Chiang Mai",
+  "metaTitle": "Giornata completa di speleologia a Chiang Dao e kayak nella",
+  "shortDescription": "Escursione di 9 ore a Chiang Mai, con Jeep / SUV e Chiang Mai Mountain Biking & Kayaks and Chiang Dao. Operatore: CHIANG MAI MOUNTAIN BIKING & KAYAKS, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 9 ore a Chiang Mai, costruita intorno a Jeep / SUV e Chiang Mai Mountain Biking & Kayaks and Chiang Dao. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\nIl prezzo comprende guida certificata in primo soccorso e RCP, un kayak rigido singolo o doppio, pranzo in un ristorante vicino alla grotta, camion di supporto per assistenza e deposito bagagli e trasferimenti in van climatizzato o SUV 4x4. Non comprende assicurazione e tassa del fiume (150 baht) e crema solare, repellente, scarpe da acqua e altra attrezzatura outdoor (disponibili all'acquisto), da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Chiang Dao and Chiang Mai; il luogo e l'ora esatti vengono concordati con CHIANG MAI MOUNTAIN BIKING & KAYAKS una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "guida certificata in primo soccorso e RCP",
+   "un kayak rigido singolo o doppio",
+   "pranzo in un ristorante vicino alla grotta",
+   "camion di supporto per assistenza e deposito bagagli",
+   "trasferimenti in van climatizzato o SUV 4x4"
+  ],
+  "notIncluded": [
+   "assicurazione e tassa del fiume (150 baht)",
+   "crema solare, repellente, scarpe da acqua e altra attrezzatura outdoor (disponibili all'acquisto)"
+  ]
  },
  "high-mountain-day-trek-in-chiang-mai": {
   "title": "Trekking di un giorno in alta montagna, a Chiang Mai",
@@ -47324,6 +49081,23 @@ export const IT_TOURS: Record<string, TourT> = {
    "mancia o gratifica"
   ]
  },
+ "railway-floating-market-and-dragon-temple-day-tour": {
+  "title": "Tour di un giorno tra ferrovia, mercato flottante e tempio del dragone",
+  "metaTitle": "Tour di un giorno tra ferrovia, mercato flottante e tempio del",
+  "shortDescription": "Escursione di 8 ore a Bangkok, con Maeklong Railway Market e Damnoen Saduak Floating Market and Wat Sam Phran. Operatore: DiscoverEase Tours, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 8 ore da Bangkok, costruita intorno a Maeklong Railway Market e Damnoen Saduak Floating Market and Wat Sam Phran. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nDamnoen Saduak, 100 kilometres south-west of Bangkok, is the floating market of the postcards: boats of fruit and noodles on a canal dug in the 1860s, working by 7:00 and finished by 11:00, which is why tours leave the city at 6:30. It is crowded and much of the trade is souvenirs, and it is still worth an hour on the water. Amphawa, nearby, runs Friday to Sunday afternoons and evenings and is the one Bangkok residents prefer, with firefly boat trips after dark. Taling Chan and Khlong Lat Mayom are small weekend markets inside the city where the food is the point.\n\nIl prezzo comprende guida esperta, trasporto e giro in barca al mercato flottante di Damnoen Saduak. Non comprende pasti e bevande, spese personali, mance e donazioni al Wat Samphran, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "guida esperta",
+   "trasporto",
+   "giro in barca al mercato flottante di Damnoen Saduak"
+  ],
+  "notIncluded": [
+   "pasti e bevande",
+   "spese personali",
+   "mance",
+   "donazioni al Wat Samphran"
+  ]
+ },
  "pottery-bisque-painting-class-with-glazing-and-firing-in-bangkok": {
   "title": "Lezione di pittura su ceramica biscuit con smaltatura e cottura, a Bangkok",
   "metaTitle": "Lezione di pittura su ceramica biscuit con smaltatura e cottura,",
@@ -47461,6 +49235,25 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "pasto e bevanda",
    "un sacchetto di proiettili è disponibile per 240 THB e comprende circa 4.000 colpi"
+  ]
+ },
+ "private-floating-market-and-train-market-english-guide-bangkok": {
+  "title": "Mercato flottante e mercato del treno privati, guida in inglese (Bangkok)",
+  "metaTitle": "Mercato flottante e mercato del treno privati, guida in inglese",
+  "shortDescription": "Escursione di 8,5 ore a Bangkok, con Train e Maeklong Railway Market and River boat. Operatore: TRIPZA sightseeing, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 8,5 ore da Bangkok, costruita intorno a Train e Maeklong Railway Market and River boat. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nDamnoen Saduak, 100 kilometres south-west of Bangkok, is the floating market of the postcards: boats of fruit and noodles on a canal dug in the 1860s, working by 7:00 and finished by 11:00, which is why tours leave the city at 6:30. It is crowded and much of the trade is souvenirs, and it is still worth an hour on the water. Amphawa, nearby, runs Friday to Sunday afternoons and evenings and is the one Bangkok residents prefer, with firefly boat trips after dark. Taling Chan and Khlong Lat Mayom are small weekend markets inside the city where the food is the point.\n\nIl prezzo comprende guida completamente autorizzata in lingua inglese, trasporto in furgone con aria condizionata, giro in barca, viaggio in treno e audioguida in 28 lingue. Non comprende pasti, cuffie per l'audioguida, spese personali e mance, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl ritiro è offerto da Din Daeng, Bangkok, Ratchathewi, Khlong Toei e Sathon and Phra Khanong; il luogo e l'ora esatti vengono concordati con TRIPZA sightseeing una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "guida completamente autorizzata in lingua inglese",
+   "trasporto in furgone con aria condizionata",
+   "giro in barca",
+   "viaggio in treno",
+   "audioguida in 28 lingue"
+  ],
+  "notIncluded": [
+   "pasti",
+   "cuffie per l'audioguida",
+   "spese personali",
+   "mance"
   ]
  },
  "flower-market-and-floral-art-multi-language-private-tour-in-bangkok": {
@@ -47788,6 +49581,22 @@ export const IT_TOURS: Record<string, TourT> = {
    "cibo e bevande"
   ]
  },
+ "jim-thompson-house-tour-and-thai-cooking-experience-in-bangkok": {
+  "title": "Tour della Jim Thompson House ed esperienza di cucina thailandese, a Bangkok",
+  "metaTitle": "Tour della Jim Thompson House ed esperienza di cucina",
+  "shortDescription": "Escursione di 6,5 ore a Bangkok, con trasferimento privato di andata e ritorno con SUV climatizzato, conducente professionale di lingua inglese, tutte le spese di trasporto (carburante, pedaggi, parcheggio se necessario), biglietto d'ingresso con visita guidata alla Jim Thompson House e corso di cucina thailandese pratico di 3,5 ore con un istruttore di lingua inglese. Operatore: Bangkok Urban Private Tours, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 6,5 ore a Bangkok. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende trasferimento privato di andata e ritorno con SUV climatizzato, conducente professionale di lingua inglese, tutte le spese di trasporto (carburante, pedaggi, parcheggio se necessario), biglietto d'ingresso con visita guidata alla Jim Thompson House e corso di cucina thailandese pratico di 3,5 ore con un istruttore di lingua inglese. Non comprende cibo, bevande o snack aggiuntivi non parte del corso di cucina, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimento privato di andata e ritorno con SUV climatizzato",
+   "conducente professionale di lingua inglese",
+   "tutte le spese di trasporto (carburante, pedaggi, parcheggio se necessario)",
+   "biglietto d'ingresso con visita guidata alla Jim Thompson House",
+   "corso di cucina thailandese pratico di 3,5 ore con un istruttore di lingua inglese"
+  ],
+  "notIncluded": [
+   "cibo, bevande o snack aggiuntivi non parte del corso di cucina"
+  ]
+ },
  "jim-thompson-a-thai-restaurant-food-and-drink-packages-in-bangkok": {
   "title": "Jim Thompson, ristorante thailandese: pacchetti cibo e bevande, a Bangkok",
   "metaTitle": "Jim Thompson, ristorante thailandese: pacchetti cibo e bevande,",
@@ -47834,6 +49643,20 @@ export const IT_TOURS: Record<string, TourT> = {
    "drink di benvenuto (mocktail di frutta)",
    "acqua, tè e caffè",
    "cena a buffet internazionale e di frutti di mare"
+  ],
+  "notIncluded": []
+ },
+ "thai-cooking-class-with-4-dishes-in-bangkok": {
+  "title": "Corso di cucina thailandese con 4 piatti, a Bangkok",
+  "metaTitle": "Corso di cucina thailandese con 4 piatti, a Bangkok",
+  "shortDescription": "Escursione di 4 ore a Bangkok, con corso di cucina thailandese pratico a Bangkok, guida da parte di istruttori locali cordiali, tutti gli ingredienti freschi e l'attrezzatura da cucina, la tua postazione di cucina personale e 4 piatti thailandesi: Pad Thai, Tom Yum Goong, Som Tum (insalata di papaya), riso glutinoso al mango. Operatore: Homies Thai cooking classes, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore a Bangkok. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende corso di cucina thailandese pratico a Bangkok, guida da parte di istruttori locali cordiali, tutti gli ingredienti freschi e l'attrezzatura da cucina, la tua postazione di cucina personale e 4 piatti thailandesi: Pad Thai, Tom Yum Goong, Som Tum (insalata di papaya), riso glutinoso al mango. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "corso di cucina thailandese pratico a Bangkok",
+   "guida da parte di istruttori locali cordiali",
+   "tutti gli ingredienti freschi e l'attrezzatura da cucina",
+   "la tua postazione di cucina personale",
+   "4 piatti thailandesi: Pad Thai, Tom Yum Goong, Som Tum (insalata di papaya), riso glutinoso al mango"
   ],
   "notIncluded": []
  },
@@ -47885,6 +49708,25 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "spese personali",
    "gratifiche"
+  ]
+ },
+ "highlights-temples-and-canal-tour-in-bangkok": {
+  "title": "Punti d'interesse, templi e tour dei canali, a Bangkok",
+  "metaTitle": "Punti d'interesse, templi e tour dei canali, a Bangkok",
+  "shortDescription": "Escursione di 8 ore a Bangkok, con Public transport e Wat Phra Kaew and Wat Pho. Operatore: Bigcountry Experience Co.,Ltd., con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 8 ore a Bangkok, costruita intorno a Public transport e Wat Phra Kaew and Wat Pho. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThe Chao Phraya is Bangkok's original main street, and the canals of Thonburi on its west bank are what the city looked like before the roads: stilt houses, temples with their own landings, monitor lizards and the odd floating vendor. A long-tail boat through the Bangkok Noi and Bangkok Yai klongs takes an hour and a half from any central pier. The evening dinner cruises are a different product, a buffet and a band past the floodlit Wat Arun and the Grand Palace, and worth it once for the view; the public Chao Phraya Express boat, at a few baht a ride, gives the same river by day.\n\nIl prezzo comprende acqua potabile, guida, tuk-tuk dal Grand Palace al Wat Pho, gita in barca di 2 ore sul fiume Chao Phraya e biglietto della barca da River City Bangkok al Grand Palace. Non comprende spese personali, gratifiche (facoltative), biglietto d'ingresso al Grand Palace: 500 baht thailandesi a persona e biglietto d'ingresso al Wat Pho: 300 baht thailandesi a persona, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "acqua potabile",
+   "guida",
+   "tuk-tuk dal Grand Palace al Wat Pho",
+   "gita in barca di 2 ore sul fiume Chao Phraya",
+   "biglietto della barca da River City Bangkok al Grand Palace"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "gratifiche (facoltative)",
+   "biglietto d'ingresso al Grand Palace: 500 baht thailandesi a persona",
+   "biglietto d'ingresso al Wat Pho: 300 baht thailandesi a persona"
   ]
  },
  "flower-market-tour-and-garland-workshop-in-bangkok": {
@@ -48158,6 +50000,20 @@ export const IT_TOURS: Record<string, TourT> = {
    "spese personali"
   ]
  },
+ "private-nightlife-tuk-tuk-tour-with-hotel-pickup-in-bangkok": {
+  "title": "Tour privato della vita notturna in tuk-tuk con prelievo in hotel, a Bangkok",
+  "metaTitle": "Tour privato della vita notturna in tuk-tuk con prelievo in",
+  "shortDescription": "Escursione di 4 ore a Bangkok, con giro in tuk-tuk e ritiro e riaccompagno in hotel. Operatore: Good for you travel&tour, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore a Bangkok. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nPatong is Phuket's nightlife beach, and Bangla Road, closed to traffic from dusk, is a 400-metre strip of open-front bars, beer bars and go-go venues that fills from 21:00 to 02:00. It is loud, safe enough with the usual care over drinks and prices, and not for children after dark. Simon Cabaret, the ladyboy revue that has run since 1991, is the family-friendly show with two performances a night. Beyond Patong, the nightlife is quieter: beach clubs at Surin and Bang Tao, and the night markets in Phuket Town.\n\nIl prezzo comprende giro in tuk-tuk e ritiro e riaccompagno in hotel. Non comprende cibo e bevande e spese personali, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nRitiro in hotel a Bangkok. Good for you travel&tour confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "giro in tuk-tuk",
+   "ritiro e riaccompagno in hotel"
+  ],
+  "notIncluded": [
+   "cibo e bevande",
+   "spese personali"
+  ]
+ },
  "ayutthaya-one-day-famous-temples-and-bang-pa-in-palace-tour-bangkok": {
   "title": "Ayutthaya in un giorno: templi famosi e tour al palazzo di Bang Pa-In (da Bangkok)",
   "metaTitle": "Ayutthaya in un giorno: templi famosi e tour al palazzo di Bang",
@@ -48184,6 +50040,21 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "pranzo",
    "transfer"
+  ]
+ },
+ "highlight-tuk-tuk-canal-tour-food-tour-and-wat-arun": {
+  "title": "Tuk-tuk, tour dei canali, tour gastronomico e Wat Arun",
+  "metaTitle": "Tuk-tuk, tour dei canali, tour gastronomico e Wat Arun",
+  "shortDescription": "Escursione di 4 ore a Bangkok, con River boat e Wat Paknam Phasi Charoen and Wat Arun. Operatore: EM JOURNEY CO.,LTD, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 4 ore da Bangkok, costruita intorno a River boat e Wat Paknam Phasi Charoen and Wat Arun. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nWat Arun, the Temple of Dawn, stands on the Thonburi bank of the Chao Phraya directly across from Wat Pho, and its 70-metre central prang is covered in fragments of Chinese porcelain that were ballast in trading ships. The climb up the lower terraces is steep and the steps are shallow; the view is back across the river to the Grand Palace. Entry is 200 baht. It is named for the dawn but photographed at dusk, when it is floodlit and seen from the riverside bars on the opposite bank, and the 5-baht ferry from Tha Tien pier is the way across.\n\nIl prezzo comprende trasporto con longtail boat e barca di attraversamento, trasporto in tuk-tuk durante il tour e costo d'ingresso al Wat Arun. Non comprende riaccompagno in hotel e gratifiche, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nWutthakat.. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasporto con longtail boat e barca di attraversamento",
+   "trasporto in tuk-tuk durante il tour",
+   "costo d'ingresso al Wat Arun"
+  ],
+  "notIncluded": [
+   "riaccompagno in hotel",
+   "gratifiche"
   ]
  },
  "old-city-guided-e-scooter-and-or-bike-tour-in-bangkok": {
@@ -48736,6 +50607,21 @@ export const IT_TOURS: Record<string, TourT> = {
    "trasporto"
   ]
  },
+ "laemchabang-port-2-days-bangkok-temples-and-floating-market-by-local-operator": {
+  "title": "Porto di Laem Chabang: 2 giorni tra i templi di Bangkok e il mercato flottante, con operatore locale",
+  "metaTitle": "Porto di Laem Chabang: 2 giorni tra i templi di Bangkok e il",
+  "shortDescription": "Escursione di 2 giorni a Bangkok, con The Grand Palace e Wat Pho and Tha Tien Market. Operatore: Ticket2attraction, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 2 giorni da Bangkok, costruita intorno a The Grand Palace e Wat Pho and Tha Tien Market. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nDamnoen Saduak, 100 kilometres south-west of Bangkok, is the floating market of the postcards: boats of fruit and noodles on a canal dug in the 1860s, working by 7:00 and finished by 11:00, which is why tours leave the city at 6:30. It is crowded and much of the trade is souvenirs, and it is still worth an hour on the water. Amphawa, nearby, runs Friday to Sunday afternoons and evenings and is the one Bangkok residents prefer, with firefly boat trips after dark. Taling Chan and Khlong Lat Mayom are small weekend markets inside the city where the food is the point.\n\nIl prezzo comprende trasferimento privato di andata e ritorno da/per Laem Chabang, benzina, pedaggio, parcheggio, tassa portuale e assicurazione di viaggio. Non comprende pasti/pranzo e spese personali, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "trasferimento privato di andata e ritorno da/per Laem Chabang",
+   "benzina, pedaggio, parcheggio, tassa portuale",
+   "assicurazione di viaggio"
+  ],
+  "notIncluded": [
+   "pasti/pranzo",
+   "spese personali"
+  ]
+ },
  "ayutthaya-historical-park-guided-day-trip": {
   "title": "Gita guidata di un giorno al Parco Storico di Ayutthaya",
   "metaTitle": "Gita guidata di un giorno al Parco Storico di Ayutthaya",
@@ -48972,6 +50858,19 @@ export const IT_TOURS: Record<string, TourT> = {
    "pasto di street food"
   ],
   "notIncluded": []
+ },
+ "cooking-class-with-market-visit-and-tuk-tuk-ride-in-bangkok": {
+  "title": "Corso di cucina con visita al mercato e giro in tuk-tuk, a Bangkok",
+  "metaTitle": "Corso di cucina con visita al mercato e giro in tuk-tuk, a",
+  "shortDescription": "Escursione di 3,5 ore a Bangkok, con sessione di cucina con 4 piatti thailandesi. Operatore: Sabieng Cooking, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 3,5 ore a Bangkok. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\nIl prezzo comprende sessione di cucina con 4 piatti thailandesi. Non comprende ritiro e riaccompagno in hotel e bevande alcoliche, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "sessione di cucina con 4 piatti thailandesi"
+  ],
+  "notIncluded": [
+   "ritiro e riaccompagno in hotel",
+   "bevande alcoliche"
+  ]
  },
  "red-sky-57th-floor-cocoa-xo-bar-in-bangkok": {
   "title": "Red Sky al 57° piano, COCOA XO Bar, a Bangkok",
@@ -49427,6 +51326,22 @@ export const IT_TOURS: Record<string, TourT> = {
    "spesa personale"
   ]
  },
+ "railway-market-floating-market-and-dragon-temple": {
+  "title": "Mercato della ferrovia, mercato flottante e tempio del dragone",
+  "metaTitle": "Mercato della ferrovia, mercato flottante e tempio del dragone",
+  "shortDescription": "Escursione di 7,5 ore a Bangkok, con Bus/coach e Maeklong Railway Market and Damnoen Saduak Floating Market. Operatore: DiscoverEase Tours, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 7,5 ore da Bangkok, costruita intorno a Bus/coach e Maeklong Railway Market and Damnoen Saduak Floating Market. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nDamnoen Saduak, 100 kilometres south-west of Bangkok, is the floating market of the postcards: boats of fruit and noodles on a canal dug in the 1860s, working by 7:00 and finished by 11:00, which is why tours leave the city at 6:30. It is crowded and much of the trade is souvenirs, and it is still worth an hour on the water. Amphawa, nearby, runs Friday to Sunday afternoons and evenings and is the one Bangkok residents prefer, with firefly boat trips after dark. Taling Chan and Khlong Lat Mayom are small weekend markets inside the city where the food is the point.\n\nIl prezzo comprende guida locale, veicolo con aria condizionata e giro in barca al mercato flottante. Non comprende spese personali, pranzo e donazione al Wat Sam Phran, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nIl punto d'incontro e l'ora vengono inviati per email non appena la prenotazione è confermata. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "guida locale",
+   "veicolo con aria condizionata",
+   "giro in barca al mercato flottante"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "pranzo",
+   "donazione al Wat Sam Phran"
+  ]
+ },
  "railway-floating-market-and-chao-phraya-cruise-tour": {
   "title": "Tour al mercato ferroviario, al mercato flottante e crociera sul Chao Phraya",
   "metaTitle": "Tour al mercato ferroviario, al mercato flottante e crociera sul",
@@ -49610,6 +51525,21 @@ export const IT_TOURS: Record<string, TourT> = {
    "spese personali",
    "mancia e gratifica per la guida o l'equipaggio della barca",
    "biglietti d'ingresso per qualsiasi tempio non menzionato tra gli elementi inclusi"
+  ]
+ },
+ "floating-market-and-ayutthaya-guided-day-tour": {
+  "title": "Tour guidato di un giorno al mercato flottante e ad Ayutthaya",
+  "metaTitle": "Tour guidato di un giorno al mercato flottante e ad Ayutthaya",
+  "shortDescription": "Escursione di 12 ore a Bangkok, con Bus/coach e Maeklong Railway Market and Damnoen Saduak Floating Market. Operatore: Bigcountry Experience Co.,Ltd., con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Questa è un'esperienza di 12 ore da Bangkok, costruita intorno a Bus/coach e Maeklong Railway Market and Damnoen Saduak Floating Market. Il tuo posto viene bloccato con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nDamnoen Saduak, 100 kilometres south-west of Bangkok, is the floating market of the postcards: boats of fruit and noodles on a canal dug in the 1860s, working by 7:00 and finished by 11:00, which is why tours leave the city at 6:30. It is crowded and much of the trade is souvenirs, and it is still worth an hour on the water. Amphawa, nearby, runs Friday to Sunday afternoons and evenings and is the one Bangkok residents prefer, with firefly boat trips after dark. Taling Chan and Khlong Lat Mayom are small weekend markets inside the city where the food is the point.\n\nIl prezzo comprende ritiro in hotel (se questa opzione è selezionata), guida in lingua inglese e pranzo (se questa opzione è selezionata). Non comprende spese personali e esperienza di gamberi di fiume ad Ayutthaya, da considerare separatamente. Tutto ciò che è incluso è elencato per intero su questa pagina; se qualcosa non figura in questa lista, considera che non è compreso nel prezzo.\n\nRitiro in hotel a Bangkok. Bigcountry Experience Co.,Ltd. confermerà l'ora di ritiro e il punto esatto una volta effettuata la prenotazione. Ci serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la tua prenotazione definitiva. Se la data non può essere confermata, te lo diciamo e ti rimborsiamo invece di lasciarti in attesa.",
+  "included": [
+   "ritiro in hotel (se questa opzione è selezionata)",
+   "guida in lingua inglese",
+   "pranzo (se questa opzione è selezionata)"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "esperienza di gamberi di fiume ad Ayutthaya"
   ]
  },
  "sterling-silver-ring-workshop-with-take-home-ring-in-bangkok": {
