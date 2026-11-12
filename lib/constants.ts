@@ -392,6 +392,16 @@ export const TASHKENT_INFO_SLUGS = [
   'best-chimgan-mountain-tour-tashkent',
 ];
 
+export const BUKHARA_INFO_SLUGS = [
+  'best-tours-in-bukhara',
+  'best-old-town-walking-tour-bukhara',
+];
+
+export const KHIVA_INFO_SLUGS = [
+  'best-tours-in-khiva',
+  'best-itchan-kala-walking-tour-khiva',
+];
+
 export const MANILA_INFO_SLUGS = [
   'best-time-to-visit-manila', 'things-to-do-in-manila', 'manila-travel-guide-2026',
   'manila-1-day-itinerary', 'philippines-visa-guide-for-tourists', 'intramuros-fort-santiago-guide',

@@ -232,6 +232,226 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        case "best-tours-in-bukhara":
+            return {
+                title: "Best Tours in Bukhara — 2026, Honestly Compared",
+                seoTitle: "Best Tours in Bukhara 2026: Top-Rated Picks by Category",
+                description: "The best Bukhara tours for 2026, picked by category — Old Town walking tours, Uzbek cooking classes and historical monuments — with real prices and an honest note on how we chose them.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d91bc77966a07a4ffa9345436d72e8bd9690385221195c7bf7d5bb4119575788.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Bukhara's entire Old Town is a UNESCO World Heritage Site, dense enough that a walking tour covers most of it in a few hours — the Ark Fortress, Lyabi-Hauz, the trading domes, and the Poi Kalon complex all sit within easy walking distance of each other. A historical walking tour with a local guide is the right starting point for almost every visitor; cooking classes and crafts workshops are the best way to round out a second day.",
+                        tourCard: { slug: "bukhara-historical-walking-tour-with-local-guide", title: "Bukhara: Historical Walking Tour with Local Guide", description: "The standard way to see Bukhara's dense Old Town with a local guide explaining the history.", price: "From $25", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d91bc77966a07a4ffa9345436d72e8bd9690385221195c7bf7d5bb4119575788.jpg" },
+                    },
+                    {
+                        title: "Best for a Longer, Deeper Walk",
+                        content: "This longer version of the Old Town walk goes further into Bukhara's ancient monuments, worth it if you have more than a half day and want more context than the standard 3-hour circuit covers.",
+                        tourCard: { slug: "bukhara-ancient-monuments-guided-walking-tour", title: "Bukhara: Ancient Monuments Guided Walking Tour", description: "A longer, deeper walking tour through Bukhara's ancient monuments.", price: "From $52", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6c6454ffb122acbcd8cef096e384c7307090b8dfa2449a634311407b6cbb90a8.png" },
+                    },
+                    {
+                        title: "Best for a Specific Route: Lyabi-Hauz to the Ark",
+                        content: "Rather than a general city overview, this tour follows a specific route from the Lyabi-Hauz ensemble (Bukhara's social heart, built around a centuries-old pond) to the Ark Fortress — good if you want a clear narrative thread rather than a scattered list of stops.",
+                        tourCard: { slug: "bukhara-from-lyabi-hauz-ensemble-to-the-ark", title: "Bukhara: From Lyabi-Hauz Ensemble to the Ark Fortress", description: "A route-based walking tour from Bukhara's central pond to its fortress.", price: "From $30", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7c78c2ec3b1cbbb92569e8fc1c53096c086eb1da196644fd6759359e5e6fb8ac.jpg" },
+                    },
+                    {
+                        title: "Best Cooking Class",
+                        content: "Uzbek plov (the national rice dish) has regional variations across the country, and a hands-on cooking class with a local family is the best way to understand Bukhara's version specifically, with a real meal at the end rather than just a demonstration.",
+                        tourCard: { slug: "bukhara-traditional-plov-and-uzbek-salad-cooking", title: "Bukhara: Traditional Plov and Uzbek Salad Cooking Class", description: "A hands-on plov cooking class with a local family, finishing with the meal.", price: "From $215", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7ede1909bdc174d3f22ae6d10caf440751f4bcd39520c707db1b16697e84f929.png" },
+                    },
+                    {
+                        title: "Cheapest Way to See the Old Town",
+                        content: "If budget is the deciding factor, the standard historical walking tour is already the lowest-priced option for covering Bukhara's main sights — a cooking class or workshop is the better add-on for a second day, not a cheaper substitute for the walking tour itself.",
+                        tourCard: { slug: "bukhara-guided-walking-tour-of-old-town", title: "Bukhara: Guided Walking Tour of Old Town", description: "A budget-friendly guided walk through Bukhara's Old Town.", price: "From $29", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/441b16ea72bbd26cdfd280153c86be11be9033f29070093f73e926037d7ddb1b.png" },
+                    },
+                    {
+                        title: "How We Picked These",
+                        content: "Every tour above is run by a verified local operator we've vetted directly. We don't claim to be the cheapest option in Bukhara — several of these tours are also sold on other platforms by the same operator, who sets their own rate. What we commit to is confirming every booking directly with the operator by WhatsApp before it's treated as final, and refunding in full if they can't take your date. Browse [all Bukhara tours](/uzbekistan/bukhara) if you'd rather pick your own instead of our picks."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best tour in Bukhara?", a: "A historical walking tour of Bukhara's Old Town — the Ark Fortress, Lyabi-Hauz, and the Poi Kalon complex — is the right starting point for almost every visitor." },
+                    { q: "How many days do I need in Bukhara?", a: "A full day covers the main Old Town walking circuit; two days allows time for a cooking class or craft workshop as well." },
+                    { q: "What is the best cooking class in Bukhara?", a: "A hands-on Uzbek plov and salad cooking class with a local family, which ends with the meal you made." },
+                    { q: "Is Bukhara's Old Town walkable?", a: "Yes — nearly all of Bukhara's major sights sit within a compact, walkable UNESCO-listed Old Town." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best tour in Bukhara?", "acceptedAnswer": { "@type": "Answer", "text": "A historical walking tour of Bukhara's Old Town is the right starting point for almost every visitor." } },
+                        { "@type": "Question", "name": "How many days do I need in Bukhara?", "acceptedAnswer": { "@type": "Answer", "text": "A full day covers the main walking circuit; two days allows for a cooking class or workshop." } },
+                        { "@type": "Question", "name": "What is the best cooking class in Bukhara?", "acceptedAnswer": { "@type": "Answer", "text": "A hands-on Uzbek plov and salad cooking class with a local family." } },
+                        { "@type": "Question", "name": "Is Bukhara's Old Town walkable?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — nearly all major sights sit within a compact, walkable UNESCO-listed Old Town." } }
+                    ]
+                },
+            };
+
+        case "best-old-town-walking-tour-bukhara":
+            return {
+                title: "Which Is the Best Old Town Walking Tour in Bukhara?",
+                seoTitle: "Best Old Town Walking Tour Bukhara 2026 | Honest Comparison",
+                description: "Compare real Bukhara Old Town walking tours — from a $25 standard guided walk to a deeper ancient-monuments tour and a route-based Lyabi-Hauz to Ark Fortress walk.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f7e0f797f2bd4dc90772de5705237cf9cf4c3c9f9fd341d5d8ee94407c15125d.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Bukhara's Old Town is compact enough that most walking tours cover similar ground — the Ark Fortress, Lyabi-Hauz, the trading domes, and the Poi Kalon minaret complex — with the real differences coming down to tour length (2.5 to 4.5 hours) and how deep into the history each guide goes. Prices run $25-52 for these guided walks.",
+                        tourCard: { slug: "bukhara-historical-walking-tour-with-local-guide", title: "Bukhara: Historical Walking Tour with Local Guide", description: "The standard guided walk through Bukhara's main Old Town sights.", price: "From $25", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d91bc77966a07a4ffa9345436d72e8bd9690385221195c7bf7d5bb4119575788.jpg" },
+                    },
+                    {
+                        title: "Cheapest: Standard Old Town Walk",
+                        content: "This guided walk covers Bukhara's main Old Town sights at the lowest price point — a solid choice if you mainly want the sights explained without a longer commitment.",
+                        tourCard: { slug: "bukhara-guided-walking-tour-of-old-town", title: "Bukhara: Guided Walking Tour of Old Town", description: "The most budget-friendly guided walk through the Old Town.", price: "From $29", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/441b16ea72bbd26cdfd280153c86be11be9033f29070093f73e926037d7ddb1b.png" },
+                    },
+                    {
+                        title: "If You Want More Depth: Ancient Monuments Tour",
+                        content: "This longer version goes further into Bukhara's ancient monuments than the standard circuit — a better fit if you have more time and want more historical context per stop.",
+                        tourCard: { slug: "bukhara-ancient-monuments-guided-walking-tour", title: "Bukhara: Ancient Monuments Guided Walking Tour", description: "A longer, more in-depth walking tour of Bukhara's ancient monuments.", price: "From $52", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6c6454ffb122acbcd8cef096e384c7307090b8dfa2449a634311407b6cbb90a8.png" },
+                    },
+                    {
+                        title: "If You Want a Clear Route: Lyabi-Hauz to the Ark",
+                        content: "Instead of a general overview, this tour follows a specific path from the Lyabi-Hauz ensemble to the Ark Fortress, giving the walk a clear narrative thread rather than a scattered stop list.",
+                        tourCard: { slug: "bukhara-from-lyabi-hauz-ensemble-to-the-ark", title: "Bukhara: From Lyabi-Hauz Ensemble to the Ark Fortress", description: "A route-based walk connecting Bukhara's central pond to its fortress.", price: "From $30", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7c78c2ec3b1cbbb92569e8fc1c53096c086eb1da196644fd6759359e5e6fb8ac.jpg" },
+                    },
+                    {
+                        title: "If You Want the Longest Version",
+                        content: "This is the longest Old Town walking tour available, pairing the main circuit with extra time at each stop — a good fit for history-focused travellers who want to linger rather than move quickly between sights.",
+                        tourCard: { slug: "bukhara-old-town-walking-tour-with-local-guide", title: "Bukhara: Old Town Walking Tour with Local Guide", description: "The longest version of the Old Town walking tour, with more time at each stop.", price: "From $46", duration: "4.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f7e0f797f2bd4dc90772de5705237cf9cf4c3c9f9fd341d5d8ee94407c15125d.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Bukhara's Old Town is mostly flat and walkable in regular shoes — no special footwear needed. Summer afternoons get very hot; a morning or early-evening tour is more comfortable than a midday one."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Old Town walking tour in Bukhara?", a: "A standard 3-hour guided walk covering the Ark Fortress, Lyabi-Hauz and the trading domes suits most visitors." },
+                    { q: "How long is a Bukhara Old Town walking tour?", a: "Most run 2.5 to 4.5 hours, depending on how much depth and how many stops are included." },
+                    { q: "What's included in a Bukhara walking tour?", a: "Typically the Ark Fortress, Lyabi-Hauz, the trading domes and the Poi Kalon minaret complex." },
+                    { q: "Is Bukhara hot for walking tours?", a: "Summer afternoons get very hot — a morning or early-evening tour is more comfortable." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Old Town walking tour in Bukhara?", "acceptedAnswer": { "@type": "Answer", "text": "A standard 3-hour guided walk covering the Ark Fortress, Lyabi-Hauz and the trading domes suits most visitors." } },
+                        { "@type": "Question", "name": "How long is a Bukhara Old Town walking tour?", "acceptedAnswer": { "@type": "Answer", "text": "Most run 2.5 to 4.5 hours depending on depth and stops." } },
+                        { "@type": "Question", "name": "What's included in a Bukhara walking tour?", "acceptedAnswer": { "@type": "Answer", "text": "Typically the Ark Fortress, Lyabi-Hauz, the trading domes and the Poi Kalon minaret complex." } },
+                        { "@type": "Question", "name": "Is Bukhara hot for walking tours?", "acceptedAnswer": { "@type": "Answer", "text": "Summer afternoons get very hot — morning or early-evening tours are more comfortable." } }
+                    ]
+                },
+            };
+
+        case "best-tours-in-khiva":
+            return {
+                title: "Best Tours in Khiva — 2026, Honestly Compared",
+                seoTitle: "Best Tours in Khiva 2026: Top-Rated Picks by Category",
+                description: "The best Khiva tours for 2026, picked by category — Itchan Kala walking tours, craft workshops and day trips to the Aral Sea — with real prices and an honest note on how we chose them.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/49abb72b2fa6961a6a09013a56e9e21246ffc959e279bf47bdbc250711b02ccc.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Itchan Kala, Khiva's walled inner city, is one of the best-preserved old towns in Central Asia and the reason almost everyone visits — a guided walking tour through it is the right starting point for nearly every traveller. Khiva is also the jumping-off point for day trips to the Aral Sea's ship cemetery, a genuinely different kind of experience from the old-city sightseeing.",
+                        tourCard: { slug: "khiva-cultural-sightseeing-tour-of-itchan-kala", title: "Khiva: Cultural Sightseeing Tour of Itchan Kala with Local Guide", description: "The standard way to see Khiva's walled inner city with a local guide explaining its history.", price: "From $208", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/49abb72b2fa6961a6a09013a56e9e21246ffc959e279bf47bdbc250711b02ccc.jpg" },
+                    },
+                    {
+                        title: "Cheapest: Old Town Guided Walk",
+                        content: "This lower-priced guided walk covers Khiva's Old Town and Itchan Kala's main sights without the premium of the full cultural sightseeing package — a good choice for budget-conscious travellers who still want a local guide.",
+                        tourCard: { slug: "khivas-old-town-guided-walking-tour", title: "Khiva's Old Town Guided Walking Tour", description: "A budget-friendly guided walk through Khiva's Old Town.", price: "From $37", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/567a21f8507f7ffa88fb96ff33cd1cd9053611323225762842d5746804bce9f1.png" },
+                    },
+                    {
+                        title: "Best for the Silk Road Story",
+                        content: "This tour frames Khiva's walled city specifically around its Silk Road history rather than listing monuments one by one — a good fit if you want the historical narrative explained as a connected story.",
+                        tourCard: { slug: "walking-through-khivas-silk-road-heritage", title: "Walking Through Khiva's Silk Road Heritage", description: "A Silk Road-history-focused walk through Khiva's ancient sites.", price: "From $42", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e1fdb9257cc7f4075e70acd4439dd51a6266e483e737ffe678d2f9305ae46f13.png" },
+                    },
+                    {
+                        title: "Best Full Day Out: Khiva to Muynak",
+                        content: "For travellers who want to see the Aral Sea's famous ship cemetery — stranded fishing boats on what used to be seabed — this long day trip from Khiva covers the drying sea, the ship graveyard, and the Savitsky Museum of Soviet-era art in Nukus.",
+                        tourCard: { slug: "khiva-to-muynak-aral-sea-ship-cemetery-savitsky", title: "Khiva to Muynak: Aral Sea, Ship Cemetery & Savitsky Museum", description: "A full day trip to the Aral Sea's ship cemetery and the Savitsky Museum.", price: "From $241", duration: "15 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/90669fe72614e4ab5bf8903ef0a491b3a3394ebb5e1063ab452e9193f7d8907d.jpg" },
+                    },
+                    {
+                        title: "Best Multi-Day Option: 2-Day Khiva Tour",
+                        content: "If you want to go beyond Itchan Kala, this 2-day package adds five fortresses and a yurt camp stay to the standard old-city sightseeing, giving a much fuller picture of the Khorezm region than a single-day visit.",
+                        tourCard: { slug: "all-in-2-day-khiva-tour-5-fortress-yurt", title: "All In 2-Day Khiva Tour: 5 Fortresses & Yurt Camp, Itchan Kala", description: "A 2-day package covering Itchan Kala, five desert fortresses and a yurt camp stay.", price: "From $319", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2bc04024a0b2dc273e1d0c77f83b38b6b85b3927ddaefe7d5012f9fcf9388d4c.png" },
+                    },
+                    {
+                        title: "How We Picked These",
+                        content: "Every tour above is run by a verified local operator we've vetted directly. We don't claim to be the cheapest option in Khiva — several of these tours are also sold on other platforms by the same operator, who sets their own rate. What we commit to is confirming every booking directly with the operator by WhatsApp before it's treated as final, and refunding in full if they can't take your date. Browse [all Khiva tours](/uzbekistan/khiva) if you'd rather pick your own instead of our picks."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best tour in Khiva?", a: "A guided walking tour of Itchan Kala, Khiva's walled inner city, is the right starting point for almost every visitor." },
+                    { q: "Is the Aral Sea day trip from Khiva worth it?", a: "Yes if you have a full day to spare — the ship cemetery at Muynak and the Savitsky Museum in Nukus are a genuinely different experience from Khiva's old-city sightseeing." },
+                    { q: "How many days do I need in Khiva?", a: "A single day covers Itchan Kala; a 2-day package lets you add nearby desert fortresses and a yurt camp stay." },
+                    { q: "What is Itchan Kala?", a: "Khiva's walled inner city, one of the best-preserved old towns in Central Asia and a UNESCO World Heritage Site." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best tour in Khiva?", "acceptedAnswer": { "@type": "Answer", "text": "A guided walking tour of Itchan Kala, Khiva's walled inner city, is the right starting point." } },
+                        { "@type": "Question", "name": "Is the Aral Sea day trip from Khiva worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes if you have a full day — the ship cemetery and Savitsky Museum are a different experience from old-city sightseeing." } },
+                        { "@type": "Question", "name": "How many days do I need in Khiva?", "acceptedAnswer": { "@type": "Answer", "text": "A single day covers Itchan Kala; a 2-day package adds desert fortresses and a yurt camp stay." } },
+                        { "@type": "Question", "name": "What is Itchan Kala?", "acceptedAnswer": { "@type": "Answer", "text": "Khiva's walled inner city, one of the best-preserved old towns in Central Asia." } }
+                    ]
+                },
+            };
+
+        case "best-itchan-kala-walking-tour-khiva":
+            return {
+                title: "Which Is the Best Itchan Kala Walking Tour in Khiva?",
+                seoTitle: "Best Itchan Kala Walking Tour Khiva 2026 | Honest Comparison",
+                description: "Compare real Khiva Itchan Kala walking tours — from a $26 budget guided walk to a $208 full cultural sightseeing package and a Silk Road heritage walk.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2da87a27c74d49d0267b2f70e2c43e6abc7c86c9727666467775dac9a2c6fc50.png",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Itchan Kala, Khiva's walled inner city, is compact enough to walk end to end in under an hour, but a guided tour of 3-4 hours is what most visitors actually book to get the history behind the mosques, minarets and madrasas rather than just the view. Prices range from $26 for a basic guided walk to $208 for a fuller cultural sightseeing package.",
+                        tourCard: { slug: "khiva-historical-monuments-guided-walking-tour", title: "Khiva: Historical Monuments Guided Walking Tour", description: "A guided walk through Itchan Kala's historical monuments.", price: "From $26", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2da87a27c74d49d0267b2f70e2c43e6abc7c86c9727666467775dac9a2c6fc50.png" },
+                    },
+                    {
+                        title: "Cheapest: Historical Monuments Walk",
+                        content: "This is the lowest-priced way to get a guided walk through Itchan Kala's main historical monuments, covering the walled city's mosques and minarets.",
+                        tourCard: { slug: "khiva-historical-monuments-guided-walking-tour", title: "Khiva: Historical Monuments Guided Walking Tour", description: "The most budget-friendly guided walk through Itchan Kala.", price: "From $26", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2da87a27c74d49d0267b2f70e2c43e6abc7c86c9727666467775dac9a2c6fc50.png" },
+                    },
+                    {
+                        title: "If You Want More Sites: Ancient Sites Walk",
+                        content: "This version covers more of Khiva's ancient sites within the walled city than the basic historical walk — a middle-ground option between the cheapest tour and the full cultural package.",
+                        tourCard: { slug: "khiva-guided-walking-tour-in-khivas-ancient-sites", title: "Khiva: Guided Walking Tour in Khiva's Ancient Sites", description: "A broader guided walk across more of Itchan Kala's ancient sites.", price: "From $32", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2bc04024a0b2dc273e1d0c77f83b38b6b85b3927ddaefe7d5012f9fcf9388d4c.png" },
+                    },
+                    {
+                        title: "If You Want the Silk Road Story",
+                        content: "This tour frames Itchan Kala specifically around Khiva's role in Silk Road trade, rather than a general sightseeing list — a good fit for history-focused travellers.",
+                        tourCard: { slug: "walking-through-khivas-silk-road-heritage", title: "Walking Through Khiva's Silk Road Heritage", description: "A Silk Road-history-focused walk through Itchan Kala.", price: "From $42", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e1fdb9257cc7f4075e70acd4439dd51a6266e483e737ffe678d2f9305ae46f13.png" },
+                    },
+                    {
+                        title: "If You Want the Fullest Package",
+                        content: "This cultural sightseeing tour is the most comprehensive version available, covering Itchan Kala in full with a guide who goes deeper into context than the shorter walks — worth it if Khiva is your main stop rather than a brief Silk Road waypoint.",
+                        tourCard: { slug: "khiva-cultural-sightseeing-tour-of-itchan-kala", title: "Khiva: Cultural Sightseeing Tour of Itchan Kala with Local Guide", description: "The fullest, most comprehensive tour of Itchan Kala available.", price: "From $208", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/49abb72b2fa6961a6a09013a56e9e21246ffc959e279bf47bdbc250711b02ccc.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Itchan Kala charges a general entry ticket separate from most guided tour prices — confirm with your operator whether it's included. Climbing the Islam Khoja or Kalta Minor minarets (where open) gives the best overview photos of the walled city."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Itchan Kala walking tour in Khiva?", a: "A standard 3-4 hour guided walk covering the walled city's main monuments suits most visitors." },
+                    { q: "Does the Itchan Kala tour price include entry?", a: "Not always — confirm with your operator whether the general entry ticket is included in the tour price." },
+                    { q: "How long does it take to walk Itchan Kala?", a: "The walled city is compact enough to cross in under an hour, but a guided tour of 3-4 hours is typical for seeing it properly." },
+                    { q: "What's the best viewpoint in Itchan Kala?", a: "Climbing one of the open minarets, like Islam Khoja, gives the best overview photos of the walled city." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Itchan Kala walking tour in Khiva?", "acceptedAnswer": { "@type": "Answer", "text": "A standard 3-4 hour guided walk covering the walled city's main monuments suits most visitors." } },
+                        { "@type": "Question", "name": "Does the Itchan Kala tour price include entry?", "acceptedAnswer": { "@type": "Answer", "text": "Not always — confirm with your operator whether entry is included." } },
+                        { "@type": "Question", "name": "How long does it take to walk Itchan Kala?", "acceptedAnswer": { "@type": "Answer", "text": "Under an hour to cross, but a guided tour of 3-4 hours is typical." } },
+                        { "@type": "Question", "name": "What's the best viewpoint in Itchan Kala?", "acceptedAnswer": { "@type": "Answer", "text": "Climbing one of the open minarets, like Islam Khoja." } }
+                    ]
+                },
+            };
+
         default:
             return null;
     }
