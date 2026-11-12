@@ -53691,6 +53691,26 @@ export const IT_TOURS: Record<string, TourT> = {
    "cibo e bevande"
   ]
  },
+ "abu-dhabi-yas-waterworld-entry-ticket": {
+  "title": "Abu Dhabi: biglietto per Yas Waterworld",
+  "metaTitle": "Abu Dhabi: biglietto per Yas Waterworld",
+  "metaDescription": "Esperienza di una giornata intera a Abu Dhabi. Goditi e Scegli tra oltre 45 giostre, scivoli e attrazioni. Offerto da MIRAL EXPERIENCES L.L.C.",
+  "shortDescription": "Esperienza di una giornata intera a Abu Dhabi. Goditi e Scegli tra oltre 45 giostre, scivoli e attrazioni. Offerto da MIRAL EXPERIENCES L.L.C.",
+  "fullDescription": "Un'esperienza di una giornata intera a Abu Dhabi. Goditi e Scegli tra oltre 45 giostre, scivoli e attrazioni.\n\nMIRAL EXPERIENCES L.L.C se ne occupa, e 3 elementi sono inclusi nel prezzo. La cancellazione è gratuita.\n\nIl prezzo comprende biglietto di ingresso generale (se opzione selezionata), accesso a tutte le attrazioni e giostre e servizio navetta entro Yas Island. Non comprende pass rapido (se opzione selezionata), cibo e bevande e trasporto di andata e ritorno dal parco acquatico, quindi preventivalo separatamente.",
+  "highlights": [
+   "Goditi e Scegli tra oltre 45 giostre, scivoli e attrazioni"
+  ],
+  "included": [
+   "biglietto di ingresso generale (se opzione selezionata)",
+   "accesso a tutte le attrazioni e giostre",
+   "servizio navetta entro Yas Island"
+  ],
+  "notIncluded": [
+   "pass rapido (se opzione selezionata)",
+   "cibo e bevande",
+   "trasporto di andata e ritorno dal parco acquatico"
+  ]
+ },
  "discover-scuba-diving-in-dubai": {
   "title": "Scopri l'immersione subacquea a Dubai",
   "metaTitle": "Scopri l'immersione subacquea a Dubai",
@@ -62362,6 +62382,25 @@ export const IT_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "dubai-half-day-city-sightseeing-souks-abra-experie": {
+  "title": "Dubai: tour panoramico di mezza giornata tra souk e giro in abra",
+  "metaTitle": "Dubai: tour panoramico di mezza giornata tra souk e giro in abra",
+  "metaDescription": "Un'escursione di mezza giornata da Dubai che visita Burj Al Arab, Atlantis, The Palm, Atlantis The Royal e The Palm Jumeirah. Offerto da OceanAir Travels.",
+  "shortDescription": "Un'escursione di mezza giornata da Dubai che visita Burj Al Arab, Atlantis, The Palm, Atlantis The Royal e The Palm Jumeirah. Offerto da OceanAir Travels.",
+  "fullDescription": "Un'escursione di mezza giornata da Dubai, che passa per Burj Al Arab, Atlantis, The Palm, Atlantis The Royal e The Palm Jumeirah. Ci sono 13 tappe in totale.\n\nL'ordine del percorso è Burj Al Arab (15 min), poi Atlantis, The Palm, poi Atlantis The Royal, poi The Palm Jumeirah (10 min), poi Dubai Marina Walk (15 min).\n\nIl prezzo comprende prelievo e rientro in hotel, trasporto in veicolo con aria condizionata, guida professionista autorizzata e visita alla Dubai Marina con una passeggiata panoramica. Non comprende mance (opzionali), quindi preventivalo separatamente.",
+  "highlights": [
+   "Un'escursione di mezza giornata da Dubai che visita Burj Al Arab, Atlantis, The Palm, Atlantis The Royal e The Palm Jumeirah. Offerto da OceanAir Travels."
+  ],
+  "included": [
+   "prelievo e rientro in hotel",
+   "trasporto in veicolo con aria condizionata",
+   "guida professionista autorizzata",
+   "visita alla Dubai Marina con una passeggiata panoramica"
+  ],
+  "notIncluded": [
+   "mance (opzionali)"
+  ]
+ },
  "dubai-city-tour-with-professional-guide-in-luxury-": {
   "title": "Dubai: tour della città con guida professionista a bordo di un'auto di lusso",
   "metaTitle": "Dubai: tour della città con guida professionista a bordo di un...",
@@ -63316,6 +63355,27 @@ export const IT_TOURS: Record<string, TourT> = {
    "cibo e bevande extra",
    "cena romantica opzionale alla fontana",
    "allestimenti personalizzati aggiuntivi"
+  ]
+ },
+ "dubai-lahbab-red-dunes-morning-safari-quadbuggy-op": {
+  "title": "Dubai: safari mattutino sulle dune rosse di Lahbab con opzioni quad/buggy",
+  "metaTitle": "Dubai: safari mattutino sulle dune rosse di Lahbab con opzioni...",
+  "metaDescription": "Un'escursione di mezza giornata da Dubai che visita Jeep / SUV e Lahbab Desert. Offerto da DesertFunTourismLLC.",
+  "shortDescription": "Un'escursione di mezza giornata da Dubai che visita Jeep / SUV e Lahbab Desert. Offerto da DesertFunTourismLLC.",
+  "fullDescription": "Un'escursione di mezza giornata da Dubai, che passa per Jeep / SUV e Lahbab Desert. La tappa più lunga è Lahbab Desert, con una durata di circa 1 ora. Ci sono 2 tappe in totale.\n\nL'ordine del percorso è Jeep / SUV (1h), poi Lahbab Desert (1h).\n\nIl prezzo comprende prelievo e rientro in hotel da Dubai o Sharjah, trasporto in 4x4 con aria condizionata per tutto il safari, dune bashing di 35 minuti sulle dune rosse di Lahbab con un conducente safari professionista e sosta fotografica sulle dune alte. Non comprende pasti e colazione, spese personali e mance, quindi preventivalo separatamente.",
+  "highlights": [
+   "Un'escursione di mezza giornata da Dubai che visita Jeep / SUV e Lahbab Desert. Offerto da DesertFunTourismLLC."
+  ],
+  "included": [
+   "prelievo e rientro in hotel da Dubai o Sharjah",
+   "trasporto in 4x4 con aria condizionata per tutto il safari",
+   "dune bashing di 35 minuti sulle dune rosse di Lahbab con un conducente safari professionista",
+   "sosta fotografica sulle dune alte"
+  ],
+  "notIncluded": [
+   "pasti e colazione",
+   "spese personali",
+   "mance"
   ]
  },
  "dubai-desert-safari-dune-buggy-sandboarding-camels": {
@@ -64715,6 +64775,26 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "desert-safari-dubai-with-camel-ride-sandboarding-d": {
+  "title": "Safari nel deserto a Dubai con giro in cammello, sandboarding e cena",
+  "metaTitle": "Safari nel deserto a Dubai con giro in cammello, sandboarding ...",
+  "metaDescription": "Un'escursione di una giornata intera da Dubai che visita Al Aweer. Offerto da Dream Journey.",
+  "shortDescription": "Un'escursione di una giornata intera da Dubai che visita Al Aweer. Offerto da Dream Journey.",
+  "fullDescription": "Un'escursione di una giornata intera da Dubai, che passa per Al Aweer. La tappa più lunga è Al Aweer, con una durata di circa 3 ore.\n\nIl prezzo comprende prelievo e rientro in hotel porta a porta, conducente esperto, veicolo con aria condizionata e dune bashing e fuoristrada. Non comprende bevande alcoliche e spese personali, quindi preventivalo separatamente.",
+  "highlights": [
+   "Un'escursione di una giornata intera da Dubai che visita Al Aweer. Offerto da Dream Journey."
+  ],
+  "included": [
+   "prelievo e rientro in hotel porta a porta",
+   "conducente esperto",
+   "veicolo con aria condizionata",
+   "dune bashing e fuoristrada"
+  ],
+  "notIncluded": [
+   "bevande alcoliche",
+   "spese personali"
   ]
  },
  "dubai-sunset-camel-trek-al-khayma-camp-stargazing-": {
