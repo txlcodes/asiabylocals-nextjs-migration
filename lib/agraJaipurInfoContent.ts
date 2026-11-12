@@ -1471,6 +1471,61 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-jantar-mantar-tour-jaipur":
+      return {
+        title: "Which Is the Best Jantar Mantar Tour in Jaipur?",
+        seoTitle: "Best Jantar Mantar Tour Jaipur 2026 | Honest Comparison",
+        description: "Compare real Jantar Mantar tours in Jaipur — from a $13 combined Hawa Mahal walking tour to private circuits adding City Palace, Jal Mahal and Amber Fort.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-jantar-mantar-hawa-mahal-guided-walking/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Jantar Mantar is Jaipur's 18th-century astronomical observatory — a collection of giant stone instruments that still function for measuring time and tracking celestial positions — and it sits right next to City Palace and a short walk from Hawa Mahal, so almost no tour here treats it as a standalone stop. Prices range from $13 for a basic combined walking tour to $200+ for premium guided circuits covering all of Jaipur's central landmarks.",
+            tourCard: { slug: "jaipur-jantar-mantar-hawa-mahal-guided-walking", title: "Jaipur: Jantar Mantar & Hawa Mahal Guided Walking Tour", description: "A standard combined walking tour covering Jantar Mantar and Hawa Mahal together.", price: "From $13", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-jantar-mantar-hawa-mahal-guided-walking/img0/1600.webp" },
+          },
+          {
+            title: "Cheapest: Jantar Mantar + Hawa Mahal Walk",
+            content: "This is the lowest-priced way to see Jantar Mantar, paired with the nearby Hawa Mahal in one short walking tour — a sensible option if you only have a couple of hours for central Jaipur sightseeing.",
+            tourCard: { slug: "jaipur-jantar-mantar-hawa-mahal-guided-walking", title: "Jaipur: Jantar Mantar & Hawa Mahal Guided Walking Tour", description: "The most budget-friendly way to see Jantar Mantar and Hawa Mahal together.", price: "From $13", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-jantar-mantar-hawa-mahal-guided-walking/img0/1600.webp" },
+          },
+          {
+            title: "If You Want City Palace Added",
+            content: "This version adds City Palace to the circuit alongside Jantar Mantar and Hawa Mahal, covering Jaipur's three central Old City landmarks in one tour rather than booking them separately.",
+            tourCard: { slug: "jaipur-city-palace-hawa-mahal-jantar-mantar", title: "Jaipur: City Palace, Hawa Mahal & Jantar Mantar Private Tour", description: "A private tour covering Jaipur's three main central landmarks together.", price: "From $47", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-city-palace-hawa-mahal-jantar-mantar/img0/1600.webp" },
+          },
+          {
+            title: "If You Want Amber Fort Included Too",
+            content: "For travellers who want to combine the Old City sights with Amber Fort in one full day, this tour adds Jantar Mantar and City Palace to the Amber Fort circuit — a good option if time is tight and you want to maximize one day's sightseeing.",
+            tourCard: { slug: "jaipur-amber-fort-city-palace-and-jantar-mantar", title: "Jaipur: Amber Fort, City Palace, and Jantar Mantar Tour", description: "A full-day tour combining Amber Fort with the Old City's central landmarks.", price: "From $40", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-amber-fort-city-palace-and-jantar-mantar/img0/1600.webp" },
+          },
+          {
+            title: "If You Want Jal Mahal Added Too",
+            content: "This private circuit adds Jal Mahal, Jaipur's palace in the middle of a lake, to the City Palace/Jantar Mantar/Hawa Mahal combination — a good fit if you want the fullest possible central-Jaipur day.",
+            tourCard: { slug: "private-jaipur-tour-city-palace-jantar-hawa-jal-ma", title: "Private Jaipur Tour: City Palace, Jantar, Hawa & Jal Mahal", description: "The fullest central-Jaipur circuit, adding the lake palace Jal Mahal to the mix.", price: "From $40", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-jaipur-tour-city-palace-jantar-hawa-jal-ma/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Jantar Mantar's instruments are easiest to appreciate with a guide — without context, the giant stone structures can look purely decorative rather than functional scientific tools. Midday sun reflecting off the pale stone can be intense; a morning visit is more comfortable than an afternoon one."
+          }
+        ],
+        faqs: [
+          { q: "What is the best Jantar Mantar tour in Jaipur?", a: "A combined Jantar Mantar and Hawa Mahal walking tour is the cheapest and most common option; add City Palace or Jal Mahal if you want a fuller Old City day." },
+          { q: "What is Jantar Mantar?", a: "An 18th-century astronomical observatory in Jaipur with giant stone instruments still used to measure time and track celestial positions." },
+          { q: "Can Jantar Mantar be combined with Amber Fort?", a: "Yes — several tours pair the Old City's central landmarks (Jantar Mantar, City Palace, Hawa Mahal) with a full-day Amber Fort visit." },
+          { q: "Why is a guide useful at Jantar Mantar?", a: "Without context, the giant stone instruments can look purely decorative — a guide explains how each one actually functions." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best Jantar Mantar tour in Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "A combined Jantar Mantar and Hawa Mahal walking tour is the cheapest and most common option." } },
+            { "@type": "Question", "name": "What is Jantar Mantar?", "acceptedAnswer": { "@type": "Answer", "text": "An 18th-century astronomical observatory in Jaipur with giant stone instruments still used today." } },
+            { "@type": "Question", "name": "Can Jantar Mantar be combined with Amber Fort?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — several tours pair the Old City landmarks with a full-day Amber Fort visit." } },
+            { "@type": "Question", "name": "Why is a guide useful at Jantar Mantar?", "acceptedAnswer": { "@type": "Answer", "text": "A guide explains how each giant stone instrument actually functions." } }
+          ]
+        },
+      };
+
     default:
       return null;
   }

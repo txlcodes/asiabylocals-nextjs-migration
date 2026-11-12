@@ -80,7 +80,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'should-i-book-delhi-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-delhi',
     'best-old-delhi-tour', 'best-india-gate-tour', 'best-qutub-minar-tour',
-    'best-akshardham-temple-tour-delhi',
+    'best-akshardham-temple-tour-delhi', 'best-lotus-temple-tour-delhi',
   ].map(slug => ({
     url: `${BASE_URL}/india/delhi/${slug}`,
     lastModified: new Date(),
@@ -106,7 +106,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'should-i-book-jaipur-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-jaipur',
     'best-amber-fort-tour-jaipur', 'best-hawa-mahal-tour-jaipur', 'best-jaipur-shopping-tour',
-    'best-nahargarh-fort-tour-jaipur',
+    'best-nahargarh-fort-tour-jaipur', 'best-jantar-mantar-tour-jaipur',
   ].map(slug => ({
     url: `${BASE_URL}/india/jaipur/${slug}`,
     lastModified: new Date(),

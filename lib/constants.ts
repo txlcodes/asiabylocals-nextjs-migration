@@ -128,7 +128,7 @@ export const DELHI_INFO_SLUGS = [
   'how-much-should-a-private-tour-guide-cost-in-delhi',
   // Tour-selling pages (2026-11-10)
   'best-old-delhi-tour', 'best-india-gate-tour', 'best-qutub-minar-tour',
-  'best-akshardham-temple-tour-delhi'
+  'best-akshardham-temple-tour-delhi', 'best-lotus-temple-tour-delhi'
 ];
 
 export const JAIPUR_INFO_SLUGS = [
@@ -155,7 +155,7 @@ export const JAIPUR_INFO_SLUGS = [
   'how-much-should-a-private-tour-guide-cost-in-jaipur',
   // Tour-selling pages (2026-11-10)
   'best-amber-fort-tour-jaipur', 'best-hawa-mahal-tour-jaipur', 'best-jaipur-shopping-tour',
-  'best-nahargarh-fort-tour-jaipur'
+  'best-nahargarh-fort-tour-jaipur', 'best-jantar-mantar-tour-jaipur'
 ];
 
 export const PHUKET_INFO_SLUGS = [

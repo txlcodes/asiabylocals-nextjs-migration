@@ -1110,6 +1110,61 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-lotus-temple-tour-delhi":
+      return {
+        title: "Which Is the Best Lotus Temple Tour in Delhi?",
+        seoTitle: "Best Lotus Temple Tour Delhi 2026 | Honest Comparison",
+        description: "Compare real Lotus Temple tours in Delhi — from a $20 skip-the-line private tour to combos with Akshardham, ISKCON and Lodhi Garden.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/new-delhi-lotus-temple-private-tour-with-skip-the/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Lotus Temple's lotus-shaped marble architecture and meditative, silent-hall format make it one of Delhi's most visited sights, and most tours here are quick, private visits of an hour or so rather than long guided circuits — the real choice is usually whether to see it alone or combine it with Akshardham or ISKCON nearby, since all three sit within a reasonable drive of each other.",
+            tourCard: { slug: "new-delhi-lotus-temple-private-tour-with-skip-the", title: "New Delhi: Lotus Temple Private Tour with Skip-the-Line", description: "A private visit to the Lotus Temple with a skip-the-line option to avoid the queue.", price: "From $20", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/new-delhi-lotus-temple-private-tour-with-skip-the/img0/1600.webp" },
+          },
+          {
+            title: "Cheapest: Skip-the-Line Private Tour",
+            content: "This is the lowest-priced way to see the Lotus Temple with a private guide, and it includes a skip-the-line option that matters here — the entry queue can be long on weekends and holidays.",
+            tourCard: { slug: "new-delhi-lotus-temple-private-tour-with-skip-the", title: "New Delhi: Lotus Temple Private Tour with Skip-the-Line", description: "The most budget-friendly private Lotus Temple visit, with queue-skipping.", price: "From $20", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/new-delhi-lotus-temple-private-tour-with-skip-the/img0/1600.webp" },
+          },
+          {
+            title: "If You Want a Dedicated Guided Visit",
+            content: "This version is purely focused on the Lotus Temple with a guide explaining its Bahá'í architecture and symbolism in more depth — a good fit if you want context rather than just the photo.",
+            tourCard: { slug: "delhi-private-lotus-temple-guided-tour", title: "Delhi: Private Lotus Temple Guided Tour", description: "A dedicated, guide-led visit to the Lotus Temple with full context on its design and meaning.", price: "From $40", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-private-lotus-temple-guided-tour/img0/1600.webp" },
+          },
+          {
+            title: "If You Want to Combine with Akshardham",
+            content: "Lotus Temple and Akshardham are both modern-era temples within reach of each other, and pairing them in one half-day trip is more efficient than two separate visits.",
+            tourCard: { slug: "delhi-private-city-tour-with-lotus-and-akshardham", title: "Delhi: Private City Tour with Lotus and Akshardham Temple", description: "A private half-day pairing Delhi's two most-visited modern temples.", price: "From $21", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-private-city-tour-with-lotus-and-akshardham/img0/1600.webp" },
+          },
+          {
+            title: "If You Want the Fullest Combo: ISKCON Added",
+            content: "This tour adds the ISKCON temple to the Lotus Temple and Akshardham circuit — a good fit for travellers who specifically want to see Delhi's major temples in one trip rather than spread across multiple days.",
+            tourCard: { slug: "private-tour-of-akshardham-iskcon-lotus-temple", title: "Private Tour of Akshardham, ISKCON & Lotus Temple - Delhi", description: "A private tour covering three of Delhi's major temples in one trip.", price: "From $57", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-tour-of-akshardham-iskcon-lotus-temple/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The Lotus Temple is a working house of worship — expect silence inside the main hall and modest dress. There's no photography allowed inside the hall itself, only in the gardens outside. Weekday mornings tend to have shorter queues than weekends."
+          }
+        ],
+        faqs: [
+          { q: "What is the best Lotus Temple tour in Delhi?", a: "A skip-the-line private tour is the cheapest and fastest option; a dedicated guided tour adds more context on its architecture and symbolism." },
+          { q: "Can I combine Lotus Temple with other sights?", a: "Yes — Akshardham and ISKCON are both common pairings since they're nearby and also major Delhi temples." },
+          { q: "Is photography allowed inside the Lotus Temple?", a: "No, not inside the main meditation hall — photography is only allowed in the gardens outside." },
+          { q: "When is the best time to visit the Lotus Temple?", a: "Weekday mornings generally have shorter entry queues than weekends and holidays." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best Lotus Temple tour in Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "A skip-the-line private tour is the cheapest and fastest; a dedicated guided tour adds more architectural context." } },
+            { "@type": "Question", "name": "Can I combine Lotus Temple with other sights?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Akshardham and ISKCON are common pairings nearby." } },
+            { "@type": "Question", "name": "Is photography allowed inside the Lotus Temple?", "acceptedAnswer": { "@type": "Answer", "text": "No, only in the gardens outside the main hall." } },
+            { "@type": "Question", "name": "When is the best time to visit the Lotus Temple?", "acceptedAnswer": { "@type": "Answer", "text": "Weekday mornings have shorter queues than weekends." } }
+          ]
+        },
+      };
+
     default:
       return null;
   }
