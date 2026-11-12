@@ -73,7 +73,7 @@ const nextConfig: NextConfig = {
         r,
         {
           ...r,
-          source: `/:lang(fr|de|es|it)${r.source}`,
+          source: `/:lang(fr|de|es|it|zh)${r.source}`,
           // /explore has no translated route, so those land on the English page.
           destination: r.destination.startsWith('/explore')
             ? r.destination

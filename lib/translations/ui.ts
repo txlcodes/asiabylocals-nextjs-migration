@@ -1,10 +1,10 @@
 // Chrome strings with no data behind them, split out of index.ts so a client
 // component can import them without dragging fr.ts/de.ts/es.ts into the browser
 // bundle. index.ts re-exports everything here, so server code is unaffected.
-export const LANGS = ['fr', 'de', 'es', 'it'] as const;
+export const LANGS = ['fr', 'de', 'es', 'it', 'zh'] as const;
 export type Lang = (typeof LANGS)[number];
 export const isLang = (s: string): s is Lang => (LANGS as readonly string[]).includes(s);
-export const LANG_LOCALE: Record<Lang | 'en', string> = { en: 'en', fr: 'fr', de: 'de', es: 'es', it: 'it' };
+export const LANG_LOCALE: Record<Lang | 'en', string> = { en: 'en', fr: 'fr', de: 'de', es: 'es', it: 'it', zh: 'zh-CN' };
 
 // Small UI strings for the translated folders (chrome inside server components).
 // Italian chrome uses the informal register ("tu"/imperative), matching how
@@ -15,6 +15,7 @@ export const UI: Record<Lang, Record<string, string>> = {
   de: { from: 'Ab', perPerson: 'pro Person', tours: 'Touren', bookNow: 'Jetzt buchen', freeCancellation: 'Kostenlose Stornierung', verifiedOperator: 'Geprüfter lokaler Anbieter', guides: 'Reiseführer', faq: 'Häufige Fragen', reviews: 'Bewertungen', included: 'Inklusive', notIncluded: 'Nicht inklusive', duration: 'Dauer', meetingPoint: 'Treffpunkt', highlights: 'Highlights', readInEnglish: 'Auf Englisch lesen' },
   es: { from: 'Desde', perPerson: 'por persona', tours: 'tours', bookNow: 'Reservar', freeCancellation: 'Cancelación gratuita', verifiedOperator: 'Operador local verificado', guides: 'Guías', faq: 'Preguntas frecuentes', reviews: 'Opiniones', included: 'Incluido', notIncluded: 'No incluido', duration: 'Duración', meetingPoint: 'Punto de encuentro', highlights: 'Lo más destacado', readInEnglish: 'Leer en inglés' },
   it: { from: 'A partire da', perPerson: 'a persona', tours: 'tour', bookNow: 'Prenota ora', freeCancellation: 'Cancellazione gratuita', verifiedOperator: 'Operatore locale verificato', guides: 'Guide pratiche', faq: 'Domande frequenti', reviews: 'Recensioni', included: 'Incluso', notIncluded: 'Non incluso', duration: 'Durata', meetingPoint: 'Punto d’incontro', highlights: 'Punti forti', readInEnglish: 'Leggi in inglese' },
+  zh: { from: '最低价', perPerson: '每人', tours: '行程', bookNow: '立即预订', freeCancellation: '免费取消', verifiedOperator: '已验证的本地运营商', guides: '实用指南', faq: '常见问题', reviews: '评价', included: '包含', notIncluded: '不包含', duration: '时长', meetingPoint: '集合地点', highlights: '亮点', readInEnglish: '阅读英文版' },
 };
 
 // Country names per language. Without this a French page says "3 jours India",
@@ -24,6 +25,7 @@ const COUNTRY_NAME: Record<Lang, Record<string, string>> = {
   de: { india: 'Indien', thailand: 'Thailand', japan: 'Japan', 'sri-lanka': 'Sri Lanka', vietnam: 'Vietnam', indonesia: 'Indonesien', uae: 'VAE', nepal: 'Nepal' },
   es: { india: 'India', thailand: 'Tailandia', japan: 'Japón', 'sri-lanka': 'Sri Lanka', vietnam: 'Vietnam', indonesia: 'Indonesia', uae: 'EAU', nepal: 'Nepal' },
   it: { india: 'India', thailand: 'Tailandia', japan: 'Giappone', 'sri-lanka': 'Sri Lanka', vietnam: 'Vietnam', indonesia: 'Indonesia', uae: 'Emirati Arabi Uniti', nepal: 'Nepal' },
+  zh: { india: '印度', thailand: '泰国', japan: '日本', 'sri-lanka': '斯里兰卡', vietnam: '越南', indonesia: '印度尼西亚', uae: '阿联酋', nepal: '尼泊尔', cambodia: '柬埔寨' },
 };
 /** Localised country name, or the caller's English label when we have none. */
 export const countryNameT = (lang: Lang | null | undefined, slug: string, fallback: string) =>
@@ -37,6 +39,7 @@ export const ITIN_TPL: Record<Lang | 'en', { crumb: (n: number) => string; atAGl
   de: { crumb: n => `Reiseroute für ${n} Tage`, atAGlance: (n, c) => `${n} Tage ${c} auf einen Blick` },
   es: { crumb: n => `Itinerario de ${n} días`, atAGlance: (n, c) => `${n} días en ${c} de un vistazo` },
   it: { crumb: n => `Itinerario di ${n} giorni`, atAGlance: (n, c) => `${n} giorni a ${c} in breve` },
+  zh: { crumb: n => `${n}天行程`, atAGlance: (n, c) => `${n}天${c}一览` },
 };
 
 // Chrome for the itinerary pages. Held here rather than in the client so the
@@ -48,6 +51,7 @@ export const ITIN_UI: Record<Lang | 'en', Record<string, string>> = {
   de: { home: 'Startseite', days: 'Tage', basedIn: 'Standort', whatYouDo: 'Programm', gettingThere: 'Anreise', bestFor: 'Ideal für', differentTime: 'Haben Sie mehr oder weniger Zeit?', day: 'Tag', planning: 'Diese Reise planen', faq: 'Häufige Fragen', bookTitle: 'Buchen Sie die geführten Teile dieser Reise', bookSub: 'Jede Tour oben wird von einem geprüften lokalen Anbieter durchgeführt.', itineraries: 'Reiserouten' },
   es: { home: 'Inicio', days: 'días', basedIn: 'Base', whatYouDo: 'Qué haces', gettingThere: 'Cómo llegar', bestFor: 'Ideal para', differentTime: '¿Tienes más o menos tiempo?', day: 'Día', planning: 'Planificar este viaje', faq: 'Preguntas frecuentes', bookTitle: 'Reserva las partes guiadas de este viaje', bookSub: 'Cada tour de arriba lo opera un operador local verificado.', itineraries: 'Itinerarios' },
   it: { home: 'Home', days: 'giorni', basedIn: 'Base a', whatYouDo: 'Cosa fai', gettingThere: 'Come arrivare', bestFor: 'Ideale per', differentTime: 'Hai più o meno tempo a disposizione?', day: 'Giorno', planning: 'Pianifica questo viaggio', faq: 'Domande frequenti', bookTitle: 'Prenota le parti guidate di questo viaggio', bookSub: 'Ogni tour sopra è gestito da un operatore locale verificato.', itineraries: 'Itinerari' },
+  zh: { home: '首页', days: '天', basedIn: '出发地', whatYouDo: '行程安排', gettingThere: '交通方式', bestFor: '适合人群', differentTime: '时间不同？', day: '第', planning: '规划此行', faq: '常见问题', bookTitle: '预订此行程中的导游项目', bookSub: '以上每个行程均由已验证的本地运营商提供。', itineraries: '行程' },
 };
 
 
@@ -61,6 +65,7 @@ export const CITY_H1: Record<Lang | 'en', (city: string) => string> = {
   de: c => `Geführte Touren und Aktivitäten in ${c}`,
   es: c => `Tours guiados y actividades en ${c}`,
   it: c => `Tour guidati e attività a ${c}`,
+  zh: c => `${c}导览团和特色活动`,
 };
 
 // City-page chrome. Every string below was hardcoded English inside
@@ -120,6 +125,16 @@ export const CITY_UI: Record<Lang | 'en', Record<string, string>> = {
     sortPriceHigh: 'Prezzo: dal più alto', noToursYet: 'Nessun tour disponibile ancora',
     tryFilters: 'Prova a modificare i filtri',
   },
+  zh: {
+    back: '返回', noImage: '暂无图片', topRated: '好评优选', startingFrom: '最低价',
+    showMore: '显示更多', expanding: '我们正在拓展行程种类，敬请期待新的体验！',
+    refresh: '刷新结果', guidesBlurb: '关于时间安排、潮汐、排队情况以及每个地方真实样貌的实用指南。',
+    dates: '日期', dayTrips: '一日游', multiDay: '多日游', photography: '摄影',
+    sunrise: '日出', privateTours: '私人团', walkingTours: '徒步游览', filters: '筛选',
+    sortBy: '排序方式：', sortRecommended: '推荐', sortPriceLow: '价格：从低到高',
+    sortPriceHigh: '价格：从高到低', noToursYet: '暂无可预订行程',
+    tryFilters: '请尝试调整筛选条件',
+  },
 };
 
 // The city name sits inside these rather than in front of them, so they are
@@ -160,5 +175,11 @@ export const CITY_TPL: Record<Lang | 'en', {
     everythingBefore: c => `Tutto quello che devi sapere prima di visitare ${c}`,
     results: (n, c) => `${n} ${n === 1 ? 'risultato' : 'risultati'}: ${c}`,
     beTheFirst: c => `Sii il primo a creare un tour a ${c}!`,
+  },
+  zh: {
+    noToursFound: c => `未找到${c}的行程`,
+    everythingBefore: c => `游览${c}前你需要知道的一切`,
+    results: (n, c) => `${n}个结果：${c}`,
+    beTheFirst: c => `成为第一个在${c}发布行程的人！`,
   },
 };

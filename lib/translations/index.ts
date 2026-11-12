@@ -31,11 +31,12 @@ import { FR_TOURS, FR_PAGES, FR_CITIES, FR_ITINERARIES } from './fr';
 import { DE_TOURS, DE_PAGES, DE_CITIES, DE_ITINERARIES } from './de';
 import { ES_TOURS, ES_PAGES, ES_CITIES, ES_ITINERARIES } from './es';
 import { IT_TOURS, IT_PAGES, IT_CITIES, IT_ITINERARIES } from './it';
+import { ZH_TOURS, ZH_PAGES, ZH_CITIES, ZH_ITINERARIES } from './zh';
 
-const TOURS: Record<Lang, Record<string, TourT>> = { fr: FR_TOURS, de: DE_TOURS, es: ES_TOURS, it: IT_TOURS };
-const PAGES: Record<Lang, Record<string, PageT>> = { fr: FR_PAGES, de: DE_PAGES, es: ES_PAGES, it: IT_PAGES };
-const CITIES: Record<Lang, Record<string, CityT>> = { fr: FR_CITIES, de: DE_CITIES, es: ES_CITIES, it: IT_CITIES };
-const ITINS: Record<Lang, Record<string, ItineraryT>> = { fr: FR_ITINERARIES, de: DE_ITINERARIES, es: ES_ITINERARIES, it: IT_ITINERARIES };
+const TOURS: Record<Lang, Record<string, TourT>> = { fr: FR_TOURS, de: DE_TOURS, es: ES_TOURS, it: IT_TOURS, zh: ZH_TOURS };
+const PAGES: Record<Lang, Record<string, PageT>> = { fr: FR_PAGES, de: DE_PAGES, es: ES_PAGES, it: IT_PAGES, zh: ZH_PAGES };
+const CITIES: Record<Lang, Record<string, CityT>> = { fr: FR_CITIES, de: DE_CITIES, es: ES_CITIES, it: IT_CITIES, zh: ZH_CITIES };
+const ITINS: Record<Lang, Record<string, ItineraryT>> = { fr: FR_ITINERARIES, de: DE_ITINERARIES, es: ES_ITINERARIES, it: IT_ITINERARIES, zh: ZH_ITINERARIES };
 
 export const tourT = (lang: Lang | null | undefined, slug: string): TourT | null => (lang && TOURS[lang][slug]) || null;
 export const pageT = (lang: Lang | null | undefined, slug: string): PageT | null => (lang && PAGES[lang][slug]) || null;
