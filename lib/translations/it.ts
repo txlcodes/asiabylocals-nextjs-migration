@@ -17173,6 +17173,174 @@ export const IT_TOURS: Record<string, TourT> = {
    "Spese personali, pasti se non specificati, mance"
   ]
  },
+ "sapporo-silver-jewellery-forging-workshop": {
+  "title": "Forgiate il Vostro Gioiello in Argento a Sapporo, in uno Studio con Mapping Video",
+  "metaTitle": "Sapporo: forgiatura di gioielli in argento",
+  "metaDescription": "Novanta minuti di lavorazione dell'argento uno a uno nel centro di Sapporo, in una stanza dove le immagini proiettate cambiano al ritmo del vostro martello.",
+  "shortDescription": "Novanta minuti di lavorazione dell'argento uno a uno nel centro di Sapporo, in una stanza dove le immagini proiettate cambiano al ritmo del vostro martello.",
+  "fullDescription": "Questa e una vera sessione di lavorazione dei metalli vestita con un'ambientazione inusuale. Lo studio ha un mapping video in 3D, e le immagini sulle pareti reagiscono al suono del martello, cosi la stanza cambia mentre lavorate. Suona come un espediente, e lo e, ma l'artigianato sottostante e vero: la forgiatura, con argento 925, sotto la guida individuale di un artigiano.\n\nForgiare significa modellare il metallo lavorandolo invece di fonderlo, e produce un pezzo piu denso e migliore di uno stampato. Si parte da argento in blocco e lo si martella, si rinviene e si finisce fino a ottenere l'oggetto scelto. I principianti sono la norma qui; l'artigiano lavora con voi dall'inizio alla fine e il gruppo e limitato a quattro persone.\n\nVengono offerti tre percorsi. Il corso per la collana produce un pezzo finito che portate a casa lo stesso giorno. Il corso per il bracciale e il piu impegnativo, un bracciale forgiato in argento largo fino a 3 mm in taglia M, che richiede piu dei novanta minuti perche c'e piu metallo da lavorare. E per chi vuole che il pezzo conti ancora di piu, c'e un corso per un anello in oro a 18 carati, anch'esso completabile in giornata.\n\nL'incisione laser, inclusa la vostra stessa scrittura a mano, e il rivestimento anti-ossidazione sono disponibili come extra. Esiste un piano di lavorazione di tre giorni per la collana che include incisione e rivestimento, se preferite averla finita in modo accurato e ritirarla piu tardi.\n\nIl laboratorio si trova a Minami 2-jo Nishi, nel quartiere di Chuo-ku, a tre minuti a piedi dalla metropolitana, il che lo colloca nel bel mezzo del distretto gastronomico e della vita notturna di Sapporo.",
+  "highlights": [],
+  "included": [
+   "Sessione di lavorazione dell'argento di novanta minuti\nMateriale in argento 925 o oro a 18 carati per il pezzo scelto\nGuida individuale da parte di un artigiano in attivita\nTutti gli strumenti e lo studio con mapping video\nIl vostro pezzo finito, lo stesso giorno nei piani da portare via"
+  ],
+  "notIncluded": [
+   "Incisione laser\nRivestimento anti-ossidazione\nSpese personali\nTrasporto fino al laboratorio"
+  ]
+ },
+ "sapporo-snowshoe-experience": {
+  "title": "Escursione con le Ciaspole e Bagno nell'Onsen nel Parco Nazionale di Shikotsu-Toya",
+  "metaTitle": "Sapporo: ciaspole e onsen nel parco nazionale",
+  "metaDescription": "Un'escursione guidata di sei ore con le ciaspole attraverso il parco nazionale di Shikotsu-Toya vicino a Sapporo, con pranzo sul sentiero e una visita all'onsen per concludere.",
+  "shortDescription": "Un'escursione guidata di sei ore con le ciaspole attraverso il parco nazionale di Shikotsu-Toya vicino a Sapporo, con pranzo sul sentiero e una visita all'onsen per concludere.",
+  "fullDescription": "Il Hokkaido riceve un'enorme quantita di neve, e le ciaspole sono la risposta tradizionale alla domanda di come muoversi attraverso di essa. In questa uscita guidata di sei ore imparate a fare esattamente questo, partendo da Makomanai ai margini meridionali di Sapporo e guidando per mezz'ora nel parco nazionale di Shikotsu-Toya. Dopo un briefing sulla sicurezza, la vostra guida vi equipaggia e vi insegna la tecnica, che richiede pochissimo tempo per essere appresa e apre immediatamente un terreno che sarebbe impossibile attraversare a piedi. L'escursione stessa dura circa quattro ore e mezza attraverso la foresta invernale, e il suo fascino sta nella quiete: lontano dalla strada non c'e praticamente alcun suono, gli alberi portano un carico di neve, e le tracce degli animali sono spesso l'unico segno che qualcuno o qualcosa sia passato. Il pranzo si prende sul sentiero, il che fa parte del piacere di una giornata invernale come questa. La vostra guida imposta il ritmo e legge le condizioni, e non e necessaria alcuna esperienza precedente con le ciaspole, solo un livello ragionevole di forma fisica e la volonta di stare all'aperto nel freddo. La giornata si conclude come dovrebbe concludersi una giornata invernale giapponese, con una visita a uno dei molti onsen della zona, cosi passate dalla neve direttamente all'acqua calda. Il trasporto in furgone da Sapporo e ritorno fa parte del viaggio, quindi tutto quello che dovete fare e vestirvi per il clima e presentarvi.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario, escursione con le ciaspole, pranzo e visita all'onsen"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-vehicle-boat-tour": {
+  "title": "Otaru alla Vostra Velocita: Giornata Privata Guidata con Veicolo e Autista",
+  "metaTitle": "Otaru: giornata privata con veicolo e autista",
+  "metaDescription": "Dieci ore a Otaru con un veicolo privato e una guida-autista di lingua inglese, solo per il vostro gruppo e su un percorso che potete cambiare mentre procede la giornata.",
+  "shortDescription": "Dieci ore a Otaru con un veicolo privato e una guida-autista di lingua inglese, solo per il vostro gruppo e su un percorso che potete cambiare mentre procede la giornata.",
+  "fullDescription": "Otaru e la gita di un giorno piu ovvia da Sapporo ed e anche quella che viene fatta male piu spesso, compressa in una sosta di gruppo di due ore che vi regala una fotografia del canale e poco altro. Questo tour privato prende l'approccio opposto: dieci ore intere, un veicolo solo per il vostro gruppo, e una guida-autista di lingua inglese che sia spiega la citta sia guida. Avere la lingua gestita qui conta piu di quanto la gente si aspetti. L'interesse di Otaru sta nei dettagli, nel perche un piccolo porto sul Mar del Giappone sia finito con grandi banchine di pietra e un canale costeggiato da magazzini, e nulla di tutto cio e leggibile dalla sola segnaletica. Una guida che parla inglese puo raccontarvi la storia mentre la camminate. Altrettanto importante e la flessibilita. Il percorso e vostro e puo cambiare nel corso della giornata, cosi se il meteo peggiora potete riorganizzarvi di conseguenza, e se un luogo si rivela il momento clou potete semplicemente restarci. Dieci ore sono abbastanza generose da includere le parti della zona che i tour di gruppo non raggiungono mai, e da costruire un pasto vero invece di uno frettoloso. Con il vostro veicolo non aspettate mai un trasporto, i vostri cappotti e borse restano in auto, e le distanze tra la citta e i punti panoramici circostanti smettono di contare. Per le famiglie, i piccoli gruppi e chiunque non ami essere ammassato con altri, e un modo molto migliore di vedere il luogo.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "sapporo-vehicle-private-tour": {
+  "title": "Noboribetsu e Lago Toya: Giornata Privata Guidata con il Vostro Veicolo",
+  "metaTitle": "Noboribetsu e lago Toya: giornata privata con veicolo",
+  "metaDescription": "Dieci ore a Noboribetsu e al lago Toya con un veicolo privato e una guida-autista di lingua inglese, solo per il vostro gruppo e su un percorso che potete cambiare durante la giornata.",
+  "shortDescription": "Dieci ore a Noboribetsu e al lago Toya con un veicolo privato e una guida-autista di lingua inglese, solo per il vostro gruppo e su un percorso che potete cambiare durante la giornata.",
+  "fullDescription": "Noboribetsu e il lago Toya sono le due grandi destinazioni vulcaniche del sud del Hokkaido, e una giornata privata e l'unico modo per dare a entrambe il tempo che meritano. Questo tour offre al vostro gruppo un veicolo tutto suo e una guida-autista di lingua inglese per dieci ore, senza nessun altro a bordo e senza orario se non il vostro. Noboribetsu e la stazione termale piu conosciuta del Giappone, e la ragione di questo si trova sopra la citta nella Valle Infernale, un grezzo bacino vulcanico dove il vapore esce dal terreno fessurato e la roccia e tinta di giallo dallo zolfo. Le passerelle vi portano nel bel mezzo di essa, e avere una guida significa capire cosa state guardando invece di limitarvi a fotografarlo. Il lago Toya e il controaltare, un ampio lago di caldera con una superficie calma e picchi vulcanici che lo circondano, un luogo dove rallentare dopo l'intensita della valle. Poiche tutto e flessibile, l'equilibrio tra i due e tutto vostro da stabilire, e il percorso puo essere rimodellato nel corso della giornata se il meteo cambia o un luogo cattura la vostra attenzione. Praticamente, un veicolo privato fa un'enorme differenza su questo itinerario: le due destinazioni sono distanti tra loro, i trasporti pubblici tra di esse sono lenti, e un pullman di gruppo vi darebbe appena un'ora in ciascuna. Qui avete il viaggio porta a porta dal vostro alloggio, un posto caldo dove sedervi tra una tappa e l'altra, e una guida che puo rispondere alle domande invece di recitare un copione.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionale, tutte le tariffe indicate nell'itinerario"
+  ],
+  "notIncluded": [
+   "Spese personali, pasti se non specificati, mance"
+  ]
+ },
+ "scmaglev-and-railway-park-heritage-tour": {
+  "title": "Tour Privato del Patrimonio Ferroviario, Aeronautico e Portuale Industriale di Nagoya",
+  "metaTitle": "Nagoya: patrimonio ferroviario, aeronautico e portuale",
+  "metaDescription": "Tour privato in furgone di 8 ore al Parco Ferroviario SCMAGLEV di Nagoya, al Museo del Volo dell'Aichi e al porto di Nagoya con una guida dedicata.",
+  "shortDescription": "Tour privato in furgone di 8 ore al Parco Ferroviario SCMAGLEV di Nagoya, al Museo del Volo dell'Aichi e al porto di Nagoya con una guida dedicata.",
+  "fullDescription": "Questo tour privato in auto di otto ore e costruito attorno all'identita meno conosciuta di Nagoya come polo industriale e dei trasporti, invece dei templi e dei castelli per cui vengono la maggior parte dei visitatori. Il ritiro avviene in furgone privato da una delle due posizioni a Nagoya, inclusa la stazione di Nagoya, con le stesse opzioni disponibili per il rientro, e l'intera giornata si passa con lo stesso veicolo e la stessa guida invece di unirsi a un pullman di gruppo con percorso fisso. Il punto centrale e il Parco Ferroviario SCMAGLEV, un museo costruito dalla Central Japan Railway che espone storici treni Shinkansen insieme alla tecnologia maglev sperimentale che ha spinto i record di velocita ferroviaria in corse di prova su binari vicini.\n\nL'itinerario include anche il Museo del Volo dell'Aichi, situato accanto all'aeroporto di Komaki a Nagoya, che si concentra sull'industria aerospaziale della regione; la prefettura di Aichi ospita una produzione importante di componenti aeronautici, incluso il lavoro legato ai programmi di jet regionali del Giappone, il che rende il museo un vero riflesso dell'industria locale invece di un'esposizione aeronautica generica. Da li il tour continua verso l'area portuale di Nagoya, uno dei porti merci piu trafficati del Giappone, offrendo uno sguardo sul lato della spedizione e della logistica della citta che raramente compare nei percorsi turistici standard.\n\nPoiche il tour e privato e basato su un'auto, i tempi esatti e la durata di ogni tappa possono adattarsi un po' agli interessi del gruppo, il che si adatta ai viaggiatori che vogliono profondita sulla storia dei trasporti e dell'industria invece di una giornata ampia su piu siti. L'operatore locale gestisce il tour con una guida privata per tutte le otto ore, e poiche dipende da un furgone invece che dai trasporti pubblici, e un'opzione pratica per chiunque voglia visitare questi tre siti distanti tra loro senza gestire da solo treni e autobus locali.",
+  "highlights": [],
+  "included": [
+   "Furgone privato e guida-autista per 8 ore, ritiro e rientro in uno dei due punti a Nagoya, trasporto tra tutte le tappe"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso ai musei, pasti e bevande, spese personali, mance"
+  ]
+ },
+ "senso-ji-temple-guided-tour": {
+  "title": "Tokyo in un Giorno: Asakusa, Yanaka, il Palazzo e Harajuku con un Locale",
+  "metaTitle": "Tokyo in un giorno: Asakusa, Yanaka e Harajuku",
+  "metaDescription": "Sei ore tra la vecchia e la nuova Tokyo: il tempio piu antico, un quartiere d'anteguerra, il fossato del palazzo e Harajuku.",
+  "shortDescription": "Sei ore tra la vecchia e la nuova Tokyo: il tempio piu antico, un quartiere d'anteguerra, il fossato del palazzo e Harajuku.",
+  "fullDescription": "Sei ore sono sufficienti per capire come e costruita Tokyo, se il percorso e pensato attorno al contrasto piuttosto che a una lista di siti. Questo va dal tessuto piu antico della citta ancora esistente fino al piu nuovo, con tratti in treno nel mezzo.\n\nSi apre ad Asakusa al Senso-ji, in piedi dal 645 e il tempio piu antico della citta, raggiunto lungo la fila di bancarelle di Nakamise-dori. Entrate sotto il Kaminarimon e la sua enorme lanterna rossa, oltre il braciere di incenso dove la gente si passa il fumo addosso. Arrivare al mattino conta molto qui: entro mezzogiorno l'accesso e spalla a spalla.\n\nPoi Yanaka, la parte che la maggior parte dei tour di un giorno salta: uno dei pochi quartieri sopravvissuti sia al grande terremoto del Kanto del 1923 sia ai bombardamenti incendiari del 1945, cosi le sue case in legno, i muri dei templi e la via commerciale sono davvero antichi invece che ricostruiti. Quasi tutto il resto di Tokyo e stato rasato e rialzato almeno due volte.\n\nI terreni del palazzo imperiale occupano il sito del castello di Edo, una volta la piu grande fortezza del mondo; i fossati e le mura di pietra sono cio che resta, e si trovano esattamente al centro della citta. Segue il santuario Meiji, dentro una foresta di circa 100.000 alberi donati da tutto il Giappone e piantati a mano negli anni '20, progettata per avere questo aspetto un secolo dopo, e fresca anche in agosto.\n\nHarajuku chiude la giornata, cinque minuti a piedi e cent'anni di distanza dal cancello del santuario, dove la folla adolescente di Takeshita-dori corre parallela ai negozi di marca di Omotesando. Quella distanza e il punto che tutto l'itinerario vuole dimostrare.\n\nSi adatta a chi ama camminare, da 7 a 9 chilometri nel corso della giornata, meno a chi ha bisogno di sedersi spesso, anche se il percorso viene ricostruito attorno ai limiti di mobilita se lo comunicate al momento della prenotazione.",
+  "highlights": [],
+  "included": [
+   "Guida locale di lingua inglese per sei ore\nPianificazione del percorso e aiuto nella navigazione\nCosti di trasporto della guida\nConsigli locali per il resto del vostro soggiorno"
+  ],
+  "notIncluded": [
+   "Le vostre tariffe di treno e metropolitana (circa 800-1.500 yen)\nCibo e bevande\nQualsiasi tariffa di ingresso\nMance"
+  ]
+ },
+ "senso-ji-temple-highlights-guided-tour": {
+  "title": "I Punti Salienti di Tokyo in Mezza Giornata con una Guida Locale",
+  "metaTitle": "Tokyo: punti salienti in mezza giornata",
+  "metaDescription": "Quattro ore per coprire l'essenziale: il tempio piu antico, l'incrocio piu affollato e la foresta del santuario tra i due.",
+  "shortDescription": "Quattro ore per coprire l'essenziale: il tempio piu antico, l'incrocio piu affollato e la foresta del santuario tra i due.",
+  "fullDescription": "Quattro ore, le tre cose di cui vi rammaricherete se le perdete, e un locale a rendere indolori i passaggi tra l'una e l'altra. Questo e il tour per un soggiorno breve, uno scalo, o un primo pomeriggio mentre vi state ancora adattando al fuso orario.\n\nIl Senso-ji si trova ad Asakusa dal 645, il che lo rende piu antico di quasi tutto il resto della citta, e l'accesso lungo Nakamise-dori, oltre l'enorme lanterna rossa del portale Kaminarimon e le file di piccole bancarelle dietro di esso, fa parte dell'esperienza piuttosto che essere una fila da sopportare. L'attuale sala principale e una ricostruzione del dopoguerra, essendo quella originale bruciata nei bombardamenti incendiari del 1945.\n\nIl santuario Meiji offre il registro opposto: silenzio, ghiaia sotto i piedi, e una foresta di circa 100.000 alberi donati e piantati a mano, progettata negli anni '20 per avere esattamente questo aspetto oggi, con i progettisti che scelsero specie capaci di maturare in un bosco autosufficiente nel corso di un secolo. L'incrocio di Shibuya non ha bisogno di presentazioni.\n\nCio a cui serve davvero la guida e il tessuto connettivo: quale treno, quale uscita, quale lato della strada, e il commento continuo che trasforma tre monumenti separati in un'unica immagine coerente di come funziona Tokyo.\n\nAspettatevi da 4 a 6 km di camminata oltre ai tratti in treno, quindi menzionate eventuali esigenze di mobilita al momento della prenotazione. Portate una Suica o Pasmo carica e contanti per le offerte e i piccoli negozi, e tenete le spalle coperte, entrambi i siti sono luoghi di culto attivi. La foresta del santuario e un vero rifugio dal caldo estivo; l'incrocio e al suo meglio quando la luce calando.\n\nFunziona bene anche come orientamento. Fatelo il primo giorno e il resto del viaggio sara piu facile.",
+  "highlights": [],
+  "included": [
+   "Guida locale di lingua inglese per quattro ore\nPianificazione del percorso in base ai vostri interessi\nCosti di trasporto della guida\nAiuto nella navigazione con treni e metropolitane"
+  ],
+  "notIncluded": [
+   "Le vostre tariffe di treno e metropolitana\nCibo e bevande\nQualsiasi tariffa di ingresso\nMance"
+  ]
+ },
+ "shibuya-backstreets-bike-tour": {
+  "title": "Shibuya e Harajuku in Bicicletta: Tre Ore tra i Vicoli",
+  "metaTitle": "Shibuya e Harajuku in bicicletta",
+  "metaDescription": "Shibuya e Harajuku sono molto piu grandi delle due strade che tutti percorrono. Una bicicletta vi porta nel resto in tre ore.",
+  "shortDescription": "Shibuya e Harajuku sono molto piu grandi delle due strade che tutti percorrono. Una bicicletta vi porta nel resto in tre ore.",
+  "fullDescription": "Quasi tutti quelli che visitano Shibuya vedono gli stessi 500 metri: l'incrocio, Center Gai, forse la via Takeshita a Harajuku. I quartieri si estendono per chilometri in ogni direzione e le parti migliori sono per lo piu nel mezzo, su strade in cui un visitatore alla prima visita non avrebbe motivo di entrare.\n\nQuesto giro inizia vicino a Shinjuku, dieci minuti a piedi dalla stazione, e si sviluppa verso sud attraverso tutta la zona. I vicoli dietro Shibuya sono pieni di torrefattori indipendenti, negozi di dischi e piccole gallerie, nessuno dei quali sopravviverebbe agli affitti della via principale. Omotesando offre l'architettura, una fila di negozi di marca firmati da Ando, SANAA e Herzog & de Meuron lungo il viale di zelkove che equivale a un museo all'aperto del design giapponese contemporaneo, ognuno una risposta diversa allo stesso stretto lotto. Il parco Yoyogi offre la pausa, e la domenica i danzatori rockabilly si fanno ancora vedere vicino all'ingresso.\n\nAndare in bicicletta e la velocita giusta per questo. A piedi ne coprireste solo una frazione; in treno salterete tutto il resto, che e dove in realta si trova tutto. Risolve anche il vero problema di navigazione di Tokyo: gli spazi tra le stazioni sono la parte che i visitatori non riescono mai a riempire.\n\nBuono per chi visita per la prima volta e vuole orientarsi, e altrettanto buono per chi e tornato e ha gia fatto la lista delle cose da vedere e vuole sapere cosa c'e dietro.\n\nE meno indicato se non andate in bicicletta da anni. Il percorso usa strade vere con traffico vero, quindi dovete essere ciclisti sicuri; l'eta minima e generalmente 12 anni e i caschi sono forniti e obbligatori. Le partenze al mattino sono notevolmente piu comode durante l'estate, e la domenica porta sia gli artisti del parco sia la folla piu densa di Harajuku.",
+  "highlights": [],
+  "included": [
+   "Bicicletta di qualita per l'intero tour\nGuida locale di lingua inglese\nCasco\nAssicurazione per la bicicletta\nSoste fotografiche durante il percorso"
+  ],
+  "notIncluded": [
+   "Trasferimenti dall'hotel\nCibo e bevande\nQualsiasi tariffa di ingresso\nMance"
+  ]
+ },
+ "shibuya-crossing-crossing-photography-tour": {
+  "title": "Giro in Go-Kart all'Incrocio di Shibuya con Soste Fotografiche",
+  "metaTitle": "Shibuya: giro in go-kart con foto",
+  "metaDescription": "Il modo breve ed economico per farlo: un'ora, direttamente all'incrocio di Shibuya e Harajuku, costume indossato e foto scattate.",
+  "shortDescription": "Il modo breve ed economico per farlo: un'ora, direttamente all'incrocio di Shibuya e Harajuku, costume indossato e foto scattate.",
+  "fullDescription": "Se volete solo quello scatto, voi, in costume, su un kart, nel bel mezzo dell'incrocio di Shibuya, questo e il tour che vi porta lì senza riempire il resto con niente altro.\n\nUn'ora, un giro compatto, e l'incrocio stesso come punto centrale. Lo scramble di Shibuya gestisce fino a 3.000 persone a ogni cambio di semaforo e qualcosa vicino a mezzo milione al giorno, e attraversarlo a livello strada con i pedoni che scorrono da ogni lato e davvero diverso da qualsiasi altra cosa in citta. Hachiko, l'Akita che aspettava alla stazione e che da qui si trova in bronzo dal 1934, e a pochi metri da dove passa il gruppo.\n\nIl resto del giro sale attraverso Harajuku e lungo Omotesando, il largo viale fiancheggiato da zelkove che i tokyoiti chiamano i loro Champs-Elysees e che fu disegnato come viale d'accesso al santuario Meiji. E la guida piu facile dell'ora e da alla guida spazio pulito per fotografare il gruppo in movimento, mentre le strade piu strette di Harajuku attorno a Takeshita-dori forniscono la folla.\n\nCostume, casco e foto sono inclusi. L'unica cosa che non lo e, e che non si puo risolvere una volta arrivati, e la patente: il Giappone richiede un permesso internazionale di guida della Convenzione di Ginevra, portato fisicamente insieme alla vostra patente nazionale e al passaporto. Organizzatela prima di partire; scansioni e foto sul telefono vengono rifiutate al banco.\n\nL'eta minima e 18 anni, i kart sono monoposto quindi ognuno guida il proprio, e la pioggia leggera va bene con i poncho forniti. Siete esposti al clima per tutta la durata, quindi vestitevi per la temperatura piuttosto che per le foto.",
+  "highlights": [],
+  "included": [
+   "Go-kart omologato per la strada e carburante\nGuida di lingua inglese che accompagna il gruppo\nNoleggio del costume\nCasco e briefing sulla sicurezza\nFoto scattate dalla guida lungo il percorso\nAssicurazione del veicolo"
+  ],
+  "notIncluded": [
+   "Permesso internazionale di guida (da organizzare prima del viaggio)\nTrasferimenti dall'hotel\nCibo e bevande\nMance\nSpese personali"
+  ]
+ },
+ "shibuya-crossing-evening-tour": {
+  "title": "Go-Kart Stradale a Tokyo: Giro Notturno all'Incrocio di Shibuya e alla Torre di Tokyo",
+  "metaTitle": "Tokyo: go-kart notturno a Shibuya e Torre di Tokyo",
+  "metaDescription": "Guidate un go-kart omologato per la strada attraverso l'incrocio di Shibuya e davanti alla Torre di Tokyo illuminata, in costume, con una guida che conduce e scatta foto per tutto il percorso.",
+  "shortDescription": "Guidate un go-kart omologato per la strada attraverso l'incrocio di Shibuya e davanti alla Torre di Tokyo illuminata, in costume, con una guida che conduce e scatta foto per tutto il percorso.",
+  "fullDescription": "Guidare attraverso Tokyo all'altezza dell'asfalto e una citta completamente diversa da quella che si vede dal finestrino di un treno. I kart sono veicoli immatricolati per la strada, non giostre da parco divertimenti, ed e esattamente per questo che il percorso puo portarvi nel traffico vero e attraverso lo stesso incrocio di Shibuya invece che intorno a un circuito.\n\nIl circuito collega i monumenti che appaiono davvero bene alla velocita. La Torre di Tokyo e il punto piu alto, 333 metri di traliccio arancione, piu alta della Torre Eiffel da cui e stata modellata, e illuminata ogni notte. I larghi viali di Roppongi lasciano il gruppo allargarsi, Harajuku restringe nuovamente tutto, e l'incrocio di Shibuya arriva come finale, dove poche centinaia di pedoni scendono dal marciapiede attorno a voi.\n\nLa vostra guida procede davanti, imposta il ritmo e si ferma nei punti piu fotogenici per scattarvi foto. I costumi fanno parte dell'esperienza e sono inclusi, e questa e la cosa a cui i tokyoiti si sono semplicemente abituati a vedere.\n\nUna cosa da sistemare prima di partire: non potete farlo solo con la vostra patente nazionale. Il Giappone richiede un permesso internazionale di guida rilasciato secondo la Convenzione di Ginevra del 1949, portato fisicamente insieme alla patente e al passaporto. Procuratevelo nel vostro paese prima della partenza, nessun negozio a Tokyo puo rilasciarvelo.",
+  "highlights": [],
+  "included": [
+   "Go-kart omologato per la strada e carburante\nGuida di lingua inglese che accompagna il gruppo\nNoleggio del costume\nCasco e briefing sulla sicurezza\nFoto scattate dalla guida lungo il percorso\nAssicurazione del veicolo"
+  ],
+  "notIncluded": [
+   "Permesso internazionale di guida (da organizzare prima del viaggio)\nTrasferimenti dall'hotel\nCibo e bevande\nMance\nSpese personali"
+  ]
+ },
+ "shibuya-crossing-photography-tour": {
+  "title": "Shibuya di Notte: Passeggiata Fotografica Privata al Neon con un Fotografo Locale",
+  "metaTitle": "Shibuya di notte: passeggiata fotografica privata",
+  "metaDescription": "Un'ora camminando nei vicoli illuminati di Shibuya con un fotografo che vi scatta foto lungo il percorso, immagini ritoccate consegnate, nessuna maratona di posa.",
+  "shortDescription": "Un'ora camminando nei vicoli illuminati di Shibuya con un fotografo che vi scatta foto lungo il percorso, immagini ritoccate consegnate, nessuna maratona di posa.",
+  "fullDescription": "Shibuya viene fotografata male se si scatta solo all'incrocio. Il famoso scramble sono cinque secondi di un quartiere molto piu interessante una strada indietro, dove le insegne si infittiscono, i vicoli si restringono alla larghezza di una spalla e la luce diventa davvero cinematografica. Un'ora e sufficiente per uscire dall'inquadratura ovvia ed entrare in quella buona.\n\nQuesta e una camminata con un fotografo piuttosto che un servizio fotografico. Si inizia alla statua di Hachiko, eretta nel 1934 per un cane che continuava a tornare alla stazione per il suo padrone, e che oggi e il punto d'incontro predefinito per tutto il quartiere. Da li vi muovete attraverso Shibuya, l'incrocio, il muro di schermi di Center Gai, poi nei vicoli dove si bere, dove bar in legno a due piani sopravvivono tra le torri, e gli scatti vengono presi lungo il percorso. Alcuni sono organizzati, la maggior parte no. Il punto sono immagini che sembrano una serata che avete davvero vissuto, non una sessione in studio tenuta all'aperto.\n\nNonbei Yokocho, il \"Vicolo dell'Ubriacone\", e quello che la gente si perde. Qualche dozzina di piccoli bar incastrati lungo due corsie dietro la stazione, la maggior parte con sei o sette posti, illuminati quasi interamente da lanterne e distributori automatici. E a un minuto dall'incrocio e sembra un decennio diverso. I vicoli sono stretti e i bar sono attivita vere, quindi il vostro fotografo mantiene il gruppo compatto e in movimento attraverso di essi.\n\nLe foto modificate vengono consegnate digitalmente dopo la passeggiata, ritoccate e incluse, non c'e nessuna vendita aggiuntiva per immagine alla fine, e i diritti di utilizzo sono vostri.\n\nSi svolge dopo il tramonto per il neon, quindi l'orario di partenza cambia con la stagione. La pioggia leggera non e un problema ed e probabilmente meglio, poiche l'asfalto bagnato raddoppia ogni insegna. Vestiti piu scuri risaltano bene contro le insegne.",
+  "highlights": [],
+  "included": [
+   "Fotografo locale privato per un'ora\nMacchina fotografica professionale e illuminazione\nPercorso tra i monumenti e i vicoli di Shibuya\nFoto digitali ritoccate professionalmente, consegnate dopo la passeggiata\nPieni diritti di utilizzo personale delle vostre immagini"
+  ],
+  "notIncluded": [
+   "Trasferimenti dall'hotel\nCibo e bevande\nFoto stampate\nMance"
+  ]
+ },
+ "shibuya-crossing-premium-tour": {
+  "title": "Shibuya Premium Street Kart: 45 Minuti Attraverso l'Incrocio",
+  "metaTitle": "Shibuya Premium Street Kart: 45 minuti",
+  "metaDescription": "Quarantacinque minuti, costume indossato, direttamente attraverso l'incrocio di Shibuya con la Torre di Tokyo lungo il percorso.",
+  "shortDescription": "Quarantacinque minuti, costume indossato, direttamente attraverso l'incrocio di Shibuya con la Torre di Tokyo lungo il percorso.",
+  "fullDescription": "La versione piu compatta del giro in kart a Tokyo. Quarantacinque minuti su strada, senza riempitivi, e i due scatti che la gente vuole davvero: l'incrocio e la torre.\n\nSi tratta di veicoli immatricolati per la strada, ed e per questo che il percorso usa traffico vero invece di un circuito chiuso. Vi sedete in basso, circa all'altezza del passaruota di un'auto, il che fa sembrare enormi le normali strade di Tokyo. L'incrocio di Shibuya muove fino a 3.000 persone a ogni cambio di semaforo, e attraversarlo a livello strada con i pedoni che scorrono da ogni lato e l'intera ragione per cui questa esperienza esiste. La Torre di Tokyo, 333 metri di traliccio arancione costruiti nel 1958, offre l'altra fotografia.\n\nOmotesando offre la guida facile, un largo viale fiancheggiato da zelkove disegnato come viale d'accesso formale al santuario Meiji e oggi fiancheggiato da negozi di marca, che da alla guida spazio pulito per fotografare il gruppo in movimento, mentre Harajuku restringe le cose prima del finale.\n\nI costumi sono inclusi e sono meta del divertimento. La documentazione non e opzionale: il Giappone richiede un permesso internazionale di guida rilasciato secondo la Convenzione di Ginevra del 1949, portato fisicamente insieme alla patente nazionale e al passaporto. Deve essere organizzato nel vostro paese prima di partire; nessun negozio a Tokyo puo rilasciarne uno, e le scansioni vengono rifiutate al banco.\n\nL'eta minima e 18 anni e i kart sono monoposto, quindi ognuno guida il proprio e nessuno viaggia da passeggero. Siete esposti all'aria per tutta la durata, quindi vestitevi per la temperatura piuttosto che per le foto. Con 45 minuti questo e il percorso piu breve disponibile.",
+  "highlights": [],
+  "included": [
+   "Go-kart omologato per la strada e carburante\nGuida di lingua inglese che accompagna il gruppo\nNoleggio del costume\nCasco e briefing sulla sicurezza\nFoto scattate dalla guida\nAssicurazione del veicolo"
+  ],
+  "notIncluded": [
+   "Permesso internazionale di guida (da organizzare prima del viaggio)\nTrasferimenti dall'hotel\nCibo e bevande\nMance"
+  ]
+ },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
   "title": "Raccolta frutta a Yoichi, la distilleria Nikka e la costa di Shakotan",
   "metaTitle": "Raccolta frutta, distilleria Nikka e costa di Shakotan",
