@@ -17509,6 +17509,174 @@ export const IT_TOURS: Record<string, TourT> = {
    "Ritiro e rientro in hotel\nCibo e bevande\nFotografie stampate dove a pagamento separato"
   ]
  },
+ "tokyo-asakusa-sumo-dinner-show-geisha-hot-pot": {
+  "title": "Sumo, Geisha e Chanko Nabe ad Asakusa: Cena Attorno a un Vero Dohyo",
+  "metaTitle": "Asakusa: cena sumo e geisha attorno a un vero dohyo",
+  "metaDescription": "Due ore attorno a un vero anello da sumo ad Asakusa: una danza di geisha, professionisti in pensione che si affrontano al meglio delle tre, e chanko nabe illimitato.",
+  "shortDescription": "Due ore attorno a un vero anello da sumo ad Asakusa: una danza di geisha, professionisti in pensione che si affrontano al meglio delle tre, e chanko nabe illimitato.",
+  "fullDescription": "Questa e l'esperienza da prenotare se volete sumo e cena nelle stesse due ore, ed e costruita attorno a qualcosa che la maggior parte dei locali non ha: un vero dohyo, l'anello di argilla e paglia di riso, posto nel centro della sala con i tavoli disposti attorno. Si mangia a bordo campo invece di guardare da una galleria.\n\nLa serata si apre con calma. Una geisha esegue una danza tradizionale in kimono completo, il che imposta un tono molto diverso da cio che segue, e da una rara occasione di vedere questa forma d'arte da vicino senza il costo e la formalita di una prenotazione in una casa da te.\n\nPoi arriva il sumo. I lottatori sono professionisti in pensione, quindi la tecnica e vera anche se la posta in gioco non lo e: dimostrano la routine di allenamento mattutino, illustrano le tecniche classiche di vittoria, spiegano l'etichetta e le superstizioni dello sport, e finiscono con un incontro al meglio delle tre. Un moderatore bilingue lavora in inglese e giapponese per tutta la durata, il che rende il rituale comprensibile invece che solo rumoroso. Gli ospiti possono entrare nel ring e sfidare un lottatore in seguito, con i posti assegnati per sorteggio quando la domanda e alta.\n\nIl cibo e il chanko-nabe, il brodo di pollo che le scuderie di sumo mangiano a volonta per costruire e mantenere il peso. E illimitato, servito insieme ad altri piatti giapponesi, e una bevanda e incluso con altre disponibili da acquistare. Tornate a casa anche con una fotografia stampata con i lottatori e un set di souvenir.\n\nEsistono tre livelli di posti. I posti standard al locale principale e all'annesso dietro di esso offrono entrambi una vista chiara; la prima fila VIP vi metta sul bordo dell'anello. Il locale si trova ad Asakusa, al piano sotterraneo di un edificio vicino a Matsuya, il che lo pone a breve distanza a piedi dal Senso-ji se volete vedere prima il tempio.",
+  "highlights": [],
+  "included": [
+   "Commento bilingue dal vivo in inglese e giapponese\nSpettacolo di sumo con lottatori professionisti in pensione\nPerformance tradizionale di danza di geisha\nChanko nabe di pollo illimitato e piatti giapponesi\nUna bevanda in omaggio\nPartecipazione al sorteggio per sfidare un lottatore nel ring\nFotografia souvenir stampata con i lottatori\nSet di souvenir"
+  ],
+  "notIncluded": [
+   "Bevande aggiuntive\nPasti, posti e souvenir per neonati\nTrasporto fino al locale\nRitiro e rientro in hotel"
+  ]
+ },
+ "tokyo-asakusa-sushi-making-class-vegan-halal-options": {
+  "title": "Corso di Sushi ad Asakusa, con Menu Vegano, Halal e per Allergie",
+  "metaTitle": "Asakusa: corso di sushi con menu vegano e halal",
+  "metaDescription": "Preparate il vostro nigiri e maki a tre minuti dalla stazione di Asakusa, poi mangiate quello che avete fatto, con autentici menu vegani, vegetariani, halal, senza glutine e per allergie.",
+  "shortDescription": "Preparate il vostro nigiri e maki a tre minuti dalla stazione di Asakusa, poi mangiate quello che avete fatto, con autentici menu vegani, vegetariani, halal, senza glutine e per allergie.",
+  "fullDescription": "Il sushi sembra semplice e non lo e, il che e l'intera ragione per cui vale la pena fare un corso. Il riso e la parte difficile: come viene condito, quanto dovrebbe essere caldo quando lo modellate, e quanta pressione la vostra mano applica prima che smetta di essere sushi e diventi una massa compressa. In cento minuti vi viene insegnato per bene, poi preparate da soli nigiri e maki arrotolati, e poi vi sedete e mangiate tutto.\n\nL'istruzione e in inglese e non si presume alcuna esperienza. La maggior parte delle persone nella stanza non ha mai maneggiato il riso per sushi, e lo staff e abituato a questo; il ritmo e abbastanza lento che non state solo seguendo, e dal secondo o terzo pezzo potete sentire dove state sbagliando.\n\nLa gamma di opzioni alimentari e cio che distingue questo corso, ed e insolitamente genuina. Oltre al menu standard ci sono menu veramente separati vegani e vegetariani, un menu halal, un'opzione senza glutine, e un menu per allergie che esclude carne, noci, frutta e latticini, non una sostituzione improvvisata sul momento ma una versione del corso progettata apposta. Si applicano due condizioni, e l'operatore e fermo su entrambe: dovete richiedere la modifica al momento della prenotazione, e non possono accogliere specifiche personalizzate sugli ingredienti. Chiedete il giorno stesso e la risposta e no.\n\nLo studio e a tre minuti a piedi dalla stazione di Asakusa, vicino a Kaminarimon, il che lo pone a breve passeggiata dal Senso-ji e in vista della Skytree. I gruppi possono essere numerosi ma i tavoli sono organizzati in piccoli raggruppamenti, e lo spazio e accessibile in sedia a rotelle.\n\nTutti gli ingredienti e il pasto stesso sono inclusi. Non serve nulla altro: arrivate affamati e tornate a casa avendo imparato un'abilita che vi sopravvivera al viaggio.",
+  "highlights": [],
+  "included": [
+   "Istruttore di lingua inglese\nTutti gli ingredienti per il corso\nIl pasto che preparate\nMenu vegani, vegetariani, halal, senza glutine e per allergie su richiesta alla prenotazione"
+  ],
+  "notIncluded": [
+   "Ritiro e rientro in hotel\nBevande oltre a quelle fornite\nSpecifiche personalizzate sugli ingredienti"
+  ]
+ },
+ "tokyo-backstreets-walking-tour": {
+  "title": "Il Giro dei Fantasmi di Tokyo: Yokai, Spiriti Vendicativi e Folklore Cittadino",
+  "metaTitle": "Tokyo: giro dei fantasmi e folklore",
+  "metaDescription": "Due ore dopo il tramonto attraverso le parti di Tokyo con un passato di morti, raccontate per bene invece che per spaventare.",
+  "shortDescription": "Due ore dopo il tramonto attraverso le parti di Tokyo con un passato di morti, raccontate per bene invece che per spaventare.",
+  "fullDescription": "Edo fu, per un lungo periodo, la citta piu grande del mondo, e brucio ripetutamente, si inondo e eseguiva esecuzioni pubbliche. Tokyo e costruita direttamente sopra tutto questo, e le storie di fantasmi giapponesi sono insolitamente specifiche su dove le cose siano accadute, non una vaga vecchia casa su una collina, ma una strada precisa, un canale preciso, una vittima precisa.\n\nQuesta passeggiata va in quei luoghi dopo il tramonto. Il folklore giapponese non segue davvero il modello occidentale della casa infestata, ha gli yurei, i morti vendicativi che tornano per un rancore specifico, e gli yokai, un vasto catalogo di spiriti che sono tanto spesso dispettosi o assurdi quanto spaventosi. Le storie sono piu antiche e piu strane dei film horror che ne hanno preso in prestito gli elementi, e i cliche con cui arrivano i viaggiatori derivano da stampe su legno, kabuki e storie di fantasmi raccontate a voce alta d'estate.\n\nParte di cio che la vostra guida vi racconta e storia documentata: incendi, esecuzioni, pestilenze, i luoghi dove sono accaduti. I grandi incendi del periodo Edo ridisegnarono la citta piu di una volta, e i quartieri che attraversate portano la forma di quei disastri nel piano delle loro strade. Parte e folklore raccontato in queste strade da secoli. La guida e chiara su quale sia quale, il che rende entrambi piu interessanti.\n\nE suggestivo piuttosto che un'attrazione da paura, nessun attore, nessun jump scare. Solo strade buie, luoghi reali e storie che sono durate nel tempo. Due ore, 2-3 chilometri su terreno pianeggiante a un ritmo facile.\n\nL'argomento trattato riguarda esecuzioni, incendi e morte, affrontato seriamente. Va bene per la maggior parte degli adulti e degli adolescenti piu grandi; usate il vostro giudizio con i bambini piu piccoli. Si svolge anche con pioggia leggera, il che francamente le si adatta bene, portate un ombrello.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese per due ore\nPercorso a piedi attraverso i siti storici\nRacconti a ogni tappa"
+  ],
+  "notIncluded": [
+   "Cibo e bevande\nTrasferimenti dall'hotel\nQualsiasi tariffa di ingresso\nMance"
+  ]
+ },
+ "tokyo-gotokuji-cat-temple-and-cat-cafe-tour": {
+  "title": "Il Tempio dei Gatti della Fortuna di Gotokuji, il Gatto 3D di Shinjuku e il Piu Grande Cat Cafe del Giappone",
+  "metaTitle": "Tokyo: tempio dei gatti di Gotokuji e cat cafe",
+  "metaDescription": "Due ore e mezza tra i monumenti felini di Tokyo: un tempio coperto di mille gatti della fortuna, il gigantesco cartellone 3D, e mezz'ora in un cat cafe con bar bevande gratuito.",
+  "shortDescription": "Due ore e mezza tra i monumenti felini di Tokyo: un tempio coperto di mille gatti della fortuna, il gigantesco cartellone 3D, e mezz'ora in un cat cafe con bar bevande gratuito.",
+  "fullDescription": "Il maneki-neko, il gatto della fortuna con una zampa alzata, si trova sul bancone di meta dei negozi in Giappone, e Gotokuji afferma di essere il luogo dove tutto e iniziato. La storia racconta che un signore in passaggio si rifugio da un temporale dopo che un gatto del tempio gli fece segno di entrare, e dono il luogo in segno di gratitudine. Che sia vero o no, i visitatori lasciano statuette di gatti li da moltissimo tempo, e gli scaffali ora ne contengono ben oltre mille, disposte su livelli e che vanno dalla grandezza di un pollice a quella di un ginocchio. E davvero strano starci davanti.\n\nIl tour inizia dall'altra parte della citta, davanti al gigantesco cartellone 3D di un gatto sopra l'uscita est di Shinjuku, uno schermo curvo che produce un'illusione convincente di un gatto calico delle dimensioni di una fermata d'autobus che si stiracchia e sbadiglia sopra l'incrocio. E un elemento fisso di internet da quando e stato installato e vale i due minuti.\n\nLa tariffa del treno fino a Gotokuji e incluso, e il tempio si trova in un tranquillo quartiere residenziale con una via commerciale locale collegata, dove i negozi a tema gatto e una pasticceria a tema gatto sono piu affascinanti di quanto la frase suggerisca.\n\nNel mezzo c'e mezz'ora nel piu grande cat cafe del Giappone, con il bar bevande gratuito incluso. Il momento e scelto apposta: arrivate durante la colazione dei gatti, che e il momento piu attivo della loro giornata.\n\nIl gruppo e limitato a otto persone, il che si adatta agli spazi piccoli coinvolti. E una mezza giornata facile e poco impegnativa, e funziona particolarmente bene con i bambini e con chiunque senta che la propria lista di Tokyo stia iniziando a diventare una serie di templi.",
+  "highlights": [],
+  "included": [
+   "Tour guidato dei monumenti a tema gatto di Tokyo\nTariffa del treno da Shinjuku a Gotokuji\nIngresso al cat cafe per una sosta di trenta minuti\nBar bevande gratuito al cat cafe\nGuida di lingua inglese"
+  ],
+  "notIncluded": [
+   "Spese personali\nCibo e bevande aggiuntive\nRitiro e rientro in hotel\nSouvenir e statuette di gatti"
+  ]
+ },
+ "tokyo-harajuku-japanese-denim-jeans-workshop": {
+  "title": "Realizzate i Vostri Jeans di Denim Giapponese a Harajuku",
+  "metaTitle": "Harajuku: laboratorio di jeans di denim giapponese",
+  "metaDescription": "Un'ora in un laboratorio di Harajuku per costruire un paio di jeans di denim Okayama secondo la vostra silhouette, con tasca applicata e rivetti, orlati su misura e portati a casa lo stesso giorno.",
+  "shortDescription": "Un'ora in un laboratorio di Harajuku per costruire un paio di jeans di denim Okayama secondo la vostra silhouette, con tasca applicata e rivetti, orlati su misura e portati a casa lo stesso giorno.",
+  "fullDescription": "Il denim di Okayama e il motivo per cui le persone serie di jeans parlano affatto del Giappone. Le filature nel distretto di Kojima continuarono a tessere su vecchi telai a navetta molto dopo che il resto del mondo era passato a macchine piu veloci, e il tessuto leggermente irregolare e denso che producono e cio che la maggior parte dei marchi di denim premium acquista oggi. Questo laboratorio di un'ora a Harajuku e l'occasione di maneggiare quel tessuto e uscirne indossandolo.\n\nIniziate scegliendo una silhouette, poi l'hardware: una tasca applicata, sei rivetti e un bottone sono incluso, e scegliete ognuno da un vassoio invece di accettare un default. Lo staff vi illustra a cosa servono davvero le parti, perche i rivetti si trovano dove si trovano, di cosa e tradizionalmente fatta una tasca applicata, come viene finita una cintura, cosi l'ora e piu vicina a un breve corso di costruzione che a un esercizio di assemblaggio. L'orlatura su misura e incluso, il dettaglio che trasforma il tutto da souvenir a qualcosa che indosserete davvero.\n\nLe taglie sono unisex e vanno a incrementi di due dal 24 al 44, e la disponibilita cambia, quindi controllate l'email di conferma per sapere cosa e disponibile nella vostra data. Il gruppo e limitato a sei persone, lo staff parla inglese e giapponese, e non si presume alcuna esperienza; la maggior parte delle persone arriva senza aver mai pensato a come si costruisce un paio di jeans.\n\nEsistono aggiornamenti opzionali: denim selvedge, tasche in pelle premium, rivetti extra, ricamo. Nessuno di essi e necessario per un buon risultato. Il laboratorio si trova al quarto piano di un edificio a un minuto dall'uscita Omotesando della stazione JR di Harajuku, il che lo pone a breve passeggiata da Takeshita Street e Omotesando se volete farne una mattinata intera. E accessibile in sedia a rotelle.",
+  "highlights": [],
+  "included": [
+   "Un paio di jeans di denim giapponese, taglie unisex 24-44 a incrementi di due\nIntroduzione al denim premium di Okayama\nSessione di costruzione pratica con tutti gli strumenti e i materiali\nScelta della silhouette dei jeans\nUna tasca applicata, sei rivetti e un bottone a vostra scelta\nOrlatura su misura\nGuida da parte dello staff di lingua inglese e giapponese"
+  ],
+  "notIncluded": [
+   "Rivetti e bottoni aggiuntivi oltre a quelli inclusi\nAggiornamento a denim selvedge\nTasche in pelle premium\nRicamo\nMerchandising disponibile all'acquisto"
+  ]
+ },
+ "tokyo-harajuku-traditional-japanese-music-concert": {
+  "title": "Concerto di Wagakki a Harajuku: Koto, Shamisen, Shakuhachi e Taiko in un'Ora",
+  "metaTitle": "Harajuku: concerto di strumenti tradizionali giapponesi",
+  "metaDescription": "Un'ora seduti ad ascoltare strumenti tradizionali giapponesi suonati dal vivo e spiegati in inglese, a un minuto dalla stazione di Meiji-Jingumae.",
+  "shortDescription": "Un'ora seduti ad ascoltare strumenti tradizionali giapponesi suonati dal vivo e spiegati in inglese, a un minuto dalla stazione di Meiji-Jingumae.",
+  "fullDescription": "Gli strumenti tradizionali giapponesi sono facili da sentire in Giappone e quasi impossibili da sentire per bene. Compaiono come sottofondo nei templi, nei ristoranti e nei grandi magazzini, assottigliati attraverso gli altoparlanti, senza nessuno a dirvi cosa state ascoltando. Un'ora in una piccola sala con i musicisti a tre metri di distanza e una proposta completamente diversa.\n\nIl programma copre i principali wagakki: il koto, un lungo zither a tredici corde suonato sul pavimento; il shamisen, tre corde percosse con un grande plettro, il cui attacco percussivo non ha paragoni tra gli strumenti a corda occidentali; il shakuhachi, un flauto di bambu soffiato di testa capace di un tono rauco e instabile che i compositori hanno impiegato secoli a perfezionare; e i tamburi taiko, che non hanno bisogno di presentazioni una volta che iniziano.\n\nCio che eleva questo sopra un recital e che ogni pezzo viene introdotto. Lo spettacolo si svolge in inglese e giapponese, e i musicisti spiegano da dove viene una melodia e a cosa serviva originariamente, cosi un antico pezzo di corte e una composizione moderna si inseriscono in un contesto invece di confondersi tra loro. Il programma include anche una cover di un successo occidentale, che suona come un espediente ed e in realta la parte piu istruttiva dell'ora, sentire qualcosa che conoscete suonato su questi strumenti rende il loro carattere evidente in un modo che nulla altro riesce a fare.\n\nI musicisti si esibiscono in kimono e fotografie e video sono benvenuti durante tutto lo spettacolo, con foto insieme agli artisti alla fine.\n\nIl locale e la Hall 60 a Jingumae, a un minuto dall'uscita 7 della stazione di Meiji-Jingumae, cinque dall'uscita Omotesando di Harajuku, cosi si inserisce perfettamente in un pomeriggio attorno a Takeshita Street o al santuario Meiji. I posti sono riservati, la sala e accessibile in sedia a rotelle, e il tutto dura un'ora.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso al locale\nPosto riservato\nProgramma di concerto di un'ora con commento in inglese\nFotografie con i musicisti alla fine"
+  ],
+  "notIncluded": [
+   "Ritiro e rientro in hotel\nCibo e bevande\nMerchandising"
+  ]
+ },
+ "tokyo-helicopter-flight-skytree-tokyo-tower": {
+  "title": "Trenta Minuti Sopra Tokyo in Elicottero: Skytree e Torre di Tokyo",
+  "metaTitle": "Tokyo: volo in elicottero su Skytree e Torre di Tokyo",
+  "metaDescription": "Un volo privato di trenta minuti dall'eliporto di Chiba Wangan oltre entrambe le torri di Tokyo, per un massimo di quattro passeggeri.",
+  "shortDescription": "Un volo privato di trenta minuti dall'eliporto di Chiba Wangan oltre entrambe le torri di Tokyo, per un massimo di quattro passeggeri.",
+  "fullDescription": "Tokyo non si legge come una singola citta dal suolo. E troppo grande e troppo piatta, e ogni piano di osservazione vi mostra solo una fetta di essa. Trenta minuti in elicottero sono l'unico modo per vedere come si incastra davvero: la baia, il sistema fluviale, i quartieri che corrono verso l'orizzonte, e le due torri che ancorano lo skyline alle estremita opposte.\n\nIl percorso include entrambe. La Tokyo Skytree a 634 metri e la struttura piu alta del Giappone e ha un aspetto completamente diverso dall'aria, dove la vedete contro la distesa bassa dei quartieri orientali invece che da sotto. La Torre di Tokyo, il traliccio del 1958 dipinto di arancione internazionale, si trova nel denso centro occidentale circondata da edifici che l'hanno superata in altezza da tempo ma mai in riconoscibilita.\n\nL'aereo porta da uno a quattro passeggeri e il prezzo e per il volo invece che a persona, cosi scende nettamente a persona con una cabina piena. I voli partono dall'eliporto di Chiba Wangan a Shinko, Chiba, di fronte ad Aqualink Chiba sul lato est del parco di Inage Seaside, calcolate il tempo di viaggio, non e Tokyo centrale.\n\nArrivate almeno trenta minuti prima del vostro orario per il briefing sulla sicurezza e la documentazione. Il personale scattera foto se lo chiedete.\n\nDue avvertenze oneste. Un volo programmato prima del tramonto avviene di luce, quindi prenotate un orario piu tardo se volete la citta illuminata. E per prenotazioni prima delle 19:00, le restrizioni dello spazio aereo possono occasionalmente impedire il tratto verso la Torre di Tokyo, quindi il percorso potrebbe differire dalla descrizione, utile da sapere prima di spendere tanto per mezz'ora.",
+  "highlights": [],
+  "included": [
+   "Volo in elicottero di trenta minuti sul percorso delle due torri\nBriefing di sicurezza pre-volo\nFino a quattro passeggeri su un aereo"
+  ],
+  "notIncluded": [
+   "Trasporto fino all'eliporto di Chiba Wangan\nFotografie dove a pagamento\nCibo e bevande\nRitiro e rientro in hotel"
+  ]
+ },
+ "tokyo-hop-on-hop-off-open-top-bus-ticket": {
+  "title": "Tokyo Hop-On Hop-Off a Cielo Aperto: Tre Percorsi, un Biglietto",
+  "metaTitle": "Tokyo: autobus hop-on hop-off a cielo aperto",
+  "metaDescription": "Viaggi illimitati su tre percorsi a cielo aperto che coprono Skytree, Asakusa, la Torre di Tokyo, Ginza, Shinjuku e Shibuya, con audioguida multilingue a bordo.",
+  "shortDescription": "Viaggi illimitati su tre percorsi a cielo aperto che coprono Skytree, Asakusa, la Torre di Tokyo, Ginza, Shinjuku e Shibuya, con audioguida multilingue a bordo.",
+  "fullDescription": "Tokyo e una citta difficile da cui farsi una panoramica. La metropolitana e eccellente e nasconde completamente la superficie, cosi potete passare una settimana qui muovendovi tra le stazioni senza mai vedere come si collegano i quartieri. Un autobus a cielo aperto risolve il problema in un pomeriggio.\n\nUn biglietto copre tutti e tre i percorsi e salite e discese illimitate. Il percorso di Skytree va verso est attraverso Kodemmacho, il quartiere del sumo di Ryogoku e il museo Edo-Tokyo fino a Skytree stessa, poi Asakusa, Ueno e Akihabara. Il percorso della Torre di Tokyo va verso sud oltre il Zojo-ji, attraverso la stazione Teleport di Odaiba e di ritorno attraverso Tsukiji e Ginza. Il percorso di Shinjuku e Shibuya copre il giardino Shinjuku Gyoen, le torri di Nishi-Shinjuku, Shibuya e il santuario Meiji. Tutti i tre partono e finiscono all'edificio Marunouchi Mitsubishi, pochi minuti dalla stazione di Tokyo.\n\nL'audioguida a bordo funziona in giapponese, inglese, coreano, cinese, francese, tedesco e spagnolo, anche se vale la pena sapere che un piccolo numero di autobus non ha il sistema montato a bordo. Un servizio navetta gratuito e incluso anche con il biglietto.\n\nIl caso pratico piu forte per questo e il primo giorno, prima che abbiate una mappa mentale della citta, oppure in una giornata in cui avete bagagli o gambe stanche e volete coprire terreno senza le scale che richiede la metropolitana. Il piano superiore e scoperto, quindi e un'esperienza molto migliore in primavera e in autunno che nell'umidita di agosto o nel vento di gennaio.\n\nIl biglietto per lo stesso giorno e sufficiente se pensate di fare uno o due percorsi. Il biglietto di due giorni costa circa la meta in piu e ha senso se intendete davvero scendere ed esplorare invece di fare solo i giri.",
+  "highlights": [],
+  "included": [
+   "Viaggio illimitato su tutti i tre percorsi a cielo aperto\nAudioguida a bordo in giapponese, inglese, coreano, cinese, francese, tedesco e spagnolo (non disponibile su un piccolo numero di autobus)\nServizio navetta gratuito"
+  ],
+  "notIncluded": [
+   "Trasferimenti da e per il vostro hotel\nIngressi alle attrazioni\nCibo e bevande"
+  ]
+ },
+ "tokyo-imperial-palace-east-gardens-guided-walk": {
+  "title": "Il Palazzo Imperiale a Piedi: Cancello Otemon, Rovine della Guardiola e Giardino Ninomaru",
+  "metaTitle": "Tokyo: palazzo imperiale a piedi",
+  "metaDescription": "Due ore nei terreni del castello di Edo con una guida: i cancelli, il torrione in rovina e il giardino, per circa quarantasei dollari.",
+  "shortDescription": "Due ore nei terreni del castello di Edo con una guida: i cancelli, il torrione in rovina e il giardino, per circa quarantasei dollari.",
+  "fullDescription": "I terreni del palazzo imperiale sono il centro di Tokyo e quasi nessuno capisce cosa stia guardando. Questo era il castello di Edo, la fortezza piu grande del mondo quando fu costruita, e la sede degli shogun Tokugawa per due secoli e mezzo. La citta crebbe verso l'esterno attorno a esso, ad anelli concentrici. Il palazzo divenne imperiale solo nel 1868, quando l'imperatore si trasferi da Kyoto e lo shogunato finì, e la residenza moderna si trova dentro mura costruite per uno scopo completamente diverso.\n\nLa camminata entra attraverso Otemon, il cancello principale, dove i signori daimyo entravano per presentarsi. Passate le rovine della guardiola, dove i vassalli aspettavano e dove si effettuavano i controlli su chi entrava, e fino alle fondamenta del grande torrione, una torre che brucio nel 1657 e non fu mai ricostruita, con la ragionevole motivazione che il paese era in pace e il denaro era meglio spenderlo altrove. Cio che resta e una piattaforma di pietra enorme con vista sui fossati e sulle torri moderne oltre.\n\nIl giardino Ninomaru chiude il percorso: un giardino ricostruito dell'epoca Edo, deliberatamente silenzioso, e uno dei pochi luoghi nel centro di Tokyo dove il traffico scompare del tutto.\n\nI gruppi arrivano a un massimo di dieci persone per guida e la guida lavora in inglese, con un'opzione in francese sullo stesso percorso. La vostra guida vi indichera gli angoli fotografici migliori se glielo chiedete. Non c'e un codice di abbigliamento e i tatuaggi vanno bene, cosa che vale la pena dire perche diversi siti giapponesi sono piu severi.\n\nL'incontro e al parco della fontana di Wadakura, cinque-dieci minuti a piedi dalla stazione di Tokyo o da Otemachi. Non e incluso nulla oltre alla guida, i terreni stessi sono liberi da visitare.",
+  "highlights": [],
+  "included": [
+   "Tour guidato a piedi dei terreni del palazzo imperiale\nPiccolo gruppo, massimo dieci ospiti per guida\nCancello Otemon, rovine della guardiola e giardino Ninomaru\nStorie del periodo Edo, dell'era dei samurai e della Tokyo moderna\nSuggerimenti sui punti fotografici su richiesta"
+  ],
+  "notIncluded": [
+   "Ritiro e rientro in hotel\nTrasporto fino al punto d'incontro\nCibo e bevande\nMance (opzionali)"
+  ]
+ },
+ "tokyo-mount-takao-hike-ramen-tattoo-friendly-onsen": {
+  "title": "Il Monte Takao in un Giorno: Funivia, Escursione alla Cima, Ramen di Hachioji e un Onsen che Accetta Tatuaggi",
+  "metaTitle": "Monte Takao in un giorno: escursione, ramen e onsen",
+  "metaDescription": "Una giornata per sette persone sulla montagna di Tokyo: parco delle scimmie, tempio di 1.300 anni, una vera escursione, ramen, e una fonte termale che accetta i tatuaggi.",
+  "shortDescription": "Una giornata per sette persone sulla montagna di Tokyo: parco delle scimmie, tempio di 1.300 anni, una vera escursione, ramen, e una fonte termale che accetta i tatuaggi.",
+  "fullDescription": "Il monte Takao e dentro Tokyo. Il treno da Shinjuku richiede meno di un'ora e vi porta ai piedi di una montagna di 599 metri coperta da una foresta antica, motivo per cui e la montagna piu scalata del mondo per numero di visitatori e il motivo per cui la maggior parte dei viaggiatori non ne ha mai sentito parlare.\n\nLa giornata e deliberatamente varia. Inizia al museo Takao 599, dove gli scoiattoli volanti, i tanuki, gli insetti e i funghi della montagna sono esposti per bene invece che come ripensamento. Poi la funivia o la seggiovia che sale attraverso la volta degli alberi, la seggiovia e la scelta migliore se non avete paura delle altezze, perche siete all'aperto con gli alberi che vi scorrono accanto.\n\nDa li e un'escursione moderata su un sentiero battuto fino alla cima, dove il Fuji e visibile nelle giornate limpide, e poi di nuovo in giu passando per Yakuo-in, un tempio buddista fondato nel 744 e ancora attivo, con santuari shintoisti intrecciati negli stessi terreni. Il parco delle scimmie lungo il percorso ospita oltre novanta macachi giapponesi.\n\nIl pranzo e ramen di Hachioji, lo stile locale, tagliato con cipolla cruda invece del solito cipollotto, con opzioni soba e vegetariane disponibili.\n\nLa giornata si conclude in una fonte termale naturale ai piedi della montagna, e questo e il dettaglio che vale la pena prenotare: accetta i tatuaggi, cosa che la maggior parte degli onsen giapponesi non fa. Chiunque abbia tatuaggi visibili viene regolarmente respinto altrove, quindi una giornata guidata che si conclude in un bagno in cui potete davvero entrare risolve un problema reale. Gli asciugamani sono inclusi.\n\nIl gruppo e limitato a sette persone. La vostra guida aspetta ai cancelli dei biglietti della stazione di Takaosanguchi con una palla da tennis gialla, facile da individuare come suona.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese per l'intera giornata\nIngresso al museo Takao 599\nIngresso al parco delle scimmie\nFunivia o seggiovia su per la montagna\nPranzo di ramen di Hachioji, con opzioni soba e vegetariane\nVisita alla fonte termale naturale\nAsciugamani per la fonte termale"
+  ],
+  "notIncluded": [
+   "Trasporto da e per la stazione di Takaosanguchi\nCibo e bevande aggiuntivi\nRitiro e rientro in hotel"
+  ]
+ },
+ "tokyo-nerikiri-wagashi-making-and-tea-ceremony": {
+  "title": "Preparate il Nerikiri Wagashi e Bevete il Matcha di Uji: una Cerimonia del Te a Kanda",
+  "metaTitle": "Kanda: nerikiri wagashi e cerimonia del te",
+  "metaDescription": "Colorate e scolpite i vostri dolci nerikiri dalla pasta di fagioli di Kyoto, poi frullate e bevete il matcha di Uji insieme a essi, a meno di ventitre dollari.",
+  "shortDescription": "Colorate e scolpite i vostri dolci nerikiri dalla pasta di fagioli di Kyoto, poi frullate e bevete il matcha di Uji insieme a essi, a meno di ventitre dollari.",
+  "fullDescription": "Il nerikiri e la vetta della pasticceria giapponese: pasta di fagioli bianchi dolcificata, colorata a mano e scolpita in forme stagionali, una camelia in inverno, una foglia d'acero in autunno, un crisantemo nel mezzo. E fatto per essere mangiato con il matcha, perche la dolcezza e calibrata contro l'amarezza del te e nessuno dei due funziona bene da solo.\n\nIn novantacinque minuti ne preparate due e poi bevete il te per cui sono stati pensati. La sessione inizia con la colorazione, dove avvengono le decisioni creative, mescolate le vostre tonalita nella pasta bianca, e passa poi alla modellazione, usando i piccoli strumenti di legno che danno al nerikiri i suoi caratteristici petali solcati. La pasta di fagioli proviene da produttori di lunga tradizione di Kyoto, un dettaglio di cui l'operatore non avrebbe dovuto preoccuparsi.\n\nSegue la cerimonia del te. Preparate voi stessi il matcha di Uji, Uji, a sud di Kyoto, fornisce il miglior te verde del Giappone da ottocento anni, e lo bevete con i dolci che avete appena fatto. Farlo in quell'ordine e il punto: capite perche il dolce e cosi dolce solo quando il matcha arriva.\n\nA questo prezzo e una delle esperienze culturali col miglior rapporto qualita-prezzo nel centro di Tokyo, e il locale si trova a Kanda, pochi minuti da Akihabara e dalla stazione di Tokyo. L'istruzione e in giapponese con il processo dimostrato passo dopo passo, il che funziona bene per una sessione artigianale pratica ma vale la pena saperlo in anticipo.\n\nDue piccoli extra vengono fatturati separatamente se li volete: una scatola da asporto per i dolci, e un certificato di completamento. Se volete il vostro nome sul certificato, comunicatelo al momento della prenotazione.",
+  "highlights": [],
+  "included": [
+   "Sessione di preparazione del nerikiri wagashi con tutti gli ingredienti\nPasta di fagioli bianchi e rossi fatta a Kyoto\nCerimonia del te con matcha di Uji\nI dolci che preparate e il te che fate voi stessi"
+  ],
+  "notIncluded": [
+   "Scatola da asporto per i dolci (a pagamento sul posto)\nCertificato di completamento dell'esperienza (a pagamento sul posto)\nRitiro e rientro in hotel"
+  ]
+ },
+ "tokyo-night-photo-tour-shibuya-sky-shinjuku": {
+  "title": "Tokyo di Notte con un Fotografo: Shibuya Sky all'Ora Dorata, poi il Neon di Shinjuku",
+  "metaTitle": "Tokyo di notte: Shibuya Sky e il neon di Shinjuku",
+  "metaDescription": "Tre ore attraverso i due volti notturni di Tokyo: la terrazza panoramica al tramonto e i vicoli al neon di Kabukicho, con una guida che vi fotografa durante tutto il percorso.",
+  "shortDescription": "Tre ore attraverso i due volti notturni di Tokyo: la terrazza panoramica al tramonto e i vicoli al neon di Kabukicho, con una guida che vi fotografa durante tutto il percorso.",
+  "fullDescription": "Tokyo di notte sono due citta completamente diverse e questa serata copre entrambe, deliberatamente nell'ordine giusto. Risolve anche il problema che ha ogni viaggiatore qui: tornate a casa con fotografie della citta e nessuna di voi stessi dentro di essa, perche non c'era nessuno a scattarle.\n\nLa prima meta e l'altezza. Shibuya Sky e una terrazza all'aperto a 230 metri, e il biglietto con orario prenotato e incluso, il che conta perche gli slot si esauriscono giorni prima in alta stagione. Arrivate per l'ora dorata e restate fino al passaggio, il sole che scende dietro lo skyline, poi la griglia che si illumina sotto di voi, con il monte Fuji visibile nelle serate invernali limpide. La guida sa dove posizionarsi sulla terrazza mentre la luce passa dall'oro al blu, e vi fotografa mentre guardate.\n\nLa seconda meta e a livello strada, e il contrasto e il punto. Un breve tragitto verso Shinjuku vi porta a Kabukicho, dove il neon e denso abbastanza da leggerci, oltre la testa di Godzilla sopra l'edificio Toho, e dentro Omoide Yokocho, un ammasso di vicoli sopravvissuti appena larghi per due persone, fiancheggiati da piccoli bar alla griglia e densi di fumo di yakitori. E la Tokyo piu antica che le torri hanno sostituito ovunque altrove, e si fotografa meglio di qualsiasi altro luogo della citta.\n\nLa guida e un locale che percorre questo stesso itinerario abbastanza spesso da sapere quali angoli mantengono la luce e quali vengono bloccati dai camion di consegna alle nove. Il gruppo e limitato a quindici persone. Cibo, bevande e trasporto tra i quartieri non sono inclusi, quindi portate una tessera per i trasporti e del contante se volete fermarvi per uno spiedino, e la maggior parte lo fa.",
+  "highlights": [],
+  "included": [
+   "Biglietto con orario prenotato per Shibuya Sky\nGuida locale di lingua inglese\nFotografie di voi scattate durante tutta la serata\nPercorso guidato attraverso Shibuya e Shinjuku"
+  ],
+  "notIncluded": [
+   "Cibo e bevande\nTrasporto tra i quartieri\nTariffe di ingresso non elencate sopra\nRitiro e rientro in hotel"
+  ]
+ },
  "yoichi-fruit-picking-nikka-distillery-shakotan-coast": {
   "title": "Raccolta frutta a Yoichi, la distilleria Nikka e la costa di Shakotan",
   "metaTitle": "Raccolta frutta, distilleria Nikka e costa di Shakotan",
