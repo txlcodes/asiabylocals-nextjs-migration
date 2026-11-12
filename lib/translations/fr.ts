@@ -258144,6 +258144,26 @@ export const FR_CITIES: Record<string, CityT> = {
   "title": "Visites de Hô Chi Minh-Ville avec des guides locaux : Cu Chi, Mékong et cuisine de rue",
   "description": "Tunnels de Cu Chi, delta du Mékong, musée des Vestiges de la guerre et tournées gourmandes à moto, réservés directement auprès d'opérateurs locaux vérifiés."
  },
+ "country:japan": {
+  "title": "Japon : visites guidées et excursions avec des opérateurs locaux vérifiés",
+  "description": "Tokyo, Kyoto, Osaka et les excursions d'une journée depuis les ports de croisière : des centaines de visites réservées directement auprès d'opérateurs locaux vérifiés, avec confirmation sur WhatsApp."
+ },
+ "country:uae": {
+  "title": "Émirats arabes unis : visites guidées et excursions avec des opérateurs locaux vérifiés",
+  "description": "Dubaï, Abou Dabi et safaris dans le désert : des centaines de visites réservées directement auprès d'opérateurs locaux vérifiés, avec confirmation sur WhatsApp."
+ },
+ "country:indonesia": {
+  "title": "Indonésie : visites guidées et excursions avec des opérateurs locaux vérifiés",
+  "description": "Bali, Ubud et les îles environnantes : des centaines de visites réservées directement auprès d'opérateurs locaux vérifiés, avec confirmation sur WhatsApp."
+ },
+ "country:sri-lanka": {
+  "title": "Sri Lanka : visites guidées et excursions avec des opérateurs locaux vérifiés",
+  "description": "Colombo, Kandy, Ella et les parcs nationaux de safari : des centaines de visites réservées directement auprès d'opérateurs locaux vérifiés, avec confirmation sur WhatsApp."
+ },
+ "country:cambodia": {
+  "title": "Cambodge : visites guidées et excursions avec des opérateurs locaux vérifiés",
+  "description": "Angkor Wat, Siem Reap et Phnom Penh : des centaines de visites réservées directement auprès d'opérateurs locaux vérifiés, avec confirmation sur WhatsApp."
+ },
  "agra": {
   "title": "Visites et guides officiels à Agra : Taj Mahal, fort d'Agra, Fatehpur Sikri",
   "description": "Réservez des visites d'Agra directement auprès d'opérateurs locaux vérifiés : guides officiels du Taj Mahal, billets coupe-file, lever du soleil, excursions depuis Delhi. Sans intermédiaire."

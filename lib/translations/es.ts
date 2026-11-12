@@ -258144,6 +258144,26 @@ export const ES_CITIES: Record<string, CityT> = {
   "title": "Tours por Ciudad Ho Chi Minh con guías locales: Cu Chi, Mekong y comida callejera",
   "description": "Los túneles de Cu Chi, el delta del Mekong, el Museo de los Vestigios de la Guerra y rutas gastronómicas nocturnas en moto, reservados directamente con operadores locales verificados."
  },
+ "country:japan": {
+  "title": "Japón: visitas guiadas y excursiones con operadores locales verificados",
+  "description": "Tokio, Kioto, Osaka y las excursiones de un día desde los puertos de crucero: cientos de visitas reservadas directamente con operadores locales verificados, con confirmación por WhatsApp."
+ },
+ "country:uae": {
+  "title": "Emiratos Árabes Unidos: visitas guiadas y excursiones con operadores locales verificados",
+  "description": "Dubái, Abu Dabi y safaris por el desierto: cientos de visitas reservadas directamente con operadores locales verificados, con confirmación por WhatsApp."
+ },
+ "country:indonesia": {
+  "title": "Indonesia: visitas guiadas y excursiones con operadores locales verificados",
+  "description": "Bali, Ubud y las islas de los alrededores: cientos de visitas reservadas directamente con operadores locales verificados, con confirmación por WhatsApp."
+ },
+ "country:sri-lanka": {
+  "title": "Sri Lanka: visitas guiadas y excursiones con operadores locales verificados",
+  "description": "Colombo, Kandy, Ella y los parques nacionales de safari: cientos de visitas reservadas directamente con operadores locales verificados, con confirmación por WhatsApp."
+ },
+ "country:cambodia": {
+  "title": "Camboya: visitas guiadas y excursiones con operadores locales verificados",
+  "description": "Angkor Wat, Siem Reap y Phnom Penh: cientos de visitas reservadas directamente con operadores locales verificados, con confirmación por WhatsApp."
+ },
  "agra": {
   "title": "Visitas y guías oficiales en Agra: Taj Mahal, Fuerte de Agra, Fatehpur Sikri",
   "description": "Reserva visitas en Agra directamente con operadores locales verificados: guías oficiales del Taj Mahal, entradas sin colas, amanecer, excursiones desde Delhi. Sin intermediarios."

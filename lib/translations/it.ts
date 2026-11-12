@@ -64900,5 +64900,38 @@ export const IT_TOURS: Record<string, TourT> = {
  }
 };
 export const IT_PAGES: Record<string, PageT> = {};
-export const IT_CITIES: Record<string, CityT> = {};
+export const IT_CITIES: Record<string, CityT> = {
+ "country:india": {
+  "title": "India: tour guidati ed escursioni con operatori locali verificati",
+  "description": "Taj Mahal, Rajasthan, Delhi, Mumbai e molto altro: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
+ },
+ "country:thailand": {
+  "title": "Thailandia: tour guidati ed escursioni con operatori locali verificati",
+  "description": "Bangkok, Phuket, Krabi, Chiang Mai e Pattaya: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
+ },
+ "country:vietnam": {
+  "title": "Vietnam: tour guidati ed escursioni con operatori locali verificati",
+  "description": "Hanoi, la baia di Ha Long, Sapa, Hoi An, Da Nang e Ho Chi Minh City: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
+ },
+ "country:japan": {
+  "title": "Giappone: tour guidati ed escursioni con operatori locali verificati",
+  "description": "Tokyo, Kyoto, Osaka e le escursioni di un giorno dai porti delle crociere: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
+ },
+ "country:uae": {
+  "title": "Emirati Arabi Uniti: tour guidati ed escursioni con operatori locali verificati",
+  "description": "Dubai, Abu Dhabi e safari nel deserto: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
+ },
+ "country:indonesia": {
+  "title": "Indonesia: tour guidati ed escursioni con operatori locali verificati",
+  "description": "Bali, Ubud e le isole circostanti: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
+ },
+ "country:sri-lanka": {
+  "title": "Sri Lanka: tour guidati ed escursioni con operatori locali verificati",
+  "description": "Colombo, Kandy, Ella e i parchi nazionali per i safari: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
+ },
+ "country:cambodia": {
+  "title": "Cambogia: tour guidati ed escursioni con operatori locali verificati",
+  "description": "Angkor Wat, Siem Reap e Phnom Penh: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
+ }
+};
 export const IT_ITINERARIES: Record<string, ItineraryT> = {};

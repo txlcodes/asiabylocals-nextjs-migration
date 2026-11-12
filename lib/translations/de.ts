@@ -258143,6 +258143,26 @@ export const DE_CITIES: Record<string, CityT> = {
   "title": "Touren in Ho-Chi-Minh-Stadt mit einheimischen Guides: Cu Chi, Mekong und Streetfood",
   "description": "Die Tunnel von Cu Chi, das Mekong-Delta, das Kriegsopfermuseum und abendliche Food-Touren per Motorrad, direkt bei geprüften lokalen Anbietern gebucht."
  },
+ "country:japan": {
+  "title": "Japan: geführte Touren und Ausflüge mit geprüften lokalen Veranstaltern",
+  "description": "Tokio, Kyoto, Osaka und Tagesausflüge ab den Kreuzfahrthäfen: Hunderte Touren direkt bei geprüften lokalen Veranstaltern gebucht, Bestätigung per WhatsApp."
+ },
+ "country:uae": {
+  "title": "Vereinigte Arabische Emirate: geführte Touren und Ausflüge mit geprüften lokalen Veranstaltern",
+  "description": "Dubai, Abu Dhabi und Wüstensafaris: Hunderte Touren direkt bei geprüften lokalen Veranstaltern gebucht, Bestätigung per WhatsApp."
+ },
+ "country:indonesia": {
+  "title": "Indonesien: geführte Touren und Ausflüge mit geprüften lokalen Veranstaltern",
+  "description": "Bali, Ubud und die umliegenden Inseln: Hunderte Touren direkt bei geprüften lokalen Veranstaltern gebucht, Bestätigung per WhatsApp."
+ },
+ "country:sri-lanka": {
+  "title": "Sri Lanka: geführte Touren und Ausflüge mit geprüften lokalen Veranstaltern",
+  "description": "Colombo, Kandy, Ella und die Safari-Nationalparks: Hunderte Touren direkt bei geprüften lokalen Veranstaltern gebucht, Bestätigung per WhatsApp."
+ },
+ "country:cambodia": {
+  "title": "Kambodscha: geführte Touren und Ausflüge mit geprüften lokalen Veranstaltern",
+  "description": "Angkor Wat, Siem Reap und Phnom Penh: Hunderte Touren direkt bei geprüften lokalen Veranstaltern gebucht, Bestätigung per WhatsApp."
+ },
  "agra": {
   "title": "Touren und offizielle Guides in Agra: Taj Mahal, Rotes Fort, Fatehpur Sikri",
   "description": "Buchen Sie Agra-Touren direkt bei geprüften lokalen Veranstaltern: offizielle Taj Mahal Guides, Tickets ohne Anstehen, Sonnenaufgang, Tagestouren ab Delhi. Ohne Zwischenhändler."
