@@ -127,7 +127,8 @@ export const DELHI_INFO_SLUGS = [
   'should-i-book-delhi-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-delhi',
   // Tour-selling pages (2026-11-10)
-  'best-old-delhi-tour', 'best-india-gate-tour', 'best-qutub-minar-tour'
+  'best-old-delhi-tour', 'best-india-gate-tour', 'best-qutub-minar-tour',
+  'best-akshardham-temple-tour-delhi'
 ];
 
 export const JAIPUR_INFO_SLUGS = [
@@ -153,7 +154,8 @@ export const JAIPUR_INFO_SLUGS = [
   'should-i-book-jaipur-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-jaipur',
   // Tour-selling pages (2026-11-10)
-  'best-amber-fort-tour-jaipur', 'best-hawa-mahal-tour-jaipur', 'best-jaipur-shopping-tour'
+  'best-amber-fort-tour-jaipur', 'best-hawa-mahal-tour-jaipur', 'best-jaipur-shopping-tour',
+  'best-nahargarh-fort-tour-jaipur'
 ];
 
 export const PHUKET_INFO_SLUGS = [
@@ -376,6 +378,18 @@ export const MALE_INFO_SLUGS = [
   'best-tours-in-male',
   'should-i-book-male-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-male',
+];
+
+// Uzbekistan GEO pages (2026-11-12) — first info-content pages for this
+// country; 662 live tours existed across 6 cities with zero info pages.
+export const SAMARKAND_INFO_SLUGS = [
+  'best-tours-in-samarkand',
+  'best-registan-walking-tour-samarkand',
+];
+
+export const TASHKENT_INFO_SLUGS = [
+  'best-tours-in-tashkent',
+  'best-chimgan-mountain-tour-tashkent',
 ];
 
 export const MANILA_INFO_SLUGS = [

@@ -1416,6 +1416,61 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-nahargarh-fort-tour-jaipur":
+      return {
+        title: "Which Is the Best Nahargarh Fort Tour in Jaipur?",
+        seoTitle: "Best Nahargarh Fort Tour Jaipur 2026 | Honest Comparison",
+        description: "Compare real Nahargarh Fort tours in Jaipur — from an $11 full-day combo with Amer Fort to a dedicated sunset tour, a tuk-tuk circuit, and a jeep heritage trail.",
+        heroImage: 'https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-with-a-women-driven-e/img0/1600.webp',
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nahargarh Fort sits on a ridge above Jaipur and is best known for its sunset view over the whole Pink City — most visitors go specifically for that view, not the fort's interiors, so timing matters more here than at most monuments. Tours split between pairing it with Amer Fort as a combined sightseeing day, or treating it as a standalone sunset trip with dinner or a rooftop stop.",
+            tourCard: { slug: "jaipur-nahargarh-fort-sunset-pink-city-night-tour", title: "Jaipur Nahargarh Fort Sunset & Pink City Night Tour", description: "A dedicated sunset-timed visit built around the fort's main draw — the view.", price: "From $40", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-nahargarh-fort-sunset-pink-city-night-tour/img0/1600.webp" },
+          },
+          {
+            title: "Cheapest: Combined with Amer Fort",
+            content: "If you want to see both of Jaipur's major forts in one trip without paying for two separate bookings, this combo pairs Amer Fort's interior visit during the day with a sunset stop at Nahargarh to close out the day.",
+            tourCard: { slug: "jaipur-full-day-tour-with-amer-fort-and-nahargarh", title: "Jaipur: Full-Day Tour with Amer Fort and Nahargarh Sunset", description: "The cheapest way to see both forts, timed so Nahargarh is the sunset finale.", price: "From $11", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-full-day-tour-with-amer-fort-and-nahargarh/img0/1600.webp" },
+          },
+          {
+            title: "If You Want a Quirky Ride: Tuk-Tuk Circuit",
+            content: "A tuk-tuk tour covering both Nahargarh and Jaigarh Forts is a more relaxed, open-air way to see the hilltop forts than a standard car tour, and tends to feel more local given how most Jaipur residents actually get around the old city.",
+            tourCard: { slug: "jaipur-4-hours-nahargarh-and-jaigarh-forts-tuk", title: "Jaipur: 4 Hours Nahargarh and Jaigarh Forts Tuk-Tuk Tour", description: "An open-air tuk-tuk ride covering two hilltop forts.", price: "From $21", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-4-hours-nahargarh-and-jaigarh-forts-tuk/img0/1600.webp" },
+          },
+          {
+            title: "If You Want Evening Ambience Without the Full Day",
+            content: "This evening-only version skips the full-day commitment and focuses purely on Amer and Nahargarh at sunset — a better fit if you've already explored Jaipur's city sights and just want the two forts at golden hour.",
+            tourCard: { slug: "evening-fort-tour-amer-nahargarh-at-sunset", title: "Evening Fort Tour: Amer & Nahargarh at Sunset", description: "A shorter evening-only visit to both forts, timed for the sunset view.", price: "From $63", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/evening-fort-tour-amer-nahargarh-at-sunset/img0/1600.webp" },
+          },
+          {
+            title: "If You Want the Full Heritage Trail: Jeep Tour",
+            content: "For travellers who want to go deeper than the two headline forts, this jeep tour adds a stepwell and Jaigarh Fort to the circuit, covering four heritage sites in one open-vehicle trip.",
+            tourCard: { slug: "jaipur-stepwell-amber-jaigarh-nahargarh-forts-by-j", title: "Jaipur: Stepwell, Amber, Jaigarh, Nahargarh Forts by Jeep", description: "A four-site heritage circuit by open jeep, for travellers who want more than the main two forts.", price: "From $24", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-stepwell-amber-jaigarh-nahargarh-forts-by-j/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Arrive at Nahargarh at least 30-45 minutes before sunset to find a good spot along the ramparts — it gets crowded right at golden hour. If a sunset view is your main reason for going, confirm your tour's timing is actually built around it rather than just passing through at midday.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best Nahargarh Fort tour in Jaipur?", a: "A combined Amer Fort and Nahargarh sunset tour suits most visitors; a dedicated sunset-only tour works if you've already seen Amer Fort separately." },
+          { q: "Why do people visit Nahargarh Fort at sunset?", a: "The fort sits on a ridge overlooking all of Jaipur, and the sunset view over the Pink City is its main draw rather than the fort's interiors." },
+          { q: "Can Nahargarh Fort be combined with other sites?", a: "Yes — common pairings include Amer Fort, Jaigarh Fort, and heritage stepwells on jeep or tuk-tuk circuits." },
+          { q: "How early should I arrive at Nahargarh for sunset?", a: "30-45 minutes before sunset to get a good spot along the ramparts before it gets crowded." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best Nahargarh Fort tour in Jaipur?", "acceptedAnswer": { "@type": "Answer", "text": "A combined Amer Fort and Nahargarh sunset tour suits most visitors." } },
+            { "@type": "Question", "name": "Why do people visit Nahargarh Fort at sunset?", "acceptedAnswer": { "@type": "Answer", "text": "The fort overlooks all of Jaipur, and the sunset view is its main draw." } },
+            { "@type": "Question", "name": "Can Nahargarh Fort be combined with other sites?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Amer Fort, Jaigarh Fort, and heritage stepwells are common pairings." } },
+            { "@type": "Question", "name": "How early should I arrive at Nahargarh for sunset?", "acceptedAnswer": { "@type": "Answer", "text": "30-45 minutes before sunset for a good spot along the ramparts." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }

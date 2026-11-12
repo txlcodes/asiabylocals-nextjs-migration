@@ -43,6 +43,7 @@ import { getDelhiInfoContent } from './delhiInfoContent';
 import { getAgraJaipurInfoContent } from './agraJaipurInfoContent';
 import { getAgraBestInfoContent } from './agraBestInfoContent';
 import { getJaipurDelhiMoreInfoContent } from './jaipurDelhiMoreInfoContent';
+import { getUzbekistanInfoContent } from './uzbekistanInfoContent';
 
 export interface CityInfoData {
     /** On-page H1. Can be long and descriptive. */
@@ -65,6 +66,9 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
     // Delhi's own file, added 2026-09 when the city went from 7 pages to 13.
     const jaipurDelhiMorePage = getJaipurDelhiMoreInfoContent(slug);
     if (jaipurDelhiMorePage) return jaipurDelhiMorePage;
+
+    const uzbekistanPage = getUzbekistanInfoContent(slug);
+    if (uzbekistanPage) return uzbekistanPage;
 
     const agraJaipurPage = getAgraJaipurInfoContent(slug);
     if (agraJaipurPage) return agraJaipurPage;

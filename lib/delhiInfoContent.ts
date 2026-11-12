@@ -1055,6 +1055,61 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-akshardham-temple-tour-delhi":
+      return {
+        title: "Which Is the Best Akshardham Temple Tour in Delhi?",
+        seoTitle: "Best Akshardham Temple Tour Delhi 2026 | Honest Comparison",
+        description: "Compare real Akshardham Temple tours in Delhi — from an $10 budget light-show ticket to private combo tours with Lotus Temple, Red Fort, or a full Delhi day trip.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-old-delhi-private-shopping-tour-with-local/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Akshardham Temple's evening water-and-light show is one of Delhi's most popular attractions, and prices for seeing it range from around $10 for a basic ticket-plus-transfer to $70+ for a guided, pick-up-included experience. The temple itself doesn't charge for general entry, so most of the price difference comes down to transfer convenience, whether a guide explains the exhibitions inside, and what else gets bundled in around it.",
+            tourCard: { slug: "delhi-akshardham-temple-tour-with-light-and-water-", title: "Delhi: Akshardham Temple Tour with Light and Water Show", description: "A standard, well-reviewed way to see the temple and its evening water-and-light show.", price: "From $34", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-akshardham-temple-tour-with-light-and-water-/img0/1600.webp" },
+          },
+          {
+            title: "Cheapest: Basic Light Show Ticket",
+            content: "If you just want the evening water-and-light show and a ride there and back, this is the cheapest entry point — no guide, no extra stops, just the show itself.",
+            tourCard: { slug: "delhi-akshardham-light-water-show-private-tour-w", title: "Delhi: Akshardham Light & Water Show Private Tour w/ Options", description: "The most budget-friendly way to see the evening show with simple transport.", price: "From $10", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-akshardham-light-water-show-private-tour-w/img0/1600.webp" },
+          },
+          {
+            title: "If You Want It Explained: Guided with Pickup",
+            content: "A guided version with hotel pickup/drop-off adds someone to walk you through the exhibitions and the temple's symbolism, which matters here more than at most monuments — Akshardham's carvings and halls have a lot of detail a self-guided visit easily misses.",
+            tourCard: { slug: "guided-akshardham-light-fountain-show-with-pick", title: "Guided Akshardham Light & Fountain Show with Pick-up & Drop", description: "A guided visit with door-to-door transport and context on what you're seeing.", price: "From $71", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/guided-akshardham-light-fountain-show-with-pick/img0/1600.webp" },
+          },
+          {
+            title: "If You Want to Combine Temples: Lotus + Akshardham",
+            content: "Delhi's Lotus Temple and Akshardham sit reasonably close together, and both reward a quiet, unhurried visit — this combo pairs them in one afternoon so you're not making two separate trips across the city.",
+            tourCard: { slug: "delhi-private-city-tour-with-lotus-and-akshardham", title: "Delhi: Private City Tour with Lotus and Akshardham Temple", description: "A private half-day pairing two of Delhi's most visited modern temples.", price: "From $21", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-private-city-tour-with-lotus-and-akshardham/img0/1600.webp" },
+          },
+          {
+            title: "If You Want a Fuller Day: Old & New Delhi Combo",
+            content: "For travellers who want Akshardham folded into a broader Delhi sightseeing day rather than a standalone trip, this combines the evening show with stops across Old and New Delhi earlier in the day.",
+            tourCard: { slug: "akshardham-water-light-show-with-old-new-delhi", title: "Akshardham Water & Light Show With Old & New Delhi Tour", description: "A full day of Delhi sightseeing that ends with the Akshardham evening show.", price: "From $44", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/akshardham-water-light-show-with-old-new-delhi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Akshardham doesn't allow cameras, phones, or bags inside — most tours mention this, but confirm it before you go so you're not caught off guard at security. The water-and-light show runs in the evening and tickets for it are separate from general temple entry, so check whether your tour's price already includes the show ticket or just the transport.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best Akshardham Temple tour in Delhi?", a: "A standard guided tour with the evening water-and-light show suits most visitors; a basic ticket-plus-transfer option works if you just want the show itself." },
+          { q: "Is Akshardham Temple entry free?", a: "General temple entry is free — most tour prices cover transport, a guide, and the evening water-and-light show ticket, which is separate." },
+          { q: "Can I combine Akshardham with other Delhi sights?", a: "Yes — common pairings include Lotus Temple, Red Fort, India Gate, and a full Old & New Delhi day tour." },
+          { q: "What can't I bring into Akshardham Temple?", a: "Cameras, phones, and bags are not allowed inside — confirm with your tour operator before you go." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "What is the best Akshardham Temple tour in Delhi?", "acceptedAnswer": { "@type": "Answer", "text": "A standard guided tour with the evening water-and-light show suits most visitors." } },
+            { "@type": "Question", "name": "Is Akshardham Temple entry free?", "acceptedAnswer": { "@type": "Answer", "text": "General temple entry is free; tour prices cover transport, guiding, and the separate light-show ticket." } },
+            { "@type": "Question", "name": "Can I combine Akshardham with other Delhi sights?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Lotus Temple, Red Fort, India Gate, and full Delhi day tours are common pairings." } },
+            { "@type": "Question", "name": "What can't I bring into Akshardham Temple?", "acceptedAnswer": { "@type": "Answer", "text": "Cameras, phones, and bags are not allowed inside." } },
+          ],
+        },
+      };
+
     default:
       return null;
   }
