@@ -1275,6 +1275,131 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        case "best-kilim-geoforest-mangrove-tour-langkawi":
+            return {
+                title: "Which Is the Best Kilim Geoforest Mangrove Tour in Langkawi?",
+                seoTitle: "Best Kilim Mangrove Tour Langkawi 2026 | Honest Comparison",
+                description: "Compare real Kilim Geoforest mangrove tours in Langkawi — from a $17 quick private boat ride to eagle-watching, night safaris with BBQ dinner, and a premium sundowner cruise.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/33bbef5b34f4c024e67c11e1399f31c341f0a75f550209d64fcb1551973bf474.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Kilim Geoforest Park's mangrove waterways, limestone cliffs and resident eagles make it Langkawi's single most popular tour category by volume — there are dozens of versions on the market, but they boil down to a handful of real differences: shared vs. private boat, daytime vs. golden-hour/night, and whether food is included. A standard shared mangrove tour with eagle watching is the right default for most first-timers.",
+                        tourCard: { slug: "langkawi-kilim-geopark-mangrove-tour-with-eagle", title: "Langkawi: Kilim Geopark Mangrove Tour with Eagle Watching", description: "The standard shared mangrove tour covering Kilim Geoforest Park and its resident eagles.", price: "From $33", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/33bbef5b34f4c024e67c11e1399f31c341f0a75f550209d64fcb1551973bf474.jpg" },
+                    },
+                    {
+                        title: "Cheapest: Quick Private Boat Tour",
+                        content: "This is the lowest-priced way to get onto the mangroves, a short private boat ride that still covers the park's main sights in a single compact hour.",
+                        tourCard: { slug: "langkawi-1-hour-private-mangrove-kilim-geoforest", title: "Langkawi: 1 Hour Private Mangrove Kilim Geoforest Boat Tour", description: "The most budget-friendly private mangrove boat tour available.", price: "From $17", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1268435/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Budget Shared Option",
+                        content: "This shared river cruise covers the mangroves at a slightly longer duration than the cheapest private option, splitting the boat with other travellers to keep the price down.",
+                        tourCard: { slug: "langkawi-3-hour-shared-mangrove-river-cruise", title: "Langkawi: 3-Hour Shared Mangrove River Cruise", description: "A budget shared cruise through the Kilim mangroves.", price: "From $31", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7eaad093f7bae6b9eeee36d3f5f2e1cd5c9183a91f4fa2a4f345144a9e14fd48.jpg" },
+                    },
+                    {
+                        title: "Best for Golden Hour: Kayaking",
+                        content: "Paddling the mangroves by kayak at golden hour gets you into narrower channels a motorboat can't reach, with better light for photos than the standard midday departure times.",
+                        tourCard: { slug: "langkawi-golden-hour-mangrove-kayaking", title: "Langkawi: Golden Hour Mangrove Kayaking", description: "A kayaking tour timed for the best light and quietest water.", price: "From $119", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/29faec0ef9da339eff118a73bdcd3b0ca0735123d1f77593f3187547440db934.jpg" },
+                    },
+                    {
+                        title: "Best at Night: Safari with BBQ Dinner",
+                        content: "Kilim's mangroves come alive differently after dark — fireflies, nocturnal wildlife, and a completely different atmosphere — and this version pairs the night safari with a full BBQ dinner, making it a complete evening out rather than just a boat ride.",
+                        tourCard: { slug: "langkawi-mangrove-night-safari-with-bbq-dinner", title: "Langkawi: Mangrove Night Safari with BBQ Dinner", description: "A night safari through the mangroves with a BBQ dinner included.", price: "From $88", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1342289/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Premium Option: Private Sundowner Cruise",
+                        content: "This is the top-end version — a private sundowner cruise with a dedicated nature guide, for travellers who want an intimate, unhurried experience rather than sharing the boat with a group.",
+                        tourCard: { slug: "langkawi-private-sundowner-mangrove-cruise-nature", title: "Langkawi: Private Sundowner Mangrove Cruise & Nature Guide", description: "A premium private sunset cruise with a dedicated nature guide.", price: "From $582", duration: "3.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1296295/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Bring a hat and sunscreen for daytime tours — there's very little shade once you're out on the water. Eagle-feeding happens on most daytime tours but isn't always guaranteed; ask your operator if it's a confirmed stop rather than a possibility."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Kilim mangrove tour in Langkawi?", a: "A standard shared tour with eagle watching suits most first-timers; go private or try a night safari for a different experience." },
+                    { q: "What's the cheapest Kilim mangrove tour?", a: "A 1-hour private boat tour is the lowest-priced option, covering the park's main sights in a compact trip." },
+                    { q: "Is a night mangrove safari worth it?", a: "Yes, as a genuinely different experience from the daytime tour — fireflies and nocturnal wildlife, often paired with a BBQ dinner." },
+                    { q: "Is eagle feeding guaranteed on Kilim mangrove tours?", a: "It's common on daytime tours but not always guaranteed — confirm with your operator before booking if it matters to you." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Kilim mangrove tour in Langkawi?", "acceptedAnswer": { "@type": "Answer", "text": "A standard shared tour with eagle watching suits most first-timers." } },
+                        { "@type": "Question", "name": "What's the cheapest Kilim mangrove tour?", "acceptedAnswer": { "@type": "Answer", "text": "A 1-hour private boat tour is the lowest-priced option." } },
+                        { "@type": "Question", "name": "Is a night mangrove safari worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — fireflies and nocturnal wildlife, often with a BBQ dinner." } },
+                        { "@type": "Question", "name": "Is eagle feeding guaranteed on Kilim mangrove tours?", "acceptedAnswer": { "@type": "Answer", "text": "Common but not always guaranteed — confirm with your operator." } }
+                    ]
+                },
+            };
+
+        case "best-island-hopping-tour-langkawi":
+            return {
+                title: "Which Is the Best Island Hopping Tour in Langkawi?",
+                seoTitle: "Best Island Hopping Tour Langkawi 2026 | Honest Comparison",
+                description: "Compare real island hopping tours in Langkawi — from a $23 shared boat with eagle feeding to jet-ski adventures, snorkeling combos, and a full SkyCab/SkyBridge day trip.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-723708/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Langkawi's island hopping tours typically visit three stops: Pulau Dayang Bunting (the Pregnant Maiden Lake), Pulau Beras Basah for beach time, and a stop for eagle feeding — but how you get between them (shared boat vs. jet ski) and what gets added (snorkeling, fishing, SkyCab) varies a lot. A shared boat tour is the standard, budget-friendly way to do all three stops.",
+                        tourCard: { slug: "langkawi-island-hopping-shared-or-private-boat", title: "Langkawi: Island Hopping Shared Boat Tour with Eagle Feeding", description: "The standard shared island hopping tour covering Langkawi's three classic stops.", price: "From $23", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-723708/img0/1600.webp" },
+                    },
+                    {
+                        title: "Cheapest: Shared Boat with Eagle Feeding",
+                        content: "This is the lowest-priced way to see Langkawi's main islands, including the eagle-feeding stop that's one of the category's biggest draws.",
+                        tourCard: { slug: "langkawi-island-hopping-shared-or-private-boat", title: "Langkawi: Island Hopping Shared Boat Tour with Eagle Feeding", description: "The most budget-friendly island hopping option with eagle feeding included.", price: "From $23", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-723708/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Focused Trip: Pregnant Maiden Lake",
+                        content: "If you mainly want the Pregnant Maiden Lake's dramatic limestone-cliff scenery without the full multi-stop circuit, this focused version gets you there without the extra stops padding out the day.",
+                        tourCard: { slug: "langkawi-island-hopping-pregnant-maiden-lake-tour", title: "Langkawi: Island Hopping + Pregnant Maiden Lake Tour", description: "A focused trip centered on the dramatic Pregnant Maiden Lake.", price: "From $36", duration: "3.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-620115/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for a Fuller Day: Fishing & BBQ Added",
+                        content: "This version extends island hopping into a full-day outing by adding a fishing stop and a BBQ, good for travellers who want to make a whole day of it rather than a half-day trip.",
+                        tourCard: { slug: "langkawi-island-hopping-fishing-and-bbq-boat-tour", title: "Langkawi: Island Hopping, Fishing, and BBQ Boat Tour", description: "A full-day island hopping trip adding fishing and a BBQ.", price: "From $86", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1f2beee039399be72568917a8022011937d2480ae555a53c02126d7ecc5d7d92.jpg" },
+                    },
+                    {
+                        title: "Best for Snorkeling: Underwater World Combo",
+                        content: "This combo pairs island hopping with Underwater World, Langkawi's aquarium, and some snorkeling time — a good fit for families or anyone who wants more than just boat stops.",
+                        tourCard: { slug: "langkawi-island-hopping-underwater-world-tour", title: "Langkawi: Island Hopping & Underwater World Tour", description: "Island hopping combined with Underwater World and snorkeling.", price: "From $254", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1479649/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Adrenaline Option: Jet Ski",
+                        content: "For travellers who want speed and a more active experience, doing the island-hopping route by jet ski rather than a slow boat is a genuinely different, faster-paced version of the same circuit.",
+                        tourCard: { slug: "langkawi-fun-island-hopping-by-jet-ski", title: "Langkawi: Fun Island Hopping by Jet Ski", description: "The same island circuit done by jet ski for a faster, more active experience.", price: "From $302", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/691394b63035a5cbbba83944dec2169214a9fb0acfe413ca8d482386cb7d3de7.jpeg" },
+                    },
+                    {
+                        title: "Best Combined with SkyCab/SkyBridge",
+                        content: "This full-day version pairs island hopping with Langkawi's SkyCab cable car and SkyBridge, two of the island's biggest non-water attractions, into one efficient day trip.",
+                        tourCard: { slug: "langkawi-island-hopping-skycab-skybridge-day-trip", title: "Langkawi: Island Hopping, SkyCab & SkyBridge Day Trip", description: "A full-day combo of island hopping with the SkyCab cable car and SkyBridge.", price: "From $234", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/77e90ac345ae612f2a19d044cd0e7b77825a92c617034685bc26d57e2d5dfb89.png" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Morning departures generally have calmer water than afternoon trips. Life jackets are standard on all boat-based island hopping tours; confirm whether your jet ski option requires a driving license or allows a passenger seat if you don't want to drive yourself."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best island hopping tour in Langkawi?", a: "A standard shared boat tour with eagle feeding suits most visitors; go by jet ski for a faster, more active version." },
+                    { q: "What islands do Langkawi island hopping tours visit?", a: "Typically Pulau Dayang Bunting (Pregnant Maiden Lake), Pulau Beras Basah for beach time, and an eagle-feeding stop." },
+                    { q: "What's the cheapest island hopping tour in Langkawi?", a: "A shared boat tour with eagle feeding, usually the lowest-priced option covering the classic island stops." },
+                    { q: "Can island hopping be combined with other Langkawi attractions?", a: "Yes — common combos include Underwater World, snorkeling, fishing/BBQ, and the SkyCab/SkyBridge." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best island hopping tour in Langkawi?", "acceptedAnswer": { "@type": "Answer", "text": "A standard shared boat tour with eagle feeding suits most visitors." } },
+                        { "@type": "Question", "name": "What islands do Langkawi island hopping tours visit?", "acceptedAnswer": { "@type": "Answer", "text": "Typically Pulau Dayang Bunting, Pulau Beras Basah, and an eagle-feeding stop." } },
+                        { "@type": "Question", "name": "What's the cheapest island hopping tour in Langkawi?", "acceptedAnswer": { "@type": "Answer", "text": "A shared boat tour with eagle feeding." } },
+                        { "@type": "Question", "name": "Can island hopping be combined with other Langkawi attractions?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — Underwater World, snorkeling, fishing/BBQ, and the SkyCab/SkyBridge." } }
+                    ]
+                },
+            };
+
         default:
             return null;
     }

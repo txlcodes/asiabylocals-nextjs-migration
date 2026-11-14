@@ -398,6 +398,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
 
   const langkawiInfoPages = [
     'langkawi-cable-car-guide', 'langkawi-duty-free-shopping',
+    'best-kilim-geoforest-mangrove-tour-langkawi', 'best-island-hopping-tour-langkawi',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/langkawi/${slug}`,
     lastModified: new Date(),

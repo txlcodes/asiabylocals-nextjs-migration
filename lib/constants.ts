@@ -211,6 +211,8 @@ export const PENANG_INFO_SLUGS = [
 
 export const LANGKAWI_INFO_SLUGS = [
   'langkawi-cable-car-guide', 'langkawi-duty-free-shopping',
+  // Tour-selling pages (2026-11-14)
+  'best-kilim-geoforest-mangrove-tour-langkawi', 'best-island-hopping-tour-langkawi',
 ];
 
 export const MALACCA_INFO_SLUGS = [

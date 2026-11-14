@@ -178,6 +178,8 @@ const PENANG_SIDEBAR = [
 const LANGKAWI_SIDEBAR = [
     { name: 'Cable Car Guide', slug: 'langkawi-cable-car-guide' },
     { name: 'Duty-Free Shopping', slug: 'langkawi-duty-free-shopping' },
+    { name: 'Best Kilim Mangrove Tour', slug: 'best-kilim-geoforest-mangrove-tour-langkawi' },
+    { name: 'Best Island Hopping Tour', slug: 'best-island-hopping-tour-langkawi' },
 ];
 
 const MALACCA_SIDEBAR = [
