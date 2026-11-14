@@ -11282,6 +11282,53 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "bangkok-by-night-mahanakhon-skywalk-and-cruise": {
+  "title": "曼谷夜游：玉树大厦天空步道和游船",
+  "metaTitle": "曼谷夜游：玉树大厦天空步道和游船",
+  "shortDescription": "13小时的Pattaya游览，含Central Park Bangkok及Wat Kalayanamit Woramahawihan and Wat Prayurawongsawat Worawihan。运营商：Pattaya Guide Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场13小时的Pattaya体验，围绕Central Park Bangkok及Wat Kalayanamit Woramahawihan and Wat Prayurawongsawat Worawihan展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含私人芭堤雅、曼谷、芭堤雅往返酒店接送（不与其他游客拼车）、私人空调车辆（轿车或小巴，视团队人数而定）及英语导游。不包含个人花费、小费及酒精饮料，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPattaya City.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "私人芭堤雅、曼谷、芭堤雅往返酒店接送（不与其他游客拼车）",
+   "私人空调车辆（轿车或小巴，视团队人数而定）",
+   "英语导游"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费",
+   "酒精饮料"
+  ]
+ },
+ "tiffany-s-show-cabaret-ticket-with-vip-silver-seat-in-pattaya": {
+  "title": "芭堤雅蒂芙尼秀歌舞表演VIP银座门票",
+  "metaTitle": "芭堤雅蒂芙尼秀歌舞表演VIP银座门票",
+  "shortDescription": "75分钟的Pattaya游览，含蒂芙尼秀VIP银座门票。运营商：MY Holiday Centre，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场75分钟的Pattaya体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含蒂芙尼秀VIP银座门票。不包含酒店接送、食物及饮料、个人花费及演出结束后与演员合影（自费可选），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "蒂芙尼秀VIP银座门票"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "食物及饮料",
+   "个人花费",
+   "演出结束后与演员合影（自费可选）"
+  ]
+ },
+ "sanctuary-of-truth-sanctuary-entry-ticket": {
+  "title": "芭堤雅真理寺门票",
+  "metaTitle": "芭堤雅真理寺门票",
+  "shortDescription": "8小时的Pattaya游览，含芭堤雅真理寺门票及1小时英语讲解行程。运营商：MY Holiday Centre，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Pattaya体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含芭堤雅真理寺门票及1小时英语讲解行程。不包含酒店接送、食物及饮料、个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "芭堤雅真理寺门票",
+   "1小时英语讲解行程"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "食物及饮料",
+   "个人花费",
+   "小费"
+  ]
+ },
  "fun-dive-for-experienced-divers-in-pattaya": {
   "title": "芭堤雅资深潜水员趣味潜水",
   "metaTitle": "芭堤雅资深潜水员趣味潜水",
@@ -11292,6 +11339,36 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "koh-larn-island-and-art-in-paradise-day-trip": {
+  "title": "龙仔岛和天堂艺术馆一日游",
+  "metaTitle": "龙仔岛和天堂艺术馆一日游",
+  "shortDescription": "10小时的Pattaya游览，含英语导游、瓶装水及空调车辆。运营商：CanalTour x ExploreSiam，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场10小时的Pattaya体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含英语导游、瓶装水及空调车辆。不包含龙仔岛海滩活动（如香蕉船、摩托艇、沙滩椅等）及零食和午餐，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Sathon及Silom MRT Station and Starbucks提供接送服务；具体地点和时间将在预订确认后与CanalTour x ExploreSiam协商确定，所选套餐决定是否包含交通费用。\n\n在Pattaya提供酒店接送。CanalTour x ExploreSiam将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "英语导游",
+   "瓶装水",
+   "空调车辆"
+  ],
+  "notIncluded": [
+   "龙仔岛海滩活动（如香蕉船、摩托艇、沙滩椅等）",
+   "零食和午餐"
+  ]
+ },
+ "laem-chabang-private-city-tour-and-sanctuary-of-truth-in-pattaya": {
+  "title": "林查班：芭堤雅私人城市游览和真理寺",
+  "metaTitle": "林查班：芭堤雅私人城市游览和真理寺",
+  "shortDescription": "4.5小时的Pattaya游览，含私人往返交通、空调车辆及真理寺门票。运营商：PattayaCentral，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4.5小时的Pattaya体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\n价格包含私人往返交通、空调车辆及真理寺门票。不包含食物及饮料及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Laem Chabang and Terminal Cruise提供接送服务；具体地点和时间将在预订确认后与PattayaCentral协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "私人往返交通",
+   "空调车辆",
+   "真理寺门票"
+  ],
+  "notIncluded": [
+   "食物及饮料",
+   "个人花费"
+  ]
+ },
  "pattaya-and-samaesan-2-day-wreck-diving-for-experience-divers-by-local-operator": {
   "title": "芭堤雅及沙美散：2日沉船潜水之旅（资深潜水员，当地运营商）",
   "metaTitle": "芭堤雅及沙美散：2日沉船潜水之旅（资深潜水员，当地运营商）",
@@ -11301,6 +11378,23 @@ export const ZH_TOURS: Record<string, TourT> = {
    "4次带导潜的沉船潜水"
   ],
   "notIncluded": []
+ },
+ "ramayana-water-park-ticketed-fun-in-pattaya": {
+  "title": "芭堤雅拉玛亚那水上乐园门票畅玩",
+  "metaTitle": "芭堤雅拉玛亚那水上乐园门票畅玩",
+  "shortDescription": "7小时的Pattaya游览，含拉玛亚那水上乐园门票、如购买该选项，提供酒店接送及保险。运营商：Odeon Tours DMC Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Pattaya体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含拉玛亚那水上乐园门票、如购买该选项，提供酒店接送及保险。不包含私人接送、午餐、软饮料及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Pattaya提供酒店接送。Odeon Tours DMC Thailand将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "拉玛亚那水上乐园门票",
+   "如购买该选项，提供酒店接送",
+   "保险"
+  ],
+  "notIncluded": [
+   "私人接送",
+   "午餐",
+   "软饮料",
+   "个人花费"
+  ]
  },
  "art-in-paradise-3d-museum-discounted-ticket-in-pattaya": {
   "title": "芭堤雅天堂艺术3D博物馆优惠门票",
@@ -11330,6 +11424,36 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "guided-shared-small-group-city-tour-in-pattaya": {
+  "title": "芭堤雅导览小团城市游览",
+  "metaTitle": "芭堤雅导览小团城市游览",
+  "shortDescription": "8小时的Pattaya游览，含Buddha Mountain及Pattaya Floating Market Gate No.4 and Wat Phra Yai。运营商：Pattaya Guide Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Pattaya体验，围绕Buddha Mountain及Pattaya Floating Market Gate No.4 and Wat Phra Yai展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含芭堤雅酒店接送、空调小巴及英语导游。不包含晚餐及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPattaya City.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "芭堤雅酒店接送",
+   "空调小巴",
+   "英语导游"
+  ],
+  "notIncluded": [
+   "晚餐",
+   "个人花费"
+  ]
+ },
+ "private-nong-nooch-garden-tour-lunch-shows-and-dinosaurs-pattaya": {
+  "title": "芭堤雅私人农怒花园游览：午餐、表演和恐龙园",
+  "metaTitle": "芭堤雅私人农怒花园游览：午餐、表演和恐龙园",
+  "shortDescription": "7小时的Pattaya游览，含Cactus Garden及Sky Garden and Nong Nooch Scala Theatre。运营商：Pattaya Guide Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Pattaya体验，围绕Cactus Garden及Sky Garden and Nong Nooch Scala Theatre展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含瓶装水、农怒热带植物园门票及泰国传统民俗表演及观赏大象门票。不包含酒精饮料及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPattaya City.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "瓶装水",
+   "农怒热带植物园门票",
+   "泰国传统民俗表演及观赏大象门票"
+  ],
+  "notIncluded": [
+   "酒精饮料",
+   "小费"
+  ]
+ },
  "ripley-s-pattaya-mega-pass-with-horror-hospital-entry-by-local-operator": {
   "title": "芭堤雅瑞普利奇趣世界超级通票（含恐怖医院门票，当地运营商）",
   "metaTitle": "芭堤雅瑞普利奇趣世界超级通票（含恐怖医院门票，当地运营商）",
@@ -11343,6 +11467,91 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食及饮品",
    "个人花费及小费"
   ]
+ },
+ "alcazar-cabaret-vip-seat-admission-ticket-in-pattaya": {
+  "title": "芭堤雅阿卡萨歌舞秀VIP座位门票",
+  "metaTitle": "芭堤雅阿卡萨歌舞秀VIP座位门票",
+  "shortDescription": "75分钟的Pattaya游览，含阿卡萨歌舞秀VIP座位门票及75分钟歌舞表演。运营商：MY Holiday Centre，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场75分钟的Pattaya体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含阿卡萨歌舞秀VIP座位门票及75分钟歌舞表演。不包含酒店接送、食物及饮料、个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "阿卡萨歌舞秀VIP座位门票",
+   "75分钟歌舞表演"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "食物及饮料",
+   "个人花费",
+   "小费"
+  ]
+ },
+ "bkk-to-pattaya-candy-wonderland-sheep-farm-and-sunset-bar-by-local-operator": {
+  "title": "曼谷到芭堤雅：糖果仙境、羊咧咧农场和日落酒吧（本地运营商）",
+  "metaTitle": "曼谷到芭堤雅：糖果仙境、羊咧咧农场和日落酒吧（本地运营商）",
+  "shortDescription": "11小时的Pattaya游览，含GREAT&GRAND Sweet Destination及Family Park Pattaya and House of Benedict Pattaya。运营商：MPG Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场11小时的Pattaya体验，围绕GREAT&GRAND Sweet Destination及Family Park Pattaya and House of Benedict Pattaya展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含专业导游、往返空调交通及由运营商提供的保险。不包含所有景点门票、餐食及饮料、其他个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "专业导游",
+   "往返空调交通",
+   "由运营商提供的保险"
+  ],
+  "notIncluded": [
+   "所有景点门票",
+   "餐食及饮料",
+   "其他个人花费",
+   "小费"
+  ]
+ },
+ "max-muay-thai-stadium-passionate-journey-in-pattaya": {
+  "title": "芭堤雅Max泰拳竞技场热血之旅",
+  "metaTitle": "芭堤雅Max泰拳竞技场热血之旅",
+  "shortDescription": "1小时的Pattaya游览，含Max Muay Thai Stadium Pattaya。运营商：THAILAND SKYDIVING，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1小时的Pattaya体验，围绕Max Muay Thai Stadium Pattaya展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含Max泰拳竞技场门票。不包含小费及保险和套餐之外的所有费用，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nMax Muay Thai Stadium Pattaya.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "Max泰拳竞技场门票"
+  ],
+  "notIncluded": [
+   "小费",
+   "保险和套餐之外的所有费用"
+  ]
+ },
+ "colosseum-show-pattaya-regular-ticket-only-by-local-operator": {
+  "title": "芭堤雅罗马竞技场秀（普通票，本地运营商）",
+  "metaTitle": "芭堤雅罗马竞技场秀（普通票，本地运营商）",
+  "shortDescription": "1小时的Pattaya游览，含门票。运营商：TYCOON THAI DMC，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1小时的Pattaya体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含门票。不包含接送服务，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "门票"
+  ],
+  "notIncluded": [
+   "接送服务"
+  ]
+ },
+ "isea-sky-and-the-jetty-veranda-resort-food-and-drink-packages-in-pattaya": {
+  "title": "芭堤雅ISEA Sky和The Jetty维兰达度假村餐饮套餐",
+  "metaTitle": "芭堤雅ISEA Sky和The Jetty维兰达度假村餐饮套餐",
+  "shortDescription": "1.5小时的Pattaya游览，含食物及饮料、海景用餐体验及卓越服务。运营商：Hungry Hub，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1.5小时的Pattaya体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含食物及饮料、海景用餐体验及卓越服务。不包含小费及交通，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "食物及饮料",
+   "海景用餐体验",
+   "卓越服务"
+  ],
+  "notIncluded": [
+   "小费",
+   "交通"
+  ]
+ },
+ "try-dive-with-2-ocean-dives-for-first-timer-in-pattaya": {
+  "title": "芭堤雅体验潜水（含2次海洋潜水，适合初学者）",
+  "metaTitle": "芭堤雅体验潜水（含2次海洋潜水，适合初学者）",
+  "shortDescription": "8小时的Pattaya游览，含Other water transport and Pattaya Beach。运营商：Thai ocean academy，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Pattaya体验，围绕Other water transport and Pattaya Beach展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含两次海洋潜水、热午餐及水下照片。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nThai Ocean Academy Pattaya: Scuba Dive Pattaya.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "两次海洋潜水",
+   "热午餐",
+   "水下照片"
+  ],
+  "notIncluded": []
  },
  "orbit-restaurant-grande-centre-point-space-pattaya": {
   "title": "芭堤雅格兰中心大酒店Orbit太空主题餐厅",
@@ -11370,6 +11579,51 @@ export const ZH_TOURS: Record<string, TourT> = {
    "川崎及本田越野摩托车及燃油"
   ],
   "notIncluded": []
+ },
+ "pattaya-koh-lan-tour-hotel-pickup-optional-snorkel-and-spa-by-local-operator": {
+  "title": "芭堤雅龙仔岛之旅：酒店接送、可选浮潜和水疗（本地运营商）",
+  "metaTitle": "芭堤雅龙仔岛之旅：酒店接送、可选浮潜和水疗（本地运营商）",
+  "shortDescription": "6小时的Pattaya游览，含Speedboat and Ko Lan。运营商：Big Cat Travel Co., Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6小时的Pattaya体验，围绕Speedboat and Ko Lan展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含中文及英文讲解导游、午餐、矿泉水、毛巾及酒店接送。不包含个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPattaya City.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "中文及英文讲解导游",
+   "午餐",
+   "矿泉水",
+   "毛巾",
+   "酒店接送"
+  ],
+  "notIncluded": [
+   "个人花费"
+  ]
+ },
+ "pado-media-art-interactive-exhibit-entry-ticket-in-pattaya": {
+  "title": "芭堤雅Pado媒体艺术互动展览门票",
+  "metaTitle": "芭堤雅Pado媒体艺术互动展览门票",
+  "shortDescription": "Pattaya游览，含Pado媒体艺术空间门票及可进入所有主题数字展区。运营商：Pado Media Art Space，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场Pattaya体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含Pado媒体艺术空间门票及可进入所有主题数字展区。不包含个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "Pado媒体艺术空间门票",
+   "可进入所有主题数字展区"
+  ],
+  "notIncluded": [
+   "个人花费"
+  ]
+ },
+ "waterfall-swim-cave-river-and-naga-temple-day-trip-in-pattaya": {
+  "title": "芭堤雅瀑布游泳、洞穴河流和龙神庙一日游",
+  "metaTitle": "芭堤雅瀑布游泳、洞穴河流和龙神庙一日游",
+  "shortDescription": "12小时的Pattaya游览，含Khao Chamao Waterfall及Than Chamao Resort and Wat Tham Khao Prathun。运营商：Pattaya Guide Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场12小时的Pattaya体验，围绕Khao Chamao Waterfall及Than Chamao Resort and Wat Tham Khao Prathun展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\n价格包含芭堤雅酒店接送、空调面包车及英语导游。不包含酒精饮品、个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPattaya City.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "芭堤雅酒店接送",
+   "空调面包车",
+   "英语导游"
+  ],
+  "notIncluded": [
+   "酒精饮品",
+   "个人花费",
+   "小费"
+  ]
  },
  "eco-atv-off-road-experience-in-pattaya": {
   "title": "芭堤雅生态越野车体验",
@@ -11403,6 +11657,31 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "muscat-wahiba-desert-and-wadi-bani-khalid-in-pattaya": {
+  "title": "马斯喀特：瓦哈伊巴沙漠和瓦迪巴尼哈利德（芭堤雅）",
+  "metaTitle": "马斯喀特：瓦哈伊巴沙漠和瓦迪巴尼哈利德（芭堤雅）",
+  "shortDescription": "4小时的Pattaya游览，含英语导游、瓦哈伊巴沙漠及瓦迪巴尼哈利德。运营商：Octopus oman，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Pattaya体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含英语导游、瓦哈伊巴沙漠及瓦迪巴尼哈利德。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "英语导游",
+   "瓦哈伊巴沙漠",
+   "瓦迪巴尼哈利德"
+  ],
+  "notIncluded": []
+ },
+ "pattaya-thailand-6996-show-entry-ticket-for-adults-by-local-operator": {
+  "title": "泰国芭堤雅6996秀成人门票（本地运营商）",
+  "metaTitle": "泰国芭堤雅6996秀成人门票（本地运营商）",
+  "shortDescription": "1小时的Pattaya游览，含泰国芭堤雅6996秀门票一张。运营商：Shenzhen Yuexing Travel Technology Co., Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1小时的Pattaya体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含泰国芭堤雅6996秀门票一张。不包含小费及费用中未提及的所有项目包括，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "泰国芭堤雅6996秀门票一张"
+  ],
+  "notIncluded": [
+   "小费",
+   "费用中未提及的所有项目包括"
+  ]
+ },
  "elephant-jungle-sanctuary-half-day-tour-with-meal-in-pattaya": {
   "title": "芭堤雅丛林大象保护区半天之旅（含餐食）",
   "metaTitle": "芭堤雅丛林大象保护区半天之旅（含餐食）",
@@ -11414,6 +11693,47 @@ export const ZH_TOURS: Record<string, TourT> = {
    "接送服务"
   ],
   "notIncluded": []
+ },
+ "living-green-elephant-sanctuary-day-trip-in-pattaya": {
+  "title": "芭堤雅Living Green大象保护区一日游",
+  "metaTitle": "芭堤雅Living Green大象保护区一日游",
+  "shortDescription": "3小时的Pattaya游览，含酒店接送（如选择该套餐）、当地餐食及与大象共浴。运营商：Living Green Elephant Sanctuary Chiang Mai and Chonburi，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Pattaya体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送（如选择该套餐）、当地餐食及与大象共浴。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Pattaya提供酒店接送。Living Green Elephant Sanctuary Chiang Mai and Chonburi将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送（如选择该套餐）",
+   "当地餐食",
+   "与大象共浴"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
+  ]
+ },
+ "koh-larn-speedboat-transfer-ticket": {
+  "title": "龙仔岛快艇往返票",
+  "metaTitle": "龙仔岛快艇往返票",
+  "shortDescription": "20分钟的Pattaya游览，含单程票或往返票及您可以在选项中选择。运营商：Smileon Corner，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场20分钟的Pattaya体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\n价格包含单程票或往返票及您可以在选项中选择。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "单程票或往返票",
+   "您可以在选项中选择"
+  ],
+  "notIncluded": []
+ },
+ "elephant-jungle-sanctuary-feeding-experience-in-pattaya": {
+  "title": "芭堤雅大象丛林保护区喂食体验",
+  "metaTitle": "芭堤雅大象丛林保护区喂食体验",
+  "shortDescription": "30分钟的Pattaya游览，含门票、喂食大象的食物及软饮料。运营商：Elephant Jungle Sanctuary Pattaya，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场30分钟的Pattaya体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含门票、喂食大象的食物及软饮料。不包含酒店接送及餐食，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "门票",
+   "喂食大象的食物",
+   "软饮料"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "餐食"
+  ]
  },
  "nong-nooch-tropical-garden-ticket-for-foreigners": {
   "title": "农怒热带花园门票（外国游客）",
@@ -11455,6 +11775,52 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "floating-market-tour-with-hotel-transfer-and-guide": {
+  "title": "水上市场之旅（含酒店接送和导游）",
+  "metaTitle": "水上市场之旅（含酒店接送和导游）",
+  "shortDescription": "3小时的Pattaya游览，含Pattaya Floating Market。运营商：Sun Leisure World Corporation，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Pattaya体验，围绕Pattaya Floating Market展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nDamnoen Saduak, 100 kilometres south-west of Bangkok, is the floating market of the postcards: boats of fruit and noodles on a canal dug in the 1860s, working by 7:00 and finished by 11:00, which is why tours leave the city at 6:30. It is crowded and much of the trade is souvenirs, and it is still worth an hour on the water. Amphawa, nearby, runs Friday to Sunday afternoons and evenings and is the one Bangkok residents prefer, with firefly boat trips after dark. Taling Chan and Khlong Lat Mayom are small weekend markets inside the city where the food is the point.\n\n价格包含往返接送、英语导游及门票费用。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPattaya City.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "往返接送",
+   "英语导游",
+   "门票费用"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
+  ]
+ },
+ "maya-beach-bamboo-island-and-phi-phi-islands-tour": {
+  "title": "玛雅湾、竹子岛和皮皮群岛一日游",
+  "metaTitle": "玛雅湾、竹子岛和皮皮群岛一日游",
+  "shortDescription": "10小时的Phuket游览，含Royal Phuket Marina及Speedboat and Maya Bay。运营商：Oh-Hoo，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场10小时的Phuket体验，围绕Royal Phuket Marina及Speedboat and Maya Bay展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n皮皮岛距普吉岛45公里，距甲米40公里，是两座石灰岩岛屿，皮皮东岛（Phi Phi Don）有村庄和酒店，皮皮莱岛（Phi Phi Leh）则无人居住，岛上有玛雅湾，也就是2000年那部电影的拍摄海滩。玛雅湾在2018年至2022年间关闭，让珊瑚礁得以恢复，如今实行湾内禁止船只驶入、从岛后方设有步道进入、禁止游泳，并且每年8月至9月都会关闭。Pileh潟湖、维京洞穴和竹子岛（Bamboo Island）是每条快艇航线的其他停靠点；11月至4月海面最为平静，早班船能在人群到来之前抵达玛雅湾。\n\n价格包含酒店接送、皇家普吉码头简便茶点及关于您船游行程的实际信息。不包含国家公园费用（成人400泰铢，儿童200泰铢），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPhuket.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "皇家普吉码头简便茶点",
+   "关于您船游行程的实际信息"
+  ],
+  "notIncluded": [
+   "国家公园费用（成人400泰铢，儿童200泰铢）"
+  ]
+ },
+ "phi-phi-and-khai-island-small-group-speedboat-tour": {
+  "title": "皮皮岛和蛋岛小团快艇之旅",
+  "metaTitle": "皮皮岛和蛋岛小团快艇之旅",
+  "shortDescription": "10小时的Phuket游览，含Speedboat及Khai Islands and Phi Phi Islands。运营商：Happy Holiday Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场10小时的Phuket体验，围绕Speedboat及Khai Islands and Phi Phi Islands展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、浮潜装备、泰式午餐、新鲜水果拼盘及英语导游。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPhuket.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "浮潜装备",
+   "泰式午餐",
+   "新鲜水果拼盘",
+   "英语导游"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
+  ]
+ },
  "sunrise-maya-bay-pileh-lagoon-speedboat-tour-in-phuket": {
   "title": "普吉岛日出玛雅湾、皮莱泻湖快艇之旅",
   "metaTitle": "普吉岛日出玛雅湾、皮莱泻湖快艇之旅",
@@ -11469,6 +11835,77 @@ export const ZH_TOURS: Record<string, TourT> = {
    "酒店接送"
   ]
  },
+ "coral-island-and-sunset-dinner-by-sailing-catamaran": {
+  "title": "珊瑚岛和日落晚餐帆式双体船之旅",
+  "metaTitle": "珊瑚岛和日落晚餐帆式双体船之旅",
+  "shortDescription": "5小时的Phuket游览，含Chalong Pier及Catamaran and Promthep Cape。运营商：Oh-Hoo，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Phuket体验，围绕Chalong Pier及Catamaran and Promthep Cape展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含巴东、卡林、三丹、普吉镇、卡塔、卡隆、拉威、奈汉和赛云地区往返接送、船上晚餐、水果和饮品及浮潜装备。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPhuket.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "巴东、卡林、三丹、普吉镇、卡塔、卡隆、拉威、奈汉和赛云地区往返接送",
+   "船上晚餐、水果和饮品",
+   "浮潜装备"
+  ],
+  "notIncluded": []
+ },
+ "similan-islands-speed-catamaran-tour-with-lunch": {
+  "title": "斯米兰群岛快速双体船之旅（含午餐）",
+  "metaTitle": "斯米兰群岛快速双体船之旅（含午餐）",
+  "shortDescription": "8小时的Phuket游览，含指定区域酒店接送、高级快艇往返接送及专业英语导游。运营商：บริษัท เจ แอนด์ เจ แอฟฟลูเอนท์ ทราเวล แอนด์ ทัวร์ จํากัด，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Phuket体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含指定区域酒店接送、高级快艇往返接送及专业英语导游。不包含个人花费、酒精饮料、沙滩椅租赁及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Phuket提供酒店接送。บริษัท เจ แอนด์ เจ แอฟฟลูเอนท์ ทราเวล แอนด์ ทัวร์ จํากัด将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "指定区域酒店接送",
+   "高级快艇往返接送",
+   "专业英语导游"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "酒精饮料",
+   "沙滩椅租赁",
+   "小费"
+  ]
+ },
+ "simon-cabaret-phuket-show-included-tickets-and-transfer-by-local-operator": {
+  "title": "普吉岛西蒙秀（含门票和接送，本地运营商）",
+  "metaTitle": "普吉岛西蒙秀（含门票和接送，本地运营商）",
+  "shortDescription": "3.5小时的Phuket游览，含酒店接送服务及普吉岛西蒙秀门票。运营商：Oh-Hoo，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3.5小时的Phuket体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送服务及普吉岛西蒙秀门票。不包含个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送服务",
+   "普吉岛西蒙秀门票"
+  ],
+  "notIncluded": [
+   "个人花费"
+  ]
+ },
+ "similan-islands-premium-speedboat-tour-from-phuket-khao-lak-by-local-operator": {
+  "title": "从普吉岛/考拉克出发的斯米兰群岛高级快艇之旅（本地运营商）",
+  "metaTitle": "从普吉岛/考拉克出发的斯米兰群岛高级快艇之旅（本地运营商）",
+  "shortDescription": "11小时的Phuket游览，含Speedboat and Similan Islands。运营商：YUL，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场11小时的Phuket体验，围绕Speedboat and Similan Islands展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含普吉岛和考拉克指定区域酒店接送、早餐及午餐。不包含提供毛巾，需缴纳200泰铢可退押金，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Phuket提供酒店接送。YUL将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "普吉岛和考拉克指定区域酒店接送",
+   "早餐",
+   "午餐"
+  ],
+  "notIncluded": [
+   "提供毛巾，需缴纳200泰铢可退押金"
+  ]
+ },
+ "bangla-boxing-stadium-muay-thai-ticket-in-phuket": {
+  "title": "普吉岛班拉泰拳馆门票",
+  "metaTitle": "普吉岛班拉泰拳馆门票",
+  "shortDescription": "Phuket游览，含泰拳比赛单人座位门票及免费T恤。运营商：GlobalTix (Thailand) Co., Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场Phuket体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含泰拳比赛单人座位门票及免费T恤。不包含食物及饮料、酒店接送及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "泰拳比赛单人座位门票",
+   "免费T恤"
+  ],
+  "notIncluded": [
+   "食物及饮料",
+   "酒店接送",
+   "个人花费"
+  ]
+ },
  "coral-island-speedboat-trip-with-parasailing-and-lunch": {
   "title": "珊瑚岛快艇之旅（含滑翔伞及午餐）",
   "metaTitle": "珊瑚岛快艇之旅（含滑翔伞及午餐）",
@@ -11481,6 +11918,37 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "个人花费",
+   "小费"
+  ]
+ },
+ "coral-and-racha-islands-speedboat-day-trip-with-lunch": {
+  "title": "珊瑚岛和拉差岛快艇一日游（含午餐）",
+  "metaTitle": "珊瑚岛和拉差岛快艇一日游（含午餐）",
+  "shortDescription": "8小时的Phuket游览，含Speedboat and Racha Island。运营商：Happy Holiday Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Phuket体验，围绕Speedboat and Racha Island展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含早晨咖啡和茶、自助午餐及新鲜水果和软饮料。不包含可选水上运动、小费及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "早晨咖啡和茶",
+   "自助午餐",
+   "新鲜水果和软饮料"
+  ],
+  "notIncluded": [
+   "可选水上运动",
+   "小费",
+   "个人花费"
+  ]
+ },
+ "similan-islands-lazy-bird-program": {
+  "title": "斯米兰群岛Lazy Bird悠闲行程",
+  "metaTitle": "斯米兰群岛Lazy Bird悠闲行程",
+  "shortDescription": "11小时的Phuket游览，含Thap Lamu Pier and Mu Ko Similan National Park。运营商：Odeon Tours DMC Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场11小时的Phuket体验，围绕Thap Lamu Pier and Mu Ko Similan National Park展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含普吉岛和考拉克酒店接送、码头简便早餐及浮潜装备（面镜、呼吸管、脚蹼）。不包含私人接送及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Nai Yang beach、Karon Beach、Old Phuket Town、Khao Lak及Bang Tao Beach and Rawai提供接送服务；具体地点和时间将在预订确认后与Odeon Tours DMC Thailand协商确定，所选套餐决定是否包含交通费用。\n\n在Phuket提供酒店接送。Odeon Tours DMC Thailand将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "普吉岛和考拉克酒店接送",
+   "码头简便早餐",
+   "浮潜装备（面镜、呼吸管、脚蹼）"
+  ],
+  "notIncluded": [
+   "私人接送",
    "小费"
   ]
  },
@@ -11514,6 +11982,48 @@ export const ZH_TOURS: Record<string, TourT> = {
    "酒精饮品"
   ]
  },
+ "southern-flavours-food-tour-with-15-tastings-in-phuket": {
+  "title": "普吉岛南部风味美食之旅（含15种品尝）",
+  "metaTitle": "普吉岛南部风味美食之旅（含15种品尝）",
+  "shortDescription": "4小时的Phuket游览，含15种美食品尝、导游及瓶装水和当地软饮料。运营商：A Chef's Tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Phuket体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n曼谷唐人街沿耀华力路（Yaowarat Road）延伸，该路建于1891年，白天两侧是金饰店，夜晚则变成小吃摊，人行道上摆满炭烤炉和面条车，著名摊位前排起长队：Phadungdao的烤海鲜、带胡椒味的卷粉guay jub、烤栗子，还有想尝鲜的人可以选择的燕窝和鱼翅。这是亚洲最密集的街头美食区，大约18:00开始热闹起来。曼谷米其林指南自2018年起开始评选街头摊位；在那里吃过的向导知道哪些队排得值得。\n\n价格包含15种美食品尝、导游及瓶装水和当地软饮料。不包含酒精饮品及酒店接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nRanong Main Market.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "15种美食品尝",
+   "导游",
+   "瓶装水和当地软饮料"
+  ],
+  "notIncluded": [
+   "酒精饮品",
+   "酒店接送"
+  ]
+ },
+ "phi-phi-maya-bay-late-departure-tour-with-lunch": {
+  "title": "皮皮岛玛雅湾晚班出发之旅（含午餐）",
+  "metaTitle": "皮皮岛玛雅湾晚班出发之旅（含午餐）",
+  "shortDescription": "8小时的Phuket游览，含Roong Siam Pier及Speedboat and Maya Bay。运营商：Good Morning Holiday (PNT Phuket)，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Phuket体验，围绕Roong Siam Pier及Speedboat and Maya Bay展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含意外保险、防晕船药及浮潜装备和救生衣。不包含小费及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Phuket提供酒店接送。Good Morning Holiday (PNT Phuket)将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "意外保险",
+   "防晕船药",
+   "浮潜装备和救生衣"
+  ],
+  "notIncluded": [
+   "小费",
+   "个人花费"
+  ]
+ },
+ "from-phuket-or-khaolak-similan-islands-day-trip-by-local-operator": {
+  "title": "从普吉岛或考拉克出发的斯米兰群岛一日游（本地运营商）",
+  "metaTitle": "从普吉岛或考拉克出发的斯米兰群岛一日游（本地运营商）",
+  "shortDescription": "13小时的Phuket游览，含Thap Lamu Pier及Speedboat and Donald Duck Bay。运营商：Love Andaman，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场13小时的Phuket体验，围绕Thap Lamu Pier及Speedboat and Donald Duck Bay展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含如选择该选项，提供住宿地接送、旅行保险及浮潜装备和救生衣。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Khok Kloi、Karon Beach、Kata Beach、Kalim Surf Beach #3及Khao Lak and Pa Tong提供接送服务；具体地点和时间将在预订确认后与Love Andaman协商确定，所选套餐决定是否包含交通费用。\n\n在Phuket提供酒店接送。Love Andaman将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "如选择该选项，提供住宿地接送",
+   "旅行保险",
+   "浮潜装备和救生衣"
+  ],
+  "notIncluded": []
+ },
  "full-day-phi-phi-islands-and-sunset-tour-by-speedboat": {
   "title": "皮皮岛全天游船及日落之旅（快艇）",
   "metaTitle": "皮皮岛全天游船及日落之旅（快艇）",
@@ -11543,6 +12053,34 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "from-laem-haad-to-pileh-one-blue-horizon-lunch-in-phuket": {
+  "title": "普吉岛：从莱哈码头到皮莱湾，蓝色地平线一号游船含午餐",
+  "metaTitle": "普吉岛：从莱哈码头到皮莱湾，蓝色地平线一号游船含午餐",
+  "shortDescription": "8小时的Phuket游览，含Ko Yao Yai及Sandbank Beach and Ko Yao Noi。运营商：Private Excursion VIP，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Phuket体验，围绕Ko Yao Yai及Sandbank Beach and Ko Yao Noi展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含普吉岛酒店往返接送、国家公园费用及浮潜装备（面镜、呼吸管）和救生衣。不包含个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPhuket.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "普吉岛酒店往返接送",
+   "国家公园费用",
+   "浮潜装备（面镜、呼吸管）和救生衣"
+  ],
+  "notIncluded": [
+   "个人花费"
+  ]
+ },
+ "maiton-coral-and-racha-island-snorkeling-trip": {
+  "title": "迈通岛、珊瑚岛和拉差岛浮潜之旅",
+  "metaTitle": "迈通岛、珊瑚岛和拉差岛浮潜之旅",
+  "shortDescription": "8小时的Phuket游览，含Chalong Pier及Speedboat and Racha Island。运营商：Oh-Hoo，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Phuket体验，围绕Chalong Pier及Speedboat and Racha Island展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含普吉镇、查龙、卡隆、卡塔、巴东、卡林、三丹和拉威地区往返接送、救生衣及浮潜装备。不包含从卡马拉、诗莱岛、拉古娜、苏林、邦涛、奈汉、迈考、奈扬和奈通接送，往返每人额外收费200泰铢，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPhuket.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "普吉镇、查龙、卡隆、卡塔、巴东、卡林、三丹和拉威地区往返接送",
+   "救生衣",
+   "浮潜装备"
+  ],
+  "notIncluded": [
+   "从卡马拉、诗莱岛、拉古娜、苏林、邦涛、奈汉、迈考、奈扬和奈通接送，往返每人额外收费200泰铢"
+  ]
+ },
  "racha-banana-bay-and-maiton-island-tour-by-catamaran": {
   "title": "双体船拉差岛、香蕉湾及梅通岛之旅",
   "metaTitle": "双体船拉差岛、香蕉湾及梅通岛之旅",
@@ -11560,6 +12098,34 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "phuket-buggy-tour-with-secret-beach-visit": {
+  "title": "普吉岛沙滩车之旅（含秘密海滩游览）",
+  "metaTitle": "普吉岛沙滩车之旅（含秘密海滩游览）",
+  "shortDescription": "1小时的Phuket游览，含通过私人车辆提供的私人往返酒店接送服务、新鲜季节性水果及瓶装水供应。运营商：Travel Bays Network Co. Ltd，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1小时的Phuket体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含通过私人车辆提供的私人往返酒店接送服务、新鲜季节性水果及瓶装水供应。不包含餐食，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Phuket提供酒店接送。Travel Bays Network Co. Ltd将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "通过私人车辆提供的私人往返酒店接送服务",
+   "新鲜季节性水果",
+   "瓶装水供应"
+  ],
+  "notIncluded": [
+   "餐食"
+  ]
+ },
+ "phi-phi-bamboo-islands-full-day-premium": {
+  "title": "皮皮岛、竹子岛全天高级之旅",
+  "metaTitle": "皮皮岛、竹子岛全天高级之旅",
+  "shortDescription": "9小时的Phuket游览，含Royal Phuket Marina及Maya Bay and Pileh Lagoon。运营商：Odeon Tours DMC Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场9小时的Phuket体验，围绕Royal Phuket Marina及Maya Bay and Pileh Lagoon展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n皮皮岛距普吉岛45公里，距甲米40公里，是两座石灰岩岛屿，皮皮东岛（Phi Phi Don）有村庄和酒店，皮皮莱岛（Phi Phi Leh）则无人居住，岛上有玛雅湾，也就是2000年那部电影的拍摄海滩。玛雅湾在2018年至2022年间关闭，让珊瑚礁得以恢复，如今实行湾内禁止船只驶入、从岛后方设有步道进入、禁止游泳，并且每年8月至9月都会关闭。Pileh潟湖、维京洞穴和竹子岛（Bamboo Island）是每条快艇航线的其他停靠点；11月至4月海面最为平静，早班船能在人群到来之前抵达玛雅湾。\n\n价格包含如购买含接送选项，提供普吉岛酒店接送、高级快艇服务及码头简便早餐。不包含私人接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Phuket提供酒店接送。Odeon Tours DMC Thailand将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "如购买含接送选项，提供普吉岛酒店接送",
+   "高级快艇服务",
+   "码头简便早餐"
+  ],
+  "notIncluded": [
+   "私人接送"
+  ]
+ },
  "phuket-jungle-horseback-ride-with-scenic-forest-views-by-local-operator": {
   "title": "普吉岛丛林骑马体验及绝美森林风光（当地运营商）",
   "metaTitle": "普吉岛丛林骑马体验及绝美森林风光（当地运营商）",
@@ -11574,6 +12140,91 @@ export const ZH_TOURS: Record<string, TourT> = {
    "酒店接送"
   ]
  },
+ "atv-adventure-and-big-buddha-in-phuket": {
+  "title": "普吉岛全地形车探险和大佛之旅",
+  "metaTitle": "普吉岛全地形车探险和大佛之旅",
+  "shortDescription": "1小时的Phuket游览，含1至2小时全地形车骑行。运营商：Choke Chai M Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1小时的Phuket体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含1至2小时全地形车骑行。不包含往返酒店交通（除非作为附加项目选购）及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "1至2小时全地形车骑行"
+  ],
+  "notIncluded": [
+   "往返酒店交通（除非作为附加项目选购）",
+   "个人花费"
+  ]
+ },
+ "save-20-patong-elephant-ethical-sanctuary-tour": {
+  "title": "（优惠20%）芭东大象人道保护区之旅",
+  "metaTitle": "（优惠20%）芭东大象人道保护区之旅",
+  "shortDescription": "1小时的Phuket游览，含Patong Hill Tribe Elephant Village。运营商：Patong Hill Tribe Elephant Village – Ethical Sanctuary，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1小时的Phuket体验，围绕Patong Hill Tribe Elephant Village展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含如选择该选项，提供酒店接送、英语导游及大象知识讲解课程。不包含餐食，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Phuket提供酒店接送。Patong Hill Tribe Elephant Village – Ethical Sanctuary将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "如选择该选项，提供酒店接送",
+   "英语导游",
+   "大象知识讲解课程"
+  ],
+  "notIncluded": [
+   "餐食"
+  ]
+ },
+ "phi-phi-and-maiton-island-sunset-premium-catamaran-tour": {
+  "title": "皮皮岛和迈通岛日落高级双体船之旅",
+  "metaTitle": "皮皮岛和迈通岛日落高级双体船之旅",
+  "shortDescription": "10小时的Phuket游览，含Catamaran。运营商：Love Andaman，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场10小时的Phuket体验，围绕Catamaran展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含普吉岛酒店往返接送服务、简便早餐及零食、水果和软饮料。不包含小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPhuket.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "普吉岛酒店往返接送服务",
+   "简便早餐",
+   "零食、水果和软饮料"
+  ],
+  "notIncluded": [
+   "小费"
+  ]
+ },
+ "racha-and-coral-island-speedboat-tour-with-lunch": {
+  "title": "拉差岛和珊瑚岛快艇之旅（含午餐）",
+  "metaTitle": "拉差岛和珊瑚岛快艇之旅（含午餐）",
+  "shortDescription": "7小时的Phuket游览，含Speedboat and Racha Island。运营商：Happy Holiday Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Phuket体验，围绕Speedboat and Racha Island展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含早晨咖啡和茶、自助午餐及新鲜水果和软饮料。不包含可选水上运动、小费及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "早晨咖啡和茶",
+   "自助午餐",
+   "新鲜水果和软饮料"
+  ],
+  "notIncluded": [
+   "可选水上运动",
+   "小费",
+   "个人花费"
+  ]
+ },
+ "khai-islands-half-day-tour-morning-afternoon-in-phuket": {
+  "title": "普吉岛蛋岛半日游（上午/下午）",
+  "metaTitle": "普吉岛蛋岛半日游（上午/下午）",
+  "shortDescription": "4小时的Phuket游览，含Sawasdee Travel及Speedboat and Khai Nai Island。运营商：Say Hi Andaman Tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Phuket体验，围绕Sawasdee Travel及Speedboat and Khai Nai Island展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含无限量软饮料、饮用水及新鲜水果（西瓜、菠萝）。不包含食物及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Phuket提供酒店接送。Say Hi Andaman Tour将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "无限量软饮料",
+   "饮用水",
+   "新鲜水果（西瓜、菠萝）"
+  ],
+  "notIncluded": [
+   "食物",
+   "小费"
+  ]
+ },
+ "elephant-jungle-sanctuary-feed-and-shower-trip-in-phuket": {
+  "title": "普吉岛大象丛林保护区喂食和洗浴之旅",
+  "metaTitle": "普吉岛大象丛林保护区喂食和洗浴之旅",
+  "shortDescription": "1.5小时的Phuket游览，含接送服务、导游、大象喂食环节及大象洗浴。运营商：Elephant Jungle Sanctuary Phuket，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1.5小时的Phuket体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含接送服务、导游、大象喂食环节及大象洗浴。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Phuket提供酒店接送。Elephant Jungle Sanctuary Phuket将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "接送服务",
+   "导游",
+   "大象喂食环节",
+   "大象洗浴"
+  ],
+  "notIncluded": []
+ },
  "simon-cabaret-show-entry-ticket-in-phuket": {
   "title": "普吉岛西蒙人妖秀门票",
   "metaTitle": "普吉岛西蒙人妖秀门票",
@@ -11584,6 +12235,63 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "酒店接送"
+  ]
+ },
+ "coral-and-racha-island-yacht-tour-with-lunch": {
+  "title": "珊瑚岛和拉差岛游艇之旅（含午餐）",
+  "metaTitle": "珊瑚岛和拉差岛游艇之旅（含午餐）",
+  "shortDescription": "8小时的Phuket游览，含Catamaran and Racha Island。运营商：SeaScape Adventures，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Phuket体验，围绕Catamaran and Racha Island展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店往返接送、豪华帆式双体船往返及船上午餐。不包含可选水上活动，如香蕉船、拖伞或水肺潜水，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPhuket.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店往返接送",
+   "豪华帆式双体船往返",
+   "船上午餐"
+  ],
+  "notIncluded": [
+   "可选水上活动，如香蕉船、拖伞或水肺潜水"
+  ]
+ },
+ "james-bond-island-snorkeling-boat-tour": {
+  "title": "斯米兰群岛快艇浮潜之旅",
+  "metaTitle": "斯米兰群岛快艇浮潜之旅",
+  "shortDescription": "12小时的Phuket游览，含Fantastic Similan Travel及Speedboat and Miang Island (Koh.4) Similan。运营商：Oh-Hoo，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场12小时的Phuket体验，围绕Fantastic Similan Travel及Speedboat and Miang Island (Koh.4) Similan展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、泰国传统美食及新鲜水果和饮品。不包含国家公园费用（成人400泰铢，儿童200泰铢），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPhuket.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "泰国传统美食",
+   "新鲜水果和饮品"
+  ],
+  "notIncluded": [
+   "国家公园费用（成人400泰铢，儿童200泰铢）"
+  ]
+ },
+ "phuket-racha-yai-and-coral-island-speedboat-tour-after-sun-spa-by-local-operator": {
+  "title": "普吉岛拉差艾岛和珊瑚岛快艇之旅+日晒后水疗（本地运营商）",
+  "metaTitle": "普吉岛拉差艾岛和珊瑚岛快艇之旅+日晒后水疗（本地运营商）",
+  "shortDescription": "为期一整天的Phuket游览，含Chalong Pier Meeting Point and Speedboat。运营商：Big Cat Travel Co., Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场为期一整天的Phuket体验，围绕Chalong Pier Meeting Point and Speedboat展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、岛间快艇接送及专业英语导游。不包含个人花费及可选60分钟肩背按摩，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPhuket.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "岛间快艇接送",
+   "专业英语导游"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "可选60分钟肩背按摩"
+  ]
+ },
+ "phi-phi-sunrise-boat-tour-to-bamboo-and-khai-island": {
+  "title": "皮皮岛日出游船之旅：竹子岛和蛋岛",
+  "metaTitle": "皮皮岛日出游船之旅：竹子岛和蛋岛",
+  "shortDescription": "9小时的Phuket游览，含Royal Phuket Marina及Speedboat and Khai Nai Island。运营商：V. Marine Tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场9小时的Phuket体验，围绕Royal Phuket Marina及Speedboat and Khai Nai Island展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n皮皮岛距普吉岛45公里，距甲米40公里，是两座石灰岩岛屿，皮皮东岛（Phi Phi Don）有村庄和酒店，皮皮莱岛（Phi Phi Leh）则无人居住，岛上有玛雅湾，也就是2000年那部电影的拍摄海滩。玛雅湾在2018年至2022年间关闭，让珊瑚礁得以恢复，如今实行湾内禁止船只驶入、从岛后方设有步道进入、禁止游泳，并且每年8月至9月都会关闭。Pileh潟湖、维京洞穴和竹子岛（Bamboo Island）是每条快艇航线的其他停靠点；11月至4月海面最为平静，早班船能在人群到来之前抵达玛雅湾。\n\n价格包含普吉岛酒店接送、凯奈岛简便早餐及海景自助午餐（素食、纯素及其他特殊饮食需求可按要求提供）。不包含酒精饮品，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPhuket.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "普吉岛酒店接送",
+   "凯奈岛简便早餐",
+   "海景自助午餐（素食、纯素及其他特殊饮食需求可按要求提供）"
+  ],
+  "notIncluded": [
+   "酒精饮品"
   ]
  },
  "james-bond-island-and-cave-canoeing-tour-by-big-boat": {
@@ -11601,6 +12309,37 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "guided-rainforest-hike-with-lunch-in-phuket": {
+  "title": "普吉岛雨林徒步导览之旅（含午餐）",
+  "metaTitle": "普吉岛雨林徒步导览之旅（含午餐）",
+  "shortDescription": "6小时的Phuket游览，含Tonsai Waterfall及Bang Pae Waterfall and Local restaurant。运营商：Feelphuket，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6小时的Phuket体验，围绕Tonsai Waterfall及Bang Pae Waterfall and Local restaurant展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含考帕陶国家公园门票费用、持证导游、普吉岛主要海滩酒店接送、水及小吃。不包含酒精饮品，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Pa Tong及Karon and Kamala提供接送服务；具体地点和时间将在预订确认后与Feelphuket协商确定，所选套餐决定是否包含交通费用。\n\n在Phuket提供酒店接送。Feelphuket将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "考帕陶国家公园门票费用",
+   "持证导游",
+   "普吉岛主要海滩酒店接送",
+   "水",
+   "小吃"
+  ],
+  "notIncluded": [
+   "酒精饮品"
+  ]
+ },
+ "phi-phi-maya-and-khai-islands-tour-with-private-pier": {
+  "title": "皮皮岛、玛雅湾和蛋岛之旅（含私人码头）",
+  "metaTitle": "皮皮岛、玛雅湾和蛋岛之旅（含私人码头）",
+  "shortDescription": "8小时的Phuket游览，含Speedboat及Maya Bay and Pileh Lagoon。运营商：Charter Marine co.,Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Phuket体验，围绕Speedboat及Maya Bay and Pileh Lagoon展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n皮皮岛距普吉岛45公里，距甲米40公里，是两座石灰岩岛屿，皮皮东岛（Phi Phi Don）有村庄和酒店，皮皮莱岛（Phi Phi Leh）则无人居住，岛上有玛雅湾，也就是2000年那部电影的拍摄海滩。玛雅湾在2018年至2022年间关闭，让珊瑚礁得以恢复，如今实行湾内禁止船只驶入、从岛后方设有步道进入、禁止游泳，并且每年8月至9月都会关闭。Pileh潟湖、维京洞穴和竹子岛（Bamboo Island）是每条快艇航线的其他停靠点；11月至4月海面最为平静，早班船能在人群到来之前抵达玛雅湾。\n\n价格包含部分指定区域含往返码头酒店接送、专业导游及保险。不包含个人花费及行李服务可作为附加项目购买，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPa Tong.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "部分指定区域含往返码头酒店接送",
+   "专业导游",
+   "保险"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "行李服务可作为附加项目购买"
+  ]
+ },
  "james-bond-island-canoeing-tour-by-speedboat-lunch": {
   "title": "詹姆斯邦德岛皮划艇之旅（快艇出行，含午餐）",
   "metaTitle": "詹姆斯邦德岛皮划艇之旅（快艇出行，含午餐）",
@@ -11616,6 +12355,37 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "phuket-big-buddha-city-tour-lion-and-atv-tour-guide-eng-by-local-operator": {
+  "title": "普吉岛大佛城市游览+狮子和全地形车+英语导游（本地运营商）",
+  "metaTitle": "普吉岛大佛城市游览+狮子和全地形车+英语导游（本地运营商）",
+  "shortDescription": "6小时的Phuket游览，含酒店接送及饮用水。运营商：Amily Tour And Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6小时的Phuket体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送及饮用水。不包含食物及喂食大象的香蕉，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPhuket.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "食物",
+   "喂食大象的香蕉"
+  ]
+ },
+ "james-bond-island-premium-tour-by-speed-catamaran": {
+  "title": "007岛高级快速双体船之旅",
+  "metaTitle": "007岛高级快速双体船之旅",
+  "shortDescription": "为期一整天的Phuket游览，含Royal Phuket Marina及Catamaran and Ice Cream Cave。运营商：Good Morning Holiday (PNT Phuket)，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场为期一整天的Phuket体验，围绕Royal Phuket Marina及Catamaran and Ice Cream Cave展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含救生衣、水上乐园、自助午餐、旅行意外保险及早餐和茶点。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPhuket.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "救生衣",
+   "水上乐园",
+   "自助午餐",
+   "旅行意外保险",
+   "早餐和茶点"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
+  ]
+ },
  "phuket-city-tour-and-scenic-viewpoints-night-market-by-local-operator": {
   "title": "普吉岛市区游览、绝美观景点及夜市之旅（当地运营商）",
   "metaTitle": "普吉岛市区游览、绝美观景点及夜市之旅（当地运营商）",
@@ -11624,6 +12394,85 @@ export const ZH_TOURS: Record<string, TourT> = {
   "included": [
    "按所选套餐提供的往返接送",
    "英语导游"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
+  ]
+ },
+ "bamboo-rafting-turtle-center-and-lampi-waterfall-in-phuket": {
+  "title": "普吉岛竹筏漂流、海龟中心和兰皮瀑布之旅",
+  "metaTitle": "普吉岛竹筏漂流、海龟中心和兰皮瀑布之旅",
+  "shortDescription": "4小时的Phuket游览，含Bus/coach及Khao Lak and Sea Turtle Conservation Center。运营商：Khaolak Planner，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Phuket体验，围绕Bus/coach及Khao Lak and Sea Turtle Conservation Center展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nKhao Sok National Park, two hours north of Phuket, is rainforest older than the Amazon on limestone cliffs, and Cheow Lan lake at its heart, created by a 1982 dam, is a drowned valley of karst towers and floating raft-house camps. Day trips run a long-tail boat across the lake, a jungle walk to a cave and lunch on a raft; overnights in the raft houses, with the gibbons calling at dawn, are what the park is for. Khao Lak itself is the quiet coast north of Phuket, the base for Similan trips, and the shore worst hit by the 2004 tsunami, with a memorial park at Ban Nam Khem.\n\n价格包含酒店接送、饮用水、软饮料及门票费用。不包含小费及照片纪念品，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nKhuekkhak.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "饮用水、软饮料",
+   "门票费用"
+  ],
+  "notIncluded": [
+   "小费",
+   "照片纪念品"
+  ]
+ },
+ "phi-phi-and-bamboo-islands-premium-day-trip-w-seaview-lunch-phuket": {
+  "title": "普吉岛：皮皮岛和竹子岛高级一日游（含海景午餐）",
+  "metaTitle": "普吉岛：皮皮岛和竹子岛高级一日游（含海景午餐）",
+  "shortDescription": "9小时的Phuket游览，含Royal Phuket Marina及Speedboat and Bamboo Island。运营商：V. Marine Tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场9小时的Phuket体验，围绕Royal Phuket Marina及Speedboat and Bamboo Island展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n皮皮岛距普吉岛45公里，距甲米40公里，是两座石灰岩岛屿，皮皮东岛（Phi Phi Don）有村庄和酒店，皮皮莱岛（Phi Phi Leh）则无人居住，岛上有玛雅湾，也就是2000年那部电影的拍摄海滩。玛雅湾在2018年至2022年间关闭，让珊瑚礁得以恢复，如今实行湾内禁止船只驶入、从岛后方设有步道进入、禁止游泳，并且每年8月至9月都会关闭。Pileh潟湖、维京洞穴和竹子岛（Bamboo Island）是每条快艇航线的其他停靠点；11月至4月海面最为平静，早班船能在人群到来之前抵达玛雅湾。\n\n价格包含普吉岛酒店接送及4至5星级度假村自助午餐（清真食品）。不包含酒精饮品、毛巾及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPhuket.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "普吉岛酒店接送",
+   "4至5星级度假村自助午餐（清真食品）"
+  ],
+  "notIncluded": [
+   "酒精饮品",
+   "毛巾",
+   "小费"
+  ]
+ },
+ "phi-phi-bamboo-and-maithon-by-premium-speed-catamaran": {
+  "title": "皮皮岛、竹子岛和迈通岛高级快速双体船之旅",
+  "metaTitle": "皮皮岛、竹子岛和迈通岛高级快速双体船之旅",
+  "shortDescription": "10小时的Phuket游览，含Catamaran及Bamboo Island and Ko Phi Phi Don。运营商：One Asia Corporation，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场10小时的Phuket体验，围绕Catamaran及Bamboo Island and Ko Phi Phi Don展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n皮皮岛距普吉岛45公里，距甲米40公里，是两座石灰岩岛屿，皮皮东岛（Phi Phi Don）有村庄和酒店，皮皮莱岛（Phi Phi Leh）则无人居住，岛上有玛雅湾，也就是2000年那部电影的拍摄海滩。玛雅湾在2018年至2022年间关闭，让珊瑚礁得以恢复，如今实行湾内禁止船只驶入、从岛后方设有步道进入、禁止游泳，并且每年8月至9月都会关闭。Pileh潟湖、维京洞穴和竹子岛（Bamboo Island）是每条快艇航线的其他停靠点；11月至4月海面最为平静，早班船能在人群到来之前抵达玛雅湾。\n\n价格包含酒店接送、高级快艇双体船交通及导游。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Phuket及Phuket and Pa Tong提供接送服务；具体地点和时间将在预订确认后与One Asia Corporation协商确定，所选套餐决定是否包含交通费用。\n\n在Phuket提供酒店接送。One Asia Corporation将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "高级快艇双体船交通",
+   "导游"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
+  ]
+ },
+ "coral-island-snorkeling-and-promthep-sunset-dinner": {
+  "title": "珊瑚岛浮潜和攀西角日落晚餐",
+  "metaTitle": "珊瑚岛浮潜和攀西角日落晚餐",
+  "shortDescription": "4小时的Phuket游览，含Yacht及Andaman Sea and Promthep Cape。运营商：Happy Holiday Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Phuket体验，围绕Yacht及Andaman Sea and Promthep Cape展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含如选择酒店接送选项，提供往返酒店接送、自助晚餐及软饮料。不包含毛巾、小费、可选水上及沙滩活动及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Phuket提供酒店接送。Happy Holiday Thailand将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "如选择酒店接送选项，提供往返酒店接送",
+   "自助晚餐",
+   "软饮料"
+  ],
+  "notIncluded": [
+   "毛巾",
+   "小费",
+   "可选水上及沙滩活动",
+   "个人花费"
+  ]
+ },
+ "phi-phi-maya-khai-island-snorkeling-day-trip-from-phuket-by-local-operator": {
+  "title": "从普吉岛出发的皮皮岛、玛雅湾、蛋岛浮潜一日游（本地运营商）",
+  "metaTitle": "从普吉岛出发的皮皮岛、玛雅湾、蛋岛浮潜一日游（本地运营商）",
+  "shortDescription": "1小时的Phuket游览，含Phi Phi Islands及Maya Bay and Khai Islands。运营商：Thai Adventure Hub，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1小时的Phuket体验，围绕Phi Phi Islands及Maya Bay and Khai Islands展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含普吉岛酒店接送服务、快艇往返接送、浮潜装备、午餐及国家公园费用。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPhuket.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "普吉岛酒店接送服务",
+   "快艇往返接送",
+   "浮潜装备",
+   "午餐",
+   "国家公园费用"
   ],
   "notIncluded": [
    "个人花费",
@@ -11668,6 +12517,39 @@ export const ZH_TOURS: Record<string, TourT> = {
    "国家公园费用",
    "往返接送（如选择该套餐）",
    "救生衣"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
+  ]
+ },
+ "james-bond-island-luxury-sunset-cruise": {
+  "title": "007岛豪华日落游船之旅",
+  "metaTitle": "007岛豪华日落游船之旅",
+  "shortDescription": "8小时的Phuket游览，含Phang Nga Bay。运营商：Seanery，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Phuket体验，围绕Phang Nga Bay展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含普吉岛往返交通、午餐和晚餐、季节性水果、无限量软饮料及毛巾。不包含个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPhuket.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "普吉岛往返交通",
+   "午餐和晚餐",
+   "季节性水果",
+   "无限量软饮料",
+   "毛巾"
+  ],
+  "notIncluded": [
+   "个人花费"
+  ]
+ },
+ "phi-phi-maya-bay-and-khai-island-speedboat-day-tour": {
+  "title": "皮皮岛、玛雅湾和蛋岛快艇一日游",
+  "metaTitle": "皮皮岛、玛雅湾和蛋岛快艇一日游",
+  "shortDescription": "8.5小时的Phuket游览，含Speedboat及Khai Islands and Phi Phi Islands。运营商：Happy Holiday Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8.5小时的Phuket体验，围绕Speedboat及Khai Islands and Phi Phi Islands展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n皮皮岛距普吉岛45公里，距甲米40公里，是两座石灰岩岛屿，皮皮东岛（Phi Phi Don）有村庄和酒店，皮皮莱岛（Phi Phi Leh）则无人居住，岛上有玛雅湾，也就是2000年那部电影的拍摄海滩。玛雅湾在2018年至2022年间关闭，让珊瑚礁得以恢复，如今实行湾内禁止船只驶入、从岛后方设有步道进入、禁止游泳，并且每年8月至9月都会关闭。Pileh潟湖、维京洞穴和竹子岛（Bamboo Island）是每条快艇航线的其他停靠点；11月至4月海面最为平静，早班船能在人群到来之前抵达玛雅湾。\n\n价格包含酒店接送、浮潜装备、泰式午餐、新鲜水果拼盘及英语导游。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPhuket.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "浮潜装备",
+   "泰式午餐",
+   "新鲜水果拼盘",
+   "英语导游"
   ],
   "notIncluded": [
    "个人花费",
@@ -11739,6 +12621,91 @@ export const ZH_TOURS: Record<string, TourT> = {
    "国家公园门票（成人300泰铢）"
   ]
  },
+ "andaman-zenith-phi-phi-sunset-4-island-masterpiece-tour-phuket": {
+  "title": "安达曼之巅：皮皮岛日落及四岛精华之旅（普吉岛）",
+  "metaTitle": "安达曼之巅：皮皮岛日落及四岛精华之旅（普吉岛）",
+  "shortDescription": "8.5小时的Phuket游览，含Nopparat Thara pier及Speedboat and Arida Restaurant 2。运营商：Thailand Escapes，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8.5小时的Phuket体验，围绕Nopparat Thara pier及Speedboat and Arida Restaurant 2展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n皮皮岛距普吉岛45公里，距甲米40公里，是两座石灰岩岛屿，皮皮东岛（Phi Phi Don）有村庄和酒店，皮皮莱岛（Phi Phi Leh）则无人居住，岛上有玛雅湾，也就是2000年那部电影的拍摄海滩。玛雅湾在2018年至2022年间关闭，让珊瑚礁得以恢复，如今实行湾内禁止船只驶入、从岛后方设有步道进入、禁止游泳，并且每年8月至9月都会关闭。Pileh潟湖、维京洞穴和竹子岛（Bamboo Island）是每条快艇航线的其他停靠点；11月至4月海面最为平静，早班船能在人群到来之前抵达玛雅湾。\n\n价格包含酒店往返接送、饮用水及软饮料及季节性水果。不包含强制缴纳的诺帕拉塔拉和皮皮群岛国家公园门票费用（成人400泰铢，儿童200泰铢），确保公园管理员能够维护野生动物和清洁环境，供所有人享用及船员小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Ao Nang、Tubkaek Beach、Krabi Town及Ao Nam Mao Beach and Klong Muang Beach提供接送服务；具体地点和时间将在预订确认后与Thailand Escapes协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店往返接送",
+   "饮用水及软饮料",
+   "季节性水果"
+  ],
+  "notIncluded": [
+   "强制缴纳的诺帕拉塔拉和皮皮群岛国家公园门票费用（成人400泰铢，儿童200泰铢），确保公园管理员能够维护野生动物和清洁环境，供所有人享用",
+   "船员小费"
+  ]
+ },
+ "bangkok-long-boat-canal-a-big-buddha-and-culture-markets-tour-phuket": {
+  "title": "曼谷运河长船、大佛和文化市场之旅（普吉岛）",
+  "metaTitle": "曼谷运河长船、大佛和文化市场之旅（普吉岛）",
+  "shortDescription": "2小时的Phuket游览，含长尾船、持证英语导游及饮用水。运营商：Best Local Experiences，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Phuket体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含长尾船、持证英语导游及饮用水。不包含酒精饮料及午餐，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "长尾船",
+   "持证英语导游",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "酒精饮料",
+   "午餐"
+  ]
+ },
+ "grand-palace-wat-arun-big-buddha-small-group-tour": {
+  "title": "大皇宫、郑王庙、大佛小团之旅",
+  "metaTitle": "大皇宫、郑王庙、大佛小团之旅",
+  "shortDescription": "8小时的Phuket游览，含Wat Arun及Ferry and Grand Palace Bangkok。运营商：OTO TRIP SERVICE CO., LTD，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Phuket体验，围绕Wat Arun及Ferry and Grand Palace Bangkok展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含英语导游、大皇宫、郑王庙和大佛门票及可选酒店接送服务。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Phuket提供酒店接送。OTO TRIP SERVICE CO., LTD将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "英语导游",
+   "大皇宫、郑王庙和大佛门票",
+   "可选酒店接送服务"
+  ],
+  "notIncluded": []
+ },
+ "premium-phi-phi-islands-day-trip-with-lunch-and-snorkel": {
+  "title": "皮皮群岛高级一日游（含午餐和浮潜）",
+  "metaTitle": "皮皮群岛高级一日游（含午餐和浮潜）",
+  "shortDescription": "6.5小时的Krabi游览，含奥南、奥南毛、克隆芒、图卡和甲米镇酒店接送、专业本地导游及美味自助午餐。运营商：Love Nature Krabi Travel and Tours，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6.5小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含奥南、奥南毛、克隆芒、图卡和甲米镇酒店接送、专业本地导游及美味自助午餐。不包含国家公园门票，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Love Nature Krabi Travel and Tours将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "奥南、奥南毛、克隆芒、图卡和甲米镇酒店接送",
+   "专业本地导游",
+   "美味自助午餐"
+  ],
+  "notIncluded": [
+   "国家公园门票"
+  ]
+ },
+ "7-islands-sunset-and-bioluminescent-swim-tour-in-krabi": {
+  "title": "甲米七岛日落和荧光海游泳之旅",
+  "metaTitle": "甲米七岛日落和荧光海游泳之旅",
+  "shortDescription": "8小时的Krabi游览，含奥南和甲米镇往返酒店接送、快艇游览及沙滩泰式烧烤晚餐。运营商：AMAKA TOURS TRAVEL，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含奥南和甲米镇往返酒店接送、快艇游览及沙滩泰式烧烤晚餐。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Tean Island and Ko Poda提供接送服务；具体地点和时间将在预订确认后与AMAKA TOURS TRAVEL协商确定，所选套餐决定是否包含交通费用。\n\n在Krabi提供酒店接送。AMAKA TOURS TRAVEL将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "奥南和甲米镇往返酒店接送",
+   "快艇游览",
+   "沙滩泰式烧烤晚餐"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
+  ]
+ },
+ "krabi-s-whisper-phi-phi-and-4-islands-sunset-speedboat-tour-by-local-operator": {
+  "title": "甲米轻语：皮皮岛和四岛日落快艇之旅（本地运营商）",
+  "metaTitle": "甲米轻语：皮皮岛和四岛日落快艇之旅（本地运营商）",
+  "shortDescription": "8.5小时的Krabi游览，含Speedboat及Maya Bay and Pileh Lagoon。运营商：Thailand Escapes，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8.5小时的Krabi体验，围绕Speedboat及Maya Bay and Pileh Lagoon展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店往返接送、饮用水和时令水果及泰式午餐套餐和零食。不包含国家公园门票（成人400泰铢，儿童200泰铢），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Ao Nang、Krabi、Ao Nammao及Klong Muang Beach and Nong Thale提供接送服务；具体地点和时间将在预订确认后与Thailand Escapes协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店往返接送",
+   "饮用水和时令水果",
+   "泰式午餐套餐和零食"
+  ],
+  "notIncluded": [
+   "国家公园门票（成人400泰铢，儿童200泰铢）"
+  ]
+ },
  "hong-island-tour-with-spanish-or-french-speaking-guide": {
   "title": "杭岛之旅（配西班牙语或法语导游）",
   "metaTitle": "杭岛之旅（配西班牙语或法语导游）",
@@ -11799,6 +12766,63 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "jungle-atv-tour-and-thai-cooking-class-with-pickup-in-krabi": {
+  "title": "甲米丛林全地形车之旅和泰式烹饪课（含接送）",
+  "metaTitle": "甲米丛林全地形车之旅和泰式烹饪课（含接送）",
+  "shortDescription": "6小时的Krabi游览，含空调车辆往返酒店接送及享受45分钟穿越森林和泥地越野路线的全地形车驾驶体验。运营商：Choke Chai M Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\n价格包含空调车辆往返酒店接送及享受45分钟穿越森林和泥地越野路线的全地形车驾驶体验。不包含小费（可自愿支付）及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Choke Chai M Travel将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "空调车辆往返酒店接送",
+   "享受45分钟穿越森林和泥地越野路线的全地形车驾驶体验"
+  ],
+  "notIncluded": [
+   "小费（可自愿支付）",
+   "个人花费"
+  ]
+ },
+ "ao-luek-bor-thor-mangrove-kayaking-tour-with-lunch-in-krabi": {
+  "title": "甲米Ao Luek Bor Thor红树林皮划艇之旅（含午餐）",
+  "metaTitle": "甲米Ao Luek Bor Thor红树林皮划艇之旅（含午餐）",
+  "shortDescription": "4小时的Krabi游览，含奥南、奥南毛、图卡和克隆地区所有酒店往返接送、甲米市区或甲米镇区域的拼车空调交通及专业英语导游。运营商：Eco Ventures Co., Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含奥南、奥南毛、图卡和克隆地区所有酒店往返接送、甲米市区或甲米镇区域的拼车空调交通及专业英语导游。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Eco Ventures Co., Ltd.将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "奥南、奥南毛、图卡和克隆地区所有酒店往返接送",
+   "甲米市区或甲米镇区域的拼车空调交通",
+   "专业英语导游"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
+  ]
+ },
+ "kayaking-sunset-at-ao-thalane-tour-with-bbq-dinner-in-krabi": {
+  "title": "甲米Ao Thalane日落皮划艇之旅（含烧烤晚餐）",
+  "metaTitle": "甲米Ao Thalane日落皮划艇之旅（含烧烤晚餐）",
+  "shortDescription": "4小时的Krabi游览，含酒店接送及经验丰富的导游。运营商：Anda Krabi Seatour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含酒店接送及经验丰富的导游。不包含小费及莱利海滩、甲米Centara Grand Beach Resort and Villas及兰塔岛酒店接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Krabi and Ao Nang提供接送服务；具体地点和时间将在预订确认后与Anda Krabi Seatour协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "经验丰富的导游"
+  ],
+  "notIncluded": [
+   "小费",
+   "莱利海滩、甲米Centara Grand Beach Resort and Villas及兰塔岛酒店接送"
+  ]
+ },
+ "hong-islands-sunset-bbq-by-luxury-vintage-boat-join": {
+  "title": "红岛日落烧烤豪华复古游船之旅（拼团）",
+  "metaTitle": "红岛日落烧烤豪华复古游船之旅（拼团）",
+  "shortDescription": "7小时的Krabi游览，含酒店接送、豪华复古游船及桨板x1。运营商：Anda Krabi Seatour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、豪华复古游船及桨板x1。不包含强制国家公园门票附加费（成人300泰铢，儿童150泰铢），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Khlong Muang and Ao Nang提供接送服务；具体地点和时间将在预订确认后与Anda Krabi Seatour协商确定，所选套餐决定是否包含交通费用。\n\n在Krabi提供酒店接送。Anda Krabi Seatour将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "豪华复古游船",
+   "桨板x1"
+  ],
+  "notIncluded": [
+   "强制国家公园门票附加费（成人300泰铢，儿童150泰铢）"
+  ]
+ },
  "krabi-romantic-scenic-escape": {
   "title": "甲米浪漫风光之旅",
   "metaTitle": "甲米浪漫风光之旅",
@@ -11812,6 +12836,20 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "国家公园门票（每人450泰铢）",
    "个人花费"
+  ]
+ },
+ "4-islands-sea-hopping-day-trip-and-optional-sunset-experience-krabi": {
+  "title": "甲米四岛跳岛一日游和可选日落体验",
+  "metaTitle": "甲米四岛跳岛一日游和可选日落体验",
+  "shortDescription": "3小时的Krabi游览，含甲米指定区域酒店接送及快艇或长尾船四岛之旅。运营商：Eco Ventures Co., Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含甲米指定区域酒店接送及快艇或长尾船四岛之旅。不包含个人花费及国家公园费用，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Eco Ventures Co., Ltd.将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "甲米指定区域酒店接送",
+   "快艇或长尾船四岛之旅"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "国家公园费用"
   ]
  },
  "tropical-sunset-odyssey-7-islands-longtail-cruise-in-krabi": {
@@ -11844,6 +12882,52 @@ export const ZH_TOURS: Record<string, TourT> = {
    "诺帕拉塔拉和皮皮群岛国家公园费用（成人200泰铢，儿童100泰铢）"
   ]
  },
+ "krabi-1-day-adventure-tiger-cave-emerald-waterfall-and-beach-by-local-operator": {
+  "title": "甲米一日探险：虎穴寺、翡翠瀑布和海滩（本地运营商）",
+  "metaTitle": "甲米一日探险：虎穴寺、翡翠瀑布和海滩（本地运营商）",
+  "shortDescription": "8小时的Krabi游览，含接送、英语导游、午餐、水及保险。运营商：T.P. Travel & Tour (1989)，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含接送、英语导游、午餐、水及保险。不包含国家公园门票费用（成人250泰铢，3至9岁儿童150泰铢），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Ao Nang及Krabi Town and Klong Muang Beach提供接送服务；具体地点和时间将在预订确认后与T.P. Travel & Tour (1989)协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "接送",
+   "英语导游",
+   "午餐",
+   "水",
+   "保险"
+  ],
+  "notIncluded": [
+   "国家公园门票费用（成人250泰铢，3至9岁儿童150泰铢）"
+  ]
+ },
+ "phi-phi-grand-islands-odyssey-by-speedboat": {
+  "title": "皮皮岛群岛大冒险快艇之旅",
+  "metaTitle": "皮皮岛群岛大冒险快艇之旅",
+  "shortDescription": "8小时的Krabi游览，含Nopparat Thara pier及Floating Pier (East Railay) and Speedboat。运营商：Thailand Escapes，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Krabi体验，围绕Nopparat Thara pier及Floating Pier (East Railay) and Speedboat展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店往返接送、饮用水及软饮料及季节性水果。不包含诺帕拉塔拉和皮皮群岛国家公园门票费用（成人400泰铢，儿童200泰铢）及船员小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Nong Thale、Krabi、Ao Nang及Ao Nammao and Khlong Muang提供接送服务；具体地点和时间将在预订确认后与Thailand Escapes协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店往返接送",
+   "饮用水及软饮料",
+   "季节性水果"
+  ],
+  "notIncluded": [
+   "诺帕拉塔拉和皮皮群岛国家公园门票费用（成人400泰铢，儿童200泰铢）",
+   "船员小费"
+  ]
+ },
+ "dirt-bike-ride-to-khlong-nam-sai-2-hrs-in-krabi": {
+  "title": "甲米Khlong Nam Sai越野摩托车骑行（2小时）",
+  "metaTitle": "甲米Khlong Nam Sai越野摩托车骑行（2小时）",
+  "shortDescription": "2小时的Krabi游览，含越野摩托车租赁（含满油箱，车型包括KLX150、WR155、CRF250、CRF300）、酒店接送及本地专业导游。运营商：Krabi Enduro Tours，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含越野摩托车租赁（含满油箱，车型包括KLX150、WR155、CRF250、CRF300）、酒店接送及本地专业导游。不包含配备无人机及专业相机的专业摄影师及运动相机租赁，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Krabi and Ao Nang提供接送服务；具体地点和时间将在预订确认后与Krabi Enduro Tours协商确定，所选套餐决定是否包含交通费用。\n\n在Krabi提供酒店接送。Krabi Enduro Tours将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "越野摩托车租赁（含满油箱，车型包括KLX150、WR155、CRF250、CRF300）",
+   "酒店接送",
+   "本地专业导游"
+  ],
+  "notIncluded": [
+   "配备无人机及专业相机的专业摄影师",
+   "运动相机租赁"
+  ]
+ },
  "hot-spring-emerald-pool-and-elephant-sanctuary-tour-in-krabi": {
   "title": "甲米温泉、翡翠池与象保护区之旅",
   "metaTitle": "甲米温泉、翡翠池与象保护区之旅",
@@ -11858,6 +12942,23 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "james-bond-and-hong-islands-withcanoeing-by-speed-boat": {
+  "title": "007岛和红岛快艇之旅（含划艇）",
+  "metaTitle": "007岛和红岛快艇之旅（含划艇）",
+  "shortDescription": "6小时的Krabi游览，含Hong Island及James Bond Island and Khao Phing Kan。运营商：GR Rungtawan Co., LTD.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6小时的Krabi体验，围绕Hong Island及James Bond Island and Khao Phing Kan展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含保险、酒店接送及浮潜装备和救生衣。不包含防水袋、个人花费、脚蹼及国家公园门票费用（成人600泰铢，儿童300泰铢），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Ao Nammao及Krabi and Ao Nang提供接送服务；具体地点和时间将在预订确认后与GR Rungtawan Co., LTD.协商确定，所选套餐决定是否包含交通费用。\n\n在Krabi提供酒店接送。GR Rungtawan Co., LTD.将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "保险",
+   "酒店接送",
+   "浮潜装备和救生衣"
+  ],
+  "notIncluded": [
+   "防水袋",
+   "个人花费",
+   "脚蹼",
+   "国家公园门票费用（成人600泰铢，儿童300泰铢）"
+  ]
+ },
  "1-day-khao-sok-and-2-day-cheow-lan-lake-safari-in-krabi": {
   "title": "甲米1日考索与2日乔兰湖探险之旅",
   "metaTitle": "甲米1日考索与2日乔兰湖探险之旅",
@@ -11871,6 +12972,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "其他个人花费",
    "小费"
+  ]
+ },
+ "luminous-lagoon-sunset-islands-and-speedboat-adventure-in-krabi": {
+  "title": "甲米荧光泻湖日落岛屿和快艇探险之旅",
+  "metaTitle": "甲米荧光泻湖日落岛屿和快艇探险之旅",
+  "shortDescription": "5小时的Krabi游览，含Speedboat及Phra Nang Beach and Chicken Island。运营商：Thailand Escapes，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Krabi体验，围绕Speedboat及Phra Nang Beach and Chicken Island展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店往返接送、饮用水、软饮料及季节性水果及泰式迷你自助晚餐（含小份烧烤）。不包含诺帕拉塔拉和皮皮群岛国家公园门票费用（成人200泰铢，儿童100泰铢）及脚蹼，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Nong Thale、Sai Thai、Ao Nang、Ao Nammao及Krabi and Khlong Muang提供接送服务；具体地点和时间将在预订确认后与Thailand Escapes协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店往返接送",
+   "饮用水、软饮料及季节性水果",
+   "泰式迷你自助晚餐（含小份烧烤）"
+  ],
+  "notIncluded": [
+   "诺帕拉塔拉和皮皮群岛国家公园门票费用（成人200泰铢，儿童100泰铢）",
+   "脚蹼"
   ]
  },
  "ko-lanta-full-day-mangrove-and-sea-cave-kayaking-experience-krabi": {
@@ -11914,6 +13030,23 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "awaken-to-paradise-phi-phi-island-dawn-cruise": {
+  "title": "唤醒天堂：皮皮岛黎明游船",
+  "metaTitle": "唤醒天堂：皮皮岛黎明游船",
+  "shortDescription": "9.5小时的Krabi游览，含Nopparat Thara pier及Speedboat and Railay Beach。运营商：Thailand Escapes，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场9.5小时的Krabi体验，围绕Nopparat Thara pier及Speedboat and Railay Beach展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店往返接送、饮用水及软饮料、季节性水果、皮皮岛Arida餐厅自助午餐及浮潜装备。不包含小费及诺帕拉塔拉和皮皮群岛国家公园门票费用（成人400泰铢，儿童200泰铢），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Pak Nam、Ao Nang及Khlong Muang and Ao Nammao提供接送服务；具体地点和时间将在预订确认后与Thailand Escapes协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店往返接送",
+   "饮用水及软饮料",
+   "季节性水果",
+   "皮皮岛Arida餐厅自助午餐",
+   "浮潜装备"
+  ],
+  "notIncluded": [
+   "小费",
+   "诺帕拉塔拉和皮皮群岛国家公园门票费用（成人400泰铢，儿童200泰铢）"
+  ]
+ },
  "premium-james-bond-island-speedboat-and-canoe-trip": {
   "title": "詹姆斯邦德岛豪华快艇及皮划艇之旅",
   "metaTitle": "詹姆斯邦德岛豪华快艇及皮划艇之旅",
@@ -11929,6 +13062,38 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "强制国家公园门票附加费（成人300泰铢，儿童150泰铢）",
    "个人花费"
+  ]
+ },
+ "stand-up-paddle-board-rental-ao-nang-beach": {
+  "title": "奥南海滩立式桨板租赁",
+  "metaTitle": "奥南海滩立式桨板租赁",
+  "shortDescription": "4小时的Krabi游览，含立式桨板装备、瓶装水及示范讲解。运营商：Anda Krabi Seatour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含立式桨板装备、瓶装水及示范讲解。不包含酒店接送、餐食及导游，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Ao Nang and Khlong Muang提供接送服务；具体地点和时间将在预订确认后与Anda Krabi Seatour协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "立式桨板装备",
+   "瓶装水",
+   "示范讲解"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "餐食",
+   "导游"
+  ]
+ },
+ "ko-lanta-sea-cave-kayaking-adventure-and-mangrove-kayaking-krabi": {
+  "title": "甲米：兰塔岛海洞皮划艇探险和红树林皮划艇",
+  "metaTitle": "甲米：兰塔岛海洞皮划艇探险和红树林皮划艇",
+  "shortDescription": "6.5小时的Krabi游览，含酒店接送、导游、皮划艇之旅、季节性水果及软饮料。运营商：Diamond Cave Tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6.5小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含酒店接送、导游、皮划艇之旅、季节性水果及软饮料。不包含门票费用，成人40泰铢，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nKo Lanta District.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "导游",
+   "皮划艇之旅",
+   "季节性水果",
+   "软饮料"
+  ],
+  "notIncluded": [
+   "门票费用，成人40泰铢"
   ]
  },
  "krabi-to-phi-phi-cove-speedboat-and-longtail-island-combo-by-local-operator": {
@@ -11972,6 +13137,20 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "aonang-thai-cooking-class-with-market-and-kitchen-garden-tour-in-krabi": {
+  "title": "甲米奥南：泰式烹饪课（含市场和菜园游览）",
+  "metaTitle": "甲米奥南：泰式烹饪课（含市场和菜园游览）",
+  "shortDescription": "4小时的Krabi游览，含酒店接送、饮用水及参观当地生鲜市场及家庭有机泰式香草菜园。运营商：Authentic Thai Cooking School，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\n价格包含酒店接送、饮用水及参观当地生鲜市场及家庭有机泰式香草菜园。不包含可自费购买啤酒和酒类饮品，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Authentic Thai Cooking School将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "饮用水",
+   "参观当地生鲜市场及家庭有机泰式香草菜园"
+  ],
+  "notIncluded": [
+   "可自费购买啤酒和酒类饮品"
+  ]
+ },
  "4-island-whirlwind-tour-with-caves-sandbars-and-reefs-in-krabi": {
   "title": "甲米4岛速览之旅：洞穴、沙洲与珊瑚礁",
   "metaTitle": "甲米4岛速览之旅：洞穴、沙洲与珊瑚礁",
@@ -12003,6 +13182,37 @@ export const ZH_TOURS: Record<string, TourT> = {
    "不含莱利海滩及东赛海滩接送"
   ]
  },
+ "khao-khanab-nam-caves-tour-with-romantic-boat-ride-in-krabi": {
+  "title": "甲米考卡纳南洞穴之旅（含浪漫游船）",
+  "metaTitle": "甲米考卡纳南洞穴之旅（含浪漫游船）",
+  "shortDescription": "3小时的Krabi游览，含酒店接送、长尾船往返及英语导游。运营商：Srisawat Travel and Tour Limited Partnership，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、长尾船往返及英语导游。不包含个人花费及导游小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Srisawat Travel and Tour Limited Partnership将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "长尾船往返",
+   "英语导游"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "导游小费"
+  ]
+ },
+ "krabi-s-hong-island-speed-boat-blast-with-360-viewpoint-by-local-operator": {
+  "title": "甲米红岛快艇畅游之旅（含360度观景点，本地运营商）",
+  "metaTitle": "甲米红岛快艇畅游之旅（含360度观景点，本地运营商）",
+  "shortDescription": "6小时的Krabi游览，含Wang Sai Speed Boat及Speedboat and Ko Pak Bia。运营商：Wangsai Speed Boat，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6小时的Krabi体验，围绕Wang Sai Speed Boat及Speedboat and Ko Pak Bia展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店往返接送、快艇游览、饮用水及季节性水果、码头简便早餐及风味浓郁的泰式野餐午餐。不包含塔邦科拉尼国家公园门票费用（成人300泰铢，儿童150泰铢），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Sai Thai、Ao Nang及Krabi and Nong Thale提供接送服务；具体地点和时间将在预订确认后与Wangsai Speed Boat协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店往返接送",
+   "快艇游览",
+   "饮用水及季节性水果",
+   "码头简便早餐",
+   "风味浓郁的泰式野餐午餐"
+  ],
+  "notIncluded": [
+   "塔邦科拉尼国家公园门票费用（成人300泰铢，儿童150泰铢）"
+  ]
+ },
  "hong-island-longtail-adventure-lagoon-and-scenic-views": {
   "title": "杭岛长尾船探险：泻湖与绝美风光",
   "metaTitle": "杭岛长尾船探险：泻湖与绝美风光",
@@ -12018,6 +13228,23 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "小费",
    "塔邦哥拉尼国家公园费用（成人300泰铢，儿童150泰铢）"
+  ]
+ },
+ "a-swift-marine-journey-to-the-secrets-of-hong-lagoon-in-krabi": {
+  "title": "甲米：探索红岛泻湖奥秘的畅快海上之旅",
+  "metaTitle": "甲米：探索红岛泻湖奥秘的畅快海上之旅",
+  "shortDescription": "6小时的Krabi游览，含Nopparat Thara pier及Speedboat and Hong Island。运营商：Thailand Escapes，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6小时的Krabi体验，围绕Nopparat Thara pier及Speedboat and Hong Island展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店往返接送、饮用水及季节性水果、午餐套餐、浮潜装备及救生衣。不包含塔邦科拉尼国家公园门票费用（成人300泰铢，儿童150泰铢）及个人小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Ao Nang、Nong Thale、Khlong Muang及Krabi and Ao Nammao提供接送服务；具体地点和时间将在预订确认后与Thailand Escapes协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店往返接送",
+   "饮用水及季节性水果",
+   "午餐套餐",
+   "浮潜装备",
+   "救生衣"
+  ],
+  "notIncluded": [
+   "塔邦科拉尼国家公园门票费用（成人300泰铢，儿童150泰铢）",
+   "个人小费"
   ]
  },
  "krabi-sunrise-odyssey-beat-the-crowds-to-phi-phi-s-paradise-by-local-operator": {
@@ -12050,6 +13277,42 @@ export const ZH_TOURS: Record<string, TourT> = {
    "寺庙门票"
   ]
  },
+ "tiger-cave-temple-sunset-tour-in-krabi": {
+  "title": "甲米虎穴寺日落之旅",
+  "metaTitle": "甲米虎穴寺日落之旅",
+  "shortDescription": "4小时的Krabi游览，含酒店往返接送、水果、饮用水、导游及保险。运营商：Anda Krabi Seatour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n甲米的内陆一日游是市区以南的丛林三大景点：虎穴寺（Wat Tham Suea），1,260级石阶通向山顶佛像，俯瞰整片喀斯特平原（上山约需一小时，10:00之后会非常酷热）；翡翠池，位于Thung Teao森林中的一处绿色矿泉，再沿一段短步道可到蓝池，那里只能观赏，不能游泳；还有Klong Thom温泉，温热的泉水从天然岩石池中流入一条清凉的小溪。行程按此顺序进行，结束时全身都会湿透。\n\n价格包含酒店往返接送、水果、饮用水、导游及保险。不包含虎穴寺门票（外国人成人50泰铢，儿童25泰铢）及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从4203及Nong Thale and 102 Panurat提供接送服务；具体地点和时间将在预订确认后与Anda Krabi Seatour协商确定，所选套餐决定是否包含交通费用。\n\n在Krabi提供酒店接送。Anda Krabi Seatour将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店往返接送",
+   "水果",
+   "饮用水",
+   "导游",
+   "保险"
+  ],
+  "notIncluded": [
+   "虎穴寺门票（外国人成人50泰铢，儿童25泰铢）",
+   "个人花费"
+  ]
+ },
+ "phi-phi-islands-speedboat-or-catamaran-tour": {
+  "title": "皮皮群岛快艇或双体船之旅",
+  "metaTitle": "皮皮群岛快艇或双体船之旅",
+  "shortDescription": "7.5小时的Krabi游览，含Speedboat及Bamboo Island and Maya Bay。运营商：Krabi Blue Sky，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7.5小时的Krabi体验，围绕Speedboat及Bamboo Island and Maya Bay展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、自助午餐、瓶装饮用水、软饮料及小吃。不包含国家公园费用、成人400泰铢、儿童200泰铢及脚蹼，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Pak Nam and Ao Nang提供接送服务；具体地点和时间将在预订确认后与Krabi Blue Sky协商确定，所选套餐决定是否包含交通费用。\n\n在Krabi提供酒店接送。Krabi Blue Sky将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "自助午餐",
+   "瓶装饮用水",
+   "软饮料",
+   "小吃"
+  ],
+  "notIncluded": [
+   "国家公园费用",
+   "成人400泰铢",
+   "儿童200泰铢",
+   "脚蹼"
+  ]
+ },
  "mangrove-kayaking-lagoon-and-waterfall-tour-in-krabi": {
   "title": "甲米红树林皮划艇、泻湖与瀑布之旅",
   "metaTitle": "甲米红树林皮划艇、泻湖与瀑布之旅",
@@ -12064,6 +13327,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "国家公园门票",
    "个人花费",
    "可自愿支付的小费"
+  ]
+ },
+ "unforgettable-full-day-khao-sok-lake-adventure-in-krabi": {
+  "title": "甲米考索湖全天难忘探险之旅",
+  "metaTitle": "甲米考索湖全天难忘探险之旅",
+  "shortDescription": "11小时的Krabi游览，含空调小巴往返酒店接送、乘坐传统长尾船游览秋兰湖观光之旅及专业本地导游。运营商：Koh Tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场11小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nKhao Sok National Park, two hours north of Phuket, is rainforest older than the Amazon on limestone cliffs, and Cheow Lan lake at its heart, created by a 1982 dam, is a drowned valley of karst towers and floating raft-house camps. Day trips run a long-tail boat across the lake, a jungle walk to a cave and lunch on a raft; overnights in the raft houses, with the gibbons calling at dawn, are what the park is for. Khao Lak itself is the quiet coast north of Phuket, the base for Similan trips, and the shore worst hit by the 2004 tsunami, with a memorial park at Ban Nam Khem.\n\n价格包含空调小巴往返酒店接送、乘坐传统长尾船游览秋兰湖观光之旅及专业本地导游。不包含酒精饮品，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Koh Tour将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "空调小巴往返酒店接送",
+   "乘坐传统长尾船游览秋兰湖观光之旅",
+   "专业本地导游"
+  ],
+  "notIncluded": [
+   "酒精饮品"
   ]
  },
  "krabi-s-emerald-escape-4-islands-snorkel-and-hidden-tombolo-by-local-operator": {
@@ -12081,6 +13358,34 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "小费",
    "诺帕拉塔拉和皮皮群岛国家公园费用（成人200泰铢，儿童100泰铢）"
+  ]
+ },
+ "krabi-kayak-and-atv-jungle-adventure-group-of-10-max": {
+  "title": "甲米皮划艇和全地形车丛林探险（最多10人团）",
+  "metaTitle": "甲米皮划艇和全地形车丛林探险（最多10人团）",
+  "shortDescription": "5小时的Krabi游览，含Ao Thalane and Krabi。运营商：For Friends travel &tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Krabi体验，围绕Ao Thalane and Krabi展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含奥南地区酒店接送、饮用水及季节性水果。不包含甲米镇和克隆芒地区酒店接送，每人额外收费100泰铢，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Nong Thale及Ao Nang and Pak Nam提供接送服务；具体地点和时间将在预订确认后与For Friends travel &tour协商确定，所选套餐决定是否包含交通费用。\n\n在Krabi提供酒店接送。For Friends travel &tour将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "奥南地区酒店接送",
+   "饮用水",
+   "季节性水果"
+  ],
+  "notIncluded": [
+   "甲米镇和克隆芒地区酒店接送，每人额外收费100泰铢"
+  ]
+ },
+ "old-market-tiger-cave-hot-springs-and-emerald-pool-in-krabi": {
+  "title": "甲米老市场、虎穴寺、温泉和翡翠池之旅",
+  "metaTitle": "甲米老市场、虎穴寺、温泉和翡翠池之旅",
+  "shortDescription": "5小时的Krabi游览，含酒店接送、经验丰富的英语导游及午餐。运营商：Ask Discovery Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n甲米的内陆一日游是市区以南的丛林三大景点：虎穴寺（Wat Tham Suea），1,260级石阶通向山顶佛像，俯瞰整片喀斯特平原（上山约需一小时，10:00之后会非常酷热）；翡翠池，位于Thung Teao森林中的一处绿色矿泉，再沿一段短步道可到蓝池，那里只能观赏，不能游泳；还有Klong Thom温泉，温热的泉水从天然岩石池中流入一条清凉的小溪。行程按此顺序进行，结束时全身都会湿透。\n\n价格包含酒店接送、经验丰富的英语导游及午餐。不包含国家公园费用，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Ao Nang及Mueang Krabi District and Tubkak hotel and resort提供接送服务；具体地点和时间将在预订确认后与Ask Discovery Thailand协商确定，所选套餐决定是否包含交通费用。\n\n在Krabi提供酒店接送。Ask Discovery Thailand将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "经验丰富的英语导游",
+   "午餐"
+  ],
+  "notIncluded": [
+   "国家公园费用"
   ]
  },
  "ko-lanta-half-day-ko-phee-and-ko-talabeng-kayaking-2-caves-krabi": {
@@ -12450,6 +13755,34 @@ export const ZH_TOURS: Record<string, TourT> = {
    "可自愿支付的小费"
   ]
  },
+ "elephant-sanctuary-and-jungle-trek-w-waterfall-in-chiang-mai": {
+  "title": "清迈大象保护区和丛林徒步瀑布之旅",
+  "metaTitle": "清迈大象保护区和丛林徒步瀑布之旅",
+  "shortDescription": "为期一整天的Chiang Mai游览，含Mae Win及Hidden gem and Traditional village。运营商：Chiang Mai Footsteps Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场为期一整天的Chiang Mai体验，围绕Mae Win及Hidden gem and Traditional village展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国的象旅游业正在不均衡地从骑乘和表演转向保护区模式，游客在那里喂食、陪伴行走并为被救助的象洗澡，而不骑乘它们，这种差异体现在象的身体状况上，也体现在经营者是否允许骑乘、使用象钩或锁链。清迈和普吉岛管理最好的营地会限制团队规模和接触时间，值得预订的营地会明确说明自己不允许的做法。考艾（Khao Yai）是泰国第一座国家公园，位于曼谷东北方向三小时车程处，在那里可以在黄昏时从吉普车上观察野生象群，还有长臂猿、犀鸟，偶尔也能见到公园内为数不多的熊。\n\n价格包含往返交通、酒店接送及英语导游。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。Chiang Mai Footsteps Travel将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "往返交通",
+   "酒店接送",
+   "英语导游"
+  ],
+  "notIncluded": []
+ },
+ "full-day-ethical-elephant-sanctuary-and-waterfall-in-chiang-mai": {
+  "title": "清迈全天人道大象保护区和瀑布之旅",
+  "metaTitle": "清迈全天人道大象保护区和瀑布之旅",
+  "shortDescription": "9小时的Chiang Mai游览，含Mae Wang District。运营商：Joy Elephant Sanctuary，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场9小时的Chiang Mai体验，围绕Mae Wang District展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国的象旅游业正在不均衡地从骑乘和表演转向保护区模式，游客在那里喂食、陪伴行走并为被救助的象洗澡，而不骑乘它们，这种差异体现在象的身体状况上，也体现在经营者是否允许骑乘、使用象钩或锁链。清迈和普吉岛管理最好的营地会限制团队规模和接触时间，值得预订的营地会明确说明自己不允许的做法。考艾（Khao Yai）是泰国第一座国家公园，位于曼谷东北方向三小时车程处，在那里可以在黄昏时从吉普车上观察野生象群，还有长臂猿、犀鸟，偶尔也能见到公园内为数不多的熊。\n\n价格包含酒店接送、导游、午餐、水及大象的食物和零食。不包含小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nMueang Chiang Mai District.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "导游",
+   "午餐",
+   "水",
+   "大象的食物和零食"
+  ],
+  "notIncluded": [
+   "小费"
+  ]
+ },
  "225cc-atv-zipline-and-sticky-waterfall-day-trip-in-chiang-mai": {
   "title": "清迈225cc越野车、丛林飞索与粘黏瀑布一日游",
   "metaTitle": "清迈225cc越野车、丛林飞索与粘黏瀑布一日游",
@@ -12486,6 +13819,19 @@ export const ZH_TOURS: Record<string, TourT> = {
   "fullDescription": "这是一场2小时的Chiang Mai体验，围绕Phoenix Adventure Park展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含清迈古城5公里范围内的酒店往返接送。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
   "included": [
    "清迈古城5公里范围内的酒店往返接送"
+  ],
+  "notIncluded": []
+ },
+ "doi-inthanon-park-day-trip-with-kiw-mae-pan-hike": {
+  "title": "因他暖国家公园一日游（含Kiw Mae Pan徒步）",
+  "metaTitle": "因他暖国家公园一日游（含Kiw Mae Pan徒步）",
+  "shortDescription": "为期一整天的Chiang Mai游览，含酒店接送、导游、午餐及所有门票。运营商：Chiang Mai Footsteps Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场为期一整天的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n因他暖山是泰国最高的山峰，海拔2,565米，位于清迈西南方向90公里处，山中的国家公园内有云雾森林、为国王与王后六十岁寿辰建造的双子皇家佛塔、Vachiratharn瀑布和Wachirathan瀑布，以及山坡上种植咖啡的克伦族和苗族村落。山顶气温常在10度左右，因此即使是在4月也需要带外套。山顶苔藓森林中的Ang Ka自然步道全程二十分钟，是泰北最佳的短途徒步路线。行程从清迈出发，时间为8:00至17:00。\n\n价格包含酒店接送、导游、午餐及所有门票。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。Chiang Mai Footsteps Travel将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "导游",
+   "午餐",
+   "所有门票"
   ],
   "notIncluded": []
  },
@@ -12561,6 +13907,50 @@ export const ZH_TOURS: Record<string, TourT> = {
    "软饮料"
   ]
  },
+ "doi-suthep-temple-guided-tour": {
+  "title": "素贴山寺导览之旅",
+  "metaTitle": "素贴山寺导览之旅",
+  "shortDescription": "4小时的Chiang Mai游览，含Doi Suthep-Pui National Park and Wat Phra That Doi Suthep。运营商：Sun Leisure World Corporation，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Chiang Mai体验，围绕Doi Suthep-Pui National Park and Wat Phra That Doi Suthep展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n双龙寺（Wat Phra That Doi Suthep）坐落在清迈上方的山上，建于1383年，用以供奉据说是佛陀肩骨的圣物，这块圣物由一头自行选定地点的白象驮上山来。306级那伽石阶通向一座露台，镀金的佛塔周围环绕着铜铃，整座城市就在1,000米之下；需要的游客也可以乘坐缆车上山。僧侣在6:00和18:00诵经，清晨城里的双条车（songthaews）尚未抵达之前，是最安静的时段。门票为30泰铢，着装需遮住肩膀和膝盖。\n\n价格包含专业英语导游、指定酒店的接送服务及空调车辆。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "专业英语导游",
+   "指定酒店的接送服务",
+   "空调车辆"
+  ],
+  "notIncluded": [
+   "个人花费及小费"
+  ]
+ },
+ "ethical-half-day-elephant-sanctuary-and-waterfall-in-chiang-mai": {
+  "title": "清迈半天人道大象保护区和瀑布之旅",
+  "metaTitle": "清迈半天人道大象保护区和瀑布之旅",
+  "shortDescription": "7小时的Chiang Mai游览，含Mae Wang District。运营商：Joy Elephant Sanctuary，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Chiang Mai体验，围绕Mae Wang District展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国的象旅游业正在不均衡地从骑乘和表演转向保护区模式，游客在那里喂食、陪伴行走并为被救助的象洗澡，而不骑乘它们，这种差异体现在象的身体状况上，也体现在经营者是否允许骑乘、使用象钩或锁链。清迈和普吉岛管理最好的营地会限制团队规模和接触时间，值得预订的营地会明确说明自己不允许的做法。考艾（Khao Yai）是泰国第一座国家公园，位于曼谷东北方向三小时车程处，在那里可以在黄昏时从吉普车上观察野生象群，还有长臂猿、犀鸟，偶尔也能见到公园内为数不多的熊。\n\n价格包含酒店接送、导游、午餐、水及大象食物。不包含小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Mueang Chiang Mai District and Mueang Chiang Mai District提供接送服务；具体地点和时间将在预订确认后与Joy Elephant Sanctuary协商确定，所选套餐决定是否包含交通费用。\n\n在Chiang Mai提供酒店接送。Joy Elephant Sanctuary将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "导游",
+   "午餐",
+   "水",
+   "大象食物"
+  ],
+  "notIncluded": [
+   "小费"
+  ]
+ },
+ "chiang-rai-temples-golden-triangle-and-kayan": {
+  "title": "清莱寺庙、金三角和长颈族之旅",
+  "metaTitle": "清莱寺庙、金三角和长颈族之旅",
+  "shortDescription": "15小时的Chiang Mai游览，含หมู่บ้านกะเหรี่ยงคอยาวปางแฟน及Mae Kachan Hot Spring and Wat Rong Khun。运营商：Chiangmai Smiley Tour Official，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场15小时的Chiang Mai体验，围绕หมู่บ้านกะเหรี่ยงคอยาวปางแฟน及Mae Kachan Hot Spring and Wat Rong Khun展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n清莱位于清迈东北方向三小时车程处，是前往白庙（Wat Rong Khun）一日游的目的地，这座白色镶镜的奇幻建筑由艺术家Chalermchai Kositpipat于1997年动工，至今仍在修建中，桥上布满无数伸出的手，内部还有流行文化题材的恶魔壁画。蓝庙和黑屋，已故艺术家Thawan Duchanee用动物皮革与深色柚木打造的建筑群，与之共同构成三大景点。金三角，泰国、老挝与缅甸在湄公河交汇之处，再往北一小时车程，那里有观景台、鸦片博物馆，还可乘船前往老挝的一座市场岛。从清迈出发，这是一整天12小时的行程。\n\n价格包含清迈市区酒店接送、空调车辆交通及英语导游。不包含个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。Chiangmai Smiley Tour Official将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "清迈市区酒店接送",
+   "空调车辆交通",
+   "英语导游"
+  ],
+  "notIncluded": [
+   "个人花费"
+  ]
+ },
  "two-days-doi-inthanon-national-park-chiang-mai": {
   "title": "两日因他暖山国家公园之旅（清迈）",
   "metaTitle": "两日因他暖山国家公园之旅（清迈）",
@@ -12633,6 +14023,16 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "食物"
   ]
+ },
+ "chinatown-street-food-tour-with-guide-in-bangkok": {
+  "title": "曼谷唐人街街头美食导览之旅",
+  "metaTitle": "曼谷唐人街街头美食导览之旅",
+  "shortDescription": "2小时的Bangkok游览，含品尝8种以上美食、甜品和水果。运营商：CanalTour x ExploreSiam，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n曼谷唐人街沿耀华力路（Yaowarat Road）延伸，该路建于1891年，白天两侧是金饰店，夜晚则变成小吃摊，人行道上摆满炭烤炉和面条车，著名摊位前排起长队：Phadungdao的烤海鲜、带胡椒味的卷粉guay jub、烤栗子，还有想尝鲜的人可以选择的燕窝和鱼翅。这是亚洲最密集的街头美食区，大约18:00开始热闹起来。曼谷米其林指南自2018年起开始评选街头摊位；在那里吃过的向导知道哪些队排得值得。\n\n价格包含品尝8种以上美食、甜品和水果。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "品尝8种以上美食、甜品和水果"
+  ],
+  "notIncluded": []
  },
  "bangkok-royal-boat-tour": {
   "title": "曼谷皇家公主号游船晚餐之旅（现场音乐演出）",
@@ -12762,6 +14162,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "酒精饮品"
   ]
  },
+ "affordable-ayutthaya-highlights-tour": {
+  "title": "超值大城府精华游",
+  "metaTitle": "超值大城府精华游",
+  "shortDescription": "7小时的Bangkok游览，含Bus/coach及Wat Chaiwatthanaram and Wat Phra Sri Sanphet。运营商：Affordable Holiday Co., Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Bangkok体验，围绕Bus/coach及Wat Chaiwatthanaram and Wat Phra Sri Sanphet展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n大城（阿瑜陀耶）曾是暹罗的首都，长达417年，直到1767年被缅甸军队攻陷。它的遗迹位于曼谷以北80公里处，是一处联合国教科文组织世界遗产，砖造佛塔和无头佛像散布在河中的一座岛上。Wat Mahathat菩提树根中嵌着的佛头是每个人都慕名而来的标志性景象，礼节上应蹲下，让自己的头低于佛头。河岸边的Wat Chaiwatthanaram保存最为完好，夜间会点灯照明。11:00后天气会变得酷热，提早出发并在各寺庙间使用自行车或嘟嘟车的行程，比步行的行程能看到更多景点。\n\n价格包含旅行保险、英语导游及往返交通。不包含午餐及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nRiver City Bangkok.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "旅行保险",
+   "英语导游",
+   "往返交通"
+  ],
+  "notIncluded": [
+   "午餐",
+   "个人花费"
+  ]
+ },
  "chao-phraya-dinner-cruise-with-private-transportation-in-bangkok": {
   "title": "曼谷昭披耶河晚餐游船（含私人接送）",
   "metaTitle": "曼谷昭披耶河晚餐游船（含私人接送）",
@@ -12843,6 +14258,19 @@ export const ZH_TOURS: Record<string, TourT> = {
    "食物及饮料"
   ]
  },
+ "chinatown-food-tour-with-michelin-food-stalls-in-bangkok": {
+  "title": "曼谷唐人街米其林美食摊位之旅",
+  "metaTitle": "曼谷唐人街米其林美食摊位之旅",
+  "shortDescription": "3小时的Bangkok游览，含10种美食品尝。运营商：DiscoverEase Tours，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n曼谷唐人街沿耀华力路（Yaowarat Road）延伸，该路建于1891年，白天两侧是金饰店，夜晚则变成小吃摊，人行道上摆满炭烤炉和面条车，著名摊位前排起长队：Phadungdao的烤海鲜、带胡椒味的卷粉guay jub、烤栗子，还有想尝鲜的人可以选择的燕窝和鱼翅。这是亚洲最密集的街头美食区，大约18:00开始热闹起来。曼谷米其林指南自2018年起开始评选街头摊位；在那里吃过的向导知道哪些队排得值得。\n\n价格包含10种美食品尝。不包含酒店接送及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nWat Mangkon Kamalawat (Wat Leng Noei Yi).. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "10种美食品尝"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "个人花费"
+  ]
+ },
  "bubble-in-the-forest-cafe-photography-journey-in-bangkok": {
   "title": "曼谷森林泡泡咖啡馆摄影之旅",
   "metaTitle": "曼谷森林泡泡咖啡馆摄影之旅",
@@ -12854,6 +14282,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "小费",
    "保险"
+  ]
+ },
+ "khao-yai-emerald-spring-and-hokkaido-flower-park": {
+  "title": "考艾、翡翠温泉和北海道花园之旅",
+  "metaTitle": "考艾、翡翠温泉和北海道花园之旅",
+  "shortDescription": "10小时的Bangkok游览，含Wat Thep Phithak Punnaram及Pak Chong and Ban Tha Chang Spring。运营商：TripGuru Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场10小时的Bangkok体验，围绕Wat Thep Phithak Punnaram及Pak Chong and Ban Tha Chang Spring展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国的象旅游业正在不均衡地从骑乘和表演转向保护区模式，游客在那里喂食、陪伴行走并为被救助的象洗澡，而不骑乘它们，这种差异体现在象的身体状况上，也体现在经营者是否允许骑乘、使用象钩或锁链。清迈和普吉岛管理最好的营地会限制团队规模和接触时间，值得预订的营地会明确说明自己不允许的做法。考艾（Khao Yai）是泰国第一座国家公园，位于曼谷东北方向三小时车程处，在那里可以在黄昏时从吉普车上观察野生象群，还有长臂猿、犀鸟，偶尔也能见到公园内为数不多的熊。\n\n价格包含MBK购物中心接送、空调车辆及专业导游。不包含个人花费及午餐，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Bangkok提供酒店接送。TripGuru Thailand将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "MBK购物中心接送",
+   "空调车辆",
+   "专业导游"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "午餐"
   ]
  },
  "dubai-hot-air-balloon-ride-in-vintage-land-rover": {
