@@ -191,6 +191,8 @@ export const KUALA_LUMPUR_INFO_SLUGS = [
   'best-tours-in-kuala-lumpur',
   'should-i-book-kuala-lumpur-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-kuala-lumpur',
+  // Tour-selling page (2026-11-14)
+  'best-petronas-towers-tour-kuala-lumpur',
 ];
 
 export const PENANG_INFO_SLUGS = [
@@ -203,6 +205,8 @@ export const PENANG_INFO_SLUGS = [
   'best-tours-in-penang',
   'should-i-book-penang-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-penang',
+  // Tour-selling page (2026-11-14)
+  'best-george-town-heritage-tour-penang',
 ];
 
 export const LANGKAWI_INFO_SLUGS = [

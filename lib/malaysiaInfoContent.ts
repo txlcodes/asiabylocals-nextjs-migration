@@ -1155,6 +1155,126 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        case "best-petronas-towers-tour-kuala-lumpur":
+            return {
+                title: "Which Is the Best Petronas Twin Towers Tour in Kuala Lumpur?",
+                seoTitle: "Best Petronas Towers Tour Kuala Lumpur 2026 | Honest Comparison",
+                description: "Compare real Petronas Twin Towers tours in Kuala Lumpur — from an $80 e-ticket to a skybridge dining experience and full-day combos with Batu Caves.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1428644/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "The Petronas Twin Towers are Kuala Lumpur's single most recognizable landmark, and nearly every visitor does one of three things: buy a straightforward observation deck ticket, book a sunset/night photography session at KLCC Park across the street, or fold the towers into a broader city tour alongside Batu Caves. The towers themselves sell out observation deck slots well in advance, so booking ahead matters more here than at most KL attractions.",
+                        tourCard: { slug: "kuala-lumpur-petronas-towers-e-tickets", title: "Kuala Lumpur Petronas Towers e-Tickets", description: "A straightforward observation deck ticket for the Petronas Twin Towers.", price: "From $80", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/624e7e3783dbf.jpeg" },
+                    },
+                    {
+                        title: "Cheapest: Twin Towers & Bukit Bintang",
+                        content: "This combo pairs a Twin Towers visit with Bukit Bintang, KL's main shopping and nightlife district, at the lowest price point — a good fit if you want the towers seen and photographed without the premium observation-deck ticket price.",
+                        tourCard: { slug: "kuala-lumpur-twin-towers-bukit-bintang", title: "Kuala Lumpur: Twin Towers & Bukit Bintang", description: "The most budget-friendly way to see the Twin Towers, paired with KL's shopping district.", price: "From $41", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1404503/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for Photos: KLCC Park Photoshoot",
+                        content: "KLCC Park, directly across from the towers, has the classic reflecting-pool photo angle everyone wants — this tour is built specifically around getting that shot at the best time of day rather than just observation-deck access.",
+                        tourCard: { slug: "kuala-lumpur-petronas-twin-towers-klcc-park", title: "Kuala Lumpur: Petronas Twin Towers & KLCC Park Photoshoot", description: "A short, photo-focused session at the classic KLCC Park reflecting-pool angle.", price: "From $114", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1428644/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for Dining: Skybridge View & Dining",
+                        content: "This experience combines the towers' skybridge view with a dining component — a good option if you want the view as part of a meal rather than a quick ticketed visit.",
+                        tourCard: { slug: "petronas-twin-towers-skybridge-view-dining", title: "Petronas Twin Towers Skybridge View & Dining Experience", description: "The skybridge view paired with a dining experience.", price: "From $121", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1380041/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Full-Day Combo: With Batu Caves",
+                        content: "For travellers who want the towers folded into a fuller KL sightseeing day, this private tour adds Batu Caves — the dramatic limestone-cave Hindu temple on the city's outskirts — to the Petronas Towers visit.",
+                        tourCard: { slug: "private-kl-city-tour-with-petronas-twin-towers", title: "Private KL City Tour with Petronas Twin Towers & Batu Caves", description: "A full private day pairing the city's two biggest landmarks.", price: "From $304", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c24b840b09bd.jpeg" },
+                    },
+                    {
+                        title: "Best All-Rounder: Best of KL with Twin Towers Entry",
+                        content: "This tour bundles Twin Towers observation deck entry with a broader best-of-KL circuit, making it an efficient single booking for travellers with only one day in the city.",
+                        tourCard: { slug: "best-of-kuala-lumpur-tour-with-twin-towers-entry", title: "Best of Kuala Lumpur Tour with Twin Towers Entry", description: "A full KL highlights circuit that includes Twin Towers observation deck entry.", price: "From $129", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fc3d44c58f733f08237851a4947ec43b7f9c42a50c763502af43cb7b5837fb82.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Observation deck tickets have timed entry slots and sell out, especially for sunset — book at least a few days ahead if a specific time matters to you. KLCC Park's photo angle is free and open to anyone, so if budget is the priority, you don't need a paid tour just to get the classic shot."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Petronas Towers tour in Kuala Lumpur?", a: "A straightforward e-ticket suits most visitors who just want observation deck access; combo tours with Batu Caves or Bukit Bintang work if you want a fuller day." },
+                    { q: "Do I need to book Petronas Towers tickets in advance?", a: "Yes — observation deck slots, especially at sunset, sell out, so booking a few days ahead is recommended." },
+                    { q: "Where's the best spot to photograph the Petronas Towers?", a: "KLCC Park, directly across the street, has the classic reflecting-pool angle and is free to visit." },
+                    { q: "Can the Petronas Towers be combined with Batu Caves?", a: "Yes — several full-day tours pair the towers with a Batu Caves visit for an efficient one-day KL itinerary." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Petronas Towers tour in Kuala Lumpur?", "acceptedAnswer": { "@type": "Answer", "text": "A straightforward e-ticket suits most visitors; combo tours with Batu Caves work for a fuller day." } },
+                        { "@type": "Question", "name": "Do I need to book Petronas Towers tickets in advance?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — observation deck slots, especially at sunset, sell out." } },
+                        { "@type": "Question", "name": "Where's the best spot to photograph the Petronas Towers?", "acceptedAnswer": { "@type": "Answer", "text": "KLCC Park, directly across the street, and it's free to visit." } },
+                        { "@type": "Question", "name": "Can the Petronas Towers be combined with Batu Caves?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — several full-day tours pair the two." } }
+                    ]
+                },
+            };
+
+        case "best-george-town-heritage-tour-penang":
+            return {
+                title: "Which Is the Best George Town Heritage Tour in Penang?",
+                seoTitle: "Best George Town Heritage Tour Penang 2026 | Honest Comparison",
+                description: "Compare real George Town heritage tours in Penang — from a $56 cycling tour to a $78 food tour with 12+ tastings, a dark-history walk, and a private customizable circuit.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/16e34273c84e0db20a1a614d598df3828406a5fee8c8381a6c64d049cebc1a49.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "George Town's UNESCO-listed old town is dense with colonial shophouses, street art, and multi-ethnic heritage — Chinese clan houses, Indian temples, and mosques often sit within a block of each other — which is why so many different tour angles exist here: straight heritage walks, food-focused crawls, and even a tour specifically about the district's darker colonial-era history. A standard heritage walking tour is the right starting point for most visitors.",
+                        tourCard: { slug: "george-town-heritage-trail-guided-walking-tour", title: "George Town: Heritage Trail Guided Walking Tour", description: "The standard way to see George Town's UNESCO-listed old town with a guide.", price: "From $116", duration: "5.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/16e34273c84e0db20a1a614d598df3828406a5fee8c8381a6c64d049cebc1a49.jpg" },
+                    },
+                    {
+                        title: "Cheapest: Countryside Cycling Tour",
+                        content: "If budget matters and you want something more active than a walk, this cycling tour through George Town and the Malay countryside nearby is the lowest-priced way to see a different side of Penang beyond the old town's streets.",
+                        tourCard: { slug: "george-town-penang-malay-countryside-cycling", title: "George Town, Penang: Malay Countryside Cycling", description: "A budget-friendly cycling tour through George Town and the surrounding countryside.", price: "From $56", duration: "4.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-665527/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Food Tour",
+                        content: "George Town is one of Malaysia's best food cities, and a 12+ tasting food tour is the most efficient way to work through its signature dishes without guessing which stalls are actually worth it.",
+                        tourCard: { slug: "george-town-authentic-food-tour-with-12-tastings", title: "George Town: Authentic Food Tour with 12+ Tastings", description: "A guided tasting crawl through George Town's signature street food.", price: "From $78", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3a3559d36d2702560cf4d2397c7efc73397483ba214ad3205c11ae712ba295c2.jpg" },
+                    },
+                    {
+                        title: "Best for a Different Angle: Dark History Walk",
+                        content: "This tour covers George Town's Chinese migration history and gang-war era — a genuinely different, more narrative-driven angle than the standard heritage-architecture walk, for travellers who want the grittier history behind the pretty streets.",
+                        tourCard: { slug: "george-towns-dark-past-chinese-migration-gang-wars", title: "George Town's Dark Past: Chinese Migration & Gang Wars", description: "A narrative-focused walk through George Town's darker migration and gang-war history.", price: "From $164", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1182916/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best with Breakfast Included",
+                        content: "This version pairs the heritage walk with a multi-ethnic breakfast option, letting you taste the city's Chinese, Indian and Malay influences in one sitting while you learn the history behind each neighborhood.",
+                        tourCard: { slug: "george-town-heritage-walk-multi-ethnic-breakfast", title: "George Town: Heritage Walk & Multi-Ethnic Breakfast Option", description: "A heritage walk paired with a multicultural breakfast tasting.", price: "From $150", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1430090/img0/1600.webp" },
+                    },
+                    {
+                        title: "If You Want It Private and Customizable",
+                        content: "For travellers who want to skip the fixed itinerary and build their own George Town day — more time at a specific temple, skipping a stop that doesn't interest you — this private, customizable tour gives full control over the route.",
+                        tourCard: { slug: "george-town-penang-customizable-private-tour", title: "George Town: Penang Customizable Private Tour", description: "A fully private, build-your-own-route tour of George Town.", price: "From $216", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-892858/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "George Town's heat is intense by midday — morning tours are far more comfortable than afternoon ones, especially for walking or cycling options. The street art trail (murals scattered through the old town) is free to follow on your own if you want to add it after a guided tour."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best George Town heritage tour in Penang?", a: "A standard heritage trail walking tour suits most visitors; a food tour or dark-history walk are good second-visit options." },
+                    { q: "What's the cheapest way to see George Town?", a: "A countryside cycling tour, which also gets you outside the old town for a different perspective on Penang." },
+                    { q: "What is George Town known for?", a: "Its UNESCO-listed colonial shophouses, street art, and multi-ethnic Chinese/Indian/Malay heritage packed into a compact old town." },
+                    { q: "When is the best time to walk George Town?", a: "Morning — the heat intensifies significantly by midday, especially on walking or cycling tours." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best George Town heritage tour in Penang?", "acceptedAnswer": { "@type": "Answer", "text": "A standard heritage trail walking tour suits most visitors." } },
+                        { "@type": "Question", "name": "What's the cheapest way to see George Town?", "acceptedAnswer": { "@type": "Answer", "text": "A countryside cycling tour, which also gets you outside the old town." } },
+                        { "@type": "Question", "name": "What is George Town known for?", "acceptedAnswer": { "@type": "Answer", "text": "UNESCO-listed colonial shophouses, street art, and multi-ethnic heritage." } },
+                        { "@type": "Question", "name": "When is the best time to walk George Town?", "acceptedAnswer": { "@type": "Answer", "text": "Morning — the heat intensifies by midday." } }
+                    ]
+                },
+            };
+
         default:
             return null;
     }

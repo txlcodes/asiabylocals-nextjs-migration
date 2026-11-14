@@ -141,6 +141,7 @@ const JAIPUR_SIDEBAR = [
 
 const KUALA_LUMPUR_SIDEBAR = [
     { name: 'Best Tours in Kuala Lumpur', slug: 'best-tours-in-kuala-lumpur' },
+    { name: 'Best Petronas Towers Tour', slug: 'best-petronas-towers-tour-kuala-lumpur' },
     { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-kuala-lumpur' },
     { name: 'KL Travel Guide', slug: 'kuala-lumpur-travel-guide-2026' },
     { name: 'Things to Do', slug: 'things-to-do-in-kuala-lumpur' },
@@ -158,6 +159,7 @@ const KUALA_LUMPUR_SIDEBAR = [
 
 const PENANG_SIDEBAR = [
     { name: 'Best Tours in Penang', slug: 'best-tours-in-penang' },
+    { name: 'Best George Town Heritage Tour', slug: 'best-george-town-heritage-tour-penang' },
     { name: 'Private Guide Cost', slug: 'how-much-should-a-private-tour-guide-cost-in-penang' },
     { name: 'Penang Travel Guide', slug: 'penang-travel-guide-2026' },
     { name: 'Things to Do', slug: 'things-to-do-in-penang' },
