@@ -11514,6 +11514,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "酒精饮品"
   ]
  },
+ "full-day-phi-phi-islands-and-sunset-tour-by-speedboat": {
+  "title": "皮皮岛全天游船及日落之旅（快艇）",
+  "metaTitle": "皮皮岛全天游船及日落之旅（快艇）",
+  "shortDescription": "9小时的Phuket游览，含Speedboat及Monkey Beach and Bamboo Island。运营商：Oh-Hoo，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场9小时的Phuket体验，围绕Speedboat及Monkey Beach and Bamboo Island展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n皮皮岛距普吉岛45公里，距甲米40公里，是两座石灰岩岛屿，皮皮东岛（Phi Phi Don）有村庄和酒店，皮皮莱岛（Phi Phi Leh）则无人居住，岛上有玛雅湾，也就是2000年那部电影的拍摄海滩。玛雅湾在2018年至2022年间关闭，让珊瑚礁得以恢复，如今实行湾内禁止船只驶入、从岛后方设有步道进入、禁止游泳，并且每年8月至9月都会关闭。Pileh潟湖、维京洞穴和竹子岛（Bamboo Island）是每条快艇航线的其他停靠点；11月至4月海面最为平静，早班船能在人群到来之前抵达玛雅湾。\n\n价格包含快艇游览、导游、午餐、饮用水及水果。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nMcDonald's PP Island Krabi.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "快艇游览",
+   "导游",
+   "午餐",
+   "饮用水",
+   "水果"
+  ],
+  "notIncluded": []
+ },
  "racha-islands-and-maiton-dolphin-spotting-by-catamaran": {
   "title": "双体船拉差群岛及梅通岛观海豚之旅",
   "metaTitle": "双体船拉差群岛及梅通岛观海豚之旅",
@@ -11829,6 +11843,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费",
    "诺帕拉塔拉和皮皮群岛国家公园费用（成人200泰铢，儿童100泰铢）"
   ]
+ },
+ "hot-spring-emerald-pool-and-elephant-sanctuary-tour-in-krabi": {
+  "title": "甲米温泉、翡翠池与象保护区之旅",
+  "metaTitle": "甲米温泉、翡翠池与象保护区之旅",
+  "shortDescription": "9小时的Krabi游览，含酒店接送、饮用水、国家公园费用、自助午餐及保险。运营商：khao panombenja jungle trekking，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场9小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国的象旅游业正在不均衡地从骑乘和表演转向保护区模式，游客在那里喂食、陪伴行走并为被救助的象洗澡，而不骑乘它们，这种差异体现在象的身体状况上，也体现在经营者是否允许骑乘、使用象钩或锁链。清迈和普吉岛管理最好的营地会限制团队规模和接触时间，值得预订的营地会明确说明自己不允许的做法。考艾（Khao Yai）是泰国第一座国家公园，位于曼谷东北方向三小时车程处，在那里可以在黄昏时从吉普车上观察野生象群，还有长臂猿、犀鸟，偶尔也能见到公园内为数不多的熊。\n\n价格包含酒店接送、饮用水、国家公园费用、自助午餐及保险。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nAo Nang.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "饮用水",
+   "国家公园费用",
+   "自助午餐",
+   "保险"
+  ],
+  "notIncluded": []
  },
  "1-day-khao-sok-and-2-day-cheow-lan-lake-safari-in-krabi": {
   "title": "甲米1日考索与2日乔兰湖探险之旅",
@@ -12167,6 +12195,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "可自愿支付的小费"
   ]
  },
+ "hot-spring-and-emerald-pool-jungle-tour-in-krabi": {
+  "title": "甲米温泉与翡翠池丛林之旅",
+  "metaTitle": "甲米温泉与翡翠池丛林之旅",
+  "shortDescription": "6小时的Krabi游览，含酒店接送、饮用水、国家公园费用、自助午餐及保险。运营商：khao panombenja jungle trekking，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n甲米的内陆一日游是市区以南的丛林三大景点：虎穴寺（Wat Tham Suea），1,260级石阶通向山顶佛像，俯瞰整片喀斯特平原（上山约需一小时，10:00之后会非常酷热）；翡翠池，位于Thung Teao森林中的一处绿色矿泉，再沿一段短步道可到蓝池，那里只能观赏，不能游泳；还有Klong Thom温泉，温热的泉水从天然岩石池中流入一条清凉的小溪。行程按此顺序进行，结束时全身都会湿透。\n\n价格包含酒店接送、饮用水、国家公园费用、自助午餐及保险。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。khao panombenja jungle trekking将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "饮用水",
+   "国家公园费用",
+   "自助午餐",
+   "保险"
+  ],
+  "notIncluded": []
+ },
  "sunrise-mangrove-kayak-at-ao-thalane-with-hotelpickup-in-krabi": {
   "title": "甲米塔拉内湾日出红树林皮划艇之旅（含酒店接送）",
   "metaTitle": "甲米塔拉内湾日出红树林皮划艇之旅（含酒店接送）",
@@ -12198,6 +12240,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费",
    "塔邦哥拉尼国家公园费用（成人300泰铢，儿童150泰铢）"
   ]
+ },
+ "hot-spring-emerald-pool-tiger-cave-and-elephant-in-krabi": {
+  "title": "甲米温泉、翡翠池、虎穴寺与象之旅",
+  "metaTitle": "甲米温泉、翡翠池、虎穴寺与象之旅",
+  "shortDescription": "10小时的Krabi游览，含酒店接送、饮用水、国家公园费用、自助午餐及保险。运营商：khao panombenja jungle trekking，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场10小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n甲米的内陆一日游是市区以南的丛林三大景点：虎穴寺（Wat Tham Suea），1,260级石阶通向山顶佛像，俯瞰整片喀斯特平原（上山约需一小时，10:00之后会非常酷热）；翡翠池，位于Thung Teao森林中的一处绿色矿泉，再沿一段短步道可到蓝池，那里只能观赏，不能游泳；还有Klong Thom温泉，温热的泉水从天然岩石池中流入一条清凉的小溪。行程按此顺序进行，结束时全身都会湿透。\n\n价格包含酒店接送、饮用水、国家公园费用、自助午餐及保险。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nAo Nang.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "饮用水",
+   "国家公园费用",
+   "自助午餐",
+   "保险"
+  ],
+  "notIncluded": []
  },
  "4-islands-hopping-and-snorkeling-tour": {
   "title": "4岛跳岛浮潜之旅",
@@ -12314,6 +12370,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "从莱利海滩出发的长尾船接送服务（可选）"
   ]
  },
+ "doi-inthanon-summit-trekking-and-karen-village": {
+  "title": "因他暖山顶、徒步与克伦族村落之旅",
+  "metaTitle": "因他暖山顶、徒步与克伦族村落之旅",
+  "shortDescription": "11小时的Chiang Mai游览，含Doi Inthanon Summit及King & Queen Pagoda and Thai Hmong Community Market。运营商：Chiangmai Smiley Tour Official，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场11小时的Chiang Mai体验，围绕Doi Inthanon Summit及King & Queen Pagoda and Thai Hmong Community Market展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n因他暖山是泰国最高的山峰，海拔2,565米，位于清迈西南方向90公里处，山中的国家公园内有云雾森林、为国王与王后六十岁寿辰建造的双子皇家佛塔、Vachiratharn瀑布和Wachirathan瀑布，以及山坡上种植咖啡的克伦族和苗族村落。山顶气温常在10度左右，因此即使是在4月也需要带外套。山顶苔藓森林中的Ang Ka自然步道全程二十分钟，是泰北最佳的短途徒步路线。行程从清迈出发，时间为8:00至17:00。\n\n价格包含指定区域酒店接送、空调交通接送及英语导游。不包含个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。Chiangmai Smiley Tour Official将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "指定区域酒店接送",
+   "空调交通接送",
+   "英语导游"
+  ],
+  "notIncluded": [
+   "个人花费"
+  ]
+ },
  "chiang-mai-organic-thai-cooking-experience-by-local-operator": {
   "title": "清迈当地运营商有机泰式烹饪体验",
   "metaTitle": "清迈当地运营商有机泰式烹饪体验",
@@ -12419,6 +12489,20 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "lalita-cafe-and-chiang-rai-temple-white-blue-from-chiangmai-chiang-mai": {
+  "title": "清迈出发：Lalita咖啡馆与清莱寺庙（白庙+蓝庙）之旅",
+  "metaTitle": "清迈出发：Lalita咖啡馆与清莱寺庙（白庙+蓝庙）之旅",
+  "shortDescription": "为期一整天的Chiang Mai游览，含酒店接送、英语导游及午餐。运营商：Chiang Mai Footsteps Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场为期一整天的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n清莱位于清迈东北方向三小时车程处，是前往白庙（Wat Rong Khun）一日游的目的地，这座白色镶镜的奇幻建筑由艺术家Chalermchai Kositpipat于1997年动工，至今仍在修建中，桥上布满无数伸出的手，内部还有流行文化题材的恶魔壁画。蓝庙和黑屋，已故艺术家Thawan Duchanee用动物皮革与深色柚木打造的建筑群，与之共同构成三大景点。金三角，泰国、老挝与缅甸在湄公河交汇之处，再往北一小时车程，那里有观景台、鸦片博物馆，还可乘船前往老挝的一座市场岛。从清迈出发，这是一整天12小时的行程。\n\n价格包含酒店接送、英语导游及午餐。不包含个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。Chiang Mai Footsteps Travel将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "英语导游",
+   "午餐"
+  ],
+  "notIncluded": [
+   "个人花费"
+  ]
+ },
  "doi-inthanon-summit-waterfalls-and-pagodas": {
   "title": "因他暖山顶峰、瀑布与佛塔之旅",
   "metaTitle": "因他暖山顶峰、瀑布与佛塔之旅",
@@ -12445,6 +12529,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "午餐"
   ],
   "notIncluded": []
+ },
+ "bamboo-rafting-and-wat-phra-that-doi-kham-in-chiang-mai": {
+  "title": "清迈竹筏漂流与Wat Phra That Doi Kham寺庙之旅",
+  "metaTitle": "清迈竹筏漂流与Wat Phra That Doi Kham寺庙之旅",
+  "shortDescription": "5小时的Chiang Mai游览，含บ้านน้ำใส (MaeWang River House) and Wat Phra That Doi Kham。运营商：TripGuru Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Chiang Mai体验，围绕บ้านน้ำใส (MaeWang River House) and Wat Phra That Doi Kham展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n双龙寺（Wat Phra That Doi Suthep）坐落在清迈上方的山上，建于1383年，用以供奉据说是佛陀肩骨的圣物，这块圣物由一头自行选定地点的白象驮上山来。306级那伽石阶通向一座露台，镀金的佛塔周围环绕着铜铃，整座城市就在1,000米之下；需要的游客也可以乘坐缆车上山。僧侣在6:00和18:00诵经，清晨城里的双条车（songthaews）尚未抵达之前，是最安静的时段。门票为30泰铢，着装需遮住肩膀和膝盖。\n\n价格包含酒店接送、英语导游及空调车辆。不包含个人花费及餐食，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "英语导游",
+   "空调车辆"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "餐食"
+  ]
  },
  "elephant-dream-project-sanctuary-half-day-in-chiang-mai": {
   "title": "清迈大象梦想保护区半天之旅",
@@ -12488,6 +12587,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "住宿"
   ],
   "notIncluded": []
+ },
+ "elephant-sanctuary-waterfall-and-bamboo-rafting-in-chiang-mai": {
+  "title": "清迈象保护区、瀑布与竹筏漂流之旅",
+  "metaTitle": "清迈象保护区、瀑布与竹筏漂流之旅",
+  "shortDescription": "9小时的Chiang Mai游览，含酒店接送（如选择该套餐）、导游及午餐。运营商：PON ELEPHANT (THAILAND) CO., LTD.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场9小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国的象旅游业正在不均衡地从骑乘和表演转向保护区模式，游客在那里喂食、陪伴行走并为被救助的象洗澡，而不骑乘它们，这种差异体现在象的身体状况上，也体现在经营者是否允许骑乘、使用象钩或锁链。清迈和普吉岛管理最好的营地会限制团队规模和接触时间，值得预订的营地会明确说明自己不允许的做法。考艾（Khao Yai）是泰国第一座国家公园，位于曼谷东北方向三小时车程处，在那里可以在黄昏时从吉普车上观察野生象群，还有长臂猿、犀鸟，偶尔也能见到公园内为数不多的熊。\n\n价格包含酒店接送（如选择该套餐）、导游及午餐。不包含毛巾及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。PON ELEPHANT (THAILAND) CO., LTD.将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送（如选择该套餐）",
+   "导游",
+   "午餐"
+  ],
+  "notIncluded": [
+   "毛巾",
+   "小费"
+  ]
  },
  "viva-alangka-chao-phraya-dinner-cruise-tour-in-bangkok": {
   "title": "曼谷Viva Alangka昭披耶河晚餐游船之旅",
@@ -12535,6 +12649,33 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "酒店接送",
    "个人花费"
+  ]
+ },
+ "khaosan-nightlife-tour-with-street-food-and-drinks-in-bangkok": {
+  "title": "曼谷考山路夜生活之旅（含街头美食与饮品）",
+  "metaTitle": "曼谷考山路夜生活之旅（含街头美食与饮品）",
+  "shortDescription": "3小时的Bangkok游览，含专业英语导游、饮用水及保险。运营商：CanalTour x ExploreSiam，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n曼谷唐人街沿耀华力路（Yaowarat Road）延伸，该路建于1891年，白天两侧是金饰店，夜晚则变成小吃摊，人行道上摆满炭烤炉和面条车，著名摊位前排起长队：Phadungdao的烤海鲜、带胡椒味的卷粉guay jub、烤栗子，还有想尝鲜的人可以选择的燕窝和鱼翅。这是亚洲最密集的街头美食区，大约18:00开始热闹起来。曼谷米其林指南自2018年起开始评选街头摊位；在那里吃过的向导知道哪些队排得值得。\n\n价格包含专业英语导游、饮用水及保险。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nStarbucks.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "专业英语导游",
+   "饮用水",
+   "保险"
+  ],
+  "notIncluded": []
+ },
+ "ayutthaya-temples-and-khao-yai-national-park-tour": {
+  "title": "大城寺庙与考艾国家公园之旅",
+  "metaTitle": "大城寺庙与考艾国家公园之旅",
+  "shortDescription": "12小时的Bangkok游览，含Wat Ratchaburana及Wat Maha That and Wat Phra Si Sanphet。运营商：TripGuru Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场12小时的Bangkok体验，围绕Wat Ratchaburana及Wat Maha That and Wat Phra Si Sanphet展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n大城（阿瑜陀耶）曾是暹罗的首都，长达417年，直到1767年被缅甸军队攻陷。它的遗迹位于曼谷以北80公里处，是一处联合国教科文组织世界遗产，砖造佛塔和无头佛像散布在河中的一座岛上。Wat Mahathat菩提树根中嵌着的佛头是每个人都慕名而来的标志性景象，礼节上应蹲下，让自己的头低于佛头。河岸边的Wat Chaiwatthanaram保存最为完好，夜间会点灯照明。11:00后天气会变得酷热，提早出发并在各寺庙间使用自行车或嘟嘟车的行程，比步行的行程能看到更多景点。\n\n价格包含英语导游、空调车辆及意外保险。不包含个人花费及午餐，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nThe Beef Master by Company B (Halal).. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "英语导游",
+   "空调车辆",
+   "意外保险"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "午餐"
   ]
  },
  "royal-princess-river-dinner-cruise-with-live-music-in-bangkok-2": {
