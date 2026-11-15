@@ -200,6 +200,16 @@ const KOTA_KINABALU_SIDEBAR = [
     { name: 'Best Sunset Cruise Tour', slug: 'best-sunset-cruise-tour-kota-kinabalu' },
     { name: 'Best Kundasang & Ranau Highlands Tour', slug: 'best-kundasang-ranau-highlands-tour-kota-kinabalu' },
     { name: 'Best Multi-Day Sabah Adventure Tour', slug: 'best-multiday-sabah-adventure-tour-kota-kinabalu' },
+    { name: 'Best Catamaran Tour', slug: 'best-catamaran-tour-kota-kinabalu' },
+    { name: 'Best Monsopiad Headhunter Village Tour', slug: 'best-monsopiad-headhunter-village-tour-kota-kinabalu' },
+    { name: 'Kokol Hill Paragliding', slug: 'is-kokol-hill-paragliding-worth-it-kota-kinabalu' },
+    { name: 'Best Maragang Hill Hike', slug: 'best-maragang-hill-hike-tour-kota-kinabalu' },
+    { name: 'Best MoonBay Island Tour', slug: 'best-moonbay-island-tour-kota-kinabalu' },
+    { name: 'Mengalum Deep Sea Fishing', slug: 'is-mengalum-deep-sea-fishing-worth-it-kota-kinabalu' },
+    { name: 'Party Boat Day Tour', slug: 'is-party-boat-tour-worth-it-kota-kinabalu' },
+    { name: 'Dreamers Island', slug: 'is-dreamers-island-worth-it-kota-kinabalu' },
+    { name: 'Seawalking Tour', slug: 'is-seawalking-tour-worth-it-kota-kinabalu' },
+    { name: 'Small-Group Scuba Diving', slug: 'is-scuba-diving-worth-it-kota-kinabalu' },
 ];
 
 // Recommended tour links for internal linking from authority pages to tour pages (SEO: pass link juice)

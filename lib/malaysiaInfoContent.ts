@@ -2160,6 +2160,869 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        case "best-hop-on-hop-off-tour-johor-bahru":
+            return {
+                title: "Is the Johor Bahru Hop-On Hop-Off Tour Worth It?",
+                seoTitle: "Johor Bahru Hop-On Hop-Off Tour 2026 | Honest Review",
+                description: "An honest look at Johor Bahru's Hop-On Hop-Off City Tour with Guide — what stops it covers and who it's actually worth it for.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1315691/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Johor Bahru doesn't have a large bus-based hop-on hop-off network like bigger Southeast Asian cities — this guided version covers the city's main landmarks with a live guide rather than a recorded audio track, and is really the only citywide sightseeing option in JB itself.",
+                        tourCard: { slug: "johor-bahru-hop-on-hop-off-city-tour-with", title: "Johor Bahru: Hop-On Hop-Off City Tour with Guide", description: "A guided hop-on hop-off tour covering Johor Bahru's main landmarks.", price: "From $1033", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1315691/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "This runs as a guided day rather than the typical double-decker bus you'd find in Singapore or Kuala Lumpur, so expect a more personal, flexible pace rather than a fixed hop-on hop-off bus schedule."
+                    }
+                ],
+                faqs: [
+                    { q: "Is Johor Bahru's hop-on hop-off tour worth it?", a: "Yes if you want a guided overview of the city's main sights in one day without planning your own route." },
+                    { q: "How is JB's hop-on hop-off tour different from other cities?", a: "It runs guided rather than on a fixed double-decker bus schedule." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "Is Johor Bahru's hop-on hop-off tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a guided overview of the city's main sights in one day." } },
+                        { "@type": "Question", "name": "How is it different from other cities?", "acceptedAnswer": { "@type": "Answer", "text": "It runs guided rather than on a fixed bus schedule." } }
+                    ]
+                },
+            };
+
+        case "best-private-city-tour-johor-bahru":
+            return {
+                title: "Which Is the Best Private City Tour in Johor Bahru?",
+                seoTitle: "Best Private City Tour Johor Bahru 2026 | Honest Review",
+                description: "An honest look at the Full Day Private City Highlight Trip from JB or Singapore — who it's for and what to expect.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/70e161c5f6086815d3f70ef97c8e7542f0d27fce19ef81b341c5e0227fa94161.png",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "This is JB's main private sightseeing option, bookable from either Johor Bahru or Singapore, covering the city's highlight sights at your own pace with a private driver/guide rather than joining a group.",
+                        tourCard: { slug: "full-day-private-city-highlight-trip-from-jb-or", title: "Full Day Private City Highlight Trip from JB or Singapore", description: "A full-day private city highlights tour, bookable from JB or Singapore.", price: "From $397", duration: "8.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/70e161c5f6086815d3f70ef97c8e7542f0d27fce19ef81b341c5e0227fa94161.png" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Being bookable from either side of the Singapore-Johor border makes this a convenient add-on for Singapore-based travellers doing a JB day trip without needing separate transport arrangements."
+                    }
+                ],
+                faqs: [
+                    { q: "Can I book a JB private city tour from Singapore?", a: "Yes, this tour is bookable starting from either Johor Bahru or Singapore." },
+                    { q: "How long is the private city highlight trip?", a: "A full day, around 8.5 hours." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "Can I book from Singapore?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, bookable from either Johor Bahru or Singapore." } },
+                        { "@type": "Question", "name": "How long is the trip?", "acceptedAnswer": { "@type": "Answer", "text": "A full day, around 8.5 hours." } }
+                    ]
+                },
+            };
+
+        case "best-desaru-day-trip-johor-bahru":
+            return {
+                title: "Which Is the Best Desaru Day Trip from Johor Bahru?",
+                seoTitle: "Best Desaru Day Trip from JB 2026 | Honest Comparison",
+                description: "Compare the two real Desaru day trip options from Johor Bahru — a fruit farm and mini zoo combo versus a firefly boat and lantern experience.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1347670/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Desaru's two day-trip options from JB/Singapore cover very different ground — one is a family-friendly fruit farm and mini zoo combo, the other is an evening firefly boat and lantern experience along the river.",
+                        tourCard: { slug: "desaru-day-trip-fruit-farm-mini-zoo-fireflies", title: "Desaru Day Trip: Fruit Farm, Mini Zoo & Fireflies From JB/SG", description: "A family-friendly Desaru day trip combining a fruit farm, mini zoo, and fireflies.", price: "From $478", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1347670/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for Families: Fruit Farm, Mini Zoo & Fireflies",
+                        content: "This combo packs in a fruit farm, a mini zoo, and a firefly stop in one afternoon-to-evening outing, good for families wanting variety in a single trip.",
+                        tourCard: { slug: "desaru-day-trip-fruit-farm-mini-zoo-fireflies", title: "Desaru Day Trip: Fruit Farm, Mini Zoo & Fireflies From JB/SG", description: "The family-friendly all-in-one Desaru day trip.", price: "From $478", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1347670/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for a Focused Evening: Firefly Boat & Lantern Experience",
+                        content: "If fireflies are the main draw, this standalone evening boat tour focuses entirely on that experience with lanterns, rather than splitting time across a farm and zoo stop too.",
+                        tourCard: { slug: "desaru-firefly-boat-lantern-experience", title: "Desaru: Firefly Boat & Lantern Experience", description: "A focused evening firefly-watching boat tour with lanterns.", price: "From $306", duration: "3.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1347670/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Firefly sightings are best on a moonless night, so evening departures are timed around the lunar calendar rather than a fixed clock time — confirm your exact departure time close to your date."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Desaru day trip from Johor Bahru?", a: "Families should pick the fruit farm/zoo/fireflies combo; for a focused evening, the standalone firefly boat tour." },
+                    { q: "When is the best time to see fireflies at Desaru?", a: "On a moonless night, so tour departure times shift with the lunar calendar." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Desaru day trip from JB?", "acceptedAnswer": { "@type": "Answer", "text": "Families should pick the fruit farm/zoo/fireflies combo." } },
+                        { "@type": "Question", "name": "Best time to see fireflies at Desaru?", "acceptedAnswer": { "@type": "Answer", "text": "On a moonless night." } }
+                    ]
+                },
+            };
+
+        case "best-kluang-day-trip-johor-bahru":
+            return {
+                title: "Which Is the Best Kluang Day Trip from Johor Bahru?",
+                seoTitle: "Best Kluang Day Trip from JB 2026 | Honest Comparison",
+                description: "Compare the two real Kluang day trip options from Johor Bahru — the historic railway experience versus a farm, heritage, and coffee charter.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1328754/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Kluang is known for its century-old railway station and coffee heritage, and the two real day-trip options from JB split along those lines — one centers on the railway experience itself, the other on farm and coffee culture.",
+                        tourCard: { slug: "johor-bahru-kluang-railway-experience-1-day-trip", title: "Johor Bahru - Kluang Railway Experience 1 Day Trip", description: "A day trip centered on Kluang's historic railway station and heritage.", price: "From $576", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1328754/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for Railway Heritage: Kluang Railway Experience",
+                        content: "This focuses on Kluang's famous century-old railway station, one of the best-preserved in Malaysia, and the heritage around it.",
+                        tourCard: { slug: "johor-bahru-kluang-railway-experience-1-day-trip", title: "Johor Bahru - Kluang Railway Experience 1 Day Trip", description: "The railway-focused Kluang day trip.", price: "From $576", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1328754/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for Coffee and Farm Culture: Private Charter Day Trip",
+                        content: "This version swaps the railway focus for Kluang's farm and coffee heritage, run as a private charter rather than a fixed group itinerary.",
+                        tourCard: { slug: "kluang-farm-heritage-coffee-private-charter-day", title: "Kluang Farm, Heritage & Coffee Private Charter Day Trip", description: "A private charter day trip focused on Kluang's farm and coffee heritage.", price: "From $580", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1469961/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Kluang is about 1.5-2 hours from Johor Bahru by road, so both options run as a full-day commitment rather than a half-day add-on."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Kluang day trip from Johor Bahru?", a: "Railway enthusiasts should pick the railway experience; for coffee and farm culture, the private charter option." },
+                    { q: "How far is Kluang from Johor Bahru?", a: "About 1.5-2 hours by road, making this a full-day trip." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Kluang day trip from JB?", "acceptedAnswer": { "@type": "Answer", "text": "Railway enthusiasts should pick the railway experience." } },
+                        { "@type": "Question", "name": "How far is Kluang from Johor Bahru?", "acceptedAnswer": { "@type": "Answer", "text": "About 1.5-2 hours by road." } }
+                    ]
+                },
+            };
+
+        case "best-buggy-tour-johor-bahru":
+            return {
+                title: "Is the JDT Stadium Buggy Tour in Johor Bahru Worth It?",
+                seoTitle: "JDT Stadium Buggy Tour Johor Bahru 2026 | Honest Review",
+                description: "An honest look at the JDT Buggy Self-Driving Tour at Stadium Sultan Ibrahim — a quick, affordable activity for football fans.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4d1acd1e7e4a4a630496421c47993b9129b10a660f6885ad3f7067d4f9c94f26.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "This is a self-driving buggy experience around Stadium Sultan Ibrahim, home of Johor Darul Ta'zim FC — a niche but genuinely different activity for football fans rather than a standard sightseeing tour.",
+                        tourCard: { slug: "johor-jdt-buggy-self-driving-tour-at-stadium", title: "Johor: JDT Buggy self driving Tour at Stadium Sultan Ibrahim", description: "A self-driving buggy tour around JDT's home stadium.", price: "From $26", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4d1acd1e7e4a4a630496421c47993b9129b10a660f6885ad3f7067d4f9c94f26.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "This is squarely aimed at JDT/football fans rather than general sightseers — worth it if that's your interest, skippable otherwise given JB's other sightseeing options."
+                    }
+                ],
+                faqs: [
+                    { q: "Is the JDT buggy tour worth it?", a: "Yes for football/JDT fans specifically; otherwise it's a niche activity rather than a must-do." },
+                    { q: "What stadium does this tour visit?", a: "Stadium Sultan Ibrahim, home of Johor Darul Ta'zim FC." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "Is the JDT buggy tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes for football/JDT fans specifically." } },
+                        { "@type": "Question", "name": "What stadium does this tour visit?", "acceptedAnswer": { "@type": "Answer", "text": "Stadium Sultan Ibrahim." } }
+                    ]
+                },
+            };
+
+        case "best-kulai-charter-tour-johor-bahru":
+            return {
+                title: "Is the Kulai Private Charter Trip from Johor Bahru Worth It?",
+                seoTitle: "Kulai Private Charter Trip 2026 | Honest Review",
+                description: "An honest look at the Kulai Private Charter Trip from Johor Bahru — a flexible private day trip option.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1385561/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "This is a private charter trip to Kulai, a town just outside Johor Bahru known for agro-tourism and nature spots — a flexible option for travellers who want a custom-paced day away from the city.",
+                        tourCard: { slug: "kulai-private-charter-trip", title: "Kulai Private Charter Trip", description: "A private charter day trip to Kulai from Johor Bahru.", price: "From $489", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1385561/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Being a private charter, the itinerary within Kulai is more flexible than a fixed-stop group tour — worth discussing specific stops with the operator ahead of time."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the Kulai Private Charter Trip?", a: "A flexible private day trip to Kulai, a town near Johor Bahru known for agro-tourism and nature." },
+                    { q: "How long is the Kulai charter trip?", a: "Around 4 hours." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the Kulai Private Charter Trip?", "acceptedAnswer": { "@type": "Answer", "text": "A flexible private day trip to Kulai near Johor Bahru." } },
+                        { "@type": "Question", "name": "How long is it?", "acceptedAnswer": { "@type": "Answer", "text": "Around 4 hours." } }
+                    ]
+                },
+            };
+
+        case "best-catamaran-tour-kota-kinabalu":
+            return {
+                title: "Which Is the Best Catamaran Tour in Kota Kinabalu?",
+                seoTitle: "Best Catamaran Tour Kota Kinabalu 2026 | Honest Comparison",
+                description: "Compare real catamaran tours in Kota Kinabalu — a yacht island-hopping trip versus a relaxed sail with drinks and dessert.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1194132/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Catamaran tours in KK split into two real styles: an active island-hopping yacht trip, and a slower-paced sail built around drinks and dessert rather than multiple stops.",
+                        tourCard: { slug: "kota-kinabalu-calro-catamaran-yacht-island-hopping", title: "Kota Kinabalu: CALRO Catamaran Yacht & Island-Hopping", description: "An island-hopping catamaran yacht trip.", price: "From $280", duration: "5.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1194132/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for Island Hopping: CALRO Catamaran Yacht",
+                        content: "This covers multiple island stops by yacht, the more active version of the two.",
+                        tourCard: { slug: "kota-kinabalu-calro-catamaran-yacht-island-hopping", title: "Kota Kinabalu: CALRO Catamaran Yacht & Island-Hopping", description: "The island-hopping catamaran option.", price: "From $280", duration: "5.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1194132/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for a Relaxed Sail: Catamaran with Drink, Ice Cream or Dessert",
+                        content: "A more laid-back sail focused on onboard refreshments rather than hopping between multiple island stops.",
+                        tourCard: { slug: "kota-kinabalu-catamaran-with-drink-ice-cream-or", title: "Kota Kinabalu: Catamaran with Drink, Ice Cream or Dessert", description: "A relaxed catamaran sail with refreshments included.", price: "From $138", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1290018/img0/1600.webp" },
+                    },
+                ],
+                faqs: [
+                    { q: "What is the best catamaran tour in Kota Kinabalu?", a: "The CALRO yacht for island hopping, or the drinks-and-dessert sail for a relaxed trip." },
+                    { q: "Do catamaran tours in KK stop at islands?", a: "The island-hopping version does; the relaxed sail focuses on onboard refreshments instead." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best catamaran tour in Kota Kinabalu?", "acceptedAnswer": { "@type": "Answer", "text": "The CALRO yacht for island hopping, or the relaxed drinks-and-dessert sail." } },
+                    { "@type": "Question", "name": "Do catamaran tours stop at islands?", "acceptedAnswer": { "@type": "Answer", "text": "The island-hopping version does." } }
+                ] },
+            };
+
+        case "best-monsopiad-headhunter-village-tour-kota-kinabalu":
+            return {
+                title: "Which Is the Best Monsopiad Headhunter Village Tour from Kota Kinabalu?",
+                seoTitle: "Best Monsopiad Headhunter Village Tour KK 2026 | Comparison",
+                description: "Compare real Monsopiad Headhunter Village tours from Kota Kinabalu — a standalone visit with lunch versus a combo with a river cruise.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11cf4e05d602fec2cbacff0c159816adccd7639e679a3e17f15068f27417f745.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Monsopiad Heritage Village tells the story of a legendary Kadazan warrior through skull-house displays and cultural performances. A standalone visit with lunch covers the core experience; a combo package adds a river cruise afterward.",
+                        tourCard: { slug: "kota-kinabalu-monsopiad-headhunter-village-with", title: "Kota Kinabalu: Monsopiad Headhunter Village with Lunch", description: "A standalone visit to Monsopiad Heritage Village with lunch.", price: "From $111", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11cf4e05d602fec2cbacff0c159816adccd7639e679a3e17f15068f27417f745.jpg" },
+                    },
+                    {
+                        title: "Cheapest: Standalone with Lunch",
+                        content: "The lower-priced option, covering the core village visit and lunch without extending into a longer combo day.",
+                        tourCard: { slug: "kota-kinabalu-monsopiad-headhunter-village-with", title: "Kota Kinabalu: Monsopiad Headhunter Village with Lunch", description: "The budget-friendly standalone visit.", price: "From $111", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11cf4e05d602fec2cbacff0c159816adccd7639e679a3e17f15068f27417f745.jpg" },
+                    },
+                    {
+                        title: "Best Full-Day Combo: + River Cruise Package",
+                        content: "This extends the visit into a fuller day by adding a river cruise, usually timed for wildlife or firefly viewing afterward.",
+                        tourCard: { slug: "monsopiad-heritage-village-river-cruise-package", title: "Monsopiad Heritage Village & River Cruise Package with Lunch", description: "Monsopiad village combined with a river cruise.", price: "From $184", duration: "12 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-963046/img0/1600.webp" },
+                    },
+                ],
+                faqs: [
+                    { q: "What is the best Monsopiad Headhunter Village tour?", a: "A standalone visit with lunch for a shorter trip, or the river cruise combo for a fuller day." },
+                    { q: "What is Monsopiad Heritage Village about?", a: "It tells the story of a legendary Kadazan warrior through skull-house displays and performances." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Monsopiad Headhunter Village tour?", "acceptedAnswer": { "@type": "Answer", "text": "A standalone visit with lunch, or the river cruise combo for a fuller day." } },
+                    { "@type": "Question", "name": "What is Monsopiad Heritage Village about?", "acceptedAnswer": { "@type": "Answer", "text": "The story of a legendary Kadazan warrior, told through skull-house displays." } }
+                ] },
+            };
+
+        case "is-kokol-hill-paragliding-worth-it-kota-kinabalu":
+            return {
+                title: "Is Kokol Hill Paragliding Worth It in Kota Kinabalu?",
+                seoTitle: "Kokol Hill Paragliding Kota Kinabalu 2026 | Honest Review",
+                description: "An honest look at the Kokol Hill Paragliding tour with transfer from Kota Kinabalu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0f60be248ca883fc1d87ae5e58feaf70ec4a94a16b435c94112c85141a7dc9a3.jpeg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Kokol Hill is KK's go-to paragliding spot, with views stretching over the city and coastline. This tour includes transfer, making it a straightforward half-day activity for thrill-seekers.",
+                        tourCard: { slug: "kota-kinabalu-kokol-hill-paragliding-with-transfer", title: "Kota Kinabalu: Kokol Hill Paragliding with Transfer", description: "A paragliding flight over Kokol Hill with transfer included.", price: "From $388", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0f60be248ca883fc1d87ae5e58feaf70ec4a94a16b435c94112c85141a7dc9a3.jpeg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Paragliding is weather-dependent — wind conditions can push or cancel flights on short notice, so avoid booking it for your last day in KK if possible."
+                    }
+                ],
+                faqs: [
+                    { q: "Is Kokol Hill paragliding worth it?", a: "Yes for travellers wanting an adrenaline activity with coastal views over Kota Kinabalu." },
+                    { q: "Can weather affect Kokol Hill paragliding?", a: "Yes, wind conditions can delay or cancel flights on short notice." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Kokol Hill paragliding worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for an adrenaline activity with coastal views." } },
+                    { "@type": "Question", "name": "Can weather affect it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, wind can delay or cancel flights." } }
+                ] },
+            };
+
+        case "best-maragang-hill-hike-tour-kota-kinabalu":
+            return {
+                title: "Which Is the Best Maragang Hill Hike from Kota Kinabalu?",
+                seoTitle: "Best Maragang Hill Hike Kota Kinabalu 2026 | Comparison",
+                description: "Compare real Maragang Hill hiking tours from Kota Kinabalu — a standard guided hike versus a sunrise-timed version.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1074194/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Maragang Hill offers sweeping views over Ranau's rice terraces and Mount Kinabalu in the distance. A standard guided hike covers the trail at a normal pace; a sunrise version times the climb for first light.",
+                        tourCard: { slug: "kota-kinabalu-maragang-hill-guided-hike-with", title: "Kota Kinabalu: Maragang Hill Guided Hike with Pickup", description: "A standard guided hike up Maragang Hill with pickup.", price: "From $222", duration: "8.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1074194/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Standard Option: Guided Hike with Pickup",
+                        content: "The lower-priced, standard-timed version of the hike, covering the same trail without the pre-dawn start.",
+                        tourCard: { slug: "kota-kinabalu-maragang-hill-guided-hike-with", title: "Kota Kinabalu: Maragang Hill Guided Hike with Pickup", description: "The standard-timed Maragang Hill hike.", price: "From $222", duration: "8.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1074194/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for Sunrise Views: Sunrise Hike Day Tour",
+                        content: "This times the climb for sunrise, worth the earlier start and higher price if catching first light over the highlands matters to you.",
+                        tourCard: { slug: "kota-kinabalu-maragang-hill-sunrise-hike-day-tour", title: "Kota Kinabalu: Maragang Hill Sunrise Hike Day Tour", description: "A sunrise-timed hike up Maragang Hill.", price: "From $298", duration: "12.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e84c3383a029e2726a88e55818621f159d3c7850829416cb2f9a1043f5943fb5.png" },
+                    },
+                ],
+                faqs: [
+                    { q: "What is the best Maragang Hill hike?", a: "A standard guided hike for most visitors, or the sunrise version for first-light views." },
+                    { q: "What can you see from Maragang Hill?", a: "Ranau's rice terraces and Mount Kinabalu in the distance." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Maragang Hill hike?", "acceptedAnswer": { "@type": "Answer", "text": "A standard guided hike, or the sunrise version for first-light views." } },
+                    { "@type": "Question", "name": "What can you see from Maragang Hill?", "acceptedAnswer": { "@type": "Answer", "text": "Ranau's rice terraces and Mount Kinabalu in the distance." } }
+                ] },
+            };
+
+        case "best-moonbay-island-tour-kota-kinabalu":
+            return {
+                title: "Which Is the Best MoonBay Island Tour from Kota Kinabalu?",
+                seoTitle: "Best MoonBay Island Tour Kota Kinabalu 2026 | Comparison",
+                description: "Compare real MoonBay Island tours from Kota Kinabalu — snorkeling versus diving, both with lunch and transfer.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1498720/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "MoonBay Island tours split cleanly by activity level: a snorkeling version for casual swimmers, and a diving version for those who want to go deeper and are certified (or willing to try an intro dive).",
+                        tourCard: { slug: "kota-kinabalu-moonbay-island-snorkeling-lunch", title: "Kota Kinabalu: MoonBay Island Snorkeling, Lunch & Transfer", description: "A snorkeling day trip to MoonBay Island with lunch.", price: "From $218", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1498720/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for Casual Swimmers: Snorkeling, Lunch & Transfer",
+                        content: "The lower-priced, easier-entry version of the two, suited to travellers who just want to snorkel the reef.",
+                        tourCard: { slug: "kota-kinabalu-moonbay-island-snorkeling-lunch", title: "Kota Kinabalu: MoonBay Island Snorkeling, Lunch & Transfer", description: "The snorkeling-focused MoonBay Island trip.", price: "From $218", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1498720/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for Divers: Diving with Lunch & Transfer",
+                        content: "This version goes beyond the surface with a proper dive, priced higher to reflect the added equipment and instruction.",
+                        tourCard: { slug: "kota-kinabalu-moonbay-island-diving-with-lunch", title: "Kota Kinabalu: MoonBay Island Diving with Lunch & Transfer", description: "A diving trip to MoonBay Island with lunch.", price: "From $367", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1498672/img0/1600.webp" },
+                    },
+                ],
+                faqs: [
+                    { q: "What is the best MoonBay Island tour?", a: "Snorkeling for casual swimmers, diving for those who want to go deeper." },
+                    { q: "Do I need certification to dive at MoonBay Island?", a: "Check with the operator — some trips offer intro dives for non-certified divers." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best MoonBay Island tour?", "acceptedAnswer": { "@type": "Answer", "text": "Snorkeling for casual swimmers, diving for those who want more." } },
+                    { "@type": "Question", "name": "Do I need certification to dive?", "acceptedAnswer": { "@type": "Answer", "text": "Some trips offer intro dives for non-certified divers." } }
+                ] },
+            };
+
+        case "is-mengalum-deep-sea-fishing-worth-it-kota-kinabalu":
+            return {
+                title: "Is Private Mengalum Island Deep Sea Fishing Worth It from Kota Kinabalu?",
+                seoTitle: "Mengalum Island Deep Sea Fishing KK 2026 | Honest Review",
+                description: "An honest look at the Private Mengalum Island Deep Sea Fishing trip from Kota Kinabalu.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1277856/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "This private charter heads out to the deeper waters around Mengalum Island specifically for deep sea fishing, distinct from the standalone Mengalum Island snorkeling day trip — this one is built entirely around the fishing experience.",
+                        tourCard: { slug: "kota-kinabalu-private-mengalum-island-deep-sea", title: "Kota Kinabalu: Private Mengalum Island Deep Sea Fishing", description: "A private deep sea fishing charter to Mengalum Island.", price: "From $421", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1277856/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Being a private charter, it's priced for the boat rather than per person in a shared group — worth checking group size limits if you're hoping to split the cost with other anglers."
+                    }
+                ],
+                faqs: [
+                    { q: "Is Mengalum Island deep sea fishing worth it?", a: "Yes for serious anglers wanting a dedicated fishing trip rather than a sightseeing day with incidental fishing." },
+                    { q: "Is this a shared or private trip?", a: "Private — priced for the boat/charter rather than per person." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Mengalum Island deep sea fishing worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes for serious anglers wanting a dedicated fishing trip." } },
+                    { "@type": "Question", "name": "Is it a shared or private trip?", "acceptedAnswer": { "@type": "Answer", "text": "Private, priced for the charter." } }
+                ] },
+            };
+
+        case "is-party-boat-tour-worth-it-kota-kinabalu":
+            return {
+                title: "Is the Kota Kinabalu Party Boat Day Tour Worth It?",
+                seoTitle: "Kota Kinabalu Party Boat Tour 2026 | Honest Review",
+                description: "An honest look at the Kota Kinabalu Party Boat Day Tour.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1186827/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "This is KK's social, music-and-drinks-focused boat trip — less about a specific destination and more about the onboard atmosphere, aimed at groups and younger travellers rather than families.",
+                        tourCard: { slug: "kota-kinabalu-party-boat-day-tour", title: "Kota Kinabalu: Party Boat Day Tour", description: "A social, music-focused party boat day trip.", price: "From $173", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1186827/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "This suits groups and younger travellers looking for a social atmosphere rather than families or anyone wanting a quiet, scenic cruise — check the vibe matches what you're after before booking."
+                    }
+                ],
+                faqs: [
+                    { q: "Is the KK party boat day tour worth it?", a: "Yes for groups wanting a social, music-focused day on the water; not for a quiet scenic cruise." },
+                    { q: "Is the party boat suited to families?", a: "Not really — it's aimed at groups and younger travellers." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the KK party boat tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes for groups wanting a social day on the water." } },
+                    { "@type": "Question", "name": "Is it suited to families?", "acceptedAnswer": { "@type": "Answer", "text": "Not really, it's aimed at groups and younger travellers." } }
+                ] },
+            };
+
+        case "is-dreamers-island-worth-it-kota-kinabalu":
+            return {
+                title: "Is Dreamers Island Worth Visiting from Kota Kinabalu?",
+                seoTitle: "Dreamers Island Kota Kinabalu 2026 | Honest Review",
+                description: "An honest look at the Kota Kinabalu Dreamers Island tour with buffet lunch.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1205057/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Dreamers Island is a quieter alternative to the busier Manukan and Sapi islands, with a buffet lunch included — a good pick if you want island time without the bigger crowds.",
+                        tourCard: { slug: "kota-kinabalu-dreamers-island-with-buffet-lunch", title: "Kota Kinabalu: Dreamers Island with Buffet Lunch", description: "A day trip to the quieter Dreamers Island with buffet lunch.", price: "From $125", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1205057/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Dreamers Island sees fewer visitors than Manukan or Sapi, making it a better choice if avoiding crowds matters more to you than having the widest range of facilities."
+                    }
+                ],
+                faqs: [
+                    { q: "Is Dreamers Island worth visiting?", a: "Yes if you want a quieter island day with fewer crowds than Manukan or Sapi." },
+                    { q: "Is lunch included at Dreamers Island?", a: "Yes, a buffet lunch is included in this tour." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Dreamers Island worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a quieter island day with fewer crowds." } },
+                    { "@type": "Question", "name": "Is lunch included?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a buffet lunch is included." } }
+                ] },
+            };
+
+        case "is-seawalking-tour-worth-it-kota-kinabalu":
+            return {
+                title: "Is the Kota Kinabalu Seawalking Tour Worth It?",
+                seoTitle: "Kota Kinabalu Seawalking Tour 2026 | Honest Review",
+                description: "An honest look at the Kota Kinabalu Seawalking, Snorkelling & Leisure Beach tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1e57f1978ef2823a5319b7b273fa0d9bd9198de95a6bdc3ec84b25a8ad962ecc.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Seawalking lets non-swimmers walk along the seabed in a helmet while still breathing normally — this tour combines it with snorkeling and beach time, a good option for mixed groups where not everyone is a confident swimmer.",
+                        tourCard: { slug: "kota-kinabalu-seawalking-snorkelling-leisure-beach", title: "Kota Kinabalu: Seawalking, Snorkelling, Leisure Beach", description: "A combo of seawalking, snorkeling, and beach time.", price: "From $201", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1e57f1978ef2823a5319b7b273fa0d9bd9198de95a6bdc3ec84b25a8ad962ecc.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "No swimming ability or diving certification is needed for the seawalking portion itself, making this a good pick for families or groups with non-swimmers who still want an underwater experience."
+                    }
+                ],
+                faqs: [
+                    { q: "Is the Kota Kinabalu seawalking tour worth it?", a: "Yes, especially for mixed groups where not everyone swims confidently." },
+                    { q: "Do I need to be a swimmer for seawalking?", a: "No, seawalking uses a helmet that lets you breathe normally while walking the seabed." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the seawalking tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, especially for mixed groups with non-swimmers." } },
+                    { "@type": "Question", "name": "Do I need to swim for seawalking?", "acceptedAnswer": { "@type": "Answer", "text": "No, a helmet lets you breathe normally while walking the seabed." } }
+                ] },
+            };
+
+        case "is-scuba-diving-worth-it-kota-kinabalu":
+            return {
+                title: "Is Small-Group Scuba Diving Worth It in Kota Kinabalu?",
+                seoTitle: "Kota Kinabalu Scuba Diving 2026 | Honest Review",
+                description: "An honest look at the Small-Group Scuba Diving Experience in Kota Kinabalu, Sabah.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1332495/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "This runs as a small-group dive rather than a large operation, which generally means more personal attention from the instructor — a solid pick for both certified divers and those trying an intro dive.",
+                        tourCard: { slug: "small-group-scuba-diving-experience-in-kota", title: "Small-Group Scuba Diving Experience in Kota Kinabalu, Sabah", description: "A small-group scuba diving experience.", price: "From $259", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1332495/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Check in advance whether the price includes equipment rental and whether intro/discovery dives are available for non-certified divers, since this varies by operator."
+                    }
+                ],
+                faqs: [
+                    { q: "Is small-group scuba diving in KK worth it?", a: "Yes, especially for more personal instruction than a large group dive would offer." },
+                    { q: "Do I need certification to go scuba diving in KK?", a: "Not always — many operators offer intro/discovery dives for non-certified divers." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is small-group scuba diving worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for more personal instruction than a large group dive." } },
+                    { "@type": "Question", "name": "Do I need certification?", "acceptedAnswer": { "@type": "Answer", "text": "Not always, intro dives are often available." } }
+                ] },
+            };
+
+        case "best-fairy-cave-tour-kuching":
+            return {
+                title: "Which Is the Best Fairy Cave Tour from Kuching?",
+                seoTitle: "Best Fairy Cave Tour Kuching 2026 | Honest Comparison",
+                description: "Compare the two real Fairy Cave tours from Kuching — a Wind Cave combo versus a wider Bau Discovery day trip.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4197d16433aad64745e17c4045760440e65d63a30b009abf9fae9e77745026a5.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Fairy Cave is known for the natural light beam that pierces its chamber at certain times of day. Most tours pair it with nearby Wind Cave, while one wider option extends into a fuller Bau district day trip.", tourCard: { slug: "kuching-fairy-cave-wind-cave", title: "Kuching: Fairy Cave & Wind Cave", description: "A combined visit to Fairy Cave and nearby Wind Cave.", price: "From $341", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4197d16433aad64745e17c4045760440e65d63a30b009abf9fae9e77745026a5.jpg" } },
+                    { title: "Best for Just the Caves: Fairy Cave & Wind Cave", content: "A focused half-day covering both caves without extending into a wider regional day trip.", tourCard: { slug: "kuching-fairy-cave-wind-cave", title: "Kuching: Fairy Cave & Wind Cave", description: "The focused two-cave tour.", price: "From $341", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4197d16433aad64745e17c4045760440e65d63a30b009abf9fae9e77745026a5.jpg" } },
+                    { title: "Best for a Fuller Day: Fairy Cave & Bau Discovery", content: "This widens the trip into a broader exploration of the Bau mining district around the cave, good if you want more than just the two caves.", tourCard: { slug: "fairy-cave-bau-discovery", title: "Fairy Cave & Bau Discovery", description: "A fuller day trip pairing Fairy Cave with the Bau district.", price: "From $173", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1157153/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "The light-beam effect inside Fairy Cave is strongest around midday — check with your guide on timing if that's the main reason for your visit." }
+                ],
+                faqs: [
+                    { q: "What is the best Fairy Cave tour from Kuching?", a: "The Wind Cave combo for a focused half-day; Bau Discovery if you want a fuller day trip." },
+                    { q: "When is the best time to see Fairy Cave's light beam?", a: "Around midday, when sunlight enters the chamber most directly." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Fairy Cave tour from Kuching?", "acceptedAnswer": { "@type": "Answer", "text": "The Wind Cave combo for a focused half-day." } },
+                    { "@type": "Question", "name": "Best time for the light beam?", "acceptedAnswer": { "@type": "Answer", "text": "Around midday." } }
+                ] },
+            };
+
+        case "best-sarawak-cultural-village-tour-kuching":
+            return {
+                title: "Which Is the Best Sarawak Cultural Village Tour in Kuching?",
+                seoTitle: "Best Sarawak Cultural Village Tour Kuching 2026",
+                description: "Compare the two real standalone Sarawak Cultural Village tours from Kuching.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/431c86f42db630e9611c38936b364df8f6ddeeae3071b750ac03a264f7a35e56.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Sarawak Cultural Village is a living-museum site recreating Sarawak's indigenous tribal houses. One version pairs it with the nearby Archaeological Park, the other is a standalone Nomadic-branded visit.", tourCard: { slug: "kuching-sarawak-cultural-village-archaeological", title: "Kuching: Sarawak Cultural Village & Archaeological Park", description: "The Cultural Village paired with the nearby Archaeological Park.", price: "From $324", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/431c86f42db630e9611c38936b364df8f6ddeeae3071b750ac03a264f7a35e56.jpg" } },
+                    { title: "Best with Archaeological Park Added", content: "This adds the nearby Archaeological Park to the Cultural Village visit for a broader history-focused day.", tourCard: { slug: "kuching-sarawak-cultural-village-archaeological", title: "Kuching: Sarawak Cultural Village & Archaeological Park", description: "The combo with Archaeological Park.", price: "From $324", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/431c86f42db630e9611c38936b364df8f6ddeeae3071b750ac03a264f7a35e56.jpg" } },
+                    { title: "Best Standalone Visit", content: "A more focused visit to just the Cultural Village itself, run under the Nomadic brand, without the Archaeological Park add-on.", tourCard: { slug: "nomadic-kuching-sarawak-cultural-village-tour", title: "Nomadic Kuching: Sarawak Cultural Village Tour", description: "A standalone Sarawak Cultural Village visit.", price: "From $507", duration: "6.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1338351/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "The village runs a scheduled cultural dance performance a few times daily — time your visit around it rather than arriving right before closing." }
+                ],
+                faqs: [
+                    { q: "What is the best Sarawak Cultural Village tour?", a: "Add the Archaeological Park if you want more history in the same day; otherwise the standalone visit is simpler." },
+                    { q: "Does the Cultural Village have dance performances?", a: "Yes, scheduled a few times daily." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Sarawak Cultural Village tour?", "acceptedAnswer": { "@type": "Answer", "text": "Add the Archaeological Park for more history in one day." } },
+                    { "@type": "Question", "name": "Does it have dance performances?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, scheduled a few times daily." } }
+                ] },
+            };
+
+        case "best-sunset-river-cruise-kuching":
+            return {
+                title: "Which Is the Best Sunset River Cruise in Kuching?",
+                seoTitle: "Best Sunset River Cruise Kuching 2026 | Honest Comparison",
+                description: "Compare three real Sarawak River sunset cruises from Kuching — a budget night cruise, a royal cruise with live show, and a city tour combo.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1292251/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Kuching's riverfront cruises range from a budget hour-long sunset ride to a fuller royal-themed cruise with a live show, or a combo that pairs the cruise with a daytime city tour.", tourCard: { slug: "kuching-night-cruise-dance-show-drink-optional", title: "Kuching: Night Cruise, Dance Show, Drink & Optional Dinner", description: "A budget-friendly night cruise with a dance show.", price: "From $27", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c1ac3631de1d4ecbe2403e1c4536d95a6ad69f5c57a1bd6df9391b688fbba8b7.jpg" } },
+                    { title: "Cheapest: Night Cruise with Dance Show", content: "At $27, this is the lowest-priced cruise, including a dance show with an optional dinner add-on.", tourCard: { slug: "kuching-night-cruise-dance-show-drink-optional", title: "Kuching: Night Cruise, Dance Show, Drink & Optional Dinner", description: "The budget night cruise option.", price: "From $27", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c1ac3631de1d4ecbe2403e1c4536d95a6ad69f5c57a1bd6df9391b688fbba8b7.jpg" } },
+                    { title: "Best Themed Option: Royal Cruise with Live Show", content: "A slightly longer, royal-themed version of the sunset cruise with its own live show and optional dinner.", tourCard: { slug: "kuching-royal-cruise-sunset-live-show-optional", title: "Kuching: Royal Cruise, Sunset, Live Show & Optional Dinner", description: "A royal-themed sunset cruise with live show.", price: "From $46", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/56830c13fd686051e181b64e474f489d53b28453b7d4a65ada7e4a96584306dc.jpg" } },
+                    { title: "Best Combined with Sightseeing: City Tour + Sunset Cruise", content: "This pairs a daytime city tour with the evening sunset cruise, efficient if you want both sightseeing and the cruise in one booking.", tourCard: { slug: "kuching-city-tour-and-sarawak-river-sunset-cruise", title: "Kuching: City Tour and Sarawak River Sunset Cruise", description: "A city tour combined with the sunset cruise.", price: "From $345", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1292251/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Sunset timing shifts through the year, so cruise departure times are usually adjusted month to month — confirm the exact time close to your date." }
+                ],
+                faqs: [
+                    { q: "What is the best sunset river cruise in Kuching?", a: "The budget night cruise suits most visitors; add a city tour if you want sightseeing beforehand." },
+                    { q: "Does cruise timing change with the season?", a: "Yes, departure times shift with sunset timing through the year." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best sunset river cruise in Kuching?", "acceptedAnswer": { "@type": "Answer", "text": "The budget night cruise suits most visitors." } },
+                    { "@type": "Question", "name": "Does timing change with season?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, departure times shift with sunset timing." } }
+                ] },
+            };
+
+        case "best-bengoh-valley-tour-kuching":
+            return {
+                title: "Which Is the Best Bengoh Valley Tour from Kuching?",
+                seoTitle: "Best Bengoh Valley Tour Kuching 2026 | Honest Comparison",
+                description: "Compare the two real Bengoh Valley adventure tours from Kuching — a day trip to the waterfalls versus an overnight 2D1N adventure.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1157104/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Bengoh Valley's draw is its waterfalls and the Jurassic-looking Susung Waterfall formation. A single-day trip covers the main waterfalls, while an overnight version adds more time in the valley.", tourCard: { slug: "kuching-bengoh-adventure-jurassic-susung-waterfall", title: "Kuching: Bengoh Adventure, Jurassic & Susung Waterfall", description: "A day trip to Bengoh Valley's waterfalls.", price: "From $384", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1157104/img0/1600.webp" } },
+                    { title: "Best Day Trip: Jurassic & Susung Waterfall", content: "A single-day version covering the valley's main waterfall formations.", tourCard: { slug: "kuching-bengoh-adventure-jurassic-susung-waterfall", title: "Kuching: Bengoh Adventure, Jurassic & Susung Waterfall", description: "The day-trip version of Bengoh Valley.", price: "From $384", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1157104/img0/1600.webp" } },
+                    { title: "Best for a Fuller Experience: 2D1N Adventure", content: "Staying overnight in the valley gives more time to explore beyond the day-trip's main stops.", tourCard: { slug: "kuching-2d1n-bengoh-valley-adventure", title: "Kuching : 2D1N Bengoh Valley Adventure", description: "An overnight Bengoh Valley adventure.", price: "From $539", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1158216/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "The waterfalls are more impressive in the wetter months — check seasonal rainfall if waterfall volume matters to your trip." }
+                ],
+                faqs: [
+                    { q: "What is the best Bengoh Valley tour from Kuching?", a: "A day trip suits most visitors; go overnight for a fuller valley experience." },
+                    { q: "When are Bengoh's waterfalls best?", a: "During wetter months, when water volume is higher." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Bengoh Valley tour?", "acceptedAnswer": { "@type": "Answer", "text": "A day trip suits most visitors." } },
+                    { "@type": "Question", "name": "When are the waterfalls best?", "acceptedAnswer": { "@type": "Answer", "text": "During wetter months." } }
+                ] },
+            };
+
+        case "is-kubah-night-frog-tour-worth-it-kuching":
+            return {
+                title: "Is the Kubah National Park Night Frog Adventure Worth It?",
+                seoTitle: "Kubah Night Frog Adventure Kuching 2026 | Honest Review",
+                description: "An honest look at Kubah National Park's Night Frog Adventure from Kuching.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1114753/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Kubah National Park is known for its frog diversity, and this night tour is built specifically around spotting them after dark — a niche but genuinely distinct nature activity from Kuching's daytime wildlife tours.", tourCard: { slug: "kubah-national-park-night-frog-adventure", title: "Kubah National Park: Night Frog Adventure", description: "A night tour focused on frog-spotting at Kubah National Park.", price: "From $149", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1114753/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Frog activity picks up after rain, so a recently rainy evening generally means better sightings than a dry one." }
+                ],
+                faqs: [
+                    { q: "Is the Kubah night frog tour worth it?", a: "Yes for nature/wildlife enthusiasts specifically interested in Borneo's frog diversity." },
+                    { q: "When are frog sightings best at Kubah?", a: "After recent rain, when frog activity picks up." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Kubah night frog tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes for wildlife enthusiasts." } },
+                    { "@type": "Question", "name": "When are sightings best?", "acceptedAnswer": { "@type": "Answer", "text": "After recent rain." } }
+                ] },
+            };
+
+        case "best-mangrove-firefly-tour-kuching":
+            return {
+                title: "Which Is the Best Mangrove & Firefly Tour from Kuching?",
+                seoTitle: "Best Mangrove Firefly Tour Kuching 2026 | Honest Comparison",
+                description: "Compare two real mangrove and firefly-watching cruises from Kuching.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/01452077967c52dcbd11472a67b09cd7c7b632387607e87d75f498aaee0c3b0c.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Kuching's mangrove rivers host fireflies and wetland wildlife, best seen on an evening cruise. One option focuses specifically on wildlife and fireflies, the other covers a broader wetlands cruise.", tourCard: { slug: "kuching-mangrove-wildlife-and-fireflies", title: "Kuching Mangrove Wildlife and Fireflies", description: "A mangrove cruise focused on wildlife and fireflies.", price: "From $423", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/01452077967c52dcbd11472a67b09cd7c7b632387607e87d75f498aaee0c3b0c.jpg" } },
+                    { title: "Best for Wildlife and Fireflies Together", content: "This combines a wildlife-spotting cruise with the evening firefly display in one trip.", tourCard: { slug: "kuching-mangrove-wildlife-and-fireflies", title: "Kuching Mangrove Wildlife and Fireflies", description: "The combined wildlife and firefly cruise.", price: "From $423", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/01452077967c52dcbd11472a67b09cd7c7b632387607e87d75f498aaee0c3b0c.jpg" } },
+                    { title: "Best Value: Wetlands Wildlife Cruise", content: "A lower-priced wetlands cruise option covering similar ground at a more accessible price point.", tourCard: { slug: "nomadic-nature-kuching-wetlands-wildlife-cruise", title: "Nomadic Nature: Kuching Wetlands Wildlife Cruise", description: "A budget-friendly wetlands wildlife cruise.", price: "From $144", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/76880e8b0f6055f8c4669706900f3215f7a2aeecdb81537158e36dcc9b3c808b.jpg" } },
+                    { title: "Practical Tips", content: "Fireflies cluster most reliably on mangrove trees along specific river stretches — an experienced boat operator who knows the current hotspots matters more than the general time of year." }
+                ],
+                faqs: [
+                    { q: "What is the best mangrove firefly tour in Kuching?", a: "The combined wildlife and firefly cruise for the fullest experience; the wetlands cruise for a lower price." },
+                    { q: "What affects firefly sightings most?", a: "The boat operator's knowledge of current firefly hotspots along the river." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best mangrove firefly tour?", "acceptedAnswer": { "@type": "Answer", "text": "The combined wildlife and firefly cruise." } },
+                    { "@type": "Question", "name": "What affects firefly sightings most?", "acceptedAnswer": { "@type": "Answer", "text": "The operator's knowledge of current hotspots." } }
+                ] },
+            };
+
+        case "best-longhouse-tour-kuching":
+            return {
+                title: "Which Is the Best Longhouse Cultural Tour from Kuching?",
+                seoTitle: "Best Longhouse Tour Kuching 2026 | Honest Comparison",
+                description: "Compare two real indigenous longhouse experiences from Kuching — an Annah Rais Bidayuh day trip versus a 3-day Batang Ai headhunters' longhouse adventure.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1366944/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Sarawak's longhouse tours range from an accessible day trip to the Bidayuh longhouse at Annah Rais to a much deeper multi-day immersion at Batang Ai, home to Iban communities with a headhunting history.", tourCard: { slug: "nomadic-longhouse-legacy-annah-rais-bidayuh", title: "Nomadic Longhouse Legacy: Annah Rais Bidayuh Experience", description: "A day trip to the Bidayuh longhouse at Annah Rais.", price: "From $338", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1366944/img0/1600.webp" } },
+                    { title: "Best Day Trip: Annah Rais Bidayuh Experience", content: "An accessible single-day visit to the Bidayuh longhouse, including its traditional headhouse and hot springs nearby.", tourCard: { slug: "nomadic-longhouse-legacy-annah-rais-bidayuh", title: "Nomadic Longhouse Legacy: Annah Rais Bidayuh Experience", description: "The day-trip longhouse option.", price: "From $338", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1366944/img0/1600.webp" } },
+                    { title: "Best Deep Immersion: Batang Ai 3D2N Headhunters' Longhouse", content: "This multi-day adventure reaches the more remote Batang Ai region and its Iban longhouses, with genuine rainforest immersion rather than a quick day visit.", tourCard: { slug: "3d2n-batang-ai-headhunters-longhouse-rainforest", title: "3D2N BATANG AI HEADHUNTERS' LONGHOUSE & RAINFOREST ADVENTURE", description: "A deep multi-day longhouse and rainforest adventure at Batang Ai.", price: "From $1507", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d3d2a31d48a7294fed8e5450f63034de3a70426432e9be9021a93da135924c8e.jpg" } },
+                    { title: "Practical Tips", content: "Batang Ai is only reachable by a combination of road and longboat, so the 3-day format accounts for travel time, not just time at the longhouse itself." }
+                ],
+                faqs: [
+                    { q: "What is the best longhouse tour from Kuching?", a: "Annah Rais for an accessible day trip; Batang Ai for a deeper multi-day immersion." },
+                    { q: "How do you reach Batang Ai?", a: "By a combination of road travel and longboat." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best longhouse tour from Kuching?", "acceptedAnswer": { "@type": "Answer", "text": "Annah Rais for a day trip, Batang Ai for deep immersion." } },
+                    { "@type": "Question", "name": "How do you reach Batang Ai?", "acceptedAnswer": { "@type": "Answer", "text": "By road and longboat." } }
+                ] },
+            };
+
+        case "is-rainforest-kayaking-worth-it-kuching":
+            return {
+                title: "Is Rainforest Kayaking from Kuching Worth It?",
+                seoTitle: "Kuching Rainforest Kayaking 2026 | Honest Review",
+                description: "An honest look at Kuching's rainforest kayaking tour.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1362757/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This kayaking tour paddles through rainforest river stretches around Kuching, a genuinely active alternative to the region's many boat-cruise options for travellers who want to paddle themselves rather than ride.", tourCard: { slug: "kuching-rainforest-kayaking", title: "Kuching: Rainforest Kayaking", description: "A guided rainforest kayaking tour near Kuching.", price: "From $259", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1362757/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This is a full-day, physically active option — worth it if you want to paddle yourself through the rainforest river system rather than just view it from a boat." }
+                ],
+                faqs: [
+                    { q: "Is Kuching's rainforest kayaking tour worth it?", a: "Yes for travellers who want an active, hands-on alternative to the area's cruise-style boat tours." },
+                    { q: "How long does the kayaking tour take?", a: "A full day, around 7 hours." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is rainforest kayaking worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes for an active alternative to boat cruises." } },
+                    { "@type": "Question", "name": "How long does it take?", "acceptedAnswer": { "@type": "Answer", "text": "A full day, around 7 hours." } }
+                ] },
+            };
+
+        case "best-food-crawl-tour-kuching":
+            return {
+                title: "Which Is the Best Food Crawl in Kuching?",
+                seoTitle: "Best Food Crawl Kuching 2026 | Honest Comparison",
+                description: "Compare two real Kuching food tours — a multi-day gastronomy weekend versus a single-evening food crawl.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1234809/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Kuching's food scene blends Chinese, Malay, and indigenous Dayak influences. A single-evening food crawl covers the highlights in one outing, while a multi-day gastronomy trip goes deeper with hotel stays included.", tourCard: { slug: "nomadic-bites-kuching-food-crawl", title: "Nomadic Bites: Kuching Food Crawl", description: "A single-evening food crawl through Kuching.", price: "From $102", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1234809/img0/1600.webp" } },
+                    { title: "Best for a Single Evening: Food Crawl", content: "A focused evening tasting tour through several stops, ideal if you have limited time.", tourCard: { slug: "nomadic-bites-kuching-food-crawl", title: "Nomadic Bites: Kuching Food Crawl", description: "The single-evening food tour option.", price: "From $102", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1234809/img0/1600.webp" } },
+                    { title: "Best for a Deeper Dive: Gastronomy Weekend", content: "This 2-day package includes a hotel stay and a much broader exploration of Sarawak cuisine than a single evening allows.", tourCard: { slug: "nomadic-flavourlight-kuching-gastronomy-weekend", title: "Nomadic Flavourlight: Kuching Gastronomy Weekend", description: "A 2-day gastronomy-focused package with hotel stay.", price: "From $338", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0049d6548c8386fb22a4fd245f970ce70d5563b2deaf842cd82e188559a7859b.png" } },
+                    { title: "Practical Tips", content: "Come hungry and pace yourself — food crawls typically include several tasting stops rather than one sit-down meal." }
+                ],
+                faqs: [
+                    { q: "What is the best food tour in Kuching?", a: "A single-evening food crawl for limited time; the gastronomy weekend for a deeper dive." },
+                    { q: "What cuisines does Kuching's food scene cover?", a: "Chinese, Malay, and indigenous Dayak influences." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best food tour in Kuching?", "acceptedAnswer": { "@type": "Answer", "text": "A single-evening food crawl for limited time." } },
+                    { "@type": "Question", "name": "What cuisines are covered?", "acceptedAnswer": { "@type": "Answer", "text": "Chinese, Malay, and indigenous Dayak influences." } }
+                ] },
+            };
+
+        case "is-pub-crawl-worth-it-kuching":
+            return {
+                title: "Is the Kuching Pub Crawl Worth It?",
+                seoTitle: "Kuching Pub Crawl Adventure 2026 | Honest Review",
+                description: "An honest look at Kuching's evening pub crawl tour.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-883751/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This guided pub crawl covers several of Kuching's bars in one evening, a social option for travellers wanting Kuching's nightlife scene rather than its daytime sightseeing.", tourCard: { slug: "nomadic-nightfall-kuching-pub-crawl-adventure", title: "Nomadic Nightfall: Kuching Pub Crawl Adventure", description: "A guided evening pub crawl through Kuching.", price: "From $128", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-883751/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Good for solo travellers wanting to meet others, since the group format naturally mixes you with fellow travellers across stops." }
+                ],
+                faqs: [
+                    { q: "Is the Kuching pub crawl worth it?", a: "Yes for travellers interested in nightlife and meeting other travellers in a group setting." },
+                    { q: "How long is the pub crawl?", a: "About 4 hours, covering several bars." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the pub crawl worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes for nightlife-focused travellers." } },
+                    { "@type": "Question", "name": "How long is it?", "acceptedAnswer": { "@type": "Answer", "text": "About 4 hours." } }
+                ] },
+            };
+
+        case "is-coffee-tea-crawl-worth-it-kuching":
+            return {
+                title: "Is the Kuching Coffee & Tea Crawl Worth It?",
+                seoTitle: "Kuching Coffee Tea Crawl 2026 | Honest Review",
+                description: "An honest look at Kuching's coffee and tea crawl experience.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1232610/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This tour visits several of Kuching's traditional coffee shops (kopitiams) and tea spots, a low-key, culturally grounded alternative to the evening food/pub crawls.", tourCard: { slug: "nomadic-brewlight-kuching-coffee-tea-crawl", title: "Nomadic Brewlight: Kuching Coffee & Tea Crawl Experience", description: "A guided coffee and tea crawl through Kuching's kopitiams.", price: "From $126", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1232610/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Sarawak-style white coffee is a local specialty worth specifically asking about if your guide doesn't bring it up." }
+                ],
+                faqs: [
+                    { q: "Is the coffee and tea crawl worth it?", a: "Yes for a lower-key, culturally focused alternative to food or pub crawls." },
+                    { q: "What's a local specialty to try?", a: "Sarawak-style white coffee." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the coffee and tea crawl worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes for a low-key cultural alternative." } },
+                    { "@type": "Question", "name": "What's a local specialty?", "acceptedAnswer": { "@type": "Answer", "text": "Sarawak-style white coffee." } }
+                ] },
+            };
+
+        case "is-half-day-city-tour-worth-it-kuching":
+            return {
+                title: "Is Kuching's Half-Day City Tour Worth It?",
+                seoTitle: "Kuching Half-Day City Tour 2026 | Honest Review",
+                description: "An honest look at Kuching's standalone half-day city tour.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1438263/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This standalone half-day tour covers Kuching's main city landmarks without the sunset river cruise add-on that other city-tour combos include — a good fit if you'd rather keep your evening free.", tourCard: { slug: "half-day-kuching-city-tour", title: "Half-Day Kuching City Tour", description: "A standalone half-day guided tour of Kuching city.", price: "From $311", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1438263/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "If you also want the sunset river cruise, check the separate City Tour and Sarawak River Sunset Cruise combo instead of booking this and a cruise separately." }
+                ],
+                faqs: [
+                    { q: "Is Kuching's half-day city tour worth it?", a: "Yes if you want city sightseeing without a river cruise add-on." },
+                    { q: "Does it include a river cruise?", a: "No — for that, book the combined city tour and sunset cruise instead." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the half-day city tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes for city sightseeing without a cruise add-on." } },
+                    { "@type": "Question", "name": "Does it include a river cruise?", "acceptedAnswer": { "@type": "Answer", "text": "No." } }
+                ] },
+            };
+
+        case "best-multi-day-sarawak-adventure-kuching":
+            return {
+                title: "Which Is the Best Multi-Day Sarawak Adventure from Kuching?",
+                seoTitle: "Best Multi-Day Sarawak Adventure 2026 | Honest Comparison",
+                description: "Compare five real multi-day Sarawak adventure packages from Kuching, from a 3-day trip to a 10-day Borneo-wide journey.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/09678106ef9782902e796d6f40f4469cf477dbad27bd6018cb0c5ec191ff5660.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "For travellers wanting more than single-day trips, Sarawak offers multi-day packages ranging from a 3-day regional adventure to a 10-day journey spanning Kuching, Brunei, and Sabah.", tourCard: { slug: "kuching-3-day-adventure-tour", title: "Kuching: 3-Day Adventure Tour", description: "A 3-day multi-park Sarawak adventure.", price: "From $771", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/09678106ef9782902e796d6f40f4469cf477dbad27bd6018cb0c5ec191ff5660.jpeg" } },
+                    { title: "Shortest Option: 3-Day Adventure Tour", content: "The most compact multi-day option, covering several parks and activities in 3 days.", tourCard: { slug: "kuching-3-day-adventure-tour", title: "Kuching: 3-Day Adventure Tour", description: "A compact 3-day Sarawak adventure.", price: "From $771", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/09678106ef9782902e796d6f40f4469cf477dbad27bd6018cb0c5ec191ff5660.jpeg" } },
+                    { title: "Best Mid-Length Option: 5D4N Sarawak Adventure", content: "This covers Bako, Permai, Bengoh, and Batang Ai across 5 days, a broader sweep of Sarawak's main natural attractions.", tourCard: { slug: "5d4n-sarawak-adventure-bako-permai-bengoh-batang", title: "5D4N Sarawak Adventure: Bako, Permai, Bengoh & Batang Ai", description: "A 5-day tour covering Sarawak's main natural attractions.", price: "From $1632", duration: "5 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2f8716f7bfa8e59da69810e1ee0eb7f08295cc6ca1834b408084c023849e472d.png" } },
+                    { title: "Best for Cross-Border Travel: Sarawak & West Kalimantan", content: "This extends the adventure across the border into Indonesian West Kalimantan over 7 days, for travellers wanting to see both sides of Borneo.", tourCard: { slug: "nomadic-frontierlight-sarawak-west-kalimantan-7", title: "Nomadic Frontierlight: Sarawak & West Kalimantan (7 Days)", description: "A 7-day cross-border Sarawak and West Kalimantan trip.", price: "From $1606", duration: "7 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0fbeedcb26a9450c44a17fa1ba974bddeffa7c321d52ec124f7876478888e265.jpg" } },
+                    { title: "Most Comprehensive: Northern Borneo (10 Days)", content: "The widest-ranging option, spanning Kuching, Brunei, and Sabah across 10 days — best for travellers with the most time who want to see Borneo broadly rather than just Sarawak.", tourCard: { slug: "nomadic-northern-borneo-kuching-brunei-sabah", title: "Nomadic Northern Borneo: Kuching • Brunei • Sabah (10Days)", description: "A comprehensive 10-day journey across Kuching, Brunei, and Sabah.", price: "From $3887", duration: "10 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8330c75c49be1ecd6cadd003f2a3683e9637c295a55d7d26b2efd235e0b54f36.png" } },
+                    { title: "Practical Tips", content: "The longer cross-border and multi-country packages require more advance planning around visas/entry requirements — confirm what your passport needs for Brunei and Indonesia before booking." }
+                ],
+                faqs: [
+                    { q: "What is the best multi-day Sarawak adventure?", a: "The 3-day tour for a compact trip; go longer (5-10 days) for a broader regional or cross-border journey." },
+                    { q: "Do multi-country packages need extra visas?", a: "Possibly — check entry requirements for Brunei and Indonesia before booking." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best multi-day Sarawak adventure?", "acceptedAnswer": { "@type": "Answer", "text": "The 3-day tour for a compact trip." } },
+                    { "@type": "Question", "name": "Do cross-border packages need extra visas?", "acceptedAnswer": { "@type": "Answer", "text": "Possibly, check requirements for Brunei and Indonesia." } }
+                ] },
+            };
+
+        case "best-national-park-tour-kuching":
+            return {
+                title: "Which Is the Best National Park Tour from Kuching (Beyond Bako)?",
+                seoTitle: "Best National Park Tour Kuching 2026 | Honest Comparison",
+                description: "Compare real national park tours from Kuching beyond Bako — Maludam, Tanjung Datu, and Gunung Gading's rafflesia flowers.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1346377/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Beyond Bako, Sarawak has several other national parks worth a dedicated trip — Maludam for wildlife, Tanjung Datu for remote beaches and reefs, and Gunung Gading for the rafflesia, the world's largest flower.", tourCard: { slug: "kuching-gunung-gading-national-park-rafflesia-tour", title: "Kuching: Gunung Gading National Park & Rafflesia Tour", description: "A day trip to see rafflesia flowers at Gunung Gading.", price: "From $410", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1346377/img0/1600.webp" } },
+                    { title: "Best for a Rare Sight: Gunung Gading & Rafflesia", content: "This is the only tour here reachable as a single day trip, built around spotting the rafflesia, which only blooms briefly and unpredictably.", tourCard: { slug: "kuching-gunung-gading-national-park-rafflesia-tour", title: "Kuching: Gunung Gading National Park & Rafflesia Tour", description: "The rafflesia-focused day trip.", price: "From $410", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1346377/img0/1600.webp" } },
+                    { title: "Best for Wildlife: Maludam National Park 2-Day Tour", content: "Maludam is known for its proboscis monkey population and peat-swamp forest, covered on this overnight wildlife-focused tour.", tourCard: { slug: "kuching-maludam-national-park-2-day-wildlife-tour", title: "Kuching: Maludam National Park 2-Day Wildlife Tour", description: "An overnight wildlife tour to Maludam National Park.", price: "From $1077", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1346501/img0/1600.webp" } },
+                    { title: "Best for Remote Beaches: Tanjung Datu 2-Day Guided Tour", content: "Tanjung Datu is one of Sarawak's most remote parks, with clear-water beaches and reefs rarely crowded given the access required to reach it.", tourCard: { slug: "kuching-tanjung-datu-national-park-2-day-guided", title: "Kuching: Tanjung Datu National Park 2-Day Guided Tour", description: "A 2-day guided trip to remote Tanjung Datu.", price: "From $1077", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1347610/img0/1600.webp" } },
+                    { title: "Best for More Time: Tanjung Datu 3-Day Tour", content: "A longer version of the Tanjung Datu trip for travellers who want more time at its beaches and reefs rather than a quick overnight visit.", tourCard: { slug: "kuching-3-day-tanjung-datu-national-park", title: "Kuching: 3 Day Tanjung Datu National Park", description: "A 3-day extended trip to Tanjung Datu.", price: "From $1507", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1158418/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Rafflesia blooms are unpredictable and last only a few days, so a Gunung Gading tour can't guarantee a bloom is open — ask the operator about recent bloom reports before booking if seeing one is your priority." }
+                ],
+                faqs: [
+                    { q: "What is the best national park tour from Kuching besides Bako?", a: "Gunung Gading for a rare rafflesia day trip; Maludam for wildlife; Tanjung Datu for remote beaches." },
+                    { q: "Are rafflesia sightings guaranteed?", a: "No, blooms are unpredictable and short-lived — ask about recent bloom reports." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best national park tour from Kuching besides Bako?", "acceptedAnswer": { "@type": "Answer", "text": "Gunung Gading for rafflesia, Maludam for wildlife, Tanjung Datu for beaches." } },
+                    { "@type": "Question", "name": "Are rafflesia sightings guaranteed?", "acceptedAnswer": { "@type": "Answer", "text": "No, blooms are unpredictable." } }
+                ] },
+            };
+
+        case "is-siniawan-night-market-worth-it-kuching":
+            return {
+                title: "Is the Siniawan Night Market Tour from Kuching Worth It?",
+                seoTitle: "Siniawan Night Market Kuching 2026 | Honest Review",
+                description: "An honest look at Kuching's Siniawan Night Market Experience tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3aab539e07ec8dbcf2f78b3e9dca3fea042e8126762faba9a7f1f856f85ce3ea.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Siniawan is an old wooden shophouse town that comes alive as a night market on weekends, lit by red lanterns — a genuinely atmospheric, photogenic stop that's only active on specific nights.", tourCard: { slug: "kuching-siniawan-night-market-experience", title: "Kuching: Siniawan Night Market Experience", description: "An evening trip to the lantern-lit Siniawan night market.", price: "From $83", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3aab539e07ec8dbcf2f78b3e9dca3fea042e8126762faba9a7f1f856f85ce3ea.jpeg" } },
+                    { title: "Practical Tips", content: "The market typically only runs Friday-Sunday nights — confirm your trip dates align before booking, since it isn't active every evening." }
+                ],
+                faqs: [
+                    { q: "Is the Siniawan Night Market tour worth it?", a: "Yes, it's a genuinely atmospheric stop, but only worth booking on the nights it actually runs." },
+                    { q: "Which nights does Siniawan market run?", a: "Typically Friday through Sunday nights." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Siniawan Night Market tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, on the nights it runs." } },
+                    { "@type": "Question", "name": "Which nights does it run?", "acceptedAnswer": { "@type": "Answer", "text": "Typically Friday through Sunday." } }
+                ] },
+            };
+
+        case "is-gula-apong-tour-worth-it-kuching":
+            return {
+                title: "Is the Kuching Gula Apong Making Tour Worth It?",
+                seoTitle: "Kuching Gula Apong Tour 2026 | Honest Review",
+                description: "An honest look at Kuching's Gula Apong (palm sugar) making tour.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1294479/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Gula apong is a traditional palm sugar unique to Sarawak, and this tour takes you to see how it's actually made — a specific, hands-on cultural activity rather than general sightseeing.", tourCard: { slug: "kuching-gula-apong-making-tour-with-snacks-and", title: "Kuching: Gula Apong Making Tour with Snacks and Pickup", description: "A hands-on tour showing how traditional palm sugar is made.", price: "From $191", duration: "3.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1294479/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Includes snacks made with the palm sugar itself, so it's worth going a little hungry to fully appreciate the tasting portion." }
+                ],
+                faqs: [
+                    { q: "Is the Gula Apong tour worth it?", a: "Yes for travellers interested in hands-on, specific cultural/culinary activities rather than general sightseeing." },
+                    { q: "What is gula apong?", a: "A traditional palm sugar unique to Sarawak." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Gula Apong tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes for hands-on cultural/culinary activities." } },
+                    { "@type": "Question", "name": "What is gula apong?", "acceptedAnswer": { "@type": "Answer", "text": "A traditional palm sugar unique to Sarawak." } }
+                ] },
+            };
+
+        case "is-weaving-workshop-worth-it-kuching":
+            return {
+                title: "Is Kuching's Private Indigenous Weaving Workshop Worth It?",
+                seoTitle: "Kuching Weaving Workshop 2026 | Honest Review",
+                description: "An honest look at Kuching's private indigenous weaving workshop with a local artisan.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1162859/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This private workshop pairs you with a local artisan to learn traditional Sarawak weaving techniques hands-on — a slower, more intimate activity than the region's typical day tours.", tourCard: { slug: "kuching-private-indigenous-weaving-workshop-with", title: "Kuching: Private Indigenous Weaving Workshop with Local", description: "A private hands-on weaving workshop with a local artisan.", price: "From $69", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1162859/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Being private and workshop-style, it suits travellers who want to slow down and learn a craft rather than cover lots of ground sightseeing." }
+                ],
+                faqs: [
+                    { q: "Is the weaving workshop worth it?", a: "Yes for travellers who want a slower, hands-on cultural activity rather than typical sightseeing." },
+                    { q: "Is the workshop private?", a: "Yes, it's run one-on-one or in a small private group with a local artisan." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the weaving workshop worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes for a slower, hands-on cultural activity." } },
+                    { "@type": "Question", "name": "Is it private?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, with a local artisan." } }
+                ] },
+            };
+
         default:
             return null;
     }

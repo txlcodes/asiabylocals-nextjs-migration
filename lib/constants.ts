@@ -227,10 +227,24 @@ export const KOTA_KINABALU_INFO_SLUGS = [
   'best-tanjung-aru-kayaking-paddleboarding-tour-kota-kinabalu', 'best-island-snorkeling-tour-kota-kinabalu',
   'best-white-water-rafting-tour-kota-kinabalu', 'best-sunset-cruise-tour-kota-kinabalu',
   'best-kundasang-ranau-highlands-tour-kota-kinabalu', 'best-multiday-sabah-adventure-tour-kota-kinabalu',
+  'best-catamaran-tour-kota-kinabalu', 'best-monsopiad-headhunter-village-tour-kota-kinabalu',
+  'is-kokol-hill-paragliding-worth-it-kota-kinabalu', 'best-maragang-hill-hike-tour-kota-kinabalu',
+  'best-moonbay-island-tour-kota-kinabalu', 'is-mengalum-deep-sea-fishing-worth-it-kota-kinabalu',
+  'is-party-boat-tour-worth-it-kota-kinabalu', 'is-dreamers-island-worth-it-kota-kinabalu',
+  'is-seawalking-tour-worth-it-kota-kinabalu', 'is-scuba-diving-worth-it-kota-kinabalu',
 ];
 
 export const KUCHING_INFO_SLUGS = [
   'best-semenggoh-orangutan-tour-kuching', 'best-bako-national-park-tour-kuching',
+  'best-fairy-cave-tour-kuching', 'best-sarawak-cultural-village-tour-kuching',
+  'best-sunset-river-cruise-kuching', 'best-bengoh-valley-tour-kuching',
+  'is-kubah-night-frog-tour-worth-it-kuching', 'best-mangrove-firefly-tour-kuching',
+  'best-longhouse-tour-kuching', 'is-rainforest-kayaking-worth-it-kuching',
+  'best-food-crawl-tour-kuching', 'is-pub-crawl-worth-it-kuching',
+  'is-coffee-tea-crawl-worth-it-kuching', 'is-half-day-city-tour-worth-it-kuching',
+  'best-multi-day-sarawak-adventure-kuching', 'best-national-park-tour-kuching',
+  'is-siniawan-night-market-worth-it-kuching', 'is-gula-apong-tour-worth-it-kuching',
+  'is-weaving-workshop-worth-it-kuching',
 ];
 
 // Nepal launched 2026-11-16 with 1,535 live tours and zero authority pages.
@@ -255,6 +269,11 @@ export const TBILISI_INFO_SLUGS = [
   'best-old-town-walking-tour-tbilisi', 'best-mtskheta-jvari-day-trip-tbilisi',
   'best-gori-uplistsikhe-day-trip-tbilisi', 'best-david-gareja-monastery-tour-tbilisi',
   'best-chronicles-of-georgia-tour-tbilisi', 'best-horseback-riding-tour-tbilisi',
+  // Batch 3 (2026-11-16)
+  'best-vardzia-borjomi-day-trip-tbilisi', 'best-georgian-cooking-class-tbilisi',
+  'best-mtatsminda-park-tour-tbilisi', 'best-rafting-tour-tbilisi',
+  'best-air-balloon-ride-tbilisi', 'best-tusheti-tour-tbilisi',
+  'best-sulfur-bath-experience-tbilisi', 'best-bike-tour-tbilisi',
 ];
 
 // Oman launched 2026-11-16 with 709 live tours and zero authority pages.
@@ -274,6 +293,9 @@ export const MUSCAT_INFO_SLUGS = [
 
 export const JOHOR_BAHRU_INFO_SLUGS = [
   'best-jetski-tour-johor-bahru',
+  'best-hop-on-hop-off-tour-johor-bahru', 'best-private-city-tour-johor-bahru',
+  'best-desaru-day-trip-johor-bahru', 'best-kluang-day-trip-johor-bahru',
+  'best-buggy-tour-johor-bahru', 'best-kulai-charter-tour-johor-bahru',
 ];
 
 // China launched 2026-10 with 1,628 live tours (Beijing + Shanghai) and zero
