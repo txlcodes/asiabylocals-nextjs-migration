@@ -286,6 +286,343 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "best-vardzia-borjomi-day-trip-tbilisi":
+            return {
+                title: "Which Is the Best Vardzia & Borjomi Day Trip from Tbilisi?",
+                seoTitle: "Best Vardzia Borjomi Day Trip from Tbilisi 2026 | Honest Comparison",
+                description: "Compare real Vardzia cave monastery and Borjomi day trips from Tbilisi — from a $38 budget group tour to private 4x4 and multi-day versions, almost always paired with Rabati Castle.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a81784b7c91dc06820f80b39b0e0f2ca759728d4ca6e15d90296116ad964bdb0.png",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Vardzia's 12th-century cave monastery, Borjomi's mineral-water park, and Akhaltsikhe's Rabati Castle sit close enough together that nearly every tour visits all three in one long day. A standard budget group tour covering all three is the default, most-booked option.",
+                        tourCard: { slug: "from-tbilisiunesco-vardzia-rabati-and-borjomi-day", title: "From Tbilisi:UNESCO Vardzia, Rabati, and Borjomi Day Trip", description: "The standard full-day trip covering Vardzia, Rabati Castle, and Borjomi.", price: "From $38", duration: "15 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a81784b7c91dc06820f80b39b0e0f2ca759728d4ca6e15d90296116ad964bdb0.png" },
+                    },
+                    {
+                        title: "Cheapest: Standard UNESCO Day Trip",
+                        content: "At $38, this is the lowest-priced version covering all three stops in one long day.",
+                        tourCard: { slug: "from-tbilisiunesco-vardzia-rabati-and-borjomi-day", title: "From Tbilisi:UNESCO Vardzia, Rabati, and Borjomi Day Trip", description: "The budget-friendly version of the classic three-stop route.", price: "From $38", duration: "15 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a81784b7c91dc06820f80b39b0e0f2ca759728d4ca6e15d90296116ad964bdb0.png" },
+                    },
+                    {
+                        title: "Best for Private Comfort: Vardzia, Rabati Castle & Borjomi Private Tour",
+                        content: "This runs as a private tour rather than a shared group bus, worth it if you want flexible timing at each of the three long-day stops.",
+                        tourCard: { slug: "from-tbilisi-vardzia-rabati-castle-borjomi", title: "From Tbilisi: Vardzia, Rabati Castle & Borjomi Private Tour", description: "A private version of the Vardzia/Rabati/Borjomi circuit.", price: "From $319", duration: "14 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/43db15b4cb83f19d3405ee42beee7583fad9953775696ad7691b3e4120556540.jpg" },
+                    },
+                    {
+                        title: "Best for a Less Rushed Day: 2-Day Tour",
+                        content: "Given this route runs 13-15 hours as a single day, this 2-day version splits it into a more relaxed pace with an overnight stay, worth considering given how long the single-day versions run.",
+                        tourCard: { slug: "tbilisi-2-day-borjomi-rabati-vardzia-tour", title: "Tbilisi: 2-Day Borjomi, Rabati, & Vardzia Tour", description: "A 2-day version of the route with an overnight stay, avoiding the single long day.", price: "From $390", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cad3d969e12375aafcc70cceb3ad9daf15089917ad7c204f88a9ebf9f424afb5.jpeg" },
+                    },
+                    {
+                        title: "Best for Castle Focus: Borjomi, Rabati Castle & Vardzia Day Trip",
+                        content: "This version leads with Rabati Castle's restored fortress complex, good if that's your priority stop rather than the cave monastery.",
+                        tourCard: { slug: "from-tbilisi-borjomi-rabati-castle-vardzia-day", title: "From Tbilisi: Borjomi, Rabati Castle & Vardzia Day Trip", description: "A version of the route with more time at Rabati Castle.", price: "From $66", duration: "13 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4ecf9158ae6c653fc28deb77edabf7d254d70e99f6e72109e9d532f5978162df.jpeg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "This is one of Georgia's longest single-day tours from Tbilisi — 13-15 hours round trip is typical, so an early departure (often before 7am) is standard. If you'd rather not spend most of a day on the road, the 2-day version is worth the extra cost."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Vardzia and Borjomi day trip from Tbilisi?", a: "A standard group tour covering Vardzia, Rabati Castle, and Borjomi suits most visitors; go private for flexible timing or 2-day to avoid the long single-day drive." },
+                    { q: "How long is the Vardzia/Borjomi day trip from Tbilisi?", a: "Typically 13-15 hours round trip, among the longest single-day tours from Tbilisi." },
+                    { q: "Can Vardzia and Borjomi be split into two days?", a: "Yes, a 2-day version exists with an overnight stay for a less rushed pace." },
+                    { q: "What's included on a typical Vardzia/Borjomi day trip?", a: "Usually Vardzia cave monastery, Rabati Castle in Akhaltsikhe, and Borjomi's mineral-water park, all in one day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Vardzia and Borjomi day trip from Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "A standard group tour covering Vardzia, Rabati Castle, and Borjomi suits most visitors." } },
+                    { "@type": "Question", "name": "How long is the day trip?", "acceptedAnswer": { "@type": "Answer", "text": "Typically 13-15 hours round trip." } },
+                    { "@type": "Question", "name": "Can it be split into two days?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a 2-day version exists." } },
+                    { "@type": "Question", "name": "What's typically included?", "acceptedAnswer": { "@type": "Answer", "text": "Vardzia cave monastery, Rabati Castle, and Borjomi park." } }
+                ] },
+            };
+
+        case "best-georgian-cooking-class-tbilisi":
+            return {
+                title: "Which Is the Best Georgian Cooking Class in Tbilisi?",
+                seoTitle: "Best Georgian Cooking Class Tbilisi 2026 | Honest Comparison",
+                description: "Compare real Georgian cooking classes in Tbilisi — from a $38 khinkali and khachapuri class to intimate family classes with wine and a feast.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c92674e9217ad67e.jpeg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Nearly every Georgian cooking class centers on khinkali (dumplings) and khachapuri (cheese bread), Georgia's two signature dishes — the differences come down to group size, whether wine is included, and if it's a casual class or a more intimate family setting.",
+                        tourCard: { slug: "tbilisi-georgian-cooking-class-with-khinkali-and", title: "Tbilisi: Georgian Cooking Class with Khinkali and Khachapuri", description: "The standard Georgian cooking class covering both signature dishes.", price: "From $38", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c92674e9217ad67e.jpeg" },
+                    },
+                    {
+                        title: "Cheapest: Standard Khinkali & Khachapuri Class",
+                        content: "At $38, this covers both signature dishes at the lowest price among the classes here.",
+                        tourCard: { slug: "tbilisi-georgian-cooking-class-with-khinkali-and", title: "Tbilisi: Georgian Cooking Class with Khinkali and Khachapuri", description: "The budget-friendly standard cooking class.", price: "From $38", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c92674e9217ad67e.jpeg" },
+                    },
+                    {
+                        title: "Best for a Certificate: Khinkali & Khachapuri Class with Certificate",
+                        content: "This version adds a completion certificate to the standard class, a nice touch if you want a keepsake from the experience.",
+                        tourCard: { slug: "tbilisi-khinkali-khachapuri-cooking-class-with", title: "Tbilisi: Khinkali &Khachapuri Cooking Class with Certificate", description: "The standard class plus a completion certificate.", price: "From $95", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3527b53a61771baafc46f6ef9ff7ca80c5db0f516169a518444bf9e4d700fe81.jpg" },
+                    },
+                    {
+                        title: "Best for Intimacy: Family Cooking Class with Wine & Feast",
+                        content: "Run in a smaller, more personal family setting rather than a larger class, this version pairs the cooking with wine and a full feast afterward.",
+                        tourCard: { slug: "tbilisi-intimate-family-cooking-class-with-wine", title: "Tbilisi: Intimate Family Cooking Class with Wine & Feast", description: "A small-group family cooking class with wine and a feast.", price: "From $57", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/640fa629bf4dd72393909528ef14c09373de20cbee832108bc869baf17ba664a.png" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Khinkali are meant to be eaten by hand, holding the twisted top knot and sipping the broth inside before eating the rest — most classes teach this technique as part of the experience, not just the cooking itself."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Georgian cooking class in Tbilisi?", a: "The standard khinkali and khachapuri class suits most visitors; go for the family class if you want a more intimate setting." },
+                    { q: "What dishes do Georgian cooking classes typically teach?", a: "Khinkali (dumplings) and khachapuri (cheese bread), Georgia's two signature dishes." },
+                    { q: "Is wine included in Georgian cooking classes?", a: "Some are, particularly the family-style and feast-inclusive versions — check the specific class." },
+                    { q: "How long does a Georgian cooking class take?", a: "Most run 2-3 hours." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Georgian cooking class in Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "The standard khinkali and khachapuri class suits most visitors." } },
+                    { "@type": "Question", "name": "What dishes are typically taught?", "acceptedAnswer": { "@type": "Answer", "text": "Khinkali and khachapuri, Georgia's two signature dishes." } },
+                    { "@type": "Question", "name": "Is wine included?", "acceptedAnswer": { "@type": "Answer", "text": "Some classes include it, particularly family-style versions." } },
+                    { "@type": "Question", "name": "How long does a class take?", "acceptedAnswer": { "@type": "Answer", "text": "Most run 2-3 hours." } }
+                ] },
+            };
+
+        case "best-mtatsminda-park-tour-tbilisi":
+            return {
+                title: "Which Is the Best Mtatsminda Park Tour in Tbilisi?",
+                seoTitle: "Best Mtatsminda Park Tour Tbilisi 2026 | Honest Comparison",
+                description: "Compare real Mtatsminda Park and funicular tours in Tbilisi — from a $38 cable car and park visit to a combined Turtle Lake and myths-and-legends tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cd4b10241bababa94674a90e28a39f9f16b65c8989b1d5bc3ab373c3edca6302.jpeg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Mtatsminda Park sits on a hilltop above Tbilisi, reached by funicular or cable car, with the city's best panoramic views and an amusement park at the top. A standard funicular-and-cable-car visit covers the basics at the lowest cost.",
+                        tourCard: { slug: "tbilisi-mtatsminda-park-with-funicular-and-cable", title: "Tbilisi: Mtatsminda Park with Funicular and Cable Car Ride", description: "A standard visit to Mtatsminda Park using the funicular and cable car.", price: "From $38", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cd4b10241bababa94674a90e28a39f9f16b65c8989b1d5bc3ab373c3edca6302.jpeg" },
+                    },
+                    {
+                        title: "Cheapest: Funicular and Cable Car Ride",
+                        content: "At $38, this covers the core Mtatsminda experience via both the funicular and cable car at the lowest price.",
+                        tourCard: { slug: "tbilisi-mtatsminda-park-with-funicular-and-cable", title: "Tbilisi: Mtatsminda Park with Funicular and Cable Car Ride", description: "The budget-friendly standard Mtatsminda visit.", price: "From $38", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cd4b10241bababa94674a90e28a39f9f16b65c8989b1d5bc3ab373c3edca6302.jpeg" },
+                    },
+                    {
+                        title: "Best Combined with Turtle Lake",
+                        content: "This pairs Mtatsminda Park with a stop at Turtle Lake, a reservoir popular with locals for walking and relaxing, giving a fuller half-day outing.",
+                        tourCard: { slug: "tbilisi-turtle-lake-mtatsminda-park-funicular-tour", title: "Tbilisi: Turtle Lake, Mtatsminda Park, & Funicular Tour", description: "Mtatsminda Park combined with a visit to Turtle Lake.", price: "From $77", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b1aa39760cda9c27e5f52248b57d2f60700d74c402b286403aee63661e1fbfb5.jpg" },
+                    },
+                    {
+                        title: "Best for Storytelling: Mtatsminda Myths & Legends Tour",
+                        content: "Rather than a straightforward sightseeing visit, this version frames the hill's history through local myths and legends, a good fit for travellers who want narrative alongside the views.",
+                        tourCard: { slug: "tbilisi-mtatsminda-myths-legends-tour", title: "Tbilisi: Mtatsminda Myths & Legends Tour", description: "A storytelling-focused tour of Mtatsminda's history and legends.", price: "From $85", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2e1cb2f0bfd912cc90612b60716965cf5b41949ca0d2822b05bb7ed97b41be28.jpeg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "The cable car to Mtatsminda departs from near Rike Park and offers views over the Old Town on the way up — worth timing your visit for late afternoon if you want the best light for photos from the summit."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Mtatsminda Park tour in Tbilisi?", a: "A standard funicular-and-cable-car visit suits most visitors; add Turtle Lake for a fuller outing." },
+                    { q: "How do you get up to Mtatsminda Park?", a: "By funicular or cable car, both departing from different points near the city center." },
+                    { q: "What's at the top of Mtatsminda Park?", a: "Panoramic views over Tbilisi and an amusement park." },
+                    { q: "Can Mtatsminda Park be combined with other attractions?", a: "Yes, commonly with Turtle Lake." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Mtatsminda Park tour?", "acceptedAnswer": { "@type": "Answer", "text": "A standard funicular-and-cable-car visit suits most visitors." } },
+                    { "@type": "Question", "name": "How do you get up to Mtatsminda Park?", "acceptedAnswer": { "@type": "Answer", "text": "By funicular or cable car." } },
+                    { "@type": "Question", "name": "What's at the top?", "acceptedAnswer": { "@type": "Answer", "text": "Panoramic views and an amusement park." } },
+                    { "@type": "Question", "name": "Can it be combined with other attractions?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, commonly with Turtle Lake." } }
+                ] },
+            };
+
+        case "best-rafting-tour-tbilisi":
+            return {
+                title: "Which Is the Best Rafting Tour from Tbilisi?",
+                seoTitle: "Best Rafting Tour from Tbilisi 2026 | Honest Comparison",
+                description: "Compare real rafting day trips from Tbilisi — from a budget Gudauri combo with horseback riding and paragliding to a dedicated Aragvi and Mtkvari river rafting tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3f8ca5e10a9f5328786dc41f1c1e14d0d79a51e9a74e710d4d7114752721ebb3.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Rafting from Tbilisi usually happens on the Aragvi or Mtkvari rivers, often bundled with other Gudauri-area activities like horseback riding or paragliding rather than sold as a standalone trip.",
+                        tourCard: { slug: "tbilisi-to-gudauri-tour-with-rafting-horseback", title: "Tbilisi to Gudauri Tour with Rafting Horseback & Paragliding", description: "A multi-activity Gudauri day trip including rafting, horseback riding, and paragliding.", price: "From $26", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3f8ca5e10a9f5328786dc41f1c1e14d0d79a51e9a74e710d4d7114752721ebb3.jpg" },
+                    },
+                    {
+                        title: "Cheapest: Gudauri Multi-Activity Day Trip",
+                        content: "At $26, this is the lowest-priced way to try rafting, bundled with horseback riding and paragliding in one Gudauri day trip.",
+                        tourCard: { slug: "tbilisi-to-gudauri-tour-with-rafting-horseback", title: "Tbilisi to Gudauri Tour with Rafting Horseback & Paragliding", description: "The budget-friendly multi-activity rafting day trip.", price: "From $26", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3f8ca5e10a9f5328786dc41f1c1e14d0d79a51e9a74e710d4d7114752721ebb3.jpg" },
+                    },
+                    {
+                        title: "Best Dedicated Rafting: Ananuri Fortress & Rafting",
+                        content: "Rather than splitting time across several activities, this version pairs rafting with just one additional stop — Ananuri Fortress — for a more focused rafting-centered day.",
+                        tourCard: { slug: "tbilisi-ananuri-fortress-rafting-with-hotel-pick", title: "Tbilisi: Ananuri Fortress & Rafting. With hotel pick-up.", description: "A rafting-focused day trip paired with Ananuri Fortress.", price: "From $350", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/68338b32395eb61e1de5c0c3e37c6f1030c867608426873ef09c1c0f1ec46c58.jpg" },
+                    },
+                    {
+                        title: "Best for a Different River: Mtkvari River Rafting from Borjomi",
+                        content: "This runs on the Mtkvari river near Borjomi rather than the Aragvi near Gudauri, a genuinely different stretch of water for travellers who've already done the Gudauri-area version.",
+                        tourCard: { slug: "borjomi-mtkvari-river-rafting-with-guide-from", title: "Borjomi: Mtkvari River Rafting with Guide from Chobiskhevi", description: "Rafting on the Mtkvari river near Borjomi.", price: "From $189", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a21b1be98241e0142b7019744ecef90816f855ac18d464134e79a91254bf5572.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Most rafting here is sold as part of a broader adventure day rather than a long technical rafting trip — if you want a longer, more serious rafting experience, ask operators directly about river conditions and trip length before booking."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best rafting tour from Tbilisi?", a: "The Gudauri multi-activity day trip suits budget travellers; the Ananuri Fortress combo suits those wanting a more rafting-focused day." },
+                    { q: "Which rivers do Tbilisi rafting tours use?", a: "Most commonly the Aragvi near Gudauri, or the Mtkvari near Borjomi." },
+                    { q: "Is rafting from Tbilisi suitable for beginners?", a: "Yes, most tours are bundled adventure days aimed at general travellers rather than serious rafting enthusiasts." },
+                    { q: "What's the cheapest rafting option from Tbilisi?", a: "A multi-activity Gudauri day trip bundling rafting with horseback riding and paragliding." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best rafting tour from Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "The Gudauri multi-activity day trip suits budget travellers." } },
+                    { "@type": "Question", "name": "Which rivers are used?", "acceptedAnswer": { "@type": "Answer", "text": "Most commonly the Aragvi near Gudauri, or the Mtkvari near Borjomi." } },
+                    { "@type": "Question", "name": "Is it suitable for beginners?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, most tours are aimed at general travellers." } },
+                    { "@type": "Question", "name": "What's the cheapest option?", "acceptedAnswer": { "@type": "Answer", "text": "A multi-activity Gudauri day trip." } }
+                ] },
+            };
+
+        case "best-air-balloon-ride-tbilisi":
+            return {
+                title: "Is a Tbilisi Air Balloon Ride Worth It?",
+                seoTitle: "Tbilisi Air Balloon Ride 2026 | Honest Comparison",
+                description: "Compare the two real air balloon options in Tbilisi — a skip-the-line standard ticket versus a VIP 4-in-1 combo with cable car, boat, and wine.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/172a118adccf2798e933113124a054277c725773565d87669d1455724aca7908.jpeg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Tbilisi's air balloon rides are short tethered flights (not the hours-long free-flying balloon trips you may know from Cappadocia), giving an aerial view over the Old Town. The choice is mainly between a simple skip-the-line ticket or a VIP combo bundling in other activities.",
+                        tourCard: { slug: "tbilisi-air-balloon-skip-the-line-ticket", title: "Tbilisi: Air Balloon Skip The Line Ticket", description: "A standard skip-the-line ticket for Tbilisi's tethered air balloon.", price: "From $59", duration: "10 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/172a118adccf2798e933113124a054277c725773565d87669d1455724aca7908.jpeg" },
+                    },
+                    {
+                        title: "Cheapest: VIP 4-in-1 Combo",
+                        content: "At $17, this combo ticket bundles the balloon ride with a cable car trip, a boat ride, and wine, actually undercutting the standalone balloon ticket.",
+                        tourCard: { slug: "tbilisi-vip-4-in-1-balloon-cable-car-boat", title: "Tbilisi: VIP 4-in-1 Balloon, Cable Car, Boat & Wine Tour", description: "A combo ticket bundling the balloon ride with cable car, boat, and wine.", price: "From $17", duration: "25 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9a31cb54e435bde0253b3cba0765bf8931892cc3956e989b526dd1854478ed3e.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "These are tethered balloons that rise and descend in place rather than drifting over the landscape, so set expectations accordingly if you're picturing a Cappadocia-style flight. Weather and wind can cancel flights on short notice."
+                    }
+                ],
+                faqs: [
+                    { q: "Is a Tbilisi air balloon ride worth it?", a: "Yes for a quick aerial view of the Old Town, but it's a short tethered ride, not a long free-flying trip." },
+                    { q: "What's the cheapest Tbilisi balloon option?", a: "The VIP 4-in-1 combo, which also includes a cable car, boat ride, and wine." },
+                    { q: "How long does the Tbilisi balloon ride last?", a: "Around 10-25 minutes, as it's a tethered ride rather than a long flight." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a Tbilisi air balloon ride worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes for a quick aerial view, but it's a short tethered ride." } },
+                    { "@type": "Question", "name": "What's the cheapest option?", "acceptedAnswer": { "@type": "Answer", "text": "The VIP 4-in-1 combo." } },
+                    { "@type": "Question", "name": "How long does it last?", "acceptedAnswer": { "@type": "Answer", "text": "Around 10-25 minutes." } }
+                ] },
+            };
+
+        case "best-tusheti-tour-tbilisi":
+            return {
+                title: "Which Is the Best Tusheti Tour from Tbilisi?",
+                seoTitle: "Best Tusheti Tour from Tbilisi 2026 | Honest Comparison",
+                description: "Compare real multi-day Tusheti tours from Tbilisi — a 3-day 4x4 jeep tour, a 3-day jeep adventure with meals, and a 5-day helicopter all-inclusive option.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a7cc6c2dad72273aa3723672889a33787a55812fbcbb4d67e4fa9c3841c39b9b.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Tusheti is one of Georgia's most remote mountain regions, reachable only by 4x4 over the Abano Pass (one of the world's most dangerous roads) or by helicopter. A 3-day 4x4 jeep tour with a guesthouse stay is the standard way most travellers do it.",
+                        tourCard: { slug: "tbilisi-3-day-tusheti-4x4-jeep-tour-with", title: "Tbilisi: 3-Day Tusheti 4x4 Jeep Tour with Guesthouse Stay", description: "A standard 3-day 4x4 trip to Tusheti with a guesthouse stay.", price: "From $1560", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a7cc6c2dad72273aa3723672889a33787a55812fbcbb4d67e4fa9c3841c39b9b.jpg" },
+                    },
+                    {
+                        title: "Cheapest: 3-Day 4x4 Jeep Tour with Guesthouse",
+                        content: "At $1,560, this is the lowest-priced way to reach Tusheti, via 4x4 over the Abano Pass with local guesthouse accommodation.",
+                        tourCard: { slug: "tbilisi-3-day-tusheti-4x4-jeep-tour-with", title: "Tbilisi: 3-Day Tusheti 4x4 Jeep Tour with Guesthouse Stay", description: "The lowest-priced way to reach Tusheti by 4x4.", price: "From $1560", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a7cc6c2dad72273aa3723672889a33787a55812fbcbb4d67e4fa9c3841c39b9b.jpg" },
+                    },
+                    {
+                        title: "Best All-Inclusive Jeep Option: 3-Day Jeep Adventure with Meals",
+                        content: "This version bundles all meals into the 3-day jeep itinerary, simplifying logistics in a region where food options are limited.",
+                        tourCard: { slug: "tbilisi-3-day-tusheti-jeep-adventure-with-meals", title: "Tbilisi: 3-Day Tusheti Jeep Adventure with Meals", description: "A 3-day Tusheti jeep tour with all meals included.", price: "From $2039", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b0b1c483371bc83cf986852768ae4a7756b54b6d05b80f9e565075e6909796a7.jpeg" },
+                    },
+                    {
+                        title: "Best for Skipping the Dangerous Road: 5-Day Helicopter Tour",
+                        content: "Rather than driving the notoriously risky Abano Pass, this version flies in by helicopter, trading the road-trip adventure for a safer, more comfortable (and longer) stay.",
+                        tourCard: { slug: "tbilisi-5-day-tusheti-by-helicopter-with-all", title: "Tbilisi: 5-Day Tusheti by Helicopter with All-Inclusive Stay", description: "A 5-day all-inclusive Tusheti trip reached by helicopter instead of the Abano Pass road.", price: "From $2195", duration: "5 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b0b1c483371bc83cf986852768ae4a7756b54b6d05b80f9e565075e6909796a7.jpeg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "The Abano Pass road to Tusheti is only open roughly June through September due to snow, and is considered one of the most dangerous roads in the world — if that's a concern, the helicopter option avoids it entirely."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Tusheti tour from Tbilisi?", a: "A 3-day 4x4 jeep tour suits most adventurous travellers; the helicopter option avoids the dangerous Abano Pass road entirely." },
+                    { q: "When is Tusheti accessible by road?", a: "Roughly June through September, when the Abano Pass is open and clear of snow." },
+                    { q: "Is the road to Tusheti dangerous?", a: "Yes, the Abano Pass is considered one of the most dangerous roads in the world." },
+                    { q: "How long does a Tusheti trip take?", a: "Most jeep tours run 3 days; the helicopter option runs 5 days all-inclusive." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Tusheti tour from Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "A 3-day 4x4 jeep tour suits most adventurous travellers." } },
+                    { "@type": "Question", "name": "When is Tusheti accessible by road?", "acceptedAnswer": { "@type": "Answer", "text": "Roughly June through September." } },
+                    { "@type": "Question", "name": "Is the road dangerous?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the Abano Pass is one of the most dangerous roads in the world." } },
+                    { "@type": "Question", "name": "How long does a trip take?", "acceptedAnswer": { "@type": "Answer", "text": "Most jeep tours run 3 days." } }
+                ] },
+            };
+
+        case "best-sulfur-bath-experience-tbilisi":
+            return {
+                title: "Which Is the Best Sulfur Bath Experience in Tbilisi?",
+                seoTitle: "Best Sulfur Bath Experience Tbilisi 2026 | Honest Comparison",
+                description: "Compare real private sulfur bath experiences in Tbilisi — from a $21 romantic bath with wine to a $203 iconic private bathhouse experience with pickup.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5842a84adfd8dd144bd8199c3e02725308bdc33e0cd2076eff906762fa50d799.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Tbilisi's natural sulfur baths in the Abanotubani district are the city's most distinctive wellness experience, and both real options here are private rather than shared sessions — the difference is price tier and whether pickup is included.",
+                        tourCard: { slug: "tbilisi-private-romantic-sulfur-bath-experience", title: "Tbilisi: Private Romantic Sulfur Bath Experience with Wine", description: "A private sulfur bath experience with wine included.", price: "From $21", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6af07fe188c5930cbd5022b11ed7e415e0963a6a65ff6f52f38e6b4193792a61.png" },
+                    },
+                    {
+                        title: "Cheapest: Romantic Sulfur Bath with Wine",
+                        content: "At $21, this is the lower-priced private sulfur bath option, including wine for a romantic touch.",
+                        tourCard: { slug: "tbilisi-private-romantic-sulfur-bath-experience", title: "Tbilisi: Private Romantic Sulfur Bath Experience with Wine", description: "The budget-friendly private sulfur bath with wine.", price: "From $21", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6af07fe188c5930cbd5022b11ed7e415e0963a6a65ff6f52f38e6b4193792a61.png" },
+                    },
+                    {
+                        title: "Best with Convenience: Iconic Private Experience with Pickup",
+                        content: "This higher-tier version includes hotel pickup, removing the hassle of getting to Abanotubani yourself.",
+                        tourCard: { slug: "tbilisi-iconic-private-sulfur-bath-experience", title: "Tbilisi: Iconic Private Sulfur Bath Experience with Pickup", description: "A private sulfur bath experience including hotel pickup.", price: "From $203", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5842a84adfd8dd144bd8199c3e02725308bdc33e0cd2076eff906762fa50d799.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Tbilisi literally means 'warm place' in Old Georgian, named for these naturally heated sulfur springs — the domed bathhouses in Abanotubani have been in continuous use for centuries. Private sessions mean no need to worry about bathing-suit etiquette in a shared space."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best sulfur bath experience in Tbilisi?", a: "A private romantic experience with wine suits most visitors; add pickup if convenience matters more than price." },
+                    { q: "Why is Tbilisi known for sulfur baths?", a: "The city's name means 'warm place,' referring to its naturally heated sulfur springs used for centuries." },
+                    { q: "Are Tbilisi sulfur baths private or shared?", a: "Both real options here are private sessions rather than shared bathhouse sessions." },
+                    { q: "How long does a sulfur bath experience last?", a: "Typically around 1 hour." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best sulfur bath experience in Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "A private romantic experience with wine suits most visitors." } },
+                    { "@type": "Question", "name": "Why is Tbilisi known for sulfur baths?", "acceptedAnswer": { "@type": "Answer", "text": "The city's name means 'warm place,' referring to its sulfur springs." } },
+                    { "@type": "Question", "name": "Are the baths private or shared?", "acceptedAnswer": { "@type": "Answer", "text": "Both options here are private sessions." } },
+                    { "@type": "Question", "name": "How long does it last?", "acceptedAnswer": { "@type": "Answer", "text": "Typically around 1 hour." } }
+                ] },
+            };
+
+        case "best-bike-tour-tbilisi":
+            return {
+                title: "Is a Tbilisi Bike Tour Worth It?",
+                seoTitle: "Tbilisi Bike Tour 2026 | Honest Review",
+                description: "An honest look at Tbilisi's private bike tour covering Peace Bridge, Old Town, and Sameba Cathedral.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/410a76a24b1941c3765acad48657d108febda881596dbd34ba0e032797c96ae5.png",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "This private bike tour covers Tbilisi's Peace Bridge, Old Town streets, and Sameba Cathedral at a cyclist's pace — a genuinely different way to see the city compared to the standard walking tours.",
+                        tourCard: { slug: "tbilisi-private-bike-tour-peace-bridge-old-town", title: "Tbilisi Private Bike Tour: Peace Bridge, Old Town & Sameba", description: "A private bike tour covering Peace Bridge, Old Town, and Sameba Cathedral.", price: "From $104", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/410a76a24b1941c3765acad48657d108febda881596dbd34ba0e032797c96ae5.png" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Tbilisi's Old Town has cobblestone streets and some steep sections, so this suits reasonably fit, comfortable cyclists rather than complete beginners."
+                    }
+                ],
+                faqs: [
+                    { q: "Is a Tbilisi bike tour worth it?", a: "Yes for a different pace and perspective than walking, especially for covering the Peace Bridge, Old Town, and Sameba Cathedral in one outing." },
+                    { q: "Is Tbilisi's Old Town suitable for cycling?", a: "It has cobblestones and some steep sections, so reasonable fitness and comfort on a bike is recommended." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a Tbilisi bike tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes for a different pace and perspective than walking." } },
+                    { "@type": "Question", "name": "Is Old Town suitable for cycling?", "acceptedAnswer": { "@type": "Answer", "text": "It has cobblestones and steep sections, so reasonable fitness helps." } }
+                ] },
+            };
+
         default:
             return null;
     }
