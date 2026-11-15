@@ -229,6 +229,21 @@ export const KUCHING_INFO_SLUGS = [
   'best-semenggoh-orangutan-tour-kuching', 'best-bako-national-park-tour-kuching',
 ];
 
+// Nepal launched 2026-11-16 with 1,535 live tours and zero authority pages.
+export const KATHMANDU_INFO_SLUGS = [
+  'best-everest-base-camp-trek-kathmandu', 'best-everest-base-camp-helicopter-tour-kathmandu',
+];
+
+// Georgia launched 2026-11-16 with 1,024 live tours and zero authority pages.
+export const TBILISI_INFO_SLUGS = [
+  'best-kazbegi-day-tour-tbilisi', 'best-kakheti-wine-tour-tbilisi',
+];
+
+// Oman launched 2026-11-16 with 709 live tours and zero authority pages.
+export const MUSCAT_INFO_SLUGS = [
+  'best-wahiba-sands-desert-tour-muscat', 'best-dolphin-watching-tour-muscat',
+];
+
 export const JOHOR_BAHRU_INFO_SLUGS = [
   'best-jetski-tour-johor-bahru',
 ];

@@ -44,6 +44,9 @@ import { getAgraJaipurInfoContent } from './agraJaipurInfoContent';
 import { getAgraBestInfoContent } from './agraBestInfoContent';
 import { getJaipurDelhiMoreInfoContent } from './jaipurDelhiMoreInfoContent';
 import { getUzbekistanInfoContent } from './uzbekistanInfoContent';
+import { getNepalInfoContent } from './nepalInfoContent';
+import { getGeorgiaInfoContent } from './georgiaInfoContent';
+import { getOmanInfoContent } from './omanInfoContent';
 
 export interface CityInfoData {
     /** On-page H1. Can be long and descriptive. */
@@ -69,6 +72,15 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const uzbekistanPage = getUzbekistanInfoContent(slug);
     if (uzbekistanPage) return uzbekistanPage;
+
+    const nepalPage = getNepalInfoContent(slug);
+    if (nepalPage) return nepalPage;
+
+    const georgiaPage = getGeorgiaInfoContent(slug);
+    if (georgiaPage) return georgiaPage;
+
+    const omanPage = getOmanInfoContent(slug);
+    if (omanPage) return omanPage;
 
     const agraJaipurPage = getAgraJaipurInfoContent(slug);
     if (agraJaipurPage) return agraJaipurPage;
