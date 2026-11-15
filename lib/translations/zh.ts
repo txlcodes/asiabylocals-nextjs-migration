@@ -12347,6 +12347,40 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "khao-kheow-zoo-private-tour-with-pickup-in-pattaya": {
+  "title": "芭堤雅考淇奥动物园私人之旅含接送",
+  "metaTitle": "芭堤雅考淇奥动物园私人之旅含接送",
+  "shortDescription": "6小时的Pattaya游览，含保险、过路费及停车费。运营商：SST Global Tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6小时的Pattaya体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\n价格包含保险、过路费及停车费。不包含餐食费用、小费、个人花费及动物喂食活动，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "保险",
+   "过路费",
+   "停车费"
+  ],
+  "notIncluded": [
+   "餐食费用",
+   "小费",
+   "个人花费",
+   "动物喂食活动"
+  ]
+ },
+ "pattaya-romantic-tour-from-bangkok-private-day-trip-by-local-operator": {
+  "title": "从曼谷出发的芭堤雅浪漫之旅（私人一日游，当地运营商提供）",
+  "metaTitle": "从曼谷出发的芭堤雅浪漫之旅（私人一日游，当地运营商提供）",
+  "shortDescription": "10小时的Pattaya游览，含Sanctuary of Truth Pattaya及Wong Amat Beach and House of Benedict Pattaya。运营商：Skyway Tours，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场10小时的Pattaya体验，围绕Sanctuary of Truth Pattaya及Wong Amat Beach and House of Benedict Pattaya展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPattaya, two hours south-east of Bangkok, is the resort city that grew from an American R&R post in the 1960s, and it is two places: the beach-road bars and Walking Street after dark, and a set of family attractions that are among the best in the country. The Sanctuary of Truth is a 105-metre temple of carved teak, begun in 1981 and still unfinished, entirely without nails. Nong Nooch Tropical Garden covers 500 acres of topiary and orchids. Koh Larn, 40 minutes by ferry, has the clean beaches Pattaya's own lacks. Tiffany's and Alcazar are the two long-running cabaret shows, and the truth is that Pattaya is easier with children than its reputation suggests.\n\n价格包含私人空调车辆、曼谷酒店接送及英语司机。不包含景点门票费用、餐食及饮品、个人花费及可选活动，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nBangkok.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "私人空调车辆",
+   "曼谷酒店接送",
+   "英语司机"
+  ],
+  "notIncluded": [
+   "景点门票费用",
+   "餐食及饮品",
+   "个人花费",
+   "可选活动"
+  ]
+ },
  "phi-phi-and-bamboo-islands-snorkeling-by-speedboat": {
   "title": "快艇畅游披披岛与竹子岛浮潜之旅",
   "metaTitle": "快艇畅游披披岛与竹子岛浮潜之旅",
@@ -12952,6 +12986,23 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "国家公园门票，成人300泰铢，儿童200泰铢"
+  ]
+ },
+ "james-bond-island-and-phang-nga-bay-by-speedboat": {
+  "title": "快艇游览007岛及攀牙湾",
+  "metaTitle": "快艇游览007岛及攀牙湾",
+  "shortDescription": "6小时的Phuket游览，含免费接送区域往返接送、仅限预订含接送项目时提供、咖啡或茶、瓶装水及软饮料。运营商：AnyWhere tours，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6小时的Phuket体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含免费接送区域往返接送、仅限预订含接送项目时提供、咖啡或茶、瓶装水及软饮料。不包含国家公园门票成人300泰铢、儿童150泰铢及其他个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "免费接送区域往返接送",
+   "仅限预订含接送项目时提供",
+   "咖啡或茶",
+   "瓶装水",
+   "软饮料"
+  ],
+  "notIncluded": [
+   "国家公园门票成人300泰铢、儿童150泰铢",
+   "其他个人花费"
   ]
  },
  "racha-islands-and-maiton-dolphin-spotting-by-catamaran": {
@@ -14283,6 +14334,23 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "国家公园门票"
+  ]
+ },
+ "hands-on-learn-to-cook-3-popular-thai-s-street-food-in-krabi": {
+  "title": "甲米实操学习制作3种泰式人气街头小吃",
+  "metaTitle": "甲米实操学习制作3种泰式人气街头小吃",
+  "shortDescription": "2小时的Krabi游览，含实操烹饪课程、全部烹饪食材、饮用水、PDF食谱电子书及活动照片。运营商：Authentic Thai Cooking School，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n曼谷唐人街沿耀华力路（Yaowarat Road）延伸，该路建于1891年，白天两侧是金饰店，夜晚则变成小吃摊，人行道上摆满炭烤炉和面条车，著名摊位前排起长队：Phadungdao的烤海鲜、带胡椒味的卷粉guay jub、烤栗子，还有想尝鲜的人可以选择的燕窝和鱼翅。这是亚洲最密集的街头美食区，大约18:00开始热闹起来。曼谷米其林指南自2018年起开始评选街头摊位；在那里吃过的向导知道哪些队排得值得。\n\n价格包含实操烹饪课程、全部烹饪食材、饮用水、PDF食谱电子书及活动照片。不包含可自费购买啤酒和酒类饮品及不含接送及交通服务，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "实操烹饪课程",
+   "全部烹饪食材",
+   "饮用水",
+   "PDF食谱电子书",
+   "活动照片"
+  ],
+  "notIncluded": [
+   "可自费购买啤酒和酒类饮品",
+   "不含接送及交通服务"
   ]
  },
  "a-speedboat-voyage-to-unveil-hong-s-grottoes-by-kayak-in-krabi": {
@@ -15707,6 +15775,23 @@ export const ZH_TOURS: Record<string, TourT> = {
    "食品和饮料"
   ]
  },
+ "klong-sa-kaew-hidden-gem-kayaking-and-swimming-tour-in-krabi": {
+  "title": "甲米Klong Sa Kaew（隐藏宝地）皮划艇及游泳之旅",
+  "metaTitle": "甲米Klong Sa Kaew（隐藏宝地）皮划艇及游泳之旅",
+  "shortDescription": "2.5小时的Krabi游览，含酒店接送、皮划艇装备、漂浮橡胶圈、饮用水及水果。运营商：Diamond Cave Tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2.5小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含酒店接送、皮划艇装备、漂浮橡胶圈、饮用水及水果。不包含不含莱利海滩接送及不含兰达岛接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nKrabi.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "皮划艇装备",
+   "漂浮橡胶圈",
+   "饮用水",
+   "水果"
+  ],
+  "notIncluded": [
+   "不含莱利海滩接送",
+   "不含兰达岛接送"
+  ]
+ },
  "ultimate-phi-phi-and-maya-bay-ascent-by-speedboat": {
   "title": "皮皮岛及玛雅湾终极快艇之旅",
   "metaTitle": "皮皮岛及玛雅湾终极快艇之旅",
@@ -16266,6 +16351,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "塔邦哥拉尼国家公园费用（成人300泰铢，儿童150泰铢）"
   ]
  },
+ "wareerak-hot-spring-and-spa-with-transfer-from-ao-nang": {
+  "title": "从奥南出发：Wareerak温泉及Spa含接送",
+  "metaTitle": "从奥南出发：Wareerak温泉及Spa含接送",
+  "shortDescription": "5小时的Krabi游览，含身体护理及理疗（根据所选选项）、天然冷热矿泉池体验、专业认证理疗师指导、午餐及水果。运营商：Wareerak Hot Spring & Wellness，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n甲米的内陆一日游是市区以南的丛林三大景点：虎穴寺（Wat Tham Suea），1,260级石阶通向山顶佛像，俯瞰整片喀斯特平原（上山约需一小时，10:00之后会非常酷热）；翡翠池，位于Thung Teao森林中的一处绿色矿泉，再沿一段短步道可到蓝池，那里只能观赏，不能游泳；还有Klong Thom温泉，温热的泉水从天然岩石池中流入一条清凉的小溪。行程按此顺序进行，结束时全身都会湿透。\n\n价格包含身体护理及理疗（根据所选选项）、天然冷热矿泉池体验、专业认证理疗师指导、午餐及水果。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "身体护理及理疗（根据所选选项）",
+   "天然冷热矿泉池体验",
+   "专业认证理疗师指导",
+   "午餐",
+   "水果"
+  ],
+  "notIncluded": []
+ },
  "clear-water-canal-sunrise-kayak-and-sup-in-krabi": {
   "title": "甲米清水运河日出皮划艇与立式桨板之旅",
   "metaTitle": "甲米清水运河日出皮划艇与立式桨板之旅",
@@ -16543,6 +16642,23 @@ export const ZH_TOURS: Record<string, TourT> = {
    "毛巾及更换衣物",
    "小费",
    "国家公园费用"
+  ]
+ },
+ "half-day-mangrove-boat-trip-and-khao-khanap-nam-cave-in-krabi": {
+  "title": "甲米半日红树林游船及考卡纳南洞之旅",
+  "metaTitle": "甲米半日红树林游船及考卡纳南洞之旅",
+  "shortDescription": "2小时的Krabi游览，含酒店接送、穿越红树林的游船之旅、参观历史岩洞、现场导游及饮用水。运营商：Diamond Cave Tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、穿越红树林的游船之旅、参观历史岩洞、现场导游及饮用水。不包含不含莱利海滩接送及不含兰达岛接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nKrabi.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "穿越红树林的游船之旅",
+   "参观历史岩洞",
+   "现场导游",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "不含莱利海滩接送",
+   "不含兰达岛接送"
   ]
  },
  "phi-phi-island-full-day-private-speed-boat-tour": {
@@ -16995,6 +17111,37 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "exclusive-doi-suthep-waterfall-karen-tribe-tour": {
+  "title": "独家素贴山、瀑布及克伦族部落之旅",
+  "metaTitle": "独家素贴山、瀑布及克伦族部落之旅",
+  "shortDescription": "为期一整天的Chiang Mai游览，含Doi Suthep-Pui National Park及Wat Pha Lat and Bai Orchid & Butterfly Farm。运营商：Doisuthep the Exotic Trek Chiangmai，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场为期一整天的Chiang Mai体验，围绕Doi Suthep-Pui National Park及Wat Pha Lat and Bai Orchid & Butterfly Farm展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含翻译服务、门票及英语导游。不包含前往寺庙的缆车票（额外20泰铢），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从McDonald's and Wat Phra Singh Woramahawihan提供接送服务；具体地点和时间将在预订确认后与Doisuthep the Exotic Trek Chiangmai协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "翻译服务",
+   "门票",
+   "英语导游"
+  ],
+  "notIncluded": [
+   "前往寺庙的缆车票（额外20泰铢）"
+  ]
+ },
+ "hike-on-monk-s-trail-and-doi-suthep-private-tour": {
+  "title": "僧侣步道徒步及素贴山私人之旅",
+  "metaTitle": "僧侣步道徒步及素贴山私人之旅",
+  "shortDescription": "4小时的Chiang Mai游览，含Wat Pha Lat Hike (Monk's trail)及Wat Pha Lat and Wat Phra That Doi Suthep。运营商：Beyond Experience，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Chiang Mai体验，围绕Wat Pha Lat Hike (Monk's trail)及Wat Pha Lat and Wat Phra That Doi Suthep展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n双龙寺（Wat Phra That Doi Suthep）坐落在清迈上方的山上，建于1383年，用以供奉据说是佛陀肩骨的圣物，这块圣物由一头自行选定地点的白象驮上山来。306级那伽石阶通向一座露台，镀金的佛塔周围环绕着铜铃，整座城市就在1,000米之下；需要的游客也可以乘坐缆车上山。僧侣在6:00和18:00诵经，清晨城里的双条车（songthaews）尚未抵达之前，是最安静的时段。门票为30泰铢，着装需遮住肩膀和膝盖。\n\n价格包含酒店接送、门票费用、缆车票、一瓶水及专业本地导游。不包含个人花费及食物及饮料，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "门票费用",
+   "缆车票",
+   "一瓶水",
+   "专业本地导游"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "食物及饮料"
+  ]
+ },
  "local-fabric-tie-dye-workshop-with-hotel-pickup-in-chiang-mai": {
   "title": "清迈当地布料扎染工作坊含酒店接送",
   "metaTitle": "清迈当地布料扎染工作坊含酒店接送",
@@ -17022,6 +17169,47 @@ export const ZH_TOURS: Record<string, TourT> = {
    "司机及导游小费（可选）"
   ]
  },
+ "2-day-trek-zipline-village-and-bamboo-rafting-in-chiang-mai": {
+  "title": "清迈2天徒步、高空滑索、村庄及竹筏漂流",
+  "metaTitle": "清迈2天徒步、高空滑索、村庄及竹筏漂流",
+  "shortDescription": "2天的Chiang Mai游览，含英语导游、双排车（宋条车）往返接送、在山地部落村庄住宿1晚及4顿餐食（午餐、晚餐、早餐、午餐）。运营商：Chiang Mai Footsteps Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2天的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国北部的户外活动大多以清迈为出发点：梅塘河（Mae Taeng）的白水漂流，7月到10月雨季时难度为二到四级，其余时间则较为平缓；清迈北部雨林中的滑索项目，部分线路设有30多个平台；湄林（Mae Rim）山区的ATV越野车路线；以及徒步前往克伦族和拉祜族村落的行程，从一天到三夜不等。普吉岛和甲米也有各自的ATV和滑索公园，但真正的雨林体验还是在北部。\n\n价格包含英语导游、双排车（宋条车）往返接送、在山地部落村庄住宿1晚及4顿餐食（午餐、晚餐、早餐、午餐）。不包含饮用水、个人花费及酒精饮品，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "英语导游",
+   "双排车（宋条车）往返接送",
+   "在山地部落村庄住宿1晚",
+   "4顿餐食（午餐、晚餐、早餐、午餐）"
+  ],
+  "notIncluded": [
+   "饮用水",
+   "个人花费",
+   "酒精饮品"
+  ]
+ },
+ "diy-natural-skincare-and-aromatherapy-workshop-in-chiang-mai": {
+  "title": "清迈DIY天然护肤及香薰工作坊",
+  "metaTitle": "清迈DIY天然护肤及香薰工作坊",
+  "shortDescription": "2小时的Chiang Mai游览，含经验丰富的专业工作坊导师、所有优质原材料、有机厨房用品及精油及4款可带回家的手工护肤产品（面膜、磨砂膏及护理产品）。运营商：Uri Herbs Workshop，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含经验丰富的专业工作坊导师、所有优质原材料、有机厨房用品及精油及4款可带回家的手工护肤产品（面膜、磨砂膏及护理产品）。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "经验丰富的专业工作坊导师",
+   "所有优质原材料、有机厨房用品及精油",
+   "4款可带回家的手工护肤产品（面膜、磨砂膏及护理产品）"
+  ],
+  "notIncluded": []
+ },
+ "private-elephant-care-atv-zipline-waterfall-and-raft-in-chiang-mai": {
+  "title": "清迈私人象只护理、ATV/高空滑索、瀑布及漂流",
+  "metaTitle": "清迈私人象只护理、ATV/高空滑索、瀑布及漂流",
+  "shortDescription": "7.5小时的Chiang Mai游览，含私人酒店往返接送（面包车）、私人全程象只护理项目及双人ATV（每车1名驾驶员及1名乘客，可付费升级为单人ATV）。运营商：Chiang Mai Butler Services，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7.5小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国北部的户外活动大多以清迈为出发点：梅塘河（Mae Taeng）的白水漂流，7月到10月雨季时难度为二到四级，其余时间则较为平缓；清迈北部雨林中的滑索项目，部分线路设有30多个平台；湄林（Mae Rim）山区的ATV越野车路线；以及徒步前往克伦族和拉祜族村落的行程，从一天到三夜不等。普吉岛和甲米也有各自的ATV和滑索公园，但真正的雨林体验还是在北部。\n\n价格包含私人酒店往返接送（面包车）、私人全程象只护理项目及双人ATV（每车1名驾驶员及1名乘客，可付费升级为单人ATV）。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "私人酒店往返接送（面包车）",
+   "私人全程象只护理项目",
+   "双人ATV（每车1名驾驶员及1名乘客，可付费升级为单人ATV）"
+  ],
+  "notIncluded": []
+ },
  "chiang-mai-organic-thai-cooking-experience-by-local-operator": {
   "title": "清迈当地运营商有机泰式烹饪体验",
   "metaTitle": "清迈当地运营商有机泰式烹饪体验",
@@ -17031,6 +17219,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "清迈市中心3公里范围内的免费接送"
   ],
   "notIncluded": []
+ },
+ "pai-2-day-tour-with-sticky-waterfalls-in-chiang-mai": {
+  "title": "清迈出发：拜县2天之旅含粘滑瀑布",
+  "metaTitle": "清迈出发：拜县2天之旅含粘滑瀑布",
+  "shortDescription": "2天的Chiang Mai游览，含酒店接送、参观粘滑瀑布及当地午餐。运营商：Methavee Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2天的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n黏黏瀑布（Bua Tong）位于清迈以北一小时车程处，是一处石灰岩瀑布，其矿物沉积让岩石变得防滑而非光滑，因此游客可以赤脚直接踩着水流往上爬。这是泰国家庭常来的野餐地点，较陡的路段设有拉绳，顶部有一处泉水池塘，免费入场，工作日上午最为合适。回程途中的梅莎谷（Mae Sa）一带有兰花农场、植物园，以及规范不一的象营。\n\n价格包含酒店接送、参观粘滑瀑布及当地午餐。不包含晚餐、客人个人消费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。Methavee Travel将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "参观粘滑瀑布",
+   "当地午餐"
+  ],
+  "notIncluded": [
+   "晚餐",
+   "客人个人消费",
+   "小费"
+  ]
  },
  "lamphun-by-local-train-temples-and-local-food-in-chiang-mai": {
   "title": "清迈出发搭本地火车游南奔：寺庙与地道美食",
@@ -17060,6 +17264,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "毛巾",
    "个人花费",
    "小费"
+  ]
+ },
+ "chiang-mai-zipline-and-1-hour-atv-jungle-adventure-by-local-operator": {
+  "title": "清迈高空滑索及1小时ATV丛林探险（当地运营商提供）",
+  "metaTitle": "清迈高空滑索及1小时ATV丛林探险（当地运营商提供）",
+  "shortDescription": "1.5小时的Chiang Mai游览，含仅在选择接送项目时提供清迈酒店接载、18个平台和9条滑索（短线路选项）及34个平台和18条滑索（全程路线选项）。运营商：Oh-Hoo，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1.5小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含仅在选择接送项目时提供清迈酒店接载、18个平台和9条滑索（短线路选项）及34个平台和18条滑索（全程路线选项）。不包含个人花费及食物及饮料，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。Oh-Hoo将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "仅在选择接送项目时提供清迈酒店接载",
+   "18个平台和9条滑索（短线路选项）",
+   "34个平台和18条滑索（全程路线选项）"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "食物及饮料"
   ]
  },
  "white-temple-blue-red-temples-and-lalitta-cafe-in-chiang-mai": {
@@ -17109,6 +17328,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "sky-hawk-adventure-without-transfer-in-chiang-mai": {
+  "title": "清迈Sky Hawk探险（不含接送）",
+  "metaTitle": "清迈Sky Hawk探险（不含接送）",
+  "shortDescription": "Chiang Mai游览，含根据所选套餐参与活动（丛林飞索短程、丛林飞索全程或越野车探险）、可选套餐：短程越野车或全程越野车及现场咖啡厅提供的正宗泰式自助餐。运营商：Sky Hawk Zipline，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国境内的实际距离往往比地图上看起来更远：曼谷到大城（阿瑜陀耶）为80公里，约90分钟；曼谷到北碧2个半小时；旺季时普吉机场到芭东海滩约1小时；清迈到清莱则需3小时。按车计费的私家车加司机服务，是3人以上出游一日游的合理选择，因为大巴行程按固定时间表运行，而Grab叫车软件在城际出行上并不好用。司机通常不是导游，如果想了解历史讲解，需要另外预订导游，或选择明确标明配有导游的行程。\n\n价格包含根据所选套餐参与活动（丛林飞索短程、丛林飞索全程或越野车探险）、可选套餐：短程越野车或全程越野车及现场咖啡厅提供的正宗泰式自助餐。不包含小费、个人花费及上述未提及的其他费用，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "根据所选套餐参与活动（丛林飞索短程、丛林飞索全程或越野车探险）",
+   "可选套餐：短程越野车或全程越野车",
+   "现场咖啡厅提供的正宗泰式自助餐"
+  ],
+  "notIncluded": [
+   "小费",
+   "个人花费",
+   "上述未提及的其他费用"
+  ]
+ },
  "wat-pha-lat-wat-phra-that-doi-suthep-and-hmong-tour-chiang-mai": {
   "title": "帕辣寺、素贴山双龙寺及苗族村之旅（清迈）",
   "metaTitle": "帕辣寺、素贴山双龙寺及苗族村之旅（清迈）",
@@ -17149,6 +17384,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "temple-handicraft-village-and-hot-spring-tour-in-chiang-mai": {
+  "title": "清迈寺庙、手工艺村庄及温泉之旅",
+  "metaTitle": "清迈寺庙、手工艺村庄及温泉之旅",
+  "shortDescription": "8小时的Chiang Mai游览，含参观西顿蒙寺、参观三甘烹手工艺区、参观湄安温泉及现场导游。运营商：SNP Chiangmai Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n甲米的内陆一日游是市区以南的丛林三大景点：虎穴寺（Wat Tham Suea），1,260级石阶通向山顶佛像，俯瞰整片喀斯特平原（上山约需一小时，10:00之后会非常酷热）；翡翠池，位于Thung Teao森林中的一处绿色矿泉，再沿一段短步道可到蓝池，那里只能观赏，不能游泳；还有Klong Thom温泉，温热的泉水从天然岩石池中流入一条清凉的小溪。行程按此顺序进行，结束时全身都会湿透。\n\n价格包含参观西顿蒙寺、参观三甘烹手工艺区、参观湄安温泉及现场导游。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "参观西顿蒙寺",
+   "参观三甘烹手工艺区",
+   "参观湄安温泉",
+   "现场导游"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
+  ]
+ },
  "6km-whitewater-and-bamboo-rafting-scenic-caf-in-chiang-mai": {
   "title": "清迈6公里激流及竹筏漂流，景观咖啡馆",
   "metaTitle": "清迈6公里激流及竹筏漂流，景观咖啡馆",
@@ -17164,6 +17415,30 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "herbal-tea-thai-inhaler-and-massage-ball-workshop-in-chiang-mai": {
+  "title": "清迈草药茶、泰式吸入棒及按摩球工作坊",
+  "metaTitle": "清迈草药茶、泰式吸入棒及按摩球工作坊",
+  "shortDescription": "1小时的Chiang Mai游览，含经验丰富的工作坊导师、所有原材料、优质草药及精油及可带回家的手工产品（视预订项目而定：定制清凉吸入棒、个性化调配茶包或传统按摩球）。运营商：Uri Herbs Workshop，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰式按摩是一套在地板上进行的拉伸与沿身体经络施压的手法，穿着宽松衣物进行，不使用按摩油，其源头可追溯到随佛教传入的阿育吠陀传统；曼谷卧佛寺（Wat Pho）按摩学校自1955年起开始教授这门技艺，其学生如今遍布全国各地的按摩馆。一次正规的两小时按摩应该让你感到放松，而不是酸痛；如果想要力道轻一点，可以说“bao bao”。油压按摩、足底反射疗法，以及用蒸熏过的泰姜和柠檬草制成的草药热敷包，是其他常见的项目。价格从街边小店的几百泰铢到度假村水疗中心的数千泰铢不等，而街边小店往往手法更好。\n\n价格包含经验丰富的工作坊导师、所有原材料、优质草药及精油及可带回家的手工产品（视预订项目而定：定制清凉吸入棒、个性化调配茶包或传统按摩球）。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "经验丰富的工作坊导师",
+   "所有原材料、优质草药及精油",
+   "可带回家的手工产品（视预订项目而定：定制清凉吸入棒、个性化调配茶包或传统按摩球）"
+  ],
+  "notIncluded": []
+ },
+ "lanna-culture-experience-with-thai-dress-and-night-safari-in-chiang-mai": {
+  "title": "清迈兰纳文化体验含泰服及夜间野生动物园",
+  "metaTitle": "清迈兰纳文化体验含泰服及夜间野生动物园",
+  "shortDescription": "6小时的Chiang Mai游览，含玛雅购物中心或塔佩门麦当劳区域往返接送、泰国传统服饰租赁及换装体验及参观邦庞寺。运营商：STANDARD TOUR CO LTD，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含玛雅购物中心或塔佩门麦当劳区域往返接送、泰国传统服饰租赁及换装体验及参观邦庞寺。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "玛雅购物中心或塔佩门麦当劳区域往返接送",
+   "泰国传统服饰租赁及换装体验",
+   "参观邦庞寺"
+  ],
+  "notIncluded": []
+ },
  "chiang-rai-red-white-and-blue-temples-day-tour": {
   "title": "清莱红庙、白庙及蓝庙一日游",
   "metaTitle": "清莱红庙、白庙及蓝庙一日游",
@@ -17176,6 +17451,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "个人消费、小费、长颈族村门票费（若未选择相应选项）"
+  ]
+ },
+ "chiang-mai-elephant-jungle-sanctuary-and-mama-noi-cooking-class-by-local-operator": {
+  "title": "清迈丛林象保护区及Mama Noi烹饪课程（当地运营商提供）",
+  "metaTitle": "清迈丛林象保护区及Mama Noi烹饪课程（当地运营商提供）",
+  "shortDescription": "10小时的Chiang Mai游览，含丛林象保护区、餐饮（午餐、零食、饮用水）及丛林象保护区提供的英语导游。运营商：Elephant Jungle Sanctuary Chiang Mai，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场10小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\n价格包含丛林象保护区、餐饮（午餐、零食、饮用水）及丛林象保护区提供的英语导游。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。Elephant Jungle Sanctuary Chiang Mai将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "丛林象保护区",
+   "餐饮（午餐、零食、饮用水）",
+   "丛林象保护区提供的英语导游"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
   ]
  },
  "atv-and-whitewater-rafting-adventure-in-chiang-mai": {
@@ -17223,6 +17513,63 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "毛巾",
    "个人花费",
+   "小费"
+  ]
+ },
+ "chiang-mai-thai-costume-and-temple-experience-by-local-operator": {
+  "title": "清迈泰服租赁及寺庙体验（当地运营商提供）",
+  "metaTitle": "清迈泰服租赁及寺庙体验（当地运营商提供）",
+  "shortDescription": "3小时的Chiang Mai游览，含英语导游、泰国传统服饰租赁及饮用水。运营商：CanalTour x ExploreSiam，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国大约有40,000座佛教寺庙，各处的礼仪规矩相同：遮住肩膀和膝盖，进入有佛像的建筑前要脱鞋，双脚不可指向佛像或僧侣，女性不可触碰僧侣或直接将物品递交给僧侣。清晨僧侣沿街托钵的布施仪式，是每日的积德活动，并非表演，建议随同懂得规矩的当地人一起参与。清迈和曼谷郊外的寺庙还提供从一天到一个月的禅修课程，以英语授课，费用以布施形式支付。\n\n价格包含英语导游、泰国传统服饰租赁及饮用水。不包含专业摄影师及专业化妆及发型造型，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nTha Phae Gate.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "英语导游",
+   "泰国传统服饰租赁",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "专业摄影师",
+   "专业化妆及发型造型"
+  ]
+ },
+ "choice-options-for-lover-trekking-experiences-in-chiang-mai": {
+  "title": "清迈情侣徒步体验多种选项",
+  "metaTitle": "清迈情侣徒步体验多种选项",
+  "shortDescription": "7小时的Chiang Mai游览，含Mae Malai Market and Chiang Dao。运营商：Eco Ventures Co., Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Chiang Mai体验，围绕Mae Malai Market and Chiang Dao展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国北部的户外活动大多以清迈为出发点：梅塘河（Mae Taeng）的白水漂流，7月到10月雨季时难度为二到四级，其余时间则较为平缓；清迈北部雨林中的滑索项目，部分线路设有30多个平台；湄林（Mae Rim）山区的ATV越野车路线；以及徒步前往克伦族和拉祜族村落的行程，从一天到三夜不等。普吉岛和甲米也有各自的ATV和滑索公园，但真正的雨林体验还是在北部。\n\n价格包含清迈酒店接送及按所选项目提供当地卡车、面包车或4x4帕杰罗越野车接送。不包含个人花费、小费及村庄或市场的可选购买项目，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "清迈酒店接送",
+   "按所选项目提供当地卡车、面包车或4x4帕杰罗越野车接送"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费",
+   "村庄或市场的可选购买项目"
+  ]
+ },
+ "chiang-mai-khantoke-dinner-and-cultural-show-with-transfer-by-local-operator": {
+  "title": "清迈康托克晚餐及文化表演含接送（当地运营商提供）",
+  "metaTitle": "清迈康托克晚餐及文化表演含接送（当地运营商提供）",
+  "shortDescription": "4小时的Chiang Mai游览，含泰国北部传统康托克晚餐、现场文化表演（泰式舞蹈及山地部落表演）及清迈市区内酒店往返接送。运营商：STANDARD TOUR CO LTD，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含泰国北部传统康托克晚餐、现场文化表演（泰式舞蹈及山地部落表演）及清迈市区内酒店往返接送。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。STANDARD TOUR CO LTD将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "泰国北部传统康托克晚餐",
+   "现场文化表演（泰式舞蹈及山地部落表演）",
+   "清迈市区内酒店往返接送"
+  ],
+  "notIncluded": []
+ },
+ "thai-cooking-class-in-organic-garden-and-visit-local-market-in-chiang-mai": {
+  "title": "清迈有机花园泰式烹饪课程及参观当地市场",
+  "metaTitle": "清迈有机花园泰式烹饪课程及参观当地市场",
+  "shortDescription": "Chiang Mai游览，含酒店接送、参观当地市场及实操烹饪课程。运营商：LOCAL CNX. TOURS 99 CO., LTD.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\n价格包含酒店接送、参观当地市场及实操烹饪课程。不包含其他费用及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。LOCAL CNX. TOURS 99 CO., LTD.将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "参观当地市场",
+   "实操烹饪课程"
+  ],
+  "notIncluded": [
+   "其他费用",
    "小费"
   ]
  },
@@ -17286,6 +17633,20 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "thapae-boxing-stadium-muay-thai-match-ticket-in-chiang-mai": {
+  "title": "清迈塔佩拳馆泰拳比赛门票",
+  "metaTitle": "清迈塔佩拳馆泰拳比赛门票",
+  "shortDescription": "3小时的Chiang Mai游览，含免排队优惠门票、标准场边座位或VIP座位（视所选项目而定）及赛后拍照机会。运营商：Oh-Hoo，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含免排队优惠门票、标准场边座位或VIP座位（视所选项目而定）及赛后拍照机会。不包含酒店接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "免排队优惠门票",
+   "标准场边座位或VIP座位（视所选项目而定）",
+   "赛后拍照机会"
+  ],
+  "notIncluded": [
+   "酒店接送"
+  ]
+ },
  "walking-food-tour-in-chiang-mai": {
   "title": "清迈步行美食之旅",
   "metaTitle": "清迈步行美食之旅",
@@ -17299,6 +17660,19 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "酒店接送",
    "小费"
+  ]
+ },
+ "khum-khantoke-northern-thai-cuisine-and-show-in-chiang-mai": {
+  "title": "清迈Khum Khantoke泰北美食及表演",
+  "metaTitle": "清迈Khum Khantoke泰北美食及表演",
+  "shortDescription": "Chiang Mai游览，含含饮用水壶。运营商：ISE，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含含饮用水壶。不包含请注意，个人消费及行程未包含的任何额外服务费用由客人自行承担，并须现场支付及如您对服务满意，小费可自愿支付，完全由您自行决定，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "含饮用水壶"
+  ],
+  "notIncluded": [
+   "请注意，个人消费及行程未包含的任何额外服务费用由客人自行承担，并须现场支付",
+   "如您对服务满意，小费可自愿支付，完全由您自行决定"
   ]
  },
  "elephant-sanctuary-and-jungle-trek-w-waterfall-in-chiang-mai": {
@@ -17450,6 +17824,34 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "chat-with-a-monk-at-wat-chedi-luang-in-chiang-mai": {
+  "title": "清迈契迪隆寺与僧侣交流",
+  "metaTitle": "清迈契迪隆寺与僧侣交流",
+  "shortDescription": "2小时的Chiang Mai游览，含与佛教僧侣交流、传统佛教祈福仪式及英语导游。运营商：CanalTour x ExploreSiam，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含与佛教僧侣交流、传统佛教祈福仪式及英语导游。不包含门票每人50泰铢，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "与佛教僧侣交流",
+   "传统佛教祈福仪式",
+   "英语导游"
+  ],
+  "notIncluded": [
+   "门票每人50泰铢"
+  ]
+ },
+ "7-hour-doi-suthep-national-park-summit-hiking": {
+  "title": "7小时素贴山国家公园登顶徒步",
+  "metaTitle": "7小时素贴山国家公园登顶徒步",
+  "shortDescription": "7小时的Chiang Mai游览，含Jeep / SUV及Chiang Mai Mountain Biking & Kayaks and Wat Pha Lat Hike (Monk's trail)。运营商：CHIANG MAI MOUNTAIN BIKING & KAYAKS，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Chiang Mai体验，围绕Jeep / SUV及Chiang Mai Mountain Biking & Kayaks and Wat Pha Lat Hike (Monk's trail)展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国的象旅游业正在不均衡地从骑乘和表演转向保护区模式，游客在那里喂食、陪伴行走并为被救助的象洗澡，而不骑乘它们，这种差异体现在象的身体状况上，也体现在经营者是否允许骑乘、使用象钩或锁链。清迈和普吉岛管理最好的营地会限制团队规模和接触时间，值得预订的营地会明确说明自己不允许的做法。考艾（Khao Yai）是泰国第一座国家公园，位于曼谷东北方向三小时车程处，在那里可以在黄昏时从吉普车上观察野生象群，还有长臂猿、犀鸟，偶尔也能见到公园内为数不多的熊。\n\n价格包含清迈专业山地向导全程陪同、急救保障：教练均持有急救及心肺复苏认证，确保活动安全及午餐（提供素食及纯素选项）。不包含素贴山国家公园门票及保险250泰铢（办理入住时请提供护照信息），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "清迈专业山地向导全程陪同",
+   "急救保障：教练均持有急救及心肺复苏认证，确保活动安全",
+   "午餐（提供素食及纯素选项）"
+  ],
+  "notIncluded": [
+   "素贴山国家公园门票及保险250泰铢（办理入住时请提供护照信息）"
+  ]
+ },
  "chiang-rai-highlights-temples-and-long-neck-village-chiang-mai": {
   "title": "清莱亮点：寺庙及长颈族村（清迈）",
   "metaTitle": "清莱亮点：寺庙及长颈族村（清迈）",
@@ -17463,6 +17865,22 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐食",
    "白龙寺门票费：每人200.00泰铢"
+  ]
+ },
+ "horse-riding-lesson-and-wooden-temple-tour-in-chiang-mai": {
+  "title": "清迈骑马课程及木寺之旅",
+  "metaTitle": "清迈骑马课程及木寺之旅",
+  "shortDescription": "3.5小时的Chiang Mai游览，含酒店接送、参观东坎寺、骑马培训及1小时骑马探险。运营商：Methavee Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3.5小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国大约有40,000座佛教寺庙，各处的礼仪规矩相同：遮住肩膀和膝盖，进入有佛像的建筑前要脱鞋，双脚不可指向佛像或僧侣，女性不可触碰僧侣或直接将物品递交给僧侣。清晨僧侣沿街托钵的布施仪式，是每日的积德活动，并非表演，建议随同懂得规矩的当地人一起参与。清迈和曼谷郊外的寺庙还提供从一天到一个月的禅修课程，以英语授课，费用以布施形式支付。\n\n价格包含酒店接送、参观东坎寺、骑马培训及1小时骑马探险。不包含午餐及客人个人消费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。Methavee Travel将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "参观东坎寺",
+   "骑马培训",
+   "1小时骑马探险"
+  ],
+  "notIncluded": [
+   "午餐",
+   "客人个人消费"
   ]
  },
  "chiang-mai-2-hr-canal-tour-local-life-and-thai-herb-garden-by-local-operator": {
@@ -17489,6 +17907,20 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "mae-kampong-village-trek-and-local-food-experience-in-chiang-mai": {
+  "title": "清迈湄干蓬村徒步及当地美食体验",
+  "metaTitle": "清迈湄干蓬村徒步及当地美食体验",
+  "shortDescription": "Chiang Mai游览，含酒店接送、私人空调车辆、参观帕萨茶园、参观湄干蓬村及参观湄干蓬瀑布。运营商：Mae chaem Tour and Service，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、私人空调车辆、参观帕萨茶园、参观湄干蓬村及参观湄干蓬瀑布。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。Mae chaem Tour and Service将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "私人空调车辆",
+   "参观帕萨茶园",
+   "参观湄干蓬村",
+   "参观湄干蓬瀑布"
+  ],
+  "notIncluded": []
+ },
  "doi-suthep-and-wat-umong-or-wat-pha-lat-night-tour": {
   "title": "素贴山与乌蒙寺或帕腊寺夜间之旅",
   "metaTitle": "素贴山与乌蒙寺或帕腊寺夜间之旅",
@@ -17501,6 +17933,23 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票费用"
   ],
   "notIncluded": []
+ },
+ "living-green-elephant-sanctuary-tour-in-chiang-mai": {
+  "title": "清迈绿色生态象保护区之旅",
+  "metaTitle": "清迈绿色生态象保护区之旅",
+  "shortDescription": "7小时的Chiang Mai游览，含View point and Living Green Elephant Sanctuary。运营商：Living Green Elephant Sanctuary Chiang Mai and Chonburi，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Chiang Mai体验，围绕View point and Living Green Elephant Sanctuary展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、游览期间的传统北部服装、与大象互动、喂食及为象洗澡及享用美味当地餐食。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "游览期间的传统北部服装",
+   "与大象互动",
+   "喂食及为象洗澡",
+   "享用美味当地餐食"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
+  ]
  },
  "doi-inthanon-tour-and-pha-dok-siew-trail-trek": {
   "title": "因他暖之旅及帕多西乌步道徒步",
@@ -17517,6 +17966,37 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "2-days-jungle-adventure-and-local-homestay-in-chiang-mai": {
+  "title": "清迈2天丛林探险及当地民宿体验",
+  "metaTitle": "清迈2天丛林探险及当地民宿体验",
+  "shortDescription": "2天的Chiang Mai游览，含Mae Wang District。运营商：Temple of Elephants，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2天的Chiang Mai体验，围绕Mae Wang District展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含传统本地导游及泰式餐食（2顿午餐、1顿早餐、1顿晚餐）。不包含个人花费及淋浴用毛巾，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "传统本地导游",
+   "泰式餐食（2顿午餐、1顿早餐、1顿晚餐）"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "淋浴用毛巾"
+  ]
+ },
+ "doi-suthep-wat-umong-and-pha-lat-sunrise-tour": {
+  "title": "素贴山、乌蒙寺及帕拉特日出之旅",
+  "metaTitle": "素贴山、乌蒙寺及帕拉特日出之旅",
+  "shortDescription": "4小时的Chiang Mai游览，含Wat Phra That Doi Suthep及Kruba Srivichai Monument and Wat Pha Lat。运营商：TripGuru Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Chiang Mai体验，围绕Wat Phra That Doi Suthep及Kruba Srivichai Monument and Wat Pha Lat展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、空调车辆交通、导游、门票费用及一瓶玻璃瓶装饮用水。不包含寺庙供奉（可选）及餐食及其他饮品，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。TripGuru Thailand将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "空调车辆交通",
+   "导游",
+   "门票费用",
+   "一瓶玻璃瓶装饮用水"
+  ],
+  "notIncluded": [
+   "寺庙供奉（可选）",
+   "餐食及其他饮品"
+  ]
+ },
  "half-day-afternoon-doi-suthep-wat-pha-lat-and-baan-kang-wat-chiang-mai": {
   "title": "半日下午游：素贴山、帕辣寺及班康瓦（清迈）",
   "metaTitle": "半日下午游：素贴山、帕辣寺及班康瓦（清迈）",
@@ -17528,6 +18008,69 @@ export const ZH_TOURS: Record<string, TourT> = {
    "所列全部景点门票费"
   ],
   "notIncluded": []
+ },
+ "doi-inthanon-day-trip-with-nature-walk": {
+  "title": "因他暖山一日游含自然徒步",
+  "metaTitle": "因他暖山一日游含自然徒步",
+  "shortDescription": "10小时的Chiang Mai游览，含清迈市区内酒店接送、英语导游及每人一瓶饮用水。运营商：CanalTour x ExploreSiam，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场10小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n因他暖山是泰国最高的山峰，海拔2,565米，位于清迈西南方向90公里处，山中的国家公园内有云雾森林、为国王与王后六十岁寿辰建造的双子皇家佛塔、Vachiratharn瀑布和Wachirathan瀑布，以及山坡上种植咖啡的克伦族和苗族村落。山顶气温常在10度左右，因此即使是在4月也需要带外套。山顶苔藓森林中的Ang Ka自然步道全程二十分钟，是泰北最佳的短途徒步路线。行程从清迈出发，时间为8:00至17:00。\n\n价格包含清迈市区内酒店接送、英语导游及每人一瓶饮用水。不包含餐食、因他暖山国家公园门票每人300.00泰铢及双塔门票每人100.00泰铢，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nTha Phae Gate Lodge.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "清迈市区内酒店接送",
+   "英语导游",
+   "每人一瓶饮用水"
+  ],
+  "notIncluded": [
+   "餐食",
+   "因他暖山国家公园门票每人300.00泰铢",
+   "双塔门票每人100.00泰铢"
+  ]
+ },
+ "doi-suthep-hmong-village-and-monthathan-waterfall": {
+  "title": "素贴山、苗族村庄及蒙塔坦瀑布",
+  "metaTitle": "素贴山、苗族村庄及蒙塔坦瀑布",
+  "shortDescription": "8小时的Chiang Mai游览，含参观苗族山地部落村庄、游览素贴山双龙寺、参观蒙塔坦瀑布、现场导游及往返出发点的接送。运营商：SNP Chiangmai Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含参观苗族山地部落村庄、游览素贴山双龙寺、参观蒙塔坦瀑布、现场导游及往返出发点的接送。不包含餐食，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "参观苗族山地部落村庄",
+   "游览素贴山双龙寺",
+   "参观蒙塔坦瀑布",
+   "现场导游",
+   "往返出发点的接送"
+  ],
+  "notIncluded": [
+   "餐食"
+  ]
+ },
+ "pha-dok-siew-nature-trail-and-doi-inthanon-trip": {
+  "title": "帕多秀自然步道及因他暖山之旅",
+  "metaTitle": "帕多秀自然步道及因他暖山之旅",
+  "shortDescription": "10小时的Chiang Mai游览，含从清迈古城及宁曼路区域出发的空调汽车或面包车往返接送、午餐套餐及饮用水及导游。运营商：Oh-Hoo，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场10小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含从清迈古城及宁曼路区域出发的空调汽车或面包车往返接送、午餐套餐及饮用水及导游。不包含国家公园费用（成人300泰铢，儿童150泰铢）及国王王后双塔门票成人100泰铢、儿童50泰铢，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "从清迈古城及宁曼路区域出发的空调汽车或面包车往返接送",
+   "午餐套餐及饮用水",
+   "导游"
+  ],
+  "notIncluded": [
+   "国家公园费用（成人300泰铢，儿童150泰铢）",
+   "国王王后双塔门票成人100泰铢、儿童50泰铢"
+  ]
+ },
+ "off-road-atv-thrills-then-mae-wang-waterfall-in-chiang-mai": {
+  "title": "清迈越野ATV刺激体验及湄旺瀑布",
+  "metaTitle": "清迈越野ATV刺激体验及湄旺瀑布",
+  "shortDescription": "4小时的Chiang Mai游览，含MAE WANG ZIPLINE ADVENTURE แม่วางซิปไลน์แอดเวนเจอร์。运营商：MAEWANG ZIPLINE ADVENTURE TOUR，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Chiang Mai体验，围绕MAE WANG ZIPLINE ADVENTURE แม่วางซิปไลน์แอดเวนเจอร์展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、ATV装备及安全防护装备、专业本地导游、咖啡及饮用水及意外保险。不包含个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nMueang Chiang Mai District.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "ATV装备及安全防护装备",
+   "专业本地导游",
+   "咖啡及饮用水",
+   "意外保险"
+  ],
+  "notIncluded": [
+   "个人花费"
+  ]
  },
  "amazing-night-tour-doisuthep-and-phalad-temple-in-chiang-mai": {
   "title": "清迈素贴山及帕辣寺精彩夜游",
@@ -17579,6 +18122,111 @@ export const ZH_TOURS: Record<string, TourT> = {
    "马车骑乘，每车500泰铢，可乘2位游客"
   ]
  },
+ "15-km-leisure-river-kayaking-at-mae-ngat-forest-in-chiang-mai": {
+  "title": "清迈湄纳森林15公里休闲河流皮划艇",
+  "metaTitle": "清迈湄纳森林15公里休闲河流皮划艇",
+  "shortDescription": "为期一整天的Chiang Mai游览，含Jeep / SUV及Chiang Mai Mountain Biking & Kayaks and Chur Lare Bridge。运营商：CHIANG MAI MOUNTAIN BIKING & KAYAKS，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场为期一整天的Chiang Mai体验，围绕Jeep / SUV及Chiang Mai Mountain Biking & Kayaks and Chur Lare Bridge展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含由清迈专业皮划艇向导全程陪同、急救保障：教练均持有急救及心肺复苏认证，确保活动安全及我们提供优质硬壳单人及双人皮划艇，带来更出色的体验。不包含河道费及保险150泰铢（办理入住时请备好护照信息），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "由清迈专业皮划艇向导全程陪同",
+   "急救保障：教练均持有急救及心肺复苏认证，确保活动安全",
+   "我们提供优质硬壳单人及双人皮划艇，带来更出色的体验"
+  ],
+  "notIncluded": [
+   "河道费及保险150泰铢（办理入住时请备好护照信息）"
+  ]
+ },
+ "chiang-mai-atv-and-white-water-rafting-and-trekking-to-waterfall-by-local-operator": {
+  "title": "清迈ATV、激流漂流及徒步前往瀑布（当地运营商提供）",
+  "metaTitle": "清迈ATV、激流漂流及徒步前往瀑布（当地运营商提供）",
+  "shortDescription": "8小时的Chiang Mai游览，含符合泰国法律规定的保险保障、泰式午餐及面包车陆路往返接送。运营商：LOCAL CNX. TOURS 99 CO., LTD.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国北部的户外活动大多以清迈为出发点：梅塘河（Mae Taeng）的白水漂流，7月到10月雨季时难度为二到四级，其余时间则较为平缓；清迈北部雨林中的滑索项目，部分线路设有30多个平台；湄林（Mae Rim）山区的ATV越野车路线；以及徒步前往克伦族和拉祜族村落的行程，从一天到三夜不等。普吉岛和甲米也有各自的ATV和滑索公园，但真正的雨林体验还是在北部。\n\n价格包含符合泰国法律规定的保险保障、泰式午餐及面包车陆路往返接送。不包含其他费用及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "符合泰国法律规定的保险保障",
+   "泰式午餐",
+   "面包车陆路往返接送"
+  ],
+  "notIncluded": [
+   "其他费用",
+   "小费"
+  ]
+ },
+ "doi-inthanon-park-tour-and-kew-mae-pan-trail-hike": {
+  "title": "因他暖山公园之旅及九美潘步道徒步",
+  "metaTitle": "因他暖山公园之旅及九美潘步道徒步",
+  "shortDescription": "为期一整天的Chiang Mai游览，含从清迈古城及宁曼路区域出发的空调汽车或面包车往返接送、午餐套餐及饮用水。运营商：LOCAL CNX. TOURS 99 CO., LTD.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场为期一整天的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n因他暖山是泰国最高的山峰，海拔2,565米，位于清迈西南方向90公里处，山中的国家公园内有云雾森林、为国王与王后六十岁寿辰建造的双子皇家佛塔、Vachiratharn瀑布和Wachirathan瀑布，以及山坡上种植咖啡的克伦族和苗族村落。山顶气温常在10度左右，因此即使是在4月也需要带外套。山顶苔藓森林中的Ang Ka自然步道全程二十分钟，是泰北最佳的短途徒步路线。行程从清迈出发，时间为8:00至17:00。\n\n价格包含从清迈古城及宁曼路区域出发的空调汽车或面包车往返接送、午餐套餐及饮用水。不包含其他费用及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "从清迈古城及宁曼路区域出发的空调汽车或面包车往返接送",
+   "午餐套餐",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "其他费用",
+   "小费"
+  ]
+ },
+ "two-day-secret-adventure-in-chiang-mai-local-jungle-route-by-local-operator": {
+  "title": "清迈2天神秘探险：当地丛林路线（当地运营商提供）",
+  "metaTitle": "清迈2天神秘探险：当地丛林路线（当地运营商提供）",
+  "shortDescription": "2天的Chiang Mai游览，含Hidden gem。运营商：Temple of Elephants，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2天的Chiang Mai体验，围绕Hidden gem展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含传统本地导游及泰式餐食（2顿午餐、1顿晚餐及1顿早餐）。不包含个人花费及淋浴用毛巾，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "传统本地导游",
+   "泰式餐食（2顿午餐、1顿晚餐及1顿早餐）"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "淋浴用毛巾"
+  ]
+ },
+ "chiang-mai-3-hour-atv-and-white-water-rafting-adventure-by-local-operator": {
+  "title": "清迈3小时ATV及激流漂流探险（当地运营商提供）",
+  "metaTitle": "清迈3小时ATV及激流漂流探险（当地运营商提供）",
+  "shortDescription": "10小时的Chiang Mai游览，含Mae Taeng River and Mae Taeng District。运营商：8Adventures，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场10小时的Chiang Mai体验，围绕Mae Taeng River and Mae Taeng District展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国北部的户外活动大多以清迈为出发点：梅塘河（Mae Taeng）的白水漂流，7月到10月雨季时难度为二到四级，其余时间则较为平缓；清迈北部雨林中的滑索项目，部分线路设有30多个平台；湄林（Mae Rim）山区的ATV越野车路线；以及徒步前往克伦族和拉祜族村落的行程，从一天到三夜不等。普吉岛和甲米也有各自的ATV和滑索公园，但真正的雨林体验还是在北部。\n\n价格包含UL海岸警卫队认证救生衣、CE EN认证头盔及持有心肺复苏及急救认证的导游及工作人员。不包含个人花费及小费（自愿），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "UL海岸警卫队认证救生衣",
+   "CE EN认证头盔",
+   "持有心肺复苏及急救认证的导游及工作人员"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费（自愿）"
+  ]
+ },
+ "red-blue-white-temples-and-hot-spring-trip-from-chiang-mai-by-local-operator": {
+  "title": "从清迈出发：红寺、蓝寺、白寺及温泉之旅（当地运营商提供）",
+  "metaTitle": "从清迈出发：红寺、蓝寺、白寺及温泉之旅（当地运营商提供）",
+  "shortDescription": "10小时的Chiang Mai游览，含Mae Kachan Hot Spring及Wat Rong Khun and Wat Rong Suea Ten。运营商：SIAM SCAPE JOURNEYS CO.,LTD.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场10小时的Chiang Mai体验，围绕Mae Kachan Hot Spring及Wat Rong Khun and Wat Rong Suea Ten展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n清莱位于清迈东北方向三小时车程处，是前往白庙（Wat Rong Khun）一日游的目的地，这座白色镶镜的奇幻建筑由艺术家Chalermchai Kositpipat于1997年动工，至今仍在修建中，桥上布满无数伸出的手，内部还有流行文化题材的恶魔壁画。蓝庙和黑屋，已故艺术家Thawan Duchanee用动物皮革与深色柚木打造的建筑群，与之共同构成三大景点。金三角，泰国、老挝与缅甸在湄公河交汇之处，再往北一小时车程，那里有观景台、鸦片博物馆，还可乘船前往老挝的一座市场岛。从清迈出发，这是一整天12小时的行程。\n\n价格包含清迈古城酒店接送、午餐及饮用水。不包含前往长颈族村庄需额外支付每人300泰铢、小费及个人消费及每人门票费280泰铢，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "清迈古城酒店接送",
+   "午餐",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "前往长颈族村庄需额外支付每人300泰铢",
+   "小费及个人消费",
+   "每人门票费280泰铢"
+  ]
+ },
+ "dantewada-sticky-waterfall-and-thai-massage-tour-in-chiang-mai": {
+  "title": "清迈但特瓦达、粘滑瀑布及泰式按摩之旅",
+  "metaTitle": "清迈但特瓦达、粘滑瀑布及泰式按摩之旅",
+  "shortDescription": "7小时的Chiang Mai游览，含参观但特瓦达、参观粘滑瀑布、2小时传统泰式按摩及舒适的交通。运营商：SNP Chiangmai Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含参观但特瓦达、参观粘滑瀑布、2小时传统泰式按摩及舒适的交通。不包含餐食及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "参观但特瓦达",
+   "参观粘滑瀑布",
+   "2小时传统泰式按摩",
+   "舒适的交通"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人花费"
+  ]
+ },
  "1-day-eco-trek-with-bamboo-rafting-in-chiang-mai": {
   "title": "清迈一日生态徒步含竹筏漂流",
   "metaTitle": "清迈一日生态徒步含竹筏漂流",
@@ -17595,6 +18243,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "当地市场小吃和饮料"
   ]
  },
+ "historic-old-city-bike-tour-morning-or-night-in-chiang-mai": {
+  "title": "清迈历史老城自行车之旅（早晨或夜间）",
+  "metaTitle": "清迈历史老城自行车之旅（早晨或夜间）",
+  "shortDescription": "4小时的Chiang Mai游览，含Tha Phae Gate及Wat Chedi Luang and Wat Inthakhin Sadue Muang。运营商：Discova Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Chiang Mai体验，围绕Tha Phae Gate及Wat Chedi Luang and Wat Inthakhin Sadue Muang展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含沿途讲解精彩故事、当地见闻及文化介绍、优质山地自行车及安全头盔及友善的英语导游。不包含酒店接送及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nDiscova Day Tour Shop Chiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "沿途讲解精彩故事、当地见闻及文化介绍",
+   "优质山地自行车及安全头盔",
+   "友善的英语导游"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "个人花费"
+  ]
+ },
  "local-food-and-markets-guided-walking-tour-in-chiang-mai": {
   "title": "清迈当地美食及市场步行导览之旅",
   "metaTitle": "清迈当地美食及市场步行导览之旅",
@@ -17608,6 +18271,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "酒店接送",
    "个人花费"
+  ]
+ },
+ "night-tuk-tuk-tour-with-local-guide-in-chiang-mai": {
+  "title": "清迈夜间嘟嘟车之旅含当地导游",
+  "metaTitle": "清迈夜间嘟嘟车之旅含当地导游",
+  "shortDescription": "4小时的Chiang Mai游览，含Wat Phra Singh and Night Bazaar Chiang Mai。运营商：CanalTour x ExploreSiam，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Chiang Mai体验，围绕Wat Phra Singh and Night Bazaar Chiang Mai展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含传统嘟嘟车体验、英语导游及街头小吃餐。不包含帕辛寺门票及契迪隆寺门票，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "传统嘟嘟车体验",
+   "英语导游",
+   "街头小吃餐"
+  ],
+  "notIncluded": [
+   "帕辛寺门票",
+   "契迪隆寺门票"
   ]
  },
  "zipline-experience-in-chiang-mai-by-local-operator": {
@@ -17664,6 +18342,20 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "kayak-the-jungle-river-of-chiang-dao-valley-in-chiang-mai": {
+  "title": "清迈清道山谷丛林河流皮划艇之旅",
+  "metaTitle": "清迈清道山谷丛林河流皮划艇之旅",
+  "shortDescription": "为期一整天的Chiang Mai游览，含Jeep / SUV及Chiang Mai Mountain Biking & Kayaks and Chiang Dao。运营商：CHIANG MAI MOUNTAIN BIKING & KAYAKS，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场为期一整天的Chiang Mai体验，围绕Jeep / SUV及Chiang Mai Mountain Biking & Kayaks and Chiang Dao展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含由清迈专业皮划艇向导全程陪同、急救保障：教练均持有急救及心肺复苏认证，确保活动安全及我们提供优质硬壳单人及双人皮划艇，带来更出色的体验。不包含保险及河道费150泰铢（办理入住时请提供护照号码），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Chiang Dao and Chiang Mai提供接送服务；具体地点和时间将在预订确认后与CHIANG MAI MOUNTAIN BIKING & KAYAKS协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "由清迈专业皮划艇向导全程陪同",
+   "急救保障：教练均持有急救及心肺复苏认证，确保活动安全",
+   "我们提供优质硬壳单人及双人皮划艇，带来更出色的体验"
+  ],
+  "notIncluded": [
+   "保险及河道费150泰铢（办理入住时请提供护照号码）"
+  ]
+ },
  "lalita-cafe-and-chiang-rai-temple-white-blue-from-chiangmai-chiang-mai": {
   "title": "清迈出发：Lalita咖啡馆与清莱寺庙（白庙+蓝庙）之旅",
   "metaTitle": "清迈出发：Lalita咖啡馆与清莱寺庙（白庙+蓝庙）之旅",
@@ -17691,6 +18383,35 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "个人花费",
    "小费"
+  ]
+ },
+ "full-day-yoga-and-meditation-experience-with-lunch-in-chiang-mai": {
+  "title": "清迈全天瑜伽及冥想体验含午餐",
+  "metaTitle": "清迈全天瑜伽及冥想体验含午餐",
+  "shortDescription": "8小时的Chiang Mai游览，含体验泰国文化、探索稻田及学习冥想、瑜伽，沉浸式体验泰国文化。运营商：Flow Yoga Chiang Mai，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国大约有40,000座佛教寺庙，各处的礼仪规矩相同：遮住肩膀和膝盖，进入有佛像的建筑前要脱鞋，双脚不可指向佛像或僧侣，女性不可触碰僧侣或直接将物品递交给僧侣。清晨僧侣沿街托钵的布施仪式，是每日的积德活动，并非表演，建议随同懂得规矩的当地人一起参与。清迈和曼谷郊外的寺庙还提供从一天到一个月的禅修课程，以英语授课，费用以布施形式支付。\n\n价格包含体验泰国文化、探索稻田及学习冥想、瑜伽，沉浸式体验泰国文化。不包含酒店接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "体验泰国文化",
+   "探索稻田",
+   "学习冥想、瑜伽，沉浸式体验泰国文化"
+  ],
+  "notIncluded": [
+   "酒店接送"
+  ]
+ },
+ "tuk-tuk-evening-tour-with-temples-and-street-foods-in-chiang-mai": {
+  "title": "清迈嘟嘟车夜间之旅含寺庙及街头小吃",
+  "metaTitle": "清迈嘟嘟车夜间之旅含寺庙及街头小吃",
+  "shortDescription": "4小时的Chiang Mai游览，含Tuk tuk及Wat Suan Dok and Wat Lok Moli。运营商：TripGuru Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Chiang Mai体验，围绕Tuk tuk及Wat Suan Dok and Wat Lok Moli展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n曼谷唐人街沿耀华力路（Yaowarat Road）延伸，该路建于1891年，白天两侧是金饰店，夜晚则变成小吃摊，人行道上摆满炭烤炉和面条车，著名摊位前排起长队：Phadungdao的烤海鲜、带胡椒味的卷粉guay jub、烤栗子，还有想尝鲜的人可以选择的燕窝和鱼翅。这是亚洲最密集的街头美食区，大约18:00开始热闹起来。曼谷米其林指南自2018年起开始评选街头摊位；在那里吃过的向导知道哪些队排得值得。\n\n价格包含指定地点酒店接送、导游及私人嘟嘟车接送。不包含街头小吃及额外饮品，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "指定地点酒店接送",
+   "导游",
+   "私人嘟嘟车接送"
+  ],
+  "notIncluded": [
+   "街头小吃",
+   "额外饮品"
   ]
  },
  "white-blue-red-3-temples-tour-in-chiang-mai": {
@@ -17721,6 +18442,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "素帕寺门票费：每人50.00泰铢"
   ]
  },
+ "3-hour-doi-suthep-temple-tour-with-red-car-ride": {
+  "title": "3小时双龙寺游览含红车接送",
+  "metaTitle": "3小时双龙寺游览含红车接送",
+  "shortDescription": "3小时的Chiang Mai游览，含仅在我们服务区域内提供酒店接送、英语导游及双排车（后座带长椅的皮卡车）接送。运营商：CanalTour x ExploreSiam，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n双龙寺（Wat Phra That Doi Suthep）坐落在清迈上方的山上，建于1383年，用以供奉据说是佛陀肩骨的圣物，这块圣物由一头自行选定地点的白象驮上山来。306级那伽石阶通向一座露台，镀金的佛塔周围环绕着铜铃，整座城市就在1,000米之下；需要的游客也可以乘坐缆车上山。僧侣在6:00和18:00诵经，清晨城里的双条车（songthaews）尚未抵达之前，是最安静的时段。门票为30泰铢，着装需遮住肩膀和膝盖。\n\n价格包含仅在我们服务区域内提供酒店接送、英语导游及双排车（后座带长椅的皮卡车）接送。不包含双龙寺门票每人30.00泰铢及餐食，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nTha Phae Gate.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "仅在我们服务区域内提供酒店接送",
+   "英语导游",
+   "双排车（后座带长椅的皮卡车）接送"
+  ],
+  "notIncluded": [
+   "双龙寺门票每人30.00泰铢",
+   "餐食"
+  ]
+ },
  "jungle-jumbo-elephant-sanctuary-with-waterfall-in-chiang-mai": {
   "title": "清迈丛林巨象保护区及瀑布之旅",
   "metaTitle": "清迈丛林巨象保护区及瀑布之旅",
@@ -17733,6 +18469,20 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "pha-chor-canyon-and-handicrafts-tour-in-chiang-mai": {
+  "title": "清迈帕乔峡谷及手工艺之旅",
+  "metaTitle": "清迈帕乔峡谷及手工艺之旅",
+  "shortDescription": "5小时的Chiang Mai游览，含参观帕乔崖、穿行于高树与砂岩狭道间的风景徒步及俯瞰清迈山谷景色，包括南奔、三攀东及因他暖山。运营商：Methavee Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含参观帕乔崖、穿行于高树与砂岩狭道间的风景徒步及俯瞰清迈山谷景色，包括南奔、三攀东及因他暖山。不包含个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "参观帕乔崖",
+   "穿行于高树与砂岩狭道间的风景徒步",
+   "俯瞰清迈山谷景色，包括南奔、三攀东及因他暖山"
+  ],
+  "notIncluded": [
+   "个人花费"
+  ]
+ },
  "doi-suthep-and-wat-umong-twilight-tour-with-pickup": {
   "title": "素贴山及乌蒙寺黄昏之旅含接送",
   "metaTitle": "素贴山及乌蒙寺黄昏之旅含接送",
@@ -17742,6 +18492,67 @@ export const ZH_TOURS: Record<string, TourT> = {
    "清迈市区酒店接送",
    "门票费",
    "导游"
+  ],
+  "notIncluded": []
+ },
+ "doi-suthep-temple-and-hmong-village-tour": {
+  "title": "双龙寺及苗族村庄之旅",
+  "metaTitle": "双龙寺及苗族村庄之旅",
+  "shortDescription": "4小时的Chiang Mai游览，含Wat Phra That Doi Suthep and Hmong Village。运营商：Joinusthai，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Chiang Mai体验，围绕Wat Phra That Doi Suthep and Hmong Village展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n双龙寺（Wat Phra That Doi Suthep）坐落在清迈上方的山上，建于1383年，用以供奉据说是佛陀肩骨的圣物，这块圣物由一头自行选定地点的白象驮上山来。306级那伽石阶通向一座露台，镀金的佛塔周围环绕着铜铃，整座城市就在1,000米之下；需要的游客也可以乘坐缆车上山。僧侣在6:00和18:00诵经，清晨城里的双条车（songthaews）尚未抵达之前，是最安静的时段。门票为30泰铢，着装需遮住肩膀和膝盖。\n\n价格包含市区内酒店接送、双龙寺门票及缆车、持证英语导游及旅行意外保险。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。Joinusthai将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "市区内酒店接送",
+   "双龙寺门票及缆车",
+   "持证英语导游",
+   "旅行意外保险"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
+  ]
+ },
+ "thai-silk-weaving-workshop-with-lunch-in-chiang-mai": {
+  "title": "清迈泰丝编织工作坊含午餐",
+  "metaTitle": "清迈泰丝编织工作坊含午餐",
+  "shortDescription": "5小时的Chiang Mai游览，含酒店接送、午餐、丝线纺织演示、丝绸交叉编织演示及天然扎染演示。运营商：Methavee Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、午餐、丝线纺织演示、丝绸交叉编织演示及天然扎染演示。不包含个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。Methavee Travel将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "午餐",
+   "丝线纺织演示",
+   "丝绸交叉编织演示",
+   "天然扎染演示"
+  ],
+  "notIncluded": [
+   "个人花费"
+  ]
+ },
+ "sticky-waterfall-wat-ban-den-and-dantewada-tour-in-chiang-mai": {
+  "title": "清迈粘滑瀑布、班登寺及但特瓦达之旅",
+  "metaTitle": "清迈粘滑瀑布、班登寺及但特瓦达之旅",
+  "shortDescription": "9小时的Chiang Mai游览，含Dantewada Land及Local café and Local restaurant。运营商：TripGuru Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场9小时的Chiang Mai体验，围绕Dantewada Land及Local café and Local restaurant展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送（如选择此选项）、空调车接送及英语导游。不包含个人花费、午餐、额外的食物和饮品及Cafe Elephant的可选购买项目，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。TripGuru Thailand将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送（如选择此选项）",
+   "空调车接送",
+   "英语导游"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "午餐",
+   "额外的食物和饮品",
+   "Cafe Elephant的可选购买项目"
+  ]
+ },
+ "detox-tea-workshop-and-wellness-day-pass-in-chiang-mai": {
+  "title": "清迈排毒茶工作坊及养生日票",
+  "metaTitle": "清迈排毒茶工作坊及养生日票",
+  "shortDescription": "5小时的Chiang Mai游览，含自行调配排毒茶、传统陶罐冲泡及了解泰国本地草药及其功效。运营商：FERMENT SPACE COOKING CO., LTD.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰式按摩是一套在地板上进行的拉伸与沿身体经络施压的手法，穿着宽松衣物进行，不使用按摩油，其源头可追溯到随佛教传入的阿育吠陀传统；曼谷卧佛寺（Wat Pho）按摩学校自1955年起开始教授这门技艺，其学生如今遍布全国各地的按摩馆。一次正规的两小时按摩应该让你感到放松，而不是酸痛；如果想要力道轻一点，可以说“bao bao”。油压按摩、足底反射疗法，以及用蒸熏过的泰姜和柠檬草制成的草药热敷包，是其他常见的项目。价格从街边小店的几百泰铢到度假村水疗中心的数千泰铢不等，而街边小店往往手法更好。\n\n价格包含自行调配排毒茶、传统陶罐冲泡及了解泰国本地草药及其功效。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "自行调配排毒茶",
+   "传统陶罐冲泡",
+   "了解泰国本地草药及其功效"
   ],
   "notIncluded": []
  },
@@ -17774,6 +18585,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "食物"
   ]
  },
+ "sky-hawk-zipline-adventure-with-optional-atv-in-chiang-mai": {
+  "title": "清迈Sky Hawk高空滑索探险（可选ATV）",
+  "metaTitle": "清迈Sky Hawk高空滑索探险（可选ATV）",
+  "shortDescription": "3.5小时的Chiang Mai游览，含Sky Hawk Zipline Chiangmai and Sky Hawk Cafe Chiangmai。运营商：Sky Hawk Zipline，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3.5小时的Chiang Mai体验，围绕Sky Hawk Zipline Chiangmai and Sky Hawk Cafe Chiangmai展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含根据所选套餐参与活动（丛林飞索短程、丛林飞索全程或越野车探险）、可选套餐：短程越野车或全程越野车及返回最初接载地点或酒店的班车服务。不包含小费、个人花费及上述未提及的其他费用，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "根据所选套餐参与活动（丛林飞索短程、丛林飞索全程或越野车探险）",
+   "可选套餐：短程越野车或全程越野车",
+   "返回最初接载地点或酒店的班车服务"
+  ],
+  "notIncluded": [
+   "小费",
+   "个人花费",
+   "上述未提及的其他费用"
+  ]
+ },
  "bamboo-rafting-and-wat-phra-that-doi-kham-in-chiang-mai": {
   "title": "清迈竹筏漂流与Wat Phra That Doi Kham寺庙之旅",
   "metaTitle": "清迈竹筏漂流与Wat Phra That Doi Kham寺庙之旅",
@@ -17789,6 +18616,37 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食"
   ]
  },
+ "early-morning-doi-suthep-with-monk-chanting-and-alms-chiang-mai": {
+  "title": "清迈素贴山清晨之旅含僧侣诵经及布施",
+  "metaTitle": "清迈素贴山清晨之旅含僧侣诵经及布施",
+  "shortDescription": "4小时的Chiang Mai游览，含配空调车司机、持证导游、门票费用、瓶装水及僧侣供奉。运营商：บริษัท ทัวริสต์ อินฟอร์เมชั่น เซ็นเตอร์ จำกัด，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含配空调车司机、持证导游、门票费用、瓶装水及僧侣供奉。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "配空调车司机",
+   "持证导游",
+   "门票费用",
+   "瓶装水",
+   "僧侣供奉"
+  ],
+  "notIncluded": []
+ },
+ "chiang-mai-half-day-tour-to-sticky-waterfall-bua-tong-by-local-operator": {
+  "title": "清迈半日粘滑瀑布（布亚通）之旅（当地运营商提供）",
+  "metaTitle": "清迈半日粘滑瀑布（布亚通）之旅（当地运营商提供）",
+  "shortDescription": "4.5小时的Chiang Mai游览，含如选择该项目则提供空调车、英语司机及布亚通国家公园门票费。运营商：LOCAL CNX. TOURS 99 CO., LTD.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4.5小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n黏黏瀑布（Bua Tong）位于清迈以北一小时车程处，是一处石灰岩瀑布，其矿物沉积让岩石变得防滑而非光滑，因此游客可以赤脚直接踩着水流往上爬。这是泰国家庭常来的野餐地点，较陡的路段设有拉绳，顶部有一处泉水池塘，免费入场，工作日上午最为合适。回程途中的梅莎谷（Mae Sa）一带有兰花农场、植物园，以及规范不一的象营。\n\n价格包含如选择该项目则提供空调车、英语司机及布亚通国家公园门票费。不包含导游、个人花费、食物及饮料及儿童座椅，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "如选择该项目则提供空调车",
+   "英语司机",
+   "布亚通国家公园门票费"
+  ],
+  "notIncluded": [
+   "导游",
+   "个人花费",
+   "食物及饮料",
+   "儿童座椅"
+  ]
+ },
  "chiang-mai-yi-peng-sky-lantern-festival-ticket-by-local-operator": {
   "title": "清迈水灯节天灯门票（当地运营商）",
   "metaTitle": "清迈水灯节天灯门票（当地运营商）",
@@ -17800,6 +18658,23 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "个人花费"
+  ]
+ },
+ "small-group-sticky-falls-and-dantewada-adventure-in-chiang-mai": {
+  "title": "小团粘滑瀑布及但特瓦达探险之旅",
+  "metaTitle": "小团粘滑瀑布及但特瓦达探险之旅",
+  "shortDescription": "5小时的Chiang Mai游览，含Bua Thong Sticky Waterfalls and Mae Taeng District。运营商：KiKi CM Tour.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Chiang Mai体验，围绕Bua Thong Sticky Waterfalls and Mae Taeng District展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、全部门票、英语导游及配司机车辆、清凉饮用水及含旅行保险。不包含行程中的个人消费及食物，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "全部门票",
+   "英语导游及配司机车辆",
+   "清凉饮用水",
+   "含旅行保险"
+  ],
+  "notIncluded": [
+   "行程中的个人消费",
+   "食物"
   ]
  },
  "thai-buffalo-and-rice-planting-experience-in-chiang-mai": {
@@ -17814,6 +18689,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "接送服务"
+  ]
+ },
+ "dantewada-sticky-waterfalls-and-temple-tour-in-chiang-mai": {
+  "title": "清迈但特瓦达、粘滑瀑布及寺庙之旅",
+  "metaTitle": "清迈但特瓦达、粘滑瀑布及寺庙之旅",
+  "shortDescription": "8小时的Chiang Mai游览，含Dantewada Land and Mae Taeng District。运营商：Chiangmai Local Tour Guide，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Chiang Mai体验，围绕Dantewada Land and Mae Taeng District展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n黏黏瀑布（Bua Tong）位于清迈以北一小时车程处，是一处石灰岩瀑布，其矿物沉积让岩石变得防滑而非光滑，因此游客可以赤脚直接踩着水流往上爬。这是泰国家庭常来的野餐地点，较陡的路段设有拉绳，顶部有一处泉水池塘，免费入场，工作日上午最为合适。回程途中的梅莎谷（Mae Sa）一带有兰花农场、植物园，以及规范不一的象营。\n\n价格包含参观但特瓦达天使之地、参观班登寺及参观稻田。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nวัดอินทขีลสะดือเมือง.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "参观但特瓦达天使之地",
+   "参观班登寺",
+   "参观稻田"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
   ]
  },
  "kew-mae-pan-nature-trail-and-doi-inthanon-day-trip": {
@@ -17845,6 +18735,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "elephant-sanctuary-monk-trail-and-doi-suthep-tour": {
+  "title": "象保护区、僧侣步道及素贴山之旅",
+  "metaTitle": "象保护区、僧侣步道及素贴山之旅",
+  "shortDescription": "为期一整天的Chiang Mai游览，含Wat Pha Lat及Wat Phra That Doi Suthep and PON ELEPHANT THAILAND。运营商：PON ELEPHANT (THAILAND) CO., LTD.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场为期一整天的Chiang Mai体验，围绕Wat Pha Lat及Wat Phra That Doi Suthep and PON ELEPHANT THAILAND展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含仅限清迈市中心往返酒店接送、一级旅行意外保险、英语导游、饮用水及午餐及喂食大象的食物。不包含毛巾及更换衣物，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。PON ELEPHANT (THAILAND) CO., LTD.将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "仅限清迈市中心往返酒店接送",
+   "一级旅行意外保险",
+   "英语导游",
+   "饮用水及午餐",
+   "喂食大象的食物"
+  ],
+  "notIncluded": [
+   "毛巾及更换衣物"
+  ]
+ },
  "elephant-dream-project-sanctuary-half-day-in-chiang-mai": {
   "title": "清迈大象梦想保护区半天之旅",
   "metaTitle": "清迈大象梦想保护区半天之旅",
@@ -17861,6 +18767,18 @@ export const ZH_TOURS: Record<string, TourT> = {
    "软饮料"
   ]
  },
+ "chiang-mai-rafting-on-the-mae-taeng-river-with-thai-buffet-by-local-operator": {
+  "title": "清迈湄登河漂流含泰式自助餐（当地运营商提供）",
+  "metaTitle": "清迈湄登河漂流含泰式自助餐（当地运营商提供）",
+  "shortDescription": "8小时的Chiang Mai游览，含往返接送服务、国际标准安全装备及经验丰富的导游及船员。运营商：Oh-Hoo，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国北部的户外活动大多以清迈为出发点：梅塘河（Mae Taeng）的白水漂流，7月到10月雨季时难度为二到四级，其余时间则较为平缓；清迈北部雨林中的滑索项目，部分线路设有30多个平台；湄林（Mae Rim）山区的ATV越野车路线；以及徒步前往克伦族和拉祜族村落的行程，从一天到三夜不等。普吉岛和甲米也有各自的ATV和滑索公园，但真正的雨林体验还是在北部。\n\n价格包含往返接送服务、国际标准安全装备及经验丰富的导游及船员。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "往返接送服务",
+   "国际标准安全装备",
+   "经验丰富的导游及船员"
+  ],
+  "notIncluded": []
+ },
  "doi-suthep-temple-guided-tour": {
   "title": "素贴山寺导览之旅",
   "metaTitle": "素贴山寺导览之旅",
@@ -17873,6 +18791,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "个人花费及小费"
+  ]
+ },
+ "sticky-waterfall-and-river-tubing-day-trip-in-chiang-mai": {
+  "title": "清迈粘滑瀑布及河流轮胎漂流一日游",
+  "metaTitle": "清迈粘滑瀑布及河流轮胎漂流一日游",
+  "shortDescription": "11小时的Chiang Mai游览，含Bua Thong Sticky Waterfalls and Hidden gem。运营商：ECOQUEST TRAVEL CO., LTD.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场11小时的Chiang Mai体验，围绕Bua Thong Sticky Waterfalls and Hidden gem展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含交通、清迈指定区域酒店往返接送及英语本地导游。不包含个人消费及额外饮品及清迈指定服务区域外的酒店接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "交通",
+   "清迈指定区域酒店往返接送",
+   "英语本地导游"
+  ],
+  "notIncluded": [
+   "个人消费及额外饮品",
+   "清迈指定服务区域外的酒店接送"
   ]
  },
  "traditional-thai-costume-snap-photos-and-transfer-in-chiang-mai": {
@@ -17888,6 +18821,36 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "elephant-sanctuary-and-waterfall-group-tour-in-chiang-mai": {
+  "title": "清迈象保护区及瀑布团体之旅",
+  "metaTitle": "清迈象保护区及瀑布团体之旅",
+  "shortDescription": "7小时的Chiang Mai游览，含PON ELEPHANT THAILAND。运营商：PON ELEPHANT (THAILAND) CO., LTD.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Chiang Mai体验，围绕PON ELEPHANT THAILAND展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含仅限清迈市中心往返酒店接送、英语导游、饮用水及午餐及喂食大象的食物。不包含毛巾及更换衣物，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。PON ELEPHANT (THAILAND) CO., LTD.将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "仅限清迈市中心往返酒店接送",
+   "英语导游",
+   "饮用水及午餐",
+   "喂食大象的食物"
+  ],
+  "notIncluded": [
+   "毛巾及更换衣物"
+  ]
+ },
+ "doi-inthanon-park-and-pha-dok-siew-hike-day-trip": {
+  "title": "因他暖山公园及帕多秀徒步一日游",
+  "metaTitle": "因他暖山公园及帕多秀徒步一日游",
+  "shortDescription": "11小时的Chiang Mai游览，含Hmong Village及Local restaurant and Pha Dok Sieo Nature Trail。运营商：CHIANG MAI DAY TRIP，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场11小时的Chiang Mai体验，围绕Hmong Village及Local restaurant and Pha Dok Sieo Nature Trail展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n因他暖山是泰国最高的山峰，海拔2,565米，位于清迈西南方向90公里处，山中的国家公园内有云雾森林、为国王与王后六十岁寿辰建造的双子皇家佛塔、Vachiratharn瀑布和Wachirathan瀑布，以及山坡上种植咖啡的克伦族和苗族村落。山顶气温常在10度左右，因此即使是在4月也需要带外套。山顶苔藓森林中的Ang Ka自然步道全程二十分钟，是泰北最佳的短途徒步路线。行程从清迈出发，时间为8:00至17:00。\n\n价格包含配经验丰富司机的空调面包车往返接送、专业英语导游、泰式午餐（提供素食选项）及1瓶500ml饮用水。不包含国家公园及双塔门票（经济型选项需额外现金支付每人400泰铢），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Chiang Mai and Chiang Mai提供接送服务；具体地点和时间将在预订确认后与CHIANG MAI DAY TRIP协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "配经验丰富司机的空调面包车往返接送",
+   "专业英语导游",
+   "泰式午餐（提供素食选项）",
+   "1瓶500ml饮用水"
+  ],
+  "notIncluded": [
+   "国家公园及双塔门票（经济型选项需额外现金支付每人400泰铢）"
+  ]
+ },
  "ethical-elephant-encounter-feeding-program-in-chiang-mai": {
   "title": "清迈人道大象互动喂食项目",
   "metaTitle": "清迈人道大象互动喂食项目",
@@ -17900,6 +18863,20 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "往返活动地点的交通",
    "餐食"
+  ]
+ },
+ "suthep-national-park-hiking-and-dh-mountain-biking-in-chiang-mai": {
+  "title": "清迈素贴山国家公园徒步及速降山地自行车",
+  "metaTitle": "清迈素贴山国家公园徒步及速降山地自行车",
+  "shortDescription": "6小时的Chiang Mai游览，含Chiang Mai Mountain Biking & Kayaks及Jeep / SUV and Montha Than Waterfall Visitor Centre。运营商：CHIANG MAI MOUNTAIN BIKING & KAYAKS，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6小时的Chiang Mai体验，围绕Chiang Mai Mountain Biking & Kayaks及Jeep / SUV and Montha Than Waterfall Visitor Centre展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国的象旅游业正在不均衡地从骑乘和表演转向保护区模式，游客在那里喂食、陪伴行走并为被救助的象洗澡，而不骑乘它们，这种差异体现在象的身体状况上，也体现在经营者是否允许骑乘、使用象钩或锁链。清迈和普吉岛管理最好的营地会限制团队规模和接触时间，值得预订的营地会明确说明自己不允许的做法。考艾（Khao Yai）是泰国第一座国家公园，位于曼谷东北方向三小时车程处，在那里可以在黄昏时从吉普车上观察野生象群，还有长臂猿、犀鸟，偶尔也能见到公园内为数不多的熊。\n\n价格包含高品质山地自行车，保养良好且尺寸齐全，可在我们的专业店试骑、提供安全防护装备（头盔、手套、护膝及护肘）及清迈专业山地自行车向导全程陪同。不包含素贴山国家公园及湖泊门票和保险250泰铢（办理入住时请提供护照），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "高品质山地自行车，保养良好且尺寸齐全，可在我们的专业店试骑",
+   "提供安全防护装备（头盔、手套、护膝及护肘）",
+   "清迈专业山地自行车向导全程陪同"
+  ],
+  "notIncluded": [
+   "素贴山国家公园及湖泊门票和保险250泰铢（办理入住时请提供护照）"
   ]
  },
  "elephant-sanctuary-bamboo-raft-and-pad-thai-cooking-in-chiang-mai": {
@@ -17931,6 +18908,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "长颈族村门票费300泰铢（可选）"
+  ]
+ },
+ "doi-inthanon-waterfalls-and-tribal-villages-tour": {
+  "title": "因他暖山、瀑布及部落村庄之旅",
+  "metaTitle": "因他暖山、瀑布及部落村庄之旅",
+  "shortDescription": "10小时的Chiang Mai游览，含从清迈古城及宁曼路区域出发的空调汽车或面包车往返接送、午餐套餐及饮用水。运营商：Oh-Hoo，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场10小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含从清迈古城及宁曼路区域出发的空调汽车或面包车往返接送、午餐套餐及饮用水。不包含国家公园门票成人300泰铢、儿童150泰铢及国王王后双塔门票成人100泰铢、儿童50泰铢，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "从清迈古城及宁曼路区域出发的空调汽车或面包车往返接送",
+   "午餐套餐",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "国家公园门票成人300泰铢、儿童150泰铢",
+   "国王王后双塔门票成人100泰铢、儿童50泰铢"
   ]
  },
  "ethical-half-day-elephant-sanctuary-and-waterfall-in-chiang-mai": {
@@ -17980,6 +18972,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "酒店送达",
    "午餐",
    "早餐"
+  ]
+ },
+ "full-day-sticky-waterfall-and-dantewada-transport-in-chiang-mai": {
+  "title": "清迈全天粘滑瀑布及但特瓦达之旅含接送",
+  "metaTitle": "清迈全天粘滑瀑布及但特瓦达之旅含接送",
+  "shortDescription": "7.5小时的Chiang Mai游览，含Jeep / SUV及Dantewada and Bua Thong Sticky Waterfalls。运营商：Whoopers Hospitality，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7.5小时的Chiang Mai体验，围绕Jeep / SUV及Dantewada and Bua Thong Sticky Waterfalls展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n黏黏瀑布（Bua Tong）位于清迈以北一小时车程处，是一处石灰岩瀑布，其矿物沉积让岩石变得防滑而非光滑，因此游客可以赤脚直接踩着水流往上爬。这是泰国家庭常来的野餐地点，较陡的路段设有拉绳，顶部有一处泉水池塘，免费入场，工作日上午最为合适。回程途中的梅莎谷（Mae Sa）一带有兰花农场、植物园，以及规范不一的象营。\n\n价格包含Whoopers旅舍往返接送、司机及导游协助及瀑布自由活动时间。不包含食物及饮料，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nWhoopers Hostel Chiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "Whoopers旅舍往返接送",
+   "司机及导游协助",
+   "瀑布自由活动时间"
+  ],
+  "notIncluded": [
+   "食物及饮料"
   ]
  },
  "chiang-rai-temples-golden-triangle-and-kayan": {
@@ -18049,6 +19055,66 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "25km-leisure-mountain-biking-and-jungle-kayaking-in-chiang-mai": {
+  "title": "清迈25公里休闲山地自行车及丛林皮划艇",
+  "metaTitle": "清迈25公里休闲山地自行车及丛林皮划艇",
+  "shortDescription": "4小时的Chiang Mai游览，含Jeep / SUV及Chiang Mai Mountain Biking & Kayaks and Wat Thepnimit Nantharam。运营商：CHIANG MAI MOUNTAIN BIKING & KAYAKS，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Chiang Mai体验，围绕Jeep / SUV及Chiang Mai Mountain Biking & Kayaks and Wat Thepnimit Nantharam展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含高品质山地自行车，保养良好且尺寸齐全，可在我们的专业店试骑、安全防护装备（骑行提供头盔及手套，划艇提供救生衣）及我们提供优质硬壳单人及双人皮划艇，带来更出色的体验。不包含河道费及保险150泰铢（办理入住时请提供护照信息），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "高品质山地自行车，保养良好且尺寸齐全，可在我们的专业店试骑",
+   "安全防护装备（骑行提供头盔及手套，划艇提供救生衣）",
+   "我们提供优质硬壳单人及双人皮划艇，带来更出色的体验"
+  ],
+  "notIncluded": [
+   "河道费及保险150泰铢（办理入住时请提供护照信息）"
+  ]
+ },
+ "chiang-mai-to-chiang-rai-temples-tea-plantation-and-lalita-cafe-by-local-operator": {
+  "title": "清迈至清莱：寺庙、茶园及Lalita咖啡馆（当地运营商提供）",
+  "metaTitle": "清迈至清莱：寺庙、茶园及Lalita咖啡馆（当地运营商提供）",
+  "shortDescription": "13小时的Chiang Mai游览，含酒店接送、配司机的空调车接送及英语导游。运营商：LOCAL CNX. TOURS 99 CO., LTD.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场13小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n清莱位于清迈东北方向三小时车程处，是前往白庙（Wat Rong Khun）一日游的目的地，这座白色镶镜的奇幻建筑由艺术家Chalermchai Kositpipat于1997年动工，至今仍在修建中，桥上布满无数伸出的手，内部还有流行文化题材的恶魔壁画。蓝庙和黑屋，已故艺术家Thawan Duchanee用动物皮革与深色柚木打造的建筑群，与之共同构成三大景点。金三角，泰国、老挝与缅甸在湄公河交汇之处，再往北一小时车程，那里有观景台、鸦片博物馆，还可乘船前往老挝的一座市场岛。从清迈出发，这是一整天12小时的行程。\n\n价格包含酒店接送、配司机的空调车接送及英语导游。不包含如选择该项目则提供套餐或自助午餐；若未含午餐，如需与团队共同用餐，请向导游支付200泰铢及行程中的其他费用（如纪念品），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。LOCAL CNX. TOURS 99 CO., LTD.将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "配司机的空调车接送",
+   "英语导游"
+  ],
+  "notIncluded": [
+   "如选择该项目则提供套餐或自助午餐；若未含午餐，如需与团队共同用餐，请向导游支付200泰铢",
+   "行程中的其他费用（如纪念品）"
+  ]
+ },
+ "lamphun-and-lampang-temples-tour-in-chiang-mai": {
+  "title": "清迈南奔及南邦寺庙之旅",
+  "metaTitle": "清迈南奔及南邦寺庙之旅",
+  "shortDescription": "9小时的Chiang Mai游览，含Wat Chammathewi及Wat Phra That Haripunchai Woramahawihan and Wat Phra That Lampang Luang。运营商：TripGuru Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场9小时的Chiang Mai体验，围绕Wat Chammathewi及Wat Phra That Haripunchai Woramahawihan and Wat Phra That Lampang Luang展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国大约有40,000座佛教寺庙，各处的礼仪规矩相同：遮住肩膀和膝盖，进入有佛像的建筑前要脱鞋，双脚不可指向佛像或僧侣，女性不可触碰僧侣或直接将物品递交给僧侣。清晨僧侣沿街托钵的布施仪式，是每日的积德活动，并非表演，建议随同懂得规矩的当地人一起参与。清迈和曼谷郊外的寺庙还提供从一天到一个月的禅修课程，以英语授课，费用以布施形式支付。\n\n价格包含清迈市中心酒店接送、英语导游及空调车内交通。不包含个人花费、午餐及马车体验，双人车每车500泰铢，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nChiang Mai.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "清迈市中心酒店接送",
+   "英语导游",
+   "空调车内交通"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "午餐",
+   "马车体验，双人车每车500泰铢"
+  ]
+ },
+ "atv-whitewater-rafting-and-sticky-waterfall-tour-in-chiang-mai": {
+  "title": "清迈ATV、激流漂流及粘滑瀑布之旅",
+  "metaTitle": "清迈ATV、激流漂流及粘滑瀑布之旅",
+  "shortDescription": "为期一整天的Chiang Mai游览，含符合泰国法律规定的保险保障、泰式午餐及市区内往返接送（面包车），如您住在市区外请提前告知。运营商：LOCAL CNX. TOURS 99 CO., LTD.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场为期一整天的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n黏黏瀑布（Bua Tong）位于清迈以北一小时车程处，是一处石灰岩瀑布，其矿物沉积让岩石变得防滑而非光滑，因此游客可以赤脚直接踩着水流往上爬。这是泰国家庭常来的野餐地点，较陡的路段设有拉绳，顶部有一处泉水池塘，免费入场，工作日上午最为合适。回程途中的梅莎谷（Mae Sa）一带有兰花农场、植物园，以及规范不一的象营。\n\n价格包含符合泰国法律规定的保险保障、泰式午餐及市区内往返接送（面包车），如您住在市区外请提前告知。不包含其他费用及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "符合泰国法律规定的保险保障",
+   "泰式午餐",
+   "市区内往返接送（面包车），如您住在市区外请提前告知"
+  ],
+  "notIncluded": [
+   "其他费用",
+   "小费"
+  ]
+ },
  "chiang-rai-temples-and-long-neck-village-tour": {
   "title": "清莱寺庙及长颈族村之旅",
   "metaTitle": "清莱寺庙及长颈族村之旅",
@@ -18087,6 +19153,83 @@ export const ZH_TOURS: Record<string, TourT> = {
    "清道丛林徒步"
   ],
   "notIncluded": []
+ },
+ "khantoke-dinner-with-traditional-performance-in-chiang-mai": {
+  "title": "清迈康托克晚餐含传统表演",
+  "metaTitle": "清迈康托克晚餐含传统表演",
+  "shortDescription": "Chiang Mai游览，含传统兰纳表演及现场民俗音乐、传统北部风味康托克晚餐（如选择该项目，可提供素食及清真选项）及如选择该项目则提供饮用水续杯。运营商：One Asia Corporation，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含传统兰纳表演及现场民俗音乐、传统北部风味康托克晚餐（如选择该项目，可提供素食及清真选项）及如选择该项目则提供饮用水续杯。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "传统兰纳表演及现场民俗音乐",
+   "传统北部风味康托克晚餐（如选择该项目，可提供素食及清真选项）",
+   "如选择该项目则提供饮用水续杯"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
+  ]
+ },
+ "monks-chanting-wat-doi-suthep-wat-phalad-and-meditation-chiang-mai": {
+  "title": "清迈僧侣诵经、素贴山、帕拉特寺及冥想体验",
+  "metaTitle": "清迈僧侣诵经、素贴山、帕拉特寺及冥想体验",
+  "shortDescription": "4.5小时的Chiang Mai游览，含集合地点接送、拼团游览服务及持泰国旅游局（TAT）执照的经验丰富英语导游。运营商：Chiangmai Local Tour Guide，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4.5小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n双龙寺（Wat Phra That Doi Suthep）坐落在清迈上方的山上，建于1383年，用以供奉据说是佛陀肩骨的圣物，这块圣物由一头自行选定地点的白象驮上山来。306级那伽石阶通向一座露台，镀金的佛塔周围环绕着铜铃，整座城市就在1,000米之下；需要的游客也可以乘坐缆车上山。僧侣在6:00和18:00诵经，清晨城里的双条车（songthaews）尚未抵达之前，是最安静的时段。门票为30泰铢，着装需遮住肩膀和膝盖。\n\n价格包含集合地点接送、拼团游览服务及持泰国旅游局（TAT）执照的经验丰富英语导游。不包含态度及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "集合地点接送",
+   "拼团游览服务",
+   "持泰国旅游局（TAT）执照的经验丰富英语导游"
+  ],
+  "notIncluded": [
+   "态度",
+   "个人花费"
+  ]
+ },
+ "elephant-eco-park-and-atv-raft-waterfall-option-zipline-tribe-in-chiang-mai": {
+  "title": "清迈生态象园及ATV、漂流、瀑布可选高空滑索部落之旅",
+  "metaTitle": "清迈生态象园及ATV、漂流、瀑布可选高空滑索部落之旅",
+  "shortDescription": "7.5小时的Chiang Mai游览，含清迈酒店接载、免费进入湄旺生态象园、泰式自助午餐、饮用水及季节性水果。运营商：Chiang Mai Butler Services，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7.5小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含清迈酒店接载、免费进入湄旺生态象园、泰式自助午餐、饮用水及季节性水果。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Chiang Mai及Imm Hotel Tha Phae and Chiang Mai提供接送服务；具体地点和时间将在预订确认后与Chiang Mai Butler Services协商确定，所选套餐决定是否包含交通费用。\n\n在Chiang Mai提供酒店接送。Chiang Mai Butler Services将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "清迈酒店接载",
+   "免费进入湄旺生态象园",
+   "泰式自助午餐",
+   "饮用水",
+   "季节性水果"
+  ],
+  "notIncluded": []
+ },
+ "doi-inthanon-national-park-tour-waterfall-and-eco-experience-chiang-mai": {
+  "title": "因他暖山国家公园之旅：瀑布及生态体验（清迈）",
+  "metaTitle": "因他暖山国家公园之旅：瀑布及生态体验（清迈）",
+  "shortDescription": "为期一整天的Chiang Mai游览，含空调轿车或面包车往返接送、午餐套餐（如选择该项目，可提供素食）、水、导游及国家公园门票400泰铢（如选择含此项目的选项）。运营商：LOCAL CNX. TOURS 99 CO., LTD.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场为期一整天的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含空调轿车或面包车往返接送、午餐套餐（如选择该项目，可提供素食）、水、导游及国家公园门票400泰铢（如选择含此项目的选项）。不包含国家公园门票400泰铢（如选择不含此项目的选项），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "空调轿车或面包车往返接送",
+   "午餐套餐（如选择该项目，可提供素食）",
+   "水",
+   "导游",
+   "国家公园门票400泰铢（如选择含此项目的选项）"
+  ],
+  "notIncluded": [
+   "国家公园门票400泰铢（如选择不含此项目的选项）"
+  ]
+ },
+ "kingkong-smile-zipline-with-lunch-and-transfers-in-chiang-mai": {
+  "title": "清迈Kingkong Smile高空滑索含午餐及接送",
+  "metaTitle": "清迈Kingkong Smile高空滑索含午餐及接送",
+  "shortDescription": "6小时的Chiang Mai游览，含Kingkong Smile Zipline。运营商：KING KONG SMILE ZIPLINE，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6小时的Chiang Mai体验，围绕Kingkong Smile Zipline展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国境内的实际距离往往比地图上看起来更远：曼谷到大城（阿瑜陀耶）为80公里，约90分钟；曼谷到北碧2个半小时；旺季时普吉机场到芭东海滩约1小时；清迈到清莱则需3小时。按车计费的私家车加司机服务，是3人以上出游一日游的合理选择，因为大巴行程按固定时间表运行，而Grab叫车软件在城际出行上并不好用。司机通常不是导游，如果想了解历史讲解，需要另外预订导游，或选择明确标明配有导游的行程。\n\n价格包含酒店接送、1瓶水、泰式自助午餐、经过培训的导游及安全培训。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Chiang Mai and Chiang Mai提供接送服务；具体地点和时间将在预订确认后与KING KONG SMILE ZIPLINE协商确定，所选套餐决定是否包含交通费用。\n\n在Chiang Mai提供酒店接送。KING KONG SMILE ZIPLINE将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "1瓶水",
+   "泰式自助午餐",
+   "经过培训的导游",
+   "安全培训"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
+  ]
  },
  "small-group-sticky-falls-and-glass-skywalk-in-chiang-mai": {
   "title": "清迈小团黏黏瀑布与玻璃天空步道之旅",
@@ -18158,6 +19301,77 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "elephant-sanctuary-and-khao-kheow-open-zoo-moodeng-in-chiang-mai": {
+  "title": "清迈象保护区及考淇奥开放动物园（Moodeng）",
+  "metaTitle": "清迈象保护区及考淇奥开放动物园（Moodeng）",
+  "shortDescription": "9小时的Chiang Mai游览，含LIVING GREEN ELEPHANT SANCTUARY(BANGKOK&PATTAYA) and Khao Kheow Open Zoo。运营商：Ticket2attraction，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场9小时的Chiang Mai体验，围绕LIVING GREEN ELEPHANT SANCTUARY(BANGKOK&PATTAYA) and Khao Kheow Open Zoo展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含曼谷或芭堤雅境内任意地点的舒适私人往返接送、午餐及象保护区门票。不包含个人花费、小费及开放式动物园内的有轨电车或电动车，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nSathon.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "曼谷或芭堤雅境内任意地点的舒适私人往返接送",
+   "午餐",
+   "象保护区门票"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费",
+   "开放式动物园内的有轨电车或电动车"
+  ]
+ },
+ "love-elephant-sanctuary-visit-and-nature-walk-in-chiang-mai": {
+  "title": "清迈爱心象保护区参观及自然徒步",
+  "metaTitle": "清迈爱心象保护区参观及自然徒步",
+  "shortDescription": "3小时的Chiang Mai游览，含Bus/coach。运营商：Love Elephant Sanctuary Bangkok，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Chiang Mai体验，围绕Bus/coach展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国的象旅游业正在不均衡地从骑乘和表演转向保护区模式，游客在那里喂食、陪伴行走并为被救助的象洗澡，而不骑乘它们，这种差异体现在象的身体状况上，也体现在经营者是否允许骑乘、使用象钩或锁链。清迈和普吉岛管理最好的营地会限制团队规模和接触时间，值得预订的营地会明确说明自己不允许的做法。考艾（Khao Yai）是泰国第一座国家公园，位于曼谷东北方向三小时车程处，在那里可以在黄昏时从吉普车上观察野生象群，还有长臂猿、犀鸟，偶尔也能见到公园内为数不多的熊。\n\n价格包含Ekkamai BTS站或考山路往返接送、专业英语导游及瓶装水。不包含酒店接送（班车从Ekkamai BTS站或指定地点出发）及仅限考山路，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Villa Cha Cha Restaurant and Wat That Thong提供接送服务；具体地点和时间将在预订确认后与Love Elephant Sanctuary Bangkok协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "Ekkamai BTS站或考山路往返接送",
+   "专业英语导游",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "酒店接送（班车从Ekkamai BTS站或指定地点出发）",
+   "仅限考山路"
+  ]
+ },
+ "living-green-elephant-sanctuary-day-trip-in-chiang-mai": {
+  "title": "清迈绿色生态象保护区一日游",
+  "metaTitle": "清迈绿色生态象保护区一日游",
+  "shortDescription": "3小时的Chiang Mai游览，含当地素食餐、象只知识讲解及与大象互动。运营商：Living Green Elephant Sanctuary Chiang Mai and Chonburi，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Chiang Mai体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含当地素食餐、象只知识讲解及与大象互动。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Chiang Mai提供酒店接送。Living Green Elephant Sanctuary Chiang Mai and Chonburi将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "当地素食餐",
+   "象只知识讲解",
+   "与大象互动"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
+  ]
+ },
+ "luxury-spa-experience-thai-oil-massage-and-body-scrub-in-bangkok": {
+  "title": "曼谷豪华Spa体验：泰式精油按摩及身体磨砂",
+  "metaTitle": "曼谷豪华Spa体验：泰式精油按摩及身体磨砂",
+  "shortDescription": "60分钟的Bangkok游览，含优质香薰精油按摩、身体磨砂及可选4种按摩油（舒缓型、镇静型、亚洲风情型、清新初榨椰子油型）。运营商：8 ELEMENTS SPA，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场60分钟的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含优质香薰精油按摩、身体磨砂及可选4种按摩油（舒缓型、镇静型、亚洲风情型、清新初榨椰子油型）。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "优质香薰精油按摩",
+   "身体磨砂",
+   "可选4种按摩油（舒缓型、镇静型、亚洲风情型、清新初榨椰子油型）"
+  ],
+  "notIncluded": []
+ },
+ "gel-colors-and-blissful-hand-and-foot-ritual-in-bangkok": {
+  "title": "曼谷美甲胶色及舒心手足理疗",
+  "metaTitle": "曼谷美甲胶色及舒心手足理疗",
+  "shortDescription": "2.5小时的Bangkok游览，含舒心手足反射疗法套餐及深层清洁及温和去角质。运营商：Proudtopray Intertrade co.,ltd，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2.5小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含舒心手足反射疗法套餐及深层清洁及温和去角质。不包含卸除旧甲胶色，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "舒心手足反射疗法套餐",
+   "深层清洁及温和去角质"
+  ],
+  "notIncluded": [
+   "卸除旧甲胶色"
+  ]
+ },
  "small-group-bangkok-tour-street-food-markets-and-temples-by-local-operator": {
   "title": "曼谷小团游：街头美食、市场及寺庙（当地运营商）",
   "metaTitle": "曼谷小团游：街头美食、市场及寺庙（当地运营商）",
@@ -18171,6 +19385,35 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "酒精饮料",
    "个人花费"
+  ]
+ },
+ "deep-scalp-detox-perfect-hair-with-stone-healing-in-bangkok": {
+  "title": "曼谷深层头皮排毒完美护发含石疗",
+  "metaTitle": "曼谷深层头皮排毒完美护发含石疗",
+  "shortDescription": "1.5小时的Bangkok游览，含深层头皮清洁及排毒、纳米蒸汽护理及热石理疗。运营商：Proudtopray Intertrade co.,ltd，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1.5小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含深层头皮清洁及排毒、纳米蒸汽护理及热石理疗。不包含食物及饮料，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "深层头皮清洁及排毒",
+   "纳米蒸汽护理",
+   "热石理疗"
+  ],
+  "notIncluded": [
+   "食物及饮料"
+  ]
+ },
+ "hotaru-119-omakase-and-izakaya-seasonal-tastings-in-bangkok": {
+  "title": "曼谷Hotaru 119无菜单料理及居酒屋季节品鉴",
+  "metaTitle": "曼谷Hotaru 119无菜单料理及居酒屋季节品鉴",
+  "shortDescription": "1.5小时的Bangkok游览，含正宗风味搭配创意呈现、优质季节限定无菜单料理体验及温馨现代日式氛围。运营商：Hungry Hub，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1.5小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含正宗风味搭配创意呈现、优质季节限定无菜单料理体验及温馨现代日式氛围。不包含小费及交通，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "正宗风味搭配创意呈现",
+   "优质季节限定无菜单料理体验",
+   "温馨现代日式氛围"
+  ],
+  "notIncluded": [
+   "小费",
+   "交通"
   ]
  },
  "viva-alangka-chao-phraya-dinner-cruise-tour-in-bangkok": {
@@ -18188,6 +19431,34 @@ export const ZH_TOURS: Record<string, TourT> = {
    "旅行保险"
   ]
  },
+ "hidden-gems-walking-tour-with-local-train-ride-in-bangkok": {
+  "title": "曼谷隐藏宝地徒步之旅含当地火车体验",
+  "metaTitle": "曼谷隐藏宝地徒步之旅含当地火车体验",
+  "shortDescription": "4小时的Bangkok游览，含Train及Talat Phlu and Wat Khun Chan。运营商：Take me tour by R&T Global Co., Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Bangkok体验，围绕Train及Talat Phlu and Wat Khun Chan展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含参观运河沿岸拥有300多年历史的古镇。不包含食物及饮料、长尾船游览及自行车租赁，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nBTS Wongwian Yai Station (Exit 2).. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "参观运河沿岸拥有300多年历史的古镇"
+  ],
+  "notIncluded": [
+   "食物及饮料",
+   "长尾船游览",
+   "自行车租赁"
+  ]
+ },
+ "weekend-floating-and-train-market-and-firefly-boat-tour-in-bangkok": {
+  "title": "曼谷周末水上市场、火车市场及萤火虫游船之旅",
+  "metaTitle": "曼谷周末水上市场、火车市场及萤火虫游船之旅",
+  "shortDescription": "12小时的Bangkok游览，含曼谷至安帕瓦往返接送、邦贡寺门票及萤火虫观赏游船。运营商：WendyMu Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场12小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含曼谷至安帕瓦往返接送、邦贡寺门票及萤火虫观赏游船。不包含导游，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Bangkok、BTS Saphan Taksin及Hotel and Hotel提供接送服务；具体地点和时间将在预订确认后与WendyMu Travel协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "曼谷至安帕瓦往返接送",
+   "邦贡寺门票",
+   "萤火虫观赏游船"
+  ],
+  "notIncluded": [
+   "导游"
+  ]
+ },
  "visit-wat-pho-and-wat-arun-with-local-expert-bangkok": {
   "title": "曼谷卧佛寺及郑王庙参观含当地专家",
   "metaTitle": "曼谷卧佛寺及郑王庙参观含当地专家",
@@ -18199,6 +19470,36 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "门票费：每人500.00泰铢"
+  ]
+ },
+ "damnoen-saduak-and-train-market-with-boat-ride": {
+  "title": "丹嫩沙多水上市场及美功铁路市场含游船",
+  "metaTitle": "丹嫩沙多水上市场及美功铁路市场含游船",
+  "shortDescription": "8小时的Bangkok游览，含Bus/coach及Damnoen Saduak Floating Market and ตลาดน้ำเหล่าตั๊กลัก (ปากคลองลัดพลี)Lao Tuk Luck floating market。运营商：One Asia Corporation，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Bangkok体验，围绕Bus/coach及Damnoen Saduak Floating Market and ตลาดน้ำเหล่าตั๊กลัก (ปากคลองลัดพลี)Lao Tuk Luck floating market展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含如选择该项目则提供中英双语导游、瓶装饮用水及饼干及集合地点往返接送。不包含食物及饮料及小费（自愿），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "如选择该项目则提供中英双语导游",
+   "瓶装饮用水及饼干",
+   "集合地点往返接送"
+  ],
+  "notIncluded": [
+   "食物及饮料",
+   "小费（自愿）"
+  ]
+ },
+ "baiyoke-buffet-and-observation-deck-entry-ticket-in-bangkok": {
+  "title": "曼谷百约克自助餐及观景台门票",
+  "metaTitle": "曼谷百约克自助餐及观景台门票",
+  "shortDescription": "Bangkok游览，含根据所选项目提供自助餐、观景台使用权及城市天际线观景体验。运营商：GlobalTix (Thailand) Co., Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含根据所选项目提供自助餐、观景台使用权及城市天际线观景体验。不包含酒店接送及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "根据所选项目提供自助餐",
+   "观景台使用权",
+   "城市天际线观景体验"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "个人花费"
   ]
  },
  "history-temples-markets-and-food-tasting-in-bangkok": {
@@ -18213,6 +19514,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "全部门票费，个人购物，导游未提供的任何食物"
   ]
  },
+ "noah-6-star-chao-phraya-dinner-cruise-with-open-roof-in-bangkok": {
+  "title": "曼谷诺亚六星昭披耶河晚餐游船含开放式屋顶",
+  "metaTitle": "曼谷诺亚六星昭披耶河晚餐游船含开放式屋顶",
+  "shortDescription": "2小时的Bangkok游览，含昭披耶河自助晚餐游船、现场音乐娱乐表演及泰国传统舞蹈表演（诺拉舞）。运营商：Noah Cruise，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含昭披耶河自助晚餐游船、现场音乐娱乐表演及泰国传统舞蹈表演（诺拉舞）。不包含酒精饮料，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "昭披耶河自助晚餐游船",
+   "现场音乐娱乐表演",
+   "泰国传统舞蹈表演（诺拉舞）"
+  ],
+  "notIncluded": [
+   "酒精饮料"
+  ]
+ },
  "bangkok-chinatown-bike-tour-local-life-food-and-hidden-lanes-by-local-operator": {
   "title": "曼谷唐人街骑行之旅：本地生活、美食与隐秘小巷（本地运营商）",
   "metaTitle": "曼谷唐人街骑行之旅：本地生活、美食与隐秘小巷（本地运营商）",
@@ -18222,6 +19537,18 @@ export const ZH_TOURS: Record<string, TourT> = {
    "持证英语本地导游",
    "优质自行车及头盔",
    "自行车车把包"
+  ],
+  "notIncluded": []
+ },
+ "thai-dance-class-in-bangkok": {
+  "title": "曼谷泰式舞蹈课程",
+  "metaTitle": "曼谷泰式舞蹈课程",
+  "shortDescription": "2小时的Bangkok游览，含集合地点（郑王庙码头）接载服务、提供泰式甜点及迎宾饮品及泰国传统服饰及全套配饰。运营商：ThaiGlam Studio，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含集合地点（郑王庙码头）接载服务、提供泰式甜点及迎宾饮品及泰国传统服饰及全套配饰。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Bangkok提供酒店接送。ThaiGlam Studio将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "集合地点（郑王庙码头）接载服务",
+   "提供泰式甜点及迎宾饮品",
+   "泰国传统服饰及全套配饰"
   ],
   "notIncluded": []
  },
@@ -18257,6 +19584,36 @@ export const ZH_TOURS: Record<string, TourT> = {
    "三攀寺捐款"
   ]
  },
+ "2-hour-grand-palace-and-wat-pho-private-tour": {
+  "title": "2小时大皇宫及卧佛寺私人游览",
+  "metaTitle": "2小时大皇宫及卧佛寺私人游览",
+  "shortDescription": "Bangkok游览，含Wat Phra Kaew及Tha Tian Pier and Wat Pho。运营商：Grandness Tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场Bangkok体验，围绕Wat Phra Kaew及Tha Tian Pier and Wat Pho展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n大皇宫自1782年拉玛一世将首都迁至河对岸的曼谷起，一直是暹罗国王的居所，直至二十世纪初。宫内的玉佛寺（Wat Phra Kaew）供奉着玉佛，这尊高66厘米的翡翠佛像是全国最神圣的圣物，国王每年会随季节更换其法衣三次。宫殿区8:30开放，大巴车团9:30左右就会抵达，所以开放后的第一个小时最为清净。入口处严格执行着装要求：须遮住肩膀和膝盖，不可穿破洞牛仔裤或紧身裤，入口处也为忘记携带合适衣物的游客提供纱笼租借。外国游客门票为500泰铢，票价中包含诗丽吉王后纺织博物馆。\n\n价格包含私人导游、大皇宫至卧佛寺的嘟嘟车及饮用水。不包含大皇宫门票每人500泰铢及卧佛寺门票300泰铢/人，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nGolden Place (Tha Chang Pier Branch).. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "私人导游",
+   "大皇宫至卧佛寺的嘟嘟车",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "大皇宫门票每人500泰铢",
+   "卧佛寺门票300泰铢/人"
+  ]
+ },
+ "grand-palace-skip-the-line-entry-ticket": {
+  "title": "大皇宫免排队门票",
+  "metaTitle": "大皇宫免排队门票",
+  "shortDescription": "Bangkok游览，含大皇宫免排队门票、诗丽吉王后纺织博物馆门票及王国艺术博物馆门票。运营商：One Asia Corporation，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n大皇宫自1782年拉玛一世将首都迁至河对岸的曼谷起，一直是暹罗国王的居所，直至二十世纪初。宫内的玉佛寺（Wat Phra Kaew）供奉着玉佛，这尊高66厘米的翡翠佛像是全国最神圣的圣物，国王每年会随季节更换其法衣三次。宫殿区8:30开放，大巴车团9:30左右就会抵达，所以开放后的第一个小时最为清净。入口处严格执行着装要求：须遮住肩膀和膝盖，不可穿破洞牛仔裤或紧身裤，入口处也为忘记携带合适衣物的游客提供纱笼租借。外国游客门票为500泰铢，票价中包含诗丽吉王后纺织博物馆。\n\n价格包含大皇宫免排队门票、诗丽吉王后纺织博物馆门票及王国艺术博物馆门票。不包含交通及导游，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "大皇宫免排队门票",
+   "诗丽吉王后纺织博物馆门票",
+   "王国艺术博物馆门票"
+  ],
+  "notIncluded": [
+   "交通",
+   "导游"
+  ]
+ },
  "kanchanaburi-river-kwai-and-erawan-fall-private-tour": {
   "title": "北碧府桂河及爱侬瀑布私人游览",
   "metaTitle": "北碧府桂河及爱侬瀑布私人游览",
@@ -18285,6 +19642,61 @@ export const ZH_TOURS: Record<string, TourT> = {
    "食物"
   ]
  },
+ "flower-market-and-floral-art-multi-language-private-tour-in-bangkok": {
+  "title": "曼谷花卉市场及花艺：多语言私人之旅",
+  "metaTitle": "曼谷花卉市场及花艺：多语言私人之旅",
+  "shortDescription": "4小时的Bangkok游览，含酒店接送及私人空调车、持证导游（根据您的门票提供英语或西班牙语讲解）及昭披耶河快船及渡轮船票。运营商：Thailand Insight Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送及私人空调车、持证导游（根据您的门票提供英语或西班牙语讲解）及昭披耶河快船及渡轮船票。不包含午餐，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Bangkok提供酒店接送。Thailand Insight Travel将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送及私人空调车",
+   "持证导游（根据您的门票提供英语或西班牙语讲解）",
+   "昭披耶河快船及渡轮船票"
+  ],
+  "notIncluded": [
+   "午餐"
+  ]
+ },
+ "calypso-with-thai-classical-dance-in-bangkok": {
+  "title": "曼谷卡丽普索歌舞表演含泰式古典舞",
+  "metaTitle": "曼谷卡丽普索歌舞表演含泰式古典舞",
+  "shortDescription": "Bangkok游览，含泰式古典舞表演门票、泰式套餐及咖啡或茶。运营商：One Asia Corporation，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含泰式古典舞表演门票、泰式套餐及咖啡或茶。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "泰式古典舞表演门票",
+   "泰式套餐",
+   "咖啡或茶"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
+  ]
+ },
+ "private-tuk-tuk-and-boat-multicultural-discovery-in-bangkok": {
+  "title": "曼谷私人嘟嘟车及游船多元文化探索之旅",
+  "metaTitle": "曼谷私人嘟嘟车及游船多元文化探索之旅",
+  "shortDescription": "3小时的Bangkok游览，含专业持证导游、私人嘟嘟车接送（基础选项为往返接送地点，完整体验选项为寺庙参观后前往码头）及仅限完整体验选项，区域私人游船约1小时。运营商：Around Bangkok Tours，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含专业持证导游、私人嘟嘟车接送（基础选项为往返接送地点，完整体验选项为寺庙参观后前往码头）及仅限完整体验选项，区域私人游船约1小时。不包含寺庙门票每人80泰铢（可提前支付），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Bangkok提供酒店接送。Around Bangkok Tours将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "专业持证导游",
+   "私人嘟嘟车接送（基础选项为往返接送地点，完整体验选项为寺庙参观后前往码头）",
+   "仅限完整体验选项，区域私人游船约1小时"
+  ],
+  "notIncluded": [
+   "寺庙门票每人80泰铢（可提前支付）"
+  ]
+ },
+ "chandee-head-spa-and-massage-at-sukhumvit-39-in-bangkok": {
+  "title": "曼谷素坤逸39 Chandee头部护理及按摩",
+  "metaTitle": "曼谷素坤逸39 Chandee头部护理及按摩",
+  "shortDescription": "1.5小时的Bangkok游览，含使用有机产品的所选理疗项目、休闲休息室使用权及草药茶。运营商：Chandee Health Massage，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1.5小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含使用有机产品的所选理疗项目、休闲休息室使用权及草药茶。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "使用有机产品的所选理疗项目",
+   "休闲休息室使用权",
+   "草药茶"
+  ],
+  "notIncluded": []
+ },
  "grand-palace-and-wat-phra-kaew-guided-walking-tour": {
   "title": "大皇宫及玉佛寺步行导览之旅",
   "metaTitle": "大皇宫及玉佛寺步行导览之旅",
@@ -18300,6 +19712,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "食物及饮料"
   ]
  },
+ "riverside-faraya-halal-dinner-cruise-at-asiatigue-in-bangkok": {
+  "title": "曼谷Asiatique河畔Faraya清真晚餐游船",
+  "metaTitle": "曼谷Asiatique河畔Faraya清真晚餐游船",
+  "shortDescription": "2小时的Bangkok游览，含清真泰式及国际自助餐、现场萨克斯风及音乐表演及指定祈祷室。运营商：PR Travel Services，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含清真泰式及国际自助餐、现场萨克斯风及音乐表演及指定祈祷室。不包含酒精饮料，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "清真泰式及国际自助餐",
+   "现场萨克斯风及音乐表演",
+   "指定祈祷室"
+  ],
+  "notIncluded": [
+   "酒精饮料"
+  ]
+ },
  "harmony-onsen-hand-spa-foot-reflexology-and-onsen-in-bangkok": {
   "title": "曼谷Harmony温泉手部护理、足反射及温泉",
   "metaTitle": "曼谷Harmony温泉手部护理、足反射及温泉",
@@ -18309,6 +19735,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "30分钟私人温泉浸泡"
   ],
   "notIncluded": []
+ },
+ "dress-in-thai-tradition-makeup-option-1hr-photoshoot-in-bangkok": {
+  "title": "曼谷泰服换装及化妆选项1小时拍照体验",
+  "metaTitle": "曼谷泰服换装及化妆选项1小时拍照体验",
+  "shortDescription": "4小时的Bangkok游览，含英语工作人员、泰服租赁及专业泰式妆造。运营商：Butterfly Thai Costume Studio，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含英语工作人员、泰服租赁及专业泰式妆造。不包含前往商店的接送、其他个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "英语工作人员",
+   "泰服租赁",
+   "专业泰式妆造"
+  ],
+  "notIncluded": [
+   "前往商店的接送",
+   "其他个人花费",
+   "小费"
+  ]
  },
  "here-hai-skip-the-line-table-reservation-in-bangkok": {
   "title": "曼谷Here Hai免排队餐位预订",
@@ -18356,6 +19798,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "个人花费",
    "可选冒险活动费用"
+  ]
+ },
+ "muay-thai-boxing-at-rajadamnern-with-hotel-transfer-in-bangkok": {
+  "title": "曼谷拉差丹能体育馆泰拳比赛含酒店接送",
+  "metaTitle": "曼谷拉差丹能体育馆泰拳比赛含酒店接送",
+  "shortDescription": "5小时的Bangkok游览，含拉差丹能体育馆泰拳比赛门票、预留座位及曼谷酒店往返体育馆私人接送。运营商：Ticket2attraction，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰拳，被称为“八体艺术”，是泰国的国技，曼谷体育馆里的比赛是真正的实战，而非表演：1945年开馆的拉差丹能体育馆和伦披尼体育馆是两大著名场馆，每场有8到10场对战，时间约从18:30持续到23:00，每场比赛前有拜师舞，现场的皮帕乐队会随着比赛节奏加快演奏，上层看台还能看到赌客们的手势暗语。场边座位票价最贵，二层看台才是气氛最热烈的地方。各城市健身房提供的训练课程，从一小时的游客体验课到完整训练营都有，是另一种体验泰拳的方式。\n\n价格包含拉差丹能体育馆泰拳比赛门票、预留座位及曼谷酒店往返体育馆私人接送。不包含食物及饮料及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "拉差丹能体育馆泰拳比赛门票",
+   "预留座位",
+   "曼谷酒店往返体育馆私人接送"
+  ],
+  "notIncluded": [
+   "食物及饮料",
+   "个人花费"
   ]
  },
  "bangkok-royal-boat-tour": {
@@ -18442,6 +19899,31 @@ export const ZH_TOURS: Record<string, TourT> = {
    "食物和饮料"
   ]
  },
+ "jim-thompson-a-thai-restaurant-food-and-drink-packages-in-bangkok": {
+  "title": "曼谷Jim Thompson泰式餐厅餐饮套餐",
+  "metaTitle": "曼谷Jim Thompson泰式餐厅餐饮套餐",
+  "shortDescription": "1.5小时的Bangkok游览，含在丝绸大王之家中感受温暖的款待、卓越的美食及令人愉悦的欢聚氛围、美味泰式餐饮及优质热情的服务。运营商：Hungry Hub，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1.5小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含在丝绸大王之家中感受温暖的款待、卓越的美食及令人愉悦的欢聚氛围、美味泰式餐饮及优质热情的服务。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "在丝绸大王之家中感受温暖的款待、卓越的美食及令人愉悦的欢聚氛围",
+   "美味泰式餐饮",
+   "优质热情的服务"
+  ],
+  "notIncluded": []
+ },
+ "okura-cruise-luxury-japanese-dinner-cruise-in-bangkok": {
+  "title": "曼谷Okura游船：豪华日式晚餐游船",
+  "metaTitle": "曼谷Okura游船：豪华日式晚餐游船",
+  "shortDescription": "2.75小时的Bangkok游览，含Asiatique The Riverfront及ICONSIAM and Memorial Bridge。运营商：Okura Cruise，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2.75小时的Bangkok体验，围绕Asiatique The Riverfront及ICONSIAM and Memorial Bridge展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含2.5小时昭披耶河游船。不包含饮品按实际消费计费及每瓶开瓶费2354泰铢，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nOkura Cruise.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "2.5小时昭披耶河游船"
+  ],
+  "notIncluded": [
+   "饮品按实际消费计费",
+   "每瓶开瓶费2354泰铢"
+  ]
+ },
  "khaosan-nightlife-tour-with-street-food-and-drinks-in-bangkok": {
   "title": "曼谷考山路夜生活之旅（含街头美食与饮品）",
   "metaTitle": "曼谷考山路夜生活之旅（含街头美食与饮品）",
@@ -18451,6 +19933,18 @@ export const ZH_TOURS: Record<string, TourT> = {
    "专业英语导游",
    "饮用水",
    "保险"
+  ],
+  "notIncluded": []
+ },
+ "the-planet-luxury-cruise-and-rooftop-buffet-in-bangkok": {
+  "title": "曼谷The Planet豪华游船及屋顶自助餐",
+  "metaTitle": "曼谷The Planet豪华游船及屋顶自助餐",
+  "shortDescription": "2小时的Bangkok游览，含迎宾饮品（水果无酒精鸡尾酒）、水、茶及咖啡及国际及海鲜自助晚餐。运营商：Happy International Trade Co., Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含迎宾饮品（水果无酒精鸡尾酒）、水、茶及咖啡及国际及海鲜自助晚餐。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "迎宾饮品（水果无酒精鸡尾酒）",
+   "水、茶及咖啡",
+   "国际及海鲜自助晚餐"
   ],
   "notIncluded": []
  },
@@ -18510,6 +20004,18 @@ export const ZH_TOURS: Record<string, TourT> = {
    "高级或定制戒指设计及基础款式以外的升级（需在店内补差价）"
   ]
  },
+ "bangkok-classical-bicycle-tour-by-local-operator": {
+  "title": "曼谷经典自行车之旅（当地运营商提供）",
+  "metaTitle": "曼谷经典自行车之旅（当地运营商提供）",
+  "shortDescription": "3小时的Bangkok游览，含Thonburi及Monastery and Ferry。运营商：Co van Kessel Bangkok Tours，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Bangkok体验，围绕Thonburi及Monastery and Ferry展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含自行车、当地导游及渡轮过江。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n23 Soi Charoen Krung 24, Khwaeng Talat Noi, Khet Samphanthawong, Krung Thep Maha Nakhon 10100, Thailand.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "自行车",
+   "当地导游",
+   "渡轮过江"
+  ],
+  "notIncluded": []
+ },
  "kanchanaburi-river-kwai-and-hellfire-pass-private-tour-bangkok": {
   "title": "北碧府桂河及地狱火通道私人游览（曼谷）",
   "metaTitle": "北碧府桂河及地狱火通道私人游览（曼谷）",
@@ -18521,6 +20027,39 @@ export const ZH_TOURS: Record<string, TourT> = {
    "持证司机"
   ],
   "notIncluded": []
+ },
+ "2-day-river-kwai-and-erawan-national-park-tour": {
+  "title": "2天桂河与伊拉旺国家公园之旅",
+  "metaTitle": "2天桂河与伊拉旺国家公园之旅",
+  "shortDescription": "2天的Bangkok游览，含私人交通、持证司机、持证导游、全部门票费及第1天及第2天午餐。运营商：Amazing Asia Tours，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2天的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含私人交通、持证司机、持证导游、全部门票费及第1天及第2天午餐。不包含小费、个人花费及行程中未提及的所有项目，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "私人交通",
+   "持证司机",
+   "持证导游",
+   "全部门票费",
+   "第1天及第2天午餐"
+  ],
+  "notIncluded": [
+   "小费",
+   "个人花费",
+   "行程中未提及的所有项目"
+  ]
+ },
+ "chinatown-to-old-town-michelin-food-tour-in-bangkok": {
+  "title": "曼谷唐人街至老城米其林美食之旅",
+  "metaTitle": "曼谷唐人街至老城米其林美食之旅",
+  "shortDescription": "3小时的Bangkok游览，含导游（英语）、米其林美食及嘟嘟车及嘟嘟车司机。运营商：CanalTour x ExploreSiam，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n曼谷唐人街沿耀华力路（Yaowarat Road）延伸，该路建于1891年，白天两侧是金饰店，夜晚则变成小吃摊，人行道上摆满炭烤炉和面条车，著名摊位前排起长队：Phadungdao的烤海鲜、带胡椒味的卷粉guay jub、烤栗子，还有想尝鲜的人可以选择的燕窝和鱼翅。这是亚洲最密集的街头美食区，大约18:00开始热闹起来。曼谷米其林指南自2018年起开始评选街头摊位；在那里吃过的向导知道哪些队排得值得。\n\n价格包含导游（英语）、米其林美食及嘟嘟车及嘟嘟车司机。不包含菜单以外的额外项目费用自理及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "导游（英语）",
+   "米其林美食",
+   "嘟嘟车及嘟嘟车司机"
+  ],
+  "notIncluded": [
+   "菜单以外的额外项目费用自理",
+   "个人花费"
+  ]
  },
  "ayutthaya-temples-and-khao-yai-national-park-tour": {
   "title": "大城寺庙与考艾国家公园之旅",
@@ -18535,6 +20074,20 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "个人花费",
    "午餐"
+  ]
+ },
+ "thai-massage-workshop-with-herbal-compress-in-bangkok": {
+  "title": "曼谷泰式按摩工作坊含草药热敷",
+  "metaTitle": "曼谷泰式按摩工作坊含草药热敷",
+  "shortDescription": "2小时的Bangkok游览，含按摩工作坊、资深理疗师及草药热敷演示（仅限选择正宗泰式按摩实操工作坊时提供）。运营商：Massage by Master，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰式按摩是一套在地板上进行的拉伸与沿身体经络施压的手法，穿着宽松衣物进行，不使用按摩油，其源头可追溯到随佛教传入的阿育吠陀传统；曼谷卧佛寺（Wat Pho）按摩学校自1955年起开始教授这门技艺，其学生如今遍布全国各地的按摩馆。一次正规的两小时按摩应该让你感到放松，而不是酸痛；如果想要力道轻一点，可以说“bao bao”。油压按摩、足底反射疗法，以及用蒸熏过的泰姜和柠檬草制成的草药热敷包，是其他常见的项目。价格从街边小店的几百泰铢到度假村水疗中心的数千泰铢不等，而街边小店往往手法更好。\n\n价格包含按摩工作坊、资深理疗师及草药热敷演示（仅限选择正宗泰式按摩实操工作坊时提供）。不包含酒店接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "按摩工作坊",
+   "资深理疗师",
+   "草药热敷演示（仅限选择正宗泰式按摩实操工作坊时提供）"
+  ],
+  "notIncluded": [
+   "酒店接送"
   ]
  },
  "royal-princess-river-dinner-cruise-with-live-music-in-bangkok-2": {
@@ -18552,6 +20105,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "酒精饮品"
   ]
  },
+ "golden-dome-cabaret-show-entry-ticket-in-bangkok-2": {
+  "title": "曼谷金顶歌舞表演门票",
+  "metaTitle": "曼谷金顶歌舞表演门票",
+  "shortDescription": "1小时的Bangkok游览，含表演门票及免费瓶装水。运营商：Golden Dome Cabaret Show，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含表演门票及免费瓶装水。不包含可选与表演者合影拍照（现场付费购买）及酒店接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "表演门票",
+   "免费瓶装水"
+  ],
+  "notIncluded": [
+   "可选与表演者合影拍照（现场付费购买）",
+   "酒店接送"
+  ]
+ },
  "private-nightlife-tuk-tuk-tour-with-hotel-pickup-in-bangkok": {
   "title": "曼谷私人夜生活嘟嘟车之旅（含酒店接送）",
   "metaTitle": "曼谷私人夜生活嘟嘟车之旅（含酒店接送）",
@@ -18564,6 +20131,49 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "食物及饮料",
    "个人花费"
+  ]
+ },
+ "bangkok-dream-world-entry-ticket-with-snow-town-access-by-local-operator": {
+  "title": "曼谷梦幻世界门票含雪之乡（当地运营商提供）",
+  "metaTitle": "曼谷梦幻世界门票含雪之乡（当地运营商提供）",
+  "shortDescription": "Bangkok游览，含梦幻世界门票及雪之乡门票。运营商：TYCOON THAI DMC，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含梦幻世界门票及雪之乡门票。不包含午餐及接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "梦幻世界门票",
+   "雪之乡门票"
+  ],
+  "notIncluded": [
+   "午餐",
+   "接送"
+  ]
+ },
+ "highlight-tuk-tuk-canal-tour-food-tour-and-wat-arun": {
+  "title": "精华嘟嘟车、运河之旅、美食之旅及郑王庙",
+  "metaTitle": "精华嘟嘟车、运河之旅、美食之旅及郑王庙",
+  "shortDescription": "4小时的Bangkok游览，含River boat及Wat Paknam Phasi Charoen and Wat Arun。运营商：EM JOURNEY CO.,LTD，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Bangkok体验，围绕River boat及Wat Paknam Phasi Charoen and Wat Arun展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nWat Arun, the Temple of Dawn, stands on the Thonburi bank of the Chao Phraya directly across from Wat Pho, and its 70-metre central prang is covered in fragments of Chinese porcelain that were ballast in trading ships. The climb up the lower terraces is steep and the steps are shallow; the view is back across the river to the Grand Palace. Entry is 200 baht. It is named for the dawn but photographed at dusk, when it is floodlit and seen from the riverside bars on the opposite bank, and the 5-baht ferry from Tha Tien pier is the way across.\n\n价格包含长尾船及渡船接送、行程中嘟嘟车接送及郑王庙门票。不包含酒店送达及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nWutthakat.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "长尾船及渡船接送",
+   "行程中嘟嘟车接送",
+   "郑王庙门票"
+  ],
+  "notIncluded": [
+   "酒店送达",
+   "小费"
+  ]
+ },
+ "photoshoot-in-thai-costume-in-bangkok": {
+  "title": "曼谷泰服拍照体验",
+  "metaTitle": "曼谷泰服拍照体验",
+  "shortDescription": "Bangkok游览，含Wat Arun。运营商：ThaiGlam Studio，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场Bangkok体验，围绕Wat Arun展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含泰服租赁及在泰国著名地标郑王庙拍照及换装及拍摄约需2小时，拍摄次数不限。不包含食物及饮料及郑王庙门票每人100泰铢，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n243 Thanon Wang Doem, Khwaeng Wat Arun, Khet Bangkok Yai, Krung Thep Maha Nakhon 10600, Thailand.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "泰服租赁及在泰国著名地标郑王庙拍照",
+   "换装及拍摄约需2小时，拍摄次数不限"
+  ],
+  "notIncluded": [
+   "食物及饮料",
+   "郑王庙门票每人100泰铢"
   ]
  },
  "bangkok-by-night-by-electric-scooter-and-or-bike-by-local-operator": {
@@ -18605,6 +20215,23 @@ export const ZH_TOURS: Record<string, TourT> = {
    "司机及导游小费（可选）"
   ]
  },
+ "from-bkk-kanchanaburi-wwii-river-kwai-and-hellfire-pass-tour-bangkok": {
+  "title": "从曼谷出发：北碧二战历史、桂河及地狱火通道之旅（曼谷）",
+  "metaTitle": "从曼谷出发：北碧二战历史、桂河及地狱火通道之旅（曼谷）",
+  "shortDescription": "12小时的Bangkok游览，含Kanchanaburi War Cemetery及Bridge Over the River Kwai and Tham Krasae Bridge railway station。运营商：MPG Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场12小时的Bangkok体验，围绕Kanchanaburi War Cemetery及Bridge Over the River Kwai and Tham Krasae Bridge railway station展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含英语导游、参观桂河大桥及参观死亡铁路。不包含餐食、个人花费、前往甘萨洞的火车之旅及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nBangkok.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "英语导游",
+   "参观桂河大桥",
+   "参观死亡铁路"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人花费",
+   "前往甘萨洞的火车之旅",
+   "小费"
+  ]
+ },
  "opulence-luxury-river-dinner-cruise-in-bangkok": {
   "title": "曼谷奢华河上晚餐游船",
   "metaTitle": "曼谷奢华河上晚餐游船",
@@ -18620,6 +20247,67 @@ export const ZH_TOURS: Record<string, TourT> = {
    "软饮料"
   ]
  },
+ "bangkok-historical-tour-ancient-city-wat-paknam-and-erawan-by-local-operator": {
+  "title": "曼谷历史之旅：古城、帕坎南寺及伊拉旺（当地运营商提供）",
+  "metaTitle": "曼谷历史之旅：古城、帕坎南寺及伊拉旺（当地运营商提供）",
+  "shortDescription": "9小时的Bangkok游览，含空调车接送、如选择该项目则需支付门票费用及如选择该项目则提供专业导游。运营商：MPG Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场9小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含空调车接送、如选择该项目则需支付门票费用及如选择该项目则提供专业导游。不包含餐食及饮料、个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "空调车接送",
+   "如选择该项目则需支付门票费用",
+   "如选择该项目则提供专业导游"
+  ],
+  "notIncluded": [
+   "餐食及饮料",
+   "个人花费",
+   "小费"
+  ]
+ },
+ "muay-thai-class-at-krudam-gym-sukhumvit-ticket-in-bangkok": {
+  "title": "曼谷素坤逸Krudam拳馆泰拳课程门票",
+  "metaTitle": "曼谷素坤逸Krudam拳馆泰拳课程门票",
+  "shortDescription": "Bangkok游览，含双人私教课程、绑手带及拳击手套及私人教练。运营商：GlobalTix (Thailand) Co., Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰拳，被称为“八体艺术”，是泰国的国技，曼谷体育馆里的比赛是真正的实战，而非表演：1945年开馆的拉差丹能体育馆和伦披尼体育馆是两大著名场馆，每场有8到10场对战，时间约从18:30持续到23:00，每场比赛前有拜师舞，现场的皮帕乐队会随着比赛节奏加快演奏，上层看台还能看到赌客们的手势暗语。场边座位票价最贵，二层看台才是气氛最热烈的地方。各城市健身房提供的训练课程，从一小时的游客体验课到完整训练营都有，是另一种体验泰拳的方式。\n\n价格包含双人私教课程、绑手带及拳击手套及私人教练。不包含个人花费及食物及饮料，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "双人私教课程",
+   "绑手带及拳击手套",
+   "私人教练"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "食物及饮料"
+  ]
+ },
+ "bangkok-tuk-tuk-by-night-with-chinatown-street-food-meal-by-local-operator": {
+  "title": "曼谷夜间嘟嘟车之旅含唐人街街头小吃餐（当地运营商提供）",
+  "metaTitle": "曼谷夜间嘟嘟车之旅含唐人街街头小吃餐（当地运营商提供）",
+  "shortDescription": "3.5小时的Bangkok游览，含Ferry及Wat Arun and Tuk tuk。运营商：CanalTour x ExploreSiam，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3.5小时的Bangkok体验，围绕Ferry及Wat Arun and Tuk tuk展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n曼谷唐人街沿耀华力路（Yaowarat Road）延伸，该路建于1891年，白天两侧是金饰店，夜晚则变成小吃摊，人行道上摆满炭烤炉和面条车，著名摊位前排起长队：Phadungdao的烤海鲜、带胡椒味的卷粉guay jub、烤栗子，还有想尝鲜的人可以选择的燕窝和鱼翅。这是亚洲最密集的街头美食区，大约18:00开始热闹起来。曼谷米其林指南自2018年起开始评选街头摊位；在那里吃过的向导知道哪些队排得值得。\n\n价格包含昭披耶河快船、渡轮及嘟嘟车、瓶装水及甜点。不包含酒精饮料及导游小费（非强制），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "昭披耶河快船、渡轮及嘟嘟车",
+   "瓶装水",
+   "甜点"
+  ],
+  "notIncluded": [
+   "酒精饮料",
+   "导游小费（非强制）"
+  ]
+ },
+ "luxury-white-sunset-or-dinner-cruise-with-beer-in-bangkok": {
+  "title": "曼谷豪华白色日落或晚餐游船含啤酒",
+  "metaTitle": "曼谷豪华白色日落或晚餐游船含啤酒",
+  "shortDescription": "105分钟的Bangkok游览，含Chao Phraya River及Wat Arun and Rama VIII Bridge。运营商：OTO TRIP SERVICE CO., LTD，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场105分钟的Bangkok体验，围绕Chao Phraya River及Wat Arun and Rama VIII Bridge展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含游船、泰式及国际海鲜自助餐及日落游船现场音乐表演。不包含酒店接送及额外个人消费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "游船",
+   "泰式及国际海鲜自助餐",
+   "日落游船现场音乐表演"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "额外个人消费"
+  ]
+ },
  "night-tuk-tuk-tour-with-chinatown-meal-and-transfers-in-bangkok": {
   "title": "曼谷夜间嘟嘟车之旅含唐人街餐食及接送",
   "metaTitle": "曼谷夜间嘟嘟车之旅含唐人街餐食及接送",
@@ -18631,6 +20319,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "轿车或面包车酒店接送（仅限曼谷市区）"
   ],
   "notIncluded": []
+ },
+ "chao-phraya-dinner-cruise-from-asiatique-and-free-beer-in-bangkok": {
+  "title": "曼谷昭披耶河晚餐游船（从Asiatique出发）含免费啤酒",
+  "metaTitle": "曼谷昭披耶河晚餐游船（从Asiatique出发）含免费啤酒",
+  "shortDescription": "2小时的Bangkok游览，含Wat Kanlayanamit及Wat Arun and The Grand Palace。运营商：The Luxury White，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Bangkok体验，围绕Wat Kanlayanamit及Wat Arun and The Grand Palace展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含泰式、国际及海鲜自助餐、无限畅饮啤酒、软饮、水、咖啡及茶及现场娱乐表演。不包含其他个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nAsiatique The Riverfront.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "泰式、国际及海鲜自助餐",
+   "无限畅饮啤酒、软饮、水、咖啡及茶",
+   "现场娱乐表演"
+  ],
+  "notIncluded": [
+   "其他个人花费"
+  ]
  },
  "ayutthaya-and-lopburi-monkey-temple-private-day-trip": {
   "title": "大城府及华富里猕猴寺私人一日游",
@@ -18662,6 +20364,23 @@ export const ZH_TOURS: Record<string, TourT> = {
    "酒店接送"
   ]
  },
+ "lumpinee-boxing-stadium-muay-thai-match-entry-ticket-in-bangkok": {
+  "title": "曼谷伦披尼拳馆泰拳比赛门票",
+  "metaTitle": "曼谷伦披尼拳馆泰拳比赛门票",
+  "shortDescription": "Bangkok游览，含依所选等级提供座位票、泰拳比赛门票及体育馆设施使用权。运营商：GlobalTix (Thailand) Co., Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含依所选等级提供座位票、泰拳比赛门票及体育馆设施使用权。不包含酒店接送、食物及饮料、个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "依所选等级提供座位票",
+   "泰拳比赛门票",
+   "体育馆设施使用权"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "食物及饮料",
+   "个人花费",
+   "小费"
+  ]
+ },
  "ayutthaya-temples-tour-with-german-guide": {
   "title": "大城府寺庙之旅含德语导游",
   "metaTitle": "大城府寺庙之旅含德语导游",
@@ -18674,6 +20393,22 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "酒店送达"
+  ]
+ },
+ "ayutthaya-day-tour-by-bus-with-river-cruise": {
+  "title": "大城府巴士一日游含河流游船",
+  "metaTitle": "大城府巴士一日游含河流游船",
+  "shortDescription": "9小时的Bangkok游览，含Bus/coach及Wat Maha That and Wat Phra Sri Sanphet。运营商：Bigcountry Experience Co.,Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场9小时的Bangkok体验，围绕Bus/coach及Wat Maha That and Wat Phra Sri Sanphet展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含寺庙门票、英语导游及咖啡、茶及饮用水。不包含酒精饮品、个人花费及导游及司机小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPhra Nakhon.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "寺庙门票",
+   "英语导游",
+   "咖啡、茶及饮用水"
+  ],
+  "notIncluded": [
+   "酒精饮品",
+   "个人花费",
+   "导游及司机小费"
   ]
  },
  "historical-day-tour-to-river-kwai-in-bangkok": {
@@ -18705,6 +20440,38 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "opulence-luxury-chao-phraya-dinner-cruise-in-bangkok": {
+  "title": "曼谷Opulence豪华昭披耶河晚餐游船",
+  "metaTitle": "曼谷Opulence豪华昭披耶河晚餐游船",
+  "shortDescription": "2小时的Bangkok游览，含Wat Arun及Rama VIII Bridge and Grand Palace Bangkok。运营商：One Asia Corporation，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Bangkok体验，围绕Wat Arun及Rama VIII Bridge and Grand Palace Bangkok展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含游船、迎宾泰式古典舞表演、海鲜及国际自助晚餐与甜点及现场音乐及表演。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nIcon Siam Pier 2.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "游船",
+   "迎宾泰式古典舞表演",
+   "海鲜及国际自助晚餐与甜点",
+   "现场音乐及表演"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
+  ]
+ },
+ "private-firefly-night-cruise-and-floating-market-tour": {
+  "title": "私人萤火虫夜游船及水上市场之旅",
+  "metaTitle": "私人萤火虫夜游船及水上市场之旅",
+  "shortDescription": "8小时的Bangkok游览，含保险、过路费及停车费。运营商：SST Global Tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含保险、过路费及停车费。不包含餐食费用、小费及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "保险",
+   "过路费",
+   "停车费"
+  ],
+  "notIncluded": [
+   "餐食费用",
+   "小费",
+   "个人花费"
+  ]
+ },
  "2-hour-canal-tour-by-teak-boat-in-bangkok": {
   "title": "曼谷2小时柚木船运河之旅",
   "metaTitle": "曼谷2小时柚木船运河之旅",
@@ -18716,6 +20483,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "饮用水"
   ],
   "notIncluded": []
+ },
+ "laemchabang-port-2-days-bangkok-temples-and-floating-market-by-local-operator": {
+  "title": "林查班港口：2天曼谷寺庙及水上市场之旅（当地运营商提供）",
+  "metaTitle": "林查班港口：2天曼谷寺庙及水上市场之旅（当地运营商提供）",
+  "shortDescription": "2天的Bangkok游览，含The Grand Palace及Wat Pho and Tha Tien Market。运营商：Ticket2attraction，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2天的Bangkok体验，围绕The Grand Palace及Wat Pho and Tha Tien Market展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nDamnoen Saduak, 100 kilometres south-west of Bangkok, is the floating market of the postcards: boats of fruit and noodles on a canal dug in the 1860s, working by 7:00 and finished by 11:00, which is why tours leave the city at 6:30. It is crowded and much of the trade is souvenirs, and it is still worth an hour on the water. Amphawa, nearby, runs Friday to Sunday afternoons and evenings and is the one Bangkok residents prefer, with firefly boat trips after dark. Taling Chan and Khlong Lat Mayom are small weekend markets inside the city where the food is the point.\n\n价格包含林查班私人往返接送、油费、过路费、停车费及港口费及旅行保险。不包含餐食及午餐及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "林查班私人往返接送",
+   "油费、过路费、停车费及港口费",
+   "旅行保险"
+  ],
+  "notIncluded": [
+   "餐食及午餐",
+   "个人花费"
+  ]
  },
  "ayutthaya-historical-park-guided-day-trip": {
   "title": "大城历史公园导览一日游",
@@ -18730,6 +20512,54 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐食及其他饮品",
    "酒店送达（仅限团体游选项）"
+  ]
+ },
+ "sawasdee-chao-phraya-river-dinner-cruise-with-shows-in-bangkok": {
+  "title": "曼谷Sawasdee昭披耶河晚餐游船含表演",
+  "metaTitle": "曼谷Sawasdee昭披耶河晚餐游船含表演",
+  "shortDescription": "2小时的Bangkok游览，含优质泰式及国际自助晚餐（含新鲜海鲜）、提供清真选项及茶、咖啡及饮用水。运营商：Sawasdee chaophraya dinner cruise Co.,Ltd，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含优质泰式及国际自助晚餐（含新鲜海鲜）、提供清真选项及茶、咖啡及饮用水。不包含酒精饮料、酒店接送及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "优质泰式及国际自助晚餐（含新鲜海鲜）",
+   "提供清真选项",
+   "茶、咖啡及饮用水"
+  ],
+  "notIncluded": [
+   "酒精饮料",
+   "酒店接送",
+   "小费"
+  ]
+ },
+ "kanchanaburi-2-day-1-night-private-tour-from-bangkok-by-local-operator": {
+  "title": "从曼谷出发：北碧2天1晚私人之旅（当地运营商提供）",
+  "metaTitle": "从曼谷出发：北碧2天1晚私人之旅（当地运营商提供）",
+  "shortDescription": "2天的Bangkok游览，含伊拉旺国家公园门票及玛利卡R.E.124古城门票。运营商：SST Global Tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2天的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n北碧府位于曼谷以西130公里处，以跨越桂河的大桥和死亡铁路闻名，这是盟军战俘和亚洲劳工于1942年和1943年为日军修建的，造成逾10万人死亡。这座大桥在战时轰炸后重建，至今仍有列车沿着悬崖边的Wampo高架桥驶向南托克（Nam Tok），镇上的战争公墓和泰缅铁路中心博物馆是了解这段历史的地方。再往前80公里是地狗岭（Hellfire Pass），战俘们徒手开凿出的这段路堑，设有步道和一座澳大利亚人运营的纪念馆。伊拉旺国家公园的七层瀑布是另一个值得前往的理由，沿着2公里的步道可见可供游泳的翡翠色水池。\n\n价格包含伊拉旺国家公园门票及玛利卡R.E.124古城门票。不包含酒店住宿、餐食及饮料、小费及其他个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "伊拉旺国家公园门票",
+   "玛利卡R.E.124古城门票"
+  ],
+  "notIncluded": [
+   "酒店住宿",
+   "餐食及饮料",
+   "小费",
+   "其他个人花费"
+  ]
+ },
+ "thai-bus-food-tour-experience-in-bangkok-by-local-operator": {
+  "title": "曼谷泰式巴士美食之旅体验（当地运营商提供）",
+  "metaTitle": "曼谷泰式巴士美食之旅体验（当地运营商提供）",
+  "shortDescription": "90分钟的Bangkok游览，含Hua Lamphong Railway Station及Wat Traimit and Maen Sri Waterworks。运营商：Thai Bus Food Tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场90分钟的Bangkok体验，围绕Hua Lamphong Railway Station及Wat Traimit and Maen Sri Waterworks展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n曼谷唐人街沿耀华力路（Yaowarat Road）延伸，该路建于1891年，白天两侧是金饰店，夜晚则变成小吃摊，人行道上摆满炭烤炉和面条车，著名摊位前排起长队：Phadungdao的烤海鲜、带胡椒味的卷粉guay jub、烤栗子，还有想尝鲜的人可以选择的燕窝和鱼翅。这是亚洲最密集的街头美食区，大约18:00开始热闹起来。曼谷米其林指南自2018年起开始评选街头摊位；在那里吃过的向导知道哪些队排得值得。\n\n价格包含经验丰富的英泰双语导游、司机及服务人员、全套餐食及饮品及双层观光巴士游览。不包含酒店接送、其他个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nThai Bus Food Tour.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "经验丰富的英泰双语导游、司机及服务人员",
+   "全套餐食及饮品",
+   "双层观光巴士游览"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "其他个人花费",
+   "小费"
   ]
  },
  "bangkok-bike-tour-chinatown-flower-market-and-turtle-feeding-by-local-operator": {
@@ -18759,6 +20589,18 @@ export const ZH_TOURS: Record<string, TourT> = {
    "司机及导游小费",
    "汽水"
   ]
+ },
+ "bangkok-by-night-cycling-tour-with-street-food-meal-by-local-operator": {
+  "title": "曼谷夜间骑行之旅含街头小吃餐（当地运营商提供）",
+  "metaTitle": "曼谷夜间骑行之旅含街头小吃餐（当地运营商提供）",
+  "shortDescription": "3小时的Bangkok游览，含自行车、导游及街头小吃餐。运营商：Co van Kessel Bangkok Tours，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含自行车、导游及街头小吃餐。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "自行车",
+   "导游",
+   "街头小吃餐"
+  ],
+  "notIncluded": []
  },
  "cooking-class-with-market-visit-and-tuk-tuk-ride-in-bangkok": {
   "title": "曼谷烹饪课程（含市场参观及嘟嘟车乘坐）",
@@ -18840,6 +20682,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "卧佛寺（Wat Pho）门票，每人300.00泰铢"
   ]
  },
+ "wat-arun-thai-costume-experience-with-local-guide-bangkok": {
+  "title": "曼谷郑王庙泰服体验含当地导游",
+  "metaTitle": "曼谷郑王庙泰服体验含当地导游",
+  "shortDescription": "2小时的Bangkok游览，含导游（英语）、泰国传统服饰租赁及保险。运营商：CanalTour x ExploreSiam，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含导游（英语）、泰国传统服饰租赁及保险。不包含郑王庙门票200泰铢及摄影师，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "导游（英语）",
+   "泰国传统服饰租赁",
+   "保险"
+  ],
+  "notIncluded": [
+   "郑王庙门票200泰铢",
+   "摄影师"
+  ]
+ },
  "old-city-sunset-tuk-tuk-tour-with-food-tasting-in-bangkok": {
   "title": "曼谷古城日落嘟嘟车之旅含美食品尝",
   "metaTitle": "曼谷古城日落嘟嘟车之旅含美食品尝",
@@ -18881,6 +20738,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "pa-puri-wellness-gaysorn-tower-onsen-ticket-and-spa-in-bangkok": {
+  "title": "曼谷PAÑPURI WELLNESS盖颂大厦温泉门票及Spa",
+  "metaTitle": "曼谷PAÑPURI WELLNESS盖颂大厦温泉门票及Spa",
+  "shortDescription": "1天的Bangkok游览，含古式温泉浴仪式（如选择则可使用温泉）、深层修复按摩60分钟（如选择）及Pa Puri招牌香薰按摩90分钟（如选择）。运营商：Puri Co. Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1天的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰式按摩是一套在地板上进行的拉伸与沿身体经络施压的手法，穿着宽松衣物进行，不使用按摩油，其源头可追溯到随佛教传入的阿育吠陀传统；曼谷卧佛寺（Wat Pho）按摩学校自1955年起开始教授这门技艺，其学生如今遍布全国各地的按摩馆。一次正规的两小时按摩应该让你感到放松，而不是酸痛；如果想要力道轻一点，可以说“bao bao”。油压按摩、足底反射疗法，以及用蒸熏过的泰姜和柠檬草制成的草药热敷包，是其他常见的项目。价格从街边小店的几百泰铢到度假村水疗中心的数千泰铢不等，而街边小店往往手法更好。\n\n价格包含古式温泉浴仪式（如选择则可使用温泉）、深层修复按摩60分钟（如选择）及Pa Puri招牌香薰按摩90分钟（如选择）。不包含食物及饮料，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "古式温泉浴仪式（如选择则可使用温泉）",
+   "深层修复按摩60分钟（如选择）",
+   "Pa Puri招牌香薰按摩90分钟（如选择）"
+  ],
+  "notIncluded": [
+   "食物及饮料"
+  ]
+ },
  "evening-tour-with-wat-arun-wat-pho-and-tuk-tuk-ride": {
   "title": "黄昏之旅：郑王庙、卧佛寺及嘟嘟车骑行",
   "metaTitle": "黄昏之旅：郑王庙、卧佛寺及嘟嘟车骑行",
@@ -18908,6 +20779,33 @@ export const ZH_TOURS: Record<string, TourT> = {
    "现场音乐"
   ],
   "notIncluded": []
+ },
+ "the-planet-sunset-dinner-cruise-on-chao-phraya-river-in-bangkok": {
+  "title": "曼谷The Planet昭披耶河日落晚餐游船",
+  "metaTitle": "曼谷The Planet昭披耶河日落晚餐游船",
+  "shortDescription": "1.5小时的Bangkok游览，含Sightseeing cruise及Chao Phraya River and River City Bangkok。运营商：OTO TRIP SERVICE CO., LTD，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1.5小时的Bangkok体验，围绕Sightseeing cruise及Chao Phraya River and River City Bangkok展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含登船时提供迎宾饮品（咖啡、茶或水）、泰式及国际自助晚餐，含海鲜、三文鱼生鱼片、牛排及多种由专业厨师制作的热菜、沙拉和甜点及全程现场音乐表演，提升用餐体验。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "登船时提供迎宾饮品（咖啡、茶或水）",
+   "泰式及国际自助晚餐，含海鲜、三文鱼生鱼片、牛排及多种由专业厨师制作的热菜、沙拉和甜点",
+   "全程现场音乐表演，提升用餐体验"
+  ],
+  "notIncluded": []
+ },
+ "bangkok-private-half-day-discovery-tour-by-local-operator": {
+  "title": "曼谷半日私人探索之旅（当地运营商提供）",
+  "metaTitle": "曼谷半日私人探索之旅（当地运营商提供）",
+  "shortDescription": "5小时的Bangkok游览，含郑王庙门票费用、卧佛寺门票费用及金佛寺门票费用。运营商：MUYA TOURS AND TRAVEL，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含郑王庙门票费用、卧佛寺门票费用及金佛寺门票费用。不包含其他个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Athenee Tower and Bangkok提供接送服务；具体地点和时间将在预订确认后与MUYA TOURS AND TRAVEL协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "郑王庙门票费用",
+   "卧佛寺门票费用",
+   "金佛寺门票费用"
+  ],
+  "notIncluded": [
+   "其他个人花费",
+   "小费"
+  ]
  },
  "atv-adventure-with-tuk-tuk-transfer-and-lunch-in-bangkok": {
   "title": "曼谷越野车探险含嘟嘟车接送及午餐",
@@ -18954,6 +20852,34 @@ export const ZH_TOURS: Record<string, TourT> = {
    "其他个人花费"
   ]
  },
+ "carnival-cruise-on-the-chao-phraya-river-with-beer-in-bangkok": {
+  "title": "曼谷昭披耶河嘉年华游船含啤酒",
+  "metaTitle": "曼谷昭披耶河嘉年华游船含啤酒",
+  "shortDescription": "2小时的Bangkok游览，含Sightseeing cruise及Chao Phraya River and Rama VIII Bridge。运营商：OTO TRIP SERVICE CO., LTD，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Bangkok体验，围绕Sightseeing cruise及Chao Phraya River and Rama VIII Bridge展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含欣赏精彩的男模及歌舞表演，这是本次游船的招牌亮点，并配有专业歌手现场演唱、泰式及国际自助晚餐，含海鲜、三文鱼生鱼片及多种由专业厨师制作的热菜、沙拉和甜点及低层空调房内无限量自助生啤。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nAsiatique The Riverfront.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "欣赏精彩的男模及歌舞表演，这是本次游船的招牌亮点，并配有专业歌手现场演唱",
+   "泰式及国际自助晚餐，含海鲜、三文鱼生鱼片及多种由专业厨师制作的热菜、沙拉和甜点",
+   "低层空调房内无限量自助生啤"
+  ],
+  "notIncluded": []
+ },
+ "opulence-luxury-buffet-dinner-cruise-with-live-band-in-bangkok": {
+  "title": "曼谷Opulence豪华自助晚餐游船含现场乐队",
+  "metaTitle": "曼谷Opulence豪华自助晚餐游船含现场乐队",
+  "shortDescription": "2小时的Bangkok游览，含Wat Arun及Rama VIII Bridge and Grand Palace Bangkok。运营商：OTO TRIP SERVICE CO., LTD，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Bangkok体验，围绕Wat Arun及Rama VIII Bridge and Grand Palace Bangkok展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含游船、工作人员、自助晚餐及甜点及现场音乐及表演。不包含可付费购买软饮及酒类饮品及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nIcon Siam Pier 2.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "游船",
+   "工作人员",
+   "自助晚餐及甜点",
+   "现场音乐及表演"
+  ],
+  "notIncluded": [
+   "可付费购买软饮及酒类饮品",
+   "小费"
+  ]
+ },
  "opulence-luxury-dinner-cruise-with-hotel-transfer-in-bangkok": {
   "title": "曼谷Opulence豪华晚餐游船含酒店接送",
   "metaTitle": "曼谷Opulence豪华晚餐游船含酒店接送",
@@ -18997,6 +20923,64 @@ export const ZH_TOURS: Record<string, TourT> = {
    "三攀寺捐款"
   ]
  },
+ "ayutthaya-unesco-temples-giant-buddha-and-boat-ride": {
+  "title": "大城府联合国教科文组织寺庙、大佛及游船",
+  "metaTitle": "大城府联合国教科文组织寺庙、大佛及游船",
+  "shortDescription": "8小时的Bangkok游览，含参观大城府三大名寺：柴瓦塔那兰寺、玛哈泰寺及帕南初寺。运营商：Lampoo Ocean Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n大城（阿瑜陀耶）曾是暹罗的首都，长达417年，直到1767年被缅甸军队攻陷。它的遗迹位于曼谷以北80公里处，是一处联合国教科文组织世界遗产，砖造佛塔和无头佛像散布在河中的一座岛上。Wat Mahathat菩提树根中嵌着的佛头是每个人都慕名而来的标志性景象，礼节上应蹲下，让自己的头低于佛头。河岸边的Wat Chaiwatthanaram保存最为完好，夜间会点灯照明。11:00后天气会变得酷热，提早出发并在各寺庙间使用自行车或嘟嘟车的行程，比步行的行程能看到更多景点。\n\n价格包含参观大城府三大名寺：柴瓦塔那兰寺、玛哈泰寺及帕南初寺。不包含个人捐款及可选佛教供奉套装及可选河道游船体验，每人250泰铢（现场支付，约35至45分钟，视水路交通情况而定，不含于无游船套餐），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Bangkok提供酒店接送。Lampoo Ocean Travel将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "参观大城府三大名寺：柴瓦塔那兰寺、玛哈泰寺及帕南初寺"
+  ],
+  "notIncluded": [
+   "个人捐款及可选佛教供奉套装",
+   "可选河道游船体验，每人250泰铢（现场支付，约35至45分钟，视水路交通情况而定，不含于无游船套餐）"
+  ]
+ },
+ "theluxurywhite-and-whiteorchid-dinner-cruise-free-beer-in-bangkok": {
+  "title": "曼谷TheLuxuryWhite及WhiteOrchid晚餐游船含免费啤酒",
+  "metaTitle": "曼谷TheLuxuryWhite及WhiteOrchid晚餐游船含免费啤酒",
+  "shortDescription": "2小时的Bangkok游览，含Asiatique The RiverfrontSightseeing cruise and Sightseeing cruise。运营商：Bangkok Charm Tour Co.,LTD.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Bangkok体验，围绕Asiatique The RiverfrontSightseeing cruise and Sightseeing cruise展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含全程国际及海鲜自助餐游船、全程无限畅饮啤酒及仅豪华白色游船提供无限畅饮软饮。不包含酒店接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "全程国际及海鲜自助餐游船",
+   "全程无限畅饮啤酒",
+   "仅豪华白色游船提供无限畅饮软饮"
+  ],
+  "notIncluded": [
+   "酒店接送"
+  ]
+ },
+ "baiyoke-sky-lunch-buffet-82nd-floor-crystal-grill-in-bangkok": {
+  "title": "曼谷百约克天空82楼水晶烧烤自助午餐",
+  "metaTitle": "曼谷百约克天空82楼水晶烧烤自助午餐",
+  "shortDescription": "2小时的Bangkok游览，含自助午餐，提供多种海鲜及其他菜肴、77楼观景台门票及84楼旋转屋顶观景台门票。运营商：Baiyoke Sky Hotel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含自助午餐，提供多种海鲜及其他菜肴、77楼观景台门票及84楼旋转屋顶观景台门票。不包含酒精饮料，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "自助午餐，提供多种海鲜及其他菜肴",
+   "77楼观景台门票",
+   "84楼旋转屋顶观景台门票"
+  ],
+  "notIncluded": [
+   "酒精饮料"
+  ]
+ },
+ "monkey-lopburi-and-ayutthaya-day-trip": {
+  "title": "华富里猴子及大城府一日游",
+  "metaTitle": "华富里猴子及大城府一日游",
+  "shortDescription": "10小时的Bangkok游览，含英语导游、集合地点接送及空调车辆。运营商：CanalTour x ExploreSiam，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场10小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含英语导游、集合地点接送及空调车辆。不包含餐食、帕西桑佩寺门票每人80.00泰铢、帕朗三育塔门票每人80.00泰铢及柴也差蒙空寺门票每人40.00泰铢，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Silom MRT Station及Starbucks and Bangkok提供接送服务；具体地点和时间将在预订确认后与CanalTour x ExploreSiam协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "英语导游",
+   "集合地点接送",
+   "空调车辆"
+  ],
+  "notIncluded": [
+   "餐食",
+   "帕西桑佩寺门票每人80.00泰铢",
+   "帕朗三育塔门票每人80.00泰铢",
+   "柴也差蒙空寺门票每人40.00泰铢"
+  ]
+ },
  "guided-tour-in-a-typical-thai-tuk-tuk-in-bangkok": {
   "title": "曼谷典型泰式嘟嘟车向导之旅",
   "metaTitle": "曼谷典型泰式嘟嘟车向导之旅",
@@ -19010,6 +20994,22 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "个人花费"
+  ]
+ },
+ "khao-yai-national-park-day-trip": {
+  "title": "考艾国家公园一日游",
+  "metaTitle": "考艾国家公园一日游",
+  "shortDescription": "11小时的Bangkok游览，含英语导游、空调车辆交通、集合地点接送、一瓶饮用水及考艾国家公园门票每人400.00泰铢。运营商：CanalTour x ExploreSiam，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场11小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含英语导游、空调车辆交通、集合地点接送、一瓶饮用水及考艾国家公园门票每人400.00泰铢。不包含午餐，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Silom MRT Station及Sathon and Starbucks提供接送服务；具体地点和时间将在预订确认后与CanalTour x ExploreSiam协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "英语导游",
+   "空调车辆交通",
+   "集合地点接送",
+   "一瓶饮用水",
+   "考艾国家公园门票每人400.00泰铢"
+  ],
+  "notIncluded": [
+   "午餐"
   ]
  },
  "bangkok-hidden-gems-street-arts-and-golden-buddha-walking-tour-by-local-operator": {
@@ -19040,6 +21040,23 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "考山路、那拉提瓦叻贾林、沙吞路（南北两段）、巴吞旺或Wireless Road沿线酒店接送（除非选择相应选项）",
    "午餐"
+  ]
+ },
+ "city-highlights-and-landmarks-private-walking-tour-in-bangkok": {
+  "title": "曼谷城市亮点及地标私人徒步游览",
+  "metaTitle": "曼谷城市亮点及地标私人徒步游览",
+  "shortDescription": "3小时的Bangkok游览，含Grand Palace Bangkok及Wat Pho and Wat Arun。运营商：Guydeez，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Bangkok体验，围绕Grand Palace Bangkok及Wat Pho and Wat Arun展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、导游、私人游览及协助预订门票。不包含门票、食物及饮料及公共交通，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nBangkok.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "导游",
+   "私人游览",
+   "协助预订门票"
+  ],
+  "notIncluded": [
+   "门票",
+   "食物及饮料",
+   "公共交通"
   ]
  },
  "floating-market-and-ayutthaya-guided-day-tour": {
@@ -19084,6 +21101,37 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费（自愿）"
   ]
  },
+ "temple-and-tuk-tuk-old-town-tour-in-bangkok": {
+  "title": "曼谷寺庙及嘟嘟车老城之旅",
+  "metaTitle": "曼谷寺庙及嘟嘟车老城之旅",
+  "shortDescription": "3小时的Bangkok游览，含Wat Pho及Tuk tuk and Phra Sumen Fort。运营商：Around Bangkok Tours，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Bangkok体验，围绕Wat Pho及Tuk tuk and Phra Sumen Fort展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国大约有40,000座佛教寺庙，各处的礼仪规矩相同：遮住肩膀和膝盖，进入有佛像的建筑前要脱鞋，双脚不可指向佛像或僧侣，女性不可触碰僧侣或直接将物品递交给僧侣。清晨僧侣沿街托钵的布施仪式，是每日的积德活动，并非表演，建议随同懂得规矩的当地人一起参与。清迈和曼谷郊外的寺庙还提供从一天到一个月的禅修课程，以英语授课，费用以布施形式支付。\n\n价格包含当地英语导游、嘟嘟车乘坐及每人一瓶饮用水。不包含卧佛寺门票每人300泰铢（客人可提前支付）及酒店接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "当地英语导游",
+   "嘟嘟车乘坐",
+   "每人一瓶饮用水"
+  ],
+  "notIncluded": [
+   "卧佛寺门票每人300泰铢（客人可提前支付）",
+   "酒店接送"
+  ]
+ },
+ "ayutthaya-heritage-tour-with-sunset-boat-ride": {
+  "title": "大城府古迹之旅含日落游船",
+  "metaTitle": "大城府古迹之旅含日落游船",
+  "shortDescription": "6小时的Bangkok游览，含Bus/coach及Wat Yai Chai Mongkhon and Wat Maha That。运营商：Sun Leisure World Corporation，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6小时的Bangkok体验，围绕Bus/coach及Wat Yai Chai Mongkhon and Wat Maha That展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含柴也差蒙空寺、玛哈泰寺、柴瓦塔那兰寺门票（选择不含门票、零食包和游船的团体英语讲解团不提供此项目）、曼谷往返接送、英语导游及1小时日落游船（选择不含门票、零食包和游船的团体英语讲解团不提供此项目）。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "柴也差蒙空寺、玛哈泰寺、柴瓦塔那兰寺门票（选择不含门票、零食包和游船的团体英语讲解团不提供此项目）",
+   "曼谷往返接送",
+   "英语导游",
+   "1小时日落游船（选择不含门票、零食包和游船的团体英语讲解团不提供此项目）"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
+  ]
+ },
  "grand-palace-and-emerald-buddha-tour": {
   "title": "大皇宫及玉佛之旅",
   "metaTitle": "大皇宫及玉佛之旅",
@@ -19095,6 +21143,62 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "大皇宫及玉佛寺门票费：每人500.00泰铢"
+  ]
+ },
+ "wonderful-pearl-luxury-romantic-dinner-cruise-in-bangkok": {
+  "title": "曼谷Wonderful Pearl豪华浪漫晚餐游船",
+  "metaTitle": "曼谷Wonderful Pearl豪华浪漫晚餐游船",
+  "shortDescription": "2小时的Bangkok游览，含Chao Phraya RiverSightseeing cruise及Chao Phraya River and Wat Arun。运营商：OTO TRIP SERVICE CO., LTD，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Bangkok体验，围绕Chao Phraya RiverSightseeing cruise及Chao Phraya River and Wat Arun展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含国际美食自助餐，精选优质海鲜、三文鱼生鱼片、牛排及泰式、日式、西式菜肴，由专业厨师在现场料理台新鲜烹制、现场娱乐表演，含专业乐队演出及传统泰式舞蹈表演及2小时昭披耶河晚餐游船（07:30 PM至09:30 PM，搭乘豪华Wonderful Pearl游船）。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nRiver City Bangkok.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "国际美食自助餐，精选优质海鲜、三文鱼生鱼片、牛排及泰式、日式、西式菜肴，由专业厨师在现场料理台新鲜烹制",
+   "现场娱乐表演，含专业乐队演出及传统泰式舞蹈表演",
+   "2小时昭披耶河晚餐游船（07:30 PM至09:30 PM，搭乘豪华Wonderful Pearl游船）"
+  ],
+  "notIncluded": []
+ },
+ "lebua-sky-bar-and-china-town-street-food-by-tuk-tuk-in-bangkok": {
+  "title": "曼谷Lebua天空酒吧及唐人街嘟嘟车街头小吃之旅",
+  "metaTitle": "曼谷Lebua天空酒吧及唐人街嘟嘟车街头小吃之旅",
+  "shortDescription": "6小时的Bangkok游览，含英语导游、仅限服务区域内的酒店接送及按行程指定路线的嘟嘟车游览。运营商：Ticket2attraction，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n曼谷唐人街沿耀华力路（Yaowarat Road）延伸，该路建于1891年，白天两侧是金饰店，夜晚则变成小吃摊，人行道上摆满炭烤炉和面条车，著名摊位前排起长队：Phadungdao的烤海鲜、带胡椒味的卷粉guay jub、烤栗子，还有想尝鲜的人可以选择的燕窝和鱼翅。这是亚洲最密集的街头美食区，大约18:00开始热闹起来。曼谷米其林指南自2018年起开始评选街头摊位；在那里吃过的向导知道哪些队排得值得。\n\n价格包含英语导游、仅限服务区域内的酒店接送及按行程指定路线的嘟嘟车游览。不包含个人花费、小费及Le Bua餐厅的餐饮，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Bangkok提供酒店接送。Ticket2attraction将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "英语导游",
+   "仅限服务区域内的酒店接送",
+   "按行程指定路线的嘟嘟车游览"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费",
+   "Le Bua餐厅的餐饮"
+  ]
+ },
+ "bangkok-tuk-tuk-tour-with-hotel-pick-up-and-dinner-by-local-operator": {
+  "title": "曼谷嘟嘟车之旅含酒店接送及晚餐（当地运营商提供）",
+  "metaTitle": "曼谷嘟嘟车之旅含酒店接送及晚餐（当地运营商提供）",
+  "shortDescription": "4小时的Bangkok游览，含Tuk tuk。运营商：Asiatic Adventures Co., Ltd，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Bangkok体验，围绕Tuk tuk展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含街头小吃、接送服务、英语导游及4小时嘟嘟车。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nBangkok.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "街头小吃",
+   "接送服务",
+   "英语导游",
+   "4小时嘟嘟车"
+  ],
+  "notIncluded": []
+ },
+ "baiyoke-observation-deck-and-revolving-point-ticket-in-bangkok": {
+  "title": "曼谷百约克观景台及旋转观景点门票",
+  "metaTitle": "曼谷百约克观景台及旋转观景点门票",
+  "shortDescription": "Bangkok游览，含观景台及室外旋转观景点门票、含83楼屋顶酒吧1杯饮品及税费。运营商：Baiyoke Sky Hotel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含观景台及室外旋转观景点门票、含83楼屋顶酒吧1杯饮品及税费。不包含酒店接送及餐食，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "观景台及室外旋转观景点门票",
+   "含83楼屋顶酒吧1杯饮品",
+   "税费"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "餐食"
   ]
  },
  "kanchanaburi-and-erawan-national-park-day-trip": {
@@ -19157,6 +21261,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "交通"
   ]
  },
+ "baiyoke-sky-dinner-buffet-bangkok-sky-76th-78th": {
+  "title": "曼谷百约克天空76/78楼自助晚餐",
+  "metaTitle": "曼谷百约克天空76/78楼自助晚餐",
+  "shortDescription": "2小时的Bangkok游览，含烤牛排及海鲜自助餐、无限畅饮软饮、77楼观景台使用权及84楼旋转屋顶观景台门票。运营商：Baiyoke Sky Hotel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含烤牛排及海鲜自助餐、无限畅饮软饮、77楼观景台使用权及84楼旋转屋顶观景台门票。不包含酒精饮料，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "烤牛排及海鲜自助餐",
+   "无限畅饮软饮",
+   "77楼观景台使用权",
+   "84楼旋转屋顶观景台门票"
+  ],
+  "notIncluded": [
+   "酒精饮料"
+  ]
+ },
  "khao-yai-3-day-glamping-safari-tent-stay-bangkok": {
   "title": "考艾：3日豪华野奢帐篷探险之旅（曼谷出发）",
   "metaTitle": "考艾：3日豪华野奢帐篷探险之旅（曼谷出发）",
@@ -19164,6 +21283,36 @@ export const ZH_TOURS: Record<string, TourT> = {
   "fullDescription": "这是一场3天的Bangkok体验，围绕Khao Yai National Park展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含入住3天豪华帐篷，配备舒适床铺、冰箱、电视及带座位区的阳台。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nBangkok.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
   "included": [
    "入住3天豪华帐篷，配备舒适床铺、冰箱、电视及带座位区的阳台"
+  ],
+  "notIncluded": []
+ },
+ "grand-palace-wat-pho-wat-arun-sacred-and-local-tour": {
+  "title": "大皇宫、卧佛寺、郑王庙圣地及当地文化之旅",
+  "metaTitle": "大皇宫、卧佛寺、郑王庙圣地及当地文化之旅",
+  "shortDescription": "5小时的Bangkok游览，含River boat及Wat Phra Kaew and Wat Pho。运营商：Bigcountry Experience Co.,Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Bangkok体验，围绕River boat及Wat Phra Kaew and Wat Pho展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含饮用水、旅行保险及英语导游。不包含门票费用、大皇宫门票每人500泰铢、卧佛寺门票300泰铢/人及郑王庙门票每人200泰铢，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nRiver City Bangkok.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "饮用水",
+   "旅行保险",
+   "英语导游"
+  ],
+  "notIncluded": [
+   "门票费用",
+   "大皇宫门票每人500泰铢",
+   "卧佛寺门票300泰铢/人",
+   "郑王庙门票每人200泰铢"
+  ]
+ },
+ "easykart-bangkok-rca-plaza-go-kart-racing-experience-by-local-operator": {
+  "title": "曼谷EasyKart（RCA广场）卡丁车赛车体验（当地运营商提供）",
+  "metaTitle": "曼谷EasyKart（RCA广场）卡丁车赛车体验（当地运营商提供）",
+  "shortDescription": "Bangkok游览，含头盔、卫生帽、如需要可提供赛车服及储物柜。运营商：EasyKart，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含头盔、卫生帽、如需要可提供赛车服及储物柜。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "头盔",
+   "卫生帽",
+   "如需要可提供赛车服",
+   "储物柜"
   ],
   "notIncluded": []
  },
@@ -19205,6 +21354,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "耳机",
    "食物及饮料"
+  ]
+ },
+ "don-wai-market-wat-samphran-and-lotus-caf-tour-in-bangkok": {
+  "title": "曼谷东歪市场、三攀寺及荷花咖啡馆之旅",
+  "metaTitle": "曼谷东歪市场、三攀寺及荷花咖啡馆之旅",
+  "shortDescription": "5小时的Bangkok游览，含Don Wai Floating Market及Wat Don Wai and Wat Sam Phran。运营商：One Asia Corporation，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Bangkok体验，围绕Don Wai Floating Market及Wat Don Wai and Wat Sam Phran展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含交通、旅行保险及Dubua咖啡馆椰子冰淇淋。不包含未注明的餐食及饮品及个人消费（例如纪念品、零食），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "交通",
+   "旅行保险",
+   "Dubua咖啡馆椰子冰淇淋"
+  ],
+  "notIncluded": [
+   "未注明的餐食及饮品",
+   "个人消费（例如纪念品、零食）"
   ]
  },
  "chinatown-food-tour-with-michelin-food-stalls-in-bangkok": {
@@ -19305,6 +21469,22 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "往返该地点的交通",
    "其他个人花费"
+  ]
+ },
+ "bubble-in-the-forest-cafe-food-packages-in-bangkok": {
+  "title": "曼谷森林泡泡咖啡馆餐饮套餐",
+  "metaTitle": "曼谷森林泡泡咖啡馆餐饮套餐",
+  "shortDescription": "1.5小时的Bangkok游览，含美味套餐、绝佳氛围，适合拍摄高质感照片、免费手工皂及无可挑剔的待客服务。运营商：Hungry Hub，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1.5小时的Bangkok体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含美味套餐、绝佳氛围，适合拍摄高质感照片、免费手工皂及无可挑剔的待客服务。不包含小费及交通，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "美味套餐",
+   "绝佳氛围，适合拍摄高质感照片",
+   "免费手工皂",
+   "无可挑剔的待客服务"
+  ],
+  "notIncluded": [
+   "小费",
+   "交通"
   ]
  },
  "dubai-hot-air-balloon-ride-in-vintage-land-rover": {
