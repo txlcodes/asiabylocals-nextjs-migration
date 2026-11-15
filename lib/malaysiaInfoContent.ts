@@ -3023,6 +3023,26 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-sarawak-8-day-tour-worth-it-kuching":
+            return {
+                title: "Is the Sarawak 8-Day Rainforest, Culture & Wildlife Tour Worth It?",
+                seoTitle: "Sarawak 8-Day Tour from Kuching 2026 | Honest Review",
+                description: "An honest look at the Sarawak 8-Day Rainforest, Culture, and Wildlife Tour — the deepest, longest itinerary out of Kuching.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1309544/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This is the longest, most comprehensive Sarawak itinerary available from Kuching, bundling Bako National Park, Permai Rainforest, Bengoh Valley, Batang Ai, and Tanjung Datu National Park into one 8-day trip with homestay accommodation and an Iban community cultural exchange — essentially everything the shorter 2-3 day Kuching tours cover individually, combined into one long trip.", tourCard: { slug: "sarawak-8-day-rainforest-culture-and-wildlife-tour", title: "Sarawak: 8-Day Rainforest, Culture, and Wildlife Tour", description: "The most comprehensive multi-park Sarawak itinerary from Kuching.", price: "From $4084", duration: "8 days", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1309544/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This only makes sense if you have the full 8 days to spend and want everything Sarawak offers in one trip — if you only have 2-3 days, the standalone Bako, Bengoh, or multi-day adventure tours cover the same ground in less time at a much lower price per day." }
+                ],
+                faqs: [
+                    { q: "Is the Sarawak 8-day tour worth it?", a: "Yes if you have the full 8 days and want everything in one trip; shorter standalone tours are better value for less time." },
+                    { q: "What does the Sarawak 8-day tour include?", a: "Bako National Park, Permai Rainforest, Bengoh Valley, Batang Ai, Tanjung Datu National Park, homestay accommodation, and an Iban community cultural exchange." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Sarawak 8-day tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes if you have the full 8 days and want everything in one trip." } },
+                    { "@type": "Question", "name": "What does it include?", "acceptedAnswer": { "@type": "Answer", "text": "Bako, Permai Rainforest, Bengoh Valley, Batang Ai, Tanjung Datu, homestay, and Iban cultural exchange." } }
+                ] },
+            };
+
         default:
             return null;
     }

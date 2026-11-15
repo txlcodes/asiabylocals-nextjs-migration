@@ -235,6 +235,7 @@ export const KOTA_KINABALU_INFO_SLUGS = [
 ];
 
 export const KUCHING_INFO_SLUGS = [
+  'is-sarawak-8-day-tour-worth-it-kuching',
   'best-semenggoh-orangutan-tour-kuching', 'best-bako-national-park-tour-kuching',
   'best-fairy-cave-tour-kuching', 'best-sarawak-cultural-village-tour-kuching',
   'best-sunset-river-cruise-kuching', 'best-bengoh-valley-tour-kuching',

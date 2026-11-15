@@ -487,6 +487,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   }));
 
   const kuchingInfoPages = [
+    'is-sarawak-8-day-tour-worth-it-kuching',
     'best-semenggoh-orangutan-tour-kuching', 'best-bako-national-park-tour-kuching',
     'best-fairy-cave-tour-kuching', 'best-sarawak-cultural-village-tour-kuching',
     'best-sunset-river-cruise-kuching', 'best-bengoh-valley-tour-kuching',
