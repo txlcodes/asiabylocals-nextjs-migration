@@ -117,6 +117,1004 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        case "best-kathmandu-durbar-square-tour-kathmandu":
+            return {
+                title: "Which Is the Best Kathmandu Durbar Square Tour?",
+                seoTitle: "Best Kathmandu Durbar Square Tour 2026 | Honest Comparison",
+                description: "Compare real Kathmandu Durbar Square tours — from a $13 walking tour combined with Monkey Temple to a $98 Thanka art experience and a full royal-museums tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/17379c867a25536f93c25e6c14867f0f0c0ef4bc0b8be712f6bccf364848e60c.png",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Kathmandu Durbar Square is the old royal palace complex in the heart of the city, and most tours pair it with a nearby stop rather than visiting it alone. A guided walking tour from Thamel covering the square's temples and courtyards is the most common starting point.",
+                        tourCard: { slug: "kathmandu-durbar-square-guided-tour-from-thamel", title: "Kathmandu: Durbar Square Guided Tour from Thamel", description: "A guided walking tour of Durbar Square starting from Thamel.", price: "From $33", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9ad71ad10a2bdf1df726d233085cc53e0162627b5308c4e38a1f65990fa7d0a9.jpg" },
+                    },
+                    {
+                        title: "Cheapest: Combined with Monkey Temple",
+                        content: "At $13, this combines a Durbar Square walk with a stop at Swayambhunath (Monkey Temple), the lowest-priced way to see both landmarks.",
+                        tourCard: { slug: "kathmandu-walking-tour-with-monkey-temple-durbar", title: "Kathmandu: Walking Tour with Monkey Temple & Durbar Square", description: "A budget combo walking tour of Durbar Square and Monkey Temple.", price: "From $13", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/17379c867a25536f93c25e6c14867f0f0c0ef4bc0b8be712f6bccf364848e60c.png" },
+                    },
+                    {
+                        title: "Most Popular: Standard Guided Tour",
+                        content: "A straightforward guided tour of the square itself, covering its temples, courtyards, and the former royal palace.",
+                        tourCard: { slug: "kathmandu-durbar-square-guided-tour-from-thamel", title: "Kathmandu: Durbar Square Guided Tour from Thamel", description: "The standard guided tour of Durbar Square.", price: "From $33", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9ad71ad10a2bdf1df726d233085cc53e0162627b5308c4e38a1f65990fa7d0a9.jpg" },
+                    },
+                    {
+                        title: "Best for Independent Sightseeing: Durbar Square Sightseeing",
+                        content: "This version focuses purely on sightseeing at your own pace with a guide on hand, rather than a fixed walking route.",
+                        tourCard: { slug: "kathmandu-durbar-square-sightseeing", title: "Kathmandu Durbar Square Sightseeing", description: "A flexible sightseeing visit to Durbar Square.", price: "From $89", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/32fcb1aa1fecfc1e476db18281ce97c523e6888ba0fb65a058fd7b3abf7b1aaf.jpeg" },
+                    },
+                    {
+                        title: "Best for Culture: + Thanka Art Experience",
+                        content: "This adds a Thanka painting art experience to the square visit, a good pick if you want a hands-on cultural activity alongside the sightseeing.",
+                        tourCard: { slug: "kathmandu-durbar-square-tour-and-thanka-art", title: "Kathmandu: Durbar Square Tour and Thanka Art Experience", description: "Durbar Square combined with a Thanka art experience.", price: "From $98", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a6ee34f18859851839621aed636bc59949a777fa413bf44ba2d379ebf4f3d9ac.jpg" },
+                    },
+                    {
+                        title: "Most Comprehensive: Durbar Squares & Royal Museums",
+                        content: "The widest-reaching version, covering multiple Durbar Squares and their royal museums rather than just the Kathmandu one.",
+                        tourCard: { slug: "kathmandu-durbar-squares-and-royal-museums-guided", title: "Kathmandu Durbar Squares and Royal Museums Guided Tour", description: "A guided tour covering multiple Durbar Squares and royal museums.", price: "From $98", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/18e20635880732edbe1a687229841a01144dadf936e86691c3e242a99f504182.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "A separate entrance ticket is required for foreign visitors at Kathmandu Durbar Square, which some tours include and others don't — check before booking. The square is still an active religious and civic space, so dress modestly and expect some areas to be closed during ceremonies.",
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Kathmandu Durbar Square tour?", a: "A standard guided walking tour suits most visitors; combine it with Monkey Temple for a budget option." },
+                    { q: "Is an entrance ticket needed for Kathmandu Durbar Square?", a: "Yes, foreign visitors need a separate entrance ticket, which some tours include." },
+                    { q: "How long does a Durbar Square tour take?", a: "Most tours run 3-4 hours; combined multi-site tours can run up to 6 hours." },
+                    { q: "Can Durbar Square be combined with other sites?", a: "Yes, Monkey Temple and Thanka art experiences are common add-ons." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Kathmandu Durbar Square tour?", "acceptedAnswer": { "@type": "Answer", "text": "A standard guided walking tour suits most visitors; combine it with Monkey Temple for a budget option." } },
+                        { "@type": "Question", "name": "Is an entrance ticket needed for Kathmandu Durbar Square?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, foreign visitors need a separate entrance ticket, which some tours include." } },
+                        { "@type": "Question", "name": "How long does a Durbar Square tour take?", "acceptedAnswer": { "@type": "Answer", "text": "Most tours run 3-4 hours; combined multi-site tours can run up to 6 hours." } },
+                        { "@type": "Question", "name": "Can Durbar Square be combined with other sites?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, Monkey Temple and Thanka art experiences are common add-ons." } }
+                    ]
+                },
+            };
+        case "best-pashupatinath-boudhanath-tour-kathmandu":
+            return {
+                title: "Which Is the Best Pashupatinath & Boudhanath Tour in Kathmandu?",
+                seoTitle: "Best Pashupatinath & Boudhanath Tour Kathmandu 2026 | Honest Comparison",
+                description: "Compare real Pashupatinath Temple and Boudhanath Stupa tours from Kathmandu — from a $36 guided day visit to evening Aarati cremation ceremony tours.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8c0593362ddf5e644091693aefd6f0082396b15d6c421539f14ef3fa152167b5.jpeg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Pashupatinath, Nepal's most important Hindu temple, and Boudhanath, one of the largest Buddhist stupas in the world, are usually visited together since they're a short drive apart. The main choice is daytime sightseeing versus the evening Aarati ritual, a dramatic fire ceremony held along the Bagmati River.",
+                        tourCard: { slug: "kathmandu-pashupatinath-boudhanath-guided-tour", title: "Kathmandu: Pashupatinath & Boudhanath Guided Tour", description: "A standard guided day tour of both sites.", price: "From $36", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bda11171c983464b583d4e4c5943bebc108ffaabfa3623615b69f16e20363cf9.jpg" },
+                    },
+                    {
+                        title: "Cheapest: Standard Guided Tour",
+                        content: "At $36, this is the lowest-priced way to see both sites together during the day.",
+                        tourCard: { slug: "kathmandu-pashupatinath-boudhanath-guided-tour", title: "Kathmandu: Pashupatinath & Boudhanath Guided Tour", description: "The budget-friendly day tour of both sites.", price: "From $36", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bda11171c983464b583d4e4c5943bebc108ffaabfa3623615b69f16e20363cf9.jpg" },
+                    },
+                    {
+                        title: "Best for the Evening Ritual: Aarati Tour",
+                        content: "This times the visit for the evening Aarati ceremony at Pashupatinath, a candle-and-fire ritual performed daily along the riverbank.",
+                        tourCard: { slug: "kathmandu-temple-evening-tour", title: "Kathmandu: Pashupatinath Temple Evening Aarati Tour (Daily)", description: "An evening tour timed for the daily Aarati ritual.", price: "From $46", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5a7ae2fd4ac81b3b2138b10708ebd75ca030be617cee32a7873d2681551e96de.png" },
+                    },
+                    {
+                        title: "Best Combined Visit: Temple & Stupa Tour",
+                        content: "A fuller version covering both Pashupatinath and Boudhanath in more depth than the basic combo.",
+                        tourCard: { slug: "kathmandu-pashupatinath-temple-boudhanath-stupa", title: "Kathmandu: Pashupatinath Temple & Boudhanath Stupa Tour", description: "A more in-depth tour of both sites.", price: "From $63", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8c0593362ddf5e644091693aefd6f0082396b15d6c421539f14ef3fa152167b5.jpeg" },
+                    },
+                    {
+                        title: "Most Comprehensive: + Art Gallery",
+                        content: "This adds an art gallery stop to the temple and stupa visit, for travellers who want a cultural add-on alongside the religious sites.",
+                        tourCard: { slug: "kathmandu-boudhanath-pashupati-art-gallery-aarati", title: "Kathmandu: Boudhanath, Pashupati, Art Gallery & Aarati Tour", description: "The most complete version, adding an art gallery stop.", price: "From $90", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ada54a421b8ce5c4f2c897c9cdc25d17d23ebbe6b80b4e1c6ceacc5610340ab9.jpeg" },
+                    },
+                    {
+                        title: "Best Full-Day Option: Day Trip Version",
+                        content: "A longer day-trip format for travellers who want to spend more unhurried time at both sites rather than a quick visit.",
+                        tourCard: { slug: "kathmandu-day-trip-pashupatinath-temple", title: "Kathmandu: Day Trip Pashupatinath Temple & Boudhanath Stupa", description: "A full-day version of the temple and stupa visit.", price: "From $104", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ee2d83013a317c6ae73bac31639f7e89037b4b15e00e72788a28c47fb0714561.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Non-Hindus cannot enter the main Pashupatinath temple building itself but can view it from across the river, where cremation ceremonies are also visible — be respectful with photography in this area. Evening Aarati draws large crowds, so arrive early for a good viewing spot.",
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Pashupatinath and Boudhanath tour?", a: "A standard guided day tour suits most visitors; go for the evening version if you want to see the Aarati ritual." },
+                    { q: "Can non-Hindus enter Pashupatinath Temple?", a: "No, the main temple building is restricted to Hindus, but it can be viewed from across the river." },
+                    { q: "What is the Aarati ceremony?", a: "A daily evening fire-and-candle ritual performed along the Bagmati River at Pashupatinath." },
+                    { q: "How far apart are Pashupatinath and Boudhanath?", a: "A short drive apart, which is why almost every tour visits both in one trip." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Pashupatinath and Boudhanath tour?", "acceptedAnswer": { "@type": "Answer", "text": "A standard guided day tour suits most visitors; go for the evening version if you want to see the Aarati ritual." } },
+                        { "@type": "Question", "name": "Can non-Hindus enter Pashupatinath Temple?", "acceptedAnswer": { "@type": "Answer", "text": "No, the main temple building is restricted to Hindus, but it can be viewed from across the river." } },
+                        { "@type": "Question", "name": "What is the Aarati ceremony?", "acceptedAnswer": { "@type": "Answer", "text": "A daily evening fire-and-candle ritual performed along the Bagmati River at Pashupatinath." } },
+                        { "@type": "Question", "name": "How far apart are Pashupatinath and Boudhanath?", "acceptedAnswer": { "@type": "Answer", "text": "A short drive apart, which is why almost every tour visits both in one trip." } }
+                    ]
+                },
+            };
+        case "best-swayambhunath-monkey-temple-tour-kathmandu":
+            return {
+                title: "Which Is the Best Swayambhunath (Monkey Temple) Tour in Kathmandu?",
+                seoTitle: "Best Swayambhunath Monkey Temple Tour 2026 | Honest Comparison",
+                description: "Compare real Swayambhunath (Monkey Temple) tours from Kathmandu — from a $26 walk from Thamel to evening art-gallery visits and dedicated monkey-watching tours.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a98c3832feb8c64d67d8aef0662212a0d9eb43460b5ad6050d3ecea1958a532d.png",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Swayambhunath, nicknamed the Monkey Temple for its resident monkey population, sits on a hilltop overlooking Kathmandu Valley. A guided walk from Thamel is the simplest, most common way to visit, usually combined with some of the surrounding old-town streets.",
+                        tourCard: { slug: "from-thamel-walk-to-swayambhunath-the-monkey", title: "From Thamel: Walk to Swayambhunath, the Monkey Temple", description: "A guided walk from Thamel up to Swayambhunath.", price: "From $26", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a98c3832feb8c64d67d8aef0662212a0d9eb43460b5ad6050d3ecea1958a532d.png" },
+                    },
+                    {
+                        title: "Cheapest: Walk from Thamel",
+                        content: "At $26, this is the lowest-priced way to reach Swayambhunath, walking there directly from Thamel.",
+                        tourCard: { slug: "from-thamel-walk-to-swayambhunath-the-monkey", title: "From Thamel: Walk to Swayambhunath, the Monkey Temple", description: "The budget-friendly walking route to Swayambhunath.", price: "From $26", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a98c3832feb8c64d67d8aef0662212a0d9eb43460b5ad6050d3ecea1958a532d.png" },
+                    },
+                    {
+                        title: "Best Combined Walk: Thamel & Swayambhunath",
+                        content: "This pairs the temple visit with a broader walking tour of Thamel itself, good if you want more of the surrounding neighborhood covered.",
+                        tourCard: { slug: "kathmandu-thamel-swayambhunath-walking-tour-with", title: "Kathmandu: Thamel & Swayambhunath Walking Tour with Guide", description: "A combined walking tour of Thamel and Swayambhunath.", price: "From $39", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f679e5d06b2f99b2c4c41eda700ed31c98801d15b0da225e4514a0dd1047a369.png" },
+                    },
+                    {
+                        title: "Best for Wildlife: Monkey Watching Tour",
+                        content: "This leans into the temple's namesake monkey population with a dedicated monkey-watching focus alongside the usual temple sightseeing.",
+                        tourCard: { slug: "kathmandu-monkey-temple-guided-monkey-watching", title: "Kathmandu: Monkey Temple Guided Monkey Watching Tour", description: "A tour focused on the temple's monkey population.", price: "From $71", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ae218bdeab1482901c06ddf2fc26708e5fdef6569c8cb7cc95f9ea736c6cf196.jpg" },
+                    },
+                    {
+                        title: "Best for Evening Light: Swayambhunath Evening Tour",
+                        content: "Timed for evening, this version pairs the temple visit with an art gallery stop while catching the hilltop at golden hour.",
+                        tourCard: { slug: "kathmandu-swayambhunath-evening-tour-with-art", title: "Kathmandu: Swayambhunath Evening Tour with Art Gallery Visit", description: "An evening temple visit paired with an art gallery.", price: "From $73", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/205e4b8b089408170511899235b954b4c70977a8bbee329836a9410dd095269a.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Climbing the 365 stone steps to the top is the traditional approach and gives the best views, but a road also leads most of the way up if steps aren't an option. Keep food and loose items away from the monkeys, who are used to grabbing from visitors.",
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Swayambhunath tour from Kathmandu?", a: "A guided walk from Thamel suits most visitors; add an evening timing for better light and photos." },
+                    { q: "Why is Swayambhunath called the Monkey Temple?", a: "Because of its large resident population of monkeys around the temple grounds." },
+                    { q: "How do you get to Swayambhunath?", a: "On foot via 365 stone steps, or by road most of the way up for those who prefer not to climb." },
+                    { q: "Is Swayambhunath safe for monkeys and food?", a: "Keep food and loose items secured, as the monkeys are accustomed to taking items from visitors." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Swayambhunath tour from Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "A guided walk from Thamel suits most visitors; add an evening timing for better light and photos." } },
+                        { "@type": "Question", "name": "Why is Swayambhunath called the Monkey Temple?", "acceptedAnswer": { "@type": "Answer", "text": "Because of its large resident population of monkeys around the temple grounds." } },
+                        { "@type": "Question", "name": "How do you get to Swayambhunath?", "acceptedAnswer": { "@type": "Answer", "text": "On foot via 365 stone steps, or by road most of the way up for those who prefer not to climb." } },
+                        { "@type": "Question", "name": "Is Swayambhunath safe for monkeys and food?", "acceptedAnswer": { "@type": "Answer", "text": "Keep food and loose items secured, as the monkeys are accustomed to taking items from visitors." } }
+                    ]
+                },
+            };
+        case "best-bhaktapur-durbar-square-tour-kathmandu":
+            return {
+                title: "Which Is the Best Bhaktapur Durbar Square Tour from Kathmandu?",
+                seoTitle: "Best Bhaktapur Durbar Square Tour 2026 | Honest Comparison",
+                description: "Compare real Bhaktapur day tours from Kathmandu — from a $102 4-hour Durbar Square tour to combos with Nagarkot sunset and Patan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d24f550d178617a749769052211a3e21a02fb1a9faa97cc3dbc93c3fb25384f4.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Bhaktapur's UNESCO-listed Durbar Square is one of the best-preserved medieval city centers in the Kathmandu Valley, known for its wood carvings, pottery squares, and temples. A standalone 4-hour tour is the standard way to see it without adding extra stops.",
+                        tourCard: { slug: "bhaktapur-durbar-square-4-hour-tour", title: "Bhaktapur Durbar Square 4-Hour Tour", description: "A standalone guided tour of Bhaktapur Durbar Square.", price: "From $102", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d24f550d178617a749769052211a3e21a02fb1a9faa97cc3dbc93c3fb25384f4.jpg" },
+                    },
+                    {
+                        title: "Best Value Standalone: 4-Hour Tour",
+                        content: "A focused half-day visit to Bhaktapur's Durbar Square without combining it with other cities.",
+                        tourCard: { slug: "bhaktapur-durbar-square-4-hour-tour", title: "Bhaktapur Durbar Square 4-Hour Tour", description: "The standard standalone Bhaktapur tour.", price: "From $102", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d24f550d178617a749769052211a3e21a02fb1a9faa97cc3dbc93c3fb25384f4.jpg" },
+                    },
+                    {
+                        title: "Best for Sunset: + Nagarkot Combo",
+                        content: "This pairs Bhaktapur with a sunset stop at Nagarkot, good for travellers who want to end the day with mountain views.",
+                        tourCard: { slug: "kathmandu-bhaktapur-durbar-square-nagarkot-sunset", title: "Kathmandu: Bhaktapur Durbar Square & Nagarkot Sunset Tour", description: "Bhaktapur combined with a Nagarkot sunset stop.", price: "From $102", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ae94750f95fec83463d19af5a0511b342ea1bfee84468d98f9fd6f1fd62b5b55.jpeg" },
+                    },
+                    {
+                        title: "Best Combined Heritage Tour: + Patan with Lunch",
+                        content: "This combines Bhaktapur with Patan's Durbar Square and includes lunch, a good way to compare two of the valley's three royal cities in one day.",
+                        tourCard: { slug: "kathmandu-patan-bhaktapur-durbar-square-tour-with", title: "Kathmandu: Patan & Bhaktapur Durbar Square Tour with Lunch", description: "Bhaktapur and Patan combined with lunch included.", price: "From $103", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/64cf9c608f064d9daca4ec8f21b2eb55393562cb85132c40898f89623c5c4b4b.jpeg" },
+                    },
+                    {
+                        title: "Best for Private Groups: Private Patan & Bhaktapur Sightseeing",
+                        content: "This version runs as a private tour rather than a shared group, giving more flexibility on pace and timing across both cities.",
+                        tourCard: { slug: "kathmandu-private-patan-and-bhaktapur-sightseeing", title: "Kathmandu: Private Patan and Bhaktapur Sightseeing Tour", description: "A private version of the Patan and Bhaktapur combo.", price: "From $104", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/606f313f7cebb5abb650f0c131e923d350441be2a1e79c1b4e9ee31c2667eb3f.png" },
+                    },
+                    {
+                        title: "Best for a Quieter Route: + Panauti Walking Tour",
+                        content: "This adds a walk through Panauti, a quieter, less-visited heritage town, to the Bhaktapur visit — a good pick if you want to get away from the more touristed stops.",
+                        tourCard: { slug: "from-kathmandu-bhaktapur-panauti-guided-walking", title: "From Kathmandu, Bhaktapur & Panauti Guided Walking Tour", description: "Bhaktapur combined with a walk through Panauti.", price: "From $13", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/698d9a69555a25bc303546d8485c09d8a236eebb20ad4d7e98417599f18cb30f.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Bhaktapur charges a separate entrance fee for foreign visitors, often higher than Kathmandu or Patan's — check if your tour price includes it. The town is still a living community, so expect to see potters, woodcarvers, and daily life happening right alongside the historic sites.",
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Bhaktapur tour from Kathmandu?", a: "A standalone 4-hour tour suits most visitors; combine with Nagarkot sunset or Patan for a fuller day." },
+                    { q: "Is there an entrance fee for Bhaktapur Durbar Square?", a: "Yes, a separate fee applies for foreign visitors, often higher than at other Durbar Squares." },
+                    { q: "How far is Bhaktapur from Kathmandu?", a: "About a 30-45 minute drive, making it an easy half-day or full-day trip." },
+                    { q: "Can Bhaktapur be combined with other sites?", a: "Yes, Patan and Nagarkot are the most common combinations." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Bhaktapur tour from Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "A standalone 4-hour tour suits most visitors; combine with Nagarkot sunset or Patan for a fuller day." } },
+                        { "@type": "Question", "name": "Is there an entrance fee for Bhaktapur Durbar Square?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a separate fee applies for foreign visitors, often higher than at other Durbar Squares." } },
+                        { "@type": "Question", "name": "How far is Bhaktapur from Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "About a 30-45 minute drive, making it an easy half-day or full-day trip." } },
+                        { "@type": "Question", "name": "Can Bhaktapur be combined with other sites?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, Patan and Nagarkot are the most common combinations." } }
+                    ]
+                },
+            };
+        case "best-patan-durbar-square-tour-kathmandu":
+            return {
+                title: "Which Is the Best Patan Durbar Square Tour from Kathmandu?",
+                seoTitle: "Best Patan Durbar Square Tour 2026 | Honest Comparison",
+                description: "Compare real Patan tours from Kathmandu — from a $29 heritage walking tour with astrology and stories to a Buddhist circuit tour and a heritage pond boating experience.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1786434365/tours/kathmandu/tours/kathmandu_1786434365409_0.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Patan (Lalitpur) is known for its concentration of intricate metal and stone craftsmanship, and its Durbar Square is often considered the most architecturally dense of the valley's three royal squares. A heritage walking tour covering the square's temples and courtyards is the standard way to see it.",
+                        tourCard: { slug: "patan-durbar-square-walking-tour", title: "Patan Heritage Walking Tour: Astrology & Stories", description: "A heritage walking tour of Patan with storytelling and astrology themes.", price: "From $29", duration: "4 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1786434365/tours/kathmandu/tours/kathmandu_1786434365409_0.jpg" },
+                    },
+                    {
+                        title: "Cheapest: Heritage Walking Tour",
+                        content: "At $29, this is the lowest-priced way to explore Patan's Durbar Square with a guide.",
+                        tourCard: { slug: "patan-durbar-square-walking-tour", title: "Patan Heritage Walking Tour: Astrology & Stories", description: "The budget-friendly Patan heritage walk.", price: "From $29", duration: "4 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1786434365/tours/kathmandu/tours/kathmandu_1786434365409_0.jpg" },
+                    },
+                    {
+                        title: "Best for Buddhist Heritage: Buddhist Circuit Tour",
+                        content: "This focuses specifically on Patan's Buddhist sites and monasteries rather than the square's Hindu temples, a different angle on the same city.",
+                        tourCard: { slug: "kathmandu-patan-buddhist-circuit-tour-with-pickup", title: "Kathmandu: Patan Buddhist Circuit Tour with Pickup", description: "A tour focused on Patan's Buddhist heritage sites.", price: "From $93", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/be4b15450c08b168241d547331c283b23ddd223db832e62f7490271a66eb2b60.jpg" },
+                    },
+                    {
+                        title: "Best for a Unique Experience: Bahals, Museum & Pond Boating",
+                        content: "This adds a boating experience on a heritage pond to the usual museum and courtyard (bahal) visits, a genuinely different activity from the standard walking tour.",
+                        tourCard: { slug: "kathmandu-patan-bahals-tour-museum-heritage-pond", title: "Kathmandu: Patan Bahals Tour, Museum & Heritage Pond Boating", description: "Patan's courtyards and museum paired with pond boating.", price: "From $95", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7d645b018b6582475fe3512819349a6cbc047aa45d3e32b10e2d9d51732a34a3.jpg" },
+                    },
+                    {
+                        title: "Best for Hands-On Culture: Thangka Painting Class",
+                        content: "Rather than sightseeing alone, this pairs a Thangka painting class with a local artist, letting you take home a hands-on cultural experience from Patan.",
+                        tourCard: { slug: "thangka-painting-class-with-local-artist-in-patan", title: "Thangka Painting Class with Local Artist in Patan", description: "A hands-on Thangka painting class in Patan.", price: "From $76", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/955acd5b4f0b82e7f6451221cc699bafb695489cd845705bdc05c59b2452b5c8.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Patan's Durbar Square has a dedicated museum inside the old royal palace that's worth the extra entrance fee for its bronze and metalwork collection. The city is a short taxi ride from central Kathmandu, making it easy to combine with a Bhaktapur day trip.",
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Patan Durbar Square tour?", a: "A heritage walking tour suits most visitors; add a Thangka painting class for a hands-on cultural experience." },
+                    { q: "What is Patan known for?", a: "Intricate metal and stone craftsmanship, and one of the valley's three historic royal Durbar Squares." },
+                    { q: "Is the Patan Museum worth visiting?", a: "Yes, it holds a notable bronze and metalwork collection inside the old royal palace." },
+                    { q: "How far is Patan from central Kathmandu?", a: "A short taxi ride, making it easy to combine with other valley day trips." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Patan Durbar Square tour?", "acceptedAnswer": { "@type": "Answer", "text": "A heritage walking tour suits most visitors; add a Thangka painting class for a hands-on cultural experience." } },
+                        { "@type": "Question", "name": "What is Patan known for?", "acceptedAnswer": { "@type": "Answer", "text": "Intricate metal and stone craftsmanship, and one of the valley's three historic royal Durbar Squares." } },
+                        { "@type": "Question", "name": "Is the Patan Museum worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it holds a notable bronze and metalwork collection inside the old royal palace." } },
+                        { "@type": "Question", "name": "How far is Patan from central Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "A short taxi ride, making it easy to combine with other valley day trips." } }
+                    ]
+                },
+            };
+        case "best-nagarkot-sunrise-tour-kathmandu":
+            return {
+                title: "Which Is the Best Nagarkot Sunrise Tour from Kathmandu?",
+                seoTitle: "Best Nagarkot Sunrise Tour Kathmandu 2026 | Honest Comparison",
+                description: "Compare real Nagarkot sunrise tours from Kathmandu — from a $58 standard sunrise trip to combos with Himalayan views and a Changunarayan temple hike.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/64c20c5d1b8f3.jpeg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Nagarkot is one of the best viewpoints near Kathmandu for Himalayan sunrise views on a clear day, sometimes including distant views of Everest. A standard sunrise tour with an early departure and a local guide is the most common way to see it.",
+                        tourCard: { slug: "kathmandu-nagarkot-sunrise-tour-with-local-guide", title: "Kathmandu: Nagarkot Sunrise Tour with Local guide", description: "A standard early-morning sunrise tour to Nagarkot.", price: "From $58", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8af4d57b9315cf66ca8cb9720da97eba3c377f5b1a97dbc52e859378eb4c16d9.jpg" },
+                    },
+                    {
+                        title: "Cheapest: Standard Sunrise Tour",
+                        content: "At $58, this covers the core Nagarkot sunrise experience with a local guide at the lowest price among these options.",
+                        tourCard: { slug: "kathmandu-nagarkot-sunrise-tour-with-local-guide", title: "Kathmandu: Nagarkot Sunrise Tour with Local guide", description: "The budget-friendly Nagarkot sunrise tour.", price: "From $58", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8af4d57b9315cf66ca8cb9720da97eba3c377f5b1a97dbc52e859378eb4c16d9.jpg" },
+                    },
+                    {
+                        title: "Best for Mountain Views: Mt. Everest Himalayas View Tour",
+                        content: "This explicitly frames the trip around spotting Everest and other Himalayan peaks from Nagarkot's viewpoint, weather permitting.",
+                        tourCard: { slug: "kathmandu-nagarkot-sunrise-mt-everest-himalayas", title: "Kathmandu: Nagarkot Sunrise, Mt. Everest Himalayas View Tour", description: "A sunrise tour focused on Himalayan and Everest views.", price: "From $71", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/64c20c5d1b8f3.jpeg" },
+                    },
+                    {
+                        title: "Best Combined Trip: + Hike & Changunarayan Visit",
+                        content: "This adds a hike and a stop at Changunarayan, one of the valley's oldest temples, extending the sunrise trip into a fuller morning outing.",
+                        tourCard: { slug: "from-kathmandu-nagarkot-sunrise-hike", title: "From Kathmandu: Nagarkot Sunrise, Hike & Changunarayan Visit", description: "Nagarkot sunrise combined with a hike and Changunarayan temple.", price: "From $65", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/caf45969853a68759801157c044b89311a2a68119b248d13ed742777ab8e7a8e.jpg" },
+                    },
+                    {
+                        title: "Best for a Longer Day: Himalayas Tour with Changu Hike",
+                        content: "A longer version of the hike-and-temple combo, giving more time at each stop rather than a quick morning trip.",
+                        tourCard: { slug: "kathmandu-nagarkot-sunrise-himalayas-tour-with", title: "Kathmandu: Nagarkot Sunrise Himalayas Tour with Changu Hike", description: "An extended version of the sunrise, hike, and temple combo.", price: "From $73", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8e99b62ad910c0953478e0d4095c1810df5c19838cf7858815bc4670b8f0ee9c.jpg" },
+                    },
+                    {
+                        title: "Best for History: Sunrise + Changunarayan's Oldest Temple",
+                        content: "This frames the hike specifically around reaching Changunarayan, regarded as one of the oldest temples in the Kathmandu Valley.",
+                        tourCard: { slug: "nagarkot-sunrise-hike-to-changunarayan-visit", title: "Nagarkot Sunrise & Hike to Changunarayan Visit Oldest Temple", description: "A sunrise hike ending at the historic Changunarayan temple.", price: "From $80", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5557900b521464a63822e1b51844e8cb400d59ed6baa8c9e196651d51192a561.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Sunrise viewing depends heavily on clear weather, especially in the Himalayan foothills where cloud cover is common outside the dry winter season (roughly October to March). Tours depart very early, often around 4-5am, to reach the viewpoint before sunrise.",
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Nagarkot sunrise tour from Kathmandu?", a: "A standard sunrise tour suits most visitors; add the Changunarayan hike for a fuller morning." },
+                    { q: "Can you see Everest from Nagarkot?", a: "On a clear day, yes, though visibility depends heavily on weather and season." },
+                    { q: "What time do Nagarkot sunrise tours depart?", a: "Typically around 4-5am to reach the viewpoint before sunrise." },
+                    { q: "What is the best season for Nagarkot sunrise views?", a: "Roughly October to March, the dry season with clearer skies." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Nagarkot sunrise tour from Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "A standard sunrise tour suits most visitors; add the Changunarayan hike for a fuller morning." } },
+                        { "@type": "Question", "name": "Can you see Everest from Nagarkot?", "acceptedAnswer": { "@type": "Answer", "text": "On a clear day, yes, though visibility depends heavily on weather and season." } },
+                        { "@type": "Question", "name": "What time do Nagarkot sunrise tours depart?", "acceptedAnswer": { "@type": "Answer", "text": "Typically around 4-5am to reach the viewpoint before sunrise." } },
+                        { "@type": "Question", "name": "What is the best season for Nagarkot sunrise views?", "acceptedAnswer": { "@type": "Answer", "text": "Roughly October to March, the dry season with clearer skies." } }
+                    ]
+                },
+            };
+        case "best-chitwan-jungle-safari-tour-kathmandu":
+            return {
+                title: "Which Is the Best Chitwan Jungle Safari Tour from Kathmandu?",
+                seoTitle: "Best Chitwan Jungle Safari Tour Kathmandu 2026 | Honest Comparison",
+                description: "Compare real Chitwan jungle safari packages from Kathmandu — from a $168 3-day group tour to a private 2-day trip and a 1-night safari with transfers.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a17dad5cfe6f4de9344bc6b5090860e8f14f7db41f9028767612dff4cb36a5c4.jpeg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Chitwan National Park is Nepal's premier wildlife destination, known for one-horned rhinos, and sometimes tigers and elephants, seen via jeep safari, canoe rides, and village walks. A multi-day package including transport, lodging, and safari activities is standard since the park is several hours from Kathmandu.",
+                        tourCard: { slug: "chitwan-jungle-safari-3-days-from-kathmandu-or", title: "Chitwan Jungle Safari 3 Days- From Kathmandu or Pokhara", description: "A standard 3-day jungle safari package including transport.", price: "From $168", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a17dad5cfe6f4de9344bc6b5090860e8f14f7db41f9028767612dff4cb36a5c4.jpeg" },
+                    },
+                    {
+                        title: "Cheapest: Standard 3-Day Safari",
+                        content: "At $168, this is the lowest-priced multi-day safari package including lodging and jungle activities.",
+                        tourCard: { slug: "chitwan-jungle-safari-3-days-from-kathmandu-or", title: "Chitwan Jungle Safari 3 Days- From Kathmandu or Pokhara", description: "The budget-friendly 3-day Chitwan safari.", price: "From $168", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a17dad5cfe6f4de9344bc6b5090860e8f14f7db41f9028767612dff4cb36a5c4.jpeg" },
+                    },
+                    {
+                        title: "Best for Shorter Trips: 1-Night Safari with Transfers",
+                        content: "A more compact version for travellers with less time, still covering the core jungle activities with round-trip transfers included.",
+                        tourCard: { slug: "chitwan-1-night-jungle-safari-with-transfers-from", title: "Chitwan: 1-Night Jungle Safari with Transfers from Kathmandu", description: "A compact 1-night safari with transfers included.", price: "From $202", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1cae98c25b3b03cac81651969f0239011ecda14b3fc736a43a530378edeea13a.jpg" },
+                    },
+                    {
+                        title: "Best for Private Groups: Private 2-Day Safari",
+                        content: "This runs as a private trip rather than a shared group tour, giving more flexibility on pace for the safari activities.",
+                        tourCard: { slug: "from-pokharakathmandu-private-2-day-chitwan", title: "From Pokhara/Kathmandu: Private 2-Day Chitwan Jungle Safari", description: "A private 2-day Chitwan jungle safari.", price: "From $186", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f929744e6ba084eb2e9513899cd49413ded7570f96d6e6fbafc325ec1fdbbf5b.jpg" },
+                    },
+                    {
+                        title: "Budget Transport Only: Tourist Bus Ticket",
+                        content: "For travellers planning their own lodging and safari activities independently, this is just the tourist bus transfer to Chitwan.",
+                        tourCard: { slug: "tourist-bus-ticket-kathmandu-to-chitwan", title: "Tourist Bus Ticket Kathmandu to Chitwan", description: "A standalone bus ticket to Chitwan for independent travellers.", price: "From $23", duration: "11 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/52b234cf57b9e9d3.jpeg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Rhino sightings are fairly reliable in Chitwan, but tiger sightings are rare and not guaranteed on any package. The overland journey from Kathmandu takes 5-7 hours by bus, so factor that into how many days you actually get at the park itself.",
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Chitwan jungle safari tour from Kathmandu?", a: "A standard 3-day package suits most visitors; go private for more flexibility on timing." },
+                    { q: "Are rhino sightings guaranteed at Chitwan?", a: "Not guaranteed, but fairly reliable; tiger sightings are much rarer." },
+                    { q: "How long does it take to get from Kathmandu to Chitwan?", a: "About 5-7 hours by bus overland." },
+                    { q: "What's the cheapest way to visit Chitwan from Kathmandu?", a: "A standalone tourist bus ticket if you're arranging lodging and safari activities separately." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Chitwan jungle safari tour from Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "A standard 3-day package suits most visitors; go private for more flexibility on timing." } },
+                        { "@type": "Question", "name": "Are rhino sightings guaranteed at Chitwan?", "acceptedAnswer": { "@type": "Answer", "text": "Not guaranteed, but fairly reliable; tiger sightings are much rarer." } },
+                        { "@type": "Question", "name": "How long does it take to get from Kathmandu to Chitwan?", "acceptedAnswer": { "@type": "Answer", "text": "About 5-7 hours by bus overland." } },
+                        { "@type": "Question", "name": "What's the cheapest way to visit Chitwan from Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "A standalone tourist bus ticket if you're arranging lodging and safari activities separately." } }
+                    ]
+                },
+            };
+        case "best-paragliding-tour-kathmandu":
+            return {
+                title: "Which Is the Best Paragliding Tour in Kathmandu?",
+                seoTitle: "Best Paragliding Tour Kathmandu 2026 | Honest Comparison",
+                description: "Compare real tandem paragliding tours from Kathmandu — from a $110 Chandragiri flight to valley-view flights with hotel transfers and a combo with the Monkey Temple and cable car.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/db39b42e558d5039fd4064131d3285671db6c09d0b25b429df1ee5d55e71c416.jpeg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Paragliding near Kathmandu typically launches from Chandragiri Hill, giving views over the Kathmandu Valley rather than the high-Himalaya views associated with Pokhara's paragliding. A standard tandem flight with a certified pilot is the default option.",
+                        tourCard: { slug: "paragliding-at-chandragiri-guided-tour", title: "Kathmandu: Tandem Paragliding with Valley Views", description: "A standard tandem paragliding flight over Kathmandu Valley.", price: "From $110", duration: "4 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1781508597/tours/kathmandu/tours/kathmandu_1781508596172_0.jpg" },
+                    },
+                    {
+                        title: "Cheapest: Valley Paragliding with Transfer",
+                        content: "This includes hotel transfer at the lowest price point among the options here.",
+                        tourCard: { slug: "kathmandu-valley-paragliding-experience-with", title: "Kathmandu Valley: Paragliding Experience with Transfer", description: "A paragliding flight with hotel transfer included.", price: "From $142", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0f98d0c557857d4ce65e1d5c3cdc5652b3fb197614f91f2550f02c3b8bbd4d78.jpeg" },
+                    },
+                    {
+                        title: "Most Popular: Tandem Paragliding with Valley Views",
+                        content: "The standard tandem flight option, giving sweeping views over the Kathmandu Valley from Chandragiri.",
+                        tourCard: { slug: "kathmandu-tandem-paragliding-with-valley-views", title: "Kathmandu: Tandem Paragliding with Valley Views", description: "The most commonly booked tandem flight.", price: "From $159", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/db39b42e558d5039fd4064131d3285671db6c09d0b25b429df1ee5d55e71c416.jpeg" },
+                    },
+                    {
+                        title: "Best for a Quick Flight: Himalayan Views & Hotel Transfers",
+                        content: "A shorter flight window for travellers who want the experience without dedicating a half-day to it.",
+                        tourCard: { slug: "kathmandu-paragliding-himalayan-views-hotel", title: "Kathmandu: Paragliding, Himalayan Views & Hotel Transfers", description: "A shorter paragliding flight with hotel transfers.", price: "From $182", duration: "30 minutes", image: "" },
+                    },
+                    {
+                        title: "Best for a Fuller Day: Chandragiri to Chitlang Flight",
+                        content: "This extends the flight route toward Chitlang village, covering more ground than the standard Chandragiri loop.",
+                        tourCard: { slug: "kathmanduchandragiri-himalayan-paragliding-to", title: "Kathmandu/Chandragiri: Himalayan Paragliding to Chitlang", description: "An extended paragliding route toward Chitlang village.", price: "From $224", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/07767d6d5cfbee88ae7c3ec55026bcd32cfb71bc79f6ed31bdeefa280c2769b0.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Paragliding is weather-dependent and can be cancelled or rescheduled on short notice due to wind conditions, so avoid booking it for your last day in Kathmandu. No prior experience is needed since you fly tandem with a certified pilot in control.",
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best paragliding tour in Kathmandu?", a: "A standard tandem flight from Chandragiri suits most visitors; add transfers for convenience." },
+                    { q: "Do I need experience to paraglide in Kathmandu?", a: "No, tandem flights are flown with a certified pilot in control." },
+                    { q: "Can weather cancel a paragliding flight?", a: "Yes, wind conditions can cause cancellations or rescheduling on short notice." },
+                    { q: "Where does Kathmandu paragliding launch from?", a: "Most flights launch from Chandragiri Hill, giving views over the Kathmandu Valley." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best paragliding tour in Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "A standard tandem flight from Chandragiri suits most visitors; add transfers for convenience." } },
+                        { "@type": "Question", "name": "Do I need experience to paraglide in Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "No, tandem flights are flown with a certified pilot in control." } },
+                        { "@type": "Question", "name": "Can weather cancel a paragliding flight?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, wind conditions can cause cancellations or rescheduling on short notice." } },
+                        { "@type": "Question", "name": "Where does Kathmandu paragliding launch from?", "acceptedAnswer": { "@type": "Answer", "text": "Most flights launch from Chandragiri Hill, giving views over the Kathmandu Valley." } }
+                    ]
+                },
+            };
+        case "best-river-rafting-tour-kathmandu":
+            return {
+                title: "Which Is the Best River Rafting Tour from Kathmandu?",
+                seoTitle: "Best River Rafting Tour Kathmandu 2026 | Honest Comparison",
+                description: "Compare real river rafting day trips from Kathmandu — from a $71 Trisuli River trip with lunch to a beginner-friendly adventure and Bhotekoshi's more intense rapids.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e29023b91ff7e708321e64a7c9a5705600d3f0e0b96b7f3ec58eab1d869e088e.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "The Trisuli River is the standard, most accessible rafting destination near Kathmandu, with grade 2-3 rapids suitable for most skill levels, while the Bhotekoshi River offers a more intense ride for experienced rafters. A Trisuli day trip with lunch is the most common choice.",
+                        tourCard: { slug: "kathmandu-trisuli-river-rafting-day-trip-with", title: "Kathmandu: Trisuli River Rafting Day Trip with Lunch", description: "A standard day trip rafting the Trisuli River with lunch.", price: "From $71", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e29023b91ff7e708321e64a7c9a5705600d3f0e0b96b7f3ec58eab1d869e088e.jpg" },
+                    },
+                    {
+                        title: "Cheapest: Trisuli Day Trip with Lunch",
+                        content: "At $71, this is the lowest-priced rafting day trip, covering the Trisuli's grade 2-3 rapids with lunch included.",
+                        tourCard: { slug: "kathmandu-trisuli-river-rafting-day-trip-with", title: "Kathmandu: Trisuli River Rafting Day Trip with Lunch", description: "The budget-friendly Trisuli rafting day trip.", price: "From $71", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e29023b91ff7e708321e64a7c9a5705600d3f0e0b96b7f3ec58eab1d869e088e.jpg" },
+                    },
+                    {
+                        title: "Best for Beginners: Beginner-Friendly Rafting Adventure",
+                        content: "This is explicitly positioned for first-time rafters, with gentler sections and more guidance than a standard trip.",
+                        tourCard: { slug: "beginner-friendly-rafting-adventure-on-the", title: "Beginner-Friendly Rafting Adventure on the Trishuli River", description: "A rafting trip designed for first-timers.", price: "From $115", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a8b082703b95dd3b31cf0f1d60e77ebecdc2c75f9ca499f1e047f324bdb00514.jpg" },
+                    },
+                    {
+                        title: "Best for Comfort: + Private Car",
+                        content: "This includes private car transport rather than a shared vehicle, a worthwhile upgrade if you'd rather not share the ride with a larger group.",
+                        tourCard: { slug: "kathmandu-trishuli-river-rafting-with-lunch-by", title: "Kathmandu: Trishuli River Rafting with Lunch by Private Car", description: "Trisuli rafting with private car transport and lunch.", price: "From $233", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/38486c689e857b5769280ebed328aaa477206c9d5c947d3c84ff47456ff0425e.jpg" },
+                    },
+                    {
+                        title: "Best for Experienced Rafters: Bhotekoshi River Rafting",
+                        content: "The Bhotekoshi has more technical, intense rapids than the Trisuli, making it the pick for rafters who want a bigger adrenaline hit.",
+                        tourCard: { slug: "kathmandu-bhotekoshi-river-rafting-day-trip-with", title: "Kathmandu: Bhotekoshi River Rafting Day Trip with Meals", description: "A more intense rafting day trip on the Bhotekoshi River.", price: "From $234", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0ed52e9fbc5e14461790c6d11d86ba9aa496ce4cf81cf08fa44c337b73f920b9.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Rafting season runs roughly September to early December and March to May, outside the monsoon when rivers can be too high or dangerous. All trips include safety gear and a trained guide, but check whether your trip includes a change of clothes or towel for after.",
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best river rafting tour from Kathmandu?", a: "A standard Trisuli day trip suits most visitors; go for Bhotekoshi if you want more intense rapids." },
+                    { q: "Is Trisuli River rafting suitable for beginners?", a: "Yes, it has grade 2-3 rapids suitable for most skill levels, including dedicated beginner-friendly trips." },
+                    { q: "What's the difference between Trisuli and Bhotekoshi rafting?", a: "Trisuli is gentler and more accessible; Bhotekoshi has more technical, intense rapids." },
+                    { q: "When is the best season for rafting near Kathmandu?", a: "Roughly September to early December and March to May, outside the monsoon." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best river rafting tour from Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "A standard Trisuli day trip suits most visitors; go for Bhotekoshi if you want more intense rapids." } },
+                        { "@type": "Question", "name": "Is Trisuli River rafting suitable for beginners?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it has grade 2-3 rapids suitable for most skill levels, including dedicated beginner-friendly trips." } },
+                        { "@type": "Question", "name": "What's the difference between Trisuli and Bhotekoshi rafting?", "acceptedAnswer": { "@type": "Answer", "text": "Trisuli is gentler and more accessible; Bhotekoshi has more technical, intense rapids." } },
+                        { "@type": "Question", "name": "When is the best season for rafting near Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "Roughly September to early December and March to May, outside the monsoon." } }
+                    ]
+                },
+            };
+        case "best-annapurna-base-camp-trek-kathmandu":
+            return {
+                title: "Which Is the Best Annapurna Base Camp Trek from Kathmandu?",
+                seoTitle: "Best Annapurna Base Camp Trek Kathmandu 2026 | Honest Comparison",
+                description: "Compare real Annapurna Base Camp trek itineraries bookable from Kathmandu — from a 5-day standard trek to a 7-day version via Poon Hill with permits included.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/25294734c644805fdce9b63ee7c775da1257335b32a55e7ae334bf4afcbf10d4.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Annapurna Base Camp treks actually start and end from Pokhara, but are commonly booked and bundled from Kathmandu with transport included. A standard 5-day trek is the most common length, with longer 7-day versions adding the Poon Hill sunrise viewpoint.",
+                        tourCard: { slug: "from-kathmandu-7-day-annapurna-base-camp-trek", title: "From Kathmandu: 7-Day Annapurna Base Camp Trek with Permits", description: "A 7-day ABC trek with permits included, bookable from Kathmandu.", price: "From $98", duration: "7 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/25294734c644805fdce9b63ee7c775da1257335b32a55e7ae334bf4afcbf10d4.jpg" },
+                    },
+                    {
+                        title: "Cheapest: 7-Day Trek with Permits",
+                        content: "At $98, this is the lowest-priced option here, bundling permits into the price for a 7-day itinerary.",
+                        tourCard: { slug: "from-kathmandu-7-day-annapurna-base-camp-trek", title: "From Kathmandu: 7-Day Annapurna Base Camp Trek with Permits", description: "The budget-friendly 7-day ABC trek.", price: "From $98", duration: "7 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/25294734c644805fdce9b63ee7c775da1257335b32a55e7ae334bf4afcbf10d4.jpg" },
+                    },
+                    {
+                        title: "Best Standard Length: 5-Day Trek",
+                        content: "The most common trek length, reaching base camp and back without the extra Poon Hill detour.",
+                        tourCard: { slug: "from-pokharakathmandu-5-day-trek-to-annapurna", title: "From Pokhara/Kathmandu: 5-Day Trek to Annapurna Base Camp", description: "A standard 5-day Annapurna Base Camp trek.", price: "From $104", duration: "5 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9bf0e54017eb56f4ece1d0d4d5562980bb3c1d6700cecd80a9bc03c78c57613c.jpg" },
+                    },
+                    {
+                        title: "Best for Limited Time: Easy 5-Day Trek with 1 Flight",
+                        content: "This version uses a short flight to cut down walking time, good for trekkers with limited days who still want to reach base camp.",
+                        tourCard: { slug: "kathmandu-easy-5-day-annapurna-base-camp-trek", title: "Kathmandu: Easy 5-Day Annapurna Base Camp Trek with 1 Flight", description: "A 5-day trek shortened with one internal flight.", price: "From $156", duration: "5 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fdeef8764c0c79b8f9e50ffb8f4a459f81c5cf70459c56cafe4970610932f8fa.jpg" },
+                    },
+                    {
+                        title: "Best All-Inclusive: 5-Day ABC Trek",
+                        content: "A fuller-service 5-day package bundling more inclusions than the base-level options.",
+                        tourCard: { slug: "kathmandupokhara-5-day-annapurna-base-camp-abc", title: "Kathmandu/Pokhara: 5-Day Annapurna Base Camp (ABC) Trek", description: "An all-inclusive 5-day ABC trek.", price: "From $336", duration: "5 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/531a3a8b5a2f8aa4be9ad9faa0466ccaf549f831a945b01db5933a4280fcb36f.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "ABC sits at about 4,130m, lower than Everest Base Camp, making altitude sickness risk somewhat lower but still real — don't skip acclimatization just because the trek is shorter. The best trekking seasons are spring (March-May) and autumn (September-November) for clear mountain views.",
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Annapurna Base Camp trek from Kathmandu?", a: "A standard 5-day trek suits most trekkers; add Poon Hill for sunrise views on a 7-day version." },
+                    { q: "How high is Annapurna Base Camp?", a: "About 4,130 meters, lower than Everest Base Camp." },
+                    { q: "Does the Annapurna Base Camp trek start from Kathmandu or Pokhara?", a: "It actually starts from Pokhara, though many packages bundle transport from Kathmandu." },
+                    { q: "What's the best season for the Annapurna Base Camp trek?", a: "Spring (March-May) and autumn (September-November) for clear mountain views." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Annapurna Base Camp trek from Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "A standard 5-day trek suits most trekkers; add Poon Hill for sunrise views on a 7-day version." } },
+                        { "@type": "Question", "name": "How high is Annapurna Base Camp?", "acceptedAnswer": { "@type": "Answer", "text": "About 4,130 meters, lower than Everest Base Camp." } },
+                        { "@type": "Question", "name": "Does the Annapurna Base Camp trek start from Kathmandu or Pokhara?", "acceptedAnswer": { "@type": "Answer", "text": "It actually starts from Pokhara, though many packages bundle transport from Kathmandu." } },
+                        { "@type": "Question", "name": "What's the best season for the Annapurna Base Camp trek?", "acceptedAnswer": { "@type": "Answer", "text": "Spring (March-May) and autumn (September-November) for clear mountain views." } }
+                    ]
+                },
+            };
+        case "best-langtang-valley-trek-kathmandu":
+            return {
+                title: "Which Is the Best Langtang Valley Trek from Kathmandu?",
+                seoTitle: "Best Langtang Valley Trek Kathmandu 2026 | Honest Comparison",
+                description: "Compare real Langtang Valley trek itineraries from Kathmandu — from a 5-day guided trek to an 8-day and 10-day version with more acclimatization time.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7b68e4227428100e9e5a7e5ba8085ab2c80da722ecd1f9dd47b1f55046a2bbd3.jpeg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Langtang Valley is the closest major trekking region to Kathmandu, reachable by road without an internal flight, making it a popular alternative to Everest or Annapurna treks for travellers with less time. A 5-6 day guided trek is the standard length.",
+                        tourCard: { slug: "5-day-langtang-valley-trek-guide-transport-permit", title: "5-Day Langtang Valley Trek; Guide; Transport; Permit", description: "A standard 5-day Langtang trek with guide, transport, and permits.", price: "From $331", duration: "5 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a6f52eedd9c8db0fea7c4c9f1c44c9fafa9b2b7f0f547f857af86dd1b9033c9a.jpg" },
+                    },
+                    {
+                        title: "Cheapest: 5-Day Trek with Everything Included",
+                        content: "At $331, this bundles guide, transport, and permits into one price for the shortest standard itinerary.",
+                        tourCard: { slug: "5-day-langtang-valley-trek-guide-transport-permit", title: "5-Day Langtang Valley Trek; Guide; Transport; Permit", description: "The budget-friendly 5-day Langtang trek.", price: "From $331", duration: "5 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a6f52eedd9c8db0fea7c4c9f1c44c9fafa9b2b7f0f547f857af86dd1b9033c9a.jpg" },
+                    },
+                    {
+                        title: "Best for First-Timers: 6-Day Trek for First-Timers",
+                        content: "This version is explicitly paced for trekkers without prior high-altitude experience, with a slightly longer schedule for acclimatization.",
+                        tourCard: { slug: "from-kathmandu-6-day-langtang-trek-for-first", title: "From Kathmandu: 6-Day Langtang Trek for First-Timers", description: "A 6-day trek paced for first-time trekkers.", price: "From $449", duration: "6 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a408d43f74f1f9495024e1a13fbbd8465390f26d71c1d439edbcb1241be339ed.jpg" },
+                    },
+                    {
+                        title: "Best All-Inclusive: 6-Day Guided Trek",
+                        content: "A fuller-service version of the standard 6-day itinerary, bundling more inclusions than the base trek.",
+                        tourCard: { slug: "kathmandu-langtang-valley-6-day-all-inclusive", title: "Kathmandu: Langtang Valley 6-Day all inclusive Guided Trek", description: "An all-inclusive 6-day Langtang trek.", price: "From $416", duration: "6 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7b68e4227428100e9e5a7e5ba8085ab2c80da722ecd1f9dd47b1f55046a2bbd3.jpeg" },
+                    },
+                    {
+                        title: "Best for More Views: 8-Day Guided Trek",
+                        content: "This extends the schedule to 8 days, giving more time at higher viewpoints and a less rushed pace than the 5-6 day versions.",
+                        tourCard: { slug: "kathmandu-langtang-valley-trek-8-days-guided-trek", title: "Kathmandu: Langtang Valley Trek 8-Days Guided Trek", description: "An 8-day Langtang trek with more time at altitude.", price: "From $503", duration: "8 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/091f4770cbb6ba467c767931e8837fed9f4747cda8887b96c3074bb21c359c1d.jpeg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Langtang Valley was badly affected by the 2015 earthquake, and the trail passes through villages that have since been rebuilt — your trek directly supports the local economy's recovery. It's one of the few major trekking regions reachable without an internal flight, making it more weather-reliable than Everest or Lukla-dependent routes.",
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Langtang Valley trek from Kathmandu?", a: "A standard 5-6 day trek suits most trekkers; first-timers should pick a version explicitly paced for less experience." },
+                    { q: "Is Langtang Valley trek good for beginners?", a: "Yes, several itineraries are specifically designed and paced for first-time trekkers." },
+                    { q: "How do you get to the Langtang trek starting point?", a: "By road from Kathmandu, with no internal flight needed, unlike Everest or some Annapurna routes." },
+                    { q: "How long does the Langtang Valley trek take?", a: "Most itineraries run 5-8 days, including acclimatization days." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Langtang Valley trek from Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "A standard 5-6 day trek suits most trekkers; first-timers should pick a version explicitly paced for less experience." } },
+                        { "@type": "Question", "name": "Is Langtang Valley trek good for beginners?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, several itineraries are specifically designed and paced for first-time trekkers." } },
+                        { "@type": "Question", "name": "How do you get to the Langtang trek starting point?", "acceptedAnswer": { "@type": "Answer", "text": "By road from Kathmandu, with no internal flight needed, unlike Everest or some Annapurna routes." } },
+                        { "@type": "Question", "name": "How long does the Langtang Valley trek take?", "acceptedAnswer": { "@type": "Answer", "text": "Most itineraries run 5-8 days, including acclimatization days." } }
+                    ]
+                },
+            };
+        case "best-poon-hill-trek-kathmandu":
+            return {
+                title: "Which Is the Best Poon Hill Trek from Kathmandu?",
+                seoTitle: "Best Poon Hill Trek Kathmandu 2026 | Honest Comparison",
+                description: "Compare real Poon Hill trek itineraries bookable from Kathmandu — from a 4-day short trek to a 5-day Ghorepani Poon Hill trek and a 7-day version combined with Annapurna Base Camp.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6bd505ae98cf9356380764bbdfaa3a39e50068070c0ac1f62bf67b68cf9dec3e.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Poon Hill is famous for its sunrise panorama of the Annapurna range and Dhaulagiri, and is one of the shortest, most accessible treks in the Annapurna region. A 4-5 day trek via Ghorepani is the standard version, with longer options combining it with Annapurna Base Camp.",
+                        tourCard: { slug: "from-kathmandu-3-night-4-day-poon-hill-trek", title: "From Kathmandu : 3 Night 4 Day Poon Hill Trek", description: "A short 4-day Poon Hill trek, the most compact option.", price: "From $609", duration: "4 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6bd505ae98cf9356380764bbdfaa3a39e50068070c0ac1f62bf67b68cf9dec3e.jpg" },
+                    },
+                    {
+                        title: "Shortest Option: 4-Day Trek",
+                        content: "At 4 days, this is the most compact version here for travellers with the least time to spare.",
+                        tourCard: { slug: "from-kathmandu-3-night-4-day-poon-hill-trek", title: "From Kathmandu : 3 Night 4 Day Poon Hill Trek", description: "The shortest Poon Hill trek option.", price: "From $609", duration: "4 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6bd505ae98cf9356380764bbdfaa3a39e50068070c0ac1f62bf67b68cf9dec3e.jpg" },
+                    },
+                    {
+                        title: "Most Popular: Ghorepani Poon Hill Trek",
+                        content: "The classic Ghorepani route to Poon Hill, the most commonly booked version of this trek.",
+                        tourCard: { slug: "ghorepani-poon-hill-trek-5-days", title: "Ghorepani Poon Hill Trek – 5 Days", description: "The standard 5-day Ghorepani Poon Hill trek.", price: "From $1429", duration: "5 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2998095f79cfef211ed17ad57e352dc0043da0946f1f6b666398194438b4e0c4.jpg" },
+                    },
+                    {
+                        title: "Best for Culture: Sunrise and Gurung Culture Trek",
+                        content: "This version adds a cultural focus on Gurung villages along the route, not just the sunrise viewpoint itself.",
+                        tourCard: { slug: "kathmandu-poon-hill-sunrise-and-gurung-culture", title: "Kathmandu: Poon Hill Sunrise and Gurung Culture trek", description: "A Poon Hill trek with added focus on Gurung village culture.", price: "From $1411", duration: "7 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5480d02c13d1d7091a883bcae943939e2203ada886093ed33c5561f428a8801b.jpg" },
+                    },
+                    {
+                        title: "Best Combined Trek: + Annapurna Base Camp via Poon Hill",
+                        content: "This combines the Poon Hill sunrise viewpoint with a full trek onward to Annapurna Base Camp, for trekkers who want both in one trip.",
+                        tourCard: { slug: "from-kathmandu-7-day-annapurna-base-camp-trek-via", title: "From Kathmandu: 7-Day Annapurna Base Camp Trek via Poon Hill", description: "Poon Hill combined with a full Annapurna Base Camp trek.", price: "From $632", duration: "7 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/67e73ba425dc82459e99e0b4b6dacf5e6b052882641fd246e9b618484d82c681.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "The sunrise viewpoint at Poon Hill (3,210m) is a short, steep pre-dawn climb from Ghorepani village — most treks schedule this as an early-morning side trip rather than an overnight stay at the summit. This is considered one of the easier treks in the region, suitable for trekkers with moderate fitness and no prior high-altitude experience.",
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Poon Hill trek from Kathmandu?", a: "A standard 4-5 day Ghorepani route suits most trekkers; combine with Annapurna Base Camp for a longer trip." },
+                    { q: "How difficult is the Poon Hill trek?", a: "One of the easier treks in the region, suitable for moderate fitness without prior high-altitude experience." },
+                    { q: "What is special about Poon Hill?", a: "Its sunrise panorama of the Annapurna range and Dhaulagiri from a 3,210m viewpoint." },
+                    { q: "Can Poon Hill be combined with Annapurna Base Camp?", a: "Yes, several 7-day itineraries combine both into one trek." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Poon Hill trek from Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "A standard 4-5 day Ghorepani route suits most trekkers; combine with Annapurna Base Camp for a longer trip." } },
+                        { "@type": "Question", "name": "How difficult is the Poon Hill trek?", "acceptedAnswer": { "@type": "Answer", "text": "One of the easier treks in the region, suitable for moderate fitness without prior high-altitude experience." } },
+                        { "@type": "Question", "name": "What is special about Poon Hill?", "acceptedAnswer": { "@type": "Answer", "text": "Its sunrise panorama of the Annapurna range and Dhaulagiri from a 3,210m viewpoint." } },
+                        { "@type": "Question", "name": "Can Poon Hill be combined with Annapurna Base Camp?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, several 7-day itineraries combine both into one trek." } }
+                    ]
+                },
+            };
+        case "best-mustang-tour-kathmandu":
+            return {
+                title: "Which Is the Best Mustang Tour from Kathmandu?",
+                seoTitle: "Best Mustang Tour Kathmandu 2026 | Honest Comparison",
+                description: "Compare real Upper and Lower Mustang tours from Kathmandu — from a 5-day Lower Mustang trip to multi-day jeep tours and guided motorbike tours of Upper Mustang.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/23622b8b3e6372f535d330cbc6f5c09b4e90b98cdcd172faf7d051612b9d189a.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Mustang is a high-altitude desert region behind the Himalayas, split into the more accessible Lower Mustang and the restricted, permit-only Upper Mustang. A jeep tour is the most common way to cover its dramatic landscapes without a multi-day trek.",
+                        tourCard: { slug: "from-kathmandu-mustang-jeep-tour-on-a-four", title: "From Kathmandu: Mustang Jeep Tour on a Four-Landscape Loop", description: "A jeep tour covering four distinct Mustang landscapes.", price: "From $1757", duration: "4 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/23622b8b3e6372f535d330cbc6f5c09b4e90b98cdcd172faf7d051612b9d189a.jpg" },
+                    },
+                    {
+                        title: "Most Accessible: Lower Mustang Adventure Tour",
+                        content: "Lower Mustang doesn't require the special permit Upper Mustang does, making this the easier, lower-cost entry point into the region.",
+                        tourCard: { slug: "kathmandu-lower-mustang-adventure-tour-with-local", title: "Kathmandu: Lower Mustang Adventure Tour With Local Guide", description: "A guided tour of the more accessible Lower Mustang region.", price: "From $495", duration: "5 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3fb0bdd4dec7f2ac6f0644c020035720b477170f1f509a7f8aa3d43fec6884c9.jpg" },
+                    },
+                    {
+                        title: "Best for Adventure Riders: Upper Mustang Motorbike Tour",
+                        content: "This covers Upper Mustang by guided motorbike rather than jeep or on foot, a genuinely different way to experience the region's terrain.",
+                        tourCard: { slug: "kathmandu-9-day-upper-mustang-guided-motorbike", title: "Kathmandu: 9-Day Upper Mustang Guided Motorbike Tour", description: "A 9-day motorbike tour of Upper Mustang.", price: "From $624", duration: "10 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/58dac42f6a6d29062564f515b5997ecd806e870daf21db3c4577c40ef690a8f8.jpg" },
+                    },
+                    {
+                        title: "Best for Scenery: Four-Landscape Jeep Loop",
+                        content: "This jeep tour is built around covering four distinct landscapes within the Mustang region in one loop.",
+                        tourCard: { slug: "from-kathmandu-mustang-jeep-tour-on-a-four", title: "From Kathmandu: Mustang Jeep Tour on a Four-Landscape Loop", description: "A jeep loop covering four distinct Mustang landscapes.", price: "From $1757", duration: "4 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/23622b8b3e6372f535d330cbc6f5c09b4e90b98cdcd172faf7d051612b9d189a.jpg" },
+                    },
+                    {
+                        title: "Best for Full Upper Mustang Access: 7-Day Private Jeep Tour",
+                        content: "This is a private jeep tour specifically into Upper Mustang, the restricted-permit region with its ancient walled capital, Lo Manthang.",
+                        tourCard: { slug: "from-kathmandu-7-day-upper-mustang-private-jeep", title: "From Kathmandu: 7-Day Upper Mustang Private Jeep Tour", description: "A private 7-day jeep tour into Upper Mustang.", price: "From $2611", duration: "7 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/680a3136f26d6d4c8ffa26a661f3925da551df73e58a4c9a97daab08d172d19d.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Upper Mustang requires a special restricted-area permit (separate from the standard Annapurna Conservation Area permit) that costs significantly more and is usually arranged by the tour operator. The region's high-desert landscape and limited rainfall make it accessible even during Nepal's monsoon season, when many other trekking regions are less favorable.",
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Mustang tour from Kathmandu?", a: "A Lower Mustang tour suits travellers without the special permit; Upper Mustang jeep or motorbike tours cover the restricted region." },
+                    { q: "Do I need a special permit for Mustang?", a: "Upper Mustang requires a restricted-area permit; Lower Mustang does not." },
+                    { q: "Can Mustang be visited during the monsoon?", a: "Yes, its high-desert landscape makes it more weather-reliable than many other trekking regions during monsoon." },
+                    { q: "What is Lo Manthang?", a: "The ancient walled capital of the former Mustang kingdom, reached via Upper Mustang tours." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Mustang tour from Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "A Lower Mustang tour suits travellers without the special permit; Upper Mustang jeep or motorbike tours cover the restricted region." } },
+                        { "@type": "Question", "name": "Do I need a special permit for Mustang?", "acceptedAnswer": { "@type": "Answer", "text": "Upper Mustang requires a restricted-area permit; Lower Mustang does not." } },
+                        { "@type": "Question", "name": "Can Mustang be visited during the monsoon?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, its high-desert landscape makes it more weather-reliable than many other trekking regions during monsoon." } },
+                        { "@type": "Question", "name": "What is Lo Manthang?", "acceptedAnswer": { "@type": "Answer", "text": "The ancient walled capital of the former Mustang kingdom, reached via Upper Mustang tours." } }
+                    ]
+                },
+            };
+        case "best-manaslu-circuit-trek-kathmandu":
+            return {
+                title: "Which Is the Best Manaslu Circuit Trek from Kathmandu?",
+                seoTitle: "Best Manaslu Circuit Trek Kathmandu 2026 | Honest Comparison",
+                description: "Compare real Manaslu Circuit trek itineraries from Kathmandu — from a 12-day trek to private and all-inclusive 13-14 day versions with a licensed guide.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a1d425760ec341b996980ccf047f772e168c47ee487464d58d33a4161087ebfe.jpeg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "The Manaslu Circuit is a quieter, less-crowded alternative to Everest or Annapurna treks, circling the eighth-highest mountain in the world and requiring a restricted-area permit. Itineraries generally run 12-14 days with a licensed guide required by law.",
+                        tourCard: { slug: "manaslu-ciruit-trek-manaslu-trek-12-days-from", title: "Manaslu Ciruit Trek: Manaslu Trek 12 Days from Kathmandu", description: "The shortest standard Manaslu Circuit itinerary.", price: "From $1671", duration: "12 days", image: "" },
+                    },
+                    {
+                        title: "Shortest Option: 12-Day Trek",
+                        content: "At 12 days, this is the most compact version of the full circuit among the options here.",
+                        tourCard: { slug: "manaslu-ciruit-trek-manaslu-trek-12-days-from", title: "Manaslu Ciruit Trek: Manaslu Trek 12 Days from Kathmandu", description: "The shortest Manaslu Circuit trek option.", price: "From $1671", duration: "12 days", image: "" },
+                    },
+                    {
+                        title: "Best Value Standard: 13-Day Licensed Guide Trek",
+                        content: "A standard 13-day circuit with a licensed guide, the legally required format for this restricted region.",
+                        tourCard: { slug: "manaslu-circuit-13-day-licensed-guide", title: "Manaslu Circuit : 13-Day Licensed Guide", description: "A 13-day trek with a legally required licensed guide.", price: "From $428", duration: "14 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6bd2d9b56b795751c33e502e264ea4a4273d770a23973c4ce3d3d3f7c8d934f0.jpg" },
+                    },
+                    {
+                        title: "Best Combined: + Base Camp Trek",
+                        content: "This adds a Manaslu Base Camp extension to the standard circuit, for trekkers who want to get closer to the mountain itself.",
+                        tourCard: { slug: "from-kathmandu-13-day-manaslu-circuit-and-base", title: "From Kathmandu: 13-Day Manaslu Circuit and Base Camp Trek", description: "The circuit extended with a Base Camp visit.", price: "From $702", duration: "13 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a1d425760ec341b996980ccf047f772e168c47ee487464d58d33a4161087ebfe.jpeg" },
+                    },
+                    {
+                        title: "Best for Private Groups: Private 13-Day Trek",
+                        content: "This runs as a private trek rather than joining a group, useful for trekkers who want more flexibility on pace in this remote region.",
+                        tourCard: { slug: "from-kathmandu-private-13-day-manaslu-circuit-trek", title: "From Kathmandu: Private 13-Day Manaslu Circuit Trek", description: "A private version of the 13-day Manaslu Circuit.", price: "From $1287", duration: "13 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/27361329e0d3ecf36aa712a573221a08175db08fd625bfa3861e1f5e614f31bc.jpg" },
+                    },
+                    {
+                        title: "Best All-Inclusive: 14-Day Guided Trek",
+                        content: "The longest, most fully bundled version, giving the most acclimatization time around the circuit's high pass.",
+                        tourCard: { slug: "kathmandu-manaslu-circuit-trek-14-day-guided-tour", title: "Kathmandu: Manaslu Circuit Trek 14-Day Guided Tour", description: "A 14-day all-inclusive version of the circuit.", price: "From $1465", duration: "14 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9e57811e63a0d331692e3e5ce39eb48aad90ccb859006bccaa9dc12d2acd689b.jpeg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "A licensed guide is legally required for the Manaslu Circuit's restricted section, unlike many other Nepal treks where it's optional — factor this into any price comparison. The circuit crosses the Larkya La pass at over 5,100m, making this a serious high-altitude trek that needs proper acclimatization days.",
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Manaslu Circuit trek from Kathmandu?", a: "A standard 13-day trek with a licensed guide suits most trekkers; add the Base Camp extension for a closer mountain view." },
+                    { q: "Is a guide required for the Manaslu Circuit?", a: "Yes, a licensed guide is legally required for this restricted-area trek." },
+                    { q: "How difficult is the Manaslu Circuit trek?", a: "A serious high-altitude trek, crossing the Larkya La pass at over 5,100m." },
+                    { q: "How long does the Manaslu Circuit trek take?", a: "Most itineraries run 12-14 days including acclimatization." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Manaslu Circuit trek from Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "A standard 13-day trek with a licensed guide suits most trekkers; add the Base Camp extension for a closer mountain view." } },
+                        { "@type": "Question", "name": "Is a guide required for the Manaslu Circuit?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a licensed guide is legally required for this restricted-area trek." } },
+                        { "@type": "Question", "name": "How difficult is the Manaslu Circuit trek?", "acceptedAnswer": { "@type": "Answer", "text": "A serious high-altitude trek, crossing the Larkya La pass at over 5,100m." } },
+                        { "@type": "Question", "name": "How long does the Manaslu Circuit trek take?", "acceptedAnswer": { "@type": "Answer", "text": "Most itineraries run 12-14 days including acclimatization." } }
+                    ]
+                },
+            };
+        case "best-nepali-cooking-class-kathmandu":
+            return {
+                title: "Which Is the Best Nepali Cooking Class in Kathmandu?",
+                seoTitle: "Best Nepali Cooking Class Kathmandu 2026 | Honest Comparison",
+                description: "Compare real Nepali cooking classes in Kathmandu — from a $20 Thamel class to a women-led class and a food-and-drink experience with tastings.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7f584a32a9335f2fa8229c8d2b8462ac01f60371e1d3e426e7fbdeb188760df2.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Nepali cooking classes in Kathmandu typically teach momos (dumplings) and dal bhat, the country's staple meal, in small hands-on groups. A standard 3-hour class in Thamel is the most common, accessible option.",
+                        tourCard: { slug: "thamel-cooking-food-tour", title: "Nepali Cooking Class", description: "A standard Nepali cooking class in Thamel.", price: "From $20", duration: "3 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1782454020/tours/kathmandu/tours/kathmandu_1782454020090_0.jpg" },
+                    },
+                    {
+                        title: "Cheapest: Standard Thamel Class",
+                        content: "At $20, this is the lowest-priced cooking class, teaching core Nepali dishes in a hands-on format.",
+                        tourCard: { slug: "thamel-cooking-food-tour", title: "Nepali Cooking Class", description: "The budget-friendly Thamel cooking class.", price: "From $20", duration: "3 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1782454020/tours/kathmandu/tours/kathmandu_1782454020090_0.jpg" },
+                    },
+                    {
+                        title: "Best for a Fuller Menu: Food and Drink Cooking Class",
+                        content: "This expands beyond a single dish to cover a fuller Nepali meal along with traditional drinks.",
+                        tourCard: { slug: "kathmandu-nepali-food-and-drink-cooking-class", title: "Kathmandu: Nepali Food and Drink Cooking Class", description: "A cooking class covering a fuller Nepali meal and drinks.", price: "From $27", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a0763c4c65bf77b9fdc3331934910f4876aa4c23d0a842ac22575598fa3bc7d8.jpg" },
+                    },
+                    {
+                        title: "Best for Authenticity: Local Women-Led Class",
+                        content: "This is run by local women in a home-style setting, a genuinely different format from a tourist-oriented cooking studio.",
+                        tourCard: { slug: "local-women-led-nepali-cooking-class", title: "Local Women Led Nepali Cooking Class", description: "A home-style cooking class led by local women.", price: "From $39", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/828562a370d3d753844592125435c6a1b62f50f4656cd1e4c10b4f8fc16038b6.jpg" },
+                    },
+                    {
+                        title: "Best Overall Food Experience: With Tastings",
+                        content: "This frames the class as a broader food experience, with tastings of multiple dishes rather than cooking just one meal.",
+                        tourCard: { slug: "kathmandu-food-experience-nepali-cooking-class", title: "Kathmandu Food Experience: Nepali Cooking Class With Drinks", description: "A fuller food experience with cooking and tastings.", price: "From $40", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7f584a32a9335f2fa8229c8d2b8462ac01f60371e1d3e426e7fbdeb188760df2.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Most classes accommodate vegetarian preferences easily since dal bhat is naturally plant-based, but confirm with the specific operator if you have other dietary restrictions. These classes work well as a rainy-day activity or an evening addition to a day of sightseeing.",
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Nepali cooking class in Kathmandu?", a: "A standard Thamel class suits most visitors; go for a women-led class for a more authentic, home-style experience." },
+                    { q: "What dishes do Nepali cooking classes typically teach?", a: "Momos (dumplings) and dal bhat, Nepal's staple meal, are the most common." },
+                    { q: "Are Nepali cooking classes vegetarian-friendly?", a: "Yes, dal bhat is naturally plant-based, making most classes easy to adapt for vegetarians." },
+                    { q: "How long does a Nepali cooking class take?", a: "Most run 1.5-3 hours." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Nepali cooking class in Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "A standard Thamel class suits most visitors; go for a women-led class for a more authentic, home-style experience." } },
+                        { "@type": "Question", "name": "What dishes do Nepali cooking classes typically teach?", "acceptedAnswer": { "@type": "Answer", "text": "Momos (dumplings) and dal bhat, Nepal's staple meal, are the most common." } },
+                        { "@type": "Question", "name": "Are Nepali cooking classes vegetarian-friendly?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, dal bhat is naturally plant-based, making most classes easy to adapt for vegetarians." } },
+                        { "@type": "Question", "name": "How long does a Nepali cooking class take?", "acceptedAnswer": { "@type": "Answer", "text": "Most run 1.5-3 hours." } }
+                    ]
+                },
+            };
+        case "best-yoga-meditation-retreat-kathmandu":
+            return {
+                title: "Which Is the Best Yoga and Meditation Retreat in Kathmandu?",
+                seoTitle: "Best Yoga Meditation Retreat Kathmandu 2026 | Honest Comparison",
+                description: "Compare real yoga and meditation experiences in Kathmandu — from a $106 sound healing session to a multi-day Pharping meditation and yoga retreat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a40537b01dd06f71cae2562df25d88064a95ce10435d8c70c14fc19106ce55b0.jpeg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Kathmandu's yoga and meditation offerings range from short single-session experiences combining yoga with Tibetan singing-bowl sound healing, to multi-day retreats outside the city in quieter settings like Pharping. A single combined yoga-and-meditation session is the most accessible starting point.",
+                        tourCard: { slug: "kathmandu-yoga-meditation-and-sound-healing-with", title: "Kathmandu: Yoga, Meditation, and Sound Healing with Pickup", description: "A combined yoga, meditation, and sound healing session.", price: "From $146", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a40537b01dd06f71cae2562df25d88064a95ce10435d8c70c14fc19106ce55b0.jpeg" },
+                    },
+                    {
+                        title: "Cheapest: Singing Bowl Sound Healing with Yoga",
+                        content: "At $106, this pairs a shorter yoga session with Tibetan singing-bowl sound healing, the lowest-priced option here.",
+                        tourCard: { slug: "kathmandu-singing-bowl-sound-healing-session-with", title: "Kathmandu: Singing Bowl Sound Healing Session with Yoga", description: "A yoga session combined with singing bowl sound healing.", price: "From $106", duration: "1.5 hours", image: "" },
+                    },
+                    {
+                        title: "Best Short Session: 1-Hour Yoga & Sound Healing",
+                        content: "A compact format splitting the time evenly between a yoga session and a separate sound healing session.",
+                        tourCard: { slug: "kathmandu-1-hour-yoga-1-hour-sound-healing-session", title: "Kathmandu: 1-Hour Yoga & 1-Hour Sound Healing Session", description: "A split session of yoga and sound healing.", price: "From $129", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4d6c29d2f062faae0a10dff1e36d16d27cddf606528b9b51cf674ea2ab0237b1.jpg" },
+                    },
+                    {
+                        title: "Best for Nature: Yoga & Meditation with Kakani Farm Visit",
+                        content: "This takes the practice out of the city to Kakani, pairing yoga and meditation with a farm visit in a more rural, scenic setting.",
+                        tourCard: { slug: "from-kathmandu-yoga-meditation-with-kakani-farm", title: "From Kathmandu: Yoga & Meditation with Kakani Farm Visit", description: "Yoga and meditation combined with a countryside farm visit.", price: "From $133", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b1eebaec1398ec72182328416c600e7e1117c839962ec713c3acdcbbed1b6332.jpg" },
+                    },
+                    {
+                        title: "Most Comprehensive: 3-Day Pharping Meditation and Yoga Retreat",
+                        content: "The most immersive option here, a multi-day retreat in Pharping, a traditional meditation retreat town outside Kathmandu.",
+                        tourCard: { slug: "kathmandu-3-day-pharping-meditation-and-yoga", title: "Kathmandu: 3-Day Pharping Meditation and Yoga Retreat", description: "A 3-day meditation and yoga retreat in Pharping.", price: "From $455", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bdd9bdd98957ab4d9e4549e11dd77f000bd5eade551975259847d4ebc2204a7b.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "No prior yoga or meditation experience is needed for any of these sessions, which are generally designed for beginners and casual practitioners rather than advanced practice. Pharping, used for the multi-day retreat, is also home to several notable Tibetan Buddhist monasteries worth visiting alongside the retreat itself.",
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best yoga and meditation experience in Kathmandu?", a: "A single combined yoga-and-meditation session suits most visitors; go for the Pharping retreat for a deeper, multi-day experience." },
+                    { q: "Do I need prior yoga experience for these sessions?", a: "No, most are designed for beginners and casual practitioners." },
+                    { q: "What is Pharping known for?", a: "A traditional meditation retreat town outside Kathmandu with several notable Tibetan Buddhist monasteries." },
+                    { q: "What is included in a singing bowl sound healing session?", a: "A guided session using Tibetan singing bowls, often combined with a short yoga practice." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best yoga and meditation experience in Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "A single combined yoga-and-meditation session suits most visitors; go for the Pharping retreat for a deeper, multi-day experience." } },
+                        { "@type": "Question", "name": "Do I need prior yoga experience for these sessions?", "acceptedAnswer": { "@type": "Answer", "text": "No, most are designed for beginners and casual practitioners." } },
+                        { "@type": "Question", "name": "What is Pharping known for?", "acceptedAnswer": { "@type": "Answer", "text": "A traditional meditation retreat town outside Kathmandu with several notable Tibetan Buddhist monasteries." } },
+                        { "@type": "Question", "name": "What is included in a singing bowl sound healing session?", "acceptedAnswer": { "@type": "Answer", "text": "A guided session using Tibetan singing bowls, often combined with a short yoga practice." } }
+                    ]
+                },
+            };
+        case "best-chandragiri-cable-car-tour-kathmandu":
+            return {
+                title: "Which Is the Best Chandragiri Cable Car Tour from Kathmandu?",
+                seoTitle: "Best Chandragiri Cable Car Tour Kathmandu 2026 | Honest Comparison",
+                description: "Compare real Chandragiri Hills cable car tours from Kathmandu — from a $79 valley-and-Everest-views ride to combos with temple visits and the Monkey Temple.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5506c38da47efdf4.jpeg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Chandragiri Hill's cable car is one of the easiest ways to get sweeping views over the Kathmandu Valley, and on clear days, distant Himalayan peaks, without any hiking required. A standard cable car ride up and down is the simplest option.",
+                        tourCard: { slug: "chandragiri-cable-car-breathtaking-valley-and", title: "Chandragiri Cable Car: Breathtaking Valley and Everest Views", description: "A standard Chandragiri cable car ride with valley and Everest views.", price: "From $79", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5506c38da47efdf4.jpeg" },
+                    },
+                    {
+                        title: "Cheapest: Standard Cable Car Ride",
+                        content: "At $79, this is the lowest-priced way to ride the cable car and take in the valley views from the top.",
+                        tourCard: { slug: "chandragiri-cable-car-breathtaking-valley-and", title: "Chandragiri Cable Car: Breathtaking Valley and Everest Views", description: "The budget-friendly Chandragiri cable car ride.", price: "From $79", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5506c38da47efdf4.jpeg" },
+                    },
+                    {
+                        title: "Best Full-Day Option: Chandragiri Hill Day Tour",
+                        content: "A longer full-day version, giving more time to explore the hilltop area and its temple rather than a quick up-and-down ride.",
+                        tourCard: { slug: "chandragiri-hill-cable-car-a-day-tour", title: "Chandragiri Hill Cable Car - A Day Tour", description: "A full-day version of the Chandragiri cable car tour.", price: "From $89", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/44ad869430db7e1412ffc21d253c290712eae2934957b67dacf6c0141b6fbfdb.jpeg" },
+                    },
+                    {
+                        title: "Best for Sightseeing: Chandragiri Hills Sightseeing with Cable Car",
+                        content: "This pairs the cable car ride with broader sightseeing around the hilltop area.",
+                        tourCard: { slug: "kathmandu-chandragiri-hills-sightseeing-with", title: "Kathmandu: Chandragiri Hills Sightseeing with Cable Car", description: "The cable car combined with hilltop sightseeing.", price: "From $98", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ea63434e63d966322ce13f176ccb5c9205e000ffa3e96452f51204797bf48dd4.jpg" },
+                    },
+                    {
+                        title: "Best Half-Day Combo: + Temple Tour",
+                        content: "This adds a temple visit to the cable car ride, a good half-day combo if you want a cultural stop alongside the views.",
+                        tourCard: { slug: "kathmandu-half-day-chandragiri-cable-car-temple", title: "Kathmandu: Half-Day Chandragiri Cable Car & Temple Tour", description: "The cable car combined with a temple visit.", price: "From $111", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f3616218743a837d8925f06241ef4570130cd34e0908cb7bd488fbbe8a758e28.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Everest and other distant peaks are only visible from Chandragiri on clear days, mainly in the dry season from October to March — manage expectations if visiting during the monsoon. The hilltop also has a Bhaleshwor Mahadev temple and viewing decks worth the extra time if you book one of the longer options.",
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Chandragiri cable car tour from Kathmandu?", a: "A standard cable car ride suits most visitors; add a temple visit for a fuller half-day." },
+                    { q: "Can you see Everest from Chandragiri?", a: "On clear days, yes, mainly during the dry season from October to March." },
+                    { q: "How long does the Chandragiri cable car ride take?", a: "The ride itself is short; most tours budget 3-4 hours total including time at the top." },
+                    { q: "Is there a temple at Chandragiri Hill?", a: "Yes, the Bhaleshwor Mahadev temple sits at the hilltop alongside viewing decks." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Chandragiri cable car tour from Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "A standard cable car ride suits most visitors; add a temple visit for a fuller half-day." } },
+                        { "@type": "Question", "name": "Can you see Everest from Chandragiri?", "acceptedAnswer": { "@type": "Answer", "text": "On clear days, yes, mainly during the dry season from October to March." } },
+                        { "@type": "Question", "name": "How long does the Chandragiri cable car ride take?", "acceptedAnswer": { "@type": "Answer", "text": "The ride itself is short; most tours budget 3-4 hours total including time at the top." } },
+                        { "@type": "Question", "name": "Is there a temple at Chandragiri Hill?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the Bhaleshwor Mahadev temple sits at the hilltop alongside viewing decks." } }
+                    ]
+                },
+            };
+        case "best-kathmandu-valley-sightseeing-tour-kathmandu":
+            return {
+                title: "Which Is the Best Kathmandu Valley Sightseeing Tour?",
+                seoTitle: "Best Kathmandu Valley Sightseeing Tour 2026 | Honest Comparison",
+                description: "Compare real full-day Kathmandu Valley sightseeing tours — from a $24 budget bus tour to a UNESCO-sites tour and a private Patan and Bhaktapur combo with lunch.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ce82cf58703d88fbd618122468a4298b73cb91bbce7d62e49c42fa7c67d96d0e.png",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "A Kathmandu Valley sightseeing tour typically bundles several of the valley's UNESCO World Heritage Sites — Durbar Squares, stupas, and temples — into one full day with transport included. A budget bus tour covering multiple sites is the most economical starting point.",
+                        tourCard: { slug: "kathmandu-full-day-budget-bus-tour-of-kathmandu", title: "Kathmandu: Full-Day Budget Bus Tour of Kathmandu Valley", description: "A budget full-day bus tour covering multiple valley sites.", price: "From $24", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9268364a22274dd1fc8c1a1228c531d95aa31ec666a02bb62387e986ffc89a31.jpg" },
+                    },
+                    {
+                        title: "Cheapest: Full-Day Budget Bus Tour",
+                        content: "At $24, this is the lowest-priced way to see multiple valley sites in one day via shared bus transport.",
+                        tourCard: { slug: "kathmandu-full-day-budget-bus-tour-of-kathmandu", title: "Kathmandu: Full-Day Budget Bus Tour of Kathmandu Valley", description: "The budget-friendly full-day valley bus tour.", price: "From $24", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9268364a22274dd1fc8c1a1228c531d95aa31ec666a02bb62387e986ffc89a31.jpg" },
+                    },
+                    {
+                        title: "Best for UNESCO Sites: Told Through UNESCO Sites",
+                        content: "This frames the entire day specifically around the valley's UNESCO World Heritage Sites, a good pick if that's your main interest.",
+                        tourCard: { slug: "kathmandu-the-kathmandu-valley-told-through", title: "Kathmandu: The Kathmandu Valley, Told Through UNESCO Sites", description: "A full-day tour structured around the valley's UNESCO sites.", price: "From $78", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ce82cf58703d88fbd618122468a4298b73cb91bbce7d62e49c42fa7c67d96d0e.png" },
+                    },
+                    {
+                        title: "Best Combined Tour: Patan & Bhaktapur with Lunch",
+                        content: "This combines two of the valley's three royal cities with lunch included, a well-rounded single-day option.",
+                        tourCard: { slug: "kathmandu-valley-patan-bhaktapur-private-tour", title: "Kathmandu Valley: Patan & Bhaktapur Private Tour with Lunch", description: "A private tour of Patan and Bhaktapur with lunch.", price: "From $138", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5bc87724ccd5dc727775894434d329da69f70027a604a2d74ac3ef7a4157afc9.jpg" },
+                    },
+                    {
+                        title: "Best for Flexibility: Private Car and Driver Rental",
+                        content: "Rather than a fixed itinerary, this rents a private car and driver for the day, letting you choose which valley sites to prioritize yourself.",
+                        tourCard: { slug: "kathmandu-valley-private-car-and-driver-rental", title: "Kathmandu Valley: Private Car and Driver Rental", description: "A private car and driver rental for self-directed sightseeing.", price: "From $104", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a563090fa5eedafa83ae9e7f16744783267a1a0a61b6318bb10ccc8f13e3aa5.png" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Entrance fees for individual sites (Durbar Squares, stupas) are usually separate from the tour price since each heritage site charges its own fee — budget for this extra cost regardless of which tour you pick. A private car rental gives the most flexibility but requires you to already know which sites you want to prioritize.",
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Kathmandu Valley sightseeing tour?", a: "A full-day tour covering multiple UNESCO sites suits most visitors; rent a private car if you want full flexibility on the itinerary." },
+                    { q: "Are entrance fees included in Kathmandu Valley tours?", a: "Usually not — individual site entrance fees are typically separate from the tour price." },
+                    { q: "How many UNESCO sites are in the Kathmandu Valley?", a: "Several, including multiple Durbar Squares, Pashupatinath, Boudhanath, and Swayambhunath." },
+                    { q: "Is a private car rental a good option for valley sightseeing?", a: "Yes, if you already know which sites to prioritize and want full flexibility on pace." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Kathmandu Valley sightseeing tour?", "acceptedAnswer": { "@type": "Answer", "text": "A full-day tour covering multiple UNESCO sites suits most visitors; rent a private car if you want full flexibility on the itinerary." } },
+                        { "@type": "Question", "name": "Are entrance fees included in Kathmandu Valley tours?", "acceptedAnswer": { "@type": "Answer", "text": "Usually not — individual site entrance fees are typically separate from the tour price." } },
+                        { "@type": "Question", "name": "How many UNESCO sites are in the Kathmandu Valley?", "acceptedAnswer": { "@type": "Answer", "text": "Several, including multiple Durbar Squares, Pashupatinath, Boudhanath, and Swayambhunath." } },
+                        { "@type": "Question", "name": "Is a private car rental a good option for valley sightseeing?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, if you already know which sites to prioritize and want full flexibility on pace." } }
+                    ]
+                },
+            };
+
         default:
             return null;
     }

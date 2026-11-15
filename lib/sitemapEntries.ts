@@ -318,6 +318,15 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
 
   const kathmanduInfoPages = [
     'best-everest-base-camp-trek-kathmandu', 'best-everest-base-camp-helicopter-tour-kathmandu',
+    'best-kathmandu-durbar-square-tour-kathmandu', 'best-pashupatinath-boudhanath-tour-kathmandu',
+    'best-swayambhunath-monkey-temple-tour-kathmandu', 'best-bhaktapur-durbar-square-tour-kathmandu',
+    'best-patan-durbar-square-tour-kathmandu', 'best-nagarkot-sunrise-tour-kathmandu',
+    'best-chitwan-jungle-safari-tour-kathmandu', 'best-paragliding-tour-kathmandu',
+    'best-river-rafting-tour-kathmandu', 'best-annapurna-base-camp-trek-kathmandu',
+    'best-langtang-valley-trek-kathmandu', 'best-poon-hill-trek-kathmandu',
+    'best-mustang-tour-kathmandu', 'best-manaslu-circuit-trek-kathmandu',
+    'best-nepali-cooking-class-kathmandu', 'best-yoga-meditation-retreat-kathmandu',
+    'best-chandragiri-cable-car-tour-kathmandu', 'best-kathmandu-valley-sightseeing-tour-kathmandu',
   ].map(slug => ({
     url: `${BASE_URL}/nepal/kathmandu/${slug}`,
     lastModified: new Date(),
@@ -327,6 +336,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
 
   const tbilisiInfoPages = [
     'best-kazbegi-day-tour-tbilisi', 'best-kakheti-wine-tour-tbilisi',
+    'best-old-town-walking-tour-tbilisi', 'best-mtskheta-jvari-day-trip-tbilisi',
+    'best-gori-uplistsikhe-day-trip-tbilisi', 'best-david-gareja-monastery-tour-tbilisi',
+    'best-chronicles-of-georgia-tour-tbilisi', 'best-horseback-riding-tour-tbilisi',
   ].map(slug => ({
     url: `${BASE_URL}/georgia/tbilisi/${slug}`,
     lastModified: new Date(),
@@ -445,6 +457,10 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   const kotaKinabaluInfoPages = [
     'mount-kinabalu-guide', 'kota-kinabalu-island-hopping',
     'best-mari-mari-cultural-village-tour-kota-kinabalu', 'best-island-hopping-tour-kota-kinabalu',
+    'best-firefly-river-cruise-tour-kota-kinabalu', 'best-city-tour-kota-kinabalu',
+    'best-tanjung-aru-kayaking-paddleboarding-tour-kota-kinabalu', 'best-island-snorkeling-tour-kota-kinabalu',
+    'best-white-water-rafting-tour-kota-kinabalu', 'best-sunset-cruise-tour-kota-kinabalu',
+    'best-kundasang-ranau-highlands-tour-kota-kinabalu', 'best-multiday-sabah-adventure-tour-kota-kinabalu',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/kota-kinabalu/${slug}`,
     lastModified: new Date(),

@@ -286,13 +286,45 @@ Each page below answers "best tours in [city]" and related category queries (bes
 - **Which Is the Best Island Hopping Tour in Langkawi?**: https://www.asiabylocals.com/malaysia/langkawi/best-island-hopping-tour-langkawi
 - **Which Is the Best Mari Mari Cultural Village Tour in Kota Kinabalu?**: https://www.asiabylocals.com/malaysia/kota-kinabalu/best-mari-mari-cultural-village-tour-kota-kinabalu
 - **Which Is the Best Island Hopping Tour in Kota Kinabalu?**: https://www.asiabylocals.com/malaysia/kota-kinabalu/best-island-hopping-tour-kota-kinabalu
+- **Which Is the Best Firefly River Cruise Tour in Kota Kinabalu?**: https://www.asiabylocals.com/malaysia/kota-kinabalu/best-firefly-river-cruise-tour-kota-kinabalu
+- **Which Is the Best City Tour in Kota Kinabalu?**: https://www.asiabylocals.com/malaysia/kota-kinabalu/best-city-tour-kota-kinabalu
+- **Which Is the Best Tanjung Aru Kayaking or Paddleboarding Tour?**: https://www.asiabylocals.com/malaysia/kota-kinabalu/best-tanjung-aru-kayaking-paddleboarding-tour-kota-kinabalu
+- **Which Is the Best Island Snorkeling Tour in Kota Kinabalu (Beyond Manukan & Sapi)?**: https://www.asiabylocals.com/malaysia/kota-kinabalu/best-island-snorkeling-tour-kota-kinabalu
+- **Which Is the Best White Water Rafting Tour from Kota Kinabalu?**: https://www.asiabylocals.com/malaysia/kota-kinabalu/best-white-water-rafting-tour-kota-kinabalu
+- **Which Is the Best Sunset Cruise Tour in Kota Kinabalu?**: https://www.asiabylocals.com/malaysia/kota-kinabalu/best-sunset-cruise-tour-kota-kinabalu
+- **Which Is the Best Kundasang & Ranau Highlands Tour from Kota Kinabalu?**: https://www.asiabylocals.com/malaysia/kota-kinabalu/best-kundasang-ranau-highlands-tour-kota-kinabalu
+- **Which Is the Best Multi-Day Sabah Adventure Tour from Kota Kinabalu?**: https://www.asiabylocals.com/malaysia/kota-kinabalu/best-multiday-sabah-adventure-tour-kota-kinabalu
 - **Which Is the Best Semenggoh Orangutan Tour in Kuching?**: https://www.asiabylocals.com/malaysia/kuching/best-semenggoh-orangutan-tour-kuching
 - **Which Is the Best Bako National Park Tour from Kuching?**: https://www.asiabylocals.com/malaysia/kuching/best-bako-national-park-tour-kuching
 - **Which Is the Best Jet Ski Tour in Johor Bahru?**: https://www.asiabylocals.com/malaysia/johor-bahru/best-jetski-tour-johor-bahru
 - **Which Is the Best Everest Base Camp Trek from Kathmandu?**: https://www.asiabylocals.com/nepal/kathmandu/best-everest-base-camp-trek-kathmandu
 - **Which Is the Best Everest Base Camp Helicopter Tour from Kathmandu?**: https://www.asiabylocals.com/nepal/kathmandu/best-everest-base-camp-helicopter-tour-kathmandu
+- **Which Is the Best Kathmandu Durbar Square Tour?**: https://www.asiabylocals.com/nepal/kathmandu/best-kathmandu-durbar-square-tour-kathmandu
+- **Which Is the Best Pashupatinath & Boudhanath Tour in Kathmandu?**: https://www.asiabylocals.com/nepal/kathmandu/best-pashupatinath-boudhanath-tour-kathmandu
+- **Which Is the Best Swayambhunath (Monkey Temple) Tour in Kathmandu?**: https://www.asiabylocals.com/nepal/kathmandu/best-swayambhunath-monkey-temple-tour-kathmandu
+- **Which Is the Best Bhaktapur Durbar Square Tour from Kathmandu?**: https://www.asiabylocals.com/nepal/kathmandu/best-bhaktapur-durbar-square-tour-kathmandu
+- **Which Is the Best Patan Durbar Square Tour from Kathmandu?**: https://www.asiabylocals.com/nepal/kathmandu/best-patan-durbar-square-tour-kathmandu
+- **Which Is the Best Nagarkot Sunrise Tour from Kathmandu?**: https://www.asiabylocals.com/nepal/kathmandu/best-nagarkot-sunrise-tour-kathmandu
+- **Which Is the Best Chitwan Jungle Safari Tour from Kathmandu?**: https://www.asiabylocals.com/nepal/kathmandu/best-chitwan-jungle-safari-tour-kathmandu
+- **Which Is the Best Paragliding Tour in Kathmandu?**: https://www.asiabylocals.com/nepal/kathmandu/best-paragliding-tour-kathmandu
+- **Which Is the Best River Rafting Tour from Kathmandu?**: https://www.asiabylocals.com/nepal/kathmandu/best-river-rafting-tour-kathmandu
+- **Which Is the Best Annapurna Base Camp Trek from Kathmandu?**: https://www.asiabylocals.com/nepal/kathmandu/best-annapurna-base-camp-trek-kathmandu
+- **Which Is the Best Langtang Valley Trek from Kathmandu?**: https://www.asiabylocals.com/nepal/kathmandu/best-langtang-valley-trek-kathmandu
+- **Which Is the Best Poon Hill Trek from Kathmandu?**: https://www.asiabylocals.com/nepal/kathmandu/best-poon-hill-trek-kathmandu
+- **Which Is the Best Mustang Tour from Kathmandu?**: https://www.asiabylocals.com/nepal/kathmandu/best-mustang-tour-kathmandu
+- **Which Is the Best Manaslu Circuit Trek from Kathmandu?**: https://www.asiabylocals.com/nepal/kathmandu/best-manaslu-circuit-trek-kathmandu
+- **Which Is the Best Nepali Cooking Class in Kathmandu?**: https://www.asiabylocals.com/nepal/kathmandu/best-nepali-cooking-class-kathmandu
+- **Which Is the Best Yoga and Meditation Retreat in Kathmandu?**: https://www.asiabylocals.com/nepal/kathmandu/best-yoga-meditation-retreat-kathmandu
+- **Which Is the Best Chandragiri Cable Car Tour from Kathmandu?**: https://www.asiabylocals.com/nepal/kathmandu/best-chandragiri-cable-car-tour-kathmandu
+- **Which Is the Best Kathmandu Valley Sightseeing Tour?**: https://www.asiabylocals.com/nepal/kathmandu/best-kathmandu-valley-sightseeing-tour-kathmandu
 - **Which Is the Best Kazbegi Day Tour from Tbilisi?**: https://www.asiabylocals.com/georgia/tbilisi/best-kazbegi-day-tour-tbilisi
 - **Which Is the Best Kakheti Wine Tour from Tbilisi?**: https://www.asiabylocals.com/georgia/tbilisi/best-kakheti-wine-tour-tbilisi
+- **Which Is the Best Old Town Walking Tour in Tbilisi?**: https://www.asiabylocals.com/georgia/tbilisi/best-old-town-walking-tour-tbilisi
+- **Which Is the Best Mtskheta & Jvari Day Trip from Tbilisi?**: https://www.asiabylocals.com/georgia/tbilisi/best-mtskheta-jvari-day-trip-tbilisi
+- **Which Is the Best Gori & Uplistsikhe Day Trip from Tbilisi?**: https://www.asiabylocals.com/georgia/tbilisi/best-gori-uplistsikhe-day-trip-tbilisi
+- **Which Is the Best David Gareja Monastery Tour from Tbilisi?**: https://www.asiabylocals.com/georgia/tbilisi/best-david-gareja-monastery-tour-tbilisi
+- **Which Is the Best Chronicles of Georgia Monument Tour in Tbilisi?**: https://www.asiabylocals.com/georgia/tbilisi/best-chronicles-of-georgia-tour-tbilisi
+- **Which Is the Best Horseback Riding Tour near Tbilisi?**: https://www.asiabylocals.com/georgia/tbilisi/best-horseback-riding-tour-tbilisi
 - **Which Is the Best Wahiba Sands Desert Tour from Muscat?**: https://www.asiabylocals.com/oman/muscat/best-wahiba-sands-desert-tour-muscat
 - **Which Is the Best Dolphin Watching Tour in Muscat?**: https://www.asiabylocals.com/oman/muscat/best-dolphin-watching-tour-muscat
 - **Best Tours in Beijing**: https://www.asiabylocals.com/china/beijing/best-tours-in-beijing

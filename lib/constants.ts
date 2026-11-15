@@ -223,6 +223,10 @@ export const KOTA_KINABALU_INFO_SLUGS = [
   'mount-kinabalu-guide', 'kota-kinabalu-island-hopping',
   // Tour-selling pages (2026-11-16)
   'best-mari-mari-cultural-village-tour-kota-kinabalu', 'best-island-hopping-tour-kota-kinabalu',
+  'best-firefly-river-cruise-tour-kota-kinabalu', 'best-city-tour-kota-kinabalu',
+  'best-tanjung-aru-kayaking-paddleboarding-tour-kota-kinabalu', 'best-island-snorkeling-tour-kota-kinabalu',
+  'best-white-water-rafting-tour-kota-kinabalu', 'best-sunset-cruise-tour-kota-kinabalu',
+  'best-kundasang-ranau-highlands-tour-kota-kinabalu', 'best-multiday-sabah-adventure-tour-kota-kinabalu',
 ];
 
 export const KUCHING_INFO_SLUGS = [
@@ -232,11 +236,25 @@ export const KUCHING_INFO_SLUGS = [
 // Nepal launched 2026-11-16 with 1,535 live tours and zero authority pages.
 export const KATHMANDU_INFO_SLUGS = [
   'best-everest-base-camp-trek-kathmandu', 'best-everest-base-camp-helicopter-tour-kathmandu',
+  // Tour-selling pages batch 2 (2026-11-16)
+  'best-kathmandu-durbar-square-tour-kathmandu', 'best-pashupatinath-boudhanath-tour-kathmandu',
+  'best-swayambhunath-monkey-temple-tour-kathmandu', 'best-bhaktapur-durbar-square-tour-kathmandu',
+  'best-patan-durbar-square-tour-kathmandu', 'best-nagarkot-sunrise-tour-kathmandu',
+  'best-chitwan-jungle-safari-tour-kathmandu', 'best-paragliding-tour-kathmandu',
+  'best-river-rafting-tour-kathmandu', 'best-annapurna-base-camp-trek-kathmandu',
+  'best-langtang-valley-trek-kathmandu', 'best-poon-hill-trek-kathmandu',
+  'best-mustang-tour-kathmandu', 'best-manaslu-circuit-trek-kathmandu',
+  'best-nepali-cooking-class-kathmandu', 'best-yoga-meditation-retreat-kathmandu',
+  'best-chandragiri-cable-car-tour-kathmandu', 'best-kathmandu-valley-sightseeing-tour-kathmandu',
 ];
 
 // Georgia launched 2026-11-16 with 1,024 live tours and zero authority pages.
 export const TBILISI_INFO_SLUGS = [
   'best-kazbegi-day-tour-tbilisi', 'best-kakheti-wine-tour-tbilisi',
+  // Batch 2 (2026-11-16)
+  'best-old-town-walking-tour-tbilisi', 'best-mtskheta-jvari-day-trip-tbilisi',
+  'best-gori-uplistsikhe-day-trip-tbilisi', 'best-david-gareja-monastery-tour-tbilisi',
+  'best-chronicles-of-georgia-tour-tbilisi', 'best-horseback-riding-tour-tbilisi',
 ];
 
 // Oman launched 2026-11-16 with 709 live tours and zero authority pages.

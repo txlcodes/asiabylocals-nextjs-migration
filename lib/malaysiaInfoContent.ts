@@ -1690,6 +1690,476 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        case "best-firefly-river-cruise-tour-kota-kinabalu":
+            return {
+                title: "Which Is the Best Firefly River Cruise Tour in Kota Kinabalu?",
+                seoTitle: "Best Firefly River Cruise Tour Kota Kinabalu 2026 | Honest Comparison",
+                description: "Compare real firefly river cruise tours from Kota Kinabalu — from a Klias River day tour to Kawa Kawa sunset cruises and private Weston wetland dinner cruises.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-702347/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Fireflies gather in the mangroves along several rivers near Kota Kinabalu after dusk, and nearly every cruise times its departure for that window. The main differences are which river (Klias, Kawa Kawa, or Weston/Binsuluk), whether dinner is included, and whether the boat is shared or private.",
+                        tourCard: { slug: "sabah-klias-river-cruise-day-tour", title: "Sabah: Klias River Cruise Day Tour", description: "The standard Klias River firefly cruise.", price: "From $97", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-702347/img0/1600.webp" },
+                    },
+                    {
+                        title: "Cheapest: Klias River Cruise Day Tour",
+                        content: "At $97, this is the lowest-priced standard firefly river cruise, covering the classic Klias River route.",
+                        tourCard: { slug: "sabah-klias-river-cruise-day-tour", title: "Sabah: Klias River Cruise Day Tour", description: "The budget-friendly Klias River firefly cruise.", price: "From $97", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-702347/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Value: Kawa-Kawa River Cruise & Fireflies",
+                        content: "A shared tour on the Kawa Kawa River, a good alternative route to Klias with a similar firefly-spotting experience.",
+                        tourCard: { slug: "kota-kinabalu-kawa-kawa-rivercruise-fireflies", title: "Kota Kinabalu: Kawa-Kawa RiverCruise & Fireflies Shared Tour", description: "A shared firefly cruise on the Kawa Kawa River.", price: "From $91", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1138056/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best with Dinner: Mangrove Cruise with Dinner & Fireflies",
+                        content: "This pairs the firefly search with a dinner stop, useful if you'd rather not arrange a separate evening meal around the cruise timing.",
+                        tourCard: { slug: "kota-kinabalu-mangrove-cruise-with-dinner", title: "Kota Kinabalu: Mangrove Cruise with Dinner & Fireflies", description: "A firefly mangrove cruise with dinner included.", price: "From $95", duration: "6.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0180dd2b0903b15111c4f37455d8c6b816aaaa198a9e7809ad1de16eb0969b4d.jpeg" },
+                    },
+                    {
+                        title: "Best Sunset Timing: Kawa Kawa Fireflies Sunset Cruise",
+                        content: "This version is explicitly timed around sunset, giving a scenic daylight-to-dusk transition before the firefly search begins.",
+                        tourCard: { slug: "kota-kinabalu-kawa-kawa-fireflies-sunset-cruise", title: "Kota Kinabalu: Kawa Kawa Fireflies Sunset Cruise Tour", description: "A sunset-timed firefly cruise on the Kawa Kawa River.", price: "From $103", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-689311/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for Privacy: Klias Wildlife & Firefly Private River Cruise",
+                        content: "A private boat rather than a shared group tour, worth the higher price if you want more flexibility and a quieter experience on the water.",
+                        tourCard: { slug: "kota-kinabalu-klias-wildlife-firefly-private", title: "Kota Kinabalu: Klias Wildlife & Firefly Private River Cruise", description: "A private version of the Klias River wildlife and firefly cruise.", price: "From $194", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1497114/img0/1600.webp" },
+                    },
+                    {
+                        title: "Most Complete: Klias River Cruise with Dinner & Transfers",
+                        content: "This bundles dinner and transfers into one package on the Klias route, a convenient all-in-one option if you don't want to arrange logistics separately.",
+                        tourCard: { slug: "kota-kinabalu-klias-river-cruise-with-dinner", title: "Kota Kinabalu: Klias River Cruise with Dinner & Transfers", description: "A full-service Klias River firefly cruise with dinner and transfers.", price: "From $242", duration: "6.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d6bc69a69408159593f1d66536faee0c9221522a8eafcd0037a11d77eaf3bcbb.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Fireflies are most active on dark, moonless nights, so cruises timed around the new moon tend to have better sightings than ones near a full moon. Bring insect repellent since the mangrove riverbanks have mosquitoes even after dark."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best firefly river cruise tour in Kota Kinabalu?", a: "A standard Klias River cruise suits most visitors; go private if you want more flexibility." },
+                    { q: "What time do firefly river cruises depart?", a: "Most depart in the late afternoon to arrive at the mangroves around dusk, when fireflies become active." },
+                    { q: "Which river has the best firefly sightings near Kota Kinabalu?", a: "Klias, Kawa Kawa, and Weston/Binsuluk rivers are all commonly used, each with a similar experience." },
+                    { q: "Are firefly sightings guaranteed?", a: "No, but sightings are fairly reliable on dark, moonless nights." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best firefly river cruise tour in Kota Kinabalu?", "acceptedAnswer": { "@type": "Answer", "text": "A standard Klias River cruise suits most visitors." } },
+                        { "@type": "Question", "name": "What time do firefly cruises depart?", "acceptedAnswer": { "@type": "Answer", "text": "Late afternoon, to arrive at dusk." } },
+                        { "@type": "Question", "name": "Which river has the best sightings?", "acceptedAnswer": { "@type": "Answer", "text": "Klias, Kawa Kawa, and Weston/Binsuluk rivers all work well." } },
+                        { "@type": "Question", "name": "Are sightings guaranteed?", "acceptedAnswer": { "@type": "Answer", "text": "No, but fairly reliable on dark nights." } }
+                    ]
+                },
+            };
+
+        case "best-city-tour-kota-kinabalu":
+            return {
+                title: "Which Is the Best City Tour in Kota Kinabalu?",
+                seoTitle: "Best Kota Kinabalu City Tour 2026 | Honest Comparison",
+                description: "Compare real Kota Kinabalu city tours — from a half-day heritage tour to private sightseeing and food-tasting city tours.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-713930/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "A Kota Kinabalu city tour typically covers the Atkinson Clock Tower, Sabah State Mosque, Signal Hill Observatory, and local markets. A standard half-day shared tour is the most common, budget-friendly way to see the highlights.",
+                        tourCard: { slug: "kota-kinabalu-half-day-city-tour", title: "Kota Kinabalu: Half-Day City Tour", description: "A standard half-day city highlights tour.", price: "From $138", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1d3d8a9b40623bfcba38a3b9bfdf26bf1af55a75f30e3a805b82650b844548f4.jpg" },
+                    },
+                    {
+                        title: "Best Value: City Tour: Culture & Heritage with Lunch",
+                        content: "This version adds lunch to the standard heritage circuit, a good all-in-one option for a full morning or afternoon out.",
+                        tourCard: { slug: "kota-kinabalu-city-tour-culture-heritage-with", title: "Kota Kinabalu City Tour: Culture & Heritage with Lunch", description: "A culture and heritage city tour with lunch included.", price: "From $111", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/db4f58890622f6937f0290895cde93afac536d50e1fb4e38f156b98f8590ed12.jpg" },
+                    },
+                    {
+                        title: "Best Standard Option: Sabah Kota Kinabalu City Tour",
+                        content: "A straightforward group city tour covering the same core sights without extra add-ons, a solid default pick.",
+                        tourCard: { slug: "sabah-kota-kinabalu-city-tour", title: "Sabah: Kota Kinabalu City Tour", description: "A standard group city sightseeing tour.", price: "From $144", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-713930/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for Flexibility: Private City Tour Day Trip",
+                        content: "This runs as a private tour rather than a shared group, letting you set the pace and skip sights you're not interested in.",
+                        tourCard: { slug: "kota-kinabalu-private-city-tour-day-trip", title: "Kota Kinabalu: Private City Tour Day Trip", description: "A private, flexible version of the city sightseeing tour.", price: "From $160", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-956558/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for Food Lovers: Guided City Tour with Food Tasting",
+                        content: "This pairs the city sightseeing with local food tastings along the way, a good fit if you want culture and cuisine combined rather than a separate food tour.",
+                        tourCard: { slug: "kota-kinabalu-guided-city-tour-with-food-tasting", title: "Kota Kinabalu: Guided City Tour with Food Tasting in Sabah", description: "A city tour combined with local food tastings.", price: "From $160", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/84a5a088e612f3457b366014ac7f9e790e0ccf22178369f1f6e26c06176cc8c1.jpg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Signal Hill Observatory is the best spot for a skyline view over the city and harbour — most tours schedule it near sunset if the itinerary allows. The Sabah State Mosque requires modest dress for entry, so bring a scarf or light cover-up."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best city tour in Kota Kinabalu?", a: "A standard half-day city tour suits most visitors; go private for more flexibility or add food tasting for a culinary angle." },
+                    { q: "What does a Kota Kinabalu city tour usually include?", a: "The Atkinson Clock Tower, Sabah State Mosque, Signal Hill Observatory, and local markets." },
+                    { q: "How long is a Kota Kinabalu city tour?", a: "Most run 3-5 hours, though food-tasting versions can run up to 7 hours." },
+                    { q: "Is a private city tour worth it in Kota Kinabalu?", a: "Yes if you want flexibility to skip sights or set your own pace, otherwise a shared tour covers the same highlights for less." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best city tour in Kota Kinabalu?", "acceptedAnswer": { "@type": "Answer", "text": "A standard half-day city tour suits most visitors." } },
+                        { "@type": "Question", "name": "What does a city tour include?", "acceptedAnswer": { "@type": "Answer", "text": "The Atkinson Clock Tower, Sabah State Mosque, Signal Hill, and markets." } },
+                        { "@type": "Question", "name": "How long is a city tour?", "acceptedAnswer": { "@type": "Answer", "text": "Most run 3-5 hours." } },
+                        { "@type": "Question", "name": "Is a private city tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes for flexibility, otherwise a shared tour is cheaper." } }
+                    ]
+                },
+            };
+
+        case "best-tanjung-aru-kayaking-paddleboarding-tour-kota-kinabalu":
+            return {
+                title: "Which Is the Best Tanjung Aru Kayaking or Paddleboarding Tour?",
+                seoTitle: "Best Tanjung Aru Kayaking & SUP Tour Kota Kinabalu 2026",
+                description: "Compare real Tanjung Aru kayaking and stand-up paddleboarding tours in Kota Kinabalu — from a sunrise/sunset SUP paddle to guided coastal kayaking and island crossings.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1318348/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Tanjung Aru's calm beach and sunset views make it Kota Kinabalu's main spot for kayaking and stand-up paddleboarding (SUP). A guided sunrise or sunset SUP session is the most popular, approachable option for beginners.",
+                        tourCard: { slug: "kinabalu-tanjung-beach-sup-paddle-sunrisesunset", title: "Kinabalu: Tanjung Beach SUP Paddle Sunrise/Sunset & Transfer", description: "A guided SUP session timed for sunrise or sunset at Tanjung Aru.", price: "From $39", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1318348/img0/1600.webp" },
+                    },
+                    {
+                        title: "Cheapest: SUP Paddle Sunrise/Sunset & Transfer",
+                        content: "At $39, this is the lowest-priced SUP option, including transfer and a sunrise or sunset timing choice.",
+                        tourCard: { slug: "kinabalu-tanjung-beach-sup-paddle-sunrisesunset", title: "Kinabalu: Tanjung Beach SUP Paddle Sunrise/Sunset & Transfer", description: "The budget-friendly SUP paddle option.", price: "From $39", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1318348/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Standard SUP Tour: Stand-Up Paddleboarding Tour",
+                        content: "A straightforward guided SUP tour without a specific sunrise/sunset slot requirement, good for flexible scheduling.",
+                        tourCard: { slug: "kota-kinabalu-tanjung-aru-stand-up-paddleboarding", title: "Kota Kinabalu: Tanjung Aru Stand-Up Paddleboarding Tour", description: "A standard guided SUP tour at Tanjung Aru.", price: "From $44", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/33c8141ac0c5f0f661c1a4c27b863fe4204134b8000d4658f6099a0aeb67db60.jpg" },
+                    },
+                    {
+                        title: "Best for Choice: Kayak or Paddleboard with Lesson & Guide",
+                        content: "This option lets you choose between kayak and SUP, with a lesson included — a good pick for complete beginners unsure which they'd prefer.",
+                        tourCard: { slug: "sabah-tanjung-aru-kayak-or-paddleboard-with", title: "Sabah: Tanjung Aru Kayak or Paddleboard with Lesson & Guide", description: "A choice of kayak or SUP with a lesson included.", price: "From $82", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1138944/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for Exploring the Coast: Guided Coastal Kayaking Tour",
+                        content: "This covers more distance along the coastline by kayak rather than staying close to the beach, better for travellers who want a proper paddling workout.",
+                        tourCard: { slug: "kota-kinabalu-tanjung-aru-guided-coastal-kayaking", title: "Kota Kinabalu: Tanjung Aru Guided Coastal Kayaking Tour", description: "A guided kayaking tour along the Tanjung Aru coastline.", price: "From $88", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1354077/img0/1600.webp" },
+                    },
+                    {
+                        title: "Most Adventurous: Beach to Island Sea Kayaking and Snorkeling",
+                        content: "This extends the paddle all the way out to a nearby island with snorkeling included, the most ambitious version of the Tanjung Aru paddling options.",
+                        tourCard: { slug: "tanjung-aru-beach-to-island-sea-kayaking-and", title: "Tanjung Aru beach to Island Sea Kayaking and Snorkeling Trip", description: "A sea kayaking trip from the beach to a nearby island with snorkeling.", price: "From $238", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1354134/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Morning sessions tend to have calmer, glassier water, which is easier for SUP beginners than afternoon conditions. Sunset paddles are popular for the view but can get choppier as the sea breeze picks up in the evening."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Tanjung Aru kayaking or SUP tour?", a: "A guided sunrise or sunset SUP session suits beginners; try coastal kayaking or the island crossing for something more active." },
+                    { q: "Do I need experience for a Tanjung Aru SUP tour?", a: "No, most tours include a lesson and are suitable for first-timers." },
+                    { q: "What's the best time of day for SUP at Tanjung Aru?", a: "Morning for calmer water, or sunset for the view, though it can get choppier later in the evening." },
+                    { q: "Can I choose between kayak and paddleboard?", a: "Yes, at least one tour offers a choice of either with a lesson included." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Tanjung Aru kayaking or SUP tour?", "acceptedAnswer": { "@type": "Answer", "text": "A guided sunrise or sunset SUP session suits beginners." } },
+                        { "@type": "Question", "name": "Do I need experience?", "acceptedAnswer": { "@type": "Answer", "text": "No, most tours include a lesson." } },
+                        { "@type": "Question", "name": "Best time of day?", "acceptedAnswer": { "@type": "Answer", "text": "Morning for calmer water, sunset for the view." } },
+                        { "@type": "Question", "name": "Can I choose kayak or SUP?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, at least one tour offers a choice." } }
+                    ]
+                },
+            };
+
+        case "best-island-snorkeling-tour-kota-kinabalu":
+            return {
+                title: "Which Is the Best Island Snorkeling Tour in Kota Kinabalu (Beyond Manukan & Sapi)?",
+                seoTitle: "Best Island Snorkeling Tour Kota Kinabalu 2026 | Honest Comparison",
+                description: "Compare real island snorkeling day trips from Kota Kinabalu beyond the standard Manukan & Sapi route — Mengalum, Pulau Tiga, Mantanani, Dreamers Island, and Cow Island.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1492181/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Beyond the popular Manukan and Sapi islands, Kota Kinabalu has several further-flung islands with less crowded reefs — Mengalum, Pulau Tiga, Mantanani, and smaller islands like Dreamers and Cow Island. These trips run longer since the islands are farther offshore, but generally offer clearer water and fewer visitors.",
+                        tourCard: { slug: "kota-kinabalu-dreamers-island-with-buffet-lunch", title: "Kota Kinabalu: Dreamers Island with Buffet Lunch", description: "A day trip to Dreamers Island with lunch included.", price: "From $125", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1205057/img0/1600.webp" },
+                    },
+                    {
+                        title: "Cheapest: Dreamers Island with Buffet Lunch",
+                        content: "At $125, this is the lowest-priced option among the further-out islands, including a buffet lunch.",
+                        tourCard: { slug: "kota-kinabalu-dreamers-island-with-buffet-lunch", title: "Kota Kinabalu: Dreamers Island with Buffet Lunch", description: "The budget-friendly Dreamers Island day trip.", price: "From $125", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1205057/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for a Quieter Beach: Cow Island Snorkeling with Lunch",
+                        content: "Cow Island sees far fewer visitors than Manukan or Sapi, making this a good pick if a crowd-free beach matters more than convenience.",
+                        tourCard: { slug: "kota-kinabalu-cow-island-snorkeling-with-lunch", title: "Kota Kinabalu Cow Island snorkeling with Lunch buffet", description: "A day trip to the quieter Cow Island with lunch.", price: "From $114", duration: "9 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1218112/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for Clear Water: Mengalum Island Daytrip",
+                        content: "Mengalum is further offshore than the Tunku Abdul Rahman islands, generally rewarding the longer boat ride with clearer water and healthier reef.",
+                        tourCard: { slug: "kota-kinabalu-mengalum-island-daytrip", title: "Kota Kinabalu: Mengalum Island Daytrip", description: "A day trip to the clear-water Mengalum Island.", price: "From $199", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1492181/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for a Full Day: Pulau Tiga Snorkeling Day Trip",
+                        content: "Pulau Tiga (known from the original 'Survivor' TV series) offers a full day of snorkeling with lunch, a good option for a longer island outing.",
+                        tourCard: { slug: "sabah-pulau-tiga-snorkeling-day-trip-with-lunch", title: "Sabah: Pulau Tiga Snorkeling Day Trip with Lunch", description: "A full-day snorkeling trip to Pulau Tiga with lunch.", price: "From $340", duration: "9 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-999847/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for Marine Life: Mantanani Mermaid Island Snorkeling",
+                        content: "Mantanani is known for sightings of dugongs and dolphins alongside its reef, making this the pick for travellers most interested in marine wildlife.",
+                        tourCard: { slug: "kota-kinabalu-mantanani-mermaid-island-snorkeling", title: "Kota Kinabalu: Mantanani Mermaid Island Snorkeling & Lunch", description: "A snorkeling day trip to Mantanani Island known for marine wildlife.", price: "From $169", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/debc2db0b7f6b139c0dd55827790ab2bf83cd3bb1637743ae53a9a84f79843a5.jpeg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "These farther-out islands involve longer boat rides (often 1-1.5 hours each way) than Manukan or Sapi, so they suit travellers less prone to seasickness and with a full day to spare. Check the weather forecast before booking, since choppier seas can make the longer crossings uncomfortable."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best island snorkeling tour in Kota Kinabalu beyond Manukan and Sapi?", a: "Dreamers Island is the best-value option; Mantanani is best for marine wildlife sightings." },
+                    { q: "How far are these islands from Kota Kinabalu?", a: "Further than Manukan and Sapi — boat rides often run 1-1.5 hours each way." },
+                    { q: "Which island has the clearest water?", a: "Mengalum, being further offshore, generally has clearer water and healthier reef than closer islands." },
+                    { q: "Is Pulau Tiga worth visiting?", a: "Yes, known from the original 'Survivor' TV series, with a full day of snorkeling and lunch included." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best island snorkeling tour beyond Manukan and Sapi?", "acceptedAnswer": { "@type": "Answer", "text": "Dreamers Island is best-value; Mantanani is best for marine wildlife." } },
+                        { "@type": "Question", "name": "How far are these islands?", "acceptedAnswer": { "@type": "Answer", "text": "Boat rides often run 1-1.5 hours each way." } },
+                        { "@type": "Question", "name": "Which island has the clearest water?", "acceptedAnswer": { "@type": "Answer", "text": "Mengalum, being further offshore." } },
+                        { "@type": "Question", "name": "Is Pulau Tiga worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, known from the original Survivor TV series." } }
+                    ]
+                },
+            };
+
+        case "best-white-water-rafting-tour-kota-kinabalu":
+            return {
+                title: "Which Is the Best White Water Rafting Tour from Kota Kinabalu?",
+                seoTitle: "Best White Water Rafting Tour Kota Kinabalu 2026 | Honest Comparison",
+                description: "Compare real white water rafting day trips from Kota Kinabalu — Kiulu River for beginners, Padas River for more serious rapids, and combo tours with Mari Mari Cultural Village.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f7028e91a93ed3cea687866dc5a34d3358aeaf8f2363fa8092d3cfd22efb6a88.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Kota Kinabalu's two main rafting rivers are Kiulu (gentler, better for beginners and families) and Padas (more intense rapids, better for experienced rafters). Kiulu River rafting is the standard, most-booked option.",
+                        tourCard: { slug: "from-kota-kinabalu-kiulu-river-white-water", title: "From Kota Kinabalu: Kiulu River White Water Rafting Tour", description: "A beginner-friendly rafting trip on the Kiulu River.", price: "From $117", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f7028e91a93ed3cea687866dc5a34d3358aeaf8f2363fa8092d3cfd22efb6a88.jpg" },
+                    },
+                    {
+                        title: "Best for Beginners: Kiulu River White Water Rafting",
+                        content: "Kiulu's gentler rapids (Class I-II) make this the standard pick for first-timers, families, and anyone who wants scenery over adrenaline.",
+                        tourCard: { slug: "from-kota-kinabalu-kiulu-river-white-water", title: "From Kota Kinabalu: Kiulu River White Water Rafting Tour", description: "A beginner-friendly Kiulu River rafting trip.", price: "From $117", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f7028e91a93ed3cea687866dc5a34d3358aeaf8f2363fa8092d3cfd22efb6a88.jpg" },
+                    },
+                    {
+                        title: "Best for Experienced Rafters: Padas River White Water Rafting",
+                        content: "Padas River has more serious rapids (up to Class IV) and generally requires decent fitness and some comfort with whitewater, rewarding experienced rafters with a bigger thrill.",
+                        tourCard: { slug: "from-kota-kinabalu-padas-river-white-water", title: "From Kota Kinabalu: Padas River White Water Rafting Tour", description: "A more intense rafting trip on the Padas River.", price: "From $164", duration: "12 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1411651/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Combo: Kiulu Rafting & Klias River Cruise",
+                        content: "This pairs a morning of Kiulu rafting with an evening Klias firefly cruise, efficiently combining two of Kota Kinabalu's signature activities into one long day.",
+                        tourCard: { slug: "kota-kinabalu-kiulu-rafting-klias-rivercurise-day", title: "Kota Kinabalu: Kiulu Rafting & Klias Rivercurise Day Tours", description: "A combo of Kiulu rafting and a Klias River firefly cruise.", price: "From $248", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/74fc932dd10ae935a38c0c539946685f3670201a1459b990e87dd9046a1f06cb.jpg" },
+                    },
+                    {
+                        title: "Best Cultural Combo: Kiulu River Rafting & Mari Mari Village Tour",
+                        content: "This pairs the Kiulu rafting with a visit to Mari Mari Cultural Village, combining adventure and culture in a single day.",
+                        tourCard: { slug: "kota-kinabalu-kiulu-river-rafting-mari-mari", title: "Kota Kinabalu: Kiulu River Rafting & Mari Mari Village Tour", description: "A combo of Kiulu rafting and the Mari Mari Cultural Village.", price: "From $375", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1367049/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Rafting season runs year-round, but water levels and rapid intensity vary with recent rainfall — ask your operator about current conditions, especially for Padas. Bring a change of clothes and secure footwear; sandals can come off in the rapids."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best white water rafting tour from Kota Kinabalu?", a: "Kiulu River suits beginners and families; Padas River suits experienced rafters wanting bigger rapids." },
+                    { q: "Which river has bigger rapids, Kiulu or Padas?", a: "Padas, with rapids up to Class IV versus Kiulu's gentler Class I-II." },
+                    { q: "Is white water rafting safe for beginners near Kota Kinabalu?", a: "Yes, the Kiulu River route is specifically suited to first-timers and families." },
+                    { q: "Can rafting be combined with other activities?", a: "Yes, common combos include a Klias firefly cruise or Mari Mari Cultural Village visit." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best white water rafting tour from Kota Kinabalu?", "acceptedAnswer": { "@type": "Answer", "text": "Kiulu suits beginners; Padas suits experienced rafters." } },
+                        { "@type": "Question", "name": "Which river has bigger rapids?", "acceptedAnswer": { "@type": "Answer", "text": "Padas, up to Class IV." } },
+                        { "@type": "Question", "name": "Is rafting safe for beginners?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the Kiulu route suits first-timers." } },
+                        { "@type": "Question", "name": "Can rafting be combined with other activities?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, Klias firefly cruise or Mari Mari Cultural Village." } }
+                    ]
+                },
+            };
+
+        case "best-sunset-cruise-tour-kota-kinabalu":
+            return {
+                title: "Which Is the Best Sunset Cruise Tour in Kota Kinabalu?",
+                seoTitle: "Best Sunset Cruise Tour Kota Kinabalu 2026 | Honest Comparison",
+                description: "Compare real sunset cruise tours in Kota Kinabalu — from a North Borneo sunset dinner cruise to party boats and catamaran yacht island-hopping.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/66d6df039dcdda40af0e65f8895b3890faa521a90a9170bea6971e7141d5231f.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Kota Kinabalu is known for some of the best sunset views in Southeast Asia, and most sunset cruises simply get you out on the water for that window with food or drinks included. A standard sunset dinner cruise is the most common, straightforward option.",
+                        tourCard: { slug: "kota-kinabalu-north-borneo-sunset-dinner-cruise", title: "Kota Kinabalu: North Borneo Sunset Dinner Cruise", description: "A standard sunset cruise with dinner.", price: "From $162", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/66d6df039dcdda40af0e65f8895b3890faa521a90a9170bea6971e7141d5231f.jpg" },
+                    },
+                    {
+                        title: "Cheapest: Calro Sunset Beats Cruise",
+                        content: "At $151, this is the lowest-priced sunset cruise, pairing the sunset views with music on board.",
+                        tourCard: { slug: "kota-kinabalu-calro-sunset-beats-cruise", title: "Kota Kinabalu: Calro Sunset Beats Cruise", description: "A music-focused sunset cruise.", price: "From $151", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1194154/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for a Livelier Vibe: Party Boat Day Tour",
+                        content: "This runs as a more social, party-atmosphere boat trip rather than a quiet dinner cruise, suited to groups wanting a livelier evening out.",
+                        tourCard: { slug: "kota-kinabalu-party-boat-day-tour", title: "Kota Kinabalu: Party Boat Day Tour", description: "A lively party-atmosphere boat tour.", price: "From $173", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1186827/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Dinner Cruise: North Borneo Sunset Dinner Cruise",
+                        content: "A standard sunset cruise with a proper sit-down dinner, the most common pick for couples or a relaxed evening.",
+                        tourCard: { slug: "kota-kinabalu-north-borneo-sunset-dinner-cruise", title: "Kota Kinabalu: North Borneo Sunset Dinner Cruise", description: "A classic sunset dinner cruise.", price: "From $162", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/66d6df039dcdda40af0e65f8895b3890faa521a90a9170bea6971e7141d5231f.jpg" },
+                    },
+                    {
+                        title: "Best Novelty Combo: Culture, Pink Maze & Sunset Dinner Cruise",
+                        content: "This bundles a visit to a 'pink maze' attraction and cultural stop with the sunset dinner cruise, a good pick if you want more than just the boat portion.",
+                        tourCard: { slug: "kota-kinabalu-culture-pink-maze-sunset-dinner", title: "Kota Kinabalu: Culture, Pink Maze & Sunset Dinner Cruise", description: "A combo of a cultural stop, pink maze, and sunset dinner cruise.", price: "From $440", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1281643/img0/1600.webp" },
+                    },
+                    {
+                        title: "Most Scenic Sailing: Catamaran Yacht & Island-Hopping",
+                        content: "This uses a catamaran yacht rather than a standard cruise boat and combines sunset sailing with island-hopping, the most scenic sailing-focused option.",
+                        tourCard: { slug: "kota-kinabalu-calro-catamaran-yacht-island-hopping", title: "Kota Kinabalu: CALRO Catamaran Yacht & Island-Hopping", description: "A catamaran yacht sunset sail combined with island hopping.", price: "From $280", duration: "5.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1194132/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Kota Kinabalu's sunsets are most vivid during the dry season (roughly March to October), though clear evenings happen year-round. Book a west-facing or open-deck cruise if photographing the sunset is your priority."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best sunset cruise tour in Kota Kinabalu?", a: "A standard North Borneo sunset dinner cruise suits most visitors; go for the catamaran option for a more scenic sail." },
+                    { q: "What time do sunset cruises depart?", a: "Typically late afternoon, timed to be on the water as the sun sets." },
+                    { q: "Is dinner included on Kota Kinabalu sunset cruises?", a: "Most are, though some are drinks/music-focused rather than a full dinner." },
+                    { q: "What's the best season for sunsets in Kota Kinabalu?", a: "Roughly March to October tends to have the most vivid sunsets, though clear evenings occur year-round." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best sunset cruise tour in Kota Kinabalu?", "acceptedAnswer": { "@type": "Answer", "text": "A standard North Borneo sunset dinner cruise suits most visitors." } },
+                        { "@type": "Question", "name": "What time do sunset cruises depart?", "acceptedAnswer": { "@type": "Answer", "text": "Typically late afternoon." } },
+                        { "@type": "Question", "name": "Is dinner included?", "acceptedAnswer": { "@type": "Answer", "text": "Most are, though some are drinks/music-focused." } },
+                        { "@type": "Question", "name": "Best season for sunsets?", "acceptedAnswer": { "@type": "Answer", "text": "Roughly March to October." } }
+                    ]
+                },
+            };
+
+        case "best-kundasang-ranau-highlands-tour-kota-kinabalu":
+            return {
+                title: "Which Is the Best Kundasang & Ranau Highlands Tour from Kota Kinabalu?",
+                seoTitle: "Best Kundasang & Ranau Highlands Tour Kota Kinabalu 2026",
+                description: "Compare real Kundasang and Ranau highlands day trips from Kota Kinabalu — Poring Hot Springs, Rafflesia Garden, dairy farm visits, and Kinabalu Park.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e54edc3e558e12e58d2bf945ba4470de26cab678a5d41eca57ab7a36ab881036.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Kundasang and Ranau sit in the cooler highlands near Mount Kinabalu, and day trips there typically combine a few stops — hot springs, the rare Rafflesia flower, dairy farms, and Kinabalu Park itself. A shared tour combining Poring Hot Springs with other stops is the most common choice.",
+                        tourCard: { slug: "kundasang-poring-hot-spring-desa-meal-shared-tour", title: "Kundasang: Poring Hot Spring + Desa & Meal Shared Tour", description: "A shared day trip to Poring Hot Springs and Desa Cattle Farm.", price: "From $168", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/48c7f81a253f3d00846944fa66776d6fbc23ba1e904deaaaf0c1997315937c2e.jpg" },
+                    },
+                    {
+                        title: "Best Value: ATV Ride, Dairy Farm Visit & Meal",
+                        content: "This adds an ATV ride to the standard Kundasang highlands circuit, giving a bit more activity alongside the dairy farm and scenery.",
+                        tourCard: { slug: "kundasang-shared-tour-with-atv-ride-dairy-farm", title: "Kundasang: Shared Tour with ATV Ride, Dairy Farm Visit & Meal", description: "A shared highlands tour with an ATV ride and dairy farm visit.", price: "From $138", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e54edc3e558e12e58d2bf945ba4470de26cab678a5d41eca57ab7a36ab881036.jpg" },
+                    },
+                    {
+                        title: "Best for Hot Springs: Poring Hot Spring + Desa & Meal",
+                        content: "The classic Kundasang day trip, centered on relaxing in the Poring Hot Springs after a cool highland morning.",
+                        tourCard: { slug: "kundasang-poring-hot-spring-desa-meal-shared-tour", title: "Kundasang: Poring Hot Spring + Desa & Meal Shared Tour", description: "The standard Poring Hot Springs highlands day trip.", price: "From $168", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/48c7f81a253f3d00846944fa66776d6fbc23ba1e904deaaaf0c1997315937c2e.jpg" },
+                    },
+                    {
+                        title: "Best for Rare Flora: Nature Walk, Rafflesia Garden & Poring Hot Springs",
+                        content: "This adds a dedicated stop to see the Rafflesia, the world's largest flower, making it the pick for anyone specifically interested in the region's rare plant life.",
+                        tourCard: { slug: "sabah-nature-walk-rafflesia-garden-poring-hot", title: "Sabah: Nature Walk, Rafflesia Garden & Poring Hot Springs", description: "A highlands tour with a dedicated Rafflesia flower stop.", price: "From $211", duration: "5.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7d34bb08c8f41af09c7bba058ee32585c9e6848a8bc270c59bbede274c127ab2.jpeg" },
+                    },
+                    {
+                        title: "Best for Mountain Views: Kinabalu Park and Nabalu Day Trip",
+                        content: "This focuses on Kinabalu Park itself and the Nabalu viewpoint rather than the hot springs circuit, best if mountain scenery is your main interest.",
+                        tourCard: { slug: "from-kota-kinabalu-kinabalu-park-and-nabalu-day", title: "From Kota Kinabalu: Kinabalu Park and Nabalu Day Trip", description: "A day trip focused on Kinabalu Park and the Nabalu viewpoint.", price: "From $358", duration: "9.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/314803f6b2ffae4717b06737f9cbc48627720802db2216ea13a19a90c54f1616.png" },
+                    },
+                    {
+                        title: "Best for Relaxation: Fish Spa & Ranau Highlands Adventure",
+                        content: "This adds a fish spa stop to the highlands circuit, a quirky, relaxing addition to the usual hot-springs-and-scenery day trip.",
+                        tourCard: { slug: "kota-kinabalu-fish-spa-ranau-highlands-adventure", title: "Kota Kinabalu: Fish Spa & Ranau Highlands Adventure", description: "A Ranau highlands day trip with a fish spa stop.", price: "From $300", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1276966/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "The highlands are noticeably cooler than coastal Kota Kinabalu, especially in the early morning — bring a light jacket. If seeing a blooming Rafflesia matters to you, note that the flower only blooms for a few days and sightings aren't guaranteed on any given visit."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Kundasang & Ranau highlands tour from Kota Kinabalu?", a: "A Poring Hot Springs day trip suits most visitors; add the Rafflesia stop if you want to see the world's largest flower." },
+                    { q: "How far is Kundasang from Kota Kinabalu?", a: "Around 2-2.5 hours by road, making it a comfortable day trip." },
+                    { q: "Is the Rafflesia flower guaranteed to be seen?", a: "No, it blooms for only a few days at a time, so sightings aren't guaranteed on any given visit." },
+                    { q: "What should I pack for a Kundasang highlands trip?", a: "A light jacket, since the highlands are noticeably cooler than coastal Kota Kinabalu." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Kundasang & Ranau highlands tour?", "acceptedAnswer": { "@type": "Answer", "text": "A Poring Hot Springs day trip suits most visitors." } },
+                        { "@type": "Question", "name": "How far is Kundasang from Kota Kinabalu?", "acceptedAnswer": { "@type": "Answer", "text": "Around 2-2.5 hours by road." } },
+                        { "@type": "Question", "name": "Is the Rafflesia flower guaranteed?", "acceptedAnswer": { "@type": "Answer", "text": "No, it blooms only a few days at a time." } },
+                        { "@type": "Question", "name": "What should I pack?", "acceptedAnswer": { "@type": "Answer", "text": "A light jacket for the cooler highlands." } }
+                    ]
+                },
+            };
+
+        case "best-multiday-sabah-adventure-tour-kota-kinabalu":
+            return {
+                title: "Which Is the Best Multi-Day Sabah Adventure Tour from Kota Kinabalu?",
+                seoTitle: "Best Multi-Day Sabah Adventure Tour Kota Kinabalu 2026",
+                description: "Compare real multi-day Sabah adventure packages from Kota Kinabalu — from a 2-day Mount Kinabalu climb to a 4-day nature, culture, and island tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11fb0ad643e14e3c6062eb80d8ac806cdce5cd83e58b32ecf22bf1b2d0fee354.jpg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "For travellers with more than a day or two, Sabah's multi-day packages range from dedicated Mount Kinabalu summit climbs to broader nature-and-culture itineraries covering jungle lodges, coffee farms, and islands. Which one fits depends on whether you want to summit Malaysia's tallest mountain or see a wider slice of Sabah.",
+                        tourCard: { slug: "mount-kinabalu-2-day-1-night-climb", title: "Mount Kinabalu 2-Day 1-Night Climb", description: "A 2-day guided climb to the summit of Mount Kinabalu.", price: "From $1322", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11fb0ad643e14e3c6062eb80d8ac806cdce5cd83e58b32ecf22bf1b2d0fee354.jpg" },
+                    },
+                    {
+                        title: "Best for Summit Climbers: Mount Kinabalu 2-Day 1-Night Climb",
+                        content: "The standard climbing itinerary to reach Low's Peak, Mount Kinabalu's summit, with an overnight stop partway up to acclimatize.",
+                        tourCard: { slug: "mount-kinabalu-2-day-1-night-climb", title: "Mount Kinabalu 2-Day 1-Night Climb", description: "The standard 2-day summit climb.", price: "From $1322", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11fb0ad643e14e3c6062eb80d8ac806cdce5cd83e58b32ecf22bf1b2d0fee354.jpg" },
+                    },
+                    {
+                        title: "Best for a Slower Pace: 3 Days 2 Night Mount Kinabalu Climb",
+                        content: "This extends the climb to three days, giving more acclimatization time and a less rushed ascent than the standard 2-day version.",
+                        tourCard: { slug: "sabah-3-days-2-night-mount-kinabalu-climb", title: "Sabah: 3 Days 2 Night Mount Kinabalu Climb", description: "A longer, less rushed 3-day Mount Kinabalu climb.", price: "From $2273", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1008301/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for Nature & Coffee: 3-Day Tenom Jungle Lodge & Coffee Tour",
+                        content: "Rather than summiting, this covers the Tenom jungle lodge and local coffee farms, a non-climbing alternative for travellers who want nature immersion without the mountain ascent.",
+                        tourCard: { slug: "kota-kinabalu-3-day-tenom-jungle-lodge-coffee-tour", title: "Kota Kinabalu: 3-Day Tenom Jungle Lodge & Coffee Tour", description: "A 3-day jungle lodge and coffee farm tour, no climbing required.", price: "From $1098", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1329812/img0/1600.webp" },
+                    },
+                    {
+                        title: "Most Comprehensive: 4-Day Sabah Nature, Culture & Island Tour",
+                        content: "The widest-ranging multi-day option, combining nature, culture, and island time into a single 4-day itinerary rather than focusing on one theme.",
+                        tourCard: { slug: "kota-kinabalu-4-day-sabah-nature-culture-island", title: "Kota Kinabalu: 4-Day Sabah Nature, Culture & Island Tour", description: "A comprehensive 4-day tour covering nature, culture, and islands.", price: "From $1119", duration: "4 days", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1092483/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Mount Kinabalu climb permits are limited daily, so book well in advance, especially in peak season (roughly March to August). Average fitness is enough for the standard 2-day climb, but altitude and cold at the summit stage surprise many first-timers — pack warm layers even though Sabah is tropical at sea level."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best multi-day Sabah adventure tour from Kota Kinabalu?", a: "A 2-day Mount Kinabalu climb suits summit-focused travellers; the nature/culture/island tours suit those who don't want to climb." },
+                    { q: "Do I need climbing experience for Mount Kinabalu?", a: "No technical climbing skill is required, but reasonable fitness and acclimatization matter given the altitude." },
+                    { q: "How far in advance should I book a Mount Kinabalu climb?", a: "Well in advance, since daily permits are limited, especially in peak season." },
+                    { q: "Are there multi-day Sabah tours that don't involve climbing?", a: "Yes, the Tenom jungle lodge/coffee tour and the 4-day nature/culture/island tour don't require summiting." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best multi-day Sabah adventure tour?", "acceptedAnswer": { "@type": "Answer", "text": "A 2-day Mount Kinabalu climb suits summit-focused travellers." } },
+                        { "@type": "Question", "name": "Do I need climbing experience?", "acceptedAnswer": { "@type": "Answer", "text": "No, but reasonable fitness and acclimatization matter." } },
+                        { "@type": "Question", "name": "How far in advance to book?", "acceptedAnswer": { "@type": "Answer", "text": "Well in advance, permits are limited daily." } },
+                        { "@type": "Question", "name": "Are there non-climbing multi-day tours?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the Tenom and 4-day nature/culture/island tours." } }
+                    ]
+                },
+            };
+
         default:
             return null;
     }

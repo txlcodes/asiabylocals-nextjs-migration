@@ -192,6 +192,14 @@ const KOTA_KINABALU_SIDEBAR = [
     { name: 'Island Hopping', slug: 'kota-kinabalu-island-hopping' },
     { name: 'Best Mari Mari Cultural Village Tour', slug: 'best-mari-mari-cultural-village-tour-kota-kinabalu' },
     { name: 'Best Manukan & Sapi Island Tour', slug: 'best-island-hopping-tour-kota-kinabalu' },
+    { name: 'Best Firefly River Cruise Tour', slug: 'best-firefly-river-cruise-tour-kota-kinabalu' },
+    { name: 'Best City Tour', slug: 'best-city-tour-kota-kinabalu' },
+    { name: 'Best Tanjung Aru Kayaking/SUP Tour', slug: 'best-tanjung-aru-kayaking-paddleboarding-tour-kota-kinabalu' },
+    { name: 'Best Island Snorkeling Tour', slug: 'best-island-snorkeling-tour-kota-kinabalu' },
+    { name: 'Best White Water Rafting Tour', slug: 'best-white-water-rafting-tour-kota-kinabalu' },
+    { name: 'Best Sunset Cruise Tour', slug: 'best-sunset-cruise-tour-kota-kinabalu' },
+    { name: 'Best Kundasang & Ranau Highlands Tour', slug: 'best-kundasang-ranau-highlands-tour-kota-kinabalu' },
+    { name: 'Best Multi-Day Sabah Adventure Tour', slug: 'best-multiday-sabah-adventure-tour-kota-kinabalu' },
 ];
 
 // Recommended tour links for internal linking from authority pages to tour pages (SEO: pass link juice)
