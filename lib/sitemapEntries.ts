@@ -348,6 +348,15 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
 
   const muscatInfoPages = [
     'best-wahiba-sands-desert-tour-muscat', 'best-dolphin-watching-tour-muscat',
+    'best-sultan-qaboos-grand-mosque-tour-muscat', 'best-nizwa-jebel-akhdar-day-trip-muscat',
+    'best-jebel-akhdar-overnight-tour-muscat', 'best-jebel-shams-grand-canyon-tour-muscat',
+    'best-wadi-shab-tour-muscat', 'best-daymaniyat-islands-snorkeling-tour-muscat',
+    'best-scuba-diving-tour-muscat', 'best-fishing-trip-muscat',
+    'best-kayaking-tour-muscat', 'best-overnight-camping-trip-muscat',
+    'best-bimmah-sinkhole-tour-muscat', 'best-horse-riding-tour-muscat',
+    'best-quad-biking-tour-muscat', 'best-city-tour-muscat',
+    'best-nakhal-fort-hot-springs-tour-muscat', 'best-sunset-dhow-cruise-muscat',
+    'best-wadi-bani-awf-bilad-sayt-tour-muscat', 'best-muttrah-souq-tour-muscat',
   ].map(slug => ({
     url: `${BASE_URL}/oman/muscat/${slug}`,
     lastModified: new Date(),
