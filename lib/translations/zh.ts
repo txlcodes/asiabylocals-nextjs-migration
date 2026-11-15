@@ -11488,6 +11488,23 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "koh-phai-and-koh-sak-catamaran-party-cruise-tour-in-pattaya": {
+  "title": "芭堤雅派岛与萨克岛双体船派对游船之旅",
+  "metaTitle": "芭堤雅派岛与萨克岛双体船派对游船之旅",
+  "shortDescription": "9小时的Pattaya游览，含Koh Phai。运营商：Odeon Tours DMC Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场9小时的Pattaya体验，围绕Koh Phai展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、船上午餐、船上晚餐、指定酒精饮品及浮潜。不包含私人接送及额外项目，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPattaya City.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "船上午餐",
+   "船上晚餐",
+   "指定酒精饮品",
+   "浮潜"
+  ],
+  "notIncluded": [
+   "私人接送",
+   "额外项目"
+  ]
+ },
  "koh-rin-and-bamboo-beach-sunset-premium-tour-in-pattaya": {
   "title": "芭堤雅林岛与竹子海滩日落高级之旅",
   "metaTitle": "芭堤雅林岛与竹子海滩日落高级之旅",
@@ -12014,6 +12031,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "套餐以外的任何额外食品或单点菜品"
   ]
  },
+ "koh-larn-trip-with-thai-massage": {
+  "title": "格兰岛之旅含泰式按摩",
+  "metaTitle": "格兰岛之旅含泰式按摩",
+  "shortDescription": "8小时的Pattaya游览，含往返格兰岛快艇、海滩椅及格兰岛意外保险。运营商：Bangkok Charm Tour Co.,LTD.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Pattaya体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含往返格兰岛快艇、海滩椅及格兰岛意外保险。不包含餐食、个人花费及按摩师小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "往返格兰岛快艇",
+   "海滩椅",
+   "格兰岛意外保险"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人花费",
+   "按摩师小费"
+  ]
+ },
  "muscat-wahiba-desert-and-wadi-bani-khalid-in-pattaya": {
   "title": "马斯喀特：瓦哈伊巴沙漠和瓦迪巴尼哈利德（芭堤雅）",
   "metaTitle": "马斯喀特：瓦哈伊巴沙漠和瓦迪巴尼哈利德（芭堤雅）",
@@ -12314,6 +12347,23 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "phi-phi-and-bamboo-islands-snorkeling-by-speedboat": {
+  "title": "快艇畅游披披岛与竹子岛浮潜之旅",
+  "metaTitle": "快艇畅游披披岛与竹子岛浮潜之旅",
+  "shortDescription": "10小时的Phuket游览，含Phuket及Speedboat and Maya Bay。运营商：Amazing Canoeing，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场10小时的Phuket体验，围绕Phuket及Speedboat and Maya Bay展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n皮皮岛距普吉岛45公里，距甲米40公里，是两座石灰岩岛屿，皮皮东岛（Phi Phi Don）有村庄和酒店，皮皮莱岛（Phi Phi Leh）则无人居住，岛上有玛雅湾，也就是2000年那部电影的拍摄海滩。玛雅湾在2018年至2022年间关闭，让珊瑚礁得以恢复，如今实行湾内禁止船只驶入、从岛后方设有步道进入、禁止游泳，并且每年8月至9月都会关闭。Pileh潟湖、维京洞穴和竹子岛（Bamboo Island）是每条快艇航线的其他停靠点；11月至4月海面最为平静，早班船能在人群到来之前抵达玛雅湾。\n\n价格包含普吉岛酒店接送、国家公园费用、皇家普吉码头办公室的小点心、船游行程的实际信息及两次浮潜活动。不包含小费及含酒精饮品可在皇家普吉码头另行购买，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Phuket提供酒店接送。Amazing Canoeing将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "普吉岛酒店接送",
+   "国家公园费用",
+   "皇家普吉码头办公室的小点心",
+   "船游行程的实际信息",
+   "两次浮潜活动"
+  ],
+  "notIncluded": [
+   "小费",
+   "含酒精饮品可在皇家普吉码头另行购买"
+  ]
+ },
  "maya-beach-bamboo-island-and-phi-phi-islands-tour": {
   "title": "玛雅湾、竹子岛和皮皮群岛一日游",
   "metaTitle": "玛雅湾、竹子岛和皮皮群岛一日游",
@@ -12487,6 +12537,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "毛巾及脚蹼",
    "国家公园费用（成人300泰铢，儿童150泰铢）"
+  ]
+ },
+ "premium-atv-bike-with-big-buddha-tour-in-phuket": {
+  "title": "普吉岛高级越野车与大佛之旅",
+  "metaTitle": "普吉岛高级越野车与大佛之旅",
+  "shortDescription": "1小时的Phuket游览，含经验丰富的领队、免费瓶装水、冷饮及冰毛巾及急救保险。运营商：Travel Bays Network Co. Ltd，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1小时的Phuket体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n普吉岛自身的景点大多远离海滩。普吉老城Thalang路和Soi Romanee街上的中葡式骑楼，是1900年代经营锡矿贸易的华商所建，如今已变成咖啡馆和画廊，傍晚时段最适合漫步游览。大佛（Big Buddha）坐落于Nakkerd山上，高45米，以白色大理石建成，可俯瞰岛屿两侧海岸，免费参观；山下的查龙寺是岛上最重要的寺庙；南端的攀塔海角是大家看日落的首选地。半日岛屿游通常会把这些景点与观景台串联起来；标准路线依次为卡伦观景台、攀塔海角、大佛、查龙寺和老城。\n\n价格包含经验丰富的领队、免费瓶装水、冷饮及冰毛巾及急救保险。不包含餐食及饮品（不含含项中列出的免费饮品）及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "经验丰富的领队",
+   "免费瓶装水、冷饮及冰毛巾",
+   "急救保险"
+  ],
+  "notIncluded": [
+   "餐食及饮品（不含含项中列出的免费饮品）",
+   "小费"
   ]
  },
  "similan-islands-speed-catamaran-tour-with-lunch": {
@@ -13296,6 +13361,38 @@ export const ZH_TOURS: Record<string, TourT> = {
    "自愿小费及服务费"
   ]
  },
+ "phang-nga-bay-early-bird-james-bond-and-beyond-tour-phuket": {
+  "title": "普吉岛早鸟攀牙湾007岛深度游",
+  "metaTitle": "普吉岛早鸟攀牙湾007岛深度游",
+  "shortDescription": "8小时的Phuket游览，含Phuket及Speedboat and Samet Nangshe Viewpoint。运营商：Siam Adventure World，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Phuket体验，围绕Phuket及Speedboat and Samet Nangshe Viewpoint展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含面包车酒店接送、快艇接送、国家公园费用、导游及皮划艇。不包含毛巾及防水袋，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Phuket and Khao Lak提供接送服务；具体地点和时间将在预订确认后与Siam Adventure World协商确定，所选套餐决定是否包含交通费用。\n\n在Phuket提供酒店接送。Siam Adventure World将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "面包车酒店接送",
+   "快艇接送",
+   "国家公园费用",
+   "导游",
+   "皮划艇"
+  ],
+  "notIncluded": [
+   "毛巾",
+   "防水袋"
+  ]
+ },
+ "james-bond-and-sea-cave-canoeing-by-big-boat": {
+  "title": "大船出发007岛与海蚀洞独木舟之旅",
+  "metaTitle": "大船出发007岛与海蚀洞独木舟之旅",
+  "shortDescription": "6.5小时的Phuket游览，含Aopor Pier Phuket及Panak Island and James Bond Island。运营商：AnyWhere tours，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6.5小时的Phuket体验，围绕Aopor Pier Phuket及Panak Island and James Bond Island展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含免费接送区域内的往返接送（仅限预订含接送套餐）、瓶装水及咖啡及茶。不包含国家公园门票（成人300泰铢/儿童150泰铢）及其他个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Phuket提供酒店接送。AnyWhere tours将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "免费接送区域内的往返接送（仅限预订含接送套餐）",
+   "瓶装水",
+   "咖啡及茶"
+  ],
+  "notIncluded": [
+   "国家公园门票（成人300泰铢/儿童150泰铢）",
+   "其他个人花费"
+  ]
+ },
  "phuket-racha-yai-and-coral-island-speedboat-tour-after-sun-spa-by-local-operator": {
   "title": "普吉岛拉差艾岛和珊瑚岛快艇之旅+日晒后水疗（本地运营商）",
   "metaTitle": "普吉岛拉差艾岛和珊瑚岛快艇之旅+日晒后水疗（本地运营商）",
@@ -13400,6 +13497,23 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "小吃",
    "酒精饮品"
+  ]
+ },
+ "phi-phi-and-khai-islands-speedboat-tour": {
+  "title": "快艇披披岛与蛋岛之旅",
+  "metaTitle": "快艇披披岛与蛋岛之旅",
+  "shortDescription": "9小时的Phuket游览，含Royal Phuket Marina及Speedboat and Maya Bay。运营商：Amazing Canoeing，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场9小时的Phuket体验，围绕Royal Phuket Marina及Speedboat and Maya Bay展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含普吉岛酒店接送、国家公园费用、皇家普吉码头办公室的小点心、船游行程的实际信息及两次浮潜活动。不包含小费及含酒精饮品可在皇家普吉码头另行购买，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Phuket提供酒店接送。Amazing Canoeing将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "普吉岛酒店接送",
+   "国家公园费用",
+   "皇家普吉码头办公室的小点心",
+   "船游行程的实际信息",
+   "两次浮潜活动"
+  ],
+  "notIncluded": [
+   "小费",
+   "含酒精饮品可在皇家普吉码头另行购买"
   ]
  },
  "twilight-sea-canoe-to-james-bond-island-w-glowing-plankton-phuket": {
@@ -13904,6 +14018,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "纪念照片可另行购买"
   ]
  },
+ "tiger-park-safari-big-buddha-atv-elephants-and-old-town-in-phuket": {
+  "title": "普吉岛老虎园、大佛、越野车、大象及老城之旅",
+  "metaTitle": "普吉岛老虎园、大佛、越野车、大象及老城之旅",
+  "shortDescription": "7小时的Phuket游览，含酒店接送、专业英语导游、参观普吉大佛、参观查龙寺及30分钟越野车探险。运营商：Choke Chai M Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Phuket体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、专业英语导游、参观普吉大佛、参观查龙寺及30分钟越野车探险。不包含额外接送费300泰铢/人：奈焕海滩、拉威海滩、西拉岛湾、林欣、苏林海滩、冲塔莱、邦涛、拉古纳，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Phuket提供酒店接送。Choke Chai M Travel将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "专业英语导游",
+   "参观普吉大佛",
+   "参观查龙寺",
+   "30分钟越野车探险"
+  ],
+  "notIncluded": [
+   "额外接送费300泰铢/人：奈焕海滩、拉威海滩、西拉岛湾、林欣、苏林海滩、冲塔莱、邦涛、拉古纳"
+  ]
+ },
  "james-bond-island-luxury-sunset-cruise": {
   "title": "007岛豪华日落游船之旅",
   "metaTitle": "007岛豪华日落游船之旅",
@@ -14201,6 +14331,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "国家公园门票（成人400泰铢，儿童200泰铢）"
   ]
  },
+ "sunrise-viewpoint-and-kayaking-tour-with-pickup-in-krabi": {
+  "title": "甲米日出观景台与皮划艇之旅（含接送）",
+  "metaTitle": "甲米日出观景台与皮划艇之旅（含接送）",
+  "shortDescription": "5小时的Krabi游览，含Din Daeng Doi and Kayak KlongRood Kayaking。运营商：MK TOUR，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Krabi体验，围绕Din Daeng Doi and Kayak KlongRood Kayaking展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送（不含船只接送）、英语导游及季节性新鲜水果。不包含莱利住客船只接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nAo Nang.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送（不含船只接送）",
+   "英语导游",
+   "季节性新鲜水果"
+  ],
+  "notIncluded": [
+   "莱利住客船只接送"
+  ]
+ },
  "krabi-hot-springs-tour-with-german-guide": {
   "title": "甲米温泉之旅（德语导游）",
   "metaTitle": "甲米温泉之旅（德语导游）",
@@ -14216,6 +14360,38 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "国家公园门票，成人400泰铢，儿童200泰铢",
    "个人花费"
+  ]
+ },
+ "4-islands-easy-snorkel-and-beach-day-by-speedboat": {
+  "title": "快艇4岛轻松浮潜与海滩一日游",
+  "metaTitle": "快艇4岛轻松浮潜与海滩一日游",
+  "shortDescription": "7小时的Krabi游览，含Speedboat。运营商：Monica travel and tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Krabi体验，围绕Speedboat展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含甲米指定区域的酒店接送、往返快艇交通及英语导游。不包含海洋国家公园门票、个人花费、小费及毛巾，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Tubkaek Beach、Ao Nang及Ao Nam Mao Beach and Krabi Town提供接送服务；具体地点和时间将在预订确认后与Monica travel and tour协商确定，所选套餐决定是否包含交通费用。\n\n在Krabi提供酒店接送。Monica travel and tour将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "甲米指定区域的酒店接送",
+   "往返快艇交通",
+   "英语导游"
+  ],
+  "notIncluded": [
+   "海洋国家公园门票",
+   "个人花费",
+   "小费",
+   "毛巾"
+  ]
+ },
+ "game-fishing-by-french-and-spanish-guide-in-krabi": {
+  "title": "甲米海钓之旅（法语及西班牙语导游）",
+  "metaTitle": "甲米海钓之旅（法语及西班牙语导游）",
+  "shortDescription": "7小时的Krabi游览，含View point。运营商：Ask Discovery Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Krabi体验，围绕View point展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰式按摩是一套在地板上进行的拉伸与沿身体经络施压的手法，穿着宽松衣物进行，不使用按摩油，其源头可追溯到随佛教传入的阿育吠陀传统；曼谷卧佛寺（Wat Pho）按摩学校自1955年起开始教授这门技艺，其学生如今遍布全国各地的按摩馆。一次正规的两小时按摩应该让你感到放松，而不是酸痛；如果想要力道轻一点，可以说“bao bao”。油压按摩、足底反射疗法，以及用蒸熏过的泰姜和柠檬草制成的草药热敷包，是其他常见的项目。价格从街边小店的几百泰铢到度假村水疗中心的数千泰铢不等，而街边小店往往手法更好。\n\n价格包含甲米酒店接送、法语及西班牙语导游及全部钓具（鱼竿、渔具及鱼饵）。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Ask Discovery Thailand将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "甲米酒店接送",
+   "法语及西班牙语导游",
+   "全部钓具（鱼竿、渔具及鱼饵）"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
   ]
  },
  "hong-island-tour-with-spanish-or-french-speaking-guide": {
@@ -14234,6 +14410,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "可自愿支付的小费"
   ]
  },
+ "atv-and-kayak-tour-with-sunset-at-khao-thong-hill-in-krabi": {
+  "title": "甲米考通山越野车、皮划艇与日落之旅",
+  "metaTitle": "甲米考通山越野车、皮划艇与日落之旅",
+  "shortDescription": "3小时的Krabi游览，含往返接送、穿越山林的越野车骑行、塔拉内湾红树林皮划艇、专业导游及安全须知及必要装备。运营商：TUM Tours&Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含往返接送、穿越山林的越野车骑行、塔拉内湾红树林皮划艇、专业导游及安全须知及必要装备。不包含食物及饮料，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nAo Nang.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "往返接送",
+   "穿越山林的越野车骑行",
+   "塔拉内湾红树林皮划艇",
+   "专业导游",
+   "安全须知及必要装备"
+  ],
+  "notIncluded": [
+   "食物及饮料"
+  ]
+ },
  "emerald-isles-a-speedboat-and-kayak-odyssey-adventure-in-krabi": {
   "title": "甲米翡翠群岛：快艇与皮划艇探险之旅",
   "metaTitle": "甲米翡翠群岛：快艇与皮划艇探险之旅",
@@ -14249,6 +14441,72 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "小费",
    "塔邦哥拉尼国家公园费用（成人300泰铢，儿童150泰铢）"
+  ]
+ },
+ "amazing-bor-thor-cave-boat-tour-and-three-temples-in-krabi": {
+  "title": "甲米波托洞船游与三寺庙之旅",
+  "metaTitle": "甲米波托洞船游与三寺庙之旅",
+  "shortDescription": "8小时的Krabi游览，含酒店接送、波托村长尾船游、寺庙门票、泰式午餐及饮用水。运营商：Ask Discovery Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国大约有40,000座佛教寺庙，各处的礼仪规矩相同：遮住肩膀和膝盖，进入有佛像的建筑前要脱鞋，双脚不可指向佛像或僧侣，女性不可触碰僧侣或直接将物品递交给僧侣。清晨僧侣沿街托钵的布施仪式，是每日的积德活动，并非表演，建议随同懂得规矩的当地人一起参与。清迈和曼谷郊外的寺庙还提供从一天到一个月的禅修课程，以英语授课，费用以布施形式支付。\n\n价格包含酒店接送、波托村长尾船游、寺庙门票、泰式午餐及饮用水。不包含国家公园门票（成人300泰铢/儿童150泰铢）及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Mueang Krabi District及Tubkak hotel and resort and Ao Nang提供接送服务；具体地点和时间将在预订确认后与Ask Discovery Thailand协商确定，所选套餐决定是否包含交通费用。\n\n在Krabi提供酒店接送。Ask Discovery Thailand将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "波托村长尾船游",
+   "寺庙门票",
+   "泰式午餐",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "国家公园门票（成人300泰铢/儿童150泰铢）",
+   "个人花费"
+  ]
+ },
+ "krabi-4-islands-tour-with-german-guide": {
+  "title": "甲米4岛之旅（德语导游）",
+  "metaTitle": "甲米4岛之旅（德语导游）",
+  "shortDescription": "11小时的Krabi游览，含考拉克酒店接送、德语导游、午餐、饮用水及浮潜面镜。运营商：Ask Discovery Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场11小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含考拉克酒店接送、德语导游、午餐、饮用水及浮潜面镜。不包含国家公园门票（成人200泰铢/儿童100泰铢）及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从McDonald’s Khao Lak and Bangsak Village提供接送服务；具体地点和时间将在预订确认后与Ask Discovery Thailand协商确定，所选套餐决定是否包含交通费用。\n\n在Krabi提供酒店接送。Ask Discovery Thailand将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "考拉克酒店接送",
+   "德语导游",
+   "午餐",
+   "饮用水",
+   "浮潜面镜"
+  ],
+  "notIncluded": [
+   "国家公园门票（成人200泰铢/儿童100泰铢）",
+   "个人花费"
+  ]
+ },
+ "hong-island-kayak-snorkel-and-sunset-tour": {
+  "title": "红岛皮划艇、浮潜与日落之旅",
+  "metaTitle": "红岛皮划艇、浮潜与日落之旅",
+  "shortDescription": "11小时的Krabi游览，含酒店接送、海上皮划艇装备及红岛船游。运营商：Ask Discovery Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场11小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含酒店接送、海上皮划艇装备及红岛船游。不包含国家公园门票（成人300泰铢/儿童100泰铢）及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Ao Nang及Tubkak hotel and resort and Mueang Krabi District提供接送服务；具体地点和时间将在预订确认后与Ask Discovery Thailand协商确定，所选套餐决定是否包含交通费用。\n\n在Krabi提供酒店接送。Ask Discovery Thailand将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "海上皮划艇装备",
+   "红岛船游"
+  ],
+  "notIncluded": [
+   "国家公园门票（成人300泰铢/儿童100泰铢）",
+   "个人花费"
+  ]
+ },
+ "kayaking-cave-atv-and-swimming-tour-with-lunch-in-krabi": {
+  "title": "甲米皮划艇、洞穴、越野车与游泳之旅（含午餐）",
+  "metaTitle": "甲米皮划艇、洞穴、越野车与游泳之旅（含午餐）",
+  "shortDescription": "5小时的Krabi游览，含酒店接送、海上皮划艇装备、越野车骑行体验、午餐及季节性水果和饮用水。运营商：Ask Discovery Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含酒店接送、海上皮划艇装备、越野车骑行体验、午餐及季节性水果和饮用水。不包含国家公园门票（成人100泰铢/儿童50泰铢）及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Mueang Krabi District及Tubkak hotel and resort and Ao Nang提供接送服务；具体地点和时间将在预订确认后与Ask Discovery Thailand协商确定，所选套餐决定是否包含交通费用。\n\n在Krabi提供酒店接送。Ask Discovery Thailand将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "海上皮划艇装备",
+   "越野车骑行体验",
+   "午餐",
+   "季节性水果和饮用水"
+  ],
+  "notIncluded": [
+   "国家公园门票（成人100泰铢/儿童50泰铢）",
+   "个人花费"
   ]
  },
  "ko-lanta-half-day-mangrove-eco-kayak-experience-with-lunch-krabi": {
@@ -14277,6 +14535,18 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食及额外饮品",
    "小费"
   ]
+ },
+ "khao-ngon-nak-hiking-kayaking-and-lunch-day-trip-in-krabi": {
+  "title": "甲米考云纳克徒步、皮划艇与午餐一日游",
+  "metaTitle": "甲米考云纳克徒步、皮划艇与午餐一日游",
+  "shortDescription": "8小时的Krabi游览，含考洪纳克步道徒步、海滩咖啡馆午餐及龙路皮划艇。运营商：LoveLay Andaman，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含考洪纳克步道徒步、海滩咖啡馆午餐及龙路皮划艇。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Sailfish Sculpture and Ao Nang Beach提供接送服务；具体地点和时间将在预订确认后与LoveLay Andaman协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "考洪纳克步道徒步",
+   "海滩咖啡馆午餐",
+   "龙路皮划艇"
+  ],
+  "notIncluded": []
  },
  "jungle-atv-tour-and-thai-cooking-class-with-pickup-in-krabi": {
   "title": "甲米丛林全地形车之旅和泰式烹饪课（含接送）",
@@ -14379,6 +14649,23 @@ export const ZH_TOURS: Record<string, TourT> = {
    "诺帕拉塔拉和皮皮群岛国家公园费用（成人200泰铢，儿童100泰铢）"
   ]
  },
+ "klong-root-kayak-and-atv-30-45-60-min-khlong-nam-sai-in-krabi": {
+  "title": "甲米龙路皮划艇与越野车（30/45/60分钟）及南赛运河之旅",
+  "metaTitle": "甲米龙路皮划艇与越野车（30/45/60分钟）及南赛运河之旅",
+  "shortDescription": "3小时的Krabi游览，含Krabi Atv Adventure @ Kayaking Klongroot and Krabi Atv Adventure At Aonang。运营商：krabiatvadventure Co., Ltd，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Krabi体验，围绕Krabi Atv Adventure @ Kayaking Klongroot and Krabi Atv Adventure At Aonang展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含奥南海滩、奥南毛及龙梦海滩区域的酒店接送、龙路水晶湖皮划艇及越野车骑行。不包含毛巾、雨衣、从甲米市区出发的接送（每人200泰铢）及从莱利海滩出发的酒店接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nAo Nammao.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "奥南海滩、奥南毛及龙梦海滩区域的酒店接送",
+   "龙路水晶湖皮划艇",
+   "越野车骑行"
+  ],
+  "notIncluded": [
+   "毛巾",
+   "雨衣",
+   "从甲米市区出发的接送（每人200泰铢）",
+   "从莱利海滩出发的酒店接送"
+  ]
+ },
  "twilight-treasure-hunt-7-island-speedboat-adventure-in-krabi": {
   "title": "甲米暮色寻宝之旅：7岛快艇探险",
   "metaTitle": "甲米暮色寻宝之旅：7岛快艇探险",
@@ -14392,6 +14679,35 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "小费",
    "诺帕拉塔拉和皮皮群岛国家公园费用（成人200泰铢，儿童100泰铢）"
+  ]
+ },
+ "huai-to-waterfall-tiger-cave-temple-and-kayak-tour-in-krabi": {
+  "title": "甲米怀多瀑布、虎穴洞寺与皮划艇之旅",
+  "metaTitle": "甲米怀多瀑布、虎穴洞寺与皮划艇之旅",
+  "shortDescription": "8小时的Krabi游览，含Wat Tham Suea。运营商：LoveLay Andaman，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Krabi体验，围绕Wat Tham Suea展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含怀多瀑布参观、参观虎穴洞寺及午餐。不包含国家公园门票200泰铢/人，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Aonang (Starbucks Aonang)及Sailfish Sculpture and Ao Nang Beach提供接送服务；具体地点和时间将在预订确认后与LoveLay Andaman协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "怀多瀑布参观",
+   "参观虎穴洞寺",
+   "午餐"
+  ],
+  "notIncluded": [
+   "国家公园门票200泰铢/人"
+  ]
+ },
+ "krabi-sunrise-market-and-river-heritage-tour-by-local-operator": {
+  "title": "甲米日出市场与河畔古迹之旅（本地运营商）",
+  "metaTitle": "甲米日出市场与河畔古迹之旅（本地运营商）",
+  "shortDescription": "1小时的Krabi游览，含酒店接送、英语司机及本地早餐。运营商：ธนภัทรการท่องเที่ยว2025จำกัด，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、英语司机及本地早餐。不包含门票（成人100泰铢/儿童50泰铢）及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nกระบี่ ประเทศไทย.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "英语司机",
+   "本地早餐"
+  ],
+  "notIncluded": [
+   "门票（成人100泰铢/儿童50泰铢）",
+   "个人花费"
   ]
  },
  "on-the-hill-off-road-atv-adventure-30-minute-in-krabi": {
@@ -14469,6 +14785,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "railay-rock-climbing-bat-cave-and-viewpoint-abseil": {
+  "title": "莱利攀岩、蝙蝠洞与观景台速降之旅",
+  "metaTitle": "莱利攀岩、蝙蝠洞与观景台速降之旅",
+  "shortDescription": "4小时的Krabi游览，含Other water transport and Railay Beach。运营商：Thailand Escapes，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Krabi体验，围绕Other water transport and Railay Beach展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含奥南海滩及奥南毛往返酒店接送、前往莱利海滩的交通为长尾船及饮用水。不包含奥南海滩以外区域接送（需额外收费）及餐食，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nAo Nang.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "奥南海滩及奥南毛往返酒店接送",
+   "前往莱利海滩的交通为长尾船",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "奥南海滩以外区域接送（需额外收费）",
+   "餐食"
+  ]
+ },
  "james-bond-and-hong-islands-withcanoeing-by-speed-boat": {
   "title": "007岛和红岛快艇之旅（含划艇）",
   "metaTitle": "007岛和红岛快艇之旅（含划艇）",
@@ -14484,6 +14815,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费",
    "脚蹼",
    "国家公园门票费用（成人600泰铢，儿童300泰铢）"
+  ]
+ },
+ "sunrise-panoramic-view-atv-and-kayak-tour-in-krabi": {
+  "title": "甲米日出全景、越野车与皮划艇之旅",
+  "metaTitle": "甲米日出全景、越野车与皮划艇之旅",
+  "shortDescription": "6小时的Krabi游览，含Din Daeng Doi及Khao Thong and Klong Root。运营商：TUM Tours&Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6小时的Krabi体验，围绕Din Daeng Doi及Khao Thong and Klong Root展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含往返接送、穿越山林的越野车骑行、龙路红树林皮划艇、专业导游及安全须知及必要装备。不包含食物及饮料，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nAo Nang.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "往返接送",
+   "穿越山林的越野车骑行",
+   "龙路红树林皮划艇",
+   "专业导游",
+   "安全须知及必要装备"
+  ],
+  "notIncluded": [
+   "食物及饮料"
   ]
  },
  "1-day-khao-sok-and-2-day-cheow-lan-lake-safari-in-krabi": {
@@ -14527,6 +14874,52 @@ export const ZH_TOURS: Record<string, TourT> = {
    "皮划艇装备"
   ],
   "notIncluded": []
+ },
+ "half-day-dirt-bike-off-road-nature-trail-adventure-in-krabi": {
+  "title": "甲米半日越野摩托车自然步道探险",
+  "metaTitle": "甲米半日越野摩托车自然步道探险",
+  "shortDescription": "4小时的Krabi游览，含甲米指定区域酒店接送、本地专业导游及越野摩托车租赁（如选择该套餐）。运营商：Eco Ventures Co., Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含甲米指定区域酒店接送、本地专业导游及越野摩托车租赁（如选择该套餐）。不包含区域外酒店接送及配备无人机及专业相机的专业摄影师，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Eco Ventures Co., Ltd.将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "甲米指定区域酒店接送",
+   "本地专业导游",
+   "越野摩托车租赁（如选择该套餐）"
+  ],
+  "notIncluded": [
+   "区域外酒店接送",
+   "配备无人机及专业相机的专业摄影师"
+  ]
+ },
+ "phang-nga-bay-eco-adventure-boat-tour": {
+  "title": "攀牙湾生态探险船游",
+  "metaTitle": "攀牙湾生态探险船游",
+  "shortDescription": "8小时的Krabi游览，含奥南海滩、甲米镇及龙梦海滩的往返酒店接送、专业英语导游及由经验丰富的本地船夫带领的海上独木舟体验。运营商：Choke Chai M Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含奥南海滩、甲米镇及龙梦海滩的往返酒店接送、专业英语导游及由经验丰富的本地船夫带领的海上独木舟体验。不包含国家公园门票须以现金直接支付给公园管理人员及酒精饮料，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Choke Chai M Travel将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "奥南海滩、甲米镇及龙梦海滩的往返酒店接送",
+   "专业英语导游",
+   "由经验丰富的本地船夫带领的海上独木舟体验"
+  ],
+  "notIncluded": [
+   "国家公园门票须以现金直接支付给公园管理人员",
+   "酒精饮料"
+  ]
+ },
+ "railay-beach-bioluminescent-plankton-ferry-cruise": {
+  "title": "莱利海滩蓝眼泪夜光浮游生物渡船之旅",
+  "metaTitle": "莱利海滩蓝眼泪夜光浮游生物渡船之旅",
+  "shortDescription": "3小时的Krabi游览，含三明治（提供清真及素食选项）、果汁及新鲜水果。运营商：GR Rungtawan Co., LTD.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含三明治（提供清真及素食选项）、果汁及新鲜水果。不包含脚蹼、防水袋及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "三明治（提供清真及素食选项）",
+   "果汁",
+   "新鲜水果"
+  ],
+  "notIncluded": [
+   "脚蹼",
+   "防水袋",
+   "个人花费"
+  ]
  },
  "tour-4-islands-at-aonang": {
   "title": "奥南4岛之旅",
@@ -14621,6 +15014,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "导游"
   ]
  },
+ "klong-root-kayaking-tour-with-swim-stop-in-krabi": {
+  "title": "甲米龙路皮划艇之旅（含游泳停留）",
+  "metaTitle": "甲米龙路皮划艇之旅（含游泳停留）",
+  "shortDescription": "3小时的Krabi游览，含Krabi Atv Adventure @ Kayaking Klongroot and Lake tbc。运营商：krabiatvadventure Co., Ltd，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Krabi体验，围绕Krabi Atv Adventure @ Kayaking Klongroot and Lake tbc展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含导游、饮品及水果及奥南海滩、奥南毛及龙梦海滩区域的酒店接送。不包含午餐及莱利海滩及甲米镇区域酒店接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nAo Nammao.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "导游",
+   "饮品及水果",
+   "奥南海滩、奥南毛及龙梦海滩区域的酒店接送"
+  ],
+  "notIncluded": [
+   "午餐",
+   "莱利海滩及甲米镇区域酒店接送"
+  ]
+ },
  "ko-lanta-sea-cave-kayaking-adventure-and-mangrove-kayaking-krabi": {
   "title": "甲米：兰塔岛海洞皮划艇探险和红树林皮划艇",
   "metaTitle": "甲米：兰塔岛海洞皮划艇探险和红树林皮划艇",
@@ -14635,6 +15043,36 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "门票费用，成人40泰铢"
+  ]
+ },
+ "nong-thale-hidden-mountain-nature-trail-hike-in-krabi": {
+  "title": "甲米农塔莱隐秘山林步道徒步之旅",
+  "metaTitle": "甲米农塔莱隐秘山林步道徒步之旅",
+  "shortDescription": "7小时的Krabi游览，含甲米指定区域酒店接送、午餐及本地徒步向导。运营商：Eco Ventures Co., Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含甲米指定区域酒店接送、午餐及本地徒步向导。不包含个人花费及徒步装备（登山鞋、背包等），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Eco Ventures Co., Ltd.将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "甲米指定区域酒店接送",
+   "午餐",
+   "本地徒步向导"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "徒步装备（登山鞋、背包等）"
+  ]
+ },
+ "muay-thai-live-fight-experience-with-transfer-in-krabi": {
+  "title": "甲米泰拳现场格斗体验（含接送）",
+  "metaTitle": "甲米泰拳现场格斗体验（含接送）",
+  "shortDescription": "3小时的Krabi游览，含甲米泰拳馆门票、奥南海滩、奥南毛、甲米镇、图卡、龙梦海滩区域酒店往返接送及舒适空调交通接送。运营商：Eco Ventures Co., Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰拳，被称为“八体艺术”，是泰国的国技，曼谷体育馆里的比赛是真正的实战，而非表演：1945年开馆的拉差丹能体育馆和伦披尼体育馆是两大著名场馆，每场有8到10场对战，时间约从18:30持续到23:00，每场比赛前有拜师舞，现场的皮帕乐队会随着比赛节奏加快演奏，上层看台还能看到赌客们的手势暗语。场边座位票价最贵，二层看台才是气氛最热烈的地方。各城市健身房提供的训练课程，从一小时的游客体验课到完整训练营都有，是另一种体验泰拳的方式。\n\n价格包含甲米泰拳馆门票、奥南海滩、奥南毛、甲米镇、图卡、龙梦海滩区域酒店往返接送及舒适空调交通接送。不包含食物及饮料及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "甲米泰拳馆门票",
+   "奥南海滩、奥南毛、甲米镇、图卡、龙梦海滩区域酒店往返接送",
+   "舒适空调交通接送"
+  ],
+  "notIncluded": [
+   "食物及饮料",
+   "个人花费"
   ]
  },
  "krabi-to-phi-phi-cove-speedboat-and-longtail-island-combo-by-local-operator": {
@@ -14678,6 +15116,22 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "sunset-kayaking-through-klong-root-in-krabi": {
+  "title": "甲米龙路日落皮划艇之旅",
+  "metaTitle": "甲米龙路日落皮划艇之旅",
+  "shortDescription": "3小时的Krabi游览，含Klong Root。运营商：Best Backpacker Tours AoNang & Pai，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Krabi体验，围绕Klong Root展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含救生衣、班车服务、饮用水、新鲜水果及保险。不包含员工小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nAo Nang.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "救生衣",
+   "班车服务",
+   "饮用水",
+   "新鲜水果",
+   "保险"
+  ],
+  "notIncluded": [
+   "员工小费"
+  ]
+ },
  "aonang-thai-cooking-class-with-market-and-kitchen-garden-tour-in-krabi": {
   "title": "甲米奥南：泰式烹饪课（含市场和菜园游览）",
   "metaTitle": "甲米奥南：泰式烹饪课（含市场和菜园游览）",
@@ -14708,6 +15162,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "诺帕拉塔拉和皮皮群岛国家公园门票（现场支付）"
   ]
  },
+ "authentic-thai-local-cooking-class-in-krabi": {
+  "title": "甲米正宗泰式本地烹饪课程",
+  "metaTitle": "甲米正宗泰式本地烹饪课程",
+  "shortDescription": "3.5小时的Krabi游览，含酒店接送、饮用水、全部烹饪食材、PDF食谱电子书及实操烹饪课程。运营商：Authentic Thai Cooking School，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3.5小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\n价格包含酒店接送、饮用水、全部烹饪食材、PDF食谱电子书及实操烹饪课程。不包含可自费购买啤酒和酒类饮品，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Authentic Thai Cooking School将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "饮用水",
+   "全部烹饪食材",
+   "PDF食谱电子书",
+   "实操烹饪课程"
+  ],
+  "notIncluded": [
+   "可自费购买啤酒和酒类饮品"
+  ]
+ },
  "mantra-yoga-class-in-krabi": {
   "title": "甲米Mantra瑜伽课",
   "metaTitle": "甲米Mantra瑜伽课",
@@ -14736,6 +15206,51 @@ export const ZH_TOURS: Record<string, TourT> = {
    "不含莱利海滩及东赛海滩接送"
   ]
  },
+ "beginner-boxing-class-and-thai-boxing-fight-with-dinner-in-krabi": {
+  "title": "甲米泰拳入门课程与格斗赛（含晚餐）",
+  "metaTitle": "甲米泰拳入门课程与格斗赛（含晚餐）",
+  "shortDescription": "7小时的Krabi游览，含View point。运营商：Ask Discovery Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Krabi体验，围绕View point展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰拳，被称为“八体艺术”，是泰国的国技，曼谷体育馆里的比赛是真正的实战，而非表演：1945年开馆的拉差丹能体育馆和伦披尼体育馆是两大著名场馆，每场有8到10场对战，时间约从18:30持续到23:00，每场比赛前有拜师舞，现场的皮帕乐队会随着比赛节奏加快演奏，上层看台还能看到赌客们的手势暗语。场边座位票价最贵，二层看台才是气氛最热烈的地方。各城市健身房提供的训练课程，从一小时的游客体验课到完整训练营都有，是另一种体验泰拳的方式。\n\n价格包含甲米酒店接送、英语导游及本地教练指导的泰拳入门课程。不包含个人花费、市场内额外餐食及饮品及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nKrabi.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "甲米酒店接送",
+   "英语导游",
+   "本地教练指导的泰拳入门课程"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "市场内额外餐食及饮品",
+   "小费"
+  ]
+ },
+ "private-free-diving-5-point-island-experience-in-krabi": {
+  "title": "甲米私人自由潜水5岛体验",
+  "metaTitle": "甲米私人自由潜水5岛体验",
+  "shortDescription": "7小时的Krabi游览，含甲米指定区域酒店接送、专业本地导游及免费潜水脚蹼。运营商：Eco Ventures Co., Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n斯米兰群岛位于考拉克外海70公里处，是泰国最佳的潜水和浮潜地点，九座花岗岩岛屿拥有巨石礁、清澈的水域，北面诗林（Surin）群岛的理查森石（Richelieu Rock）还有机会遇见鲸鲨和蝠鲂。该国家公园仅在10月中旬至5月中旬开放，季风季节关闭；一日游可从考拉克或普吉岛乘快艇前往，潜水船宿行程为2到5天。浮潜者在Koh Miang和Koh Bangu的水面附近便能看到丰富的海洋生物；潜水者则应预订自有船只的潮水店，而非转售行程的中间商。\n\n价格包含甲米指定区域酒店接送、专业本地导游及免费潜水脚蹼。不包含个人花费、小费及取消行程（包括不可抗力因素）将获得全额退款，改期或其他方案不能替代退款，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Eco Ventures Co., Ltd.将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "甲米指定区域酒店接送",
+   "专业本地导游",
+   "免费潜水脚蹼"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费",
+   "取消行程（包括不可抗力因素）将获得全额退款，改期或其他方案不能替代退款"
+  ]
+ },
+ "deer-farm-experience-with-feeding-dining-and-sunset-trang-in-krabi": {
+  "title": "甲米董里鹿场喂食、用餐与日落体验",
+  "metaTitle": "甲米董里鹿场喂食、用餐与日落体验",
+  "shortDescription": "1小时的Krabi游览，含1. 农场参观及喂鹿体验。运营商：CERVIDAE COMPANY LIMITED，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nKoh Lanta, an hour and a half south of Krabi by road and car ferry, is the long, quiet island of the Andaman coast: a west-coast string of beaches that get emptier the further south you go, a national park at the tip with a lighthouse, and a Muslim fishing town on the east. Its day trips are the best in the region: Koh Rok's reef and beach, Koh Ngai and Koh Mook with the Emerald Cave, a swim through an 80-metre dark tunnel into a hidden lagoon, and Koh Haa's lagoon for snorkellers. The season is November to April; much of the island closes in the rains.\n\n价格包含1. 农场参观及喂鹿体验。不包含不含：及酒店接送（可按需提供，需额外收费），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nCervidae Farm.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "1. 农场参观及喂鹿体验"
+  ],
+  "notIncluded": [
+   "不含：",
+   "酒店接送（可按需提供，需额外收费）"
+  ]
+ },
  "khao-khanab-nam-caves-tour-with-romantic-boat-ride-in-krabi": {
   "title": "甲米考卡纳南洞穴之旅（含浪漫游船）",
   "metaTitle": "甲米考卡纳南洞穴之旅（含浪漫游船）",
@@ -14749,6 +15264,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "个人花费",
    "导游小费"
+  ]
+ },
+ "half-day-koh-klang-culture-cycling-tour-with-transfer-in-krabi": {
+  "title": "甲米半日克朗岛文化骑行之旅（含接送）",
+  "metaTitle": "甲米半日克朗岛文化骑行之旅（含接送）",
+  "shortDescription": "4小时的Krabi游览，含山地自行车、头盔及手套、横渡甲米河的长尾船及克朗岛门票。运营商：Krabi Eco Cycle，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国境内的实际距离往往比地图上看起来更远：曼谷到大城（阿瑜陀耶）为80公里，约90分钟；曼谷到北碧2个半小时；旺季时普吉机场到芭东海滩约1小时；清迈到清莱则需3小时。按车计费的私家车加司机服务，是3人以上出游一日游的合理选择，因为大巴行程按固定时间表运行，而Grab叫车软件在城际出行上并不好用。司机通常不是导游，如果想了解历史讲解，需要另外预订导游，或选择明确标明配有导游的行程。\n\n价格包含山地自行车、头盔及手套、横渡甲米河的长尾船及克朗岛门票。不包含午餐及其他个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Krabi Eco Cycle将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "山地自行车、头盔及手套",
+   "横渡甲米河的长尾船",
+   "克朗岛门票"
+  ],
+  "notIncluded": [
+   "午餐",
+   "其他个人花费"
   ]
  },
  "ko-lanta-4-islands-and-emerald-cave-day-tour-by-speedboat-krabi": {
@@ -14815,6 +15345,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "塔邦哥拉尼国家公园费用（成人300泰铢，儿童150泰铢）"
   ]
  },
+ "4-islands-one-day-tour-with-lunch": {
+  "title": "4岛一日游（含午餐）",
+  "metaTitle": "4岛一日游（含午餐）",
+  "shortDescription": "Krabi游览，含Tup Island及Chicken Island and Ko Poda。运营商：GR Rungtawan Co., LTD.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场Krabi体验，围绕Tup Island及Chicken Island and Ko Poda展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n甲米的四岛游是从奥南海滩出发的经典长尾船一日行程：莱利悬崖下的帕南洞穴海滩、鸡岛、低潮时连接Tup岛与Mor岛的沙堤（前后各有几个小时可供步行通过），以及岸外有喀斯特石塔的波达岛白沙滩。Hong群岛位于攀牙湾更北处，是更为宁静的替代选择，有一处需穿过悬崖缝隙才能进入的潟湖，以及一处400级台阶的观景点。海况很关键：11月到4月海面平静清澈，5月到10月遇恶劣天气时长尾船会停航。\n\n价格包含酒店接送、莱利西海滩接送及曲奇、饼干及咖啡。不包含国家公园门票（成人200泰铢，儿童100泰铢，04-11岁）及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Ao Nang and Krabi Town提供接送服务；具体地点和时间将在预订确认后与GR Rungtawan Co., LTD.协商确定，所选套餐决定是否包含交通费用。\n\n在Krabi提供酒店接送。GR Rungtawan Co., LTD.将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "莱利西海滩接送",
+   "曲奇、饼干及咖啡"
+  ],
+  "notIncluded": [
+   "国家公园门票（成人200泰铢，儿童100泰铢，04-11岁）",
+   "个人花费"
+  ]
+ },
  "a-swift-marine-journey-to-the-secrets-of-hong-lagoon-in-krabi": {
   "title": "甲米：探索红岛泻湖奥秘的畅快海上之旅",
   "metaTitle": "甲米：探索红岛泻湖奥秘的畅快海上之旅",
@@ -14830,6 +15375,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "塔邦科拉尼国家公园门票费用（成人300泰铢，儿童150泰铢）",
    "个人小费"
+  ]
+ },
+ "relaxing-horse-ride-along-klong-muang-beach-in-krabi": {
+  "title": "甲米龙梦海滩悠闲骑马之旅",
+  "metaTitle": "甲米龙梦海滩悠闲骑马之旅",
+  "shortDescription": "1.5小时的Krabi游览，含酒店接送（可按需提供）、骑马体验及基础骑行指导。运营商：บริษัท เจ แอนด์ เจ แอฟฟลูเอนท์ ทราเวล แอนด์ ทัวร์ จํากัด，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场1.5小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送（可按需提供）、骑马体验及基础骑行指导。不包含食物及饮料及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。บริษัท เจ แอนด์ เจ แอฟฟลูเอนท์ ทราเวล แอนด์ ทัวร์ จํากัด将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送（可按需提供）",
+   "骑马体验",
+   "基础骑行指导"
+  ],
+  "notIncluded": [
+   "食物及饮料",
+   "个人花费"
   ]
  },
  "krabi-sunrise-odyssey-beat-the-crowds-to-phi-phi-s-paradise-by-local-operator": {
@@ -14860,6 +15420,24 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "个人花费",
    "寺庙门票"
+  ]
+ },
+ "sunset-longtail-boat-trip-with-fire-show-and-swim-in-krabi": {
+  "title": "甲米长尾船日落之旅（含火舞表演与游泳）",
+  "metaTitle": "甲米长尾船日落之旅（含火舞表演与游泳）",
+  "shortDescription": "8小时的Krabi游览，含传统长尾船交通、奥南海滩区域酒店接送、饮用水、浮潜装备及救生衣。运营商：Amazing Andaman Tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含传统长尾船交通、奥南海滩区域酒店接送、饮用水、浮潜装备及救生衣。不包含国家公园门票费用、个人花费及标准接送区域以外的接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nAo Nang.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "传统长尾船交通",
+   "奥南海滩区域酒店接送",
+   "饮用水",
+   "浮潜装备",
+   "救生衣"
+  ],
+  "notIncluded": [
+   "国家公园门票费用",
+   "个人花费",
+   "标准接送区域以外的接送"
   ]
  },
  "tiger-cave-temple-sunset-tour-in-krabi": {
@@ -14914,6 +15492,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "可自愿支付的小费"
   ]
  },
+ "krabi-8-island-sunset-cruise-free-flow-wine-and-plankton-by-local-operator": {
+  "title": "甲米8岛日落游船之旅（畅饮红酒及蓝眼泪，本地运营商）",
+  "metaTitle": "甲米8岛日落游船之旅（畅饮红酒及蓝眼泪，本地运营商）",
+  "shortDescription": "7小时的Krabi游览，含酒店往返接送、专业英语导游及全套自助晚餐。运营商：Sea Cool Tours，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店往返接送、专业英语导游及全套自助晚餐。不包含额外酒精饮品：超出1小时免费红酒服务范围点的饮品及小费：给船员及专业导游的小费（自愿但表示感谢），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Sea Cool Tours将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店往返接送",
+   "专业英语导游",
+   "全套自助晚餐"
+  ],
+  "notIncluded": [
+   "额外酒精饮品：超出1小时免费红酒服务范围点的饮品",
+   "小费：给船员及专业导游的小费（自愿但表示感谢）"
+  ]
+ },
  "unforgettable-full-day-khao-sok-lake-adventure-in-krabi": {
   "title": "甲米考索湖全天难忘探险之旅",
   "metaTitle": "甲米考索湖全天难忘探险之旅",
@@ -14943,6 +15536,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "兰塔岛、皮皮岛及普吉岛酒店接送服务"
   ]
  },
+ "muay-thai-group-class-at-e-n-muaythai-gym-in-krabi": {
+  "title": "甲米E.N.泰拳馆团体泰拳课程",
+  "metaTitle": "甲米E.N.泰拳馆团体泰拳课程",
+  "shortDescription": "2小时的Krabi游览，含小组课程、适合新手的指导及经验丰富的教练。运营商：E.N. Muaythai Gym Co., Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场2小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰拳，被称为“八体艺术”，是泰国的国技，曼谷体育馆里的比赛是真正的实战，而非表演：1945年开馆的拉差丹能体育馆和伦披尼体育馆是两大著名场馆，每场有8到10场对战，时间约从18:30持续到23:00，每场比赛前有拜师舞，现场的皮帕乐队会随着比赛节奏加快演奏，上层看台还能看到赌客们的手势暗语。场边座位票价最贵，二层看台才是气氛最热烈的地方。各城市健身房提供的训练课程，从一小时的游客体验课到完整训练营都有，是另一种体验泰拳的方式。\n\n价格包含小组课程、适合新手的指导及经验丰富的教练。不包含个人花费及食物及饮料，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "小组课程",
+   "适合新手的指导",
+   "经验丰富的教练"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "食物及饮料"
+  ]
+ },
  "krabi-s-emerald-escape-4-islands-snorkel-and-hidden-tombolo-by-local-operator": {
   "title": "甲米翡翠逍遥游：4岛浮潜与隐秘连岛沙洲（当地运营商）",
   "metaTitle": "甲米翡翠逍遥游：4岛浮潜与隐秘连岛沙洲（当地运营商）",
@@ -14958,6 +15566,34 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "小费",
    "诺帕拉塔拉和皮皮群岛国家公园费用（成人200泰铢，儿童100泰铢）"
+  ]
+ },
+ "hong-island-and-4-islands-speedboat-tour-with-snorkel": {
+  "title": "快艇红岛与4岛浮潜之旅",
+  "metaTitle": "快艇红岛与4岛浮潜之旅",
+  "shortDescription": "7小时的Krabi游览，含奥南海滩、奥南毛、甲米镇、图卡及龙梦海滩的酒店接送、英语及泰语导游及美味本地午餐。运营商：Love Nature Krabi Travel and Tours，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含奥南海滩、奥南毛、甲米镇、图卡及龙梦海滩的酒店接送、英语及泰语导游及美味本地午餐。不包含国家公园门票费用，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Love Nature Krabi Travel and Tours将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "奥南海滩、奥南毛、甲米镇、图卡及龙梦海滩的酒店接送",
+   "英语及泰语导游",
+   "美味本地午餐"
+  ],
+  "notIncluded": [
+   "国家公园门票费用"
+  ]
+ },
+ "ao-thalane-sunset-kayak-adventure-group-of-10-max-in-krabi": {
+  "title": "甲米塔拉内湾日落皮划艇探险（限10人小团）",
+  "metaTitle": "甲米塔拉内湾日落皮划艇探险（限10人小团）",
+  "shortDescription": "4.5小时的Krabi游览，含Ao Thalane。运营商：For Friends travel &tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4.5小时的Krabi体验，围绕Ao Thalane展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含奥南海滩酒店接送、鸡肉及烧烤晚餐（日落皮划艇加烧烤晚餐套餐选项）及季节性水果。不包含从甲米镇及龙梦海滩区域接送每人额外收费200泰铢，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPak Nam.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "奥南海滩酒店接送",
+   "鸡肉及烧烤晚餐（日落皮划艇加烧烤晚餐套餐选项）",
+   "季节性水果"
+  ],
+  "notIncluded": [
+   "从甲米镇及龙梦海滩区域接送每人额外收费200泰铢"
   ]
  },
  "krabi-kayak-and-atv-jungle-adventure-group-of-10-max": {
@@ -15002,6 +15638,35 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "hands-on-thai-cooking-class-at-railay-beach": {
+  "title": "莱利海滩实操泰式烹饪课程",
+  "metaTitle": "莱利海滩实操泰式烹饪课程",
+  "shortDescription": "3.5小时的Krabi游览，含全部所需食材、经验丰富的厨师导师及实操烹饪体验。运营商：Railay Thai Cooking School，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3.5小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\n价格包含全部所需食材、经验丰富的厨师导师及实操烹饪体验。不包含酒店接送及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "全部所需食材",
+   "经验丰富的厨师导师",
+   "实操烹饪体验"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "个人花费"
+  ]
+ },
+ "morning-or-afternoon-culinary-adventure-at-smart-cook-in-krabi": {
+  "title": "甲米Smart Cook厨艺探险课程（上午或下午）",
+  "metaTitle": "甲米Smart Cook厨艺探险课程（上午或下午）",
+  "shortDescription": "4小时的Krabi游览，含Smart Cook Thai Cookery School。运营商：Thailand Escapes，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Krabi体验，围绕Smart Cook Thai Cookery School展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含奥南海滩及奥南毛往返酒店接送、食材、食谱及英语讲解及水果及泰式辣味沙拉制作。不包含小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Ao Nang and Ao Nammao提供接送服务；具体地点和时间将在预订确认后与Thailand Escapes协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "奥南海滩及奥南毛往返酒店接送",
+   "食材、食谱及英语讲解",
+   "水果及泰式辣味沙拉制作"
+  ],
+  "notIncluded": [
+   "小费"
+  ]
+ },
  "jurassic-trails-atv-ride-and-kayaking-tour-in-krabi": {
   "title": "甲米侏罗纪步道越野车骑行及皮划艇之旅",
   "metaTitle": "甲米侏罗纪步道越野车骑行及皮划艇之旅",
@@ -15016,6 +15681,18 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食",
    "个人花费"
   ]
+ },
+ "cooking-class-at-thai-charm-cooking-school-with-meal-in-krabi": {
+  "title": "甲米Thai Charm烹饪学校课程（含餐食）",
+  "metaTitle": "甲米Thai Charm烹饪学校课程（含餐食）",
+  "shortDescription": "4小时的Krabi游览，含甲米镇或奥南海滩往返接送（至少2人）、泰式烹饪导师及水果及泰式辣味沙拉制作。运营商：Oh-Hoo，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\n价格包含甲米镇或奥南海滩往返接送（至少2人）、泰式烹饪导师及水果及泰式辣味沙拉制作。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "甲米镇或奥南海滩往返接送（至少2人）",
+   "泰式烹饪导师",
+   "水果及泰式辣味沙拉制作"
+  ],
+  "notIncluded": []
  },
  "private-1-on-1-muay-thai-session-at-e-n-muaythai-gym-in-krabi": {
   "title": "甲米E.N. Muaythai健身房私人一对一泰拳课程",
@@ -15061,6 +15738,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "hong-islands-snorkeling-with-lunch-by-longtail-boat": {
+  "title": "长尾船红岛浮潜之旅（含午餐）",
+  "metaTitle": "长尾船红岛浮潜之旅（含午餐）",
+  "shortDescription": "6.5小时的Krabi游览，含奥南海滩酒店免费接送、午餐、水果及饮用水及浮潜装备。运营商：Anda Krabi Seatour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6.5小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含奥南海滩酒店免费接送、午餐、水果及饮用水及浮潜装备。不包含国家公园门票（成人300泰铢，3-10岁儿童150泰铢）及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Anda Krabi Seatour将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "奥南海滩酒店免费接送",
+   "午餐、水果及饮用水",
+   "浮潜装备"
+  ],
+  "notIncluded": [
+   "国家公园门票（成人300泰铢，3-10岁儿童150泰铢）",
+   "小费"
+  ]
+ },
  "kayaking-at-klong-rud-with-hotel-transfers-in-krabi": {
   "title": "甲米Klong Rud皮划艇含酒店接送",
   "metaTitle": "甲米Klong Rud皮划艇含酒店接送",
@@ -15074,6 +15766,20 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "从莱利海滩乘船接送",
    "食物及饮料"
+  ]
+ },
+ "historic-bor-thor-caves-kayaking-tour-with-lunch-in-krabi": {
+  "title": "甲米古迹波托洞穴皮划艇之旅（含午餐）",
+  "metaTitle": "甲米古迹波托洞穴皮划艇之旅（含午餐）",
+  "shortDescription": "7小时的Krabi游览，含甲米地区酒店接送、友善且经验丰富的导游及存放贵重物品的防水袋。运营商：Koh Tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含甲米地区酒店接送、友善且经验丰富的导游及存放贵重物品的防水袋。不包含酒精饮品，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Koh Tour将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "甲米地区酒店接送",
+   "友善且经验丰富的导游",
+   "存放贵重物品的防水袋"
+  ],
+  "notIncluded": [
+   "酒精饮品"
   ]
  },
  "sunset-boat-tour-and-night-market-food-tasting-in-krabi": {
@@ -15114,6 +15820,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "4-islands-sunset-longtail-boat-cruise-with-bbq": {
+  "title": "4岛长尾船日落游船之旅（含烧烤）",
+  "metaTitle": "4岛长尾船日落游船之旅（含烧烤）",
+  "shortDescription": "7小时的Krabi游览，含奥南海滩、甲米镇、龙梦海滩的往返酒店接送、配备认证本地船长的高级传统长尾船及专业英语导游。运营商：Choke Chai M Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含奥南海滩、甲米镇、龙梦海滩的往返酒店接送、配备认证本地船长的高级传统长尾船及专业英语导游。不包含国家公园门票须在行程当天以现金直接支付给公园管理人员（成人400泰铢/儿童200泰铢）及酒精饮料，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Choke Chai M Travel将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "奥南海滩、甲米镇、龙梦海滩的往返酒店接送",
+   "配备认证本地船长的高级传统长尾船",
+   "专业英语导游"
+  ],
+  "notIncluded": [
+   "国家公园门票须在行程当天以现金直接支付给公园管理人员（成人400泰铢/儿童200泰铢）",
+   "酒精饮料"
+  ]
+ },
  "early-bird-phi-phi-cove-collector": {
   "title": "早鸟皮皮岛秘境收集者之旅",
   "metaTitle": "早鸟皮皮岛秘境收集者之旅",
@@ -15140,6 +15861,83 @@ export const ZH_TOURS: Record<string, TourT> = {
    "午餐、饮用水及水果"
   ],
   "notIncluded": []
+ },
+ "half-day-blue-lagoon-kayaking-at-klong-srakaew-and-atv-in-krabi": {
+  "title": "甲米半日蓝湖皮划艇（龙萨格乔运河）与越野车之旅",
+  "metaTitle": "甲米半日蓝湖皮划艇（龙萨格乔运河）与越野车之旅",
+  "shortDescription": "5小时的Krabi游览，含酒店接送、皮划艇及午餐（越野车套餐选项）。运营商：Anda Krabi Seatour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含酒店接送、皮划艇及午餐（越野车套餐选项）。不包含小费、酒精饮品及莱利海滩或兰塔岛酒店接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Pak Nam、102 Panurat、Nong Thale及Ao Nang and 4203提供接送服务；具体地点和时间将在预订确认后与Anda Krabi Seatour协商确定，所选套餐决定是否包含交通费用。\n\n在Krabi提供酒店接送。Anda Krabi Seatour将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "皮划艇",
+   "午餐（越野车套餐选项）"
+  ],
+  "notIncluded": [
+   "小费",
+   "酒精饮品",
+   "莱利海滩或兰塔岛酒店接送"
+  ]
+ },
+ "early-bird-koh-hong-and-4-islands-speedboat-group-tour": {
+  "title": "早鸟快艇红岛与4岛团体之旅",
+  "metaTitle": "早鸟快艇红岛与4岛团体之旅",
+  "shortDescription": "9小时的Krabi游览，含Hong Island及Hong Lagoon and Ko Lao Lading。运营商：Krabi Ezy Trails Co.,Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场9小时的Krabi体验，围绕Hong Island及Hong Lagoon and Ko Lao Lading展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、泰式自助午餐（清真餐食）及饮用水及软饮料。不包含两处国家公园门票及塔邦科拉尼国家公园门票（成人300泰铢/儿童150泰铢），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nAo Nang.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "泰式自助午餐（清真餐食）",
+   "饮用水及软饮料"
+  ],
+  "notIncluded": [
+   "两处国家公园门票",
+   "塔邦科拉尼国家公园门票（成人300泰铢/儿童150泰铢）"
+  ]
+ },
+ "tiger-cave-temple-waterfall-and-night-market-tour-in-krabi": {
+  "title": "甲米虎穴洞寺、瀑布与夜市之旅",
+  "metaTitle": "甲米虎穴洞寺、瀑布与夜市之旅",
+  "shortDescription": "7小时的Krabi游览，含酒店接送、英语导游及司机及饮用水。运营商：ธนภัทรการท่องเที่ยว2025จำกัด，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n甲米的内陆一日游是市区以南的丛林三大景点：虎穴寺（Wat Tham Suea），1,260级石阶通向山顶佛像，俯瞰整片喀斯特平原（上山约需一小时，10:00之后会非常酷热）；翡翠池，位于Thung Teao森林中的一处绿色矿泉，再沿一段短步道可到蓝池，那里只能观赏，不能游泳；还有Klong Thom温泉，温热的泉水从天然岩石池中流入一条清凉的小溪。行程按此顺序进行，结束时全身都会湿透。\n\n价格包含酒店接送、英语导游及司机及饮用水。不包含国家公园门票450泰铢/人及餐食及额外饮品，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Wat Tham Suea and Krabi提供接送服务；具体地点和时间将在预订确认后与ธนภัทรการท่องเที่ยว2025จำกัด协商确定，所选套餐决定是否包含交通费用。\n\n在Krabi提供酒店接送。ธนภัทรการท่องเที่ยว2025จำกัด将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "英语导游及司机",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "国家公园门票450泰铢/人",
+   "餐食及额外饮品"
+  ]
+ },
+ "7-islands-longtail-boat-tour-with-sunset-and-plankton-in-krabi": {
+  "title": "甲米7岛长尾船之旅（含日落与蓝眼泪）",
+  "metaTitle": "甲米7岛长尾船之旅（含日落与蓝眼泪）",
+  "shortDescription": "6.5小时的Krabi游览，含酒店往返接送、导游及传统长尾船游。运营商：บริษัท เจ แอนด์ เจ แอฟฟลูเอนท์ ทราเวล แอนด์ ทัวร์ จํากัด，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6.5小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店往返接送、导游及传统长尾船游。不包含国家公园门票（成人200泰铢/儿童100泰铢）及公园门票，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店往返接送",
+   "导游",
+   "传统长尾船游"
+  ],
+  "notIncluded": [
+   "国家公园门票（成人200泰铢/儿童100泰铢）",
+   "公园门票"
+  ]
+ },
+ "eco-cycling-tour-with-nature-culture-and-fun-in-krabi": {
+  "title": "甲米生态骑行之旅（自然、文化与趣味体验）",
+  "metaTitle": "甲米生态骑行之旅（自然、文化与趣味体验）",
+  "shortDescription": "4小时的Krabi游览，含Krabi。运营商：Thailand Escapes，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Krabi体验，围绕Krabi展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店往返接送、饮用水、水果及冰毛巾、午餐、头盔及手套及配备24速变速及前悬挂的山地自行车。不包含小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Krabi、Krabi、Khlong Muang、2QWF+QJ Nong Thale及Ao Nammao and Ao Nang提供接送服务；具体地点和时间将在预订确认后与Thailand Escapes协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店往返接送",
+   "饮用水、水果及冰毛巾",
+   "午餐",
+   "头盔及手套",
+   "配备24速变速及前悬挂的山地自行车"
+  ],
+  "notIncluded": [
+   "小费"
+  ]
  },
  "premium-hong-islands-island-hopping-tour-with-lunch-krabi": {
   "title": "甲米Hong群岛高级跳岛游含午餐",
@@ -15203,6 +16001,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "从莱利海滩出发的酒店接送"
   ]
  },
+ "emerald-pool-and-hot-spring-waterfall-with-kayaking-in-krabi": {
+  "title": "甲米翡翠池、温泉瀑布与皮划艇之旅",
+  "metaTitle": "甲米翡翠池、温泉瀑布与皮划艇之旅",
+  "shortDescription": "7小时的Krabi游览，含甲米镇及奥南海滩区域提供免费酒店接送、午餐、饮用水及水果及导游。运营商：Oh-Hoo，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nPhang Nga Bay is a drowned karst landscape of some 40 limestone towers rising out of shallow green water between Phuket and Krabi, made famous by the 1974 Bond film shot at Khao Phing Kan, the island now called James Bond Island, which is small, busy and worth twenty minutes. The reason to come is the sea-cave canoeing: at low tide, inflatable canoes slip through tunnels into hidden lagoons (hongs) inside the islands, ringed by cliffs and mangroves, and the tide decides the itinerary. Koh Panyee, the Muslim fishing village on stilts, is the lunch stop. Long-tail boat trips from the Phang Nga side are quieter than speedboats from Phuket.\n\n价格包含甲米镇及奥南海滩区域提供免费酒店接送、午餐、饮用水及水果及导游。不包含国家公园门票费用（成人600泰铢，儿童300泰铢）、额外接送费100泰铢/人（往返）：龙梦海滩及额外接送费200泰铢/人（往返）：图卡，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Oh-Hoo将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "甲米镇及奥南海滩区域提供免费酒店接送",
+   "午餐、饮用水及水果",
+   "导游"
+  ],
+  "notIncluded": [
+   "国家公园门票费用（成人600泰铢，儿童300泰铢）",
+   "额外接送费100泰铢/人（往返）：龙梦海滩",
+   "额外接送费200泰铢/人（往返）：图卡"
+  ]
+ },
  "khlong-root-kayaking-and-jungle-swimming-in-krabi": {
   "title": "甲米空隆鲁特皮划艇与丛林游泳之旅",
   "metaTitle": "甲米空隆鲁特皮划艇与丛林游泳之旅",
@@ -15230,6 +16044,35 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "国家公园门票（成人400泰铢，儿童200泰铢）"
+  ]
+ },
+ "from-aonang-4-islands-one-day-tour-with-lunch-krabi": {
+  "title": "甲米奥南海滩出发4岛一日游（含午餐）",
+  "metaTitle": "甲米奥南海滩出发4岛一日游（含午餐）",
+  "shortDescription": "6小时的Krabi游览，含Tup Island及Chicken Island and Ko Poda。运营商：Krabi Blue Sky，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6小时的Krabi体验，围绕Tup Island及Chicken Island and Ko Poda展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n甲米的四岛游是从奥南海滩出发的经典长尾船一日行程：莱利悬崖下的帕南洞穴海滩、鸡岛、低潮时连接Tup岛与Mor岛的沙堤（前后各有几个小时可供步行通过），以及岸外有喀斯特石塔的波达岛白沙滩。Hong群岛位于攀牙湾更北处，是更为宁静的替代选择，有一处需穿过悬崖缝隙才能进入的潟湖，以及一处400级台阶的观景点。海况很关键：11月到4月海面平静清澈，5月到10月遇恶劣天气时长尾船会停航。\n\n价格包含酒店接送、莱利西海滩接送及曲奇、饼干及咖啡。不包含国家公园门票（成人200泰铢，儿童100泰铢，04-11岁）及脚蹼，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Ao Nang Beach及Ao Nang and Krabi提供接送服务；具体地点和时间将在预订确认后与Krabi Blue Sky协商确定，所选套餐决定是否包含交通费用。\n\n在Krabi提供酒店接送。Krabi Blue Sky将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "莱利西海滩接送",
+   "曲奇、饼干及咖啡"
+  ],
+  "notIncluded": [
+   "国家公园门票（成人200泰铢，儿童100泰铢，04-11岁）",
+   "脚蹼"
+  ]
+ },
+ "small-group-yawasam-and-talu-islands-snorkeling-tour-in-krabi": {
+  "title": "甲米雅瓦桑岛与塔卢岛小团浮潜之旅",
+  "metaTitle": "甲米雅瓦桑岛与塔卢岛小团浮潜之旅",
+  "shortDescription": "5小时的Krabi游览，含酒店接送、浮潜装备（呼吸管、面镜及脚蹼）及在人迹罕至的地点浮潜。运营商：Koh Tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、浮潜装备（呼吸管、面镜及脚蹼）及在人迹罕至的地点浮潜。不包含国家公园门票（成人200泰铢/儿童100泰铢），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Koh Tour将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "浮潜装备（呼吸管、面镜及脚蹼）",
+   "在人迹罕至的地点浮潜"
+  ],
+  "notIncluded": [
+   "国家公园门票（成人200泰铢/儿童100泰铢）"
   ]
  },
  "kayak-hot-springs-and-emerald-pool-by-french-guide-in-krabi": {
@@ -15273,6 +16116,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "国家公园门票",
    "个人花费",
    "可自愿支付的小费"
+  ]
+ },
+ "ethical-elephant-sanctuary-and-tiger-cave-temple-tour-in-krabi": {
+  "title": "甲米人道大象保护营与虎穴洞寺之旅",
+  "metaTitle": "甲米人道大象保护营与虎穴洞寺之旅",
+  "shortDescription": "3小时的Krabi游览，含酒店接送、大象保护营活动及泰式简餐（泰式炒粉、水果及饮用水）。运营商：One Asia Corporation，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国的象旅游业正在不均衡地从骑乘和表演转向保护区模式，游客在那里喂食、陪伴行走并为被救助的象洗澡，而不骑乘它们，这种差异体现在象的身体状况上，也体现在经营者是否允许骑乘、使用象钩或锁链。清迈和普吉岛管理最好的营地会限制团队规模和接触时间，值得预订的营地会明确说明自己不允许的做法。考艾（Khao Yai）是泰国第一座国家公园，位于曼谷东北方向三小时车程处，在那里可以在黄昏时从吉普车上观察野生象群，还有长臂猿、犀鸟，偶尔也能见到公园内为数不多的熊。\n\n价格包含酒店接送、大象保护营活动及泰式简餐（泰式炒粉、水果及饮用水）。不包含虎穴洞门票50泰铢，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。One Asia Corporation将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "大象保护营活动",
+   "泰式简餐（泰式炒粉、水果及饮用水）"
+  ],
+  "notIncluded": [
+   "虎穴洞门票50泰铢"
   ]
  },
  "phi-phi-islands-bamboo-island-sunset-tour": {
@@ -15332,6 +16189,35 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "jungle-tour-with-hot-springs-emerald-pool-and-lunch-in-krabi": {
+  "title": "甲米丛林之旅（含温泉、翡翠池与午餐）",
+  "metaTitle": "甲米丛林之旅（含温泉、翡翠池与午餐）",
+  "shortDescription": "8小时的Krabi游览，含Emerald Pool及Wareerak Hot Spring & Wellness and Tiger Cave Temple。运营商：Krabi Vip Tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场8小时的Krabi体验，围绕Emerald Pool及Wareerak Hot Spring & Wellness and Tiger Cave Temple展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n甲米的内陆一日游是市区以南的丛林三大景点：虎穴寺（Wat Tham Suea），1,260级石阶通向山顶佛像，俯瞰整片喀斯特平原（上山约需一小时，10:00之后会非常酷热）；翡翠池，位于Thung Teao森林中的一处绿色矿泉，再沿一段短步道可到蓝池，那里只能观赏，不能游泳；还有Klong Thom温泉，温热的泉水从天然岩石池中流入一条清凉的小溪。行程按此顺序进行，结束时全身都会湿透。\n\n价格包含小团（9人）。不包含国家公园门票（成人650泰铢）及国家公园门票（3-12岁儿童320泰铢），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nAo Nang.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "小团（9人）"
+  ],
+  "notIncluded": [
+   "国家公园门票（成人650泰铢）",
+   "国家公园门票（3-12岁儿童320泰铢）"
+  ]
+ },
+ "9-island-odyssey-or-7-island-sunset-with-bioluminescent-plankton-in-krabi": {
+  "title": "甲米9岛探险或7岛日落蓝眼泪之旅",
+  "metaTitle": "甲米9岛探险或7岛日落蓝眼泪之旅",
+  "shortDescription": "7小时的Krabi游览，含甲米指定区域往返酒店接送及拼团7岛或9岛游（根据所选套餐乘坐快艇、长尾船或双体船）。运营商：Eco Ventures Co., Ltd.，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含甲米指定区域往返酒店接送及拼团7岛或9岛游（根据所选套餐乘坐快艇、长尾船或双体船）。不包含个人花费、酒精饮料、小费及区域外酒店接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Eco Ventures Co., Ltd.将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "甲米指定区域往返酒店接送",
+   "拼团7岛或9岛游（根据所选套餐乘坐快艇、长尾船或双体船）"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "酒精饮料",
+   "小费",
+   "区域外酒店接送"
+  ]
+ },
  "phi-phi-islands-and-maya-bay-speedboat-tour-with-lunch": {
   "title": "皮皮岛及玛雅湾快艇之旅含午餐",
   "metaTitle": "皮皮岛及玛雅湾快艇之旅含午餐",
@@ -15378,6 +16264,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "小费",
    "塔邦哥拉尼国家公园费用（成人300泰铢，儿童150泰铢）"
+  ]
+ },
+ "clear-water-canal-sunrise-kayak-and-sup-in-krabi": {
+  "title": "甲米清水运河日出皮划艇与立式桨板之旅",
+  "metaTitle": "甲米清水运河日出皮划艇与立式桨板之旅",
+  "shortDescription": "3小时的Krabi游览，含奥南海滩、甲米镇及指定区域往返酒店接送、可选立式桨板（SUP）或皮划艇装备及专业英语本地生态向导。运营商：Choke Chai M Travel，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含奥南海滩、甲米镇及指定区域往返酒店接送、可选立式桨板（SUP）或皮划艇装备及专业英语本地生态向导。不包含个人花费及纪念品及小费（可自愿支付），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Choke Chai M Travel将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "奥南海滩、甲米镇及指定区域往返酒店接送",
+   "可选立式桨板（SUP）或皮划艇装备",
+   "专业英语本地生态向导"
+  ],
+  "notIncluded": [
+   "个人花费及纪念品",
+   "小费（可自愿支付）"
   ]
  },
  "4-islands-one-day-premium-speedboat-tour-lunch": {
@@ -15439,6 +16340,40 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "强制国家公园门票附加费（成人200泰铢，儿童100泰铢）",
    "个人花费"
+  ]
+ },
+ "4-island-sunset-small-group-tour-with-night-snorkel-in-krabi": {
+  "title": "甲米4岛日落小团之旅（含夜间浮潜）",
+  "metaTitle": "甲米4岛日落小团之旅（含夜间浮潜）",
+  "shortDescription": "6.5小时的Krabi游览，含Speedboat及Railay Beach and Ko Poda。运营商：Thalassa Tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6.5小时的Krabi体验，围绕Speedboat及Railay Beach and Ko Poda展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含上午集合点及行程后送回（奥南海滩区域）、国家公园门票及快艇行程。不包含毛巾及防晒用品，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Klong Muang beach、Tup Kaek Sunset Beach Resort、Railay Beach Cafe及Nopparat Thara Pier and Krabi Town Night Market提供接送服务；具体地点和时间将在预订确认后与Thalassa Tour协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "上午集合点及行程后送回（奥南海滩区域）",
+   "国家公园门票",
+   "快艇行程"
+  ],
+  "notIncluded": [
+   "毛巾",
+   "防晒用品"
+  ]
+ },
+ "phi-phi-and-4-islands-sunset-tour-bioluminescent-planktons-krabi": {
+  "title": "甲米披披岛与4岛日落蓝眼泪之旅",
+  "metaTitle": "甲米披披岛与4岛日落蓝眼泪之旅",
+  "shortDescription": "7小时的Krabi游览，含Maya Bay及Pileh Lagoon and Viking Cave。运营商：Krabi Blue Sky，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Krabi体验，围绕Maya Bay及Pileh Lagoon and Viking Cave展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送服务、保险、午餐盒、小吃及迷你自助烧烤晚餐。不包含国家公园费用、成人400泰铢、儿童200泰铢及脚蹼，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Ao Nang、Ao Nammao及Krabi Noi and Krabi提供接送服务；具体地点和时间将在预订确认后与Krabi Blue Sky协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送服务",
+   "保险",
+   "午餐盒",
+   "小吃",
+   "迷你自助烧烤晚餐"
+  ],
+  "notIncluded": [
+   "国家公园费用",
+   "成人400泰铢",
+   "儿童200泰铢",
+   "脚蹼"
   ]
  },
  "tiger-temple-hot-springs-and-crystal-pool-jungle-tour-in-krabi": {
@@ -15655,6 +16590,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "国家公园费用"
   ]
  },
+ "tiger-temple-hot-springs-and-emerald-pool-day-tour-in-krabi": {
+  "title": "甲米虎穴寺、温泉与翡翠池一日游",
+  "metaTitle": "甲米虎穴寺、温泉与翡翠池一日游",
+  "shortDescription": "6小时的Krabi游览，含酒店接送、空调面包车交通及英语司机。运营商：Love Nature Krabi Travel and Tours，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n甲米的内陆一日游是市区以南的丛林三大景点：虎穴寺（Wat Tham Suea），1,260级石阶通向山顶佛像，俯瞰整片喀斯特平原（上山约需一小时，10:00之后会非常酷热）；翡翠池，位于Thung Teao森林中的一处绿色矿泉，再沿一段短步道可到蓝池，那里只能观赏，不能游泳；还有Klong Thom温泉，温热的泉水从天然岩石池中流入一条清凉的小溪。行程按此顺序进行，结束时全身都会湿透。\n\n价格包含酒店接送、空调面包车交通及英语司机。不包含门票费用，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Love Nature Krabi Travel and Tours将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "空调面包车交通",
+   "英语司机"
+  ],
+  "notIncluded": [
+   "门票费用"
+  ]
+ },
  "hong-islands-day-tour-by-premium-longtail-boat": {
   "title": "Hong群岛高级长尾船一日游",
   "metaTitle": "Hong群岛高级长尾船一日游",
@@ -15686,6 +16635,36 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "其他个人花费",
    "小费"
+  ]
+ },
+ "7-islands-sunset-tour-plus-bioluminescent-plankton-bbq-in-krabi": {
+  "title": "甲米7岛日落之旅（含蓝眼泪与烧烤）",
+  "metaTitle": "甲米7岛日落之旅（含蓝眼泪与烧烤）",
+  "shortDescription": "6小时的Krabi游览，含Tup Island及Chicken Island and Ko Poda。运营商：Krabi Blue Sky，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场6小时的Krabi体验，围绕Tup Island及Chicken Island and Ko Poda展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含奥南海滩、奥南毛、甲米镇周边酒店接送（若不确定所在位置，请告知我们以便确认）及13:30在莱利东浮动码头接送。不包含国家公园门票（成人200泰铢，儿童100泰铢，04-11岁）及脚蹼，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Klong Muang Beach、Tubkaek Beach、Ao Nammao、Ao Nang及Tup Kaek Sunset Beach Resort and Krabi提供接送服务；具体地点和时间将在预订确认后与Krabi Blue Sky协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "奥南海滩、奥南毛、甲米镇周边酒店接送（若不确定所在位置，请告知我们以便确认）",
+   "13:30在莱利东浮动码头接送"
+  ],
+  "notIncluded": [
+   "国家公园门票（成人200泰铢，儿童100泰铢，04-11岁）",
+   "脚蹼"
+  ]
+ },
+ "emerald-pool-and-hot-springs-waterfall-half-day-trip-in-krabi": {
+  "title": "甲米翡翠池与温泉瀑布半日游",
+  "metaTitle": "甲米翡翠池与温泉瀑布半日游",
+  "shortDescription": "5小时的Krabi游览，含Krabi Hot Springs and Emerald Pool。运营商：Oh-Hoo，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Krabi体验，围绕Krabi Hot Springs and Emerald Pool展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n甲米的内陆一日游是市区以南的丛林三大景点：虎穴寺（Wat Tham Suea），1,260级石阶通向山顶佛像，俯瞰整片喀斯特平原（上山约需一小时，10:00之后会非常酷热）；翡翠池，位于Thung Teao森林中的一处绿色矿泉，再沿一段短步道可到蓝池，那里只能观赏，不能游泳；还有Klong Thom温泉，温热的泉水从天然岩石池中流入一条清凉的小溪。行程按此顺序进行，结束时全身都会湿透。\n\n价格包含甲米镇及奥南海滩区域酒店接送、导游及饮用水。不包含国家公园门票费用（成人600泰铢，儿童300泰铢）、额外接送费100泰铢/人（往返）：龙梦海滩及额外接送费200泰铢/人（往返）：图卡，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nKrabi.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "甲米镇及奥南海滩区域酒店接送",
+   "导游",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "国家公园门票费用（成人600泰铢，儿童300泰铢）",
+   "额外接送费100泰铢/人（往返）：龙梦海滩",
+   "额外接送费200泰铢/人（往返）：图卡"
   ]
  },
  "fishing-at-krabi-full-day-by-local-operator": {
@@ -15731,6 +16710,35 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食"
   ]
  },
+ "luxury-sunset-cruise-to-4-islands-by-power-catamaran": {
+  "title": "动力双体船4岛豪华日落游船之旅",
+  "metaTitle": "动力双体船4岛豪华日落游船之旅",
+  "shortDescription": "4小时的Krabi游览，含Catamaran及Chicken Island and Ko Poda。运营商：Thailand Escapes，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Krabi体验，围绕Catamaran及Chicken Island and Ko Poda展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店往返接送、饮用水及季节性水果及小吃如咸烤虾、泰式甜点及季节性水果。不包含哈诺帕拉塔－皮皮岛国家公园门票（成人200泰铢/儿童100泰铢）及酒吧内可自费购买酒精饮品，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Khlong Muang、Sai Thai及Ao Nang and Krabi提供接送服务；具体地点和时间将在预订确认后与Thailand Escapes协商确定，所选套餐决定是否包含交通费用。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店往返接送",
+   "饮用水及季节性水果",
+   "小吃如咸烤虾、泰式甜点及季节性水果"
+  ],
+  "notIncluded": [
+   "哈诺帕拉塔－皮皮岛国家公园门票（成人200泰铢/儿童100泰铢）",
+   "酒吧内可自费购买酒精饮品"
+  ]
+ },
+ "phi-phi-and-bamboo-island-full-day-catamaran-tour-from-krabi-by-local-operator": {
+  "title": "甲米出发披披岛与竹子岛全日双体船之旅（本地运营商）",
+  "metaTitle": "甲米出发披披岛与竹子岛全日双体船之旅（本地运营商）",
+  "shortDescription": "7小时的Krabi游览，含图卡、龙梦海滩、甲米镇、奥南海滩、奥南毛酒店接送、午餐及船上饮用水及小吃。运营商：Oh-Hoo，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n皮皮岛距普吉岛45公里，距甲米40公里，是两座石灰岩岛屿，皮皮东岛（Phi Phi Don）有村庄和酒店，皮皮莱岛（Phi Phi Leh）则无人居住，岛上有玛雅湾，也就是2000年那部电影的拍摄海滩。玛雅湾在2018年至2022年间关闭，让珊瑚礁得以恢复，如今实行湾内禁止船只驶入、从岛后方设有步道进入、禁止游泳，并且每年8月至9月都会关闭。Pileh潟湖、维京洞穴和竹子岛（Bamboo Island）是每条快艇航线的其他停靠点；11月至4月海面最为平静，早班船能在人群到来之前抵达玛雅湾。\n\n价格包含图卡、龙梦海滩、甲米镇、奥南海滩、奥南毛酒店接送、午餐及船上饮用水及小吃。不包含国家公园门票（成人400泰铢/儿童200泰铢，现场支付），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Oh-Hoo将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "图卡、龙梦海滩、甲米镇、奥南海滩、奥南毛酒店接送",
+   "午餐",
+   "船上饮用水及小吃"
+  ],
+  "notIncluded": [
+   "国家公园门票（成人400泰铢/儿童200泰铢，现场支付）"
+  ]
+ },
  "blue-dragon-cabaret-ticket-dazzling-night-in-krabi": {
   "title": "甲米蓝龙歌舞秀门票璀璨之夜",
   "metaTitle": "甲米蓝龙歌舞秀门票璀璨之夜",
@@ -15744,6 +16752,36 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "酒店接送",
    "小费及个人消费"
+  ]
+ },
+ "full-day-outdoor-hot-spring-and-traditional-thai-spa-in-krabi": {
+  "title": "甲米全日户外温泉与传统泰式理疗之旅",
+  "metaTitle": "甲米全日户外温泉与传统泰式理疗之旅",
+  "shortDescription": "3小时的Krabi游览，含身体护理及理疗（根据所选选项）、天然冷热矿泉池体验及由认证专业理疗师指导（根据所选选项）。运营商：Wareerak Hot Spring & Wellness，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n甲米的内陆一日游是市区以南的丛林三大景点：虎穴寺（Wat Tham Suea），1,260级石阶通向山顶佛像，俯瞰整片喀斯特平原（上山约需一小时，10:00之后会非常酷热）；翡翠池，位于Thung Teao森林中的一处绿色矿泉，再沿一段短步道可到蓝池，那里只能观赏，不能游泳；还有Klong Thom温泉，温热的泉水从天然岩石池中流入一条清凉的小溪。行程按此顺序进行，结束时全身都会湿透。\n\n价格包含身体护理及理疗（根据所选选项）、天然冷热矿泉池体验及由认证专业理疗师指导（根据所选选项）。不包含接送，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "身体护理及理疗（根据所选选项）",
+   "天然冷热矿泉池体验",
+   "由认证专业理疗师指导（根据所选选项）"
+  ],
+  "notIncluded": [
+   "接送"
+  ]
+ },
+ "railay-phra-nang-and-diamond-cave-sunset-plankton-tour": {
+  "title": "莱利帕南海滩与钻石洞日落蓝眼泪之旅",
+  "metaTitle": "莱利帕南海滩与钻石洞日落蓝眼泪之旅",
+  "shortDescription": "5小时的Krabi游览，含Phra Nang Beach及Diamond Cave and Railay Beach。运营商：Anda Krabi Seatour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Krabi体验，围绕Phra Nang Beach及Diamond Cave and Railay Beach展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送服务、饮用水、水果及导游。不包含强制国家公园门票附加费（成人200泰铢，儿童100泰铢）及甲米镇内酒店接送不包含在内（可另加购甲米镇酒店接送服务），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n可从Khlong Thom District and Ao Nang提供接送服务；具体地点和时间将在预订确认后与Anda Krabi Seatour协商确定，所选套餐决定是否包含交通费用。\n\n在Krabi提供酒店接送。Anda Krabi Seatour将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送服务",
+   "饮用水",
+   "水果",
+   "导游"
+  ],
+  "notIncluded": [
+   "强制国家公园门票附加费（成人200泰铢，儿童100泰铢）",
+   "甲米镇内酒店接送不包含在内（可另加购甲米镇酒店接送服务）"
   ]
  },
  "tiger-cave-hot-springs-and-emerald-pool-jungle-tour-in-krabi": {
@@ -15761,6 +16799,76 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "翡翠池门票，成人400泰铢，儿童200泰铢",
    "温泉门票，成人200泰铢，儿童100泰铢"
+  ]
+ },
+ "k-bunk-pub-crawl-the-best-bars-in-ao-nang-in-one-night-krabi": {
+  "title": "甲米K-Bunk酒吧巡游（一晚畅游奥南海滩人气酒吧）",
+  "metaTitle": "甲米K-Bunk酒吧巡游（一晚畅游奥南海滩人气酒吧）",
+  "shortDescription": "5小时的Krabi游览，含Local bar。运营商：Best Backpacker Tours AoNang & Pai，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场5小时的Krabi体验，围绕Local bar展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒吧欢迎烈酒一杯、每间酒吧提供更多免费烈酒及全城最精彩的火舞表演。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nK-Bunk AoNang Center.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒吧欢迎烈酒一杯",
+   "每间酒吧提供更多免费烈酒",
+   "全城最精彩的火舞表演"
+  ],
+  "notIncluded": []
+ },
+ "traditional-thai-cooking-class-with-local-chef-in-krabi": {
+  "title": "甲米传统泰式烹饪课程（本地厨师授课）",
+  "metaTitle": "甲米传统泰式烹饪课程（本地厨师授课）",
+  "shortDescription": "4小时的Krabi游览，含酒店接送、本地主持人及全部烹饪食材。运营商：Smart Cook Krabi,Thailand，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场4小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\nThai cooking classes run to a pattern that works: a market walk to buy galangal, lemongrass, kaffir lime and holy basil with the teacher explaining what each does, then four or five dishes cooked one at a time at individual stations, usually a curry paste pounded from scratch, a stir-fry, a soup and a dessert, eaten as they are made. Chiang Mai's classes on organic farms outside the city are the most relaxed; Bangkok's in old shophouses are the most polished; Phuket's often add seafood. Vegetarian and vegan versions are standard, and a class is the fastest way to understand why Thai food tastes the way it does.\n\n价格包含酒店接送、本地主持人及全部烹饪食材。不包含啤酒或其他酒精饮品，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Smart Cook Krabi,Thailand将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "本地主持人",
+   "全部烹饪食材"
+  ],
+  "notIncluded": [
+   "啤酒或其他酒精饮品"
+  ]
+ },
+ "7-islands-sunset-tour-with-plankton-swim-and-bbq-in-krabi": {
+  "title": "甲米7岛日落之旅（含蓝眼泪游泳与烧烤）",
+  "metaTitle": "甲米7岛日落之旅（含蓝眼泪游泳与烧烤）",
+  "shortDescription": "7小时的Krabi游览，含往返酒店接送及乘长尾船或快艇游览7座岛屿。运营商：Koh Tour，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含往返酒店接送及乘长尾船或快艇游览7座岛屿。不包含国家公园门票（成人200泰铢/儿童100泰铢），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Koh Tour将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "往返酒店接送",
+   "乘长尾船或快艇游览7座岛屿"
+  ],
+  "notIncluded": [
+   "国家公园门票（成人200泰铢/儿童100泰铢）"
+  ]
+ },
+ "ao-nang-elephant-sanctuary-half-day-tour": {
+  "title": "奥南海滩大象保护营半日游",
+  "metaTitle": "奥南海滩大象保护营半日游",
+  "shortDescription": "3小时的Krabi游览，含导游、小吃、季节性水果及果汁及饮用水、咖啡及茶。运营商：Aonang Elephant Sanctuary，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场3小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国的象旅游业正在不均衡地从骑乘和表演转向保护区模式，游客在那里喂食、陪伴行走并为被救助的象洗澡，而不骑乘它们，这种差异体现在象的身体状况上，也体现在经营者是否允许骑乘、使用象钩或锁链。清迈和普吉岛管理最好的营地会限制团队规模和接触时间，值得预订的营地会明确说明自己不允许的做法。考艾（Khao Yai）是泰国第一座国家公园，位于曼谷东北方向三小时车程处，在那里可以在黄昏时从吉普车上观察野生象群，还有长臂猿、犀鸟，偶尔也能见到公园内为数不多的熊。\n\n价格包含导游、小吃、季节性水果及果汁及饮用水、咖啡及茶。不包含小费、午餐或晚餐及毛巾，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n会议地点和时间将在预订确认后通过邮件发送给您。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "导游",
+   "小吃、季节性水果及果汁",
+   "饮用水、咖啡及茶"
+  ],
+  "notIncluded": [
+   "小费",
+   "午餐或晚餐",
+   "毛巾"
+  ]
+ },
+ "phi-phi-islands-speedboat-tour-with-buffet-lunch": {
+  "title": "快艇披披岛之旅（含自助午餐）",
+  "metaTitle": "快艇披披岛之旅（含自助午餐）",
+  "shortDescription": "7.5小时的Krabi游览，含酒店接送、皮皮唐岛国际自助午餐（同时提供清真餐食）及意外保险。运营商：Srisawat Travel and Tour Limited Partnership，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7.5小时的Krabi体验。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含酒店接送、皮皮唐岛国际自助午餐（同时提供清真餐食）及意外保险。不包含国家公园门票（成人400泰铢，在签到点以现金支付）及国家公园门票（儿童200泰铢，在签到点以现金支付），需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。Srisawat Travel and Tour Limited Partnership将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "酒店接送",
+   "皮皮唐岛国际自助午餐（同时提供清真餐食）",
+   "意外保险"
+  ],
+  "notIncluded": [
+   "国家公园门票（成人400泰铢，在签到点以现金支付）",
+   "国家公园门票（儿童200泰铢，在签到点以现金支付）"
   ]
  },
  "4-islands-day-trip-by-longtail-boat-or-speedboat": {
@@ -15811,6 +16919,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "grand-palace-with-damnoen-and-maeklong-markets": {
+  "title": "大皇宫与丹嫩沙多、美功铁路市场之旅",
+  "metaTitle": "大皇宫与丹嫩沙多、美功铁路市场之旅",
+  "shortDescription": "7小时的Krabi游览，含Maeklong Railway Market and Damnoen Saduak Floating Market。运营商：OTO TRIP SERVICE CO., LTD，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场7小时的Krabi体验，围绕Maeklong Railway Market and Damnoen Saduak Floating Market展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n价格包含曼谷市区酒店接送（如选择该服务）、配备英语导游的空调面包车及丹嫩沙多免费长尾船游。不包含餐食及其他饮品及个人花费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\n在Krabi提供酒店接送。OTO TRIP SERVICE CO., LTD将在预订完成后确认接送时间及具体地点。我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "曼谷市区酒店接送（如选择该服务）",
+   "配备英语导游的空调面包车",
+   "丹嫩沙多免费长尾船游"
+  ],
+  "notIncluded": [
+   "餐食及其他饮品",
+   "个人花费"
+  ]
+ },
  "maeklong-railway-market-and-floating-market-boat-tour": {
   "title": "美功铁道市场及水上市场乘船之旅",
   "metaTitle": "美功铁道市场及水上市场乘船之旅",
@@ -15825,6 +16948,23 @@ export const ZH_TOURS: Record<string, TourT> = {
    "耳机",
    "食物及饮料",
    "个人花费"
+  ]
+ },
+ "white-water-rafting-zipline-and-elephant-sanctuary-in-chiang-mai": {
+  "title": "清迈激流漂筏、丛林飞索与大象保护营之旅",
+  "metaTitle": "清迈激流漂筏、丛林飞索与大象保护营之旅",
+  "shortDescription": "9小时的Chiang Mai游览，含Phang Nga Province。运营商：Anda Adventure Co.,Ltd，直接预订而非通过转售商预订。",
+  "fullDescription": "这是一场9小时的Chiang Mai体验，围绕Phang Nga Province展开。在我们将您的预订视为最终确认之前，我们会先为您在运营商处保留名额。\n\n泰国的象旅游业正在不均衡地从骑乘和表演转向保护区模式，游客在那里喂食、陪伴行走并为被救助的象洗澡，而不骑乘它们，这种差异体现在象的身体状况上，也体现在经营者是否允许骑乘、使用象钩或锁链。清迈和普吉岛管理最好的营地会限制团队规模和接触时间，值得预订的营地会明确说明自己不允许的做法。考艾（Khao Yai）是泰国第一座国家公园，位于曼谷东北方向三小时车程处，在那里可以在黄昏时从吉普车上观察野生象群，还有长臂猿、犀鸟，偶尔也能见到公园内为数不多的熊。\n\n价格包含普吉岛酒店接送、导游、激流漂流、越野车租赁及丛林飞索。不包含个人花费及小费，需另行支付。本页列出的即为全部包含内容；未列出的项目即视为不包含在价格内。\n\nPhuket.. 我们需要至少一天的提前通知，并在确认日期后才将您的预订视为最终确认。如果日期无法确认，我们会告知您并为您退款，而不会让您一直等待。",
+  "included": [
+   "普吉岛酒店接送",
+   "导游",
+   "激流漂流",
+   "越野车租赁",
+   "丛林飞索"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "小费"
   ]
  },
  "elephant-sanctuary-visit-with-mud-spa-and-workshop-in-chiang-mai": {
