@@ -1400,6 +1400,296 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        case "best-semenggoh-orangutan-tour-kuching":
+            return {
+                title: "Which Is the Best Semenggoh Orangutan Tour in Kuching?",
+                seoTitle: "Best Semenggoh Orangutan Tour Kuching 2026 | Honest Comparison",
+                description: "Compare real Semenggoh Nature Reserve orangutan tours from Kuching — from an $83 viewing-with-transfer trip to combos with Bidayuh longhouses, Sarawak Cultural Village, and Fairy Cave.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d11002840e90d0cbff1e5ba3e32cc09505c0eb1260103dd1502eb76523b6c206.jpeg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Semenggoh Nature Reserve's feeding sessions (around 9am and 3pm) are the main draw, and most tours simply handle transfer and timing around them. If you only want the orangutan viewing without extra stops, the basic viewing-with-transfer tour is the simplest, cheapest option.",
+                        tourCard: { slug: "kuching-semenggoh-orangutan-viewing-with-transfer", title: "Kuching: Semenggoh Orangutan Viewing with Transfer", description: "A straightforward transfer and viewing trip to Semenggoh Nature Reserve.", price: "From $83", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d11002840e90d0cbff1e5ba3e32cc09505c0eb1260103dd1502eb76523b6c206.jpeg" },
+                    },
+                    {
+                        title: "Cheapest: Viewing with Transfer",
+                        content: "At $83, this is the lowest-priced way to see the orangutans without any added stops — good if your priority is just the feeding session itself.",
+                        tourCard: { slug: "kuching-semenggoh-orangutan-viewing-with-transfer", title: "Kuching: Semenggoh Orangutan Viewing with Transfer", description: "The budget option for just the orangutan viewing.", price: "From $83", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d11002840e90d0cbff1e5ba3e32cc09505c0eb1260103dd1502eb76523b6c206.jpeg" },
+                    },
+                    {
+                        title: "Best Mid-Range: Half-Day Orangutan Tour",
+                        content: "A slightly longer half-day version with more guiding time around the reserve, without adding a second destination.",
+                        tourCard: { slug: "kuching-orangutan-tour", title: "Kuching Orangutan Tour", description: "A half-day guided trip focused on Semenggoh.", price: "From $164", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/20d91a1a846b6b5bb1d710f44ec97e98e3bd53803dfb48f789510d82e1d5038d.jpg" },
+                    },
+                    {
+                        title: "Best for Culture: Orangutan + Bidayuh Longhouse",
+                        content: "This pairs the Semenggoh visit with a Bidayuh longhouse experience, a good fit for travellers who want both wildlife and an indigenous-culture stop in one trip.",
+                        tourCard: { slug: "kuching-semenggoh-orangutan-bidayuh-longhouse", title: "Kuching: Semenggoh Orangutan & Bidayuh Longhouse", description: "Orangutan viewing combined with a Bidayuh longhouse visit.", price: "From $341", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eed031ecf5eb2ec6802302ab237caf9bd1133a4123f45fa7c9fec5d3e9beab95.png" },
+                    },
+                    {
+                        title: "Best Full-Day Combo: + Sarawak Cultural Village",
+                        content: "A full day combining the orangutans with the Sarawak Cultural Village, Kuching's main living-museum attraction — efficient if you only have one day to cover both.",
+                        tourCard: { slug: "kuching-orangutan-sarawak-cultural-village-day", title: "Kuching Orangutan & Sarawak Cultural Village Day Tour", description: "A full-day combo of Semenggoh and the Sarawak Cultural Village.", price: "From $367", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d9965e16647af989b7de3e74324bb75591875df48f1cf2b8337b1cb518b8d948.jpg" },
+                    },
+                    {
+                        title: "Most Comprehensive: + Annah Rais & Fairy Cave",
+                        content: "The widest-reaching version, adding both the Annah Rais longhouse and Fairy Cave to the orangutan visit — best if you want to see as much of the Kuching region as possible in one guided day.",
+                        tourCard: { slug: "kuching-semenggoh-orangutan-annah-rais-fairy-cave", title: "Kuching: Semenggoh Orangutan, Annah Rais & Fairy Cave", description: "The most complete combo, adding Annah Rais longhouse and Fairy Cave.", price: "From $432", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e033c464f94255dc8a24542e6301d42e6f1a60a78b12bcfe4f8fa38ff248a900.png" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Orangutan sightings depend on wild fruit availability in the forest — during fruiting season, the apes may not show up at the feeding platform at all since they have enough food naturally. Morning sessions tend to have slightly better odds than afternoon."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Semenggoh orangutan tour in Kuching?", a: "A simple viewing-with-transfer tour suits most visitors; add Sarawak Cultural Village or a longhouse visit if you want a fuller day." },
+                    { q: "Are orangutan sightings guaranteed at Semenggoh?", a: "No — sightings depend on wild fruit availability in the surrounding forest, so they're not guaranteed on every visit." },
+                    { q: "What's the cheapest Semenggoh orangutan tour from Kuching?", a: "The basic viewing-with-transfer option, the lowest-priced way to see the reserve." },
+                    { q: "Can a Semenggoh tour be combined with other Kuching attractions?", a: "Yes — common combos include Bidayuh/Annah Rais longhouses, Sarawak Cultural Village, and Fairy Cave." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Semenggoh orangutan tour in Kuching?", "acceptedAnswer": { "@type": "Answer", "text": "A simple viewing-with-transfer tour suits most visitors." } },
+                        { "@type": "Question", "name": "Are orangutan sightings guaranteed at Semenggoh?", "acceptedAnswer": { "@type": "Answer", "text": "No, sightings depend on wild fruit availability." } },
+                        { "@type": "Question", "name": "What's the cheapest Semenggoh orangutan tour from Kuching?", "acceptedAnswer": { "@type": "Answer", "text": "The basic viewing-with-transfer option." } },
+                        { "@type": "Question", "name": "Can a Semenggoh tour be combined with other attractions?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, longhouses, Sarawak Cultural Village, and Fairy Cave." } }
+                    ]
+                },
+            };
+
+        case "best-bako-national-park-tour-kuching":
+            return {
+                title: "Which Is the Best Bako National Park Tour from Kuching?",
+                seoTitle: "Best Bako National Park Tour Kuching 2026 | Honest Comparison",
+                description: "Compare real Bako National Park tours from Kuching — from a day trip with proboscis monkeys to 2-day wildlife tours and a multi-day adventure combining Bako with other Sarawak parks.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e3f12215867486e713f3baeb1a23e86421dc9af856d673b6cb233e24e18f2052.jpeg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Bako is Sarawak's oldest national park and the easiest place near Kuching to see wild proboscis monkeys, bearded pigs, and silvered langurs. A guided day trip covers the park's main trails and wildlife spots without needing to stay overnight.",
+                        tourCard: { slug: "kuching-bako-wildlife-day-tour", title: "Kuching: Bako Wildlife Day Tour", description: "A guided day trip to Bako National Park for wildlife viewing.", price: "From $367", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e3f12215867486e713f3baeb1a23e86421dc9af856d673b6cb233e24e18f2052.jpeg" },
+                    },
+                    {
+                        title: "Best Value Day Trip: Bako Wildlife Day Tour",
+                        content: "A full guided day covering the park's main wildlife trails, returning to Kuching the same evening — no overnight stay needed.",
+                        tourCard: { slug: "kuching-bako-wildlife-day-tour", title: "Kuching: Bako Wildlife Day Tour", description: "A full day of guided wildlife viewing at Bako.", price: "From $367", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e3f12215867486e713f3baeb1a23e86421dc9af856d673b6cb233e24e18f2052.jpeg" },
+                    },
+                    {
+                        title: "Best for Deeper Wildlife Viewing: 2-Day Wildlife Tour",
+                        content: "Staying a night inside the park means being there for dawn and dusk, when proboscis monkeys and other wildlife are most active — a real advantage over a single day trip.",
+                        tourCard: { slug: "kuching-bako-national-park-2-day-wildlife-tour", title: "Kuching: Bako National Park 2-Day Wildlife Tour", description: "An overnight stay in the park for dawn/dusk wildlife viewing.", price: "From $754", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/88d9fb16d4872263e0f086fad4547ee9953d37c89a6242d3d16692b70a16737c.jpeg" },
+                    },
+                    {
+                        title: "Best Combo: Bako + Permai Rainforest",
+                        content: "This pairs Bako with the Permai Rainforest resort area, adding a second ecosystem and some resort-style downtime to the wildlife-focused Bako visit.",
+                        tourCard: { slug: "kuching-bako-wildlife-permai-rainforest-2-day-tour", title: "Kuching: Bako Wildlife & Permai Rainforest 2-Day Tour", description: "A 2-day combo of Bako wildlife viewing and Permai Rainforest.", price: "From $401", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f16cc96cafa4b1b3ee85ee8baa50c02a1b567ceeefeacd7c118add06455e3950.jpeg" },
+                    },
+                    {
+                        title: "Best for a Longer Sarawak Trip: 3-Day Adventure",
+                        content: "For travellers with more time, this extends beyond Bako into a broader 3-day Sarawak adventure covering multiple parks and activities.",
+                        tourCard: { slug: "kuching-3-day-adventure-tour", title: "Kuching: 3-Day Adventure Tour", description: "A multi-day Sarawak adventure including Bako and other parks.", price: "From $771", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/09678106ef9782902e796d6f40f4469cf477dbad27bd6018cb0c5ec191ff5660.jpeg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Bako is only reachable by boat from Bako village, and boat trips can be cancelled in rough weather — morning departures generally see calmer seas than afternoon ones. Bring water and insect repellent since the park's trails have limited shade and shelter."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Bako National Park tour from Kuching?", a: "A guided day trip suits most visitors; stay overnight if you want dawn/dusk wildlife viewing." },
+                    { q: "Can I visit Bako National Park as a day trip from Kuching?", a: "Yes, several operators run full-day guided trips that return to Kuching the same evening." },
+                    { q: "What wildlife can I see at Bako National Park?", a: "Proboscis monkeys, bearded pigs, silvered langurs, and macaques are the main draws." },
+                    { q: "Is it worth staying overnight at Bako National Park?", a: "Yes, if wildlife viewing is your priority — dawn and dusk are when animals are most active." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Bako National Park tour from Kuching?", "acceptedAnswer": { "@type": "Answer", "text": "A guided day trip suits most visitors." } },
+                        { "@type": "Question", "name": "Can I visit Bako National Park as a day trip?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, several operators run full-day guided trips." } },
+                        { "@type": "Question", "name": "What wildlife can I see at Bako National Park?", "acceptedAnswer": { "@type": "Answer", "text": "Proboscis monkeys, bearded pigs, silvered langurs, and macaques." } },
+                        { "@type": "Question", "name": "Is it worth staying overnight at Bako?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, if wildlife viewing is your priority." } }
+                    ]
+                },
+            };
+
+        case "best-mari-mari-cultural-village-tour-kota-kinabalu":
+            return {
+                title: "Which Is the Best Mari Mari Cultural Village Tour in Kota Kinabalu?",
+                seoTitle: "Best Mari Mari Cultural Village Tour KK 2026 | Honest Comparison",
+                description: "Compare real Mari Mari Cultural Village tours from Kota Kinabalu — from a $108 buffet-lunch visit to combos with river cruises and firefly-watching.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-800091/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Mari Mari Cultural Village recreates five of Sabah's indigenous tribal houses with live demonstrations of fire-making, tattooing, and traditional cooking. Almost every version includes a buffet lunch and transfer, so the real choice is whether to keep it a standalone half-day visit or combine it with a river cruise.",
+                        tourCard: { slug: "kota-kinabalu-mari-mari-cultural-village-with", title: "Kota Kinabalu: Mari Mari Cultural Village With Buffet Lunch", description: "The standard Mari Mari visit with buffet lunch included.", price: "From $108", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/20ec7ea9b802ba1897db0e052d01fdf4907d7a4f88c086eb6bbc7dd945083302.jpeg" },
+                    },
+                    {
+                        title: "Cheapest: With Buffet Lunch",
+                        content: "At $108, this is the lowest-priced standard version, covering the full village tour plus lunch without any add-ons.",
+                        tourCard: { slug: "kota-kinabalu-mari-mari-cultural-village-with", title: "Kota Kinabalu: Mari Mari Cultural Village With Buffet Lunch", description: "The budget-friendly standard visit with lunch.", price: "From $108", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/20ec7ea9b802ba1897db0e052d01fdf4907d7a4f88c086eb6bbc7dd945083302.jpeg" },
+                    },
+                    {
+                        title: "Most Popular: Standard Village Tour",
+                        content: "This is the most commonly booked version — the same core experience with slightly different operator inclusions and pickup options.",
+                        tourCard: { slug: "kota-kinabalu-mari-mari-cultural-village-tour", title: "Kota Kinabalu: Mari Mari Cultural Village Tour", description: "A standard guided tour of the cultural village.", price: "From $173", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-800091/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for a Fuller Evening: + Transfer Version",
+                        content: "This version runs slightly longer and includes more flexible transfer options, useful if you're coming from a hotel further from the village.",
+                        tourCard: { slug: "kota-kinabalu-mari-mari-cultural-village-tour-with", title: "Kota Kinabalu: Mari Mari Cultural Village Tour with Transfer", description: "The village tour with more flexible hotel transfer.", price: "From $125", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-800091/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Combo: + River Cruise Package",
+                        content: "This pairs the cultural village with a river cruise, usually timed to catch fireflies or proboscis monkeys afterward — a good way to combine culture and wildlife in one evening.",
+                        tourCard: { slug: "kota-kinabalu-mari-mari-village-river-cruise", title: "Kota Kinabalu: Mari Mari Village & River Cruise Package", description: "The cultural village combined with an evening river cruise.", price: "From $201", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/20ec7ea9b802ba1897db0e052d01fdf4907d7a4f88c086eb6bbc7dd945083302.jpeg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Most visits end with a traditional dance performance and a shot of rice wine (lihing) as part of the welcome ritual — optional if you'd rather skip it. Wear comfortable shoes since the walking tour covers uneven ground between the tribal houses."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best Mari Mari Cultural Village tour in Kota Kinabalu?", a: "The standard buffet-lunch version suits most visitors; add a river cruise if you want to combine culture with wildlife." },
+                    { q: "Does Mari Mari Cultural Village include lunch?", a: "Yes, nearly all versions include a buffet lunch featuring traditional Sabah dishes." },
+                    { q: "How long does a Mari Mari Cultural Village tour take?", a: "Most standard tours run 3-5 hours including transfer; combo packages with a river cruise can run a full day." },
+                    { q: "Can Mari Mari Cultural Village be combined with other KK attractions?", a: "Yes, river cruise and firefly-watching combos are common." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best Mari Mari Cultural Village tour in Kota Kinabalu?", "acceptedAnswer": { "@type": "Answer", "text": "The standard buffet-lunch version suits most visitors." } },
+                        { "@type": "Question", "name": "Does Mari Mari Cultural Village include lunch?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, nearly all versions include a buffet lunch." } },
+                        { "@type": "Question", "name": "How long does a Mari Mari tour take?", "acceptedAnswer": { "@type": "Answer", "text": "Most standard tours run 3-5 hours." } },
+                        { "@type": "Question", "name": "Can it be combined with other attractions?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, river cruise and firefly combos are common." } }
+                    ]
+                },
+            };
+
+        case "best-island-hopping-tour-kota-kinabalu":
+            return {
+                title: "Which Is the Best Island Hopping Tour in Kota Kinabalu?",
+                seoTitle: "Best Island Hopping Tour Kota Kinabalu 2026 | Honest Comparison",
+                description: "Compare real Manukan and Sapi island tours from Kota Kinabalu — from an $85 island package to snorkeling, catamaran, and underwater-adventure combos.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/161104c40ebb713e7e133a3d8e5d45b46dda05b4d67e22a6692f5d60bfcdb042.jpeg",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Manukan and Sapi are the two most popular islands in Tunku Abdul Rahman Marine Park, both a short speedboat ride from Jesselton Point. A basic island package covers the boat transfer and entry; snorkeling gear, lunch, and extra activities are what separate the pricier options.",
+                        tourCard: { slug: "kota-kinabalu-manukan-island-package", title: "Kota Kinabalu: Manukan Island Package", description: "A straightforward boat transfer and entry package to Manukan Island.", price: "From $85", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1253838/img0/1600.webp" },
+                    },
+                    {
+                        title: "Cheapest: Manukan Island Package",
+                        content: "At $85, this covers just the boat transfer and island entry — bring your own snorkel gear if you want to explore the reef.",
+                        tourCard: { slug: "kota-kinabalu-manukan-island-package", title: "Kota Kinabalu: Manukan Island Package", description: "The budget option for a Manukan Island day trip.", price: "From $85", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1253838/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best with Lunch: Manukan & Sapi Snorkeling",
+                        content: "This version visits both islands and includes lunch, good for travellers who want a fuller day without arranging their own food.",
+                        tourCard: { slug: "kota-kinabalu-manukan-sapi-islands-snorkeling", title: "Kota Kinabalu: Manukan & Sapi Islands Snorkeling with Lunch", description: "A two-island snorkeling trip with lunch included.", price: "From $121", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/72af11c36b59c947a1d8e04602f8803fe6cd4fba5d70ec71a940b0bf6d808df7.jpg" },
+                    },
+                    {
+                        title: "Best Full-Day Option: Manukan Island Snorkeling Day Trip",
+                        content: "A full-day version with more time at the islands and a more leisurely pace than the half-day options.",
+                        tourCard: { slug: "kota-kinabalu-manukan-island-snorkeling-day-trip", title: "Kota Kinabalu: Manukan Island Snorkeling Day Trip with Lunch", description: "A full day of snorkeling and beach time at Manukan.", price: "From $130", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1400332/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for a Different Pace: Catamaran Sail & Snorkel",
+                        content: "Rather than a speedboat shuttle, this version sails out by catamaran with a meal included, better suited to travellers who want a slower, more scenic approach to the islands.",
+                        tourCard: { slug: "kota-kinabalu-catamaran-snorkel-sailing-tour-with", title: "Kota Kinabalu: Catamaran Snorkel & Sailing Tour with Meal", description: "A catamaran sailing trip to the islands with snorkeling and a meal.", price: "From $124", duration: "5.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/91de13383b50beb136b5e3810d2e405b509a92e45859a9ba218739c970ed0fbb.png" },
+                    },
+                    {
+                        title: "Best for Underwater Exploring: Seawalking Adventure",
+                        content: "This combines the Manukan and Sapi islands with a seawalking activity, letting non-swimmers walk along the seabed in a helmet — a genuinely different experience from standard snorkeling.",
+                        tourCard: { slug: "manukan-sapi-islands-underwater-adventure", title: "Manukan + Sapi Islands Underwater Adventure Seawalking Tour", description: "Island hopping combined with a helmet seawalking experience.", price: "From $108", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/161104c40ebb713e7e133a3d8e5d45b46dda05b4d67e22a6692f5d60bfcdb042.jpeg" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "A marine park conservation fee (paid in cash on the island) usually applies separately from the tour price — check whether your operator's price already includes it. Morning departures tend to have calmer seas and clearer water for snorkeling."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best island hopping tour in Kota Kinabalu?", a: "Manukan & Sapi snorkeling with lunch suits most visitors; try seawalking for something different." },
+                    { q: "Which islands do Kota Kinabalu island hopping tours visit?", a: "Most commonly Manukan and Sapi, both part of Tunku Abdul Rahman Marine Park." },
+                    { q: "What's the cheapest island hopping tour in Kota Kinabalu?", a: "A basic Manukan Island package covering just boat transfer and entry." },
+                    { q: "Is there a marine park fee for Kota Kinabalu island hopping?", a: "Usually yes, paid separately in cash — check if your tour price already includes it." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best island hopping tour in Kota Kinabalu?", "acceptedAnswer": { "@type": "Answer", "text": "Manukan & Sapi snorkeling with lunch suits most visitors." } },
+                        { "@type": "Question", "name": "Which islands do Kota Kinabalu tours visit?", "acceptedAnswer": { "@type": "Answer", "text": "Most commonly Manukan and Sapi." } },
+                        { "@type": "Question", "name": "What's the cheapest option?", "acceptedAnswer": { "@type": "Answer", "text": "A basic Manukan Island package." } },
+                        { "@type": "Question", "name": "Is there a marine park fee?", "acceptedAnswer": { "@type": "Answer", "text": "Usually yes, paid separately in cash." } }
+                    ]
+                },
+            };
+
+        case "best-jetski-tour-johor-bahru":
+            return {
+                title: "Which Is the Best Jet Ski Tour in Johor Bahru?",
+                seoTitle: "Best Jet Ski Tour Johor Bahru 2026 | Honest Comparison",
+                description: "Compare real jet ski rides in Johor Bahru — single and double rides across four ride lengths, from a $199 short single ride to a $1,785 extended double ride.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1253838/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Johor Bahru's Seadoo jet ski rides come in single-rider and double-rider versions across four ride lengths (B, C, D tiers plus a base option). The core choice is simply how long you want to ride and whether you're going solo or with a passenger.",
+                        tourCard: { slug: "johor-bahru-seadoo-jetski-single-ride-b", title: "Johor Bahru Seadoo Jetski Single Ride B", description: "A short solo jet ski ride, the entry-level option.", price: "From $199", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1253838/img0/1600.webp" },
+                    },
+                    {
+                        title: "Cheapest: Single Ride B",
+                        content: "At $199, this is the lowest-priced way to try jet skiing solo in Johor Bahru.",
+                        tourCard: { slug: "johor-bahru-seadoo-jetski-single-ride-b", title: "Johor Bahru Seadoo Jetski Single Ride B", description: "The budget solo jet ski option.", price: "From $199", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1253838/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for Couples/Friends: Double Ride B",
+                        content: "The two-person version of the entry ride, letting you share the jet ski with a passenger rather than riding solo.",
+                        tourCard: { slug: "johor-bahru-seadoo-jetski-double-ride-b", title: "Johor Bahru Seadoo Jetski Double Ride B", description: "A short two-person jet ski ride.", price: "From $265", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1253838/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best Mid-Length Ride: Single Ride C",
+                        content: "A longer solo ride than the base option, giving more time on the water without jumping to the most expensive tier.",
+                        tourCard: { slug: "johor-bahru-seadoo-jetski-single-ride-c", title: "Johor Bahru Seadoo Jetski Single Ride C", description: "A mid-length solo jet ski ride.", price: "From $397", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1253838/img0/1600.webp" },
+                    },
+                    {
+                        title: "Best for a Longer Solo Ride: Single Ride D",
+                        content: "The longest solo ride option, best for riders who want extended time on the water rather than a quick taster.",
+                        tourCard: { slug: "johor-bahru-seadoo-jetski-single-ride-d", title: "Johor Bahru Seadoo Jetski Single Ride D", description: "An extended solo jet ski ride.", price: "From $661", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1253838/img0/1600.webp" },
+                    },
+                    {
+                        title: "Longest Double Ride: Double Ride D",
+                        content: "The most extended two-person ride available, suited to riders who want a full outing together rather than a short trial run.",
+                        tourCard: { slug: "johor-bahru-seadoo-jetski-double-ride-d", title: "Johor Bahru Seadoo Jetski Double Ride D", description: "The longest two-person jet ski ride.", price: "From $1785", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1253838/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "A valid driving license is typically required for the rider in control of the jet ski; double rides let one passenger ride without steering. Life jackets are provided and mandatory for all ride lengths."
+                    }
+                ],
+                faqs: [
+                    { q: "What is the best jet ski tour in Johor Bahru?", a: "A single ride B suits a quick solo taster; longer rides (C/D tiers) suit riders who want more time on the water." },
+                    { q: "Do I need a license to jet ski in Johor Bahru?", a: "Typically yes for the rider in control; a passenger on a double ride does not need one." },
+                    { q: "What's the difference between single and double jet ski rides?", a: "Single rides are solo; double rides let you bring a passenger on the same jet ski." },
+                    { q: "What's the cheapest jet ski option in Johor Bahru?", a: "The single ride B, the shortest and lowest-priced solo option." }
+                ],
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        { "@type": "Question", "name": "What is the best jet ski tour in Johor Bahru?", "acceptedAnswer": { "@type": "Answer", "text": "A single ride B suits a quick solo taster." } },
+                        { "@type": "Question", "name": "Do I need a license to jet ski?", "acceptedAnswer": { "@type": "Answer", "text": "Typically yes for the rider in control." } },
+                        { "@type": "Question", "name": "What's the difference between single and double rides?", "acceptedAnswer": { "@type": "Answer", "text": "Single is solo, double allows a passenger." } },
+                        { "@type": "Question", "name": "What's the cheapest jet ski option?", "acceptedAnswer": { "@type": "Answer", "text": "The single ride B." } }
+                    ]
+                },
+            };
+
         default:
             return null;
     }

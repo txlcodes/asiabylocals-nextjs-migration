@@ -221,6 +221,16 @@ export const MALACCA_INFO_SLUGS = [
 
 export const KOTA_KINABALU_INFO_SLUGS = [
   'mount-kinabalu-guide', 'kota-kinabalu-island-hopping',
+  // Tour-selling pages (2026-11-16)
+  'best-mari-mari-cultural-village-tour-kota-kinabalu', 'best-island-hopping-tour-kota-kinabalu',
+];
+
+export const KUCHING_INFO_SLUGS = [
+  'best-semenggoh-orangutan-tour-kuching', 'best-bako-national-park-tour-kuching',
+];
+
+export const JOHOR_BAHRU_INFO_SLUGS = [
+  'best-jetski-tour-johor-bahru',
 ];
 
 // China launched 2026-10 with 1,628 live tours (Beijing + Shanghai) and zero

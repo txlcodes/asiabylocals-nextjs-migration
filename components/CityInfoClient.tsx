@@ -190,6 +190,8 @@ const MALACCA_SIDEBAR = [
 const KOTA_KINABALU_SIDEBAR = [
     { name: 'Mount Kinabalu Guide', slug: 'mount-kinabalu-guide' },
     { name: 'Island Hopping', slug: 'kota-kinabalu-island-hopping' },
+    { name: 'Best Mari Mari Cultural Village Tour', slug: 'best-mari-mari-cultural-village-tour-kota-kinabalu' },
+    { name: 'Best Manukan & Sapi Island Tour', slug: 'best-island-hopping-tour-kota-kinabalu' },
 ];
 
 // Recommended tour links for internal linking from authority pages to tour pages (SEO: pass link juice)
