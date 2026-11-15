@@ -623,6 +623,64 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "tbilisi-travel-guide-2026":
+            return {
+                title: "Tbilisi Travel Guide 2026",
+                description: "Georgia's capital mixes Soviet-era architecture, a dramatically renovated Old Town, and some of the Caucasus's best wine and food — here's what first-timers need to know.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d02ff5fc955ab5d43256cad8799167bb2592264478aa8713ada7a86245489a30.jpg",
+                sections: [
+                    { title: "Why Visit Tbilisi", content: "Tbilisi is compact enough to explore mostly on foot, with its Old Town, sulfur bathhouses, and Narikala Fortress cable car all within walking distance of each other. It's also the launch point for Georgia's biggest day trips — Kazbegi's mountains and Kakheti's wine region." },
+                    { title: "Getting Around", content: "The metro covers the main areas cheaply, and Bolt (ride-hailing) is widely used for anything further out. Most day trips to Kazbegi, Kakheti, or Mtskheta are easiest booked as organized tours rather than self-driving." }
+                ],
+                faqs: [
+                    { q: "Is Tbilisi worth visiting?", a: "Yes, for its Old Town, bathhouses, food and wine scene, and as a base for Caucasus day trips." },
+                    { q: "How do I get around Tbilisi?", a: "Metro for central areas, Bolt ride-hailing for everything else." }
+                ],
+            };
+
+        case "best-time-to-visit-tbilisi":
+            return {
+                title: "Best Time to Visit Tbilisi",
+                description: "Tbilisi has four real seasons, unlike much of the rest of this project's typical tropical destinations — timing matters more here.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d02ff5fc955ab5d43256cad8799167bb2592264478aa8713ada7a86245489a30.jpg",
+                sections: [
+                    { title: "Seasonal Overview", content: "Spring (April-June) and autumn (September-October) are the best balance of mild weather and fewer crowds. Summer (July-August) is hot in the city but is harvest season in Kakheti, good timing for wine tours. Winter can close the Georgian Military Road to Kazbegi on short notice due to snow." }
+                ],
+                faqs: [
+                    { q: "What is the best time to visit Tbilisi?", a: "Spring or autumn for the best weather balance; summer specifically for Kakheti's wine harvest." },
+                    { q: "Can Kazbegi be visited in winter?", a: "Sometimes, but snow can close the Georgian Military Road on short notice — spring through autumn is more reliable." }
+                ],
+            };
+
+        case "tbilisi-1-day-itinerary":
+            return {
+                title: "Tbilisi 1-Day Itinerary",
+                description: "A realistic one-day plan for Tbilisi if you don't have time for a Kazbegi or Kakheti day trip.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d02ff5fc955ab5d43256cad8799167bb2592264478aa8713ada7a86245489a30.jpg",
+                sections: [
+                    { title: "Morning", content: "Start in the Old Town, then take the cable car up to Narikala Fortress for views over the city." },
+                    { title: "Afternoon", content: "Visit a traditional sulfur bathhouse in the Abanotubani district, then wander the Peace Bridge and Rike Park area." },
+                    { title: "Evening", content: "Finish with a Georgian dinner — khachapuri and a glass of qvevri wine is the classic way to end a Tbilisi day." }
+                ],
+                faqs: [
+                    { q: "Can Tbilisi be seen in one day?", a: "The Old Town and central sights, yes — but Kazbegi and Kakheti need separate full days of their own." },
+                    { q: "What's a must-do in Tbilisi in one day?", a: "The Old Town, Narikala Fortress cable car, and a sulfur bathhouse experience." }
+                ],
+            };
+
+        case "georgia-visa-guide-for-tourists":
+            return {
+                title: "Georgia Visa Guide for Tourists (Tbilisi)",
+                description: "Visa requirements for visiting Tbilisi and Georgia.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d02ff5fc955ab5d43256cad8799167bb2592264478aa8713ada7a86245489a30.jpg",
+                sections: [
+                    { title: "Visa Requirements", content: "Georgia has one of the more open visa policies in the region — many nationalities get visa-free entry for an extended period. Check Georgia's official immigration requirements for your specific nationality before travel, since rules vary and change." }
+                ],
+                faqs: [
+                    { q: "Do I need a visa to visit Tbilisi/Georgia?", a: "Many nationalities get visa-free entry; verify current requirements for your passport before travel." }
+                ],
+            };
+
         default:
             return null;
     }

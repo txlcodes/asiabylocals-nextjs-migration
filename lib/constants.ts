@@ -275,6 +275,9 @@ export const TBILISI_INFO_SLUGS = [
   'best-mtatsminda-park-tour-tbilisi', 'best-rafting-tour-tbilisi',
   'best-air-balloon-ride-tbilisi', 'best-tusheti-tour-tbilisi',
   'best-sulfur-bath-experience-tbilisi', 'best-bike-tour-tbilisi',
+  // Batch 4 (2026-11-16): guide pages to close the real-inventory ceiling gap
+  'tbilisi-travel-guide-2026', 'best-time-to-visit-tbilisi',
+  'tbilisi-1-day-itinerary', 'georgia-visa-guide-for-tourists',
 ];
 
 // Oman launched 2026-11-16 with 709 live tours and zero authority pages.
@@ -297,6 +300,14 @@ export const JOHOR_BAHRU_INFO_SLUGS = [
   'best-hop-on-hop-off-tour-johor-bahru', 'best-private-city-tour-johor-bahru',
   'best-desaru-day-trip-johor-bahru', 'best-kluang-day-trip-johor-bahru',
   'best-buggy-tour-johor-bahru', 'best-kulai-charter-tour-johor-bahru',
+  // Batch 2 (2026-11-16): guide pages to close the real-inventory ceiling gap
+  'johor-bahru-travel-guide-2026', 'best-time-to-visit-johor-bahru',
+  'johor-bahru-to-singapore-guide', 'is-johor-bahru-safe',
+  'johor-bahru-1-day-itinerary', 'johor-bahru-food-guide',
+  'johor-bahru-public-transport-guide', 'johor-bahru-shopping-guide',
+  'johor-bahru-weather-guide', 'johor-bahru-visa-guide-for-tourists',
+  'johor-bahru-currency-and-money-guide', 'johor-bahru-hotels-guide',
+  'johor-bahru-nightlife-guide',
 ];
 
 // China launched 2026-10 with 1,628 live tours (Beijing + Shanghai) and zero

@@ -343,6 +343,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-mtatsminda-park-tour-tbilisi', 'best-rafting-tour-tbilisi',
     'best-air-balloon-ride-tbilisi', 'best-tusheti-tour-tbilisi',
     'best-sulfur-bath-experience-tbilisi', 'best-bike-tour-tbilisi',
+    'tbilisi-travel-guide-2026', 'best-time-to-visit-tbilisi',
+    'tbilisi-1-day-itinerary', 'georgia-visa-guide-for-tourists',
   ].map(slug => ({
     url: `${BASE_URL}/georgia/tbilisi/${slug}`,
     lastModified: new Date(),
@@ -510,6 +512,13 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-hop-on-hop-off-tour-johor-bahru', 'best-private-city-tour-johor-bahru',
     'best-desaru-day-trip-johor-bahru', 'best-kluang-day-trip-johor-bahru',
     'best-buggy-tour-johor-bahru', 'best-kulai-charter-tour-johor-bahru',
+    'johor-bahru-travel-guide-2026', 'best-time-to-visit-johor-bahru',
+    'johor-bahru-to-singapore-guide', 'is-johor-bahru-safe',
+    'johor-bahru-1-day-itinerary', 'johor-bahru-food-guide',
+    'johor-bahru-public-transport-guide', 'johor-bahru-shopping-guide',
+    'johor-bahru-weather-guide', 'johor-bahru-visa-guide-for-tourists',
+    'johor-bahru-currency-and-money-guide', 'johor-bahru-hotels-guide',
+    'johor-bahru-nightlife-guide',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/johor-bahru/${slug}`,
     lastModified: new Date(),

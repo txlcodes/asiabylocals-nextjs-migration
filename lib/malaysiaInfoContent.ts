@@ -3043,6 +3043,194 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "johor-bahru-travel-guide-2026":
+            return {
+                title: "Johor Bahru Travel Guide 2026",
+                description: "Johor Bahru sits right across the causeway from Singapore, making it one of the easiest border-crossing day trips in Southeast Asia — here's what first-timers need to know.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1315691/img0/1600.webp",
+                sections: [
+                    { title: "Why Visit Johor Bahru", content: "JB is most visited as a cheaper, slower-paced alternative to Singapore, just across the causeway. It has its own attractions — LEGOLAND Malaysia, the Sultan Abu Bakar State Mosque, City Square, and easy access to Desaru's beaches and fireflies — at a fraction of Singapore prices." },
+                    { title: "Getting Around", content: "Most sights are spread out, so Grab (ride-hailing) or a private/charter day trip is more practical than walking between attractions. The causeway crossing to/from Singapore can have long immigration queues at peak hours (weekday mornings/evenings), so budget extra time." }
+                ],
+                faqs: [
+                    { q: "Is Johor Bahru worth visiting?", a: "Yes, especially as a cheaper day trip from Singapore, or for LEGOLAND and the Desaru coast." },
+                    { q: "How do I get from Singapore to Johor Bahru?", a: "By causeway crossing (bus, car, or walking across with immigration checks) or a direct transfer service." }
+                ],
+            };
+
+        case "best-time-to-visit-johor-bahru":
+            return {
+                title: "Best Time to Visit Johor Bahru",
+                description: "Johor Bahru is tropical year-round, so timing is mostly about rain patterns and weekend crowds from Singapore, not seasons.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1315691/img0/1600.webp",
+                sections: [
+                    { title: "Weather Patterns", content: "JB is hot and humid year-round (28-33°C). The wetter period runs roughly November to February with the northeast monsoon, while March to October tends to be drier, though short afternoon showers can happen any time." },
+                    { title: "Avoiding Crowds", content: "Weekends and Singapore public holidays bring heavy causeway traffic and crowded attractions as Singaporeans cross over for cheaper shopping and food — weekday visits are noticeably calmer." }
+                ],
+                faqs: [
+                    { q: "What is the best time to visit Johor Bahru?", a: "March to October for drier weather; weekdays to avoid Singapore weekend crowds." },
+                    { q: "Does Johor Bahru get very crowded?", a: "Yes, especially weekends and Singapore public holidays due to cross-border traffic." }
+                ],
+            };
+
+        case "johor-bahru-to-singapore-guide":
+            return {
+                title: "Johor Bahru to Singapore: Crossing the Causeway",
+                description: "Crossing between Johor Bahru and Singapore is one of the busiest land border crossings in the world — here's how it actually works.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-637324/img0/1600.webp",
+                sections: [
+                    { title: "How the Crossing Works", content: "You can cross by bus (cheapest, but queues can be long), private car, or on foot across the Causeway linking JB and Woodlands in Singapore. Immigration checks happen on both sides, and queues spike heavily on weekday rush hours and weekends." },
+                    { title: "Practical Tips", content: "Carry your passport at all times near the border, and avoid the crossing during Friday evening to Sunday peak traffic if you can, when queues can run well over an hour." }
+                ],
+                faqs: [
+                    { q: "How long does it take to cross from JB to Singapore?", a: "Anywhere from 20 minutes to over an hour depending on time of day — weekends and rush hours are worst." },
+                    { q: "What's the cheapest way to cross?", a: "Public bus is the cheapest option, though it still goes through the same immigration queues as other methods." }
+                ],
+            };
+
+        case "is-johor-bahru-safe":
+            return {
+                title: "Is Johor Bahru Safe for Tourists?",
+                description: "An honest look at safety in Johor Bahru for visitors, especially those crossing over from Singapore for a day trip.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1315691/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Johor Bahru is generally safe for tourists sticking to the main tourist areas (City Square, LEGOLAND, the waterfront) during the day. Like any border city, it's sensible to be more cautious at night and to avoid flashing valuables, but violent crime against tourists is rare." },
+                    { title: "Practical Tips", content: "Use Grab rather than unmarked taxis, keep your passport secure, and stick to well-lit, populated areas after dark, same as you would in any mid-sized city." }
+                ],
+                faqs: [
+                    { q: "Is Johor Bahru safe for tourists?", a: "Yes, generally, especially in the main tourist areas during the day — standard city-travel precautions apply at night." },
+                    { q: "Is it safe to walk across the causeway?", a: "Yes, there's a dedicated pedestrian route, though it can be crowded and hot — most visitors prefer bus or car." }
+                ],
+            };
+
+        case "johor-bahru-1-day-itinerary":
+            return {
+                title: "Johor Bahru 1-Day Itinerary",
+                description: "A realistic one-day plan for Johor Bahru, whether you're coming from Singapore or staying locally.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1315691/img0/1600.webp",
+                sections: [
+                    { title: "Morning", content: "Start at City Square and the Sultan Abu Bakar State Mosque, both central and easy to combine with breakfast at a local kopitiam." },
+                    { title: "Afternoon", content: "Head to LEGOLAND Malaysia if travelling with kids, or take a guided city tour covering JB's heritage sites if you'd rather stay central." },
+                    { title: "Evening", content: "Finish with dinner at one of JB's well-known food streets, or cross back to Singapore before the evening rush-hour queues build at the causeway." }
+                ],
+                faqs: [
+                    { q: "Can Johor Bahru be done in one day?", a: "Yes, the main sights are compact enough for a single day, especially as a day trip from Singapore." },
+                    { q: "What's the best way to see Johor Bahru in a day?", a: "A guided city tour or hop-on hop-off tour covers the most ground efficiently." }
+                ],
+            };
+
+        case "johor-bahru-food-guide":
+            return {
+                title: "Johor Bahru Food Guide",
+                description: "What to eat in Johor Bahru, from breakfast kopitiams to the city's well-known food streets.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1315691/img0/1600.webp",
+                sections: [
+                    { title: "Local Specialties", content: "JB is known for its laksa (a spicier, coconut-based version distinct from other regional laksas), mee rebus, and seafood given its coastal location near Desaru." },
+                    { title: "Where to Eat", content: "Local food streets and hawker centres around the city centre are the best value; many Singaporean visitors cross the causeway specifically for cheaper, equally good hawker food." }
+                ],
+                faqs: [
+                    { q: "What food is Johor Bahru known for?", a: "Its own style of laksa, mee rebus, and fresh coastal seafood." },
+                    { q: "Is food cheaper in Johor Bahru than Singapore?", a: "Yes, noticeably — this is one of the main reasons Singaporeans cross the causeway for day trips." }
+                ],
+            };
+
+        case "johor-bahru-public-transport-guide":
+            return {
+                title: "Johor Bahru Public Transport Guide",
+                description: "How to get around Johor Bahru without a rental car.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1315691/img0/1600.webp",
+                sections: [
+                    { title: "Getting Around", content: "JB doesn't have an extensive rail network like KL — Grab (ride-hailing) is the most practical way to get between sights, and most tourist areas are spread out enough that walking between them isn't realistic." },
+                    { title: "Causeway Transport", content: "Buses run regularly between JB and Singapore's Woodlands checkpoint; private transfers and charter services are also common for visitors who want to skip public bus queues." }
+                ],
+                faqs: [
+                    { q: "Is there a metro or train system in Johor Bahru?", a: "No, not within the city itself — Grab is the most practical option for getting around." },
+                    { q: "How do I get to Singapore from JB without a car?", a: "Bus services run regularly across the causeway to Singapore's Woodlands checkpoint." }
+                ],
+            };
+
+        case "johor-bahru-shopping-guide":
+            return {
+                title: "Johor Bahru Shopping Guide",
+                description: "Where to shop in Johor Bahru, a popular cross-border shopping destination for Singaporean visitors.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1315691/img0/1600.webp",
+                sections: [
+                    { title: "Where to Shop", content: "City Square and the surrounding malls are JB's main shopping hubs, popular with Singaporean day-trippers for generally lower prices on the same international brands available in Singapore." },
+                    { title: "Practical Tips", content: "Weekday shopping avoids the heaviest crowds — weekends see significant cross-border shopping traffic from Singapore." }
+                ],
+                faqs: [
+                    { q: "Why do Singaporeans shop in Johor Bahru?", a: "Generally lower prices on the same brands and goods, plus cheaper dining options." },
+                    { q: "What's the main shopping area in Johor Bahru?", a: "City Square and the malls around the city centre." }
+                ],
+            };
+
+        case "johor-bahru-weather-guide":
+            return {
+                title: "Johor Bahru Weather Guide",
+                description: "What to expect from Johor Bahru's tropical climate across the year.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1315691/img0/1600.webp",
+                sections: [
+                    { title: "Climate Overview", content: "Hot and humid year-round, 28-33°C, with a wetter period roughly November-February under the northeast monsoon and a comparatively drier stretch March-October." }
+                ],
+                faqs: [
+                    { q: "What is the weather like in Johor Bahru?", a: "Hot and humid year-round, with a wetter period from November to February." }
+                ],
+            };
+
+        case "johor-bahru-visa-guide-for-tourists":
+            return {
+                title: "Johor Bahru / Malaysia Visa Guide for Tourists",
+                description: "Visa requirements for visiting Johor Bahru, which follows standard Malaysian entry rules.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1315691/img0/1600.webp",
+                sections: [
+                    { title: "Visa Requirements", content: "Johor Bahru follows the same entry rules as the rest of Malaysia — many nationalities get visa-free entry for a set period on arrival; check Malaysia's official immigration requirements for your specific nationality before travel, since rules vary and change." }
+                ],
+                faqs: [
+                    { q: "Do I need a visa to visit Johor Bahru?", a: "Depends on your nationality — many visitors get visa-free entry under standard Malaysian rules; verify current requirements for your passport." }
+                ],
+            };
+
+        case "johor-bahru-currency-and-money-guide":
+            return {
+                title: "Johor Bahru Currency and Money Guide",
+                description: "How to handle money in Johor Bahru, including the common practice of paying in Singapore dollars.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1315691/img0/1600.webp",
+                sections: [
+                    { title: "Currency Basics", content: "Malaysian Ringgit (MYR) is the local currency. Because of the proximity to Singapore, some businesses near the border accept Singapore dollars informally, though you'll generally get a better effective rate paying in Ringgit via card or local cash." }
+                ],
+                faqs: [
+                    { q: "Can I pay in Singapore dollars in Johor Bahru?", a: "Some border-area businesses accept it informally, but paying in Malaysian Ringgit generally gets a better rate." },
+                    { q: "What currency does Johor Bahru use?", a: "Malaysian Ringgit (MYR)." }
+                ],
+            };
+
+        case "johor-bahru-nightlife-guide":
+            return {
+                title: "Johor Bahru Nightlife Guide",
+                description: "What Johor Bahru's evening and nightlife scene actually looks like.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1315691/img0/1600.webp",
+                sections: [
+                    { title: "What to Expect", content: "JB's nightlife is quieter and more low-key than Singapore's — think riverside dinner cruises, night food markets, and casual bars rather than a big club scene. A sunset or evening cruise along the Johor Strait is a popular way to spend an evening here." }
+                ],
+                faqs: [
+                    { q: "Does Johor Bahru have a nightlife scene?", a: "A modest one — mostly night markets, riverside dining, and casual bars rather than large clubs." },
+                    { q: "What's a good evening activity in Johor Bahru?", a: "A sunset or evening river cruise, or exploring the city's night food markets." }
+                ],
+            };
+
+        case "johor-bahru-hotels-guide":
+            return {
+                title: "Where to Stay in Johor Bahru",
+                description: "A quick guide to choosing where to base yourself in Johor Bahru.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1315691/img0/1600.webp",
+                sections: [
+                    { title: "Where to Stay", content: "City centre/City Square area suits travellers who want walkable access to shopping and food without a car; the area near LEGOLAND suits families prioritizing the theme park over the city centre." }
+                ],
+                faqs: [
+                    { q: "Where should I stay in Johor Bahru?", a: "City centre for walkable shopping/food access, or near LEGOLAND if that's your main reason for visiting." }
+                ],
+            };
+
         default:
             return null;
     }
