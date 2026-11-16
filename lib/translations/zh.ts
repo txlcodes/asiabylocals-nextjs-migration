@@ -21487,6 +21487,129 @@ export const ZH_TOURS: Record<string, TourT> = {
    "交通"
   ]
  },
+ "dubai-desert-safari-with-quad-bike-bbq-and-shows": {
+  "title": "迪拜：沙漠冲沙之旅，含沙滩摩托车、烧烤晚餐及表演",
+  "metaTitle": "迪拜：沙漠冲沙之旅，含沙滩摩托车、烧烤晚餐及表演",
+  "metaDescription": "一次半天的迪拜体验。驾驶单人沙滩摩托车穿越沙丘。由Tripventura UAE提供。",
+  "shortDescription": "一次半天的迪拜体验。驾驶单人沙滩摩托车穿越沙丘。由Tripventura UAE提供。",
+  "fullDescription": "一次半天的迪拜体验。驾驶单人沙滩摩托车穿越沙丘。\n\n由Tripventura UAE负责安排，价格中含12项内容。可免费取消。\n\n价格包含从迪拜市中心酒店及住所出发的往返交通、30分钟单人沙滩摩托车骑行（如选择该选项）、4x4车沙漠冲沙、滑沙。不包含个人消费，请另行预算。",
+  "highlights": [
+   "驾驶单人沙滩摩托车穿越沙丘"
+  ],
+  "included": [
+   "从迪拜市中心酒店及住所出发的往返交通",
+   "30分钟单人沙滩摩托车骑行（如选择该选项）",
+   "4x4车沙漠冲沙",
+   "滑沙"
+  ],
+  "notIncluded": [
+   "个人消费"
+  ]
+ },
+ "from-dubai-private-abu-dhabi-tour-with-grand": {
+  "title": "迪拜出发：阿布扎比私人游览，含大清真寺参观",
+  "metaTitle": "迪拜出发：阿布扎比私人游览，含大清真寺参观",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Abu Dhabi。由Ultimate Destination Tourism LLC提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Abu Dhabi。由Ultimate Destination Tourism LLC提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Abu Dhabi。\n\n价格包含迪拜私人酒店接送、私人空调车辆、专业司机、阿布扎比城市观光。不包含谢赫扎耶德大清真寺门票：每人10迪拉姆、阿尔瓦坦宫门票、阿布扎比法拉利世界门票，请另行预算。两位旅客共同支付284美元，而不是每人各付284美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Abu Dhabi。由Ultimate Destination Tourism LLC提供。"
+  ],
+  "included": [
+   "迪拜私人酒店接送",
+   "私人空调车辆",
+   "专业司机",
+   "阿布扎比城市观光"
+  ],
+  "notIncluded": [
+   "谢赫扎耶德大清真寺门票：每人10迪拉姆",
+   "阿尔瓦坦宫门票",
+   "阿布扎比法拉利世界门票"
+  ]
+ },
+ "from-dubai-abu-dhabi-city-tour-with-ferrari-world": {
+  "title": "迪拜出发：阿布扎比城市游览，含法拉利世界",
+  "metaTitle": "迪拜出发：阿布扎比城市游览，含法拉利世界",
+  "metaDescription": "一次全天的阿布扎比体验。探索谢赫扎耶德大清真寺及其建筑。由Tripventura UAE提供。",
+  "shortDescription": "一次全天的阿布扎比体验。探索谢赫扎耶德大清真寺及其建筑。由Tripventura UAE提供。",
+  "fullDescription": "一次全天的阿布扎比体验。探索谢赫扎耶德大清真寺及其建筑。\n\n由Tripventura UAE负责安排，价格中含7项内容。可免费取消。\n\n价格包含前往游览出发点的酒店接送、谢赫扎耶德大清真寺参观、阿布扎比海滨大道驾车及拍照停留、阿联酋宫殿酒店讲解及拍照停留。不包含个人消费、购物、饮品，请另行预算。",
+  "highlights": [
+   "探索谢赫扎耶德大清真寺及其建筑"
+  ],
+  "included": [
+   "前往游览出发点的酒店接送",
+   "谢赫扎耶德大清真寺参观",
+   "阿布扎比海滨大道驾车及拍照停留",
+   "阿联酋宫殿酒店讲解及拍照停留"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "购物",
+   "饮品"
+  ]
+ },
+ "from-dubai-abu-dhabi-sheikh-zayed-grand-mosque": {
+  "title": "迪拜出发：阿布扎比谢赫扎耶德大清真寺向导游览",
+  "metaTitle": "迪拜出发：阿布扎比谢赫扎耶德大清真寺向导游览",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Grand Mosque。由Tripventura UAE提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Grand Mosque。由Tripventura UAE提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Sheikh Zayed Grand Mosque。最长的一站是Sheikh Zayed Grand Mosque，约2小时。\n\n价格包含迪拜酒店接送、阿布扎比法拉利世界拍照及讲解停留、参观艾尔霍森宫及工匠之家、参观阿布扎比传统村落。不包含个人消费、购物、饮品，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Grand Mosque。由Tripventura UAE提供。"
+  ],
+  "included": [
+   "迪拜酒店接送",
+   "阿布扎比法拉利世界拍照及讲解停留",
+   "参观艾尔霍森宫及工匠之家",
+   "参观阿布扎比传统村落"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "购物",
+   "饮品"
+  ]
+ },
+ "dubai-marina-dhow-dinner-cruise-with-live-show": {
+  "title": "迪拜码头：传统木船晚餐巡游，含现场表演",
+  "metaTitle": "迪拜码头：传统木船晚餐巡游，含现场表演",
+  "metaDescription": "一次2.5小时的迪拜体验。在迪拜码头的璀璨夜景中巡游。由Tripventura UAE提供。",
+  "shortDescription": "一次2.5小时的迪拜体验。在迪拜码头的璀璨夜景中巡游。由Tripventura UAE提供。",
+  "fullDescription": "一次2.5小时的迪拜体验。在迪拜码头的璀璨夜景中巡游。\n\n由Tripventura UAE负责安排，价格中含5项内容。可免费取消。\n\n价格包含乘坐传统木船游览迪拜码头、欢迎饮品、自助晚餐、软饮料。不包含个人消费、交通接送，请另行预算。",
+  "highlights": [
+   "在迪拜码头的璀璨夜景中巡游"
+  ],
+  "included": [
+   "乘坐传统木船游览迪拜码头",
+   "欢迎饮品",
+   "自助晚餐",
+   "软饮料"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "交通接送"
+  ]
+ },
+ "palm-jumeirah-burj-al-arab-burj-khalifa-private": {
+  "title": "棕榈岛、阿拉伯塔及哈利法塔私人游览",
+  "metaTitle": "棕榈岛、阿拉伯塔及哈利法塔私人游览",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Bluewaters Island, The Palm Jumeirah, Dubai Marina和Souk Madinat Jumeirah。由JGT TOURISM提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Bluewaters Island, The Palm Jumeirah, Dubai Marina和Souk Madinat Jumeirah。由JGT TOURISM提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Bluewaters Island, The Palm Jumeirah, Dubai Marina和Souk Madinat Jumeirah。最长的一站是Dubai Mall，约1小时。全程共9站。\n\n行程顺序为Bluewaters Island (35 min), 然后 The Palm Jumeirah (25 min), 然后 Dubai Marina (20 min), 然后 Souk Madinat Jumeirah (40 min), 然后 Burj Al Arab (30 min)。\n\n价格包含私人空调车辆、迪拜酒店接送、讲英语的司机、瓶装水。不包含餐食、咖啡及茶点、景点门票，请另行预算。两位旅客共同支付519美元，而不是每人各付519美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Bluewaters Island, The Palm Jumeirah, Dubai Marina和Souk Madinat Jumeirah。由JGT TOURISM提供。"
+  ],
+  "included": [
+   "私人空调车辆",
+   "迪拜酒店接送",
+   "讲英语的司机",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "餐食",
+   "咖啡及茶点",
+   "景点门票"
+  ]
+ },
  "dubai-hot-air-balloon-ride-in-vintage-land-rover": {
   "title": "迪拜：热气球飞行及复古路虎体验",
   "metaTitle": "迪拜：热气球飞行及复古路虎体验",
@@ -21506,23 +21629,165 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "dubai-hidden-gems-wildlife-art-heritage-private": {
+  "title": "迪拜：隐藏亮点、野生动物、艺术与文化遗产私人游览",
+  "metaTitle": "迪拜：隐藏亮点、野生动物、艺术与文化遗产私人游览",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Ras al Khor Wildlife Sanctuary, Quranic Park, Alserkal Avenue和Local restaurant。由JGT TOURISM提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Ras al Khor Wildlife Sanctuary, Quranic Park, Alserkal Avenue和Local restaurant。由JGT TOURISM提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Ras al Khor Wildlife Sanctuary, Quranic Park, Alserkal Avenue和Local restaurant。最长的一站是Quranic Park，约1小时。全程共7站。\n\n行程顺序为Ras al Khor Wildlife Sanctuary (45 min), 然后 Quranic Park (1h), 然后 Alserkal Avenue (1h), 然后 Local restaurant (1h), 然后 Al Fahidi Historical Neighbourhood (1h)。\n\n价格包含私人空调车辆、迪拜酒店接送、讲英语的司机、瓶装水。不包含午餐及餐食、瓶装水以外的饮品、个人消费，请另行预算。两位旅客共同支付585美元，而不是每人各付585美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Ras al Khor Wildlife Sanctuary, Quranic Park, Alserkal Avenue和Local restaurant。由JGT TOURISM提供。"
+  ],
+  "included": [
+   "私人空调车辆",
+   "迪拜酒店接送",
+   "讲英语的司机",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "午餐及餐食",
+   "瓶装水以外的饮品",
+   "个人消费"
+  ]
+ },
+ "from-dubai-northern-emirates-private-full-day-tour": {
+  "title": "迪拜出发：北部酋长国私人全天游览",
+  "metaTitle": "迪拜出发：北部酋长国私人全天游览",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Heart of Sharjah قلب الشارقة, Ajman Museum, Umm al-Quwain和Al Jazeera Al Hamra。由JGT TOURISM提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Heart of Sharjah قلب الشارقة, Ajman Museum, Umm al-Quwain和Al Jazeera Al Hamra。由JGT TOURISM提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Heart of Sharjah قلب الشارقة, Ajman Museum, Umm al-Quwain和Al Jazeera Al Hamra。最长的一站是Al Jazeera Al Hamra，约1小时。全程共5站。\n\n行程顺序为Heart of Sharjah قلب الشارقة (45 min), 然后 Ajman Museum (45 min), 然后 Umm al-Quwain (45 min), 然后 Al Jazeera Al Hamra (1h), 然后 Coast. (40 min)。\n\n价格包含私人空调车辆、迪拜酒店接送、专业英语司机、瓶装水。不包含瓶装水以外的餐食及饮品、付费景点或博物馆门票、个人消费，请另行预算。两位旅客共同支付585美元，而不是每人各付585美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Heart of Sharjah قلب الشارقة, Ajman Museum, Umm al-Quwain和Al Jazeera Al Hamra。由JGT TOURISM提供。"
+  ],
+  "included": [
+   "私人空调车辆",
+   "迪拜酒店接送",
+   "专业英语司机",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "瓶装水以外的餐食及饮品",
+   "付费景点或博物馆门票",
+   "个人消费"
+  ]
+ },
+ "dubai-classic-guided-half-day-city-tour-with-abra": {
+  "title": "迪拜：经典半日向导城市游览，含阿布拉渡船体验",
+  "metaTitle": "迪拜：经典半日向导城市游览，含阿布拉渡船体验",
+  "metaDescription": "一次半天的迪拜体验。探索巴斯塔基亚老街区并参观传统遗产民居。由Tripventura UAE提供。",
+  "shortDescription": "一次半天的迪拜体验。探索巴斯塔基亚老街区并参观传统遗产民居。由Tripventura UAE提供。",
+  "fullDescription": "一次半天的迪拜体验。探索巴斯塔基亚老街区并参观传统遗产民居。\n\n由Tripventura UAE负责安排，价格中含12项内容。可免费取消。\n\n价格包含从迪拜市中心各地点出发的酒店接送、空调交通接送、持证导游、扎比勒宫拍照停留。不包含食品和饮品、个人消费，请另行预算。",
+  "highlights": [
+   "探索巴斯塔基亚老街区并参观传统遗产民居"
+  ],
+  "included": [
+   "从迪拜市中心各地点出发的酒店接送",
+   "空调交通接送",
+   "持证导游",
+   "扎比勒宫拍照停留"
+  ],
+  "notIncluded": [
+   "食品和饮品",
+   "个人消费"
+  ]
+ },
+ "dubai-old-dubai-abra-ride-metro-burj-khalifa-bike": {
+  "title": "迪拜：老迪拜、阿布拉渡船、地铁及哈利法塔自行车游览",
+  "metaTitle": "迪拜：老迪拜、阿布拉渡船、地铁及哈利法塔自行车游览",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Al SeefOn foot, Sailboat, Gold souk DeiraOn foot和Dubai Spice SoukOn foot。由360 Adventures Tourism LLC提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Al SeefOn foot, Sailboat, Gold souk DeiraOn foot和Dubai Spice SoukOn foot。由360 Adventures Tourism LLC提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Al SeefOn foot, Sailboat, Gold souk DeiraOn foot和Dubai Spice SoukOn foot。全程共8站。\n\n行程顺序为Al SeefOn foot (45 min), 然后 Sailboat (15 min), 然后 Gold souk DeiraOn foot (15 min), 然后 Dubai Spice SoukOn foot (15 min), 然后 On foot (20 min)。\n\n价格包含跟随当地向导探索老迪拜的历史街道、探索传统的阿尔西夫滨水区、乘坐传统阿布拉渡船横渡迪拜河、探索色彩斑斓的香料市场及黄金市场。不包含餐食和饮品、个人消费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Al SeefOn foot, Sailboat, Gold souk DeiraOn foot和Dubai Spice SoukOn foot。由360 Adventures Tourism LLC提供。"
+  ],
+  "included": [
+   "跟随当地向导探索老迪拜的历史街道",
+   "探索传统的阿尔西夫滨水区",
+   "乘坐传统阿布拉渡船横渡迪拜河",
+   "探索色彩斑斓的香料市场及黄金市场"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "个人消费"
+  ]
+ },
  "dubai-vip-desert-safari-with-quad-bike-camel-ride": {
   "title": "迪拜：VIP沙漠游猎，含全地形车、骑骆驼及晚餐",
   "metaTitle": "迪拜：VIP沙漠游猎，含全地形车、骑骆驼及晚餐",
   "metaDescription": "一次从迪拜出发的全天行程，游览Lahbab Desert和Al Aweer。由Sandoz Private Limited提供。",
   "shortDescription": "一次从迪拜出发的全天行程，游览Lahbab Desert和Al Aweer。由Sandoz Private Limited提供。",
-  "fullDescription": "一次从迪拜出发的全天行程，途经Lahbab Desert和Al Aweer。最长的一站是Al Aweer，约4小时。全程共2站。\n\n行程顺序为Lahbab Desert (1h), 然后 Al Aweer (4h)。\n\n价格包含四驱车上门往返接送、沙漠飙沙和滑沙、短程骑骆驼、沙漠日落拍照停留。不包含，请另行预算。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Lahbab Desert和Al Aweer。最长的一站是Al Aweer，约4小时。全程共2站。\n\n行程顺序为Lahbab Desert (1h), 然后 Al Aweer (4h)。\n\n价格包含4x4车上门往返接送、沙漠飙沙和滑沙、短程骑骆驼、沙漠日落拍照停留。不包含，请另行预算。",
   "highlights": [
    "一次从迪拜出发的全天行程，游览Lahbab Desert和Al Aweer。由Sandoz Private Limited提供。"
   ],
   "included": [
-   "四驱车上门往返接送",
+   "4x4车上门往返接送",
    "沙漠飙沙和滑沙",
    "短程骑骆驼",
    "沙漠日落拍照停留"
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "private-guided-full-day-east-coast-tour-from": {
+  "title": "私人向导全天东海岸游览，迪拜出发，乘车前往",
+  "metaTitle": "私人向导全天东海岸游览，迪拜出发，乘车前往",
+  "metaDescription": "一次全天的迪拜体验。跟随私人持证向导，探索迪拜以外真实的阿联酋。由Rosotravel - United States Tours & Experiences提供。",
+  "shortDescription": "一次全天的迪拜体验。跟随私人持证向导，探索迪拜以外真实的阿联酋。由Rosotravel - United States Tours & Experiences提供。",
+  "fullDescription": "一次全天的迪拜体验。跟随私人持证向导，探索迪拜以外真实的阿联酋。\n\n由Rosotravel - United States Tours & Experiences负责安排，价格中含5项内容。可免费取消。\n\n价格包含从迪拜出发的私人全天游览，前往阿联酋富查伊拉东海岸、5星级私人持证向导，熟练使用您所选语言、富查伊拉博物馆门票、富查伊拉堡免费门票。不包含午餐（可选），请另行预算。两位旅客共同支付1332美元，而不是每人各付1328美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "跟随私人持证向导，探索迪拜以外真实的阿联酋"
+  ],
+  "included": [
+   "从迪拜出发的私人全天游览，前往阿联酋富查伊拉东海岸",
+   "5星级私人持证向导，熟练使用您所选语言",
+   "富查伊拉博物馆门票",
+   "富查伊拉堡免费门票"
+  ],
+  "notIncluded": [
+   "午餐（可选）"
+  ]
+ },
+ "skip-the-line-museum-of-the-future-dubai-private": {
+  "title": "迪拜未来博物馆免排队私人向导游览",
+  "metaTitle": "迪拜未来博物馆免排队私人向导游览",
+  "metaDescription": "一次2小时的迪拜体验。跟随5星级私人持证向导，探索未来博物馆。由Rosotravel - United States Tours & Experiences提供。",
+  "shortDescription": "一次2小时的迪拜体验。跟随5星级私人持证向导，探索未来博物馆。由Rosotravel - United States Tours & Experiences提供。",
+  "fullDescription": "一次2小时的迪拜体验。跟随5星级私人持证向导，探索未来博物馆。\n\n由Rosotravel - United States Tours & Experiences负责安排，价格中含5项内容。可免费取消。\n\n价格包含迪拜未来博物馆私人游览、5星级私人持证向导，熟练使用您所选语言、未来博物馆免排队门票、专业讲解迪拜在科技、可持续发展及人类福祉方面的愿景、可参观博物馆内所有固定展层及沉浸式展览。不包含，请另行预算。两位旅客共同支付552美元，而不是每人各付467美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "跟随5星级私人持证向导，探索未来博物馆"
+  ],
+  "included": [
+   "迪拜未来博物馆私人游览",
+   "5星级私人持证向导，熟练使用您所选语言",
+   "未来博物馆免排队门票",
+   "专业讲解迪拜在科技、可持续发展及人类福祉方面的愿景",
+   "可参观博物馆内所有固定展层及沉浸式展览"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "red-dunes-desert-safari-with-bbq-dinner-live-shows": {
+  "title": "红色沙丘沙漠之旅，含烧烤晚餐及现场表演",
+  "metaTitle": "红色沙丘沙漠之旅，含烧烤晚餐及现场表演",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai和Emirate of Sharjah。由Royal Wings Tour LLC提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai和Emirate of Sharjah。由Royal Wings Tour LLC提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai和Emirate of Sharjah。全程共4站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Red Dunes Desert Safari, Dubai (20 min), 然后 Red Dunes Desert Safari, Dubai (20 min), 然后 Emirate of Sharjah。\n\n价格包含酒店或指定地点往返接送、乘坐空调4x4车的拼车交通、持证英语沙漠向导、沙漠飙沙。不包含小费、个人消费、沙滩摩托车骑行，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai和Emirate of Sharjah。由Royal Wings Tour LLC提供。"
+  ],
+  "included": [
+   "酒店或指定地点往返接送",
+   "乘坐空调4x4车的拼车交通",
+   "持证英语沙漠向导",
+   "沙漠飙沙"
+  ],
+  "notIncluded": [
+   "小费",
+   "个人消费",
+   "沙滩摩托车骑行"
   ]
  },
  "the-ultimate-flying-dress-experience-in-dubai": {
@@ -21542,6 +21807,122 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "ultra-luxury-2-hrs-private-84-foot-sunseeker": {
+  "title": "顶级豪华2小时私人84英尺Sunseeker游艇租赁",
+  "metaTitle": "顶级豪华2小时私人84英尺Sunseeker游艇租赁",
+  "metaDescription": "一次2小时的迪拜体验。沿迪拜标志性海岸线巡游，感受微风拂面。由Conwy Leisure Yachts & Boats Rental LLC提供。",
+  "shortDescription": "一次2小时的迪拜体验。沿迪拜标志性海岸线巡游，感受微风拂面。由Conwy Leisure Yachts & Boats Rental LLC提供。",
+  "fullDescription": "一次2小时的迪拜体验。沿迪拜标志性海岸线巡游，感受微风拂面。\n\n由Conwy Leisure Yachts & Boats Rental LLC负责安排，价格中含9项内容。可免费取消。\n\n价格包含84英尺Sunseeker豪华游艇、专业船员、5星级服务、室内及室外休息区。不包含餐食和饮品，请另行预算。两位旅客共同支付2549美元，而不是每人各付2549美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "沿迪拜标志性海岸线巡游，感受微风拂面"
+  ],
+  "included": [
+   "84英尺Sunseeker豪华游艇",
+   "专业船员",
+   "5星级服务",
+   "室内及室外休息区"
+  ],
+  "notIncluded": [
+   "餐食和饮品"
+  ]
+ },
+ "dubai-ferrari-12cilindri-1-day-rental-no-deposit": {
+  "title": "迪拜：法拉利12Cilindri 1日租赁，无需押金",
+  "metaTitle": "迪拜：法拉利12Cilindri 1日租赁，无需押金",
+  "metaDescription": "一次全天的迪拜体验。体验法拉利6.5升V12引擎在迪拜街头轰鸣驰骋的刺激。由GMZ RENTAL CAR提供。",
+  "shortDescription": "一次全天的迪拜体验。体验法拉利6.5升V12引擎在迪拜街头轰鸣驰骋的刺激。由GMZ RENTAL CAR提供。",
+  "fullDescription": "一次全天的迪拜体验。体验法拉利6.5升V12引擎在迪拜街头轰鸣驰骋的刺激。\n\n由GMZ RENTAL CAR负责安排，价格中含2项内容。可免费取消。\n\n价格包含法拉利12Cilindri、全面保险。不包含燃油、通行费、停车费，请另行预算。两位旅客共同支付10828美元，而不是每人各付10828美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "体验法拉利6.5升V12引擎在迪拜街头轰鸣驰骋的刺激"
+  ],
+  "included": [
+   "法拉利12Cilindri",
+   "全面保险"
+  ],
+  "notIncluded": [
+   "燃油",
+   "通行费",
+   "停车费"
+  ]
+ },
+ "dubai-marina-luxury-dhow-cruise-with-5-star": {
+  "title": "迪拜：码头豪华传统木船巡游，含5星级印度晚餐",
+  "metaTitle": "迪拜：码头豪华传统木船巡游，含5星级印度晚餐",
+  "metaDescription": "一次从迪拜出发的2小时行程，游览Dubai Marina。由Tour Dubai提供。",
+  "shortDescription": "一次从迪拜出发的2小时行程，游览Dubai Marina。由Tour Dubai提供。",
+  "fullDescription": "一次从迪拜出发的2小时行程，途经Dubai Marina。最长的一站是Dubai Marina，约2小时。\n\n价格包含乘坐传统木船，2小时迪拜码头晚餐巡游、5星级印度自助餐，含肉类及素食菜品、无限畅饮软饮及瓶装水、可使用全空调下层甲板及露天上层甲板。不包含酒精饮品（可在船上购买），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的2小时行程，游览Dubai Marina。由Tour Dubai提供。"
+  ],
+  "included": [
+   "乘坐传统木船，2小时迪拜码头晚餐巡游",
+   "5星级印度自助餐，含肉类及素食菜品",
+   "无限畅饮软饮及瓶装水",
+   "可使用全空调下层甲板及露天上层甲板"
+  ],
+  "notIncluded": [
+   "酒精饮品（可在船上购买）"
+  ]
+ },
+ "dubai-outlets-private-shopping-tour-with-personal": {
+  "title": "迪拜：购物中心私人购物游览，配私人造型师",
+  "metaTitle": "迪拜：购物中心私人购物游览，配私人造型师",
+  "metaDescription": "一次半天的迪拜体验。跟随当地向导探索迪拜购物游。由Tournava Service Private Limited提供。",
+  "shortDescription": "一次半天的迪拜体验。跟随当地向导探索迪拜购物游。由Tournava Service Private Limited提供。",
+  "fullDescription": "一次半天的迪拜体验。跟随当地向导探索迪拜购物游。\n\n由Tournava Service Private Limited负责安排，价格中含3项内容。可免费取消。\n\n价格包含专业造型师、个性化购物游览、定制化推荐。不包含小费、小费、食品及饮品，请另行预算。",
+  "highlights": [
+   "跟随当地向导探索迪拜购物游"
+  ],
+  "included": [
+   "专业造型师",
+   "个性化购物游览",
+   "定制化推荐"
+  ],
+  "notIncluded": [
+   "小费",
+   "小费",
+   "食品及饮品"
+  ]
+ },
+ "dubai-private-dubai-flora-and-fauna-trip": {
+  "title": "迪拜：私人动植物生态之旅",
+  "metaTitle": "迪拜：私人动植物生态之旅",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Dubai Butterfly Garden和Miracle Garden。由Dubai Delights提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Dubai Butterfly Garden和Miracle Garden。由Dubai Delights提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Dubai Butterfly Garden和Miracle Garden。最长的一站是Dubai Butterfly Garden，约1小时。全程共2站。\n\n行程顺序为Dubai Butterfly Garden (1h), 然后 Miracle Garden。\n\n价格包含私人接送、奇迹花园门票、蝴蝶园门票。不包含餐食和饮品、个人消费、导游，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Dubai Butterfly Garden和Miracle Garden。由Dubai Delights提供。"
+  ],
+  "included": [
+   "私人接送",
+   "奇迹花园门票",
+   "蝴蝶园门票"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "个人消费",
+   "导游"
+  ]
+ },
+ "dubai-creek-dhow-cruise-with-unlimited-freshly": {
+  "title": "迪拜河传统木船巡游，无限畅吃新鲜烤制披萨",
+  "metaTitle": "迪拜河传统木船巡游，无限畅吃新鲜烤制披萨",
+  "metaDescription": "一次从迪拜出发的1小时行程，游览Dubai Creek和Al Seef。由Tour Dubai提供。",
+  "shortDescription": "一次从迪拜出发的1小时行程，游览Dubai Creek和Al Seef。由Tour Dubai提供。",
+  "fullDescription": "一次从迪拜出发的1小时行程，途经Dubai Creek和Al Seef。最长的一站是Dubai Creek，约1小时。全程共2站。\n\n行程顺序为Dubai Creek (1h), 然后 Al Seef。\n\n价格包含乘坐传统阿拉伯木船，1小时迪拜河观光巡游、无限畅吃新鲜烤制披萨（提供肉类及素食选择）、无限畅饮软饮及水、下层甲板配备空调。不包含含酒精饮品，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1小时行程，游览Dubai Creek和Al Seef。由Tour Dubai提供。"
+  ],
+  "included": [
+   "乘坐传统阿拉伯木船，1小时迪拜河观光巡游",
+   "无限畅吃新鲜烤制披萨（提供肉类及素食选择）",
+   "无限畅饮软饮及水",
+   "下层甲板配备空调"
+  ],
+  "notIncluded": [
+   "含酒精饮品"
   ]
  },
  "3-hrs-private-sailboat-tour-in-dubai-with-burj": {
@@ -21579,6 +21960,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "dubai-snapshot-tour-with-abra-ride": {
+  "title": "迪拜快览游，含阿布拉渡船体验",
+  "metaTitle": "迪拜快览游，含阿布拉渡船体验",
+  "metaDescription": "一次半天的迪拜体验。享受在扎比勒宫和未来博物馆的拍照停留。由DMC Arabia Tourism LLC提供。",
+  "shortDescription": "一次半天的迪拜体验。享受在扎比勒宫和未来博物馆的拍照停留。由DMC Arabia Tourism LLC提供。",
+  "fullDescription": "一次半天的迪拜体验。享受在扎比勒宫和未来博物馆的拍照停留。\n\n由DMC Arabia Tourism LLC负责安排，价格中含2项内容。可免费取消。\n\n价格包含酒店接送至德伊拉城市中心、英语司机向导。不包含食品和饮品、门票费用、个人消费，请另行预算。",
+  "highlights": [
+   "享受在扎比勒宫和未来博物馆的拍照停留"
+  ],
+  "included": [
+   "酒店接送至德伊拉城市中心",
+   "英语司机向导"
+  ],
+  "notIncluded": [
+   "食品和饮品",
+   "门票费用",
+   "个人消费"
+  ]
+ },
  "dubai-private-day-trip-in-french": {
   "title": "迪拜：法语私人一日游",
   "metaTitle": "迪拜：法语私人一日游",
@@ -21599,6 +21999,45 @@ export const ZH_TOURS: Record<string, TourT> = {
    "午餐"
   ]
  },
+ "dubai-ride-and-slide-yacht-cruise-with-bbq-lunch": {
+  "title": "迪拜：滑梯游艇巡游，含烧烤午餐及饮品",
+  "metaTitle": "迪拜：滑梯游艇巡游，含烧烤午餐及饮品",
+  "metaDescription": "一次从迪拜出发的3小时行程，游览Dubai Harbour, Dubai Marina和FIVE Palm Jumeirah Hotel。由Sky Walker Yachts提供。",
+  "shortDescription": "一次从迪拜出发的3小时行程，游览Dubai Harbour, Dubai Marina和FIVE Palm Jumeirah Hotel。由Sky Walker Yachts提供。",
+  "fullDescription": "一次从迪拜出发的3小时行程，途经Dubai Harbour, Dubai Marina和FIVE Palm Jumeirah Hotel。全程共3站。\n\n行程顺序为Dubai Harbour, 然后 Dubai Marina, 然后 FIVE Palm Jumeirah Hotel。\n\n价格包含游艇巡游、素食及非素食烧烤午餐、无限畅饮常备饮品及软饮、游艇充气滑梯及海上休闲躺椅。不包含酒店往返接送，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的3小时行程，游览Dubai Harbour, Dubai Marina和FIVE Palm Jumeirah Hotel。由Sky Walker Yachts提供。"
+  ],
+  "included": [
+   "游艇巡游",
+   "素食及非素食烧烤午餐",
+   "无限畅饮常备饮品及软饮",
+   "游艇充气滑梯及海上休闲躺椅"
+  ],
+  "notIncluded": [
+   "酒店往返接送"
+  ]
+ },
+ "dubai-sunrise-hot-air-balloon-tour-over-the-desert": {
+  "title": "迪拜：沙漠日出热气球游览",
+  "metaTitle": "迪拜：沙漠日出热气球游览",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Sindbad Gulf Balloons WH, VHMH+V4 Margham和Jeep / SUV。由Sindbad Gulf Balloons CO LLC提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Sindbad Gulf Balloons WH, VHMH+V4 Margham和Jeep / SUV。由Sindbad Gulf Balloons CO LLC提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Sindbad Gulf Balloons WH, VHMH+V4 Margham和Jeep / SUV。最长的一站是Sindbad Gulf Balloons WH，约1小时。全程共4站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Sindbad Gulf Balloons WH (1h), 然后 VHMH+V4 Margham (1h), 然后 Jeep / SUV (50 min)。\n\n价格包含迪拜市区范围内的接送、欢迎饮品（茶、咖啡或水）、40至70分钟日出热气球飞行、电子飞行证书。不包含骑行视频（需额外支付200迪拉姆）、每人超过120公斤需加收双倍费用，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV, Sindbad Gulf Balloons WH, VHMH+V4 Margham和Jeep / SUV。由Sindbad Gulf Balloons CO LLC提供。"
+  ],
+  "included": [
+   "迪拜市区范围内的接送",
+   "欢迎饮品（茶、咖啡或水）",
+   "40至70分钟日出热气球飞行",
+   "电子飞行证书"
+  ],
+  "notIncluded": [
+   "骑行视频（需额外支付200迪拉姆）",
+   "每人超过120公斤需加收双倍费用"
+  ]
+ },
  "dubai-chillout-ice-lounge-entry-ticket-hot": {
   "title": "迪拜：Chillout冰吧门票及热饮/热巧克力",
   "metaTitle": "迪拜：Chillout冰吧门票及热饮/热巧克力",
@@ -21617,23 +22056,145 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食及额外饮品"
   ]
  },
+ "dubai-luxury-car-showroom-tour-with-dubai-mall": {
+  "title": "迪拜：豪华车展厅游览，含迪拜购物中心送返",
+  "metaTitle": "迪拜：豪华车展厅游览，含迪拜购物中心送返",
+  "metaDescription": "一次2小时的迪拜体验。惊叹于世界顶级超跑及豪华座驾。由Travtur Tourism L.L.C提供。",
+  "shortDescription": "一次2小时的迪拜体验。惊叹于世界顶级超跑及豪华座驾。由Travtur Tourism L.L.C提供。",
+  "fullDescription": "一次2小时的迪拜体验。惊叹于世界顶级超跑及豪华座驾。\n\n由Travtur Tourism L.L.C负责安排，价格中含6项内容。可免费取消。\n\n价格包含乘坐舒适车辆从您的迪拜酒店或所在地接送、参观3至4家高级豪车展厅、熟悉豪华车品牌的专业司机、拍摄您心爱梦想座驾的照片及视频的时间。不包含餐食和饮品、向导小费（可选），请另行预算。",
+  "highlights": [
+   "惊叹于世界顶级超跑及豪华座驾"
+  ],
+  "included": [
+   "乘坐舒适车辆从您的迪拜酒店或所在地接送",
+   "参观3至4家高级豪车展厅",
+   "熟悉豪华车品牌的专业司机",
+   "拍摄您心爱梦想座驾的照片及视频的时间"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "向导小费（可选）"
+  ]
+ },
+ "abu-dhabi-reem-central-park-2-hour-guided-kayak": {
+  "title": "阿布扎比：里姆中央公园2小时向导皮划艇之旅",
+  "metaTitle": "阿布扎比：里姆中央公园2小时向导皮划艇之旅",
+  "metaDescription": "一次2小时的阿布扎比体验。在皮划艇之旅中沉浸于里姆中央公园的自然美景。由Husaak Adventures提供。",
+  "shortDescription": "一次2小时的阿布扎比体验。在皮划艇之旅中沉浸于里姆中央公园的自然美景。由Husaak Adventures提供。",
+  "fullDescription": "一次2小时的阿布扎比体验。在皮划艇之旅中沉浸于里姆中央公园的自然美景。\n\n由Husaak Adventures负责安排，价格中含7项内容。可免费取消。\n\n价格包含导游、皮划艇装备、救生衣、防水干袋。不包含酒店往返接送、毛巾、瓶装水，请另行预算。",
+  "highlights": [
+   "在皮划艇之旅中沉浸于里姆中央公园的自然美景"
+  ],
+  "included": [
+   "导游",
+   "皮划艇装备",
+   "救生衣",
+   "防水干袋"
+  ],
+  "notIncluded": [
+   "酒店往返接送",
+   "毛巾",
+   "瓶装水"
+  ]
+ },
+ "abu-dhabi-guided-kayak-tour-around-louvre": {
+  "title": "阿布扎比：卢浮宫周边向导皮划艇游览",
+  "metaTitle": "阿布扎比：卢浮宫周边向导皮划艇游览",
+  "metaDescription": "一次1小时的阿布扎比体验。乘皮划艇以独特视角体验阿布扎比。由Husaak Adventures提供。",
+  "shortDescription": "一次1小时的阿布扎比体验。乘皮划艇以独特视角体验阿布扎比。由Husaak Adventures提供。",
+  "fullDescription": "一次1小时的阿布扎比体验。乘皮划艇以独特视角体验阿布扎比。\n\n由Husaak Adventures负责安排，价格中含4项内容。可免费取消。\n\n价格包含救生衣、防水袋、安全须知讲解、饮水补给站（请自带水瓶）。不包含瓶装水、博物馆门票、酒店往返接送，请另行预算。",
+  "highlights": [
+   "乘皮划艇以独特视角体验阿布扎比"
+  ],
+  "included": [
+   "救生衣",
+   "防水袋",
+   "安全须知讲解",
+   "饮水补给站（请自带水瓶）"
+  ],
+  "notIncluded": [
+   "瓶装水",
+   "博物馆门票",
+   "酒店往返接送"
+  ]
+ },
+ "dubai-donut-boat-ride-with-drinks": {
+  "title": "迪拜：甜甜圈漂移船体验，含饮品",
+  "metaTitle": "迪拜：甜甜圈漂移船体验，含饮品",
+  "metaDescription": "一次1小时的迪拜体验。迪拜天际线景观。由BBQ-Dubai提供。",
+  "shortDescription": "一次1小时的迪拜体验。迪拜天际线景观。由BBQ-Dubai提供。",
+  "fullDescription": "一次1小时的迪拜体验。迪拜天际线景观。\n\n由BBQ-Dubai负责安排，价格中含3项内容。可免费取消。\n\n价格包含1小时船游，最多4人、每人含3杯软饮、每人含1杯茶。不包含不含交通、不含食品，请另行预算。两位旅客共同支付177美元，而不是每人各付177美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "迪拜天际线景观"
+  ],
+  "included": [
+   "1小时船游，最多4人",
+   "每人含3杯软饮",
+   "每人含1杯茶"
+  ],
+  "notIncluded": [
+   "不含交通",
+   "不含食品"
+  ]
+ },
+ "from-abu-dhabi-half-day-sheikh-zayed-mosque": {
+  "title": "阿布扎比出发：谢赫扎耶德清真寺半日向导游览",
+  "metaTitle": "阿布扎比出发：谢赫扎耶德清真寺半日向导游览",
+  "metaDescription": "一次从阿布扎比出发的3小时行程，游览Sheikh Zayed Mosque。由OceanAir Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的3小时行程，游览Sheikh Zayed Mosque。由OceanAir Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的3小时行程，途经Sheikh Zayed Mosque。\n\n价格包含阿布扎比出发的接送、空调车辆接送、谢赫扎耶德清真寺门票、持证导游。不包含额外遮体衣物、小费（非强制），请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的3小时行程，游览Sheikh Zayed Mosque。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "阿布扎比出发的接送",
+   "空调车辆接送",
+   "谢赫扎耶德清真寺门票",
+   "持证导游"
+  ],
+  "notIncluded": [
+   "额外遮体衣物",
+   "小费（非强制）"
+  ]
+ },
  "dubai-desert-safari-camel-riding-sandboarding-bbq": {
   "title": "迪拜：沙漠游猎、骑骆驼、滑沙及烧烤晚餐",
   "metaTitle": "迪拜：沙漠游猎、骑骆驼、滑沙及烧烤晚餐",
   "metaDescription": "一次全天的迪拜体验。体验在沙丘间驾驶全地形车的刺激。由Almari Group提供。",
   "shortDescription": "一次全天的迪拜体验。体验在沙丘间驾驶全地形车的刺激。由Almari Group提供。",
-  "fullDescription": "一次全天的迪拜体验。体验在沙丘间驾驶全地形车的刺激。\n\n由Almari Group负责安排，价格中含12项内容。可免费取消。\n\n价格包含酒店或指定地点往返接送、空调四驱车交通接送、讲英语的司机、沙漠飙沙。不包含，请另行预算。",
+  "fullDescription": "一次全天的迪拜体验。体验在沙丘间驾驶全地形车的刺激。\n\n由Almari Group负责安排，价格中含12项内容。可免费取消。\n\n价格包含酒店或指定地点往返接送、空调4x4车交通接送、讲英语的司机、沙漠飙沙。不包含，请另行预算。",
   "highlights": [
    "体验在沙丘间驾驶全地形车的刺激"
   ],
   "included": [
    "酒店或指定地点往返接送",
-   "空调四驱车交通接送",
+   "空调4x4车交通接送",
    "讲英语的司机",
    "沙漠飙沙"
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "dubai-quad-bike-dune-buggy-and-sandboarding": {
+  "title": "迪拜：沙滩摩托车、沙漠越野车及滑沙体验",
+  "metaTitle": "迪拜：沙滩摩托车、沙漠越野车及滑沙体验",
+  "metaDescription": "一次从迪拜出发的1小时行程，游览Red Dunes Desert Safari, Dubai和Red Dunes Desert Safari, Dubai。由Excursion Point Tourism提供。",
+  "shortDescription": "一次从迪拜出发的1小时行程，游览Red Dunes Desert Safari, Dubai和Red Dunes Desert Safari, Dubai。由Excursion Point Tourism提供。",
+  "fullDescription": "一次从迪拜出发的1小时行程，途经Red Dunes Desert Safari, Dubai和Red Dunes Desert Safari, Dubai。最长的一站是Red Dunes Desert Safari, Dubai，约1小时。全程共2站。\n\n行程顺序为Red Dunes Desert Safari, Dubai (1h), 然后 Red Dunes Desert Safari, Dubai (30 min)。\n\n价格包含沙滩摩托车骑行（如选择该选项）、沙漠越野车驾驶（如选择该选项）、专业向导、滑沙。不包含接送（需额外付费，请联系运营商）、照片（可购买）、围巾（可购买），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1小时行程，游览Red Dunes Desert Safari, Dubai和Red Dunes Desert Safari, Dubai。由Excursion Point Tourism提供。"
+  ],
+  "included": [
+   "沙滩摩托车骑行（如选择该选项）",
+   "沙漠越野车驾驶（如选择该选项）",
+   "专业向导",
+   "滑沙"
+  ],
+  "notIncluded": [
+   "接送（需额外付费，请联系运营商）",
+   "照片（可购买）",
+   "围巾（可购买）"
   ]
  },
  "zerzura-dune-buggy-experience-dinner-at-zerzura": {
@@ -21674,6 +22235,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "dubai-heritage-overnight-safari-balloon-ride": {
+  "title": "迪拜：文化过夜沙漠之旅、热气球飞行及早餐",
+  "metaTitle": "迪拜：文化过夜沙漠之旅、热气球飞行及早餐",
+  "metaDescription": "一次全天的迪拜体验。乘坐传奇的1950年代路虎车探索迪拜沙漠保护区。由Platinum Heritage Luxury Tours & Safaris提供。",
+  "shortDescription": "一次全天的迪拜体验。乘坐传奇的1950年代路虎车探索迪拜沙漠保护区。由Platinum Heritage Luxury Tours & Safaris提供。",
+  "fullDescription": "一次全天的迪拜体验。乘坐传奇的1950年代路虎车探索迪拜沙漠保护区。\n\n由Platinum Heritage Luxury Tours & Safaris负责安排，价格中含9项内容。可免费取消。\n\n价格包含迪拜酒店接送、乘坐经典路虎车在迪拜沙漠保护区内自然观光驾驶（不含冲沙）、日落猎鹰展示，含茶及Vimto果汁、传统阿拉伯石屋，配床垫及床品。不包含照片、小费，请另行预算。",
+  "highlights": [
+   "乘坐传奇的1950年代路虎车探索迪拜沙漠保护区"
+  ],
+  "included": [
+   "迪拜酒店接送",
+   "乘坐经典路虎车在迪拜沙漠保护区内自然观光驾驶（不含冲沙）",
+   "日落猎鹰展示，含茶及Vimto果汁",
+   "传统阿拉伯石屋，配床垫及床品"
+  ],
+  "notIncluded": [
+   "照片",
+   "小费"
+  ]
+ },
  "luxury-private-dubai-city-tour-with": {
   "title": "迪拜豪华私人城市之旅，含司机及持证向导",
   "metaTitle": "迪拜豪华私人城市之旅，含司机及持证向导",
@@ -21691,6 +22272,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "1-hour-burj-al-arab-jet-ski-tour": {
+  "title": "阿拉伯塔1小时水上摩托艇游览",
+  "metaTitle": "阿拉伯塔1小时水上摩托艇游览",
+  "metaDescription": "一次1小时的迪拜体验。骑乘水上摩托艇经过豪华朱美拉海滩住宅区。由Ride in Dubai Watersports提供。",
+  "shortDescription": "一次1小时的迪拜体验。骑乘水上摩托艇经过豪华朱美拉海滩住宅区。由Ride in Dubai Watersports提供。",
+  "fullDescription": "一次1小时的迪拜体验。骑乘水上摩托艇经过豪华朱美拉海滩住宅区。\n\n由Ride in Dubai Watersports负责安排，价格中含4项内容。可免费取消。\n\n价格包含专业教练提供的讲解、安全装备及救生衣、饮用水、每艘水上摩托艇最多载2人（驾驶员及乘客）。不包含goPro相机（可现场租用）、泳衣、毛巾，请另行预算。",
+  "highlights": [
+   "骑乘水上摩托艇经过豪华朱美拉海滩住宅区"
+  ],
+  "included": [
+   "专业教练提供的讲解",
+   "安全装备及救生衣",
+   "饮用水",
+   "每艘水上摩托艇最多载2人（驾驶员及乘客）"
+  ],
+  "notIncluded": [
+   "GoPro相机（可现场租用）",
+   "泳衣",
+   "毛巾"
   ]
  },
  "dubai-dolphinarium-with-vip-ticket-and-gmc-yukon": {
@@ -21769,6 +22371,45 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "museums-and-mosques-tour-at-dubai-sharjah-fujairah": {
+  "title": "迪拜、沙迦及富查伊拉博物馆与清真寺游览",
+  "metaTitle": "迪拜、沙迦及富查伊拉博物馆与清真寺游览",
+  "metaDescription": "一次全天的迪拜体验。在本次游览中深入了解阿联酋传统文化。由OceanAir Travels提供。",
+  "shortDescription": "一次全天的迪拜体验。在本次游览中深入了解阿联酋传统文化。由OceanAir Travels提供。",
+  "fullDescription": "一次全天的迪拜体验。在本次游览中深入了解阿联酋传统文化。\n\n由OceanAir Travels负责安排，价格中含10项内容。可免费取消。\n\n价格包含酒店接送、持证专业导游、干净的空调车辆、参观迪拜阿提哈德博物馆。不包含其他费用、小费，请另行预算。两位旅客共同支付852美元，而不是每人各付852美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在本次游览中深入了解阿联酋传统文化"
+  ],
+  "included": [
+   "酒店接送",
+   "持证专业导游",
+   "干净的空调车辆",
+   "参观迪拜阿提哈德博物馆"
+  ],
+  "notIncluded": [
+   "其他费用",
+   "小费"
+  ]
+ },
+ "dubai-jet-ski-tour-burj-al-arab-photos-videos": {
+  "title": "迪拜：阿拉伯塔水上摩托艇游览，含照片及视频",
+  "metaTitle": "迪拜：阿拉伯塔水上摩托艇游览，含照片及视频",
+  "metaDescription": "一次全天的迪拜体验。尽享速度、海洋与阳光带来的畅快体验。由Searide Watersports Equipment Rental LLC提供。",
+  "shortDescription": "一次全天的迪拜体验。尽享速度、海洋与阳光带来的畅快体验。由Searide Watersports Equipment Rental LLC提供。",
+  "fullDescription": "一次全天的迪拜体验。尽享速度、海洋与阳光带来的畅快体验。\n\n由Searide Watersports Equipment Rental LLC负责安排，价格中含7项内容。可免费取消。\n\n价格包含可参加水上摩托艇游览、如需要可在柜台领取护目镜、游览结束后提供毛巾、全程免费饮用水。不包含不含接送，请另行预算。两位旅客共同支付213美元，而不是每人各付213美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "尽享速度、海洋与阳光带来的畅快体验"
+  ],
+  "included": [
+   "可参加水上摩托艇游览",
+   "如需要可在柜台领取护目镜",
+   "游览结束后提供毛巾",
+   "全程免费饮用水"
+  ],
+  "notIncluded": [
+   "不含接送"
+  ]
+ },
  "abu-dhabi-3-hour-layover-sightseeing-tour": {
   "title": "阿布扎比：3小时中转观光之旅",
   "metaTitle": "阿布扎比：3小时中转观光之旅",
@@ -21802,6 +22443,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "dubai-private-hatta-mountains-bab-al-shams-sunset": {
+  "title": "迪拜：哈塔山及巴卜沙姆斯私人日落游览",
+  "metaTitle": "迪拜：哈塔山及巴卜沙姆斯私人日落游览",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Hatta Dam, Hatta Kayak, Hatta Mountains Lodge和Bab Al Shams Desert Hotel Resort - Infinity Pool。由JGT TOURISM提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Hatta Dam, Hatta Kayak, Hatta Mountains Lodge和Bab Al Shams Desert Hotel Resort - Infinity Pool。由JGT TOURISM提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Hatta Dam, Hatta Kayak, Hatta Mountains Lodge和Bab Al Shams Desert Hotel Resort - Infinity Pool。最长的一站是Hatta Kayak，约2小时。全程共4站。\n\n行程顺序为Hatta Dam (30 min), 然后 Hatta Kayak (2h), 然后 Hatta Mountains Lodge (30 min), 然后 Bab Al Shams Desert Hotel Resort - Infinity Pool (2h)。\n\n价格包含迪拜私人酒店接送、私人空调车辆、专业司机、哈塔山观光。不包含水上活动门票、食品、饮品，请另行预算。两位旅客共同支付519美元，而不是每人各付519美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Hatta Dam, Hatta Kayak, Hatta Mountains Lodge和Bab Al Shams Desert Hotel Resort - Infinity Pool。由JGT TOURISM提供。"
+  ],
+  "included": [
+   "迪拜私人酒店接送",
+   "私人空调车辆",
+   "专业司机",
+   "哈塔山观光"
+  ],
+  "notIncluded": [
+   "水上活动门票",
+   "食品",
+   "饮品"
   ]
  },
  "abu-dhabi-city-private-tour-with-local-guide": {
@@ -21838,6 +22500,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "餐食"
+  ]
+ },
+ "dubai-dune-buggy-2hr-off-road-thrill-passenger": {
+  "title": "迪拜2小时沙漠越野车越野刺激体验（乘客版）",
+  "metaTitle": "迪拜2小时沙漠越野车越野刺激体验（乘客版）",
+  "metaDescription": "一次从迪拜出发的2小时行程，游览Jeep / SUV, Campsite和Campsite。由Arabian Adventures提供。",
+  "shortDescription": "一次从迪拜出发的2小时行程，游览Jeep / SUV, Campsite和Campsite。由Arabian Adventures提供。",
+  "fullDescription": "一次从迪拜出发的2小时行程，途经Jeep / SUV, Campsite和Campsite。全程共3站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Campsite, 然后 Campsite。\n\n价格包含仅限迪拜市内的拼车酒店接送、向导游览、头盔及护目镜、矿泉水及软饮。不包含未提及的任何项目，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的2小时行程，游览Jeep / SUV, Campsite和Campsite。由Arabian Adventures提供。"
+  ],
+  "included": [
+   "仅限迪拜市内的拼车酒店接送",
+   "向导游览",
+   "头盔及护目镜",
+   "矿泉水及软饮"
+  ],
+  "notIncluded": [
+   "未提及的任何项目"
   ]
  },
  "from-dubai-zerzura-buggy-experience-private-dinner": {
@@ -21937,6 +22618,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "dubaibest-fishing-trip-4hours": {
+  "title": "迪拜：精选4小时钓鱼之旅",
+  "metaTitle": "迪拜：精选4小时钓鱼之旅",
+  "metaDescription": "一次半天的迪拜体验。迪拜码头水道。由Dubai Marina Majesty Yachts提供。",
+  "shortDescription": "一次半天的迪拜体验。迪拜码头水道。由Dubai Marina Majesty Yachts提供。",
+  "fullDescription": "一次半天的迪拜体验。迪拜码头水道。\n\n由Dubai Marina Majesty Yachts负责安排，价格中含9项内容。可免费取消。\n\n价格包含船长及船员、蓝牙音箱、茶点、软饮及水。不包含酒店往返接送、毛巾、烧烤架，请另行预算。两位旅客共同支付743美元，而不是每人各付743美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "迪拜码头水道"
+  ],
+  "included": [
+   "船长及船员",
+   "蓝牙音箱",
+   "茶点",
+   "软饮及水"
+  ],
+  "notIncluded": [
+   "酒店往返接送",
+   "毛巾",
+   "烧烤架"
+  ]
+ },
  "dubai-photos-photography-tour": {
   "title": "迪拜：阿拉伯塔摩托艇之旅（含照片及视频）",
   "metaTitle": "迪拜：阿拉伯塔摩托艇之旅（含照片及视频）",
@@ -21958,6 +22660,89 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食和饮品"
   ]
  },
+ "dubai-heritage-desert-safari-wtih-overnight-and": {
+  "title": "迪拜：文化沙漠之旅，含过夜及早餐",
+  "metaTitle": "迪拜：文化沙漠之旅，含过夜及早餐",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。由Platinum Heritage Luxury Tours ...",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。由Platinum Heritage Luxury Tours & Safaris提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。最长的一站是Jeep / SUV，约1小时。全程共6站。\n\n行程顺序为Jeep / SUV (1h), 然后 Dubai Desert Conservation Reserve (1h), 然后 Dubai Desert Conservation Reserve (30 min), 然后 Dubai Desert Conservation Reserve, 然后 Dubai Desert Conservation Reserve。\n\n价格包含迪拜酒店接送、乘坐经典路虎车在迪拜沙漠保护区内自然观光驾驶（不含冲沙）、日落猎鹰展示，含茶及Vimto果汁、传统阿拉伯石屋，配床垫及床品。不包含照片、小费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。由Platinum Heritage Luxury Tours & Safaris提供。"
+  ],
+  "included": [
+   "迪拜酒店接送",
+   "乘坐经典路虎车在迪拜沙漠保护区内自然观光驾驶（不含冲沙）",
+   "日落猎鹰展示，含茶及Vimto果汁",
+   "传统阿拉伯石屋，配床垫及床品"
+  ],
+  "notIncluded": [
+   "照片",
+   "小费"
+  ]
+ },
+ "dubai-islamic-cultural-experience-with-jumeirah": {
+  "title": "迪拜：伊斯兰及文化体验，含朱美拉清真寺",
+  "metaTitle": "迪拜：伊斯兰及文化体验，含朱美拉清真寺",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jumeirah Mosque。由CyanOasisTours提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jumeirah Mosque。由CyanOasisTours提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jumeirah Mosque。最长的一站是Jumeirah Mosque，约2小时。\n\n由CyanOasisTours负责安排，价格中含8项内容。可免费取消。探索阿联酋丰富的历史遗产与传统文化。\n\n价格包含迪拜酒店出发接送、迪拜酒店送返、空调交通接送、朱美拉清真寺文化项目门票。不包含个人消费、小费（可选）、行程未包含的额外食品及饮品，请另行预算。两位旅客共同支付213美元，而不是每人各付213美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jumeirah Mosque。由CyanOasisTours提供。"
+  ],
+  "included": [
+   "迪拜酒店出发接送",
+   "迪拜酒店送返",
+   "空调交通接送",
+   "朱美拉清真寺文化项目门票"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费（可选）",
+   "行程未包含的额外食品及饮品"
+  ]
+ },
+ "dubai-premium-red-dunes-desert-safari-camel-ride": {
+  "title": "迪拜高级红色沙丘沙漠之旅：骆驼骑行及早餐",
+  "metaTitle": "迪拜高级红色沙丘沙漠之旅：骆驼骑行及早餐",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Red Dunes Desert Safari, Dubai和Dubai Desert Conservation Reserve。由Arabian Adventures提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Red Dunes Desert Safari, Dubai和Dubai Desert Conservation Reserve。由Arabian Adventures提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Red Dunes Desert Safari, Dubai和Dubai Desert Conservation Reserve。全程共2站。\n\n行程顺序为Red Dunes Desert Safari, Dubai, 然后 Dubai Desert Conservation Reserve。\n\n价格包含乘坐拼车的酒店接送、沙漠向导、迪拜沙漠保护区内的沙丘驾驶、野生动物观察。不包含当地娱乐表演、手部海娜彩绘、猎鹰表演，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Red Dunes Desert Safari, Dubai和Dubai Desert Conservation Reserve。由Arabian Adventures提供。"
+  ],
+  "included": [
+   "乘坐拼车的酒店接送",
+   "沙漠向导",
+   "迪拜沙漠保护区内的沙丘驾驶",
+   "野生动物观察"
+  ],
+  "notIncluded": [
+   "当地娱乐表演",
+   "手部海娜彩绘",
+   "猎鹰表演"
+  ]
+ },
+ "dubai-scenic-sunrise-desert-experience-with": {
+  "title": "迪拜：风景日出沙漠体验，含火烈鸟湖",
+  "metaTitle": "迪拜：风景日出沙漠体验，含火烈鸟湖",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai Desert Safari Funventures, Jeep / SUV and Al Qudra Duck和Swan Lake。由Laetitia Tourism LLC提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai Desert Safari Funventures, Jeep / SUV and Al Qudra Duck和Swan Lake。由Laetitia Tourism LLC提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Dubai Desert Safari Funventures, Jeep / SUV and Al Qudra Duck和Swan Lake。最长的一站是Dubai Desert Safari Funventures，约2小时。全程共5站。\n\n行程顺序为Jeep / SUV (1h), 然后 Dubai Desert Safari Funventures (2h), 然后 Jeep / SUV (40 min), 然后 Al Qudra Duck and Swan Lake (25 min), 然后 Jeep / SUV (50 min)。\n\n价格包含从迪拜指定酒店出发的清晨接送、空调4x4车交通、参观火烈鸟湖、前往沙漠参观沙丘日出。不包含早餐、沙漠冲沙、骆驼骑行，请另行预算。两位旅客共同支付425美元，而不是每人各付425美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai Desert Safari Funventures, Jeep / SUV and Al Qudra Duck和Swan Lake。由Laetitia Tourism LLC提供。"
+  ],
+  "included": [
+   "从迪拜指定酒店出发的清晨接送",
+   "空调4x4车交通",
+   "参观火烈鸟湖",
+   "前往沙漠参观沙丘日出"
+  ],
+  "notIncluded": [
+   "早餐",
+   "沙漠冲沙",
+   "骆驼骑行"
+  ]
+ },
  "dubai-moderate-hiking-trip-to-jebel-jais-hidden": {
   "title": "迪拜：吉拜斯山隐秘绿洲中等难度徒步之旅",
   "metaTitle": "迪拜：吉拜斯山隐秘绿洲中等难度徒步之旅",
@@ -21974,6 +22759,65 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "午餐"
+  ]
+ },
+ "dubai-marina-dhow-dinner-cruise-with-live": {
+  "title": "迪拜：码头传统木船晚餐巡游，含现场表演",
+  "metaTitle": "迪拜：码头传统木船晚餐巡游，含现场表演",
+  "metaDescription": "一次从迪拜出发的1.5小时行程，游览Dubai Marina。由Joy Goa提供。",
+  "shortDescription": "一次从迪拜出发的1.5小时行程，游览Dubai Marina。由Joy Goa提供。",
+  "fullDescription": "一次从迪拜出发的1.5小时行程，途经Dubai Marina。\n\n价格包含从您的酒店或指定地点出发的接送（如选择该选项）、空调车辆接送（如选择该选项）、全套国际自助晚餐、软饮及水、现场娱乐表演（歌手或舞者）。不包含，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1.5小时行程，游览Dubai Marina。由Joy Goa提供。"
+  ],
+  "included": [
+   "从您的酒店或指定地点出发的接送（如选择该选项）",
+   "空调车辆接送（如选择该选项）",
+   "全套国际自助晚餐",
+   "软饮及水",
+   "现场娱乐表演（歌手或舞者）"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "seaworld-abu-dhabi-general-admission-optional-add": {
+  "title": "阿布扎比海洋世界普通门票及可选附加项目",
+  "metaTitle": "阿布扎比海洋世界普通门票及可选附加项目",
+  "metaDescription": "一次0.5小时的阿布扎比体验。拥有世界上最大的多物种海洋生物水族馆。由MIRAL EXPERIENCES L.L.C提供。",
+  "shortDescription": "一次0.5小时的阿布扎比体验。拥有世界上最大的多物种海洋生物水族馆。由MIRAL EXPERIENCES L.L.C提供。",
+  "fullDescription": "一次0.5小时的阿布扎比体验。拥有世界上最大的多物种海洋生物水族馆。\n\n由MIRAL EXPERIENCES L.L.C负责安排，价格中含3项内容。可免费取消。\n\n价格包含全天无限次畅玩阿布扎比海洋世界的游乐设施、景点、动物表演及沉浸式展区、重要提示：附加体验项目不含阿布扎比海洋世界门票，入园及兑换这些体验需持有效的普通门票、免费停车及亚斯岛内免费班车服务。不包含不含快速通道升级，可在园内另行购买、餐食和饮品，请另行预算。",
+  "highlights": [
+   "拥有世界上最大的多物种海洋生物水族馆"
+  ],
+  "included": [
+   "全天无限次畅玩阿布扎比海洋世界的游乐设施、景点、动物表演及沉浸式展区",
+   "重要提示：附加体验项目不含阿布扎比海洋世界门票，入园及兑换这些体验需持有效的普通门票",
+   "免费停车及亚斯岛内免费班车服务"
+  ],
+  "notIncluded": [
+   "不含快速通道升级，可在园内另行购买",
+   "餐食和饮品"
+  ]
+ },
+ "abu-dhabi-yas-waterworld-entry-ticket": {
+  "title": "阿布扎比：亚斯水世界门票",
+  "metaTitle": "阿布扎比：亚斯水世界门票",
+  "metaDescription": "一次全天的阿布扎比体验。尽享，可选择超过45种游乐设施、滑道及景点。由MIRAL EXPERIENCES L.L.C提供。",
+  "shortDescription": "一次全天的阿布扎比体验。尽享，可选择超过45种游乐设施、滑道及景点。由MIRAL EXPERIENCES L.L.C提供。",
+  "fullDescription": "一次全天的阿布扎比体验。尽享，可选择超过45种游乐设施、滑道及景点。\n\n由MIRAL EXPERIENCES L.L.C负责安排，价格中含3项内容。可免费取消。\n\n价格包含普通门票（如选择该选项）、可使用所有游乐设施和景点、亚斯岛内班车服务。不包含快速通道（如选择该选项）、餐食和饮品、往返水上乐园的交通，请另行预算。",
+  "highlights": [
+   "尽享，可选择超过45种游乐设施、滑道及景点"
+  ],
+  "included": [
+   "普通门票（如选择该选项）",
+   "可使用所有游乐设施和景点",
+   "亚斯岛内班车服务"
+  ],
+  "notIncluded": [
+   "快速通道（如选择该选项）",
+   "餐食和饮品",
+   "往返水上乐园的交通"
   ]
  },
  "discover-scuba-diving-in-dubai": {
@@ -22012,6 +22856,45 @@ export const ZH_TOURS: Record<string, TourT> = {
    "酒店往返接送"
   ]
  },
+ "abu-dhabi-ethnic-emirati-dining-experience": {
+  "title": "阿布扎比：阿联酋特色美食体验",
+  "metaTitle": "阿布扎比：阿联酋特色美食体验",
+  "metaDescription": "一次2小时的阿布扎比体验。欣赏传统阿联酋建筑之美。由OceanAir Travels提供。",
+  "shortDescription": "一次2小时的阿布扎比体验。欣赏传统阿联酋建筑之美。由OceanAir Travels提供。",
+  "fullDescription": "一次2小时的阿布扎比体验。欣赏传统阿联酋建筑之美。\n\n由OceanAir Travels负责安排，价格中含3项内容。可免费取消。\n\n价格包含欢迎饮品、传统阿联酋餐食（提供素食选择）、拍照机会。不包含酒店往返接送、小费（非强制），请另行预算。",
+  "highlights": [
+   "欣赏传统阿联酋建筑之美"
+  ],
+  "included": [
+   "欢迎饮品",
+   "传统阿联酋餐食（提供素食选择）",
+   "拍照机会"
+  ],
+  "notIncluded": [
+   "酒店往返接送",
+   "小费（非强制）"
+  ]
+ },
+ "half-day-abu-dhabi-guided-tour-with-airport-port": {
+  "title": "阿布扎比半日向导游览，含机场及港口接送",
+  "metaTitle": "阿布扎比半日向导游览，含机场及港口接送",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, Qasr Al Watan和Etihad Towers。由OceanAir Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, Qasr Al Watan和Etihad Towers。由OceanAir Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Sheikh Zayed Mosque, Qasr Al Watan和Etihad Towers。全程共3站。\n\n行程顺序为Sheikh Zayed Mosque, 然后 Qasr Al Watan, 然后 Etihad Towers。\n\n价格包含阿布扎比出发的接送、乘坐空调现代化车辆出行、持证导游、谢赫扎耶德大清真寺参观。不包含迪拜出发接送、上述内容之外的任何额外服务或费用，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, Qasr Al Watan和Etihad Towers。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "阿布扎比出发的接送",
+   "乘坐空调现代化车辆出行",
+   "持证导游",
+   "谢赫扎耶德大清真寺参观"
+  ],
+  "notIncluded": [
+   "迪拜出发接送",
+   "上述内容之外的任何额外服务或费用"
+  ]
+ },
  "dubai-exclusive-vip-desert-safari-dinner-with": {
   "title": "迪拜：尊享VIP沙漠游及晚宴（含现场表演）",
   "metaTitle": "迪拜：尊享VIP沙漠游及晚宴（含现场表演）",
@@ -22029,6 +22912,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "四驱越野车及沙漠越野车（现场可另付费体验）"
+  ]
+ },
+ "dubai-best-luxurious-5-star-dhow-cruise-sea-lounge": {
+  "title": "迪拜人气豪华5星传统木船海上贵宾厅巡游",
+  "metaTitle": "迪拜人气豪华5星传统木船海上贵宾厅巡游",
+  "metaDescription": "一次从迪拜出发的1.5小时行程，游览Dubai Marina。由Royal Wings Tour LLC提供。",
+  "shortDescription": "一次从迪拜出发的1.5小时行程，游览Dubai Marina。由Royal Wings Tour LLC提供。",
+  "fullDescription": "一次从迪拜出发的1.5小时行程，途经Dubai Marina。\n\n价格包含欢迎果汁、阿拉伯咖啡与椰枣、瓶装饮用水、软饮料。不包含酒精饮品、小费、酒店出发的交通，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1.5小时行程，游览Dubai Marina。由Royal Wings Tour LLC提供。"
+  ],
+  "included": [
+   "欢迎果汁",
+   "阿拉伯咖啡与椰枣",
+   "瓶装饮用水",
+   "软饮料"
+  ],
+  "notIncluded": [
+   "酒精饮品",
+   "小费",
+   "酒店出发的交通"
   ]
  },
  "dubai-4-hour-deep-sea-fishing-trolling-casting": {
@@ -22050,6 +22954,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "dubai-abu-dhabi-grand-mosque-palace-and-heritage": {
+  "title": "迪拜出发：阿布扎比大清真寺、王宫及传统村落",
+  "metaTitle": "迪拜出发：阿布扎比大清真寺、王宫及传统村落",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Abu Dhabi Heritage Village, The Corniche, Abu Dhabi, Qasr Al Watan和Etihad Towers。由OceanAir Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Abu Dhabi Heritage Village, The Corniche, Abu Dhabi, Qasr Al Watan和Etihad Towers。由OceanAir Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Abu Dhabi Heritage Village, The Corniche, Abu Dhabi, Qasr Al Watan和Etihad Towers。最长的一站是Qasr Al Watan，约1小时。全程共6站。\n\n行程顺序为Abu Dhabi Heritage Village (30 min), 然后 The Corniche, Abu Dhabi (10 min), 然后 Qasr Al Watan (1h), 然后 Etihad Towers (5 min), 然后 Emirates Palace (5 min)。\n\n价格包含迪拜酒店接送、空调车、司机、谢赫扎耶德大清真寺门票。不包含导游、午餐，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Abu Dhabi Heritage Village, The Corniche, Abu Dhabi, Qasr Al Watan和Etihad Towers。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "迪拜酒店接送",
+   "空调车",
+   "司机",
+   "谢赫扎耶德大清真寺门票"
+  ],
+  "notIncluded": [
+   "导游",
+   "午餐"
+  ]
+ },
  "louvre-abu-dhabi-join-an-express-guided-tour": {
   "title": "阿布扎比卢浮宫：快速向导之旅",
   "metaTitle": "阿布扎比卢浮宫：快速向导之旅",
@@ -22066,6 +22990,105 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "门票（18岁以上成人）需另外购买"
+  ]
+ },
+ "dubai-future-museum-burj-al-arab-and-dubai-frame": {
+  "title": "迪拜：未来博物馆、阿拉伯塔及迪拜之框游览",
+  "metaTitle": "迪拜：未来博物馆、阿拉伯塔及迪拜之框游览",
+  "metaDescription": "一次从迪拜出发的半天行程，游览The Palm Jumeirah, Atlantis, Dubai, Burj Al Arab和Dubai Frame。由Venezia Tourism - Dubai提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览The Palm Jumeirah, Atlantis, Dubai, Burj Al Arab和Dubai Frame。由Venezia Tourism - Dubai提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经The Palm Jumeirah, Atlantis, Dubai, Burj Al Arab和Dubai Frame。全程共7站。\n\n行程顺序为The Palm Jumeirah, 然后 Atlantis, Dubai, 然后 Burj Al Arab (15 min), 然后 Dubai Frame (15 min), 然后 Museum of the Future (20 min)。\n\n价格包含酒店接送、专业当地导游、乘坐私人空调车辆游览、密封瓶装水。不包含门票，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览The Palm Jumeirah, Atlantis, Dubai, Burj Al Arab和Dubai Frame。由Venezia Tourism - Dubai提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "专业当地导游",
+   "乘坐私人空调车辆游览",
+   "密封瓶装水"
+  ],
+  "notIncluded": [
+   "门票"
+  ]
+ },
+ "dubai-al-marmoom-oasis-horse-riding-experience": {
+  "title": "迪拜：阿尔马尔穆姆绿洲骑马体验，含点心",
+  "metaTitle": "迪拜：阿尔马尔穆姆绿洲骑马体验，含点心",
+  "metaDescription": "一次0.5小时的迪拜体验。在Al Salah马场沉浸于阿拉伯马永恒的魅力。由OceanAir Travels提供。",
+  "shortDescription": "一次0.5小时的迪拜体验。在Al Salah马场沉浸于阿拉伯马永恒的魅力。由OceanAir Travels提供。",
+  "fullDescription": "一次0.5小时的迪拜体验。在Al Salah马场沉浸于阿拉伯马永恒的魅力。\n\n由OceanAir Travels负责安排，价格中含6项内容。可免费取消。\n\n价格包含酒店往返接送（如选择此选项）、头盔、专业骑手的简要指导、30分钟骑马体验。不包含儿童小马骑行，请另行预算。",
+  "highlights": [
+   "在Al Salah马场沉浸于阿拉伯马永恒的魅力"
+  ],
+  "included": [
+   "酒店往返接送（如选择此选项）",
+   "头盔",
+   "专业骑手的简要指导",
+   "30分钟骑马体验"
+  ],
+  "notIncluded": [
+   "儿童小马骑行"
+  ]
+ },
+ "dubai-global-village-entry-ticket-with-hotel": {
+  "title": "迪拜：环球村门票，含酒店接送",
+  "metaTitle": "迪拜：环球村门票，含酒店接送",
+  "metaDescription": "一次半天的迪拜体验。探索这个汇聚90多种文化、共庆团结的世界。由360 Adventures Tourism LLC提供。",
+  "shortDescription": "一次半天的迪拜体验。探索这个汇聚90多种文化、共庆团结的世界。由360 Adventures Tourism LLC提供。",
+  "fullDescription": "一次半天的迪拜体验。探索这个汇聚90多种文化、共庆团结的世界。\n\n由360 Adventures Tourism LLC负责安排，价格中含7项内容。可免费取消。\n\n价格包含环球村门票（将于活动当天提供）、酒店接送（如选择该选项）、酒店送返（如选择该选项）、午后游艇游览（如选择该选项）。不包含小费、导游、餐食和饮品，请另行预算。",
+  "highlights": [
+   "探索这个汇聚90多种文化、共庆团结的世界"
+  ],
+  "included": [
+   "环球村门票（将于活动当天提供）",
+   "酒店接送（如选择该选项）",
+   "酒店送返（如选择该选项）",
+   "午后游艇游览（如选择该选项）"
+  ],
+  "notIncluded": [
+   "小费",
+   "导游",
+   "餐食和饮品"
+  ]
+ },
+ "dubai-abra-boat-tour-in-atlantis-palm-ain-dubai": {
+  "title": "迪拜：阿布拉渡船游览，游览亚特兰蒂斯、棕榈岛、迪拜眼及码头",
+  "metaTitle": "迪拜：阿布拉渡船游览，游览亚特兰蒂斯、棕榈岛、迪拜眼及码头",
+  "metaDescription": "一次从迪拜出发的2小时行程，游览Dubai Harbour, The Palm Jumeirah, Atlantis, Dubai和The Pointe, Dubai。由Abra Tours提供。",
+  "shortDescription": "一次从迪拜出发的2小时行程，游览Dubai Harbour, The Palm Jumeirah, Atlantis, Dubai和The Pointe, Dubai。由Abra Tours提供。",
+  "fullDescription": "一次从迪拜出发的2小时行程，途经Dubai Harbour, The Palm Jumeirah, Atlantis, Dubai和The Pointe, Dubai。全程共8站。\n\n行程顺序为Dubai Harbour, 然后 The Palm Jumeirah, 然后 Atlantis, Dubai, 然后 The Pointe, Dubai, 然后 Jumeirah Beach Residence。\n\n价格包含120分钟观光巡游、经验丰富的船长及船员提供协助、观光及摄影、船上安全装备。不包含酒店往返接送、餐食和饮品，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的2小时行程，游览Dubai Harbour, The Palm Jumeirah, Atlantis, Dubai和The Pointe, Dubai。由Abra Tours提供。"
+  ],
+  "included": [
+   "120分钟观光巡游",
+   "经验丰富的船长及船员提供协助",
+   "观光及摄影",
+   "船上安全装备"
+  ],
+  "notIncluded": [
+   "酒店往返接送",
+   "餐食和饮品"
+  ]
+ },
+ "dubai-al-ain-oasis-camel-market-old-museum-jebel": {
+  "title": "迪拜出发：阿尔艾因绿洲、骆驼市场、老博物馆及哈菲特山",
+  "metaTitle": "迪拜出发：阿尔艾因绿洲、骆驼市场、老博物馆及哈菲特山",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Al Ain Oasis, Sheikh Zayed Palace Museum, Al Ain Camel Market和Jebel Hafeet。由OceanAir Travels提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Al Ain Oasis, Sheikh Zayed Palace Museum, Al Ain Camel Market和Jebel Hafeet。由OceanAir Travels提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Al Ain Oasis, Sheikh Zayed Palace Museum, Al Ain Camel Market和Jebel Hafeet。全程共5站。\n\n行程顺序为Al Ain Oasis, 然后 Sheikh Zayed Palace Museum, 然后 Al Ain Camel Market, 然后 Jebel Hafeet, 然后 Al Jahili Fort。\n\n价格包含持证专业导游、干净的空调车辆、酒店接送、参观阿尔艾因绿洲。不包含其他费用、小费，请另行预算。两位旅客共同支付829美元，而不是每人各付829美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Al Ain Oasis, Sheikh Zayed Palace Museum, Al Ain Camel Market和Jebel Hafeet。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "持证专业导游",
+   "干净的空调车辆",
+   "酒店接送",
+   "参观阿尔艾因绿洲"
+  ],
+  "notIncluded": [
+   "其他费用",
+   "小费"
   ]
  },
  "abu-dhabi-scenic-private-helicopter-tour": {
@@ -22086,18 +23109,101 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食和饮品"
   ]
  },
+ "dubai-palm-view-and-jbr-view-parasailing": {
+  "title": "迪拜：滑翔伞体验，可观棕榈岛及JBR景色",
+  "metaTitle": "迪拜：滑翔伞体验，可观棕榈岛及JBR景色",
+  "metaDescription": "一次从迪拜出发的1小时行程，游览Dubai Harbour, Skydive Dubai, Jumeirah Beach Residence和Ain Dubai。由Sealife Watersports Equipment Rental LLC提供。",
+  "shortDescription": "一次从迪拜出发的1小时行程，游览Dubai Harbour, Skydive Dubai, Jumeirah Beach Residence和Ain Dubai。由Sealife Watersports Equipment Rental LLC提供。",
+  "fullDescription": "一次从迪拜出发的1小时行程，途经Dubai Harbour, Skydive Dubai, Jumeirah Beach Residence和Ain Dubai。全程共6站。\n\n行程顺序为Dubai Harbour (10 min), 然后 Skydive Dubai (10 min), 然后 Jumeirah Beach Residence (10 min), 然后 Ain Dubai (10 min), 然后 34Q6+38 Dubai (12 min)。\n\n价格包含教学指导及安全装备、毛巾、饮用水、船上音乐。不包含照片套餐（可在入场时选购）、酒店接送（需额外付费）、储物柜，请另行预算。两位旅客共同支付290美元，而不是每人各付229美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的1小时行程，游览Dubai Harbour, Skydive Dubai, Jumeirah Beach Residence和Ain Dubai。由Sealife Watersports Equipment Rental LLC提供。"
+  ],
+  "included": [
+   "教学指导及安全装备",
+   "毛巾",
+   "饮用水",
+   "船上音乐"
+  ],
+  "notIncluded": [
+   "照片套餐（可在入场时选购）",
+   "酒店接送（需额外付费）",
+   "储物柜"
+  ]
+ },
+ "dubai-luxury-superyacht-tour-with-live-dj-swim": {
+  "title": "迪拜：豪华超级游艇游览，含现场DJ、游泳及开放式酒吧",
+  "metaTitle": "迪拜：豪华超级游艇游览，含现场DJ、游泳及开放式酒吧",
+  "metaDescription": "一次从迪拜出发的3小时行程，游览Dubai Harbour, Dubai Eye, Atlantis, Dubai和Atlantis The Royal。由Xclusive Yachts提供。",
+  "shortDescription": "一次从迪拜出发的3小时行程，游览Dubai Harbour, Dubai Eye, Atlantis, Dubai和Atlantis The Royal。由Xclusive Yachts提供。",
+  "fullDescription": "一次从迪拜出发的3小时行程，途经Dubai Harbour, Dubai Eye, Atlantis, Dubai和Atlantis The Royal。全程共4站。\n\n行程顺序为Dubai Harbour, 然后 Dubai Eye, 然后 Atlantis, Dubai, 然后 Atlantis The Royal。\n\n价格包含导游、船长、游艇巡游、现场DJ。不包含酒店接送、照片、鸡尾酒，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的3小时行程，游览Dubai Harbour, Dubai Eye, Atlantis, Dubai和Atlantis The Royal。由Xclusive Yachts提供。"
+  ],
+  "included": [
+   "导游",
+   "船长",
+   "游艇巡游",
+   "现场DJ"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "照片",
+   "鸡尾酒"
+  ]
+ },
+ "dubai-heritage-safari-camel-ride-al-marmoom-oasis": {
+  "title": "迪拜：文化沙漠之旅，含骆驼骑行及阿尔马尔穆姆绿洲晚餐",
+  "metaTitle": "迪拜：文化沙漠之旅，含骆驼骑行及阿尔马尔穆姆绿洲晚餐",
+  "metaDescription": "一次半天的迪拜体验。乘坐复古奔驰G级座驾出发，沿途观察沙漠野生动物。由OceanAir Travels提供。",
+  "shortDescription": "一次半天的迪拜体验。乘坐复古奔驰G级座驾出发，沿途观察沙漠野生动物。由OceanAir Travels提供。",
+  "fullDescription": "一次半天的迪拜体验。乘坐复古奔驰G级座驾出发，沿途观察沙漠野生动物。\n\n由OceanAir Travels负责安排，价格中含12项内容。可免费取消。\n\n价格包含酒店往返接送、乘坐空调车辆出行、在贝都因村落的传统欢迎仪式、乘坐复古奔驰G级座驾巡游（30至40分钟）。不包含小费（非强制），请另行预算。",
+  "highlights": [
+   "乘坐复古奔驰G级座驾出发，沿途观察沙漠野生动物"
+  ],
+  "included": [
+   "酒店往返接送",
+   "乘坐空调车辆出行",
+   "在贝都因村落的传统欢迎仪式",
+   "乘坐复古奔驰G级座驾巡游（30至40分钟）"
+  ],
+  "notIncluded": [
+   "小费（非强制）"
+  ]
+ },
+ "dubai-red-dunes-tour-on-quad-or-side-by": {
+  "title": "迪拜：红色沙丘之旅，沙滩摩托车或双人ATV可选",
+  "metaTitle": "迪拜：红色沙丘之旅，沙滩摩托车或双人ATV可选",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。由Dream Journey提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。由Dream Journey提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。最长的一站是Lahbab Desert，约1小时。全程共6站。\n\n行程顺序为Jeep / SUV (50 min), 然后 Dubai, 然后 Lahbab Desert (30 min), 然后 Lahbab Desert (1h), 然后 Lahbab Desert (15 min)。\n\n价格包含乘坐4x4车的酒店接送，配专业沙漠向导、1小时自驾沙滩摩托车或双人ATV、向导红色沙丘沙漠路线体验、安全讲解、头盔及防护装备、短程骆驼骑行（约2至3分钟）。不包含小费、餐食、沙滩摩托车/ATV损坏保险或个人旅行保险，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。由Dream Journey提供。"
+  ],
+  "included": [
+   "乘坐4x4车的酒店接送，配专业沙漠向导",
+   "1小时自驾沙滩摩托车或双人ATV",
+   "向导红色沙丘沙漠路线体验",
+   "安全讲解、头盔及防护装备",
+   "短程骆驼骑行（约2至3分钟）"
+  ],
+  "notIncluded": [
+   "小费",
+   "餐食",
+   "沙滩摩托车/ATV损坏保险或个人旅行保险"
+  ]
+ },
  "dubai-premium-safari-camel-ride-al-khayma-camp-3": {
   "title": "迪拜：高级游猎、骑骆驼及Al Khayma营地三道自助餐",
   "metaTitle": "迪拜：高级游猎、骑骆驼及Al Khayma营地三道自助餐",
   "metaDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Red Dunes Desert Safari, Dubai, Al Khayma Desert Camp和Al Khayma Desert Camp。由OceanAir Travels提供。",
   "shortDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Red Dunes Desert Safari, Dubai, Al Khayma Desert Camp和Al Khayma Desert Camp。由OceanAir Travels提供。",
-  "fullDescription": "一次从迪拜出发的全天行程，途经Jeep / SUV, Red Dunes Desert Safari, Dubai, Al Khayma Desert Camp和Al Khayma Desert Camp。全程共4站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Red Dunes Desert Safari, Dubai, 然后 Al Khayma Desert Camp, 然后 Al Khayma Desert Camp。\n\n价格包含酒店往返接送、四驱空调车、持证沙漠游猎向导、沙漠飙沙（30至45分钟）。不包含，请另行预算。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Jeep / SUV, Red Dunes Desert Safari, Dubai, Al Khayma Desert Camp和Al Khayma Desert Camp。全程共4站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Red Dunes Desert Safari, Dubai, 然后 Al Khayma Desert Camp, 然后 Al Khayma Desert Camp。\n\n价格包含酒店往返接送、4x4空调车、持证沙漠游猎向导、沙漠飙沙（30至45分钟）。不包含，请另行预算。",
   "highlights": [
    "一次从迪拜出发的全天行程，游览Jeep / SUV, Red Dunes Desert Safari, Dubai, Al Khayma Desert Camp和Al Khayma Desert Camp。由OceanAir Travels提供。"
   ],
   "included": [
    "酒店往返接送",
-   "四驱空调车",
+   "4x4空调车",
    "持证沙漠游猎向导",
    "沙漠飙沙（30至45分钟）"
   ],
@@ -22126,6 +23232,89 @@ export const ZH_TOURS: Record<string, TourT> = {
    "更衣室（码头为保持高端整洁环境不设更衣室）"
   ]
  },
+ "dubai-safari-quad-bike-camel-ride-and-buffet": {
+  "title": "迪拜：沙漠之旅，含沙滩摩托车、骆驼骑行及自助晚餐",
+  "metaTitle": "迪拜：沙漠之旅，含沙滩摩托车、骆驼骑行及自助晚餐",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Lahbab DesertJeep / SUV, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai和Lahbab Desert。由Ammar Tours提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Lahbab DesertJeep / SUV, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai和Lahbab Desert。由Ammar Tours提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Lahbab DesertJeep / SUV, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai和Lahbab Desert。最长的一站是Lahbab Desert，约2小时。全程共5站。\n\n行程顺序为Lahbab DesertJeep / SUV (45 min), 然后 Red Dunes Desert Safari, Dubai (45 min), 然后 Red Dunes Desert Safari, Dubai (45 min), 然后 Lahbab Desert (2h), 然后 Jeep / SUV (45 min)。\n\n价格包含在您指定地点提供接送、乘坐空调4x4吉普车出行、红色沙丘冲沙、滑沙。不包含含酒精饮品、个人消费、小费（可选），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Lahbab DesertJeep / SUV, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai和Lahbab Desert。由Ammar Tours提供。"
+  ],
+  "included": [
+   "在您指定地点提供接送",
+   "乘坐空调4x4吉普车出行",
+   "红色沙丘冲沙",
+   "滑沙"
+  ],
+  "notIncluded": [
+   "含酒精饮品",
+   "个人消费",
+   "小费（可选）"
+  ]
+ },
+ "1-hour-horseback-dubai-desert-park-ride": {
+  "title": "迪拜沙漠公园1小时骑马体验",
+  "metaTitle": "迪拜沙漠公园1小时骑马体验",
+  "metaDescription": "一次1小时的迪拜体验。穿越迪拜穆什里夫国家公园的沙丘。由Dadabhai Travel LLC提供。",
+  "shortDescription": "一次1小时的迪拜体验。穿越迪拜穆什里夫国家公园的沙丘。由Dadabhai Travel LLC提供。",
+  "fullDescription": "一次1小时的迪拜体验。穿越迪拜穆什里夫国家公园的沙丘。\n\n由Dadabhai Travel LLC负责安排，价格中含4项内容。可免费取消。\n\n价格包含1小时骑马体验、安全须知讲解、骑乘后马匹护理、头盔。不包含小费（可选）、接送服务，请另行预算。",
+  "highlights": [
+   "穿越迪拜穆什里夫国家公园的沙丘"
+  ],
+  "included": [
+   "1小时骑马体验",
+   "安全须知讲解",
+   "骑乘后马匹护理",
+   "头盔"
+  ],
+  "notIncluded": [
+   "小费（可选）",
+   "接送服务"
+  ]
+ },
+ "abu-dhabi-desert-safari-with-bbq-belly-tannura": {
+  "title": "阿布扎比：沙漠之旅，含烧烤、肚皮舞及坦努拉舞",
+  "metaTitle": "阿布扎比：沙漠之旅，含烧烤、肚皮舞及坦努拉舞",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览Al Khatim Desert, View point, Emirates Tours & Safari Desert Camp和Emirates Tours & Safari Desert Camp。由Emirates Tours & Safari提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览Al Khatim Desert, View point, Emirates Tours & Safari Desert Camp和Emirates Tours & Safari Desert Camp。由Emirates Tours & Safari提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Al Khatim Desert, View point, Emirates Tours & Safari Desert Camp和Emirates Tours & Safari Desert Camp。全程共10站。\n\n行程顺序为Al Khatim Desert (45 min), 然后 View point (5 min), 然后 Emirates Tours & Safari Desert Camp (15 min), 然后 Emirates Tours & Safari Desert Camp (5 min), 然后 Emirates Tours & Safari Desert Camp (10 min)。\n\n价格包含酒店往返接送、共享沙漠营地、沙漠冲沙及沙漠驾驶、途经骆驼农场。不包含含酒精饮品、沙滩摩托车骑行、纪念照片，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览Al Khatim Desert, View point, Emirates Tours & Safari Desert Camp和Emirates Tours & Safari Desert Camp。由Emirates Tours & Safari提供。"
+  ],
+  "included": [
+   "酒店往返接送",
+   "共享沙漠营地",
+   "沙漠冲沙及沙漠驾驶",
+   "途经骆驼农场"
+  ],
+  "notIncluded": [
+   "含酒精饮品",
+   "沙滩摩托车骑行",
+   "纪念照片"
+  ]
+ },
+ "abu-dhabi-inside-heritage-village-walking-tour": {
+  "title": "阿布扎比：传统村落内部徒步游览",
+  "metaTitle": "阿布扎比：传统村落内部徒步游览",
+  "metaDescription": "一次从阿布扎比出发的0.5小时行程，游览Abu Dhabi Heritage VillageOn foot。由360 Adventures Tourism LLC提供。",
+  "shortDescription": "一次从阿布扎比出发的0.5小时行程，游览Abu Dhabi Heritage VillageOn foot。由360 Adventures Tourism LLC提供。",
+  "fullDescription": "一次从阿布扎比出发的0.5小时行程，途经Abu Dhabi Heritage VillageOn foot。\n\n由360 Adventures Tourism LLC负责安排，价格中含4项内容。可免费取消。由当地专家向导带领，深入了解原汁原味的文化。\n\n价格包含传统村落及现场博物馆门票、传统手工艺现场展示、深入了解贝都因人生活方式及阿联酋历史、可拍摄城市美景的拍照机会。不包含交通、餐食、其他个人消费，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的0.5小时行程，游览Abu Dhabi Heritage VillageOn foot。由360 Adventures Tourism LLC提供。"
+  ],
+  "included": [
+   "传统村落及现场博物馆门票",
+   "传统手工艺现场展示",
+   "深入了解贝都因人生活方式及阿联酋历史",
+   "可拍摄城市美景的拍照机会"
+  ],
+  "notIncluded": [
+   "交通",
+   "餐食",
+   "其他个人消费"
+  ]
+ },
  "abu-dhabi-high-speed-jet-ski-adventure-by-sea": {
   "title": "阿布扎比：Sea Hero高速摩托艇海上冒险",
   "metaTitle": "阿布扎比：Sea Hero高速摩托艇海上冒险",
@@ -22144,6 +23333,132 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "dubai-afternoon-city-tour-with-dinner-on-dhow-crui": {
+  "title": "迪拜下午城市游览，含传统木船晚餐巡游",
+  "metaTitle": "迪拜下午城市游览，含传统木船晚餐巡游",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Dubai Gold Souk, Dubai Spice Souk, Dubai Mall和Burj Khalifa。由Atlas提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Dubai Gold Souk, Dubai Spice Souk, Dubai Mall和Burj Khalifa。由Atlas提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Dubai Gold Souk, Dubai Spice Souk, Dubai Mall和Burj Khalifa。最长的一站是Dubai Marina，约2小时。全程共6站。\n\n行程顺序为Dubai Gold Souk (1h), 然后 Dubai Spice Souk (30 min), 然后 Dubai Mall, 然后 Burj Khalifa (30 min), 然后 Dubai Eye (1h)。\n\n价格包含往返接送、导游、私人座驾、开放式自助晚餐。不包含哈利法塔、未来博物馆、迪拜之框门票，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Dubai Gold Souk, Dubai Spice Souk, Dubai Mall和Burj Khalifa。由Atlas提供。"
+  ],
+  "included": [
+   "往返接送",
+   "导游",
+   "私人座驾",
+   "开放式自助晚餐"
+  ],
+  "notIncluded": [
+   "哈利法塔、未来博物馆、迪拜之框门票"
+  ]
+ },
+ "dubai-abu-dhabi-2-day-tour-with-desert-safari": {
+  "title": "迪拜与阿布扎比：2日游览，含沙漠之旅",
+  "metaTitle": "迪拜与阿布扎比：2日游览，含沙漠之旅",
+  "metaDescription": "一次从阿布扎比出发的2天行程，游览Visit Sheikh Zayed Grand Mosque, Lunch stop, Visit Heritage village (Optional)和Photo stop of Qasr Al Watan。由360 Adventures Tourism LLC提供。",
+  "shortDescription": "一次从阿布扎比出发的2天行程，游览Visit Sheikh Zayed Grand Mosque, Lunch stop, Visit Heritage village (Optional)和Photo stop of Qasr Al Watan。由360 Adventures Tourism LLC提供。",
+  "fullDescription": "一次从阿布扎比出发的2天行程，途经Visit Sheikh Zayed Grand Mosque, Lunch stop, Visit Heritage village (Optional)和Photo stop of Qasr Al Watan。全程共20站。\n\n行程顺序为Visit Sheikh Zayed Grand Mosque, 然后 Lunch stop, 然后 Visit Heritage village (Optional), 然后 Photo stop of Qasr Al Watan, 然后 Pass by Abu Dhabi Corniche, Emirates Palace & Etihad Towers。\n\n价格包含两天城市游览均含酒店接送、空调车辆接送、谢赫扎耶德清真寺、传统村落、椰枣市场、阿布拉渡船及黄金市场门票、60分钟沙滩摩托车或沙漠越野车骑行，含从集合地点出发的接送、持证导游、专业司机、瓶装饮用水。不包含住宿、餐食、个人消费，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的2天行程，游览Visit Sheikh Zayed Grand Mosque, Lunch stop, Visit Heritage village (Optional)和Photo stop of Qasr Al Watan。由360 Adventures Tourism LLC提供。"
+  ],
+  "included": [
+   "两天城市游览均含酒店接送",
+   "空调车辆接送",
+   "谢赫扎耶德清真寺、传统村落、椰枣市场、阿布拉渡船及黄金市场门票",
+   "60分钟沙滩摩托车或沙漠越野车骑行，含从集合地点出发的接送",
+   "持证导游",
+   "专业司机",
+   "瓶装饮用水"
+  ],
+  "notIncluded": [
+   "住宿",
+   "餐食",
+   "个人消费"
+  ]
+ },
+ "dubai-premium-safari-camel-ride-lisaili-fort-camp-": {
+  "title": "迪拜：高级沙漠之旅，含骆驼骑行、利赛利堡营地及自助餐",
+  "metaTitle": "迪拜：高级沙漠之旅，含骆驼骑行、利赛利堡营地及自助餐",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV。由Arabian Adventures提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV。由Arabian Adventures提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV。最长的一站是Jeep / SUV，约1小时。\n\n由Arabian Adventures负责安排，价格中含10项内容。可免费取消。刺激的4x4车冲沙，并在日落美景中探访迪拜利赛利堡。\n\n价格包含酒店接送、4x4车沙漠冲沙、骆驼骑行、日落摄影。不包含沙滩摩托车或沙漠越野车骑行（需额外付费）、水烟及纪念品（可购买）、含酒精饮品，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV。由Arabian Adventures提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "4x4车沙漠冲沙",
+   "骆驼骑行",
+   "日落摄影"
+  ],
+  "notIncluded": [
+   "沙滩摩托车或沙漠越野车骑行（需额外付费）",
+   "水烟及纪念品（可购买）",
+   "含酒精饮品"
+  ]
+ },
+ "dubai-burj-khalifa-dubai-mall-and-fountains-photos": {
+  "title": "迪拜：哈利法塔、迪拜购物中心及喷泉拍摄",
+  "metaTitle": "迪拜：哈利法塔、迪拜购物中心及喷泉拍摄",
+  "metaDescription": "一次从迪拜出发的1小时行程，游览Burj Khalifa, Dubai Mall和Downtown Dubai。由Picster提供。",
+  "shortDescription": "一次从迪拜出发的1小时行程，游览Burj Khalifa, Dubai Mall和Downtown Dubai。由Picster提供。",
+  "fullDescription": "一次从迪拜出发的1小时行程，途经Burj Khalifa, Dubai Mall和Downtown Dubai。全程共3站。\n\n行程顺序为Burj Khalifa, 然后 Dubai Mall, 然后 Downtown Dubai。\n\n价格包含在迪拜最具标志性的地点进行专业拍摄、高清专业精修照片、姿势及表情指导、当地专业向导。不包含往返拍摄地点的交通、餐食和饮品、个人消费，请另行预算。两位旅客共同支付371美元，而不是每人各付371美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的1小时行程，游览Burj Khalifa, Dubai Mall和Downtown Dubai。由Picster提供。"
+  ],
+  "included": [
+   "在迪拜最具标志性的地点进行专业拍摄",
+   "高清专业精修照片",
+   "姿势及表情指导",
+   "当地专业向导"
+  ],
+  "notIncluded": [
+   "往返拍摄地点的交通",
+   "餐食和饮品",
+   "个人消费"
+  ]
+ },
+ "dubai-balloon-ride-and-wonder-bus-tour-sky-sea": {
+  "title": "迪拜：热气球及奇妙巴士游览，陆海空全体验",
+  "metaTitle": "迪拜：热气球及奇妙巴士游览，陆海空全体验",
+  "metaDescription": "一次半天的迪拜体验。在迪拜体验热气球飞行，见证美妙的日出。由Wonder Bus Tours LLC提供。",
+  "shortDescription": "一次半天的迪拜体验。在迪拜体验热气球飞行，见证美妙的日出。由Wonder Bus Tours LLC提供。",
+  "fullDescription": "一次半天的迪拜体验。在迪拜体验热气球飞行，见证美妙的日出。\n\n由Wonder Bus Tours LLC负责安排，价格中含12项内容。可免费取消。\n\n价格包含黎明前迪拜任意地点接送、从空中、陆地及海上探索迪拜地标、震撼的日出景观、全景航拍体验、参观迪拜黄金市场、迪拜香料市场。不包含，请另行预算。",
+  "highlights": [
+   "在迪拜体验热气球飞行，见证美妙的日出"
+  ],
+  "included": [
+   "黎明前迪拜任意地点接送",
+   "从空中、陆地及海上探索迪拜地标",
+   "震撼的日出景观",
+   "全景航拍体验",
+   "参观迪拜黄金市场、迪拜香料市场"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-wonder-bus-amphibious-tour-and-aquaventure-w": {
+  "title": "迪拜：奇妙巴士水陆两用游览及亚特兰蒂斯水上乐园",
+  "metaTitle": "迪拜：奇妙巴士水陆两用游览及亚特兰蒂斯水上乐园",
+  "metaDescription": "一次1小时的迪拜体验。乘坐著名的水陆两用奇妙巴士，享受刺激体验。由Wonder Bus Tours LLC提供。",
+  "shortDescription": "一次1小时的迪拜体验。乘坐著名的水陆两用奇妙巴士，享受刺激体验。由Wonder Bus Tours LLC提供。",
+  "fullDescription": "一次1小时的迪拜体验。乘坐著名的水陆两用奇妙巴士，享受刺激体验。\n\n由Wonder Bus Tours LLC负责安排，价格中含8项内容。可免费取消。\n\n价格包含奇妙巴士水陆两用冒险、专业向导、在陆地及水上探索迪拜观光景点、亚特兰蒂斯水上乐园门票。不包含酒店往返接送、亚特兰蒂斯水上乐园内的食品及饮品、水上乐园储物柜租赁，请另行预算。",
+  "highlights": [
+   "乘坐著名的水陆两用奇妙巴士，享受刺激体验"
+  ],
+  "included": [
+   "奇妙巴士水陆两用冒险",
+   "专业向导",
+   "在陆地及水上探索迪拜观光景点",
+   "亚特兰蒂斯水上乐园门票"
+  ],
+  "notIncluded": [
+   "酒店往返接送",
+   "亚特兰蒂斯水上乐园内的食品及饮品",
+   "水上乐园储物柜租赁"
+  ]
+ },
  "dubai-electric-self-drive-boat-ride-in-the-palm": {
   "title": "迪拜：棕榈岛电动自驾船体验",
   "metaTitle": "迪拜：棕榈岛电动自驾船体验",
@@ -22159,6 +23474,69 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "酒店往返接送"
+  ]
+ },
+ "abu-dhabi-stand-up-paddle-boarding-guided-tour": {
+  "title": "阿布扎比：向导桨板游览",
+  "metaTitle": "阿布扎比：向导桨板游览",
+  "metaDescription": "一次2小时的阿布扎比体验。以全新视角探索里姆岛标志性中央公园的美景。由Husaak Adventures提供。",
+  "shortDescription": "一次2小时的阿布扎比体验。以全新视角探索里姆岛标志性中央公园的美景。由Husaak Adventures提供。",
+  "fullDescription": "一次2小时的阿布扎比体验。以全新视角探索里姆岛标志性中央公园的美景。\n\n由Husaak Adventures负责安排，价格中含7项内容。可免费取消。\n\n价格包含桨板全套装备（救生衣、桨板、船桨）、经验丰富的向导、救生衣、防水干袋、饮水补给站（请自带水瓶）、新鲜整果。不包含前往活动地点的交通、个人消费、毛巾，请另行预算。",
+  "highlights": [
+   "以全新视角探索里姆岛标志性中央公园的美景"
+  ],
+  "included": [
+   "桨板全套装备（救生衣、桨板、船桨）",
+   "经验丰富的向导",
+   "救生衣",
+   "防水干袋",
+   "饮水补给站（请自带水瓶）",
+   "新鲜整果"
+  ],
+  "notIncluded": [
+   "前往活动地点的交通",
+   "个人消费",
+   "毛巾"
+  ]
+ },
+ "abu-dhabi-guided-walking-tour-at-sheikh-zayed-gran": {
+  "title": "阿布扎比：谢赫扎耶德大清真寺向导徒步游览",
+  "metaTitle": "阿布扎比：谢赫扎耶德大清真寺向导徒步游览",
+  "metaDescription": "一次从阿布扎比出发的2小时行程，游览Sheikh Zayed Mosque。由OceanAir Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的2小时行程，游览Sheikh Zayed Mosque。由OceanAir Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的2小时行程，途经Sheikh Zayed Mosque。\n\n价格包含持证导游、谢赫扎耶德清真寺门票、矿泉水、拍照点机会及向导协助。不包含男女通用的额外遮体衣物、小费（可选），请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的2小时行程，游览Sheikh Zayed Mosque。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "持证导游",
+   "谢赫扎耶德清真寺门票",
+   "矿泉水",
+   "拍照点机会及向导协助"
+  ],
+  "notIncluded": [
+   "男女通用的额外遮体衣物",
+   "小费（可选）"
+  ]
+ },
+ "dubai-desert-safari-quad-bike-premium-camp-experie": {
+  "title": "迪拜：沙漠之旅，含沙滩摩托车及高级营地体验",
+  "metaTitle": "迪拜：沙漠之旅，含沙滩摩托车及高级营地体验",
+  "metaDescription": "一次半天的迪拜体验。在迪拜沙漠体验刺激的红色沙丘冲沙、滑沙及骆驼骑行。由Noble Life提供。",
+  "shortDescription": "一次半天的迪拜体验。在迪拜沙漠体验刺激的红色沙丘冲沙、滑沙及骆驼骑行。由Noble Life提供。",
+  "fullDescription": "一次半天的迪拜体验。在迪拜沙漠体验刺激的红色沙丘冲沙、滑沙及骆驼骑行。\n\n由Noble Life负责安排，价格中含12项内容。可免费取消。\n\n价格包含乘坐陆地巡洋舰/日产Patrol接送至您的酒店/所在地、持证英语向导、接送途中无限量饮用水、沙滩摩托车骑行及越野车冒险（可选）。不包含向导/司机小费（可选）、未提及的任何个人消费或额外活动，请另行预算。",
+  "highlights": [
+   "在迪拜沙漠体验刺激的红色沙丘冲沙、滑沙及骆驼骑行"
+  ],
+  "included": [
+   "乘坐陆地巡洋舰/日产Patrol接送至您的酒店/所在地",
+   "持证英语向导",
+   "接送途中无限量饮用水",
+   "沙滩摩托车骑行及越野车冒险（可选）"
+  ],
+  "notIncluded": [
+   "向导/司机小费（可选）",
+   "未提及的任何个人消费或额外活动"
   ]
  },
  "from-dubai-fujairah-city-tour": {
@@ -22181,6 +23559,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "halftrip-from-dubai-to-sheikh-zayed-mosque-and-bac": {
+  "title": "迪拜往返谢赫扎耶德清真寺半日游",
+  "metaTitle": "迪拜往返谢赫扎耶德清真寺半日游",
+  "metaDescription": "一次半天的阿布扎比体验。私人接送服务。由OceanAir Travels提供。",
+  "shortDescription": "一次半天的阿布扎比体验。私人接送服务。由OceanAir Travels提供。",
+  "fullDescription": "一次半天的阿布扎比体验。私人接送服务。\n\n由OceanAir Travels负责安排，价格中含8项内容。可免费取消。\n\n价格包含英语司机、燃油、停车、高速公路通行费。不包含导游、餐食、司机小费，请另行预算。",
+  "highlights": [
+   "私人接送服务"
+  ],
+  "included": [
+   "英语司机",
+   "燃油",
+   "停车",
+   "高速公路通行费"
+  ],
+  "notIncluded": [
+   "导游",
+   "餐食",
+   "司机小费"
+  ]
+ },
  "abu-dhabi-private-car-and-driver-for-8-hours": {
   "title": "阿布扎比：8小时私人专车及司机城市游",
   "metaTitle": "阿布扎比：8小时私人专车及司机城市游",
@@ -22200,6 +23599,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食"
   ]
  },
+ "dubais-best-desert-safari-live-show-gourmet-bbq-di": {
+  "title": "迪拜人气沙漠冲沙之旅：现场表演与精致烧烤晚餐",
+  "metaTitle": "迪拜人气沙漠冲沙之旅：现场表演与精致烧烤晚餐",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV和Lahbab Desert。由Noble Life提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV和Lahbab Desert。由Noble Life提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV和Lahbab Desert。全程共2站。\n\n行程顺序为Jeep / SUV (40 min), 然后 Lahbab Desert。\n\n价格包含酒店往返接送、持证英语向导，可进入Noble Camp营地、接送途中无限量饮用水、45分钟沙漠冲沙冒险。不包含沙滩摩托车及沙漠越野车骑行（可现场购买），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV和Lahbab Desert。由Noble Life提供。"
+  ],
+  "included": [
+   "酒店往返接送",
+   "持证英语向导，可进入Noble Camp营地",
+   "接送途中无限量饮用水",
+   "45分钟沙漠冲沙冒险"
+  ],
+  "notIncluded": [
+   "沙滩摩托车及沙漠越野车骑行（可现场购买）"
+  ]
+ },
  "dubai-arianas-persian-kitchen-meal-at-atlantis-the": {
   "title": "迪拜：亚特兰蒂斯皇家酒店Ariana波斯厨房用餐",
   "metaTitle": "迪拜：亚特兰蒂斯皇家酒店Ariana波斯厨房用餐",
@@ -22216,6 +23634,85 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "其他饮品"
+  ]
+ },
+ "dubai-fishing-trip-with-equipment-and-crew": {
+  "title": "迪拜：钓鱼之旅，含渔具及船员",
+  "metaTitle": "迪拜：钓鱼之旅，含渔具及船员",
+  "metaDescription": "一次半天的迪拜体验。在迪拜参加精彩的钓鱼之旅，探索水上世界。由Splash Tours UAE提供。",
+  "shortDescription": "一次半天的迪拜体验。在迪拜参加精彩的钓鱼之旅，探索水上世界。由Splash Tours UAE提供。",
+  "fullDescription": "一次半天的迪拜体验。在迪拜参加精彩的钓鱼之旅，探索水上世界。\n\n由Splash Tours UAE负责安排，价格中含4项内容。可免费取消。\n\n价格包含5小时钓鱼之旅、顶级钓鱼装备、专业船员指导、有机会捕获马鲛鱼、金梭鱼及笛鲷等本地鱼种。不包含无限畅饮软饮、冰块及瓶装水，请另行预算。两位旅客共同支付783美元，而不是每人各付783美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在迪拜参加精彩的钓鱼之旅，探索水上世界"
+  ],
+  "included": [
+   "5小时钓鱼之旅",
+   "顶级钓鱼装备",
+   "专业船员指导",
+   "有机会捕获马鲛鱼、金梭鱼及笛鲷等本地鱼种"
+  ],
+  "notIncluded": [
+   "无限畅饮软饮、冰块及瓶装水"
+  ]
+ },
+ "dubai-evening-tour-with-quad-biking-camel-ride-and": {
+  "title": "迪拜：夜间游览，含沙滩摩托车、骆驼骑行及烧烤",
+  "metaTitle": "迪拜：夜间游览，含沙滩摩托车、骆驼骑行及烧烤",
+  "metaDescription": "一次全天的迪拜体验。由专业司机驾驶，穿越红色沙漠，感受沙丘骑行的刺激。由Ramada Group Line提供。",
+  "shortDescription": "一次全天的迪拜体验。由专业司机驾驶，穿越红色沙漠，感受沙丘骑行的刺激。由Ramada Group Line提供。",
+  "fullDescription": "一次全天的迪拜体验。由专业司机驾驶，穿越红色沙漠，感受沙丘骑行的刺激。\n\n由Ramada Group Line负责安排，价格中含12项内容。可免费取消。\n\n价格包含在您指定地点提供接送、乘坐空调4x4车出行、英语及阿拉伯语沙漠向导、红色沙丘冲沙。不包含含酒精饮品、个人消费、小费（可选），请另行预算。",
+  "highlights": [
+   "由专业司机驾驶，穿越红色沙漠，感受沙丘骑行的刺激"
+  ],
+  "included": [
+   "在您指定地点提供接送",
+   "乘坐空调4x4车出行",
+   "英语及阿拉伯语沙漠向导",
+   "红色沙丘冲沙"
+  ],
+  "notIncluded": [
+   "含酒精饮品",
+   "个人消费",
+   "小费（可选）"
+  ]
+ },
+ "dubai-hot-air-balloon-private-with-breakfast-in-th": {
+  "title": "迪拜：私人热气球飞行，含空中早餐",
+  "metaTitle": "迪拜：私人热气球飞行，含空中早餐",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai和Emirate of Dubai。由Sindbad Gulf Balloons CO LLC提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai和Emirate of Dubai。由Sindbad Gulf Balloons CO LLC提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Dubai和Emirate of Dubai。最长的一站是Jeep / SUV，约1小时。全程共3站。\n\n行程顺序为Jeep / SUV (1h), 然后 Dubai (30 min), 然后 Emirate of Dubai (1h)。\n\n价格包含乘坐陆地巡洋舰的私人4x4车接送、最长60分钟的私人热气球飞行、飞行期间无限畅享茶点、飞行期间提供早餐。不包含照片及视频、小费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai和Emirate of Dubai。由Sindbad Gulf Balloons CO LLC提供。"
+  ],
+  "included": [
+   "乘坐陆地巡洋舰的私人4x4车接送",
+   "最长60分钟的私人热气球飞行",
+   "飞行期间无限畅享茶点",
+   "飞行期间提供早餐"
+  ],
+  "notIncluded": [
+   "照片及视频",
+   "小费"
+  ]
+ },
+ "dubai-city-tour": {
+  "title": "迪拜城市游览",
+  "metaTitle": "迪拜城市游览",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Dubai Marina Walk, Atlantis, Dubai, Souk Madinat Jumeirah和Burj Al Arab。由Yalla Walk tourism提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Dubai Marina Walk, Atlantis, Dubai, Souk Madinat Jumeirah和Burj Al Arab。由Yalla Walk tourism提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Dubai Marina Walk, Atlantis, Dubai, Souk Madinat Jumeirah和Burj Al Arab。全程共10站。\n\n行程顺序为Dubai Marina Walk (15 min), 然后 Atlantis, Dubai (10 min), 然后 Souk Madinat Jumeirah (15 min), 然后 Burj Al Arab (10 min), 然后 Jumeirah Beach (20 min)。\n\n价格包含酒店接送至迪拜购物中心、空调车辆接送、专业持证导游、参观老迪拜及法希迪历史街区。不包含小费（可选），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Dubai Marina Walk, Atlantis, Dubai, Souk Madinat Jumeirah和Burj Al Arab。由Yalla Walk tourism提供。"
+  ],
+  "included": [
+   "酒店接送至迪拜购物中心",
+   "空调车辆接送",
+   "专业持证导游",
+   "参观老迪拜及法希迪历史街区"
+  ],
+  "notIncluded": [
+   "小费（可选）"
   ]
  },
  "dubaiprivate-dubai-highlights-tour-with-local-guid": {
@@ -22256,6 +23753,47 @@ export const ZH_TOURS: Record<string, TourT> = {
    "午餐"
   ]
  },
+ "dubai-sunrise-desert-jeep-safari-with-wildlife-exp": {
+  "title": "迪拜：日出沙漠吉普车之旅，含野生动物体验",
+  "metaTitle": "迪拜：日出沙漠吉普车之旅，含野生动物体验",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Dubai, Dubai, Al Qudra Lake, United Arab Emirates和Al Qudra Lake, United Arab Emirates。由Odyssey DMC提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Dubai, Dubai, Al Qudra Lake, United Arab Emirates和Al Qudra Lake, United Arab Emirates。由Odyssey DMC提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Dubai, Dubai, Al Qudra Lake, United Arab Emirates和Al Qudra Lake, United Arab Emirates。全程共4站。\n\n行程顺序为Dubai (10 min), 然后 Dubai (15 min), 然后 Al Qudra Lake, United Arab Emirates (20 min), 然后 Al Qudra Lake, United Arab Emirates (30 min)。\n\n价格包含乘坐私人座驾从您的酒店出发接送、日出拍照停留、沙丘驾驶、简便茶点（咖啡、水、软饮）、野餐式早餐。不包含小费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Dubai, Dubai, Al Qudra Lake, United Arab Emirates和Al Qudra Lake, United Arab Emirates。由Odyssey DMC提供。"
+  ],
+  "included": [
+   "乘坐私人座驾从您的酒店出发接送",
+   "日出拍照停留",
+   "沙丘驾驶",
+   "简便茶点（咖啡、水、软饮）",
+   "野餐式早餐"
+  ],
+  "notIncluded": [
+   "小费"
+  ]
+ },
+ "dubai-airport-private-transfer-dubaiabu-dhabijumei": {
+  "title": "迪拜机场私人接送，往返迪拜、阿布扎比及朱美拉",
+  "metaTitle": "迪拜机场私人接送，往返迪拜、阿布扎比及朱美拉",
+  "metaDescription": "一次1小时的阿布扎比体验。预订从迪拜国际机场出发，前往迪拜、阿布扎比或朱美拉的无缝私人接送。由Elife Ride提供。",
+  "shortDescription": "一次1小时的阿布扎比体验。预订从迪拜国际机场出发，前往迪拜、阿布扎比或朱美拉的无缝私人接送。由Elife Ride提供。",
+  "fullDescription": "一次1小时的阿布扎比体验。预订从迪拜国际机场出发，前往迪拜、阿布扎比或朱美拉的无缝私人接送。\n\n由Elife Ride负责安排，价格中含12项内容。可免费取消。\n\n价格包含空调车、私人交通、所有费用及税费、60分钟机场接机等候时间。不包含迪拜市中心以外区域的酒店接送、迎接服务、额外等候时间，请另行预算。两位旅客共同支付55美元，而不是每人各付55美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "预订从迪拜国际机场出发，前往迪拜、阿布扎比或朱美拉的无缝私人接送"
+  ],
+  "included": [
+   "空调车",
+   "私人交通",
+   "所有费用及税费",
+   "60分钟机场接机等候时间"
+  ],
+  "notIncluded": [
+   "迪拜市中心以外区域的酒店接送",
+   "迎接服务",
+   "额外等候时间"
+  ]
+ },
  "from-dubai-full-day-abu-dhabi-tour-with-sheikh": {
   "title": "迪拜出发：阿布扎比全天之旅（含谢赫扎耶德清真寺）",
   "metaTitle": "迪拜出发：阿布扎比全天之旅（含谢赫扎耶德清真寺）",
@@ -22273,6 +23811,47 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "个人消费"
+  ]
+ },
+ "dubai-layover-tour-4-8-or-12-hour-options": {
+  "title": "迪拜中转游览：4、8或12小时可选",
+  "metaTitle": "迪拜中转游览：4、8或12小时可选",
+  "metaDescription": "一次半天的迪拜体验。选择4、8或12小时灵活时长的私人中转游览。由Arabian City Tourism提供。",
+  "shortDescription": "一次半天的迪拜体验。选择4、8或12小时灵活时长的私人中转游览。由Arabian City Tourism提供。",
+  "fullDescription": "一次半天的迪拜体验。选择4、8或12小时灵活时长的私人中转游览。\n\n由Arabian City Tourism负责安排，价格中含6项内容。可免费取消。\n\n价格包含酒店往返接送、英语导游、空调车辆接送、新老迪拜游览。不包含哈利法塔门票、个人消费、午餐和晚餐费用，请另行预算。",
+  "highlights": [
+   "选择4、8或12小时灵活时长的私人中转游览"
+  ],
+  "included": [
+   "酒店往返接送",
+   "英语导游",
+   "空调车辆接送",
+   "新老迪拜游览"
+  ],
+  "notIncluded": [
+   "哈利法塔门票",
+   "个人消费",
+   "午餐和晚餐费用"
+  ]
+ },
+ "from-dubai-grand-mosque-louvre-abu-dhabi-day-tour": {
+  "title": "迪拜出发：大清真寺及阿布扎比卢浮宫一日游",
+  "metaTitle": "迪拜出发：大清真寺及阿布扎比卢浮宫一日游",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, Abu Dhabi Corniche, Qasr Al Watan和Emirates Palace Marina。由OceanAir Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, Abu Dhabi Corniche, Qasr Al Watan和Emirates Palace Marina。由OceanAir Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Sheikh Zayed Mosque, Abu Dhabi Corniche, Qasr Al Watan和Emirates Palace Marina。最长的一站是Louvre Abu Dhabi，约2小时。全程共6站。\n\n行程顺序为Sheikh Zayed Mosque, 然后 Abu Dhabi Corniche (10 min), 然后 Qasr Al Watan (10 min), 然后 Emirates Palace Marina (10 min), 然后 Etihad Towers (10 min)。\n\n价格包含迪拜指定区域内的酒店接送、乘坐现代化空调车辆出行、多语言持证向导、大清真寺向导参观。不包含食品（含门票、午餐及阿拉伯服饰的选项除外）、额外饮品，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, Abu Dhabi Corniche, Qasr Al Watan和Emirates Palace Marina。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "迪拜指定区域内的酒店接送",
+   "乘坐现代化空调车辆出行",
+   "多语言持证向导",
+   "大清真寺向导参观"
+  ],
+  "notIncluded": [
+   "食品（含门票、午餐及阿拉伯服饰的选项除外）",
+   "额外饮品"
   ]
  },
  "private-dubai-frame-miracle-garden-trip-with-trans": {
@@ -22293,12 +23872,31 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食"
   ]
  },
+ "3000cc-dune-buggy-ride-luxury-bbq-dinner-at-herita": {
+  "title": "3000cc沙漠越野车骑行及传统营地豪华烧烤晚餐",
+  "metaTitle": "3000cc沙漠越野车骑行及传统营地豪华烧烤晚餐",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Sharjah, Dubai和Jeep / SUV。由ARABIAN EXPEDITION Dubai提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Sharjah, Dubai和Jeep / SUV。由ARABIAN EXPEDITION Dubai提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Jeep / SUV, Sharjah, Dubai和Jeep / SUV。最长的一站是Dubai，约3小时。全程共4站。\n\n行程顺序为Jeep / SUV (1h), 然后 Sharjah, 然后 Dubai (3h), 然后 Jeep / SUV (45 min)。\n\n价格包含乘坐豪华SUV的私人接送、专属向导、1小时沙漠越野车骑行、日落景观。不包含酒精饮品（客人可在营地现场付费购买），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Jeep / SUV, Sharjah, Dubai和Jeep / SUV。由ARABIAN EXPEDITION Dubai提供。"
+  ],
+  "included": [
+   "乘坐豪华SUV的私人接送",
+   "专属向导",
+   "1小时沙漠越野车骑行",
+   "日落景观"
+  ],
+  "notIncluded": [
+   "酒精饮品（客人可在营地现场付费购买）"
+  ]
+ },
  "dubai-marina-luxury-yacht-tour-desert-safari-in-re": {
   "title": "迪拜码头豪华游艇之旅及红色沙丘沙漠游猎",
   "metaTitle": "迪拜码头豪华游艇之旅及红色沙丘沙漠游猎",
   "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。由Dream Journey提供。",
   "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。由Dream Journey提供。",
-  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。全程共13站。\n\n行程顺序为Jeep / SUV (50 min), 然后 Dubai, 然后 Lahbab Desert (30 min), 然后 Lahbab Desert (45 min), 然后 Lahbab Desert (30 min)。\n\n价格包含便捷酒店往返接送、经验丰富的沙漠向导、免费瓶装水、45分钟四驱车沙漠飙沙。不包含，请另行预算。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。全程共13站。\n\n行程顺序为Jeep / SUV (50 min), 然后 Dubai, 然后 Lahbab Desert (30 min), 然后 Lahbab Desert (45 min), 然后 Lahbab Desert (30 min)。\n\n价格包含便捷酒店往返接送、经验丰富的沙漠向导、免费瓶装水、45分钟4x4车沙漠飙沙。不包含，请另行预算。",
   "highlights": [
    "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。由Dream Journey提供。"
   ],
@@ -22306,10 +23904,52 @@ export const ZH_TOURS: Record<string, TourT> = {
    "便捷酒店往返接送",
    "经验丰富的沙漠向导",
    "免费瓶装水",
-   "45分钟四驱车沙漠飙沙"
+   "45分钟4x4车沙漠飙沙"
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "from-abu-dhabi-2-dives-for-certified-divers-with": {
+  "title": "阿布扎比出发：持证潜水员2次潜水，含接送",
+  "metaTitle": "阿布扎比出发：持证潜水员2次潜水，含接送",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Snoopy Island, Snoopy Island, Sharm Rocks和Reef Oasis Dive Club, Fujairah。由Reef Oasis Diving Center提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Snoopy Island, Snoopy Island, Sharm Rocks和Reef Oasis Dive Club, Fujairah。由Reef Oasis Diving Center提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Snoopy Island, Snoopy Island, Sharm Rocks和Reef Oasis Dive Club, Fujairah。最长的一站是Snoopy Island，约1小时。全程共6站。\n\n行程顺序为Snoopy Island (1h), 然后 Snoopy Island (30 min), 然后 Sharm Rocks, 然后 Reef Oasis Dive Club, Fujairah (1h), 然后 Khorfakkan Amphitheatre (15 min)。\n\n价格包含阿布扎比接送、无限畅饮水及果汁、水肺潜水装备、两次向导潜水，于不同潜点进行、持证教练/潜水长。不包含毛巾、防晒霜、泳衣，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Snoopy Island, Snoopy Island, Sharm Rocks和Reef Oasis Dive Club, Fujairah。由Reef Oasis Diving Center提供。"
+  ],
+  "included": [
+   "阿布扎比接送",
+   "无限畅饮水及果汁",
+   "水肺潜水装备",
+   "两次向导潜水，于不同潜点进行",
+   "持证教练/潜水长"
+  ],
+  "notIncluded": [
+   "毛巾",
+   "防晒霜",
+   "泳衣"
+  ]
+ },
+ "2-hrs-sailboat-group-tour-with-burj-khalifa-skylin": {
+  "title": "2小时帆船团体游览，可观哈利法塔及天际线景色",
+  "metaTitle": "2小时帆船团体游览，可观哈利法塔及天际线景色",
+  "metaDescription": "一次从迪拜出发的2小时行程，游览Port Rashid, View point, The World Dubai和Persian Gulf。由Bliss Yachting提供。",
+  "shortDescription": "一次从迪拜出发的2小时行程，游览Port Rashid, View point, The World Dubai和Persian Gulf。由Bliss Yachting提供。",
+  "fullDescription": "一次从迪拜出发的2小时行程，途经Port Rashid, View point, The World Dubai和Persian Gulf。全程共4站。\n\n行程顺序为Port Rashid (10 min), 然后 View point (40 min), 然后 The World Dubai (30 min), 然后 Persian Gulf (40 min)。\n\n价格包含帆船游艇之旅从米纳拉希德码头出发，包含：、在码头入口（G及H码头）集合，前往我们的游艇（34英尺Beneteau Oceanis Clipper）、船上主要安全设施简要讲解、45分钟驶向公海的航行，欣赏迪拜天际线及哈利法塔景观，并简要介绍米纳拉希德码头的大型船只、超级游艇及城市最新发展。不包含食品/饮品（水/软饮除外）、毛巾，请另行预算。两位旅客共同支付277美元，而不是每人各付162美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的2小时行程，游览Port Rashid, View point, The World Dubai和Persian Gulf。由Bliss Yachting提供。"
+  ],
+  "included": [
+   "帆船游艇之旅从米纳拉希德码头出发，包含：",
+   "在码头入口（G及H码头）集合，前往我们的游艇（34英尺Beneteau Oceanis Clipper）",
+   "船上主要安全设施简要讲解",
+   "45分钟驶向公海的航行，欣赏迪拜天际线及哈利法塔景观，并简要介绍米纳拉希德码头的大型船只、超级游艇及城市最新发展"
+  ],
+  "notIncluded": [
+   "食品/饮品（水/软饮除外）",
+   "毛巾"
   ]
  },
  "dubai-city-tour-water-bus-frame-entry-gold-spice": {
@@ -22329,6 +23969,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "dubai-city-tour-with-optional-lunch": {
+  "title": "迪拜：城市游览，可选含午餐",
+  "metaTitle": "迪拜：城市游览，可选含午餐",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Jumeirah Beach, Jumeirah Mosque, Marjan Islamic Art Gallery- Dubai和Bur Dubai Abra Dock。由DMC Arabia Tourism LLC提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Jumeirah Beach, Jumeirah Mosque, Marjan Islamic Art Gallery- Dubai和Bur Dubai Abra Dock。由DMC Arabia Tourism LLC提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Jumeirah Beach, Jumeirah Mosque, Marjan Islamic Art Gallery- Dubai和Bur Dubai Abra Dock。全程共11站。\n\n行程顺序为Jumeirah Beach, 然后 Jumeirah Mosque, 然后 Marjan Islamic Art Gallery- Dubai, 然后 Bur Dubai Abra Dock (15 min), 然后 Dubai Spice Souk。\n\n价格包含交通接送、多语言语音导览、持证导游、阿布拉渡船费。不包含哈利法塔及阿拉伯塔门票、个人消费、迪拜滑雪场门票，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Jumeirah Beach, Jumeirah Mosque, Marjan Islamic Art Gallery- Dubai和Bur Dubai Abra Dock。由DMC Arabia Tourism LLC提供。"
+  ],
+  "included": [
+   "交通接送",
+   "多语言语音导览",
+   "持证导游",
+   "阿布拉渡船费"
+  ],
+  "notIncluded": [
+   "哈利法塔及阿拉伯塔门票",
+   "个人消费",
+   "迪拜滑雪场门票"
   ]
  },
  "jet-ski-to-burj-al-arab-atlantis-photo-video": {
@@ -22388,6 +24049,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "walking-tour-of-historical-dubai-with-french-guide": {
+  "title": "历史迪拜徒步游览，配法语向导",
+  "metaTitle": "历史迪拜徒步游览，配法语向导",
+  "metaDescription": "一次2小时的迪拜体验。了解这座城市丰富的历史与过去。由Alturis Tours and Events提供。",
+  "shortDescription": "一次2小时的迪拜体验。了解这座城市丰富的历史与过去。由Alturis Tours and Events提供。",
+  "fullDescription": "一次2小时的迪拜体验。了解这座城市丰富的历史与过去。\n\n由Alturis Tours and Events负责安排，价格中含5项内容。可免费取消。\n\n价格包含配持证资深导游的游览、老城区徒步游览、阿布拉渡船体验、当地茶饮及甜甜圈品鉴。不包含接送、小费，请另行预算。",
+  "highlights": [
+   "了解这座城市丰富的历史与过去"
+  ],
+  "included": [
+   "配持证资深导游的游览",
+   "老城区徒步游览",
+   "阿布拉渡船体验",
+   "当地茶饮及甜甜圈品鉴"
+  ],
+  "notIncluded": [
+   "接送",
+   "小费"
+  ]
+ },
  "dubai-4-hours-deep-sea-fishing": {
   "title": "迪拜：4小时深海钓鱼",
   "metaTitle": "迪拜：4小时深海钓鱼",
@@ -22405,14 +24086,74 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "walking-tour-in-old-dubai-souks-abra-boat-old": {
+  "title": "老迪拜徒步游览：市集、阿布拉渡船及老城区",
+  "metaTitle": "老迪拜徒步游览：市集、阿布拉渡船及老城区",
+  "metaDescription": "一次从迪拜出发的3小时行程，游览Al Bastakiya, Al Fahidi Fort, Old Textile Market和Al Souq Al Kabeer。由Amazing Tours提供。",
+  "shortDescription": "一次从迪拜出发的3小时行程，游览Al Bastakiya, Al Fahidi Fort, Old Textile Market和Al Souq Al Kabeer。由Amazing Tours提供。",
+  "fullDescription": "一次从迪拜出发的3小时行程，途经Al Bastakiya, Al Fahidi Fort, Old Textile Market和Al Souq Al Kabeer。全程共7站。\n\n行程顺序为Al Bastakiya (45 min), 然后 Al Fahidi Fort (20 min), 然后 Old Textile Market (15 min), 然后 Al Souq Al Kabeer (30 min), 然后 Water taxi (15 min)。\n\n价格包含持证导游、骆驼奶茶、骆驼奶巧克力、阿布拉水上出租船之旅。不包含酒店接送（除非选择私人选项）、小费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的3小时行程，游览Al Bastakiya, Al Fahidi Fort, Old Textile Market和Al Souq Al Kabeer。由Amazing Tours提供。"
+  ],
+  "included": [
+   "持证导游",
+   "骆驼奶茶",
+   "骆驼奶巧克力",
+   "阿布拉水上出租船之旅"
+  ],
+  "notIncluded": [
+   "酒店接送（除非选择私人选项）",
+   "小费"
+  ]
+ },
+ "private-50ft-yacht-cruise-in-dubai": {
+  "title": "迪拜私人50英尺游艇巡游",
+  "metaTitle": "迪拜私人50英尺游艇巡游",
+  "metaDescription": "一次从迪拜出发的1小时行程，游览Dubai Eye。由Supernova Yacht提供。",
+  "shortDescription": "一次从迪拜出发的1小时行程，游览Dubai Eye。由Supernova Yacht提供。",
+  "fullDescription": "一次从迪拜出发的1小时行程，途经Dubai Eye。\n\n由Supernova Yacht负责安排，价格中含4项内容。可免费取消。精彩的迪拜天际线游览，最多19位客人。\n\n价格包含游览地点将根据所选时长确定，具体选项请在登船时与船长商议、注意：仅限日落前游泳、免费包含项目：、水、果汁、冰块、餐具及冰盒。不包含钓鱼选项（含渔具及鱼饵）、水上摩托艇、船上现场烧烤，生日蛋糕及气球装饰，请另行预算。两位旅客共同支付331美元，而不是每人各付331美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的1小时行程，游览Dubai Eye。由Supernova Yacht提供。"
+  ],
+  "included": [
+   "游览地点将根据所选时长确定，具体选项请在登船时与船长商议",
+   "注意：仅限日落前游泳",
+   "免费包含项目：",
+   "水、果汁、冰块、餐具及冰盒"
+  ],
+  "notIncluded": [
+   "钓鱼选项（含渔具及鱼饵）、水上摩托艇、船上现场烧烤，生日蛋糕及气球装饰"
+  ]
+ },
+ "dubai-superyacht-party-with-live-dj-open-bar": {
+  "title": "迪拜：超级游艇派对，含现场DJ及开放式酒吧",
+  "metaTitle": "迪拜：超级游艇派对，含现场DJ及开放式酒吧",
+  "metaDescription": "一次从迪拜出发的3小时行程，游览Dubai Harbour, Jumeirah Beach Residence, Ain Dubai和Atlantis, Dubai。由Xclusive Yachts提供。",
+  "shortDescription": "一次从迪拜出发的3小时行程，游览Dubai Harbour, Jumeirah Beach Residence, Ain Dubai和Atlantis, Dubai。由Xclusive Yachts提供。",
+  "fullDescription": "一次从迪拜出发的3小时行程，途经Dubai Harbour, Jumeirah Beach Residence, Ain Dubai和Atlantis, Dubai。全程共4站。\n\n行程顺序为Dubai Harbour, 然后 Jumeirah Beach Residence, 然后 Ain Dubai, 然后 Atlantis, Dubai。\n\n价格包含船长、游艇巡游、现场DJ、马里奥赛车游戏机。不包含酒店接送、照片、游泳，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的3小时行程，游览Dubai Harbour, Jumeirah Beach Residence, Ain Dubai和Atlantis, Dubai。由Xclusive Yachts提供。"
+  ],
+  "included": [
+   "船长",
+   "游艇巡游",
+   "现场DJ",
+   "马里奥赛车游戏机"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "照片",
+   "游泳"
+  ]
+ },
  "dubai-family-friendly-desert-tour-flamingo-lake-op": {
   "title": "迪拜：亲子沙漠之旅及火烈鸟湖选项",
   "metaTitle": "迪拜：亲子沙漠之旅及火烈鸟湖选项",
-  "metaDescription": "一次半天的迪拜体验。乘坐现代四驱车平稳驶过红色沙丘。由Laetitia Tourism LLC提供。",
-  "shortDescription": "一次半天的迪拜体验。乘坐现代四驱车平稳驶过红色沙丘。由Laetitia Tourism LLC提供。",
-  "fullDescription": "一次半天的迪拜体验。乘坐现代四驱车平稳驶过红色沙丘。\n\n由Laetitia Tourism LLC负责安排，价格中含9项内容。可免费取消。\n\n价格包含酒店往返接送、乘坐吉普车平稳驰骋、猎鹰摄影、迪拜火烈鸟湖拍照停留（可选，如选择此选项）。不包含，请另行预算。",
+  "metaDescription": "一次半天的迪拜体验。乘坐现代4x4车平稳驶过红色沙丘。由Laetitia Tourism LLC提供。",
+  "shortDescription": "一次半天的迪拜体验。乘坐现代4x4车平稳驶过红色沙丘。由Laetitia Tourism LLC提供。",
+  "fullDescription": "一次半天的迪拜体验。乘坐现代4x4车平稳驶过红色沙丘。\n\n由Laetitia Tourism LLC负责安排，价格中含9项内容。可免费取消。\n\n价格包含酒店往返接送、乘坐吉普车平稳驰骋、猎鹰摄影、迪拜火烈鸟湖拍照停留（可选，如选择此选项）。不包含，请另行预算。",
   "highlights": [
-   "乘坐现代四驱车平稳驶过红色沙丘"
+   "乘坐现代4x4车平稳驶过红色沙丘"
   ],
   "included": [
    "酒店往返接送",
@@ -22422,6 +24163,47 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "dubai-sightseeing-speedboat-tour-with-live-tour-gu": {
+  "title": "迪拜：快艇观光游览，配现场导游讲解",
+  "metaTitle": "迪拜：快艇观光游览，配现场导游讲解",
+  "metaDescription": "一次从迪拜出发的1小时行程，游览Dubai Marina, Jumeirah Beach Residence, Bluewaters和Ain Dubai。由The Yellow Boats LLC提供。",
+  "shortDescription": "一次从迪拜出发的1小时行程，游览Dubai Marina, Jumeirah Beach Residence, Bluewaters和Ain Dubai。由The Yellow Boats LLC提供。",
+  "fullDescription": "一次从迪拜出发的1小时行程，途经Dubai Marina, Jumeirah Beach Residence, Bluewaters和Ain Dubai。全程共6站。\n\n行程顺序为Dubai Marina, 然后 Jumeirah Beach Residence, 然后 Bluewaters, 然后 Ain Dubai, 然后 Atlantis, Dubai。\n\n价格包含船长及船员、瓶装水、音响系统、安全装备。不包含酒店接送、食品和饮品，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1小时行程，游览Dubai Marina, Jumeirah Beach Residence, Bluewaters和Ain Dubai。由The Yellow Boats LLC提供。"
+  ],
+  "included": [
+   "船长及船员",
+   "瓶装水",
+   "音响系统",
+   "安全装备"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "食品和饮品"
+  ]
+ },
+ "dubai-desert-safari-camel-ride-sandboarding-30-min": {
+  "title": "迪拜沙漠之旅：骆驼骑行、滑沙及30分钟沙滩摩托车",
+  "metaTitle": "迪拜沙漠之旅：骆驼骑行、滑沙及30分钟沙滩摩托车",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。由Dream Journey提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。由Dream Journey提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。全程共5站。\n\n行程顺序为Jeep / SUV (50 min), 然后 Dubai, 然后 Lahbab Desert (30 min), 然后 Lahbab Desert (45 min), 然后 Lahbab Desert (30 min)。\n\n价格包含酒店往返接送、经验丰富的持证沙漠向导、45分钟4x4车沙漠冲沙、短程骆驼骑行（约2分钟）。不包含小费、餐食、迪拜以外地点的接送（仅限私人游览），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。由Dream Journey提供。"
+  ],
+  "included": [
+   "酒店往返接送",
+   "经验丰富的持证沙漠向导",
+   "45分钟4x4车沙漠冲沙",
+   "短程骆驼骑行（约2分钟）"
+  ],
+  "notIncluded": [
+   "小费",
+   "餐食",
+   "迪拜以外地点的接送（仅限私人游览）"
   ]
  },
  "1-hours-tridational-boat-ride-at-creek-canalold-du": {
@@ -22441,6 +24223,84 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "old-dubai-heritage-tour-souks-mosques-more-hidden-": {
+  "title": "老迪拜文化遗产游：市集、清真寺及更多隐藏亮点",
+  "metaTitle": "老迪拜文化遗产游：市集、清真寺及更多隐藏亮点",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jumeirah Mosque, Zabeel Palace, Al Bastakiya和Dubai Creek。由Arabian Adventures提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jumeirah Mosque, Zabeel Palace, Al Bastakiya和Dubai Creek。由Arabian Adventures提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jumeirah Mosque, Zabeel Palace, Al Bastakiya和Dubai Creek。全程共6站。\n\n行程顺序为Jumeirah Mosque (10 min), 然后 Zabeel Palace (10 min), 然后 Al Bastakiya (30 min), 然后 Dubai Creek (20 min), 然后 Dubai Spice Souk (30 min)。\n\n价格包含迪拜市区范围内酒店的接送服务、持证英语向导。不包含食品和饮品、个人消费、小费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jumeirah Mosque, Zabeel Palace, Al Bastakiya和Dubai Creek。由Arabian Adventures提供。"
+  ],
+  "included": [
+   "迪拜市区范围内酒店的接送服务",
+   "持证英语向导"
+  ],
+  "notIncluded": [
+   "食品和饮品",
+   "个人消费",
+   "小费"
+  ]
+ },
+ "dubai-luxury-yacht-tour-with-live-bbq-and-hotel": {
+  "title": "迪拜：豪华游艇游览，含现场烧烤及酒店接送",
+  "metaTitle": "迪拜：豪华游艇游览，含现场烧烤及酒店接送",
+  "metaDescription": "一次从迪拜出发的2小时行程，游览Dubai Harbour, Dubai Marina, Jumeirah Beach Residence和Ain Dubai。由Sky Walker Yachts提供。",
+  "shortDescription": "一次从迪拜出发的2小时行程，游览Dubai Harbour, Dubai Marina, Jumeirah Beach Residence和Ain Dubai。由Sky Walker Yachts提供。",
+  "fullDescription": "一次从迪拜出发的2小时行程，途经Dubai Harbour, Dubai Marina, Jumeirah Beach Residence和Ain Dubai。全程共5站。\n\n行程顺序为Dubai Harbour, 然后 Dubai Marina, 然后 Jumeirah Beach Residence, 然后 Ain Dubai, 然后 Burj Al Arab。\n\n价格包含豪华游艇巡游、私人接送、烧烤及饮品、船上音乐。不包含游泳、酒精饮品，请另行预算。两位旅客共同支付930美元，而不是每人各付930美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的2小时行程，游览Dubai Harbour, Dubai Marina, Jumeirah Beach Residence和Ain Dubai。由Sky Walker Yachts提供。"
+  ],
+  "included": [
+   "豪华游艇巡游",
+   "私人接送",
+   "烧烤及饮品",
+   "船上音乐"
+  ],
+  "notIncluded": [
+   "游泳",
+   "酒精饮品"
+  ]
+ },
+ "from-dubai-abu-dhabi-day-tour-with-qasr-al": {
+  "title": "迪拜出发：阿布扎比一日游，含阿尔瓦坦宫",
+  "metaTitle": "迪拜出发：阿布扎比一日游，含阿尔瓦坦宫",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Al Bateen, Abu Dhabi, Qasr Al Watan和Abu Dhabi Heritage Village。由Travtur Tourism L.L.C提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Al Bateen, Abu Dhabi, Qasr Al Watan和Abu Dhabi Heritage Village。由Travtur Tourism L.L.C提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Sheikh Zayed Mosque, Al Bateen, Abu Dhabi, Qasr Al Watan和Abu Dhabi Heritage Village。最长的一站是The Corniche, Abu Dhabi，约1小时。全程共7站。\n\n行程顺序为Sheikh Zayed Mosque (1h), 然后 Al Bateen, Abu Dhabi (15 min), 然后 Qasr Al Watan (1h), 然后 Abu Dhabi Heritage Village (20 min), 然后 The Corniche, Abu Dhabi (1h)。\n\n价格包含全程空调车辆、深谙阿布扎比的专业当地导游、全程免费提供矿泉水、阿布扎比鱼市午餐（新鲜本地海鲜体验）。不包含小费（可选），请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Al Bateen, Abu Dhabi, Qasr Al Watan和Abu Dhabi Heritage Village。由Travtur Tourism L.L.C提供。"
+  ],
+  "included": [
+   "全程空调车辆",
+   "深谙阿布扎比的专业当地导游",
+   "全程免费提供矿泉水",
+   "阿布扎比鱼市午餐（新鲜本地海鲜体验）"
+  ],
+  "notIncluded": [
+   "小费（可选）"
+  ]
+ },
+ "dubai-private-yacht-experience-with-bbq-or-light-m": {
+  "title": "迪拜：私人游艇体验，含烧烤或轻食餐",
+  "metaTitle": "迪拜：私人游艇体验，含烧烤或轻食餐",
+  "metaDescription": "一次从迪拜出发的1小时行程，游览Dubai Marina, Ain Dubai, Bluewaters Island和Jumeirah Beach Residence。由Supernova Yacht提供。",
+  "shortDescription": "一次从迪拜出发的1小时行程，游览Dubai Marina, Ain Dubai, Bluewaters Island和Jumeirah Beach Residence。由Supernova Yacht提供。",
+  "fullDescription": "一次从迪拜出发的1小时行程，途经Dubai Marina, Ain Dubai, Bluewaters Island和Jumeirah Beach Residence。全程共5站。\n\n行程顺序为Dubai Marina (45 min), 然后 Ain Dubai (15 min), 然后 Bluewaters Island, 然后 Jumeirah Beach Residence (15 min), 然后 Atlantis, Dubai (30 min)。\n\n价格包含专业船长和船员、烧烤餐，提供素食/非素食选择（如选择该选项）、软饮料、船上音乐。不包含酒店往返接送、酒精饮品（可在船上购买），请另行预算。两位旅客共同支付461美元，而不是每人各付461美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的1小时行程，游览Dubai Marina, Ain Dubai, Bluewaters Island和Jumeirah Beach Residence。由Supernova Yacht提供。"
+  ],
+  "included": [
+   "专业船长和船员",
+   "烧烤餐，提供素食/非素食选择（如选择该选项）",
+   "软饮料",
+   "船上音乐"
+  ],
+  "notIncluded": [
+   "酒店往返接送",
+   "酒精饮品（可在船上购买）"
   ]
  },
  "dubai-jet-ski-tour-to-burj-al-arab-and": {
@@ -22480,6 +24340,126 @@ export const ZH_TOURS: Record<string, TourT> = {
    "酒店往返接送"
   ]
  },
+ "dubai-seven-paintings-immersive-dining-show-ticket": {
+  "title": "迪拜：Seven Paintings沉浸式晚餐表演门票",
+  "metaTitle": "迪拜：Seven Paintings沉浸式晚餐表演门票",
+  "metaDescription": "一次2小时的迪拜体验。体验令人惊叹的7道式沉浸晚餐，菜单充满艺术感。由Dinnertales提供。",
+  "shortDescription": "一次2小时的迪拜体验。体验令人惊叹的7道式沉浸晚餐，菜单充满艺术感。由Dinnertales提供。",
+  "fullDescription": "一次2小时的迪拜体验。体验令人惊叹的7道式沉浸晚餐，菜单充满艺术感。\n\n由Dinnertales负责安排，价格中含4项内容。可免费取消。\n\n价格包含沉浸式用餐体验、7道式晚餐，菜单精心设计、欢迎饮品、代客泊车。不包含往返接送、欢迎饮品以外的其他饮品、任何额外服务或活动，请另行预算。",
+  "highlights": [
+   "体验令人惊叹的7道式沉浸晚餐，菜单充满艺术感"
+  ],
+  "included": [
+   "沉浸式用餐体验",
+   "7道式晚餐，菜单精心设计",
+   "欢迎饮品",
+   "代客泊车"
+  ],
+  "notIncluded": [
+   "往返接送",
+   "欢迎饮品以外的其他饮品",
+   "任何额外服务或活动"
+  ]
+ },
+ "dubai-03-hours-sunset-cruising-w-live-bbq-onboard": {
+  "title": "迪拜：03小时日落巡游，船上含现场烧烤",
+  "metaTitle": "迪拜：03小时日落巡游，船上含现场烧烤",
+  "metaDescription": "一次3小时的迪拜体验。迪拜码头。由Dubai Marina Majesty Yachts提供。",
+  "shortDescription": "一次3小时的迪拜体验。迪拜码头。由Dubai Marina Majesty Yachts提供。",
+  "fullDescription": "一次3小时的迪拜体验。迪拜码头。\n\n由Dubai Marina Majesty Yachts负责安排，价格中含10项内容。可免费取消。\n\n价格包含包含项目：、船上现场烧烤拼盘、水果拼盘、仅限迪拜市内的燃油费。不包含往返接送，请另行预算。两位旅客共同支付4142美元，而不是每人各付4142美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "迪拜码头"
+  ],
+  "included": [
+   "包含项目：",
+   "船上现场烧烤拼盘",
+   "水果拼盘",
+   "仅限迪拜市内的燃油费"
+  ],
+  "notIncluded": [
+   "往返接送"
+  ]
+ },
+ "dubai-burj-al-arab-museum-of-the-future-dubai": {
+  "title": "迪拜：阿拉伯塔、未来博物馆及迪拜之框游览",
+  "metaTitle": "迪拜：阿拉伯塔、未来博物馆及迪拜之框游览",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Dubai Frame, Museum of the Future, Burj Al Arab和Madinat Jumeirah。由Venezia Tourism - Dubai提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Dubai Frame, Museum of the Future, Burj Al Arab和Madinat Jumeirah。由Venezia Tourism - Dubai提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Dubai Frame, Museum of the Future, Burj Al Arab和Madinat Jumeirah。全程共7站。\n\n行程顺序为Dubai Frame (15 min), 然后 Museum of the Future (15 min), 然后 Burj Al Arab (15 min), 然后 Madinat Jumeirah (20 min), 然后 The Pointe, Dubai (20 min)。\n\n价格包含酒店接送、专业持证司机（导游）、乘坐私人空调车辆游览、瓶装饮用水。不包含导游、餐食、额外饮品，请另行预算。两位旅客共同支付241美元，而不是每人各付241美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Dubai Frame, Museum of the Future, Burj Al Arab和Madinat Jumeirah。由Venezia Tourism - Dubai提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "专业持证司机（导游）",
+   "乘坐私人空调车辆游览",
+   "瓶装饮用水"
+  ],
+  "notIncluded": [
+   "导游",
+   "餐食",
+   "额外饮品"
+  ]
+ },
+ "premium-dubai-city-sightseeing-tour-in-an-suv": {
+  "title": "迪拜高端城市观光游览，乘坐SUV",
+  "metaTitle": "迪拜高端城市观光游览，乘坐SUV",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Al Fahidi Fort, Al Farooq Omar Bin Al Khattab Mosque, Jumeirah Beach Residence和Dubai Marina。由Trip Habibi Travel and Tourism LLC提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Al Fahidi Fort, Al Farooq Omar Bin Al Khattab Mosque, Jumeirah Beach Residence和Dubai Marina。由Trip Habibi Travel and Tourism LLC提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Al Fahidi Fort, Al Farooq Omar Bin Al Khattab Mosque, Jumeirah Beach Residence和Dubai Marina。最长的一站是Dubai Mall，约1小时。全程共7站。\n\n行程顺序为Al Fahidi Fort (30 min), 然后 Al Farooq Omar Bin Al Khattab Mosque (30 min), 然后 Jumeirah Beach Residence (30 min), 然后 Dubai Marina (15 min), 然后 Dubai Eye (20 min)。\n\n价格包含乘坐舒适私人座驾的酒店接送、瓶装饮用水、私人座驾、行程灵活可个性化定制的游览。不包含哈利法塔、迪拜之框或其他景点的门票、餐食和饮品、小费（可选），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Al Fahidi Fort, Al Farooq Omar Bin Al Khattab Mosque, Jumeirah Beach Residence和Dubai Marina。由Trip Habibi Travel and Tourism LLC提供。"
+  ],
+  "included": [
+   "乘坐舒适私人座驾的酒店接送",
+   "瓶装饮用水",
+   "私人座驾",
+   "行程灵活可个性化定制的游览"
+  ],
+  "notIncluded": [
+   "哈利法塔、迪拜之框或其他景点的门票",
+   "餐食和饮品",
+   "小费（可选）"
+  ]
+ },
+ "dubai-miracle-garden-global-village-dubai-frame-op": {
+  "title": "迪拜：奇迹花园、环球村及迪拜之框可选游览",
+  "metaTitle": "迪拜：奇迹花园、环球村及迪拜之框可选游览",
+  "metaDescription": "一次半天的迪拜体验。在奇迹花园欣赏沙漠中盛开的五彩花卉。由HBD In Bound Tour Operator LLC提供。",
+  "shortDescription": "一次半天的迪拜体验。在奇迹花园欣赏沙漠中盛开的五彩花卉。由HBD In Bound Tour Operator LLC提供。",
+  "fullDescription": "一次半天的迪拜体验。在奇迹花园欣赏沙漠中盛开的五彩花卉。\n\n由HBD In Bound Tour Operator LLC负责安排，价格中含5项内容。可免费取消。\n\n价格包含酒店接送、司机、往返交通、奇迹花园门票。不包含餐食和饮品，请另行预算。",
+  "highlights": [
+   "在奇迹花园欣赏沙漠中盛开的五彩花卉"
+  ],
+  "included": [
+   "酒店接送",
+   "司机",
+   "往返交通",
+   "奇迹花园门票"
+  ],
+  "notIncluded": [
+   "餐食和饮品"
+  ]
+ },
+ "abu-dhabi-morning-dune-drive-camel-ride-sandboardi": {
+  "title": "阿布扎比：晨间沙丘驾驶、骆驼骑行及滑沙",
+  "metaTitle": "阿布扎比：晨间沙丘驾驶、骆驼骑行及滑沙",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览Al Khatim Desert, Al Khatim Desert和Al Khatim Desert。由OceanAir Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览Al Khatim Desert, Al Khatim Desert和Al Khatim Desert。由OceanAir Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Al Khatim Desert, Al Khatim Desert和Al Khatim Desert。全程共3站。\n\n行程顺序为Al Khatim Desert (45 min), 然后 Al Khatim Desert (5 min), 然后 Al Khatim Desert (10 min)。\n\n价格包含酒店往返接送、4x4车沙漠冲沙/沙漠驾驶、短程骆驼骑行、滑沙体验。不包含除特别说明外，食品及饮品不含，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览Al Khatim Desert, Al Khatim Desert和Al Khatim Desert。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "酒店往返接送",
+   "4x4车沙漠冲沙/沙漠驾驶",
+   "短程骆驼骑行",
+   "滑沙体验"
+  ],
+  "notIncluded": [
+   "除特别说明外，食品及饮品不含"
+  ]
+ },
  "dubai-old-to-new-dubai-private-half-day-sightseein": {
   "title": "迪拜：老城至新城私人半日观光游",
   "metaTitle": "迪拜：老城至新城私人半日观光游",
@@ -22498,6 +24478,26 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐食",
    "景点门票"
+  ]
+ },
+ "old-dubai-heritage-walking-tour-3-hour-cultural-ex": {
+  "title": "老迪拜文化遗产徒步游览，3小时文化体验",
+  "metaTitle": "老迪拜文化遗产徒步游览，3小时文化体验",
+  "metaDescription": "一次从迪拜出发的3小时行程，游览Al Seef, Al Fahidi Historical Neighbourhood, Al Fahidi Fort和Meena Bazaar, Dubai。由Yalla Walk tourism提供。",
+  "shortDescription": "一次从迪拜出发的3小时行程，游览Al Seef, Al Fahidi Historical Neighbourhood, Al Fahidi Fort和Meena Bazaar, Dubai。由Yalla Walk tourism提供。",
+  "fullDescription": "一次从迪拜出发的3小时行程，途经Al Seef, Al Fahidi Historical Neighbourhood, Al Fahidi Fort和Meena Bazaar, Dubai。全程共7站。\n\n行程顺序为Al Seef (15 min), 然后 Al Fahidi Historical Neighbourhood (20 min), 然后 Al Fahidi Fort (10 min), 然后 Meena Bazaar, Dubai (15 min), 然后 Bur Dubai Abra Dock (10 min)。\n\n价格包含专业英语、德语及法语导游、法希迪历史街区向导徒步游览、参观阿尔西夫文化遗产区、参观米纳巴扎尔。不包含小费（可选）、返回酒店的接送，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的3小时行程，游览Al Seef, Al Fahidi Historical Neighbourhood, Al Fahidi Fort和Meena Bazaar, Dubai。由Yalla Walk tourism提供。"
+  ],
+  "included": [
+   "专业英语、德语及法语导游",
+   "法希迪历史街区向导徒步游览",
+   "参观阿尔西夫文化遗产区",
+   "参观米纳巴扎尔"
+  ],
+  "notIncluded": [
+   "小费（可选）",
+   "返回酒店的接送"
   ]
  },
  "private-food-tour-12-tastings-with-locals": {
@@ -22520,6 +24520,47 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "walking-tour-in-dubai-souks-museums-local-food-tes": {
+  "title": "迪拜徒步游览：市集、博物馆及本地美食品鉴",
+  "metaTitle": "迪拜徒步游览：市集、博物馆及本地美食品鉴",
+  "metaDescription": "一次从迪拜出发的3小时行程，游览On foot, Al Seef, Al Fahidi和On foot。由travel with malik提供。",
+  "shortDescription": "一次从迪拜出发的3小时行程，游览On foot, Al Seef, Al Fahidi和On foot。由travel with malik提供。",
+  "fullDescription": "一次从迪拜出发的3小时行程，途经On foot, Al Seef, Al Fahidi和On foot。全程共11站。\n\n行程顺序为On foot (5 min), 然后 Al Seef (30 min), 然后 Al Fahidi (50 min), 然后 On foot (10 min), 然后 Al Fahidi Fort (15 min)。\n\n价格包含导游、阿布拉水上出租船之旅、骆驼奶茶、骆驼奶巧克力。不包含所有个人消费、小费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的3小时行程，游览On foot, Al Seef, Al Fahidi和On foot。由travel with malik提供。"
+  ],
+  "included": [
+   "导游",
+   "阿布拉水上出租船之旅",
+   "骆驼奶茶",
+   "骆驼奶巧克力"
+  ],
+  "notIncluded": [
+   "所有个人消费",
+   "小费"
+  ]
+ },
+ "dubai-desert-safari-with-vip-bbq-dinner-optional-q": {
+  "title": "迪拜：沙漠冲沙之旅，含VIP烧烤晚餐，可选沙滩摩托车",
+  "metaTitle": "迪拜：沙漠冲沙之旅，含VIP烧烤晚餐，可选沙滩摩托车",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Red Dunes, Red Dunes和Jeep / SUV。由Funtours Dubai提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Red Dunes, Red Dunes和Jeep / SUV。由Funtours Dubai提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Red Dunes, Red Dunes和Jeep / SUV。全程共6站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Red Dunes (30 min), 然后 Red Dunes (45 min), 然后 Jeep / SUV (10 min), 然后 Al Aweer (20 min)。\n\n价格包含在迪拜市内您的酒店或指定地点提供接送、导游、空调车辆接送、接送途中无限量饮用水。不包含含酒精饮品、超大尺寸的海娜图案、途中饮品，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV, Red Dunes, Red Dunes和Jeep / SUV。由Funtours Dubai提供。"
+  ],
+  "included": [
+   "在迪拜市内您的酒店或指定地点提供接送",
+   "导游",
+   "空调车辆接送",
+   "接送途中无限量饮用水"
+  ],
+  "notIncluded": [
+   "含酒精饮品",
+   "超大尺寸的海娜图案",
+   "途中饮品"
+  ]
+ },
  "dubai-jet-ski-adventure-w-burj-khalifa-burj-al": {
   "title": "迪拜：摩托艇探险，饱览哈利法塔及阿拉伯塔景色",
   "metaTitle": "迪拜：摩托艇探险，饱览哈利法塔及阿拉伯塔景色",
@@ -22538,6 +24579,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "酒店往返接送",
    "个人消费"
+  ]
+ },
+ "dubai-private-city-tour-with-burj-khalifa-levels-1": {
+  "title": "迪拜：私人城市游览，含哈利法塔124/125层门票",
+  "metaTitle": "迪拜：私人城市游览，含哈利法塔124/125层门票",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Dubai Eye, View point, Zabeel Palace和Bur Dubai Abra Dock。由Al-Toor Tours提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Dubai Eye, View point, Zabeel Palace和Bur Dubai Abra Dock。由Al-Toor Tours提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Dubai Eye, View point, Zabeel Palace和Bur Dubai Abra Dock。最长的一站是Dubai Gold Souk，约1小时。全程共6站。\n\n行程顺序为Dubai Eye (20 min), 然后 View point (30 min), 然后 Zabeel Palace (15 min), 然后 Bur Dubai Abra Dock (15 min), 然后 Dubai Gold Souk (1h)。\n\n价格包含舒适的酒店接送服务、向导城市游览、哈利法塔124至125层门票。不包含餐食和饮品、小费（可选），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Dubai Eye, View point, Zabeel Palace和Bur Dubai Abra Dock。由Al-Toor Tours提供。"
+  ],
+  "included": [
+   "舒适的酒店接送服务",
+   "向导城市游览",
+   "哈利法塔124至125层门票"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "小费（可选）"
   ]
  },
  "private-abu-dhabi-city-tour-with-sheikh-zayed-gran": {
@@ -22658,6 +24718,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食和饮品"
   ]
  },
+ "from-dubai-abu-dhabi-guided-full-day-sightseeing-t": {
+  "title": "迪拜出发：阿布扎比全天向导观光游览",
+  "metaTitle": "迪拜出发：阿布扎比全天向导观光游览",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi和Emirates Palace。由Pacific Adventures L.L.C提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi和Emirates Palace。由Pacific Adventures L.L.C提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Sheikh Zayed Mosque, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi和Emirates Palace。全程共7站。\n\n行程顺序为Sheikh Zayed Mosque, 然后 Abu Dhabi Heritage Village, 然后 The Corniche, Abu Dhabi, 然后 Emirates Palace, 然后 Qasr Al Watan。\n\n价格包含从迪拜出发的酒店接送、空调车辆接送、现场专业导游、谢赫扎耶德大清真寺门票。不包含个人消费、午餐和饮品、阿尔瓦坦宫内部向导游览，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi和Emirates Palace。由Pacific Adventures L.L.C提供。"
+  ],
+  "included": [
+   "从迪拜出发的酒店接送",
+   "空调车辆接送",
+   "现场专业导游",
+   "谢赫扎耶德大清真寺门票"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "午餐和饮品",
+   "阿尔瓦坦宫内部向导游览"
+  ]
+ },
  "dubai-45-minute-jet-ski-ride": {
   "title": "迪拜：45分钟摩托艇骑乘",
   "metaTitle": "迪拜：45分钟摩托艇骑乘",
@@ -22676,6 +24757,26 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "酒店往返接送",
    "餐食及额外饮品"
+  ]
+ },
+ "dubai-burj-khalifa-jet-ski-ride-with-free-photos": {
+  "title": "迪拜：哈利法塔水上摩托艇体验，含免费照片及视频",
+  "metaTitle": "迪拜：哈利法塔水上摩托艇体验，含免费照片及视频",
+  "metaDescription": "一次0.5小时的迪拜体验。以哈利法塔为背景，感受骑乘水上摩托艇的刺激。由Searide Watersports Equipment Rental LLC提供。",
+  "shortDescription": "一次0.5小时的迪拜体验。以哈利法塔为背景，感受骑乘水上摩托艇的刺激。由Searide Watersports Equipment Rental LLC提供。",
+  "fullDescription": "一次0.5小时的迪拜体验。以哈利法塔为背景，感受骑乘水上摩托艇的刺激。\n\n由Searide Watersports Equipment Rental LLC负责安排，价格中含6项内容。可免费取消。\n\n价格包含提供安全及操作讲解、全新水上摩托艇、救生衣、提供储物柜、更衣室及淋浴设施、免费无线网络。不包含酒店往返接送，请另行预算。两位旅客共同支付110美元，而不是每人各付62美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "以哈利法塔为背景，感受骑乘水上摩托艇的刺激"
+  ],
+  "included": [
+   "提供安全及操作讲解",
+   "全新水上摩托艇",
+   "救生衣",
+   "提供储物柜、更衣室及淋浴设施",
+   "免费无线网络"
+  ],
+  "notIncluded": [
+   "酒店往返接送"
   ]
  },
  "dubai-jet-ski-to-burj-al-arab": {
@@ -22734,6 +24835,47 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐食和饮品",
    "酒店往返接送"
+  ]
+ },
+ "dubai-36-foot-private-yacht-tour": {
+  "title": "迪拜：36英尺私人游艇之旅",
+  "metaTitle": "迪拜：36英尺私人游艇之旅",
+  "metaDescription": "一次从迪拜出发的2小时行程，游览Dubai Marina, Jumeirah Beach Residence, Bluewaters Island和Ain Dubai。由Xtreme Yachts提供。",
+  "shortDescription": "一次从迪拜出发的2小时行程，游览Dubai Marina, Jumeirah Beach Residence, Bluewaters Island和Ain Dubai。由Xtreme Yachts提供。",
+  "fullDescription": "一次从迪拜出发的2小时行程，途经Dubai Marina, Jumeirah Beach Residence, Bluewaters Island和Ain Dubai。全程共7站。\n\n行程顺序为Dubai Marina, 然后 Jumeirah Beach Residence, 然后 Bluewaters Island, 然后 Ain Dubai, 然后 The Palm Jumeirah。\n\n价格包含软饮料、水、干净毛巾。不包含餐食、接送服务、水上运动项目，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的2小时行程，游览Dubai Marina, Jumeirah Beach Residence, Bluewaters Island和Ain Dubai。由Xtreme Yachts提供。"
+  ],
+  "included": [
+   "软饮料",
+   "水",
+   "干净毛巾"
+  ],
+  "notIncluded": [
+   "餐食",
+   "接送服务",
+   "水上运动项目"
+  ]
+ },
+ "from-dubai-2-dives-for-certified-divers-with-trans": {
+  "title": "迪拜出发：持证潜水员2次潜水，含接送",
+  "metaTitle": "迪拜出发：持证潜水员2次潜水，含接送",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Fujairah, Fujairah, Reef Oasis Dive Club, Fujairah和Al Bidya Mosque。由Reef Oasis Diving Center提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Fujairah, Fujairah, Reef Oasis Dive Club, Fujairah和Al Bidya Mosque。由Reef Oasis Diving Center提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Fujairah, Fujairah, Reef Oasis Dive Club, Fujairah和Al Bidya Mosque。最长的一站是Fujairah，约1小时。全程共6站。\n\n行程顺序为Fujairah (1h), 然后 Fujairah (30 min), 然后 Reef Oasis Dive Club, Fujairah (40 min), 然后 Al Bidya Mosque (10 min), 然后 Khorfakkan Amphitheatre (15 min)。\n\n价格包含迪拜/富查伊拉酒店接送、水肺潜水装备、两次向导潜水，于不同潜点进行、持证教练/潜水长。不包含毛巾、防晒霜、泳衣，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Fujairah, Fujairah, Reef Oasis Dive Club, Fujairah和Al Bidya Mosque。由Reef Oasis Diving Center提供。"
+  ],
+  "included": [
+   "迪拜/富查伊拉酒店接送",
+   "水肺潜水装备",
+   "两次向导潜水，于不同潜点进行",
+   "持证教练/潜水长"
+  ],
+  "notIncluded": [
+   "毛巾",
+   "防晒霜",
+   "泳衣"
   ]
  },
  "dubai-private-fly-fish-boat-ride": {
@@ -22810,6 +24952,65 @@ export const ZH_TOURS: Record<string, TourT> = {
    "泳衣"
   ]
  },
+ "old-dubai-guided-tour-with-photographer-souks-stre": {
+  "title": "老迪拜向导游览，配摄影师：市集及街头美食",
+  "metaTitle": "老迪拜向导游览，配摄影师：市集及街头美食",
+  "metaDescription": "一次3小时的迪拜体验。在香料市场闻闻令人垂涎的各式香料气息。由ToursGuys.com提供。",
+  "shortDescription": "一次3小时的迪拜体验。在香料市场闻闻令人垂涎的各式香料气息。由ToursGuys.com提供。",
+  "fullDescription": "一次3小时的迪拜体验。在香料市场闻闻令人垂涎的各式香料气息。\n\n由ToursGuys.com负责安排，价格中含12项内容。可免费取消。\n\n价格包含导游、阿尔海玛传统民居门票、参观黄金市场、参观香料市场。不包含小费（非强制），请另行预算。",
+  "highlights": [
+   "在香料市场闻闻令人垂涎的各式香料气息"
+  ],
+  "included": [
+   "导游",
+   "阿尔海玛传统民居门票",
+   "参观黄金市场",
+   "参观香料市场"
+  ],
+  "notIncluded": [
+   "小费（非强制）"
+  ]
+ },
+ "dubai-sunrise-balloon-flight-with-camel-ride-break": {
+  "title": "迪拜：日出热气球飞行，含骆驼骑行及早餐",
+  "metaTitle": "迪拜：日出热气球飞行，含骆驼骑行及早餐",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Sindbad Gulf Balloons WH, Dubai Desert Conservation Reserve, Margham gate和VHJ2+3P Margham。由Sindbad Gulf Balloons CO LLC提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Sindbad Gulf Balloons WH, Dubai Desert Conservation Reserve, Margham gate和VHJ2+3P Margham。由Sindbad Gulf Balloons CO LLC提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Sindbad Gulf Balloons WH, Dubai Desert Conservation Reserve, Margham gate和VHJ2+3P Margham。最长的一站是Dubai Desert Conservation Reserve, Margham gate，约1小时。全程共4站。\n\n行程顺序为Jeep / SUV (50 min), 然后 Sindbad Gulf Balloons WH (50 min), 然后 Dubai Desert Conservation Reserve, Margham gate (1h), 然后 VHJ2+3P Margham。\n\n价格包含酒店往返接送、欢迎饮品（茶、咖啡或水）、40至70分钟日出热气球飞行、船上无线网络、降落后在贝都因营地享用早餐、短程骆驼骑行。不包含完整飞行视频（200迪拉姆），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV, Sindbad Gulf Balloons WH, Dubai Desert Conservation Reserve, Margham gate和VHJ2+3P Margham。由Sindbad Gulf Balloons CO LLC提供。"
+  ],
+  "included": [
+   "酒店往返接送",
+   "欢迎饮品（茶、咖啡或水）",
+   "40至70分钟日出热气球飞行",
+   "船上无线网络",
+   "降落后在贝都因营地享用早餐",
+   "短程骆驼骑行"
+  ],
+  "notIncluded": [
+   "完整飞行视频（200迪拉姆）"
+  ]
+ },
+ "dubai-marina-luxury-yacht-party-with-bbq-open-bar": {
+  "title": "迪拜码头豪华游艇派对，含烧烤、开放式酒吧及现场DJ",
+  "metaTitle": "迪拜码头豪华游艇派对，含烧烤、开放式酒吧及现场DJ",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Dubai Marina, Ain Dubai, Jumeirah Beach Residence和Atlantis, Dubai。由Xclusive Yachts提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Dubai Marina, Ain Dubai, Jumeirah Beach Residence和Atlantis, Dubai。由Xclusive Yachts提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Dubai Marina, Ain Dubai, Jumeirah Beach Residence和Atlantis, Dubai。全程共4站。\n\n行程顺序为Dubai Marina, 然后 Ain Dubai, 然后 Jumeirah Beach Residence, 然后 Atlantis, Dubai。\n\n价格包含4小时游船派对、无限畅饮饮品、船上供应烧烤迷你汉堡及烤串、现场DJ。不包含酒店往返接送，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Dubai Marina, Ain Dubai, Jumeirah Beach Residence和Atlantis, Dubai。由Xclusive Yachts提供。"
+  ],
+  "included": [
+   "4小时游船派对",
+   "无限畅饮饮品",
+   "船上供应烧烤迷你汉堡及烤串",
+   "现场DJ"
+  ],
+  "notIncluded": [
+   "酒店往返接送"
+  ]
+ },
  "dubais-best-fishing-charter-no-fish-no-pay": {
   "title": "迪拜最佳钓鱼包船，无鱼不收费！",
   "metaTitle": "迪拜最佳钓鱼包船，无鱼不收费！",
@@ -22849,23 +25050,123 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "dubai-palm-jumeirah-luxury-private-yacht-tour": {
+  "title": "迪拜：棕榈岛豪华私人游艇游览",
+  "metaTitle": "迪拜：棕榈岛豪华私人游艇游览",
+  "metaDescription": "一次1小时的迪拜体验。从迪拜出发，在海上开启属于自己的冒险巡游。由Sea Escape DXB提供。",
+  "shortDescription": "一次1小时的迪拜体验。从迪拜出发，在海上开启属于自己的冒险巡游。由Sea Escape DXB提供。",
+  "fullDescription": "一次1小时的迪拜体验。从迪拜出发，在海上开启属于自己的冒险巡游。\n\n由Sea Escape DXB负责安排，价格中含6项内容。可免费取消。\n\n价格包含乘船游览、水和软饮、冰桶、无线网络。不包含酒店接送、小费，请另行预算。两位旅客共同支付388美元，而不是每人各付388美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "从迪拜出发，在海上开启属于自己的冒险巡游"
+  ],
+  "included": [
+   "乘船游览",
+   "水和软饮",
+   "冰桶",
+   "无线网络"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "小费"
+  ]
+ },
+ "dubai-30-minute-scenic-helicopter-tour": {
+  "title": "迪拜：30分钟风景直升机游览",
+  "metaTitle": "迪拜：30分钟风景直升机游览",
+  "metaDescription": "一次从迪拜出发的0.5小时行程，游览Burj Al Arab, The Palm Jumeirah, Atlantis, Dubai和The World Dubai。由HeliDubai Helicopter Tours提供。",
+  "shortDescription": "一次从迪拜出发的0.5小时行程，游览Burj Al Arab, The Palm Jumeirah, Atlantis, Dubai和The World Dubai。由HeliDubai Helicopter Tours提供。",
+  "fullDescription": "一次从迪拜出发的0.5小时行程，途经Burj Al Arab, The Palm Jumeirah, Atlantis, Dubai和The World Dubai。全程共9站。\n\n行程顺序为Burj Al Arab, 然后 The Palm Jumeirah, 然后 Atlantis, Dubai, 然后 The World Dubai, 然后 Burj Khalifa。\n\n价格包含30分钟直升机游览、飞行员提供的讲解及向导服务、飞越迪拜的风景航拍观光游览。不包含餐食和饮品、返程接送（仅在结账时选择附加项目才含此项）、照片及视频（可购买），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的0.5小时行程，游览Burj Al Arab, The Palm Jumeirah, Atlantis, Dubai和The World Dubai。由HeliDubai Helicopter Tours提供。"
+  ],
+  "included": [
+   "30分钟直升机游览",
+   "飞行员提供的讲解及向导服务",
+   "飞越迪拜的风景航拍观光游览"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "返程接送（仅在结账时选择附加项目才含此项）",
+   "照片及视频（可购买）"
+  ]
+ },
  "abu-dhabi-desert-safari-quad-biking-camel-ride-san": {
   "title": "阿布扎比：沙漠游猎、全地形车、骑骆驼、滑沙及烧烤",
   "metaTitle": "阿布扎比：沙漠游猎、全地形车、骑骆驼、滑沙及烧烤",
   "metaDescription": "一次从阿布扎比出发的半天行程，游览Jeep / SUV, Al Khatim Desert, Al Khatim Desert和Al Khatim Desert。由OceanAir Travels提供。",
   "shortDescription": "一次从阿布扎比出发的半天行程，游览Jeep / SUV, Al Khatim Desert, Al Khatim Desert和Al Khatim Desert。由OceanAir Travels提供。",
-  "fullDescription": "一次从阿布扎比出发的半天行程，途经Jeep / SUV, Al Khatim Desert, Al Khatim Desert和Al Khatim Desert。全程共4站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Al Khatim Desert, 然后 Al Khatim Desert, 然后 Al Khatim Desert。\n\n价格包含酒店往返接送、空调四驱车交通接送、接送车内冰矿泉水、英语持证专业司机。不包含，请另行预算。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Jeep / SUV, Al Khatim Desert, Al Khatim Desert和Al Khatim Desert。全程共4站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Al Khatim Desert, 然后 Al Khatim Desert, 然后 Al Khatim Desert。\n\n价格包含酒店往返接送、空调4x4车交通接送、接送车内冰矿泉水、英语持证专业司机。不包含，请另行预算。",
   "highlights": [
    "一次从阿布扎比出发的半天行程，游览Jeep / SUV, Al Khatim Desert, Al Khatim Desert和Al Khatim Desert。由OceanAir Travels提供。"
   ],
   "included": [
    "酒店往返接送",
-   "空调四驱车交通接送",
+   "空调4x4车交通接送",
    "接送车内冰矿泉水",
    "英语持证专业司机"
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "old-dubai-historic-guided-tour-creek-street-food-s": {
+  "title": "老迪拜历史向导游览：河道、街头美食及市集",
+  "metaTitle": "老迪拜历史向导游览：河道、街头美食及市集",
+  "metaDescription": "一次从迪拜出发的3小时行程，游览Al Khayma Heritage Restaurant, Dubai, Al Seef, Al Fahidi Fort和Bur Dubai Souk Market。由OceanAir Travels提供。",
+  "shortDescription": "一次从迪拜出发的3小时行程，游览Al Khayma Heritage Restaurant, Dubai, Al Seef, Al Fahidi Fort和Bur Dubai Souk Market。由OceanAir Travels提供。",
+  "fullDescription": "一次从迪拜出发的3小时行程，途经Al Khayma Heritage Restaurant, Dubai, Al Seef, Al Fahidi Fort和Bur Dubai Souk Market。全程共8站。\n\n行程顺序为Al Khayma Heritage Restaurant, Dubai (30 min), 然后 Al Seef (30 min), 然后 Al Fahidi Fort (15 min), 然后 Bur Dubai Souk Market (15 min), 然后 Bur Dubai Abra Dock (15 min)。\n\n价格包含导游、文化遗产地及博物馆门票、参观黄金市场、参观香料市场。不包含小费（可选），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的3小时行程，游览Al Khayma Heritage Restaurant, Dubai, Al Seef, Al Fahidi Fort和Bur Dubai Souk Market。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "导游",
+   "文化遗产地及博物馆门票",
+   "参观黄金市场",
+   "参观香料市场"
+  ],
+  "notIncluded": [
+   "小费（可选）"
+  ]
+ },
+ "dubai-platinum-conservation-drive-and-breakfast-at": {
+  "title": "迪拜：白金保护区驾驶及阿尔玛哈早餐",
+  "metaTitle": "迪拜：白金保护区驾驶及阿尔玛哈早餐",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV和Dubai Desert Conservation Reserve。由Platinum Heritage Luxury Tours & Safaris提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV和Dubai Desert Conservation Reserve。由Platinum Heritage Luxury Tours & Safaris提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV和Dubai Desert Conservation Reserve。最长的一站是Dubai Desert Conservation Reserve，约1小时。全程共2站。\n\n行程顺序为Jeep / SUV (1h), 然后 Dubai Desert Conservation Reserve (1h)。\n\n价格包含迪拜酒店接送、乘坐路虎卫士的保护区驾驶之旅、参观一座宁静偏远的沙漠湖泊、在阿尔玛哈沙漠度假村享用早餐。不包含照片、小费，请另行预算。两位旅客共同支付1105美元，而不是每人各付1105美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV和Dubai Desert Conservation Reserve。由Platinum Heritage Luxury Tours & Safaris提供。"
+  ],
+  "included": [
+   "迪拜酒店接送",
+   "乘坐路虎卫士的保护区驾驶之旅",
+   "参观一座宁静偏远的沙漠湖泊",
+   "在阿尔玛哈沙漠度假村享用早餐"
+  ],
+  "notIncluded": [
+   "照片",
+   "小费"
+  ]
+ },
+ "dubai-al-ain-garden-city-with-conservation-zoo": {
+  "title": "迪拜出发：阿尔艾因花园城市及野生动物保护园",
+  "metaTitle": "迪拜出发：阿尔艾因花园城市及野生动物保护园",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Al Ain National Museum, Al Ain Camel Market, Jebel Hafeet和Al Ain Zoo。由Funtours Dubai提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Al Ain National Museum, Al Ain Camel Market, Jebel Hafeet和Al Ain Zoo。由Funtours Dubai提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Al Ain National Museum, Al Ain Camel Market, Jebel Hafeet和Al Ain Zoo。全程共4站。\n\n行程顺序为Al Ain National Museum (30 min), 然后 Al Ain Camel Market (30 min), 然后 Jebel Hafeet (30 min), 然后 Al Ain Zoo (40 min)。\n\n价格包含阿尔艾因花园城市一日游、参观哈菲特山及其他景点、接送服务、清凉饮用水。不包含茶点、个人消费、午餐，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Al Ain National Museum, Al Ain Camel Market, Jebel Hafeet和Al Ain Zoo。由Funtours Dubai提供。"
+  ],
+  "included": [
+   "阿尔艾因花园城市一日游",
+   "参观哈菲特山及其他景点",
+   "接送服务",
+   "清凉饮用水"
+  ],
+  "notIncluded": [
+   "茶点",
+   "个人消费",
+   "午餐"
   ]
  },
  "dubai-sightseeing-helicopter-ride-from-the-palm": {
@@ -22884,6 +25185,207 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "酒店往返接送",
    "餐食和饮品"
+  ]
+ },
+ "dubai-heritage-safari-in-vintage-land-rover-with-d": {
+  "title": "迪拜：乘坐复古路虎车文化沙漠之旅，含晚餐",
+  "metaTitle": "迪拜：乘坐复古路虎车文化沙漠之旅，含晚餐",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。由Platinum Heritage Luxury Tours ...",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。由Platinum Heritage Luxury Tours & Safaris提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。最长的一站是Jeep / SUV，约1小时。全程共4站。\n\n行程顺序为Jeep / SUV (1h), 然后 Dubai Desert Conservation Reserve (1h), 然后 Dubai Desert Conservation Reserve (30 min), 然后 Dubai Desert Conservation Reserve。\n\n价格包含乘坐空调车辆的酒店接送、迪拜沙漠保护区内自然观光驾驶，不含冲沙、猎鹰驯养表演、4道式传统晚餐。不包含照片和视频、小费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。由Platinum Heritage Luxury Tours & Safaris提供。"
+  ],
+  "included": [
+   "乘坐空调车辆的酒店接送",
+   "迪拜沙漠保护区内自然观光驾驶，不含冲沙",
+   "猎鹰驯养表演",
+   "4道式传统晚餐"
+  ],
+  "notIncluded": [
+   "照片和视频",
+   "小费"
+  ]
+ },
+ "dubai-premium-red-dune-safari-with-sandboarding-bb": {
+  "title": "迪拜：高级红色沙丘之旅，含滑沙及烧烤",
+  "metaTitle": "迪拜：高级红色沙丘之旅，含滑沙及烧烤",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Lahbab Desert, Jeep / SUV和Lahbab Desert。由BEST VALUE TOURISM LLC提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Lahbab Desert, Jeep / SUV和Lahbab Desert。由BEST VALUE TOURISM LLC提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Lahbab Desert, Jeep / SUV和Lahbab Desert。最长的一站是Lahbab Desert，约1小时。全程共5站。\n\n行程顺序为Jeep / SUV (40 min), 然后 Lahbab Desert (40 min), 然后 Jeep / SUV (15 min), 然后 Lahbab Desert (1h), 然后 Lahbab Desert (30 min)。\n\n价格包含酒店出发的接送、沙漠冲沙、短程骆驼骑行，含拍照机会、海娜彩绘。不包含酒精饮品、沙漠越野车、沙滩摩托车（如选择该选项则含此项），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV, Lahbab Desert, Jeep / SUV和Lahbab Desert。由BEST VALUE TOURISM LLC提供。"
+  ],
+  "included": [
+   "酒店出发的接送",
+   "沙漠冲沙",
+   "短程骆驼骑行，含拍照机会",
+   "海娜彩绘"
+  ],
+  "notIncluded": [
+   "酒精饮品",
+   "沙漠越野车",
+   "沙滩摩托车（如选择该选项则含此项）"
+  ]
+ },
+ "from-abu-dhabi-grand-mosque-royal-palace-and-etiha": {
+  "title": "阿布扎比出发：大清真寺、王宫及阿提哈德大厦",
+  "metaTitle": "阿布扎比出发：大清真寺、王宫及阿提哈德大厦",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Qasr Al Watan和Louvre Abu Dhabi。由OceanAir Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Qasr Al Watan和Louvre Abu Dhabi。由OceanAir Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Qasr Al Watan和Louvre Abu Dhabi。全程共5站。\n\n行程顺序为Sheikh Zayed Mosque, 然后 The Corniche, Abu Dhabi (10 min), 然后 Qasr Al Watan, 然后 Louvre Abu Dhabi (15 min), 然后 Etihad Towers (30 min)。\n\n价格包含往返接送、乘坐空调现代化车辆出行、持证导游、谢赫扎耶德大清真寺参观。不包含上述内容之外的任何额外服务或费用，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Qasr Al Watan和Louvre Abu Dhabi。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "往返接送",
+   "乘坐空调现代化车辆出行",
+   "持证导游",
+   "谢赫扎耶德大清真寺参观"
+  ],
+  "notIncluded": [
+   "上述内容之外的任何额外服务或费用"
+  ]
+ },
+ "dubai-old-modern-guided-half-day-city-tour": {
+  "title": "迪拜：新老城区半日向导游览",
+  "metaTitle": "迪拜：新老城区半日向导游览",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Burj Al Arab, Museum of the Future, Al Farooq Omar Bin Al Khattab Mosque和Dubai Gold Souk。由Venezia Tourism - Dubai提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Burj Al Arab, Museum of the Future, Al Farooq Omar Bin Al Khattab Mosque和Dubai Gold Souk。由Venezia Tourism - Dubai提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Burj Al Arab, Museum of the Future, Al Farooq Omar Bin Al Khattab Mosque和Dubai Gold Souk。全程共8站。\n\n行程顺序为Burj Al Arab (15 min), 然后 Museum of the Future (15 min), 然后 Al Farooq Omar Bin Al Khattab Mosque (30 min), 然后 Dubai Gold Souk (30 min), 然后 Dubai Spice Souk (30 min)。\n\n价格包含酒店往返接送、乘坐空调车辆出行、导游、蓝色清真寺门票。不包含小费（可选），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Burj Al Arab, Museum of the Future, Al Farooq Omar Bin Al Khattab Mosque和Dubai Gold Souk。由Venezia Tourism - Dubai提供。"
+  ],
+  "included": [
+   "酒店往返接送",
+   "乘坐空调车辆出行",
+   "导游",
+   "蓝色清真寺门票"
+  ],
+  "notIncluded": [
+   "小费（可选）"
+  ]
+ },
+ "mosque-sightseeing-guided-tour": {
+  "title": "迪拜出发：阿布扎比城市观光及谢赫扎耶德清真寺",
+  "metaTitle": "迪拜出发：阿布扎比城市观光及谢赫扎耶德清真寺",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Louvre Abu Dhabi和The Founder's Memorial, Abu Dhabi。由OceanAir Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Louvre Abu Dhabi和The Founder's Memorial, Abu Dhabi。由OceanAir Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Louvre Abu Dhabi和The Founder's Memorial, Abu Dhabi。全程共7站。\n\n行程顺序为Sheikh Zayed Mosque, 然后 The Corniche, Abu Dhabi (10 min), 然后 Louvre Abu Dhabi (15 min), 然后 The Founder's Memorial, Abu Dhabi (30 min), 然后 Etihad Towers (10 min)。\n\n价格包含迪拜出发的接送、空调车辆接送、专业摄影（如选择该选项）、谢赫扎耶德清真寺门票。不包含阿联酋宫殿酒店或阿提哈德大厦门票费用、午餐、小费，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Louvre Abu Dhabi和The Founder's Memorial, Abu Dhabi。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "迪拜出发的接送",
+   "空调车辆接送",
+   "专业摄影（如选择该选项）",
+   "谢赫扎耶德清真寺门票"
+  ],
+  "notIncluded": [
+   "阿联酋宫殿酒店或阿提哈德大厦门票费用",
+   "午餐",
+   "小费"
+  ]
+ },
+ "dubai-overnight-safari-dinner-stargazing-al-khayma": {
+  "title": "迪拜：过夜沙漠之旅，含晚餐、观星及阿尔海玛营地",
+  "metaTitle": "迪拜：过夜沙漠之旅，含晚餐、观星及阿尔海玛营地",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Lahbab Desert, Al Khayma Desert Camp和Al Khayma Desert Camp。由OceanAir Travels提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Lahbab Desert, Al Khayma Desert Camp和Al Khayma Desert Camp。由OceanAir Travels提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Lahbab Desert, Al Khayma Desert Camp和Al Khayma Desert Camp。全程共3站。\n\n行程顺序为Lahbab Desert, 然后 Al Khayma Desert Camp, 然后 Al Khayma Desert Camp。\n\n价格包含乘坐空调4x4车的酒店接送、沙漠向导、沙丘体验（30至45分钟）、滑沙。不包含含酒精饮品、沙滩摩托车/沙漠越野车活动（可选），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Lahbab Desert, Al Khayma Desert Camp和Al Khayma Desert Camp。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "乘坐空调4x4车的酒店接送",
+   "沙漠向导",
+   "沙丘体验（30至45分钟）",
+   "滑沙"
+  ],
+  "notIncluded": [
+   "含酒精饮品",
+   "沙滩摩托车/沙漠越野车活动（可选）"
+  ]
+ },
+ "dubai-adventure-quad-bike-safari-camel-ride-refres": {
+  "title": "迪拜：沙滩摩托车冒险之旅，含骆驼骑行及茶点",
+  "metaTitle": "迪拜：沙滩摩托车冒险之旅，含骆驼骑行及茶点",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Red Dunes Desert Safari, Dubai和Lahbab Desert。由OceanAir Travels提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Red Dunes Desert Safari, Dubai和Lahbab Desert。由OceanAir Travels提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Red Dunes Desert Safari, Dubai和Lahbab Desert。全程共3站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Red Dunes Desert Safari, Dubai (30 min), 然后 Lahbab Desert。\n\n价格包含酒店往返接送、乘坐空调车辆的拼车交通、沙滩摩托车、燃油及头盔、60分钟沙滩摩托车骑行、经验丰富的教练、滑沙。不包含4x4车沙漠冲沙（除非选择其他选项），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV, Red Dunes Desert Safari, Dubai和Lahbab Desert。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "酒店往返接送",
+   "乘坐空调车辆的拼车交通",
+   "沙滩摩托车、燃油及头盔",
+   "60分钟沙滩摩托车骑行",
+   "经验丰富的教练",
+   "滑沙"
+  ],
+  "notIncluded": [
+   "4x4车沙漠冲沙（除非选择其他选项）"
+  ]
+ },
+ "dubai-luxury-balloon-flight-with-michelin-curated-": {
+  "title": "迪拜：豪华热气球飞行，含米其林精选早餐",
+  "metaTitle": "迪拜：豪华热气球飞行，含米其林精选早餐",
+  "metaDescription": "一次半天的迪拜体验。乘坐现代路虎卫士前往沙漠，享受旅程。由Balloon Adventures Dubai提供。",
+  "shortDescription": "一次半天的迪拜体验。乘坐现代路虎卫士前往沙漠，享受旅程。由Balloon Adventures Dubai提供。",
+  "fullDescription": "一次半天的迪拜体验。乘坐现代路虎卫士前往沙漠，享受旅程。\n\n由Balloon Adventures Dubai负责安排，价格中含6项内容。可免费取消。\n\n价格包含迪拜接送、热气球飞行员安全讲解、约1小时日出热气球飞行、飞行中的猎鹰展示及讲述人。不包含照片及视频、小费，请另行预算。",
+  "highlights": [
+   "乘坐现代路虎卫士前往沙漠，享受旅程"
+  ],
+  "included": [
+   "迪拜接送",
+   "热气球飞行员安全讲解",
+   "约1小时日出热气球飞行",
+   "飞行中的猎鹰展示及讲述人"
+  ],
+  "notIncluded": [
+   "照片及视频",
+   "小费"
+  ]
+ },
+ "dubai-marina-dinner-cruise-with-buffet-live-entert": {
+  "title": "迪拜码头晚餐巡游，含自助餐及现场表演",
+  "metaTitle": "迪拜码头晚餐巡游，含自助餐及现场表演",
+  "metaDescription": "一次2小时的迪拜体验。品尝丰富多样的美味自助晚餐。由The Royal Vision Floating Restaurant提供。",
+  "shortDescription": "一次2小时的迪拜体验。品尝丰富多样的美味自助晚餐。由The Royal Vision Floating Restaurant提供。",
+  "fullDescription": "一次2小时的迪拜体验。品尝丰富多样的美味自助晚餐。\n\n由The Royal Vision Floating Restaurant负责安排，价格中含8项内容。可免费取消。\n\n价格包含2小时迪拜码头巡游、欢迎饮品（阿拉伯咖啡）及椰枣、无限畅饮水及软饮、欧陆及阿拉伯自助晚餐（含素食及非素食）。不包含含酒精饮品，请另行预算。",
+  "highlights": [
+   "品尝丰富多样的美味自助晚餐"
+  ],
+  "included": [
+   "2小时迪拜码头巡游",
+   "欢迎饮品（阿拉伯咖啡）及椰枣",
+   "无限畅饮水及软饮",
+   "欧陆及阿拉伯自助晚餐（含素食及非素食）"
+  ],
+  "notIncluded": [
+   "含酒精饮品"
+  ]
+ },
+ "dubai-red-dunes-desert-safari-with-bbq-dinner-live": {
+  "title": "迪拜：红色沙丘沙漠之旅，含烧烤晚餐及现场表演",
+  "metaTitle": "迪拜：红色沙丘沙漠之旅，含烧烤晚餐及现场表演",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Sharjah, Dubai和Dubai。由Noble Life提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Sharjah, Dubai和Dubai。由Noble Life提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Sharjah, Dubai和Dubai。最长的一站是Dubai，约3小时。全程共4站。\n\n行程顺序为Jeep / SUV (1h), 然后 Sharjah (30 min), 然后 Dubai, 然后 Dubai (3h)。\n\n价格包含仅列出您所选套餐中实际包含的项目：、迪拜接送、乘坐4x4车出行、沙漠之旅。不包含沙滩摩托车（除非所选选项已包含）、沙漠越野车、含酒精饮品，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV, Sharjah, Dubai和Dubai。由Noble Life提供。"
+  ],
+  "included": [
+   "仅列出您所选套餐中实际包含的项目：",
+   "迪拜接送",
+   "乘坐4x4车出行",
+   "沙漠之旅"
+  ],
+  "notIncluded": [
+   "沙滩摩托车（除非所选选项已包含）",
+   "沙漠越野车",
+   "含酒精饮品"
   ]
  },
  "dubai-fountain-boardwalk-experience-with-gmc-yukon": {
@@ -22922,6 +25424,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "abu-dhabi-national-aquarium-tickets-with-private-g": {
+  "title": "阿布扎比：国家水族馆门票，含私人GMC Yukon接送",
+  "metaTitle": "阿布扎比：国家水族馆门票，含私人GMC Yukon接送",
+  "metaDescription": "一次全天的阿布扎比体验。乘坐私人接送探索阿布扎比国家水族馆。由HARBOR TOURISM LLC提供。",
+  "shortDescription": "一次全天的阿布扎比体验。乘坐私人接送探索阿布扎比国家水族馆。由HARBOR TOURISM LLC提供。",
+  "fullDescription": "一次全天的阿布扎比体验。乘坐私人接送探索阿布扎比国家水族馆。\n\n由HARBOR TOURISM LLC负责安排，价格中含8项内容。可免费取消。\n\n价格包含门到门接送服务、豪华GMC Yukon XL座驾、专业制服司机、燃油及萨利克道路通行费。不包含食品及饮品，请另行预算。两位旅客共同支付719美元，而不是每人各付670美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "乘坐私人接送探索阿布扎比国家水族馆"
+  ],
+  "included": [
+   "门到门接送服务",
+   "豪华GMC Yukon XL座驾",
+   "专业制服司机",
+   "燃油及萨利克道路通行费"
+  ],
+  "notIncluded": [
+   "食品及饮品"
   ]
  },
  "dubai-garden-glow-ticket-with-private-gmc-yukon-tr": {
@@ -22964,6 +25485,48 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "abu-dhabiheritageculture-with-natural-historical-m": {
+  "title": "阿布扎比：历史文化与自然历史博物馆之旅",
+  "metaTitle": "阿布扎比：历史文化与自然历史博物馆之旅",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, Emirates Heritage Village, Corniche Beach和Abu Dhabi Dates Market。由Marib tour提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, Emirates Heritage Village, Corniche Beach和Abu Dhabi Dates Market。由Marib tour提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Sheikh Zayed Mosque, Emirates Heritage Village, Corniche Beach和Abu Dhabi Dates Market。最长的一站是Sheikh Zayed Mosque，约2小时。全程共5站。\n\n行程顺序为Sheikh Zayed Mosque (2h), 然后 Emirates Heritage Village, 然后 Corniche Beach, 然后 Abu Dhabi Dates Market, 然后 Louvre Abu Dhabi (1h)。\n\n价格包含拼车往返接送、从迪拜出发的酒店接送、卢浮宫拍照点、空调车。不包含餐食和饮品、法拉利世界门票、个人消费，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, Emirates Heritage Village, Corniche Beach和Abu Dhabi Dates Market。由Marib tour提供。"
+  ],
+  "included": [
+   "拼车往返接送",
+   "从迪拜出发的酒店接送",
+   "卢浮宫拍照点",
+   "空调车"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "法拉利世界门票",
+   "个人消费"
+  ]
+ },
+ "abu-dhabi-private-4-hour-layover-city-tour": {
+  "title": "阿布扎比：私人4小时中转城市游览",
+  "metaTitle": "阿布扎比：私人4小时中转城市游览",
+  "metaDescription": "一次半天的阿布扎比体验。在4小时中转游览中探索阿布扎比精华景点。由ARABIAN EXPLORE TOURS AND TRAVELS LLC提供。",
+  "shortDescription": "一次半天的阿布扎比体验。在4小时中转游览中探索阿布扎比精华景点。由ARABIAN EXPLORE TOURS AND TRAVELS LLC提供。",
+  "fullDescription": "一次半天的阿布扎比体验。在4小时中转游览中探索阿布扎比精华景点。\n\n由ARABIAN EXPLORE TOURS AND TRAVELS LLC负责安排，价格中含10项内容。可免费取消。\n\n价格包含谢赫扎耶德大清真寺参观、传统村落参观、椰枣市场参观、阿联酋宫殿酒店拍照停留。不包含餐食和饮品、未提及景点的门票费用、谢赫扎耶德大清真寺向导夜间参观门票费用：每人20迪拉姆（如适用），请另行预算。两位旅客共同支付231美元，而不是每人各付208美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在4小时中转游览中探索阿布扎比精华景点"
+  ],
+  "included": [
+   "谢赫扎耶德大清真寺参观",
+   "传统村落参观",
+   "椰枣市场参观",
+   "阿联酋宫殿酒店拍照停留"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "未提及景点的门票费用",
+   "谢赫扎耶德大清真寺向导夜间参观门票费用：每人20迪拉姆（如适用）"
+  ]
+ },
  "abu-dhabi-al-forsan-karting-experience": {
   "title": "阿布扎比：Al Forsan卡丁车体验",
   "metaTitle": "阿布扎比：Al Forsan卡丁车体验",
@@ -22980,6 +25543,86 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐食和饮品",
    "酒店往返接送"
+  ]
+ },
+ "evening-desert-safari-tour-with-dinner-entertainme": {
+  "title": "夜间沙漠之旅，含晚餐及娱乐表演",
+  "metaTitle": "夜间沙漠之旅，含晚餐及娱乐表演",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Campsite。由OceanAir Travels提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Campsite。由OceanAir Travels提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Campsite。最长的一站是Campsite，约6小时。\n\n价格包含从您所在地点接送、乘坐4x4陆地巡洋舰刺激冲沙、传统骆驼骑行体验、刺激的滑沙冒险。不包含含酒精饮品，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Campsite。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "从您所在地点接送",
+   "乘坐4x4陆地巡洋舰刺激冲沙",
+   "传统骆驼骑行体验",
+   "刺激的滑沙冒险"
+  ],
+  "notIncluded": [
+   "含酒精饮品"
+  ]
+ },
+ "dubai-private-full-day-city-tour-with-guide-driver": {
+  "title": "迪拜：私人全天城市游览，配向导及司机",
+  "metaTitle": "迪拜：私人全天城市游览，配向导及司机",
+  "metaDescription": "一次全天的迪拜体验。在私人全天观光游览中探索新老迪拜。由Yalla Walk tourism提供。",
+  "shortDescription": "一次全天的迪拜体验。在私人全天观光游览中探索新老迪拜。由Yalla Walk tourism提供。",
+  "fullDescription": "一次全天的迪拜体验。在私人全天观光游览中探索新老迪拜。\n\n由Yalla Walk tourism负责安排，价格中含12项内容。可免费取消。\n\n价格包含私人全天游览，最多6位客人、私人空调车辆、私人司机、专业导游。不包含景点门票、迪拜之框门票、哈利法塔门票，请另行预算。两位旅客共同支付683美元，而不是每人各付683美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在私人全天观光游览中探索新老迪拜"
+  ],
+  "included": [
+   "私人全天游览，最多6位客人",
+   "私人空调车辆",
+   "私人司机",
+   "专业导游"
+  ],
+  "notIncluded": [
+   "景点门票",
+   "迪拜之框门票",
+   "哈利法塔门票"
+  ]
+ },
+ "from-dubai-al-ain-private-guided-tour": {
+  "title": "迪拜出发：阿尔艾因私人向导游览",
+  "metaTitle": "迪拜出发：阿尔艾因私人向导游览",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览Jebel Hafeet Mountain, Green Mubazzarah, Al Ain National Museum和Al Ain Camel Market。由TravelExpert提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览Jebel Hafeet Mountain, Green Mubazzarah, Al Ain National Museum和Al Ain Camel Market。由TravelExpert提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Jebel Hafeet Mountain, Green Mubazzarah, Al Ain National Museum和Al Ain Camel Market。最长的一站是Jebel Hafeet Mountain，约1小时。全程共4站。\n\n行程顺序为Jebel Hafeet Mountain (1h), 然后 Green Mubazzarah (1h), 然后 Al Ain National Museum (1h), 然后 Al Ain Camel Market (1h)。\n\n价格包含阿尔艾因私人观光游览、专业英语向导、舒适的私人交通、按您的兴趣灵活安排行程。不包含餐食、景点门票费用、不包含*，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览Jebel Hafeet Mountain, Green Mubazzarah, Al Ain National Museum和Al Ain Camel Market。由TravelExpert提供。"
+  ],
+  "included": [
+   "阿尔艾因私人观光游览",
+   "专业英语向导",
+   "舒适的私人交通",
+   "按您的兴趣灵活安排行程"
+  ],
+  "notIncluded": [
+   "餐食",
+   "景点门票费用",
+   "不包含*"
+  ]
+ },
+ "dubai-the-view-at-palm-tickets-with-gmc-yukon": {
+  "title": "迪拜：棕榈岛瞭望台门票，含GMC Yukon接送",
+  "metaTitle": "迪拜：棕榈岛瞭望台门票，含GMC Yukon接送",
+  "metaDescription": "一次3小时的迪拜体验。享受便捷的私人接送，前往迪拜棕榈岛瞭望台。由HARBOR TOURISM LLC提供。",
+  "shortDescription": "一次3小时的迪拜体验。享受便捷的私人接送，前往迪拜棕榈岛瞭望台。由HARBOR TOURISM LLC提供。",
+  "fullDescription": "一次3小时的迪拜体验。享受便捷的私人接送，前往迪拜棕榈岛瞭望台。\n\n由HARBOR TOURISM LLC负责安排，价格中含7项内容。可免费取消。\n\n价格包含棕榈岛瞭望台门票、迪拜私人酒店或住所往返接送、私人GMC Yukon XL座驾交通、专业制服司机。不包含餐食和饮品，请另行预算。两位旅客共同支付446美元，而不是每人各付420美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "享受便捷的私人接送，前往迪拜棕榈岛瞭望台"
+  ],
+  "included": [
+   "棕榈岛瞭望台门票",
+   "迪拜私人酒店或住所往返接送",
+   "私人GMC Yukon XL座驾交通",
+   "专业制服司机"
+  ],
+  "notIncluded": [
+   "餐食和饮品"
   ]
  },
  "from-dubai-fujairah-shared-tour-with-driverguide": {
@@ -23001,6 +25644,46 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "dubai-vip-desert-safari-quadbiking-camel-ride-bbq-": {
+  "title": "迪拜：VIP沙漠之旅，含沙滩摩托车、骆驼骑行、烧烤及表演",
+  "metaTitle": "迪拜：VIP沙漠之旅，含沙滩摩托车、骆驼骑行、烧烤及表演",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Lahbab Desert, Lahbab Desert和Al Aweer。由Ramada Group Line提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Lahbab Desert, Lahbab Desert和Al Aweer。由Ramada Group Line提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Lahbab Desert, Lahbab Desert和Al Aweer。最长的一站是Al Aweer，约3小时。全程共3站。\n\n行程顺序为Lahbab Desert (1h), 然后 Lahbab Desert (30 min), 然后 Al Aweer (3h)。\n\n价格包含拉哈巴沙漠沙滩摩托车骑行（30分钟）、现场向导、滑沙、短程骑骆驼，方便拍照录像。不包含个人消费、含酒精饮品、水烟口味选择或桌边服务，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Lahbab Desert, Lahbab Desert和Al Aweer。由Ramada Group Line提供。"
+  ],
+  "included": [
+   "拉哈巴沙漠沙滩摩托车骑行（30分钟）",
+   "现场向导",
+   "滑沙",
+   "短程骑骆驼，方便拍照录像"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "含酒精饮品",
+   "水烟口味选择或桌边服务"
+  ]
+ },
+ "dubai-img-worlds-adventure-tickets-with-gmc-yukon-": {
+  "title": "迪拜：IMG冒险世界乐园门票，含GMC Yukon接送",
+  "metaTitle": "迪拜：IMG冒险世界乐园门票，含GMC Yukon接送",
+  "metaDescription": "一次半天的迪拜体验。享受IMG冒险世界乐园一日游，含门票及私人接送。由HARBOR TOURISM LLC提供。",
+  "shortDescription": "一次半天的迪拜体验。享受IMG冒险世界乐园一日游，含门票及私人接送。由HARBOR TOURISM LLC提供。",
+  "fullDescription": "一次半天的迪拜体验。享受IMG冒险世界乐园一日游，含门票及私人接送。\n\n由HARBOR TOURISM LLC负责安排，价格中含8项内容。可免费取消。\n\n价格包含IMG冒险世界乐园门票、可使用所有游乐设施和景点、迪拜私人酒店或住所往返接送、私人GMC Yukon XL座驾交通。不包含餐食和饮品，请另行预算。两位旅客共同支付527美元，而不是每人各付527美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "享受IMG冒险世界乐园一日游，含门票及私人接送"
+  ],
+  "included": [
+   "IMG冒险世界乐园门票",
+   "可使用所有游乐设施和景点",
+   "迪拜私人酒店或住所往返接送",
+   "私人GMC Yukon XL座驾交通"
+  ],
+  "notIncluded": [
+   "餐食和饮品"
+  ]
+ },
  "abu-dhabi-qasr-al-watan-entry-ticket-private-suv": {
   "title": "阿布扎比：扎耶德宫门票及私人SUV接送",
   "metaTitle": "阿布扎比：扎耶德宫门票及私人SUV接送",
@@ -23017,6 +25700,211 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "餐食"
+  ]
+ },
+ "the-epic-day-tour-for-2-emirates-dubai-abu": {
+  "title": "2个酋长国史诗一日游（迪拜与阿布扎比）",
+  "metaTitle": "2个酋长国史诗一日游（迪拜与阿布扎比）",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Dubai Gold Souk, Al Seef, Dubai Frame和Museum of the Future。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Dubai Gold Souk, Al Seef, Dubai Frame和Museum of the Future。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Dubai Gold Souk, Al Seef, Dubai Frame和Museum of the Future。最长的一站是BAPS Hindu Mandir Abu Dhabi，约1小时。全程共15站。\n\n行程顺序为Dubai Gold Souk (20 min), 然后 Al Seef (15 min), 然后 Dubai Frame (15 min), 然后 Museum of the Future (15 min), 然后 Sheikh Zayed Road (10 min)。\n\n价格包含从迪拜及沙迦出发的酒店接送，配司机兼向导、迪拜与阿布扎比全天观光游览、舒适的空调车辆、专业司机兼向导。不包含餐食、景点门票、个人消费，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Dubai Gold Souk, Al Seef, Dubai Frame和Museum of the Future。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。"
+  ],
+  "included": [
+   "从迪拜及沙迦出发的酒店接送，配司机兼向导",
+   "迪拜与阿布扎比全天观光游览",
+   "舒适的空调车辆",
+   "专业司机兼向导"
+  ],
+  "notIncluded": [
+   "餐食",
+   "景点门票",
+   "个人消费"
+  ]
+ },
+ "abu-dhabi-warnerbros-world-entry-ticket-private-su": {
+  "title": "阿布扎比：华纳兄弟世界门票及私人SUV游览",
+  "metaTitle": "阿布扎比：华纳兄弟世界门票及私人SUV游览",
+  "metaDescription": "一次全天的阿布扎比体验。乘坐GMC Yukon享受前往阿布扎比华纳兄弟世界的私人接送。由HARBOR TOURISM LLC提供。",
+  "shortDescription": "一次全天的阿布扎比体验。乘坐GMC Yukon享受前往阿布扎比华纳兄弟世界的私人接送。由HARBOR TOURISM LLC提供。",
+  "fullDescription": "一次全天的阿布扎比体验。乘坐GMC Yukon享受前往阿布扎比华纳兄弟世界的私人接送。\n\n由HARBOR TOURISM LLC负责安排，价格中含9项内容。可免费取消。\n\n价格包含阿布扎比华纳兄弟世界门票、乘坐高端GMC Yukon的私人交通、酒店或住所接送往返、多种精彩游乐设施。不包含餐食和饮品、个人消费、纪念品，请另行预算。两位旅客共同支付1198美元，而不是每人各付952美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "乘坐GMC Yukon享受前往阿布扎比华纳兄弟世界的私人接送"
+  ],
+  "included": [
+   "阿布扎比华纳兄弟世界门票",
+   "乘坐高端GMC Yukon的私人交通",
+   "酒店或住所接送往返",
+   "多种精彩游乐设施"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "个人消费",
+   "纪念品"
+  ]
+ },
+ "from-dubai-abu-dhabi-city-tour-with-optional-lunch": {
+  "title": "迪拜出发：阿布扎比城市游览，可选含午餐",
+  "metaTitle": "迪拜出发：阿布扎比城市游览，可选含午餐",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Abu Dhabi Heritage Village和Emirates Palace。由ARABIAN EXPLORE TOURS AND TRAVELS LLC提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Abu Dhabi Heritage Village和Emirates Palace。由ARABIAN EXPLORE TOURS AND TRAVELS LLC提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Abu Dhabi Heritage Village和Emirates Palace。最长的一站是Sheikh Zayed Mosque，约2小时。全程共9站。\n\n行程顺序为Sheikh Zayed Mosque (2h), 然后 The Corniche, Abu Dhabi (10 min), 然后 Abu Dhabi Heritage Village (45 min), 然后 Emirates Palace (30 min), 然后 Qasr Al Watan (1h)。\n\n价格包含在迪拜您所在地点的接送、持证专业向导、空调车、参观谢赫扎耶德大清真寺。不包含阿尔瓦坦宫内部向导游览、除选择午餐选项外，不含餐食及饮品、男士传统服饰（如需可安排），请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Abu Dhabi Heritage Village和Emirates Palace。由ARABIAN EXPLORE TOURS AND TRAVELS LLC提供。"
+  ],
+  "included": [
+   "在迪拜您所在地点的接送",
+   "持证专业向导",
+   "空调车",
+   "参观谢赫扎耶德大清真寺"
+  ],
+  "notIncluded": [
+   "阿尔瓦坦宫内部向导游览",
+   "除选择午餐选项外，不含餐食及饮品",
+   "男士传统服饰（如需可安排）"
+  ]
+ },
+ "from-dubai-lahbab-desert-dinner-combo-tour-with-gu": {
+  "title": "迪拜出发：拉哈巴沙漠晚餐组合游览，配向导",
+  "metaTitle": "迪拜出发：拉哈巴沙漠晚餐组合游览，配向导",
+  "metaDescription": "一次从阿布扎比出发的3小时行程，游览Jeep / SUV和Lahbab Desert。由TravelExpert提供。",
+  "shortDescription": "一次从阿布扎比出发的3小时行程，游览Jeep / SUV和Lahbab Desert。由TravelExpert提供。",
+  "fullDescription": "一次从阿布扎比出发的3小时行程，途经Jeep / SUV和Lahbab Desert。最长的一站是Lahbab Desert，约5小时。全程共2站。\n\n行程顺序为Jeep / SUV, 然后 Lahbab Desert (5h)。\n\n价格包含酒店往返接送、空调车辆接送、沙漠向导、沙漠飙沙。不包含含酒精饮品、超大尺寸的海娜图案（详见可选附加项目）、私人水烟（详见可选附加项目），请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的3小时行程，游览Jeep / SUV和Lahbab Desert。由TravelExpert提供。"
+  ],
+  "included": [
+   "酒店往返接送",
+   "空调车辆接送",
+   "沙漠向导",
+   "沙漠飙沙"
+  ],
+  "notIncluded": [
+   "含酒精饮品",
+   "超大尺寸的海娜图案（详见可选附加项目）",
+   "私人水烟（详见可选附加项目）"
+  ]
+ },
+ "dubai-traditional-city-tour-with-burj-khalifa": {
+  "title": "迪拜传统城市游览，含哈利法塔",
+  "metaTitle": "迪拜传统城市游览，含哈利法塔",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jumeirah Beach, Jumeirah Mosque, Marjan Islamic Art Gallery- Dubai和Bur Dubai Abra Dock。由DMC Arabia Tourism LLC提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jumeirah Beach, Jumeirah Mosque, Marjan Islamic Art Gallery- Dubai和Bur Dubai Abra Dock。由DMC Arabia Tourism LLC提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jumeirah Beach, Jumeirah Mosque, Marjan Islamic Art Gallery- Dubai和Bur Dubai Abra Dock。全程共7站。\n\n行程顺序为Jumeirah Beach, 然后 Jumeirah Mosque, 然后 Marjan Islamic Art Gallery- Dubai, 然后 Bur Dubai Abra Dock, 然后 Dubai Spice Souk。\n\n价格包含哈利法塔门票（如选择该选项）、乘坐阿布拉渡船横渡迪拜河的费用、现场导游、酒店或地铁站接送。不包含餐食和饮品、个人消费、不含机场接送，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jumeirah Beach, Jumeirah Mosque, Marjan Islamic Art Gallery- Dubai和Bur Dubai Abra Dock。由DMC Arabia Tourism LLC提供。"
+  ],
+  "included": [
+   "哈利法塔门票（如选择该选项）",
+   "乘坐阿布拉渡船横渡迪拜河的费用",
+   "现场导游",
+   "酒店或地铁站接送"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "个人消费",
+   "不含机场接送"
+  ]
+ },
+ "private-dubai-marina-yacht-tour-with-optional-bbq": {
+  "title": "迪拜码头私人游艇游览，可选含烧烤",
+  "metaTitle": "迪拜码头私人游艇游览，可选含烧烤",
+  "metaDescription": "一次从迪拜出发的1小时行程，游览Atlantis, Dubai, The World Dubai和Burj Al Arab。由Supernova Yacht提供。",
+  "shortDescription": "一次从迪拜出发的1小时行程，游览Atlantis, Dubai, The World Dubai和Burj Al Arab。由Supernova Yacht提供。",
+  "fullDescription": "一次从迪拜出发的1小时行程，途经Atlantis, Dubai, The World Dubai和Burj Al Arab。全程共3站。\n\n行程顺序为Atlantis, Dubai, 然后 The World Dubai, 然后 Burj Al Arab。\n\n价格包含设施齐全的迷你游艇、豪华游艇巡游、远离城市的私人巡游与放松时光、专业船长及经验丰富的船员。不包含酒店往返接送，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1小时行程，游览Atlantis, Dubai, The World Dubai和Burj Al Arab。由Supernova Yacht提供。"
+  ],
+  "included": [
+   "设施齐全的迷你游艇",
+   "豪华游艇巡游",
+   "远离城市的私人巡游与放松时光",
+   "专业船长及经验丰富的船员"
+  ],
+  "notIncluded": [
+   "酒店往返接送"
+  ]
+ },
+ "dubai-city-tour-with-burj-khalifa-dubai-mall-boat": {
+  "title": "迪拜：城市游览，含哈利法塔、迪拜购物中心及乘船游览",
+  "metaTitle": "迪拜：城市游览，含哈利法塔、迪拜购物中心及乘船游览",
+  "metaDescription": "一次全天的迪拜体验。惊叹于世界最高人造建筑哈利法塔。由ARABIAN EXPLORE TOURS AND TRAVELS LLC提供。",
+  "shortDescription": "一次全天的迪拜体验。惊叹于世界最高人造建筑哈利法塔。由ARABIAN EXPLORE TOURS AND TRAVELS LLC提供。",
+  "fullDescription": "一次全天的迪拜体验。惊叹于世界最高人造建筑哈利法塔。\n\n由ARABIAN EXPLORE TOURS AND TRAVELS LLC负责安排，价格中含12项内容。可免费取消。\n\n价格包含码头步道、棕榈岛（门票）、朱美拉阿尔卡斯尔酒店（驾车通行）、阿拉伯塔（拍照点）。不包含哈利法塔门票，请另行预算。",
+  "highlights": [
+   "惊叹于世界最高人造建筑哈利法塔"
+  ],
+  "included": [
+   "码头步道",
+   "棕榈岛（门票）",
+   "朱美拉阿尔卡斯尔酒店（驾车通行）",
+   "阿拉伯塔（拍照点）"
+  ],
+  "notIncluded": [
+   "哈利法塔门票"
+  ]
+ },
+ "abu-dhabi-layover-night-tour-with-airport-pickup-d": {
+  "title": "阿布扎比：中转夜游，含机场接送",
+  "metaTitle": "阿布扎比：中转夜游，含机场接送",
+  "metaDescription": "一次半天的阿布扎比体验。利用中转时间，参加阿布扎比私人夜游，尽享精彩。由ARABIAN EXPLORE TOURS AND TRAVELS LLC提供。",
+  "shortDescription": "一次半天的阿布扎比体验。利用中转时间，参加阿布扎比私人夜游，尽享精彩。由ARABIAN EXPLORE TOURS AND TRAVELS LLC提供。",
+  "fullDescription": "一次半天的阿布扎比体验。利用中转时间，参加阿布扎比私人夜游，尽享精彩。\n\n由ARABIAN EXPLORE TOURS AND TRAVELS LLC负责安排，价格中含12项内容。可免费取消。\n\n价格包含私人空调车辆、机场接送、专业英语司机向导、谢赫扎耶德大清真寺向导夜间参观。不包含餐食和饮品、个人消费、任何额外景点门票，请另行预算。两位旅客共同支付288美元，而不是每人各付288美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "利用中转时间，参加阿布扎比私人夜游，尽享精彩"
+  ],
+  "included": [
+   "私人空调车辆",
+   "机场接送",
+   "专业英语司机向导",
+   "谢赫扎耶德大清真寺向导夜间参观"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "个人消费",
+   "任何额外景点门票"
+  ]
+ },
+ "from-dubai-abu-dhabi-full-day-tour-with-grand": {
+  "title": "迪拜出发：阿布扎比全天游览，含大清真寺参观",
+  "metaTitle": "迪拜出发：阿布扎比全天游览，含大清真寺参观",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, UAE Presidential Palace, Abu Dhabi和Louvre Abu Dhabi。由OceanAir Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, UAE Presidential Palace, Abu Dhabi和Louvre Abu Dhabi。由OceanAir Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Sheikh Zayed Mosque, UAE Presidential Palace, Abu Dhabi和Louvre Abu Dhabi。最长的一站是Sheikh Zayed Mosque，约2小时。全程共5站。\n\n行程顺序为Sheikh Zayed Mosque (2h), 然后 UAE Presidential Palace (1h), 然后 Abu Dhabi (1h), 然后 Louvre Abu Dhabi (30 min), 然后 Ferrari World Abu Dhabi (30 min)。\n\n价格包含从迪拜出发的酒店接送、空调车辆接送、专业导游、谢赫扎耶德大清真寺参观。不包含午餐和饮品、个人消费、未提及的可选景点门票，请另行预算。两位旅客共同支付1052美元，而不是每人各付1052美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, UAE Presidential Palace, Abu Dhabi和Louvre Abu Dhabi。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "从迪拜出发的酒店接送",
+   "空调车辆接送",
+   "专业导游",
+   "谢赫扎耶德大清真寺参观"
+  ],
+  "notIncluded": [
+   "午餐和饮品",
+   "个人消费",
+   "未提及的可选景点门票"
+  ]
+ },
+ "dubai-evening-luxury-yacht-tour-with-hotel-pickup": {
+  "title": "迪拜：夜间豪华游艇游览，含酒店接送",
+  "metaTitle": "迪拜：夜间豪华游艇游览，含酒店接送",
+  "metaDescription": "一次1小时的迪拜体验。乘坐豪华游艇巡游，欣赏迪拜标志性天际线。由Whats Up Trip - F.Z.E提供。",
+  "shortDescription": "一次1小时的迪拜体验。乘坐豪华游艇巡游，欣赏迪拜标志性天际线。由Whats Up Trip - F.Z.E提供。",
+  "fullDescription": "一次1小时的迪拜体验。乘坐豪华游艇巡游，欣赏迪拜标志性天际线。\n\n由Whats Up Trip - F.Z.E负责安排，价格中含8项内容。可免费取消。\n\n价格包含迪拜酒店出发接送、夜间豪华游艇游览、1小时、2小时或3小时（如选择该选项）、专业船长和船员。不包含送返酒店、小费，请另行预算。",
+  "highlights": [
+   "乘坐豪华游艇巡游，欣赏迪拜标志性天际线"
+  ],
+  "included": [
+   "迪拜酒店出发接送",
+   "夜间豪华游艇游览",
+   "1小时、2小时或3小时（如选择该选项）",
+   "专业船长和船员"
+  ],
+  "notIncluded": [
+   "送返酒店",
+   "小费"
   ]
  },
  "abu-dhabi-guided-speedboat-sightseeing-tour": {
@@ -23039,6 +25927,168 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食和饮品"
   ]
  },
+ "abu-dhabi-private-full-day-city-tour-with-heritage": {
+  "title": "阿布扎比：私人全天城市游览，含传统风味午餐",
+  "metaTitle": "阿布扎比：私人全天城市游览，含传统风味午餐",
+  "metaDescription": "一次全天的阿布扎比体验。参加含酒店接送的向导游览，探索阿布扎比。由Whats Up Trip - F.Z.E提供。",
+  "shortDescription": "一次全天的阿布扎比体验。参加含酒店接送的向导游览，探索阿布扎比。由Whats Up Trip - F.Z.E提供。",
+  "fullDescription": "一次全天的阿布扎比体验。参加含酒店接送的向导游览，探索阿布扎比。\n\n由Whats Up Trip - F.Z.E负责安排，价格中含11项内容。可免费取消。\n\n价格包含从迪拜出发的酒店接送、私人空调交通服务、专业司机向导、谢赫扎耶德大清真寺参观。不包含门票费用、小费，请另行预算。两位旅客共同支付461美元，而不是每人各付461美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "参加含酒店接送的向导游览，探索阿布扎比"
+  ],
+  "included": [
+   "从迪拜出发的酒店接送",
+   "私人空调交通服务",
+   "专业司机向导",
+   "谢赫扎耶德大清真寺参观"
+  ],
+  "notIncluded": [
+   "门票费用",
+   "小费"
+  ]
+ },
+ "from-dubai-ras-al-khaimah-full-day-tour-with": {
+  "title": "迪拜出发：拉斯海玛全天游览，含酒店接送",
+  "metaTitle": "迪拜出发：拉斯海玛全天游览，含酒店接送",
+  "metaDescription": "一次全天的迪拜体验。从迪拜出发的全天游览，含酒店接送，探索拉斯海玛。由Whats Up Trip - F.Z.E提供。",
+  "shortDescription": "一次全天的迪拜体验。从迪拜出发的全天游览，含酒店接送，探索拉斯海玛。由Whats Up Trip - F.Z.E提供。",
+  "fullDescription": "一次全天的迪拜体验。从迪拜出发的全天游览，含酒店接送，探索拉斯海玛。\n\n由Whats Up Trip - F.Z.E负责安排，价格中含7项内容。可免费取消。\n\n价格包含从迪拜出发的酒店接送、私人交通、专业司机向导、瓶装水。不包含餐食、门票费用、个人消费，请另行预算。两位旅客共同支付507美元，而不是每人各付507美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "从迪拜出发的全天游览，含酒店接送，探索拉斯海玛"
+  ],
+  "included": [
+   "从迪拜出发的酒店接送",
+   "私人交通",
+   "专业司机向导",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "餐食",
+   "门票费用",
+   "个人消费"
+  ]
+ },
+ "dubai-marina-guided-sightseeing-tour-by-speedboat": {
+  "title": "迪拜码头：快艇向导观光游览",
+  "metaTitle": "迪拜码头：快艇向导观光游览",
+  "metaDescription": "一次从迪拜出发的0.5小时行程，游览Dubai Marina, Ain Dubai, Jumeirah Beach Residence和The Palm Jumeirah。由The Yellow Boats LLC提供。",
+  "shortDescription": "一次从迪拜出发的0.5小时行程，游览Dubai Marina, Ain Dubai, Jumeirah Beach Residence和The Palm Jumeirah。由The Yellow Boats LLC提供。",
+  "fullDescription": "一次从迪拜出发的0.5小时行程，途经Dubai Marina, Ain Dubai, Jumeirah Beach Residence和The Palm Jumeirah。全程共9站。\n\n行程顺序为Dubai Marina, 然后 Ain Dubai, 然后 Jumeirah Beach Residence, 然后 The Palm Jumeirah, 然后 Atlantis, Dubai。\n\n价格包含快艇游览、私人向导、轻便救生衣、瓶装水。不包含酒店往返接送、食品或饮品，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的0.5小时行程，游览Dubai Marina, Ain Dubai, Jumeirah Beach Residence和The Palm Jumeirah。由The Yellow Boats LLC提供。"
+  ],
+  "included": [
+   "快艇游览",
+   "私人向导",
+   "轻便救生衣",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "酒店往返接送",
+   "食品或饮品"
+  ]
+ },
+ "dubai-photoshoot-experience": {
+  "title": "迪拜：拍摄体验",
+  "metaTitle": "迪拜：拍摄体验",
+  "metaDescription": "一次从迪拜出发的1小时行程，游览The Dubai Mall Heart, Dubai, Dubai Mall Promenade - Fountain Show和BURJ KHALIFA FOUNTAIN SHOW。由Free Spirit Cordoba提供。",
+  "shortDescription": "一次从迪拜出发的1小时行程，游览The Dubai Mall Heart, Dubai, Dubai Mall Promenade - Fountain Show和BURJ KHALIFA FOUNTAIN SHOW。由Free Spirit Cordoba提供。",
+  "fullDescription": "一次从迪拜出发的1小时行程，途经The Dubai Mall Heart, Dubai, Dubai Mall Promenade - Fountain Show和BURJ KHALIFA FOUNTAIN SHOW。全程共5站。\n\n行程顺序为The Dubai Mall Heart (12 min), 然后 Dubai (12 min), 然后 Dubai Mall Promenade - Fountain Show (12 min), 然后 BURJ KHALIFA FOUNTAIN SHOW (12 min), 然后 Dubai Fountain Lake Ride (12 min)。\n\n价格包含专业拍摄、参观5个标志性地点、20张专业精修照片。不包含前往集合点的交通、餐食和饮品，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1小时行程，游览The Dubai Mall Heart, Dubai, Dubai Mall Promenade - Fountain Show和BURJ KHALIFA FOUNTAIN SHOW。由Free Spirit Cordoba提供。"
+  ],
+  "included": [
+   "专业拍摄",
+   "参观5个标志性地点",
+   "20张专业精修照片"
+  ],
+  "notIncluded": [
+   "前往集合点的交通",
+   "餐食和饮品"
+  ]
+ },
+ "dubai-illusion-city-museum-entry-ticket": {
+  "title": "迪拜：幻觉城博物馆门票",
+  "metaTitle": "迪拜：幻觉城博物馆门票",
+  "metaDescription": "一次1小时的迪拜体验。在迪拜幻觉城沉浸于光影幻境的世界。由Illusion City Dubai提供。",
+  "shortDescription": "一次1小时的迪拜体验。在迪拜幻觉城沉浸于光影幻境的世界。由Illusion City Dubai提供。",
+  "fullDescription": "一次1小时的迪拜体验。在迪拜幻觉城沉浸于光影幻境的世界。\n\n由Illusion City Dubai负责安排，价格中含5项内容。可免费取消。\n\n价格包含可进入30多个幻觉展厅及自拍区、免费使用所有拍照点及道具、现场友好的主持人协助您布置每个幻觉场景、全馆免费无线网络。不包含餐食和饮品、往返场地的交通、停车费，请另行预算。",
+  "highlights": [
+   "在迪拜幻觉城沉浸于光影幻境的世界"
+  ],
+  "included": [
+   "可进入30多个幻觉展厅及自拍区",
+   "免费使用所有拍照点及道具",
+   "现场友好的主持人协助您布置每个幻觉场景",
+   "全馆免费无线网络"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "往返场地的交通",
+   "停车费"
+  ]
+ },
+ "dubai-desert-safari-camel-ride-sandboarding-dune-b": {
+  "title": "迪拜：沙漠之旅，含骆驼骑行、滑沙及沙漠越野车",
+  "metaTitle": "迪拜：沙漠之旅，含骆驼骑行、滑沙及沙漠越野车",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Red Dunes Desert Safari, Dubai, Lahbab Desert, Lahbab Desert和Red Dunes Desert Safari, Dubai。由Excursion Point Tourism提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Red Dunes Desert Safari, Dubai, Lahbab Desert, Lahbab Desert和Red Dunes Desert Safari, Dubai。由Excursion Point Tourism提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Red Dunes Desert Safari, Dubai, Lahbab Desert, Lahbab Desert和Red Dunes Desert Safari, Dubai。全程共4站。\n\n行程顺序为Red Dunes Desert Safari, Dubai (40 min), 然后 Lahbab Desert (15 min), 然后 Lahbab Desert (30 min), 然后 Red Dunes Desert Safari, Dubai (10 min)。\n\n价格包含酒店往返接送、1小时吉普车红色沙丘冲沙、15分钟滑沙体验、30分钟自驾沙漠越野车骑行（如选择该选项）。不包含酒精饮品（可购买）、纪念照片（可购买）、小费（可选），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Red Dunes Desert Safari, Dubai, Lahbab Desert, Lahbab Desert和Red Dunes Desert Safari, Dubai。由Excursion Point Tourism提供。"
+  ],
+  "included": [
+   "酒店往返接送",
+   "1小时吉普车红色沙丘冲沙",
+   "15分钟滑沙体验",
+   "30分钟自驾沙漠越野车骑行（如选择该选项）"
+  ],
+  "notIncluded": [
+   "酒精饮品（可购买）",
+   "纪念照片（可购买）",
+   "小费（可选）"
+  ]
+ },
+ "abu-dhabi-private-romantic-dune-dinner-with-pickup": {
+  "title": "阿布扎比：私人浪漫沙丘晚餐，含接送",
+  "metaTitle": "阿布扎比：私人浪漫沙丘晚餐，含接送",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Jeep / SUV, AlKhazna-DesertBowl, AlKhazna-DesertBowl和Imperial Borj。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Jeep / SUV, AlKhazna-DesertBowl, AlKhazna-DesertBowl和Imperial Borj。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Jeep / SUV, AlKhazna-DesertBowl, AlKhazna-DesertBowl和Imperial Borj。最长的一站是Jeep / SUV，约1小时。全程共6站。\n\n行程顺序为Jeep / SUV (1h), 然后 AlKhazna-DesertBowl (40 min), 然后 AlKhazna-DesertBowl (20 min), 然后 Imperial Borj (30 min), 然后 Jeep / SUV (30 min)。\n\n价格包含私人4x4车接送、专业司机、沙丘驾驶体验、私人浪漫布置。不包含包含项目中未提及的任何项目或服务，请另行预算。两位旅客共同支付1519美元，而不是每人各付1519美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Jeep / SUV, AlKhazna-DesertBowl, AlKhazna-DesertBowl和Imperial Borj。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。"
+  ],
+  "included": [
+   "私人4x4车接送",
+   "专业司机",
+   "沙丘驾驶体验",
+   "私人浪漫布置"
+  ],
+  "notIncluded": [
+   "包含项目中未提及的任何项目或服务"
+  ]
+ },
+ "dubai-self-drive-water-experience-with-photos-musi": {
+  "title": "迪拜：自驾水上体验，含照片及音乐",
+  "metaTitle": "迪拜：自驾水上体验，含照片及音乐",
+  "metaDescription": "一次1小时的迪拜体验。自驾水上体验，伴随音乐及天际线景观。由Friends of Georgia提供。",
+  "shortDescription": "一次1小时的迪拜体验。自驾水上体验，伴随音乐及天际线景观。由Friends of Georgia提供。",
+  "fullDescription": "一次1小时的迪拜体验。自驾水上体验，伴随音乐及天际线景观。\n\n由Friends of Georgia负责安排，价格中含8项内容。可免费取消。\n\n价格包含专业当地主持人、自驾水上体验、安全讲解及介绍、救生衣（强制安全装备）。不包含个人消费、酒店接送（指定区域以外）、餐食和饮品，请另行预算。两位旅客共同支付674美元，而不是每人各付423美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "自驾水上体验，伴随音乐及天际线景观"
+  ],
+  "included": [
+   "专业当地主持人",
+   "自驾水上体验",
+   "安全讲解及介绍",
+   "救生衣（强制安全装备）"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "酒店接送（指定区域以外）",
+   "餐食和饮品"
+  ]
+ },
  "dubai-self-drive-boat-tour-in-creek-harbour-5": {
   "title": "迪拜：小溪港自驾船只之旅（5人）",
   "metaTitle": "迪拜：小溪港自驾船只之旅（5人）",
@@ -23056,6 +26106,46 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "套餐不含餐饮，但您可自行携带食物及非酒精饮品"
+  ]
+ },
+ "love-lake-flamingo-lake-experience-dubai": {
+  "title": "迪拜爱心湖与火烈鸟湖体验",
+  "metaTitle": "迪拜爱心湖与火烈鸟湖体验",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Al Qudra Lake, United Arab Emirates, Love Lake - Al Qudra和Flamingo Lake。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Al Qudra Lake, United Arab Emirates, Love Lake - Al Qudra和Flamingo Lake。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Al Qudra Lake, United Arab Emirates, Love Lake - Al Qudra和Flamingo Lake。最长的一站是Love Lake - Al Qudra，约1小时。全程共3站。\n\n行程顺序为Al Qudra Lake, United Arab Emirates (45 min), 然后 Love Lake - Al Qudra (1h), 然后 Flamingo Lake (1h)。\n\n价格包含往返接送、专业司机/向导、参观火烈鸟湖、参观爱心湖。不包含包含项目中未提及的内容均不含在内，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Al Qudra Lake, United Arab Emirates, Love Lake - Al Qudra和Flamingo Lake。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。"
+  ],
+  "included": [
+   "往返接送",
+   "专业司机/向导",
+   "参观火烈鸟湖",
+   "参观爱心湖"
+  ],
+  "notIncluded": [
+   "包含项目中未提及的内容均不含在内"
+  ]
+ },
+ "abu-dhabi-guided-street-food-tastings-tour": {
+  "title": "阿布扎比向导街头美食品鉴游览",
+  "metaTitle": "阿布扎比向导街头美食品鉴游览",
+  "metaDescription": "一次2小时的阿布扎比体验。在向导街头美食游览中品味阿布扎比的风味。由Tours By Emirati提供。",
+  "shortDescription": "一次2小时的阿布扎比体验。在向导街头美食游览中品味阿布扎比的风味。由Tours By Emirati提供。",
+  "fullDescription": "一次2小时的阿布扎比体验。在向导街头美食游览中品味阿布扎比的风味。\n\n由Tours By Emirati负责安排，价格中含9项内容。可免费取消。\n\n价格包含七个站点的街头美食品鉴、参观艾尔霍森宫区域、参观文化基金会、参观哈利迪亚区。不包含前往出发点的交通（可按需提供）、个人消费、小费，请另行预算。两位旅客共同支付361美元，而不是每人各付361美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在向导街头美食游览中品味阿布扎比的风味"
+  ],
+  "included": [
+   "七个站点的街头美食品鉴",
+   "参观艾尔霍森宫区域",
+   "参观文化基金会",
+   "参观哈利迪亚区"
+  ],
+  "notIncluded": [
+   "前往出发点的交通（可按需提供）",
+   "个人消费",
+   "小费"
   ]
  },
  "dubai-al-hadheerah-desert-dinner-live-show": {
@@ -23077,6 +26167,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "abu-dhabi-sunrise-camel-desert-safari-with-breakfa": {
+  "title": "阿布扎比：日出骆驼沙漠之旅，含早餐",
+  "metaTitle": "阿布扎比：日出骆驼沙漠之旅，含早餐",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览Jeep / SUV, Al Khatim Desert和Jeep / SUV。由Extreme Tourism LLC - Abu Dhabi提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览Jeep / SUV, Al Khatim Desert和Jeep / SUV。由Extreme Tourism LLC - Abu Dhabi提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Jeep / SUV, Al Khatim Desert和Jeep / SUV。最长的一站是Al Khatim Desert，约3小时。全程共3站。\n\n行程顺序为Jeep / SUV (1h), 然后 Al Khatim Desert (3h), 然后 Jeep / SUV (1h)。\n\n价格包含乘坐4x4车（丰田陆地巡洋舰）接送往返、观赏沙漠日出及拍摄沙漠日落照片、45分钟沙漠驾驶及冲沙，由经专业沙漠驾驶训练的司机驾驶4x4车辆、骆驼农场参观。不包含个人消费（如纪念品、酒精饮品等个人购买项目），请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览Jeep / SUV, Al Khatim Desert和Jeep / SUV。由Extreme Tourism LLC - Abu Dhabi提供。"
+  ],
+  "included": [
+   "乘坐4x4车（丰田陆地巡洋舰）接送往返",
+   "观赏沙漠日出及拍摄沙漠日落照片",
+   "45分钟沙漠驾驶及冲沙，由经专业沙漠驾驶训练的司机驾驶4x4车辆",
+   "骆驼农场参观"
+  ],
+  "notIncluded": [
+   "个人消费（如纪念品、酒精饮品等个人购买项目）"
+  ]
+ },
  "abu-dhabi-jet-ski-rental-1-hour": {
   "title": "阿布扎比摩托艇租用1小时",
   "metaTitle": "阿布扎比摩托艇租用1小时",
@@ -23093,6 +26202,271 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "往返接送"
+  ]
+ },
+ "old-dubai-premium-historic-tour-with-breakfast-at-": {
+  "title": "老迪拜：高端历史游览，含阿尔海玛早餐",
+  "metaTitle": "老迪拜：高端历史游览，含阿尔海玛早餐",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Al Khayma Heritage Restaurant, Dubai, Al Seef, Al Fahidi Fort和Bur Dubai Souk Market。由OceanAir Travels提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Al Khayma Heritage Restaurant, Dubai, Al Seef, Al Fahidi Fort和Bur Dubai Souk Market。由OceanAir Travels提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Al Khayma Heritage Restaurant, Dubai, Al Seef, Al Fahidi Fort和Bur Dubai Souk Market。全程共9站。\n\n行程顺序为Al Khayma Heritage Restaurant, Dubai (30 min), 然后 Al Seef (30 min), 然后 Al Fahidi Fort (30 min), 然后 Bur Dubai Souk Market (15 min), 然后 Bur Dubai Abra Dock (15 min)。\n\n价格包含专业导游、在阿尔海玛传统民居享用传统阿联酋早餐托盘套餐、文化遗产地及博物馆门票、参观黄金市场及香料市场。不包含小费（非强制），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Al Khayma Heritage Restaurant, Dubai, Al Seef, Al Fahidi Fort和Bur Dubai Souk Market。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "专业导游",
+   "在阿尔海玛传统民居享用传统阿联酋早餐托盘套餐",
+   "文化遗产地及博物馆门票",
+   "参观黄金市场及香料市场"
+  ],
+  "notIncluded": [
+   "小费（非强制）"
+  ]
+ },
+ "dubai-full-day-desert-safari-wildlife-at-al-marmoo": {
+  "title": "迪拜：全天沙漠之旅，阿尔马尔穆姆绿洲野生动物体验",
+  "metaTitle": "迪拜：全天沙漠之旅，阿尔马尔穆姆绿洲野生动物体验",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Dubai, Al Marmoom Café, Al Marmoom Oasis和Al Marmoom Oasis。由OceanAir Travels提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Dubai, Al Marmoom Café, Al Marmoom Oasis和Al Marmoom Oasis。由OceanAir Travels提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Dubai, Al Marmoom Café, Al Marmoom Oasis和Al Marmoom Oasis。全程共4站。\n\n行程顺序为Dubai, 然后 Al Marmoom Café, 然后 Al Marmoom Oasis, 然后 Al Marmoom Oasis。\n\n价格包含酒店接送、专业沙漠之旅向导、沙漠飙沙和滑沙、可选沙滩摩托车。不包含骑马体验（需额外付费）、儿童小马骑行、未提及的费用，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Dubai, Al Marmoom Café, Al Marmoom Oasis和Al Marmoom Oasis。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "专业沙漠之旅向导",
+   "沙漠飙沙和滑沙",
+   "可选沙滩摩托车"
+  ],
+  "notIncluded": [
+   "骑马体验（需额外付费）",
+   "儿童小马骑行",
+   "未提及的费用"
+  ]
+ },
+ "abu-dhabi-yas-island-self-drive-speedboat-rental": {
+  "title": "阿布扎比：亚斯岛自驾快艇租赁",
+  "metaTitle": "阿布扎比：亚斯岛自驾快艇租赁",
+  "metaDescription": "一次0.5小时的阿布扎比体验。自驾私人快艇环游亚斯岛及阿尔拉哈。由Bayside Water Rides Abu Dhabi提供。",
+  "shortDescription": "一次0.5小时的阿布扎比体验。自驾私人快艇环游亚斯岛及阿尔拉哈。由Bayside Water Rides Abu Dhabi提供。",
+  "fullDescription": "一次0.5小时的阿布扎比体验。自驾私人快艇环游亚斯岛及阿尔拉哈。\n\n由Bayside Water Rides Abu Dhabi负责安排，价格中含8项内容。可免费取消。\n\n价格包含私人自驾快艇、所预订租赁时长内的燃油、完整的安全及驾驶讲解、允许作业区域的说明。不包含酒店往返接送、食品、小吃或餐食，请另行预算。",
+  "highlights": [
+   "自驾私人快艇环游亚斯岛及阿尔拉哈"
+  ],
+  "included": [
+   "私人自驾快艇",
+   "所预订租赁时长内的燃油",
+   "完整的安全及驾驶讲解",
+   "允许作业区域的说明"
+  ],
+  "notIncluded": [
+   "酒店往返接送",
+   "食品、小吃或餐食"
+  ]
+ },
+ "abu-dhabi-5-star-luxury-spa-experience-at-marriott": {
+  "title": "阿布扎比：万豪市中心酒店5星级豪华spa体验",
+  "metaTitle": "阿布扎比：万豪市中心酒店5星级豪华spa体验",
+  "metaDescription": "一次1小时的阿布扎比体验。通过舒缓的芳香疗法或深层组织按摩放松身心。由Soul Senses - Abu Dhabi提供。",
+  "shortDescription": "一次1小时的阿布扎比体验。通过舒缓的芳香疗法或深层组织按摩放松身心。由Soul Senses - Abu Dhabi提供。",
+  "fullDescription": "一次1小时的阿布扎比体验。通过舒缓的芳香疗法或深层组织按摩放松身心。\n\n由Soul Senses - Abu Dhabi负责安排，价格中含6项内容。可免费取消。\n\n价格包含60分钟芳香疗法或深层组织按摩、免费使用蒸汽房及桑拿房、欢迎饮品及按摩后茶点、黑巧克力及干果。不包含交通接送、额外附加项目（面膜、胶原眼膜、头部按摩器、礼品券），请另行预算。",
+  "highlights": [
+   "通过舒缓的芳香疗法或深层组织按摩放松身心"
+  ],
+  "included": [
+   "60分钟芳香疗法或深层组织按摩",
+   "免费使用蒸汽房及桑拿房",
+   "欢迎饮品及按摩后茶点",
+   "黑巧克力及干果"
+  ],
+  "notIncluded": [
+   "交通接送",
+   "额外附加项目（面膜、胶原眼膜、头部按摩器、礼品券）"
+  ]
+ },
+ "abu-dhabi-city-tour-with-russian-or-english-speaki": {
+  "title": "阿布扎比城市游览，配俄语或英语向导",
+  "metaTitle": "阿布扎比城市游览，配俄语或英语向导",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Abu Dhabi。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Abu Dhabi。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Abu Dhabi。最长的一站是Abu Dhabi，约10小时。\n\n价格包含迪拜、沙迦及阿治曼任意市区酒店的接送、如选择俄语，提供持证俄语向导、如选择英语，提供持证英语向导、谢赫扎耶德大清真寺参观、阿布扎比海滨大道、阿拉伯咖啡及椰枣停留点。不包含未提及的餐食、个人消费、小费，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Abu Dhabi。由ARABIAN DESTINATION TOURISM L.L.C提供。"
+  ],
+  "included": [
+   "迪拜、沙迦及阿治曼任意市区酒店的接送",
+   "如选择俄语，提供持证俄语向导",
+   "如选择英语，提供持证英语向导",
+   "谢赫扎耶德大清真寺参观",
+   "阿布扎比海滨大道",
+   "阿拉伯咖啡及椰枣停留点"
+  ],
+  "notIncluded": [
+   "未提及的餐食",
+   "个人消费",
+   "小费"
+  ]
+ },
+ "abu-dhabi-private-photoshoot-at-qasr-al-watan": {
+  "title": "阿布扎比：阿尔瓦坦宫私人拍摄",
+  "metaTitle": "阿布扎比：阿尔瓦坦宫私人拍摄",
+  "metaDescription": "一次1小时的阿布扎比体验。享受专业摄影师的拍摄服务。由YesTours提供。",
+  "shortDescription": "一次1小时的阿布扎比体验。享受专业摄影师的拍摄服务。由YesTours提供。",
+  "fullDescription": "一次1小时的阿布扎比体验。享受专业摄影师的拍摄服务。\n\n由YesTours负责安排，价格中含5项内容。可免费取消。\n\n价格包含游览期间的专业拍摄、英语摄影师、阿尔瓦坦宫门票、通过Google Drive提供无限张精修照片。不包含酒店往返接送，请另行预算。两位旅客共同支付277美元，而不是每人各付277美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "享受专业摄影师的拍摄服务"
+  ],
+  "included": [
+   "游览期间的专业拍摄",
+   "英语摄影师",
+   "阿尔瓦坦宫门票",
+   "通过Google Drive提供无限张精修照片"
+  ],
+  "notIncluded": [
+   "酒店往返接送"
+  ]
+ },
+ "dubai-sheikh-zayed-mosque-zayed-museum-louvre-tour": {
+  "title": "迪拜：谢赫扎耶德清真寺、扎耶德博物馆及卢浮宫游览",
+  "metaTitle": "迪拜：谢赫扎耶德清真寺、扎耶德博物馆及卢浮宫游览",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Zayed National Museum, Louvre Abu Dhabi, The Corniche, Abu Dhabi和Sheikh Zayed Mosque。由360 Adventures Tourism LLC提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Zayed National Museum, Louvre Abu Dhabi, The Corniche, Abu Dhabi和Sheikh Zayed Mosque。由360 Adventures Tourism LLC提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Zayed National Museum, Louvre Abu Dhabi, The Corniche, Abu Dhabi和Sheikh Zayed Mosque。最长的一站是Louvre Abu Dhabi，约2小时。全程共4站。\n\n行程顺序为Zayed National Museum, 然后 Louvre Abu Dhabi (2h), 然后 The Corniche, Abu Dhabi (30 min), 然后 Sheikh Zayed Mosque。\n\n价格包含酒店往返接送、谢赫扎耶德大清真寺门票、扎耶德国家博物馆门票、阿布扎比卢浮宫门票。不包含餐食、个人消费、不提供以下地点的接送：沙迦、纳哈达、古赛斯、汽车城、JVC/JVT、2020世界博览会，以上地点将提供替代集合点，同时不提供机场接送，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Zayed National Museum, Louvre Abu Dhabi, The Corniche, Abu Dhabi和Sheikh Zayed Mosque。由360 Adventures Tourism LLC提供。"
+  ],
+  "included": [
+   "酒店往返接送",
+   "谢赫扎耶德大清真寺门票",
+   "扎耶德国家博物馆门票",
+   "阿布扎比卢浮宫门票"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "不提供以下地点的接送：沙迦、纳哈达、古赛斯、汽车城、JVC/JVT、2020世界博览会，以上地点将提供替代集合点，同时不提供机场接送"
+  ]
+ },
+ "dubai-private-photoshoot-at-the-burj-khalifa": {
+  "title": "迪拜：哈利法塔私人拍摄",
+  "metaTitle": "迪拜：哈利法塔私人拍摄",
+  "metaDescription": "一次0.5小时的迪拜体验。在迪拜最具标志性的地点进行私人拍摄，记录绝美照片。由Picster提供。",
+  "shortDescription": "一次0.5小时的迪拜体验。在迪拜最具标志性的地点进行私人拍摄，记录绝美照片。由Picster提供。",
+  "fullDescription": "一次0.5小时的迪拜体验。在迪拜最具标志性的地点进行私人拍摄，记录绝美照片。\n\n由Picster负责安排，价格中含4项内容。可免费取消。\n\n价格包含专属于您的专业摄影师、向导路线，游览迪拜最适合拍照的地点、在线相册中的高清精修照片、全程姿势指导及协助。不包含往返拍摄地点的交通、个人消费、餐食和饮品，请另行预算。两位旅客共同支付151美元，而不是每人各付151美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在迪拜最具标志性的地点进行私人拍摄，记录绝美照片"
+  ],
+  "included": [
+   "专属于您的专业摄影师",
+   "向导路线，游览迪拜最适合拍照的地点",
+   "在线相册中的高清精修照片",
+   "全程姿势指导及协助"
+  ],
+  "notIncluded": [
+   "往返拍摄地点的交通",
+   "个人消费",
+   "餐食和饮品"
+  ]
+ },
+ "dubai-new-years-eve-private-50ft-yacht-fireworks-c": {
+  "title": "迪拜：跨年夜私人50英尺游艇烟花巡游",
+  "metaTitle": "迪拜：跨年夜私人50英尺游艇烟花巡游",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Burj Al Arab。由Sea King Yachts提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Burj Al Arab。由Sea King Yachts提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Burj Al Arab。最长的一站是Burj Al Arab，约3小时。\n\n价格包含私人50英尺豪华游艇、6小时巡游、现场烧烤晚餐、3瓶香槟。不包含往返码头的交通、酒店往返接送，请另行预算。两位旅客共同支付13805美元，而不是每人各付13805美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Burj Al Arab。由Sea King Yachts提供。"
+  ],
+  "included": [
+   "私人50英尺豪华游艇",
+   "6小时巡游",
+   "现场烧烤晚餐",
+   "3瓶香槟"
+  ],
+  "notIncluded": [
+   "往返码头的交通",
+   "酒店往返接送"
+  ]
+ },
+ "dubai-marina-yacht-cruise-with-ain-dubai-entry-tic": {
+  "title": "迪拜码头游艇巡游，含迪拜眼门票",
+  "metaTitle": "迪拜码头游艇巡游，含迪拜眼门票",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Dubai Marina, Ain Dubai和Jumeirah Beach Residence。由360 Adventures Tourism LLC提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Dubai Marina, Ain Dubai和Jumeirah Beach Residence。由360 Adventures Tourism LLC提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Dubai Marina, Ain Dubai和Jumeirah Beach Residence。全程共3站。\n\n行程顺序为Dubai Marina (20 min), 然后 Ain Dubai (10 min), 然后 Jumeirah Beach Residence (20 min)。\n\n价格包含迪拜眼门票（共享舱，非高峰时段：中午12:00至下午4:30及晚上8:00以后）、1.5小时午后游艇游览门票、专业船员、无限量瓶装水。不包含餐食、往返港口的交通，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Dubai Marina, Ain Dubai和Jumeirah Beach Residence。由360 Adventures Tourism LLC提供。"
+  ],
+  "included": [
+   "迪拜眼门票（共享舱，非高峰时段：中午12:00至下午4:30及晚上8:00以后）",
+   "1.5小时午后游艇游览门票",
+   "专业船员",
+   "无限量瓶装水"
+  ],
+  "notIncluded": [
+   "餐食",
+   "往返港口的交通"
+  ]
+ },
+ "dubai-desert-safari-with-quad-bike-camel-ride-bbq": {
+  "title": "迪拜：沙漠之旅，含沙滩摩托车、骆驼骑行及烧烤晚餐",
+  "metaTitle": "迪拜：沙漠之旅，含沙滩摩托车、骆驼骑行及烧烤晚餐",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Lahbab Desert和Al Aweer。由Ramada Group Line提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Lahbab Desert和Al Aweer。由Ramada Group Line提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Lahbab Desert和Al Aweer。最长的一站是Al Aweer，约4小时。全程共2站。\n\n行程顺序为Lahbab Desert (1h), 然后 Al Aweer (4h)。\n\n价格包含迪拜及沙迦全境酒店接送、专业越野司机进行冲沙、传统阿拉伯迎宾椰枣、阿拉伯咖啡及茶点、骆驼骑行、滑沙。不包含，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Lahbab Desert和Al Aweer。由Ramada Group Line提供。"
+  ],
+  "included": [
+   "迪拜及沙迦全境酒店接送",
+   "专业越野司机进行冲沙",
+   "传统阿拉伯迎宾椰枣、阿拉伯咖啡及茶点",
+   "骆驼骑行",
+   "滑沙"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "luxury-dubai-yacht-cruise-palm-jumeirah-to-burj-al": {
+  "title": "迪拜豪华游艇巡游：从棕榈岛到阿拉伯塔",
+  "metaTitle": "迪拜豪华游艇巡游：从棕榈岛到阿拉伯塔",
+  "metaDescription": "一次2小时的迪拜体验。航行经过标志性的阿拉伯塔，感受微风拂面。由360 Adventures Tourism LLC提供。",
+  "shortDescription": "一次2小时的迪拜体验。航行经过标志性的阿拉伯塔，感受微风拂面。由360 Adventures Tourism LLC提供。",
+  "fullDescription": "一次2小时的迪拜体验。航行经过标志性的阿拉伯塔，感受微风拂面。\n\n由360 Adventures Tourism LLC负责安排，价格中含6项内容。可免费取消。\n\n价格包含豪华游艇巡游、棕榈岛全景、巡游经过谢赫岛、欣赏阿拉伯塔。不包含谢赫岛门票、精致餐食或烧烤（可选），请另行预算。两位旅客共同支付669美元，而不是每人各付600美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "航行经过标志性的阿拉伯塔，感受微风拂面"
+  ],
+  "included": [
+   "豪华游艇巡游",
+   "棕榈岛全景",
+   "巡游经过谢赫岛",
+   "欣赏阿拉伯塔"
+  ],
+  "notIncluded": [
+   "谢赫岛门票",
+   "精致餐食或烧烤（可选）"
+  ]
+ },
+ "dubai-dune-bashing-camel-sandboarding-bbq-live-sho": {
+  "title": "迪拜：冲沙、骆驼骑行、滑沙、烧烤及现场表演",
+  "metaTitle": "迪拜：冲沙、骆驼骑行、滑沙、烧烤及现场表演",
+  "metaDescription": "一次全天的迪拜体验。穿越金色沙丘，感受刺激冲沙冒险的肾上腺素飙升。由Fly Efes Travel提供。",
+  "shortDescription": "一次全天的迪拜体验。穿越金色沙丘，感受刺激冲沙冒险的肾上腺素飙升。由Fly Efes Travel提供。",
+  "fullDescription": "一次全天的迪拜体验。穿越金色沙丘，感受刺激冲沙冒险的肾上腺素飙升。\n\n由Fly Efes Travel负责安排，价格中含5项内容。可免费取消。\n\n价格包含沙漠飙沙、沙漠拍照停留、短程骆驼骑行、自助晚餐及软饮。不包含点选酒精饮品及水烟、租赁沙滩摩托车或越野车、购买纪念品，请另行预算。",
+  "highlights": [
+   "穿越金色沙丘，感受刺激冲沙冒险的肾上腺素飙升"
+  ],
+  "included": [
+   "沙漠飙沙",
+   "沙漠拍照停留",
+   "短程骆驼骑行",
+   "自助晚餐及软饮"
+  ],
+  "notIncluded": [
+   "点选酒精饮品及水烟",
+   "租赁沙滩摩托车或越野车",
+   "购买纪念品"
   ]
  },
  "dubai-jet-ski-tour-with-photos-pizza-and-drinks": {
@@ -23112,6 +26486,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "from-dubai-grand-mosque-qasr-al-watan-morning-tour": {
+  "title": "迪拜出发：大清真寺与阿尔瓦坦宫晨间游览",
+  "metaTitle": "迪拜出发：大清真寺与阿尔瓦坦宫晨间游览",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque和Qasr Al Watan。由360 Adventures Tourism LLC提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque和Qasr Al Watan。由360 Adventures Tourism LLC提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Sheikh Zayed Mosque和Qasr Al Watan。全程共2站。\n\n行程顺序为Sheikh Zayed Mosque, 然后 Qasr Al Watan。\n\n价格包含酒店往返接送、司机、阿尔瓦坦宫门票、谢赫扎耶德清真寺门票。不包含导游、食品及其他饮品、小费，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque和Qasr Al Watan。由360 Adventures Tourism LLC提供。"
+  ],
+  "included": [
+   "酒店往返接送",
+   "司机",
+   "阿尔瓦坦宫门票",
+   "谢赫扎耶德清真寺门票"
+  ],
+  "notIncluded": [
+   "导游",
+   "食品及其他饮品",
+   "小费"
   ]
  },
  "dubai-22-minute-helicopter-flight": {
@@ -23137,12 +26532,12 @@ export const ZH_TOURS: Record<string, TourT> = {
   "metaTitle": "迪拜：豪华圆顶帐篷过夜游猎及观星",
   "metaDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Al Marmoom Conservation Reserve, Dubai, Red Dunes Desert Safari, Dubai和Al Marmoom Oasis。由OceanAir Travels提供。",
   "shortDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Al Marmoom Conservation Reserve, Dubai, Red Dunes Desert Safari, Dubai和Al Marmoom Oasis。由OceanAir Travels提供。",
-  "fullDescription": "一次从迪拜出发的全天行程，途经Jeep / SUV, Al Marmoom Conservation Reserve, Dubai, Red Dunes Desert Safari, Dubai和Al Marmoom Oasis。全程共5站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Al Marmoom Conservation Reserve, Dubai, 然后 Red Dunes Desert Safari, Dubai, 然后 Al Marmoom Oasis, 然后 Al Marmoom Oasis。\n\n价格包含空调四驱车酒店往返接送、配私人泳池与花园的豪华圆顶帐篷、欢迎饮品（阿拉伯茶/咖啡配蜜枣）、冰矿泉水和软饮。不包含，请另行预算。两位旅客共同支付1811美元，而不是每人各付1811美元，因为价格按团而非按人计算。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Jeep / SUV, Al Marmoom Conservation Reserve, Dubai, Red Dunes Desert Safari, Dubai和Al Marmoom Oasis。全程共5站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Al Marmoom Conservation Reserve, Dubai, 然后 Red Dunes Desert Safari, Dubai, 然后 Al Marmoom Oasis, 然后 Al Marmoom Oasis。\n\n价格包含空调4x4车酒店往返接送、配私人泳池与花园的豪华圆顶帐篷、欢迎饮品（阿拉伯茶/咖啡配蜜枣）、冰矿泉水和软饮。不包含，请另行预算。两位旅客共同支付1811美元，而不是每人各付1811美元，因为价格按团而非按人计算。",
   "highlights": [
    "一次从迪拜出发的全天行程，游览Jeep / SUV, Al Marmoom Conservation Reserve, Dubai, Red Dunes Desert Safari, Dubai和Al Marmoom Oasis。由OceanAir Travels提供。"
   ],
   "included": [
-   "空调四驱车酒店往返接送",
+   "空调4x4车酒店往返接送",
    "配私人泳池与花园的豪华圆顶帐篷",
    "欢迎饮品（阿拉伯茶/咖啡配蜜枣）",
    "冰矿泉水和软饮"
@@ -23170,6 +26565,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "abu-dhabi-quad-bike-atv-safari-camel-ride-and": {
+  "title": "阿布扎比：沙滩摩托车沙漠之旅，含骆驼骑行及滑沙",
+  "metaTitle": "阿布扎比：沙滩摩托车沙漠之旅，含骆驼骑行及滑沙",
+  "metaDescription": "一次半天的阿布扎比体验。感受驾驶沙滩摩托车穿越沙漠金色沙丘的刺激。由OceanAir Travels提供。",
+  "shortDescription": "一次半天的阿布扎比体验。感受驾驶沙滩摩托车穿越沙漠金色沙丘的刺激。由OceanAir Travels提供。",
+  "fullDescription": "一次半天的阿布扎比体验。感受驾驶沙滩摩托车穿越沙漠金色沙丘的刺激。\n\n由OceanAir Travels负责安排，价格中含10项内容。可免费取消。\n\n价格包含从阿布扎比出发的4x4车往返接送、配专业沙漠向导的私人或小团体验、沙滩摩托车自驾体验（45分钟）、安全装备：头盔、手套、护目镜、由熟练司机驾驶4x4车冲沙。不包含餐食、个人消费，请另行预算。两位旅客共同支付2646美元，而不是每人各付2646美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "感受驾驶沙滩摩托车穿越沙漠金色沙丘的刺激"
+  ],
+  "included": [
+   "从阿布扎比出发的4x4车往返接送",
+   "配专业沙漠向导的私人或小团体验",
+   "沙滩摩托车自驾体验（45分钟）",
+   "安全装备：头盔、手套、护目镜",
+   "由熟练司机驾驶4x4车冲沙"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
+  ]
+ },
  "abu-dhabi-catamaran-corniche-cruise-3hours": {
   "title": "阿布扎比海滨大道双体船巡游3小时",
   "metaTitle": "阿布扎比海滨大道双体船巡游3小时",
@@ -23191,18 +26607,158 @@ export const ZH_TOURS: Record<string, TourT> = {
   "metaTitle": "迪拜：夜间沙漠游，含骆驼骑乘及观星",
   "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Red Dunes Desert Safari, Dubai和Al Marmoom Oasis。由OceanAir Travels提供。",
   "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Red Dunes Desert Safari, Dubai和Al Marmoom Oasis。由OceanAir Travels提供。",
-  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Red Dunes Desert Safari, Dubai和Al Marmoom Oasis。全程共3站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Red Dunes Desert Safari, Dubai, 然后 Al Marmoom Oasis。\n\n价格包含从您所在地点/酒店往返接送、空调四驱车交通接送、持证沙漠游船长、卫生间设施。不包含，请另行预算。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Red Dunes Desert Safari, Dubai和Al Marmoom Oasis。全程共3站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Red Dunes Desert Safari, Dubai, 然后 Al Marmoom Oasis。\n\n价格包含从您所在地点/酒店往返接送、空调4x4车交通接送、持证沙漠游船长、卫生间设施。不包含，请另行预算。",
   "highlights": [
    "一次从迪拜出发的半天行程，游览Jeep / SUV, Red Dunes Desert Safari, Dubai和Al Marmoom Oasis。由OceanAir Travels提供。"
   ],
   "included": [
    "从您所在地点/酒店往返接送",
-   "空调四驱车交通接送",
+   "空调4x4车交通接送",
    "持证沙漠游船长",
    "卫生间设施"
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "dubai-50-foot-luxury-yacht-ride-for-2-hours": {
+  "title": "迪拜：50英尺豪华游艇2小时游览（最多15人）",
+  "metaTitle": "迪拜：50英尺豪华游艇2小时游览（最多15人）",
+  "metaDescription": "一次从迪拜出发的2小时行程，游览Jumeirah Beach Residence, Atlantis, Dubai和Burj Al Arab。由Riviera Leisure Yachts提供。",
+  "shortDescription": "一次从迪拜出发的2小时行程，游览Jumeirah Beach Residence, Atlantis, Dubai和Burj Al Arab。由Riviera Leisure Yachts提供。",
+  "fullDescription": "一次从迪拜出发的2小时行程，途经Jumeirah Beach Residence, Atlantis, Dubai和Burj Al Arab。全程共3站。\n\n行程顺序为Jumeirah Beach Residence (10 min), 然后 Atlantis, Dubai (10 min), 然后 Burj Al Arab (10 min)。\n\n价格包含您的豪华游艇之旅从迪拜港启程、航向风景如画的迪拜码头及雄伟的阿拉伯塔、全程提供茶点，包括饮用水、冰块及多种软饮。不包含餐食、烈酒，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的2小时行程，游览Jumeirah Beach Residence, Atlantis, Dubai和Burj Al Arab。由Riviera Leisure Yachts提供。"
+  ],
+  "included": [
+   "您的豪华游艇之旅从迪拜港启程",
+   "航向风景如画的迪拜码头及雄伟的阿拉伯塔",
+   "全程提供茶点，包括饮用水、冰块及多种软饮"
+  ],
+  "notIncluded": [
+   "餐食",
+   "烈酒"
+  ]
+ },
+ "dubai-ferrari-f8-spider-1-day-rental-no-deposit": {
+  "title": "迪拜：法拉利F8 Spider 1日租赁，无需押金",
+  "metaTitle": "迪拜：法拉利F8 Spider 1日租赁，无需押金",
+  "metaDescription": "一次全天的迪拜体验。感受法拉利F8 Spider驰骋迪拜街道的刺激。由GMZ RENTAL CAR提供。",
+  "shortDescription": "一次全天的迪拜体验。感受法拉利F8 Spider驰骋迪拜街道的刺激。由GMZ RENTAL CAR提供。",
+  "fullDescription": "一次全天的迪拜体验。感受法拉利F8 Spider驰骋迪拜街道的刺激。\n\n由GMZ RENTAL CAR负责安排，价格中含2项内容。可免费取消。\n\n价格包含法拉利F8 Spider租赁、全面保险。不包含燃油、通行费、停车费，请另行预算。两位旅客共同支付2691美元，而不是每人各付2691美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "感受法拉利F8 Spider驰骋迪拜街道的刺激"
+  ],
+  "included": [
+   "法拉利F8 Spider租赁",
+   "全面保险"
+  ],
+  "notIncluded": [
+   "燃油",
+   "通行费",
+   "停车费"
+  ]
+ },
+ "dubai-jet-car-experience-with-private-transfers": {
+  "title": "迪拜：水上摩托艇体验，含私人接送",
+  "metaTitle": "迪拜：水上摩托艇体验，含私人接送",
+  "metaDescription": "一次从迪拜出发的0.333333小时行程，游览Umm Suqeim。由Travzi World Travel & Tourism LLC提供。",
+  "shortDescription": "一次从迪拜出发的0.333333小时行程，游览Umm Suqeim。由Travzi World Travel & Tourism LLC提供。",
+  "fullDescription": "一次从迪拜出发的0.333333小时行程，途经Umm Suqeim。最长的一站是Umm Suqeim，约1小时。\n\n价格包含1.水上摩托艇骑行，时长按所选选项（20分钟/30分钟/60分钟）、2.救生衣、3.训练有素的船长、4.空调车辆。不包含食品及饮品，请另行预算。两位旅客共同支付484美元，而不是每人各付484美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的0.333333小时行程，游览Umm Suqeim。由Travzi World Travel & Tourism LLC提供。"
+  ],
+  "included": [
+   "1.水上摩托艇骑行，时长按所选选项（20分钟/30分钟/60分钟）",
+   "2.救生衣",
+   "3.训练有素的船长",
+   "4.空调车辆"
+  ],
+  "notIncluded": [
+   "食品及饮品"
+  ]
+ },
+ "2-day-city-tour-dubai-abu-dhabi-yacht-experience": {
+  "title": "2日城市游览：迪拜与阿布扎比，含游艇体验",
+  "metaTitle": "2日城市游览：迪拜与阿布扎比，含游艇体验",
+  "metaDescription": "一次从阿布扎比出发的2天行程，游览Visit Sheikh Zayed Grand Mosque, Lunch stop, Visit Heritage village和Photo stop of Qasr Al Watan。由360 Adventures Tourism LLC提供。",
+  "shortDescription": "一次从阿布扎比出发的2天行程，游览Visit Sheikh Zayed Grand Mosque, Lunch stop, Visit Heritage village和Photo stop of Qasr Al Watan。由360 Adventures Tourism LLC提供。",
+  "fullDescription": "一次从阿布扎比出发的2天行程，途经Visit Sheikh Zayed Grand Mosque, Lunch stop, Visit Heritage village和Photo stop of Qasr Al Watan。全程共8站。\n\n行程顺序为Visit Sheikh Zayed Grand Mosque, 然后 Lunch stop, 然后 Visit Heritage village, 然后 Photo stop of Qasr Al Watan, 然后 Pass by Abu Dhabi Corniche, Emirates Palace & Etihad Towers。\n\n价格包含接送服务、持证导游、专业司机、全程舒适且维护良好的交通工具。不包含日落游艇之旅接送服务、餐食、个人消费，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的2天行程，游览Visit Sheikh Zayed Grand Mosque, Lunch stop, Visit Heritage village和Photo stop of Qasr Al Watan。由360 Adventures Tourism LLC提供。"
+  ],
+  "included": [
+   "接送服务",
+   "持证导游",
+   "专业司机",
+   "全程舒适且维护良好的交通工具"
+  ],
+  "notIncluded": [
+   "日落游艇之旅接送服务",
+   "餐食",
+   "个人消费"
+  ]
+ },
+ "dubai-private-boat-tour-experience": {
+  "title": "迪拜：私人乘船游览体验",
+  "metaTitle": "迪拜：私人乘船游览体验",
+  "metaDescription": "一次从迪拜出发的1小时行程，游览Dubai Marina, Ain Dubai和JBR Beach。由Flame Yacht Rentals提供。",
+  "shortDescription": "一次从迪拜出发的1小时行程，游览Dubai Marina, Ain Dubai和JBR Beach。由Flame Yacht Rentals提供。",
+  "fullDescription": "一次从迪拜出发的1小时行程，途经Dubai Marina, Ain Dubai和JBR Beach。全程共3站。\n\n行程顺序为Dubai Marina, 然后 Ain Dubai (10 min), 然后 JBR Beach (10 min)。\n\n价格包含船长及船员、软饮（可乐及雪碧），配冰块、水、蓝牙音响系统。不包含餐食菜单、迪拜港越野车使用、酒店往返接送，请另行预算。两位旅客共同支付277美元，而不是每人各付277美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的1小时行程，游览Dubai Marina, Ain Dubai和JBR Beach。由Flame Yacht Rentals提供。"
+  ],
+  "included": [
+   "船长及船员",
+   "软饮（可乐及雪碧），配冰块",
+   "水",
+   "蓝牙音响系统"
+  ],
+  "notIncluded": [
+   "餐食菜单",
+   "迪拜港越野车使用",
+   "酒店往返接送"
+  ]
+ },
+ "dubai-helicopter-tour-wonder-bus-amphibious-advent": {
+  "title": "迪拜：直升机游览及奇妙巴士水陆两用冒险",
+  "metaTitle": "迪拜：直升机游览及奇妙巴士水陆两用冒险",
+  "metaDescription": "一次3小时的迪拜体验。乘坐直升机翱翔城市上空，俯瞰鸟瞰视角的美景。由Wonder Bus Tours LLC提供。",
+  "shortDescription": "一次3小时的迪拜体验。乘坐直升机翱翔城市上空，俯瞰鸟瞰视角的美景。由Wonder Bus Tours LLC提供。",
+  "fullDescription": "一次3小时的迪拜体验。乘坐直升机翱翔城市上空，俯瞰鸟瞰视角的美景。\n\n由Wonder Bus Tours LLC负责安排，价格中含12项内容。可免费取消。\n\n价格包含往返接送、从陆地、海上及空中观赏迪拜风光、直升机游览、奇妙巴士（Wonder Bus）游览、奇妙巴士（Wonder Bus）现场讲解。不包含餐食及饮品、个人消费，请另行预算。",
+  "highlights": [
+   "乘坐直升机翱翔城市上空，俯瞰鸟瞰视角的美景"
+  ],
+  "included": [
+   "往返接送",
+   "从陆地、海上及空中观赏迪拜风光",
+   "直升机游览",
+   "奇妙巴士（Wonder Bus）游览",
+   "奇妙巴士（Wonder Bus）现场讲解"
+  ],
+  "notIncluded": [
+   "餐食及饮品",
+   "个人消费"
+  ]
+ },
+ "dubai-luxury-private-yacht-cruise-with-captain-and": {
+  "title": "迪拜：豪华私人游艇巡游，配船长及船员",
+  "metaTitle": "迪拜：豪华私人游艇巡游，配船长及船员",
+  "metaDescription": "一次从迪拜出发的2小时行程，游览JBR Beach, Bluewaters Island, The Palm Jumeirah和Yacht。由JO JO LEISURE YACHTS AND BOATS RENTAL LLC提供。",
+  "shortDescription": "一次从迪拜出发的2小时行程，游览JBR Beach, Bluewaters Island, The Palm Jumeirah和Yacht。由JO JO LEISURE YACHTS AND BOATS RENTAL LLC提供。",
+  "fullDescription": "一次从迪拜出发的2小时行程，途经JBR Beach, Bluewaters Island, The Palm Jumeirah和Yacht。全程共4站。\n\n行程顺序为JBR Beach, 然后 Bluewaters Island (30 min), 然后 The Palm Jumeirah (30 min), 然后 Yacht (30 min)。\n\n价格包含专业船长及船员、船上烧烤（可选）、水果拼盘或芝士拼盘、软饮料。不包含私人厨师服务、精致晚餐，请另行预算。两位旅客共同支付1611美元，而不是每人各付1611美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的2小时行程，游览JBR Beach, Bluewaters Island, The Palm Jumeirah和Yacht。由JO JO LEISURE YACHTS AND BOATS RENTAL LLC提供。"
+  ],
+  "included": [
+   "专业船长及船员",
+   "船上烧烤（可选）",
+   "水果拼盘或芝士拼盘",
+   "软饮料"
+  ],
+  "notIncluded": [
+   "私人厨师服务",
+   "精致晚餐"
   ]
  },
  "dubai-stand-up-paddle-boarding-experience-at-palm-": {
@@ -23224,6 +26780,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "酒店往返接送"
   ]
  },
+ "from-dubai-abu-dhabi-sheikh-zayed-mosque-guided-to": {
+  "title": "迪拜出发：阿布扎比谢赫扎耶德清真寺向导游览",
+  "metaTitle": "迪拜出发：阿布扎比谢赫扎耶德清真寺向导游览",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque。由OceanAir Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque。由OceanAir Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Sheikh Zayed Mosque。\n\n由OceanAir Travels负责安排，价格中含6项内容。可免费取消。参观谢赫扎耶德大清真寺，感受非凡的伊斯兰建筑艺术。\n\n价格包含酒店往返接送、空调车辆接送、持证导游、谢赫扎耶德清真寺门票费用。不包含额外遮体衣物、小费（可选），请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "酒店往返接送",
+   "空调车辆接送",
+   "持证导游",
+   "谢赫扎耶德清真寺门票费用"
+  ],
+  "notIncluded": [
+   "额外遮体衣物",
+   "小费（可选）"
+  ]
+ },
  "5-hrs-sailboat-private-tour-burj-khalifa-skyline-a": {
   "title": "迪拜：5小时私人帆船之旅，哈利法塔、天际线、亚特兰蒂斯",
   "metaTitle": "迪拜：5小时私人帆船之旅，哈利法塔、天际线、亚特兰蒂斯",
@@ -23243,6 +26819,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "from-abu-dhabi-city-tour-with-grand-mosque-louvre": {
+  "title": "阿布扎比出发：城市游览，含大清真寺及卢浮宫",
+  "metaTitle": "阿布扎比出发：城市游览，含大清真寺及卢浮宫",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, Louvre Abu Dhabi和The Corniche, Abu Dhabi。由OceanAir Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, Louvre Abu Dhabi和The Corniche, Abu Dhabi。由OceanAir Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Sheikh Zayed Mosque, Louvre Abu Dhabi和The Corniche, Abu Dhabi。全程共3站。\n\n行程顺序为Sheikh Zayed Mosque, 然后 Louvre Abu Dhabi, 然后 The Corniche, Abu Dhabi。\n\n价格包含阿布扎比酒店接送、乘坐空调车辆出行、专业导游、阿布扎比卢浮宫门票。不包含额外遮体衣物、卢浮宫向导游览、小费，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, Louvre Abu Dhabi和The Corniche, Abu Dhabi。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "阿布扎比酒店接送",
+   "乘坐空调车辆出行",
+   "专业导游",
+   "阿布扎比卢浮宫门票"
+  ],
+  "notIncluded": [
+   "额外遮体衣物",
+   "卢浮宫向导游览",
+   "小费"
+  ]
+ },
  "dubai-the-storm-coaster": {
   "title": "迪拜：暴风过山车",
   "metaTitle": "迪拜：暴风过山车",
@@ -23258,6 +26855,46 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "照片",
    "交通接送"
+  ]
+ },
+ "dubai-sunseeker-superyacht-vip-dinner-drinks-live-": {
+  "title": "迪拜：Sunseeker超级游艇VIP晚餐、饮品及现场DJ",
+  "metaTitle": "迪拜：Sunseeker超级游艇VIP晚餐、饮品及现场DJ",
+  "metaDescription": "一次从迪拜出发的3小时行程，游览Dubai Harbour, Ain Dubai, Atlantis, Dubai和Burj Al Arab。由Xclusive Yachts提供。",
+  "shortDescription": "一次从迪拜出发的3小时行程，游览Dubai Harbour, Ain Dubai, Atlantis, Dubai和Burj Al Arab。由Xclusive Yachts提供。",
+  "fullDescription": "一次从迪拜出发的3小时行程，途经Dubai Harbour, Ain Dubai, Atlantis, Dubai和Burj Al Arab。全程共4站。\n\n行程顺序为Dubai Harbour, 然后 Ain Dubai, 然后 Atlantis, Dubai, 然后 Burj Al Arab。\n\n价格包含无菜单寿司（Omakase）菜单、日本料理、畅饮香槟、精致小食。不包含酒店往返接送、个人消费、附加项目，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的3小时行程，游览Dubai Harbour, Ain Dubai, Atlantis, Dubai和Burj Al Arab。由Xclusive Yachts提供。"
+  ],
+  "included": [
+   "无菜单寿司（Omakase）菜单",
+   "日本料理",
+   "畅饮香槟",
+   "精致小食"
+  ],
+  "notIncluded": [
+   "酒店往返接送",
+   "个人消费",
+   "附加项目"
+  ]
+ },
+ "dubai-fort-lisaili-desert-safari-quad-buggy-ride-o": {
+  "title": "迪拜利赛利堡：沙漠之旅，沙滩摩托车/越野车骑行可选",
+  "metaTitle": "迪拜利赛利堡：沙漠之旅，沙滩摩托车/越野车骑行可选",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Campsite和Campsite。由OceanAir Travels提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Campsite和Campsite。由OceanAir Travels提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Campsite和Campsite。全程共3站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Campsite, 然后 Campsite (30 min)。\n\n价格包含含接送（按所选选项）、骆驼骑行、射箭、手部海娜彩绘。不包含斋月期间不进行肚皮舞表演，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV, Campsite和Campsite。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "含接送（按所选选项）",
+   "骆驼骑行",
+   "射箭",
+   "手部海娜彩绘"
+  ],
+  "notIncluded": [
+   "斋月期间不进行肚皮舞表演"
   ]
  },
  "dubai-jet-ski-burj-khalifa-burj-al-arab-pics": {
@@ -23279,6 +26916,69 @@ export const ZH_TOURS: Record<string, TourT> = {
    "酒店往返接送"
   ]
  },
+ "dubai-dhow-cruise-creek-or-marina-shows-buffet-dri": {
+  "title": "迪拜传统木船巡游：河道或码头，含表演、自助餐及饮品可选",
+  "metaTitle": "迪拜传统木船巡游：河道或码头，含表演、自助餐及饮品可选",
+  "metaDescription": "一次从迪拜出发的1.75小时行程，游览Al Seef和Dubai Marina。由Zahoor Tours LLC提供。",
+  "shortDescription": "一次从迪拜出发的1.75小时行程，游览Al Seef和Dubai Marina。由Zahoor Tours LLC提供。",
+  "fullDescription": "一次从迪拜出发的1.75小时行程，途经Al Seef和Dubai Marina。最长的一站是Al Seef，约2小时。全程共2站。\n\n行程顺序为Al Seef (2h), 然后 Dubai Marina (1h)。\n\n价格包含抵达时提供欢迎饮品、阿拉伯及国际自助晚餐、无限畅饮软饮、现场音乐。不包含酒店往返接送、鲜榨果汁、无酒精鸡尾酒（可购买）、任何个人消费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1.75小时行程，游览Al Seef和Dubai Marina。由Zahoor Tours LLC提供。"
+  ],
+  "included": [
+   "抵达时提供欢迎饮品",
+   "阿拉伯及国际自助晚餐",
+   "无限畅饮软饮",
+   "现场音乐"
+  ],
+  "notIncluded": [
+   "酒店往返接送",
+   "鲜榨果汁、无酒精鸡尾酒（可购买）",
+   "任何个人消费"
+  ]
+ },
+ "dubai-burj-khalifa-flying-dress-videography-shoot": {
+  "title": "迪拜：哈利法塔飘纱长裙跟拍",
+  "metaTitle": "迪拜：哈利法塔飘纱长裙跟拍",
+  "metaDescription": "一次从迪拜出发的1小时行程，游览Burj Khalifa, Dubai Mall Park Bridge, Burj Park和Dandelion Light Sculpture。由TicToc Travel提供。",
+  "shortDescription": "一次从迪拜出发的1小时行程，游览Burj Khalifa, Dubai Mall Park Bridge, Burj Park和Dandelion Light Sculpture。由TicToc Travel提供。",
+  "fullDescription": "一次从迪拜出发的1小时行程，途经Burj Khalifa, Dubai Mall Park Bridge, Burj Park和Dandelion Light Sculpture。全程共6站。\n\n行程顺序为Burj Khalifa (10 min), 然后 Dubai Mall Park Bridge (10 min), 然后 Burj Park (10 min), 然后 Dandelion Light Sculpture (10 min), 然后 Burj Ceni (10 min)。\n\n价格包含1小时私人跟拍游览、1件飘纱长裙、20至25张精修照片、1条精修视频，20至25秒，Reels风格、1条精修视频，7至10秒，Instagram故事风格。不包含门票、酒店接送，请另行预算。两位旅客共同支付392美元，而不是每人各付392美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的1小时行程，游览Burj Khalifa, Dubai Mall Park Bridge, Burj Park和Dandelion Light Sculpture。由TicToc Travel提供。"
+  ],
+  "included": [
+   "1小时私人跟拍游览",
+   "1件飘纱长裙",
+   "20至25张精修照片",
+   "1条精修视频，20至25秒，Reels风格",
+   "1条精修视频，7至10秒，Instagram故事风格"
+  ],
+  "notIncluded": [
+   "门票",
+   "酒店接送"
+  ]
+ },
+ "from-dubai-dive-and-stay-5-dives-with-transfer": {
+  "title": "迪拜出发：潜水度假5次潜水，含接送",
+  "metaTitle": "迪拜出发：潜水度假5次潜水，含接送",
+  "metaDescription": "一次2天的迪拜体验。富查伊拉2日潜水，共5次下潜，含酒店住宿。由Reef Oasis Diving Center提供。",
+  "shortDescription": "一次2天的迪拜体验。富查伊拉2日潜水，共5次下潜，含酒店住宿。由Reef Oasis Diving Center提供。",
+  "fullDescription": "一次2天的迪拜体验。富查伊拉2日潜水，共5次下潜，含酒店住宿。\n\n由Reef Oasis Diving Center负责安排，价格中含5项内容。可免费取消。\n\n价格包含迪拜酒店接送、富查伊拉5次潜水（适合进阶开放水域潜水员，含夜潜）、水肺潜水装备、经验丰富的教练。不包含毛巾、泳衣、酒精饮品，请另行预算。",
+  "highlights": [
+   "富查伊拉2日潜水，共5次下潜，含酒店住宿"
+  ],
+  "included": [
+   "迪拜酒店接送",
+   "富查伊拉5次潜水（适合进阶开放水域潜水员，含夜潜）",
+   "水肺潜水装备",
+   "经验丰富的教练"
+  ],
+  "notIncluded": [
+   "毛巾",
+   "泳衣",
+   "酒精饮品"
+  ]
+ },
  "dubai-jet-ski-ride-with-photos-and-videos-1": {
   "title": "迪拜：1小时摩托艇之旅，含照片和视频",
   "metaTitle": "迪拜：1小时摩托艇之旅，含照片和视频",
@@ -23296,6 +26996,180 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "酒店往返接送"
+  ]
+ },
+ "dubai-nature-escapesunset-wildlife-bird-watching-i": {
+  "title": "迪拜自然之旅：绿洲日落观野生动物与观鸟",
+  "metaTitle": "迪拜自然之旅：绿洲日落观野生动物与观鸟",
+  "metaDescription": "一次半天的迪拜体验。穿越迪拜迷人沙漠风光的唯美之旅。由MAGIC LAMP TOURISM L.L.C提供。",
+  "shortDescription": "一次半天的迪拜体验。穿越迪拜迷人沙漠风光的唯美之旅。由MAGIC LAMP TOURISM L.L.C提供。",
+  "fullDescription": "一次半天的迪拜体验。穿越迪拜迷人沙漠风光的唯美之旅。\n\n由MAGIC LAMP TOURISM L.L.C负责安排，价格中含7项内容。可免费取消。\n\n价格包含接送服务、阿拉伯咖啡、茶点、矿泉水。不包含含酒精饮品，请另行预算。两位旅客共同支付370美元，而不是每人各付370美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "穿越迪拜迷人沙漠风光的唯美之旅"
+  ],
+  "included": [
+   "接送服务",
+   "阿拉伯咖啡",
+   "茶点",
+   "矿泉水"
+  ],
+  "notIncluded": [
+   "含酒精饮品"
+  ]
+ },
+ "dubai-desert-safari-quad-bike-camel-ride-and-sandb": {
+  "title": "迪拜：沙漠之旅，含沙滩摩托车、骆驼骑行及滑沙",
+  "metaTitle": "迪拜：沙漠之旅，含沙滩摩托车、骆驼骑行及滑沙",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai和Jeep / SUV。由Odyssey DMC提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai和Jeep / SUV。由Odyssey DMC提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai和Jeep / SUV。最长的一站是Jeep / SUV，约1小时。全程共4站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Red Dunes Desert Safari, Dubai (45 min), 然后 Red Dunes Desert Safari, Dubai (45 min), 然后 Jeep / SUV (1h)。\n\n价格包含从您指定地点或酒店出发的接送、乘坐空调4x4车出行、沙漠飙沙、短程骆驼骑行（可按需重复）。不包含餐食及小吃、沙滩摩托车骑行（除非选择其他选项），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai和Jeep / SUV。由Odyssey DMC提供。"
+  ],
+  "included": [
+   "从您指定地点或酒店出发的接送",
+   "乘坐空调4x4车出行",
+   "沙漠飙沙",
+   "短程骆驼骑行（可按需重复）"
+  ],
+  "notIncluded": [
+   "餐食及小吃",
+   "沙滩摩托车骑行（除非选择其他选项）"
+  ]
+ },
+ "dubai-instagrammable-yacht-tour-with-drinks-ainjbr": {
+  "title": "迪拜：高颜值游艇游览，含饮品及迪拜眼/JBR景色",
+  "metaTitle": "迪拜：高颜值游艇游览，含饮品及迪拜眼/JBR景色",
+  "metaDescription": "一次从迪拜出发的1小时行程，游览Dubai Marina, Jumeirah Beach Residence, Ain Dubai和Dubai Harbour。由Xclusive Yachts提供。",
+  "shortDescription": "一次从迪拜出发的1小时行程，游览Dubai Marina, Jumeirah Beach Residence, Ain Dubai和Dubai Harbour。由Xclusive Yachts提供。",
+  "fullDescription": "一次从迪拜出发的1小时行程，途经Dubai Marina, Jumeirah Beach Residence, Ain Dubai和Dubai Harbour。全程共4站。\n\n行程顺序为Dubai Marina, 然后 Jumeirah Beach Residence, 然后 Ain Dubai, 然后 Dubai Harbour。\n\n价格包含60分钟迪拜码头游览、英语向导现场讲解、免费提供冰镇瓶装水及热带饮品、可使用空调下层甲板。不包含，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1小时行程，游览Dubai Marina, Jumeirah Beach Residence, Ain Dubai和Dubai Harbour。由Xclusive Yachts提供。"
+  ],
+  "included": [
+   "60分钟迪拜码头游览",
+   "英语向导现场讲解",
+   "免费提供冰镇瓶装水及热带饮品",
+   "可使用空调下层甲板"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-1-hour-topgolf-game": {
+  "title": "迪拜：1小时Topgolf高尔夫体验",
+  "metaTitle": "迪拜：1小时Topgolf高尔夫体验",
+  "metaDescription": "一次1小时的迪拜体验。探索迪拜备受高尔夫爱好者及家庭喜爱的热门活动。由Top Golf Dubai提供。",
+  "shortDescription": "一次1小时的迪拜体验。探索迪拜备受高尔夫爱好者及家庭喜爱的热门活动。由Top Golf Dubai提供。",
+  "fullDescription": "一次1小时的迪拜体验。探索迪拜备受高尔夫爱好者及家庭喜爱的热门活动。\n\n由Top Golf Dubai负责安排，价格中含2项内容。可免费取消。\n\n价格包含1小时畅打，最多6人，不限球数、球杆租赁。不包含优先通道、不含卡座预订、食品和饮品，请另行预算。",
+  "highlights": [
+   "探索迪拜备受高尔夫爱好者及家庭喜爱的热门活动"
+  ],
+  "included": [
+   "1小时畅打，最多6人，不限球数",
+   "球杆租赁"
+  ],
+  "notIncluded": [
+   "优先通道",
+   "不含卡座预订",
+   "食品和饮品"
+  ]
+ },
+ "burj-khalifa-at-the-top-ticket-private-hotel-trans": {
+  "title": "哈利法塔顶层观景台门票及私人酒店接送",
+  "metaTitle": "哈利法塔顶层观景台门票及私人酒店接送",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Burj Khalifa Level 124-125, Burj Khalifa Level 148和Burj Khalifa Level 152-154。由Odyssey DMC提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Burj Khalifa Level 124-125, Burj Khalifa Level 148和Burj Khalifa Level 152-154。由Odyssey DMC提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Burj Khalifa Level 124-125, Burj Khalifa Level 148和Burj Khalifa Level 152-154。最长的一站是Burj Khalifa Level 152-154，约3小时。全程共3站。\n\n行程顺序为Burj Khalifa Level 124-125 (2h), 然后 Burj Khalifa Level 148 (2h), 然后 Burj Khalifa Level 152-154 (3h)。\n\n价格包含哈利法塔顶层观景台门票、可进入125层、148层或154层（按所选选项）、私人酒店接送或单程接送（按所选选项）、双向接送选项可灵活安排返程时间。不包含餐食及饮品、小费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Burj Khalifa Level 124-125, Burj Khalifa Level 148和Burj Khalifa Level 152-154。由Odyssey DMC提供。"
+  ],
+  "included": [
+   "哈利法塔顶层观景台门票",
+   "可进入125层、148层或154层（按所选选项）",
+   "私人酒店接送或单程接送（按所选选项）",
+   "双向接送选项可灵活安排返程时间"
+  ],
+  "notIncluded": [
+   "餐食及饮品",
+   "小费"
+  ]
+ },
+ "ras-al-khaimah-dubai-private-day-trip-with-hotel": {
+  "title": "拉斯海玛：迪拜私人一日游，含酒店接送",
+  "metaTitle": "拉斯海玛：迪拜私人一日游，含酒店接送",
+  "metaDescription": "一次全天的迪拜体验。在私人一日游中沉浸于迪拜的景致与氛围。由RAH Tourism LLC - Dubai提供。",
+  "shortDescription": "一次全天的迪拜体验。在私人一日游中沉浸于迪拜的景致与氛围。由RAH Tourism LLC - Dubai提供。",
+  "fullDescription": "一次全天的迪拜体验。在私人一日游中沉浸于迪拜的景致与氛围。\n\n由RAH Tourism LLC - Dubai负责安排，价格中含5项内容。可免费取消。\n\n价格包含酒店/港口接送、乘坐私人空调车辆出行、私人向导、私人游览。不包含，请另行预算。两位旅客共同支付439美元，而不是每人各付439美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在私人一日游中沉浸于迪拜的景致与氛围"
+  ],
+  "included": [
+   "酒店/港口接送",
+   "乘坐私人空调车辆出行",
+   "私人向导",
+   "私人游览"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-splash-thrill-20-minute-jet-car-dxb-harbour": {
+  "title": "迪拜：畅快刺激，20分钟迪拜港水上摩托艇体验",
+  "metaTitle": "迪拜：畅快刺激，20分钟迪拜港水上摩托艇体验",
+  "metaDescription": "一次从迪拜出发的0.333333小时行程，游览Dubai Harbour。由Waterlink提供。",
+  "shortDescription": "一次从迪拜出发的0.333333小时行程，游览Dubai Harbour。由Waterlink提供。",
+  "fullDescription": "一次从迪拜出发的0.333333小时行程，途经Dubai Harbour。\n\n价格包含迪拜双人水上摩托艇体验、持证教练提供的完整安全讲解、救生衣及船用级安全装备、瓶装饮用水。不包含个人消费，请另行预算。两位旅客共同支付264美元，而不是每人各付264美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的0.333333小时行程，游览Dubai Harbour。由Waterlink提供。"
+  ],
+  "included": [
+   "迪拜双人水上摩托艇体验",
+   "持证教练提供的完整安全讲解",
+   "救生衣及船用级安全装备",
+   "瓶装饮用水"
+  ],
+  "notIncluded": [
+   "个人消费"
+  ]
+ },
+ "dubai-private-transportation-from-dubai-airport-to": {
+  "title": "迪拜：迪拜机场至迪拜市内私人接送",
+  "metaTitle": "迪拜：迪拜机场至迪拜市内私人接送",
+  "metaDescription": "一次1小时的迪拜体验。抵达后，代理人将举牌迎接您。由Rimo Tourss提供。",
+  "shortDescription": "一次1小时的迪拜体验。抵达后，代理人将举牌迎接您。由Rimo Tourss提供。",
+  "fullDescription": "一次1小时的迪拜体验。抵达后，代理人将举牌迎接您。\n\n由Rimo Tourss负责安排，价格中含7项内容。可免费取消。\n\n价格包含迪拜机场17公里范围内任意地点的私人机场接送、在机场内举牌迎接、航班、航班落地后60分钟机场等候时间。不包含，请另行预算。两位旅客共同支付51美元，而不是每人各付51美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "抵达后，代理人将举牌迎接您"
+  ],
+  "included": [
+   "迪拜机场17公里范围内任意地点的私人机场接送",
+   "在机场内举牌迎接",
+   "航班",
+   "航班落地后60分钟机场等候时间"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-atlantis-aquaventure-tickets-with-hotel-tran": {
+  "title": "迪拜：亚特兰蒂斯水上乐园门票，含酒店接送",
+  "metaTitle": "迪拜：亚特兰蒂斯水上乐园门票，含酒店接送",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Aquaventure Waterpark。由360 Adventures Tourism LLC提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Aquaventure Waterpark。由360 Adventures Tourism LLC提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Aquaventure Waterpark。最长的一站是Aquaventure Waterpark，约8小时。\n\n价格包含亚特兰蒂斯水上乐园门票、酒店接送（拼车或私人，取决于所选选项）、司机、车内瓶装水。不包含餐食及额外饮品、上述以外其他区域的门票，请另行预算。两位旅客共同支付627美元，而不是每人各付461美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Aquaventure Waterpark。由360 Adventures Tourism LLC提供。"
+  ],
+  "included": [
+   "亚特兰蒂斯水上乐园门票",
+   "酒店接送（拼车或私人，取决于所选选项）",
+   "司机",
+   "车内瓶装水"
+  ],
+  "notIncluded": [
+   "餐食及额外饮品",
+   "上述以外其他区域的门票"
   ]
  },
  "dubai-wakesurfing-wakeboarding-snacks-drinks-inclu": {
@@ -23317,6 +27191,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "专业大巴"
   ]
  },
+ "dubai-dhow-dinner-cruise-on-creek-or-marina-with": {
+  "title": "迪拜：河道或码头传统木船晚餐巡游，含现场表演",
+  "metaTitle": "迪拜：河道或码头传统木船晚餐巡游，含现场表演",
+  "metaDescription": "一次从迪拜出发的1.5小时行程，游览Dubai Creek和Dubai Creek。由Buggy Explorers提供。",
+  "shortDescription": "一次从迪拜出发的1.5小时行程，游览Dubai Creek和Dubai Creek。由Buggy Explorers提供。",
+  "fullDescription": "一次从迪拜出发的1.5小时行程，途经Dubai Creek和Dubai Creek。最长的一站是Dubai Creek，约2小时。全程共2站。\n\n行程顺序为Dubai Creek (2h), 然后 Dubai Creek。\n\n价格包含酒店往返接送（如选择此选项）、河道或码头游船（取决于所选选项）、自助晚餐（含素食选项）、茶和咖啡。不包含含酒精饮品，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1.5小时行程，游览Dubai Creek和Dubai Creek。由Buggy Explorers提供。"
+  ],
+  "included": [
+   "酒店往返接送（如选择此选项）",
+   "河道或码头游船（取决于所选选项）",
+   "自助晚餐（含素食选项）",
+   "茶和咖啡"
+  ],
+  "notIncluded": [
+   "含酒精饮品"
+  ]
+ },
  "dubai-flying-dress-photo-marilyn-package": {
   "title": "迪拜：飞裙摄影“玛丽莲套餐”",
   "metaTitle": "迪拜：飞裙摄影“玛丽莲套餐”",
@@ -23334,6 +27227,86 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "dubai-scenic-dhow-cruise-with-buffet-dinner-and-li": {
+  "title": "迪拜：风景传统木船巡游，含自助晚餐与现场表演",
+  "metaTitle": "迪拜：风景传统木船巡游，含自助晚餐与现场表演",
+  "metaDescription": "一次1.5小时的迪拜体验。在传统木船上享用自助晚餐，沿河道巡游。由Buggy Explorers提供。",
+  "shortDescription": "一次1.5小时的迪拜体验。在传统木船上享用自助晚餐，沿河道巡游。由Buggy Explorers提供。",
+  "fullDescription": "一次1.5小时的迪拜体验。在传统木船上享用自助晚餐，沿河道巡游。\n\n由Buggy Explorers负责安排，价格中含3项内容。可免费取消。\n\n价格包含传统木船巡游、自助晚餐、现场表演。不包含含酒精饮品、小费，请另行预算。",
+  "highlights": [
+   "在传统木船上享用自助晚餐，沿河道巡游"
+  ],
+  "included": [
+   "传统木船巡游",
+   "自助晚餐",
+   "现场表演"
+  ],
+  "notIncluded": [
+   "含酒精饮品",
+   "小费"
+  ]
+ },
+ "abu-dhabi-city-tour-with-qasr-al-watan": {
+  "title": "阿布扎比城市游览，含阿尔瓦坦宫",
+  "metaTitle": "阿布扎比城市游览，含阿尔瓦坦宫",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Emirates Palace和Qasr Al Watan。由Ammar Tours提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Emirates Palace和Qasr Al Watan。由Ammar Tours提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Emirates Palace和Qasr Al Watan。全程共4站。\n\n行程顺序为Sheikh Zayed Mosque, 然后 The Corniche, Abu Dhabi, 然后 Emirates Palace, 然后 Qasr Al Watan。\n\n价格包含酒店接送、乘坐空调车辆出行、1.5小时谢赫扎耶德大清真寺参观、阿尔瓦坦宫门票。不包含餐食、小费，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Emirates Palace和Qasr Al Watan。由Ammar Tours提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "乘坐空调车辆出行",
+   "1.5小时谢赫扎耶德大清真寺参观",
+   "阿尔瓦坦宫门票"
+  ],
+  "notIncluded": [
+   "餐食",
+   "小费"
+  ]
+ },
+ "from-abu-dhabi-snorkeling-with-turtles-in-fujairah": {
+  "title": "阿布扎比出发：富查伊拉海龟浮潜之旅",
+  "metaTitle": "阿布扎比出发：富查伊拉海龟浮潜之旅",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah和Khorfakkan Amphitheatre。由Reef Oasis Diving Center提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah和Khorfakkan Amphitheatre。由Reef Oasis Diving Center提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah和Khorfakkan Amphitheatre。最长的一站是Reef Oasis Dive Club, Fujairah，约1小时。全程共5站。\n\n行程顺序为Snoopy Island, 然后 Sharm Rocks, 然后 Reef Oasis Dive Club, Fujairah (1h), 然后 Khorfakkan Amphitheatre (15 min), 然后 Khorfakkan Waterfalls (15 min)。\n\n价格包含从市中心集合点出发的接送、潜水中心储物柜及更衣室使用权、所有浮潜装备、救生衣。不包含毛巾、防晒霜、泳衣，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah和Khorfakkan Amphitheatre。由Reef Oasis Diving Center提供。"
+  ],
+  "included": [
+   "从市中心集合点出发的接送",
+   "潜水中心储物柜及更衣室使用权",
+   "所有浮潜装备",
+   "救生衣"
+  ],
+  "notIncluded": [
+   "毛巾",
+   "防晒霜",
+   "泳衣"
+  ]
+ },
+ "dubai-dune-buggy-safari-and-camel-ride-with-transp": {
+  "title": "迪拜：沙漠越野车之旅及骆驼骑行，含交通接送",
+  "metaTitle": "迪拜：沙漠越野车之旅及骆驼骑行，含交通接送",
+  "metaDescription": "一次半天的迪拜体验。自驾1000cc运动型沙漠越野车。由Kings and Queens Luxury Yachts提供。",
+  "shortDescription": "一次半天的迪拜体验。自驾1000cc运动型沙漠越野车。由Kings and Queens Luxury Yachts提供。",
+  "fullDescription": "一次半天的迪拜体验。自驾1000cc运动型沙漠越野车。\n\n由Kings and Queens Luxury Yachts负责安排，价格中含11项内容。可免费取消。\n\n价格包含乘坐1000cc RZR运动型越野车，1小时私人越野骑行、私人往返接送、滑沙、骆驼骑行。不包含与猎鹰合影、食品（可购买），请另行预算。两位旅客共同支付461美元，而不是每人各付461美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "自驾1000cc运动型沙漠越野车"
+  ],
+  "included": [
+   "乘坐1000cc RZR运动型越野车，1小时私人越野骑行",
+   "私人往返接送",
+   "滑沙",
+   "骆驼骑行"
+  ],
+  "notIncluded": [
+   "与猎鹰合影",
+   "食品（可购买）"
   ]
  },
  "dubai-30-minute-flyboard-with-instructor-and-free-": {
@@ -23374,6 +27347,46 @@ export const ZH_TOURS: Record<string, TourT> = {
    "酒店往返接送"
   ]
  },
+ "dubai-speedboat-scuba-diving-on-uaes-largest-divin": {
+  "title": "迪拜：乘坐阿联酋最大潜水船进行快艇水肺潜水",
+  "metaTitle": "迪拜：乘坐阿联酋最大潜水船进行快艇水肺潜水",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Bermuda Diving Center, Al Mina和Dubai Islands。由Bermuda Diving Center LLC提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Bermuda Diving Center, Al Mina和Dubai Islands。由Bermuda Diving Center LLC提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Bermuda Diving Center, Al Mina和Dubai Islands。最长的一站是Bermuda Diving Center，约1小时。全程共3站。\n\n行程顺序为Bermuda Diving Center (1h), 然后 Al Mina (30 min), 然后 Dubai Islands (1h)。\n\n价格包含免费酒店接送（迪拜）、无限次水下照片及视频拍摄、1小时潜水培训课程、30分钟快艇前往潜水点。不包含，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Bermuda Diving Center, Al Mina和Dubai Islands。由Bermuda Diving Center LLC提供。"
+  ],
+  "included": [
+   "免费酒店接送（迪拜）",
+   "无限次水下照片及视频拍摄",
+   "1小时潜水培训课程",
+   "30分钟快艇前往潜水点"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-sunset-or-dinner-cruise-with-live-music-open": {
+  "title": "迪拜：日落或晚餐巡游，含现场音乐及开放式酒吧",
+  "metaTitle": "迪拜：日落或晚餐巡游，含现场音乐及开放式酒吧",
+  "metaDescription": "一次从迪拜出发的1.5小时行程，游览Dubai Marina, Ain Dubai, Jumeirah Beach Residence和Dubai Harbour。由Xclusive Yachts提供。",
+  "shortDescription": "一次从迪拜出发的1.5小时行程，游览Dubai Marina, Ain Dubai, Jumeirah Beach Residence和Dubai Harbour。由Xclusive Yachts提供。",
+  "fullDescription": "一次从迪拜出发的1.5小时行程，途经Dubai Marina, Ain Dubai, Jumeirah Beach Residence和Dubai Harbour。全程共4站。\n\n行程顺序为Dubai Marina, 然后 Ain Dubai, 然后 Jumeirah Beach Residence, 然后 Dubai Harbour。\n\n价格包含90分钟巡游、国际自助晚餐、无限畅饮啤酒、葡萄酒及烈酒、无限畅饮软饮、果汁、水、茶及咖啡、现场音乐、意面档位。不包含酒店往返接送，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1.5小时行程，游览Dubai Marina, Ain Dubai, Jumeirah Beach Residence和Dubai Harbour。由Xclusive Yachts提供。"
+  ],
+  "included": [
+   "90分钟巡游",
+   "国际自助晚餐",
+   "无限畅饮啤酒、葡萄酒及烈酒",
+   "无限畅饮软饮、果汁、水、茶及咖啡",
+   "现场音乐",
+   "意面档位"
+  ],
+  "notIncluded": [
+   "酒店往返接送"
+  ]
+ },
  "dubai-marina-15-hour-atlantis-sightseeing-speedboa": {
   "title": "迪拜码头：1.5小时亚特兰蒂斯观光快艇之旅",
   "metaTitle": "迪拜码头：1.5小时亚特兰蒂斯观光快艇之旅",
@@ -23390,6 +27403,86 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "酒店接送"
+  ]
+ },
+ "dubai-top-5-attractions-tour-with-entry-tickets": {
+  "title": "迪拜：5大热门景点游览，含门票",
+  "metaTitle": "迪拜：5大热门景点游览，含门票",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Burj Khalifa, Dubai Aquarium & Underwater Zoo, Dubai Frame和Miracle Garden。由Travtur Tourism L.L.C提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Burj Khalifa, Dubai Aquarium & Underwater Zoo, Dubai Frame和Miracle Garden。由Travtur Tourism L.L.C提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Burj Khalifa, Dubai Aquarium & Underwater Zoo, Dubai Frame和Miracle Garden。最长的一站是Burj Khalifa，约1小时。全程共5站。\n\n行程顺序为Burj Khalifa (1h), 然后 Dubai Aquarium & Underwater Zoo (1h), 然后 Dubai Frame (1h), 然后 Miracle Garden (1h), 然后 Global Village。\n\n价格包含迪拜酒店出发的接送、空调车辆接送、专业英语向导、哈利法塔顶层观景台门票（124及125层）。不包含个人消费、小费（可选）、哈利法塔SKY观景台可在柜台升级（148、152及154层），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Burj Khalifa, Dubai Aquarium & Underwater Zoo, Dubai Frame和Miracle Garden。由Travtur Tourism L.L.C提供。"
+  ],
+  "included": [
+   "迪拜酒店出发的接送",
+   "空调车辆接送",
+   "专业英语向导",
+   "哈利法塔顶层观景台门票（124及125层）"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费（可选）",
+   "哈利法塔SKY观景台可在柜台升级（148、152及154层）"
+  ]
+ },
+ "dubai-sightseeing-on-a-donut-ride": {
+  "title": "迪拜：甜甜圈漂移观光体验",
+  "metaTitle": "迪拜：甜甜圈漂移观光体验",
+  "metaDescription": "一次从迪拜出发的0.5小时行程，游览Burj Al Arab。由Yoush Watersports Dubai提供。",
+  "shortDescription": "一次从迪拜出发的0.5小时行程，游览Burj Al Arab。由Yoush Watersports Dubai提供。",
+  "fullDescription": "一次从迪拜出发的0.5小时行程，途经Burj Al Arab。\n\n价格包含生命安全装备、贵重物品存储柜、淋浴和更衣室、饮用水。不包含浴巾、接送服务，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的0.5小时行程，游览Burj Al Arab。由Yoush Watersports Dubai提供。"
+  ],
+  "included": [
+   "生命安全装备",
+   "贵重物品存储柜",
+   "淋浴和更衣室",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "浴巾",
+   "接送服务"
+  ]
+ },
+ "dubai-family-friendly-citytour-with-sightseeing-hi": {
+  "title": "迪拜：亲子友好城市游览，含观光精华",
+  "metaTitle": "迪拜：亲子友好城市游览，含观光精华",
+  "metaDescription": "一次半天的迪拜体验。赠送迪拜之框门票。由Laetitia Tourism LLC提供。",
+  "shortDescription": "一次半天的迪拜体验。赠送迪拜之框门票。由Laetitia Tourism LLC提供。",
+  "fullDescription": "一次半天的迪拜体验。赠送迪拜之框门票。\n\n由Laetitia Tourism LLC负责安排，价格中含6项内容。可免费取消。\n\n价格包含酒店往返接送、迪拜之框门票、私人城市游览，涵盖迪拜观光景点精华、迪拜河私人水上出租船体验。不包含餐食、迪拜之框以外景点的门票，请另行预算。",
+  "highlights": [
+   "赠送迪拜之框门票"
+  ],
+  "included": [
+   "酒店往返接送",
+   "迪拜之框门票",
+   "私人城市游览，涵盖迪拜观光景点精华",
+   "迪拜河私人水上出租船体验"
+  ],
+  "notIncluded": [
+   "餐食",
+   "迪拜之框以外景点的门票"
+  ]
+ },
+ "abu-dhabi-sheikh-zayed-grand-mosque-tour-with-phot": {
+  "title": "阿布扎比：谢赫扎耶德大清真寺游览，配摄影师",
+  "metaTitle": "阿布扎比：谢赫扎耶德大清真寺游览，配摄影师",
+  "metaDescription": "一次1.5小时的阿布扎比体验。享受专业摄影师的拍摄服务。由Picster提供。",
+  "shortDescription": "一次1.5小时的阿布扎比体验。享受专业摄影师的拍摄服务。由Picster提供。",
+  "fullDescription": "一次1.5小时的阿布扎比体验。享受专业摄影师的拍摄服务。\n\n由Picster负责安排，价格中含6项内容。可免费取消。\n\n价格包含游览期间的专业拍摄、英语摄影师、谢赫扎耶德清真寺门票、通过Google Drive提供无限张精修照片。不包含酒店往返接送，请另行预算。两位旅客共同支付277美元，而不是每人各付277美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "享受专业摄影师的拍摄服务"
+  ],
+  "included": [
+   "游览期间的专业拍摄",
+   "英语摄影师",
+   "谢赫扎耶德清真寺门票",
+   "通过Google Drive提供无限张精修照片"
+  ],
+  "notIncluded": [
+   "酒店往返接送"
   ]
  },
  "dubai-jet-ski-flyboard-in-dubai-free-ice-cream": {
@@ -23410,6 +27503,87 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "酒店往返接送",
    "餐食"
+  ]
+ },
+ "dubai-private-desert-buggy-tour-camel-ride-sandboa": {
+  "title": "迪拜：私人沙漠越野车之旅，含骆驼骑行及滑沙",
+  "metaTitle": "迪拜：私人沙漠越野车之旅，含骆驼骑行及滑沙",
+  "metaDescription": "一次从迪拜出发的1小时行程，游览On foot, View point, View point和Visitor center。由Kings and Queens Luxury Yachts提供。",
+  "shortDescription": "一次从迪拜出发的1小时行程，游览On foot, View point, View point和Visitor center。由Kings and Queens Luxury Yachts提供。",
+  "fullDescription": "一次从迪拜出发的1小时行程，途经On foot, View point, View point和Visitor center。最长的一站是View point，约1小时。全程共4站。\n\n行程顺序为On foot (5 min), 然后 View point (1h), 然后 View point, 然后 Visitor center (15 min)。\n\n价格包含乘坐2023款Polaris 1000cc4x4RZR越野车，1小时越野之旅、滑沙、骆驼骑行、可使用室内及室外休息区。不包含私人接送，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1小时行程，游览On foot, View point, View point和Visitor center。由Kings and Queens Luxury Yachts提供。"
+  ],
+  "included": [
+   "乘坐2023款Polaris 1000cc4x4RZR越野车，1小时越野之旅",
+   "滑沙",
+   "骆驼骑行",
+   "可使用室内及室外休息区"
+  ],
+  "notIncluded": [
+   "私人接送"
+  ]
+ },
+ "from-dubai-abu-dhabi-day-tour-with-ferrari-world": {
+  "title": "迪拜出发：阿布扎比一日游，含法拉利世界门票",
+  "metaTitle": "迪拜出发：阿布扎比一日游，含法拉利世界门票",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Al Bateen, Abu Dhabi, Emirates Palace和Etihad Towers。由Travtur Tourism L.L.C提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Al Bateen, Abu Dhabi, Emirates Palace和Etihad Towers。由Travtur Tourism L.L.C提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Sheikh Zayed Mosque, Al Bateen, Abu Dhabi, Emirates Palace和Etihad Towers。最长的一站是Ferrari World Abu Dhabi，约4小时。全程共7站。\n\n行程顺序为Sheikh Zayed Mosque (45 min), 然后 Al Bateen, Abu Dhabi (20 min), 然后 Emirates Palace (15 min), 然后 Etihad Towers (10 min), 然后 The Corniche, Abu Dhabi (20 min)。\n\n价格包含酒店接送、法拉利世界门票、乘坐法拉利方程式过山车、参观谢赫扎耶德清真寺。不包含午餐、小费（可选），请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Al Bateen, Abu Dhabi, Emirates Palace和Etihad Towers。由Travtur Tourism L.L.C提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "法拉利世界门票",
+   "乘坐法拉利方程式过山车",
+   "参观谢赫扎耶德清真寺"
+  ],
+  "notIncluded": [
+   "午餐",
+   "小费（可选）"
+  ]
+ },
+ "dubai-4-hour-tour-with-burj-khalifa-tickets": {
+  "title": "迪拜：4小时游览，含哈利法塔门票",
+  "metaTitle": "迪拜：4小时游览，含哈利法塔门票",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Atlantis, Dubai, Al Nafoorah - Jumeirah Zabeel Saray, Dubai Marina和Souk Madinat Jumeirah。由Travtur Tourism L.L.C提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Atlantis, Dubai, Al Nafoorah - Jumeirah Zabeel Saray, Dubai Marina和Souk Madinat Jumeirah。由Travtur Tourism L.L.C提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Atlantis, Dubai, Al Nafoorah - Jumeirah Zabeel Saray, Dubai Marina和Souk Madinat Jumeirah。最长的一站是Burj Khalifa Level 124-125，约1小时。全程共9站。\n\n行程顺序为Atlantis, Dubai (10 min), 然后 Al Nafoorah - Jumeirah Zabeel Saray (15 min), 然后 Dubai Marina (10 min), 然后 Souk Madinat Jumeirah (20 min), 然后 Burj Al Arab (10 min)。\n\n价格包含酒店接送、哈利法塔门票、专业导游、水和软饮。不包含返回酒店的接送、小费（可选），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Atlantis, Dubai, Al Nafoorah - Jumeirah Zabeel Saray, Dubai Marina和Souk Madinat Jumeirah。由Travtur Tourism L.L.C提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "哈利法塔门票",
+   "专业导游",
+   "水和软饮"
+  ],
+  "notIncluded": [
+   "返回酒店的接送",
+   "小费（可选）"
+  ]
+ },
+ "dubai-jet-car-to-burj-al-arab-or-atlantis": {
+  "title": "迪拜：水上摩托艇前往阿拉伯塔或亚特兰蒂斯",
+  "metaTitle": "迪拜：水上摩托艇前往阿拉伯塔或亚特兰蒂斯",
+  "metaDescription": "一次从迪拜出发的0.333333小时行程，游览Burj Al Arab和Umm Suqeim。由Friend Aqua waterSports提供。",
+  "shortDescription": "一次从迪拜出发的0.333333小时行程，游览Burj Al Arab和Umm Suqeim。由Friend Aqua waterSports提供。",
+  "fullDescription": "一次从迪拜出发的0.333333小时行程，途经Burj Al Arab和Umm Suqeim。全程共2站。\n\n行程顺序为Burj Al Arab, 然后 Umm Suqeim。\n\n价格包含导游、救生衣、无限量瓶装水、无线网络。不包含专业摄影师提供精修照片及视频（仅限现场提供）、毛巾、泳衣、停车费（每小时3迪拉姆），请另行预算。两位旅客共同支付208美元，而不是每人各付208美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的0.333333小时行程，游览Burj Al Arab和Umm Suqeim。由Friend Aqua waterSports提供。"
+  ],
+  "included": [
+   "导游",
+   "救生衣",
+   "无限量瓶装水",
+   "无线网络"
+  ],
+  "notIncluded": [
+   "专业摄影师提供精修照片及视频（仅限现场提供）",
+   "毛巾",
+   "泳衣",
+   "停车费（每小时3迪拉姆）"
   ]
  },
  "jet-car-squad-goals-4-seats-1-epic-ride": {
@@ -23451,6 +27625,44 @@ export const ZH_TOURS: Record<string, TourT> = {
    "浴巾"
   ]
  },
+ "from-dubai-abu-dhabi-small-group-day-tour-with": {
+  "title": "迪拜出发：阿布扎比小团一日游，含午餐",
+  "metaTitle": "迪拜出发：阿布扎比小团一日游，含午餐",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Emirates Palace, Etihad Towers和Abu Dhabi Heritage Village。由Travtur Tourism L.L.C提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Emirates Palace, Etihad Towers和Abu Dhabi Heritage Village。由Travtur Tourism L.L.C提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Sheikh Zayed Mosque, Emirates Palace, Etihad Towers和Abu Dhabi Heritage Village。最长的一站是Sheikh Zayed Mosque，约1小时。全程共6站。\n\n行程顺序为Sheikh Zayed Mosque (1h), 然后 Emirates Palace (20 min), 然后 Etihad Towers (10 min), 然后 Abu Dhabi Heritage Village (30 min), 然后 Abu Dhabi fish market (1h)。\n\n价格包含含午餐、游览期间提供饮用水、每人一份软饮、保证小团出行，不乘大巴，仅使用6座车辆。不包含小费（可选），请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Emirates Palace, Etihad Towers和Abu Dhabi Heritage Village。由Travtur Tourism L.L.C提供。"
+  ],
+  "included": [
+   "含午餐",
+   "游览期间提供饮用水",
+   "每人一份软饮",
+   "保证小团出行，不乘大巴，仅使用6座车辆"
+  ],
+  "notIncluded": [
+   "小费（可选）"
+  ]
+ },
+ "dubai-nighttime-guided-city-tour-by-van-dxb-founta": {
+  "title": "迪拜：厢式车夜间向导城市游览，含迪拜喷泉表演",
+  "metaTitle": "迪拜：厢式车夜间向导城市游览，含迪拜喷泉表演",
+  "metaDescription": "一次半天的迪拜体验。在向导游览中于夜间领略这座璀璨都市的精髓。由Venezia Tourism - Dubai提供。",
+  "shortDescription": "一次半天的迪拜体验。在向导游览中于夜间领略这座璀璨都市的精髓。由Venezia Tourism - Dubai提供。",
+  "fullDescription": "一次半天的迪拜体验。在向导游览中于夜间领略这座璀璨都市的精髓。\n\n由Venezia Tourism - Dubai负责安排，价格中含5项内容。可免费取消。\n\n价格包含酒店接送、酒店送返（取决于所选选项）、导游、乘坐厢式车夜游城市。不包含餐食和饮品，请另行预算。两位旅客共同支付415美元，而不是每人各付415美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在向导游览中于夜间领略这座璀璨都市的精髓"
+  ],
+  "included": [
+   "酒店接送",
+   "酒店送返（取决于所选选项）",
+   "导游",
+   "乘坐厢式车夜游城市"
+  ],
+  "notIncluded": [
+   "餐食和饮品"
+  ]
+ },
  "dubai-vip-private-city-tour-with-burj-khalifa-entr": {
   "title": "迪拜：VIP私人城市游，含哈利法塔门票",
   "metaTitle": "迪拜：VIP私人城市游，含哈利法塔门票",
@@ -23468,6 +27680,45 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "dubai-private-day-night-customize-city-tour": {
+  "title": "迪拜：私人定制日夜城市游览",
+  "metaTitle": "迪拜：私人定制日夜城市游览",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Dubai Gold Souk, Dubai Spice Souk, Water taxi和Al Seef。由Yalla Walk tourism提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Dubai Gold Souk, Dubai Spice Souk, Water taxi和Al Seef。由Yalla Walk tourism提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Dubai Gold Souk, Dubai Spice Souk, Water taxi和Al Seef。全程共12站。\n\n行程顺序为Dubai Gold Souk, 然后 Dubai Spice Souk, 然后 Water taxi, 然后 Al Seef, 然后 Al Bastakiya。\n\n价格包含酒店接送、参观迪拜老城区、法希迪堡、巴斯塔基亚。不包含个人消费，请另行预算。两位旅客共同支付480美元，而不是每人各付461美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Dubai Gold Souk, Dubai Spice Souk, Water taxi和Al Seef。由Yalla Walk tourism提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "参观迪拜老城区",
+   "法希迪堡",
+   "巴斯塔基亚"
+  ],
+  "notIncluded": [
+   "个人消费"
+  ]
+ },
+ "from-dubai-jabel-jais-high-mountain-tour-with-tran": {
+  "title": "迪拜出发：杰贝勒贾伊斯高山游览，含接送",
+  "metaTitle": "迪拜出发：杰贝勒贾伊斯高山游览，含接送",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV和Jabal Jais。由Dunes To Downtown Tourism LLC Dubai提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV和Jabal Jais。由Dunes To Downtown Tourism LLC Dubai提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV和Jabal Jais。全程共2站。\n\n行程顺序为Jeep / SUV, 然后 Jabal Jais。\n\n价格包含乘坐4x4车的酒店接送、向导、高山观光、安全装备。不包含飞索、贾伊斯雪橇滑道，请另行预算。两位旅客共同支付461美元，而不是每人各付461美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV和Jabal Jais。由Dunes To Downtown Tourism LLC Dubai提供。"
+  ],
+  "included": [
+   "乘坐4x4车的酒店接送",
+   "向导",
+   "高山观光",
+   "安全装备"
+  ],
+  "notIncluded": [
+   "飞索",
+   "贾伊斯雪橇滑道"
   ]
  },
  "dubai-old-city-walking-tour-with-abra-ride": {
@@ -23524,6 +27775,123 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "dubai-abu-dhabi-mosque-and-ferrari-world-tour-with": {
+  "title": "迪拜：阿布扎比清真寺与法拉利世界游览，含门票",
+  "metaTitle": "迪拜：阿布扎比清真寺与法拉利世界游览，含门票",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, Yas Mall和Ferrari World Abu Dhabi。由DMC Arabia Tourism LLC提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, Yas Mall和Ferrari World Abu Dhabi。由DMC Arabia Tourism LLC提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Sheikh Zayed Mosque, Yas Mall和Ferrari World Abu Dhabi。最长的一站是Ferrari World Abu Dhabi，约4小时。全程共3站。\n\n行程顺序为Sheikh Zayed Mosque (2h), 然后 Yas Mall (1h), 然后 Ferrari World Abu Dhabi (4h)。\n\n价格包含多语言语音导览及持证英语向导、法拉利世界乐园门票、参观谢赫扎耶德大清真寺、乘坐空调车辆从迪拜市区酒店接送。不包含个人消费、午餐、小费，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, Yas Mall和Ferrari World Abu Dhabi。由DMC Arabia Tourism LLC提供。"
+  ],
+  "included": [
+   "多语言语音导览及持证英语向导",
+   "法拉利世界乐园门票",
+   "参观谢赫扎耶德大清真寺",
+   "乘坐空调车辆从迪拜市区酒店接送"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "午餐",
+   "小费"
+  ]
+ },
+ "dubai-premium-old-town-street-food-souks-boat-ride": {
+  "title": "迪拜：高端老城、街头美食、市集与乘船游览",
+  "metaTitle": "迪拜：高端老城、街头美食、市集与乘船游览",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Al Seef, Al Fahidi, Al Souq Al Kabeer和Dubai Creek。由MAGIC LAMP TOURISM L.L.C提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Al Seef, Al Fahidi, Al Souq Al Kabeer和Dubai Creek。由MAGIC LAMP TOURISM L.L.C提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Al Seef, Al Fahidi, Al Souq Al Kabeer和Dubai Creek。全程共7站。\n\n行程顺序为Al Seef (20 min), 然后 Al Fahidi (40 min), 然后 Al Souq Al Kabeer (25 min), 然后 Dubai Creek (10 min), 然后 Water taxi (10 min)。\n\n价格包含私人传统渡船（阿布拉）、本地导游、街头美食、鲜榨果汁。不包含酒店往返接送，请另行预算。两位旅客共同支付691美元，而不是每人各付691美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Al Seef, Al Fahidi, Al Souq Al Kabeer和Dubai Creek。由MAGIC LAMP TOURISM L.L.C提供。"
+  ],
+  "included": [
+   "私人传统渡船（阿布拉）",
+   "本地导游",
+   "街头美食",
+   "鲜榨果汁"
+  ],
+  "notIncluded": [
+   "酒店往返接送"
+  ]
+ },
+ "dubai-private-old-dubai-frame-entry-tastings-trans": {
+  "title": "迪拜：私人老迪拜游览，含迪拜之框门票、品鉴及接送",
+  "metaTitle": "迪拜：私人老迪拜游览，含迪拜之框门票、品鉴及接送",
+  "metaDescription": "一次半天的迪拜体验。享受配备私人向导和座驾的私人游览，尽享极致奢华。由MAGIC LAMP TOURISM L.L.C提供。",
+  "shortDescription": "一次半天的迪拜体验。享受配备私人向导和座驾的私人游览，尽享极致奢华。由MAGIC LAMP TOURISM L.L.C提供。",
+  "fullDescription": "一次半天的迪拜体验。享受配备私人向导和座驾的私人游览，尽享极致奢华。\n\n由MAGIC LAMP TOURISM L.L.C负责安排，价格中含10项内容。可免费取消。\n\n价格包含酒店往返接送、现场讲解向导、空调车辆、迪拜之框门票。不包含，请另行预算。两位旅客共同支付830美元，而不是每人各付830美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "享受配备私人向导和座驾的私人游览，尽享极致奢华"
+  ],
+  "included": [
+   "酒店往返接送",
+   "现场讲解向导",
+   "空调车辆",
+   "迪拜之框门票"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-e-scooter-guided-tour-of-marina-jbr-bluewate": {
+  "title": "迪拜：电动滑板车向导游览，游览码头、JBR及蓝水岛",
+  "metaTitle": "迪拜：电动滑板车向导游览，游览码头、JBR及蓝水岛",
+  "metaDescription": "一次从迪拜出发的2小时行程，游览Dubai Marina, Bluewaters Island, Ain Dubai和Address Beach Resort。由1001 Experiences提供。",
+  "shortDescription": "一次从迪拜出发的2小时行程，游览Dubai Marina, Bluewaters Island, Ain Dubai和Address Beach Resort。由1001 Experiences提供。",
+  "fullDescription": "一次从迪拜出发的2小时行程，途经Dubai Marina, Bluewaters Island, Ain Dubai和Address Beach Resort。全程共8站。\n\n行程顺序为Dubai Marina (10 min), 然后 Bluewaters Island (20 min), 然后 Ain Dubai (10 min), 然后 Address Beach Resort (10 min), 然后 Jumeirah Beach Residence (20 min)。\n\n价格包含电动滑板车、高级持证导游、蓝水岛参观、JBR参观。不包含，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的2小时行程，游览Dubai Marina, Bluewaters Island, Ain Dubai和Address Beach Resort。由1001 Experiences提供。"
+  ],
+  "included": [
+   "电动滑板车",
+   "高级持证导游",
+   "蓝水岛参观",
+   "JBR参观"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "morning-desert-adventure-sandboarding-camel-ride": {
+  "title": "晨间沙漠冒险、滑沙及骆驼骑行",
+  "metaTitle": "晨间沙漠冒险、滑沙及骆驼骑行",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览Jeep / SUV, Jeep / SUV和Abu Dhabi。由OceanAir Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览Jeep / SUV, Jeep / SUV和Abu Dhabi。由OceanAir Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Jeep / SUV, Jeep / SUV和Abu Dhabi。最长的一站是Jeep / SUV，约1小时。全程共3站。\n\n行程顺序为Jeep / SUV (1h), 然后 Jeep / SUV (30 min), 然后 Abu Dhabi (45 min)。\n\n价格包含酒店接送（阿布扎比）、空调4x4车、专业英语司机、沙漠冲沙体验。不包含个人消费及纪念品，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览Jeep / SUV, Jeep / SUV和Abu Dhabi。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "酒店接送（阿布扎比）",
+   "空调4x4车",
+   "专业英语司机",
+   "沙漠冲沙体验"
+  ],
+  "notIncluded": [
+   "个人消费及纪念品"
+  ]
+ },
+ "dubai-private-half-day-sightseeing-tour": {
+  "title": "迪拜：私人半日观光游览",
+  "metaTitle": "迪拜：私人半日观光游览",
+  "metaDescription": "一次半天的迪拜体验。乘坐私人空调座驾，舒适惬意地探索迪拜。由Yalla Walk tourism提供。",
+  "shortDescription": "一次半天的迪拜体验。乘坐私人空调座驾，舒适惬意地探索迪拜。由Yalla Walk tourism提供。",
+  "fullDescription": "一次半天的迪拜体验。乘坐私人空调座驾，舒适惬意地探索迪拜。\n\n由Yalla Walk tourism负责安排，价格中含5项内容。可免费取消。\n\n价格包含空调4x4车、专业英语向导、酒店往返接送、主要景点拍照停留。不包含餐食、个人消费，请另行预算。",
+  "highlights": [
+   "乘坐私人空调座驾，舒适惬意地探索迪拜"
+  ],
+  "included": [
+   "空调4x4车",
+   "专业英语向导",
+   "酒店往返接送",
+   "主要景点拍照停留"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
+  ]
+ },
  "abu-dhabi-full-day-city-tour": {
   "title": "阿布扎比全日城市游",
   "metaTitle": "阿布扎比全日城市游",
@@ -23543,6 +27911,66 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "fujairah-try-diving-experience-with-underwater-pho": {
+  "title": "富查伊拉体验潜水，含水下照片",
+  "metaTitle": "富查伊拉体验潜水，含水下照片",
+  "metaDescription": "一次2小时的迪拜体验。适合初学者的水肺潜水体验，无需潜水证。由Reef Oasis Diving Center提供。",
+  "shortDescription": "一次2小时的迪拜体验。适合初学者的水肺潜水体验，无需潜水证。由Reef Oasis Diving Center提供。",
+  "fullDescription": "一次2小时的迪拜体验。适合初学者的水肺潜水体验，无需潜水证。\n\n由Reef Oasis Diving Center负责安排，价格中含5项内容。可免费取消。\n\n价格包含30分钟水下水肺潜水、水肺潜水装备、水下照片、水肺潜水教练。不包含泳裤及毛巾，请另行预算。",
+  "highlights": [
+   "适合初学者的水肺潜水体验，无需潜水证"
+  ],
+  "included": [
+   "30分钟水下水肺潜水",
+   "水肺潜水装备",
+   "水下照片",
+   "水肺潜水教练"
+  ],
+  "notIncluded": [
+   "泳裤及毛巾"
+  ]
+ },
+ "dubai-heritage-camel-desert-safari-with-traditiona": {
+  "title": "迪拜：文化骆驼沙漠之旅，含传统晚餐",
+  "metaTitle": "迪拜：文化骆驼沙漠之旅，含传统晚餐",
+  "metaDescription": "一次全天的迪拜体验。骑乘骆驼，像贝都因人一样体验沙漠风光。由Platinum Heritage Luxury Tours & Safaris提供。",
+  "shortDescription": "一次全天的迪拜体验。骑乘骆驼，像贝都因人一样体验沙漠风光。由Platinum Heritage Luxury Tours & Safaris提供。",
+  "fullDescription": "一次全天的迪拜体验。骑乘骆驼，像贝都因人一样体验沙漠风光。\n\n由Platinum Heritage Luxury Tours & Safaris负责安排，价格中含10项内容。可免费取消。\n\n价格包含乘坐空调车辆的酒店接送、入口及营地的卫生间设施、纪念头饰及可重复灌装不锈钢水瓶、45分钟骆驼队骑行。不包含照片、小费，请另行预算。",
+  "highlights": [
+   "骑乘骆驼，像贝都因人一样体验沙漠风光"
+  ],
+  "included": [
+   "乘坐空调车辆的酒店接送",
+   "入口及营地的卫生间设施",
+   "纪念头饰及可重复灌装不锈钢水瓶",
+   "45分钟骆驼队骑行"
+  ],
+  "notIncluded": [
+   "照片",
+   "小费"
+  ]
+ },
+ "abu-dhabi-padi-basic-scuba-diver-course": {
+  "title": "阿布扎比PADI基础潜水课程",
+  "metaTitle": "阿布扎比PADI基础潜水课程",
+  "metaDescription": "一次半天的阿布扎比体验。迈向潜水证的第一步，无需任何经验！。由Reef Oasis Diving Center提供。",
+  "shortDescription": "一次半天的阿布扎比体验。迈向潜水证的第一步，无需任何经验！。由Reef Oasis Diving Center提供。",
+  "fullDescription": "一次半天的阿布扎比体验。迈向潜水证的第一步，无需任何经验！\n\n由Reef Oasis Diving Center负责安排，价格中含4项内容。可免费取消。\n\n价格包含潜水装备、潜水教练、3次封闭水域训练、2次开放水域潜水。不包含泳衣、毛巾、PADI在线学习资料，请另行预算。",
+  "highlights": [
+   "迈向潜水证的第一步，无需任何经验！"
+  ],
+  "included": [
+   "潜水装备",
+   "潜水教练",
+   "3次封闭水域训练",
+   "2次开放水域潜水"
+  ],
+  "notIncluded": [
+   "泳衣",
+   "毛巾",
+   "PADI在线学习资料"
+  ]
+ },
  "abu-dhabi-30min-exclusive-helicopter-tour": {
   "title": "阿布扎比：30分钟专属直升机之旅",
   "metaTitle": "阿布扎比：30分钟专属直升机之旅",
@@ -23558,6 +27986,87 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "dubai-private-self-drive-seakart-jet-ski-boat-tour": {
+  "title": "迪拜：私人自驾SeaKart水上摩托艇游览",
+  "metaTitle": "迪拜：私人自驾SeaKart水上摩托艇游览",
+  "metaDescription": "一次从迪拜出发的0.5小时行程，游览Golf cart, Dubai Harbour, Dubai Harbour和Dubai。由Adventure Zone Dubai提供。",
+  "shortDescription": "一次从迪拜出发的0.5小时行程，游览Golf cart, Dubai Harbour, Dubai Harbour和Dubai。由Adventure Zone Dubai提供。",
+  "fullDescription": "一次从迪拜出发的0.5小时行程，途经Golf cart, Dubai Harbour, Dubai Harbour和Dubai。全程共7站。\n\n行程顺序为Golf cart (10 min), 然后 Dubai Harbour (15 min), 然后 Dubai Harbour, 然后 Dubai (15 min), 然后 Dubai (10 min)。\n\n价格包含自驾SeaKart水上摩托艇、持证教练兼向导（驾驶专属船只）、救生衣及安全讲解、瓶装水。不包含酒店或住所接送、停车费，请另行预算。两位旅客共同支付254美元，而不是每人各付254美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的0.5小时行程，游览Golf cart, Dubai Harbour, Dubai Harbour和Dubai。由Adventure Zone Dubai提供。"
+  ],
+  "included": [
+   "自驾SeaKart水上摩托艇",
+   "持证教练兼向导（驾驶专属船只）",
+   "救生衣及安全讲解",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "酒店或住所接送",
+   "停车费"
+  ]
+ },
+ "dubai-clear-kayaking-experience-with-burj-khalifa-": {
+  "title": "迪拜：透明皮划艇体验，可观哈利法塔景色",
+  "metaTitle": "迪拜：透明皮划艇体验，可观哈利法塔景色",
+  "metaDescription": "一次从迪拜出发的1小时行程，游览On foot。由Crystal Clear Watersports LLC提供。",
+  "shortDescription": "一次从迪拜出发的1小时行程，游览On foot。由Crystal Clear Watersports LLC提供。",
+  "fullDescription": "一次从迪拜出发的1小时行程，途经On foot。\n\n由Crystal Clear Watersports LLC负责安排，价格中含3项内容。可免费取消。在迪拜享受完美海滩日，体验难忘的清澈海域皮划艇之旅。\n\n价格包含更衣室、海滩使用权、蓝牙音箱。不包含餐食和饮品、毛毯，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1小时行程，游览On foot。由Crystal Clear Watersports LLC提供。"
+  ],
+  "included": [
+   "更衣室",
+   "海滩使用权",
+   "蓝牙音箱"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "毛毯"
+  ]
+ },
+ "abu-dhabi-padi-discover-scuba-diving-program": {
+  "title": "阿布扎比：PADI体验潜水项目",
+  "metaTitle": "阿布扎比：PADI体验潜水项目",
+  "metaDescription": "一次2小时的阿布扎比体验。即使没有潜水证，也能体验水肺潜水的乐趣。由Reef Oasis Diving Center提供。",
+  "shortDescription": "一次2小时的阿布扎比体验。即使没有潜水证，也能体验水肺潜水的乐趣。由Reef Oasis Diving Center提供。",
+  "fullDescription": "一次2小时的阿布扎比体验。即使没有潜水证，也能体验水肺潜水的乐趣。\n\n由Reef Oasis Diving Center负责安排，价格中含4项内容。可免费取消。\n\n价格包含水肺潜水入门体验、教练、水肺潜水装备、水下照片。不包含泳衣、毛巾、PADI体验潜水证书，请另行预算。",
+  "highlights": [
+   "即使没有潜水证，也能体验水肺潜水的乐趣"
+  ],
+  "included": [
+   "水肺潜水入门体验",
+   "教练",
+   "水肺潜水装备",
+   "水下照片"
+  ],
+  "notIncluded": [
+   "泳衣",
+   "毛巾",
+   "PADI体验潜水证书"
+  ]
+ },
+ "from-dubai-try-scuba-diving-snorkeling-with-transf": {
+  "title": "迪拜出发：体验水肺潜水及浮潜，含接送",
+  "metaTitle": "迪拜出发：体验水肺潜水及浮潜，含接送",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah和Al Bidya Mosque。由Reef Oasis Diving Center提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah和Al Bidya Mosque。由Reef Oasis Diving Center提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah和Al Bidya Mosque。全程共6站。\n\n行程顺序为Snoopy Island, 然后 Sharm Rocks, 然后 Reef Oasis Dive Club, Fujairah (40 min), 然后 Al Bidya Mosque (10 min), 然后 Khorfakkan Amphitheatre (15 min)。\n\n价格包含迪拜/富查伊拉酒店接送、水肺潜水装备、浮潜装备、水下照片。不包含毛巾、防晒霜、泳衣，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah和Al Bidya Mosque。由Reef Oasis Diving Center提供。"
+  ],
+  "included": [
+   "迪拜/富查伊拉酒店接送",
+   "水肺潜水装备",
+   "浮潜装备",
+   "水下照片"
+  ],
+  "notIncluded": [
+   "毛巾",
+   "防晒霜",
+   "泳衣"
   ]
  },
  "from-dubai-abu-dhabi-day-tour-with-warner-bros": {
@@ -23599,6 +28108,86 @@ export const ZH_TOURS: Record<string, TourT> = {
    "照片套餐（可在入场时选购）"
   ]
  },
+ "abu-dhabi-private-yacht-formula-1-luxury-experienc": {
+  "title": "阿布扎比：私人游艇、F1赛车及豪华体验",
+  "metaTitle": "阿布扎比：私人游艇、F1赛车及豪华体验",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Jeep / SUV和Abu Dhabi。由Al ANMAR- United Arab Emirates提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Jeep / SUV和Abu Dhabi。由Al ANMAR- United Arab Emirates提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Jeep / SUV和Abu Dhabi。最长的一站是Jeep / SUV，约6小时。全程共2站。\n\n行程顺序为Jeep / SUV (6h), 然后 Abu Dhabi (6h)。\n\n价格包含乘坐私人游艇，从水上欣赏阿布扎比、从游艇生活直接驶入F1赛车的世界、体验谢赫扎耶德大清真寺的宁静与宏大、走进阿尔瓦坦宫，探索阿布扎比的另一面。不包含不含食品及饮品，高级餐饮、黄金咖啡及其他特色餐饮可依据场地另行点选，请另行预算。两位旅客共同支付4901美元，而不是每人各付4901美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Jeep / SUV和Abu Dhabi。由Al ANMAR- United Arab Emirates提供。"
+  ],
+  "included": [
+   "乘坐私人游艇，从水上欣赏阿布扎比",
+   "从游艇生活直接驶入F1赛车的世界",
+   "体验谢赫扎耶德大清真寺的宁静与宏大",
+   "走进阿尔瓦坦宫，探索阿布扎比的另一面"
+  ],
+  "notIncluded": [
+   "不含食品及饮品，高级餐饮、黄金咖啡及其他特色餐饮可依据场地另行点选"
+  ]
+ },
+ "dubai-private-hot-air-balloon-tour-over-the-dubai": {
+  "title": "迪拜：私人热气球游览，飞越迪拜沙漠",
+  "metaTitle": "迪拜：私人热气球游览，飞越迪拜沙漠",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV和Sindbad Gulf Balloons WH。由Sindbad Gulf Balloons CO LLC提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV和Sindbad Gulf Balloons WH。由Sindbad Gulf Balloons CO LLC提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV和Sindbad Gulf Balloons WH。全程共2站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Sindbad Gulf Balloons WH。\n\n价格包含从迪拜或沙迦出发的私人接送、40至70分钟私人热气球飞行、抵达时提供欢迎饮品、船上无线网络。不包含贝都因营地特别私人早餐布置、骆驼骑行、猎鹰照片，请另行预算。两位旅客共同支付5324美元，而不是每人各付5324美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV和Sindbad Gulf Balloons WH。由Sindbad Gulf Balloons CO LLC提供。"
+  ],
+  "included": [
+   "从迪拜或沙迦出发的私人接送",
+   "40至70分钟私人热气球飞行",
+   "抵达时提供欢迎饮品",
+   "船上无线网络"
+  ],
+  "notIncluded": [
+   "贝都因营地特别私人早餐布置",
+   "骆驼骑行",
+   "猎鹰照片"
+  ]
+ },
+ "dubai-red-dunes-desert-safari-premium-camp-bbq-5": {
+  "title": "迪拜：红色沙丘沙漠之旅，含高级营地、烧烤及5场表演",
+  "metaTitle": "迪拜：红色沙丘沙漠之旅，含高级营地、烧烤及5场表演",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Lahbab Desert。由Dream Journey提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Lahbab Desert。由Dream Journey提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Lahbab Desert。\n\n价格包含酒店往返接送、乘坐4x4陆地巡洋舰SUV的沙漠之旅、短程骆驼骑行、与猎鹰合影。不包含含酒精饮品、照片打印、纪念品，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Lahbab Desert。由Dream Journey提供。"
+  ],
+  "included": [
+   "酒店往返接送",
+   "乘坐4x4陆地巡洋舰SUV的沙漠之旅",
+   "短程骆驼骑行",
+   "与猎鹰合影"
+  ],
+  "notIncluded": [
+   "含酒精饮品",
+   "照片打印",
+   "纪念品"
+  ]
+ },
+ "dubai-old-town-street-food-creek-souks-emirati-hou": {
+  "title": "迪拜：老城区、街头美食、河道、市集及阿联酋传统民居",
+  "metaTitle": "迪拜：老城区、街头美食、河道、市集及阿联酋传统民居",
+  "metaDescription": "一次从迪拜出发的3小时行程，游览Al Fahidi Fort, Al Seef, Bur Dubai Souk Market和Bur Dubai Abra Dock。由OceanAir Travels提供。",
+  "shortDescription": "一次从迪拜出发的3小时行程，游览Al Fahidi Fort, Al Seef, Bur Dubai Souk Market和Bur Dubai Abra Dock。由OceanAir Travels提供。",
+  "fullDescription": "一次从迪拜出发的3小时行程，途经Al Fahidi Fort, Al Seef, Bur Dubai Souk Market和Bur Dubai Abra Dock。全程共8站。\n\n行程顺序为Al Fahidi Fort (15 min), 然后 Al Seef (15 min), 然后 Bur Dubai Souk Market (30 min), 然后 Bur Dubai Abra Dock (15 min), 然后 Dubai Creek (15 min)。\n\n价格包含导游、博物馆及文化遗产地门票、阿尔西夫清真寺拍照停留、阿布拉渡船体验（迪拜河传统渡船）。不包含小费（可选），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的3小时行程，游览Al Fahidi Fort, Al Seef, Bur Dubai Souk Market和Bur Dubai Abra Dock。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "导游",
+   "博物馆及文化遗产地门票",
+   "阿尔西夫清真寺拍照停留",
+   "阿布拉渡船体验（迪拜河传统渡船）"
+  ],
+  "notIncluded": [
+   "小费（可选）"
+  ]
+ },
  "dubai-half-day-camel-trekking-with-al-marmoom-brea": {
   "title": "迪拜：半日骆驼徒步，含阿马尔穆姆早餐",
   "metaTitle": "迪拜：半日骆驼徒步，含阿马尔穆姆早餐",
@@ -23618,6 +28207,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "dubai-guided-sightseeing-tour-and-img-theme-park-t": {
+  "title": "迪拜：向导观光游览，含IMG主题乐园门票",
+  "metaTitle": "迪拜：向导观光游览，含IMG主题乐园门票",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Burj Khalifa, Souk Madinat Jumeirah, Burj Al Arab和Dubai Marina Walk。由Travtur Tourism L.L.C提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Burj Khalifa, Souk Madinat Jumeirah, Burj Al Arab和Dubai Marina Walk。由Travtur Tourism L.L.C提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Burj Khalifa, Souk Madinat Jumeirah, Burj Al Arab和Dubai Marina Walk。全程共7站。\n\n行程顺序为Burj Khalifa (15 min), 然后 Souk Madinat Jumeirah (20 min), 然后 Burj Al Arab (10 min), 然后 Dubai Marina Walk (15 min), 然后 The Palm Jumeirah (15 min)。\n\n价格包含迪拜酒店出发的接送、空调交通接送、专业英语向导、迪拜向导城市观光游览。不包含参观IMG冒险世界乐园后的酒店接送、食品和饮品、个人消费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Burj Khalifa, Souk Madinat Jumeirah, Burj Al Arab和Dubai Marina Walk。由Travtur Tourism L.L.C提供。"
+  ],
+  "included": [
+   "迪拜酒店出发的接送",
+   "空调交通接送",
+   "专业英语向导",
+   "迪拜向导城市观光游览"
+  ],
+  "notIncluded": [
+   "参观IMG冒险世界乐园后的酒店接送",
+   "食品和饮品",
+   "个人消费"
+  ]
+ },
  "dubai-cabriolet-tour-in-a-convertible-mustang-or-c": {
   "title": "迪拜：敞篷野马或科迈罗跑车之旅",
   "metaTitle": "迪拜：敞篷野马或科迈罗跑车之旅",
@@ -23632,6 +28242,264 @@ export const ZH_TOURS: Record<string, TourT> = {
    "敞篷野马或科迈罗跑车",
    "持证导游及司机",
    "瓶装水"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "desert-safari-private-4wd-car": {
+  "title": "沙漠之旅，乘坐私人4WD座驾",
+  "metaTitle": "沙漠之旅，乘坐私人4WD座驾",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV。由Arab Expedition Tourism LLC提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV。由Arab Expedition Tourism LLC提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV。\n\n由Arab Expedition Tourism LLC负责安排，价格中含12项内容。可免费取消。乘坐4x4车，舒适时尚出行。\n\n价格包含在迪拜市内您的酒店或指定地点提供接送、导游、乘坐私人空调4x4车出行、接送途中无限量饮用水。不包含酒精饮品（可现场购买）、超大尺寸的海娜图案、沙滩摩托车（可现场租用），请另行预算。两位旅客共同支付423美元，而不是每人各付423美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV。由Arab Expedition Tourism LLC提供。"
+  ],
+  "included": [
+   "在迪拜市内您的酒店或指定地点提供接送",
+   "导游",
+   "乘坐私人空调4x4车出行",
+   "接送途中无限量饮用水"
+  ],
+  "notIncluded": [
+   "酒精饮品（可现场购买）",
+   "超大尺寸的海娜图案",
+   "沙滩摩托车（可现场租用）"
+  ]
+ },
+ "dubai-jet-ski-burj-al-arab-burj-khalifa-photos": {
+  "title": "迪拜水上摩托艇：阿拉伯塔、哈利法塔，含照片及视频",
+  "metaTitle": "迪拜水上摩托艇：阿拉伯塔、哈利法塔，含照片及视频",
+  "metaDescription": "一次从迪拜出发的0.5小时行程，游览Burj Khalifa和Burj Al Arab。由OceanAir Travels提供。",
+  "shortDescription": "一次从迪拜出发的0.5小时行程，游览Burj Khalifa和Burj Al Arab。由OceanAir Travels提供。",
+  "fullDescription": "一次从迪拜出发的0.5小时行程，途经Burj Khalifa和Burj Al Arab。全程共2站。\n\n行程顺序为Burj Khalifa (30 min), 然后 Burj Al Arab (30 min)。\n\n价格包含水上摩托艇（1900cc）、安全救生衣、哈利法塔拍照停留、阿拉伯塔拍照停留（仅限60分钟选项）。不包含酒店往返接送、毛巾，请另行预算。两位旅客共同支付84美元，而不是每人各付84美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的0.5小时行程，游览Burj Khalifa和Burj Al Arab。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "水上摩托艇（1900cc）",
+   "安全救生衣",
+   "哈利法塔拍照停留",
+   "阿拉伯塔拍照停留（仅限60分钟选项）"
+  ],
+  "notIncluded": [
+   "酒店往返接送",
+   "毛巾"
+  ]
+ },
+ "dubai-luxury-safari-with-michelin-curated-4-course": {
+  "title": "迪拜：豪华沙漠之旅，含米其林精选4道式晚餐",
+  "metaTitle": "迪拜：豪华沙漠之旅，含米其林精选4道式晚餐",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。由Platinum Heritage Luxury Tours ...",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。由Platinum Heritage Luxury Tours & Safaris提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。最长的一站是Dubai Desert Conservation Reserve，约1小时。全程共4站。\n\n行程顺序为Jeep / SUV (1h), 然后 Dubai Desert Conservation Reserve (1h), 然后 Dubai Desert Conservation Reserve (30 min), 然后 Dubai Desert Conservation Reserve。\n\n价格包含迪拜酒店出发的接送、迪拜沙漠保护区内自然观光驾驶（不含冲沙）、猎鹰驯养表演、开胃小食配气泡果汁。不包含照片及视频、小费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。由Platinum Heritage Luxury Tours & Safaris提供。"
+  ],
+  "included": [
+   "迪拜酒店出发的接送",
+   "迪拜沙漠保护区内自然观光驾驶（不含冲沙）",
+   "猎鹰驯养表演",
+   "开胃小食配气泡果汁"
+  ],
+  "notIncluded": [
+   "照片及视频",
+   "小费"
+  ]
+ },
+ "dubai-private-night-safari-astronomy-with-3-course": {
+  "title": "迪拜：私人夜间沙漠之旅及观星，含3道式晚餐",
+  "metaTitle": "迪拜：私人夜间沙漠之旅及观星，含3道式晚餐",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。由Platinum Heritage Luxury Tours & Safaris提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。由Platinum Heritage Luxury Tours & Safaris提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。最长的一站是Dubai Desert Conservation Reserve，约1小时。全程共3站。\n\n行程顺序为Jeep / SUV (1h), 然后 Dubai Desert Conservation Reserve (1h), 然后 Dubai Desert Conservation Reserve。\n\n价格包含从迪拜出发的私人空调车辆往返交通、乘坐复古路虎车夜游迪拜沙漠保护区、在皇家庭园内进行自然徒步，寻找夜行野生动物、在正宗贝都因营地享用3道式晚餐、观星活动，配专业向导天文讲解。不包含小费，请另行预算。两位旅客共同支付1377美元，而不是每人各付1377美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。由Platinum Heritage Luxury Tours & Safaris提供。"
+  ],
+  "included": [
+   "从迪拜出发的私人空调车辆往返交通",
+   "乘坐复古路虎车夜游迪拜沙漠保护区",
+   "在皇家庭园内进行自然徒步，寻找夜行野生动物",
+   "在正宗贝都因营地享用3道式晚餐",
+   "观星活动，配专业向导天文讲解"
+  ],
+  "notIncluded": [
+   "小费"
+  ]
+ },
+ "dubai-luxury-desert-safari-5-star-dinner-shows": {
+  "title": "迪拜：豪华沙漠之旅，含5星级晚餐及表演",
+  "metaTitle": "迪拜：豪华沙漠之旅，含5星级晚餐及表演",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Al Sahra Desert Fortress by Tour Dubai。由Tour Dubai提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Al Sahra Desert Fortress by Tour Dubai。由Tour Dubai提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Al Sahra Desert Fortress by Tour Dubai。\n\n价格包含由经验丰富的沙漠司机驾驶4x4车冲沙（如选择该选项）、传统阿拉伯式欢迎，含咖啡及椰枣、5星级国际自助餐，含烧烤及阿拉伯美食、现场阿拉伯表演及音乐，包括肚皮舞及坦努拉舞。不包含含酒精饮品，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Al Sahra Desert Fortress by Tour Dubai。由Tour Dubai提供。"
+  ],
+  "included": [
+   "由经验丰富的沙漠司机驾驶4x4车冲沙（如选择该选项）",
+   "传统阿拉伯式欢迎，含咖啡及椰枣",
+   "5星级国际自助餐，含烧烤及阿拉伯美食",
+   "现场阿拉伯表演及音乐，包括肚皮舞及坦努拉舞"
+  ],
+  "notIncluded": [
+   "含酒精饮品"
+  ]
+ },
+ "dubai-desert-safari-premium-bbq-dinner-camel-ride-": {
+  "title": "迪拜沙漠之旅：高级烧烤晚餐、骆驼骑行及表演",
+  "metaTitle": "迪拜沙漠之旅：高级烧烤晚餐、骆驼骑行及表演",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。由Dream Journey提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。由Dream Journey提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。最长的一站是Lahbab Desert，约2小时。全程共8站。\n\n行程顺序为Jeep / SUV (50 min), 然后 Dubai, 然后 Lahbab Desert (30 min), 然后 Lahbab Desert (45 min), 然后 Lahbab Desert (30 min)。\n\n价格包含乘坐4x4车接送（拼车或私人）、持证沙漠向导、45分钟拉哈巴沙漠冲沙、滑沙体验。不包含小费、酒精饮品（可现场购买）、桌边水烟（需额外付费），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。由Dream Journey提供。"
+  ],
+  "included": [
+   "乘坐4x4车接送（拼车或私人）",
+   "持证沙漠向导",
+   "45分钟拉哈巴沙漠冲沙",
+   "滑沙体验"
+  ],
+  "notIncluded": [
+   "小费",
+   "酒精饮品（可现场购买）",
+   "桌边水烟（需额外付费）"
+  ]
+ },
+ "city-sightseeing-hop-on-hop-off-bus-aquaventure-aq": {
+  "title": "城市观光随上随下巴士、亚特兰蒂斯水上乐园及水族馆",
+  "metaTitle": "城市观光随上随下巴士、亚特兰蒂斯水上乐园及水族馆",
+  "metaDescription": "一次从迪拜出发的1.5小时行程，游览Burj Khalifa。由City Sightseeing Worldwide提供。",
+  "shortDescription": "一次从迪拜出发的1.5小时行程，游览Burj Khalifa。由City Sightseeing Worldwide提供。",
+  "fullDescription": "一次从迪拜出发的1.5小时行程，途经Burj Khalifa。\n\n由City Sightseeing Worldwide负责安排，价格中含8项内容。可免费取消。享受2日随上随下巴士游览，全景欣赏迪拜。\n\n价格包含2日随上随下巴士游览、在各主要景点附近停留、日落及夜间游览、失落世界水族馆门票。不包含酒店往返接送、其他景点门票、小费（可选），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1.5小时行程，游览Burj Khalifa。由City Sightseeing Worldwide提供。"
+  ],
+  "included": [
+   "2日随上随下巴士游览",
+   "在各主要景点附近停留",
+   "日落及夜间游览",
+   "失落世界水族馆门票"
+  ],
+  "notIncluded": [
+   "酒店往返接送",
+   "其他景点门票",
+   "小费（可选）"
+  ]
+ },
+ "abu-dhabi-overnight-desert-safari": {
+  "title": "阿布扎比：过夜沙漠之旅",
+  "metaTitle": "阿布扎比：过夜沙漠之旅",
+  "metaDescription": "一次全天的阿布扎比体验。在沙漠体验传统阿拉伯式露营。由Capital Gate Tourism提供。",
+  "shortDescription": "一次全天的阿布扎比体验。在沙漠体验传统阿拉伯式露营。由Capital Gate Tourism提供。",
+  "fullDescription": "一次全天的阿布扎比体验。在沙漠体验传统阿拉伯式露营。\n\n由Capital Gate Tourism负责安排，价格中含12项内容。可免费取消。\n\n价格包含酒店往返接送、司机（英语/阿拉伯语）、极限沙漠冲沙、骆驼骑行及农场体验。不包含含酒精饮品、沙滩摩托车，请另行预算。",
+  "highlights": [
+   "在沙漠体验传统阿拉伯式露营"
+  ],
+  "included": [
+   "酒店往返接送",
+   "司机（英语/阿拉伯语）",
+   "极限沙漠冲沙",
+   "骆驼骑行及农场体验"
+  ],
+  "notIncluded": [
+   "含酒精饮品",
+   "沙滩摩托车"
+  ]
+ },
+ "from-dubai-discovery-scuba-diving-snorkeling-in-fu": {
+  "title": "迪拜出发：富查伊拉体验潜水及浮潜",
+  "metaTitle": "迪拜出发：富查伊拉体验潜水及浮潜",
+  "metaDescription": "一次全天的迪拜体验。在阿曼湾体验您的首次水肺潜水。由nemo diving center提供。",
+  "shortDescription": "一次全天的迪拜体验。在阿曼湾体验您的首次水肺潜水。由nemo diving center提供。",
+  "fullDescription": "一次全天的迪拜体验。在阿曼湾体验您的首次水肺潜水。\n\n由nemo diving center负责安排，价格中含7项内容。可免费取消。\n\n价格包含持证教练、所有潜水装备、船上理论课程、无限畅饮软饮。不包含酒精饮品，请另行预算。",
+  "highlights": [
+   "在阿曼湾体验您的首次水肺潜水"
+  ],
+  "included": [
+   "持证教练",
+   "所有潜水装备",
+   "船上理论课程",
+   "无限畅饮软饮"
+  ],
+  "notIncluded": [
+   "酒精饮品"
+  ]
+ },
+ "skip-the-line-dubai-frame-zabeel-park-private-guid": {
+  "title": "迪拜之框及扎比勒公园免排队私人向导游览",
+  "metaTitle": "迪拜之框及扎比勒公园免排队私人向导游览",
+  "metaDescription": "一次2小时的迪拜体验。跟随5星级私人持证向导，探索迪拜之框及扎比勒公园。由Rosotravel - United States Tours & Experiences提供。",
+  "shortDescription": "一次2小时的迪拜体验。跟随5星级私人持证向导，探索迪拜之框及扎比勒公园。由Rosotravel - United States Tours & Experiences提供。",
+  "fullDescription": "一次2小时的迪拜体验。跟随5星级私人持证向导，探索迪拜之框及扎比勒公园。\n\n由Rosotravel - United States Tours & Experiences负责安排，价格中含5项内容。可免费取消。\n\n价格包含迪拜之框及扎比勒公园私人游览、5星级私人持证向导，熟练使用您所选语言、迪拜之框免排队门票、专业讲解迪拜的历史、现状与未来愿景、可参观老迪拜画廊、天空之桥、玻璃步道及未来迪拜展览。不包含，请另行预算。两位旅客共同支付423美元，而不是每人各付388美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "跟随5星级私人持证向导，探索迪拜之框及扎比勒公园"
+  ],
+  "included": [
+   "迪拜之框及扎比勒公园私人游览",
+   "5星级私人持证向导，熟练使用您所选语言",
+   "迪拜之框免排队门票",
+   "专业讲解迪拜的历史、现状与未来愿景",
+   "可参观老迪拜画廊、天空之桥、玻璃步道及未来迪拜展览"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-sheikh-zayed-grand-mosque-morning-tour": {
+  "title": "迪拜：谢赫扎耶德大清真寺晨间游览",
+  "metaTitle": "迪拜：谢赫扎耶德大清真寺晨间游览",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque。由OceanAir Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque。由OceanAir Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Sheikh Zayed Mosque。\n\n由OceanAir Travels负责安排，价格中含5项内容。可免费取消。跟随向导了解伊斯兰文化与清真寺建筑。\n\n价格包含酒店接送（迪拜）、空调交通工具、持证导游、瓶装水。不包含餐食及个人消费，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "酒店接送（迪拜）",
+   "空调交通工具",
+   "持证导游",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "餐食及个人消费"
+  ]
+ },
+ "dubai-4-hour-private-deep-seatrolling-fishing-trip": {
+  "title": "迪拜：4小时私人深海拖钓捕鱼之旅",
+  "metaTitle": "迪拜：4小时私人深海拖钓捕鱼之旅",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Anantara World Islands Dubai Resort。由Sea Escape DXB提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Anantara World Islands Dubai Resort。由Sea Escape DXB提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Anantara World Islands Dubai Resort。最长的一站是Anantara World Islands Dubai Resort，约3小时。\n\n价格包含果汁、水、冰箱、干净毛巾、钓鱼装备及鱼饵。不包含交通，请另行预算。两位旅客共同支付855美元，而不是每人各付855美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Anantara World Islands Dubai Resort。由Sea Escape DXB提供。"
+  ],
+  "included": [
+   "果汁、水",
+   "冰箱",
+   "干净毛巾",
+   "钓鱼装备及鱼饵"
+  ],
+  "notIncluded": [
+   "交通"
+  ]
+ },
+ "dubai-dinosaurs-odyssey-vr-fossil-museum-with-gmc-": {
+  "title": "迪拜：恐龙沉浸之旅VR及化石博物馆，含GMC Yukon接送",
+  "metaTitle": "迪拜：恐龙沉浸之旅VR及化石博物馆，含GMC Yukon接送",
+  "metaDescription": "一次3小时的迪拜体验。在恐龙沉浸式之旅（Dinosaurs: The Immersive Odyssey）中重返史前世界。由HARBOR TOURISM LLC提供。",
+  "shortDescription": "一次3小时的迪拜体验。在恐龙沉浸式之旅（Dinosaurs: The Immersive Odyssey）中重返史前世界。由HARBOR TOURISM LLC提供。",
+  "fullDescription": "一次3小时的迪拜体验。在恐龙沉浸式之旅（Dinosaurs: The Immersive Odyssey）中重返史前世界。\n\n由HARBOR TOURISM LLC负责安排，价格中含10项内容。可免费取消。\n\n价格包含恐龙沉浸式之旅（Dinosaurs: The Immersive Odyssey）门票、可进入博物馆化石储藏区、沉浸式VR体验、真实尺寸仿生恐龙互动体验。不包含，请另行预算。两位旅客共同支付558美元，而不是每人各付550美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在恐龙沉浸式之旅（Dinosaurs: The Immersive Odyssey）中重返史前世界"
+  ],
+  "included": [
+   "恐龙沉浸式之旅（Dinosaurs: The Immersive Odyssey）门票",
+   "可进入博物馆化石储藏区",
+   "沉浸式VR体验",
+   "真实尺寸仿生恐龙互动体验"
   ],
   "notIncluded": [
    ""
@@ -23693,6 +28561,85 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食和饮品"
   ]
  },
+ "dubai-desert-safari-with-camel-ride-quad-bike-bbq": {
+  "title": "迪拜：沙漠之旅，含骆驼骑行、沙滩摩托车及烧烤晚餐",
+  "metaTitle": "迪拜：沙漠之旅，含骆驼骑行、沙滩摩托车及烧烤晚餐",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Lahbab Desert和Al Aweer。由Ramada Group Line提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Lahbab Desert和Al Aweer。由Ramada Group Line提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Lahbab Desert和Al Aweer。最长的一站是Al Aweer，约4小时。全程共2站。\n\n行程顺序为Lahbab Desert (45 min), 然后 Al Aweer (4h)。\n\n价格包含4x4空调车辆提供住所接送、沙漠驾驶、骑骆驼、滑沙。不包含酒精饮品、个人消费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Lahbab Desert和Al Aweer。由Ramada Group Line提供。"
+  ],
+  "included": [
+   "4x4空调车辆提供住所接送",
+   "沙漠驾驶",
+   "骑骆驼",
+   "滑沙"
+  ],
+  "notIncluded": [
+   "酒精饮品",
+   "个人消费"
+  ]
+ },
+ "dubai-al-seef-creek-and-souks-guided-tour-with": {
+  "title": "迪拜：阿尔西夫、河道及市集向导游览，含阿布拉渡船体验",
+  "metaTitle": "迪拜：阿尔西夫、河道及市集向导游览，含阿布拉渡船体验",
+  "metaDescription": "一次3小时的迪拜体验。跟随向导探索阿尔西夫区域的狭窄巷道。由OceanAir Travels提供。",
+  "shortDescription": "一次3小时的迪拜体验。跟随向导探索阿尔西夫区域的狭窄巷道。由OceanAir Travels提供。",
+  "fullDescription": "一次3小时的迪拜体验。跟随向导探索阿尔西夫区域的狭窄巷道。\n\n由OceanAir Travels负责安排，价格中含11项内容。可免费取消。\n\n价格包含阿尔西夫区域向导游览、参观历史街区、阿拉伯咖啡品鉴、参观当地艺术画廊。不包含交通（除非选择酒店接送选项），请另行预算。",
+  "highlights": [
+   "跟随向导探索阿尔西夫区域的狭窄巷道"
+  ],
+  "included": [
+   "阿尔西夫区域向导游览",
+   "参观历史街区",
+   "阿拉伯咖啡品鉴",
+   "参观当地艺术画廊"
+  ],
+  "notIncluded": [
+   "交通（除非选择酒店接送选项）"
+  ]
+ },
+ "from-dubai-private-abu-dhabi-city-tour-with-photo": {
+  "title": "迪拜出发：阿布扎比私人城市游览，含拍照停留",
+  "metaTitle": "迪拜出发：阿布扎比私人城市游览，含拍照停留",
+  "metaDescription": "一次全天的阿布扎比体验。从迪拜出发的私人全天游览，探索阿布扎比。由Wind Travel Turkey提供。",
+  "shortDescription": "一次全天的阿布扎比体验。从迪拜出发的私人全天游览，探索阿布扎比。由Wind Travel Turkey提供。",
+  "fullDescription": "一次全天的阿布扎比体验。从迪拜出发的私人全天游览，探索阿布扎比。\n\n由Wind Travel Turkey负责安排，价格中含12项内容。可免费取消。\n\n价格包含阿布扎比私人全天城市游览、私人空调车辆、私人司机、专业导游。不包含任何景点的门票、阿布扎比法拉利世界门票、艾尔霍森宫门票，请另行预算。两位旅客共同支付914美元，而不是每人各付914美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "从迪拜出发的私人全天游览，探索阿布扎比"
+  ],
+  "included": [
+   "阿布扎比私人全天城市游览",
+   "私人空调车辆",
+   "私人司机",
+   "专业导游"
+  ],
+  "notIncluded": [
+   "任何景点的门票",
+   "阿布扎比法拉利世界门票",
+   "艾尔霍森宫门票"
+  ]
+ },
+ "dubai-burj-khalifa-sky-high-visit-with-private-gmc": {
+  "title": "迪拜：哈利法塔SKY观景台参观，含私人GMC接送",
+  "metaTitle": "迪拜：哈利法塔SKY观景台参观，含私人GMC接送",
+  "metaDescription": "一次2小时的迪拜体验。享受便捷的哈利法塔参观，含私人接送。由HARBOR TOURISM LLC提供。",
+  "shortDescription": "一次2小时的迪拜体验。享受便捷的哈利法塔参观，含私人接送。由HARBOR TOURISM LLC提供。",
+  "fullDescription": "一次2小时的迪拜体验。享受便捷的哈利法塔参观，含私人接送。\n\n由HARBOR TOURISM LLC负责安排，价格中含12项内容。可免费取消。\n\n价格包含哈利法塔门票、私人GMC SUV接送，配制服司机、在迪拜您指定地点的接送、可进入124及125层，360度全景俯瞰迪拜。不包含，请另行预算。两位旅客共同支付597美元，而不是每人各付471美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "享受便捷的哈利法塔参观，含私人接送"
+  ],
+  "included": [
+   "哈利法塔门票",
+   "私人GMC SUV接送，配制服司机",
+   "在迪拜您指定地点的接送",
+   "可进入124及125层，360度全景俯瞰迪拜"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "abu-dhabi-yas-waterworld-adventure-ticket-with-gmc": {
   "title": "阿布扎比：亚斯水世界探险门票，含GMC接送",
   "metaTitle": "阿布扎比：亚斯水世界探险门票，含GMC接送",
@@ -23709,6 +28656,104 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "餐食"
+  ]
+ },
+ "from-dubai-abu-dhabi-city-tour-sheikh-zayed-grand": {
+  "title": "迪拜出发：阿布扎比城市游览及谢赫扎耶德大清真寺",
+  "metaTitle": "迪拜出发：阿布扎比城市游览及谢赫扎耶德大清真寺",
+  "metaDescription": "一次全天的阿布扎比体验。参观阿布扎比壮丽的谢赫扎耶德大清真寺。由OceanAir Travels提供。",
+  "shortDescription": "一次全天的阿布扎比体验。参观阿布扎比壮丽的谢赫扎耶德大清真寺。由OceanAir Travels提供。",
+  "fullDescription": "一次全天的阿布扎比体验。参观阿布扎比壮丽的谢赫扎耶德大清真寺。\n\n由OceanAir Travels负责安排，价格中含10项内容。可免费取消。\n\n价格包含迪拜指定区域的酒店接送、共享空调交通、专业导游、阿布扎比法拉利世界外观拍照停留。不包含法拉利世界门票、未明确列为包含项目的景点门票、午餐，请另行预算。",
+  "highlights": [
+   "参观阿布扎比壮丽的谢赫扎耶德大清真寺"
+  ],
+  "included": [
+   "迪拜指定区域的酒店接送",
+   "共享空调交通",
+   "专业导游",
+   "阿布扎比法拉利世界外观拍照停留"
+  ],
+  "notIncluded": [
+   "法拉利世界门票",
+   "未明确列为包含项目的景点门票",
+   "午餐"
+  ]
+ },
+ "natural-coastal-tour-of-khorfakkan-with-driver-cum": {
+  "title": "库尔法坎自然海岸游览，配司机兼向导",
+  "metaTitle": "库尔法坎自然海岸游览，配司机兼向导",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Shees Park, Mountain Top View Point, Al Rafisah Dam和Khorfakkan Amphitheatre。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Shees Park, Mountain Top View Point, Al Rafisah Dam和Khorfakkan Amphitheatre。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Shees Park, Mountain Top View Point, Al Rafisah Dam和Khorfakkan Amphitheatre。全程共9站。\n\n行程顺序为Shees Park (40 min), 然后 Mountain Top View Point (50 min), 然后 Al Rafisah Dam (30 min), 然后 Khorfakkan Amphitheatre (30 min), 然后 Hisn Khorfakkan | حصن خورفكان (30 min)。\n\n价格包含从迪拜或沙迦出发的酒店接送、乘坐舒适空调车辆出行、专业司机兼向导、免费饮用水。不包含包含项目中未提及的任何内容，请另行预算。两位旅客共同支付530美元，而不是每人各付530美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Shees Park, Mountain Top View Point, Al Rafisah Dam和Khorfakkan Amphitheatre。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。"
+  ],
+  "included": [
+   "从迪拜或沙迦出发的酒店接送",
+   "乘坐舒适空调车辆出行",
+   "专业司机兼向导",
+   "免费饮用水"
+  ],
+  "notIncluded": [
+   "包含项目中未提及的任何内容"
+  ]
+ },
+ "dubai-ain-dubai-tickets-with-private-gmc-yukon-xl": {
+  "title": "迪拜：迪拜眼门票，含私人GMC Yukon XL接送",
+  "metaTitle": "迪拜：迪拜眼门票，含私人GMC Yukon XL接送",
+  "metaDescription": "一次半天的迪拜体验。乘坐豪华GMC Yukon XL享受前往迪拜眼的私人接送。由HARBOR TOURISM LLC提供。",
+  "shortDescription": "一次半天的迪拜体验。乘坐豪华GMC Yukon XL享受前往迪拜眼的私人接送。由HARBOR TOURISM LLC提供。",
+  "fullDescription": "一次半天的迪拜体验。乘坐豪华GMC Yukon XL享受前往迪拜眼的私人接送。\n\n由HARBOR TOURISM LLC负责安排，价格中含8项内容。可免费取消。\n\n价格包含迪拜眼门票、门到门接送服务、豪华GMC Yukon XL座驾、专业制服司机。不包含餐食，请另行预算。两位旅客共同支付493美元，而不是每人各付493美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "乘坐豪华GMC Yukon XL享受前往迪拜眼的私人接送"
+  ],
+  "included": [
+   "迪拜眼门票",
+   "门到门接送服务",
+   "豪华GMC Yukon XL座驾",
+   "专业制服司机"
+  ],
+  "notIncluded": [
+   "餐食"
+  ]
+ },
+ "from-ras-al-khaimah-private-dubai-highlights-suv-c": {
+  "title": "拉斯海玛出发：迪拜精华私人SUV城市游览",
+  "metaTitle": "拉斯海玛出发：迪拜精华私人SUV城市游览",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Dubai和Finish at:。由HARBOR TOURISM LLC提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Dubai和Finish at:。由HARBOR TOURISM LLC提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Dubai和Finish at:。全程共2站。\n\n行程顺序为Dubai (45 min), 然后 Finish at:。\n\n价格包含门到门接送服务、豪华GMC Yukon XL座驾、专业制服司机、燃油及萨利克道路通行费。不包含餐食，请另行预算。两位旅客共同支付1082美元，而不是每人各付1082美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Dubai和Finish at:。由HARBOR TOURISM LLC提供。"
+  ],
+  "included": [
+   "门到门接送服务",
+   "豪华GMC Yukon XL座驾",
+   "专业制服司机",
+   "燃油及萨利克道路通行费"
+  ],
+  "notIncluded": [
+   "餐食"
+  ]
+ },
+ "abu-dhabi-seaworld-entry-ticket-with-private-suv-t": {
+  "title": "阿布扎比：海洋世界门票，含私人SUV接送",
+  "metaTitle": "阿布扎比：海洋世界门票，含私人SUV接送",
+  "metaDescription": "一次全天的阿布扎比体验。乘坐便捷接送，探索阿布扎比亚斯岛海洋世界。由HARBOR TOURISM LLC提供。",
+  "shortDescription": "一次全天的阿布扎比体验。乘坐便捷接送，探索阿布扎比亚斯岛海洋世界。由HARBOR TOURISM LLC提供。",
+  "fullDescription": "一次全天的阿布扎比体验。乘坐便捷接送，探索阿布扎比亚斯岛海洋世界。\n\n由HARBOR TOURISM LLC负责安排，价格中含9项内容。可免费取消。\n\n价格包含乘坐豪华GMC Yukon的私人接送、阿布扎比亚斯岛海洋世界门票、含燃油及萨利克通行费、瓶装水、探索八个独具主题的展区。不包含餐食和饮品，请另行预算。两位旅客共同支付1242美元，而不是每人各付974美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "乘坐便捷接送，探索阿布扎比亚斯岛海洋世界"
+  ],
+  "included": [
+   "乘坐豪华GMC Yukon的私人接送",
+   "阿布扎比亚斯岛海洋世界门票",
+   "含燃油及萨利克通行费",
+   "瓶装水",
+   "探索八个独具主题的展区"
+  ],
+  "notIncluded": [
+   "餐食和饮品"
   ]
  },
  "dubai-aquarium-underwater-zoo-tickets-with-suv-tra": {
@@ -23730,6 +28775,209 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食和饮品"
   ]
  },
+ "dubai-half-day-city-tour-of-old-new-dubai": {
+  "title": "迪拜：新老迪拜半日城市游览，含阿布拉渡船体验",
+  "metaTitle": "迪拜：新老迪拜半日城市游览，含阿布拉渡船体验",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Dubai Gold Souk, Dubai Spice Souk, Al Fahidi Historical Neighbourhood和Abra Dubai。由Yalla Walk tourism提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Dubai Gold Souk, Dubai Spice Souk, Al Fahidi Historical Neighbourhood和Abra Dubai。由Yalla Walk tourism提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Dubai Gold Souk, Dubai Spice Souk, Al Fahidi Historical Neighbourhood和Abra Dubai。全程共9站。\n\n行程顺序为Dubai Gold Souk (30 min), 然后 Dubai Spice Souk (30 min), 然后 Al Fahidi Historical Neighbourhood (15 min), 然后 Abra Dubai (20 min), 然后 Museum of the Future (15 min)。\n\n价格包含从迪拜出发的酒店接送、持证英语导游、乘坐传统木制阿布拉渡船横渡迪拜河、参观香料市场及黄金市场。不包含景点门票（例如哈利法塔观景台及未来博物馆展览）、食品、餐食及软饮、个人消费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Dubai Gold Souk, Dubai Spice Souk, Al Fahidi Historical Neighbourhood和Abra Dubai。由Yalla Walk tourism提供。"
+  ],
+  "included": [
+   "从迪拜出发的酒店接送",
+   "持证英语导游",
+   "乘坐传统木制阿布拉渡船横渡迪拜河",
+   "参观香料市场及黄金市场"
+  ],
+  "notIncluded": [
+   "景点门票（例如哈利法塔观景台及未来博物馆展览）",
+   "食品、餐食及软饮",
+   "个人消费"
+  ]
+ },
+ "abu-dhabi-ferrari-world-private-suv-tour-with-entr": {
+  "title": "阿布扎比：法拉利世界私人SUV游览，含门票",
+  "metaTitle": "阿布扎比：法拉利世界私人SUV游览，含门票",
+  "metaDescription": "一次全天的阿布扎比体验。享受阿布扎比法拉利世界门票，配私人GMC Yukon及专职司机。由HARBOR TOURISM LLC提供。",
+  "shortDescription": "一次全天的阿布扎比体验。享受阿布扎比法拉利世界门票，配私人GMC Yukon及专职司机。由HARBOR TOURISM LLC提供。",
+  "fullDescription": "一次全天的阿布扎比体验。享受阿布扎比法拉利世界门票，配私人GMC Yukon及专职司机。\n\n由HARBOR TOURISM LLC负责安排，价格中含9项内容。可免费取消。\n\n价格包含酒店或住所接送往返、乘坐私人GMC Yukon从迪拜前往阿布扎比的接送、阿布扎比法拉利世界门票、含燃油及萨利克通行费。不包含餐食和饮品、住宿，请另行预算。",
+  "highlights": [
+   "享受阿布扎比法拉利世界门票，配私人GMC Yukon及专职司机"
+  ],
+  "included": [
+   "酒店或住所接送往返",
+   "乘坐私人GMC Yukon从迪拜前往阿布扎比的接送",
+   "阿布扎比法拉利世界门票",
+   "含燃油及萨利克通行费"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "住宿"
+  ]
+ },
+ "dubai-dune-buggy-adventure-self-drive-desert-off-r": {
+  "title": "迪拜沙漠越野车冒险：自驾沙漠越野之旅",
+  "metaTitle": "迪拜沙漠越野车冒险：自驾沙漠越野之旅",
+  "metaDescription": "一次从迪拜出发的3小时行程，游览Lahbab, Lahbab, Lahbab和Lahbab。由Vantra Travels提供。",
+  "shortDescription": "一次从迪拜出发的3小时行程，游览Lahbab, Lahbab, Lahbab和Lahbab。由Vantra Travels提供。",
+  "fullDescription": "一次从迪拜出发的3小时行程，途经Lahbab, Lahbab, Lahbab和Lahbab。全程共4站。\n\n行程顺序为Lahbab, 然后 Lahbab, 然后 Lahbab, 然后 Lahbab。\n\n价格包含从迪拜出发的酒店接送、整个体验时长内的自驾沙漠越野车租赁、提供完整安全头盔及防护装备、专业教练全程指导沙漠路线。不包含餐食及饮品、个人消费、可选景点的门票费用，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的3小时行程，游览Lahbab, Lahbab, Lahbab和Lahbab。由Vantra Travels提供。"
+  ],
+  "included": [
+   "从迪拜出发的酒店接送",
+   "整个体验时长内的自驾沙漠越野车租赁",
+   "提供完整安全头盔及防护装备",
+   "专业教练全程指导沙漠路线"
+  ],
+  "notIncluded": [
+   "餐食及饮品",
+   "个人消费",
+   "可选景点的门票费用"
+  ]
+ },
+ "dubai-full-day-city-tour-with-luxury-car-showroom": {
+  "title": "迪拜：全天城市游览，含豪华车展厅参观",
+  "metaTitle": "迪拜：全天城市游览，含豪华车展厅参观",
+  "metaDescription": "一次全天的迪拜体验。探索迪拜法希迪历史街区及其修复的风塔建筑。由Whats Up Trip - F.Z.E提供。",
+  "shortDescription": "一次全天的迪拜体验。探索迪拜法希迪历史街区及其修复的风塔建筑。由Whats Up Trip - F.Z.E提供。",
+  "fullDescription": "一次全天的迪拜体验。探索迪拜法希迪历史街区及其修复的风塔建筑。\n\n由Whats Up Trip - F.Z.E负责安排，价格中含10项内容。可免费取消。\n\n价格包含酒店出发的接送、私人空调车辆、专业司机向导、中转游览（如需要）。不包含门票费用、餐食、个人消费，请另行预算。两位旅客共同支付461美元，而不是每人各付461美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "探索迪拜法希迪历史街区及其修复的风塔建筑"
+  ],
+  "included": [
+   "酒店出发的接送",
+   "私人空调车辆",
+   "专业司机向导",
+   "中转游览（如需要）"
+  ],
+  "notIncluded": [
+   "门票费用",
+   "餐食",
+   "个人消费"
+  ]
+ },
+ "dubai-desert-bike-tour": {
+  "title": "迪拜：VIP沙漠冲沙之旅，含沙滩摩托车、骆驼骑行及烧烤晚餐",
+  "metaTitle": "迪拜：VIP沙漠冲沙之旅，含沙滩摩托车、骆驼骑行及烧烤晚餐",
+  "metaDescription": "一次全天的迪拜体验。在迪拜沙漠深处与亲友共享烧烤晚餐聚会。由Ramada Group Line提供。",
+  "shortDescription": "一次全天的迪拜体验。在迪拜沙漠深处与亲友共享烧烤晚餐聚会。由Ramada Group Line提供。",
+  "fullDescription": "一次全天的迪拜体验。在迪拜沙漠深处与亲友共享烧烤晚餐聚会。\n\n由Ramada Group Line负责安排，价格中含12项内容。可免费取消。\n\n价格包含4x4车提供住所或酒店接送、沙漠冲沙、骑骆驼、滑沙。不包含含酒精饮品，请另行预算。",
+  "highlights": [
+   "在迪拜沙漠深处与亲友共享烧烤晚餐聚会"
+  ],
+  "included": [
+   "4x4车提供住所或酒店接送",
+   "沙漠冲沙",
+   "骑骆驼",
+   "滑沙"
+  ],
+  "notIncluded": [
+   "含酒精饮品"
+  ]
+ },
+ "from-dubaisharjah-abu-dhabi-city-tour-with-transfe": {
+  "title": "迪拜/沙迦出发：阿布扎比城市游览，含接送",
+  "metaTitle": "迪拜/沙迦出发：阿布扎比城市游览，含接送",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque和Emirates Palace。由Arabian Holidays Tours & Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque和Emirates Palace。由Arabian Holidays Tours & Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Sheikh Zayed Mosque和Emirates Palace。最长的一站是Sheikh Zayed Mosque，约1小时。全程共2站。\n\n行程顺序为Sheikh Zayed Mosque (1h), 然后 Emirates Palace (30 min)。\n\n价格包含从迪拜或沙迦出发的交通、参观谢赫扎耶德大清真寺、沿阿布扎比海滨大道行驶、阿联酋宫殿酒店拍照停留。不包含餐食、个人消费、法拉利世界门票，请另行预算。两位旅客共同支付338美元，而不是每人各付338美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque和Emirates Palace。由Arabian Holidays Tours & Travels提供。"
+  ],
+  "included": [
+   "从迪拜或沙迦出发的交通",
+   "参观谢赫扎耶德大清真寺",
+   "沿阿布扎比海滨大道行驶",
+   "阿联酋宫殿酒店拍照停留"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "法拉利世界门票"
+  ]
+ },
+ "abu-dhabi-mangroves-guided-kayaking-tour-with-hote": {
+  "title": "阿布扎比：红树林向导皮划艇游览，含酒店接送",
+  "metaTitle": "阿布扎比：红树林向导皮划艇游览，含酒店接送",
+  "metaDescription": "一次半天的阿布扎比体验。在向导皮划艇游览中探索阿布扎比宁静的红树林。由ARABIAN EXPLORE TOURS AND TRAVELS LLC提供。",
+  "shortDescription": "一次半天的阿布扎比体验。在向导皮划艇游览中探索阿布扎比宁静的红树林。由ARABIAN EXPLORE TOURS AND TRAVELS LLC提供。",
+  "fullDescription": "一次半天的阿布扎比体验。在向导皮划艇游览中探索阿布扎比宁静的红树林。\n\n由ARABIAN EXPLORE TOURS AND TRAVELS LLC负责安排，价格中含6项内容。可免费取消。\n\n价格包含2小时皮划艇、接送服务、安全及皮划艇装备、导游。不包含，请另行预算。",
+  "highlights": [
+   "在向导皮划艇游览中探索阿布扎比宁静的红树林"
+  ],
+  "included": [
+   "2小时皮划艇",
+   "接送服务",
+   "安全及皮划艇装备",
+   "导游"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-full-day-city-tour-with-the-view-at": {
+  "title": "迪拜：全天城市游览，含棕榈岛瞭望台门票",
+  "metaTitle": "迪拜：全天城市游览，含棕榈岛瞭望台门票",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Best Massage Amazing Dubai, Dubai Marina Walk, Souk Madinat Jumeirah和Al Farooq Omar Bin Al Khattab Mosque。由Asif Travels and Tours提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Best Massage Amazing Dubai, Dubai Marina Walk, Souk Madinat Jumeirah和Al Farooq Omar Bin Al Khattab Mosque。由Asif Travels and Tours提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Best Massage Amazing Dubai, Dubai Marina Walk, Souk Madinat Jumeirah和Al Farooq Omar Bin Al Khattab Mosque。全程共10站。\n\n行程顺序为Best Massage Amazing Dubai, 然后 Dubai Marina Walk (30 min), 然后 Souk Madinat Jumeirah (30 min), 然后 Al Farooq Omar Bin Al Khattab Mosque (30 min), 然后 Museum of the Future (15 min)。\n\n价格包含棕榈岛瞭望台门票、迪拜码头拍照停留、参观麦迪娜朱美拉市集、参观法鲁克清真寺（蓝色清真寺）。不包含餐食、个人消费、小费，请另行预算。两位旅客共同支付1198美元，而不是每人各付1060美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Best Massage Amazing Dubai, Dubai Marina Walk, Souk Madinat Jumeirah和Al Farooq Omar Bin Al Khattab Mosque。由Asif Travels and Tours提供。"
+  ],
+  "included": [
+   "棕榈岛瞭望台门票",
+   "迪拜码头拍照停留",
+   "参观麦迪娜朱美拉市集",
+   "参观法鲁克清真寺（蓝色清真寺）"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "小费"
+  ]
+ },
+ "dubai-golden-hours-morning-magic-tour-sunrise-to-s": {
+  "title": "迪拜黄金时刻晨间魔幻游览：从日出到天际线",
+  "metaTitle": "迪拜黄金时刻晨间魔幻游览：从日出到天际线",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Al Seef, Dubai Canal, Madinat Jumeirah和Jumeirah Beach。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Al Seef, Dubai Canal, Madinat Jumeirah和Jumeirah Beach。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Al Seef, Dubai Canal, Madinat Jumeirah和Jumeirah Beach。全程共6站。\n\n行程顺序为Al Seef (30 min), 然后 Dubai Canal (30 min), 然后 Madinat Jumeirah (30 min), 然后 Jumeirah Beach (30 min), 然后 Dubai Marina (30 min)。\n\n价格包含私人空调车辆、司机向导、免费饮用水、酒店接送。不包含包含项目中未提及的任何内容均不含在内，请另行预算。两位旅客共同支付198美元，而不是每人各付198美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Al Seef, Dubai Canal, Madinat Jumeirah和Jumeirah Beach。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。"
+  ],
+  "included": [
+   "私人空调车辆",
+   "司机向导",
+   "免费饮用水",
+   "酒店接送"
+  ],
+  "notIncluded": [
+   "包含项目中未提及的任何内容均不含在内"
+  ]
+ },
+ "desert-tour-by-atvbuggy-self-drive-vip-dinner-came": {
+  "title": "自驾沙滩摩托车/越野车沙漠之旅，含VIP晚餐及骆驼骑行",
+  "metaTitle": "自驾沙滩摩托车/越野车沙漠之旅，含VIP晚餐及骆驼骑行",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Lahbab Desert和Al Aweer。由Joyful Adventure提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Lahbab Desert和Al Aweer。由Joyful Adventure提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Lahbab Desert和Al Aweer。最长的一站是Al Aweer，约4小时。全程共2站。\n\n行程顺序为Lahbab Desert (2h), 然后 Al Aweer (4h)。\n\n价格包含乘坐空调车辆的酒店接送、45分钟自驾沙滩摩托车或越野车穿越拉哈巴红色沙丘（如选择该选项）、经验丰富的教练协助、短程骆驼骑行体验。不包含含酒精饮品、小费、包含项目中未明确提及的任何个人消费或服务，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Lahbab Desert和Al Aweer。由Joyful Adventure提供。"
+  ],
+  "included": [
+   "乘坐空调车辆的酒店接送",
+   "45分钟自驾沙滩摩托车或越野车穿越拉哈巴红色沙丘（如选择该选项）",
+   "经验丰富的教练协助",
+   "短程骆驼骑行体验"
+  ],
+  "notIncluded": [
+   "含酒精饮品",
+   "小费",
+   "包含项目中未明确提及的任何个人消费或服务"
+  ]
+ },
  "dubai-queen-elizabeth-2-heritage-tour-with-entry-t": {
   "title": "迪拜：伊丽莎白女王2号邮轮遗产之旅及门票",
   "metaTitle": "迪拜：伊丽莎白女王2号邮轮遗产之旅及门票",
@@ -23747,6 +28995,104 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食和饮品"
   ]
  },
+ "dubai-traditional-souqs-malls-shopping-tour-with-p": {
+  "title": "迪拜：传统市集及购物中心购物游览，含接送",
+  "metaTitle": "迪拜：传统市集及购物中心购物游览，含接送",
+  "metaDescription": "一次半天的迪拜体验。在私人游览中探索迪拜传统市集及世界级购物中心。由Whats Up Trip - F.Z.E提供。",
+  "shortDescription": "一次半天的迪拜体验。在私人游览中探索迪拜传统市集及世界级购物中心。由Whats Up Trip - F.Z.E提供。",
+  "fullDescription": "一次半天的迪拜体验。在私人游览中探索迪拜传统市集及世界级购物中心。\n\n由Whats Up Trip - F.Z.E负责安排，价格中含9项内容。可免费取消。\n\n价格包含酒店往返接送、私人空调车辆、专业司机向导、参观传统市集。不包含个人购物消费，请另行预算。两位旅客共同支付296美元，而不是每人各付296美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在私人游览中探索迪拜传统市集及世界级购物中心"
+  ],
+  "included": [
+   "酒店往返接送",
+   "私人空调车辆",
+   "专业司机向导",
+   "参观传统市集"
+  ],
+  "notIncluded": [
+   "个人购物消费"
+  ]
+ },
+ "abu-dhabi-private-city-tour-from-dubai-sharjah-air": {
+  "title": "阿布扎比私人城市游览，迪拜、沙迦或机场出发",
+  "metaTitle": "阿布扎比私人城市游览，迪拜、沙迦或机场出发",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Abu Dhabi Heritage Village, Abu Dhabi Corniche和Emirates Palace。由Vantra Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Abu Dhabi Heritage Village, Abu Dhabi Corniche和Emirates Palace。由Vantra Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Sheikh Zayed Mosque, Abu Dhabi Heritage Village, Abu Dhabi Corniche和Emirates Palace。全程共7站。\n\n行程顺序为Sheikh Zayed Mosque, 然后 Abu Dhabi Heritage Village, 然后 Abu Dhabi Corniche, 然后 Emirates Palace, 然后 Qasr Al Watan。\n\n价格包含全天私人SUV座驾，配专业司机、全程持证专业向导及摄影师、谢赫扎耶德大清真寺向导讲解、阿尔瓦坦宫外部参观。不包含小费、阿布扎比卢浮宫以外的门票，请另行预算。两位旅客共同支付531美元，而不是每人各付531美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Abu Dhabi Heritage Village, Abu Dhabi Corniche和Emirates Palace。由Vantra Travels提供。"
+  ],
+  "included": [
+   "全天私人SUV座驾，配专业司机",
+   "全程持证专业向导及摄影师",
+   "谢赫扎耶德大清真寺向导讲解",
+   "阿尔瓦坦宫外部参观"
+  ],
+  "notIncluded": [
+   "小费",
+   "阿布扎比卢浮宫以外的门票"
+  ]
+ },
+ "dubai-beach-tour-with-water-sports-and-sunset-view": {
+  "title": "迪拜：海滩游览，含水上运动及日落景观",
+  "metaTitle": "迪拜：海滩游览，含水上运动及日落景观",
+  "metaDescription": "一次半天的迪拜体验。在风筝海滩感受风筝冲浪及桨板运动的刺激。由Delhi Agra Jaipur Holiday提供。",
+  "shortDescription": "一次半天的迪拜体验。在风筝海滩感受风筝冲浪及桨板运动的刺激。由Delhi Agra Jaipur Holiday提供。",
+  "fullDescription": "一次半天的迪拜体验。在风筝海滩感受风筝冲浪及桨板运动的刺激。\n\n由Delhi Agra Jaipur Holiday负责安排，价格中含8项内容。可免费取消。\n\n价格包含参观朱美拉海滩、参观风筝海滩、参观拉梅尔海滩、参观JBR海滩。不包含餐食和饮品、往返海滩的交通、个人消费，请另行预算。",
+  "highlights": [
+   "在风筝海滩感受风筝冲浪及桨板运动的刺激"
+  ],
+  "included": [
+   "参观朱美拉海滩",
+   "参观风筝海滩",
+   "参观拉梅尔海滩",
+   "参观JBR海滩"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "往返海滩的交通",
+   "个人消费"
+  ]
+ },
+ "dubai-sheikh-zayed-grand-mosque-evening-tour": {
+  "title": "迪拜：谢赫扎耶德大清真寺夜间游览",
+  "metaTitle": "迪拜：谢赫扎耶德大清真寺夜间游览",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque。由OceanAir Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque。由OceanAir Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Sheikh Zayed Mosque。最长的一站是Sheikh Zayed Mosque，约1小时。\n\n由OceanAir Travels负责安排，价格中含4项内容。可免费取消。惊叹于夜晚灯光映照下的谢赫扎耶德大清真寺。\n\n价格包含酒店接送（迪拜）、空调交通工具、持证导游、瓶装水。不包含清真寺门票费用，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "酒店接送（迪拜）",
+   "空调交通工具",
+   "持证导游",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "清真寺门票费用"
+  ]
+ },
+ "private-family-dune-dinner-in-abu-dhabi-with-bbq": {
+  "title": "阿布扎比私人家庭沙丘晚餐，含烧烤",
+  "metaTitle": "阿布扎比私人家庭沙丘晚餐，含烧烤",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Jeep / SUV, AlKhazna-DesertBowl, AlKhazna-DesertBowl和Desert Rose Safari Camp。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Jeep / SUV, AlKhazna-DesertBowl, AlKhazna-DesertBowl和Desert Rose Safari Camp。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Jeep / SUV, AlKhazna-DesertBowl, AlKhazna-DesertBowl和Desert Rose Safari Camp。最长的一站是Jeep / SUV，约1小时。全程共6站。\n\n行程顺序为Jeep / SUV (1h), 然后 AlKhazna-DesertBowl (40 min), 然后 AlKhazna-DesertBowl (25 min), 然后 Desert Rose Safari Camp (30 min), 然后 Jeep / SUV (30 min)。\n\n价格包含私人4x4车沙丘驾驶、专业司机、沙丘驾驶体验、私人晚餐布置。不包含包含项目中未提及的任何项目或服务，请另行预算。两位旅客共同支付1841美元，而不是每人各付1841美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Jeep / SUV, AlKhazna-DesertBowl, AlKhazna-DesertBowl和Desert Rose Safari Camp。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。"
+  ],
+  "included": [
+   "私人4x4车沙丘驾驶",
+   "专业司机",
+   "沙丘驾驶体验",
+   "私人晚餐布置"
+  ],
+  "notIncluded": [
+   "包含项目中未提及的任何项目或服务"
+  ]
+ },
  "umm-al-quwain-exclusive-beach-horseback-ride": {
   "title": "乌姆古温：专属海滩骑马体验",
   "metaTitle": "乌姆古温：专属海滩骑马体验",
@@ -23762,6 +29108,44 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "前往集合地点的交通接送"
+  ]
+ },
+ "from-dubai-baps-hindu-temple-abu-dhabi-spiritual-e": {
+  "title": "迪拜出发：阿布扎比BAPS印度庙灵修体验",
+  "metaTitle": "迪拜出发：阿布扎比BAPS印度庙灵修体验",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览BAPS Hindu Mandir Abu Dhabi。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览BAPS Hindu Mandir Abu Dhabi。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经BAPS Hindu Mandir Abu Dhabi。最长的一站是BAPS Hindu Mandir Abu Dhabi，约3小时。\n\n价格包含包含项目：、迪拜酒店出发的接送、空调车辆，配瓶装水、英语司机兼向导。不包含包含项目中未提及的任何内容，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览BAPS Hindu Mandir Abu Dhabi。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。"
+  ],
+  "included": [
+   "包含项目：",
+   "迪拜酒店出发的接送",
+   "空调车辆，配瓶装水",
+   "英语司机兼向导"
+  ],
+  "notIncluded": [
+   "包含项目中未提及的任何内容"
+  ]
+ },
+ "louvre-abu-dhabi-express-tour-with-an-emirati-guid": {
+  "title": "阿布扎比卢浮宫快览游，配阿联酋向导",
+  "metaTitle": "阿布扎比卢浮宫快览游，配阿联酋向导",
+  "metaDescription": "一次1.5小时的阿布扎比体验。由热情且持证的阿布扎比卢浮宫向导带领。由Tours By Emirati提供。",
+  "shortDescription": "一次1.5小时的阿布扎比体验。由热情且持证的阿布扎比卢浮宫向导带领。由Tours By Emirati提供。",
+  "fullDescription": "一次1.5小时的阿布扎比体验。由热情且持证的阿布扎比卢浮宫向导带领。\n\n由Tours By Emirati负责安排，价格中含3项内容。可免费取消。\n\n价格包含1.酒店接送、2.门票、3.向导游览，讲解阿布扎比卢浮宫内外的重要标志性藏品。不包含不含餐食、不含小费，请另行预算。",
+  "highlights": [
+   "由热情且持证的阿布扎比卢浮宫向导带领"
+  ],
+  "included": [
+   "1.酒店接送",
+   "2.门票",
+   "3.向导游览，讲解阿布扎比卢浮宫内外的重要标志性藏品"
+  ],
+  "notIncluded": [
+   "不含餐食",
+   "不含小费"
   ]
  },
  "abu-dhabi-private-fishing-trip-with-captain": {
@@ -23783,6 +29167,85 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "dubai-red-dune-desert-safari-with-vip-bbq-dinner": {
+  "title": "迪拜红色沙丘沙漠之旅，含VIP烧烤晚餐体验",
+  "metaTitle": "迪拜红色沙丘沙漠之旅，含VIP烧烤晚餐体验",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Lahbab Desert。由Dream Journey提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Lahbab Desert。由Dream Journey提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Lahbab Desert。\n\n价格包含迪拜酒店接送、4x4车沙漠冲沙体验、红色沙丘日落拍照停留、骆驼骑行体验。不包含，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Lahbab Desert。由Dream Journey提供。"
+  ],
+  "included": [
+   "迪拜酒店接送",
+   "4x4车沙漠冲沙体验",
+   "红色沙丘日落拍照停留",
+   "骆驼骑行体验"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-jet-car-experience": {
+  "title": "迪拜：水上摩托艇体验",
+  "metaTitle": "迪拜：水上摩托艇体验",
+  "metaDescription": "一次从迪拜出发的0.333333小时行程，游览Ain Dubai, Atlantis The Royal和Burj Al Arab。由Friend Aqua waterSports提供。",
+  "shortDescription": "一次从迪拜出发的0.333333小时行程，游览Ain Dubai, Atlantis The Royal和Burj Al Arab。由Friend Aqua waterSports提供。",
+  "fullDescription": "一次从迪拜出发的0.333333小时行程，途经Ain Dubai, Atlantis The Royal和Burj Al Arab。最长的一站是Burj Al Arab，约1小时。全程共3站。\n\n行程顺序为Ain Dubai (30 min), 然后 Atlantis The Royal (45 min), 然后 Burj Al Arab (1h)。\n\n价格包含水上摩托艇体验、专业向导、专业指导。不包含餐食和饮品、毛巾、泳衣，请另行预算。两位旅客共同支付323美元，而不是每人各付323美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的0.333333小时行程，游览Ain Dubai, Atlantis The Royal和Burj Al Arab。由Friend Aqua waterSports提供。"
+  ],
+  "included": [
+   "水上摩托艇体验",
+   "专业向导",
+   "专业指导"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "毛巾",
+   "泳衣"
+  ]
+ },
+ "dubai-luxury-yacht-tour-with-water-soft-drinks": {
+  "title": "迪拜：豪华游艇之旅，含矿泉水及软饮",
+  "metaTitle": "迪拜：豪华游艇之旅，含矿泉水及软饮",
+  "metaDescription": "一次2小时的迪拜体验。在本次游览中体验阿联酋式奢华，船上提供简便茶点。由Royal Wings Tour LLC提供。",
+  "shortDescription": "一次2小时的迪拜体验。在本次游览中体验阿联酋式奢华，船上提供简便茶点。由Royal Wings Tour LLC提供。",
+  "fullDescription": "一次2小时的迪拜体验。在本次游览中体验阿联酋式奢华，船上提供简便茶点。\n\n由Royal Wings Tour LLC负责安排，价格中含10项内容。可免费取消。\n\n价格包含专业船长和船员、拍照机会、软饮料、无限畅饮冰镇瓶装水。不包含酒店出发的交通，请另行预算。",
+  "highlights": [
+   "在本次游览中体验阿联酋式奢华，船上提供简便茶点"
+  ],
+  "included": [
+   "专业船长和船员",
+   "拍照机会",
+   "软饮料",
+   "无限畅饮冰镇瓶装水"
+  ],
+  "notIncluded": [
+   "酒店出发的交通"
+  ]
+ },
+ "dubai-city-tour-with-abra-ride-and-photo-stops": {
+  "title": "迪拜：城市游览，含阿布拉渡船体验及拍照停留",
+  "metaTitle": "迪拜：城市游览，含阿布拉渡船体验及拍照停留",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Dubai。由Holiday Ally提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Dubai。由Holiday Ally提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Dubai。最长的一站是Dubai，约13小时。\n\n价格包含扎比勒宫拍照停留、参观迪拜之框、探索巴斯塔基亚街区、迪拜河阿布拉渡船体验。不包含门票、餐食、个人消费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Dubai。由Holiday Ally提供。"
+  ],
+  "included": [
+   "扎比勒宫拍照停留",
+   "参观迪拜之框",
+   "探索巴斯塔基亚街区",
+   "迪拜河阿布拉渡船体验"
+  ],
+  "notIncluded": [
+   "门票",
+   "餐食",
+   "个人消费"
+  ]
+ },
  "abu-dhabi-full-day-private-tour-with-emirati-local": {
   "title": "阿布扎比全日私人游，含本地阿联酋导游",
   "metaTitle": "阿布扎比全日私人游，含本地阿联酋导游",
@@ -23802,23 +29265,603 @@ export const ZH_TOURS: Record<string, TourT> = {
    "午餐可选"
   ]
  },
+ "viral-flower-bath-massage-nh-collection-ibn-battut": {
+  "title": "爆款花瓣浴与按摩：NH Collection伊本白图泰酒店",
+  "metaTitle": "爆款花瓣浴与按摩：NH Collection伊本白图泰酒店",
+  "metaDescription": "一次1.5小时的迪拜体验。享受60分钟全身按摩及30分钟花瓣浴。由Soul Senses - Oaks (Ibn Batuta)提供。",
+  "shortDescription": "一次1.5小时的迪拜体验。享受60分钟全身按摩及30分钟花瓣浴。由Soul Senses - Oaks (Ibn Batuta)提供。",
+  "fullDescription": "一次1.5小时的迪拜体验。享受60分钟全身按摩及30分钟花瓣浴。\n\n由Soul Senses - Oaks (Ibn Batuta)负责安排，价格中含5项内容。可免费取消。\n\n价格包含欢迎饮品、60分钟芳香疗法或深层组织按摩（可任选一项）、30分钟花瓣浴仪式（可选择主题）、干果与黑巧克力。不包含交通接送、额外附加项目（面膜、胶原眼膜、头部按摩器、礼品券），请抵达后联系前台，请另行预算。",
+  "highlights": [
+   "享受60分钟全身按摩及30分钟花瓣浴"
+  ],
+  "included": [
+   "欢迎饮品",
+   "60分钟芳香疗法或深层组织按摩（可任选一项）",
+   "30分钟花瓣浴仪式（可选择主题）",
+   "干果与黑巧克力"
+  ],
+  "notIncluded": [
+   "交通接送",
+   "额外附加项目（面膜、胶原眼膜、头部按摩器、礼品券），请抵达后联系前台"
+  ]
+ },
+ "dubai-self-drive-luxury-electric-catamaran-boat-re": {
+  "title": "迪拜：自驾豪华电动双体船租赁",
+  "metaTitle": "迪拜：自驾豪华电动双体船租赁",
+  "metaDescription": "一次0.5小时的迪拜体验。乘坐100%纯电动双体船静谧滑行水面。由Crystal Clear Watersports LLC提供。",
+  "shortDescription": "一次0.5小时的迪拜体验。乘坐100%纯电动双体船静谧滑行水面。由Crystal Clear Watersports LLC提供。",
+  "fullDescription": "一次0.5小时的迪拜体验。乘坐100%纯电动双体船静谧滑行水面。\n\n由Crystal Clear Watersports LLC负责安排，价格中含5项内容。可免费取消。\n\n价格包含自驾电动双体船体验、直观的操纵杆控制、豪华内部装饰、优雅遮阳棚。不包含食品及饮品，请另行预算。",
+  "highlights": [
+   "乘坐100%纯电动双体船静谧滑行水面"
+  ],
+  "included": [
+   "自驾电动双体船体验",
+   "直观的操纵杆控制",
+   "豪华内部装饰",
+   "优雅遮阳棚"
+  ],
+  "notIncluded": [
+   "食品及饮品"
+  ]
+ },
+ "abu-dhabi-royal-equestrian-arts-guided-tour": {
+  "title": "阿布扎比皇家马术艺术中心向导游览",
+  "metaTitle": "阿布扎比皇家马术艺术中心向导游览",
+  "metaDescription": "一次0.583333小时的阿布扎比体验。沉浸于古典马术的世界。由Abu Dhabi Royal Equestrian Art - ADREA提供。",
+  "shortDescription": "一次0.583333小时的阿布扎比体验。沉浸于古典马术的世界。由Abu Dhabi Royal Equestrian Art - ADREA提供。",
+  "fullDescription": "一次0.583333小时的阿布扎比体验。沉浸于古典马术的世界。\n\n由Abu Dhabi Royal Equestrian Art - ADREA负责安排，价格中含6项内容。可免费取消。\n\n价格包含阿布扎比皇家马术艺术中心向导游览、参观骑士文化画廊、参观The Atelier艺术空间、参观图书馆（The Library）。不包含往返场地的交通、餐食及饮品，请另行预算。",
+  "highlights": [
+   "沉浸于古典马术的世界"
+  ],
+  "included": [
+   "阿布扎比皇家马术艺术中心向导游览",
+   "参观骑士文化画廊",
+   "参观The Atelier艺术空间",
+   "参观图书馆（The Library）"
+  ],
+  "notIncluded": [
+   "往返场地的交通",
+   "餐食及饮品"
+  ]
+ },
+ "dubai-marina-2-hour-dinner-cruise-with-live-show": {
+  "title": "迪拜码头2小时晚餐巡游，含现场表演",
+  "metaTitle": "迪拜码头2小时晚餐巡游，含现场表演",
+  "metaDescription": "一次2小时的迪拜体验。在巡游途中品尝美味的国际自助晚餐。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "shortDescription": "一次2小时的迪拜体验。在巡游途中品尝美味的国际自助晚餐。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "fullDescription": "一次2小时的迪拜体验。在巡游途中品尝美味的国际自助晚餐。\n\n由ARABIAN DESTINATION TOURISM L.L.C负责安排，价格中含7项内容。可免费取消。\n\n价格包含2小时巡游、国际自助晚餐、欢迎饮品、软饮。不包含酒精饮品，请另行预算。",
+  "highlights": [
+   "在巡游途中品尝美味的国际自助晚餐"
+  ],
+  "included": [
+   "2小时巡游",
+   "国际自助晚餐",
+   "欢迎饮品",
+   "软饮"
+  ],
+  "notIncluded": [
+   "酒精饮品"
+  ]
+ },
+ "dubai-scenic-3-hour-lahbab-4x4-adventure": {
+  "title": "迪拜：风景3小时拉哈巴4x4冒险",
+  "metaTitle": "迪拜：风景3小时拉哈巴4x4冒险",
+  "metaDescription": "一次3小时的迪拜体验。感受在拉哈巴沙漠乘坐4x4车冲沙的刺激。由Desert Riders Tourism提供。",
+  "shortDescription": "一次3小时的迪拜体验。感受在拉哈巴沙漠乘坐4x4车冲沙的刺激。由Desert Riders Tourism提供。",
+  "fullDescription": "一次3小时的迪拜体验。感受在拉哈巴沙漠乘坐4x4车冲沙的刺激。\n\n由Desert Riders Tourism负责安排，价格中含9项内容。可免费取消。\n\n价格包含从迪拜国际机场（DXB）或迪拜市中心酒店出发的拼车往返接送、配空调的4x4陆地巡洋舰/日产Patrol车辆、专业英语司机/向导、25至35分钟风景沙漠冲沙。不包含沙滩摩托车骑行或其他额外活动、小费、个人消费，请另行预算。",
+  "highlights": [
+   "感受在拉哈巴沙漠乘坐4x4车冲沙的刺激"
+  ],
+  "included": [
+   "从迪拜国际机场（DXB）或迪拜市中心酒店出发的拼车往返接送",
+   "配空调的4x4陆地巡洋舰/日产Patrol车辆",
+   "专业英语司机/向导",
+   "25至35分钟风景沙漠冲沙"
+  ],
+  "notIncluded": [
+   "沙滩摩托车骑行或其他额外活动",
+   "小费",
+   "个人消费"
+  ]
+ },
+ "abu-dhabi-yas-island-wakeboarding-tubing": {
+  "title": "阿布扎比：亚斯岛滑水板及拖管运动",
+  "metaTitle": "阿布扎比：亚斯岛滑水板及拖管运动",
+  "metaDescription": "一次0.5小时的阿布扎比体验。在亚斯岛感受滑水板、水上滑雪及拖管运动的刺激。由Bayside Water Rides Abu Dhabi提供。",
+  "shortDescription": "一次0.5小时的阿布扎比体验。在亚斯岛感受滑水板、水上滑雪及拖管运动的刺激。由Bayside Water Rides Abu Dhabi提供。",
+  "fullDescription": "一次0.5小时的阿布扎比体验。在亚斯岛感受滑水板、水上滑雪及拖管运动的刺激。\n\n由Bayside Water Rides Abu Dhabi负责安排，价格中含6项内容。可免费取消。\n\n价格包含滑水板、单板滑水、跪板滑水、拖管水上运动。不包含，请另行预算。",
+  "highlights": [
+   "在亚斯岛感受滑水板、水上滑雪及拖管运动的刺激"
+  ],
+  "included": [
+   "滑水板",
+   "单板滑水",
+   "跪板滑水",
+   "拖管水上运动"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-parasailing-experience-over-the-arabian-gulf": {
+  "title": "迪拜：阿拉伯湾滑翔伞体验",
+  "metaTitle": "迪拜：阿拉伯湾滑翔伞体验",
+  "metaDescription": "一次0.5小时的迪拜体验。在迪拜体验飞越阿拉伯湾的滑翔伞刺激。由Waterlink提供。",
+  "shortDescription": "一次0.5小时的迪拜体验。在迪拜体验飞越阿拉伯湾的滑翔伞刺激。由Waterlink提供。",
+  "fullDescription": "一次0.5小时的迪拜体验。在迪拜体验飞越阿拉伯湾的滑翔伞刺激。\n\n由Waterlink负责安排，价格中含8项内容。可免费取消。\n\n价格包含安全须知讲解、持证船员提供的操作说明、所有必要的安全装备、风景滑翔伞船游。不包含酒店往返接送、餐食和饮品、个人消费，请另行预算。",
+  "highlights": [
+   "在迪拜体验飞越阿拉伯湾的滑翔伞刺激"
+  ],
+  "included": [
+   "安全须知讲解",
+   "持证船员提供的操作说明",
+   "所有必要的安全装备",
+   "风景滑翔伞船游"
+  ],
+  "notIncluded": [
+   "酒店往返接送",
+   "餐食和饮品",
+   "个人消费"
+  ]
+ },
+ "abu-dhabi-culture-day-trip-grand-mosque-zayed-muse": {
+  "title": "阿布扎比文化一日游：大清真寺及扎耶德博物馆",
+  "metaTitle": "阿布扎比文化一日游：大清真寺及扎耶德博物馆",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Qasr Al Watan, Abu Dhabi Corniche和Zayed National Museum。由OceanAir Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Qasr Al Watan, Abu Dhabi Corniche和Zayed National Museum。由OceanAir Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Sheikh Zayed Mosque, Qasr Al Watan, Abu Dhabi Corniche和Zayed National Museum。最长的一站是Zayed National Museum，约1小时。全程共4站。\n\n行程顺序为Sheikh Zayed Mosque, 然后 Qasr Al Watan, 然后 Abu Dhabi Corniche (10 min), 然后 Zayed National Museum (1h)。\n\n价格包含从迪拜出发的酒店接送、豪华空调奔驰Sprinter座驾、现场专业导游、来自不同国家的传统阿拉伯椰枣。不包含午餐（自费）、小费（可选），请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Qasr Al Watan, Abu Dhabi Corniche和Zayed National Museum。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "从迪拜出发的酒店接送",
+   "豪华空调奔驰Sprinter座驾",
+   "现场专业导游",
+   "来自不同国家的传统阿拉伯椰枣"
+  ],
+  "notIncluded": [
+   "午餐（自费）",
+   "小费（可选）"
+  ]
+ },
+ "abu-dhabi-pearl-heritage-tour": {
+  "title": "阿布扎比：珍珠文化之旅",
+  "metaTitle": "阿布扎比：珍珠文化之旅",
+  "metaDescription": "一次1小时的阿布扎比体验。品尝传统阿联酋早餐，感受阿拉伯咖啡与椰枣的待客之道。由Abu Dhabi Pearl Experience提供。",
+  "shortDescription": "一次1小时的阿布扎比体验。品尝传统阿联酋早餐，感受阿拉伯咖啡与椰枣的待客之道。由Abu Dhabi Pearl Experience提供。",
+  "fullDescription": "一次1小时的阿布扎比体验。品尝传统阿联酋早餐，感受阿拉伯咖啡与椰枣的待客之道。\n\n由Abu Dhabi Pearl Experience负责安排，价格中含6项内容。可免费取消。\n\n价格包含现场开蚌仪式、阿联酋向导或文化顾问、阿拉伯咖啡、卡拉克茶及椰枣、传统阿联酋早餐（如选择该选项）、共享Jalboot传统木船巡游、采珠故事及工具展示，文化演示。不包含酒店接送、额外食品或饮品、个人消费，请另行预算。",
+  "highlights": [
+   "品尝传统阿联酋早餐，感受阿拉伯咖啡与椰枣的待客之道"
+  ],
+  "included": [
+   "现场开蚌仪式",
+   "阿联酋向导或文化顾问",
+   "阿拉伯咖啡、卡拉克茶及椰枣",
+   "传统阿联酋早餐（如选择该选项）",
+   "共享Jalboot传统木船巡游",
+   "采珠故事及工具展示，文化演示"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "额外食品或饮品",
+   "个人消费"
+  ]
+ },
+ "abu-dhabi-yas-island-90-minute-guided-self-drive": {
+  "title": "阿布扎比：亚斯岛90分钟向导自驾快艇游览",
+  "metaTitle": "阿布扎比：亚斯岛90分钟向导自驾快艇游览",
+  "metaDescription": "一次从阿布扎比出发的1.5小时行程，游览Al Bandar和Yas Island。由Bayside Water Rides Abu Dhabi提供。",
+  "shortDescription": "一次从阿布扎比出发的1.5小时行程，游览Al Bandar和Yas Island。由Bayside Water Rides Abu Dhabi提供。",
+  "fullDescription": "一次从阿布扎比出发的1.5小时行程，途经Al Bandar和Yas Island。全程共2站。\n\n行程顺序为Al Bandar (10 min), 然后 Yas Island。\n\n价格包含私人自驾快艇、船长从另一艘领航船引导、计划好的90分钟亚斯岛环游路线、岛屿停留。不包含酒店往返接送、食品、小吃或餐食，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的1.5小时行程，游览Al Bandar和Yas Island。由Bayside Water Rides Abu Dhabi提供。"
+  ],
+  "included": [
+   "私人自驾快艇",
+   "船长从另一艘领航船引导",
+   "计划好的90分钟亚斯岛环游路线",
+   "岛屿停留"
+  ],
+  "notIncluded": [
+   "酒店往返接送",
+   "食品、小吃或餐食"
+  ]
+ },
+ "budget-friendly-guided-abu-dhabi-cultural-full-day": {
+  "title": "超值阿布扎比文化全天向导游览",
+  "metaTitle": "超值阿布扎比文化全天向导游览",
+  "metaDescription": "一次全天的阿布扎比体验。欣赏谢赫扎耶德大清真寺令人惊叹的建筑。由Fly Efes Travel提供。",
+  "shortDescription": "一次全天的阿布扎比体验。欣赏谢赫扎耶德大清真寺令人惊叹的建筑。由Fly Efes Travel提供。",
+  "fullDescription": "一次全天的阿布扎比体验。欣赏谢赫扎耶德大清真寺令人惊叹的建筑。\n\n由Fly Efes Travel负责安排，价格中含7项内容。可免费取消。\n\n价格包含接送：迪拜市区范围内酒店（谢赫扎耶德路沿线）、拼车交通、参观谢赫扎耶德大清真寺、全景驾车经过阿联酋宫殿酒店及阿提哈德大厦。不包含伊斯兰节日期间谢赫扎耶德大清真寺门票、午餐（除非升级为含自助餐），请另行预算。",
+  "highlights": [
+   "欣赏谢赫扎耶德大清真寺令人惊叹的建筑"
+  ],
+  "included": [
+   "接送：迪拜市区范围内酒店（谢赫扎耶德路沿线）",
+   "拼车交通",
+   "参观谢赫扎耶德大清真寺",
+   "全景驾车经过阿联酋宫殿酒店及阿提哈德大厦"
+  ],
+  "notIncluded": [
+   "伊斯兰节日期间谢赫扎耶德大清真寺门票",
+   "午餐（除非升级为含自助餐）"
+  ]
+ },
+ "abu-dhabi-pearl-heritage-tour-woyster-opening-expe": {
+  "title": "阿布扎比珍珠文化之旅，含开蚌体验",
+  "metaTitle": "阿布扎比珍珠文化之旅，含开蚌体验",
+  "metaDescription": "一次1小时的阿布扎比体验。感受发现并留下属于自己珍珠纪念品的惊喜。由Abu Dhabi Pearl Experience提供。",
+  "shortDescription": "一次1小时的阿布扎比体验。感受发现并留下属于自己珍珠纪念品的惊喜。由Abu Dhabi Pearl Experience提供。",
+  "fullDescription": "一次1小时的阿布扎比体验。感受发现并留下属于自己珍珠纪念品的惊喜。\n\n由Abu Dhabi Pearl Experience负责安排，价格中含4项内容。可免费取消。\n\n价格包含现场开蚌取珠体验，获赠珍珠及珠母贝纪念品、阿联酋向导或文化顾问、阿拉伯咖啡、卡拉克茶及椰枣、传统阿联酋早餐（如选择该选项）。不包含酒店接送、额外食品或饮品、个人消费，请另行预算。",
+  "highlights": [
+   "感受发现并留下属于自己珍珠纪念品的惊喜"
+  ],
+  "included": [
+   "现场开蚌取珠体验，获赠珍珠及珠母贝纪念品",
+   "阿联酋向导或文化顾问",
+   "阿拉伯咖啡、卡拉克茶及椰枣",
+   "传统阿联酋早餐（如选择该选项）"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "额外食品或饮品",
+   "个人消费"
+  ]
+ },
+ "dubai-guided-camel-ride-on-jbr-beach-with-skyline": {
+  "title": "迪拜：JBR海滩向导骆驼骑行，可观天际线景色",
+  "metaTitle": "迪拜：JBR海滩向导骆驼骑行，可观天际线景色",
+  "metaDescription": "一次0.166667小时的迪拜体验。迎着海风，感受骆驼骑行的轻柔节奏。由LTC Menzel LLC提供。",
+  "shortDescription": "一次0.166667小时的迪拜体验。迎着海风，感受骆驼骑行的轻柔节奏。由LTC Menzel LLC提供。",
+  "fullDescription": "一次0.166667小时的迪拜体验。迎着海风，感受骆驼骑行的轻柔节奏。\n\n由LTC Menzel LLC负责安排，价格中含3项内容。可免费取消。\n\n价格包含10分钟向导骆驼骑行、专业骆驼驯养员、安全须知讲解。不包含餐食和饮品、酒店接送、纪念照片，请另行预算。",
+  "highlights": [
+   "迎着海风，感受骆驼骑行的轻柔节奏"
+  ],
+  "included": [
+   "10分钟向导骆驼骑行",
+   "专业骆驼驯养员",
+   "安全须知讲解"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "酒店接送",
+   "纪念照片"
+  ]
+ },
+ "the-nest-by-sonara-luxury-overnight-desert-experie": {
+  "title": "The Nest by Sonara：迪拜豪华沙漠过夜体验",
+  "metaTitle": "The Nest by Sonara：迪拜豪华沙漠过夜体验",
+  "metaDescription": "一次全天的迪拜体验。入住沙丘造型的巢屋过夜。由NARA DESERT ESCAPE PICNICS & CAMPING ORGANIZING L.L.C提供。",
+  "shortDescription": "一次全天的迪拜体验。入住沙丘造型的巢屋过夜。由NARA DESERT ESCAPE PICNICS & CAMPING ORGANIZING L.L.C提供。",
+  "fullDescription": "一次全天的迪拜体验。入住沙丘造型的巢屋过夜。\n\n由NARA DESERT ESCAPE PICNICS & CAMPING ORGANIZING L.L.C负责安排，价格中含12项内容。可免费取消。\n\n价格包含住宿：、入住豪华沙漠巢屋过夜、次日早餐、餐饮：。不包含，请另行预算。两位旅客共同支付2574美元，而不是每人各付1995美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "入住沙丘造型的巢屋过夜"
+  ],
+  "included": [
+   "住宿：",
+   "入住豪华沙漠巢屋过夜",
+   "次日早餐",
+   "餐饮："
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-1-hour-ain-boat-sightseeing-cruise": {
+  "title": "迪拜：1小时迪拜眼船上观光巡游",
+  "metaTitle": "迪拜：1小时迪拜眼船上观光巡游",
+  "metaDescription": "一次从迪拜出发的1小时行程，游览Dubai Marina, Ain Dubai, Jumeirah Beach Residence和Dubai Harbour。由Xclusive Yachts提供。",
+  "shortDescription": "一次从迪拜出发的1小时行程，游览Dubai Marina, Ain Dubai, Jumeirah Beach Residence和Dubai Harbour。由Xclusive Yachts提供。",
+  "fullDescription": "一次从迪拜出发的1小时行程，途经Dubai Marina, Ain Dubai, Jumeirah Beach Residence和Dubai Harbour。全程共4站。\n\n行程顺序为Dubai Marina, 然后 Ain Dubai, 然后 Jumeirah Beach Residence, 然后 Dubai Harbour。\n\n价格包含露天上层甲板、卫生间、船长及船员、热带饮品、果汁及冰镇瓶装水、全空调休息区，提供免费无线网络。不包含餐食和饮品，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1小时行程，游览Dubai Marina, Ain Dubai, Jumeirah Beach Residence和Dubai Harbour。由Xclusive Yachts提供。"
+  ],
+  "included": [
+   "露天上层甲板",
+   "卫生间",
+   "船长及船员",
+   "热带饮品、果汁及冰镇瓶装水",
+   "全空调休息区，提供免费无线网络"
+  ],
+  "notIncluded": [
+   "餐食和饮品"
+  ]
+ },
+ "dubai-gold-souk-vip-shopping-tour-with-private-car": {
+  "title": "迪拜：黄金市场VIP购物游览，含私人座驾",
+  "metaTitle": "迪拜：黄金市场VIP购物游览，含私人座驾",
+  "metaDescription": "一次3小时的迪拜体验。在迪拜举世闻名的黄金市场享受VIP购物体验。由BFT GROUP提供。",
+  "shortDescription": "一次3小时的迪拜体验。在迪拜举世闻名的黄金市场享受VIP购物体验。由BFT GROUP提供。",
+  "fullDescription": "一次3小时的迪拜体验。在迪拜举世闻名的黄金市场享受VIP购物体验。\n\n由BFT GROUP负责安排，价格中含6项内容。可免费取消。\n\n价格包含私人豪华座驾交通、酒店接送、协助购物的当地友人、购物内行贴士。不包含餐食和饮品、个人购物消费，请另行预算。",
+  "highlights": [
+   "在迪拜举世闻名的黄金市场享受VIP购物体验"
+  ],
+  "included": [
+   "私人豪华座驾交通",
+   "酒店接送",
+   "协助购物的当地友人",
+   "购物内行贴士"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "个人购物消费"
+  ]
+ },
+ "only-in-dubai-couples-family-activity-luxury-clay-": {
+  "title": "仅限迪拜：情侣与家庭活动，豪华陶艺晚餐体验（Clay & Dine）",
+  "metaTitle": "仅限迪拜：情侣与家庭活动，豪华陶艺晚餐体验（Clay & Dine）",
+  "metaDescription": "一次2小时的迪拜体验。世界首个豪华陶艺晚餐体验（Clay & Dine）。由Bedia Pottery LLC提供。",
+  "shortDescription": "一次2小时的迪拜体验。世界首个豪华陶艺晚餐体验（Clay & Dine）。由Bedia Pottery LLC提供。",
+  "fullDescription": "一次2小时的迪拜体验。世界首个豪华陶艺晚餐体验（Clay & Dine）。\n\n由Bedia Pottery LLC负责安排，价格中含12项内容。可免费取消。\n\n价格包含创作前的美味小憩（45分钟）、您的餐桌上将呈现精心准备的美味：、芝士拼盘、季节鲜果拼盘，含各式莓果、法棍面包。不包含，请另行预算。",
+  "highlights": [
+   "世界首个豪华陶艺晚餐体验（Clay & Dine）"
+  ],
+  "included": [
+   "创作前的美味小憩（45分钟）",
+   "您的餐桌上将呈现精心准备的美味：",
+   "芝士拼盘",
+   "季节鲜果拼盘，含各式莓果",
+   "法棍面包"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-sheikh-zayed-mosque-seaworld-entry-w-transfe": {
+  "title": "迪拜：谢赫扎耶德清真寺及海洋世界门票，含接送",
+  "metaTitle": "迪拜：谢赫扎耶德清真寺及海洋世界门票，含接送",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque和SeaWorld Abu Dhabi。由360 Adventures Tourism LLC提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque和SeaWorld Abu Dhabi。由360 Adventures Tourism LLC提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Sheikh Zayed Mosque和SeaWorld Abu Dhabi。最长的一站是SeaWorld Abu Dhabi，约4小时。全程共2站。\n\n行程顺序为Sheikh Zayed Mosque, 然后 SeaWorld Abu Dhabi (4h)。\n\n价格包含参观谢赫扎耶德大清真寺、参观阿布扎比海洋世界、酒店接送。不包含餐食、个人消费、纪念品，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque和SeaWorld Abu Dhabi。由360 Adventures Tourism LLC提供。"
+  ],
+  "included": [
+   "参观谢赫扎耶德大清真寺",
+   "参观阿布扎比海洋世界",
+   "酒店接送"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "纪念品"
+  ]
+ },
+ "dubai-sonara-camp-sunset-and-dinner-shows-and-acti": {
+  "title": "迪拜：Sonara营地日落及晚餐，含表演与活动",
+  "metaTitle": "迪拜：Sonara营地日落及晚餐，含表演与活动",
+  "metaDescription": "一次半天的迪拜体验。在沙漠品尝3道式地中海及中东风味晚餐。由NARA DESERT ESCAPE PICNICS & CAMPING ORGANIZING L.L.C提供。",
+  "shortDescription": "一次半天的迪拜体验。在沙漠品尝3道式地中海及中东风味晚餐。由NARA DESERT ESCAPE PICNICS & CAMPING ORGANIZING L.L.C提供。",
+  "fullDescription": "一次半天的迪拜体验。在沙漠品尝3道式地中海及中东风味晚餐。\n\n由NARA DESERT ESCAPE PICNICS & CAMPING ORGANIZING L.L.C负责安排，价格中含12项内容。可免费取消。\n\n价格包含乘坐空调4x4车接送（仅限特定选项，详见可选项目）、从入口到营地的平缓沙漠车程、由驻店主厨精心准备的季节菜单、日落体验。不包含，请另行预算。",
+  "highlights": [
+   "在沙漠品尝3道式地中海及中东风味晚餐"
+  ],
+  "included": [
+   "乘坐空调4x4车接送（仅限特定选项，详见可选项目）",
+   "从入口到营地的平缓沙漠车程",
+   "由驻店主厨精心准备的季节菜单",
+   "日落体验"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-magic-secret-new-shopping-tour": {
+  "title": "迪拜：神奇秘境全新购物游览",
+  "metaTitle": "迪拜：神奇秘境全新购物游览",
+  "metaDescription": "一次半天的迪拜体验。在购物助理的带领下探索迪拜的隐藏购物地点。由BFT GROUP提供。",
+  "shortDescription": "一次半天的迪拜体验。在购物助理的带领下探索迪拜的隐藏购物地点。由BFT GROUP提供。",
+  "fullDescription": "一次半天的迪拜体验。在购物助理的带领下探索迪拜的隐藏购物地点。\n\n由BFT GROUP负责安排，价格中含7项内容。可免费取消。\n\n价格包含购物协助、5小时购物游览、参观一家商品价格5美元或以下的商店、参观一家商品多样的折扣商店。不包含酒店接送（12人及以上团体含此项）、个人购物消费，请另行预算。",
+  "highlights": [
+   "在购物助理的带领下探索迪拜的隐藏购物地点"
+  ],
+  "included": [
+   "购物协助",
+   "5小时购物游览",
+   "参观一家商品价格5美元或以下的商店",
+   "参观一家商品多样的折扣商店"
+  ],
+  "notIncluded": [
+   "酒店接送（12人及以上团体含此项）",
+   "个人购物消费"
+  ]
+ },
+ "dubai-family-friendly-bike-adventure": {
+  "title": "迪拜：亲子友好自行车冒险",
+  "metaTitle": "迪拜：亲子友好自行车冒险",
+  "metaDescription": "一次半天的迪拜体验。迪拜本地的家庭友好型自行车租赁服务。由Yoyo's Bike提供。",
+  "shortDescription": "一次半天的迪拜体验。迪拜本地的家庭友好型自行车租赁服务。由Yoyo's Bike提供。",
+  "fullDescription": "一次半天的迪拜体验。迪拜本地的家庭友好型自行车租赁服务。\n\n由Yoyo's Bike负责安排，价格中含5项内容。可免费取消。\n\n价格包含自行车租赁、头盔、锁具、迪拜图解地图。不包含餐食及饮品、个人消费、小费，请另行预算。",
+  "highlights": [
+   "迪拜本地的家庭友好型自行车租赁服务"
+  ],
+  "included": [
+   "自行车租赁",
+   "头盔",
+   "锁具",
+   "迪拜图解地图"
+  ],
+  "notIncluded": [
+   "餐食及饮品",
+   "个人消费",
+   "小费"
+  ]
+ },
+ "dubai-jetski-to-burj-arab-atlantis-with-photos-and": {
+  "title": "迪拜：水上摩托艇前往阿拉伯塔及亚特兰蒂斯，含照片及视频",
+  "metaTitle": "迪拜：水上摩托艇前往阿拉伯塔及亚特兰蒂斯，含照片及视频",
+  "metaDescription": "一次从迪拜出发的0.5小时行程，游览Burj Al Arab。由OceanAir Travels提供。",
+  "shortDescription": "一次从迪拜出发的0.5小时行程，游览Burj Al Arab。由OceanAir Travels提供。",
+  "fullDescription": "一次从迪拜出发的0.5小时行程，途经Burj Al Arab。\n\n价格包含雅马哈VX-C及VX-R水上摩托艇租赁，时速可达77公里（30分钟或1小时，按所选选项）、安全装备、现场免费提供储物柜、免费提供游览期间的照片及视频、持证安全及摄影教练。不包含，请另行预算。两位旅客共同支付64美元，而不是每人各付39美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的0.5小时行程，游览Burj Al Arab。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "雅马哈VX-C及VX-R水上摩托艇租赁，时速可达77公里（30分钟或1小时，按所选选项）",
+   "安全装备",
+   "现场免费提供储物柜",
+   "免费提供游览期间的照片及视频",
+   "持证安全及摄影教练"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-helicopter-ride-desert-safari-camels-refresh": {
+  "title": "迪拜：直升机游览、沙漠之旅、骆驼骑行及茶点",
+  "metaTitle": "迪拜：直升机游览、沙漠之旅、骆驼骑行及茶点",
+  "metaDescription": "一次半天的迪拜体验。12分钟直升机飞行，俯瞰迪拜地标。由OceanAir Travels提供。",
+  "shortDescription": "一次半天的迪拜体验。12分钟直升机飞行，俯瞰迪拜地标。由OceanAir Travels提供。",
+  "fullDescription": "一次半天的迪拜体验。12分钟直升机飞行，俯瞰迪拜地标。\n\n由OceanAir Travels负责安排，价格中含10项内容。可免费取消。\n\n价格包含乘坐空调4x4车出行、12分钟直升机飞行票、沙漠冲沙体验、骆驼骑行（可按需求重复体验）、滑沙。不包含小费（非强制）、送返酒店，请另行预算。",
+  "highlights": [
+   "12分钟直升机飞行，俯瞰迪拜地标"
+  ],
+  "included": [
+   "乘坐空调4x4车出行",
+   "12分钟直升机飞行票",
+   "沙漠冲沙体验",
+   "骆驼骑行（可按需求重复体验）",
+   "滑沙"
+  ],
+  "notIncluded": [
+   "小费（非强制）",
+   "送返酒店"
+  ]
+ },
+ "dubai-luxury-yacht-tour-with-wonder-bus-tour-on": {
+  "title": "迪拜：豪华游艇游览及奇妙巴士陆海游览",
+  "metaTitle": "迪拜：豪华游艇游览及奇妙巴士陆海游览",
+  "metaDescription": "一次2小时的迪拜体验。乘坐豪华游艇沿迪拜壮丽海岸线航行。由Wonder Bus Tours LLC提供。",
+  "shortDescription": "一次2小时的迪拜体验。乘坐豪华游艇沿迪拜壮丽海岸线航行。由Wonder Bus Tours LLC提供。",
+  "fullDescription": "一次2小时的迪拜体验。乘坐豪华游艇沿迪拜壮丽海岸线航行。\n\n由Wonder Bus Tours LLC负责安排，价格中含12项内容。可免费取消。\n\n价格包含豪华游艇游览、奇妙巴士（Wonder Bus）水陆两用冒险、现场讲解及娱乐表演、美味茶点（取决于所选套餐）。不包含酒店往返接送、个人消费，请另行预算。",
+  "highlights": [
+   "乘坐豪华游艇沿迪拜壮丽海岸线航行"
+  ],
+  "included": [
+   "豪华游艇游览",
+   "奇妙巴士（Wonder Bus）水陆两用冒险",
+   "现场讲解及娱乐表演",
+   "美味茶点（取决于所选套餐）"
+  ],
+  "notIncluded": [
+   "酒店往返接送",
+   "个人消费"
+  ]
+ },
+ "from-dubai-private-hatta-mountain-tour-w-heritage-": {
+  "title": "迪拜出发：哈塔山私人游览，含传统村落",
+  "metaTitle": "迪拜出发：哈塔山私人游览，含传统村落",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Heritage Village, Hatta, Hatta和Hatta Wadi Hub by Meraas。由Dua Al Sahra提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Heritage Village, Hatta, Hatta和Hatta Wadi Hub by Meraas。由Dua Al Sahra提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Heritage Village, Hatta, Hatta和Hatta Wadi Hub by Meraas。全程共3站。\n\n行程顺序为Heritage Village, Hatta (30 min), 然后 Hatta (45 min), 然后 Hatta Wadi Hub by Meraas (45 min)。\n\n价格包含英语司机向导、往返接送。不包含餐食及饮品、任何个人消费、小费，请另行预算。两位旅客共同支付346美元，而不是每人各付346美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Heritage Village, Hatta, Hatta和Hatta Wadi Hub by Meraas。由Dua Al Sahra提供。"
+  ],
+  "included": [
+   "英语司机向导",
+   "往返接送"
+  ],
+  "notIncluded": [
+   "餐食及饮品",
+   "任何个人消费",
+   "小费"
+  ]
+ },
+ "dubai-old-town-walking-tour-wonder-bus-gold-spice": {
+  "title": "迪拜：老城区徒步游览、奇妙巴士、黄金及香料市场",
+  "metaTitle": "迪拜：老城区徒步游览、奇妙巴士、黄金及香料市场",
+  "metaDescription": "一次3小时的迪拜体验。在徒步游览中沉浸于迪拜老城区充满活力的历史遗产。由Wonder Bus Tours LLC提供。",
+  "shortDescription": "一次3小时的迪拜体验。在徒步游览中沉浸于迪拜老城区充满活力的历史遗产。由Wonder Bus Tours LLC提供。",
+  "fullDescription": "一次3小时的迪拜体验。在徒步游览中沉浸于迪拜老城区充满活力的历史遗产。\n\n由Wonder Bus Tours LLC负责安排，价格中含10项内容。可免费取消。\n\n价格包含水陆两用奇妙巴士（Wonder Bus）陆海冒险之旅、老迪拜城区徒步游览、当地向导、参观迪拜黄金市场。不包含，请另行预算。",
+  "highlights": [
+   "在徒步游览中沉浸于迪拜老城区充满活力的历史遗产"
+  ],
+  "included": [
+   "水陆两用奇妙巴士（Wonder Bus）陆海冒险之旅",
+   "老迪拜城区徒步游览",
+   "当地向导",
+   "参观迪拜黄金市场"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "abu-dhabi-desert-safari-quad-bike-camels-sandboard": {
   "title": "阿布扎比：沙漠越野、四驱摩托车、骑骆驼与滑沙",
   "metaTitle": "阿布扎比：沙漠越野、四驱摩托车、骑骆驼与滑沙",
   "metaDescription": "一次从阿布扎比出发的半天行程，游览Jeep / SUV, Al Khatim Desert和Al Khatim Desert。由OceanAir Travels提供。",
   "shortDescription": "一次从阿布扎比出发的半天行程，游览Jeep / SUV, Al Khatim Desert和Al Khatim Desert。由OceanAir Travels提供。",
-  "fullDescription": "一次从阿布扎比出发的半天行程，途经Jeep / SUV, Al Khatim Desert和Al Khatim Desert。最长的一站是Jeep / SUV，约1小时。全程共3站。\n\n行程顺序为Jeep / SUV (1h), 然后 Al Khatim Desert, 然后 Al Khatim Desert。\n\n价格包含住所接送、空调四驱车接送、英语持证专业司机、接送车内冰矿泉水。不包含，请另行预算。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Jeep / SUV, Al Khatim Desert和Al Khatim Desert。最长的一站是Jeep / SUV，约1小时。全程共3站。\n\n行程顺序为Jeep / SUV (1h), 然后 Al Khatim Desert, 然后 Al Khatim Desert。\n\n价格包含住所接送、空调4x4车接送、英语持证专业司机、接送车内冰矿泉水。不包含，请另行预算。",
   "highlights": [
    "一次从阿布扎比出发的半天行程，游览Jeep / SUV, Al Khatim Desert和Al Khatim Desert。由OceanAir Travels提供。"
   ],
   "included": [
    "住所接送",
-   "空调四驱车接送",
+   "空调4x4车接送",
    "英语持证专业司机",
    "接送车内冰矿泉水"
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "dubai-elite-tour-with-sky-pool-shopping-and-hotel": {
+  "title": "迪拜：精英游览，含天空泳池、购物及酒店接送",
+  "metaTitle": "迪拜：精英游览，含天空泳池、购物及酒店接送",
+  "metaDescription": "一次全天的迪拜体验。享受从酒店到天空泳池的私人接送，尽享VIP礼遇。由BFT GROUP提供。",
+  "shortDescription": "一次全天的迪拜体验。享受从酒店到天空泳池的私人接送，尽享VIP礼遇。由BFT GROUP提供。",
+  "fullDescription": "一次全天的迪拜体验。享受从酒店到天空泳池的私人接送，尽享VIP礼遇。\n\n由BFT GROUP负责安排，价格中含6项内容。可免费取消。\n\n价格包含酒店接送（迪拜）、交通服务、可使用天空泳池、购物协助服务。不包含个人消费，请另行预算。",
+  "highlights": [
+   "享受从酒店到天空泳池的私人接送，尽享VIP礼遇"
+  ],
+  "included": [
+   "酒店接送（迪拜）",
+   "交通服务",
+   "可使用天空泳池",
+   "购物协助服务"
+  ],
+  "notIncluded": [
+   "个人消费"
+  ]
+ },
+ "dubai-desert-safari-premium-bbq-dinner-quad-bike-o": {
+  "title": "迪拜沙漠之旅：高级烧烤晚餐及沙滩摩托车可选",
+  "metaTitle": "迪拜沙漠之旅：高级烧烤晚餐及沙滩摩托车可选",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。由Dream Journey提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。由Dream Journey提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。最长的一站是Lahbab Desert，约2小时。全程共9站。\n\n行程顺序为Jeep / SUV (50 min), 然后 Dubai, 然后 Lahbab Desert (30 min), 然后 Lahbab Desert (45 min), 然后 Lahbab Desert (30 min)。\n\n价格包含乘坐4x4车的酒店接送、45分钟冲沙体验、红色沙丘滑沙、短程骆驼骑行（约2至3分钟）。不包含小费、含酒精饮品、水烟（需额外付费），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Jeep / SUV, Dubai, Lahbab Desert和Lahbab Desert。由Dream Journey提供。"
+  ],
+  "included": [
+   "乘坐4x4车的酒店接送",
+   "45分钟冲沙体验",
+   "红色沙丘滑沙",
+   "短程骆驼骑行（约2至3分钟）"
+  ],
+  "notIncluded": [
+   "小费",
+   "含酒精饮品",
+   "水烟（需额外付费）"
+  ]
+ },
+ "private-dubai-old-town-tourstreet-foodboat-museums": {
+  "title": "迪拜老城区私人游览：街头美食、乘船及博物馆",
+  "metaTitle": "迪拜老城区私人游览：街头美食、乘船及博物馆",
+  "metaDescription": "一次从迪拜出发的3小时行程，游览Al Bastakiya, Al Fahidi Fort, Al Souq Al Kabeer和Dubai Creek。由Adventure Tours FZE提供。",
+  "shortDescription": "一次从迪拜出发的3小时行程，游览Al Bastakiya, Al Fahidi Fort, Al Souq Al Kabeer和Dubai Creek。由Adventure Tours FZE提供。",
+  "fullDescription": "一次从迪拜出发的3小时行程，途经Al Bastakiya, Al Fahidi Fort, Al Souq Al Kabeer和Dubai Creek。最长的一站是Al Bastakiya，约1小时。全程共8站。\n\n行程顺序为Al Bastakiya (1h), 然后 Al Fahidi Fort (10 min), 然后 Al Souq Al Kabeer (25 min), 然后 Dubai Creek (10 min), 然后 Secret stop (10 min)。\n\n价格包含参观法希迪堡、参观历史遗迹、阿尔西夫区域、迪拜河。不包含不含交易，请另行预算。两位旅客共同支付392美元，而不是每人各付392美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的3小时行程，游览Al Bastakiya, Al Fahidi Fort, Al Souq Al Kabeer和Dubai Creek。由Adventure Tours FZE提供。"
+  ],
+  "included": [
+   "参观法希迪堡",
+   "参观历史遗迹",
+   "阿尔西夫区域",
+   "迪拜河"
+  ],
+  "notIncluded": [
+   "不含交易"
   ]
  },
  "dubai-private-car-and-driver-for-10-hours-city": {
@@ -23839,6 +29882,168 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "导游",
    "餐食"
+  ]
+ },
+ "dubai-luxury-buffet-at-gastronomy-atlantis-the-roy": {
+  "title": "迪拜：亚特兰蒂斯皇家酒店Gastronomy豪华自助餐",
+  "metaTitle": "迪拜：亚特兰蒂斯皇家酒店Gastronomy豪华自助餐",
+  "metaDescription": "一次2小时的迪拜体验。在17个现场烹饪档位及4个酒吧间探索各式美食。由Atlantis The Palm LTD提供。",
+  "shortDescription": "一次2小时的迪拜体验。在17个现场烹饪档位及4个酒吧间探索各式美食。由Atlantis The Palm LTD提供。",
+  "fullDescription": "一次2小时的迪拜体验。在17个现场烹饪档位及4个酒吧间探索各式美食。\n\n由Atlantis The Palm LTD负责安排，价格中含3项内容。可免费取消。\n\n价格包含自助晚餐、优质饮用水、棕榈岛皇家亚特兰蒂斯酒店代客泊车。不包含交通接送、额外饮品，请另行预算。",
+  "highlights": [
+   "在17个现场烹饪档位及4个酒吧间探索各式美食"
+  ],
+  "included": [
+   "自助晚餐",
+   "优质饮用水",
+   "棕榈岛皇家亚特兰蒂斯酒店代客泊车"
+  ],
+  "notIncluded": [
+   "交通接送",
+   "额外饮品"
+  ]
+ },
+ "dubai-hot-air-balloon-with-vintage-land-rover-brea": {
+  "title": "迪拜：热气球飞行，含复古路虎车及早餐",
+  "metaTitle": "迪拜：热气球飞行，含复古路虎车及早餐",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai和Dubai。由Balloon Flights提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai和Dubai。由Balloon Flights提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Dubai和Dubai。最长的一站是Jeep / SUV，约1小时。全程共3站。\n\n行程顺序为Jeep / SUV (1h), 然后 Dubai (30 min), 然后 Dubai。\n\n价格包含4x4车私人接送、马吉利斯（Majlis）内无限畅享茶点、最长60分钟的热气球飞行、热气球营地国际自助早餐。不包含照片及视频、小费、个人消费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV, Dubai和Dubai。由Balloon Flights提供。"
+  ],
+  "included": [
+   "4x4车私人接送",
+   "马吉利斯（Majlis）内无限畅享茶点",
+   "最长60分钟的热气球飞行",
+   "热气球营地国际自助早餐"
+  ],
+  "notIncluded": [
+   "照片及视频",
+   "小费",
+   "个人消费"
+  ]
+ },
+ "from-dubai-abu-dhabi-city-tour-grand-mosque-yas": {
+  "title": "迪拜出发：阿布扎比城市游览，含大清真寺及亚斯码头",
+  "metaTitle": "迪拜出发：阿布扎比城市游览，含大清真寺及亚斯码头",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Capital Gate, Al Bateen, Abu Dhabi和Emirates Palace。由Travtur Tourism L.L.C提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Capital Gate, Al Bateen, Abu Dhabi和Emirates Palace。由Travtur Tourism L.L.C提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Sheikh Zayed Mosque, Capital Gate, Al Bateen, Abu Dhabi和Emirates Palace。最长的一站是Sheikh Zayed Mosque，约1小时。全程共8站。\n\n行程顺序为Sheikh Zayed Mosque (1h), 然后 Capital Gate (5 min), 然后 Al Bateen, Abu Dhabi (10 min), 然后 Emirates Palace (15 min), 然后 Etihad Towers (10 min)。\n\n价格包含迪拜酒店接送、空调车辆接送、半私人游览（每车最多6人）、专业持证导游。不包含个人消费、小费（可选）、法拉利世界门票，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Capital Gate, Al Bateen, Abu Dhabi和Emirates Palace。由Travtur Tourism L.L.C提供。"
+  ],
+  "included": [
+   "迪拜酒店接送",
+   "空调车辆接送",
+   "半私人游览（每车最多6人）",
+   "专业持证导游"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费（可选）",
+   "法拉利世界门票"
+  ]
+ },
+ "burj-khalifa-private-videography-shoot": {
+  "title": "哈利法塔私人跟拍",
+  "metaTitle": "哈利法塔私人跟拍",
+  "metaDescription": "一次从迪拜出发的1小时行程，游览Burj Khalifa, Downtown Dubai和Dubai Opera。由TicToc Travel提供。",
+  "shortDescription": "一次从迪拜出发的1小时行程，游览Burj Khalifa, Downtown Dubai和Dubai Opera。由TicToc Travel提供。",
+  "fullDescription": "一次从迪拜出发的1小时行程，途经Burj Khalifa, Downtown Dubai和Dubai Opera。全程共3站。\n\n行程顺序为Burj Khalifa (10 min), 然后 Downtown Dubai (20 min), 然后 Dubai Opera (10 min)。\n\n价格包含1小时私人跟拍游览，配专业旅拍摄像师、1条精修视频，20至25秒，Reels风格、1至2条精修视频，每条7至10秒，Instagram故事风格、10至12张精修照片，Instagram人气风格、瓶装水。不包含小费、往返活动地点的交通，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1小时行程，游览Burj Khalifa, Downtown Dubai和Dubai Opera。由TicToc Travel提供。"
+  ],
+  "included": [
+   "1小时私人跟拍游览，配专业旅拍摄像师",
+   "1条精修视频，20至25秒，Reels风格",
+   "1至2条精修视频，每条7至10秒，Instagram故事风格",
+   "10至12张精修照片，Instagram人气风格",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "小费",
+   "往返活动地点的交通"
+  ]
+ },
+ "from-dubai-fujairah-sea-turtles-snorkeling-tour-wi": {
+  "title": "迪拜出发：富查伊拉海龟浮潜之旅，含午餐",
+  "metaTitle": "迪拜出发：富查伊拉海龟浮潜之旅，含午餐",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Fujairah。由Octopus oman提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Fujairah。由Octopus oman提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Fujairah。\n\n由Octopus oman负责安排，价格中含7项内容。可免费取消。欣赏高耸的哈杰尔山脉及富查伊拉风景如画的海岸风光。\n\n价格包含往返酒店接送、小吃、软饮料、三明治。不包含goPro租赁（10里亚尔）、毛巾、防晒霜，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Fujairah。由Octopus oman提供。"
+  ],
+  "included": [
+   "往返酒店接送",
+   "小吃",
+   "软饮料",
+   "三明治"
+  ],
+  "notIncluded": [
+   "GoPro租赁（10里亚尔）",
+   "毛巾",
+   "防晒霜"
+  ]
+ },
+ "evening-desert-tour-with-sandboard-bbq-dinner-live": {
+  "title": "夜间沙漠游览，含滑沙板、烧烤晚餐及现场表演",
+  "metaTitle": "夜间沙漠游览，含滑沙板、烧烤晚餐及现场表演",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览Jeep / SUV和Al Khatim Desert。由Visitors Destination Tours & Safari提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览Jeep / SUV和Al Khatim Desert。由Visitors Destination Tours & Safari提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Jeep / SUV和Al Khatim Desert。最长的一站是Al Khatim Desert，约2小时。全程共2站。\n\n行程顺序为Jeep / SUV (1h), 然后 Al Khatim Desert (2h)。\n\n价格包含乘坐空调车辆的酒店接送、持证专业英语司机、沙漠飙沙、滑沙活动。不包含个人消费及纪念品、小费（可选），请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览Jeep / SUV和Al Khatim Desert。由Visitors Destination Tours & Safari提供。"
+  ],
+  "included": [
+   "乘坐空调车辆的酒店接送",
+   "持证专业英语司机",
+   "沙漠飙沙",
+   "滑沙活动"
+  ],
+  "notIncluded": [
+   "个人消费及纪念品",
+   "小费（可选）"
+  ]
+ },
+ "dubai-desert-safari-quad-biking-camel-ride-sandboa": {
+  "title": "迪拜沙漠之旅，含沙滩摩托车、骆驼骑行及滑沙",
+  "metaTitle": "迪拜沙漠之旅，含沙滩摩托车、骆驼骑行及滑沙",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Lahbab Desert。由Odyssey DMC提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Lahbab Desert。由Odyssey DMC提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Lahbab Desert。最长的一站是Lahbab Desert，约5小时。\n\n价格包含沙丘驾驶体验（20至30分钟）、骑骆驼、滑沙、海娜彩绘。不包含小费、肚皮舞及坦努拉舞（伊斯兰节日期间），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Lahbab Desert。由Odyssey DMC提供。"
+  ],
+  "included": [
+   "沙丘驾驶体验（20至30分钟）",
+   "骑骆驼",
+   "滑沙",
+   "海娜彩绘"
+  ],
+  "notIncluded": [
+   "小费",
+   "肚皮舞及坦努拉舞（伊斯兰节日期间）"
+  ]
+ },
+ "dubai-marina-dinner-cruise-with-tanoura-dance-show": {
+  "title": "迪拜：码头晚餐巡游，含坦努拉舞表演",
+  "metaTitle": "迪拜：码头晚餐巡游，含坦努拉舞表演",
+  "metaDescription": "一次从迪拜出发的2小时行程，游览Dubai Marina。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "shortDescription": "一次从迪拜出发的2小时行程，游览Dubai Marina。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "fullDescription": "一次从迪拜出发的2小时行程，途经Dubai Marina。最长的一站是Dubai Marina，约2小时。\n\n价格包含2小时蓝水码头巡游、坦努拉舞、木偶表演、背景音乐。不包含酒店往返接送，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的2小时行程，游览Dubai Marina。由ARABIAN DESTINATION TOURISM L.L.C提供。"
+  ],
+  "included": [
+   "2小时蓝水码头巡游",
+   "坦努拉舞",
+   "木偶表演",
+   "背景音乐"
+  ],
+  "notIncluded": [
+   "酒店往返接送"
   ]
  },
  "dubai-2-hour-private-yacht-cruise-around-burj-al": {
@@ -23900,6 +30105,46 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "dubai-private-miracle-garden-global-village-trip": {
+  "title": "迪拜：奇迹花园及环球村私人之旅",
+  "metaTitle": "迪拜：奇迹花园及环球村私人之旅",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Miracle Garden和Global Village。由Yalla Walk tourism提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Miracle Garden和Global Village。由Yalla Walk tourism提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Miracle Garden和Global Village。全程共2站。\n\n行程顺序为Miracle Garden, 然后 Global Village。\n\n价格包含酒店往返接送、私人交通、司机、奇迹花园门票。不包含其他食品及饮品，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Miracle Garden和Global Village。由Yalla Walk tourism提供。"
+  ],
+  "included": [
+   "酒店往返接送",
+   "私人交通",
+   "司机",
+   "奇迹花园门票"
+  ],
+  "notIncluded": [
+   "其他食品及饮品"
+  ]
+ },
+ "dubai-marina-dinner-cruise-with-live-entertainment": {
+  "title": "迪拜码头晚餐巡游，含现场表演（阿尔瓦斯勒）",
+  "metaTitle": "迪拜码头晚餐巡游，含现场表演（阿尔瓦斯勒）",
+  "metaDescription": "一次从迪拜出发的2小时行程，游览Dubai Marina和Dubai Marina。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "shortDescription": "一次从迪拜出发的2小时行程，游览Dubai Marina和Dubai Marina。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "fullDescription": "一次从迪拜出发的2小时行程，途经Dubai Marina和Dubai Marina。最长的一站是Dubai Marina，约2小时。全程共2站。\n\n行程顺序为Dubai Marina (2h), 然后 Dubai Marina (10 min)。\n\n价格包含2小时巡游、欢迎饮品、无限畅饮水及软饮、欧陆、亚洲及阿拉伯自助晚餐（含素食及非素食选择）、上层甲板配露天座位、下层甲板配空调座位。不包含酒店往返接送，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的2小时行程，游览Dubai Marina和Dubai Marina。由ARABIAN DESTINATION TOURISM L.L.C提供。"
+  ],
+  "included": [
+   "2小时巡游",
+   "欢迎饮品",
+   "无限畅饮水及软饮",
+   "欧陆、亚洲及阿拉伯自助晚餐（含素食及非素食选择）",
+   "上层甲板配露天座位",
+   "下层甲板配空调座位"
+  ],
+  "notIncluded": [
+   "酒店往返接送"
+  ]
+ },
  "dubai-marina-the-black-boats-100-min-private-tour": {
   "title": "迪拜码头：黑色游艇100分钟私人之旅",
   "metaTitle": "迪拜码头：黑色游艇100分钟私人之旅",
@@ -23918,6 +30163,206 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐饮",
    "往返出发点的交通"
+  ]
+ },
+ "professional-photoshoot-at-sheikh-zayed-mosque": {
+  "title": "谢赫扎耶德清真寺专业拍摄",
+  "metaTitle": "谢赫扎耶德清真寺专业拍摄",
+  "metaDescription": "一次0.5小时的阿布扎比体验。20、50或75张精修照片，48小时内通过私人在线相册交付。由Picster提供。",
+  "shortDescription": "一次0.5小时的阿布扎比体验。20、50或75张精修照片，48小时内通过私人在线相册交付。由Picster提供。",
+  "fullDescription": "一次0.5小时的阿布扎比体验。20、50或75张精修照片，48小时内通过私人在线相册交付。\n\n由Picster负责安排，价格中含5项内容。可免费取消。\n\n价格包含20、50或75张高质量体验照片、可访问安全的个性化在线相册、48小时内交付照片、当地专家、清真寺门票。不包含，请另行预算。两位旅客共同支付151美元，而不是每人各付151美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "20、50或75张精修照片，48小时内通过私人在线相册交付"
+  ],
+  "included": [
+   "20、50或75张高质量体验照片",
+   "可访问安全的个性化在线相册",
+   "48小时内交付照片",
+   "当地专家",
+   "清真寺门票"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-half-day-city-sightseeing-souks-abra-experie": {
+  "title": "迪拜：半日城市观光游览，含市集及阿布拉渡船体验",
+  "metaTitle": "迪拜：半日城市观光游览，含市集及阿布拉渡船体验",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Burj Al Arab, Atlantis, The Palm, Atlantis The Royal和The Palm Jumeirah。由OceanAir Travels提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Burj Al Arab, Atlantis, The Palm, Atlantis The Royal和The Palm Jumeirah。由OceanAir Travels提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Burj Al Arab, Atlantis, The Palm, Atlantis The Royal和The Palm Jumeirah。全程共13站。\n\n行程顺序为Burj Al Arab (15 min), 然后 Atlantis, The Palm, 然后 Atlantis The Royal, 然后 The Palm Jumeirah (10 min), 然后 Dubai Marina Walk (15 min)。\n\n价格包含酒店往返接送、乘坐空调车辆出行、持证专业向导、迪拜码头参观，含风景漫步。不包含小费（可选），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Burj Al Arab, Atlantis, The Palm, Atlantis The Royal和The Palm Jumeirah。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "酒店往返接送",
+   "乘坐空调车辆出行",
+   "持证专业向导",
+   "迪拜码头参观，含风景漫步"
+  ],
+  "notIncluded": [
+   "小费（可选）"
+  ]
+ },
+ "dubai-city-tour-with-professional-guide-in-luxury-": {
+  "title": "迪拜：城市游览，配专业向导及豪华座驾",
+  "metaTitle": "迪拜：城市游览，配专业向导及豪华座驾",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Dubai Spice Souk, Dubai Gold Souk, Dubai Creek和Al Seef。由Trip Habibi Travel and Tourism LLC提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Dubai Spice Souk, Dubai Gold Souk, Dubai Creek和Al Seef。由Trip Habibi Travel and Tourism LLC提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Dubai Spice Souk, Dubai Gold Souk, Dubai Creek和Al Seef。全程共11站。\n\n行程顺序为Dubai Spice Souk, 然后 Dubai Gold Souk, 然后 Dubai Creek, 然后 Al Seef, 然后 Dubai Frame。\n\n价格包含从您的住所出发的接送、参观香料市场、参观黄金市场、参观迪拜河。不包含机场停车费、哈利法塔及迪拜博物馆门票、小费，请另行预算。两位旅客共同支付276美元，而不是每人各付254美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Dubai Spice Souk, Dubai Gold Souk, Dubai Creek和Al Seef。由Trip Habibi Travel and Tourism LLC提供。"
+  ],
+  "included": [
+   "从您的住所出发的接送",
+   "参观香料市场",
+   "参观黄金市场",
+   "参观迪拜河"
+  ],
+  "notIncluded": [
+   "机场停车费",
+   "哈利法塔及迪拜博物馆门票",
+   "小费"
+  ]
+ },
+ "from-abu-dhabi-scuba-dive-and-snorkeling-with-tran": {
+  "title": "阿布扎比出发：水肺潜水及浮潜，含接送",
+  "metaTitle": "阿布扎比出发：水肺潜水及浮潜，含接送",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah和Khorfakkan Amphitheatre。由Reef Oasis Diving Center提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah和Khorfakkan Amphitheatre。由Reef Oasis Diving Center提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah和Khorfakkan Amphitheatre。最长的一站是Reef Oasis Dive Club, Fujairah，约1小时。全程共5站。\n\n行程顺序为Snoopy Island, 然后 Sharm Rocks, 然后 Reef Oasis Dive Club, Fujairah (1h), 然后 Khorfakkan Amphitheatre (15 min), 然后 Khorfakkan Waterfalls (15 min)。\n\n价格包含阿布扎比接送、水肺潜水装备、浮潜装备、水下照片。不包含毛巾、防晒霜、泳衣，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah和Khorfakkan Amphitheatre。由Reef Oasis Diving Center提供。"
+  ],
+  "included": [
+   "阿布扎比接送",
+   "水肺潜水装备",
+   "浮潜装备",
+   "水下照片"
+  ],
+  "notIncluded": [
+   "毛巾",
+   "防晒霜",
+   "泳衣"
+  ]
+ },
+ "dubai-private-dune-buggy-camel-ride-and-sand-board": {
+  "title": "迪拜：私人沙漠越野车、骆驼骑行及滑沙！",
+  "metaTitle": "迪拜：私人沙漠越野车、骆驼骑行及滑沙！",
+  "metaDescription": "一次1.5小时的迪拜体验。自驾1000cc Polaris运动型越野车。由Kings and Queens Luxury Yachts提供。",
+  "shortDescription": "一次1.5小时的迪拜体验。自驾1000cc Polaris运动型越野车。由Kings and Queens Luxury Yachts提供。",
+  "fullDescription": "一次1.5小时的迪拜体验。自驾1000cc Polaris运动型越野车。\n\n由Kings and Queens Luxury Yachts负责安排，价格中含10项内容。可免费取消。\n\n价格包含1小时私人越野车骑行、滑沙、骆驼骑行、户外休息区，可全览沙漠景色。不包含与猎鹰合影、食品（可购买）、交通接送，请另行预算。两位旅客共同支付323美元，而不是每人各付323美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "自驾1000cc Polaris运动型越野车"
+  ],
+  "included": [
+   "1小时私人越野车骑行",
+   "滑沙",
+   "骆驼骑行",
+   "户外休息区，可全览沙漠景色"
+  ],
+  "notIncluded": [
+   "与猎鹰合影",
+   "食品（可购买）",
+   "交通接送"
+  ]
+ },
+ "dubai-half-day-city-tour-in-multilingual-guide": {
+  "title": "迪拜半日城市游览，配多语言向导",
+  "metaTitle": "迪拜半日城市游览，配多语言向导",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jumeirah Beach, Jumeirah Mosque, Bur Dubai Abra Dock和River boat。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jumeirah Beach, Jumeirah Mosque, Bur Dubai Abra Dock和River boat。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jumeirah Beach, Jumeirah Mosque, Bur Dubai Abra Dock和River boat。全程共7站。\n\n行程顺序为Jumeirah Beach, 然后 Jumeirah Mosque, 然后 Bur Dubai Abra Dock, 然后 River boat (10 min), 然后 Dubai Spice Souk。\n\n价格包含专业向导、交通接送、语音讲解器、阿布拉渡船摆渡。不包含食品和饮品、个人消费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jumeirah Beach, Jumeirah Mosque, Bur Dubai Abra Dock和River boat。由ARABIAN DESTINATION TOURISM L.L.C提供。"
+  ],
+  "included": [
+   "专业向导",
+   "交通接送",
+   "语音讲解器",
+   "阿布拉渡船摆渡"
+  ],
+  "notIncluded": [
+   "食品和饮品",
+   "个人消费"
+  ]
+ },
+ "dubai-marina-premium-dinner-cruise-with-unlimited-": {
+  "title": "迪拜：码头高级晚餐巡游，无限畅饮",
+  "metaTitle": "迪拜：码头高级晚餐巡游，无限畅饮",
+  "metaDescription": "一次1.5小时的迪拜体验。从预订到返程，全程享受优质服务。由Tours&Activities提供。",
+  "shortDescription": "一次1.5小时的迪拜体验。从预订到返程，全程享受优质服务。由Tours&Activities提供。",
+  "fullDescription": "一次1.5小时的迪拜体验。从预订到返程，全程享受优质服务。\n\n由Tours&Activities负责安排，价格中含4项内容。可免费取消。\n\n价格包含酒店往返接送（如选择此选项）、船上现场烹制的美味国际自助晚餐，选用新鲜食材、无限畅饮软饮（果汁、水、茶及咖啡）、现场表演、音乐及娱乐活动。不包含酒精饮品（可在船上购买），请另行预算。",
+  "highlights": [
+   "从预订到返程，全程享受优质服务"
+  ],
+  "included": [
+   "酒店往返接送（如选择此选项）",
+   "船上现场烹制的美味国际自助晚餐，选用新鲜食材",
+   "无限畅饮软饮（果汁、水、茶及咖啡）",
+   "现场表演、音乐及娱乐活动"
+  ],
+  "notIncluded": [
+   "酒精饮品（可在船上购买）"
+  ]
+ },
+ "magical-dubai-8-hour-tour-with-burj-khalifa-experi": {
+  "title": "梦幻迪拜8小时游览，含哈利法塔体验",
+  "metaTitle": "梦幻迪拜8小时游览，含哈利法塔体验",
+  "metaDescription": "一次全天的迪拜体验。在法希迪历史街区及香料市场和黄金市场感受迪拜历史。由ARABIAN EXPLORE TOURS AND TRAVELS LLC提供。",
+  "shortDescription": "一次全天的迪拜体验。在法希迪历史街区及香料市场和黄金市场感受迪拜历史。由ARABIAN EXPLORE TOURS AND TRAVELS LLC提供。",
+  "fullDescription": "一次全天的迪拜体验。在法希迪历史街区及香料市场和黄金市场感受迪拜历史。\n\n由ARABIAN EXPLORE TOURS AND TRAVELS LLC负责安排，价格中含7项内容。可免费取消。\n\n价格包含酒店往返接送、乘坐空调车辆出行、本地导游、阿布拉水上出租船票。不包含餐食及额外饮品、额外门票，请另行预算。",
+  "highlights": [
+   "在法希迪历史街区及香料市场和黄金市场感受迪拜历史"
+  ],
+  "included": [
+   "酒店往返接送",
+   "乘坐空调车辆出行",
+   "本地导游",
+   "阿布拉水上出租船票"
+  ],
+  "notIncluded": [
+   "餐食及额外饮品",
+   "额外门票"
+  ]
+ },
+ "dubai-40ft-boat-rental-cruise-by-the-sea": {
+  "title": "迪拜：40英尺游船租赁海上巡游",
+  "metaTitle": "迪拜：40英尺游船租赁海上巡游",
+  "metaDescription": "一次从迪拜出发的1小时行程，游览Jumeirah Beach Residence, Dubai Eye和Burj Al Arab。由Supernova Yacht提供。",
+  "shortDescription": "一次从迪拜出发的1小时行程，游览Jumeirah Beach Residence, Dubai Eye和Burj Al Arab。由Supernova Yacht提供。",
+  "fullDescription": "一次从迪拜出发的1小时行程，途经Jumeirah Beach Residence, Dubai Eye和Burj Al Arab。全程共3站。\n\n行程顺序为Jumeirah Beach Residence, 然后 Dubai Eye, 然后 Burj Al Arab。\n\n价格包含游览地点将根据所选时长确定，具体选项请在登船时与船长商议、注意：仅限日落前游泳、免费包含项目：、水、果汁、冰块、餐具及冰盒。不包含钓鱼选项（含渔具及鱼饵）、水上摩托艇、船上现场烧烤，生日蛋糕及气球装饰，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1小时行程，游览Jumeirah Beach Residence, Dubai Eye和Burj Al Arab。由Supernova Yacht提供。"
+  ],
+  "included": [
+   "游览地点将根据所选时长确定，具体选项请在登船时与船长商议",
+   "注意：仅限日落前游泳",
+   "免费包含项目：",
+   "水、果汁、冰块、餐具及冰盒"
+  ],
+  "notIncluded": [
+   "钓鱼选项（含渔具及鱼饵）、水上摩托艇、船上现场烧烤，生日蛋糕及气球装饰"
+  ]
+ },
+ "burj-al-arab-view-thrilling-30-minute-jet-ski": {
+  "title": "阿拉伯塔景观：刺激的迪拜30分钟水上摩托艇游览",
+  "metaTitle": "阿拉伯塔景观：刺激的迪拜30分钟水上摩托艇游览",
+  "metaDescription": "一次从迪拜出发的0.5小时行程，游览Umm Suqeim和Burj Al Arab。由Friend Aqua waterSports提供。",
+  "shortDescription": "一次从迪拜出发的0.5小时行程，游览Umm Suqeim和Burj Al Arab。由Friend Aqua waterSports提供。",
+  "fullDescription": "一次从迪拜出发的0.5小时行程，途经Umm Suqeim和Burj Al Arab。全程共2站。\n\n行程顺序为Umm Suqeim, 然后 Burj Al Arab。\n\n价格包含生命安全装备、贵重物品储物柜、淋浴及更衣室、饮用水。不包含浴巾、接送服务，请另行预算。两位旅客共同支付167美元，而不是每人各付167美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的0.5小时行程，游览Umm Suqeim和Burj Al Arab。由Friend Aqua waterSports提供。"
+  ],
+  "included": [
+   "生命安全装备",
+   "贵重物品储物柜",
+   "淋浴及更衣室",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "浴巾",
+   "接送服务"
   ]
  },
  "wakeboard-ski-on-the-dubai-sea-water-on-wakeboard": {
@@ -23974,6 +30419,86 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "from-dubai-al-ain-city-tour": {
+  "title": "迪拜出发：阿尔艾因城市游览",
+  "metaTitle": "迪拜出发：阿尔艾因城市游览",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Jebel Hafeet, Green Mubazzarah - Public Park, Al Ain Zoo和Al Ain Oasis。由RAH Tourism LLC - Dubai提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Jebel Hafeet, Green Mubazzarah - Public Park, Al Ain Zoo和Al Ain Oasis。由RAH Tourism LLC - Dubai提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Jebel Hafeet, Green Mubazzarah - Public Park, Al Ain Zoo和Al Ain Oasis。全程共7站。\n\n行程顺序为Jebel Hafeet, 然后 Green Mubazzarah - Public Park, 然后 Al Ain Zoo, 然后 Al Ain Oasis, 然后 Al Ain National Museum。\n\n价格包含从迪拜出发，乘坐空调车辆接送、英语导游、冰镇矿泉水。不包含，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Jebel Hafeet, Green Mubazzarah - Public Park, Al Ain Zoo和Al Ain Oasis。由RAH Tourism LLC - Dubai提供。"
+  ],
+  "included": [
+   "从迪拜出发，乘坐空调车辆接送",
+   "英语导游",
+   "冰镇矿泉水"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-private-full-day-city-tour-with-burj-khalifa": {
+  "title": "迪拜：私人全天城市游览，含哈利法塔门票",
+  "metaTitle": "迪拜：私人全天城市游览，含哈利法塔门票",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Dubai Marina, Souk Madinat Jumeirah, The Palm Jumeirah和Atlantis, Dubai。由Travel2Time提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Dubai Marina, Souk Madinat Jumeirah, The Palm Jumeirah和Atlantis, Dubai。由Travel2Time提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Dubai Marina, Souk Madinat Jumeirah, The Palm Jumeirah和Atlantis, Dubai。全程共12站。\n\n行程顺序为Dubai Marina (20 min), 然后 Souk Madinat Jumeirah (30 min), 然后 The Palm Jumeirah (20 min), 然后 Atlantis, Dubai (20 min), 然后 Jumeirah Beach Residence (20 min)。\n\n价格包含专业英语向导、空调4x4车辆、提供儿童座椅、酒店往返接送。不包含餐食和饮品、个人消费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Dubai Marina, Souk Madinat Jumeirah, The Palm Jumeirah和Atlantis, Dubai。由Travel2Time提供。"
+  ],
+  "included": [
+   "专业英语向导",
+   "空调4x4车辆",
+   "提供儿童座椅",
+   "酒店往返接送"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "个人消费"
+  ]
+ },
+ "dubai-night-city-tour-with-burj-khalifa-at-the": {
+  "title": "迪拜夜间城市游览，含哈利法塔顶层观景台门票",
+  "metaTitle": "迪拜夜间城市游览，含哈利法塔顶层观景台门票",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Dubai Marina, The Palm Jumeirah, Atlantis, Dubai和Madinat Jumeirah。由Travtur Tourism L.L.C提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Dubai Marina, The Palm Jumeirah, Atlantis, Dubai和Madinat Jumeirah。由Travtur Tourism L.L.C提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Dubai Marina, The Palm Jumeirah, Atlantis, Dubai和Madinat Jumeirah。最长的一站是Burj Khalifa Level 124-125，约1小时。全程共7站。\n\n行程顺序为Dubai Marina (20 min), 然后 The Palm Jumeirah, 然后 Atlantis, Dubai, 然后 Madinat Jumeirah (15 min), 然后 Burj Al Arab (10 min)。\n\n价格包含哈利法塔顶层观景台门票（124及125层）、从迪拜出发的酒店接送、专业导游、空调车辆接送。不包含食品和饮品、个人消费、小费（可选），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Dubai Marina, The Palm Jumeirah, Atlantis, Dubai和Madinat Jumeirah。由Travtur Tourism L.L.C提供。"
+  ],
+  "included": [
+   "哈利法塔顶层观景台门票（124及125层）",
+   "从迪拜出发的酒店接送",
+   "专业导游",
+   "空调车辆接送"
+  ],
+  "notIncluded": [
+   "食品和饮品",
+   "个人消费",
+   "小费（可选）"
+  ]
+ },
+ "abu-dhabi-mosque-sea-world-tour-from-dubai": {
+  "title": "阿布扎比清真寺及海洋世界游览，迪拜出发",
+  "metaTitle": "阿布扎比清真寺及海洋世界游览，迪拜出发",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Yas Mall和SeaWorld Abu Dhabi。由DMC Arabia Tourism LLC提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Yas Mall和SeaWorld Abu Dhabi。由DMC Arabia Tourism LLC提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Sheikh Zayed Mosque, Yas Mall和SeaWorld Abu Dhabi。全程共3站。\n\n行程顺序为Sheikh Zayed Mosque, 然后 Yas Mall, 然后 SeaWorld Abu Dhabi。\n\n价格包含往返交通、持证英语向导、参观阿布扎比清真寺、阿布扎比海洋世界标准门票。不包含个人消费、食品及饮品、亚斯水世界、华纳兄弟世界、法拉利世界等门票，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Yas Mall和SeaWorld Abu Dhabi。由DMC Arabia Tourism LLC提供。"
+  ],
+  "included": [
+   "往返交通",
+   "持证英语向导",
+   "参观阿布扎比清真寺",
+   "阿布扎比海洋世界标准门票"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "食品及饮品",
+   "亚斯水世界、华纳兄弟世界、法拉利世界等门票"
+  ]
+ },
  "from-dubai-hatta-sightseeing-tour-with-kayaking": {
   "title": "迪拜出发：哈塔观光游，含划艇体验",
   "metaTitle": "迪拜出发：哈塔观光游，含划艇体验",
@@ -24014,6 +30539,48 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "guided-dubai-city-tour-modern-architecture-sightse": {
+  "title": "迪拜向导城市游览：现代建筑及观光",
+  "metaTitle": "迪拜向导城市游览：现代建筑及观光",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Burj Al Arab, The Palm Jumeirah, Dubai Gold Souk和Dubai Spice Souk。由Venezia Tourism - Dubai提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Burj Al Arab, The Palm Jumeirah, Dubai Gold Souk和Dubai Spice Souk。由Venezia Tourism - Dubai提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Burj Al Arab, The Palm Jumeirah, Dubai Gold Souk和Dubai Spice Souk。全程共4站。\n\n行程顺序为Burj Al Arab (15 min), 然后 The Palm Jumeirah (20 min), 然后 Dubai Gold Souk (20 min), 然后 Dubai Spice Souk (15 min)。\n\n价格包含酒店接送、乘坐空调车辆出行、当地多语言向导、瓶装水。不包含不含门票（阿拉伯塔）、不含门票（迪拜之框）、不含门票（未来博物馆），请另行预算。两位旅客共同支付392美元，而不是每人各付392美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Burj Al Arab, The Palm Jumeirah, Dubai Gold Souk和Dubai Spice Souk。由Venezia Tourism - Dubai提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "乘坐空调车辆出行",
+   "当地多语言向导",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "不含门票（阿拉伯塔）",
+   "不含门票（迪拜之框）",
+   "不含门票（未来博物馆）"
+  ]
+ },
+ "dubai-4-hour-semi-private-city-tour-and-burj": {
+  "title": "迪拜：4小时半私人城市游览及哈利法塔门票",
+  "metaTitle": "迪拜：4小时半私人城市游览及哈利法塔门票",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Dubai Marina Walk, The Palm Jumeirah, Atlantis, The Palm和Souk Madinat Jumeirah。由Travtur Tourism L.L.C提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Dubai Marina Walk, The Palm Jumeirah, Atlantis, The Palm和Souk Madinat Jumeirah。由Travtur Tourism L.L.C提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Dubai Marina Walk, The Palm Jumeirah, Atlantis, The Palm和Souk Madinat Jumeirah。最长的一站是Burj Khalifa Level 124-125，约1小时。全程共10站。\n\n行程顺序为Dubai Marina Walk (15 min), 然后 The Palm Jumeirah (10 min), 然后 Atlantis, The Palm (10 min), 然后 Souk Madinat Jumeirah (20 min), 然后 Burj Al Arab (10 min)。\n\n价格包含迪拜指定地点的酒店接送、空调车辆接送、半私人游览（每车最多6人）、持证专业向导。不包含个人消费、小费（可选）、酒店送返，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Dubai Marina Walk, The Palm Jumeirah, Atlantis, The Palm和Souk Madinat Jumeirah。由Travtur Tourism L.L.C提供。"
+  ],
+  "included": [
+   "迪拜指定地点的酒店接送",
+   "空调车辆接送",
+   "半私人游览（每车最多6人）",
+   "持证专业向导"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费（可选）",
+   "酒店送返"
+  ]
+ },
  "dubai-global-village-tickets-with-roundtrip-transf": {
   "title": "迪拜：环球村门票及往返接送",
   "metaTitle": "迪拜：环球村门票及往返接送",
@@ -24050,6 +30617,87 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "dubai-ski-dubai-2-hour-or-full-day-slope": {
+  "title": "迪拜：迪拜滑雪场2小时或全天雪道体验",
+  "metaTitle": "迪拜：迪拜滑雪场2小时或全天雪道体验",
+  "metaDescription": "一次2小时的迪拜体验。感受滑雪及单板滑雪冒险带来的畅快。由The operator提供。",
+  "shortDescription": "一次2小时的迪拜体验。感受滑雪及单板滑雪冒险带来的畅快。由The operator提供。",
+  "fullDescription": "一次2小时的迪拜体验。感受滑雪及单板滑雪冒险带来的畅快。\n\n由The operator负责安排，价格中含4项内容。可免费取消。\n\n价格包含2小时或全天雪道通行证，可多次进出（含腕带）、含冬季装备（雪裤、夹克、一次性袜子、雪鞋、雪板/单板及雪杖），尺码S至4XL、免费提供抓绒手套（如选择全天选项，否则可在场地商店额外付费购买）、储物柜。不包含毛线帽、餐食和饮品、可使用雪上乐园，请另行预算。",
+  "highlights": [
+   "感受滑雪及单板滑雪冒险带来的畅快"
+  ],
+  "included": [
+   "2小时或全天雪道通行证，可多次进出（含腕带）",
+   "含冬季装备（雪裤、夹克、一次性袜子、雪鞋、雪板/单板及雪杖），尺码S至4XL",
+   "免费提供抓绒手套（如选择全天选项，否则可在场地商店额外付费购买）",
+   "储物柜"
+  ],
+  "notIncluded": [
+   "毛线帽",
+   "餐食和饮品",
+   "可使用雪上乐园"
+  ]
+ },
+ "walking-tour-in-old-dubai-explor-heritage-traditio": {
+  "title": "老迪拜徒步游览，探索文化遗产及传统市集",
+  "metaTitle": "老迪拜徒步游览，探索文化遗产及传统市集",
+  "metaDescription": "一次从迪拜出发的3小时行程，游览Al Fahidi, Al Seef, Al Bastakiya和Al Fahidi Fort。由Yalla Walk tourism提供。",
+  "shortDescription": "一次从迪拜出发的3小时行程，游览Al Fahidi, Al Seef, Al Bastakiya和Al Fahidi Fort。由Yalla Walk tourism提供。",
+  "fullDescription": "一次从迪拜出发的3小时行程，途经Al Fahidi, Al Seef, Al Bastakiya和Al Fahidi Fort。全程共8站。\n\n行程顺序为Al Fahidi (7 min), 然后 Al Seef (15 min), 然后 Al Bastakiya (15 min), 然后 Al Fahidi Fort (15 min), 然后 Al Souq Al Kabeer (15 min)。\n\n价格包含当地向导徒步游览、私人阿布拉渡船（水上出租船）体验、参观传统民居及市集、瓶装水。不包含，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的3小时行程，游览Al Fahidi, Al Seef, Al Bastakiya和Al Fahidi Fort。由Yalla Walk tourism提供。"
+  ],
+  "included": [
+   "当地向导徒步游览",
+   "私人阿布拉渡船（水上出租船）体验",
+   "参观传统民居及市集",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-sheikh-zayed-mosque-qasr-al-watan-tour-with": {
+  "title": "迪拜：谢赫扎耶德清真寺与阿尔瓦坦宫游览，含接送",
+  "metaTitle": "迪拜：谢赫扎耶德清真寺与阿尔瓦坦宫游览，含接送",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Qasr Al Watan和Sheikh Zayed Mosque。由360 Adventures Tourism LLC提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Qasr Al Watan和Sheikh Zayed Mosque。由360 Adventures Tourism LLC提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Qasr Al Watan和Sheikh Zayed Mosque。全程共2站。\n\n行程顺序为Qasr Al Watan, 然后 Sheikh Zayed Mosque。\n\n价格包含酒店往返接送、司机、阿尔瓦坦宫门票、谢赫扎耶德清真寺门票。不包含导游、食品及其他饮品、小费，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Qasr Al Watan和Sheikh Zayed Mosque。由360 Adventures Tourism LLC提供。"
+  ],
+  "included": [
+   "酒店往返接送",
+   "司机",
+   "阿尔瓦坦宫门票",
+   "谢赫扎耶德清真寺门票"
+  ],
+  "notIncluded": [
+   "导游",
+   "食品及其他饮品",
+   "小费"
+  ]
+ },
+ "abu-dhabi-full-day-al-ain-tour-with-entry": {
+  "title": "阿布扎比出发：阿尔艾因全天游览，含门票及餐食",
+  "metaTitle": "阿布扎比出发：阿尔艾因全天游览，含门票及餐食",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Al Jahili Fort, Qasr Al Muwaiji, Al Ain Oasis和Jebel Hafeet Mountain。由Emirates Tours & Safari提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Al Jahili Fort, Qasr Al Muwaiji, Al Ain Oasis和Jebel Hafeet Mountain。由Emirates Tours & Safari提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Al Jahili Fort, Qasr Al Muwaiji, Al Ain Oasis和Jebel Hafeet Mountain。全程共6站。\n\n行程顺序为Al Jahili Fort, 然后 Qasr Al Muwaiji (45 min), 然后 Al Ain Oasis, 然后 Jebel Hafeet Mountain, 然后 Ayla Bawadi Hotel。\n\n价格包含阿布扎比出发的酒店接送、往返空调交通、导游、阿尔贾希利堡门票。不包含小费、骆驼市场目前正在装修，短期内无法参观，请另行预算。两位旅客共同支付392美元，而不是每人各付389美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Al Jahili Fort, Qasr Al Muwaiji, Al Ain Oasis和Jebel Hafeet Mountain。由Emirates Tours & Safari提供。"
+  ],
+  "included": [
+   "阿布扎比出发的酒店接送",
+   "往返空调交通",
+   "导游",
+   "阿尔贾希利堡门票"
+  ],
+  "notIncluded": [
+   "小费",
+   "骆驼市场目前正在装修，短期内无法参观"
+  ]
+ },
  "dubai-self-drive-boat-experience-for-1-or-2": {
   "title": "迪拜：1至2人自驾船体验",
   "metaTitle": "迪拜：1至2人自驾船体验",
@@ -24066,6 +30714,146 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "dubai-old-town-tour-with-wonder-bus-souks-creek": {
+  "title": "迪拜：老城区游览，含奇妙巴士、市集、河道及向导",
+  "metaTitle": "迪拜：老城区游览，含奇妙巴士、市集、河道及向导",
+  "metaDescription": "一次从迪拜出发的1小时行程，游览Al Shindagha, Al Bastakiya, Al Fahidi Fort和Old Textile Market。由Wonder Bus Tours LLC提供。",
+  "shortDescription": "一次从迪拜出发的1小时行程，游览Al Shindagha, Al Bastakiya, Al Fahidi Fort和Old Textile Market。由Wonder Bus Tours LLC提供。",
+  "fullDescription": "一次从迪拜出发的1小时行程，途经Al Shindagha, Al Bastakiya, Al Fahidi Fort和Old Textile Market。全程共8站。\n\n行程顺序为Al Shindagha (5 min), 然后 Al Bastakiya (10 min), 然后 Al Fahidi Fort (5 min), 然后 Old Textile Market (5 min), 然后 Heritage Village, Dubai (5 min)。\n\n价格包含出发点位于阿尔欣达加城市中心，阿尔古巴伊巴地铁站前、现场专业英语及阿拉伯语导游、途经老迪拜观光景点，详见如下、参观迪拜博物馆及法希迪堡。不包含，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1小时行程，游览Al Shindagha, Al Bastakiya, Al Fahidi Fort和Old Textile Market。由Wonder Bus Tours LLC提供。"
+  ],
+  "included": [
+   "出发点位于阿尔欣达加城市中心，阿尔古巴伊巴地铁站前",
+   "现场专业英语及阿拉伯语导游",
+   "途经老迪拜观光景点，详见如下",
+   "参观迪拜博物馆及法希迪堡"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-old-town-guided-walking-tour-with-souks-and": {
+  "title": "迪拜：老城区向导徒步游览，含市集及阿布拉渡船体验",
+  "metaTitle": "迪拜：老城区向导徒步游览，含市集及阿布拉渡船体验",
+  "metaDescription": "一次从迪拜出发的2小时行程，游览Al Bastakiya, Baba's Cave, Al Seef和Al Fahidi。由Amazing Tours提供。",
+  "shortDescription": "一次从迪拜出发的2小时行程，游览Al Bastakiya, Baba's Cave, Al Seef和Al Fahidi。由Amazing Tours提供。",
+  "fullDescription": "一次从迪拜出发的2小时行程，途经Al Bastakiya, Baba's Cave, Al Seef和Al Fahidi。最长的一站是Al Bastakiya，约1小时。全程共10站。\n\n行程顺序为Al Bastakiya (1h), 然后 Baba's Cave (20 min), 然后 Al Seef (5 min), 然后 Al Fahidi (5 min), 然后 Grand Mosque, Dubai (5 min)。\n\n价格包含配持证资深导游的游览、老城区徒步游览、阿布拉渡船体验、当地茶饮及甜点品鉴。不包含接送（可安排）、小费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的2小时行程，游览Al Bastakiya, Baba's Cave, Al Seef和Al Fahidi。由Amazing Tours提供。"
+  ],
+  "included": [
+   "配持证资深导游的游览",
+   "老城区徒步游览",
+   "阿布拉渡船体验",
+   "当地茶饮及甜点品鉴"
+  ],
+  "notIncluded": [
+   "接送（可安排）",
+   "小费"
+  ]
+ },
+ "dubaiprivate-frame-entry-mosque-souks-tastings-tra": {
+  "title": "迪拜：私人游览，含迪拜之框门票、清真寺、市集、品鉴及接送",
+  "metaTitle": "迪拜：私人游览，含迪拜之框门票、清真寺、市集、品鉴及接送",
+  "metaDescription": "一次半天的迪拜体验。从这座建筑奇迹俯瞰新老迪拜的壮丽景色。由MAGIC LAMP TOURISM L.L.C提供。",
+  "shortDescription": "一次半天的迪拜体验。从这座建筑奇迹俯瞰新老迪拜的壮丽景色。由MAGIC LAMP TOURISM L.L.C提供。",
+  "fullDescription": "一次半天的迪拜体验。从这座建筑奇迹俯瞰新老迪拜的壮丽景色。\n\n由MAGIC LAMP TOURISM L.L.C负责安排，价格中含8项内容。可免费取消。\n\n价格包含往返接送、现场讲解向导、迪拜之框门票、蓝色清真寺门票。不包含小费，请另行预算。",
+  "highlights": [
+   "从这座建筑奇迹俯瞰新老迪拜的壮丽景色"
+  ],
+  "included": [
+   "往返接送",
+   "现场讲解向导",
+   "迪拜之框门票",
+   "蓝色清真寺门票"
+  ],
+  "notIncluded": [
+   "小费"
+  ]
+ },
+ "abu-dhabi-60-minute-corniche-speed-boat-sightseein": {
+  "title": "阿布扎比：60分钟海滨大道快艇观光游览",
+  "metaTitle": "阿布扎比：60分钟海滨大道快艇观光游览",
+  "metaDescription": "一次从阿布扎比出发的1小时行程，游览Etihad Towers, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi和Lulu Islands。由The Yellow Boats LLC提供。",
+  "shortDescription": "一次从阿布扎比出发的1小时行程，游览Etihad Towers, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi和Lulu Islands。由The Yellow Boats LLC提供。",
+  "fullDescription": "一次从阿布扎比出发的1小时行程，途经Etihad Towers, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi和Lulu Islands。最长的一站是The Corniche, Abu Dhabi，约1小时。全程共6站。\n\n行程顺序为Etihad Towers, 然后 Abu Dhabi Heritage Village, 然后 The Corniche, Abu Dhabi (1h), 然后 Lulu Islands, 然后 Qasr Al Watan。\n\n价格包含快艇游览、现场讲解向导、轻便救生衣、瓶装水。不包含酒店往返接送、食品或饮品，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的1小时行程，游览Etihad Towers, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi和Lulu Islands。由The Yellow Boats LLC提供。"
+  ],
+  "included": [
+   "快艇游览",
+   "现场讲解向导",
+   "轻便救生衣",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "酒店往返接送",
+   "食品或饮品"
+  ]
+ },
+ "dubai-city-tour-with-burj-khalifa-and-underwater-z": {
+  "title": "迪拜：城市游览，含哈利法塔及水下动物园门票",
+  "metaTitle": "迪拜：城市游览，含哈利法塔及水下动物园门票",
+  "metaDescription": "一次全天的迪拜体验。体验穿梭新老迪拜的精彩奇妙之旅。由Arabian Vista Tourism LLC提供。",
+  "shortDescription": "一次全天的迪拜体验。体验穿梭新老迪拜的精彩奇妙之旅。由Arabian Vista Tourism LLC提供。",
+  "fullDescription": "一次全天的迪拜体验。体验穿梭新老迪拜的精彩奇妙之旅。\n\n由Arabian Vista Tourism LLC负责安排，价格中含12项内容。可免费取消。\n\n价格包含空调4x4车，配专业英语向导、酒店往返接送、迪拜码头（拍照停留）、哈利法塔（含门票）。不包含午餐及晚餐、个人消费，请另行预算。",
+  "highlights": [
+   "体验穿梭新老迪拜的精彩奇妙之旅"
+  ],
+  "included": [
+   "空调4x4车，配专业英语向导",
+   "酒店往返接送",
+   "迪拜码头（拍照停留）",
+   "哈利法塔（含门票）"
+  ],
+  "notIncluded": [
+   "午餐及晚餐",
+   "个人消费"
+  ]
+ },
+ "dubai-city-tour-with-luxury-sunset-yacht-at-dubai": {
+  "title": "迪拜城市游览，含迪拜码头豪华日落游艇",
+  "metaTitle": "迪拜城市游览，含迪拜码头豪华日落游艇",
+  "metaDescription": "一次全天的迪拜体验。跟随专业向导，在这次向导城市观光中探索老迪拜。由360 Adventures Tourism LLC提供。",
+  "shortDescription": "一次全天的迪拜体验。跟随专业向导，在这次向导城市观光中探索老迪拜。由360 Adventures Tourism LLC提供。",
+  "fullDescription": "一次全天的迪拜体验。跟随专业向导，在这次向导城市观光中探索老迪拜。\n\n由360 Adventures Tourism LLC负责安排，价格中含8项内容。可免费取消。\n\n价格包含酒店接送：08:00至09:30（仅限迪拜城市游览）、乘坐空调车辆出行、导游、阿尔西夫徒步游览。不包含餐食、日落游艇酒精饮品（可购买）、日落游艇往返接送，请另行预算。",
+  "highlights": [
+   "跟随专业向导，在这次向导城市观光中探索老迪拜"
+  ],
+  "included": [
+   "酒店接送：08:00至09:30（仅限迪拜城市游览）",
+   "乘坐空调车辆出行",
+   "导游",
+   "阿尔西夫徒步游览"
+  ],
+  "notIncluded": [
+   "餐食",
+   "日落游艇酒精饮品（可购买）",
+   "日落游艇往返接送"
+  ]
+ },
+ "dubai-city-sightseeing-hop-on-hop-off-bus-tour": {
+  "title": "迪拜：城市观光随上随下巴士游览",
+  "metaTitle": "迪拜：城市观光随上随下巴士游览",
+  "metaDescription": "一次从迪拜出发的1.5小时行程，游览Burj Khalifa。由City Sightseeing Worldwide提供。",
+  "shortDescription": "一次从迪拜出发的1.5小时行程，游览Burj Khalifa。由City Sightseeing Worldwide提供。",
+  "fullDescription": "一次从迪拜出发的1.5小时行程，途经Burj Khalifa。\n\n由City Sightseeing Worldwide负责安排，价格中含5项内容。可免费取消。360度全景欣赏迪拜的一切精彩。\n\n价格包含24小时或48小时门票（取决于所选选项）、在各主要景点附近停留、11种语言语音导览及耳机、巴士上免费提供饮用水（斋月期间除外）。不包含酒店往返接送、景点门票、小费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1.5小时行程，游览Burj Khalifa。由City Sightseeing Worldwide提供。"
+  ],
+  "included": [
+   "24小时或48小时门票（取决于所选选项）",
+   "在各主要景点附近停留",
+   "11种语言语音导览及耳机",
+   "巴士上免费提供饮用水（斋月期间除外）"
+  ],
+  "notIncluded": [
+   "酒店往返接送",
+   "景点门票",
+   "小费"
   ]
  },
  "dubai-electric-hydrofoil-or-efoil-surfboard-experi": {
@@ -24124,6 +30912,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "dubai-to-abu-dhabi-private-tour-grand-mosque-royal": {
+  "title": "迪拜至阿布扎比私人游览：大清真寺及王宫",
+  "metaTitle": "迪拜至阿布扎比私人游览：大清真寺及王宫",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Abu Dhabi, Sheikh Zayed Mosque, The Corniche, Abu Dhabi和Emirates Palace。由OceanAir Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Abu Dhabi, Sheikh Zayed Mosque, The Corniche, Abu Dhabi和Emirates Palace。由OceanAir Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Abu Dhabi, Sheikh Zayed Mosque, The Corniche, Abu Dhabi和Emirates Palace。全程共7站。\n\n行程顺序为Abu Dhabi, 然后 Sheikh Zayed Mosque, 然后 The Corniche, Abu Dhabi, 然后 Emirates Palace, 然后 Louvre Abu Dhabi (15 min)。\n\n价格包含酒店往返接送、现场专业导游、谢赫扎耶德清真寺门票、参观阿提哈德大厦观景台。不包含阿联酋宫殿酒店内部参观（仅途经）、午餐（自费）、小费（可选），请另行预算。两位旅客共同支付839美元，而不是每人各付839美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Abu Dhabi, Sheikh Zayed Mosque, The Corniche, Abu Dhabi和Emirates Palace。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "酒店往返接送",
+   "现场专业导游",
+   "谢赫扎耶德清真寺门票",
+   "参观阿提哈德大厦观景台"
+  ],
+  "notIncluded": [
+   "阿联酋宫殿酒店内部参观（仅途经）",
+   "午餐（自费）",
+   "小费（可选）"
+  ]
+ },
  "dubai-speedboat-pulled-donut-ride-trip-in-jbr": {
   "title": "JBR：快艇牵引甜甜圈艇之旅",
   "metaTitle": "JBR：快艇牵引甜甜圈艇之旅",
@@ -24179,6 +30988,165 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "dubai-lahbab-red-dunes-morning-safari-quadbuggy-op": {
+  "title": "迪拜：拉哈巴红色沙丘晨间沙漠之旅，沙滩摩托车/越野车可选",
+  "metaTitle": "迪拜：拉哈巴红色沙丘晨间沙漠之旅，沙滩摩托车/越野车可选",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV和Lahbab Desert。由DesertFunTourismLLC提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV和Lahbab Desert。由DesertFunTourismLLC提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV和Lahbab Desert。最长的一站是Lahbab Desert，约1小时。全程共2站。\n\n行程顺序为Jeep / SUV (1h), 然后 Lahbab Desert (1h)。\n\n价格包含从迪拜或沙迦出发的酒店接送、全程沙漠之旅空调4x4车交通、由专业沙漠司机带领，35分钟穿越拉哈巴红色沙丘的冲沙体验、高沙丘拍照停留。不包含餐食及早餐、个人消费、小费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV和Lahbab Desert。由DesertFunTourismLLC提供。"
+  ],
+  "included": [
+   "从迪拜或沙迦出发的酒店接送",
+   "全程沙漠之旅空调4x4车交通",
+   "由专业沙漠司机带领，35分钟穿越拉哈巴红色沙丘的冲沙体验",
+   "高沙丘拍照停留"
+  ],
+  "notIncluded": [
+   "餐食及早餐",
+   "个人消费",
+   "小费"
+  ]
+ },
+ "dubai-desert-safari-dune-buggy-sandboarding-camels": {
+  "title": "迪拜：沙漠冲沙之旅，含沙漠越野车、滑沙、骆驼骑行及烧烤",
+  "metaTitle": "迪拜：沙漠冲沙之旅，含沙漠越野车、滑沙、骆驼骑行及烧烤",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Lahbab Desert和Lahbab Desert。由OceanAir Travels提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Lahbab Desert和Lahbab Desert。由OceanAir Travels提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Jeep / SUV, Lahbab Desert和Lahbab Desert。全程共3站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Lahbab Desert, 然后 Lahbab Desert。\n\n价格包含酒店往返接送、持证沙漠向导、沙漠飙沙、沙滩摩托车/沙漠越野车骑行（如选择该选项）。不包含含酒精饮品、小费（可选），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Jeep / SUV, Lahbab Desert和Lahbab Desert。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "酒店往返接送",
+   "持证沙漠向导",
+   "沙漠飙沙",
+   "沙滩摩托车/沙漠越野车骑行（如选择该选项）"
+  ],
+  "notIncluded": [
+   "含酒精饮品",
+   "小费（可选）"
+  ]
+ },
+ "dubai-half-day-desert-safari-camel-ride-atv-dune": {
+  "title": "迪拜：半日沙漠冲沙之旅，含骆驼骑行、沙滩摩托车及沙漠越野车",
+  "metaTitle": "迪拜：半日沙漠冲沙之旅，含骆驼骑行、沙滩摩托车及沙漠越野车",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Red Dunes Desert Safari, Dubai和Red Dunes Desert Safari, Dubai。由OceanAir Travels提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Jeep / SUV, Red Dunes Desert Safari, Dubai和Red Dunes Desert Safari, Dubai。由OceanAir Travels提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Jeep / SUV, Red Dunes Desert Safari, Dubai和Red Dunes Desert Safari, Dubai。全程共3站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Red Dunes Desert Safari, Dubai (30 min), 然后 Red Dunes Desert Safari, Dubai。\n\n价格包含从您所在地点/酒店往返接送、乘坐空调4x4车出行、持证沙漠向导、沙漠冲沙体验。不包含，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Jeep / SUV, Red Dunes Desert Safari, Dubai和Red Dunes Desert Safari, Dubai。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "从您所在地点/酒店往返接送",
+   "乘坐空调4x4车出行",
+   "持证沙漠向导",
+   "沙漠冲沙体验"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "from-dubai-abu-dhabi-city-sightseeing-sheikh-zayed": {
+  "title": "迪拜出发：阿布扎比城市观光及谢赫扎耶德清真寺",
+  "metaTitle": "迪拜出发：阿布扎比城市观光及谢赫扎耶德清真寺",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Abu Dhabi Corniche, The Founder's Memorial, Abu Dhabi和Etihad Towers。由OceanAir Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Abu Dhabi Corniche, The Founder's Memorial, Abu Dhabi和Etihad Towers。由OceanAir Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Sheikh Zayed Mosque, Abu Dhabi Corniche, The Founder's Memorial, Abu Dhabi和Etihad Towers。全程共9站。\n\n行程顺序为Sheikh Zayed Mosque, 然后 Abu Dhabi Corniche, 然后 The Founder's Memorial, Abu Dhabi, 然后 Etihad Towers, 然后 Emirates Palace。\n\n价格包含迪拜出发的接送、空调车辆接送、谢赫扎耶德清真寺门票、阿尔瓦坦宫王宫门票（如选择该选项）。不包含小费（可选），请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, Abu Dhabi Corniche, The Founder's Memorial, Abu Dhabi和Etihad Towers。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "迪拜出发的接送",
+   "空调车辆接送",
+   "谢赫扎耶德清真寺门票",
+   "阿尔瓦坦宫王宫门票（如选择该选项）"
+  ],
+  "notIncluded": [
+   "小费（可选）"
+  ]
+ },
+ "dubai-red-dunes-quad-bike-with-sandboarding-camels": {
+  "title": "迪拜：红色沙丘沙滩摩托车，含滑沙、骆驼骑行及烧烤",
+  "metaTitle": "迪拜：红色沙丘沙滩摩托车，含滑沙、骆驼骑行及烧烤",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Lahbab Desert, Lahbab Desert和Lahbab Desert。由ToursGuys.com提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Lahbab Desert, Lahbab Desert和Lahbab Desert。由ToursGuys.com提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Jeep / SUV, Lahbab Desert, Lahbab Desert和Lahbab Desert。最长的一站是Lahbab Desert，约1小时。全程共5站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Lahbab Desert, 然后 Lahbab Desert (1h), 然后 Lahbab Desert, 然后 Lahbab Desert。\n\n价格包含酒店往返接送、乘坐空调车辆出行、1小时沙滩摩托车骑行、经验丰富的教练。不包含含酒精饮品、4x4车沙漠冲沙、上述内容之外的任何其他费用，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Jeep / SUV, Lahbab Desert, Lahbab Desert和Lahbab Desert。由ToursGuys.com提供。"
+  ],
+  "included": [
+   "酒店往返接送",
+   "乘坐空调车辆出行",
+   "1小时沙滩摩托车骑行",
+   "经验丰富的教练"
+  ],
+  "notIncluded": [
+   "含酒精饮品",
+   "4x4车沙漠冲沙",
+   "上述内容之外的任何其他费用"
+  ]
+ },
+ "dubai-marina-luxury-dhow-dinner-cruise": {
+  "title": "迪拜：码头豪华传统木船晚餐巡游",
+  "metaTitle": "迪拜：码头豪华传统木船晚餐巡游",
+  "metaDescription": "一次从迪拜出发的2小时行程，游览Dubai Marina。由Tour Dubai提供。",
+  "shortDescription": "一次从迪拜出发的2小时行程，游览Dubai Marina。由Tour Dubai提供。",
+  "fullDescription": "一次从迪拜出发的2小时行程，途经Dubai Marina。最长的一站是Dubai Marina，约2小时。\n\n价格包含2小时豪华码头传统木船晚餐巡游、5星级自助晚餐，含阿拉伯及国际美食、无限畅饮软饮及瓶装水、酒店往返接送。不包含小费（可选），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的2小时行程，游览Dubai Marina。由Tour Dubai提供。"
+  ],
+  "included": [
+   "2小时豪华码头传统木船晚餐巡游",
+   "5星级自助晚餐，含阿拉伯及国际美食",
+   "无限畅饮软饮及瓶装水",
+   "酒店往返接送"
+  ],
+  "notIncluded": [
+   "小费（可选）"
+  ]
+ },
+ "from-abu-dhabi-dubai-full-day-sightseeing-tour": {
+  "title": "阿布扎比出发：迪拜全天观光游览",
+  "metaTitle": "阿布扎比出发：迪拜全天观光游览",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Dubai Marina, Burj Al Arab, Dubai Mall和Museum of the Future。由Emirates Tours & Safari提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Dubai Marina, Burj Al Arab, Dubai Mall和Museum of the Future。由Emirates Tours & Safari提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Dubai Marina, Burj Al Arab, Dubai Mall和Museum of the Future。最长的一站是Dubai Mall，约1小时。全程共8站。\n\n行程顺序为Dubai Marina, 然后 Burj Al Arab, 然后 Dubai Mall (1h), 然后 Museum of the Future, 然后 Al Fahidi Fort。\n\n价格包含阿布扎比酒店接送、英语导游、瓶装水、乘坐空调巴士出行。不包含食品和饮品、午餐，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Dubai Marina, Burj Al Arab, Dubai Mall和Museum of the Future。由Emirates Tours & Safari提供。"
+  ],
+  "included": [
+   "阿布扎比酒店接送",
+   "英语导游",
+   "瓶装水",
+   "乘坐空调巴士出行"
+  ],
+  "notIncluded": [
+   "食品和饮品",
+   "午餐"
+  ]
+ },
+ "dubai-self-drive-quad-bike-desert-safari-with-al": {
+  "title": "迪拜：自驾沙滩摩托车沙漠之旅，含阿尔海玛烧烤",
+  "metaTitle": "迪拜：自驾沙滩摩托车沙漠之旅，含阿尔海玛烧烤",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Lahbab Desert, Red Dunes Desert Safari, Dubai和Red Dunes Desert Safari, Dubai。由OceanAir Travels提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Lahbab Desert, Red Dunes Desert Safari, Dubai和Red Dunes Desert Safari, Dubai。由OceanAir Travels提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Jeep / SUV, Lahbab Desert, Red Dunes Desert Safari, Dubai和Red Dunes Desert Safari, Dubai。最长的一站是Red Dunes Desert Safari, Dubai，约1小时。全程共6站。\n\n行程顺序为Jeep / SUV (45 min), 然后 Lahbab Desert, 然后 Red Dunes Desert Safari, Dubai (1h), 然后 Red Dunes Desert Safari, Dubai, 然后 Al Khayma Desert Camp。\n\n价格包含从您指定地点/酒店出发的接送、共享空调交通、自驾沙滩摩托车沙漠之旅、头盔。不包含含酒精饮品、4x4车沙漠冲沙，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Jeep / SUV, Lahbab Desert, Red Dunes Desert Safari, Dubai和Red Dunes Desert Safari, Dubai。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "从您指定地点/酒店出发的接送",
+   "共享空调交通",
+   "自驾沙滩摩托车沙漠之旅",
+   "头盔"
+  ],
+  "notIncluded": [
+   "含酒精饮品",
+   "4x4车沙漠冲沙"
+  ]
+ },
  "dubai-dubai-frame-and-the-view-at-the-palm": {
   "title": "迪拜：迪拜相框及棕榈岛The View观景台，含接送",
   "metaTitle": "迪拜：迪拜相框及棕榈岛The View观景台，含接送",
@@ -24192,6 +31160,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "私人接送",
    "含迪拜相框门票",
    "含棕榈岛The View观景台门票"
+  ],
+  "notIncluded": [
+   "餐食和饮品"
+  ]
+ },
+ "dubai-fairmont-the-palm-day-pass-with-gmc-yukon": {
+  "title": "迪拜：棕榈岛费尔蒙酒店日间通行证，含GMC Yukon接送",
+  "metaTitle": "迪拜：棕榈岛费尔蒙酒店日间通行证，含GMC Yukon接送",
+  "metaDescription": "一次半天的迪拜体验。在棕榈岛费尔蒙酒店度过一天，含日间通行证及私人接送。由HARBOR TOURISM LLC提供。",
+  "shortDescription": "一次半天的迪拜体验。在棕榈岛费尔蒙酒店度过一天，含日间通行证及私人接送。由HARBOR TOURISM LLC提供。",
+  "fullDescription": "一次半天的迪拜体验。在棕榈岛费尔蒙酒店度过一天，含日间通行证及私人接送。\n\n由HARBOR TOURISM LLC负责安排，价格中含10项内容。可免费取消。\n\n价格包含棕榈岛费尔蒙酒店日间通行证、可使用私人海滩、可使用泳池、可使用躺椅。不包含餐食和饮品，请另行预算。两位旅客共同支付576美元，而不是每人各付576美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在棕榈岛费尔蒙酒店度过一天，含日间通行证及私人接送"
+  ],
+  "included": [
+   "棕榈岛费尔蒙酒店日间通行证",
+   "可使用私人海滩",
+   "可使用泳池",
+   "可使用躺椅"
   ],
   "notIncluded": [
    "餐食和饮品"
@@ -24312,6 +31299,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食和饮品"
   ]
  },
+ "abu-dhabi-city-tour-pvt-with-russian-french-englis": {
+  "title": "阿布扎比私人城市游览，配俄语、法语及英语向导",
+  "metaTitle": "阿布扎比私人城市游览，配俄语、法语及英语向导",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Abu Dhabi。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Abu Dhabi。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Abu Dhabi。最长的一站是Abu Dhabi，约10小时。\n\n价格包含阿布扎比向导城市游览、参观谢赫扎耶德大清真寺、标志性地标拍照机会、阿尔瓦坦宫拍照点。不包含餐食、个人消费，请另行预算。两位旅客共同支付1013美元，而不是每人各付806美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Abu Dhabi。由ARABIAN DESTINATION TOURISM L.L.C提供。"
+  ],
+  "included": [
+   "阿布扎比向导城市游览",
+   "参观谢赫扎耶德大清真寺",
+   "标志性地标拍照机会",
+   "阿尔瓦坦宫拍照点"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
+  ]
+ },
  "abu-dhabi-al-forsan-horse-ride-experience": {
   "title": "阿布扎比：Al Forsan骑马体验",
   "metaTitle": "阿布扎比：Al Forsan骑马体验",
@@ -24328,6 +31335,143 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐食和饮品",
    "酒店往返接送"
+  ]
+ },
+ "virtual-swiss-alps-tour-interactive-video-experien": {
+  "title": "瑞士阿尔卑斯山虚拟游览：互动视频体验",
+  "metaTitle": "瑞士阿尔卑斯山虚拟游览：互动视频体验",
+  "metaDescription": "一次1小时的迪拜体验。通过互动虚拟游览，足不出户探索瑞士阿尔卑斯山。由Pacha Atelier Angency提供。",
+  "shortDescription": "一次1小时的迪拜体验。通过互动虚拟游览，足不出户探索瑞士阿尔卑斯山。由Pacha Atelier Angency提供。",
+  "fullDescription": "一次1小时的迪拜体验。通过互动虚拟游览，足不出户探索瑞士阿尔卑斯山。\n\n由Pacha Atelier Angency负责安排，价格中含6项内容。可免费取消。\n\n价格包含瑞士阿尔卑斯山虚拟游览、高清影像、无人机航拍影像、360度互动视角视频。不包含身临瑞士阿尔卑斯山的实景体验，请另行预算。",
+  "highlights": [
+   "通过互动虚拟游览，足不出户探索瑞士阿尔卑斯山"
+  ],
+  "included": [
+   "瑞士阿尔卑斯山虚拟游览",
+   "高清影像",
+   "无人机航拍影像",
+   "360度互动视角视频"
+  ],
+  "notIncluded": [
+   "身临瑞士阿尔卑斯山的实景体验"
+  ]
+ },
+ "dubai-private-evening-sightseeing-tour-with-hotel-": {
+  "title": "迪拜：私人夜间观光游览，含酒店接送",
+  "metaTitle": "迪拜：私人夜间观光游览，含酒店接送",
+  "metaDescription": "一次半天的迪拜体验。在私人夜间观光游览中探索迪拜标志性地标。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "shortDescription": "一次半天的迪拜体验。在私人夜间观光游览中探索迪拜标志性地标。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "fullDescription": "一次半天的迪拜体验。在私人夜间观光游览中探索迪拜标志性地标。\n\n由ARABIAN DESTINATION TOURISM L.L.C负责安排，价格中含5项内容。可免费取消。\n\n价格包含酒店往返接送、私人空调座驾、专业司机向导、瓶装水。不包含餐食、门票费用，请另行预算。两位旅客共同支付250美元，而不是每人各付250美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在私人夜间观光游览中探索迪拜标志性地标"
+  ],
+  "included": [
+   "酒店往返接送",
+   "私人空调座驾",
+   "专业司机向导",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "餐食",
+   "门票费用"
+  ]
+ },
+ "dubai-private-city-tour-with-hotel-transfer-abra-r": {
+  "title": "迪拜：私人城市游览，含酒店接送及阿布拉渡船体验",
+  "metaTitle": "迪拜：私人城市游览，含酒店接送及阿布拉渡船体验",
+  "metaDescription": "一次半天的迪拜体验。在私人半日城市游览中探索迪拜标志性地标。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "shortDescription": "一次半天的迪拜体验。在私人半日城市游览中探索迪拜标志性地标。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "fullDescription": "一次半天的迪拜体验。在私人半日城市游览中探索迪拜标志性地标。\n\n由ARABIAN DESTINATION TOURISM L.L.C负责安排，价格中含6项内容。可免费取消。\n\n价格包含私人座驾、私人司机、迪拜酒店接送、迪拜河阿布拉渡船体验。不包含景点门票、哈利法塔门票、迪拜之框门票，请另行预算。两位旅客共同支付683美元，而不是每人各付683美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在私人半日城市游览中探索迪拜标志性地标"
+  ],
+  "included": [
+   "私人座驾",
+   "私人司机",
+   "迪拜酒店接送",
+   "迪拜河阿布拉渡船体验"
+  ],
+  "notIncluded": [
+   "景点门票",
+   "哈利法塔门票",
+   "迪拜之框门票"
+  ]
+ },
+ "morning-4x4-dune-bashing-desert-safari-with-camel-": {
+  "title": "晨间4x4沙漠冲沙之旅，含骆驼骑行",
+  "metaTitle": "晨间4x4沙漠冲沙之旅，含骆驼骑行",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览Al Khatim Desert。由OceanAir Travels提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览Al Khatim Desert。由OceanAir Travels提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Al Khatim Desert。\n\n价格包含从您所在地点接送、乘坐陆地巡洋舰沙丘冲沙、骆驼骑行、滑沙。不包含沙滩摩托车与沙漠越野车，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览Al Khatim Desert。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "从您所在地点接送",
+   "乘坐陆地巡洋舰沙丘冲沙",
+   "骆驼骑行",
+   "滑沙"
+  ],
+  "notIncluded": [
+   "沙滩摩托车与沙漠越野车"
+  ]
+ },
+ "dubai-city-tour-with-souks-abra-ride-photo-stops": {
+  "title": "迪拜：城市游览，含市集、阿布拉渡船体验及拍照停留",
+  "metaTitle": "迪拜：城市游览，含市集、阿布拉渡船体验及拍照停留",
+  "metaDescription": "一次半天的迪拜体验。探索巴斯塔基亚的历史街道及传统民居。由OceanAir Travels提供。",
+  "shortDescription": "一次半天的迪拜体验。探索巴斯塔基亚的历史街道及传统民居。由OceanAir Travels提供。",
+  "fullDescription": "一次半天的迪拜体验。探索巴斯塔基亚的历史街道及传统民居。\n\n由OceanAir Travels负责安排，价格中含12项内容。可免费取消。\n\n价格包含迪拜指定区域出发的接送、共享空调交通、持证导游、扎比勒宫外部拍照停留。不包含迪拜之框门票、阿拉伯塔门票、棕榈岛亚特兰蒂斯酒店景点门票，请另行预算。",
+  "highlights": [
+   "探索巴斯塔基亚的历史街道及传统民居"
+  ],
+  "included": [
+   "迪拜指定区域出发的接送",
+   "共享空调交通",
+   "持证导游",
+   "扎比勒宫外部拍照停留"
+  ],
+  "notIncluded": [
+   "迪拜之框门票",
+   "阿拉伯塔门票",
+   "棕榈岛亚特兰蒂斯酒店景点门票"
+  ]
+ },
+ "dubai-house-of-hype-experience-with-gmc-yukon-tran": {
+  "title": "迪拜：House of Hype体验，含GMC Yukon接送",
+  "metaTitle": "迪拜：House of Hype体验，含GMC Yukon接送",
+  "metaDescription": "一次半天的迪拜体验。乘坐豪华GMC SUV享受前往House of Hype的私人接送。由HARBOR TOURISM LLC提供。",
+  "shortDescription": "一次半天的迪拜体验。乘坐豪华GMC SUV享受前往House of Hype的私人接送。由HARBOR TOURISM LLC提供。",
+  "fullDescription": "一次半天的迪拜体验。乘坐豪华GMC SUV享受前往House of Hype的私人接送。\n\n由HARBOR TOURISM LLC负责安排，价格中含8项内容。可免费取消。\n\n价格包含house of Hype门票、门到门接送服务、私人豪华GMC SUV座驾、专业制服司机。不包含，请另行预算。两位旅客共同支付461美元，而不是每人各付461美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "乘坐豪华GMC SUV享受前往House of Hype的私人接送"
+  ],
+  "included": [
+   "House of Hype门票",
+   "门到门接送服务",
+   "私人豪华GMC SUV座驾",
+   "专业制服司机"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-couples-photoshoot": {
+  "title": "迪拜：情侣拍摄",
+  "metaTitle": "迪拜：情侣拍摄",
+  "metaDescription": "一次从迪拜出发的2小时行程，游览The Dubai Mall Heart。由Free Spirit Cordoba提供。",
+  "shortDescription": "一次从迪拜出发的2小时行程，游览The Dubai Mall Heart。由Free Spirit Cordoba提供。",
+  "fullDescription": "一次从迪拜出发的2小时行程，途经The Dubai Mall Heart。\n\n价格包含专业情侣拍摄、姿势指导。不包含前往目的地的交通、个人消费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的2小时行程，游览The Dubai Mall Heart。由Free Spirit Cordoba提供。"
+  ],
+  "included": [
+   "专业情侣拍摄",
+   "姿势指导"
+  ],
+  "notIncluded": [
+   "前往目的地的交通",
+   "个人消费"
   ]
  },
  "from-dubai-ras-al-khaimah-private-suv-sightseeing-": {
@@ -24368,6 +31512,89 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食和饮品"
   ]
  },
+ "dubai-atlantis-aquaventure-waterpark-entry-suv-tra": {
+  "title": "迪拜：亚特兰蒂斯水上乐园门票及SUV接送",
+  "metaTitle": "迪拜：亚特兰蒂斯水上乐园门票及SUV接送",
+  "metaDescription": "一次半天的迪拜体验。在迪拜亚特兰蒂斯水上乐园享受欢乐一天。由HARBOR TOURISM LLC提供。",
+  "shortDescription": "一次半天的迪拜体验。在迪拜亚特兰蒂斯水上乐园享受欢乐一天。由HARBOR TOURISM LLC提供。",
+  "fullDescription": "一次半天的迪拜体验。在迪拜亚特兰蒂斯水上乐园享受欢乐一天。\n\n由HARBOR TOURISM LLC负责安排，价格中含8项内容。可免费取消。\n\n价格包含亚特兰蒂斯水上乐园免排队门票、无限次使用亚特兰蒂斯水上乐园海滩、可使用所有滑道、游乐设施、景点、泳池及私人海滩、迪拜私人酒店或住所往返接送、私人GMC Yukon XL座驾交通、专业制服司机、燃油及萨利克道路通行费、瓶装水。不包含餐食和饮品，请另行预算。两位旅客共同支付1131美元，而不是每人各付778美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在迪拜亚特兰蒂斯水上乐园享受欢乐一天"
+  ],
+  "included": [
+   "亚特兰蒂斯水上乐园免排队门票",
+   "无限次使用亚特兰蒂斯水上乐园海滩",
+   "可使用所有滑道、游乐设施、景点、泳池及私人海滩",
+   "迪拜私人酒店或住所往返接送",
+   "私人GMC Yukon XL座驾交通",
+   "专业制服司机",
+   "燃油及萨利克道路通行费",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "餐食和饮品"
+  ]
+ },
+ "abu-dhabi-yas-waterworld-entry-ticket-with-transfe": {
+  "title": "阿布扎比：亚斯水世界门票，含SUV接送",
+  "metaTitle": "阿布扎比：亚斯水世界门票，含SUV接送",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Yas Waterworld。由HARBOR TOURISM LLC提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Yas Waterworld。由HARBOR TOURISM LLC提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Yas Waterworld。最长的一站是Yas Waterworld，约10小时。\n\n价格包含酒店或住所接送往返、乘坐私人GMC Yukon从迪拜前往阿布扎比的接送服务、阿布扎比亚斯水世界门票、亚斯水世界全天无限次畅玩所有设施。不包含餐食和饮品，请另行预算。两位旅客共同支付1098美元，而不是每人各付903美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Yas Waterworld。由HARBOR TOURISM LLC提供。"
+  ],
+  "included": [
+   "酒店或住所接送往返",
+   "乘坐私人GMC Yukon从迪拜前往阿布扎比的接送服务",
+   "阿布扎比亚斯水世界门票",
+   "亚斯水世界全天无限次畅玩所有设施"
+  ],
+  "notIncluded": [
+   "餐食和饮品"
+  ]
+ },
+ "from-dubai-abu-dhabi-private-city-tour-with-5": {
+  "title": "迪拜出发：阿布扎比私人城市游览，含5星级午餐",
+  "metaTitle": "迪拜出发：阿布扎比私人城市游览，含5星级午餐",
+  "metaDescription": "一次全天的阿布扎比体验。从迪拜/阿布扎比出发的私人向导一日游，探索阿布扎比地标。由Whats Up Trip - F.Z.E提供。",
+  "shortDescription": "一次全天的阿布扎比体验。从迪拜/阿布扎比出发的私人向导一日游，探索阿布扎比地标。由Whats Up Trip - F.Z.E提供。",
+  "fullDescription": "一次全天的阿布扎比体验。从迪拜/阿布扎比出发的私人向导一日游，探索阿布扎比地标。\n\n由Whats Up Trip - F.Z.E负责安排，价格中含8项内容。可免费取消。\n\n价格包含酒店往返接送、私人空调车辆、专业司机向导、5星级午餐（如选择该选项）。不包含个人消费、小费，请另行预算。",
+  "highlights": [
+   "从迪拜/阿布扎比出发的私人向导一日游，探索阿布扎比地标"
+  ],
+  "included": [
+   "酒店往返接送",
+   "私人空调车辆",
+   "专业司机向导",
+   "5星级午餐（如选择该选项）"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费"
+  ]
+ },
+ "dubai-floating-sky-dining-with-hotel-transfers": {
+  "title": "迪拜：悬浮空中用餐，含酒店接送",
+  "metaTitle": "迪拜：悬浮空中用餐，含酒店接送",
+  "metaDescription": "一次半天的迪拜体验。在迪拜77层体验独特的悬浮用餐。由BFT GROUP提供。",
+  "shortDescription": "一次半天的迪拜体验。在迪拜77层体验独特的悬浮用餐。由BFT GROUP提供。",
+  "fullDescription": "一次半天的迪拜体验。在迪拜77层体验独特的悬浮用餐。\n\n由BFT GROUP负责安排，价格中含6项内容。可免费取消。\n\n价格包含4小时天空泳池使用权、77层悬浮用餐体验、预留的双人悬浮用餐布置、固定漂浮餐篮，含双人食品及饮品。不包含超出含漂浮餐篮以外额外点选的食品及饮品、个人消费、小费，请另行预算。两位旅客共同支付1352美元，而不是每人各付1183美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在迪拜77层体验独特的悬浮用餐"
+  ],
+  "included": [
+   "4小时天空泳池使用权",
+   "77层悬浮用餐体验",
+   "预留的双人悬浮用餐布置",
+   "固定漂浮餐篮，含双人食品及饮品"
+  ],
+  "notIncluded": [
+   "超出含漂浮餐篮以外额外点选的食品及饮品",
+   "个人消费",
+   "小费"
+  ]
+ },
  "abu-dhabi-island-adventure-with-snacks-water-sport": {
   "title": "阿布扎比岛屿探险（含小食及水上活动）",
   "metaTitle": "阿布扎比岛屿探险（含小食及水上活动）",
@@ -24388,6 +31615,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "含酒精饮品"
   ]
  },
+ "dubai-full-day-city-tour-with-souks-and-boat": {
+  "title": "迪拜：全天城市游览，含市集及乘船游览",
+  "metaTitle": "迪拜：全天城市游览，含市集及乘船游览",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Al Farooq Omar Bin Al Khattab Mosque, Burj Al Arab, Souk Madinat Jumeirah和The Palm Jumeirah。由Asif Travels and Tours提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Al Farooq Omar Bin Al Khattab Mosque, Burj Al Arab, Souk Madinat Jumeirah和The Palm Jumeirah。由Asif Travels and Tours提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Al Farooq Omar Bin Al Khattab Mosque, Burj Al Arab, Souk Madinat Jumeirah和The Palm Jumeirah。最长的一站是Mall of the Emirates，约1小时。全程共13站。\n\n行程顺序为Al Farooq Omar Bin Al Khattab Mosque (30 min), 然后 Burj Al Arab (10 min), 然后 Souk Madinat Jumeirah (30 min), 然后 The Palm Jumeirah (30 min), 然后 Mall of the Emirates (1h)。\n\n价格包含提供您偏好语言的专业导游、乘坐舒适空调车辆出行、参观美丽的法鲁克清真寺（蓝色清真寺）、麦迪娜朱美拉市集拍照停留，可观阿拉伯塔景色。不包含个人消费、向导及司机小费（可选），请另行预算。两位旅客共同支付1104美元，而不是每人各付1082美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Al Farooq Omar Bin Al Khattab Mosque, Burj Al Arab, Souk Madinat Jumeirah和The Palm Jumeirah。由Asif Travels and Tours提供。"
+  ],
+  "included": [
+   "提供您偏好语言的专业导游",
+   "乘坐舒适空调车辆出行",
+   "参观美丽的法鲁克清真寺（蓝色清真寺）",
+   "麦迪娜朱美拉市集拍照停留，可观阿拉伯塔景色"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "向导及司机小费（可选）"
+  ]
+ },
  "abu-dhabi-falcon-hospital-tour-with-hotel-pickup-d": {
   "title": "阿布扎比：猎鹰医院参观及酒店往返接送",
   "metaTitle": "阿布扎比：猎鹰医院参观及酒店往返接送",
@@ -24403,6 +31650,64 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "abu-dhabi-private-layover-city-tour-with-pickup-dr": {
+  "title": "阿布扎比：私人中转城市游览，含接送",
+  "metaTitle": "阿布扎比：私人中转城市游览，含接送",
+  "metaDescription": "一次半天的阿布扎比体验。利用中转时间，参加阿布扎比精华私人游览。由ARABIAN EXPLORE TOURS AND TRAVELS LLC提供。",
+  "shortDescription": "一次半天的阿布扎比体验。利用中转时间，参加阿布扎比精华私人游览。由ARABIAN EXPLORE TOURS AND TRAVELS LLC提供。",
+  "fullDescription": "一次半天的阿布扎比体验。利用中转时间，参加阿布扎比精华私人游览。\n\n由ARABIAN EXPLORE TOURS AND TRAVELS LLC负责安排，价格中含12项内容。可免费取消。\n\n价格包含私人交通、专业司机向导、机场或酒店接送、按行程所述的观光停留。不包含，请另行预算。两位旅客共同支付346美元，而不是每人各付346美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "利用中转时间，参加阿布扎比精华私人游览"
+  ],
+  "included": [
+   "私人交通",
+   "专业司机向导",
+   "机场或酒店接送",
+   "按行程所述的观光停留"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-marina-2-hours-yacht-tour-with-tropical-drin": {
+  "title": "迪拜码头2小时游艇游览，含热带饮品",
+  "metaTitle": "迪拜码头2小时游艇游览，含热带饮品",
+  "metaDescription": "一次2小时的迪拜体验。乘坐豪华游艇巡游迪拜码头，畔享热带饮品。由Kings and Queens Luxury Yachts提供。",
+  "shortDescription": "一次2小时的迪拜体验。乘坐豪华游艇巡游迪拜码头，畔享热带饮品。由Kings and Queens Luxury Yachts提供。",
+  "fullDescription": "一次2小时的迪拜体验。乘坐豪华游艇巡游迪拜码头，畔享热带饮品。\n\n由Kings and Queens Luxury Yachts负责安排，价格中含10项内容。可免费取消。\n\n价格包含从迪拜码头出发、豪华游艇巡游、迪拜港及蓝水岛景观、沿JBR及棕榈岛的风景巡游。不包含，请另行预算。",
+  "highlights": [
+   "乘坐豪华游艇巡游迪拜码头，畔享热带饮品"
+  ],
+  "included": [
+   "从迪拜码头出发",
+   "豪华游艇巡游",
+   "迪拜港及蓝水岛景观",
+   "沿JBR及棕榈岛的风景巡游"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "from-dubai-sharjah-hidden-gems-east-coast-full-day": {
+  "title": "迪拜出发：沙迦隐藏亮点及东海岸全天游览",
+  "metaTitle": "迪拜出发：沙迦隐藏亮点及东海岸全天游览",
+  "metaDescription": "一次全天的迪拜体验。从迪拜出发的全天游览，探索阿联酋东部地区。由Whats Up Trip - F.Z.E提供。",
+  "shortDescription": "一次全天的迪拜体验。从迪拜出发的全天游览，探索阿联酋东部地区。由Whats Up Trip - F.Z.E提供。",
+  "fullDescription": "一次全天的迪拜体验。从迪拜出发的全天游览，探索阿联酋东部地区。\n\n由Whats Up Trip - F.Z.E负责安排，价格中含6项内容。可免费取消。\n\n价格包含从迪拜出发的酒店接送、私人空调车辆、专业司机向导、瓶装水。不包含午餐及个人消费、小费，请另行预算。两位旅客共同支付526美元，而不是每人各付526美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "从迪拜出发的全天游览，探索阿联酋东部地区"
+  ],
+  "included": [
+   "从迪拜出发的酒店接送",
+   "私人空调车辆",
+   "专业司机向导",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "午餐及个人消费",
+   "小费"
   ]
  },
  "dubai-30min-jet-ski-experience-with-burj-alarab-ph": {
@@ -24425,6 +31730,243 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食和饮品"
   ]
  },
+ "the-dubai-twilight-journey-with-hotel-pickup-and-d": {
+  "title": "迪拜黄昏之旅，含酒店接送",
+  "metaTitle": "迪拜黄昏之旅，含酒店接送",
+  "metaDescription": "一次从迪拜出发的半天行程，游览Sheikh Zayed Road, The Palm Jumeirah, Dubai Marina和Souk Madinat Jumeirah。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。",
+  "shortDescription": "一次从迪拜出发的半天行程，游览Sheikh Zayed Road, The Palm Jumeirah, Dubai Marina和Souk Madinat Jumeirah。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。",
+  "fullDescription": "一次从迪拜出发的半天行程，途经Sheikh Zayed Road, The Palm Jumeirah, Dubai Marina和Souk Madinat Jumeirah。最长的一站是Dubai Mall，约1小时。全程共9站。\n\n行程顺序为Sheikh Zayed Road (30 min), 然后 The Palm Jumeirah (10 min), 然后 Dubai Marina (15 min), 然后 Souk Madinat Jumeirah (15 min), 然后 Burj Al Arab (10 min)。\n\n价格包含酒店接送、空调车辆、专业司机兼向导、主要景点拍照停留。不包含个人消费、食品及饮品、门票（除特别说明外），请另行预算。两位旅客共同支付207美元，而不是每人各付207美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的半天行程，游览Sheikh Zayed Road, The Palm Jumeirah, Dubai Marina和Souk Madinat Jumeirah。由Desert Rose Tourism LLC L.L.C Dubai Branch提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "空调车辆",
+   "专业司机兼向导",
+   "主要景点拍照停留"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "食品及饮品",
+   "门票（除特别说明外）"
+  ]
+ },
+ "abu-dhabi-island-night-tour-private-beach-bbq-bonf": {
+  "title": "阿布扎比：海岛夜游，私人沙滩烧烤及篝火",
+  "metaTitle": "阿布扎比：海岛夜游，私人沙滩烧烤及篝火",
+  "metaDescription": "一次3小时的阿布扎比体验。在星空下享受私人海岛烧烤体验。由Sea Bird Island Cruises提供。",
+  "shortDescription": "一次3小时的阿布扎比体验。在星空下享受私人海岛烧烤体验。由Sea Bird Island Cruises提供。",
+  "fullDescription": "一次3小时的阿布扎比体验。在星空下享受私人海岛烧烤体验。\n\n由Sea Bird Island Cruises负责安排，价格中含12项内容。可免费取消。\n\n价格包含往返船只交通、可使用私人海岛沙滩、海滩烧烤晚餐、烤海鲜及本地菜品。不包含，请另行预算。",
+  "highlights": [
+   "在星空下享受私人海岛烧烤体验"
+  ],
+  "included": [
+   "往返船只交通",
+   "可使用私人海岛沙滩",
+   "海滩烧烤晚餐",
+   "烤海鲜及本地菜品"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-one-day-private-customizable-luxury-car-tour": {
+  "title": "迪拜一日私人定制豪华座驾游览",
+  "metaTitle": "迪拜一日私人定制豪华座驾游览",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Al Fahidi Historical Neighbourhood, Al Seef, Jumeirah Mosque和Coffee Museum, Dubai。由Japan Dream tours提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Al Fahidi Historical Neighbourhood, Al Seef, Jumeirah Mosque和Coffee Museum, Dubai。由Japan Dream tours提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Al Fahidi Historical Neighbourhood, Al Seef, Jumeirah Mosque和Coffee Museum, Dubai。最长的一站是Al Fahidi Historical Neighbourhood，约1小时。全程共5站。\n\n行程顺序为Al Fahidi Historical Neighbourhood (1h), 然后 Al Seef (1h), 然后 Jumeirah Mosque (1h), 然后 Coffee Museum, Dubai (1h), 然后 Love Lake - Al Qudra (1h)。\n\n价格包含参观法希迪历史街区、参观咖啡博物馆、乘坐阿布拉渡船横渡河道、探索德伊拉的市集。不包含个人消费、小费，请另行预算。两位旅客共同支付930美元，而不是每人各付930美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Al Fahidi Historical Neighbourhood, Al Seef, Jumeirah Mosque和Coffee Museum, Dubai。由Japan Dream tours提供。"
+  ],
+  "included": [
+   "参观法希迪历史街区",
+   "参观咖啡博物馆",
+   "乘坐阿布拉渡船横渡河道",
+   "探索德伊拉的市集"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费"
+  ]
+ },
+ "abu-dhabi-dubai-full-day-highlights-city-tour": {
+  "title": "阿布扎比与迪拜全天精华城市游览",
+  "metaTitle": "阿布扎比与迪拜全天精华城市游览",
+  "metaDescription": "一次全天的阿布扎比体验。在一次无缝体验中探索阿布扎比与迪拜。由Joyful Adventure提供。",
+  "shortDescription": "一次全天的阿布扎比体验。在一次无缝体验中探索阿布扎比与迪拜。由Joyful Adventure提供。",
+  "fullDescription": "一次全天的阿布扎比体验。在一次无缝体验中探索阿布扎比与迪拜。\n\n由Joyful Adventure负责安排，价格中含9项内容。可免费取消。\n\n价格包含酒店接送（迪拜）、持证专业英语向导、全程空调车辆、参观谢赫扎耶德大清真寺。不包含餐食及饮品、个人消费，请另行预算。",
+  "highlights": [
+   "在一次无缝体验中探索阿布扎比与迪拜"
+  ],
+  "included": [
+   "酒店接送（迪拜）",
+   "持证专业英语向导",
+   "全程空调车辆",
+   "参观谢赫扎耶德大清真寺"
+  ],
+  "notIncluded": [
+   "餐食及饮品",
+   "个人消费"
+  ]
+ },
+ "dubai-hosted-skyline-pool-experience-palm-observat": {
+  "title": "迪拜：专属主持天际线泳池体验及棕榈岛观景台",
+  "metaTitle": "迪拜：专属主持天际线泳池体验及棕榈岛观景台",
+  "metaDescription": "一次全天的迪拜体验。小团专属主持的天际线泳池体验。由Friends of Georgia提供。",
+  "shortDescription": "一次全天的迪拜体验。小团专属主持的天际线泳池体验。由Friends of Georgia提供。",
+  "fullDescription": "一次全天的迪拜体验。小团专属主持的天际线泳池体验。\n\n由Friends of Georgia负责安排，价格中含10项内容。可免费取消。\n\n价格包含可使用高端天际线泳池、棕榈岛瞭望台门票、小团专属主持体验、全程专属主持人陪同。不包含餐食和饮品、个人消费，请另行预算。",
+  "highlights": [
+   "小团专属主持的天际线泳池体验"
+  ],
+  "included": [
+   "可使用高端天际线泳池",
+   "棕榈岛瞭望台门票",
+   "小团专属主持体验",
+   "全程专属主持人陪同"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "个人消费"
+  ]
+ },
+ "abu-dhabi-hummer-safari-tour": {
+  "title": "阿布扎比悍马沙漠之旅",
+  "metaTitle": "阿布扎比悍马沙漠之旅",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览Jeep / SUV, Al Khatim Desert, Al Khatim Desert和Al Khatim Desert。由Desire Hub Tourism LLC提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览Jeep / SUV, Al Khatim Desert, Al Khatim Desert和Al Khatim Desert。由Desire Hub Tourism LLC提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Jeep / SUV, Al Khatim Desert, Al Khatim Desert和Al Khatim Desert。最长的一站是Al Khatim Desert，约2小时。全程共5站。\n\n行程顺序为Jeep / SUV (50 min), 然后 Al Khatim Desert (40 min), 然后 Al Khatim Desert (1h), 然后 Al Khatim Desert (2h), 然后 Jeep / SUV (1h)。\n\n价格包含8小时游览，乘坐悍马/SUV接送、专业司机带来精彩的冲沙体验、享用烧烤晚餐及传统表演、含骆驼骑行、滑沙。不包含，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览Jeep / SUV, Al Khatim Desert, Al Khatim Desert和Al Khatim Desert。由Desire Hub Tourism LLC提供。"
+  ],
+  "included": [
+   "8小时游览，乘坐悍马/SUV接送",
+   "专业司机带来精彩的冲沙体验",
+   "享用烧烤晚餐及传统表演",
+   "含骆驼骑行、滑沙"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-dhow-cruise-marina-with-buffet-dinner-and-sh": {
+  "title": "迪拜：码头传统木船巡游，含自助晚餐及表演",
+  "metaTitle": "迪拜：码头传统木船巡游，含自助晚餐及表演",
+  "metaDescription": "一次1.5小时的迪拜体验。品尝汇聚国际及本地美食的自助晚餐。由Buggy Explorers提供。",
+  "shortDescription": "一次1.5小时的迪拜体验。品尝汇聚国际及本地美食的自助晚餐。由Buggy Explorers提供。",
+  "fullDescription": "一次1.5小时的迪拜体验。品尝汇聚国际及本地美食的自助晚餐。\n\n由Buggy Explorers负责安排，价格中含5项内容。可免费取消。\n\n价格包含传统木船巡游、丰盛自助晚餐、现场表演、动人音乐。不包含含酒精饮品、酒店接送、小费，请另行预算。",
+  "highlights": [
+   "品尝汇聚国际及本地美食的自助晚餐"
+  ],
+  "included": [
+   "传统木船巡游",
+   "丰盛自助晚餐",
+   "现场表演",
+   "动人音乐"
+  ],
+  "notIncluded": [
+   "含酒精饮品",
+   "酒店接送",
+   "小费"
+  ]
+ },
+ "dubai-jet-ski-tour-ride-dubai": {
+  "title": "迪拜水上摩托艇游览",
+  "metaTitle": "迪拜水上摩托艇游览",
+  "metaDescription": "一次从迪拜出发的0.5小时行程，游览Ain Dubai和Burj Al Arab。由Waterlink提供。",
+  "shortDescription": "一次从迪拜出发的0.5小时行程，游览Ain Dubai和Burj Al Arab。由Waterlink提供。",
+  "fullDescription": "一次从迪拜出发的0.5小时行程，途经Ain Dubai和Burj Al Arab。最长的一站是Burj Al Arab，约1小时。全程共2站。\n\n行程顺序为Ain Dubai (30 min), 然后 Burj Al Arab (1h)。\n\n价格包含30分钟、1小时或2小时水上摩托艇游览，按所选选项、可使用加满油的先进水上摩托艇、经验丰富的专业向导服务。不包含个人消费、毛巾及泳衣，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的0.5小时行程，游览Ain Dubai和Burj Al Arab。由Waterlink提供。"
+  ],
+  "included": [
+   "30分钟、1小时或2小时水上摩托艇游览，按所选选项",
+   "可使用加满油的先进水上摩托艇",
+   "经验丰富的专业向导服务"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "毛巾及泳衣"
+  ]
+ },
+ "dubai-desert-horseback-riding-experience": {
+  "title": "迪拜：沙漠骑马体验",
+  "metaTitle": "迪拜：沙漠骑马体验",
+  "metaDescription": "一次0.75小时的迪拜体验。在日出或日落时分穿越金色沙丘，感受骑行的刺激。由M11 Equestrian Club提供。",
+  "shortDescription": "一次0.75小时的迪拜体验。在日出或日落时分穿越金色沙丘，感受骑行的刺激。由M11 Equestrian Club提供。",
+  "fullDescription": "一次0.75小时的迪拜体验。在日出或日落时分穿越金色沙丘，感受骑行的刺激。\n\n由M11 Equestrian Club负责安排，价格中含5项内容。可免费取消。\n\n价格包含骑马体验、专业教练、照片及视频（使用您自己的手机拍摄）、安全头盔。不包含前往目的地的交通、餐食和饮品，请另行预算。",
+  "highlights": [
+   "在日出或日落时分穿越金色沙丘，感受骑行的刺激"
+  ],
+  "included": [
+   "骑马体验",
+   "专业教练",
+   "照片及视频（使用您自己的手机拍摄）",
+   "安全头盔"
+  ],
+  "notIncluded": [
+   "前往目的地的交通",
+   "餐食和饮品"
+  ]
+ },
+ "dubai-dinner-cruise-with-tanoura-dance-show": {
+  "title": "迪拜：晚餐巡游，含坦努拉舞表演",
+  "metaTitle": "迪拜：晚餐巡游，含坦努拉舞表演",
+  "metaDescription": "一次2小时的迪拜体验。品尝丰富多样的美味自助晚餐。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "shortDescription": "一次2小时的迪拜体验。品尝丰富多样的美味自助晚餐。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "fullDescription": "一次2小时的迪拜体验。品尝丰富多样的美味自助晚餐。\n\n由ARABIAN DESTINATION TOURISM L.L.C负责安排，价格中含7项内容。可免费取消。\n\n价格包含1.5小时阿尔西夫沿岸巡游、欢迎饮品及开胃小食、欧陆自助晚餐、无限畅饮软饮及水。不包含额外项目，摄影师拍摄的照片需额外付费，是否购买由您自行决定、现场鲜榨果汁吧，请另行预算。",
+  "highlights": [
+   "品尝丰富多样的美味自助晚餐"
+  ],
+  "included": [
+   "1.5小时阿尔西夫沿岸巡游",
+   "欢迎饮品及开胃小食",
+   "欧陆自助晚餐",
+   "无限畅饮软饮及水"
+  ],
+  "notIncluded": [
+   "额外项目，摄影师拍摄的照片需额外付费，是否购买由您自行决定",
+   "现场鲜榨果汁吧"
+  ]
+ },
+ "abu-dhabi-emirati-house-experience-with-traditiona": {
+  "title": "阿布扎比：阿联酋传统民居体验，含传统美食",
+  "metaTitle": "阿布扎比：阿联酋传统民居体验，含传统美食",
+  "metaDescription": "一次3小时的阿布扎比体验。在传统阿联酋家庭中品尝家庭自制美食。由Tours By Emirati提供。",
+  "shortDescription": "一次3小时的阿布扎比体验。在传统阿联酋家庭中品尝家庭自制美食。由Tours By Emirati提供。",
+  "fullDescription": "一次3小时的阿布扎比体验。在传统阿联酋家庭中品尝家庭自制美食。\n\n由Tours By Emirati负责安排，价格中含4项内容。可免费取消。\n\n价格包含家庭自制传统美食、传统甜点、阿联酋阿拉伯咖啡、阿联酋主持及向导。不包含交通（如选择该选项），请另行预算。",
+  "highlights": [
+   "在传统阿联酋家庭中品尝家庭自制美食"
+  ],
+  "included": [
+   "家庭自制传统美食",
+   "传统甜点",
+   "阿联酋阿拉伯咖啡",
+   "阿联酋主持及向导"
+  ],
+  "notIncluded": [
+   "交通（如选择该选项）"
+  ]
+ },
+ "flying-dress-photoshoot-in-dubai": {
+  "title": "迪拜飘纱长裙拍摄体验",
+  "metaTitle": "迪拜飘纱长裙拍摄体验",
+  "metaDescription": "一次1小时的迪拜体验。身穿飘纱长裙在哈利法塔前摆拍，感受模特般的优雅。由Dubai Photoshooting提供。",
+  "shortDescription": "一次1小时的迪拜体验。身穿飘纱长裙在哈利法塔前摆拍，感受模特般的优雅。由Dubai Photoshooting提供。",
+  "fullDescription": "一次1小时的迪拜体验。身穿飘纱长裙在哈利法塔前摆拍，感受模特般的优雅。\n\n由Dubai Photoshooting负责安排，价格中含5项内容。可免费取消。\n\n价格包含1件飘纱长裙、1小时拍摄、所有原始照片、10张精修照片。不包含，请另行预算。两位旅客共同支付575美元，而不是每人各付575美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "身穿飘纱长裙在哈利法塔前摆拍，感受模特般的优雅"
+  ],
+  "included": [
+   "1件飘纱长裙",
+   "1小时拍摄",
+   "所有原始照片",
+   "10张精修照片"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "abu-dhabi-jet-ski-experience-at-radisson-blu": {
   "title": "阿布扎比：丽笙蓝光酒店摩托艇体验",
   "metaTitle": "阿布扎比：丽笙蓝光酒店摩托艇体验",
@@ -24442,6 +31984,102 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "dubai-jbr-palm-views-parasailing-for-couples": {
+  "title": "迪拜：情侣滑翔伞体验，可观JBR及棕榈岛景色",
+  "metaTitle": "迪拜：情侣滑翔伞体验，可观JBR及棕榈岛景色",
+  "metaDescription": "一次1小时的迪拜体验。在迪拜与伴侣一起体验滑翔伞的刺激。由Sealife Watersports Equipment Rental LLC提供。",
+  "shortDescription": "一次1小时的迪拜体验。在迪拜与伴侣一起体验滑翔伞的刺激。由Sealife Watersports Equipment Rental LLC提供。",
+  "fullDescription": "一次1小时的迪拜体验。在迪拜与伴侣一起体验滑翔伞的刺激。\n\n由Sealife Watersports Equipment Rental LLC负责安排，价格中含3项内容。可免费取消。\n\n价格包含滑翔伞体验、定制爱心造型降落伞、JBR、迪拜码头及棕榈岛的全景。不包含往返接送，请另行预算。",
+  "highlights": [
+   "在迪拜与伴侣一起体验滑翔伞的刺激"
+  ],
+  "included": [
+   "滑翔伞体验",
+   "定制爱心造型降落伞",
+   "JBR、迪拜码头及棕榈岛的全景"
+  ],
+  "notIncluded": [
+   "往返接送"
+  ]
+ },
+ "dubais-viral-flower-bath-and-massage-at-oasis-mall": {
+  "title": "迪拜爆款花瓣浴与按摩，地点绿洲购物中心",
+  "metaTitle": "迪拜爆款花瓣浴与按摩，地点绿洲购物中心",
+  "metaDescription": "一次1.5小时的迪拜体验。享受60分钟芳香疗法或深层组织按摩。由Soul Senses - Oasis Mall提供。",
+  "shortDescription": "一次1.5小时的迪拜体验。享受60分钟芳香疗法或深层组织按摩。由Soul Senses - Oasis Mall提供。",
+  "fullDescription": "一次1.5小时的迪拜体验。享受60分钟芳香疗法或深层组织按摩。\n\n由Soul Senses - Oasis Mall负责安排，价格中含7项内容。可免费取消。\n\n价格包含60分钟放松理疗（抵达后可任选一项）、传统泰式按摩、30分钟花瓣浴仪式、可使用蒸汽房及桑拿房。不包含交通接送，请另行预算。",
+  "highlights": [
+   "享受60分钟芳香疗法或深层组织按摩"
+  ],
+  "included": [
+   "60分钟放松理疗（抵达后可任选一项）",
+   "传统泰式按摩",
+   "30分钟花瓣浴仪式",
+   "可使用蒸汽房及桑拿房"
+  ],
+  "notIncluded": [
+   "交通接送"
+  ]
+ },
+ "dubai-overnight-desert-safari-camping-adventure": {
+  "title": "迪拜过夜沙漠之旅及露营冒险",
+  "metaTitle": "迪拜过夜沙漠之旅及露营冒险",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Ras al-Khaimah和Jabal Jais。由OceanAir Travels提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Ras al-Khaimah和Jabal Jais。由OceanAir Travels提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Ras al-Khaimah和Jabal Jais。最长的一站是Jabal Jais，约12小时。全程共2站。\n\n行程顺序为Ras al-Khaimah (2h), 然后 Jabal Jais (12h)。\n\n价格包含在露天星空下观星、露营椅、帐篷、木炭。不包含包含项目中未提及的内容均不含在内，请另行预算。两位旅客共同支付484美元，而不是每人各付484美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Ras al-Khaimah和Jabal Jais。由OceanAir Travels提供。"
+  ],
+  "included": [
+   "在露天星空下观星",
+   "露营椅",
+   "帐篷",
+   "木炭"
+  ],
+  "notIncluded": [
+   "包含项目中未提及的内容均不含在内"
+  ]
+ },
+ "dubai-private-selfdrive-bbq-boat-including-premium": {
+  "title": "迪拜：私人自驾烧烤游船，含高级烧烤",
+  "metaTitle": "迪拜：私人自驾烧烤游船，含高级烧烤",
+  "metaDescription": "一次从迪拜出发的1.5小时行程，游览Dubai Creek Harbour。由BBQ-Dubai提供。",
+  "shortDescription": "一次从迪拜出发的1.5小时行程，游览Dubai Creek Harbour。由BBQ-Dubai提供。",
+  "fullDescription": "一次从迪拜出发的1.5小时行程，途经Dubai Creek Harbour。\n\n价格包含迪拜河私人烧烤游船，90分钟或120分钟（2小时）可选、全私人游船，您既是主厨也是船长、每人含标准菜单（可升级至高级或VIP菜单）、配菜及每人3杯软饮。不包含前往目的地的交通，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的1.5小时行程，游览Dubai Creek Harbour。由BBQ-Dubai提供。"
+  ],
+  "included": [
+   "迪拜河私人烧烤游船，90分钟或120分钟（2小时）可选",
+   "全私人游船，您既是主厨也是船长",
+   "每人含标准菜单（可升级至高级或VIP菜单）",
+   "配菜及每人3杯软饮"
+  ],
+  "notIncluded": [
+   "前往目的地的交通"
+  ]
+ },
+ "dubai-desert-safari-overnight-stay-sunrise-balloon": {
+  "title": "迪拜沙漠之旅：过夜住宿及日出热气球飞行",
+  "metaTitle": "迪拜沙漠之旅：过夜住宿及日出热气球飞行",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。由Balloon Flights提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Jeep / SUV, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。由Balloon Flights提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Jeep / SUV, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。最长的一站是Dubai Desert Conservation Reserve，约10小时。全程共3站。\n\n行程顺序为Jeep / SUV (1h), 然后 Dubai Desert Conservation Reserve (4h), 然后 Dubai Desert Conservation Reserve (10h)。\n\n价格包含迪拜市内接送、头巾/围巾纪念品、复古路虎车自然观光驾驶、保护区内观察野生动物（阿拉伯羚羊）。不包含小费、照片及视频、私人座驾交通，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Jeep / SUV, Dubai Desert Conservation Reserve和Dubai Desert Conservation Reserve。由Balloon Flights提供。"
+  ],
+  "included": [
+   "迪拜市内接送",
+   "头巾/围巾纪念品",
+   "复古路虎车自然观光驾驶",
+   "保护区内观察野生动物（阿拉伯羚羊）"
+  ],
+  "notIncluded": [
+   "小费",
+   "照片及视频",
+   "私人座驾交通"
   ]
  },
  "dubai-private-yacht-charter-with-music-hotel-picku": {
@@ -24463,6 +32101,45 @@ export const ZH_TOURS: Record<string, TourT> = {
    "含酒精饮品"
   ]
  },
+ "catamaran-island-cruise-abudhabi-5-hours-package": {
+  "title": "阿布扎比双体船海岛巡游，5小时套餐",
+  "metaTitle": "阿布扎比双体船海岛巡游，5小时套餐",
+  "metaDescription": "一次半天的阿布扎比体验。适合团体聚会。由SEA SAFARI CRUISES ABU DHABI提供。",
+  "shortDescription": "一次半天的阿布扎比体验。适合团体聚会。由SEA SAFARI CRUISES ABU DHABI提供。",
+  "fullDescription": "一次半天的阿布扎比体验。适合团体聚会。\n\n由SEA SAFARI CRUISES ABU DHABI负责安排，价格中含5项内容。可免费取消。\n\n价格包含水及软饮、简便小食、摩托艇、漂浮泳池。不包含餐食点选（开胃小食菜单）需额外支付每人120迪拉姆、毛巾或个人使用用品，请另行预算。两位旅客共同支付3682美元，而不是每人各付3682美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "适合团体聚会"
+  ],
+  "included": [
+   "水及软饮",
+   "简便小食",
+   "摩托艇",
+   "漂浮泳池"
+  ],
+  "notIncluded": [
+   "餐食点选（开胃小食菜单）需额外支付每人120迪拉姆",
+   "毛巾或个人使用用品"
+  ]
+ },
+ "dubai-water-canal-yacht-cruise-with-drinks-iconic-": {
+  "title": "迪拜水道游艇巡游，含饮品及标志性景观",
+  "metaTitle": "迪拜水道游艇巡游，含饮品及标志性景观",
+  "metaDescription": "一次1小时的迪拜体验。沿迪拜水道滑行，感受清凉的海风。由Xclusive Yachts提供。",
+  "shortDescription": "一次1小时的迪拜体验。沿迪拜水道滑行，感受清凉的海风。由Xclusive Yachts提供。",
+  "fullDescription": "一次1小时的迪拜体验。沿迪拜水道滑行，感受清凉的海风。\n\n由Xclusive Yachts负责安排，价格中含6项内容。可免费取消。\n\n价格包含1小时拼船游艇巡游、迪拜市中心景观、哈利法塔景观、商业湾大桥景观。不包含餐食及额外饮品，请另行预算。",
+  "highlights": [
+   "沿迪拜水道滑行，感受清凉的海风"
+  ],
+  "included": [
+   "1小时拼船游艇巡游",
+   "迪拜市中心景观",
+   "哈利法塔景观",
+   "商业湾大桥景观"
+  ],
+  "notIncluded": [
+   "餐食及额外饮品"
+  ]
+ },
  "dubai-vip-desert-safari-quad-bike-camel-ride-bbq": {
   "title": "迪拜：VIP沙漠越野、四驱摩托车、骑骆驼与烧烤晚餐",
   "metaTitle": "迪拜：VIP沙漠越野、四驱摩托车、骑骆驼与烧烤晚餐",
@@ -24480,6 +32157,46 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "evening-abu-dhabi-city-tour-with-corniche-and-mosq": {
+  "title": "阿布扎比夜间城市游览，含海滨大道及清真寺参观",
+  "metaTitle": "阿布扎比夜间城市游览，含海滨大道及清真寺参观",
+  "metaDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, Saadiyat Island, Emirates Palace和Qasr Al Watan。由Nord Ashtaa提供。",
+  "shortDescription": "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, Saadiyat Island, Emirates Palace和Qasr Al Watan。由Nord Ashtaa提供。",
+  "fullDescription": "一次从阿布扎比出发的半天行程，途经Sheikh Zayed Mosque, Saadiyat Island, Emirates Palace和Qasr Al Watan。最长的一站是Sheikh Zayed Mosque，约1小时。全程共7站。\n\n行程顺序为Sheikh Zayed Mosque (1h), 然后 Saadiyat Island, 然后 Emirates Palace, 然后 Qasr Al Watan, 然后 The Corniche, Abu Dhabi (1h)。\n\n价格包含酒店接送、专业双语向导（英语/德语，德语仅限周五提供）、大清真寺门票、空调交通工具。不包含餐食及饮品、小费及个人消费，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的半天行程，游览Sheikh Zayed Mosque, Saadiyat Island, Emirates Palace和Qasr Al Watan。由Nord Ashtaa提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "专业双语向导（英语/德语，德语仅限周五提供）",
+   "大清真寺门票",
+   "空调交通工具"
+  ],
+  "notIncluded": [
+   "餐食及饮品",
+   "小费及个人消费"
+  ]
+ },
+ "sheikh-zayed-grand-mosque-full-day-tour-from-abu": {
+  "title": "阿布扎比出发：谢赫扎耶德大清真寺全天游览",
+  "metaTitle": "阿布扎比出发：谢赫扎耶德大清真寺全天游览",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Heritage Village, Dubai和Local restaurant。由360 Adventures Tourism LLC提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Heritage Village, Dubai和Local restaurant。由360 Adventures Tourism LLC提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Heritage Village, Dubai和Local restaurant。最长的一站是Sheikh Zayed Mosque，约2小时。全程共5站。\n\n行程顺序为Sheikh Zayed Mosque (2h), 然后 The Corniche, Abu Dhabi (20 min), 然后 Heritage Village, Dubai (30 min), 然后 Local restaurant (1h), 然后 Dates Market, Abu Dhabi (30 min)。\n\n价格包含阿布扎比指定地点的接送、参观谢赫扎耶德大清真寺、参观阿布扎比传统村落、阿尔瓦坦宫拍照停留。不包含午餐、阿尔瓦坦宫门票，请另行预算。两位旅客共同支付553美元，而不是每人各付553美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Heritage Village, Dubai和Local restaurant。由360 Adventures Tourism LLC提供。"
+  ],
+  "included": [
+   "阿布扎比指定地点的接送",
+   "参观谢赫扎耶德大清真寺",
+   "参观阿布扎比传统村落",
+   "阿尔瓦坦宫拍照停留"
+  ],
+  "notIncluded": [
+   "午餐",
+   "阿尔瓦坦宫门票"
   ]
  },
  "burj-al-arab-tour-with-breakfast-photos-and-videos": {
@@ -24501,6 +32218,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "from-dubai-abu-dhabi-heritage-tour-al-hosn-village": {
+  "title": "迪拜出发：阿布扎比文化遗产游览，含艾尔霍森宫及传统村落",
+  "metaTitle": "迪拜出发：阿布扎比文化遗产游览，含艾尔霍森宫及传统村落",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Qasr Al Hosn, Abu Dhabi Heritage Village和Sheikh Zayed Mosque。由360 Adventures Tourism LLC提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Qasr Al Hosn, Abu Dhabi Heritage Village和Sheikh Zayed Mosque。由360 Adventures Tourism LLC提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Qasr Al Hosn, Abu Dhabi Heritage Village和Sheikh Zayed Mosque。全程共3站。\n\n行程顺序为Qasr Al Hosn, 然后 Abu Dhabi Heritage Village (30 min), 然后 Sheikh Zayed Mosque (30 min)。\n\n价格包含空调小型车接送、持证向导和专业司机、参观艾尔霍森宫、参观传统村落。不包含餐食、个人消费，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Qasr Al Hosn, Abu Dhabi Heritage Village和Sheikh Zayed Mosque。由360 Adventures Tourism LLC提供。"
+  ],
+  "included": [
+   "空调小型车接送",
+   "持证向导和专业司机",
+   "参观艾尔霍森宫",
+   "参观传统村落"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
+  ]
+ },
  "abu-dhabi-hudairiyat-island-horse-riding-experienc": {
   "title": "阿布扎比：胡代里亚特岛骑马体验",
   "metaTitle": "阿布扎比：胡代里亚特岛骑马体验",
@@ -24515,6 +32252,127 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "desert-safari-dubai-with-camel-ride-sandboarding-d": {
+  "title": "迪拜沙漠之旅：骆驼骑行、滑沙及晚餐",
+  "metaTitle": "迪拜沙漠之旅：骆驼骑行、滑沙及晚餐",
+  "metaDescription": "一次从迪拜出发的全天行程，游览Al Aweer。由Dream Journey提供。",
+  "shortDescription": "一次从迪拜出发的全天行程，游览Al Aweer。由Dream Journey提供。",
+  "fullDescription": "一次从迪拜出发的全天行程，途经Al Aweer。最长的一站是Al Aweer，约3小时。\n\n价格包含门到门酒店接送、经验丰富的司机、空调车、沙漠冲沙及越野体验。不包含酒精饮品、个人消费，请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的全天行程，游览Al Aweer。由Dream Journey提供。"
+  ],
+  "included": [
+   "门到门酒店接送",
+   "经验丰富的司机",
+   "空调车",
+   "沙漠冲沙及越野体验"
+  ],
+  "notIncluded": [
+   "酒精饮品",
+   "个人消费"
+  ]
+ },
+ "dubai-sunset-camel-trek-al-khayma-camp-stargazing-": {
+  "title": "迪拜：日落骆驼骑行、阿尔海玛营地、观星及烧烤",
+  "metaTitle": "迪拜：日落骆驼骑行、阿尔海玛营地、观星及烧烤",
+  "metaDescription": "一次半天的迪拜体验。骑乘骆驼穿越阿拉伯沙漠（每对情侣共乘1只骆驼）。由OceanAir Travels提供。",
+  "shortDescription": "一次半天的迪拜体验。骑乘骆驼穿越阿拉伯沙漠（每对情侣共乘1只骆驼）。由OceanAir Travels提供。",
+  "fullDescription": "一次半天的迪拜体验。骑乘骆驼穿越阿拉伯沙漠（每对情侣共乘1只骆驼）。\n\n由OceanAir Travels负责安排，价格中含12项内容。可免费取消。\n\n价格包含在您指定酒店的接送、乘坐空调车辆出行、持证英语司机、40分钟骆驼骑行。不包含滑沙、含酒精饮品、未提及的任何额外服务，请另行预算。",
+  "highlights": [
+   "骑乘骆驼穿越阿拉伯沙漠（每对情侣共乘1只骆驼）"
+  ],
+  "included": [
+   "在您指定酒店的接送",
+   "乘坐空调车辆出行",
+   "持证英语司机",
+   "40分钟骆驼骑行"
+  ],
+  "notIncluded": [
+   "滑沙",
+   "含酒精饮品",
+   "未提及的任何额外服务"
+  ]
+ },
+ "dubai-sheikh-zayed-mosque-warner-bros-w-transfer": {
+  "title": "迪拜：谢赫扎耶德清真寺及华纳兄弟世界，含接送",
+  "metaTitle": "迪拜：谢赫扎耶德清真寺及华纳兄弟世界，含接送",
+  "metaDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque和Warner Bros. World Abu Dhabi。由360 Adventures Tourism LLC提供。",
+  "shortDescription": "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque和Warner Bros. World Abu Dhabi。由360 Adventures Tourism LLC提供。",
+  "fullDescription": "一次从阿布扎比出发的全天行程，途经Sheikh Zayed Mosque和Warner Bros. World Abu Dhabi。最长的一站是Warner Bros. World Abu Dhabi，约4小时。全程共2站。\n\n行程顺序为Sheikh Zayed Mosque, 然后 Warner Bros. World Abu Dhabi (4h)。\n\n价格包含谢赫扎耶德清真寺门票、阿布扎比华纳兄弟世界门票、酒店接送、英语现场向导。不包含餐食及饮品、个人消费、纪念品，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的全天行程，游览Sheikh Zayed Mosque和Warner Bros. World Abu Dhabi。由360 Adventures Tourism LLC提供。"
+  ],
+  "included": [
+   "谢赫扎耶德清真寺门票",
+   "阿布扎比华纳兄弟世界门票",
+   "酒店接送",
+   "英语现场向导"
+  ],
+  "notIncluded": [
+   "餐食及饮品",
+   "个人消费",
+   "纪念品"
+  ]
+ },
+ "dubai-private-full-day-tour-of-all-7-emirates": {
+  "title": "迪拜：私人全天游览，游览全部7个酋长国",
+  "metaTitle": "迪拜：私人全天游览，游览全部7个酋长国",
+  "metaDescription": "一次全天的阿布扎比体验。惊叹于阿布扎比标志性的谢赫扎耶德大清真寺。由Wonder Bus Tours LLC提供。",
+  "shortDescription": "一次全天的阿布扎比体验。惊叹于阿布扎比标志性的谢赫扎耶德大清真寺。由Wonder Bus Tours LLC提供。",
+  "fullDescription": "一次全天的阿布扎比体验。惊叹于阿布扎比标志性的谢赫扎耶德大清真寺。\n\n由Wonder Bus Tours LLC负责安排，价格中含12项内容。可免费取消。\n\n价格包含参观全部7个酋长国、私人座驾及专业司机、各酋长国著名景点的拍照停留、欣赏迪拜酋长国地标。不包含餐食、可选景点的门票费用，请另行预算。两位旅客共同支付2703美元，而不是每人各付2703美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "惊叹于阿布扎比标志性的谢赫扎耶德大清真寺"
+  ],
+  "included": [
+   "参观全部7个酋长国",
+   "私人座驾及专业司机",
+   "各酋长国著名景点的拍照停留",
+   "欣赏迪拜酋长国地标"
+  ],
+  "notIncluded": [
+   "餐食",
+   "可选景点的门票费用"
+  ]
+ },
+ "dubai-dinner-in-the-sky-experience": {
+  "title": "迪拜：空中晚餐体验",
+  "metaTitle": "迪拜：空中晚餐体验",
+  "metaDescription": "一次1.5小时的迪拜体验。在距地面50米高空享用3道式餐食。由Dinner in the sky Dubai提供。",
+  "shortDescription": "一次1.5小时的迪拜体验。在距地面50米高空享用3道式餐食。由Dinner in the sky Dubai提供。",
+  "fullDescription": "一次1.5小时的迪拜体验。在距地面50米高空享用3道式餐食。\n\n由Dinner in the sky Dubai负责安排，价格中含5项内容。可免费取消。\n\n价格包含3道式菜单、选项1：安格斯牛肋排，前菜为意大利水牛芝士，主菜为配米饭的安格斯牛肋排（融入中东风味），甜点为巧克力球配冰淇淋、选项3：素食意式饺子或纯素笔尖面，可选白汁意式饺子（素食）或红汁笔尖面（纯素）、鲜榨果汁及软饮、咖啡和茶。不包含，请另行预算。",
+  "highlights": [
+   "在距地面50米高空享用3道式餐食"
+  ],
+  "included": [
+   "3道式菜单",
+   "选项1：安格斯牛肋排，前菜为意大利水牛芝士，主菜为配米饭的安格斯牛肋排（融入中东风味），甜点为巧克力球配冰淇淋",
+   "选项3：素食意式饺子或纯素笔尖面，可选白汁意式饺子（素食）或红汁笔尖面（纯素）",
+   "鲜榨果汁及软饮",
+   "咖啡和茶"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-dhow-cruise-with-dinner-and-live-shows": {
+  "title": "迪拜：传统木船巡游，含晚餐及现场表演",
+  "metaTitle": "迪拜：传统木船巡游，含晚餐及现场表演",
+  "metaDescription": "一次2小时的迪拜体验。沿迪拜河或码头巡游，感受清凉的海风。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "shortDescription": "一次2小时的迪拜体验。沿迪拜河或码头巡游，感受清凉的海风。由ARABIAN DESTINATION TOURISM L.L.C提供。",
+  "fullDescription": "一次2小时的迪拜体验。沿迪拜河或码头巡游，感受清凉的海风。\n\n由ARABIAN DESTINATION TOURISM L.L.C负责安排，价格中含7项内容。可免费取消。\n\n价格包含酒店接送（如选择该选项）、空调车辆接送（如选择该选项）、2小时传统木船观光巡游、阿尔西夫或码头（按所选选项）。不包含任何个人消费，请另行预算。",
+  "highlights": [
+   "沿迪拜河或码头巡游，感受清凉的海风"
+  ],
+  "included": [
+   "酒店接送（如选择该选项）",
+   "空调车辆接送（如选择该选项）",
+   "2小时传统木船观光巡游",
+   "阿尔西夫或码头（按所选选项）"
+  ],
+  "notIncluded": [
+   "任何个人消费"
   ]
  }
 };
