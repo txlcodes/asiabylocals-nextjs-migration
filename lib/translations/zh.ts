@@ -13751,6 +13751,65 @@ export const ZH_TOURS: Record<string, TourT> = {
    "旅行保险"
   ]
  },
+ "kandy-nuwara-eliya-or-ambewala-raiway-station": {
+  "title": "康提：努沃勒埃利耶或安贝沃拉火车站送达游览",
+  "metaTitle": "康提：努沃勒埃利耶或安贝沃拉火车站送达游览",
+  "metaDescription": "一次全天的Kandy体验。在宝石博物馆及蜡染工厂探索斯里兰卡传统工艺。由Ranweli Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。在宝石博物馆及蜡染工厂探索斯里兰卡传统工艺。由Ranweli Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。在宝石博物馆及蜡染工厂探索斯里兰卡传统工艺。\n\n由Ranweli Tours负责安排，价格中含10项内容。可免费取消。\n\n价格包含免费康提市区游览、从康提到努沃勒埃利耶或纳奴奥亚的接送、参观宝石及宝石学博物馆、参观木雕工坊。不包含餐食、个人消费、小费，请另行预算。两位旅客共同支付153美元，而不是每人各付153美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在宝石博物馆及蜡染工厂探索斯里兰卡传统工艺"
+  ],
+  "included": [
+   "免费康提市区游览",
+   "从康提到努沃勒埃利耶或纳奴奥亚的接送",
+   "参观宝石及宝石学博物馆",
+   "参观木雕工坊"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "小费"
+  ]
+ },
+ "kandy-sigiriya-dambulla-and-anuradhapura-day-tour": {
+  "title": "康提：锡吉里耶、丹布勒及阿努拉德普勒一日游",
+  "metaTitle": "康提：锡吉里耶、丹布勒及阿努拉德普勒一日游",
+  "metaDescription": "一次全天的Kandy体验。在传统香料园探索斯里兰卡香料的秘密。由Inpura Travels提供。",
+  "shortDescription": "一次全天的Kandy体验。在传统香料园探索斯里兰卡香料的秘密。由Inpura Travels提供。",
+  "fullDescription": "一次全天的Kandy体验。在传统香料园探索斯里兰卡香料的秘密。\n\n由Inpura Travels负责安排，价格中含8项内容。可免费取消。\n\n价格包含舒适的空调车辆、英语司机兼导游、岩石堡垒、古王国。不包含个人消费及游览期间的任何购物，请另行预算。两位旅客共同支付423美元，而不是每人各付423美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在传统香料园探索斯里兰卡香料的秘密"
+  ],
+  "included": [
+   "舒适的空调车辆",
+   "英语司机兼导游",
+   "岩石堡垒",
+   "古王国"
+  ],
+  "notIncluded": [
+   "个人消费及游览期间的任何购物"
+  ]
+ },
+ "ella-cinnamon-spice-garden-waterfall-tour": {
+  "title": "埃拉：肉桂、香料园及瀑布游览",
+  "metaTitle": "埃拉：肉桂、香料园及瀑布游览",
+  "metaDescription": "一次半天的Ella体验。体验传统肉桂制作工艺，品尝不同种类的肉桂茶。由Ranjani提供。",
+  "shortDescription": "一次半天的Ella体验。体验传统肉桂制作工艺，品尝不同种类的肉桂茶。由Ranjani提供。",
+  "fullDescription": "一次半天的Ella体验。体验传统肉桂制作工艺，品尝不同种类的肉桂茶。\n\n由Ranjani负责安排，价格中含5项内容。可免费取消。\n\n价格包含从埃拉汽车站出发，吉普车往返全部活动地点、肉桂园、香料园、瀑布门票。不包含午餐，请另行预算。",
+  "highlights": [
+   "体验传统肉桂制作工艺，品尝不同种类的肉桂茶"
+  ],
+  "included": [
+   "从埃拉汽车站出发，吉普车往返全部活动地点",
+   "肉桂园",
+   "香料园",
+   "瀑布门票"
+  ],
+  "notIncluded": [
+   "午餐"
+  ]
+ },
  "ella-private-day-tour-from-kandy-with-scenic": {
   "title": "康提出发：埃拉私人一日游，含风光火车之旅",
   "metaTitle": "康提出发：埃拉私人一日游，含风光火车之旅",
@@ -13844,6 +13903,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "sigiriya-and-kandy-2-day-private-tour-with": {
+  "title": "锡吉里耶及康提2日私人游览，含住宿",
+  "metaTitle": "锡吉里耶及康提2日私人游览，含住宿",
+  "metaDescription": "一次从Kandy出发的2天行程，游览Sigiriya Lion Rock, Dambulla Royal Cave Temple and Golden Temple, Hiriwadunna和Habarana Elephant Safari。由Ceylon Paradise Travels提供。",
+  "shortDescription": "一次从Kandy出发的2天行程，游览Sigiriya Lion Rock, Dambulla Royal Cave Temple and Golden Temple, Hiriwadunna和Habarana Elephant Safari。由Ceylon Paradise Travels提供。",
+  "fullDescription": "一次从Kandy出发的2天行程，途经Sigiriya Lion Rock, Dambulla Royal Cave Temple and Golden Temple, Hiriwadunna和Habarana Elephant Safari。最长的一站是Habarana Elephant Safari，约3小时。全程共9站。\n\n行程顺序为Sigiriya Lion Rock (2h), 然后 Dambulla Royal Cave Temple and Golden Temple (2h), 然后 Hiriwadunna (2h), 然后 Habarana Elephant Safari (3h), 然后 Sigiriya。\n\n价格包含2日专属导游私人游览、豪华住宿，含半膳、乘舒适车辆的私人交通、停车费及通行费。不包含午餐、个人消费、小费，请另行预算。两位旅客共同支付935美元，而不是每人各付851美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的2天行程，游览Sigiriya Lion Rock, Dambulla Royal Cave Temple and Golden Temple, Hiriwadunna和Habarana Elephant Safari。由Ceylon Paradise Travels提供。"
+  ],
+  "included": [
+   "2日专属导游私人游览",
+   "豪华住宿，含半膳",
+   "乘舒适车辆的私人交通",
+   "停车费及通行费"
+  ],
+  "notIncluded": [
+   "午餐",
+   "个人消费",
+   "小费"
+  ]
+ },
  "knuckles-mountain-range-kotaganga-waterfall-chain": {
   "title": "纳克勒斯山脉：科塔甘加瀑布链徒步",
   "metaTitle": "纳克勒斯山脉：科塔甘加瀑布链徒步",
@@ -13858,6 +13938,46 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "小费"
+  ]
+ },
+ "colombo-food-tasting-city-tour-by-tuk-tuk-food": {
+  "title": "科伦坡美食品尝及市区游览，乘嘟嘟车（含美食）",
+  "metaTitle": "科伦坡美食品尝及市区游览，乘嘟嘟车（含美食）",
+  "metaDescription": "一次从Colombo出发的3小时行程，游览Colombo。由Glory Tour by Tuk Tuk提供。",
+  "shortDescription": "一次从Colombo出发的3小时行程，游览Colombo。由Glory Tour by Tuk Tuk提供。",
+  "fullDescription": "一次从Colombo出发的3小时行程，途经Colombo。\n\n价格包含国王椰子、瓶装水、停车票、免费无线网络。不包含不含、门票、午餐或晚餐，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的3小时行程，游览Colombo。由Glory Tour by Tuk Tuk提供。"
+  ],
+  "included": [
+   "国王椰子",
+   "瓶装水",
+   "停车票",
+   "免费无线网络"
+  ],
+  "notIncluded": [
+   "不含",
+   "门票",
+   "午餐或晚餐"
+  ]
+ },
+ "historicalcultural-and-natural-aesthetic-tour": {
+  "title": "康提周边历史、文化及自然美景游览",
+  "metaTitle": "康提周边历史、文化及自然美景游览",
+  "metaDescription": "一次从Kandy出发的半天行程，游览Tuk tuk。由Tours by Harsha - Travel in Sri Lanka提供。",
+  "shortDescription": "一次从Kandy出发的半天行程，游览Tuk tuk。由Tours by Harsha - Travel in Sri Lanka提供。",
+  "fullDescription": "一次从Kandy出发的半天行程，途经Tuk tuk。\n\n由Tours by Harsha - Travel in Sri Lanka负责安排，价格中含12项内容。可免费取消。探索联合国教科文组织世界遗产康提市。\n\n价格包含康提导游讲解游览、参观佛牙寺、皇家花园探索、参观茶园。",
+  "highlights": [
+   "一次从Kandy出发的半天行程，游览Tuk tuk。由Tours by Harsha - Travel in Sri Lanka提供。"
+  ],
+  "included": [
+   "康提导游讲解游览",
+   "参观佛牙寺",
+   "皇家花园探索",
+   "参观茶园"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "from-ella-first-class-scenic-train-ticket-to-kandy": {
@@ -14067,6 +14187,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "from-colombo-udawalawe-park-and-elephant-transit": {
+  "title": "科伦坡出发：乌达瓦拉维公园及象孤儿转运中心",
+  "metaTitle": "科伦坡出发：乌达瓦拉维公园及象孤儿转运中心",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Udawalawa National Park。由Ceylon Traveline (PVT) LTD提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Udawalawa National Park。由Ceylon Traveline (PVT) LTD提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Udawalawa National Park。最长的一站是Udawalawa National Park，约3小时。\n\n由Ceylon Traveline (PVT) LTD负责安排，价格中含10项内容。可免费取消。在乌达瓦拉维国家公园野生动物园之旅中观赏自然栖息地的象群。\n\n价格包含导游带领的乌达瓦拉维国家公园野生动物园之旅、科伦坡酒店接送、乌达瓦拉维国家公园门票费用、参观象孤儿转运中心门票费用。不包含午餐、个人消费、小费，请另行预算。两位旅客共同支付840美元，而不是每人各付639美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Udawalawa National Park。由Ceylon Traveline (PVT) LTD提供。"
+  ],
+  "included": [
+   "导游带领的乌达瓦拉维国家公园野生动物园之旅",
+   "科伦坡酒店接送",
+   "乌达瓦拉维国家公园门票费用",
+   "参观象孤儿转运中心门票费用"
+  ],
+  "notIncluded": [
+   "午餐",
+   "个人消费",
+   "小费"
+  ]
+ },
  "kandy-private-tuk-tuk-tour-with-temple-of-the": {
   "title": "康提：私人嘟嘟车之旅，含佛牙寺",
   "metaTitle": "康提：私人嘟嘟车之旅，含佛牙寺",
@@ -14085,6 +14226,71 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐食",
    "不含门票"
+  ]
+ },
+ "ella-all-inclusive-yala-half-day-leopard-safari": {
+  "title": "埃拉：全包雅拉半日豹野生动物园之旅，专享",
+  "metaTitle": "埃拉：全包雅拉半日豹野生动物园之旅，专享",
+  "metaDescription": "一次从Ella出发的全天行程，游览Yala National Park。由Sign of Lanka (Pvt) Ltd提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Yala National Park。由Sign of Lanka (Pvt) Ltd提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Yala National Park。\n\n价格包含野生动物园之旅的接送将根据距离安排野生动物园吉普车或舒适车辆、提供定制野生动物园吉普车，带来更好的观赏体验、雅拉国家公园野生动物园之旅（不含门票，可选择加购）、套餐已包含燃油附加费和司机费用，旅程轻松便捷、停车费。不包含在当地餐厅用午餐、雅拉国家公园门票费用（每人36美元）、个人消费，请另行预算。两位旅客共同支付440美元，而不是每人各付440美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Yala National Park。由Sign of Lanka (Pvt) Ltd提供。"
+  ],
+  "included": [
+   "野生动物园之旅的接送将根据距离安排野生动物园吉普车或舒适车辆",
+   "提供定制野生动物园吉普车，带来更好的观赏体验",
+   "雅拉国家公园野生动物园之旅（不含门票，可选择加购）",
+   "套餐已包含燃油附加费和司机费用，旅程轻松便捷",
+   "停车费"
+  ],
+  "notIncluded": [
+   "在当地餐厅用午餐",
+   "雅拉国家公园门票费用（每人36美元）",
+   "个人消费"
+  ]
+ },
+ "ella-little-adams-peak-9-arch-bridge-ravana-falls": {
+  "title": "埃拉：小亚当峰、9拱桥及拉瓦纳瀑布游览",
+  "metaTitle": "埃拉：小亚当峰、9拱桥及拉瓦纳瀑布游览",
+  "metaDescription": "一次从Ella出发的半天行程，游览Tuk tuk, Little Adam's Peak, Tuk tuk和Ravana Falls。由Ella Tuk Tuk Safari提供。",
+  "shortDescription": "一次从Ella出发的半天行程，游览Tuk tuk, Little Adam's Peak, Tuk tuk和Ravana Falls。由Ella Tuk Tuk Safari提供。",
+  "fullDescription": "一次从Ella出发的半天行程，途经Tuk tuk, Little Adam's Peak, Tuk tuk和Ravana Falls。最长的一站是Tuk tuk，约1小时。全程共7站。\n\n行程顺序为Tuk tuk (30 min), 然后 Little Adam's Peak, 然后 Tuk tuk (40 min), 然后 Ravana Falls (30 min), 然后 Tuk tuk (1h)。\n\n价格包含全天嘟嘟车游览、参观小亚当峰、参观九拱桥、哈佩瓦特茶厂游览。不包含餐食、门票费用，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的半天行程，游览Tuk tuk, Little Adam's Peak, Tuk tuk和Ravana Falls。由Ella Tuk Tuk Safari提供。"
+  ],
+  "included": [
+   "全天嘟嘟车游览",
+   "参观小亚当峰",
+   "参观九拱桥",
+   "哈佩瓦特茶厂游览"
+  ],
+  "notIncluded": [
+   "餐食",
+   "门票费用"
+  ]
+ },
+ "negombo-colombo-all-inclusive-sigiriya": {
+  "title": "尼甘布/科伦坡：全包锡吉里耶及波隆纳鲁沃一日游",
+  "metaTitle": "尼甘布/科伦坡：全包锡吉里耶及波隆纳鲁沃一日游",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Sigiriya Fortress和Polonnaruwa Ancient City。由Sign of Lanka (Pvt) Ltd提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Sigiriya Fortress和Polonnaruwa Ancient City。由Sign of Lanka (Pvt) Ltd提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Sigiriya Fortress和Polonnaruwa Ancient City。全程共2站。\n\n行程顺序为Sigiriya Fortress, 然后 Polonnaruwa Ancient City。\n\n价格包含豪华空调私人车辆往返酒店接送、观光期间的英语/德语导游、套餐已包含燃油附加费和司机费用，确保旅程轻松舒适、无需额外操心、放心，停车费也已包含在内，让您无需操心额外费用，专心享受行程、行程全程提供免费茶点和饮用水，让您保持清爽、套餐已包含所有政府税费，价格透明，让您安心无忧。不包含锡吉里耶狮子岩门票费用（每人36美元）、波隆纳鲁沃古城（每人30美元）、在当地餐厅用午餐，请另行预算。两位旅客共同支付575美元，而不是每人各付491美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Sigiriya Fortress和Polonnaruwa Ancient City。由Sign of Lanka (Pvt) Ltd提供。"
+  ],
+  "included": [
+   "豪华空调私人车辆往返酒店接送",
+   "观光期间的英语/德语导游",
+   "套餐已包含燃油附加费和司机费用，确保旅程轻松舒适、无需额外操心",
+   "放心，停车费也已包含在内，让您无需操心额外费用，专心享受行程",
+   "行程全程提供免费茶点和饮用水，让您保持清爽",
+   "套餐已包含所有政府税费，价格透明，让您安心无忧"
+  ],
+  "notIncluded": [
+   "锡吉里耶狮子岩门票费用（每人36美元）",
+   "波隆纳鲁沃古城（每人30美元）",
+   "在当地餐厅用午餐"
   ]
  },
  "from-colombo-wilpattu-national-park-safari": {
@@ -14108,6 +14314,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "午餐"
   ]
  },
+ "tuk-trip-is-very-cheap-in-colombo-all-inclusive": {
+  "title": "科伦坡嘟嘟车之旅超值实惠（全包）市区游览",
+  "metaTitle": "科伦坡嘟嘟车之旅超值实惠（全包）市区游览",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Tuk tuk。由Sri Lanka car and private driver hire提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Tuk tuk。由Sri Lanka car and private driver hire提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Tuk tuk。\n\n由Sri Lanka car and private driver hire负责安排，价格中含9项内容。可免费取消。参观标志性的红色清真寺，这是一座引人注目的建筑珍宝。\n\n价格包含免费接送，科伦坡地区（港口、酒店、火车站等）、德语嘟嘟车司机兼导游、车上免费Wi-Fi、瓶装水。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Tuk tuk。由Sri Lanka car and private driver hire提供。"
+  ],
+  "included": [
+   "免费接送，科伦坡地区（港口、酒店、火车站等）",
+   "德语嘟嘟车司机兼导游",
+   "车上免费Wi-Fi",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "colombo-city-guided-evening-tour": {
   "title": "科伦坡市区导游讲解夜游",
   "metaTitle": "科伦坡市区导游讲解夜游",
@@ -14125,6 +14350,87 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "餐食"
+  ]
+ },
+ "from-kandy-sigiriya-rock-fortress-and-wildlife": {
+  "title": "康提出发：锡吉里耶狮子岩及野生动物园之旅",
+  "metaTitle": "康提出发：锡吉里耶狮子岩及野生动物园之旅",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Sigiriya Museum, Sigiriya Fortress, Hurulu Forest Reserve and Dambulla Royal Cave Temple和Golden Temple。由Ceylon Traveline (PVT) LTD提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Sigiriya Museum, Sigiriya Fortress, Hurulu Forest Reserve and Dambulla Royal Cave Temple和Golden Temple。由Ceylon Traveline (PVT) LTD提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Sigiriya Museum, Sigiriya Fortress, Hurulu Forest Reserve and Dambulla Royal Cave Temple和Golden Temple。最长的一站是Hurulu Forest Reserve，约3小时。全程共4站。\n\n行程顺序为Sigiriya Museum (1h), 然后 Sigiriya Fortress (2h), 然后 Hurulu Forest Reserve (3h), 然后 Dambulla Royal Cave Temple and Golden Temple (1h)。\n\n价格包含专家导游、锡吉里耶狮子岩及博物馆门票费用、胡鲁鲁生态国家保护区野生动物园之旅、乘吉普车/SUV交通。不包含餐饮、个人消费、小费，请另行预算。两位旅客共同支付691美元，而不是每人各付558美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Sigiriya Museum, Sigiriya Fortress, Hurulu Forest Reserve and Dambulla Royal Cave Temple和Golden Temple。由Ceylon Traveline (PVT) LTD提供。"
+  ],
+  "included": [
+   "专家导游",
+   "锡吉里耶狮子岩及博物馆门票费用",
+   "胡鲁鲁生态国家保护区野生动物园之旅",
+   "乘吉普车/SUV交通"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "个人消费",
+   "小费"
+  ]
+ },
+ "from-tangallehiriketiya-yala-safari-with-drop-off": {
+  "title": "坦加拉/希里凯提亚出发：雅拉野生动物园之旅，送达埃拉",
+  "metaTitle": "坦加拉/希里凯提亚出发：雅拉野生动物园之旅，送达埃拉",
+  "metaDescription": "一次从Galle出发的半天行程，游览Yala National Park。由Ceylon Nature Tours提供。",
+  "shortDescription": "一次从Galle出发的半天行程，游览Yala National Park。由Ceylon Nature Tours提供。",
+  "fullDescription": "一次从Galle出发的半天行程，途经Yala National Park。最长的一站是Yala National Park，约4小时。\n\n价格包含免费接送（埃拉/坦加拉/希里凯提亚）、乘空调轿车交通、四驱野生动物园吉普车、导游/司机。不包含国家公园门票及服务费（每位成人40美元），请另行预算。",
+  "highlights": [
+   "一次从Galle出发的半天行程，游览Yala National Park。由Ceylon Nature Tours提供。"
+  ],
+  "included": [
+   "免费接送（埃拉/坦加拉/希里凯提亚）",
+   "乘空调轿车交通",
+   "四驱野生动物园吉普车",
+   "导游/司机"
+  ],
+  "notIncluded": [
+   "国家公园门票及服务费（每位成人40美元）"
+  ]
+ },
+ "from-sigiriya-6-day-sri-lanka-tour-with-yala": {
+  "title": "锡吉里耶出发：斯里兰卡6日游，含雅拉野生动物园之旅",
+  "metaTitle": "锡吉里耶出发：斯里兰卡6日游，含雅拉野生动物园之旅",
+  "metaDescription": "一次全天的Sigiriya体验。探索联合国教科文组织世界遗产古城波隆纳鲁沃。由Nkar Travels & Tours Pvt. Ltd提供。",
+  "shortDescription": "一次全天的Sigiriya体验。探索联合国教科文组织世界遗产古城波隆纳鲁沃。由Nkar Travels & Tours Pvt. Ltd提供。",
+  "fullDescription": "一次全天的Sigiriya体验。探索联合国教科文组织世界遗产古城波隆纳鲁沃。\n\n由Nkar Travels & Tours Pvt. Ltd负责安排，价格中含4项内容。可免费取消。\n\n价格包含乘空调车辆交通、机场迎接及协助、英语司机、瓶装水。不包含住宿、任何餐食、古迹/公园门票，请另行预算。两位旅客共同支付2191美元，而不是每人各付2191美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "探索联合国教科文组织世界遗产古城波隆纳鲁沃"
+  ],
+  "included": [
+   "乘空调车辆交通",
+   "机场迎接及协助",
+   "英语司机",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "住宿",
+   "任何餐食",
+   "古迹/公园门票"
+  ]
+ },
+ "mirissa-nilwala-river-bird-watching-and-crocodile": {
+  "title": "米瑞沙：尼尔瓦拉河观鸟及观鳄之旅",
+  "metaTitle": "米瑞沙：尼尔瓦拉河观鸟及观鳄之旅",
+  "metaDescription": "一次3小时的Mirissa体验。沿尼尔瓦拉河游船而下，寻觅自然栖息地的鳄鱼。由Ceylon Pass提供。",
+  "shortDescription": "一次3小时的Mirissa体验。沿尼尔瓦拉河游船而下，寻觅自然栖息地的鳄鱼。由Ceylon Pass提供。",
+  "fullDescription": "一次3小时的Mirissa体验。沿尼尔瓦拉河游船而下，寻觅自然栖息地的鳄鱼。\n\n由Ceylon Pass负责安排，价格中含4项内容。可免费取消。\n\n价格包含酒店接送（米瑞沙镇10英里范围内）、尼尔瓦拉河游船、现场导游、小吃。不包含小费（可选）、个人消费，请另行预算。两位旅客共同支付302美元，而不是每人各付162美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "沿尼尔瓦拉河游船而下，寻觅自然栖息地的鳄鱼"
+  ],
+  "included": [
+   "酒店接送（米瑞沙镇10英里范围内）",
+   "尼尔瓦拉河游船",
+   "现场导游",
+   "小吃"
+  ],
+  "notIncluded": [
+   "小费（可选）",
+   "个人消费"
   ]
  },
  "sri-lanka-12-day-round-tour-with-guide": {
@@ -14165,6 +14471,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "午餐"
+  ]
+ },
+ "from-kandy-kelani-river-white-water-rafting-day": {
+  "title": "康提出发：凯拉尼河激流漂筏一日游",
+  "metaTitle": "康提出发：凯拉尼河激流漂筏一日游",
+  "metaDescription": "一次全天的Kandy体验。挑战5个大急流及4个小急流，感受肾上腺素飙升。由Thara Lanka Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。挑战5个大急流及4个小急流，感受肾上腺素飙升。由Thara Lanka Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。挑战5个大急流及4个小急流，感受肾上腺素飙升。\n\n由Thara Lanka Tours负责安排，价格中含11项内容。可免费取消。\n\n价格包含康提酒店接送、参观茶厂、参观草药园、木雕屋。不包含个人消费，请另行预算。两位旅客共同支付296美元，而不是每人各付296美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "挑战5个大急流及4个小急流，感受肾上腺素飙升"
+  ],
+  "included": [
+   "康提酒店接送",
+   "参观茶厂",
+   "参观草药园",
+   "木雕屋"
+  ],
+  "notIncluded": [
+   "个人消费"
   ]
  },
  "2-day-scenic-tour-from-kandy-to-ramboda-nuwara": {
@@ -14230,6 +14555,44 @@ export const ZH_TOURS: Record<string, TourT> = {
    "不含延迟退房和提前入住的费用"
   ]
  },
+ "ella-tuk-tuk-tour-to-diyaluma-and-secret": {
+  "title": "埃拉：嘟嘟车游览，前往迪亚鲁玛及隐秘瀑布",
+  "metaTitle": "埃拉：嘟嘟车游览，前往迪亚鲁玛及隐秘瀑布",
+  "metaDescription": "一次从Ella出发的全天行程，游览Tuk tuk, Ravana Falls, Tuk tuk和Diyaluma Falls。由Ellataxilk提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Tuk tuk, Ravana Falls, Tuk tuk和Diyaluma Falls。由Ellataxilk提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Tuk tuk, Ravana Falls, Tuk tuk和Diyaluma Falls。最长的一站是Diyaluma Falls，约3小时。全程共4站。\n\n行程顺序为Tuk tuk (30 min), 然后 Ravana Falls (30 min), 然后 Tuk tuk (1h), 然后 Diyaluma Falls (3h)。\n\n价格包含嘟嘟车体验、导游、参观拉瓦纳瀑布、参观科斯兰达橡胶园。不包含迪亚鲁玛瀑布门票（每人350卢比），请另行预算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Tuk tuk, Ravana Falls, Tuk tuk和Diyaluma Falls。由Ellataxilk提供。"
+  ],
+  "included": [
+   "嘟嘟车体验",
+   "导游",
+   "参观拉瓦纳瀑布",
+   "参观科斯兰达橡胶园"
+  ],
+  "notIncluded": [
+   "迪亚鲁玛瀑布门票（每人350卢比）"
+  ]
+ },
+ "sri-lanka-cmb-colombo-airport-to-bentota-private": {
+  "title": "斯里兰卡（科伦坡机场）至本托塔私人接送",
+  "metaTitle": "斯里兰卡（科伦坡机场）至本托塔私人接送",
+  "metaDescription": "一次2小时的Colombo体验。与经验丰富的专业司机同行。由JLK Tours Pvt Ltd提供。",
+  "shortDescription": "一次2小时的Colombo体验。与经验丰富的专业司机同行。由JLK Tours Pvt Ltd提供。",
+  "fullDescription": "一次2小时的Colombo体验。与经验丰富的专业司机同行。\n\n由JLK Tours Pvt Ltd负责安排，价格中含6项内容。可免费取消。\n\n价格包含上门接客及时间安排、停车费及通行费、舒适的空调车辆、按时工作。",
+  "highlights": [
+   "与经验丰富的专业司机同行"
+  ],
+  "included": [
+   "上门接客及时间安排",
+   "停车费及通行费",
+   "舒适的空调车辆",
+   "按时工作"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "ella-one-day-tour-by-tuk-tuk": {
   "title": "埃拉：嘟嘟车一日游",
   "metaTitle": "埃拉：嘟嘟车一日游",
@@ -14288,6 +14651,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "ella-to-arugam-bay-930am-arugam-bay-to-ella": {
+  "title": "埃拉至阿鲁甘湾9.30am，阿鲁甘湾至埃拉1.30pm（每日）",
+  "metaTitle": "埃拉至阿鲁甘湾9.30am，阿鲁甘湾至埃拉1.30pm（每日）",
+  "metaDescription": "一次3小时的Ella体验。乘拼车单程出行。由Funky coco Ella (PVT) LTD提供。",
+  "shortDescription": "一次3小时的Ella体验。乘拼车单程出行。由Funky coco Ella (PVT) LTD提供。",
+  "fullDescription": "一次3小时的Ella体验。乘拼车单程出行。\n\n由Funky coco Ella (PVT) LTD负责安排，价格中含4项内容。可免费取消。\n\n价格包含埃拉酒店接客、送达酒店、行程含一瓶水、空调车辆。",
+  "highlights": [
+   "乘拼车单程出行"
+  ],
+  "included": [
+   "埃拉酒店接客",
+   "送达酒店",
+   "行程含一瓶水",
+   "空调车辆"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "from-sigiriya-kaudulla-national-park-half-day": {
   "title": "锡吉里耶出发：高杜拉国家公园半日吉普车野生动物园之旅",
   "metaTitle": "锡吉里耶出发：高杜拉国家公园半日吉普车野生动物园之旅",
@@ -14309,6 +14691,46 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费（可选）"
   ]
  },
+ "from-mirissa-weligama-udawalawe-safari-day-trip": {
+  "title": "米瑞沙/维利加马出发：乌达瓦拉维野生动物园一日游",
+  "metaTitle": "米瑞沙/维利加马出发：乌达瓦拉维野生动物园一日游",
+  "metaDescription": "一次全天的Mirissa体验。B、我们将从希卡杜瓦/加勒/米瑞沙或周边城镇的酒店接您。由Udawalawe Wild Safari Tours提供。",
+  "shortDescription": "一次全天的Mirissa体验。B、我们将从希卡杜瓦/加勒/米瑞沙或周边城镇的酒店接您。由Udawalawe Wild Safari Tours提供。",
+  "fullDescription": "一次全天的Mirissa体验。B、我们将从希卡杜瓦/加勒/米瑞沙或周边城镇的酒店接您。\n\n由Udawalawe Wild Safari Tours负责安排，价格中含6项内容。可免费取消。\n\n价格包含从米瑞沙、维利加马或周边地区出发的酒店接客、空调车辆接送、高速公路通行费（往返两程）、私人四驱野生动物园吉普车、经验丰富（超过10年）的司机兼导游。不包含国家公园门票，请另行预算。两位旅客共同支付267美元，而不是每人各付267美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "B、我们将从希卡杜瓦/加勒/米瑞沙或周边城镇的酒店接您"
+  ],
+  "included": [
+   "从米瑞沙、维利加马或周边地区出发的酒店接客",
+   "空调车辆接送",
+   "高速公路通行费（往返两程）",
+   "私人四驱野生动物园吉普车",
+   "经验丰富（超过10年）的司机兼导游"
+  ],
+  "notIncluded": [
+   "国家公园门票"
+  ]
+ },
+ "from-ella-yala-safari-with-tangallemirissagalle": {
+  "title": "埃拉出发：雅拉野生动物园之旅，送达坦加拉/米瑞沙/加勒",
+  "metaTitle": "埃拉出发：雅拉野生动物园之旅，送达坦加拉/米瑞沙/加勒",
+  "metaDescription": "一次从Ella出发的全天行程，游览Yala National Park。由Explore Sri Lanka Tours提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Yala National Park。由Explore Sri Lanka Tours提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Yala National Park。最长的一站是Yala National Park，约4小时。\n\n价格包含接送（埃拉/坦加拉/希里凯提亚/米瑞沙/乌纳瓦图纳/加勒）、乘空调轿车交通、四驱野生动物园吉普车、导游/司机。不包含国家公园门票（每人14000斯里兰卡卢比）、餐饮，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Yala National Park。由Explore Sri Lanka Tours提供。"
+  ],
+  "included": [
+   "接送（埃拉/坦加拉/希里凯提亚/米瑞沙/乌纳瓦图纳/加勒）",
+   "乘空调轿车交通",
+   "四驱野生动物园吉普车",
+   "导游/司机"
+  ],
+  "notIncluded": [
+   "国家公园门票（每人14000斯里兰卡卢比）",
+   "餐饮"
+  ]
+ },
  "explore-sri-lanka-one-day-city-tour-with-colombo": {
   "title": "探索斯里兰卡：科伦坡亮点一日城市游",
   "metaTitle": "探索斯里兰卡：科伦坡亮点一日城市游",
@@ -14328,6 +14750,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮",
    "个人消费",
    "不含旅游保险"
+  ]
+ },
+ "kandy-tuk-tuk-tour-with-ambuluwawa-tower-pinnawala": {
+  "title": "康提：嘟嘟车游览，含安布鲁瓦瓦塔及皮纳瓦拉",
+  "metaTitle": "康提：嘟嘟车游览，含安布鲁瓦瓦塔及皮纳瓦拉",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Bahirawakanda Temple, Kandy, Ambuluwawa Tower和Pinnawala Elephant Orphanage。由Lanka Budget Tours提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Bahirawakanda Temple, Kandy, Ambuluwawa Tower和Pinnawala Elephant Orphanage。由Lanka Budget Tours提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Bahirawakanda Temple, Kandy, Ambuluwawa Tower和Pinnawala Elephant Orphanage。最长的一站是Pinnawala Elephant Orphanage，约3小时。全程共4站。\n\n行程顺序为Bahirawakanda Temple (1h), 然后 Kandy (2h), 然后 Ambuluwawa Tower (2h), 然后 Pinnawala Elephant Orphanage (3h)。\n\n价格包含酒店接送、参观巴希拉瓦坎达寺、阿斯吉里玛哈寺、参观安布鲁瓦瓦塔。不包含餐饮、门票、个人消费，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Bahirawakanda Temple, Kandy, Ambuluwawa Tower和Pinnawala Elephant Orphanage。由Lanka Budget Tours提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "参观巴希拉瓦坎达寺",
+   "阿斯吉里玛哈寺",
+   "参观安布鲁瓦瓦塔"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "门票",
+   "个人消费"
   ]
  },
  "sigiriya-pidurangala-day-trip-from-kandy-by-tuk": {
@@ -14429,6 +14872,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "nuwara-eliya-tour-with-ramboda-waterfall": {
+  "title": "努沃勒埃利耶游览，含兰博达瀑布及安布鲁瓦瓦塔",
+  "metaTitle": "努沃勒埃利耶游览，含兰博达瀑布及安布鲁瓦瓦塔",
+  "metaDescription": "一次从Nuwara Eliya出发的全天行程，游览Ramboda Falls, Srilanka, Nuwara Eliya和Lake Gregory。由Travel Bird Sri Lanka提供。",
+  "shortDescription": "一次从Nuwara Eliya出发的全天行程，游览Ramboda Falls, Srilanka, Nuwara Eliya和Lake Gregory。由Travel Bird Sri Lanka提供。",
+  "fullDescription": "一次从Nuwara Eliya出发的全天行程，途经Ramboda Falls, Srilanka, Nuwara Eliya和Lake Gregory。最长的一站是Nuwara Eliya，约4小时。全程共3站。\n\n行程顺序为Ramboda Falls, Srilanka (30 min), 然后 Nuwara Eliya (4h), 然后 Lake Gregory (3h)。\n\n价格包含茶厂导游讲解游览、观看采茶工艺的机会、品尝不同种类的茶、参观当地市场。不包含餐饮（除特别说明外）、个人消费、门票，请另行预算。",
+  "highlights": [
+   "一次从Nuwara Eliya出发的全天行程，游览Ramboda Falls, Srilanka, Nuwara Eliya和Lake Gregory。由Travel Bird Sri Lanka提供。"
+  ],
+  "included": [
+   "茶厂导游讲解游览",
+   "观看采茶工艺的机会",
+   "品尝不同种类的茶",
+   "参观当地市场"
+  ],
+  "notIncluded": [
+   "餐饮（除特别说明外）",
+   "个人消费",
+   "门票"
   ]
  },
  "3-day-sri-lanka-tour-kandy-nuwara-eliya-ella": {
@@ -14553,6 +15017,47 @@ export const ZH_TOURS: Record<string, TourT> = {
    "飞天罗婆那滑索费用（每人约30美元）"
   ]
  },
+ "frommirissagallehilkaduwa-with-udawalawe-safari": {
+  "title": "米瑞沙/加勒/希卡杜瓦出发：乌达瓦拉维野生动物园之旅",
+  "metaTitle": "米瑞沙/加勒/希卡杜瓦出发：乌达瓦拉维野生动物园之旅",
+  "metaDescription": "一次全天的Galle体验。我们将从希卡杜瓦/加勒/米瑞沙或周边城镇的酒店接您。由Udawalawe Wild Safari Tours提供。",
+  "shortDescription": "一次全天的Galle体验。我们将从希卡杜瓦/加勒/米瑞沙或周边城镇的酒店接您。由Udawalawe Wild Safari Tours提供。",
+  "fullDescription": "一次全天的Galle体验。我们将从希卡杜瓦/加勒/米瑞沙或周边城镇的酒店接您。\n\n由Udawalawe Wild Safari Tours负责安排，价格中含6项内容。可免费取消。\n\n价格包含从马特勒、米瑞沙、维利加马、阿哈嘎马、塔尔佩、乌纳瓦图纳、加勒、希卡杜瓦或周边地区出发的酒店接客、空调车辆接送、高速公路通行费（往返两程）、私人四驱野生动物园吉普车、经验丰富（超过10年）的司机兼导游、送达马特勒、米瑞沙、维利加马、阿哈嘎马、塔尔佩、乌纳瓦图纳、加勒、希卡杜瓦或周边地区。不包含国家公园门票，请另行预算。两位旅客共同支付320美元，而不是每人各付320美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "我们将从希卡杜瓦/加勒/米瑞沙或周边城镇的酒店接您"
+  ],
+  "included": [
+   "从马特勒、米瑞沙、维利加马、阿哈嘎马、塔尔佩、乌纳瓦图纳、加勒、希卡杜瓦或周边地区出发的酒店接客",
+   "空调车辆接送",
+   "高速公路通行费（往返两程）",
+   "私人四驱野生动物园吉普车",
+   "经验丰富（超过10年）的司机兼导游",
+   "送达马特勒、米瑞沙、维利加马、阿哈嘎马、塔尔佩、乌纳瓦图纳、加勒、希卡杜瓦或周边地区"
+  ],
+  "notIncluded": [
+   "国家公园门票"
+  ]
+ },
+ "from-hikkaduwagallemirissa-waterfall-tea-factory": {
+  "title": "希卡杜瓦/加勒/米瑞沙出发：瀑布及茶厂游览",
+  "metaTitle": "希卡杜瓦/加勒/米瑞沙出发：瀑布及茶厂游览",
+  "metaDescription": "一次从Galle出发的全天行程，游览Ella, Sri Lanka。由Tiger Safaris提供。",
+  "shortDescription": "一次从Galle出发的全天行程，游览Ella, Sri Lanka。由Tiger Safaris提供。",
+  "fullDescription": "一次从Galle出发的全天行程，途经Ella, Sri Lanka。最长的一站是Ella, Sri Lanka，约9小时。\n\n价格包含免费酒店接送（加勒、希卡杜瓦、乌纳瓦图纳、米瑞沙、维利加马、蒂萨默哈拉默、乌达瓦拉维、坦加拉、卡塔拉加马）、乘空调车辆交通、经验丰富、知识渊博的司机/导游。不包含乌瓦哈佩瓦特茶厂游览（约10美元）、配卡利普索音乐的卡利普索小火车（约6美元）、餐饮，请另行预算。两位旅客共同支付375美元，而不是每人各付372美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Galle出发的全天行程，游览Ella, Sri Lanka。由Tiger Safaris提供。"
+  ],
+  "included": [
+   "免费酒店接送（加勒、希卡杜瓦、乌纳瓦图纳、米瑞沙、维利加马、蒂萨默哈拉默、乌达瓦拉维、坦加拉、卡塔拉加马）",
+   "乘空调车辆交通",
+   "经验丰富、知识渊博的司机/导游"
+  ],
+  "notIncluded": [
+   "乌瓦哈佩瓦特茶厂游览（约10美元）",
+   "配卡利普索音乐的卡利普索小火车（约6美元）",
+   "餐饮"
+  ]
+ },
  "sail-lanka-charter-01-night-cruise-in-mirissa": {
   "title": "塞拉兰卡包船：米瑞沙一夜游船之旅",
   "metaTitle": "塞拉兰卡包船：米瑞沙一夜游船之旅",
@@ -14591,6 +15096,24 @@ export const ZH_TOURS: Record<string, TourT> = {
    "国家公园门票",
    "餐饮",
    "个人消费"
+  ]
+ },
+ "kandy-private-city-tour-by-tuk-tuk-experience": {
+  "title": "康提：私人市区游览，乘嘟嘟车体验",
+  "metaTitle": "康提：私人市区游览，乘嘟嘟车体验",
+  "metaDescription": "一次从Kandy出发的半天行程，游览Tuk tuk。由Pekoe Lanka Tours提供。",
+  "shortDescription": "一次从Kandy出发的半天行程，游览Tuk tuk。由Pekoe Lanka Tours提供。",
+  "fullDescription": "一次从Kandy出发的半天行程，途经Tuk tuk。\n\n由Pekoe Lanka Tours负责安排，价格中含3项内容。可免费取消。阿斯吉里玛哈寺/巴希拉瓦坎达寺/草药及香料园。\n\n价格包含免费接送（康提地区）、私人嘟嘟车及司机、瓶装水。不包含门票：植物园10美元，请另行预算。两位旅客共同支付51美元，而不是每人各付34美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的半天行程，游览Tuk tuk。由Pekoe Lanka Tours提供。"
+  ],
+  "included": [
+   "免费接送（康提地区）",
+   "私人嘟嘟车及司机",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "门票：植物园10美元"
   ]
  },
  "ella-9-arches-bridge-little-adams-peak-tea-factory": {
@@ -14651,6 +15174,45 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "ella-udawalawe-safari-drop-off-in": {
+  "title": "埃拉：乌达瓦拉维野生动物园之旅，送达坦加拉/米瑞沙/加勒",
+  "metaTitle": "埃拉：乌达瓦拉维野生动物园之旅，送达坦加拉/米瑞沙/加勒",
+  "metaDescription": "一次从Galle出发的全天行程，游览Udawalawa National Park, Udawalawa, Udawalawe Elephant Transit Home和Finish at:。由Ceylon Nature Tours提供。",
+  "shortDescription": "一次从Galle出发的全天行程，游览Udawalawa National Park, Udawalawa, Udawalawe Elephant Transit Home和Finish at:。由Ceylon Nature Tours提供。",
+  "fullDescription": "一次从Galle出发的全天行程，途经Udawalawa National Park, Udawalawa, Udawalawe Elephant Transit Home和Finish at:。最长的一站是Udawalawa National Park，约3小时。全程共4站。\n\n行程顺序为Udawalawa National Park (3h), 然后 Udawalawa (30 min), 然后 Udawalawe Elephant Transit Home (30 min), 然后 Finish at:。\n\n价格包含从埃拉出发的酒店接送、坦加拉、希里凯提亚、马特勒、米瑞沙、维利加马、乌纳瓦图纳、加勒或希卡杜瓦地区酒店送达、空调车辆接送、乌达瓦拉维国家公园野生动物园之旅。不包含乌达瓦拉维国家公园门票费用（每人40美元），请另行预算。",
+  "highlights": [
+   "一次从Galle出发的全天行程，游览Udawalawa National Park, Udawalawa, Udawalawe Elephant Transit Home和Finish at:。由Ceylon Nature Tours提供。"
+  ],
+  "included": [
+   "从埃拉出发的酒店接送",
+   "坦加拉、希里凯提亚、马特勒、米瑞沙、维利加马、乌纳瓦图纳、加勒或希卡杜瓦地区酒店送达",
+   "空调车辆接送",
+   "乌达瓦拉维国家公园野生动物园之旅"
+  ],
+  "notIncluded": [
+   "乌达瓦拉维国家公园门票费用（每人40美元）"
+  ]
+ },
+ "ella-adventure-day-trip-to-explore-ella-by-tuk": {
+  "title": "埃拉：乘嘟嘟车探索埃拉的探险一日游",
+  "metaTitle": "埃拉：乘嘟嘟车探索埃拉的探险一日游",
+  "metaDescription": "一次从Ella出发的全天行程，游览Ella Rock, Demodara Railway Loop Viewpoint, Nine Arch Bridge和Ravana Falls。由Sri Lanka Trekking Club提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Ella Rock, Demodara Railway Loop Viewpoint, Nine Arch Bridge和Ravana Falls。由Sri Lanka Trekking Club提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Ella Rock, Demodara Railway Loop Viewpoint, Nine Arch Bridge和Ravana Falls。最长的一站是Ella Rock，约2小时。全程共6站。\n\n行程顺序为Ella Rock (2h), 然后 Demodara Railway Loop Viewpoint (1h), 然后 Nine Arch Bridge (20 min), 然后 Ravana Falls (25 min), 然后 Flying Ravana Mega Zipline (1h)。\n\n价格包含酒店接送、经验丰富、知识渊博的导游/司机、乘嘟嘟车交通。不包含埃拉岩门票费用（约3美元）、飞天拉瓦纳超级滑索（约33美元）、卡利普索音乐列车（约5美元），请另行预算。两位旅客共同支付166美元，而不是每人各付164美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Ella Rock, Demodara Railway Loop Viewpoint, Nine Arch Bridge和Ravana Falls。由Sri Lanka Trekking Club提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "经验丰富、知识渊博的导游/司机",
+   "乘嘟嘟车交通"
+  ],
+  "notIncluded": [
+   "埃拉岩门票费用（约3美元）",
+   "飞天拉瓦纳超级滑索（约33美元）",
+   "卡利普索音乐列车（约5美元）"
+  ]
+ },
  "kandy-city-tour-with-pinnawala-day-tour-by-tuk": {
   "title": "康提市区游览及皮纳瓦拉一日游，乘嘟嘟车",
   "metaTitle": "康提市区游览及皮纳瓦拉一日游，乘嘟嘟车",
@@ -14671,6 +15233,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "colombo-local-food-tour-by-tuk-tuk-all-inclusive": {
+  "title": "科伦坡当地美食之旅，乘嘟嘟车，全包",
+  "metaTitle": "科伦坡当地美食之旅，乘嘟嘟车，全包",
+  "metaDescription": "一次从Colombo出发的3小时行程，游览Tuk tuk, Tuk tuk, Galle Face Green和Colombo。由Travel with Lenin提供。",
+  "shortDescription": "一次从Colombo出发的3小时行程，游览Tuk tuk, Tuk tuk, Galle Face Green和Colombo。由Travel with Lenin提供。",
+  "fullDescription": "一次从Colombo出发的3小时行程，途经Tuk tuk, Tuk tuk, Galle Face Green和Colombo。全程共5站。\n\n行程顺序为Tuk tuk (10 min), 然后 Tuk tuk (5 min), 然后 Galle Face Green (15 min), 然后 Colombo (15 min), 然后 Colombo (10 min)。\n\n价格包含配英语司机兼导游的私人嘟嘟车、瓶装水及欢迎饮品、行程中列出的全部菜品及饮品、全部税费及停车费用。",
+  "highlights": [
+   "一次从Colombo出发的3小时行程，游览Tuk tuk, Tuk tuk, Galle Face Green和Colombo。由Travel with Lenin提供。"
+  ],
+  "included": [
+   "配英语司机兼导游的私人嘟嘟车",
+   "瓶装水及欢迎饮品",
+   "行程中列出的全部菜品及饮品",
+   "全部税费及停车费用"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "colombo-private-city-tuk-tuk-tour-with-lunch-or": {
   "title": "科伦坡：私人嘟嘟车市区游览，含午餐或晚餐",
   "metaTitle": "科伦坡：私人嘟嘟车市区游览，含午餐或晚餐",
@@ -14688,6 +15269,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "habarana-polonnaruwa-sigiriya-and-dambulla-day": {
+  "title": "哈巴拉纳：波隆纳鲁沃、锡吉里耶及丹布勒一日游",
+  "metaTitle": "哈巴拉纳：波隆纳鲁沃、锡吉里耶及丹布勒一日游",
+  "metaDescription": "一次全天的Sigiriya体验。锡吉里耶狮子岩游览。由Serendipity tours (private) Limited提供。",
+  "shortDescription": "一次全天的Sigiriya体验。锡吉里耶狮子岩游览。由Serendipity tours (private) Limited提供。",
+  "fullDescription": "一次全天的Sigiriya体验。锡吉里耶狮子岩游览。\n\n由Serendipity tours (private) Limited负责安排，价格中含7项内容。可免费取消。\n\n价格包含私人交通、空调车辆、商品服务税/增值税/服务费、英语司机兼导游。不包含餐食、门票费用、其他不含项目（机票/签证费用），请另行预算。两位旅客共同支付393美元，而不是每人各付245美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "锡吉里耶狮子岩游览"
+  ],
+  "included": [
+   "私人交通",
+   "空调车辆",
+   "商品服务税/增值税/服务费",
+   "英语司机兼导游"
+  ],
+  "notIncluded": [
+   "餐食",
+   "门票费用",
+   "其他不含项目（机票/签证费用）"
   ]
  },
  "galle-fort-street-food-walk": {
@@ -14710,6 +15312,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人性质的消费"
   ]
  },
+ "kandy-private-tuk-tuk-tour-with-english-speaking": {
+  "title": "康提私人嘟嘟车游览，配英语当地导游",
+  "metaTitle": "康提私人嘟嘟车游览，配英语当地导游",
+  "metaDescription": "一次半天的Kandy体验。私人嘟嘟车游览及英语导游。由Lanka Happy Tour提供。",
+  "shortDescription": "一次半天的Kandy体验。私人嘟嘟车游览及英语导游。由Lanka Happy Tour提供。",
+  "fullDescription": "一次半天的Kandy体验。私人嘟嘟车游览及英语导游。\n\n由Lanka Happy Tour负责安排，价格中含12项内容。可免费取消。\n\n价格包含酒店接送、私人嘟嘟车及友善的当地导游/司机、灵活可定制的行程、参观阿斯吉里亚佛塔，免费入场。不包含午餐费用、景点门票、餐饮，请另行预算。两位旅客共同支付13美元，而不是每人各付7美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "私人嘟嘟车游览及英语导游"
+  ],
+  "included": [
+   "酒店接送",
+   "私人嘟嘟车及友善的当地导游/司机",
+   "灵活可定制的行程",
+   "参观阿斯吉里亚佛塔，免费入场"
+  ],
+  "notIncluded": [
+   "午餐费用",
+   "景点门票",
+   "餐饮"
+  ]
+ },
  "from-tangalle-hiriketiya-yala-safari-drop-off-ella": {
   "title": "坦加拉/希里凯提亚出发：雅拉野生动物园之旅，送至埃拉",
   "metaTitle": "坦加拉/希里凯提亚出发：雅拉野生动物园之旅，送至埃拉",
@@ -14726,6 +15349,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "国家公园门票（每人13000斯里兰卡卢比）",
+   "餐饮"
+  ]
+ },
+ "from-ella-yala-national-park-safari-drop-off-in": {
+  "title": "埃拉出发：雅拉国家公园野生动物园之旅，送达阿鲁甘湾",
+  "metaTitle": "埃拉出发：雅拉国家公园野生动物园之旅，送达阿鲁甘湾",
+  "metaDescription": "一次从Ella出发的全天行程，游览Yala National Park。由Lakpura®提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Yala National Park。由Lakpura®提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Yala National Park。最长的一站是Yala National Park，约4小时。\n\n价格包含接送（埃拉、基塔尔埃拉、班达拉韦拉及阿鲁甘湾）、我们经验丰富的向导会确保此次野生动物园之旅既有趣又令人难忘、司机兼导游、空调车辆交通、通行费。不包含国家公园门票（每人43美元）、餐饮，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Yala National Park。由Lakpura®提供。"
+  ],
+  "included": [
+   "接送（埃拉、基塔尔埃拉、班达拉韦拉及阿鲁甘湾）",
+   "我们经验丰富的向导会确保此次野生动物园之旅既有趣又令人难忘",
+   "司机兼导游",
+   "空调车辆交通",
+   "通行费"
+  ],
+  "notIncluded": [
+   "国家公园门票（每人43美元）",
    "餐饮"
   ]
  },
@@ -14772,6 +15416,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮"
   ]
  },
+ "from-ella-yala-safari-to-hiriketiya-special-offer": {
+  "title": "埃拉出发：雅拉野生动物园之旅，送达希里凯提亚（特惠）",
+  "metaTitle": "埃拉出发：雅拉野生动物园之旅，送达希里凯提亚（特惠）",
+  "metaDescription": "一次从Ella出发的全天行程，游览Jeep / SUV, Yala National Park, Patanangala和Yala National Park。由Ajith Safari Jeep Tours提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Jeep / SUV, Yala National Park, Patanangala和Yala National Park。由Ajith Safari Jeep Tours提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Jeep / SUV, Yala National Park, Patanangala和Yala National Park。最长的一站是Yala National Park，约2小时。全程共5站。\n\n行程顺序为Jeep / SUV (30 min), 然后 Yala National Park (2h), 然后 Patanangala (30 min), 然后 Yala National Park (1h), 然后 Finish at:。\n\n价格包含埃拉/班达拉韦拉/韦拉瓦亚地区及周边酒店接客、送达希里凯提亚/坦加拉/迪克维拉/瑞卡瓦/尼尔维拉/马维拉地区、如接客或送达地点超出上述区域，请联系我们，我们可根据超出区域的距离加收费用后为您安排行程、专业司机兼导游。不包含雅拉国家公园门票费用（43美元，每人），请另行预算。两位旅客共同支付107美元，而不是每人各付107美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Jeep / SUV, Yala National Park, Patanangala和Yala National Park。由Ajith Safari Jeep Tours提供。"
+  ],
+  "included": [
+   "埃拉/班达拉韦拉/韦拉瓦亚地区及周边酒店接客",
+   "送达希里凯提亚/坦加拉/迪克维拉/瑞卡瓦/尼尔维拉/马维拉地区",
+   "如接客或送达地点超出上述区域，请联系我们，我们可根据超出区域的距离加收费用后为您安排行程",
+   "专业司机兼导游"
+  ],
+  "notIncluded": [
+   "雅拉国家公园门票费用（43美元，每人）"
+  ]
+ },
  "sigiriya-rock-safari-private-tour": {
   "title": "锡吉里耶出发：明内里耶国家公园私人吉普车野生动物园之旅",
   "metaTitle": "锡吉里耶出发：明内里耶国家公园私人吉普车野生动物园之旅",
@@ -14788,6 +15451,26 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "yala-safari-tour-from": {
+  "title": "雅拉野生动物园之旅，坦加拉/希里凯提亚/米瑞沙/加勒出发",
+  "metaTitle": "雅拉野生动物园之旅，坦加拉/希里凯提亚/米瑞沙/加勒出发",
+  "metaDescription": "一次全天的Galle体验。在野外观赏豹子。由Ceylon Nature Tours提供。",
+  "shortDescription": "一次全天的Galle体验。在野外观赏豹子。由Ceylon Nature Tours提供。",
+  "fullDescription": "一次全天的Galle体验。在野外观赏豹子。\n\n由Ceylon Nature Tours负责安排，价格中含4项内容。可免费取消。\n\n价格包含乘空调车辆交通、从希卡杜瓦、加勒、乌纳瓦图纳、塔尔佩、哈巴拉杜瓦、阿哈嘎马、科加拉、维利加马、马特勒、米瑞沙、塔拉拉、希里凯提亚或坦加拉地区及周边出发的酒店接送、3小时吉普车野生动物园之旅、高速公路通行费。不包含公园门票费用（每人43美元）、餐饮，请另行预算。",
+  "highlights": [
+   "在野外观赏豹子"
+  ],
+  "included": [
+   "乘空调车辆交通",
+   "从希卡杜瓦、加勒、乌纳瓦图纳、塔尔佩、哈巴拉杜瓦、阿哈嘎马、科加拉、维利加马、马特勒、米瑞沙、塔拉拉、希里凯提亚或坦加拉地区及周边出发的酒店接送",
+   "3小时吉普车野生动物园之旅",
+   "高速公路通行费"
+  ],
+  "notIncluded": [
+   "公园门票费用（每人43美元）",
+   "餐饮"
   ]
  },
  "private-guided-day-tour-of-sigiriya-dambulla": {
@@ -14869,6 +15552,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "配卡利普索音乐的卡利普索小火车（约5美元）"
   ]
  },
+ "from-colombo-pinnawala-and-tea-factory-with-hotel": {
+  "title": "科伦坡出发：皮纳瓦拉及茶厂游览，送达康提酒店",
+  "metaTitle": "科伦坡出发：皮纳瓦拉及茶厂游览，送达康提酒店",
+  "metaDescription": "一次半天的Colombo体验。参观皮纳瓦拉象孤儿院。由Ceylon Tuk Tuk Tours提供。",
+  "shortDescription": "一次半天的Colombo体验。参观皮纳瓦拉象孤儿院。由Ceylon Tuk Tuk Tours提供。",
+  "fullDescription": "一次半天的Colombo体验。参观皮纳瓦拉象孤儿院。\n\n由Ceylon Tuk Tuk Tours负责安排，价格中含5项内容。可免费取消。\n\n价格包含免费科伦坡酒店接客及康提酒店送达、平纳瓦拉象孤儿院、参观草药园、吉拉加马茶厂游览。不包含餐食、个人消费、门票费用，请另行预算。",
+  "highlights": [
+   "参观皮纳瓦拉象孤儿院"
+  ],
+  "included": [
+   "免费科伦坡酒店接客及康提酒店送达",
+   "平纳瓦拉象孤儿院",
+   "参观草药园",
+   "吉拉加马茶厂游览"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "门票费用"
+  ]
+ },
  "hikkaduwaunawatunaweligamamirissa-yala-safari-to": {
   "title": "希卡杜瓦/乌纳瓦图纳/威利加默/米瑞沙：雅拉野生动物园及埃拉之旅",
   "metaTitle": "希卡杜瓦/乌纳瓦图纳/威利加默/米瑞沙：雅拉野生动物园及埃拉之旅",
@@ -14928,6 +15632,46 @@ export const ZH_TOURS: Record<string, TourT> = {
    "乌瓦哈佩瓦特茶厂游览（约10美元）",
    "飞天罗婆那超级滑索（约33美元）",
    "配卡利普索音乐的卡利普索小火车（约5美元）"
+  ]
+ },
+ "from-colombo-odyssey-first-class-scenic-train": {
+  "title": "科伦坡出发：奥德赛头等座风光火车票，前往埃拉",
+  "metaTitle": "科伦坡出发：奥德赛头等座风光火车票，前往埃拉",
+  "metaDescription": "一次全天的Colombo体验。在从康提到埃拉的火车之旅中尽览令人惊叹的美景。由Ceylon Pass提供。",
+  "shortDescription": "一次全天的Colombo体验。在从康提到埃拉的火车之旅中尽览令人惊叹的美景。由Ceylon Pass提供。",
+  "fullDescription": "一次全天的Colombo体验。在从康提到埃拉的火车之旅中尽览令人惊叹的美景。\n\n由Ceylon Pass负责安排，价格中含3项内容。可免费取消。\n\n价格包含科伦坡堡火车站10英里范围内接送、埃拉奥德赛火车头等座预订座位、从科伦坡到埃拉的单程旅程。不包含导游、餐饮，请另行预算。",
+  "highlights": [
+   "在从康提到埃拉的火车之旅中尽览令人惊叹的美景"
+  ],
+  "included": [
+   "科伦坡堡火车站10英里范围内接送",
+   "埃拉奥德赛火车头等座预订座位",
+   "从科伦坡到埃拉的单程旅程"
+  ],
+  "notIncluded": [
+   "导游",
+   "餐饮"
+  ]
+ },
+ "ambuluwawa-tower-pinnawala-kandy-day-tour-from": {
+  "title": "安布鲁瓦瓦塔、皮纳瓦拉及康提一日游，尼甘布出发",
+  "metaTitle": "安布鲁瓦瓦塔、皮纳瓦拉及康提一日游，尼甘布出发",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Pinnawala, Ambuluwawa Tower, The Tea Factory & The Tea Museum和Temple of the Sacred Tooth Relic。由Cadyshack Taxis (Pvt) Ltd提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Pinnawala, Ambuluwawa Tower, The Tea Factory & The Tea Museum和Temple of the Sacred Tooth Relic。由Cadyshack Taxis (Pvt) Ltd提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Pinnawala, Ambuluwawa Tower, The Tea Factory & The Tea Museum和Temple of the Sacred Tooth Relic。最长的一站是Pinnawala，约1小时。全程共7站。\n\n行程顺序为Pinnawala (1h), 然后 Ambuluwawa Tower, 然后 The Tea Factory & The Tea Museum, 然后 Temple of the Sacred Tooth Relic, 然后 Kandy Lake Club。\n\n价格包含酒店接送、私人空调车辆接送、瓶装水、所有税费。不包含1. 安布鲁瓦瓦塔门票（门票每人2750斯里兰卡卢比，嘟嘟车1500斯里兰卡卢比）、2. 佛牙寺门票（门票每人2000斯里兰卡卢比）、3. 皇家植物园门票（门票3750斯里兰卡卢比，电瓶车2250斯里兰卡卢比），请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Pinnawala, Ambuluwawa Tower, The Tea Factory & The Tea Museum和Temple of the Sacred Tooth Relic。由Cadyshack Taxis (Pvt) Ltd提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "私人空调车辆接送",
+   "瓶装水",
+   "所有税费"
+  ],
+  "notIncluded": [
+   "1. 安布鲁瓦瓦塔门票（门票每人2750斯里兰卡卢比，嘟嘟车1500斯里兰卡卢比）",
+   "2. 佛牙寺门票（门票每人2000斯里兰卡卢比）",
+   "3. 皇家植物园门票（门票3750斯里兰卡卢比，电瓶车2250斯里兰卡卢比）"
   ]
  },
  "from-ella-to-arugam-bay-transfer-with-yala-safari": {
@@ -15066,6 +15810,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "colombo-pinnawala-full-day-tour": {
+  "title": "康提、皮纳瓦拉及茶厂全天游览，科伦坡出发",
+  "metaTitle": "康提、皮纳瓦拉及茶厂全天游览，科伦坡出发",
+  "metaDescription": "一次全天的Colombo体验。游览茶厂及茶园。由Cadyshack Taxis (Pvt) Ltd提供。",
+  "shortDescription": "一次全天的Colombo体验。游览茶厂及茶园。由Cadyshack Taxis (Pvt) Ltd提供。",
+  "fullDescription": "一次全天的Colombo体验。游览茶厂及茶园。\n\n由Cadyshack Taxis (Pvt) Ltd负责安排，价格中含4项内容。可免费取消。\n\n价格包含酒店接送、私人空调车辆接送、瓶装水、所有税费。不包含佛牙寺门票费用、皇家植物园门票费用、皮纳瓦拉千禧基金会门票费用，请另行预算。",
+  "highlights": [
+   "游览茶厂及茶园"
+  ],
+  "included": [
+   "酒店接送",
+   "私人空调车辆接送",
+   "瓶装水",
+   "所有税费"
+  ],
+  "notIncluded": [
+   "佛牙寺门票费用",
+   "皇家植物园门票费用",
+   "皮纳瓦拉千禧基金会门票费用"
+  ]
+ },
  "private-traditional-sri-lankan-cooking-class-in": {
   "title": "康提：斯里兰卡传统私人烹饪课",
   "metaTitle": "康提：斯里兰卡传统私人烹饪课",
@@ -15123,6 +15888,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "ella-yala-safari-drop-off-in-tangallemirissagalle": {
+  "title": "埃拉：雅拉野生动物园之旅，送达坦加拉/米瑞沙/加勒",
+  "metaTitle": "埃拉：雅拉野生动物园之旅，送达坦加拉/米瑞沙/加勒",
+  "metaDescription": "一次半天的Galle体验。在野生动物园之旅中探索雅拉国家公园丰富多样的野生动物。由Ceylon Nature Tours提供。",
+  "shortDescription": "一次半天的Galle体验。在野生动物园之旅中探索雅拉国家公园丰富多样的野生动物。由Ceylon Nature Tours提供。",
+  "fullDescription": "一次半天的Galle体验。在野生动物园之旅中探索雅拉国家公园丰富多样的野生动物。\n\n由Ceylon Nature Tours负责安排，价格中含5项内容。可免费取消。\n\n价格包含从埃拉地区出发的酒店接送、坦加拉、希里凯提亚、迪克维拉、马特勒、米瑞沙、维利加马、乌纳瓦图纳、加勒地区酒店送达、空调车辆接送、雅拉国家公园3小时野生动物园之旅、通行费。不包含雅拉国家公园门票及服务费（每人43美元）、餐饮，请另行预算。",
+  "highlights": [
+   "在野生动物园之旅中探索雅拉国家公园丰富多样的野生动物"
+  ],
+  "included": [
+   "从埃拉地区出发的酒店接送",
+   "坦加拉、希里凯提亚、迪克维拉、马特勒、米瑞沙、维利加马、乌纳瓦图纳、加勒地区酒店送达",
+   "空调车辆接送",
+   "雅拉国家公园3小时野生动物园之旅",
+   "通行费"
+  ],
+  "notIncluded": [
+   "雅拉国家公园门票及服务费（每人43美元）",
+   "餐饮"
   ]
  },
  "ella-udawalawe-safari-drop-to-tangallemirissagalle": {
@@ -15348,6 +16134,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮"
   ]
  },
+ "from-bentota-sigiriya-lion-rock-dambulla-cave": {
+  "title": "本托塔出发：锡吉里耶狮子岩及丹布勒石窟寺游览",
+  "metaTitle": "本托塔出发：锡吉里耶狮子岩及丹布勒石窟寺游览",
+  "metaDescription": "一次全天的Bentota体验。锡吉里耶狮子岩。由Colombo Tuk Tuk City Tours提供。",
+  "shortDescription": "一次全天的Bentota体验。锡吉里耶狮子岩。由Colombo Tuk Tuk City Tours提供。",
+  "fullDescription": "一次全天的Bentota体验。锡吉里耶狮子岩。\n\n由Colombo Tuk Tuk City Tours负责安排，价格中含3项内容。可免费取消。\n\n价格包含免费酒店及接客、豪华轿车及英语司机、瓶装水或国王椰子水。不包含门票（锡吉里耶及丹布勒寺）、小费、门票费用，请另行预算。两位旅客共同支付346美元，而不是每人各付346美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "锡吉里耶狮子岩"
+  ],
+  "included": [
+   "免费酒店及接客",
+   "豪华轿车及英语司机",
+   "瓶装水或国王椰子水"
+  ],
+  "notIncluded": [
+   "门票（锡吉里耶及丹布勒寺）",
+   "小费",
+   "门票费用"
+  ]
+ },
  "kandy-luxury-city-tour-temple-tea-cultural": {
   "title": "康提豪华市区游览：寺庙、茶及文化精华",
   "metaTitle": "康提豪华市区游览：寺庙、茶及文化精华",
@@ -15369,6 +16175,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "from-kandy-sigiriyadambulla-and-minneriya-park": {
+  "title": "康提出发：锡吉里耶/丹布勒及明内里耶公园野生动物园之旅",
+  "metaTitle": "康提出发：锡吉里耶/丹布勒及明内里耶公园野生动物园之旅",
+  "metaDescription": "一次全天的Kandy体验。草药及香料园。由Lanka Budget Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。草药及香料园。由Lanka Budget Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。草药及香料园。\n\n由Lanka Budget Tours负责安排，价格中含5项内容。可免费取消。\n\n价格包含接送服务、瓶装水、椰子水、雨伞。不包含午餐、野生动物园吉普车、全部门票，请另行预算。两位旅客共同支付320美元，而不是每人各付224美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "草药及香料园"
+  ],
+  "included": [
+   "接送服务",
+   "瓶装水",
+   "椰子水",
+   "雨伞"
+  ],
+  "notIncluded": [
+   "午餐",
+   "野生动物园吉普车",
+   "全部门票"
+  ]
+ },
  "ella-first-class-scenic-train-ticket-tofrom": {
   "title": "埃拉：往返科伦坡的一等座风光火车票",
   "metaTitle": "埃拉：往返科伦坡的一等座风光火车票",
@@ -15388,6 +16215,45 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮"
   ]
  },
+ "ella-waterfall-hunting-hike-to-bambarakanda-and": {
+  "title": "埃拉：徒步寻瀑之旅，前往班巴拉坎达及兰卡瀑布",
+  "metaTitle": "埃拉：徒步寻瀑之旅，前往班巴拉坎达及兰卡瀑布",
+  "metaDescription": "一次从Ella出发的全天行程，游览Train, Lanka Ella Waterfall和Bambarakanda Falls。由Ella Holidays提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Train, Lanka Ella Waterfall和Bambarakanda Falls。由Ella Holidays提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Train, Lanka Ella Waterfall和Bambarakanda Falls。最长的一站是Train，约1小时。全程共3站。\n\n行程顺序为Train (1h), 然后 Lanka Ella Waterfall (1h), 然后 Bambarakanda Falls。\n\n价格包含往返酒店的交通、早餐（仅限火车之旅方案）、茶点、瓶装水。不包含徒步鞋，请另行预算。两位旅客共同支付203美元，而不是每人各付110美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Train, Lanka Ella Waterfall和Bambarakanda Falls。由Ella Holidays提供。"
+  ],
+  "included": [
+   "往返酒店的交通",
+   "早餐（仅限火车之旅方案）",
+   "茶点",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "徒步鞋"
+  ]
+ },
+ "from-colombo-yala-national-park-jeep-safari-all": {
+  "title": "科伦坡出发：雅拉国家公园吉普车野生动物园之旅，全包",
+  "metaTitle": "科伦坡出发：雅拉国家公园吉普车野生动物园之旅，全包",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Yala National Park。由Sri Lanka car and private driver hire提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Yala National Park。由Sri Lanka car and private driver hire提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Yala National Park。最长的一站是Yala National Park，约5小时。\n\n价格包含乘空调车辆交通（轿车/面包车）、酒店接送、瓶装水、雅拉国家公园门票费用及吉普车。不包含小费（可选）、餐食，请另行预算。两位旅客共同支付904美元，而不是每人各付506美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Yala National Park。由Sri Lanka car and private driver hire提供。"
+  ],
+  "included": [
+   "乘空调车辆交通（轿车/面包车）",
+   "酒店接送",
+   "瓶装水",
+   "雅拉国家公园门票费用及吉普车"
+  ],
+  "notIncluded": [
+   "小费（可选）",
+   "餐食"
+  ]
+ },
  "kandy-sigiriya-dambulla-wildlife-safari-by-tuk-tuk": {
   "title": "康提：锡吉里耶、丹布勒及野生动物园，乘嘟嘟车",
   "metaTitle": "康提：锡吉里耶、丹布勒及野生动物园，乘嘟嘟车",
@@ -15405,6 +16271,26 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "门票（锡吉里耶、丹布勒及国家公园）"
+  ]
+ },
+ "ella-pickup-yala-safari-and-drop-off-in": {
+  "title": "埃拉接客：雅拉野生动物园之旅，送达坦加拉/米瑞沙/加勒",
+  "metaTitle": "埃拉接客：雅拉野生动物园之旅，送达坦加拉/米瑞沙/加勒",
+  "metaDescription": "一次半天的Galle体验。在雅拉国家公园观察并聆听丰富多样的野生动物。由Ceylon Nature Tours提供。",
+  "shortDescription": "一次半天的Galle体验。在雅拉国家公园观察并聆听丰富多样的野生动物。由Ceylon Nature Tours提供。",
+  "fullDescription": "一次半天的Galle体验。在雅拉国家公园观察并聆听丰富多样的野生动物。\n\n由Ceylon Nature Tours负责安排，价格中含5项内容。可免费取消。\n\n价格包含从埃拉地区接客、送达雅拉/坦加拉/希里凯提亚/米瑞沙/维利加马/阿哈嘎马/哈巴拉杜瓦/塔尔佩/乌纳瓦图纳/加勒/希卡杜瓦及周边地区、空调车辆接送、雅拉国家公园3小时野生动物园之旅。不包含餐饮、雅拉国家公园门票及服务费（每人43美元），请另行预算。",
+  "highlights": [
+   "在雅拉国家公园观察并聆听丰富多样的野生动物"
+  ],
+  "included": [
+   "从埃拉地区接客",
+   "送达雅拉/坦加拉/希里凯提亚/米瑞沙/维利加马/阿哈嘎马/哈巴拉杜瓦/塔尔佩/乌纳瓦图纳/加勒/希卡杜瓦及周边地区",
+   "空调车辆接送",
+   "雅拉国家公园3小时野生动物园之旅"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "雅拉国家公园门票及服务费（每人43美元）"
   ]
  },
  "colombo-port-shore-excursions-colombo-city": {
@@ -15505,6 +16391,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮"
   ]
  },
+ "gallemirissatangalle-transfer-to-ella-yala-safari": {
+  "title": "加勒/米瑞沙/坦加拉：接送至埃拉及雅拉野生动物园之旅",
+  "metaTitle": "加勒/米瑞沙/坦加拉：接送至埃拉及雅拉野生动物园之旅",
+  "metaDescription": "一次半天的Galle体验。在野生动物园之旅中探索雅拉国家公园丰富多样的野生动物。由Ceylon Nature Tours提供。",
+  "shortDescription": "一次半天的Galle体验。在野生动物园之旅中探索雅拉国家公园丰富多样的野生动物。由Ceylon Nature Tours提供。",
+  "fullDescription": "一次半天的Galle体验。在野生动物园之旅中探索雅拉国家公园丰富多样的野生动物。\n\n由Ceylon Nature Tours负责安排，价格中含5项内容。可免费取消。\n\n价格包含从加勒、乌纳瓦图纳、科加拉、维利加马、米瑞沙、坦加拉、希里凯提亚或马特勒地区出发的酒店接客、埃拉地区酒店送达、空调车辆接送、雅拉国家公园3小时吉普车野生动物园之旅、司机/导游。不包含雅拉国家公园门票及服务费（每人43美元）、餐饮，请另行预算。两位旅客共同支付42美元，而不是每人各付42美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在野生动物园之旅中探索雅拉国家公园丰富多样的野生动物"
+  ],
+  "included": [
+   "从加勒、乌纳瓦图纳、科加拉、维利加马、米瑞沙、坦加拉、希里凯提亚或马特勒地区出发的酒店接客",
+   "埃拉地区酒店送达",
+   "空调车辆接送",
+   "雅拉国家公园3小时吉普车野生动物园之旅",
+   "司机/导游"
+  ],
+  "notIncluded": [
+   "雅拉国家公园门票及服务费（每人43美元）",
+   "餐饮"
+  ]
+ },
  "from-tangallehiriketiya-ella-transfer-udawalawe": {
   "title": "坦加拉/希里凯提亚出发：埃拉接驳及乌达瓦拉维野生动物园",
   "metaTitle": "坦加拉/希里凯提亚出发：埃拉接驳及乌达瓦拉维野生动物园",
@@ -15523,6 +16430,49 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "门票费用",
    "餐饮"
+  ]
+ },
+ "galle-fort-guided-tour": {
+  "title": "希卡杜瓦/加勒/维利加马/米瑞沙/坦加拉：乌达瓦拉维野生动物园之旅",
+  "metaTitle": "希卡杜瓦/加勒/维利加马/米瑞沙/坦加拉：乌达瓦拉维野生动物园之旅",
+  "metaDescription": "一次3小时的Galle体验。观赏野外象群。由Ceylon Nature Tours提供。",
+  "shortDescription": "一次3小时的Galle体验。观赏野外象群。由Ceylon Nature Tours提供。",
+  "fullDescription": "一次3小时的Galle体验。观赏野外象群。\n\n由Ceylon Nature Tours负责安排，价格中含5项内容。可免费取消。\n\n价格包含从希卡杜瓦、加勒、乌纳瓦图纳、塔尔佩、哈巴拉杜瓦、阿哈嘎马、维利加马、米瑞沙、马特勒、希里凯提亚或坦加拉地区出发的酒店接送、空调车辆接送、乌达瓦拉维国家公园吉普车野生动物园之旅、司机、高速公路通行费。不包含乌达瓦拉维国家公园门票费用（每人40美元）、象孤儿转运中心门票（约每人6美元）、餐饮，请另行预算。两位旅客共同支付89美元，而不是每人各付89美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "观赏野外象群"
+  ],
+  "included": [
+   "从希卡杜瓦、加勒、乌纳瓦图纳、塔尔佩、哈巴拉杜瓦、阿哈嘎马、维利加马、米瑞沙、马特勒、希里凯提亚或坦加拉地区出发的酒店接送",
+   "空调车辆接送",
+   "乌达瓦拉维国家公园吉普车野生动物园之旅",
+   "司机",
+   "高速公路通行费"
+  ],
+  "notIncluded": [
+   "乌达瓦拉维国家公园门票费用（每人40美元）",
+   "象孤儿转运中心门票（约每人6美元）",
+   "餐饮"
+  ]
+ },
+ "hikkaduwagallemirissahiriketiyatangalle-day-trip": {
+  "title": "希卡杜瓦/加勒/米瑞沙/希里凯提亚/坦加拉：埃拉一日游",
+  "metaTitle": "希卡杜瓦/加勒/米瑞沙/希里凯提亚/坦加拉：埃拉一日游",
+  "metaDescription": "一次半天的Galle体验。一路风景相伴，享受轻松惬意的旅程。由Ceylon Nature Tours提供。",
+  "shortDescription": "一次半天的Galle体验。一路风景相伴，享受轻松惬意的旅程。由Ceylon Nature Tours提供。",
+  "fullDescription": "一次半天的Galle体验。一路风景相伴，享受轻松惬意的旅程。\n\n由Ceylon Nature Tours负责安排，价格中含4项内容。可免费取消。\n\n价格包含酒店接送、空调车辆交通（轿车/面包车/大巴）、火车票（普通列车）、高速公路通行费。不包含乌瓦哈佩瓦特茶厂游览（约10美元）、飞天拉瓦纳超级滑索（约35美元）、卡利普索小火车及卡利普索音乐（约6美元），请另行预算。",
+  "highlights": [
+   "一路风景相伴，享受轻松惬意的旅程"
+  ],
+  "included": [
+   "酒店接送",
+   "空调车辆交通（轿车/面包车/大巴）",
+   "火车票（普通列车）",
+   "高速公路通行费"
+  ],
+  "notIncluded": [
+   "乌瓦哈佩瓦特茶厂游览（约10美元）",
+   "飞天拉瓦纳超级滑索（约35美元）",
+   "卡利普索小火车及卡利普索音乐（约6美元）"
   ]
  },
  "knuckles-spice-trail-trek-from-kandy": {
@@ -15544,6 +16494,46 @@ export const ZH_TOURS: Record<string, TourT> = {
    "额外服务",
    "个人消费",
    "小费"
+  ]
+ },
+ "from-colombonegombo-summit-thrills-adams-peak": {
+  "title": "科伦坡/尼甘布出发：登顶刺激之旅，亚当峰导游带领徒步",
+  "metaTitle": "科伦坡/尼甘布出发：登顶刺激之旅，亚当峰导游带领徒步",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Adam's Peak。由Sign of Lanka (Pvt) Ltd提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Adam's Peak。由Sign of Lanka (Pvt) Ltd提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Adam's Peak。\n\n价格包含乘豪华空调私家车，往返酒店的便捷接送、次日在当地餐厅享用早餐、专属私人徒步向导、套餐已包含燃油附加费和司机费用，确保旅程轻松舒适、无需额外操心、放心，停车费也已包含在内，让您无需操心额外费用，专心享受行程。不包含包含项目中未提及的其他任何费用、小费，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Adam's Peak。由Sign of Lanka (Pvt) Ltd提供。"
+  ],
+  "included": [
+   "乘豪华空调私家车，往返酒店的便捷接送",
+   "次日在当地餐厅享用早餐",
+   "专属私人徒步向导",
+   "套餐已包含燃油附加费和司机费用，确保旅程轻松舒适、无需额外操心",
+   "放心，停车费也已包含在内，让您无需操心额外费用，专心享受行程"
+  ],
+  "notIncluded": [
+   "包含项目中未提及的其他任何费用",
+   "小费"
+  ]
+ },
+ "colombo-private-city-tour-by-tuk-tuk-all-inclusive": {
+  "title": "科伦坡：私人市区游览，乘嘟嘟车，全包",
+  "metaTitle": "科伦坡：私人市区游览，乘嘟嘟车，全包",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Colombo和Tuk tuk。由Colombo Tuk Tuk City Tours提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Colombo和Tuk tuk。由Colombo Tuk Tuk City Tours提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Tuk tuk, Colombo和Tuk tuk。全程共3站。\n\n行程顺序为Tuk tuk (15 min), 然后 Colombo, 然后 Tuk tuk (20 min)。\n\n价格包含私人嘟嘟车及英语导游、瓶装水、椰王水、雨伞，雨季使用。两位旅客共同支付82美元，而不是每人各付49美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Tuk tuk, Colombo和Tuk tuk。由Colombo Tuk Tuk City Tours提供。"
+  ],
+  "included": [
+   "私人嘟嘟车及英语导游",
+   "瓶装水",
+   "椰王水",
+   "雨伞，雨季使用"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "colombo-sigiriya-dambulla-minneriya-park-safari": {
@@ -15585,6 +16575,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "colombo-privet-day-tour-and-shopping": {
+  "title": "科伦坡私人一日游及购物",
+  "metaTitle": "科伦坡私人一日游及购物",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Independence Square, Colombo, Gangaramaya Temple, Old Parliament House和Colombo Lighthouse。由Lanka tours and transfers提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Independence Square, Colombo, Gangaramaya Temple, Old Parliament House和Colombo Lighthouse。由Lanka tours and transfers提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Independence Square, Colombo, Gangaramaya Temple, Old Parliament House和Colombo Lighthouse。全程共6站。\n\n行程顺序为Independence Square, Colombo (40 min), 然后 Gangaramaya Temple (30 min), 然后 Old Parliament House (10 min), 然后 Colombo Lighthouse (10 min), 然后 Old Town Hall Building (10 min)。\n\n价格包含酒店接送、空调车辆、私人交通、停车费用及其他交通相关费用。不包含以上未注明的其他服务、个人性质的消费、所有地点及活动的门票，请另行预算。两位旅客共同支付86美元，而不是每人各付86美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Independence Square, Colombo, Gangaramaya Temple, Old Parliament House和Colombo Lighthouse。由Lanka tours and transfers提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "空调车辆",
+   "私人交通",
+   "停车费用及其他交通相关费用"
+  ],
+  "notIncluded": [
+   "以上未注明的其他服务",
+   "个人性质的消费",
+   "所有地点及活动的门票"
+  ]
+ },
  "colombo-private-guided-city-tour-by-tuk-tuk-all": {
   "title": "科伦坡私人嘟嘟车导游市区游览（全包）",
   "metaTitle": "科伦坡私人嘟嘟车导游市区游览（全包）",
@@ -15619,6 +16630,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "餐饮"
+  ]
+ },
+ "mirissagallehikkaduwa-transfer-to-ella-udawalawa": {
+  "title": "米瑞沙/加勒/希卡杜瓦：接送至埃拉及乌达瓦拉维野生动物园之旅",
+  "metaTitle": "米瑞沙/加勒/希卡杜瓦：接送至埃拉及乌达瓦拉维野生动物园之旅",
+  "metaDescription": "一次全天的Galle体验。在野生动物园之旅中探索乌达瓦拉维国家公园。由Udawalawe Wild Safari Tours提供。",
+  "shortDescription": "一次全天的Galle体验。在野生动物园之旅中探索乌达瓦拉维国家公园。由Udawalawe Wild Safari Tours提供。",
+  "fullDescription": "一次全天的Galle体验。在野生动物园之旅中探索乌达瓦拉维国家公园。\n\n由Udawalawe Wild Safari Tours负责安排，价格中含6项内容。可免费取消。\n\n价格包含从马特勒/米瑞沙/维利加马/乌纳瓦图纳/加勒地区出发的酒店接客、埃拉地区酒店送达、空调车辆接送、乌达瓦拉维国家公园吉普车野生动物园之旅。不包含公园门票费用（每人40美元），请另行预算。两位旅客共同支付160美元，而不是每人各付160美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在野生动物园之旅中探索乌达瓦拉维国家公园"
+  ],
+  "included": [
+   "从马特勒/米瑞沙/维利加马/乌纳瓦图纳/加勒地区出发的酒店接客",
+   "埃拉地区酒店送达",
+   "空调车辆接送",
+   "乌达瓦拉维国家公园吉普车野生动物园之旅"
+  ],
+  "notIncluded": [
+   "公园门票费用（每人40美元）"
   ]
  },
  "bentota-ahungalla-guided-tour": {
@@ -15803,6 +16833,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费（建议支付）"
   ]
  },
+ "muthurajawela-wetland-birdwatching-expedition-by": {
+  "title": "穆图拉贾维拉湿地：乘船观鸟探险",
+  "metaTitle": "穆图拉贾维拉湿地：乘船观鸟探险",
+  "metaDescription": "一次从Colombo出发的3小时行程，游览Tuk tuk和Muthurajawela Wetlands Sanctuary Visitor Center。由Aktivitar提供。",
+  "shortDescription": "一次从Colombo出发的3小时行程，游览Tuk tuk和Muthurajawela Wetlands Sanctuary Visitor Center。由Aktivitar提供。",
+  "fullDescription": "一次从Colombo出发的3小时行程，途经Tuk tuk和Muthurajawela Wetlands Sanctuary Visitor Center。最长的一站是Muthurajawela Wetlands Sanctuary Visitor Center，约2小时。全程共2站。\n\n行程顺序为Tuk tuk (1h), 然后 Muthurajawela Wetlands Sanctuary Visitor Center (2h)。\n\n价格包含乘嘟嘟车接送、船费、简易茶点、当地导游。不包含个人性质的消费、小费（建议支付），请另行预算。两位旅客共同支付153美元，而不是每人各付119美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的3小时行程，游览Tuk tuk和Muthurajawela Wetlands Sanctuary Visitor Center。由Aktivitar提供。"
+  ],
+  "included": [
+   "乘嘟嘟车接送",
+   "船费",
+   "简易茶点",
+   "当地导游"
+  ],
+  "notIncluded": [
+   "个人性质的消费",
+   "小费（建议支付）"
+  ]
+ },
  "hambantotatangallehiriketiya-ella-highlands-day": {
   "title": "汉班托塔/坦加拉/希里凯提亚：埃拉高地一日游",
   "metaTitle": "汉班托塔/坦加拉/希里凯提亚：埃拉高地一日游",
@@ -15891,6 +16941,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "all-inclusive-sigiriya-village-tour-with-lunch": {
+  "title": "全包锡吉里耶村游览，含午餐及接送",
+  "metaTitle": "全包锡吉里耶村游览，含午餐及接送",
+  "metaDescription": "一次从Sigiriya出发的3小时行程，游览Tuk tuk和Dambulla。由Aktivitar提供。",
+  "shortDescription": "一次从Sigiriya出发的3小时行程，游览Tuk tuk和Dambulla。由Aktivitar提供。",
+  "fullDescription": "一次从Sigiriya出发的3小时行程，途经Tuk tuk和Dambulla。全程共2站。\n\n行程顺序为Tuk tuk (30 min), 然后 Dambulla。\n\n价格包含乘嘟嘟车进行酒店接送、当地导游、牛车骑行、传统烹饪示范。不包含个人性质的消费、小费（建议支付），请另行预算。两位旅客共同支付136美元，而不是每人各付111美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Sigiriya出发的3小时行程，游览Tuk tuk和Dambulla。由Aktivitar提供。"
+  ],
+  "included": [
+   "乘嘟嘟车进行酒店接送",
+   "当地导游",
+   "牛车骑行",
+   "传统烹饪示范"
+  ],
+  "notIncluded": [
+   "个人性质的消费",
+   "小费（建议支付）"
+  ]
+ },
  "all-inclusive-hiriwadunna-experience-with": {
   "title": "全包希里瓦杜纳体验，含传统午餐",
   "metaTitle": "全包希里瓦杜纳体验，含传统午餐",
@@ -15931,6 +17001,47 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "未在“价格包含”部分列出的其他费用",
    "小费"
+  ]
+ },
+ "ella-nine-arch-bambaragala-pathana-kombukara": {
+  "title": "埃拉：九拱桥、班巴拉加拉帕塔纳及康布卡拉瀑布",
+  "metaTitle": "埃拉：九拱桥、班巴拉加拉帕塔纳及康布卡拉瀑布",
+  "metaDescription": "一次从Ella出发的半天行程，游览Tuk tuk, Nine Arch Bridge, Nine Arch BridgeTuk tuk和Bambaragala pathana。由Ella Holidays提供。",
+  "shortDescription": "一次从Ella出发的半天行程，游览Tuk tuk, Nine Arch Bridge, Nine Arch BridgeTuk tuk和Bambaragala pathana。由Ella Holidays提供。",
+  "fullDescription": "一次从Ella出发的半天行程，途经Tuk tuk, Nine Arch Bridge, Nine Arch BridgeTuk tuk和Bambaragala pathana。最长的一站是Kombukara Waterfall (Balleketuwa Fall)，约1小时。全程共6站。\n\n行程顺序为Tuk tuk (15 min), 然后 Nine Arch Bridge (30 min), 然后 Nine Arch BridgeTuk tuk (1h), 然后 Bambaragala pathana (1h), 然后 Tuk tuk (30 min)。\n\n价格包含酒店接送（埃拉地区）、午餐、瓶装水、门票及停车费用。不包含徒步装备、小费，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的半天行程，游览Tuk tuk, Nine Arch Bridge, Nine Arch BridgeTuk tuk和Bambaragala pathana。由Ella Holidays提供。"
+  ],
+  "included": [
+   "酒店接送（埃拉地区）",
+   "午餐",
+   "瓶装水",
+   "门票及停车费用"
+  ],
+  "notIncluded": [
+   "徒步装备",
+   "小费"
+  ]
+ },
+ "visit-horton-plains-and-nuwara-eliya-from-kandy": {
+  "title": "从康提出发参观霍顿平原及努沃勒埃利耶",
+  "metaTitle": "从康提出发参观霍顿平原及努沃勒埃利耶",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Horton Plains National Park, Nuwara Eliya, Postal Office ,Nuwara Eliya and Glenloch Tea Factory和Tea Center。由Apple Vacations Sri Lanka and Maldiv...",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Horton Plains National Park, Nuwara Eliya, Postal Office ,Nuwara Eliya and Glenloch Tea Factory和Tea Center。由Apple Vacations Sri Lanka and Maldives提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Horton Plains National Park, Nuwara Eliya, Postal Office ,Nuwara Eliya and Glenloch Tea Factory和Tea Center。最长的一站是Horton Plains National Park，约3小时。全程共4站。\n\n行程顺序为Horton Plains National Park (3h), 然后 Nuwara Eliya, 然后 Postal Office ,Nuwara Eliya (10 min), 然后 Glenloch Tea Factory and Tea Center (45 min)。\n\n价格包含酒店接送、瓶装水、专业资深司机（英语）、乘空调车辆交通（拼团游览）。不包含餐饮（除特别说明外）、小费、景点门票费用，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Horton Plains National Park, Nuwara Eliya, Postal Office ,Nuwara Eliya and Glenloch Tea Factory和Tea Center。由Apple Vacations Sri Lanka and Maldives提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "瓶装水",
+   "专业资深司机（英语）",
+   "乘空调车辆交通（拼团游览）"
+  ],
+  "notIncluded": [
+   "餐饮（除特别说明外）",
+   "小费",
+   "景点门票费用"
   ]
  },
  "from-kandy-polannaruwa-ancient-city-with-farmers": {
@@ -15974,6 +17085,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费",
    "景点门票费用",
    "野生动物园吉普车"
+  ]
+ },
+ "kaudulla-national-park-half-day-private-jeep": {
+  "title": "高杜拉国家公园半日私人吉普车野生动物园之旅",
+  "metaTitle": "高杜拉国家公园半日私人吉普车野生动物园之旅",
+  "metaDescription": "一次从Sigiriya出发的3小时行程，游览Jeep / SUV和Kaudulla National Park。由Sri Lanka Jeep Safari提供。",
+  "shortDescription": "一次从Sigiriya出发的3小时行程，游览Jeep / SUV和Kaudulla National Park。由Sri Lanka Jeep Safari提供。",
+  "fullDescription": "一次从Sigiriya出发的3小时行程，途经Jeep / SUV和Kaudulla National Park。最长的一站是Kaudulla National Park，约3小时。全程共2站。\n\n行程顺序为Jeep / SUV (30 min), 然后 Kaudulla National Park (3h)。\n\n价格包含舒适度最佳的私人四驱野生动物园吉普车、拥有丰富野生动物知识的专业野生动物园司机、持证国家公园追踪向导、全程英语协助。不包含国家公园门票（每人45美元）、餐饮，请另行预算。",
+  "highlights": [
+   "一次从Sigiriya出发的3小时行程，游览Jeep / SUV和Kaudulla National Park。由Sri Lanka Jeep Safari提供。"
+  ],
+  "included": [
+   "舒适度最佳的私人四驱野生动物园吉普车",
+   "拥有丰富野生动物知识的专业野生动物园司机",
+   "持证国家公园追踪向导",
+   "全程英语协助"
+  ],
+  "notIncluded": [
+   "国家公园门票（每人45美元）",
+   "餐饮"
   ]
  },
  "sigiriya-and-dambulla-day-tour-from-ella": {
@@ -16068,6 +17199,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "游船体验",
    "教练",
    "照片"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "餐饮"
+  ]
+ },
+ "atv-ride-in-ella": {
+  "title": "埃拉ATV骑行",
+  "metaTitle": "埃拉ATV骑行",
+  "metaDescription": "一次1小时的Ella体验。ATV骑行。由Z R I Adventures (Private) Limited提供。",
+  "shortDescription": "一次1小时的Ella体验。ATV骑行。由Z R I Adventures (Private) Limited提供。",
+  "fullDescription": "一次1小时的Ella体验。ATV骑行。\n\n由Z R I Adventures (Private) Limited负责安排，价格中含4项内容。可免费取消。\n\n价格包含安全装备（全盔及靴子）、教练、安全须知及培训、一次性弹力头套。不包含酒店接送、餐饮，请另行预算。",
+  "highlights": [
+   "ATV骑行"
+  ],
+  "included": [
+   "安全装备（全盔及靴子）",
+   "教练",
+   "安全须知及培训",
+   "一次性弹力头套"
   ],
   "notIncluded": [
    "酒店接送",
@@ -16171,6 +17322,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "kandy-private-city-tour-by-tuk-tuk-with-local": {
+  "title": "康提私人嘟嘟车市区游览，含当地体验",
+  "metaTitle": "康提私人嘟嘟车市区游览，含当地体验",
+  "metaDescription": "一次半天的Kandy体验。与当地导游一起乘嘟嘟车穿行康提市。由Dinesh Perera提供。",
+  "shortDescription": "一次半天的Kandy体验。与当地导游一起乘嘟嘟车穿行康提市。由Dinesh Perera提供。",
+  "fullDescription": "一次半天的Kandy体验。与当地导游一起乘嘟嘟车穿行康提市。\n\n由Dinesh Perera负责安排，价格中含12项内容。可免费取消。\n\n价格包含酒店接送、私人导游/司机、行程可定制、参观阿斯吉里亚佛塔（免费入场）。不包含景点门票、食物及饮品（不含午餐），请另行预算。",
+  "highlights": [
+   "与当地导游一起乘嘟嘟车穿行康提市"
+  ],
+  "included": [
+   "酒店接送",
+   "私人导游/司机",
+   "行程可定制",
+   "参观阿斯吉里亚佛塔（免费入场）"
+  ],
+  "notIncluded": [
+   "景点门票",
+   "食物及饮品（不含午餐）"
+  ]
+ },
  "colombo-galle-fort-boat-safari-turtles-amazing": {
   "title": "科伦坡-加勒古堡、游船野生动物园、观龟精彩团体游",
   "metaTitle": "科伦坡-加勒古堡、游船野生动物园、观龟精彩团体游",
@@ -16232,6 +17403,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "negombo-lagoon-mangrove-boat-excursion": {
+  "title": "尼甘布潟湖（红树林）游船之旅",
+  "metaTitle": "尼甘布潟湖（红树林）游船之旅",
+  "metaDescription": "一次从Negombo出发的全天行程，游览Tuk tuk, Dutch Canal, Dutch Canal和Negombo Fish Market。由Apple Vacations Sri Lanka and Maldives提供。",
+  "shortDescription": "一次从Negombo出发的全天行程，游览Tuk tuk, Dutch Canal, Dutch Canal和Negombo Fish Market。由Apple Vacations Sri Lanka and Maldives提供。",
+  "fullDescription": "一次从Negombo出发的全天行程，途经Tuk tuk, Dutch Canal, Dutch Canal和Negombo Fish Market。最长的一站是Dutch Canal，约2小时。全程共4站。\n\n行程顺序为Tuk tuk (15 min), 然后 Dutch Canal (2h), 然后 Dutch Canal (10 min), 然后 Negombo Fish Market (10 min)。\n\n价格包含接送服务、乘嘟嘟车接送、红树林船程、瓶装矿泉水。不包含除注明外的餐饮、小费，请另行预算。两位旅客共同支付203美元，而不是每人各付203美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Negombo出发的全天行程，游览Tuk tuk, Dutch Canal, Dutch Canal和Negombo Fish Market。由Apple Vacations Sri Lanka and Maldives提供。"
+  ],
+  "included": [
+   "接送服务",
+   "乘嘟嘟车接送",
+   "红树林船程",
+   "瓶装矿泉水"
+  ],
+  "notIncluded": [
+   "除注明外的餐饮",
+   "小费"
+  ]
+ },
  "colombo-city-street-food-tour-by-tuk-tuk": {
   "title": "科伦坡：嘟嘟车市区街头小吃之旅",
   "metaTitle": "科伦坡：嘟嘟车市区街头小吃之旅",
@@ -16273,6 +17464,70 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "negombo-adventure-water-rafting-in-kitulgala": {
+  "title": "尼甘布：基图尔加拉激流漂筏探险",
+  "metaTitle": "尼甘布：基图尔加拉激流漂筏探险",
+  "metaDescription": "一次从Negombo出发的全天行程，游览Kitulgala。由Apple Vacations Sri Lanka and Maldives提供。",
+  "shortDescription": "一次从Negombo出发的全天行程，游览Kitulgala。由Apple Vacations Sri Lanka and Maldives提供。",
+  "fullDescription": "一次从Negombo出发的全天行程，途经Kitulgala。最长的一站是Kitulgala，约2小时。\n\n价格包含瓶装水、酒店接送、乘私人空调车辆交通、英语司机。不包含小费（可选）、餐饮、其他自选活动（例如速降及滑索），请另行预算。两位旅客共同支付312美元，而不是每人各付245美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Negombo出发的全天行程，游览Kitulgala。由Apple Vacations Sri Lanka and Maldives提供。"
+  ],
+  "included": [
+   "瓶装水",
+   "酒店接送",
+   "乘私人空调车辆交通",
+   "英语司机"
+  ],
+  "notIncluded": [
+   "小费（可选）",
+   "餐饮",
+   "其他自选活动（例如速降及滑索）"
+  ]
+ },
+ "from-ella-yala-national-park-jeep-safari-tour": {
+  "title": "埃拉出发：雅拉国家公园吉普车野生动物园之旅",
+  "metaTitle": "埃拉出发：雅拉国家公园吉普车野生动物园之旅",
+  "metaDescription": "一次从Ella出发的全天行程，游览Yala National Park。由Lakpura®提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Yala National Park。由Lakpura®提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Yala National Park。最长的一站是Yala National Park，约4小时。\n\n价格包含乘空调车辆进行酒店接送、吉普车野生动物园之旅、瓶装水。不包含午餐、小吃及饮品、雅拉国家公园门票费用、小费，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Yala National Park。由Lakpura®提供。"
+  ],
+  "included": [
+   "乘空调车辆进行酒店接送",
+   "吉普车野生动物园之旅",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "午餐、小吃及饮品",
+   "雅拉国家公园门票费用",
+   "小费"
+  ]
+ },
+ "from-colombo-sigiriya-and-dambulla-day-trip-with": {
+  "title": "科伦坡出发：锡吉里耶及丹布勒一日游，含野生动物园之旅",
+  "metaTitle": "科伦坡出发：锡吉里耶及丹布勒一日游，含野生动物园之旅",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Dambulla Royal Cave Temple and Golden Temple和Sigiriya Lion Rock。由Top Guide Sri Lanka提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Dambulla Royal Cave Temple and Golden Temple和Sigiriya Lion Rock。由Top Guide Sri Lanka提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Dambulla Royal Cave Temple and Golden Temple和Sigiriya Lion Rock。最长的一站是Dambulla Royal Cave Temple and Golden Temple，约1小时。全程共2站。\n\n行程顺序为Dambulla Royal Cave Temple and Golden Temple (1h), 然后 Sigiriya Lion Rock (1h)。\n\n价格包含酒店接送、空调车辆交通（轿车/面包车/巴士）、英语司机、锡吉里耶狮子岩导游协助（英语、德语、法语、西班牙语）、锡吉里耶狮子岩及石窟寺门票（如选择全包方案）、国家公园吉普车野生动物园之旅（可选，若选择全包方案）。不包含餐饮（除特别说明外）、可选小费、早餐和午餐，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Dambulla Royal Cave Temple and Golden Temple和Sigiriya Lion Rock。由Top Guide Sri Lanka提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "空调车辆交通（轿车/面包车/巴士）",
+   "英语司机",
+   "锡吉里耶狮子岩导游协助（英语、德语、法语、西班牙语）",
+   "锡吉里耶狮子岩及石窟寺门票（如选择全包方案）",
+   "国家公园吉普车野生动物园之旅（可选，若选择全包方案）"
+  ],
+  "notIncluded": [
+   "餐饮（除特别说明外）",
+   "可选小费",
+   "早餐和午餐"
+  ]
+ },
  "from-sigiriyadambulla-kandy-private-transfer-day": {
   "title": "从锡吉里耶/丹布勒出发：康提私人接送及一日游",
   "metaTitle": "从锡吉里耶/丹布勒出发：康提私人接送及一日游",
@@ -16312,6 +17567,45 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "colombo-city-luxury-tuk-tour": {
+  "title": "科伦坡市豪华嘟嘟车游览",
+  "metaTitle": "科伦坡市豪华嘟嘟车游览",
+  "metaDescription": "一次从Colombo出发的3小时行程，游览Nelum Pokuna Theatre和Old Parliament Building, Colombo。由Rafeez Leisure提供。",
+  "shortDescription": "一次从Colombo出发的3小时行程，游览Nelum Pokuna Theatre和Old Parliament Building, Colombo。由Rafeez Leisure提供。",
+  "fullDescription": "一次从Colombo出发的3小时行程，途经Nelum Pokuna Theatre和Old Parliament Building, Colombo。全程共2站。\n\n行程顺序为Nelum Pokuna Theatre (2 min), 然后 Old Parliament Building, Colombo (1 min)。\n\n价格包含私人豪华嘟嘟车交通、专业英语司机兼导游、酒店接送（限科伦坡市区范围内）、行程中的瓶装水。不包含古迹及寺庙门票费用（如适用）、餐饮，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的3小时行程，游览Nelum Pokuna Theatre和Old Parliament Building, Colombo。由Rafeez Leisure提供。"
+  ],
+  "included": [
+   "私人豪华嘟嘟车交通",
+   "专业英语司机兼导游",
+   "酒店接送（限科伦坡市区范围内）",
+   "行程中的瓶装水"
+  ],
+  "notIncluded": [
+   "古迹及寺庙门票费用（如适用）",
+   "餐饮"
+  ]
+ },
+ "mirissa-guided-sea-turtle-snorkelling-coral-reef": {
+  "title": "米瑞沙：导游带领的海龟浮潜及珊瑚礁探索",
+  "metaTitle": "米瑞沙：导游带领的海龟浮潜及珊瑚礁探索",
+  "metaDescription": "一次从Mirissa出发的2小时行程，游览Mirissa。由My Lanka Trips提供。",
+  "shortDescription": "一次从Mirissa出发的2小时行程，游览Mirissa。由My Lanka Trips提供。",
+  "fullDescription": "一次从Mirissa出发的2小时行程，途经Mirissa。最长的一站是Mirissa，约2小时。\n\n价格包含持证冲浪救生员向导（英语）、船程、100%保证看到海龟、优质浮潜装备。",
+  "highlights": [
+   "一次从Mirissa出发的2小时行程，游览Mirissa。由My Lanka Trips提供。"
+  ],
+  "included": [
+   "持证冲浪救生员向导（英语）",
+   "船程",
+   "100%保证看到海龟",
+   "优质浮潜装备"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "colombo-by-night-city-lights-rooftop-casino": {
   "title": "夜游科伦坡：城市灯火、屋顶及赌场体验",
   "metaTitle": "夜游科伦坡：城市灯火、屋顶及赌场体验",
@@ -16331,6 +17625,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "晚餐",
    "赌场娱乐消费",
    "个人消费"
+  ]
+ },
+ "kandy-to-ella-scenic-train-raide-waterfalls-tea": {
+  "title": "康提至埃拉：风光火车之旅、瀑布及采茶",
+  "metaTitle": "康提至埃拉：风光火车之旅、瀑布及采茶",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Finish at:。由Pekoe Lanka Tours提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Finish at:。由Pekoe Lanka Tours提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Finish at:。\n\n价格包含从康提或康提地区指定酒店出发的接客、从康提到纳奴奥亚及埃拉的私人空调交通、英语司机兼导游、从纳奴奥亚到埃拉的风光火车票。不包含午餐和个人消费、小费、门票，请另行预算。两位旅客共同支付173美元，而不是每人各付173美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Finish at:。由Pekoe Lanka Tours提供。"
+  ],
+  "included": [
+   "从康提或康提地区指定酒店出发的接客",
+   "从康提到纳奴奥亚及埃拉的私人空调交通",
+   "英语司机兼导游",
+   "从纳奴奥亚到埃拉的风光火车票"
+  ],
+  "notIncluded": [
+   "午餐和个人消费",
+   "小费",
+   "门票"
   ]
  },
  "colombo-to-yala-2x-slow-tour-for-seniors-by": {
@@ -16392,6 +17707,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "from-sigiriya-dambulla-habarana-tuk-tuk-tour-with": {
+  "title": "锡吉里耶出发：丹布勒及哈巴拉纳嘟嘟车游览，含午餐",
+  "metaTitle": "锡吉里耶出发：丹布勒及哈巴拉纳嘟嘟车游览，含午餐",
+  "metaDescription": "一次从Sigiriya出发的全天行程，游览Sigiriya Fortress。由Serendipity tours (private) Limited提供。",
+  "shortDescription": "一次从Sigiriya出发的全天行程，游览Sigiriya Fortress。由Serendipity tours (private) Limited提供。",
+  "fullDescription": "一次从Sigiriya出发的全天行程，途经Sigiriya Fortress。最长的一站是Sigiriya Fortress，约3小时。\n\n价格包含嘟嘟车体验、攀登锡吉里耶狮子岩或皮杜兰加拉岩、乡村生活体验、传统烹饪示范。不包含个人消费、小费、旅游保险，请另行预算。",
+  "highlights": [
+   "一次从Sigiriya出发的全天行程，游览Sigiriya Fortress。由Serendipity tours (private) Limited提供。"
+  ],
+  "included": [
+   "嘟嘟车体验",
+   "攀登锡吉里耶狮子岩或皮杜兰加拉岩",
+   "乡村生活体验",
+   "传统烹饪示范"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费",
+   "旅游保险"
+  ]
+ },
  "colombo-city-tour-supervised-tuk-tuk-driving": {
   "title": "科伦坡：市区游览及监督式嘟嘟车驾驶体验",
   "metaTitle": "科伦坡：市区游览及监督式嘟嘟车驾驶体验",
@@ -16410,6 +17746,28 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "莲花塔和甘加拉玫寺门票",
    "个人消费"
+  ]
+ },
+ "hidden-kingdom-journey-colombo-to-sigiriya": {
+  "title": "隐秘王国之旅：科伦坡至锡吉里耶",
+  "metaTitle": "隐秘王国之旅：科伦坡至锡吉里耶",
+  "metaDescription": "一次全天的Colombo体验。将您的科伦坡至锡吉里耶接送变为私人观光探险。由Ceylon Asia Voyage提供。",
+  "shortDescription": "一次全天的Colombo体验。将您的科伦坡至锡吉里耶接送变为私人观光探险。由Ceylon Asia Voyage提供。",
+  "fullDescription": "一次全天的Colombo体验。将您的科伦坡至锡吉里耶接送变为私人观光探险。\n\n由Ceylon Asia Voyage负责安排，价格中含12项内容。可免费取消。\n\n价格包含私人空调轿车或面包车、酒店或机场接客、送达锡吉里耶、丹布勒或哈巴拉纳、英语司机兼导游、燃油。不包含丹布勒石窟寺门票、个人消费、额外的餐饮，请另行预算。两位旅客共同支付286美元，而不是每人各付286美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "将您的科伦坡至锡吉里耶接送变为私人观光探险"
+  ],
+  "included": [
+   "私人空调轿车或面包车",
+   "酒店或机场接客",
+   "送达锡吉里耶、丹布勒或哈巴拉纳",
+   "英语司机兼导游",
+   "燃油"
+  ],
+  "notIncluded": [
+   "丹布勒石窟寺门票",
+   "个人消费",
+   "额外的餐饮"
   ]
  },
  "from-bentota-madu-river-cinnamon-island-mask-tour": {
@@ -16431,6 +17789,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "海龟孵化场门票",
    "餐饮",
    "个人消费"
+  ]
+ },
+ "from-colombonegombo-sigiriya-dambulla-private-day": {
+  "title": "科伦坡/尼甘布出发：锡吉里耶及丹布勒私人一日游",
+  "metaTitle": "科伦坡/尼甘布出发：锡吉里耶及丹布勒私人一日游",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Sigiriya Lion Rock and Dambulla Royal Cave Temple和Golden Temple。由Siri Siri Lanka Traveller's提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Sigiriya Lion Rock and Dambulla Royal Cave Temple和Golden Temple。由Siri Siri Lanka Traveller's提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Sigiriya Lion Rock and Dambulla Royal Cave Temple和Golden Temple。最长的一站是Dambulla Royal Cave Temple and Golden Temple，约1小时。全程共2站。\n\n行程顺序为Sigiriya Lion Rock, 然后 Dambulla Royal Cave Temple and Golden Temple (1h)。\n\n价格包含科伦坡或尼甘布酒店接送、专属您团队的私人空调4x4车辆、英语司机兼导游、锡吉里耶狮子岩门票。不包含早餐和午餐、小费（可选），请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Sigiriya Lion Rock and Dambulla Royal Cave Temple和Golden Temple。由Siri Siri Lanka Traveller's提供。"
+  ],
+  "included": [
+   "科伦坡或尼甘布酒店接送",
+   "专属您团队的私人空调4x4车辆",
+   "英语司机兼导游",
+   "锡吉里耶狮子岩门票"
+  ],
+  "notIncluded": [
+   "早餐和午餐",
+   "小费（可选）"
   ]
  },
  "bentota-bawa-garden-richmond-castle-heritage-tour": {
@@ -16474,6 +17852,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮"
   ]
  },
+ "kandy-sigiriya-rock-fortress-caves-exploration-by": {
+  "title": "康提：锡吉里耶狮子岩及石窟探索，乘SUV",
+  "metaTitle": "康提：锡吉里耶狮子岩及石窟探索，乘SUV",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Jeep / SUV。由One World Tours Pvt Ltd提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Jeep / SUV。由One World Tours Pvt Ltd提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Jeep / SUV。最长的一站是Jeep / SUV，约2小时。\n\n由One World Tours Pvt Ltd负责安排，价格中含8项内容。可免费取消。从康提出发，探索联合国教科文组织世界遗产锡吉里耶狮子岩及丹布勒石窟。\n\n价格包含康提酒店接送、私人SUV交通、专业英语司机、无人机航拍服务。不包含餐饮、个人消费、小费，请另行预算。两位旅客共同支付336美元，而不是每人各付270美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Jeep / SUV。由One World Tours Pvt Ltd提供。"
+  ],
+  "included": [
+   "康提酒店接送",
+   "私人SUV交通",
+   "专业英语司机",
+   "无人机航拍服务"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "个人消费",
+   "小费"
+  ]
+ },
  "1-day-tour-in-colombo-by-private-car-with": {
   "title": "科伦坡1日私人轿车游览，配向导",
   "metaTitle": "科伦坡1日私人轿车游览，配向导",
@@ -16494,6 +17893,47 @@ export const ZH_TOURS: Record<string, TourT> = {
    "甘加拉玫寺门票"
   ]
  },
+ "from-kandy-ambuluwawa-kitulgala-rafting-adams": {
+  "title": "康提出发：安布鲁瓦瓦、基图尔加拉漂流及亚当峰送达",
+  "metaTitle": "康提出发：安布鲁瓦瓦、基图尔加拉漂流及亚当峰送达",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Ambuluwawa Tower, Kitulgala和Finish at:。由kandy super tours提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Ambuluwawa Tower, Kitulgala和Finish at:。由kandy super tours提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Ambuluwawa Tower, Kitulgala和Finish at:。最长的一站是Kitulgala，约3小时。全程共3站。\n\n行程顺序为Ambuluwawa Tower (55 min), 然后 Kitulgala (3h), 然后 Finish at:。\n\n价格包含私人空调车辆、从康提市接客、送达亚当峰地区、英语司机兼导游。不包含住宿、瓶装水以外的餐饮、个人消费，请另行预算。两位旅客共同支付372美元，而不是每人各付280美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Ambuluwawa Tower, Kitulgala和Finish at:。由kandy super tours提供。"
+  ],
+  "included": [
+   "私人空调车辆",
+   "从康提市接客",
+   "送达亚当峰地区",
+   "英语司机兼导游"
+  ],
+  "notIncluded": [
+   "住宿",
+   "瓶装水以外的餐饮",
+   "个人消费"
+  ]
+ },
+ "ella-little-adams-peak-guided-hike-with-tuk-tuk": {
+  "title": "埃拉：小亚当峰导游带领徒步，含嘟嘟车接送",
+  "metaTitle": "埃拉：小亚当峰导游带领徒步，含嘟嘟车接送",
+  "metaDescription": "一次3小时的Ella体验。享受穿越埃拉葱郁风光的嘟嘟车之旅。由Ella tuk tuk and taxi service提供。",
+  "shortDescription": "一次3小时的Ella体验。享受穿越埃拉葱郁风光的嘟嘟车之旅。由Ella tuk tuk and taxi service提供。",
+  "fullDescription": "一次3小时的Ella体验。享受穿越埃拉葱郁风光的嘟嘟车之旅。\n\n由Ella tuk tuk and taxi service负责安排，价格中含5项内容。可免费取消。\n\n价格包含乘嘟嘟车穿行埃拉、导游带领徒步前往小亚当峰、埃拉山谷及周边群山的全景、拍照机会。不包含餐食、个人消费，请另行预算。",
+  "highlights": [
+   "享受穿越埃拉葱郁风光的嘟嘟车之旅"
+  ],
+  "included": [
+   "乘嘟嘟车穿行埃拉",
+   "导游带领徒步前往小亚当峰",
+   "埃拉山谷及周边群山的全景",
+   "拍照机会"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
+  ]
+ },
  "kalutara-richmond-castle-bodhi-garden-river-tour": {
   "title": "卡卢塔拉：里士满城堡、菩提园及河流之旅",
   "metaTitle": "卡卢塔拉：里士满城堡、菩提园及河流之旅",
@@ -16510,6 +17950,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "包含项目中未提及的其他任何费用",
    "小费"
+  ]
+ },
+ "from-colombo-sigiriya-rock-fortress-day-trip-with": {
+  "title": "科伦坡出发：锡吉里耶狮子岩一日游，含午餐",
+  "metaTitle": "科伦坡出发：锡吉里耶狮子岩一日游，含午餐",
+  "metaDescription": "一次全天的Colombo体验。在私人一日游中攀登联合国教科文组织世界遗产锡吉里耶狮子岩。由Royal Bliss Tours提供。",
+  "shortDescription": "一次全天的Colombo体验。在私人一日游中攀登联合国教科文组织世界遗产锡吉里耶狮子岩。由Royal Bliss Tours提供。",
+  "fullDescription": "一次全天的Colombo体验。在私人一日游中攀登联合国教科文组织世界遗产锡吉里耶狮子岩。\n\n由Royal Bliss Tours负责安排，价格中含5项内容。可免费取消。\n\n价格包含私人车辆及司机兼导游、英语导游讲解、乡村停靠点、午餐。不包含锡吉里耶门票，请另行预算。两位旅客共同支付240美元，而不是每人各付240美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在私人一日游中攀登联合国教科文组织世界遗产锡吉里耶狮子岩"
+  ],
+  "included": [
+   "私人车辆及司机兼导游",
+   "英语导游讲解",
+   "乡村停靠点",
+   "午餐"
+  ],
+  "notIncluded": [
+   "锡吉里耶门票"
   ]
  },
  "sri-lanka-10-day-private-tour-with-french": {
@@ -16591,6 +18050,90 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "explore-ella-with-scenic-train-ride-and-tea": {
+  "title": "探索埃拉：风光火车之旅及茶厂参观",
+  "metaTitle": "探索埃拉：风光火车之旅及茶厂参观",
+  "metaDescription": "一次全天的Ella体验。在一个难忘的日子里从南部海岸前往埃拉。由Bentota Travel Mart提供。",
+  "shortDescription": "一次全天的Ella体验。在一个难忘的日子里从南部海岸前往埃拉。由Bentota Travel Mart提供。",
+  "fullDescription": "一次全天的Ella体验。在一个难忘的日子里从南部海岸前往埃拉。\n\n由Bentota Travel Mart负责安排，价格中含9项内容。可免费取消。\n\n价格包含私人空调车辆、司机兼导游、火车票、乘嘟嘟车前往小亚当峰及九拱桥。不包含小费、饮品、个人消费，请另行预算。",
+  "highlights": [
+   "在一个难忘的日子里从南部海岸前往埃拉"
+  ],
+  "included": [
+   "私人空调车辆",
+   "司机兼导游",
+   "火车票",
+   "乘嘟嘟车前往小亚当峰及九拱桥"
+  ],
+  "notIncluded": [
+   "小费",
+   "饮品",
+   "个人消费"
+  ]
+ },
+ "from-mirissa-2-day-south-coast-tour-with-galle": {
+  "title": "米瑞沙出发：南部海岸2日游，含加勒古堡参观",
+  "metaTitle": "米瑞沙出发：南部海岸2日游，含加勒古堡参观",
+  "metaDescription": "一次2天的Mirissa体验。探索米瑞沙海滩、椰树山、鹦鹉岩，欣赏海岸美景。由Padraig Lanka Tours提供。",
+  "shortDescription": "一次2天的Mirissa体验。探索米瑞沙海滩、椰树山、鹦鹉岩，欣赏海岸美景。由Padraig Lanka Tours提供。",
+  "fullDescription": "一次2天的Mirissa体验。探索米瑞沙海滩、椰树山、鹦鹉岩，欣赏海岸美景。\n\n由Padraig Lanka Tours负责安排，价格中含8项内容。可免费取消。\n\n价格包含私人交通、英语司机兼导游、瓶装水、加勒古堡。不包含个人消费和纪念品、未注明的额外食物及饮品、行程中未提及的任何活动或服务，请另行预算。",
+  "highlights": [
+   "探索米瑞沙海滩、椰树山、鹦鹉岩，欣赏海岸美景"
+  ],
+  "included": [
+   "私人交通",
+   "英语司机兼导游",
+   "瓶装水",
+   "加勒古堡"
+  ],
+  "notIncluded": [
+   "个人消费和纪念品",
+   "未注明的额外食物及饮品",
+   "行程中未提及的任何活动或服务"
+  ]
+ },
+ "from-kandy-to-ella-2-night-adventure-via-adams": {
+  "title": "康提至埃拉：2晚探险之旅，途经亚当峰",
+  "metaTitle": "康提至埃拉：2晚探险之旅，途经亚当峰",
+  "metaDescription": "一次2天的Kandy体验。徒步前往壮观的安布鲁瓦瓦塔，欣赏全景山景。由kandy super tours提供。",
+  "shortDescription": "一次2天的Kandy体验。徒步前往壮观的安布鲁瓦瓦塔，欣赏全景山景。由kandy super tours提供。",
+  "fullDescription": "一次2天的Kandy体验。徒步前往壮观的安布鲁瓦瓦塔，欣赏全景山景。\n\n由kandy super tours负责安排，价格中含12项内容。可免费取消。\n\n价格包含从您在康提市的酒店接客、送达您在埃拉的酒店、私人空调车辆、英语司机兼导游。不包含住宿、餐食、努沃勒埃利耶景点门票费用（可选，如适用），请另行预算。两位旅客共同支付491美元，而不是每人各付355美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "徒步前往壮观的安布鲁瓦瓦塔，欣赏全景山景"
+  ],
+  "included": [
+   "从您在康提市的酒店接客",
+   "送达您在埃拉的酒店",
+   "私人空调车辆",
+   "英语司机兼导游"
+  ],
+  "notIncluded": [
+   "住宿",
+   "餐食",
+   "努沃勒埃利耶景点门票费用（可选，如适用）"
+  ]
+ },
+ "bentota-madu-river-safari-and-turtle-hatchery-tour": {
+  "title": "本托塔：马杜河野生动物园之旅及海龟孵化场游览",
+  "metaTitle": "本托塔：马杜河野生动物园之旅及海龟孵化场游览",
+  "metaDescription": "一次从Bentota出发的半天行程，游览Madu Ganga。由Serendipity tours (private) Limited提供。",
+  "shortDescription": "一次从Bentota出发的半天行程，游览Madu Ganga。由Serendipity tours (private) Limited提供。",
+  "fullDescription": "一次从Bentota出发的半天行程，途经Madu Ganga。最长的一站是Madu Ganga，约2小时。\n\n价格包含酒店接送、私人空调交通、经验丰富的本地向导兼司机、马杜河游船野生动物园之旅。不包含餐食、行程中未提及的可选活动或体验、包含项目中未注明的任何额外门票费用，请另行预算。两位旅客共同支付203美元，而不是每人各付169美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Bentota出发的半天行程，游览Madu Ganga。由Serendipity tours (private) Limited提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "私人空调交通",
+   "经验丰富的本地向导兼司机",
+   "马杜河游船野生动物园之旅"
+  ],
+  "notIncluded": [
+   "餐食",
+   "行程中未提及的可选活动或体验",
+   "包含项目中未注明的任何额外门票费用"
+  ]
+ },
  "from-colombo-galle-fort-jungle-beach-boat-safari": {
   "title": "科伦坡出发：加勒古堡、丛林海滩及游船野生动物园一日游",
   "metaTitle": "科伦坡出发：加勒古堡、丛林海滩及游船野生动物园一日游",
@@ -16647,6 +18190,48 @@ export const ZH_TOURS: Record<string, TourT> = {
    "酒店或别墅往返接送"
   ]
  },
+ "kandy-to-galle-private-transfer-with-optional": {
+  "title": "康提至加勒：私人接送，含可选停靠",
+  "metaTitle": "康提至加勒：私人接送，含可选停靠",
+  "metaDescription": "一次半天的Kandy体验。乘私人空调车辆从康提到加勒。由Travelers Arc Sri Lanka提供。",
+  "shortDescription": "一次半天的Kandy体验。乘私人空调车辆从康提到加勒。由Travelers Arc Sri Lanka提供。",
+  "fullDescription": "一次半天的Kandy体验。乘私人空调车辆从康提到加勒。\n\n由Travelers Arc Sri Lanka负责安排，价格中含9项内容。可免费取消。\n\n价格包含从康提到加勒的私人单程交通、舒适的私人空调车辆、根据团体规模选定的车辆、英语司机兼导游。不包含景点持证专业向导、景点门票、餐饮，请另行预算。两位旅客共同支付186美元，而不是每人各付186美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "乘私人空调车辆从康提到加勒"
+  ],
+  "included": [
+   "从康提到加勒的私人单程交通",
+   "舒适的私人空调车辆",
+   "根据团体规模选定的车辆",
+   "英语司机兼导游"
+  ],
+  "notIncluded": [
+   "景点持证专业向导",
+   "景点门票",
+   "餐饮"
+  ]
+ },
+ "tea-field-cycling-and-local-food-tour": {
+  "title": "茶园骑行及当地美食游览",
+  "metaTitle": "茶园骑行及当地美食游览",
+  "metaDescription": "一次半天的Nuwara Eliya体验。与当地导游一起骑行穿越努沃勒埃利耶风光秀丽的茶乡。由ROLLTRIPS提供。",
+  "shortDescription": "一次半天的Nuwara Eliya体验。与当地导游一起骑行穿越努沃勒埃利耶风光秀丽的茶乡。由ROLLTRIPS提供。",
+  "fullDescription": "一次半天的Nuwara Eliya体验。与当地导游一起骑行穿越努沃勒埃利耶风光秀丽的茶乡。\n\n由ROLLTRIPS负责安排，价格中含7项内容。可免费取消。\n\n价格包含自行车、头盔、当地导游、努沃勒埃利耶指定地区内酒店接送。不包含个人消费、小费、未明确列出的任何门票费用，请另行预算。",
+  "highlights": [
+   "与当地导游一起骑行穿越努沃勒埃利耶风光秀丽的茶乡"
+  ],
+  "included": [
+   "自行车",
+   "头盔",
+   "当地导游",
+   "努沃勒埃利耶指定地区内酒店接送"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费",
+   "未明确列出的任何门票费用"
+  ]
+ },
  "ella-tuk-tuk-tour-with-waterfalls-peak-temple": {
   "title": "埃拉：瀑布、峰顶及寺庙嘟嘟车游览",
   "metaTitle": "埃拉：瀑布、峰顶及寺庙嘟嘟车游览",
@@ -16665,6 +18250,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐饮",
    "个人消费"
+  ]
+ },
+ "ella-ayurvedic-spa-experience-at-ravan-herbs": {
+  "title": "埃拉：拉瓦纳草药阿育吠陀理疗体验",
+  "metaTitle": "埃拉：拉瓦纳草药阿育吠陀理疗体验",
+  "metaDescription": "一次从Ella出发的2小时行程，游览Ella Post Office。由Ella Ravana Herbals Ayurvedic Spa提供。",
+  "shortDescription": "一次从Ella出发的2小时行程，游览Ella Post Office。由Ella Ravana Herbals Ayurvedic Spa提供。",
+  "fullDescription": "一次从Ella出发的2小时行程，途经Ella Post Office。最长的一站是Ella Post Office，约2小时。\n\n价格包含阿育吠陀理疗、轻松的养生体验、宁静的环境。不包含餐食、住宿，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的2小时行程，游览Ella Post Office。由Ella Ravana Herbals Ayurvedic Spa提供。"
+  ],
+  "included": [
+   "阿育吠陀理疗",
+   "轻松的养生体验",
+   "宁静的环境"
+  ],
+  "notIncluded": [
+   "餐食",
+   "住宿"
   ]
  },
  "ella-to-hiriketiya-waterfalls-wildlife-safari": {
@@ -16687,6 +18291,46 @@ export const ZH_TOURS: Record<string, TourT> = {
    "国家公园门票"
   ]
  },
+ "mirissa-blue-whale-dolphin-snorkeling-experience": {
+  "title": "米瑞沙：蓝鲸及海豚浮潜体验",
+  "metaTitle": "米瑞沙：蓝鲸及海豚浮潜体验",
+  "metaDescription": "一次从Mirissa出发的全天行程，游览Tuk tuk, Mirissa和Local restaurant。由Bentota Travel Mart提供。",
+  "shortDescription": "一次从Mirissa出发的全天行程，游览Tuk tuk, Mirissa和Local restaurant。由Bentota Travel Mart提供。",
+  "fullDescription": "一次从Mirissa出发的全天行程，途经Tuk tuk, Mirissa和Local restaurant。全程共3站。\n\n行程顺序为Tuk tuk (10 min), 然后 Mirissa, 然后 Local restaurant。\n\n价格包含米瑞沙地区内接送、早晚交通、早餐、从米瑞沙港出发的船程。两位旅客共同支付515美元，而不是每人各付507美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Mirissa出发的全天行程，游览Tuk tuk, Mirissa和Local restaurant。由Bentota Travel Mart提供。"
+  ],
+  "included": [
+   "米瑞沙地区内接送",
+   "早晚交通",
+   "早餐",
+   "从米瑞沙港出发的船程"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "colombo-tuk-tuk-city-tour-with-local-guide-tickets": {
+  "title": "科伦坡嘟嘟车市区游览，配当地导游及门票",
+  "metaTitle": "科伦坡嘟嘟车市区游览，配当地导游及门票",
+  "metaDescription": "一次3小时的Colombo体验。与当地导游一起乘嘟嘟车私人游览探索科伦坡。由VR Tuk Tuk Safari提供。",
+  "shortDescription": "一次3小时的Colombo体验。与当地导游一起乘嘟嘟车私人游览探索科伦坡。由VR Tuk Tuk Safari提供。",
+  "fullDescription": "一次3小时的Colombo体验。与当地导游一起乘嘟嘟车私人游览探索科伦坡。\n\n由VR Tuk Tuk Safari负责安排，价格中含12项内容。可免费取消。\n\n价格包含科伦坡市区范围内酒店接送、经验丰富的英语司机兼导游、欢迎饮品、瓶装水。不包含莲花塔、甘加拉玫寺门票、个人购物消费、科伦坡市区以外的酒店接送，请另行预算。",
+  "highlights": [
+   "与当地导游一起乘嘟嘟车私人游览探索科伦坡"
+  ],
+  "included": [
+   "科伦坡市区范围内酒店接送",
+   "经验丰富的英语司机兼导游",
+   "欢迎饮品",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "莲花塔、甘加拉玫寺门票",
+   "个人购物消费",
+   "科伦坡市区以外的酒店接送"
+  ]
+ },
  "from-kandy-to-sigiriya-or-pidurangala-day-tour-by": {
   "title": "从康提到锡吉里耶或皮杜兰加拉岩一日游，乘嘟嘟车",
   "metaTitle": "从康提到锡吉里耶或皮杜兰加拉岩一日游，乘嘟嘟车",
@@ -16704,6 +18348,48 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "锡吉里耶门票（30美元）及丹布勒门票（10美元）",
+   "小费（可选）"
+  ]
+ },
+ "ella-to-yala-transfer-via-upper-diyaluma-falls": {
+  "title": "埃拉至雅拉接送，途经上迪亚鲁玛瀑布徒步",
+  "metaTitle": "埃拉至雅拉接送，途经上迪亚鲁玛瀑布徒步",
+  "metaDescription": "一次半天的Ella体验。前往雅拉途中，享受导游带领的上迪亚鲁玛瀑布徒步。由Travelers Arc Sri Lanka提供。",
+  "shortDescription": "一次半天的Ella体验。前往雅拉途中，享受导游带领的上迪亚鲁玛瀑布徒步。由Travelers Arc Sri Lanka提供。",
+  "fullDescription": "一次半天的Ella体验。前往雅拉途中，享受导游带领的上迪亚鲁玛瀑布徒步。\n\n由Travelers Arc Sri Lanka负责安排，价格中含8项内容。可免费取消。\n\n价格包含从埃拉到雅拉的私人单程交通、从您在埃拉的住宿地点接客、送达您在雅拉地区的住宿地点、舒适的私人空调车辆。不包含餐饮、个人消费、小费，请另行预算。两位旅客共同支付203美元，而不是每人各付203美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "前往雅拉途中，享受导游带领的上迪亚鲁玛瀑布徒步"
+  ],
+  "included": [
+   "从埃拉到雅拉的私人单程交通",
+   "从您在埃拉的住宿地点接客",
+   "送达您在雅拉地区的住宿地点",
+   "舒适的私人空调车辆"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "个人消费",
+   "小费"
+  ]
+ },
+ "kandy-city-highlights-srilankan-first-tea-estate": {
+  "title": "康提：城市精华及斯里兰卡首座茶园一日游",
+  "metaTitle": "康提：城市精华及斯里兰卡首座茶园一日游",
+  "metaDescription": "一次全天的Kandy体验。探索斯里兰卡首座茶园所在地及360度观景点。由Kandy My Trip提供。",
+  "shortDescription": "一次全天的Kandy体验。探索斯里兰卡首座茶园所在地及360度观景点。由Kandy My Trip提供。",
+  "fullDescription": "一次全天的Kandy体验。探索斯里兰卡首座茶园所在地及360度观景点。\n\n由Kandy My Trip负责安排，价格中含5项内容。可免费取消。\n\n价格包含酒店接送（康提市区）、私人/小团体车辆交通、英语司机兼导游、瓶装水。不包含门票费用、午餐和个人消费、小费（可选），请另行预算。两位旅客共同支付65美元，而不是每人各付62美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "探索斯里兰卡首座茶园所在地及360度观景点"
+  ],
+  "included": [
+   "酒店接送（康提市区）",
+   "私人/小团体车辆交通",
+   "英语司机兼导游",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "门票费用",
+   "午餐和个人消费",
    "小费（可选）"
   ]
  },
@@ -16749,6 +18435,48 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "kandy-firstsecondthird-class-scenic-train-ticket": {
+  "title": "康提：头等/二等/三等座风光火车票，前往埃拉",
+  "metaTitle": "康提：头等/二等/三等座风光火车票，前往埃拉",
+  "metaDescription": "一次全天的Kandy体验。乘坐预留座位，享受从康提到埃拉的风光火车之旅。由Island Odyssey Travels & Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。乘坐预留座位，享受从康提到埃拉的风光火车之旅。由Island Odyssey Travels & Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。乘坐预留座位，享受从康提到埃拉的风光火车之旅。\n\n由Island Odyssey Travels & Tours负责安排，价格中含4项内容。可免费取消。\n\n价格包含单程头等/二等/三等车厢火车票（从康提到埃拉）、预留座位、从康提出发的酒店接送、当地协助及指导。不包含从埃拉送达酒店、餐饮、座位选择，请另行预算。两位旅客共同支付264美元，而不是每人各付186美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "乘坐预留座位，享受从康提到埃拉的风光火车之旅"
+  ],
+  "included": [
+   "单程头等/二等/三等车厢火车票（从康提到埃拉）",
+   "预留座位",
+   "从康提出发的酒店接送",
+   "当地协助及指导"
+  ],
+  "notIncluded": [
+   "从埃拉送达酒店",
+   "餐饮",
+   "座位选择"
+  ]
+ },
+ "sri-lanka-4-day-tour-colombo-bentota-ella-kandy": {
+  "title": "斯里兰卡4日游：科伦坡、本托塔、埃拉、康提",
+  "metaTitle": "斯里兰卡4日游：科伦坡、本托塔、埃拉、康提",
+  "metaDescription": "一次从Colombo出发的4天行程，游览Airport or Colombo to Bentota, Bentota to Ella Via Rathnapura, Ella to Kandy via Nuwara Eliya和Kandy to Airport。由Ceylon Tourlink (Pvt) Ltd提供。",
+  "shortDescription": "一次从Colombo出发的4天行程，游览Airport or Colombo to Bentota, Bentota to Ella Via Rathnapura, Ella to Kandy via Nuwara Eliya和Kandy to Airport。由Ceylon Tourlink (Pvt) Ltd提供。",
+  "fullDescription": "一次从Colombo出发的4天行程，途经Airport or Colombo to Bentota, Bentota to Ella Via Rathnapura, Ella to Kandy via Nuwara Eliya和Kandy to Airport。全程共4站。\n\n行程顺序为Airport or Colombo to Bentota, 然后 Bentota to Ella Via Rathnapura, 然后 Ella to Kandy via Nuwara Eliya, 然后 Kandy to Airport。\n\n价格包含整个4天游览的私人空调车辆、专业英语司机兼导游、从班达拉奈克国际机场出发的接客、行程结束后送至机场。不包含国际机票、签证费用、旅游保险，请另行预算。两位旅客共同支付1329美元，而不是每人各付1195美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的4天行程，游览Airport or Colombo to Bentota, Bentota to Ella Via Rathnapura, Ella to Kandy via Nuwara Eliya和Kandy to Airport。由Ceylon Tourlink (Pvt) Ltd提供。"
+  ],
+  "included": [
+   "整个4天游览的私人空调车辆",
+   "专业英语司机兼导游",
+   "从班达拉奈克国际机场出发的接客",
+   "行程结束后送至机场"
+  ],
+  "notIncluded": [
+   "国际机票",
+   "签证费用",
+   "旅游保险"
+  ]
+ },
  "kandy-to-ella-tea-country-culture-waterfalls": {
   "title": "康提到埃拉：茶乡、文化、瀑布及山脉之旅",
   "metaTitle": "康提到埃拉：茶乡、文化、瀑布及山脉之旅",
@@ -16770,6 +18498,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "午餐"
   ]
  },
+ "kandy-meemure-village-tour-waterfall-visit-local": {
+  "title": "康提：米穆雷村游览、瀑布参观及当地午餐",
+  "metaTitle": "康提：米穆雷村游览、瀑布参观及当地午餐",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Meemure, Sliding Rock AKA suriya Arana film location, Local restaurant和Traditional village。由AMAK TRAVELS (PVT) LTD提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Meemure, Sliding Rock AKA suriya Arana film location, Local restaurant和Traditional village。由AMAK TRAVELS (PVT) LTD提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Meemure, Sliding Rock AKA suriya Arana film location, Local restaurant和Traditional village。最长的一站是Sliding Rock AKA suriya Arana film location，约2小时。全程共4站。\n\n行程顺序为Meemure, 然后 Sliding Rock AKA suriya Arana film location (2h), 然后 Local restaurant (1h), 然后 Traditional village (2h)。\n\n价格包含从康提到米穆雷的往返交通、午餐（传统当地美食）、乡村向导及自然向导服务、瓶装水和茶点。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Meemure, Sliding Rock AKA suriya Arana film location, Local restaurant和Traditional village。由AMAK TRAVELS (PVT) LTD提供。"
+  ],
+  "included": [
+   "从康提到米穆雷的往返交通",
+   "午餐（传统当地美食）",
+   "乡村向导及自然向导服务",
+   "瓶装水和茶点"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "colombo-highlights-entry-ticket": {
   "title": "科伦坡：市区精华嘟嘟车游览，含门票",
   "metaTitle": "科伦坡：市区精华嘟嘟车游览，含门票",
@@ -16787,6 +18534,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "餐食"
+  ]
+ },
+ "colombo-private-tuk-tuk-city-tour-with-all": {
+  "title": "科伦坡：私人嘟嘟车市区游览，含全部门票",
+  "metaTitle": "科伦坡：私人嘟嘟车市区游览，含全部门票",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk和Old Parliament Building, Colombo。由Sri Lanka car and private driver hire提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk和Old Parliament Building, Colombo。由Sri Lanka car and private driver hire提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk和Old Parliament Building, Colombo。全程共17站。\n\n行程顺序为Tuk tuk (10 min), 然后 Colombo Fort Old Lighthouse & Clock Tower, 然后 Tuk tuk (5 min), 然后 Old Parliament Building, Colombo (10 min), 然后 Colombo Port Maritime Museum (10 min)。\n\n价格包含4小时私人游览、私人嘟嘟车交通、专业本地向导兼司机、酒店接送。不包含科伦坡莲花塔门票（20美元），请另行预算。两位旅客共同支付68美元，而不是每人各付43美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk和Old Parliament Building, Colombo。由Sri Lanka car and private driver hire提供。"
+  ],
+  "included": [
+   "4小时私人游览",
+   "私人嘟嘟车交通",
+   "专业本地向导兼司机",
+   "酒店接送"
+  ],
+  "notIncluded": [
+   "科伦坡莲花塔门票（20美元）"
   ]
  },
  "kandy-to-sigiriya-day-tour-and-elephant-safari": {
@@ -16848,6 +18614,68 @@ export const ZH_TOURS: Record<string, TourT> = {
    "可选景点门票费用"
   ]
  },
+ "from-colombo-village-life-in-habarana-ancient": {
+  "title": "科伦坡出发：哈巴拉纳乡村生活及古老锡吉里耶",
+  "metaTitle": "科伦坡出发：哈巴拉纳乡村生活及古老锡吉里耶",
+  "metaDescription": "一次全天的Colombo体验。从科伦坡前往哈巴拉纳，体验乡村生活。由Lanka i Leisure提供。",
+  "shortDescription": "一次全天的Colombo体验。从科伦坡前往哈巴拉纳，体验乡村生活。由Lanka i Leisure提供。",
+  "fullDescription": "一次全天的Colombo体验。从科伦坡前往哈巴拉纳，体验乡村生活。\n\n由Lanka i Leisure负责安排，价格中含8项内容。可免费取消。\n\n价格包含英语导游、科伦坡接送、哈巴拉纳乡村游览、牛车体验。不包含个人消费、小费，请另行预算。",
+  "highlights": [
+   "从科伦坡前往哈巴拉纳，体验乡村生活"
+  ],
+  "included": [
+   "英语导游",
+   "科伦坡接送",
+   "哈巴拉纳乡村游览",
+   "牛车体验"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费"
+  ]
+ },
+ "day-tour-from-colombo-to-sigiriya-dambulla": {
+  "title": "科伦坡出发一日游：锡吉里耶、丹布勒及明内里耶野生动物园",
+  "metaTitle": "科伦坡出发一日游：锡吉里耶、丹布勒及明内里耶野生动物园",
+  "metaDescription": "一次全天的Colombo体验。参观联合国教科文组织名录中的丹布勒石窟寺。由Ceyloney提供。",
+  "shortDescription": "一次全天的Colombo体验。参观联合国教科文组织名录中的丹布勒石窟寺。由Ceyloney提供。",
+  "fullDescription": "一次全天的Colombo体验。参观联合国教科文组织名录中的丹布勒石窟寺。\n\n由Ceyloney负责安排，价格中含6项内容。可免费取消。\n\n价格包含酒店接送、乘空调车辆交通（轿车/面包车/巴士）、英语司机、免费国王椰子。不包含餐饮、小费（可选）、早餐和午餐，请另行预算。两位旅客共同支付271美元，而不是每人各付271美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "参观联合国教科文组织名录中的丹布勒石窟寺"
+  ],
+  "included": [
+   "酒店接送",
+   "乘空调车辆交通（轿车/面包车/巴士）",
+   "英语司机",
+   "免费国王椰子"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "小费（可选）",
+   "早餐和午餐"
+  ]
+ },
+ "4-day-hill-country-tea-trails-private-tour": {
+  "title": "4日高地及茶径私人游览",
+  "metaTitle": "4日高地及茶径私人游览",
+  "metaDescription": "一次从Kandy出发的4天行程，游览Kandy Sightseeing, Kandy to Nuwara Eliya via Tea Country和Scenic Train to Ella。由Majesty Tours Sri Lanka提供。",
+  "shortDescription": "一次从Kandy出发的4天行程，游览Kandy Sightseeing, Kandy to Nuwara Eliya via Tea Country和Scenic Train to Ella。由Majesty Tours Sri Lanka提供。",
+  "fullDescription": "一次从Kandy出发的4天行程，途经Kandy Sightseeing, Kandy to Nuwara Eliya via Tea Country和Scenic Train to Ella。全程共3站。\n\n行程顺序为Kandy Sightseeing, 然后 Kandy to Nuwara Eliya via Tea Country, 然后 Scenic Train to Ella。\n\n价格包含3晚住宿、每日早餐和晚餐、机场接机及接送服务、全程私人空调车辆。不包含午餐、个人消费和纪念品、可选活动，例如滑索体验，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的4天行程，游览Kandy Sightseeing, Kandy to Nuwara Eliya via Tea Country和Scenic Train to Ella。由Majesty Tours Sri Lanka提供。"
+  ],
+  "included": [
+   "3晚住宿",
+   "每日早餐和晚餐",
+   "机场接机及接送服务",
+   "全程私人空调车辆"
+  ],
+  "notIncluded": [
+   "午餐",
+   "个人消费和纪念品",
+   "可选活动，例如滑索体验"
+  ]
+ },
  "from-colombo-kandy-one-day-private-tour-experience": {
   "title": "科伦坡出发：康提一日私人游览体验",
   "metaTitle": "科伦坡出发：康提一日私人游览体验",
@@ -16868,6 +18696,88 @@ export const ZH_TOURS: Record<string, TourT> = {
    "午餐和个人消费"
   ]
  },
+ "ella-yala-national-park-safari-owl-watching-clay": {
+  "title": "埃拉：雅拉国家公园野生动物园之旅、观猫头鹰及陶艺",
+  "metaTitle": "埃拉：雅拉国家公园野生动物园之旅、观猫头鹰及陶艺",
+  "metaDescription": "一次从Ella出发的全天行程，游览Yala National Park, Tissamaharama和Finish at:。由Lanka Amazing Tour提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Yala National Park, Tissamaharama和Finish at:。由Lanka Amazing Tour提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Yala National Park, Tissamaharama和Finish at:。最长的一站是Yala National Park，约5小时。全程共3站。\n\n行程顺序为Yala National Park (5h), 然后 Tissamaharama, 然后 Finish at:。\n\n价格包含从埃拉出发的酒店接送、私人空调车辆及友善的英语司机、雅拉国家公园野生动物园吉普车、经验丰富的野生动物园吉普车司机。不包含雅拉国家公园门票费用、小费、个人消费，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Yala National Park, Tissamaharama和Finish at:。由Lanka Amazing Tour提供。"
+  ],
+  "included": [
+   "从埃拉出发的酒店接送",
+   "私人空调车辆及友善的英语司机",
+   "雅拉国家公园野生动物园吉普车",
+   "经验丰富的野生动物园吉普车司机"
+  ],
+  "notIncluded": [
+   "雅拉国家公园门票费用",
+   "小费",
+   "个人消费"
+  ]
+ },
+ "sri-lanka-highlights-sigiriya-safari-train-ride": {
+  "title": "斯里兰卡精华：锡吉里耶、野生动物园之旅、火车之旅及海滩",
+  "metaTitle": "斯里兰卡精华：锡吉里耶、野生动物园之旅、火车之旅及海滩",
+  "metaDescription": "一次从Sigiriya出发的7天行程，游览Dambulla。由Sri Lanka Eco Tour提供。",
+  "shortDescription": "一次从Sigiriya出发的7天行程，游览Dambulla。由Sri Lanka Eco Tour提供。",
+  "fullDescription": "一次从Sigiriya出发的7天行程，途经Dambulla。\n\n由Sri Lanka Eco Tour负责安排，价格中含12项内容。可免费取消。在配私人交通的7天导游讲解游览中探索斯里兰卡。\n\n价格包含私人交通、精选住宿、精心策划的体验、康提文化表演。不包含国际航班、旅游保险、未说明的餐食，请另行预算。两位旅客共同支付4249美元，而不是每人各付2550美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Sigiriya出发的7天行程，游览Dambulla。由Sri Lanka Eco Tour提供。"
+  ],
+  "included": [
+   "私人交通",
+   "精选住宿",
+   "精心策划的体验",
+   "康提文化表演"
+  ],
+  "notIncluded": [
+   "国际航班",
+   "旅游保险",
+   "未说明的餐食"
+  ]
+ },
+ "sigiriya-kandy-drop-tour-by-private-luxury-car": {
+  "title": "锡吉里耶：康提送达游览，乘私人豪华轿车，适合情侣",
+  "metaTitle": "锡吉里耶：康提送达游览，乘私人豪华轿车，适合情侣",
+  "metaDescription": "一次从Kandy出发的半天行程，游览Matale和Finish at:。由Ceyloney Premium提供。",
+  "shortDescription": "一次从Kandy出发的半天行程，游览Matale和Finish at:。由Ceyloney Premium提供。",
+  "fullDescription": "一次从Kandy出发的半天行程，途经Matale和Finish at:。最长的一站是Matale，约5小时。全程共2站。\n\n行程顺序为Matale (5h), 然后 Finish at:。\n\n价格包含私人豪华空调轿车、专业英语导游、锡吉里耶/丹布勒/哈巴拉纳/波隆纳鲁沃/坎达拉玛酒店接客、康提酒店送达。两位旅客共同支付145美元，而不是每人各付130美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的半天行程，游览Matale和Finish at:。由Ceyloney Premium提供。"
+  ],
+  "included": [
+   "私人豪华空调轿车",
+   "专业英语导游",
+   "锡吉里耶/丹布勒/哈巴拉纳/波隆纳鲁沃/坎达拉玛酒店接客",
+   "康提酒店送达"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "from-colombo-or-negombo-yala-national-park-safari": {
+  "title": "科伦坡或尼甘布出发：雅拉国家公园野生动物园一日游",
+  "metaTitle": "科伦坡或尼甘布出发：雅拉国家公园野生动物园一日游",
+  "metaDescription": "一次全天的Colombo体验。在导游带领的野生动物园之旅中探索雅拉国家公园的多样野生动物。由Sri Lanka car and private driver hire提供。",
+  "shortDescription": "一次全天的Colombo体验。在导游带领的野生动物园之旅中探索雅拉国家公园的多样野生动物。由Sri Lanka car and private driver hire提供。",
+  "fullDescription": "一次全天的Colombo体验。在导游带领的野生动物园之旅中探索雅拉国家公园的多样野生动物。\n\n由Sri Lanka car and private driver hire负责安排，价格中含7项内容。可免费取消。\n\n价格包含科伦坡或尼甘布酒店接送、空调车辆、汽车汽油费及司机、国王椰子。不包含个人消费、小费、午餐，请另行预算。两位旅客共同支付541美元，而不是每人各付541美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在导游带领的野生动物园之旅中探索雅拉国家公园的多样野生动物"
+  ],
+  "included": [
+   "科伦坡或尼甘布酒店接送",
+   "空调车辆",
+   "汽车汽油费及司机",
+   "国王椰子"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费",
+   "午餐"
+  ]
+ },
  "galle-fort-sea-turtles-koggala-lake-south-coast": {
   "title": "加勒：古堡、海龟、科加拉湖及南海岸游览",
   "metaTitle": "加勒：古堡、海龟、科加拉湖及南海岸游览",
@@ -16885,6 +18795,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "全部门票及活动费用（包括科加拉湖游船野生动物园及烹饪体验），需由客人在相应柜台或活动提供方处直接支付"
+  ]
+ },
+ "from-kandy-private-knuckles-mountain-range-day": {
+  "title": "康提出发：私人纳克尔斯山脉一日游",
+  "metaTitle": "康提出发：私人纳克尔斯山脉一日游",
+  "metaDescription": "一次全天的Kandy体验。探索兰加拉及纳克尔斯山脉的宁静美景。由Royal kandy tours提供。",
+  "shortDescription": "一次全天的Kandy体验。探索兰加拉及纳克尔斯山脉的宁静美景。由Royal kandy tours提供。",
+  "fullDescription": "一次全天的Kandy体验。探索兰加拉及纳克尔斯山脉的宁静美景。\n\n由Royal kandy tours负责安排，价格中含5项内容。可免费取消。\n\n价格包含自然体验、风景观景点、瀑布、溪流。",
+  "highlights": [
+   "探索兰加拉及纳克尔斯山脉的宁静美景"
+  ],
+  "included": [
+   "自然体验",
+   "风景观景点",
+   "瀑布",
+   "溪流"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "kandy-to-sigiriya-rock-minneriya-safari-privet": {
@@ -17090,6 +19019,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "kalutara-yala-safari-with-private-jeep-entry": {
+  "title": "卡卢塔拉：雅拉野生动物园之旅，含私人吉普车及门票",
+  "metaTitle": "卡卢塔拉：雅拉野生动物园之旅，含私人吉普车及门票",
+  "metaDescription": "一次全天的Bentota体验。在私人野生动物园之旅中探索斯里兰卡最著名的国家公园。由TS Tours Sri Lanka提供。",
+  "shortDescription": "一次全天的Bentota体验。在私人野生动物园之旅中探索斯里兰卡最著名的国家公园。由TS Tours Sri Lanka提供。",
+  "fullDescription": "一次全天的Bentota体验。在私人野生动物园之旅中探索斯里兰卡最著名的国家公园。\n\n由TS Tours Sri Lanka负责安排，价格中含6项内容。可免费取消。\n\n价格包含私人酒店接送、全程空调私人交通、私人丰田海拉克斯4x4野生动物园吉普车、雅拉国家公园内半日野生动物园之旅。不包含餐饮，请另行预算。两位旅客共同支付626美元，而不是每人各付626美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在私人野生动物园之旅中探索斯里兰卡最著名的国家公园"
+  ],
+  "included": [
+   "私人酒店接送",
+   "全程空调私人交通",
+   "私人丰田海拉克斯4x4野生动物园吉普车",
+   "雅拉国家公园内半日野生动物园之旅"
+  ],
+  "notIncluded": [
+   "餐饮"
+  ]
+ },
  "ella-full-day-trip-hotel-pickup-and-drop-off": {
   "title": "埃拉全日游，含酒店接送",
   "metaTitle": "埃拉全日游，含酒店接送",
@@ -17150,6 +19098,46 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "colombo-guided-city-tour-with-hotel-pickup": {
+  "title": "科伦坡：导游讲解市区游览，含酒店接客",
+  "metaTitle": "科伦坡：导游讲解市区游览，含酒店接客",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Tuk tuk。由On My Way Tours & Travels Colombo Pvt Ltd提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Tuk tuk。由On My Way Tours & Travels Colombo Pvt Ltd提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Tuk tuk。\n\n由On My Way Tours & Travels Colombo Pvt Ltd负责安排，价格中含10项内容。可免费取消。在含酒店接客的导游讲解游览中探索科伦坡这座活力之城。\n\n价格包含酒店接送、科伦坡导游讲解游览、参观红色清真寺、参观印度教寺庙。不包含门票，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Tuk tuk。由On My Way Tours & Travels Colombo Pvt Ltd提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "科伦坡导游讲解游览",
+   "参观红色清真寺",
+   "参观印度教寺庙"
+  ],
+  "notIncluded": [
+   "门票"
+  ]
+ },
+ "colombo-to-madu-river-galle-city-tour-with-ticket": {
+  "title": "科伦坡至马杜河及加勒市区游览，含门票",
+  "metaTitle": "科伦坡至马杜河及加勒市区游览，含门票",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Mangrove Cave Seafood Restaurant, Meetiyagoda Moonstone Mine和Galle Fort。由EDEN HEWAN PRIVATE LIMITED提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Mangrove Cave Seafood Restaurant, Meetiyagoda Moonstone Mine和Galle Fort。由EDEN HEWAN PRIVATE LIMITED提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Mangrove Cave Seafood Restaurant, Meetiyagoda Moonstone Mine和Galle Fort。最长的一站是Galle Fort，约2小时。全程共3站。\n\n行程顺序为Mangrove Cave Seafood Restaurant, 然后 Meetiyagoda Moonstone Mine (1h), 然后 Galle Fort (2h)。\n\n价格包含科伦坡酒店接送、私人空调车辆、专业司机、参观米蒂亚戈达月光石矿。不包含餐饮、个人消费、司机/导游小费，请另行预算。两位旅客共同支付475美元，而不是每人各付314美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Mangrove Cave Seafood Restaurant, Meetiyagoda Moonstone Mine和Galle Fort。由EDEN HEWAN PRIVATE LIMITED提供。"
+  ],
+  "included": [
+   "科伦坡酒店接送",
+   "私人空调车辆",
+   "专业司机",
+   "参观米蒂亚戈达月光石矿"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "个人消费",
+   "司机/导游小费"
+  ]
+ },
  "4-day-sri-lanka-beach-relaxing-tour-for-senior": {
   "title": "斯里兰卡4日海滩休闲游：专为年长旅客打造",
   "metaTitle": "斯里兰卡4日海滩休闲游：专为年长旅客打造",
@@ -17206,6 +19194,67 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食"
   ]
  },
+ "galle-matara-private-tuk-tuk-tour-with-hotel": {
+  "title": "加勒及马特勒：私人嘟嘟车游览，含酒店接客",
+  "metaTitle": "加勒及马特勒：私人嘟嘟车游览，含酒店接客",
+  "metaDescription": "一次半天的Galle体验。在私人嘟嘟车游览中探索斯里兰卡南部的精华。由Il Mio提供。",
+  "shortDescription": "一次半天的Galle体验。在私人嘟嘟车游览中探索斯里兰卡南部的精华。由Il Mio提供。",
+  "fullDescription": "一次半天的Galle体验。在私人嘟嘟车游览中探索斯里兰卡南部的精华。\n\n由Il Mio负责安排，价格中含4项内容。可免费取消。\n\n价格包含免费酒店接送、私人交通、个性化行程、当地推荐。两位旅客共同支付76美元，而不是每人各付76美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在私人嘟嘟车游览中探索斯里兰卡南部的精华"
+  ],
+  "included": [
+   "免费酒店接送",
+   "私人交通",
+   "个性化行程",
+   "当地推荐"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "southern-coast-ella-hidden-waterfalls-cultural": {
+  "title": "南部海岸：埃拉隐秘瀑布及文化一日游",
+  "metaTitle": "南部海岸：埃拉隐秘瀑布及文化一日游",
+  "metaDescription": "一次从Ella出发的全天行程，游览Ella, Sri Lanka。由Sritrailsjourney提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Ella, Sri Lanka。由Sritrailsjourney提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Ella, Sri Lanka。\n\n价格包含私人空调交通、从加勒、希卡杜瓦或米瑞沙出发的酒店接送、专业当地导游、全程导游讲解及协助、参观九拱桥、参观罗婆那瀑布。不包含全部门票、景点及活动费用、茶厂费用、食物及饮品，需在相应柜台或活动提供方处直接支付，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Ella, Sri Lanka。由Sritrailsjourney提供。"
+  ],
+  "included": [
+   "私人空调交通",
+   "从加勒、希卡杜瓦或米瑞沙出发的酒店接送",
+   "专业当地导游",
+   "全程导游讲解及协助",
+   "参观九拱桥",
+   "参观罗婆那瀑布"
+  ],
+  "notIncluded": [
+   "全部门票、景点及活动费用、茶厂费用、食物及饮品，需在相应柜台或活动提供方处直接支付"
+  ]
+ },
+ "sri-lanka-13-days-sightseeing-privet-tour-come-to": {
+  "title": "斯里兰卡：13天观光私人游览，尽享放松",
+  "metaTitle": "斯里兰卡：13天观光私人游览，尽享放松",
+  "metaDescription": "一次从Colombo出发的13天行程，游览Negombo, Atamasthana, Mihintale和Polonnaruwa。由Lanka Safe Tours提供。",
+  "shortDescription": "一次从Colombo出发的13天行程，游览Negombo, Atamasthana, Mihintale和Polonnaruwa。由Lanka Safe Tours提供。",
+  "fullDescription": "一次从Colombo出发的13天行程，途经Negombo, Atamasthana, Mihintale和Polonnaruwa。全程共19站。\n\n行程顺序为Negombo, 然后 Atamasthana, 然后 Mihintale, 然后 Polonnaruwa, 然后 Minneriya National Park。\n\n价格包含全程私人空调车辆、经验丰富的英语司机/导游服务、机场接送服务、按行程安排的观光参观。不包含景点及国家公园门票费用、住宿、餐饮，请另行预算。两位旅客共同支付2685美元，而不是每人各付2685美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的13天行程，游览Negombo, Atamasthana, Mihintale和Polonnaruwa。由Lanka Safe Tours提供。"
+  ],
+  "included": [
+   "全程私人空调车辆",
+   "经验丰富的英语司机/导游服务",
+   "机场接送服务",
+   "按行程安排的观光参观"
+  ],
+  "notIncluded": [
+   "景点及国家公园门票费用",
+   "住宿",
+   "餐饮"
+  ]
+ },
  "from-colombo-2-day-kandy-tour-with-airport-pickup": {
   "title": "科伦坡出发：康提2日游，含机场接机",
   "metaTitle": "科伦坡出发：康提2日游，含机场接机",
@@ -17227,6 +19276,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "景点门票费用"
   ]
  },
+ "bentota-private-mangrove-boat-safari-with-hotel": {
+  "title": "本托塔：私人红树林游船野生动物园之旅，含酒店接客",
+  "metaTitle": "本托塔：私人红树林游船野生动物园之旅，含酒店接客",
+  "metaDescription": "一次从Bentota出发的2小时行程，游览Bentota River。由HiddenRoots 2h Private Bentota River Safari:Mangrove,Croc &Monkeys提供。",
+  "shortDescription": "一次从Bentota出发的2小时行程，游览Bentota River。由HiddenRoots 2h Private Bentota River Safari:Mangrove,Croc &Monkeys提供。",
+  "fullDescription": "一次从Bentota出发的2小时行程，途经Bentota River。\n\n价格包含免费从本托塔、贝鲁瓦拉、因杜鲁瓦、马戈纳周边酒店接客。其他地点也可接客，但需额外收费、安全装备包、每人一份新鲜国王椰子、当地导游。",
+  "highlights": [
+   "一次从Bentota出发的2小时行程，游览Bentota River。由HiddenRoots 2h Private Bentota River Safari:Mangrove,Croc &Monkeys提供。"
+  ],
+  "included": [
+   "免费从本托塔、贝鲁瓦拉、因杜鲁瓦、马戈纳周边酒店接客。其他地点也可接客，但需额外收费",
+   "安全装备包",
+   "每人一份新鲜国王椰子",
+   "当地导游"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "galle-authentic-private-tuk-tuk-tour": {
   "title": "加勒：地道私人嘟嘟车之旅",
   "metaTitle": "加勒：地道私人嘟嘟车之旅",
@@ -17244,6 +19312,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "colombo-city-tour-with-hotel-pickup-from-bentota": {
+  "title": "科伦坡市区游览，从本托塔/阿胡加拉酒店接客",
+  "metaTitle": "科伦坡市区游览，从本托塔/阿胡加拉酒店接客",
+  "metaDescription": "一次全天的Colombo体验。从本托塔出发，在导游讲解游览中探索科伦坡顶级景点。由Ceylon Luxury Travels提供。",
+  "shortDescription": "一次全天的Colombo体验。从本托塔出发，在导游讲解游览中探索科伦坡顶级景点。由Ceylon Luxury Travels提供。",
+  "fullDescription": "一次全天的Colombo体验。从本托塔出发，在导游讲解游览中探索科伦坡顶级景点。\n\n由Ceylon Luxury Travels负责安排，价格中含8项内容。可免费取消。\n\n价格包含酒店接送、专业英语司机、舒适的空调私人交通、行程中的瓶装水。不包含餐食、饮品、个人消费，请另行预算。",
+  "highlights": [
+   "从本托塔出发，在导游讲解游览中探索科伦坡顶级景点"
+  ],
+  "included": [
+   "酒店接送",
+   "专业英语司机",
+   "舒适的空调私人交通",
+   "行程中的瓶装水"
+  ],
+  "notIncluded": [
+   "餐食",
+   "饮品",
+   "个人消费"
   ]
  },
  "sigiriya-rock-kaudulla-guided-tour": {
@@ -17322,6 +19411,28 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "from-sigiriya-anuradhapura-sacred-city-tour-with": {
+  "title": "锡吉里耶出发：阿努拉德普勒圣城游览，配导游",
+  "metaTitle": "锡吉里耶出发：阿努拉德普勒圣城游览，配导游",
+  "metaDescription": "一次从Sigiriya出发的半天行程，游览Jeep / SUV和Anuradhapura。由Ceyloney Premium提供。",
+  "shortDescription": "一次从Sigiriya出发的半天行程，游览Jeep / SUV和Anuradhapura。由Ceyloney Premium提供。",
+  "fullDescription": "一次从Sigiriya出发的半天行程，途经Jeep / SUV和Anuradhapura。最长的一站是Anuradhapura，约5小时。全程共2站。\n\n行程顺序为Jeep / SUV (1h), 然后 Anuradhapura (5h)。\n\n价格包含酒店接送（锡吉里耶、丹布勒、哈巴拉纳）、私人车辆、专业当地导游、瓶装饮用水、停车费、燃油及司机。不包含阿努拉德普勒景点门票费用、米欣特莱景点门票费用，请另行预算。",
+  "highlights": [
+   "一次从Sigiriya出发的半天行程，游览Jeep / SUV和Anuradhapura。由Ceyloney Premium提供。"
+  ],
+  "included": [
+   "酒店接送（锡吉里耶、丹布勒、哈巴拉纳）",
+   "私人车辆",
+   "专业当地导游",
+   "瓶装饮用水",
+   "停车费",
+   "燃油及司机"
+  ],
+  "notIncluded": [
+   "阿努拉德普勒景点门票费用",
+   "米欣特莱景点门票费用"
   ]
  },
  "kandy-pinnawala-elephant-village-tuk-tok-tour": {
@@ -17406,6 +19517,66 @@ export const ZH_TOURS: Record<string, TourT> = {
    "旅游保险"
   ]
  },
+ "kandy-city-tour-street-food-wood-carving-tuk-tuk": {
+  "title": "康提市区游览：街头美食及木雕嘟嘟车探险",
+  "metaTitle": "康提市区游览：街头美食及木雕嘟嘟车探险",
+  "metaDescription": "一次半天的Kandy体验。与当地导游一起乘嘟嘟车穿行康提市。由Tuk Tuk Kandy City Tour提供。",
+  "shortDescription": "一次半天的Kandy体验。与当地导游一起乘嘟嘟车穿行康提市。由Tuk Tuk Kandy City Tour提供。",
+  "fullDescription": "一次半天的Kandy体验。与当地导游一起乘嘟嘟车穿行康提市。\n\n由Tuk Tuk Kandy City Tour负责安排，价格中含12项内容。可免费取消。\n\n价格包含康提周边地区酒店接送、私人嘟嘟车及友善的当地司机兼导游、木雕工坊，免费、行程可完全定制。不包含个人消费、小费（可选），请另行预算。",
+  "highlights": [
+   "与当地导游一起乘嘟嘟车穿行康提市"
+  ],
+  "included": [
+   "康提周边地区酒店接送",
+   "私人嘟嘟车及友善的当地司机兼导游",
+   "木雕工坊，免费",
+   "行程可完全定制"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费（可选）"
+  ]
+ },
+ "negombo-to-kandy-pinnawala-tea-factory-private": {
+  "title": "尼甘布至康提：皮纳瓦拉及茶厂（私人游览）",
+  "metaTitle": "尼甘布至康提：皮纳瓦拉及茶厂（私人游览）",
+  "metaDescription": "一次从Kandy出发的半天行程，游览Pinnawala Elephant Orphanage, New Giragama Tea factory & Restaurant和Finish at:。由Heli Tuk Tuk Tours提供。",
+  "shortDescription": "一次从Kandy出发的半天行程，游览Pinnawala Elephant Orphanage, New Giragama Tea factory & Restaurant和Finish at:。由Heli Tuk Tuk Tours提供。",
+  "fullDescription": "一次从Kandy出发的半天行程，途经Pinnawala Elephant Orphanage, New Giragama Tea factory & Restaurant和Finish at:。最长的一站是Pinnawala Elephant Orphanage，约1小时。全程共3站。\n\n行程顺序为Pinnawala Elephant Orphanage (1h), 然后 New Giragama Tea factory & Restaurant (30 min), 然后 Finish at:。\n\n价格包含乘嘟嘟车从尼甘布到康提、参观皮纳瓦拉象孤儿院、参观传统茶厂、品茶体验。不包含皮纳瓦拉象孤儿院门票费用，请另行预算。两位旅客共同支付271美元，而不是每人各付237美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的半天行程，游览Pinnawala Elephant Orphanage, New Giragama Tea factory & Restaurant和Finish at:。由Heli Tuk Tuk Tours提供。"
+  ],
+  "included": [
+   "乘嘟嘟车从尼甘布到康提",
+   "参观皮纳瓦拉象孤儿院",
+   "参观传统茶厂",
+   "品茶体验"
+  ],
+  "notIncluded": [
+   "皮纳瓦拉象孤儿院门票费用"
+  ]
+ },
+ "kandy-heritage-tea-traditions-cultural-journey": {
+  "title": "康提遗产、茶文化及传统，私人文化之旅",
+  "metaTitle": "康提遗产、茶文化及传统，私人文化之旅",
+  "metaDescription": "一次从Kandy出发的半天行程，游览Kegalle, Jayathissa Juice Bar, Peradeniya和Temple of the Sacred Tooth Relic。由Luxe Voyages Tours Sri Lanka提供。",
+  "shortDescription": "一次从Kandy出发的半天行程，游览Kegalle, Jayathissa Juice Bar, Peradeniya和Temple of the Sacred Tooth Relic。由Luxe Voyages Tours Sri Lanka提供。",
+  "fullDescription": "一次从Kandy出发的半天行程，途经Kegalle, Jayathissa Juice Bar, Peradeniya和Temple of the Sacred Tooth Relic。最长的一站是Peradeniya，约1小时。全程共4站。\n\n行程顺序为Kegalle (20 min), 然后 Jayathissa Juice Bar (30 min), 然后 Peradeniya (1h), 然后 Temple of the Sacred Tooth Relic (1h)。\n\n价格包含私人空调交通、英语/德语导游、瓶装水、参观所有风光景点。不包含门票费用、餐食、个人消费，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的半天行程，游览Kegalle, Jayathissa Juice Bar, Peradeniya和Temple of the Sacred Tooth Relic。由Luxe Voyages Tours Sri Lanka提供。"
+  ],
+  "included": [
+   "私人空调交通",
+   "英语/德语导游",
+   "瓶装水",
+   "参观所有风光景点"
+  ],
+  "notIncluded": [
+   "门票费用",
+   "餐食",
+   "个人消费"
+  ]
+ },
  "nuwara-eliya-private-waterfalls-tea-paddy-fields": {
   "title": "努沃勒埃利耶：私人瀑布、茶园及稻田之旅",
   "metaTitle": "努沃勒埃利耶：私人瀑布、茶园及稻田之旅",
@@ -17447,6 +19618,49 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮"
   ]
  },
+ "kandy-private-customizable-city-tour-by-car-van": {
+  "title": "康提：私人定制市区游览，可选轿车、面包车或嘟嘟车",
+  "metaTitle": "康提：私人定制市区游览，可选轿车、面包车或嘟嘟车",
+  "metaDescription": "一次从Kandy出发的半天行程，游览Tuk tuk, Bahirawakanda Buddha, Isini Gems & Jewellers (Pvt) Ltd和New Ranweli Spice Garden Kandy。由Pekoe Lanka Tours提供。",
+  "shortDescription": "一次从Kandy出发的半天行程，游览Tuk tuk, Bahirawakanda Buddha, Isini Gems & Jewellers (Pvt) Ltd和New Ranweli Spice Garden Kandy。由Pekoe Lanka Tours提供。",
+  "fullDescription": "一次从Kandy出发的半天行程，途经Tuk tuk, Bahirawakanda Buddha, Isini Gems & Jewellers (Pvt) Ltd和New Ranweli Spice Garden Kandy。全程共8站。\n\n行程顺序为Tuk tuk (5 min), 然后 Bahirawakanda Buddha, 然后 Isini Gems & Jewellers (Pvt) Ltd, 然后 New Ranweli Spice Garden Kandy, 然后 Kandy view point。\n\n价格包含酒店接送、私人当地导游/司机、私人嘟嘟车、轿车或面包车、行程可完全定制、当地推荐、燃油费。不包含门票、餐饮、个人消费，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的半天行程，游览Tuk tuk, Bahirawakanda Buddha, Isini Gems & Jewellers (Pvt) Ltd和New Ranweli Spice Garden Kandy。由Pekoe Lanka Tours提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "私人当地导游/司机",
+   "私人嘟嘟车、轿车或面包车",
+   "行程可完全定制",
+   "当地推荐",
+   "燃油费"
+  ],
+  "notIncluded": [
+   "门票",
+   "餐饮",
+   "个人消费"
+  ]
+ },
+ "kandy-guided-gem-museum-lapidary-tour-mahaweli": {
+  "title": "康提：导游带领宝石博物馆及宝石加工游览，含马哈维利河",
+  "metaTitle": "康提：导游带领宝石博物馆及宝石加工游览，含马哈维利河",
+  "metaDescription": "一次从Kandy出发的3小时行程，游览Canbuy Gem Museum和Mahaweli Ganga。由Sanjeewa and Thirandi Tours - Sri Lanka提供。",
+  "shortDescription": "一次从Kandy出发的3小时行程，游览Canbuy Gem Museum和Mahaweli Ganga。由Sanjeewa and Thirandi Tours - Sri Lanka提供。",
+  "fullDescription": "一次从Kandy出发的3小时行程，途经Canbuy Gem Museum和Mahaweli Ganga。最长的一站是Canbuy Gem Museum，约2小时。全程共2站。\n\n行程顺序为Canbuy Gem Museum (2h), 然后 Mahaweli Ganga (40 min)。\n\n价格包含酒店接送、参观宝石博物馆及宝石加工中心、模拟矿井导游讲解游览、参观地质博物馆。不包含餐食、个人消费，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的3小时行程，游览Canbuy Gem Museum和Mahaweli Ganga。由Sanjeewa and Thirandi Tours - Sri Lanka提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "参观宝石博物馆及宝石加工中心",
+   "模拟矿井导游讲解游览",
+   "参观地质博物馆"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
+  ]
+ },
  "polonnaruwa-tour-minneriya-eco-park-sigiriya-drop": {
   "title": "波隆纳鲁沃游览、明内里耶生态公园及锡吉里耶送达",
   "metaTitle": "波隆纳鲁沃游览、明内里耶生态公园及锡吉里耶送达",
@@ -17466,6 +19680,45 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食",
    "景点门票费用",
    "小费"
+  ]
+ },
+ "colombo-airport-sigiriya-kandy-or-ella-private": {
+  "title": "科伦坡机场至锡吉里耶、康提或埃拉私人轿车游览",
+  "metaTitle": "科伦坡机场至锡吉里耶、康提或埃拉私人轿车游览",
+  "metaDescription": "一次0.5小时的Colombo体验。享受从科伦坡机场前往锡吉里耶、康提或埃拉的私人游览。由Tripnova Tours提供。",
+  "shortDescription": "一次0.5小时的Colombo体验。享受从科伦坡机场前往锡吉里耶、康提或埃拉的私人游览。由Tripnova Tours提供。",
+  "fullDescription": "一次0.5小时的Colombo体验。享受从科伦坡机场前往锡吉里耶、康提或埃拉的私人游览。\n\n由Tripnova Tours负责安排，价格中含12项内容。可免费取消。\n\n价格包含机场迎接（手持姓名牌，可安排机场接送）、专属您团队的私人空调车辆、专业英语司机兼导游、全岛门到门服务：机场接机至酒店送达。不包含超出公里限额后，每组每额外1公里收费0.45美元、景点门票费用、餐饮，请另行预算。",
+  "highlights": [
+   "享受从科伦坡机场前往锡吉里耶、康提或埃拉的私人游览"
+  ],
+  "included": [
+   "机场迎接（手持姓名牌，可安排机场接送）",
+   "专属您团队的私人空调车辆",
+   "专业英语司机兼导游",
+   "全岛门到门服务：机场接机至酒店送达"
+  ],
+  "notIncluded": [
+   "超出公里限额后，每组每额外1公里收费0.45美元",
+   "景点门票费用",
+   "餐饮"
+  ]
+ },
+ "colombo-unlimited-free-tea-tasting-experience": {
+  "title": "科伦坡：无限免费品茶体验",
+  "metaTitle": "科伦坡：无限免费品茶体验",
+  "metaDescription": "一次从Colombo出发的1小时行程，游览Tuk tuk和LUV PARADISE。由Luv Paradise提供。",
+  "shortDescription": "一次从Colombo出发的1小时行程，游览Tuk tuk和LUV PARADISE。由Luv Paradise提供。",
+  "fullDescription": "一次从Colombo出发的1小时行程，途经Tuk tuk和LUV PARADISE。最长的一站是LUV PARADISE，约1小时。全程共2站。\n\n行程顺序为Tuk tuk (30 min), 然后 LUV PARADISE (1h)。\n\n价格包含无限品茶、简短茶文化讲解、健康及养生知识讲解。两位旅客共同支付15美元，而不是每人各付8美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的1小时行程，游览Tuk tuk和LUV PARADISE。由Luv Paradise提供。"
+  ],
+  "included": [
+   "无限品茶",
+   "简短茶文化讲解",
+   "健康及养生知识讲解"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "from-hatton-or-nuwara-eliya-adams-peak-sunrise": {
@@ -17509,6 +19762,45 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "colombo-guided-city-tour-galle-fort-boat-safari": {
+  "title": "科伦坡：导游讲解市区游览、加勒古堡及游船野生动物园一日游",
+  "metaTitle": "科伦坡：导游讲解市区游览、加勒古堡及游船野生动物园一日游",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Colombo, Galle Fort, Madu Ganga Boat Safari和Ahungalla Sea Turtles Conservation Project。由Serendipity tours (private) Limited提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Colombo, Galle Fort, Madu Ganga Boat Safari和Ahungalla Sea Turtles Conservation Project。由Serendipity tours (private) Limited提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Colombo, Galle Fort, Madu Ganga Boat Safari和Ahungalla Sea Turtles Conservation Project。最长的一站是Colombo，约2小时。全程共5站。\n\n行程顺序为Colombo (2h), 然后 Galle Fort (45 min), 然后 Madu Ganga Boat Safari (1h), 然后 Ahungalla Sea Turtles Conservation Project (20 min), 然后 Kosgoda Spice Garden 777 (20 min)。\n\n价格包含酒店接送、瓶装水、导游讲解的科伦坡市区游览、参观加勒古堡。不包含门票（海龟养殖场/船票）、食物（午餐或早餐），请另行预算。两位旅客共同支付220美元，而不是每人各付162美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Colombo, Galle Fort, Madu Ganga Boat Safari和Ahungalla Sea Turtles Conservation Project。由Serendipity tours (private) Limited提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "瓶装水",
+   "导游讲解的科伦坡市区游览",
+   "参观加勒古堡"
+  ],
+  "notIncluded": [
+   "门票（海龟养殖场/船票）",
+   "食物（午餐或早餐）"
+  ]
+ },
+ "colombonegombo-coastal-motorbike-ride-to-galle": {
+  "title": "科伦坡/尼甘布：骑手带领的沿海摩托车之旅，前往加勒",
+  "metaTitle": "科伦坡/尼甘布：骑手带领的沿海摩托车之旅，前往加勒",
+  "metaDescription": "一次半天的Colombo体验。沿着斯里兰卡壮丽的南部海岸享受风光摩托车骑行。由Ceylon Asia Voyage提供。",
+  "shortDescription": "一次半天的Colombo体验。沿着斯里兰卡壮丽的南部海岸享受风光摩托车骑行。由Ceylon Asia Voyage提供。",
+  "fullDescription": "一次半天的Colombo体验。沿着斯里兰卡壮丽的南部海岸享受风光摩托车骑行。\n\n由Ceylon Asia Voyage负责安排，价格中含5项内容。可免费取消。\n\n价格包含配专业英语骑手的摩托车、乘客头盔、燃油、酒店接客（科伦坡/尼甘布/科伦坡机场）。两位旅客共同支付253美元，而不是每人各付253美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "沿着斯里兰卡壮丽的南部海岸享受风光摩托车骑行"
+  ],
+  "included": [
+   "配专业英语骑手的摩托车",
+   "乘客头盔",
+   "燃油",
+   "酒店接客（科伦坡/尼甘布/科伦坡机场）"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "3-day-yala-bundala-wildlife-experience-from": {
   "title": "科伦坡出发：雅拉及邦达拉野生动物体验3日游",
   "metaTitle": "科伦坡出发：雅拉及邦达拉野生动物体验3日游",
@@ -17524,6 +19816,47 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "kandy-private-tuk-tuk-tour-with-three-temples-and": {
+  "title": "康提：私人嘟嘟车游览，含三座寺庙及茶园",
+  "metaTitle": "康提：私人嘟嘟车游览，含三座寺庙及茶园",
+  "metaDescription": "一次从Kandy出发的2小时行程，游览Tuk tuk, Asgiriya Raja Maha Viharaya ( ) Gampaha, Bahirawakanda Buddha和Royal Botanic Gardens, Peradeniya。由SL TUK TUK Travels提供。",
+  "shortDescription": "一次从Kandy出发的2小时行程，游览Tuk tuk, Asgiriya Raja Maha Viharaya ( ) Gampaha, Bahirawakanda Buddha和Royal Botanic Gardens, Peradeniya。由SL TUK TUK Travels提供。",
+  "fullDescription": "一次从Kandy出发的2小时行程，途经Tuk tuk, Asgiriya Raja Maha Viharaya ( ) Gampaha, Bahirawakanda Buddha和Royal Botanic Gardens, Peradeniya。全程共6站。\n\n行程顺序为Tuk tuk (30 min), 然后 Asgiriya Raja Maha Viharaya ( ) Gampaha., 然后 Bahirawakanda Buddha, 然后 Royal Botanic Gardens, Peradeniya, 然后 Embekke Temple。\n\n价格包含康提周边地区酒店接送、私人嘟嘟车及友善的当地司机兼导游、行程可完全定制、以轻松不紧凑的节奏按自己的步调出行。不包含个人消费、小费（可选），请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的2小时行程，游览Tuk tuk, Asgiriya Raja Maha Viharaya ( ) Gampaha, Bahirawakanda Buddha和Royal Botanic Gardens, Peradeniya。由SL TUK TUK Travels提供。"
+  ],
+  "included": [
+   "康提周边地区酒店接送",
+   "私人嘟嘟车及友善的当地司机兼导游",
+   "行程可完全定制",
+   "以轻松不紧凑的节奏按自己的步调出行"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费（可选）"
+  ]
+ },
+ "colombo-night-tuk-tuk-adventure-with-street-food": {
+  "title": "科伦坡：夜间嘟嘟车探险，含街头美食品尝",
+  "metaTitle": "科伦坡：夜间嘟嘟车探险，含街头美食品尝",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Gangaramaya Temple, Galle Face Green和Tuk tuk。由Sri Lanka Eco Tour提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Gangaramaya Temple, Galle Face Green和Tuk tuk。由Sri Lanka Eco Tour提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Tuk tuk, Gangaramaya Temple, Galle Face Green和Tuk tuk。最长的一站是Galle Face Green，约1小时。全程共4站。\n\n行程顺序为Tuk tuk (40 min), 然后 Gangaramaya Temple (30 min), 然后 Galle Face Green (1h), 然后 Tuk tuk (30 min)。\n\n价格包含嘟嘟车体验、国王椰子饮品、参观甘加拉玫寺、参观独立纪念堂。不包含莲花塔可选附加项目、莲花塔及甘加拉玫寺门票、个人消费，请另行预算。两位旅客共同支付71美元，而不是每人各付46美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Tuk tuk, Gangaramaya Temple, Galle Face Green和Tuk tuk。由Sri Lanka Eco Tour提供。"
+  ],
+  "included": [
+   "嘟嘟车体验",
+   "国王椰子饮品",
+   "参观甘加拉玫寺",
+   "参观独立纪念堂"
+  ],
+  "notIncluded": [
+   "莲花塔可选附加项目",
+   "莲花塔及甘加拉玫寺门票",
+   "个人消费"
   ]
  },
  "negombo-guided-city-tour-with-airport-drop-off": {
@@ -17547,6 +19880,46 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "3-day-sri-lanka-hill-country-private-trip-with": {
+  "title": "3天斯里兰卡高地私人旅程，含酒店及早晚餐",
+  "metaTitle": "3天斯里兰卡高地私人旅程，含酒店及早晚餐",
+  "metaDescription": "一次3天的Colombo体验。在3天私人旅程中探索斯里兰卡高地及火车之旅。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "shortDescription": "一次3天的Colombo体验。在3天私人旅程中探索斯里兰卡高地及火车之旅。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "fullDescription": "一次3天的Colombo体验。在3天私人旅程中探索斯里兰卡高地及火车之旅。\n\n由Nelum Holidays and Tours (Pvt) Ltd负责安排，价格中含12项内容。可免费取消。\n\n价格包含机场接送（全天任意时段）、2晚3星级酒店住宿，含早餐和晚餐、按行程地点安排的3天私人交通、全新空调轿车/面包车。不包含午餐、行程结束时给司机的小费、佛牙寺及文化舞蹈表演门票，请另行预算。两位旅客共同支付1167美元，而不是每人各付998美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在3天私人旅程中探索斯里兰卡高地及火车之旅"
+  ],
+  "included": [
+   "机场接送（全天任意时段）",
+   "2晚3星级酒店住宿，含早餐和晚餐",
+   "按行程地点安排的3天私人交通",
+   "全新空调轿车/面包车"
+  ],
+  "notIncluded": [
+   "午餐",
+   "行程结束时给司机的小费",
+   "佛牙寺及文化舞蹈表演门票"
+  ]
+ },
+ "from-colombo-ambuluwawa-tower-pinnawala-day-trip": {
+  "title": "科伦坡出发：安布鲁瓦瓦塔及皮纳瓦拉一日游",
+  "metaTitle": "科伦坡出发：安布鲁瓦瓦塔及皮纳瓦拉一日游",
+  "metaDescription": "一次全天的Colombo体验。在世界闻名的皮纳瓦拉象孤儿院探访获救的象群。由Epic Ceylon Travels & Tours提供。",
+  "shortDescription": "一次全天的Colombo体验。在世界闻名的皮纳瓦拉象孤儿院探访获救的象群。由Epic Ceylon Travels & Tours提供。",
+  "fullDescription": "一次全天的Colombo体验。在世界闻名的皮纳瓦拉象孤儿院探访获救的象群。\n\n由Epic Ceylon Travels & Tours负责安排，价格中含9项内容。可免费取消。\n\n价格包含从科伦坡及尼甘布出发的酒店接送、乘空调车辆舒适出行、英语当地司机兼导游、高速公路通行费及全部道路税费。不包含餐食，请另行预算。两位旅客共同支付171美元，而不是每人各付166美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在世界闻名的皮纳瓦拉象孤儿院探访获救的象群"
+  ],
+  "included": [
+   "从科伦坡及尼甘布出发的酒店接送",
+   "乘空调车辆舒适出行",
+   "英语当地司机兼导游",
+   "高速公路通行费及全部道路税费"
+  ],
+  "notIncluded": [
+   "餐食"
+  ]
+ },
  "galle-madu-river-boat-safari-turtle-visit": {
   "title": "加勒：马杜河游船野生动物园之旅及参观海龟",
   "metaTitle": "加勒：马杜河游船野生动物园之旅及参观海龟",
@@ -17564,6 +19937,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "马杜河游船费用：每人20美元"
+  ]
+ },
+ "4-day-sri-lanka-hidden-heritage-culture-city-tour": {
+  "title": "4天斯里兰卡：隐秘遗产、文化及市区游览",
+  "metaTitle": "4天斯里兰卡：隐秘遗产、文化及市区游览",
+  "metaDescription": "一次从Colombo出发的4天行程，游览DAY 1: DAMBULLA: JOURNEY TO THE CULTURAL TRIANGLE, DAY 2: SIGIRIYA: SUNRISE CLIMBS & VILLAGE LIFE, DAY 3: KANDY- SPICES, ROYAL HISTORY & MARKE...",
+  "shortDescription": "一次从Colombo出发的4天行程，游览DAY 1: DAMBULLA: JOURNEY TO THE CULTURAL TRIANGLE, DAY 2: SIGIRIYA: SUNRISE CLIMBS & VILLAGE LIFE, DAY 3: KANDY- SPICES, ROYAL HISTORY & MARKET WALKING TOUR和DAY 4: COLOMBO: TUK-TUK RIDE & ARCHITECTURE。由Trip SriLanka提供。",
+  "fullDescription": "一次从Colombo出发的4天行程，途经DAY 1: DAMBULLA: JOURNEY TO THE CULTURAL TRIANGLE, DAY 2: SIGIRIYA: SUNRISE CLIMBS & VILLAGE LIFE, DAY 3: KANDY- SPICES, ROYAL HISTORY & MARKET WALKING TOUR和DAY 4: COLOMBO: TUK-TUK RIDE & ARCHITECTURE。全程共4站。\n\n行程顺序为DAY 1: DAMBULLA: JOURNEY TO THE CULTURAL TRIANGLE, 然后 DAY 2: SIGIRIYA: SUNRISE CLIMBS & VILLAGE LIFE, 然后 DAY 3: KANDY- SPICES, ROYAL HISTORY & MARKET WALKING TOUR, 然后 DAY 4: COLOMBO: TUK-TUK RIDE & ARCHITECTURE。\n\n价格包含私人空调车辆、专业英语司机、机场接送、燃油费用及停车费用。不包含景点门票费用、午餐及饮品、个人消费，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的4天行程，游览DAY 1: DAMBULLA: JOURNEY TO THE CULTURAL TRIANGLE, DAY 2: SIGIRIYA: SUNRISE CLIMBS & VILLAGE LIFE, DAY 3: KANDY- SPICES, ROYAL HISTORY & MARKET WALKING TOUR和DAY 4: COLOMBO: TUK-TUK RIDE & ARCHITECTURE。由Trip SriLanka提供。"
+  ],
+  "included": [
+   "私人空调车辆",
+   "专业英语司机",
+   "机场接送",
+   "燃油费用及停车费用"
+  ],
+  "notIncluded": [
+   "景点门票费用",
+   "午餐及饮品",
+   "个人消费"
   ]
  },
  "ella-private-day-trip-with-train-ridenine-archtea": {
@@ -17584,6 +19978,45 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "早餐",
    "饮品",
+   "小费"
+  ]
+ },
+ "kandy-wood-carving-workshop-with-master-craftsmen": {
+  "title": "康提：与大师工匠一起体验木雕工坊",
+  "metaTitle": "康提：与大师工匠一起体验木雕工坊",
+  "metaDescription": "一次2小时的Kandy体验。通过珍稀本地木材学习木材鉴定的秘诀。由Mein Lanka Tours提供。",
+  "shortDescription": "一次2小时的Kandy体验。通过珍稀本地木材学习木材鉴定的秘诀。由Mein Lanka Tours提供。",
+  "fullDescription": "一次2小时的Kandy体验。通过珍稀本地木材学习木材鉴定的秘诀。\n\n由Mein Lanka Tours负责安排，价格中含6项内容。可免费取消。\n\n价格包含全部原材料、工具、安全装备、可带回家的定制纪念品。",
+  "highlights": [
+   "通过珍稀本地木材学习木材鉴定的秘诀"
+  ],
+  "included": [
+   "全部原材料",
+   "工具",
+   "安全装备",
+   "可带回家的定制纪念品"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "kandy-to-colombo-transfer-with-tea-factory-train": {
+  "title": "康提至科伦坡接送，含茶厂及火车之旅",
+  "metaTitle": "康提至科伦坡接送，含茶厂及火车之旅",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Colombo和Finish at:。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Colombo和Finish at:。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Colombo和Finish at:。全程共2站。\n\n行程顺序为Colombo, 然后 Finish at:。\n\n价格包含私人空调车辆（康提至科伦坡）、从康提出发的酒店接送、茶厂及茶园参观、专业司机兼导游（科伦坡游览）。不包含个人消费、小费，请另行预算。两位旅客共同支付305美元，而不是每人各付254美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Colombo和Finish at:。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。"
+  ],
+  "included": [
+   "私人空调车辆（康提至科伦坡）",
+   "从康提出发的酒店接送",
+   "茶厂及茶园参观",
+   "专业司机兼导游（科伦坡游览）"
+  ],
+  "notIncluded": [
+   "个人消费",
    "小费"
   ]
  },
@@ -17627,6 +20060,48 @@ export const ZH_TOURS: Record<string, TourT> = {
    "晚餐"
   ]
  },
+ "kandy-to-ella-private-transfer-with-train-ride": {
+  "title": "康提至埃拉私人接送，含火车之旅及隐秘停靠点",
+  "metaTitle": "康提至埃拉私人接送，含火车之旅及隐秘停靠点",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Nanuoya和Finish at:。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Nanuoya和Finish at:。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Nanuoya和Finish at:。全程共2站。\n\n行程顺序为Nanuoya, 然后 Finish at:。\n\n价格包含私人空调车辆、专业司机兼导游服务、从康提出发的酒店接送、按行程安排的隐秘风光停靠点。不包含个人消费、司机/导游小费、门票费用，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Nanuoya和Finish at:。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。"
+  ],
+  "included": [
+   "私人空调车辆",
+   "专业司机兼导游服务",
+   "从康提出发的酒店接送",
+   "按行程安排的隐秘风光停靠点"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "司机/导游小费",
+   "门票费用"
+  ]
+ },
+ "from-sigiriya-minneriya-national-park-safari-boat": {
+  "title": "锡吉里耶出发：明内里耶国家公园野生动物园之旅及船程",
+  "metaTitle": "锡吉里耶出发：明内里耶国家公园野生动物园之旅及船程",
+  "metaDescription": "一次半天的Sigiriya体验。在斯里兰卡风光秀丽的水库上享受宁静的船程。由Sigiri Serenity Tours提供。",
+  "shortDescription": "一次半天的Sigiriya体验。在斯里兰卡风光秀丽的水库上享受宁静的船程。由Sigiri Serenity Tours提供。",
+  "fullDescription": "一次半天的Sigiriya体验。在斯里兰卡风光秀丽的水库上享受宁静的船程。\n\n由Sigiri Serenity Tours负责安排，价格中含6项内容。可免费取消。\n\n价格包含从指定地区出发的酒店接送、私人或拼车野生动物园吉普车、经验丰富的野生动物园司机及追踪向导、船游。不包含明内里耶国家公园门票、餐食及额外饮品、个人消费，请另行预算。两位旅客共同支付143美元，而不是每人各付128美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在斯里兰卡风光秀丽的水库上享受宁静的船程"
+  ],
+  "included": [
+   "从指定地区出发的酒店接送",
+   "私人或拼车野生动物园吉普车",
+   "经验丰富的野生动物园司机及追踪向导",
+   "船游"
+  ],
+  "notIncluded": [
+   "明内里耶国家公园门票",
+   "餐食及额外饮品",
+   "个人消费"
+  ]
+ },
  "colombo-south-coast-creative-heritage-journey": {
   "title": "科伦坡：南海岸创意古迹之旅（巴瓦建筑之路）",
   "metaTitle": "科伦坡：南海岸创意古迹之旅（巴瓦建筑之路）",
@@ -17647,6 +20122,46 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮",
    "景点门票费用",
    "可选活动"
+  ]
+ },
+ "colombo-sri-lankan-cooking-experience-with-lunch": {
+  "title": "科伦坡：斯里兰卡烹饪体验，含午餐或晚餐",
+  "metaTitle": "科伦坡：斯里兰卡烹饪体验，含午餐或晚餐",
+  "metaDescription": "一次3小时的Colombo体验。向当地主人学习正宗斯里兰卡烹饪技艺。由Colombo cooking class Sri Lanka提供。",
+  "shortDescription": "一次3小时的Colombo体验。向当地主人学习正宗斯里兰卡烹饪技艺。由Colombo cooking class Sri Lanka提供。",
+  "fullDescription": "一次3小时的Colombo体验。向当地主人学习正宗斯里兰卡烹饪技艺。\n\n由Colombo cooking class Sri Lanka负责安排，价格中含5项内容。可免费取消。\n\n价格包含亲手下厨体验、全部原料及设备、午餐或晚餐，视所选场次而定、当地烹饪主人。两位旅客共同支付197美元，而不是每人各付123美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "向当地主人学习正宗斯里兰卡烹饪技艺"
+  ],
+  "included": [
+   "亲手下厨体验",
+   "全部原料及设备",
+   "午餐或晚餐，视所选场次而定",
+   "当地烹饪主人"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "from-colombo-gampaha-district-temples-jungle-hike": {
+  "title": "科伦坡出发：甘帕哈区寺庙及丛林徒步游览",
+  "metaTitle": "科伦坡出发：甘帕哈区寺庙及丛林徒步游览",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Pilikuttuwa Raja Maha Viharaya, Yakkala, Maligathanna Raja Maha Viharaya和Pettagankanda Forest Monastery。由Ceylon Asia Voyage提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Pilikuttuwa Raja Maha Viharaya, Yakkala, Maligathanna Raja Maha Viharaya和Pettagankanda Forest Monastery。由Ceylon Asia Voyage提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Pilikuttuwa Raja Maha Viharaya, Yakkala, Maligathanna Raja Maha Viharaya和Pettagankanda Forest Monastery。最长的一站是Pilikuttuwa Raja Maha Viharaya, Yakkala.，约2小时。全程共3站。\n\n行程顺序为Pilikuttuwa Raja Maha Viharaya, Yakkala. (2h), 然后 Maligathanna Raja Maha Viharaya (2h), 然后 Pettagankanda Forest Monastery (1h)。\n\n价格包含酒店接送（科伦坡/尼甘布）、私人车辆及司机兼导游、瓶装水、入场协助及导游。不包含餐食、个人消费、小费，请另行预算。两位旅客共同支付237美元，而不是每人各付237美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Pilikuttuwa Raja Maha Viharaya, Yakkala, Maligathanna Raja Maha Viharaya和Pettagankanda Forest Monastery。由Ceylon Asia Voyage提供。"
+  ],
+  "included": [
+   "酒店接送（科伦坡/尼甘布）",
+   "私人车辆及司机兼导游",
+   "瓶装水",
+   "入场协助及导游"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "小费"
   ]
  },
  "from-polonnaruwa-to-negombo-transfer-with": {
@@ -17691,6 +20206,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "国家公园门票费用"
   ]
  },
+ "colombo-guided-heritage-citytour-by-car-with-all": {
+  "title": "科伦坡：导游讲解遗产市区游览，乘轿车，含全部门票",
+  "metaTitle": "科伦坡：导游讲解遗产市区游览，乘轿车，含全部门票",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Colombo Fort Old Lighthouse & Clock Tower, Colombo Port Maritime Museum, Old Parliament Building, Colombo和Galle Face Green。由Habibi Tour提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Colombo Fort Old Lighthouse & Clock Tower, Colombo Port Maritime Museum, Old Parliament Building, Colombo和Galle Face Green。由Habibi Tour提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Colombo Fort Old Lighthouse & Clock Tower, Colombo Port Maritime Museum, Old Parliament Building, Colombo和Galle Face Green。全程共16站。\n\n行程顺序为Colombo Fort Old Lighthouse & Clock Tower (20 min), 然后 Colombo Port Maritime Museum (20 min), 然后 Old Parliament Building, Colombo (10 min), 然后 Galle Face Green (20 min), 然后 Gangaramaya Temple (20 min)。\n\n价格包含欢迎饮品（椰子水）、提供瓶装水、可按需提供雨伞、主要景点拍照停靠点。不包含餐食、个人消费、莲花塔和甘加拉玫寺门票，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Colombo Fort Old Lighthouse & Clock Tower, Colombo Port Maritime Museum, Old Parliament Building, Colombo和Galle Face Green。由Habibi Tour提供。"
+  ],
+  "included": [
+   "欢迎饮品（椰子水）",
+   "提供瓶装水",
+   "可按需提供雨伞",
+   "主要景点拍照停靠点"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "莲花塔和甘加拉玫寺门票"
+  ]
+ },
  "from-colombo-galle-day-tour-with-scenic-coastal": {
   "title": "科伦坡出发：加勒一日游，含海岸风光火车之旅",
   "metaTitle": "科伦坡出发：加勒一日游，含海岸风光火车之旅",
@@ -17731,6 +20267,45 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食"
   ]
  },
+ "from-colombo-kitulgala-rainforest-rafting": {
+  "title": "科伦坡出发：基图尔加拉雨林漂流探险",
+  "metaTitle": "科伦坡出发：基图尔加拉雨林漂流探险",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Finish at:。由Padraig Lanka Tours提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Finish at:。由Padraig Lanka Tours提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Finish at:。\n\n价格包含从科伦坡/尼甘布/机场地区私人接客、乘舒适私人车辆进行轻松的风光驾游、免费瓶装水、持证漂流教练的安全须知讲解。不包含餐食、个人消费，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Finish at:。由Padraig Lanka Tours提供。"
+  ],
+  "included": [
+   "从科伦坡/尼甘布/机场地区私人接客",
+   "乘舒适私人车辆进行轻松的风光驾游",
+   "免费瓶装水",
+   "持证漂流教练的安全须知讲解"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
+  ]
+ },
+ "kandy-cultural-dance-show-ticket-premium-reserved": {
+  "title": "康提文化舞蹈表演门票，尊享预留座位",
+  "metaTitle": "康提文化舞蹈表演门票，尊享预留座位",
+  "metaDescription": "一次1小时的Kandy体验。通过康提文化舞蹈表演体验斯里兰卡充满活力的传统。由Ceylon Asia Voyage提供。",
+  "shortDescription": "一次1小时的Kandy体验。通过康提文化舞蹈表演体验斯里兰卡充满活力的传统。由Ceylon Asia Voyage提供。",
+  "fullDescription": "一次1小时的Kandy体验。通过康提文化舞蹈表演体验斯里兰卡充满活力的传统。\n\n由Ceylon Asia Voyage负责安排，价格中含2项内容。可免费取消。\n\n价格包含文化舞蹈表演门票、预留座位（根据所选方案）。不包含酒店接送、餐饮、个人消费，请另行预算。",
+  "highlights": [
+   "通过康提文化舞蹈表演体验斯里兰卡充满活力的传统"
+  ],
+  "included": [
+   "文化舞蹈表演门票",
+   "预留座位（根据所选方案）"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "餐饮",
+   "个人消费"
+  ]
+ },
  "from-sigiriya-to-polonnaruwa-transfer-with": {
   "title": "锡吉里耶到波隆纳鲁沃接驳，含观光停靠",
   "metaTitle": "锡吉里耶到波隆纳鲁沃接驳，含观光停靠",
@@ -17750,6 +20325,48 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票",
    "野生动物园吉普车费用",
    "国家公园门票费用"
+  ]
+ },
+ "ramayana-heritage-trail-6-days-sri-lanka-journey": {
+  "title": "罗摩衍那遗产之路：斯里兰卡6天之旅",
+  "metaTitle": "罗摩衍那遗产之路：斯里兰卡6天之旅",
+  "metaDescription": "一次6天的Kandy体验。探索锡吉里耶及丹布勒石窟寺的古代奇观。由Padraig Lanka Tours提供。",
+  "shortDescription": "一次6天的Kandy体验。探索锡吉里耶及丹布勒石窟寺的古代奇观。由Padraig Lanka Tours提供。",
+  "fullDescription": "一次6天的Kandy体验。探索锡吉里耶及丹布勒石窟寺的古代奇观。\n\n由Padraig Lanka Tours负责安排，价格中含12项内容。可免费取消。\n\n价格包含机场接机、参观纳兰达格迪格、参观马特莱香料园、参观宝石及宝石学博物馆。不包含参观丹布勒石窟寺、参观锡吉里耶狮子岩、锡吉里耶村游览，请另行预算。",
+  "highlights": [
+   "探索锡吉里耶及丹布勒石窟寺的古代奇观"
+  ],
+  "included": [
+   "机场接机",
+   "参观纳兰达格迪格",
+   "参观马特莱香料园",
+   "参观宝石及宝石学博物馆"
+  ],
+  "notIncluded": [
+   "参观丹布勒石窟寺",
+   "参观锡吉里耶狮子岩",
+   "锡吉里耶村游览"
+  ]
+ },
+ "sri-lanka-3-day-private-guided-tour-with-3": {
+  "title": "斯里兰卡：3天私人导游游览，含3星级酒店及餐食",
+  "metaTitle": "斯里兰卡：3天私人导游游览，含3星级酒店及餐食",
+  "metaDescription": "一次3天的Colombo体验。仅需3天，体验当地文化、古老历史、自然与野生动物。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "shortDescription": "一次3天的Colombo体验。仅需3天，体验当地文化、古老历史、自然与野生动物。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "fullDescription": "一次3天的Colombo体验。仅需3天，体验当地文化、古老历史、自然与野生动物。\n\n由Nelum Holidays and Tours (Pvt) Ltd负责安排，价格中含12项内容。可免费取消。\n\n价格包含机场接送（全天任意时段）、2晚3星级酒店住宿，含早餐和晚餐、按行程地点安排的3天私人交通、全新空调轿车/面包车。不包含午餐、行程结束时给司机的小费、私人野生动物园吉普车费用，请另行预算。两位旅客共同支付1150美元，而不是每人各付1014美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "仅需3天，体验当地文化、古老历史、自然与野生动物"
+  ],
+  "included": [
+   "机场接送（全天任意时段）",
+   "2晚3星级酒店住宿，含早餐和晚餐",
+   "按行程地点安排的3天私人交通",
+   "全新空调轿车/面包车"
+  ],
+  "notIncluded": [
+   "午餐",
+   "行程结束时给司机的小费",
+   "私人野生动物园吉普车费用"
   ]
  },
  "bandaranaike-airport-to-sigiriya-transfer-with": {
@@ -17792,6 +20409,26 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "kandy-evening-city-tour-with-boat-ride-and": {
+  "title": "康提：夜间市区游览，含船程及文化表演",
+  "metaTitle": "康提：夜间市区游览，含船程及文化表演",
+  "metaDescription": "一次从Kandy出发的半天行程，游览Kandy。由Sri lanka Travels spot提供。",
+  "shortDescription": "一次从Kandy出发的半天行程，游览Kandy。由Sri lanka Travels spot提供。",
+  "fullDescription": "一次从Kandy出发的半天行程，途经Kandy。最长的一站是Kandy，约4小时。\n\n由Sri lanka Travels spot负责安排，价格中含8项内容。可免费取消。滑行于康提湖平静的水面，感受微风。\n\n价格包含酒店接送、康提湖船程、参观康提观景点、当地艺术及手工艺体验。不包含餐食、个人消费，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的半天行程，游览Kandy。由Sri lanka Travels spot提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "康提湖船程",
+   "参观康提观景点",
+   "当地艺术及手工艺体验"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
   ]
  },
  "sri-lanka-4-days-tour-sigiriya-kandy-nuwara-eliya": {
@@ -17898,6 +20535,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "sigiriya-lion-rock-minneriya-safari-with-english": {
+  "title": "锡吉里耶狮子岩及明内里耶野生动物园之旅，配英语司机",
+  "metaTitle": "锡吉里耶狮子岩及明内里耶野生动物园之旅，配英语司机",
+  "metaDescription": "一次从Sigiriya出发的全天行程，游览Jeep / SUV, Sigiriya Fortress, Jeep / SUV和Minneriya National Park。由Green Life Tours提供。",
+  "shortDescription": "一次从Sigiriya出发的全天行程，游览Jeep / SUV, Sigiriya Fortress, Jeep / SUV和Minneriya National Park。由Green Life Tours提供。",
+  "fullDescription": "一次从Sigiriya出发的全天行程，途经Jeep / SUV, Sigiriya Fortress, Jeep / SUV和Minneriya National Park。最长的一站是Minneriya National Park，约4小时。全程共5站。\n\n行程顺序为Jeep / SUV (1h), 然后 Sigiriya Fortress (3h), 然后 Jeep / SUV (40 min), 然后 Minneriya National Park (4h), 然后 Jeep / SUV (30 min)。\n\n价格包含舒适度最佳的私人四驱野生动物园吉普车、拥有丰富野生动物知识的专业野生动物园司机、持证国家公园向导、全程英语协助。不包含锡吉里耶狮子岩门票（每人35美元）、明内里耶国家公园门票（每人35美元）、锡吉里耶官方向导，请另行预算。",
+  "highlights": [
+   "一次从Sigiriya出发的全天行程，游览Jeep / SUV, Sigiriya Fortress, Jeep / SUV和Minneriya National Park。由Green Life Tours提供。"
+  ],
+  "included": [
+   "舒适度最佳的私人四驱野生动物园吉普车",
+   "拥有丰富野生动物知识的专业野生动物园司机",
+   "持证国家公园向导",
+   "全程英语协助"
+  ],
+  "notIncluded": [
+   "锡吉里耶狮子岩门票（每人35美元）",
+   "明内里耶国家公园门票（每人35美元）",
+   "锡吉里耶官方向导"
+  ]
+ },
  "mirissa-turtle-snorkeling-tour-with-gear": {
   "title": "米瑞沙：海龟浮潜之旅，含装备",
   "metaTitle": "米瑞沙：海龟浮潜之旅，含装备",
@@ -17934,6 +20592,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "udawalawe-ella-drop-with-lunch-waterfalls-and": {
+  "title": "乌达瓦拉维：送达埃拉，含午餐、瀑布及寺庙参观",
+  "metaTitle": "乌达瓦拉维：送达埃拉，含午餐、瀑布及寺庙参观",
+  "metaDescription": "一次从Ella出发的全天行程，游览Buduruwagala Temple, Ella, Upper Diyaluma Waterfall, Ravana Falls和Finish at:。由Kumaru Lanka Tours提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Buduruwagala Temple, Ella, Upper Diyaluma Waterfall, Ravana Falls和Finish at:。由Kumaru Lanka Tours提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Buduruwagala Temple, Ella, Upper Diyaluma Waterfall, Ravana Falls和Finish at:。最长的一站是Buduruwagala Temple, Ella，约1小时。全程共4站。\n\n行程顺序为Buduruwagala Temple, Ella (1h), 然后 Upper Diyaluma Waterfall, 然后 Ravana Falls, 然后 Finish at:。\n\n价格包含从乌达瓦拉维地区或乌达瓦拉维国家公园入口接客、送达埃拉的酒店或指定地点、私人空调车辆、参观布杜鲁瓦格拉寺。不包含个人消费、小费、餐饮，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Buduruwagala Temple, Ella, Upper Diyaluma Waterfall, Ravana Falls和Finish at:。由Kumaru Lanka Tours提供。"
+  ],
+  "included": [
+   "从乌达瓦拉维地区或乌达瓦拉维国家公园入口接客",
+   "送达埃拉的酒店或指定地点",
+   "私人空调车辆",
+   "参观布杜鲁瓦格拉寺"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费",
+   "餐饮"
   ]
  },
  "negombo-2-day-sinharaja-rainforest-private-trip": {
@@ -18036,6 +20715,48 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费（可选）"
   ]
  },
+ "colombo-udawalawe-national-park-safari-day-trip": {
+  "title": "科伦坡：乌达瓦拉维国家公园野生动物园一日游",
+  "metaTitle": "科伦坡：乌达瓦拉维国家公园野生动物园一日游",
+  "metaDescription": "一次全天的Colombo体验。寻觅象、鹿及猴群，感受野生动物园之旅的刺激。由Serendib Tours提供。",
+  "shortDescription": "一次全天的Colombo体验。寻觅象、鹿及猴群，感受野生动物园之旅的刺激。由Serendib Tours提供。",
+  "fullDescription": "一次全天的Colombo体验。寻觅象、鹿及猴群，感受野生动物园之旅的刺激。\n\n由Serendib Tours负责安排，价格中含11项内容。可免费取消。\n\n价格包含从酒店接送、汽车巡游、高速公路通行费、国王椰子。不包含餐食、个人消费、野生动物园吉普车，请另行预算。两位旅客共同支付305美元，而不是每人各付305美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "寻觅象、鹿及猴群，感受野生动物园之旅的刺激"
+  ],
+  "included": [
+   "从酒店接送",
+   "汽车巡游",
+   "高速公路通行费",
+   "国王椰子"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "野生动物园吉普车"
+  ]
+ },
+ "sri-lanka-luxury-cruise-shore-excursion-day-tour": {
+  "title": "斯里兰卡豪华游轮岸上游览一日游：埃拉",
+  "metaTitle": "斯里兰卡豪华游轮岸上游览一日游：埃拉",
+  "metaDescription": "一次从Ella出发的全天行程，游览Hambantota, Ella, Sri Lanka, Ravana Falls和Nine Arch Bridge。由Lanka Travel Gateway (Pvt) Ltd提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Hambantota, Ella, Sri Lanka, Ravana Falls和Nine Arch Bridge。由Lanka Travel Gateway (Pvt) Ltd提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Hambantota, Ella, Sri Lanka, Ravana Falls和Nine Arch Bridge。最长的一站是Nine Arch Bridge，约1小时。全程共5站。\n\n行程顺序为Hambantota, 然后 Ella, Sri Lanka, 然后 Ravana Falls (15 min), 然后 Nine Arch Bridge (1h), 然后 Buduruwagala (1h)。\n\n价格包含私人空调车辆、专业司机兼向导、旅游保险、汉班托塔国际港接送。不包含个人消费、埃拉探险/活动费用、餐饮，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Hambantota, Ella, Sri Lanka, Ravana Falls和Nine Arch Bridge。由Lanka Travel Gateway (Pvt) Ltd提供。"
+  ],
+  "included": [
+   "私人空调车辆",
+   "专业司机兼向导",
+   "旅游保险",
+   "汉班托塔国际港接送"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "埃拉探险/活动费用",
+   "餐饮"
+  ]
+ },
  "srilanka-galle-day-tour-with-private-airport": {
   "title": "斯里兰卡：加勒一日游，含私人机场接驳",
   "metaTitle": "斯里兰卡：加勒一日游，含私人机场接驳",
@@ -18054,6 +20775,88 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票及活动费用",
    "餐食",
    "个人消费"
+  ]
+ },
+ "sunrise-sigiriya-climb-dambulla-caves-jeep-safari": {
+  "title": "日出锡吉里耶登顶、丹布勒石窟及吉普车野生动物园之旅",
+  "metaTitle": "日出锡吉里耶登顶、丹布勒石窟及吉普车野生动物园之旅",
+  "metaDescription": "一次全天的Sigiriya体验。日出时登顶锡吉里耶，在人群抵达大门之前。由Sri Lanka Eco Tour提供。",
+  "shortDescription": "一次全天的Sigiriya体验。日出时登顶锡吉里耶，在人群抵达大门之前。由Sri Lanka Eco Tour提供。",
+  "fullDescription": "一次全天的Sigiriya体验。日出时登顶锡吉里耶，在人群抵达大门之前。\n\n由Sri Lanka Eco Tour负责安排，价格中含4项内容。可免费取消。\n\n价格包含接送服务、私人空调车辆、英语司机兼导游、燃油、停车费及高速公路费用。不包含锡吉里耶狮子岩门票、丹布勒石窟寺门票、明内里耶国家公园门票及野生动物园吉普车，请另行预算。两位旅客共同支付410美元，而不是每人各付359美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "日出时登顶锡吉里耶，在人群抵达大门之前"
+  ],
+  "included": [
+   "接送服务",
+   "私人空调车辆",
+   "英语司机兼导游",
+   "燃油、停车费及高速公路费用"
+  ],
+  "notIncluded": [
+   "锡吉里耶狮子岩门票",
+   "丹布勒石窟寺门票",
+   "明内里耶国家公园门票及野生动物园吉普车"
+  ]
+ },
+ "from-colombo-all-inclusive-yala-safari-adventure": {
+  "title": "科伦坡出发：全包雅拉野生动物园探险，含午餐",
+  "metaTitle": "科伦坡出发：全包雅拉野生动物园探险，含午餐",
+  "metaDescription": "一次全天的Colombo体验。享受无隐藏费用的全包私人雅拉野生动物园探险。由Lilly Travels And Tours (PVT) Ltd提供。",
+  "shortDescription": "一次全天的Colombo体验。享受无隐藏费用的全包私人雅拉野生动物园探险。由Lilly Travels And Tours (PVT) Ltd提供。",
+  "fullDescription": "一次全天的Colombo体验。享受无隐藏费用的全包私人雅拉野生动物园探险。\n\n由Lilly Travels And Tours (PVT) Ltd负责安排，价格中含9项内容。可免费取消。\n\n价格包含酒店接送、乘私人空调轿车交通、英语导游服务、私人四驱野生动物园吉普车。不包含早餐及小吃、个人消费、司机小费，请另行预算。",
+  "highlights": [
+   "享受无隐藏费用的全包私人雅拉野生动物园探险"
+  ],
+  "included": [
+   "酒店接送",
+   "乘私人空调轿车交通",
+   "英语导游服务",
+   "私人四驱野生动物园吉普车"
+  ],
+  "notIncluded": [
+   "早餐及小吃",
+   "个人消费",
+   "司机小费"
+  ]
+ },
+ "northern-sri-lanka-6-day-tour-jaffna-kalpitiya": {
+  "title": "斯里兰卡北部6日游：贾夫纳、卡尔皮蒂亚、锡吉里耶",
+  "metaTitle": "斯里兰卡北部6日游：贾夫纳、卡尔皮蒂亚、锡吉里耶",
+  "metaDescription": "一次6天的Sigiriya体验。享受卡尔皮蒂亚潟湖的日落美景。由Ceylon Tourlink (Pvt) Ltd提供。",
+  "shortDescription": "一次6天的Sigiriya体验。享受卡尔皮蒂亚潟湖的日落美景。由Ceylon Tourlink (Pvt) Ltd提供。",
+  "fullDescription": "一次6天的Sigiriya体验。享受卡尔皮蒂亚潟湖的日落美景。\n\n由Ceylon Tourlink (Pvt) Ltd负责安排，价格中含5项内容。可免费取消。\n\n价格包含私人空调车辆、英语司机兼导游、酒店/机场接送、瓶装饮用水。不包含住宿及餐食、所提及自选景点的门票、可选活动，请另行预算。两位旅客共同支付1859美元，而不是每人各付1727美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "享受卡尔皮蒂亚潟湖的日落美景"
+  ],
+  "included": [
+   "私人空调车辆",
+   "英语司机兼导游",
+   "酒店/机场接送",
+   "瓶装饮用水"
+  ],
+  "notIncluded": [
+   "住宿及餐食",
+   "所提及自选景点的门票",
+   "可选活动"
+  ]
+ },
+ "colombo-gemstone-jewelry-experience-with-gia": {
+  "title": "科伦坡：宝石及珠宝体验，配GIA宝石鉴定师",
+  "metaTitle": "科伦坡：宝石及珠宝体验，配GIA宝石鉴定师",
+  "metaDescription": "一次半天的Colombo体验。与GIA认证宝石鉴定师一起探索斯里兰卡宝石世界。由Baza Travels提供。",
+  "shortDescription": "一次半天的Colombo体验。与GIA认证宝石鉴定师一起探索斯里兰卡宝石世界。由Baza Travels提供。",
+  "fullDescription": "一次半天的Colombo体验。与GIA认证宝石鉴定师一起探索斯里兰卡宝石世界。\n\n由Baza Travels负责安排，价格中含7项内容。可免费取消。\n\n价格包含科伦坡酒店接送、私人空调轿车、导游带领参观宝石加工坊/工坊、参观宝石展示厅，鉴赏宝石。不包含任何宝石或珠宝的购买费用，请另行预算。两位旅客共同支付186美元，而不是每人各付151美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "与GIA认证宝石鉴定师一起探索斯里兰卡宝石世界"
+  ],
+  "included": [
+   "科伦坡酒店接送",
+   "私人空调轿车",
+   "导游带领参观宝石加工坊/工坊",
+   "参观宝石展示厅，鉴赏宝石"
+  ],
+  "notIncluded": [
+   "任何宝石或珠宝的购买费用"
   ]
  },
  "colombo-ella-2-day-tour-with-waterfalls-tea-estate": {
@@ -18255,6 +21058,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "适用观光点的门票"
   ]
  },
+ "kandy-nuwara-eliya-private-day-trip-with-tea": {
+  "title": "康提：努沃勒埃利耶私人一日游，含茶厂游览",
+  "metaTitle": "康提：努沃勒埃利耶私人一日游，含茶厂游览",
+  "metaDescription": "一次全天的Kandy体验。沉浸于斯里兰卡中央高地葱郁的风光。由Mein Lanka Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。沉浸于斯里兰卡中央高地葱郁的风光。由Mein Lanka Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。沉浸于斯里兰卡中央高地葱郁的风光。\n\n由Mein Lanka Tours负责安排，价格中含7项内容。可免费取消。\n\n价格包含穿越高地的风光驾游、参观兰博达瀑布、茶厂游览、亲手采茶体验。不包含餐食、个人消费、小费，请另行预算。两位旅客共同支付76美元，而不是每人各付68美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "沉浸于斯里兰卡中央高地葱郁的风光"
+  ],
+  "included": [
+   "穿越高地的风光驾游",
+   "参观兰博达瀑布",
+   "茶厂游览",
+   "亲手采茶体验"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "小费"
+  ]
+ },
  "ella-to-tissamaharama-transfer-with-waterfalls": {
   "title": "埃拉到蒂萨默哈拉默接驳，含瀑布及寺庙",
   "metaTitle": "埃拉到蒂萨默哈拉默接驳，含瀑布及寺庙",
@@ -18344,6 +21168,68 @@ export const ZH_TOURS: Record<string, TourT> = {
    "景点门票",
    "餐食和个人消费",
    "小费（可选）"
+  ]
+ },
+ "negombo-lagoon-and-mangrove-sightseeing-boat": {
+  "title": "尼甘布潟湖及红树林观光游船野生动物园之旅",
+  "metaTitle": "尼甘布潟湖及红树林观光游船野生动物园之旅",
+  "metaDescription": "一次从Negombo出发的2小时行程，游览Hamilton Canal, Negombo。由Traveli Ceylon提供。",
+  "shortDescription": "一次从Negombo出发的2小时行程，游览Hamilton Canal, Negombo。由Traveli Ceylon提供。",
+  "fullDescription": "一次从Negombo出发的2小时行程，途经Hamilton Canal, Negombo。最长的一站是Hamilton Canal, Negombo，约2小时。\n\n价格包含乘嘟嘟车从酒店往返运河、潟湖的接送、停车费、入场/门票：尼甘布潟湖野生动物园之旅、私人游览。不包含小费（打赏），请另行预算。",
+  "highlights": [
+   "一次从Negombo出发的2小时行程，游览Hamilton Canal, Negombo。由Traveli Ceylon提供。"
+  ],
+  "included": [
+   "乘嘟嘟车从酒店往返运河、潟湖的接送",
+   "停车费",
+   "入场/门票：尼甘布潟湖野生动物园之旅",
+   "私人游览"
+  ],
+  "notIncluded": [
+   "小费（打赏）"
+  ]
+ },
+ "private-kandy-city-tour-by-car-temple-of-tooth": {
+  "title": "私人康提市区游览，乘轿车，含佛牙寺及风光景观",
+  "metaTitle": "私人康提市区游览，乘轿车，含佛牙寺及风光景观",
+  "metaDescription": "一次半天的Kandy体验。私人空调康提市观光游览。由Thara Lanka Tours提供。",
+  "shortDescription": "一次半天的Kandy体验。私人空调康提市观光游览。由Thara Lanka Tours提供。",
+  "fullDescription": "一次半天的Kandy体验。私人空调康提市观光游览。\n\n由Thara Lanka Tours负责安排，价格中含6项内容。可免费取消。\n\n价格包含私人空调车辆、英语当地司机兼导游、康提市区酒店接送、瓶装饮用水。不包含门票（佛牙寺、皇家植物园等）、康提文化舞蹈表演门票（可选）、餐饮、个人消费、小费，请另行预算。两位旅客共同支付119美元，而不是每人各付68美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "私人空调康提市观光游览"
+  ],
+  "included": [
+   "私人空调车辆",
+   "英语当地司机兼导游",
+   "康提市区酒店接送",
+   "瓶装饮用水"
+  ],
+  "notIncluded": [
+   "门票（佛牙寺、皇家植物园等）",
+   "康提文化舞蹈表演门票（可选）",
+   "餐饮",
+   "个人消费",
+   "小费"
+  ]
+ },
+ "mirissa-whale-and-turtle-watching-boat-tour": {
+  "title": "米瑞沙：观鲸及观海龟游船之旅",
+  "metaTitle": "米瑞沙：观鲸及观海龟游船之旅",
+  "metaDescription": "一次3小时的Mirissa体验。感受寻觅威武蓝鲸及活泼海豚的刺激。由Whale Watching Chaminda提供。",
+  "shortDescription": "一次3小时的Mirissa体验。感受寻觅威武蓝鲸及活泼海豚的刺激。由Whale Watching Chaminda提供。",
+  "fullDescription": "一次3小时的Mirissa体验。感受寻觅威武蓝鲸及活泼海豚的刺激。\n\n由Whale Watching Chaminda负责安排，价格中含5项内容。可免费取消。\n\n价格包含导游讲解的游船之旅、观赏蓝鲸、抹香鲸、海豚及海龟的机会、舒适座椅、安全装备、茶点。",
+  "highlights": [
+   "感受寻觅威武蓝鲸及活泼海豚的刺激"
+  ],
+  "included": [
+   "导游讲解的游船之旅",
+   "观赏蓝鲸、抹香鲸、海豚及海龟的机会",
+   "舒适座椅",
+   "安全装备",
+   "茶点"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "sri-lanka-walking-tour-of-colombo": {
@@ -18478,6 +21364,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费（可选）"
   ]
  },
+ "from-kandy-sigiriya-dambulla-pidurangala-day-trip": {
+  "title": "康提出发：锡吉里耶、丹布勒及皮杜兰加拉一日游，乘轿车",
+  "metaTitle": "康提出发：锡吉里耶、丹布勒及皮杜兰加拉一日游，乘轿车",
+  "metaDescription": "一次全天的Kandy体验。惊叹于锡吉里耶古老的岩石堡垒及其壮丽景观。由Kandy Explore Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。惊叹于锡吉里耶古老的岩石堡垒及其壮丽景观。由Kandy Explore Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。惊叹于锡吉里耶古老的岩石堡垒及其壮丽景观。\n\n由Kandy Explore Tours负责安排，价格中含12项内容。可免费取消。\n\n价格包含酒店接送、从康提出发的私人游览、空调舒适轿车、私人一日游。不包含餐食、门票及入场费，请另行预算。两位旅客共同支付117美元，而不是每人各付117美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "惊叹于锡吉里耶古老的岩石堡垒及其壮丽景观"
+  ],
+  "included": [
+   "酒店接送",
+   "从康提出发的私人游览",
+   "空调舒适轿车",
+   "私人一日游"
+  ],
+  "notIncluded": [
+   "餐食",
+   "门票及入场费"
+  ]
+ },
  "bambarakanda-waterfall-hike-lanka-ella-trekking": {
   "title": "邦巴拉坎达瀑布徒步及兰卡埃拉徒步体验",
   "metaTitle": "邦巴拉坎达瀑布徒步及兰卡埃拉徒步体验",
@@ -18516,6 +21422,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "未列出的餐食",
    "个人消费",
    "旅游保险"
+  ]
+ },
+ "colombo-private-city-tour-by-car-with-expert": {
+  "title": "科伦坡私人市区游览，乘轿车，配专业当地导游",
+  "metaTitle": "科伦坡私人市区游览，乘轿车，配专业当地导游",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Colombo Fort Old Lighthouse & Clock Tower, Colombo Port Maritime Museum, Old Parliament Building和Galle Face Green。由Sri Lanka car and private d...",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Colombo Fort Old Lighthouse & Clock Tower, Colombo Port Maritime Museum, Old Parliament Building和Galle Face Green。由Sri Lanka car and private driver hire提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Colombo Fort Old Lighthouse & Clock Tower, Colombo Port Maritime Museum, Old Parliament Building和Galle Face Green。全程共15站。\n\n行程顺序为Colombo Fort Old Lighthouse & Clock Tower (10 min), 然后 Colombo Port Maritime Museum (10 min), 然后 Old Parliament Building (10 min), 然后 Galle Face Green (20 min), 然后 Gangaramaya Temple (10 min)。\n\n价格包含私人空调轿车及司机兼导游、国王椰子水（欢迎饮品）、瓶装水、全部停车费用。不包含甘加拉玫寺及莲花塔门票，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Colombo Fort Old Lighthouse & Clock Tower, Colombo Port Maritime Museum, Old Parliament Building和Galle Face Green。由Sri Lanka car and private driver hire提供。"
+  ],
+  "included": [
+   "私人空调轿车及司机兼导游",
+   "国王椰子水（欢迎饮品）",
+   "瓶装水",
+   "全部停车费用"
+  ],
+  "notIncluded": [
+   "甘加拉玫寺及莲花塔门票"
   ]
  },
  "kandy-nuwara-eliya-scenic-tour-ella-train-drop": {
@@ -18558,6 +21483,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "住宿",
    "晚餐",
    "个人消费"
+  ]
+ },
+ "capital-city-tour-by-ceylon-tuk-tuk": {
+  "title": "乘锡兰嘟嘟车的首都市区游览",
+  "metaTitle": "乘锡兰嘟嘟车的首都市区游览",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Tuk tuk和Colombo Town Hall。由CEYLON TUK TUK提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Tuk tuk和Colombo Town Hall。由CEYLON TUK TUK提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Tuk tuk, Tuk tuk和Colombo Town Hall。全程共3站。\n\n行程顺序为Tuk tuk (10 min), 然后 Tuk tuk (5 min), 然后 Colombo Town Hall (10 min)。\n\n价格包含科伦坡境内任意地点的酒店接送、全包景点门票及停车费用、配经验丰富的司机兼导游的私人嘟嘟车、瓶装水。不包含其他、餐食，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Tuk tuk, Tuk tuk和Colombo Town Hall。由CEYLON TUK TUK提供。"
+  ],
+  "included": [
+   "科伦坡境内任意地点的酒店接送",
+   "全包景点门票及停车费用",
+   "配经验丰富的司机兼导游的私人嘟嘟车",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "其他",
+   "餐食"
   ]
  },
  "colombo-private-city-tour-with-driver-and-car": {
@@ -18641,6 +21586,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票费用"
   ]
  },
+ "knuckles-mountain-hike-waterfalls-village-tour": {
+  "title": "康提出发：纳克尔斯山徒步、瀑布及乡村游览",
+  "metaTitle": "康提出发：纳克尔斯山徒步、瀑布及乡村游览",
+  "metaDescription": "一次全天的Kandy体验。徒步穿越纳克尔斯山脉，感受清凉的山间空气。由Heritage Tours Sri Lanka提供。",
+  "shortDescription": "一次全天的Kandy体验。徒步穿越纳克尔斯山脉，感受清凉的山间空气。由Heritage Tours Sri Lanka提供。",
+  "fullDescription": "一次全天的Kandy体验。徒步穿越纳克尔斯山脉，感受清凉的山间空气。\n\n由Heritage Tours Sri Lanka负责安排，价格中含10项内容。可免费取消。\n\n价格包含康提酒店接送、导游带领的纳克尔斯山脉徒步、参观传统村庄、参观瀑布。不包含餐食、个人消费、早餐及午餐以外的餐食，请另行预算。",
+  "highlights": [
+   "徒步穿越纳克尔斯山脉，感受清凉的山间空气"
+  ],
+  "included": [
+   "康提酒店接送",
+   "导游带领的纳克尔斯山脉徒步",
+   "参观传统村庄",
+   "参观瀑布"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "早餐及午餐以外的餐食"
+  ]
+ },
  "ella-little-adams-peak-nine-arches-tea-factory": {
   "title": "埃拉：小亚当峰、九拱桥及茶厂游览",
   "metaTitle": "埃拉：小亚当峰、九拱桥及茶厂游览",
@@ -18700,6 +21666,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "kandy-city-tour-with-mountain-temples-kandy-area": {
+  "title": "康提市区游览，含山地寺庙及康提地区，乘嘟嘟车",
+  "metaTitle": "康提市区游览，含山地寺庙及康提地区，乘嘟嘟车",
+  "metaDescription": "一次全天的Kandy体验。感受内利加拉国际佛教中心的宁静。由Kandy Explore Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。感受内利加拉国际佛教中心的宁静。由Kandy Explore Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。感受内利加拉国际佛教中心的宁静。\n\n由Kandy Explore Tours负责安排，价格中含12项内容。可免费取消。\n\n价格包含酒店接送、经验丰富的导游、参观内利加拉国际佛教中心、参观库鲁马加茶厂。不包含个人消费、其他门票，请另行预算。两位旅客共同支付28美元，而不是每人各付28美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "感受内利加拉国际佛教中心的宁静"
+  ],
+  "included": [
+   "酒店接送",
+   "经验丰富的导游",
+   "参观内利加拉国际佛教中心",
+   "参观库鲁马加茶厂"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "其他门票"
+  ]
+ },
  "ambewela-to-ella-train-tickets-reserved-with-seat": {
   "title": "安贝沃拉到埃拉火车票（预留座位，含座位号）",
   "metaTitle": "安贝沃拉到埃拉火车票（预留座位，含座位号）",
@@ -18715,6 +21701,47 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "colombo-galle-madu-river-and-turtle-hatchery-tour": {
+  "title": "科伦坡：加勒、马杜河及海龟孵化场游览",
+  "metaTitle": "科伦坡：加勒、马杜河及海龟孵化场游览",
+  "metaDescription": "一次全天的Colombo体验。漫步联合国教科文组织世界遗产加勒荷兰堡。由Sri Lanka car and private driver hire提供。",
+  "shortDescription": "一次全天的Colombo体验。漫步联合国教科文组织世界遗产加勒荷兰堡。由Sri Lanka car and private driver hire提供。",
+  "fullDescription": "一次全天的Colombo体验。漫步联合国教科文组织世界遗产加勒荷兰堡。\n\n由Sri Lanka car and private driver hire负责安排，价格中含8项内容。可免费取消。\n\n价格包含加勒荷兰堡游览、参观海龟孵化场、在达拉维拉海滩游泳及浮潜、现场导游讲解。不包含午餐、小费、门票，请另行预算。",
+  "highlights": [
+   "漫步联合国教科文组织世界遗产加勒荷兰堡"
+  ],
+  "included": [
+   "加勒荷兰堡游览",
+   "参观海龟孵化场",
+   "在达拉维拉海滩游泳及浮潜",
+   "现场导游讲解"
+  ],
+  "notIncluded": [
+   "午餐",
+   "小费",
+   "门票"
+  ]
+ },
+ "nuwara-eliya-little-england-tour-tea-estates": {
+  "title": "努沃勒埃利耶\"小英格兰\"游览：茶园及瀑布",
+  "metaTitle": "努沃勒埃利耶\"小英格兰\"游览：茶园及瀑布",
+  "metaDescription": "一次从Nuwara Eliya出发的全天行程，游览Ramboda Falls, Srilanka和Victoria Park, Belfast。由ACRO LEISURE TOURS SRI LANKA提供。",
+  "shortDescription": "一次从Nuwara Eliya出发的全天行程，游览Ramboda Falls, Srilanka和Victoria Park, Belfast。由ACRO LEISURE TOURS SRI LANKA提供。",
+  "fullDescription": "一次从Nuwara Eliya出发的全天行程，途经Ramboda Falls, Srilanka和Victoria Park, Belfast。最长的一站是Victoria Park, Belfast，约1小时。全程共2站。\n\n行程顺序为Ramboda Falls, Srilanka, 然后 Victoria Park, Belfast (1h)。\n\n价格包含私人空调车辆、英语司机兼导游、燃油及停车费用、灵活行程。不包含地点门票、餐食，请另行预算。",
+  "highlights": [
+   "一次从Nuwara Eliya出发的全天行程，游览Ramboda Falls, Srilanka和Victoria Park, Belfast。由ACRO LEISURE TOURS SRI LANKA提供。"
+  ],
+  "included": [
+   "私人空调车辆",
+   "英语司机兼导游",
+   "燃油及停车费用",
+   "灵活行程"
+  ],
+  "notIncluded": [
+   "地点门票",
+   "餐食"
   ]
  },
  "nuwara-eliya-to-belihuloya-safari-day-tour-nature": {
@@ -18738,6 +21765,53 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费和个人消费",
    "个人徒步装备或服装",
    "餐食、小吃和饮品",
+   "门票费用"
+  ]
+ },
+ "colombo-to-belihuloya-adventure-safari-day-tour": {
+  "title": "科伦坡至贝利胡洛亚探险野生动物园一日游",
+  "metaTitle": "科伦坡至贝利胡洛亚探险野生动物园一日游",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Belihuloya。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Belihuloya。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Belihuloya。\n\n价格包含配英语司机的私人空调车辆、燃油、停车费及所有交通相关费用、科伦坡及周边地区接送（可按需安排尼甘布/机场）、行程中的免费瓶装水、经风光路线前往贝利胡洛亚的乡村驾游、自然景观停靠点、河景及摄影点的协助。不包含餐食、小吃和饮品、小费和个人消费、个人徒步装备或服装、门票费用，请另行预算。两位旅客共同支付541美元，而不是每人各付423美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Belihuloya。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。"
+  ],
+  "included": [
+   "配英语司机的私人空调车辆",
+   "燃油、停车费及所有交通相关费用",
+   "科伦坡及周边地区接送（可按需安排尼甘布/机场）",
+   "行程中的免费瓶装水",
+   "经风光路线前往贝利胡洛亚的乡村驾游",
+   "自然景观停靠点、河景及摄影点的协助"
+  ],
+  "notIncluded": [
+   "餐食、小吃和饮品",
+   "小费和个人消费",
+   "个人徒步装备或服装",
+   "门票费用"
+  ]
+ },
+ "ella-to-bakers-bend-adventure-day-tour": {
+  "title": "埃拉至贝克弯探险一日游",
+  "metaTitle": "埃拉至贝克弯探险一日游",
+  "metaDescription": "一次从Ella出发的全天行程，游览Baker's Bend。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Baker's Bend。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Baker's Bend。\n\n价格包含配英语司机的私人空调车辆、燃油、停车费及所有交通相关费用、埃拉及周边地区酒店接送（可按需安排）、行程中的免费瓶装水、参观努沃勒埃利耶地区附近的传统茶厂，含品茶体验、前往霍顿平原国家公园途中穿越高地的风光驾游。不包含餐食、小吃和饮品、小费和个人消费、门票费用，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Baker's Bend。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。"
+  ],
+  "included": [
+   "配英语司机的私人空调车辆",
+   "燃油、停车费及所有交通相关费用",
+   "埃拉及周边地区酒店接送（可按需安排）",
+   "行程中的免费瓶装水",
+   "参观努沃勒埃利耶地区附近的传统茶厂，含品茶体验",
+   "前往霍顿平原国家公园途中穿越高地的风光驾游"
+  ],
+  "notIncluded": [
+   "餐食、小吃和饮品",
+   "小费和个人消费",
    "门票费用"
   ]
  },
@@ -18819,6 +21893,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "火车票"
   ]
  },
+ "colombo-first-night-guided-tour-with-tuk-tuk-ride": {
+  "title": "科伦坡：首夜导游讲解游览，含嘟嘟车之旅",
+  "metaTitle": "科伦坡：首夜导游讲解游览，含嘟嘟车之旅",
+  "metaDescription": "一次从Colombo出发的半天行程，游览On foot, Fort, Colombo, Pettah Market和Tuk tuk。由Zeylona Travels提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览On foot, Fort, Colombo, Pettah Market和Tuk tuk。由Zeylona Travels提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经On foot, Fort, Colombo, Pettah Market和Tuk tuk。全程共9站。\n\n行程顺序为On foot (30 min), 然后 Fort, Colombo (30 min), 然后 Pettah Market (30 min), 然后 Tuk tuk (30 min), 然后 On foot (5 min)。\n\n价格包含当地导游、嘟嘟车体验、当地公交体验、传统斯里兰卡茶或小吃。不包含观光，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览On foot, Fort, Colombo, Pettah Market和Tuk tuk。由Zeylona Travels提供。"
+  ],
+  "included": [
+   "当地导游",
+   "嘟嘟车体验",
+   "当地公交体验",
+   "传统斯里兰卡茶或小吃"
+  ],
+  "notIncluded": [
+   "观光"
+  ]
+ },
  "ella-little-adams-peak-kombukara-falls-tuk-tuk": {
   "title": "埃拉：小亚当峰及康布卡拉瀑布嘟嘟车之旅",
   "metaTitle": "埃拉：小亚当峰及康布卡拉瀑布嘟嘟车之旅",
@@ -18840,6 +21933,90 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "sigiriya-rock-hike-minneriya-elephant-safari": {
+  "title": "锡吉里耶岩徒步及明内里耶观象野生动物园私人游览",
+  "metaTitle": "锡吉里耶岩徒步及明内里耶观象野生动物园私人游览",
+  "metaDescription": "一次从Sigiriya出发的全天行程，游览Jeep / SUV, Sigiriya和Minneriya National Park。由Ceyloney Premium提供。",
+  "shortDescription": "一次从Sigiriya出发的全天行程，游览Jeep / SUV, Sigiriya和Minneriya National Park。由Ceyloney Premium提供。",
+  "fullDescription": "一次从Sigiriya出发的全天行程，途经Jeep / SUV, Sigiriya和Minneriya National Park。最长的一站是Minneriya National Park，约3小时。全程共3站。\n\n行程顺序为Jeep / SUV (1h), 然后 Sigiriya (2h), 然后 Minneriya National Park (3h)。\n\n价格包含酒店接送（锡吉里耶、丹布勒、哈巴拉纳）、私人交通、锡吉里耶岩徒步、明内里耶国家公园吉普车野生动物园之旅、经验丰富的司机/导游、瓶装水。不包含锡吉里耶（35美元）/皮杜兰加拉（10美元）岩石门票、明内里耶国家公园门票费用（35美元），请另行预算。两位旅客共同支付150美元，而不是每人各付125美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Sigiriya出发的全天行程，游览Jeep / SUV, Sigiriya和Minneriya National Park。由Ceyloney Premium提供。"
+  ],
+  "included": [
+   "酒店接送（锡吉里耶、丹布勒、哈巴拉纳）",
+   "私人交通",
+   "锡吉里耶岩徒步",
+   "明内里耶国家公园吉普车野生动物园之旅",
+   "经验丰富的司机/导游",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "锡吉里耶（35美元）/皮杜兰加拉（10美元）岩石门票",
+   "明内里耶国家公园门票费用（35美元）"
+  ]
+ },
+ "sri-lankas-signature-8-days-culture-wildlife": {
+  "title": "斯里兰卡招牌8日游：文化、野生动物及风光",
+  "metaTitle": "斯里兰卡招牌8日游：文化、野生动物及风光",
+  "metaDescription": "一次8天的Colombo体验。沉浸于斯里兰卡丰富的历史及文化。由Serendipity tours (private) Limited提供。",
+  "shortDescription": "一次8天的Colombo体验。沉浸于斯里兰卡丰富的历史及文化。由Serendipity tours (private) Limited提供。",
+  "fullDescription": "一次8天的Colombo体验。沉浸于斯里兰卡丰富的历史及文化。\n\n由Serendipity tours (private) Limited负责安排，价格中含12项内容。可免费取消。\n\n价格包含从班达拉奈克国际机场或尼甘布接客、前往锡吉里耶的风光驾游、参观丹布勒石窟寺、攀登锡吉里耶狮子岩。不包含未说明的餐食、住宿、门票费用，请另行预算。两位旅客共同支付1014美元，而不是每人各付1014美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "沉浸于斯里兰卡丰富的历史及文化"
+  ],
+  "included": [
+   "从班达拉奈克国际机场或尼甘布接客",
+   "前往锡吉里耶的风光驾游",
+   "参观丹布勒石窟寺",
+   "攀登锡吉里耶狮子岩"
+  ],
+  "notIncluded": [
+   "未说明的餐食",
+   "住宿",
+   "门票费用"
+  ]
+ },
+ "negombo-sri-lankan-cooking-class-with-market-visit": {
+  "title": "尼甘布：斯里兰卡烹饪课，含市场参观",
+  "metaTitle": "尼甘布：斯里兰卡烹饪课，含市场参观",
+  "metaDescription": "一次从Negombo出发的2小时行程，游览Fish Market, Negombo和Negombo。由Real Lanka Holidays Pvt Ltd提供。",
+  "shortDescription": "一次从Negombo出发的2小时行程，游览Fish Market, Negombo和Negombo。由Real Lanka Holidays Pvt Ltd提供。",
+  "fullDescription": "一次从Negombo出发的2小时行程，途经Fish Market, Negombo和Negombo。最长的一站是Negombo，约2小时。全程共2站。\n\n行程顺序为Fish Market, Negombo (20 min), 然后 Negombo (2h)。\n\n价格包含酒店接送、导游带领参观当地市场、2小时烹饪课程、家庭自制午餐。不包含个人消费、小费，请另行预算。",
+  "highlights": [
+   "一次从Negombo出发的2小时行程，游览Fish Market, Negombo和Negombo。由Real Lanka Holidays Pvt Ltd提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "导游带领参观当地市场",
+   "2小时烹饪课程",
+   "家庭自制午餐"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费"
+  ]
+ },
+ "from-kandy-private-transfer-to-ella-with-7-stops": {
+  "title": "康提出发：私人接送至埃拉，含7个停靠点",
+  "metaTitle": "康提出发：私人接送至埃拉，含7个停靠点",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Finish at:。由YanTravels Sri Lanka提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Finish at:。由YanTravels Sri Lanka提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Finish at:。\n\n价格包含私人嘟嘟车（最多载3人）、经验丰富的英语司机、康提酒店/住宿接客、送达您在埃拉的酒店/住宿地点。不包含景点门票费用（如适用）、餐饮、个人消费和小费，请另行预算。两位旅客共同支付123美元，而不是每人各付123美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Finish at:。由YanTravels Sri Lanka提供。"
+  ],
+  "included": [
+   "私人嘟嘟车（最多载3人）",
+   "经验丰富的英语司机",
+   "康提酒店/住宿接客",
+   "送达您在埃拉的酒店/住宿地点"
+  ],
+  "notIncluded": [
+   "景点门票费用（如适用）",
+   "餐饮",
+   "个人消费和小费"
+  ]
+ },
  "ella-private-sunrise-hike-tea-estate-and": {
   "title": "埃拉：私人日出徒步、茶园及瀑布游览",
   "metaTitle": "埃拉：私人日出徒步、茶园及瀑布游览",
@@ -18858,6 +22035,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "个人消费",
    "小费"
+  ]
+ },
+ "kandy-private-tuk-tuk-tour-with-tea-tasting": {
+  "title": "康提：私人嘟嘟车游览，含品茶及乡村参观",
+  "metaTitle": "康提：私人嘟嘟车游览，含品茶及乡村参观",
+  "metaDescription": "一次半天的Kandy体验。与当地司机一起乘嘟嘟车私人游览探索康提。由Pekoe Lanka Tours提供。",
+  "shortDescription": "一次半天的Kandy体验。与当地司机一起乘嘟嘟车私人游览探索康提。由Pekoe Lanka Tours提供。",
+  "fullDescription": "一次半天的Kandy体验。与当地司机一起乘嘟嘟车私人游览探索康提。\n\n由Pekoe Lanka Tours负责安排，价格中含12项内容。可免费取消。\n\n价格包含康提酒店接送、私人嘟嘟车及友善的当地司机、灵活可定制的行程、参观康提观景台。不包含餐食、景点门票费用、佛牙寺门票，请另行预算。两位旅客共同支付15美元，而不是每人各付8美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "与当地司机一起乘嘟嘟车私人游览探索康提"
+  ],
+  "included": [
+   "康提酒店接送",
+   "私人嘟嘟车及友善的当地司机",
+   "灵活可定制的行程",
+   "参观康提观景台"
+  ],
+  "notIncluded": [
+   "餐食",
+   "景点门票费用",
+   "佛牙寺门票"
   ]
  },
  "kandy-to-yala-transfer-with-hidden-stops-spice": {
@@ -18941,6 +22139,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "kandy-sigiriya-dambulla-hidden-temples-day-trip": {
+  "title": "康提：锡吉里耶、丹布勒及隐秘寺庙一日游",
+  "metaTitle": "康提：锡吉里耶、丹布勒及隐秘寺庙一日游",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Sigiriya Fortress, Ederagala Wana Senasuna, Dambulla Royal Cave Temple and Golden Temple和Matale herbal & Spice Garden。由Lesley Tuk Tuk Safari Kan...",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Sigiriya Fortress, Ederagala Wana Senasuna, Dambulla Royal Cave Temple and Golden Temple和Matale herbal & Spice Garden。由Lesley Tuk Tuk Safari Kandy提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Sigiriya Fortress, Ederagala Wana Senasuna, Dambulla Royal Cave Temple and Golden Temple和Matale herbal & Spice Garden。最长的一站是Sigiriya Fortress，约2小时。全程共7站。\n\n行程顺序为Sigiriya Fortress (2h), 然后 Ederagala Wana Senasuna (30 min), 然后 Dambulla Royal Cave Temple and Golden Temple (1h), 然后 Matale herbal & Spice Garden (30 min), 然后 Nalanda Gedige (15 min)。\n\n价格包含私人舒适空调交通、专业英语司机兼导游、康提酒店接送、在传统香料园进行的导游知识讲解游览、行程中的瓶装饮用水。两位旅客共同支付107美元，而不是每人各付107美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Sigiriya Fortress, Ederagala Wana Senasuna, Dambulla Royal Cave Temple and Golden Temple和Matale herbal & Spice Garden。由Lesley Tuk Tuk Safari Kandy提供。"
+  ],
+  "included": [
+   "私人舒适空调交通",
+   "专业英语司机兼导游",
+   "康提酒店接送",
+   "在传统香料园进行的导游知识讲解游览",
+   "行程中的瓶装饮用水"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "sigiriya-elephant-safari-hurulu-eco-park-all": {
   "title": "锡吉里耶：胡鲁鲁生态公园象群野生动物园之旅（全包）",
   "metaTitle": "锡吉里耶：胡鲁鲁生态公园象群野生动物园之旅（全包）",
@@ -18958,6 +22176,151 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "sigiriya-coconut-shell-bamboo-crafting-workshop": {
+  "title": "锡吉里耶：椰壳及竹制工艺工坊",
+  "metaTitle": "锡吉里耶：椰壳及竹制工艺工坊",
+  "metaDescription": "一次0.5小时的Sigiriya体验。与当地工匠一起制作属于自己的椰壳或竹制工艺品。由Lakpura®提供。",
+  "shortDescription": "一次0.5小时的Sigiriya体验。与当地工匠一起制作属于自己的椰壳或竹制工艺品。由Lakpura®提供。",
+  "fullDescription": "一次0.5小时的Sigiriya体验。与当地工匠一起制作属于自己的椰壳或竹制工艺品。\n\n由Lakpura®负责安排，价格中含4项内容。可免费取消。\n\n价格包含导游、经验丰富工匠的逐步指导、30分钟工作坊体验、椰壳杯盛装的锡兰红茶。不包含个人消费、小费、餐食，请另行预算。",
+  "highlights": [
+   "与当地工匠一起制作属于自己的椰壳或竹制工艺品"
+  ],
+  "included": [
+   "导游",
+   "经验丰富工匠的逐步指导",
+   "30分钟工作坊体验",
+   "椰壳杯盛装的锡兰红茶"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费",
+   "餐食"
+  ]
+ },
+ "colombo-hidden-gems-day-tour-artisan-villages": {
+  "title": "科伦坡隐秘美景一日游：工匠村庄、红树林",
+  "metaTitle": "科伦坡隐秘美景一日游：工匠村庄、红树林",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Colombo和Bentota。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Colombo和Bentota。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Colombo和Bentota。全程共2站。\n\n行程顺序为Colombo, 然后 Bentota。\n\n价格包含配司机兼导游的私人空调车辆、科伦坡、尼甘布或机场接送、豪华车辆、瓶装水、所有观光停靠点。不包含餐饮（午餐可选）、个人消费和纪念品、小费，请另行预算。两位旅客共同支付338美元，而不是每人各付280美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Colombo和Bentota。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。"
+  ],
+  "included": [
+   "配司机兼导游的私人空调车辆",
+   "科伦坡、尼甘布或机场接送",
+   "豪华车辆",
+   "瓶装水",
+   "所有观光停靠点"
+  ],
+  "notIncluded": [
+   "餐饮（午餐可选）",
+   "个人消费和纪念品",
+   "小费"
+  ]
+ },
+ "ella-to-udawalawe-transfer-with-wild-safari": {
+  "title": "埃拉至乌达瓦拉维接送，含野生动物园探险",
+  "metaTitle": "埃拉至乌达瓦拉维接送，含野生动物园探险",
+  "metaDescription": "一次从Ella出发的半天行程，游览Udawalawa和Finish at:。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "shortDescription": "一次从Ella出发的半天行程，游览Udawalawa和Finish at:。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "fullDescription": "一次从Ella出发的半天行程，途经Udawalawa和Finish at:。全程共2站。\n\n行程顺序为Udawalawa, 然后 Finish at:。\n\n价格包含配司机兼导游的私人空调车辆、从埃拉接客，送达乌达瓦拉维、瓶装水、全部观光停靠点。不包含餐饮（午餐可选）、个人消费和纪念品、小费，请另行预算。两位旅客共同支付153美元，而不是每人各付119美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Ella出发的半天行程，游览Udawalawa和Finish at:。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。"
+  ],
+  "included": [
+   "配司机兼导游的私人空调车辆",
+   "从埃拉接客，送达乌达瓦拉维",
+   "瓶装水",
+   "全部观光停靠点"
+  ],
+  "notIncluded": [
+   "餐饮（午餐可选）",
+   "个人消费和纪念品",
+   "小费"
+  ]
+ },
+ "bentota-to-kandy-day-tour-hidden-heritage-tea": {
+  "title": "本托塔至康提一日游：隐秘遗产、茶厂",
+  "metaTitle": "本托塔至康提一日游：隐秘遗产、茶厂",
+  "metaDescription": "一次全天的Kandy体验。正宗乡村早餐体验。由Pekoe Lanka Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。正宗乡村早餐体验。由Pekoe Lanka Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。正宗乡村早餐体验。\n\n由Pekoe Lanka Tours负责安排，价格中含5项内容。可免费取消。\n\n价格包含私人空调车辆、英语友善司机、酒店接送（本托塔）、燃油、停车费及高速公路费用。不包含餐食、个人消费、门票费用，请另行预算。两位旅客共同支付457美元，而不是每人各付372美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "正宗乡村早餐体验"
+  ],
+  "included": [
+   "私人空调车辆",
+   "英语友善司机",
+   "酒店接送（本托塔）",
+   "燃油、停车费及高速公路费用"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "门票费用"
+  ]
+ },
+ "colombo-ratnapura-gem-mine-tour-with-waterfall": {
+  "title": "科伦坡：拉特纳普拉宝石矿游览，含瀑布参观",
+  "metaTitle": "科伦坡：拉特纳普拉宝石矿游览，含瀑布参观",
+  "metaDescription": "一次全天的Colombo体验。参观传统宝石矿，体验真实的开采活动。由Ceylon Voyageur提供。",
+  "shortDescription": "一次全天的Colombo体验。参观传统宝石矿，体验真实的开采活动。由Ceylon Voyageur提供。",
+  "fullDescription": "一次全天的Colombo体验。参观传统宝石矿，体验真实的开采活动。\n\n由Ceylon Voyageur负责安排，价格中含8项内容。可免费取消。\n\n价格包含从科伦坡或尼甘布出发的接送、前往拉特纳普拉的风光驾游、参观传统宝石矿、亲身体验宝石开采。不包含个人消费、小费，请另行预算。两位旅客共同支付440美元，而不是每人各付331美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "参观传统宝石矿，体验真实的开采活动"
+  ],
+  "included": [
+   "从科伦坡或尼甘布出发的接送",
+   "前往拉特纳普拉的风光驾游",
+   "参观传统宝石矿",
+   "亲身体验宝石开采"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费"
+  ]
+ },
+ "2-days-private-colombo-tuktuk-experience-kandy": {
+  "title": "2天私人科伦坡嘟嘟车体验及康提游览，乘轿车",
+  "metaTitle": "2天私人科伦坡嘟嘟车体验及康提游览，乘轿车",
+  "metaDescription": "一次2天的Colombo体验。乘嘟嘟车穿行科伦坡热闹的街道，感受刺激。由Sri Rides Tours & Travels提供。",
+  "shortDescription": "一次2天的Colombo体验。乘嘟嘟车穿行科伦坡热闹的街道，感受刺激。由Sri Rides Tours & Travels提供。",
+  "fullDescription": "一次2天的Colombo体验。乘嘟嘟车穿行科伦坡热闹的街道，感受刺激。\n\n由Sri Rides Tours & Travels负责安排，价格中含8项内容。可免费取消。\n\n价格包含2日私人游览、专业司机、科伦坡嘟嘟车游览、前往康提的私人轿车接送。",
+  "highlights": [
+   "乘嘟嘟车穿行科伦坡热闹的街道，感受刺激"
+  ],
+  "included": [
+   "2日私人游览",
+   "专业司机",
+   "科伦坡嘟嘟车游览",
+   "前往康提的私人轿车接送"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "kandy-traditional-cooking-class-free-tuk-tuk-pick": {
+  "title": "康提：传统烹饪课（免费嘟嘟车接送）",
+  "metaTitle": "康提：传统烹饪课（免费嘟嘟车接送）",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Tuk tuk。由Sujith Soysa提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Tuk tuk。由Sujith Soysa提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Tuk tuk。\n\n由Sujith Soysa负责安排，价格中含10项内容。可免费取消。踏上独特而传统的斯里兰卡美食之旅。\n\n价格包含康提酒店接送、乘嘟嘟车交通、英语导游、参观茶厂及品茶。不包含未提及的额外食物或饮品、个人消费、未在包含项目中列出的其他内容，请另行预算。两位旅客共同支付129美元，而不是每人各付71美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Tuk tuk。由Sujith Soysa提供。"
+  ],
+  "included": [
+   "康提酒店接送",
+   "乘嘟嘟车交通",
+   "英语导游",
+   "参观茶厂及品茶"
+  ],
+  "notIncluded": [
+   "未提及的额外食物或饮品",
+   "个人消费",
+   "未在包含项目中列出的其他内容"
   ]
  },
  "rathnapura-gem-tour-and-ella-drop-from": {
@@ -19041,6 +22404,46 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐食",
    "门票费用"
+  ]
+ },
+ "kandy-ambuluwawa-ramboda-falls-private-tour": {
+  "title": "康提：安布鲁瓦瓦及兰博达瀑布私人游览",
+  "metaTitle": "康提：安布鲁瓦瓦及兰博达瀑布私人游览",
+  "metaDescription": "一次从Kandy出发的半天行程，游览Ambuluwawa Tower, Damro Tea Factory, Ramboda Falls, Srilanka和Moon Plains。由Lesley Tuk Tuk Safari Kandy提供。",
+  "shortDescription": "一次从Kandy出发的半天行程，游览Ambuluwawa Tower, Damro Tea Factory, Ramboda Falls, Srilanka和Moon Plains。由Lesley Tuk Tuk Safari Kandy提供。",
+  "fullDescription": "一次从Kandy出发的半天行程，途经Ambuluwawa Tower, Damro Tea Factory, Ramboda Falls, Srilanka和Moon Plains。最长的一站是Damro Tea Factory，约1小时。全程共9站。\n\n行程顺序为Ambuluwawa Tower (30 min), 然后 Damro Tea Factory (1h), 然后 Ramboda Falls, Srilanka (15 min), 然后 Moon Plains (15 min), 然后 Nuwara Eliya (15 min)。\n\n价格包含私人舒适空调交通、专业英语司机兼导游、一份正宗当地街头美食/小吃品尝（例如罗提或国王椰子）、导游讲解的茶厂游览，含免费品茶。两位旅客共同支付107美元，而不是每人各付107美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的半天行程，游览Ambuluwawa Tower, Damro Tea Factory, Ramboda Falls, Srilanka和Moon Plains。由Lesley Tuk Tuk Safari Kandy提供。"
+  ],
+  "included": [
+   "私人舒适空调交通",
+   "专业英语司机兼导游",
+   "一份正宗当地街头美食/小吃品尝（例如罗提或国王椰子）",
+   "导游讲解的茶厂游览，含免费品茶"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "ella-city-sunrise-hike-nine-arch-bridge-train": {
+  "title": "埃拉市：日出徒步、九拱桥及火车之旅",
+  "metaTitle": "埃拉市：日出徒步、九拱桥及火车之旅",
+  "metaDescription": "一次全天的Ella体验。徒步前往埃拉岩或小亚当峰，感受清晨凉爽的微风。由Ella tuk tuk and taxi service提供。",
+  "shortDescription": "一次全天的Ella体验。徒步前往埃拉岩或小亚当峰，感受清晨凉爽的微风。由Ella tuk tuk and taxi service提供。",
+  "fullDescription": "一次全天的Ella体验。徒步前往埃拉岩或小亚当峰，感受清晨凉爽的微风。\n\n由Ella tuk tuk and taxi service负责安排，价格中含10项内容。可免费取消。\n\n价格包含徒步前往小亚当峰、参观九拱桥、参观德莫达拉观景点、参观传统茶厂。不包含早餐、门票、餐食，请另行预算。",
+  "highlights": [
+   "徒步前往埃拉岩或小亚当峰，感受清晨凉爽的微风"
+  ],
+  "included": [
+   "徒步前往小亚当峰",
+   "参观九拱桥",
+   "参观德莫达拉观景点",
+   "参观传统茶厂"
+  ],
+  "notIncluded": [
+   "早餐",
+   "门票",
+   "餐食"
   ]
  },
  "kandy-colombo-or-airport-private-day-tour-transfer": {
@@ -19494,6 +22897,63 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "sigiriya-to-dambulla-city-tour-by-tuk-tuk": {
+  "title": "锡吉里耶至丹布勒市区游览，乘嘟嘟车",
+  "metaTitle": "锡吉里耶至丹布勒市区游览，乘嘟嘟车",
+  "metaDescription": "一次半天的Sigiriya体验。乘传统嘟嘟车从锡吉里耶到丹布勒。由Online Sigiriya提供。",
+  "shortDescription": "一次半天的Sigiriya体验。乘传统嘟嘟车从锡吉里耶到丹布勒。由Online Sigiriya提供。",
+  "fullDescription": "一次半天的Sigiriya体验。乘传统嘟嘟车从锡吉里耶到丹布勒。\n\n由Online Sigiriya负责安排，价格中含4项内容。可免费取消。\n\n价格包含锡吉里耶酒店接送、嘟嘟车交通、当地司机/导游、文化工作坊参观。两位旅客共同支付59美元，而不是每人各付54美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "乘传统嘟嘟车从锡吉里耶到丹布勒"
+  ],
+  "included": [
+   "锡吉里耶酒店接送",
+   "嘟嘟车交通",
+   "当地司机/导游",
+   "文化工作坊参观"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "from-bentota-hikkaduwa-snorkeling-coral-reef": {
+  "title": "本托塔出发：希卡杜瓦浮潜及珊瑚礁体验",
+  "metaTitle": "本托塔出发：希卡杜瓦浮潜及珊瑚礁体验",
+  "metaDescription": "一次从Bentota出发的半天行程，游览Hikkaduwa。由Ceylon discovery holidays Srilanka提供。",
+  "shortDescription": "一次从Bentota出发的半天行程，游览Hikkaduwa。由Ceylon discovery holidays Srilanka提供。",
+  "fullDescription": "一次从Bentota出发的半天行程，途经Hikkaduwa。最长的一站是Hikkaduwa，约3小时。\n\n价格包含酒店接送（本托塔/贝鲁瓦拉/阿卢特加马地区）、私人交通、浮潜装备、当地导游协助。两位旅客共同支付267美元，而不是每人各付186美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Bentota出发的半天行程，游览Hikkaduwa。由Ceylon discovery holidays Srilanka提供。"
+  ],
+  "included": [
+   "酒店接送（本托塔/贝鲁瓦拉/阿卢特加马地区）",
+   "私人交通",
+   "浮潜装备",
+   "当地导游协助"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "ocean-giants-expedition-whale-watching-in-mirissa": {
+  "title": "海洋巨兽探险：米瑞沙观鲸之旅",
+  "metaTitle": "海洋巨兽探险：米瑞沙观鲸之旅",
+  "metaDescription": "一次半天的Mirissa体验。在自然栖息地观赏蓝鲸。由Mirissa Whale & Turtle Snorkeling Club提供。",
+  "shortDescription": "一次半天的Mirissa体验。在自然栖息地观赏蓝鲸。由Mirissa Whale & Turtle Snorkeling Club提供。",
+  "fullDescription": "一次半天的Mirissa体验。在自然栖息地观赏蓝鲸。\n\n由Mirissa Whale & Turtle Snorkeling Club负责安排，价格中含8项内容。可免费取消。\n\n价格包含海洋专家向导、持证观鲸游船、经验丰富的船长及训练有素的船员、出发前的安全须知讲解。",
+  "highlights": [
+   "在自然栖息地观赏蓝鲸"
+  ],
+  "included": [
+   "海洋专家向导",
+   "持证观鲸游船",
+   "经验丰富的船长及训练有素的船员",
+   "出发前的安全须知讲解"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "ella-to-kandy-transfer-with-lakes-falls-botanical": {
   "title": "埃拉到康提接送，含湖泊、瀑布及植物园",
   "metaTitle": "埃拉到康提接送，含湖泊、瀑布及植物园",
@@ -19515,6 +22975,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "景点门票",
    "格雷戈里湖活动",
    "午餐和个人消费"
+  ]
+ },
+ "udawalawe-safari-personal-car-ella-2-ella-with": {
+  "title": "乌达瓦拉维野生动物园之旅：私家车，埃拉2埃拉，含早餐",
+  "metaTitle": "乌达瓦拉维野生动物园之旅：私家车，埃拉2埃拉，含早餐",
+  "metaDescription": "一次从Ella出发的全天行程，游览Jeep / SUV和Udawalawa National Park。由Prasanna Safari Udawalawe提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Jeep / SUV和Udawalawa National Park。由Prasanna Safari Udawalawe提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Jeep / SUV和Udawalawa National Park。最长的一站是Jeep / SUV，约3小时。全程共2站。\n\n行程顺序为Jeep / SUV (3h), 然后 Udawalawa National Park。\n\n价格包含埃拉酒店接送、私人空调轿车（往返接送）、私人4x4野生动物园吉普车（3小时游览）、持证野生动物园司机。不包含个人消费、小费，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Jeep / SUV和Udawalawa National Park。由Prasanna Safari Udawalawe提供。"
+  ],
+  "included": [
+   "埃拉酒店接送",
+   "私人空调轿车（往返接送）",
+   "私人4x4野生动物园吉普车（3小时游览）",
+   "持证野生动物园司机"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费"
   ]
  },
  "kandy-ranawana-temple-sacred-tooth-relic-tuk-tuk": {
@@ -19573,6 +23053,47 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐食",
    "门票"
+  ]
+ },
+ "kandy-2-day-ella-udawalawe-safari-south-coast-tour": {
+  "title": "康提：2日游，埃拉、乌达瓦拉维野生动物园之旅及南部海岸",
+  "metaTitle": "康提：2日游，埃拉、乌达瓦拉维野生动物园之旅及南部海岸",
+  "metaDescription": "一次2天的Kandy体验。感受乌达瓦拉维国家公园4x4吉普车野生动物园之旅的刺激。由Lanka Tours with Shan Pvt Ltd提供。",
+  "shortDescription": "一次2天的Kandy体验。感受乌达瓦拉维国家公园4x4吉普车野生动物园之旅的刺激。由Lanka Tours with Shan Pvt Ltd提供。",
+  "fullDescription": "一次2天的Kandy体验。感受乌达瓦拉维国家公园4x4吉普车野生动物园之旅的刺激。\n\n由Lanka Tours with Shan Pvt Ltd负责安排，价格中含9项内容。可免费取消。\n\n价格包含从康提出发的酒店接送、英语导游、瓶装水、茶厂门票。不包含乌达瓦拉维国家公园野生动物园吉普车及门票、未列出的餐食、个人消费，请另行预算。",
+  "highlights": [
+   "感受乌达瓦拉维国家公园4x4吉普车野生动物园之旅的刺激"
+  ],
+  "included": [
+   "从康提出发的酒店接送",
+   "英语导游",
+   "瓶装水",
+   "茶厂门票"
+  ],
+  "notIncluded": [
+   "乌达瓦拉维国家公园野生动物园吉普车及门票",
+   "未列出的餐食",
+   "个人消费"
+  ]
+ },
+ "sigiriya-pidurangala-rock-sunrise-hike-and-hidden": {
+  "title": "锡吉里耶：皮杜兰加拉岩日出徒步及隐秘景观",
+  "metaTitle": "锡吉里耶：皮杜兰加拉岩日出徒步及隐秘景观",
+  "metaDescription": "一次全天的Sigiriya体验。徒步穿行，感受周边丛林宁静的氛围。由Im not registered as a compqny提供。",
+  "shortDescription": "一次全天的Sigiriya体验。徒步穿行，感受周边丛林宁静的氛围。由Im not registered as a compqny提供。",
+  "fullDescription": "一次全天的Sigiriya体验。徒步穿行，感受周边丛林宁静的氛围。\n\n由Im not registered as a compqny负责安排，价格中含6项内容。可免费取消。\n\n价格包含酒店接送、导游带领的徒步、参观皮杜兰加拉岩、参观隐秘观景点。不包含餐食、个人消费，请另行预算。",
+  "highlights": [
+   "徒步穿行，感受周边丛林宁静的氛围"
+  ],
+  "included": [
+   "酒店接送",
+   "导游带领的徒步",
+   "参观皮杜兰加拉岩",
+   "参观隐秘观景点"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
   ]
  },
  "mirissa-whale-snorkeling-adventure-with-guide": {
@@ -19652,6 +23173,66 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "个人消费",
    "小费"
+  ]
+ },
+ "from-colombo-polonnaruwa-ancient-city-private-tour": {
+  "title": "科伦坡出发：波隆纳鲁沃古城私人游览",
+  "metaTitle": "科伦坡出发：波隆纳鲁沃古城私人游览",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Sigiriya和Polonnaruwa。由Nelum Tours提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Sigiriya和Polonnaruwa。由Nelum Tours提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Sigiriya和Polonnaruwa。最长的一站是Sigiriya，约2小时。全程共2站。\n\n行程顺序为Sigiriya (2h), 然后 Polonnaruwa (2h)。\n\n价格包含酒店接送、酒店至国家公园往返私人交通、英语司机兼导游、瓶装水。不包含小吃及饮品、波隆纳鲁沃、锡吉里耶及石窟寺门票，请另行预算。两位旅客共同支付744美元，而不是每人各付693美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Sigiriya和Polonnaruwa。由Nelum Tours提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "酒店至国家公园往返私人交通",
+   "英语司机兼导游",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "小吃及饮品",
+   "波隆纳鲁沃、锡吉里耶及石窟寺门票"
+  ]
+ },
+ "from-kandy-to-sigiriya-tour-with-negombo-drop-off": {
+  "title": "康提至锡吉里耶游览，送达尼甘布，含午餐",
+  "metaTitle": "康提至锡吉里耶游览，送达尼甘布，含午餐",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Dambulla和Negombo。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Dambulla和Negombo。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Dambulla和Negombo。全程共2站。\n\n行程顺序为Dambulla, 然后 Negombo。\n\n价格包含私人空调车辆、专业英语司机兼导游、从康提出发的酒店接客（任意地区）、送达尼甘布/科伦坡/机场。不包含个人消费（食物、饮品、购物）、小费、门票费用，请另行预算。两位旅客共同支付338美元，而不是每人各付237美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Dambulla和Negombo。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。"
+  ],
+  "included": [
+   "私人空调车辆",
+   "专业英语司机兼导游",
+   "从康提出发的酒店接客（任意地区）",
+   "送达尼甘布/科伦坡/机场"
+  ],
+  "notIncluded": [
+   "个人消费（食物、饮品、购物）",
+   "小费",
+   "门票费用"
+  ]
+ },
+ "kandy-to-sigiriya-adventure-tour": {
+  "title": "康提至锡吉里耶探险游览",
+  "metaTitle": "康提至锡吉里耶探险游览",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Sigiriya。由Lanka City Tours提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Sigiriya。由Lanka City Tours提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Sigiriya。最长的一站是Sigiriya，约7小时。\n\n价格包含经验丰富的导游、安全须知讲解、路线概览、拍照停靠点。不包含锡吉里耶狮子岩门票，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Sigiriya。由Lanka City Tours提供。"
+  ],
+  "included": [
+   "经验丰富的导游",
+   "安全须知讲解",
+   "路线概览",
+   "拍照停靠点"
+  ],
+  "notIncluded": [
+   "锡吉里耶狮子岩门票"
   ]
  },
  "mirissa-whale-snorkeling-tour-with-meal": {
@@ -19812,6 +23393,65 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "kandy-ambuluwawa-tower-local-highlights-by": {
+  "title": "康提：安布鲁瓦瓦塔及当地精华，乘私人嘟嘟车",
+  "metaTitle": "康提：安布鲁瓦瓦塔及当地精华，乘私人嘟嘟车",
+  "metaDescription": "一次全天的Kandy体验。在穿越茶山的风光之旅中感受山间微风。由Kandy Travel With Sana提供。",
+  "shortDescription": "一次全天的Kandy体验。在穿越茶山的风光之旅中感受山间微风。由Kandy Travel With Sana提供。",
+  "fullDescription": "一次全天的Kandy体验。在穿越茶山的风光之旅中感受山间微风。\n\n由Kandy Travel With Sana负责安排，价格中含12项内容。可免费取消。\n\n价格包含接送、英语当地导游/嘟嘟车司机、停车费、注：康提市隐藏观光景点完全免费。不包含个人消费、小费、餐饮，请另行预算。两位旅客共同支付45美元，而不是每人各付45美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在穿越茶山的风光之旅中感受山间微风"
+  ],
+  "included": [
+   "接送",
+   "英语当地导游/嘟嘟车司机",
+   "停车费",
+   "注：康提市隐藏观光景点完全免费"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费",
+   "餐饮"
+  ]
+ },
+ "mirissa-galle-city-tour-with-fort-walk-coastal": {
+  "title": "米瑞沙：加勒市区游览，含古堡漫步及海岸精华",
+  "metaTitle": "米瑞沙：加勒市区游览，含古堡漫步及海岸精华",
+  "metaDescription": "一次从Galle出发的半天行程，游览Galle。由提供。",
+  "shortDescription": "一次从Galle出发的半天行程，游览Galle。由提供。",
+  "fullDescription": "一次从Galle出发的半天行程，途经Galle。最长的一站是Galle，约4小时。\n\n价格包含酒店接送（米瑞沙地区）、私人嘟嘟车或轿车及司机/导游、燃油和停车费、导游讲解的市区游览。两位旅客共同支付169美元，而不是每人各付111美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Galle出发的半天行程，游览Galle。由提供。"
+  ],
+  "included": [
+   "酒店接送（米瑞沙地区）",
+   "私人嘟嘟车或轿车及司机/导游",
+   "燃油和停车费",
+   "导游讲解的市区游览"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "colombo-to-sigiriya-village-experience-with-lunch": {
+  "title": "科伦坡至锡吉里耶乡村体验，含午餐",
+  "metaTitle": "科伦坡至锡吉里耶乡村体验，含午餐",
+  "metaDescription": "一次全天的Colombo体验。在私人游览中沉浸于斯里兰卡的乡村腹地。由The Eden Tours提供。",
+  "shortDescription": "一次全天的Colombo体验。在私人游览中沉浸于斯里兰卡的乡村腹地。由The Eden Tours提供。",
+  "fullDescription": "一次全天的Colombo体验。在私人游览中沉浸于斯里兰卡的乡村腹地。\n\n由The Eden Tours负责安排，价格中含5项内容。可免费取消。\n\n价格包含私人乡村体验、导游带领的村庄徒步游览、牛车体验、参观当地村民家。不包含从科伦坡或尼甘布以外的地点接客，请另行预算。两位旅客共同支付322美元，而不是每人各付288美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在私人游览中沉浸于斯里兰卡的乡村腹地"
+  ],
+  "included": [
+   "私人乡村体验",
+   "导游带领的村庄徒步游览",
+   "牛车体验",
+   "参观当地村民家"
+  ],
+  "notIncluded": [
+   "从科伦坡或尼甘布以外的地点接客"
+  ]
+ },
  "colombo-all-inclusive-sigiriya-rock-and-dambulla": {
   "title": "科伦坡：全包锡吉里耶狮子岩及丹布勒一日游",
   "metaTitle": "科伦坡：全包锡吉里耶狮子岩及丹布勒一日游",
@@ -19870,6 +23510,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "romantic-sri-lanka-7-day-private-couple-escape": {
+  "title": "浪漫斯里兰卡：7日私人情侣逃逸之旅",
+  "metaTitle": "浪漫斯里兰卡：7日私人情侣逃逸之旅",
+  "metaDescription": "一次7天的Galle体验。感受雅拉国家公园吉普车野生动物园之旅的刺激。由WMT Ceylon Tour Private Limited提供。",
+  "shortDescription": "一次7天的Galle体验。感受雅拉国家公园吉普车野生动物园之旅的刺激。由WMT Ceylon Tour Private Limited提供。",
+  "fullDescription": "一次7天的Galle体验。感受雅拉国家公园吉普车野生动物园之旅的刺激。\n\n由WMT Ceylon Tour Private Limited负责安排，价格中含9项内容。可免费取消。\n\n价格包含私人车辆及专业司机、7天行程、海滩休闲、本托塔河游船野生动物园之旅。不包含浪漫晚餐（可选），请另行预算。",
+  "highlights": [
+   "感受雅拉国家公园吉普车野生动物园之旅的刺激"
+  ],
+  "included": [
+   "私人车辆及专业司机",
+   "7天行程",
+   "海滩休闲",
+   "本托塔河游船野生动物园之旅"
+  ],
+  "notIncluded": [
+   "浪漫晚餐（可选）"
+  ]
+ },
  "ella-nine-arches-bridge-mini-adams-peak-and": {
   "title": "埃拉：九拱桥、小亚当峰及瀑布之旅",
   "metaTitle": "埃拉：九拱桥、小亚当峰及瀑布之旅",
@@ -19888,6 +23547,26 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "午餐",
    "空中步道门票，7美元"
+  ]
+ },
+ "ella-1-day-scenic-6-highlights-adventure-tuk-tuk": {
+  "title": "埃拉：1日风光之旅，6大精华及探险嘟嘟车游览",
+  "metaTitle": "埃拉：1日风光之旅，6大精华及探险嘟嘟车游览",
+  "metaDescription": "一次从Ella出发的全天行程，游览Tuk tuk, On foot, Nine Arch Bridge和Tuk tuk。由Pearl Odyssey Lanka Tours提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Tuk tuk, On foot, Nine Arch Bridge和Tuk tuk。由Pearl Odyssey Lanka Tours提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Tuk tuk, On foot, Nine Arch Bridge和Tuk tuk。全程共12站。\n\n行程顺序为Tuk tuk (30 min), 然后 On foot (15 min), 然后 Nine Arch Bridge (30 min), 然后 Tuk tuk (10 min), 然后 Little Adam's Peak。\n\n价格包含全天嘟嘟车交通、埃拉地区酒店接送、熟悉当地情况的司机、燃油和停车费。不包含餐食和个人消费、小费，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Tuk tuk, On foot, Nine Arch Bridge和Tuk tuk。由Pearl Odyssey Lanka Tours提供。"
+  ],
+  "included": [
+   "全天嘟嘟车交通",
+   "埃拉地区酒店接送",
+   "熟悉当地情况的司机",
+   "燃油和停车费"
+  ],
+  "notIncluded": [
+   "餐食和个人消费",
+   "小费"
   ]
  },
  "sri-lanka-3-days-cultural-triangle-and-wildlife": {
@@ -19930,6 +23609,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "colombo-tuk-tuk-city-tour": {
+  "title": "科伦坡：嘟嘟车市区游览",
+  "metaTitle": "科伦坡：嘟嘟车市区游览",
+  "metaDescription": "一次半天的Colombo体验。在导游带领的嘟嘟车游览中探索科伦坡标志性地标。由Sri Lanka car and private driver hire提供。",
+  "shortDescription": "一次半天的Colombo体验。在导游带领的嘟嘟车游览中探索科伦坡标志性地标。由Sri Lanka car and private driver hire提供。",
+  "fullDescription": "一次半天的Colombo体验。在导游带领的嘟嘟车游览中探索科伦坡标志性地标。\n\n由Sri Lanka car and private driver hire负责安排，价格中含12项内容。可免费取消。\n\n价格包含参观钟楼、参观卡吉尔斯大厦、参观老市政厅、参观佩塔市场。不包含斯里兰卡宝石体验（除非选择加购）、科伦坡莲花塔门票，请另行预算。",
+  "highlights": [
+   "在导游带领的嘟嘟车游览中探索科伦坡标志性地标"
+  ],
+  "included": [
+   "参观钟楼",
+   "参观卡吉尔斯大厦",
+   "参观老市政厅",
+   "参观佩塔市场"
+  ],
+  "notIncluded": [
+   "斯里兰卡宝石体验（除非选择加购）",
+   "科伦坡莲花塔门票"
+  ]
+ },
  "from-colombo-galle-fort-madu-river-safari-escape": {
   "title": "科伦坡出发：加勒古堡及马杜河野生动物园逃逸之旅",
   "metaTitle": "科伦坡出发：加勒古堡及马杜河野生动物园逃逸之旅",
@@ -19968,6 +23667,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐饮",
    "所游览地点的门票"
+  ]
+ },
+ "from-kandy-sigiriya-dambulla-cave-temple-private": {
+  "title": "康提出发：锡吉里耶、丹布勒石窟寺私人一日游",
+  "metaTitle": "康提出发：锡吉里耶、丹布勒石窟寺私人一日游",
+  "metaDescription": "一次全天的Kandy体验。沉浸于锡吉里耶的雄伟，或徒步皮杜兰加拉欣赏壮阔景观。由Pekoe Lanka Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。沉浸于锡吉里耶的雄伟，或徒步皮杜兰加拉欣赏壮阔景观。由Pekoe Lanka Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。沉浸于锡吉里耶的雄伟，或徒步皮杜兰加拉欣赏壮阔景观。\n\n由Pekoe Lanka Tours负责安排，价格中含4项内容。可免费取消。\n\n价格包含酒店接客及送达、英语司机、乘嘟嘟车/小型面包车/轿车交通（视所选方案而定）、停车票。不包含餐食、饮品、小费，请另行预算。",
+  "highlights": [
+   "沉浸于锡吉里耶的雄伟，或徒步皮杜兰加拉欣赏壮阔景观"
+  ],
+  "included": [
+   "酒店接客及送达",
+   "英语司机",
+   "乘嘟嘟车/小型面包车/轿车交通（视所选方案而定）",
+   "停车票"
+  ],
+  "notIncluded": [
+   "餐食",
+   "饮品",
+   "小费"
   ]
  },
  "kandy-city-tour-by-tuk-tuk-with-professional-guide": {
@@ -20049,6 +23769,65 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "from-sigiriya-sigiriya-city-night-wildlife-safari": {
+  "title": "锡吉里耶出发：锡吉里耶市夜间野生动物园探险",
+  "metaTitle": "锡吉里耶出发：锡吉里耶市夜间野生动物园探险",
+  "metaDescription": "一次半天的Sigiriya体验。导游带领的锡吉里耶周边夜间野生动物园之旅，遵循人道观赏原则。由Online Sigiriya提供。",
+  "shortDescription": "一次半天的Sigiriya体验。导游带领的锡吉里耶周边夜间野生动物园之旅，遵循人道观赏原则。由Online Sigiriya提供。",
+  "fullDescription": "一次半天的Sigiriya体验。导游带领的锡吉里耶周边夜间野生动物园之旅，遵循人道观赏原则。\n\n由Online Sigiriya负责安排，价格中含4项内容。可免费取消。\n\n价格包含锡吉里耶地区接送、具备野生动物知识的专业当地向导、全部当地税费及服务费、瓶装水。不包含餐饮，请另行预算。",
+  "highlights": [
+   "导游带领的锡吉里耶周边夜间野生动物园之旅，遵循人道观赏原则"
+  ],
+  "included": [
+   "锡吉里耶地区接送",
+   "具备野生动物知识的专业当地向导",
+   "全部当地税费及服务费",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "餐饮"
+  ]
+ },
+ "from-colombo-day-trip-sigiriya-dambulla-kandalama": {
+  "title": "科伦坡出发一日游：锡吉里耶、丹布勒及坎达拉玛湖",
+  "metaTitle": "科伦坡出发一日游：锡吉里耶、丹布勒及坎达拉玛湖",
+  "metaDescription": "一次全天的Colombo体验。攀登联合国教科文组织世界遗产锡吉里耶狮子岩。由Serenara Escapes提供。",
+  "shortDescription": "一次全天的Colombo体验。攀登联合国教科文组织世界遗产锡吉里耶狮子岩。由Serenara Escapes提供。",
+  "fullDescription": "一次全天的Colombo体验。攀登联合国教科文组织世界遗产锡吉里耶狮子岩。\n\n由Serenara Escapes负责安排，价格中含4项内容。可免费取消。\n\n价格包含私人空调车辆、英语司机兼导游、从科伦坡或尼甘布酒店接客、赠送国王椰子（视供应情况而定）。不包含餐饮、门票费用，请另行预算。两位旅客共同支付229美元，而不是每人各付203美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "攀登联合国教科文组织世界遗产锡吉里耶狮子岩"
+  ],
+  "included": [
+   "私人空调车辆",
+   "英语司机兼导游",
+   "从科伦坡或尼甘布酒店接客",
+   "赠送国王椰子（视供应情况而定）"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "门票费用"
+  ]
+ },
+ "kandy-city-tuk-tuk-tour-templesculture-scenic": {
+  "title": "康提市嘟嘟车游览：寺庙、文化及风光精华",
+  "metaTitle": "康提市嘟嘟车游览：寺庙、文化及风光精华",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Kandy。由提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Kandy。由提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Kandy。最长的一站是Kandy，约6小时。\n\n价格包含私人嘟嘟车及司机、可定制的游览日程、燃油及停车费用、酒店接送（康提地区）。不包含景点门票费用、餐饮，请另行预算。两位旅客共同支付8美元，而不是每人各付8美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Kandy。由提供。"
+  ],
+  "included": [
+   "私人嘟嘟车及司机",
+   "可定制的游览日程",
+   "燃油及停车费用",
+   "酒店接送（康提地区）"
+  ],
+  "notIncluded": [
+   "景点门票费用",
+   "餐饮"
+  ]
+ },
  "from-sigiriya-sigiriya-lion-rock-village-tour-by": {
   "title": "锡吉里耶出发：锡吉里耶狮子岩及乡村游览，乘嘟嘟车",
   "metaTitle": "锡吉里耶出发：锡吉里耶狮子岩及乡村游览，乘嘟嘟车",
@@ -20066,6 +23845,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "个人消费"
+  ]
+ },
+ "nuwara-eliya-private-city-tour-by-tuk-tuk-with": {
+  "title": "努沃勒埃利耶：私人嘟嘟车市区游览，含酒店接客",
+  "metaTitle": "努沃勒埃利耶：私人嘟嘟车市区游览，含酒店接客",
+  "metaDescription": "一次从Nuwara Eliya出发的半天行程，游览Tuk tuk和Nuwara Eliya。由Sri Lanka City Tour提供。",
+  "shortDescription": "一次从Nuwara Eliya出发的半天行程，游览Tuk tuk和Nuwara Eliya。由Sri Lanka City Tour提供。",
+  "fullDescription": "一次从Nuwara Eliya出发的半天行程，途经Tuk tuk和Nuwara Eliya。全程共2站。\n\n行程顺序为Tuk tuk (20 min), 然后 Nuwara Eliya。\n\n价格包含酒店接送、嘟嘟车市区游览、当地司机兼导游、参观殖民地标。不包含格雷戈里湖游船野生动物园之旅（需额外付费），请另行预算。两位旅客共同支付119美元，而不是每人各付82美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Nuwara Eliya出发的半天行程，游览Tuk tuk和Nuwara Eliya。由Sri Lanka City Tour提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "嘟嘟车市区游览",
+   "当地司机兼导游",
+   "参观殖民地标"
+  ],
+  "notIncluded": [
+   "格雷戈里湖游船野生动物园之旅（需额外付费）"
   ]
  },
  "kandy-to-sigiriya-day-tour-with-roti-class": {
@@ -20108,6 +23906,65 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "discover-colombos-key-landmarks-by-tuk-tuk-tour": {
+  "title": "乘嘟嘟车探索科伦坡主要地标",
+  "metaTitle": "乘嘟嘟车探索科伦坡主要地标",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Tuk tuk和Colombo。由Sri Tour by Tuk Tuk提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Tuk tuk和Colombo。由Sri Tour by Tuk Tuk提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Tuk tuk和Colombo。全程共2站。\n\n行程顺序为Tuk tuk (15 min), 然后 Colombo。\n\n价格包含私人整洁嘟嘟车、英语司机兼导游、欢迎饮品：国王椰子水、瓶装水、免费锡兰红茶品尝。不包含餐食、个人消费，请另行预算。两位旅客共同支付93美元，而不是每人各付50美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Tuk tuk和Colombo。由Sri Tour by Tuk Tuk提供。"
+  ],
+  "included": [
+   "私人整洁嘟嘟车",
+   "英语司机兼导游",
+   "欢迎饮品：国王椰子水",
+   "瓶装水",
+   "免费锡兰红茶品尝"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
+  ]
+ },
+ "kandy-sigiriya-village-life-experience-with-lunch": {
+  "title": "康提：锡吉里耶乡村生活体验，含午餐",
+  "metaTitle": "康提：锡吉里耶乡村生活体验，含午餐",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Sigiriya Village Food。由WMT Ceylon Tour Private Limited提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Sigiriya Village Food。由WMT Ceylon Tour Private Limited提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Sigiriya Village Food。最长的一站是Sigiriya Village Food，约5小时。\n\n价格包含从康提出发的风光驾游、牛车体验、独木舟体验、导游带领的村庄徒步游览。不包含参观地点门票不含，请另行预算。两位旅客共同支付169美元，而不是每人各付136美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Sigiriya Village Food。由WMT Ceylon Tour Private Limited提供。"
+  ],
+  "included": [
+   "从康提出发的风光驾游",
+   "牛车体验",
+   "独木舟体验",
+   "导游带领的村庄徒步游览"
+  ],
+  "notIncluded": [
+   "参观地点门票不含"
+  ]
+ },
+ "cultural-tour-kandy-with-entry-ticket-dancing": {
+  "title": "康提文化游览：含门票、舞蹈表演、寺庙等",
+  "metaTitle": "康提文化游览：含门票、舞蹈表演、寺庙等",
+  "metaDescription": "一次全天的Kandy体验。探索联合国教科文组织世界遗产佛牙寺。由Kandy Hikers提供。",
+  "shortDescription": "一次全天的Kandy体验。探索联合国教科文组织世界遗产佛牙寺。由Kandy Hikers提供。",
+  "fullDescription": "一次全天的Kandy体验。探索联合国教科文组织世界遗产佛牙寺。\n\n由Kandy Hikers负责安排，价格中含6项内容。可免费取消。\n\n价格包含参观斯里达拉达玛利加瓦（佛牙寺）、参观恩贝卡寺、参观兰卡提拉卡寺、参观加达拉德尼亚寺。",
+  "highlights": [
+   "探索联合国教科文组织世界遗产佛牙寺"
+  ],
+  "included": [
+   "参观斯里达拉达玛利加瓦（佛牙寺）",
+   "参观恩贝卡寺",
+   "参观兰卡提拉卡寺",
+   "参观加达拉德尼亚寺"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "kandy-to-ella-taxi-drop-tea-falls-optional-train": {
   "title": "康提到埃拉出租车送达：茶园、瀑布，可选火车体验",
   "metaTitle": "康提到埃拉出租车送达：茶园、瀑布，可选火车体验",
@@ -20124,6 +23981,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "negombo-colombo-city-tour-hamilton-canal-boat-ride": {
+  "title": "尼甘布：科伦坡市区游览及汉密尔顿运河船程",
+  "metaTitle": "尼甘布：科伦坡市区游览及汉密尔顿运河船程",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Hamilton Canal, Negombo和Colombo。由Beyond Escapes提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Hamilton Canal, Negombo和Colombo。由Beyond Escapes提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Hamilton Canal, Negombo和Colombo。最长的一站是Colombo，约4小时。全程共2站。\n\n行程顺序为Hamilton Canal, Negombo, 然后 Colombo (4h)。\n\n价格包含酒店接送、沿汉密尔顿运河的风光船程、科伦坡私人市区游览、参观加勒菲斯绿地。不包含观光期间的门票费用、餐饮、个人消费，请另行预算。两位旅客共同支付406美元，而不是每人各付254美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Hamilton Canal, Negombo和Colombo。由Beyond Escapes提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "沿汉密尔顿运河的风光船程",
+   "科伦坡私人市区游览",
+   "参观加勒菲斯绿地"
+  ],
+  "notIncluded": [
+   "观光期间的门票费用",
+   "餐饮",
+   "个人消费"
   ]
  },
  "bomburella-waterfalls-lovers-leap-pedro-tea": {
@@ -20145,6 +24023,45 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食",
    "饮品",
    "门票"
+  ]
+ },
+ "galle-cinnamon-moonstone-tea-factory-fort-day-tour": {
+  "title": "加勒：肉桂、月光石、茶厂及古堡一日游",
+  "metaTitle": "加勒：肉桂、月光石、茶厂及古堡一日游",
+  "metaDescription": "一次全天的Galle体验。在传统场地探索肉桂精油提取工艺。由Top Guide Sri Lanka提供。",
+  "shortDescription": "一次全天的Galle体验。在传统场地探索肉桂精油提取工艺。由Top Guide Sri Lanka提供。",
+  "fullDescription": "一次全天的Galle体验。在传统场地探索肉桂精油提取工艺。\n\n由Top Guide Sri Lanka负责安排，价格中含5项内容。可免费取消。\n\n价格包含肉桂精油提取体验、米蒂亚戈达月光石开采、参观阿图科拉拉茶厂、参观加勒古堡。不包含餐食、个人消费，请另行预算。两位旅客共同支付423美元，而不是每人各付423美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在传统场地探索肉桂精油提取工艺"
+  ],
+  "included": [
+   "肉桂精油提取体验",
+   "米蒂亚戈达月光石开采",
+   "参观阿图科拉拉茶厂",
+   "参观加勒古堡"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
+  ]
+ },
+ "kandy-ambuluwawa-tower-and-temple-tour-with-dance": {
+  "title": "康提：安布鲁瓦瓦塔及寺庙游览，含舞蹈表演",
+  "metaTitle": "康提：安布鲁瓦瓦塔及寺庙游览，含舞蹈表演",
+  "metaDescription": "一次全天的Kandy体验。参观神圣的佛牙寺。由Private Sri Lanka Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。参观神圣的佛牙寺。由Private Sri Lanka Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。参观神圣的佛牙寺。\n\n由Private Sri Lanka Tours负责安排，价格中含4项内容。可免费取消。\n\n价格包含经验丰富的旅游向导、瓶装水、雨伞、私人车辆。不包含门票费用，请另行预算。两位旅客共同支付26美元，而不是每人各付26美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "参观神圣的佛牙寺"
+  ],
+  "included": [
+   "经验丰富的旅游向导",
+   "瓶装水",
+   "雨伞",
+   "私人车辆"
+  ],
+  "notIncluded": [
+   "门票费用"
   ]
  },
  "3-day-mahiyanganaya-wildlife-waterfalls-culture": {
@@ -20267,6 +24184,48 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "kandy-sigiriya-sunrise-pidurangala-village-tour": {
+  "title": "康提：锡吉里耶日出、皮杜兰加拉及乡村游览",
+  "metaTitle": "康提：锡吉里耶日出、皮杜兰加拉及乡村游览",
+  "metaDescription": "一次全天的Kandy体验。日出时攀登锡吉里耶狮子岩，避开人群。由Kandy breeze提供。",
+  "shortDescription": "一次全天的Kandy体验。日出时攀登锡吉里耶狮子岩，避开人群。由Kandy breeze提供。",
+  "fullDescription": "一次全天的Kandy体验。日出时攀登锡吉里耶狮子岩，避开人群。\n\n由Kandy breeze负责安排，价格中含9项内容。可免费取消。\n\n价格包含专业英语司机兼导游、康提酒店接送、全天瓶装水、早晨锡兰红茶/咖啡保温壶。不包含皮杜兰加拉岩门票、个人消费和纪念品、旅游保险，请另行预算。",
+  "highlights": [
+   "日出时攀登锡吉里耶狮子岩，避开人群"
+  ],
+  "included": [
+   "专业英语司机兼导游",
+   "康提酒店接送",
+   "全天瓶装水",
+   "早晨锡兰红茶/咖啡保温壶"
+  ],
+  "notIncluded": [
+   "皮杜兰加拉岩门票",
+   "个人消费和纪念品",
+   "旅游保险"
+  ]
+ },
+ "colombo-sigiriya-lion-rock-hike-village-tour": {
+  "title": "科伦坡：锡吉里耶狮子岩徒步及乡村游览",
+  "metaTitle": "科伦坡：锡吉里耶狮子岩徒步及乡村游览",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Pidurangala。由Sri Lanka City Tours提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Pidurangala。由Sri Lanka City Tours提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Pidurangala。最长的一站是Pidurangala，约2小时。\n\n价格包含从科伦坡接客、空调车辆、当地导游、导游带领的皮杜兰加拉岩徒步。不包含午餐、个人消费、参观地点门票，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Pidurangala。由Sri Lanka City Tours提供。"
+  ],
+  "included": [
+   "从科伦坡接客",
+   "空调车辆",
+   "当地导游",
+   "导游带领的皮杜兰加拉岩徒步"
+  ],
+  "notIncluded": [
+   "午餐",
+   "个人消费",
+   "参观地点门票"
+  ]
+ },
  "sri-lanka-kandy-day-tour-with-airport-transfer": {
   "title": "斯里兰卡：康提一日游及机场接送",
   "metaTitle": "斯里兰卡：康提一日游及机场接送",
@@ -20285,6 +24244,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票及活动费用",
    "餐食",
    "个人消费"
+  ]
+ },
+ "colombo-shipwreck-diving-experience-within-the": {
+  "title": "科伦坡：市内沉船潜水体验",
+  "metaTitle": "科伦坡：市内沉船潜水体验",
+  "metaDescription": "一次半天的Colombo体验。岛屿潜水是科伦坡唯一获PADI认证的5星潜水中心。由Island Scuba Pvt Ltd提供。",
+  "shortDescription": "一次半天的Colombo体验。岛屿潜水是科伦坡唯一获PADI认证的5星潜水中心。由Island Scuba Pvt Ltd提供。",
+  "fullDescription": "一次半天的Colombo体验。岛屿潜水是科伦坡唯一获PADI认证的5星潜水中心。\n\n由Island Scuba Pvt Ltd负责安排，价格中含6项内容。可免费取消。\n\n价格包含潜水装备、专业教练、安全须知讲解、沉船潜水体验。不包含接送服务、住宿，请另行预算。",
+  "highlights": [
+   "岛屿潜水是科伦坡唯一获PADI认证的5星潜水中心"
+  ],
+  "included": [
+   "潜水装备",
+   "专业教练",
+   "安全须知讲解",
+   "沉船潜水体验"
+  ],
+  "notIncluded": [
+   "接送服务",
+   "住宿"
   ]
  },
  "galle-day-tour-with-unawatuna-beach-pickup": {
@@ -20346,6 +24325,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费（可选）"
   ]
  },
+ "sri-lanka-3-day-tour-from-colombo-to-sigiriya": {
+  "title": "斯里兰卡：3日游，从科伦坡到锡吉里耶、康提及埃拉",
+  "metaTitle": "斯里兰卡：3日游，从科伦坡到锡吉里耶、康提及埃拉",
+  "metaDescription": "一次3天的Colombo体验。日出时攀登标志性的锡吉里耶岩，欣赏令人惊叹的美景。由kandy Tour guide提供。",
+  "shortDescription": "一次3天的Colombo体验。日出时攀登标志性的锡吉里耶岩，欣赏令人惊叹的美景。由kandy Tour guide提供。",
+  "fullDescription": "一次3天的Colombo体验。日出时攀登标志性的锡吉里耶岩，欣赏令人惊叹的美景。\n\n由kandy Tour guide负责安排，价格中含3项内容。可免费取消。\n\n价格包含瓶装水、通行费、停车。不包含餐食、个人消费，请另行预算。两位旅客共同支付484美元，而不是每人各付484美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "日出时攀登标志性的锡吉里耶岩，欣赏令人惊叹的美景"
+  ],
+  "included": [
+   "瓶装水",
+   "通行费",
+   "停车"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
+  ]
+ },
  "colombo-to-nuwara-eliya-transfer-with-canyoning": {
   "title": "科伦坡至努沃勒埃利耶接送，含基图尔加拉峡谷速降",
   "metaTitle": "科伦坡至努沃勒埃利耶接送，含基图尔加拉峡谷速降",
@@ -20387,6 +24385,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮"
   ]
  },
+ "ella-la-homies-traditional-sri-lankan-cooking": {
+  "title": "埃拉：La Homies传统斯里兰卡烹饪课",
+  "metaTitle": "埃拉：La Homies传统斯里兰卡烹饪课",
+  "metaDescription": "一次2小时的Ella体验。与当地家庭一起学习烹饪传统斯里兰卡菜肴。由La homies提供。",
+  "shortDescription": "一次2小时的Ella体验。与当地家庭一起学习烹饪传统斯里兰卡菜肴。由La homies提供。",
+  "fullDescription": "一次2小时的Ella体验。与当地家庭一起学习烹饪传统斯里兰卡菜肴。\n\n由La homies负责安排，价格中含8项内容。可免费取消。\n\n价格包含斯里兰卡传统烹饪课、提供烹饪设备、熟食品尝、体验传承3代的烹饪大师技艺。",
+  "highlights": [
+   "与当地家庭一起学习烹饪传统斯里兰卡菜肴"
+  ],
+  "included": [
+   "斯里兰卡传统烹饪课",
+   "提供烹饪设备",
+   "熟食品尝",
+   "体验传承3代的烹饪大师技艺"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "kandy-tuk-tuk-tour-with-drone-photos-and-videos": {
   "title": "康提：嘟嘟车之旅，含无人机照片及视频",
   "metaTitle": "康提：嘟嘟车之旅，含无人机照片及视频",
@@ -20404,6 +24421,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "餐饮"
+  ]
+ },
+ "kandy-traditional-cooking-class-with-eco-village": {
+  "title": "康提：传统烹饪课，含生态乡村游览",
+  "metaTitle": "康提：传统烹饪课，含生态乡村游览",
+  "metaDescription": "一次3小时的Kandy体验。由当地村庄主人提供的专业烹饪指导。由Kandy Explore Tours提供。",
+  "shortDescription": "一次3小时的Kandy体验。由当地村庄主人提供的专业烹饪指导。由Kandy Explore Tours提供。",
+  "fullDescription": "一次3小时的Kandy体验。由当地村庄主人提供的专业烹饪指导。\n\n由Kandy Explore Tours负责安排，价格中含12项内容。可免费取消。\n\n价格包含酒店接送、此项目可在上午9点至晚上9点之间的任意时间预订、柴火厨房体验、导游烹饪指导：当地村庄厨师/主人逐步讲授。不包含个人消费，请另行预算。两位旅客共同支付86美元，而不是每人各付86美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "由当地村庄主人提供的专业烹饪指导"
+  ],
+  "included": [
+   "酒店接送",
+   "此项目可在上午9点至晚上9点之间的任意时间预订",
+   "柴火厨房体验",
+   "导游烹饪指导：当地村庄厨师/主人逐步讲授"
+  ],
+  "notIncluded": [
+   "个人消费"
   ]
  },
  "kandy-to-sigiriya-day-trip-heritage-nature-and": {
@@ -20425,6 +24461,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费",
    "小费",
    "住宿"
+  ]
+ },
+ "mirissa-tangalle-tuk-tuk-tour-with-blue-beach": {
+  "title": "米瑞沙及坦加拉：嘟嘟车游览，含蓝色海滩岛",
+  "metaTitle": "米瑞沙及坦加拉：嘟嘟车游览，含蓝色海滩岛",
+  "metaDescription": "一次半天的Galle体验。探索南部海岸，感受乘嘟嘟车的刺激。由Believe it tours提供。",
+  "shortDescription": "一次半天的Galle体验。探索南部海岸，感受乘嘟嘟车的刺激。由Believe it tours提供。",
+  "fullDescription": "一次半天的Galle体验。探索南部海岸，感受乘嘟嘟车的刺激。\n\n由Believe it tours负责安排，价格中含6项内容。可免费取消。\n\n价格包含嘟嘟车市区游览、当地导游、参观蓝色海滩岛、参观坦加拉海滩及椰树山。不包含餐食、饮品，请另行预算。",
+  "highlights": [
+   "探索南部海岸，感受乘嘟嘟车的刺激"
+  ],
+  "included": [
+   "嘟嘟车市区游览",
+   "当地导游",
+   "参观蓝色海滩岛",
+   "参观坦加拉海滩及椰树山"
+  ],
+  "notIncluded": [
+   "餐食",
+   "饮品"
   ]
  },
  "srilanka-bentota-day-tour-with-airport-transfer": {
@@ -20506,6 +24562,46 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮"
   ]
  },
+ "galle-private-transfer-to-colombo-or-airport": {
+  "title": "加勒：私人接送至科伦坡或机场，含观光",
+  "metaTitle": "加勒：私人接送至科伦坡或机场，含观光",
+  "metaDescription": "一次2小时的Colombo体验。从加勒到科伦坡市或科伦坡机场的私人接送。由Travelers Arc Sri Lanka提供。",
+  "shortDescription": "一次2小时的Colombo体验。从加勒到科伦坡市或科伦坡机场的私人接送。由Travelers Arc Sri Lanka提供。",
+  "fullDescription": "一次2小时的Colombo体验。从加勒到科伦坡市或科伦坡机场的私人接送。\n\n由Travelers Arc Sri Lanka负责安排，价格中含8项内容。可免费取消。\n\n价格包含私人空调车辆、专业司机、从您在加勒的住宿地点接客、送达科伦坡市区或科伦坡国际机场、科伦坡观光停靠点（如已选择）。不包含景点门票、餐饮、个人消费，请另行预算。两位旅客共同支付119美元，而不是每人各付119美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "从加勒到科伦坡市或科伦坡机场的私人接送"
+  ],
+  "included": [
+   "私人空调车辆",
+   "专业司机",
+   "从您在加勒的住宿地点接客",
+   "送达科伦坡市区或科伦坡国际机场",
+   "科伦坡观光停靠点（如已选择）"
+  ],
+  "notIncluded": [
+   "景点门票",
+   "餐饮",
+   "个人消费"
+  ]
+ },
+ "nuwara-eliya-cloud-forest-hike-with-cliff-views": {
+  "title": "努沃勒埃利耶：云雾森林徒步，含悬崖景观",
+  "metaTitle": "努沃勒埃利耶：云雾森林徒步，含悬崖景观",
+  "metaDescription": "一次从Nuwara Eliya出发的半天行程，游览Horton Plains National Park。由Liyanage Tours提供。",
+  "shortDescription": "一次从Nuwara Eliya出发的半天行程，游览Horton Plains National Park。由Liyanage Tours提供。",
+  "fullDescription": "一次从Nuwara Eliya出发的半天行程，途经Horton Plains National Park。\n\n由Liyanage Tours负责安排，价格中含8项内容。可免费取消。漫步神奇的云雾森林，探索独特的动植物。\n\n价格包含全包套餐、舒适私家车及专业司机（轿车）、从努沃勒埃利耶/班达拉韦拉出发的往返酒店交通。",
+  "highlights": [
+   "一次从Nuwara Eliya出发的半天行程，游览Horton Plains National Park。由Liyanage Tours提供。"
+  ],
+  "included": [
+   "全包套餐",
+   "舒适私家车及专业司机（轿车）",
+   "从努沃勒埃利耶/班达拉韦拉出发的往返酒店交通"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "srilanka-colombo-day-tour-with-airport-transfer": {
   "title": "斯里兰卡：科伦坡一日游及机场接送",
   "metaTitle": "斯里兰卡：科伦坡一日游及机场接送",
@@ -20524,6 +24620,68 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票及活动费用",
    "餐食",
    "个人消费"
+  ]
+ },
+ "colombo-negombo-boat-tour": {
+  "title": "科伦坡/尼甘布出发：加勒、马杜河及海龟孵化场",
+  "metaTitle": "科伦坡/尼甘布出发：加勒、马杜河及海龟孵化场",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Bentota, Sea Turtle Hatchery Center, Madu Ganga和Galle Fort。由Sri Lanka car and private driver hire提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Bentota, Sea Turtle Hatchery Center, Madu Ganga和Galle Fort。由Sri Lanka car and private driver hire提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Bentota, Sea Turtle Hatchery Center, Madu Ganga和Galle Fort。最长的一站是Madu Ganga，约2小时。全程共4站。\n\n行程顺序为Bentota (1h), 然后 Sea Turtle Hatchery Center (1h), 然后 Madu Ganga (2h), 然后 Galle Fort (1h)。\n\n价格包含从科伦坡到加勒的私人一日游、酒店接送、空调私家车、经验丰富的英语司机兼导游。不包含餐饮、景点门票费用，请另行预算。两位旅客共同支付186美元，而不是每人各付186美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Bentota, Sea Turtle Hatchery Center, Madu Ganga和Galle Fort。由Sri Lanka car and private driver hire提供。"
+  ],
+  "included": [
+   "从科伦坡到加勒的私人一日游",
+   "酒店接送",
+   "空调私家车",
+   "经验丰富的英语司机兼导游"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "景点门票费用"
+  ]
+ },
+ "mirissa-whale-watching-day-trip-from-colombo-and": {
+  "title": "米瑞沙：观鲸一日游，从科伦坡及阿胡加拉出发",
+  "metaTitle": "米瑞沙：观鲸一日游，从科伦坡及阿胡加拉出发",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Mirissa, Galle Fort, Hikkaduwa Beach和Kosgoda Sea Turtle Conservation。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Mirissa, Galle Fort, Hikkaduwa Beach和Kosgoda Sea Turtle Conservation。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Mirissa, Galle Fort, Hikkaduwa Beach和Kosgoda Sea Turtle Conservation。最长的一站是Mirissa，约3小时。全程共4站。\n\n行程顺序为Mirissa (3h), 然后 Galle Fort (1h), 然后 Hikkaduwa Beach (1h), 然后 Kosgoda Sea Turtle Conservation (1h)。\n\n价格包含酒店接送、乘空调轿车交通、英语向导服务、全部门票。不包含早餐及午餐、小费、额外活动费用，请另行预算。两位旅客共同支付406美元，而不是每人各付322美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Mirissa, Galle Fort, Hikkaduwa Beach和Kosgoda Sea Turtle Conservation。由Nelum Holidays and Tours (Pvt) Ltd提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "乘空调轿车交通",
+   "英语向导服务",
+   "全部门票"
+  ],
+  "notIncluded": [
+   "早餐及午餐",
+   "小费",
+   "额外活动费用"
+  ]
+ },
+ "sigiriya-dambulla-day-tour-from-bentota-beruwala": {
+  "title": "锡吉里耶及丹布勒一日游，从本托塔、贝鲁瓦拉、阿胡加拉出发",
+  "metaTitle": "锡吉里耶及丹布勒一日游，从本托塔、贝鲁瓦拉、阿胡加拉出发",
+  "metaDescription": "一次全天的Sigiriya体验。提供专业讲解及见解，让古老历史及文化生动呈现。由Ceylon Luxury Travels提供。",
+  "shortDescription": "一次全天的Sigiriya体验。提供专业讲解及见解，让古老历史及文化生动呈现。由Ceylon Luxury Travels提供。",
+  "fullDescription": "一次全天的Sigiriya体验。提供专业讲解及见解，让古老历史及文化生动呈现。\n\n由Ceylon Luxury Travels负责安排，价格中含7项内容。可免费取消。\n\n价格包含酒店接送、锡吉里耶狮子岩及丹布勒石窟寺门票费用、锡吉里耶狮子岩及丹布勒寺导游协助、乘私人空调车辆交通。不包含小费、饮品、早餐，请另行预算。",
+  "highlights": [
+   "提供专业讲解及见解，让古老历史及文化生动呈现"
+  ],
+  "included": [
+   "酒店接送",
+   "锡吉里耶狮子岩及丹布勒石窟寺门票费用",
+   "锡吉里耶狮子岩及丹布勒寺导游协助",
+   "乘私人空调车辆交通"
+  ],
+  "notIncluded": [
+   "小费",
+   "饮品",
+   "早餐"
   ]
  },
  "kandy-hidden-corners-tuk-tuk-discovery-tour": {
@@ -20608,6 +24766,24 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "sigiriya-to-kandy-sightseeing-transfer": {
+  "title": "锡吉里耶至康提观光接送",
+  "metaTitle": "锡吉里耶至康提观光接送",
+  "metaDescription": "一次半天的Kandy体验。探索古老的丹布勒石窟寺及其金色佛像。由Sri Lankan Adventures提供。",
+  "shortDescription": "一次半天的Kandy体验。探索古老的丹布勒石窟寺及其金色佛像。由Sri Lankan Adventures提供。",
+  "fullDescription": "一次半天的Kandy体验。探索古老的丹布勒石窟寺及其金色佛像。\n\n由Sri Lankan Adventures负责安排，价格中含3项内容。可免费取消。\n\n价格包含从锡吉里耶接客、参观丹布勒石窟寺、参观香料及草药园。不包含丹布勒石窟寺门票，请另行预算。两位旅客共同支付129美元，而不是每人各付107美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "探索古老的丹布勒石窟寺及其金色佛像"
+  ],
+  "included": [
+   "从锡吉里耶接客",
+   "参观丹布勒石窟寺",
+   "参观香料及草药园"
+  ],
+  "notIncluded": [
+   "丹布勒石窟寺门票"
+  ]
+ },
  "hiriketiya-galle-fort-tour-with-colombo-or": {
   "title": "希里凯提亚：加勒古堡游览，含科伦坡或机场接送",
   "metaTitle": "希里凯提亚：加勒古堡游览，含科伦坡或机场接送",
@@ -20670,6 +24846,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮"
   ]
  },
+ "kandy-gombaniya-two-day-cloud-forest-summit-trek": {
+  "title": "康提：贡巴尼亚两日云雾森林登顶徒步",
+  "metaTitle": "康提：贡巴尼亚两日云雾森林登顶徒步",
+  "metaDescription": "一次2天的Kandy体验。感受登顶纳克尔斯山脉最高峰的刺激。由AMAK TRAVELS (PVT) LTD提供。",
+  "shortDescription": "一次2天的Kandy体验。感受登顶纳克尔斯山脉最高峰的刺激。由AMAK TRAVELS (PVT) LTD提供。",
+  "fullDescription": "一次2天的Kandy体验。感受登顶纳克尔斯山脉最高峰的刺激。\n\n由AMAK TRAVELS (PVT) LTD负责安排，价格中含4项内容。可免费取消。\n\n价格包含英语当地导游、合法徒步许可、露营装备、从康提出发的交通。不包含午餐，请另行预算。",
+  "highlights": [
+   "感受登顶纳克尔斯山脉最高峰的刺激"
+  ],
+  "included": [
+   "英语当地导游",
+   "合法徒步许可",
+   "露营装备",
+   "从康提出发的交通"
+  ],
+  "notIncluded": [
+   "午餐"
+  ]
+ },
  "kandy-five-peaks-cloud-forest-adventure": {
   "title": "康提：五峰云雾森林探险",
   "metaTitle": "康提：五峰云雾森林探险",
@@ -20727,6 +24922,45 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "galle-galle-fort-walking-tour-with-expert-female": {
+  "title": "加勒：加勒古堡徒步游览，配专业女导游",
+  "metaTitle": "加勒：加勒古堡徒步游览，配专业女导游",
+  "metaDescription": "一次从Galle出发的1小时行程，游览Galle。由Serendib Tours提供。",
+  "shortDescription": "一次从Galle出发的1小时行程，游览Galle。由Serendib Tours提供。",
+  "fullDescription": "一次从Galle出发的1小时行程，途经Galle。\n\n价格包含专业当地导游、加勒古堡徒步游览、历史及文化知识讲解。不包含门票费用（若参观博物馆）、餐饮、酒店接送（可选附加项目），请另行预算。",
+  "highlights": [
+   "一次从Galle出发的1小时行程，游览Galle。由Serendib Tours提供。"
+  ],
+  "included": [
+   "专业当地导游",
+   "加勒古堡徒步游览",
+   "历史及文化知识讲解"
+  ],
+  "notIncluded": [
+   "门票费用（若参观博物馆）",
+   "餐饮",
+   "酒店接送（可选附加项目）"
+  ]
+ },
+ "ella-day-tour-best-highlights-of-ella": {
+  "title": "埃拉一日游：埃拉精华景点",
+  "metaTitle": "埃拉一日游：埃拉精华景点",
+  "metaDescription": "一次全天的Ella体验。瀑布、徒步、瀑布游泳、寺庙。由Funky coco Ella (PVT) LTD提供。",
+  "shortDescription": "一次全天的Ella体验。瀑布、徒步、瀑布游泳、寺庙。由Funky coco Ella (PVT) LTD提供。",
+  "fullDescription": "一次全天的Ella体验。瀑布、徒步、瀑布游泳、寺庙。\n\n由Funky coco Ella (PVT) LTD负责安排，价格中含3项内容。可免费取消。\n\n价格包含参观拉瓦纳瀑布及隐秘瀑布、参观小亚当峰及茶厂、9拱桥。不包含餐食、个人消费，请另行预算。",
+  "highlights": [
+   "瀑布、徒步、瀑布游泳、寺庙"
+  ],
+  "included": [
+   "参观拉瓦纳瀑布及隐秘瀑布",
+   "参观小亚当峰及茶厂",
+   "9拱桥"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
+  ]
+ },
  "from-kandy-knuckles-mountain-range-exploration": {
   "title": "康提出发：纳克勒斯山脉探索一日游",
   "metaTitle": "康提出发：纳克勒斯山脉探索一日游",
@@ -20748,6 +24982,28 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费（可选）"
   ]
  },
+ "from-kandy-private-city-tour-with-tooth-temple": {
+  "title": "康提出发：私人市区游览，含佛牙寺及安布鲁瓦瓦",
+  "metaTitle": "康提出发：私人市区游览，含佛牙寺及安布鲁瓦瓦",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Asgiri Maha Vihara Pirivena, Ambuluwawa Tower, Kandy Lake Club和Temple of the Sacred Tooth Relic。由Sakura Ceylon Travel提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Asgiri Maha Vihara Pirivena, Ambuluwawa Tower, Kandy Lake Club和Temple of the Sacred Tooth Relic。由Sakura Ceylon Travel提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Asgiri Maha Vihara Pirivena, Ambuluwawa Tower, Kandy Lake Club和Temple of the Sacred Tooth Relic。最长的一站是Asgiri Maha Vihara Pirivena，约1小时。全程共4站。\n\n行程顺序为Asgiri Maha Vihara Pirivena (1h), 然后 Ambuluwawa Tower, 然后 Kandy Lake Club (1h), 然后 Temple of the Sacred Tooth Relic。\n\n价格包含配英语持证司机兼导游的私人游览、康提市区范围内的酒店接送、乘空调轿车、面包车或嘟嘟车交通（视团体规模而定）、行程中的瓶装水、停车及燃油费用、参观阿斯吉里亚佛塔。不包含餐饮、个人消费，请另行预算。两位旅客共同支付62美元，而不是每人各付45美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Asgiri Maha Vihara Pirivena, Ambuluwawa Tower, Kandy Lake Club和Temple of the Sacred Tooth Relic。由Sakura Ceylon Travel提供。"
+  ],
+  "included": [
+   "配英语持证司机兼导游的私人游览",
+   "康提市区范围内的酒店接送",
+   "乘空调轿车、面包车或嘟嘟车交通（视团体规模而定）",
+   "行程中的瓶装水",
+   "停车及燃油费用",
+   "参观阿斯吉里亚佛塔"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "个人消费"
+  ]
+ },
  "from-kandy-ambuluwawa-kitulgala-adventure-day-tour": {
   "title": "康提出发：安布鲁瓦瓦塔及基图尔加拉探险一日游",
   "metaTitle": "康提出发：安布鲁瓦瓦塔及基图尔加拉探险一日游",
@@ -20767,6 +25023,45 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食和个人消费",
    "小费（可选）",
    "包含项目中未提及的其他内容"
+  ]
+ },
+ "from-sigiriya-wasgamuwa-national-park-safari": {
+  "title": "锡吉里耶出发：瓦斯甘穆瓦国家公园探险之旅",
+  "metaTitle": "锡吉里耶出发：瓦斯甘穆瓦国家公园探险之旅",
+  "metaDescription": "一次全天的Sigiriya体验。感受瓦斯甘穆瓦国家公园吉普车野生动物园之旅的刺激。由Travel with Sameera提供。",
+  "shortDescription": "一次全天的Sigiriya体验。感受瓦斯甘穆瓦国家公园吉普车野生动物园之旅的刺激。由Travel with Sameera提供。",
+  "fullDescription": "一次全天的Sigiriya体验。感受瓦斯甘穆瓦国家公园吉普车野生动物园之旅的刺激。\n\n由Travel with Sameera负责安排，价格中含4项内容。可免费取消。\n\n价格包含从锡吉里耶出发的私人往返接送、野生动物园吉普车及公园门票（须单独预订）、经验丰富的司机及公园向导、瓶装水。不包含餐食和小吃、小费和个人消费，请另行预算。两位旅客共同支付221美元，而不是每人各付221美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "感受瓦斯甘穆瓦国家公园吉普车野生动物园之旅的刺激"
+  ],
+  "included": [
+   "从锡吉里耶出发的私人往返接送",
+   "野生动物园吉普车及公园门票（须单独预订）",
+   "经验丰富的司机及公园向导",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "餐食和小吃",
+   "小费和个人消费"
+  ]
+ },
+ "mirissahikkaduwagalle-kanneliya-rainforest-day": {
+  "title": "米瑞沙/希卡杜瓦/加勒：坎内利亚雨林一日游",
+  "metaTitle": "米瑞沙/希卡杜瓦/加勒：坎内利亚雨林一日游",
+  "metaDescription": "一次从Galle出发的半天行程，游览Kanneliya Rain Forest。由Sinharaja Guide提供。",
+  "shortDescription": "一次从Galle出发的半天行程，游览Kanneliya Rain Forest。由Sinharaja Guide提供。",
+  "fullDescription": "一次从Galle出发的半天行程，途经Kanneliya Rain Forest。最长的一站是Kanneliya Rain Forest，约3小时。\n\n价格包含坎内利亚森林保护区门票、酒店接送、英语专业导游、午餐。两位旅客共同支付351美元，而不是每人各付277美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Galle出发的半天行程，游览Kanneliya Rain Forest。由Sinharaja Guide提供。"
+  ],
+  "included": [
+   "坎内利亚森林保护区门票",
+   "酒店接送",
+   "英语专业导游",
+   "午餐"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "sigiriya-rock-minneriya-private-tour": {
@@ -20808,6 +25103,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮"
   ]
  },
+ "sri-lanka-5-days-private-guided-tour-with-hotels": {
+  "title": "斯里兰卡：5天私人导游游览，含酒店及交通",
+  "metaTitle": "斯里兰卡：5天私人导游游览，含酒店及交通",
+  "metaDescription": "一次5天的Colombo体验。在仅5天的私人游览中探索斯里兰卡精华。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "shortDescription": "一次5天的Colombo体验。在仅5天的私人游览中探索斯里兰卡精华。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "fullDescription": "一次5天的Colombo体验。在仅5天的私人游览中探索斯里兰卡精华。\n\n由Nelum Holidays and Tours (Pvt) Ltd负责安排，价格中含12项内容。可免费取消。\n\n价格包含机场接送（全天任意时间）、按行程地点安排的5天私人交通、全新空调轿车/面包车、5天英语司机服务。不包含个人消费、司机小费、餐食，请另行预算。两位旅客共同支付1150美元，而不是每人各付1099美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在仅5天的私人游览中探索斯里兰卡精华"
+  ],
+  "included": [
+   "机场接送（全天任意时间）",
+   "按行程地点安排的5天私人交通",
+   "全新空调轿车/面包车",
+   "5天英语司机服务"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "司机小费",
+   "餐食"
+  ]
+ },
  "sri-lanka-6-days-private-tour-with-3-star": {
   "title": "斯里兰卡6日私人游览，含3星酒店（半食宿）及轿车",
   "metaTitle": "斯里兰卡6日私人游览，含3星酒店（半食宿）及轿车",
@@ -20827,6 +25143,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "午餐",
    "个人消费",
    "司机/向导小费"
+  ]
+ },
+ "sri-lanka-15-day-guided-tour-with-transfers-hotels": {
+  "title": "斯里兰卡：15天导游游览，含接送及酒店",
+  "metaTitle": "斯里兰卡：15天导游游览，含接送及酒店",
+  "metaDescription": "一次15天的Kandy体验。感受雅拉国家公园吉普车野生动物园之旅的刺激，这里是豹的家园。由Kips Holidays提供。",
+  "shortDescription": "一次15天的Kandy体验。感受雅拉国家公园吉普车野生动物园之旅的刺激，这里是豹的家园。由Kips Holidays提供。",
+  "fullDescription": "一次15天的Kandy体验。感受雅拉国家公园吉普车野生动物园之旅的刺激，这里是豹的家园。\n\n由Kips Holidays负责安排，价格中含12项内容。可免费取消。\n\n价格包含机场接送、英语司机、每日瓶装水、全险轿车。不包含国际航班、旅游保险、个人消费，请另行预算。两位旅客共同支付2663美元，而不是每人各付2663美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "感受雅拉国家公园吉普车野生动物园之旅的刺激，这里是豹的家园"
+  ],
+  "included": [
+   "机场接送",
+   "英语司机",
+   "每日瓶装水",
+   "全险轿车"
+  ],
+  "notIncluded": [
+   "国际航班",
+   "旅游保险",
+   "个人消费"
   ]
  },
  "colombo-jet-ski-and-snorkeling-adventure-with": {
@@ -20864,6 +25201,66 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "kandy-full-day-cultural-scenic-tour-with-local": {
+  "title": "康提：全天文化及风光游览，配当地导游",
+  "metaTitle": "康提：全天文化及风光游览，配当地导游",
+  "metaDescription": "一次从Kandy出发的半天行程，游览Polgolla Dam View Point and Wax Museum of Art和Culture。由Tuk Driver : Kandy City Tour提供。",
+  "shortDescription": "一次从Kandy出发的半天行程，游览Polgolla Dam View Point and Wax Museum of Art和Culture。由Tuk Driver : Kandy City Tour提供。",
+  "fullDescription": "一次从Kandy出发的半天行程，途经Polgolla Dam View Point and Wax Museum of Art和Culture。全程共2站。\n\n行程顺序为Polgolla Dam View Point, 然后 Wax Museum of Art and Culture。\n\n价格包含康提酒店接送、参观德加尔多鲁瓦寺、参观波尔戈拉水坝、参观康提蜡像博物馆。不包含餐食、个人消费、小费，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的半天行程，游览Polgolla Dam View Point and Wax Museum of Art和Culture。由Tuk Driver : Kandy City Tour提供。"
+  ],
+  "included": [
+   "康提酒店接送",
+   "参观德加尔多鲁瓦寺",
+   "参观波尔戈拉水坝",
+   "参观康提蜡像博物馆"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "小费"
+  ]
+ },
+ "negombo-private-city-lagoon-sunrise-or-sunset": {
+  "title": "尼甘布私人市区潟湖：日出或日落皮划艇之旅",
+  "metaTitle": "尼甘布私人市区潟湖：日出或日落皮划艇之旅",
+  "metaDescription": "一次3小时的Negombo体验。划桨穿过平静的水面，感受潟湖的宁静。由Dan Brothers Ceylon提供。",
+  "shortDescription": "一次3小时的Negombo体验。划桨穿过平静的水面，感受潟湖的宁静。由Dan Brothers Ceylon提供。",
+  "fullDescription": "一次3小时的Negombo体验。划桨穿过平静的水面，感受潟湖的宁静。\n\n由Dan Brothers Ceylon负责安排，价格中含6项内容。可免费取消。\n\n价格包含清爽的欢迎饮品、安全须知及全部安全装备、使用皮划艇及船桨、经验丰富的当地导游。不包含酒精饮料、瓶装水、个人消费，请另行预算。两位旅客共同支付186美元，而不是每人各付102美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "划桨穿过平静的水面，感受潟湖的宁静"
+  ],
+  "included": [
+   "清爽的欢迎饮品",
+   "安全须知及全部安全装备",
+   "使用皮划艇及船桨",
+   "经验丰富的当地导游"
+  ],
+  "notIncluded": [
+   "酒精饮料",
+   "瓶装水",
+   "个人消费"
+  ]
+ },
+ "bentota-surfing-lesson-with-instructor-and": {
+  "title": "本托塔：冲浪课程，含教练及装备",
+  "metaTitle": "本托塔：冲浪课程，含教练及装备",
+  "metaDescription": "一次半天的Bentota体验。通过冲浪课程，感受在本托塔乘风破浪的刺激。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "shortDescription": "一次半天的Bentota体验。通过冲浪课程，感受在本托塔乘风破浪的刺激。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "fullDescription": "一次半天的Bentota体验。通过冲浪课程，感受在本托塔乘风破浪的刺激。\n\n由Nelum Holidays and Tours (Pvt) Ltd负责安排，价格中含3项内容。可免费取消。\n\n价格包含冲浪课程、设备租赁、专业教练。不包含餐饮，请另行预算。两位旅客共同支付676美元，而不是每人各付423美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "通过冲浪课程，感受在本托塔乘风破浪的刺激"
+  ],
+  "included": [
+   "冲浪课程",
+   "设备租赁",
+   "专业教练"
+  ],
+  "notIncluded": [
+   "餐饮"
+  ]
+ },
  "ella-diyaluma-waterfalls-buduruwagala-temple-day": {
   "title": "埃拉：迪亚卢玛瀑布及布杜鲁瓦格拉寺一日游",
   "metaTitle": "埃拉：迪亚卢玛瀑布及布杜鲁瓦格拉寺一日游",
@@ -20884,6 +25281,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "from-colombo-go-karting-galle-fort-and-water": {
+  "title": "科伦坡出发：卡丁车、加勒古堡及水上运动游览",
+  "metaTitle": "科伦坡出发：卡丁车、加勒古堡及水上运动游览",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Pearl Bay, Galle Fort和Bentota。由Sri Lanka in Luxury提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Pearl Bay, Galle Fort和Bentota。由Sri Lanka in Luxury提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Pearl Bay, Galle Fort和Bentota。全程共3站。\n\n行程顺序为Pearl Bay, 然后 Galle Fort, 然后 Bentota。\n\n价格包含科伦坡酒店接送、乘空调轿车或面包车交通、英语旅游局持证司机兼导游、瓶装水。不包含午餐，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Pearl Bay, Galle Fort和Bentota。由Sri Lanka in Luxury提供。"
+  ],
+  "included": [
+   "科伦坡酒店接送",
+   "乘空调轿车或面包车交通",
+   "英语旅游局持证司机兼导游",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "午餐"
+  ]
+ },
  "srilanka-galle-day-tour-with-airport-transfer": {
   "title": "斯里兰卡：加勒一日游及机场接送",
   "metaTitle": "斯里兰卡：加勒一日游及机场接送",
@@ -20902,6 +25318,23 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票及活动费用",
    "餐食",
    "个人消费"
+  ]
+ },
+ "tangalle-to-ella-day-trip-with-scenic-train-ride": {
+  "title": "坦加拉至埃拉一日游，含风光火车之旅及瀑布",
+  "metaTitle": "坦加拉至埃拉一日游，含风光火车之旅及瀑布",
+  "metaDescription": "一次全天的Galle体验。享受40分钟风光火车之旅，穿越薄雾笼罩的山丘及茶园。由Tuk Tuk Safari Tangalle提供。",
+  "shortDescription": "一次全天的Galle体验。享受40分钟风光火车之旅，穿越薄雾笼罩的山丘及茶园。由Tuk Tuk Safari Tangalle提供。",
+  "fullDescription": "一次全天的Galle体验。享受40分钟风光火车之旅，穿越薄雾笼罩的山丘及茶园。\n\n由Tuk Tuk Safari Tangalle负责安排，价格中含2项内容。可免费取消。\n\n价格包含乘空调车辆从您的住宿地点接客，游览结束后送达、火车票已含。不包含食物不含，请另行预算。两位旅客共同支付445美元，而不是每人各付354美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "享受40分钟风光火车之旅，穿越薄雾笼罩的山丘及茶园"
+  ],
+  "included": [
+   "乘空调车辆从您的住宿地点接客，游览结束后送达",
+   "火车票已含"
+  ],
+  "notIncluded": [
+   "食物不含"
   ]
  },
  "sri-lanka-10-days-private-tour-with-driver": {
@@ -20961,6 +25394,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "negombo-by-scooty-ride-through-the-citys-best": {
+  "title": "尼甘布：骑小型摩托车游览城市精华地点",
+  "metaTitle": "尼甘布：骑小型摩托车游览城市精华地点",
+  "metaDescription": "一次从Negombo出发的半天行程，游览Sri Singama Kali Amman Kovil, St. Mary's Church, Fish Market, Negombo和Negombo Dutch Fort。由Travel with Lenin提供。",
+  "shortDescription": "一次从Negombo出发的半天行程，游览Sri Singama Kali Amman Kovil, St. Mary's Church, Fish Market, Negombo和Negombo Dutch Fort。由Travel with Lenin提供。",
+  "fullDescription": "一次从Negombo出发的半天行程，途经Sri Singama Kali Amman Kovil, St. Mary's Church, Fish Market, Negombo和Negombo Dutch Fort。最长的一站是Negombo Lagoon，约1小时。全程共7站。\n\n行程顺序为Sri Singama Kali Amman Kovil (15 min), 然后 St. Mary's Church (15 min), 然后 Fish Market, Negombo (30 min), 然后 Negombo Dutch Fort (10 min), 然后 Negombo Lagoon (1h)。\n\n价格包含瓶装水、雨伞/雨衣、头盔、午餐或晚餐（含餐食）。不包含观光门票：船程25美元（每船，非每人），请另行预算。",
+  "highlights": [
+   "一次从Negombo出发的半天行程，游览Sri Singama Kali Amman Kovil, St. Mary's Church, Fish Market, Negombo和Negombo Dutch Fort。由Travel with Lenin提供。"
+  ],
+  "included": [
+   "瓶装水",
+   "雨伞/雨衣",
+   "头盔",
+   "午餐或晚餐（含餐食）"
+  ],
+  "notIncluded": [
+   "观光门票：船程25美元（每船，非每人）"
+  ]
+ },
  "from-negombo-negombo-and-colombo-day-tour": {
   "title": "尼甘布出发：尼甘布及科伦坡一日游",
   "metaTitle": "尼甘布出发：尼甘布及科伦坡一日游",
@@ -21018,6 +25470,26 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "colombo-dambulla-cave-temple-and-sigiriya-day-trip": {
+  "title": "科伦坡：丹布勒石窟寺及锡吉里耶一日游",
+  "metaTitle": "科伦坡：丹布勒石窟寺及锡吉里耶一日游",
+  "metaDescription": "一次全天的Colombo体验。感受攀登锡吉里耶狮子岩的刺激，欣赏360度景观。由Earth Lanka Events Pvt Ltd提供。",
+  "shortDescription": "一次全天的Colombo体验。感受攀登锡吉里耶狮子岩的刺激，欣赏360度景观。由Earth Lanka Events Pvt Ltd提供。",
+  "fullDescription": "一次全天的Colombo体验。感受攀登锡吉里耶狮子岩的刺激，欣赏360度景观。\n\n由Earth Lanka Events Pvt Ltd负责安排，价格中含6项内容。可免费取消。\n\n价格包含从科伦坡出发的风光驾游、持证导游、乘舒适车辆交通、瓶装水。不包含小费、餐食，请另行预算。",
+  "highlights": [
+   "感受攀登锡吉里耶狮子岩的刺激，欣赏360度景观"
+  ],
+  "included": [
+   "从科伦坡出发的风光驾游",
+   "持证导游",
+   "乘舒适车辆交通",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "小费",
+   "餐食"
   ]
  },
  "ella-ultimate-experience-with-cooking-class-hike": {
@@ -21150,6 +25622,46 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "cmb-colombo-bandaranaike-international-airport": {
+  "title": "科伦坡（CMB）班达拉奈克国际机场贵宾室使用权",
+  "metaTitle": "科伦坡（CMB）班达拉奈克国际机场贵宾室使用权",
+  "metaDescription": "一次3小时的Colombo体验。享受班达拉奈克国际机场多个贵宾室的使用权限。由Dragonpass Group提供。",
+  "shortDescription": "一次3小时的Colombo体验。享受班达拉奈克国际机场多个贵宾室的使用权限。由Dragonpass Group提供。",
+  "fullDescription": "一次3小时的Colombo体验。享受班达拉奈克国际机场多个贵宾室的使用权限。\n\n由Dragonpass Group负责安排，价格中含11项内容。可免费取消。\n\n价格包含班达拉奈克国际机场贵宾室入场费、小吃、无酒精饮料、素食（视所选方案而定）。",
+  "highlights": [
+   "享受班达拉奈克国际机场多个贵宾室的使用权限"
+  ],
+  "included": [
+   "班达拉奈克国际机场贵宾室入场费",
+   "小吃",
+   "无酒精饮料",
+   "素食（视所选方案而定）"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "sri-lanka-10-day-tour-with-sigiriya-kandy-ella": {
+  "title": "斯里兰卡：10日游，含锡吉里耶、康提及埃拉",
+  "metaTitle": "斯里兰卡：10日游，含锡吉里耶、康提及埃拉",
+  "metaDescription": "一次10天的Kandy体验。感受雅拉国家公园吉普车野生动物园之旅的刺激，这里是豹的家园。由Titan Tours Sri Lanka提供。",
+  "shortDescription": "一次10天的Kandy体验。感受雅拉国家公园吉普车野生动物园之旅的刺激，这里是豹的家园。由Titan Tours Sri Lanka提供。",
+  "fullDescription": "一次10天的Kandy体验。感受雅拉国家公园吉普车野生动物园之旅的刺激，这里是豹的家园。\n\n由Titan Tours Sri Lanka负责安排，价格中含12项内容。可免费取消。\n\n价格包含私人英语司机/导游、机场接机及接送、锡吉里耶狮子岩、皮杜兰加拉。不包含可选活动、个人消费、旅游保险，请另行预算。",
+  "highlights": [
+   "感受雅拉国家公园吉普车野生动物园之旅的刺激，这里是豹的家园"
+  ],
+  "included": [
+   "私人英语司机/导游",
+   "机场接机及接送",
+   "锡吉里耶狮子岩",
+   "皮杜兰加拉"
+  ],
+  "notIncluded": [
+   "可选活动",
+   "个人消费",
+   "旅游保险"
+  ]
+ },
  "mirissa-all-inclusive-whale-watching-jet-ski-ride": {
   "title": "米瑞沙：全包观鲸及摩托艇体验",
   "metaTitle": "米瑞沙：全包观鲸及摩托艇体验",
@@ -21170,6 +25682,67 @@ export const ZH_TOURS: Record<string, TourT> = {
    "远距离接送服务（需额外付费）",
    "船上额外的餐饮",
    "违反任何法律或规定所产生的罚款"
+  ]
+ },
+ "hikkaduwagalleahangama-whale-watching-tour-in": {
+  "title": "希卡杜瓦/加勒/阿哈嘎马：米瑞沙观鲸之旅",
+  "metaTitle": "希卡杜瓦/加勒/阿哈嘎马：米瑞沙观鲸之旅",
+  "metaDescription": "一次半天的Galle体验。感受近距离观赏蓝鲸、抹香鲸及海豚的刺激。由Prestige Escapes LK提供。",
+  "shortDescription": "一次半天的Galle体验。感受近距离观赏蓝鲸、抹香鲸及海豚的刺激。由Prestige Escapes LK提供。",
+  "fullDescription": "一次半天的Galle体验。感受近距离观赏蓝鲸、抹香鲸及海豚的刺激。\n\n由Prestige Escapes LK负责安排，价格中含6项内容。可免费取消。\n\n价格包含希卡杜瓦、加勒或阿哈嘎马接送、观鲸之旅、经验丰富的船员、茶点、安全装备、专业讲解。不包含餐食，请另行预算。两位旅客共同支付277美元，而不是每人各付171美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "感受近距离观赏蓝鲸、抹香鲸及海豚的刺激"
+  ],
+  "included": [
+   "希卡杜瓦、加勒或阿哈嘎马接送",
+   "观鲸之旅",
+   "经验丰富的船员",
+   "茶点",
+   "安全装备",
+   "专业讲解"
+  ],
+  "notIncluded": [
+   "餐食"
+  ]
+ },
+ "trincomalee-minneriya-safari-sigiriyadambulla": {
+  "title": "亭可马里：明内里耶野生动物园之旅及锡吉里耶/丹布勒接送",
+  "metaTitle": "亭可马里：明内里耶野生动物园之旅及锡吉里耶/丹布勒接送",
+  "metaDescription": "一次半天的Sigiriya体验。在明内里耶国家公园感受私人吉普车野生动物园之旅的惊险。由Api machan tours提供。",
+  "shortDescription": "一次半天的Sigiriya体验。在明内里耶国家公园感受私人吉普车野生动物园之旅的惊险。由Api machan tours提供。",
+  "fullDescription": "一次半天的Sigiriya体验。在明内里耶国家公园感受私人吉普车野生动物园之旅的惊险。\n\n由Api machan tours负责安排，价格中含4项内容。可免费取消。\n\n价格包含私人吉普车野生动物园之旅、经验丰富的导游、从亭可马里到锡吉里耶的接送、参观明内里耶国家公园。不包含餐食、明内里耶国家公园门票费用、其他额外停靠点，请另行预算。两位旅客共同支付193美元，而不是每人各付193美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在明内里耶国家公园感受私人吉普车野生动物园之旅的惊险"
+  ],
+  "included": [
+   "私人吉普车野生动物园之旅",
+   "经验丰富的导游",
+   "从亭可马里到锡吉里耶的接送",
+   "参观明内里耶国家公园"
+  ],
+  "notIncluded": [
+   "餐食",
+   "明内里耶国家公园门票费用",
+   "其他额外停靠点"
+  ]
+ },
+ "port-city-colombo-sunset-cruise-with-snacks": {
+  "title": "科伦坡港口城：日落游船，含小吃",
+  "metaTitle": "科伦坡港口城：日落游船，含小吃",
+  "metaDescription": "一次3小时的Colombo体验。日落。由Sail Lanka Charter (PVT) Limited提供。",
+  "shortDescription": "一次3小时的Colombo体验。日落。由Sail Lanka Charter (PVT) Limited提供。",
+  "fullDescription": "一次3小时的Colombo体验。日落。\n\n由Sail Lanka Charter (PVT) Limited负责安排，价格中含4项内容。可免费取消。\n\n价格包含欢迎饮品、现做小吃、游泳、站立式桨板。",
+  "highlights": [
+   "日落"
+  ],
+  "included": [
+   "欢迎饮品",
+   "现做小吃",
+   "游泳",
+   "站立式桨板"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "whale-watching-on-a-yacht-in-mirissa": {
@@ -21306,6 +25879,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "导游服务"
+  ]
+ },
+ "galle-fort-walk-through-400-years-of-sparking": {
+  "title": "加勒古堡：穿越400年的精彩故事",
+  "metaTitle": "加勒古堡：穿越400年的精彩故事",
+  "metaDescription": "一次从Galle出发的2小时行程，游览Galle Fort和Finish at:。由Walks and Experiences提供。",
+  "shortDescription": "一次从Galle出发的2小时行程，游览Galle Fort和Finish at:。由Walks and Experiences提供。",
+  "fullDescription": "一次从Galle出发的2小时行程，途经Galle Fort和Finish at:。最长的一站是Galle Fort，约2小时。全程共2站。\n\n行程顺序为Galle Fort (2h), 然后 Finish at:。\n\n价格包含导游、徒步游览。不包含茶点、饮用水、纸巾，请另行预算。",
+  "highlights": [
+   "一次从Galle出发的2小时行程，游览Galle Fort和Finish at:。由Walks and Experiences提供。"
+  ],
+  "included": [
+   "导游",
+   "徒步游览"
+  ],
+  "notIncluded": [
+   "茶点",
+   "饮用水",
+   "纸巾"
   ]
  },
  "sri-lanka9-day-relaxation-tour-with-entry": {
@@ -21606,6 +26198,28 @@ export const ZH_TOURS: Record<string, TourT> = {
    "雅拉国家公园门票（每人约35美元）"
   ]
  },
+ "ella-udawalawe-yala-national-parks-2-day-tour": {
+  "title": "埃拉：乌达瓦拉维、雅拉国家公园2日游及接送",
+  "metaTitle": "埃拉：乌达瓦拉维、雅拉国家公园2日游及接送",
+  "metaDescription": "一次从Ella出发的2天行程，游览08:00 AM: Depart from Ella & Discover Ravana Falls, 10:30 AM: Udawalawe National Park Half-Day Jeep Safari, 02:30 PM: Scenic Journey to Yala和05:3...",
+  "shortDescription": "一次从Ella出发的2天行程，游览08:00 AM: Depart from Ella & Discover Ravana Falls, 10:30 AM: Udawalawe National Park Half-Day Jeep Safari, 02:30 PM: Scenic Journey to Yala和05:30 AM: Yala National Park Wildlife Jeep Safari。由Sign of Lanka (Pvt) Ltd提供。",
+  "fullDescription": "一次从Ella出发的2天行程，途经08:00 AM: Depart from Ella & Discover Ravana Falls, 10:30 AM: Udawalawe National Park Half-Day Jeep Safari, 02:30 PM: Scenic Journey to Yala和05:30 AM: Yala National Park Wildlife Jeep Safari。全程共8站。\n\n行程顺序为08:00 AM: Depart from Ella & Discover Ravana Falls, 然后 10:30 AM: Udawalawe National Park Half-Day Jeep Safari, 然后 02:30 PM: Scenic Journey to Yala, 然后 05:30 AM: Yala National Park Wildlife Jeep Safari, 然后 10:30 AM: Depart Yala for Sri Lanka’s Southern Coast。\n\n价格包含一晚三星或四星级酒店住宿（含早餐）、豪华空调私人车辆往返酒店接送、套餐已包含燃油附加费和司机费用，确保旅程轻松舒适、无需额外操心、乌达瓦拉维国家公园野生动物园之旅（仅含吉普车费用）、雅拉国家公园野生动物园之旅（仅含吉普车费用）。不包含乌达瓦拉维国家公园门票费用（约每人35美元）、雅拉国家公园门票（每人约35美元）、未在“价格包含”部分列出的其他费用，请另行预算。两位旅客共同支付1150美元，而不是每人各付1082美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Ella出发的2天行程，游览08:00 AM: Depart from Ella & Discover Ravana Falls, 10:30 AM: Udawalawe National Park Half-Day Jeep Safari, 02:30 PM: Scenic Journey to Yala和05:30 AM: Yala National Park Wildlife Jeep Safari。由Sign of Lanka (Pvt) Ltd提供。"
+  ],
+  "included": [
+   "一晚三星或四星级酒店住宿（含早餐）",
+   "豪华空调私人车辆往返酒店接送",
+   "套餐已包含燃油附加费和司机费用，确保旅程轻松舒适、无需额外操心",
+   "乌达瓦拉维国家公园野生动物园之旅（仅含吉普车费用）",
+   "雅拉国家公园野生动物园之旅（仅含吉普车费用）"
+  ],
+  "notIncluded": [
+   "乌达瓦拉维国家公园门票费用（约每人35美元）",
+   "雅拉国家公园门票（每人约35美元）",
+   "未在“价格包含”部分列出的其他费用"
+  ]
+ },
  "from-ella-2-day-yala-park-safari-transfer-to": {
   "title": "埃拉出发：雅拉公园2日野生动物园及海滩接送",
   "metaTitle": "埃拉出发：雅拉公园2日野生动物园及海滩接送",
@@ -21735,6 +26349,70 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票"
   ]
  },
+ "yalamirissa-all-inclusive-full-day-safari-at-yala": {
+  "title": "雅拉/米瑞沙：全包全天雅拉公园野生动物园之旅",
+  "metaTitle": "雅拉/米瑞沙：全包全天雅拉公园野生动物园之旅",
+  "metaDescription": "一次从Mirissa出发的全天行程，游览Yala National Park。由Sign of Lanka (Pvt) Ltd提供。",
+  "shortDescription": "一次从Mirissa出发的全天行程，游览Yala National Park。由Sign of Lanka (Pvt) Ltd提供。",
+  "fullDescription": "一次从Mirissa出发的全天行程，途经Yala National Park。\n\n价格包含野生动物园之旅的接送将根据距离安排野生动物园吉普车或舒适车辆、雅拉国家公园门票费用已包含在游览套餐中、提供定制野生动物园吉普车，带来更好的观赏体验、打包午餐、套餐已包含燃油附加费和司机费用，旅程轻松便捷。不包含个人消费、小费，请另行预算。两位旅客共同支付609美元，而不是每人各付449美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Mirissa出发的全天行程，游览Yala National Park。由Sign of Lanka (Pvt) Ltd提供。"
+  ],
+  "included": [
+   "野生动物园之旅的接送将根据距离安排野生动物园吉普车或舒适车辆",
+   "雅拉国家公园门票费用已包含在游览套餐中",
+   "提供定制野生动物园吉普车，带来更好的观赏体验",
+   "打包午餐",
+   "套餐已包含燃油附加费和司机费用，旅程轻松便捷"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费"
+  ]
+ },
+ "mirissa-whale-watching-cruise": {
+  "title": "米瑞沙：观鲸游船之旅",
+  "metaTitle": "米瑞沙：观鲸游船之旅",
+  "metaDescription": "一次半天的Mirissa体验。惊叹于近海众多种类的鲸鱼及其他海洋生物。由Lakpura®提供。",
+  "shortDescription": "一次半天的Mirissa体验。惊叹于近海众多种类的鲸鱼及其他海洋生物。由Lakpura®提供。",
+  "fullDescription": "一次半天的Mirissa体验。惊叹于近海众多种类的鲸鱼及其他海洋生物。\n\n由Lakpura®负责安排，价格中含6项内容。可免费取消。\n\n价格包含酒店接送、英语司机、观鲸游船，救生衣、饮用水、观鲸期间的私人教练。不包含观鲸门票费用、餐食、浮潜，请另行预算。两位旅客共同支付237美元，而不是每人各付128美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "惊叹于近海众多种类的鲸鱼及其他海洋生物"
+  ],
+  "included": [
+   "酒店接送",
+   "英语司机",
+   "观鲸游船，救生衣",
+   "饮用水",
+   "观鲸期间的私人教练"
+  ],
+  "notIncluded": [
+   "观鲸门票费用",
+   "餐食",
+   "浮潜"
+  ]
+ },
+ "tuk-tuk-tales-of-colombo-from-cruies": {
+  "title": "科伦坡嘟嘟车故事，游轮出发",
+  "metaTitle": "科伦坡嘟嘟车故事，游轮出发",
+  "metaDescription": "一次从Colombo出发的3小时行程，游览Galle Face Green。由Leisure Sri Lanka提供。",
+  "shortDescription": "一次从Colombo出发的3小时行程，游览Galle Face Green。由Leisure Sri Lanka提供。",
+  "fullDescription": "一次从Colombo出发的3小时行程，途经Galle Face Green。\n\n价格包含乘嘟嘟车往返游船码头或酒店接送、嘟嘟车游览、瓶装水、经验丰富的英语司机。不包含门票、额外的餐饮、小费，请另行预算。两位旅客共同支付65美元，而不是每人各付43美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的3小时行程，游览Galle Face Green。由Leisure Sri Lanka提供。"
+  ],
+  "included": [
+   "乘嘟嘟车往返游船码头或酒店接送",
+   "嘟嘟车游览",
+   "瓶装水",
+   "经验丰富的英语司机"
+  ],
+  "notIncluded": [
+   "门票",
+   "额外的餐饮",
+   "小费"
+  ]
+ },
  "colombo-negombo-sigiriya-dambulla-cave-full-day": {
   "title": "科伦坡-尼甘布：锡吉里耶及丹布勒石窟寺全天游览",
   "metaTitle": "科伦坡-尼甘布：锡吉里耶及丹布勒石窟寺全天游览",
@@ -21797,6 +26475,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "colombo-city-tour-with-entry-tickets-hotel-pickup": {
+  "title": "科伦坡市区游览，含门票及酒店接客",
+  "metaTitle": "科伦坡市区游览，含门票及酒店接客",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Gangaramaya Temple, National Museum of Colombo和Independence Square, Colombo。由Ceylon Traveline (PVT) LTD提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Gangaramaya Temple, National Museum of Colombo和Independence Square, Colombo。由Ceylon Traveline (PVT) LTD提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Gangaramaya Temple, National Museum of Colombo和Independence Square, Colombo。最长的一站是National Museum of Colombo，约2小时。全程共3站。\n\n行程顺序为Gangaramaya Temple (1h), 然后 National Museum of Colombo (2h), 然后 Independence Square, Colombo (1h)。\n\n价格包含酒店接送、空调车辆交通、国家博物馆门票费用、甘加拉玛寺门票费用。不包含午餐、科伦坡莲花塔门票费用，请另行预算。两位旅客共同支付192美元，而不是每人各付155美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Gangaramaya Temple, National Museum of Colombo和Independence Square, Colombo。由Ceylon Traveline (PVT) LTD提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "空调车辆交通",
+   "国家博物馆门票费用",
+   "甘加拉玛寺门票费用"
+  ],
+  "notIncluded": [
+   "午餐",
+   "科伦坡莲花塔门票费用"
+  ]
+ },
  "from-kandy-tea-factory-tour-with-ramboda": {
   "title": "康提出发：茶厂游览及兰博达瀑布游览",
   "metaTitle": "康提出发：茶厂游览及兰博达瀑布游览",
@@ -21814,6 +26512,47 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "午餐"
+  ]
+ },
+ "amazing-sri-lanka-5-days-tour-transport-guide": {
+  "title": "精彩斯里兰卡5日游，含交通、导游及酒店",
+  "metaTitle": "精彩斯里兰卡5日游，含交通、导游及酒店",
+  "metaDescription": "一次5天的Kandy体验。探索锡吉里耶古城，攀登著名的狮子岩。由Thara Lanka Tours提供。",
+  "shortDescription": "一次5天的Kandy体验。探索锡吉里耶古城，攀登著名的狮子岩。由Thara Lanka Tours提供。",
+  "fullDescription": "一次5天的Kandy体验。探索锡吉里耶古城，攀登著名的狮子岩。\n\n由Thara Lanka Tours负责安排，价格中含7项内容。可免费取消。\n\n价格包含锡吉里耶、丹布勒石窟寺及康提的导游讲解游览、所有景点的门票费用、乘空调轿车交通、4星级酒店住宿、早餐、午餐。",
+  "highlights": [
+   "探索锡吉里耶古城，攀登著名的狮子岩"
+  ],
+  "included": [
+   "锡吉里耶、丹布勒石窟寺及康提的导游讲解游览",
+   "所有景点的门票费用",
+   "乘空调轿车交通",
+   "4星级酒店住宿",
+   "早餐",
+   "午餐"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "from-kandy-ambuluwawa-full-day-tour-with-local": {
+  "title": "康提出发：安布鲁瓦瓦全天游览，配当地导游",
+  "metaTitle": "康提出发：安布鲁瓦瓦全天游览，配当地导游",
+  "metaDescription": "一次全天的Kandy体验。沿螺旋楼梯登上安布鲁瓦瓦塔，欣赏360度山景。由Dinesh Perera提供。",
+  "shortDescription": "一次全天的Kandy体验。沿螺旋楼梯登上安布鲁瓦瓦塔，欣赏360度山景。由Dinesh Perera提供。",
+  "fullDescription": "一次全天的Kandy体验。沿螺旋楼梯登上安布鲁瓦瓦塔，欣赏360度山景。\n\n由Dinesh Perera负责安排，价格中含12项内容。可免费取消。\n\n价格包含酒店接送、导游、安布鲁瓦瓦塔门票（9美元，可刷卡）、佩拉德尼亚植物园门票（12美元，可刷卡）。不包含午餐、门票不含，请另行预算。两位旅客共同支付41美元，而不是每人各付41美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "沿螺旋楼梯登上安布鲁瓦瓦塔，欣赏360度山景"
+  ],
+  "included": [
+   "酒店接送",
+   "导游",
+   "安布鲁瓦瓦塔门票（9美元，可刷卡）",
+   "佩拉德尼亚植物园门票（12美元，可刷卡）"
+  ],
+  "notIncluded": [
+   "午餐",
+   "门票不含"
   ]
  },
  "ella-second-class-scenic-train-ticket-tofrom-kandy": {
@@ -21913,6 +26652,46 @@ export const ZH_TOURS: Record<string, TourT> = {
    "午餐或正餐",
    "个人消费",
    "不含门票费用"
+  ]
+ },
+ "from-kandy-wilpattu-national-park-safari-with": {
+  "title": "康提出发：威尔帕图国家公园野生动物园之旅，含酒店接客",
+  "metaTitle": "康提出发：威尔帕图国家公园野生动物园之旅，含酒店接客",
+  "metaDescription": "一次全天的Kandy体验。在野生动物园之旅中探索威尔帕图国家公园多样的生态系统。由Minneriya Safari Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。在野生动物园之旅中探索威尔帕图国家公园多样的生态系统。由Minneriya Safari Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。在野生动物园之旅中探索威尔帕图国家公园多样的生态系统。\n\n由Minneriya Safari Tours负责安排，价格中含3项内容。可免费取消。\n\n价格包含康提酒店接送、瓶装水、野生动物观赏之旅。不包含威尔帕图国家公园门票、配经验丰富向导的野生动物园吉普车，请另行预算。两位旅客共同支付332美元，而不是每人各付322美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在野生动物园之旅中探索威尔帕图国家公园多样的生态系统"
+  ],
+  "included": [
+   "康提酒店接送",
+   "瓶装水",
+   "野生动物观赏之旅"
+  ],
+  "notIncluded": [
+   "威尔帕图国家公园门票",
+   "配经验丰富向导的野生动物园吉普车"
+  ]
+ },
+ "ella-guided-day-tour-with-tea-estate-visit": {
+  "title": "埃拉：导游带领的一日游，含茶园参观",
+  "metaTitle": "埃拉：导游带领的一日游，含茶园参观",
+  "metaDescription": "一次全天的Ella体验。探索埃拉迷人小镇的壮丽风景。由Isle Routes Sri Lanka提供。",
+  "shortDescription": "一次全天的Ella体验。探索埃拉迷人小镇的壮丽风景。由Isle Routes Sri Lanka提供。",
+  "fullDescription": "一次全天的Ella体验。探索埃拉迷人小镇的壮丽风景。\n\n由Isle Routes Sri Lanka负责安排，价格中含5项内容。可免费取消。\n\n价格包含埃拉导游讲解游览、参观九拱桥、徒步小亚当峰、哈佩茶园游览。不包含餐饮、往返埃拉的交通、个人消费，请另行预算。",
+  "highlights": [
+   "探索埃拉迷人小镇的壮丽风景"
+  ],
+  "included": [
+   "埃拉导游讲解游览",
+   "参观九拱桥",
+   "徒步小亚当峰",
+   "哈佩茶园游览"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "往返埃拉的交通",
+   "个人消费"
   ]
  },
  "sigiriya-to-kandy-drop-tour-with-kandy-city-tour": {
@@ -22019,6 +26798,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费（可选）"
   ]
  },
+ "colombo-private-guided-tuk-tuk-city-tour-with": {
+  "title": "科伦坡：私人导游带领的嘟嘟车市区游览，含酒店接客",
+  "metaTitle": "科伦坡：私人导游带领的嘟嘟车市区游览，含酒店接客",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Tuk tuk。由Colombo Tuk Tuk City Tours提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Tuk tuk。由Colombo Tuk Tuk City Tours提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Tuk tuk。\n\n由Colombo Tuk Tuk City Tours负责安排，价格中含5项内容。可免费取消。配司机兼导游的私人嘟嘟车游览。\n\n价格包含私人嘟嘟车及司机兼导游、免费酒店接送，科伦坡1区至15区、免费品茶、国王椰子水。两位旅客共同支付81美元，而不是每人各付49美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Tuk tuk。由Colombo Tuk Tuk City Tours提供。"
+  ],
+  "included": [
+   "私人嘟嘟车及司机兼导游",
+   "免费酒店接送，科伦坡1区至15区",
+   "免费品茶",
+   "国王椰子水"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "12-dreamy-days-romantic-sri-lanka-honeymoon-escape": {
   "title": "梦幻12日：浪漫斯里兰卡蜜月之旅",
   "metaTitle": "梦幻12日：浪漫斯里兰卡蜜月之旅",
@@ -22103,6 +26901,87 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "kandy-to-nuwara-eliya-tuk-tuk-tour-tea-factory": {
+  "title": "康提至努沃勒埃利耶嘟嘟车游览：茶厂及精华景点",
+  "metaTitle": "康提至努沃勒埃利耶嘟嘟车游览：茶厂及精华景点",
+  "metaDescription": "一次全天的Kandy体验。参观传统茶厂，了解锡兰红茶的制作工艺。由Lanka Budget Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。参观传统茶厂，了解锡兰红茶的制作工艺。由Lanka Budget Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。参观传统茶厂，了解锡兰红茶的制作工艺。\n\n由Lanka Budget Tours负责安排，价格中含12项内容。可免费取消。\n\n价格包含酒店接送、导游带领参观茶厂、观察采茶工艺的机会、参观风光秀丽的茶园（拍照停靠点）。不包含景点门票，请另行预算。",
+  "highlights": [
+   "参观传统茶厂，了解锡兰红茶的制作工艺"
+  ],
+  "included": [
+   "酒店接送",
+   "导游带领参观茶厂",
+   "观察采茶工艺的机会",
+   "参观风光秀丽的茶园（拍照停靠点）"
+  ],
+  "notIncluded": [
+   "景点门票"
+  ]
+ },
+ "kandy-city-tour-cover-13-places-within-a-single": {
+  "title": "康提市区游览：一天内游览13+个地点（免费）",
+  "metaTitle": "康提市区游览：一天内游览13+个地点（免费）",
+  "metaDescription": "一次全天的Kandy体验。在宝石博物馆探索斯里兰卡宝石开采的丰富历史。由Ranweli Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。在宝石博物馆探索斯里兰卡宝石开采的丰富历史。由Ranweli Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。在宝石博物馆探索斯里兰卡宝石开采的丰富历史。\n\n由Ranweli Tours负责安排，价格中含12项内容。可免费取消。\n\n价格包含私人导游、酒店接送、瓶装水、康提湖。不包含小费、个人消费和纪念品、门票及其他费用，请另行预算。两位旅客共同支付34美元，而不是每人各付34美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在宝石博物馆探索斯里兰卡宝石开采的丰富历史"
+  ],
+  "included": [
+   "私人导游",
+   "酒店接送",
+   "瓶装水",
+   "康提湖"
+  ],
+  "notIncluded": [
+   "小费",
+   "个人消费和纪念品",
+   "门票及其他费用"
+  ]
+ },
+ "colombo-5-day-hill-country-trekking-itinerary-to": {
+  "title": "科伦坡：5天高地徒步行程，前往埃拉",
+  "metaTitle": "科伦坡：5天高地徒步行程，前往埃拉",
+  "metaDescription": "一次5天的Colombo体验。沉浸于斯里兰卡高地令人惊叹的自然美景。由Serendipity tours (private) Limited提供。",
+  "shortDescription": "一次5天的Colombo体验。沉浸于斯里兰卡高地令人惊叹的自然美景。由Serendipity tours (private) Limited提供。",
+  "fullDescription": "一次5天的Colombo体验。沉浸于斯里兰卡高地令人惊叹的自然美景。\n\n由Serendipity tours (private) Limited负责安排，价格中含8项内容。可免费取消。\n\n价格包含5天（4晚住宿）标准酒店、每日3餐、全部陆路交通、饮用水。不包含个人消费、小费，请另行预算。两位旅客共同支付1995美元，而不是每人各付1336美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "沉浸于斯里兰卡高地令人惊叹的自然美景"
+  ],
+  "included": [
+   "5天（4晚住宿）标准酒店",
+   "每日3餐",
+   "全部陆路交通",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费"
+  ]
+ },
+ "kandy-city-tour-by-tuk-tuk-with-hotel-pickup": {
+  "title": "康提市区游览，乘嘟嘟车，含酒店接送",
+  "metaTitle": "康提市区游览，乘嘟嘟车，含酒店接送",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Temple of the Sacred Tooth Relic, Royal Botanic Gardens, Kandy和Kandy。由Thara Lanka Tours提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Temple of the Sacred Tooth Relic, Royal Botanic Gardens, Kandy和Kandy。由Thara Lanka Tours提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Temple of the Sacred Tooth Relic, Royal Botanic Gardens, Kandy和Kandy。最长的一站是Kandy，约2小时。全程共3站。\n\n行程顺序为Temple of the Sacred Tooth Relic (1h), 然后 Royal Botanic Gardens, Kandy (1h), 然后 Kandy (2h)。\n\n价格包含私人导游讲解嘟嘟车游览、佛牙寺、阿斯吉里亚寺、皇家植物园。不包含餐饮、个人消费、门票，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Temple of the Sacred Tooth Relic, Royal Botanic Gardens, Kandy和Kandy。由Thara Lanka Tours提供。"
+  ],
+  "included": [
+   "私人导游讲解嘟嘟车游览",
+   "佛牙寺",
+   "阿斯吉里亚寺",
+   "皇家植物园"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "个人消费",
+   "门票"
+  ]
+ },
  "from-galle-sigiriya-rock-fortress-dambulla-cave": {
   "title": "加勒出发：锡吉里耶狮子岩、丹布勒石窟寺及野生动物园",
   "metaTitle": "加勒出发：锡吉里耶狮子岩、丹布勒石窟寺及野生动物园",
@@ -22185,6 +27064,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "所有景点的门票费用"
   ]
  },
+ "colombo-local-guide-with-colombo-city-tour-by-tuk": {
+  "title": "科伦坡：当地导游带领的嘟嘟车市区游览",
+  "metaTitle": "科伦坡：当地导游带领的嘟嘟车市区游览",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Tuk tuk。由Minneriya Safari Tours提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Tuk tuk。由Minneriya Safari Tours提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Tuk tuk。\n\n由Minneriya Safari Tours负责安排，价格中含5项内容。可免费取消。12+大观光游览，配当地导游。\n\n价格包含私人整洁嘟嘟车及英语导游、免费酒店接客及科伦坡送达、冰凉瓶装水、国王椰子水。两位旅客共同支付85美元，而不是每人各付49美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Tuk tuk。由Minneriya Safari Tours提供。"
+  ],
+  "included": [
+   "私人整洁嘟嘟车及英语导游",
+   "免费酒店接客及科伦坡送达",
+   "冰凉瓶装水",
+   "国王椰子水"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "kandy-kandy-private-guided-city-tour-by-tuk-tuk": {
   "title": "康提：私人导游带领的市区嘟嘟车游览",
   "metaTitle": "康提：私人导游带领的市区嘟嘟车游览",
@@ -22247,6 +27145,66 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票费用"
   ]
  },
+ "kandy-discover-the-city-on-a-private-guided-by": {
+  "title": "康提：乘嘟嘟车私人导游带领探索城市",
+  "metaTitle": "康提：乘嘟嘟车私人导游带领探索城市",
+  "metaDescription": "一次半天的Kandy体验。与当地司机一起乘嘟嘟车游览探索康提市。由Pekoe Lanka Tours提供。",
+  "shortDescription": "一次半天的Kandy体验。与当地司机一起乘嘟嘟车游览探索康提市。由Pekoe Lanka Tours提供。",
+  "fullDescription": "一次半天的Kandy体验。与当地司机一起乘嘟嘟车游览探索康提市。\n\n由Pekoe Lanka Tours负责安排，价格中含10项内容。可免费取消。\n\n价格包含酒店接送、瓶装水500毫升、参观巴希拉瓦坎达大佛、佛牙寺游览。不包含佛牙寺及皇家植物园门票费用、餐饮，请另行预算。两位旅客共同支付34美元，而不是每人各付32美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "与当地司机一起乘嘟嘟车游览探索康提市"
+  ],
+  "included": [
+   "酒店接送",
+   "瓶装水500毫升",
+   "参观巴希拉瓦坎达大佛",
+   "佛牙寺游览"
+  ],
+  "notIncluded": [
+   "佛牙寺及皇家植物园门票费用",
+   "餐饮"
+  ]
+ },
+ "ella-little-adams-peaknine-arches-bridge-day-tours": {
+  "title": "埃拉：小亚当峰、九拱桥一日游",
+  "metaTitle": "埃拉：小亚当峰、九拱桥一日游",
+  "metaDescription": "一次从Ella出发的全天行程，游览Finish at:。由Pekoe Lanka Tours提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Finish at:。由Pekoe Lanka Tours提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Finish at:。\n\n价格包含酒店接送、矿泉水一瓶（免费）、徒步埃拉岩、埃拉观景台（免费入场）。不包含个人消费、餐饮、导游小费（可选），请另行预算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Finish at:。由Pekoe Lanka Tours提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "矿泉水一瓶（免费）",
+   "徒步埃拉岩",
+   "埃拉观景台（免费入场）"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "餐饮",
+   "导游小费（可选）"
+  ]
+ },
+ "sail-lanka-charter-sunset-cruise-in-mirissa": {
+  "title": "Sail Lanka Charter：米瑞沙日落游船",
+  "metaTitle": "Sail Lanka Charter：米瑞沙日落游船",
+  "metaDescription": "一次3小时的Mirissa体验。欢迎饮品、小吃、水上活动。由Sail Lanka Charter (PVT) Limited提供。",
+  "shortDescription": "一次3小时的Mirissa体验。欢迎饮品、小吃、水上活动。由Sail Lanka Charter (PVT) Limited提供。",
+  "fullDescription": "一次3小时的Mirissa体验。欢迎饮品、小吃、水上活动。\n\n由Sail Lanka Charter (PVT) Limited负责安排，价格中含4项内容。可免费取消。\n\n价格包含欢迎饮品、小吃、游泳、站立式桨板。",
+  "highlights": [
+   "欢迎饮品、小吃、水上活动"
+  ],
+  "included": [
+   "欢迎饮品",
+   "小吃",
+   "游泳",
+   "站立式桨板"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "from-bentota-yala-national-park-full-day-safari": {
   "title": "本托塔出发：雅拉国家公园全日野生动物园之旅",
   "metaTitle": "本托塔出发：雅拉国家公园全日野生动物园之旅",
@@ -22307,6 +27265,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "住宿"
   ]
  },
+ "ella-explore-beautiful-ella-with-lunch-and-hotel": {
+  "title": "埃拉：探索美丽的埃拉，含午餐及酒店接客",
+  "metaTitle": "埃拉：探索美丽的埃拉，含午餐及酒店接客",
+  "metaDescription": "一次全天的Ella体验。在含午餐的导游讲解游览中沉浸于埃拉的美景。由Believe it tours提供。",
+  "shortDescription": "一次全天的Ella体验。在含午餐的导游讲解游览中沉浸于埃拉的美景。由Believe it tours提供。",
+  "fullDescription": "一次全天的Ella体验。在含午餐的导游讲解游览中沉浸于埃拉的美景。\n\n由Believe it tours负责安排，价格中含5项内容。可免费取消。\n\n价格包含酒店接送、埃拉地标导游讲解游览、当地餐厅午餐、国王椰子。不包含个人消费、小费、尼尔迪亚波库纳门票，请另行预算。",
+  "highlights": [
+   "在含午餐的导游讲解游览中沉浸于埃拉的美景"
+  ],
+  "included": [
+   "酒店接送",
+   "埃拉地标导游讲解游览",
+   "当地餐厅午餐",
+   "国王椰子"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费",
+   "尼尔迪亚波库纳门票"
+  ]
+ },
  "colombo-city-tour-by-tuk-tuk-top-sights-local": {
   "title": "科伦坡嘟嘟车市区游览：热门景点及本地体验",
   "metaTitle": "科伦坡嘟嘟车市区游览：热门景点及本地体验",
@@ -22324,6 +27303,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "sigiriya-minneriya-national-park-4x4-jeep-safari": {
+  "title": "锡吉里耶：明内里耶国家公园4x4吉普车野生动物园之旅，私人",
+  "metaTitle": "锡吉里耶：明内里耶国家公园4x4吉普车野生动物园之旅，私人",
+  "metaDescription": "一次从Sigiriya出发的半天行程，游览Jeep / SUV和Minneriya National Park。由Lakpura®提供。",
+  "shortDescription": "一次从Sigiriya出发的半天行程，游览Jeep / SUV和Minneriya National Park。由Lakpura®提供。",
+  "fullDescription": "一次从Sigiriya出发的半天行程，途经Jeep / SUV和Minneriya National Park。最长的一站是Minneriya National Park，约4小时。全程共2站。\n\n行程顺序为Jeep / SUV (20 min), 然后 Minneriya National Park (4h)。\n\n价格包含酒店接送、吉普车及司机兼导游、瓶装水、参观明内里耶湖。不包含国家公园门票费用，请另行预算。两位旅客共同支付153美元，而不是每人各付128美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Sigiriya出发的半天行程，游览Jeep / SUV和Minneriya National Park。由Lakpura®提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "吉普车及司机兼导游",
+   "瓶装水",
+   "参观明内里耶湖"
+  ],
+  "notIncluded": [
+   "国家公园门票费用"
   ]
  },
  "mirissa-luxury-sailing-boat-dolphin-and-whale": {
@@ -22348,6 +27346,67 @@ export const ZH_TOURS: Record<string, TourT> = {
    "违反任何法律或规定所产生的罚款"
   ]
  },
+ "ella-ella-rock-9-arch-little-adams-peak-waterfall": {
+  "title": "埃拉：埃拉岩、9拱桥、小亚当峰及瀑布游览",
+  "metaTitle": "埃拉：埃拉岩、9拱桥、小亚当峰及瀑布游览",
+  "metaDescription": "一次从Ella出发的全天行程，游览Ella, Sri Lanka。由Colombo Day Tours & Taxi Service提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Ella, Sri Lanka。由Colombo Day Tours & Taxi Service提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Ella, Sri Lanka。最长的一站是Ella, Sri Lanka，约10小时。\n\n价格包含酒店接送、导游/司机、埃拉岩门票、瓶装水。不包含飞天拉瓦纳超级滑索（约33美元）、卡利普索小火车（约8美元），请另行预算。两位旅客共同支付97美元，而不是每人各付97美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Ella, Sri Lanka。由Colombo Day Tours & Taxi Service提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "导游/司机",
+   "埃拉岩门票",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "飞天拉瓦纳超级滑索（约33美元）",
+   "卡利普索小火车（约8美元）"
+  ]
+ },
+ "from-hikkaduwamirissagalletangalle-yala-leopard": {
+  "title": "希卡杜瓦/米瑞沙/加勒/坦加拉出发：雅拉观豹野生动物园之旅",
+  "metaTitle": "希卡杜瓦/米瑞沙/加勒/坦加拉出发：雅拉观豹野生动物园之旅",
+  "metaDescription": "一次从Galle出发的全天行程，游览Yala National Park。由Wanderluxe Ceylon提供。",
+  "shortDescription": "一次从Galle出发的全天行程，游览Yala National Park。由Wanderluxe Ceylon提供。",
+  "fullDescription": "一次从Galle出发的全天行程，途经Yala National Park。最长的一站是Yala National Park，约4小时。\n\n价格包含免费接送、乘坐我们的豪华空调轿车，舒适出行、服务卓越，带来一次难忘且充满冒险乐趣的野生动物园之旅、豪华舒适4x4野生动物园吉普车。不包含国家公园门票（每人43美元）、餐饮，请另行预算。",
+  "highlights": [
+   "一次从Galle出发的全天行程，游览Yala National Park。由Wanderluxe Ceylon提供。"
+  ],
+  "included": [
+   "免费接送",
+   "乘坐我们的豪华空调轿车，舒适出行",
+   "服务卓越，带来一次难忘且充满冒险乐趣的野生动物园之旅",
+   "豪华舒适4x4野生动物园吉普车"
+  ],
+  "notIncluded": [
+   "国家公园门票（每人43美元）",
+   "餐饮"
+  ]
+ },
+ "galle-traditional-sri-lankan-cooking-class": {
+  "title": "加勒：传统斯里兰卡烹饪课",
+  "metaTitle": "加勒：传统斯里兰卡烹饪课",
+  "metaDescription": "一次3小时的Galle体验。在加勒当地厨房学习烹饪传统斯里兰卡菜肴。由Ceylon Eco Love Tours提供。",
+  "shortDescription": "一次3小时的Galle体验。在加勒当地厨房学习烹饪传统斯里兰卡菜肴。由Ceylon Eco Love Tours提供。",
+  "fullDescription": "一次3小时的Galle体验。在加勒当地厨房学习烹饪传统斯里兰卡菜肴。\n\n由Ceylon Eco Love Tours负责安排，价格中含5项内容。可免费取消。\n\n价格包含当地烹饪专家、烹饪原料及设备、欢迎饮品、含准备好的午餐或晚餐。不包含酒店接送、个人消费、小费，请另行预算。",
+  "highlights": [
+   "在加勒当地厨房学习烹饪传统斯里兰卡菜肴"
+  ],
+  "included": [
+   "当地烹饪专家",
+   "烹饪原料及设备",
+   "欢迎饮品",
+   "含准备好的午餐或晚餐"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "个人消费",
+   "小费"
+  ]
+ },
  "from-kandy-kelani-river-white-water-rafting-tour": {
   "title": "康提出发：凯拉尼河激流漂筏之旅",
   "metaTitle": "康提出发：凯拉尼河激流漂筏之旅",
@@ -22366,6 +27425,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐饮",
    "不含场地门票"
+  ]
+ },
+ "from-ella-udawalawa-safari-drop-galle-mirissa": {
+  "title": "埃拉出发：乌达瓦拉维野生动物园之旅，送达加勒/米瑞沙/坦加拉",
+  "metaTitle": "埃拉出发：乌达瓦拉维野生动物园之旅，送达加勒/米瑞沙/坦加拉",
+  "metaDescription": "一次从Ella出发的全天行程，游览Udawalawa National Park。由Wanderluxe Ceylon提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Udawalawa National Park。由Wanderluxe Ceylon提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Udawalawa National Park。最长的一站是Udawalawa National Park，约3小时。\n\n价格包含从指定地点（埃拉、加勒、希卡杜瓦、坦加拉、马特勒、米瑞沙、乌纳瓦图纳、加勒、塔尔佩）出发的免费接送、空调车辆接送、四驱野生动物园吉普车、经验丰富、知识渊博的司机/导游、高速公路通行费。不包含乌达瓦拉维国家公园门票费用（约每位成人38美元）、餐饮，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Udawalawa National Park。由Wanderluxe Ceylon提供。"
+  ],
+  "included": [
+   "从指定地点（埃拉、加勒、希卡杜瓦、坦加拉、马特勒、米瑞沙、乌纳瓦图纳、加勒、塔尔佩）出发的免费接送",
+   "空调车辆接送",
+   "四驱野生动物园吉普车",
+   "经验丰富、知识渊博的司机/导游",
+   "高速公路通行费"
+  ],
+  "notIncluded": [
+   "乌达瓦拉维国家公园门票费用（约每位成人38美元）",
+   "餐饮"
   ]
  },
  "from-ella-all-inclusive-day-trip-to-experience": {
@@ -22468,6 +27548,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮"
   ]
  },
+ "minneriya-national-park-jeep-safari-from": {
+  "title": "明内里耶：国家公园吉普车野生动物园之旅，从锡吉里耶/丹布勒出发",
+  "metaTitle": "明内里耶：国家公园吉普车野生动物园之旅，从锡吉里耶/丹布勒出发",
+  "metaDescription": "一次从Sigiriya出发的半天行程，游览Jeep / SUV。由Sigiri Serenity Tours提供。",
+  "shortDescription": "一次从Sigiriya出发的半天行程，游览Jeep / SUV。由Sigiri Serenity Tours提供。",
+  "fullDescription": "一次从Sigiriya出发的半天行程，途经Jeep / SUV。\n\n由Sigiri Serenity Tours负责安排，价格中含3项内容。可免费取消。见证公园内大型象群聚集的惊人景象。\n\n价格包含免费酒店接送（指定地区：锡吉里耶/丹布勒/哈巴拉纳）、4x4吉普车野生动物园之旅、瓶装水。不包含门票、地区外酒店接客（波隆纳鲁沃/阿努拉德普勒/亭可马里/康提），需额外收取交通费用，请另行预算。",
+  "highlights": [
+   "一次从Sigiriya出发的半天行程，游览Jeep / SUV。由Sigiri Serenity Tours提供。"
+  ],
+  "included": [
+   "免费酒店接送（指定地区：锡吉里耶/丹布勒/哈巴拉纳）",
+   "4x4吉普车野生动物园之旅",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "门票",
+   "地区外酒店接客（波隆纳鲁沃/阿努拉德普勒/亭可马里/康提），需额外收取交通费用"
+  ]
+ },
  "ella-lipton-seat-tea-test-pluck-9arch-waterfalls": {
   "title": "埃拉：立顿座品茶采摘、9拱桥、瀑布及美食",
   "metaTitle": "埃拉：立顿座品茶采摘、9拱桥、瀑布及美食",
@@ -22503,6 +27602,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "景点门票费用"
   ]
  },
+ "colombo-city-sightseeing-tour-by-tuk-tuk-with-a": {
+  "title": "科伦坡：嘟嘟车市区观光游览，配当地导游",
+  "metaTitle": "科伦坡：嘟嘟车市区观光游览，配当地导游",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Tuk tuk和Colombo。由Ceylon Tuk Tuk Tours提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Tuk tuk和Colombo。由Ceylon Tuk Tuk Tours提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Tuk tuk和Colombo。全程共2站。\n\n行程顺序为Tuk tuk (15 min), 然后 Colombo。\n\n价格包含酒店接送、私人嘟嘟车及司机、欢迎饮品：国王椰子水、瓶装水。不包含门票、餐食，请另行预算。两位旅客共同支付91美元，而不是每人各付51美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Tuk tuk和Colombo。由Ceylon Tuk Tuk Tours提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "私人嘟嘟车及司机",
+   "欢迎饮品：国王椰子水",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "门票",
+   "餐食"
+  ]
+ },
  "ella-2-day-tour-hikes-waterfalls-adventure": {
   "title": "埃拉2日游：徒步、瀑布及探险活动",
   "metaTitle": "埃拉2日游：徒步、瀑布及探险活动",
@@ -22523,6 +27642,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票",
    "餐饮",
    "住宿"
+  ]
+ },
+ "ella-transfer-to-hikkaduwa-yala-safari-tour": {
+  "title": "埃拉：接送至希卡杜瓦及雅拉野生动物园之旅",
+  "metaTitle": "埃拉：接送至希卡杜瓦及雅拉野生动物园之旅",
+  "metaDescription": "一次全天的Galle体验。在野生动物园之旅中探索雅拉国家公园丰富多样的野生动物。由Shehan Safari Jeep Tours提供。",
+  "shortDescription": "一次全天的Galle体验。在野生动物园之旅中探索雅拉国家公园丰富多样的野生动物。由Shehan Safari Jeep Tours提供。",
+  "fullDescription": "一次全天的Galle体验。在野生动物园之旅中探索雅拉国家公园丰富多样的野生动物。\n\n由Shehan Safari Jeep Tours负责安排，价格中含5项内容。可免费取消。\n\n价格包含从埃拉/班达拉韦拉地区酒店接客、送达位于米瑞沙/马特勒/塔拉拉/科加拉/阿哈嘎马/维利加马/乌纳瓦图纳/加勒或希卡杜瓦地区的酒店、乘空调车辆交通、雅拉国家公园3小时野生动物园之旅。不包含雅拉国家公园门票（每人43美元）、餐饮，请另行预算。两位旅客共同支付160美元，而不是每人各付160美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在野生动物园之旅中探索雅拉国家公园丰富多样的野生动物"
+  ],
+  "included": [
+   "从埃拉/班达拉韦拉地区酒店接客",
+   "送达位于米瑞沙/马特勒/塔拉拉/科加拉/阿哈嘎马/维利加马/乌纳瓦图纳/加勒或希卡杜瓦地区的酒店",
+   "乘空调车辆交通",
+   "雅拉国家公园3小时野生动物园之旅"
+  ],
+  "notIncluded": [
+   "雅拉国家公园门票（每人43美元）",
+   "餐饮"
   ]
  },
  "from-ella-unforgettable-day-trip-of-8-sights-train": {
@@ -22605,6 +27744,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "配卡利普索音乐的卡利普索小火车（约5美元）"
   ]
  },
+ "sri-lanka-jungle-tour-4-days-rainforests-national": {
+  "title": "斯里兰卡丛林游览：4天雨林、国家公园之旅",
+  "metaTitle": "斯里兰卡丛林游览：4天雨林、国家公园之旅",
+  "metaDescription": "一次4天的Colombo体验。辛哈拉加雨林及马坎德瓦雨林4小时导游徒步。由Serendipity tours (private) Limited提供。",
+  "shortDescription": "一次4天的Colombo体验。辛哈拉加雨林及马坎德瓦雨林4小时导游徒步。由Serendipity tours (private) Limited提供。",
+  "fullDescription": "一次4天的Colombo体验。辛哈拉加雨林及马坎德瓦雨林4小时导游徒步。\n\n由Serendipity tours (private) Limited负责安排，价格中含12项内容。可免费取消。\n\n价格包含从西海岸酒店出发的接送服务、3晚3星级酒店住宿，独立空调客房，带独立卫浴、全程地面交通（观光和接送）均使用空调私人车辆、3次早餐、导游带领的辛哈拉加及基图尔加拉雨林游览。不包含个人消费、小费，请另行预算。两位旅客共同支付1988美元，而不是每人各付1317美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "辛哈拉加雨林及马坎德瓦雨林4小时导游徒步"
+  ],
+  "included": [
+   "从西海岸酒店出发的接送服务",
+   "3晚3星级酒店住宿，独立空调客房，带独立卫浴",
+   "全程地面交通（观光和接送）均使用空调私人车辆",
+   "3次早餐",
+   "导游带领的辛哈拉加及基图尔加拉雨林游览"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费"
+  ]
+ },
  "from-gallemirissahikkaduwa-yala-full-day-safari": {
   "title": "加勒/米瑞沙/希卡杜瓦出发：雅拉全日野生动物园之旅",
   "metaTitle": "加勒/米瑞沙/希卡杜瓦出发：雅拉全日野生动物园之旅",
@@ -22664,6 +27824,28 @@ export const ZH_TOURS: Record<string, TourT> = {
    "配卡利普索音乐的卡利普索小火车（约6美元）"
   ]
  },
+ "sri-lanka-cultural-triangle-full-circle-3-day-tour": {
+  "title": "斯里兰卡文化三角区环线3日游",
+  "metaTitle": "斯里兰卡文化三角区环线3日游",
+  "metaDescription": "一次3天的Sigiriya体验。在导游带领的斯里兰卡之旅中探索斯里兰卡文化三角区。由Serendipity tours (private) Limited提供。",
+  "shortDescription": "一次3天的Sigiriya体验。在导游带领的斯里兰卡之旅中探索斯里兰卡文化三角区。由Serendipity tours (private) Limited提供。",
+  "fullDescription": "一次3天的Sigiriya体验。在导游带领的斯里兰卡之旅中探索斯里兰卡文化三角区。\n\n由Serendipity tours (private) Limited负责安排，价格中含12项内容。可免费取消。\n\n价格包含从西海岸酒店出发的接送服务、2晚3-4星级酒店住宿，独立空调客房，带独立卫浴、全程地面交通（观光和接送）均使用空调私人车辆、2次早餐和2次晚餐、司机/导游。不包含门票费用（丹布勒寺每人10美元，锡吉里耶狮子岩每人35美元，波隆纳鲁沃每人30美元，佛牙寺每人7美元，明内里耶国家公园野生动物园之旅每人80美元）、午餐、饮品，请另行预算。两位旅客共同支付1343美元，而不是每人各付1011美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在导游带领的斯里兰卡之旅中探索斯里兰卡文化三角区"
+  ],
+  "included": [
+   "从西海岸酒店出发的接送服务",
+   "2晚3-4星级酒店住宿，独立空调客房，带独立卫浴",
+   "全程地面交通（观光和接送）均使用空调私人车辆",
+   "2次早餐和2次晚餐",
+   "司机/导游"
+  ],
+  "notIncluded": [
+   "门票费用（丹布勒寺每人10美元，锡吉里耶狮子岩每人35美元，波隆纳鲁沃每人30美元，佛牙寺每人7美元，明内里耶国家公园野生动物园之旅每人80美元）",
+   "午餐",
+   "饮品"
+  ]
+ },
  "kandy-to-sigiriya-rock-fortress-pidurangala-peak": {
   "title": "康提到锡吉里耶狮子岩及皮杜兰加拉岩一日游",
   "metaTitle": "康提到锡吉里耶狮子岩及皮杜兰加拉岩一日游",
@@ -22683,6 +27865,46 @@ export const ZH_TOURS: Record<string, TourT> = {
    "锡吉里耶狮子岩向导",
    "餐饮",
    "小费"
+  ]
+ },
+ "arugam-bay-to-hiriketiyamirissa-transfer-with": {
+  "title": "阿鲁甘湾至希里凯提亚/米瑞沙接送，含雅拉野生动物园之旅",
+  "metaTitle": "阿鲁甘湾至希里凯提亚/米瑞沙接送，含雅拉野生动物园之旅",
+  "metaDescription": "一次全天的Galle体验。在野生动物园之旅中探索雅拉国家公园丰富多样的野生动物。由Ceylon Nature Tours提供。",
+  "shortDescription": "一次全天的Galle体验。在野生动物园之旅中探索雅拉国家公园丰富多样的野生动物。由Ceylon Nature Tours提供。",
+  "fullDescription": "一次全天的Galle体验。在野生动物园之旅中探索雅拉国家公园丰富多样的野生动物。\n\n由Ceylon Nature Tours负责安排，价格中含4项内容。可免费取消。\n\n价格包含从阿鲁甘湾地区出发的酒店接客、马特勒、米瑞沙、维利加马、乌纳瓦图纳、加勒地区酒店送达、空调车辆接送、雅拉国家公园野生动物园之旅。不包含门票（每人43美元）、餐饮，请另行预算。",
+  "highlights": [
+   "在野生动物园之旅中探索雅拉国家公园丰富多样的野生动物"
+  ],
+  "included": [
+   "从阿鲁甘湾地区出发的酒店接客",
+   "马特勒、米瑞沙、维利加马、乌纳瓦图纳、加勒地区酒店送达",
+   "空调车辆接送",
+   "雅拉国家公园野生动物园之旅"
+  ],
+  "notIncluded": [
+   "门票（每人43美元）",
+   "餐饮"
+  ]
+ },
+ "from-gallehikkaduwamirissa-trip-to-udawalawe": {
+  "title": "加勒/希卡杜瓦/米瑞沙出发：乌达瓦拉维野生动物园之旅",
+  "metaTitle": "加勒/希卡杜瓦/米瑞沙出发：乌达瓦拉维野生动物园之旅",
+  "metaDescription": "一次从Galle出发的全天行程，游览Udawalawa National Park和Udawalawe Elephant Transit Home。由Udawalawe Wild Safari Tours提供。",
+  "shortDescription": "一次从Galle出发的全天行程，游览Udawalawa National Park和Udawalawe Elephant Transit Home。由Udawalawe Wild Safari Tours提供。",
+  "fullDescription": "一次从Galle出发的全天行程，途经Udawalawa National Park和Udawalawe Elephant Transit Home。最长的一站是Udawalawa National Park，约3小时。全程共2站。\n\n行程顺序为Udawalawa National Park (3h), 然后 Udawalawe Elephant Transit Home (2h)。\n\n价格包含乘坐我们的豪华空调轿车，舒适出行、服务卓越，带来一次难忘且充满冒险乐趣的野生动物园之旅、豪华定制4x4野生动物园吉普车、经验丰富、知识渊博的导游/司机。不包含乌达瓦拉维国家公园门票费用（约36美元）、餐饮，请另行预算。两位旅客共同支付273美元，而不是每人各付268美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Galle出发的全天行程，游览Udawalawa National Park和Udawalawe Elephant Transit Home。由Udawalawe Wild Safari Tours提供。"
+  ],
+  "included": [
+   "乘坐我们的豪华空调轿车，舒适出行",
+   "服务卓越，带来一次难忘且充满冒险乐趣的野生动物园之旅",
+   "豪华定制4x4野生动物园吉普车",
+   "经验丰富、知识渊博的导游/司机"
+  ],
+  "notIncluded": [
+   "乌达瓦拉维国家公园门票费用（约36美元）",
+   "餐饮"
   ]
  },
  "all-inclusive-mirissa-whale-dolphin-watching": {
@@ -22705,6 +27927,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "远距离接送服务（需额外付费）",
    "船上额外的餐饮",
    "违反任何法律或规定所产生的罚款"
+  ]
+ },
+ "hikkaduwagalle-yala-national-park-jeep-safari-day": {
+  "title": "希卡杜瓦/加勒：雅拉国家公园吉普车野生动物园一日游",
+  "metaTitle": "希卡杜瓦/加勒：雅拉国家公园吉普车野生动物园一日游",
+  "metaDescription": "一次全天的Galle体验。在雅拉国家公园体验斯里兰卡的自然风光。由Ceylon Nature Tours提供。",
+  "shortDescription": "一次全天的Galle体验。在雅拉国家公园体验斯里兰卡的自然风光。由Ceylon Nature Tours提供。",
+  "fullDescription": "一次全天的Galle体验。在雅拉国家公园体验斯里兰卡的自然风光。\n\n由Ceylon Nature Tours负责安排，价格中含4项内容。可免费取消。\n\n价格包含私人空调车辆接送、从加勒/希卡杜瓦/乌纳瓦图纳/安巴兰戈达地区出发的酒店接送、雅拉国家公园吉普车野生动物园之旅、高速公路通行费。不包含餐饮、门票费用（每人43美元），请另行预算。两位旅客共同支付267美元，而不是每人各付267美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在雅拉国家公园体验斯里兰卡的自然风光"
+  ],
+  "included": [
+   "私人空调车辆接送",
+   "从加勒/希卡杜瓦/乌纳瓦图纳/安巴兰戈达地区出发的酒店接送",
+   "雅拉国家公园吉普车野生动物园之旅",
+   "高速公路通行费"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "门票费用（每人43美元）"
   ]
  },
  "colombo-private-city-tour-by-car-with-guide-all": {
@@ -22741,6 +27983,24 @@ export const ZH_TOURS: Record<string, TourT> = {
    "送达坦加拉/希里凯提亚/马特勒/米瑞沙/维利加马/阿哈嘎马/乌纳瓦图纳/加勒/希卡杜瓦及周边地区",
    "如接客或送达地点超出上述区域，请联系我们，我们可根据超出区域的距离加收费用后为您安排行程",
    "3小时雅拉国家公园野生动物园之旅"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "galle-ahungalla-guided-tour": {
+  "title": "从阿胡加拉/科斯戈达/本托塔/贝鲁瓦拉出发的加勒一日游",
+  "metaTitle": "从阿胡加拉/科斯戈达/本托塔/贝鲁瓦拉出发的加勒一日游",
+  "metaDescription": "一次从Galle出发的半天行程，游览Kosgoda Sea Turtle Conservation, Madu Ganga, Ariyapala Mask Museum和Hikkaduwa。由Dimtourssrilanka提供。",
+  "shortDescription": "一次从Galle出发的半天行程，游览Kosgoda Sea Turtle Conservation, Madu Ganga, Ariyapala Mask Museum和Hikkaduwa。由Dimtourssrilanka提供。",
+  "fullDescription": "一次从Galle出发的半天行程，途经Kosgoda Sea Turtle Conservation, Madu Ganga, Ariyapala Mask Museum和Hikkaduwa。最长的一站是Hikkaduwa，约1小时。全程共5站。\n\n行程顺序为Kosgoda Sea Turtle Conservation (45 min), 然后 Madu Ganga, 然后 Ariyapala Mask Museum (30 min), 然后 Hikkaduwa (1h), 然后 Galle Fort (1h)。\n\n价格包含空调私家车及司机、海龟孵化场及游船门票（马杜河野生动物园之旅，1.5-2小时）、免费接送，本托塔、贝鲁瓦拉、因杜鲁瓦及阿卢特加马地区。两位旅客共同支付406美元，而不是每人各付305美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Galle出发的半天行程，游览Kosgoda Sea Turtle Conservation, Madu Ganga, Ariyapala Mask Museum和Hikkaduwa。由Dimtourssrilanka提供。"
+  ],
+  "included": [
+   "空调私家车及司机",
+   "海龟孵化场及游船门票（马杜河野生动物园之旅，1.5-2小时）",
+   "免费接送，本托塔、贝鲁瓦拉、因杜鲁瓦及阿卢特加马地区"
   ],
   "notIncluded": [
    ""
@@ -22797,6 +28057,26 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "莲花塔或甘加拉玫寺门票"
+  ]
+ },
+ "tangallehiriketiyamirissa-shuttle-to-ella-and": {
+  "title": "坦加拉/希里凯提亚/米瑞沙：接送至埃拉及雅拉野生动物园之旅",
+  "metaTitle": "坦加拉/希里凯提亚/米瑞沙：接送至埃拉及雅拉野生动物园之旅",
+  "metaDescription": "一次半天的Galle体验。在雅拉国家公园观赏及聆听丰富多样的野生动物。由Ceylon Nature Tours提供。",
+  "shortDescription": "一次半天的Galle体验。在雅拉国家公园观赏及聆听丰富多样的野生动物。由Ceylon Nature Tours提供。",
+  "fullDescription": "一次半天的Galle体验。在雅拉国家公园观赏及聆听丰富多样的野生动物。\n\n由Ceylon Nature Tours负责安排，价格中含4项内容。可免费取消。\n\n价格包含加勒/乌纳瓦图纳/阿哈嘎马/科加拉/维利加马/米瑞沙/马特勒/塔拉拉/坦加拉或希里凯提亚地区酒店接客、埃拉酒店送达、空调车辆接送、雅拉国家公园3小时野生动物园之旅。不包含餐饮、雅拉国家公园门票及服务费（每人43美元），请另行预算。两位旅客共同支付42美元，而不是每人各付42美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在雅拉国家公园观赏及聆听丰富多样的野生动物"
+  ],
+  "included": [
+   "加勒/乌纳瓦图纳/阿哈嘎马/科加拉/维利加马/米瑞沙/马特勒/塔拉拉/坦加拉或希里凯提亚地区酒店接客",
+   "埃拉酒店送达",
+   "空调车辆接送",
+   "雅拉国家公园3小时野生动物园之旅"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "雅拉国家公园门票及服务费（每人43美元）"
   ]
  },
  "day-trips-from-kandy-to-sigiriya-with-village": {
@@ -22876,6 +28156,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "小费"
+  ]
+ },
+ "from-kandy-odyssey-first-class-scenic-train": {
+  "title": "康提出发：奥德赛头等座风光火车票，前往埃拉",
+  "metaTitle": "康提出发：奥德赛头等座风光火车票，前往埃拉",
+  "metaDescription": "一次全天的Kandy体验。在从康提到埃拉的火车之旅中尽览令人惊叹的美景。由Island Odyssey Travels & Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。在从康提到埃拉的火车之旅中尽览令人惊叹的美景。由Island Odyssey Travels & Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。在从康提到埃拉的火车之旅中尽览令人惊叹的美景。\n\n由Island Odyssey Travels & Tours负责安排，价格中含3项内容。可免费取消。\n\n价格包含康提及埃拉火车站10英里范围内接送、埃拉奥德赛火车头等座预订座位、从康提到埃拉的单程旅程。不包含导游、餐饮，请另行预算。两位旅客共同支付423美元，而不是每人各付246美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在从康提到埃拉的火车之旅中尽览令人惊叹的美景"
+  ],
+  "included": [
+   "康提及埃拉火车站10英里范围内接送",
+   "埃拉奥德赛火车头等座预订座位",
+   "从康提到埃拉的单程旅程"
+  ],
+  "notIncluded": [
+   "导游",
+   "餐饮"
   ]
  },
  "gallemirissa-yala-udawalawe-safari-day-trip-with": {
@@ -22981,6 +28280,49 @@ export const ZH_TOURS: Record<string, TourT> = {
    "野生动物园吉普车"
   ]
  },
+ "from-colombo-to-yala-6-day-private-trip-with": {
+  "title": "科伦坡至雅拉：6日私人旅程，含21个景点",
+  "metaTitle": "科伦坡至雅拉：6日私人旅程，含21个景点",
+  "metaDescription": "一次6天的Colombo体验。漫步波隆纳鲁沃、锡吉里耶、丹布勒、康提的历史古迹。由Serendipity tours (private) Limited提供。",
+  "shortDescription": "一次6天的Colombo体验。漫步波隆纳鲁沃、锡吉里耶、丹布勒、康提的历史古迹。由Serendipity tours (private) Limited提供。",
+  "fullDescription": "一次6天的Colombo体验。漫步波隆纳鲁沃、锡吉里耶、丹布勒、康提的历史古迹。\n\n由Serendipity tours (private) Limited负责安排，价格中含11项内容。可免费取消。\n\n价格包含从西海岸酒店出发的接送服务、5晚3-4星级酒店住宿，独立空调客房，带独立卫浴、全程地面交通（观光和接送）均使用空调车辆、瓶装水、锡吉里耶狮子岩及博物馆、波隆纳鲁沃古迹及博物馆、丹布勒金寺、佛牙寺及植物园门票。不包含除水以外的饮品（可自费购买）、午餐、小费，请另行预算。",
+  "highlights": [
+   "漫步波隆纳鲁沃、锡吉里耶、丹布勒、康提的历史古迹"
+  ],
+  "included": [
+   "从西海岸酒店出发的接送服务",
+   "5晚3-4星级酒店住宿，独立空调客房，带独立卫浴",
+   "全程地面交通（观光和接送）均使用空调车辆",
+   "瓶装水",
+   "锡吉里耶狮子岩及博物馆、波隆纳鲁沃古迹及博物馆、丹布勒金寺、佛牙寺及植物园门票"
+  ],
+  "notIncluded": [
+   "除水以外的饮品（可自费购买）",
+   "午餐",
+   "小费"
+  ]
+ },
+ "visit-horton-plains-and-nuwara-eliya-from-ella": {
+  "title": "从埃拉出发参观霍顿平原及努沃勒埃利耶",
+  "metaTitle": "从埃拉出发参观霍顿平原及努沃勒埃利耶",
+  "metaDescription": "一次从Ella出发的全天行程，游览Horton Plains National Park和Nuwara Eliya。由Apple Vacations Sri Lanka and Maldives提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Horton Plains National Park和Nuwara Eliya。由Apple Vacations Sri Lanka and Maldives提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Horton Plains National Park和Nuwara Eliya。最长的一站是Nuwara Eliya，约2小时。全程共2站。\n\n行程顺序为Horton Plains National Park, 然后 Nuwara Eliya (2h)。\n\n价格包含酒店接送、瓶装水、专业资深司机（英语）、空调车辆交通（拼团游览）。不包含餐饮（除特别说明外）、小费、景点门票费用，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Horton Plains National Park和Nuwara Eliya。由Apple Vacations Sri Lanka and Maldives提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "瓶装水",
+   "专业资深司机（英语）",
+   "空调车辆交通（拼团游览）"
+  ],
+  "notIncluded": [
+   "餐饮（除特别说明外）",
+   "小费",
+   "景点门票费用"
+  ]
+ },
  "negombo-sigiriya-rock-and-minneriya-national-park": {
   "title": "尼甘布：锡吉里耶狮子岩及明内里耶国家公园一日游",
   "metaTitle": "尼甘布：锡吉里耶狮子岩及明内里耶国家公园一日游",
@@ -23021,6 +28363,46 @@ export const ZH_TOURS: Record<string, TourT> = {
    "雅拉国家公园门票（每人43美元）",
    "乌达瓦拉维国家公园门票（每人43美元）",
    "象苗康复中心门票（每人6美元）"
+  ]
+ },
+ "from-colombonegombo-wilpattu-national-park-4x4": {
+  "title": "科伦坡/尼甘布出发：威尔帕图国家公园4x4野生动物园之旅",
+  "metaTitle": "科伦坡/尼甘布出发：威尔帕图国家公园4x4野生动物园之旅",
+  "metaDescription": "一次全天的Colombo体验。香料及草药园。由Wanderluxe Ceylon提供。",
+  "shortDescription": "一次全天的Colombo体验。香料及草药园。由Wanderluxe Ceylon提供。",
+  "fullDescription": "一次全天的Colombo体验。香料及草药园。\n\n由Wanderluxe Ceylon负责安排，价格中含4项内容。可免费取消。\n\n价格包含您的住宿地点接送、公园内吉普车租赁、英语司机、瓶装水。不包含餐食、小费、国家公园门票，请另行预算。两位旅客共同支付411美元，而不是每人各付358美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "香料及草药园"
+  ],
+  "included": [
+   "您的住宿地点接送",
+   "公园内吉普车租赁",
+   "英语司机",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "餐食",
+   "小费",
+   "国家公园门票"
+  ]
+ },
+ "colombo-city-tour-by-tuk-tuk-with-pickup-all": {
+  "title": "科伦坡：嘟嘟车市区游览，含接客，全包",
+  "metaTitle": "科伦坡：嘟嘟车市区游览，含接客，全包",
+  "metaDescription": "一次半天的Colombo体验。甘加拉玫寺、斯里凯拉瓦萨纳坦斯瓦米印度教寺庙。由Colombo Tuk Tuk City Tours提供。",
+  "shortDescription": "一次半天的Colombo体验。甘加拉玫寺、斯里凯拉瓦萨纳坦斯瓦米印度教寺庙。由Colombo Tuk Tuk City Tours提供。",
+  "fullDescription": "一次半天的Colombo体验。甘加拉玫寺、斯里凯拉瓦萨纳坦斯瓦米印度教寺庙。\n\n由Colombo Tuk Tuk City Tours负责安排，价格中含4项内容。可免费取消。\n\n价格包含免费接送、瓶装水、国王椰子水、全部停车费用。不包含门票：（莲花塔/甘加拉玛寺），请另行预算。两位旅客共同支付84美元，而不是每人各付49美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "甘加拉玫寺、斯里凯拉瓦萨纳坦斯瓦米印度教寺庙"
+  ],
+  "included": [
+   "免费接送",
+   "瓶装水",
+   "国王椰子水",
+   "全部停车费用"
+  ],
+  "notIncluded": [
+   "门票：（莲花塔/甘加拉玛寺）"
   ]
  },
  "from-ella-diyaluma-waterfall-and-natural-pool": {
@@ -23160,6 +28542,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票或活动票"
   ]
  },
+ "from-kandy-sigiriya-rock-dambulla-cave-temple-by": {
+  "title": "康提出发：锡吉里耶狮子岩及丹布勒石窟寺游览，乘轿车",
+  "metaTitle": "康提出发：锡吉里耶狮子岩及丹布勒石窟寺游览，乘轿车",
+  "metaDescription": "一次全天的Kandy体验。锡吉里耶岩庙。由Kandy Explore Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。锡吉里耶岩庙。由Kandy Explore Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。锡吉里耶岩庙。\n\n由Kandy Explore Tours负责安排，价格中含4项内容。可免费取消。\n\n价格包含免费酒店接送、空调车辆接送、英语司机、瓶装水或国王椰子水。不包含客人餐食、锡吉里耶门票费用（每人35美元）、皮杜兰加拉岩（4美元），请另行预算。两位旅客共同支付171美元，而不是每人各付137美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "锡吉里耶岩庙"
+  ],
+  "included": [
+   "免费酒店接送",
+   "空调车辆接送",
+   "英语司机",
+   "瓶装水或国王椰子水"
+  ],
+  "notIncluded": [
+   "客人餐食",
+   "锡吉里耶门票费用（每人35美元）",
+   "皮杜兰加拉岩（4美元）"
+  ]
+ },
  "boat-riding-in-negombo": {
   "title": "尼甘布游船体验",
   "metaTitle": "尼甘布游船体验",
@@ -23175,6 +28578,24 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "colombo-by-tuk-tuk-pickup-from-colombo-port": {
+  "title": "科伦坡嘟嘟车游览，从科伦坡港口客运码头接客",
+  "metaTitle": "科伦坡嘟嘟车游览，从科伦坡港口客运码头接客",
+  "metaDescription": "一次半天的Colombo体验。莲花塔是目前南亚最高的自立式建筑。由Colombo City Boy提供。",
+  "shortDescription": "一次半天的Colombo体验。莲花塔是目前南亚最高的自立式建筑。由Colombo City Boy提供。",
+  "fullDescription": "一次半天的Colombo体验。莲花塔是目前南亚最高的自立式建筑。\n\n由Colombo City Boy负责安排，价格中含2项内容。可免费取消。\n\n价格包含全程交通，、英语司机。不包含入场费用、食物及饮品，请另行预算。两位旅客共同支付68美元，而不是每人各付68美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "莲花塔是目前南亚最高的自立式建筑"
+  ],
+  "included": [
+   "全程交通，",
+   "英语司机"
+  ],
+  "notIncluded": [
+   "入场费用",
+   "食物及饮品"
   ]
  },
  "ella-udawalawe-full-day-tour": {
@@ -23194,6 +28615,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "雅拉国家公园门票（每人43美元）"
+  ]
+ },
+ "colombo-private-city-tour-by-tuk-tuk-with-hotel": {
+  "title": "科伦坡：私人嘟嘟车市区游览，含酒店接客",
+  "metaTitle": "科伦坡：私人嘟嘟车市区游览，含酒店接客",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Tuk tuk和Tuk tuk。由Colombo Tuk Tuk City Tours提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Tuk tuk和Tuk tuk。由Colombo Tuk Tuk City Tours提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Tuk tuk, Tuk tuk和Tuk tuk。全程共3站。\n\n行程顺序为Tuk tuk (10 min), 然后 Tuk tuk (5 min), 然后 Tuk tuk (15 min)。\n\n价格包含嘟嘟车及司机兼导游、瓶装水、欢迎饮品：国王椰子水、停车费。不包含门票：莲花塔及甘加拉玛寺，请另行预算。两位旅客共同支付81美元，而不是每人各付45美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Tuk tuk, Tuk tuk和Tuk tuk。由Colombo Tuk Tuk City Tours提供。"
+  ],
+  "included": [
+   "嘟嘟车及司机兼导游",
+   "瓶装水",
+   "欢迎饮品：国王椰子水",
+   "停车费"
+  ],
+  "notIncluded": [
+   "门票：莲花塔及甘加拉玛寺"
   ]
  },
  "hikkaduwagalleweligamamirissatangalle-yala-safari": {
@@ -23216,6 +28656,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "公园门票费用（每人43美元）"
   ]
  },
+ "colombo-private-city-tour-with-local-food-tour-by": {
+  "title": "科伦坡：私人市区游览，含当地美食嘟嘟车之旅",
+  "metaTitle": "科伦坡：私人市区游览，含当地美食嘟嘟车之旅",
+  "metaDescription": "一次从Colombo出发的3小时行程，游览Tuk tuk, Local restaurant, Galle Face Green和Colombo Lighthouse。由Colombo Tuk Tuk City Tours提供。",
+  "shortDescription": "一次从Colombo出发的3小时行程，游览Tuk tuk, Local restaurant, Galle Face Green和Colombo Lighthouse。由Colombo Tuk Tuk City Tours提供。",
+  "fullDescription": "一次从Colombo出发的3小时行程，途经Tuk tuk, Local restaurant, Galle Face Green和Colombo Lighthouse。全程共11站。\n\n行程顺序为Tuk tuk (5 min), 然后 Local restaurant (15 min), 然后 Galle Face Green (10 min), 然后 Colombo Lighthouse (5 min), 然后 Local restaurant (15 min)。\n\n价格包含酒店接送、瓶装水、欢迎饮品、当地美食：瓦达、炒馍、煎饼、品茶、配皮图的蟹肉或印度煎饼（南印度菜）、鲜榨果汁及红香蕉、当地甜点：蜂蜜酸奶或瓦塔拉帕姆布丁。两位旅客共同支付145美元，而不是每人各付84美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的3小时行程，游览Tuk tuk, Local restaurant, Galle Face Green和Colombo Lighthouse。由Colombo Tuk Tuk City Tours提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "瓶装水",
+   "欢迎饮品",
+   "当地美食：瓦达、炒馍、煎饼、品茶、配皮图的蟹肉或印度煎饼（南印度菜）",
+   "鲜榨果汁及红香蕉",
+   "当地甜点：蜂蜜酸奶或瓦塔拉帕姆布丁"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "bentotakalutarahikkaduwagallemirissa-day-trip-to": {
   "title": "本托塔/卡卢塔拉/希卡杜瓦/加勒/米瑞沙：埃拉一日游",
   "metaTitle": "本托塔/卡卢塔拉/希卡杜瓦/加勒/米瑞沙：埃拉一日游",
@@ -23234,6 +28695,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮",
    "乌瓦哈佩瓦特茶厂游览（约10美元）",
    "飞天罗婆那超级滑索（约33美元）"
+  ]
+ },
+ "hikkaduwagalleunawatunamirissa-udawalawa-safari": {
+  "title": "希卡杜瓦/加勒/乌纳瓦图纳/米瑞沙：乌达瓦拉维野生动物园之旅",
+  "metaTitle": "希卡杜瓦/加勒/乌纳瓦图纳/米瑞沙：乌达瓦拉维野生动物园之旅",
+  "metaDescription": "一次全天的Galle体验。观赏乌达瓦拉维国家公园繁盛的象群。由Ceylon Nature Tours提供。",
+  "shortDescription": "一次全天的Galle体验。观赏乌达瓦拉维国家公园繁盛的象群。由Ceylon Nature Tours提供。",
+  "fullDescription": "一次全天的Galle体验。观赏乌达瓦拉维国家公园繁盛的象群。\n\n由Ceylon Nature Tours负责安排，价格中含4项内容。可免费取消。\n\n价格包含私人空调车辆接送、从加勒、乌纳瓦图纳、维利加马、米瑞沙或马特勒地区出发的酒店接送、乌达瓦拉维国家公园3小时吉普车野生动物园之旅、高速公路通行费。不包含餐饮、门票费用，请另行预算。两位旅客共同支付224美元，而不是每人各付224美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "观赏乌达瓦拉维国家公园繁盛的象群"
+  ],
+  "included": [
+   "私人空调车辆接送",
+   "从加勒、乌纳瓦图纳、维利加马、米瑞沙或马特勒地区出发的酒店接送",
+   "乌达瓦拉维国家公园3小时吉普车野生动物园之旅",
+   "高速公路通行费"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "门票费用"
   ]
  },
  "galle-fort-udawalawa-guided-tour": {
@@ -23318,6 +28799,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "酒精饮料（可付费购买）"
   ]
  },
+ "from-nuwara-eliya-summit-bliss-adams-peak-guided": {
+  "title": "努沃勒埃利耶出发：登顶之喜，亚当峰导游带领徒步",
+  "metaTitle": "努沃勒埃利耶出发：登顶之喜，亚当峰导游带领徒步",
+  "metaDescription": "一次从Nuwara Eliya出发的全天行程，游览Adam's Peak。由Sign of Lanka (Pvt) Ltd提供。",
+  "shortDescription": "一次从Nuwara Eliya出发的全天行程，游览Adam's Peak。由Sign of Lanka (Pvt) Ltd提供。",
+  "fullDescription": "一次从Nuwara Eliya出发的全天行程，途经Adam's Peak。\n\n价格包含乘豪华空调私家车，享受往返酒店的便捷接送、次日在本地餐厅享用早餐、专属私人徒步向导、套餐已包含燃油附加费和司机费用，确保旅程轻松舒适、无需额外操心、放心，停车费也已包含在内，让您无需操心额外费用，专心享受行程。不包含未在“价格包含”部分列出的其他费用、小费，请另行预算。两位旅客共同支付338美元，而不是每人各付322美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Nuwara Eliya出发的全天行程，游览Adam's Peak。由Sign of Lanka (Pvt) Ltd提供。"
+  ],
+  "included": [
+   "乘豪华空调私家车，享受往返酒店的便捷接送",
+   "次日在本地餐厅享用早餐",
+   "专属私人徒步向导",
+   "套餐已包含燃油附加费和司机费用，确保旅程轻松舒适、无需额外操心",
+   "放心，停车费也已包含在内，让您无需操心额外费用，专心享受行程"
+  ],
+  "notIncluded": [
+   "未在“价格包含”部分列出的其他费用",
+   "小费"
+  ]
+ },
  "ella-safari-day-trip-to-yala-udawalawe-w-picnic": {
   "title": "埃拉：雅拉及乌达瓦拉维野生动物园一日游，含野餐午餐",
   "metaTitle": "埃拉：雅拉及乌达瓦拉维野生动物园一日游，含野餐午餐",
@@ -23400,6 +28902,46 @@ export const ZH_TOURS: Record<string, TourT> = {
    "雅拉国家公园门票",
    "餐饮",
    "可选小费"
+  ]
+ },
+ "from-negombo-3-day-sigiriya-tour": {
+  "title": "尼甘布出发：锡吉里耶3日游",
+  "metaTitle": "尼甘布出发：锡吉里耶3日游",
+  "metaDescription": "一次从Negombo出发的全天行程，游览Jeep / SUV和Sigiriya。由Troplical SL Holidays提供。",
+  "shortDescription": "一次从Negombo出发的全天行程，游览Jeep / SUV和Sigiriya。由Troplical SL Holidays提供。",
+  "fullDescription": "一次从Negombo出发的全天行程，途经Jeep / SUV和Sigiriya。最长的一站是Jeep / SUV，约4小时。全程共2站。\n\n行程顺序为Jeep / SUV (4h), 然后 Sigiriya (4h)。\n\n价格包含从机场到尼甘布的接送、参观高杜拉/生态公园/明内里耶、阿育吠陀疗程、参观锡吉里耶狮子岩。不包含未列出的餐食、个人消费、小费，请另行预算。两位旅客共同支付665美元，而不是每人各付665美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Negombo出发的全天行程，游览Jeep / SUV和Sigiriya。由Troplical SL Holidays提供。"
+  ],
+  "included": [
+   "从机场到尼甘布的接送",
+   "参观高杜拉/生态公园/明内里耶",
+   "阿育吠陀疗程",
+   "参观锡吉里耶狮子岩"
+  ],
+  "notIncluded": [
+   "未列出的餐食",
+   "个人消费",
+   "小费"
+  ]
+ },
+ "colombo-city-tour-by-tuk-tuk-with-hotel-pickup": {
+  "title": "科伦坡：嘟嘟车市区游览，含酒店接客，全包",
+  "metaTitle": "科伦坡：嘟嘟车市区游览，含酒店接客，全包",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Gangaramaya Temple, Tuk tuk和Viharamahadvi Park。由Colombo Tuk Tuk City Tours提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Gangaramaya Temple, Tuk tuk和Viharamahadvi Park。由Colombo Tuk Tuk City Tours提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Tuk tuk, Gangaramaya Temple, Tuk tuk和Viharamahadvi Park。全程共16站。\n\n行程顺序为Tuk tuk (10 min), 然后 Gangaramaya Temple, 然后 Tuk tuk (5 min), 然后 Viharamahadvi Park (10 min), 然后 Old Parliament Building, Colombo (5 min)。\n\n价格包含免费酒店接送、欢迎饮品：国王椰子水、瓶装水、雨伞，雨季使用。两位旅客共同支付97美元，而不是每人各付55美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Tuk tuk, Gangaramaya Temple, Tuk tuk和Viharamahadvi Park。由Colombo Tuk Tuk City Tours提供。"
+  ],
+  "included": [
+   "免费酒店接送",
+   "欢迎饮品：国王椰子水",
+   "瓶装水",
+   "雨伞，雨季使用"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "udawalawe-national-park-wildlife-safari-from-galle": {
@@ -23561,6 +29103,129 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "个人消费",
+   "小费"
+  ]
+ },
+ "from-kandy-adams-peak-guided-hike-via-peak": {
+  "title": "康提出发：亚当峰导游带领徒步，经原始山林",
+  "metaTitle": "康提出发：亚当峰导游带领徒步，经原始山林",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Adam's Peak。由Aktivitar提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Adam's Peak。由Aktivitar提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Adam's Peak。最长的一站是Adam's Peak，约5小时。\n\n价格包含专业导游、努沃勒埃利耶酒店接送、私人车辆交通及门票费用、瓶装水及打包晚餐。不包含个人性质的消费、小费（建议支付），请另行预算。两位旅客共同支付372美元，而不是每人各付322美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Adam's Peak。由Aktivitar提供。"
+  ],
+  "included": [
+   "专业导游",
+   "努沃勒埃利耶酒店接送",
+   "私人车辆交通及门票费用",
+   "瓶装水及打包晚餐"
+  ],
+  "notIncluded": [
+   "个人性质的消费",
+   "小费（建议支付）"
+  ]
+ },
+ "from-galle-kanneliya-forest-guided-nature": {
+  "title": "加勒出发：坎内利亚森林导游带领自然探险",
+  "metaTitle": "加勒出发：坎内利亚森林导游带领自然探险",
+  "metaDescription": "一次从Galle出发的半天行程，游览Kanneliya Rain Forest。由Aktivitar提供。",
+  "shortDescription": "一次从Galle出发的半天行程，游览Kanneliya Rain Forest。由Aktivitar提供。",
+  "fullDescription": "一次从Galle出发的半天行程，途经Kanneliya Rain Forest。\n\n价格包含乘空调车辆进行酒店接送、专业司机、坎内利亚保护中心自然徒步向导服务、瓶装水及茶点。不包含个人性质的消费、小费（建议支付），请另行预算。两位旅客共同支付271美元，而不是每人各付212美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Galle出发的半天行程，游览Kanneliya Rain Forest。由Aktivitar提供。"
+  ],
+  "included": [
+   "乘空调车辆进行酒店接送",
+   "专业司机",
+   "坎内利亚保护中心自然徒步向导服务",
+   "瓶装水及茶点"
+  ],
+  "notIncluded": [
+   "个人性质的消费",
+   "小费（建议支付）"
+  ]
+ },
+ "sigiriya-lion-rock-hike-minneriya-national-park": {
+  "title": "锡吉里耶狮子岩徒步及明内里耶国家公园野生动物园之旅",
+  "metaTitle": "锡吉里耶狮子岩徒步及明内里耶国家公园野生动物园之旅",
+  "metaDescription": "一次从Sigiriya出发的半天行程，游览Jeep / SUV, Sigiriya Lion Rock和Minneriya National Park。由Online Sigiriya提供。",
+  "shortDescription": "一次从Sigiriya出发的半天行程，游览Jeep / SUV, Sigiriya Lion Rock和Minneriya National Park。由Online Sigiriya提供。",
+  "fullDescription": "一次从Sigiriya出发的半天行程，途经Jeep / SUV, Sigiriya Lion Rock和Minneriya National Park。最长的一站是Minneriya National Park，约4小时。全程共3站。\n\n行程顺序为Jeep / SUV (30 min), 然后 Sigiriya Lion Rock (3h), 然后 Minneriya National Park (4h)。\n\n价格包含舒适度最佳的私人四驱野生动物园吉普车、拥有丰富野生动物知识的专业野生动物园司机、持证国家公园向导、全程英语协助。不包含锡吉里耶狮子岩门票（每人35美元）、明内里耶国家公园门票（每人35美元）、锡吉里耶官方向导，请另行预算。",
+  "highlights": [
+   "一次从Sigiriya出发的半天行程，游览Jeep / SUV, Sigiriya Lion Rock和Minneriya National Park。由Online Sigiriya提供。"
+  ],
+  "included": [
+   "舒适度最佳的私人四驱野生动物园吉普车",
+   "拥有丰富野生动物知识的专业野生动物园司机",
+   "持证国家公园向导",
+   "全程英语协助"
+  ],
+  "notIncluded": [
+   "锡吉里耶狮子岩门票（每人35美元）",
+   "明内里耶国家公园门票（每人35美元）",
+   "锡吉里耶官方向导"
+  ]
+ },
+ "mirissa-whale-dolphin-watching-cruise-with": {
+  "title": "米瑞沙：观鲸及观海豚游船，含早餐",
+  "metaTitle": "米瑞沙：观鲸及观海豚游船，含早餐",
+  "metaDescription": "一次从Mirissa出发的半天行程，游览Mirissa。由Mirissa Sea Life Diving Center提供。",
+  "shortDescription": "一次从Mirissa出发的半天行程，游览Mirissa。由Mirissa Sea Life Diving Center提供。",
+  "fullDescription": "一次从Mirissa出发的半天行程，途经Mirissa。最长的一站是Mirissa，约3小时。\n\n价格包含酒店接送、观鲸及观海豚游船之旅、游船前的早餐、小吃及瓶装水。不包含个人性质的消费、小费（建议支付），请另行预算。",
+  "highlights": [
+   "一次从Mirissa出发的半天行程，游览Mirissa。由Mirissa Sea Life Diving Center提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "观鲸及观海豚游船之旅",
+   "游船前的早餐",
+   "小吃及瓶装水"
+  ],
+  "notIncluded": [
+   "个人性质的消费",
+   "小费（建议支付）"
+  ]
+ },
+ "from-nuwara-eliyaall-inclusive-epic-knuckles": {
+  "title": "努沃勒埃利耶出发：全包壮丽纳克尔斯过夜徒步",
+  "metaTitle": "努沃勒埃利耶出发：全包壮丽纳克尔斯过夜徒步",
+  "metaDescription": "一次从Nuwara Eliya出发的2天行程，游览Knuckles Mountain Trekking, Waterfalls & Overnight Camping, 08:30: Knuckles Mountain Range Trekking Adventure, 10:30: Discover Hulu & Tha...",
+  "shortDescription": "一次从Nuwara Eliya出发的2天行程，游览Knuckles Mountain Trekking, Waterfalls & Overnight Camping, 08:30: Knuckles Mountain Range Trekking Adventure, 10:30: Discover Hulu & Thaliya Waterfalls和13:00: Lunch by Bambarella Waterfalls。由Sign of Lanka (Pvt) Ltd提供。",
+  "fullDescription": "一次从Nuwara Eliya出发的2天行程，途经Knuckles Mountain Trekking, Waterfalls & Overnight Camping, 08:30: Knuckles Mountain Range Trekking Adventure, 10:30: Discover Hulu & Thaliya Waterfalls和13:00: Lunch by Bambarella Waterfalls。全程共10站。\n\n行程顺序为Knuckles Mountain Trekking, Waterfalls & Overnight Camping, 然后 08:30: Knuckles Mountain Range Trekking Adventure, 然后 10:30: Discover Hulu & Thaliya Waterfalls, 然后 13:00: Lunch by Bambarella Waterfalls, 然后 14:00: Trek to the Mountain Campsite。\n\n价格包含豪华空调私人车辆往返酒店接送、标准帐篷住宿过夜、由专属经验丰富团队支持的专业徒步向导、午餐、晚餐及早餐。不包含未在“价格包含”部分列出的其他费用、小费，请另行预算。两位旅客共同支付981美元，而不是每人各付626美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Nuwara Eliya出发的2天行程，游览Knuckles Mountain Trekking, Waterfalls & Overnight Camping, 08:30: Knuckles Mountain Range Trekking Adventure, 10:30: Discover Hulu & Thaliya Waterfalls和13:00: Lunch by Bambarella Waterfalls。由Sign of Lanka (Pvt) Ltd提供。"
+  ],
+  "included": [
+   "豪华空调私人车辆往返酒店接送",
+   "标准帐篷住宿过夜",
+   "由专属经验丰富团队支持的专业徒步向导",
+   "午餐、晚餐及早餐"
+  ],
+  "notIncluded": [
+   "未在“价格包含”部分列出的其他费用",
+   "小费"
+  ]
+ },
+ "from-dambulla-sigiriya-ancient-city-of": {
+  "title": "丹布勒/锡吉里耶出发：骑行游览波隆纳鲁沃古城",
+  "metaTitle": "丹布勒/锡吉里耶出发：骑行游览波隆纳鲁沃古城",
+  "metaDescription": "一次从Sigiriya出发的半天行程，游览Polonnaruwa Ancient City。由Sign of Lanka (Pvt) Ltd提供。",
+  "shortDescription": "一次从Sigiriya出发的半天行程，游览Polonnaruwa Ancient City。由Sign of Lanka (Pvt) Ltd提供。",
+  "fullDescription": "一次从Sigiriya出发的半天行程，途经Polonnaruwa Ancient City。\n\n价格包含豪华空调私人车辆往返酒店接送、山地自行车费用、游览期间的骑行向导、套餐已包含燃油附加费和司机费用，确保旅程轻松舒适、无需额外操心、放心，停车费也已包含在内，让您无需操心额外费用，专心享受行程。不包含古城波隆纳鲁沃门票费用（约每人30美元）、未在“价格包含”部分列出的其他费用、小费，请另行预算。两位旅客共同支付322美元，而不是每人各付280美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Sigiriya出发的半天行程，游览Polonnaruwa Ancient City。由Sign of Lanka (Pvt) Ltd提供。"
+  ],
+  "included": [
+   "豪华空调私人车辆往返酒店接送",
+   "山地自行车费用",
+   "游览期间的骑行向导",
+   "套餐已包含燃油附加费和司机费用，确保旅程轻松舒适、无需额外操心",
+   "放心，停车费也已包含在内，让您无需操心额外费用，专心享受行程"
+  ],
+  "notIncluded": [
+   "古城波隆纳鲁沃门票费用（约每人30美元）",
+   "未在“价格包含”部分列出的其他费用",
    "小费"
   ]
  },
@@ -23752,6 +29417,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票费用"
   ]
  },
+ "kandy-to-sigiriya-drop-tour-private-tour": {
+  "title": "康提至锡吉里耶送达游览，私人游览",
+  "metaTitle": "康提至锡吉里耶送达游览，私人游览",
+  "metaDescription": "一次半天的Kandy体验。联合国教科文组织世界遗产：著名的丹布勒金石窟寺群。由Ceylon IT Tours提供。",
+  "shortDescription": "一次半天的Kandy体验。联合国教科文组织世界遗产：著名的丹布勒金石窟寺群。由Ceylon IT Tours提供。",
+  "fullDescription": "一次半天的Kandy体验。联合国教科文组织世界遗产：著名的丹布勒金石窟寺群。\n\n由Ceylon IT Tours负责安排，价格中含5项内容。可免费取消。\n\n价格包含康提接客、嘟嘟车/空调小型面包车/空调轿车（视所选方案而定）、英语司机、停车票。不包含餐饮、门票费用、小费，请另行预算。两位旅客共同支付86美元，而不是每人各付76美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "联合国教科文组织世界遗产：著名的丹布勒金石窟寺群"
+  ],
+  "included": [
+   "康提接客",
+   "嘟嘟车/空调小型面包车/空调轿车（视所选方案而定）",
+   "英语司机",
+   "停车票"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "门票费用",
+   "小费"
+  ]
+ },
  "from-kandy-sigiriya-rock-dambulla-cave-temple": {
   "title": "康提出发：锡吉里耶狮子岩及丹布勒石窟寺探险",
   "metaTitle": "康提出发：锡吉里耶狮子岩及丹布勒石窟寺探险",
@@ -23792,6 +29478,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮（除特别说明外）",
    "可选小费",
    "门票费用"
+  ]
+ },
+ "dolphin-and-whale-watching-in-negombo": {
+  "title": "尼甘布观海豚及观鲸之旅",
+  "metaTitle": "尼甘布观海豚及观鲸之旅",
+  "metaDescription": "一次半天的Negombo体验。野生动物。由Z R I Adventures (Private) Limited提供。",
+  "shortDescription": "一次半天的Negombo体验。野生动物。由Z R I Adventures (Private) Limited提供。",
+  "fullDescription": "一次半天的Negombo体验。野生动物。\n\n由Z R I Adventures (Private) Limited负责安排，价格中含6项内容。可免费取消。\n\n价格包含设备、导游、野生动物税、救生衣。不包含酒店接送，请另行预算。",
+  "highlights": [
+   "野生动物"
+  ],
+  "included": [
+   "设备",
+   "导游",
+   "野生动物税",
+   "救生衣"
+  ],
+  "notIncluded": [
+   "酒店接送"
   ]
  },
  "zip-lining-in-ella": {
@@ -23851,6 +29556,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "night-snorkeling-in-mirissa": {
+  "title": "米瑞沙夜间浮潜",
+  "metaTitle": "米瑞沙夜间浮潜",
+  "metaDescription": "一次2小时的Mirissa体验。夜间浮潜。由Mirissa Sea Life Diving Center提供。",
+  "shortDescription": "一次2小时的Mirissa体验。夜间浮潜。由Mirissa Sea Life Diving Center提供。",
+  "fullDescription": "一次2小时的Mirissa体验。夜间浮潜。\n\n由Mirissa Sea Life Diving Center负责安排，价格中含4项内容。可免费取消。\n\n价格包含浮潜装备、私人教练、小吃及饮品、免费接送，米瑞沙。",
+  "highlights": [
+   "夜间浮潜"
+  ],
+  "included": [
+   "浮潜装备",
+   "私人教练",
+   "小吃及饮品",
+   "免费接送，米瑞沙"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "mirissa-snorkelling-with-whales-and-marine-life": {
   "title": "米瑞沙：与鲸鱼及海洋生物共游浮潜",
   "metaTitle": "米瑞沙：与鲸鱼及海洋生物共游浮潜",
@@ -23870,6 +29594,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "colombo-city-sightseeing-tour-by-tuk-tuk-with": {
+  "title": "科伦坡：嘟嘟车市区观光游览，含接客",
+  "metaTitle": "科伦坡：嘟嘟车市区观光游览，含接客",
+  "metaDescription": "一次从Colombo出发的3小时行程，游览Tuk tuk, Jami Ul-Alfar Mosque, Tuk tuk和Fort Railway Station。由Apple Vacations Sri Lanka and Maldives提供。",
+  "shortDescription": "一次从Colombo出发的3小时行程，游览Tuk tuk, Jami Ul-Alfar Mosque, Tuk tuk和Fort Railway Station。由Apple Vacations Sri Lanka and Maldives提供。",
+  "fullDescription": "一次从Colombo出发的3小时行程，途经Tuk tuk, Jami Ul-Alfar Mosque, Tuk tuk和Fort Railway Station。全程共10站。\n\n行程顺序为Tuk tuk (10 min), 然后 Jami Ul-Alfar Mosque, 然后 Tuk tuk (5 min), 然后 Fort Railway Station, 然后 Sri Kailawasanathan Swami Devasthanam Kovil, ஸ்ரீ கைலாவசநாதன் சுவாமி தேவஸ்தான கோவில் (10 min)。\n\n价格包含乘嘟嘟车进行酒店接送、嘟嘟车游览、瓶装水。不包含额外的餐饮、小费、景点门票，请另行预算。两位旅客共同支付51美元，而不是每人各付51美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的3小时行程，游览Tuk tuk, Jami Ul-Alfar Mosque, Tuk tuk和Fort Railway Station。由Apple Vacations Sri Lanka and Maldives提供。"
+  ],
+  "included": [
+   "乘嘟嘟车进行酒店接送",
+   "嘟嘟车游览",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "额外的餐饮",
+   "小费",
+   "景点门票"
+  ]
+ },
  "colombo-city-tour-explore-history-different-food": {
   "title": "科伦坡市区游览：探索历史及多元美食品尝",
   "metaTitle": "科伦坡市区游览：探索历史及多元美食品尝",
@@ -23887,6 +29631,26 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "餐食"
+  ]
+ },
+ "exclusive-private-whale-watching-sunset-tour-with": {
+  "title": "专享：私人观鲸日落之旅，含接送",
+  "metaTitle": "专享：私人观鲸日落之旅，含接送",
+  "metaDescription": "一次从Mirissa出发的半天行程，游览Mirissa。由Beyond Escapes提供。",
+  "shortDescription": "一次从Mirissa出发的半天行程，游览Mirissa。由Beyond Escapes提供。",
+  "fullDescription": "一次从Mirissa出发的半天行程，途经Mirissa。最长的一站是Mirissa，约4小时。\n\n价格包含酒店接送、下午茶点，、免费茶点、站立式桨板或温水游泳。不包含个人性质的消费、小费（建议支付），请另行预算。",
+  "highlights": [
+   "一次从Mirissa出发的半天行程，游览Mirissa。由Beyond Escapes提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "下午茶点，",
+   "免费茶点",
+   "站立式桨板或温水游泳"
+  ],
+  "notIncluded": [
+   "个人性质的消费",
+   "小费（建议支付）"
   ]
  },
  "negombo-fishing-village-highlights-private-tour": {
@@ -24011,6 +29775,44 @@ export const ZH_TOURS: Record<string, TourT> = {
    "乌达瓦拉维野生动物园之旅吉普车租赁"
   ]
  },
+ "sri-lanka-sinharaja-rainforest-tour-from-colombo": {
+  "title": "斯里兰卡：辛哈拉加雨林游览，从科伦坡、本托塔出发",
+  "metaTitle": "斯里兰卡：辛哈拉加雨林游览，从科伦坡、本托塔出发",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Sinharaja Forest Reserve。由Serendipity tours (private) Limited提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Sinharaja Forest Reserve。由Serendipity tours (private) Limited提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Sinharaja Forest Reserve。最长的一站是Sinharaja Forest Reserve，约4小时。\n\n由Serendipity tours (private) Limited负责安排，价格中含5项内容。可免费取消。徒步穿越雨林，了解迷人的动植物。\n\n价格包含酒店接送、当地午餐、所有门票费用、全部税费。不包含小费，请另行预算。两位旅客共同支付528美元，而不是每人各付400美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Sinharaja Forest Reserve。由Serendipity tours (private) Limited提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "当地午餐",
+   "所有门票费用",
+   "全部税费"
+  ],
+  "notIncluded": [
+   "小费"
+  ]
+ },
+ "ella-waterfall-hunter-guided-tour-with-lunch": {
+  "title": "埃拉：导游带领的寻瀑之旅，含午餐",
+  "metaTitle": "埃拉：导游带领的寻瀑之旅，含午餐",
+  "metaDescription": "一次全天的Ella体验。感受探寻隐秘瀑布及葱郁绿意的刺激。由Ella day Tours提供。",
+  "shortDescription": "一次全天的Ella体验。感受探寻隐秘瀑布及葱郁绿意的刺激。由Ella day Tours提供。",
+  "fullDescription": "一次全天的Ella体验。感受探寻隐秘瀑布及葱郁绿意的刺激。\n\n由Ella day Tours负责安排，价格中含7项内容。可免费取消。\n\n价格包含埃拉酒店接送、瓶装水、乘嘟嘟车的私人交通、团体可选车辆。不包含徒步装备或服装，请另行预算。两位旅客共同支付271美元，而不是每人各付214美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "感受探寻隐秘瀑布及葱郁绿意的刺激"
+  ],
+  "included": [
+   "埃拉酒店接送",
+   "瓶装水",
+   "乘嘟嘟车的私人交通",
+   "团体可选车辆"
+  ],
+  "notIncluded": [
+   "徒步装备或服装"
+  ]
+ },
  "transfers-from-bandaranayake-airport": {
   "title": "班达拉奈克机场接送",
   "metaTitle": "班达拉奈克机场接送",
@@ -24090,6 +29892,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮"
   ]
  },
+ "nanuoya-train-station-to-kandy-tea-plucking-tea": {
+  "title": "纳奴奥亚火车站至康提，含采茶及品茶",
+  "metaTitle": "纳奴奥亚火车站至康提，含采茶及品茶",
+  "metaDescription": "一次从Kandy出发的半天行程，游览Finish at:。由beliveinn tours & travel提供。",
+  "shortDescription": "一次从Kandy出发的半天行程，游览Finish at:。由beliveinn tours & travel提供。",
+  "fullDescription": "一次从Kandy出发的半天行程，途经Finish at:。\n\n价格包含私人车辆、司机、从纳奴奥亚火车站接客、参观茶厂及茶园。不包含餐饮、个人消费、门票费用（如适用），请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的半天行程，游览Finish at:。由beliveinn tours & travel提供。"
+  ],
+  "included": [
+   "私人车辆",
+   "司机",
+   "从纳奴奥亚火车站接客",
+   "参观茶厂及茶园"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "个人消费",
+   "门票费用（如适用）"
+  ]
+ },
  "kandy-5-royal-temples-cultural-heritage-tuk-tuk": {
   "title": "康提：5座皇家寺庙及文化古迹嘟嘟车之旅",
   "metaTitle": "康提：5座皇家寺庙及文化古迹嘟嘟车之旅",
@@ -24146,6 +29969,28 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮"
   ]
  },
+ "ella-day-trip-from-down-south-with-return-transfer": {
+  "title": "从南部出发的埃拉一日游，含往返接送",
+  "metaTitle": "从南部出发的埃拉一日游，含往返接送",
+  "metaDescription": "一次从Ella出发的半天行程，游览Rawana waterfall upper viewpoint, Little Adam's Peak, Nine Arch Bridge和Ella Organic Tea Garden。由Lion Tours & Transport (PVT) LTD提供。",
+  "shortDescription": "一次从Ella出发的半天行程，游览Rawana waterfall upper viewpoint, Little Adam's Peak, Nine Arch Bridge和Ella Organic Tea Garden。由Lion Tours & Transport (PVT) LTD提供。",
+  "fullDescription": "一次从Ella出发的半天行程，途经Rawana waterfall upper viewpoint, Little Adam's Peak, Nine Arch Bridge和Ella Organic Tea Garden。全程共6站。\n\n行程顺序为Rawana waterfall upper viewpoint, 然后 Little Adam's Peak, 然后 Nine Arch Bridge, 然后 Ella Organic Tea Garden, 然后 Ella Train Trips。\n\n价格包含从乌纳瓦图纳、阿哈嘎马或维利加马接客、送达埃拉、专业当地司机、空调车辆、燃油及车辆费用。不包含餐饮、个人消费、可选活动，请另行预算。两位旅客共同支付286美元，而不是每人各付286美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Ella出发的半天行程，游览Rawana waterfall upper viewpoint, Little Adam's Peak, Nine Arch Bridge和Ella Organic Tea Garden。由Lion Tours & Transport (PVT) LTD提供。"
+  ],
+  "included": [
+   "从乌纳瓦图纳、阿哈嘎马或维利加马接客",
+   "送达埃拉",
+   "专业当地司机",
+   "空调车辆",
+   "燃油及车辆费用"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "个人消费",
+   "可选活动"
+  ]
+ },
  "ella-nine-arch-bridge-monastery-liptons-seat-tour": {
   "title": "埃拉：九拱桥、寺院及利普顿座之旅",
   "metaTitle": "埃拉：九拱桥、寺院及利普顿座之旅",
@@ -24166,6 +30011,47 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票费用"
   ]
  },
+ "from-colombo-6-day-private-sri-lanka-tour-with": {
+  "title": "科伦坡出发：斯里兰卡6日私人游览，配司机",
+  "metaTitle": "科伦坡出发：斯里兰卡6日私人游览，配司机",
+  "metaDescription": "一次6天的Colombo体验。与司机一起在6天私人游览中探索斯里兰卡。由Zenith Tour By Lk提供。",
+  "shortDescription": "一次6天的Colombo体验。与司机一起在6天私人游览中探索斯里兰卡。由Zenith Tour By Lk提供。",
+  "fullDescription": "一次6天的Colombo体验。与司机一起在6天私人游览中探索斯里兰卡。\n\n由Zenith Tour By Lk负责安排，价格中含9项内容。可免费取消。\n\n价格包含私人空调车辆、专业英语司机、从约定地点接客、最终送达。不包含酒店/住宿、餐饮、门票，请另行预算。两位旅客共同支付1099美元，而不是每人各付1099美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "与司机一起在6天私人游览中探索斯里兰卡"
+  ],
+  "included": [
+   "私人空调车辆",
+   "专业英语司机",
+   "从约定地点接客",
+   "最终送达"
+  ],
+  "notIncluded": [
+   "酒店/住宿",
+   "餐饮",
+   "门票"
+  ]
+ },
+ "pasikuda-to-sigiriya-village-tour-elephant-safari": {
+  "title": "帕西库达至锡吉里耶：乡村游览及观象野生动物园之旅",
+  "metaTitle": "帕西库达至锡吉里耶：乡村游览及观象野生动物园之旅",
+  "metaDescription": "一次从Sigiriya出发的全天行程，游览Sigiriya, No. 3 Village Safari和Minneriya National Park。由SHAN VACATION提供。",
+  "shortDescription": "一次从Sigiriya出发的全天行程，游览Sigiriya, No. 3 Village Safari和Minneriya National Park。由SHAN VACATION提供。",
+  "fullDescription": "一次从Sigiriya出发的全天行程，途经Sigiriya, No. 3 Village Safari和Minneriya National Park。最长的一站是Minneriya National Park，约3小时。全程共3站。\n\n行程顺序为Sigiriya (2h), 然后 No. 3 Village Safari (2h), 然后 Minneriya National Park (3h)。\n\n价格包含专业持证司机、酒店接送、参观锡吉里耶狮子岩、锡吉里耶村体验。不包含门票不含、个人消费，请另行预算。",
+  "highlights": [
+   "一次从Sigiriya出发的全天行程，游览Sigiriya, No. 3 Village Safari和Minneriya National Park。由SHAN VACATION提供。"
+  ],
+  "included": [
+   "专业持证司机",
+   "酒店接送",
+   "参观锡吉里耶狮子岩",
+   "锡吉里耶村体验"
+  ],
+  "notIncluded": [
+   "门票不含",
+   "个人消费"
+  ]
+ },
  "sri-lanka-12-day-private-tour-with-french": {
   "title": "斯里兰卡：12日私人游览，配法语向导",
   "metaTitle": "斯里兰卡：12日私人游览，配法语向导",
@@ -24183,6 +30069,46 @@ export const ZH_TOURS: Record<string, TourT> = {
    "景点门票费用",
    "付费活动",
    "住宿"
+  ]
+ },
+ "colombo-to-sigiriya-privert-transfer-optional": {
+  "title": "科伦坡至锡吉里耶私人接送：可选明内里耶",
+  "metaTitle": "科伦坡至锡吉里耶私人接送：可选明内里耶",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Finish at:。由Ceyloney提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Finish at:。由Ceyloney提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Finish at:。\n\n价格包含从科伦坡出发的私人交通、科伦坡酒店/住宿接客、空调车辆、专业当地司机。不包含锡吉里耶岩门票、丹布勒石窟寺门票、明内里耶国家公园门票，请另行预算。两位旅客共同支付288美元，而不是每人各付288美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Finish at:。由Ceyloney提供。"
+  ],
+  "included": [
+   "从科伦坡出发的私人交通",
+   "科伦坡酒店/住宿接客",
+   "空调车辆",
+   "专业当地司机"
+  ],
+  "notIncluded": [
+   "锡吉里耶岩门票",
+   "丹布勒石窟寺门票",
+   "明内里耶国家公园门票"
+  ]
+ },
+ "from-tangalle-galle-scooter-ride-with-dinner": {
+  "title": "坦加拉出发：加勒摩托车之旅，含晚餐",
+  "metaTitle": "坦加拉出发：加勒摩托车之旅，含晚餐",
+  "metaDescription": "一次全天的Galle体验。在导游带领的摩托车游览中探索斯里兰卡南部海岸。由tusker sri lanka提供。",
+  "shortDescription": "一次全天的Galle体验。在导游带领的摩托车游览中探索斯里兰卡南部海岸。由tusker sri lanka提供。",
+  "fullDescription": "一次全天的Galle体验。在导游带领的摩托车游览中探索斯里兰卡南部海岸。\n\n由tusker sri lanka负责安排，价格中含3项内容。可免费取消。\n\n价格包含摩托车租赁、导游讲解观光游览、加勒或南部海岸的晚餐。不包含个人消费、旅游保险，请另行预算。",
+  "highlights": [
+   "在导游带领的摩托车游览中探索斯里兰卡南部海岸"
+  ],
+  "included": [
+   "摩托车租赁",
+   "导游讲解观光游览",
+   "加勒或南部海岸的晚餐"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "旅游保险"
   ]
  },
  "galle-full-day-tour-from-katunayake-negombo": {
@@ -24226,6 +30152,66 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "from-colombo-airport-sigiriya-transfer-via": {
+  "title": "科伦坡机场出发：锡吉里耶接送，途经亚帕胡瓦",
+  "metaTitle": "科伦坡机场出发：锡吉里耶接送，途经亚帕胡瓦",
+  "metaDescription": "一次全天的Colombo体验。乘私人交通从科伦坡机场前往锡吉里耶。由Best Sritaxis提供。",
+  "shortDescription": "一次全天的Colombo体验。乘私人交通从科伦坡机场前往锡吉里耶。由Best Sritaxis提供。",
+  "fullDescription": "一次全天的Colombo体验。乘私人交通从科伦坡机场前往锡吉里耶。\n\n由Best Sritaxis负责安排，价格中含7项内容。可免费取消。\n\n价格包含私人空调车辆、机场接机、锡吉里耶酒店送达、参观亚帕胡瓦古王国。不包含个人消费、小费，请另行预算。两位旅客共同支付254美元，而不是每人各付254美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "乘私人交通从科伦坡机场前往锡吉里耶"
+  ],
+  "included": [
+   "私人空调车辆",
+   "机场接机",
+   "锡吉里耶酒店送达",
+   "参观亚帕胡瓦古王国"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费"
+  ]
+ },
+ "kandy-to-ella-luggage-free-train-tea-experience": {
+  "title": "康提至埃拉：轻装火车之旅及茶文化体验",
+  "metaTitle": "康提至埃拉：轻装火车之旅及茶文化体验",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Visitor center, Nanuoya和Finish at:。由LankaTrailMate提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Visitor center, Nanuoya和Finish at:。由LankaTrailMate提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Visitor center, Nanuoya和Finish at:。最长的一站是Visitor center，约1小时。全程共3站。\n\n行程顺序为Visitor center (1h), 然后 Nanuoya, 然后 Finish at:。\n\n价格包含私人空调轿车交通、康提酒店接客、专业私人司机、茶乡体验。不包含餐饮、个人消费、小费，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Visitor center, Nanuoya和Finish at:。由LankaTrailMate提供。"
+  ],
+  "included": [
+   "私人空调轿车交通",
+   "康提酒店接客",
+   "专业私人司机",
+   "茶乡体验"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "个人消费",
+   "小费"
+  ]
+ },
+ "ella-kumbalwela-monastery-tuk-tuk-ride": {
+  "title": "埃拉：库巴尔维拉寺院嘟嘟车之旅",
+  "metaTitle": "埃拉：库巴尔维拉寺院嘟嘟车之旅",
+  "metaDescription": "一次2小时的Ella体验。享受穿越埃拉周边秀丽山地的风光嘟嘟车之旅。由Ella tuk tuk and taxi service提供。",
+  "shortDescription": "一次2小时的Ella体验。享受穿越埃拉周边秀丽山地的风光嘟嘟车之旅。由Ella tuk tuk and taxi service提供。",
+  "fullDescription": "一次2小时的Ella体验。享受穿越埃拉周边秀丽山地的风光嘟嘟车之旅。\n\n由Ella tuk tuk and taxi service负责安排，价格中含4项内容。可免费取消。\n\n价格包含从埃拉出发的风光嘟嘟车之旅、参观库巴尔维拉玛哈梅夫纳瓦禅修中心、埃拉酒店接送、当地嘟嘟车司机。",
+  "highlights": [
+   "享受穿越埃拉周边秀丽山地的风光嘟嘟车之旅"
+  ],
+  "included": [
+   "从埃拉出发的风光嘟嘟车之旅",
+   "参观库巴尔维拉玛哈梅夫纳瓦禅修中心",
+   "埃拉酒店接送",
+   "当地嘟嘟车司机"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "pidurangala-rock-minneriya-safari-village-day-tour": {
   "title": "皮杜兰加拉岩、明内里耶野生动物园及乡村一日游",
   "metaTitle": "皮杜兰加拉岩、明内里耶野生动物园及乡村一日游",
@@ -24244,6 +30230,67 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐食",
    "个人消费",
+   "景点门票"
+  ]
+ },
+ "from-colombo-kandy-private-tour": {
+  "title": "科伦坡出发：康提私人游览",
+  "metaTitle": "科伦坡出发：康提私人游览",
+  "metaDescription": "一次全天的Colombo体验。登上安布鲁瓦瓦塔，欣赏斯里兰卡茶乡360度景观。由Victoria tour pvt ltd提供。",
+  "shortDescription": "一次全天的Colombo体验。登上安布鲁瓦瓦塔，欣赏斯里兰卡茶乡360度景观。由Victoria tour pvt ltd提供。",
+  "fullDescription": "一次全天的Colombo体验。登上安布鲁瓦瓦塔，欣赏斯里兰卡茶乡360度景观。\n\n由Victoria tour pvt ltd负责安排，价格中含12项内容。可免费取消。\n\n价格包含科伦坡酒店接客、安布鲁瓦瓦门票及嘟嘟车上下山接送、参观内利加拉国际佛教中心、与象同行。",
+  "highlights": [
+   "登上安布鲁瓦瓦塔，欣赏斯里兰卡茶乡360度景观"
+  ],
+  "included": [
+   "科伦坡酒店接客",
+   "安布鲁瓦瓦门票及嘟嘟车上下山接送",
+   "参观内利加拉国际佛教中心",
+   "与象同行"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "from-kandy-nuwara-eliya-tour-with-ambuluwawa": {
+  "title": "康提出发：努沃勒埃利耶游览，含安布鲁瓦瓦及瀑布",
+  "metaTitle": "康提出发：努沃勒埃利耶游览，含安布鲁瓦瓦及瀑布",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Finish at:。由CG Adventure Tour提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Finish at:。由CG Adventure Tour提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Finish at:。\n\n价格包含参观安布鲁瓦瓦塔、参观兰博达瀑布、参观茶园、参观蔬菜种植区。不包含餐食、个人消费，请另行预算。两位旅客共同支付89美元，而不是每人各付89美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Finish at:。由CG Adventure Tour提供。"
+  ],
+  "included": [
+   "参观安布鲁瓦瓦塔",
+   "参观兰博达瀑布",
+   "参观茶园",
+   "参观蔬菜种植区"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
+  ]
+ },
+ "sri-lanka-8-day-private-tour-with-a-french": {
+  "title": "斯里兰卡：8日私人游览，配法语司机兼导游",
+  "metaTitle": "斯里兰卡：8日私人游览，配法语司机兼导游",
+  "metaDescription": "一次从Kandy出发的8天行程，游览Transport to Sigiriya or Habarana, Sigiriya Lion Rock, Traditional village of Sigiriya和Ayurvedic experience。由BANDU VOTRE GUIDE FRANCOPHONE提供。",
+  "shortDescription": "一次从Kandy出发的8天行程，游览Transport to Sigiriya or Habarana, Sigiriya Lion Rock, Traditional village of Sigiriya和Ayurvedic experience。由BANDU VOTRE GUIDE FRANCOPHONE提供。",
+  "fullDescription": "一次从Kandy出发的8天行程，途经Transport to Sigiriya or Habarana, Sigiriya Lion Rock, Traditional village of Sigiriya和Ayurvedic experience。全程共25站。\n\n行程顺序为Transport to Sigiriya or Habarana, 然后 Sigiriya Lion Rock, 然后 Traditional village of Sigiriya, 然后 Ayurvedic experience, 然后 Ancient City of Polonnaruwa。\n\n价格包含法语司机兼导游服务、私人空调交通、燃油、停车费用、高速公路通行费（如适用）。不包含参与者住宿、饮品及食物、景点门票，请另行预算。两位旅客共同支付2781美元，而不是每人各付2781美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的8天行程，游览Transport to Sigiriya or Habarana, Sigiriya Lion Rock, Traditional village of Sigiriya和Ayurvedic experience。由BANDU VOTRE GUIDE FRANCOPHONE提供。"
+  ],
+  "included": [
+   "法语司机兼导游服务",
+   "私人空调交通",
+   "燃油",
+   "停车费用",
+   "高速公路通行费（如适用）"
+  ],
+  "notIncluded": [
+   "参与者住宿",
+   "饮品及食物",
    "景点门票"
   ]
  },
@@ -24268,6 +30315,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "from-kandy-2-day-highlands-tour-to-ella-with": {
+  "title": "康提出发：2日高地游览，前往埃拉，含农场住宿",
+  "metaTitle": "康提出发：2日高地游览，前往埃拉，含农场住宿",
+  "metaDescription": "一次从Kandy出发的2天行程，游览Visit Ramboda Waterfall, Visit Tea Factory And Tea Plantation, Visit Nuwara Eliya City和Lunch。由Sams Tours Lanka提供。",
+  "shortDescription": "一次从Kandy出发的2天行程，游览Visit Ramboda Waterfall, Visit Tea Factory And Tea Plantation, Visit Nuwara Eliya City和Lunch。由Sams Tours Lanka提供。",
+  "fullDescription": "一次从Kandy出发的2天行程，途经Visit Ramboda Waterfall, Visit Tea Factory And Tea Plantation, Visit Nuwara Eliya City和Lunch。全程共6站。\n\n行程顺序为Visit Ramboda Waterfall, 然后 Visit Tea Factory And Tea Plantation, 然后 Visit Nuwara Eliya City, 然后 Lunch, 然后 Early Morning Visit Horton Plains。\n\n价格包含从康提到埃拉的私人交通、康提酒店接送、2天行程全程交通、经验丰富的英语司机兼导游。不包含第2天午餐、个人消费、小费，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的2天行程，游览Visit Ramboda Waterfall, Visit Tea Factory And Tea Plantation, Visit Nuwara Eliya City和Lunch。由Sams Tours Lanka提供。"
+  ],
+  "included": [
+   "从康提到埃拉的私人交通",
+   "康提酒店接送",
+   "2天行程全程交通",
+   "经验丰富的英语司机兼导游"
+  ],
+  "notIncluded": [
+   "第2天午餐",
+   "个人消费",
+   "小费"
+  ]
+ },
  "from-bentota-private-colombo-city-sightseeing-tour": {
   "title": "本托塔出发：科伦坡市区私人观光之旅",
   "metaTitle": "本托塔出发：科伦坡市区私人观光之旅",
@@ -24287,6 +30355,67 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票",
    "餐饮",
    "个人消费"
+  ]
+ },
+ "mirissa-private-whale-watching-snorkeling-fishing": {
+  "title": "米瑞沙：私人观鲸、浮潜及捕鱼之旅",
+  "metaTitle": "米瑞沙：私人观鲸、浮潜及捕鱼之旅",
+  "metaDescription": "一次从Mirissa出发的半天行程，游览Motorized tuk tuk和Secret stop。由Mirissa Whale Snorkeling Tour提供。",
+  "shortDescription": "一次从Mirissa出发的半天行程，游览Motorized tuk tuk和Secret stop。由Mirissa Whale Snorkeling Tour提供。",
+  "fullDescription": "一次从Mirissa出发的半天行程，途经Motorized tuk tuk和Secret stop。最长的一站是Secret stop，约5小时。全程共2站。\n\n行程顺序为Motorized tuk tuk (15 min), 然后 Secret stop (5h)。\n\n价格包含私人海洋探险、观鲸观豚、海龟浮潜、开放水域浮潜。",
+  "highlights": [
+   "一次从Mirissa出发的半天行程，游览Motorized tuk tuk和Secret stop。由Mirissa Whale Snorkeling Tour提供。"
+  ],
+  "included": [
+   "私人海洋探险",
+   "观鲸观豚",
+   "海龟浮潜",
+   "开放水域浮潜"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "colombo-airport-negombo-highlights-hotel-drop-off": {
+  "title": "科伦坡机场：尼甘布精华景点及酒店送达",
+  "metaTitle": "科伦坡机场：尼甘布精华景点及酒店送达",
+  "metaDescription": "一次2小时的Colombo体验。以专属机场接机开启您的假期。由Crystal Ceylon Tours提供。",
+  "shortDescription": "一次2小时的Colombo体验。以专属机场接机开启您的假期。由Crystal Ceylon Tours提供。",
+  "fullDescription": "一次2小时的Colombo体验。以专属机场接机开启您的假期。\n\n由Crystal Ceylon Tours负责安排，价格中含8项内容。可免费取消。\n\n价格包含机场接机，专属姓名牌迎接、私人空调车辆、英语司机兼导游、行李协助。不包含门票费用（如需要）、餐食及额外饮品、个人消费、小费，请另行预算。",
+  "highlights": [
+   "以专属机场接机开启您的假期"
+  ],
+  "included": [
+   "机场接机，专属姓名牌迎接",
+   "私人空调车辆",
+   "英语司机兼导游",
+   "行李协助"
+  ],
+  "notIncluded": [
+   "门票费用（如需要）",
+   "餐食及额外饮品",
+   "个人消费",
+   "小费"
+  ]
+ },
+ "sigiriya-kandy-day-trip": {
+  "title": "锡吉里耶及康提一日游",
+  "metaTitle": "锡吉里耶及康提一日游",
+  "metaDescription": "一次全天的Kandy体验。在一日游中探索丹布勒金寺及锡吉里耶狮子岩。由Asanka tour Sri Lanka提供。",
+  "shortDescription": "一次全天的Kandy体验。在一日游中探索丹布勒金寺及锡吉里耶狮子岩。由Asanka tour Sri Lanka提供。",
+  "fullDescription": "一次全天的Kandy体验。在一日游中探索丹布勒金寺及锡吉里耶狮子岩。\n\n由Asanka tour Sri Lanka负责安排，价格中含5项内容。可免费取消。\n\n价格包含私人空调交通、参观丹布勒金寺、参观锡吉里耶狮子岩、专业的当地见解。不包含餐食、门票费用，请另行预算。两位旅客共同支付107美元，而不是每人各付107美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在一日游中探索丹布勒金寺及锡吉里耶狮子岩"
+  ],
+  "included": [
+   "私人空调交通",
+   "参观丹布勒金寺",
+   "参观锡吉里耶狮子岩",
+   "专业的当地见解"
+  ],
+  "notIncluded": [
+   "餐食",
+   "门票费用"
   ]
  },
  "from-kandy-ramboda-falls-nuwara-eliya-by-tuk-tuk": {
@@ -24310,6 +30439,87 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "5-day-sri-lanka-highlights-tour-with-japanese": {
+  "title": "5日斯里兰卡精华游览，配日语导游及火车之旅",
+  "metaTitle": "5日斯里兰卡精华游览，配日语导游及火车之旅",
+  "metaDescription": "一次5天的Kandy体验。参观联合国教科文组织世界遗产。由Jp Ceylon Holiday提供。",
+  "shortDescription": "一次5天的Kandy体验。参观联合国教科文组织世界遗产。由Jp Ceylon Holiday提供。",
+  "fullDescription": "一次5天的Kandy体验。参观联合国教科文组织世界遗产。\n\n由Jp Ceylon Holiday负责安排，价格中含11项内容。可免费取消。\n\n价格包含全程私人交通、专业日语司机/导游、从科伦坡或尼甘布出发的酒店接送、科伦坡或尼甘布酒店送达。不包含个人消费、饮品及含酒精饮料、小费，请另行预算。两位旅客共同支付3746美元，而不是每人各付2968美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "参观联合国教科文组织世界遗产"
+  ],
+  "included": [
+   "全程私人交通",
+   "专业日语司机/导游",
+   "从科伦坡或尼甘布出发的酒店接送",
+   "科伦坡或尼甘布酒店送达"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "饮品及含酒精饮料",
+   "小费"
+  ]
+ },
+ "colombo-day-tour-local-experience": {
+  "title": "科伦坡一日游及当地体验",
+  "metaTitle": "科伦坡一日游及当地体验",
+  "metaDescription": "一次半天的Colombo体验。在私人市区游览中探索科伦坡丰富的文化遗产。由Zenith Tour By Lk提供。",
+  "shortDescription": "一次半天的Colombo体验。在私人市区游览中探索科伦坡丰富的文化遗产。由Zenith Tour By Lk提供。",
+  "fullDescription": "一次半天的Colombo体验。在私人市区游览中探索科伦坡丰富的文化遗产。\n\n由Zenith Tour By Lk负责安排，价格中含12项内容。可免费取消。\n\n价格包含私人车辆接送、当地英语主人/司机、参观加勒菲斯绿地、参观科伦坡海滨及采蒂亚路。不包含门票费用，除明确说明已含外、餐食、个人购物，请另行预算。两位旅客共同支付128美元，而不是每人各付128美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在私人市区游览中探索科伦坡丰富的文化遗产"
+  ],
+  "included": [
+   "私人车辆接送",
+   "当地英语主人/司机",
+   "参观加勒菲斯绿地",
+   "参观科伦坡海滨及采蒂亚路"
+  ],
+  "notIncluded": [
+   "门票费用，除明确说明已含外",
+   "餐食",
+   "个人购物"
+  ]
+ },
+ "4-day-private-sri-lanka-tour-with-safari": {
+  "title": "4日斯里兰卡私人游览，含野生动物园之旅",
+  "metaTitle": "4日斯里兰卡私人游览，含野生动物园之旅",
+  "metaDescription": "一次从Colombo出发的4天行程，游览Katunayake to Kandy, Spice Gardens, Ancient Caves & Cultural Treasures, Sigiriya ,Village ,Elephant和Scenic Journey & Colombo City Tour。由Sri Ce...",
+  "shortDescription": "一次从Colombo出发的4天行程，游览Katunayake to Kandy, Spice Gardens, Ancient Caves & Cultural Treasures, Sigiriya ,Village ,Elephant和Scenic Journey & Colombo City Tour。由Sri Ceilao Tours提供。",
+  "fullDescription": "一次从Colombo出发的4天行程，途经Katunayake to Kandy, Spice Gardens, Ancient Caves & Cultural Treasures, Sigiriya ,Village ,Elephant和Scenic Journey & Colombo City Tour。全程共4站。\n\n行程顺序为Katunayake to Kandy, 然后 Spice Gardens, Ancient Caves & Cultural Treasures, 然后 Sigiriya ,Village ,Elephant, 然后 Scenic Journey & Colombo City Tour。\n\n价格包含全程私人空调车辆、专业英语司机兼导游、从卡图纳亚克机场接机、旅游保险。不包含景点及古迹门票、锡吉里耶狮子岩门票、丹布勒石窟寺门票费用，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的4天行程，游览Katunayake to Kandy, Spice Gardens, Ancient Caves & Cultural Treasures, Sigiriya ,Village ,Elephant和Scenic Journey & Colombo City Tour。由Sri Ceilao Tours提供。"
+  ],
+  "included": [
+   "全程私人空调车辆",
+   "专业英语司机兼导游",
+   "从卡图纳亚克机场接机",
+   "旅游保险"
+  ],
+  "notIncluded": [
+   "景点及古迹门票",
+   "锡吉里耶狮子岩门票",
+   "丹布勒石窟寺门票费用"
+  ]
+ },
+ "sigiriya-night-wildlife-tour-with-jeep-and-guide": {
+  "title": "锡吉里耶：夜间野生动物之旅，含吉普车及向导",
+  "metaTitle": "锡吉里耶：夜间野生动物之旅，含吉普车及向导",
+  "metaDescription": "一次从Sigiriya出发的3小时行程，游览Sigiriya。由Watching Lanka提供。",
+  "shortDescription": "一次从Sigiriya出发的3小时行程，游览Sigiriya。由Watching Lanka提供。",
+  "fullDescription": "一次从Sigiriya出发的3小时行程，途经Sigiriya。\n\n价格包含白光及红光手电筒、赠送瓶装水、游览前的简短说明。",
+  "highlights": [
+   "一次从Sigiriya出发的3小时行程，游览Sigiriya。由Watching Lanka提供。"
+  ],
+  "included": [
+   "白光及红光手电筒",
+   "赠送瓶装水",
+   "游览前的简短说明"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "sri-lanka-21-day-private-tour-with-chauffeur": {
   "title": "斯里兰卡：21日私人游览，配专职司机",
   "metaTitle": "斯里兰卡：21日私人游览，配专职司机",
@@ -24329,6 +30539,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票费用",
    "住宿",
    "餐食"
+  ]
+ },
+ "from-negombo-colombo-highlights-guided-tour": {
+  "title": "尼甘布出发：科伦坡精华导游讲解游览",
+  "metaTitle": "尼甘布出发：科伦坡精华导游讲解游览",
+  "metaDescription": "一次从Negombo出发的全天行程，游览Gangaramaya Temple, Pettah Market, Jami Ul-Alfar Mosque和Colombo Lotus Tower。由Getaway Ceylon提供。",
+  "shortDescription": "一次从Negombo出发的全天行程，游览Gangaramaya Temple, Pettah Market, Jami Ul-Alfar Mosque和Colombo Lotus Tower。由Getaway Ceylon提供。",
+  "fullDescription": "一次从Negombo出发的全天行程，途经Gangaramaya Temple, Pettah Market, Jami Ul-Alfar Mosque和Colombo Lotus Tower。最长的一站是Gangaramaya Temple，约1小时。全程共6站。\n\n行程顺序为Gangaramaya Temple (1h), 然后 Pettah Market (1h), 然后 Jami Ul-Alfar Mosque (1h), 然后 Colombo Lotus Tower (1h), 然后 Independence Square, Colombo (45 min)。\n\n价格包含参观甘加拉玫寺、参观锡玛马拉卡殿、探索佩塔市场、参观科伦坡要塞。不包含餐食、个人消费、门票费用，请另行预算。",
+  "highlights": [
+   "一次从Negombo出发的全天行程，游览Gangaramaya Temple, Pettah Market, Jami Ul-Alfar Mosque和Colombo Lotus Tower。由Getaway Ceylon提供。"
+  ],
+  "included": [
+   "参观甘加拉玫寺",
+   "参观锡玛马拉卡殿",
+   "探索佩塔市场",
+   "参观科伦坡要塞"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "门票费用"
   ]
  },
  "ella-kandy-drop-tour-with-nanu-oya-train-ride": {
@@ -24411,6 +30642,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "colombo-custom-city-tour-with-refreshments": {
+  "title": "科伦坡：定制市区游览，含茶点",
+  "metaTitle": "科伦坡：定制市区游览，含茶点",
+  "metaDescription": "一次半天的Colombo体验。与当地导游一起在定制市区游览中探索科伦坡。由Kings Ceylon Gems & Tours提供。",
+  "shortDescription": "一次半天的Colombo体验。与当地导游一起在定制市区游览中探索科伦坡。由Kings Ceylon Gems & Tours提供。",
+  "fullDescription": "一次半天的Colombo体验。与当地导游一起在定制市区游览中探索科伦坡。\n\n由Kings Ceylon Gems & Tours负责安排，价格中含8项内容。可免费取消。\n\n价格包含参观甘加拉玫寺、参观加勒菲斯绿地海滨步道、参观独立广场、参观科伦坡国家博物馆。不包含餐食、景点门票费用，请另行预算。",
+  "highlights": [
+   "与当地导游一起在定制市区游览中探索科伦坡"
+  ],
+  "included": [
+   "参观甘加拉玫寺",
+   "参观加勒菲斯绿地海滨步道",
+   "参观独立广场",
+   "参观科伦坡国家博物馆"
+  ],
+  "notIncluded": [
+   "餐食",
+   "景点门票费用"
+  ]
+ },
  "kandy-ancient-3-temples-hidden-heritage-private": {
   "title": "康提：3座古寺及隐秘古迹私人游览",
   "metaTitle": "康提：3座古寺及隐秘古迹私人游览",
@@ -24428,6 +30679,47 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "门票"
+  ]
+ },
+ "galle-koggala-boat-safari-turtle-farm-beach-galle": {
+  "title": "加勒：科加拉游船野生动物园之旅、海龟养殖场、海滩及加勒古堡",
+  "metaTitle": "加勒：科加拉游船野生动物园之旅、海龟养殖场、海滩及加勒古堡",
+  "metaDescription": "一次从Galle出发的半天行程，游览Galle。由Taprobane Tours提供。",
+  "shortDescription": "一次从Galle出发的半天行程，游览Galle。由Taprobane Tours提供。",
+  "fullDescription": "一次从Galle出发的半天行程，途经Galle。最长的一站是Galle，约5小时。\n\n价格包含私人交通、海龟体验、专业英语司机兼导游、加勒古堡导游讲解游览。不包含科加拉湖游船野生动物园费用：每人17美元、海龟保护农场门票：每人6美元，请另行预算。",
+  "highlights": [
+   "一次从Galle出发的半天行程，游览Galle。由Taprobane Tours提供。"
+  ],
+  "included": [
+   "私人交通",
+   "海龟体验",
+   "专业英语司机兼导游",
+   "加勒古堡导游讲解游览"
+  ],
+  "notIncluded": [
+   "科加拉湖游船野生动物园费用：每人17美元",
+   "海龟保护农场门票：每人6美元"
+  ]
+ },
+ "ella-the-nightlife-experience": {
+  "title": "埃拉：夜生活体验",
+  "metaTitle": "埃拉：夜生活体验",
+  "metaDescription": "一次从Ella出发的半天行程，游览Ella, Sri Lanka, Hiking Bar & Restaurant, 46 Wellawaya-Ella-Kumbalwela Hwy和Cafe Chill。由Nova Ella, House of experience提供。",
+  "shortDescription": "一次从Ella出发的半天行程，游览Ella, Sri Lanka, Hiking Bar & Restaurant, 46 Wellawaya-Ella-Kumbalwela Hwy和Cafe Chill。由Nova Ella, House of experience提供。",
+  "fullDescription": "一次从Ella出发的半天行程，途经Ella, Sri Lanka, Hiking Bar & Restaurant, 46 Wellawaya-Ella-Kumbalwela Hwy和Cafe Chill。最长的一站是Cafe Chill，约2小时。全程共4站。\n\n行程顺序为Ella, Sri Lanka (1h), 然后 Hiking Bar & Restaurant (1h), 然后 46 Wellawaya-Ella-Kumbalwela Hwy (1h), 然后 Cafe Chill (2h)。\n\n价格包含当地英语导游、导游带领的埃拉周边夜生活体验、参观指定夜生活场所、协助寻找最佳现场音乐及娱乐场所。不包含餐饮、个人消费、小费，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的半天行程，游览Ella, Sri Lanka, Hiking Bar & Restaurant, 46 Wellawaya-Ella-Kumbalwela Hwy和Cafe Chill。由Nova Ella, House of experience提供。"
+  ],
+  "included": [
+   "当地英语导游",
+   "导游带领的埃拉周边夜生活体验",
+   "参观指定夜生活场所",
+   "协助寻找最佳现场音乐及娱乐场所"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "个人消费",
+   "小费"
   ]
  },
  "bentota-private-river-photography-wildlife": {
@@ -24448,6 +30740,65 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐饮",
    "个人消费"
+  ]
+ },
+ "sigiriya-or-dambulla-to-kandy-private-transfer": {
+  "title": "锡吉里耶或丹布勒至康提：私人接送",
+  "metaTitle": "锡吉里耶或丹布勒至康提：私人接送",
+  "metaDescription": "一次3小时的Kandy体验。舒适空调车辆及专业司机。由Padraig Lanka Tours提供。",
+  "shortDescription": "一次3小时的Kandy体验。舒适空调车辆及专业司机。由Padraig Lanka Tours提供。",
+  "fullDescription": "一次3小时的Kandy体验。舒适空调车辆及专业司机。\n\n由Padraig Lanka Tours负责安排，价格中含9项内容。可免费取消。\n\n价格包含舒适的空调车辆、瓶装水、英语司机、停车票、马特莱草药及香料园。不包含餐食、个人消费、额外活动或游览，请另行预算。",
+  "highlights": [
+   "舒适空调车辆及专业司机"
+  ],
+  "included": [
+   "舒适的空调车辆",
+   "瓶装水",
+   "英语司机",
+   "停车票",
+   "马特莱草药及香料园"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "额外活动或游览"
+  ]
+ },
+ "colombo-city-highlights-cluture-and-temples": {
+  "title": "科伦坡：城市精华、文化及寺庙导游讲解游览",
+  "metaTitle": "科伦坡：城市精华、文化及寺庙导游讲解游览",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Kelaniya Temple, Gangaramaya Temple和Independence Square, Colombo。由Ceylon Traveline (PVT) LTD提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Kelaniya Temple, Gangaramaya Temple和Independence Square, Colombo。由Ceylon Traveline (PVT) LTD提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Kelaniya Temple, Gangaramaya Temple和Independence Square, Colombo。最长的一站是Kelaniya Temple，约2小时。全程共3站。\n\n行程顺序为Kelaniya Temple (2h), 然后 Gangaramaya Temple (1h), 然后 Independence Square, Colombo (1h)。\n\n价格包含参观凯拉尼耶寺、参观甘加拉玫寺、甘加拉玫寺及凯拉尼耶寺门票、参观锡玛马拉卡殿及贝拉湖。不包含餐饮，请另行预算。两位旅客共同支付320美元，而不是每人各付277美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Kelaniya Temple, Gangaramaya Temple和Independence Square, Colombo。由Ceylon Traveline (PVT) LTD提供。"
+  ],
+  "included": [
+   "参观凯拉尼耶寺",
+   "参观甘加拉玫寺",
+   "甘加拉玫寺及凯拉尼耶寺门票",
+   "参观锡玛马拉卡殿及贝拉湖"
+  ],
+  "notIncluded": [
+   "餐饮"
+  ]
+ },
+ "from-habaranasigiriya-kaudulla-national-park": {
+  "title": "哈巴拉纳/锡吉里耶出发：高杜拉国家公园野生动物园之旅",
+  "metaTitle": "哈巴拉纳/锡吉里耶出发：高杜拉国家公园野生动物园之旅",
+  "metaDescription": "一次半天的Sigiriya体验。在私人4x4吉普车野生动物园之旅中探索高杜拉国家公园。由Royal kandy tours提供。",
+  "shortDescription": "一次半天的Sigiriya体验。在私人4x4吉普车野生动物园之旅中探索高杜拉国家公园。由Royal kandy tours提供。",
+  "fullDescription": "一次半天的Sigiriya体验。在私人4x4吉普车野生动物园之旅中探索高杜拉国家公园。\n\n由Royal kandy tours负责安排，价格中含3项内容。可免费取消。\n\n价格包含私人四驱野生动物园吉普车、经验丰富的当地野生动物园司机兼导游、从哈巴拉纳或锡吉里耶地区出发的酒店接送。不包含高杜拉国家公园门票费用，请另行预算。两位旅客共同支付153美元，而不是每人各付140美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在私人4x4吉普车野生动物园之旅中探索高杜拉国家公园"
+  ],
+  "included": [
+   "私人四驱野生动物园吉普车",
+   "经验丰富的当地野生动物园司机兼导游",
+   "从哈巴拉纳或锡吉里耶地区出发的酒店接送"
+  ],
+  "notIncluded": [
+   "高杜拉国家公园门票费用"
   ]
  },
  "galle-culture-weaving-looms-and-coast-in-a-single": {
@@ -24489,6 +30840,45 @@ export const ZH_TOURS: Record<string, TourT> = {
    "景点门票",
    "个人消费",
    "小费"
+  ]
+ },
+ "nuwara-eliya-waterfalls-tour-with-guide-photo": {
+  "title": "努沃勒埃利耶：瀑布游览，配向导及拍照停靠点",
+  "metaTitle": "努沃勒埃利耶：瀑布游览，配向导及拍照停靠点",
+  "metaDescription": "一次从Nuwara Eliya出发的半天行程，游览Ramboda Falls, Srilanka, Devon Falls和St.Clair Waterfall Roadside View point。由Hill Sunrise Tours提供。",
+  "shortDescription": "一次从Nuwara Eliya出发的半天行程，游览Ramboda Falls, Srilanka, Devon Falls和St.Clair Waterfall Roadside View point。由Hill Sunrise Tours提供。",
+  "fullDescription": "一次从Nuwara Eliya出发的半天行程，途经Ramboda Falls, Srilanka, Devon Falls和St.Clair Waterfall Roadside View point。全程共3站。\n\n行程顺序为Ramboda Falls, Srilanka (30 min), 然后 Devon Falls (15 min), 然后 St.Clair Waterfall Roadside View point (20 min)。\n\n价格包含参观圣克莱尔瀑布、参观德文瀑布、参观兰博达瀑布、当地导游。不包含餐食、个人消费，请另行预算。",
+  "highlights": [
+   "一次从Nuwara Eliya出发的半天行程，游览Ramboda Falls, Srilanka, Devon Falls和St.Clair Waterfall Roadside View point。由Hill Sunrise Tours提供。"
+  ],
+  "included": [
+   "参观圣克莱尔瀑布",
+   "参观德文瀑布",
+   "参观兰博达瀑布",
+   "当地导游"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
+  ]
+ },
+ "ella-guided-day-tour-with-little-adams-peak-hike": {
+  "title": "埃拉：导游带领一日游，含小亚当峰徒步及午餐",
+  "metaTitle": "埃拉：导游带领一日游，含小亚当峰徒步及午餐",
+  "metaDescription": "一次从Ella出发的全天行程，游览Kinellan Tea Factory & Tea Centre, Dowa Ancient Rock Temple, Demodara Railway Loop Viewpoint和Kithalella。由Pekoe Lanka Tours提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Kinellan Tea Factory & Tea Centre, Dowa Ancient Rock Temple, Demodara Railway Loop Viewpoint和Kithalella。由Pekoe Lanka Tours提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Kinellan Tea Factory & Tea Centre, Dowa Ancient Rock Temple, Demodara Railway Loop Viewpoint和Kithalella。最长的一站是Little Adam's Peak，约2小时。全程共6站。\n\n行程顺序为Kinellan Tea Factory & Tea Centre (1h), 然后 Dowa Ancient Rock Temple (1h), 然后 Demodara Railway Loop Viewpoint (45 min), 然后 Kithalella, 然后 Nine Arch Bridge。\n\n价格包含英语当地导游、埃拉酒店接送、导游带领徒步登上小亚当峰、参观标志性的九拱桥。两位旅客共同支付241美元，而不是每人各付241美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Kinellan Tea Factory & Tea Centre, Dowa Ancient Rock Temple, Demodara Railway Loop Viewpoint和Kithalella。由Pekoe Lanka Tours提供。"
+  ],
+  "included": [
+   "英语当地导游",
+   "埃拉酒店接送",
+   "导游带领徒步登上小亚当峰",
+   "参观标志性的九拱桥"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "galle-bentota-madu-river-safari-full-day-tour": {
@@ -24552,6 +30942,67 @@ export const ZH_TOURS: Record<string, TourT> = {
    "我们每周三不发放门票"
   ]
  },
+ "sigiriya-to-ella-private-transfer-with": {
+  "title": "锡吉里耶至埃拉：私人接送，含观光",
+  "metaTitle": "锡吉里耶至埃拉：私人接送，含观光",
+  "metaDescription": "一次半天的Kandy体验。享受从锡吉里耶到埃拉的私人接送，途经观光停靠点。由Travelers Arc Sri Lanka提供。",
+  "shortDescription": "一次半天的Kandy体验。享受从锡吉里耶到埃拉的私人接送，途经观光停靠点。由Travelers Arc Sri Lanka提供。",
+  "fullDescription": "一次半天的Kandy体验。享受从锡吉里耶到埃拉的私人接送，途经观光停靠点。\n\n由Travelers Arc Sri Lanka负责安排，价格中含9项内容。可免费取消。\n\n价格包含从锡吉里耶到埃拉的私人单程交通、从您在锡吉里耶地区的住宿地点接客、送达您在埃拉的住宿地点（仅限市区范围内）、舒适的私人空调车辆。不包含景点门票、餐饮、个人消费，请另行预算。两位旅客共同支付195美元，而不是每人各付160美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "享受从锡吉里耶到埃拉的私人接送，途经观光停靠点"
+  ],
+  "included": [
+   "从锡吉里耶到埃拉的私人单程交通",
+   "从您在锡吉里耶地区的住宿地点接客",
+   "送达您在埃拉的住宿地点（仅限市区范围内）",
+   "舒适的私人空调车辆"
+  ],
+  "notIncluded": [
+   "景点门票",
+   "餐饮",
+   "个人消费"
+  ]
+ },
+ "kandy-ancient-lakes-sigiriya-landscape-wildlife": {
+  "title": "康提：古老湖泊、锡吉里耶风光及野生动物园之旅",
+  "metaTitle": "康提：古老湖泊、锡吉里耶风光及野生动物园之旅",
+  "metaDescription": "一次全天的Kandy体验。探索斯里兰卡古代灌溉景观及乡村风光。由Ceylon Brilliant Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。探索斯里兰卡古代灌溉景观及乡村风光。由Ceylon Brilliant Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。探索斯里兰卡古代灌溉景观及乡村风光。\n\n由Ceylon Brilliant Tours负责安排，价格中含9项内容。可免费取消。\n\n价格包含康提酒店接送、私人空调车辆、英语司机兼导游、参观古代灌溉景观。不包含国家公园门票费用、野生动物园费用、午餐，请另行预算。",
+  "highlights": [
+   "探索斯里兰卡古代灌溉景观及乡村风光"
+  ],
+  "included": [
+   "康提酒店接送",
+   "私人空调车辆",
+   "英语司机兼导游",
+   "参观古代灌溉景观"
+  ],
+  "notIncluded": [
+   "国家公园门票费用",
+   "野生动物园费用",
+   "午餐"
+  ]
+ },
+ "mirissa-lagoon-kayaking-tour-with-an-experienced": {
+  "title": "米瑞沙潟湖皮划艇之旅，配经验丰富的当地向导",
+  "metaTitle": "米瑞沙潟湖皮划艇之旅，配经验丰富的当地向导",
+  "metaDescription": "一次从Mirissa出发的2小时行程，游览Tuk tuk, Mirissa Kayak Safari Tours和WFWJ+GH。由Mirissa Kayak Safari Tours提供。",
+  "shortDescription": "一次从Mirissa出发的2小时行程，游览Tuk tuk, Mirissa Kayak Safari Tours和WFWJ+GH。由Mirissa Kayak Safari Tours提供。",
+  "fullDescription": "一次从Mirissa出发的2小时行程，途经Tuk tuk, Mirissa Kayak Safari Tours和WFWJ+GH。最长的一站是WFWJ+GH，约2小时。全程共3站。\n\n行程顺序为Tuk tuk (20 min), 然后 Mirissa Kayak Safari Tours (20 min), 然后 WFWJ+GH (2h)。\n\n价格包含皮划艇、船桨、救生衣、瓶装水。不包含活动结束后送达，请另行预算。",
+  "highlights": [
+   "一次从Mirissa出发的2小时行程，游览Tuk tuk, Mirissa Kayak Safari Tours和WFWJ+GH。由Mirissa Kayak Safari Tours提供。"
+  ],
+  "included": [
+   "皮划艇",
+   "船桨",
+   "救生衣",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "活动结束后送达"
+  ]
+ },
  "kandy-top-city-sights-agro-tech-park-visit-4": {
   "title": "康提市区热门景点及农业科技园4小时游览",
   "metaTitle": "康提市区热门景点及农业科技园4小时游览",
@@ -24572,6 +31023,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费",
    "餐食",
    "门票"
+  ]
+ },
+ "kandy-dunumadalawa-forest-reserve-bird-watching": {
+  "title": "康提：杜努马达拉瓦森林保护区观鸟之旅",
+  "metaTitle": "康提：杜努马达拉瓦森林保护区观鸟之旅",
+  "metaDescription": "一次从Kandy出发的半天行程，游览Tuk tuk和Dunumadalawa Forest Reserve。由AMAK TRAVELS (PVT) LTD提供。",
+  "shortDescription": "一次从Kandy出发的半天行程，游览Tuk tuk和Dunumadalawa Forest Reserve。由AMAK TRAVELS (PVT) LTD提供。",
+  "fullDescription": "一次从Kandy出发的半天行程，途经Tuk tuk和Dunumadalawa Forest Reserve。最长的一站是Dunumadalawa Forest Reserve，约5小时。全程共2站。\n\n行程顺序为Tuk tuk (20 min), 然后 Dunumadalawa Forest Reserve (5h)。\n\n价格包含门票、经验丰富的自然向导、康提地区内交通（接送）、水果小吃。",
+  "highlights": [
+   "一次从Kandy出发的半天行程，游览Tuk tuk和Dunumadalawa Forest Reserve。由AMAK TRAVELS (PVT) LTD提供。"
+  ],
+  "included": [
+   "门票",
+   "经验丰富的自然向导",
+   "康提地区内交通（接送）",
+   "水果小吃"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "badulla-reserved-train-ticket-to-ella-via-nine": {
@@ -24613,6 +31083,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "莲花塔和甘加拉玫寺门票"
   ]
  },
+ "from-mirissa-sinharaja-rainforest-birdwatching": {
+  "title": "米瑞沙出发：辛哈拉加雨林观鸟之旅",
+  "metaTitle": "米瑞沙出发：辛哈拉加雨林观鸟之旅",
+  "metaDescription": "一次从Mirissa出发的半天行程，游览Sinharaja Forest Reserve。由Heros Adventures提供。",
+  "shortDescription": "一次从Mirissa出发的半天行程，游览Sinharaja Forest Reserve。由Heros Adventures提供。",
+  "fullDescription": "一次从Mirissa出发的半天行程，途经Sinharaja Forest Reserve。最长的一站是Sinharaja Forest Reserve，约4小时。\n\n价格包含从米瑞沙出发的私人交通、5小时导游讲解游览、斯里兰卡早餐、传统斯里兰卡米饭及咖喱午餐。不包含个人消费、饮品、可选活动，请另行预算。两位旅客共同支付254美元，而不是每人各付254美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Mirissa出发的半天行程，游览Sinharaja Forest Reserve。由Heros Adventures提供。"
+  ],
+  "included": [
+   "从米瑞沙出发的私人交通",
+   "5小时导游讲解游览",
+   "斯里兰卡早餐",
+   "传统斯里兰卡米饭及咖喱午餐"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "饮品",
+   "可选活动"
+  ]
+ },
  "kandy-visit-sri-lankan-gems-jewellery-by-private": {
   "title": "康提：乘私人汽车探访斯里兰卡宝石及珠宝",
   "metaTitle": "康提：乘私人汽车探访斯里兰卡宝石及珠宝",
@@ -24630,6 +31121,69 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "sigiriya-sky-moments-tuk-tuk-sunrise-sunset": {
+  "title": "锡吉里耶天空时刻：嘟嘟车日出及日落体验",
+  "metaTitle": "锡吉里耶天空时刻：嘟嘟车日出及日落体验",
+  "metaDescription": "一次半天的Sigiriya体验。乘当地嘟嘟车穿行锡吉里耶周边秀丽的乡村小径。由Elephant Kingdom Safaris Sigiriya提供。",
+  "shortDescription": "一次半天的Sigiriya体验。乘当地嘟嘟车穿行锡吉里耶周边秀丽的乡村小径。由Elephant Kingdom Safaris Sigiriya提供。",
+  "fullDescription": "一次半天的Sigiriya体验。乘当地嘟嘟车穿行锡吉里耶周边秀丽的乡村小径。\n\n由Elephant Kingdom Safaris Sigiriya负责安排，价格中含4项内容。可免费取消。\n\n价格包含酒店接送（锡吉里耶地区内）、乘传统嘟嘟车的私人往返接送、经验丰富的当地司机、瓶装饮用水。不包含锡吉里耶岩/皮杜兰加拉岩门票、额外的餐饮、小费，请另行预算。",
+  "highlights": [
+   "乘当地嘟嘟车穿行锡吉里耶周边秀丽的乡村小径"
+  ],
+  "included": [
+   "酒店接送（锡吉里耶地区内）",
+   "乘传统嘟嘟车的私人往返接送",
+   "经验丰富的当地司机",
+   "瓶装饮用水"
+  ],
+  "notIncluded": [
+   "锡吉里耶岩/皮杜兰加拉岩门票",
+   "额外的餐饮",
+   "小费"
+  ]
+ },
+ "10-day-sri-lanka-cultural-heritage-nature-tour-9": {
+  "title": "10日斯里兰卡文化、遗产及自然游览，9晚",
+  "metaTitle": "10日斯里兰卡文化、遗产及自然游览，9晚",
+  "metaDescription": "一次10天的Kandy体验。探索斯里兰卡文化三角区、康提、努沃勒埃利耶及埃拉。由Luxe Ceylon Holidays提供。",
+  "shortDescription": "一次10天的Kandy体验。探索斯里兰卡文化三角区、康提、努沃勒埃利耶及埃拉。由Luxe Ceylon Holidays提供。",
+  "fullDescription": "一次10天的Kandy体验。探索斯里兰卡文化三角区、康提、努沃勒埃利耶及埃拉。\n\n由Luxe Ceylon Holidays负责安排，价格中含8项内容。可免费取消。\n\n价格包含机场接送、市区游览、野生动物园之旅、文化舞蹈表演。不包含午餐、晚餐、个人消费，请另行预算。",
+  "highlights": [
+   "探索斯里兰卡文化三角区、康提、努沃勒埃利耶及埃拉"
+  ],
+  "included": [
+   "机场接送",
+   "市区游览",
+   "野生动物园之旅",
+   "文化舞蹈表演"
+  ],
+  "notIncluded": [
+   "午餐",
+   "晚餐",
+   "个人消费"
+  ]
+ },
+ "kandy-to-nuwaraeliya-with-tea-plantation": {
+  "title": "康提至努沃勒埃利耶，含茶园及瀑布参观",
+  "metaTitle": "康提至努沃勒埃利耶，含茶园及瀑布参观",
+  "metaDescription": "一次全天的Kandy体验。在嘟嘟车游览中探索康提秀丽风光及文化景点。由Titan Tours Sri Lanka提供。",
+  "shortDescription": "一次全天的Kandy体验。在嘟嘟车游览中探索康提秀丽风光及文化景点。由Titan Tours Sri Lanka提供。",
+  "fullDescription": "一次全天的Kandy体验。在嘟嘟车游览中探索康提秀丽风光及文化景点。\n\n由Titan Tours Sri Lanka负责安排，价格中含8项内容。可免费取消。\n\n价格包含从康提出发的酒店接送、乘嘟嘟车交通，配经验丰富的司机、英语司机兼导游、传统斯里兰卡小吃。不包含餐食（午餐）、个人消费、小费（可选），请另行预算。两位旅客共同支付93美元，而不是每人各付91美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在嘟嘟车游览中探索康提秀丽风光及文化景点"
+  ],
+  "included": [
+   "从康提出发的酒店接送",
+   "乘嘟嘟车交通，配经验丰富的司机",
+   "英语司机兼导游",
+   "传统斯里兰卡小吃"
+  ],
+  "notIncluded": [
+   "餐食（午餐）",
+   "个人消费",
+   "小费（可选）"
   ]
  },
  "kandy-night-tour-with-cultural-show-buddha-dinner": {
@@ -24713,6 +31267,88 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "sri-lanka-10-day-private-tour-with-driver-vehicle": {
+  "title": "斯里兰卡：10日私人游览，配司机及车辆",
+  "metaTitle": "斯里兰卡：10日私人游览，配司机及车辆",
+  "metaDescription": "一次从Colombo出发的10天行程，游览Coffee plantation和Finish at:。由\"Zylos Lanka Airport Transfer & Tours\"提供。",
+  "shortDescription": "一次从Colombo出发的10天行程，游览Coffee plantation和Finish at:。由\"Zylos Lanka Airport Transfer & Tours\"提供。",
+  "fullDescription": "一次从Colombo出发的10天行程，途经Coffee plantation和Finish at:。全程共2站。\n\n行程顺序为Coffee plantation, 然后 Finish at:。\n\n价格包含私人司机及车辆、文化及古迹参观、乌达瓦拉维国家公园吉普车野生动物园之旅、加尔奥亚国家公园游船野生动物园之旅。不包含国际航班、旅游保险、个人消费，请另行预算。两位旅客共同支付1420美元，而不是每人各付1420美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的10天行程，游览Coffee plantation和Finish at:。由\"Zylos Lanka Airport Transfer & Tours\"提供。"
+  ],
+  "included": [
+   "私人司机及车辆",
+   "文化及古迹参观",
+   "乌达瓦拉维国家公园吉普车野生动物园之旅",
+   "加尔奥亚国家公园游船野生动物园之旅"
+  ],
+  "notIncluded": [
+   "国际航班",
+   "旅游保险",
+   "个人消费"
+  ]
+ },
+ "colombo-city-tour-with-dehiwala-zoo-cultural": {
+  "title": "科伦坡市区游览，含德希瓦拉动物园及文化精华",
+  "metaTitle": "科伦坡市区游览，含德希瓦拉动物园及文化精华",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Dehiwala Zoological Garden。由Colombo Tuk Tuk Tour提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Dehiwala Zoological Garden。由Colombo Tuk Tuk Tour提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Dehiwala Zoological Garden。最长的一站是Dehiwala Zoological Garden，约1小时。\n\n由Colombo Tuk Tuk Tour负责安排，价格中含5项内容。可免费取消。参观著名的德希瓦拉国家动物园，观赏多样的野生动物。\n\n价格包含私人嘟嘟车交通、科伦坡市区酒店接送、经验丰富的英语司机兼导游、瓶装饮用水。不包含德希瓦拉动物园门票费用（须在园门口直接支付）、餐食及额外饮品、个人消费和小费，请另行预算。两位旅客共同支付119美元，而不是每人各付119美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Dehiwala Zoological Garden。由Colombo Tuk Tuk Tour提供。"
+  ],
+  "included": [
+   "私人嘟嘟车交通",
+   "科伦坡市区酒店接送",
+   "经验丰富的英语司机兼导游",
+   "瓶装饮用水"
+  ],
+  "notIncluded": [
+   "德希瓦拉动物园门票费用（须在园门口直接支付）",
+   "餐食及额外饮品",
+   "个人消费和小费"
+  ]
+ },
+ "colombo-spice-garden-madu-river-cinnamon-island": {
+  "title": "科伦坡：香料园、马杜河、肉桂岛及加勒",
+  "metaTitle": "科伦坡：香料园、马杜河、肉桂岛及加勒",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Kosgoda Spice Garden 777, Ahungalla Sea Turtle Conservation & Research Centre, Madu Ganga Boat Safari和Galle Fort。由Victoria tour pvt ltd提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Kosgoda Spice Garden 777, Ahungalla Sea Turtle Conservation & Research Centre, Madu Ganga Boat Safari和Galle Fort。由Victoria tour pvt ltd提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Kosgoda Spice Garden 777, Ahungalla Sea Turtle Conservation & Research Centre, Madu Ganga Boat Safari和Galle Fort。最长的一站是Madu Ganga Boat Safari，约2小时。全程共6站。\n\n行程顺序为Kosgoda Spice Garden 777 (1h), 然后 Ahungalla Sea Turtle Conservation & Research Centre (45 min), 然后 Madu Ganga Boat Safari (2h), 然后 Galle Fort (1h), 然后 Galle Lighthouse (15 min)。\n\n价格包含酒店接送、私人空调车辆、交通、雨伞提供。不包含餐饮、马杜河游船野生动物园门票、科斯戈达海龟保护中心门票，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Kosgoda Spice Garden 777, Ahungalla Sea Turtle Conservation & Research Centre, Madu Ganga Boat Safari和Galle Fort。由Victoria tour pvt ltd提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "私人空调车辆",
+   "交通",
+   "雨伞提供"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "马杜河游船野生动物园门票",
+   "科斯戈达海龟保护中心门票"
+  ]
+ },
+ "mirissa-hands-on-sri-lankan-cooking-class-with": {
+  "title": "米瑞沙：亲手斯里兰卡烹饪课，配当地厨师",
+  "metaTitle": "米瑞沙：亲手斯里兰卡烹饪课，配当地厨师",
+  "metaDescription": "一次从Mirissa出发的3小时行程，游览Tuk tuk和Ceylon Travel Adventures。由Ceylon Travel Adventures提供。",
+  "shortDescription": "一次从Mirissa出发的3小时行程，游览Tuk tuk和Ceylon Travel Adventures。由Ceylon Travel Adventures提供。",
+  "fullDescription": "一次从Mirissa出发的3小时行程，途经Tuk tuk和Ceylon Travel Adventures。最长的一站是Ceylon Travel Adventures，约3小时。全程共2站。\n\n行程顺序为Tuk tuk (15 min), 然后 Ceylon Travel Adventures (3h)。\n\n价格包含3小时斯里兰卡烹饪课、专业当地厨师、亲手下厨体验、传统斯里兰卡厨房体验。两位旅客共同支付119美元，而不是每人各付77美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Mirissa出发的3小时行程，游览Tuk tuk和Ceylon Travel Adventures。由Ceylon Travel Adventures提供。"
+  ],
+  "included": [
+   "3小时斯里兰卡烹饪课",
+   "专业当地厨师",
+   "亲手下厨体验",
+   "传统斯里兰卡厨房体验"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "colombo-private-tuk-tuk-city-tour-with-all-entry": {
   "title": "科伦坡：私人嘟嘟车市区游览，含全部门票",
   "metaTitle": "科伦坡：私人嘟嘟车市区游览，含全部门票",
@@ -24753,6 +31389,67 @@ export const ZH_TOURS: Record<string, TourT> = {
    "野生动物园吉普车费用"
   ]
  },
+ "kandy-full-day-snakehead-fishing-tour-at-deduru": {
+  "title": "康提：德杜鲁奥亚全天黑鱼捕鱼之旅",
+  "metaTitle": "康提：德杜鲁奥亚全天黑鱼捕鱼之旅",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Kurunegala, Daduru Oya Reservoir Dam和Kurunegala。由ARIANA SPIN GEAR提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Kurunegala, Daduru Oya Reservoir Dam和Kurunegala。由ARIANA SPIN GEAR提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Kurunegala, Daduru Oya Reservoir Dam和Kurunegala。最长的一站是Daduru Oya Reservoir Dam，约7小时。全程共3站。\n\n行程顺序为Kurunegala (30 min), 然后 Daduru Oya Reservoir Dam (7h), 然后 Kurunegala (1h)。\n\n价格包含康提酒店接送、全天行程的私人空调轿车、欢迎饮品、简单的斯里兰卡早餐，配新鲜季节性水果。不包含个人消费和纪念品、酒精饮料、所提供餐食之外的额外食物或饮品，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Kurunegala, Daduru Oya Reservoir Dam和Kurunegala。由ARIANA SPIN GEAR提供。"
+  ],
+  "included": [
+   "康提酒店接送",
+   "全天行程的私人空调轿车",
+   "欢迎饮品",
+   "简单的斯里兰卡早餐，配新鲜季节性水果"
+  ],
+  "notIncluded": [
+   "个人消费和纪念品",
+   "酒精饮料",
+   "所提供餐食之外的额外食物或饮品"
+  ]
+ },
+ "galle-kanneliya-rainforest-jungle-beach-craft-tour": {
+  "title": "加勒：坎内利亚雨林、丛林海滩及工艺游览",
+  "metaTitle": "加勒：坎内利亚雨林、丛林海滩及工艺游览",
+  "metaDescription": "一次从Galle出发的全天行程，游览Kanneliya Rainforest SriLanka, Martin Wickramasinghe Folk Museum和Jungle Beach, Unawatuna。由Sritrailsjourney提供。",
+  "shortDescription": "一次从Galle出发的全天行程，游览Kanneliya Rainforest SriLanka, Martin Wickramasinghe Folk Museum和Jungle Beach, Unawatuna。由Sritrailsjourney提供。",
+  "fullDescription": "一次从Galle出发的全天行程，途经Kanneliya Rainforest SriLanka, Martin Wickramasinghe Folk Museum和Jungle Beach, Unawatuna。最长的一站是Kanneliya Rainforest SriLanka，约7小时。全程共3站。\n\n行程顺序为Kanneliya Rainforest SriLanka (7h), 然后 Martin Wickramasinghe Folk Museum (1h), 然后 Jungle Beach, Unawatuna (1h)。\n\n价格包含私人空调丰田Axio交通、加勒地区内酒店接送、专业当地司机兼导游、全程导游讲解和协助。不包含全部景点门票、坎内利亚当地雨林强制导游费、餐食及付费活动费用，需在相应柜台或活动提供方处直接支付，请另行预算。",
+  "highlights": [
+   "一次从Galle出发的全天行程，游览Kanneliya Rainforest SriLanka, Martin Wickramasinghe Folk Museum和Jungle Beach, Unawatuna。由Sritrailsjourney提供。"
+  ],
+  "included": [
+   "私人空调丰田Axio交通",
+   "加勒地区内酒店接送",
+   "专业当地司机兼导游",
+   "全程导游讲解和协助"
+  ],
+  "notIncluded": [
+   "全部景点门票、坎内利亚当地雨林强制导游费、餐食及付费活动费用，需在相应柜台或活动提供方处直接支付"
+  ]
+ },
+ "kandy-private-tuk-tuk-tour-of-religious-sites": {
+  "title": "康提：私人嘟嘟车宗教遗址游览",
+  "metaTitle": "康提：私人嘟嘟车宗教遗址游览",
+  "metaDescription": "一次从Kandy出发的半天行程，游览Tuk tuk, Sri Lankathilake Rajamaha Viharaya, Gadaladeniya Raja maha viharaya和Bahirawakanda Temple。由Nishantha's Kandy Tuk Tuk Experieace提供。",
+  "shortDescription": "一次从Kandy出发的半天行程，游览Tuk tuk, Sri Lankathilake Rajamaha Viharaya, Gadaladeniya Raja maha viharaya和Bahirawakanda Temple。由Nishantha's Kandy Tuk Tuk Experieace提供。",
+  "fullDescription": "一次从Kandy出发的半天行程，途经Tuk tuk, Sri Lankathilake Rajamaha Viharaya, Gadaladeniya Raja maha viharaya和Bahirawakanda Temple。最长的一站是Tuk tuk，约1小时。全程共5站。\n\n行程顺序为Tuk tuk (1h), 然后 Sri Lankathilake Rajamaha Viharaya (1h), 然后 Gadaladeniya Raja maha viharaya (1h), 然后 Bahirawakanda Temple, 然后 Temple of the Sacred Tooth Relic (1h)。\n\n价格包含参观佛牙寺、参观巴希拉瓦坎达寺、参观加达拉德尼亚寺、参观兰卡提拉卡寺。不包含门票费用、餐食、个人消费，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的半天行程，游览Tuk tuk, Sri Lankathilake Rajamaha Viharaya, Gadaladeniya Raja maha viharaya和Bahirawakanda Temple。由Nishantha's Kandy Tuk Tuk Experieace提供。"
+  ],
+  "included": [
+   "参观佛牙寺",
+   "参观巴希拉瓦坎达寺",
+   "参观加达拉德尼亚寺",
+   "参观兰卡提拉卡寺"
+  ],
+  "notIncluded": [
+   "门票费用",
+   "餐食",
+   "个人消费"
+  ]
+ },
  "colombo-guided-city-tour-by-motorbike-with-hotel": {
   "title": "科伦坡：导游带领的摩托车市区游览，含酒店接客",
   "metaTitle": "科伦坡：导游带领的摩托车市区游览，含酒店接客",
@@ -24771,6 +31468,46 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐食",
    "个人消费"
+  ]
+ },
+ "from-galle-gems-batik-and-koggala-lake-guided-tour": {
+  "title": "加勒出发：宝石、蜡染及科加拉湖导游讲解游览",
+  "metaTitle": "加勒出发：宝石、蜡染及科加拉湖导游讲解游览",
+  "metaDescription": "一次从Galle出发的半天行程，游览Lihiniya Gems, Ceylon spicy Garden, Koggala Lake和Madol Duwa。由Sritrailsjourney提供。",
+  "shortDescription": "一次从Galle出发的半天行程，游览Lihiniya Gems, Ceylon spicy Garden, Koggala Lake和Madol Duwa。由Sritrailsjourney提供。",
+  "fullDescription": "一次从Galle出发的半天行程，途经Lihiniya Gems, Ceylon spicy Garden, Koggala Lake和Madol Duwa。最长的一站是Ceylon spicy Garden，约2小时。全程共5站。\n\n行程顺序为Lihiniya Gems (1h), 然后 Ceylon spicy Garden (2h), 然后 Koggala Lake (1h), 然后 Madol Duwa (1h), 然后 Galle Dutch Fort。\n\n价格包含私人空调丰田Axio交通、所选地区内酒店接送、英语司机兼导游、全程导游讲解和协助。不包含全部门票及活动费用（包括科加拉湖游船野生动物园费用及适用的岛屿费用），需在相应柜台直接支付，请另行预算。",
+  "highlights": [
+   "一次从Galle出发的半天行程，游览Lihiniya Gems, Ceylon spicy Garden, Koggala Lake和Madol Duwa。由Sritrailsjourney提供。"
+  ],
+  "included": [
+   "私人空调丰田Axio交通",
+   "所选地区内酒店接送",
+   "英语司机兼导游",
+   "全程导游讲解和协助"
+  ],
+  "notIncluded": [
+   "全部门票及活动费用（包括科加拉湖游船野生动物园费用及适用的岛屿费用），需在相应柜台直接支付"
+  ]
+ },
+ "colombo-city-tour-with-hidden-gems-ceylon-tea": {
+  "title": "科伦坡市区游览：隐秘美景及锡兰红茶体验",
+  "metaTitle": "科伦坡市区游览：隐秘美景及锡兰红茶体验",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Colombo Port City Beach, Galle Face Green, Gangaramaya Temple和Independence Square, Colombo。由Ceylon snap travels提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Colombo Port City Beach, Galle Face Green, Gangaramaya Temple和Independence Square, Colombo。由Ceylon snap travels提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Colombo Port City Beach, Galle Face Green, Gangaramaya Temple和Independence Square, Colombo。全程共18站。\n\n行程顺序为Colombo Port City Beach, 然后 Galle Face Green, 然后 Gangaramaya Temple, 然后 Independence Square, Colombo, 然后 Fort, Colombo。\n\n价格包含私人交通、英语司机兼导游、酒店接送（科伦坡地区）、参观科伦坡港口城海滨。不包含额外的餐饮、个人消费、寺庙门票，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Colombo Port City Beach, Galle Face Green, Gangaramaya Temple和Independence Square, Colombo。由Ceylon snap travels提供。"
+  ],
+  "included": [
+   "私人交通",
+   "英语司机兼导游",
+   "酒店接送（科伦坡地区）",
+   "参观科伦坡港口城海滨"
+  ],
+  "notIncluded": [
+   "额外的餐饮",
+   "个人消费",
+   "寺庙门票"
   ]
  },
  "colombo-tuk-tuk-tour-especially-for-city-tour": {
@@ -24815,6 +31552,48 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "kandy-guided-city-tourtemple-of-the-tooth-tea": {
+  "title": "康提：导游讲解市区游览/佛牙寺及茶厂",
+  "metaTitle": "康提：导游讲解市区游览/佛牙寺及茶厂",
+  "metaDescription": "一次半天的Kandy体验。在导游讲解的市区游览中探索康提丰富的历史与文化。由Pekoe Lanka Tours提供。",
+  "shortDescription": "一次半天的Kandy体验。在导游讲解的市区游览中探索康提丰富的历史与文化。由Pekoe Lanka Tours提供。",
+  "fullDescription": "一次半天的Kandy体验。在导游讲解的市区游览中探索康提丰富的历史与文化。\n\n由Pekoe Lanka Tours负责安排，价格中含11项内容。可免费取消。\n\n价格包含康提导游讲解游览、参观佛牙寺、参观佩拉德尼亚皇家植物园、参观康提观景台。不包含餐食、个人消费、小费，请另行预算。两位旅客共同支付15美元，而不是每人各付8美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在导游讲解的市区游览中探索康提丰富的历史与文化"
+  ],
+  "included": [
+   "康提导游讲解游览",
+   "参观佛牙寺",
+   "参观佩拉德尼亚皇家植物园",
+   "参观康提观景台"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "小费"
+  ]
+ },
+ "from-galle-madu-river-safari-galle-fort-turtle": {
+  "title": "加勒出发：马杜河野生动物园之旅、加勒古堡及海龟游览",
+  "metaTitle": "加勒出发：马杜河野生动物园之旅、加勒古堡及海龟游览",
+  "metaDescription": "一次从Galle出发的全天行程，游览Madu River Boat Safari By Scenic, Hikkaduwa Beach, Galle Fort和The Arch Restaurant - Galle Fort。由DNTours Ahungalla提供。",
+  "shortDescription": "一次从Galle出发的全天行程，游览Madu River Boat Safari By Scenic, Hikkaduwa Beach, Galle Fort和The Arch Restaurant - Galle Fort。由DNTours Ahungalla提供。",
+  "fullDescription": "一次从Galle出发的全天行程，途经Madu River Boat Safari By Scenic, Hikkaduwa Beach, Galle Fort和The Arch Restaurant - Galle Fort。最长的一站是Galle Fort，约2小时。全程共9站。\n\n行程顺序为Madu River Boat Safari By Scenic, 然后 Hikkaduwa Beach (30 min), 然后 Galle Fort (2h), 然后 The Arch Restaurant - Galle Fort (1h), 然后 Japanese Peace Pagoda - Rumassala (1h)。\n\n价格包含马杜河游船野生动物园之旅、参观加勒古堡、参观日本和平塔、参观丛林海滩。不包含个人消费、斯里兰卡传统午餐、门票，请另行预算。",
+  "highlights": [
+   "一次从Galle出发的全天行程，游览Madu River Boat Safari By Scenic, Hikkaduwa Beach, Galle Fort和The Arch Restaurant - Galle Fort。由DNTours Ahungalla提供。"
+  ],
+  "included": [
+   "马杜河游船野生动物园之旅",
+   "参观加勒古堡",
+   "参观日本和平塔",
+   "参观丛林海滩"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "斯里兰卡传统午餐",
+   "门票"
+  ]
+ },
  "kandy-private-tuk-tuk-transfer-to-nuwaraeliya": {
   "title": "康提：私人嘟嘟车接送至努沃勒埃利耶，含茶园游览",
   "metaTitle": "康提：私人嘟嘟车接送至努沃勒埃利耶，含茶园游览",
@@ -24836,6 +31615,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "kandy-exclusive-blue-sapphire-mining-experience": {
+  "title": "康提：专享蓝宝石开采体验，含锡吉里耶",
+  "metaTitle": "康提：专享蓝宝石开采体验，含锡吉里耶",
+  "metaDescription": "一次全天的Kandy体验。与经验丰富的蓝宝石矿工一起探索埃拉赫拉矿区。由Lishan Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。与经验丰富的蓝宝石矿工一起探索埃拉赫拉矿区。由Lishan Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。与经验丰富的蓝宝石矿工一起探索埃拉赫拉矿区。\n\n由Lishan Tours负责安排，价格中含5项内容。可免费取消。\n\n价格包含从您在康提的酒店接送、私人空调交通、经验丰富的蓝宝石矿工带领的个性化游览、瓶装水。不包含锡吉里耶及丹布勒门票、午餐和饮品、小费，请另行预算。两位旅客共同支付119美元，而不是每人各付119美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "与经验丰富的蓝宝石矿工一起探索埃拉赫拉矿区"
+  ],
+  "included": [
+   "从您在康提的酒店接送",
+   "私人空调交通",
+   "经验丰富的蓝宝石矿工带领的个性化游览",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "锡吉里耶及丹布勒门票",
+   "午餐和饮品",
+   "小费"
+  ]
+ },
  "mirissa-day-tour-from-any-city-hotel-pick-up": {
   "title": "米瑞沙一日游，可从任意城市酒店接送",
   "metaTitle": "米瑞沙一日游，可从任意城市酒店接送",
@@ -24854,6 +31654,26 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "海龟浮潜及冲浪课程费用（可选）",
    "餐饮费用",
+   "个人消费"
+  ]
+ },
+ "private-car-tour-from-kandy-to-ella": {
+  "title": "私人轿车游览：从康提到埃拉",
+  "metaTitle": "私人轿车游览：从康提到埃拉",
+  "metaDescription": "一次从Kandy出发的全天行程，游览University of Peradeniya, Damro Tea plantation, Post office和Ramboda Falls srilanka。由Hello Kandy Taxi & Cabs提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览University of Peradeniya, Damro Tea plantation, Post office和Ramboda Falls srilanka。由Hello Kandy Taxi & Cabs提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经University of Peradeniya, Damro Tea plantation, Post office和Ramboda Falls srilanka。最长的一站是Ramboda Falls srilanka，约1小时。全程共6站。\n\n行程顺序为University of Peradeniya (15 min), 然后 Damro Tea plantation (20 min), 然后 Post office (20 min), 然后 Ramboda Falls srilanka (1h), 然后 Oak Ray Tea Factory & Museum (45 min)。\n\n价格包含从康提出发的酒店接送、经验丰富的导游、佩拉德尼亚大学校园导游讲解游览、参观兰博达地区及兰博达瀑布。不包含午餐或正餐、个人消费，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览University of Peradeniya, Damro Tea plantation, Post office和Ramboda Falls srilanka。由Hello Kandy Taxi & Cabs提供。"
+  ],
+  "included": [
+   "从康提出发的酒店接送",
+   "经验丰富的导游",
+   "佩拉德尼亚大学校园导游讲解游览",
+   "参观兰博达地区及兰博达瀑布"
+  ],
+  "notIncluded": [
+   "午餐或正餐",
    "个人消费"
   ]
  },
@@ -24918,6 +31738,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "莲花塔及甘加拉玫寺门票"
   ]
  },
+ "sri-lanka-10-day-tour-for-senior-travelers-with": {
+  "title": "斯里兰卡：10日长者游览，含充裕时间",
+  "metaTitle": "斯里兰卡：10日长者游览，含充裕时间",
+  "metaDescription": "一次从Kandy出发的10天行程，游览Negombo, Sigiriya, Sigiriya Village和Sigiriya Rock Fortress。由Leo’s Travel & Excursions提供。",
+  "shortDescription": "一次从Kandy出发的10天行程，游览Negombo, Sigiriya, Sigiriya Village和Sigiriya Rock Fortress。由Leo’s Travel & Excursions提供。",
+  "fullDescription": "一次从Kandy出发的10天行程，途经Negombo, Sigiriya, Sigiriya Village和Sigiriya Rock Fortress。全程共22站。\n\n行程顺序为Negombo, 然后 Sigiriya, 然后 Sigiriya Village, 然后 Sigiriya Rock Fortress, 然后 Pidurangala Viewpoint (Optional)。\n\n价格包含机场接送、舒适空调车辆、专业英语司机/导游、酒店安排（可选）。不包含景点门票费用、餐饮、个人消费，请另行预算。两位旅客共同支付2181美元，而不是每人各付2181美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的10天行程，游览Negombo, Sigiriya, Sigiriya Village和Sigiriya Rock Fortress。由Leo’s Travel & Excursions提供。"
+  ],
+  "included": [
+   "机场接送",
+   "舒适空调车辆",
+   "专业英语司机/导游",
+   "酒店安排（可选）"
+  ],
+  "notIncluded": [
+   "景点门票费用",
+   "餐饮",
+   "个人消费"
+  ]
+ },
  "sigiriya-wildlife-day-tour-with-elephants-by-jeep": {
   "title": "锡吉里耶：乘吉普车及向导的野生动物象群一日游",
   "metaTitle": "锡吉里耶：乘吉普车及向导的野生动物象群一日游",
@@ -24935,6 +31776,69 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "sigiriya-minneriya-polonnaruwa-day-tour-sunrise": {
+  "title": "锡吉里耶、明内里耶及波隆纳鲁沃一日游：日出及日落",
+  "metaTitle": "锡吉里耶、明内里耶及波隆纳鲁沃一日游：日出及日落",
+  "metaDescription": "一次从Sigiriya出发的全天行程，游览Sigiriya Lion Rock, Dambulla Royal Cave Temple and Golden Temple, Minneriya National Park和Finish at:。由Minneriya Wilderness Co提供。",
+  "shortDescription": "一次从Sigiriya出发的全天行程，游览Sigiriya Lion Rock, Dambulla Royal Cave Temple and Golden Temple, Minneriya National Park和Finish at:。由Minneriya Wilderness Co提供。",
+  "fullDescription": "一次从Sigiriya出发的全天行程，途经Sigiriya Lion Rock, Dambulla Royal Cave Temple and Golden Temple, Minneriya National Park和Finish at:。最长的一站是Minneriya National Park，约3小时。全程共4站。\n\n行程顺序为Sigiriya Lion Rock (2h), 然后 Dambulla Royal Cave Temple and Golden Temple, 然后 Minneriya National Park (3h), 然后 Finish at:。\n\n价格包含乘舒适车辆交通、英语司机兼导游、从锡吉里耶/丹布勒地区接客、所述观光停靠点。不包含景点门票、餐饮、个人消费，请另行预算。两位旅客共同支付169美元，而不是每人各付169美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Sigiriya出发的全天行程，游览Sigiriya Lion Rock, Dambulla Royal Cave Temple and Golden Temple, Minneriya National Park和Finish at:。由Minneriya Wilderness Co提供。"
+  ],
+  "included": [
+   "乘舒适车辆交通",
+   "英语司机兼导游",
+   "从锡吉里耶/丹布勒地区接客",
+   "所述观光停靠点"
+  ],
+  "notIncluded": [
+   "景点门票",
+   "餐饮",
+   "个人消费"
+  ]
+ },
+ "kandy-2-day-tuk-tuk-city-tour-with-nanuoya": {
+  "title": "康提：2日嘟嘟车市区游览，含纳奴奥亚接送",
+  "metaTitle": "康提：2日嘟嘟车市区游览，含纳奴奥亚接送",
+  "metaDescription": "一次从Kandy出发的2天行程，游览kandy city tour和nanuoya drop by car。由Thenu Tours提供。",
+  "shortDescription": "一次从Kandy出发的2天行程，游览kandy city tour和nanuoya drop by car。由Thenu Tours提供。",
+  "fullDescription": "一次从Kandy出发的2天行程，途经kandy city tour和nanuoya drop by car。全程共2站。\n\n行程顺序为kandy city tour, 然后 nanuoya drop by car。\n\n价格包含英语司机、瓶装水、康提市区游览、阿斯吉里亚寺。不包含餐食、其他费用、门票，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的2天行程，游览kandy city tour和nanuoya drop by car。由Thenu Tours提供。"
+  ],
+  "included": [
+   "英语司机",
+   "瓶装水",
+   "康提市区游览",
+   "阿斯吉里亚寺"
+  ],
+  "notIncluded": [
+   "餐食",
+   "其他费用",
+   "门票"
+  ]
+ },
+ "from-tangallehiriketiya-all-inclusive-ella-day": {
+  "title": "坦加拉/希里凯提亚出发：全包埃拉一日游",
+  "metaTitle": "坦加拉/希里凯提亚出发：全包埃拉一日游",
+  "metaDescription": "一次全天的Galle体验。全包私人一日游，无隐藏费用。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "shortDescription": "一次全天的Galle体验。全包私人一日游，无隐藏费用。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "fullDescription": "一次全天的Galle体验。全包私人一日游，无隐藏费用。\n\n由Nelum Holidays and Tours (Pvt) Ltd负责安排，价格中含8项内容。可免费取消。\n\n价格包含乘空调轿车的私人交通、酒店接送、英语司机服务、参观九拱桥、小亚当峰及拉瓦纳瀑布。不包含小吃和饮品、午餐、司机小费，请另行预算。两位旅客共同支付558美元，而不是每人各付507美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "全包私人一日游，无隐藏费用"
+  ],
+  "included": [
+   "乘空调轿车的私人交通",
+   "酒店接送",
+   "英语司机服务",
+   "参观九拱桥、小亚当峰及拉瓦纳瀑布"
+  ],
+  "notIncluded": [
+   "小吃和饮品",
+   "午餐",
+   "司机小费"
   ]
  },
  "sri-lanka-18-days-heritage-coastal-odyssey-tour": {
@@ -25000,6 +31904,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "可选活动"
   ]
  },
+ "colombo-private-city-discovery-tuk-tuk-journey": {
+  "title": "科伦坡：私人城市探索嘟嘟车之旅，含小吃",
+  "metaTitle": "科伦坡：私人城市探索嘟嘟车之旅，含小吃",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk和Colombo Port Maritime Museum。由Ceylonture Travels提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk和Colombo Port Maritime Museum。由Ceylonture Travels提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk和Colombo Port Maritime Museum。全程共17站。\n\n行程顺序为Tuk tuk (10 min), 然后 Colombo Fort Old Lighthouse & Clock Tower (30 min), 然后 Tuk tuk (5 min), 然后 Colombo Port Maritime Museum (10 min), 然后 Old Parliament Building (10 min)。\n\n价格包含私人嘟嘟车交通、当地导游/司机、欢迎饮品（国王椰子水）、当地小吃。不包含餐食、莲花塔及甘加拉玫寺门票、个人消费，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk和Colombo Port Maritime Museum。由Ceylonture Travels提供。"
+  ],
+  "included": [
+   "私人嘟嘟车交通",
+   "当地导游/司机",
+   "欢迎饮品（国王椰子水）",
+   "当地小吃"
+  ],
+  "notIncluded": [
+   "餐食",
+   "莲花塔及甘加拉玫寺门票",
+   "个人消费"
+  ]
+ },
  "sri-lanka-14-day-private-sunrise-and-sunset-tour": {
   "title": "斯里兰卡：14日私人日出日落之旅，西南部",
   "metaTitle": "斯里兰卡：14日私人日出日落之旅，西南部",
@@ -25018,6 +31943,45 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐饮",
    "景点门票"
+  ]
+ },
+ "ella-private-tuk-tuk-tour-with-guide-and-hotel": {
+  "title": "埃拉：私人嘟嘟车游览，配导游及酒店接客",
+  "metaTitle": "埃拉：私人嘟嘟车游览，配导游及酒店接客",
+  "metaDescription": "一次从Ella出发的半天行程，游览Tuk tuk, Ella, Sri Lanka和Tuk tuk。由Ceylon Tuk Tuk Tours提供。",
+  "shortDescription": "一次从Ella出发的半天行程，游览Tuk tuk, Ella, Sri Lanka和Tuk tuk。由Ceylon Tuk Tuk Tours提供。",
+  "fullDescription": "一次从Ella出发的半天行程，途经Tuk tuk, Ella, Sri Lanka和Tuk tuk。全程共3站。\n\n行程顺序为Tuk tuk (30 min), 然后 Ella, Sri Lanka, 然后 Tuk tuk (15 min)。\n\n价格包含私人嘟嘟车及当地导游、酒店接送、瓶装水。不包含餐饮、司机小费、茶厂门票，请另行预算。两位旅客共同支付166美元，而不是每人各付142美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Ella出发的半天行程，游览Tuk tuk, Ella, Sri Lanka和Tuk tuk。由Ceylon Tuk Tuk Tours提供。"
+  ],
+  "included": [
+   "私人嘟嘟车及当地导游",
+   "酒店接送",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "司机小费",
+   "茶厂门票"
+  ]
+ },
+ "from-galle-private-day-trip-with-boat-safari": {
+  "title": "加勒出发：私人一日游，含游船野生动物园之旅及海龟海滩",
+  "metaTitle": "加勒出发：私人一日游，含游船野生动物园之旅及海龟海滩",
+  "metaDescription": "一次全天的Galle体验。探索联合国教科文组织名录中的加勒古堡及其殖民风情街道。由Sri Lanka car and private driver hire提供。",
+  "shortDescription": "一次全天的Galle体验。探索联合国教科文组织名录中的加勒古堡及其殖民风情街道。由Sri Lanka car and private driver hire提供。",
+  "fullDescription": "一次全天的Galle体验。探索联合国教科文组织名录中的加勒古堡及其殖民风情街道。\n\n由Sri Lanka car and private driver hire负责安排，价格中含8项内容。可免费取消。\n\n价格包含免费酒店接送、私人豪华交通、加勒古堡探索、参观海龟孵化场。不包含餐食，请另行预算。",
+  "highlights": [
+   "探索联合国教科文组织名录中的加勒古堡及其殖民风情街道"
+  ],
+  "included": [
+   "免费酒店接送",
+   "私人豪华交通",
+   "加勒古堡探索",
+   "参观海龟孵化场"
+  ],
+  "notIncluded": [
+   "餐食"
   ]
  },
  "kandy-to-ella-2-day-tour-with-train-ride": {
@@ -25041,6 +32005,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "ella-nanu-oya-train-ride-to-kandy-with-private": {
+  "title": "埃拉：纳奴奥亚火车之旅至康提，含私家车及导游",
+  "metaTitle": "埃拉：纳奴奥亚火车之旅至康提，含私家车及导游",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Ella, Sri Lanka, Train, Nanuoya和Finish at:。由SIGIRITRIP TOURS (PVT) LTD提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Ella, Sri Lanka, Train, Nanuoya和Finish at:。由SIGIRITRIP TOURS (PVT) LTD提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Ella, Sri Lanka, Train, Nanuoya和Finish at:。最长的一站是Nanuoya，约4小时。全程共4站。\n\n行程顺序为Ella, Sri Lanka (1h), 然后 Train (2h), 然后 Nanuoya (4h), 然后 Finish at:。\n\n价格包含埃拉酒店接送、到埃拉火车站的接送、埃拉至纳奴奥亚火车票、私人英语导游。两位旅客共同支付240美元，而不是每人各付231美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Ella, Sri Lanka, Train, Nanuoya和Finish at:。由SIGIRITRIP TOURS (PVT) LTD提供。"
+  ],
+  "included": [
+   "埃拉酒店接送",
+   "到埃拉火车站的接送",
+   "埃拉至纳奴奥亚火车票",
+   "私人英语导游"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "from-kandy-sigiriya-transfer-with-temples-spice": {
   "title": "康提出发：锡吉里耶接送，含寺庙及香料园",
   "metaTitle": "康提出发：锡吉里耶接送，含寺庙及香料园",
@@ -25059,6 +32042,26 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "景点门票",
    "餐饮",
+   "个人消费"
+  ]
+ },
+ "koggala-lake-guided-boat-safari-with-hotel-pickup": {
+  "title": "科加拉湖导游带领游船野生动物园之旅，含酒店接送",
+  "metaTitle": "科加拉湖导游带领游船野生动物园之旅，含酒店接送",
+  "metaDescription": "一次2小时的Galle体验。乘船穿行红树林，在游船野生动物园中观赏小岛。由DS Boat Safari On Koggala Lake提供。",
+  "shortDescription": "一次2小时的Galle体验。乘船穿行红树林，在游船野生动物园中观赏小岛。由DS Boat Safari On Koggala Lake提供。",
+  "fullDescription": "一次2小时的Galle体验。乘船穿行红树林，在游船野生动物园中观赏小岛。\n\n由DS Boat Safari On Koggala Lake负责安排，价格中含4项内容。可免费取消。\n\n价格包含酒店接送、科加拉湖游船野生动物园之旅、参观肉桂岛、野生动物观察。不包含餐食、个人消费，请另行预算。",
+  "highlights": [
+   "乘船穿行红树林，在游船野生动物园中观赏小岛"
+  ],
+  "included": [
+   "酒店接送",
+   "科加拉湖游船野生动物园之旅",
+   "参观肉桂岛",
+   "野生动物观察"
+  ],
+  "notIncluded": [
+   "餐食",
    "个人消费"
   ]
  },
@@ -25103,6 +32106,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票费用：明内里耶每人14500斯里兰卡卢比，阿努拉德普勒每人11500斯里兰卡卢比"
   ]
  },
+ "mirissa-whale-dolphin-turtle-snorkeling-with-free": {
+  "title": "米瑞沙：观鲸、观海豚、海龟浮潜，含免费接客",
+  "metaTitle": "米瑞沙：观鲸、观海豚、海龟浮潜，含免费接客",
+  "metaDescription": "一次从Mirissa出发的半天行程，游览Mirissa。由Mirissa snorkeling diving & fishing tours🐳提供。",
+  "shortDescription": "一次从Mirissa出发的半天行程，游览Mirissa。由Mirissa snorkeling diving & fishing tours🐳提供。",
+  "fullDescription": "一次从Mirissa出发的半天行程，途经Mirissa。\n\n价格包含免费接送，米瑞沙10公里范围内、海洋探索游船之旅、免费早餐、新鲜热带水果。不包含个人消费、额外的餐饮、旅游保险，请另行预算。两位旅客共同支付676美元，而不是每人各付592美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Mirissa出发的半天行程，游览Mirissa。由Mirissa snorkeling diving & fishing tours🐳提供。"
+  ],
+  "included": [
+   "免费接送，米瑞沙10公里范围内",
+   "海洋探索游船之旅",
+   "免费早餐",
+   "新鲜热带水果"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "额外的餐饮",
+   "旅游保险"
+  ]
+ },
  "kandy-private-tuk-tuk-temple-tea-lunch-tour": {
   "title": "康提：私人嘟嘟车寺庙、茶园及午餐之旅",
   "metaTitle": "康提：私人嘟嘟车寺庙、茶园及午餐之旅",
@@ -25138,6 +32162,66 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "bentota-private-lagoon-fishing-tour-with-a-local": {
+  "title": "本托塔：私人潟湖捕鱼之旅，配当地渔民",
+  "metaTitle": "本托塔：私人潟湖捕鱼之旅，配当地渔民",
+  "metaDescription": "一次半天的Bentota体验。与当地渔民一起体验潟湖捕鱼的刺激。由Bentota Travel Mart提供。",
+  "shortDescription": "一次半天的Bentota体验。与当地渔民一起体验潟湖捕鱼的刺激。由Bentota Travel Mart提供。",
+  "fullDescription": "一次半天的Bentota体验。与当地渔民一起体验潟湖捕鱼的刺激。\n\n由Bentota Travel Mart负责安排，价格中含3项内容。可免费取消。\n\n价格包含与经验丰富的当地渔民一起进行私人捕鱼之旅、全部钓鱼装备、酒店接送。不包含餐厅烹饪及用餐（需额外付费），请另行预算。",
+  "highlights": [
+   "与当地渔民一起体验潟湖捕鱼的刺激"
+  ],
+  "included": [
+   "与经验丰富的当地渔民一起进行私人捕鱼之旅",
+   "全部钓鱼装备",
+   "酒店接送"
+  ],
+  "notIncluded": [
+   "餐厅烹饪及用餐（需额外付费）"
+  ]
+ },
+ "from-sigiriya-kala-wewa-wildlife-kayaking": {
+  "title": "锡吉里耶出发：卡拉韦瓦野生动物皮划艇探险",
+  "metaTitle": "锡吉里耶出发：卡拉韦瓦野生动物皮划艇探险",
+  "metaDescription": "一次半天的Sigiriya体验。划桨穿越古老的卡拉韦瓦水库。由Thilina Safari & Tours提供。",
+  "shortDescription": "一次半天的Sigiriya体验。划桨穿越古老的卡拉韦瓦水库。由Thilina Safari & Tours提供。",
+  "fullDescription": "一次半天的Sigiriya体验。划桨穿越古老的卡拉韦瓦水库。\n\n由Thilina Safari & Tours负责安排，价格中含7项内容。可免费取消。\n\n价格包含酒店接送（锡吉里耶、丹布勒及哈巴拉纳地区）、专业皮划艇向导、皮划艇及桨板、救生衣、饮用水。不包含个人消费、餐食、小费（可选），请另行预算。两位旅客共同支付254美元，而不是每人各付153美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "划桨穿越古老的卡拉韦瓦水库"
+  ],
+  "included": [
+   "酒店接送（锡吉里耶、丹布勒及哈巴拉纳地区）",
+   "专业皮划艇向导",
+   "皮划艇及桨板",
+   "救生衣",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "餐食",
+   "小费（可选）"
+  ]
+ },
+ "mirissa-whale-dolphin-watching-with-pickup": {
+  "title": "米瑞沙：观鲸及观海豚，含接客及早餐",
+  "metaTitle": "米瑞沙：观鲸及观海豚，含接客及早餐",
+  "metaDescription": "一次从Mirissa出发的半天行程，游览Mirissa。由Beyond Escapes提供。",
+  "shortDescription": "一次从Mirissa出发的半天行程，游览Mirissa。由Beyond Escapes提供。",
+  "fullDescription": "一次从Mirissa出发的半天行程，途经Mirissa。最长的一站是Mirissa，约4小时。\n\n价格包含米瑞沙地区4公里范围内免费酒店接客、救生衣、早餐、瓶装饮用水。不包含送达米瑞沙地区酒店、从其他城市出发需额外收费（加勒、坦加拉、维利加马、阿哈嘎马、迪克维拉、本托塔），请另行预算。两位旅客共同支付110美元，而不是每人各付59美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Mirissa出发的半天行程，游览Mirissa。由Beyond Escapes提供。"
+  ],
+  "included": [
+   "米瑞沙地区4公里范围内免费酒店接客",
+   "救生衣",
+   "早餐",
+   "瓶装饮用水"
+  ],
+  "notIncluded": [
+   "送达米瑞沙地区酒店",
+   "从其他城市出发需额外收费（加勒、坦加拉、维利加马、阿哈嘎马、迪克维拉、本托塔）"
+  ]
+ },
  "sri-lanka-10-day-ultimate-highlights-private-tour": {
   "title": "斯里兰卡：10日终极精华私人游",
   "metaTitle": "斯里兰卡：10日终极精华私人游",
@@ -25156,6 +32240,45 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "住宿",
    "景点门票",
+   "餐饮"
+  ]
+ },
+ "kandy-private-day-trip-with-temple-of-the-tooth": {
+  "title": "康提私人一日游，含佛牙寺参观",
+  "metaTitle": "康提私人一日游，含佛牙寺参观",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Mawanella, Kadugannawa Tea Factory & Sales Center, Royal Botanic Gardens, Kandy和Temple of the Sacred Tooth Relic。由Slon Travels SriLanka提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Mawanella, Kadugannawa Tea Factory & Sales Center, Royal Botanic Gardens, Kandy和Temple of the Sacred Tooth Relic。由Slon Travels SriLanka提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Mawanella, Kadugannawa Tea Factory & Sales Center, Royal Botanic Gardens, Kandy和Temple of the Sacred Tooth Relic。最长的一站是Temple of the Sacred Tooth Relic，约1小时。全程共5站。\n\n行程顺序为Mawanella, 然后 Kadugannawa Tea Factory & Sales Center (40 min), 然后 Royal Botanic Gardens, Kandy (1h), 然后 Temple of the Sacred Tooth Relic (1h), 然后 Kandy view point (30 min)。\n\n价格包含专业英语司机兼导游、参观传统草药园、参观锡兰红茶博物馆、参观佩拉德尼亚皇家植物园。不包含餐食、个人消费、景点门票费用，请另行预算。两位旅客共同支付363美元，而不是每人各付263美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Mawanella, Kadugannawa Tea Factory & Sales Center, Royal Botanic Gardens, Kandy和Temple of the Sacred Tooth Relic。由Slon Travels SriLanka提供。"
+  ],
+  "included": [
+   "专业英语司机兼导游",
+   "参观传统草药园",
+   "参观锡兰红茶博物馆",
+   "参观佩拉德尼亚皇家植物园"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "景点门票费用"
+  ]
+ },
+ "sri-lanka-bentota-mangrove-river-boat-safari": {
+  "title": "斯里兰卡本托塔：红树林河流游船野生动物园之旅",
+  "metaTitle": "斯里兰卡本托塔：红树林河流游船野生动物园之旅",
+  "metaDescription": "一次从Bentota出发的2小时行程，游览Tuk tuk和Bentota River。由AYUBOWAY TOURS提供。",
+  "shortDescription": "一次从Bentota出发的2小时行程，游览Tuk tuk和Bentota River。由AYUBOWAY TOURS提供。",
+  "fullDescription": "一次从Bentota出发的2小时行程，途经Tuk tuk和Bentota River。最长的一站是Bentota River，约2小时。全程共2站。\n\n行程顺序为Tuk tuk, 然后 Bentota River (2h)。\n\n价格包含本托塔河私人游船野生动物园之旅、经验丰富的当地导游及船夫、全体参与者的安全救生衣。不包含餐饮，请另行预算。",
+  "highlights": [
+   "一次从Bentota出发的2小时行程，游览Tuk tuk和Bentota River。由AYUBOWAY TOURS提供。"
+  ],
+  "included": [
+   "本托塔河私人游船野生动物园之旅",
+   "经验丰富的当地导游及船夫",
+   "全体参与者的安全救生衣"
+  ],
+  "notIncluded": [
    "餐饮"
   ]
  },
@@ -25196,6 +32319,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "明内里耶国家公园门票（每人35美元）"
   ]
  },
+ "sigiriya-loris-exploration-with-local-guide": {
+  "title": "锡吉里耶懒猴探索，配当地向导",
+  "metaTitle": "锡吉里耶懒猴探索，配当地向导",
+  "metaDescription": "一次2小时的Sigiriya体验。探索锡吉里耶白天景点之外的夜间野生动物。由Sigiriya Loris Exploration with Pasindu提供。",
+  "shortDescription": "一次2小时的Sigiriya体验。探索锡吉里耶白天景点之外的夜间野生动物。由Sigiriya Loris Exploration with Pasindu提供。",
+  "fullDescription": "一次2小时的Sigiriya体验。探索锡吉里耶白天景点之外的夜间野生动物。\n\n由Sigiriya Loris Exploration with Pasindu负责安排，价格中含4项内容。可免费取消。\n\n价格包含英语导游讲解、夜间野生动物观察、野生动物知识讲解、饮用水。不包含酒店接送、餐食、个人消费，请另行预算。",
+  "highlights": [
+   "探索锡吉里耶白天景点之外的夜间野生动物"
+  ],
+  "included": [
+   "英语导游讲解",
+   "夜间野生动物观察",
+   "野生动物知识讲解",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "餐食",
+   "个人消费"
+  ]
+ },
  "negombo-city-tour-lagoon-boat-safari-with-fruit": {
   "title": "尼甘布市区游览及潟湖游船野生动物园之旅，含品尝水果",
   "metaTitle": "尼甘布市区游览及潟湖游船野生动物园之旅，含品尝水果",
@@ -25213,6 +32357,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "小费"
+  ]
+ },
+ "ella-first-class-scenic-train-seat-reservation-to": {
+  "title": "埃拉：头等座风光火车票预订，前往纳奴奥亚",
+  "metaTitle": "埃拉：头等座风光火车票预订，前往纳奴奥亚",
+  "metaDescription": "一次半天的Ella体验。乘坐头等座，享受从埃拉到纳奴奥亚的风光火车之旅。由Island Odyssey Travels & Tours提供。",
+  "shortDescription": "一次半天的Ella体验。乘坐头等座，享受从埃拉到纳奴奥亚的风光火车之旅。由Island Odyssey Travels & Tours提供。",
+  "fullDescription": "一次半天的Ella体验。乘坐头等座，享受从埃拉到纳奴奥亚的风光火车之旅。\n\n由Island Odyssey Travels & Tours负责安排，价格中含4项内容。可免费取消。\n\n价格包含单程头等车厢火车票（从埃拉到纳奴奥亚）、预留座位、从埃拉出发的酒店接送、当地协助及指导。不包含从纳奴奥亚送达酒店、餐饮、座位偏好，请另行预算。",
+  "highlights": [
+   "乘坐头等座，享受从埃拉到纳奴奥亚的风光火车之旅"
+  ],
+  "included": [
+   "单程头等车厢火车票（从埃拉到纳奴奥亚）",
+   "预留座位",
+   "从埃拉出发的酒店接送",
+   "当地协助及指导"
+  ],
+  "notIncluded": [
+   "从纳奴奥亚送达酒店",
+   "餐饮",
+   "座位偏好"
   ]
  },
  "from-galle-yala-safari-with-wildlife-half-day": {
@@ -25399,6 +32564,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "from-colombo-udawalawe-national-park-4x4-jeep": {
+  "title": "科伦坡出发：乌达瓦拉维国家公园4x4吉普车野生动物园之旅",
+  "metaTitle": "科伦坡出发：乌达瓦拉维国家公园4x4吉普车野生动物园之旅",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Udawalawa National Park。由Sri Tour by Tuk Tuk提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Udawalawa National Park。由Sri Tour by Tuk Tuk提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Udawalawa National Park。\n\n价格包含乘轿车进行酒店接送、私人四驱野生动物园吉普车、经验丰富的当地野生动物园司机、乌达瓦拉维国家公园内4小时野生动物园之旅。不包含国家公园门票费用，请另行预算。两位旅客共同支付592美元，而不是每人各付500美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Udawalawa National Park。由Sri Tour by Tuk Tuk提供。"
+  ],
+  "included": [
+   "乘轿车进行酒店接送",
+   "私人四驱野生动物园吉普车",
+   "经验丰富的当地野生动物园司机",
+   "乌达瓦拉维国家公园内4小时野生动物园之旅"
+  ],
+  "notIncluded": [
+   "国家公园门票费用"
+  ]
+ },
  "galle-private-heritage-coastal-highlights-tour": {
   "title": "加勒：私人文化遗产及海滨亮点之旅",
   "metaTitle": "加勒：私人文化遗产及海滨亮点之旅",
@@ -25417,6 +32601,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐饮",
    "景点门票费用"
+  ]
+ },
+ "negombo-city-tour-by-tuk-tuk-with-boat-safari": {
+  "title": "尼甘布嘟嘟车市区游览，含游船野生动物园之旅",
+  "metaTitle": "尼甘布嘟嘟车市区游览，含游船野生动物园之旅",
+  "metaDescription": "一次从Colombo出发的3小时行程，游览Tuk tuk, Negombo, Tuk tuk和Tuk tuk。由Sri Tour by Tuk Tuk提供。",
+  "shortDescription": "一次从Colombo出发的3小时行程，游览Tuk tuk, Negombo, Tuk tuk和Tuk tuk。由Sri Tour by Tuk Tuk提供。",
+  "fullDescription": "一次从Colombo出发的3小时行程，途经Tuk tuk, Negombo, Tuk tuk和Tuk tuk。最长的一站是Negombo，约2小时。全程共4站。\n\n行程顺序为Tuk tuk (1h), 然后 Negombo (2h), 然后 Tuk tuk (5 min), 然后 Tuk tuk (1h)。\n\n价格包含从科伦坡出发的酒店接送、乘传统嘟嘟车出行、现场导游讲解、参观尼甘布荷兰堡。不包含游船野生动物园门票：（1人：40美元，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的3小时行程，游览Tuk tuk, Negombo, Tuk tuk和Tuk tuk。由Sri Tour by Tuk Tuk提供。"
+  ],
+  "included": [
+   "从科伦坡出发的酒店接送",
+   "乘传统嘟嘟车出行",
+   "现场导游讲解",
+   "参观尼甘布荷兰堡"
+  ],
+  "notIncluded": [
+   "游船野生动物园门票：（1人：40美元"
   ]
  },
  "from-kandy-to-trincomalee-transfer-with": {
@@ -25459,6 +32662,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "景点门票"
   ]
  },
+ "from-colombo-or-negombo-ella-day-trip-with-nine": {
+  "title": "科伦坡或尼甘布出发：埃拉一日游，含九拱桥",
+  "metaTitle": "科伦坡或尼甘布出发：埃拉一日游，含九拱桥",
+  "metaDescription": "一次全天的Colombo体验。品尝传统斯里兰卡早餐及埃拉美味午餐。由PINKI CEYLON (PVT) LTD提供。",
+  "shortDescription": "一次全天的Colombo体验。品尝传统斯里兰卡早餐及埃拉美味午餐。由PINKI CEYLON (PVT) LTD提供。",
+  "fullDescription": "一次全天的Colombo体验。品尝传统斯里兰卡早餐及埃拉美味午餐。\n\n由PINKI CEYLON (PVT) LTD负责安排，价格中含8项内容。可免费取消。\n\n价格包含酒店接送、空调车辆、国王椰子、饮用水。不包含晚餐、布杜鲁瓦格拉寺门票，请另行预算。两位旅客共同支付423美元，而不是每人各付423美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "品尝传统斯里兰卡早餐及埃拉美味午餐"
+  ],
+  "included": [
+   "酒店接送",
+   "空调车辆",
+   "国王椰子",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "晚餐",
+   "布杜鲁瓦格拉寺门票"
+  ]
+ },
  "from-sigiriya-trincomalee-guided-heritage": {
   "title": "锡吉里耶出发：亭可马里导游文化遗产及野生动物之旅",
   "metaTitle": "锡吉里耶出发：亭可马里导游文化遗产及野生动物之旅",
@@ -25478,6 +32701,47 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票",
    "国家公园费用",
    "野生动物园吉普车费用"
+  ]
+ },
+ "kandy-meemure-tuk-tuk-safari-with-organic-lunch": {
+  "title": "康提：米穆雷嘟嘟车探险，含有机乡村午餐",
+  "metaTitle": "康提：米穆雷嘟嘟车探险，含有机乡村午餐",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Tuk tuk, Corbett's Gap, Tuk tuk和Alu Guhawa。由Ceylon Asia Voyage提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Tuk tuk, Corbett's Gap, Tuk tuk和Alu Guhawa。由Ceylon Asia Voyage提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Tuk tuk, Corbett's Gap, Tuk tuk和Alu Guhawa。最长的一站是Tuk tuk，约1小时。全程共12站。\n\n行程顺序为Tuk tuk (1h), 然后 Corbett's Gap (20 min), 然后 Tuk tuk (40 min), 然后 Alu Guhawa (30 min), 然后 Tuk tuk (5 min)。\n\n价格包含乘嘟嘟车从康提到米穆雷往返的探险之旅、经验丰富的当地司机/导游、导游带领的自然步道、参观瀑布。不包含个人消费、小费，请另行预算。两位旅客共同支付609美元，而不是每人各付338美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Tuk tuk, Corbett's Gap, Tuk tuk和Alu Guhawa。由Ceylon Asia Voyage提供。"
+  ],
+  "included": [
+   "乘嘟嘟车从康提到米穆雷往返的探险之旅",
+   "经验丰富的当地司机/导游",
+   "导游带领的自然步道",
+   "参观瀑布"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费"
+  ]
+ },
+ "sigiriyadambulla-private-day-trip-with-lunch-all": {
+  "title": "锡吉里耶/丹布勒：私人一日游，含午餐，全包",
+  "metaTitle": "锡吉里耶/丹布勒：私人一日游，含午餐，全包",
+  "metaDescription": "一次全天的Sigiriya体验。在全包私人一日游中探索斯里兰卡的古代奇观。由Bentota Travel Mart提供。",
+  "shortDescription": "一次全天的Sigiriya体验。在全包私人一日游中探索斯里兰卡的古代奇观。由Bentota Travel Mart提供。",
+  "fullDescription": "一次全天的Sigiriya体验。在全包私人一日游中探索斯里兰卡的古代奇观。\n\n由Bentota Travel Mart负责安排，价格中含6项内容。可免费取消。\n\n价格包含乘空调车辆的私人往返交通、经验丰富的司机兼导游、全部门票费用、锡吉里耶狮子岩及丹布勒寺的专业景点向导。不包含早餐、饮品、小费，请另行预算。",
+  "highlights": [
+   "在全包私人一日游中探索斯里兰卡的古代奇观"
+  ],
+  "included": [
+   "乘空调车辆的私人往返交通",
+   "经验丰富的司机兼导游",
+   "全部门票费用",
+   "锡吉里耶狮子岩及丹布勒寺的专业景点向导"
+  ],
+  "notIncluded": [
+   "早餐",
+   "饮品",
+   "小费"
   ]
  },
  "9-nights-10-days-sri-lanka-private-round-tour": {
@@ -25522,6 +32786,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "参观丹布勒石窟寺"
   ]
  },
+ "from-kandy-nuwara-eliya-horton-plains-2-day-tour": {
+  "title": "康提出发：努沃勒埃利耶及霍顿平原2日游",
+  "metaTitle": "康提出发：努沃勒埃利耶及霍顿平原2日游",
+  "metaDescription": "一次从Kandy出发的2天行程，游览nuwaraeliya city和horton plans。由Thenu Tours提供。",
+  "shortDescription": "一次从Kandy出发的2天行程，游览nuwaraeliya city和horton plans。由Thenu Tours提供。",
+  "fullDescription": "一次从Kandy出发的2天行程，途经nuwaraeliya city和horton plans。全程共2站。\n\n行程顺序为nuwaraeliya city, 然后 horton plans。\n\n价格包含当地导游及司机、瓶装水、舒适轿车、参观茶厂。不包含观光门票、吉普车、餐食，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的2天行程，游览nuwaraeliya city和horton plans。由Thenu Tours提供。"
+  ],
+  "included": [
+   "当地导游及司机",
+   "瓶装水",
+   "舒适轿车",
+   "参观茶厂"
+  ],
+  "notIncluded": [
+   "观光门票",
+   "吉普车",
+   "餐食"
+  ]
+ },
  "explore-hybrid-art-at-colombo-buddhist-image": {
   "title": "探索科伦坡佛像殿融合艺术",
   "metaTitle": "探索科伦坡佛像殿融合艺术",
@@ -25560,6 +32845,86 @@ export const ZH_TOURS: Record<string, TourT> = {
    "酒精饮料"
   ]
  },
+ "gallemirissahiriketiyathissamaharama-to-ella-day": {
+  "title": "加勒/米瑞沙/希里凯提亚/蒂萨默哈拉默至埃拉一日游",
+  "metaTitle": "加勒/米瑞沙/希里凯提亚/蒂萨默哈拉默至埃拉一日游",
+  "metaDescription": "一次从Galle出发的全天行程，游览Ella, Sri Lanka。由提供。",
+  "shortDescription": "一次从Galle出发的全天行程，游览Ella, Sri Lanka。由提供。",
+  "fullDescription": "一次从Galle出发的全天行程，途经Ella, Sri Lanka。最长的一站是Ella, Sri Lanka，约8小时。\n\n价格包含酒店接送、私人空调交通、英语司机兼导游、乌瓦哈佩瓦特茶厂游览。不包含景点门票费用，请另行预算。两位旅客共同支付203美元，而不是每人各付186美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Galle出发的全天行程，游览Ella, Sri Lanka。由提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "私人空调交通",
+   "英语司机兼导游",
+   "乌瓦哈佩瓦特茶厂游览"
+  ],
+  "notIncluded": [
+   "景点门票费用"
+  ]
+ },
+ "ella-to-kandy-private-transfer-with-train-ride": {
+  "title": "埃拉至康提私人接送，含火车之旅体验",
+  "metaTitle": "埃拉至康提私人接送，含火车之旅体验",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Nanuoya和Finish at:。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Nanuoya和Finish at:。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Nanuoya和Finish at:。全程共2站。\n\n行程顺序为Nanuoya, 然后 Finish at:。\n\n价格包含私人空调车辆、从埃拉出发的酒店接送、埃拉车站火车上车协助、风光隐秘停靠点（按行程安排）。不包含个人消费、司机/导游小费、门票费用，请另行预算。两位旅客共同支付254美元，而不是每人各付237美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Nanuoya和Finish at:。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。"
+  ],
+  "included": [
+   "私人空调车辆",
+   "从埃拉出发的酒店接送",
+   "埃拉车站火车上车协助",
+   "风光隐秘停靠点（按行程安排）"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "司机/导游小费",
+   "门票费用"
+  ]
+ },
+ "kandy-hidden-tea-heritage-tuk-tuk-tour": {
+  "title": "康提：隐秘茶文化及遗产嘟嘟车游览",
+  "metaTitle": "康提：隐秘茶文化及遗产嘟嘟车游览",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Tuk tuk, Kandy view point, Bahirawakanda Temple和Asgiri Maha Vihara Pirivena。由AMAK TRAVELS (PVT) LTD提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Tuk tuk, Kandy view point, Bahirawakanda Temple和Asgiri Maha Vihara Pirivena。由AMAK TRAVELS (PVT) LTD提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Tuk tuk, Kandy view point, Bahirawakanda Temple和Asgiri Maha Vihara Pirivena。最长的一站是Temple of the Sacred Tooth Relic，约1小时。全程共14站。\n\n行程顺序为Tuk tuk (15 min), 然后 Kandy view point (15 min), 然后 Bahirawakanda Temple (45 min), 然后 Asgiri Maha Vihara Pirivena (35 min), 然后 Tuk tuk (20 min)。\n\n价格包含私人嘟嘟车交通、英语当地持证导游、佛牙寺及茶厂门票、斯里兰卡传统午餐。不包含个人消费，请另行预算。两位旅客共同支付507美元，而不是每人各付305美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Tuk tuk, Kandy view point, Bahirawakanda Temple和Asgiri Maha Vihara Pirivena。由AMAK TRAVELS (PVT) LTD提供。"
+  ],
+  "included": [
+   "私人嘟嘟车交通",
+   "英语当地持证导游",
+   "佛牙寺及茶厂门票",
+   "斯里兰卡传统午餐"
+  ],
+  "notIncluded": [
+   "个人消费"
+  ]
+ },
+ "colombo-airport-south-coast-private-scenic-journey": {
+  "title": "科伦坡机场至南部海岸私人风光之旅",
+  "metaTitle": "科伦坡机场至南部海岸私人风光之旅",
+  "metaDescription": "一次从Colombo出发的0.5小时行程，游览Nilwella Beach。由Zeyo Tours提供。",
+  "shortDescription": "一次从Colombo出发的0.5小时行程，游览Nilwella Beach。由Zeyo Tours提供。",
+  "fullDescription": "一次从Colombo出发的0.5小时行程，途经Nilwella Beach。\n\n价格包含机场迎接，举牌显示客人姓名、私人空调车辆及英语司机兼导游、机场接机，南部海岸送达、行程中的瓶装水。不包含小费、个人消费和纪念品、超出公里限额后，每组每额外1公里收费0.45美元，请另行预算。两位旅客共同支付62美元，而不是每人各付62美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的0.5小时行程，游览Nilwella Beach。由Zeyo Tours提供。"
+  ],
+  "included": [
+   "机场迎接，举牌显示客人姓名",
+   "私人空调车辆及英语司机兼导游",
+   "机场接机，南部海岸送达",
+   "行程中的瓶装水"
+  ],
+  "notIncluded": [
+   "小费",
+   "个人消费和纪念品",
+   "超出公里限额后，每组每额外1公里收费0.45美元"
+  ]
+ },
  "5-day-sri-lanka-private-tour-with-hotels-transport": {
   "title": "斯里兰卡5日私人游，含酒店及交通",
   "metaTitle": "斯里兰卡5日私人游，含酒店及交通",
@@ -25579,6 +32944,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "午餐",
    "小费",
    "火车票"
+  ]
+ },
+ "ella-to-kandy-tour": {
+  "title": "埃拉至康提游览",
+  "metaTitle": "埃拉至康提游览",
+  "metaDescription": "一次半天的Kandy体验。享受从纳奴奥亚到康提的私人接送及风光游览。由Kumarihami Village House提供。",
+  "shortDescription": "一次半天的Kandy体验。享受从纳奴奥亚到康提的私人接送及风光游览。由Kumarihami Village House提供。",
+  "fullDescription": "一次半天的Kandy体验。享受从纳奴奥亚到康提的私人接送及风光游览。\n\n由Kumarihami Village House负责安排，价格中含12项内容。可免费取消。\n\n价格包含从纳奴奥亚火车站到康提的私人接送、送达康提住宿地点、瓶装水、经验丰富的向导。不包含餐食、景点门票费用，请另行预算。两位旅客共同支付138美元，而不是每人各付138美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "享受从纳奴奥亚到康提的私人接送及风光游览"
+  ],
+  "included": [
+   "从纳奴奥亚火车站到康提的私人接送",
+   "送达康提住宿地点",
+   "瓶装水",
+   "经验丰富的向导"
+  ],
+  "notIncluded": [
+   "餐食",
+   "景点门票费用"
   ]
  },
  "from-colombo-to-dambulla-sigiriyajeep": {
@@ -25602,6 +32987,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮（除特别说明外）",
    "可选小费",
    "早餐和午餐"
+  ]
+ },
+ "colombo-galle-fort-and-coastal-culture-private": {
+  "title": "科伦坡：加勒古堡及海岸文化私人游览",
+  "metaTitle": "科伦坡：加勒古堡及海岸文化私人游览",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Bentota Beach, Bentota, Madu Ganga和Galle Fort。由Sri Lankan Cab Service提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Bentota Beach, Bentota, Madu Ganga和Galle Fort。由Sri Lankan Cab Service提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Bentota Beach, Bentota, Madu Ganga和Galle Fort。全程共4站。\n\n行程顺序为Bentota Beach, 然后 Bentota, 然后 Madu Ganga, 然后 Galle Fort。\n\n价格包含从科伦坡出发的酒店接送、乘私人空调车辆交通、专业英语司机、导游带领参观加勒古堡及海岸精华景点。不包含个人消费和纪念品、司机小费（可选）、行程中未注明的额外活动或景点，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Bentota Beach, Bentota, Madu Ganga和Galle Fort。由Sri Lankan Cab Service提供。"
+  ],
+  "included": [
+   "从科伦坡出发的酒店接送",
+   "乘私人空调车辆交通",
+   "专业英语司机",
+   "导游带领参观加勒古堡及海岸精华景点"
+  ],
+  "notIncluded": [
+   "个人消费和纪念品",
+   "司机小费（可选）",
+   "行程中未注明的额外活动或景点"
   ]
  },
  "from-negombo-colombo-transfer-with-guided": {
@@ -25643,6 +33049,66 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐食",
    "个人消费"
+  ]
+ },
+ "from-colombo-ceylon-tea-heritage-demodara-rail": {
+  "title": "科伦坡出发：锡兰红茶遗产及德莫达拉铁路体验",
+  "metaTitle": "科伦坡出发：锡兰红茶遗产及德莫达拉铁路体验",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Ella, Sri Lanka, Nine Arch Bridge, Flying Ravana Mega Zipline和Ravana Falls。由Sri Lankan Cab Service提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Ella, Sri Lanka, Nine Arch Bridge, Flying Ravana Mega Zipline和Ravana Falls。由Sri Lankan Cab Service提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Ella, Sri Lanka, Nine Arch Bridge, Flying Ravana Mega Zipline和Ravana Falls。全程共8站。\n\n行程顺序为Ella, Sri Lanka, 然后 Nine Arch Bridge, 然后 Flying Ravana Mega Zipline, 然后 Ravana Falls, 然后 Ella, Sri Lanka。\n\n价格包含从科伦坡出发的酒店接送、空调车辆接送、专业英语司机、瓶装饮用水。不包含飞天拉瓦纳滑索门票（可选）、风光火车票（可选）、拉瓦纳泳池俱乐部门票及食物购买（可选），请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Ella, Sri Lanka, Nine Arch Bridge, Flying Ravana Mega Zipline和Ravana Falls。由Sri Lankan Cab Service提供。"
+  ],
+  "included": [
+   "从科伦坡出发的酒店接送",
+   "空调车辆接送",
+   "专业英语司机",
+   "瓶装饮用水"
+  ],
+  "notIncluded": [
+   "飞天拉瓦纳滑索门票（可选）",
+   "风光火车票（可选）",
+   "拉瓦纳泳池俱乐部门票及食物购买（可选）"
+  ]
+ },
+ "muthurajawela-wetland-bird-watching-boat-tour": {
+  "title": "穆图拉贾维拉湿地观鸟游船之旅，从尼甘布出发",
+  "metaTitle": "穆图拉贾维拉湿地观鸟游船之旅，从尼甘布出发",
+  "metaDescription": "一次从Negombo出发的半天行程，游览Muthurajawela Wetlands Sanctuary Visitor Center。由Classical Lanka Tours (Pvt) Ltd提供。",
+  "shortDescription": "一次从Negombo出发的半天行程，游览Muthurajawela Wetlands Sanctuary Visitor Center。由Classical Lanka Tours (Pvt) Ltd提供。",
+  "fullDescription": "一次从Negombo出发的半天行程，途经Muthurajawela Wetlands Sanctuary Visitor Center。最长的一站是Muthurajawela Wetlands Sanctuary Visitor Center，约3小时。\n\n价格包含空调车辆、私人交通、私人船只及救生衣、尼甘布酒店接送。两位旅客共同支付237美元，而不是每人各付203美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Negombo出发的半天行程，游览Muthurajawela Wetlands Sanctuary Visitor Center。由Classical Lanka Tours (Pvt) Ltd提供。"
+  ],
+  "included": [
+   "空调车辆",
+   "私人交通",
+   "私人船只及救生衣",
+   "尼甘布酒店接送"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "tedo-7-waterfalls-peak-adventure-knuckles": {
+  "title": "Tedo 7瀑布峰探险：纳克尔斯山脉",
+  "metaTitle": "Tedo 7瀑布峰探险：纳克尔斯山脉",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Knuckles Forest Reserve, Rangala和Heeloya Tourism Village, Kandy Office。由Ceylon Itinerary Holdings提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Knuckles Forest Reserve, Rangala和Heeloya Tourism Village, Kandy Office。由Ceylon Itinerary Holdings提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Knuckles Forest Reserve, Rangala和Heeloya Tourism Village, Kandy Office。最长的一站是Rangala，约6小时。全程共3站。\n\n行程顺序为Knuckles Forest Reserve (5h), 然后 Rangala (6h), 然后 Heeloya Tourism Village, Kandy Office (5h)。\n\n价格包含从康提出发的酒店接送、专业徒步向导、木屋或露营帐篷及睡眠装备、晚餐及茶点。不包含个人消费、旅游保险，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Knuckles Forest Reserve, Rangala和Heeloya Tourism Village, Kandy Office。由Ceylon Itinerary Holdings提供。"
+  ],
+  "included": [
+   "从康提出发的酒店接送",
+   "专业徒步向导",
+   "木屋或露营帐篷及睡眠装备",
+   "晚餐及茶点"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "旅游保险"
   ]
  },
  "pasikuda-sigiriya-lion-rock-village-tour-safari": {
@@ -25774,6 +33240,48 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "colombo-to-udawalawe-safari-sevanagala-sugar": {
+  "title": "科伦坡出发：乌达瓦拉维野生动物园之旅及塞瓦纳加拉糖厂游览",
+  "metaTitle": "科伦坡出发：乌达瓦拉维野生动物园之旅及塞瓦纳加拉糖厂游览",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Udawalawa National Park。由Serendib Tours提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Udawalawa National Park。由Serendib Tours提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Udawalawa National Park。最长的一站是Udawalawa National Park，约3小时。\n\n价格包含接送服务、配司机兼导游的私人空调车辆、燃油、停车费及高速公路通行费、所有政府税费、瓶装水。不包含乌达瓦拉维国家公园门票、野生动物园吉普车费用、塞瓦纳加拉糖厂门票，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Udawalawa National Park。由Serendib Tours提供。"
+  ],
+  "included": [
+   "接送服务",
+   "配司机兼导游的私人空调车辆",
+   "燃油、停车费及高速公路通行费",
+   "所有政府税费",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "乌达瓦拉维国家公园门票",
+   "野生动物园吉普车费用",
+   "塞瓦纳加拉糖厂门票"
+  ]
+ },
+ "colombo-to-kandy-full-day-private-tour-experience": {
+  "title": "科伦坡至康提：全天私人游览体验",
+  "metaTitle": "科伦坡至康提：全天私人游览体验",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Susantha Spice & Herbal Garden, Royal Botanic Gardens, Peradeniya, Kandy view point和Sri Dalada Maligawa。由Victoria tour pvt ltd提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Susantha Spice & Herbal Garden, Royal Botanic Gardens, Peradeniya, Kandy view point和Sri Dalada Maligawa。由Victoria tour pvt ltd提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Susantha Spice & Herbal Garden, Royal Botanic Gardens, Peradeniya, Kandy view point和Sri Dalada Maligawa。最长的一站是Royal Botanic Gardens, Peradeniya，约1小时。全程共7站。\n\n行程顺序为Susantha Spice & Herbal Garden (30 min), 然后 Royal Botanic Gardens, Peradeniya (1h), 然后 Kandy view point (30 min), 然后 Sri Dalada Maligawa (1h), 然后 Canbuy Gem Museum (30 min)。\n\n价格包含瓶装水、菠萝品尝、雨伞（如需要）。不包含全部票务及门票费用、个人消费、餐食，请另行预算。两位旅客共同支付254美元，而不是每人各付203美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Susantha Spice & Herbal Garden, Royal Botanic Gardens, Peradeniya, Kandy view point和Sri Dalada Maligawa。由Victoria tour pvt ltd提供。"
+  ],
+  "included": [
+   "瓶装水",
+   "菠萝品尝",
+   "雨伞（如需要）"
+  ],
+  "notIncluded": [
+   "全部票务及门票费用",
+   "个人消费",
+   "餐食"
+  ]
+ },
  "from-sigiriya-to-anuradhapura-transfer-with": {
   "title": "锡吉里耶到阿努拉德普勒接驳，含观光停靠",
   "metaTitle": "锡吉里耶到阿努拉德普勒接驳，含观光停靠",
@@ -25795,6 +33303,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "国家公园门票费用"
   ]
  },
+ "tea-plucker-day-nuwara-eliya-to-colombo-transfer": {
+  "title": "采茶工日：努沃勒埃利耶至科伦坡接送",
+  "metaTitle": "采茶工日：努沃勒埃利耶至科伦坡接送",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Ramboda和Finish at:。由Padraig Lanka Tours提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Ramboda和Finish at:。由Padraig Lanka Tours提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Ramboda和Finish at:。最长的一站是Ramboda，约1小时。全程共2站。\n\n行程顺序为Ramboda (1h), 然后 Finish at:。\n\n价格包含私人空调车辆、英语司机兼导游、采茶体验、参观茶厂。不包含基图尔加拉激流漂筏活动费用、行程中未提及的餐饮、个人消费和纪念品，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Ramboda和Finish at:。由Padraig Lanka Tours提供。"
+  ],
+  "included": [
+   "私人空调车辆",
+   "英语司机兼导游",
+   "采茶体验",
+   "参观茶厂"
+  ],
+  "notIncluded": [
+   "基图尔加拉激流漂筏活动费用",
+   "行程中未提及的餐饮",
+   "个人消费和纪念品"
+  ]
+ },
  "colombo-private-tuk-tuk-tour-with-hotel-pickup": {
   "title": "科伦坡：私人嘟嘟车游览，含酒店接送",
   "metaTitle": "科伦坡：私人嘟嘟车游览，含酒店接送",
@@ -25811,6 +33340,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "瓶装水"
   ],
   "notIncluded": [
+   "莲花塔和甘加拉玫寺门票"
+  ]
+ },
+ "colombo-hidden-stories-colonial-heritage-tuk-tuk": {
+  "title": "科伦坡：隐秘故事、殖民遗产嘟嘟车游览",
+  "metaTitle": "科伦坡：隐秘故事、殖民遗产嘟嘟车游览",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk和Colombo Port Maritime Museum。由Ceylonture Travels提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk和Colombo Port Maritime Museum。由Ceylonture Travels提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk和Colombo Port Maritime Museum。全程共17站。\n\n行程顺序为Tuk tuk (10 min), 然后 Colombo Fort Old Lighthouse & Clock Tower (20 min), 然后 Tuk tuk (5 min), 然后 Colombo Port Maritime Museum (10 min), 然后 Old Parliament Building, Colombo (10 min)。\n\n价格包含科伦坡4小时私人嘟嘟车游览、配专业英语当地导游、欢迎饮品（国王椰子水）、提供雨伞（按需提供）。不包含餐饮、莲花塔和甘加拉玫寺门票，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk和Colombo Port Maritime Museum。由Ceylonture Travels提供。"
+  ],
+  "included": [
+   "科伦坡4小时私人嘟嘟车游览",
+   "配专业英语当地导游",
+   "欢迎饮品（国王椰子水）",
+   "提供雨伞（按需提供）"
+  ],
+  "notIncluded": [
+   "餐饮",
    "莲花塔和甘加拉玫寺门票"
   ]
  },
@@ -25832,6 +33381,67 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐食和个人消费",
    "小费（可选）"
+  ]
+ },
+ "kandy-tuk-tuk-city-tour-with-local-guide-scenic": {
+  "title": "康提：嘟嘟车市区游览，配当地导游及风光景观",
+  "metaTitle": "康提：嘟嘟车市区游览，配当地导游及风光景观",
+  "metaDescription": "一次从Kandy出发的半天行程，游览Tuk tuk和Kandy。由Kandy Aaron City Tour Tuk Tuk提供。",
+  "shortDescription": "一次从Kandy出发的半天行程，游览Tuk tuk和Kandy。由Kandy Aaron City Tour Tuk Tuk提供。",
+  "fullDescription": "一次从Kandy出发的半天行程，途经Tuk tuk和Kandy。最长的一站是Kandy，约7小时。全程共2站。\n\n行程顺序为Tuk tuk (30 min), 然后 Kandy (7h)。\n\n价格包含酒店接送、私人导游/司机、行程可定制、参观阿斯吉里亚佛塔（免费入场）。不包含景点门票费用，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的半天行程，游览Tuk tuk和Kandy。由Kandy Aaron City Tour Tuk Tuk提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "私人导游/司机",
+   "行程可定制",
+   "参观阿斯吉里亚佛塔（免费入场）"
+  ],
+  "notIncluded": [
+   "景点门票费用"
+  ]
+ },
+ "14-days-sri-lanka-private-tour-package-with": {
+  "title": "14天斯里兰卡私人游览套餐，含酒店及餐食",
+  "metaTitle": "14天斯里兰卡私人游览套餐，含酒店及餐食",
+  "metaDescription": "一次14天的Colombo体验。通过这14天的游览探索五处联合国教科文组织世界遗产。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "shortDescription": "一次14天的Colombo体验。通过这14天的游览探索五处联合国教科文组织世界遗产。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "fullDescription": "一次14天的Colombo体验。通过这14天的游览探索五处联合国教科文组织世界遗产。\n\n由Nelum Holidays and Tours (Pvt) Ltd负责安排，价格中含12项内容。可免费取消。\n\n价格包含机场接送（全天任意时段）、13晚3或4星级酒店住宿，含指定餐食、按行程地点安排的14天私人交通、全新空调轿车/面包车。不包含午餐及部分晚餐、行程结束时给司机的小费、前往国家公园的私人野生动物园吉普车，请另行预算。",
+  "highlights": [
+   "通过这14天的游览探索五处联合国教科文组织世界遗产"
+  ],
+  "included": [
+   "机场接送（全天任意时段）",
+   "13晚3或4星级酒店住宿，含指定餐食",
+   "按行程地点安排的14天私人交通",
+   "全新空调轿车/面包车"
+  ],
+  "notIncluded": [
+   "午餐及部分晚餐",
+   "行程结束时给司机的小费",
+   "前往国家公园的私人野生动物园吉普车"
+  ]
+ },
+ "bentota-galle-fort-turtle-hatchery-moonstone-mine": {
+  "title": "本托塔：加勒古堡、海龟孵化场及月光石矿游览",
+  "metaTitle": "本托塔：加勒古堡、海龟孵化场及月光石矿游览",
+  "metaDescription": "一次从Galle出发的全天行程，游览Kosgoda Spice Garden 777, Kosgoda Sea Turtle Conservation, Ariyapala Mask Museum和Meetiyagoda Moonstone Mine。由Wander Zeylan Tours提供。",
+  "shortDescription": "一次从Galle出发的全天行程，游览Kosgoda Spice Garden 777, Kosgoda Sea Turtle Conservation, Ariyapala Mask Museum和Meetiyagoda Moonstone Mine。由Wander Zeylan Tours提供。",
+  "fullDescription": "一次从Galle出发的全天行程，途经Kosgoda Spice Garden 777, Kosgoda Sea Turtle Conservation, Ariyapala Mask Museum和Meetiyagoda Moonstone Mine。全程共7站。\n\n行程顺序为Kosgoda Spice Garden 777, 然后 Kosgoda Sea Turtle Conservation, 然后 Ariyapala Mask Museum, 然后 Meetiyagoda Moonstone Mine, 然后 Hikkaduwa Beach。\n\n价格包含酒店接送、私人空调车辆接送、司机或司机兼导游、参观科斯戈达海龟孵化场。不包含海龟孵化场门票、午餐及饮品、个人消费，请另行预算。两位旅客共同支付136美元，而不是每人各付111美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Galle出发的全天行程，游览Kosgoda Spice Garden 777, Kosgoda Sea Turtle Conservation, Ariyapala Mask Museum和Meetiyagoda Moonstone Mine。由Wander Zeylan Tours提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "私人空调车辆接送",
+   "司机或司机兼导游",
+   "参观科斯戈达海龟孵化场"
+  ],
+  "notIncluded": [
+   "海龟孵化场门票",
+   "午餐及饮品",
+   "个人消费"
   ]
  },
  "from-kandy-sigiriya-pidurangala-sunset-lake-tour": {
@@ -25873,6 +33483,48 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票费用（锡吉里耶、皮杜兰加拉岩、丹布勒、乡村野生动物园之旅）",
    "餐饮",
    "个人消费"
+  ]
+ },
+ "colombo-sigiriya-rock-fortress-caves-private-suv": {
+  "title": "科伦坡：锡吉里耶狮子岩及石窟私人SUV一日游",
+  "metaTitle": "科伦坡：锡吉里耶狮子岩及石窟私人SUV一日游",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Jeep / SUV和Jeep / SUV。由One World Tours Pvt Ltd提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Jeep / SUV和Jeep / SUV。由One World Tours Pvt Ltd提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Jeep / SUV和Jeep / SUV。最长的一站是Jeep / SUV，约4小时。全程共2站。\n\n行程顺序为Jeep / SUV (4h), 然后 Jeep / SUV (3h)。\n\n价格包含科伦坡酒店接送、私人SUV交通、丹布勒门票、专业英语司机。不包含餐饮、个人消费、小费，请另行预算。两位旅客共同支付472美元，而不是每人各付306美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Jeep / SUV和Jeep / SUV。由One World Tours Pvt Ltd提供。"
+  ],
+  "included": [
+   "科伦坡酒店接送",
+   "私人SUV交通",
+   "丹布勒门票",
+   "专业英语司机"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "个人消费",
+   "小费"
+  ]
+ },
+ "bentota-private-mangrove-cave-boat-tour-wildlife": {
+  "title": "本托塔：私人红树林洞穴游船之旅及野生动物园探险",
+  "metaTitle": "本托塔：私人红树林洞穴游船之旅及野生动物园探险",
+  "metaDescription": "一次从Bentota出发的1小时行程，游览Bentota。由Watching Lanka提供。",
+  "shortDescription": "一次从Bentota出发的1小时行程，游览Bentota。由Watching Lanka提供。",
+  "fullDescription": "一次从Bentota出发的1小时行程，途经Bentota。最长的一站是Bentota，约1小时。\n\n由Watching Lanka负责安排，价格中含5项内容。可免费取消。与家人或朋友一起在本托塔河享受宁静船程。\n\n价格包含专属您团队的私人游船租赁、延长或快速行程（取决于所选方案）、经验丰富的河流向导服务、高品质救生衣及安全装备。不包含餐饮、酒店接送、摄影及摄像服务，请另行预算。",
+  "highlights": [
+   "一次从Bentota出发的1小时行程，游览Bentota。由Watching Lanka提供。"
+  ],
+  "included": [
+   "专属您团队的私人游船租赁",
+   "延长或快速行程（取决于所选方案）",
+   "经验丰富的河流向导服务",
+   "高品质救生衣及安全装备"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "酒店接送",
+   "摄影及摄像服务"
   ]
  },
  "colombo-tuk-tuk-city-highlights-tour-with-guide": {
@@ -25955,6 +33607,84 @@ export const ZH_TOURS: Record<string, TourT> = {
    "可选活动"
   ]
  },
+ "sigiriya-village-culture-catamaran-cooking": {
+  "title": "锡吉里耶：乡村文化及双体船烹饪体验",
+  "metaTitle": "锡吉里耶：乡村文化及双体船烹饪体验",
+  "metaDescription": "一次从Sigiriya出发的3小时行程，游览Tuk tuk, Sigiriya, Sigiriya和Tuk tuk。由Ceyloney Premium提供。",
+  "shortDescription": "一次从Sigiriya出发的3小时行程，游览Tuk tuk, Sigiriya, Sigiriya和Tuk tuk。由Ceyloney Premium提供。",
+  "fullDescription": "一次从Sigiriya出发的3小时行程，途经Tuk tuk, Sigiriya, Sigiriya和Tuk tuk。全程共4站。\n\n行程顺序为Tuk tuk (15 min), 然后 Sigiriya, 然后 Sigiriya, 然后 Tuk tuk (30 min)。\n\n价格包含酒店接送、锡吉里耶村门票费用、私人交通、日出或日落双体船体验。不包含无任何隐藏费用，请另行预算。",
+  "highlights": [
+   "一次从Sigiriya出发的3小时行程，游览Tuk tuk, Sigiriya, Sigiriya和Tuk tuk。由Ceyloney Premium提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "锡吉里耶村门票费用",
+   "私人交通",
+   "日出或日落双体船体验"
+  ],
+  "notIncluded": [
+   "无任何隐藏费用"
+  ]
+ },
+ "bentota-kandy-ambuluawa-elephant-village-day-tour": {
+  "title": "本托塔：康提、安布鲁瓦瓦及象村一日游",
+  "metaTitle": "本托塔：康提、安布鲁瓦瓦及象村一日游",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Temple of the Sacred Tooth Relic, Royal Botanic Gardens, Kandy, Canbuy Gem Museum和Kandy Lake。由Reisenova Travels & Tours提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Temple of the Sacred Tooth Relic, Royal Botanic Gardens, Kandy, Canbuy Gem Museum和Kandy Lake。由Reisenova Travels & Tours提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Temple of the Sacred Tooth Relic, Royal Botanic Gardens, Kandy, Canbuy Gem Museum和Kandy Lake。最长的一站是Temple of the Sacred Tooth Relic，约1小时。全程共4站。\n\n行程顺序为Temple of the Sacred Tooth Relic (1h), 然后 Royal Botanic Gardens, Kandy, 然后 Canbuy Gem Museum (45 min), 然后 Kandy Lake (30 min)。\n\n价格包含酒店接送、空调车辆、前往康提的交通、参观香料园。不包含景点门票、餐饮、个人消费，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Temple of the Sacred Tooth Relic, Royal Botanic Gardens, Kandy, Canbuy Gem Museum和Kandy Lake。由Reisenova Travels & Tours提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "空调车辆",
+   "前往康提的交通",
+   "参观香料园"
+  ],
+  "notIncluded": [
+   "景点门票",
+   "餐饮",
+   "个人消费"
+  ]
+ },
+ "ella-scenic-train-ride-with-snacks-beer-and-pickup": {
+  "title": "埃拉：风光火车之旅，含小吃、啤酒及接客",
+  "metaTitle": "埃拉：风光火车之旅，含小吃、啤酒及接客",
+  "metaDescription": "一次半天的Ella体验。畅游埃拉途中，品尝冰啤酒及美味小吃。由Pelican Travels & Tours Sri Lanka提供。",
+  "shortDescription": "一次半天的Ella体验。畅游埃拉途中，品尝冰啤酒及美味小吃。由Pelican Travels & Tours Sri Lanka提供。",
+  "fullDescription": "一次半天的Ella体验。畅游埃拉途中，品尝冰啤酒及美味小吃。\n\n由Pelican Travels & Tours Sri Lanka负责安排，价格中含6项内容。可免费取消。\n\n价格包含预留火车票（1等/2等/经济舱）、冰啤酒、小吃、接送至火车站。",
+  "highlights": [
+   "畅游埃拉途中，品尝冰啤酒及美味小吃"
+  ],
+  "included": [
+   "预留火车票（1等/2等/经济舱）",
+   "冰啤酒",
+   "小吃",
+   "接送至火车站"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "sigiriya-night-safari-wildlife-tour-with-guide": {
+  "title": "锡吉里耶：夜间野生动物园之旅，配向导",
+  "metaTitle": "锡吉里耶：夜间野生动物园之旅，配向导",
+  "metaDescription": "一次半天的Sigiriya体验。与专业向导一起寻觅难得一见的夜间野生动物。由Minneriya Wilderness Co提供。",
+  "shortDescription": "一次半天的Sigiriya体验。与专业向导一起寻觅难得一见的夜间野生动物。由Minneriya Wilderness Co提供。",
+  "fullDescription": "一次半天的Sigiriya体验。与专业向导一起寻觅难得一见的夜间野生动物。\n\n由Minneriya Wilderness Co负责安排，价格中含4项内容。可免费取消。\n\n价格包含酒店接送、景点门票费用、瓶装水、英语导游/司机。",
+  "highlights": [
+   "与专业向导一起寻觅难得一见的夜间野生动物"
+  ],
+  "included": [
+   "酒店接送",
+   "景点门票费用",
+   "瓶装水",
+   "英语导游/司机"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "from-sigiriya-wasgamuwa-wildlife-safari-tour": {
   "title": "锡吉里耶出发：瓦斯甘穆瓦野生动物园之旅",
   "metaTitle": "锡吉里耶出发：瓦斯甘穆瓦野生动物园之旅",
@@ -25973,6 +33703,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐饮",
    "瓦斯甘穆瓦国家公园门票"
+  ]
+ },
+ "mirissa-whale-and-dolphin-watching-and-snorkeling": {
+  "title": "米瑞沙：观鲸、观海豚及浮潜之旅",
+  "metaTitle": "米瑞沙：观鲸、观海豚及浮潜之旅",
+  "metaDescription": "一次从Mirissa出发的半天行程，游览Tuk tuk, Speedboat和View point。由Mirissa Sea Life Diving Center提供。",
+  "shortDescription": "一次从Mirissa出发的半天行程，游览Tuk tuk, Speedboat和View point。由Mirissa Sea Life Diving Center提供。",
+  "fullDescription": "一次从Mirissa出发的半天行程，途经Tuk tuk, Speedboat和View point。最长的一站是View point，约3小时。全程共3站。\n\n行程顺序为Tuk tuk (15 min), 然后 Speedboat (30 min), 然后 View point (3h)。\n\n价格包含观鲸观豚、浮潜探险、海龟浮潜、导游讲解体验。",
+  "highlights": [
+   "一次从Mirissa出发的半天行程，游览Tuk tuk, Speedboat和View point。由Mirissa Sea Life Diving Center提供。"
+  ],
+  "included": [
+   "观鲸观豚",
+   "浮潜探险",
+   "海龟浮潜",
+   "导游讲解体验"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "kandy-sigiriya-rock-dambulla-cave-temple": {
@@ -25995,6 +33744,24 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票费用"
   ]
  },
+ "day-tour-to-polonnaruwa-from-sigiriya-or-habarana": {
+  "title": "从锡吉里耶或哈巴拉纳出发的波隆纳鲁沃一日游",
+  "metaTitle": "从锡吉里耶或哈巴拉纳出发的波隆纳鲁沃一日游",
+  "metaDescription": "一次全天的Sigiriya体验。从哈巴拉纳或锡吉里耶出发的酒店接送。由Royal kandy tours提供。",
+  "shortDescription": "一次全天的Sigiriya体验。从哈巴拉纳或锡吉里耶出发的酒店接送。由Royal kandy tours提供。",
+  "fullDescription": "一次全天的Sigiriya体验。从哈巴拉纳或锡吉里耶出发的酒店接送。\n\n由Royal kandy tours负责安排，价格中含3项内容。可免费取消。\n\n价格包含锡吉里耶、丹布勒或哈巴拉纳接送、私人空调交通、经验丰富的当地司机兼导游。不包含波隆纳鲁沃古城门票，请另行预算。两位旅客共同支付146美元，而不是每人各付145美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "从哈巴拉纳或锡吉里耶出发的酒店接送"
+  ],
+  "included": [
+   "锡吉里耶、丹布勒或哈巴拉纳接送",
+   "私人空调交通",
+   "经验丰富的当地司机兼导游"
+  ],
+  "notIncluded": [
+   "波隆纳鲁沃古城门票"
+  ]
+ },
  "bentota-fly-fish-water-sports-ride-with-safety": {
   "title": "本托塔：飞鱼水上运动，含安全装备",
   "metaTitle": "本托塔：飞鱼水上运动，含安全装备",
@@ -26014,6 +33781,48 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮",
    "酒店接送",
    "摄影及摄像服务"
+  ]
+ },
+ "from-colombo-sinharaja-rainforest-nature-adventure": {
+  "title": "科伦坡出发：辛哈拉加雨林自然探险",
+  "metaTitle": "科伦坡出发：辛哈拉加雨林自然探险",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Sinharaja Forest Reserve。由Sri Lanka Eco Tour提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Sinharaja Forest Reserve。由Sri Lanka Eco Tour提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Sinharaja Forest Reserve。最长的一站是Sinharaja Forest Reserve，约4小时。\n\n由Sri Lanka Eco Tour负责安排，价格中含5项内容。可免费取消。探索斯里兰卡最后的原始热带雨林。\n\n价格包含空调车辆、私人交通、英语司机兼导游、接送服务。不包含持证本地自然向导、雨林门票、食物及饮品（途中可停靠享用早餐及午餐），请另行预算。两位旅客共同支付359美元，而不是每人各付333美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Sinharaja Forest Reserve。由Sri Lanka Eco Tour提供。"
+  ],
+  "included": [
+   "空调车辆",
+   "私人交通",
+   "英语司机兼导游",
+   "接送服务"
+  ],
+  "notIncluded": [
+   "持证本地自然向导",
+   "雨林门票",
+   "食物及饮品（途中可停靠享用早餐及午餐）"
+  ]
+ },
+ "colombo-photography-tour-with-professional": {
+  "title": "科伦坡：专业摄影师摄影之旅",
+  "metaTitle": "科伦坡：专业摄影师摄影之旅",
+  "metaDescription": "一次从Colombo出发的2小时行程，游览Gangaramaya Temple, Independence Square, Colombo, Galle Face Green和Pettah Floating Market。由My Lanka Trips提供。",
+  "shortDescription": "一次从Colombo出发的2小时行程，游览Gangaramaya Temple, Independence Square, Colombo, Galle Face Green和Pettah Floating Market。由My Lanka Trips提供。",
+  "fullDescription": "一次从Colombo出发的2小时行程，途经Gangaramaya Temple, Independence Square, Colombo, Galle Face Green和Pettah Floating Market。全程共6站。\n\n行程顺序为Gangaramaya Temple, 然后 Independence Square, Colombo, 然后 Galle Face Green, 然后 Pettah Floating Market, 然后 Jami Ul-Alfar Mosque。\n\n价格包含酒店接送、具备当地专业知识的摄影师、根据您的喜好进行的个性化拍照、高清专业修图照片。不包含餐食、个人消费、小费，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的2小时行程，游览Gangaramaya Temple, Independence Square, Colombo, Galle Face Green和Pettah Floating Market。由My Lanka Trips提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "具备当地专业知识的摄影师",
+   "根据您的喜好进行的个性化拍照",
+   "高清专业修图照片"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "小费"
   ]
  },
  "colombo-tuk-tuk-city-tour-with-friendly-guide": {
@@ -26055,6 +33864,47 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食和个人消费"
   ]
  },
+ "galle-day-tour-boat-safari-jungle-beach-galle": {
+  "title": "加勒一日游：游船野生动物园之旅、丛林海滩及加勒古堡",
+  "metaTitle": "加勒一日游：游船野生动物园之旅、丛林海滩及加勒古堡",
+  "metaDescription": "一次全天的Galle体验。在一日游中沉浸于斯里兰卡南部海岸的美景。由Serendib Tours提供。",
+  "shortDescription": "一次全天的Galle体验。在一日游中沉浸于斯里兰卡南部海岸的美景。由Serendib Tours提供。",
+  "fullDescription": "一次全天的Galle体验。在一日游中沉浸于斯里兰卡南部海岸的美景。\n\n由Serendib Tours负责安排，价格中含7项内容。可免费取消。\n\n价格包含免费酒店接送、空调私人交通、科加拉游船野生动物园之旅、加勒古堡徒步游览。不包含个人消费、午餐，请另行预算。两位旅客共同支付296美元，而不是每人各付285美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在一日游中沉浸于斯里兰卡南部海岸的美景"
+  ],
+  "included": [
+   "免费酒店接送",
+   "空调私人交通",
+   "科加拉游船野生动物园之旅",
+   "加勒古堡徒步游览"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "午餐"
+  ]
+ },
+ "kandy-private-tuk-tuk-tour-with-hotel-pickup-and": {
+  "title": "康提：私人嘟嘟车游览，含酒店接送",
+  "metaTitle": "康提：私人嘟嘟车游览，含酒店接送",
+  "metaDescription": "一次半天的Kandy体验。在私人嘟嘟车游览中探索康提隐秘美景及著名景点。由Thenu Tours提供。",
+  "shortDescription": "一次半天的Kandy体验。在私人嘟嘟车游览中探索康提隐秘美景及著名景点。由Thenu Tours提供。",
+  "fullDescription": "一次半天的Kandy体验。在私人嘟嘟车游览中探索康提隐秘美景及著名景点。\n\n由Thenu Tours负责安排，价格中含12项内容。可免费取消。\n\n价格包含酒店接送、英语司机、旅游局授权司机、参观康提印度教寺庙。不包含餐食、门票、其他费用，请另行预算。",
+  "highlights": [
+   "在私人嘟嘟车游览中探索康提隐秘美景及著名景点"
+  ],
+  "included": [
+   "酒店接送",
+   "英语司机",
+   "旅游局授权司机",
+   "参观康提印度教寺庙"
+  ],
+  "notIncluded": [
+   "餐食",
+   "门票",
+   "其他费用"
+  ]
+ },
  "colombo-tuk-tuk-city-tour-with-tea-tasting-and": {
   "title": "科伦坡嘟嘟车市区游览，含品茶及导游",
   "metaTitle": "科伦坡嘟嘟车市区游览，含品茶及导游",
@@ -26072,6 +33922,66 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "莲花塔或甘加拉玫寺门票"
+  ]
+ },
+ "colombo-city-bus-tour-with-cruise-ship-hotel": {
+  "title": "科伦坡市区巴士游览，含游轮及酒店接客",
+  "metaTitle": "科伦坡市区巴士游览，含游轮及酒店接客",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Colombo Fort Old Lighthouse & Clock Tower, Colombo Port Maritime Museum, Old Parliament Building和Galle Face Green。由Victoria tour pvt ltd提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Colombo Fort Old Lighthouse & Clock Tower, Colombo Port Maritime Museum, Old Parliament Building和Galle Face Green。由Victoria tour pvt ltd提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Colombo Fort Old Lighthouse & Clock Tower, Colombo Port Maritime Museum, Old Parliament Building和Galle Face Green。全程共15站。\n\n行程顺序为Colombo Fort Old Lighthouse & Clock Tower (20 min), 然后 Colombo Port Maritime Museum (20 min), 然后 Old Parliament Building (20 min), 然后 Galle Face Green (20 min), 然后 Gangaramaya Temple (20 min)。\n\n价格包含从科伦坡游轮码头接客、空调巴士交通、现场导游讲解、参观要塞地区。不包含餐食、个人消费、莲花塔和甘加拉玫寺门票，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Colombo Fort Old Lighthouse & Clock Tower, Colombo Port Maritime Museum, Old Parliament Building和Galle Face Green。由Victoria tour pvt ltd提供。"
+  ],
+  "included": [
+   "从科伦坡游轮码头接客",
+   "空调巴士交通",
+   "现场导游讲解",
+   "参观要塞地区"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "莲花塔和甘加拉玫寺门票"
+  ]
+ },
+ "colombo-forgotten-colombo-tuk-tuk-tour-with-tea": {
+  "title": "科伦坡：被遗忘的科伦坡嘟嘟车游览，含品茶",
+  "metaTitle": "科伦坡：被遗忘的科伦坡嘟嘟车游览，含品茶",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Tuk tuk和Tuk tuk。由CEYLON TUK TUK提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Tuk tuk和Tuk tuk。由CEYLON TUK TUK提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Tuk tuk, Tuk tuk和Tuk tuk。全程共3站。\n\n行程顺序为Tuk tuk (10 min), 然后 Tuk tuk (5 min), 然后 Tuk tuk (12 min)。\n\n价格包含科伦坡境内任意地点的酒店接送、全包景点门票及停车费用、配经验丰富的司机兼导游的私人嘟嘟车、瓶装水。不包含餐食、轮椅，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Tuk tuk, Tuk tuk和Tuk tuk。由CEYLON TUK TUK提供。"
+  ],
+  "included": [
+   "科伦坡境内任意地点的酒店接送",
+   "全包景点门票及停车费用",
+   "配经验丰富的司机兼导游的私人嘟嘟车",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "餐食",
+   "轮椅"
+  ]
+ },
+ "cmb-airport-to-ella-private-transfer-tour": {
+  "title": "科伦坡机场至埃拉私人接送游览",
+  "metaTitle": "科伦坡机场至埃拉私人接送游览",
+  "metaDescription": "一次半天的Colombo体验。探索埃拉秀丽的山地风光及茶园。由Weligama Cabs Sri Lanka提供。",
+  "shortDescription": "一次半天的Colombo体验。探索埃拉秀丽的山地风光及茶园。由Weligama Cabs Sri Lanka提供。",
+  "fullDescription": "一次半天的Colombo体验。探索埃拉秀丽的山地风光及茶园。\n\n由Weligama Cabs Sri Lanka负责安排，价格中含4项内容。可免费取消。\n\n价格包含从班达拉奈克国际机场（科伦坡）接客、送达任意酒店、机场或指定地址、专业英语司机兼导游、私人空调车辆，舒适出行。两位旅客共同支付237美元，而不是每人各付237美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "探索埃拉秀丽的山地风光及茶园"
+  ],
+  "included": [
+   "从班达拉奈克国际机场（科伦坡）接客",
+   "送达任意酒店、机场或指定地址",
+   "专业英语司机兼导游",
+   "私人空调车辆，舒适出行"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "bentota-boat-safari-experience-nature-wildlife": {
@@ -26197,6 +34107,48 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "kandy-private-ambuluwawa-tower-and-3-temple-loop": {
+  "title": "康提：私人安布鲁瓦瓦塔及3寺环线游览",
+  "metaTitle": "康提：私人安布鲁瓦瓦塔及3寺环线游览",
+  "metaDescription": "一次全天的Kandy体验。登上安布鲁瓦瓦塔，感受凉爽的山风。由Mein Lanka Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。登上安布鲁瓦瓦塔，感受凉爽的山风。由Mein Lanka Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。登上安布鲁瓦瓦塔，感受凉爽的山风。\n\n由Mein Lanka Tours负责安排，价格中含5项内容。可免费取消。\n\n价格包含私人游览、穿越康提郊区的风光驾游、参观安布鲁瓦瓦、三寺环线游览。不包含餐食、个人消费、门票，请另行预算。两位旅客共同支付42美元，而不是每人各付38美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "登上安布鲁瓦瓦塔，感受凉爽的山风"
+  ],
+  "included": [
+   "私人游览",
+   "穿越康提郊区的风光驾游",
+   "参观安布鲁瓦瓦",
+   "三寺环线游览"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "门票"
+  ]
+ },
+ "colombo-guided-city-tuk-tuk-tour-with-snacks-and": {
+  "title": "科伦坡：导游带领嘟嘟车市区游览，含小吃及交通",
+  "metaTitle": "科伦坡：导游带领嘟嘟车市区游览，含小吃及交通",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk和Colombo Port Maritime Museum。由Ceylonite Travels Pvt Ltd提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk和Colombo Port Maritime Museum。由Ceylonite Travels Pvt Ltd提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk和Colombo Port Maritime Museum。全程共17站。\n\n行程顺序为Tuk tuk (10 min), 然后 Colombo Fort Old Lighthouse & Clock Tower (20 min), 然后 Tuk tuk (5 min), 然后 Colombo Port Maritime Museum (10 min), 然后 Old Parliament Building, Colombo (10 min)。\n\n价格包含欢迎饮品（椰子水）、提供瓶装水、可按需提供雨伞、主要景点拍照停靠点。不包含餐食、个人消费、莲花塔和甘加拉玫寺门票，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Tuk tuk, Colombo Fort Old Lighthouse & Clock Tower, Tuk tuk和Colombo Port Maritime Museum。由Ceylonite Travels Pvt Ltd提供。"
+  ],
+  "included": [
+   "欢迎饮品（椰子水）",
+   "提供瓶装水",
+   "可按需提供雨伞",
+   "主要景点拍照停靠点"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "莲花塔和甘加拉玫寺门票"
+  ]
+ },
  "tissamaharama-to-ella-transfer-with-waterfalls": {
   "title": "蒂萨默哈拉默到埃拉接驳，含瀑布及寺庙",
   "metaTitle": "蒂萨默哈拉默到埃拉接驳，含瀑布及寺庙",
@@ -26286,6 +34238,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费（可选）"
   ]
  },
+ "sri-lanka-5-day-tour-with-hotels-transport-tickets": {
+  "title": "斯里兰卡：5日游览，含酒店、交通及门票",
+  "metaTitle": "斯里兰卡：5日游览，含酒店、交通及门票",
+  "metaDescription": "一次从Colombo出发的5天行程，游览Dambulla Royal Cave Temple and Golden Temple, Kandy, Nuwara Eliya和Ella, Sri Lanka。由Padraig Lanka Tours提供。",
+  "shortDescription": "一次从Colombo出发的5天行程，游览Dambulla Royal Cave Temple and Golden Temple, Kandy, Nuwara Eliya和Ella, Sri Lanka。由Padraig Lanka Tours提供。",
+  "fullDescription": "一次从Colombo出发的5天行程，途经Dambulla Royal Cave Temple and Golden Temple, Kandy, Nuwara Eliya和Ella, Sri Lanka。最长的一站是Kandy，约3小时。全程共6站。\n\n行程顺序为Dambulla Royal Cave Temple and Golden Temple (1h), 然后 Kandy (3h), 然后 Nuwara Eliya (3h), 然后 Ella, Sri Lanka (3h), 然后 Galle (3h)。\n\n价格包含斯里兰卡5日游套餐、3星级酒店，含早餐、私人交通、所有门票。不包含皮杜兰加拉岩或锡吉里耶岩门票（可选）、个人消费、旅游保险，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的5天行程，游览Dambulla Royal Cave Temple and Golden Temple, Kandy, Nuwara Eliya和Ella, Sri Lanka。由Padraig Lanka Tours提供。"
+  ],
+  "included": [
+   "斯里兰卡5日游套餐",
+   "3星级酒店，含早餐",
+   "私人交通",
+   "所有门票"
+  ],
+  "notIncluded": [
+   "皮杜兰加拉岩或锡吉里耶岩门票（可选）",
+   "个人消费",
+   "旅游保险"
+  ]
+ },
  "ella-nature-waterfall-tuk-tuk-journey": {
   "title": "埃拉：自然及瀑布嘟嘟车之旅",
   "metaTitle": "埃拉：自然及瀑布嘟嘟车之旅",
@@ -26323,6 +34296,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "莲花塔和甘加拉玫寺门票",
    "个人消费"
+  ]
+ },
+ "sri-lanka-7-days-private-tour-for-the-first": {
+  "title": "斯里兰卡：7天私人游览，适合首次旅行者",
+  "metaTitle": "斯里兰卡：7天私人游览，适合首次旅行者",
+  "metaDescription": "一次7天的Colombo体验。在7天私人游览中探索斯里兰卡全部精华景点，含酒店及餐食。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "shortDescription": "一次7天的Colombo体验。在7天私人游览中探索斯里兰卡全部精华景点，含酒店及餐食。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "fullDescription": "一次7天的Colombo体验。在7天私人游览中探索斯里兰卡全部精华景点，含酒店及餐食。\n\n由Nelum Holidays and Tours (Pvt) Ltd负责安排，价格中含12项内容。可免费取消。\n\n价格包含机场接送（全天任意时段）、6晚酒店住宿，含指定餐食（可选3星或4星方案）、按行程地点安排的7天私人交通、全新空调轿车/面包车。不包含午餐及部分晚餐、行程结束时给司机的小费、观光门票费用（如适用），请另行预算。两位旅客共同支付2299美元，而不是每人各付2028美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在7天私人游览中探索斯里兰卡全部精华景点，含酒店及餐食"
+  ],
+  "included": [
+   "机场接送（全天任意时段）",
+   "6晚酒店住宿，含指定餐食（可选3星或4星方案）",
+   "按行程地点安排的7天私人交通",
+   "全新空调轿车/面包车"
+  ],
+  "notIncluded": [
+   "午餐及部分晚餐",
+   "行程结束时给司机的小费",
+   "观光门票费用（如适用）"
   ]
  },
  "ella-yala-cycling-tour-with-ravana-waterfalls": {
@@ -26405,6 +34399,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "附加活动门票费用"
+  ]
+ },
+ "from-kandy-train-ride-to-ella-via-nanu-oya": {
+  "title": "康提出发：经纳奴奥亚前往埃拉的火车之旅，含车票",
+  "metaTitle": "康提出发：经纳奴奥亚前往埃拉的火车之旅，含车票",
+  "metaDescription": "一次半天的Kandy体验。乘坐世界最具风光的火车路线之一。由Kandy Explore Tours提供。",
+  "shortDescription": "一次半天的Kandy体验。乘坐世界最具风光的火车路线之一。由Kandy Explore Tours提供。",
+  "fullDescription": "一次半天的Kandy体验。乘坐世界最具风光的火车路线之一。\n\n由Kandy Explore Tours负责安排，价格中含4项内容。可免费取消。\n\n价格包含康提酒店接送、到纳奴奥亚火车站的私人接送、火车票（预留座位视供应情况而定）、车站导游协助。两位旅客共同支付214美元，而不是每人各付180美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "乘坐世界最具风光的火车路线之一"
+  ],
+  "included": [
+   "康提酒店接送",
+   "到纳奴奥亚火车站的私人接送",
+   "火车票（预留座位视供应情况而定）",
+   "车站导游协助"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "colombo-all-inclusive-wilpattu-national-park-day": {
@@ -26492,6 +34505,67 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票费用"
   ]
  },
+ "sigiriya-private-night-safari-with-wildlife": {
+  "title": "锡吉里耶：私人夜间野生动物园之旅",
+  "metaTitle": "锡吉里耶：私人夜间野生动物园之旅",
+  "metaDescription": "一次3小时的Sigiriya体验。沉浸于夜间丛林的声色。由Im not registered as a compqny提供。",
+  "shortDescription": "一次3小时的Sigiriya体验。沉浸于夜间丛林的声色。由Im not registered as a compqny提供。",
+  "fullDescription": "一次3小时的Sigiriya体验。沉浸于夜间丛林的声色。\n\n由Im not registered as a compqny负责安排，价格中含6项内容。可免费取消。\n\n价格包含私人导游带领的夜间野生动物园之旅、接客、经验丰富的当地导游、野生动物观赏。不包含餐食、饮品，请另行预算。两位旅客共同支付160美元，而不是每人各付107美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "沉浸于夜间丛林的声色"
+  ],
+  "included": [
+   "私人导游带领的夜间野生动物园之旅",
+   "接客",
+   "经验丰富的当地导游",
+   "野生动物观赏"
+  ],
+  "notIncluded": [
+   "餐食",
+   "饮品"
+  ]
+ },
+ "pinnawala-elephants-watching-private-guided-tour": {
+  "title": "皮纳瓦拉观象私人导游游览，从康提出发",
+  "metaTitle": "皮纳瓦拉观象私人导游游览，从康提出发",
+  "metaDescription": "一次从Kandy出发的半天行程，游览Pahala Kadugannawa view point, Pinnawala Elephant Orphanage和Pilimathalawa Tea Factory。由Shabith tour kandy提供。",
+  "shortDescription": "一次从Kandy出发的半天行程，游览Pahala Kadugannawa view point, Pinnawala Elephant Orphanage和Pilimathalawa Tea Factory。由Shabith tour kandy提供。",
+  "fullDescription": "一次从Kandy出发的半天行程，途经Pahala Kadugannawa view point, Pinnawala Elephant Orphanage和Pilimathalawa Tea Factory。最长的一站是Pinnawala Elephant Orphanage，约2小时。全程共3站。\n\n行程顺序为Pahala Kadugannawa view point (30 min), 然后 Pinnawala Elephant Orphanage (2h), 然后 Pilimathalawa Tea Factory。\n\n价格包含当日私人车辆、经验丰富的英语当地司机兼导游、酒店接送、燃油、停车费用及当地税费、免费瓶装水。不包含门票费用，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的半天行程，游览Pahala Kadugannawa view point, Pinnawala Elephant Orphanage和Pilimathalawa Tea Factory。由Shabith tour kandy提供。"
+  ],
+  "included": [
+   "当日私人车辆",
+   "经验丰富的英语当地司机兼导游",
+   "酒店接送",
+   "燃油、停车费用及当地税费",
+   "免费瓶装水"
+  ],
+  "notIncluded": [
+   "门票费用"
+  ]
+ },
+ "sri-lanka-9-day-private-tour-package": {
+  "title": "斯里兰卡：9日私人游览套餐",
+  "metaTitle": "斯里兰卡：9日私人游览套餐",
+  "metaDescription": "一次9天的Colombo体验。探索斯里兰卡充满活力的文化、历史及自然美景。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "shortDescription": "一次9天的Colombo体验。探索斯里兰卡充满活力的文化、历史及自然美景。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "fullDescription": "一次9天的Colombo体验。探索斯里兰卡充满活力的文化、历史及自然美景。\n\n由Nelum Holidays and Tours (Pvt) Ltd负责安排，价格中含12项内容。可免费取消。\n\n价格包含机场接送（全天任意时段）、酒店住宿，含指定餐食（可选3星或4星方案）、按行程地点安排的9天私人交通、全新空调轿车/面包车。不包含午餐及部分晚餐、个人消费、观光门票（如适用），请另行预算。两位旅客共同支付1488美元，而不是每人各付1352美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "探索斯里兰卡充满活力的文化、历史及自然美景"
+  ],
+  "included": [
+   "机场接送（全天任意时段）",
+   "酒店住宿，含指定餐食（可选3星或4星方案）",
+   "按行程地点安排的9天私人交通",
+   "全新空调轿车/面包车"
+  ],
+  "notIncluded": [
+   "午餐及部分晚餐",
+   "个人消费",
+   "观光门票（如适用）"
+  ]
+ },
  "kandy-3-day-highlands-tour-with-waterfalls-tea": {
   "title": "康提：3日高地之旅，含瀑布及品茶",
   "metaTitle": "康提：3日高地之旅，含瀑布及品茶",
@@ -26511,6 +34585,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食",
    "个人消费",
    "住宿"
+  ]
+ },
+ "ocean-discovery-mirissa-scuba-diving-experience": {
+  "title": "海洋探索：米瑞沙水肺潜水体验",
+  "metaTitle": "海洋探索：米瑞沙水肺潜水体验",
+  "metaDescription": "一次从Mirissa出发的1小时行程，游览Tuk tuk和Mirissa。由Mirissa Whale Snorkeling & Fishing Club提供。",
+  "shortDescription": "一次从Mirissa出发的1小时行程，游览Tuk tuk和Mirissa。由Mirissa Whale Snorkeling & Fishing Club提供。",
+  "fullDescription": "一次从Mirissa出发的1小时行程，途经Tuk tuk和Mirissa。最长的一站是Mirissa，约1小时。全程共2站。\n\n行程顺序为Tuk tuk (15 min), 然后 Mirissa (1h)。\n\n价格包含米瑞沙地区接送、私人潜水课程、私人潜水教练、潜水装备。",
+  "highlights": [
+   "一次从Mirissa出发的1小时行程，游览Tuk tuk和Mirissa。由Mirissa Whale Snorkeling & Fishing Club提供。"
+  ],
+  "included": [
+   "米瑞沙地区接送",
+   "私人潜水课程",
+   "私人潜水教练",
+   "潜水装备"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "from-kandy-ambuluwawa-tower-and-kandy-city": {
@@ -26553,6 +34646,30 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食、小吃和饮品",
    "小费和个人消费",
    "个人徒步装备或服装",
+   "门票费用"
+  ]
+ },
+ "ella-to-belihuloya-safari-day-tour-hidden-nature": {
+  "title": "埃拉至贝利胡洛亚野生动物园一日游：隐秘自然逃逸",
+  "metaTitle": "埃拉至贝利胡洛亚野生动物园一日游：隐秘自然逃逸",
+  "metaDescription": "一次从Ella出发的全天行程，游览Belihuloya。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Belihuloya。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Belihuloya。\n\n价格包含配英语司机的私人空调车辆、燃油、停车费及所有交通相关费用、埃拉及周边地区接送（可按需安排班达拉韦拉/哈普塔莱路线）、行程中的免费瓶装水、前往贝利胡洛亚途中的高地风光驾游，含瀑布及观景点停靠、观光、河景及摄影停靠点的协助。不包含小费和个人消费、个人徒步装备或服装、餐食、小吃和饮品、门票费用，请另行预算。两位旅客共同支付254美元，而不是每人各付203美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Belihuloya。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。"
+  ],
+  "included": [
+   "配英语司机的私人空调车辆",
+   "燃油、停车费及所有交通相关费用",
+   "埃拉及周边地区接送（可按需安排班达拉韦拉/哈普塔莱路线）",
+   "行程中的免费瓶装水",
+   "前往贝利胡洛亚途中的高地风光驾游，含瀑布及观景点停靠",
+   "观光、河景及摄影停靠点的协助"
+  ],
+  "notIncluded": [
+   "小费和个人消费",
+   "个人徒步装备或服装",
+   "餐食、小吃和饮品",
    "门票费用"
   ]
  },
@@ -26602,6 +34719,29 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票费用"
   ]
  },
+ "sigiriya-to-bakers-bend-adventure-day-tour": {
+  "title": "锡吉里耶至贝克弯探险一日游",
+  "metaTitle": "锡吉里耶至贝克弯探险一日游",
+  "metaDescription": "一次从Sigiriya出发的全天行程，游览Baker's Bend。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "shortDescription": "一次从Sigiriya出发的全天行程，游览Baker's Bend。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "fullDescription": "一次从Sigiriya出发的全天行程，途经Baker's Bend。\n\n价格包含配英语司机的私人空调车辆、燃油、停车费及所有交通相关费用、锡吉里耶及周边地区接送（可按需安排丹布勒/哈巴拉纳）、行程中的免费瓶装水、穿越文化村庄及高地路线的风光驾游、参观茶厂、香料园、宝石博物馆及丝绸厂。不包含餐食、小吃和饮品、小费和个人消费、门票费用，请另行预算。",
+  "highlights": [
+   "一次从Sigiriya出发的全天行程，游览Baker's Bend。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。"
+  ],
+  "included": [
+   "配英语司机的私人空调车辆",
+   "燃油、停车费及所有交通相关费用",
+   "锡吉里耶及周边地区接送（可按需安排丹布勒/哈巴拉纳）",
+   "行程中的免费瓶装水",
+   "穿越文化村庄及高地路线的风光驾游",
+   "参观茶厂、香料园、宝石博物馆及丝绸厂"
+  ],
+  "notIncluded": [
+   "餐食、小吃和饮品",
+   "小费和个人消费",
+   "门票费用"
+  ]
+ },
  "nuwara-eliya-to-bakers-bend-adventure-day-tour": {
   "title": "努沃勒埃利耶到贝克湾：探险一日游",
   "metaTitle": "努沃勒埃利耶到贝克湾：探险一日游",
@@ -26641,6 +34781,28 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "galle-full-day-tour-with-fort-coastal-highlights": {
+  "title": "加勒：全天游览，含古堡及海岸精华",
+  "metaTitle": "加勒：全天游览，含古堡及海岸精华",
+  "metaDescription": "一次全天的Galle体验。一天内安排酒店接客、河流野生动物园之旅、海龟及加勒古堡。由Tharu Tours Sri Lanka(PVT)Ltd提供。",
+  "shortDescription": "一次全天的Galle体验。一天内安排酒店接客、河流野生动物园之旅、海龟及加勒古堡。由Tharu Tours Sri Lanka(PVT)Ltd提供。",
+  "fullDescription": "一次全天的Galle体验。一天内安排酒店接客、河流野生动物园之旅、海龟及加勒古堡。\n\n由Tharu Tours Sri Lanka(PVT)Ltd负责安排，价格中含12项内容。可免费取消。\n\n价格包含酒店或机场接送、经验丰富的外语导游、配司机的私人空调车辆、马杜河游船野生动物园之旅。不包含餐饮、个人消费（纪念品、购物等）、司机/导游小费（可选）、行程中未提及的任何自选活动，请另行预算。两位旅客共同支付440美元，而不是每人各付440美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一天内安排酒店接客、河流野生动物园之旅、海龟及加勒古堡"
+  ],
+  "included": [
+   "酒店或机场接送",
+   "经验丰富的外语导游",
+   "配司机的私人空调车辆",
+   "马杜河游船野生动物园之旅"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "个人消费（纪念品、购物等）",
+   "司机/导游小费（可选）",
+   "行程中未提及的任何自选活动"
   ]
  },
  "7-days-sri-lanka-tour-package-with-private-driver": {
@@ -26702,6 +34864,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "午餐",
    "小费",
    "火车票"
+  ]
+ },
+ "sri-lanka-6-day-private-hiking-tour-with-safari": {
+  "title": "斯里兰卡：6日私人徒步游览，含野生动物园之旅及海滩",
+  "metaTitle": "斯里兰卡：6日私人徒步游览，含野生动物园之旅及海滩",
+  "metaDescription": "一次6天的Galle体验。攀登标志性的锡吉里耶狮子岩，欣赏美景。由Fivemo Tours提供。",
+  "shortDescription": "一次6天的Galle体验。攀登标志性的锡吉里耶狮子岩，欣赏美景。由Fivemo Tours提供。",
+  "fullDescription": "一次6天的Galle体验。攀登标志性的锡吉里耶狮子岩，欣赏美景。\n\n由Fivemo Tours负责安排，价格中含12项内容。可免费取消。\n\n价格包含攀登锡吉里耶狮子岩、徒步登顶亚当峰、埃拉风光火车之旅、探索九拱桥。不包含餐食、个人消费、旅游保险，请另行预算。两位旅客共同支付1225美元，而不是每人各付1212美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "攀登标志性的锡吉里耶狮子岩，欣赏美景"
+  ],
+  "included": [
+   "攀登锡吉里耶狮子岩",
+   "徒步登顶亚当峰",
+   "埃拉风光火车之旅",
+   "探索九拱桥"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "旅游保险"
   ]
  },
  "colombo-hidden-city-street-food-local-life": {
@@ -26900,6 +35083,65 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "sigiriya-pidurangala-rock-sunrise-or-sunset-photo": {
+  "title": "锡吉里耶：皮杜兰加拉岩日出或日落拍照之旅",
+  "metaTitle": "锡吉里耶：皮杜兰加拉岩日出或日落拍照之旅",
+  "metaDescription": "一次从Sigiriya出发的3小时行程，游览Pidurangala。由Beyond Escapes提供。",
+  "shortDescription": "一次从Sigiriya出发的3小时行程，游览Pidurangala。由Beyond Escapes提供。",
+  "fullDescription": "一次从Sigiriya出发的3小时行程，途经Pidurangala。最长的一站是Pidurangala，约2小时。\n\n价格包含专业摄影服务、酒店接送（锡吉里耶/丹布勒地区）、皮杜兰加拉岩门票、瓶装水。不包含餐食、个人消费，请另行预算。两位旅客共同支付271美元，而不是每人各付254美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Sigiriya出发的3小时行程，游览Pidurangala。由Beyond Escapes提供。"
+  ],
+  "included": [
+   "专业摄影服务",
+   "酒店接送（锡吉里耶/丹布勒地区）",
+   "皮杜兰加拉岩门票",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
+  ]
+ },
+ "from-colombo-private-sadagirisaya-temple-tea": {
+  "title": "科伦坡出发：私人萨达吉里萨亚寺及茶厂游览",
+  "metaTitle": "科伦坡出发：私人萨达吉里萨亚寺及茶厂游览",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Hanthana Sandagiri Maha Seya, Ceylon Tea Museum和Kandy。由Lanka Expo Tours提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Hanthana Sandagiri Maha Seya, Ceylon Tea Museum和Kandy。由Lanka Expo Tours提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Hanthana Sandagiri Maha Seya, Ceylon Tea Museum和Kandy。最长的一站是Kandy，约4小时。全程共3站。\n\n行程顺序为Hanthana Sandagiri Maha Seya (2h), 然后 Ceylon Tea Museum, 然后 Kandy (4h)。\n\n价格包含穿越葱郁乡村的风光驾游、参观萨达吉里萨亚寺、参观传统茶厂、学习完整的制茶工艺。不包含餐食、个人消费，请另行预算。两位旅客共同支付169美元，而不是每人各付162美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Hanthana Sandagiri Maha Seya, Ceylon Tea Museum和Kandy。由Lanka Expo Tours提供。"
+  ],
+  "included": [
+   "穿越葱郁乡村的风光驾游",
+   "参观萨达吉里萨亚寺",
+   "参观传统茶厂",
+   "学习完整的制茶工艺"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
+  ]
+ },
+ "kandy-ranawana-royal-temple-forest-park-tuk-tuk": {
+  "title": "康提：拉纳瓦纳皇家寺及森林公园嘟嘟车游览",
+  "metaTitle": "康提：拉纳瓦纳皇家寺及森林公园嘟嘟车游览",
+  "metaDescription": "一次从Kandy出发的3小时行程，游览Kandy。由Sri lanka Travels spot提供。",
+  "shortDescription": "一次从Kandy出发的3小时行程，游览Kandy。由Sri lanka Travels spot提供。",
+  "fullDescription": "一次从Kandy出发的3小时行程，途经Kandy。最长的一站是Kandy，约3小时。\n\n价格包含嘟嘟车体验、参观拉纳瓦纳皇家寺、参观拉纳瓦纳皇家森林公园、格拉加马茶厂游览。",
+  "highlights": [
+   "一次从Kandy出发的3小时行程，游览Kandy。由Sri lanka Travels spot提供。"
+  ],
+  "included": [
+   "嘟嘟车体验",
+   "参观拉纳瓦纳皇家寺",
+   "参观拉纳瓦纳皇家森林公园",
+   "格拉加马茶厂游览"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "kandy-ella-scenic-train-and-road-trip-with-tickets": {
   "title": "康提：埃拉风光火车及公路之旅，含车票",
   "metaTitle": "康提：埃拉风光火车及公路之旅，含车票",
@@ -26957,6 +35199,46 @@ export const ZH_TOURS: Record<string, TourT> = {
    "景点门票费用"
   ]
  },
+ "from-colombo-to-diyatalawa-ella-2-day-scenic": {
+  "title": "科伦坡至迪亚塔拉瓦及埃拉：2日风光火车游览",
+  "metaTitle": "科伦坡至迪亚塔拉瓦及埃拉：2日风光火车游览",
+  "metaDescription": "一次从Colombo出发的2天行程，游览Diyatalawa和Ella, Sri Lanka。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "shortDescription": "一次从Colombo出发的2天行程，游览Diyatalawa和Ella, Sri Lanka。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "fullDescription": "一次从Colombo出发的2天行程，途经Diyatalawa和Ella, Sri Lanka。全程共2站。\n\n行程顺序为Diyatalawa, 然后 Ella, Sri Lanka。\n\n价格包含私人空调车辆、英语司机兼导游、火车票（视供应情况而定）、燃油、通行费及停车费。不包含餐饮、个人消费、导游小费，请另行预算。两位旅客共同支付609美元，而不是每人各付524美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的2天行程，游览Diyatalawa和Ella, Sri Lanka。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。"
+  ],
+  "included": [
+   "私人空调车辆",
+   "英语司机兼导游",
+   "火车票（视供应情况而定）",
+   "燃油、通行费及停车费"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "个人消费",
+   "导游小费"
+  ]
+ },
+ "sigiriya-village-lake-swimming-experience": {
+  "title": "锡吉里耶：乡村湖泊游泳体验",
+  "metaTitle": "锡吉里耶：乡村湖泊游泳体验",
+  "metaDescription": "一次2小时的Sigiriya体验。在锡吉里耶风光秀丽的乡村湖泊上享受轻松船程。由Im not registered as a compqny提供。",
+  "shortDescription": "一次2小时的Sigiriya体验。在锡吉里耶风光秀丽的乡村湖泊上享受轻松船程。由Im not registered as a compqny提供。",
+  "fullDescription": "一次2小时的Sigiriya体验。在锡吉里耶风光秀丽的乡村湖泊上享受轻松船程。\n\n由Im not registered as a compqny负责安排，价格中含4项内容。可免费取消。\n\n价格包含乡村湖泊、在指定安全区域游泳的机会、参观附近村庄、拍照机会。",
+  "highlights": [
+   "在锡吉里耶风光秀丽的乡村湖泊上享受轻松船程"
+  ],
+  "included": [
+   "乡村湖泊",
+   "在指定安全区域游泳的机会",
+   "参观附近村庄",
+   "拍照机会"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "sri-lanka-8-days-sri-lanka-highlights-private-tour": {
   "title": "斯里兰卡：8日斯里兰卡亮点私人之旅",
   "metaTitle": "斯里兰卡：8日斯里兰卡亮点私人之旅",
@@ -26982,6 +35264,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "早餐、午餐和晚餐",
    "个人消费（购物、饮品、洗衣）",
    "司机、导游及服务人员的小费"
+  ]
+ },
+ "from-sigiriya-sunrise-pidurangala-wild-elephant": {
+  "title": "锡吉里耶出发：日出皮杜兰加拉及野生象群野生动物园之旅",
+  "metaTitle": "锡吉里耶出发：日出皮杜兰加拉及野生象群野生动物园之旅",
+  "metaDescription": "一次全天的Sigiriya体验。日出徒步，欣赏锡吉里耶全景。由Minneriya Wilderness Co提供。",
+  "shortDescription": "一次全天的Sigiriya体验。日出徒步，欣赏锡吉里耶全景。由Minneriya Wilderness Co提供。",
+  "fullDescription": "一次全天的Sigiriya体验。日出徒步，欣赏锡吉里耶全景。\n\n由Minneriya Wilderness Co负责安排，价格中含6项内容。可免费取消。\n\n价格包含酒店接送、私人车辆、英语司机兼导游、皮杜兰加拉徒步的导游支持。不包含明内里耶国家公园门票35美元、皮杜兰加拉门票3美元，请另行预算。两位旅客共同支付160美元，而不是每人各付134美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "日出徒步，欣赏锡吉里耶全景"
+  ],
+  "included": [
+   "酒店接送",
+   "私人车辆",
+   "英语司机兼导游",
+   "皮杜兰加拉徒步的导游支持"
+  ],
+  "notIncluded": [
+   "明内里耶国家公园门票35美元",
+   "皮杜兰加拉门票3美元"
   ]
  },
  "from-colombonegombo-kandy-pinnawala-tea-factory": {
@@ -27062,6 +35364,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "景点门票费用"
   ]
  },
+ "kandy-royal-botanical-garden-tea-factory-tour": {
+  "title": "康提：皇家植物园及茶厂游览，含接送",
+  "metaTitle": "康提：皇家植物园及茶厂游览，含接送",
+  "metaDescription": "一次从Kandy出发的3小时行程，游览Tuk tuk和Royal Botanic Gardens, Kandy。由Kandy Sightseeing Tours提供。",
+  "shortDescription": "一次从Kandy出发的3小时行程，游览Tuk tuk和Royal Botanic Gardens, Kandy。由Kandy Sightseeing Tours提供。",
+  "fullDescription": "一次从Kandy出发的3小时行程，途经Tuk tuk和Royal Botanic Gardens, Kandy。最长的一站是Royal Botanic Gardens, Kandy，约2小时。全程共2站。\n\n行程顺序为Tuk tuk (20 min), 然后 Royal Botanic Gardens, Kandy (2h)。\n\n价格包含酒店接送（康提地区）、私人嘟嘟车及司机、品茶体验。不包含皇家植物园门票（可作为自选项目）、餐饮、个人消费，请另行预算。两位旅客共同支付10美元，而不是每人各付10美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的3小时行程，游览Tuk tuk和Royal Botanic Gardens, Kandy。由Kandy Sightseeing Tours提供。"
+  ],
+  "included": [
+   "酒店接送（康提地区）",
+   "私人嘟嘟车及司机",
+   "品茶体验"
+  ],
+  "notIncluded": [
+   "皇家植物园门票（可作为自选项目）",
+   "餐饮",
+   "个人消费"
+  ]
+ },
  "galle-sunset-photography-tour-with-a-photographer": {
   "title": "加勒：日落摄影之旅，配专业摄影师",
   "metaTitle": "加勒：日落摄影之旅，配专业摄影师",
@@ -27079,6 +35401,26 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "colombo-photography-tour-with-a-professional": {
+  "title": "科伦坡：专业摄影师摄影之旅",
+  "metaTitle": "科伦坡：专业摄影师摄影之旅",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Colombo Port City Beach, Colombo, Colombo Lotus Tower和Galle Face Green。由Beyond Escapes提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Colombo Port City Beach, Colombo, Colombo Lotus Tower和Galle Face Green。由Beyond Escapes提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Colombo Port City Beach, Colombo, Colombo Lotus Tower和Galle Face Green。最长的一站是Colombo Port City Beach，约1小时。全程共4站。\n\n行程顺序为Colombo Port City Beach (1h), 然后 Colombo (1h), 然后 Colombo Lotus Tower (1h), 然后 Galle Face Green (1h)。\n\n价格包含酒店接送、专业摄影师、每个地点提供3张照片（每人），可按商定价格购买更多照片、科伦坡港口城摄影体验。不包含视频、科伦坡其他地点的照片，请另行预算。两位旅客共同支付254美元，而不是每人各付212美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Colombo Port City Beach, Colombo, Colombo Lotus Tower和Galle Face Green。由Beyond Escapes提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "专业摄影师",
+   "每个地点提供3张照片（每人），可按商定价格购买更多照片",
+   "科伦坡港口城摄影体验"
+  ],
+  "notIncluded": [
+   "视频",
+   "科伦坡其他地点的照片"
   ]
  },
  "mirissa-whale-snorkeling-tour-with-breakfast": {
@@ -27118,6 +35460,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐食",
    "个人消费"
+  ]
+ },
+ "kandy-sandahirusaya-temple-ceylon-tea-museum-tour": {
+  "title": "康提：桑达希鲁萨亚寺及锡兰红茶博物馆游览",
+  "metaTitle": "康提：桑达希鲁萨亚寺及锡兰红茶博物馆游览",
+  "metaDescription": "一次从Kandy出发的半天行程，游览Kandy。由Ceylon tuk tuk tour提供。",
+  "shortDescription": "一次从Kandy出发的半天行程，游览Kandy。由Ceylon tuk tuk tour提供。",
+  "fullDescription": "一次从Kandy出发的半天行程，途经Kandy。最长的一站是Kandy，约4小时。\n\n价格包含酒店接送、参观桑达希鲁萨亚寺、穿越茶园的风光驾游、参观锡兰红茶博物馆。不包含餐食、个人消费、不含参观地点的门票，请另行预算。两位旅客共同支付15美元，而不是每人各付8美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的半天行程，游览Kandy。由Ceylon tuk tuk tour提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "参观桑达希鲁萨亚寺",
+   "穿越茶园的风光驾游",
+   "参观锡兰红茶博物馆"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费",
+   "不含参观地点的门票"
   ]
  },
  "from-udawalawe-to-ella-transfer-with-waterfalls": {
@@ -27260,6 +35623,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "午餐或晚餐"
   ]
  },
+ "mirissa-nordic-sauna-ice-bath-experience-with": {
+  "title": "米瑞沙：北欧桑拿及冰浴体验，含嘟嘟车接送",
+  "metaTitle": "米瑞沙：北欧桑拿及冰浴体验，含嘟嘟车接送",
+  "metaDescription": "一次从Mirissa出发的1.5小时行程，游览Tuk tuk和Mirissa。由Heros Adventures提供。",
+  "shortDescription": "一次从Mirissa出发的1.5小时行程，游览Tuk tuk和Mirissa。由Heros Adventures提供。",
+  "fullDescription": "一次从Mirissa出发的1.5小时行程，途经Tuk tuk和Mirissa。全程共2站。\n\n行程顺序为Tuk tuk (15 min), 然后 Mirissa。\n\n价格包含嘟嘟车体验、导游讲解的冷热交替疗法流程介绍、北欧桑拿体验、冰浴体验。不包含住宿，请另行预算。",
+  "highlights": [
+   "一次从Mirissa出发的1.5小时行程，游览Tuk tuk和Mirissa。由Heros Adventures提供。"
+  ],
+  "included": [
+   "嘟嘟车体验",
+   "导游讲解的冷热交替疗法流程介绍",
+   "北欧桑拿体验",
+   "冰浴体验"
+  ],
+  "notIncluded": [
+   "住宿"
+  ]
+ },
  "scuba-diving-in-negombo": {
   "title": "尼甘布水肺潜水",
   "metaTitle": "尼甘布水肺潜水",
@@ -27363,6 +35745,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "午餐或额外餐食",
    "个人消费",
    "小费"
+  ]
+ },
+ "hidden-hill-country-kandy-to-nuwara-eliya-day": {
+  "title": "隐秘高地：康提至努沃勒埃利耶环线一日游",
+  "metaTitle": "隐秘高地：康提至努沃勒埃利耶环线一日游",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Nuwara Eliya。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Nuwara Eliya。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Nuwara Eliya。\n\n价格包含配友善的英语司机兼导游的私人空调车辆、康提酒店/宾馆接送、参观隐秘瀑布、茶园漫步及品茶。不包含餐食和个人消费、小费、门票费用，请另行预算。两位旅客共同支付203美元，而不是每人各付136美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Nuwara Eliya。由CEYLON OF TRAVELS - C.O.T (PVT) LTD提供。"
+  ],
+  "included": [
+   "配友善的英语司机兼导游的私人空调车辆",
+   "康提酒店/宾馆接送",
+   "参观隐秘瀑布",
+   "茶园漫步及品茶"
+  ],
+  "notIncluded": [
+   "餐食和个人消费",
+   "小费",
+   "门票费用"
   ]
  },
  "ella-to-nuwara-eliya-secret-hill-country-circular": {
@@ -27483,6 +35886,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "午餐"
+  ]
+ },
+ "yala-safari-experience-from": {
+  "title": "雅拉野生动物园体验，从阿胡加拉、本托塔、贝鲁瓦拉出发",
+  "metaTitle": "雅拉野生动物园体验，从阿胡加拉、本托塔、贝鲁瓦拉出发",
+  "metaDescription": "一次从Ella出发的全天行程，游览Yala National Park。由Riu Lanka Tours and Travels (Pvt) Lid提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Yala National Park。由Riu Lanka Tours and Travels (Pvt) Lid提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Yala National Park。最长的一站是Yala National Park，约4小时。\n\n价格包含酒店接送、空调交通、持证4x4野生动物园吉普车、专业注册野生动物园司机。不包含餐饮，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Yala National Park。由Riu Lanka Tours and Travels (Pvt) Lid提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "空调交通",
+   "持证4x4野生动物园吉普车",
+   "专业注册野生动物园司机"
+  ],
+  "notIncluded": [
+   "餐饮"
   ]
  },
  "sri-lanka-private-car-driver": {
@@ -27656,6 +36078,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "司机、导游及服务人员的小费"
   ]
  },
+ "from-kandy-pinnawala-elephant-orphanage-tuk-tuk": {
+  "title": "康提出发：皮纳瓦拉象孤儿院嘟嘟车一日游",
+  "metaTitle": "康提出发：皮纳瓦拉象孤儿院嘟嘟车一日游",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Tuk tuk。由Lankan Rv Tours提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Tuk tuk。由Lankan Rv Tours提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Tuk tuk。最长的一站是Tuk tuk，约8小时。\n\n由Lankan Rv Tours负责安排，价格中含12项内容。可免费取消。参观皮纳瓦拉象孤儿院，观赏象群沐浴。\n\n价格包含私人嘟嘟车及友善的司机/导游、康提酒店接送、燃油和停车费、参观卡杜甘纳瓦观景点。不包含景点门票费用，请另行预算。两位旅客共同支付34美元，而不是每人各付34美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Tuk tuk。由Lankan Rv Tours提供。"
+  ],
+  "included": [
+   "私人嘟嘟车及友善的司机/导游",
+   "康提酒店接送",
+   "燃油和停车费",
+   "参观卡杜甘纳瓦观景点"
+  ],
+  "notIncluded": [
+   "景点门票费用"
+  ]
+ },
  "nuwaraeliya-labookellie-tea-factory-plucking": {
   "title": "努沃勒埃利耶：拉布克利茶厂采摘及品茶之旅",
   "metaTitle": "努沃勒埃利耶：拉布克利茶厂采摘及品茶之旅",
@@ -27799,6 +36240,68 @@ export const ZH_TOURS: Record<string, TourT> = {
    "景点门票费用"
   ]
  },
+ "sri-lanka-15-days-private-grand-tour-with-3": {
+  "title": "斯里兰卡：15天私人豪华游览，含3星级酒店",
+  "metaTitle": "斯里兰卡：15天私人豪华游览，含3星级酒店",
+  "metaDescription": "一次15天的Colombo体验。沉浸于斯里兰卡多样的风光及丰富的历史。由Ceylon Heights提供。",
+  "shortDescription": "一次15天的Colombo体验。沉浸于斯里兰卡多样的风光及丰富的历史。由Ceylon Heights提供。",
+  "fullDescription": "一次15天的Colombo体验。沉浸于斯里兰卡多样的风光及丰富的历史。\n\n由Ceylon Heights负责安排，价格中含10项内容。可免费取消。\n\n价格包含夜间私人酒店住宿、私人轿车及面包车接送、英语司机兼导游、参观历史遗址。不包含未列出的餐食、个人消费、旅游保险，请另行预算。两位旅客共同支付5070美元，而不是每人各付3887美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "沉浸于斯里兰卡多样的风光及丰富的历史"
+  ],
+  "included": [
+   "夜间私人酒店住宿",
+   "私人轿车及面包车接送",
+   "英语司机兼导游",
+   "参观历史遗址"
+  ],
+  "notIncluded": [
+   "未列出的餐食",
+   "个人消费",
+   "旅游保险"
+  ]
+ },
+ "from-ella-yala-safari-drop-off-mrissa-waligama": {
+  "title": "埃拉出发：雅拉野生动物园之旅，送达米瑞沙、维利加马、加勒",
+  "metaTitle": "埃拉出发：雅拉野生动物园之旅，送达米瑞沙、维利加马、加勒",
+  "metaDescription": "一次从Ella出发的全天行程，游览Finish at:。由Yala Osha Safari提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Finish at:。由Yala Osha Safari提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Finish at:。\n\n价格包含野生动物园吉普车、经验丰富的司机（将兼任导游）、水果、饮用水。不包含雅拉公园门票（每人13000斯里兰卡卢比）、出租车，每人10000斯里兰卡卢比、茶或咖啡，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Finish at:。由Yala Osha Safari提供。"
+  ],
+  "included": [
+   "野生动物园吉普车",
+   "经验丰富的司机（将兼任导游）",
+   "水果",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "雅拉公园门票（每人13000斯里兰卡卢比）",
+   "出租车，每人10000斯里兰卡卢比",
+   "茶或咖啡"
+  ]
+ },
+ "mirissa-snorkeling-turtle-marine-life-with-free": {
+  "title": "米瑞沙：海龟及海洋生物浮潜，含免费GoPro",
+  "metaTitle": "米瑞沙：海龟及海洋生物浮潜，含免费GoPro",
+  "metaDescription": "一次从Mirissa出发的1小时行程，游览Tuk tuk和Mirissa。由PD Diving By Heros Adventures提供。",
+  "shortDescription": "一次从Mirissa出发的1小时行程，游览Tuk tuk和Mirissa。由PD Diving By Heros Adventures提供。",
+  "fullDescription": "一次从Mirissa出发的1小时行程，途经Tuk tuk和Mirissa。全程共2站。\n\n行程顺序为Tuk tuk (15 min), 然后 Mirissa。\n\n价格包含导游带领的浮潜体验、专业浮潜向导、浮潜装备、救生衣。不包含正餐、从米瑞沙以外出发需额外加收费用，请另行预算。",
+  "highlights": [
+   "一次从Mirissa出发的1小时行程，游览Tuk tuk和Mirissa。由PD Diving By Heros Adventures提供。"
+  ],
+  "included": [
+   "导游带领的浮潜体验",
+   "专业浮潜向导",
+   "浮潜装备",
+   "救生衣"
+  ],
+  "notIncluded": [
+   "正餐",
+   "从米瑞沙以外出发需额外加收费用"
+  ]
+ },
  "kandy-city-tour-botanical-gardens-cultural": {
   "title": "康提：市区游览、植物园及文化古迹",
   "metaTitle": "康提：市区游览、植物园及文化古迹",
@@ -27813,6 +36316,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "英语司机兼导游",
    "导游带领的香料园游览",
    "木雕中心及宝石中心的工艺演示"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "kandy-to-sigiriya-dambulla-lion-rock-pidurangala": {
+  "title": "康提至锡吉里耶：丹布勒、狮子岩及皮杜兰加拉",
+  "metaTitle": "康提至锡吉里耶：丹布勒、狮子岩及皮杜兰加拉",
+  "metaDescription": "一次从Kandy出发的半天行程，游览Sri Muthumariamman Temple ஸ்ரீ முத்துமாரி அம்மன் கோவில் அளவத்துகொட, Nalanda Gedige和Dambulla Cave Temple。由Hello Kandy Taxi & Cabs提供。",
+  "shortDescription": "一次从Kandy出发的半天行程，游览Sri Muthumariamman Temple ஸ்ரீ முத்துமாரி அம்மன் கோவில் அளவத்துகொட, Nalanda Gedige和Dambulla Cave Temple。由Hello Kandy Taxi & Cabs提供。",
+  "fullDescription": "一次从Kandy出发的半天行程，途经Sri Muthumariamman Temple ஸ்ரீ முத்துமாரி அம்மன் கோவில் அளவத்துகொட, Nalanda Gedige和Dambulla Cave Temple。全程共3站。\n\n行程顺序为Sri Muthumariamman Temple ஸ்ரீ முத்துமாரி அம்மன் கோவில் அளவத்துகொட (30 min), 然后 Nalanda Gedige (30 min), 然后 Dambulla Cave Temple (30 min)。\n\n价格包含从康提到锡吉里耶的私人接送、斯里兰卡传统早餐、参观马特莱斯里穆图玛利安曼庙、参观纳兰达格迪格石寺。",
+  "highlights": [
+   "一次从Kandy出发的半天行程，游览Sri Muthumariamman Temple ஸ்ரீ முத்துமாரி அம்மன் கோவில் அளவத்துகொட, Nalanda Gedige和Dambulla Cave Temple。由Hello Kandy Taxi & Cabs提供。"
+  ],
+  "included": [
+   "从康提到锡吉里耶的私人接送",
+   "斯里兰卡传统早餐",
+   "参观马特莱斯里穆图玛利安曼庙",
+   "参观纳兰达格迪格石寺"
   ],
   "notIncluded": [
    ""
@@ -27857,6 +36379,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费和购物"
   ]
  },
+ "kandy-to-nuwara-eliya-tour-ceylon-tea-with": {
+  "title": "康提至努沃勒埃利耶游览：锡兰红茶及瀑布",
+  "metaTitle": "康提至努沃勒埃利耶游览：锡兰红茶及瀑布",
+  "metaDescription": "一次全天的Kandy体验。参观两家不同的茶厂，含品茶。由Lanka Budget Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。参观两家不同的茶厂，含品茶。由Lanka Budget Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。参观两家不同的茶厂，含品茶。\n\n由Lanka Budget Tours负责安排，价格中含12项内容。可免费取消。\n\n价格包含从康提出发的酒店接送、舒适的私人车辆、英语司机兼导游、参观丹姆罗茶厂并品茶。不包含餐食、茶及茶点、额外要求地点的门票，请另行预算。两位旅客共同支付117美元，而不是每人各付115美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "参观两家不同的茶厂，含品茶"
+  ],
+  "included": [
+   "从康提出发的酒店接送",
+   "舒适的私人车辆",
+   "英语司机兼导游",
+   "参观丹姆罗茶厂并品茶"
+  ],
+  "notIncluded": [
+   "餐食",
+   "茶及茶点",
+   "额外要求地点的门票"
+  ]
+ },
  "kandy-sigiriya-lake-kayaking-day-trip-with-guide": {
   "title": "康提：锡吉里耶湖皮划艇一日游，配向导",
   "metaTitle": "康提：锡吉里耶湖皮划艇一日游，配向导",
@@ -27896,6 +36439,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "超出指定行程范围的车辆使用"
   ]
  },
+ "from-galle-waligama-mirissa-yala-safari-and-drop": {
+  "title": "从加勒、维利加马、米瑞沙出发：雅拉野生动物园之旅，送达埃拉",
+  "metaTitle": "从加勒、维利加马、米瑞沙出发：雅拉野生动物园之旅，送达埃拉",
+  "metaDescription": "一次全天的Galle体验。我们是一个由4位司机组成的团队，拥有超过15年的经验。由Wanderluxe Ceylon提供。",
+  "shortDescription": "一次全天的Galle体验。我们是一个由4位司机组成的团队，拥有超过15年的经验。由Wanderluxe Ceylon提供。",
+  "fullDescription": "一次全天的Galle体验。我们是一个由4位司机组成的团队，拥有超过15年的经验。\n\n由Wanderluxe Ceylon负责安排，价格中含8项内容。可免费取消。\n\n价格包含野生动物园之旅预订确认、经验丰富的司机（兼任导游）、水果、饮用水。不包含雅拉公园门票（每人13000斯里兰卡卢比）、接送，每辆出租车每人9000斯里兰卡卢比、野生动物园吉普车（晨间野生动物园之旅每人4000斯里兰卡卢比，全天野生动物园之旅每人9000斯里兰卡卢比），请另行预算。",
+  "highlights": [
+   "我们是一个由4位司机组成的团队，拥有超过15年的经验"
+  ],
+  "included": [
+   "野生动物园之旅预订确认",
+   "经验丰富的司机（兼任导游）",
+   "水果",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "雅拉公园门票（每人13000斯里兰卡卢比）",
+   "接送，每辆出租车每人9000斯里兰卡卢比",
+   "野生动物园吉普车（晨间野生动物园之旅每人4000斯里兰卡卢比，全天野生动物园之旅每人9000斯里兰卡卢比）"
+  ]
+ },
  "pick-up-ella-yala-safari-drop-waligama-mirissa": {
   "title": "埃拉接客：雅拉野生动物园之旅，送至维利加马、米瑞沙、坦加拉",
   "metaTitle": "埃拉接客：雅拉野生动物园之旅，送至维利加马、米瑞沙、坦加拉",
@@ -27917,6 +36481,86 @@ export const ZH_TOURS: Record<string, TourT> = {
    "茶或咖啡"
   ]
  },
+ "from-colombo-galle-madu-river-and-turtle-beach": {
+  "title": "科伦坡出发：加勒、马杜河及海龟海滩一日游",
+  "metaTitle": "科伦坡出发：加勒、马杜河及海龟海滩一日游",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Kosgoda Sea Turtle Conservation, Madu Ganga, Galle和Dalawella Beach。由Bookingmart Holidays (pvt) Ltd提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Kosgoda Sea Turtle Conservation, Madu Ganga, Galle和Dalawella Beach。由Bookingmart Holidays (pvt) Ltd提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Kosgoda Sea Turtle Conservation, Madu Ganga, Galle和Dalawella Beach。最长的一站是Galle，约2小时。全程共5站。\n\n行程顺序为Kosgoda Sea Turtle Conservation (40 min), 然后 Madu Ganga, 然后 Galle (2h), 然后 Dalawella Beach (1h), 然后 Stilt Fisherman (30 min)。\n\n价格包含私家车及司机、瓶装水、接送、空调私家车。不包含午餐、个人消费、游船野生动物园费用，请另行预算。两位旅客共同支付231美元，而不是每人各付229美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Kosgoda Sea Turtle Conservation, Madu Ganga, Galle和Dalawella Beach。由Bookingmart Holidays (pvt) Ltd提供。"
+  ],
+  "included": [
+   "私家车及司机",
+   "瓶装水",
+   "接送",
+   "空调私家车"
+  ],
+  "notIncluded": [
+   "午餐",
+   "个人消费",
+   "游船野生动物园费用"
+  ]
+ },
+ "kandy-pidurutalagala-mountain-day-trip-with-pickup": {
+  "title": "康提：皮杜鲁塔拉加拉山一日游，含接客",
+  "metaTitle": "康提：皮杜鲁塔拉加拉山一日游，含接客",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Pidurutalagala和Nuwara Eliya。由Ceylon Tours with Shan提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Pidurutalagala和Nuwara Eliya。由Ceylon Tours with Shan提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Pidurutalagala和Nuwara Eliya。最长的一站是Pidurutalagala，约3小时。全程共2站。\n\n行程顺序为Pidurutalagala (3h), 然后 Nuwara Eliya (3h)。\n\n价格包含酒店接送、穿越高地的风光驾游、参观皮杜鲁塔拉加拉峰顶、导游讲解游览，讲述当地文化及茶叶生产的故事。不包含餐食、个人消费，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Pidurutalagala和Nuwara Eliya。由Ceylon Tours with Shan提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "穿越高地的风光驾游",
+   "参观皮杜鲁塔拉加拉峰顶",
+   "导游讲解游览，讲述当地文化及茶叶生产的故事"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
+  ]
+ },
+ "mirissa-private-coastal-tour-with-coconut-tree": {
+  "title": "米瑞沙：私人海岸游览，含椰树山",
+  "metaTitle": "米瑞沙：私人海岸游览，含椰树山",
+  "metaDescription": "一次从Mirissa出发的半天行程，游览Coconut Tree Hill和Weligama Bay。由Lanka Round Tours提供。",
+  "shortDescription": "一次从Mirissa出发的半天行程，游览Coconut Tree Hill和Weligama Bay。由Lanka Round Tours提供。",
+  "fullDescription": "一次从Mirissa出发的半天行程，途经Coconut Tree Hill和Weligama Bay。最长的一站是Coconut Tree Hill，约2小时。全程共2站。\n\n行程顺序为Coconut Tree Hill (2h), 然后 Weligama Bay (2h)。\n\n价格包含当地司机兼导游、参观椰树山观景点、参观米瑞沙秘密海滩、传统渔村漫步。不包含午餐、个人消费，请另行预算。",
+  "highlights": [
+   "一次从Mirissa出发的半天行程，游览Coconut Tree Hill和Weligama Bay。由Lanka Round Tours提供。"
+  ],
+  "included": [
+   "当地司机兼导游",
+   "参观椰树山观景点",
+   "参观米瑞沙秘密海滩",
+   "传统渔村漫步"
+  ],
+  "notIncluded": [
+   "午餐",
+   "个人消费"
+  ]
+ },
+ "minneriya-kaudulla-national-park-jeep-safari": {
+  "title": "明内里耶及高杜拉国家公园吉普车野生动物园之旅",
+  "metaTitle": "明内里耶及高杜拉国家公园吉普车野生动物园之旅",
+  "metaDescription": "一次半天的Sigiriya体验。享受刺激的私人吉普车野生动物园之旅，探索斯里兰卡的野生动物。由Royal kandy tours提供。",
+  "shortDescription": "一次半天的Sigiriya体验。享受刺激的私人吉普车野生动物园之旅，探索斯里兰卡的野生动物。由Royal kandy tours提供。",
+  "fullDescription": "一次半天的Sigiriya体验。享受刺激的私人吉普车野生动物园之旅，探索斯里兰卡的野生动物。\n\n由Royal kandy tours负责安排，价格中含8项内容。可免费取消。\n\n价格包含野生动物园吉普车体验、小团体规模（4-6人）、负责任的野生动物观赏、私人吉普车野生动物园之旅。",
+  "highlights": [
+   "享受刺激的私人吉普车野生动物园之旅，探索斯里兰卡的野生动物"
+  ],
+  "included": [
+   "野生动物园吉普车体验",
+   "小团体规模（4-6人）",
+   "负责任的野生动物观赏",
+   "私人吉普车野生动物园之旅"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "kandy-to-ambuluwawa-with-kandy-city-guided-tuk": {
   "title": "康提到安布鲁瓦瓦塔，含康提市区导游带领的嘟嘟车一日游",
   "metaTitle": "康提到安布鲁瓦瓦塔，含康提市区导游带领的嘟嘟车一日游",
@@ -27934,6 +36578,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "景点门票费用"
+  ]
+ },
+ "colombo-galle-dutch-fort-and-mirissa-hill": {
+  "title": "科伦坡：加勒荷兰堡及米瑞沙山顶树冠一日游",
+  "metaTitle": "科伦坡：加勒荷兰堡及米瑞沙山顶树冠一日游",
+  "metaDescription": "一次全天的Colombo体验。游船野生动物园之旅中马杜河的自然美景。由Sri Lanka City Tour提供。",
+  "shortDescription": "一次全天的Colombo体验。游船野生动物园之旅中马杜河的自然美景。由Sri Lanka City Tour提供。",
+  "fullDescription": "一次全天的Colombo体验。游船野生动物园之旅中马杜河的自然美景。\n\n由Sri Lanka City Tour负责安排，价格中含7项内容。可免费取消。\n\n价格包含科伦坡接送、司机及轿车、瓶装水、马杜河游船野生动物园之旅，含肉桂岛。不包含门票，请另行预算。两位旅客共同支付288美元，而不是每人各付203美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "游船野生动物园之旅中马杜河的自然美景"
+  ],
+  "included": [
+   "科伦坡接送",
+   "司机及轿车",
+   "瓶装水",
+   "马杜河游船野生动物园之旅，含肉桂岛"
+  ],
+  "notIncluded": [
+   "门票"
   ]
  },
  "rainforest-discovery-galle-to-sinharaja-day-tour": {
@@ -27955,6 +36618,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮",
    "持证本地自然向导",
    "雨林门票"
+  ]
+ },
+ "colombo-all-included-private-city-tour-local-food": {
+  "title": "科伦坡：全包私人市区游览及当地美食品尝",
+  "metaTitle": "科伦坡：全包私人市区游览及当地美食品尝",
+  "metaDescription": "一次半天的Colombo体验。从尼甘布出发的私人豪华空调车辆，提供门到门接送。由Ethereal Ceylon提供。",
+  "shortDescription": "一次半天的Colombo体验。从尼甘布出发的私人豪华空调车辆，提供门到门接送。由Ethereal Ceylon提供。",
+  "fullDescription": "一次半天的Colombo体验。从尼甘布出发的私人豪华空调车辆，提供门到门接送。\n\n由Ethereal Ceylon负责安排，价格中含12项内容。可免费取消。\n\n价格包含酒店接送、英语司机兼导游、私人豪华空调车辆、甘加拉玫寺门票费用。不包含餐食，请另行预算。两位旅客共同支付136美元，而不是每人各付136美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "从尼甘布出发的私人豪华空调车辆，提供门到门接送"
+  ],
+  "included": [
+   "酒店接送",
+   "英语司机兼导游",
+   "私人豪华空调车辆",
+   "甘加拉玫寺门票费用"
+  ],
+  "notIncluded": [
+   "餐食"
   ]
  },
  "sigiriya-countryside-jeep-tour-with-viewpoints": {
@@ -27995,6 +36677,48 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "pekoe-trail-18-22-guided-7-day-trail-with": {
+  "title": "佩科步道18-22段：导游带领7日步道游览，含酒店及接送",
+  "metaTitle": "佩科步道18-22段：导游带领7日步道游览，含酒店及接送",
+  "metaDescription": "一次7天的Colombo体验。沉浸于斯里兰卡标志性佩科步道的美景。由Beyond Escapes提供。",
+  "shortDescription": "一次7天的Colombo体验。沉浸于斯里兰卡标志性佩科步道的美景。由Beyond Escapes提供。",
+  "fullDescription": "一次7天的Colombo体验。沉浸于斯里兰卡标志性佩科步道的美景。\n\n由Beyond Escapes负责安排，价格中含8项内容。可免费取消。\n\n价格包含6晚精选或同级酒店住宿（含早餐）、全程接送的私人空调车辆、英语司机兼导游、覆盖佩科步道全部路段的专业徒步向导。不包含午餐和晚餐、个人消费、旅游保险，请另行预算。",
+  "highlights": [
+   "沉浸于斯里兰卡标志性佩科步道的美景"
+  ],
+  "included": [
+   "6晚精选或同级酒店住宿（含早餐）",
+   "全程接送的私人空调车辆",
+   "英语司机兼导游",
+   "覆盖佩科步道全部路段的专业徒步向导"
+  ],
+  "notIncluded": [
+   "午餐和晚餐",
+   "个人消费",
+   "旅游保险"
+  ]
+ },
+ "ella-ella-rock-hiking-tour-with-tuk-tuk": {
+  "title": "埃拉：埃拉岩徒步游览，含嘟嘟车",
+  "metaTitle": "埃拉：埃拉岩徒步游览，含嘟嘟车",
+  "metaDescription": "一次从Ella出发的3小时行程，游览Tuk tuk和Ella Rock。由Ella Happy Tours - Local Tuk-Tuk Experience提供。",
+  "shortDescription": "一次从Ella出发的3小时行程，游览Tuk tuk和Ella Rock。由Ella Happy Tours - Local Tuk-Tuk Experience提供。",
+  "fullDescription": "一次从Ella出发的3小时行程，途经Tuk tuk和Ella Rock。全程共2站。\n\n行程顺序为Tuk tuk (30 min), 然后 Ella Rock。\n\n价格包含埃拉地区内接送、往返埃拉岩步道起点的嘟嘟车接送、导游带领徒步埃拉岩、当地英语导游/司机。不包含门票、餐饮、个人消费，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的3小时行程，游览Tuk tuk和Ella Rock。由Ella Happy Tours - Local Tuk-Tuk Experience提供。"
+  ],
+  "included": [
+   "埃拉地区内接送",
+   "往返埃拉岩步道起点的嘟嘟车接送",
+   "导游带领徒步埃拉岩",
+   "当地英语导游/司机"
+  ],
+  "notIncluded": [
+   "门票",
+   "餐饮",
+   "个人消费"
+  ]
+ },
  "ella-city-tour-with-lunch-nine-arch-bridge": {
   "title": "埃拉市区游览，含午餐、九拱桥及瀑布",
   "metaTitle": "埃拉市区游览，含午餐、九拱桥及瀑布",
@@ -28012,6 +36736,26 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "小费"
+  ]
+ },
+ "sigiriya-by-night-open-roof-jeep-wildlife": {
+  "title": "夜游锡吉里耶：敞篷吉普车野生动物探险",
+  "metaTitle": "夜游锡吉里耶：敞篷吉普车野生动物探险",
+  "metaDescription": "一次半天的Sigiriya体验。感受锡吉里耶荒野夜间野生动物园之旅的刺激。由Online Sigiriya提供。",
+  "shortDescription": "一次半天的Sigiriya体验。感受锡吉里耶荒野夜间野生动物园之旅的刺激。由Online Sigiriya提供。",
+  "fullDescription": "一次半天的Sigiriya体验。感受锡吉里耶荒野夜间野生动物园之旅的刺激。\n\n由Online Sigiriya负责安排，价格中含4项内容。可免费取消。\n\n价格包含乘特别配置的吉普车进行夜间野生动物园之旅、配备探照灯的专业向导、野生动物观察、拍照机会。不包含餐食、个人消费，请另行预算。两位旅客共同支付181美元，而不是每人各付160美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "感受锡吉里耶荒野夜间野生动物园之旅的刺激"
+  ],
+  "included": [
+   "乘特别配置的吉普车进行夜间野生动物园之旅",
+   "配备探照灯的专业向导",
+   "野生动物观察",
+   "拍照机会"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
   ]
  },
  "southern-seas-discovery-galle-to-whale-watching": {
@@ -28032,6 +36776,66 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "观鲸船票",
    "餐饮"
+  ]
+ },
+ "ella-one-day-scenic-highlights-tuk-tuk-tour": {
+  "title": "埃拉：一日风光精华嘟嘟车游览",
+  "metaTitle": "埃拉：一日风光精华嘟嘟车游览",
+  "metaDescription": "一次从Ella出发的半天行程，游览Tuk tuk, Nine Arch Bridge, Tuk tuk和Little Adam's Peak。由Ella Happy Tours - Local Tuk-Tuk Experience提供。",
+  "shortDescription": "一次从Ella出发的半天行程，游览Tuk tuk, Nine Arch Bridge, Tuk tuk和Little Adam's Peak。由Ella Happy Tours - Local Tuk-Tuk Experience提供。",
+  "fullDescription": "一次从Ella出发的半天行程，途经Tuk tuk, Nine Arch Bridge, Tuk tuk和Little Adam's Peak。最长的一站是Demodara，约1小时。全程共6站。\n\n行程顺序为Tuk tuk (15 min), 然后 Nine Arch Bridge (40 min), 然后 Tuk tuk (30 min), 然后 Little Adam's Peak (40 min), 然后 Ravana Falls (40 min)。\n\n价格包含配当地司机的私人嘟嘟车游览、燃油和停车费、参观九拱桥及小亚当峰、在拉瓦纳瀑布停靠。不包含餐饮、个人消费、小费，请另行预算。",
+  "highlights": [
+   "一次从Ella出发的半天行程，游览Tuk tuk, Nine Arch Bridge, Tuk tuk和Little Adam's Peak。由Ella Happy Tours - Local Tuk-Tuk Experience提供。"
+  ],
+  "included": [
+   "配当地司机的私人嘟嘟车游览",
+   "燃油和停车费",
+   "参观九拱桥及小亚当峰",
+   "在拉瓦纳瀑布停靠"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "个人消费",
+   "小费"
+  ]
+ },
+ "colombo-to-pinnawala-kandy-private-cultural-day": {
+  "title": "科伦坡至皮纳瓦拉及康提：私人文化一日游",
+  "metaTitle": "科伦坡至皮纳瓦拉及康提：私人文化一日游",
+  "metaDescription": "一次全天的Colombo体验。科伦坡至皮纳瓦拉至康提私人游览。由Sri Lanka City Tours提供。",
+  "shortDescription": "一次全天的Colombo体验。科伦坡至皮纳瓦拉至康提私人游览。由Sri Lanka City Tours提供。",
+  "fullDescription": "一次全天的Colombo体验。科伦坡至皮纳瓦拉至康提私人游览。\n\n由Sri Lanka City Tours负责安排，价格中含8项内容。可免费取消。\n\n价格包含整个游览的私人交通（按所选安排空调轿车/面包车）、科伦坡/尼甘布酒店接客、康提酒店送达、英语当地司机兼导游。不包含午餐、参观地点门票费用不含，请另行预算。",
+  "highlights": [
+   "科伦坡至皮纳瓦拉至康提私人游览"
+  ],
+  "included": [
+   "整个游览的私人交通（按所选安排空调轿车/面包车）",
+   "科伦坡/尼甘布酒店接客",
+   "康提酒店送达",
+   "英语当地司机兼导游"
+  ],
+  "notIncluded": [
+   "午餐",
+   "参观地点门票费用不含"
+  ]
+ },
+ "colombo-galle-unawatuna-and-madu-river-day-trip": {
+  "title": "科伦坡：加勒、乌纳瓦图纳及马杜河一日游",
+  "metaTitle": "科伦坡：加勒、乌纳瓦图纳及马杜河一日游",
+  "metaDescription": "一次从Colombo出发的全天行程，游览Unawatuna Beach, Jungle Beach, Unawatuna, Galle Fort和Galle Fort - Lighthouse。由Ceylon Itinerary Holdings提供。",
+  "shortDescription": "一次从Colombo出发的全天行程，游览Unawatuna Beach, Jungle Beach, Unawatuna, Galle Fort和Galle Fort - Lighthouse。由Ceylon Itinerary Holdings提供。",
+  "fullDescription": "一次从Colombo出发的全天行程，途经Unawatuna Beach, Jungle Beach, Unawatuna, Galle Fort和Galle Fort - Lighthouse。最长的一站是Galle Fort，约1小时。全程共9站。\n\n行程顺序为Unawatuna Beach (20 min), 然后 Jungle Beach, Unawatuna (30 min), 然后 Galle Fort (1h), 然后 Galle Fort - Lighthouse (20 min), 然后 Galle Region (30 min)。\n\n价格包含酒店接送（科伦坡或尼甘布）、私人空调车辆、全部景点门票费用、南部风味午餐。不包含个人消费，请另行预算。",
+  "highlights": [
+   "一次从Colombo出发的全天行程，游览Unawatuna Beach, Jungle Beach, Unawatuna, Galle Fort和Galle Fort - Lighthouse。由Ceylon Itinerary Holdings提供。"
+  ],
+  "included": [
+   "酒店接送（科伦坡或尼甘布）",
+   "私人空调车辆",
+   "全部景点门票费用",
+   "南部风味午餐"
+  ],
+  "notIncluded": [
+   "个人消费"
   ]
  },
  "mirissaweligama-exclusive-galle-countryside": {
@@ -28072,6 +36876,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "未在“价格包含”部分列出的其他费用",
    "小费"
+  ]
+ },
+ "kandy-city-tour-with-soltahiro": {
+  "title": "康提市区游览，含SoltaHiro",
+  "metaTitle": "康提市区游览，含SoltaHiro",
+  "metaDescription": "一次半天的Kandy体验。参观佛牙寺，这是最神圣的佛教圣地。由Solta Hiro提供。",
+  "shortDescription": "一次半天的Kandy体验。参观佛牙寺，这是最神圣的佛教圣地。由Solta Hiro提供。",
+  "fullDescription": "一次半天的Kandy体验。参观佛牙寺，这是最神圣的佛教圣地。\n\n由Solta Hiro负责安排，价格中含8项内容。可免费取消。\n\n价格包含嘟嘟车交通、酒店接送、瓶装水（每人1升，免费提供）、阿斯吉里玛哈塞雅佛塔（免费入场）。两位旅客共同支付17美元，而不是每人各付17美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "参观佛牙寺，这是最神圣的佛教圣地"
+  ],
+  "included": [
+   "嘟嘟车交通",
+   "酒店接送",
+   "瓶装水（每人1升，免费提供）",
+   "阿斯吉里玛哈塞雅佛塔（免费入场）"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "kandy-gem-tea-spices-wood-carving-workshop-tour": {
@@ -28115,6 +36938,88 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "kandy-city-tour-by-tuk-tuk-with-local-driver": {
+  "title": "康提市区游览，乘嘟嘟车，配当地司机",
+  "metaTitle": "康提市区游览，乘嘟嘟车，配当地司机",
+  "metaDescription": "一次半天的Kandy体验。与当地司机一起沉浸于康提充满活力的文化。由Pekoe Lanka Tours提供。",
+  "shortDescription": "一次半天的Kandy体验。与当地司机一起沉浸于康提充满活力的文化。由Pekoe Lanka Tours提供。",
+  "fullDescription": "一次半天的Kandy体验。与当地司机一起沉浸于康提充满活力的文化。\n\n由Pekoe Lanka Tours负责安排，价格中含12项内容。可免费取消。\n\n价格包含接送、私人游览、当地司机兼导游、灵活的行程及日程安排。不包含个人消费、小费，请另行预算。两位旅客共同支付11美元，而不是每人各付7美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "与当地司机一起沉浸于康提充满活力的文化"
+  ],
+  "included": [
+   "接送",
+   "私人游览",
+   "当地司机兼导游",
+   "灵活的行程及日程安排"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费"
+  ]
+ },
+ "kandy-city-tour-private-guided-tour-of-the-city": {
+  "title": "康提市区游览：私人导游带领的嘟嘟车城市游览",
+  "metaTitle": "康提市区游览：私人导游带领的嘟嘟车城市游览",
+  "metaDescription": "一次全天的Kandy体验。在嘟嘟车游览中体验康提充满活力的文化。由Kandy Explore Tours提供。",
+  "shortDescription": "一次全天的Kandy体验。在嘟嘟车游览中体验康提充满活力的文化。由Kandy Explore Tours提供。",
+  "fullDescription": "一次全天的Kandy体验。在嘟嘟车游览中体验康提充满活力的文化。\n\n由Kandy Explore Tours负责安排，价格中含12项内容。可免费取消。\n\n价格包含酒店接送、一位英语流利的导游、瓶装水、配备经验超过三十年的旅行顾问全程参与。不包含其他门票、个人消费、任何餐食，请另行预算。两位旅客共同支付28美元，而不是每人各付28美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "在嘟嘟车游览中体验康提充满活力的文化"
+  ],
+  "included": [
+   "酒店接送",
+   "一位英语流利的导游",
+   "瓶装水",
+   "配备经验超过三十年的旅行顾问全程参与"
+  ],
+  "notIncluded": [
+   "其他门票",
+   "个人消费",
+   "任何餐食"
+  ]
+ },
+ "kandy-to-nuwara-eliya-nanu-oya-drop-with-ella": {
+  "title": "康提至努沃勒埃利耶，送达纳奴奥亚，含埃拉火车之旅",
+  "metaTitle": "康提至努沃勒埃利耶，送达纳奴奥亚，含埃拉火车之旅",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Tuk tuk, Bluefield Tea Factory, Tuk tuk和Finish at:。由TUK TUK TEA FLOWER ADVENTURE提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Tuk tuk, Bluefield Tea Factory, Tuk tuk和Finish at:。由TUK TUK TEA FLOWER ADVENTURE提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Tuk tuk, Bluefield Tea Factory, Tuk tuk和Finish at:。最长的一站是Tuk tuk，约1小时。全程共4站。\n\n行程顺序为Tuk tuk (1h), 然后 Bluefield Tea Factory (30 min), 然后 Tuk tuk (45 min), 然后 Finish at:。\n\n价格包含私人嘟嘟车单程接送、送达努沃勒埃利耶或纳奴奥亚火车站、参观茶园、参观茶厂。不包含个人消费、餐饮，请另行预算。两位旅客共同支付81美元，而不是每人各付81美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Tuk tuk, Bluefield Tea Factory, Tuk tuk和Finish at:。由TUK TUK TEA FLOWER ADVENTURE提供。"
+  ],
+  "included": [
+   "私人嘟嘟车单程接送",
+   "送达努沃勒埃利耶或纳奴奥亚火车站",
+   "参观茶园",
+   "参观茶厂"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "餐饮"
+  ]
+ },
+ "ella-to-negombo-scenic-journey-with-waterfall-tea": {
+  "title": "埃拉至尼甘布风光之旅，含瀑布及茶叶停靠",
+  "metaTitle": "埃拉至尼甘布风光之旅，含瀑布及茶叶停靠",
+  "metaDescription": "一次半天的Ella体验。从埃拉到尼甘布的私人驾车。由Liyanage Tours提供。",
+  "shortDescription": "一次半天的Ella体验。从埃拉到尼甘布的私人驾车。由Liyanage Tours提供。",
+  "fullDescription": "一次半天的Ella体验。从埃拉到尼甘布的私人驾车。\n\n由Liyanage Tours负责安排，价格中含6项内容。可免费取消。\n\n价格包含私人空调车辆、英语当地司机、埃拉酒店接送、尼甘布或科伦坡机场酒店送达。不包含餐饮、个人消费、小费（可选），请另行预算。",
+  "highlights": [
+   "从埃拉到尼甘布的私人驾车"
+  ],
+  "included": [
+   "私人空调车辆",
+   "英语当地司机",
+   "埃拉酒店接送",
+   "尼甘布或科伦坡机场酒店送达"
+  ],
+  "notIncluded": [
+   "餐饮",
+   "个人消费",
+   "小费（可选）"
+  ]
+ },
  "nanu-oya-to-kandy-transfer-tea-tour-waterfalls": {
   "title": "纳奴奥亚到康提接送，含茶园游览及瀑布体验",
   "metaTitle": "纳奴奥亚到康提接送，含茶园游览及瀑布体验",
@@ -28132,6 +37037,26 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "galle-e-bike-tour-with-village-lunch-and-local": {
+  "title": "加勒：电动自行车游览，含乡村午餐及当地导游",
+  "metaTitle": "加勒：电动自行车游览，含乡村午餐及当地导游",
+  "metaDescription": "一次从Galle出发的半天行程，游览Galle Region。由Beyond Escapes提供。",
+  "shortDescription": "一次从Galle出发的半天行程，游览Galle Region。由Beyond Escapes提供。",
+  "fullDescription": "一次从Galle出发的半天行程，途经Galle Region。最长的一站是Galle Region，约5小时。\n\n价格包含酒店接送、电动自行车租赁、当地导游、斯里兰卡午餐。不包含个人消费、小费，请另行预算。两位旅客共同支付372美元，而不是每人各付254美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Galle出发的半天行程，游览Galle Region。由Beyond Escapes提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "电动自行车租赁",
+   "当地导游",
+   "斯里兰卡午餐"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费"
   ]
  },
  "mirissa-photography-tour-with-professional": {
@@ -28171,6 +37096,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    ""
+  ]
+ },
+ "coastal-sri-lanka-to-ella-via-udawalawe-wildlife": {
+  "title": "斯里兰卡海岸至埃拉，途经乌达瓦拉维野生动物园探险",
+  "metaTitle": "斯里兰卡海岸至埃拉，途经乌达瓦拉维野生动物园探险",
+  "metaDescription": "一次从Ella出发的全天行程，游览Udawalawa National Park和Finish at:。由Ceylon Private Taxi提供。",
+  "shortDescription": "一次从Ella出发的全天行程，游览Udawalawa National Park和Finish at:。由Ceylon Private Taxi提供。",
+  "fullDescription": "一次从Ella出发的全天行程，途经Udawalawa National Park和Finish at:。最长的一站是Udawalawa National Park，约4小时。全程共2站。\n\n行程顺序为Udawalawa National Park (4h), 然后 Finish at:。\n\n价格包含从南部海岸地点出发的酒店接客、私人空调车辆、英语司机、埃拉酒店送达。不包含乌达瓦拉维国家公园门票费用、乌达瓦拉维国家公园野生动物园吉普车、餐饮，请另行预算。两位旅客共同支付319美元，而不是每人各付305美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Ella出发的全天行程，游览Udawalawa National Park和Finish at:。由Ceylon Private Taxi提供。"
+  ],
+  "included": [
+   "从南部海岸地点出发的酒店接客",
+   "私人空调车辆",
+   "英语司机",
+   "埃拉酒店送达"
+  ],
+  "notIncluded": [
+   "乌达瓦拉维国家公园门票费用",
+   "乌达瓦拉维国家公园野生动物园吉普车",
+   "餐饮"
   ]
  },
  "negombo-to-sigiriya-dambulla-private-tour-with": {
@@ -28270,6 +37216,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮"
   ]
  },
+ "private-guided-day-trip-to-anuradhapura-ancient": {
+  "title": "私人导游带领一日游：阿努拉德普勒古王国",
+  "metaTitle": "私人导游带领一日游：阿努拉德普勒古王国",
+  "metaDescription": "一次全天的Bentota体验。惊叹于神圣的菩提树，它是觉悟及历史的象征。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "shortDescription": "一次全天的Bentota体验。惊叹于神圣的菩提树，它是觉悟及历史的象征。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "fullDescription": "一次全天的Bentota体验。惊叹于神圣的菩提树，它是觉悟及历史的象征。\n\n由Nelum Holidays and Tours (Pvt) Ltd负责安排，价格中含10项内容。可免费取消。\n\n价格包含私人空调轿车/面包车交通、英语司机/导游、酒店接送、阿努拉德普勒3小时导游讲解游览。不包含餐食、纪念品、司机小费，请另行预算。两位旅客共同支付406美元，而不是每人各付322美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "惊叹于神圣的菩提树，它是觉悟及历史的象征"
+  ],
+  "included": [
+   "私人空调轿车/面包车交通",
+   "英语司机/导游",
+   "酒店接送",
+   "阿努拉德普勒3小时导游讲解游览"
+  ],
+  "notIncluded": [
+   "餐食",
+   "纪念品",
+   "司机小费"
+  ]
+ },
  "from-kandy-sigiriya-and-dambulla-tuk-tuk-safari": {
   "title": "康提出发：锡吉里耶及丹布勒嘟嘟车野生动物园之旅，含午餐",
   "metaTitle": "康提出发：锡吉里耶及丹布勒嘟嘟车野生动物园之旅，含午餐",
@@ -28288,6 +37255,127 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "未说明的餐食",
    "个人消费"
+  ]
+ },
+ "kandy-city-sightseeing-tour-by-local-guide": {
+  "title": "康提市区观光游览，配当地导游及私人嘟嘟车",
+  "metaTitle": "康提市区观光游览，配当地导游及私人嘟嘟车",
+  "metaDescription": "一次从Kandy出发的半天行程，游览Tuk tuk, Tuk tuk, Bahirawakanda Temple和Tuk tuk。由Kandy Travel With Sana提供。",
+  "shortDescription": "一次从Kandy出发的半天行程，游览Tuk tuk, Tuk tuk, Bahirawakanda Temple和Tuk tuk。由Kandy Travel With Sana提供。",
+  "fullDescription": "一次从Kandy出发的半天行程，途经Tuk tuk, Tuk tuk, Bahirawakanda Temple和Tuk tuk。全程共7站。\n\n行程顺序为Tuk tuk (15 min), 然后 Tuk tuk (10 min), 然后 Bahirawakanda Temple (30 min), 然后 Tuk tuk (20 min), 然后 Tuk tuk (30 min)。\n\n价格包含彩色嘟嘟车，配友善的当地司机兼向导（英语）、行程可完全自由安排，按自己的节奏游览、根据您的喜好量身定制的轻松不紧凑体验、酒店接送、瓶装水。不包含个人消费、餐饮，请另行预算。两位旅客共同支付19美元，而不是每人各付19美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的半天行程，游览Tuk tuk, Tuk tuk, Bahirawakanda Temple和Tuk tuk。由Kandy Travel With Sana提供。"
+  ],
+  "included": [
+   "彩色嘟嘟车，配友善的当地司机兼向导（英语）",
+   "行程可完全自由安排，按自己的节奏游览",
+   "根据您的喜好量身定制的轻松不紧凑体验",
+   "酒店接送",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "餐饮"
+  ]
+ },
+ "polgampola-waterfall-tour-by-tuk-tuks-from": {
+  "title": "波尔甘波拉瀑布嘟嘟车游览，从本托塔地区出发",
+  "metaTitle": "波尔甘波拉瀑布嘟嘟车游览，从本托塔地区出发",
+  "metaDescription": "一次从Bentota出发的半天行程，游览Tuk tuk, Bentota和Bentota。由Wander Zeylan Tours提供。",
+  "shortDescription": "一次从Bentota出发的半天行程，游览Tuk tuk, Bentota和Bentota。由Wander Zeylan Tours提供。",
+  "fullDescription": "一次从Bentota出发的半天行程，途经Tuk tuk, Bentota和Bentota。最长的一站是Bentota，约1小时。全程共3站。\n\n行程顺序为Tuk tuk (45 min), 然后 Bentota (15 min), 然后 Bentota (1h)。\n\n价格包含参观波尔甘波拉瀑布、参观茶、肉桂、橡胶及胡椒种植园、交通、在村民家中享用斯里兰卡风味午餐。不包含饮品、个人消费，请另行预算。两位旅客共同支付110美元，而不是每人各付102美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Bentota出发的半天行程，游览Tuk tuk, Bentota和Bentota。由Wander Zeylan Tours提供。"
+  ],
+  "included": [
+   "参观波尔甘波拉瀑布",
+   "参观茶、肉桂、橡胶及胡椒种植园",
+   "交通",
+   "在村民家中享用斯里兰卡风味午餐"
+  ],
+  "notIncluded": [
+   "饮品",
+   "个人消费"
+  ]
+ },
+ "sri-lanka-4-day-private-car-tour-with-driver": {
+  "title": "斯里兰卡：4日私人轿车游览，配司机及门票",
+  "metaTitle": "斯里兰卡：4日私人轿车游览，配司机及门票",
+  "metaDescription": "一次4天的Colombo体验。与当地司机一起，通过灵活的4天行程私密探索斯里兰卡。由Travelers Arc Sri Lanka提供。",
+  "shortDescription": "一次4天的Colombo体验。与当地司机一起，通过灵活的4天行程私密探索斯里兰卡。由Travelers Arc Sri Lanka提供。",
+  "fullDescription": "一次4天的Colombo体验。与当地司机一起，通过灵活的4天行程私密探索斯里兰卡。\n\n由Travelers Arc Sri Lanka负责安排，价格中含11项内容。可免费取消。\n\n价格包含四天私人空调车辆、英语司机、燃油费用、司机餐食。不包含客人住宿、客人餐饮费用，方案1所含午餐除外、个人消费、小费，请另行预算。两位旅客共同支付710美元，而不是每人各付710美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "与当地司机一起，通过灵活的4天行程私密探索斯里兰卡"
+  ],
+  "included": [
+   "四天私人空调车辆",
+   "英语司机",
+   "燃油费用",
+   "司机餐食"
+  ],
+  "notIncluded": [
+   "客人住宿",
+   "客人餐饮费用，方案1所含午餐除外",
+   "个人消费",
+   "小费"
+  ]
+ },
+ "kandy-to-negombo-day-tour-via-sigiriya-dambulla": {
+  "title": "康提至尼甘布一日游，途经锡吉里耶及丹布勒",
+  "metaTitle": "康提至尼甘布一日游，途经锡吉里耶及丹布勒",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Dambulla Royal Cave Temple and Golden Temple, Sigiriya和Finish at:。由Green Journey with thara提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Dambulla Royal Cave Temple and Golden Temple, Sigiriya和Finish at:。由Green Journey with thara提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Dambulla Royal Cave Temple and Golden Temple, Sigiriya和Finish at:。全程共3站。\n\n行程顺序为Dambulla Royal Cave Temple and Golden Temple, 然后 Sigiriya, 然后 Finish at:。\n\n价格包含参观斯里穆图玛利安曼印度教寺庙、参观香料园、攀登锡吉里耶狮子岩或皮杜兰加拉岩、探索丹布勒石窟寺。不包含个人消费、小费、住宿，请另行预算。两位旅客共同支付247美元，而不是每人各付246美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Dambulla Royal Cave Temple and Golden Temple, Sigiriya和Finish at:。由Green Journey with thara提供。"
+  ],
+  "included": [
+   "参观斯里穆图玛利安曼印度教寺庙",
+   "参观香料园",
+   "攀登锡吉里耶狮子岩或皮杜兰加拉岩",
+   "探索丹布勒石窟寺"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费",
+   "住宿"
+  ]
+ },
+ "colombo-private-4-hour-tuk-tuk-city-tour": {
+  "title": "科伦坡：私人4小时嘟嘟车市区游览",
+  "metaTitle": "科伦坡：私人4小时嘟嘟车市区游览",
+  "metaDescription": "一次半天的Colombo体验。骑行穿过科伦坡的海滨街道，感受海风。由Sri Lanka car and private driver hire提供。",
+  "shortDescription": "一次半天的Colombo体验。骑行穿过科伦坡的海滨街道，感受海风。由Sri Lanka car and private driver hire提供。",
+  "fullDescription": "一次半天的Colombo体验。骑行穿过科伦坡的海滨街道，感受海风。\n\n由Sri Lanka car and private driver hire负责安排，价格中含9项内容。可免费取消。\n\n价格包含以国王椰子迎接您的到来、袋装饼干、鲜榨果汁、瓶装水。",
+  "highlights": [
+   "骑行穿过科伦坡的海滨街道，感受海风"
+  ],
+  "included": [
+   "以国王椰子迎接您的到来",
+   "袋装饼干",
+   "鲜榨果汁",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "galle-dragon-muay-thai-club-training-session": {
+  "title": "加勒：龙泰拳馆训练课程",
+  "metaTitle": "加勒：龙泰拳馆训练课程",
+  "metaDescription": "一次从Galle出发的1小时行程，游览50 Wakwella Rd。由True Trails Sri Lanka提供。",
+  "shortDescription": "一次从Galle出发的1小时行程，游览50 Wakwella Rd。由True Trails Sri Lanka提供。",
+  "fullDescription": "一次从Galle出发的1小时行程，途经50 Wakwella Rd。\n\n由True Trails Sri Lanka负责安排，价格中含1项内容。可免费取消。练习传统泰拳技巧，感受肾上腺素飙升。\n\n价格包含门票。不包含力量训练、柔韧性练习、自卫训练，请另行预算。两位旅客共同支付28美元，而不是每人各付15美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Galle出发的1小时行程，游览50 Wakwella Rd。由True Trails Sri Lanka提供。"
+  ],
+  "included": [
+   "门票"
+  ],
+  "notIncluded": [
+   "力量训练",
+   "柔韧性练习",
+   "自卫训练"
   ]
  },
  "all-inclusive-yala-national-park-private-safari": {
@@ -28309,6 +37397,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "早餐及小食",
    "个人消费",
    "司机小费"
+  ]
+ },
+ "mathalekandy-riverston-peak-tour-with-transfers": {
+  "title": "马特莱/康提：里弗斯顿峰游览，含接送",
+  "metaTitle": "马特莱/康提：里弗斯顿峰游览，含接送",
+  "metaDescription": "一次半天的Kandy体验。徒步穿越葱郁森林，呼吸清新山间空气。由Believe it tours提供。",
+  "shortDescription": "一次半天的Kandy体验。徒步穿越葱郁森林，呼吸清新山间空气。由Believe it tours提供。",
+  "fullDescription": "一次半天的Kandy体验。徒步穿越葱郁森林，呼吸清新山间空气。\n\n由Believe it tours负责安排，价格中含4项内容。可免费取消。\n\n价格包含酒店接送（康提或马特莱）、兼任当地导游的专业司机、里弗斯顿塔门票、瓶装水。不包含餐食、个人消费，请另行预算。",
+  "highlights": [
+   "徒步穿越葱郁森林，呼吸清新山间空气"
+  ],
+  "included": [
+   "酒店接送（康提或马特莱）",
+   "兼任当地导游的专业司机",
+   "里弗斯顿塔门票",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人消费"
   ]
  },
  "srilanka-kalpitiya-day-tour-with-airport-transfer": {
@@ -28508,6 +37616,44 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人性质的消费"
   ]
  },
+ "sigiriya-and-dambulla-guided-tour-with-licensed": {
+  "title": "锡吉里耶及丹布勒：导游带领游览，配持证导游",
+  "metaTitle": "锡吉里耶及丹布勒：导游带领游览，配持证导游",
+  "metaDescription": "一次从Sigiriya出发的全天行程，游览Nalanda Gedige, Dambulla Royal Cave Temple and Golden Temple和Sigiriya Lion Rock。由SIGIRITRIP TOURS (PVT) LTD提供。",
+  "shortDescription": "一次从Sigiriya出发的全天行程，游览Nalanda Gedige, Dambulla Royal Cave Temple and Golden Temple和Sigiriya Lion Rock。由SIGIRITRIP TOURS (PVT) LTD提供。",
+  "fullDescription": "一次从Sigiriya出发的全天行程，途经Nalanda Gedige, Dambulla Royal Cave Temple and Golden Temple和Sigiriya Lion Rock。最长的一站是Sigiriya Lion Rock，约2小时。全程共3站。\n\n行程顺序为Nalanda Gedige (15 min), 然后 Dambulla Royal Cave Temple and Golden Temple (1h), 然后 Sigiriya Lion Rock (2h)。\n\n价格包含持证导游、瓶装水。不包含景点门票、餐食、购物，请另行预算。",
+  "highlights": [
+   "一次从Sigiriya出发的全天行程，游览Nalanda Gedige, Dambulla Royal Cave Temple and Golden Temple和Sigiriya Lion Rock。由SIGIRITRIP TOURS (PVT) LTD提供。"
+  ],
+  "included": [
+   "持证导游",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "景点门票",
+   "餐食",
+   "购物"
+  ]
+ },
+ "kandy-temple-of-tooth-train-ride-cave-waterfall": {
+  "title": "康提：佛牙寺、火车之旅及石窟瀑布游览",
+  "metaTitle": "康提：佛牙寺、火车之旅及石窟瀑布游览",
+  "metaDescription": "一次从Kandy出发的全天行程，游览Temple of the Sacred Tooth Relic, Train, Meeyan Ella Waterfall和Royal Botanic Gardens, Kandy。由AMAK TRAVELS (PVT) LTD提供。",
+  "shortDescription": "一次从Kandy出发的全天行程，游览Temple of the Sacred Tooth Relic, Train, Meeyan Ella Waterfall和Royal Botanic Gardens, Kandy。由AMAK TRAVELS (PVT) LTD提供。",
+  "fullDescription": "一次从Kandy出发的全天行程，途经Temple of the Sacred Tooth Relic, Train, Meeyan Ella Waterfall和Royal Botanic Gardens, Kandy。最长的一站是Royal Botanic Gardens, Kandy，约2小时。全程共5站。\n\n行程顺序为Temple of the Sacred Tooth Relic, 然后 Train (1h), 然后 Meeyan Ella Waterfall (1h), 然后 Royal Botanic Gardens, Kandy (2h), 然后 Kandy view point (15 min)。\n\n价格包含英语当地导游、从您的酒店出发的私人交通、乘豪华轿车交通、风光火车票。不包含午餐，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的全天行程，游览Temple of the Sacred Tooth Relic, Train, Meeyan Ella Waterfall和Royal Botanic Gardens, Kandy。由AMAK TRAVELS (PVT) LTD提供。"
+  ],
+  "included": [
+   "英语当地导游",
+   "从您的酒店出发的私人交通",
+   "乘豪华轿车交通",
+   "风光火车票"
+  ],
+  "notIncluded": [
+   "午餐"
+  ]
+ },
  "from-kandy-wasgamuwa-safari-rathna-ella-waterfall": {
   "title": "康提出发：瓦斯甘穆瓦野生动物园及拉特纳埃拉瀑布之旅",
   "metaTitle": "康提出发：瓦斯甘穆瓦野生动物园及拉特纳埃拉瀑布之旅",
@@ -28527,6 +37673,63 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食",
    "小费",
    "小费"
+  ]
+ },
+ "bentota-river-safari-with-transfer-and-guide": {
+  "title": "本托塔河野生动物园之旅，含接送及导游",
+  "metaTitle": "本托塔河野生动物园之旅，含接送及导游",
+  "metaDescription": "一次从Bentota出发的2小时行程，游览Tuk tuk和Bentota。由Wander Zeylan Tours提供。",
+  "shortDescription": "一次从Bentota出发的2小时行程，游览Tuk tuk和Bentota。由Wander Zeylan Tours提供。",
+  "fullDescription": "一次从Bentota出发的2小时行程，途经Tuk tuk和Bentota。最长的一站是Bentota，约2小时。全程共2站。\n\n行程顺序为Tuk tuk (15 min), 然后 Bentota (2h)。\n\n价格包含河流野生动物园之旅、交通、2小时河流游览、德语及英语导游。不包含餐食，请另行预算。两位旅客共同支付95美元，而不是每人各付94美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Bentota出发的2小时行程，游览Tuk tuk和Bentota。由Wander Zeylan Tours提供。"
+  ],
+  "included": [
+   "河流野生动物园之旅",
+   "交通",
+   "2小时河流游览",
+   "德语及英语导游"
+  ],
+  "notIncluded": [
+   "餐食"
+  ]
+ },
+ "kandy-kalugala-garadi-ella-waterfall-hike-two-day": {
+  "title": "康提：卡卢加拉加拉迪埃拉瀑布徒步及两日露营",
+  "metaTitle": "康提：卡卢加拉加拉迪埃拉瀑布徒步及两日露营",
+  "metaDescription": "一次2天的Kandy体验。沉浸于卡卢加拉森林保护区的美景。由AMAK TRAVELS (PVT) LTD提供。",
+  "shortDescription": "一次2天的Kandy体验。沉浸于卡卢加拉森林保护区的美景。由AMAK TRAVELS (PVT) LTD提供。",
+  "fullDescription": "一次2天的Kandy体验。沉浸于卡卢加拉森林保护区的美景。\n\n由AMAK TRAVELS (PVT) LTD负责安排，价格中含4项内容。可免费取消。\n\n价格包含英语当地导游、合法徒步许可证、露营装备及帐篷、从康提出发的交通。不包含餐食，请另行预算。",
+  "highlights": [
+   "沉浸于卡卢加拉森林保护区的美景"
+  ],
+  "included": [
+   "英语当地导游",
+   "合法徒步许可证",
+   "露营装备及帐篷",
+   "从康提出发的交通"
+  ],
+  "notIncluded": [
+   "餐食"
+  ]
+ },
+ "kandy-two-day-yahangala-little-everest-trek": {
+  "title": "康提：两日亚汗加拉及小珠峰徒步",
+  "metaTitle": "康提：两日亚汗加拉及小珠峰徒步",
+  "metaDescription": "一次从Kandy出发的2天行程，游览Yahangala。由AMAK TRAVELS (PVT) LTD提供。",
+  "shortDescription": "一次从Kandy出发的2天行程，游览Yahangala。由AMAK TRAVELS (PVT) LTD提供。",
+  "fullDescription": "一次从Kandy出发的2天行程，途经Yahangala。最长的一站是Yahangala，约6小时。\n\n价格包含英语当地导游、合法徒步许可证、露营装备、从康提出发的往返交通。不包含午餐，请另行预算。",
+  "highlights": [
+   "一次从Kandy出发的2天行程，游览Yahangala。由AMAK TRAVELS (PVT) LTD提供。"
+  ],
+  "included": [
+   "英语当地导游",
+   "合法徒步许可证",
+   "露营装备",
+   "从康提出发的往返交通"
+  ],
+  "notIncluded": [
+   "午餐"
   ]
  },
  "kandy-hanthana-lizards-back-hike": {
@@ -28566,6 +37769,46 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮",
    "门票费用（如有）",
    "个人消费"
+  ]
+ },
+ "colombo-private-tuk-tuk-city-tour-with-guide-all": {
+  "title": "科伦坡：私人嘟嘟车市区游览，配导游及全部门票",
+  "metaTitle": "科伦坡：私人嘟嘟车市区游览，配导游及全部门票",
+  "metaDescription": "一次从Colombo出发的半天行程，游览Tuk tuk和Tuk tuk。由Sri Lanka car and private driver hire提供。",
+  "shortDescription": "一次从Colombo出发的半天行程，游览Tuk tuk和Tuk tuk。由Sri Lanka car and private driver hire提供。",
+  "fullDescription": "一次从Colombo出发的半天行程，途经Tuk tuk和Tuk tuk。全程共2站。\n\n行程顺序为Tuk tuk (5 min), 然后 Tuk tuk (7 min)。\n\n价格包含私人嘟嘟车游览、友善的英语当地司机兼导游、全部地标门票、省心接送。",
+  "highlights": [
+   "一次从Colombo出发的半天行程，游览Tuk tuk和Tuk tuk。由Sri Lanka car and private driver hire提供。"
+  ],
+  "included": [
+   "私人嘟嘟车游览",
+   "友善的英语当地司机兼导游",
+   "全部地标门票",
+   "省心接送"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "10-day-sri-lanka-grand-odyssey": {
+  "title": "10日斯里兰卡壮丽之旅",
+  "metaTitle": "10日斯里兰卡壮丽之旅",
+  "metaDescription": "一次从Ella出发的10天行程，游览Sigiriya, Pidurangala, Kandy和Temple of the Sacred Tooth Relic。由Kips Holidays提供。",
+  "shortDescription": "一次从Ella出发的10天行程，游览Sigiriya, Pidurangala, Kandy和Temple of the Sacred Tooth Relic。由Kips Holidays提供。",
+  "fullDescription": "一次从Ella出发的10天行程，途经Sigiriya, Pidurangala, Kandy和Temple of the Sacred Tooth Relic。最长的一站是Temple of the Sacred Tooth Relic，约5小时。全程共9站。\n\n行程顺序为Sigiriya (3h), 然后 Pidurangala (3h), 然后 Kandy (4h), 然后 Temple of the Sacred Tooth Relic (5h), 然后 Nuwara Eliya (5h)。\n\n价格包含全程私人空调车辆、专业英语司机兼导游、机场接送、燃油及高速公路通行费。不包含住宿（酒店）、餐饮（除特别说明外）、景点门票费用，请另行预算。两位旅客共同支付1657美元，而不是每人各付1657美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Ella出发的10天行程，游览Sigiriya, Pidurangala, Kandy和Temple of the Sacred Tooth Relic。由Kips Holidays提供。"
+  ],
+  "included": [
+   "全程私人空调车辆",
+   "专业英语司机兼导游",
+   "机场接送",
+   "燃油及高速公路通行费"
+  ],
+  "notIncluded": [
+   "住宿（酒店）",
+   "餐饮（除特别说明外）",
+   "景点门票费用"
   ]
  },
  "colombo-city-highlights-coach-tour": {
@@ -28608,6 +37851,48 @@ export const ZH_TOURS: Record<string, TourT> = {
    "早餐"
   ]
  },
+ "sri-lanka-9-day-ramayana-tour-with-3-4": {
+  "title": "斯里兰卡：9日罗摩衍那之旅，含3星及4星酒店住宿",
+  "metaTitle": "斯里兰卡：9日罗摩衍那之旅，含3星及4星酒店住宿",
+  "metaDescription": "一次从Colombo出发的9天行程，游览Galle, Galle Region, Kataragama和Nuwara Eliya。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "shortDescription": "一次从Colombo出发的9天行程，游览Galle, Galle Region, Kataragama和Nuwara Eliya。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "fullDescription": "一次从Colombo出发的9天行程，途经Galle, Galle Region, Kataragama和Nuwara Eliya。最长的一站是Kataragama，约3小时。全程共9站。\n\n行程顺序为Galle, 然后 Galle Region (2h), 然后 Kataragama (3h), 然后 Nuwara Eliya (3h), 然后 Kandy (3h)。\n\n价格包含8晚3-4星级酒店住宿（含早餐）、机场或当地酒店接送、空调车辆交通、整个游览的英语司机兼导游服务。不包含午餐、晚餐、个人消费，请另行预算。两位旅客共同支付3718美元，而不是每人各付3296美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的9天行程，游览Galle, Galle Region, Kataragama和Nuwara Eliya。由Nelum Holidays and Tours (Pvt) Ltd提供。"
+  ],
+  "included": [
+   "8晚3-4星级酒店住宿（含早餐）",
+   "机场或当地酒店接送",
+   "空调车辆交通",
+   "整个游览的英语司机兼导游服务"
+  ],
+  "notIncluded": [
+   "午餐",
+   "晚餐",
+   "个人消费"
+  ]
+ },
+ "sri-lanka-8-days-private-tour-package-with-hotels": {
+  "title": "斯里兰卡：8天私人游览套餐，含酒店及轿车/面包车",
+  "metaTitle": "斯里兰卡：8天私人游览套餐，含酒店及轿车/面包车",
+  "metaDescription": "一次从Colombo出发的8天行程，游览Negombo, Sigiriya, Kandy和Nuwara Eliya。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "shortDescription": "一次从Colombo出发的8天行程，游览Negombo, Sigiriya, Kandy和Nuwara Eliya。由Nelum Holidays and Tours (Pvt) Ltd提供。",
+  "fullDescription": "一次从Colombo出发的8天行程，途经Negombo, Sigiriya, Kandy和Nuwara Eliya。最长的一站是Negombo，约8小时。全程共7站。\n\n行程顺序为Negombo (8h), 然后 Sigiriya (8h), 然后 Kandy (8h), 然后 Nuwara Eliya (8h), 然后 Ella, Sri Lanka (8h)。\n\n价格包含机场接送、私人交通、市区游览观光、3-4星级酒店住宿，含指定餐食。不包含午餐、埃拉及米瑞沙的晚餐（建议尝试当地餐厅）、司机小费，请另行预算。两位旅客共同支付2941美元，而不是每人各付2671美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Colombo出发的8天行程，游览Negombo, Sigiriya, Kandy和Nuwara Eliya。由Nelum Holidays and Tours (Pvt) Ltd提供。"
+  ],
+  "included": [
+   "机场接送",
+   "私人交通",
+   "市区游览观光",
+   "3-4星级酒店住宿，含指定餐食"
+  ],
+  "notIncluded": [
+   "午餐",
+   "埃拉及米瑞沙的晚餐（建议尝试当地餐厅）",
+   "司机小费"
+  ]
+ },
  "galle-hiriketiya-guided-tour": {
   "title": "加勒一日游，从雷卡瓦/坦加拉/希里凯提亚/塔拉拉等出发",
   "metaTitle": "加勒一日游，从雷卡瓦/坦加拉/希里凯提亚/塔拉拉等出发",
@@ -28648,6 +37933,28 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费（可选）"
   ]
  },
+ "kandy-village-hiking-tour-waterfalls-local": {
+  "title": "康提乡村徒步游览：瀑布及当地互动",
+  "metaTitle": "康提乡村徒步游览：瀑布及当地互动",
+  "metaDescription": "一次全天的Kandy体验。徒步穿越被葱郁茶山环绕的宁静康提村庄。由Sakura Ceylon Travel提供。",
+  "shortDescription": "一次全天的Kandy体验。徒步穿越被葱郁茶山环绕的宁静康提村庄。由Sakura Ceylon Travel提供。",
+  "fullDescription": "一次全天的Kandy体验。徒步穿越被葱郁茶山环绕的宁静康提村庄。\n\n由Sakura Ceylon Travel负责安排，价格中含12项内容。可免费取消。\n\n价格包含配英语当地司机兼导游的私人游览、康提市区范围内的酒店接送、行程中的瓶装水、燃油、司机费用及停车费用、所列景点的门票/入场费用：。不包含餐饮、个人消费、小费（可选），请另行预算。",
+  "highlights": [
+   "徒步穿越被葱郁茶山环绕的宁静康提村庄"
+  ],
+  "included": [
+   "配英语当地司机兼导游的私人游览",
+   "康提市区范围内的酒店接送",
+   "行程中的瓶装水",
+   "燃油、司机费用及停车费用",
+   "所列景点的门票/入场费用："
+  ],
+  "notIncluded": [
+   "餐饮",
+   "个人消费",
+   "小费（可选）"
+  ]
+ },
  "cook-like-a-local-sri-lankan-rice-curry-class": {
   "title": "像本地人一样烹饪：锡吉里耶斯里兰卡米饭及咖喱课",
   "metaTitle": "像本地人一样烹饪：锡吉里耶斯里兰卡米饭及咖喱课",
@@ -28664,6 +37971,26 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "交通"
+  ]
+ },
+ "minneriya-safari-from-sigiriya-jeep-wildlife": {
+  "title": "明内里耶野生动物园之旅，从锡吉里耶出发：吉普车野生动物探险",
+  "metaTitle": "明内里耶野生动物园之旅，从锡吉里耶出发：吉普车野生动物探险",
+  "metaDescription": "一次从Sigiriya出发的半天行程，游览Jeep / SUV和Minneriya National Park。由Minneriya Wilderness Co提供。",
+  "shortDescription": "一次从Sigiriya出发的半天行程，游览Jeep / SUV和Minneriya National Park。由Minneriya Wilderness Co提供。",
+  "fullDescription": "一次从Sigiriya出发的半天行程，途经Jeep / SUV和Minneriya National Park。最长的一站是Minneriya National Park，约4小时。全程共2站。\n\n行程顺序为Jeep / SUV (20 min), 然后 Minneriya National Park (4h)。\n\n价格包含从锡吉里耶出发的酒店接送、4x4野生动物园吉普车（最多载6人）、专业且经验丰富的野生动物园司机、瓶装饮用水。不包含明内里耶国家公园门票（须在公园门口支付）、餐饮，请另行预算。",
+  "highlights": [
+   "一次从Sigiriya出发的半天行程，游览Jeep / SUV和Minneriya National Park。由Minneriya Wilderness Co提供。"
+  ],
+  "included": [
+   "从锡吉里耶出发的酒店接送",
+   "4x4野生动物园吉普车（最多载6人）",
+   "专业且经验丰富的野生动物园司机",
+   "瓶装饮用水"
+  ],
+  "notIncluded": [
+   "明内里耶国家公园门票（须在公园门口支付）",
+   "餐饮"
   ]
  },
  "negombo-lagoon-boat-tour-hotel-pickup-monkey": {
@@ -28746,6 +38073,47 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "from-ella-hindu-and-buddhist-temple-tour-with": {
+  "title": "埃拉出发：印度教及佛教寺庙游览，含接客",
+  "metaTitle": "埃拉出发：印度教及佛教寺庙游览，含接客",
+  "metaDescription": "一次全天的Ella体验。感受哈普塔莱印度教寺庙的灵性能量。由Lanka Travel Hub提供。",
+  "shortDescription": "一次全天的Ella体验。感受哈普塔莱印度教寺庙的灵性能量。由Lanka Travel Hub提供。",
+  "fullDescription": "一次全天的Ella体验。感受哈普塔莱印度教寺庙的灵性能量。\n\n由Lanka Travel Hub负责安排，价格中含4项内容。可免费取消。\n\n价格包含酒店接送（埃拉、班达拉韦拉、哈普塔莱地区）、私人车辆、英语司机兼导游、瓶装水。不包含门票、捐款费用（如适用）、餐食和个人消费，请另行预算。两位旅客共同支付163美元，而不是每人各付163美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "感受哈普塔莱印度教寺庙的灵性能量"
+  ],
+  "included": [
+   "酒店接送（埃拉、班达拉韦拉、哈普塔莱地区）",
+   "私人车辆",
+   "英语司机兼导游",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "门票",
+   "捐款费用（如适用）",
+   "餐食和个人消费"
+  ]
+ },
+ "nuwara-eliya-horton-plains-guided-hike-with-lunch": {
+  "title": "努沃勒埃利耶：霍顿平原导游带领徒步，含午餐",
+  "metaTitle": "努沃勒埃利耶：霍顿平原导游带领徒步，含午餐",
+  "metaDescription": "一次从Nuwara Eliya出发的全天行程，游览Horton Plains National Park, Great World's End Drop, Baker's Falls和Horton Plains National Park。由Lanka Trek提供。",
+  "shortDescription": "一次从Nuwara Eliya出发的全天行程，游览Horton Plains National Park, Great World's End Drop, Baker's Falls和Horton Plains National Park。由Lanka Trek提供。",
+  "fullDescription": "一次从Nuwara Eliya出发的全天行程，途经Horton Plains National Park, Great World's End Drop, Baker's Falls和Horton Plains National Park。最长的一站是Baker's Falls，约1小时。全程共4站。\n\n行程顺序为Horton Plains National Park (15 min), 然后 Great World's End Drop, 然后 Baker's Falls (1h), 然后 Horton Plains National Park。\n\n价格包含从努沃勒埃利耶到霍顿平原国家公园的风光驾游、现场英语导游、9.5公里环形徒步路线、参观世界尽头。不包含小费、小费，请另行预算。两位旅客共同支付271美元，而不是每人各付220美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Nuwara Eliya出发的全天行程，游览Horton Plains National Park, Great World's End Drop, Baker's Falls和Horton Plains National Park。由Lanka Trek提供。"
+  ],
+  "included": [
+   "从努沃勒埃利耶到霍顿平原国家公园的风光驾游",
+   "现场英语导游",
+   "9.5公里环形徒步路线",
+   "参观世界尽头"
+  ],
+  "notIncluded": [
+   "小费",
+   "小费"
+  ]
+ },
  "ella-adventure-rock-bridge-temple-adams-peak-falls": {
   "title": "埃拉探险：岩石、桥梁、寺庙、亚当峰及瀑布",
   "metaTitle": "埃拉探险：岩石、桥梁、寺庙、亚当峰及瀑布",
@@ -28764,6 +38132,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "门票费用",
    "午餐和个人消费",
    "滑索（可选，需额外付费）"
+  ]
+ },
+ "sri-lanka-car-rental-with-driver-3-days-minimum": {
+  "title": "斯里兰卡：配司机轿车租赁，最少3天，每日200公里",
+  "metaTitle": "斯里兰卡：配司机轿车租赁，最少3天，每日200公里",
+  "metaDescription": "一次3天的Colombo体验。凭借私家车的专属性，打造专属行程。由Prestige Travels Srilanka提供。",
+  "shortDescription": "一次3天的Colombo体验。凭借私家车的专属性，打造专属行程。由Prestige Travels Srilanka提供。",
+  "fullDescription": "一次3天的Colombo体验。凭借私家车的专属性，打造专属行程。\n\n由Prestige Travels Srilanka负责安排，价格中含9项内容。可免费取消。\n\n价格包含空调车辆、英语司机兼导游、瓶装水、每日最多200公里行程。不包含每日200公里限额以外的额外里程（每公里收费0.40美元）、景点门票费用、餐食或小吃，请另行预算。",
+  "highlights": [
+   "凭借私家车的专属性，打造专属行程"
+  ],
+  "included": [
+   "空调车辆",
+   "英语司机兼导游",
+   "瓶装水",
+   "每日最多200公里行程"
+  ],
+  "notIncluded": [
+   "每日200公里限额以外的额外里程（每公里收费0.40美元）",
+   "景点门票费用",
+   "餐食或小吃"
   ]
  },
  "sigiriya-and-dambulla-day-tour": {
@@ -28828,6 +38217,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "活动费用"
   ]
  },
+ "mirissa-whale-dolphin-watching-boat-tour": {
+  "title": "米瑞沙：观鲸及观海豚游船之旅",
+  "metaTitle": "米瑞沙：观鲸及观海豚游船之旅",
+  "metaDescription": "一次全天的Mirissa体验。感受在自然栖息地寻觅鲸鱼及海豚的刺激。由Tourlankaholidays提供。",
+  "shortDescription": "一次全天的Mirissa体验。感受在自然栖息地寻觅鲸鱼及海豚的刺激。由Tourlankaholidays提供。",
+  "fullDescription": "一次全天的Mirissa体验。感受在自然栖息地寻觅鲸鱼及海豚的刺激。\n\n由Tourlankaholidays负责安排，价格中含5项内容。可免费取消。\n\n价格包含观鲸之旅、观赏海豚、政府门票、早餐（小吃）。不包含此行程不含与海豚及鲸鱼共游，请另行预算。",
+  "highlights": [
+   "感受在自然栖息地寻觅鲸鱼及海豚的刺激"
+  ],
+  "included": [
+   "观鲸之旅",
+   "观赏海豚",
+   "政府门票",
+   "早餐（小吃）"
+  ],
+  "notIncluded": [
+   "此行程不含与海豚及鲸鱼共游"
+  ]
+ },
  "kandy-knuckles-mountain-range-2-day-camping-tour": {
   "title": "康提：纳克尔斯山脉2日露营之旅",
   "metaTitle": "康提：纳克尔斯山脉2日露营之旅",
@@ -28849,6 +38257,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "额外服务"
   ]
  },
+ "mirissa-whale-dolphin-watching-trip-with-private": {
+  "title": "米瑞沙：观鲸及观海豚之旅，含私人接送",
+  "metaTitle": "米瑞沙：观鲸及观海豚之旅，含私人接送",
+  "metaDescription": "一次全天的Mirissa体验。感受在自然栖息地寻觅威武蓝鲸的刺激。由Bentota Travel Mart提供。",
+  "shortDescription": "一次全天的Mirissa体验。感受在自然栖息地寻觅威武蓝鲸的刺激。由Bentota Travel Mart提供。",
+  "fullDescription": "一次全天的Mirissa体验。感受在自然栖息地寻觅威武蓝鲸的刺激。\n\n由Bentota Travel Mart负责安排，价格中含4项内容。可免费取消。\n\n价格包含酒店接送、乘空调车辆的私人往返交通、观鲸之旅费用、船上简易早餐。不包含午餐、饮品、个人消费，请另行预算。两位旅客共同支付288美元，而不是每人各付169美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "感受在自然栖息地寻觅威武蓝鲸的刺激"
+  ],
+  "included": [
+   "酒店接送",
+   "乘空调车辆的私人往返交通",
+   "观鲸之旅费用",
+   "船上简易早餐"
+  ],
+  "notIncluded": [
+   "午餐",
+   "饮品",
+   "个人消费"
+  ]
+ },
  "ella2-day-waterfalls-hikings-and-activities-with": {
   "title": "埃拉：2日游，含瀑布、徒步及多项活动（附午餐）",
   "metaTitle": "埃拉：2日游，含瀑布、徒步及多项活动（附午餐）",
@@ -28866,6 +38295,26 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "住宿"
+  ]
+ },
+ "sigiriya-to-kandy-transfer-with-sightseeings": {
+  "title": "锡吉里耶至康提接送，含观光",
+  "metaTitle": "锡吉里耶至康提接送，含观光",
+  "metaDescription": "一次半天的Kandy体验。参观丹布勒石窟寺，含门票。由Travelers Arc Sri Lanka提供。",
+  "shortDescription": "一次半天的Kandy体验。参观丹布勒石窟寺，含门票。由Travelers Arc Sri Lanka提供。",
+  "fullDescription": "一次半天的Kandy体验。参观丹布勒石窟寺，含门票。\n\n由Travelers Arc Sri Lanka负责安排，价格中含7项内容。可免费取消。\n\n价格包含配空调的私人交通、专业英语司机兼导游、行程中的瓶装水、丹布勒石窟寺门票。不包含餐食、小费（可选），请另行预算。两位旅客共同支付111美元，而不是每人各付111美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "参观丹布勒石窟寺，含门票"
+  ],
+  "included": [
+   "配空调的私人交通",
+   "专业英语司机兼导游",
+   "行程中的瓶装水",
+   "丹布勒石窟寺门票"
+  ],
+  "notIncluded": [
+   "餐食",
+   "小费（可选）"
   ]
  },
  "kandy-wax-museum-of-art-and-culture-entry-ticket": {
@@ -28941,6 +38390,47 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮"
   ]
  },
+ "nuwara-eliya-tea-country-tour-with-waterfall-hike": {
+  "title": "努沃勒埃利耶：茶乡游览，含瀑布徒步",
+  "metaTitle": "努沃勒埃利耶：茶乡游览，含瀑布徒步",
+  "metaDescription": "一次从Nuwara Eliya出发的半天行程，游览Damro Tea Factory, Ramboda Falls, Srilanka和Oak Ray Tea Bush - Ramboda wodospad。由Titan Tours Sri Lanka提供。",
+  "shortDescription": "一次从Nuwara Eliya出发的半天行程，游览Damro Tea Factory, Ramboda Falls, Srilanka和Oak Ray Tea Bush - Ramboda wodospad。由Titan Tours Sri Lanka提供。",
+  "fullDescription": "一次从Nuwara Eliya出发的半天行程，途经Damro Tea Factory, Ramboda Falls, Srilanka和Oak Ray Tea Bush - Ramboda wodospad。最长的一站是Damro Tea Factory，约2小时。全程共3站。\n\n行程顺序为Damro Tea Factory (2h), 然后 Ramboda Falls, Srilanka (2h), 然后 Oak Ray Tea Bush - Ramboda wodospad (1h)。\n\n价格包含酒店接送、参观蓝菲尔德或丹姆罗茶厂及茶园、采茶叶体验、制茶工艺导游讲解游览。不包含个人消费、小费、任何餐食，请另行预算。两位旅客共同支付85美元，而不是每人各付85美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次从Nuwara Eliya出发的半天行程，游览Damro Tea Factory, Ramboda Falls, Srilanka和Oak Ray Tea Bush - Ramboda wodospad。由Titan Tours Sri Lanka提供。"
+  ],
+  "included": [
+   "酒店接送",
+   "参观蓝菲尔德或丹姆罗茶厂及茶园",
+   "采茶叶体验",
+   "制茶工艺导游讲解游览"
+  ],
+  "notIncluded": [
+   "个人消费",
+   "小费",
+   "任何餐食"
+  ]
+ },
+ "private-tour-from-sigiriya-to-kandy-with": {
+  "title": "私人游览：从锡吉里耶到康提，含瓦斯甘穆瓦野生动物园之旅",
+  "metaTitle": "私人游览：从锡吉里耶到康提，含瓦斯甘穆瓦野生动物园之旅",
+  "metaDescription": "一次全天的Kandy体验。感受瓦斯甘穆瓦国家公园3小时野生动物园之旅的刺激。由Lakpura®提供。",
+  "shortDescription": "一次全天的Kandy体验。感受瓦斯甘穆瓦国家公园3小时野生动物园之旅的刺激。由Lakpura®提供。",
+  "fullDescription": "一次全天的Kandy体验。感受瓦斯甘穆瓦国家公园3小时野生动物园之旅的刺激。\n\n由Lakpura®负责安排，价格中含5项内容。可免费取消。\n\n价格包含从锡吉里耶到康提的私人接送、瓦斯甘穆瓦国家公园3小时野生动物园之旅、知识渊博的导游、野生动物园吉普车。不包含餐食、瓦斯甘穆瓦国家公园门票，请另行预算。两位旅客共同支付338美元，而不是每人各付338美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "感受瓦斯甘穆瓦国家公园3小时野生动物园之旅的刺激"
+  ],
+  "included": [
+   "从锡吉里耶到康提的私人接送",
+   "瓦斯甘穆瓦国家公园3小时野生动物园之旅",
+   "知识渊博的导游",
+   "野生动物园吉普车"
+  ],
+  "notIncluded": [
+   "餐食",
+   "瓦斯甘穆瓦国家公园门票"
+  ]
+ },
  "sigiriya-minneriya-national-park-safari": {
   "title": "锡吉里耶：明内里耶国家公园野生动物园之旅及亭可马里送达",
   "metaTitle": "锡吉里耶：明内里耶国家公园野生动物园之旅及亭可马里送达",
@@ -28958,6 +38448,27 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐食",
    "国家公园门票"
+  ]
+ },
+ "colombo-airport-to-galleahangamabentota-private": {
+  "title": "科伦坡机场至加勒/阿哈嘎马/本托塔私人接送",
+  "metaTitle": "科伦坡机场至加勒/阿哈嘎马/本托塔私人接送",
+  "metaDescription": "一次2小时的Colombo体验。从科伦坡机场到加勒/阿哈嘎马或本托塔地区的私人接送。由Travelers Arc Sri Lanka提供。",
+  "shortDescription": "一次2小时的Colombo体验。从科伦坡机场到加勒/阿哈嘎马或本托塔地区的私人接送。由Travelers Arc Sri Lanka提供。",
+  "fullDescription": "一次2小时的Colombo体验。从科伦坡机场到加勒/阿哈嘎马或本托塔地区的私人接送。\n\n由Travelers Arc Sri Lanka负责安排，价格中含8项内容。可免费取消。\n\n价格包含从班达拉奈克国际机场（CMB）出发的接机服务、送达加勒或阿哈嘎马市区内任意酒店或地址、英语专业司机兼导游、私人空调车辆、高速公路通行费、燃油及全部税费。不包含餐食、小费，请另行预算。两位旅客共同支付112美元，而不是每人各付112美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "从科伦坡机场到加勒/阿哈嘎马或本托塔地区的私人接送"
+  ],
+  "included": [
+   "从班达拉奈克国际机场（CMB）出发的接机服务",
+   "送达加勒或阿哈嘎马市区内任意酒店或地址",
+   "英语专业司机兼导游",
+   "私人空调车辆",
+   "高速公路通行费、燃油及全部税费"
+  ],
+  "notIncluded": [
+   "餐食",
+   "小费"
   ]
  },
  "colombo-city-sketching-lesson-and-walk": {
@@ -28997,6 +38508,24 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐饮",
    "小费（可选）",
    "个人消费"
+  ]
+ },
+ "explore-galle-fort-with-local-guide": {
+  "title": "与当地导游一起探索加勒古堡",
+  "metaTitle": "与当地导游一起探索加勒古堡",
+  "metaDescription": "一次2小时的Galle体验。与当地导游一起探索历史悠久的加勒古堡，仿佛穿越时光。由Explore Galle Fort with a Local Guide提供。",
+  "shortDescription": "一次2小时的Galle体验。与当地导游一起探索历史悠久的加勒古堡，仿佛穿越时光。由Explore Galle Fort with a Local Guide提供。",
+  "fullDescription": "一次2小时的Galle体验。与当地导游一起探索历史悠久的加勒古堡，仿佛穿越时光。\n\n由Explore Galle Fort with a Local Guide负责安排，价格中含3项内容。可免费取消。\n\n价格包含导游带领的加勒古堡徒步游览、荷兰归正教堂门票、当地导游。不包含食物及饮品不含，请另行预算。",
+  "highlights": [
+   "与当地导游一起探索历史悠久的加勒古堡，仿佛穿越时光"
+  ],
+  "included": [
+   "导游带领的加勒古堡徒步游览",
+   "荷兰归正教堂门票",
+   "当地导游"
+  ],
+  "notIncluded": [
+   "食物及饮品不含"
   ]
  },
  "flyboard-experience-in-pattaya": {
