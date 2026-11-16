@@ -48,6 +48,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "早餐、午餐及晚餐"
   ]
  },
+ "beng-mealea-koh-ker-and-floating-village-private-t": {
+  "title": "崩密列、Koh Ker及水上浮村私人游",
+  "metaTitle": "崩密列、Koh Ker及水上浮村私人游",
+  "shortDescription": "Siem Reap2小时游览，含Siem Reap Province and Krong Siem Reap。直接向Happy Angkor Tour Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次2小时行程，出发自Siem Reap，游览Siem Reap Province and Krong Siem Reap。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含私人空调车辆、专业英语导游和酒店接送。不包含小费、所有门票费用和食物，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为189美元，4人为234美元，7人为410美元。页面显示的是您整个团队的总价，不是人均单价。\n\nHappy Angkor Tour Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "私人空调车辆",
+   "专业英语导游",
+   "酒店接送"
+  ],
+  "notIncluded": [
+   "小费",
+   "所有门票费用",
+   "食物"
+  ]
+ },
  "kulen-mountain-beng-melea-and-kampong-phluk": {
   "title": "古伦山、崩密列和磅平洛",
   "metaTitle": "古伦山、崩密列和磅平洛",
@@ -61,6 +77,22 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "在当地餐厅享用午餐",
    "Kulen山和Beng Melea的门票费"
+  ]
+ },
+ "from-siem-reap-jeep-tour-to-beng-mealea-and": {
+  "title": "暹粒出发：吉普车游崩密列及Kampong Khleang",
+  "metaTitle": "暹粒出发：吉普车游崩密列及Kampong Khleang",
+  "shortDescription": "Siem Reap全天游览，含吉普车及经验丰富的司机、暹粒酒店接送和向导。直接向Cambodian Travel Partner订位，而非通过分销商。",
+  "fullDescription": "一次全天体验，地点在Siem Reap。运营商将其概括为：乘复古吉普车穿越崎岖土路展开探险。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含吉普车及经验丰富的司机、暹粒酒店接送和向导。不包含吴哥寺庙门票（37美元/人）、个人花费和额外饮品，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为433美元，5人为923美元，8人为1,352美元。页面显示的是您整个团队的总价，不是人均单价。\n\nCambodian Travel Partner负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "吉普车及经验丰富的司机",
+   "暹粒酒店接送",
+   "向导"
+  ],
+  "notIncluded": [
+   "吴哥寺庙门票（37美元/人）",
+   "个人花费",
+   "额外饮品"
   ]
  },
  "kbal-spean-banteay-srei-and-banteay-with-private-s": {
@@ -193,6 +225,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "hidden-temple-cycling-adventure-in-siem-reap-angko": {
+  "title": "暹粒吴哥隐秘寺庙骑行探险之旅",
+  "metaTitle": "暹粒吴哥隐秘寺庙骑行探险之旅",
+  "shortDescription": "Siem Reap半天游览，含Depends on the selected option、Prasat Chrung Southeast和Khmoch Gate (Gate of the Dead) and French Dam / ទំនប់ទឹកបារាំង。直接向SOUTHEAST ASIA JOURNEYS订位，而非通过分销商。",
+  "fullDescription": "一次半天行程，出发自Siem Reap，游览Depends on the selected option、Prasat Chrung Southeast和Khmoch Gate (Gate of the Dead) and French Dam / ទំនប់ទឹកបារាំង。全程共有7个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\nAngkor Thom was the last capital of the Khmer empire, laid out by Jayavarman VII around 1200 behind eight metres of wall and a moat, with five gates whose causeways are lined by gods and demons hauling on a serpent. At its centre is the Bayon, whose towers carry over 200 enormous serene faces, and whose outer galleries show not gods but ordinary Khmer life: markets, cockfights, a woman giving birth, the naval battle against the Chams. The Baphuon behind it was dismantled for restoration and rebuilt over decades after the records were lost in the war. The Terrace of the Elephants was the royal reviewing stand, 350 metres of parading elephants and garudas.\n\n价格包含专业英语游览向导、酒店接送和私人空调车及司机。不包含个人花费和小费、旅行保险和餐食和饮品，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为156美元，5人为234美元，8人为302美元。页面显示的是您整个团队的总价，不是人均单价。\n\nSOUTHEAST ASIA JOURNEYS负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "专业英语游览向导",
+   "酒店接送",
+   "私人空调车及司机"
+  ],
+  "notIncluded": [
+   "个人花费和小费",
+   "旅行保险",
+   "餐食和饮品"
+  ]
+ },
  "angkor-wat-and-war-museum-guided-tour": {
   "title": "吴哥窟与战争博物馆导览游",
   "metaTitle": "吴哥窟与战争博物馆导览游",
@@ -219,6 +267,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费",
    "食物",
    "个人花费"
+  ]
+ },
+ "sambor-prei-kuk-and-preah-khan-kampong-svay-tour": {
+  "title": "Sambor Prei Kuk及Preah Khan Kampong Svay之旅",
+  "metaTitle": "Sambor Prei Kuk及Preah Khan Kampong Svay之旅",
+  "shortDescription": "Siem Reap3小时游览，含Siem Reap Province。直接向Golden Escape Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次3小时行程，出发自Siem Reap，游览Siem Reap Province。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含游览Sambor Prei Kuk寺庙区、游览Preah Khan Kampong Svay寺庙和私人游览向导。不包含食物、饮料和门票费用，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人78美元，因此7人的团队总价为546美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nGolden Escape Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "游览Sambor Prei Kuk寺庙区",
+   "游览Preah Khan Kampong Svay寺庙",
+   "私人游览向导"
+  ],
+  "notIncluded": [
+   "食物",
+   "饮料",
+   "门票费用"
   ]
  },
  "half-day-kampong-phluk-with-sunset-boat-and-guide": {
@@ -417,6 +481,36 @@ export const ZH_TOURS: Record<string, TourT> = {
    "汽油费"
   ],
   "notIncluded": []
+ },
+ "grand-tour-of-angkor-and-sunset": {
+  "title": "吴哥大圈及日落之旅",
+  "metaTitle": "吴哥大圈及日落之旅",
+  "shortDescription": "Siem Reap1天游览，含ស្ពានសួនព្រះរាជដំណាក់、Banteay Srei Temple和Preah Khan Temple and Neak Poun。直接向Asia Voyage Travel & Tour订位，而非通过分销商。",
+  "fullDescription": "一次1天行程，出发自Siem Reap，游览ស្ពានសួនព្រះរាជដំណាក់、Banteay Srei Temple和Preah Khan Temple and Neak Poun。全程共有9个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含全程私人交通、酒店接送和当地现场导游。不包含吴哥寺庙群门票和当地餐厅午餐（自费），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为189美元，8人为215美元，所以人数越多，每人分摊的费用就越低。\n\nAsia Voyage Travel & Tour负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "全程私人交通",
+   "酒店接送",
+   "当地现场导游"
+  ],
+  "notIncluded": [
+   "吴哥寺庙群门票",
+   "当地餐厅午餐（自费）"
+  ]
+ },
+ "custom-beng-mealea-lost-jungle-temple-highlights": {
+  "title": "定制游：崩密列失落丛林寺庙精华",
+  "metaTitle": "定制游：崩密列失落丛林寺庙精华",
+  "shortDescription": "Siem Reap全天游览，含会英语的向导、酒店接送，或免费暹粒国际机场（SAI）接送和私人空调SUV或面包车。直接向Mr Cake Taxi Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次全天体验，地点在Siem Reap。运营商将其概括为：灵活选择：从四条路线中挑选，完美匹配您的航班时间。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含会英语的向导、酒店接送，或免费暹粒国际机场（SAI）接送和私人空调SUV或面包车。不包含崩密列寺庙门票（或有效的吴哥寺庙门票）和水上浮村船票（如选择套票选项），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为102美元，8人为130美元，所以人数越多，每人分摊的费用就越低。\n\nMr Cake Taxi Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "会英语的向导",
+   "酒店接送，或免费暹粒国际机场（SAI）接送",
+   "私人空调SUV或面包车"
+  ],
+  "notIncluded": [
+   "崩密列寺庙门票（或有效的吴哥寺庙门票）",
+   "水上浮村船票（如选择套票选项）"
+  ]
  },
  "angkor-wat-and-ta-prohm-half-day-afternoon-tour": {
   "title": "吴哥窟与塔普伦寺半日下午游",
@@ -666,6 +760,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食"
   ]
  },
+ "beng-mealea-and-koh-ker-pyramid-tour-with-airport": {
+  "title": "崩密列及Koh Ker金字塔之旅，含机场接送",
+  "metaTitle": "崩密列及Koh Ker金字塔之旅，含机场接送",
+  "shortDescription": "Siem Reap全天游览，含暹粒酒店接送、私人空调交通和会英语的司机。直接向Golden Escape Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次全天体验，地点在Siem Reap。运营商将其概括为：探访神秘的崩密列丛林寺庙。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含暹粒酒店接送、私人空调交通和会英语的司机。不包含崩密列门票、Koh Ker门票和专业导游，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为215美元，8人为241美元，所以人数越多，每人分摊的费用就越低。\n\nGolden Escape Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "暹粒酒店接送",
+   "私人空调交通",
+   "会英语的司机"
+  ],
+  "notIncluded": [
+   "崩密列门票",
+   "Koh Ker门票",
+   "专业导游"
+  ]
+ },
  "kulen-mountains-ta-penh": {
   "title": "贡伦山+Ta Penh",
   "metaTitle": "贡伦山+Ta Penh",
@@ -726,6 +836,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "吴哥门票",
    "船票及其他相关费用",
    "餐食"
+  ]
+ },
+ "beng-mealea-and-kampong-khleang-day-trip": {
+  "title": "崩密列及Kampong Khleang一日游",
+  "metaTitle": "崩密列及Kampong Khleang一日游",
+  "shortDescription": "Siem Reap全天游览，含酒店接送、专业导游和冷饮用水。直接向Angkor Wat Driver Private Tour订位，而非通过分销商。",
+  "fullDescription": "一次全天体验，地点在Siem Reap。运营商将其概括为：沉浸于崩密列寺庙的丛林氛围中。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含酒店接送、专业导游和冷饮用水。不包含寺庙通票、Kampong Khleang门票和餐食（早/中/晚），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为260美元，8人为260美元，所以人数越多，每人分摊的费用就越低。\n\nAngkor Wat Driver Private Tour负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "专业导游",
+   "冷饮用水"
+  ],
+  "notIncluded": [
+   "寺庙通票",
+   "Kampong Khleang门票",
+   "餐食（早/中/晚）"
   ]
  },
  "angkor-wat-temple-one-day-tour-from-siem-reap": {
@@ -1163,6 +1289,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "4-hour-ta-prohm-and-banteay-kdei-guided-tour": {
+  "title": "4小时塔普伦寺及Banteay Kdei向导游",
+  "metaTitle": "4小时塔普伦寺及Banteay Kdei向导游",
+  "shortDescription": "Siem Reap半天游览，含Krong Siem Reap、Transfer和Srah Srang and Ta Prohm Temple。直接向Private Siem Reap Tour Guide & Transport订位，而非通过分销商。",
+  "fullDescription": "一次半天行程，出发自Siem Reap，游览Krong Siem Reap、Transfer和Srah Srang and Ta Prohm Temple。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含空调车私人接送、持证私人司机和持证专业向导。不包含寺庙门票和小费/打赏，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为146美元，8人为177美元，所以人数越多，每人分摊的费用就越低。\n\nPrivate Siem Reap Tour Guide & Transport负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "空调车私人接送",
+   "持证私人司机",
+   "持证专业向导"
+  ],
+  "notIncluded": [
+   "寺庙门票",
+   "小费/打赏"
+  ]
+ },
  "private-angkor-wat-sunrise-tour-with-breakfast": {
   "title": "吴哥窟日出私人游（含早餐）",
   "metaTitle": "吴哥窟日出私人游（含早餐）",
@@ -1460,6 +1601,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "preah-khan-kampong-svay-and-sambo-prei-kuk-tour": {
+  "title": "Preah Khan Kampong Svay及Sambor Prei Kuk之旅",
+  "metaTitle": "Preah Khan Kampong Svay及Sambor Prei Kuk之旅",
+  "shortDescription": "Siem Reap全天游览，含酒店接送、专业导游和冰毛巾。直接向Angkor Wat Driver Private Tour订位，而非通过分销商。",
+  "fullDescription": "一次全天体验，地点在Siem Reap。运营商将其概括为：探索Preah Khan Kampong Svay，柬埔寨境内一座广阔的寺庙群。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含酒店接送、专业导游和冰毛巾。不包含寺庙通票、餐食（早/中/晚）和个人花费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为558美元，8人为559美元，所以人数越多，每人分摊的费用就越低。\n\nAngkor Wat Driver Private Tour负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "专业导游",
+   "冰毛巾"
+  ],
+  "notIncluded": [
+   "寺庙通票",
+   "餐食（早/中/晚）",
+   "个人花费"
+  ]
+ },
  "private-transfer-from-phnom-penh-to-koh-rong-sihan": {
   "title": "从金边到西哈努克诗航岛的私人接送",
   "metaTitle": "从金边到西哈努克诗航岛的私人接送",
@@ -1578,6 +1735,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "beng-mealea-temple-and-kompong-pluk-village-experi": {
+  "title": "崩密列寺庙及Kompong Pluk村落体验",
+  "metaTitle": "崩密列寺庙及Kompong Pluk村落体验",
+  "shortDescription": "Siem Reap1小时游览，含私人空调车辆、会英语的司机和酒店接送。直接向Golden Escape Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次1小时体验，地点在Siem Reap。运营商将其概括为：探访隐匿于丛林中的崩密列寺庙。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含私人空调车辆、会英语的司机和酒店接送。不包含崩密列寺庙门票、Kompong Pluk门票及船票和餐食和饮品，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为129美元，8人为168美元，所以人数越多，每人分摊的费用就越低。\n\nGolden Escape Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "私人空调车辆",
+   "会英语的司机",
+   "酒店接送"
+  ],
+  "notIncluded": [
+   "崩密列寺庙门票",
+   "Kompong Pluk门票及船票",
+   "餐食和饮品"
+  ]
+ },
  "the-jewels-of-angkor-private-tour": {
   "title": "吴哥明珠私人游",
   "metaTitle": "吴哥明珠私人游",
@@ -1591,6 +1764,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "吴哥考古公园门票",
    "午餐"
+  ]
+ },
+ "sunrise-at-phnom-bakheng-and-the-temples-of-angkor": {
+  "title": "Phnom Bakheng日出及吴哥寺庙群之旅",
+  "metaTitle": "Phnom Bakheng日出及吴哥寺庙群之旅",
+  "shortDescription": "Siem Reap1天游览，含Krong Siem Reap、Phnom Bakheng和South Gate Angkor and Bayon Temple。直接向Angkor Visitor Tour订位，而非通过分销商。",
+  "fullDescription": "一次1天行程，出发自Siem Reap，游览Krong Siem Reap、Phnom Bakheng和South Gate Angkor and Bayon Temple。全程共有11个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\nAngkor Thom was the last capital of the Khmer empire, laid out by Jayavarman VII around 1200 behind eight metres of wall and a moat, with five gates whose causeways are lined by gods and demons hauling on a serpent. At its centre is the Bayon, whose towers carry over 200 enormous serene faces, and whose outer galleries show not gods but ordinary Khmer life: markets, cockfights, a woman giving birth, the naval battle against the Chams. The Baphuon behind it was dismantled for restoration and rebuilt over decades after the records were lost in the war. The Terrace of the Elephants was the royal reviewing stand, 350 metres of parading elephants and garudas.\n\n价格包含私人法语现场导游、舒适嘟嘟车及司机接送和暹粒酒店接送。不包含吴哥寺庙群门票（Angkor Pass）和餐食和饮品，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为194美元，5人为233美元，8人为440美元。页面显示的是您整个团队的总价，不是人均单价。\n\nAngkor Visitor Tour负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "私人法语现场导游",
+   "舒适嘟嘟车及司机接送",
+   "暹粒酒店接送"
+  ],
+  "notIncluded": [
+   "吴哥寺庙群门票（Angkor Pass）",
+   "餐食和饮品"
   ]
  },
  "angkor-wat-and-banteay-srei-temple-day-tour": {
@@ -1670,6 +1858,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "导游",
    "一餐",
    "个人花费"
+  ]
+ },
+ "phnom-bakheng-sunset-tour-pre-rup-neak-pean-preah": {
+  "title": "Phnom Bakheng日落之旅：Pre Rup、Neak Pean与Preah Khan",
+  "metaTitle": "Phnom Bakheng日落之旅：Pre Rup、Neak Pean与Preah Khan",
+  "shortDescription": "Siem Reap半天游览，含酒店接送、会英语的游览向导和当地小吃。直接向Private Siem Reap Tour Guide & Transport订位，而非通过分销商。",
+  "fullDescription": "一次半天体验，地点在Siem Reap。运营商将其概括为：探索Pre Rup印度教寺庙，曾是高棉国王的国庙。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含酒店接送、会英语的游览向导和当地小吃。不包含午餐和寺庙门票：37美元/日，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人72美元，因此8人的团队总价为572美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nPrivate Siem Reap Tour Guide & Transport负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "会英语的游览向导",
+   "当地小吃"
+  ],
+  "notIncluded": [
+   "午餐",
+   "寺庙门票：37美元/日"
   ]
  },
  "private-angkor-wat-sunset-tour-german-speaking-gui": {
@@ -1997,6 +2200,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "船票"
   ]
  },
+ "beng-mealea-koh-ker-temples-tour-siem-reap-phnom": {
+  "title": "崩密列、Koh Ker寺庙之旅：暹粒至金边",
+  "metaTitle": "崩密列、Koh Ker寺庙之旅：暹粒至金边",
+  "shortDescription": "Siem Reap半天游览，含Siem Reap Angkor International Airport (SAI and Cambodi。直接向Cambodia Taxi Driver订位，而非通过分销商。",
+  "fullDescription": "一次半天行程，出发自Siem Reap，游览Siem Reap Angkor International Airport (SAI and Cambodi。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含暹粒至金边单程接送（1-Way）、接送服务和会英语的司机。不包含午餐及个人消费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为436美元，5人为813美元，8人为1,092美元。页面显示的是您整个团队的总价，不是人均单价。\n\nCambodia Taxi Driver负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "暹粒至金边单程接送（1-Way）",
+   "接送服务",
+   "会英语的司机"
+  ],
+  "notIncluded": [
+   "午餐及个人消费"
+  ]
+ },
  "chong-khneas-floating-village-sunset-by-tuk-tuk": {
   "title": "嘟嘟车游览冲尼斯水上村日落",
   "metaTitle": "嘟嘟车游览冲尼斯水上村日落",
@@ -2161,6 +2378,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费"
   ]
  },
+ "angkor-thom-guided-bike-along-the-great-wall-priva": {
+  "title": "吴哥通王城城墙向导骑行私人游",
+  "metaTitle": "吴哥通王城城墙向导骑行私人游",
+  "shortDescription": "Siem Reap半天游览，含嘟嘟车／空调车：从酒店前往市区自行车店、舒适自行车和头盔。直接向Happy Angkor Tour Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次半天体验，地点在Siem Reap。运营商将其概括为：在向导带领下骑行探索吴哥通王城古城。\n\nAngkor Thom was the last capital of the Khmer empire, laid out by Jayavarman VII around 1200 behind eight metres of wall and a moat, with five gates whose causeways are lined by gods and demons hauling on a serpent. At its centre is the Bayon, whose towers carry over 200 enormous serene faces, and whose outer galleries show not gods but ordinary Khmer life: markets, cockfights, a woman giving birth, the naval battle against the Chams. The Baphuon behind it was dismantled for restoration and rebuilt over decades after the records were lost in the war. The Terrace of the Elephants was the royal reviewing stand, 350 metres of parading elephants and garudas.\n\n价格包含嘟嘟车／空调车：从酒店前往市区自行车店、舒适自行车和头盔。不包含Angkor Pass：37美元/人，一日票（12岁以下儿童免费），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为149美元，5人为260美元，8人为349美元。页面显示的是您整个团队的总价，不是人均单价。\n\nHappy Angkor Tour Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "嘟嘟车／空调车：从酒店前往市区自行车店",
+   "舒适自行车",
+   "头盔"
+  ],
+  "notIncluded": [
+   "Angkor Pass：37美元/人，一日票（12岁以下儿童免费）"
+  ]
+ },
  "from-siem-reap-3-day-angkor-wat-sunrise-and": {
   "title": "暹粒出发：3日吴哥窟日出与马德望之旅",
   "metaTitle": "暹粒出发：3日吴哥窟日出与马德望之旅",
@@ -2246,6 +2477,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "grand-temples-tour-with-banteay-srei": {
+  "title": "大寺庙之旅，含女王宫",
+  "metaTitle": "大寺庙之旅，含女王宫",
+  "shortDescription": "Siem Reap半天游览，含Siem Reap Province。直接向SOUTHEAST ASIA JOURNEYS订位，而非通过分销商。",
+  "fullDescription": "一次半天行程，出发自Siem Reap，游览Siem Reap Province。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含游览吴哥寺庙群、游览Pre Rup寺庙和参观Banteay Srei寺庙。不包含餐食和纪念品购物，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人40美元，因此8人的团队总价为318美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nSOUTHEAST ASIA JOURNEYS负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "游览吴哥寺庙群",
+   "游览Pre Rup寺庙",
+   "参观Banteay Srei寺庙"
+  ],
+  "notIncluded": [
+   "餐食",
+   "纪念品购物"
+  ]
+ },
  "angkor-wat-sunrise-and-bayon-private-tour": {
   "title": "吴哥窟日出与巴戎寺私人游",
   "metaTitle": "吴哥窟日出与巴戎寺私人游",
@@ -2321,6 +2567,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "寺庙通票：每人37美元，涵盖所有寺庙（12岁以下儿童免费）"
   ]
  },
+ "preah-khan-ta-som-and-neak-pean-private-tour": {
+  "title": "Preah Khan、Ta Som及Neak Pean私人游",
+  "metaTitle": "Preah Khan、Ta Som及Neak Pean私人游",
+  "shortDescription": "Siem Reap半天游览，含Krong Siem Reap、Transfer和Preah Khan and Neak Pean。直接向Private Siem Reap Tour Guide & Transport订位，而非通过分销商。",
+  "fullDescription": "一次半天行程，出发自Siem Reap，游览Krong Siem Reap、Transfer和Preah Khan and Neak Pean。全程共有5个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含空调车私人接送、持证私人司机和持证专业向导。不包含寺庙门票和小费/打赏，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\nPrivate Siem Reap Tour Guide & Transport负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "空调车私人接送",
+   "持证私人司机",
+   "持证专业向导"
+  ],
+  "notIncluded": [
+   "寺庙门票",
+   "小费/打赏"
+  ]
+ },
  "siem-reap-shared-tours-angkor-wat-sunrise-bayon-ta": {
   "title": "暹粒拼团游：吴哥窟日出、巴戎寺、塔普伦寺",
   "metaTitle": "暹粒拼团游：吴哥窟日出、巴戎寺、塔普伦寺",
@@ -2361,6 +2622,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食",
    "吴哥寺庙通票",
    "贡伦山门票，每人20美元"
+  ]
+ },
+ "vip-day-tour-beng-mealea-temple-and-kampong-phluk": {
+  "title": "VIP一日游：崩密列寺庙及Kampong Phluk日落",
+  "metaTitle": "VIP一日游：崩密列寺庙及Kampong Phluk日落",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap和Beng Mealea and Kampong Phluk。直接向Siem Reap Tour Guide订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap和Beng Mealea and Kampong Phluk。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含酒店接送（暹粒地区）、私人空调车辆及专属司机和持证专业英语当地向导。不包含个人花费和小费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人390美元，因此7人的团队总价为2,730美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nSiem Reap Tour Guide负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送（暹粒地区）",
+   "私人空调车辆及专属司机",
+   "持证专业英语当地向导"
+  ],
+  "notIncluded": [
+   "个人花费和小费"
   ]
  },
  "angkor-wat-sunset-full-day-tour-include-lunch": {
@@ -2898,6 +3173,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "jungle-temples-and-hidden-heritage-jeep-tour": {
+  "title": "丛林寺庙及隐秘遗迹吉普车之旅",
+  "metaTitle": "丛林寺庙及隐秘遗迹吉普车之旅",
+  "shortDescription": "Siem Reap半天游览，含Krong Siem Reap、Preah Khan、Ta Nei Temple和Angkor and Srah Srang。直接向Cambodian Travel Partner订位，而非通过分销商。",
+  "fullDescription": "一次半天行程，出发自Siem Reap，游览Krong Siem Reap、Preah Khan、Ta Nei Temple和Angkor and Srah Srang。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含修复版敞篷吉普车乘坐体验、崩密列向导游览和向导带领步行前往Ta Nei丛林。不包含酒店接送和个人花费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\nCambodian Travel Partner负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "修复版敞篷吉普车乘坐体验",
+   "崩密列向导游览",
+   "向导带领步行前往Ta Nei丛林"
+  ],
+  "notIncluded": [
+   "酒店接送",
+   "个人花费"
+  ]
+ },
  "kulen-waterfall-join-in-tour": {
   "title": "贡伦山瀑布拼团游",
   "metaTitle": "贡伦山瀑布拼团游",
@@ -2942,6 +3232,20 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "个人花费",
    "小费"
+  ]
+ },
+ "private-beng-mealea-tour-the-lost-jungle-temple-ex": {
+  "title": "崩密列私人游：失落丛林寺庙体验",
+  "metaTitle": "崩密列私人游：失落丛林寺庙体验",
+  "shortDescription": "Siem Reap半天游览，含Krong Siem Reap and Beng Mealea。直接向BAYON GUIDES订位，而非通过分销商。",
+  "fullDescription": "一次半天行程，出发自Siem Reap，游览Krong Siem Reap and Beng Mealea。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含空调车交通、经验丰富的英语向导和车上矿泉水及冰凉毛巾。不包含崩密列门票10美元，或可使用吴哥寺庙门票（可使用同一张Ang，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人51美元，因此3人的团队总价为153美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nBAYON GUIDES负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "空调车交通",
+   "经验丰富的英语向导",
+   "车上矿泉水及冰凉毛巾"
+  ],
+  "notIncluded": [
+   "崩密列门票10美元，或可使用吴哥寺庙门票（可使用同一张Ang"
   ]
  },
  "a-small-sharing-tour-to-angkor-temples": {
@@ -3062,6 +3366,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "早餐、午餐和饮料"
   ]
  },
+ "phnom-kulen-beng-mealea-and-floating-village-tour": {
+  "title": "Phnom Kulen、崩密列及水上浮村之旅",
+  "metaTitle": "Phnom Kulen、崩密列及水上浮村之旅",
+  "shortDescription": "Siem Reap1天游览，含Krong Siem Reap、Phnom Kulen National Park和Poeng Ta Kho (Amazing Cliff) and Beng Mealea。直接向Happy Angkor Tour Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次1天行程，出发自Siem Reap，游览Krong Siem Reap、Phnom Kulen National Park和Poeng Ta Kho (Amazing Cliff) and Beng Mealea。全程共有6个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含持证专业当地向导（英语、西班牙语、法语、葡萄牙语或意大利语）、空调轿车或面包车接送（依人数而定）和酒店接送。不包含Phnom Kulen国家公园门票（20美元/人）和崩密列门票（10美元/人；有效的Angkor Pass亦可使用），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：2人为258美元，4人为338美元，所以人数越多，每人分摊的费用就越低。\n\nHappy Angkor Tour Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "持证专业当地向导（英语、西班牙语、法语、葡萄牙语或意大利语）",
+   "空调轿车或面包车接送（依人数而定）",
+   "酒店接送"
+  ],
+  "notIncluded": [
+   "Phnom Kulen国家公园门票（20美元/人）",
+   "崩密列门票（10美元/人；有效的Angkor Pass亦可使用）"
+  ]
+ },
  "full-day-tour-preah-vihea-and-koh-ker-temple": {
   "title": "柏威夏寺与Koh Ker寺庙全天之旅",
   "metaTitle": "柏威夏寺与Koh Ker寺庙全天之旅",
@@ -3087,6 +3406,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "1日吴哥通票，每人37美元",
    "午餐和软饮料"
+  ]
+ },
+ "adventure-to-boeng-mealea-and-koh-ker-temple-from": {
+  "title": "暹粒出发：崩密列及Koh Ker寺庙探险之旅",
+  "metaTitle": "暹粒出发：崩密列及Koh Ker寺庙探险之旅",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap和Beng Mealea and Koh Ker Temple。直接向Pitt Angkor Tour订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap和Beng Mealea and Koh Ker Temple。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含酒店接送、优质车辆接送和会英语的向导。不包含崩密列门票（需持吴哥窟门票）和Koh Ker门票（15美元），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为104美元，5人为319美元，8人为510美元。页面显示的是您整个团队的总价，不是人均单价。\n\nPitt Angkor Tour负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "优质车辆接送",
+   "会英语的向导"
+  ],
+  "notIncluded": [
+   "崩密列门票（需持吴哥窟门票）",
+   "Koh Ker门票（15美元）"
   ]
  },
  "angkor-wat-private-tuk-tuk-tour-from-siem-reap": {
@@ -3115,6 +3449,20 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "寺庙门票（每人37美元，涵盖本行程所有寺庙）"
+  ]
+ },
+ "private-beng-mealea-and-floating-village-tour-with": {
+  "title": "崩密列及水上浮村私人游，含日落",
+  "metaTitle": "崩密列及水上浮村私人游，含日落",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap、Preah Dak和Beng Mealea and Kampong Phluk。直接向ASEAN ANGKOR GUIDE订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap、Preah Dak和Beng Mealea and Kampong Phluk。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含酒店接送、空调轿车或小型货车接送和专业英语游览向导。不包含崩密列通票：每人10美元（有效的吴哥通票也可用于参观），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：2人为362美元，4人为650美元，6人为741美元。页面显示的是您整个团队的总价，不是人均单价。\n\nASEAN ANGKOR GUIDE负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "空调轿车或小型货车接送",
+   "专业英语游览向导"
+  ],
+  "notIncluded": [
+   "崩密列通票：每人10美元（有效的吴哥通票也可用于参观）"
   ]
  },
  "angkor-wat-sunrise-small-group-tour-and-breakfast": {
@@ -3450,6 +3798,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "吴哥1日通票，每人37美元"
   ]
  },
+ "banteay-srei-samre-and-beng-mealea-temple-tour": {
+  "title": "女王宫、Samre与崩密列寺庙之旅",
+  "metaTitle": "女王宫、Samre与崩密列寺庙之旅",
+  "shortDescription": "Siem Reap1天游览，含Krong Siem Reap、Banteay Samre和Banteay Srei and Beng Mealea。直接向Private Siem Reap Tour Guide & Transport订位，而非通过分销商。",
+  "fullDescription": "一次1天行程，出发自Siem Reap，游览Krong Siem Reap、Banteay Samre和Banteay Srei and Beng Mealea。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含会英语的游览向导、冰镇饮用水和接送服务。不包含寺庙通票、餐食和小费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为215美元，5人为325美元，8人为520美元。页面显示的是您整个团队的总价，不是人均单价。\n\nPrivate Siem Reap Tour Guide & Transport负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "会英语的游览向导",
+   "冰镇饮用水",
+   "接送服务"
+  ],
+  "notIncluded": [
+   "寺庙通票",
+   "餐食",
+   "小费"
+  ]
+ },
  "cambodian-coffee-experience": {
   "title": "柬埔寨咖啡体验",
   "metaTitle": "柬埔寨咖啡体验",
@@ -3526,6 +3890,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "寺庙及船票",
    "餐食",
    "个人花费"
+  ]
+ },
+ "4-hour-angkor-thom-city-guided-tour": {
+  "title": "4小时吴哥通王城向导游",
+  "metaTitle": "4小时吴哥通王城向导游",
+  "shortDescription": "Siem Reap半天游览，含Krong Siem Reap、Transfer和Tonle Om Gate (Southern Gate) and Bayon Temple。直接向Private Siem Reap Tour Guide & Transport订位，而非通过分销商。",
+  "fullDescription": "一次半天行程，出发自Siem Reap，游览Krong Siem Reap、Transfer和Tonle Om Gate (Southern Gate) and Bayon Temple。全程共有7个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\nAngkor Thom was the last capital of the Khmer empire, laid out by Jayavarman VII around 1200 behind eight metres of wall and a moat, with five gates whose causeways are lined by gods and demons hauling on a serpent. At its centre is the Bayon, whose towers carry over 200 enormous serene faces, and whose outer galleries show not gods but ordinary Khmer life: markets, cockfights, a woman giving birth, the naval battle against the Chams. The Baphuon behind it was dismantled for restoration and rebuilt over decades after the records were lost in the war. The Terrace of the Elephants was the royal reviewing stand, 350 metres of parading elephants and garudas.\n\n价格包含空调车私人接送、持证私人司机和持证专业向导。不包含寺庙门票和小费/打赏，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为146美元，5人为177美元，8人为212美元。页面显示的是您整个团队的总价，不是人均单价。\n\nPrivate Siem Reap Tour Guide & Transport负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "空调车私人接送",
+   "持证私人司机",
+   "持证专业向导"
+  ],
+  "notIncluded": [
+   "寺庙门票",
+   "小费/打赏"
   ]
  },
  "city-and-genocide-sites-by-tuk-tuk-or-carminivan": {
@@ -3865,6 +4244,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "午餐"
   ]
  },
+ "phnom-kulen-and-banteay-srei-day-trip-with-guide": {
+  "title": "Phnom Kulen与女王宫一日游，配向导",
+  "metaTitle": "Phnom Kulen与女王宫一日游，配向导",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap、Phnom Kulen National Park和Local restaurant and Banteay Srei。直接向Angkor Day Trip订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap、Phnom Kulen National Park和Local restaurant and Banteay Srei。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含专业向导、空调车接送和冷饮用水。不包含Kulen山门票（20美元/人）、寺庙门票（1日=37美元）和早餐、午餐及晚餐，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为260美元，5人为260美元，所以人数越多，每人分摊的费用就越低。\n\nAngkor Day Trip负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "专业向导",
+   "空调车接送",
+   "冷饮用水"
+  ],
+  "notIncluded": [
+   "Kulen山门票（20美元/人）",
+   "寺庙门票（1日=37美元）",
+   "早餐、午餐及晚餐"
+  ]
+ },
  "angkor-wat-sunrise-guided-tour-with-best-photos-sp": {
   "title": "吴哥窟日出导览游（绝佳拍照点）",
   "metaTitle": "吴哥窟日出导览游（绝佳拍照点）",
@@ -3881,6 +4276,38 @@ export const ZH_TOURS: Record<string, TourT> = {
    "1日寺庙通票，每人37美元"
   ]
  },
+ "half-day-grand-circuit-temples-sunset-guided-tour": {
+  "title": "半日吴哥大圈寺庙日落向导游",
+  "metaTitle": "半日吴哥大圈寺庙日落向导游",
+  "shortDescription": "Siem Reap半天游览，含会英语的司机、英语向导（如选择向导选项）和接送服务。直接向SOUTHEAST ASIA JOURNEYS订位，而非通过分销商。",
+  "fullDescription": "一次半天体验，地点在Siem Reap。运营商将其概括为：探索Preah Khan寺庙的迷宫及其巨大树根。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含会英语的司机、英语向导（如选择向导选项）和接送服务。不包含吴哥寺庙通票、午餐和个人花费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为117美元，4人为182美元，6人为273美元。页面显示的是您整个团队的总价，不是人均单价。\n\nSOUTHEAST ASIA JOURNEYS负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "会英语的司机",
+   "英语向导（如选择向导选项）",
+   "接送服务"
+  ],
+  "notIncluded": [
+   "吴哥寺庙通票",
+   "午餐",
+   "个人花费"
+  ]
+ },
+ "phnom-penh-temple-tour-and-chisor-mountain-vietnam": {
+  "title": "金边寺庙之旅及Chisor山，含越南接送",
+  "metaTitle": "金边寺庙之旅及Chisor山，含越南接送",
+  "shortDescription": "Phnom Penh全天游览，含金边酒店接送、游览Ta Prohm Bati和游览Phnom Chisor。直接向Tola Angkor Guide订位，而非通过分销商。",
+  "fullDescription": "一次全天体验，地点在Phnom Penh。运营商将其概括为：探索Ta Prohm Bati及Phnom Chisor古寺庙。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含金边酒店接送、游览Ta Prohm Bati和游览Phnom Chisor。不包含午餐费用、越南签证和小费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为519美元，4人为931美元，7人为1,629美元。页面显示的是您整个团队的总价，不是人均单价。\n\nTola Angkor Guide负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "金边酒店接送",
+   "游览Ta Prohm Bati",
+   "游览Phnom Chisor"
+  ],
+  "notIncluded": [
+   "午餐费用",
+   "越南签证",
+   "小费"
+  ]
+ },
  "angkor-wat-for-three-days-tour": {
   "title": "吴哥窟三日之旅",
   "metaTitle": "吴哥窟三日之旅",
@@ -3895,6 +4322,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食和饮品",
    "个人花费",
    "小费"
+  ]
+ },
+ "explore-some-hidden-gems-of-temples-with-sunset": {
+  "title": "探索隐秘寺庙精华，含日落",
+  "metaTitle": "探索隐秘寺庙精华，含日落",
+  "shortDescription": "Siem Reap1天游览，含Krong Siem Reap、Srah Srang和Banteay Kdei and Ta Keo Temple。直接向Happy Angkor Tour Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次1天行程，出发自Siem Reap，游览Krong Siem Reap、Srah Srang和Banteay Kdei and Ta Keo Temple。全程共有6个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含空调车私人接送、持证私人司机和持证专业向导。不包含餐食（午餐）、寺庙门票和小费/打赏，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为170美元，5人为170美元，8人为341美元。页面显示的是您整个团队的总价，不是人均单价。\n\nHappy Angkor Tour Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "空调车私人接送",
+   "持证私人司机",
+   "持证专业向导"
+  ],
+  "notIncluded": [
+   "餐食（午餐）",
+   "寺庙门票",
+   "小费/打赏"
   ]
  },
  "udong-hill-long-vek-and-phnom-reap-day-tour": {
@@ -4089,6 +4532,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "phnom-penh-temple-day-trip-with-mekong-sunset-crui": {
+  "title": "金边寺庙一日游，含湄公河日落游船",
+  "metaTitle": "金边寺庙一日游，含湄公河日落游船",
+  "shortDescription": "Phnom Penh全天游览，含舒适私家车及专业司机、金边酒店接送和所有汽油费、过路费及停车费。直接向Tola Angkor Guide订位，而非通过分销商。",
+  "fullDescription": "一次全天体验，地点在Phnom Penh。运营商将其概括为：探索被树木环绕的Ta Prohm Bati古寺庙。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含舒适私家车及专业司机、金边酒店接送和所有汽油费、过路费及停车费。不包含餐食和饮品和当地餐厅午餐（可自选，费用自理，让您自由安排，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为168美元，4人为390美元，7人为682美元。页面显示的是您整个团队的总价，不是人均单价。\n\nTola Angkor Guide负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "舒适私家车及专业司机",
+   "金边酒店接送",
+   "所有汽油费、过路费及停车费"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "当地餐厅午餐（可自选，费用自理，让您自由安排"
+  ]
+ },
  "angkor-wat-and-big-circuit-temples-private-tour": {
   "title": "吴哥窟与大圈寺庙私人之旅",
   "metaTitle": "吴哥窟与大圈寺庙私人之旅",
@@ -4117,6 +4575,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "餐食为个人自费"
+  ]
+ },
+ "full-day-preah-khan-kampong-svay-and-spean-praptos": {
+  "title": "全天游：Preah Khan Kampong Svay及Spean Praptos",
+  "metaTitle": "全天游：Preah Khan Kampong Svay及Spean Praptos",
+  "shortDescription": "Siem Reap全天游览，含会英语的游览向导、空调车及司机和冷饮用水。直接向Asia Voyage Travel & Tour订位，而非通过分销商。",
+  "fullDescription": "一次全天体验，地点在Siem Reap。运营商将其概括为：游览Preah Khan Kampong Svay（又称Bakan Svay Rolay）。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含会英语的游览向导、空调车及司机和冷饮用水。不包含门票费和餐食，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为169美元，6人为338美元，8人为338美元。页面显示的是您整个团队的总价，不是人均单价。\n\nAsia Voyage Travel & Tour负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "会英语的游览向导",
+   "空调车及司机",
+   "冷饮用水"
+  ],
+  "notIncluded": [
+   "门票费",
+   "餐食"
   ]
  },
  "one-day-small-circuit-tour-angkor-wat-bayon-ta": {
@@ -4194,6 +4667,35 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食和饮品"
   ]
  },
+ "phnom-kulen-beng-mealea-and-roluos-day-trip": {
+  "title": "Phnom Kulen、崩密列及Roluos一日游",
+  "metaTitle": "Phnom Kulen、崩密列及Roluos一日游",
+  "shortDescription": "Siem Reap全天游览，含暹粒酒店接送、私人空调车辆和专业英语当地司机。直接向Golden Escape Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次全天体验，地点在Siem Reap。运营商将其概括为：探索神圣的Phnom Kulen山及拥有1,000尊林伽雕刻的古河流。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含暹粒酒店接送、私人空调车辆和专业英语当地司机。不包含贡伦山国家公园门票和崩密列及Roluos群寺同用Angkor Pass，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为155美元，8人为194美元，所以人数越多，每人分摊的费用就越低。\n\nGolden Escape Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "暹粒酒店接送",
+   "私人空调车辆",
+   "专业英语当地司机"
+  ],
+  "notIncluded": [
+   "贡伦山国家公园门票",
+   "崩密列及Roluos群寺同用Angkor Pass"
+  ]
+ },
+ "preah-khan-kompong-svay-and-spean-praptos-private-": {
+  "title": "Preah Khan Kompong Svay及Spean Praptos私人游",
+  "metaTitle": "Preah Khan Kompong Svay及Spean Praptos私人游",
+  "shortDescription": "Siem Reap1天游览，含酒店接送、英语现场导游和空调车辆：轿车／面包车。直接向Happy Angkor Tour Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次1天体验，地点在Siem Reap。运营商将其概括为：在向导带领下探索Preah Khan Kompong Svay古寺庙群。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含酒店接送、英语现场导游和空调车辆：轿车／面包车。不包含Preah Khan Kampong Svay门票：5美元/人，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为410美元，8人为447美元，所以人数越多，每人分摊的费用就越低。\n\nHappy Angkor Tour Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "英语现场导游",
+   "空调车辆：轿车／面包车"
+  ],
+  "notIncluded": [
+   "Preah Khan Kampong Svay门票：5美元/人"
+  ]
+ },
  "countryside-bike-tour-lotus-farms-and-local-life": {
   "title": "乡村自行车游、莲花田及当地生活",
   "metaTitle": "乡村自行车游、莲花田及当地生活",
@@ -4207,6 +4709,20 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "饮料及个人消费",
    "向导小费"
+  ]
+ },
+ "angkor-park-jungle-biking-adventure-private-tour": {
+  "title": "吴哥公园丛林骑行探险私人游",
+  "metaTitle": "吴哥公园丛林骑行探险私人游",
+  "shortDescription": "Siem Reap半天游览，含嘟嘟车／空调车：从酒店前往市区自行车店、舒适自行车和头盔。直接向Happy Angkor Tour Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次半天体验，地点在Siem Reap。运营商将其概括为：在向导带领下骑行穿越吴哥公园丛林。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含嘟嘟车／空调车：从酒店前往市区自行车店、舒适自行车和头盔。不包含Angkor Pass：37美元/人，一日票（12岁以下儿童免费），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为149美元，5人为224美元，8人为286美元。页面显示的是您整个团队的总价，不是人均单价。\n\nHappy Angkor Tour Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "嘟嘟车／空调车：从酒店前往市区自行车店",
+   "舒适自行车",
+   "头盔"
+  ],
+  "notIncluded": [
+   "Angkor Pass：37美元/人，一日票（12岁以下儿童免费）"
   ]
  },
  "phnom-krom-sunset-picnic-with-vintage-land-rover": {
@@ -4350,6 +4866,37 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "banteay-srei-kulen-waterfall-beng-melea-temple": {
+  "title": "女王宫、Kulen瀑布与崩密列寺庙游",
+  "metaTitle": "女王宫、Kulen瀑布与崩密列寺庙游",
+  "shortDescription": "Siem Reap半天游览，含Krong Siem Reap、Banteay Srei和Phnom Kulen National Park and Prasat Beng Mealea。直接向Angkor Daily Trip订位，而非通过分销商。",
+  "fullDescription": "一次半天行程，出发自Siem Reap，游览Krong Siem Reap、Banteay Srei和Phnom Kulen National Park and Prasat Beng Mealea。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含会英语的游览向导、汽车交通和酒店接送。不包含寺庙门票和Kulen瀑布门票，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人110美元，因此8人的团队总价为884美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nAngkor Daily Trip负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "会英语的游览向导",
+   "汽车交通",
+   "酒店接送"
+  ],
+  "notIncluded": [
+   "寺庙门票",
+   "Kulen瀑布门票"
+  ]
+ },
+ "angkor-travel-photography-with-storytelling": {
+  "title": "吴哥旅拍摄影之旅，配故事讲解",
+  "metaTitle": "吴哥旅拍摄影之旅，配故事讲解",
+  "shortDescription": "Siem Reap全天游览，含Angkor Wat、Tonle Om Gate (Southern Gate)、Bayon Temple and Ta Prohm Temple和Angkor Wat。直接向Cambodian Travel Immersion订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Angkor Wat、Tonle Om Gate (Southern Gate)、Bayon Temple and Ta Prohm Temple和Angkor Wat。全程共有5个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\nAngkor Thom was the last capital of the Khmer empire, laid out by Jayavarman VII around 1200 behind eight metres of wall and a moat, with five gates whose causeways are lined by gods and demons hauling on a serpent. At its centre is the Bayon, whose towers carry over 200 enormous serene faces, and whose outer galleries show not gods but ordinary Khmer life: markets, cockfights, a woman giving birth, the naval battle against the Chams. The Baphuon behind it was dismantled for restoration and rebuilt over decades after the records were lost in the war. The Terrace of the Elephants was the royal reviewing stand, 350 metres of parading elephants and garudas.\n\n价格包含舒适的交通工具、摄影向导（故事讲解）和吴哥、塔普伦寺、胜利门及巴戎寺摄影场次。不包含早餐、旅行保险和其他费用，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为234美元，3人为370美元，5人为455美元。页面显示的是您整个团队的总价，不是人均单价。\n\nCambodian Travel Immersion负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "舒适的交通工具",
+   "摄影向导（故事讲解）",
+   "吴哥、塔普伦寺、胜利门及巴戎寺摄影场次"
+  ],
+  "notIncluded": [
+   "早餐",
+   "旅行保险",
+   "其他费用"
+  ]
+ },
  "kulen-mountain-waterfall-small-group-tour": {
   "title": "库伦山瀑布小团之旅",
   "metaTitle": "库伦山瀑布小团之旅",
@@ -4362,6 +4909,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "餐食"
+  ]
+ },
+ "hop-off-tour-to-ancient-temple-of-angkor-thom": {
+  "title": "吴哥通王城古寺随停之旅",
+  "metaTitle": "吴哥通王城古寺随停之旅",
+  "shortDescription": "Siem Reap半天游览，含会英语的向导、嘟嘟车及司机和瓶装水及冰毛巾。直接向Private Siem Reap Tour Guide & Transport订位，而非通过分销商。",
+  "fullDescription": "一次半天体验，地点在Siem Reap。运营商将其概括为：游览巨大的Preah Khan寺庙，树木从塔楼间生长而出。\n\nAngkor Thom was the last capital of the Khmer empire, laid out by Jayavarman VII around 1200 behind eight metres of wall and a moat, with five gates whose causeways are lined by gods and demons hauling on a serpent. At its centre is the Bayon, whose towers carry over 200 enormous serene faces, and whose outer galleries show not gods but ordinary Khmer life: markets, cockfights, a woman giving birth, the naval battle against the Chams. The Baphuon behind it was dismantled for restoration and rebuilt over decades after the records were lost in the war. The Terrace of the Elephants was the royal reviewing stand, 350 metres of parading elephants and garudas.\n\n价格包含会英语的向导、嘟嘟车及司机和瓶装水及冰毛巾。不包含吴哥寺庙通票和餐饮及其他费用，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人52美元，因此5人的团队总价为260美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nPrivate Siem Reap Tour Guide & Transport负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "会英语的向导",
+   "嘟嘟车及司机",
+   "瓶装水及冰毛巾"
+  ],
+  "notIncluded": [
+   "吴哥寺庙通票",
+   "餐饮及其他费用"
   ]
  },
  "mechrey-floating-village-kayak-tour-and-pickup": {
@@ -4443,6 +5005,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费和小费"
   ]
  },
+ "banteay-srei-lady-temple-and-grand-circuit-tour": {
+  "title": "女王宫与吴哥大圈之旅",
+  "metaTitle": "女王宫与吴哥大圈之旅",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap、Preah Khan、Neak Pean and Ta Som Temple和Siem Reap。直接向Siem Reap Shuttle订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap、Preah Khan、Neak Pean and Ta Som Temple和Siem Reap。全程共有6个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含会英语的当地向导、舒爽精致嘟嘟车和酒店接送。不包含吴哥寺庙通票、个人花费和小费（可自愿），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为127美元，5人为195美元，8人为312美元。页面显示的是您整个团队的总价，不是人均单价。\n\nSiem Reap Shuttle负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "会英语的当地向导",
+   "舒爽精致嘟嘟车",
+   "酒店接送"
+  ],
+  "notIncluded": [
+   "吴哥寺庙通票",
+   "个人花费",
+   "小费（可自愿）"
+  ]
+ },
  "full-day-angkor-sunrise-private-tour-and-floating-": {
   "title": "全天吴哥日出私人游及浮村",
   "metaTitle": "全天吴哥日出私人游及浮村",
@@ -4457,6 +5035,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "饮品/啤酒",
    "食物",
    "寺庙门票"
+  ]
+ },
+ "the-jungle-temple-tour-by-vintage-jeep": {
+  "title": "复古吉普车丛林寺庙之旅",
+  "metaTitle": "复古吉普车丛林寺庙之旅",
+  "shortDescription": "Siem Reap半天游览，含吴哥通票、复古吉普车及经验丰富的司机和会英语的向导。直接向Cambodian Travel Partner订位，而非通过分销商。",
+  "fullDescription": "一次半天体验，地点在Siem Reap。运营商将其概括为：越野丛林寺庙探索之旅。\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\n价格包含吴哥通票、复古吉普车及经验丰富的司机和会英语的向导。不包含司机及向导小费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为325美元，5人为767美元，8人为1,227美元。页面显示的是您整个团队的总价，不是人均单价。\n\nCambodian Travel Partner负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "吴哥通票",
+   "复古吉普车及经验丰富的司机",
+   "会英语的向导"
+  ],
+  "notIncluded": [
+   "司机及向导小费"
   ]
  },
  "angkor-silk-farm-and-mechrey-floating-village-tour": {
@@ -6487,6 +7079,19 @@ export const ZH_TOURS: Record<string, TourT> = {
    "旅行保险",
    "午餐",
    "小费"
+  ]
+ },
+ "small-group-angkor-wat-sunrise-tour-with-guide-sie": {
+  "title": "吴哥窟日出小团之旅，配向导",
+  "metaTitle": "吴哥窟日出小团之旅，配向导",
+  "shortDescription": "Siem Reap7小时游览，含Angkor Wat和Angkor Thom and Bayon Temple。直接向Angkor Pro Travel订位，而非通过分销商。",
+  "fullDescription": "这是一次7小时体验，出发自Siem Reap，围绕Angkor Wat和Angkor Thom and Bayon Temple展开。该体验由Angkor Pro Travel负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n日出时分的吴哥窟，游客会在北侧倒影池边观赏，五座塔楼先在天空下显出黑色轮廓，随后又在水面上映出一次倒影。售票处04:30开门，吴哥窟从05:00开始放人进入，这就是游览团大约04:30从暹粒出发、车程约二十分钟的原因；天空在太阳越过塔顶之前就已经开始变色，所以等到天刚亮才到，已经错过了最精彩的一刻。十一月到三月的旱季天空最干净，而雨季带来的云层有时会毁掉日出，有时反而让日出更美。池边很早就会站满人，南侧的池子通常更安静，一位知道该站哪一侧的向导，往往决定了你拍到的是一张好照片，还是一墙举起的手机。\n\nGroup departures depend on the operator. A small group needs enough guests on the day, and occasionally it does not form on a given date. If that happens, we will tell you as early as we can, and you can choose a private tour at the private rate or a refund.\n\n价格包含酒店接送（4:20至5:10之间）。不包含吴哥窟门票（1日：37美元）和餐饮费用自理，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "酒店接送（4:20至5:10之间）"
+  ],
+  "notIncluded": [
+   "吴哥窟门票（1日：37美元）",
+   "餐饮费用自理"
   ]
  },
  "phnom-penh-haft-day-tour-to-silk-island-by": {
@@ -36574,6 +37179,25 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "无隐藏费用"
+  ]
+ },
+ "kandy-gem-museumjewelry-making-workshop-tour": {
+  "title": "康提：宝石博物馆及珠宝制作工坊之旅，含接送",
+  "metaTitle": "康提：宝石博物馆及珠宝制作工坊之旅，含接送",
+  "metaDescription": "一次半天的Kandy体验。由Kandy Travel With Sana提供。",
+  "shortDescription": "一次半天的Kandy体验。由Kandy Travel With Sana提供。",
+  "fullDescription": "一次半天的Kandy体验。\n\n由Kandy Travel With Sana负责安排，价格中含12项内容。可免费取消。\n\n价格包含酒店接送：从您的酒店或康提市7公里范围内接送、指导：工匠师傅协助、瓶装水／茶水、设备：提供工具。不包含午餐，请另行预算。两位旅客共同支付19美元，而不是每人各付19美元，因为价格按团而非按人计算。",
+  "highlights": [
+   "一次半天的Kandy体验。由Kandy Travel With Sana提供。"
+  ],
+  "included": [
+   "酒店接送：从您的酒店或康提市7公里范围内接送",
+   "指导：工匠师傅协助",
+   "瓶装水／茶水",
+   "设备：提供工具"
+  ],
+  "notIncluded": [
+   "午餐"
   ]
  },
  "kandy-to-nanu-oya-transfer-and-900-am-ella": {
@@ -70069,6 +70693,25 @@ export const ZH_TOURS: Record<string, TourT> = {
    "司机/导游小费",
    "行程以外的餐饮",
    "个人消费或购物"
+  ]
+ },
+ "colombo-city-tour-with-tuk-tuk-ride-and-guide": {
+  "title": "科伦坡：嘟嘟车城市游览及导游讲解",
+  "metaTitle": "科伦坡：嘟嘟车城市游览及导游讲解",
+  "metaDescription": "一次全天的Colombo体验。由Manu Lanka Tours Pvt Ltd提供。",
+  "shortDescription": "一次全天的Colombo体验。由Manu Lanka Tours Pvt Ltd提供。",
+  "fullDescription": "一次全天的Colombo体验。\n\n由Manu Lanka Tours Pvt Ltd负责安排，价格中含5项内容。可免费取消。\n\n价格包含含所有门票、空调车辆接送（轿车/面包车/巴士）、嘟嘟车体验、瓶装水。不包含餐饮，请另行预算。",
+  "highlights": [
+   "一次全天的Colombo体验。由Manu Lanka Tours Pvt Ltd提供。"
+  ],
+  "included": [
+   "含所有门票",
+   "空调车辆接送（轿车/面包车/巴士）",
+   "嘟嘟车体验",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "餐饮"
   ]
  },
  "sri-lanka-15-days-private-grand-tour-with-3": {
