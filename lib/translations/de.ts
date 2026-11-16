@@ -13779,6 +13779,22 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeit und Erfrischungsgetraenke"
   ]
  },
+ "hidden-temple-cycling-adventure-in-siem-reap-angko": {
+  "title": "Fahrradabenteuer zu versteckten Tempeln in Siem Reap Angkor",
+  "metaTitle": "Fahrradabenteuer zu versteckten Tempeln in Siem Reap Angkor",
+  "shortDescription": "Halbtaegige Tour in Siem Reap, mit Depends on the selected option, Prasat Chrung Southeast und Khmoch Gate (Gate of the Dead) and French Dam / ទំនប់ទឹកបារាំង. Direkt gebucht bei SOUTHEAST ASIA JOURNEYS, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Eine halbtaegige Tour ab Siem Reap, die Depends on the selected option, Prasat Chrung Southeast und Khmoch Gate (Gate of the Dead) and French Dam / ទំនប់ទឹកបារាំង besucht. Es gibt insgesamt 7 Stopps, sodass der Tag gut ausgefuellt ist, statt lange Luecken zwischen zwei oder drei Hoehepunkten zu lassen.\n\nAngkor Thom was the last capital of the Khmer empire, laid out by Jayavarman VII around 1200 behind eight metres of wall and a moat, with five gates whose causeways are lined by gods and demons hauling on a serpent. At its centre is the Bayon, whose towers carry over 200 enormous serene faces, and whose outer galleries show not gods but ordinary Khmer life: markets, cockfights, a woman giving birth, the naval battle against the Chams. The Baphuon behind it was dismantled for restoration and rebuilt over decades after the records were lost in the war. The Terrace of the Elephants was the royal reviewing stand, 350 metres of parading elephants and garudas.\n\nIm Preis enthalten sind professioneller englischsprachiger Reisefuehrer, Abholung und Rueckfahrt zum Hotel und privates klimatisiertes Fahrzeug mit Fahrer. Nicht enthalten sind persoenliche Ausgaben und Trinkgelder, Reiseversicherung und Mahlzeiten und Getraenke, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDer Preis steigt mit der Gruppengroesse, statt sich zu multiplizieren: 1 Reisender kostet 156 $, 5 kosten 234 $ und 8 kosten 302 $. Der angegebene Preis ist der Gesamtpreis fuer Ihre Gruppe, kein Preis pro Kopf.\n\nSOUTHEAST ASIA JOURNEYS fuehrt es durch. Wir buchen direkt mit ihnen, sodass der Guide, der Sie trifft, fuer den Anbieter arbeitet und nicht fuer einen Wiederverkaeufer.",
+  "included": [
+   "professioneller englischsprachiger Reisefuehrer",
+   "Abholung und Rueckfahrt zum Hotel",
+   "privates klimatisiertes Fahrzeug mit Fahrer"
+  ],
+  "notIncluded": [
+   "persoenliche Ausgaben und Trinkgelder",
+   "Reiseversicherung",
+   "Mahlzeiten und Getraenke"
+  ]
+ },
  "battambang-day-trip-with-bamboo-train-ride": {
   "title": "Tagesausflug nach Battambang mit Bambuszug-Fahrt",
   "metaTitle": "Tagesausflug nach Battambang mit Bambuszug-Fahrt",
@@ -16854,6 +16870,21 @@ export const DE_TOURS: Record<string, TourT> = {
    "Reiseversicherung"
   ],
   "notIncluded": []
+ },
+ "4-hour-ta-prohm-and-banteay-kdei-guided-tour": {
+  "title": "4-stuendige gefuehrte Tour: Ta Prohm und Banteay Kdei",
+  "metaTitle": "4-stuendige gefuehrte Tour: Ta Prohm und Banteay Kdei",
+  "shortDescription": "Halbtaegige Tour in Siem Reap, mit Krong Siem Reap, Transfer und Srah Srang and Ta Prohm Temple. Direkt gebucht bei Private Siem Reap Tour Guide & Transport, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Eine halbtaegige Tour ab Siem Reap, die Krong Siem Reap, Transfer und Srah Srang and Ta Prohm Temple besucht.\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\nIm Preis enthalten sind privater Transport in einem klimatisierten Fahrzeug, lizenzierter Privatfahrer und professioneller lizenzierter Guide. Nicht enthalten sind Tempel-Eintrittskarte und Trinkgelder, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDieser Preis gilt fuer die Gruppe statt pro Kopf: 1 Reisender kostet 146 $ und 8 kosten 177 $, je mehr Sie also sind, desto weniger zahlt jeder Einzelne.\n\nPrivate Siem Reap Tour Guide & Transport fuehrt es durch. Wir buchen direkt mit ihnen, sodass der Guide, der Sie trifft, fuer den Anbieter arbeitet und nicht fuer einen Wiederverkaeufer.",
+  "included": [
+   "privater Transport in einem klimatisierten Fahrzeug",
+   "lizenzierter Privatfahrer",
+   "professioneller lizenzierter Guide"
+  ],
+  "notIncluded": [
+   "Tempel-Eintrittskarte",
+   "Trinkgelder"
+  ]
  },
  "private-transfer-phnom-penh-kampot-plus-road-sighs": {
   "title": "Privater Transfer Phnom Penh - Kampot mit Sightseeing unterwegs",
@@ -20091,6 +20122,21 @@ export const DE_TOURS: Record<string, TourT> = {
    "Tickets fuer Beng Mealea"
   ]
  },
+ "preah-khan-ta-som-and-neak-pean-private-tour": {
+  "title": "Private Tour zu Preah Khan, Ta Som und Neak Pean",
+  "metaTitle": "Private Tour zu Preah Khan, Ta Som und Neak Pean",
+  "shortDescription": "Halbtaegige Tour in Siem Reap, mit Krong Siem Reap, Transfer und Preah Khan and Neak Pean. Direkt gebucht bei Private Siem Reap Tour Guide & Transport, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Eine halbtaegige Tour ab Siem Reap, die Krong Siem Reap, Transfer und Preah Khan and Neak Pean besucht. Es gibt insgesamt 5 Stopps, sodass der Tag gut ausgefuellt ist, statt lange Luecken zwischen zwei oder drei Hoehepunkten zu lassen.\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\nIm Preis enthalten sind privater Transport in einem klimatisierten Fahrzeug, lizenzierter Privatfahrer und professioneller lizenzierter Guide. Nicht enthalten sind Tempel-Eintrittskarte und Trinkgelder, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPrivate Siem Reap Tour Guide & Transport fuehrt es durch. Wir buchen direkt mit ihnen, sodass der Guide, der Sie trifft, fuer den Anbieter arbeitet und nicht fuer einen Wiederverkaeufer.",
+  "included": [
+   "privater Transport in einem klimatisierten Fahrzeug",
+   "lizenzierter Privatfahrer",
+   "professioneller lizenzierter Guide"
+  ],
+  "notIncluded": [
+   "Tempel-Eintrittskarte",
+   "Trinkgelder"
+  ]
+ },
  "siem-reap-international-airport-transfer-sia": {
   "title": "Transfer zum internationalen Flughafen Siem Reap (SIA)",
   "metaTitle": "Transfer zum internationalen Flughafen Siem Reap (SIA)",
@@ -23049,6 +23095,22 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld fuer Reisefuehrer und Fahrer"
   ]
  },
+ "banteay-srei-samre-and-beng-mealea-temple-tour": {
+  "title": "Tour zu den Tempeln Banteay Srei, Samre und Beng Mealea",
+  "metaTitle": "Tour zu den Tempeln Banteay Srei, Samre und Beng Mealea",
+  "shortDescription": "1-taegige Tour in Siem Reap, mit Krong Siem Reap, Banteay Samre und Banteay Srei and Beng Mealea. Direkt gebucht bei Private Siem Reap Tour Guide & Transport, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Eine Tour von 1 Tag ab Siem Reap, die Krong Siem Reap, Banteay Samre und Banteay Srei and Beng Mealea besucht.\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\nIm Preis enthalten sind englischsprachiger Reisefuehrer, kaltes Trinkwasser und Abholung und Rueckfahrt. Nicht enthalten sind Tempel-Pass, Mahlzeiten und Trinkgelder, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDer Preis steigt mit der Gruppengroesse, statt sich zu multiplizieren: 1 Reisender kostet 215 $, 5 kosten 325 $ und 8 kosten 520 $. Der angegebene Preis ist der Gesamtpreis fuer Ihre Gruppe, kein Preis pro Kopf.\n\nPrivate Siem Reap Tour Guide & Transport fuehrt es durch. Wir buchen direkt mit ihnen, sodass der Guide, der Sie trifft, fuer den Anbieter arbeitet und nicht fuer einen Wiederverkaeufer.",
+  "included": [
+   "englischsprachiger Reisefuehrer",
+   "kaltes Trinkwasser",
+   "Abholung und Rueckfahrt"
+  ],
+  "notIncluded": [
+   "Tempel-Pass",
+   "Mahlzeiten",
+   "Trinkgelder"
+  ]
+ },
  "top-3-sites-royal-palace-killing-fields-and-s": {
   "title": "Top 3 Sehenswuerdigkeiten: Koenigspalast, Killing Fields und S-21-Gefaengnis",
   "metaTitle": "Top 3 Sehenswuerdigkeiten: Koenigspalast, Killing Fields und",
@@ -23322,6 +23384,21 @@ export const DE_TOURS: Record<string, TourT> = {
    "Tempel- und Bootstickets",
    "Mahlzeiten",
    "persoenliche Ausgaben"
+  ]
+ },
+ "4-hour-angkor-thom-city-guided-tour": {
+  "title": "4-stuendige gefuehrte Tour durch die Stadt Angkor Thom",
+  "metaTitle": "4-stuendige gefuehrte Tour durch die Stadt Angkor Thom",
+  "shortDescription": "Halbtaegige Tour in Siem Reap, mit Krong Siem Reap, Transfer und Tonle Om Gate (Southern Gate) and Bayon Temple. Direkt gebucht bei Private Siem Reap Tour Guide & Transport, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Eine halbtaegige Tour ab Siem Reap, die Krong Siem Reap, Transfer und Tonle Om Gate (Southern Gate) and Bayon Temple besucht. Es gibt insgesamt 7 Stopps, sodass der Tag gut ausgefuellt ist, statt lange Luecken zwischen zwei oder drei Hoehepunkten zu lassen.\n\nAngkor Thom was the last capital of the Khmer empire, laid out by Jayavarman VII around 1200 behind eight metres of wall and a moat, with five gates whose causeways are lined by gods and demons hauling on a serpent. At its centre is the Bayon, whose towers carry over 200 enormous serene faces, and whose outer galleries show not gods but ordinary Khmer life: markets, cockfights, a woman giving birth, the naval battle against the Chams. The Baphuon behind it was dismantled for restoration and rebuilt over decades after the records were lost in the war. The Terrace of the Elephants was the royal reviewing stand, 350 metres of parading elephants and garudas.\n\nIm Preis enthalten sind privater Transport in einem klimatisierten Fahrzeug, lizenzierter Privatfahrer und professioneller lizenzierter Guide. Nicht enthalten sind Tempel-Eintrittskarte und Trinkgelder, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDer Preis steigt mit der Gruppengroesse, statt sich zu multiplizieren: 1 Reisender kostet 146 $, 5 kosten 177 $ und 8 kosten 212 $. Der angegebene Preis ist der Gesamtpreis fuer Ihre Gruppe, kein Preis pro Kopf.\n\nPrivate Siem Reap Tour Guide & Transport fuehrt es durch. Wir buchen direkt mit ihnen, sodass der Guide, der Sie trifft, fuer den Anbieter arbeitet und nicht fuer einen Wiederverkaeufer.",
+  "included": [
+   "privater Transport in einem klimatisierten Fahrzeug",
+   "lizenzierter Privatfahrer",
+   "professioneller lizenzierter Guide"
+  ],
+  "notIncluded": [
+   "Tempel-Eintrittskarte",
+   "Trinkgelder"
   ]
  },
  "city-and-genocide-sites-by-tuk-tuk-or-carminivan": {
@@ -24247,6 +24324,22 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Getraenke und Softdrinks",
    "Hoteltransfer"
+  ]
+ },
+ "explore-some-hidden-gems-of-temples-with-sunset": {
+  "title": "Entdeckung versteckter Tempel-Juwelen bei Sonnenuntergang",
+  "metaTitle": "Entdeckung versteckter Tempel-Juwelen bei Sonnenuntergang",
+  "shortDescription": "1-taegige Tour in Siem Reap, mit Krong Siem Reap, Srah Srang und Banteay Kdei and Ta Keo Temple. Direkt gebucht bei Happy Angkor Tour Cambodia, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Eine Tour von 1 Tag ab Siem Reap, die Krong Siem Reap, Srah Srang und Banteay Kdei and Ta Keo Temple besucht. Es gibt insgesamt 6 Stopps, sodass der Tag gut ausgefuellt ist, statt lange Luecken zwischen zwei oder drei Hoehepunkten zu lassen.\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\nIm Preis enthalten sind privater Transport in einem klimatisierten Fahrzeug, lizenzierter Privatfahrer und professioneller lizenzierter Guide. Nicht enthalten sind Mahlzeiten (Mittagessen), Tempel-Eintrittskarte und Trinkgelder, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDer Preis steigt mit der Gruppengroesse, statt sich zu multiplizieren: 1 Reisender kostet 170 $, 5 kosten 170 $ und 8 kosten 341 $. Der angegebene Preis ist der Gesamtpreis fuer Ihre Gruppe, kein Preis pro Kopf.\n\nHappy Angkor Tour Cambodia fuehrt es durch. Wir buchen direkt mit ihnen, sodass der Guide, der Sie trifft, fuer den Anbieter arbeitet und nicht fuer einen Wiederverkaeufer.",
+  "included": [
+   "privater Transport in einem klimatisierten Fahrzeug",
+   "lizenzierter Privatfahrer",
+   "professioneller lizenzierter Guide"
+  ],
+  "notIncluded": [
+   "Mahlzeiten (Mittagessen)",
+   "Tempel-Eintrittskarte",
+   "Trinkgelder"
   ]
  },
  "kompong-phluk-floating-village-guided-tour": {
@@ -31639,6 +31732,19 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Getraenke zum Kauf erhaeltlich"
+  ]
+ },
+ "small-group-angkor-wat-sunrise-tour-with-guide-sie": {
+  "title": "Kleingruppen-Angkor-Wat-Sonnenaufgangstour mit Guide",
+  "metaTitle": "Kleingruppen-Angkor-Wat-Sonnenaufgangstour mit Guide",
+  "shortDescription": "7-stuendige Tour in Siem Reap, mit Angkor Wat und Angkor Thom and Bayon Temple. Direkt gebucht bei Angkor Pro Travel, statt ueber einen Wiederverkaeufer.",
+  "fullDescription": "Dies ist ein 7-stuendiges Erlebnis ab Siem Reap, rund um Angkor Wat und Angkor Thom and Bayon Temple. Es wird von Angkor Pro Travel durchgefuehrt, einem Anbieter, bei dem wir direkt buchen statt ueber einen Wiederverkaeufer, weshalb wir Ihren Platz reservieren koennen, bevor wir Ihre Buchung als endgueltig behandeln.\n\nDer Sonnenaufgang bei Angkor Wat wird vom Rand des noerdlichen Spiegelteichs aus beobachtet, wo die fuenf Tuerme schwarz gegen den Himmel aufsteigen und sich dann im Wasser verdoppeln. Die Kasse oeffnet um 04:30 Uhr und Angkor Wat laesst Besucher ab 05:00 Uhr ein, deshalb starten Touren gegen 04:30 Uhr in Siem Reap fuer eine zwanzigminuetige Fahrt; der Himmel faerbt sich, bevor die Sonne ueber die Tuerme steigt, sodass eine Ankunft im ersten Licht fuer das Beste schon zu spaet ist. Die Trockenzeit von November bis Maerz bietet die klarsten Himmel, waehrend der Regen Wolken bringt, die den Sonnenaufgang entweder zerstoeren oder erst recht schoen machen koennen. Der Teichrand fuellt sich frueh, der suedliche Teich ist meist ruhiger, und ein Guide, der weiss, auf welcher Seite man stehen sollte, macht den Unterschied zwischen einem Foto und einer Wand erhobener Handys.\n\nGroup departures depend on the operator. A small group needs enough guests on the day, and occasionally it does not form on a given date. If that happens, we will tell you as early as we can, and you can choose a private tour at the private rate or a refund.\n\nIm Preis enthalten sind Hotelabholung zwischen 4:20 und 5:10 Uhr. Nicht enthalten sind Angkor-Wat-Tempel-Pass, 1 Tag, 37 und Speisen und Getraenke auf eigene Kosten, das muessen Sie separat einplanen. Alle Leistungen sind auf dieser Seite vollstaendig aufgefuehrt; was dort nicht steht, ist nicht im Preis enthalten.",
+  "included": [
+   "Hotelabholung zwischen 4:20 und 5:10 Uhr"
+  ],
+  "notIncluded": [
+   "Angkor-Wat-Tempel-Pass, 1 Tag, 37",
+   "Speisen und Getraenke auf eigene Kosten"
   ]
  },
  "phnom-penh-haft-day-tour-to-silk-island-by": {
