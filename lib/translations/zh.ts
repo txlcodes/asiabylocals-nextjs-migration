@@ -24540,6 +24540,28 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "abu-dhabi-padi-advanced-open-water-course": {
+  "title": "阿布扎比：PADI进阶开放水域潜水课程",
+  "metaTitle": "阿布扎比：PADI进阶开放水域潜水课程",
+  "metaDescription": "一次2天的阿布扎比体验。两天课程，获得进阶潜水技能和认证。由Reef Oasis Diving Center提供。",
+  "shortDescription": "一次2天的阿布扎比体验。两天课程，获得进阶潜水技能和认证。由Reef Oasis Diving Center提供。",
+  "fullDescription": "一次2天的阿布扎比体验。两天课程，获得进阶潜水技能和认证。\n\n由Reef Oasis Diving Center负责安排，价格中含5项内容。可免费取消。\n\n价格包含潜水装备、潜水教练、2次必修进阶潜水（深潜、导航）、3次自选进阶潜水、更衣室、淋浴间、卫生间。不包含泳衣、毛巾、PADI在线学习资料，请另行预算。",
+  "highlights": [
+   "两天课程，获得进阶潜水技能和认证"
+  ],
+  "included": [
+   "潜水装备",
+   "潜水教练",
+   "2次必修进阶潜水（深潜、导航）",
+   "3次自选进阶潜水",
+   "更衣室、淋浴间、卫生间"
+  ],
+  "notIncluded": [
+   "泳衣",
+   "毛巾",
+   "PADI在线学习资料"
+  ]
+ },
  "dubai-desert-safari-with-vip-bbq-dinner-optional-q": {
   "title": "迪拜：沙漠冲沙之旅，含VIP烧烤晚餐，可选沙滩摩托车",
   "metaTitle": "迪拜：沙漠冲沙之旅，含VIP烧烤晚餐，可选沙滩摩托车",
@@ -25348,6 +25370,28 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "dubai-horse-riding-experience-at-m11-equestrian-cl": {
+  "title": "迪拜：M11马术俱乐部骑马体验",
+  "metaTitle": "迪拜：M11马术俱乐部骑马体验",
+  "metaDescription": "一次1小时的迪拜体验。在壮丽的阿拉伯沙漠中骑马，感受骑行的刺激。由M11 Equestrian Club提供。",
+  "shortDescription": "一次1小时的迪拜体验。在壮丽的阿拉伯沙漠中骑马，感受骑行的刺激。由M11 Equestrian Club提供。",
+  "fullDescription": "一次1小时的迪拜体验。在壮丽的阿拉伯沙漠中骑马，感受骑行的刺激。\n\n由M11 Equestrian Club负责安排，价格中含7项内容。可免费取消。\n\n价格包含骑马体验（团体、私人或越野骑行，按预订安排）、全程配备认证向导、照片及视频、安全头盔、水、品尝椰枣配阿拉伯咖啡。不包含骑马靴或护腿、马匹寄养、租赁或其他马厩服务，请另行预算。",
+  "highlights": [
+   "在壮丽的阿拉伯沙漠中骑马，感受骑行的刺激"
+  ],
+  "included": [
+   "骑马体验（团体、私人或越野骑行，按预订安排）",
+   "全程配备认证向导",
+   "照片及视频",
+   "安全头盔",
+   "水",
+   "品尝椰枣配阿拉伯咖啡"
+  ],
+  "notIncluded": [
+   "骑马靴或护腿",
+   "马匹寄养、租赁或其他马厩服务"
+  ]
+ },
  "dubai-marina-dinner-cruise-with-buffet-live-entert": {
   "title": "迪拜码头晚餐巡游，含自助餐及现场表演",
   "metaTitle": "迪拜码头晚餐巡游，含自助餐及现场表演",
@@ -26005,6 +26049,28 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "前往集合点的交通",
    "餐食和饮品"
+  ]
+ },
+ "dubai-1-hour-horse-riding-experience-at-m11-equest": {
+  "title": "迪拜：M11马术俱乐部1小时骑马体验",
+  "metaTitle": "迪拜：M11马术俱乐部1小时骑马体验",
+  "metaDescription": "一次1小时的迪拜体验。在壮丽的阿拉伯沙漠中骑马，感受骑行的刺激。由M11 Equestrian Club提供。",
+  "shortDescription": "一次1小时的迪拜体验。在壮丽的阿拉伯沙漠中骑马，感受骑行的刺激。由M11 Equestrian Club提供。",
+  "fullDescription": "一次1小时的迪拜体验。在壮丽的阿拉伯沙漠中骑马，感受骑行的刺激。\n\n由M11 Equestrian Club负责安排，价格中含6项内容。可免费取消。\n\n价格包含骑马体验（团体、私人或越野骑行，按预订安排）、全程配备认证向导、安全头盔、水、品尝椰枣配阿拉伯咖啡、安全须知讲解。不包含骑马靴或护腿、马匹寄养、租赁或其他马厩服务，请另行预算。",
+  "highlights": [
+   "在壮丽的阿拉伯沙漠中骑马，感受骑行的刺激"
+  ],
+  "included": [
+   "骑马体验（团体、私人或越野骑行，按预订安排）",
+   "全程配备认证向导",
+   "安全头盔",
+   "水",
+   "品尝椰枣配阿拉伯咖啡",
+   "安全须知讲解"
+  ],
+  "notIncluded": [
+   "骑马靴或护腿",
+   "马匹寄养、租赁或其他马厩服务"
   ]
  },
  "dubai-illusion-city-museum-entry-ticket": {
@@ -27759,6 +27825,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "padi-open-water-diver-course": {
+  "title": "PADI开放水域潜水员课程",
+  "metaTitle": "PADI开放水域潜水员课程",
+  "metaDescription": "一次2天的迪拜体验。迈向潜水证的第一步，无需任何经验！。由Reef Oasis Diving Center提供。",
+  "shortDescription": "一次2天的迪拜体验。迈向潜水证的第一步，无需任何经验！。由Reef Oasis Diving Center提供。",
+  "fullDescription": "一次2天的迪拜体验。迈向潜水证的第一步，无需任何经验！\n\n由Reef Oasis Diving Center负责安排，价格中含5项内容。可免费取消。\n\n价格包含全套水肺潜水装备、PADI教练、更衣室、淋浴间、5次封闭水域训练、4次开放水域潜水。不包含PADI在线学习资料、毛巾、泳衣，请另行预算。",
+  "highlights": [
+   "迈向潜水证的第一步，无需任何经验！"
+  ],
+  "included": [
+   "全套水肺潜水装备",
+   "PADI教练",
+   "更衣室、淋浴间",
+   "5次封闭水域训练",
+   "4次开放水域潜水"
+  ],
+  "notIncluded": [
+   "PADI在线学习资料",
+   "毛巾、泳衣"
+  ]
+ },
  "abu-dhabi-catamaran-cruise-2hr-trip": {
   "title": "阿布扎比双体船巡游2小时行程",
   "metaTitle": "阿布扎比双体船巡游2小时行程",
@@ -27794,6 +27881,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人消费",
    "午餐",
    "小费"
+  ]
+ },
+ "abu-dhabi-75-minute-yas-island-sightseeing-speedbo": {
+  "title": "阿布扎比：亚斯岛75分钟观光快艇之旅",
+  "metaTitle": "阿布扎比：亚斯岛75分钟观光快艇之旅",
+  "metaDescription": "一次从阿布扎比出发的1.25小时行程，游览Yas Beach, Yas Links Abu Dhabi, Ferrari World Abu Dhabi和Yas Waterworld。由The Yellow Boats LLC提供。",
+  "shortDescription": "一次从阿布扎比出发的1.25小时行程，游览Yas Beach, Yas Links Abu Dhabi, Ferrari World Abu Dhabi和Yas Waterworld。由The Yellow Boats LLC提供。",
+  "fullDescription": "一次从阿布扎比出发的1.25小时行程，途经Yas Beach, Yas Links Abu Dhabi, Ferrari World Abu Dhabi和Yas Waterworld。全程共9站。\n\n行程顺序为Yas Beach, 然后 Yas Links Abu Dhabi, 然后 Ferrari World Abu Dhabi, 然后 Yas Waterworld, 然后 Mangrove parking Yas west。\n\n价格包含包含项目：、75分钟快艇游览、私人向导、现场讲解。不包含不含项目：、酒店接送、食品或饮料，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的1.25小时行程，游览Yas Beach, Yas Links Abu Dhabi, Ferrari World Abu Dhabi和Yas Waterworld。由The Yellow Boats LLC提供。"
+  ],
+  "included": [
+   "包含项目：",
+   "75分钟快艇游览",
+   "私人向导",
+   "现场讲解"
+  ],
+  "notIncluded": [
+   "不含项目：",
+   "酒店接送",
+   "食品或饮料"
   ]
  },
  "dubai-premium-old-town-street-food-souks-boat-ride": {
@@ -28226,6 +28334,26 @@ export const ZH_TOURS: Record<string, TourT> = {
    "参观IMG冒险世界乐园后的酒店接送",
    "食品和饮品",
    "个人消费"
+  ]
+ },
+ "dubai-canal-cruise-with-dinner-la-perle-show-silve": {
+  "title": "迪拜：迪拜运河晚餐游船及拉佩尔秀银卡门票",
+  "metaTitle": "迪拜：迪拜运河晚餐游船及拉佩尔秀银卡门票",
+  "metaDescription": "一次从迪拜出发的3小时行程，游览La Perle by Dragone。由Amazon Tours UAE提供。",
+  "shortDescription": "一次从迪拜出发的3小时行程，游览La Perle by Dragone。由Amazon Tours UAE提供。",
+  "fullDescription": "一次从迪拜出发的3小时行程，途经La Perle by Dragone。\n\n价格包含游船、录音讲解、国际自助餐、拉佩尔秀银卡门票。不包含普通饮品（可付费购买）、纪念照片（可付费购买），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的3小时行程，游览La Perle by Dragone。由Amazon Tours UAE提供。"
+  ],
+  "included": [
+   "游船",
+   "录音讲解",
+   "国际自助餐",
+   "拉佩尔秀银卡门票"
+  ],
+  "notIncluded": [
+   "普通饮品（可付费购买）",
+   "纪念照片（可付费购买）"
   ]
  },
  "dubai-cabriolet-tour-in-a-convertible-mustang-or-c": {
@@ -30755,6 +30883,27 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "abu-dhabi-45-minutes-yas-island-sightseeing-speedb": {
+  "title": "阿布扎比：亚斯岛45分钟观光快艇之旅",
+  "metaTitle": "阿布扎比：亚斯岛45分钟观光快艇之旅",
+  "metaDescription": "一次从阿布扎比出发的0.75小时行程，游览Yas Marina Abu Dhabi, Yas Beach, Yas Links Abu Dhabi和Yas Waterworld。由The Yellow Boats LLC提供。",
+  "shortDescription": "一次从阿布扎比出发的0.75小时行程，游览Yas Marina Abu Dhabi, Yas Beach, Yas Links Abu Dhabi和Yas Waterworld。由The Yellow Boats LLC提供。",
+  "fullDescription": "一次从阿布扎比出发的0.75小时行程，途经Yas Marina Abu Dhabi, Yas Beach, Yas Links Abu Dhabi和Yas Waterworld。全程共6站。\n\n行程顺序为Yas Marina Abu Dhabi, 然后 Yas Beach, 然后 Yas Links Abu Dhabi, 然后 Yas Waterworld, 然后 Ferrari World Abu Dhabi。\n\n价格包含包含项目：、45分钟快艇游览、私人向导、现场讲解。不包含不含项目：、酒店接送、食品或饮料，请另行预算。",
+  "highlights": [
+   "一次从阿布扎比出发的0.75小时行程，游览Yas Marina Abu Dhabi, Yas Beach, Yas Links Abu Dhabi和Yas Waterworld。由The Yellow Boats LLC提供。"
+  ],
+  "included": [
+   "包含项目：",
+   "45分钟快艇游览",
+   "私人向导",
+   "现场讲解"
+  ],
+  "notIncluded": [
+   "不含项目：",
+   "酒店接送",
+   "食品或饮料"
+  ]
+ },
  "dubaiprivate-frame-entry-mosque-souks-tastings-tra": {
   "title": "迪拜：私人游览，含迪拜之框门票、清真寺、市集、品鉴及接送",
   "metaTitle": "迪拜：私人游览，含迪拜之框门票、清真寺、市集、品鉴及接送",
@@ -32177,6 +32326,26 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "餐食及饮品",
    "小费及个人消费"
+  ]
+ },
+ "dubaicanal-cruise-with-dinner-la-perle-showgold-tk": {
+  "title": "迪拜：迪拜运河晚餐游船及拉佩尔秀金卡门票",
+  "metaTitle": "迪拜：迪拜运河晚餐游船及拉佩尔秀金卡门票",
+  "metaDescription": "一次从迪拜出发的3小时行程，游览Dubai Festival City, Dubai Water Canal和La Perle by Dragone。由Amazon Tours UAE提供。",
+  "shortDescription": "一次从迪拜出发的3小时行程，游览Dubai Festival City, Dubai Water Canal和La Perle by Dragone。由Amazon Tours UAE提供。",
+  "fullDescription": "一次从迪拜出发的3小时行程，途经Dubai Festival City, Dubai Water Canal和La Perle by Dragone。全程共3站。\n\n行程顺序为Dubai Festival City, 然后 Dubai Water Canal, 然后 La Perle by Dragone。\n\n价格包含游船、录音讲解、国际自助餐、拉佩尔秀金卡门票。不包含普通饮品（可付费购买）、纪念照片（可付费购买），请另行预算。",
+  "highlights": [
+   "一次从迪拜出发的3小时行程，游览Dubai Festival City, Dubai Water Canal和La Perle by Dragone。由Amazon Tours UAE提供。"
+  ],
+  "included": [
+   "游船",
+   "录音讲解",
+   "国际自助餐",
+   "拉佩尔秀金卡门票"
+  ],
+  "notIncluded": [
+   "普通饮品（可付费购买）",
+   "纪念照片（可付费购买）"
   ]
  },
  "sheikh-zayed-grand-mosque-full-day-tour-from-abu": {
