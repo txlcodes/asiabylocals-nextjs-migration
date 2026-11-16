@@ -33,6 +33,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "siem-reap-vihear-full-day-tour": {
+  "title": "全天Preah Vihear、Koh Ker和崩密列私人游",
+  "metaTitle": "全天Preah Vihear、Koh Ker和崩密列私人游",
+  "shortDescription": "Siem Reap1天游览，含Krong Siem Reap、Temple of Preah Vihear和Koh Ker Temple and Prasat Pram。直接向Happy Angkor Tour Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次1天行程，出发自Siem Reap，游览Krong Siem Reap、Temple of Preah Vihear和Koh Ker Temple and Prasat Pram。全程共有8个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n偏远寺庙需要开车半天或一整天才能到达，但也因此而格外清净。Beng Mealea距离暹粒东面约60公里，是一座12世纪的寺庙，规模堪比吴哥窟，大部分区域仍未清理，游客需要踩着木制步道穿越倒塌的回廊。Koh Ker位于东北方向约两小时车程处，曾在10世纪短暂做过都城，这里的Prasat Thom是一座七层砂岩金字塔，高36米，可以沿木制阶梯攀登。Sambor Prei Kuk于2017年被列入联合国教科文组织名录，年代比吴哥本身还要早，前吴哥时期的砖塔至今仍矗立在森林中。其中一些遗址在吴哥通票之外还需单独购票。\n\n价格包含酒店接送、空调汽车或面包车接送和会英语的向导。不包含所有门票费用（Prah Vihear、Koh Ker和崩密列门票）和早餐、午餐及晚餐，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为418美元，8人为448美元，所以人数越多，每人分摊的费用就越低。\n\nHappy Angkor Tour Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "空调汽车或面包车接送",
+   "会英语的向导"
+  ],
+  "notIncluded": [
+   "所有门票费用（Prah Vihear、Koh Ker和崩密列门票）",
+   "早餐、午餐及晚餐"
+  ]
+ },
  "kulen-mountain-beng-melea-and-kampong-phluk": {
   "title": "古伦山、崩密列和磅平洛",
   "metaTitle": "古伦山、崩密列和磅平洛",
@@ -235,6 +250,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "寺庙门票（1日）：每人37.00美元"
   ]
  },
+ "kampong-phluk-floating-village-private-tour": {
+  "title": "Kampong Phluk浮村私人游",
+  "metaTitle": "Kampong Phluk浮村私人游",
+  "shortDescription": "Siem Reap2.5小时游览，含Siem Reap Province and Transfer。直接向Happy Angkor Tour Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次2.5小时行程，出发自Siem Reap，游览Siem Reap Province and Transfer。\n\n洞里萨湖是东南亚最大的淡水湖，每年会两次改变水流方向：雨季时湄公河的水倒灌回洞里萨河，湖面随之扩大数倍，之后大约从十一月开始再次退去。湖上的村落早已习惯这种变化。空邦鲁克的高脚屋立柱高六到十米，三月时屋下是干地，十月时则已没到脚踝；空邦克良规模更大，位置更远，游客也少得多；冲卡涅斯离暹粒最近，游客也最多。哪个村落适合前往，以及船能否真正驶入被淹没的森林，完全取决于当月的月份。\n\n价格包含专业英语导游、私人空调车辆和接送服务。不包含船票、食物和咖啡/啤酒，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为65美元，4人为104美元，7人为182美元。页面显示的是您整个团队的总价，不是人均单价。\n\nHappy Angkor Tour Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "专业英语导游",
+   "私人空调车辆",
+   "接送服务"
+  ],
+  "notIncluded": [
+   "船票",
+   "食物",
+   "咖啡/啤酒"
+  ]
+ },
  "angkor-sunrise-bike-tour-and-evening-foodie-full-d": {
   "title": "吴哥日出单车游及夜间美食全日游",
   "metaTitle": "吴哥日出单车游及夜间美食全日游",
@@ -262,6 +293,37 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "一日吴哥窟门票（客人自付）"
+  ]
+ },
+ "night-market-street-food-tour-with-dinner": {
+  "title": "夜市街头美食之旅含晚餐",
+  "metaTitle": "夜市街头美食之旅含晚餐",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap。直接向Unique Compass C.,LTD订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap。\n\n高棉菜比泰国菜温和，比越南菜更酸，基本调味来自发酵鱼酱prahok，以及用香茅、南姜、姜黄和青柠叶现捣而成的香料kroeung。几乎每个人都会学做的一道菜是鱼amok，一种用椰奶咖喱蒸在香蕉叶杯里直到凝固成布丁状的菜；另一道是lok lak，煎牛肉配青柠胡椒蘸酱。受原产地保护的贡布胡椒常同时出现在这两道菜里。烹饪课通常从集市开始，向导会先带你认识发酵鱼酱、棕糖和河鱼，然后才开始下厨。\n\n价格包含会英语的向导、私人空调车辆和行程中列明的所有门票费用。不包含个人花费和小费和个人旅行保险，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人65美元，因此8人的团队总价为520美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nUnique Compass C.,LTD负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "会英语的向导",
+   "私人空调车辆",
+   "行程中列明的所有门票费用"
+  ],
+  "notIncluded": [
+   "个人花费和小费",
+   "个人旅行保险"
+  ]
+ },
+ "private-transfer-phnom-penh-techo-airport-kti-to-s": {
+  "title": "金边德乔机场（KTI）至暹粒私人接送",
+  "metaTitle": "金边德乔机场（KTI）至暹粒私人接送",
+  "shortDescription": "Siem Reap全天游览，含Siem Reap Angkor In and Phnom Penh。直接向Cambodia Taxi Driver订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Siem Reap Angkor In and Phnom Penh。\n\n暹粒的交通状况比周边地区要轻松很多，从2023年开通的暹粒吴哥国际机场出发，机场位于市区以东约40公里处，如今车程约45分钟，而不是旧机场时代的十分钟。市区内通常以tuk-tuk代步，前往神庙环线则多选择包一辆私家车，因为当天的行程中各个停靠点之间间隔较长，加上三月到五月间气温常常在三十多度，比较闷热。司机通常会在寺庙门口等候而不是先行离开，所以包车是按天计费，而不是按行程计费。\n\n价格包含会英语的司机、单程私人接送和乘客保险。不包含导游、食物和软饮料和小费（可自愿），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为181美元，5人为358美元，8人为489美元。页面显示的是您整个团队的总价，不是人均单价。\n\nCambodia Taxi Driver负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "会英语的司机",
+   "单程私人接送",
+   "乘客保险"
+  ],
+  "notIncluded": [
+   "导游",
+   "食物和软饮料",
+   "小费（可自愿）"
   ]
  },
  "siem-reab-airport-pickup-and-the-customized-trip-a": {
@@ -372,6 +434,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费（建议给付）"
   ]
  },
+ "birdwatching-and-discovery-tour-in-pearaing-biodiv": {
+  "title": "Pearaing生物多样性观鸟探索之旅",
+  "metaTitle": "Pearaing生物多样性观鸟探索之旅",
+  "shortDescription": "Siem Reap全天游览，含Siem Reap Province。直接向Unique Compass C.,LTD订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Siem Reap Province。\n\n暹粒附近的乡村由稻田、棕糖树和一些小村庄组成，距离神庙大道只有五分钟车程，却很少被走环线的游客看到。棕糖树是国树，男人们每天两次爬上刻着凹槎的树干，从树冠处采集糖浆，熬煮后制成每家高棉厨房都会用到的棕糖。稻作的一年节奏决定了一切：雨季插秧，稻田在雨季里一片翠绿，大约在十一月和十二月收割，之后便是干枯的稻茬和尘土。傍晚时分光线最美，村子里也最热闹，所以大多数这类骑行活动都会一直进行到日落。\n\n价格包含会英语的向导、司机和门票费。不包含费用自理和小费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人143美元，因此8人的团队总价为1,144美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nUnique Compass C.,LTD负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "会英语的向导",
+   "司机",
+   "门票费"
+  ],
+  "notIncluded": [
+   "费用自理",
+   "小费"
+  ]
+ },
  "from-siem-reap-banteay-chhmar-and-banteay-toap-day": {
   "title": "暹粒出发：Banteay Chhmar与Banteay Toap一日游",
   "metaTitle": "暹粒出发：Banteay Chhmar与Banteay Toap一日游",
@@ -430,6 +507,18 @@ export const ZH_TOURS: Record<string, TourT> = {
    "一餐",
    "个人花费"
   ]
+ },
+ "share-one-way-arrivaldeparture-transfer": {
+  "title": "拼车单程接送（抵达/出发）",
+  "metaTitle": "拼车单程接送（抵达/出发）",
+  "shortDescription": "Siem Reap1小时游览，含从暹粒市区至暹粒吴哥国际机场（SAI）的交通、根据所选方案配备车辆及司机和从暹粒市区酒店（SR）或暹粒吴哥国际机场（SAI）接送。直接向Asia Voyage Travel & Tour订位，而非通过分销商。",
+  "fullDescription": "一次1小时体验，地点在Siem Reap。运营商将其概括为：我们的司机对工作非常专业。\n\n暹粒的交通状况比周边地区要轻松很多，从2023年开通的暹粒吴哥国际机场出发，机场位于市区以东约40公里处，如今车程约45分钟，而不是旧机场时代的十分钟。市区内通常以tuk-tuk代步，前往神庙环线则多选择包一辆私家车，因为当天的行程中各个停靠点之间间隔较长，加上三月到五月间气温常常在三十多度，比较闷热。司机通常会在寺庙门口等候而不是先行离开，所以包车是按天计费，而不是按行程计费。\n\n价格包含从暹粒市区至暹粒吴哥国际机场（SAI）的交通、根据所选方案配备车辆及司机和从暹粒市区酒店（SR）或暹粒吴哥国际机场（SAI）接送。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人10美元，因此8人的团队总价为84美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nAsia Voyage Travel & Tour负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "从暹粒市区至暹粒吴哥国际机场（SAI）的交通",
+   "根据所选方案配备车辆及司机",
+   "从暹粒市区酒店（SR）或暹粒吴哥国际机场（SAI）接送"
+  ],
+  "notIncluded": []
  },
  "kompong-phluk-floating-village-and-mangrove-forest": {
   "title": "贡布鲁克水上村与红树林游船",
@@ -535,6 +624,18 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食及软饮"
   ]
  },
+ "private-one-way-arrivaldeparture-transfer": {
+  "title": "私人单程接送（抵达/出发）",
+  "metaTitle": "私人单程接送（抵达/出发）",
+  "shortDescription": "Siem Reap1小时游览，含SAI机场与暹粒市区间交通、根据所选方案配备车辆及司机和依所选选项于住宿地或机场接送。直接向Asia Voyage Travel & Tour订位，而非通过分销商。",
+  "fullDescription": "一次1小时体验，地点在Siem Reap。运营商将其概括为：我们的司机对工作非常专业。\n\n价格包含SAI机场与暹粒市区间交通、根据所选方案配备车辆及司机和依所选选项于住宿地或机场接送。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人32美元，因此8人的团队总价为260美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nAsia Voyage Travel & Tour负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "SAI机场与暹粒市区间交通",
+   "根据所选方案配备车辆及司机",
+   "依所选选项于住宿地或机场接送"
+  ],
+  "notIncluded": []
+ },
  "airport-pickup-and-the-customized-trip-on-the-same": {
   "title": "机场接机与当天定制行程",
   "metaTitle": "机场接机与当天定制行程",
@@ -563,6 +664,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "寺庙通票",
    "餐食"
+  ]
+ },
+ "kulen-mountains-ta-penh": {
+  "title": "贡伦山+Ta Penh",
+  "metaTitle": "贡伦山+Ta Penh",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap、Phnom Kulen National Park和Kbal Spean and Wat Preah Ang Thom。直接向Passion Indochina Travel Co.,Ltd.订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap、Phnom Kulen National Park和Kbal Spean and Wat Preah Ang Thom。全程共有6个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\nBanteay Srei位于吴哥主神庙群东北37公里处，用一种粉红色砂岩雕刻而成，细节保存程度是其他高棉寺庙都比不上的：门楣和山花雕刻得足够深，能投下真实的阴影，因此它也被称为女人的城堡。它规模不大，967年供奉给湿婆，并且是由一位婆罗门而非国王主持建造的。由于地处偏远，它通常会与Kbal Spean一起参观，那里是千尊林迦之河，湿婆雕像就藏在溪床内外，上行步道大约1.5公里，穿过一片林地。两处景点都比中心区的寺庙更早关门，因此通常安排在上午。\n\n价格包含波兰语领队、专业当地导游和空调交通。不包含贡伦山国家公园门票（每人20美元）和个人花费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人240美元，因此8人的团队总价为1,924美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nPassion Indochina Travel Co.,Ltd.负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "波兰语领队",
+   "专业当地导游",
+   "空调交通"
+  ],
+  "notIncluded": [
+   "贡伦山国家公园门票（每人20美元）",
+   "个人花费"
   ]
  },
  "german-language-guided-tour-of-angkor-wat": {
@@ -594,6 +710,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食",
    "啤酒",
    "门票"
+  ]
+ },
+ "angkor-wat-sunrise-banteay-srei-floating-village-t": {
+  "title": "吴哥窟日出、女王宫浮村3日游",
+  "metaTitle": "吴哥窟日出、女王宫浮村3日游",
+  "shortDescription": "Siem Reap3天游览，含Day-1 Sunrise on Angkor Wat和Day-2 Grand Tour and Banteay Srei Temple and Day-3 Rolus Group and Tonle Sab Lake。直接向Private Siem Reap Tour Guide & Transport订位，而非通过分销商。",
+  "fullDescription": "一次3天行程，出发自Siem Reap，游览Day-1 Sunrise on Angkor Wat和Day-2 Grand Tour and Banteay Srei Temple and Day-3 Rolus Group and Tonle Sab Lake。\n\n日出时分的吴哥窟，游客会在北侧倒影池边观赏，五座塔楼先在天空下显出黑色轮廓，随后又在水面上映出一次倒影。售票处04:30开门，吴哥窟从05:00开始放人进入，这就是游览团大约04:30从暹粒出发、车程约二十分钟的原因；天空在太阳越过塔顶之前就已经开始变色，所以等到天刚亮才到，已经错过了最精彩的一刻。十一月到三月的旱季天空最干净，而雨季带来的云层有时会毁掉日出，有时反而让日出更美。池边很早就会站满人，南侧的池子通常更安静，一位知道该站哪一侧的向导，往往决定了你拍到的是一张好照片，还是一墙举起的手机。\n\n价格包含酒店接送、会英语的司机和舒适的嘟嘟车。不包含吴哥门票、船票及其他相关费用和餐食，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为116美元，5人为193美元，8人为232美元。页面显示的是您整个团队的总价，不是人均单价。\n\nPrivate Siem Reap Tour Guide & Transport负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "会英语的司机",
+   "舒适的嘟嘟车"
+  ],
+  "notIncluded": [
+   "吴哥门票",
+   "船票及其他相关费用",
+   "餐食"
   ]
  },
  "angkor-wat-temple-one-day-tour-from-siem-reap": {
@@ -716,6 +848,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "寺庙门票"
   ]
  },
+ "3-day-angkor-wat-and-all-major-temples-and": {
+  "title": "3日吴哥窟及所有主要寺庙和贡伦山瀑布游",
+  "metaTitle": "3日吴哥窟及所有主要寺庙和贡伦山瀑布游",
+  "shortDescription": "Siem Reap3天游览，含Angkor Wat Temple、Ta Promh Temple和Ta Nei Temple and Ta Keo Temple。直接向Happy Angkor Tour Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次3天行程，出发自Siem Reap，游览Angkor Wat Temple、Ta Promh Temple和Ta Nei Temple and Ta Keo Temple。全程共有32个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含酒店接送、持证英语导游和冰镇饮用水和毛巾。不包含寺庙通票、贡伦山门票和早餐、午餐及晚餐，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为511美元，8人为514美元，所以人数越多，每人分摊的费用就越低。\n\nHappy Angkor Tour Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "持证英语导游",
+   "冰镇饮用水和毛巾"
+  ],
+  "notIncluded": [
+   "寺庙通票",
+   "贡伦山门票",
+   "早餐、午餐及晚餐"
+  ]
+ },
  "angkor-wat-guided-joint-in-tour": {
   "title": "吴哥窟向导拼团之旅",
   "metaTitle": "吴哥窟向导拼团之旅",
@@ -743,6 +891,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "寺庙门票"
+  ]
+ },
+ "kampong-phluk-floating-village-tour-with-airport-t": {
+  "title": "Kampong Phluk浮村之旅含机场接送",
+  "metaTitle": "Kampong Phluk浮村之旅含机场接送",
+  "shortDescription": "Siem Reap3小时游览，含酒店接车、私人交通和会英语的司机。直接向Golden Escape Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次3小时体验，地点在Siem Reap。运营商将其概括为：暹粒酒店接送，配备英语司机。\n\n洞里萨湖是东南亚最大的淡水湖，每年会两次改变水流方向：雨季时湄公河的水倒灌回洞里萨河，湖面随之扩大数倍，之后大约从十一月开始再次退去。湖上的村落早已习惯这种变化。空邦鲁克的高脚屋立柱高六到十米，三月时屋下是干地，十月时则已没到脚踝；空邦克良规模更大，位置更远，游客也少得多；冲卡涅斯离暹粒最近，游客也最多。哪个村落适合前往，以及船能否真正驶入被淹没的森林，完全取决于当月的月份。\n\n价格包含酒店接车、私人交通和会英语的司机。不包含Kompong Phluk船票（除非已选购）和门票费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为111美元，5人为111美元，8人为221美元。页面显示的是您整个团队的总价，不是人均单价。\n\nGolden Escape Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接车",
+   "私人交通",
+   "会英语的司机"
+  ],
+  "notIncluded": [
+   "Kompong Phluk船票（除非已选购）",
+   "门票费"
   ]
  },
  "kampong-phluk-floating-village-boat-tour": {
@@ -927,6 +1090,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "small-group-explore-angkor-wat-with-pitt-angkor": {
+  "title": "Pitt Angkor小团探索吴哥窟",
+  "metaTitle": "Pitt Angkor小团探索吴哥窟",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap、Angkor Wat、Victory Gate和Angkor and Angkor Thom。直接向Pitt Angkor Tour Siem Reap订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap、Angkor Wat、Victory Gate和Angkor and Angkor Thom。全程共有6个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n日出时分的吴哥窟，游客会在北侧倒影池边观赏，五座塔楼先在天空下显出黑色轮廓，随后又在水面上映出一次倒影。售票处04:30开门，吴哥窟从05:00开始放人进入，这就是游览团大约04:30从暹粒出发、车程约二十分钟的原因；天空在太阳越过塔顶之前就已经开始变色，所以等到天刚亮才到，已经错过了最精彩的一刻。十一月到三月的旱季天空最干净，而雨季带来的云层有时会毁掉日出，有时反而让日出更美。池边很早就会站满人，南侧的池子通常更安静，一位知道该站哪一侧的向导，往往决定了你拍到的是一张好照片，还是一墙举起的手机。\n\n价格包含专业英语游览向导、空调小型货车或小巴接送和酒店接送。不包含吴哥窟门票、餐食（早餐、午餐和晚餐）和个人花费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人20美元，因此8人的团队总价为156美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nPitt Angkor Tour Siem Reap负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "专业英语游览向导",
+   "空调小型货车或小巴接送",
+   "酒店接送"
+  ],
+  "notIncluded": [
+   "吴哥窟门票",
+   "餐食（早餐、午餐和晚餐）",
+   "个人花费"
+  ]
+ },
  "angkor-wat-small-group-with-sunset-tour": {
   "title": "吴哥窟日落小团游",
   "metaTitle": "吴哥窟日落小团游",
@@ -1085,6 +1264,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "angkor-wat-temples-car-tour-multi-language-guide-o": {
+  "title": "吴哥窟寺庙汽车游：多语言向导可选",
+  "metaTitle": "吴哥窟寺庙汽车游：多语言向导可选",
+  "shortDescription": "Siem Reap1天游览，含Krong Siem Reap、Angkor Wat和Angkor Thom and Bayon Temple。直接向Happy Angkor Tour Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次1天行程，出发自Siem Reap，游览Krong Siem Reap、Angkor Wat和Angkor Thom and Bayon Temple。全程共有10个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含酒店接送、协助购买吴哥通票和冷饮用水。不包含吴哥通票费用、食物和小费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为76美元，8人为76美元，所以人数越多，每人分摊的费用就越低。\n\nHappy Angkor Tour Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "协助购买吴哥通票",
+   "冷饮用水"
+  ],
+  "notIncluded": [
+   "吴哥通票费用",
+   "食物",
+   "小费"
+  ]
+ },
  "private-angkor-wat-sunrise-and-sunset-tour-by-vint": {
   "title": "复古吉普车吴哥窟日出日落私人游",
   "metaTitle": "复古吉普车吴哥窟日出日落私人游",
@@ -1113,6 +1308,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "寺庙通票",
    "餐食和饮品",
    "个人花费和小费"
+  ]
+ },
+ "2-day-angkor-private-tour-with-sunrise-and-sunset": {
+  "title": "2日吴哥私人游含日出和日落",
+  "metaTitle": "2日吴哥私人游含日出和日落",
+  "shortDescription": "Siem Reap2天游览，含Angkor Wat Sunrise and Temple Exploration、Breakfast Break和South Gate of Angkor Thom and Bayon Temple。直接向SARUS CO., LTD订位，而非通过分销商。",
+  "fullDescription": "一次2天行程，出发自Siem Reap，游览Angkor Wat Sunrise and Temple Exploration、Breakfast Break和South Gate of Angkor Thom and Bayon Temple。全程共有14个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含导游、私人空调交通和酒店接送（暹粒市区内）。不包含吴哥通票（3日票62美元，须购买），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为306美元，8人为328美元，所以人数越多，每人分摊的费用就越低。\n\nSARUS CO., LTD负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "导游",
+   "私人空调交通",
+   "酒店接送（暹粒市区内）"
+  ],
+  "notIncluded": [
+   "吴哥通票（3日票62美元，须购买）"
   ]
  },
  "sunrise-at-angkor-wat-with-a-sharing-group": {
@@ -1233,6 +1442,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "所有参观门票费用",
    "餐食",
+   "个人花费"
+  ]
+ },
+ "banteay-srei-and-5-angkor-temples-with-lunch-at": {
+  "title": "女王宫及5座吴哥寺庙游，于当地民宅享用午餐",
+  "metaTitle": "女王宫及5座吴哥寺庙游，于当地民宅享用午餐",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap、Preah Khan Temple和Neak Poan Temple and Ta Som。直接向Golden Escape Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap、Preah Khan Temple和Neak Poan Temple and Ta Som。全程共有9个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含当地持证现场向导、私人交通及司机和暹粒酒店接送。不包含吴哥考古公园门票和个人花费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为234美元，5人为319美元，8人为728美元。页面显示的是您整个团队的总价，不是人均单价。\n\nGolden Escape Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "当地持证现场向导",
+   "私人交通及司机",
+   "暹粒酒店接送"
+  ],
+  "notIncluded": [
+   "吴哥考古公园门票",
    "个人花费"
   ]
  },
@@ -1417,6 +1641,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "battambang-private-full-day-tour-pick-up-from-siem": {
+  "title": "马德望全天私人游（暹粒接送）",
+  "metaTitle": "马德望全天私人游（暹粒接送）",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap。直接向Cambo Tours Services订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap。\n\n马德望是柬埔寨的第二大城市，也是其中最安静的一座，这座河畔小城遍布法式骑楼，距离暹粒约三小时车程。竹火车，当地人称为norry，是一节由小型马达驱动、在单轨上行驶的竹制平台；两节车相遇时，较轻的一节会被人力直接抬离铁轨。最初在O Dambong的路线后来被Banan新建的专门旅游轨道取代。黄昏时分，数以百万计的皱唇蝠会从Phnom Sampeau的一处崖洞中飞出，持续约半小时，形成一条不间断的蝙蝠长带，同一座山上还留有红色高棉时期的杀人洞纪念地。\n\n价格包含酒店接送、竹筒火车体验和所有门票。不包含饮品及个人购物和个人花费和小费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为439美元，5人为1,162美元，8人为1,859美元。页面显示的是您整个团队的总价，不是人均单价。\n\nCambo Tours Services负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "竹筒火车体验",
+   "所有门票"
+  ],
+  "notIncluded": [
+   "饮品及个人购物",
+   "个人花费和小费"
+  ]
+ },
  "private-taxi-transfer-from-phnom-penh-to-siem-reap": {
   "title": "从金边到暹粒的私人出租车接送",
   "metaTitle": "从金边到暹粒的私人出租车接送",
@@ -1520,6 +1759,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "会英语的司机"
   ],
   "notIncluded": []
+ },
+ "angkor-wat-floating-village-kampong-phluk-private-": {
+  "title": "吴哥窟及Kampong Phluk浮村私人游：2日",
+  "metaTitle": "吴哥窟及Kampong Phluk浮村私人游：2日",
+  "shortDescription": "Siem Reap2天游览，含Angkor Wat Temple、Banteay Kdei Temple和Ta Promh Temple and Ta Nei Temple。直接向Happy Angkor Tour Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次2天行程，出发自Siem Reap，游览Angkor Wat Temple、Banteay Kdei Temple和Ta Promh Temple and Ta Nei Temple。全程共有20个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含酒店接送、持证英语导游和冰镇饮用水和毛巾。不包含寺庙通票和浮村门票及私人游船，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为346美元，8人为397美元，所以人数越多，每人分摊的费用就越低。\n\nHappy Angkor Tour Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "持证英语导游",
+   "冰镇饮用水和毛巾"
+  ],
+  "notIncluded": [
+   "寺庙通票",
+   "浮村门票及私人游船"
+  ]
  },
  "kulen-mountain-trek-banteay-srei-and-beng-mealea": {
   "title": "古伦山徒步、女王宫及崩密列游",
@@ -1728,6 +1982,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "吴哥窟通票或寺庙门票（每人37美元）"
   ]
  },
+ "kampong-phluk-floating-village-and-local-market-ex": {
+  "title": "Kampong Phluk浮村及当地市场体验",
+  "metaTitle": "Kampong Phluk浮村及当地市场体验",
+  "shortDescription": "Phnom Penh1小时游览，含暹粒酒店接送、金边酒店送达和私人空调车辆。直接向Golden Escape Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次1小时体验，地点在Phnom Penh。运营商将其概括为：探索洞里萨湖上独特的磅平洛浮村。\n\n洞里萨湖是东南亚最大的淡水湖，每年会两次改变水流方向：雨季时湄公河的水倒灌回洞里萨河，湖面随之扩大数倍，之后大约从十一月开始再次退去。湖上的村落早已习惯这种变化。空邦鲁克的高脚屋立柱高六到十米，三月时屋下是干地，十月时则已没到脚踝；空邦克良规模更大，位置更远，游客也少得多；冲卡涅斯离暹粒最近，游客也最多。哪个村落适合前往，以及船能否真正驶入被淹没的森林，完全取决于当月的月份。\n\n价格包含暹粒酒店接送、金边酒店送达和私人空调车辆。不包含Kampong Phluk门票（如适用）和船票，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为202美元，5人为246美元，8人为494美元。页面显示的是您整个团队的总价，不是人均单价。\n\nGolden Escape Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "暹粒酒店接送",
+   "金边酒店送达",
+   "私人空调车辆"
+  ],
+  "notIncluded": [
+   "Kampong Phluk门票（如适用）",
+   "船票"
+  ]
+ },
  "chong-khneas-floating-village-sunset-by-tuk-tuk": {
   "title": "嘟嘟车游览冲尼斯水上村日落",
   "metaTitle": "嘟嘟车游览冲尼斯水上村日落",
@@ -1788,6 +2057,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "phnom-kulen-park-and-beng-mealea-private-tour": {
+  "title": "贡伦山公园及崩密列私人游",
+  "metaTitle": "贡伦山公园及崩密列私人游",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap和Phnom Kulen National Park and Beng Mealea。直接向Pineapple Cambodia Tour订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap和Phnom Kulen National Park and Beng Mealea。\n\n偏远寺庙需要开车半天或一整天才能到达，但也因此而格外清净。Beng Mealea距离暹粒东面约60公里，是一座12世纪的寺庙，规模堪比吴哥窟，大部分区域仍未清理，游客需要踩着木制步道穿越倒塌的回廊。Koh Ker位于东北方向约两小时车程处，曾在10世纪短暂做过都城，这里的Prasat Thom是一座七层砂岩金字塔，高36米，可以沿木制阶梯攀登。Sambor Prei Kuk于2017年被列入联合国教科文组织名录，年代比吴哥本身还要早，前吴哥时期的砖塔至今仍矗立在森林中。其中一些遗址在吴哥通票之外还需单独购票。\n\n价格包含私人空调面包车往返接送、会英语的向导和全天饮用水。不包含贡伦山国家公园门票和崩密列寺庙通票，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为180美元，5人为540美元，8人为864美元。页面显示的是您整个团队的总价，不是人均单价。\n\nPineapple Cambodia Tour负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "私人空调面包车往返接送",
+   "会英语的向导",
+   "全天饮用水"
+  ],
+  "notIncluded": [
+   "贡伦山国家公园门票",
+   "崩密列寺庙通票"
+  ]
+ },
  "a-day-angkor-wat-sunrise-ta-prohm-banteay-srei": {
   "title": "一日吴哥窟日出游：塔普伦寺、女王宫与崩密列",
   "metaTitle": "一日吴哥窟日出游：塔普伦寺、女王宫与崩密列",
@@ -1815,6 +2099,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "所有门票费用",
    "早餐、午餐及晚餐"
+  ]
+ },
+ "kulen-mountain-beng-mealea-and-kampong-phluk": {
+  "title": "贡伦山、崩密列和Kampong Phluk",
+  "metaTitle": "贡伦山、崩密列和Kampong Phluk",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap、Preah Dak和Phnom Kulen National Park and 1000 Lingas。直接向Passion Indochina Travel Co.,Ltd.订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap、Preah Dak和Phnom Kulen National Park and 1000 Lingas。全程共有8个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n洞里萨湖是东南亚最大的淡水湖，每年会两次改变水流方向：雨季时湄公河的水倒灌回洞里萨河，湖面随之扩大数倍，之后大约从十一月开始再次退去。湖上的村落早已习惯这种变化。空邦鲁克的高脚屋立柱高六到十米，三月时屋下是干地，十月时则已没到脚踝；空邦克良规模更大，位置更远，游客也少得多；冲卡涅斯离暹粒最近，游客也最多。哪个村落适合前往，以及船能否真正驶入被淹没的森林，完全取决于当月的月份。\n\n价格包含酒店接送、空调轿车或小型货车接送和会英语的游览向导。不包含贡伦山门票：每人20美元和崩密列通票（每人10美元），或可使用有效的吴哥通票参观，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人130美元，因此8人的团队总价为1,040美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nPassion Indochina Travel Co.,Ltd.负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "空调轿车或小型货车接送",
+   "会英语的游览向导"
+  ],
+  "notIncluded": [
+   "贡伦山门票：每人20美元",
+   "崩密列通票（每人10美元），或可使用有效的吴哥通票参观"
   ]
  },
  "angkor-wat-temple-tour-from-siem-reap-town": {
@@ -1992,6 +2291,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "早餐、午餐及晚餐"
   ]
  },
+ "private-kampong-khleang-boat-tour-adventure": {
+  "title": "Kampong Khleang私人船游探险",
+  "metaTitle": "Kampong Khleang私人船游探险",
+  "shortDescription": "Siem Reap半天游览，含Krong Siem Reap和Kampong Khleang and Kompong Khleang Floating Village。直接向Wadi Rum Fire Camp订位，而非通过分销商。",
+  "fullDescription": "一次半天行程，出发自Siem Reap，游览Krong Siem Reap和Kampong Khleang and Kompong Khleang Floating Village。\n\n洞里萨湖是东南亚最大的淡水湖，每年会两次改变水流方向：雨季时湄公河的水倒灌回洞里萨河，湖面随之扩大数倍，之后大约从十一月开始再次退去。湖上的村落早已习惯这种变化。空邦鲁克的高脚屋立柱高六到十米，三月时屋下是干地，十月时则已没到脚踝；空邦克良规模更大，位置更远，游客也少得多；冲卡涅斯离暹粒最近，游客也最多。哪个村落适合前往，以及船能否真正驶入被淹没的森林，完全取决于当月的月份。\n\n价格包含暹粒市内酒店接送、专业英语向导和按行程安排参观所有亮点。不包含个人花费和食物，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为220美元，5人为608美元，8人为707美元。页面显示的是您整个团队的总价，不是人均单价。\n\nWadi Rum Fire Camp负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "暹粒市内酒店接送",
+   "专业英语向导",
+   "按行程安排参观所有亮点"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "食物"
+  ]
+ },
  "angkor-wat-floating-village-apsara-dance-show": {
   "title": "吴哥窟、水上浮村与阿帕莎拉舞表演",
   "metaTitle": "吴哥窟、水上浮村与阿帕莎拉舞表演",
@@ -2032,6 +2346,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "大船"
   ],
   "notIncluded": []
+ },
+ "tuk-tuk-2day-angkor-wat-and-1day-waterfall-floatin": {
+  "title": "嘟嘟车2日吴哥窟及1日瀑布、浮村游",
+  "metaTitle": "嘟嘟车2日吴哥窟及1日瀑布、浮村游",
+  "shortDescription": "Siem Reap2天游览，含酒店接送、空调SUV或小型面包车和私人向导。直接向Travel Choice Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次2天体验，地点在Siem Reap。运营商将其概括为：探索神圣的古伦山国家公园及其美丽瀑布。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含酒店接送、空调SUV或小型面包车和私人向导。不包含餐食、吴哥寺庙通票和贡伦山门票，每人20美元，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人156美元，因此8人的团队总价为1,248美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nTravel Choice Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "空调SUV或小型面包车",
+   "私人向导"
+  ],
+  "notIncluded": [
+   "餐食",
+   "吴哥寺庙通票",
+   "贡伦山门票，每人20美元"
+  ]
  },
  "angkor-wat-sunset-full-day-tour-include-lunch": {
   "title": "吴哥窟日落全日游（含午餐）",
@@ -2092,6 +2422,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "竹火车费用（每人5美元）"
   ]
  },
+ "battambang-bamboo-train-bat-cave-killing-cave-by-t": {
+  "title": "马德望：竹火车、蝙蝠洞、杀人洞嘟嘟车游",
+  "metaTitle": "马德望：竹火车、蝙蝠洞、杀人洞嘟嘟车游",
+  "shortDescription": "Siem Reap全天游览，含Krong Battambang。直接向Angkor Day Trip订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Battambang。\n\n马德望是柬埔寨的第二大城市，也是其中最安静的一座，这座河畔小城遍布法式骑楼，距离暹粒约三小时车程。竹火车，当地人称为norry，是一节由小型马达驱动、在单轨上行驶的竹制平台；两节车相遇时，较轻的一节会被人力直接抬离铁轨。最初在O Dambong的路线后来被Banan新建的专门旅游轨道取代。黄昏时分，数以百万计的皱唇蝠会从Phnom Sampeau的一处崖洞中飞出，持续约半小时，形成一条不间断的蝙蝠长带，同一座山上还留有红色高棉时期的杀人洞纪念地。\n\n价格包含酒店接送、嘟嘟车交通和司机/向导。不包含竹火车费用（每人5美元）、食物及额外饮品和小费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人17美元，因此8人的团队总价为136美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nAngkor Day Trip负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "嘟嘟车交通",
+   "司机/向导"
+  ],
+  "notIncluded": [
+   "竹火车费用（每人5美元）",
+   "食物及额外饮品",
+   "小费"
+  ]
+ },
  "one-day-angkor-wat-trip-with-sunrise": {
   "title": "吴哥窟日出一日游",
   "metaTitle": "吴哥窟日出一日游",
@@ -2119,6 +2465,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "寺庙门票，每人37美元，包含行程中列出的所有寺庙"
+  ]
+ },
+ "siem-reap-floating-village-kampong-phluk-with-boat": {
+  "title": "暹粒Kampong Phluk浮村游含船和向导",
+  "metaTitle": "暹粒Kampong Phluk浮村游含船和向导",
+  "shortDescription": "Siem Reap半天游览，含Krong Siem Reap、Bus/coach和Kampong Phluk and River boat。直接向Passion Indochina Travel Co.,Ltd.订位，而非通过分销商。",
+  "fullDescription": "一次半天行程，出发自Siem Reap，游览Krong Siem Reap、Bus/coach和Kampong Phluk and River boat。全程共有5个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n洞里萨湖是东南亚最大的淡水湖，每年会两次改变水流方向：雨季时湄公河的水倒灌回洞里萨河，湖面随之扩大数倍，之后大约从十一月开始再次退去。湖上的村落早已习惯这种变化。空邦鲁克的高脚屋立柱高六到十米，三月时屋下是干地，十月时则已没到脚踝；空邦克良规模更大，位置更远，游客也少得多；冲卡涅斯离暹粒最近，游客也最多。哪个村落适合前往，以及船能否真正驶入被淹没的森林，完全取决于当月的月份。\n\n价格包含导游、空调小巴和凉水。不包含餐食和独木舟（深入水淹森林探索的小船，5美元/1人），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人26美元，因此8人的团队总价为208美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nPassion Indochina Travel Co.,Ltd.负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "导游",
+   "空调小巴",
+   "凉水"
+  ],
+  "notIncluded": [
+   "餐食",
+   "独木舟（深入水淹森林探索的小船，5美元/1人）"
   ]
  },
  "kompong-pluk-tour": {
@@ -2178,6 +2539,66 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "餐食"
+  ]
+ },
+ "kampong-phluk-floating-village-and-lake-tour": {
+  "title": "Kampong Phluk浮村及湖泊游",
+  "metaTitle": "Kampong Phluk浮村及湖泊游",
+  "shortDescription": "Siem Reap半天游览，含Tonlé Sap、Tonle Sap River和Ro Lus Market and Kampong Phluk。直接向SARUS CO., LTD订位，而非通过分销商。",
+  "fullDescription": "一次半天行程，出发自Siem Reap，游览Tonlé Sap、Tonle Sap River和Ro Lus Market and Kampong Phluk。\n\n洞里萨湖是东南亚最大的淡水湖，每年会两次改变水流方向：雨季时湄公河的水倒灌回洞里萨河，湖面随之扩大数倍，之后大约从十一月开始再次退去。湖上的村落早已习惯这种变化。空邦鲁克的高脚屋立柱高六到十米，三月时屋下是干地，十月时则已没到脚踝；空邦克良规模更大，位置更远，游客也少得多；冲卡涅斯离暹粒最近，游客也最多。哪个村落适合前往，以及船能否真正驶入被淹没的森林，完全取决于当月的月份。\n\n价格包含会讲波兰语或英语的导游、空调汽车或巴士交通和瓶装水。不包含个人花费和行程中未提及的额外食物和饮料，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人232美元，因此8人的团队总价为1,852美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nSARUS CO., LTD负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "会讲波兰语或英语的导游",
+   "空调汽车或巴士交通",
+   "瓶装水"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "行程中未提及的额外食物和饮料"
+  ]
+ },
+ "silk-island-bicycle-tour-with-lunch-dinner": {
+  "title": "丝绸岛自行车游含午餐/晚餐",
+  "metaTitle": "丝绸岛自行车游含午餐/晚餐",
+  "shortDescription": "Phnom Penh半天游览，含Phnom Penh、Visitor center和Koh Dach and Secret stop。直接向Vana Adventures订位，而非通过分销商。",
+  "fullDescription": "一次半天行程，出发自Phnom Penh，游览Phnom Penh、Visitor center和Koh Dach and Secret stop。\n\n金边位于湄公河、洞里萨河与巴萨河三河交汇之处，西索瓦码头沿岸的滨江大道是当地人傍晚散步的地方。丝绸岛Koh Dach是上游不远处坐船即可到达的小岛，岛上仍有手工织工在自家屋下使用传统织机工作，直接售卖成品。Oudong位于西北方40公里处，曾是王室首都，持续了250多年，直到1866年才结束，山顶的佛塔群至今仍安放着历代国王的骨灰。中央市场的装饰艺术风格圆顶于1937年落成，俄罗斯市场，正式名称是Psar Toul Tom Poung，则是购买银器、丝绸和仿制品的地方。\n\n价格包含酒店接送、英语骑行向导和山地自行车和头盔。不包含其他个人花费和小费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为51美元，5人为205美元，8人为328美元。页面显示的是您整个团队的总价，不是人均单价。\n\nVana Adventures负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "英语骑行向导",
+   "山地自行车和头盔"
+  ],
+  "notIncluded": [
+   "其他个人花费和小费"
+  ]
+ },
+ "angkor-wat-sunrise-and-angkor-thom-guided-tour": {
+  "title": "吴哥窟日出及吴哥城向导游",
+  "metaTitle": "吴哥窟日出及吴哥城向导游",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap、Angkor Thom和Bayon Temple and Ta Prohm Temple。直接向Angkor Pro Travel订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap、Angkor Thom和Bayon Temple and Ta Prohm Temple。\n\n日出时分的吴哥窟，游客会在北侧倒影池边观赏，五座塔楼先在天空下显出黑色轮廓，随后又在水面上映出一次倒影。售票处04:30开门，吴哥窟从05:00开始放人进入，这就是游览团大约04:30从暹粒出发、车程约二十分钟的原因；天空在太阳越过塔顶之前就已经开始变色，所以等到天刚亮才到，已经错过了最精彩的一刻。十一月到三月的旱季天空最干净，而雨季带来的云层有时会毁掉日出，有时反而让日出更美。池边很早就会站满人，南侧的池子通常更安静，一位知道该站哪一侧的向导，往往决定了你拍到的是一张好照片，还是一墙举起的手机。\n\n价格包含酒店接送、专业导游和冷水和冷毛巾。不包含寺庙门票（1日票=37美元）、早餐、午餐及晚餐和个人花费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为169美元，5人为169美元，所以人数越多，每人分摊的费用就越低。\n\nAngkor Pro Travel负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "专业导游",
+   "冷水和冷毛巾"
+  ],
+  "notIncluded": [
+   "寺庙门票（1日票=37美元）",
+   "早餐、午餐及晚餐",
+   "个人花费"
+  ]
+ },
+ "2-day-angkor-wat-banteay-srei-kulen-mountain-and": {
+  "title": "2日吴哥窟、女王宫、贡伦山和崩密列游",
+  "metaTitle": "2日吴哥窟、女王宫、贡伦山和崩密列游",
+  "shortDescription": "Siem Reap2天游览，含Experience the local food for your breakfast、Explore the countyside of Siem Reap和Ta Prohm Temple Exploration and Final stop: Discover the Major temples of Angkor Thom。直接向BREKSA TRAVEL订位，而非通过分销商。",
+  "fullDescription": "一次2天行程，出发自Siem Reap，游览Experience the local food for your breakfast、Explore the countyside of Siem Reap和Ta Prohm Temple Exploration and Final stop: Discover the Major temples of Angkor Thom。全程共有12个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n日出时分的吴哥窟，游客会在北侧倒影池边观赏，五座塔楼先在天空下显出黑色轮廓，随后又在水面上映出一次倒影。售票处04:30开门，吴哥窟从05:00开始放人进入，这就是游览团大约04:30从暹粒出发、车程约二十分钟的原因；天空在太阳越过塔顶之前就已经开始变色，所以等到天刚亮才到，已经错过了最精彩的一刻。十一月到三月的旱季天空最干净，而雨季带来的云层有时会毁掉日出，有时反而让日出更美。池边很早就会站满人，南侧的池子通常更安静，一位知道该站哪一侧的向导，往往决定了你拍到的是一张好照片，还是一墙举起的手机。\n\n价格包含专业英语游览向导、空调交通（小巴/巴士）和酒店接送。不包含贡伦山门票，每人20美元和吴哥通票（2日票，每人62美元），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为455美元，5人为2,925美元，8人为5,096美元。页面显示的是您整个团队的总价，不是人均单价。\n\nBREKSA TRAVEL负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "专业英语游览向导",
+   "空调交通（小巴/巴士）",
+   "酒店接送"
+  ],
+  "notIncluded": [
+   "贡伦山门票，每人20美元",
+   "吴哥通票（2日票，每人62美元）"
   ]
  },
  "kampong-phluk-floating-village-private-sunset-tour": {
@@ -2271,6 +2692,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "寺庙通票，每人37美元"
   ]
  },
+ "sunrise-at-angkor-wat-and-small-tour-with-tours": {
+  "title": "吴哥窟日出及小环线向导游",
+  "metaTitle": "吴哥窟日出及小环线向导游",
+  "shortDescription": "Siem Reap全天游览，含Depends on the selected option、Angkor Wat和South Gate Siem Reap and Bayon Temple。直接向Angkor Pro Travel订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Depends on the selected option、Angkor Wat和South Gate Siem Reap and Bayon Temple。全程共有6个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n日出时分的吴哥窟，游客会在北侧倒影池边观赏，五座塔楼先在天空下显出黑色轮廓，随后又在水面上映出一次倒影。售票处04:30开门，吴哥窟从05:00开始放人进入，这就是游览团大约04:30从暹粒出发、车程约二十分钟的原因；天空在太阳越过塔顶之前就已经开始变色，所以等到天刚亮才到，已经错过了最精彩的一刻。十一月到三月的旱季天空最干净，而雨季带来的云层有时会毁掉日出，有时反而让日出更美。池边很早就会站满人，南侧的池子通常更安静，一位知道该站哪一侧的向导，往往决定了你拍到的是一张好照片，还是一墙举起的手机。\n\n价格包含会英语的向导、瓶装饮用水和往返酒店接送。不包含吴哥窟门票和餐食和饮品，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人16美元，因此8人的团队总价为125美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nAngkor Pro Travel负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "会英语的向导",
+   "瓶装饮用水",
+   "往返酒店接送"
+  ],
+  "notIncluded": [
+   "吴哥窟门票",
+   "餐食和饮品"
+  ]
+ },
  "tonle-sap-kompong-phluk-floating-village-private-t": {
   "title": "洞里萨湖，贡布鲁克水上村私人游",
   "metaTitle": "洞里萨湖，贡布鲁克水上村私人游",
@@ -2300,6 +2736,67 @@ export const ZH_TOURS: Record<string, TourT> = {
    "寺庙门票"
   ]
  },
+ "kulen-mountain-beng-mealea-and-with-asean-angkor": {
+  "title": "贡伦山、崩密列及ASEAN ANGKOR",
+  "metaTitle": "贡伦山、崩密列及ASEAN ANGKOR",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap、Preah Dak和Phnom Kulen National Park and 1000 Lingas。直接向ASEAN ANGKOR GUIDE订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap、Preah Dak和Phnom Kulen National Park and 1000 Lingas。全程共有8个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n洞里萨湖是东南亚最大的淡水湖，每年会两次改变水流方向：雨季时湄公河的水倒灌回洞里萨河，湖面随之扩大数倍，之后大约从十一月开始再次退去。湖上的村落早已习惯这种变化。空邦鲁克的高脚屋立柱高六到十米，三月时屋下是干地，十月时则已没到脚踝；空邦克良规模更大，位置更远，游客也少得多；冲卡涅斯离暹粒最近，游客也最多。哪个村落适合前往，以及船能否真正驶入被淹没的森林，完全取决于当月的月份。\n\n价格包含酒店接送、空调轿车或小型货车接送和专业英语游览向导。不包含贡伦山通票：每人20美元和崩密列通票：每人10美元（有效的吴哥通票也可用于参观），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人64美元，因此8人的团队总价为510美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nASEAN ANGKOR GUIDE负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "空调轿车或小型货车接送",
+   "专业英语游览向导"
+  ],
+  "notIncluded": [
+   "贡伦山通票：每人20美元",
+   "崩密列通票：每人10美元（有效的吴哥通票也可用于参观）"
+  ]
+ },
+ "kulen-mountain-waterfall-and-floating-village-priv": {
+  "title": "贡伦山瀑布及浮村私人游",
+  "metaTitle": "贡伦山瀑布及浮村私人游",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap、Phnom Kulen Mountain和Local restaurant and Kampong Phluk。直接向Authentic Angkor Tours订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap、Phnom Kulen Mountain和Local restaurant and Kampong Phluk。\n\n洞里萨湖是东南亚最大的淡水湖，每年会两次改变水流方向：雨季时湄公河的水倒灌回洞里萨河，湖面随之扩大数倍，之后大约从十一月开始再次退去。湖上的村落早已习惯这种变化。空邦鲁克的高脚屋立柱高六到十米，三月时屋下是干地，十月时则已没到脚踝；空邦克良规模更大，位置更远，游客也少得多；冲卡涅斯离暹粒最近，游客也最多。哪个村落适合前往，以及船能否真正驶入被淹没的森林，完全取决于当月的月份。\n\n价格包含私人丰田埃尔法接送、持证英语导游和参观贡伦山。不包含餐食、个人花费和小费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为272美元，4人为515美元，6人为617美元。页面显示的是您整个团队的总价，不是人均单价。\n\nAuthentic Angkor Tours负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "私人丰田埃尔法接送",
+   "持证英语导游",
+   "参观贡伦山"
+  ],
+  "notIncluded": [
+   "餐食",
+   "个人花费",
+   "小费"
+  ]
+ },
+ "2-day-angkor-wat-and-kulen-mountain-waterfall-priv": {
+  "title": "2日吴哥窟及贡伦山瀑布私人游",
+  "metaTitle": "2日吴哥窟及贡伦山瀑布私人游",
+  "shortDescription": "Siem Reap2天游览，含Angkor Wat、Banteay Kdei和Ta Promh and Ta Nei。直接向Happy Angkor Tour Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次2天行程，出发自Siem Reap，游览Angkor Wat、Banteay Kdei和Ta Promh and Ta Nei。全程共有24个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含酒店接送、持证英语导游和冰镇饮用水和毛巾。不包含吴哥寺庙通票：每人67美元，可用2至3天和贡伦山门票：20美元/人，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为383美元，8人为427美元，所以人数越多，每人分摊的费用就越低。\n\nHappy Angkor Tour Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "持证英语导游",
+   "冰镇饮用水和毛巾"
+  ],
+  "notIncluded": [
+   "吴哥寺庙通票：每人67美元，可用2至3天",
+   "贡伦山门票：20美元/人"
+  ]
+ },
+ "koh-ker-beng-mealea-and-floating-village-sunset-pr": {
+  "title": "Koh Ker、崩密列及浮村日落私人游",
+  "metaTitle": "Koh Ker、崩密列及浮村日落私人游",
+  "shortDescription": "Siem Reap1天游览，含Krong Siem Reap、Kaoh Ker、Cambodia和Prasat Pram and Prasat Neang Khmao。直接向Happy Angkor Tour Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次1天行程，出发自Siem Reap，游览Krong Siem Reap、Kaoh Ker、Cambodia和Prasat Pram and Prasat Neang Khmao。全程共有8个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n洞里萨湖是东南亚最大的淡水湖，每年会两次改变水流方向：雨季时湄公河的水倒灌回洞里萨河，湖面随之扩大数倍，之后大约从十一月开始再次退去。湖上的村落早已习惯这种变化。空邦鲁克的高脚屋立柱高六到十米，三月时屋下是干地，十月时则已没到脚踝；空邦克良规模更大，位置更远，游客也少得多；冲卡涅斯离暹粒最近，游客也最多。哪个村落适合前往，以及船能否真正驶入被淹没的森林，完全取决于当月的月份。\n\n价格包含酒店接送、持证英语导游和冰镇饮用水和毛巾。不包含崩密列寺庙通票和Koh Ker门票，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为325美元，5人为351美元，所以人数越多，每人分摊的费用就越低。\n\nHappy Angkor Tour Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "持证英语导游",
+   "冰镇饮用水和毛巾"
+  ],
+  "notIncluded": [
+   "崩密列寺庙通票",
+   "Koh Ker门票"
+  ]
+ },
  "kbal-spean-banteay-srei-and-landmine-museum-tour": {
   "title": "Kbal Spean、女王宫与地雷博物馆之旅",
   "metaTitle": "Kbal Spean、女王宫与地雷博物馆之旅",
@@ -2315,6 +2812,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "sai-pickup-banteay-srei-and-landmine-museum-transf": {
+  "title": "SAI机场接送：女王宫及地雷博物馆交通",
+  "metaTitle": "SAI机场接送：女王宫及地雷博物馆交通",
+  "shortDescription": "Siem Reap半天游览，含私人机场接送（SAI机场）、会英语的司机和私人空调车辆。直接向Golden Escape Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次半天体验，地点在Siem Reap。运营商将其概括为：享受暹粒吴哥国际机场（SAI）的私人接机服务。\n\nBanteay Srei位于吴哥主神庙群东北37公里处，用一种粉红色砂岩雕刻而成，细节保存程度是其他高棉寺庙都比不上的：门楣和山花雕刻得足够深，能投下真实的阴影，因此它也被称为女人的城堡。它规模不大，967年供奉给湿婆，并且是由一位婆罗门而非国王主持建造的。由于地处偏远，它通常会与Kbal Spean一起参观，那里是千尊林迦之河，湿婆雕像就藏在溪床内外，上行步道大约1.5公里，穿过一片林地。两处景点都比中心区的寺庙更早关门，因此通常安排在上午。\n\n价格包含私人机场接送（SAI机场）、会英语的司机和私人空调车辆。不包含女王宫门票、地雷博物馆门票和餐食和饮品，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为116美元，6人为142美元，所以人数越多，每人分摊的费用就越低。\n\nGolden Escape Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "私人机场接送（SAI机场）",
+   "会英语的司机",
+   "私人空调车辆"
+  ],
+  "notIncluded": [
+   "女王宫门票",
+   "地雷博物馆门票",
+   "餐食和饮品"
+  ]
+ },
  "from-siem-reap-phnom-kulen-mountain-day-trip-with": {
   "title": "暹粒出发古伦山一日游（配导游）",
   "metaTitle": "暹粒出发古伦山一日游（配导游）",
@@ -2328,6 +2841,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "午餐",
    "导游小费"
+  ]
+ },
+ "angkor-wat-sunrise-tour-with-breakfast-and-lunch": {
+  "title": "吴哥窟日出游含早餐和午餐",
+  "metaTitle": "吴哥窟日出游含早餐和午餐",
+  "shortDescription": "Siem Reap全天游览，含Angkor Wat、Angkor Thum、Ta Prohm Temple和Angkor Wat and Banteay Kdei。直接向ASEAN ANGKOR GUIDE订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Angkor Wat、Angkor Thum、Ta Prohm Temple和Angkor Wat and Banteay Kdei。全程共有6个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n日出时分的吴哥窟，游客会在北侧倒影池边观赏，五座塔楼先在天空下显出黑色轮廓，随后又在水面上映出一次倒影。售票处04:30开门，吴哥窟从05:00开始放人进入，这就是游览团大约04:30从暹粒出发、车程约二十分钟的原因；天空在太阳越过塔顶之前就已经开始变色，所以等到天刚亮才到，已经错过了最精彩的一刻。十一月到三月的旱季天空最干净，而雨季带来的云层有时会毁掉日出，有时反而让日出更美。池边很早就会站满人，南侧的池子通常更安静，一位知道该站哪一侧的向导，往往决定了你拍到的是一张好照片，还是一墙举起的手机。\n\n价格包含会讲波兰语或英语的导游、嘟嘟车或汽车交通和日出时的咖啡或茶。不包含吴哥通票（所有寺庙均需购买）和个人花费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人251美元，因此8人的团队总价为2,008美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nASEAN ANGKOR GUIDE负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "会讲波兰语或英语的导游",
+   "嘟嘟车或汽车交通",
+   "日出时的咖啡或茶"
+  ],
+  "notIncluded": [
+   "吴哥通票（所有寺庙均需购买）",
+   "个人花费"
   ]
  },
  "floating-village-war-museum-and-killing-field-tour": {
@@ -2353,6 +2881,38 @@ export const ZH_TOURS: Record<string, TourT> = {
    "酒店接送"
   ],
   "notIncluded": []
+ },
+ "koh-ker-birding-private-tours": {
+  "title": "Koh Ker观鸟私人游",
+  "metaTitle": "Koh Ker观鸟私人游",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap。直接向Golden Escape Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap。\n\n偏远寺庙需要开车半天或一整天才能到达，但也因此而格外清净。Beng Mealea距离暹粒东面约60公里，是一座12世纪的寺庙，规模堪比吴哥窟，大部分区域仍未清理，游客需要踩着木制步道穿越倒塌的回廊。Koh Ker位于东北方向约两小时车程处，曾在10世纪短暂做过都城，这里的Prasat Thom是一座七层砂岩金字塔，高36米，可以沿木制阶梯攀登。Sambor Prei Kuk于2017年被列入联合国教科文组织名录，年代比吴哥本身还要早，前吴哥时期的砖塔至今仍矗立在森林中。其中一些遗址在吴哥通票之外还需单独购票。\n\n价格包含观鸟向导、司机和交通。不包含个人花费、酒精饮料和小费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人344美元，因此8人的团队总价为2,756美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nGolden Escape Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "观鸟向导",
+   "司机",
+   "交通"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "酒精饮料",
+   "小费"
+  ]
+ },
+ "kulen-waterfall-join-in-tour": {
+  "title": "贡伦山瀑布拼团游",
+  "metaTitle": "贡伦山瀑布拼团游",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap、Phnom Kulen National Park和1000 Lingas and Preah Ang Thom Pagoda。直接向Passion Indochina Travel Co.,Ltd.订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap、Phnom Kulen National Park和1000 Lingas and Preah Ang Thom Pagoda。全程共有5个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\nPhnom Kulen是开采吴哥寺庙建筑用砂岩的高原，也是公元802年阇耶跋摩二世自立为天下共主的地方，柬埔寨人将这一年视为帝国的创立之年。上山的路很陡，景点本身单独收取20美元门票，与吴哥通票分开计算。山顶有一处游客可以下水的两层瀑布，河床上雕刻着林迦，是Kbal Spean那处更大的姊妹版本，山顶寺庙里还有一座凿入巨石的卧佛，需要赤脚前往参观。从暹粒出发是一整天的行程，雨季期间或刚过雨季时最适合前往，那时瀑布水量才真正充沛。\n\n价格包含包含、酒店接送和空调车交通。不包含小费、额外饮品和贡伦山国家公园门票，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人84美元，因此8人的团队总价为676美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nPassion Indochina Travel Co.,Ltd.负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "包含",
+   "酒店接送",
+   "空调车交通"
+  ],
+  "notIncluded": [
+   "小费",
+   "额外饮品",
+   "贡伦山国家公园门票"
+  ]
  },
  "kompong-pluk-floating-village-and-flooded-forest-c": {
   "title": "磅平洛浮村与水淹森林社区游",
@@ -2460,6 +3020,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费（可自愿）"
   ]
  },
+ "sihanoukville-city-tour-for-cruise-passengers-with": {
+  "title": "西哈努克市区游（邮轮乘客专属，7个停靠点）",
+  "metaTitle": "西哈努克市区游（邮轮乘客专属，7个停靠点）",
+  "shortDescription": "Siem Reap半天游览，含Depends on the selected option、Independence Monument和Wat IntNhean Called Wat Krom and Tomnub Rolork - Koh Preap Pier。直接向BREKSA TRAVEL订位，而非通过分销商。",
+  "fullDescription": "一次半天行程，出发自Siem Reap，游览Depends on the selected option、Independence Monument和Wat IntNhean Called Wat Krom and Tomnub Rolork - Koh Preap Pier。全程共有9个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n柬埔寨南部海岸是与寺庙完全不同的另一种旅行体验。Kampot坐落在Bokor山下的一条河边，以本地胡椒闻名，游客可以参观那些对外开放的小型胡椒种植园，城里还有一整片法式骑楼街区。Kep距离Kampot约半小时车程，曾是精英云集的海滨小城，如今留下的是一片废弃的现代主义别墅，当地的螃蟹市场会现场用Kampot青胡椒烹制蓝花蟹。Kampot上方的Bokor Hill Station曾是法国人的避暑胜地，先后被废弃两次，如今那座空壳般的赌场大楼大多数清晨都笼罩在云雾中。西哈努克市是港口城市，也是前往Koh Rong和Koh Rong Sanloem的渡轮搭乘点。\n\n价格包含专业英语游览向导、空调面包车或巴士交通和行程中的冰凉瓶装水。不包含食物和软饮料和小费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人324美元，因此4人的团队总价为1,295美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nBREKSA TRAVEL负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "专业英语游览向导",
+   "空调面包车或巴士交通",
+   "行程中的冰凉瓶装水"
+  ],
+  "notIncluded": [
+   "食物和软饮料",
+   "小费"
+  ]
+ },
  "kampot-countryside-bicycle-tour-and-homecooked-lun": {
   "title": "贡布：乡村单车游及家常午餐",
   "metaTitle": "贡布：乡村单车游及家常午餐",
@@ -2555,6 +3130,20 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "1日吴哥通票，每人37美元",
    "午餐和软饮料"
+  ]
+ },
+ "4-day-angkor-wat-banteay-srei-and-tonle-sap": {
+  "title": "4日吴哥窟、女王宫和洞里萨湖游",
+  "metaTitle": "4日吴哥窟、女王宫和洞里萨湖游",
+  "shortDescription": "Siem Reap4天游览，含Hotel transfer and free time、Banteay Srei和Angkor Wat and Angkor Thom and Bayon。直接向Siem Reap Tour Guide订位，而非通过分销商。",
+  "fullDescription": "一次4天行程，出发自Siem Reap，游览Hotel transfer and free time、Banteay Srei和Angkor Wat and Angkor Thom and Bayon。全程共有9个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含第1天暹粒吴哥国际机场（SAI）接机。不包含国际机票、未列明的餐食和个人花费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人996美元，因此8人的团队总价为7,971美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nSiem Reap Tour Guide负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "第1天暹粒吴哥国际机场（SAI）接机"
+  ],
+  "notIncluded": [
+   "国际机票",
+   "未列明的餐食",
+   "个人花费"
   ]
  },
  "angkor-wat-private-full-day-tour-with-german-speak": {
@@ -2659,6 +3248,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食和饮品"
   ]
  },
+ "countryside-and-banteay-srei-temple-cycling-tour-4": {
+  "title": "乡村及女王宫寺庙骑行游（45公里）",
+  "metaTitle": "乡村及女王宫寺庙骑行游（45公里）",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap、CWVH+FQ7和Phnom Bok and វត្តជ័យគិរីមុន្នីរង្សី ហៅវត្តរុន wat run。直接向Angkor Bike Rental Service订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap、CWVH+FQ7和Phnom Bok and វត្តជ័យគិរីមុន្នីរង្សី ហៅវត្តរុន wat run。全程共有7个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\nBanteay Srei位于吴哥主神庙群东北37公里处，用一种粉红色砂岩雕刻而成，细节保存程度是其他高棉寺庙都比不上的：门楣和山花雕刻得足够深，能投下真实的阴影，因此它也被称为女人的城堡。它规模不大，967年供奉给湿婆，并且是由一位婆罗门而非国王主持建造的。由于地处偏远，它通常会与Kbal Spean一起参观，那里是千尊林迦之河，湿婆雕像就藏在溪床内外，上行步道大约1.5公里，穿过一片林地。两处景点都比中心区的寺庙更早关门，因此通常安排在上午。\n\n价格包含英语官方导游（骑行专业向导）、酒店接送和山地自行车和头盔。不包含吴哥考古公园门票（1日票32美元），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为137美元，5人为390美元，8人为468美元。页面显示的是您整个团队的总价，不是人均单价。\n\nAngkor Bike Rental Service负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "英语官方导游（骑行专业向导）",
+   "酒店接送",
+   "山地自行车和头盔"
+  ],
+  "notIncluded": [
+   "吴哥考古公园门票（1日票32美元）"
+  ]
+ },
  "hidden-angkor-temples-and-phnom-bok-sunset-tour": {
   "title": "隐秘吴哥寺庙与普博山日落游",
   "metaTitle": "隐秘吴哥寺庙与普博山日落游",
@@ -2689,6 +3292,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费和小费",
    "旅行保险",
    "餐食和饮品（早餐、午餐）"
+  ]
+ },
+ "museum-and-angkor-wat-sunset-tour-with-tuk-tuk": {
+  "title": "博物馆及吴哥窟日落嘟嘟车游",
+  "metaTitle": "博物馆及吴哥窟日落嘟嘟车游",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap、Preah Norodom Sihanouk-Angkor Museum和Angkor Wat and Local restaurant。直接向Journey Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap、Preah Norodom Sihanouk-Angkor Museum和Angkor Wat and Local restaurant。全程共有8个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含嘟嘟车交通、博物馆门票和酒店接送。不包含食物和餐食和吴哥寺庙通票，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为116美元，5人为232美元，8人为232美元。页面显示的是您整个团队的总价，不是人均单价。\n\nJourney Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "嘟嘟车交通",
+   "博物馆门票",
+   "酒店接送"
+  ],
+  "notIncluded": [
+   "食物和餐食",
+   "吴哥寺庙通票"
   ]
  },
  "roluos-group-temples-and-bakheng-sunset-tour": {
@@ -2832,6 +3450,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "吴哥1日通票，每人37美元"
   ]
  },
+ "cambodian-coffee-experience": {
+  "title": "柬埔寨咖啡体验",
+  "metaTitle": "柬埔寨咖啡体验",
+  "shortDescription": "Siem Reap2小时游览，含Brother Bong Cafe。直接向FEEL GOOD COFFEE ROASTER SIEM REAP订位，而非通过分销商。",
+  "fullDescription": "一次2小时行程，出发自Siem Reap，游览Brother Bong Cafe。\n\n价格包含包含项目、欢迎饮品（当地花茶）和饮用水。不包含不包含和除所提供的高棉甜点和咖啡外的额外食物或饮品，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人32美元，因此8人的团队总价为260美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nFEEL GOOD COFFEE ROASTER SIEM REAP负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "包含项目",
+   "欢迎饮品（当地花茶）",
+   "饮用水"
+  ],
+  "notIncluded": [
+   "不包含",
+   "除所提供的高棉甜点和咖啡外的额外食物或饮品"
+  ]
+ },
  "kampot-and-kep-tour-experience-from-phnom-penh": {
   "title": "金边出发贡布与白马体验游",
   "metaTitle": "金边出发贡布与白马体验游",
@@ -2861,6 +3494,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食和饮品",
    "门票",
    "个人花费"
+  ]
+ },
+ "one-day-angkor-wat-bayon-and-ta-prohm-tour": {
+  "title": "暹粒出发：吴哥窟、巴戎寺和塔普伦寺1日游",
+  "metaTitle": "暹粒出发：吴哥窟、巴戎寺和塔普伦寺1日游",
+  "shortDescription": "Siem Reap全天游览，含Siem Reap Brid。直接向Service Tour Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Siem Reap Brid。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含酒店接送、空调车接送和英语导游及司机。不包含餐食和饮品、个人花费和门票，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为100美元，7人为209美元，8人为302美元。页面显示的是您整个团队的总价，不是人均单价。\n\nService Tour Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "空调车接送",
+   "英语导游及司机"
+  ],
+  "notIncluded": [
+   "餐食和饮品",
+   "个人花费",
+   "门票"
   ]
  },
  "sambor-prei-kuk-and-kompong-khleang-day-tour": {
@@ -2951,6 +3600,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "吴哥1日通票，每人37美元"
+  ]
+ },
+ "riverside-walking-tour-with-snack-drinks-and-local": {
+  "title": "河畔步行游含小吃、饮品和当地渡船",
+  "metaTitle": "河畔步行游含小吃、饮品和当地渡船",
+  "shortDescription": "Phnom Penh3小时游览，含Mad Monkey Phnom Penh和Phnom Penh and Wat Botum Park。直接向Mad Monkey Phnom Penh订位，而非通过分销商。",
+  "fullDescription": "一次3小时行程，出发自Phnom Penh，游览Mad Monkey Phnom Penh和Phnom Penh and Wat Botum Park。\n\n价格包含含导游、当地渡船交通和小吃。不包含小费和个人花费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人9美元，因此3人的团队总价为28美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nMad Monkey Phnom Penh负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "含导游",
+   "当地渡船交通",
+   "小吃"
+  ],
+  "notIncluded": [
+   "小费",
+   "个人花费"
   ]
  },
  "angkor-wat-sunrise-small-group-or-private-guided-t": {
@@ -3185,6 +3849,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "寺庙门票费"
   ]
  },
+ "angkor-wat-sunrise-cycling-shared-and-private": {
+  "title": "吴哥窟日出骑行（拼团或私人）",
+  "metaTitle": "吴哥窟日出骑行（拼团或私人）",
+  "shortDescription": "Siem Reap全天游览，含Angkor Bike Rental Service l សីហា ជួលកង់、Angkor Wat和Banteay Kdei Temple and Local café。直接向Angkor Bike Rental Service订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Angkor Bike Rental Service l សីហា ជួលកង់、Angkor Wat和Banteay Kdei Temple and Local café。全程共有8个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n日出时分的吴哥窟，游客会在北侧倒影池边观赏，五座塔楼先在天空下显出黑色轮廓，随后又在水面上映出一次倒影。售票处04:30开门，吴哥窟从05:00开始放人进入，这就是游览团大约04:30从暹粒出发、车程约二十分钟的原因；天空在太阳越过塔顶之前就已经开始变色，所以等到天刚亮才到，已经错过了最精彩的一刻。十一月到三月的旱季天空最干净，而雨季带来的云层有时会毁掉日出，有时反而让日出更美。池边很早就会站满人，南侧的池子通常更安静，一位知道该站哪一侧的向导，往往决定了你拍到的是一张好照片，还是一墙举起的手机。\n\n价格包含酒店接车及接送、带向导的骑行游览和参观吴哥窟。不包含个人花费、旅行保险和午餐，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人64美元，因此7人的团队总价为446美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nAngkor Bike Rental Service负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接车及接送",
+   "带向导的骑行游览",
+   "参观吴哥窟"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "旅行保险",
+   "午餐"
+  ]
+ },
  "angkor-wat-sunrise-guided-tour-with-best-photos-sp": {
   "title": "吴哥窟日出导览游（绝佳拍照点）",
   "metaTitle": "吴哥窟日出导览游（绝佳拍照点）",
@@ -3294,6 +3974,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "寺庙门票"
   ]
  },
+ "4-day-angkor-wat-kulen-mount-koh-ker-group": {
+  "title": "4日吴哥窟、贡伦山、Koh Ker群和崩密列游",
+  "metaTitle": "4日吴哥窟、贡伦山、Koh Ker群和崩密列游",
+  "shortDescription": "Siem Reap4天游览，含Angkor Wat Temple、Banteay Kdei Temple和Ta Promh Temple and Ta Nei Temple。直接向Happy Angkor Tour Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次4天行程，出发自Siem Reap，游览Angkor Wat Temple、Banteay Kdei Temple和Ta Promh Temple and Ta Nei Temple。全程共有40个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含酒店接送、持证英语导游和冰镇饮用水和毛巾。不包含寺庙通票、Kulen山门票和Koh Ker团体门票，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为803美元，8人为884美元，所以人数越多，每人分摊的费用就越低。\n\nHappy Angkor Tour Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "持证英语导游",
+   "冰镇饮用水和毛巾"
+  ],
+  "notIncluded": [
+   "寺庙通票",
+   "Kulen山门票",
+   "Koh Ker团体门票"
+  ]
+ },
  "shared-angkor-wat-sunrise-tour-with-spanish-guide": {
   "title": "吴哥窟日出拼团游（配西班牙语导游）",
   "metaTitle": "吴哥窟日出拼团游（配西班牙语导游）",
@@ -3308,6 +4004,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "早餐、午餐及晚餐",
    "寺庙通票",
    "个人花费"
+  ]
+ },
+ "koh-ker-beng-mealea-and-rolous-group-sunset-privat": {
+  "title": "Koh Ker、崩密列和Rolous群日落私人1日游",
+  "metaTitle": "Koh Ker、崩密列和Rolous群日落私人1日游",
+  "shortDescription": "Siem Reap1天游览，含Krong Siem Reap、Kaoh Ker、Cambodia和Prasat Pram and Prasat Neang Khmao。直接向Happy Angkor Tour Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次1天行程，出发自Siem Reap，游览Krong Siem Reap、Kaoh Ker、Cambodia和Prasat Pram and Prasat Neang Khmao。全程共有10个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n偏远寺庙需要开车半天或一整天才能到达，但也因此而格外清净。Beng Mealea距离暹粒东面约60公里，是一座12世纪的寺庙，规模堪比吴哥窟，大部分区域仍未清理，游客需要踩着木制步道穿越倒塌的回廊。Koh Ker位于东北方向约两小时车程处，曾在10世纪短暂做过都城，这里的Prasat Thom是一座七层砂岩金字塔，高36米，可以沿木制阶梯攀登。Sambor Prei Kuk于2017年被列入联合国教科文组织名录，年代比吴哥本身还要早，前吴哥时期的砖塔至今仍矗立在森林中。其中一些遗址在吴哥通票之外还需单独购票。\n\n价格包含酒店接送、持证英语导游和冰镇饮用水和毛巾。不包含崩密列/Rolous群寺庙通票和Koh Ker门票，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为303美元，8人为338美元，所以人数越多，每人分摊的费用就越低。\n\nHappy Angkor Tour Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "酒店接送",
+   "持证英语导游",
+   "冰镇饮用水和毛巾"
+  ],
+  "notIncluded": [
+   "崩密列/Rolous群寺庙通票",
+   "Koh Ker门票"
   ]
  },
  "private-angkor-wat-small-circuit-tour": {
@@ -3467,6 +4178,37 @@ export const ZH_TOURS: Record<string, TourT> = {
    "可自费购买食物"
   ]
  },
+ "angkor-museum-and-kampong-kleang-private-trip": {
+  "title": "吴哥博物馆及Kampong Kleang私人游",
+  "metaTitle": "吴哥博物馆及Kampong Kleang私人游",
+  "shortDescription": "Siem Reap全天游览，含暹粒酒店接送、私人空调车辆和会英语的司机。直接向Golden Escape Cambodia订位，而非通过分销商。",
+  "fullDescription": "一次全天体验，地点在Siem Reap。运营商将其概括为：探索吴哥国家博物馆的高棉雕塑及文物。\n\n金边的皇宫自1866年以来一直是柬埔寨国王的住所，如今依然有人居住，因此王室寝宫不对外开放，王座厅也只能从外部参观。同一院落内的银塔因地面铺有五千块银砖而得名，如今大多已加盖保护，殿内供奉着一尊90公斤纯金打造、镶有两千多颗钻石的佛像。王宫在入口处执行着装规定：所有人都必须遮住肩膀和膝盖。隔壁的国家博物馆拥有全世界最好的高棉雕塑收藏，并在午间休息时闭馆。\n\n价格包含暹粒酒店接送、私人空调车辆和会英语的司机。不包含吴哥国家博物馆门票、Kampong Kleang船票（如需要）和餐食和饮品，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为98美元，8人为124美元，所以人数越多，每人分摊的费用就越低。\n\nGolden Escape Cambodia负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "暹粒酒店接送",
+   "私人空调车辆",
+   "会英语的司机"
+  ],
+  "notIncluded": [
+   "吴哥国家博物馆门票",
+   "Kampong Kleang船票（如需要）",
+   "餐食和饮品"
+  ]
+ },
+ "countryside-bike-tour-lotus-farms-and-local-life": {
+  "title": "乡村自行车游、莲花田及当地生活",
+  "metaTitle": "乡村自行车游、莲花田及当地生活",
+  "shortDescription": "Siem Reap1天游览，含Old Market、Mountain bike和Crocodile House and ជុំរំភ្នំក្រោម-Food and Clothing Sr。直接向Siem Reaper Travel订位，而非通过分销商。",
+  "fullDescription": "一次1天行程，出发自Siem Reap，游览Old Market、Mountain bike和Crocodile House and ជុំរំភ្នំក្រោម-Food and Clothing Sr。全程共有8个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n暹粒附近的乡村由稻田、棕糖树和一些小村庄组成，距离神庙大道只有五分钟车程，却很少被走环线的游客看到。棕糖树是国树，男人们每天两次爬上刻着凹槎的树干，从树冠处采集糖浆，熬煮后制成每家高棉厨房都会用到的棕糖。稻作的一年节奏决定了一切：雨季插秧，稻田在雨季里一片翠绿，大约在十一月和十二月收割，之后便是干枯的稻茬和尘土。傍晚时分光线最美，村子里也最热闹，所以大多数这类骑行活动都会一直进行到日落。\n\n价格包含暹粒酒店接送、山地自行车租赁和当地向导。不包含饮料及个人消费和向导小费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为194美元，5人为350美元，8人为467美元。页面显示的是您整个团队的总价，不是人均单价。\n\nSiem Reaper Travel负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "暹粒酒店接送",
+   "山地自行车租赁",
+   "当地向导"
+  ],
+  "notIncluded": [
+   "饮料及个人消费",
+   "向导小费"
+  ]
+ },
  "phnom-krom-sunset-picnic-with-vintage-land-rover": {
   "title": "Phnom Krom日落野餐之旅，复古路虎接送",
   "metaTitle": "Phnom Krom日落野餐之旅，复古路虎接送",
@@ -3535,6 +4277,35 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "门票费",
    "个人花费"
+  ]
+ },
+ "tonle-sap-lake-sunset-and-floating-village-kompung": {
+  "title": "洞里萨湖日落及浮村游（Kompung Phluk）",
+  "metaTitle": "洞里萨湖日落及浮村游（Kompung Phluk）",
+  "shortDescription": "Siem Reap半天游览，含Krong Siem Reap、Bus/coach和River boat and Kampong Phluk。直接向Camboya Travel订位，而非通过分销商。",
+  "fullDescription": "一次半天行程，出发自Siem Reap，游览Krong Siem Reap、Bus/coach和River boat and Kampong Phluk。全程共有5个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n洞里萨湖是东南亚最大的淡水湖，每年会两次改变水流方向：雨季时湄公河的水倒灌回洞里萨河，湖面随之扩大数倍，之后大约从十一月开始再次退去。湖上的村落早已习惯这种变化。空邦鲁克的高脚屋立柱高六到十米，三月时屋下是干地，十月时则已没到脚踝；空邦克良规模更大，位置更远，游客也少得多；冲卡涅斯离暹粒最近，游客也最多。哪个村落适合前往，以及船能否真正驶入被淹没的森林，完全取决于当月的月份。\n\n价格包含当地英语导游、交通和部分啤酒和水。不包含食物，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人32美元，因此8人的团队总价为260美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nCamboya Travel负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "当地英语导游",
+   "交通",
+   "部分啤酒和水"
+  ],
+  "notIncluded": [
+   "食物"
+  ]
+ },
+ "angkor-wat-day-trip-with-japanese-live-guide": {
+  "title": "吴哥窟1日游含日语现场向导",
+  "metaTitle": "吴哥窟1日游含日语现场向导",
+  "shortDescription": "Siem Reap全天游览，含Cambodia、Angkor Wat和Bayon and Angkor Thom and Ta Prohm。直接向Wadi Rum Fire Camp订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Cambodia、Angkor Wat和Bayon and Angkor Thom and Ta Prohm。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含日语向导、暹粒酒店接送和冷饮用水。不包含吴哥考古公园门票和餐食和饮品，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格约为每人64美元，因此6人的团队总价为382美元。本页显示的金额是所选团队规模的总价，不是需要再乘以人数的单价。\n\nWadi Rum Fire Camp负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "日语向导",
+   "暹粒酒店接送",
+   "冷饮用水"
+  ],
+  "notIncluded": [
+   "吴哥考古公园门票",
+   "餐食和饮品"
   ]
  },
  "the-crowd-escape-sunrise-at-angkor-wat": {
@@ -3672,6 +4443,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费和小费"
   ]
  },
+ "full-day-angkor-sunrise-private-tour-and-floating-": {
+  "title": "全天吴哥日出私人游及浮村",
+  "metaTitle": "全天吴哥日出私人游及浮村",
+  "shortDescription": "Siem Reap全天游览，含Krong Siem Reap。直接向Angkor Buddy订位，而非通过分销商。",
+  "fullDescription": "一次全天行程，出发自Siem Reap，游览Krong Siem Reap。\n\n日出时分的吴哥窟，游客会在北侧倒影池边观赏，五座塔楼先在天空下显出黑色轮廓，随后又在水面上映出一次倒影。售票处04:30开门，吴哥窟从05:00开始放人进入，这就是游览团大约04:30从暹粒出发、车程约二十分钟的原因；天空在太阳越过塔顶之前就已经开始变色，所以等到天刚亮才到，已经错过了最精彩的一刻。十一月到三月的旱季天空最干净，而雨季带来的云层有时会毁掉日出，有时反而让日出更美。池边很早就会站满人，南侧的池子通常更安静，一位知道该站哪一侧的向导，往往决定了你拍到的是一张好照片，还是一墙举起的手机。\n\n价格包含私人专业导游、私人空调交通车和接送服务。不包含饮品/啤酒、食物和寺庙门票，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为254美元，8人为254美元，所以人数越多，每人分摊的费用就越低。\n\nAngkor Buddy负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
+  "included": [
+   "私人专业导游",
+   "私人空调交通车",
+   "接送服务"
+  ],
+  "notIncluded": [
+   "饮品/啤酒",
+   "食物",
+   "寺庙门票"
+  ]
+ },
  "angkor-silk-farm-and-mechrey-floating-village-tour": {
   "title": "吴哥丝绸农场与梅切水上村游",
   "metaTitle": "吴哥丝绸农场与梅切水上村游",
@@ -3685,6 +4472,22 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "个人消费或纪念品",
    "午餐"
+  ]
+ },
+ "oudong-mountain-full-day-tour-phnom-penh": {
+  "title": "乌东山全天游",
+  "metaTitle": "乌东山全天游",
+  "shortDescription": "Phnom Penh7小时游览，含Oudong。直接向MyProGuide Cambodia订位，而非通过分销商。",
+  "fullDescription": "这是一次7小时体验，出发自Phnom Penh，围绕Oudong展开。该体验由MyProGuide Cambodia负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n金边位于湄公河、洞里萨河与巴萨河三河交汇之处，西索瓦码头沿岸的滨江大道是当地人傍晚散步的地方。丝绸岛Koh Dach是上游不远处坐船即可到达的小岛，岛上仍有手工织工在自家屋下使用传统织机工作，直接售卖成品。Oudong位于西北方40公里处，曾是王室首都，持续了250多年，直到1866年才结束，山顶的佛塔群至今仍安放着历代国王的骨灰。中央市场的装饰艺术风格圆顶于1937年落成，俄罗斯市场，正式名称是Psar Toul Tom Poung，则是购买银器、丝绸和仿制品的地方。\n\n价格包含专业导游、往返酒店接送和水和毛巾。不包含其他个人花费、食物和门票，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "专业导游",
+   "往返酒店接送",
+   "水和毛巾"
+  ],
+  "notIncluded": [
+   "其他个人花费",
+   "食物",
+   "门票"
   ]
  },
  "sunset-kampong-phluk-floating-village-siem-reap": {
@@ -3702,6 +4505,22 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "morning-foodie-market-walking-and-street-art-tour-": {
+  "title": "金边早晨美食、市场步行及街头艺术游",
+  "metaTitle": "金边早晨美食、市场步行及街头艺术游",
+  "shortDescription": "Phnom Penh游览，含Boeng Keng Kang Market和Central Market Phnom Penh and Sangkat Boeung Kak 1。直接向Authentic Cambodia Experience订位，而非通过分销商。",
+  "fullDescription": "这是一次体验，地点在Phnom Penh，围绕Boeng Keng Kang Market和Central Market Phnom Penh and Sangkat Boeung Kak 1展开。该体验由Authentic Cambodia Experience负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n价格包含酒店接送、嘟嘟车或Vespa摩托车交通、会英语的游览向导和含2份早餐。不包含个人花费和其他未提及的服务，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "酒店接送",
+   "嘟嘟车或Vespa摩托车交通",
+   "会英语的游览向导",
+   "含2份早餐"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "其他未提及的服务"
+  ]
+ },
  "angkor-archaeological-park-private-guided-tour": {
   "title": "吴哥考古公园私人导览游",
   "metaTitle": "吴哥考古公园私人导览游",
@@ -3714,6 +4533,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "吴哥考古公园门票"
+  ]
+ },
+ "siem-reap-floating-village-tour-kompong-phluk-tour": {
+  "title": "暹粒浮村游（Kompong Phluk）",
+  "metaTitle": "暹粒浮村游（Kompong Phluk）",
+  "shortDescription": "Siem Reap5小时游览，含会英语的游览向导、交通（小巴）和大船。直接向Siem Reap Shuttle订位，而非通过分销商。",
+  "fullDescription": "这是一次5小时体验，地点在Siem Reap。该体验由Siem Reap Shuttle负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n洞里萨湖是东南亚最大的淡水湖，每年会两次改变水流方向：雨季时湄公河的水倒灌回洞里萨河，湖面随之扩大数倍，之后大约从十一月开始再次退去。湖上的村落早已习惯这种变化。空邦鲁克的高脚屋立柱高六到十米，三月时屋下是干地，十月时则已没到脚踝；空邦克良规模更大，位置更远，游客也少得多；冲卡涅斯离暹粒最近，游客也最多。哪个村落适合前往，以及船能否真正驶入被淹没的森林，完全取决于当月的月份。\n\n价格包含会英语的游览向导、交通（小巴）和大船。不包含餐食和小船，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "会英语的游览向导",
+   "交通（小巴）",
+   "大船"
+  ],
+  "notIncluded": [
+   "餐食",
+   "小船"
   ]
  },
  "killing-fields-and-s21-genocide-museum-tour-in-phn": {
@@ -4071,6 +4905,55 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "寺庙门票，每人37美元，涵盖行程中的所有寺庙"
+  ]
+ },
+ "angkor-zipline-and-discover-highlight-angkor-wat-w": {
+  "title": "吴哥丛林飞跃及日落吴哥窟亮点探索",
+  "metaTitle": "吴哥丛林飞跃及日落吴哥窟亮点探索",
+  "shortDescription": "Siem Reap8小时游览，含Angkor Wat and Angkor Thom。直接向Cambo Tours Services订位，而非通过分销商。",
+  "fullDescription": "这是一次8小时体验，出发自Siem Reap，围绕Angkor Wat and Angkor Thom展开。该体验由Cambo Tours Services负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含空调小巴交通、酒店接送、导游及司机和冰镇瓶装水和毛巾。不包含吴哥通票：每人37美元和软饮料，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "空调小巴交通",
+   "酒店接送",
+   "导游及司机",
+   "冰镇瓶装水和毛巾"
+  ],
+  "notIncluded": [
+   "吴哥通票：每人37美元",
+   "软饮料"
+  ]
+ },
+ "angkor-wat-cambodian-shopping-tour": {
+  "title": "暹粒柬埔寨佛教洒水祈福及当地市场",
+  "metaTitle": "暹粒柬埔寨佛教洒水祈福及当地市场",
+  "shortDescription": "Siem Reap2小时游览，含Tuk tuk。直接向Cambo Tours Services订位，而非通过分销商。",
+  "fullDescription": "这是一次2小时体验，出发自Siem Reap，围绕Tuk tuk展开。该体验由Cambo Tours Services负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n价格包含导游、嘟嘟车接送、纱笼、寺庙捐款和市场参观。不包含个人花费和导游或司机的小费（自愿），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n可从Siem Reap Province and Krong Siem Reap接送；具体地点和时间将在订单确认后与Cambo Tours Services商定，所选套餐决定是否包含交通。",
+  "included": [
+   "导游",
+   "嘟嘟车接送",
+   "纱笼",
+   "寺庙捐款",
+   "市场参观"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "导游或司机的小费（自愿）"
+  ]
+ },
+ "ultimate-sunrise-to-angkor-wat-angkor-thom-and-bay": {
+  "title": "终极日出游：吴哥窟、吴哥城和巴戎寺",
+  "metaTitle": "终极日出游：吴哥窟、吴哥城和巴戎寺",
+  "shortDescription": "Siem Reap7小时游览，含Angkor Wat和Angkor Thom and Bayon Temple。直接向Pitt Angkor Tour Siem Reap订位，而非通过分销商。",
+  "fullDescription": "这是一次7小时体验，出发自Siem Reap，围绕Angkor Wat和Angkor Thom and Bayon Temple展开。该体验由Pitt Angkor Tour Siem Reap负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含专业英语游览向导、空调小型货车或小巴接送和酒店接送。不包含1日吴哥通票，每人37美元、午餐和软饮料和早餐自费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n可从Krong Siem Reap and Krong Siem Reap接送；具体地点和时间将在订单确认后与Pitt Angkor Tour Siem Reap商定，所选套餐决定是否包含交通。",
+  "included": [
+   "专业英语游览向导",
+   "空调小型货车或小巴接送",
+   "酒店接送"
+  ],
+  "notIncluded": [
+   "1日吴哥通票，每人37美元",
+   "午餐和软饮料",
+   "早餐自费"
   ]
  },
  "full-day-phnom-penh-city-exploration-private-tour": {
@@ -4434,6 +5317,23 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "siem-reap-food-tour-by-tuk-tuk-with-10": {
+  "title": "暹粒嘟嘟车美食游，含10种当地美食品尝",
+  "metaTitle": "暹粒嘟嘟车美食游，含10种当地美食品尝",
+  "shortDescription": "Siem Reap3小时游览，含Siem Reap和Made in Cambodia Market and ភូមិនំបញ្ចុក Phum Num Banh Chok。直接向ASEAN ANGKOR GUIDE订位，而非通过分销商。",
+  "fullDescription": "这是一次3小时体验，地点在Siem Reap，围绕Siem Reap和Made in Cambodia Market and ភូមិនំបញ្ចុក Phum Num Banh Chok展开。该体验由ASEAN ANGKOR GUIDE负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n高棉菜比泰国菜温和，比越南菜更酸，基本调味来自发酵鱼酱prahok，以及用香茅、南姜、姜黄和青柠叶现捣而成的香料kroeung。几乎每个人都会学做的一道菜是鱼amok，一种用椰奶咖喱蒸在香蕉叶杯里直到凝固成布丁状的菜；另一道是lok lak，煎牛肉配青柠胡椒蘸酱。受原产地保护的贡布胡椒常同时出现在这两道菜里。烹饪课通常从集市开始，向导会先带你认识发酵鱼酱、棕糖和河鱼，然后才开始下厨。\n\n价格包含酒店接送、向导、嘟嘟车代步、冰镇瓶装水和1罐当地啤酒。不包含个人花费和葡萄酒，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "酒店接送",
+   "向导",
+   "嘟嘟车代步",
+   "冰镇瓶装水",
+   "1罐当地啤酒"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "葡萄酒"
+  ]
+ },
  "kulen-mountain-small-group-tour-with-picnic-lunch": {
   "title": "库伦山小团之旅，含野餐午餐",
   "metaTitle": "库伦山小团之旅，含野餐午餐",
@@ -4447,6 +5347,36 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "个人花费",
    "小费"
+  ]
+ },
+ "angkor-wat-private-tuk-tuk-tour-english-driver": {
+  "title": "吴哥窟私人嘟嘟车游（英语司机）",
+  "metaTitle": "吴哥窟私人嘟嘟车游（英语司机）",
+  "shortDescription": "Siem Reap3小时游览，含Tuk tuk和Angkor Wat and Ta Prohm Temple。直接向Siem Reap Experiences订位，而非通过分销商。",
+  "fullDescription": "这是一次3小时体验，出发自Siem Reap，围绕Tuk tuk和Angkor Wat and Ta Prohm Temple展开。该体验由Siem Reap Experiences负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含会英语的司机、私人游览及嘟嘟车和往返私人接送。不包含吴哥寺庙通票和持证向导（寺庙内），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "会英语的司机",
+   "私人游览及嘟嘟车",
+   "往返私人接送"
+  ],
+  "notIncluded": [
+   "吴哥寺庙通票",
+   "持证向导（寺庙内）"
+  ]
+ },
+ "angkor-wat-full-day-guided-sunset-tour-siem-reap": {
+  "title": "吴哥窟：全天向导日落游",
+  "metaTitle": "吴哥窟：全天向导日落游",
+  "shortDescription": "Siem Reap8小时游览，含Bus/coach和Angkor Wat and Banteay Kdei。直接向Angkor Wat Travel Tour订位，而非通过分销商。",
+  "fullDescription": "这是一次8小时体验，出发自Siem Reap，围绕Bus/coach和Angkor Wat and Banteay Kdei展开。该体验由Angkor Wat Travel Tour负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含酒店接送、当地游览向导和冷饮用水。不包含门票费用和餐食（早餐和午餐），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "酒店接送",
+   "当地游览向导",
+   "冷饮用水"
+  ],
+  "notIncluded": [
+   "门票费用",
+   "餐食（早餐和午餐）"
   ]
  },
  "quad-bike-tour-of-local-villages-in-siem-reap": {
@@ -4490,6 +5420,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "个人花费"
   ]
  },
+ "countryside-adventure-half-day-tour-in-siem-reap": {
+  "title": "暹粒乡村探险半日游",
+  "metaTitle": "暹粒乡村探险半日游",
+  "shortDescription": "Siem Reap5小时游览，含Siem Reap和Secret stop and Traditional village。直接向BAYON GUIDES订位，而非通过分销商。",
+  "fullDescription": "这是一次5小时体验，地点在Siem Reap，围绕Siem Reap和Secret stop and Traditional village展开。该体验由BAYON GUIDES负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n暹粒附近的乡村由稻田、棕糖树和一些小村庄组成，距离神庙大道只有五分钟车程，却很少被走环线的游客看到。棕糖树是国树，男人们每天两次爬上刻着凹槎的树干，从树冠处采集糖浆，熬煮后制成每家高棉厨房都会用到的棕糖。稻作的一年节奏决定了一切：雨季插秧，稻田在雨季里一片翠绿，大约在十一月和十二月收割，之后便是干枯的稻茬和尘土。傍晚时分光线最美，村子里也最热闹，所以大多数这类骑行活动都会一直进行到日落。\n\n价格包含交通（Vespa摩托车、嘟嘟车、SUV或复古吉普车，视所选选项）、英语导游（选项+已选配英语向导）和暹粒酒店接送。不包含个人花费和旅行保险，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n可从Krong Siem Reap and Krong Siem Reap接送；具体地点和时间将在订单确认后与BAYON GUIDES商定，所选套餐决定是否包含交通。",
+  "included": [
+   "交通（Vespa摩托车、嘟嘟车、SUV或复古吉普车，视所选选项）",
+   "英语导游（选项+已选配英语向导）",
+   "暹粒酒店接送"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "旅行保险"
+  ]
+ },
  "angkor-wat-sunrise-bike-tour-and-jungle-breakfast": {
   "title": "吴哥窟日出单车游及丛林早餐",
   "metaTitle": "吴哥窟日出单车游及丛林早餐",
@@ -4519,6 +5464,37 @@ export const ZH_TOURS: Record<string, TourT> = {
    "饮料及个人消费"
   ]
  },
+ "private-angkor-wat-tour-by-lady-tuk-tuk-siem": {
+  "title": "吴哥窟私人游（女性嘟嘟车司机）",
+  "metaTitle": "吴哥窟私人游（女性嘟嘟车司机）",
+  "shortDescription": "Siem Reap8小时游览，含Tuk tuk和Angkor Wat and South Gate Siem Reap。直接向BAYON GUIDES订位，而非通过分销商。",
+  "fullDescription": "这是一次8小时体验，地点在Siem Reap，围绕Tuk tuk和Angkor Wat and South Gate Siem Reap展开。该体验由BAYON GUIDES负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含私人嘟嘟车（由当地女性嘟嘟车司机驾驶）、暹粒酒店接送、参观吴哥窟、吴哥城、巴戎寺和塔普伦寺、饮用水和冰毛巾。不包含吴哥寺庙通票和餐食及个人消费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n可从Krong Siem Reap and Krong Siem Reap接送；具体地点和时间将在订单确认后与BAYON GUIDES商定，所选套餐决定是否包含交通。",
+  "included": [
+   "私人嘟嘟车（由当地女性嘟嘟车司机驾驶）",
+   "暹粒酒店接送",
+   "参观吴哥窟、吴哥城、巴戎寺和塔普伦寺",
+   "饮用水",
+   "冰毛巾"
+  ],
+  "notIncluded": [
+   "吴哥寺庙通票",
+   "餐食及个人消费"
+  ]
+ },
+ "kompong-khleang-floating-village-full-day-from-sie": {
+  "title": "Kompong Khleang浮村：暹粒出发全天游",
+  "metaTitle": "Kompong Khleang浮村：暹粒出发全天游",
+  "shortDescription": "Siem Reap游览，含Kompong Khleang Floating Village。直接向Tara Riverboat订位，而非通过分销商。",
+  "fullDescription": "这是一次体验，出发自Siem Reap，围绕Kompong Khleang Floating Village展开。该体验由Tara Riverboat负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n洞里萨湖是东南亚最大的淡水湖，每年会两次改变水流方向：雨季时湄公河的水倒灌回洞里萨河，湖面随之扩大数倍，之后大约从十一月开始再次退去。湖上的村落早已习惯这种变化。空邦鲁克的高脚屋立柱高六到十米，三月时屋下是干地，十月时则已没到脚踝；空邦克良规模更大，位置更远，游客也少得多；冲卡涅斯离暹粒最近，游客也最多。哪个村落适合前往，以及船能否真正驶入被淹没的森林，完全取决于当月的月份。\n\n价格包含民宿或酒店接送、空调汽车或小型面包车交通和会英语的向导。不包含小费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "民宿或酒店接送",
+   "空调汽车或小型面包车交通",
+   "会英语的向导"
+  ],
+  "notIncluded": [
+   "小费"
+  ]
+ },
  "8-hour-countryside-quad-bike-tour-in-siem-reap": {
   "title": "暹粒乡村四驱越野车8小时游",
   "metaTitle": "暹粒乡村四驱越野车8小时游",
@@ -4544,6 +5520,20 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "门票，每人37美元"
   ]
+ },
+ "siem-reap-quad-bike-countryside-tour": {
+  "title": "暹粒四轮摩托车乡村游",
+  "metaTitle": "暹粒四轮摩托车乡村游",
+  "shortDescription": "Siem Reap游览，含安全须知及四轮越野车操作讲解、Polaris Trailboss 330四轮越野车租赁、头盔、旱季口罩和雨季雨衣。直接向SIEM REAP QUAD BIKE ADVENTURE订位，而非通过分销商。",
+  "fullDescription": "这是一次体验，地点在Siem Reap。该体验由SIEM REAP QUAD BIKE ADVENTURE负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n暹粒附近的乡村由稻田、棕糖树和一些小村庄组成，距离神庙大道只有五分钟车程，却很少被走环线的游客看到。棕糖树是国树，男人们每天两次爬上刻着凹槎的树干，从树冠处采集糖浆，熬煮后制成每家高棉厨房都会用到的棕糖。稻作的一年节奏决定了一切：雨季插秧，稻田在雨季里一片翠绿，大约在十一月和十二月收割，之后便是干枯的稻茬和尘土。傍晚时分光线最美，村子里也最热闹，所以大多数这类骑行活动都会一直进行到日落。\n\n价格包含安全须知及四轮越野车操作讲解、Polaris Trailboss 330四轮越野车租赁、头盔、旱季口罩和雨季雨衣。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "安全须知及四轮越野车操作讲解",
+   "Polaris Trailboss 330四轮越野车租赁",
+   "头盔",
+   "旱季口罩",
+   "雨季雨衣"
+  ],
+  "notIncluded": []
  },
  "2-day-angkor-temples-beng-mealea-and-banteay-srei": {
   "title": "吴哥寺庙、崩密列与女王宫2日游",
@@ -4574,6 +5564,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "寺庙通票",
    "早餐、午餐及晚餐"
+  ]
+ },
+ "private-angkor-wat-tour-german-speaking-guide": {
+  "title": "吴哥窟私人游（德语向导）",
+  "metaTitle": "吴哥窟私人游（德语向导）",
+  "shortDescription": "Siem Reap8小时游览，含Ta Prohm Temple和Ta Keo Temple and Angkor Thom。直接向Wadi Rum Fire Camp订位，而非通过分销商。",
+  "fullDescription": "这是一次8小时体验，出发自Siem Reap，围绕Ta Prohm Temple和Ta Keo Temple and Angkor Thom展开。该体验由Wadi Rum Fire Camp负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含酒店接送、专业德语导游和清凉冰毛巾。不包含寺庙门票和早餐、午餐和晚餐，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "酒店接送",
+   "专业德语导游",
+   "清凉冰毛巾"
+  ],
+  "notIncluded": [
+   "寺庙门票",
+   "早餐、午餐和晚餐"
   ]
  },
  "morning-food-tour-and-silk-island-trip-with-snacks": {
@@ -4635,6 +5640,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "早餐、午餐和晚餐"
   ]
  },
+ "10-iconic-city-highlights-by-night-tuk-tuk-tour": {
+  "title": "金边夜间嘟嘟车游：10大标志性城市亮点",
+  "metaTitle": "金边夜间嘟嘟车游：10大标志性城市亮点",
+  "shortDescription": "Phnom Penh3小时游览，含专业当地嘟嘟车司机、酒店接送和嘟嘟车往返接送。直接向Cambo Tours Services订位，而非通过分销商。",
+  "fullDescription": "这是一次3小时体验，地点在Phnom Penh。该体验由Cambo Tours Services负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n价格包含专业当地嘟嘟车司机、酒店接送和嘟嘟车往返接送。不包含晚餐（可选您喜欢的餐厅或由司机推荐）和个人花费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "专业当地嘟嘟车司机",
+   "酒店接送",
+   "嘟嘟车往返接送"
+  ],
+  "notIncluded": [
+   "晚餐（可选您喜欢的餐厅或由司机推荐）",
+   "个人花费"
+  ]
+ },
  "angkor-botanical-apopo-killing-fields-and-city": {
   "title": "吴哥植物园、APOPO、杀戮场及城市游",
   "metaTitle": "吴哥植物园、APOPO、杀戮场及城市游",
@@ -4680,6 +5700,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "寺庙门票",
    "早餐、午餐和晚餐"
+  ]
+ },
+ "silk-farm-killing-fields-and-war-museum-by-tuk": {
+  "title": "暹粒丝绸农场、杀人场及战争博物馆嘟嘟车游",
+  "metaTitle": "暹粒丝绸农场、杀人场及战争博物馆嘟嘟车游",
+  "shortDescription": "Siem Reap游览，含接送服务、专业司机，基础英语沟通，路线熟练和如选择导游选项，则配备英语导游。直接向Angkor Daily Trip订位，而非通过分销商。",
+  "fullDescription": "这是一次体验，地点在Siem Reap。该体验由Angkor Daily Trip负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\nTuol Sleng曾是金边的一所中学，1975年被红色高棉改造成S-21安全监狱。先后约有12000到20000人被关押在这里，最终幸存下来的只有十几人。教室里至今还留着铁床架，以及当年政权给每位囚犯拍下的到站照片。Choeung Ek大约在15公里外，是大多数人被带去处决的地方，纪念塔内安放着约5000个头骨；现场的语音导览部分由一位幸存者讲述，这也是大多数参观者能够坚持听完的原因。两处景点都以安静的方式参观，加起来大约需要半天时间，不适合带年幼的孩子前往。\n\n价格包含接送服务、专业司机，基础英语沟通，路线熟练和如选择导游选项，则配备英语导游。不包含杀人场门票（每人3美元）和战争博物馆门票（每人5美元），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "接送服务",
+   "专业司机，基础英语沟通，路线熟练",
+   "如选择导游选项，则配备英语导游"
+  ],
+  "notIncluded": [
+   "杀人场门票（每人3美元）",
+   "战争博物馆门票（每人5美元）"
   ]
  },
  "s-21-prison-killing-fields-and-russian-market-in": {
@@ -4755,6 +5790,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食和饮品"
   ]
  },
+ "angkor-wat-sunrise-tour-by-vintage-jeep": {
+  "title": "复古吉普车吴哥窟日出游",
+  "metaTitle": "复古吉普车吴哥窟日出游",
+  "shortDescription": "Siem Reap8小时游览，含乘复古吉普车于暹粒酒店接送、专业导游和冰毛巾。直接向Angkor Wat Driver Private Tour订位，而非通过分销商。",
+  "fullDescription": "这是一次8小时体验，地点在Siem Reap。该体验由Angkor Wat Driver Private Tour负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n日出时分的吴哥窟，游客会在北侧倒影池边观赏，五座塔楼先在天空下显出黑色轮廓，随后又在水面上映出一次倒影。售票处04:30开门，吴哥窟从05:00开始放人进入，这就是游览团大约04:30从暹粒出发、车程约二十分钟的原因；天空在太阳越过塔顶之前就已经开始变色，所以等到天刚亮才到，已经错过了最精彩的一刻。十一月到三月的旱季天空最干净，而雨季带来的云层有时会毁掉日出，有时反而让日出更美。池边很早就会站满人，南侧的池子通常更安静，一位知道该站哪一侧的向导，往往决定了你拍到的是一张好照片，还是一墙举起的手机。\n\n价格包含乘复古吉普车于暹粒酒店接送、专业导游和冰毛巾。不包含寺庙通票和餐食（早/中/晚），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "乘复古吉普车于暹粒酒店接送",
+   "专业导游",
+   "冰毛巾"
+  ],
+  "notIncluded": [
+   "寺庙通票",
+   "餐食（早/中/晚）"
+  ]
+ },
  "silk-island-and-evening-foodie-full-day-tour-in": {
   "title": "金边丝绸岛及夜间美食全日游",
   "metaTitle": "金边丝绸岛及夜间美食全日游",
@@ -4795,6 +5845,21 @@ export const ZH_TOURS: Record<string, TourT> = {
    "酒店接送"
   ],
   "notIncluded": []
+ },
+ "royal-palace-national-museum-and-wat-phnom-with-pr": {
+  "title": "金边皇宫、国家博物馆及Wat Phnom私人游",
+  "metaTitle": "金边皇宫、国家博物馆及Wat Phnom私人游",
+  "shortDescription": "Phnom Penh4小时游览，含已完全接种疫苗的英语导游及司机、空调车辆（轿车或小型货车）接送和酒店接送。直接向Euro Khmer Voyages订位，而非通过分销商。",
+  "fullDescription": "这是一次4小时体验，地点在Phnom Penh。该体验由Euro Khmer Voyages负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n金边的皇宫自1866年以来一直是柬埔寨国王的住所，如今依然有人居住，因此王室寝宫不对外开放，王座厅也只能从外部参观。同一院落内的银塔因地面铺有五千块银砖而得名，如今大多已加盖保护，殿内供奉着一尊90公斤纯金打造、镶有两千多颗钻石的佛像。王宫在入口处执行着装规定：所有人都必须遮住肩膀和膝盖。隔壁的国家博物馆拥有全世界最好的高棉雕塑收藏，并在午间休息时闭馆。\n\n价格包含已完全接种疫苗的英语导游及司机、空调车辆（轿车或小型货车）接送和酒店接送。不包含门票费用（皇宫和银殿10美元，国家博物馆10美元，Wat Phnom 1美元）和国家博物馆当地向导，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "已完全接种疫苗的英语导游及司机",
+   "空调车辆（轿车或小型货车）接送",
+   "酒店接送"
+  ],
+  "notIncluded": [
+   "门票费用（皇宫和银殿10美元，国家博物馆10美元，Wat Phnom 1美元）",
+   "国家博物馆当地向导"
+  ]
  },
  "sunrise-at-angkor-wat-temple-3-hour-private-tour": {
   "title": "吴哥窟日出3小时私人游",
@@ -4838,6 +5903,22 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "个人花费",
    "小费"
+  ]
+ },
+ "siem-reap-countryside-sunset-haft-day-tour-by-tuk": {
+  "title": "暹粒乡村日落半日嘟嘟车游",
+  "metaTitle": "暹粒乡村日落半日嘟嘟车游",
+  "shortDescription": "Siem Reap5小时游览，含Chreav market和Wat Po Banteaychey and Winery。直接向CWE Travel订位，而非通过分销商。",
+  "fullDescription": "这是一次5小时体验，出发自Siem Reap，围绕Chreav market和Wat Po Banteaychey and Winery展开。该体验由CWE Travel负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n暹粒附近的乡村由稻田、棕糖树和一些小村庄组成，距离神庙大道只有五分钟车程，却很少被走环线的游客看到。棕糖树是国树，男人们每天两次爬上刻着凹槎的树干，从树冠处采集糖浆，熬煮后制成每家高棉厨房都会用到的棕糖。稻作的一年节奏决定了一切：雨季插秧，稻田在雨季里一片翠绿，大约在十一月和十二月收割，之后便是干枯的稻茬和尘土。傍晚时分光线最美，村子里也最热闹，所以大多数这类骑行活动都会一直进行到日落。\n\n价格包含酒店接送、嘟嘟车交通、参观一座佛教寺庙、参观当地家庭经营的店铺和水和小吃。不包含个人花费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "酒店接送",
+   "嘟嘟车交通",
+   "参观一座佛教寺庙",
+   "参观当地家庭经营的店铺",
+   "水和小吃"
+  ],
+  "notIncluded": [
+   "个人花费"
   ]
  },
  "morning-food-tour-market-walking-and-street-art-in": {
@@ -4933,6 +6014,24 @@ export const ZH_TOURS: Record<string, TourT> = {
    "餐食和饮品"
   ]
  },
+ "beng-mealea-temple-floating-village-private-tour": {
+  "title": "崩密列寺庙及浮村私人游",
+  "metaTitle": "崩密列寺庙及浮村私人游",
+  "shortDescription": "Siem Reap游览，含私人专业导游、私人空调交通车、冷饮用水和接送服务。直接向ASEAN ANGKOR GUIDE订位，而非通过分销商。",
+  "fullDescription": "这是一次体验，地点在Siem Reap。该体验由ASEAN ANGKOR GUIDE负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n洞里萨湖是东南亚最大的淡水湖，每年会两次改变水流方向：雨季时湄公河的水倒灌回洞里萨河，湖面随之扩大数倍，之后大约从十一月开始再次退去。湖上的村落早已习惯这种变化。空邦鲁克的高脚屋立柱高六到十米，三月时屋下是干地，十月时则已没到脚踝；空邦克良规模更大，位置更远，游客也少得多；冲卡涅斯离暹粒最近，游客也最多。哪个村落适合前往，以及船能否真正驶入被淹没的森林，完全取决于当月的月份。\n\n价格包含私人专业导游、私人空调交通车、冷饮用水和接送服务。不包含食物、饮料、小费和所有门票费用，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "私人专业导游",
+   "私人空调交通车",
+   "冷饮用水",
+   "接送服务"
+  ],
+  "notIncluded": [
+   "食物",
+   "饮料",
+   "小费",
+   "所有门票费用"
+  ]
+ },
  "angkor-sunrisesunset-private-tour-1-days": {
   "title": "吴哥窟日出/日落私人游：1天",
   "metaTitle": "吴哥窟日出/日落私人游：1天",
@@ -5009,6 +6108,36 @@ export const ZH_TOURS: Record<string, TourT> = {
    "所有门票费用",
    "饮料",
    "小费"
+  ]
+ },
+ "angkor-wat-sunrise-or-sunset-34-hour-guided-tour": {
+  "title": "吴哥窟日出或日落3至4小时向导游",
+  "metaTitle": "吴哥窟日出或日落3至4小时向导游",
+  "shortDescription": "Siem Reap3小时游览，含持证英语导游、嘟嘟车交通和冷饮用水和清凉毛巾。直接向Euro Khmer Voyages订位，而非通过分销商。",
+  "fullDescription": "这是一次3小时体验，地点在Siem Reap。该体验由Euro Khmer Voyages负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n日出时分的吴哥窟，游客会在北侧倒影池边观赏，五座塔楼先在天空下显出黑色轮廓，随后又在水面上映出一次倒影。售票处04:30开门，吴哥窟从05:00开始放人进入，这就是游览团大约04:30从暹粒出发、车程约二十分钟的原因；天空在太阳越过塔顶之前就已经开始变色，所以等到天刚亮才到，已经错过了最精彩的一刻。十一月到三月的旱季天空最干净，而雨季带来的云层有时会毁掉日出，有时反而让日出更美。池边很早就会站满人，南侧的池子通常更安静，一位知道该站哪一侧的向导，往往决定了你拍到的是一张好照片，还是一墙举起的手机。\n\n价格包含持证英语导游、嘟嘟车交通和冷饮用水和清凉毛巾。不包含吴哥寺庙公园门票、个人花费和优质服务小费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "持证英语导游",
+   "嘟嘟车交通",
+   "冷饮用水和清凉毛巾"
+  ],
+  "notIncluded": [
+   "吴哥寺庙公园门票",
+   "个人花费",
+   "优质服务小费"
+  ]
+ },
+ "monk-water-blessing-ritual-full-vessel-pouring-in-": {
+  "title": "暹粒僧人洒水祈福仪式（满钵倾水）",
+  "metaTitle": "暹粒僧人洒水祈福仪式（满钵倾水）",
+  "shortDescription": "Siem Reap3小时游览，含Tuk tuk和Monastery and Hidden gem。直接向Happy Angkor Tour Cambodia订位，而非通过分销商。",
+  "fullDescription": "这是一次3小时体验，出发自Siem Reap，围绕Tuk tuk和Monastery and Hidden gem展开。该体验由Happy Angkor Tour Cambodia负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n价格包含会英语的向导、嘟嘟车接送和常驻僧人洒水祈福。不包含导游或司机的小费（自愿），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "会英语的向导",
+   "嘟嘟车接送",
+   "常驻僧人洒水祈福"
+  ],
+  "notIncluded": [
+   "导游或司机的小费（自愿）"
   ]
  },
  "phnom-penh-to-angkor-wat-bayon-and-ta-prohm": {
@@ -5243,6 +6372,38 @@ export const ZH_TOURS: Record<string, TourT> = {
    "小费"
   ]
  },
+ "evening-food-tour-guided-and-unique-tour-in-siem": {
+  "title": "暹粒晚间美食向导特色游",
+  "metaTitle": "暹粒晚间美食向导特色游",
+  "shortDescription": "Siem Reap游览，含已完全接种疫苗的英语导游及司机、嘟嘟车代步、酒店接送、水、1瓶啤酒和晚餐和所有门票费用。直接向Passion Indochina Travel Co.,Ltd.订位，而非通过分销商。",
+  "fullDescription": "这是一次体验，地点在Siem Reap。该体验由Passion Indochina Travel Co.,Ltd.负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n高棉菜比泰国菜温和，比越南菜更酸，基本调味来自发酵鱼酱prahok，以及用香茅、南姜、姜黄和青柠叶现捣而成的香料kroeung。几乎每个人都会学做的一道菜是鱼amok，一种用椰奶咖喱蒸在香蕉叶杯里直到凝固成布丁状的菜；另一道是lok lak，煎牛肉配青柠胡椒蘸酱。受原产地保护的贡布胡椒常同时出现在这两道菜里。烹饪课通常从集市开始，向导会先带你认识发酵鱼酱、棕糖和河鱼，然后才开始下厨。\n\n价格包含已完全接种疫苗的英语导游及司机、嘟嘟车代步、酒店接送、水、1瓶啤酒和晚餐和所有门票费用。不包含个人花费、葡萄酒和个人花费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "已完全接种疫苗的英语导游及司机",
+   "嘟嘟车代步",
+   "酒店接送",
+   "水、1瓶啤酒和晚餐",
+   "所有门票费用"
+  ],
+  "notIncluded": [
+   "个人花费",
+   "葡萄酒",
+   "个人花费"
+  ]
+ },
+ "phare-the-cambodian-circus-show-with-pickup-and-dr": {
+  "title": "Phare柬埔寨马戏团演出含接送",
+  "metaTitle": "Phare柬埔寨马戏团演出含接送",
+  "shortDescription": "Siem Reap游览，含Phare柬埔寨马戏团演出门票、WiFi和酒店接送。直接向Passion Indochina Travel Co.,Ltd.订位，而非通过分销商。",
+  "fullDescription": "这是一次体验，地点在Siem Reap。该体验由Passion Indochina Travel Co.,Ltd.负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n马德望是柬埔寨的第二大城市，也是其中最安静的一座，这座河畔小城遍布法式骑楼，距离暹粒约三小时车程。竹火车，当地人称为norry，是一节由小型马达驱动、在单轨上行驶的竹制平台；两节车相遇时，较轻的一节会被人力直接抬离铁轨。最初在O Dambong的路线后来被Banan新建的专门旅游轨道取代。黄昏时分，数以百万计的皱唇蝠会从Phnom Sampeau的一处崖洞中飞出，持续约半小时，形成一条不间断的蝙蝠长带，同一座山上还留有红色高棉时期的杀人洞纪念地。\n\n价格包含Phare柬埔寨马戏团演出门票、WiFi和酒店接送。不包含小吃，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "Phare柬埔寨马戏团演出门票",
+   "WiFi",
+   "酒店接送"
+  ],
+  "notIncluded": [
+   "小吃"
+  ]
+ },
  "3-day-angkor-kompong-phluk-and-roluos-temples-tour": {
   "title": "3日游：吴哥、磅平洛及罗洛士寺庙群",
   "metaTitle": "3日游：吴哥、磅平洛及罗洛士寺庙群",
@@ -5281,6 +6442,22 @@ export const ZH_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "angkor-wat-tour-by-tuk-tuk-with-english-speaking": {
+  "title": "吴哥窟嘟嘟车游（英语司机）",
+  "metaTitle": "吴哥窟嘟嘟车游（英语司机）",
+  "shortDescription": "Siem Reap7小时游览，含Tuk tuk和Angkor Wat and Angkor Thom。直接向Angkor Pro Travel订位，而非通过分销商。",
+  "fullDescription": "这是一次7小时体验，出发自Siem Reap，围绕Tuk tuk和Angkor Wat and Angkor Thom展开。该体验由Angkor Pro Travel负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含私人游览及嘟嘟车、私人往返接送和酒店接送。不包含吴哥考古公园门票、寺庙内向导和食物和软饮料，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "私人游览及嘟嘟车",
+   "私人往返接送",
+   "酒店接送"
+  ],
+  "notIncluded": [
+   "吴哥考古公园门票",
+   "寺庙内向导",
+   "食物和软饮料"
+  ]
+ },
  "tofrom-siem-reap-private-transfer": {
   "title": "金边至暹粒私人接送",
   "metaTitle": "金边至暹粒私人接送",
@@ -5310,6 +6487,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "旅行保险",
    "午餐",
    "小费"
+  ]
+ },
+ "phnom-penh-haft-day-tour-to-silk-island-by": {
+  "title": "金边半日嘟嘟车游：丝绸岛",
+  "metaTitle": "金边半日嘟嘟车游：丝绸岛",
+  "shortDescription": "Phnom Penh4小时游览，含酒店接送、英语导游（可选配导游）和经验丰富的嘟嘟车司机。直接向Siem Reap er Travel订位，而非通过分销商。",
+  "fullDescription": "这是一次4小时体验，地点在Phnom Penh。该体验由Siem Reap er Travel负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n金边位于湄公河、洞里萨河与巴萨河三河交汇之处，西索瓦码头沿岸的滨江大道是当地人傍晚散步的地方。丝绸岛Koh Dach是上游不远处坐船即可到达的小岛，岛上仍有手工织工在自家屋下使用传统织机工作，直接售卖成品。Oudong位于西北方40公里处，曾是王室首都，持续了250多年，直到1866年才结束，山顶的佛塔群至今仍安放着历代国王的骨灰。中央市场的装饰艺术风格圆顶于1937年落成，俄罗斯市场，正式名称是Psar Toul Tom Poung，则是购买银器、丝绸和仿制品的地方。\n\n价格包含酒店接送、英语导游（可选配导游）和经验丰富的嘟嘟车司机。不包含其他未提及的服务，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "酒店接送",
+   "英语导游（可选配导游）",
+   "经验丰富的嘟嘟车司机"
+  ],
+  "notIncluded": [
+   "其他未提及的服务"
   ]
  },
  "evening-city-tour-by-tuk-tuk-with-1-dinner": {
@@ -5455,6 +6646,20 @@ export const ZH_TOURS: Record<string, TourT> = {
    "吴哥通票（每人37美元）"
   ]
  },
+ "3-day-angkor-wat-and-all-interesting-temples-with": {
+  "title": "3日吴哥窟及所有精彩寺庙游，含崩密列",
+  "metaTitle": "3日吴哥窟及所有精彩寺庙游，含崩密列",
+  "shortDescription": "Siem Reap3天游览，含Angkor Wat Temple和Banteay Kdei Temple and Ta Promh Temple。直接向Happy Angkor Tour Cambodia订位，而非通过分销商。",
+  "fullDescription": "这是一次3天体验，出发自Siem Reap，围绕Angkor Wat Temple和Banteay Kdei Temple and Ta Promh Temple展开。该体验由Happy Angkor Tour Cambodia负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含酒店接送、持证英语向导和冰镇饮用水和毛巾。不包含寺庙通票：每人62美元（3日票，12岁以下儿童免费），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "酒店接送",
+   "持证英语向导",
+   "冰镇饮用水和毛巾"
+  ],
+  "notIncluded": [
+   "寺庙通票：每人62美元（3日票，12岁以下儿童免费）"
+  ]
+ },
  "kulen-mountain-beng-mealea-and-tonle-sap-tour": {
   "title": "贡伦山、崩密列与洞里萨湖游",
   "metaTitle": "贡伦山、崩密列与洞里萨湖游",
@@ -5506,6 +6711,23 @@ export const ZH_TOURS: Record<string, TourT> = {
    "私人游览及嘟嘟车",
    "私人往返接送",
    "酒店接送"
+  ],
+  "notIncluded": [
+   "吴哥考古公园门票",
+   "餐食"
+  ]
+ },
+ "angkor-wat-2-day-tour-with-sunrise-and-sunset": {
+  "title": "吴哥窟2日游含日出和日落",
+  "metaTitle": "吴哥窟2日游含日出和日落",
+  "shortDescription": "Siem Reap2天游览，含Sun rise small tour and Sun set big tour。直接向Siem Reap Experiences订位，而非通过分销商。",
+  "fullDescription": "这是一次2天体验，出发自Siem Reap，围绕Sun rise small tour and Sun set big tour展开。该体验由Siem Reap Experiences负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含酒店接送、空调小巴、会英语的向导、分2天进行的行程（小环线和大环线）和参观11座寺庙。不包含吴哥考古公园门票和餐食，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "酒店接送",
+   "空调小巴",
+   "会英语的向导",
+   "分2天进行的行程（小环线和大环线）",
+   "参观11座寺庙"
   ],
   "notIncluded": [
    "吴哥考古公园门票",
@@ -5568,6 +6790,40 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "寺庙通票",
    "餐食和饮品"
+  ]
+ },
+ "angkor-wat-sunrise-or-sunset-guided-tour": {
+  "title": "吴哥窟日出或日落向导游",
+  "metaTitle": "吴哥窟日出或日落向导游",
+  "shortDescription": "Siem Reap8小时游览，含Bus/coach和Angkor Wat and Tonle Om Gate (Southern Gate)。直接向Siem Reap Experiences订位，而非通过分销商。",
+  "fullDescription": "这是一次8小时体验，出发自Siem Reap，围绕Bus/coach和Angkor Wat and Tonle Om Gate (Southern Gate)展开。该体验由Siem Reap Experiences负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n日出时分的吴哥窟，游客会在北侧倒影池边观赏，五座塔楼先在天空下显出黑色轮廓，随后又在水面上映出一次倒影。售票处04:30开门，吴哥窟从05:00开始放人进入，这就是游览团大约04:30从暹粒出发、车程约二十分钟的原因；天空在太阳越过塔顶之前就已经开始变色，所以等到天刚亮才到，已经错过了最精彩的一刻。十一月到三月的旱季天空最干净，而雨季带来的云层有时会毁掉日出，有时反而让日出更美。池边很早就会站满人，南侧的池子通常更安静，一位知道该站哪一侧的向导，往往决定了你拍到的是一张好照片，还是一墙举起的手机。\n\n价格包含酒店接送、空调小巴、会英语的游览向导和探索5座不同的寺庙。不包含寺庙通票（寺庙门票费用）和餐食，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "酒店接送",
+   "空调小巴",
+   "会英语的游览向导",
+   "探索5座不同的寺庙"
+  ],
+  "notIncluded": [
+   "寺庙通票（寺庙门票费用）",
+   "餐食"
+  ]
+ },
+ "kulen-elephant-forest-and-tonlesap-lake": {
+  "title": "贡伦象林及洞里萨湖",
+  "metaTitle": "贡伦象林及洞里萨湖",
+  "shortDescription": "Siem Reap7小时游览，含Siem Reap。直接向GREEN ERA TRAVEL订位，而非通过分销商。",
+  "fullDescription": "这是一次7小时体验，地点在Siem Reap，围绕Siem Reap展开。该体验由GREEN ERA TRAVEL负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n价格包含酒店接送、与象同行、Kampong Phluk船游、Kampong Phluk浮村门票和空调轿车或小巴。不包含旅行保险、午餐和小费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "酒店接送",
+   "与象同行",
+   "Kampong Phluk船游",
+   "Kampong Phluk浮村门票",
+   "空调轿车或小巴"
+  ],
+  "notIncluded": [
+   "旅行保险",
+   "午餐",
+   "小费"
   ]
  },
  "cycle-angkor-backroad-bike-tour-e-bike-or-tuk": {
@@ -5688,6 +6944,21 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "寺庙门票（1天，每人37美元）",
    "午餐"
+  ]
+ },
+ "angkor-wat-apsara-dance-show-with-buffet-dinner": {
+  "title": "吴哥窟阿普萨拉舞表演含自助晚餐",
+  "metaTitle": "吴哥窟阿普萨拉舞表演含自助晚餐",
+  "shortDescription": "Siem Reap3小时游览，含私人游览及嘟嘟车、私人往返接送和酒店接送。直接向Angkor Pro Travel订位，而非通过分销商。",
+  "fullDescription": "这是一次3小时体验，地点在Siem Reap。该体验由Angkor Pro Travel负责运营，我们直接向这家运营商订位，而不是通过分销商，这也是我们能在确认订单之前先为您保留名额的原因。\n\n吴哥窟由苏利耶跋摩二世于12世纪上半叶建造，最初是献给毗湿奴的印度教寺庙，后来改为佛教用途，护城河内占地约162公顷，是地球上最大的宗教建筑。与几乎所有其他高棉寺庙不同，它朝向西方。外廊的浮雕长约600米，包括搅乳海的场景，中央塔群象征须弥山。上层有严格执行的着装规定：必须遮住肩膀和膝盖，不能穿背心，否则会在台阶处被拦下。进入需要吴哥通票，一天37美元，三天62美元，七天72美元，只能通过Angkor Enterprise购买；12岁以下儿童凭护照免费入场。\n\n价格包含私人游览及嘟嘟车、私人往返接送和酒店接送。不包含演出期间的各类饮品和个人花费及感谢小费，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。",
+  "included": [
+   "私人游览及嘟嘟车",
+   "私人往返接送",
+   "酒店接送"
+  ],
+  "notIncluded": [
+   "演出期间的各类饮品",
+   "个人花费及感谢小费"
   ]
  },
  "guided-city-bike-tour-with-snacks-in-phnom-penh": {
