@@ -44776,9 +44776,9 @@ export const ZH_TOURS: Record<string, TourT> = {
  "2-day-taj-mahal-with-sos-elephant-fatehpur-sikri": {
   "title": "2天泰姬陵之旅，含SOS大象营地与法塔赫普尔西克里",
   "metaTitle": "2天泰姬陵之旅，含SOS大象营地与法塔赫普尔西克里",
-  "metaDescription": "一次2天的Colombo体验。见证泰姬陵的日出美景，一生难忘的体验。由Tour with Aman提供。",
-  "shortDescription": "一次2天的Colombo体验。见证泰姬陵的日出美景，一生难忘的体验。由Tour with Aman提供。",
-  "fullDescription": "一次2天的Colombo体验。见证泰姬陵的日出美景，一生难忘的体验。\n\n由Tour with Aman负责安排，价格中含8项内容。可免费取消。\n\n价格包含配专业司机的私人空调车辆、酒店住宿（阿格拉1晚）含早餐、阿格拉英语本地向导、古迹门票。不包含个人消费（洗衣、小费、饮品）、午餐及晚餐（除非另有说明）、古迹内摄影摄像费用、行程中未提及的任何额外活动、旅游保险，请另行预算。两位旅客共同支付1092美元，而不是每人各付688美元，因为价格按团而非按人计算。",
+  "metaDescription": "一次2天的Agra体验。见证泰姬陵的日出美景，一生难忘的体验。由Tour with Aman提供。",
+  "shortDescription": "一次2天的Agra体验。见证泰姬陵的日出美景，一生难忘的体验。由Tour with Aman提供。",
+  "fullDescription": "一次2天的Agra体验。见证泰姬陵的日出美景，一生难忘的体验。\n\n由Tour with Aman负责安排，价格中含8项内容。可免费取消。\n\n价格包含配专业司机的私人空调车辆、酒店住宿（阿格拉1晚）含早餐、阿格拉英语本地向导、古迹门票。不包含个人消费（洗衣、小费、饮品）、午餐及晚餐（除非另有说明）、古迹内摄影摄像费用、行程中未提及的任何额外活动、旅游保险，请另行预算。两位旅客共同支付1092美元，而不是每人各付688美元，因为价格按团而非按人计算。",
   "highlights": [
    "见证泰姬陵的日出美景，一生难忘的体验"
   ],
