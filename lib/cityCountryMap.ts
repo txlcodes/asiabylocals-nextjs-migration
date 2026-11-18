@@ -99,7 +99,14 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'dubai': { country: 'uae', city: 'dubai' },
   'abu-dhabi': { country: 'uae', city: 'abu-dhabi' },
   'singapore': { country: 'singapore', city: 'singapore' },
-  'hongkong': { country: 'hong-kong', city: 'hong-kong' },
+  // city must be 'hongkong' (one word) — it's the actual route segment
+  // (/hong-kong/hongkong/<slug>, 200). 'hong-kong' here silently 308-redirected
+  // every one of the 197 live Hong Kong tour URLs the sitemap submitted, found
+  // in the 2026-11-19 GSC audit: app/[country]/[city]/[slug]/page.tsx's own
+  // redirect guard uses the MAP KEY ('hongkong'), not this value, which is why
+  // the live site redirected correctly while the sitemap and getCityUrl() (which
+  // both read .city) built the wrong URL.
+  'hongkong': { country: 'hong-kong', city: 'hongkong' },
   'taipei': { country: 'taiwan', city: 'taipei' },
   'male': { country: 'maldives', city: 'male' },
   'istanbul': { country: 'turkey', city: 'istanbul' },
