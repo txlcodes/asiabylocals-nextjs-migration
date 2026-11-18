@@ -123,6 +123,26 @@ const COUNTRY_META: Record<string, {
       { name: 'Bentota', slug: 'bentota', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1788375894/asiabylocals/tours/from-bentota-kalutara-magical-journey-to-kandy-pinnawala/img0.jpg', tagline: 'River Safaris & Beach Resorts' },
     ],
   },
+  // china and hong-kong had the identical Nepal bug below: the sitemap listed
+  // /china and /hong-kong (lib/sitemapEntries.ts staticPages) and both had a
+  // live, indexed city page (/china/beijing, /china/shanghai, /hong-kong/hongkong
+  // all 200), but the country root itself 404'd because this map never got the
+  // two entries — found during the 2026-11-19 GSC audit via a plain curl loop.
+  china: {
+    title: 'China Tours & Experiences | Local Guides in Beijing & Shanghai | AsiaByLocals',
+    description: 'Book China tours run by verified local operators — the Great Wall and Forbidden City in Beijing, the Bund and historic water towns around Shanghai. Real operators, direct confirmation.',
+    cities: [
+      { name: 'Beijing', slug: 'beijing', image: '/beijing-hero.webp', tagline: 'The Great Wall & Forbidden City' },
+      { name: 'Shanghai', slug: 'shanghai', image: '/shanghai-hero.webp', tagline: 'The Bund & Water Towns' },
+    ],
+  },
+  'hong-kong': {
+    title: 'Hong Kong Tours & Experiences | Local Guides | AsiaByLocals',
+    description: 'Book Hong Kong tours run by verified local operators — Victoria Peak and the harbour, Hong Kong Island heritage walks, and day trips to Macau and Lantau Island. Real operators, direct confirmation.',
+    cities: [
+      { name: 'Hong Kong', slug: 'hongkong', image: '/cities-images/hongkong.webp', tagline: 'Harbour Views, Dim Sum & Day Trips' },
+    ],
+  },
   // /nepal was 404ing while the sitemap submitted it and five Nepal city pages
   // were live and indexable — every one of them orphaned from country level.
   // Only the three cities that actually have approved tours are listed; Chitwan
