@@ -514,7 +514,18 @@ export const TEL_AVIV_INFO_SLUGS: string[] = [
 ];
 
 // Bhutan launched 2026-11-19 with 92 live tours and zero authority pages.
-export const THIMPHU_INFO_SLUGS: string[] = [];
+export const THIMPHU_INFO_SLUGS: string[] = [
+  'best-3-day-bhutan-tour-thimphu', 'best-4-day-bhutan-tour-thimphu',
+  'best-tigers-nest-multi-day-tour-thimphu', 'best-festival-tour-thimphu',
+  'best-photography-tour-thimphu', 'is-thimphu-city-highlights-tour-worth-it',
+  'is-punakha-dzong-day-trip-worth-it-thimphu', 'is-phajoding-monastery-hike-worth-it-thimphu',
+  'is-traditional-craft-workshop-worth-it-thimphu', 'is-bhutan-helicopter-scenic-flight-worth-it',
+  'is-national-dress-photoshoot-worth-it-thimphu', 'is-paro-to-thimphu-day-trip-worth-it',
+  'thimphu-travel-guide-2026', 'best-time-to-visit-thimphu',
+  'bhutan-visa-guide-for-tourists', 'bhutan-sustainable-development-fee-guide',
+  'thimphu-food-guide', 'is-thimphu-safe',
+  'thimphu-dress-code-guide', 'thimphu-weather-guide',
+];
 export const PARO_INFO_SLUGS: string[] = [];
 
 export const JOHOR_BAHRU_INFO_SLUGS = [

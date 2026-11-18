@@ -566,7 +566,18 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-tel-aviv', 'tel-aviv-1-day-itinerary',
     'is-tel-aviv-safe', 'tel-aviv-to-jerusalem-guide',
   ], 'israel', 'tel-aviv');
-  const thimphuInfoPages = mapInfoSlugs([], 'bhutan', 'thimphu');
+  const thimphuInfoPages = mapInfoSlugs([
+    'best-3-day-bhutan-tour-thimphu', 'best-4-day-bhutan-tour-thimphu',
+    'best-tigers-nest-multi-day-tour-thimphu', 'best-festival-tour-thimphu',
+    'best-photography-tour-thimphu', 'is-thimphu-city-highlights-tour-worth-it',
+    'is-punakha-dzong-day-trip-worth-it-thimphu', 'is-phajoding-monastery-hike-worth-it-thimphu',
+    'is-traditional-craft-workshop-worth-it-thimphu', 'is-bhutan-helicopter-scenic-flight-worth-it',
+    'is-national-dress-photoshoot-worth-it-thimphu', 'is-paro-to-thimphu-day-trip-worth-it',
+    'thimphu-travel-guide-2026', 'best-time-to-visit-thimphu',
+    'bhutan-visa-guide-for-tourists', 'bhutan-sustainable-development-fee-guide',
+    'thimphu-food-guide', 'is-thimphu-safe',
+    'thimphu-dress-code-guide', 'thimphu-weather-guide',
+  ], 'bhutan', 'thimphu');
   const paroInfoPages = mapInfoSlugs([
     'best-tigers-nest-hike-tour-paro', 'best-national-museum-tour-paro',
     'best-multi-day-bhutan-tour-paro', 'is-punakha-day-trip-worth-it-paro',
