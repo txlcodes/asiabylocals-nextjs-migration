@@ -385,6 +385,14 @@ export const RIYADH_INFO_SLUGS: string[] = [
   'riyadh-public-transport-guide',
 ];
 
+// Saudi Arabia batch 2 (2026-11-19): Jeddah and AlUla
+export const JEDDAH_INFO_SLUGS: string[] = [];
+export const ALULA_INFO_SLUGS: string[] = [];
+
+// Laos batch 2 (2026-11-19): Vientiane and Vang Vieng
+export const VIENTIANE_INFO_SLUGS: string[] = [];
+export const VANG_VIENG_INFO_SLUGS: string[] = [];
+
 export const JOHOR_BAHRU_INFO_SLUGS = [
   'best-jetski-tour-johor-bahru',
   'best-hop-on-hop-off-tour-johor-bahru', 'best-private-city-tour-johor-bahru',
