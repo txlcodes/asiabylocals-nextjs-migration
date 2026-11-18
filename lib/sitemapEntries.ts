@@ -541,7 +541,18 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'kazakhstan-visa-guide-for-tourists', 'is-almaty-safe',
     'almaty-food-guide', 'almaty-currency-guide',
   ], 'kazakhstan', 'almaty');
-  const ulaanbaatarInfoPages = mapInfoSlugs([], 'mongolia', 'ulaanbaatar');
+  const ulaanbaatarInfoPages = mapInfoSlugs([
+    'best-terelj-national-park-day-tour-ulaanbaatar', 'best-city-tour-ulaanbaatar',
+    'best-hustai-national-park-tour-ulaanbaatar', 'best-gobi-desert-multi-day-tour-ulaanbaatar',
+    'best-kharkhorin-central-mongolia-tour-ulaanbaatar', 'best-khuvsgul-lake-tour-ulaanbaatar',
+    'best-horseback-riding-tour-ulaanbaatar', 'best-nomad-homestay-experience-ulaanbaatar',
+    'is-cooking-class-worth-it-ulaanbaatar', 'is-eagle-hunting-tour-worth-it-ulaanbaatar',
+    'is-shamanic-ceremony-worth-it-ulaanbaatar', 'is-market-tour-worth-it-ulaanbaatar',
+    'is-bar-hopping-tour-worth-it-ulaanbaatar', 'is-walking-tour-worth-it-ulaanbaatar',
+    'ulaanbaatar-travel-guide-2026', 'best-time-to-visit-ulaanbaatar',
+    'ulaanbaatar-1-day-itinerary', 'mongolia-visa-guide-for-tourists',
+    'ulaanbaatar-food-guide', 'ulaanbaatar-weather-guide',
+  ], 'mongolia', 'ulaanbaatar');
   const jerusalemInfoPages = mapInfoSlugs([
     'best-old-city-walking-tour-jerusalem', 'best-bethlehem-day-trip-jerusalem',
     'best-dead-sea-day-trip-jerusalem', 'is-mount-of-olives-tour-worth-it-jerusalem',
