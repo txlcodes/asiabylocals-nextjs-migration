@@ -7868,8 +7868,8 @@ export const ZH_TOURS: Record<string, TourT> = {
   ]
  },
  "kampot-day-trip-to-pepper-farm-temple-and-salt": {
-  "title": "Kampot一日游：胡椒农场、寺庙与盐田",
-  "metaTitle": "Kampot一日游：胡椒农场、寺庙与盐田",
+  "title": "贡布一日游：胡椒农场、寺庙与盐田",
+  "metaTitle": "贡布一日游：胡椒农场、寺庙与盐田",
   "shortDescription": "Phnom Penh1天游览，含Phnom Penh、Kep Crab Market和Brateak Krola and La Plantation。直接向Passion Indochina Travel Co.,Ltd.订位，而非通过分销商。",
   "fullDescription": "一次1天行程，出发自Phnom Penh，游览Phnom Penh、Kep Crab Market和Brateak Krola and La Plantation。全程共有7个停靠点，因此整天行程都安排得很充实，不会在两三个重点景点之间留下很长的空档。\n\n柬埔寨南部海岸是与寺庙完全不同的另一种旅行体验。Kampot坐落在Bokor山下的一条河边，以本地胡椒闻名，游客可以参观那些对外开放的小型胡椒种植园，城里还有一整片法式骑楼街区。Kep距离Kampot约半小时车程，曾是精英云集的海滨小城，如今留下的是一片废弃的现代主义别墅，当地的螃蟹市场会现场用Kampot青胡椒烹制蓝花蟹。Kampot上方的Bokor Hill Station曾是法国人的避暑胜地，先后被废弃两次，如今那座空壳般的赌场大楼大多数清晨都笼罩在云雾中。西哈努克市是港口城市，也是前往Koh Rong和Koh Rong Sanloem的渡轮搭乘点。\n\n价格包含空调车私人接送、持证私人司机和持证专业向导。不包含餐食和寺庙门票，请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n这个价格是按团队计算，而不是按人头计算：1人为486美元，6人为575美元，所以人数越多，每人分摊的费用就越低。\n\nPassion Indochina Travel Co.,Ltd.负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
   "included": [
@@ -9349,8 +9349,8 @@ export const ZH_TOURS: Record<string, TourT> = {
   "notIncluded": []
  },
  "oudong-royal-capital-private-tour-from-phnom-penh": {
-  "title": "金边出发：Oudong王室古都私人之旅",
-  "metaTitle": "金边出发：Oudong王室古都私人之旅",
+  "title": "金边出发：乌东王室古都私人之旅",
+  "metaTitle": "金边出发：乌东王室古都私人之旅",
   "shortDescription": "Phnom Penh半天游览，含Phnom Penh。直接向Welcome Pickups订位，而非通过分销商。",
   "fullDescription": "一次半天行程，出发自Phnom Penh，游览Phnom Penh。\n\n金边位于湄公河、洞里萨河与巴萨河三河交汇之处，西索瓦码头沿岸的滨江大道是当地人傍晚散步的地方。丝绸岛Koh Dach是上游不远处坐船即可到达的小岛，岛上仍有手工织工在自家屋下使用传统织机工作，直接售卖成品。Oudong位于西北方40公里处，曾是王室首都，持续了250多年，直到1866年才结束，山顶的佛塔群至今仍安放着历代国王的骨灰。中央市场的装饰艺术风格圆顶于1937年落成，俄罗斯市场，正式名称是Psar Toul Tom Poung，则是购买银器、丝绸和仿制品的地方。\n\n价格包含酒店接送、私人车辆和燃油费和路桥费。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为224美元，5人为630美元，8人为830美元。页面显示的是您整个团队的总价，不是人均单价。\n\nWelcome Pickups负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
   "included": [
@@ -11377,8 +11377,8 @@ export const ZH_TOURS: Record<string, TourT> = {
   ]
  },
  "udong-hill-long-vek-and-phnom-reap-day-tour": {
-  "title": "Oudong山、Long Vek与Phnom Reap一日游",
-  "metaTitle": "Oudong山、Long Vek与Phnom Reap一日游",
+  "title": "乌东山、Long Vek与Phnom Reap一日游",
+  "metaTitle": "乌东山、Long Vek与Phnom Reap一日游",
   "shortDescription": "Phnom Penh1天游览，含Phnom Penh and Transfer。直接向Private Siem Reap Tour Guide & Transport订位，而非通过分销商。",
   "fullDescription": "一次1天行程，出发自Phnom Penh，游览Phnom Penh and Transfer。\n\n价格包含空调车私人接送、持证私人司机和持证专业向导。不包含门票、餐食和饮品和小费（可自愿），请另行预算。本页已完整列出所有包含项目；未列出的项目即视为不含在价格内。\n\n价格随团队人数阶梯上升，而不是按人数相乘：1人为307美元，5人为307美元，8人为614美元。页面显示的是您整个团队的总价，不是人均单价。\n\nPrivate Siem Reap Tour Guide & Transport负责运营。我们直接向他们订位，因此迎接您的向导是为该运营商工作，而不是为分销商工作。",
   "included": [
