@@ -219,6 +219,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     'kuala-lumpur', 'penang', 'langkawi', 'malacca', 'kota-kinabalu',
     'kuching', 'cameron-highlands', 'ipoh', 'johor-bahru', 'genting-highlands',
     'singapore', 'beijing', 'shanghai',
+    // hongkong: 197 live approved tours (2026-11-19 GSC audit) but missing
+    // from this floor, same gap that let a transient fetch hiccup noindex
+    // live Kyoto/Osaka in 2026-08-26 — see city_page_noindex_allowlist.md.
+    'hongkong',
   ]);
   const noIndex = ALWAYS_INDEX_CITIES.has(city.toLowerCase())
     ? false
