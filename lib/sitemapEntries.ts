@@ -529,10 +529,43 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'vang-vieng-food-guide', 'vang-vieng-nightlife-guide',
   ], 'laos', 'vang-vieng');
 
-  const almatyInfoPages = mapInfoSlugs([], 'kazakhstan', 'almaty');
+  const almatyInfoPages = mapInfoSlugs([
+    'best-charyn-canyon-day-trip-almaty', 'best-2-day-charyn-kolsai-kaindy-tour-almaty',
+    'best-big-almaty-lake-tour-almaty', 'best-altyn-emel-singing-dunes-tour-almaty',
+    'best-city-tour-almaty', 'best-shymbulak-medeu-tour-almaty',
+    'best-issyk-lake-turgen-gorge-tour-almaty', 'best-assy-plateau-tour-almaty',
+    'is-almaty-paragliding-worth-it', 'is-almaty-rock-climbing-worth-it',
+    'best-almaty-mountain-hiking-tour-almaty', 'is-almaty-private-dinner-worth-it',
+    'is-almaty-shooting-tour-worth-it', 'almaty-travel-guide-2026',
+    'best-time-to-visit-almaty', 'almaty-1-day-itinerary',
+    'kazakhstan-visa-guide-for-tourists', 'is-almaty-safe',
+    'almaty-food-guide', 'almaty-currency-guide',
+  ], 'kazakhstan', 'almaty');
   const ulaanbaatarInfoPages = mapInfoSlugs([], 'mongolia', 'ulaanbaatar');
-  const jerusalemInfoPages = mapInfoSlugs([], 'israel', 'jerusalem');
-  const telAvivInfoPages = mapInfoSlugs([], 'israel', 'tel-aviv');
+  const jerusalemInfoPages = mapInfoSlugs([
+    'best-old-city-walking-tour-jerusalem', 'best-bethlehem-day-trip-jerusalem',
+    'best-dead-sea-day-trip-jerusalem', 'is-mount-of-olives-tour-worth-it-jerusalem',
+    'is-jewish-heritage-tour-worth-it-jerusalem', 'is-judean-desert-jeep-adventure-worth-it-jerusalem',
+    'is-archaeological-dig-experience-worth-it-jerusalem', 'best-private-full-day-tour-jerusalem',
+    'is-new-city-tour-worth-it-jerusalem', 'is-israel-museum-tour-worth-it-jerusalem',
+    'best-jerusalem-bethlehem-combo-tour-jerusalem', 'is-wineries-tour-worth-it-jerusalem',
+    'jerusalem-travel-guide-2026', 'best-time-to-visit-jerusalem',
+    'jerusalem-1-day-itinerary', 'israel-visa-guide-for-tourists',
+    'is-jerusalem-safe', 'jerusalem-dress-code-guide',
+    'jerusalem-food-guide', 'jerusalem-public-transport-guide',
+  ], 'israel', 'jerusalem');
+  const telAvivInfoPages = mapInfoSlugs([
+    'best-jaffa-old-city-tour-tel-aviv', 'best-carmel-market-food-tour-tel-aviv',
+    'best-boat-cruise-tour-tel-aviv', 'best-bauhaus-white-city-tour-tel-aviv',
+    'best-caesarea-haifa-acre-day-trip-tel-aviv', 'best-beach-activity-tel-aviv',
+    'best-private-city-tour-tel-aviv', 'best-neve-tzedek-tour-tel-aviv',
+    'is-masada-dead-sea-day-trip-worth-it-tel-aviv', 'is-golan-heights-day-trip-worth-it-tel-aviv',
+    'is-wineries-tour-worth-it-tel-aviv', 'is-bethlehem-day-trip-worth-it-tel-aviv',
+    'is-pub-crawl-worth-it-tel-aviv', 'is-coffee-culture-tour-worth-it-tel-aviv',
+    'is-scavenger-hunt-worth-it-tel-aviv', 'tel-aviv-travel-guide-2026',
+    'best-time-to-visit-tel-aviv', 'tel-aviv-1-day-itinerary',
+    'is-tel-aviv-safe', 'tel-aviv-to-jerusalem-guide',
+  ], 'israel', 'tel-aviv');
   const thimphuInfoPages = mapInfoSlugs([], 'bhutan', 'thimphu');
   const paroInfoPages = mapInfoSlugs([], 'bhutan', 'paro');
 

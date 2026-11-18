@@ -461,14 +461,57 @@ export const VANG_VIENG_INFO_SLUGS: string[] = [
 ];
 
 // Kazakhstan launched 2026-11-19 with 209 live tours and zero authority pages.
-export const ALMATY_INFO_SLUGS: string[] = [];
+export const ALMATY_INFO_SLUGS: string[] = [
+  'best-charyn-canyon-day-trip-almaty', 'best-2-day-charyn-kolsai-kaindy-tour-almaty',
+  'best-big-almaty-lake-tour-almaty', 'best-altyn-emel-singing-dunes-tour-almaty',
+  'best-city-tour-almaty', 'best-shymbulak-medeu-tour-almaty',
+  'best-issyk-lake-turgen-gorge-tour-almaty', 'best-assy-plateau-tour-almaty',
+  'is-almaty-paragliding-worth-it', 'is-almaty-rock-climbing-worth-it',
+  'best-almaty-mountain-hiking-tour-almaty', 'is-almaty-private-dinner-worth-it',
+  'is-almaty-shooting-tour-worth-it', 'almaty-travel-guide-2026',
+  'best-time-to-visit-almaty', 'almaty-1-day-itinerary',
+  'kazakhstan-visa-guide-for-tourists', 'is-almaty-safe',
+  'almaty-food-guide', 'almaty-currency-guide',
+];
 
 // Mongolia launched 2026-11-19 with 139 live tours and zero authority pages.
-export const ULAANBAATAR_INFO_SLUGS: string[] = [];
+export const ULAANBAATAR_INFO_SLUGS: string[] = [
+  'best-terelj-national-park-day-tour-ulaanbaatar', 'best-city-tour-ulaanbaatar',
+  'best-hustai-national-park-tour-ulaanbaatar', 'best-gobi-desert-multi-day-tour-ulaanbaatar',
+  'best-kharkhorin-central-mongolia-tour-ulaanbaatar', 'best-khuvsgul-lake-tour-ulaanbaatar',
+  'best-horseback-riding-tour-ulaanbaatar', 'best-nomad-homestay-experience-ulaanbaatar',
+  'is-cooking-class-worth-it-ulaanbaatar', 'is-eagle-hunting-tour-worth-it-ulaanbaatar',
+  'is-shamanic-ceremony-worth-it-ulaanbaatar', 'is-market-tour-worth-it-ulaanbaatar',
+  'is-bar-hopping-tour-worth-it-ulaanbaatar', 'is-walking-tour-worth-it-ulaanbaatar',
+  'ulaanbaatar-travel-guide-2026', 'best-time-to-visit-ulaanbaatar',
+  'ulaanbaatar-1-day-itinerary', 'mongolia-visa-guide-for-tourists',
+];
 
 // Israel launched 2026-11-19 with 110 live tours and zero authority pages.
-export const JERUSALEM_INFO_SLUGS: string[] = [];
-export const TEL_AVIV_INFO_SLUGS: string[] = [];
+export const JERUSALEM_INFO_SLUGS: string[] = [
+  'best-old-city-walking-tour-jerusalem', 'best-bethlehem-day-trip-jerusalem',
+  'best-dead-sea-day-trip-jerusalem', 'is-mount-of-olives-tour-worth-it-jerusalem',
+  'is-jewish-heritage-tour-worth-it-jerusalem', 'is-judean-desert-jeep-adventure-worth-it-jerusalem',
+  'is-archaeological-dig-experience-worth-it-jerusalem', 'best-private-full-day-tour-jerusalem',
+  'is-new-city-tour-worth-it-jerusalem', 'is-israel-museum-tour-worth-it-jerusalem',
+  'best-jerusalem-bethlehem-combo-tour-jerusalem', 'is-wineries-tour-worth-it-jerusalem',
+  'jerusalem-travel-guide-2026', 'best-time-to-visit-jerusalem',
+  'jerusalem-1-day-itinerary', 'israel-visa-guide-for-tourists',
+  'is-jerusalem-safe', 'jerusalem-dress-code-guide',
+  'jerusalem-food-guide', 'jerusalem-public-transport-guide',
+];
+export const TEL_AVIV_INFO_SLUGS: string[] = [
+  'best-jaffa-old-city-tour-tel-aviv', 'best-carmel-market-food-tour-tel-aviv',
+  'best-boat-cruise-tour-tel-aviv', 'best-bauhaus-white-city-tour-tel-aviv',
+  'best-caesarea-haifa-acre-day-trip-tel-aviv', 'best-beach-activity-tel-aviv',
+  'best-private-city-tour-tel-aviv', 'best-neve-tzedek-tour-tel-aviv',
+  'is-masada-dead-sea-day-trip-worth-it-tel-aviv', 'is-golan-heights-day-trip-worth-it-tel-aviv',
+  'is-wineries-tour-worth-it-tel-aviv', 'is-bethlehem-day-trip-worth-it-tel-aviv',
+  'is-pub-crawl-worth-it-tel-aviv', 'is-coffee-culture-tour-worth-it-tel-aviv',
+  'is-scavenger-hunt-worth-it-tel-aviv', 'tel-aviv-travel-guide-2026',
+  'best-time-to-visit-tel-aviv', 'tel-aviv-1-day-itinerary',
+  'is-tel-aviv-safe', 'tel-aviv-to-jerusalem-guide',
+];
 
 // Bhutan launched 2026-11-19 with 92 live tours and zero authority pages.
 export const THIMPHU_INFO_SLUGS: string[] = [];
