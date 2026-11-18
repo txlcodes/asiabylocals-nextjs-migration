@@ -413,6 +413,675 @@ export function getLaosInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-hot-air-balloon-tour-vang-vieng":
+            return {
+                title: "Which Is the Best Hot Air Balloon Tour in Vang Vieng?",
+                seoTitle: "Best Hot Air Balloon Tour Vang Vieng 2026 | Comparison",
+                description: "Compare real hot air balloon rides in Vang Vieng — from a $220 sunrise/sunset flight to combos with kayaking, paramotor, and longtail boat rides.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-balloon.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Vang Vieng's karst limestone scenery is one of the best hot air balloon backdrops in Southeast Asia, and most flights run at sunrise or sunset for the best light. Standalone flights and combo days with kayaking or paramotor are the two main paths.", tourCard: { slug: "vang-vieng-hot-air-balloon-ride-at-sunrise-or", title: "Vang Vieng: Hot Air Balloon Ride at Sunrise or Sunset", description: "A standalone hot air balloon flight timed for sunrise or sunset.", price: "From $228", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-balloon.webp" } },
+                    { title: "Cheapest: Sunrise or Sunset Ride", content: "At $228, this is the standard standalone balloon flight — pick sunrise or sunset depending on your schedule.", tourCard: { slug: "vang-vieng-hot-air-balloon-ride-at-sunrise-or", title: "Vang Vieng: Hot Air Balloon Ride at Sunrise or Sunset", description: "The standard standalone sunrise/sunset flight.", price: "From $228", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-balloon.webp" } },
+                    { title: "Best with Hotel Pickup: Ride with City Hotel Pickup", content: "This bundles hotel pickup directly into the flight booking, one less logistics step on an early-morning or sunset schedule.", tourCard: { slug: "vang-vieng-hot-air-balloon-ride-with-city-hotel", title: "Vang Vieng: Hot Air Balloon Ride with City Hotel Pickup", description: "A balloon ride with hotel pickup included.", price: "From $224", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-balloon.webp" } },
+                    { title: "Best Combo: + Kayaking", content: "Pairs the balloon ride with a kayaking session on the Nam Song, combining the valley's two signature activities in one day.", tourCard: { slug: "vang-vieng-kayaking-hot-air-balloon-with-hotel", title: "Vang Vieng: Kayaking & Hot Air Balloon with Hotel Pick-Up", description: "A combo day of kayaking and a hot air balloon ride.", price: "From $221", duration: "3.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-balloon.webp" } },
+                    { title: "Best Full-Day Combo: Balloon, Kayak, Zipline & Lagoon", content: "The most activity-packed version, fitting the balloon ride alongside kayaking, ziplining, and a Blue Lagoon stop into one full day.", tourCard: { slug: "vang-vieng-hot-air-balloon-kayak-zipline-blue", title: "Vang Vieng: Hot Air Balloon, Kayak, Zipline, Blue Lagoon 2 Tour", description: "A full-day combo of balloon, kayak, zipline, and Blue Lagoon.", price: "From $242", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-balloon.webp" } },
+                    { title: "Best for a Longer Trip: 2-Day Balloon & Paramotor Adventure", content: "For travellers who want to spread the balloon and paramotor experiences across two days rather than packing everything into one.", tourCard: { slug: "vang-vieng-2-day-adventure-with-hot-air-balloon", title: "Vang Vieng: 2-Day Adventure with Hot Air Balloon & Paramotor", description: "A 2-day adventure combining a balloon ride and paramotor flight.", price: "From $402", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-balloon.webp" } },
+                    { title: "Practical Tips", content: "Balloon flights are weather-dependent and can be cancelled or rescheduled on short notice if winds pick up — avoid booking on your last morning in Vang Vieng if you can. Sunrise flights tend to have calmer air than sunset." }
+                ],
+                faqs: [
+                    { q: "What is the best hot air balloon tour in Vang Vieng?", a: "A standalone sunrise or sunset flight suits most visitors; combo days add kayaking, zipline, or paramotor." },
+                    { q: "Can weather cancel a Vang Vieng balloon flight?", a: "Yes, flights are weather-dependent and can be rescheduled on short notice." },
+                    { q: "Is sunrise or sunset better for a balloon ride?", a: "Both offer great light; sunrise tends to have calmer air." }
+                ],
+            };
+
+        case "best-blue-lagoon-tour-vang-vieng":
+            return {
+                title: "Which Is the Best Blue Lagoon Tour in Vang Vieng?",
+                seoTitle: "Best Blue Lagoon Tour Vang Vieng 2026 | Comparison",
+                description: "Compare real Blue Lagoon tours in Vang Vieng — from a focused viewpoint-and-lagoon trip to full-day combos with kayaking, caves, and ziplining.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-bluelagoon.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Vang Vieng has multiple numbered 'Blue Lagoons' (1, 2, 3), each a swimmable turquoise pool, and tours typically pair a specific lagoon with a viewpoint hike or cave visit nearby.", tourCard: { slug: "vang-vieng-namxay-viewpoint-blue-lagoon-1", title: "Vang Vieng: Namxay Viewpoint, Blue Lagoon 1 & Phoukham Cave", description: "Blue Lagoon 1 paired with the Namxay Viewpoint hike and a cave visit.", price: "From $38", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-bluelagoon.webp" } },
+                    { title: "Cheapest: Namxay Viewpoint & Lagoon 1", content: "At $38, this is the lowest-priced way to combine a viewpoint hike, Blue Lagoon 1, and a cave stop.", tourCard: { slug: "vang-vieng-namxay-viewpoint-blue-lagoon-1", title: "Vang Vieng: Namxay Viewpoint, Blue Lagoon 1 & Phoukham Cave", description: "Budget viewpoint and lagoon combo.", price: "From $38", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-bluelagoon.webp" } },
+                    { title: "Best for Lagoon 3: Pha Hor Kham Viewpoint & Cave", content: "This version focuses on Lagoon 3 instead, paired with the Pha Hor Kham viewpoint and a cave stop — a quieter alternative to the more crowded Lagoon 1.", tourCard: { slug: "vang-vieng-pha-hor-kham-viewpoint-cave-blue", title: "Vang Vieng: Pha Hor Kham Viewpoint, Cave & Blue Lagoon 3", description: "Blue Lagoon 3 with the Pha Hor Kham viewpoint.", price: "From $65", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-bluelagoon.webp" } },
+                    { title: "Best with Tubing: Waterfall, Tubing, Angel Cave & Lagoon 3", content: "Adds river tubing and a waterfall stop to the Lagoon 3 and cave combo, for a more varied adventure day.", tourCard: { slug: "vang-vieng-waterfall-tubing-angel-cave-blue", title: "Vang Vieng: Waterfall, Tubing, Angel Cave & Blue Lagoon3", description: "Lagoon 3 combined with tubing and a waterfall stop.", price: "From $156", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-bluelagoon.webp" } },
+                    { title: "Most Active: Zipline, Kayak, Nam Xay & Lagoon 2 + Optional Paramotor", content: "The most activity-dense version, combining ziplining, kayaking, and the Nam Xay viewpoint with Lagoon 2, plus an optional paramotor add-on.", tourCard: { slug: "vang-vieng-zipline-kayak-nam-xay-lagoon-2", title: "Vang Vieng: Zipline, Kayak, Nam Xay, Lagoon 2 & Optional Paramotor", description: "A fully-loaded day combining zipline, kayak, viewpoint, and lagoon.", price: "From $77", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-bluelagoon.webp" } },
+                    { title: "Practical Tips", content: "Lagoon 1 is the most famous and most crowded — Lagoon 2 and 3 are quieter alternatives with similar turquoise water if you want fewer crowds. Bring a swimsuit and water shoes since the lagoon floors can be rocky." }
+                ],
+                faqs: [
+                    { q: "What is the best Blue Lagoon tour in Vang Vieng?", a: "A viewpoint-and-lagoon combo suits most visitors; Lagoon 2 or 3 are quieter than the famous Lagoon 1." },
+                    { q: "How many Blue Lagoons are there in Vang Vieng?", a: "Several numbered lagoons (1, 2, 3), each a separate swimmable turquoise pool." },
+                    { q: "Is Blue Lagoon 1 worth visiting despite the crowds?", a: "Yes, it's still scenic, but Lagoon 2/3 are quieter if that matters more to you." }
+                ],
+            };
+
+        case "best-paramotor-tour-vang-vieng":
+            return {
+                title: "Which Is the Best Paramotor Tour in Vang Vieng?",
+                seoTitle: "Best Paramotor Tour Vang Vieng 2026 | Comparison",
+                description: "Compare real paramotor (powered paragliding) flights in Vang Vieng — from a $206 short experience to longer sky tours and multi-activity combos.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-paramotor.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Paramotor flights give an aerial view of Vang Vieng's karst scenery similar to a hot air balloon but faster and more maneuverable, since it's a powered paraglider rather than a free-floating balloon.", tourCard: { slug: "vang-vieng-paramotor-experience-with-hotel-pickup", title: "Vang Vieng: Paramotor Experience with Hotel Pickup", description: "A short paramotor flight with hotel pickup included.", price: "From $206", duration: "15 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-paramotor.webp" } },
+                    { title: "Cheapest: Paramotor Experience with Pickup", content: "At $206, this is the standard entry-level paramotor flight with hotel pickup bundled in.", tourCard: { slug: "vang-vieng-paramotor-experience-with-hotel-pickup", title: "Vang Vieng: Paramotor Experience with Hotel Pickup", description: "The budget standard flight.", price: "From $206", duration: "15 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-paramotor.webp" } },
+                    { title: "Best for a Longer Flight: Paramotor Sky Tour", content: "A longer flight than the base option, giving more time in the air over the valley.", tourCard: { slug: "vang-vieng-paramotor-sky-tour-with-hotel-pickup", title: "Vang Vieng: Paramotor Sky Tour with Hotel Pickup", description: "A longer paramotor sky tour.", price: "From $220", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-paramotor.webp" } },
+                    { title: "Best Combo: + Longtail Boat", content: "Pairs the paramotor flight with a longtail boat ride on the Nam Song, combining an air and water perspective in one outing.", tourCard: { slug: "vang-vieng-longtail-boat-paramotor-hotel-pick-up", title: "Vang Vieng: Longtail boat & Paramotor & hotel pick-up", description: "A paramotor flight combined with a longtail boat ride.", price: "From $218", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-paramotor.webp" } },
+                    { title: "Most Active: Paramotor, 2 Caves, Zipline, Kayak & Lagoon", content: "The most activity-packed paramotor day, adding two caves, ziplining, kayaking, and a lagoon stop.", tourCard: { slug: "vang-viengparamotor-2caves-zipline-kayak-lagoon-3", title: "Vang Vieng: Paramotor, 2Caves, Zipline, Kayak, lagoon 3", description: "A fully-loaded paramotor adventure day.", price: "From $259", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-paramotor.webp" } },
+                    { title: "Practical Tips", content: "Paramotor flights are also weather-dependent like balloon rides — morning slots tend to have calmer air. If you're nervous about flying, the shorter 15-minute options are a lower-commitment way to try it." }
+                ],
+                faqs: [
+                    { q: "What is the best paramotor tour in Vang Vieng?", a: "The standard 15-minute flight with hotel pickup suits first-timers; longer sky tours or combos suit those wanting more." },
+                    { q: "Is paramotor flying safe in Vang Vieng?", a: "Operators run standard tandem flights with experienced pilots, similar in safety profile to tandem paragliding elsewhere." },
+                    { q: "Paramotor vs hot air balloon — which is better?", a: "Paramotor is faster and more maneuverable; balloon is slower and more scenic/photogenic — both show the same karst scenery." }
+                ],
+            };
+
+        case "best-kayaking-cave-tour-vang-vieng":
+            return {
+                title: "Which Is the Best Kayaking & Cave Tour in Vang Vieng?",
+                seoTitle: "Best Kayaking Cave Tour Vang Vieng 2026 | Comparison",
+                description: "Compare real kayaking and cave combo tours on the Nam Song river in Vang Vieng, from a half-day option to full zipline/lagoon combos.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-kayak.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Kayaking on the Nam Song is almost always paired with a cave stop (Tham Chang being the most common), since the river route passes right by several cave entrances.", tourCard: { slug: "vang-vieng-half-day-kayak-cave-adventure", title: "Vang Vieng: Half day-Kayak & Cave Adventure", description: "A half-day kayaking and cave combo.", price: "From $43", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-kayak.webp" } },
+                    { title: "Cheapest: Half-Day Kayak & Cave", content: "At $43, this covers a half-day of kayaking plus a cave stop, the simplest version of the combo.", tourCard: { slug: "vang-vieng-half-day-kayak-cave-adventure", title: "Vang Vieng: Half day-Kayak & Cave Adventure", description: "The budget half-day option.", price: "From $43", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-kayak.webp" } },
+                    { title: "Best Focused River Trip: Nam Song River Kayak Tour", content: "This keeps the focus purely on the river paddle itself, without necessarily stopping for extra cave/lagoon detours.", tourCard: { slug: "vang-vieng-nam-song-river-kayak-tour", title: "Vang Vieng: Nam Song River Kayak Tour", description: "A focused river kayaking tour.", price: "From $44", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-kayak.webp" } },
+                    { title: "Best with More Stops: Kayak, Water Cave, Tham Chang & Blue Lagoon", content: "Adds a water cave and the Blue Lagoon to the standard kayak-and-cave route, covering more ground in one outing.", tourCard: { slug: "vang-viengkayakingwater-cavetham-chang-caveblue", title: "Vang Vieng: Kayaking & Water Cave & Tham Chang Cave & Blue Lagoon 2", description: "Kayaking combined with multiple caves and the Blue Lagoon.", price: "From $30", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-kayak.webp" } },
+                    { title: "Most Active: Kayaking, Zipline, Water Cave & Tham Chang", content: "This adds ziplining to the kayak-and-cave mix, for travellers who want an adrenaline element alongside the paddling.", tourCard: { slug: "vang-vieng-kayaking-zipline-water-cave-tham-chang", title: "Vang Vieng: Kayaking, Zipline, Water Cave & Tham Chang tour", description: "Kayaking and caves combined with ziplining.", price: "From $64", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-kayak.webp" } },
+                    { title: "Practical Tips", content: "The Nam Song's water level varies seasonally — the dry season (roughly November-April) has calmer, shallower water than the wet season's faster current. Wear quick-dry clothing and secure your phone/camera in a waterproof bag." }
+                ],
+                faqs: [
+                    { q: "What is the best kayaking tour in Vang Vieng?", a: "A half-day kayak-and-cave combo suits most visitors; add zipline or Blue Lagoon stops for a fuller day." },
+                    { q: "Is Nam Song River kayaking suitable for beginners?", a: "Yes, most routes are gentle enough for first-time kayakers, though water speed varies by season." },
+                    { q: "Which cave is most commonly visited on kayak tours?", a: "Tham Chang, the most accessible cave along the Nam Song's kayaking route." }
+                ],
+            };
+
+        case "is-nam-song-tubing-worth-it-vang-vieng":
+            return {
+                title: "Is Nam Song River Tubing Worth It in Vang Vieng?",
+                seoTitle: "Vang Vieng Tubing 2026 | Honest Review",
+                description: "An honest look at Nam Song river tubing, Vang Vieng's most famous (and historically controversial) activity.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-tubing.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Tubing — floating down the Nam Song in an inflatable tube — is Vang Vieng's signature activity and still worth doing for the scenery, though it's far tamer today than its party-heavy reputation from a decade ago after safety crackdowns closed most riverside bars.", tourCard: { slug: "nam-song-river-tubing-experience-with-hotel-pickup", title: "Nam Song River Tubing Experience with Hotel Pickup", description: "A standard tubing trip down the Nam Song with hotel pickup.", price: "From $82", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-tubing.webp" } },
+                    { title: "Practical Tips", content: "Wear a life jacket even though the current is generally gentle, secure valuables in a dry bag or leave them at your hotel, and check the current season's water level — tubing can be suspended during very low or very high water." }
+                ],
+                faqs: [
+                    { q: "Is tubing in Vang Vieng still worth it?", a: "Yes, for the scenery, though it's much tamer than its old party reputation after safety crackdowns closed most riverside bars." },
+                    { q: "Is tubing in Vang Vieng safe?", a: "Generally yes with a life jacket and sensible precautions; the current is usually gentle but varies by season." }
+                ],
+            };
+
+        case "is-village-trekking-worth-it-vang-vieng":
+            return {
+                title: "Is Village Trekking Worth It in Vang Vieng?",
+                seoTitle: "Vang Vieng Village Trekking 2026 | Honest Review",
+                description: "An honest look at Hmong village trekking tours around Vang Vieng.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-village.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This full-day trek visits a Hmong hill-tribe village with a picnic lunch included, giving a genuine look at rural Laotian life away from Vang Vieng's adventure-sports strip.", tourCard: { slug: "vang-vieng-hmong-village-trekking-tour-with", title: "Vang Vieng: Hmong Village Trekking Tour with Picnic Lunch", description: "A full-day trek to a Hmong hill-tribe village with lunch.", price: "From $195", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-village.webp" } },
+                    { title: "Practical Tips", content: "Wear sturdy walking shoes and modest clothing out of respect for the village you're visiting — ask your guide about any specific local customs before arriving." }
+                ],
+                faqs: [
+                    { q: "Is Hmong village trekking worth it in Vang Vieng?", a: "Yes, for a genuine cultural experience beyond the adventure-sports activities Vang Vieng is best known for." },
+                    { q: "What should I wear for village trekking?", a: "Sturdy walking shoes and modest clothing, out of respect for the community you're visiting." }
+                ],
+            };
+
+        case "is-go-karting-worth-it-vang-vieng":
+            return {
+                title: "Is Go Karting Worth It in Vang Vieng?",
+                seoTitle: "Vang Vieng Go Karting 2026 | Honest Review",
+                description: "An honest look at go-karting as an add-on activity in Vang Vieng.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-karting.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Go-karting shows up here mostly as an add-on to bigger multi-activity days (paired with ziplining, kayaking, or paramotor) rather than a standalone attraction — worth it if it's bundled into a combo day you're already doing.", tourCard: { slug: "vang-vieng-ziplinekayakinggo-karting", title: "Vang Vieng: Zipline, Kayaking, Go Karting", description: "A combo day including zipline, kayaking, and go-karting.", price: "From $141", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-karting.webp" } },
+                    { title: "Practical Tips", content: "If go-karting itself isn't your main interest, look for it bundled into a combo day rather than booking it as a standalone activity." }
+                ],
+                faqs: [
+                    { q: "Is go-karting worth it in Vang Vieng?", a: "Mostly as a bundled add-on to bigger combo days rather than a standalone must-do." }
+                ],
+            };
+
+        case "is-paragliding-worth-it-vang-vieng":
+            return {
+                title: "Is Paragliding Worth It in Vang Vieng?",
+                seoTitle: "Vang Vieng Paragliding 2026 | Honest Review",
+                description: "An honest look at the paragliding flight experience in Vang Vieng, distinct from powered paramotor flights.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-paragliding.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Unlike paramotor (which has an engine), this is unpowered paragliding — typically launched from a hillside and gliding down over the valley, a quieter and shorter flight experience.", tourCard: { slug: "vang-vieng-paragliding-flight-experience", title: "Vang Vieng: Paragliding Flight Experience", description: "An unpowered paragliding flight over the valley.", price: "From $260", duration: "15 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-paragliding.webp" } },
+                    { title: "Practical Tips", content: "Paragliding depends on wind conditions more than paramotor does, since there's no engine to compensate — flights may be rescheduled if conditions aren't right." }
+                ],
+                faqs: [
+                    { q: "What's the difference between paragliding and paramotor in Vang Vieng?", a: "Paragliding is unpowered (wind and hillside launch); paramotor has an engine for powered flight." },
+                    { q: "Is paragliding worth it in Vang Vieng?", a: "Yes for a quieter flight experience, though it depends more on wind conditions than paramotor." }
+                ],
+            };
+
+        case "is-climbing-worth-it-vang-vieng":
+            return {
+                title: "Is Rock Climbing Worth It in Vang Vieng?",
+                seoTitle: "Vang Vieng Rock Climbing 2026 | Honest Review",
+                description: "An honest look at rock climbing in Vang Vieng's karst limestone cliffs.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-climbing.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Vang Vieng's limestone karst cliffs are genuinely well-regarded for climbing, with routes suited to beginners and experienced climbers alike — worth it if climbing is already an interest, rather than a first-time activity to try cold.", tourCard: { slug: "vangvieng-climbing-ballon-area", title: "Vangvieng Climbing & Ballon Area", description: "A rock climbing experience in Vang Vieng's karst cliffs.", price: "From $78", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-climbing.webp" } },
+                    { title: "Practical Tips", content: "Dry season (roughly November-April) has better rock conditions than the wet season, when limestone can get slick." }
+                ],
+                faqs: [
+                    { q: "Is rock climbing worth it in Vang Vieng?", a: "Yes, the karst limestone cliffs are genuinely well-regarded for climbing at multiple skill levels." },
+                    { q: "What's the best season for climbing in Vang Vieng?", a: "Dry season, roughly November to April, for better rock conditions." }
+                ],
+            };
+
+        case "is-food-tour-worth-it-vang-vieng":
+            return {
+                title: "Is the Vang Vieng Food Tour Worth It?",
+                seoTitle: "Vang Vieng Food Tour 2026 | Honest Review",
+                description: "An honest look at Vang Vieng's multi-tasting food tour.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-food.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This tour packs in 12+ tastings across local eateries, a good way to sample Laotian food broadly without committing to a single restaurant for your whole evening.", tourCard: { slug: "vang-vieng-plates-12-tastings-food-tour", title: "Vang Vieng Plates 12+ Tastings Food Tour", description: "A food tour with 12+ local tastings.", price: "From $52", duration: "3.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-food.webp" } },
+                    { title: "Practical Tips", content: "Come hungry but pace yourself across 12+ stops — this works best as your main evening meal rather than a quick snack stop." }
+                ],
+                faqs: [
+                    { q: "Is the Vang Vieng food tour worth it?", a: "Yes, a good way to sample a wide range of Laotian food in one evening." }
+                ],
+            };
+
+        case "is-cooking-class-worth-it-vang-vieng":
+            return {
+                title: "Is the Village Cooking Class Worth It in Vang Vieng?",
+                seoTitle: "Vang Vieng Cooking Class 2026 | Honest Review",
+                description: "An honest look at Vang Vieng's village brickmaking workshop and cooking class combo.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-cooking.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This pairs a traditional brickmaking workshop with a hands-on cooking class, a slower-paced cultural activity for travellers who want a break from Vang Vieng's adventure-sports pace.", tourCard: { slug: "vang-vieng-village-brickmaking-workshop-cooking", title: "Vang Vieng: Village Brickmaking Workshop & Cooking Class", description: "A brickmaking workshop combined with a cooking class.", price: "From $124", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-cooking.webp" } },
+                    { title: "Practical Tips", content: "A good day to schedule after a few days of water/adventure activities, as a change of pace." }
+                ],
+                faqs: [
+                    { q: "Is the brickmaking and cooking class worth it in Vang Vieng?", a: "Yes, a worthwhile slower-paced cultural alternative to the adventure-sports activities." }
+                ],
+            };
+
+        case "is-motorcycle-tour-worth-it-vang-vieng":
+            return {
+                title: "Is the Motorcycle Tour Worth It in Vang Vieng?",
+                seoTitle: "Vang Vieng Motorcycle Tour 2026 | Honest Review",
+                description: "An honest look at Vang Vieng's full-day motorcycle tour with trekking.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-motorcycle.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This combines a motorcycle ride through the countryside with trekking stops, a good option for travellers who want to cover more ground than walking alone allows while still getting off the main roads.", tourCard: { slug: "vang-vieng-full-day-motorcycle-tour-with-trekking", title: "Vang Vieng: Full-Day Motorcycle Tour with Trekking", description: "A full-day motorcycle tour combined with trekking.", price: "From $168", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-motorcycle.webp" } },
+                    { title: "Practical Tips", content: "Confirm whether you're riding yourself or on the back of a guide's bike — this affects whether you need a motorcycle license." }
+                ],
+                faqs: [
+                    { q: "Is the motorcycle tour worth it in Vang Vieng?", a: "Yes, for covering more countryside ground than walking alone, combined with trekking stops." }
+                ],
+            };
+
+        case "best-multi-day-adventure-tour-vang-vieng":
+            return {
+                title: "Which Is the Best Multi-Day Adventure Tour in Vang Vieng?",
+                seoTitle: "Best Multi-Day Adventure Tour Vang Vieng 2026",
+                description: "Compare real multi-day adventure packages in Vang Vieng for travellers who want to spread activities across more than one day.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-multiday.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Most Vang Vieng tours are single-day combos, but a 2-day package exists for travellers who'd rather pace activities like the balloon ride and paramotor flight across two days instead of packing everything into one.", tourCard: { slug: "vang-vieng-2-day-adventure-with-hot-air-balloon", title: "Vang Vieng: 2-Day Adventure with Hot Air Balloon & Paramotor", description: "A 2-day package combining a balloon ride and paramotor flight.", price: "From $402", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-multiday.webp" } },
+                    { title: "Practical Tips", content: "Worth it mainly if you want a less rushed pace, or if weather pushes one activity to a backup day — a built-in buffer for weather-dependent flights." }
+                ],
+                faqs: [
+                    { q: "Is a multi-day adventure package worth it in Vang Vieng?", a: "Yes if you want a less rushed pace or a weather buffer for flight-based activities." }
+                ],
+            };
+
+        case "vang-vieng-travel-guide-2026":
+            return {
+                title: "Vang Vieng Travel Guide 2026",
+                description: "Vang Vieng has reinvented itself from its party-town reputation into a genuine adventure-sports hub set among dramatic karst limestone scenery — here's what first-timers need to know.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-guide.webp",
+                sections: [
+                    { title: "Why Visit Vang Vieng", content: "Tubing, kayaking, caving, ziplining, hot air ballooning and paramotor flights all converge here against a backdrop of limestone karst peaks — it's Laos's adventure-sports capital, a different pace from Luang Prabang's temples or Vientiane's city life." },
+                    { title: "Getting Around", content: "The town itself is small and walkable; most activities require a short tuk-tuk or minivan transfer, usually included in tour pricing." }
+                ],
+                faqs: [
+                    { q: "Is Vang Vieng worth visiting?", a: "Yes, especially for adventure sports — tubing, kayaking, ballooning, and caving, set against dramatic karst scenery." },
+                    { q: "How do I get around Vang Vieng?", a: "The town is walkable; activities outside town are reached by tuk-tuk or minivan, usually included in tour pricing." }
+                ],
+            };
+
+        case "best-time-to-visit-vang-vieng":
+            return {
+                title: "Best Time to Visit Vang Vieng",
+                description: "When to visit Vang Vieng for the best balance of weather and river conditions.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-guide.webp",
+                sections: [
+                    { title: "Seasonal Overview", content: "Dry season (November-April) has the most reliable weather for ballooning, paramotor, and climbing, with calmer river conditions for kayaking and tubing. Wet season (May-October) brings faster river currents, better for whitewater-style kayaking but riskier for tubing." }
+                ],
+                faqs: [
+                    { q: "What is the best time to visit Vang Vieng?", a: "Dry season (November-April) for the most reliable weather across all activities." }
+                ],
+            };
+
+        case "vang-vieng-1-day-itinerary":
+            return {
+                title: "Vang Vieng 1-Day Itinerary",
+                description: "A realistic one-day plan for Vang Vieng if you only have a single day there.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-guide.webp",
+                sections: [
+                    { title: "Morning", content: "Start early with a hot air balloon or paramotor flight to catch the best light over the karst scenery." },
+                    { title: "Afternoon", content: "Spend the afternoon kayaking the Nam Song with a cave stop, or head to the Blue Lagoon for a swim." },
+                    { title: "Evening", content: "Finish with dinner in town — Vang Vieng's food scene has grown well beyond its old backpacker-bar reputation." }
+                ],
+                faqs: [
+                    { q: "Can Vang Vieng be done in one day?", a: "You'll have to pick 1-2 main activities rather than doing everything — a balloon flight plus kayaking/lagoon is a realistic one-day combo." }
+                ],
+            };
+
+        case "is-vang-vieng-safe":
+            return {
+                title: "Is Vang Vieng Safe for Tourists?",
+                description: "An honest look at safety in Vang Vieng today, given its past party-town reputation.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-guide.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Vang Vieng today is considerably safer than its mid-2000s reputation — most of the dangerous riverside bars and unsafe swings/slides were shut down after a wave of tourist deaths, and the activities now on offer (tubing, kayaking, ballooning) run under more regulated conditions." },
+                    { title: "Practical Tips", content: "Wear a life jacket for any water activity, use licensed operators rather than unofficial roadside offers, and don't mix alcohol with adventure activities like kayaking or climbing." }
+                ],
+                faqs: [
+                    { q: "Is Vang Vieng safe today?", a: "Yes, considerably safer than its mid-2000s party-town reputation after safety crackdowns on riverside bars and unsafe attractions." },
+                    { q: "What's the main safety advice for Vang Vieng?", a: "Wear a life jacket for water activities, use licensed operators, and don't mix alcohol with adventure sports." }
+                ],
+            };
+
+        case "vang-vieng-tubing-safety-guide":
+            return {
+                title: "Vang Vieng Tubing Safety Guide",
+                description: "Practical safety advice for tubing on the Nam Song river.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-guide.webp",
+                sections: [
+                    { title: "Safety Basics", content: "Always wear a life jacket, don't tube alone, avoid tubing right after heavy rain when the current speeds up, and secure your phone/valuables in a waterproof bag or leave them at your hotel. The riverside bar scene that made tubing dangerous a decade ago has largely been shut down, but the current itself still deserves respect." }
+                ],
+                faqs: [
+                    { q: "Is tubing dangerous in Vang Vieng?", a: "Less than its old reputation suggests — most dangerous riverside attractions were shut down — but basic water safety (life jacket, not tubing alone) still matters." }
+                ],
+            };
+
+        case "vang-vieng-food-guide":
+            return {
+                title: "Vang Vieng Food Guide",
+                description: "What to eat in Vang Vieng beyond the backpacker-cafe staples.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-guide.webp",
+                sections: [
+                    { title: "What to Eat", content: "Local Laotian dishes like laap (minced meat salad) and sticky rice are widely available alongside a large backpacker-cafe scene serving pizza, pancakes, and smoothie bowls. The riverside restaurants tend to have the best views for dinner." }
+                ],
+                faqs: [
+                    { q: "What food is Vang Vieng known for?", a: "Laotian staples like laap and sticky rice, alongside an extensive backpacker-cafe food scene." }
+                ],
+            };
+
+        case "vang-vieng-nightlife-guide":
+            return {
+                title: "Vang Vieng Nightlife Guide",
+                description: "What Vang Vieng's nightlife actually looks like today, well past its old party-town peak.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/laos/vang-vieng-guide.webp",
+                sections: [
+                    { title: "What to Expect", content: "Vang Vieng's nightlife is far more low-key than its mid-2000s reputation — expect riverside restaurants, a handful of bars in the town center, and an early night if you've got an early-morning balloon or paramotor flight booked." }
+                ],
+                faqs: [
+                    { q: "Does Vang Vieng still have a big party scene?", a: "No, it's much quieter now — most of the extreme riverside bar scene was shut down after safety crackdowns." }
+                ],
+            };
+
+        case "best-buddha-park-tour-vientiane":
+            return {
+                title: "Which Is the Best Buddha Park Tour in Vientiane?",
+                seoTitle: "Best Buddha Park Tour Vientiane 2026 | Honest Comparison",
+                description: "Compare real Buddha Park (Xieng Khuan) tours in Vientiane — from a coffee-tasting combo to a private tuk-tuk version and a full-day highlights package with lunch.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/35835e6c186d281477aa0e06de7816ff999212e4a78a2d20c4bf1a792dd932a3.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Buddha Park's surreal concrete sculpture garden sits a short drive outside the city, and most tours pair it with a Lao coffee-tasting stop on the way back.", tourCard: { slug: "buddha-park-guided-tour-with-lao-coffee-tasting", title: "Buddha Park: Guided Tour with Lao Coffee Tasting", description: "A guided Buddha Park visit with a coffee-tasting stop.", price: "From $129", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/35835e6c186d281477aa0e06de7816ff999212e4a78a2d20c4bf1a792dd932a3.jpg" } },
+                    { title: "Best for Flexibility: Private Tuk-Tuk Tour", content: "This version swaps the group format for a private tuk-tuk, letting you spend as much or as little time among the sculptures as you like.", tourCard: { slug: "buddha-park-private-tuk-tuk-tour-lao-coffee", title: "Buddha Park: Private Tuk-Tuk Tour & Lao Coffee Tasting", description: "A private tuk-tuk version of the Buddha Park and coffee tour.", price: "From $129", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5898a5f93a81980ab54a9b781d6fc4482bd843646443e9351eb2dcb6ccefbb33.jpeg" } },
+                    { title: "Best Full-Day Option: Private Highlights Tour with Lunch", content: "This bundles Buddha Park into a fuller day of Vientiane's highlights with lunch included, good if you want more than just the park in a single outing.", tourCard: { slug: "park-highlights-private-tour", title: "Vientiane: Private Highlights Tour with Buddha Park & Lunch", description: "A full-day private tour combining Buddha Park with Vientiane's other highlights and lunch.", price: "From $228", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/390119078f68370217d6f3e2f5d8469ecfbbeeebc8b266ad527aee5619c39ef2.jpeg" } },
+                    { title: "Practical Tips", content: "Buddha Park has almost no shade, so visit earlier in the day to avoid the midday heat, and bring water and sun protection." }
+                ],
+                faqs: [
+                    { q: "What is the best Buddha Park tour in Vientiane?", a: "A guided tour with coffee tasting suits most visitors; go private tuk-tuk for more flexibility." },
+                    { q: "How far is Buddha Park from central Vientiane?", a: "A short drive outside the city, usually combined with another stop like coffee tasting." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Buddha Park tour in Vientiane?", "acceptedAnswer": { "@type": "Answer", "text": "A guided tour with coffee tasting suits most visitors." } },
+                    { "@type": "Question", "name": "How far is Buddha Park from the city?", "acceptedAnswer": { "@type": "Answer", "text": "A short drive outside central Vientiane." } }
+                ] },
+            };
+
+        case "best-patuxai-that-luang-tour-vientiane":
+            return {
+                title: "Which Is the Best Patuxai & That Luang Tour in Vientiane?",
+                seoTitle: "Best Patuxai That Luang Tour Vientiane 2026 | Comparison",
+                description: "Compare real Patuxai Monument and That Luang Stupa tours in Vientiane — from a half-day city tour to a coffee-tasting combo.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ae196df87a960fde9a92a06dcdee7d0ae7781538f4ef438c09eb105a1623ff0b.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Patuxai (Vientiane's Arc de Triomphe-inspired monument) and That Luang (the national symbol stupa) are the city's two most recognizable landmarks, and most tours visit both in a half-day city loop.", tourCard: { slug: "park-patuxai-half-day-tour", title: "Vientiane: Half-Day City Tour with Patuxai and Buddha Park", description: "A half-day city tour covering Patuxai and Buddha Park.", price: "From $76", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ae196df87a960fde9a92a06dcdee7d0ae7781538f4ef438c09eb105a1623ff0b.jpg" } },
+                    { title: "Best with Coffee: Patuxay & That Luang + Coffee Tasting", content: "This version adds a Lao coffee-tasting stop to the Patuxay and That Luang visit, good for pairing sightseeing with a local food experience.", tourCard: { slug: "vientiane-patuxay-that-luang-coffee-tasting", title: "Vientiane: Patuxay & That Luang & Coffee Tasting Experience", description: "Patuxay and That Luang paired with a coffee-tasting stop.", price: "From $90", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ae196df87a960fde9a92a06dcdee7d0ae7781538f4ef438c09eb105a1623ff0b.jpg" } },
+                    { title: "Best Focused Option: Patuxay Guided Tour with Coffee Tasting", content: "A more focused version centered on Patuxay itself with coffee tasting, if you'd rather not add That Luang to the same outing.", tourCard: { slug: "patuxay-guided-tour-and-lao-coffee-tasting", title: "Patuxay: Guided Tour and Lao Coffee Tasting Experience", description: "A Patuxay-focused tour with coffee tasting.", price: "From $103", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2137142a34b987b359bc7286194acf2e9a640d5cc7e448f2ff554a5f05a7d242.jpg" } },
+                    { title: "Social-Media Focused: Patuxay IG Tour", content: "This version is framed specifically around getting good photos at the monument, with a guide who knows the best angles and timing.", tourCard: { slug: "monument-patuxay-guided-tour", title: "Vientiane IG tour & Patuxay monument", description: "A photo-focused tour of the Patuxay monument.", price: "From $77", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f714a388dba137917cc765b838992712906c6a11c01594ed9f196aee5349aee8.jpeg" } },
+                    { title: "Practical Tips", content: "You can climb Patuxai's interior stairs for a rooftop view over the city for a small separate entrance fee, not always included in tour prices — ask your guide." }
+                ],
+                faqs: [
+                    { q: "What is the best Patuxai and That Luang tour in Vientiane?", a: "A half-day city tour covering both landmarks suits most visitors; add coffee tasting for a local food angle." },
+                    { q: "Can you go inside Patuxai Monument?", a: "Yes, you can climb its interior stairs to a rooftop viewpoint for a small separate fee." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Patuxai and That Luang tour?", "acceptedAnswer": { "@type": "Answer", "text": "A half-day city tour covering both landmarks suits most visitors." } },
+                    { "@type": "Question", "name": "Can you go inside Patuxai?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a small separate entrance fee." } }
+                ] },
+            };
+
+        case "best-city-tour-vientiane":
+            return {
+                title: "Which Is the Best City Tour in Vientiane?",
+                seoTitle: "Best Vientiane City Tour 2026 | Honest Comparison",
+                description: "Compare real Vientiane city tours — from a tuk-tuk guided loop to fully private, personalized options.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/662fb7d5f35379d79abaee8674450dd816c6344880361e9a66b677d373627467.png",
+                sections: [
+                    { title: "The Short Answer", content: "Vientiane's low-rise, laid-back layout suits a tuk-tuk tour better than walking between every sight, and tours here range from standard group loops to fully private, custom-paced versions.", tourCard: { slug: "vientiane-guided-city-tour-by-tuk-tuk-with-entry", title: "Vientiane: Guided City Tour by Tuk-Tuk with Entry Tickets", description: "A standard tuk-tuk city tour with entry tickets included.", price: "From $111", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/662fb7d5f35379d79abaee8674450dd816c6344880361e9a66b677d373627467.png" } },
+                    { title: "Best Private Option: Private Guided City Walking Tour", content: "A fully private walking version for travellers who'd rather explore on foot at their own pace with a dedicated guide.", tourCard: { slug: "vientiane-private-guided-city-walking-tour", title: "Vientiane: Private Guided City Walking Tour", description: "A private walking tour of Vientiane's city sights.", price: "From $156", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0fcc127c85671f31fe577f67dd75a0e3f15b152eda6003a1b2c65d37e9f88700.png" } },
+                    { title: "Most Flexible: 100% Private & Personalized City Tour with Car", content: "This version is fully customizable with a private car and driver, the most flexible option if you want to adjust the itinerary on the day.", tourCard: { slug: "vientiane-100-private-personalized-city-tour-with", title: "Vientiane: 100% Private & Personalized City Tour with Car", description: "A fully customizable private car tour of the city.", price: "From $195", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/063145ed97384c522b4c42b3b0148ac54cbfef6d0ecf69a563ee2ad52346a41c.png" } },
+                    { title: "Best for Modern Transport: Private EV TukTuk Tour", content: "This runs the same private city-tour concept on an electric tuk-tuk, a quieter and greener version of the classic ride.", tourCard: { slug: "vientiane-tuktuk-private-tour", title: "Vientiane: Private City Tour by EV TukTuk with Guide", description: "A private city tour on an electric tuk-tuk.", price: "From $520", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c67a34310007e548721cf2bfe52fa3a483d4bacb6cfde9d2079068c68c9ae698.jpg" } },
+                    { title: "Practical Tips", content: "Vientiane is compact and low-traffic compared to most Southeast Asian capitals, so even a half-day tour can realistically cover most major sights." }
+                ],
+                faqs: [
+                    { q: "What is the best city tour in Vientiane?", a: "A tuk-tuk group tour suits most visitors; go fully private if you want a custom pace or itinerary." },
+                    { q: "How long do you need to see Vientiane?", a: "A half to full day covers most major sights given the city's compact layout." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best city tour in Vientiane?", "acceptedAnswer": { "@type": "Answer", "text": "A tuk-tuk group tour suits most visitors." } },
+                    { "@type": "Question", "name": "How long do you need to see Vientiane?", "acceptedAnswer": { "@type": "Answer", "text": "A half to full day covers most major sights." } }
+                ] },
+            };
+
+        case "best-food-tour-vientiane":
+            return {
+                title: "Which Is the Best Food Tour in Vientiane?",
+                seoTitle: "Best Vientiane Food Tour 2026 | Honest Comparison",
+                description: "Compare real food tours in Vientiane — from a street food tasting walk to a market-and-cooking-class combo.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/14df16535a26ff9016e2993507032d4ad0976b380a057fc029c81ed78286a01c.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Vientiane's food scene blends Lao, Vietnamese, and French influences, and food tours here range from a simple street-food walk to combos with a cooking class.", tourCard: { slug: "vientiane-tastings-food-tour", title: "Vientiane: Small-Group Street Food Tour with Tastings", description: "A small-group street food tour with multiple tastings.", price: "From $146", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/14df16535a26ff9016e2993507032d4ad0976b380a057fc029c81ed78286a01c.jpeg" } },
+                    { title: "Best Culture Combo: Guided Foodie & Culture Tour with Tastings", content: "This pairs food tastings with a broader cultural tour, good if you want context alongside the eating.", tourCard: { slug: "vientiane-guided-foodie-culture-tour-with-tastings", title: "Vientiane: Guided Foodie & Culture Tour with Tastings", description: "Food tastings combined with a cultural city tour.", price: "From $78", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/639f4c6514301896291170913296c95881315930a8d1f2eeee3512a2a1f6547f.jpeg" } },
+                    { title: "Best with Market: Lao Market Food Discovery Tour", content: "This starts at a local market before tasting, giving a fuller picture of where Vientiane's ingredients actually come from.", tourCard: { slug: "vientiane-lao-market-food-discovery-tour-for-2", title: "Vientiane: Lao Market Food Discovery Tour for 2 Hours", description: "A market-based food discovery tour.", price: "From $90", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a8e451a40f0a453f9118413b2a701732754adf4bccc23941f4ba5c9924e322bc.jpg" } },
+                    { title: "Most Complete: Classic Food Tour (Food Included)", content: "A straightforward all-inclusive version where the food itself is bundled into the price rather than paid for separately at each stop.", tourCard: { slug: "vientiane-food-food-tour", title: "Vientiane Classic Food Tour (Included Food)", description: "An all-inclusive food tour with meals bundled into the price.", price: "From $102", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b6b3c6c0d77b1b50e91f006022a9e9910ba90fe1c57b48996b3e81f730c8ff15.jpeg" } },
+                    { title: "Practical Tips", content: "Come hungry — most food tours pack in several stops over a few hours, so a light breakfast beforehand leaves more room to try everything." }
+                ],
+                faqs: [
+                    { q: "What is the best food tour in Vientiane?", a: "A street food tasting tour suits most visitors; add a market visit for more context on local ingredients." },
+                    { q: "Is food included in Vientiane food tours?", a: "Usually yes — tastings are typically bundled into the tour price." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best food tour in Vientiane?", "acceptedAnswer": { "@type": "Answer", "text": "A street food tasting tour suits most visitors." } },
+                    { "@type": "Question", "name": "Is food included?", "acceptedAnswer": { "@type": "Answer", "text": "Usually yes, tastings are bundled into the price." } }
+                ] },
+            };
+
+        case "best-cooking-class-vientiane":
+            return {
+                title: "Which Is the Best Cooking Class in Vientiane?",
+                seoTitle: "Best Vientiane Cooking Class 2026 | Honest Comparison",
+                description: "Compare real Lao cooking classes in Vientiane — from a market-and-cooking combo to a garden-house setting.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f623524d3048421046bf1406d2c82fd3102662b9704b0fee90fe0d13fe2ffef2.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Lao cooking classes in Vientiane typically start with a market visit to pick ingredients before heading to a kitchen to cook a full meal.", tourCard: { slug: "market-cooking-food-tour", title: "Vientiane Private Lao Cooking Class with Market Tour", description: "A private cooking class that starts with a market visit.", price: "From $169", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f623524d3048421046bf1406d2c82fd3102662b9704b0fee90fe0d13fe2ffef2.jpg" } },
+                    { title: "Best Setting: Cooking Class at Garden House", content: "This version runs in a dedicated garden-house setting rather than a standard kitchen, a nicer atmosphere if that matters to you.", tourCard: { slug: "garden-cooking-food-tour", title: "Vientiane: Cooking Class Garden House", description: "A Lao cooking class held in a garden-house setting.", price: "From $436", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/84f61919ad2bfaaabaa9c4aece198df22d870ced02a270429c42b0391aba3ac2.jpeg" } },
+                    { title: "Practical Tips", content: "Classes that include the market visit give a much better sense of real Lao ingredients than ones that start with pre-bought items — worth the extra time if you have it." }
+                ],
+                faqs: [
+                    { q: "What is the best cooking class in Vientiane?", a: "A class that includes a market visit gives the fullest experience; the garden-house version suits those wanting a nicer setting." },
+                    { q: "Do Vientiane cooking classes include a market visit?", a: "Some do, letting you pick your own ingredients before cooking — worth checking when booking." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best cooking class in Vientiane?", "acceptedAnswer": { "@type": "Answer", "text": "A class that includes a market visit gives the fullest experience." } },
+                    { "@type": "Question", "name": "Do classes include a market visit?", "acceptedAnswer": { "@type": "Answer", "text": "Some do, letting you pick your own ingredients." } }
+                ] },
+            };
+
+        case "best-mekong-river-cruise-vientiane":
+            return {
+                title: "Which Is the Best Mekong River Cruise in Vientiane?",
+                seoTitle: "Best Mekong River Cruise Vientiane 2026 | Comparison",
+                description: "Compare real Mekong River experiences in Vientiane — a private speedboat tour versus a golden-hour cruise with drinks.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8ef7b116fd2da53149858dbec2b7aa43eec419ee0aefd937242bc095b2659646.png",
+                sections: [
+                    { title: "The Short Answer", content: "Vientiane sits right on the Mekong, and the two real ways to get on the water here are a fast private speedboat ride or a slower, more relaxed sunset cruise.", tourCard: { slug: "vientiane-1-hour-private-mekong-river-speedboat", title: "Vientiane: 1-Hour Private Mekong River Speedboat Tour", description: "A private speedboat tour on the Mekong River.", price: "From $117", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8ef7b116fd2da53149858dbec2b7aa43eec419ee0aefd937242bc095b2659646.png" } },
+                    { title: "Best for Sunset: Mekong Golden Hour Cruise with Drinks & Snacks", content: "A slower-paced cruise timed for sunset with drinks and snacks included, better suited to a relaxed evening than the speedboat's quick thrill.", tourCard: { slug: "vientiane-mekong-golden-hour-cruise-with-drinks", title: "Vientiane: Mekong Golden Hour Cruise with Drinks & Snacks", description: "A relaxed sunset cruise on the Mekong with drinks and snacks.", price: "From $208", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/90bd53f8ce65fdbc63cbfc74cd3a0b684a360b295deaaa8a544a1c16bdb44736.png" } },
+                    { title: "Practical Tips", content: "Sunset timing on the Mekong shifts seasonally, so confirm the exact departure time for the golden-hour cruise close to your travel date." }
+                ],
+                faqs: [
+                    { q: "What is the best Mekong River experience in Vientiane?", a: "The golden-hour cruise suits a relaxed evening; the speedboat tour suits those wanting a quicker, more active ride." },
+                    { q: "Is the Mekong cruise in Vientiane private?", a: "The speedboat option is private; the golden-hour cruise may be shared depending on the operator." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Mekong River experience in Vientiane?", "acceptedAnswer": { "@type": "Answer", "text": "The golden-hour cruise suits a relaxed evening." } },
+                    { "@type": "Question", "name": "Is the cruise private?", "acceptedAnswer": { "@type": "Answer", "text": "The speedboat option is private." } }
+                ] },
+            };
+
+        case "best-temple-tour-vientiane":
+            return {
+                title: "Which Is the Best Temple Tour in Vientiane?",
+                seoTitle: "Best Vientiane Temple Tour 2026 | Honest Comparison",
+                description: "Compare real temple-focused tours in Vientiane — a 9-temple blessing tour versus a focused 5-temple art walk.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9c0416b54ecf425672b04897c36a1feb226f14f834863f84a973414dc18fb7a8.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Vientiane has dozens of Buddhist temples (wats), and dedicated temple tours differ mainly in how many stops they cover and whether a blessing ritual is included.", tourCard: { slug: "vientiane-9-sacred-temples-guided-tour-with", title: "Vientiane: 9 Sacred Temples Guided Tour with Blessings", description: "A guided tour covering 9 sacred temples with blessing rituals.", price: "From $79", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9c0416b54ecf425672b04897c36a1feb226f14f834863f84a973414dc18fb7a8.jpeg" } },
+                    { title: "Best for Art Focus: Five-Temple Walking Tour of Buddhist Art", content: "This shorter, more focused walk centers on the Buddhist art and architecture across five temples rather than a blessing ritual.", tourCard: { slug: "vientiane-five-temple-walking-tour-of-buddhist-art", title: "Vientiane: Five-Temple Walking Tour of Buddhist Art", description: "A walking tour focused on Buddhist art across five temples.", price: "From $104", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/29c0bc865c6967cda5ceee97de4747a899ea8306e67d4ef5dfbb29cabd41d04d.jpg" } },
+                    { title: "Practical Tips", content: "Dress modestly for temple visits — shoulders and knees covered — and remove shoes before entering any temple building." }
+                ],
+                faqs: [
+                    { q: "What is the best temple tour in Vientiane?", a: "The 9-temple tour suits those wanting blessings included; the 5-temple walk suits those focused on art and architecture." },
+                    { q: "What should I wear to visit temples in Vientiane?", a: "Modest clothing covering shoulders and knees, and be ready to remove your shoes before entering." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best temple tour in Vientiane?", "acceptedAnswer": { "@type": "Answer", "text": "The 9-temple tour suits those wanting blessings included." } },
+                    { "@type": "Question", "name": "What should I wear?", "acceptedAnswer": { "@type": "Answer", "text": "Modest clothing covering shoulders and knees." } }
+                ] },
+            };
+
+        case "best-vang-vieng-day-trip-from-vientiane":
+            return {
+                title: "Which Is the Best Vang Vieng Day Trip from Vientiane?",
+                seoTitle: "Best Vang Vieng Day Trip from Vientiane 2026 | Comparison",
+                description: "Compare real Vang Vieng day trips from Vientiane — from a Nam Xay viewpoint and lagoon combo to a fully private custom version.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/61aae6ee019ba571494cc8eb440b7466a4b74f6923233ad2904941fc089d493d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Vang Vieng's karst scenery and lagoons are close enough to Vientiane for a long day trip, though an overnight stay gives more time at the lagoons without the return drive pressure. Most day trips bundle a viewpoint hike with lagoon swimming.", tourCard: { slug: "from-vientiane-vang-vieng-day-trip-nam-xay-2", title: "From Vientiane: Vang Vieng Day Trip, Nam Xay & 2 Lagoons", description: "A day trip from Vientiane covering Nam Xay viewpoint and two lagoons.", price: "From $298", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/61aae6ee019ba571494cc8eb440b7466a4b74f6923233ad2904941fc089d493d.jpg" } },
+                    { title: "Most Flexible: 100% Private Custom Vang Vieng Day Trip", content: "This version lets you fully customize which stops to include, useful if you have specific activities in mind rather than a fixed itinerary.", tourCard: { slug: "from-vientiane-100-private-custom-vang-vieng-day", title: "From Vientiane: 100% Private Custom Vang Vieng Day Trip", description: "A fully customizable private day trip to Vang Vieng.", price: "From $325", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d18004437da6c258b331b7daa7c5720a4c0761e13ff8a8bb6c407d97e66f18f0.jpg" } },
+                    { title: "Practical Tips", content: "It's roughly a 3-3.5 hour drive each way between Vientiane and Vang Vieng, so a day trip means a long day on the road — if you want more time at the lagoons, consider an overnight stay instead." }
+                ],
+                faqs: [
+                    { q: "What is the best Vang Vieng day trip from Vientiane?", a: "A trip covering the Nam Xay viewpoint and lagoons suits most visitors; go private custom if you have specific stops in mind." },
+                    { q: "How far is Vang Vieng from Vientiane?", a: "Roughly 3-3.5 hours each way by road, making a day trip a long day out." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Vang Vieng day trip from Vientiane?", "acceptedAnswer": { "@type": "Answer", "text": "A trip covering the Nam Xay viewpoint and lagoons suits most visitors." } },
+                    { "@type": "Question", "name": "How far is Vang Vieng from Vientiane?", "acceptedAnswer": { "@type": "Answer", "text": "Roughly 3-3.5 hours each way by road." } }
+                ] },
+            };
+
+        case "is-plain-of-jars-tour-worth-it-vientiane":
+            return {
+                title: "Is the Plain of Jars Tour from Vientiane Worth It?",
+                seoTitle: "Plain of Jars Tour from Vientiane 2026 | Honest Review",
+                description: "An honest look at the UNESCO Plain of Jars tour from Vientiane, including the homestay version.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/353fd18328f95ff635e852093c1ef8c9bfd1160159cfecf02e627c4f1015348b.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Plain of Jars is a UNESCO World Heritage site scattered with mysterious ancient stone jars whose original purpose is still debated by archaeologists — it's a genuinely unique, lesser-visited stop for travellers who want to go beyond Vientiane's standard sights.", tourCard: { slug: "vientiane-homestay-guided-tour", title: "From Vientiane: UNESCO Plain of Jars Tour & Homestay", description: "A Plain of Jars day trip with a homestay option.", price: "From $2599", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/353fd18328f95ff635e852093c1ef8c9bfd1160159cfecf02e627c4f1015348b.jpg" } },
+                    { title: "Practical Tips", content: "The Plain of Jars sites are spread across Phonsavan province, a fair distance from Vientiane, so this is a significant commitment price- and time-wise — worth it specifically for travellers with a strong interest in archaeology or off-the-beaten-path sites." }
+                ],
+                faqs: [
+                    { q: "Is the Plain of Jars tour from Vientiane worth it?", a: "Yes for travellers interested in archaeology or unique off-the-beaten-path sites, though it's a significant time and cost commitment." },
+                    { q: "What is the Plain of Jars?", a: "A UNESCO World Heritage site with mysterious ancient stone jars of debated origin, located in Phonsavan province." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Plain of Jars tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes for travellers interested in archaeology or off-the-beaten-path sites." } },
+                    { "@type": "Question", "name": "What is the Plain of Jars?", "acceptedAnswer": { "@type": "Answer", "text": "A UNESCO site with mysterious ancient stone jars of debated origin." } }
+                ] },
+            };
+
+        case "vientiane-travel-guide-2026":
+            return {
+                title: "Vientiane Travel Guide 2026",
+                description: "Laos's laid-back capital is one of the quietest capital cities in Southeast Asia — here's what first-timers need to know.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/662fb7d5f35379d79abaee8674450dd816c6344880361e9a66b677d373627467.png",
+                sections: [
+                    { title: "Why Visit Vientiane", content: "Vientiane is often used as a gateway to Vang Vieng and Luang Prabang, but it has its own worthwhile sights — Buddha Park, That Luang Stupa, Patuxai Monument, and a genuinely relaxed riverside atmosphere unusual for a capital city." },
+                    { title: "Getting Around", content: "Tuk-tuks and private cars are the main way to get around since public transport is limited; the city centre is walkable, but outlying sights like Buddha Park need transport." }
+                ],
+                faqs: [
+                    { q: "Is Vientiane worth visiting?", a: "Yes, for its relaxed pace, Buddha Park, and temples, and as a convenient gateway to Vang Vieng and Luang Prabang." },
+                    { q: "How do I get around Vientiane?", a: "Tuk-tuks and private cars; the city centre itself is walkable." }
+                ],
+            };
+
+        case "best-time-to-visit-vientiane":
+            return {
+                title: "Best Time to Visit Vientiane",
+                description: "Vientiane's tropical climate means timing is mostly about rain, not temperature swings.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/662fb7d5f35379d79abaee8674450dd816c6344880361e9a66b677d373627467.png",
+                sections: [
+                    { title: "Weather Patterns", content: "November to February is the coolest, driest period and the most popular time to visit. March to May gets hot and dry, while June to October brings the rainy season with the Mekong at its fullest." }
+                ],
+                faqs: [
+                    { q: "What is the best time to visit Vientiane?", a: "November to February for the coolest, driest weather." }
+                ],
+            };
+
+        case "vientiane-1-day-itinerary":
+            return {
+                title: "Vientiane 1-Day Itinerary",
+                description: "A realistic one-day plan for Vientiane given its compact layout.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/662fb7d5f35379d79abaee8674450dd816c6344880361e9a66b677d373627467.png",
+                sections: [
+                    { title: "Morning", content: "Start at Pha That Luang (the national symbol stupa), then head to Patuxai Monument for a rooftop city view." },
+                    { title: "Afternoon", content: "Visit Buddha Park just outside the city, pairing it with a Lao coffee-tasting stop." },
+                    { title: "Evening", content: "Finish with a Mekong riverside dinner and, if timed right, a golden-hour cruise." }
+                ],
+                faqs: [
+                    { q: "Can Vientiane be seen in one day?", a: "Yes, its compact layout makes a one-day overview realistic, covering Pha That Luang, Patuxai, and Buddha Park." }
+                ],
+            };
+
+        case "is-vientiane-safe":
+            return {
+                title: "Is Vientiane Safe for Tourists?",
+                description: "An honest look at safety in Vientiane for visitors.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/662fb7d5f35379d79abaee8674450dd816c6344880361e9a66b677d373627467.png",
+                sections: [
+                    { title: "The Short Answer", content: "Vientiane is one of the safer, quieter capital cities in Southeast Asia, with low rates of violent crime against tourists. Standard precautions — watch belongings in crowded markets, use licensed transport — are sufficient for most visitors." }
+                ],
+                faqs: [
+                    { q: "Is Vientiane safe for tourists?", a: "Yes, generally one of the safer Southeast Asian capitals, with standard city-travel precautions being sufficient." }
+                ],
+            };
+
+        case "vientiane-food-guide":
+            return {
+                title: "Vientiane Food Guide",
+                description: "What to eat in Vientiane, where Lao, Vietnamese, and French influences overlap.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/14df16535a26ff9016e2993507032d4ad0976b380a057fc029c81ed78286a01c.jpeg",
+                sections: [
+                    { title: "Local Specialties", content: "Try laap (minced meat salad), sticky rice, and Lao-style baguette sandwiches, a holdover from French colonial influence — plus riverside BBQ at the Mekong promenade in the evening." }
+                ],
+                faqs: [
+                    { q: "What food is Vientiane known for?", a: "Laap, sticky rice, Lao-French baguette sandwiches, and riverside BBQ." }
+                ],
+            };
+
+        case "vientiane-currency-guide":
+            return {
+                title: "Vientiane Currency Guide",
+                description: "How to handle money in Vientiane.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/662fb7d5f35379d79abaee8674450dd816c6344880361e9a66b677d373627467.png",
+                sections: [
+                    { title: "Currency Basics", content: "Lao Kip (LAK) is the local currency, though Thai Baht and US Dollars are often accepted informally in tourist areas — carrying some small-denomination Kip is still useful for local markets." }
+                ],
+                faqs: [
+                    { q: "What currency does Vientiane use?", a: "Lao Kip (LAK); Thai Baht and USD are sometimes accepted informally." }
+                ],
+            };
+
+        case "vientiane-to-luang-prabang-guide":
+            return {
+                title: "Vientiane to Luang Prabang: How to Get There",
+                description: "How to travel between Laos's capital and its former royal city.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/662fb7d5f35379d79abaee8674450dd816c6344880361e9a66b677d373627467.png",
+                sections: [
+                    { title: "How to Get There", content: "The high-speed train is the fastest option (around 2 hours), a significant upgrade from the old overnight bus or long drive. Flights are also available for travellers prioritizing speed over scenery." }
+                ],
+                faqs: [
+                    { q: "How do I get from Vientiane to Luang Prabang?", a: "The high-speed train is fastest at around 2 hours; flights and buses are also available." }
+                ],
+            };
+
+        case "vientiane-public-transport-guide":
+            return {
+                title: "Vientiane Public Transport Guide",
+                description: "How to get around Vientiane without a rental car.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/662fb7d5f35379d79abaee8674450dd816c6344880361e9a66b677d373627467.png",
+                sections: [
+                    { title: "Getting Around", content: "Vientiane has no metro system — tuk-tuks are the main way to get around, with fares usually negotiated upfront since meters aren't standard." }
+                ],
+                faqs: [
+                    { q: "Is there public transport in Vientiane?", a: "No metro system — tuk-tuks are the main option, with fares negotiated upfront." }
+                ],
+            };
+
+        case "is-bar-hopping-worth-it-vientiane":
+            return {
+                title: "Is Guided Bar Hopping in Vientiane Worth It?",
+                seoTitle: "Vientiane Bar Hopping Tour 2026 | Honest Review",
+                description: "An honest look at Vientiane's guided bar hopping tour for meeting other travellers.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/aa088e8b541cf2a0bd685d814a0981dffb7d1dfa6eb74c256dab83e434108fbd.png",
+                sections: [
+                    { title: "The Short Answer", content: "This is a social, guide-led bar crawl through Vientiane's low-key nightlife scene, aimed squarely at solo travellers and backpackers wanting to meet people rather than a curated cocktail tasting.", tourCard: { slug: "vientiane-guided-bar-hopping-meet-new-friends", title: "Vientiane: Guided Bar Hopping Meet New Friends", description: "A social bar-hopping tour through Vientiane's nightlife.", price: "From $34", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/aa088e8b541cf2a0bd685d814a0981dffb7d1dfa6eb74c256dab83e434108fbd.png" } },
+                    { title: "Practical Tips", content: "Worth it specifically if you're travelling solo and want an easy way to meet other travellers — less relevant if you're already travelling as a couple or group." }
+                ],
+                faqs: [
+                    { q: "Is Vientiane's bar hopping tour worth it?", a: "Yes for solo travellers wanting to meet people; less relevant for those already travelling with company." }
+                ],
+            };
+
+        case "is-hidden-island-trekking-worth-it-vientiane":
+            return {
+                title: "Is the Hidden Island Trekking Tour from Vientiane Worth It?",
+                seoTitle: "Hidden Island Trekking Vientiane 2026 | Honest Review",
+                description: "An honest look at the Hidden Island trekking, culture, and seasonal activities tour from Vientiane.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/86e796f0498d5c86eb99e58e82cd789678cb9a55967d2ea790bbb9aae919d332.png",
+                sections: [
+                    { title: "The Short Answer", content: "This trip combines trekking, local culture, and seasonal activities around a river island near Vientiane — a genuinely off-the-beaten-path option for travellers who've already covered the city's standard sights.", tourCard: { slug: "hidden-island-trekking-culture-seasonal-activities", title: "Hidden Island: Trekking, Culture & Seasonal Activities", description: "A trekking and culture trip to a river island near Vientiane.", price: "From $142", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/86e796f0498d5c86eb99e58e82cd789678cb9a55967d2ea790bbb9aae919d332.png" } },
+                    { title: "Practical Tips", content: "Exact activities shift with the season, so check with the operator what's currently running before booking." }
+                ],
+                faqs: [
+                    { q: "Is the Hidden Island trek worth it?", a: "Yes for travellers wanting an off-the-beaten-path activity beyond Vientiane's standard sights." }
+                ],
+            };
+
+        case "is-traditional-costume-photo-tour-worth-it-vientiane":
+            return {
+                title: "Is a Traditional Lao Costume Photo Tour in Vientiane Worth It?",
+                seoTitle: "Vientiane Traditional Costume Photo Tour 2026 | Review",
+                description: "An honest look at renting traditional Lao attire for a photo session in Vientiane.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/260de10b4ab38e693089a7a5227f5b5961e4e360f4b758bae62ac9e7505911e9.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This rents traditional Lao attire and pairs it with a guided photo session at scenic or temple locations — purely a photo/cultural-dress experience, not a sightseeing tour in itself.", tourCard: { slug: "vientiane-cultural-photography-tour", title: "Vientiane: Lao Cultural Attire Rental & Photo Session", description: "A traditional Lao costume rental and photo session.", price: "From $20", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/260de10b4ab38e693089a7a5227f5b5961e4e360f4b758bae62ac9e7505911e9.jpg" } },
+                    { title: "Practical Tips", content: "Worth it if you want distinctive travel photos in traditional dress — pair it with a temple visit for the best backdrop." }
+                ],
+                faqs: [
+                    { q: "Is the traditional costume photo tour worth it?", a: "Yes if you want distinctive photos in traditional Lao dress, best paired with a scenic or temple backdrop." }
+                ],
+            };
+
         default:
             return null;
     }
