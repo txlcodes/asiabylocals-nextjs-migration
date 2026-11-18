@@ -457,6 +457,744 @@ export function getSaudiArabiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-al-balad-walking-tour-jeddah":
+            return {
+                title: "Which Is the Best Al-Balad Walking Tour in Jeddah?",
+                seoTitle: "Best Al-Balad Walking Tour Jeddah 2026 | Honest Comparison",
+                description: "Compare real Al-Balad (historic Jeddah) walking tours — from a budget guided walk with tea and music to night tours and private certified-guide options.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e1c6e7d2ba651075f4b60f42eee190b03d60f6866cb3b79052fea97e72fd9ca2.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Al-Balad, Jeddah's UNESCO-listed historic district, is the most-toured spot in the city, with dozens of similar walking tours differing mainly on group size, timing (day vs. night), and whether tea/coffee is included.", tourCard: { slug: "jeddah-al-balad-guided-walking-tour-with-tea-music", title: "Jeddah: Al-Balad Guided Walking Tour with Tea & Music", description: "A guided Al-Balad walk with tea and live music.", price: "From $143", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e1c6e7d2ba651075f4b60f42eee190b03d60f6866cb3b79052fea97e72fd9ca2.jpeg" } },
+                    { title: "Best Value: Guided Walk with Tea & Music", content: "A well-rounded standard option including tea and live music alongside the walking tour itself.", tourCard: { slug: "jeddah-al-balad-guided-walking-tour-with-tea-music", title: "Jeddah: Al-Balad Guided Walking Tour with Tea & Music", description: "The standard Al-Balad walk with tea and music.", price: "From $143", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e1c6e7d2ba651075f4b60f42eee190b03d60f6866cb3b79052fea97e72fd9ca2.jpeg" } },
+                    { title: "Best Budget Option: Local Guide Walking Tour", content: "A simpler, lower-cost walking tour with a local guide, without the tea/music add-on.", tourCard: { slug: "al-balad-old-town-walking-tour-with-local-guide", title: "Al-Balad Old Town Walking Tour with Local Guide", description: "A straightforward budget Al-Balad walking tour.", price: "From $219", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0b0fbf4113169cd8881aa84696869521b01dacb2f0a672ea7770f388ee6299e8.jpg" } },
+                    { title: "Best After Dark: Al-Balad Night Tour", content: "This runs in the evening rather than daytime, when Al-Balad's old coral-stone buildings are lit differently and the heat has eased.", tourCard: { slug: "jeddah-al-balad-night-tour-with-coffee-and-guide", title: "Jeddah: Al-Balad Night Tour with Coffee and Guide", description: "An evening Al-Balad walking tour with coffee.", price: "From $245", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4e3ae467a02ecdeee5823865d78c505d93db6612580c13a3c34740a6aedd589e.jpg" } },
+                    { title: "Best Private Option: Private Walking Tour with Coffee", content: "A private version rather than a shared group walk, for travellers who want a more personal pace through the old city.", tourCard: { slug: "jeddah-al-balad-private-walking-tour-with-coffee", title: "Jeddah: Al-Balad Private Walking Tour with Coffee", description: "A private Al-Balad walking tour with coffee.", price: "From $312", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/990f7f15f3c79bff97aad6e43c724b269c0ec30811c686144f80e713a6a1aeec.png" } },
+                    { title: "Practical Tips", content: "Al-Balad's coral-stone merchant houses and wooden mashrabiya balconies are best appreciated with a guide who can point out details easy to miss — this is a genuine case where local knowledge adds real value beyond just walking around yourself." }
+                ],
+                faqs: [
+                    { q: "What is the best Al-Balad walking tour in Jeddah?", a: "A standard guided walk with tea/music suits most visitors; go private for a personal pace or night tours for the evening atmosphere." },
+                    { q: "Is Al-Balad worth visiting in Jeddah?", a: "Yes, it's Jeddah's UNESCO-listed historic district and the city's top attraction for history and architecture." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Al-Balad walking tour?", "acceptedAnswer": { "@type": "Answer", "text": "A standard guided walk with tea/music suits most visitors." } },
+                    { "@type": "Question", "name": "Is Al-Balad worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's Jeddah's UNESCO-listed historic district." } }
+                ] },
+            };
+
+        case "best-bayada-island-boat-trip-jeddah":
+            return {
+                title: "Which Is the Best Bayada Island Boat Trip from Jeddah?",
+                seoTitle: "Best Bayada Island Boat Trip Jeddah 2026 | Honest Comparison",
+                description: "Compare real Bayada Island boat trips from Jeddah — from snorkeling-included leisure trips to lunch-included and donut-ride combos.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ed4f210e0e6517f350848334bd097ee92bedc36e6ca660610ef4bb4d10cffdcc.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Bayada Island's clear shallow water has earned it the nickname 'Maldives of Jeddah,' and most boat trips there include some form of snorkeling. The differences come down to what else is added — lunch, a donut-ride tow, or private vs. shared boat.", tourCard: { slug: "jeddah-bayada-leisure-boat-trip-with-snorkeling", title: "Jeddah: Bayada Leisure Boat Trip with Snorkeling", description: "A leisure boat trip to Bayada Island with snorkeling.", price: "From $143", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ed4f210e0e6517f350848334bd097ee92bedc36e6ca660610ef4bb4d10cffdcc.jpg" } },
+                    { title: "Cheapest: Leisure Boat Trip with Snorkeling", content: "At $143, this is the standard entry point for a Bayada Island trip with snorkeling included.", tourCard: { slug: "jeddah-bayada-leisure-boat-trip-with-snorkeling", title: "Jeddah: Bayada Leisure Boat Trip with Snorkeling", description: "The standard-priced Bayada Island snorkeling trip.", price: "From $143", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ed4f210e0e6517f350848334bd097ee92bedc36e6ca660610ef4bb4d10cffdcc.jpg" } },
+                    { title: "Best Private Option: Private Sea Trip to Bayadah Island", content: "A private rather than shared boat, for groups who want the island to themselves rather than joining other travellers.", tourCard: { slug: "from-jeddah-private-sea-trip-to-bayadah-island", title: "From Jeddah: Private Sea Trip to Bayadah Island", description: "A private boat trip to Bayada Island.", price: "From $195", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2469033c809fd7842d40750ffc9bb505198bffaa695c090d584dc8349d8103b4.jpg" } },
+                    { title: "Best for Fun Extras: Boat Trip with Donut Ride", content: "This adds an inflatable donut-ride tow behind the boat, a playful extra for groups or families wanting more than just sunbathing and snorkeling.", tourCard: { slug: "jeddah-bayada-island-boat-trip-with-donut-ride", title: "Jeddah: Bayada Island Boat Trip with Donut Ride", description: "A Bayada Island trip with a donut-ride tow included.", price: "From $779", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f2ba3985497bf0be730157bf6e7a4e2822e5cc55dfc3d31bc6bcc19f1c76ff5b.jpg" } },
+                    { title: "Best with Lunch: Lunch Boat Trip to Swim & Snorkel", content: "Pairs the Bayada (or nearby Abu Tair) island trip with a proper lunch, good for making a full day of it rather than a half-day outing.", tourCard: { slug: "bayada-or-abu-tair-island-lunch-boat-trip-to", title: "Bayada or Abu Tair Island: Lunch Boat Trip to Swim & Snorkel", description: "An island boat trip with lunch included.", price: "From $1001", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8c0387e76855e764c115f1e8e3387f7cafa24a998ae19fc72c84c9b064c0d98c.jpg" } },
+                    { title: "Practical Tips", content: "Water visibility at Bayada is best in calm conditions, typically morning departures — afternoon wind can stir up the shallows. Bring reef-safe sunscreen since the coral here is a genuine, living reef system, not a dive-park attraction." }
+                ],
+                faqs: [
+                    { q: "What is the best Bayada Island boat trip from Jeddah?", a: "A standard leisure trip with snorkeling suits most visitors; go private for an island to yourselves, or add lunch for a fuller day." },
+                    { q: "Why is Bayada Island called the 'Maldives of Jeddah'?", a: "Its clear shallow turquoise water and white sand resemble Maldivian beaches, despite being a short boat ride from Jeddah." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Bayada Island boat trip?", "acceptedAnswer": { "@type": "Answer", "text": "A standard leisure trip with snorkeling suits most visitors." } },
+                    { "@type": "Question", "name": "Why is it called the 'Maldives of Jeddah'?", "acceptedAnswer": { "@type": "Answer", "text": "Its clear shallow turquoise water and white sand resemble the Maldives." } }
+                ] },
+            };
+
+        case "best-taif-day-trip-jeddah":
+            return {
+                title: "Which Is the Best Taif Day Trip from Jeddah?",
+                seoTitle: "Best Taif Day Trip from Jeddah 2026 | Honest Comparison",
+                description: "Compare real Taif day trips from Jeddah — the 'City of Roses' in the mountains above the Red Sea heat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9037f256d7717b0a2fa7803baaecce533ec11a8d3d7bf3d148099a9eca613c38.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Taif sits in the mountains above Jeddah, noticeably cooler and known for its rose gardens and distillation farms. Most day trips cover the drive up via the scenic Al-Hada escarpment road plus the city's sights.", tourCard: { slug: "from-jeddah-taif-city-of-roses-private-day-tour", title: "From Jeddah: Taif City of Roses Private Day Tour", description: "A private day trip to Taif, the City of Roses.", price: "From $428", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9037f256d7717b0a2fa7803baaecce533ec11a8d3d7bf3d148099a9eca613c38.jpg" } },
+                    { title: "Best Value: Private Day Tour", content: "A full private day trip covering Taif's rose gardens and city sights without joining a larger group.", tourCard: { slug: "from-jeddah-taif-city-of-roses-private-day-tour", title: "From Jeddah: Taif City of Roses Private Day Tour", description: "The standard private Taif day trip.", price: "From $428", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9037f256d7717b0a2fa7803baaecce533ec11a8d3d7bf3d148099a9eca613c38.jpg" } },
+                    { title: "Best with Lunch Included: Full Day Tour with Lunch", content: "This version, departing from both Jeddah and Makkah, adds lunch to the full-day Taif itinerary.", tourCard: { slug: "from-jeddah-makkah-taif-full-day-tour-with-lunch", title: "From Jeddah & Makkah: Taif Full Day Tour with Lunch", description: "A Taif day trip with lunch included, departing from Jeddah or Makkah.", price: "From $454", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e3e3832f2c8fd284.jpeg" } },
+                    { title: "Practical Tips", content: "The Al-Hada road up to Taif has dramatic mountain switchbacks and is itself part of the appeal — try to get a window seat. Temperatures in Taif run noticeably cooler than Jeddah's coastal heat, a welcome break in summer." }
+                ],
+                faqs: [
+                    { q: "What is the best Taif day trip from Jeddah?", a: "A private day tour covering the rose gardens and city sights suits most visitors; add lunch for convenience on the full-day version." },
+                    { q: "Why is Taif called the City of Roses?", a: "It's known for its rose gardens and traditional rose-water distillation farms in the surrounding mountains." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Taif day trip from Jeddah?", "acceptedAnswer": { "@type": "Answer", "text": "A private day tour covering the rose gardens and city sights." } },
+                    { "@type": "Question", "name": "Why is Taif called the City of Roses?", "acceptedAnswer": { "@type": "Answer", "text": "It's known for its rose gardens and rose-water distillation farms." } }
+                ] },
+            };
+
+        case "best-desert-safari-tour-jeddah":
+            return {
+                title: "Which Is the Best Desert Safari Tour in Jeddah?",
+                seoTitle: "Best Desert Safari Tour Jeddah 2026 | Honest Comparison",
+                description: "Compare real desert safari tours from Jeddah — from quad-bike mornings to dune bashing and camel farm combos.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c31fb6627ad733bc.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Jeddah's desert safaris run on the dunes just outside the city, usually combining dune bashing or quad biking with a stop at a camel farm. Timing (morning vs. full day) and vehicle type are the main differences.", tourCard: { slug: "jeddah-morning-desert-safari-with-quad-bike-tour", title: "Jeddah: Morning Desert Safari with Quad Bike Tour", description: "A morning desert safari with quad biking.", price: "From $325", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c31fb6627ad733bc.jpeg" } },
+                    { title: "Best Value: Morning Safari with Quad Bike", content: "A straightforward morning desert outing combining dune scenery with quad biking.", tourCard: { slug: "jeddah-morning-desert-safari-with-quad-bike-tour", title: "Jeddah: Morning Desert Safari with Quad Bike Tour", description: "The standard morning quad-bike desert safari.", price: "From $325", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c31fb6627ad733bc.jpeg" } },
+                    { title: "Best for Dune Bashing: Private Desert Dune Bashing Adventure", content: "This focuses specifically on 4WD dune bashing itself as the main activity, run as a private experience.", tourCard: { slug: "jeddah-3-hour-private-desert-dune-bashing", title: "Jeddah: 3-Hour Private Desert Dune Bashing Adventure", description: "A private 4WD dune-bashing adventure.", price: "From $319", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/faec7b78fb369bfe41a60b6a09ee34058bc0a394a56e5a05fe2e4b8597c3f42f.jpg" } },
+                    { title: "Practical Tips", content: "Morning or late-afternoon departures avoid the harshest midday desert heat — this matters more here than in a lot of other desert destinations given Jeddah's climate." }
+                ],
+                faqs: [
+                    { q: "What is the best desert safari tour in Jeddah?", a: "A morning quad-bike safari suits most visitors; go for a dedicated dune-bashing tour if that's the main draw." },
+                    { q: "What's included in a Jeddah desert safari?", a: "Typically dune bashing or quad biking plus a camel farm stop; timing varies by tour." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best desert safari tour in Jeddah?", "acceptedAnswer": { "@type": "Answer", "text": "A morning quad-bike safari suits most visitors." } },
+                    { "@type": "Question", "name": "What's included?", "acceptedAnswer": { "@type": "Answer", "text": "Typically dune bashing or quad biking plus a camel farm stop." } }
+                ] },
+            };
+
+        case "best-red-sea-boat-tour-jeddah":
+            return {
+                title: "Which Is the Best Red Sea Jet Ski or Speedboat Tour in Jeddah?",
+                seoTitle: "Best Red Sea Jet Ski Speedboat Tour Jeddah 2026 | Comparison",
+                description: "Compare real Red Sea jet ski and speedboat tours from Jeddah's Corniche and Obhur Beach.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b2948167b64e44c3d69128910b14e61b3ee5446bde3167fe2e4abb40704d00c7.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "For a short, fast burst of activity on the Red Sea rather than a full boat trip, jet ski and speedboat rides are the go-to — both run short sessions, typically 30-40 minutes, with the main choice being jet ski (self-driven) vs. speedboat (with a captain).", tourCard: { slug: "jeddah-red-sea-jet-ski-tour-with-photos", title: "Jeddah: Red Sea Jet Ski Tour with Photos", description: "A self-driven jet ski tour on the Red Sea with photos included.", price: "From $448", duration: "35 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b2948167b64e44c3d69128910b14e61b3ee5446bde3167fe2e4abb40704d00c7.jpeg" } },
+                    { title: "Best for Driving Yourself: Jet Ski Tour with Photos", content: "A self-driven jet ski session with photos included to capture the ride.", tourCard: { slug: "jeddah-red-sea-jet-ski-tour-with-photos", title: "Jeddah: Red Sea Jet Ski Tour with Photos", description: "The standard self-driven jet ski experience.", price: "From $448", duration: "35 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b2948167b64e44c3d69128910b14e61b3ee5446bde3167fe2e4abb40704d00c7.jpeg" } },
+                    { title: "Best for a Guided Ride: Speedboat Tour with Captain", content: "This has a captain driving, suiting travellers who want the speed and spray without needing a driving license or steering themselves.", tourCard: { slug: "jeddah-red-sea-speedboat-tour-with-captain", title: "Jeddah: Red Sea Speedboat Tour with Captain", description: "A captained speedboat ride on the Red Sea.", price: "From $332", duration: "40 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6d73061814c1017d0a00f96bc2033b67535408bf5ba1a1acc6a8e7e1c1fbb49b.jpg" } },
+                    { title: "Practical Tips", content: "Both run short, so pair with a longer Al-Balad walk or Bayada Island trip the same day if you want a fuller itinerary rather than just the water activity alone." }
+                ],
+                faqs: [
+                    { q: "What is the best Red Sea jet ski or speedboat tour in Jeddah?", a: "Jet ski if you want to drive yourself; speedboat with a captain if you'd rather just enjoy the ride." },
+                    { q: "Do I need a license for the Jeddah jet ski tour?", a: "Operators typically provide a brief orientation rather than requiring a formal license, but check specifics when booking." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best jet ski or speedboat tour in Jeddah?", "acceptedAnswer": { "@type": "Answer", "text": "Jet ski to drive yourself; speedboat with a captain for a guided ride." } },
+                    { "@type": "Question", "name": "Do I need a license?", "acceptedAnswer": { "@type": "Answer", "text": "Operators typically provide a brief orientation instead of requiring a formal license." } }
+                ] },
+            };
+
+        case "best-snorkeling-diving-tour-jeddah":
+            return {
+                title: "Which Is the Best Snorkeling or Diving Tour in Jeddah?",
+                seoTitle: "Best Snorkeling Diving Tour Jeddah 2026 | Honest Comparison",
+                description: "Compare real Red Sea snorkeling and diving tours from Jeddah, separate from the Bayada Island boat trips.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/18a970c362bfda61a78075d99acbeeca6f1b3ca3ef79231829e5760e6e615da2.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Jeddah's Red Sea reefs are a genuine diving and snorkeling destination separate from the island day-trips — these tours focus specifically on the reef itself rather than beach/island time.", tourCard: { slug: "jeddah-guided-snorkeling-trip-with-snacks-and", title: "Jeddah: Guided Snorkeling Trip with Snacks and Drinks", description: "A guided Red Sea snorkeling trip with snacks and drinks.", price: "From $143", duration: "5.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fe2e2c258a34ded4e90a46a1360e1a72ff2d94a384b5bb396936306eb80e16dc.jpg" } },
+                    { title: "Best Value: Guided Snorkeling Trip", content: "A straightforward guided snorkeling outing with snacks and drinks included.", tourCard: { slug: "jeddah-guided-snorkeling-trip-with-snacks-and", title: "Jeddah: Guided Snorkeling Trip with Snacks and Drinks", description: "The standard guided snorkeling trip.", price: "From $143", duration: "5.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fe2e2c258a34ded4e90a46a1360e1a72ff2d94a384b5bb396936306eb80e16dc.jpg" } },
+                    { title: "Best for Certified Divers: Snorkeling & Diving Yacht Trip", content: "This runs on a yacht rather than a basic boat and caters to both snorkelers and certified divers in the same trip.", tourCard: { slug: "jeddah-red-sea-snorkeling-and-diving-yacht-trip", title: "Jeddah: Red Sea Snorkeling and Diving Yacht Trip", description: "A yacht trip combining snorkeling and scuba diving.", price: "From $156", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/18a970c362bfda61a78075d99acbeeca6f1b3ca3ef79231829e5760e6e615da2.jpeg" } },
+                    { title: "Practical Tips", content: "Certified divers should confirm their certification level and bring proof of certification — some operators require it before allowing deeper reef dives, while snorkeling has no such requirement." }
+                ],
+                faqs: [
+                    { q: "What is the best snorkeling or diving tour in Jeddah?", a: "A guided snorkeling trip suits casual swimmers; the yacht trip suits certified divers wanting to go deeper." },
+                    { q: "Do I need certification to dive in Jeddah?", a: "Yes for scuba diving; snorkeling has no certification requirement." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best snorkeling or diving tour in Jeddah?", "acceptedAnswer": { "@type": "Answer", "text": "A guided snorkeling trip suits casual swimmers." } },
+                    { "@type": "Question", "name": "Do I need certification to dive?", "acceptedAnswer": { "@type": "Answer", "text": "Yes for scuba diving, no for snorkeling." } }
+                ] },
+            };
+
+        case "is-moon-mountain-hike-worth-it-jeddah":
+            return {
+                title: "Is the Moon Mountain/Valley Hike Near Jeddah Worth It?",
+                seoTitle: "Moon Mountain Hike Jeddah 2026 | Honest Review",
+                description: "An honest look at the Moon Mountain and Moon Valley guided hikes near Jeddah.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/079dc3f54799dcc007322973c37732ca0c5fa63bc1d197e0202fdbc8ff9f0e78.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Moon Mountain (and the nearby Moon Valley) offer a genuinely different landscape from Jeddah's coast — rocky desert terrain good for sunrise/sunset hikes. Two real versions exist: a standard guided hike with snacks, and a meditation-focused hike through Moon Valley.", tourCard: { slug: "jeddah-moon-mountain-guided-hiking-tour-with", title: "Jeddah: Moon Mountain Guided Hiking Tour with Snacks", description: "A guided hike up Moon Mountain with snacks included.", price: "From $156", duration: "4.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/079dc3f54799dcc007322973c37732ca0c5fa63bc1d197e0202fdbc8ff9f0e78.jpeg" } },
+                    { title: "Alternative: Moon Valley Hike with Meditation", content: "This version runs through Moon Valley specifically and adds a meditation component, a slower-paced alternative to the standard mountain hike.", tourCard: { slug: "from-jeddah-moon-valley-guided-hike-with", title: "From Jeddah: Moon Valley Guided Hike with Meditation", description: "A meditation-focused guided hike through Moon Valley.", price: "From $155", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e59191b2cca5e8ef73eb30e6c28067a9a4b7b3ab5beadd4ac7f92de7c0068242.jpg" } },
+                    { title: "Practical Tips", content: "Worth it for travellers wanting a landscape break from Jeddah's beaches and old town — sunrise or sunset timing is strongly recommended over midday heat." }
+                ],
+                faqs: [
+                    { q: "Is the Moon Mountain hike near Jeddah worth it?", a: "Yes, for a different desert-landscape experience away from the coast — time it for sunrise or sunset." },
+                    { q: "What's the difference between the Moon Mountain and Moon Valley hikes?", a: "Moon Mountain is a standard guided hike with snacks; Moon Valley adds a meditation component." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Moon Mountain hike worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a different desert-landscape experience." } },
+                    { "@type": "Question", "name": "What's the difference between the two hikes?", "acceptedAnswer": { "@type": "Answer", "text": "Moon Mountain is standard; Moon Valley adds meditation." } }
+                ] },
+            };
+
+        case "is-teamlab-borderless-jeddah-worth-it":
+            return {
+                title: "Is teamLab Borderless Jeddah Worth It?",
+                seoTitle: "teamLab Borderless Jeddah 2026 | Honest Review",
+                description: "An honest look at teamLab Borderless Jeddah, the immersive digital art museum.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bba99e3f039216a5ca91e2655f7cebcfe01e9e22a7bdd02f6549e765a70d11d5.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "teamLab Borderless brings over 50 immersive digital art installations to Jeddah, the same globally known format seen in Tokyo and other cities. Worth it for travellers who enjoy interactive, photogenic art experiences.", tourCard: { slug: "teamlab-borderless-jeddah-digital-art-museum-with", title: "teamLab Borderless Jeddah: Digital Art Museum with 50+ Works", description: "Entry to the teamLab Borderless immersive digital art museum.", price: "From $150", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bba99e3f039216a5ca91e2655f7cebcfe01e9e22a7bdd02f6549e765a70d11d5.jpg" } },
+                    { title: "Combo Option: Marina Tour, Art Workshop & teamLab", content: "This bundles the teamLab visit with a marina tour and an art workshop for a fuller day out.", tourCard: { slug: "jeddah-marina-tour-art-workshop-teamlab-exhibition", title: "Jeddah Marina Tour, Art Workshop & teamLab Exhibition", description: "teamLab combined with a marina tour and art workshop.", price: "From $233", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/23aecc511d9b380eb39b835fe26938b0189b638b4d4107b7dc3a37de85ad82c5.jpeg" } },
+                    { title: "Practical Tips", content: "Allow a full 2-3 hours inside to see the installations properly — rushing through defeats the point of an immersive space like this." }
+                ],
+                faqs: [
+                    { q: "Is teamLab Borderless Jeddah worth it?", a: "Yes, for travellers who enjoy immersive digital art — it's the same acclaimed format as teamLab's other global locations." },
+                    { q: "How long should I spend at teamLab Borderless Jeddah?", a: "At least 2-3 hours to properly experience the installations." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is teamLab Borderless Jeddah worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travellers who enjoy immersive digital art." } },
+                    { "@type": "Question", "name": "How long should I spend there?", "acceptedAnswer": { "@type": "Answer", "text": "At least 2-3 hours." } }
+                ] },
+            };
+
+        case "best-jeddah-city-tour":
+            return {
+                title: "Which Is the Best Jeddah City Tour?",
+                seoTitle: "Best Jeddah City Tour 2026 | Honest Comparison",
+                description: "Compare real Jeddah city tours covering Al-Balad, the Corniche, and the city's modern landmarks.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c80e086564d78e8946d30565fb77d1bf54d3a7603fbdfec57526bdff624e8cde.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "A city tour covers more ground than a dedicated Al-Balad walk alone — typically Al-Balad plus the Corniche waterfront and modern city highlights like the King Fahd Fountain.", tourCard: { slug: "jeddah-city-highlights-tour-with-local-guide", title: "Jeddah: City Highlights Tour with Local Guide", description: "A city tour covering Jeddah's key highlights.", price: "From $325", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c80e086564d78e8946d30565fb77d1bf54d3a7603fbdfec57526bdff624e8cde.jpeg" } },
+                    { title: "Best Combo: City Tour with Al-Balad and Corniche", content: "This explicitly pairs the historic Al-Balad district with a Corniche waterfront visit in one tour.", tourCard: { slug: "jeddah-private-city-tour-with-al-balad-and", title: "Jeddah: Private City Tour with Al-Balad and Corniche", description: "A private city tour combining Al-Balad and the Corniche.", price: "From $351", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c97ac459237c8482729608abd767841331cffa8df1865f7ca1abddb0dc3f7598.jpeg" } },
+                    { title: "Practical Tips", content: "If you've already booked a dedicated Al-Balad walking tour separately, a full city tour may feel repetitive — in that case, a Corniche-focused add-on alone is more efficient than a second full city tour." }
+                ],
+                faqs: [
+                    { q: "What is the best Jeddah city tour?", a: "One covering both Al-Balad and the Corniche gives the broadest overview in a single outing." },
+                    { q: "Should I book a city tour if I'm already doing an Al-Balad walk?", a: "Consider a Corniche-focused add-on instead, to avoid repeating the same historic-district content." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Jeddah city tour?", "acceptedAnswer": { "@type": "Answer", "text": "One covering both Al-Balad and the Corniche." } },
+                    { "@type": "Question", "name": "Should I book both a city tour and an Al-Balad walk?", "acceptedAnswer": { "@type": "Answer", "text": "Probably not both — pick a Corniche add-on instead to avoid repetition." } }
+                ] },
+            };
+
+        case "is-mecca-day-trip-worth-it-from-jeddah":
+            return {
+                title: "Is a Mecca Day Trip from Jeddah Worth It?",
+                seoTitle: "Mecca Day Trip from Jeddah 2026 | Honest Review",
+                description: "An honest look at the Mecca Historical & Religious Tour from Jeddah — who it's for and what's actually included.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cd30ecf865a5c25978ee112c392504f8efec610e4930909d10668b2d30fdbee5.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour covers Mecca's historical and religious sites viewable by non-pilgrims from outside the Grand Mosque's restricted areas — note that access to the Grand Mosque itself and Umrah/Hajj rites are restricted to Muslims under Saudi law, so this is a historical-context tour, not a religious pilgrimage package.", tourCard: { slug: "mecca-historical-religious-tour-with-from-jeddah", title: "Mecca Historical & Religious Tour with from Jeddah", description: "A historical and religious context tour of Mecca from Jeddah.", price: "From $624", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cd30ecf865a5c25978ee112c392504f8efec610e4930909d10668b2d30fdbee5.jpg" } },
+                    { title: "Practical Tips", content: "Confirm with the operator exactly what's included before booking — access rules around Mecca are strictly regulated, and what's viewable differs significantly depending on faith and status." }
+                ],
+                faqs: [
+                    { q: "Can non-Muslims visit Mecca?", a: "No, access to Mecca's central holy sites is restricted to Muslims under Saudi law — confirm exactly what any tour includes before booking." },
+                    { q: "Is the Mecca day trip from Jeddah worth it?", a: "Worth checking the specifics with the operator first, since Mecca access is religiously and legally restricted." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Can non-Muslims visit Mecca?", "acceptedAnswer": { "@type": "Answer", "text": "No, access to Mecca's central holy sites is restricted to Muslims." } },
+                    { "@type": "Question", "name": "Is the Mecca day trip worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Check specifics with the operator given access restrictions." } }
+                ] },
+            };
+
+        case "is-jeddah-stargazing-camp-worth-it":
+            return {
+                title: "Is the Jeddah Private Mobile Stargazing Camp Worth It?",
+                seoTitle: "Jeddah Stargazing Camp 2026 | Honest Review",
+                description: "An honest look at Jeddah's private mobile stargazing camp experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/586a20e59edecb85ed600c3357e8b031751911f02ac6987bae12afc593b5437e.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This takes you out beyond Jeddah's city light pollution for a telescope-equipped stargazing session, set up as a private mobile camp rather than a fixed observatory.", tourCard: { slug: "jeddah-private-mobile-stargazing-camp-experience", title: "Jeddah: Private Mobile Stargazing Camp Experience", description: "A private stargazing camp experience outside Jeddah.", price: "From $1039", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/586a20e59edecb85ed600c3357e8b031751911f02ac6987bae12afc593b5437e.jpeg" } },
+                    { title: "Practical Tips", content: "Worth it specifically for clear, moonless nights — check the lunar calendar before booking since a bright moon washes out fainter stars." }
+                ],
+                faqs: [
+                    { q: "Is the Jeddah stargazing camp worth it?", a: "Yes on a clear, moonless night away from city light pollution." },
+                    { q: "How long does the stargazing experience take?", a: "Around 10 hours including the drive out and back." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Jeddah stargazing camp worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes on a clear, moonless night." } },
+                    { "@type": "Question", "name": "How long does it take?", "acceptedAnswer": { "@type": "Answer", "text": "Around 10 hours including the drive." } }
+                ] },
+            };
+
+        case "jeddah-travel-guide-2026":
+            return {
+                title: "Jeddah Travel Guide 2026",
+                description: "Saudi Arabia's Red Sea gateway city, mixing a UNESCO-listed old town with modern beaches and a growing cultural scene.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e1c6e7d2ba651075f4b60f42eee190b03d60f6866cb3b79052fea97e72fd9ca2.jpeg",
+                sections: [
+                    { title: "Why Visit Jeddah", content: "Jeddah blends Al-Balad's historic coral-stone architecture with Red Sea beaches, island day trips, and newer cultural additions like teamLab Borderless — a good mix of history and modern attractions in one coastal city." },
+                    { title: "Getting Around", content: "Taxis and ride-hailing apps (Uber/Careem) are the standard way to get around; Al-Balad itself is best explored on foot once you're there." }
+                ],
+                faqs: [
+                    { q: "Is Jeddah worth visiting?", a: "Yes, for Al-Balad's history, Red Sea beaches and island trips, and a growing modern cultural scene." },
+                    { q: "How do I get around Jeddah?", a: "Ride-hailing apps for getting between areas; walking within Al-Balad itself." }
+                ],
+            };
+
+        case "best-time-to-visit-jeddah":
+            return {
+                title: "Best Time to Visit Jeddah",
+                description: "Jeddah's coastal heat and humidity make timing matter more than in Riyadh's drier desert climate.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e1c6e7d2ba651075f4b60f42eee190b03d60f6866cb3b79052fea97e72fd9ca2.jpeg",
+                sections: [
+                    { title: "Weather Patterns", content: "November to March is noticeably more comfortable, with temperatures in the 25-30°C range. Summer (June-September) is hot and humid given the Red Sea coastal location, making outdoor activities like Al-Balad walks or desert safaris much tougher." }
+                ],
+                faqs: [
+                    { q: "What is the best time to visit Jeddah?", a: "November to March, for cooler and less humid conditions." }
+                ],
+            };
+
+        case "jeddah-1-day-itinerary":
+            return {
+                title: "Jeddah 1-Day Itinerary",
+                description: "A realistic one-day plan for Jeddah covering its historic and coastal sides.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e1c6e7d2ba651075f4b60f42eee190b03d60f6866cb3b79052fea97e72fd9ca2.jpeg",
+                sections: [
+                    { title: "Morning", content: "Start with an Al-Balad walking tour while temperatures are still manageable." },
+                    { title: "Afternoon", content: "Head to the Corniche waterfront or book a Bayada Island boat trip if you have more time." },
+                    { title: "Evening", content: "Finish with dinner along the Corniche, or an Al-Balad night tour if you skipped the morning version." }
+                ],
+                faqs: [
+                    { q: "Can Jeddah be seen in one day?", a: "The core sights, yes — Al-Balad and the Corniche fit comfortably into a day; island trips need their own half-day." }
+                ],
+            };
+
+        case "is-jeddah-safe":
+            return {
+                title: "Is Jeddah Safe for Tourists?",
+                description: "An honest look at safety in Jeddah for visitors.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e1c6e7d2ba651075f4b60f42eee190b03d60f6866cb3b79052fea97e72fd9ca2.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Jeddah is generally very safe for tourists, with low violent crime rates. The main things to be mindful of are local dress-code and cultural norms rather than personal safety concerns." }
+                ],
+                faqs: [
+                    { q: "Is Jeddah safe for tourists?", a: "Yes, generally very safe — be mindful of local dress codes and cultural norms rather than safety concerns." }
+                ],
+            };
+
+        case "jeddah-dress-code-guide":
+            return {
+                title: "Jeddah Dress Code Guide for Tourists",
+                description: "What to wear in Jeddah as a visitor, and where the rules differ from the rest of Saudi Arabia.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e1c6e7d2ba651075f4b60f42eee190b03d60f6866cb3b79052fea97e72fd9ca2.jpeg",
+                sections: [
+                    { title: "What to Wear", content: "Modest dress (covering shoulders and knees) is expected in public areas for both men and women; an abaya is not legally required for foreign women, but conservative clothing is still expected. Swimwear is fine at private beach clubs and resort areas but not in public spaces." }
+                ],
+                faqs: [
+                    { q: "Do foreign women need to wear an abaya in Jeddah?", a: "No, it's not legally required, but modest, conservative clothing is still expected in public." },
+                    { q: "Can I wear swimwear in Jeddah?", a: "Yes, at private beach clubs and resorts, but not in general public spaces." }
+                ],
+            };
+
+        case "is-pottery-workshop-worth-it-jeddah":
+            return {
+                title: "Is the Jeddah Pottery Workshop Worth It?",
+                seoTitle: "Jeddah Pottery Workshop 2026 | Honest Review",
+                description: "An honest look at Jeddah's make-and-take pottery workshop with coffee and dates.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f8012aba81cfcddb5d95217ea2eabfc13dffc0afc450c32678bc9eb7e713eaa2.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A hands-on pottery workshop where you make and keep your own piece, served with traditional Saudi coffee and dates — a slower, creative alternative to sightseeing-heavy days.", tourCard: { slug: "jeddah-make-and-take-pottery-workshop-with-coffee", title: "Jeddah: Make-and-Take Pottery Workshop with Coffee & Dates", description: "A hands-on pottery workshop with Saudi coffee and dates.", price: "From $59", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f8012aba81cfcddb5d95217ea2eabfc13dffc0afc450c32678bc9eb7e713eaa2.jpg" } },
+                    { title: "Practical Tips", content: "Worth it for travellers wanting a creative, hands-on break between sightseeing days — you take your finished piece home as a souvenir." }
+                ],
+                faqs: [
+                    { q: "Is the Jeddah pottery workshop worth it?", a: "Yes, for a creative hands-on activity and a souvenir you make yourself." }
+                ],
+            };
+
+        case "is-paddleboarding-worth-it-jeddah":
+            return {
+                title: "Is Jeddah's Red Sea Stand-Up Paddleboarding Worth It?",
+                seoTitle: "Jeddah Stand-Up Paddleboarding 2026 | Honest Review",
+                description: "An honest look at Jeddah's Red Sea stand-up paddleboarding experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0b19fc5035b6ace23cf58822c12a1fe58cdbb00907c6be9924ced09f1db6555a.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "A short, low-cost paddleboarding session on calm Red Sea water near Jeddah's coast — a gentler alternative to jet ski or speedboat tours.", tourCard: { slug: "jeddah-red-sea-stand-up-paddleboarding-experience", title: "Jeddah: Red Sea Stand-Up Paddleboarding Experience", description: "A stand-up paddleboarding session on the Red Sea.", price: "From $33", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0b19fc5035b6ace23cf58822c12a1fe58cdbb00907c6be9924ced09f1db6555a.jpeg" } },
+                    { title: "Practical Tips", content: "Good for beginners since no prior experience is needed; calmer morning water makes balancing easier than later in the day." }
+                ],
+                faqs: [
+                    { q: "Is Jeddah's paddleboarding experience worth it?", a: "Yes, it's an affordable, beginner-friendly way to get on the Red Sea." }
+                ],
+            };
+
+        case "is-museum-of-islamic-art-worth-it-jeddah":
+            return {
+                title: "Is the Museum of Islamic Art in Jeddah Worth It?",
+                seoTitle: "Museum of Islamic Art Jeddah 2026 | Honest Review",
+                description: "An honest look at the Museum of Islamic Art guided tour in Jeddah.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f0c1a38f4e33a66638f50e79a5935e10c7d50154879c1670701abd529bab32c7.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A guided tour of Jeddah's Islamic art collection, a good lower-key cultural stop if you want a break from outdoor heat or want to pair history-focused sightseeing with a museum visit.", tourCard: { slug: "museum-of-islamic-art-guided-tour", title: "Museum of Islamic Art Guided Tour", description: "A guided tour of the Museum of Islamic Art in Jeddah.", price: "From $201", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f0c1a38f4e33a66638f50e79a5935e10c7d50154879c1670701abd529bab32c7.jpg" } },
+                    { title: "Practical Tips", content: "A good midday option when outdoor heat makes Al-Balad walking less appealing — air-conditioned and indoors." }
+                ],
+                faqs: [
+                    { q: "Is the Museum of Islamic Art in Jeddah worth it?", a: "Yes, especially as a midday indoor break from the heat, with genuine cultural depth." }
+                ],
+            };
+
+        case "jeddah-food-guide":
+            return {
+                title: "Jeddah Food Guide",
+                description: "What to eat in Jeddah, from Al-Balad street food to Red Sea seafood.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e1c6e7d2ba651075f4b60f42eee190b03d60f6866cb3b79052fea97e72fd9ca2.jpeg",
+                sections: [
+                    { title: "Local Specialties", content: "Jeddah is known for fresh Red Sea seafood given its coastal location, plus regional Hejazi dishes like mandi and saleeg. Al-Balad's old streets have traditional cafes worth seeking out for the full local experience." }
+                ],
+                faqs: [
+                    { q: "What food is Jeddah known for?", a: "Fresh Red Sea seafood and regional Hejazi dishes like mandi and saleeg." }
+                ],
+            };
+
+        case "best-hegra-tour-alula":
+            return {
+                title: "Which Is the Best Hegra Tour in AlUla?",
+                seoTitle: "Best Hegra Tour AlUla 2026 | Honest Comparison",
+                description: "Compare real Hegra (Madain Saleh) tours in AlUla — Saudi's first UNESCO World Heritage Site — from a $46 basic tour to vintage Land Rover and local-guide combos.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6253ef5fa00ba.png",
+                sections: [
+                    { title: "The Short Answer", content: "Hegra's Nabataean rock tombs are AlUla's single biggest draw and Saudi's first UNESCO site. A basic guided tour covers the tombs; pricier versions add a local guide, vintage transport, or pair it with Dadan and Old Town.", tourCard: { slug: "from-alula-hegra-tour", title: "From AlUla: Hegra Tour", description: "A straightforward guided tour of Hegra's Nabataean tombs.", price: "From $46", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6253ef5fa00ba.png" } },
+                    { title: "Cheapest: Basic Hegra Tour", content: "At $46, this is the lowest-priced way to see Hegra's tombs with a guide.", tourCard: { slug: "from-alula-hegra-tour", title: "From AlUla: Hegra Tour", description: "The budget Hegra tour option.", price: "From $46", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6253ef5fa00ba.png" } },
+                    { title: "Best Value Group Tour: UNESCO Shuttle Bus Tour", content: "This runs as a shuttle-bus group tour of the UNESCO-listed site, a practical middle option between the cheapest and the private versions.", tourCard: { slug: "al-ula-group-shuttle-bus-tour-of-unesco-listed", title: "Al-Ula: Group Shuttle Bus Tour of UNESCO-Listed Hegra", description: "A group shuttle-bus tour of Hegra.", price: "From $496", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/313a2aa40bfe6a85f0964f682c2c84888ca5594e273455f6adcbb7496a936b37.jpeg" } },
+                    { title: "Best Combo: Old Town, Hegra Tombs & More", content: "Pairs Hegra with AlUla's Old Town in a single day, efficient if you want both without two separate bookings.", tourCard: { slug: "al-ula-day-tour-of-old-town-hegra-tombs", title: "Al-Ula: Day Tour of Old Town, Hegra Tombs & Elephant Rock", description: "A combo day covering Old Town, Hegra, and Elephant Rock.", price: "From $259", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/067c27e7250e4c399d25aa1e10bad4c43bd014be55c7a33a4e86a868383aefbb.jpg" } },
+                    { title: "Practical Tips", content: "Hegra can only be visited with an official guide (independent entry isn't permitted), so every tour here already includes that requirement built in. Midday heat is intense outside winter months — early morning or sunset slots are more comfortable." }
+                ],
+                faqs: [
+                    { q: "What is the best Hegra tour in AlUla?", a: "A basic guided tour suits most visitors; combo tours add Old Town or Elephant Rock for a fuller day." },
+                    { q: "Can I visit Hegra without a guide?", a: "No, independent entry isn't permitted — all visits require an official guide, which every tour includes." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Hegra tour in AlUla?", "acceptedAnswer": { "@type": "Answer", "text": "A basic guided tour suits most visitors." } },
+                    { "@type": "Question", "name": "Can I visit Hegra without a guide?", "acceptedAnswer": { "@type": "Answer", "text": "No, independent entry isn't permitted." } }
+                ] },
+            };
+
+        case "best-dadan-jabal-ikmah-tour-alula":
+            return {
+                title: "Which Is the Best Dadan & Jabal Ikmah Tour in AlUla?",
+                seoTitle: "Best Dadan Jabal Ikmah Tour AlUla 2026 | Comparison",
+                description: "Compare real Dadan and Jabal Ikmah ancient rock inscription tours in AlUla, from a $25 budget option to optional-pickup versions.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e3d32074bdc6e38fb5d1c1038e59f5fa9cfdbbed4d87e96005ffb238ec9fb8f7.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Dadan (one of the ancient Arabian Peninsula's largest cities) and Jabal Ikmah's open-air rock inscriptions are usually visited together as a shorter, less crowded alternative to Hegra.", tourCard: { slug: "alula-dadan-jabal-ikmah-tour-of-ancient-rock", title: "AlUla: Dadan & Jabal Ikmah Tour of Ancient Rock Inscriptions", description: "A guided tour of Dadan and Jabal Ikmah's ancient inscriptions.", price: "From $25", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e3d32074bdc6e38fb5d1c1038e59f5fa9cfdbbed4d87e96005ffb238ec9fb8f7.jpg" } },
+                    { title: "Cheapest: Standard Tour", content: "At $25, this is the lowest-priced way to see both sites with a guide.", tourCard: { slug: "alula-dadan-jabal-ikmah-tour-of-ancient-rock", title: "AlUla: Dadan & Jabal Ikmah Tour of Ancient Rock Inscriptions", description: "The budget option for Dadan and Jabal Ikmah.", price: "From $25", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e3d32074bdc6e38fb5d1c1038e59f5fa9cfdbbed4d87e96005ffb238ec9fb8f7.jpg" } },
+                    { title: "Best with Pickup: Optional Hotel Pickup Version", content: "This adds optional hotel pickup to the standard tour, convenient if you don't want to arrange your own transport to the meeting point.", tourCard: { slug: "al-ula-dadan-jabal-ikmah-tour-with-optional-pickup", title: "Al-Ula: Dadan & Jabal Ikmah Tour with Optional Pickup", description: "The same tour with optional hotel pickup.", price: "From $28", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/62540f47a7ef9.jpeg" } },
+                    { title: "Practical Tips", content: "Dadan and Jabal Ikmah are far less crowded than Hegra, making this a good choice if you want a quieter, more contemplative visit to AlUla's ancient inscriptions." }
+                ],
+                faqs: [
+                    { q: "What is the best Dadan and Jabal Ikmah tour in AlUla?", a: "A standard guided tour suits most visitors; add hotel pickup for convenience." },
+                    { q: "Is Dadan less crowded than Hegra?", a: "Yes, generally — it's a quieter alternative covering a different part of AlUla's ancient history." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Dadan and Jabal Ikmah tour?", "acceptedAnswer": { "@type": "Answer", "text": "A standard guided tour suits most visitors." } },
+                    { "@type": "Question", "name": "Is Dadan less crowded than Hegra?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, generally quieter." } }
+                ] },
+            };
+
+        case "best-old-town-tour-alula":
+            return {
+                title: "Which Is the Best Old Town Tour in AlUla?",
+                seoTitle: "Best Old Town Tour AlUla 2026 | Honest Comparison",
+                description: "Compare real AlUla Old Town tours — from a basic $64 walking tour to a private sunset version with the Oasis and Harrat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a2db9ebff323fde0435b8a5e2ff238183662e034ef002f64f6d6d5fba59d1536.png",
+                sections: [
+                    { title: "The Short Answer", content: "AlUla's mudbrick Old Town, inhabited for centuries until the 1980s, is walkable in under an hour with a basic guide — pricier private versions extend into the Oasis and Harrat lava field at sunset.", tourCard: { slug: "tour-alulas-old-town", title: "Tour AlUla's Old Town", description: "A basic walking tour of AlUla's historic mudbrick Old Town.", price: "From $64", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a2db9ebff323fde0435b8a5e2ff238183662e034ef002f64f6d6d5fba59d1536.png" } },
+                    { title: "Cheapest: Basic Old Town Walk", content: "At $64, this covers the Old Town's mudbrick lanes with a guide in under an hour.", tourCard: { slug: "tour-alulas-old-town", title: "Tour AlUla's Old Town", description: "The budget Old Town walking tour.", price: "From $64", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a2db9ebff323fde0435b8a5e2ff238183662e034ef002f64f6d6d5fba59d1536.png" } },
+                    { title: "Best for Sunset: Private Old Town, Oasis & Harrat Sunset", content: "This private version extends the Old Town visit into the palm Oasis and the Harrat lava field, timed for sunset light.", tourCard: { slug: "alula-private-old-town-oasis-harrat-sunset", title: "AlUla Private Old Town, Oasis & Harrat Sunset", description: "A private sunset tour covering Old Town, Oasis, and Harrat.", price: "From $298", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5b977d84c9ff11d53d2a1a517275aa3f50d4e6c01e0d198b5052c0a6a52c38dc.png" } },
+                    { title: "Practical Tips", content: "The Old Town's narrow lanes offer welcome shade from AlUla's intense sun — a good midday option when outdoor desert activities are less comfortable." }
+                ],
+                faqs: [
+                    { q: "What is the best Old Town tour in AlUla?", a: "A basic walking tour suits most visitors; the private sunset version adds the Oasis and Harrat lava field." },
+                    { q: "How long does the Old Town tour take?", a: "The basic version runs about an hour; extended private versions run 3-4 hours." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Old Town tour in AlUla?", "acceptedAnswer": { "@type": "Answer", "text": "A basic walking tour suits most visitors." } },
+                    { "@type": "Question", "name": "How long does the Old Town tour take?", "acceptedAnswer": { "@type": "Answer", "text": "About an hour for the basic version." } }
+                ] },
+            };
+
+        case "is-elephant-rock-tour-worth-it-alula":
+            return {
+                title: "Is AlUla's Elephant Rock Tour Worth It?",
+                seoTitle: "Elephant Rock AlUla Tour 2026 | Honest Review",
+                description: "An honest look at AlUla's Elephant Rock and Hidden Gems private tour — one of AlUla's most photographed natural rock formations.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fffaf98c74de77c6dcb69cf5960ccb89133127d791fef28d89545ab9f866e56a.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Elephant Rock (Jabal AlFil) is a massive natural sandstone formation shaped like an elephant, best visited near sunset when the rock glows orange — this private tour pairs it with other lesser-known spots nearby.", tourCard: { slug: "alula-elephant-rock-and-hidden-gems-private-tour", title: "AlUla: Elephant Rock and Hidden Gems Private Tour", description: "A private tour of Elephant Rock and nearby hidden spots.", price: "From $748", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fffaf98c74de77c6dcb69cf5960ccb89133127d791fef28d89545ab9f866e56a.jpg" } },
+                    { title: "Practical Tips", content: "Elephant Rock is free to visit on your own if you have transport — this tour's value is in the 'hidden gems' add-ons and private guiding, not the rock itself, which has a public viewing area with food trucks and seating." }
+                ],
+                faqs: [
+                    { q: "Is the Elephant Rock tour worth it?", a: "Worth it for the hidden-gems add-ons and private guiding; the rock itself is free to view independently if you have transport." },
+                    { q: "When is the best time to see Elephant Rock?", a: "Near sunset, when the sandstone glows orange." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Elephant Rock tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Worth it for the hidden-gems add-ons and private guiding." } },
+                    { "@type": "Question", "name": "Best time to see Elephant Rock?", "acceptedAnswer": { "@type": "Answer", "text": "Near sunset." } }
+                ] },
+            };
+
+        case "is-maraya-experience-worth-it-alula":
+            return {
+                title: "Is AlUla's Maraya Experience Worth It?",
+                seoTitle: "Maraya AlUla Experience 2026 | Honest Review",
+                description: "An honest look at AlUla's Maraya, the world's largest mirrored building — ticket tour vs. photoshoot experiences.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b83fb4a3d2c396c2992392eafd7902de687e07701af850739df07e3bc8fa0ac6.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Maraya is the world's largest mirrored building, reflecting the surrounding desert landscape — a basic ticket-and-tour covers the building itself, while pricier options add a professional or luxury photoshoot.", tourCard: { slug: "alula-ticket-and-tour-of-the-maraya-reflecting", title: "AlUla: Ticket and Tour of the Maraya Reflecting Hall", description: "A basic ticket and tour of the mirrored Maraya hall.", price: "From $34", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b83fb4a3d2c396c2992392eafd7902de687e07701af850739df07e3bc8fa0ac6.jpg" } },
+                    { title: "Practical Tips", content: "Maraya also hosts concerts and events, so check what's on during your visit — the building's program changes, and some experiences may only be available alongside a scheduled event." }
+                ],
+                faqs: [
+                    { q: "Is Maraya worth visiting?", a: "Yes, as the world's largest mirrored building it's a genuinely unique architectural sight." },
+                    { q: "What is Maraya used for besides tours?", a: "It also hosts concerts and events — check the program for your visit dates." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Maraya worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as the world's largest mirrored building." } },
+                    { "@type": "Question", "name": "What else happens at Maraya?", "acceptedAnswer": { "@type": "Answer", "text": "It hosts concerts and events." } }
+                ] },
+            };
+
+        case "best-desert-4x4-tour-alula":
+            return {
+                title: "Which Is the Best Desert 4x4 Tour in AlUla?",
+                seoTitle: "Best Desert 4x4 Tour AlUla 2026 | Honest Comparison",
+                description: "Compare real desert 4x4 and dune buggy adventures in AlUla — from a canyon tour to Mount Al-Qaws dune bashing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/80896d3467da25a69af64f30b9d5709e23b0586b547dce1aeda4f42e88b1a765.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "AlUla's desert landscape is as much a draw as its ancient sites, and 4x4/dune buggy tours cover Wadi Al Disah's canyons and Mount Al-Qaws's dunes — pick based on canyon scenery versus pure dune-bashing adrenaline.", tourCard: { slug: "from-alula-private-wadi-al-disah-4x4-canyon-tour", title: "From AlUla: Private Wadi Al Disah 4x4 Canyon Tour", description: "A private 4x4 tour through Wadi Al Disah's canyons.", price: "From $450", duration: "8.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/80896d3467da25a69af64f30b9d5709e23b0586b547dce1aeda4f42e88b1a765.jpg" } },
+                    { title: "Best for Canyon Scenery: Wadi Al Disah 4x4 Canyon Tour", content: "This focuses on the dramatic canyon scenery of Wadi Al Disah rather than pure dune-bashing.", tourCard: { slug: "from-alula-private-wadi-al-disah-4x4-canyon-tour", title: "From AlUla: Private Wadi Al Disah 4x4 Canyon Tour", description: "Canyon-focused 4x4 adventure.", price: "From $450", duration: "8.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/80896d3467da25a69af64f30b9d5709e23b0586b547dce1aeda4f42e88b1a765.jpg" } },
+                    { title: "Best for Adrenaline: Mount Al-Qaws & Al-Gharameel 4x4", content: "This leans into dune-bashing and off-road thrills at Mount Al-Qaws, a more adrenaline-focused version than the canyon tour.", tourCard: { slug: "alula-mount-al-qaws-al-gharameel-guided-4x4-tour", title: "AlUla: Mount Al-Qaws & Al-Gharameel Guided 4x4 Tour", description: "A dune-bashing focused 4x4 tour.", price: "From $718", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e3d32074bdc6e38fb5d1c1038e59f5fa9cfdbbed4d87e96005ffb238ec9fb8f7.jpg" } },
+                    { title: "Best Short Thrill: Guided Dune Buggy Adventure", content: "A shorter, more affordable dune buggy option with a driver, good if you want a quick adrenaline hit without committing to a half-day 4x4 trip.", tourCard: { slug: "alula-guided-dune-buggy-adventure-with-driver", title: "AlUla Guided Dune Buggy Adventure with Driver", description: "A short dune buggy adventure with a driver.", price: "From $520", duration: "30 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ede8dc41b93fabd55885854e9f5b89155fe04f60871c7fb36f621d3ceed070fc.jpg" } },
+                    { title: "Practical Tips", content: "These tours run in open or semi-open vehicles — dress for sun and dust, and bring a scarf or buff for your face during dune-bashing sections." }
+                ],
+                faqs: [
+                    { q: "What is the best desert 4x4 tour in AlUla?", a: "Wadi Al Disah for canyon scenery; Mount Al-Qaws for pure dune-bashing adrenaline." },
+                    { q: "Is a dune buggy tour shorter than a 4x4 canyon tour?", a: "Yes, dune buggy tours typically run 30 minutes versus several hours for a full canyon 4x4 tour." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best desert 4x4 tour in AlUla?", "acceptedAnswer": { "@type": "Answer", "text": "Wadi Al Disah for canyon scenery; Mount Al-Qaws for dune-bashing." } },
+                    { "@type": "Question", "name": "Is a dune buggy tour shorter?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, typically 30 minutes versus several hours." } }
+                ] },
+            };
+
+        case "best-multi-day-tour-alula":
+            return {
+                title: "Which Is the Best Multi-Day Tour in AlUla?",
+                seoTitle: "Best Multi-Day Tour AlUla 2026 | Honest Comparison",
+                description: "Compare real multi-day AlUla tour packages — from a 2-day private guide tour to a 4-day gallery and stargazing itinerary.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0281258be860252a2723ff76cf6266dfee4baa16ad3b98e78a0f056bd2c1e220.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "AlUla genuinely rewards more than a day trip — multi-day packages let you cover Hegra, Dadan, Old Town, and the desert landscapes without rushing, and the longer options add galleries and stargazing.", tourCard: { slug: "alula-2-day-tour-with-private-local-guide", title: "AlUla: 2-Day Tour with Private Local Guide & Transport", description: "A 2-day private guided tour with transport included.", price: "From $623", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/25e1f47ad246f06fd0f8d12e9bccacd1c2e0c7f7ac6421a382bc445ed77d8916.png" } },
+                    { title: "Best Value: 2-Day Private Local Guide Tour", content: "This covers AlUla's main sites over two unrushed days with a private guide and transport included.", tourCard: { slug: "alula-2-day-tour-with-private-local-guide", title: "AlUla: 2-Day Tour with Private Local Guide & Transport", description: "A well-rounded 2-day private tour.", price: "From $623", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/25e1f47ad246f06fd0f8d12e9bccacd1c2e0c7f7ac6421a382bc445ed77d8916.png" } },
+                    { title: "Most Comprehensive: 4-Day Tour with Galleries & Stargazing", content: "The longest option, adding art gallery visits and dedicated stargazing sessions to the standard multi-day sightseeing itinerary.", tourCard: { slug: "al-ula-saudi-arabia-4-day-tour-with-galleries", title: "Al-Ula, Saudi Arabia: 4-Day Tour with Galleries & Stargazing", description: "A comprehensive 4-day tour with galleries and stargazing.", price: "From $1681", duration: "4 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0281258be860252a2723ff76cf6266dfee4baa16ad3b98e78a0f056bd2c1e220.jpg" } },
+                    { title: "Practical Tips", content: "AlUla's night skies are genuinely dark given its remote desert location, making the stargazing add-on in longer tours a real differentiator rather than a gimmick." }
+                ],
+                faqs: [
+                    { q: "What is the best multi-day tour in AlUla?", a: "A 2-day private guide tour covers the essentials; the 4-day version adds galleries and stargazing for a deeper trip." },
+                    { q: "Is AlUla worth more than a day trip?", a: "Yes, it genuinely rewards 2+ days given the spread of sites and desert landscapes." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best multi-day tour in AlUla?", "acceptedAnswer": { "@type": "Answer", "text": "A 2-day private guide tour covers the essentials." } },
+                    { "@type": "Question", "name": "Is AlUla worth more than a day trip?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it rewards 2+ days." } }
+                ] },
+            };
+
+        case "best-madinah-to-alula-tour":
+            return {
+                title: "Which Is the Best Madinah to AlUla Tour?",
+                seoTitle: "Best Madinah to AlUla Tour 2026 | Honest Comparison",
+                description: "Compare real day trips from Madinah to AlUla, for travellers based in Madinah who want to see Hegra and AlUla's highlights without relocating.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/07ece27b59d97ff2b2d55092be6fec2b2b9662eea73caba54d21f935d9ab1cad.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "AlUla is a few hours from Madinah, making it a feasible (if long) day trip for travellers who'd rather not change hotels — these tours bundle round-trip transport with AlUla's highlights.", tourCard: { slug: "medina-al-ula-discovery-tour", title: "Medina: Al Ula Discovery Tour", description: "A day trip to AlUla's highlights from Madinah.", price: "From $608", duration: "15 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/07ece27b59d97ff2b2d55092be6fec2b2b9662eea73caba54d21f935d9ab1cad.jpg" } },
+                    { title: "Best Value: Discovery Tour from Madinah", content: "A full-day round trip covering AlUla's main highlights with transport from Madinah included.", tourCard: { slug: "medina-al-ula-discovery-tour", title: "Medina: Al Ula Discovery Tour", description: "The standard Madinah-to-AlUla day trip.", price: "From $608", duration: "15 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/07ece27b59d97ff2b2d55092be6fec2b2b9662eea73caba54d21f935d9ab1cad.jpg" } },
+                    { title: "Best with Round-Trip Transport: Wonders Tour", content: "This explicitly packages round-trip transport from Madinah with AlUla sightseeing, useful for travellers without their own vehicle.", tourCard: { slug: "al-ula-wonders-tour-with-round-trip-transport", title: "Al-Ula Wonders Tour with Round-Trip Transport from Madinah", description: "AlUla sightseeing with round-trip Madinah transport.", price: "From $991", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/23a2eb6ff1aa55907582a6625f51d652b86bb57126bc5c11b59d3fd2c287567c.jpg" } },
+                    { title: "Practical Tips", content: "This is a genuinely long day given the drive each way — if your schedule allows it, staying overnight in AlUla instead gives a much less rushed experience for roughly similar total cost." }
+                ],
+                faqs: [
+                    { q: "What is the best Madinah to AlUla tour?", a: "A discovery tour or wonders tour with round-trip transport, both covering AlUla's highlights in a long single day." },
+                    { q: "Is a day trip from Madinah to AlUla worth it?", a: "It works if you can't stay overnight, but it's a long day — an overnight stay in AlUla is less rushed." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Madinah to AlUla tour?", "acceptedAnswer": { "@type": "Answer", "text": "A discovery or wonders tour with round-trip transport." } },
+                    { "@type": "Question", "name": "Is a day trip from Madinah worth it?", "acceptedAnswer": { "@type": "Answer", "text": "It works but is a long day; an overnight stay is less rushed." } }
+                ] },
+            };
+
+        case "is-hot-air-balloon-worth-it-alula":
+            return {
+                title: "Is AlUla's Sunrise Hot Air Balloon Flight Worth It?",
+                seoTitle: "AlUla Hot Air Balloon Flight 2026 | Honest Review",
+                description: "An honest look at the Hegra AlUla sunrise hot air balloon flight over the desert landscape.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/447dff525b8a138a3b2aa9822911cfbc9aa4c2044220408ca78dbd602a056ffa.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A sunrise hot air balloon flight over AlUla's sandstone formations and desert landscape is one of the most scenic (and expensive) ways to see the region from above.", tourCard: { slug: "hegra-al-ula-sunrise-hot-air-balloon-flight", title: "Hegra Al Ula: Sunrise Hot Air Balloon Flight", description: "A sunrise hot air balloon flight over AlUla's desert landscape.", price: "From $449", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/447dff525b8a138a3b2aa9822911cfbc9aa4c2044220408ca78dbd602a056ffa.jpg" } },
+                    { title: "Practical Tips", content: "Balloon flights are weather-dependent and can be cancelled on short notice for wind — avoid booking this on your last morning in AlUla if possible." }
+                ],
+                faqs: [
+                    { q: "Is the AlUla hot air balloon flight worth it?", a: "Yes, for a genuinely scenic aerial view of the desert landscape, though it's a pricier activity." },
+                    { q: "Can weather cancel the balloon flight?", a: "Yes, wind can cause last-minute cancellations — avoid scheduling it on your final morning if you can." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the hot air balloon flight worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a scenic aerial desert view." } },
+                    { "@type": "Question", "name": "Can weather cancel it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, wind can cause cancellations." } }
+                ] },
+            };
+
+        case "best-oasis-cultural-experience-alula":
+            return {
+                title: "Which Is the Best Oasis & Cultural Experience in AlUla?",
+                seoTitle: "Best Oasis Cultural Experience AlUla 2026 | Comparison",
+                description: "Compare real oasis farm and traditional Saudi hospitality experiences in AlUla.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fe6eea19d351d8621030745348ad11019babc88b68d5798701320d81cbc4b525.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "AlUla's palm oasis is a working agricultural area, not just scenery, and these experiences pair a farm visit with a traditional Saudi meal and hospitality.", tourCard: { slug: "alula-oasis-farm-tour-and-traditional-feast-with", title: "AlUla: Oasis Farm Tour and Traditional Feast with Locals", description: "An oasis farm visit paired with a traditional Saudi feast.", price: "From $322", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fe6eea19d351d8621030745348ad11019babc88b68d5798701320d81cbc4b525.jpeg" } },
+                    { title: "Best Value: Oasis Farm Tour & Traditional Feast", content: "Combines a working oasis farm visit with a shared traditional meal with locals.", tourCard: { slug: "alula-oasis-farm-tour-and-traditional-feast-with", title: "AlUla: Oasis Farm Tour and Traditional Feast with Locals", description: "The standard oasis and feast experience.", price: "From $322", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fe6eea19d351d8621030745348ad11019babc88b68d5798701320d81cbc4b525.jpeg" } },
+                    { title: "Best for Deeper Hospitality: Authentic Saudi Hospitality & Meal", content: "This leans further into the cultural hosting side, with a more involved traditional hospitality experience and meal.", tourCard: { slug: "alula-authentic-saudi-hospitality-traditional-meal", title: "AlUla: Authentic Saudi Hospitality & Traditional Meal", description: "A deeper traditional Saudi hospitality and meal experience.", price: "From $589", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fe6eea19d351d8621030745348ad11019babc88b68d5798701320d81cbc4b525.jpeg" } },
+                    { title: "Practical Tips", content: "These experiences are a genuine way to meet locals rather than just see sights — a good pick if cultural connection matters more to you than checking off landmarks." }
+                ],
+                faqs: [
+                    { q: "What is the best oasis experience in AlUla?", a: "The farm tour and feast for a standard experience; the authentic hospitality version for deeper cultural immersion." },
+                    { q: "Is AlUla's oasis a real working farm?", a: "Yes, it's a genuine agricultural area, not just a scenic backdrop." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best oasis experience in AlUla?", "acceptedAnswer": { "@type": "Answer", "text": "The farm tour and feast for a standard experience." } },
+                    { "@type": "Question", "name": "Is the oasis a real working farm?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a genuine agricultural area." } }
+                ] },
+            };
+
+        case "is-desert-dinner-safari-worth-it-alula":
+            return {
+                title: "Is AlUla's Desert Dinner Safari Worth It?",
+                seoTitle: "AlUla Desert Dinner Safari 2026 | Honest Review",
+                description: "An honest look at AlUla's Sharaan Platinum Dinner Safari, a 4-course desert dining experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6cf9c61cfa44ce614f385f80801961f0ef28d26bffd9c6618b6ee1c46bd3a5c7.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This is a sit-down 4-course dinner set up in the desert at Sharaan, combining fine dining with AlUla's dramatic landscape and sunset.", tourCard: { slug: "alula-sharaan-platinum-dinner-safari-with-4", title: "AlUla: Sharaan Platinum Dinner Safari with 4-Course Braai", description: "A 4-course desert dinner safari at Sharaan.", price: "From $449", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6cf9c61cfa44ce614f385f80801961f0ef28d26bffd9c6618b6ee1c46bd3a5c7.jpg" } },
+                    { title: "Practical Tips", content: "This is more a dining experience than an active tour — go for it if you want a memorable evening meal with scenery, not if you're looking for an adventure activity." }
+                ],
+                faqs: [
+                    { q: "Is the desert dinner safari worth it?", a: "Yes, for a memorable fine-dining evening with desert scenery rather than an adventure activity." },
+                    { q: "What does the dinner safari include?", a: "A 4-course meal served in the desert at Sharaan, typically timed around sunset." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the desert dinner safari worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a memorable fine-dining evening with scenery." } },
+                    { "@type": "Question", "name": "What does it include?", "acceptedAnswer": { "@type": "Answer", "text": "A 4-course meal served in the desert." } }
+                ] },
+            };
+
+        case "is-private-guided-tour-worth-it-alula":
+            return {
+                title: "Is a Private Guided Tour Worth It in AlUla?",
+                seoTitle: "AlUla Private Guided Tour 2026 | Honest Review",
+                description: "An honest look at AlUla's solo-explorer and private cultural highlights tours.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/671398ad50f589a9a9e786fe272a45b81f18629b3bee8f58519cc70b6cfb2d15.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A private guided tour gives full flexibility over pace and which sites to prioritize, at a higher price than joining a shared group tour.", tourCard: { slug: "alula-solo-explorer-private-cultural-highlights", title: "AlUla Solo Explorer: Private Cultural Highlights Tour", description: "A private cultural highlights tour for solo travellers or small groups.", price: "From $363", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/671398ad50f589a9a9e786fe272a45b81f18629b3bee8f58519cc70b6cfb2d15.jpg" } },
+                    { title: "Practical Tips", content: "Worth it if you want to set your own pace or skip sites that don't interest you — shared group tours are cheaper but follow a fixed itinerary." }
+                ],
+                faqs: [
+                    { q: "Is a private guided tour worth it in AlUla?", a: "Yes, if flexibility on pace and sites matters more to you than cost savings from a group tour." },
+                    { q: "How much more does a private tour cost?", a: "Noticeably more than shared group tours, but with full control over the itinerary." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a private guided tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, if flexibility matters more than cost savings." } },
+                    { "@type": "Question", "name": "How much more does it cost?", "acceptedAnswer": { "@type": "Answer", "text": "Noticeably more than shared group tours." } }
+                ] },
+            };
+
+        case "is-full-day-tour-worth-it-alula":
+            return {
+                title: "Is a Full-Day AlUla Tour Worth It?",
+                seoTitle: "AlUla Full-Day Tour 2026 | Honest Review",
+                description: "An honest look at AlUla's full-day tour with snacks and drinks included.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7ba2a94789b57439a40c600b2fab66bb7b74b1a78e6f7e30fb6d55d0b93c8611.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A full-day tour covers more ground than a half-day visit and typically includes snacks and drinks, useful given how spread out AlUla's sites are.", tourCard: { slug: "alula-day-trip-with-snacks-and-drinks", title: "AlUla: Day Trip with Snacks and Drinks", description: "A full-day AlUla tour with snacks and drinks included.", price: "From $631", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7ba2a94789b57439a40c600b2fab66bb7b74b1a78e6f7e30fb6d55d0b93c8611.jpg" } },
+                    { title: "Practical Tips", content: "Worth it if you want to cover multiple sites without arranging your own food logistics in AlUla's spread-out, car-dependent layout." }
+                ],
+                faqs: [
+                    { q: "Is a full-day AlUla tour worth it?", a: "Yes, given how spread out the sites are — a full day with food included avoids logistics headaches." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a full-day AlUla tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, given how spread out the sites are." } }
+                ] },
+            };
+
+        case "alula-travel-guide-2026":
+            return {
+                title: "AlUla Travel Guide 2026",
+                description: "AlUla is Saudi Arabia's flagship heritage destination, home to Hegra, Saudi's first UNESCO World Heritage Site — here's what first-timers need to know.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6253ef5fa00ba.png",
+                sections: [
+                    { title: "Why Visit AlUla", content: "AlUla combines ancient Nabataean history (Hegra), dramatic desert rock formations (Elephant Rock), and striking modern architecture (Maraya) in one region, with heavy government investment making it one of Saudi's most polished tourist destinations." },
+                    { title: "Getting Around", content: "AlUla is spread out and effectively requires a car or organized tour — there's no walkable city center connecting the main sites, and Hegra specifically can only be visited with an official guide." }
+                ],
+                faqs: [
+                    { q: "Is AlUla worth visiting?", a: "Yes, for Hegra's Nabataean history, striking desert scenery, and sites like Elephant Rock and Maraya." },
+                    { q: "Do I need a car in AlUla?", a: "Effectively yes, or an organized tour — the sites are spread out with no walkable connecting center." }
+                ],
+            };
+
+        case "best-time-to-visit-alula":
+            return {
+                title: "Best Time to Visit AlUla",
+                description: "AlUla's desert climate makes timing matter a lot more than in most of this project's destinations.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6253ef5fa00ba.png",
+                sections: [
+                    { title: "Weather Patterns", content: "Winter (November-February) is the most comfortable season, with mild days and cool nights. Summer (June-August) brings intense desert heat often exceeding 40°C, making outdoor activities like Hegra tours and 4x4 trips far less pleasant." }
+                ],
+                faqs: [
+                    { q: "What is the best time to visit AlUla?", a: "November to February for comfortable temperatures; summer is intensely hot for outdoor sightseeing." }
+                ],
+            };
+
+        case "alula-1-day-itinerary":
+            return {
+                title: "AlUla 1-Day Itinerary",
+                description: "A realistic one-day plan for AlUla if you don't have the 2+ days the region really rewards.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6253ef5fa00ba.png",
+                sections: [
+                    { title: "Morning", content: "Start early with a guided Hegra tour before the heat builds, since the tombs require an official guide anyway." },
+                    { title: "Afternoon", content: "Visit Old Town and Maraya, both more manageable in shorter visits than the desert activities." },
+                    { title: "Evening", content: "Finish at Elephant Rock for sunset, when the sandstone glows orange — a fitting close to a packed day." }
+                ],
+                faqs: [
+                    { q: "Can AlUla be seen in one day?", a: "You can hit the highlights, but AlUla genuinely rewards 2+ days given how spread out the sites are." }
+                ],
+            };
+
+        case "is-alula-safe":
+            return {
+                title: "Is AlUla Safe for Tourists?",
+                description: "An honest look at safety in AlUla, one of Saudi Arabia's most tourism-focused regions.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6253ef5fa00ba.png",
+                sections: [
+                    { title: "The Short Answer", content: "AlUla is very safe for tourists — it's a heavily developed, government-backed tourism destination with significant infrastructure investment specifically for international visitors." }
+                ],
+                faqs: [
+                    { q: "Is AlUla safe for tourists?", a: "Yes, it's a heavily developed tourism destination with strong infrastructure for visitors." }
+                ],
+            };
+
+        case "how-to-get-to-alula":
+            return {
+                title: "How to Get to AlUla",
+                description: "AlUla has its own airport, making it more accessible than its remote desert location might suggest.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6253ef5fa00ba.png",
+                sections: [
+                    { title: "By Air", content: "AlUla International Airport (ULH) has direct flights from Riyadh, Jeddah, and other Saudi cities, making it the most practical way to reach the region." },
+                    { title: "By Road", content: "AlUla is also reachable by road from Madinah (a few hours) for travellers who'd rather drive or join a day-trip tour." }
+                ],
+                faqs: [
+                    { q: "Does AlUla have its own airport?", a: "Yes, AlUla International Airport (ULH) has direct flights from major Saudi cities." },
+                    { q: "Can I reach AlUla from Madinah by road?", a: "Yes, it's a few hours' drive, also doable as an organized day trip." }
+                ],
+            };
+
+        case "alula-hegra-entrance-guide":
+            return {
+                title: "AlUla Hegra Entrance Guide",
+                description: "What to know before visiting Hegra, Saudi Arabia's first UNESCO World Heritage Site.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6253ef5fa00ba.png",
+                sections: [
+                    { title: "Entrance Requirements", content: "Hegra cannot be visited independently — entry requires booking through an official guided tour, which handles tickets and access as part of the package." }
+                ],
+                faqs: [
+                    { q: "Can I enter Hegra without a tour?", a: "No, all entry requires an official guided tour that handles tickets and access." }
+                ],
+            };
+
+        case "alula-dress-code-guide":
+            return {
+                title: "AlUla Dress Code Guide",
+                description: "What to wear in AlUla as a tourist, balancing comfort with local cultural norms.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6253ef5fa00ba.png",
+                sections: [
+                    { title: "What to Wear", content: "Modest, loose-fitting clothing covering shoulders and knees is appropriate for both men and women; AlUla's tourism zone is relatively relaxed compared to some other Saudi regions, but modesty is still expected, especially at religious or heritage sites." }
+                ],
+                faqs: [
+                    { q: "What should I wear in AlUla?", a: "Modest, loose-fitting clothing covering shoulders and knees, especially at heritage sites." }
+                ],
+            };
+
         default:
             return null;
     }

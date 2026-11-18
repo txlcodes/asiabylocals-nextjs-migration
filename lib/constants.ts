@@ -322,8 +322,30 @@ export const PETRA_INFO_SLUGS: string[] = [
   'best-time-to-visit-petra', 'how-many-days-for-petra',
   'petra-entrance-fee-guide', 'jordan-visa-guide-for-tourists',
 ];
-export const AMMAN_INFO_SLUGS: string[] = [];
-export const AQABA_INFO_SLUGS: string[] = [];
+export const AMMAN_INFO_SLUGS: string[] = [
+  'best-dead-sea-day-trip-tour-amman', 'best-jerash-day-trip-tour-amman',
+  'best-citadel-walking-tour-amman', 'best-desert-castles-tour-amman',
+  'best-madaba-mount-nebo-tour-amman', 'best-helicopter-tour-amman',
+  'best-food-tour-amman', 'best-craft-workshop-amman',
+  'is-hammam-spa-experience-worth-it-amman', 'best-petra-day-trip-from-amman',
+  'is-as-salt-day-trip-worth-it-amman', 'is-wadi-mujib-canyon-hike-worth-it-amman',
+  'is-baptism-site-tour-worth-it-amman', 'is-pink-lake-crystal-beach-tour-worth-it-amman',
+  'amman-travel-guide-2026', 'best-time-to-visit-amman',
+  'amman-1-day-itinerary', 'is-amman-safe',
+  'amman-food-guide', 'amman-to-petra-guide',
+];
+export const AQABA_INFO_SLUGS: string[] = [
+  'best-wadi-rum-half-day-jeep-tour-aqaba', 'best-wadi-rum-full-day-jeep-tour-aqaba',
+  'best-wadi-rum-overnight-camp-tour-aqaba', 'best-wadi-rum-sandboarding-tour-aqaba',
+  'best-wadi-rum-camel-ride-tour-aqaba', 'is-wadi-rum-stargazing-worth-it-aqaba',
+  'best-wadi-rum-hiking-tour-aqaba', 'is-wadi-rum-hot-air-balloon-worth-it-aqaba',
+  'best-scuba-diving-tour-aqaba', 'best-snorkeling-tour-aqaba',
+  'best-sunset-cruise-tour-aqaba', 'is-aqaba-flyboard-worth-it',
+  'best-aqaba-to-wadi-rum-day-trip', 'is-wadi-al-mujib-dead-sea-tour-worth-it-aqaba',
+  'aqaba-travel-guide-2026', 'best-time-to-visit-aqaba',
+  'is-aqaba-safe', 'aqaba-diving-guide',
+  'aqaba-food-guide', 'aqaba-to-petra-guide',
+];
 
 // Azerbaijan launched 2026-11-19 with 403 live tours and zero authority pages.
 export const BAKU_INFO_SLUGS: string[] = [
@@ -386,12 +408,57 @@ export const RIYADH_INFO_SLUGS: string[] = [
 ];
 
 // Saudi Arabia batch 2 (2026-11-19): Jeddah and AlUla
-export const JEDDAH_INFO_SLUGS: string[] = [];
-export const ALULA_INFO_SLUGS: string[] = [];
+export const JEDDAH_INFO_SLUGS: string[] = [
+  'best-al-balad-walking-tour-jeddah', 'best-bayada-island-boat-trip-jeddah',
+  'best-taif-day-trip-jeddah', 'best-desert-safari-tour-jeddah',
+  'best-red-sea-boat-tour-jeddah', 'best-snorkeling-diving-tour-jeddah',
+  'is-moon-mountain-hike-worth-it-jeddah', 'is-teamlab-borderless-jeddah-worth-it',
+  'best-jeddah-city-tour', 'is-mecca-day-trip-worth-it-from-jeddah',
+  'is-jeddah-stargazing-camp-worth-it', 'is-pottery-workshop-worth-it-jeddah',
+  'is-paddleboarding-worth-it-jeddah', 'is-museum-of-islamic-art-worth-it-jeddah',
+  'jeddah-travel-guide-2026', 'best-time-to-visit-jeddah',
+  'jeddah-1-day-itinerary', 'is-jeddah-safe',
+  'jeddah-dress-code-guide', 'jeddah-food-guide',
+];
+export const ALULA_INFO_SLUGS: string[] = [
+  'best-hegra-tour-alula', 'best-dadan-jabal-ikmah-tour-alula',
+  'best-old-town-tour-alula', 'is-elephant-rock-tour-worth-it-alula',
+  'is-maraya-experience-worth-it-alula', 'best-desert-4x4-tour-alula',
+  'best-multi-day-tour-alula', 'best-madinah-to-alula-tour',
+  'is-hot-air-balloon-worth-it-alula', 'best-oasis-cultural-experience-alula',
+  'is-desert-dinner-safari-worth-it-alula', 'is-private-guided-tour-worth-it-alula',
+  'is-full-day-tour-worth-it-alula',
+  'alula-travel-guide-2026', 'best-time-to-visit-alula',
+  'alula-1-day-itinerary', 'is-alula-safe',
+  'how-to-get-to-alula', 'alula-hegra-entrance-guide',
+  'alula-dress-code-guide',
+];
 
 // Laos batch 2 (2026-11-19): Vientiane and Vang Vieng
-export const VIENTIANE_INFO_SLUGS: string[] = [];
-export const VANG_VIENG_INFO_SLUGS: string[] = [];
+export const VIENTIANE_INFO_SLUGS: string[] = [
+  'best-buddha-park-tour-vientiane', 'best-patuxai-that-luang-tour-vientiane',
+  'best-city-tour-vientiane', 'best-food-tour-vientiane',
+  'best-cooking-class-vientiane', 'best-mekong-river-cruise-vientiane',
+  'best-temple-tour-vientiane', 'best-vang-vieng-day-trip-from-vientiane',
+  'is-plain-of-jars-tour-worth-it-vientiane', 'is-bar-hopping-worth-it-vientiane',
+  'is-hidden-island-trekking-worth-it-vientiane', 'is-traditional-costume-photo-tour-worth-it-vientiane',
+  'vientiane-travel-guide-2026', 'best-time-to-visit-vientiane',
+  'vientiane-1-day-itinerary', 'is-vientiane-safe',
+  'vientiane-food-guide', 'vientiane-currency-guide',
+  'vientiane-to-luang-prabang-guide', 'vientiane-public-transport-guide',
+];
+export const VANG_VIENG_INFO_SLUGS: string[] = [
+  'best-hot-air-balloon-tour-vang-vieng', 'best-blue-lagoon-tour-vang-vieng',
+  'best-paramotor-tour-vang-vieng', 'best-kayaking-cave-tour-vang-vieng',
+  'is-nam-song-tubing-worth-it-vang-vieng', 'is-village-trekking-worth-it-vang-vieng',
+  'is-go-karting-worth-it-vang-vieng', 'is-paragliding-worth-it-vang-vieng',
+  'is-climbing-worth-it-vang-vieng', 'is-food-tour-worth-it-vang-vieng',
+  'is-cooking-class-worth-it-vang-vieng', 'is-motorcycle-tour-worth-it-vang-vieng',
+  'best-multi-day-adventure-tour-vang-vieng', 'vang-vieng-travel-guide-2026',
+  'best-time-to-visit-vang-vieng', 'vang-vieng-1-day-itinerary',
+  'is-vang-vieng-safe', 'vang-vieng-tubing-safety-guide',
+  'vang-vieng-food-guide', 'vang-vieng-nightlife-guide',
+];
 
 export const JOHOR_BAHRU_INFO_SLUGS = [
   'best-jetski-tour-johor-bahru',
