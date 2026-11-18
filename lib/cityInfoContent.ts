@@ -57,6 +57,7 @@ import { getKazakhstanInfoContent } from './kazakhstanInfoContent';
 import { getMongoliaInfoContent } from './mongoliaInfoContent';
 import { getIsraelInfoContent } from './israelInfoContent';
 import { getBhutanInfoContent } from './bhutanInfoContent';
+import { getGulfSmallInfoContent } from './gulfSmallInfoContent';
 
 export interface CityInfoData {
     /** On-page H1. Can be long and descriptive. */
@@ -121,6 +122,9 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const bhutanPage = getBhutanInfoContent(slug);
     if (bhutanPage) return bhutanPage;
+
+    const gulfSmallPage = getGulfSmallInfoContent(slug);
+    if (gulfSmallPage) return gulfSmallPage;
 
     const agraJaipurPage = getAgraJaipurInfoContent(slug);
     if (agraJaipurPage) return agraJaipurPage;

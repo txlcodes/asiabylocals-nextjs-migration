@@ -1,0 +1,361 @@
+import { CityInfoData } from './cityInfoContent';
+
+export function getGulfSmallInfoContent(slug: string): CityInfoData | null {
+    switch (slug) {
+        case "best-desert-city-tour-kuwait-city":
+            return {
+                title: "Which Is the Best Desert & City Combo Tour in Kuwait City?",
+                seoTitle: "Best Kuwait City Desert Tour 2026 | Honest Comparison",
+                description: "Compare real Kuwait City and desert combo tours — from a $72 half-day pickup/drop-off tour to buggy desert safaris and premium full-day sightseeing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9e82076bb2f32408fed6b8695124493f91d71a2ea8a827e7aab5af34e9f80b0f.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Most Kuwait City tours pair the skyline and Kuwait Towers with a desert stop, since both are close together outside the city center. A half-day licensed tour covers the basics without a full-day commitment.", tourCard: { slug: "half-day-licensed-tours-in-kuwait-city-desert", title: "Half Day licensed Tours in Kuwait City & Desert Pick&DropOff", description: "A half-day licensed tour covering city and desert.", price: "From $72", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9e82076bb2f32408fed6b8695124493f91d71a2ea8a827e7aab5af34e9f80b0f.jpg" } },
+                    { title: "Best for Adventure: Desert Safari with Buggies & Camels", content: "This version adds buggy rides and camel encounters to the desert stop alongside the Kuwait Towers visit, for a more active outing.", tourCard: { slug: "kuwait-desert-safari-buggys-camels-kuwait-towers", title: "Kuwait: Desert Safari, buggy's, Camels & Kuwait Towers", description: "A desert safari with buggies and camels plus Kuwait Towers.", price: "From $130", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f564d0f33537c373c12885d2835ab6d95968e54a177a8c0d5a9b36901e4d70bb.jpeg" } },
+                    { title: "Best Full Day: Licensed City & Desert Tour", content: "A longer full-day version of the licensed city-and-desert combo, giving more time at each stop than the half-day option.", tourCard: { slug: "full-day-licensed-tours-in-kuwait-city-desert", title: "Full Day licensed Tours in Kuwait City & Desert Pick&DropOff", description: "A full-day licensed city and desert tour.", price: "From $143", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c645b76982dbfe1c5ebd3e016fc8f1085151b80606f55a44f2a7f128d6ffdc18.jpg" } },
+                    { title: "Most Premium: Premium Full-Day Sightseeing", content: "The highest-tier version, billed as premium sightseeing for travellers who want a more polished experience than the standard licensed tours.", tourCard: { slug: "from-kuwait-city-premium-full-day-sightseeing-tour", title: "From Kuwait City : Premium Full-Day Sightseeing Tour", description: "A premium full-day sightseeing tour of Kuwait City.", price: "From $254", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7c3c825d5098749f28c49c7bdb7419da21896c8357f238565b9dcd31e73d0cf9.jpg" } },
+                    { title: "Practical Tips", content: "Kuwait's desert is best visited outside midday heat, especially April-October — morning or late-afternoon tours are noticeably more comfortable than midday ones." }
+                ],
+                faqs: [
+                    { q: "What is the best desert and city tour in Kuwait City?", a: "A half-day licensed tour suits most visitors; add buggies and camels for a more active desert stop." },
+                    { q: "Is Kuwait's desert close to the city?", a: "Yes, most tours combine it with Kuwait Towers and other city sights in the same half-day or full-day trip." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best desert and city tour in Kuwait City?", "acceptedAnswer": { "@type": "Answer", "text": "A half-day licensed tour suits most visitors." } },
+                    { "@type": "Question", "name": "Is the desert close to the city?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, most tours combine it with Kuwait Towers in one trip." } }
+                ] },
+            };
+
+        case "is-kuwait-private-city-tour-worth-it":
+            return {
+                title: "Is a Private Guided Tour of Kuwait City Worth It?",
+                seoTitle: "Kuwait City Private Tour 2026 | Honest Review",
+                description: "An honest look at Kuwait City's private guided tour with a local guide.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/41ca76d2b8769af7003e0e2ba4251288b2ebc011fac3f82c20ec1032040c09e5.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A private tour with a local guide gives flexibility over route and pace that a shared licensed tour doesn't — worth the premium if you want to linger at specific sights or skip others entirely.", tourCard: { slug: "kuwait-city-private-tour-with-a-local-guide", title: "Kuwait City: Private Tour with a Local Guide", description: "A private, flexible tour of Kuwait City with a local guide.", price: "From $194", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/41ca76d2b8769af7003e0e2ba4251288b2ebc011fac3f82c20ec1032040c09e5.jpg" } },
+                    { title: "Practical Tips", content: "Tell your guide in advance if you have specific priorities (shopping, architecture, food) — private tours are flexible enough to reshape around your interests rather than following a fixed script." }
+                ],
+                faqs: [
+                    { q: "Is a private Kuwait City tour worth it?", a: "Yes, if you want flexibility over pace and route rather than a fixed shared itinerary." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a private Kuwait City tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for flexibility over pace and route." } }
+                ] },
+            };
+
+        case "kuwait-city-travel-guide-2026":
+            return {
+                title: "Kuwait City Travel Guide 2026",
+                description: "What first-time visitors need to know about Kuwait City.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f564d0f33537c373c12885d2835ab6d95968e54a177a8c0d5a9b36901e4d70bb.jpeg",
+                sections: [
+                    { title: "Why Visit", content: "Kuwait City combines a modern waterfront skyline (the Kuwait Towers) with easy access to desert landscapes just outside the city — most visitors combine both in a single tour." }
+                ],
+                faqs: [
+                    { q: "Is Kuwait City worth visiting?", a: "Yes, particularly for its skyline, Kuwait Towers, and easy desert access." }
+                ],
+            };
+
+        case "best-time-to-visit-kuwait-city":
+            return {
+                title: "Best Time to Visit Kuwait City",
+                description: "Kuwait City's climate is extreme in summer — timing matters a lot here.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f564d0f33537c373c12885d2835ab6d95968e54a177a8c0d5a9b36901e4d70bb.jpeg",
+                sections: [
+                    { title: "Weather Patterns", content: "Summers (June-September) are extremely hot, often exceeding 45°C, making outdoor desert tours uncomfortable. November to March is noticeably milder and the best window for desert and outdoor sightseeing." }
+                ],
+                faqs: [
+                    { q: "What is the best time to visit Kuwait City?", a: "November to March, when temperatures are far more comfortable for outdoor and desert tours." }
+                ],
+            };
+
+        case "is-kuwait-city-safe":
+            return {
+                title: "Is Kuwait City Safe for Tourists?",
+                description: "An honest look at safety in Kuwait City for visitors.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f564d0f33537c373c12885d2835ab6d95968e54a177a8c0d5a9b36901e4d70bb.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Kuwait City is generally very safe for tourists, with low crime rates. Standard respectful-dress norms apply, especially outside tourist-oriented areas." }
+                ],
+                faqs: [
+                    { q: "Is Kuwait City safe for tourists?", a: "Yes, generally very safe with low crime rates." }
+                ],
+            };
+
+        case "best-pearling-path-tour-manama":
+            return {
+                title: "Which Is the Best Pearling Path / Muharraq Tour in Manama?",
+                seoTitle: "Best Pearling Path Tour Manama 2026 | Honest Comparison",
+                description: "Compare real Pearling Path and Muharraq walking tours from Manama — from a cultural walk with breakfast to an oyster-opening pearling experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ccf270aae44e14ea92576ba1668fe68845b0783eeb70e7ed360e0de14bcbb466.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Bahrain's UNESCO-listed Pearling Path runs through Muharraq's old town, and tours here differ mainly in whether they include breakfast, an oyster-opening activity, or just a straightforward walk.", tourCard: { slug: "muharraq-pearling-path-cultural-walking-tour-with", title: "Muharraq Pearling Path Cultural Walking Tour with Breakfast", description: "A cultural walking tour of the Pearling Path with breakfast.", price: "From $124", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/39fa3e2310b1ec4b5bb626411289a4b9bd2d8031aaccc02cc06b6c4595a95067.jpg" } },
+                    { title: "Best Hands-On: Pearling Path with Oyster Opening", content: "This version adds an actual oyster-opening activity, letting you take part in the pearl-diving heritage rather than just walking past it.", tourCard: { slug: "bahrain-pearling-path-tour-with-oyster-opening", title: "Bahrain: Pearling Path Tour with Oyster Opening activity", description: "The Pearling Path tour with a hands-on oyster-opening activity.", price: "From $117", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ccf270aae44e14ea92576ba1668fe68845b0783eeb70e7ed360e0de14bcbb466.jpg" } },
+                    { title: "Practical Tips", content: "The Pearling Path is a UNESCO World Heritage site covering 17 buildings and 3 offshore oyster beds — comfortable walking shoes matter since the route covers Muharraq's old narrow streets." }
+                ],
+                faqs: [
+                    { q: "What is the best Pearling Path tour in Manama?", a: "A cultural walking tour with breakfast suits most visitors; add the oyster-opening activity for a hands-on experience." },
+                    { q: "Is the Pearling Path a UNESCO site?", a: "Yes, it's Bahrain's UNESCO World Heritage listing covering historic pearling buildings in Muharraq." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Pearling Path tour?", "acceptedAnswer": { "@type": "Answer", "text": "A cultural walking tour with breakfast suits most visitors." } },
+                    { "@type": "Question", "name": "Is it a UNESCO site?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, Bahrain's UNESCO World Heritage listing." } }
+                ] },
+            };
+
+        case "best-city-desert-tour-manama":
+            return {
+                title: "Which Is the Best City & Desert Combo Tour in Manama?",
+                seoTitle: "Best Manama City Desert Tour 2026 | Honest Comparison",
+                description: "Compare real Manama city and desert combo tours — from a $85 downtown tour to full city-and-desert day trips with transfers.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/429bdcbf1a9d9f8258039ed83a78897e49d55a30f03c8a8a3d9e602b133058c9.png",
+                sections: [
+                    { title: "The Short Answer", content: "Most Manama tours combine the downtown city center with a half-day desert stop, since both are a short drive apart. A standalone downtown tour works if you only want the city.", tourCard: { slug: "bahrain-downtown-city-center-tour", title: "bahrain downtown city center tour", description: "A straightforward downtown Manama city tour.", price: "From $85", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e5756cf74f0ea90e72bc6a05b62d52e5957c028edfc59d4b8a92fd6fd8f35fb8.jpg" } },
+                    { title: "Best Desert-Only Option: Half-Day Desert Tour", content: "This focuses specifically on Bahrain's desert landscapes without the city stops, for travellers who've already seen downtown Manama.", tourCard: { slug: "bahrain-half-day-desert-tour", title: "Bahrain Half-Day Desert Tour", description: "A focused half-day desert tour.", price: "From $101", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/690f9ad78036d6d56e49fde3612d05dce4f616e6a4e4ae4dea591d6a8fef456e.jpg" } },
+                    { title: "Best Full Combo: City and Desert Tour with Transfers", content: "This bundles both the city and desert into one trip with transfers included, the most efficient way to see both in a single outing.", tourCard: { slug: "manama-bahrain-city-and-desert-tour-with-transfers", title: "Manama: Bahrain City and Desert Tour with Transfers", description: "A combined city and desert tour with transfers included.", price: "From $124", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/429bdcbf1a9d9f8258039ed83a78897e49d55a30f03c8a8a3d9e602b133058c9.png" } },
+                    { title: "Practical Tips", content: "Desert tours typically include a stop at a traditional camp setup — confirm whether food or refreshments are included if that matters to you, since this varies by operator." }
+                ],
+                faqs: [
+                    { q: "What is the best city and desert tour in Manama?", a: "A combined tour with transfers is the most efficient; go downtown-only if you've already seen the desert." },
+                    { q: "Is Bahrain's desert far from Manama?", a: "No, it's a short drive, which is why most tours combine it with city sightseeing in one trip." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best city and desert tour in Manama?", "acceptedAnswer": { "@type": "Answer", "text": "A combined tour with transfers is the most efficient." } },
+                    { "@type": "Question", "name": "Is the desert far from Manama?", "acceptedAnswer": { "@type": "Answer", "text": "No, a short drive from the city." } }
+                ] },
+            };
+
+        case "is-bahrain-food-tasting-tour-worth-it-manama":
+            return {
+                title: "Is a Traditional Bahrain Food Tasting Tour Worth It?",
+                seoTitle: "Bahrain Food Tasting Tour Manama 2026 | Honest Review",
+                description: "An honest look at Manama's traditional Bahraini food tasting and walking tours.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/50d9c4b1b221c40fbf92a69156c5797534325a617288bd4e0083dfd58f939678.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "A food tasting tour is a genuinely good way to try Bahraini dishes you wouldn't easily find or recognize on your own, usually paired with a short walking component through local neighborhoods.", tourCard: { slug: "traditional-bahrain-food-tasting-tour", title: "Traditional Bahrain Food Tasting Tour", description: "A guided food tasting tour of traditional Bahraini dishes.", price: "From $103", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/50d9c4b1b221c40fbf92a69156c5797534325a617288bd4e0083dfd58f939678.jpeg" } },
+                    { title: "Practical Tips", content: "Go hungry — these tours typically involve multiple small tastings across several stops rather than one sit-down meal." }
+                ],
+                faqs: [
+                    { q: "Is a Bahrain food tasting tour worth it?", a: "Yes, it's a good way to sample local dishes you might not recognize or find on your own." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a Bahrain food tasting tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a good way to sample local dishes." } }
+                ] },
+            };
+
+        case "manama-travel-guide-2026":
+            return {
+                title: "Manama (Bahrain) Travel Guide 2026",
+                description: "What first-time visitors need to know about Manama, Bahrain.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/429bdcbf1a9d9f8258039ed83a78897e49d55a30f03c8a8a3d9e602b133058c9.png",
+                sections: [
+                    { title: "Why Visit", content: "Manama blends a modern financial-hub skyline with genuine historic depth — the UNESCO-listed Pearling Path, old souks, and easy desert day trips make it a compact, varied Gulf stop." }
+                ],
+                faqs: [
+                    { q: "Is Manama worth visiting?", a: "Yes, for its mix of modern skyline, historic Pearling Path, and nearby desert." }
+                ],
+            };
+
+        case "best-time-to-visit-manama":
+            return {
+                title: "Best Time to Visit Manama",
+                description: "Manama's climate is hot for much of the year — timing your visit matters.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/429bdcbf1a9d9f8258039ed83a78897e49d55a30f03c8a8a3d9e602b133058c9.png",
+                sections: [
+                    { title: "Weather Patterns", content: "Summers (May-September) are very hot and humid. November to April is noticeably milder and the best window for walking tours and desert trips." }
+                ],
+                faqs: [
+                    { q: "What is the best time to visit Manama?", a: "November to April, for milder, more comfortable weather." }
+                ],
+            };
+
+        case "is-manama-safe":
+            return {
+                title: "Is Manama Safe for Tourists?",
+                description: "An honest look at safety in Manama for visitors.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/429bdcbf1a9d9f8258039ed83a78897e49d55a30f03c8a8a3d9e602b133058c9.png",
+                sections: [
+                    { title: "The Short Answer", content: "Manama is generally very safe for tourists with low crime rates. Standard modest-dress norms apply outside tourist-oriented hotel and mall areas." }
+                ],
+                faqs: [
+                    { q: "Is Manama safe for tourists?", a: "Yes, generally very safe with low crime rates." }
+                ],
+            };
+
+        case "best-babylon-day-trip-baghdad":
+            return {
+                title: "Which Is the Best Babylon Day Trip from Baghdad?",
+                seoTitle: "Best Babylon Day Trip from Baghdad 2026 | Comparison",
+                description: "Compare real Babylon day trips from Baghdad — from a straightforward guided tour to combos with Borsippa and Karbala's holy shrines.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eb169b8d16b4765eba413b73207099197020a47b5b54c9f124aac8ad443d7623.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Ancient Babylon, one of history's most famous cities, is a day trip from Baghdad usually paired with either Borsippa's ziggurat ruins or Karbala's holy shrines, depending on your interests.", tourCard: { slug: "babylon-day-tour-with-guide-and-transport", title: "Babylon Day Tour with Guide and Transport", description: "A standard guided day trip to ancient Babylon.", price: "From $325", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eb169b8d16b4765eba413b73207099197020a47b5b54c9f124aac8ad443d7623.jpeg" } },
+                    { title: "Best for Ancient History: Babylon & Borsippa Day Tour", content: "This pairs Babylon with Borsippa's ziggurat ruins, extending the day into another major Mesopotamian archaeological site.", tourCard: { slug: "from-baghdad-babylon-and-borsippa-day-tour", title: "From Baghdad: Babylon and Borsippa Day Tour", description: "Babylon combined with the Borsippa ziggurat ruins.", price: "From $325", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/695004b4c7b1c084b075ebb12bf8f293debdd3c1ac2ffd2237975a1d9d7e6094.jpeg" } },
+                    { title: "Best for Pilgrimage Travellers: Babylon & Karbala", content: "This pairs ancient Babylon with Karbala's holy shrines, a good fit for travellers combining historical sightseeing with a pilgrimage stop.", tourCard: { slug: "explore-ancient-babylon-ancient-karbala", title: "Explore Ancient Babylon & Ancient Karbala", description: "Babylon combined with Karbala's holy shrines.", price: "From $377", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4cd50e87e3cf0ed817856ee88e49d9e7f373e94017e50e76e3c3d7e277cde62c.jpeg" } },
+                    { title: "Practical Tips", content: "Babylon's ruins include partial reconstructions from the Saddam-era restoration alongside genuine ancient remains — a knowledgeable guide is worth it to distinguish the two, which isn't always obvious to first-time visitors." }
+                ],
+                faqs: [
+                    { q: "What is the best Babylon day trip from Baghdad?", a: "A standard guided tour suits most visitors; combine with Borsippa for more archaeology or Karbala for a pilgrimage stop." },
+                    { q: "Is Babylon fully preserved or reconstructed?", a: "It's a mix — some sections are genuine ancient ruins, others are partial modern reconstructions, so a knowledgeable guide helps distinguish them." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Babylon day trip from Baghdad?", "acceptedAnswer": { "@type": "Answer", "text": "A standard guided tour suits most visitors." } },
+                    { "@type": "Question", "name": "Is Babylon reconstructed?", "acceptedAnswer": { "@type": "Answer", "text": "It's a mix of genuine ruins and modern reconstruction." } }
+                ] },
+            };
+
+        case "best-baghdad-city-tour-baghdad":
+            return {
+                title: "Which Is the Best Baghdad City Tour?",
+                seoTitle: "Best Baghdad City Tour 2026 | Honest Comparison",
+                description: "Compare real Baghdad city tours — from a guided city tour with a free Tigris River boat ride to full historical and cultural day tours.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/293d3b93a9cb3f8d5a6f106fd00b96176b12713818f93487f3432b03e09b806e.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Baghdad city tours typically cover the old town, Al-Mutanabbi Street, and a Tigris riverfront stop, differing mainly in length and whether a river boat ride is included.", tourCard: { slug: "baghdad-guided-city-tour-with-free-tigris-river", title: "Baghdad: Guided City Tour with free Tigris River Boat Ride", description: "A guided city tour including a free Tigris River boat ride.", price: "From $130", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/293d3b93a9cb3f8d5a6f106fd00b96176b12713818f93487f3432b03e09b806e.jpg" } },
+                    { title: "Best Full Day: Historical & Culture Tour", content: "A longer version covering Baghdad's history and culture in more depth than the shorter city tours.", tourCard: { slug: "baghdad-historical-culture-tour", title: "Baghdad historical & culture tour", description: "A full-day historical and cultural tour of Baghdad.", price: "From $260", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/709481f265446678d4d92837de36791680780da878db3accfd758adfe18e0a83.jpg" } },
+                    { title: "Practical Tips", content: "Al-Mutanabbi Street, Baghdad's historic book market, is most lively on Friday mornings — worth timing your city tour around that if you want to see it at its liveliest." }
+                ],
+                faqs: [
+                    { q: "What is the best Baghdad city tour?", a: "A guided tour with a Tigris River boat ride suits most visitors; go full-day for deeper historical context." },
+                    { q: "When is Al-Mutanabbi Street busiest?", a: "Friday mornings, Baghdad's traditional day for the book market." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Baghdad city tour?", "acceptedAnswer": { "@type": "Answer", "text": "A guided tour with a Tigris River boat ride." } },
+                    { "@type": "Question", "name": "When is Al-Mutanabbi Street busiest?", "acceptedAnswer": { "@type": "Answer", "text": "Friday mornings." } }
+                ] },
+            };
+
+        case "is-karbala-day-trip-worth-it-baghdad":
+            return {
+                title: "Is a Karbala Holy Shrines Day Trip from Baghdad Worth It?",
+                seoTitle: "Karbala Day Trip from Baghdad 2026 | Honest Review",
+                description: "An honest look at Karbala holy shrines day trips from Baghdad.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0037d0b6dbb9be11f581cf52e4de51540d85d49f7c6ae2ee8d2e6c409b63ccca.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Karbala's Imam Hussain and Abbas shrines are among the most significant Shia Islamic pilgrimage sites in the world — a day trip here is worthwhile for both religious travellers and those interested in the architecture and history, regardless of faith.", tourCard: { slug: "from-baghdad-karbala-holy-shrines-guided-day-trip", title: "From Baghdad: Karbala Holy Shrines Guided Day Trip", description: "A guided day trip to Karbala's holy shrines.", price: "From $390", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0037d0b6dbb9be11f581cf52e4de51540d85d49f7c6ae2ee8d2e6c409b63ccca.jpeg" } },
+                    { title: "Practical Tips", content: "Dress modestly and expect security checks given the religious significance of the site — a local guide helps navigate etiquette for non-Muslim visitors respectfully." }
+                ],
+                faqs: [
+                    { q: "Is a Karbala day trip from Baghdad worth it?", a: "Yes, for the architecture and history as well as religious significance, regardless of faith." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Karbala worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for architecture, history, and religious significance." } }
+                ] },
+            };
+
+        case "baghdad-travel-guide-2026":
+            return {
+                title: "Baghdad Travel Guide 2026",
+                description: "What first-time visitors need to know about Baghdad, Iraq.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eb169b8d16b4765eba413b73207099197020a47b5b54c9f124aac8ad443d7623.jpeg",
+                sections: [
+                    { title: "Why Visit", content: "Baghdad is the gateway to Mesopotamia's ancient sites — Babylon, Ctesiphon, and more — alongside its own layered history. Tours here run with licensed guides who handle logistics and security considerations for visitors." }
+                ],
+                faqs: [
+                    { q: "Is Baghdad worth visiting?", a: "Yes, particularly as a base for Mesopotamian archaeological sites like Babylon and Ctesiphon." }
+                ],
+            };
+
+        case "iraq-visa-guide-for-tourists":
+            return {
+                title: "Iraq Visa Guide for Tourists (Baghdad)",
+                description: "Visa requirements for visiting Baghdad and Iraq.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eb169b8d16b4765eba413b73207099197020a47b5b54c9f124aac8ad443d7623.jpeg",
+                sections: [
+                    { title: "Visa Requirements", content: "Iraq's visa rules vary significantly by nationality and have changed in recent years to allow more visa-on-arrival access for many countries. Check Iraq's official immigration requirements for your specific nationality before travel, since rules vary and change." }
+                ],
+                faqs: [
+                    { q: "Do I need a visa to visit Baghdad/Iraq?", a: "Depends on nationality — many countries now get visa-on-arrival access; verify current requirements before travel." }
+                ],
+            };
+
+        case "best-jeita-grotto-tour-beirut":
+            return {
+                title: "Which Is the Best Jeita Grotto Tour from Beirut?",
+                seoTitle: "Best Jeita Grotto Tour from Beirut 2026 | Comparison",
+                description: "Compare real Jeita Grotto day trips from Beirut — from a full-day tour combined with Harissa to private motorcycle and road-trip versions.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a9c0ac8db12bedf0c2077bb629f35ba120a0e12f302f75be76477be64aedefc6.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Jeita Grotto's limestone caves are almost always paired with Harissa's hilltop statue and views, since both are a short drive from Beirut. A standard full-day tour covers both at a shared pace.", tourCard: { slug: "beirut-full-day-guided-tour-with-jeita-grotto", title: "Beirut: Full-Day Guided Tour with Jeita Grotto & Harissa", description: "A full-day guided tour combining Jeita Grotto and Harissa.", price: "From $169", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a9c0ac8db12bedf0c2077bb629f35ba120a0e12f302f75be76477be64aedefc6.jpg" } },
+                    { title: "Best Extended Route: Jeita, Harissa & Byblos Private Tour", content: "This extends the standard combo to include Byblos, one of the oldest continuously inhabited cities in the world, for a fuller day of sightseeing.", tourCard: { slug: "from-beirut-jeita-grotto-harissa-byblos-private", title: "From Beirut: Jeita Grotto > Harissa & Byblos Private Tour", description: "Jeita Grotto, Harissa, and Byblos in one private tour.", price: "From $585", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4c707da5064f202c9463f5381e9a5c67dda6097e2ab6b5e781916b36e0fa5f1d.jpeg" } },
+                    { title: "Best for a Different Pace: Private Motorcycle Tour", content: "This covers Jeita, Byblos, and Batroun by motorcycle rather than car, a genuinely different and more active way to see the same coastal route.", tourCard: { slug: "beirut-private-motorcycle-tour-to-jeita-byblos", title: "Beirut: Private Motorcycle Tour to Jeita, Byblos & Batroun", description: "A motorcycle tour covering Jeita, Byblos, and Batroun.", price: "From $389", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/94c261bc5b485880a68b663f14c44bca67ef20186f5d236664e86e66248d5c63.jpg" } },
+                    { title: "Practical Tips", content: "Jeita Grotto has both upper and lower caverns — the lower cavern is accessed by a short boat ride and is often considered the more dramatic of the two, so confirm your tour includes both." }
+                ],
+                faqs: [
+                    { q: "What is the best Jeita Grotto tour from Beirut?", a: "A full-day tour with Harissa suits most visitors; extend to Byblos for more sightseeing or go by motorcycle for something different." },
+                    { q: "Does Jeita Grotto have two caves?", a: "Yes, an upper and lower cavern — the lower one is reached by a short boat ride." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Jeita Grotto tour from Beirut?", "acceptedAnswer": { "@type": "Answer", "text": "A full-day tour with Harissa suits most visitors." } },
+                    { "@type": "Question", "name": "Does Jeita Grotto have two caves?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, upper and lower caverns." } }
+                ] },
+            };
+
+        case "best-baalbek-day-trip-beirut":
+            return {
+                title: "Which Is the Best Baalbek Day Trip from Beirut?",
+                seoTitle: "Best Baalbek Day Trip from Beirut 2026 | Comparison",
+                description: "Compare real Baalbek Roman ruins day trips from Beirut, usually combined with Anjar and Ksara's wine cellars.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cff1d0af013443509beb8ae6a044f487fa1f87b2ba8278f79332399cef33308d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Baalbek's massive Roman temple complex, one of the best-preserved in the world, is usually combined with Anjar's Umayyad ruins and a wine tasting stop at Ksara in a single full-day private tour.", tourCard: { slug: "from-beirut-baalbek-anjar-ksara-private-full-day", title: "From Beirut: Baalbek, Anjar & Ksara Private Full-Day Tour", description: "A private full-day tour combining Baalbek, Anjar, and Ksara.", price: "From $324", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cff1d0af013443509beb8ae6a044f487fa1f87b2ba8278f79332399cef33308d.jpg" } },
+                    { title: "Practical Tips", content: "Baalbek's temples include some of the largest stone blocks ever used in construction — a knowledgeable guide adds real value here since the engineering history is genuinely remarkable and easy to miss without context." }
+                ],
+                faqs: [
+                    { q: "What is the best Baalbek day trip from Beirut?", a: "A private full-day tour combining Baalbek, Anjar, and Ksara's wine cellars." },
+                    { q: "Is Baalbek far from Beirut?", a: "It's a full-day round trip given the distance, so most tours run 10 hours." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Baalbek day trip from Beirut?", "acceptedAnswer": { "@type": "Answer", "text": "A private full-day tour combining Baalbek, Anjar, and Ksara." } },
+                    { "@type": "Question", "name": "Is Baalbek far from Beirut?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a full-day round trip." } }
+                ] },
+            };
+
+        case "is-cedars-of-god-tour-worth-it-beirut":
+            return {
+                title: "Is the Cedars of God & Qadisha Valley Tour from Beirut Worth It?",
+                seoTitle: "Cedars of God Qadisha Valley Tour 2026 | Honest Review",
+                description: "An honest look at the Cedars of God, Qadisha Valley, and Gibran Museum day trip from Beirut.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f90dac62bdf5a1365ad0d7c54150afb66230bd9af001116aee9fa9cb0c78fd5e.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "The Cedars of God is one of the last remaining stands of Lebanon's ancient cedar forests (a UNESCO site), paired here with the dramatic Qadisha Valley and the Gibran Museum — genuinely worth it for the scenery alone, even more so with the cultural context.", tourCard: { slug: "cedars-of-godqadisha-gibran-wpickup", title: "Cedars of God,Qadisha & Gibran w/pickup, guide,entries+lunch", description: "A full-day tour of the Cedars of God, Qadisha Valley, and Gibran Museum.", price: "From $325", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f90dac62bdf5a1365ad0d7c54150afb66230bd9af001116aee9fa9cb0c78fd5e.jpeg" } },
+                    { title: "Practical Tips", content: "This is a mountain trip, so bring a layer even in summer — elevations here are notably cooler than coastal Beirut." }
+                ],
+                faqs: [
+                    { q: "Is the Cedars of God tour worth it?", a: "Yes, for the UNESCO-listed ancient cedar forest and the dramatic Qadisha Valley scenery." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Cedars of God tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for the UNESCO cedar forest and Qadisha Valley scenery." } }
+                ] },
+            };
+
+        case "beirut-travel-guide-2026":
+            return {
+                title: "Beirut Travel Guide 2026",
+                description: "What first-time visitors need to know about Beirut, Lebanon.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a9c0ac8db12bedf0c2077bb629f35ba120a0e12f302f75be76477be64aedefc6.jpg",
+                sections: [
+                    { title: "Why Visit", content: "Beirut packs Mediterranean coastline, mountain day trips, and some of the region's oldest archaeological sites (Baalbek, Byblos, Jeita Grotto) into a compact base." }
+                ],
+                faqs: [
+                    { q: "Is Beirut worth visiting?", a: "Yes, for its coastline, food scene, and access to major day trips like Baalbek and Byblos." }
+                ],
+            };
+
+        case "lebanon-visa-guide-for-tourists":
+            return {
+                title: "Lebanon Visa Guide for Tourists (Beirut)",
+                description: "Visa requirements for visiting Beirut and Lebanon.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a9c0ac8db12bedf0c2077bb629f35ba120a0e12f302f75be76477be64aedefc6.jpg",
+                sections: [
+                    { title: "Visa Requirements", content: "Many nationalities get visa-on-arrival access to Lebanon for tourism. Check Lebanon's official immigration requirements for your specific nationality before travel, since rules vary and change." }
+                ],
+                faqs: [
+                    { q: "Do I need a visa to visit Beirut/Lebanon?", a: "Many nationalities get visa-on-arrival; verify current requirements for your passport before travel." }
+                ],
+            };
+
+        default:
+            return null;
+    }
+}

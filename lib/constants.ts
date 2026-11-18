@@ -539,6 +539,32 @@ export const PARO_INFO_SLUGS: string[] = [
   'paro-weather-guide', 'paro-currency-and-money-guide',
 ];
 
+// Kuwait, Bahrain, Iraq, Lebanon launched 2026-11-19 (smallest remaining
+// countries: 10/32/31/16 live tours respectively) with zero authority pages.
+export const KUWAIT_CITY_INFO_SLUGS = [
+  'best-desert-city-tour-kuwait-city', 'is-kuwait-private-city-tour-worth-it',
+  'kuwait-city-travel-guide-2026', 'best-time-to-visit-kuwait-city',
+  'is-kuwait-city-safe',
+];
+
+export const MANAMA_INFO_SLUGS = [
+  'best-pearling-path-tour-manama', 'best-city-desert-tour-manama',
+  'is-bahrain-food-tasting-tour-worth-it-manama', 'manama-travel-guide-2026',
+  'best-time-to-visit-manama', 'is-manama-safe',
+];
+
+export const BAGHDAD_INFO_SLUGS = [
+  'best-babylon-day-trip-baghdad', 'best-baghdad-city-tour-baghdad',
+  'is-karbala-day-trip-worth-it-baghdad', 'baghdad-travel-guide-2026',
+  'iraq-visa-guide-for-tourists',
+];
+
+export const BEIRUT_INFO_SLUGS = [
+  'best-jeita-grotto-tour-beirut', 'best-baalbek-day-trip-beirut',
+  'is-cedars-of-god-tour-worth-it-beirut', 'beirut-travel-guide-2026',
+  'lebanon-visa-guide-for-tourists',
+];
+
 export const JOHOR_BAHRU_INFO_SLUGS = [
   'best-jetski-tour-johor-bahru',
   'best-hop-on-hop-off-tour-johor-bahru', 'best-private-city-tour-johor-bahru',
