@@ -295,6 +295,26 @@ export const MUSCAT_INFO_SLUGS = [
   'best-wadi-bani-awf-bilad-sayt-tour-muscat', 'best-muttrah-souq-tour-muscat',
 ];
 
+// Armenia launched 2026-11-19 with 547 live tours and zero authority pages.
+export const YEREVAN_INFO_SLUGS: string[] = [];
+
+// Jordan launched 2026-11-19 with 507 live tours and zero authority pages.
+export const PETRA_INFO_SLUGS: string[] = [];
+export const AMMAN_INFO_SLUGS: string[] = [];
+export const AQABA_INFO_SLUGS: string[] = [];
+
+// Azerbaijan launched 2026-11-19 with 403 live tours and zero authority pages.
+export const BAKU_INFO_SLUGS: string[] = [];
+
+// Singapore launched 2026-11-19 with 318 live tours and zero authority pages.
+export const SINGAPORE_INFO_SLUGS: string[] = [];
+
+// Laos launched 2026-11-19 with 304 live tours and zero authority pages.
+export const LUANG_PRABANG_INFO_SLUGS: string[] = [];
+
+// Saudi Arabia launched 2026-11-19 with 289 live tours and zero authority pages.
+export const RIYADH_INFO_SLUGS: string[] = [];
+
 export const JOHOR_BAHRU_INFO_SLUGS = [
   'best-jetski-tour-johor-bahru',
   'best-hop-on-hop-off-tour-johor-bahru', 'best-private-city-tour-johor-bahru',

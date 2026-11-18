@@ -47,6 +47,12 @@ import { getUzbekistanInfoContent } from './uzbekistanInfoContent';
 import { getNepalInfoContent } from './nepalInfoContent';
 import { getGeorgiaInfoContent } from './georgiaInfoContent';
 import { getOmanInfoContent } from './omanInfoContent';
+import { getArmeniaInfoContent } from './armeniaInfoContent';
+import { getJordanInfoContent } from './jordanInfoContent';
+import { getAzerbaijanInfoContent } from './azerbaijanInfoContent';
+import { getSingaporeInfoContent } from './singaporeInfoContent';
+import { getLaosInfoContent } from './laosInfoContent';
+import { getSaudiArabiaInfoContent } from './saudiArabiaInfoContent';
 
 export interface CityInfoData {
     /** On-page H1. Can be long and descriptive. */
@@ -81,6 +87,24 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const omanPage = getOmanInfoContent(slug);
     if (omanPage) return omanPage;
+
+    const armeniaPage = getArmeniaInfoContent(slug);
+    if (armeniaPage) return armeniaPage;
+
+    const jordanPage = getJordanInfoContent(slug);
+    if (jordanPage) return jordanPage;
+
+    const azerbaijanPage = getAzerbaijanInfoContent(slug);
+    if (azerbaijanPage) return azerbaijanPage;
+
+    const singaporePage = getSingaporeInfoContent(slug);
+    if (singaporePage) return singaporePage;
+
+    const laosPage = getLaosInfoContent(slug);
+    if (laosPage) return laosPage;
+
+    const saudiArabiaPage = getSaudiArabiaInfoContent(slug);
+    if (saudiArabiaPage) return saudiArabiaPage;
 
     const agraJaipurPage = getAgraJaipurInfoContent(slug);
     if (agraJaipurPage) return agraJaipurPage;
