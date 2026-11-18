@@ -378,14 +378,84 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
       priority: 0.7,
     }));
 
-  const yerevanInfoPages = mapInfoSlugs([], 'armenia', 'yerevan');
-  const petraInfoPages = mapInfoSlugs([], 'jordan', 'petra');
+  const yerevanInfoPages = mapInfoSlugs([
+    'best-garni-geghard-tour-yerevan', 'best-lake-sevan-tour-yerevan',
+    'best-khor-virap-tour-yerevan', 'best-wine-tasting-tour-yerevan',
+    'best-tatev-monastery-tour-yerevan', 'best-noravank-tour-yerevan',
+    'is-yerevan-old-town-tour-worth-it', 'best-brandy-tasting-tour-yerevan',
+    'best-cooking-class-yerevan', 'best-mount-aragats-hiking-tour-yerevan',
+    'best-horseback-riding-tour-yerevan',
+    'yerevan-travel-guide-2026', 'best-time-to-visit-yerevan',
+    'yerevan-1-day-itinerary', 'armenia-visa-guide-for-tourists',
+    'yerevan-food-guide', 'is-yerevan-safe', 'yerevan-currency-guide',
+    'yerevan-public-transport-guide', 'yerevan-shopping-guide',
+  ], 'armenia', 'yerevan');
+  const petraInfoPages = mapInfoSlugs([
+    'best-petra-day-tour-from-amman', 'best-petra-wadi-rum-2-day-tour',
+    'best-multi-day-jordan-highlights-tour', 'best-private-petra-guide-tour',
+    'best-petra-monastery-hike-tour', 'is-little-petra-worth-it',
+    'is-golf-cart-tour-worth-it-petra', 'is-utv-tour-worth-it-petra',
+    'best-petra-photography-tour', 'is-cooking-class-worth-it-petra',
+    'best-dana-to-petra-trek', 'is-helicopter-tour-worth-it-petra',
+    'best-petra-dead-sea-day-trip', 'best-petra-tour-from-aqaba',
+    'best-wadi-rum-jeep-tour-from-petra', 'petra-travel-guide-2026',
+    'best-time-to-visit-petra', 'how-many-days-for-petra',
+    'petra-entrance-fee-guide', 'jordan-visa-guide-for-tourists',
+  ], 'jordan', 'petra');
   const ammanInfoPages = mapInfoSlugs([], 'jordan', 'amman');
   const aqabaInfoPages = mapInfoSlugs([], 'jordan', 'aqaba');
-  const bakuInfoPages = mapInfoSlugs([], 'azerbaijan', 'baku');
-  const singaporeInfoPages = mapInfoSlugs([], 'singapore', 'singapore');
-  const luangPrabangInfoPages = mapInfoSlugs([], 'laos', 'luang-prabang');
-  const riyadhInfoPages = mapInfoSlugs([], 'saudi-arabia', 'riyadh');
+  const bakuInfoPages = mapInfoSlugs([
+    'best-gobustan-tour-baku', 'best-old-city-walking-tour-baku',
+    'best-ateshgah-yanar-dag-tour-baku', 'best-caspian-sea-boat-tour-baku',
+    'best-city-tour-baku', 'best-highland-park-tour-baku',
+    'is-maidens-tower-tour-worth-it-baku', 'is-shamakhi-day-trip-worth-it-baku',
+    'is-azerbaijan-multiday-tour-worth-it-baku',
+    'baku-travel-guide-2026', 'best-time-to-visit-baku',
+    'baku-1-day-itinerary', 'azerbaijan-visa-guide-for-tourists',
+    'is-baku-safe', 'baku-food-guide',
+    'baku-currency-guide', 'baku-public-transport-guide',
+    'baku-shopping-guide', 'baku-nightlife-guide', 'baku-weather-guide',
+  ], 'azerbaijan', 'baku');
+  const singaporeInfoPages = mapInfoSlugs([
+    'best-gardens-by-the-bay-tour-singapore', 'best-chinatown-walking-tour-singapore',
+    'best-night-safari-tour-singapore', 'best-night-river-cruise-singapore',
+    'best-sentosa-tour-singapore', 'best-food-tour-singapore',
+    'best-little-india-tour-singapore', 'best-marina-bay-sands-skypark-tour-singapore',
+    'best-cable-car-tour-singapore', 'best-botanic-gardens-tour-singapore',
+    'best-singapore-zoo-tour-singapore', 'is-universal-studios-singapore-worth-it',
+    'best-bird-paradise-tour-singapore',
+    'singapore-travel-guide-2026', 'best-time-to-visit-singapore',
+    'singapore-1-day-itinerary', 'singapore-3-day-itinerary',
+    'singapore-visa-guide-for-tourists', 'singapore-public-transport-guide',
+    'singapore-food-guide', 'is-singapore-expensive',
+  ], 'singapore', 'singapore');
+  const luangPrabangInfoPages = mapInfoSlugs([
+    'best-kuang-si-waterfall-tour-luang-prabang', 'best-alms-giving-ceremony-tour-luang-prabang',
+    'best-mekong-sunset-cruise-luang-prabang', 'best-pak-ou-caves-tour-luang-prabang',
+    'best-cooking-class-luang-prabang', 'best-food-tour-luang-prabang',
+    'best-nong-khiaw-trek-camping-tour-luang-prabang', 'best-slow-boat-transfer-luang-prabang',
+    'best-city-heritage-tour-luang-prabang', 'is-weaving-craft-workshop-worth-it-luang-prabang',
+    'best-village-trekking-tour-luang-prabang', 'is-paramotor-flight-worth-it-luang-prabang',
+    'best-private-full-day-tour-luang-prabang',
+    'luang-prabang-travel-guide-2026', 'best-time-to-visit-luang-prabang',
+    'luang-prabang-1-day-itinerary', 'laos-visa-guide-for-tourists',
+    'luang-prabang-food-guide', 'is-luang-prabang-safe',
+    'luang-prabang-alms-giving-etiquette-guide',
+  ], 'laos', 'luang-prabang');
+  const riyadhInfoPages = mapInfoSlugs([
+    'best-edge-of-the-world-tour-riyadh', 'best-desert-safari-tour-riyadh',
+    'best-old-riyadh-walking-tour-riyadh', 'best-city-tour-riyadh',
+    'best-national-museum-tour-riyadh', 'best-diriyah-tour-riyadh',
+    'best-horseback-riding-tour-riyadh', 'best-red-sand-dunes-tour-riyadh',
+    'best-architecture-tour-riyadh', 'best-shaqra-ushaiqer-tour-riyadh',
+    'is-riyadh-snow-city-worth-it', 'is-riyadh-virtual-reality-experience-worth-it',
+    'is-desert-falconry-experience-worth-it-riyadh', 'is-nofa-wildlife-park-safari-worth-it-riyadh',
+    'is-night-stargazing-experience-worth-it-riyadh', 'is-bedouin-desert-experience-worth-it-riyadh',
+    'riyadh-travel-guide-2026', 'best-time-to-visit-riyadh',
+    'riyadh-1-day-itinerary', 'saudi-arabia-visa-guide-for-tourists',
+    'is-riyadh-safe', 'riyadh-food-guide',
+    'riyadh-public-transport-guide',
+  ], 'saudi-arabia', 'riyadh');
 
   // Philippines info pages (Manila + Cebu)
   const manilaInfoPages = [
