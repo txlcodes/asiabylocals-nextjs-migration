@@ -53,6 +53,10 @@ import { getAzerbaijanInfoContent } from './azerbaijanInfoContent';
 import { getSingaporeInfoContent } from './singaporeInfoContent';
 import { getLaosInfoContent } from './laosInfoContent';
 import { getSaudiArabiaInfoContent } from './saudiArabiaInfoContent';
+import { getKazakhstanInfoContent } from './kazakhstanInfoContent';
+import { getMongoliaInfoContent } from './mongoliaInfoContent';
+import { getIsraelInfoContent } from './israelInfoContent';
+import { getBhutanInfoContent } from './bhutanInfoContent';
 
 export interface CityInfoData {
     /** On-page H1. Can be long and descriptive. */
@@ -105,6 +109,18 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const saudiArabiaPage = getSaudiArabiaInfoContent(slug);
     if (saudiArabiaPage) return saudiArabiaPage;
+
+    const kazakhstanPage = getKazakhstanInfoContent(slug);
+    if (kazakhstanPage) return kazakhstanPage;
+
+    const mongoliaPage = getMongoliaInfoContent(slug);
+    if (mongoliaPage) return mongoliaPage;
+
+    const israelPage = getIsraelInfoContent(slug);
+    if (israelPage) return israelPage;
+
+    const bhutanPage = getBhutanInfoContent(slug);
+    if (bhutanPage) return bhutanPage;
 
     const agraJaipurPage = getAgraJaipurInfoContent(slug);
     if (agraJaipurPage) return agraJaipurPage;

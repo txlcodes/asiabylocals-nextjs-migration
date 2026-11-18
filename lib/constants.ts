@@ -460,6 +460,20 @@ export const VANG_VIENG_INFO_SLUGS: string[] = [
   'vang-vieng-food-guide', 'vang-vieng-nightlife-guide',
 ];
 
+// Kazakhstan launched 2026-11-19 with 209 live tours and zero authority pages.
+export const ALMATY_INFO_SLUGS: string[] = [];
+
+// Mongolia launched 2026-11-19 with 139 live tours and zero authority pages.
+export const ULAANBAATAR_INFO_SLUGS: string[] = [];
+
+// Israel launched 2026-11-19 with 110 live tours and zero authority pages.
+export const JERUSALEM_INFO_SLUGS: string[] = [];
+export const TEL_AVIV_INFO_SLUGS: string[] = [];
+
+// Bhutan launched 2026-11-19 with 92 live tours and zero authority pages.
+export const THIMPHU_INFO_SLUGS: string[] = [];
+export const PARO_INFO_SLUGS: string[] = [];
+
 export const JOHOR_BAHRU_INFO_SLUGS = [
   'best-jetski-tour-johor-bahru',
   'best-hop-on-hop-off-tour-johor-bahru', 'best-private-city-tour-johor-bahru',
