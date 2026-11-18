@@ -526,7 +526,18 @@ export const THIMPHU_INFO_SLUGS: string[] = [
   'thimphu-food-guide', 'is-thimphu-safe',
   'thimphu-dress-code-guide', 'thimphu-weather-guide',
 ];
-export const PARO_INFO_SLUGS: string[] = [];
+export const PARO_INFO_SLUGS: string[] = [
+  'best-tigers-nest-hike-tour-paro', 'best-national-museum-tour-paro',
+  'best-multi-day-bhutan-tour-paro', 'is-punakha-day-trip-worth-it-paro',
+  'is-private-paro-car-tour-worth-it', 'is-chele-la-hike-worth-it-paro',
+  'is-paro-walking-tour-worth-it', 'is-meditation-experience-worth-it-paro',
+  'is-bhutan-birdwatching-worth-it', 'is-bumthang-owl-trek-worth-it',
+  'paro-travel-guide-2026', 'best-time-to-visit-paro',
+  'paro-1-day-itinerary', 'is-tigers-nest-hike-difficult',
+  'paro-food-guide', 'paro-airport-guide',
+  'how-many-days-for-bhutan', 'paro-dress-code-guide',
+  'paro-weather-guide', 'paro-currency-and-money-guide',
+];
 
 export const JOHOR_BAHRU_INFO_SLUGS = [
   'best-jetski-tour-johor-bahru',
