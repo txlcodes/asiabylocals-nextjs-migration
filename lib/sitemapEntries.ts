@@ -567,7 +567,18 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-tel-aviv-safe', 'tel-aviv-to-jerusalem-guide',
   ], 'israel', 'tel-aviv');
   const thimphuInfoPages = mapInfoSlugs([], 'bhutan', 'thimphu');
-  const paroInfoPages = mapInfoSlugs([], 'bhutan', 'paro');
+  const paroInfoPages = mapInfoSlugs([
+    'best-tigers-nest-hike-tour-paro', 'best-national-museum-tour-paro',
+    'best-multi-day-bhutan-tour-paro', 'is-punakha-day-trip-worth-it-paro',
+    'is-private-paro-car-tour-worth-it', 'is-chele-la-hike-worth-it-paro',
+    'is-paro-walking-tour-worth-it', 'is-meditation-experience-worth-it-paro',
+    'is-bhutan-birdwatching-worth-it', 'is-bumthang-owl-trek-worth-it',
+    'paro-travel-guide-2026', 'best-time-to-visit-paro',
+    'paro-1-day-itinerary', 'is-tigers-nest-hike-difficult',
+    'paro-food-guide', 'paro-airport-guide',
+    'how-many-days-for-bhutan', 'paro-dress-code-guide',
+    'paro-weather-guide', 'paro-currency-and-money-guide',
+  ], 'bhutan', 'paro');
 
   // Philippines info pages (Manila + Cebu)
   const manilaInfoPages = [
