@@ -554,16 +554,16 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'ulaanbaatar-food-guide', 'ulaanbaatar-weather-guide',
   ], 'mongolia', 'ulaanbaatar');
   const jerusalemInfoPages = mapInfoSlugs([
-    'best-old-city-walking-tour-jerusalem', 'best-bethlehem-day-trip-jerusalem',
-    'best-dead-sea-day-trip-jerusalem', 'is-mount-of-olives-tour-worth-it-jerusalem',
-    'is-jewish-heritage-tour-worth-it-jerusalem', 'is-judean-desert-jeep-adventure-worth-it-jerusalem',
-    'is-archaeological-dig-experience-worth-it-jerusalem', 'best-private-full-day-tour-jerusalem',
-    'is-new-city-tour-worth-it-jerusalem', 'is-israel-museum-tour-worth-it-jerusalem',
-    'best-jerusalem-bethlehem-combo-tour-jerusalem', 'is-wineries-tour-worth-it-jerusalem',
+    'best-old-city-tour-jerusalem', 'best-bethlehem-day-trip-jerusalem',
+    'best-dead-sea-day-trip-jerusalem', 'is-western-wall-heritage-tour-worth-it-jerusalem',
+    'is-city-of-david-mount-of-olives-worth-it-jerusalem', 'is-mamilla-mahane-yehuda-tour-worth-it-jerusalem',
+    'is-judean-desert-jeep-tour-worth-it-jerusalem', 'is-dig-for-a-day-worth-it-jerusalem',
     'jerusalem-travel-guide-2026', 'best-time-to-visit-jerusalem',
     'jerusalem-1-day-itinerary', 'israel-visa-guide-for-tourists',
     'is-jerusalem-safe', 'jerusalem-dress-code-guide',
     'jerusalem-food-guide', 'jerusalem-public-transport-guide',
+    'jerusalem-old-city-quarters-guide', 'jerusalem-to-tel-aviv-guide',
+    'jerusalem-to-bethlehem-checkpoint-guide',
   ], 'israel', 'jerusalem');
   const telAvivInfoPages = mapInfoSlugs([
     'best-jaffa-old-city-tour-tel-aviv', 'best-carmel-market-food-tour-tel-aviv',
