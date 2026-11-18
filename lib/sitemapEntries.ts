@@ -1257,6 +1257,31 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     console.error('Sitemap: failed to fetch tours', e);
   }
 
+  // City HUB pages (the /<country>/<city> page itself, no slug) for every
+  // country added since the hardcoded staticPages list above was last
+  // extended: Georgia, Qatar, Jordan, Singapore, Malaysia, South Korea,
+  // Taiwan, the Philippines, Laos, Saudi Arabia, Uzbekistan, Azerbaijan,
+  // Kazakhstan, Armenia, Oman, Bhutan, Israel, Mongolia and more. Their info
+  // pages and tour pages were being submitted, but the hub page — the one
+  // that actually ranks for "best tours in <city>" — never was, because
+  // nobody had hand-added it to staticPages. Found 2026-11-19: 83 live city
+  // hubs with approved tours (Doha alone has 850) entirely absent from the
+  // sitemap. Derived from the tour pages just built, not hand-listed, so a
+  // newly launched city's hub is covered the moment its tours are — the same
+  // lesson as the `cities` derivation above. Duplicate <url> values against
+  // staticPages' existing hub entries are harmless; Google de-dupes them.
+  const hubUrls = new Set<string>();
+  for (const tp of tourPages) {
+    const parts = tp.url.replace(`${BASE_URL}/`, '').split('/');
+    if (parts.length === 3) hubUrls.add(`${parts[0]}/${parts[1]}`);
+  }
+  const cityHubPages: MetadataRoute.Sitemap = Array.from(hubUrls).map(path => ({
+    url: `${BASE_URL}/${path}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
+  }));
+
   const haLongInfoPages = [
     'ha-long-bay-day-trip-or-overnight-cruise',
     'choosing-a-ha-long-bay-cruise',
@@ -1453,7 +1478,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
 
   const all = [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...kashmirInfoPages, ...beijingInfoPages, ...shanghaiInfoPages, ...hongKongInfoPages, ...taiwanInfoPages, ...seoulInfoPages, ...busanInfoPages, ...istanbulInfoPages, ...dohaInfoPages, ...maleInfoPages, ...samarkandInfoPages, ...tashkentInfoPages, ...bukharaInfoPages, ...khivaInfoPages, ...manilaInfoPages, ...cebuInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...siemReapInfoPages, ...phnomPenhInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...mountFujiInfoPages, ...colomboInfoPages, ...kandyInfoPages, ...sigiriyaInfoPages, ...mirissaInfoPages, ...bentotaInfoPages, ...nuwaraEliyaInfoPages, ...negomboInfoPages, ...dubaiInfoPages, ...haLongInfoPages, ...hanoiInfoPages, ...sapaInfoPages, ...hoiAnInfoPages, ...ubudInfoPages, ...cangguInfoPages, ...uluwatuInfoPages, ...nusaPenidaInfoPages, ...daNangInfoPages, ...hoChiMinhCityInfoPages, ...kualaLumpurInfoPages, ...penangInfoPages, ...langkawiInfoPages, ...malaccaInfoPages, ...kotaKinabaluInfoPages, ...kuchingInfoPages, ...johorBahruInfoPages, ...kathmanduInfoPages, ...tbilisiInfoPages, ...muscatInfoPages, ...yerevanInfoPages, ...petraInfoPages, ...ammanInfoPages, ...aqabaInfoPages, ...bakuInfoPages, ...singaporeInfoPages, ...luangPrabangInfoPages, ...riyadhInfoPages, ...jeddahInfoPages, ...alulaInfoPages, ...vientianeInfoPages, ...vangViengInfoPages, ...almatyInfoPages, ...ulaanbaatarInfoPages, ...jerusalemInfoPages, ...telAvivInfoPages, ...thimphuInfoPages, ...paroInfoPages,
     ...abuDhabiInfoPages,
-    ...galleInfoPages, ...ellaInfoPages, ...itineraryPages, ...goldenTriangle, ...tourPages];
+    ...galleInfoPages, ...ellaInfoPages, ...itineraryPages, ...goldenTriangle, ...cityHubPages, ...tourPages];
 
   // Drop any URL whose last segment is a slug we 308 away from. Six of these
   // were being submitted — /india/agra/agra-gatimaan-entry-ticket and friends —
