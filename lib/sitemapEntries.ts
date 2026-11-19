@@ -1317,6 +1317,27 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     priority: 0.8,
   }));
 
+  // Country ROOT pages (the /<country> page itself) for every country whose
+  // hub pages were just derived above. Found 2026-11-19 in the same audit
+  // that found the 83 missing city hubs: app/[country]/page.tsx 404'd for
+  // 24 countries (Qatar, Georgia, Turkey, Oman, Armenia, Philippines, South
+  // Korea, Azerbaijan, Singapore, Malaysia, Uzbekistan, Jordan, Taiwan,
+  // Laos, Saudi Arabia, Kazakhstan, Israel, Mongolia, Bhutan, Kuwait,
+  // Bahrain, Iraq, Lebanon, Maldives) because nobody had hand-added them to
+  // COUNTRY_META or to this file's staticPages list — the exact same
+  // "hand-listed, so it rots" failure as the city hubs, one level up. That
+  // 404 is now fixed (app/[country]/page.tsx derives a fallback from the
+  // tours API), but the sitemap still never submitted these URLs at all.
+  // Derived the same way as cityHubPages: never hand-listed again.
+  const countryRootUrls = new Set<string>();
+  for (const path of hubUrls) countryRootUrls.add(path.split('/')[0]);
+  const countryRootPages: MetadataRoute.Sitemap = Array.from(countryRootUrls).map(country => ({
+    url: `${BASE_URL}/${country}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
+  }));
+
   const haLongInfoPages = [
     'ha-long-bay-day-trip-or-overnight-cruise',
     'choosing-a-ha-long-bay-cruise',
@@ -1513,7 +1534,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
 
   const all = [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...kashmirInfoPages, ...beijingInfoPages, ...shanghaiInfoPages, ...hongKongInfoPages, ...taiwanInfoPages, ...seoulInfoPages, ...busanInfoPages, ...istanbulInfoPages, ...dohaInfoPages, ...maleInfoPages, ...samarkandInfoPages, ...tashkentInfoPages, ...bukharaInfoPages, ...khivaInfoPages, ...manilaInfoPages, ...cebuInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...siemReapInfoPages, ...phnomPenhInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...mountFujiInfoPages, ...colomboInfoPages, ...kandyInfoPages, ...sigiriyaInfoPages, ...mirissaInfoPages, ...bentotaInfoPages, ...nuwaraEliyaInfoPages, ...negomboInfoPages, ...dubaiInfoPages, ...haLongInfoPages, ...hanoiInfoPages, ...sapaInfoPages, ...hoiAnInfoPages, ...ubudInfoPages, ...cangguInfoPages, ...uluwatuInfoPages, ...nusaPenidaInfoPages, ...daNangInfoPages, ...hoChiMinhCityInfoPages, ...kualaLumpurInfoPages, ...penangInfoPages, ...langkawiInfoPages, ...malaccaInfoPages, ...kotaKinabaluInfoPages, ...kuchingInfoPages, ...johorBahruInfoPages, ...kathmanduInfoPages, ...tbilisiInfoPages, ...muscatInfoPages, ...yerevanInfoPages, ...petraInfoPages, ...ammanInfoPages, ...aqabaInfoPages, ...bakuInfoPages, ...singaporeInfoPages, ...luangPrabangInfoPages, ...riyadhInfoPages, ...jeddahInfoPages, ...alulaInfoPages, ...vientianeInfoPages, ...vangViengInfoPages, ...almatyInfoPages, ...ulaanbaatarInfoPages, ...jerusalemInfoPages, ...telAvivInfoPages, ...thimphuInfoPages, ...paroInfoPages, ...kuwaitCityInfoPages, ...manamaInfoPages, ...baghdadInfoPages, ...beirutInfoPages,
     ...abuDhabiInfoPages,
-    ...galleInfoPages, ...ellaInfoPages, ...itineraryPages, ...goldenTriangle, ...cityHubPages, ...tourPages];
+    ...galleInfoPages, ...ellaInfoPages, ...itineraryPages, ...goldenTriangle, ...cityHubPages, ...countryRootPages, ...tourPages];
 
   // Drop any URL whose last segment is a slug we 308 away from. Six of these
   // were being submitted — /india/agra/agra-gatimaan-entry-ticket and friends —
