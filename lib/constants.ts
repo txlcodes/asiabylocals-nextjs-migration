@@ -485,6 +485,11 @@ export const ULAANBAATAR_INFO_SLUGS: string[] = [
   'is-bar-hopping-tour-worth-it-ulaanbaatar', 'is-walking-tour-worth-it-ulaanbaatar',
   'ulaanbaatar-travel-guide-2026', 'best-time-to-visit-ulaanbaatar',
   'ulaanbaatar-1-day-itinerary', 'mongolia-visa-guide-for-tourists',
+  // Listed in the sitemap (lib/sitemapEntries.ts) and has real content in
+  // lib/mongoliaInfoContent.ts, but was never added here — so the tour
+  // detail route's isInfoSlug() didn't recognise it and both 404'd despite
+  // being submitted to Google. Found 2026-11-19 sitemap sweep.
+  'ulaanbaatar-food-guide', 'ulaanbaatar-weather-guide',
 ];
 
 // Israel launched 2026-11-19 with 110 live tours and zero authority pages.
