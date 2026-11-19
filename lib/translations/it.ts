@@ -86428,6 +86428,30 @@ export const IT_TOURS: Record<string, TourT> = {
 };
 export const IT_PAGES: Record<string, PageT> = {};
 export const IT_CITIES: Record<string, CityT> = {
+ "hanoi": {
+  "title": "Tour di Hanoi con guide locali: Quartiere Vecchio, Train Street e Ninh Binh",
+  "description": "Percorsi di street food nel Quartiere Vecchio, spettacoli di marionette ad acqua, escursioni a Ninh Binh e il Ha Giang Loop, prenotati direttamente con operatori locali verificati."
+ },
+ "ha-long": {
+  "title": "Crociere nella baia di Ha Long con operatori locali: giornata o notte a bordo",
+  "description": "Crociere di un giorno e con pernottamento a bordo nelle baie di Ha Long, Lan Ha e Bai Tu Long, grotte e kayak, prenotate direttamente con operatori locali verificati."
+ },
+ "sapa": {
+  "title": "Trekking a Sa Pa con guide locali: valle di Muong Hoa, villaggi e Fansipan",
+  "description": "Trekking tra le risaie terrazzate, notti in homestay con le comunità hmong e dao, la funivia del Fansipan e il mercato di Bac Ha, prenotati direttamente con operatori locali verificati."
+ },
+ "hoi-an": {
+  "title": "Tour di Hoi An con guide locali: centro storico, lanterne e My Son",
+  "description": "Corsi di cucina, giri in barca di bambù a Cam Thanh, le lanterne del centro storico e le rovine cham di My Son, prenotati direttamente con operatori locali verificati."
+ },
+ "da-nang": {
+  "title": "Tour di Da Nang con guide locali: Ba Na Hills, Ponte d'Oro e Montagne di Marmo",
+  "description": "Ba Na Hills e il Ponte d'Oro, le Montagne di Marmo, il passo di Hai Van ed escursioni a Hoi An e Hue, prenotati direttamente con operatori locali verificati."
+ },
+ "ho-chi-minh-city": {
+  "title": "Tour di Ho Chi Minh City con guide locali: Cu Chi, Mekong e street food",
+  "description": "I tunnel di Cu Chi, il delta del Mekong, il Museo dei Resti di Guerra e tour gastronomici notturni in moto, prenotati direttamente con operatori locali verificati."
+ },
  "country:india": {
   "title": "India: tour guidati ed escursioni con operatori locali verificati",
   "description": "Taj Mahal, Rajasthan, Delhi, Mumbai e molto altro: centinaia di tour prenotati direttamente con operatori locali verificati, con conferma su WhatsApp."
