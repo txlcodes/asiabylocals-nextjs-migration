@@ -4,6 +4,7 @@ import CountryPageClient from '@/components/CountryPageClient';
 import { countryDisplayName } from '@/lib/countryName';
 import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 import { isLang, cityT, tourT, alternatesFor, canonicalFor, type Lang } from '@/lib/translations';
+import { CITY_URL_MAP } from '@/lib/constants';
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
 
@@ -159,11 +160,80 @@ const COUNTRY_META: Record<string, {
   },
 };
 
+type CountryMeta = (typeof COUNTRY_META)[string];
+
+// Countries whose cities have live, approved tours but were never hand-added
+// to COUNTRY_META above 404'd at /<country> — even though their city hub
+// pages (and the sitemap's derived cityHubPages) were live 200s. Found
+// 2026-11-19 alongside the "83 hubs missing from the sitemap" bug: Qatar,
+// Georgia, Turkey, Oman, Armenia, Philippines, South Korea, Azerbaijan,
+// Singapore, Malaysia, Uzbekistan, Jordan, Taiwan, Laos, Saudi Arabia,
+// Kazakhstan, Israel, Mongolia, Bhutan, Kuwait, Bahrain, Iraq, Lebanon and
+// Maldives were all 404ing at the country root — meaning the city pages
+// were orphaned from on-site navigation, not just under-weighted in the
+// sitemap. Rather than hand-add 20+ more entries above (the exact pattern
+// that keeps causing this bug — see sitemap_wrong_country_bug.md), derive a
+// minimal COUNTRY_META from the tours API for any country not hand-curated,
+// the same "derive, never hand-list" fix already applied to the per-city
+// tour fetch and the sitemap's hub-page list.
+async function getDerivedCountryMeta(c: string): Promise<CountryMeta | null> {
+  const name = countryDisplayName(c);
+  try {
+    const res = await fetch(
+      `${API_URL}/api/public/tours?country=${encodeURIComponent(name)}&status=approved`,
+      { next: { revalidate: 60 } }
+    );
+    if (!res.ok) return null;
+    const data = await res.json();
+    const tours: any[] = Array.isArray(data?.tours) ? data.tours : [];
+    if (tours.length === 0) return null;
+
+    const byCity = new Map<string, { count: number; image?: string }>();
+    for (const t of tours) {
+      if (!t?.city) continue;
+      const key = String(t.city).toLowerCase().replace(/\s+/g, '-');
+      const mapping = CITY_URL_MAP[key];
+      // Only list cities actually mapped to this country — a tour whose own
+      // `country` field drifted (the wrong-country bug this file's sibling
+      // memory documents) should not spawn a stray city on this page.
+      if (mapping && mapping.country !== c) continue;
+      const citySlug = mapping ? mapping.city : key;
+      const image = Array.isArray(t.images) && typeof t.images[0] === 'string' ? t.images[0] : undefined;
+      const existing = byCity.get(citySlug);
+      if (existing) {
+        existing.count += 1;
+        if (!existing.image && image) existing.image = image;
+      } else {
+        byCity.set(citySlug, { count: 1, image });
+      }
+    }
+    if (byCity.size === 0) return null;
+
+    const cities = Array.from(byCity.entries())
+      .sort((a, b) => b[1].count - a[1].count)
+      .map(([slug, info]) => ({
+        name: capitalize(slug),
+        slug,
+        image: info.image || '/og-default.webp',
+        tagline: `${info.count} tour${info.count === 1 ? '' : 's'} by local operators`,
+      }));
+
+    return {
+      title: `${name} Tours & Experiences | Local Guides | AsiaByLocals`,
+      description: `Book ${name} tours run by verified local operators across ${cities.length} ${cities.length === 1 ? 'city' : 'cities'}. Real operators, direct confirmation.`,
+      cities,
+    };
+  } catch (e) {
+    console.error(`Failed to derive country meta for ${c}:`, e);
+    return null;
+  }
+}
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { country, lang: langParam } = await params;
   const lang: Lang | null = langParam && isLang(langParam) ? langParam : null;
   const c = country.toLowerCase();
-  const meta = COUNTRY_META[c];
+  const meta = COUNTRY_META[c] ?? await getDerivedCountryMeta(c);
   const ct = cityT(lang, `country:${c}`);
 
   if (!meta) {
@@ -212,7 +282,7 @@ export default async function CountryPage({ params }: Props) {
   const { country, lang: langParam } = await params;
   const lang: Lang | null = langParam && isLang(langParam) ? langParam : null;
   const c = country.toLowerCase();
-  const meta = COUNTRY_META[c];
+  const meta = COUNTRY_META[c] ?? await getDerivedCountryMeta(c);
 
   if (!meta) {
     notFound();
