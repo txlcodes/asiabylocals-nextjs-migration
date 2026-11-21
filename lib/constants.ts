@@ -1840,6 +1840,7 @@ export const HOI_AN_INFO_SLUGS = [
   'hoi-an-countryside-and-bike-tours',
   'hoi-an-day-trips-guide',
   'hoi-an-with-kids',
+  'best-cham-islands-tour-hoi-an',
 ];
 
 export const UBUD_INFO_SLUGS = [

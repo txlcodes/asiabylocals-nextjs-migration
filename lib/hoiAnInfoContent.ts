@@ -617,6 +617,38 @@ export function getHoiAnInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-cham-islands-tour-hoi-an":
+      return {
+        title: "Which Is the Best Cham Islands Tour from Hoi An?",
+        description: "Compare real Cham Islands day trips from Hoi An — a budget snorkeling tour, a lunch-included trip, and a PADI divemaster-led diving and snorkeling option.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/cham-islands-diving-and-snorkeling-with-padi-divemaster-hoi-an/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Cham Islands, a marine protected area off the coast, offer Hoi An's best snorkeling and diving — a genuinely different day from the Ancient Town's cultural sights.",
+            tourCard: { slug: "cham-island-daily-tour-with-snorkeling", title: "Cham Island Daily Tour with Snorkeling", description: "A daily tour of Cham Island with snorkeling.", price: "From $47", duration: "6.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/cham-island-daily-tour-with-snorkeling/img0/1600.webp" },
+          },
+          {
+            title: "Best Value: Snorkeling Trip with Lunch",
+            content: "A similarly priced snorkeling trip that includes lunch, worth comparing on exact timing and stops.",
+            tourCard: { slug: "cham-islands-snorkeling-trip-with-lunch", title: "Cham Islands Snorkeling Trip with Lunch", description: "A snorkeling trip to the Cham Islands with lunch included.", price: "From $53", duration: "5.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/cham-islands-snorkeling-trip-with-lunch/img0/1600.webp" },
+          },
+          {
+            title: "Best for Divers: PADI Divemaster-Led Diving and Snorkeling",
+            content: "This version is led by a PADI divemaster, worth it for travelers who want an actual scuba dive rather than snorkeling alone.",
+            tourCard: { slug: "cham-islands-diving-and-snorkeling-with-padi-divemaster-hoi-an", title: "Cham Islands Diving and Snorkeling with PADI Divemaster (Hoi An)", description: "A diving and snorkeling tour of the Cham Islands led by a PADI divemaster.", price: "From $168", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/cham-islands-diving-and-snorkeling-with-padi-divemaster-hoi-an/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The Cham Islands are a marine protected area, so some zones restrict snorkeling/diving seasonally — check current access with your operator.",
+          },
+        ],
+        faqs: [
+          { q: "What are the Cham Islands known for?", a: "A marine protected area off Hoi An's coast, known for the area's best snorkeling and diving." },
+          { q: "Can I scuba dive at the Cham Islands?", a: "Yes, PADI divemaster-led options are available alongside standard snorkeling trips." },
+        ],
+      };
+
     default:
       return null;
   }

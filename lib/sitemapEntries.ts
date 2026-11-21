@@ -1597,6 +1597,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'hoi-an-countryside-and-bike-tours',
     'hoi-an-day-trips-guide',
     'hoi-an-with-kids',
+    'best-cham-islands-tour-hoi-an',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/hoi-an/${slug}`,
     lastModified: new Date(),
