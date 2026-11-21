@@ -678,6 +678,111 @@ export function getAbuDhabiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-desert-safari-worth-it-abu-dhabi":
+      return {
+        title: "Is the Abu Dhabi Desert Safari Worth It?",
+        description: "An honest look at the Abu Dhabi desert safari with quad biking, camel ride, and sandboarding, a genuine adventure day beyond the city's skyline.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-387603/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This desert safari combines quad biking, a camel ride, and sandboarding into one affordable half-day, a genuinely different pace from Abu Dhabi's museums and mosques, usually finishing with a desert camp dinner and entertainment.",
+            tourCard: { slug: "abu-dhabi-desert-safari-quad-biking-camel-ride-san", title: "Abu Dhabi Desert Safari: Quad Biking, Camel Ride, Sandboarding", description: "A desert safari with quad biking, camel ride, and sandboarding.", price: "From $136", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-387603/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Quad biking and dune bashing are genuinely rough activities — skip them if you're prone to motion sickness or traveling with very young children.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Abu Dhabi desert safari worth it?", a: "Yes, for a genuinely active adventure day combining quad biking, camel riding, and sandboarding beyond the city's museums and mosques." },
+        ],
+      };
+
+    case "is-qasr-al-watan-city-tour-worth-it-abu-dhabi":
+      return {
+        title: "Is the Abu Dhabi City Tour with Qasr Al Watan Worth It?",
+        description: "An honest look at the Abu Dhabi city tour including Qasr Al Watan, the UAE's opulent presidential palace open to visitors.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-61823/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Qasr Al Watan is the UAE's working presidential palace, genuinely opulent inside with gold detailing and a vast library, and pairing a visit with a broader city tour gives a fuller picture of Abu Dhabi's landmarks in one day.",
+            tourCard: { slug: "abu-dhabi-city-tour-with-qasr-al-watan", title: "Abu Dhabi City Tour with Qasr Al Watan", description: "A city tour of Abu Dhabi including the Qasr Al Watan presidential palace.", price: "From $140", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-61823/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The palace's interior is genuinely elaborate — budget real time here rather than treating it as a quick photo stop." ,
+          },
+        ],
+        faqs: [
+          { q: "Is Qasr Al Watan worth visiting?", a: "Yes, it's a genuinely opulent working presidential palace open to visitors, worth real time rather than a quick stop." },
+        ],
+      };
+
+    case "is-ferrari-world-worth-it-abu-dhabi":
+      return {
+        title: "Is Ferrari World Worth It in Abu Dhabi?",
+        description: "An honest look at Ferrari World on Yas Island, home to the world's fastest roller coaster and a genuine theme-park day for car enthusiasts.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1427221/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ferrari World is home to the Formula Rossa, the world's fastest roller coaster, and a genuine theme-park day built around Ferrari's racing heritage, distinct from Abu Dhabi's cultural and desert activities.",
+            tourCard: { slug: "abu-dhabi-ferrari-world-private-suv-tour-with-entr", title: "Abu Dhabi Ferrari World Private SUV Tour with Entry", description: "A private SUV tour to Ferrari World with entry ticket included.", price: "From $422", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1427221/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The Formula Rossa has genuinely strict height and health restrictions given its extreme speed — check these before you go if riding it is the priority.",
+          },
+        ],
+        faqs: [
+          { q: "Is Ferrari World worth it in Abu Dhabi?", a: "Yes, especially for car and thrill-ride enthusiasts, home to the world's fastest roller coaster and a genuine Ferrari-themed day out." },
+        ],
+      };
+
+    case "is-louvre-abu-dhabi-kayak-tour-worth-it":
+      return {
+        title: "Is the Louvre Abu Dhabi Kayak Tour Worth It?",
+        description: "An honest look at the guided kayak tour around the Louvre Abu Dhabi, seeing the museum's striking dome architecture from the water.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/72d3c091f2b8df9f.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Louvre Abu Dhabi's striking dome structure is genuinely best appreciated from a distance, and kayaking around it gives a completely different, more active perspective than walking through the museum's galleries alone.",
+            tourCard: { slug: "abu-dhabi-guided-kayak-tour-around-louvre", title: "Abu Dhabi Guided Kayak Tour Around Louvre", description: "A guided kayak tour around the Louvre Abu Dhabi.", price: "From $45", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/72d3c091f2b8df9f.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good active add-on to pair with an actual museum visit on the same day, rather than a replacement for going inside." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the Louvre Abu Dhabi kayak tour worth it?", a: "Yes, for a genuinely different, more active perspective on the museum's striking dome architecture, best paired with an actual museum visit." },
+        ],
+      };
+
+    case "is-yas-island-speedboat-tour-worth-it-abu-dhabi":
+      return {
+        title: "Is the Yas Island Speedboat Tour Worth It in Abu Dhabi?",
+        description: "An honest look at the Yas Island sightseeing speedboat tour, a quick way to see the island's theme parks and Yas Marina Circuit from the water.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-509135/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yas Island is home to Ferrari World, Yas Waterworld, and the Yas Marina Circuit Formula 1 track, and a quick speedboat tour gives genuinely different photo angles of the island's landmarks from the water in under 90 minutes.",
+            tourCard: { slug: "abu-dhabi-75-minute-yas-island-sightseeing-speedbo", title: "Abu Dhabi: 75-Minute Yas Island Sightseeing Speedboat", description: "A 75-minute speedboat sightseeing tour around Yas Island.", price: "From $93", duration: "1.25 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-509135/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good quick add-on activity rather than a half-day commitment — pairs well with a day otherwise spent at the island's theme parks." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the Yas Island speedboat tour worth it?", a: "Yes, for genuinely different water-level photo angles of the island's landmarks in under 90 minutes." },
+        ],
+      };
+
     default:
       return null;
   }
