@@ -818,6 +818,59 @@ export function getHanoiInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-perfume-pagoda-tour-hanoi":
+      return {
+        title: "Which Is the Best Perfume Pagoda Tour from Hanoi?",
+        description: "Compare real Perfume Pagoda day trips from Hanoi — a boat and cable car tour versus a full-day group tour with lunch.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/perfume-pagoda-boat-and-cable-car-tour-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Perfume Pagoda, a complex of Buddhist shrines built into limestone cliffs, is reached by a scenic boat ride along the Yen Stream followed by a cable car (or hike) up the mountain — a genuinely different day from Hanoi's city sights.",
+            tourCard: { slug: "perfume-pagoda-boat-and-cable-car-tour-in-hanoi", title: "Perfume Pagoda, Boat and Cable Car Tour in Hanoi", description: "A boat and cable car tour to the Perfume Pagoda.", price: "From $70", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/perfume-pagoda-boat-and-cable-car-tour-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Best for a Full Day: Group Tour with Lunch",
+            content: "This version extends the trip into a full day with lunch included, a good fit if you want a relaxed, unhurried pace rather than rushing back to Hanoi.",
+            tourCard: { slug: "full-day-perfume-pagoda-group-tour-with-lunch-in-hanoi", title: "Full-Day Perfume Pagoda Group Tour with Lunch in Hanoi", description: "A full-day Perfume Pagoda tour with lunch.", price: "From $69", duration: "12 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201502/asiabylocals/tours/full-day-perfume-pagoda-group-tour-with-lunch-in-hanoi/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The site gets especially crowded during the Perfume Pagoda Festival (roughly the first lunar month, January-March) — if you want a quieter visit, plan outside that window.",
+          },
+        ],
+        faqs: [
+          { q: "What is the Perfume Pagoda?", a: "A complex of Buddhist shrines built into limestone cliffs near Hanoi, reached by boat and cable car." },
+          { q: "When is the Perfume Pagoda busiest?", a: "During the Perfume Pagoda Festival, roughly the first lunar month (January-March)." },
+        ],
+      };
+
+    case "is-bat-trang-village-tour-worth-it-hanoi":
+      return {
+        title: "Is a Bat Trang Pottery Village Tour Worth It from Hanoi?",
+        description: "Compare a guided Bat Trang village visit with a hands-on pottery-making class, both centered on Vietnam's most famous ceramics village.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/explore-bat-trang-village-and-ceramics-factories-local-guide-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bat Trang is Vietnam's most famous pottery village, with centuries of ceramics-making tradition — this guided visit covers the village and its ceramics factories.",
+            tourCard: { slug: "explore-bat-trang-village-and-ceramics-factories-local-guide-in-hanoi", title: "Explore Bat Trang Village and Ceramics Factories / Local Guide in Hanoi", description: "A guided visit to Bat Trang village and its ceramics factories.", price: "From $65", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/explore-bat-trang-village-and-ceramics-factories-local-guide-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "For a Hands-On Experience: Pottery Ceramics Class",
+            content: "This version is a hands-on pottery-making class in the Old Quarter, good if you want to make your own piece rather than just observe the village.",
+            tourCard: { slug: "bat-trang-pottery-ceramics-class-in-hanoi-s-old-quarter", title: "Bat Trang Pottery Ceramics Class in Hanoi's Old Quarter", description: "A hands-on pottery ceramics class in Hanoi's Old Quarter.", price: "From $47", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/bat-trang-pottery-ceramics-class-in-hanoi-s-old-quarter/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If a take-home souvenir matters to you, pick the hands-on class — you typically keep what you make, after it's fired." },
+        ],
+        faqs: [
+          { q: "What is Bat Trang known for?", a: "It's Vietnam's most famous pottery village, with centuries of ceramics-making tradition." },
+          { q: "Can I make my own pottery at Bat Trang?", a: "Yes, hands-on classes let you make and take home your own piece." },
+        ],
+      };
+
     default:
       return null;
   }
