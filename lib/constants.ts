@@ -653,6 +653,7 @@ export const SHEKI_INFO_SLUGS = [
 export const ASTANA_INFO_SLUGS = [
   'best-city-tour-astana', 'is-burabay-national-park-tour-worth-it-astana',
   'astana-travel-guide-2026', 'best-time-to-visit-astana',
+  'is-karlag-museum-tour-worth-it-astana',
 ];
 
 export const BORJOMI_INFO_SLUGS = [

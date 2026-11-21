@@ -547,6 +547,24 @@ export function getKazakhstanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-karlag-museum-tour-worth-it-astana":
+            return {
+                title: "Is the Karaganda & Karlag Museum Day Tour Worth It from Astana?",
+                seoTitle: "Karlag Museum Tour Astana 2026 | Honest Review",
+                description: "An honest look at the Karaganda and Karlag Museum day tour, covering one of the Soviet Union's largest Gulag labor camp systems.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/86f1fe3fad062a0c675bef269782456f68076c4b9a2d718e7a038bbc2b60a8b9.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Karlag was one of the largest forced-labor camp systems in the Soviet Gulag network, and this museum preserves its history in sobering detail — a genuinely significant historical site, very different in tone from Astana's futuristic architecture tours.", tourCard: { slug: "from-astana-soviet-karaganda-karlag-museum-day", title: "From Astana: Soviet Karaganda & Karlag Museum Day Tour", description: "A day tour covering Karaganda and the Karlag Museum.", price: "From $311", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/86f1fe3fad062a0c675bef269782456f68076c4b9a2d718e7a038bbc2b60a8b9.jpg" } },
+                    { title: "Practical Tips", content: "This is an emotionally heavy historical site — go in with that expectation rather than treating it as standard sightseeing." }
+                ],
+                faqs: [
+                    { q: "What was Karlag?", a: "One of the largest forced-labor camp systems in the Soviet Gulag network, based near Karaganda." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What was Karlag?", "acceptedAnswer": { "@type": "Answer", "text": "One of the largest Soviet Gulag forced-labor camp systems." } }
+                ] },
+            };
+
         default:
             return null;
     }
