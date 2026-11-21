@@ -1066,6 +1066,42 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-bandar-khayran-island-hopping-worth-it-muscat":
+            return {
+                title: "Is Bandar Khayran Island Hopping Worth It in Muscat?",
+                seoTitle: "Muscat Bandar Khayran Tour 2026 | Honest Review",
+                description: "An honest look at Bandar Khayran island hopping and snorkeling near Muscat, a sheltered coastal fjord distinct from the Daymaniyat Islands' open-water snorkeling trips.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f66d07f200cf353504082d2d13ba8e020d5b37f6596fcc295eccf0fe8332469f.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Bandar Khayran is a sheltered coastal inlet close to Muscat with calmer water than the open-sea Daymaniyat Islands trips, good for snorkeling and island hopping without a long boat ride out — a genuinely different format and location from the city's other marine excursions.", tourCard: { slug: "bandar-khairan-island-hopping-snorkeling-muscat", title: "Bandar Khayran: Island Hopping & Snorkeling in Muscat", description: "An island hopping and snorkeling trip to Bandar Khayran near Muscat.", price: "From $774", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f66d07f200cf353504082d2d13ba8e020d5b37f6596fcc295eccf0fe8332469f.jpg" } },
+                    { title: "Practical Tips", content: "The calmer, sheltered water here suits less confident swimmers better than the more exposed Daymaniyat Islands trips." },
+                ],
+                faqs: [
+                    { q: "Is Bandar Khayran island hopping worth it in Muscat?", a: "Yes, for calmer, sheltered snorkeling closer to the city than the open-water Daymaniyat Islands trips." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Bandar Khayran island hopping worth it in Muscat?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for calmer, sheltered snorkeling close to the city." } },
+                ] },
+            };
+
+        case "is-amouage-grand-mosque-tour-worth-it-muscat":
+            return {
+                title: "Is the East City Tour with Grand Mosque and Amouage Worth It in Muscat?",
+                seoTitle: "Muscat Amouage Tour 2026 | Honest Review",
+                description: "An honest look at Muscat's east city tour combining the Grand Mosque with a visit to Amouage, Oman's famous luxury perfume house.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/de2e67fb1f29405989c11bf08fdfef2e3076c58bf0440faa71a50b9d551ebc89.png",
+                sections: [
+                    { title: "The Short Answer", content: "Amouage is Oman's internationally known luxury perfume house, and this tour pairs a visit there with the Grand Mosque, giving a genuinely different angle on Omani craft and luxury alongside the standard religious-architecture sightseeing.", tourCard: { slug: "4hrs-east-city-tour-with-grand-mosque-amouage", title: "4-Hour East City Tour with Grand Mosque & Amouage", description: "A city tour combining the Grand Mosque with a visit to Amouage perfume house.", price: "From $279", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/de2e67fb1f29405989c11bf08fdfef2e3076c58bf0440faa71a50b9d551ebc89.png" } },
+                    { title: "Practical Tips", content: "The Amouage factory visit often includes a tasting or sample of their signature scents, a nice tangible takeaway from the tour." },
+                ],
+                faqs: [
+                    { q: "Is the Amouage and Grand Mosque tour worth it in Muscat?", a: "Yes, for a genuinely different angle on Omani luxury craft alongside the standard Grand Mosque sightseeing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Amouage and Grand Mosque tour worth it in Muscat?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different angle on Omani luxury craft." } },
+                ] },
+            };
+
         default:
             return null;
     }
