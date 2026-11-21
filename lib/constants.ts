@@ -1101,7 +1101,9 @@ export const KRABI_INFO_SLUGS = [
   'best-tours-in-krabi',
   'should-i-book-krabi-tour-direct-or-through-app',
   // GEO single-topic page (2026-10/31)
-  'how-much-should-a-private-tour-guide-cost-in-krabi'
+  'how-much-should-a-private-tour-guide-cost-in-krabi',
+  'best-phi-phi-islands-tour-krabi', 'is-emerald-pool-hot-springs-tour-worth-it-krabi',
+  'is-ethical-elephant-sanctuary-worth-it-krabi',
 ];
 // Re-add a slug here ONLY once its page exists in lib/tokyoInfoContent.ts.
 // Registering a slug without content ships a live, indexable page that renders

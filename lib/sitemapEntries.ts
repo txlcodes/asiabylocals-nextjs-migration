@@ -1048,6 +1048,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'krabi-vs-phuket-which-to-visit',
     'best-tours-in-krabi', 'should-i-book-krabi-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-krabi',
+    'best-phi-phi-islands-tour-krabi', 'is-emerald-pool-hot-springs-tour-worth-it-krabi',
+    'is-ethical-elephant-sanctuary-worth-it-krabi',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/krabi/${slug}`,
     lastModified: new Date(),

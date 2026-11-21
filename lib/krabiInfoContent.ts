@@ -579,6 +579,63 @@ export function getKrabiInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        case "best-phi-phi-islands-tour-krabi":
+            return {
+                title: "Which Is the Best Phi Phi Islands Day Trip from Krabi?",
+                seoTitle: "Best Phi Phi Islands Tour from Krabi 2026",
+                description: "Compare real Phi Phi Islands day trips from Krabi, including Maya Bay — the beach made famous by the film The Beach.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/family-friendly-phi-phi-with-maya-bay-and-bamboo/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The Phi Phi Islands, including the famous Maya Bay, are a genuine day trip from Krabi by speedboat — a different and more iconic destination than Krabi's own 4 Islands circuit.", tourCard: { slug: "family-friendly-phi-phi-with-maya-bay-and-bamboo", title: "Family-Friendly Phi Phi with Maya Bay and Bamboo", description: "A family-friendly day trip to Phi Phi Islands including Maya Bay and Bamboo Island.", price: "From $109", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/family-friendly-phi-phi-with-maya-bay-and-bamboo/img0/1600.webp" } },
+                    { title: "Alternative: Full-Day Speedboat Route with Lunch", content: "A similarly priced full-day speedboat route with lunch included, worth comparing on exact stops and timing.", tourCard: { slug: "a-full-day-on-phi-phi-s-speedboat-route-lunch", title: "A Full Day on Phi Phi's Speedboat Route + Lunch", description: "A full-day Phi Phi Islands speedboat tour with lunch.", price: "From $109", duration: "9 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/a-full-day-on-phi-phi-s-speedboat-route-lunch/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Maya Bay has visitor-number restrictions and set opening hours to protect the reef, so stops there are typically timed rather than open-ended." }
+                ],
+                faqs: [
+                    { q: "Can Phi Phi Islands be visited as a day trip from Krabi?", a: "Yes, by speedboat, and it's a different destination from Krabi's own 4 Islands tour." },
+                    { q: "Is Maya Bay open to visitors?", a: "Yes, with visitor-number restrictions and set hours to protect the reef." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Can Phi Phi Islands be visited from Krabi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, by speedboat day trip." } }
+                ] },
+            };
+
+        case "is-emerald-pool-hot-springs-tour-worth-it-krabi":
+            return {
+                title: "Is the Emerald Pool & Hot Springs Tour Worth It in Krabi?",
+                seoTitle: "Krabi Emerald Pool Hot Springs Tour 2026 | Honest Review",
+                description: "An honest look at Krabi's Emerald Pool and hot springs waterfall day trip, a jungle-based alternative to the island-hopping circuit.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/emerald-pool-and-hot-springs-waterfall-half-day-trip-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The Emerald Pool, a striking turquoise natural pool inside Khao Pra-Bang Khram forest, paired with natural hot springs, is a genuinely different landscape from Krabi's beaches and islands — worth it for a jungle-and-water change of pace.", tourCard: { slug: "emerald-pool-and-hot-springs-waterfall-half-day-trip-in-krabi", title: "Emerald Pool and Hot Springs Waterfall Half-Day Trip in Krabi", description: "A half-day trip to the Emerald Pool and hot springs.", price: "From $60", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/emerald-pool-and-hot-springs-waterfall-half-day-trip-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring a swimsuit for both the Emerald Pool and the hot springs — this is one of the few Krabi day trips that doesn't involve a boat." }
+                ],
+                faqs: [
+                    { q: "Is the Emerald Pool worth visiting in Krabi?", a: "Yes, for a genuinely different jungle-and-water landscape from Krabi's usual island and beach day trips." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Emerald Pool worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a jungle-and-water landscape different from Krabi's islands and beaches." } }
+                ] },
+            };
+
+        case "is-ethical-elephant-sanctuary-worth-it-krabi":
+            return {
+                title: "Is the Ethical Elephant Sanctuary Experience Worth It in Krabi?",
+                seoTitle: "Krabi Elephant Sanctuary 2026 | Honest Review",
+                description: "An honest look at Krabi's ethical elephant sanctuary experience, which emphasizes observation and feeding over elephant riding.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ethical-elephant-sanctuary-experience-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This sanctuary format prioritizes elephant welfare, with feeding and observation activities rather than riding, which has become the standard responsible way to interact with elephants in Thailand.", tourCard: { slug: "ethical-elephant-sanctuary-experience-in-krabi", title: "Ethical Elephant Sanctuary Experience in Krabi", description: "An ethical elephant sanctuary experience focused on feeding and observation.", price: "From $272", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ethical-elephant-sanctuary-experience-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "If elephant welfare matters to you, confirm the sanctuary doesn't offer riding and genuinely operates on a no-riding, observation-based model." }
+                ],
+                faqs: [
+                    { q: "Is the Krabi elephant sanctuary ethical?", a: "This format emphasizes feeding and observation over riding, the standard responsible approach in Thailand today." },
+                    { q: "Can I ride the elephants at this sanctuary?", a: "No, ethical sanctuaries like this one focus on feeding and observation rather than riding." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Krabi elephant sanctuary ethical?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it emphasizes feeding and observation over riding." } }
+                ] },
+            };
+
         default:
             return null;
     }
