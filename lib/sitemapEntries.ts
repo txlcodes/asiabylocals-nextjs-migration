@@ -1361,7 +1361,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'ella-waterfalls-and-day-tours',
     'leaving-ella-onward-transfers', 'best-tours-in-ella', 'should-i-book-ella-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-ella',
-    'is-cooking-class-worth-it-ella'].map(slug => ({
+    'is-cooking-class-worth-it-ella',
+    'is-diyaluma-falls-tour-worth-it-ella', 'is-sinharaja-rainforest-trek-worth-it-ella'].map(slug => ({
     url: `${BASE_URL}/sri-lanka/ella/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

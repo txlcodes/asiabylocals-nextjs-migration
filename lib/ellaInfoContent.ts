@@ -1036,6 +1036,46 @@ export function getEllaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-diyaluma-falls-tour-worth-it-ella":
+      return {
+        title: "Is the Diyaluma Falls and Buduruwagala Tour Worth It from Ella?",
+        description: "An honest look at the Diyaluma Falls infinity pools and Buduruwagala rock temple day trip from Ella, distinct from the Nine Arch Bridge and Little Adam's Peak circuit.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788462365/asiabylocals/tours/ella-diyaluma-waterfalls-buduruwagala-temple-day-tour/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Diyaluma Falls' natural infinity pools at the top, paired with the ancient Buduruwagala rock-carved Buddha statues, is a genuinely different landscape and historical site from Ella's usual Nine Arch Bridge and Little Adam's Peak circuit.",
+            tourCard: { slug: "diyaluma-falls-infinity-pools-and-buduruwagala-rock-temple-day-trip", title: "Diyaluma Falls Infinity Pools and Buduruwagala Rock Temple Day Trip", description: "A day trip to Diyaluma Falls' infinity pools and the Buduruwagala rock temple.", price: "From $49", duration: "9 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788462365/asiabylocals/tours/ella-diyaluma-waterfalls-buduruwagala-temple-day-tour/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The infinity pool section requires a scramble on wet rock, so wear proper footwear with grip and be cautious near the edge." },
+        ],
+        faqs: [
+          { q: "Is the Diyaluma Falls tour worth it from Ella?", a: "Yes, for a genuinely different natural landscape and ancient rock temple, distinct from Ella's usual Nine Arch Bridge circuit." },
+        ],
+      };
+
+    case "is-sinharaja-rainforest-trek-worth-it-ella":
+      return {
+        title: "Is the Sinharaja Rainforest Trek Worth It from Ella?",
+        description: "An honest look at the Deniyaya Sinharaja rainforest guided trek from Ella, a UNESCO biosphere reserve distinct from the area's hill-country hiking.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1214543/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sinharaja is a UNESCO World Heritage rainforest biosphere reserve, Sri Lanka's last significant stretch of primary rainforest, a genuinely different ecosystem from Ella's open hill-country trails at Ella Rock and Little Adam's Peak.",
+            tourCard: { slug: "deniyaya-sinharaja-rainforest-private-guided-trek", title: "Deniyaya: Sinharaja Rainforest Private Guided Trek", description: "A private guided trek through the Sinharaja rainforest biosphere reserve.", price: "From $102", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1214543/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear quick-dry clothing and bring leech socks if available — rainforest conditions mean genuine humidity and the possibility of leeches on the trail." },
+        ],
+        faqs: [
+          { q: "Is the Sinharaja rainforest trek worth it from Ella?", a: "Yes, for a genuinely different rainforest ecosystem, a UNESCO biosphere reserve distinct from Ella's open hill-country trails." },
+        ],
+      };
+
     default:
       return null;
   }
