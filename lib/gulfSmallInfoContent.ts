@@ -621,6 +621,46 @@ export function getGulfSmallInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "best-private-yacht-tour-manama":
+            return {
+                title: "Is a Private Yacht or Boat Rental Worth It in Manama?",
+                seoTitle: "Manama Private Yacht Rental 2026 | Honest Review",
+                description: "Compare Manama's private boat options — a short skyline boat ride versus a longer private yacht rental with captain.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f3dce041750f1cbc4e556ababa5457e5c3a9d814dab276cc3b7c51919789aa1b.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "For a quick look at Manama's skyline from the water, a short private boat ride is enough; for a longer, more flexible outing, a private yacht rental with captain gives full control of the route and pace.", tourCard: { slug: "private-boat-ride-in-manama-the-best-of-the", title: "Private Boat Ride in Manama: the Best of the Capital's Skyline", description: "A short private boat ride showing Manama's skyline.", price: "From $501", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f3dce041750f1cbc4e556ababa5457e5c3a9d814dab276cc3b7c51919789aa1b.jpg" } },
+                    { title: "For a Longer, More Flexible Trip: Private Yacht Rental with Captain", content: "A private yacht rental gives full control over the route and pace, with a captain included — worth it if you want more than a quick skyline pass.", tourCard: { slug: "manama-private-yacht-rental-with-captain", title: "Manama: Private Yacht Rental with Captain", description: "A private yacht rental with a captain in Manama.", price: "From $1040", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/332c4e76511bd99453de291d74597cf55fc14dbbc8f88f44b393c9810c7fc4b2.jpg" } },
+                    { title: "Practical Tips", content: "Evening departures catch the Manama skyline lit up after dark, a popular reason travelers choose the private boat option over a group cruise." }
+                ],
+                faqs: [
+                    { q: "Is a private yacht rental worth it in Manama?", a: "Yes, for a longer and more flexible outing than a short skyline boat ride." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a private yacht rental worth it in Manama?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a longer and more flexible outing." } }
+                ] },
+            };
+
+        case "best-baghdad-landmark-tour-baghdad":
+            return {
+                title: "Which Baghdad Landmark Tour Should You Take First?",
+                seoTitle: "Best Baghdad Landmark Tours 2026 | Old Town, Kadhimiya, Al-Wastani Gate",
+                description: "Compare three focused Baghdad landmark tours — the Old Town walking tour, the Kadhimiya sunrise tour, and the Al-Wastani Gate private tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6ad47593484a4853e037de76123442ed91d9e1b6647c38fc6b8fce07a7412573.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Beyond a general city tour, Baghdad has a few focused single-site tours — pick based on what interests you most: historic streets, religious heritage, or Abbasid-era architecture.", tourCard: { slug: "baghdad-old-town-guided-walking-tour-with-drinks", title: "Baghdad: Old Town Guided Walking Tour with Drinks", description: "A guided walking tour through Baghdad's Old Town.", price: "From $247", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6ad47593484a4853e037de76123442ed91d9e1b6647c38fc6b8fce07a7412573.jpg" } },
+                    { title: "For Religious Heritage: Kadhimiya Sunrise Tour", content: "This early tour visits the Kadhimiya Shrine at sunrise, including airport pickup and breakfast, popular with pilgrims and early arrivals.", tourCard: { slug: "baghdad-kadhimiya-sunrise-tour-airport-pickup", title: "Baghdad: Kadhimiya Sunrise Tour & Airport Pickup & Breakfast", description: "A sunrise tour of the Kadhimiya Shrine with airport pickup.", price: "From $130", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a8d4163a81d23317a34fd0de1b5ba357eb2552955effcc6dce1b4057769db01b.jpeg" } },
+                    { title: "For Abbasid-Era History: Al-Wastani Gate Private Tour", content: "A short private tour of the Al-Wastani Gate, one of the last surviving fragments of Baghdad's medieval Abbasid-era walls.", tourCard: { slug: "baghdad-al-wastani-gate-private-guided-tour-with", title: "Baghdad: Al-Wastani Gate Private Guided Tour with Pickup", description: "A private guided tour of the Al-Wastani Gate.", price: "From $247", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/06c42881736598d73b540a680985d8aa2c959af83360e67823b47cbd931761d9.jpeg" } },
+                    { title: "Practical Tips", content: "These short, focused tours work well stacked together into one day if you have limited time in Baghdad." }
+                ],
+                faqs: [
+                    { q: "What is the Al-Wastani Gate?", a: "One of the last surviving fragments of Baghdad's medieval Abbasid-era city walls." },
+                    { q: "Can these Baghdad landmark tours be combined in one day?", a: "Yes, they are each short (1-3 hours) and can be stacked together." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the Al-Wastani Gate?", "acceptedAnswer": { "@type": "Answer", "text": "A surviving fragment of Baghdad's medieval Abbasid-era city walls." } }
+                ] },
+            };
+
         default:
             return null;
     }

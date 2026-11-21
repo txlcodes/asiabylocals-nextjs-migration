@@ -630,6 +630,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-manama', 'is-manama-safe',
     'best-boat-cruise-dinner-tour-manama', 'is-jarada-island-tour-worth-it-manama',
     'is-heritage-tour-worth-it-manama', 'is-sunset-horse-riding-worth-it-manama',
+    'best-private-yacht-tour-manama',
   ], 'bahrain', 'manama');
 
   const baghdadInfoPages = mapInfoSlugs([
@@ -638,6 +639,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'iraq-visa-guide-for-tourists',
     'is-ctesiphon-tour-worth-it-baghdad', 'best-samarra-hatra-mosul-tour-baghdad',
     'is-iraq-marshes-tour-worth-it-baghdad', 'is-ziggurat-of-ur-tour-worth-it-baghdad',
+    'best-baghdad-landmark-tour-baghdad',
   ], 'iraq', 'baghdad');
 
   const beirutInfoPages = mapInfoSlugs([
