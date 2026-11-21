@@ -506,6 +506,8 @@ export const ULAANBAATAR_INFO_SLUGS: string[] = [
   'best-2-day-terelj-horseback-tour-ulaanbaatar', 'best-gobi-desert-tour-ulaanbaatar',
   'is-hustai-national-park-tour-worth-it-ulaanbaatar', 'best-kharkhorin-tour-ulaanbaatar',
   'is-chinggis-khaan-museum-worth-it-ulaanbaatar', 'is-nomadic-cultural-show-worth-it-ulaanbaatar',
+  'is-bogd-khan-mountain-hike-worth-it-ulaanbaatar', 'is-aglag-monastery-tour-worth-it-ulaanbaatar',
+  'is-altai-horse-trek-worth-it-ulaanbaatar',
 ];
 
 // Israel launched 2026-11-19 with 110 live tours and zero authority pages.

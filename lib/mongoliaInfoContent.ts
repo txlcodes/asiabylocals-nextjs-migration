@@ -507,6 +507,62 @@ export function getMongoliaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-bogd-khan-mountain-hike-worth-it-ulaanbaatar":
+            return {
+                title: "Is the Bogd Khan Mountain Hike from Ulaanbaatar Worth It?",
+                seoTitle: "Bogd Khan Mountain Hike 2026 | Honest Review",
+                description: "An honest look at the Bogd Khan Mountain hike to Tsetsee Gun Peak, one of the world's oldest protected areas just outside Ulaanbaatar.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/90e848f8feebf04c2dea5ef2df8f4cfa1a276fe46cc440266bfe812e9ae41ae3.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Bogd Khan Mountain, protected since 1778 and among the world's oldest nature reserves, offers a genuine hiking day trip without leaving the Ulaanbaatar area — a good choice if you want nature without a multi-day commitment.", tourCard: { slug: "bogd-khan-mountain-tsetsee-gun-peak-hike", title: "Bogd Khan Mountain: Tsetsee Gun Peak Hike & Monastery Tour", description: "A hike to Tsetsee Gun Peak with a monastery visit.", price: "From $220", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/90e848f8feebf04c2dea5ef2df8f4cfa1a276fe46cc440266bfe812e9ae41ae3.jpeg" } },
+                    { title: "Practical Tips", content: "This is a full-day commitment despite being close to the city — bring proper hiking shoes and water for the Tsetsee Gun summit push." }
+                ],
+                faqs: [
+                    { q: "Is the Bogd Khan Mountain hike worth it?", a: "Yes, for a genuine hiking day trip close to Ulaanbaatar without a multi-day countryside tour." },
+                    { q: "How old is Bogd Khan Mountain's protected status?", a: "It has been protected since 1778, making it one of the world's oldest nature reserves." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Bogd Khan Mountain hike worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine hiking close to Ulaanbaatar." } }
+                ] },
+            };
+
+        case "is-aglag-monastery-tour-worth-it-ulaanbaatar":
+            return {
+                title: "Is the Aglag Buteel Temple / Creation Monastery Tour Worth It?",
+                seoTitle: "Aglag Monastery Tour Ulaanbaatar 2026 | Honest Review",
+                description: "An honest look at the Aglag Buteel Temple (Aglag Creation Monastery) day tour, a lesser-known Buddhist site near Ulaanbaatar.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/48625ed16a6760b64d74bc7aba74c12d7d91543505c512304322fe0e3704f713.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Aglag Buteel Temple is a striking, lesser-visited Buddhist monastery built into a rock outcrop — worth it specifically if you want to see Mongolian Buddhism away from Ulaanbaatar's more famous and crowded sites.", tourCard: { slug: "ulaanbaatar-aglag-buteel-temple-day-tour", title: "Ulaanbaatar: Aglag Buteel Temple Day Tour", description: "A day tour to the Aglag Buteel Temple.", price: "From $130", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/48625ed16a6760b64d74bc7aba74c12d7d91543505c512304322fe0e3704f713.jpeg" } },
+                    { title: "Practical Tips", content: "The temple's rock-outcrop setting makes for distinctive photos that look different from the more common Terelj and Gobi tour imagery." }
+                ],
+                faqs: [
+                    { q: "Is the Aglag Buteel Temple tour worth it?", a: "Yes, for a less-crowded, visually distinctive Buddhist site near Ulaanbaatar." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Aglag Buteel Temple tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a less-crowded Buddhist site near Ulaanbaatar." } }
+                ] },
+            };
+
+        case "is-altai-horse-trek-worth-it-ulaanbaatar":
+            return {
+                title: "Is the 7-Day Altai Horse Trek Worth It?",
+                seoTitle: "Altai Horse Trek Mongolia 2026 | Honest Review",
+                description: "An honest look at the 7-day Altai Horse Trek, a multi-day horseback expedition through western Mongolia's Altai Mountains.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bb72c0779a5563aef7b88a18a9c517d303ca06c92d9609069a78052bbc12d1ae.png",
+                sections: [
+                    { title: "The Short Answer", content: "This is a serious commitment, a full week on horseback through the Altai Mountains in western Mongolia, genuinely different from the more common Terelj or Gobi countryside tours near Ulaanbaatar — worth it only if you specifically want an extended horse trekking expedition.", tourCard: { slug: "altai-horse-trek-adventure-ride-across-the-roof", title: "Altai Horse Trek Adventure: Ride Across the Roof of Mongolia", description: "A 7-day horse trekking expedition through the Altai Mountains.", price: "From $2828", duration: "7 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bb72c0779a5563aef7b88a18a9c517d303ca06c92d9609069a78052bbc12d1ae.png" } },
+                    { title: "Practical Tips", content: "Basic horse riding experience is strongly recommended before committing to a week-long trek; this is not a beginner introduction to riding." }
+                ],
+                faqs: [
+                    { q: "Is the Altai Horse Trek worth it?", a: "Yes, but only for travelers specifically wanting an extended, multi-day horse trekking expedition." },
+                    { q: "Do I need riding experience for the Altai Horse Trek?", a: "Basic riding experience is strongly recommended given the trek's week-long length." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Altai Horse Trek worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travelers wanting an extended multi-day horse trek." } }
+                ] },
+            };
+
         default:
             return null;
     }
