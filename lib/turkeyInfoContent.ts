@@ -1428,6 +1428,153 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-bosphorus-cruise-worth-it-istanbul":
+      return {
+        title: "Is the Bosphorus Cruise Worth It in Istanbul?",
+        description: "An honest look at the Bosphorus small-group day, sunset, or night sightseeing cruise, a water-level view of the strait dividing Europe and Asia.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/987b9e39b1b7c11195dfa94d791c9763d8c835fae5eecf483c12918340f579ac.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Bosphorus is the strait physically dividing Istanbul's European and Asian sides, and seeing its waterfront palaces, fortresses, and bridges from the water gives a genuinely different perspective than viewing them from land, with day, sunset, and night departures all available.",
+            tourCard: { slug: "bosphorus-small-group-daysunsetnight-cruises", title: "Bosphorus Small-Group Day, Sunset, or Night Cruises", description: "A small-group Bosphorus sightseeing cruise with flexible departure times.", price: "From $16", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/987b9e39b1b7c11195dfa94d791c9763d8c835fae5eecf483c12918340f579ac.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A sunset departure gives the best lighting for photos of the skyline and waterfront palaces, while a night cruise focuses more on the illuminated bridges.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Bosphorus cruise worth it in Istanbul?", a: "Yes, for a genuinely different water-level view of the strait dividing Europe and Asia, with flexible day, sunset, or night timing." },
+        ],
+      };
+
+    case "is-hagia-sophia-topkapi-combo-worth-it-istanbul":
+      return {
+        title: "Is the Blue Mosque, Hagia Sophia and Topkapi Palace Combo Worth It?",
+        description: "An honest look at the combined Blue Mosque, Hagia Sophia, Topkapi Palace and Grand Bazaar tour, covering Istanbul's four biggest old-city landmarks in one day.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a469a79eb36740c8d3476444a4d0c12446e970ee5c0b0a2384fa602af74c6f83.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "These four landmarks sit within walking distance of each other in Istanbul's old city, so combining them into one guided day with skip-the-line access saves significant queuing time over visiting each independently, especially during peak season.",
+            tourCard: { slug: "blue-mosque-hagia-sophia-topkapi-palace-grand", title: "Blue Mosque, Hagia Sophia, Topkapi Palace & Grand Bazaar", description: "A combined tour of Istanbul's four major old-city landmarks.", price: "From $117", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a469a79eb36740c8d3476444a4d0c12446e970ee5c0b0a2384fa602af74c6f83.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly for the Blue Mosque — shoulders and knees covered, and a headscarf for women, which most tours will remind you about but it's worth preparing in advance." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the Blue Mosque, Hagia Sophia and Topkapi combo tour worth it?", a: "Yes, these landmarks sit close together, and combining them with skip-the-line access saves significant queuing time, especially in peak season." },
+        ],
+      };
+
+    case "is-basilica-cistern-worth-it-istanbul":
+      return {
+        title: "Is the Basilica Cistern Worth It in Istanbul?",
+        description: "An honest look at the Basilica Cistern skip-the-line ticket, a Byzantine-era underground water reservoir and one of Istanbul's most atmospheric sights.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/879b7fdd4c065c80985405aac421bf522cbf6b15399d34d2744482988b67fa57.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Basilica Cistern is a vast 6th-century underground Byzantine water reservoir, lit dramatically and featuring the famous Medusa-head column bases, a genuinely different kind of sight from Istanbul's mosques and palaces above ground, and quick to visit given its small footprint.",
+            tourCard: { slug: "basilica-cistern-skip-the-line-entry-ticket-and", title: "Basilica Cistern: Skip-the-Line Entry Ticket", description: "A skip-the-line entry ticket to Istanbul's Basilica Cistern.", price: "From $84", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/879b7fdd4c065c80985405aac421bf522cbf6b15399d34d2744482988b67fa57.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "It's a short visit, typically 30-45 minutes, so pair it with nearby Hagia Sophia or the Blue Mosque on the same outing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Basilica Cistern worth visiting in Istanbul?", a: "Yes, for a genuinely different atmospheric sight than the mosques and palaces above ground, and quick enough to pair with nearby landmarks." },
+        ],
+      };
+
+    case "is-princes-islands-tour-worth-it-istanbul":
+      return {
+        title: "Is the Princes' Islands Tour Worth It from Istanbul?",
+        description: "An honest look at the daily Princes' Islands tour, a car-free archipelago escape from Istanbul's city center reached by ferry.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a477a8050ab14a97.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Princes' Islands ban motor vehicles, so getting around is by foot, bicycle, or horse-drawn carriage, a genuinely slower-paced escape from Istanbul's traffic and crowds reached by a straightforward ferry ride.",
+            tourCard: { slug: "daily-princes-island-tour-from-istanbul", title: "Daily Princes' Island Tour from Istanbul", description: "A day tour to Istanbul's car-free Princes' Islands.", price: "From $40", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a477a8050ab14a97.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Renting a bicycle on the island is a good way to cover more ground than walking, since the islands ban cars entirely.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Princes' Islands tour worth it from Istanbul?", a: "Yes, for a genuinely slower-paced, car-free escape from the city's traffic and crowds." },
+        ],
+      };
+
+    case "is-whirling-dervish-ceremony-worth-it-istanbul":
+      return {
+        title: "Is the Whirling Dervish Ceremony Worth It in Istanbul?",
+        description: "An honest look at the authentic whirling dervish ceremony, a Sufi Muslim mystical ritual rather than a staged tourist performance.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7d93c4f8d54909de26ba2fc601b71d7b76266e8b25dfb3d6d01c4de600d197a1.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The whirling dervish ceremony is a genuine Sufi Muslim mystical ritual, the Sema, representing a spiritual ascent, and seeing an authentic version rather than a staged tourist recreation gives real insight into a practice most visitors only know as an image rather than a ritual with actual religious meaning.",
+            tourCard: { slug: "authentic-whirling-dervish-ceremony-a-mystical", title: "Authentic Whirling Dervish Ceremony: A Mystical Experience", description: "An authentic Sufi whirling dervish ceremony in Istanbul.", price: "From $51", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7d93c4f8d54909de26ba2fc601b71d7b76266e8b25dfb3d6d01c4de600d197a1.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Photography is often restricted or asked to be minimal during the ceremony out of respect for its religious nature — check the house rules before the show starts.",
+          },
+        ],
+        faqs: [
+          { q: "Is the whirling dervish ceremony worth it in Istanbul?", a: "Yes, for genuine insight into a Sufi Muslim spiritual ritual rather than a staged tourist performance." },
+        ],
+      };
+
+    case "is-cappadocia-tour-from-istanbul-worth-it":
+      return {
+        title: "Is the 2-Day Cappadocia Tour from Istanbul Worth It?",
+        description: "An honest look at the 2-day private Cappadocia tour by flight from Istanbul, reaching the region's famous fairy chimney rock formations and hot air balloons.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/724004cd102cb954.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cappadocia's fairy chimney rock formations and sunrise hot air balloon flights are a world away from Istanbul's mosques and bazaars, and flying rather than driving the long overland route turns it into a feasible 2-day add-on to an Istanbul trip.",
+            tourCard: { slug: "2-days-private-cappadocia-tour-from-istanbul-by", title: "2-Days Private Cappadocia Tour from Istanbul by Flight", description: "A 2-day private Cappadocia tour from Istanbul with flights.", price: "From $1148", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/724004cd102cb954.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book the hot air balloon flight for your first morning there — it's weather-dependent and can get cancelled, so an early slot gives you a backup day if needed.",
+          },
+        ],
+        faqs: [
+          { q: "Is a 2-day Cappadocia trip from Istanbul worth it?", a: "Yes, flying rather than driving turns it into a feasible add-on, giving you the fairy chimney landscapes and hot air balloons without a huge time commitment." },
+        ],
+      };
+
+    case "is-ephesus-pamukkale-day-trip-worth-it-istanbul":
+      return {
+        title: "Is the Ephesus and Pamukkale Day Trip Worth It from Istanbul?",
+        description: "An honest look at the Ephesus and Pamukkale day trip by plane from Istanbul, combining ancient Roman ruins with Turkey's famous white travertine terraces.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/82982416f8134577.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ephesus is one of the best-preserved ancient Roman cities in the Mediterranean, and Pamukkale's white travertine terraces and thermal pools are a completely different natural landscape — pairing both in one flight-based day trip covers two of Turkey's biggest non-Istanbul attractions without an overnight stay.",
+            tourCard: { slug: "ephesus-and-pamukkale-day-trip-by-plane-from", title: "Ephesus and Pamukkale Day Trip by Plane from Istanbul", description: "A day trip combining Ephesus and Pamukkale by flight from Istanbul.", price: "From $1110", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/82982416f8134577.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuinely long day given the flight and ground transfers at both ends — go in with realistic expectations about how much time you'll actually spend at each site.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ephesus and Pamukkale day trip worth it from Istanbul?", a: "Yes, for covering two of Turkey's biggest attractions outside Istanbul in a single day, though it's a genuinely long day given the flights and transfers." },
+        ],
+      };
+
     default:
       return null;
   }
