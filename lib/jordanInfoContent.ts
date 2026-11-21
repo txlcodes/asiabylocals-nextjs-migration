@@ -1218,6 +1218,63 @@ export function getJordanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-cave-of-seven-sleepers-tour-worth-it-amman":
+            return {
+                title: "Is the Cave of the Seven Sleepers Tour Worth It in Amman?",
+                seoTitle: "Cave of the Seven Sleepers Amman 2026 | Honest Review",
+                description: "An honest look at Amman's Cave of the Seven Sleepers tour, tied to a legend shared across Islamic and Christian tradition.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c4d926e27805cbff3fe9bf8da8c82bb7f49004ab4dac7acd8cac78749fa1c59f.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Cave of the Seven Sleepers (Ahl al-Kahf) is tied to a legend shared across Islamic and Christian tradition, paired here with a broader look at Amman's Islamic heritage sites — worth it for travelers interested in religious history beyond the standard citadel and Roman theater stops.", tourCard: { slug: "amman-cave-of-the-seven-sleepers-ammans-islamic", title: "Amman: Cave of the Seven Sleepers & Amman's Islamic Heritage", description: "A tour of the Cave of the Seven Sleepers and Amman's Islamic heritage sites.", price: "From $218", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c4d926e27805cbff3fe9bf8da8c82bb7f49004ab4dac7acd8cac78749fa1c59f.jpg" } },
+                    { title: "Practical Tips", content: "This tour pairs well as an alternative to the standard Citadel/Roman Theater city tour if you've already covered those sites on a previous visit." }
+                ],
+                faqs: [
+                    { q: "What is the Cave of the Seven Sleepers?", a: "A cave tied to a legend shared across Islamic and Christian tradition, located in Amman." },
+                    { q: "Is this tour worth it?", a: "Yes, for travelers interested in religious history beyond Amman's standard citadel and Roman theater stops." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the Cave of the Seven Sleepers?", "acceptedAnswer": { "@type": "Answer", "text": "A cave tied to a legend shared across Islamic and Christian tradition." } }
+                ] },
+            };
+
+        case "is-qasr-al-abd-tour-worth-it-amman":
+            return {
+                title: "Is the Qasr al-Abd Guided Tour Worth It from Amman?",
+                seoTitle: "Qasr al-Abd Tour Amman 2026 | Honest Review",
+                description: "An honest look at the Qasr al-Abd tour, a Hellenistic-era palace near Iraq al-Amir west of Amman, distinct from the main desert castles loop.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9e12c8192394409aa406bf02b93c657cae959302a8ac1fdc37acd6f8fccb9d61.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Qasr al-Abd, near Iraq al-Amir west of Amman, is a Hellenistic-era palace built from massive stone blocks — a genuinely different historical site from the eastern desert castles loop, and much closer to the city.", tourCard: { slug: "amman-qasr-al-abd-guided-tour-with-lunch-and", title: "Amman: Qasr al-Abd Guided Tour with Lunch and Sweets", description: "A guided tour of the Qasr al-Abd palace with lunch.", price: "From $390", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9e12c8192394409aa406bf02b93c657cae959302a8ac1fdc37acd6f8fccb9d61.jpg" } },
+                    { title: "Practical Tips", content: "Don't confuse this with Amman's eastern 'Desert Castles' loop (Qasr Amra, Qasr Kharana) — Qasr al-Abd is a separate Hellenistic-era site west of the city." }
+                ],
+                faqs: [
+                    { q: "What is Qasr al-Abd?", a: "A Hellenistic-era palace built from massive stone blocks, near Iraq al-Amir west of Amman." },
+                    { q: "Is Qasr al-Abd the same as the Desert Castles?", a: "No, it's a separate site west of Amman, distinct from the eastern Desert Castles loop." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Qasr al-Abd the same as the Desert Castles?", "acceptedAnswer": { "@type": "Answer", "text": "No, it's a separate Hellenistic-era site west of Amman." } }
+                ] },
+            };
+
+        case "is-dabke-dance-class-worth-it-amman":
+            return {
+                title: "Is a Dabke Dance Class Worth It in Amman?",
+                seoTitle: "Amman Dabke Dance Class 2026 | Honest Review",
+                description: "An honest look at Amman's Dabke dance class, a hands-on introduction to the traditional Levantine folk dance with live drumming.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3ec318be9833b24c25c99950eb0df8015b708bbfbc441d4cb54d999933428664.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Dabke is the traditional Levantine line dance seen at weddings and celebrations across Jordan — this class with live drumming is a genuinely different cultural activity from Amman's craft workshops, and a fun, active alternative.", tourCard: { slug: "amman-dabke-dance-class-with-live-drumming-and", title: "Amman: Dabke Dance Class with Live Drumming and Snacks", description: "A hands-on Dabke dance class with live drumming.", price: "From $172", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3ec318be9833b24c25c99950eb0df8015b708bbfbc441d4cb54d999933428664.jpg" } },
+                    { title: "Practical Tips", content: "No dance experience is needed — the live drumming and group setting make this a good option for groups or families wanting an active, social activity." }
+                ],
+                faqs: [
+                    { q: "What is Dabke?", a: "A traditional Levantine line dance performed at weddings and celebrations across Jordan." },
+                    { q: "Do I need dance experience for the Dabke class?", a: "No, it's designed for beginners in a group setting." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is Dabke?", "acceptedAnswer": { "@type": "Answer", "text": "A traditional Levantine line dance performed at weddings and celebrations." } }
+                ] },
+            };
+
         default:
             return null;
     }

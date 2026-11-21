@@ -422,6 +422,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'amman-travel-guide-2026', 'best-time-to-visit-amman',
     'amman-1-day-itinerary', 'is-amman-safe',
     'amman-food-guide', 'amman-to-petra-guide',
+    'is-cave-of-seven-sleepers-tour-worth-it-amman', 'is-qasr-al-abd-tour-worth-it-amman',
+    'is-dabke-dance-class-worth-it-amman',
   ], 'jordan', 'amman');
   const aqabaInfoPages = mapInfoSlugs([
     'best-wadi-rum-half-day-jeep-tour-aqaba', 'best-wadi-rum-full-day-jeep-tour-aqaba',
