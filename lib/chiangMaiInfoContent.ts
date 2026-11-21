@@ -702,6 +702,78 @@ export function getChiangMaiInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-doi-suthep-temple-tour-worth-it-chiang-mai":
+            return {
+                title: "Is the Doi Suthep Temple Tour Worth It in Chiang Mai?",
+                seoTitle: "Doi Suthep Temple Tour 2026 | Honest Review",
+                description: "An honest look at the Doi Suthep temple tour by red car, Chiang Mai's most significant hilltop Buddhist temple with sweeping city views.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/3-hour-doi-suthep-temple-tour-with-red-car-ride/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Doi Suthep is Chiang Mai's single most significant temple, perched on a mountainside with sweeping views over the city, and this tour's red car (songthaew) ride up the winding mountain road is the standard, straightforward way most visitors reach it.", tourCard: { slug: "3-hour-doi-suthep-temple-tour-with-red-car-ride", title: "3-Hour Doi Suthep Temple Tour with Red Car Ride", description: "A 3-hour tour to Doi Suthep temple by red car (songthaew).", price: "From $15", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/3-hour-doi-suthep-temple-tour-with-red-car-ride/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "There are 300-plus steps up to the main temple (or a funicular as an alternative) — pace yourself if stairs are a concern." }
+                ],
+                faqs: [
+                    { q: "Is Doi Suthep worth visiting in Chiang Mai?", a: "Yes, it's the city's single most significant temple, with genuinely sweeping views over Chiang Mai from its mountainside perch." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Doi Suthep temple tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's Chiang Mai's single most significant temple with sweeping city views." } }
+                ] },
+            };
+
+        case "is-doi-inthanon-national-park-worth-it-chiang-mai":
+            return {
+                title: "Is the Doi Inthanon National Park Tour Worth It?",
+                seoTitle: "Doi Inthanon National Park 2026 | Honest Review",
+                description: "An honest look at the Doi Inthanon day trip, reaching the summit of Thailand's highest mountain and its waterfalls.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/a-day-above-the-clouds-at-doi-inthanon-pickup/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Doi Inthanon is Thailand's highest mountain, genuinely cooler at the summit than Chiang Mai's lowland heat, with waterfalls and twin pagodas along the way, a full day trip covering a very different landscape from the city itself.", tourCard: { slug: "a-day-above-the-clouds-at-doi-inthanon-pickup", title: "A Day Above the Clouds at Doi Inthanon", description: "A day trip to Thailand's highest peak, Doi Inthanon National Park.", price: "From $78", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/a-day-above-the-clouds-at-doi-inthanon-pickup/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring a light jacket — the summit genuinely gets cold, a surprising contrast to Chiang Mai's lowland heat." }
+                ],
+                faqs: [
+                    { q: "Is Doi Inthanon worth visiting from Chiang Mai?", a: "Yes, for Thailand's highest peak, genuinely cooler air, and waterfalls, a very different landscape from the city itself." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Doi Inthanon worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for Thailand's highest peak with genuinely cooler air and waterfalls, a very different landscape from the city." } }
+                ] },
+            };
+
+        case "is-elephant-jungle-sanctuary-worth-it-chiang-mai":
+            return {
+                title: "Is the Elephant Jungle Sanctuary Worth It in Chiang Mai?",
+                seoTitle: "Elephant Jungle Sanctuary 2026 | Honest Review",
+                description: "An honest look at the elephant jungle sanctuary and cooking class day, an ethical, no-riding elephant encounter paired with a Thai cooking class.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/chiang-mai-elephant-jungle-sanctuary-and-mama-noi-cooking-class-by-local-operator/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This sanctuary focuses on feeding, bathing, and observing elephants rather than riding them, reflecting the broader shift toward more ethical elephant tourism in Thailand, and pairs the visit with a hands-on Thai cooking class for a fuller day.", tourCard: { slug: "chiang-mai-elephant-jungle-sanctuary-and-mama-noi-cooking-class-by-local-operator", title: "Chiang Mai Elephant Jungle Sanctuary and Cooking Class", description: "A day combining an elephant jungle sanctuary visit with a Thai cooking class.", price: "From $113", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/chiang-mai-elephant-jungle-sanctuary-and-mama-noi-cooking-class-by-local-operator/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "If elephant welfare matters to you, confirm with the operator that the visit doesn't include riding, which has become widely discouraged." }
+                ],
+                faqs: [
+                    { q: "Is the elephant jungle sanctuary ethical in Chiang Mai?", a: "This format focuses on feeding and bathing rather than riding, reflecting the shift toward more ethical elephant tourism." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the elephant jungle sanctuary worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for an ethical, no-riding elephant encounter paired with a hands-on Thai cooking class." } }
+                ] },
+            };
+
+        case "is-atv-rafting-waterfall-combo-worth-it-chiang-mai":
+            return {
+                title: "Is the ATV and White Water Rafting Combo Worth It in Chiang Mai?",
+                seoTitle: "Chiang Mai ATV Rafting Combo 2026 | Honest Review",
+                description: "An honest look at the ATV and white water rafting adventure, bundling two of Chiang Mai's most popular adrenaline activities into one day.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/atv-and-whitewater-rafting-adventure-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Rather than booking ATV riding and white water rafting as separate activities, this combo bundles both into one day, a genuinely efficient way to try two of Chiang Mai's most popular adrenaline activities without arranging separate transport and timing.", tourCard: { slug: "atv-and-whitewater-rafting-adventure-in-chiang-mai", title: "ATV and Whitewater Rafting Adventure in Chiang Mai", description: "A combo adventure day with ATV riding and white water rafting.", price: "From $294", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/atv-and-whitewater-rafting-adventure-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Expect to get genuinely muddy and wet — bring a full change of clothes for after the day." }
+                ],
+                faqs: [
+                    { q: "Is the ATV and rafting combo worth it in Chiang Mai?", a: "Yes, for efficiently combining two of the area's most popular adrenaline activities into one day without separate bookings." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the ATV and rafting combo worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for efficiently combining two popular adrenaline activities into a single day." } }
+                ] },
+            };
+
         default:
             return null;
     }

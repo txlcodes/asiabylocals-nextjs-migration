@@ -1196,6 +1196,8 @@ export const CHIANG_MAI_INFO_SLUGS = [
   'how-much-should-a-private-tour-guide-cost-in-chiang-mai',
   'best-doi-inthanon-tour-chiang-mai', 'is-white-water-rafting-worth-it-chiang-mai',
   'is-muay-thai-training-worth-it-chiang-mai', 'is-night-tuk-tuk-food-tour-worth-it-chiang-mai',
+  'is-doi-suthep-temple-tour-worth-it-chiang-mai', 'is-doi-inthanon-national-park-worth-it-chiang-mai',
+  'is-elephant-jungle-sanctuary-worth-it-chiang-mai', 'is-atv-rafting-waterfall-combo-worth-it-chiang-mai',
 ];
 export const PATTAYA_INFO_SLUGS = [
   'is-pattaya-worth-visiting', 'sanctuary-of-truth-pattaya',
