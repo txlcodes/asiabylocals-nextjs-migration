@@ -479,6 +479,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'luang-prabang-1-day-itinerary', 'laos-visa-guide-for-tourists',
     'luang-prabang-food-guide', 'is-luang-prabang-safe',
     'luang-prabang-alms-giving-etiquette-guide',
+    'is-monk-talk-meditation-tour-worth-it-luang-prabang', 'is-vintage-electric-car-ride-worth-it-luang-prabang',
+    'is-natural-soap-making-workshop-worth-it-luang-prabang', 'is-krathong-making-sunset-cruise-worth-it-luang-prabang',
   ], 'laos', 'luang-prabang');
   const riyadhInfoPages = mapInfoSlugs([
     'best-edge-of-the-world-tour-riyadh', 'best-desert-safari-tour-riyadh',

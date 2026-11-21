@@ -1208,6 +1208,80 @@ export function getLaosInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-monk-talk-meditation-tour-worth-it-luang-prabang":
+            return {
+                title: "Is the Monk Talk & Meditation Tour Worth It in Luang Prabang?",
+                seoTitle: "Luang Prabang Monk Talk Meditation 2026 | Honest Review",
+                description: "An honest look at Luang Prabang's guided monk talk and meditation tour, a deeper cultural experience than watching the dawn alms-giving ceremony.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7b71182d79ba3818aa97027d58c8a7e04d118fea1baefabb891877173734ad48.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "While the dawn alms-giving ceremony is about observing from the street, this tour lets you actually sit down and talk with monks and try guided meditation — a more interactive way to engage with Luang Prabang's Buddhist culture.", tourCard: { slug: "luang-prabang-guided-monk-talk-and-meditation-tour", title: "Luang Prabang: Guided Monk Talk and Meditation Tour", description: "A guided monk talk and meditation session.", price: "From $116", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7b71182d79ba3818aa97027d58c8a7e04d118fea1baefabb891877173734ad48.jpeg" } },
+                    { title: "Practical Tips", content: "Modest dress is expected when visiting monks, as with any temple visit — covered shoulders and knees." }
+                ],
+                faqs: [
+                    { q: "Is the monk talk and meditation tour worth it?", a: "Yes, for a more interactive cultural experience than simply observing the alms-giving ceremony." },
+                    { q: "What should I wear for a monk talk tour?", a: "Modest dress with covered shoulders and knees, as for any temple visit." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the monk talk tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a more interactive cultural experience than observing alms-giving." } }
+                ] },
+            };
+
+        case "is-vintage-electric-car-ride-worth-it-luang-prabang":
+            return {
+                title: "Is the Vintage Electric Car Ride Worth It in Luang Prabang?",
+                seoTitle: "Luang Prabang Vintage Electric Car Ride 2026 | Honest Review",
+                description: "An honest look at Luang Prabang's short vintage electric car ride through the old town.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7836440c230fc12b59c08efadbb775b950c4797d4ec4435971166d6df6c47ee5.png",
+                sections: [
+                    { title: "The Short Answer", content: "This quick, low-cost ride through the old town in a vintage-style electric car is a relaxed, novel way to see the UNESCO old town without walking in the heat.", tourCard: { slug: "luang-prabang-30-minute-vintage-electric-car-ride", title: "Luang Prabang: 30-Minute Vintage Electric Car Ride", description: "A 30-minute vintage electric car ride through the old town.", price: "From $12", duration: "20 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7836440c230fc12b59c08efadbb775b950c4797d4ec4435971166d6df6c47ee5.png" } },
+                    { title: "Practical Tips", content: "A good option in the midday heat as a break from walking, at a low enough price to add on without much planning." }
+                ],
+                faqs: [
+                    { q: "Is the vintage electric car ride worth it?", a: "Yes, a low-cost, relaxed way to see the old town, especially in midday heat." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the electric car ride worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a low-cost way to see the old town without walking in the heat." } }
+                ] },
+            };
+
+        case "is-natural-soap-making-workshop-worth-it-luang-prabang":
+            return {
+                title: "Is the Natural Soap-Making Workshop Worth It in Luang Prabang?",
+                seoTitle: "Luang Prabang Soap Making Workshop 2026 | Honest Review",
+                description: "An honest look at Luang Prabang's natural soap-making workshop using local botanicals, distinct from the city's weaving craft workshop.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/67c320852276932c9a7bc5a1c16d44da925798d5b3a3a1cf8b84bd543471165a.png",
+                sections: [
+                    { title: "The Short Answer", content: "This hands-on workshop uses local botanicals to make natural soap, a different craft from the city's weaving workshop and a good gift-making activity for travelers who enjoy a tangible souvenir.", tourCard: { slug: "luang-prabang-natural-soap-making-with-local", title: "Luang Prabang: Natural Soap-Making with Local Botanicals", description: "A natural soap-making workshop using local botanicals.", price: "From $37", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/67c320852276932c9a7bc5a1c16d44da925798d5b3a3a1cf8b84bd543471165a.png" } },
+                    { title: "Practical Tips", content: "You take your finished soap home, making this a good activity if you want a handmade souvenir rather than a shop-bought one." }
+                ],
+                faqs: [
+                    { q: "Is the soap-making workshop worth it?", a: "Yes, for a hands-on craft experience distinct from the weaving workshop, with a take-home souvenir." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the soap-making workshop worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a hands-on craft experience with a take-home souvenir." } }
+                ] },
+            };
+
+        case "is-krathong-making-sunset-cruise-worth-it-luang-prabang":
+            return {
+                title: "Is the Sunset Cruise & Krathong Making Workshop Worth It?",
+                seoTitle: "Luang Prabang Krathong Making Cruise 2026 | Honest Review",
+                description: "An honest look at Luang Prabang's sunset Mekong cruise combined with a krathong-making workshop, the traditional floating lantern craft.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cd70efa209adf1039e05044ff7268ab3d11d1244daef37f213ebdbcb5849496e.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This combines a standard Mekong sunset cruise with making your own krathong (a traditional floating banana-leaf lantern) to release on the river — a meaningful add-on over a plain sunset cruise.", tourCard: { slug: "luangprabang-sunset-cruise-krathong-making", title: "Luangprabang: Sunset Cruise & Krathong Making Workshop", description: "A sunset Mekong cruise with a krathong-making workshop.", price: "From $390", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cd70efa209adf1039e05044ff7268ab3d11d1244daef37f213ebdbcb5849496e.jpg" } },
+                    { title: "Practical Tips", content: "Releasing your own handmade krathong on the Mekong at sunset is the highlight here — worth it if you want more than a standard river cruise." }
+                ],
+                faqs: [
+                    { q: "What is a krathong?", a: "A traditional floating lantern, usually made from banana leaves, released on the water as an offering." },
+                    { q: "Is the krathong-making cruise worth it?", a: "Yes, for a more meaningful experience than a standard sunset cruise alone." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is a krathong?", "acceptedAnswer": { "@type": "Answer", "text": "A traditional floating lantern, usually made from banana leaves." } }
+                ] },
+            };
+
         default:
             return null;
     }

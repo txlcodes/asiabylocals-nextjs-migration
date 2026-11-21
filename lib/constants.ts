@@ -405,6 +405,8 @@ export const LUANG_PRABANG_INFO_SLUGS: string[] = [
   'luang-prabang-1-day-itinerary', 'laos-visa-guide-for-tourists',
   'luang-prabang-food-guide', 'is-luang-prabang-safe',
   'luang-prabang-alms-giving-etiquette-guide',
+  'is-monk-talk-meditation-tour-worth-it-luang-prabang', 'is-vintage-electric-car-ride-worth-it-luang-prabang',
+  'is-natural-soap-making-workshop-worth-it-luang-prabang', 'is-krathong-making-sunset-cruise-worth-it-luang-prabang',
 ];
 
 // Saudi Arabia launched 2026-11-19 with 289 live tours and zero authority pages.
