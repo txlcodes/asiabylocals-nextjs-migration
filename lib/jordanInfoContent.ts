@@ -1311,6 +1311,24 @@ export function getJordanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-shobak-castle-tour-worth-it-petra":
+            return {
+                title: "Is the Shobak Castle Tour Worth It from Petra?",
+                seoTitle: "Shobak Castle Tour from Petra 2026 | Honest Review",
+                description: "An honest look at the Shobak Castle day tour with sunset views and a guest house dinner, a Crusader-era fortress distinct from Petra itself.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e8235b69557e0662b72ae9e24cef675e6f5d282319667a5f33b5f30da6e7cbe0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Shobak Castle, a Crusader-era fortress predating even Kerak Castle, sits on a hilltop with sweeping views — a genuinely different historical layer from Petra's Nabataean ruins, capped off here with sunset views and a guest house dinner.", tourCard: { slug: "from-petra-shobak-castle-tour-sunset-guest-house", title: "From Petra: Shobak Castle Tour + Sunset + Guest House Dinner", description: "A Shobak Castle tour with sunset views and a guest house dinner.", price: "From $571", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e8235b69557e0662b72ae9e24cef675e6f5d282319667a5f33b5f30da6e7cbe0.jpg" } },
+                    { title: "Practical Tips", content: "A good add-on for travelers who want to see Jordan's Crusader-era castle history, which Petra's Nabataean ruins don't cover at all." }
+                ],
+                faqs: [
+                    { q: "What is Shobak Castle?", a: "A Crusader-era fortress near Petra, predating Kerak Castle, offering a different historical layer from Petra's Nabataean ruins." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is Shobak Castle?", "acceptedAnswer": { "@type": "Answer", "text": "A Crusader-era fortress near Petra, offering Jordan's Crusader history." } }
+                ] },
+            };
+
         default:
             return null;
     }
