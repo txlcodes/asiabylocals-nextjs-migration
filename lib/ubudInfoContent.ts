@@ -2025,6 +2025,27 @@ export function getUbudInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-cultural-dance-performance-worth-it-ubud":
+      return {
+        title: "Is the ARMA Cultural Dance Performance Worth It in Ubud?",
+        description: "An honest look at the ARMA cultural dance performance tickets in Ubud, a dedicated evening cultural show distinct from the city's workshops and nature activities.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/arma-cultural-dance-performance-tickets-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This short traditional Balinese dance performance at ARMA (Agung Rai Museum of Art) is an inexpensive, dedicated way to see real Balinese dance and music, a good evening add-on after a day of waterfalls or workshops rather than a full day's activity.",
+            tourCard: { slug: "arma-cultural-dance-performance-tickets-in-ubud", title: "ARMA Cultural Dance Performance Tickets in Ubud", description: "Tickets to a traditional Balinese cultural dance performance at ARMA.", price: "From $11", duration: "45 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/arma-cultural-dance-performance-tickets-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Shows typically run in the evening, so this pairs well as a cultural nightcap after a full day of sightseeing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the ARMA cultural dance performance worth it in Ubud?", a: "Yes, as an inexpensive, authentic evening cultural activity, best paired with a full day of other sightseeing." },
+        ],
+      };
+
     default:
       return null;
   }

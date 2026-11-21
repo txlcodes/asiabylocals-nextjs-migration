@@ -1713,6 +1713,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-silver-jewelry-class-worth-it-ubud', 'is-coffee-plantation-tour-worth-it-ubud',
     'is-hidden-canyon-tour-worth-it-ubud', 'is-kintamani-downhill-cycling-worth-it-ubud',
     'is-beach-horse-riding-worth-it-ubud',
+    'is-cultural-dance-performance-worth-it-ubud',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/ubud/${slug}`,
     lastModified: new Date(),

@@ -1955,6 +1955,7 @@ export const UBUD_INFO_SLUGS = [
   'is-silver-jewelry-class-worth-it-ubud', 'is-coffee-plantation-tour-worth-it-ubud',
   'is-hidden-canyon-tour-worth-it-ubud', 'is-kintamani-downhill-cycling-worth-it-ubud',
   'is-beach-horse-riding-worth-it-ubud',
+  'is-cultural-dance-performance-worth-it-ubud',
 ];
 
 export const CANGGU_INFO_SLUGS = [
