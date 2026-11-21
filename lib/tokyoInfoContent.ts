@@ -2654,6 +2654,26 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "is-cat-cafe-tour-worth-it-tokyo":
+      return {
+        title: "Is the Gotokuji Cat Temple & Cat Cafe Tour Worth It in Tokyo?",
+        description: "An honest look at Tokyo's Gotokuji Lucky Cat Temple, Shinjuku's 3D cat billboard, and Japan's largest cat cafe, all in one tour.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788726966/asiabylocals/tours/tokyo-gotokuji-cat-temple-and-cat-cafe-tour/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Gotokuji Temple is considered the origin of the lucky 'maneki-neko' beckoning cat figure seen throughout Japan, paired here with Shinjuku's famous 3D cat billboard and a visit to Japan's largest cat cafe — a themed day distinct from Akihabara's maid cafe scene.",
+            tourCard: { slug: "tokyo-gotokuji-cat-temple-and-cat-cafe-tour", title: "Gotokuji Lucky Cat Temple, the Shinjuku 3D Cat and Japan's Largest Cat Cafe", description: "A tour of Gotokuji Cat Temple, the Shinjuku 3D cat billboard, and Japan's largest cat cafe.", price: "From $78", duration: "2.5 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788726966/asiabylocals/tours/tokyo-gotokuji-cat-temple-and-cat-cafe-tour/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Gotokuji's grounds display hundreds of small maneki-neko figures left by visitors — worth slowing down to look closely rather than just photographing from a distance." },
+        ],
+        faqs: [
+          { q: "What is the maneki-neko?", a: "The beckoning cat figure believed to bring luck, said to originate at Gotokuji Temple in Tokyo." },
+        ],
+      };
+
     default:
             return null;
     }

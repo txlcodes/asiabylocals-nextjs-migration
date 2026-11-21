@@ -1162,6 +1162,7 @@ export const TOKYO_INFO_SLUGS = [
   'how-much-should-a-private-tour-guide-cost-in-tokyo',
   // Tour-selling pages (2026-11-02)
   'best-asakusa-sensoji-tour', 'best-kimono-rental-tokyo',
+  'is-cat-cafe-tour-worth-it-tokyo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/kyotoInfoContent.ts.
