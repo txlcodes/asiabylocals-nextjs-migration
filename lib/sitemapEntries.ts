@@ -982,6 +982,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-genting-highlands-tour-kuala-lumpur', 'is-kuala-selangor-firefly-tour-worth-it-kuala-lumpur',
     'is-kl-bird-park-aquaria-tour-worth-it-kuala-lumpur',
     'best-cameron-highlands-tour-kuala-lumpur', 'is-escape-room-worth-it-kuala-lumpur',
+    'is-batu-caves-tour-worth-it-kuala-lumpur', 'is-genting-highlands-day-trip-worth-it-kuala-lumpur',
+    'is-malacca-day-trip-worth-it-kuala-lumpur', 'is-cameron-highlands-day-tour-worth-it-kuala-lumpur',
+    'is-taman-negara-day-trip-worth-it-kuala-lumpur', 'is-white-water-rafting-worth-it-kuala-lumpur',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/kuala-lumpur/${slug}`,
     lastModified: new Date(),

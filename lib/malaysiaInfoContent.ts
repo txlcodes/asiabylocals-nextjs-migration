@@ -3517,6 +3517,114 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-batu-caves-tour-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Batu Caves Tour Worth It from Kuala Lumpur?",
+                seoTitle: "Batu Caves Tour 2026 | Honest Review",
+                description: "An honest look at the Batu Caves half-day tour, KL's single most-visited landmark, home to a giant golden statue and a Hindu shrine inside a limestone cave.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1466437/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Batu Caves is KL's single most-visited landmark outside the city center, a limestone cave temple topped by a 43-metre golden statue of Murugan, reachable by a quick half-day trip that makes a good first-day pairing with the Petronas Towers.", tourCard: { slug: "batu-caves-highlights-half-day-tour", title: "Batu Caves: Highlights Half-Day Tour", description: "A half-day guided tour of the Batu Caves temple complex.", price: "From $69", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1466437/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "There are 272 steps up to the main cave temple, and monkeys around the stairs will grab food or dangling bags — keep snacks out of sight." }
+                ],
+                faqs: [
+                    { q: "Is Batu Caves worth visiting from KL?", a: "Yes, it's the city's single most-visited landmark outside downtown, and a quick half-day trip pairs easily with a Petronas Towers visit on the same day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Batu Caves worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's Kuala Lumpur's single most-visited landmark outside downtown." } }
+                ] },
+            };
+
+        case "is-genting-highlands-day-trip-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Genting Highlands Day Trip Worth It from Kuala Lumpur?",
+                seoTitle: "Genting Highlands Day Trip 2026 | Honest Review",
+                description: "An honest look at the Genting Highlands day trip, a cool-climate hilltop resort with a cable car ride and casino, a genuine change of pace from KL's tropical heat.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1360188/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Genting Highlands sits roughly 1,800 metres up, giving genuinely cooler air than KL's tropical heat, reached by a scenic cable car with a resort, casino, and theme park attractions at the top, a different kind of day trip from the city's temple and tower sightseeing.", tourCard: { slug: "from-kuala-lumpur-genting-highlands-day-trip-with", title: "From Kuala Lumpur: Genting Highlands Day Trip", description: "A day trip to the Genting Highlands hilltop resort with cable car ride.", price: "From $106", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1360188/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring a light jacket — the altitude makes it noticeably cooler than Kuala Lumpur, a welcome change but easy to underestimate." }
+                ],
+                faqs: [
+                    { q: "Is Genting Highlands worth a day trip from KL?", a: "Yes, for genuinely cooler mountain air and a cable car ride, a different pace from the city's heat and sightseeing circuit." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Genting Highlands day trip worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuinely cooler mountain air and a scenic cable car ride, a change of pace from KL's heat." } }
+                ] },
+            };
+
+        case "is-malacca-day-trip-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Malacca Day Trip Worth It from Kuala Lumpur?",
+                seoTitle: "Malacca Day Trip from KL 2026 | Honest Review",
+                description: "An honest look at the historical Malacca day trip from KL, reaching the UNESCO-listed former Portuguese, Dutch, and British trading port.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-236807/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Malacca is a UNESCO World Heritage city that changed hands between Portuguese, Dutch, and British colonial rule, leaving a genuinely layered architectural history that KL itself, a newer city, doesn't have — a worthwhile day trip for travellers with historical interest.", tourCard: { slug: "from-kuala-lumpur-historical-malacca-tour-with", title: "From Kuala Lumpur: Historical Malacca Tour", description: "A historical day tour of UNESCO-listed Malacca from Kuala Lumpur.", price: "From $64", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-236807/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "It's about a 2-hour drive each way, so this is a full day commitment — don't try to combine it with another major stop the same day." }
+                ],
+                faqs: [
+                    { q: "Is Malacca worth a day trip from KL?", a: "Yes, for a UNESCO-listed colonial history that KL, as a newer city, doesn't have, though it's a full-day commitment given the drive." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Malacca day trip worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a UNESCO-listed colonial history distinct from KL's own newer cityscape." } }
+                ] },
+            };
+
+        case "is-cameron-highlands-day-tour-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Cameron Highlands Day Tour Worth It from Kuala Lumpur?",
+                seoTitle: "Cameron Highlands Day Tour from KL 2026 | Honest Review",
+                description: "An honest look at the Cameron Highlands day tour from KL, reaching Malaysia's best-known tea plantation region in a long but manageable single day.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-236822/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Cameron Highlands is Malaysia's best-known tea plantation region, and while it's a genuinely long day from KL given the drive, this tour covers the tea estates and cooler hill-station scenery in a single trip for travellers without time for an overnight stay.", tourCard: { slug: "from-kuala-lumpur-cameron-highlands-day-tour-with", title: "From Kuala Lumpur: Cameron Highlands Day Tour", description: "A day tour to the Cameron Highlands tea plantations from Kuala Lumpur.", price: "From $173", duration: "12 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-236822/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "At 12 hours with significant drive time, this is a long day — an overnight stay gives a much more relaxed pace if your schedule allows it." }
+                ],
+                faqs: [
+                    { q: "Is a Cameron Highlands day trip from KL too rushed?", a: "It's a long day given the drive, but workable for travellers without time for an overnight stay — an overnight trip is more relaxed if you have the time." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Cameron Highlands day tour from KL worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travellers without time for an overnight stay, though it's a genuinely long day given the drive." } }
+                ] },
+            };
+
+        case "is-taman-negara-day-trip-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Taman Negara Day Trip Worth It from Kuala Lumpur?",
+                seoTitle: "Taman Negara Day Trip 2026 | Honest Review",
+                description: "An honest look at the Taman Negara National Park day trip, reaching one of the world's oldest rainforests for a canopy walkway and jungle river boat ride.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-75146/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Taman Negara is one of the world's oldest rainforests, and this 12-hour day trip covers a canopy walkway and a jungle river boat ride, giving a genuine rainforest experience in a single long day rather than the multi-day stay serious jungle trekkers would choose instead.", tourCard: { slug: "from-kuala-lumpur-taman-negara-national-park-full", title: "From Kuala Lumpur: Taman Negara National Park Full Day", description: "A full-day trip to Taman Negara National Park with a canopy walkway and river boat ride.", price: "From $485", duration: "12 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-75146/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A single day only scratches the surface of the park — consider an overnight stay instead if serious jungle trekking is the priority." }
+                ],
+                faqs: [
+                    { q: "Is a Taman Negara day trip worth it from KL?", a: "Yes, for a genuine rainforest experience including the canopy walkway, though serious trekkers should consider staying overnight instead." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Taman Negara day trip worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine rainforest experience with a canopy walkway and river boat ride in a single day." } }
+                ] },
+            };
+
+        case "is-white-water-rafting-worth-it-kuala-lumpur":
+            return {
+                title: "Is White Water Rafting Worth It near Kuala Lumpur?",
+                seoTitle: "KL White Water Rafting 2026 | Honest Review",
+                description: "An honest look at the Grade 4 white water rafting trip from KL, a genuine adventure-sports day distinct from the city's temple and tower sightseeing.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-682626/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This Grade 4 rapids trip is a genuine whitewater adventure, significantly more intense than a gentle float, aimed at travellers specifically seeking an adrenaline activity rather than KL's usual sightseeing pace.", tourCard: { slug: "from-kuala-lumpur-grade-4-white-water-rafting", title: "From Kuala Lumpur: Grade 4 White Water Rafting", description: "A Grade 4 white water rafting trip from Kuala Lumpur.", price: "From $226", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-682626/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Grade 4 rapids are genuinely intense — this isn't a casual float, so come prepared to get properly splashed and bounced around." }
+                ],
+                faqs: [
+                    { q: "Is white water rafting near KL worth it?", a: "Yes, for travellers specifically seeking a genuine adrenaline activity — Grade 4 rapids are significantly more intense than a casual float." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is white water rafting near KL worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travellers wanting a genuine Grade 4 adrenaline activity distinct from the city's sightseeing." } }
+                ] },
+            };
+
         case "is-walking-food-tour-worth-it-kota-kinabalu":
             return {
                 title: "Is the Walking Food Tour Worth It in Kota Kinabalu?",
