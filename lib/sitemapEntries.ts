@@ -1402,6 +1402,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'colombo-food-guide', 'day-trips-from-colombo', 'colombo-2-day-itinerary',
     'pettah-market-guide', 'galle-face-green-guide', 'best-tours-in-colombo', 'should-i-book-colombo-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-colombo',
+    'best-tuk-tuk-city-tour-colombo', 'is-gangaramaya-temple-tour-worth-it-colombo',
+    'is-yala-safari-worth-it-colombo', 'is-pinnawala-kandy-tour-worth-it-colombo',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/colombo/${slug}`,
     lastModified: new Date(),

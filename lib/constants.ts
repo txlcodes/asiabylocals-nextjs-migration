@@ -1317,7 +1317,9 @@ export const COLOMBO_INFO_SLUGS = [
   'best-tours-in-colombo',
   'should-i-book-colombo-tour-direct-or-through-app',
   // GEO single-topic page (2026-10/31)
-  'how-much-should-a-private-tour-guide-cost-in-colombo'
+  'how-much-should-a-private-tour-guide-cost-in-colombo',
+  'best-tuk-tuk-city-tour-colombo', 'is-gangaramaya-temple-tour-worth-it-colombo',
+  'is-yala-safari-worth-it-colombo', 'is-pinnawala-kandy-tour-worth-it-colombo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/hakoneInfoContent.ts.

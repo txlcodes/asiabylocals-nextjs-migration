@@ -1085,6 +1085,86 @@ export function getColomboInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-tuk-tuk-city-tour-colombo":
+      return {
+        title: "Which Is the Best Tuk-Tuk City Tour in Colombo?",
+        description: "Compare real tuk-tuk city tours in Colombo, a signature way to see the city beyond a standard car tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-605178/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Touring Colombo by tuk-tuk is a genuinely different experience from a private car — closer to street level, more maneuverable through busy areas, and arguably more fun, with an expert local guide to navigate and explain the sights.",
+            tourCard: { slug: "colombo-city-tour-by-tuk-tuk-with-expert-local", title: "Colombo: City Tour by Tuk-Tuk with Expert Local Guide", description: "A tuk-tuk city tour with an expert local guide.", price: "From $50", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-605178/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Tuk-tuk tours typically price per tuk-tuk (seating 2-3), so cost roughly doubles if you need a second vehicle for a larger group, unlike a private car's flat per-trip pricing." },
+        ],
+        faqs: [
+          { q: "Is a tuk-tuk tour better than a car tour in Colombo?", a: "It's a different, more immersive experience — closer to street level and more maneuverable, though a car suits larger groups better on pricing." },
+        ],
+      };
+
+    case "is-gangaramaya-temple-tour-worth-it-colombo":
+      return {
+        title: "Is the Gangaramaya Temple and City Highlights Tour Worth It?",
+        description: "An honest look at Colombo's Gangaramaya Temple tour, one of the city's most important Buddhist temples, paired with other city highlights.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1247368/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Gangaramaya Temple, known for its eclectic mix of architectural styles and museum-like collection of Buddhist artifacts, is one of Colombo's most important temples — this tour pairs it with other city highlights for a full day.",
+            tourCard: { slug: "colombo-gangaramaya-temple-and-city-highlights", title: "Colombo: Gangaramaya Temple and City Highlights Tour", description: "A tour of Gangaramaya Temple and Colombo's city highlights.", price: "From $55", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1247368/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly (covered shoulders and knees) as with any active Buddhist temple visit." },
+        ],
+        faqs: [
+          { q: "What makes Gangaramaya Temple notable?", a: "Its eclectic mix of architectural styles and museum-like collection of Buddhist artifacts." },
+        ],
+      };
+
+    case "is-yala-safari-worth-it-colombo":
+      return {
+        title: "Is a Yala Leopard Safari Worth It from Colombo?",
+        description: "An honest look at the all-inclusive Yala leopard safari day trip departing from Colombo, Ella, or Galle.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1361527/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yala National Park has one of the highest leopard densities anywhere in the world — this all-inclusive option offers flexible pickup from Colombo, Ella, or Galle, useful if your itinerary spans multiple cities.",
+            tourCard: { slug: "all-inclusive-yala-leopard-safari-from-colombo", title: "All Inclusive Yala Leopard Safari from Colombo, Ella & Galle", description: "An all-inclusive Yala leopard safari with flexible pickup locations.", price: "From $674", duration: "12 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1361527/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a very long day trip given Yala's distance from Colombo specifically — consider whether an overnight stay near the park fits your itinerary better." },
+        ],
+        faqs: [
+          { q: "Is a Yala safari from Colombo a long day?", a: "Yes, it's a 12-hour day given the distance — an overnight stay near the park may suit some itineraries better." },
+        ],
+      };
+
+    case "is-pinnawala-kandy-tour-worth-it-colombo":
+      return {
+        title: "Is the Pinnawala & Kandy Private Cultural Day Tour Worth It from Colombo?",
+        description: "An honest look at the Pinnawala Elephant Orphanage and Kandy cultural day tour from Colombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1193138/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This combines the Pinnawala Elephant Orphanage, one of Sri Lanka's best-known elephant care facilities, with Kandy's cultural sights in one private day trip from Colombo.",
+            tourCard: { slug: "colombo-to-pinnawala-kandy-private-cultural-day", title: "Colombo to Pinnawala & Kandy – Private Cultural Day Tour", description: "A private cultural day tour to Pinnawala and Kandy.", price: "From $93", duration: "12 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1193138/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a long day trip (12 hours) combining two distinct destinations — if you have more time, consider spreading it across an overnight Kandy stay instead." },
+        ],
+        faqs: [
+          { q: "What is Pinnawala known for?", a: "It's one of Sri Lanka's best-known elephant care and orphanage facilities." },
+        ],
+      };
+
     default:
       return null;
   }
