@@ -1277,6 +1277,26 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-dashbashi-canyon-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Dashbashi Canyon Day Trip Worth It from Tbilisi?",
+                seoTitle: "Dashbashi Canyon Tbilisi 2026 | Honest Review",
+                description: "An honest look at Dashbashi Canyon and its glass/diamond bridge, a dramatic gorge day trip from Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d11c661ba105f67739dc3a586def180d16dab12457af46780da8e9dab72929a6.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Dashbashi Canyon's highlight is a glass-floored 'diamond bridge' suspended over a dramatic gorge — a genuinely different landscape from Tbilisi's usual Kazbegi/Gudauri mountain day trips, in a different direction entirely.", tourCard: { slug: "bridge-dashbashi-full-day-tour", title: "From Tbilisi: Dashbashi Canyon and Diamond Bridge Day Trip", description: "A day trip to Dashbashi Canyon and the diamond bridge.", price: "From $73", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d11c661ba105f67739dc3a586def180d16dab12457af46780da8e9dab72929a6.jpg" } },
+                    { title: "Alternative: Private Tour", content: "A private version of the same canyon and glass bridge visit, worth it if you want your own schedule and vehicle.", tourCard: { slug: "dashbashi-canyon-glass-bridge-private-tour-from", title: "Dashbashi Canyon & Glass Bridge Private Tour from Tbilisi", description: "A private tour of Dashbashi Canyon and the glass bridge.", price: "From $245", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7f70607602a25a7504125ee0ec609e8a9774de69516fd83fbe249461f9af60d2.jpeg" } },
+                    { title: "Practical Tips", content: "The glass bridge is a popular photo spot — go early in the day for better light and fewer other visitors waiting for photos." }
+                ],
+                faqs: [
+                    { q: "What is Dashbashi Canyon known for?", a: "A dramatic gorge with a glass-floored 'diamond bridge' suspended above it." },
+                    { q: "Is Dashbashi Canyon different from Kazbegi?", a: "Yes, it's in a different direction from Tbilisi and offers a canyon landscape rather than high mountains." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is Dashbashi Canyon known for?", "acceptedAnswer": { "@type": "Answer", "text": "A dramatic gorge with a glass-floored diamond bridge." } }
+                ] },
+            };
+
         default:
             return null;
     }

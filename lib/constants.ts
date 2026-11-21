@@ -295,6 +295,7 @@ export const TBILISI_INFO_SLUGS = [
   'tbilisi-1-day-itinerary', 'georgia-visa-guide-for-tourists',
   'best-gudauri-ski-tour-tbilisi', 'best-paragliding-tour-tbilisi',
   'is-birtvisi-canyon-tour-worth-it-tbilisi', 'is-fishing-tour-worth-it-tbilisi',
+  'is-dashbashi-canyon-tour-worth-it-tbilisi',
 ];
 
 // Oman launched 2026-11-16 with 709 live tours and zero authority pages.
