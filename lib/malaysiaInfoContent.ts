@@ -3517,6 +3517,42 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-walking-food-tour-worth-it-kota-kinabalu":
+            return {
+                title: "Is the Walking Food Tour Worth It in Kota Kinabalu?",
+                seoTitle: "Kota Kinabalu Walking Food Tour 2026 | Honest Review",
+                description: "An honest look at Kota Kinabalu's two-hour walking food tour, a flavor-first way to explore the city distinct from the usual island-hopping and nature day trips.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b973fff96d6d39f441d5c6c743fdaef68a8e425b19533276c8e7bc18e1e1f520.png",
+                sections: [
+                    { title: "The Short Answer", content: "This guided walking tour threads through local food spots and markets, a flavor-first way to see the city rather than the usual island-hopping and firefly river cruises most visitors do.", tourCard: { slug: "2-hour-walking-food-tour-in-kota-kinabalu", title: "2-Hour Walking Food Tour in Kota Kinabalu", description: "A two-hour guided walking food tour through Kota Kinabalu's local food spots.", price: "From $62", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b973fff96d6d39f441d5c6c743fdaef68a8e425b19533276c8e7bc18e1e1f520.png" } },
+                    { title: "Practical Tips", content: "Come hungry but not full — the format covers several small tastes across stops rather than one sit-down meal." },
+                ],
+                faqs: [
+                    { q: "Is the walking food tour worth it in Kota Kinabalu?", a: "Yes, for a flavor-first way to explore the city, a good change of pace from the island-hopping and nature day trips." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the walking food tour worth it in Kota Kinabalu?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a flavor-first way to explore the city." } },
+                ] },
+            };
+
+        case "is-blue-tear-river-tour-worth-it-kota-kinabalu":
+            return {
+                title: "Is the Culture Village & Blue Tear River Tour Worth It in Kota Kinabalu?",
+                seoTitle: "Kota Kinabalu Blue Tear River Tour 2026 | Honest Review",
+                description: "An honest look at the Kota Kinabalu culture village and Blue Tear bioluminescent river tour, a nighttime nature phenomenon distinct from the area's standard firefly river cruises.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1223511/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The 'Blue Tear' is a bioluminescent plankton phenomenon that lights up the water at night, a genuinely different nighttime nature sight from the area's more common firefly river cruises, paired here with a culture village visit for a fuller day.", tourCard: { slug: "kota-kinabalu-culture-village-blue-tear-river", title: "Kota Kinabalu: Culture Village & Blue Tear River Tour", description: "A combined culture village visit and Blue Tear bioluminescent river tour.", price: "From $195", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1223511/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "The Blue Tear phenomenon depends on specific tidal and weather conditions, so sightings aren't guaranteed every night — ask your operator about recent conditions." },
+                ],
+                faqs: [
+                    { q: "Is the Blue Tear river tour worth it in Kota Kinabalu?", a: "Yes, for a genuinely different bioluminescent nighttime phenomenon, distinct from the area's standard firefly cruises, though sightings depend on conditions." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Blue Tear river tour worth it in Kota Kinabalu?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different bioluminescent nighttime phenomenon." } },
+                ] },
+            };
+
         case "is-bayou-lagoon-water-park-worth-it-malacca":
             return {
                 title: "Is Bayou Lagoon Water Park Worth It in Malacca?",

@@ -970,6 +970,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-seawalking-tour-worth-it-kota-kinabalu', 'is-scuba-diving-worth-it-kota-kinabalu',
     'is-mantanani-island-worth-it-kota-kinabalu', 'is-proboscis-monkey-firefly-tour-worth-it-kota-kinabalu',
     'is-flavours-of-sabah-cooking-class-worth-it-kota-kinabalu',
+    'is-walking-food-tour-worth-it-kota-kinabalu', 'is-blue-tear-river-tour-worth-it-kota-kinabalu',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/kota-kinabalu/${slug}`,
     lastModified: new Date(),
