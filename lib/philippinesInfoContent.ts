@@ -1054,6 +1054,104 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "pagsanjan-falls-day-trip-guide":
+      return {
+        title: "Pagsanjan Falls Day Trip Guide 2026 (Manila)",
+        description: "Pagsanjan Falls, famous for its boatman-paddled canoe ride through rapids, is a different kind of day trip from Manila's Taal Volcano/Tagaytay circuit.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fec7832d1a300f77cc77208de2930d44c2cc024936b6be6a827d65228288ec8c.jpeg",
+        fastFacts: [
+          { icon: "MapPin", label: "Distance from Manila", value: "Roughly 2-3 hours by road" },
+          { icon: "Waves", label: "Signature experience", value: "Boatman-paddled canoe ride upriver through rapids to the falls" },
+        ],
+        sections: [
+          {
+            title: "What Makes This Different",
+            content: "Unlike Tagaytay's ridge-view volcano scenery, Pagsanjan Falls is about the journey itself — local boatmen paddle visitors upriver through a series of rapids and narrow gorges to reach the falls, often combined with Hidden Valley Springs for a natural swimming stop.",
+            tourCard: { slug: "from-manila-pagsangjan-falls-and-hidden-valley", title: "From Manila: Pagsangjan Falls and Hidden Valley Day Trip", description: "A day trip to Pagsanjan Falls and Hidden Valley Springs.", price: "From $488", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fec7832d1a300f77cc77208de2930d44c2cc024936b6be6a827d65228288ec8c.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect to get wet during the canoe ride through the rapids — bring a dry bag for electronics and wear clothes you don't mind getting splashed.",
+          },
+        ],
+        faqs: [
+          { q: "What is special about Pagsanjan Falls?", a: "A boatman-paddled canoe ride upriver through rapids and gorges to reach the falls, different from a typical scenic viewpoint." },
+          { q: "How far is Pagsanjan Falls from Manila?", a: "Roughly 2-3 hours by road." },
+        ],
+      };
+
+    case "manila-binondo-chinatown-food-tour-guide":
+      return {
+        title: "Manila Binondo Chinatown Food Tour Guide 2026",
+        description: "Binondo is the world's oldest Chinatown, and its food tours are a genuinely different experience from Manila's other food scenes.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2e3d81e515aea28facba79a8a8639d7dfd1f156846cfb56a36a7e6cbf52e5406.jpg",
+        fastFacts: [
+          { icon: "MapPin", label: "Historical note", value: "Binondo is recognized as the world's oldest Chinatown, established in 1594" },
+        ],
+        sections: [
+          {
+            title: "What Makes This Different",
+            content: "Binondo's centuries of Chinese-Filipino fusion cuisine (think fresh lumpia, dim sum, and siopao from decades-old family-run stalls) is a genuinely different food scene from the broader Manila food tours, reflecting the neighborhood's unique Chinese-Filipino heritage rather than general Filipino street food.",
+            tourCard: { slug: "manila-binondo-chinatown-food-tour-with-free-food", title: "Manila: Binondo Chinatown Food Tour with Free Food Samples", description: "A food tour through Binondo, the world's oldest Chinatown.", price: "From $117", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2e3d81e515aea28facba79a8a8639d7dfd1f156846cfb56a36a7e6cbf52e5406.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go hungry — these tours typically include multiple stops with generous samples, so a light breakfast beforehand is sensible.",
+          },
+        ],
+        faqs: [
+          { q: "Why is Binondo special?", a: "It's recognized as the world's oldest Chinatown, established in 1594, with centuries of unique Chinese-Filipino fusion cuisine." },
+        ],
+      };
+
+    case "manila-cooking-class-guide":
+      return {
+        title: "Manila Cooking Class Guide 2026",
+        description: "A hands-on Filipino cooking class in Manila teaches classic dishes directly, beyond simply eating them on a food tour.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/caaf70b9296a17492b04cbc8940b132ac1ccad59935db20a2c0dceace36c1640.jpg",
+        sections: [
+          {
+            title: "What's Included",
+            content: "This hands-on class teaches you to cook classic Filipino dishes yourself, a more active alternative to the many food-tasting tours around the city — good for travelers who want a take-home skill rather than just a meal.",
+            tourCard: { slug: "manila-hands-on-manila-cooking-class", title: "Manila: Hands on Manila Cooking Class", description: "A hands-on Filipino cooking class in Manila.", price: "From $65", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/caaf70b9296a17492b04cbc8940b132ac1ccad59935db20a2c0dceace36c1640.jpg" },
+          },
+        ],
+        faqs: [
+          { q: "Is the Manila cooking class worth it?", a: "Yes, for a hands-on skill beyond simply eating on a food tour." },
+        ],
+      };
+
+    case "bantayan-island-day-trip-guide":
+      return {
+        title: "Bantayan Island Day Trip Guide 2026 (Cebu)",
+        description: "Bantayan Island, off Cebu's northern tip, is known for white-sand beaches and traditional paraw sailing, a quieter alternative to Cebu's southern circuit.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/037419806e3565039049ae4338b6041a96c8199547ea5f30581459ef096bcf94.jpg",
+        fastFacts: [
+          { icon: "MapPin", label: "Location", value: "Off Cebu's northern tip, reached by road and a short ferry crossing" },
+          { icon: "Waves", label: "Known for", value: "White-sand beaches and traditional paraw (outrigger) sailing" },
+        ],
+        sections: [
+          {
+            title: "What's There",
+            content: "Bantayan Island offers quieter white-sand beaches than Cebu's more developed southern resorts, along with island hopping and traditional paraw sailing — a distinct, slower-paced alternative to the Kawasan/Oslob circuit most visitors do first.",
+            tourCard: { slug: "bantayan-island-hopping-and-land-tour-with", title: "Bantayan: Island Hopping and Land Tour with Transfers", description: "An island hopping and land tour of Bantayan Island with transfers.", price: "From $154", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/037419806e3565039049ae4338b6041a96c8199547ea5f30581459ef096bcf94.jpg" },
+          },
+          {
+            title: "For a Shorter Visit: Private Paraw Sailing",
+            content: "If a full day trip isn't realistic, this shorter paraw sailing experience gives a taste of Bantayan's traditional outrigger sailing on its own.",
+            tourCard: { slug: "bantayan-island-private-paraw-sailing-experience", title: "Bantayan Island: Private Paraw Sailing Experience", description: "A private traditional paraw sailing experience at Bantayan Island.", price: "From $49", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59260c6c5fcddf6d002a8cb1d518fdb2ee762ce1c7035f251fc7db9e515154b6.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bantayan is far enough from Cebu City that it works best as an overnight or early-start full-day trip rather than a rushed half-day addition to another itinerary.",
+          },
+        ],
+        faqs: [
+          { q: "How do you get to Bantayan Island from Cebu?", a: "By road to Cebu's northern tip, then a short ferry crossing." },
+          { q: "What is Bantayan Island known for?", a: "White-sand beaches and traditional paraw outrigger sailing, quieter than Cebu's southern resort circuit." },
+        ],
+      };
+
     default:
       return null;
   }

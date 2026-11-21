@@ -806,6 +806,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'manila-jeepney-guide', 'manila-food-guide', 'manila-to-boracay-travel',
     'manila-traffic-reality-guide', 'boracay-day-trip-guide', 'manila-3-day-itinerary',
     'taal-volcano-day-trip',
+    'pagsanjan-falls-day-trip-guide', 'manila-binondo-chinatown-food-tour-guide',
+    'manila-cooking-class-guide',
   ].map(slug => ({
     url: `${BASE_URL}/philippines/manila/${slug}`,
     lastModified: new Date(),
@@ -820,6 +822,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'cebu-3-day-itinerary', 'cebu-to-bohol-travel', 'magellan-cross-basilica-guide',
     'cebu-beaches-guide', 'siquijor-day-trip-guide', 'cebu-diving-guide',
     'oslob-vs-donsol-whale-sharks', 'cebu-waterfalls-guide',
+    'bantayan-island-day-trip-guide',
   ].map(slug => ({
     url: `${BASE_URL}/philippines/cebu/${slug}`,
     lastModified: new Date(),

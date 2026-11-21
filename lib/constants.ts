@@ -964,7 +964,9 @@ export const MANILA_INFO_SLUGS = [
   'manila-1-day-itinerary', 'philippines-visa-guide-for-tourists', 'intramuros-fort-santiago-guide',
   'manila-jeepney-guide', 'manila-food-guide', 'manila-to-boracay-travel',
   'manila-traffic-reality-guide', 'boracay-day-trip-guide', 'manila-3-day-itinerary',
-  'taal-volcano-day-trip'
+  'taal-volcano-day-trip',
+  'pagsanjan-falls-day-trip-guide', 'manila-binondo-chinatown-food-tour-guide',
+  'manila-cooking-class-guide',
 ];
 
 export const CEBU_INFO_SLUGS = [
@@ -973,7 +975,8 @@ export const CEBU_INFO_SLUGS = [
   'moalboal-sardine-run-guide', 'kawasan-falls-canyoneering', 'cebu-food-guide',
   'cebu-3-day-itinerary', 'cebu-to-bohol-travel', 'magellan-cross-basilica-guide',
   'cebu-beaches-guide', 'siquijor-day-trip-guide', 'cebu-diving-guide',
-  'oslob-vs-donsol-whale-sharks', 'cebu-waterfalls-guide'
+  'oslob-vs-donsol-whale-sharks', 'cebu-waterfalls-guide',
+  'bantayan-island-day-trip-guide',
 ];
 
 export const BANGKOK_INFO_SLUGS = [
