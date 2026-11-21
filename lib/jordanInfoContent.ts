@@ -1029,6 +1029,99 @@ export function getJordanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-jeep-tour-wadi-rum":
+            return {
+                title: "Which Is the Best Jeep Tour in Wadi Rum?",
+                seoTitle: "Best Wadi Rum Jeep Tour 2026 | Honest Comparison",
+                description: "Compare real Wadi Rum jeep tours for travellers already based in the desert — from a quick 2-hour highlights ride to a full-day tour with traditional lunch.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c4ffd51558dd3f1.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "For travellers already in Wadi Rum (rather than day-tripping from Amman, Petra, or Aqaba), jeep tour length is the main choice — from a quick 2-hour highlights loop to a full day covering more of the desert's rock formations and canyons.", tourCard: { slug: "2h-jeep-tour-morning-or-sunset-wadi-rum-desert", title: "2H Jeep Tour Morning or Sunset Wadi Rum Desert Highlights", description: "A quick 2-hour jeep tour of Wadi Rum's highlights.", price: "From $37", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c4ffd51558dd3f1.jpeg" } },
+                    { title: "Best Mid-Length: 4-Hour Highlights Tour", content: "A longer version covering more ground than the 2-hour option without committing to a full day.", tourCard: { slug: "wadi-rum-highlights-4-hour-jeep-tour-morning-or", title: "Wadi Rum Highlights: 4-Hour Jeep Tour - Morning or Sunset", description: "A 4-hour jeep tour covering more of Wadi Rum's highlights.", price: "From $63", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8286674f5db95745.jpeg" } },
+                    { title: "Best Full Day: Full Day Jeep Tour with Traditional Lunch", content: "This covers the most ground in a single day, with a traditional Bedouin lunch included partway through.", tourCard: { slug: "wadi-rum-desert-full-day-jeep-tour-traditional", title: "Wadi Rum Desert: Full Day Jeep Tour & Traditional Lunch", description: "A full-day jeep tour with a traditional Bedouin lunch.", price: "From $74", duration: "8.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f8bb3ca3f12128dad371b63c89c811596cb98d3fc8506aad4226e9d6d02de572.png" } },
+                    { title: "Practical Tips", content: "Morning and sunset are both offered for shorter tours — sunset is more atmospheric for photos, morning is cooler and less crowded at the main stops." }
+                ],
+                faqs: [
+                    { q: "What is the best jeep tour in Wadi Rum?", a: "A 2-hour tour for a quick highlights loop, or a full day for the most comprehensive desert experience." },
+                    { q: "Morning or sunset jeep tour?", a: "Sunset is more atmospheric for photos; morning is cooler and less crowded." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best jeep tour in Wadi Rum?", "acceptedAnswer": { "@type": "Answer", "text": "A 2-hour tour for quick highlights, or a full day for the most comprehensive trip." } },
+                    { "@type": "Question", "name": "Morning or sunset?", "acceptedAnswer": { "@type": "Answer", "text": "Sunset for photos, morning for fewer crowds." } }
+                ] },
+            };
+
+        case "best-overnight-camping-tour-wadi-rum":
+            return {
+                title: "Which Is the Best Overnight Camping Experience in Wadi Rum?",
+                seoTitle: "Best Wadi Rum Overnight Camping 2026 | Comparison",
+                description: "Compare real overnight camping tours in Wadi Rum — a straightforward full-day-plus-overnight package versus one with meals and extended stay.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d2c97fa689c6f9bdf719c25cd0927ef8e0a05a701285f732afc62c37b18da939.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "An overnight stay in a Bedouin-style desert camp is arguably the single best way to experience Wadi Rum — the stars here are genuinely spectacular given minimal light pollution, and most tours combine the camp stay with a jeep tour and meals.", tourCard: { slug: "full-day-wadi-rum-tour-with-overnight-under-the", title: "Full-Day Wadi Rum Tour with Overnight Under the Stars", description: "A full-day tour with an overnight desert camp stay.", price: "From $72", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d2c97fa689c6f9bdf719c25cd0927ef8e0a05a701285f732afc62c37b18da939.jpeg" } },
+                    { title: "Best with Full Meals: Jeep Tour, Meals & Overnight Stay", content: "This bundles meals more explicitly into the overnight package, removing any guesswork about what's included for food.", tourCard: { slug: "wadi-rum-full-day-jeep-tour-meals-overnight-stay", title: "Wadi Rum Full-Day Jeep Tour, Meals & Overnight Stay", description: "A full-day jeep tour with meals and overnight camp stay.", price: "From $115", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cdc525ace646978cd60d27adf5bd4f6c7b054150c177b86df9e7c49f85d37b4d.jpeg" } },
+                    { title: "Practical Tips", content: "Desert nights get genuinely cold even in summer — bring warm layers regardless of season, since camps are usually equipped but temperature swings are significant." }
+                ],
+                faqs: [
+                    { q: "What is the best overnight camping experience in Wadi Rum?", a: "A standard overnight package is good value; add explicit full-meal inclusion if you want certainty on food." },
+                    { q: "Is it cold at night in the desert?", a: "Yes, genuinely cold even in summer — bring warm layers." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best overnight camping experience?", "acceptedAnswer": { "@type": "Answer", "text": "A standard overnight package, or one with explicit full meals." } },
+                    { "@type": "Question", "name": "Is it cold at night?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, even in summer — bring warm layers." } }
+                ] },
+            };
+
+        case "best-camel-tour-wadi-rum":
+            return {
+                title: "Which Is the Best Camel Tour in Wadi Rum?",
+                seoTitle: "Best Wadi Rum Camel Tour 2026 | Honest Comparison",
+                description: "Compare real camel tours in Wadi Rum — a sunset/sunrise 2-hour ride versus a full-day camel trek.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/64824169875df.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Camel riding is the traditional way to cross Wadi Rum's sands, and the choice is a shorter sunset/sunrise ride versus a full day in the saddle for those who want the genuine Bedouin travel experience.", tourCard: { slug: "wadi-rum-2-hour-camel-ride-at-sunsetsunrise", title: "Wadi Rum: 2-Hour Camel Ride at Sunset/Sunrise Overnight", description: "A 2-hour camel ride timed for sunset or sunrise.", price: "From $103", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/64824169875df.jpeg" } },
+                    { title: "Best for a Full Experience: Full Day Camel Tour", content: "This extends the ride to a full day, a genuinely more demanding but more complete way to experience traditional desert travel.", tourCard: { slug: "wadi-rum-full-day-camel-tour", title: "Wadi Rum Full Day Camel Tour", description: "A full-day camel tour through Wadi Rum.", price: "From $115", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/640991fc06d72.jpeg" } },
+                    { title: "Practical Tips", content: "A full day on a camel is genuinely tiring if you're not used to it — the 2-hour version is more realistic for most first-timers." }
+                ],
+                faqs: [
+                    { q: "What is the best camel tour in Wadi Rum?", a: "A 2-hour sunset/sunrise ride for most first-timers, or a full day for the complete traditional experience." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best camel tour?", "acceptedAnswer": { "@type": "Answer", "text": "A 2-hour ride for most first-timers, or a full day for the complete experience." } }
+                ] },
+            };
+
+        case "is-khazali-canyon-horseback-worth-it-wadi-rum":
+            return {
+                title: "Is the Horseback Ride to Khazali Canyon in Wadi Rum Worth It?",
+                seoTitle: "Khazali Canyon Horseback Ride Wadi Rum 2026 | Review",
+                description: "An honest look at the horseback ride to Khazali Canyon and sand dunes in Wadi Rum.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5358616d6d3b3d004af5d4e75ce252c18f50a8d06d8abecbb01876b361beb368.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Riding by horse to Khazali Canyon (known for ancient Nabataean and Thamudic rock inscriptions) and the surrounding dunes is a genuinely different way to cover the desert compared to jeep or camel, with a distinct pace that suits exploring narrow canyon terrain.", tourCard: { slug: "wadi-rum-horseback-ride-to-khazali-canyon-sand", title: "Wadi Rum: Horseback Ride to Khazali Canyon & Sand Dune", description: "A horseback ride to Khazali Canyon and the surrounding sand dunes.", price: "From $329", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5358616d6d3b3d004af5d4e75ce252c18f50a8d06d8abecbb01876b361beb368.jpg" } },
+                    { title: "Practical Tips", content: "Khazali Canyon's ancient inscriptions are easy to miss without a guide pointing them out — ask about their significance, since they're a genuine archaeological record, not just scenery." }
+                ],
+                faqs: [
+                    { q: "Is the Khazali Canyon horseback ride worth it?", a: "Yes, for a different pace and perspective on the desert, plus access to the canyon's ancient rock inscriptions." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Khazali Canyon horseback ride worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a different pace and access to ancient rock inscriptions." } }
+                ] },
+            };
+
+        case "wadi-rum-travel-guide-2026":
+            return {
+                title: "Wadi Rum Travel Guide 2026",
+                description: "What visitors need to know about basing themselves in Wadi Rum rather than day-tripping in from Petra, Aqaba, or Amman.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d2c97fa689c6f9bdf719c25cd0927ef8e0a05a701285f732afc62c37b18da939.jpeg",
+                sections: [
+                    { title: "Why Stay in Wadi Rum", content: "Staying overnight in Wadi Rum rather than just passing through on a day trip from Petra or Aqaba means genuinely dark skies for stargazing, sunrise/sunset light on the rock formations, and more time to explore by jeep, camel, or horse without rushing back." }
+                ],
+                faqs: [
+                    { q: "Is it worth staying overnight in Wadi Rum?", a: "Yes, for genuinely dark skies, better light for photos, and more time to explore without rushing." }
+                ],
+            };
+
         default:
             return null;
     }

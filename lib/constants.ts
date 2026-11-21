@@ -681,6 +681,13 @@ export const MESTIA_INFO_SLUGS = [
   'best-koruldi-lakes-tour-mestia', 'mestia-travel-guide-2026',
 ];
 
+// Wadi Rum (Jordan) — 36 live tours, launched 2026-11-21.
+export const WADI_RUM_INFO_SLUGS = [
+  'best-jeep-tour-wadi-rum', 'best-overnight-camping-tour-wadi-rum',
+  'best-camel-tour-wadi-rum', 'is-khazali-canyon-horseback-worth-it-wadi-rum',
+  'wadi-rum-travel-guide-2026',
+];
+
 export const JOHOR_BAHRU_INFO_SLUGS = [
   'best-jetski-tour-johor-bahru',
   'best-hop-on-hop-off-tour-johor-bahru', 'best-private-city-tour-johor-bahru',
