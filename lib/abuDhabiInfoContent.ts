@@ -595,6 +595,26 @@ export function getAbuDhabiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-heritage-village-worth-it-abu-dhabi":
+      return {
+        title: "Is the Abu Dhabi Heritage Village Worth It?",
+        description: "An honest look at Abu Dhabi Heritage Village, a reconstructed traditional Emirati village showing life before oil wealth transformed the city.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788902378/asiabylocals/tours/abu-dhabi-heritage-village-guided-walking-tour/img1.jpg",
+        sections: [
+          {
+            title: "What's There",
+            content: "Heritage Village recreates a traditional Emirati settlement with Bedouin tents, a souk, and craft demonstrations, showing what life looked like before Abu Dhabi's oil-driven transformation into a modern city — a useful contrast to the skyline and Louvre.",
+            tourCard: { slug: "abu-dhabi-heritage-village-guided-walking-tour", title: "Abu Dhabi Heritage Village Guided Walking Tour", description: "A guided walking tour of Abu Dhabi Heritage Village.", price: "From $18", duration: "Flexible", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788902378/asiabylocals/tours/abu-dhabi-heritage-village-guided-walking-tour/img1.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "At a very low price, this is one of Abu Dhabi's most affordable cultural stops, worth adding to a day that's otherwise focused on modern landmarks." },
+        ],
+        faqs: [
+          { q: "What is Abu Dhabi Heritage Village?", a: "A reconstructed traditional Emirati village showing life before the city's oil-driven modernization." },
+        ],
+      };
+
     default:
       return null;
   }

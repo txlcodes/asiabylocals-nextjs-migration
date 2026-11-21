@@ -1320,7 +1320,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'getting-around-abu-dhabi',
     'abu-dhabi-2-day-itinerary',
     'abu-dhabi-falcon-hospital-guide', 'abu-dhabi-mangrove-kayaking-guide',
-    'abu-dhabi-louvre-catamaran-guide'].map(slug => ({
+    'abu-dhabi-louvre-catamaran-guide', 'is-heritage-village-worth-it-abu-dhabi'].map(slug => ({
     url: `${BASE_URL}/uae/abu-dhabi/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

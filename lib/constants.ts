@@ -1829,7 +1829,7 @@ export const ABU_DHABI_INFO_SLUGS = [
   'getting-around-abu-dhabi',
   'abu-dhabi-2-day-itinerary',
   'abu-dhabi-falcon-hospital-guide', 'abu-dhabi-mangrove-kayaking-guide',
-  'abu-dhabi-louvre-catamaran-guide',
+  'abu-dhabi-louvre-catamaran-guide', 'is-heritage-village-worth-it-abu-dhabi',
 ];
 
 // Vietnam authority pages (2026-09)
