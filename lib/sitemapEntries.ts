@@ -826,11 +826,13 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-gergeti-church-tour-kazbegi', 'best-gveleti-waterfall-hike-kazbegi',
     'is-truso-valley-tour-worth-it-kazbegi', 'best-horse-riding-tour-kazbegi',
     'kazbegi-travel-guide-2026',
+    'is-mount-kazbek-climb-worth-it-kazbegi',
   ], 'georgia', 'kazbegi');
 
   const mestiaInfoPages = mapInfoSlugs([
     'best-ushguli-day-trip-mestia', 'best-chalaadi-glacier-tour-mestia',
     'best-koruldi-lakes-tour-mestia', 'mestia-travel-guide-2026',
+    'is-heshkili-huts-tetnuldi-tour-worth-it-mestia',
   ], 'georgia', 'mestia');
 
   const wadiRumInfoPages = mapInfoSlugs([

@@ -762,11 +762,13 @@ export const KAZBEGI_INFO_SLUGS = [
   'best-gergeti-church-tour-kazbegi', 'best-gveleti-waterfall-hike-kazbegi',
   'is-truso-valley-tour-worth-it-kazbegi', 'best-horse-riding-tour-kazbegi',
   'kazbegi-travel-guide-2026',
+  'is-mount-kazbek-climb-worth-it-kazbegi',
 ];
 
 export const MESTIA_INFO_SLUGS = [
   'best-ushguli-day-trip-mestia', 'best-chalaadi-glacier-tour-mestia',
   'best-koruldi-lakes-tour-mestia', 'mestia-travel-guide-2026',
+  'is-heshkili-huts-tetnuldi-tour-worth-it-mestia',
 ];
 
 // Wadi Rum (Jordan) — 36 live tours, launched 2026-11-21.

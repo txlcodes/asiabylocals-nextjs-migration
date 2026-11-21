@@ -1297,6 +1297,42 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-mount-kazbek-climb-worth-it-kazbegi":
+            return {
+                title: "Is the Mount Kazbek Guided Climb Worth It?",
+                seoTitle: "Mount Kazbek Climb 2026 | Honest Review",
+                description: "An honest look at the 7-day guided climb of Mount Kazbek, a serious mountaineering expedition distinct from the region's day hikes and horse riding tours.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5d6f481b2bc8f3f19519c8f262675d87e722833ed0c9940ba56ce3b8020fd0dd.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Mount Kazbek, one of Georgia's highest peaks at over 5,000 meters, requires a genuine multi-day mountaineering expedition with acclimatization days, a completely different undertaking from the region's day hikes, horse rides, and 4x4 valley tours.", tourCard: { slug: "from-stepantsminda-mount-kazbek-guided-climb-with", title: "From Stepantsminda: Mount Kazbek Guided Climb", description: "A 7-day guided mountaineering expedition to the summit of Mount Kazbek.", price: "From $2600", duration: "7 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5d6f481b2bc8f3f19519c8f262675d87e722833ed0c9940ba56ce3b8020fd0dd.jpg" } },
+                    { title: "Practical Tips", content: "This requires genuine mountaineering fitness and ideally prior high-altitude experience — be honest about your fitness level when booking." },
+                ],
+                faqs: [
+                    { q: "Is the Mount Kazbek climb worth it?", a: "Yes, for travelers with real mountaineering fitness and ambition wanting a genuine high-altitude summit expedition." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Mount Kazbek climb worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine high-altitude mountaineering expedition." } },
+                ] },
+            };
+
+        case "is-heshkili-huts-tetnuldi-tour-worth-it-mestia":
+            return {
+                title: "Is the Heshkili Huts and Tetnuldi Mountain Tour Worth It in Mestia?",
+                seoTitle: "Mestia Tetnuldi Tour 2026 | Honest Review",
+                description: "An honest look at the Heshkili Huts and Tetnuldi Mountain tour from Mestia, a lesser-visited Svaneti landscape distinct from the usual Ushguli and Koruldi Lakes day trips.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5cc028e492769ba610a8c3901b484f7ba9d4c8bc71dda5996cd851c1a543a196.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Heshkili Huts and the Tetnuldi Mountain area are quieter, less-visited corners of Svaneti than Ushguli or Koruldi Lakes, giving genuine mountain scenery without the crowds that gather at the region's more famous spots.", tourCard: { slug: "from-mestia-heshkili-huts-and-tetnuldi-mountain", title: "From Mestia: Heshkili Huts and Tetnuldi Mountain", description: "A tour to the Heshkili Huts and Tetnuldi Mountain area from Mestia.", price: "From $169", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5cc028e492769ba610a8c3901b484f7ba9d4c8bc71dda5996cd851c1a543a196.jpg" } },
+                    { title: "Practical Tips", content: "Best booked after you've already seen Ushguli and Koruldi Lakes, since this is specifically a quieter alternative landscape." },
+                ],
+                faqs: [
+                    { q: "Is the Heshkili Huts and Tetnuldi tour worth it in Mestia?", a: "Yes, for travelers wanting quieter Svaneti scenery away from the crowds at Ushguli and Koruldi Lakes." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Heshkili Huts and Tetnuldi tour worth it in Mestia?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for quieter Svaneti scenery away from the main crowds." } },
+                ] },
+            };
+
         default:
             return null;
     }
