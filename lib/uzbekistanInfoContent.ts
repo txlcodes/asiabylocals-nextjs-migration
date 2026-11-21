@@ -452,6 +452,116 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        case "best-plov-cooking-class-samarkand":
+            return {
+                title: "Which Is the Best Plov Cooking Class in Samarkand?",
+                seoTitle: "Best Samarkand Plov Cooking Class 2026",
+                description: "Compare real plov cooking classes in Samarkand — Uzbekistan's national rice dish, taught hands-on, with a standalone class or a fuller village tour version.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0d56dffe16631fb0bfbf0d0f955e8f838af70bdb8f87043b28945b856795e759.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Plov, Uzbekistan's national rice dish, is traditionally cooked in a large kazan (cauldron) over an open flame — this standalone class teaches the technique directly.", tourCard: { slug: "samarkand-plov-cooking-class", title: "Samarkand: Plov Cooking Class", description: "A hands-on plov cooking class.", price: "From $65", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0d56dffe16631fb0bfbf0d0f955e8f838af70bdb8f87043b28945b856795e759.jpg" } },
+                    { title: "Best for a Fuller Day: Village Tour with Plov Class & Home Visit", content: "This extends the cooking class into a half-day village tour with a visit to a local home, giving broader cultural context beyond just the cooking itself.", tourCard: { slug: "samarkand-village-tour-with-plov-cooking-class", title: "Samarkand: Village Tour with Plov Cooking Class & Home Visit", description: "A village tour combining a plov cooking class with a local home visit.", price: "From $129", duration: "6.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f3ed354e03627fc6e9775cafbf2fc4a6dfa9cf01c4ff45cbb236bd02b26e797c.jpg" } },
+                    { title: "Practical Tips", content: "Plov is traditionally eaten communally from a shared platter — most classes end with everyone sitting down to eat what was cooked." }
+                ],
+                faqs: [
+                    { q: "What is plov?", a: "Uzbekistan's national rice dish, traditionally cooked in a large kazan cauldron over an open flame." },
+                    { q: "Which plov cooking class is best in Samarkand?", a: "The standalone class for a focused lesson, or the village tour version for broader cultural context with a home visit." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is plov?", "acceptedAnswer": { "@type": "Answer", "text": "Uzbekistan's national rice dish, cooked in a kazan cauldron." } }
+                ] },
+            };
+
+        case "is-metro-tour-worth-it-tashkent":
+            return {
+                title: "Is the Tashkent Metro Tour Worth It?",
+                seoTitle: "Tashkent Metro Tour 2026 | Honest Review",
+                description: "An honest look at Tashkent's metro tour, visiting the Soviet-era metro's ornately decorated stations, paired with Chorsu Bazaar.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ce6200a9baa439125e13ac191a2a315293b5c07c0e09e8f9bb48b597cf0f1058.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Tashkent's Soviet-era metro stations are ornately decorated with marble, chandeliers, and themed murals — genuinely striking architecture most visitors never associate with a subway system, paired here with a visit to Chorsu Bazaar.", tourCard: { slug: "tashkent-exclusive-metro-tour-with-chorsu-bazaar", title: "Tashkent: Exclusive Metro Tour with Chorsu Bazaar Visit", description: "A metro tour of Tashkent's ornate stations with a Chorsu Bazaar visit.", price: "From $52", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ce6200a9baa439125e13ac191a2a315293b5c07c0e09e8f9bb48b597cf0f1058.jpg" } },
+                    { title: "Practical Tips", content: "Photography inside the metro was once restricted — rules have relaxed significantly, but check current guidance with your guide." }
+                ],
+                faqs: [
+                    { q: "Why is the Tashkent metro worth visiting?", a: "Its Soviet-era stations are ornately decorated with marble, chandeliers, and themed murals, unusual for a metro system." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Why is the Tashkent metro worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Its ornately decorated Soviet-era stations." } }
+                ] },
+            };
+
+        case "is-plov-samsa-cooking-class-worth-it-tashkent":
+            return {
+                title: "Is the Plov & Samsa Cooking Class Worth It in Tashkent?",
+                seoTitle: "Tashkent Plov Samsa Cooking Class 2026 | Honest Review",
+                description: "An honest look at Tashkent's hands-on plov and samsa cooking class, covering two of Uzbekistan's defining dishes.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e1cb3b6ba01a9ae6c77d1da4bd4ad9a3a901e82b30a309a100f15cbb2f50eb47.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This class covers both plov (the national rice dish) and samsa (savory baked pastries), giving a broader hands-on introduction to Uzbek cuisine than a single-dish class.", tourCard: { slug: "tashkent-hands-on-plov-and-samsa-cooking-class", title: "Tashkent: Hands-On Plov and Samsa Cooking Class", description: "A hands-on cooking class covering plov and samsa.", price: "From $208", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e1cb3b6ba01a9ae6c77d1da4bd4ad9a3a901e82b30a309a100f15cbb2f50eb47.jpg" } },
+                    { title: "Practical Tips", content: "Go with an appetite — you'll eat what you cook, and two dishes means a substantial meal by the end." }
+                ],
+                faqs: [
+                    { q: "What is samsa?", a: "A savory baked pastry, typically filled with meat and onion, a staple Uzbek snack." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is samsa?", "acceptedAnswer": { "@type": "Answer", "text": "A savory baked pastry, typically filled with meat and onion." } }
+                ] },
+            };
+
+        case "is-plov-workshop-worth-it-bukhara":
+            return {
+                title: "Is the Plov Cooking Workshop Worth It in Bukhara?",
+                seoTitle: "Bukhara Plov Cooking Workshop 2026 | Honest Review",
+                description: "An honest look at Bukhara's traditional plov cooking workshop.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0ae39944912098dd74156f845925a196fcc5eafffd3ed9ea70e96583166be0f5.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This workshop teaches the traditional kazan-cauldron method of cooking plov, Uzbekistan's national dish, directly from a local cook.", tourCard: { slug: "bukhara-master-the-art-of-plov-in-a-traditional", title: "Bukhara: Master the Art of Plov in a Traditional Workshop", description: "A traditional plov cooking workshop in Bukhara.", price: "From $117", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0ae39944912098dd74156f845925a196fcc5eafffd3ed9ea70e96583166be0f5.jpg" } },
+                    { title: "Practical Tips", content: "A good evening activity after a day of exploring Bukhara's old town monuments." }
+                ],
+                faqs: [
+                    { q: "Is the plov workshop worth it in Bukhara?", a: "Yes, for a hands-on introduction to Uzbekistan's national dish, cooked the traditional way." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the plov workshop worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a hands-on introduction to Uzbekistan's national dish." } }
+                ] },
+            };
+
+        case "is-folklore-fashion-show-worth-it-bukhara":
+            return {
+                title: "Is the Folklore & Fashion Show at Nadir Divan-Begi Worth It?",
+                seoTitle: "Bukhara Folklore Fashion Show 2026 | Honest Review",
+                description: "An honest look at the Folklore & Fashion Show at Nadir Divan-Begi, a traditional Uzbek dance and costume performance in Bukhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3f128370509d3dbf3c8d094b9d9fc3436f02cb8682b8855ffed232fb7d3b95be.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Held at the historic Nadir Divan-Begi madrasah, this short show features traditional Uzbek dance and costume displays — an easy, affordable evening cultural activity in a genuinely atmospheric setting.", tourCard: { slug: "bukhara-folklore-fashion-show-at-nadir-divan-begi", title: "Bukhara: Folklore & Fashion Show at Nadir Divan-Begi", description: "A folklore and fashion show at the historic Nadir Divan-Begi.", price: "From $26", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3f128370509d3dbf3c8d094b9d9fc3436f02cb8682b8855ffed232fb7d3b95be.jpeg" } },
+                    { title: "Practical Tips", content: "At just an hour and a low price, this is an easy add-on to an evening in Bukhara's old town." }
+                ],
+                faqs: [
+                    { q: "What is the Nadir Divan-Begi folklore show?", a: "A short traditional Uzbek dance and costume performance held at the historic Nadir Divan-Begi madrasah." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the Nadir Divan-Begi folklore show?", "acceptedAnswer": { "@type": "Answer", "text": "A traditional Uzbek dance and costume performance at a historic madrasah." } }
+                ] },
+            };
+
+        case "is-cooking-class-worth-it-khiva":
+            return {
+                title: "Is a Traditional Cooking Class Worth It in Khiva?",
+                seoTitle: "Khiva Cooking Class 2026 | Honest Review",
+                description: "An honest look at Khiva's traditional cooking class with a market visit and lunch.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fbccd9b29a9707c2ded34f2528249dda3c034ebbee9ae35596a4eee3e6e340a0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This class pairs a local market visit with hands-on cooking of traditional Khivan dishes, giving context on fresh ingredients before you cook with them — a good cultural pairing with a day exploring Itchan Kala's old town.", tourCard: { slug: "traditional-khiva-cooking-class-with-market-visit", title: "Traditional Khiva Cooking Class with Market Visit & Lunch", description: "A traditional cooking class with a market visit and lunch.", price: "From $195", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fbccd9b29a9707c2ded34f2528249dda3c034ebbee9ae35596a4eee3e6e340a0.jpg" } },
+                    { title: "Practical Tips", content: "Khiva's cuisine includes regional specialties distinct from Samarkand or Bukhara's plov-centric dishes — ask what's on the day's menu before booking." }
+                ],
+                faqs: [
+                    { q: "Is a cooking class worth it in Khiva?", a: "Yes, especially with the market visit, which gives useful context on the regional ingredients used." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a cooking class worth it in Khiva?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, especially with a market visit for ingredient context." } }
+                ] },
+            };
+
         default:
             return null;
     }

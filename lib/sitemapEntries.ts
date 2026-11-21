@@ -285,6 +285,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   // Uzbekistan info pages (2026-11-12)
   const samarkandInfoPages = [
     'best-tours-in-samarkand', 'best-registan-walking-tour-samarkand',
+    'best-plov-cooking-class-samarkand',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/samarkand/${slug}`,
     lastModified: new Date(),
@@ -294,6 +295,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
 
   const tashkentInfoPages = [
     'best-tours-in-tashkent', 'best-chimgan-mountain-tour-tashkent',
+    'is-metro-tour-worth-it-tashkent', 'is-plov-samsa-cooking-class-worth-it-tashkent',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/tashkent/${slug}`,
     lastModified: new Date(),
@@ -303,6 +305,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
 
   const bukharaInfoPages = [
     'best-tours-in-bukhara', 'best-old-town-walking-tour-bukhara',
+    'is-plov-workshop-worth-it-bukhara', 'is-folklore-fashion-show-worth-it-bukhara',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/bukhara/${slug}`,
     lastModified: new Date(),
@@ -312,6 +315,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
 
   const khivaInfoPages = [
     'best-tours-in-khiva', 'best-itchan-kala-walking-tour-khiva',
+    'is-cooking-class-worth-it-khiva',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/khiva/${slug}`,
     lastModified: new Date(),

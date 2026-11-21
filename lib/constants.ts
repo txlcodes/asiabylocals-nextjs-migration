@@ -951,21 +951,25 @@ export const MALE_INFO_SLUGS = [
 export const SAMARKAND_INFO_SLUGS = [
   'best-tours-in-samarkand',
   'best-registan-walking-tour-samarkand',
+  'best-plov-cooking-class-samarkand',
 ];
 
 export const TASHKENT_INFO_SLUGS = [
   'best-tours-in-tashkent',
   'best-chimgan-mountain-tour-tashkent',
+  'is-metro-tour-worth-it-tashkent', 'is-plov-samsa-cooking-class-worth-it-tashkent',
 ];
 
 export const BUKHARA_INFO_SLUGS = [
   'best-tours-in-bukhara',
   'best-old-town-walking-tour-bukhara',
+  'is-plov-workshop-worth-it-bukhara', 'is-folklore-fashion-show-worth-it-bukhara',
 ];
 
 export const KHIVA_INFO_SLUGS = [
   'best-tours-in-khiva',
   'best-itchan-kala-walking-tour-khiva',
+  'is-cooking-class-worth-it-khiva',
 ];
 
 export const MANILA_INFO_SLUGS = [
