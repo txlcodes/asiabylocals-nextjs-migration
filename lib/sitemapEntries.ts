@@ -248,6 +248,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-hagia-sophia-blue-mosque-tour', 'best-bosphorus-cruise-istanbul',
     'best-ephesus-pamukkale-fly-tour-istanbul',
     'is-pub-crawl-worth-it-istanbul', 'is-card-game-tea-experience-worth-it-istanbul',
+    'is-bursa-day-trip-worth-it-istanbul', 'is-camlica-asian-side-tour-worth-it-istanbul',
   ].map(slug => ({
     url: `${BASE_URL}/turkey/istanbul/${slug}`,
     lastModified: new Date(),

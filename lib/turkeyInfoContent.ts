@@ -1344,6 +1344,48 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         ] },
       };
 
+        case "is-bursa-day-trip-worth-it-istanbul":
+      return {
+        title: "Is the Bursa Day Trip Worth It from Istanbul?",
+        description: "An honest look at the private Bursa day trip from Istanbul, the Ottoman Empire's first capital and a genuinely different city from the usual old-city sightseeing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cc08b88acd4bca86c401862fd0614b7295fab6c8ebc5c64e3201a0c929fa8f7e.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bursa, nicknamed the 'Green City,' was the Ottoman Empire's first capital, with its own distinct early-Ottoman architecture and a cable car up Uludag mountain — a genuinely different city and era from Istanbul's later imperial sights.",
+            tourCard: { slug: "1-day-private-bursa-tour-from-istanbul-green-city", title: "1-Day Private Bursa Tour from Istanbul (Green City)", description: "A private day trip to Bursa, the Ottoman Empire's first capital.", price: "From $653", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cc08b88acd4bca86c401862fd0614b7295fab6c8ebc5c64e3201a0c929fa8f7e.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a long day trip given the drive time each way from Istanbul, so budget the full day rather than trying to combine it with other activities.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Bursa day trip worth it from Istanbul?", a: "Yes, for travelers interested in early-Ottoman history and architecture, a genuinely different era from Istanbul's later imperial sights." },
+        ],
+      };
+
+    case "is-camlica-asian-side-tour-worth-it-istanbul":
+      return {
+        title: "Is the Camlica Mosque and Asian Side Tour Worth It in Istanbul?",
+        description: "An honest look at Istanbul's Camlica Mosque, Camlica Tower, and Maiden's Tower Asian-side tour, a genuinely different neighborhood from the European-side landmarks most visitors focus on.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a0fecff4566599f553d9d09db9cf72fa4213acac84e585aaf192a05fa26f5914.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Most Istanbul sightseeing stays on the European side, so this tour covering Camlica Mosque (one of Turkey's largest), Camlica Tower, and Maiden's Tower on the Asian side gives genuinely different views and a quieter, more local feel.",
+            tourCard: { slug: "camlica-mosque-camlica-tower-maiden-tower-asian", title: "Camlica Mosque, Camlica Tower, Maiden Tower Asian Side Tour", description: "A guided tour of Istanbul's Asian side covering Camlica Mosque, Camlica Tower, and Maiden's Tower.", price: "From $329", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a0fecff4566599f553d9d09db9cf72fa4213acac84e585aaf192a05fa26f5914.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Best booked after you've already covered the main European-side landmarks, since this is specifically a 'beyond the usual sights' experience.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Asian side tour worth it in Istanbul?", a: "Yes, for views and a local feel genuinely different from the European-side landmarks most visitors focus on." },
+        ],
+      };
+
     case "is-pub-crawl-worth-it-istanbul":
       return {
         title: "Is the Nightlife Pub Crawl Worth It in Istanbul?",

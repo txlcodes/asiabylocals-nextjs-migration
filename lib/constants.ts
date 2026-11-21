@@ -933,6 +933,7 @@ export const ISTANBUL_INFO_SLUGS = [
   'best-hagia-sophia-blue-mosque-tour', 'best-bosphorus-cruise-istanbul',
   'best-ephesus-pamukkale-fly-tour-istanbul',
   'is-pub-crawl-worth-it-istanbul', 'is-card-game-tea-experience-worth-it-istanbul',
+  'is-bursa-day-trip-worth-it-istanbul', 'is-camlica-asian-side-tour-worth-it-istanbul',
 ];
 
 // Qatar launched 2026-10 with 850 live tours (single city: Doha) and
