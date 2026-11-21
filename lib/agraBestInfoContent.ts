@@ -12763,6 +12763,66 @@ const PAGES: Record<string, CityInfoData> = {
         "a": "Yes. Message us on WhatsApp or email and a person answers before you book."
       }
     ]
+  },
+  "is-bharatpur-bird-sanctuary-tour-worth-it-agra": {
+    "title": "Is the Bharatpur Bird Sanctuary Day Tour Worth It from Agra?",
+    "seoTitle": "Bharatpur Bird Sanctuary Tour from Agra 2026 | Honest Review",
+    "description": "An honest look at the Bharatpur Bird Sanctuary (Keoladeo National Park) day tour from Agra, a UNESCO wetland reserve distinct from the Taj Mahal and Mughal-monument circuit.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/a-day-tour-of-bharatpur-bird-sanctuary-from-agra/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "content": "Keoladeo National Park (Bharatpur Bird Sanctuary), a UNESCO World Heritage wetland, hosts hundreds of resident and migratory bird species — a genuinely different landscape and activity from Agra's Mughal monuments, worth it specifically for birdwatchers and nature travelers.",
+        "tourCard": { "slug": "a-day-tour-of-bharatpur-bird-sanctuary-from-agra", "title": "A Day Tour of Bharatpur Bird Sanctuary from Agra", "description": "A day tour to the Bharatpur Bird Sanctuary UNESCO wetland reserve from Agra.", "price": "From $73", "duration": "8 hours", "image": "https://images.asiabylocals.com/asiabylocals/tours/a-day-tour-of-bharatpur-bird-sanctuary-from-agra/img0/1600.webp" }
+      },
+      {
+        "title": "Practical Tips",
+        "content": "Winter (November to February) is peak migratory bird season, with the widest variety of species — bring binoculars if you have them."
+      }
+    ],
+    "faqs": [
+      { "q": "Is the Bharatpur Bird Sanctuary tour worth it from Agra?", "a": "Yes, for birdwatchers and nature travelers wanting a genuinely different landscape from Agra's Mughal monuments." }
+    ]
+  },
+  "is-gwalior-day-trip-worth-it-agra": {
+    "title": "Is the Gwalior Day Trip Worth It from Agra?",
+    "seoTitle": "Gwalior Day Trip from Agra 2026 | Honest Review",
+    "description": "An honest look at the Gwalior day trip from Agra, visiting one of India's most formidable hill forts, distinct from Agra's own Mughal-era monuments.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/a-day-tour-of-gwalior-from-agra-with-local/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "content": "Gwalior Fort, perched on a sandstone hill, is considered one of India's most formidable hill forts, with a genuinely different architectural style and history from Agra's Mughal-era Taj Mahal and Agra Fort — worth it for travelers wanting deeper Rajasthani/Central Indian history.",
+        "tourCard": { "slug": "a-day-tour-of-gwalior-from-agra-with-local", "title": "A Day Tour of Gwalior from Agra with Local Guide", "description": "A day tour to Gwalior Fort from Agra with a local guide.", "price": "From $63", "duration": "1 day", "image": "https://images.asiabylocals.com/asiabylocals/tours/a-day-tour-of-gwalior-from-agra-with-local/img0/1600.webp" }
+      },
+      {
+        "title": "Practical Tips",
+        "content": "This is a long day trip given the distance from Agra, so budget the full day rather than combining it with other sightseeing."
+      }
+    ],
+    "faqs": [
+      { "q": "Is the Gwalior day trip worth it from Agra?", "a": "Yes, for travelers wanting a genuinely different architectural style and history from Agra's Mughal-era monuments." }
+    ]
+  },
+  "is-fabric-painting-workshop-worth-it-agra": {
+    "title": "Is the Colorful Fabric Painting Workshop Worth It in Agra?",
+    "seoTitle": "Agra Fabric Painting Workshop 2026 | Honest Review",
+    "description": "An honest look at Agra's colorful fabric painting workshop in a local home, a hands-on craft activity distinct from the city's Taj Mahal and monument sightseeing.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/agra-colorful-fabric-painting-workshop-in-a-local-/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "content": "This hands-on fabric painting workshop in a local home teaches a traditional craft technique, a relaxed, creative activity distinct from Agra's monument-heavy sightseeing day — good for travelers wanting a lower-key cultural experience alongside the Taj Mahal and forts.",
+        "tourCard": { "slug": "agra-colorful-fabric-painting-workshop-in-a-local-", "title": "Agra: Colorful Fabric Painting Workshop in a Local Home", "description": "A hands-on fabric painting workshop in a local home in Agra.", "price": "From $42", "duration": "2.5 hours", "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-colorful-fabric-painting-workshop-in-a-local-/img0/1600.webp" }
+      },
+      {
+        "title": "Practical Tips",
+        "content": "You take your finished fabric piece home as a genuine handmade souvenir, a nice alternative to typical Agra marble-inlay trinkets."
+      }
+    ],
+    "faqs": [
+      { "q": "Is the fabric painting workshop worth it in Agra?", "a": "Yes, as a relaxed, hands-on creative activity that's a nice change of pace from the city's monument-heavy sightseeing." }
+    ]
   }
 };
 export const AGRA_BEST_SLUGS = Object.keys(PAGES);
