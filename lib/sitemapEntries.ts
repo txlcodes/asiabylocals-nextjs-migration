@@ -1299,7 +1299,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
 
   const galleInfoPages = [
     'galle-fort-guide', 'mirissa-whale-watching-guide', 'south-coast-beaches-guide', 'galle-2-day-itinerary', 'best-tours-in-galle', 'should-i-book-galle-tour-direct-or-through-app',
-    'how-much-should-a-private-tour-guide-cost-in-galle'
+    'how-much-should-a-private-tour-guide-cost-in-galle',
+    'is-surf-lesson-worth-it-galle', 'is-cooking-class-worth-it-galle',
+    'is-ceylon-gem-workshop-worth-it-galle', 'is-koggala-lake-tour-worth-it-galle',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/galle/${slug}`,
     lastModified: new Date(),

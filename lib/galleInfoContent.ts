@@ -537,6 +537,86 @@ export function getGalleInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "is-surf-lesson-worth-it-galle":
+      return {
+        title: "Is a Beginner Surf Lesson Worth It near Galle?",
+        description: "An honest look at the beginner surf lesson at Dewata Beach in nearby Unawatuna.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-495467/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Dewata Beach in Unawatuna, a short drive from Galle Fort, has gentle, beginner-friendly waves — a good first surf lesson for travelers basing themselves in Galle.",
+            tourCard: { slug: "galle-beginner-surf-lesson-at-dewata-beach", title: "Galle: Beginner Surf Lesson at Dewata Beach, Unawatuna", description: "A beginner surf lesson at Dewata Beach, Unawatuna.", price: "From $43", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-495467/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No experience needed — this is a true beginner lesson on gentle waves, not for experienced surfers wanting a challenge." },
+        ],
+        faqs: [
+          { q: "Is this surf lesson suitable for complete beginners?", a: "Yes, Dewata Beach's gentle waves make it a good first-timer spot." },
+        ],
+      };
+
+    case "is-cooking-class-worth-it-galle":
+      return {
+        title: "Is a Cooking Class Worth It in Galle?",
+        description: "An honest look at Galle's cooking class at a local home, including a market tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-630952/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cooking at a local home rather than a commercial kitchen, paired with a market tour for context on fresh ingredients, makes this a more genuine cultural experience than a standard restaurant cooking demo.",
+            tourCard: { slug: "galle-cooking-class-at-a-local-home-and-market", title: "Galle: Cooking Class at a Local Home and Market Tour", description: "A cooking class at a local home with a market tour.", price: "From $68", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-630952/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good rainy-day or evening activity to pair with a day spent exploring Galle Fort." },
+        ],
+        faqs: [
+          { q: "Is a cooking class worth it in Galle?", a: "Yes, especially since it's held at a local home with a market visit, more genuine than a restaurant demo." },
+        ],
+      };
+
+    case "is-ceylon-gem-workshop-worth-it-galle":
+      return {
+        title: "Is the Ceylon Gem Workshop Worth It in Galle?",
+        description: "An honest look at Galle's Ceylon gem workshop, paired with a private Galle Fort tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1415468/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sri Lanka is known for Ceylon gemstones (sapphires especially) — this workshop teaches the basics of identifying and understanding them, paired with a private Galle Fort tour.",
+            tourCard: { slug: "galle-ceylon-gem-workshop-galle-fort-private-tour", title: "Galle: Ceylon Gem Workshop & Galle Fort Private Tour", description: "A Ceylon gem workshop combined with a private Galle Fort tour.", price: "From $25", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1415468/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good low-cost add-on to a Galle Fort day for anyone curious about Sri Lanka's gem trade, without the pressure of an actual purchase." },
+        ],
+        faqs: [
+          { q: "Is Sri Lanka known for gemstones?", a: "Yes, particularly Ceylon sapphires, and this workshop covers the basics of identifying them." },
+        ],
+      };
+
+    case "is-koggala-lake-tour-worth-it-galle":
+      return {
+        title: "Is the Koggala Lake & Turtles Tour Worth It from Galle?",
+        description: "An honest look at the Koggala Lake tour, combining stilt fishermen, turtles, and cinnamon islands with Galle Fort.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1439173/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Koggala Lake is a genuinely different side of the Galle area — a boat ride past cinnamon islands, stilt fishermen, and turtle sightings, paired here with the UNESCO-listed Galle Fort for a fuller day.",
+            tourCard: { slug: "from-galle-koggala-lake-turtles-unesco-galle-fort", title: "From Galle: Koggala Lake, Turtles & UNESCO Galle Fort Tour", description: "A tour of Koggala Lake and turtles combined with Galle Fort.", price: "From $84", duration: "9 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1439173/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Sri Lanka's iconic stilt fishermen are now mostly a posed photo opportunity for tips rather than active fishing — know this going in and tip fairly if you photograph them." },
+        ],
+        faqs: [
+          { q: "Are the stilt fishermen at Koggala Lake actually fishing?", a: "Mostly, they now pose for photos in exchange for tips rather than actively fishing, a shift from decades ago." },
+        ],
+      };
+
     default:
       return null;
   }

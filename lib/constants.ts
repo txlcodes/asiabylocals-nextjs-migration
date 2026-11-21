@@ -1247,7 +1247,9 @@ export const GALLE_INFO_SLUGS = [
   'galle-2-day-itinerary',
   'best-tours-in-galle',
   'should-i-book-galle-tour-direct-or-through-app',
-  'how-much-should-a-private-tour-guide-cost-in-galle'
+  'how-much-should-a-private-tour-guide-cost-in-galle',
+  'is-surf-lesson-worth-it-galle', 'is-cooking-class-worth-it-galle',
+  'is-ceylon-gem-workshop-worth-it-galle', 'is-koggala-lake-tour-worth-it-galle',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/negomboInfoContent.ts.
