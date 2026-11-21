@@ -617,6 +617,26 @@ export function getGalleInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-kayaking-village-tour-worth-it-galle":
+      return {
+        title: "Is the Private Kayaking Village Tour Worth It near Galle?",
+        description: "An honest look at the down-south private kayaking village tour near Galle, a genuinely active way to see rural coastal life distinct from Galle Fort's walking tours.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1381339/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kayaking through a quiet village waterway gives genuine access to rural coastal life that walking tours of Galle Fort can't reach, a more active, immersive way to spend a day in the south compared to the Fort's history-focused sightseeing.",
+            tourCard: { slug: "down-south-private-kayaking-village-galle-fort", title: "Down South: Private Kayaking Village & Galle Fort", description: "A private kayaking village tour combined with Galle Fort.", price: "From $272", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1381339/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior kayaking experience is needed, but bring sun protection since the paddling portion runs during daylight heat." },
+        ],
+        faqs: [
+          { q: "Is the kayaking village tour worth it near Galle?", a: "Yes, for a genuinely active, immersive look at rural coastal life, distinct from Galle Fort's history-focused walking tours." },
+        ],
+      };
+
     default:
       return null;
   }
