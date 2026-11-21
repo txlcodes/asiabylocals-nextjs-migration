@@ -272,6 +272,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'how-much-should-a-private-tour-guide-cost-in-doha',
     'is-quad-bike-worth-it-doha', 'is-luxury-yacht-cruise-worth-it-doha',
     'is-hot-air-balloon-worth-it-doha',
+    'is-al-thakira-mangrove-kayaking-worth-it-doha', 'is-al-khor-panda-house-worth-it-doha',
   ].map(slug => ({
     url: `${BASE_URL}/qatar/doha/${slug}`,
     lastModified: new Date(),

@@ -1270,6 +1270,48 @@ export function getQatarInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-al-thakira-mangrove-kayaking-worth-it-doha":
+      return {
+        title: "Is Al Thakira Mangrove Kayaking Worth It near Doha?",
+        description: "An honest look at the Al Thakira mangrove forest guided kayaking tour, a nature-focused activity distinct from Doha's desert safari and city sightseeing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4a8ee7ec24d6867c425e8460c35d072d3397db216fe49cff52dcac6eaf2a0f88.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Paddling through Al Thakira's mangrove forest, one of Qatar's few natural green spaces, is a genuinely different landscape from the desert dunes and city skyline most Doha tours focus on, a calm, nature-focused morning or afternoon.",
+            tourCard: { slug: "al-thakira-mangrove-forest-guided-kayaking-tour", title: "Al Thakira Mangrove Forest Guided Kayaking Tour", description: "A guided kayaking tour through Al Thakira's mangrove forest.", price: "From $195", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4a8ee7ec24d6867c425e8460c35d072d3397db216fe49cff52dcac6eaf2a0f88.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior kayaking experience is needed, and the calm, sheltered mangrove waters make this suitable for beginners.",
+          },
+        ],
+        faqs: [
+          { q: "Is Al Thakira mangrove kayaking worth it near Doha?", a: "Yes, for a genuinely different, calm nature landscape distinct from Qatar's desert and city sightseeing." },
+        ],
+      };
+
+    case "is-al-khor-panda-house-worth-it-doha":
+      return {
+        title: "Is the Al Khor Panda House Visit Worth It near Doha?",
+        description: "An honest look at the Al Khor Panda House visit with transportation, a family-friendly wildlife activity distinct from Doha's desert safari and museum sightseeing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1ac6d4248fe8f42f76abea4250f15f33c964686b9703c90233a6d31af8e18e98.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Al Khor Panda House gives families a chance to see giant pandas, a genuinely unexpected wildlife attraction in the Gulf and a nice change of pace from Doha's desert safaris and art museums, especially for travelers with kids.",
+            tourCard: { slug: "al-khor-panda-house-visit-with-transportation", title: "Al Khor Panda House Visit with Transportation", description: "A visit to the Al Khor Panda House with transportation included.", price: "From $208", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1ac6d4248fe8f42f76abea4250f15f33c964686b9703c90233a6d31af8e18e98.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a good family activity to break up a trip otherwise focused on desert safaris and museum visits.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Al Khor Panda House worth it near Doha?", a: "Yes, especially for families — a genuinely unexpected wildlife attraction and a nice change of pace from desert and museum sightseeing." },
+        ],
+      };
+
     default:
       return null;
   }
