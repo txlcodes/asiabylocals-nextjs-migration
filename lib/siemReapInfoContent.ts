@@ -1633,6 +1633,42 @@ export function getSiemReapInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-apopo-visitor-center-worth-it-siem-reap":
+            return {
+                title: "Is the APOPO Visitor Center Worth It in Siem Reap?",
+                seoTitle: "Siem Reap APOPO Visitor Center 2026 | Honest Review",
+                description: "An honest look at the APOPO Visitor Center combined with a Kampong Phluk village experience, a genuinely unique landmine-detection project distinct from temple sightseeing.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/apopo-visitor-center-and-kampong-phluk-village-experience/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "APOPO's visitor center showcases trained 'hero rats' that detect landmines left from Cambodia's conflict era, a genuinely unique and educational stop, paired here with the Kampong Phluk floating village for a fuller half-day beyond the temple circuit.", tourCard: { slug: "apopo-visitor-center-and-kampong-phluk-village-exp", title: "APOPO Visitor Center and Kampong Phluk Village Experience", description: "A visit to the APOPO landmine-detection center combined with a floating village experience.", price: "From $85", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/apopo-visitor-center-and-kampong-phluk-village-experience/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This is a genuinely moving, educational stop about Cambodia's recent history — a good contrast to the ancient-history focus of the Angkor temples." }
+                ],
+                faqs: [
+                    { q: "Is the APOPO Visitor Center worth it in Siem Reap?", a: "Yes, for a genuinely unique and educational look at landmine-detection work, distinct from the ancient-temple sightseeing most visitors focus on." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the APOPO Visitor Center worth it in Siem Reap?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely unique and educational experience about landmine detection." } }
+                ] },
+            };
+
+        case "is-local-market-khmer-life-tour-worth-it-siem-reap":
+            return {
+                title: "Is the Local Market and Khmer Life Walking Tour Worth It in Siem Reap?",
+                seoTitle: "Siem Reap Local Market Tour 2026 | Honest Review",
+                description: "An honest look at Siem Reap's local market and Khmer life walking tour, a short, affordable glimpse of daily life distinct from the temple circuit.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-hour-local-market-and-khmer-life-walking-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This two-hour walk through a local market gives a genuine, unpolished look at everyday Khmer life, a nice change of pace from the ancient-monument focus of Angkor's temples.", tourCard: { slug: "2-hour-local-market-and-khmer-life-walking-tour", title: "2-Hour Local Market and Khmer Life Walking Tour", description: "A two-hour guided walking tour of a local market and everyday Khmer life.", price: "From $35", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/2-hour-local-market-and-khmer-life-walking-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good short add-on either early morning or late afternoon, since markets are liveliest outside the midday heat." }
+                ],
+                faqs: [
+                    { q: "Is the local market and Khmer life tour worth it in Siem Reap?", a: "Yes, for a genuine, unpolished look at everyday local life, a nice change of pace from temple sightseeing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the local market tour worth it in Siem Reap?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine look at everyday Khmer life." } }
+                ] },
+            };
+
         default:
             return null;
     }

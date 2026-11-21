@@ -1134,6 +1134,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-angkor-wat-sunrise-tour', 'best-floating-village-tour-siem-reap',
     'is-apsara-dance-show-worth-it-siem-reap', 'is-quad-bike-tour-worth-it-siem-reap',
     'is-cooking-class-worth-it-siem-reap', 'is-silk-farm-tour-worth-it-siem-reap',
+    'is-apopo-visitor-center-worth-it-siem-reap', 'is-local-market-khmer-life-tour-worth-it-siem-reap',
   ].map(slug => ({
     url: `${BASE_URL}/cambodia/siem-reap/${slug}`,
     lastModified: new Date(),
