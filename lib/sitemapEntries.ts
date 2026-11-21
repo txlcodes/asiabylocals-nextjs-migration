@@ -739,6 +739,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   const nizwaInfoPages = mapInfoSlugs([
     'best-nizwa-day-trip-nizwa', 'best-jebel-akhdar-tour-nizwa',
     'nizwa-travel-guide-2026',
+    'is-cultural-cart-tour-worth-it-nizwa',
   ], 'oman', 'nizwa');
 
   const borjomiInfoPages = mapInfoSlugs([

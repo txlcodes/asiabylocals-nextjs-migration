@@ -922,6 +922,24 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-cultural-cart-tour-worth-it-nizwa":
+            return {
+                title: "Is the Al Aqur Cultural Cart Tour Worth It near Nizwa?",
+                seoTitle: "Nizwa Cultural Cart Tour 2026 | Honest Review",
+                description: "An honest look at the Al Aqur village cultural cart tour near Nizwa, a short, inexpensive add-on rather than a standalone excursion.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3282318fefdc5713fd1643de4c3f98eebef6d4d8fdac7aa5c01ba7758b626a03.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This short cart ride through Al Aqur village in the Jebel Akhdar highlands gives a slow, local-life glimpse of mountain village terraces at a low price, best treated as a quick add-on to a Jebel Akhdar day trip rather than a destination in itself.", tourCard: { slug: "nizwa-alaqur-cultural-cart-tour", title: "Nizwa: Al Aqur Cultural Cart Tour", description: "A short cultural cart ride through Al Aqur village in the Jebel Akhdar highlands.", price: "From $25", duration: "35 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3282318fefdc5713fd1643de4c3f98eebef6d4d8fdac7aa5c01ba7758b626a03.jpg" } },
+                    { title: "Practical Tips", content: "Pair this with a broader Jebel Akhdar mountain tour the same day, since 35 minutes alone doesn't justify the trip up to the plateau." }
+                ],
+                faqs: [
+                    { q: "Is the Al Aqur cultural cart tour worth it near Nizwa?", a: "Yes, as a quick, inexpensive add-on to a Jebel Akhdar day trip, but not worth a dedicated trip on its own." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Al Aqur cultural cart tour worth it near Nizwa?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a quick add-on to a Jebel Akhdar day trip." } }
+                ] },
+            };
+
         default:
             return null;
     }

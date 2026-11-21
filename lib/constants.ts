@@ -677,6 +677,7 @@ export const KHASAB_INFO_SLUGS = [
 export const NIZWA_INFO_SLUGS = [
   'best-nizwa-day-trip-nizwa', 'best-jebel-akhdar-tour-nizwa',
   'nizwa-travel-guide-2026',
+  'is-cultural-cart-tour-worth-it-nizwa',
 ];
 
 export const SHYMKENT_INFO_SLUGS = [
