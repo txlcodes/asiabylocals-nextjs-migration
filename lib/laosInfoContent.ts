@@ -1319,6 +1319,24 @@ export function getLaosInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-temple-bamboo-spiritual-tour-worth-it-vientiane":
+            return {
+                title: "Is the Temple & Bamboo Spiritual Tour Worth It in Vientiane?",
+                seoTitle: "Vientiane Temple Bamboo Tour 2026 | Honest Review",
+                description: "An honest look at Vientiane's temple and bamboo spiritual tour, a short, inexpensive cultural stop distinct from the city's Patuxay and That Luang landmark circuit.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/382e753c15df86e342b288c869fd840456588e61f8bb8bb581635158bc23b559.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This short tour pairs a temple visit with a walk across a traditional bamboo bridge, a quieter, more local-paced activity than the Patuxay-and-That-Luang landmark circuit most visitors stick to.", tourCard: { slug: "temple-bamboo-spiritual-tour", title: "Temple & Bamboo Spiritual Tour", description: "A short temple visit combined with a traditional bamboo bridge walk.", price: "From $12", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/382e753c15df86e342b288c869fd840456588e61f8bb8bb581635158bc23b559.jpg" } },
+                    { title: "Practical Tips", content: "This is a short, inexpensive stop, well suited as an add-on to another half-day activity rather than the day's main plan." },
+                ],
+                faqs: [
+                    { q: "Is the Temple & Bamboo Spiritual Tour worth it in Vientiane?", a: "Yes, as a quiet, inexpensive add-on offering a more local pace than the main landmark circuit." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Temple & Bamboo Spiritual Tour worth it in Vientiane?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a quiet, inexpensive add-on activity." } },
+                ] },
+            };
+
         default:
             return null;
     }
