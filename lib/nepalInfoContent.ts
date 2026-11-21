@@ -1616,6 +1616,25 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "best-chitwan-jungle-safari-tour-pokhara":
+            return {
+                title: "Best Chitwan Jungle Safari Tour from Pokhara",
+                seoTitle: "Pokhara to Chitwan Jungle Safari 2026 | Best Tours",
+                description: "An honest look at Chitwan National Park jungle safari packages departing from Pokhara, a multi-day add-on distinct from the city's lake and mountain activities.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5ec4c0bae6df052a83a4e3e725e4356d952d7e04e909b3b3c3e04e20787f95bb.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Chitwan National Park is a multi-day jungle safari add-on, not a day trip, with rhino, elephant, and possibly tiger sightings on jeep or canoe safaris — a genuinely different landscape from Pokhara's lake and mountain scenery.", tourCard: { slug: "chitwan-national-park-2-night-3-days-jungle-safari", title: "Chitwan National Park: 2 Night 3 Days Jungle Safari", description: "A 3-day jungle safari package to Chitwan National Park from Pokhara.", price: "From $241", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5ec4c0bae6df052a83a4e3e725e4356d952d7e04e909b3b3c3e04e20787f95bb.jpeg" } },
+                    { title: "Practical Tips", content: "Pack layers for jeep safaris, which run early morning and evening when wildlife is most active." }
+                ],
+                faqs: [
+                    { q: "Is Chitwan worth visiting from Pokhara?", a: "Yes, for a genuinely different jungle and wildlife experience from Pokhara's lake and mountain scenery, though it requires a multi-day commitment." },
+                    { q: "How long is the Chitwan safari from Pokhara?", a: "This package runs 2 nights and 3 days, including jeep and canoe safaris inside the park." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Chitwan worth visiting from Pokhara?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a different jungle and wildlife experience from Pokhara's lake and mountain scenery." } }
+                ] },
+            };
+
         case "is-horseback-riding-worth-it-pokhara":
             return {
                 title: "Is Horseback Riding Worth It in Pokhara?",

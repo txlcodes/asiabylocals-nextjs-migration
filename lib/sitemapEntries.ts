@@ -756,7 +756,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-pokhara', 'pokhara-1-day-itinerary',
     'pokhara-vs-kathmandu-guide',
     'is-suspension-bridge-tour-worth-it-pokhara', 'is-atv-tour-worth-it-pokhara',
-    'is-horseback-riding-worth-it-pokhara',
+    'is-horseback-riding-worth-it-pokhara', 'best-chitwan-jungle-safari-tour-pokhara',
   ], 'nepal', 'pokhara');
 
   const batumiInfoPages = mapInfoSlugs([
