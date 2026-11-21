@@ -1574,6 +1574,24 @@ export function getSaudiArabiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-floating-mosque-al-balad-tour-worth-it-jeddah":
+            return {
+                title: "Is the Floating Mosque and Al-Balad Tour Worth It in Jeddah?",
+                seoTitle: "Jeddah Floating Mosque Tour 2026 | Honest Review",
+                description: "An honest look at Jeddah's floating mosque and UNESCO-listed Al-Balad tour, combining a striking Red Sea landmark with the city's historic district.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7d99b7a2f578cf7662987f7bfc4fb216ead1be52a9575810e50e9052c1ed2ae3.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "The Floating Mosque sits right at the edge of the Red Sea, appearing to float above the water at high tide, a striking architectural sight paired here with Al-Balad's UNESCO-listed historic coral-stone architecture for a fuller half-day of Jeddah's distinct landmarks.", tourCard: { slug: "jeddah-floating-mosque-unesco-listed-al-balad-tour", title: "Jeddah: Floating Mosque & UNESCO-Listed Al-Balad Tour", description: "A tour combining Jeddah's Floating Mosque with the UNESCO-listed Al-Balad district.", price: "From $249", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7d99b7a2f578cf7662987f7bfc4fb216ead1be52a9575810e50e9052c1ed2ae3.jpeg" } },
+                    { title: "Practical Tips", content: "Visit the Floating Mosque near high tide for the best effect, since the 'floating' illusion is strongest when water surrounds the structure." },
+                ],
+                faqs: [
+                    { q: "Is the Floating Mosque and Al-Balad tour worth it in Jeddah?", a: "Yes, for a striking architectural landmark paired with the city's UNESCO-listed historic district in one half-day." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Floating Mosque tour worth it in Jeddah?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a striking landmark paired with the historic Al-Balad district." } },
+                ] },
+            };
+
         case "is-paragliding-buggy-adventure-worth-it-riyadh":
             return {
                 title: "Is the Paragliding and Buggy Sand Dunes Adventure Worth It in Riyadh?",

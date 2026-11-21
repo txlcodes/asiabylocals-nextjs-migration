@@ -566,6 +566,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'jeddah-dress-code-guide', 'jeddah-food-guide',
     'is-jet-car-ride-worth-it-jeddah',
     'is-scuba-certification-course-worth-it-jeddah', 'is-local-woman-guided-tour-worth-it-jeddah',
+    'is-floating-mosque-al-balad-tour-worth-it-jeddah',
   ], 'saudi-arabia', 'jeddah');
   const alulaInfoPages = mapInfoSlugs([
     'best-hegra-tour-alula', 'best-dadan-jabal-ikmah-tour-alula',
