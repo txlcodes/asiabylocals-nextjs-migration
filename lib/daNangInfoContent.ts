@@ -577,6 +577,49 @@ export function getDaNangInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-son-tra-wildlife-tour-worth-it-da-nang":
+      return {
+        title: "Is the Son Tra Wildlife Experience Worth It in Da Nang?",
+        description: "An honest look at Son Tra Peninsula's wildlife-focused tour, home to the endangered red-shanked douc langur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/son-tra-wildlife-experience-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Son Tra Peninsula is home to the endangered red-shanked douc langur, found almost nowhere else — this wildlife-focused tour goes beyond the standard Lady Buddha photo stop most Son Tra visits are limited to.",
+            tourCard: { slug: "son-tra-wildlife-experience-in-da-nang", title: "Son Tra Wildlife Experience in Da Nang", description: "A wildlife-focused experience on Son Tra Peninsula.", price: "From $90", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/son-tra-wildlife-experience-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Early morning is the best time for wildlife sightings, when the langurs are most active before the day heats up.",
+          },
+        ],
+        faqs: [
+          { q: "What is the red-shanked douc langur?", a: "An endangered primate species found on Son Tra Peninsula, rare almost everywhere else." },
+          { q: "Is the Son Tra wildlife tour worth it?", a: "Yes, for travelers who want more than the standard Lady Buddha photo stop." },
+        ],
+      };
+
+    case "is-vietnamese-cooking-class-worth-it-da-nang":
+      return {
+        title: "Is a Vietnamese Cooking Class Worth It in Da Nang?",
+        description: "An honest look at Da Nang's hands-on Vietnamese cooking class, including transportation.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201381/asiabylocals/tours/vietnamese-cooking-class-with-transportation-in-da-nang/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This hands-on cooking class teaches classic Vietnamese dishes with transportation included, a good lower-key cultural activity to pair with a day of beach or mountain sightseeing.",
+            tourCard: { slug: "vietnamese-cooking-class-with-transportation-in-da-nang", title: "Vietnamese Cooking Class with Transportation in Da Nang", description: "A hands-on Vietnamese cooking class with transportation included.", price: "From $60", duration: "3 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201381/asiabylocals/tours/vietnamese-cooking-class-with-transportation-in-da-nang/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Market visits are often included before the cooking session — ask your operator if a market stop is part of the format you book.",
+          },
+        ],
+        faqs: [
+          { q: "Is a Vietnamese cooking class worth it in Da Nang?", a: "Yes, as a relaxed cultural activity to pair with beach or mountain sightseeing days." },
+        ],
+      };
+
     default:
       return null;
   }

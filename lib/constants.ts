@@ -1933,6 +1933,7 @@ export const DA_NANG_INFO_SLUGS = [
   'da-nang-beaches-and-water-sports',
   'hue-day-trip-from-da-nang',
   'da-nang-2-day-itinerary',
+  'is-son-tra-wildlife-tour-worth-it-da-nang', 'is-vietnamese-cooking-class-worth-it-da-nang',
 ];
 
 export const HO_CHI_MINH_CITY_INFO_SLUGS = [
