@@ -966,6 +966,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-bohol-firefly-watching-worth-it-cebu', 'is-bohol-balicasag-dolphin-tour-worth-it-cebu',
     'is-anjo-world-snow-world-worth-it-cebu',
     'is-temple-of-leah-tour-worth-it-cebu', 'is-tops-sunset-tour-worth-it-cebu',
+    'is-oslob-whale-shark-watching-worth-it-cebu', 'is-kawasan-falls-canyoneering-worth-it-cebu',
+    'is-moalboal-sardine-run-worth-it-cebu', 'is-chocolate-hills-loboc-river-tour-worth-it-cebu',
+    'is-bantayan-island-tour-worth-it-cebu', 'is-cebu-city-heritage-tour-worth-it',
   ].map(slug => ({
     url: `${BASE_URL}/philippines/cebu/${slug}`,
     lastModified: new Date(),

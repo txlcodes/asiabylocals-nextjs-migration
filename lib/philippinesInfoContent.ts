@@ -1446,6 +1446,132 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-oslob-whale-shark-watching-worth-it-cebu":
+      return {
+        title: "Is Oslob Whale Shark Watching Worth It in Cebu?",
+        description: "An honest look at Oslob's whale shark watching experience, one of the most famous and most debated wildlife activities in the Philippines.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2b261bd6a953a7a10df09c7306176b5c5f0ad9226a690b3b1f6bdfbd3927059b.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Oslob offers one of the most reliable whale shark encounters anywhere in the world, but it's also one of the Philippines' most debated wildlife activities, since the sharks are fed to keep them near the boats — a genuinely different, hand-fed encounter than a wild open-water sighting elsewhere.",
+            tourCard: { slug: "cebu-oslob-whale-shark-watching", title: "Cebu: Oslob Whale Shark Watching", description: "A whale shark watching experience at Oslob, Cebu.", price: "From $76", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2b261bd6a953a7a10df09c7306176b5c5f0ad9226a690b3b1f6bdfbd3927059b.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If the feeding practice is a concern for you, research the specific operator's approach beforehand, and choose a reef-safe sunscreen given how close you'll be to the animals.",
+          },
+        ],
+        faqs: [
+          { q: "Is Oslob whale shark watching ethical?", a: "It's genuinely debated — the sharks are fed to stay near the boats, which gives a near-guaranteed sighting but differs from an unmanaged wild encounter. Research your specific operator's practices if this matters to you." },
+        ],
+      };
+
+    case "is-kawasan-falls-canyoneering-worth-it-cebu":
+      return {
+        title: "Is Kawasan Falls Canyoneering Worth It in Cebu?",
+        description: "An honest look at Kawasan Falls canyoneering, Cebu's signature adventure activity combining cliff jumps, rock slides, and waterfall swims.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cd8e3140114f49fa86e699f37cb201537ea8fc6fa906e1e35965e406cec2c41e.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Canyoneering down the river toward Kawasan Falls means cliff jumping, natural rock slides, and swimming through turquoise pools along the way, making it a genuinely active adventure activity rather than a passive waterfall photo stop.",
+            tourCard: { slug: "cebu-half-day-kawasan-falls-canyoneering", title: "Cebu: Half-Day Kawasan Falls Canyoneering", description: "A half-day canyoneering adventure down to Kawasan Falls.", price: "From $78", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cd8e3140114f49fa86e699f37cb201537ea8fc6fa906e1e35965e406cec2c41e.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This involves genuine cliff jumps and swimming, so come with reasonable swimming confidence and secure footwear that can get wet." ,
+          },
+        ],
+        faqs: [
+          { q: "Is Kawasan Falls canyoneering worth it?", a: "Yes, for a genuinely active adventure with cliff jumps and rock slides, distinct from a passive waterfall sightseeing stop." },
+        ],
+      };
+
+    case "is-moalboal-sardine-run-worth-it-cebu":
+      return {
+        title: "Is the Moalboal Sardine Run Worth It in Cebu?",
+        description: "An honest look at Moalboal's sardine run snorkeling tour, swimming alongside a massive, dense school of sardines just offshore.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/55db645f040ff746270d7c64dc5819531912bf1e39314acdab41317e9fe5c2cd.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Moalboal's sardine run is a massive, dense school of millions of sardines that stays close to shore year-round, giving a genuinely dramatic snorkeling experience that doesn't require a boat ride far offshore or scuba certification.",
+            tourCard: { slug: "moalboal-island-snorkeling-tour-with-sardine-run", title: "Moalboal: Island Snorkeling Tour with Sardine Run", description: "A snorkeling tour to see Moalboal's famous sardine run.", price: "From $30", duration: "45 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/55db645f040ff746270d7c64dc5819531912bf1e39314acdab41317e9fe5c2cd.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The sardine shoal stays close to shore, so this is an easy, low-cost activity to pair with other Moalboal stops like Kawasan Falls on the same day." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the Moalboal sardine run worth it?", a: "Yes, for a genuinely dramatic close-to-shore snorkeling experience that needs no scuba certification or long boat ride." },
+        ],
+      };
+
+    case "is-chocolate-hills-loboc-river-tour-worth-it-cebu":
+      return {
+        title: "Is the Bohol Chocolate Hills and Loboc River Tour Worth It?",
+        description: "An honest look at the guided Chocolate Hills and tarsier tour from Cebu, reaching Bohol's most iconic landscape and its tiny endangered primates.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5fdd421b7f2adabc96a5becdc391f3c5c7757229606cac1b9c5b899482c2a4e8.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Chocolate Hills are Bohol's single most iconic landscape, hundreds of symmetrical grass-covered mounds turning brown in the dry season, and this tour usually pairs them with a stop to see the tiny, endangered tarsier primates and often a Loboc River lunch cruise.",
+            tourCard: { slug: "bohol-guided-chocolate-hills-tarsiers-tour", title: "Bohol: Guided Chocolate Hills & Tarsiers Tour", description: "A guided tour to the Chocolate Hills and a tarsier sanctuary in Bohol.", price: "From $51", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5fdd421b7f2adabc96a5becdc391f3c5c7757229606cac1b9c5b899482c2a4e8.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The Chocolate Hills look most dramatic in the dry season when the grass actually turns brown — in the wet season they stay green." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the Chocolate Hills tour worth it from Cebu?", a: "Yes, it's Bohol's single most iconic landscape, and pairing it with tarsier viewing and a river lunch cruise makes for a well-rounded day." },
+        ],
+      };
+
+    case "is-bantayan-island-tour-worth-it-cebu":
+      return {
+        title: "Is the Bantayan Island Tour Worth It from Cebu?",
+        description: "An honest look at the Bantayan Island hopping tour, a quieter beach escape in northern Cebu compared to the busier south coast attractions.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fea3b900e5a72cbd71d7e160a34d0958d4e20cf5576b0861e74c8e69781b6e9d.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bantayan Island sits off Cebu's northern tip, genuinely quieter than the Oslob-Moalboal-Kawasan circuit in the south, with white-sand beaches and a handful of small islands reachable on this half-day hopping tour.",
+            tourCard: { slug: "bantayan-island-half-day-3-stop-island-hopping", title: "Bantayan Island: Half-Day 3-Stop Island Hopping", description: "A half-day island-hopping tour around Bantayan Island.", price: "From $150", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fea3b900e5a72cbd71d7e160a34d0958d4e20cf5576b0861e74c8e69781b6e9d.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for travelers who've already done the busier southern Cebu circuit and want a quieter beach day instead." ,
+          },
+        ],
+        faqs: [
+          { q: "Is Bantayan Island worth visiting from Cebu?", a: "Yes, for genuinely quieter beaches than the busier Oslob-Moalboal-Kawasan circuit in southern Cebu." },
+        ],
+      };
+
+    case "is-cebu-city-heritage-tour-worth-it":
+      return {
+        title: "Is the Cebu City Heritage Tour Worth It?",
+        description: "An honest look at the Cebu City heritage tour, covering the country's oldest Spanish colonial sites including Magellan's Cross and Fort San Pedro.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a668889575946a22836d0c52ad223549c5fd1af36aa78cc44ab4d646d052961e.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cebu City holds some of the Philippines' oldest Spanish colonial sites, including Magellan's Cross and Fort San Pedro, a genuine history lesson to pair with the more common island-hopping and canyoneering activities that dominate most Cebu itineraries.",
+            tourCard: { slug: "cebu-1-cebu-city-heritage-tour-w-hillyland", title: "Cebu: City Heritage Tour with Hillyland", description: "A guided heritage tour of Cebu City's Spanish colonial sites.", price: "From $78", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a668889575946a22836d0c52ad223549c5fd1af36aa78cc44ab4d646d052961e.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good first-day activity before heading out to the island-hopping and canyoneering circuit that takes up most of a typical Cebu trip." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the Cebu City heritage tour worth it?", a: "Yes, for a genuine history lesson at some of the Philippines' oldest Spanish colonial sites, a good complement to Cebu's usual adventure activities." },
+        ],
+      };
+
     default:
       return null;
   }
