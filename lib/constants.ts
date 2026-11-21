@@ -293,6 +293,10 @@ export const KATHMANDU_INFO_SLUGS = [
   'is-bardiya-tiger-safari-worth-it-kathmandu', 'is-chandragiri-cable-car-worth-it-kathmandu',
   'is-newari-cooking-class-worth-it-kathmandu', 'is-ayurveda-retreat-worth-it-kathmandu',
   'is-yoga-teacher-training-worth-it-kathmandu',
+  'is-everest-base-camp-trek-worth-it-kathmandu', 'is-everest-helicopter-tour-worth-it-kathmandu',
+  'is-manaslu-circuit-trek-worth-it-kathmandu', 'is-upper-mustang-trek-worth-it-kathmandu',
+  'is-mount-kailash-kora-worth-it-kathmandu', 'is-rickshaw-tour-worth-it-kathmandu',
+  'is-rafting-safari-trek-worth-it-kathmandu',
 ];
 
 // Georgia launched 2026-11-16 with 1,024 live tours and zero authority pages.

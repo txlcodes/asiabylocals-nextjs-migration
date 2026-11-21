@@ -1908,6 +1908,132 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-everest-base-camp-trek-worth-it-kathmandu":
+            return {
+                title: "Is the Everest Base Camp Trek Worth It?",
+                seoTitle: "Everest Base Camp Trek 2026 | Honest Review",
+                description: "An honest look at the 12-day Everest Base Camp trek, Nepal's most famous multi-day trekking route.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6c58aefe7a331381acdde8238ce9519703ff7ede87eda756ab0b592cc9591a25.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Everest Base Camp is Nepal's single most famous trek, reaching 5,364 metres over 12 days with a Lukla flight, guide, porter support and teahouse lodging arranged, and it remains significantly harder and higher than Annapurna Base Camp.", tourCard: { slug: "everest-base-camp-trek-12-days", title: "Everest Base Camp Trek, 12 Days", description: "A 12-day guided trek to Everest Base Camp with Lukla flights.", price: "From $2145", duration: "12 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6c58aefe7a331381acdde8238ce9519703ff7ede87eda756ab0b592cc9591a25.jpg" } },
+                    { title: "Practical Tips", content: "Lukla flights are notoriously weather-dependent and get delayed or cancelled often; build a buffer day or two into your onward travel plans." }
+                ],
+                faqs: [
+                    { q: "How hard is the Everest Base Camp trek?", a: "Significantly harder and higher than Annapurna Base Camp, reaching 5,364 metres, with altitude acclimatisation the main challenge rather than technical difficulty." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Everest Base Camp trek worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for Nepal's most iconic trekking route, though it's a serious altitude commitment over Annapurna Base Camp." } }
+                ] },
+            };
+
+        case "is-everest-helicopter-tour-worth-it-kathmandu":
+            return {
+                title: "Is the Everest Base Camp Helicopter Tour Worth It?",
+                seoTitle: "Everest Helicopter Tour 2026 | Honest Review",
+                description: "An honest look at the Everest Base Camp helicopter landing tour, which covers the same destination as the 12-day trek in a single day.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1c0411a06e69abe67fad32d57e31265b8ab4a1c3599977f1593367228843b1f.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour flies directly to Everest Base Camp and lands, covering in about 5 hours what the trek takes 12 days to reach on foot — the real trade is money and altitude-landing risk against the physical trek itself, not the views, since both reach the same spot.", tourCard: { slug: "everest-base-camp-helicopter-tour-with-landing", title: "Everest Base Camp Helicopter Tour with Landing", description: "A helicopter tour to Everest Base Camp with a landing included.", price: "From $2047", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1c0411a06e69abe67fad32d57e31265b8ab4a1c3599977f1593367228843b1f.jpeg" } },
+                    { title: "Practical Tips", content: "Worth it specifically for travellers short on time or unable to trek for physical reasons — it is not a budget alternative to the trek, it costs close to the same." }
+                ],
+                faqs: [
+                    { q: "Is the helicopter tour cheaper than the Everest Base Camp trek?", a: "Not really — it costs close to the full trek price, with the real trade being time (5 hours vs 12 days) rather than cost." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Everest helicopter tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, specifically for travellers short on time or unable to trek, since it reaches the same base camp in a single day." } }
+                ] },
+            };
+
+        case "is-manaslu-circuit-trek-worth-it-kathmandu":
+            return {
+                title: "Is the Manaslu Circuit Trek Worth It?",
+                seoTitle: "Manaslu Circuit Trek 2026 | Honest Review",
+                description: "An honest look at the 13-day Manaslu Circuit trek, a restricted-area route around the world's eighth-highest mountain with far fewer trekkers than Everest or Annapurna.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a7921c04250757b8618d701c8db03f2e25db7cc64ced99f2d21967101e4e6b8f.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Manaslu requires a restricted-area permit and a minimum group size, which keeps trekker numbers far below Everest or Annapurna, and the 13-day circuit around the world's eighth-highest mountain rewards that extra paperwork with noticeably quieter trails.", tourCard: { slug: "from-kathmandu-13-day-manaslu-circuit-trek", title: "From Kathmandu: 13-Day Manaslu Circuit Trek", description: "A 13-day guided trek around the Manaslu Circuit with permits included.", price: "From $1820", duration: "13 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a7921c04250757b8618d701c8db03f2e25db7cc64ced99f2d21967101e4e6b8f.jpg" } },
+                    { title: "Practical Tips", content: "Restricted-area permits mean you can't trek Manaslu solo or last-minute — book through an operator who handles the paperwork well in advance." }
+                ],
+                faqs: [
+                    { q: "Is Manaslu less crowded than Everest or Annapurna?", a: "Yes, noticeably — the restricted-area permit requirement keeps numbers down, at the cost of needing to book further ahead." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Manaslu Circuit trek worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a major Himalayan circuit with far fewer trekkers than Everest or Annapurna." } }
+                ] },
+            };
+
+        case "is-upper-mustang-trek-worth-it-kathmandu":
+            return {
+                title: "Is the Upper Mustang Trek Worth It?",
+                seoTitle: "Upper Mustang Trek 2026 | Honest Review",
+                description: "An honest look at the 12-day semi-guided Upper Mustang trek, a restricted, high-desert region culturally closer to Tibet than the rest of Nepal.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4205c964c3b3134018a5dd68b51aa54c866dc65b3c4c2256a8e7c9e74d5d2235.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Upper Mustang's high-altitude desert landscape and Tibetan Buddhist culture look nothing like the lush trails of Annapurna or Everest, and the special restricted-area permit required keeps this trek genuinely off the main circuit.", tourCard: { slug: "from-kathmandu-12-day-upper-mustang-semi-guided", title: "From Kathmandu: 12-Day Upper Mustang Semi-Guided Trek", description: "A 12-day semi-guided trek through the restricted Upper Mustang region.", price: "From $2854", duration: "10 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4205c964c3b3134018a5dd68b51aa54c866dc65b3c4c2256a8e7c9e74d5d2235.jpeg" } },
+                    { title: "Practical Tips", content: "The landscape and culture here are closer to Tibet than typical Nepal — go in expecting high desert, not green mountain trails." }
+                ],
+                faqs: [
+                    { q: "Is Upper Mustang different from other Nepal treks?", a: "Yes, it's a high-altitude desert landscape with Tibetan Buddhist culture, a genuinely different experience from the greener Everest or Annapurna trails." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Upper Mustang trek worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different high-desert, Tibetan-influenced landscape unlike the rest of Nepal's trekking routes." } }
+                ] },
+            };
+
+        case "is-mount-kailash-kora-worth-it-kathmandu":
+            return {
+                title: "Is the Mount Kailash Kora Worth It from Kathmandu?",
+                seoTitle: "Mount Kailash Kora 2026 | Honest Review",
+                description: "An honest look at the 11-day Mount Kailash Kora, a major Tibetan Buddhist and Hindu pilgrimage circuit reached from Kathmandu via Tibet.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b5bb4e4b9065cf94ad0fcfe9252369773e00171cfb8b0e015aa6d35c3a620ede.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Mount Kailash is sacred to Hindus, Buddhists, Jains and followers of Bon, and the kora, a circumambulation of the mountain, is a major pilgrimage undertaking rather than a scenic trek — this 11-day package handles the Tibet border crossing and permits that make the trip logistically complex to arrange independently.", tourCard: { slug: "from-kathmandu-11-day-mount-kailash-kora", title: "From Kathmandu: 11-Day Mount Kailash Kora", description: "An 11-day Mount Kailash Kora pilgrimage tour from Kathmandu via Tibet.", price: "From $4290", duration: "11 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b5bb4e4b9065cf94ad0fcfe9252369773e00171cfb8b0e015aa6d35c3a620ede.jpg" } },
+                    { title: "Practical Tips", content: "This crosses into Tibet (China), so passport and visa/permit requirements are more involved than a standard Nepal trek — confirm your documentation well ahead." }
+                ],
+                faqs: [
+                    { q: "Why is the Mount Kailash Kora so much more expensive than other Nepal treks?", a: "It crosses into Tibet and requires Chinese permits and a border crossing, which adds significant logistics and cost compared to a trek that stays within Nepal." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Mount Kailash Kora worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travellers with a genuine pilgrimage or cultural interest in Mount Kailash, though the Tibet crossing adds real cost and paperwork." } }
+                ] },
+            };
+
+        case "is-rickshaw-tour-worth-it-kathmandu":
+            return {
+                title: "Is the Kathmandu Rickshaw Tour Worth It?",
+                seoTitle: "Kathmandu Rickshaw Tour 2026 | Honest Review",
+                description: "An honest look at exploring Kathmandu by cycle rickshaw, a slower, more street-level way to see the old city than walking or driving.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/de06223c3c275ad1ff39d80915df605a8e2b51daf569006bd57cb8216d2c7d77.png",
+                sections: [
+                    { title: "The Short Answer", content: "A cycle rickshaw moves slowly enough through Kathmandu's narrow old-city lanes to actually take in the street life, which a car can't reach and walking covers too slowly to see much ground, making it a genuinely different way to experience the city centre.", tourCard: { slug: "exploring-kathmandu-by-rickshaw", title: "Exploring Kathmandu by Rickshaw", description: "A guided cycle rickshaw tour through Kathmandu's old city.", price: "From $177", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/de06223c3c275ad1ff39d80915df605a8e2b51daf569006bd57cb8216d2c7d77.png" } },
+                    { title: "Practical Tips", content: "Best for a slower-paced first morning in the city before tackling the bigger heritage sites on foot." }
+                ],
+                faqs: [
+                    { q: "Is a rickshaw tour a good way to see Kathmandu?", a: "Yes, for the narrow old-city lanes a car can't reach, covering more ground than walking while staying at street level." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Kathmandu rickshaw tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a street-level view of the old city's narrow lanes that a car tour can't reach." } }
+                ] },
+            };
+
+        case "is-rafting-safari-trek-worth-it-kathmandu":
+            return {
+                title: "Is the Nepal Rafting, Safari and Trek Combo Worth It?",
+                seoTitle: "Nepal Rafting Safari Trek Combo 2026 | Honest Review",
+                description: "An honest look at the 10-day Nepal rafting, safari and trek combination tour, which packages three genuinely different activity types into one trip.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/732814a3a426ea66de29e8734e2f4231846ac0f89e50df6e65d6b0e589d67e36.png",
+                sections: [
+                    { title: "The Short Answer", content: "Rather than committing a full trip to one activity, this 10-day itinerary combines whitewater rafting, a wildlife safari, and a trek section, which suits first-time visitors who want a sample of Nepal's range rather than specialising in one.", tourCard: { slug: "from-kathmandu-10-day-nepal-rafting-safari-trek", title: "From Kathmandu: 10-Day Nepal Rafting, Safari & Trek", description: "A 10-day combination tour covering rafting, a wildlife safari, and a trek.", price: "From $2145", duration: "10 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/732814a3a426ea66de29e8734e2f4231846ac0f89e50df6e65d6b0e589d67e36.png" } },
+                    { title: "Practical Tips", content: "Best for first-time Nepal visitors who want variety; a specialist trekker or rafter may get more value from a dedicated trip to one activity instead." }
+                ],
+                faqs: [
+                    { q: "Is a combo tour better than specializing in one Nepal activity?", a: "It depends on your priorities — a combo suits first-timers wanting a sample of everything, while dedicated trekkers or rafters usually get more from a focused trip." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Nepal rafting, safari and trek combo worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for first-time visitors wanting a sample of Nepal's range rather than specialising in one activity." } }
+                ] },
+            };
+
         default:
             return null;
     }
