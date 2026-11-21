@@ -1459,6 +1459,111 @@ export function getQatarInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-beach-club-day-pass-worth-it-doha":
+      return {
+        title: "Is a Beach Club Day Pass Worth It in Doha?",
+        description: "An honest look at Doha's beach club day pass with infinity pool access, a relaxed break from the city's sightseeing and desert activities.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9ef67d65071c3f219260910de2f68f45904a7a6b53f35fa43c73d62c95070f8b.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A day pass to a beach club with infinity pool access gives visitors without a resort-style hotel a way to spend a full day by the water, a genuinely relaxed counterpoint to Doha's desert safaris and city sightseeing.",
+            tourCard: { slug: "doha-beach-club-day-pass-with-infinity-pool-2", title: "Doha Beach Club Day Pass with Infinity Pool", description: "A full-day beach club pass with infinity pool access in Doha.", price: "From $78", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9ef67d65071c3f219260910de2f68f45904a7a6b53f35fa43c73d62c95070f8b.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for a lower-key day between busier sightseeing or desert-safari days, especially for travellers not staying at a beachfront hotel.",
+          },
+        ],
+        faqs: [
+          { q: "Is a beach club day pass worth it in Doha?", a: "Yes, especially if your hotel isn't on the beach — it's a relaxed full day by the water as a break from sightseeing or desert activities." },
+        ],
+      };
+
+    case "is-camel-racetrack-oryx-farm-tour-worth-it-doha":
+      return {
+        title: "Is the Camel Racetrack and Oryx Farm Tour Worth It in Doha?",
+        description: "An honest look at the camel racing track and Sheikh Faisal's oryx farm tour, a distinct cultural and wildlife stop outside the usual city and desert circuit.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5add2d731dd577f8.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Camel racing is a genuine Gulf tradition, and this tour pairs a visit to the racetrack with Sheikh Faisal's oryx farm, home to Qatar's national animal, a distinct cultural and wildlife combination from the usual souq-and-skyline city tour.",
+            tourCard: { slug: "doha-camel-racing-track-oryx-farm-sheikh-faisal", title: "Doha: Camel Racing Track & Oryx Farm, Sheikh Faisal", description: "A tour combining the camel racing track with an oryx farm visit.", price: "From $286", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5add2d731dd577f8.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Camel racing season is tied to specific months — ask your operator whether live races are running on your travel dates, since the track itself is still worth seeing either way.",
+          },
+        ],
+        faqs: [
+          { q: "Is the camel racetrack and oryx farm tour worth it?", a: "Yes, for a genuine Gulf cultural tradition paired with Qatar's national animal, distinct from the standard city or desert circuits." },
+        ],
+      };
+
+    case "is-classic-car-tour-worth-it-doha":
+      return {
+        title: "Is the Doha Classic Car Tour Worth It?",
+        description: "An honest look at touring Doha's landmarks in a classic car with an expert driver, a novel alternative to a standard city highlights tour.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a935202893730e960eeddaddcd4e5baf56735a947761b2fe12129738fc48908.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This swaps the usual minivan or SUV for a classic car with an expert driver, covering the same core Doha landmarks as a standard city tour but adding a genuine novelty factor and better photo opportunities along the way.",
+            tourCard: { slug: "doha-classic-car-tour-with-expert-driver", title: "Doha Classic Car Tour with Expert Driver", description: "A city highlights tour of Doha in a classic car.", price: "From $455", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a935202893730e960eeddaddcd4e5baf56735a947761b2fe12129738fc48908.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Priced well above a standard city tour, so this is really for travellers prioritising the car itself and the photo opportunities over simply ticking off the sights efficiently.",
+          },
+        ],
+        faqs: [
+          { q: "Is the classic car tour worth the extra cost over a standard city tour?", a: "Only if the classic car experience and photos matter to you specifically — the sightseeing content is otherwise the same as a standard tour." },
+        ],
+      };
+
+    case "is-villaggio-mall-gondola-worth-it-doha":
+      return {
+        title: "Is the Villaggio Mall Gondola Ride Worth It in Doha?",
+        description: "An honest look at the indoor gondola ride at Villaggio Mall, an unusual indoor canal attraction paired with a Doha city highlights tour.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ab1576f4b870c4dc67e569272e4a5200efe7c939989cd4376e6a5e486bcad7bc.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Villaggio Mall has an indoor Venetian-style canal with gondola rides, a genuinely unusual air-conditioned attraction worth pairing with a city highlights tour, especially useful as a break from the outdoor desert heat.",
+            tourCard: { slug: "doha-city-tour-villaggio-mall-with-gondola-ride-4", title: "Doha City Tour with Villaggio Mall Gondola Ride", description: "A city highlights tour paired with a gondola ride at Villaggio Mall.", price: "From $142", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ab1576f4b870c4dc67e569272e4a5200efe7c939989cd4376e6a5e486bcad7bc.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for families with kids or anyone wanting an air-conditioned break built into an otherwise outdoor sightseeing day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Villaggio Mall gondola ride worth it?", a: "Yes, it's a genuinely unusual indoor attraction and a good air-conditioned break on a hot sightseeing day." },
+        ],
+      };
+
+    case "is-doha-night-tour-worth-it":
+      return {
+        title: "Is the Doha By Night Tour Worth It?",
+        description: "An honest look at touring Doha after dark, when Souq Waqif, Katara, and The Pearl are lit up differently than during the day.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1ea1216c5cce885d.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Doha's heat makes daytime sightseeing genuinely uncomfortable for parts of the year, and this night tour of Souq Waqif, Katara, and The Pearl trades daylight photos for a cooler walk and a skyline lit up differently than during the day.",
+            tourCard: { slug: "doha-by-night-souq-waqif-katara-the-pearl-lit", title: "Doha By Night: Souq Waqif, Katara & The Pearl Lit Up", description: "A night tour of Doha's major landmarks lit up after dark.", price: "From $182", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1ea1216c5cce885d.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A genuinely better pick than a daytime version during the hotter months, when evening temperatures are far more comfortable for walking." ,
+          },
+        ],
+        faqs: [
+          { q: "Is a night tour better than a daytime one in Doha?", a: "During the hotter months, yes — it trades daylight photos for comfortable walking temperatures and differently lit landmarks." },
+        ],
+      };
+
     default:
       return null;
   }

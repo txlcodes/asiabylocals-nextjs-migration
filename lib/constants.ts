@@ -1016,6 +1016,9 @@ export const DOHA_INFO_SLUGS = [
   'is-doha-city-tour-worth-it', 'is-al-zubarah-fort-tour-worth-it-doha',
   'is-jet-ski-worth-it-doha', 'is-musfir-sinkhole-tour-worth-it-doha',
   'is-al-shaqab-horse-center-worth-it-doha',
+  'is-beach-club-day-pass-worth-it-doha', 'is-camel-racetrack-oryx-farm-tour-worth-it-doha',
+  'is-classic-car-tour-worth-it-doha', 'is-villaggio-mall-gondola-worth-it-doha',
+  'is-doha-night-tour-worth-it',
 ];
 
 export const BUSAN_INFO_SLUGS = [
