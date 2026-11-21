@@ -5678,6 +5678,111 @@ description: "Amber Fort at opening, City Palace, Hawa Mahal and Nahargarh for s
                     ],
                 };
 
+            case "is-james-bond-island-tour-worth-it-phuket":
+                return {
+                    title: "Is the James Bond Island Tour Worth It from Phuket?",
+                    description: "An honest look at the James Bond Island speedboat tour through Phang Nga Bay, famous for its dramatic limestone karst scenery.",
+                    heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1772835259/tours/phuket/james-bond-island-speedboat-tour-phuket-0.jpg",
+                    sections: [
+                        {
+                            title: "The Short Answer",
+                            content: "James Bond Island, officially Khao Phing Kan, became famous after featuring in a 1974 Bond film, and touring Phang Nga Bay's dramatic limestone karsts by speedboat gives genuinely different scenery from Phuket's main beaches, often including sea cave canoeing.",
+                            tourCard: { slug: "james-bond-island-speedboat-tour-phuket", title: "James Bond Island Speedboat Tour Phuket", description: "A speedboat tour to James Bond Island and Phang Nga Bay.", price: "From $99", duration: "6 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1772835259/tours/phuket/james-bond-island-speedboat-tour-phuket-0.jpg" },
+                        },
+                        {
+                            title: "Practical Tips",
+                            content: "The island itself gets genuinely crowded with day-trip boats — the surrounding karst scenery and canoeing are often the real highlight rather than the island itself.",
+                        },
+                    ],
+                    faqs: [
+                        { q: "Is James Bond Island worth visiting from Phuket?", a: "Yes, for Phang Nga Bay's dramatic limestone karst scenery, though the island itself gets crowded — the boat journey and canoeing are often the highlight." },
+                    ],
+                };
+
+            case "is-phi-phi-shark-point-diving-worth-it-phuket":
+                return {
+                    title: "Is Phi Phi and Shark Point Diving Worth It from Phuket?",
+                    description: "An honest look at the 3-dive Koh Phi Phi and Shark Point scuba diving day trip, covering two of the Andaman Sea's best-known dive sites.",
+                    heroImage: "https://images.asiabylocals.com/asiabylocals/tours/3-dive-koh-phi-phi-shark-point-scuba-diving-day-trip/img0/1600.webp",
+                    sections: [
+                        {
+                            title: "The Short Answer",
+                            content: "This full-day trip packs three dives across Koh Phi Phi and Shark Point, two of the Andaman Sea's best-known sites, into one outing, aimed at certified divers wanting a serious diving day rather than a single introductory dive.",
+                            tourCard: { slug: "3-dive-koh-phi-phi-shark-point-scuba-diving-day-trip", title: "3-Dive Koh Phi Phi & Shark Point Scuba Diving Day Trip", description: "A 3-dive day trip covering Koh Phi Phi and Shark Point.", price: "From $214", duration: "12 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/3-dive-koh-phi-phi-shark-point-scuba-diving-day-trip/img0/1600.webp" },
+                        },
+                        {
+                            title: "Practical Tips",
+                            content: "This requires existing dive certification — check the specific requirements with the operator if you're not already certified.",
+                        },
+                    ],
+                    faqs: [
+                        { q: "Is the Phi Phi and Shark Point diving trip worth it?", a: "Yes, for certified divers wanting three dives across two of the Andaman Sea's best-known sites in one serious diving day." },
+                    ],
+                };
+
+            case "is-coral-island-tour-worth-it-phuket":
+                return {
+                    title: "Is the Coral Island Tour Worth It from Phuket?",
+                    description: "An honest look at the Coral Island day tour by speedboat, a genuinely close, easy half-day snorkeling escape from the main island.",
+                    heroImage: "https://images.asiabylocals.com/asiabylocals/tours/coral-island-day-tour-by-speedboat/img0/1600.webp",
+                    sections: [
+                        {
+                            title: "The Short Answer",
+                            content: "Coral Island sits genuinely close to Phuket, making this one of the easiest half-day beach and snorkeling escapes available, a good pick for travelers without time for the longer trips to Phi Phi or James Bond Island.",
+                            tourCard: { slug: "coral-island-day-tour-by-speedboat", title: "Coral Island Day Tour by Speedboat", description: "A day tour to Coral Island by speedboat.", price: "From $64", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/coral-island-day-tour-by-speedboat/img0/1600.webp" },
+                        },
+                        {
+                            title: "Practical Tips",
+                            content: "A good pick specifically for travelers short on time who still want a genuine beach and snorkeling day without the longer boat ride to Phi Phi.",
+                        },
+                    ],
+                    faqs: [
+                        { q: "Is Coral Island worth visiting from Phuket?", a: "Yes, it's one of the easiest, closest half-day snorkeling escapes available, a good pick for travelers short on time." },
+                    ],
+                };
+
+            case "is-big-buddha-old-town-tour-worth-it-phuket":
+                return {
+                    title: "Is the Big Buddha and Old Town Tour Worth It in Phuket?",
+                    description: "An honest look at the Big Buddha, Old Town, and discovery city tour, pairing Phuket's giant hilltop statue with its colonial-era Sino-Portuguese architecture.",
+                    heroImage: "https://images.asiabylocals.com/asiabylocals/tours/big-buddha-old-town-and-discovery-city-tour-in-phuket/img0/1600.webp",
+                    sections: [
+                        {
+                            title: "The Short Answer",
+                            content: "Phuket's Big Buddha sits atop a hill with sweeping island views, and pairing it with Phuket Old Town's colorful Sino-Portuguese shophouses gives a genuinely land-based cultural day distinct from the island's usual beach and boat activities.",
+                            tourCard: { slug: "big-buddha-old-town-and-discovery-city-tour-in-phuket", title: "Big Buddha, Old Town and Discovery City Tour in Phuket", description: "A tour combining the Big Buddha statue with Phuket Old Town's colonial architecture.", price: "From $33", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/big-buddha-old-town-and-discovery-city-tour-in-phuket/img0/1600.webp" },
+                        },
+                        {
+                            title: "Practical Tips",
+                            content: "Dress modestly for the Big Buddha visit — shoulders and knees covered, as it's an active religious site.",
+                        },
+                    ],
+                    faqs: [
+                        { q: "Is the Big Buddha and Old Town tour worth it?", a: "Yes, for a genuinely land-based cultural day combining sweeping island views with Phuket's colorful colonial-era architecture." },
+                    ],
+                };
+
+            case "is-andamanda-water-park-worth-it-phuket":
+                return {
+                    title: "Is Andamanda Water Park Worth It in Phuket?",
+                    description: "An honest look at Andamanda, one of Southeast Asia's largest water parks, a genuine theme-park alternative to Phuket's beaches.",
+                    heroImage: "https://images.asiabylocals.com/asiabylocals/tours/andamanda-water-park-full-day-adventure-in-phuket/img0/1600.webp",
+                    sections: [
+                        {
+                            title: "The Short Answer",
+                            content: "Andamanda is one of Southeast Asia's largest water parks, with themed slides and attractions based on Thai folklore, a genuine full-day theme-park alternative to Phuket's beaches, especially good for families with kids.",
+                            tourCard: { slug: "andamanda-water-park-full-day-adventure-in-phuket", title: "Andamanda Water Park Full-Day Adventure in Phuket", description: "A full-day visit to Andamanda water park.", price: "From $271", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/andamanda-water-park-full-day-adventure-in-phuket/img0/1600.webp" },
+                        },
+                        {
+                            title: "Practical Tips",
+                            content: "A good pick for families with kids wanting a change of pace from beach days — lockers and changing facilities are available on-site.",
+                        },
+                    ],
+                    faqs: [
+                        { q: "Is Andamanda water park worth it in Phuket?", a: "Yes, especially for families with kids wanting a full-day theme-park alternative to the island's beaches." },
+                    ],
+                };
+
             case "best-racha-islands-tour-phuket":
                 return {
                     title: "Which Is the Best Racha Islands Day Trip from Phuket?",

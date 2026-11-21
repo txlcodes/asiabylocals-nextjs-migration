@@ -998,6 +998,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-tours-in-phuket', 'should-i-book-phuket-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-phuket',
     'is-fantasea-show-worth-it-phuket', 'best-racha-islands-tour-phuket',
+    'is-james-bond-island-tour-worth-it-phuket', 'is-phi-phi-shark-point-diving-worth-it-phuket',
+    'is-coral-island-tour-worth-it-phuket', 'is-big-buddha-old-town-tour-worth-it-phuket',
+    'is-andamanda-water-park-worth-it-phuket',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/phuket/${slug}`,
     lastModified: new Date(),

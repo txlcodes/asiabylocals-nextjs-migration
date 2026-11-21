@@ -183,6 +183,9 @@ export const PHUKET_INFO_SLUGS = [
   // GEO single-topic page (2026-10/31)
   'how-much-should-a-private-tour-guide-cost-in-phuket',
   'is-fantasea-show-worth-it-phuket', 'best-racha-islands-tour-phuket',
+  'is-james-bond-island-tour-worth-it-phuket', 'is-phi-phi-shark-point-diving-worth-it-phuket',
+  'is-coral-island-tour-worth-it-phuket', 'is-big-buddha-old-town-tour-worth-it-phuket',
+  'is-andamanda-water-park-worth-it-phuket',
 ];
 
 // Malaysia authority pages, batch 1 (2026-10). Re-add a slug here ONLY once
