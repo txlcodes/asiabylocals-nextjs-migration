@@ -414,6 +414,64 @@ export function getKazakhstanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-turkistan-tour-shymkent":
+            return {
+                title: "Which Is the Best Turkistan Day Tour from Shymkent?",
+                seoTitle: "Best Turkistan Tour from Shymkent 2026 | Comparison",
+                description: "Compare real Turkistan day tours from Shymkent — a standard guided day tour versus an all-inclusive version and a 2-day private option.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9e1b23ef2deed17e9d55c88d8cc6ff0437b5ac78be7c07507af9656803388517.png",
+                sections: [
+                    { title: "The Short Answer", content: "Turkistan's UNESCO-listed Mausoleum of Khoja Ahmed Yasawi is the main draw, and tours differ mainly in length and whether Otrar's ruins are added to the day.", tourCard: { slug: "shymkent-turkestan-guided-tour", title: "From Shymkent: Turkestan and Otrar Day Tour with Guide", description: "A standard guided day tour to Turkistan and Otrar.", price: "From $299", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2e783e31b6374ba1900bed52579c30a10c695318aa79424ac631d5ca9492efad.jpg" } },
+                    { title: "Best All-Inclusive: One-Day Turkistan Tour", content: "This bundles everything into one all-inclusive price, removing the guesswork of extra costs along the way.", tourCard: { slug: "from-shymkent-all-inclusive-one-day-turkistan-tour", title: "From Shymkent: All-Inclusive One-Day Turkistan Tour", description: "An all-inclusive day tour to Turkistan.", price: "From $262", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9e1b23ef2deed17e9d55c88d8cc6ff0437b5ac78be7c07507af9656803388517.png" } },
+                    { title: "Best for More Time: 2-Day Private Turkistan Tour", content: "This spreads the visit over two days for up to two travellers, giving a more relaxed pace than a single long day trip.", tourCard: { slug: "from-shymkent-2-day-private-turkistan-tour-for-up", title: "From Shymkent: 2-Day Private Turkistan Tour for Up to Two", description: "A private 2-day Turkistan tour for up to two travellers.", price: "From $481", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9e1b23ef2deed17e9d55c88d8cc6ff0437b5ac78be7c07507af9656803388517.png" } },
+                    { title: "Practical Tips", content: "The Yasawi Mausoleum is one of Central Asia's most significant Islamic architectural sites — a knowledgeable guide adds real context to the UNESCO listing and the site's history." }
+                ],
+                faqs: [
+                    { q: "What is the best Turkistan tour from Shymkent?", a: "A standard day tour covers the essentials; go all-inclusive for simplicity or 2 days for a more relaxed pace." },
+                    { q: "What is the main site in Turkistan?", a: "The UNESCO-listed Mausoleum of Khoja Ahmed Yasawi." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Turkistan tour?", "acceptedAnswer": { "@type": "Answer", "text": "A standard day tour, all-inclusive, or 2 days for a relaxed pace." } },
+                    { "@type": "Question", "name": "What is the main site?", "acceptedAnswer": { "@type": "Answer", "text": "The UNESCO-listed Mausoleum of Khoja Ahmed Yasawi." } }
+                ] },
+            };
+
+        case "is-city-tour-worth-it-shymkent":
+            return {
+                title: "Is a Private City Tour of Shymkent Worth It?",
+                seoTitle: "Shymkent City Tour 2026 | Honest Review",
+                description: "An honest look at the private city tour by car in Shymkent, Kazakhstan's third-largest city.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a5e0b8ef9d8c8d6ae6094d9ec75924364606c5844964050d4b76a6ea88db90e0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A private car tour with a local guide is a straightforward way to see Shymkent's main sights before or after a Turkistan day trip, without needing to navigate the city yourself.", tourCard: { slug: "shymkent-private-city-tour-by-car-with-local-guide", title: "Shymkent: Private City Tour by Car with Local Guide", description: "A private city tour of Shymkent with a local guide.", price: "From $182", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a5e0b8ef9d8c8d6ae6094d9ec75924364606c5844964050d4b76a6ea88db90e0.jpg" } },
+                    { title: "Practical Tips", content: "Most visitors use Shymkent primarily as a base for Turkistan — this city tour is worth adding if you have an extra half-day rather than rushing straight to the main attraction." }
+                ],
+                faqs: [
+                    { q: "Is a Shymkent city tour worth it?", a: "Yes, if you have extra time beyond a Turkistan day trip — a straightforward way to see the city with a local guide." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a Shymkent city tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, if you have extra time beyond a Turkistan day trip." } }
+                ] },
+            };
+
+        case "is-aksu-canyon-tour-worth-it-shymkent":
+            return {
+                title: "Is the Aksu Canyon & Tian Shan Mountains Day Trip from Shymkent Worth It?",
+                seoTitle: "Aksu Canyon Tian Shan Tour Shymkent 2026 | Review",
+                description: "An honest look at the Aksu Canyon and Tian Shan Mountains day trip from Shymkent, a dramatic natural landscape distinct from Turkistan's historical sites.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6ea8d33d24e755fa89498f1a5b71940a3dae9ea8343208440daf5b5474d6dad5.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Aksu Canyon, sometimes compared to a smaller-scale Grand Canyon, and the surrounding Tian Shan mountain scenery offer a genuinely different day from Shymkent's historical/cultural sites — good if you want nature alongside the Turkistan history.", tourCard: { slug: "from-shymkent-day-trip-to-aksu-canyon-tian-shan", title: "From Shymkent: Day Trip to Aksu Canyon & Tian Shan Mountains", description: "A day trip to Aksu Canyon and the Tian Shan Mountains.", price: "From $459", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6ea8d33d24e755fa89498f1a5b71940a3dae9ea8343208440daf5b5474d6dad5.jpeg" } },
+                    { title: "Practical Tips", content: "This is a genuinely different landscape from Turkistan's historical sites — worth it specifically if natural scenery, not just history, is part of what you want from a Shymkent-region trip." }
+                ],
+                faqs: [
+                    { q: "Is the Aksu Canyon day trip worth it?", a: "Yes, for dramatic canyon and mountain scenery genuinely different from Shymkent's historical sites." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Aksu Canyon day trip worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for dramatic natural scenery distinct from the historical sites." } }
+                ] },
+            };
+
         default:
             return null;
     }

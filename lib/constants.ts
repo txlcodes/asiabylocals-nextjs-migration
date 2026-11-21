@@ -617,6 +617,11 @@ export const ASTANA_INFO_SLUGS = [
   'astana-travel-guide-2026', 'best-time-to-visit-astana',
 ];
 
+export const SHYMKENT_INFO_SLUGS = [
+  'best-turkistan-tour-shymkent', 'is-city-tour-worth-it-shymkent',
+  'is-aksu-canyon-tour-worth-it-shymkent',
+];
+
 export const HAIFA_INFO_SLUGS = [
   'best-bahai-gardens-tour-haifa', 'is-nazareth-day-trip-worth-it-haifa',
   'haifa-travel-guide-2026',
