@@ -1811,6 +1811,7 @@ export const DUBAI_INFO_SLUGS = [
   'atlantis-aquaventure-waterpark-guide', 'dubai-aquarium-underwater-zoo-guide',
   'museum-of-the-future-dubai-frame-guide', 'global-village-dubai-guide',
   'img-worlds-of-adventure-guide', 'dubai-jet-ski-burj-al-arab-guide',
+  'is-miracle-garden-worth-it-dubai',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/abuDhabiInfoContent.ts.

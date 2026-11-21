@@ -965,6 +965,26 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-miracle-garden-worth-it-dubai":
+      return {
+        title: "Is Dubai Miracle Garden Worth It?",
+        description: "An honest look at Dubai Miracle Garden, one of the world's largest natural flower gardens, built in the middle of the desert.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788892214/asiabylocals/tours/dubai-miracle-garden-entry-ticket-with-hotel-transfer/img1.png",
+        sections: [
+          {
+            title: "What's There",
+            content: "Dubai Miracle Garden holds tens of millions of flowers arranged into elaborate shapes and structures, including a flower-covered Airbus A380 replica — genuinely striking given it's built in the middle of the desert with no natural flower-growing climate.",
+            tourCard: { slug: "dubai-miracle-garden-entry-ticket-with-hotel-transfer", title: "Dubai Miracle Garden Entry Ticket with Hotel Transfer", description: "Entry to Dubai Miracle Garden with hotel transfer.", price: "From $93", duration: "Flexible", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788892214/asiabylocals/tours/dubai-miracle-garden-entry-ticket-with-hotel-transfer/img1.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The garden closes during Dubai's hottest summer months, since the flowers can't survive peak heat — check it's open before planning your visit date." },
+        ],
+        faqs: [
+          { q: "Is Dubai Miracle Garden open year-round?", a: "No, it typically closes during the hottest summer months when flowers can't survive the heat." },
+        ],
+      };
+
     default:
       return null;
   }

@@ -1298,7 +1298,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-desert-safari-dubai', 'best-burj-khalifa-tour-dubai',
     'atlantis-aquaventure-waterpark-guide', 'dubai-aquarium-underwater-zoo-guide',
     'museum-of-the-future-dubai-frame-guide', 'global-village-dubai-guide',
-    'img-worlds-of-adventure-guide', 'dubai-jet-ski-burj-al-arab-guide'].map(slug => ({
+    'img-worlds-of-adventure-guide', 'dubai-jet-ski-burj-al-arab-guide',
+    'is-miracle-garden-worth-it-dubai'].map(slug => ({
     url: `${BASE_URL}/uae/dubai/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
