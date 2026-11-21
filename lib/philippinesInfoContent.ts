@@ -1152,6 +1152,69 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-bohol-firefly-watching-worth-it-cebu":
+      return {
+        title: "Is Bohol Firefly Watching Worth It from Cebu?",
+        description: "An honest look at the Bohol firefly watching Loboc River night cruise, an evening nature activity distinct from the daytime Chocolate Hills and river cruise circuit.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2d28d1dd51d7f165806800d3580cf425e1c069f54870a74300f6b8301c90c2c7.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cruising the Loboc River at night to see fireflies light up the mangroves is a genuinely different experience from the daytime Chocolate Hills and lunch-buffet river cruise, worth it specifically for the nighttime atmosphere rather than as a replacement for the standard Bohol day tour.",
+            tourCard: { slug: "bohol-firefly-watching-loboc-river-night-cruise", title: "Bohol: Firefly Watching Loboc River Night Cruise", description: "A nighttime river cruise on the Loboc River to watch fireflies.", price: "From $44", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2d28d1dd51d7f165806800d3580cf425e1c069f54870a74300f6b8301c90c2c7.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This runs separately from the daytime Chocolate Hills tour, so it requires staying in Bohol overnight rather than a single-day round trip from Cebu.",
+          },
+        ],
+        faqs: [
+          { q: "Is Bohol firefly watching worth it from Cebu?", a: "Yes, for a genuinely different nighttime nature experience, though it requires staying overnight in Bohol rather than a single-day trip." },
+        ],
+      };
+
+    case "is-bohol-balicasag-dolphin-tour-worth-it-cebu":
+      return {
+        title: "Is the Bohol Balicasag Island and Dolphin Watching Tour Worth It from Cebu?",
+        description: "An honest look at the Bohol Balicasag Island private tour with dolphin watching, a marine wildlife day distinct from the land-based Chocolate Hills circuit.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e4a5e52c21441abf4e10583253d445bb7b6a01a1bd6a3a37469b476eccc4c583.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This full-day tour combines dolphin watching with Balicasag Island's snorkeling and marine sanctuary, a genuinely different marine-focused day from the land-based Chocolate Hills and tarsier circuit most Bohol day trips cover.",
+            tourCard: { slug: "bohol-balicasag-is-private-tour-and-dolphin", title: "Bohol: Balicasag Island Private Tour and Dolphin Watching", description: "A private tour of Balicasag Island combined with dolphin watching.", price: "From $143", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e4a5e52c21441abf4e10583253d445bb7b6a01a1bd6a3a37469b476eccc4c583.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dolphin sightings depend on the pod's movement that day, so while common, they aren't guaranteed on every trip.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Balicasag dolphin tour worth it from Cebu?", a: "Yes, for a marine-focused day of dolphin watching and snorkeling, genuinely different from the land-based Chocolate Hills circuit." },
+        ],
+      };
+
+    case "is-anjo-world-snow-world-worth-it-cebu":
+      return {
+        title: "Is Anjo World Snow World Worth It near Cebu?",
+        description: "An honest look at the Anjo World Snow World entry ticket, an indoor snow attraction distinct from Cebu's tropical beach and island-hopping activities.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8f2c0e840576d698b4610086ef321d5f298aebc60f21d48f0ab785d035235000.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Anjo World Snow World is an indoor artificial snow attraction, a novelty activity that's a complete contrast to Cebu's tropical beach and island-hopping scene — worth it specifically for the novelty of snow in a tropical country, especially with kids.",
+            tourCard: { slug: "anjo-world-snow-world-entry-ticket-with-transfer", title: "Anjo World Snow World Entry Ticket with Transfer", description: "An entry ticket with transfer to Anjo World's indoor snow attraction.", price: "From $119", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8f2c0e840576d698b4610086ef321d5f298aebc60f21d48f0ab785d035235000.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring warm layers — the indoor snow area is kept genuinely cold, a sharp contrast to the tropical heat outside.",
+          },
+        ],
+        faqs: [
+          { q: "Is Anjo World Snow World worth it near Cebu?", a: "Yes, as a novelty indoor snow experience, especially fun for kids and a genuine contrast to Cebu's tropical outdoor activities." },
+        ],
+      };
+
     case "is-banaue-sagada-tour-worth-it-manila":
       return {
         title: "Is the Banaue Rice Terraces and Sagada Tour Worth It from Manila?",

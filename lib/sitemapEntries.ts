@@ -869,6 +869,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'cebu-beaches-guide', 'siquijor-day-trip-guide', 'cebu-diving-guide',
     'oslob-vs-donsol-whale-sharks', 'cebu-waterfalls-guide',
     'bantayan-island-day-trip-guide',
+    'is-bohol-firefly-watching-worth-it-cebu', 'is-bohol-balicasag-dolphin-tour-worth-it-cebu',
+    'is-anjo-world-snow-world-worth-it-cebu',
   ].map(slug => ({
     url: `${BASE_URL}/philippines/cebu/${slug}`,
     lastModified: new Date(),
