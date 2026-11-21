@@ -1308,6 +1308,42 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-ephesus-pamukkale-fly-tour-istanbul":
+      return {
+        title: "Which Is the Best Ephesus or Pamukkale Fly Tour from Istanbul?",
+        seoTitle: "Best Ephesus Pamukkale Tour from Istanbul 2026",
+        description: "Compare flying day trips from Istanbul to Ephesus and Pamukkale — two of Turkey's most famous ancient and natural sites, far outside Istanbul and reached by flight.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/43596369c95ecc9d.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ephesus (one of the best-preserved ancient Roman cities anywhere) and Pamukkale (white travertine terraces and thermal pools) sit near Turkey's Aegean coast, far enough from Istanbul that these tours fly you there and back in a single long day or two.",
+            tourCard: { slug: "from-istanbul-ephesus-day-tour-with-return-flights", title: "From Istanbul: Ephesus Day Tour with Return Flights", description: "A day trip to Ephesus with return flights from Istanbul.", price: "From $537", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/43596369c95ecc9d.jpeg" },
+          },
+          {
+            title: "For Pamukkale Only: Guided Tour with Flight and Lunch",
+            content: "This focuses purely on Pamukkale's travertine terraces and thermal pools, flying from Istanbul and back the same day.",
+            tourCard: { slug: "from-istanbul-guided-pamukkale-tour-with-flight", title: "From Istanbul: Guided Pamukkale Tour with Flight and Lunch", description: "A day trip to Pamukkale with flight and lunch.", price: "From $871", duration: "17 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b07781f38bf66a0f9e1300f8c99da79eba2998bff7e1faeee03e35b616a1323d.jpg" },
+          },
+          {
+            title: "Best for Seeing Both: 2-Day Pamukkale and Ephesus Tour",
+            content: "This spreads both sites across 2 days, letting you see Ephesus's ruins and Pamukkale's terraces without rushing either in a single exhausting day.",
+            tourCard: { slug: "from-istanbul-pamukkale-and-ephesus-tour-2-day-by", title: "From Istanbul: Pamukkale and Ephesus Tour 2-Day By Flights", description: "A 2-day tour covering both Pamukkale and Ephesus by flight.", price: "From $204", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2a181f838cf6fa76a2d0d116dbe602d4e1a7619e266df759f8988ab4a04e9baa.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "These are genuinely long days given the flights involved — if you have more than one day to spare, the 2-day combined option is far less exhausting than doing Ephesus and Pamukkale as two separate single-day flights.",
+          },
+        ],
+        faqs: [
+          { q: "Can Ephesus and Pamukkale be visited from Istanbul in a day?", a: "Yes, both are reachable as single-day fly tours, though it's a long day given the flights involved." },
+          { q: "Should I do Ephesus and Pamukkale separately or combined?", a: "A combined 2-day tour is less exhausting than two separate single-day flights if you have the extra day." },
+        ],
+        jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+          { "@type": "Question", "name": "Can Ephesus and Pamukkale be visited from Istanbul in a day?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as single-day fly tours, though it's a long day." } },
+        ] },
+      };
+
     default:
       return null;
   }

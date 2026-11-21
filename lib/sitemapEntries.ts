@@ -235,6 +235,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-tours-in-istanbul', 'should-i-book-istanbul-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-istanbul',
     'best-hagia-sophia-blue-mosque-tour', 'best-bosphorus-cruise-istanbul',
+    'best-ephesus-pamukkale-fly-tour-istanbul',
   ].map(slug => ({
     url: `${BASE_URL}/turkey/istanbul/${slug}`,
     lastModified: new Date(),
