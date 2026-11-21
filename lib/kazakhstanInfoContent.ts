@@ -565,6 +565,24 @@ export function getKazakhstanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-horse-riding-stargazing-worth-it-astana":
+            return {
+                title: "Is the Nura River Horse Riding & Stargazing Tour Worth It in Astana?",
+                seoTitle: "Astana Horse Riding Stargazing 2026 | Honest Review",
+                description: "An honest look at the Nura River sunset horse riding and stargazing tour from Astana, a rural steppe experience distinct from the city's futuristic skyline sightseeing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/10def5f97242e9ab5813c6efef5f4bce2e22d5412d7a5c6d6678babef3537a2f.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Riding along the Nura River into the Kazakh steppe at sunset, followed by stargazing far from city lights, is a completely different experience from Astana's futuristic Baiterek Tower skyline — worth it specifically for travelers wanting genuine steppe landscape and dark skies.", tourCard: { slug: "nura-river-sunset-horse-riding-stargazing", title: "Nura River: Sunset Horse Riding & Stargazing", description: "A sunset horse riding and stargazing experience along the Nura River.", price: "From $585", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/10def5f97242e9ab5813c6efef5f4bce2e22d5412d7a5c6d6678babef3537a2f.jpg" } },
+                    { title: "Practical Tips", content: "Dress in warm layers for the evening, since steppe temperatures drop quickly after sunset even in warmer months." },
+                ],
+                faqs: [
+                    { q: "Is the Nura River horse riding and stargazing tour worth it in Astana?", a: "Yes, for a genuinely different steppe landscape and dark-sky experience, a sharp contrast to the city's futuristic skyline." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Nura River horse riding tour worth it in Astana?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine steppe landscape and dark-sky stargazing." } },
+                ] },
+            };
+
         case "is-alpine-climbing-worth-it-almaty":
             return {
                 title: "Is the 2-Day Alpine Climbing Trip Worth It in Almaty?",
