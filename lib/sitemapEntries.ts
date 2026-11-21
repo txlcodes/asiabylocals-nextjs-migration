@@ -491,6 +491,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-bike-tour-singapore', 'best-wings-of-time-cable-car-tour-singapore',
     'best-merlion-civic-district-walking-tour-singapore',
     'is-jewel-changi-tour-worth-it-singapore', 'is-level33-rooftop-brewery-tour-worth-it-singapore',
+    'is-adventure-cove-waterpark-worth-it-singapore',
     'best-river-wonders-night-safari-combo-singapore',
   ], 'singapore', 'singapore');
   const luangPrabangInfoPages = mapInfoSlugs([

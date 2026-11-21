@@ -507,6 +507,24 @@ export function getSingaporeInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-adventure-cove-waterpark-worth-it-singapore":
+            return {
+                title: "Is Adventure Cove Waterpark Worth It in Singapore?",
+                seoTitle: "Adventure Cove Waterpark Singapore 2026 | Honest Review",
+                description: "An honest look at Adventure Cove Waterpark on Sentosa, distinct from Universal Studios Singapore next door.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0c83a7ab9e44a0dd963e6298f9f729cf0c7164d69086231ce6f62b1d8a97aa47.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Adventure Cove Waterpark, located on Sentosa near Universal Studios, offers slides, a lazy river, and a rays/fish lagoon snorkeling experience — a genuinely different attraction from the theme park next door, worth adding if you want a water-based day.", tourCard: { slug: "adventure-cove-waterpark-entry-ticket-with-hotel", title: "Adventure Cove Waterpark Entry Ticket with Hotel Pickup", description: "Entry to Adventure Cove Waterpark with hotel pickup.", price: "From $67", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0c83a7ab9e44a0dd963e6298f9f729cf0c7164d69086231ce6f62b1d8a97aa47.jpeg" } },
+                    { title: "Practical Tips", content: "Its Sentosa location makes it easy to combine with Universal Studios on a multi-day Sentosa visit, rather than needing a separate trip." }
+                ],
+                faqs: [
+                    { q: "Is Adventure Cove the same as Universal Studios Singapore?", a: "No, it's a separate waterpark on Sentosa, located nearby." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Adventure Cove the same as Universal Studios?", "acceptedAnswer": { "@type": "Answer", "text": "No, it's a separate waterpark on Sentosa." } }
+                ] },
+            };
+
         default:
             return null;
     }
