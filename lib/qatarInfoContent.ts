@@ -1210,6 +1210,66 @@ export function getQatarInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "is-quad-bike-worth-it-doha":
+      return {
+        title: "Is a Self-Drive Quad Bike Worth It in Doha?",
+        description: "An honest look at Doha's self-drive quad bike or dune buggy experience, distinct from a guided desert safari.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/350aee8a064c9d1fbf52e52a60cf3f7b0e3eb3aafcea1c6434463d87c97bfb60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Unlike a guided 4x4 desert safari where someone else drives, this puts you behind the wheel of your own quad bike or dune buggy for a short, affordable adrenaline burst on the dunes.",
+            tourCard: { slug: "doha-30-minute-self-drive-quad-bike-or-dune", title: "Doha: 30-Minute Self-Drive Quad Bike or Dune Buggy", description: "A 30-minute self-drive quad bike or dune buggy experience.", price: "From $29", duration: "30 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/350aee8a064c9d1fbf52e52a60cf3f7b0e3eb3aafcea1c6434463d87c97bfb60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No special license is needed for this — basic instruction is given before you set off, but some comfort with vehicles helps." },
+        ],
+        faqs: [
+          { q: "Do I drive the quad bike myself in Doha?", a: "Yes, this is a self-drive experience, unlike a guided desert safari where an operator drives." }
+        ],
+      };
+
+    case "is-luxury-yacht-cruise-worth-it-doha":
+      return {
+        title: "Is the Luxury Yacht Cruise Worth It in Doha?",
+        description: "An honest look at Doha's luxury yacht cruise with skyline views of West Bay.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f6075398543bb5aa0c33d983cfc073b3ff56c8cdcfd33b29fd3bee850bcae72d.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A yacht cruise shows off Doha's West Bay skyline and the Corniche from the water, a different and more exclusive vantage point than a standard dhow cruise.",
+            tourCard: { slug: "doha-luxury-yacht-cruise-boat-tour-with-skyline", title: "Doha: Luxury Yacht Cruise & Boat Tour with Skyline Views", description: "A luxury yacht cruise with skyline views of Doha.", price: "From $649", duration: "30 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f6075398543bb5aa0c33d983cfc073b3ff56c8cdcfd33b29fd3bee850bcae72d.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is priced as a premium, often private-charter experience — compare against a traditional dhow cruise if budget is the main factor." },
+        ],
+        faqs: [
+          { q: "How is a yacht cruise different from a dhow cruise in Doha?", a: "A yacht cruise is a more exclusive, premium-priced experience, while a dhow cruise is the traditional, more affordable option." }
+        ],
+      };
+
+    case "is-hot-air-balloon-worth-it-doha":
+      return {
+        title: "Is the Sunrise Hot Air Balloon Experience Worth It in Doha?",
+        description: "An honest look at Qatar's sunrise hot air balloon experience above Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c99f306740146a9968f2369891361ee3f0dbe9880085fedce6f9e444ae9221d9.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Floating over Doha and the surrounding desert at sunrise in a hot air balloon offers a genuinely unique aerial perspective, distinct from any ground-based tour of the city.",
+            tourCard: { slug: "qatar-sunrise-hot-air-balloon-experience-above", title: "Qatar: Sunrise Hot Air Balloon Experience above Doha", description: "A sunrise hot air balloon experience above Doha.", price: "From $358", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c99f306740146a9968f2369891361ee3f0dbe9880085fedce6f9e444ae9221d9.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Weather-dependent and requires an early start given the sunrise timing — confirm cancellation policy in case conditions aren't suitable on your date." },
+        ],
+        faqs: [
+          { q: "Is the hot air balloon experience worth it in Doha?", a: "Yes, for a genuinely unique aerial perspective over the city and desert, unmatched by any ground tour." }
+        ],
+      };
+
     default:
       return null;
   }

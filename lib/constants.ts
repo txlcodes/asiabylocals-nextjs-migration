@@ -919,6 +919,8 @@ export const DOHA_INFO_SLUGS = [
   'best-tours-in-doha',
   'should-i-book-doha-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-doha',
+  'is-quad-bike-worth-it-doha', 'is-luxury-yacht-cruise-worth-it-doha',
+  'is-hot-air-balloon-worth-it-doha',
 ];
 
 export const BUSAN_INFO_SLUGS = [

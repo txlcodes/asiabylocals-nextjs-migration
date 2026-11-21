@@ -266,6 +266,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'inland-sea-khor-al-adaid-guide', 'doha-ramadan-travel-guide', 'doha-weekend-guide',
     'doha-airport-stopover-guide', 'best-tours-in-doha', 'should-i-book-doha-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-doha',
+    'is-quad-bike-worth-it-doha', 'is-luxury-yacht-cruise-worth-it-doha',
+    'is-hot-air-balloon-worth-it-doha',
   ].map(slug => ({
     url: `${BASE_URL}/qatar/doha/${slug}`,
     lastModified: new Date(),
