@@ -1436,6 +1436,8 @@ export const COLOMBO_INFO_SLUGS = [
   'how-much-should-a-private-tour-guide-cost-in-colombo',
   'best-tuk-tuk-city-tour-colombo', 'is-gangaramaya-temple-tour-worth-it-colombo',
   'is-yala-safari-worth-it-colombo', 'is-pinnawala-kandy-tour-worth-it-colombo',
+  'is-adams-peak-hike-worth-it-colombo', 'is-jaffna-tour-worth-it-colombo',
+  'is-anuradhapura-day-trip-worth-it-colombo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/hakoneInfoContent.ts.

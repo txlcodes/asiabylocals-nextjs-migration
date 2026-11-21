@@ -1165,6 +1165,66 @@ export function getColomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-adams-peak-hike-worth-it-colombo":
+      return {
+        title: "Is the Adam's Peak Guided Pilgrimage Hike Worth It from Colombo?",
+        description: "An honest look at the Adam's Peak guided overnight hike, a serious pilgrimage climb distinct from Colombo's city sightseeing and beach day trips.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1160610/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Adam's Peak is a sacred pilgrimage mountain climbed overnight to reach the summit for sunrise, a genuinely demanding physical and spiritual undertaking completely different from Colombo's city sightseeing or beach day trips.",
+            tourCard: { slug: "adams-peak-guided-hike-with-pickup-snack-foot", title: "Adam's Peak Guided Hike with Pickup and Snack", description: "A guided overnight pilgrimage hike up Adam's Peak with pickup and snacks.", price: "From $136", duration: "14 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1160610/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The climb starts at night to reach the summit by sunrise, so come prepared for a long, physically demanding overnight hike with layers for the cold summit." },
+        ],
+        faqs: [
+          { q: "Is the Adam's Peak hike worth it from Colombo?", a: "Yes, for travelers wanting a genuine physical and spiritual pilgrimage experience, completely different from the city's usual sightseeing." },
+        ],
+      };
+
+    case "is-jaffna-tour-worth-it-colombo":
+      return {
+        title: "Is the Multi-Day Jaffna Tour Worth It from Colombo?",
+        description: "An honest look at the 4-day Jaffna tour from Colombo, exploring Sri Lanka's distinct northern Tamil region, far from the usual southern tourist circuit.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1275952/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Jaffna, in Sri Lanka's far north, has a distinct Tamil culture, history, and cuisine shaped by a different history from the Sinhalese-majority south — a genuinely different region from Colombo, Kandy, and the standard south-coast circuit most visitors stick to.",
+            tourCard: { slug: "4-day-3-night-jaffna-tour-from-colombo-or", title: "4-Day 3-Night Jaffna Tour from Colombo", description: "A 4-day tour exploring Jaffna and Sri Lanka's northern region from Colombo.", price: "From $1014", duration: "4 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1275952/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a significant multi-day commitment given Jaffna's distance from Colombo, so it suits travelers with a longer Sri Lanka itinerary rather than a short trip." },
+        ],
+        faqs: [
+          { q: "Is the Jaffna tour worth it from Colombo?", a: "Yes, for travelers with a longer itinerary wanting to experience Sri Lanka's distinct northern Tamil culture, genuinely different from the south." },
+        ],
+      };
+
+    case "is-anuradhapura-day-trip-worth-it-colombo":
+      return {
+        title: "Is the Anuradhapura Ancient Ruins Day Trip Worth It from Colombo?",
+        description: "An honest look at the Anuradhapura ancient capital day trip from Colombo, one of Sri Lanka's oldest cities, distinct from Sigiriya and Kandy sightseeing.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788368653/asiabylocals/tours/from-colombo-ancient-ruins-of-anuradhapura-private-day-trip/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Anuradhapura was one of ancient Sri Lanka's earliest and longest-serving capitals, with sprawling ruins and sacred Buddhist sites predating Sigiriya and Kandy — a genuinely deeper historical layer for travelers who've already covered the main Cultural Triangle sights.",
+            tourCard: { slug: "anuradhapura-colombo-private-day-trip-ancient-capital", title: "Anuradhapura: Colombo Private Day Trip to the Ancient Capital", description: "A private day trip to the ancient ruins of Anuradhapura from Colombo.", price: "From $338", duration: "Full day", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788368653/asiabylocals/tours/from-colombo-ancient-ruins-of-anuradhapura-private-day-trip/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a long day trip given the distance from Colombo, so budget the full day rather than combining it with other sightseeing." },
+        ],
+        faqs: [
+          { q: "Is the Anuradhapura day trip worth it from Colombo?", a: "Yes, for travelers wanting a deeper historical layer than Sigiriya and Kandy, though it's a long day trip given the distance." },
+        ],
+      };
+
     default:
       return null;
   }
