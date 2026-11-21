@@ -3481,6 +3481,42 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "best-cameron-highlands-tour-kuala-lumpur":
+            return {
+                title: "Which Is the Best Cameron Highlands Day Trip from Kuala Lumpur?",
+                seoTitle: "Best Cameron Highlands Tour from KL 2026 | Comparison",
+                description: "Compare real Cameron Highlands private day trips from Kuala Lumpur, covering tea plantations and the cooler mountain climate — a genuinely different landscape from the city.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-873060/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Cameron Highlands' tea plantations and cooler mountain climate are a complete change of pace from KL's heat and skyline, worth the long day trip for travelers wanting genuine landscape variety beyond the city and Batu Caves.", tourCard: { slug: "cameron-highlands-private-day-trip", title: "Cameron Highlands Private Day Trip", description: "A private day trip to Cameron Highlands covering tea plantations and mountain scenery.", price: "From $119", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-873060/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "It's a long day trip — roughly 3-4 hours of driving each way — so expect a full day rather than a quick half-day excursion." },
+                ],
+                faqs: [
+                    { q: "Is Cameron Highlands worth the day trip from Kuala Lumpur?", a: "Yes, for a genuine change of landscape and cooler climate, though it's a long day given the drive time each way." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Cameron Highlands worth the day trip from Kuala Lumpur?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for tea plantations and a cooler mountain climate, a genuine change from the city." } },
+                ] },
+            };
+
+        case "is-escape-room-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Escape Room Experience Worth It in Kuala Lumpur?",
+                seoTitle: "Kuala Lumpur Escape Room 2026 | Honest Review",
+                description: "An honest look at Kuala Lumpur's Breakout Nu Sentral escape room experience, an indoor puzzle activity distinct from the city's temple, tower, and cave sightseeing.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1493745/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This escape room experience with a choice of themed rooms is a good rainy-day or evening alternative to KL's usual outdoor sightseeing, a genuinely different group activity centered on puzzle-solving rather than passive touring.", tourCard: { slug: "breakout-nu-sentral-escape-room-experience-choose", title: "Breakout Nu Sentral Escape Room Experience", description: "A themed escape room experience at Nu Sentral in Kuala Lumpur.", price: "From $28", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1493745/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book this for a rainy day or an evening when outdoor sightseeing isn't practical, and bring a group since most rooms are priced per group rather than per person." },
+                ],
+                faqs: [
+                    { q: "Is the escape room worth it in Kuala Lumpur?", a: "Yes, as a fun group activity and a good rainy-day alternative to the city's outdoor sightseeing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the escape room worth it in Kuala Lumpur?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a fun group activity and a good rainy-day alternative to outdoor sightseeing." } },
+                ] },
+            };
+
         default:
             return null;
     }

@@ -199,6 +199,7 @@ export const KUALA_LUMPUR_INFO_SLUGS = [
   'best-petronas-towers-tour-kuala-lumpur',
   'best-genting-highlands-tour-kuala-lumpur', 'is-kuala-selangor-firefly-tour-worth-it-kuala-lumpur',
   'is-kl-bird-park-aquaria-tour-worth-it-kuala-lumpur',
+  'best-cameron-highlands-tour-kuala-lumpur', 'is-escape-room-worth-it-kuala-lumpur',
 ];
 
 export const PENANG_INFO_SLUGS = [
