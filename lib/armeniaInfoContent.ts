@@ -509,6 +509,84 @@ export function getArmeniaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-birds-cave-tour-yerevan":
+            return {
+                title: "Which Is the Best Birds Cave & Areni Winery Tour from Yerevan?",
+                seoTitle: "Best Birds Cave Tour Yerevan 2026 | Honest Comparison",
+                description: "Compare real Birds Cave (one of the world's oldest known wine-production sites) and Areni winery day trips from Yerevan, usually combined with Khor Virap and Noravank.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7993170dbb2556581d0ba2f69cf0cf5d3b0eec2402d7d5e832e14893d33122d5.png",
+                sections: [
+                    { title: "The Short Answer", content: "Areni-1 (the 'Birds Cave') contains the world's oldest known winery, dating back over 6,000 years — a genuinely significant archaeological site, almost always combined with Khor Virap and Noravank on the same day given the shared route.", tourCard: { slug: "from-yerevan-khor-virap-noravank-birds-cave", title: "From Yerevan: Khor Virap, Noravank, Birds Cave", description: "A day trip combining Khor Virap, Noravank, and the Birds Cave.", price: "From $259", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7993170dbb2556581d0ba2f69cf0cf5d3b0eec2402d7d5e832e14893d33122d5.png" } },
+                    { title: "Best Full Combo: Khor Virap, Areni Winery, Noravank, Jermuk", content: "This extends the day further, adding both a winery visit and Jermuk's mineral springs to the core Khor Virap/Noravank/cave route.", tourCard: { slug: "khor-virap-areni-winery-cave-noravank-jermuk-tour", title: "Khor Virap, Areni Winery, Cave, Noravank, Jermuk Tour", description: "A full-day combo adding Areni Winery and Jermuk.", price: "From $293", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/436cd28f5c1ef23666e7a4326b8ac315d9b72e06d67ad890d06302e9b8ca707a.png" } },
+                    { title: "Practical Tips", content: "The Areni-1 cave discovery (a complete ancient wine-production setup with vats and presses) is a big deal archaeologically — ask your guide for details, since the cave itself is unassuming without that context." }
+                ],
+                faqs: [
+                    { q: "What is the best Birds Cave tour from Yerevan?", a: "A standard combo with Khor Virap and Noravank suits most visitors; add Areni Winery and Jermuk for a fuller day." },
+                    { q: "Why is Birds Cave significant?", a: "It contains the world's oldest known winery, dating back over 6,000 years." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Birds Cave tour?", "acceptedAnswer": { "@type": "Answer", "text": "A standard combo with Khor Virap and Noravank." } },
+                    { "@type": "Question", "name": "Why is it significant?", "acceptedAnswer": { "@type": "Answer", "text": "The world's oldest known winery, over 6,000 years old." } }
+                ] },
+            };
+
+        case "best-ski-resort-tour-yerevan":
+            return {
+                title: "Which Is the Best Ski Resort Day Trip from Yerevan?",
+                seoTitle: "Best Ski Resort Tour from Yerevan 2026 | Comparison",
+                description: "Compare real ski resort day trips from Yerevan — Tsaghkadzor with Lake Sevan versus Mylerresort combined with monasteries.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ceddc8daa7dbb856557982e4fd5197d4ab13cb93b66ea700beb20aab91bb257f.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Armenia's main ski resorts, Tsaghkadzor and Myler, are both reachable as day trips from Yerevan, and each pairs naturally with different nearby sights.", tourCard: { slug: "tsakhkadzor-ski-resort-lake-sevan-sevanavank", title: "Tsaghkadzor Ski Resort, Lake Sevan, Sevanavank", description: "A day trip combining Tsaghkadzor ski resort with Lake Sevan.", price: "From $146", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ceddc8daa7dbb856557982e4fd5197d4ab13cb93b66ea700beb20aab91bb257f.jpg" } },
+                    { title: "Best with Monasteries: Myler Ski Resort & Monasteries Private Day", content: "This pairs Myler ski resort with a monastery visit instead of Lake Sevan, a genuinely different combination of activities.", tourCard: { slug: "yerevan-myler-ski-resort-monasteries-private-day", title: "Yerevan: Myler Ski Resort & Monasteries Private Day", description: "A private day combining Myler ski resort with monasteries.", price: "From $275", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8a7703c95ed18459d32b1647cf23837f86c9730ff57a7eff8b2a168441ac8ca0.jpeg" } },
+                    { title: "Practical Tips", content: "These resorts are genuinely seasonal — check snow conditions before booking outside the core winter months, since off-season visits mean no skiing, just the cable car and scenery." }
+                ],
+                faqs: [
+                    { q: "What is the best ski resort day trip from Yerevan?", a: "Tsaghkadzor with Lake Sevan, or Myler with monasteries, depending on what else you want to see." },
+                    { q: "Is skiing available year-round?", a: "No, check snow conditions — outside winter you'll only get the cable car and scenery, not skiing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best ski resort trip from Yerevan?", "acceptedAnswer": { "@type": "Answer", "text": "Tsaghkadzor with Lake Sevan, or Myler with monasteries." } },
+                    { "@type": "Question", "name": "Is skiing available year-round?", "acceptedAnswer": { "@type": "Answer", "text": "No, it's seasonal — check snow conditions." } }
+                ] },
+            };
+
+        case "is-khachkar-crafting-worth-it-yerevan":
+            return {
+                title: "Is the Khachkar Crafting Masterclass in Yerevan Worth It?",
+                seoTitle: "Khachkar Crafting Masterclass Yerevan 2026 | Review",
+                description: "An honest look at Yerevan's khachkar (Armenian cross-stone) crafting masterclass.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/469762694c96c32e31c9c3291a296a0e30b90bc8653f10010ccb60126700b726.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Khachkars, intricately carved cross-stones, are a uniquely Armenian art form found at monasteries across the country — this hands-on masterclass teaches the basics of the craft, a genuinely distinctive cultural activity you won't find framed this way elsewhere.", tourCard: { slug: "khachkar-crafting-masterclass-unveiling-armenias", title: "Khachkar Crafting Masterclass: Unveiling Armenia's Craft", description: "A hands-on masterclass in traditional Armenian khachkar carving.", price: "From $221", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/469762694c96c32e31c9c3291a296a0e30b90bc8653f10010ccb60126700b726.jpg" } },
+                    { title: "Practical Tips", content: "This pairs well with monastery visits earlier or later the same day, since you'll have just seen real khachkars in context before or after trying the craft yourself." }
+                ],
+                faqs: [
+                    { q: "Is the khachkar crafting masterclass worth it?", a: "Yes, a genuinely distinctive hands-on cultural activity unique to Armenia." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the khachkar masterclass worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a distinctive hands-on cultural activity." } }
+                ] },
+            };
+
+        case "is-havuts-tar-hiking-worth-it-yerevan":
+            return {
+                title: "Is the Havuts Tar Monastery Hiking Tour from Yerevan Worth It?",
+                seoTitle: "Havuts Tar Monastery Hiking Tour Yerevan 2026 | Review",
+                description: "An honest look at the Havuts Tar Monastery hiking tour from Yerevan, a less-visited mountainside monastery complex.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4c0f6bcc6c01b18ab8c9c16dfcba4664bbd240d46687068047b1a0a719f7d0f0.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Havuts Tar is a genuinely less-visited monastery complex reached by hiking rather than driving right up to it, which means both fewer crowds and some real trail time — a good pick if you've already seen Armenia's more famous monasteries and want something quieter.", tourCard: { slug: "yerevan-havuts-tar-monastery-hiking-tour", title: "Yerevan: Havuts Tar Monastery Hiking Tour", description: "A hiking tour to the less-visited Havuts Tar Monastery.", price: "From $217", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4c0f6bcc6c01b18ab8c9c16dfcba4664bbd240d46687068047b1a0a719f7d0f0.jpeg" } },
+                    { title: "Practical Tips", content: "Wear proper hiking shoes — unlike the drive-up monasteries, reaching Havuts Tar genuinely requires walking a trail, not just a short stroll from a parking lot." }
+                ],
+                faqs: [
+                    { q: "Is the Havuts Tar hiking tour worth it?", a: "Yes, for a quieter, less-visited monastery and genuine trail time if you've already seen the more famous sites." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Havuts Tar tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a quieter, less-visited monastery with real hiking." } }
+                ] },
+            };
+
         default:
             return null;
     }

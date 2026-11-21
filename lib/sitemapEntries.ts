@@ -394,6 +394,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'yerevan-1-day-itinerary', 'armenia-visa-guide-for-tourists',
     'yerevan-food-guide', 'is-yerevan-safe', 'yerevan-currency-guide',
     'yerevan-public-transport-guide', 'yerevan-shopping-guide',
+    'best-birds-cave-tour-yerevan', 'best-ski-resort-tour-yerevan',
+    'is-khachkar-crafting-worth-it-yerevan', 'is-havuts-tar-hiking-worth-it-yerevan',
   ], 'armenia', 'yerevan');
   const petraInfoPages = mapInfoSlugs([
     'best-petra-day-tour-from-amman', 'best-petra-wadi-rum-2-day-tour',
