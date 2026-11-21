@@ -842,6 +842,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'phuket-diving-snorkeling-guide',
     'best-tours-in-phuket', 'should-i-book-phuket-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-phuket',
+    'is-fantasea-show-worth-it-phuket', 'best-racha-islands-tour-phuket',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/phuket/${slug}`,
     lastModified: new Date(),

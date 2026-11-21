@@ -5557,6 +5557,48 @@ description: "Amber Fort at opening, City Palace, Hawa Mahal and Nahargarh for s
                     },
                 };
 
+            case "is-fantasea-show-worth-it-phuket":
+                return {
+                    title: "Is the FantaSea Show Worth It in Phuket?",
+                    description: "An honest look at Phuket FantaSea, a large-scale cultural theme park and show blending Thai mythology, elephants, and special effects.",
+                    heroImage: "https://images.asiabylocals.com/asiabylocals/tours/fantasea-show-entry-ticket-with-optional-buffet-and-transfer-in-phuket/img0/1600.webp",
+                    sections: [
+                        {
+                            title: "The Short Answer",
+                            content: "Phuket FantaSea is a large-scale evening show combining Thai mythology, elephants, acrobatics, and elaborate special effects — a genuinely different evening activity from the island's beach, boat, and island-hopping days. An optional buffet dinner can be added for a fuller evening out.",
+                            tourCard: { slug: "fantasea-show-entry-ticket-with-optional-buffet-and-transfer-in-phuket", title: "FantaSea Show Entry Ticket with Optional Buffet and Transfer in Phuket", description: "Entry to the FantaSea show with optional buffet and transfer.", price: "From $85", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/fantasea-show-entry-ticket-with-optional-buffet-and-transfer-in-phuket/img0/1600.webp" },
+                        },
+                        {
+                            title: "Practical Tips",
+                            content: "Book the buffet option if you want a full evening out rather than just the show itself, since dinner isn't automatically included.",
+                        },
+                    ],
+                    faqs: [
+                        { q: "Is the Phuket FantaSea show worth it?", a: "Yes, for a large-scale evening cultural show genuinely different from the island's daytime beach and boat activities." },
+                    ],
+                };
+
+            case "best-racha-islands-tour-phuket":
+                return {
+                    title: "Which Is the Best Racha Islands Day Trip from Phuket?",
+                    description: "Compare real day trips to the Racha Islands, known for some of Phuket's clearest water and best snorkeling, distinct from the Phi Phi/James Bond Island circuit.",
+                    heroImage: "https://images.asiabylocals.com/asiabylocals/tours/coral-and-racha-islands-day-trip-by-speedboat/img0/1600.webp",
+                    sections: [
+                        {
+                            title: "The Short Answer",
+                            content: "The Racha Islands, paired here with nearby Coral Island, are known for exceptionally clear water and good snorkeling — a quieter, closer alternative to the more famous but more crowded Phi Phi Islands and James Bond Island circuit.",
+                            tourCard: { slug: "coral-and-racha-islands-day-trip-by-speedboat", title: "Coral and Racha Islands Day Trip By Speedboat", description: "A speedboat day trip to Coral and Racha Islands.", price: "From $89", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/coral-and-racha-islands-day-trip-by-speedboat/img0/1600.webp" },
+                        },
+                        {
+                            title: "Practical Tips",
+                            content: "The Racha Islands are closer to Phuket than Phi Phi, making for a shorter boat ride and more time actually in the water.",
+                        },
+                    ],
+                    faqs: [
+                        { q: "What are the Racha Islands known for?", a: "Exceptionally clear water and good snorkeling, with a shorter boat ride from Phuket than the Phi Phi Islands." },
+                    ],
+                };
+
             default:
                 return null;
     }

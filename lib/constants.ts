@@ -174,7 +174,8 @@ export const PHUKET_INFO_SLUGS = [
   'best-tours-in-phuket',
   'should-i-book-phuket-tour-direct-or-through-app',
   // GEO single-topic page (2026-10/31)
-  'how-much-should-a-private-tour-guide-cost-in-phuket'
+  'how-much-should-a-private-tour-guide-cost-in-phuket',
+  'is-fantasea-show-worth-it-phuket', 'best-racha-islands-tour-phuket',
 ];
 
 // Malaysia authority pages, batch 1 (2026-10). Re-add a slug here ONLY once
