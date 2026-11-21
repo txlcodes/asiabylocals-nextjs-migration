@@ -1827,6 +1827,7 @@ export const SAPA_INFO_SLUGS = [
   'best-tours-in-sapa',
   'should-i-book-sapa-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-sapa',
+  'best-motorbike-tour-sapa',
 ];
 
 export const HOI_AN_INFO_SLUGS = [

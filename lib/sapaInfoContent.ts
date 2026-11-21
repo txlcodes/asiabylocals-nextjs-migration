@@ -700,6 +700,33 @@ export function getSapaInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-motorbike-tour-sapa":
+      return {
+        title: "Which Is the Best Motorbike Tour in Sapa?",
+        description: "Compare real Sapa motorbike tours — a 1-day ride to hidden villages versus a 2-day private tour with a homestay.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/1-day-sapa-motorbike-tour-explore-hidden-villages-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Riding Sapa's mountain roads by motorbike reaches villages and viewpoints that guided treks and homestay tours don't cover in the same way — a genuinely different, more independent way to see the region.",
+            tourCard: { slug: "1-day-sapa-motorbike-tour-explore-hidden-villages-by-local-operator", title: "1 Day Sapa Motorbike Tour – Explore Hidden Villages by Local Operator", description: "A 1-day motorbike tour to hidden villages around Sapa.", price: "From $208", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/1-day-sapa-motorbike-tour-explore-hidden-villages-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Best for More Time: 2-Day Private Motorbike Tour with Homestay",
+            content: "This extends the motorbike route over 2 days with an overnight homestay, covering more distance and villages than a single-day ride.",
+            tourCard: { slug: "2-day-private-motorbike-tour-with-homestay-in-sapa", title: "2-Day Private Motorbike Tour with Homestay in Sapa", description: "A 2-day private motorbike tour with a homestay overnight.", price: "From $150", duration: "2 days", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200966/asiabylocals/tours/2-day-private-motorbike-tour-with-homestay-in-sapa/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Sapa's mountain roads have sharp switchbacks and can be foggy — prior riding experience is strongly recommended, and most tours include an experienced local driver/guide option for those without it.",
+          },
+        ],
+        faqs: [
+          { q: "Do I need riding experience for a Sapa motorbike tour?", a: "It's strongly recommended given the mountain roads, though many tours offer a local driver option for those without experience." },
+          { q: "What is the best motorbike tour in Sapa?", a: "A 1-day ride for a taste, or a 2-day private tour with homestay for more distance and villages." },
+        ],
+      };
+
     default:
       return null;
   }

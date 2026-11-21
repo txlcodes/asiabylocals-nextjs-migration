@@ -1579,6 +1579,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'mu-cang-chai-and-rice-terrace-guide',
     'sapa-2-day-itinerary', 'best-tours-in-sapa', 'should-i-book-sapa-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-sapa',
+    'best-motorbike-tour-sapa',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/sapa/${slug}`,
     lastModified: new Date(),
