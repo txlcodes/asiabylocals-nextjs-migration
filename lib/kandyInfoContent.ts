@@ -1036,6 +1036,46 @@ export function getKandyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-vedda-village-tour-worth-it-kandy":
+      return {
+        title: "Is the Dambulla Waterfalls and Vedda Village Tour Worth It from Kandy?",
+        description: "An honest look at the Dambulla waterfalls and Vedda village day tour from Kandy, visiting Sri Lanka's indigenous Vedda community, distinct from the city's temple and botanical garden sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1193819/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Vedda are Sri Lanka's indigenous people, and this tour gives genuine insight into their traditional way of life alongside Dambulla's waterfalls — a completely different cultural subject from Kandy's Temple of the Tooth and botanical garden sightseeing.",
+            tourCard: { slug: "dambulla-waterfalls-and-vedda-village-with-kandy", title: "Dambulla Waterfalls and Vedda Village with Kandy", description: "A day tour to Dambulla's waterfalls and a Vedda indigenous village from Kandy.", price: "From $500", duration: "14 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1193819/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a long day given the multiple stops, so budget the full day and approach the village visit with genuine cultural respect and curiosity." },
+        ],
+        faqs: [
+          { q: "Is the Vedda village tour worth it from Kandy?", a: "Yes, for genuine insight into Sri Lanka's indigenous Vedda culture, a completely different subject from Kandy's usual temple sightseeing." },
+        ],
+      };
+
+    case "is-ella-scenic-train-worth-it-kandy":
+      return {
+        title: "Is the Ella Scenic Train from Kandy Worth It?",
+        description: "An honest look at the scenic second-class train ticket from Kandy to Ella, widely considered one of the world's most beautiful train journeys.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-866801/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Kandy-to-Ella train ride passes through Sri Lanka's tea-country hills, waterfalls, and the famous Nine Arch Bridge, often ranked among the world's most scenic train journeys — a genuinely different way to travel the hill country compared to a private car.",
+            tourCard: { slug: "ella-second-class-scenic-train-ticket-tofrom-kandy", title: "Ella: Second-Class Scenic Train Ticket to/from Kandy", description: "A second-class scenic train ticket between Kandy and Ella.", price: "From $185", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-866801/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book seats in advance for the best window views, and keep in mind the journey itself takes most of a day, so plan it as the day's main activity." },
+        ],
+        faqs: [
+          { q: "Is the Kandy to Ella train worth it?", a: "Yes, it's widely considered one of the world's most scenic train journeys, genuinely different from driving the same route." },
+        ],
+      };
+
     default:
       return null;
   }

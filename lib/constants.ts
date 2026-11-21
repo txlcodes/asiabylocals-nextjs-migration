@@ -1422,6 +1422,7 @@ export const KANDY_INFO_SLUGS = [
   'leaving-kandy-onward-transfers',
   'is-ambuluwawa-tower-tour-worth-it-kandy', 'is-botanical-garden-tour-worth-it-kandy',
   'is-cultural-dance-show-worth-it-kandy', 'is-tea-factory-tour-worth-it-kandy',
+  'is-vedda-village-tour-worth-it-kandy', 'is-ella-scenic-train-worth-it-kandy',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/colomboInfoContent.ts.
