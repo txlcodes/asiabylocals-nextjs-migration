@@ -2160,6 +2160,114 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-tilicho-lake-trek-worth-it-pokhara":
+            return {
+                title: "Is the Tilicho Lake Trek Worth It from Pokhara?",
+                seoTitle: "Tilicho Lake Trek 2026 | Honest Review",
+                description: "An honest look at the 6-day Tilicho Lake trek, reaching one of the highest lakes in the world at nearly 5,000 metres.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/54a682053c1f35768ce3321688ca2e6ad053af313027347b6807109138047453.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Tilicho Lake sits at nearly 5,000 metres and is widely cited as one of the highest lakes in the world, making this 6-day trek a genuine high-altitude achievement distinct from the lower, more accessible Poon Hill or Mardi Himal routes.", tourCard: { slug: "from-pokhara-6-day-tilicho-lake-trek-with-guide", title: "From Pokhara: 6-Day Tilicho Lake Trek with Guide", description: "A 6-day guided trek to the high-altitude Tilicho Lake.", price: "From $1105", duration: "6 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/54a682053c1f35768ce3321688ca2e6ad053af313027347b6807109138047453.jpg" } },
+                    { title: "Practical Tips", content: "Altitude is the real challenge here, not distance — build in acclimatisation days and don't rush the ascent schedule." }
+                ],
+                faqs: [
+                    { q: "How high is Tilicho Lake?", a: "Close to 5,000 metres, widely cited as one of the highest lakes in the world, making this a serious high-altitude trek." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Tilicho Lake trek worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine high-altitude achievement reaching one of the highest lakes in the world." } }
+                ] },
+            };
+
+        case "is-australian-camp-hike-worth-it-pokhara":
+            return {
+                title: "Is the Australian Camp Day Hike Worth It from Pokhara?",
+                seoTitle: "Australian Camp Hike Pokhara 2026 | Honest Review",
+                description: "An honest look at the guided day hike to Australian Camp, a short Annapurna foothills walk that needs no overnight trek commitment.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fdd54cd908b7620c13b0190fe6b1657869dfe417641ae8b96d581e9c5607c078.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Australian Camp is a lower Annapurna foothills viewpoint reachable and back in a single day, giving a genuine taste of the trekking trails and mountain views without the multi-day commitment of Poon Hill or Mardi Himal.", tourCard: { slug: "from-pokhara-guided-hike-to-australian-camp-for", title: "From Pokhara: Guided Hike to Australian Camp", description: "A guided day hike to the Australian Camp viewpoint from Pokhara.", price: "From $33", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fdd54cd908b7620c13b0190fe6b1657869dfe417641ae8b96d581e9c5607c078.jpg" } },
+                    { title: "Practical Tips", content: "A good low-commitment pick for travellers short on time who still want to set foot on real Annapurna foothills trails." }
+                ],
+                faqs: [
+                    { q: "Do you need multiple days for the Australian Camp hike?", a: "No, it's a single-day round trip from Pokhara, a good taste of the foothills trails without a multi-day trek commitment." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Australian Camp hike worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine taste of the Annapurna foothills trails in a single day, no overnight trek needed." } }
+                ] },
+            };
+
+        case "is-world-peace-stupa-hike-worth-it-pokhara":
+            return {
+                title: "Is the World Peace Stupa Hike Worth It in Pokhara?",
+                seoTitle: "World Peace Stupa Pokhara 2026 | Honest Review",
+                description: "An honest look at the day hike to Pokhara's World Peace Stupa, a half-day walk with lake and mountain views above the city.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/05db977201621ea3409876b913527541f9bf00bc8f985baff952657eb124456c.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The World Peace Stupa sits on a ridge above Phewa Lake, reachable by a half-day hike that combines a genuine Buddhist monument with sweeping views over the lake and Annapurna range, all without leaving the Pokhara area.", tourCard: { slug: "from-pokhara-day-hike-to-world-peace-stupa", title: "From Pokhara: Day Hike to World Peace Stupa", description: "A half-day guided hike to the World Peace Stupa above Phewa Lake.", price: "From $129", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/05db977201621ea3409876b913527541f9bf00bc8f985baff952657eb124456c.jpg" } },
+                    { title: "Practical Tips", content: "Can be combined with a boat ride across Phewa Lake for the return leg instead of hiking back down the same way." }
+                ],
+                faqs: [
+                    { q: "Is the World Peace Stupa walkable from Pokhara?", a: "Yes, it's a half-day hike, and many visitors pair it with a boat crossing of Phewa Lake on the way back." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the World Peace Stupa hike worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a Buddhist monument and sweeping lake and mountain views in a half-day from the city." } }
+                ] },
+            };
+
+        case "is-kushma-bungee-worth-it-pokhara":
+            return {
+                title: "Is The Cliff Kushma Bungee Jump Worth It near Pokhara?",
+                seoTitle: "Kushma Bungee Jump 2026 | Honest Review",
+                description: "An honest look at The Cliff Kushma, a 228-metre bungee jump near Pokhara and one of the highest bungee platforms in Nepal.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/af8385fdd3d405b09d8fc612a14948b3b0e180ed91ca5fc42bbfb04ee17e84ca.png",
+                sections: [
+                    { title: "The Short Answer", content: "At 228 metres, The Cliff Kushma is among Nepal's highest bungee jumps, a genuine adrenaline alternative to Pokhara's calmer lake and foothill activities, with transfers from the city included.", tourCard: { slug: "from-pokhara-the-cliff-kushma-228-meter-bungee", title: "From Pokhara: The Cliff Kushma 228-Meter Bungee", description: "A 228-metre bungee jump near Pokhara with transfers included.", price: "From $169", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/af8385fdd3d405b09d8fc612a14948b3b0e180ed91ca5fc42bbfb04ee17e84ca.png" } },
+                    { title: "Practical Tips", content: "Weight and health restrictions apply as with any bungee operator; confirm these before booking." }
+                ],
+                faqs: [
+                    { q: "How high is The Cliff Kushma bungee jump?", a: "228 metres, among Nepal's highest bungee platforms, with transfers from Pokhara included in the package." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Kushma bungee jump worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a serious adrenaline activity at one of Nepal's highest bungee platforms, with transfers from Pokhara included." } }
+                ] },
+            };
+
+        case "is-jomsom-scenic-flight-worth-it-pokhara":
+            return {
+                title: "Is the Scenic Flight to Jomsom Worth It from Pokhara?",
+                seoTitle: "Jomsom Scenic Flight 2026 | Honest Review",
+                description: "An honest look at the short scenic flight from Pokhara to Jomsom, a quick way to see the Annapurna and Dhaulagiri ranges from the air.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/79efb65c6e9633ea0eb99386f4a69f3228c322ff3a78d1c918e8debd7739b360.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This roughly 20-minute flight threads between the Annapurna and Dhaulagiri ranges, which is also the standard way trekkers and pilgrims heading to Muktinath skip the long overland drive, making it useful on its own as a scenic flight or as transport for an onward trip.", tourCard: { slug: "from-pokhara-scenic-flight-to-jomsom-in-about-20", title: "From Pokhara: Scenic Flight to Jomsom in About 20 Minutes", description: "A short scenic flight from Pokhara to Jomsom between the Annapurna and Dhaulagiri ranges.", price: "From $293", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/79efb65c6e9633ea0eb99386f4a69f3228c322ff3a78d1c918e8debd7739b360.jpeg" } },
+                    { title: "Practical Tips", content: "Mountain flights are weather-dependent and get delayed or cancelled in poor visibility; build flexibility into any onward plans." }
+                ],
+                faqs: [
+                    { q: "Why fly to Jomsom instead of driving?", a: "It skips a long overland drive and doubles as a scenic flight between the Annapurna and Dhaulagiri ranges, though it's weather-dependent." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the scenic flight to Jomsom worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for quick views between the Annapurna and Dhaulagiri ranges and a practical shortcut past the long overland drive." } }
+                ] },
+            };
+
+        case "is-abc-helicopter-tour-worth-it-pokhara":
+            return {
+                title: "Is the Annapurna Base Camp Helicopter Tour Worth It from Pokhara?",
+                seoTitle: "ABC Helicopter Tour from Pokhara 2026 | Honest Review",
+                description: "An honest look at the Annapurna Base Camp helicopter tour departing from Pokhara, reaching the same destination as the multi-day trek in a few hours.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e4b066b8184e44b5a30b23f7151526607d7bfa3bded18fbed78f4ae836b8bcd6.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Flying from Pokhara rather than Kathmandu cuts both distance and cost for an Annapurna Base Camp helicopter tour, reaching the same destination as the multi-day trek in a fraction of the time for travellers unable or unwilling to trek.", tourCard: { slug: "from-pokhara-annapurna-base-camp-helicopter", title: "From Pokhara: Annapurna Base Camp Helicopter Tour", description: "A helicopter tour to Annapurna Base Camp departing from Pokhara.", price: "From $1059", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e4b066b8184e44b5a30b23f7151526607d7bfa3bded18fbed78f4ae836b8bcd6.jpeg" } },
+                    { title: "Practical Tips", content: "Noticeably cheaper than the equivalent Everest Base Camp helicopter tour, since Pokhara sits much closer to Annapurna than Kathmandu does to Everest." }
+                ],
+                faqs: [
+                    { q: "Is the Annapurna helicopter tour cheaper from Pokhara?", a: "Yes, Pokhara is the closer departure point for Annapurna, which keeps this tour's cost well below the equivalent Everest Base Camp helicopter tour from Kathmandu." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Annapurna Base Camp helicopter tour worth it from Pokhara?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travellers unable or unwilling to trek, reaching the same destination in a few hours at a lower cost than flying from Kathmandu." } }
+                ] },
+            };
+
         default:
             return null;
     }

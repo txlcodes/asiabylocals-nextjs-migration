@@ -744,6 +744,9 @@ export const POKHARA_INFO_SLUGS = [
   'is-mardi-himal-trek-worth-it-pokhara', 'is-annapurna-base-camp-from-pokhara-worth-it',
   'is-chitwan-safari-from-pokhara-worth-it', 'is-jomsom-muktinath-tour-worth-it-pokhara',
   'is-ghandruk-tour-worth-it-pokhara',
+  'is-tilicho-lake-trek-worth-it-pokhara', 'is-australian-camp-hike-worth-it-pokhara',
+  'is-world-peace-stupa-hike-worth-it-pokhara', 'is-kushma-bungee-worth-it-pokhara',
+  'is-jomsom-scenic-flight-worth-it-pokhara', 'is-abc-helicopter-tour-worth-it-pokhara',
 ];
 
 // Batumi & Kutaisi (Georgia) — launched 2026-11-21.
