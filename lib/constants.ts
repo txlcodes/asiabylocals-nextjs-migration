@@ -994,6 +994,7 @@ export const MALE_INFO_SLUGS = [
   'maldives-submarine-tour-guide', 'male-atoll-surf-trip-guide',
   'island-to-island-zipline-adventure-guide',
   'is-maldivian-food-experience-worth-it-male', 'is-cat-island-tour-worth-it-male',
+  'is-male-city-tour-worth-it-male', 'is-parasailing-worth-it-male',
 ];
 
 // Uzbekistan GEO pages (2026-11-12) — first info-content pages for this

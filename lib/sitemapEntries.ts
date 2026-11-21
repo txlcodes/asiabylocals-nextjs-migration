@@ -292,6 +292,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'maldives-submarine-tour-guide', 'male-atoll-surf-trip-guide',
     'island-to-island-zipline-adventure-guide',
     'is-maldivian-food-experience-worth-it-male', 'is-cat-island-tour-worth-it-male',
+    'is-male-city-tour-worth-it-male', 'is-parasailing-worth-it-male',
   ].map(slug => ({
     url: `${BASE_URL}/maldives/male/${slug}`,
     lastModified: new Date(),

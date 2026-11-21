@@ -784,6 +784,48 @@ export function getMaldivesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-male-city-tour-worth-it-male":
+      return {
+        title: "Is the Male Guided City Tour Worth It?",
+        description: "An honest look at the Male guided city tour of the Maldives' capital, a genuine urban experience distinct from the resort-island and sandbank activities most visitors focus on.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ba4fee78aee8a73f4889688cdf580e6dc06e2d5c8ba6d4b5b400e1e4ff1ec857.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Most visitors skip Male entirely for resort islands, but this short guided walk through the Maldivian capital shows real, dense city life and local markets — a genuinely different side of the country from sandbanks and snorkeling.",
+            tourCard: { slug: "maldives-male-guided-city-tour", title: "Maldives: Male Guided City Tour", description: "A guided walking tour of Male, the Maldives' capital city.", price: "From $33", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ba4fee78aee8a73f4889688cdf580e6dc06e2d5c8ba6d4b5b400e1e4ff1ec857.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a short, inexpensive activity best booked during a layover or airport transit day before heading to a resort.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Male city tour worth it?", a: "Yes, for a genuine glimpse of local Maldivian city life, a different side of the country from resort islands and sandbanks." },
+        ],
+      };
+
+    case "is-parasailing-worth-it-male":
+      return {
+        title: "Is Parasailing Worth It near Male?",
+        description: "An honest look at the parasailing experience with round-trip speedboat from Male, an aerial activity distinct from the area's snorkeling and sandbank day trips.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4e84eb673384d6aca32bcbfff3f5ad7adfd4890aceb2478b42b04308f73fa744.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Parasailing over the turquoise water gives an aerial perspective on the atolls that no snorkeling or sandbank trip can match, with round-trip speedboat transfer included to simplify logistics from Male.",
+            tourCard: { slug: "from-male-parasailing-with-round-trip-speedboat", title: "From Male: Parasailing with Round-Trip Speedboat", description: "A parasailing experience with round-trip speedboat transfer from Male.", price: "From $332", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4e84eb673384d6aca32bcbfff3f5ad7adfd4890aceb2478b42b04308f73fa744.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Flights depend on wind conditions, so build flexibility into your day in case of a reschedule.",
+          },
+        ],
+        faqs: [
+          { q: "Is parasailing worth it near Male?", a: "Yes, for a genuinely different aerial view of the atolls, distinct from the area's usual snorkeling and sandbank trips." },
+        ],
+      };
+
     default:
       return null;
   }
