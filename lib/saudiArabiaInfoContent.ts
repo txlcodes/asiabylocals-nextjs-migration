@@ -1272,6 +1272,100 @@ export function getSaudiArabiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "best-ziyarat-tour-mecca":
+            return {
+                title: "Which Is the Best Ziyarat (Holy Sites) Tour in Mecca?",
+                seoTitle: "Best Ziyarat Tour Mecca 2026 | Honest Comparison",
+                description: "Compare real Ziyarat tours of Mecca's Islamic holy sites for Muslim pilgrims — a general sacred-sites guide versus a spiritual tour of sites specifically visited during Hajj.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/371ea4d6c49bf78e338bea15d65e44a81986a32f241746003ad9b25d7ec801e9.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Mecca is restricted to Muslims under Saudi law — these Ziyarat (visitation) tours are designed for Muslim pilgrims performing Hajj or Umrah, guiding them to historically and spiritually significant sites around the city.", tourCard: { slug: "ziyarat-guide-exploring-the-sacred-sites-of-makkah", title: "Ziyarat Guide: Exploring the Sacred Sites of Makkah", description: "A general guided Ziyarat tour of Mecca's sacred sites.", price: "From $168", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/371ea4d6c49bf78e338bea15d65e44a81986a32f241746003ad9b25d7ec801e9.jpeg" } },
+                    { title: "Best for Hajj Context: Spiritual Tour of Holy Sites Visited During Hajj", content: "This specifically covers the sites visited during Hajj, useful context whether you're performing Hajj yourself or want to understand the pilgrimage's geography.", tourCard: { slug: "makkah-spiritual-tour-of-holy-sites-visited", title: "Makkah: Spiritual Tour of Holy Sites Visited During Hajj", description: "A guided tour of the specific sites visited during Hajj.", price: "From $130", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2867a011eeadb1a9aa37824a5453264df12c69dfb07567c84ecaa80489d3774a.jpeg" } },
+                    { title: "Practical Tips", content: "Only Muslims are permitted entry to Mecca itself under Saudi law — these tours are specifically for Muslim travellers performing Umrah or Hajj, or visiting for other religious purposes." }
+                ],
+                faqs: [
+                    { q: "What is the best Ziyarat tour in Mecca?", a: "A general sacred-sites guide for broad coverage, or the Hajj-specific version for pilgrimage context." },
+                    { q: "Can non-Muslims visit Mecca?", a: "No, entry to Mecca is restricted to Muslims under Saudi law." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Ziyarat tour in Mecca?", "acceptedAnswer": { "@type": "Answer", "text": "A general sacred-sites guide, or the Hajj-specific version." } },
+                    { "@type": "Question", "name": "Can non-Muslims visit Mecca?", "acceptedAnswer": { "@type": "Answer", "text": "No, entry is restricted to Muslims under Saudi law." } }
+                ] },
+            };
+
+        case "best-jabal-al-nour-tour-mecca":
+            return {
+                title: "Which Is the Best Jabal al-Nour & Cave Hira Tour in Mecca?",
+                seoTitle: "Best Jabal al-Nour Cave Hira Tour Mecca 2026",
+                description: "Compare real Jabal al-Nour and Cave Hira tours in Mecca — a focused cultural district visit versus a private tour adding Mount Arafat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4805764d06c0e01e2aa0a6664da812d3f53999d1869d731970a17a6d678cc674.png",
+                sections: [
+                    { title: "The Short Answer", content: "Cave Hira, on Jabal al-Nour, holds deep significance in Islamic history, and tours here range from a focused visit to the cultural district to a private version that also covers Mount Arafat.", tourCard: { slug: "makkah-hira-cultural-district-private-tour-with", title: "Makkah: Hira Cultural District Private Tour with Guide", description: "A private tour of the Hira cultural district.", price: "From $259", duration: "4.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e52eca0bbdefe0c5d9231e88984f1bbd8ca831cd354d2fbdf78c105376965daf.jpg" } },
+                    { title: "Best Full Combo: Jabal Al-Nour, Cave Hira & Mount Arafat Tour", content: "This extends the visit to include Mount Arafat as well, covering more of the sites significant to Islamic history and the Hajj pilgrimage in one trip.", tourCard: { slug: "makkah-private-jabal-al-nour-cave-hira-mount", title: "Makkah: Private Jabal Al-Nour, Cave Hira & Mount Arafat Tour", description: "A private tour covering Jabal al-Nour, Cave Hira, and Mount Arafat.", price: "From $260", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4805764d06c0e01e2aa0a6664da812d3f53999d1869d731970a17a6d678cc674.png" } },
+                    { title: "Practical Tips", content: "Reaching the cave itself involves a genuine hike up Jabal al-Nour — comfortable footwear matters, and the climb can be warm during the day, so an early start is worth considering." }
+                ],
+                faqs: [
+                    { q: "What is the best Jabal al-Nour and Cave Hira tour?", a: "A focused cultural district tour, or add Mount Arafat for a fuller historical visit." },
+                    { q: "Is reaching Cave Hira difficult?", a: "It requires a genuine hike up Jabal al-Nour — comfortable footwear and an early start help." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Jabal al-Nour tour?", "acceptedAnswer": { "@type": "Answer", "text": "A focused cultural district tour, or add Mount Arafat." } },
+                    { "@type": "Question", "name": "Is reaching the cave difficult?", "acceptedAnswer": { "@type": "Answer", "text": "It requires a genuine hike up Jabal al-Nour." } }
+                ] },
+            };
+
+        case "is-clock-tower-museum-worth-it-mecca":
+            return {
+                title: "Is the Makkah Clock Tower Museum Worth It?",
+                seoTitle: "Makkah Clock Tower Museum 2026 | Honest Review",
+                description: "An honest look at the Makkah Clock Tower Museum, including general entry and the panoramic terrace option.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c09b8ef3b20b6b781aa53d4856cbb0fd249a6ca0def685c9c42a98ba7128e396.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Clock Tower Museum, inside one of the tallest buildings in the world, covers the history of Mecca and the Two Holy Mosques — the general entry ticket covers the museum, while the panoramic terrace adds sweeping views over the Grand Mosque complex.", tourCard: { slug: "makkah-clock-tower-museum-general-entry-ticket", title: "Makkah Clock Tower Museum: General Entry Ticket", description: "General entry to the Makkah Clock Tower Museum.", price: "From $129", duration: "20 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c09b8ef3b20b6b781aa53d4856cbb0fd249a6ca0def685c9c42a98ba7128e396.jpg" } },
+                    { title: "Best for Views: Clock Tower Museum & Panoramic Terrace", content: "This adds the panoramic terrace to the museum entry, giving sweeping views over the Grand Mosque complex below.", tourCard: { slug: "makkah-clock-tower-museum-panoramic-terrace", title: "Makkah: Clock Tower Museum & Panoramic Terrace Tickets", description: "Museum entry plus access to the panoramic terrace.", price: "From $52", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b3243f88e7e7e78fe70a61785dd48ae3fab08c1c19f4882966bb83b2e1a4f5df.jpg" } },
+                    { title: "Practical Tips", content: "The terrace views over the Grand Mosque are genuinely striking, especially around prayer times when the complex is at its busiest — worth timing your visit around that if you want to see it at its most active." }
+                ],
+                faqs: [
+                    { q: "Is the Clock Tower Museum worth it?", a: "Yes, for the history covered and especially the panoramic terrace views over the Grand Mosque." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Clock Tower Museum worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, especially for the panoramic terrace views." } }
+                ] },
+            };
+
+        case "is-umrah-guidance-tour-worth-it-mecca":
+            return {
+                title: "Is Private Umrah Guidance with a Local Guide in Mecca Worth It?",
+                seoTitle: "Private Umrah Guidance Mecca 2026 | Honest Review",
+                description: "An honest look at private Umrah guidance tours in Mecca for Muslim pilgrims performing the pilgrimage.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/aeccc0b8dc75fb3aa0ca8df7fb630334bff131a3447d4d18c5ec7af6fed44e9a.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "For Muslim pilgrims performing Umrah, especially first-timers, private guidance from a local guide who knows the rituals, logistics, and crowd patterns can genuinely ease the experience, particularly around the Grand Mosque's busiest times.", tourCard: { slug: "makkah-private-umrah-guidance-with-local-guide", title: "Makkah: Private Umrah Guidance with Local Guide", description: "Private Umrah guidance with a local guide.", price: "From $143", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/aeccc0b8dc75fb3aa0ca8df7fb630334bff131a3447d4d18c5ec7af6fed44e9a.jpeg" } },
+                    { title: "Practical Tips", content: "This is especially useful for first-time pilgrims unfamiliar with the Grand Mosque's layout and the specific sequence of Umrah rituals." }
+                ],
+                faqs: [
+                    { q: "Is private Umrah guidance worth it?", a: "Yes, especially for first-time pilgrims, for help navigating the rituals and the Grand Mosque's busiest times." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is private Umrah guidance worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, especially for first-time pilgrims." } }
+                ] },
+            };
+
+        case "mecca-travel-guide-2026":
+            return {
+                title: "Mecca Travel Guide 2026 (For Muslim Pilgrims)",
+                description: "What Muslim pilgrims need to know about visiting Mecca for Umrah or Hajj.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/371ea4d6c49bf78e338bea15d65e44a81986a32f241746003ad9b25d7ec801e9.jpeg",
+                sections: [
+                    { title: "Important: Entry Restrictions", content: "Mecca is restricted to Muslims under Saudi law — non-Muslims are not permitted entry to the city. All tours and guidance here are intended for Muslim travellers performing Umrah, Hajj, or other religious visits." },
+                    { title: "What to Know", content: "Beyond the Grand Mosque itself, Mecca has historically and religiously significant sites including Jabal al-Nour, Cave Hira, the Clock Tower Museum, and sites associated with the Hajj pilgrimage route." }
+                ],
+                faqs: [
+                    { q: "Can non-Muslims visit Mecca?", a: "No, entry is restricted to Muslims under Saudi law." },
+                    { q: "What should Muslim pilgrims know before visiting?", a: "Beyond the Grand Mosque, sites like Jabal al-Nour, Cave Hira, and the Clock Tower Museum hold real historical and religious significance." }
+                ],
+            };
+
         default:
             return null;
     }

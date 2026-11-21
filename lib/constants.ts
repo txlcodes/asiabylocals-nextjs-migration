@@ -699,6 +699,15 @@ export const NONG_KHIAW_INFO_SLUGS = [
   'nong-khiaw-travel-guide-2026',
 ];
 
+// Mecca (Saudi Arabia) — 33 live tours, launched 2026-11-21. All content
+// here is for Muslim pilgrims; Mecca entry is restricted to Muslims under
+// Saudi law, stated factually in the content itself.
+export const MECCA_INFO_SLUGS = [
+  'best-ziyarat-tour-mecca', 'best-jabal-al-nour-tour-mecca',
+  'is-clock-tower-museum-worth-it-mecca', 'is-umrah-guidance-tour-worth-it-mecca',
+  'mecca-travel-guide-2026',
+];
+
 export const JOHOR_BAHRU_INFO_SLUGS = [
   'best-jetski-tour-johor-bahru',
   'best-hop-on-hop-off-tour-johor-bahru', 'best-private-city-tour-johor-bahru',
