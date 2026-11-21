@@ -580,6 +580,42 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-puppet-making-workshop-worth-it-bukhara":
+            return {
+                title: "Is the Puppet Magic Workshop Worth It in Bukhara?",
+                seoTitle: "Bukhara Puppet Workshop 2026 | Honest Review",
+                description: "An honest look at Bukhara's puppet magic and puppet-making workshop, a hands-on traditional craft activity distinct from the city's madrasa and mosque sightseeing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/94900079fb19fb2110cbf7eafdf5157c57fdd7c9e829978ef0431de43ee3aa71.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Bukhara has a traditional puppet-making craft, and this workshop lets you watch a performance before making your own, a genuinely hands-on cultural activity that's a nice complement to the city's heavy architecture-and-monument sightseeing.", tourCard: { slug: "bukhara-dicover-puppet-magic-and-make-your-own", title: "Bukhara: Discover Puppet Magic and Make Your Own", description: "A workshop combining a puppet show with hands-on puppet making in Bukhara.", price: "From $104", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/94900079fb19fb2110cbf7eafdf5157c57fdd7c9e829978ef0431de43ee3aa71.jpg" } },
+                    { title: "Practical Tips", content: "You take your finished puppet home as a souvenir, a nice alternative to the usual ceramics or textiles most visitors buy." },
+                ],
+                faqs: [
+                    { q: "Is the puppet workshop worth it in Bukhara?", a: "Yes, for a genuinely hands-on craft activity that's a nice complement to the city's monument-heavy sightseeing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the puppet workshop worth it in Bukhara?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely hands-on traditional craft activity." } },
+                ] },
+            };
+
+        case "is-gold-embroidery-workshop-worth-it-bukhara":
+            return {
+                title: "Is the Gold Embroidery (Zardozlik) Workshop Worth It in Bukhara?",
+                seoTitle: "Bukhara Gold Embroidery Workshop 2026 | Honest Review",
+                description: "An honest look at Bukhara's gold zardozlik embroidery workshop, a traditional craft technique unique to the city, distinct from its usual sightseeing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/22370d94e0a3e913e1d4d99e1f866fa1ca418ec142f1c2c2be23bde3d92d8203.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Zardozlik, gold-thread embroidery historically used on royal and ceremonial garments, is a craft specifically associated with Bukhara — this hands-on workshop gives genuine insight into a technique most visitors would otherwise just see displayed in a shop window.", tourCard: { slug: "bukhara-gold-zardozlik-embroidery-workshop-and", title: "Bukhara: Gold Zardozlik Embroidery Workshop", description: "A hands-on gold zardozlik embroidery workshop in Bukhara.", price: "From $169", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/22370d94e0a3e913e1d4d99e1f866fa1ca418ec142f1c2c2be23bde3d92d8203.jpg" } },
+                    { title: "Practical Tips", content: "No prior embroidery experience is needed — this is a hands-on introduction rather than a technical masterclass." },
+                ],
+                faqs: [
+                    { q: "Is the gold embroidery workshop worth it in Bukhara?", a: "Yes, for genuine hands-on insight into a craft technique uniquely associated with Bukhara." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the gold embroidery workshop worth it in Bukhara?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine insight into a craft technique unique to Bukhara." } },
+                ] },
+            };
+
         case "is-solar-furnace-tour-worth-it-tashkent":
             return {
                 title: "Is the 1 MW Solar Furnace Tour Worth It from Tashkent?",

@@ -1021,6 +1021,7 @@ export const BUKHARA_INFO_SLUGS = [
   'best-tours-in-bukhara',
   'best-old-town-walking-tour-bukhara',
   'is-plov-workshop-worth-it-bukhara', 'is-folklore-fashion-show-worth-it-bukhara',
+  'is-puppet-making-workshop-worth-it-bukhara', 'is-gold-embroidery-workshop-worth-it-bukhara',
 ];
 
 export const KHIVA_INFO_SLUGS = [
