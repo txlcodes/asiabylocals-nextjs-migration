@@ -3364,6 +3364,64 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "best-genting-highlands-tour-kuala-lumpur":
+            return {
+                title: "Which Is the Best Genting Highlands Day Tour from Kuala Lumpur?",
+                seoTitle: "Best Genting Highlands Tour 2026 | Comparison",
+                description: "Compare real Genting Highlands day tours from Kuala Lumpur — a standard gondola day tour versus a private version with an indoor theme park stop.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-533556/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Genting Highlands is a cool-climate hilltop resort reached by cable car gondola, with casino, theme park, and shopping — both tours cover the gondola ride, differing mainly in group size and extra stops.", tourCard: { slug: "from-kuala-lumpur-genting-highlands-day-tour", title: "From Kuala Lumpur: Genting Highlands Day Tour & Gondola Ride", description: "A day tour to Genting Highlands with the gondola ride.", price: "From $109", duration: "8.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-533556/img0/1600.webp" } },
+                    { title: "Best for Privacy and More Time: Private Trip with Indoor Park", content: "This private version adds time at Genting's indoor theme park, worth it if you want more than just the gondola ride and viewpoint.", tourCard: { slug: "genting-highlands-private-trip-with-gondola", title: "Genting Highlands Private Trip with Gondola & Indoor Park", description: "A private trip to Genting Highlands with gondola and indoor theme park.", price: "From $181", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1144905/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Genting's hilltop elevation makes it noticeably cooler than KL — bring a light jacket, especially if visiting in the evening." }
+                ],
+                faqs: [
+                    { q: "What is Genting Highlands known for?", a: "A cool-climate hilltop resort reached by cable car, with a casino, theme park, and shopping." },
+                    { q: "Is Genting Highlands cooler than Kuala Lumpur?", a: "Yes, its hilltop elevation makes it noticeably cooler — bring a light jacket." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is Genting Highlands known for?", "acceptedAnswer": { "@type": "Answer", "text": "A cool-climate hilltop resort with a casino, theme park, and cable car gondola." } }
+                ] },
+            };
+
+        case "is-kuala-selangor-firefly-tour-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Kuala Selangor Firefly Tour Worth It from Kuala Lumpur?",
+                seoTitle: "Kuala Selangor Firefly Tour 2026 | Honest Review",
+                description: "Compare Kuala Selangor firefly river cruise options from Kuala Lumpur — a standard glowing firefly tour versus a version adding dinner.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1472311/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Kuala Selangor's mangrove-dwelling fireflies light up the riverside trees at dusk in a genuinely striking natural display, reached by river cruise from a town roughly an hour from KL.", tourCard: { slug: "glowing-kuala-selangor-firefly-tour", title: "Glowing Kuala Selangor Firefly Tour", description: "A firefly river cruise tour at Kuala Selangor.", price: "From $84", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1335859/img0/1600.webp" } },
+                    { title: "Best with Dinner: Firefly Cruise & Dinner", content: "This version adds a dinner stop around the firefly cruise, making for a fuller evening outing.", tourCard: { slug: "from-kuala-lumpur-kuala-selangor-firefly-cruise", title: "From Kuala Lumpur: Kuala Selangor Firefly Cruise & Dinner", description: "A firefly cruise from Kuala Lumpur with dinner included.", price: "From $255", duration: "6.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1472311/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Fireflies are most active on darker, moonless nights — if timing flexibility matters to you, ask your operator about the current lunar cycle." }
+                ],
+                faqs: [
+                    { q: "Is the Kuala Selangor firefly tour worth it?", a: "Yes, for a genuinely striking natural display easily reached from KL, roughly an hour away." },
+                    { q: "When are fireflies most visible at Kuala Selangor?", a: "On darker, moonless nights, when the glow is most visible." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Kuala Selangor firefly tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a striking natural display about an hour from KL." } }
+                ] },
+            };
+
+        case "is-kl-bird-park-aquaria-tour-worth-it-kuala-lumpur":
+            return {
+                title: "Is the KL Bird Park & Aquaria KLCC Tour Worth It?",
+                seoTitle: "KL Bird Park Aquaria KLCC Tour 2026 | Honest Review",
+                description: "An honest look at combining KL Bird Park, one of the world's largest covered bird parks, with the Aquaria KLCC underwater aquarium.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1401719/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "KL Bird Park is one of the world's largest covered bird parks, paired here with Aquaria KLCC's underwater tunnel aquarium — two very different wildlife attractions bundled into one day, plus complimentary shopping time.", tourCard: { slug: "kl-bird-park-aquaria-klcc-tour-with-complimentary", title: "KL Bird Park & Aquaria KLCC Tour with Complimentary Shopping", description: "A combined tour of KL Bird Park and Aquaria KLCC.", price: "From $216", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1401719/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good family-friendly option that mixes indoor (aquarium) and semi-outdoor (bird park) activities, useful on a hot or rainy day." }
+                ],
+                faqs: [
+                    { q: "Is the KL Bird Park worth visiting?", a: "Yes, it's one of the world's largest covered bird parks, and this tour pairs it with the Aquaria KLCC aquarium." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the KL Bird Park worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's one of the world's largest covered bird parks." } }
+                ] },
+            };
+
         default:
             return null;
     }

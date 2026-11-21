@@ -193,6 +193,8 @@ export const KUALA_LUMPUR_INFO_SLUGS = [
   'how-much-should-a-private-tour-guide-cost-in-kuala-lumpur',
   // Tour-selling page (2026-11-14)
   'best-petronas-towers-tour-kuala-lumpur',
+  'best-genting-highlands-tour-kuala-lumpur', 'is-kuala-selangor-firefly-tour-worth-it-kuala-lumpur',
+  'is-kl-bird-park-aquaria-tour-worth-it-kuala-lumpur',
 ];
 
 export const PENANG_INFO_SLUGS = [
