@@ -799,7 +799,9 @@ export const SHANGHAI_INFO_SLUGS = [
   'shanghai-1-day-itinerary', 'shanghai-3-day-itinerary', 'the-bund-shanghai',
   'shanghai-tower-tickets', 'yu-garden-shanghai', 'zhujiajiao-water-town',
   'shanghai-french-concession-guide', 'shanghai-food-guide', 'shanghai-disneyland-guide',
-  'suzhou-day-trip-from-shanghai', 'shanghai-metro-guide', 'shanghai-vs-beijing-which-to-visit'
+  'suzhou-day-trip-from-shanghai', 'shanghai-metro-guide', 'shanghai-vs-beijing-which-to-visit',
+  'is-huangpu-river-cruise-worth-it-shanghai', 'is-zhouzhuang-water-town-worth-it-shanghai',
+  'is-tea-ceremony-worth-it-shanghai', 'is-dumpling-cooking-class-worth-it-shanghai',
 ];
 
 // Hong Kong launched 2026-10 with 197 live tours and zero authority pages.

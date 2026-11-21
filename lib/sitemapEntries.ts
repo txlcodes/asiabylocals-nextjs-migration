@@ -141,6 +141,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'shanghai-tower-tickets', 'yu-garden-shanghai', 'zhujiajiao-water-town',
     'shanghai-french-concession-guide', 'shanghai-food-guide', 'shanghai-disneyland-guide',
     'suzhou-day-trip-from-shanghai', 'shanghai-metro-guide', 'shanghai-vs-beijing-which-to-visit',
+    'is-huangpu-river-cruise-worth-it-shanghai', 'is-zhouzhuang-water-town-worth-it-shanghai',
+    'is-tea-ceremony-worth-it-shanghai', 'is-dumpling-cooking-class-worth-it-shanghai',
   ].map(slug => ({
     url: `${BASE_URL}/china/shanghai/${slug}`,
     lastModified: new Date(),

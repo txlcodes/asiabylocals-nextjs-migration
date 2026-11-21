@@ -460,6 +460,86 @@ export function getShanghaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-huangpu-river-cruise-worth-it-shanghai":
+      return {
+        title: "Is the Huangpu River Night Cruise Worth It in Shanghai?",
+        description: "An honest look at the Huangpu River night cruise, showing off the Bund and Pudong skyline lit up after dark.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1fd61c45210b72e1d10ca304c1a92e169fd81f4cc6099b21baa60eb0cff195db.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A night cruise on the Huangpu River is one of Shanghai's signature experiences, putting the Bund's colonial-era buildings and Pudong's futuristic skyline on either riverbank in full view, illuminated after dark.",
+            tourCard: { slug: "huangpu-river-night-cruise-with-2-departure-points", title: "Huangpu River Night Cruise with 2 Departure Points", description: "A night cruise on the Huangpu River with flexible departure points.", price: "From $44", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1fd61c45210b72e1d10ca304c1a92e169fd81f4cc6099b21baa60eb0cff195db.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Choose whichever departure point is more convenient to your hotel — both sides offer essentially the same skyline view." },
+        ],
+        faqs: [
+          { q: "Is the Huangpu River cruise worth it?", a: "Yes, it's a signature Shanghai experience showing both the Bund and Pudong skylines lit up at night." },
+        ],
+      };
+
+    case "is-zhouzhuang-water-town-worth-it-shanghai":
+      return {
+        title: "Is Zhouzhuang Water Town Worth It from Shanghai?",
+        description: "An honest look at Zhouzhuang, a canal town often compared to Zhujiajiao as a day trip from Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11db67ee12b5e27d8ae79929cbfb33ffc85c47cc4be53f27667ff88f15a761a8.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Zhouzhuang is one of China's most famous water towns, with canals, stone bridges, and Ming/Qing-era architecture — a genuine alternative to Zhujiajiao for travelers who want a different (often less crowded) water town experience.",
+            tourCard: { slug: "from-shanghai-zhouzhuang-water-town-day-trip", title: "From Shanghai: Zhouzhuang Water Town Day Trip", description: "A day trip to Zhouzhuang Water Town from Shanghai.", price: "From $260", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11db67ee12b5e27d8ae79929cbfb33ffc85c47cc4be53f27667ff88f15a761a8.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If you've already visited Zhujiajiao (closer to Shanghai), Zhouzhuang offers a similar but distinct water-town experience further afield." },
+        ],
+        faqs: [
+          { q: "Is Zhouzhuang different from Zhujiajiao?", a: "Yes, both are water towns with canals and old architecture, but they're separate towns — worth choosing one or visiting both on different trips." },
+        ],
+      };
+
+    case "is-tea-ceremony-worth-it-shanghai":
+      return {
+        title: "Is a Chinese Tea Ceremony Worth It in Shanghai?",
+        description: "An honest look at Shanghai's Chinese tea ceremony experience.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b0c56a1dafeb844fe372ea4dd20eaf5218c38d7e43b548974d4d848f1dd56665.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A traditional tea ceremony teaches the ritual and etiquette behind Chinese tea culture, with tastings of several varieties — a relaxed cultural activity to pair with Shanghai's more fast-paced sightseeing.",
+            tourCard: { slug: "shanghai-chinese-tea-ceremony-experience", title: "Shanghai: Chinese Tea Ceremony Experience", description: "A Chinese tea ceremony experience in Shanghai.", price: "From $480", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b0c56a1dafeb844fe372ea4dd20eaf5218c38d7e43b548974d4d848f1dd56665.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good activity for a smaller group or private booking, given the format suits a more intimate, slower-paced setting." },
+        ],
+        faqs: [
+          { q: "Is a tea ceremony worth it in Shanghai?", a: "Yes, as a relaxed cultural counterpoint to the city's fast-paced sightseeing." },
+        ],
+      };
+
+    case "is-dumpling-cooking-class-worth-it-shanghai":
+      return {
+        title: "Is a Dumpling Cooking Class Worth It in Shanghai?",
+        description: "An honest look at Shanghai's hands-on dumpling cooking class.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2e7dc6be54306398b19cc15960cb99caaaafb87f5544d033a7f291c944f0a99c.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This hands-on class teaches you to make dumplings, one of Shanghai's defining foods, directly — a short, affordable cultural activity that fits easily into a day.",
+            tourCard: { slug: "shanghai-dumpling-cooking-class-hands-on", title: "Shanghai: Dumpling Cooking Class - Hands-on Experience - 2hrs", description: "A hands-on dumpling cooking class.", price: "From $90", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2e7dc6be54306398b19cc15960cb99caaaafb87f5544d033a7f291c944f0a99c.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "At just 2 hours, this fits easily between other activities — a good lunchtime or mid-afternoon addition to your Shanghai day." },
+        ],
+        faqs: [
+          { q: "Is a dumpling cooking class worth it in Shanghai?", a: "Yes, it's short, affordable, and teaches a genuinely defining Shanghai food." },
+        ],
+      };
+
     default:
       return null;
   }
