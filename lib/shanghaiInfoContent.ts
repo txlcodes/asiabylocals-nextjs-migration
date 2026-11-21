@@ -582,6 +582,111 @@ export function getShanghaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-suzhou-day-trip-worth-it-shanghai":
+      return {
+        title: "Is the Suzhou Day Trip Worth It from Shanghai?",
+        description: "An honest look at the Suzhou day trip from Shanghai, reaching a city famous for classical Chinese gardens and canal scenery.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5991c5795b8d2f5cb694dfc57b056aa525c3499b3600c3d71d4665f453e749fa.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Suzhou is famous for its classical Chinese gardens and canal scenery, often called the 'Venice of the East', and its close proximity to Shanghai by high-speed rail makes this a genuinely easy day trip rather than a major commitment.",
+            tourCard: { slug: "a-glimpse-of-suzhou-one-day-tour-from-shanghai", title: "A Glimpse of Suzhou: One-Day Tour from Shanghai", description: "A one-day tour to Suzhou's classical gardens from Shanghai.", price: "From $117", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5991c5795b8d2f5cb694dfc57b056aa525c3499b3600c3d71d4665f453e749fa.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The high-speed rail connection makes this one of the easiest day trips from Shanghai — no overnight stay is really necessary unless you want to linger.",
+          },
+        ],
+        faqs: [
+          { q: "Is Suzhou worth a day trip from Shanghai?", a: "Yes, it's an easy high-speed rail trip to see classical Chinese gardens and canal scenery genuinely different from Shanghai's modern skyline." },
+        ],
+      };
+
+    case "is-yu-garden-old-town-tour-worth-it-shanghai":
+      return {
+        title: "Is the Yu Garden and Old Town Tour Worth It in Shanghai?",
+        description: "An honest look at the Yu Garden and Old Town private tour, a classical Ming dynasty garden surrounded by Shanghai's traditional old city bazaar.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3c08e5439956f87f6fa856456e9ed487d5bed194222846c058c4a226ff3fae89.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yu Garden is a classical Ming dynasty garden surrounded by Old Town's traditional bazaar architecture, a genuine contrast to the ultra-modern Bund and Pudong skyline most visitors photograph, and a guide helps explain the garden's design philosophy that's easy to miss walking through alone.",
+            tourCard: { slug: "3-hour-private-tour-of-yu-garden-old-town", title: "3-Hour Private Tour of Yu Garden & Old Town", description: "A private guided tour of Yu Garden and Shanghai's Old Town.", price: "From $219", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3c08e5439956f87f6fa856456e9ed487d5bed194222846c058c4a226ff3fae89.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in the morning before the surrounding bazaar gets genuinely crowded with both tourists and local shoppers.",
+          },
+        ],
+        faqs: [
+          { q: "Is Yu Garden worth visiting in Shanghai?", a: "Yes, for a genuine contrast to the modern skyline, with a classical Ming dynasty garden and a traditional old-city bazaar atmosphere." },
+        ],
+      };
+
+    case "is-french-concession-walking-tour-worth-it-shanghai":
+      return {
+        title: "Is the French Concession Walking Tour Worth It in Shanghai?",
+        description: "An honest look at the French Concession walking tour with a real local, exploring Shanghai's tree-lined former colonial district.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/da2c932ed730b1dc3bb0d347bb3eac15f841f21ccfce4f8bce2f472a1cbc3562.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The French Concession is Shanghai's tree-lined former colonial district, now full of boutique shops and cafes in converted European-style villas, a genuinely different pace and architecture from the city's dense modern core.",
+            tourCard: { slug: "french-concession-walking-tour-with-real-local", title: "French Concession Walking Tour with a Real Local", description: "A walking tour of Shanghai's French Concession with a local guide.", price: "From $43", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/da2c932ed730b1dc3bb0d347bb3eac15f841f21ccfce4f8bce2f472a1cbc3562.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good lower-key half-day pick to pair with a morning spent at the busier Bund or Yu Garden sights.",
+          },
+        ],
+        faqs: [
+          { q: "Is the French Concession worth visiting in Shanghai?", a: "Yes, for a genuinely different, tree-lined pace from the city's dense modern core, with converted colonial villas now housing shops and cafes." },
+        ],
+      };
+
+    case "is-zhujiajiao-water-town-worth-it-shanghai":
+      return {
+        title: "Is the Zhujiajiao Water Town Tour Worth It from Shanghai?",
+        description: "An honest look at the Zhujiajiao water town tour, a canal town closer to Shanghai than Zhouzhuang or Suzhou with centuries-old stone bridges.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/49ac9b95cc09d6d3c35b4289e718567c99b754817097595f0c3a88aaca814893.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Zhujiajiao sits closer to Shanghai than other water towns like Zhouzhuang, making it a genuinely easier half-day escape, with centuries-old stone bridges and canal boat rides giving the same classic water-town atmosphere without as much travel time.",
+            tourCard: { slug: "all-inclusive-half-day-private-tour-to-zhujiajiao", title: "All-Inclusive Half-Day Private Tour to Zhujiajiao", description: "A half-day private tour to the Zhujiajiao water town.", price: "From $336", duration: "5.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/49ac9b95cc09d6d3c35b4289e718567c99b754817097595f0c3a88aaca814893.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If you've already visited Zhouzhuang, Zhujiajiao's closer distance makes it the better pick for a shorter half-day water-town fix.",
+          },
+        ],
+        faqs: [
+          { q: "Is Zhujiajiao worth visiting instead of Zhouzhuang?", a: "It's a good lower-commitment alternative — closer to Shanghai, with the same classic water-town atmosphere in a shorter half-day trip." },
+        ],
+      };
+
+    case "is-era-acrobatic-show-worth-it-shanghai":
+      return {
+        title: "Is the ERA Acrobatic Show Worth It in Shanghai?",
+        description: "An honest look at ERA: Intersection of Time, Shanghai's long-running acrobatic show combining traditional Chinese acrobatics with modern stage production.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/48db3d849b183904de4851e96849f819d90d696db34342252893e3dd90c82128.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "ERA is a long-running acrobatic show blending traditional Chinese acrobatics with modern stage effects like motorcycles in a steel globe, a genuinely impressive evening activity distinct from Shanghai's usual skyline and garden sightseeing.",
+            tourCard: { slug: "era-intersection-of-time-front-row-show-ticket", title: "ERA: Intersection of Time, Front Row Show Ticket", description: "A front-row ticket to Shanghai's ERA acrobatic show.", price: "From $117", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/48db3d849b183904de4851e96849f819d90d696db34342252893e3dd90c82128.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A front-row seat genuinely matters for this kind of show — the acrobatics and stunts are more impressive viewed up close.",
+          },
+        ],
+        faqs: [
+          { q: "Is the ERA acrobatic show worth it in Shanghai?", a: "Yes, for a genuinely impressive evening blending traditional Chinese acrobatics with modern stage effects." },
+        ],
+      };
+
     default:
       return null;
   }

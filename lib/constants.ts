@@ -902,6 +902,9 @@ export const SHANGHAI_INFO_SLUGS = [
   'is-huangpu-river-cruise-worth-it-shanghai', 'is-zhouzhuang-water-town-worth-it-shanghai',
   'is-tea-ceremony-worth-it-shanghai', 'is-dumpling-cooking-class-worth-it-shanghai',
   'is-calligraphy-workshop-worth-it-shanghai', 'is-yangcheng-crab-catching-worth-it-shanghai',
+  'is-suzhou-day-trip-worth-it-shanghai', 'is-yu-garden-old-town-tour-worth-it-shanghai',
+  'is-french-concession-walking-tour-worth-it-shanghai', 'is-zhujiajiao-water-town-worth-it-shanghai',
+  'is-era-acrobatic-show-worth-it-shanghai',
 ];
 
 // Hong Kong launched 2026-10 with 197 live tours and zero authority pages.
