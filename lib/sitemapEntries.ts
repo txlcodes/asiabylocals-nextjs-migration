@@ -1026,6 +1026,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'tuol-sleng-and-choeung-ek-guide', 'royal-palace-phnom-penh', 'phnom-penh-2-day-itinerary', 'phnom-penh-food-and-markets', 'phnom-penh-to-siem-reap-transport', 'best-time-to-visit-phnom-penh',
     'phnom-penh-1-day-itinerary', 'koh-dach-silk-island', 'kampot-and-kep-day-trip', 'phnom-penh-street-art', 'where-to-stay-in-phnom-penh', 'phnom-penh-to-battambang', 'oudong-guide', 'phnom-penh-with-kids', 'phnom-penh-to-sihanoukville-and-the-islands', 'phnom-penh-airport-guide', 'best-tours-in-phnom-penh', 'should-i-book-phnom-penh-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-phnom-penh',
+    'is-mekong-sunset-cruise-worth-it-phnom-penh', 'is-khmer-cooking-class-worth-it-phnom-penh',
+    'is-cyclo-tour-worth-it-phnom-penh', 'is-shooting-range-tour-worth-it-phnom-penh',
   ].map(slug => ({
     url: `${BASE_URL}/cambodia/phnom-penh/${slug}`,
     lastModified: new Date(),

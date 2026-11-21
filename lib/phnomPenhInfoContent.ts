@@ -930,6 +930,78 @@ export function getPhnomPenhInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        case "is-mekong-sunset-cruise-worth-it-phnom-penh":
+            return {
+                title: "Is the Mekong Sunset Dinner Cruise Worth It in Phnom Penh?",
+                seoTitle: "Phnom Penh Mekong Sunset Cruise 2026 | Honest Review",
+                description: "An honest look at the Mekong sunset dinner cruise with live music in Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mekong-sunset-dinner-cruise-with-live-music/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "At a very low price, this cruise shows Phnom Penh's riverside skyline and the Mekong's confluence with the Tonle Sap and Bassac rivers at sunset, with live music for atmosphere.", tourCard: { slug: "mekong-sunset-dinner-cruise-with-live-music", title: "Mekong Sunset Dinner Cruise with Live Music", description: "A Mekong sunset dinner cruise with live music.", price: "From $13", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/mekong-sunset-dinner-cruise-with-live-music/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A relaxed, affordable way to end a day of visiting the Royal Palace or the Killing Fields, without needing much energy." }
+                ],
+                faqs: [
+                    { q: "Is the Mekong sunset cruise worth it?", a: "Yes, given its low price, it's a relaxed and affordable evening activity." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Mekong sunset cruise worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, given its low price and relaxed atmosphere." } }
+                ] },
+            };
+
+        case "is-khmer-cooking-class-worth-it-phnom-penh":
+            return {
+                title: "Is a Khmer Cooking Class Worth It in Phnom Penh?",
+                seoTitle: "Phnom Penh Khmer Cooking Class 2026 | Honest Review",
+                description: "An honest look at Phnom Penh's full-day hands-on Khmer cooking class.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hands-on-khmer-cooking-class-full-day/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This full-day hands-on class covers Khmer cuisine in depth, typically including a market visit for context on fresh ingredients before cooking multiple dishes.", tourCard: { slug: "hands-on-khmer-cooking-class-full-day", title: "Hands-On Khmer Cooking Class (Full-Day)", description: "A full-day hands-on Khmer cooking class.", price: "From $78", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/hands-on-khmer-cooking-class-full-day/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "If a full day feels like too much, ask about half-day morning or afternoon versions covering fewer dishes." }
+                ],
+                faqs: [
+                    { q: "Is a Khmer cooking class worth it in Phnom Penh?", a: "Yes, especially the full-day version with a market visit for genuine context on local ingredients." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a Khmer cooking class worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, especially the full-day version with a market visit." } }
+                ] },
+            };
+
+        case "is-cyclo-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Evening Cyclo Tour Worth It in Phnom Penh?",
+                seoTitle: "Phnom Penh Cyclo Tour 2026 | Honest Review",
+                description: "An honest look at Phnom Penh's evening cyclo tour, riding in a traditional pedicab past the city's illuminated landmarks.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/phnom-penh-evening-cyclo-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A cyclo (traditional pedicab) ride at a relaxed pace past Phnom Penh's riverside and illuminated landmarks is a distinctly different way to see the city than walking or a car tour, and supports a traditional trade.", tourCard: { slug: "phnom-penh-evening-cyclo-tour", title: "Phnom Penh Evening Cyclo Tour", description: "An evening cyclo tour of Phnom Penh.", price: "From $36", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/phnom-penh-evening-cyclo-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A relaxed, low-effort evening activity, good after a physically demanding day visiting the Killing Fields or Tuol Sleng." }
+                ],
+                faqs: [
+                    { q: "What is a cyclo?", a: "A traditional pedicab, pedaled by a driver, once common throughout Phnom Penh." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is a cyclo?", "acceptedAnswer": { "@type": "Answer", "text": "A traditional pedicab, pedaled by a driver." } }
+                ] },
+            };
+
+        case "is-shooting-range-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Shooting Range & Kickboxing Tour Worth It in Phnom Penh?",
+                seoTitle: "Phnom Penh Shooting Range Tour 2026 | Honest Review",
+                description: "An honest look at Phnom Penh's shooting range and Kun Khmer kickboxing combo tour with a boat trip.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/phnom-penh-tour-shooting-range-kunkhmer-kickboxing-boattrip/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This combo covers a shooting range, Kun Khmer (Cambodian kickboxing) experience, and a boat trip — a genuinely different, more adrenaline-driven day than the city's historical sightseeing.", tourCard: { slug: "phnom-penh-tour-shooting-range-kunkhmer-kickboxing", title: "Phnom Penh Tour Shooting Range KunKhmer Kickboxing BoatTrip", description: "A combo tour of shooting range, Kun Khmer kickboxing, and a boat trip.", price: "From $33", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/phnom-penh-tour-shooting-range-kunkhmer-kickboxing-boattrip/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good day for travelers who want something more active and adrenaline-focused after visiting the city's sobering historical sites." }
+                ],
+                faqs: [
+                    { q: "What is Kun Khmer?", a: "Cambodian kickboxing, the country's traditional martial art." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is Kun Khmer?", "acceptedAnswer": { "@type": "Answer", "text": "Cambodian kickboxing, the country's traditional martial art." } }
+                ] },
+            };
+
         default:
             return null;
     }

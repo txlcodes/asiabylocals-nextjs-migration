@@ -1057,6 +1057,8 @@ export const PHNOM_PENH_INFO_SLUGS = [
     'best-tours-in-phnom-penh',
     'should-i-book-phnom-penh-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-phnom-penh',
+    'is-mekong-sunset-cruise-worth-it-phnom-penh', 'is-khmer-cooking-class-worth-it-phnom-penh',
+    'is-cyclo-tour-worth-it-phnom-penh', 'is-shooting-range-tour-worth-it-phnom-penh',
 ];
 
 export const SIEM_REAP_INFO_SLUGS = [
