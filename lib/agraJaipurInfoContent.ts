@@ -1641,6 +1641,46 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ranthambore-tiger-safari-worth-it-jaipur":
+      return {
+        title: "Is the 2-Day Ranthambore Tiger Safari Worth It from Jaipur?",
+        description: "An honest look at the 2-day Ranthambore National Park tiger safari tour from Jaipur, including transfers and multiple safari drives.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-day-jaipur-ranthambore-tiger-safari-tour-with/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ranthambore is India's best-known tiger reserve and a genuine day-trip stretch from Jaipur, so this tour builds in an overnight stay near the park and two safari drives, which gives meaningfully better odds of a sighting than a single rushed drive.",
+            tourCard: { slug: "2-day-jaipur-ranthambore-tiger-safari-tour-with", title: "2-Day Jaipur Ranthambore Tiger Safari Tour with Transfers", description: "A 2-day tiger safari tour to Ranthambore with transfers from Jaipur.", price: "From $474", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/2-day-jaipur-ranthambore-tiger-safari-tour-with/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No sighting is ever guaranteed in a wild reserve, but two drives across different zones meaningfully improve the odds over a single quick visit." },
+        ],
+        faqs: [
+          { q: "Is Ranthambore worth the trip from Jaipur?", a: "Yes, for a realistic shot at seeing a wild tiger. Ranthambore is one of India's most reliable tiger reserves, and two drives over two days beat a single rushed one." },
+        ],
+      };
+
+    case "is-de-copas-pub-crawl-worth-it-jaipur":
+      return {
+        title: "Is the De Copas Pub Crawl Worth It in Jaipur?",
+        description: "An honest look at Jaipur's De Copas pub crawl, a guided nightlife tour through the Pink City's bar scene.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/de-copas-jaipur-pub-crawl-ultimate-nightlife-exper/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Jaipur isn't typically thought of as a nightlife city, so a guided pub crawl solves the real problem of not knowing which bars are worth visiting or safe to find alone at night, with a local host moving the group between venues.",
+            tourCard: { slug: "de-copas-jaipur-pub-crawl-ultimate-nightlife-exper", title: "De Copas Jaipur Pub Crawl: Ultimate Nightlife Experience", description: "A guided pub crawl through Jaipur's nightlife scene.", price: "From $68", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/de-copas-jaipur-pub-crawl-ultimate-nightlife-exper/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Worth it mainly for solo travellers and groups wanting a safer, social way to see Jaipur after dark rather than bar-hopping alone." },
+        ],
+        faqs: [
+          { q: "Does Jaipur have a nightlife scene?", a: "A modest one. A guided pub crawl is the easiest way to find it without wasting an evening guessing which bars are decent." },
+        ],
+      };
+
     default:
       return null;
   }

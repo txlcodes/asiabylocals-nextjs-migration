@@ -115,6 +115,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-nahargarh-fort-tour-jaipur', 'best-jantar-mantar-tour-jaipur',
     'best-jal-mahal-tour-jaipur',
     'is-block-printing-workshop-worth-it-jaipur', 'is-home-cooking-class-worth-it-jaipur',
+    'is-ranthambore-tiger-safari-worth-it-jaipur', 'is-de-copas-pub-crawl-worth-it-jaipur',
   ].map(slug => ({
     url: `${BASE_URL}/india/jaipur/${slug}`,
     lastModified: new Date(),
