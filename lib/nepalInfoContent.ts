@@ -1673,6 +1673,42 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-street-food-tour-worth-it-kathmandu":
+            return {
+                title: "Is the Street Food Tour Worth It in Kathmandu?",
+                seoTitle: "Kathmandu Street Food Tour 2026 | Honest Review",
+                description: "An honest look at Kathmandu's guided street food and Newari walking tour, a flavor-first introduction to the city distinct from its temple and durbar square sightseeing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cc180a47f5be597c2ef277cf8f0cf253964649a24e20bfb2ef1b3adc934b50e2.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This walking tour threads through backstreets sampling Newari specialties and street snacks most visitors would otherwise walk past, a food-first way to see neighborhoods beyond the main durbar square sights.", tourCard: { slug: "kathmandu-guided-street-food-and-newari-walking", title: "Kathmandu: Guided Street Food and Newari Walking Tour", description: "A guided street food walking tour through Kathmandu's backstreets and Newari food spots.", price: "From $39", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cc180a47f5be597c2ef277cf8f0cf253964649a24e20bfb2ef1b3adc934b50e2.jpg" } },
+                    { title: "Practical Tips", content: "Come with an empty stomach — the format is many small tastes across several stops rather than one sit-down meal." }
+                ],
+                faqs: [
+                    { q: "Is the street food tour worth it in Kathmandu?", a: "Yes, for a flavor-first way to explore Kathmandu's backstreets and Newari food culture beyond the main sightseeing stops." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the street food tour worth it in Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a flavor-first look at Newari food culture and backstreets." } }
+                ] },
+            };
+
+        case "is-rock-climbing-worth-it-kathmandu":
+            return {
+                title: "Is Rock Climbing Worth It near Kathmandu?",
+                seoTitle: "Kathmandu Rock Climbing 2026 | Honest Review",
+                description: "An honest look at Kathmandu's rock climbing day tour, a hands-on outdoor adventure option distinct from the city's temple sightseeing and trekking.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9a8f19dc9b299ca147276b8029aff00690c39a8a0c82342db7da806b243974da.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This guided climbing day heads to nearby crags with equipment and instruction included, a genuine outdoor-sport activity rather than sightseeing, good for travellers wanting something more physical than a durbar square walk.", tourCard: { slug: "kathmandu-rock-climbing-tour-with-hotel-pickup", title: "Kathmandu: Rock Climbing Tour with Hotel Pickup", description: "A guided rock climbing day trip from Kathmandu with hotel pickup.", price: "From $221", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9a8f19dc9b299ca147276b8029aff00690c39a8a0c82342db7da806b243974da.jpeg" } },
+                    { title: "Practical Tips", content: "No prior climbing experience is required — guides set routes suited to beginners as well as those with some experience." }
+                ],
+                faqs: [
+                    { q: "Is rock climbing worth it near Kathmandu?", a: "Yes, for a genuine outdoor-sport day with equipment and instruction included, suited to beginners and experienced climbers alike." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is rock climbing worth it near Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine outdoor climbing day with equipment and instruction included." } }
+                ] },
+            };
+
         case "is-bungee-jumping-worth-it-kathmandu":
             return {
                 title: "Is Bungee Jumping Worth It near Kathmandu?",
