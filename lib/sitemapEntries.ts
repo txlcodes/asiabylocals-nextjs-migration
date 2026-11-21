@@ -615,6 +615,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'almaty-food-guide', 'almaty-currency-guide',
     'is-kazakh-wine-masterclass-worth-it-almaty', 'best-almaty-evening-experience-almaty',
     'is-tanbaly-gorge-petroglyphs-tour-worth-it-almaty', 'is-wwii-soviet-history-tour-worth-it-almaty',
+    'is-alpine-climbing-worth-it-almaty',
   ], 'kazakhstan', 'almaty');
   const ulaanbaatarInfoPages = mapInfoSlugs([
     'best-terelj-national-park-day-tour-ulaanbaatar', 'best-city-tour-ulaanbaatar',

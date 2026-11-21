@@ -565,6 +565,24 @@ export function getKazakhstanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-alpine-climbing-worth-it-almaty":
+            return {
+                title: "Is the 2-Day Alpine Climbing Trip Worth It in Almaty?",
+                seoTitle: "Almaty Alpine Climbing 2026 | Honest Review",
+                description: "An honest look at Almaty's 2-day alpine climbing trip with route choice, a serious mountaineering activity distinct from the city's usual lake and canyon day trips.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b9318841fa3c85b18115aaf58f78d552b943b4847bcd0297a150298419a9ab0b.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "The Tian Shan mountains right outside Almaty offer genuine alpine climbing routes, a serious mountaineering activity rather than a scenic day hike — this 2-day trip with a choice of routes suits travelers with real climbing interest or experience, not casual sightseers.", tourCard: { slug: "almaty-2-day-alpine-climbing-with-route-choice", title: "Almaty: 2-Day Alpine Climbing with Route Choice", description: "A 2-day alpine climbing trip in the Tian Shan mountains with a choice of routes.", price: "From $845", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b9318841fa3c85b18115aaf58f78d552b943b4847bcd0297a150298419a9ab0b.jpeg" } },
+                    { title: "Practical Tips", content: "Discuss your experience level honestly with the operator when choosing a route — this is genuine mountaineering, not a guided scenic hike." },
+                ],
+                faqs: [
+                    { q: "Is the alpine climbing trip worth it in Almaty?", a: "Yes, for travelers with genuine climbing interest or experience wanting real mountaineering routes in the Tian Shan, not for casual sightseers." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the alpine climbing trip worth it in Almaty?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travelers with genuine climbing interest wanting real Tian Shan mountaineering routes." } },
+                ] },
+            };
+
         default:
             return null;
     }
