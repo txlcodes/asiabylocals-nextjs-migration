@@ -1003,6 +1003,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-george-town-heritage-tour-penang',
     'best-street-food-tour-penang',
     'is-bujang-valley-tour-worth-it-penang', 'is-bukit-merah-orangutan-tour-worth-it-penang',
+    'is-george-town-walking-tour-worth-it-penang', 'is-penang-food-tour-worth-it',
+    'is-henna-walking-tour-worth-it-george-town', 'is-balik-pulau-tour-worth-it-penang',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/penang/${slug}`,
     lastModified: new Date(),

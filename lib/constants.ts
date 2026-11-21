@@ -223,6 +223,8 @@ export const PENANG_INFO_SLUGS = [
   'best-george-town-heritage-tour-penang',
   'best-street-food-tour-penang',
   'is-bujang-valley-tour-worth-it-penang', 'is-bukit-merah-orangutan-tour-worth-it-penang',
+  'is-george-town-walking-tour-worth-it-penang', 'is-penang-food-tour-worth-it',
+  'is-henna-walking-tour-worth-it-george-town', 'is-balik-pulau-tour-worth-it-penang',
 ];
 
 export const LANGKAWI_INFO_SLUGS = [

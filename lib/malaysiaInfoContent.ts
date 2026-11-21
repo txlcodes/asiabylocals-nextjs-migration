@@ -3859,6 +3859,78 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-george-town-walking-tour-worth-it-penang":
+            return {
+                title: "Is the George Town History Walking Tour Worth It?",
+                seoTitle: "George Town Walking Tour 2026 | Honest Review",
+                description: "An honest look at George Town's history group walking tour, a guided introduction to the UNESCO-listed old town's colonial architecture and street art.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1317039/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "George Town's UNESCO-listed old town is dense with colonial shophouses, clan houses, and street art, and a guided walking tour explains the history behind what you'd otherwise just be photographing, covering ground efficiently on foot.", tourCard: { slug: "george-town-history-group-walking-tour-free-foot", title: "George Town History Group Walking Tour", description: "A guided walking tour of George Town's UNESCO-listed old town.", price: "From $136", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1317039/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Wear comfortable shoes — this covers George Town's old town on foot, which is the only practical way to see its narrow heritage streets." }
+                ],
+                faqs: [
+                    { q: "Is the George Town walking tour worth it?", a: "Yes, for the history behind George Town's colonial shophouses and street art that you'd otherwise just be photographing without context." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the George Town walking tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for the historical context behind the UNESCO old town's architecture and street art." } }
+                ] },
+            };
+
+        case "is-penang-food-tour-worth-it":
+            return {
+                title: "Is the Penang Morning Food Tour Worth It?",
+                seoTitle: "Penang Food Tour 2026 | Honest Review",
+                description: "An honest look at Penang's morning food tour, sampling the island's famously diverse hawker food scene with a local guide.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eb2260bc876a45d0f8438f7e9ecc46e058fdabf7d528b0e4b9761357ec98a8dc.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Penang is widely regarded as Malaysia's food capital, and this morning tour samples multiple hawker dishes with a local guide who knows which stalls are actually worth the queue, solving the real problem of not knowing where to eat among hundreds of options.", tourCard: { slug: "beyond-the-plate-penang-morning-food-tour-over-17", title: "Beyond the Plate: Penang Morning Food Tour", description: "A guided morning food tour sampling Penang's hawker dishes.", price: "From $73", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eb2260bc876a45d0f8438f7e9ecc46e058fdabf7d528b0e4b9761357ec98a8dc.jpg" } },
+                    { title: "Practical Tips", content: "Come hungry and skip breakfast beforehand — this tour includes multiple tastings across several stops." }
+                ],
+                faqs: [
+                    { q: "Is the Penang food tour worth it?", a: "Yes, for a local guide's knowledge of which hawker stalls are genuinely worth the queue among Penang's huge food scene." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Penang food tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a local guide's knowledge of Penang's best hawker stalls, widely considered Malaysia's top food destination." } }
+                ] },
+            };
+
+        case "is-henna-walking-tour-worth-it-george-town":
+            return {
+                title: "Is the Heritage Henna Walking Tour Worth It in George Town?",
+                seoTitle: "George Town Henna Tour 2026 | Honest Review",
+                description: "An honest look at George Town's heritage henna walking tour, combining a traditional henna application with a guided walk through the old town's heritage streets.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1097996/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This tour pairs a traditional henna application, reflecting George Town's Indian-Muslim heritage, with a guided walk through the old town's heritage streets, a genuinely different cultural angle than the standard architecture-focused walking tour.", tourCard: { slug: "heritage-henna-3-hour-walking-tour-in-george-town", title: "Heritage Henna 3-Hour Walking Tour in George Town", description: "A walking tour combining a traditional henna application with George Town heritage sites.", price: "From $119", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1097996/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Henna takes time to dry and darken — avoid water contact with the design for a few hours after application." }
+                ],
+                faqs: [
+                    { q: "Is the henna walking tour worth it in George Town?", a: "Yes, for a genuinely different cultural angle on the old town, reflecting its Indian-Muslim heritage alongside the usual heritage architecture." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the henna walking tour worth it in George Town?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different cultural angle on the old town reflecting its Indian-Muslim heritage." } }
+                ] },
+            };
+
+        case "is-balik-pulau-tour-worth-it-penang":
+            return {
+                title: "Is the Balik Pulau Countryside Tour Worth It in Penang?",
+                seoTitle: "Balik Pulau Tour Penang 2026 | Honest Review",
+                description: "An honest look at the Balik Pulau guided countryside tour with food tasting, Penang island's rural durian-growing side away from George Town's old town.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1201547/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Balik Pulau is Penang island's rural, durian-growing countryside, a genuinely different side of the island from George Town's dense heritage old town, and this tour pairs the countryside scenery with local food tasting along the way.", tourCard: { slug: "penang-balik-pulau-guided-tour-with-food-tasting", title: "Penang: Balik Pulau Guided Tour with Food Tasting", description: "A guided countryside tour of Balik Pulau with local food tasting.", price: "From $100", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1201547/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "If you're visiting during durian season, ask your guide about stopping at a local durian farm or stall along the route." }
+                ],
+                faqs: [
+                    { q: "Is the Balik Pulau tour worth it in Penang?", a: "Yes, for seeing the island's rural, durian-growing countryside, a genuinely different side of Penang from George Town's old town." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Balik Pulau tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for the island's rural countryside, a genuinely different side of Penang from George Town's old town." } }
+                ] },
+            };
+
         default:
             return null;
     }
