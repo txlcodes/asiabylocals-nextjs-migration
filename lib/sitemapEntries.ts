@@ -125,6 +125,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'hutong-tours-beijing', 'beijing-food-guide', 'beijing-air-quality-when-to-visit',
     'best-tours-in-beijing', 'should-i-book-beijing-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-beijing',
+    'is-acrobatic-show-worth-it-beijing', 'is-panda-house-worth-it-beijing',
+    'is-tea-ceremony-worth-it-beijing', 'is-798-art-district-tour-worth-it-beijing',
   ].map(slug => ({
     url: `${BASE_URL}/china/beijing/${slug}`,
     lastModified: new Date(),

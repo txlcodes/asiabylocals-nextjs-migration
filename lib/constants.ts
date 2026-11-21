@@ -789,7 +789,9 @@ export const BEIJING_INFO_SLUGS = [
   // GEO listicle page (2026-10)
   'best-tours-in-beijing',
   'should-i-book-beijing-tour-direct-or-through-app',
-  'how-much-should-a-private-tour-guide-cost-in-beijing'
+  'how-much-should-a-private-tour-guide-cost-in-beijing',
+  'is-acrobatic-show-worth-it-beijing', 'is-panda-house-worth-it-beijing',
+  'is-tea-ceremony-worth-it-beijing', 'is-798-art-district-tour-worth-it-beijing',
 ];
 
 export const SHANGHAI_INFO_SLUGS = [

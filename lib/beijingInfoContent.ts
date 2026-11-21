@@ -598,6 +598,86 @@ export function getBeijingInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "is-acrobatic-show-worth-it-beijing":
+      return {
+        title: "Is the Beijing Acrobatic Show Worth It?",
+        description: "An honest look at Beijing's acrobatic show, blending traditional Chinese acrobatics with modern staging.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/84d935bb23cc8a3a08c5106f7d895fc78d0c227593789e9647129eda3aec6c8a.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Chinese acrobatics is a centuries-old performance tradition, and this show blends it with modern staging and effects — a genuinely impressive evening activity distinct from Beijing's historical sightseeing.",
+            tourCard: { slug: "beijing-acrobatic-show-tickets-traditional-modern", title: "Beijing: Acrobatic Show Tickets Traditional & Modern Fusion", description: "Tickets to a Beijing acrobatic show blending traditional and modern styles.", price: "From $41", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/84d935bb23cc8a3a08c5106f7d895fc78d0c227593789e9647129eda3aec6c8a.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good evening activity after a physically demanding day at the Great Wall or Forbidden City, since it's seated entertainment rather than another walking tour." },
+        ],
+        faqs: [
+          { q: "Is the Beijing acrobatic show worth it?", a: "Yes, it's a genuinely impressive performance tradition and a good lower-effort evening activity." },
+        ],
+      };
+
+    case "is-panda-house-worth-it-beijing":
+      return {
+        title: "Is the Beijing Zoo Panda House Worth It?",
+        description: "An honest look at the Beijing Zoo's Panda House, a low-cost way to see giant pandas.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fac30ccc7941744a4d97ee739600cb4066091a496b1ed6fad864fb8a28e88f0d.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "At a very low entry price, the Beijing Zoo's Panda House is an easy, affordable way to see giant pandas without traveling to Chengdu, China's primary panda destination.",
+            tourCard: { slug: "beijing-beijing-zoo-entry-ticket-with-panda-house", title: "Beijing: Beijing Zoo Entry Ticket with Panda House", description: "Entry to Beijing Zoo including the Panda House.", price: "From $8", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fac30ccc7941744a4d97ee739600cb4066091a496b1ed6fad864fb8a28e88f0d.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pandas are most active in the morning — visit the Panda House early in your zoo visit for the best chance of seeing them moving around." },
+        ],
+        faqs: [
+          { q: "Can I see pandas in Beijing without going to Chengdu?", a: "Yes, the Beijing Zoo's Panda House offers a low-cost way to see giant pandas." },
+        ],
+      };
+
+    case "is-tea-ceremony-worth-it-beijing":
+      return {
+        title: "Is a Chinese Tea Ceremony Worth It in Beijing?",
+        description: "An honest look at Beijing's Chinese tea ceremony and tea tasting experience.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3c9f5e44443d9c2817e2e578bdb2444a8da843897f6b5c487b1db6ca1cbdbf94.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A traditional Chinese tea ceremony teaches the ritual and etiquette behind tea preparation while tasting several varieties — a relaxed, low-key cultural activity distinct from Beijing's major landmarks.",
+            tourCard: { slug: "beijing-chinese-tea-ceremony-tea-tasting", title: "Beijing: Chinese Tea Ceremony & Tea Tasting Experience", description: "A Chinese tea ceremony with tea tasting.", price: "From $63", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3c9f5e44443d9c2817e2e578bdb2444a8da843897f6b5c487b1db6ca1cbdbf94.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good rainy-day or mid-afternoon activity to break up a day of temple and palace sightseeing." },
+        ],
+        faqs: [
+          { q: "Is a tea ceremony worth it in Beijing?", a: "Yes, as a relaxed cultural activity teaching the ritual behind Chinese tea preparation." },
+        ],
+      };
+
+    case "is-798-art-district-tour-worth-it-beijing":
+      return {
+        title: "Is the 798 Art Zone Tour Worth It in Beijing?",
+        description: "An honest look at the 798 Art Zone, Beijing's converted-factory contemporary art district.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6377c73391a2839aae70864de7070a3d39c008ddd13bbaba95414fd3d06d2905.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "798 Art Zone, a former military factory complex converted into galleries, studios, and street art, paired here with Panjiayuan antiques market — a genuinely different, modern side of Beijing from its imperial history.",
+            tourCard: { slug: "beijing-798-art-zone-and-panjiayuan-market-half", title: "Beijing: 798 Art Zone and Panjiayuan Market Half Day Tour", description: "A tour of the 798 Art Zone and Panjiayuan antiques market.", price: "From $245", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6377c73391a2839aae70864de7070a3d39c008ddd13bbaba95414fd3d06d2905.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Worth it if you want a break from imperial-history sightseeing — 798's industrial-chic galleries and street art are a completely different visual experience." },
+        ],
+        faqs: [
+          { q: "What is 798 Art Zone?", a: "A former military factory complex in Beijing converted into contemporary art galleries, studios, and street art." },
+        ],
+      };
+
     default:
       return null;
   }
