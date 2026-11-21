@@ -613,6 +613,19 @@ export const POKHARA_INFO_SLUGS = [
   'pokhara-vs-kathmandu-guide',
 ];
 
+// Batumi & Kutaisi (Georgia) — launched 2026-11-21.
+export const BATUMI_INFO_SLUGS = [
+  'best-walking-tour-batumi', 'best-martvili-canyon-tour-batumi',
+  'best-wine-tasting-tour-batumi', 'is-batumi-jet-ski-worth-it',
+  'batumi-travel-guide-2026', 'best-time-to-visit-batumi',
+];
+
+export const KUTAISI_INFO_SLUGS = [
+  'best-old-town-tour-kutaisi', 'best-monasteries-tour-kutaisi',
+  'best-prometheus-cave-tour-kutaisi', 'is-tskaltubo-sanatoriums-tour-worth-it-kutaisi',
+  'kutaisi-travel-guide-2026',
+];
+
 export const JOHOR_BAHRU_INFO_SLUGS = [
   'best-jetski-tour-johor-bahru',
   'best-hop-on-hop-off-tour-johor-bahru', 'best-private-city-tour-johor-bahru',

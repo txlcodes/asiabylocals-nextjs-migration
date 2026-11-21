@@ -681,6 +681,211 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-walking-tour-batumi":
+            return {
+                title: "Which Is the Best Walking Tour in Batumi?",
+                seoTitle: "Best Batumi Walking Tour 2026 | Honest Comparison",
+                description: "Compare real Batumi walking tours — from a morning or evening city walk to a multicultural history tour covering local life.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/72eb9e37462ec6a4006bd9575cd8207ea10a4d05f76b184d2ff02ad903e9b2e3.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Batumi's seaside boulevard and old town are compact enough for a focused walking tour, and the main choice is timing (morning vs. evening) or going deeper into the city's multicultural history.", tourCard: { slug: "batumi-morning-walking-tour", title: "Batumi: Morning Walking Tour", description: "A morning walking tour of Batumi's seaside and old town.", price: "From $147", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c0ad68f8634ebed057a15eba3974a4929e80d2674861ec502029b756b3f1d452.jpg" } },
+                    { title: "Best in the Evening: Evening Walking Tour", content: "This covers the same ground as the morning tour but timed for evening light and the boulevard's livelier after-dark atmosphere.", tourCard: { slug: "batumi-evening-walking-tour", title: "Batumi: Evening Walking Tour", description: "An evening walking tour of Batumi.", price: "From $147", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/72eb9e37462ec6a4006bd9575cd8207ea10a4d05f76b184d2ff02ad903e9b2e3.jpg" } },
+                    { title: "Best for Depth: Multicultural Walking Tour", content: "This goes deeper into Batumi's multicultural history and local life rather than just the main sights, good for travellers who want more context.", tourCard: { slug: "batumi-multicultural-walking-tour-history-local", title: "Batumi: Multicultural walking tour, history & local life", description: "A history-focused walking tour covering Batumi's multicultural past.", price: "From $38", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/64d387cfe45f74757cbd0068805d64bce6f1918184c08413a6955b07ffba542d.jpg" } },
+                    { title: "Practical Tips", content: "Batumi's boulevard is at its liveliest in the evening, with fountains, street performers, and the Ferris wheel lit up — worth the evening option if atmosphere matters more to you than daylight photos." }
+                ],
+                faqs: [
+                    { q: "What is the best walking tour in Batumi?", a: "Morning for daylight sightseeing, evening for atmosphere, or the multicultural tour for deeper history." },
+                    { q: "Is Batumi's boulevard worth seeing at night?", a: "Yes, it's at its liveliest in the evening with lit fountains and street performers." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best walking tour in Batumi?", "acceptedAnswer": { "@type": "Answer", "text": "Morning for daylight, evening for atmosphere." } },
+                    { "@type": "Question", "name": "Is the boulevard worth seeing at night?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's liveliest in the evening." } }
+                ] },
+            };
+
+        case "best-martvili-canyon-tour-batumi":
+            return {
+                title: "Which Is the Best Martvili Canyon & Prometheus Cave Tour from Batumi?",
+                seoTitle: "Best Martvili Canyon Tour from Batumi 2026 | Comparison",
+                description: "Compare real Martvili Canyon and Prometheus Cave day trips from Batumi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/647469e87641df8c91905e58463295834ccc374c5054f0d49f86f046e3d6a552.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Martvili Canyon's turquoise waters and Prometheus Cave's underground formations are almost always paired in one long day trip from Batumi, since they're in the same general direction.", tourCard: { slug: "batumi-martvili-canyon-prometheus-cave-day-trip", title: "Batumi: Martvili Canyon & Prometheus Cave Day Trip", description: "A day trip covering Martvili Canyon and Prometheus Cave from Batumi.", price: "From $80", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/647469e87641df8c91905e58463295834ccc374c5054f0d49f86f046e3d6a552.jpg" } },
+                    { title: "Alternative Operator: Martvili Canyon, Prometheus Cave Guided Tour", content: "A similar combo from a different operator, worth comparing on timing and inclusions if the first option's schedule doesn't fit.", tourCard: { slug: "from-batumi-martvili-canyon-prometheous-cave", title: "From Batumi: Martvili Canyon, Prometheous Cave Guided tour", description: "An alternative guided combo of Martvili Canyon and Prometheus Cave.", price: "From $90", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/647469e87641df8c91905e58463295834ccc374c5054f0d49f86f046e3d6a552.jpg" } },
+                    { title: "Practical Tips", content: "This is a genuinely long day (10 hours) given the distance from Batumi — bring a swimsuit if you want to get in Martvili's boat-accessible canyon pools, and a light jacket for the noticeably cooler cave interior." }
+                ],
+                faqs: [
+                    { q: "What is the best Martvili Canyon tour from Batumi?", a: "Either standard combo tour works; compare timing and inclusions between operators." },
+                    { q: "How long is the trip from Batumi to Martvili Canyon?", a: "A full day, around 10 hours round trip including both the canyon and cave." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Martvili Canyon tour from Batumi?", "acceptedAnswer": { "@type": "Answer", "text": "Either standard combo tour works." } },
+                    { "@type": "Question", "name": "How long is the trip?", "acceptedAnswer": { "@type": "Answer", "text": "A full day, around 10 hours." } }
+                ] },
+            };
+
+        case "best-wine-tasting-tour-batumi":
+            return {
+                title: "Which Is the Best Wine Tasting Tour in Batumi?",
+                seoTitle: "Best Batumi Wine Tasting Tour 2026 | Comparison",
+                description: "Compare real wine tasting experiences in Batumi — from a local cellar tasting to a mountainous Adjara vineyard tour with lunch.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/055bc10b9f98e02007ec0e312abd2899496add84edd97348f4f277fdf2abf9c0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Batumi's wine tastings range from a quick local cellar visit in the city to a full vineyard day trip into the mountainous Adjara region.", tourCard: { slug: "georgian-wine-tasting-at-local-cellar-in-batumi", title: "Georgian Wine Tasting at Local Cellar in Batumi", description: "A local cellar wine tasting in Batumi.", price: "From $74", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c4f902655784c89e.jpeg" } },
+                    { title: "Best in the Mountains: Wine Tasting in Mountainous Adjara", content: "This gets you out of the city into Adjara's mountains for the tasting, pairing wine with scenery rather than staying in a city cellar.", tourCard: { slug: "best-from-batumi-wine-tasting-in-mountainous", title: "Best From Batumi: Wine Tasting in Mountainous Adjara", description: "A mountain-region wine tasting experience from Batumi.", price: "From $88", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d668bb02763f57da22556a04820df3eac100efc9e8566bb25c8e341d805dc7d5.png" } },
+                    { title: "Best Full Experience: Vineyard Tour with Lunch", content: "This extends the tasting into a full vineyard visit with lunch included, the most complete wine-focused day from Batumi.", tourCard: { slug: "batumi-vineyard-tour-with-wine-tasting-and-lunch", title: "Batumi: Vineyard Tour with Wine Tasting and Lunch", description: "A full vineyard day trip with wine tasting and lunch.", price: "From $163", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/055bc10b9f98e02007ec0e312abd2899496add84edd97348f4f277fdf2abf9c0.jpg" } },
+                    { title: "Practical Tips", content: "Adjara's mountain wine region is distinct from Kakheti (Georgia's main wine region near Tbilisi) — if you're doing both cities, these are genuinely different tastings, not a repeat." }
+                ],
+                faqs: [
+                    { q: "What is the best wine tasting tour in Batumi?", a: "A local cellar tasting for a quick city option, or the vineyard tour with lunch for a fuller day." },
+                    { q: "Is Batumi's wine region the same as Kakheti near Tbilisi?", a: "No, Adjara's mountain wine region is distinct from Kakheti — different tastings if visiting both." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best wine tasting tour in Batumi?", "acceptedAnswer": { "@type": "Answer", "text": "A local cellar tasting, or the vineyard tour with lunch for more." } },
+                    { "@type": "Question", "name": "Is it the same wine region as Kakheti?", "acceptedAnswer": { "@type": "Answer", "text": "No, Adjara is a distinct mountain wine region." } }
+                ] },
+            };
+
+        case "is-batumi-jet-ski-worth-it":
+            return {
+                title: "Is the Jet Ski, Boat & Parasailing Combo in Batumi Worth It?",
+                seoTitle: "Batumi Jet Ski Parasailing Tour 2026 | Honest Review",
+                description: "An honest look at Batumi's jet ski, boat ride, and parasailing combo experience on the Black Sea.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2cb06fe188e6a85be79153ef01a03552b718c123dbccd51a1a64c53bc40769ea.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This combo packs jet skiing, a boat ride, and parasailing into one Black Sea outing — genuinely good value for trying three water activities rather than booking each separately.", tourCard: { slug: "batumi-jet-ski-boat-ride-and-parasailing", title: "Batumi: Jet Ski, Boat Ride, and Parasailing Experience", description: "A combo of jet skiing, boat riding, and parasailing in Batumi.", price: "From $13", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2cb06fe188e6a85be79153ef01a03552b718c123dbccd51a1a64c53bc40769ea.jpg" } },
+                    { title: "Practical Tips", content: "Summer (June-September) is the main season for Black Sea water activities in Batumi — outside that window, operators may run limited schedules or close entirely." }
+                ],
+                faqs: [
+                    { q: "Is the Batumi jet ski/parasailing combo worth it?", a: "Yes, good value for trying three water activities in one outing." },
+                    { q: "When can I do water sports in Batumi?", a: "Mainly summer (June-September); outside that, availability is limited." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the jet ski/parasailing combo worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, good value for three activities in one outing." } }
+                ] },
+            };
+
+        case "batumi-travel-guide-2026":
+            return {
+                title: "Batumi Travel Guide 2026",
+                description: "What visitors need to know about Batumi, Georgia's Black Sea resort city.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/72eb9e37462ec6a4006bd9575cd8207ea10a4d05f76b184d2ff02ad903e9b2e3.jpg",
+                sections: [
+                    { title: "Why Visit", content: "Batumi is Georgia's main Black Sea resort city, known for its seaside boulevard, distinctive modern architecture alongside an old town, and easy access to the Adjara mountains and Martvili Canyon." }
+                ],
+                faqs: [
+                    { q: "Is Batumi worth visiting?", a: "Yes, for its seaside boulevard, architecture, and access to the Adjara mountains and canyons." }
+                ],
+            };
+
+        case "best-time-to-visit-batumi":
+            return {
+                title: "Best Time to Visit Batumi",
+                description: "Batumi's Black Sea coastal climate differs from Tbilisi's — timing matters for beach and water activities.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/72eb9e37462ec6a4006bd9575cd8207ea10a4d05f76b184d2ff02ad903e9b2e3.jpg",
+                sections: [
+                    { title: "Weather Patterns", content: "June to September is beach and water-sports season. Batumi is notably wetter than Tbilisi year-round given its coastal position, so pack for rain even in summer." }
+                ],
+                faqs: [
+                    { q: "What is the best time to visit Batumi?", a: "June to September for beach weather and water sports." }
+                ],
+            };
+
+        case "best-old-town-tour-kutaisi":
+            return {
+                title: "Which Is the Best Walking Tour in Kutaisi?",
+                seoTitle: "Best Kutaisi Walking Tour 2026 | Honest Comparison",
+                description: "Compare real Kutaisi walking tours — from a 3000-years-of-history tour to a culture, history, and local market walk.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3fdfc9c079cba57bfa6bafce2d27798a681ba33c15f94894ac2f4f676ac8415d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Kutaisi, one of the oldest continuously inhabited cities in the world, has walking tours that lean either purely historical or add a local market/culture angle.", tourCard: { slug: "kutaisi-walking-tour-3000-years-of-history", title: "Kutaisi Walking Tour – 3000 Years of History", description: "A history-focused walking tour of one of the world's oldest cities.", price: "From $17", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3fdfc9c079cba57bfa6bafce2d27798a681ba33c15f94894ac2f4f676ac8415d.jpg" } },
+                    { title: "Best with Local Market: Culture, History & Local Market Tour", content: "This adds a stop at the local market to the historical walk, giving a glimpse of everyday Kutaisi life alongside the history.", tourCard: { slug: "kutaisi-walking-tour-culture-history-local-market", title: "Kutaisi Walking Tour: Culture, History & Local Market", description: "A walking tour combining history with a local market visit.", price: "From $15", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/66cb752f754ca0819fcf7a967e2b2050153dfad00953236570826655a7b712a9.jpg" } },
+                    { title: "Practical Tips", content: "Kutaisi was Georgia's capital in antiquity and under several medieval kingdoms — a guide adds real value here since the city's layered history isn't always obvious just from walking past the buildings." }
+                ],
+                faqs: [
+                    { q: "What is the best walking tour in Kutaisi?", a: "Either tour works well; add the market version if you want a look at daily local life too." },
+                    { q: "Is Kutaisi one of the world's oldest cities?", a: "Yes, it's among the oldest continuously inhabited cities, and was Georgia's capital in antiquity and under several medieval kingdoms." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best walking tour in Kutaisi?", "acceptedAnswer": { "@type": "Answer", "text": "Either works well; add the market version for local life." } },
+                    { "@type": "Question", "name": "Is Kutaisi one of the oldest cities?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, among the oldest continuously inhabited cities." } }
+                ] },
+            };
+
+        case "best-monasteries-tour-kutaisi":
+            return {
+                title: "Which Is the Best Monasteries Tour from Kutaisi?",
+                seoTitle: "Best Kutaisi Monasteries Tour 2026 | Comparison",
+                description: "Compare real Gelati, Motsameta, and Bagrati monastery tours from Kutaisi — both UNESCO-listed sites in one trip.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6f6a114ca88e8c894c20dd66f378d7ed1af9e7edfef483352b19f8cac39ba07d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Gelati Monastery (UNESCO-listed) and Motsameta Monastery are almost always visited together given their proximity, and most tours also add Bagrati Cathedral in the city itself.", tourCard: { slug: "bagrati-gelati-motsameta-monasteries-tour", title: "Bagrati, Gelati & Motsameta monasteries tour", description: "A tour covering Bagrati Cathedral and the Gelati and Motsameta monasteries.", price: "From $33", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5169be8c47f98a603248c0bd5958ad6c699457cf79bacec4f1b1a14471be1530.jpg" } },
+                    { title: "Alternative Route: Gelati, Motsameta & Bagrati Cathedral", content: "A similar combo from a different operator, worth comparing on exact stop order and inclusions.", tourCard: { slug: "monasteries-gelati-motsameta-annunciation-and", title: "Monasteries: Gelati, Motsameta, Annunciation, and Bagrati", description: "An alternative monastery combo tour adding Annunciation Cathedral.", price: "From $26", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6f6a114ca88e8c894c20dd66f378d7ed1af9e7edfef483352b19f8cac39ba07d.jpg" } },
+                    { title: "Practical Tips", content: "Gelati Monastery's 12th-century frescoes are a highlight — ask your guide which chambers have the best-preserved paintings, since not all areas are equally well lit or restored." }
+                ],
+                faqs: [
+                    { q: "What is the best monasteries tour from Kutaisi?", a: "Either combo covering Gelati, Motsameta, and Bagrati works well — compare exact stops and timing." },
+                    { q: "Is Gelati Monastery a UNESCO site?", a: "Yes, UNESCO-listed, known for its 12th-century frescoes." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best monasteries tour from Kutaisi?", "acceptedAnswer": { "@type": "Answer", "text": "Either combo covering Gelati, Motsameta, and Bagrati works well." } },
+                    { "@type": "Question", "name": "Is Gelati a UNESCO site?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, known for its 12th-century frescoes." } }
+                ] },
+            };
+
+        case "best-prometheus-cave-tour-kutaisi":
+            return {
+                title: "Which Is the Best Prometheus Cave & Martvili Canyon Tour from Kutaisi?",
+                seoTitle: "Best Prometheus Cave Tour Kutaisi 2026 | Comparison",
+                description: "Compare real Prometheus Cave and Martvili Canyon day trips from Kutaisi, the closest major city to both.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/214dbab852b0e4fdfa168a1902a35ab5a46c715d82b48ccef0004d2ae69ceb38.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Kutaisi is the closest major city to both Prometheus Cave and Martvili Canyon, making these day trips significantly shorter than doing them from Tbilisi or Batumi.", tourCard: { slug: "kutaisi-prometheus-cave-martvili-canyon-guided", title: "Kutaisi: Prometheus Cave & Martvili Canyon Guided Tours", description: "A guided day trip to Prometheus Cave and Martvili Canyon from Kutaisi.", price: "From $39", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/214dbab852b0e4fdfa168a1902a35ab5a46c715d82b48ccef0004d2ae69ceb38.jpeg" } },
+                    { title: "Best Group Option: Group Tour from Kutaisi", content: "A group-format version of the same combo, typically at a lower per-person price than a private tour.", tourCard: { slug: "prometheus-cave-martvili-canyon-group-tour-from", title: "Prometheus Cave & Martvili Canyon Group Tour From Kutaisi", description: "A group tour version of the Prometheus Cave and Martvili Canyon combo.", price: "From $39", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b9511d87cc4ab0ec4cc1d74513cb6141fb5b32c20d39148c7a4909632ad1bd0e.jpeg" } },
+                    { title: "Practical Tips", content: "Since Kutaisi is so much closer to both sites than Tbilisi or Batumi, this is genuinely the best base if these two attractions are a priority for your Georgia trip." }
+                ],
+                faqs: [
+                    { q: "What is the best Prometheus Cave tour from Kutaisi?", a: "Either combo works; the group option is typically cheaper per person." },
+                    { q: "Is Kutaisi closer to Prometheus Cave than Tbilisi?", a: "Yes, significantly closer, making it the best base for this and Martvili Canyon." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Prometheus Cave tour from Kutaisi?", "acceptedAnswer": { "@type": "Answer", "text": "Either combo works; group is typically cheaper." } },
+                    { "@type": "Question", "name": "Is Kutaisi closer to the cave than Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, significantly closer." } }
+                ] },
+            };
+
+        case "is-tskaltubo-sanatoriums-tour-worth-it-kutaisi":
+            return {
+                title: "Is the Tskaltubo Abandoned Soviet Sanatoriums Tour from Kutaisi Worth It?",
+                seoTitle: "Tskaltubo Sanatoriums Tour Kutaisi 2026 | Review",
+                description: "An honest look at the Tskaltubo abandoned Soviet sanatoriums day tour from Kutaisi, a genuinely unusual urban-exploration stop.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ea11c45ab5fcd3afd13d5e7495bcdf17bd94bb27ef520465b8e84cf4940a61be.png",
+                sections: [
+                    { title: "The Short Answer", content: "Tskaltubo's abandoned Soviet-era spa sanatoriums are a genuinely striking urban-exploration site, once a major resort for Soviet elites and now decaying and atmospheric — a niche interest, but a memorable one for those drawn to it.", tourCard: { slug: "kutaisi-tskaltubo-abandoned-soviet-sanatoriums", title: "Kutaisi: Tskaltubo Abandoned Soviet Sanatoriums Tour", description: "A tour of Tskaltubo's abandoned Soviet-era spa sanatoriums.", price: "From $56", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ea11c45ab5fcd3afd13d5e7495bcdf17bd94bb27ef520465b8e84cf4940a61be.png" } },
+                    { title: "Practical Tips", content: "Wear sturdy shoes — the buildings are genuinely abandoned and derelict, with uneven floors and debris in places, not a maintained tourist site." }
+                ],
+                faqs: [
+                    { q: "Is the Tskaltubo sanatoriums tour worth it?", a: "Yes, for travellers interested in Soviet history or urban exploration — a niche but memorable stop." },
+                    { q: "Is Tskaltubo safe to walk through?", a: "Reasonably so with a guide, but wear sturdy shoes given the genuinely derelict condition of the buildings." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Tskaltubo tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for Soviet history or urban exploration interest." } }
+                ] },
+            };
+
+        case "kutaisi-travel-guide-2026":
+            return {
+                title: "Kutaisi Travel Guide 2026",
+                description: "What visitors need to know about Kutaisi, one of the world's oldest continuously inhabited cities.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3fdfc9c079cba57bfa6bafce2d27798a681ba33c15f94894ac2f4f676ac8415d.jpg",
+                sections: [
+                    { title: "Why Visit", content: "Kutaisi offers ancient history (Bagrati Cathedral, Gelati Monastery), is the closest base to Prometheus Cave and Martvili Canyon, and has a growing budget-airline hub making it an increasingly common Georgia entry point." }
+                ],
+                faqs: [
+                    { q: "Is Kutaisi worth visiting?", a: "Yes, for its ancient history and as the best base for Prometheus Cave and Martvili Canyon." }
+                ],
+            };
+
         default:
             return null;
     }
