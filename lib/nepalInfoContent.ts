@@ -1282,6 +1282,123 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-shivapuri-hiking-tour-kathmandu":
+            return {
+                title: "Which Is the Best Shivapuri National Park Hiking Tour from Kathmandu?",
+                seoTitle: "Best Shivapuri Hiking Tour Kathmandu 2026 | Comparison",
+                description: "Compare real Shivapuri National Park day hikes from Kathmandu — a half-day Nagarjun route versus a longer full-day hike.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/089e8fb5a9f68162ca8f35bbf629ee180fbfd304fc6dd86a66dd6d6886ea5a35.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Shivapuri National Park, right on Kathmandu's edge, offers genuine forest hiking without leaving the valley — the choice is mainly half-day vs. full-day depending on how much trail time you want.", tourCard: { slug: "shivapuri-nagarjun-half-day-hiking-tour-to", title: "Shivapuri Nagarjun Half-Day Hiking Tour", description: "A half-day hike in the Shivapuri Nagarjun area.", price: "From $97", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b4625753f2344b2494744e1aaa9cb05f4ec118b9fd2831642ead540c06b689d3.jpg" } },
+                    { title: "Best Full Day: Shivapuri National Park Day Hiking", content: "A longer version covering more of the park's trails for travellers who want a full day of hiking rather than a half-day sampler.", tourCard: { slug: "kathmandu-shivapuri-national-park-day-hiking", title: "Kathmandu: Shivapuri National Park Day Hiking", description: "A full-day hike through Shivapuri National Park.", price: "From $114", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/089e8fb5a9f68162ca8f35bbf629ee180fbfd304fc6dd86a66dd6d6886ea5a35.jpg" } },
+                    { title: "Practical Tips", content: "Shivapuri is a genuine escape from Kathmandu's traffic and pollution without requiring a multi-day trip — a good option if you want nature time without committing to Nagarkot or further-out hikes." }
+                ],
+                faqs: [
+                    { q: "What is the best Shivapuri hiking tour from Kathmandu?", a: "A half-day hike for a shorter trip, or the full-day version for more trail time." },
+                    { q: "Is Shivapuri close to Kathmandu?", a: "Yes, right on the edge of the valley, making it an easy escape from the city." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Shivapuri hiking tour?", "acceptedAnswer": { "@type": "Answer", "text": "A half-day or full-day hike depending on time available." } },
+                    { "@type": "Question", "name": "Is Shivapuri close to Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, right on the edge of the valley." } }
+                ] },
+            };
+
+        case "best-pottery-workshop-kathmandu":
+            return {
+                title: "Which Is the Best Pottery Workshop in Kathmandu?",
+                seoTitle: "Best Pottery Workshop Kathmandu 2026 | Honest Comparison",
+                description: "Compare real pottery workshops in Kathmandu — a quick wheel-throwing session versus a more involved artisan-led workshop.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3d0828b07feebfddde3846a7fcace319de375f51415fb241c5e5abc32374bfbd.png",
+                sections: [
+                    { title: "The Short Answer", content: "Kathmandu Valley's pottery tradition, especially in Bhaktapur's Pottery Square, is hands-on learnable in a single session — the difference between workshops is mainly length and how much individual guidance you get.", tourCard: { slug: "kathmandu-traditional-pottery-workshop-with-wheel", title: "Kathmandu Traditional Pottery Workshop with Wheel", description: "A hands-on traditional pottery wheel-throwing workshop.", price: "From $44", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3d0828b07feebfddde3846a7fcace319de375f51415fb241c5e5abc32374bfbd.png" } },
+                    { title: "Best with Local Artisans: Pottery Workshop with Local Artisans", content: "This pairs you directly with local artisans for more personalized guidance than a standard group session.", tourCard: { slug: "kathmandu-pottery-workshop-with-local-artisans", title: "Kathmandu Pottery Workshop with Local Artisans", description: "A pottery workshop with direct guidance from local artisans.", price: "From $65", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b2f2a4ec282e9b6065f571ecc2999b8a587e03f6b4a9d5a4a282c9ab213ef20f.jpg" } },
+                    { title: "Practical Tips", content: "You'll likely get muddy — wear clothes you don't mind getting dirty, and most workshops let you take your finished piece home once fired, though pickup timing varies by operator." }
+                ],
+                faqs: [
+                    { q: "What is the best pottery workshop in Kathmandu?", a: "A quick wheel-throwing session for a taste of it, or the artisan-led version for more personalized guidance." },
+                    { q: "Can I take my pottery piece home?", a: "Usually yes once fired, though pickup timing varies by operator." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best pottery workshop in Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "A quick session, or the artisan-led version for more guidance." } },
+                    { "@type": "Question", "name": "Can I take my piece home?", "acceptedAnswer": { "@type": "Answer", "text": "Usually yes once fired." } }
+                ] },
+            };
+
+        case "is-dakshinkali-pharping-tour-worth-it-kathmandu":
+            return {
+                title: "Is the Dakshinkali Temple & Pharping Day Tour from Kathmandu Worth It?",
+                seoTitle: "Dakshinkali Pharping Tour Kathmandu 2026 | Review",
+                description: "An honest look at the Dakshinkali Temple, Asura Cave, and Pharping day tour from Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/365a3a040b47d85568405e921252fa72d9df6bdf6e16bee8e0a05b6f318a9601.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Dakshinkali Temple, one of Nepal's most important Kali temples, and nearby Pharping's Asura Cave and monasteries offer a genuinely different religious angle than the standard Kathmandu temple circuit — worthwhile if you want to go beyond the most-visited sites.", tourCard: { slug: "pharping-asura-cave-and-dakshinkali-temple-tour", title: "Pharping: Asura Cave and Dakshinkali Temple Tour", description: "A tour of Pharping's Asura Cave and Dakshinkali Temple.", price: "From $164", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/365a3a040b47d85568405e921252fa72d9df6bdf6e16bee8e0a05b6f318a9601.jpg" } },
+                    { title: "Alternative Route: Dakshinkali Temple and Kirtipur Day Tour", content: "This pairs Dakshinkali with Kirtipur, a historic Newar town, instead of Pharping's caves.", tourCard: { slug: "kathmandu-dakshinkali-temple-and-kirtipur-day-tour", title: "Kathmandu: Dakshinkali Temple and Kirtipur Day Tour", description: "Dakshinkali Temple combined with a visit to Kirtipur.", price: "From $208", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2a6fd129e5c473b7391119143c8ba87a8c250fd5ad7394bf37e601c76b6f8ceb.png" } },
+                    { title: "Practical Tips", content: "Dakshinkali historically involves animal sacrifice as part of its religious practice, especially on Tuesdays and Saturdays — be aware of this before visiting if it's something you'd rather avoid seeing." }
+                ],
+                faqs: [
+                    { q: "Is the Dakshinkali and Pharping tour worth it?", a: "Yes, for a different religious angle beyond Kathmandu's most-visited temples." },
+                    { q: "Does Dakshinkali involve animal sacrifice?", a: "Yes, historically part of its religious practice, especially on Tuesdays and Saturdays." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Dakshinkali/Pharping tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a different religious angle." } },
+                    { "@type": "Question", "name": "Does it involve animal sacrifice?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, part of its historical religious practice." } }
+                ] },
+            };
+
+        case "is-thamel-pub-crawl-worth-it-kathmandu":
+            return {
+                title: "Is the Thamel Pub Crawl in Kathmandu Worth It?",
+                seoTitle: "Thamel Pub Crawl Kathmandu 2026 | Honest Review",
+                description: "An honest look at Kathmandu's Thamel nightlife pub crawl with a local guide.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e4b1e524064047e78384f7762c413ef8502295ea994376a109e3e690cefe2600.png",
+                sections: [
+                    { title: "The Short Answer", content: "Thamel is Kathmandu's main nightlife and backpacker district, and a guided pub crawl is a genuinely easy way to meet other travellers and get oriented to the area's bars without wandering alone on your first night.", tourCard: { slug: "kathmandu-nightlife-thamel-pub-crawl-with-a-local", title: "Kathmandu Nightlife: Thamel Pub Crawl with a Local Guide", description: "A guided pub crawl through Thamel's nightlife district.", price: "From $130", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e4b1e524064047e78384f7762c413ef8502295ea994376a109e3e690cefe2600.png" } },
+                    { title: "Practical Tips", content: "Good for solo travellers especially, since it's a built-in way to meet other people — less essential if you're already travelling with a group." }
+                ],
+                faqs: [
+                    { q: "Is the Thamel pub crawl worth it?", a: "Yes, especially for solo travellers wanting to meet others and get oriented to the nightlife district." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Thamel pub crawl worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, especially for solo travellers." } }
+                ] },
+            };
+
+        case "is-momo-masterclass-worth-it-kathmandu":
+            return {
+                title: "Is the Thamel Momo Masterclass Worth It?",
+                seoTitle: "Thamel Momo Masterclass Kathmandu 2026 | Review",
+                description: "An honest look at Kathmandu's momo-making masterclass in a Thakali kitchen, Nepal's most iconic dumpling dish.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1e7cc46fcb23d164cf15c70ec8591c6226dde160f4fd056ddc3725def8ba6014.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Momos are arguably Nepal's most iconic food, and learning to make them from scratch in a Thakali kitchen is a genuinely hands-on, affordable way to engage with Nepali food culture beyond just eating in restaurants.", tourCard: { slug: "thamel-momo-masterclass-in-a-thakali-kitchen", title: "Thamel: Momo Masterclass in a Thakali Kitchen", description: "A hands-on momo-making class in a traditional Thakali kitchen.", price: "From $27", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1e7cc46fcb23d164cf15c70ec8591c6226dde160f4fd056ddc3725def8ba6014.jpg" } },
+                    { title: "Practical Tips", content: "You get to eat what you make at the end, so come a bit hungry — this isn't just a demonstration, it's a genuine cooking class." }
+                ],
+                faqs: [
+                    { q: "Is the Thamel momo masterclass worth it?", a: "Yes, a genuinely hands-on and affordable way to engage with Nepali food culture." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the momo masterclass worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, hands-on and affordable." } }
+                ] },
+            };
+
+        case "is-budhanilkantha-temple-tour-worth-it-kathmandu":
+            return {
+                title: "Is the Budhanilkantha Temple Tour from Kathmandu Worth It?",
+                seoTitle: "Budhanilkantha Temple Tour Kathmandu 2026 | Review",
+                description: "An honest look at the Budhanilkantha Temple guided tour, home to Nepal's largest stone sculpture of a reclining Vishnu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7669514f5d42d2241f9b6dd22629cc5c90f0a7c2572dc62e1a4785e5644913d0.png",
+                sections: [
+                    { title: "The Short Answer", content: "Budhanilkantha's massive stone sculpture of a reclining Vishnu, floating in a water tank, is a genuinely impressive and lesser-visited site compared to Kathmandu's more famous temples — worth it if you want to go beyond the standard circuit.", tourCard: { slug: "from-kathmandu-budhanilkantha-temple-guided-tour", title: "From Kathmandu: Budhanilkantha Temple Guided Tour", description: "A guided tour of the Budhanilkantha reclining Vishnu temple.", price: "From $89", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7669514f5d42d2241f9b6dd22629cc5c90f0a7c2572dc62e1a4785e5644913d0.png" } },
+                    { title: "Practical Tips", content: "There's a local legend that no reigning Nepali king could visit the temple, since the Vishnu statue resembles a past king — ask your guide about this story, since it's a genuinely interesting piece of local folklore." }
+                ],
+                faqs: [
+                    { q: "Is the Budhanilkantha Temple tour worth it?", a: "Yes, for a genuinely impressive, less-visited site beyond the standard temple circuit." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Budhanilkantha tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a less-visited but impressive site." } }
+                ] },
+            };
+
         default:
             return null;
     }
