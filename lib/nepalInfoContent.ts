@@ -2268,6 +2268,60 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-pottery-curd-workshop-worth-it-bhaktapur":
+            return {
+                title: "Is the Bhaktapur Pottery and King's Curd Workshop Worth It?",
+                seoTitle: "Bhaktapur Pottery Workshop 2026 | Honest Review",
+                description: "An honest look at Bhaktapur's pottery workshop paired with tasting the city's famous king's curd, a hands-on craft experience distinct from the woodcarving workshop.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1522e5cb03319b61ffe1e610df731e770a12782a286a8fb00b649c1b853766f2.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Bhaktapur's Pottery Square is a working craft quarter, and this workshop lets you try the potter's wheel yourself rather than just watching, paired with tasting the city's well-known king's curd, a genuinely different hands-on experience from the woodcarving workshop elsewhere in the city.", tourCard: { slug: "bhaktapur-pottery-workshop-kings-curd-and-bhajan", title: "Bhaktapur: Pottery Workshop, King's Curd and Bhajan", description: "A hands-on pottery workshop with king's curd tasting in Bhaktapur.", price: "From $123", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1522e5cb03319b61ffe1e610df731e770a12782a286a8fb00b649c1b853766f2.jpeg" } },
+                    { title: "Practical Tips", content: "King's curd (juju dhau) is a genuine Bhaktapur specialty, thicker and creamier than typical yoghurt — worth trying even outside the workshop." }
+                ],
+                faqs: [
+                    { q: "What is king's curd in Bhaktapur?", a: "Juju dhau, a thick, creamy yoghurt specialty unique to Bhaktapur, traditionally served in clay pots." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Bhaktapur pottery workshop worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a hands-on turn at the potter's wheel plus the city's famous king's curd, distinct from the separate woodcarving workshop." } }
+                ] },
+            };
+
+        case "is-nagarkot-sunrise-bhaktapur-tour-worth-it":
+            return {
+                title: "Is the Nagarkot Sunrise and Bhaktapur Tour Worth It?",
+                seoTitle: "Nagarkot Sunrise Bhaktapur Tour 2026 | Honest Review",
+                description: "An honest look at the combined Nagarkot sunrise and Bhaktapur heritage tour, pairing a Himalayan viewpoint with the old city in one outing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2ef2c3de4b551cbe94834c90816d174dbf27b4a04f24d90bb6e37dc7828fe26d.png",
+                sections: [
+                    { title: "The Short Answer", content: "Nagarkot is a hill station known for sunrise Himalayan views, and pairing it with Bhaktapur's Durbar Square afterward makes efficient use of a single morning rather than treating them as two separate trips from Kathmandu.", tourCard: { slug: "nagarkot-sunrise-and-bhaktapur-tour", title: "Nagarkot Sunrise and Bhaktapur Tour", description: "A combined sunrise viewpoint and heritage city tour.", price: "From $156", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2ef2c3de4b551cbe94834c90816d174dbf27b4a04f24d90bb6e37dc7828fe26d.png" } },
+                    { title: "Practical Tips", content: "An early pre-dawn start is required to catch the Nagarkot sunrise before moving on to Bhaktapur — confirm pickup time well in advance." }
+                ],
+                faqs: [
+                    { q: "Can you combine Nagarkot and Bhaktapur in one trip?", a: "Yes, this tour pairs an early sunrise viewpoint with the old city's heritage sites in a single efficient morning." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Nagarkot sunrise and Bhaktapur tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for efficiently combining a Himalayan sunrise viewpoint with Bhaktapur's heritage sites in one morning." } }
+                ] },
+            };
+
+        case "is-buddhist-monastery-retreat-worth-it-lumbini":
+            return {
+                title: "Is the Buddhist Monastery Retreat Worth It in Lumbini?",
+                seoTitle: "Lumbini Monastery Retreat 2026 | Honest Review",
+                description: "An honest look at the 1-week Buddhist monastery retreat in Lumbini, a structured meditation stay distinct from a standard day-tour visit to the Buddha's birthplace.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cdd95fc22e87254117fc543a9d67dad935853ea78994fcf17e193a1b5c5c968f.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A day tour of Lumbini covers the Buddha's birthplace and the Sacred Garden, but this week-long retreat is a genuinely different product, a structured stay within a monastery with meditation practice rather than sightseeing, aimed at travellers with a real spiritual or practice interest rather than a quick visit.", tourCard: { slug: "1-week-buddhist-monastery-retreat-in-lumbini", title: "1-Week Buddhist Monastery Retreat in Lumbini", description: "A structured 1-week meditation retreat within a Lumbini monastery.", price: "From $2807", duration: "7 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cdd95fc22e87254117fc543a9d67dad935853ea78994fcf17e193a1b5c5c968f.jpg" } },
+                    { title: "Practical Tips", content: "This is a serious time commitment aimed at meditation practice, not a sightseeing trip — a standard day tour covers the birthplace site itself for travellers who just want to visit." }
+                ],
+                faqs: [
+                    { q: "Is the Lumbini monastery retreat the same as a day tour?", a: "No, it's a structured week-long meditation stay for travellers with a genuine practice interest, while a day tour simply visits the Buddha's birthplace site." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Buddhist monastery retreat worth it in Lumbini?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travellers with a genuine meditation or spiritual practice interest, as a structured week-long stay rather than a sightseeing day tour." } }
+                ] },
+            };
+
         default:
             return null;
     }

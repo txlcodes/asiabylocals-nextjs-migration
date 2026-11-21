@@ -849,11 +849,13 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-durbar-square-tour-bhaktapur', 'best-pottery-workshop-bhaktapur',
     'is-changunarayan-hike-worth-it-bhaktapur', 'is-bicycle-heritage-tour-worth-it-bhaktapur',
     'is-woodcarving-workshop-worth-it-bhaktapur', 'bhaktapur-travel-guide-2026',
+    'is-pottery-curd-workshop-worth-it-bhaktapur', 'is-nagarkot-sunrise-bhaktapur-tour-worth-it',
   ], 'nepal', 'bhaktapur');
 
   const lumbiniInfoPages = mapInfoSlugs([
     'best-buddhas-birthplace-tour-lumbini', 'is-beyond-lumbini-tour-worth-it',
     'is-crane-watching-tour-worth-it-lumbini', 'lumbini-travel-guide-2026',
+    'is-buddhist-monastery-retreat-worth-it-lumbini',
   ], 'nepal', 'lumbini');
 
   const kazbegiInfoPages = mapInfoSlugs([

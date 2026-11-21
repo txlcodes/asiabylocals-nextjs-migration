@@ -784,11 +784,13 @@ export const BHAKTAPUR_INFO_SLUGS = [
   'best-durbar-square-tour-bhaktapur', 'best-pottery-workshop-bhaktapur',
   'is-changunarayan-hike-worth-it-bhaktapur', 'is-bicycle-heritage-tour-worth-it-bhaktapur',
   'is-woodcarving-workshop-worth-it-bhaktapur', 'bhaktapur-travel-guide-2026',
+  'is-pottery-curd-workshop-worth-it-bhaktapur', 'is-nagarkot-sunrise-bhaktapur-tour-worth-it',
 ];
 
 export const LUMBINI_INFO_SLUGS = [
   'best-buddhas-birthplace-tour-lumbini', 'is-beyond-lumbini-tour-worth-it',
   'is-crane-watching-tour-worth-it-lumbini', 'lumbini-travel-guide-2026',
+  'is-buddhist-monastery-retreat-worth-it-lumbini',
 ];
 
 // Kazbegi & Mestia (Georgia) — launched 2026-11-21.
