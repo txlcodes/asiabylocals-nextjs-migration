@@ -1441,6 +1441,96 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-grand-palace-wat-pho-tour-worth-it-bangkok":
+            return {
+                title: "Is the Grand Palace and Wat Pho Tour Worth It in Bangkok?",
+                seoTitle: "Grand Palace Wat Pho Tour 2026 | Honest Review",
+                description: "An honest look at the private Grand Palace and Wat Pho tour, pairing Bangkok's two biggest temple landmarks in one efficient outing.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-hour-grand-palace-and-wat-pho-private-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The Grand Palace and Wat Pho, home to the Reclining Buddha, sit within walking distance of each other, and a guide explaining the history and strict dress code requirements genuinely saves time and confusion over visiting independently.", tourCard: { slug: "2-hour-grand-palace-and-wat-pho-private-tour", title: "2-Hour Grand Palace and Wat Pho Private Tour", description: "A private tour of the Grand Palace and Wat Pho temple.", price: "From $107", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/2-hour-grand-palace-and-wat-pho-private-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "The Grand Palace has a strict dress code — shoulders and knees covered, no sandals — and a guide helps you avoid getting turned away at the gate." }
+                ],
+                faqs: [
+                    { q: "Is the Grand Palace and Wat Pho tour worth it?", a: "Yes, these landmarks sit close together and a guide saves real time navigating the Grand Palace's strict dress code and layout." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Grand Palace and Wat Pho tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for efficiently covering Bangkok's two biggest temple landmarks with a guide who explains the history and dress code." } }
+                ] },
+            };
+
+        case "is-ayutthaya-day-trip-worth-it-bangkok":
+            return {
+                title: "Is the Ayutthaya Day Trip Worth It from Bangkok?",
+                seoTitle: "Ayutthaya Day Trip 2026 | Honest Review",
+                description: "An honest look at the Ayutthaya Historical Park guided day trip, Thailand's former capital and a UNESCO World Heritage site of ancient temple ruins.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ayutthaya-historical-park-guided-day-trip/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Ayutthaya was the Thai kingdom's capital for over 400 years before being destroyed by Burmese invasion, leaving UNESCO-listed temple ruins genuinely different from Bangkok's active, gold-covered temples, reachable in a single day.", tourCard: { slug: "ayutthaya-historical-park-guided-day-trip", title: "Ayutthaya Historical Park Guided Day Trip", description: "A guided day trip to the Ayutthaya Historical Park ruins.", price: "From $53", duration: "9.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ayutthaya-historical-park-guided-day-trip/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Go in the morning to avoid the midday heat — the ruins sit in open parkland with little shade." }
+                ],
+                faqs: [
+                    { q: "Is Ayutthaya worth a day trip from Bangkok?", a: "Yes, for UNESCO-listed ancient ruins genuinely different from Bangkok's active, gold-covered temples, reachable in a single day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Ayutthaya day trip worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different historical layer from Bangkok's active temples — Thailand's former capital, now UNESCO-listed ruins." } }
+                ] },
+            };
+
+        case "is-death-railway-river-kwai-tour-worth-it-bangkok":
+            return {
+                title: "Is the Death Railway and River Kwai Tour Worth It from Bangkok?",
+                seoTitle: "Death Railway River Kwai Tour 2026 | Honest Review",
+                description: "An honest look at the Death Railway Bridge, River Kwai, and Hellfire Pass tour, a sobering WWII history day trip distinct from Bangkok's temple sightseeing.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1779389264/tours/bangkok-railway/sathnasamtcc4jsrdhw3.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The Death Railway and Hellfire Pass were built by Allied POWs and forced laborers under brutal conditions during WWII, and this tour covers a genuinely sobering piece of history rather than Bangkok's usual temple-and-shopping circuit.", tourCard: { slug: "bangkok-death-railway-bridge-river-kwai-hellfire-pass", title: "Bangkok: Death Railway Bridge, River Kwai & Hellfire Pass", description: "A day tour to the Death Railway Bridge and Hellfire Pass.", price: "From $106", duration: "12-14 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1779389264/tours/bangkok-railway/sathnasamtcc4jsrdhw3.webp" } },
+                    { title: "Practical Tips", content: "This is a long, emotionally heavy day given the subject matter — go in with the right expectations rather than treating it as casual sightseeing." }
+                ],
+                faqs: [
+                    { q: "Is the Death Railway tour worth it from Bangkok?", a: "Yes, for a genuinely sobering piece of WWII history, distinct from Bangkok's usual temple-and-shopping circuit." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Death Railway and River Kwai tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travelers wanting a genuinely sobering historical experience beyond Bangkok's temple sightseeing." } }
+                ] },
+            };
+
+        case "is-chao-phraya-dinner-cruise-worth-it-bangkok":
+            return {
+                title: "Is the Chao Phraya Dinner Cruise Worth It in Bangkok?",
+                seoTitle: "Chao Phraya Dinner Cruise 2026 | Honest Review",
+                description: "An honest look at the Chao Phraya luxury river dinner cruise, seeing Bangkok's illuminated riverside temples and skyline from the water.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1779388090/tours/bangkok-chao-phraya-cruise/m6kxcd2ecc4vndhmnwh4.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Bangkok's riverside temples and bridges light up dramatically after dark, and a dinner cruise down the Chao Phraya River gives a relaxed, genuinely different evening than navigating the city's traffic-heavy streets.", tourCard: { slug: "bangkok-chao-phraya-dinner-cruise-luxury-river", title: "Bangkok: Chao Phraya Dinner Cruise, Luxury River", description: "A luxury dinner cruise along the Chao Phraya River.", price: "From $60", duration: "2 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1779388090/tours/bangkok-chao-phraya-cruise/m6kxcd2ecc4vndhmnwh4.jpg" } },
+                    { title: "Practical Tips", content: "Book a window or open-deck seat specifically for the best views of the illuminated riverside temples." }
+                ],
+                faqs: [
+                    { q: "Is the Chao Phraya dinner cruise worth it?", a: "Yes, for a relaxed evening with views of Bangkok's illuminated riverside temples, a genuine change of pace from the city's traffic." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Chao Phraya dinner cruise worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a relaxed evening with illuminated riverside temple views, away from the city's traffic." } }
+                ] },
+            };
+
+        case "is-baiyoke-sky-observation-deck-worth-it-bangkok":
+            return {
+                title: "Is the Baiyoke Sky Observation Deck Worth It in Bangkok?",
+                seoTitle: "Baiyoke Sky Tower 2026 | Honest Review",
+                description: "An honest look at the Baiyoke Sky Tower's observation deck, one of Bangkok's tallest buildings with sweeping 360-degree city views.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/baiyoke-observation-deck-and-revolving-point-ticket-in-bangkok/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The Baiyoke Sky Tower is one of Bangkok's tallest buildings, with a revolving observation deck giving sweeping 360-degree views over the sprawling city, a straightforward and affordable way to see the skyline's true scale.", tourCard: { slug: "baiyoke-observation-deck-and-revolving-point-ticket-in-bangkok", title: "Baiyoke Observation Deck and Revolving Point Ticket", description: "Admission to the Baiyoke Sky Tower's observation deck.", price: "From $17", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/baiyoke-observation-deck-and-revolving-point-ticket-in-bangkok/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Go near sunset for the best combination of daylight and city-light views without waiting for full darkness." }
+                ],
+                faqs: [
+                    { q: "Is the Baiyoke Sky observation deck worth it?", a: "Yes, for an affordable, straightforward way to see Bangkok's full skyline scale with sweeping 360-degree views." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Baiyoke Sky observation deck worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for an affordable 360-degree view over Bangkok's sprawling skyline." } }
+                ] },
+            };
+
         default:
             return null;
     }
