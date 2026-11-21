@@ -3517,6 +3517,42 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-entopia-by-night-worth-it-langkawi":
+            return {
+                title: "Is Entopia by Night Worth It in Langkawi?",
+                seoTitle: "Langkawi Entopia by Night 2026 | Honest Review",
+                description: "An honest look at the Entopia by Night butterfly and insect park ticket in Langkawi, an evening nature activity distinct from the island's beach and water sports scene.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2579d63b10df3fa1748aef94af200967ba44df9ce79455e444828c4e18f2ac1b.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Visiting the Entopia butterfly and insect park after dark reveals a different set of nocturnal creatures than the daytime visit, a genuinely different experience from the same park rather than just a rebranded evening ticket.", tourCard: { slug: "entopia-by-night-entry-ticket", title: "Entopia by Night Entry Ticket", description: "An evening entry ticket to the Entopia butterfly and insect park.", price: "From $20", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2579d63b10df3fa1748aef94af200967ba44df9ce79455e444828c4e18f2ac1b.jpg" } },
+                    { title: "Practical Tips", content: "Bring a flashlight or use your phone light where allowed, since parts of the nighttime route are dimly lit by design to showcase nocturnal species." },
+                ],
+                faqs: [
+                    { q: "Is Entopia by Night worth it in Langkawi?", a: "Yes, for seeing genuinely different nocturnal insects and creatures compared to the daytime visit, a good evening nature activity." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Entopia by Night worth it in Langkawi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for seeing nocturnal species not visible during the day." } },
+                ] },
+            };
+
+        case "is-jet-car-worth-it-langkawi":
+            return {
+                title: "Is the Jet Car Ride Worth It in Langkawi?",
+                seoTitle: "Langkawi Jet Car 2026 | Honest Review",
+                description: "An honest look at Langkawi's 30-minute jet car fun ride, a quick on-land adrenaline activity distinct from the island's jet ski and banana boat water sports.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1b7df92ee1d6679e38e114a409858353ba2cc197ca482bf75288e276bcb640e6.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A jet car ride gives a quick land-based thrill, drifting and maneuvering on a closed track rather than on water, a genuinely different format from Langkawi's jet ski and banana boat activities on the beach.", tourCard: { slug: "langkawi-30-minute-jet-car-fun-ride", title: "Langkawi: 30-Minute Jet Car Fun Ride", description: "A 30-minute jet car fun ride on a closed track.", price: "From $49", duration: "30 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1b7df92ee1d6679e38e114a409858353ba2cc197ca482bf75288e276bcb640e6.jpg" } },
+                    { title: "Practical Tips", content: "This is a short, inexpensive add-on best paired with a beach day or water activity rather than booked as a standalone outing." },
+                ],
+                faqs: [
+                    { q: "Is the jet car worth it in Langkawi?", a: "Yes, for a quick, land-based driving thrill genuinely different from the island's water sports activities." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the jet car worth it in Langkawi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a quick land-based driving thrill." } },
+                ] },
+            };
+
         case "is-bujang-valley-tour-worth-it-penang":
             return {
                 title: "Is the Bujang Valley Tour Worth It from Penang?",

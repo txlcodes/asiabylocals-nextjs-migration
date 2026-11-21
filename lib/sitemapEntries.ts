@@ -937,6 +937,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-kilim-geoforest-mangrove-tour-langkawi', 'best-island-hopping-tour-langkawi',
     'best-jet-ski-tour-langkawi', 'best-atv-waterfall-tour-langkawi',
     'is-underwater-world-worth-it-langkawi', 'is-parasailing-worth-it-langkawi',
+    'is-entopia-by-night-worth-it-langkawi', 'is-jet-car-worth-it-langkawi',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/langkawi/${slug}`,
     lastModified: new Date(),
