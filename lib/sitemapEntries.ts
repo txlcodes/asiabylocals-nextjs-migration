@@ -1785,6 +1785,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'hue-day-trip-from-da-nang',
     'da-nang-2-day-itinerary',
     'is-son-tra-wildlife-tour-worth-it-da-nang', 'is-vietnamese-cooking-class-worth-it-da-nang',
+    'is-herbal-head-spa-worth-it-da-nang', 'is-street-food-scooter-tour-worth-it-da-nang',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/da-nang/${slug}`,
     lastModified: new Date(),

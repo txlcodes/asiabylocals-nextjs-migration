@@ -620,6 +620,48 @@ export function getDaNangInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-herbal-head-spa-worth-it-da-nang":
+      return {
+        title: "Is the Herbal Head Spa Worth It in Da Nang?",
+        description: "An honest look at Da Nang's herbal head spa near Dragon Bridge, a short relaxation stop distinct from the city's beach and mountain day trips.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/90-minute-herbal-head-spa-near-dragon-bridge-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This 90-minute herbal head spa near Dragon Bridge is a quick, affordable way to recover after a Ba Na Hills day or a beach day in the sun, rather than a destination activity on its own.",
+            tourCard: { slug: "90-minute-herbal-head-spa-near-dragon-bridge-in-da-nang", title: "90-Minute Herbal Head Spa Near Dragon Bridge in Da Nang", description: "A 90-minute herbal head spa treatment near Dragon Bridge.", price: "From $36", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/90-minute-herbal-head-spa-near-dragon-bridge-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book this for the evening after a full day of sightseeing rather than at the start of your trip, when it's most useful.",
+          },
+        ],
+        faqs: [
+          { q: "Is the herbal head spa worth it in Da Nang?", a: "Yes, as an affordable recovery activity after a full day of sightseeing or beach time." },
+        ],
+      };
+
+    case "is-street-food-scooter-tour-worth-it-da-nang":
+      return {
+        title: "Is the Street Food and Craft Beer Scooter Tour Worth It in Da Nang?",
+        description: "An honest look at Da Nang's street food and craft beer tour by scooter with a local lady rider, a flavor-first evening activity distinct from the city's sightseeing day trips.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/12-street-foods-and-6-craft-beers-by-scooter-with-a-lady-rider-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Riding behind a local guide on a scooter between street food stalls and craft beer stops packs several tastes and local-life moments into three hours — a genuinely different format from the city's usual guided walking or bus-based sightseeing.",
+            tourCard: { slug: "12-street-foods-and-6-craft-beers-by-scooter-with-a-lady-rider-in-da-nang", title: "12 Street Foods and 6 Craft Beers by Scooter with a Lady Rider in Da Nang", description: "A scooter tour of street food stalls and craft beer stops with a local guide.", price: "From $34", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/12-street-foods-and-6-craft-beers-by-scooter-with-a-lady-rider-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come hungry but not full — the format is many small tastes across several stops rather than one sit-down meal.",
+          },
+        ],
+        faqs: [
+          { q: "Is the street food scooter tour worth it in Da Nang?", a: "Yes, for a flavor-first, local-life way to see the city by night, genuinely different from standard walking or bus tours." },
+        ],
+      };
+
     default:
       return null;
   }
