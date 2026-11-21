@@ -2507,6 +2507,66 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "is-amanohashidate-ine-tour-worth-it-kyoto":
+      return {
+        title: "Is the Amanohashidate and Ine Boat Houses Day Trip Worth It from Kyoto?",
+        description: "An honest look at the Amanohashidate and Ine boat houses day trip from Kyoto, a remote coastal 'sandbar of heaven' destination distinct from the city's temples and bamboo groves.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/amanohashidate-and-ine-boat-houses-day-trip-in-kyoto/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Amanohashidate, nicknamed one of Japan's three best scenic views, is a pine-covered sandbar stretching across a bay, paired here with Ine's picturesque boat houses built directly over the water — a genuinely different coastal landscape from Kyoto's temples, shrines, and bamboo groves.",
+            tourCard: { slug: "amanohashidate-and-ine-boat-houses-day-trip-in-kyoto", title: "Amanohashidate and Ine Boat Houses Day Trip", description: "A day trip to the Amanohashidate sandbar and Ine's boat houses from Kyoto.", price: "From $96", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/amanohashidate-and-ine-boat-houses-day-trip-in-kyoto/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a long day trip to Kyoto's northern coast, so budget the full day rather than combining it with city sightseeing." },
+        ],
+        faqs: [
+          { q: "Is the Amanohashidate and Ine day trip worth it from Kyoto?", a: "Yes, for a genuinely different coastal landscape, one of Japan's three best scenic views, distinct from Kyoto's temples and bamboo groves." },
+        ],
+      };
+
+    case "is-sound-bath-worth-it-kyoto":
+      return {
+        title: "Is the Private Japanese Sound Bath Worth It in Kyoto?",
+        description: "An honest look at Kyoto's private Japanese sound bath experience in a traditional machiya, a quiet wellness activity distinct from the city's temple-hopping itineraries.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/escape-the-crowds-with-a-private-japanese-sound-bath-in-kyoto/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This private sound bath session in a traditional machiya house gives a genuinely quiet, meditative escape from Kyoto's crowded temple circuits — a wellness-focused activity rather than more sightseeing, good for slowing down mid-trip.",
+            tourCard: { slug: "escape-the-crowds-with-a-private-japanese-sound-bath-in-kyoto", title: "Escape the Crowds with a Private Japanese Sound Bath", description: "A private Japanese sound bath session in a traditional Kyoto machiya.", price: "From $152", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/escape-the-crowds-with-a-private-japanese-sound-bath-in-kyoto/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book this for a quieter day in your itinerary — it's meant as a restorative break, not paired with a packed sightseeing schedule." },
+        ],
+        faqs: [
+          { q: "Is the sound bath worth it in Kyoto?", a: "Yes, for a genuinely quiet, meditative break from the city's crowded temple circuits." },
+        ],
+      };
+
+    case "is-ninja-weapon-workshop-worth-it-kyoto":
+      return {
+        title: "Is the Craft-Your-Own Ninja Weapon Workshop Worth It in Kyoto?",
+        description: "An honest look at Kyoto's craft-your-own ninja weapon and shogun mask workshop, a hands-on creative activity distinct from the city's temple and tea-ceremony sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/craft-your-own-ninja-weapon-sh-gun-mask-workshop-in-kyoto/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This workshop lets you craft your own ninja weapon or shogun-style mask by hand, a genuinely fun, hands-on creative activity distinct from Kyoto's usual temple circuits and tea ceremonies — especially good for families or anyone wanting a tangible souvenir.",
+            tourCard: { slug: "craft-your-own-ninja-weapon-sh-gun-mask-workshop-in-kyoto", title: "Craft Your Own Ninja Weapon or Shogun Mask Workshop", description: "A hands-on workshop crafting your own ninja weapon or shogun mask.", price: "From $140", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/craft-your-own-ninja-weapon-sh-gun-mask-workshop-in-kyoto/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior crafting skill is needed, and you take your finished piece home as a unique, tangible souvenir." },
+        ],
+        faqs: [
+          { q: "Is the ninja weapon workshop worth it in Kyoto?", a: "Yes, for a fun, hands-on creative activity, especially good for families, distinct from the city's temple sightseeing." },
+        ],
+      };
+
     default:
             return null;
     }
