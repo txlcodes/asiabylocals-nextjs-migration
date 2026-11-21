@@ -229,6 +229,9 @@ export const LANGKAWI_INFO_SLUGS = [
   'best-jet-ski-tour-langkawi', 'best-atv-waterfall-tour-langkawi',
   'is-underwater-world-worth-it-langkawi', 'is-parasailing-worth-it-langkawi',
   'is-entopia-by-night-worth-it-langkawi', 'is-jet-car-worth-it-langkawi',
+  'is-kilim-geoforest-mangrove-tour-worth-it-langkawi', 'is-cable-car-worth-it-langkawi',
+  'is-jet-ski-worth-it-langkawi', 'is-atv-waterfall-tour-worth-it-langkawi',
+  'is-hidden-islands-cruise-worth-it-langkawi', 'is-gunung-raya-hike-worth-it-langkawi',
 ];
 
 export const MALACCA_INFO_SLUGS = [

@@ -3607,6 +3607,114 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-kilim-geoforest-mangrove-tour-worth-it-langkawi":
+            return {
+                title: "Is the Kilim Geoforest Mangrove Tour Worth It in Langkawi?",
+                seoTitle: "Kilim Geoforest Langkawi 2026 | Honest Review",
+                description: "An honest look at the Kilim Geoforest Park mangrove boat tour, a UNESCO-recognised ecosystem and Langkawi's most popular nature excursion.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1071218/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Kilim Geoforest Park is a UNESCO-recognised mangrove ecosystem, and this boat tour usually includes eagle-feeding stops, a bat cave, and a floating fish farm alongside the mangrove scenery itself, making it genuinely different from Langkawi's beach-based water sports.", tourCard: { slug: "langkawi-3-hour-shared-kilim-geoforest-mangrove", title: "Langkawi: 3-Hour Shared Kilim Geoforest Mangrove Tour", description: "A 3-hour shared mangrove boat tour through Kilim Geoforest Park.", price: "From $38", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1071218/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A private version of this tour is also available at a higher price if you'd rather not share the boat with other groups." }
+                ],
+                faqs: [
+                    { q: "Is the Kilim Geoforest tour worth it in Langkawi?", a: "Yes, it's Langkawi's most popular nature excursion, combining a UNESCO-recognised mangrove ecosystem with eagle-feeding and a bat cave stop." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Kilim Geoforest mangrove tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a UNESCO-recognised mangrove ecosystem with eagle-feeding and bat cave stops." } }
+                ] },
+            };
+
+        case "is-cable-car-worth-it-langkawi":
+            return {
+                title: "Is the Langkawi Cable Car Worth It?",
+                seoTitle: "Langkawi Cable Car 2026 | Honest Review",
+                description: "An honest look at the Langkawi SkyCab cable car, one of the steepest cable car rides in the world, reaching a mountaintop viewpoint over the island.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c57f7d85230c.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Langkawi's cable car is one of the steepest in the world, climbing to Gunung Mat Cincang for sweeping views over the island and across to Thailand on a clear day, with a skywalk bridge at the summit as an optional add-on.", tourCard: { slug: "langkawi-cable-car-admission-ticket", title: "Langkawi: Cable Car Admission Ticket", description: "Admission to the Langkawi SkyCab cable car.", price: "From $56", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c57f7d85230c.jpeg" } },
+                    { title: "Practical Tips", content: "Go on a clear morning for the best visibility; cloud cover at the summit is common later in the day." }
+                ],
+                faqs: [
+                    { q: "Is the Langkawi cable car worth it?", a: "Yes, it's one of the steepest cable cars in the world, with sweeping island views and a clear-day view across to Thailand." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Langkawi cable car worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for one of the steepest cable car rides in the world and sweeping island views." } }
+                ] },
+            };
+
+        case "is-jet-ski-worth-it-langkawi":
+            return {
+                title: "Is Jet Skiing Worth It in Langkawi?",
+                seoTitle: "Langkawi Jet Ski 2026 | Honest Review",
+                description: "An honest look at Langkawi's jet ski adventure packages, the island's most popular on-water activity alongside island-hopping cruises.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-905417/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Langkawi's calm, warm waters make jet skiing one of its most popular activities, with basic packages covering a straightforward ride and longer options adding island stops or mangrove routes for more experienced riders.", tourCard: { slug: "langkawi-jet-ski-adventure-basic-package", title: "Langkawi: Jet Ski Adventure Basic Package", description: "A jet ski adventure package in Langkawi's coastal waters.", price: "From $160", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-905417/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "No prior jet ski experience is needed for the basic package; a safety briefing is included before heading out." }
+                ],
+                faqs: [
+                    { q: "Is jet skiing worth it in Langkawi?", a: "Yes, it's one of the island's most popular water activities thanks to the calm, warm coastal waters." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is jet skiing worth it in Langkawi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, Langkawi's calm coastal waters make it one of the island's most popular water activities." } }
+                ] },
+            };
+
+        case "is-atv-waterfall-tour-worth-it-langkawi":
+            return {
+                title: "Is the ATV Jungle and Waterfall Tour Worth It in Langkawi?",
+                seoTitle: "Langkawi ATV Waterfall Tour 2026 | Honest Review",
+                description: "An honest look at the private ATV jungle and waterfall tour, combining off-road riding with a swim stop at a jungle waterfall.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9419cae445f0fb0c556f964f4ad362a1dc7a167299de4148496c0426483ee1a7.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This pairs off-road ATV riding through Langkawi's jungle terrain with a stop at a waterfall for swimming, combining an adrenaline activity with a cooling-off break that a jet ski or jet car ride doesn't offer.", tourCard: { slug: "langkawi-atv-private-jungle-and-waterfall-tour", title: "Langkawi: ATV Private Jungle and Waterfall Tour", description: "A private ATV tour through the jungle with a waterfall swim stop.", price: "From $172", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9419cae445f0fb0c556f964f4ad362a1dc7a167299de4148496c0426483ee1a7.jpg" } },
+                    { title: "Practical Tips", content: "Bring a change of clothes and swimwear for the waterfall stop — you will get muddy on the ATV portion." }
+                ],
+                faqs: [
+                    { q: "Is the ATV waterfall tour worth it in Langkawi?", a: "Yes, for combining off-road jungle riding with a genuine swim stop at a waterfall." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the ATV jungle and waterfall tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for combining off-road riding with a genuine waterfall swim stop." } }
+                ] },
+            };
+
+        case "is-hidden-islands-cruise-worth-it-langkawi":
+            return {
+                title: "Is the Hidden Islands Discovery Cruise Worth It in Langkawi?",
+                seoTitle: "Langkawi Island Hopping Cruise 2026 | Honest Review",
+                description: "An honest look at the hidden islands discovery cruise, Langkawi's classic island-hopping boat trip covering several of the archipelago's smaller islands.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/02cec85a207d611fa2613fc4dab0f3bc530fbeab8a49f517503955311ae227a5.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Langkawi is actually an archipelago of over 100 islands, and this cruise is the classic way to see several of the smaller ones beyond the main island, typically including Dayang Bunting's freshwater lake and a stop for swimming or snorkeling.", tourCard: { slug: "langkawi-hidden-islands-discovery-cruise-with", title: "Langkawi: Hidden Islands Discovery Cruise", description: "An island-hopping cruise to several of Langkawi's smaller islands.", price: "From $59", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/02cec85a207d611fa2613fc4dab0f3bc530fbeab8a49f517503955311ae227a5.jpg" } },
+                    { title: "Practical Tips", content: "Bring reef-safe sunscreen and swimwear — most itineraries include at least one stop for swimming." }
+                ],
+                faqs: [
+                    { q: "Is the hidden islands cruise worth it in Langkawi?", a: "Yes, it's the classic way to see beyond the main island across Langkawi's 100-plus island archipelago." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the hidden islands cruise worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for seeing beyond the main island across Langkawi's wider archipelago." } }
+                ] },
+            };
+
+        case "is-gunung-raya-hike-worth-it-langkawi":
+            return {
+                title: "Is the Gunung Raya Hike Worth It in Langkawi?",
+                seoTitle: "Gunung Raya Hike Langkawi 2026 | Honest Review",
+                description: "An honest look at hiking Gunung Raya, Langkawi's highest peak, a genuine physical challenge distinct from the cable car's easier mountaintop access.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1367026/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Gunung Raya is Langkawi's highest peak, and hiking it rather than driving or taking the cable car to a different summit is a genuine physical challenge through jungle terrain, rewarded with views the cable car's route doesn't cover.", tourCard: { slug: "langkawi-conquer-the-challenging-gunung-raya", title: "Langkawi: Conquer the Challenging Gunung Raya", description: "A guided hike up Langkawi's highest peak, Gunung Raya.", price: "From $98", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1367026/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This is a genuinely demanding hike in tropical heat and humidity — bring more water than you think you'll need." }
+                ],
+                faqs: [
+                    { q: "Is the Gunung Raya hike difficult?", a: "Yes, it's a genuine physical challenge through jungle terrain to Langkawi's highest peak, not a casual walk." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Gunung Raya hike worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine physical challenge and views distinct from the easier cable car summit." } }
+                ] },
+            };
+
         case "is-bujang-valley-tour-worth-it-penang":
             return {
                 title: "Is the Bujang Valley Tour Worth It from Penang?",
