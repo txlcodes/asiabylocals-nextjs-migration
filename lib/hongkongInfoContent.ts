@@ -1369,6 +1369,111 @@ export function getHongKongInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-macau-day-trip-worth-it-hong-kong":
+      return {
+        title: "Is the Macau Day Trip Worth It from Hong Kong?",
+        description: "An honest look at the Macau day trip via the Hong Kong-Zhuhai-Macau Bridge, reaching the former Portuguese colony's casinos and colonial old town.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/172162fc9c3d4efd940fd62e939a9795bcf0950012b8453159c3ba4a6b12a0ac.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Macau's blend of Portuguese colonial architecture and massive casino resorts is a genuinely different experience from Hong Kong, and crossing via the Hong Kong-Zhuhai-Macau Bridge makes this a feasible day trip rather than an overnight commitment.",
+            tourCard: { slug: "from-hong-kong-macau-day-tour-via-hzmb-wlunch", title: "From Hong Kong: Macau Day Tour via HZMB with Lunch", description: "A day trip to Macau via the Hong Kong-Zhuhai-Macau Bridge with lunch.", price: "From $299", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/172162fc9c3d4efd940fd62e939a9795bcf0950012b8453159c3ba4a6b12a0ac.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring your passport — Macau is a separate special administrative region from Hong Kong and requires its own border crossing.",
+          },
+        ],
+        faqs: [
+          { q: "Is Macau worth a day trip from Hong Kong?", a: "Yes, the bridge crossing makes it a feasible single day, and the Portuguese colonial architecture alongside massive casinos is genuinely different from Hong Kong." },
+        ],
+      };
+
+    case "is-lantau-island-big-buddha-tour-worth-it-hong-kong":
+      return {
+        title: "Is the Lantau Island Big Buddha Tour Worth It?",
+        description: "An honest look at the in-depth Lantau Island tour, visiting the giant Tian Tan Buddha and Tai O fishing village away from Hong Kong's dense urban core.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a68e57787a5709be24717b625fd80d89c2ac2e2eed5c35b1c5ed5da390711e2d.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Lantau Island is Hong Kong's largest island but genuinely rural compared to the city center, home to the giant Tian Tan Buddha statue and Tai O, a traditional fishing village built on stilts, a completely different side of Hong Kong from its skyscrapers.",
+            tourCard: { slug: "hk-in-depth-visit-of-lantau-big-buddha-tai", title: "HK: In-Depth Visit of Lantau Big Buddha & Tai O", description: "An in-depth tour of Lantau Island's Big Buddha and Tai O fishing village.", price: "From $108", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a68e57787a5709be24717b625fd80d89c2ac2e2eed5c35b1c5ed5da390711e2d.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The cable car up to the Big Buddha offers better views than the bus, though it can get long queues — check wait times before committing to it.",
+          },
+        ],
+        faqs: [
+          { q: "Is Lantau Island worth visiting in Hong Kong?", a: "Yes, for a completely different, genuinely rural side of Hong Kong, with the giant Big Buddha statue and a traditional stilt fishing village." },
+        ],
+      };
+
+    case "is-victoria-harbour-yacht-tour-worth-it-hong-kong":
+      return {
+        title: "Is the Victoria Harbour Yacht Tour Worth It in Hong Kong?",
+        description: "An honest look at the 100-minute Victoria Harbour yacht tour, a water-level view of Hong Kong's iconic skyline.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/96ae2eecc46e1c0d281c3d98355bc9396e63e030d6a8267546de959aee867fd1.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hong Kong's skyline is one of the most famous in the world, and seeing it from a yacht on Victoria Harbour gives a genuinely different, lower perspective than viewing it from Victoria Peak or the Kowloon waterfront, especially around sunset.",
+            tourCard: { slug: "hong-kong-100-mins-victoria-harbour-yacht-tour", title: "Hong Kong: 100-Mins Victoria Harbour Yacht Tour", description: "A 100-minute yacht tour of Victoria Harbour.", price: "From $62", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/96ae2eecc46e1c0d281c3d98355bc9396e63e030d6a8267546de959aee867fd1.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book a sunset or evening slot to catch the Symphony of Lights show over the skyline from the water.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Victoria Harbour yacht tour worth it?", a: "Yes, for a genuinely different water-level view of one of the world's most famous skylines, especially at sunset." },
+        ],
+      };
+
+    case "is-shenzhen-day-trip-worth-it-hong-kong":
+      return {
+        title: "Is the Shenzhen Day Trip Worth It from Hong Kong?",
+        description: "An honest look at the Shenzhen cultural day tour from Hong Kong, reaching mainland China's tech hub just across the border.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d75d36bc91443f44e6668adc9a59f7d4fbfe0663ed2597dfe7fb38f232b925b4.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Shenzhen is mainland China's major tech hub, just across the border from Hong Kong, and a genuinely different city in feel and pace, a modern metropolis that barely existed before China's economic reforms began.",
+            tourCard: { slug: "from-hong-kong-shenzhen-day-tour-cultural-massage", title: "From Hong Kong: Shenzhen Day Tour, Cultural & Massage", description: "A cultural day tour to Shenzhen from Hong Kong.", price: "From $767", duration: "11 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d75d36bc91443f44e6668adc9a59f7d4fbfe0663ed2597dfe7fb38f232b925b4.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Crossing into mainland China requires a separate visa for most nationalities — check your visa requirements well before booking this trip.",
+          },
+        ],
+        faqs: [
+          { q: "Do I need a visa to visit Shenzhen from Hong Kong?", a: "Most nationalities need a mainland China visa to cross the border — check your specific requirements before booking." },
+        ],
+      };
+
+    case "is-food-tour-worth-it-hong-kong":
+      return {
+        title: "Is the Hong Kong Food Tour Worth It?",
+        description: "An honest look at Hong Kong's gems food tour with dim sum and roast goose, a guided introduction to the city's famously dense food scene.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5cfa3480d1c5b.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hong Kong's food scene spans everything from Michelin-starred dim sum to street-level roast goose stalls, and a guided food tour solves the real problem of not knowing which spots among the dense, overwhelming options are genuinely worth seeking out.",
+            tourCard: { slug: "hong-kong-gems-food-tour-with-dim-sum-goose", title: "Hong Kong Gems Food Tour with Dim Sum & Goose", description: "A guided food tour sampling dim sum and roast goose in Hong Kong.", price: "From $137", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5cfa3480d1c5b.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come hungry and skip a big meal beforehand — this tour includes multiple tastings across several stops.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hong Kong food tour worth it?", a: "Yes, for a guide's knowledge of which spots among the city's dense, overwhelming food scene are genuinely worth seeking out." },
+        ],
+      };
+
     default:
       return null;
   }

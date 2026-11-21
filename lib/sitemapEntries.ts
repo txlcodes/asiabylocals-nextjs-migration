@@ -182,6 +182,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-tours-in-hong-kong', 'should-i-book-hong-kong-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-hong-kong',
     'is-egg-tart-cooking-class-worth-it-hong-kong',
+    'is-macau-day-trip-worth-it-hong-kong', 'is-lantau-island-big-buddha-tour-worth-it-hong-kong',
+    'is-victoria-harbour-yacht-tour-worth-it-hong-kong', 'is-shenzhen-day-trip-worth-it-hong-kong',
+    'is-food-tour-worth-it-hong-kong',
   ].map(slug => ({
     url: `${BASE_URL}/hong-kong/hongkong/${slug}`,
     lastModified: new Date(),
