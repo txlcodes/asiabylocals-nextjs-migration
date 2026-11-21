@@ -1405,6 +1405,8 @@ export const MIRISSA_INFO_SLUGS = [
   'best-turtle-snorkeling-tour-mirissa', 'is-scuba-diving-worth-it-mirissa',
   'is-mangrove-kayaking-worth-it-mirissa', 'is-sinharaja-rainforest-trek-worth-it-mirissa',
   'is-sri-lankan-cooking-class-worth-it-mirissa', 'is-deep-sea-fishing-worth-it-mirissa',
+  'is-snake-conservation-farm-tour-worth-it-mirissa', 'is-crocodile-watching-worth-it-mirissa',
+  'is-batik-workshop-worth-it-mirissa',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/sigiriyaInfoContent.ts.

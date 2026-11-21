@@ -246,6 +246,66 @@ export function getMirissaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-snake-conservation-farm-tour-worth-it-mirissa":
+      return {
+        title: "Is the Snake Conservation Farm Tour Worth It in Mirissa?",
+        description: "An honest look at the snake conservation farm tour from Mirissa, a genuinely unique wildlife education stop distinct from the area's whale watching and beach activities.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1380098/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This tour visits a farm focused on snake conservation and education, a genuinely unique activity for a region otherwise dominated by whale watching and beach time — worth it specifically for travelers curious about Sri Lanka's reptile life.",
+            tourCard: { slug: "from-mirissa-snake-conservation-farm-tour-with", title: "From Mirissa: Snake Conservation Farm Tour", description: "A tour of a snake conservation farm near Mirissa.", price: "From $34", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1380098/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a short, inexpensive add-on, good paired with another half-day activity rather than a standalone outing." },
+        ],
+        faqs: [
+          { q: "Is the snake conservation farm tour worth it in Mirissa?", a: "Yes, for a genuinely unique wildlife education activity distinct from the area's usual whale watching and beach time." },
+        ],
+      };
+
+    case "is-crocodile-watching-worth-it-mirissa":
+      return {
+        title: "Is the Nilwala River Crocodile Watching Tour Worth It from Mirissa?",
+        description: "An honest look at the private Nilwala River crocodile watching boat tour from Mirissa, a freshwater wildlife activity distinct from the area's ocean whale watching.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1327673/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Spotting crocodiles along the Nilwala River is a genuinely different wildlife experience from Mirissa's ocean-based whale watching, a calmer freshwater activity for travelers wanting variety beyond the beach and boat scene.",
+            tourCard: { slug: "from-mirissa-nilwala-river-private-crocodile", title: "From Mirissa: Nilwala River Private Crocodile Watching", description: "A private crocodile watching boat tour on the Nilwala River.", price: "From $85", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1327673/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Early morning or late afternoon gives the best chance of sightings, when crocodiles are most active near the riverbanks." },
+        ],
+        faqs: [
+          { q: "Is the Nilwala River crocodile watching tour worth it from Mirissa?", a: "Yes, for a calmer freshwater wildlife experience genuinely different from the area's ocean-based whale watching." },
+        ],
+      };
+
+    case "is-batik-workshop-worth-it-mirissa":
+      return {
+        title: "Is the Batik Factory Tour and Workshop Worth It in Mirissa?",
+        description: "An honest look at Mirissa's batik factory tour and hands-on workshop, a traditional textile craft distinct from the area's whale watching and beach activities.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1379901/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Batik is a traditional wax-resist dyeing technique, and this tour shows the full process at a working factory before letting you make your own piece — a genuinely hands-on craft activity distinct from Mirissa's usual whale-watching and beach days.",
+            tourCard: { slug: "mirissa-batik-factory-tour-and-workshop-with-your", title: "Mirissa: Batik Factory Tour and Workshop", description: "A batik factory tour and hands-on workshop in Mirissa.", price: "From $136", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1379901/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "You take your finished batik piece home as a genuine handmade souvenir, a nice change from the usual beach-town trinkets." },
+        ],
+        faqs: [
+          { q: "Is the batik workshop worth it in Mirissa?", a: "Yes, for a genuinely hands-on traditional craft activity, a nice change of pace from the area's whale-watching and beach days." },
+        ],
+      };
+
     default:
       return null;
   }
