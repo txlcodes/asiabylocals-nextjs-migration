@@ -1152,6 +1152,69 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-banaue-sagada-tour-worth-it-manila":
+      return {
+        title: "Is the Banaue Rice Terraces and Sagada Tour Worth It from Manila?",
+        description: "An honest look at the 2-day Banaue Rice Terraces and Sagada tour from Manila, a UNESCO highland landscape distinct from the city's colonial Intramuros sightseeing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d424d8aab06684ffd473c06b01caa592b680c308a511a9ffa481fe2be5eb5aab.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Banaue Rice Terraces, a UNESCO World Heritage site carved into the mountains over 2,000 years ago, paired with Sagada's caves and hanging coffins, is a completely different landscape and culture from Manila's colonial-era Intramuros — worth the long drive specifically for travelers wanting genuine highland Philippines beyond the capital.",
+            tourCard: { slug: "banaue-rice-terraces-and-sagada-tour", title: "Banaue Rice Terraces and Sagada Tour", description: "A 2-day tour covering the Banaue Rice Terraces and Sagada.", price: "From $345", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d424d8aab06684ffd473c06b01caa592b680c308a511a9ffa481fe2be5eb5aab.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This requires a long overland drive each way from Manila, so treat it as a dedicated 2-day trip rather than squeezing it between other Manila activities.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Banaue and Sagada tour worth it from Manila?", a: "Yes, for travelers wanting genuine highland Philippines scenery and culture, a completely different trip from Manila's colonial-era sightseeing." },
+        ],
+      };
+
+    case "is-filipino-cultural-dance-dinner-show-worth-it-manila":
+      return {
+        title: "Is the Filipino Cultural Dance Show Dinner Worth It in Manila?",
+        description: "An honest look at Manila's Filipino cultural dance show with dinner, a dedicated evening cultural performance distinct from the city's historical and food-walking tours.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11930668d4316cd76ceb9a3d3c248535f6b5d0a7642bebd03dd6560f42c911a8.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This dinner show combines traditional Filipino dances like Tinikling with a full meal, a structured evening of culture and entertainment that's a different kind of activity from Manila's daytime Intramuros walks or food tours.",
+            tourCard: { slug: "filipino-cultural-dance-show-dinner", title: "Filipino Cultural Dance Show Dinner", description: "A dinner show featuring traditional Filipino cultural dance performances.", price: "From $286", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11930668d4316cd76ceb9a3d3c248535f6b5d0a7642bebd03dd6560f42c911a8.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book this for an evening when you want a dedicated cultural experience rather than casual dining, since the show is the main draw alongside the meal.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Filipino cultural dance show dinner worth it in Manila?", a: "Yes, for a dedicated evening of traditional dance and dinner, a different kind of cultural experience from daytime sightseeing." },
+        ],
+      };
+
+    case "is-villa-escudero-day-tour-worth-it-manila":
+      return {
+        title: "Is the Villa Escudero Day Tour Worth It from Manila?",
+        description: "An honest look at the private Villa Escudero day tour from Manila, a working coconut plantation and resort experience distinct from the city's historical and highland day trips.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6d412c62226db5a8a769ae42b19d9a02cb8a461e060acf5251f3e57aec947771.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Villa Escudero is a working coconut plantation turned resort, known for its waterfall restaurant where you dine with your feet in flowing water — a genuinely unique format rather than a standard historical or nature day trip.",
+            tourCard: { slug: "from-manila-private-villa-escudero-day-tour-with", title: "From Manila: Private Villa Escudero Day Tour", description: "A private day tour to Villa Escudero plantation resort from Manila.", price: "From $519", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6d412c62226db5a8a769ae42b19d9a02cb8a461e060acf5251f3e57aec947771.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear clothes you don't mind getting wet for the waterfall restaurant experience, and bring a change for the ride back.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Villa Escudero day tour worth it from Manila?", a: "Yes, for the genuinely unique waterfall restaurant experience, a different format from standard historical or nature day trips." },
+        ],
+      };
+
     default:
       return null;
   }

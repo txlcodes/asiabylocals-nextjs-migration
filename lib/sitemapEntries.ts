@@ -852,6 +852,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'taal-volcano-day-trip',
     'pagsanjan-falls-day-trip-guide', 'manila-binondo-chinatown-food-tour-guide',
     'manila-cooking-class-guide',
+    'is-banaue-sagada-tour-worth-it-manila', 'is-filipino-cultural-dance-dinner-show-worth-it-manila',
+    'is-villa-escudero-day-tour-worth-it-manila',
   ].map(slug => ({
     url: `${BASE_URL}/philippines/manila/${slug}`,
     lastModified: new Date(),
