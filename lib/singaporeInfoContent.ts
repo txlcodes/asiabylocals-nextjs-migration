@@ -451,6 +451,62 @@ export function getSingaporeInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-jewel-changi-tour-worth-it-singapore":
+            return {
+                title: "Is the Jewel Changi Private Tour Worth It?",
+                seoTitle: "Jewel Changi Airport Tour Singapore 2026 | Honest Review",
+                description: "An honest look at a customized private tour of Jewel Changi, the airport's indoor rainforest and shopping complex.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-1383945/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Jewel Changi, home to the world's tallest indoor waterfall and a lush indoor rainforest, is worth a dedicated visit even if you're not flying through the airport that day — a guided tour helps you make the most of a stopover or an arrival/departure day.", tourCard: { slug: "singapore-welcome-jewel-changi-customized-private", title: "Singapore Welcome: Jewel Changi Customized Private Tour", description: "A customized private tour of Jewel Changi.", price: "From $159", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-1383945/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This works especially well as a stopover activity if you have a long layover at Changi Airport, since Jewel is directly connected to the terminals." }
+                ],
+                faqs: [
+                    { q: "Is Jewel Changi worth visiting?", a: "Yes, it has the world's tallest indoor waterfall and a lush indoor rainforest, worth seeing even on a layover." },
+                    { q: "Is Jewel Changi inside the airport?", a: "Yes, it's directly connected to Changi Airport's terminals." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Jewel Changi worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for its indoor waterfall and rainforest, even on a layover." } }
+                ] },
+            };
+
+        case "is-level33-rooftop-brewery-tour-worth-it-singapore":
+            return {
+                title: "Is the LeVeL33 Rooftop Brewery Tour Worth It?",
+                seoTitle: "LeVeL33 Rooftop Brewery Tour 2026 | Honest Review",
+                description: "An honest look at the LeVeL33 rooftop brewery tour and craft beer tasting, one of the world's highest urban craft breweries.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-661386/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "LeVeL33 is one of the world's highest urban craft breweries, with sweeping Marina Bay views alongside the beer tasting — worth it for the view as much as the beer itself.", tourCard: { slug: "singapore-level33-rooftop-brewery-tour-craft-beer", title: "Singapore: LeVeL33 Rooftop Brewery Tour & Craft Beer Tasting", description: "A rooftop brewery tour and craft beer tasting with Marina Bay views.", price: "From $132", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-661386/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Go in the late afternoon or early evening for the best light over Marina Bay during your tasting." }
+                ],
+                faqs: [
+                    { q: "Is the LeVeL33 brewery tour worth it?", a: "Yes, for the combination of craft beer and sweeping Marina Bay views from one of the world's highest urban breweries." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the LeVeL33 brewery tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for craft beer and Marina Bay views together." } }
+                ] },
+            };
+
+        case "best-river-wonders-night-safari-combo-singapore":
+            return {
+                title: "Is the River Wonders & Night Safari Combo Worth It?",
+                seoTitle: "River Wonders Night Safari Singapore 2026 | Honest Review",
+                description: "An honest look at combining River Wonders, Singapore's river-themed wildlife park, with a guided Night Safari visit.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-1212307/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "River Wonders, home to giant pandas and river-themed habitats, pairs naturally with the adjacent Night Safari for one combined day-into-evening outing — more efficient than visiting on separate trips.", tourCard: { slug: "river-wonders-free-easy-with-night-safari-guided", title: "River Wonders (Free & Easy) with Night Safari Guided Tour", description: "A free & easy River Wonders visit combined with a guided Night Safari.", price: "From $220", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-1212307/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "River Wonders and Night Safari are both part of the Mandai wildlife precinct alongside the Singapore Zoo, so this combo saves a separate trip back to the area." }
+                ],
+                faqs: [
+                    { q: "What is River Wonders?", a: "A river-themed wildlife park in Singapore's Mandai precinct, home to giant pandas among other species." },
+                    { q: "Can River Wonders and Night Safari be combined?", a: "Yes, they're both part of the same Mandai precinct, making a combined visit efficient." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is River Wonders?", "acceptedAnswer": { "@type": "Answer", "text": "A river-themed wildlife park in Singapore's Mandai precinct." } }
+                ] },
+            };
+
         default:
             return null;
     }

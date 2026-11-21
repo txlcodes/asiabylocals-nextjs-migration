@@ -390,6 +390,8 @@ export const SINGAPORE_INFO_SLUGS: string[] = [
   'singapore-food-guide', 'is-singapore-expensive',
   'best-bike-tour-singapore', 'best-wings-of-time-cable-car-tour-singapore',
   'best-merlion-civic-district-walking-tour-singapore',
+  'is-jewel-changi-tour-worth-it-singapore', 'is-level33-rooftop-brewery-tour-worth-it-singapore',
+  'best-river-wonders-night-safari-combo-singapore',
 ];
 
 // Laos launched 2026-11-19 with 304 live tours and zero authority pages.
