@@ -356,6 +356,7 @@ export const AMMAN_INFO_SLUGS: string[] = [
   'amman-food-guide', 'amman-to-petra-guide',
   'is-cave-of-seven-sleepers-tour-worth-it-amman', 'is-qasr-al-abd-tour-worth-it-amman',
   'is-dabke-dance-class-worth-it-amman',
+  'is-perfume-workshop-worth-it-amman', 'is-embroidery-class-worth-it-amman',
 ];
 export const AQABA_INFO_SLUGS: string[] = [
   'best-wadi-rum-half-day-jeep-tour-aqaba', 'best-wadi-rum-full-day-jeep-tour-aqaba',

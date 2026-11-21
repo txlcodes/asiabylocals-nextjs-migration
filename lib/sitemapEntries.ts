@@ -443,6 +443,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'amman-food-guide', 'amman-to-petra-guide',
     'is-cave-of-seven-sleepers-tour-worth-it-amman', 'is-qasr-al-abd-tour-worth-it-amman',
     'is-dabke-dance-class-worth-it-amman',
+    'is-perfume-workshop-worth-it-amman', 'is-embroidery-class-worth-it-amman',
   ], 'jordan', 'amman');
   const aqabaInfoPages = mapInfoSlugs([
     'best-wadi-rum-half-day-jeep-tour-aqaba', 'best-wadi-rum-full-day-jeep-tour-aqaba',

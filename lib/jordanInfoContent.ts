@@ -1275,6 +1275,42 @@ export function getJordanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-perfume-workshop-worth-it-amman":
+            return {
+                title: "Is the Women's Perfume Workshop Worth It in Amman?",
+                seoTitle: "Amman Perfume Workshop 2026 | Honest Review",
+                description: "An honest look at Amman's women's trip perfume workshop and cultural tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/58eb9118981eeb6cb8c2545d93b8229bc599bef4658a7c7a6913268210433742.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This workshop teaches you to blend your own perfume using traditional Middle Eastern scents, paired with a broader cultural tour — a genuinely different craft from Amman's pottery and glass workshops.", tourCard: { slug: "amman-womens-trip-perfume-workshop-and-cultural", title: "Amman: Women's Trip - Perfume Workshop and Cultural Tour", description: "A women's trip with a perfume workshop and cultural tour.", price: "From $380", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/58eb9118981eeb6cb8c2545d93b8229bc599bef4658a7c7a6913268210433742.jpg" } },
+                    { title: "Practical Tips", content: "You take home your own custom-blended perfume — a genuinely personal souvenir rather than a shop-bought bottle." }
+                ],
+                faqs: [
+                    { q: "What makes the perfume workshop different from Amman's craft workshops?", a: "It focuses on scent-blending rather than pottery, glass, or calligraphy." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What makes this different from other workshops?", "acceptedAnswer": { "@type": "Answer", "text": "It focuses on scent-blending rather than pottery or glass." } }
+                ] },
+            };
+
+        case "is-embroidery-class-worth-it-amman":
+            return {
+                title: "Is the Embroidery Class + Citadel Tour Worth It in Amman?",
+                seoTitle: "Amman Embroidery Class 2026 | Honest Review",
+                description: "An honest look at Amman's traditional Jordanian embroidery class, paired with a Citadel tour and lunch.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/54fe24eea1ca91f7fc96d64921611d1c03a58563c54eb5e14ede1bfb934b707c.png",
+                sections: [
+                    { title: "The Short Answer", content: "Traditional Jordanian embroidery (tatreez), a centuries-old craft often used in regional dress, is taught hands-on here, paired with a visit to the Citadel and a Jordanian lunch for a full cultural day.", tourCard: { slug: "amman-embroidery-class-citadel-tour-jordanian", title: "Amman: Embroidery Class + Citadel Tour + Jordanian Lunch", description: "An embroidery class combined with a Citadel tour and Jordanian lunch.", price: "From $382", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/54fe24eea1ca91f7fc96d64921611d1c03a58563c54eb5e14ede1bfb934b707c.png" } },
+                    { title: "Practical Tips", content: "Tatreez patterns often carry regional significance — worth asking your instructor about the meaning behind the specific pattern you learn." }
+                ],
+                faqs: [
+                    { q: "What is tatreez?", a: "Traditional Jordanian and Palestinian embroidery, a centuries-old craft often used in regional dress." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is tatreez?", "acceptedAnswer": { "@type": "Answer", "text": "Traditional regional embroidery used in Jordanian dress." } }
+                ] },
+            };
+
         default:
             return null;
     }
