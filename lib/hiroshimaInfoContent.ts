@@ -1034,6 +1034,46 @@ export function getHiroshimaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case 'is-saijo-sake-tasting-worth-it-hiroshima':
+      return {
+        title: "Is the Saijo Sake Tasting Tour Worth It in Hiroshima?",
+        description: "An honest look at the guided Saijo sake tasting tour at 7 breweries, a genuine sake-town experience distinct from Hiroshima's Peace Memorial Park and Miyajima sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/guided-saijo-sake-tasting-tour-at-7-breweries-in-hiroshima/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Saijo is one of Japan's premier sake-brewing towns, and this guided tour visits seven breweries for tastings, a genuinely focused food-and-drink activity distinct from Hiroshima's history-heavy sightseeing at the Peace Memorial Park and Miyajima.",
+            tourCard: { slug: "guided-saijo-sake-tasting-tour-at-7-breweries-in-hiroshima", title: "Guided Saijo Sake Tasting Tour at 7 Breweries", description: "A guided sake tasting tour at seven breweries in Saijo.", price: "From $165", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/guided-saijo-sake-tasting-tour-at-7-breweries-in-hiroshima/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pace yourself across seven breweries — small tastings add up, so eat something beforehand." },
+        ],
+        faqs: [
+          { q: "Is the Saijo sake tasting tour worth it in Hiroshima?", a: "Yes, for genuine sake culture at one of Japan's premier brewing towns, a change of pace from Hiroshima's history sites." },
+        ],
+      };
+
+    case 'is-mitaki-temple-waterfall-walk-worth-it-hiroshima':
+      return {
+        title: "Is the Hidden Mitaki Temple and Waterfall Walk Worth It in Hiroshima?",
+        description: "An honest look at Hiroshima's hidden Mitaki Temple and waterfall walk, a quiet nature-and-temple escape distinct from the city's Peace Memorial Park and Miyajima circuit.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hidden-mitaki-temple-and-waterfall-walk-in-hiroshima/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mitaki Temple sits in a forested valley with three small waterfalls, a genuinely quiet, lesser-known escape that most visitors skip in favor of the Peace Memorial Park and Miyajima — worth it for travelers wanting a calmer, nature-focused break.",
+            tourCard: { slug: "hidden-mitaki-temple-and-waterfall-walk-in-hiroshima", title: "Hidden Mitaki Temple and Waterfall Walk", description: "A guided walk through Mitaki Temple's forested valley and waterfalls.", price: "From $310", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/hidden-mitaki-temple-and-waterfall-walk-in-hiroshima/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Good as a calmer counterbalance to the emotionally heavy Peace Memorial Park, if scheduled on a different day or later the same day." },
+        ],
+        faqs: [
+          { q: "Is the Mitaki Temple and waterfall walk worth it in Hiroshima?", a: "Yes, for a quiet, lesser-known nature escape, a good counterbalance to the city's heavier history sites." },
+        ],
+      };
+
     default:
             return null;
     }

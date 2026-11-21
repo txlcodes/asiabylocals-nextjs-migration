@@ -1478,7 +1478,8 @@ export const HIROSHIMA_INFO_SLUGS = [
   'kure-yamato-museum-guide',
   'hiroshima-with-children',
   'where-to-stay-in-hiroshima',
-  'is-calligraphy-workshop-worth-it-hiroshima'];
+  'is-calligraphy-workshop-worth-it-hiroshima',
+  'is-saijo-sake-tasting-worth-it-hiroshima', 'is-mitaki-temple-waterfall-walk-worth-it-hiroshima'];
 
 // Re-add a slug here ONLY once its page exists in lib/osakaInfoContent.ts.
 export const OSAKA_INFO_SLUGS = [

@@ -1255,7 +1255,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'shimanami-kaido-cycling-guide', 'onomichi-guide', 'hiroshima-castle-guide', 'shukkeien-garden-guide', 'kure-yamato-museum-guide',
     'hiroshima-with-children',
     'where-to-stay-in-hiroshima',
-    'is-calligraphy-workshop-worth-it-hiroshima'].map(slug => ({
+    'is-calligraphy-workshop-worth-it-hiroshima',
+    'is-saijo-sake-tasting-worth-it-hiroshima', 'is-mitaki-temple-waterfall-walk-worth-it-hiroshima'].map(slug => ({
     url: `${BASE_URL}/japan/hiroshima/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
