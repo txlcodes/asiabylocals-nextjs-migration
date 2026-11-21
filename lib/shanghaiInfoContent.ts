@@ -540,6 +540,48 @@ export function getShanghaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-calligraphy-workshop-worth-it-shanghai":
+      return {
+        title: "Is the Calligraphy and Ink Gilding Workshop Worth It in Shanghai?",
+        description: "An honest look at Shanghai's calligraphy and ink gilding workshop, a hands-on traditional art activity distinct from the city's skyline, garden, and food tours.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a9c65eb0f75dc97f59996a8e406f18a19d70e37dc943717d353d38267f6f5a67.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This workshop teaches Chinese calligraphy and ink gilding techniques hands-on, a genuinely different creative activity from Shanghai's usual skyline views, garden walks, and dumpling classes — worth it for travelers wanting a quiet, focused cultural craft session.",
+            tourCard: { slug: "calligraphy-ink-gilding-at-shanghai-brush-ink", title: "Calligraphy & Ink Gilding at Shanghai Brush Ink", description: "A hands-on calligraphy and ink gilding workshop in Shanghai.", price: "From $56", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a9c65eb0f75dc97f59996a8e406f18a19d70e37dc943717d353d38267f6f5a67.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior calligraphy experience is needed, and you take your finished piece home as a souvenir.",
+          },
+        ],
+        faqs: [
+          { q: "Is the calligraphy workshop worth it in Shanghai?", a: "Yes, for a quiet, focused creative activity that's a nice change of pace from skyline and garden sightseeing." },
+        ],
+      };
+
+    case "is-yangcheng-crab-catching-worth-it-shanghai":
+      return {
+        title: "Is Catch-Your-Own-Crab at Yangcheng Lake Worth It from Shanghai?",
+        description: "An honest look at the catch-your-own-crab private day trip to Yangcheng Lake from Shanghai, a hands-on food-and-nature activity distinct from the city's garden and water-town day trips.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/83a5c70091ac4527cd8ca8af11711ff8c82e299f393635bfb709c53fa60e211c.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yangcheng Lake is famous across China for its hairy crab, and this private day trip lets you actually catch your own before it's cooked, a genuinely hands-on food experience rather than just eating crab at a restaurant — a different kind of day from the usual Suzhou or water-town itineraries.",
+            tourCard: { slug: "catch-your-own-crab-on-yangcheng-private-day-from", title: "Catch Your Own Crab on Yangcheng: Private Day from Shanghai", description: "A private day trip to catch and eat your own hairy crab at Yangcheng Lake.", price: "From $553", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/83a5c70091ac4527cd8ca8af11711ff8c82e299f393635bfb709c53fa60e211c.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Hairy crab has a specific autumn season, so check with the operator whether crab is actually in season for your travel dates.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Yangcheng Lake crab-catching trip worth it from Shanghai?", a: "Yes, for a genuinely hands-on food experience, though it's seasonal — confirm crab season before booking." },
+        ],
+      };
+
     default:
       return null;
   }
