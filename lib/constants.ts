@@ -617,6 +617,16 @@ export const ASTANA_INFO_SLUGS = [
   'astana-travel-guide-2026', 'best-time-to-visit-astana',
 ];
 
+export const KHASAB_INFO_SLUGS = [
+  'best-dhow-cruise-khasab', 'best-musandam-adventure-tour-khasab',
+  'khasab-travel-guide-2026',
+];
+
+export const NIZWA_INFO_SLUGS = [
+  'best-nizwa-day-trip-nizwa', 'best-jebel-akhdar-tour-nizwa',
+  'nizwa-travel-guide-2026',
+];
+
 export const SHYMKENT_INFO_SLUGS = [
   'best-turkistan-tour-shymkent', 'is-city-tour-worth-it-shymkent',
   'is-aksu-canyon-tour-worth-it-shymkent',

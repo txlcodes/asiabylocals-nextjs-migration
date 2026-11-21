@@ -768,6 +768,124 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-dhow-cruise-khasab":
+            return {
+                title: "Which Is the Best Dhow Cruise in Khasab?",
+                seoTitle: "Best Khasab Dhow Cruise 2026 | Musandam Fjords Comparison",
+                description: "Compare real Khasab dhow cruises through the Musandam fjords — half-day dolphin-watching trips versus full overnight cruises.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2abbc44b2b681f9e12992b614c0a9972a2524aa6afc53be521b56cfea8f92afc.png",
+                sections: [
+                    { title: "The Short Answer", content: "Khasab's dhow cruises through the Musandam fjords ('the Norway of Arabia') are the region's signature activity — pick by duration and budget, from a half-day dolphin trip to a full overnight cruise.", tourCard: { slug: "khasab-fjords-dhow-cruise-with-dolphin-watching", title: "Khasab Fjords Dhow Cruise with Dolphin Watching & Snorkeling", description: "A classic Khasab fjords dhow cruise.", price: "From $52", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2abbc44b2b681f9e12992b614c0a9972a2524aa6afc53be521b56cfea8f92afc.png" } },
+                    { title: "Best Budget Option: Half-Day Cruise", content: "A shorter, more affordable version covering the same dolphin-watching and snorkeling basics.", tourCard: { slug: "khasab-half-day-dhow-cruise-with-dolphin-watching", title: "Khasab: Half-Day Dhow Cruise with Dolphin Watching", description: "A half-day dhow cruise with dolphin watching.", price: "From $65", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/63ce87e40d0a8.jpeg" } },
+                    { title: "Best for a Full Experience: Overnight Dhow Cruise", content: "Sleeping aboard a traditional dhow anchored in the fjords, with dinner and breakfast included, is the most memorable version of this experience.", tourCard: { slug: "khasab-overnight-dhow-cruise-with-dinner-breakfast", title: "Khasab: Overnight Dhow Cruise with Dinner & Breakfast", description: "An overnight dhow cruise through the Musandam fjords.", price: "From $278", duration: "17 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d222f25e36434d9d9c60d8b37cdf8370877bad722ad9314e456865f16cd94529.jpg" } },
+                    { title: "Best Private Option: Fjords Cruise with Kayaking", content: "A private version adds kayaking on top of the dolphin-watching, for a more active and exclusive day on the water.", tourCard: { slug: "private-khasab-fjords-dhow-cruise-with-dolphins", title: "Private Khasab Fjords Dhow Cruise with Dolphins & Kayaking", description: "A private fjords cruise with kayaking.", price: "From $650", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/897930152928b4b3732531b03889dfdd17bccb36a883338dec03cfd6fc035dd0.png" } },
+                    { title: "Practical Tips", content: "Dolphin sightings are common but not guaranteed year-round; mornings tend to have calmer water for photos and snorkeling." }
+                ],
+                faqs: [
+                    { q: "What is the best dhow cruise in Khasab?", a: "A half-day trip covers the essentials cheaply; go overnight for the full experience or private for kayaking." },
+                    { q: "Will I see dolphins on a Khasab dhow cruise?", a: "Sightings are common in the Musandam fjords, though not guaranteed on every trip." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best dhow cruise in Khasab?", "acceptedAnswer": { "@type": "Answer", "text": "A half-day trip for budget, overnight for the full experience, private for kayaking." } },
+                    { "@type": "Question", "name": "Will I see dolphins?", "acceptedAnswer": { "@type": "Answer", "text": "Sightings are common in the Musandam fjords, though not guaranteed." } }
+                ] },
+            };
+
+        case "best-musandam-adventure-tour-khasab":
+            return {
+                title: "Best Musandam Adventure Tour from Khasab (Beyond the Dhow Cruise)",
+                seoTitle: "Khasab Mountain Safari & Zipline 2026",
+                description: "Beyond dhow cruises, Khasab's Jebel Harim mountain safaris and ziplines offer a different side of the Musandam peninsula.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0e3544aa4fb03a862736b247fb61e9647393cd69e361e7dcc889fbb644824e3f.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Jebel Harim's rugged mountain roads and the Musandam zipline are the main land-based alternatives to a dhow cruise in Khasab.", tourCard: { slug: "khasab-jebel-harim-mountain-safari-with-zipline", title: "Khasab: Jebel Harim Mountain Safari with Zipline Option", description: "A 4x4 mountain safari to Jebel Harim with an optional zipline.", price: "From $184", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0e3544aa4fb03a862736b247fb61e9647393cd69e361e7dcc889fbb644824e3f.jpeg" } },
+                    { title: "Standalone Zipline Option", content: "For those short on time, the Musandam zipline can be booked on its own as an entry ticket.", tourCard: { slug: "musandam-zip-line-entry-ticket", title: "Musandam: Zip Line Entry Ticket", description: "Entry to the Musandam zipline.", price: "From $83", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a2c3849fe86f8ead2018a9582a1b2cc81e29465b75da3a6f77810795b87a1f1e.jpeg" } },
+                    { title: "Practical Tips", content: "Jebel Harim roads are rough — a 4x4 safari vehicle with an experienced driver is standard, not optional, for this route." }
+                ],
+                faqs: [
+                    { q: "What is there to do in Khasab besides dhow cruises?", a: "A Jebel Harim mountain safari and the Musandam zipline are the main land-based alternatives." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What else is there to do in Khasab?", "acceptedAnswer": { "@type": "Answer", "text": "A Jebel Harim mountain safari and the Musandam zipline." } }
+                ] },
+            };
+
+        case "khasab-travel-guide-2026":
+            return {
+                title: "Khasab Travel Guide 2026",
+                description: "Everything to know about visiting Khasab, Oman's gateway to the Musandam fjords.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d222f25e36434d9d9c60d8b37cdf8370877bad722ad9314e456865f16cd94529.jpg",
+                sections: [
+                    { title: "Getting There", content: "Khasab is in the Musandam Governorate, an Omani exclave separated from the rest of Oman by UAE territory. Most visitors arrive by road from Dubai (roughly 2 hours) or by domestic flight from Muscat." },
+                    { title: "What to Do", content: "Dhow cruises through the fjords (half-day to overnight), Jebel Harim mountain safaris, diving and snorkeling, and the Khasab Fort and souq in town." },
+                    { title: "Best Time to Visit", content: "October to April offers the most comfortable temperatures; summer is extremely hot but the fjords themselves stay scenic year-round." }
+                ],
+                faqs: [
+                    { q: "How do you get to Khasab?", a: "By road from Dubai (about 2 hours) or by domestic flight from Muscat." },
+                    { q: "What is Khasab known for?", a: "Dhow cruises through the Musandam fjords, often called 'the Norway of Arabia'." }
+                ],
+            };
+
+        case "best-nizwa-day-trip-nizwa":
+            return {
+                title: "Which Is the Best Nizwa Day Trip from Muscat?",
+                seoTitle: "Best Nizwa Day Trip 2026 | Fort, Souq & Jebel Akhdar",
+                description: "Compare real Nizwa day trips — fort and souq only, versus trips that add Jebel Akhdar or the historic forts of Bahla and Jabreen.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d20872cf0d64306f982cbc985a53b1c45d8ab492f8ad12a25e005b3b505e3fcf.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Nizwa's fort and souq are the core of any visit; the best trip for you depends on whether you also want Jebel Akhdar's mountain scenery or the extra historic forts of Bahla and Jabreen.", tourCard: { slug: "nizwa-souq-fort-oman-across-ages-museum-day-trip", title: "Nizwa: Souq, Fort, Oman Across Ages Museum Day Trip", description: "A day trip covering Nizwa's souq, fort, and museum.", price: "From $494", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d20872cf0d64306f982cbc985a53b1c45d8ab492f8ad12a25e005b3b505e3fcf.jpg" } },
+                    { title: "Best for Extra Mountain Scenery: Nizwa and Jabal Akhdar", content: "This adds Jabal Akhdar's terraced villages and viewpoints onto the standard Nizwa visit.", tourCard: { slug: "muscat-nizwa-and-jabal-akhdar-day-trip-with-lunch", title: "Muscat: Nizwa and Jabal Akhdar Day Trip With Lunch & Sunset", description: "A day trip combining Nizwa and Jabal Akhdar.", price: "From $145", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9bce44f0b2d8f4e83e50d2927799b755c9077bead729f9e4410ac92b402cc106.jpeg" } },
+                    { title: "Best for More Forts: Nizwa, Bahla & Jabrin Castle", content: "This covers three historic forts in one day for travelers who want Oman's fort architecture in depth.", tourCard: { slug: "nizwa-souq-nizwa-fort-bahla-fort-jabrin-castle", title: "Nizwa Souq, Nizwa Fort, Bahla Fort & Jabrin Castle", description: "A day trip covering Nizwa, Bahla, and Jabrin forts.", price: "From $546", duration: "7.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d2742aa724a5a5fa30f5d26f20e79e4608d400008357e545d8a97cd084789fe7.png" } },
+                    { title: "Practical Tips", content: "Nizwa Souq is busiest (and most interesting) on Friday mornings, when the traditional livestock market runs." }
+                ],
+                faqs: [
+                    { q: "What is the best Nizwa day trip?", a: "Fort and souq alone covers the basics; add Jabal Akhdar for mountains or Bahla/Jabrin for more fort history." },
+                    { q: "What day is Nizwa's livestock market?", a: "Friday mornings, as part of the wider Nizwa Souq." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Nizwa day trip?", "acceptedAnswer": { "@type": "Answer", "text": "Fort and souq for the basics, plus Jabal Akhdar or Bahla/Jabrin for more." } },
+                    { "@type": "Question", "name": "When is Nizwa's livestock market?", "acceptedAnswer": { "@type": "Answer", "text": "Friday mornings." } }
+                ] },
+            };
+
+        case "best-jebel-akhdar-tour-nizwa":
+            return {
+                title: "Which Is the Best Jebel Akhdar Tour from Nizwa?",
+                seoTitle: "Best Jebel Akhdar Tour 2026 | E-Bike, Mountain Bike & Via Ferrata",
+                description: "Compare active ways to see Jebel Akhdar from Nizwa — e-bike touring, mountain biking, and via ferrata climbing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8877eac8480f8a1a26f30c6de944fbdf9c7466a581b1dce0461db871c2d8c1e0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Jebel Akhdar ('Green Mountain') rewards an active approach — e-bike touring is the easiest, mountain biking is more athletic, and via ferrata at Jebel Shams is the most extreme.", tourCard: { slug: "jabal-akhdar-e-bike-tour-adventure", title: "Jabal Akhdar E-Bike Tour & Adventure", description: "An e-bike tour through Jabal Akhdar's mountain villages.", price: "From $401", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8877eac8480f8a1a26f30c6de944fbdf9c7466a581b1dce0461db871c2d8c1e0.jpg" } },
+                    { title: "Most Athletic: Jebel Akhdar Mountain Bike", content: "A standard mountain bike tour for travelers who want more physical effort than an e-bike.", tourCard: { slug: "nizwa-jebel-akhdar-mountain-bike", title: "Nizwa: Jebel Akhdar Mountain Bike", description: "A mountain bike tour of Jebel Akhdar.", price: "From $416", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5e286f4d40a8dc422e61916a630998a442767f67f6862021322ca4c697af0cf2.png" } },
+                    { title: "Most Extreme: Jebel Shams Balcony Walk & Via Ferrata", content: "For experienced adventurers, this combines the famous Balcony Walk above 'Oman's Grand Canyon' with a via ferrata climbing section.", tourCard: { slug: "nizwa-jebel-shams-balcony-walk-and-via-ferrata", title: "Nizwa: Jebel Shams Balcony Walk and Via Ferrata Adventure", description: "A via ferrata and balcony walk adventure at Jebel Shams.", price: "From $390", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/40f844450fdd5a74c56f9b0e192a6cac596ea7991972adc979b88551732a4427.jpg" } },
+                    { title: "Practical Tips", content: "Jebel Akhdar's elevation (over 2,000m) makes it noticeably cooler than Muscat or Nizwa — bring a layer even in summer." }
+                ],
+                faqs: [
+                    { q: "What is the best way to see Jebel Akhdar?", a: "E-bike touring is easiest, mountain biking is more athletic, via ferrata at Jebel Shams is the most extreme." },
+                    { q: "Is Jebel Akhdar cooler than Nizwa?", a: "Yes, its elevation over 2,000m makes it noticeably cooler year-round." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best way to see Jebel Akhdar?", "acceptedAnswer": { "@type": "Answer", "text": "E-bike for ease, mountain bike for more effort, via ferrata for the most extreme." } },
+                    { "@type": "Question", "name": "Is Jebel Akhdar cooler than Nizwa?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, its elevation makes it noticeably cooler year-round." } }
+                ] },
+            };
+
+        case "nizwa-travel-guide-2026":
+            return {
+                title: "Nizwa Travel Guide 2026",
+                description: "Everything to know about visiting Nizwa, the former capital of Oman and home of its most famous souq and fort.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b13edd84e57915c8a25e0e3835f20af9e9dff9d77d1cf2b14828f08512b14829.jpg",
+                sections: [
+                    { title: "Getting There", content: "Nizwa is about 1.5 hours by road from Muscat, making it Oman's most popular day-trip destination from the capital." },
+                    { title: "What to Do", content: "Nizwa Fort, the historic souq (busiest Friday mornings), and day trips up into the Jebel Akhdar mountains for hiking, biking, or via ferrata." },
+                    { title: "Best Time to Visit", content: "October to April for comfortable daytime temperatures, especially for mountain activities in Jebel Akhdar." }
+                ],
+                faqs: [
+                    { q: "How far is Nizwa from Muscat?", a: "About 1.5 hours by road." },
+                    { q: "What is Nizwa famous for?", a: "Its historic fort and souq, and as the gateway to the Jebel Akhdar mountains." }
+                ],
+            };
+
         default:
             return null;
     }
