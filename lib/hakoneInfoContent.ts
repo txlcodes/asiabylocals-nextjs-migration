@@ -1788,6 +1788,66 @@ export function getHakoneInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case 'is-mount-fuji-summit-climb-worth-it':
+      return {
+        title: "Is the 2-Day Mount Fuji Summit Climb Worth It?",
+        description: "An honest look at the 2-day Mount Fuji summit climb via the Fujinomiya Route, a serious mountaineering undertaking distinct from the standard scenic bus tours.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788271539/asiabylocals/tours/mount-fuji-summit-climb-2day-fujinomiya-route/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Actually summiting Mount Fuji requires a genuine overnight climb, typically starting in the afternoon and reaching the top for sunrise — a completely different undertaking from the countless bus tours that only stop at the 5th Station for photos.",
+            tourCard: { slug: "mount-fuji-summit-climb-fujinomiya-route-2-days", title: "Mount Fuji Summit Climb: Fujinomiya Route (2 Days)", description: "A 2-day guided summit climb of Mount Fuji via the Fujinomiya Route.", price: "From $1061", duration: "2 days / 1 night", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788271539/asiabylocals/tours/mount-fuji-summit-climb-2day-fujinomiya-route/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mount Fuji's official climbing season runs roughly July through early September — outside that window the trails and mountain huts are closed. Bring serious cold-weather gear even in summer, since the summit stays cold overnight." },
+        ],
+        faqs: [
+          { q: "Is climbing Mount Fuji worth it?", a: "Yes, for travelers with genuine hiking fitness wanting to actually summit, a completely different experience from the standard 5th Station photo-stop bus tours." },
+        ],
+      };
+
+    case 'is-forest-bathing-worth-it-hakone':
+      return {
+        title: "Is Shinrin-Yoku Forest Bathing Worth It in Hakone?",
+        description: "An honest look at Hakone's introductory shinrin-yoku forest bathing session, a slow, mindful nature activity distinct from the area's cable car and museum sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/introductory-shinrin-yoku-forest-bathing-in-hakone/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Shinrin-yoku, or forest bathing, is a mindful, slow-paced walk through the forest focused on sensory awareness rather than covering distance — a genuinely different pace from Hakone's usual cable car, ropeway, and museum-hopping itineraries.",
+            tourCard: { slug: "introductory-shinrin-yoku-forest-bathing-in-hakone", title: "Introductory Shinrin-Yoku Forest Bathing in Hakone", description: "An introductory shinrin-yoku forest bathing session in Hakone.", price: "From $286", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/introductory-shinrin-yoku-forest-bathing-in-hakone/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with no agenda beyond slowing down — this is deliberately not a hike for distance or views, but a mindfulness practice." },
+        ],
+        faqs: [
+          { q: "Is forest bathing worth it in Hakone?", a: "Yes, as a genuinely mindful, slow-paced counterpoint to the area's usual sightseeing pace." },
+        ],
+      };
+
+    case 'is-open-air-museum-worth-it-hakone':
+      return {
+        title: "Is the Hakone Open-Air Museum Worth It?",
+        description: "An honest look at the Hakone Open-Air Museum ticket with digital art guide, a sculpture park and art venue distinct from the area's volcanic and lake sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/open-air-museum-ticket-and-digital-art-guide-in-hakone/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Hakone Open-Air Museum displays large-scale sculptures outdoors against the surrounding mountain scenery, a genuinely different kind of attraction from Owakudani's volcanic valley or Lake Ashi's boat cruises — good for art lovers wanting a change of pace.",
+            tourCard: { slug: "open-air-museum-ticket-and-digital-art-guide-in-hakone", title: "Open Air Museum Ticket and Digital Art Guide in Hakone", description: "An entry ticket to the Hakone Open-Air Museum with a digital art guide.", price: "From $37", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/open-air-museum-ticket-and-digital-art-guide-in-hakone/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The digital guide adds useful context to the sculptures, so download it before entering if it requires an app or QR code." },
+        ],
+        faqs: [
+          { q: "Is the Open-Air Museum worth it in Hakone?", a: "Yes, for art lovers wanting a genuinely different kind of attraction from the area's volcanic and lake sightseeing." },
+        ],
+      };
+
     default:
       return null;
   }

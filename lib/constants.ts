@@ -1449,7 +1449,8 @@ export const HAKONE_INFO_SLUGS = [
   'hakone-or-kawaguchiko-for-mount-fuji',
   'best-tours-in-hakone',
   'should-i-book-hakone-tour-direct-or-through-app',
-  'how-much-should-a-private-tour-guide-cost-in-hakone'
+  'how-much-should-a-private-tour-guide-cost-in-hakone',
+  'is-forest-bathing-worth-it-hakone', 'is-open-air-museum-worth-it-hakone',
 ];
 
 // Fuji content that was sitting under Hakone. The page bodies still live in
@@ -1468,6 +1469,7 @@ export const MOUNT_FUJI_INFO_SLUGS = [
   'best-tours-in-mount-fuji',
   'should-i-book-mount-fuji-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-mount-fuji',
+  'is-mount-fuji-summit-climb-worth-it',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/hiroshimaInfoContent.ts.

@@ -1324,7 +1324,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'hakone-open-air-museum-guide', 'owakudani-black-eggs-guide', 'hakone-yosegi-marquetry-guide',
     'where-to-stay-in-hakone',
     'hakone-or-kawaguchiko-for-mount-fuji', 'best-tours-in-hakone', 'should-i-book-hakone-tour-direct-or-through-app',
-    'how-much-should-a-private-tour-guide-cost-in-hakone'].map(slug => ({
+    'how-much-should-a-private-tour-guide-cost-in-hakone',
+    'is-forest-bathing-worth-it-hakone', 'is-open-air-museum-worth-it-hakone'].map(slug => ({
     url: `${BASE_URL}/japan/hakone/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -1339,6 +1340,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'fuji-five-lakes-guide',
     'mount-fuji-day-tour-routes', 'best-tours-in-mount-fuji', 'should-i-book-mount-fuji-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-mount-fuji',
+    'is-mount-fuji-summit-climb-worth-it',
 ].map(slug => ({
     url: `${BASE_URL}/japan/mount-fuji/${slug}`,
     lastModified: new Date(),
