@@ -891,6 +891,66 @@ export function getNaraInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case 'is-koriyama-goldfish-tour-worth-it-nara':
+      return {
+        title: "Is the Koriyama Goldfish Charm Tour Worth It in Nara?",
+        description: "An honest look at Nara's Koriyama goldfish charm tour, a genuinely unique craft tradition distinct from the deer park and temple sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/discover-koriyama-s-goldfish-charm-2-hour-in-nara/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yamatokoriyama is historically famous for ornamental goldfish breeding, a genuinely unique local craft tradition most visitors never hear about — a two-hour discovery tour that's a complete change of subject from Nara's deer park and ancient temples.",
+            tourCard: { slug: "discover-koriyama-s-goldfish-charm-2-hour-in-nara", title: "Discover Koriyama's Goldfish Charm (2 Hour)", description: "A two-hour tour exploring Koriyama's historic goldfish-breeding culture.", price: "From $136", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/discover-koriyama-s-goldfish-charm-2-hour-in-nara/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Good as a lighter, offbeat half-day activity to pair with the deer park, giving a sense of Nara beyond its famous sights." },
+        ],
+        faqs: [
+          { q: "Is the Koriyama goldfish tour worth it in Nara?", a: "Yes, for a genuinely unique local craft tradition most visitors never discover, a complete change of subject from the deer park and temples." },
+        ],
+      };
+
+    case 'is-hasedera-temple-tour-worth-it-nara':
+      return {
+        title: "Is the Hasedera Temple Tour Worth It in Nara?",
+        description: "An honest look at Nara's Hasedera temple tour featuring the giant Kannon statue and cliffside architecture, distinct from Todai-ji's Great Buddha.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/explore-hasedera-s-giant-kannon-and-cliffside-temple-in-nara/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hasedera's giant wooden Kannon statue and dramatic cliffside temple architecture is a genuinely different site from Todai-ji's Great Buddha — fewer crowds, a different deity, and a striking mountainside setting worth the visit for travelers who've already covered the main Nara sights.",
+            tourCard: { slug: "explore-hasedera-s-giant-kannon-and-cliffside-temple-in-nara", title: "Explore Hasedera's Giant Kannon and Cliffside Temple", description: "A tour of Hasedera Temple's giant Kannon statue and cliffside architecture.", price: "From $108", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/explore-hasedera-s-giant-kannon-and-cliffside-temple-in-nara/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Best visited after you've already seen Todai-ji, since this is specifically a quieter, different-flavor temple experience." },
+        ],
+        faqs: [
+          { q: "Is the Hasedera temple tour worth it in Nara?", a: "Yes, for a genuinely different, quieter temple experience with a giant Kannon statue, distinct from Todai-ji's Great Buddha." },
+        ],
+      };
+
+    case 'is-rickshaw-tour-worth-it-nara':
+      return {
+        title: "Is the Rickshaw Cultural Heritage Tour Worth It in Nara?",
+        description: "An honest look at Nara's cultural heritage tour by rickshaw, a relaxed way to see the city's sights distinct from walking tours.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/cultural-heritage-tour-by-rickshaw-in-nara/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Riding by traditional rickshaw through Nara's historic streets, with the puller sharing local history along the way, is a relaxed, novel way to sightsee that covers more ground than walking while staying slower-paced and more personal than a bus tour.",
+            tourCard: { slug: "cultural-heritage-tour-by-rickshaw-in-nara", title: "Cultural Heritage Tour by Rickshaw in Nara", description: "A cultural heritage tour of Nara by traditional rickshaw.", price: "From $160", duration: "70 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/cultural-heritage-tour-by-rickshaw-in-nara/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good option for travelers with limited mobility or anyone wanting a relaxed, narrated alternative to walking between sights." },
+        ],
+        faqs: [
+          { q: "Is the rickshaw tour worth it in Nara?", a: "Yes, for a relaxed, personal way to see the city's sights with narrated local history, a good alternative for those who'd rather not walk." },
+        ],
+      };
+
     default:
       return null;
   }

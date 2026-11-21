@@ -1288,7 +1288,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'nara-workshops-and-crafts',
     'should-you-stay-overnight-in-nara', 'best-tours-in-nara', 'should-i-book-nara-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-nara',
-    'is-tea-ceremony-worth-it-nara'].map(slug => ({
+    'is-tea-ceremony-worth-it-nara',
+    'is-koriyama-goldfish-tour-worth-it-nara', 'is-hasedera-temple-tour-worth-it-nara',
+    'is-rickshaw-tour-worth-it-nara'].map(slug => ({
     url: `${BASE_URL}/japan/nara/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
