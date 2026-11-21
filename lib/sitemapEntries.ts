@@ -538,6 +538,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'vientiane-1-day-itinerary', 'is-vientiane-safe',
     'vientiane-food-guide', 'vientiane-currency-guide',
     'vientiane-to-luang-prabang-guide', 'vientiane-public-transport-guide',
+    'is-lao-art-museum-tuk-tuk-tour-worth-it-vientiane', 'is-traditional-lao-wedding-ceremony-worth-it-vientiane',
   ], 'laos', 'vientiane');
   const vangViengInfoPages = mapInfoSlugs([
     'best-hot-air-balloon-tour-vang-vieng', 'best-blue-lagoon-tour-vang-vieng',

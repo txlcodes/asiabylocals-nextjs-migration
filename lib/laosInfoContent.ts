@@ -1282,6 +1282,43 @@ export function getLaosInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-lao-art-museum-tuk-tuk-tour-worth-it-vientiane":
+            return {
+                title: "Is the Lao Art Museum & Orange Tuk Tuk City Tour Worth It?",
+                seoTitle: "Vientiane Lao Art Museum Tuk Tuk Tour 2026 | Honest Review",
+                description: "An honest look at Vientiane's budget-friendly Lao Art Museum and orange tuk tuk city tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/01138701ec20bf984cf67a52ccd1745a9eb5736f5c3f8a581a5ef174618f8089.png",
+                sections: [
+                    { title: "The Short Answer", content: "At a very low price, this combines a visit to the Lao Art Museum with a city tour by tuk tuk, a relaxed and affordable way to cover both art and sightseeing in one short outing.", tourCard: { slug: "vientiane-lao-art-museum-orange-tuk-tuk-city-tour", title: "Vientiane: Lao Art Museum & Orange Tuk Tuk City Tour", description: "A tour combining the Lao Art Museum with a tuk tuk city tour.", price: "From $13", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/01138701ec20bf984cf67a52ccd1745a9eb5736f5c3f8a581a5ef174618f8089.png" } },
+                    { title: "Practical Tips", content: "This is one of Vientiane's most budget-friendly tours, worth adding even if you're mainly in the city for temples or Patuxai." }
+                ],
+                faqs: [
+                    { q: "Is the Lao Art Museum tour worth it?", a: "Yes, it's a very affordable way to combine art and city sightseeing in Vientiane." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Lao Art Museum tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a very affordable combined art and sightseeing tour." } }
+                ] },
+            };
+
+        case "is-traditional-lao-wedding-ceremony-worth-it-vientiane":
+            return {
+                title: "Is the Traditional Lao Wedding Ceremony Experience Worth It?",
+                seoTitle: "Vientiane Lao Wedding Ceremony 2026 | Honest Review",
+                description: "An honest look at Vientiane's traditional Lao wedding ceremony experience with photos, a staged cultural re-enactment of a Baci-style ceremony.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/735f64df5bfad81fb9b63b8691605825807af4417e54a252c0e3b25e16658e40.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This is a premium, staged re-enactment of a traditional Lao wedding ceremony with costumes and photos — a genuinely unique cultural experience, but a significant splurge compared to Vientiane's other activities.", tourCard: { slug: "vientiane-traditional-lao-wedding-ceremony-with", title: "Vientiane: Traditional Lao Wedding Ceremony with Photos", description: "A traditional Lao wedding ceremony experience with photos.", price: "From $3749", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/735f64df5bfad81fb9b63b8691605825807af4417e54a252c0e3b25e16658e40.jpg" } },
+                    { title: "Practical Tips", content: "This is priced as a premium, often group or event-scale experience rather than a casual add-on — worth it specifically for a special occasion like a honeymoon or anniversary." }
+                ],
+                faqs: [
+                    { q: "What is included in the Lao wedding ceremony experience?", a: "A staged traditional ceremony with costumes and professional photos." },
+                    { q: "Is this experience affordable?", a: "No, it's priced as a premium special-occasion experience, not a casual activity." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Lao wedding ceremony affordable?", "acceptedAnswer": { "@type": "Answer", "text": "No, it's a premium special-occasion experience." } }
+                ] },
+            };
+
         default:
             return null;
     }
