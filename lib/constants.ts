@@ -730,6 +730,8 @@ export const SALALAH_INFO_SLUGS = [
   'salalah-travel-guide-2026', 'best-time-to-visit-salalah',
   'is-flyboard-experience-worth-it-salalah', 'is-horse-trek-worth-it-salalah',
   'is-jabal-samhan-atv-tour-worth-it-salalah',
+  'is-kayaking-worth-it-salalah', 'is-mirbat-snorkeling-worth-it-salalah',
+  'is-fishing-trip-worth-it-salalah', 'is-night-city-tour-worth-it-salalah',
 ];
 
 // Bhaktapur & Lumbini (Nepal) — launched 2026-11-21.

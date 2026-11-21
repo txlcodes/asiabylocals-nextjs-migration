@@ -789,6 +789,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'salalah-travel-guide-2026', 'best-time-to-visit-salalah',
     'is-flyboard-experience-worth-it-salalah', 'is-horse-trek-worth-it-salalah',
     'is-jabal-samhan-atv-tour-worth-it-salalah',
+    'is-kayaking-worth-it-salalah', 'is-mirbat-snorkeling-worth-it-salalah',
+    'is-fishing-trip-worth-it-salalah', 'is-night-city-tour-worth-it-salalah',
   ], 'oman', 'salalah');
 
   const bhaktapurInfoPages = mapInfoSlugs([

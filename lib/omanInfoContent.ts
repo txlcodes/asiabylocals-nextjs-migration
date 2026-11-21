@@ -922,6 +922,78 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-kayaking-worth-it-salalah":
+            return {
+                title: "Is Kayaking Worth It in Salalah?",
+                seoTitle: "Salalah Kayaking 2026 | Honest Review",
+                description: "An honest look at Salalah's full-day kayaking tour, a slow-paced coastal activity distinct from the region's flyboard and desert-safari thrills.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3be30ad600519e2fc53bf6f3c07245a0a6e7c6ba0aeb21b7e4e283eb1660ec15.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This full-day kayaking tour explores Salalah's coastline at a slower, quieter pace than the region's motorized water activities, a good fit for travellers wanting a calmer, nature-focused day on the water.", tourCard: { slug: "kayaks-in-paradise-salalah", title: "Kayaks in Paradise: Salalah", description: "A full-day kayaking tour along Salalah's coastline.", price: "From $221", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3be30ad600519e2fc53bf6f3c07245a0a6e7c6ba0aeb21b7e4e283eb1660ec15.jpg" } },
+                    { title: "Practical Tips", content: "No prior kayaking experience is required, but the full-day format means sun exposure, so bring sunscreen and a hat." }
+                ],
+                faqs: [
+                    { q: "Is kayaking worth it in Salalah?", a: "Yes, for a calmer, nature-focused alternative to the region's motorized water sports and desert safaris." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is kayaking worth it in Salalah?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a calm, nature-focused day on the water." } }
+                ] },
+            };
+
+        case "is-mirbat-snorkeling-worth-it-salalah":
+            return {
+                title: "Is Mirbat Snorkeling Worth It near Salalah?",
+                seoTitle: "Mirbat Snorkeling Salalah 2026 | Honest Review",
+                description: "An honest look at the Mirbat snorkeling trip near Salalah, a dedicated underwater outing distinct from the region's dolphin-watching boat tours.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b73c69baccf8b2b0184ad8c33ad031e0ab715652438a96c11d8224a1d9619181.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Mirbat's waters are a genuinely good snorkeling spot, a focused underwater outing rather than a dolphin-watching cruise that happens to include some snorkel time — worth it if marine life, not dolphins specifically, is the priority.", tourCard: { slug: "salalah-discover-mirbats-snorkeling-paradise", title: "Salalah: Discover Mirbat's Snorkeling Paradise", description: "A dedicated snorkeling trip to Mirbat's waters near Salalah.", price: "From $169", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b73c69baccf8b2b0184ad8c33ad031e0ab715652438a96c11d8224a1d9619181.jpg" } },
+                    { title: "Practical Tips", content: "Mirbat is a separate town from Salalah city, so factor in drive time when booking around other plans." }
+                ],
+                faqs: [
+                    { q: "Is Mirbat snorkeling worth it near Salalah?", a: "Yes, for travellers prioritizing marine life and reef snorkeling over a dolphin-focused boat tour." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Mirbat snorkeling worth it near Salalah?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a focused underwater outing prioritizing marine life." } }
+                ] },
+            };
+
+        case "is-fishing-trip-worth-it-salalah":
+            return {
+                title: "Is the Half-Day Fishing Trip Worth It in Salalah?",
+                seoTitle: "Salalah Fishing Trip 2026 | Honest Review",
+                description: "An honest look at Salalah's half-day fishing trip, a relaxed boat activity distinct from the region's snorkeling, dolphin-watching, and water-sport tours.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c71e45e7a355e152371f6252fabc44ba6a5a0a6f9e66912bdb1976bd4270ab57.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This half-day fishing trip off Salalah's coast is a relaxed, low-key alternative to the region's more active water sports, a good option for travellers who want time on the water without snorkeling or paddling.", tourCard: { slug: "salalah-half-day-fishing-trip", title: "Salalah: Half-Day Fishing Trip", description: "A half-day fishing trip off Salalah's coast.", price: "From $156", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c71e45e7a355e152371f6252fabc44ba6a5a0a6f9e66912bdb1976bd4270ab57.jpg" } },
+                    { title: "Practical Tips", content: "Equipment is typically provided, so no need to bring your own fishing gear." }
+                ],
+                faqs: [
+                    { q: "Is the half-day fishing trip worth it in Salalah?", a: "Yes, for a relaxed time on the water, a good change of pace from the region's more active water sports." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the half-day fishing trip worth it in Salalah?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a relaxed time on the water." } }
+                ] },
+            };
+
+        case "is-night-city-tour-worth-it-salalah":
+            return {
+                title: "Is the Night City Tour Worth It in Salalah?",
+                seoTitle: "Salalah Night City Tour 2026 | Honest Review",
+                description: "An honest look at Salalah's night city tour covering city lights, souqs, and the mall, a cooler evening alternative to daytime city sightseeing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7ed79acd5a9066e5dd2156d0e2c36e31f1eabf368f4de5f01f0df66133a53156.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Seeing Salalah's souqs, mall, and city lights after dark avoids the daytime heat and gives a genuinely different, more local-life atmosphere than the standard daytime city tour, with shopping and street life as the focus.", tourCard: { slug: "salalah-by-night-city-lights-souks-mall-shopping", title: "Salalah by Night: City Lights, Souks & Mall Shopping", description: "An evening city tour covering Salalah's souqs, mall, and city lights.", price: "From $75", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7ed79acd5a9066e5dd2156d0e2c36e31f1eabf368f4de5f01f0df66133a53156.jpeg" } },
+                    { title: "Practical Tips", content: "Bring cash for souq shopping, since smaller stalls may not take cards." }
+                ],
+                faqs: [
+                    { q: "Is the night city tour worth it in Salalah?", a: "Yes, for a cooler, more local-life atmosphere focused on souqs and shopping, distinct from the daytime sightseeing city tour." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the night city tour worth it in Salalah?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a cooler evening focused on souqs and local shopping." } }
+                ] },
+            };
+
         case "is-flyboard-experience-worth-it-salalah":
             return {
                 title: "Is the Flyboard Experience Worth It in Salalah?",
