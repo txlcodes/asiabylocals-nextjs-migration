@@ -1693,6 +1693,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'crystal-bay-guide',
     'nusa-lembongan-vs-nusa-penida',
     'nusa-penida-2-day-itinerary',
+    'is-scuba-diving-worth-it-nusa-penida',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/nusa-penida/${slug}`,
     lastModified: new Date(),

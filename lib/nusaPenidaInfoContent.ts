@@ -877,6 +877,32 @@ export function getNusaPenidaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-scuba-diving-worth-it-nusa-penida":
+      return {
+        title: "Is Scuba Diving Worth It in Nusa Penida?",
+        description: "Compare beginner scuba diving options in Nusa Penida — a pool-plus-ocean 'try dive' versus a two-ocean-dive beginner course.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/try-scuba-diving-day-trip-to-nusa-penida-pool-2-dives/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nusa Penida's waters offer genuine scuba diving beyond the snorkeling most visitors do — a different, more immersive way to see the manta rays and reefs that make this area famous.",
+            tourCard: { slug: "try-scuba-diving-day-trip-to-nusa-penida-pool-2-dives", title: "Try Scuba Diving day trip to Nusa Penida pool+2 dives", description: "A try-dive day trip with pool training and 2 ocean dives.", price: "From $545", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/try-scuba-diving-day-trip-to-nusa-penida-pool-2-dives/img0/1600.webp" },
+          },
+          {
+            title: "More Affordable: Beginner Scuba Diving with 2 Ocean Dives",
+            content: "This version skips the pool session and goes straight to 2 ocean dives with an instructor, a more affordable option for those comfortable in open water without pool practice first.",
+            tourCard: { slug: "beginner-scuba-diving-with-2-ocean-dives-in-nusa-penida", title: "Beginner Scuba Diving with 2 Ocean Dives in Nusa Penida", description: "A beginner scuba diving experience with 2 ocean dives.", price: "From $237", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/beginner-scuba-diving-with-2-ocean-dives-in-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If you're nervous in open water, the pool-training version is worth the extra cost; if you're already a confident swimmer, the 2-ocean-dive version saves money." },
+        ],
+        faqs: [
+          { q: "Do I need certification to scuba dive in Nusa Penida?", a: "No, beginner 'try dive' options with an instructor are available for uncertified divers." },
+          { q: "Is scuba diving worth it in Nusa Penida compared to snorkeling?", a: "Yes, for a more immersive view of the manta rays and reefs the area is famous for." },
+        ],
+      };
+
     default:
       return null;
   }

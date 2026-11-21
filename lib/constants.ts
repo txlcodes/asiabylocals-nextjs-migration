@@ -1926,6 +1926,7 @@ export const NUSA_PENIDA_INFO_SLUGS = [
   'crystal-bay-guide',
   'nusa-lembongan-vs-nusa-penida',
   'nusa-penida-2-day-itinerary',
+  'is-scuba-diving-worth-it-nusa-penida',
 ];
 
 export const DA_NANG_INFO_SLUGS = [
