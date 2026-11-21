@@ -2115,6 +2115,9 @@ export const UBUD_INFO_SLUGS = [
   'is-hidden-canyon-tour-worth-it-ubud', 'is-kintamani-downhill-cycling-worth-it-ubud',
   'is-beach-horse-riding-worth-it-ubud',
   'is-cultural-dance-performance-worth-it-ubud',
+  'is-ayung-river-rafting-worth-it-ubud', 'is-bali-swing-worth-it-ubud',
+  'is-arma-museum-worth-it-ubud', 'is-batik-workshop-worth-it-ubud',
+  'is-atv-jungle-ride-worth-it-ubud',
 ];
 
 export const CANGGU_INFO_SLUGS = [

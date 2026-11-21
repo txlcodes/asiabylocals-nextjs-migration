@@ -2046,6 +2046,111 @@ export function getUbudInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ayung-river-rafting-worth-it-ubud":
+      return {
+        title: "Is Ayung River Rafting Worth It in Ubud?",
+        description: "An honest look at Ayung River white water rafting, Bali's most popular rafting route through jungle gorges near Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ayung-river-rafting-includes-lunch-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Ayung River is Bali's most popular rafting route, winding through jungle gorges and past waterfalls close enough to touch, a genuinely active, adrenaline-focused activity distinct from Ubud's usual temple and rice terrace sightseeing.",
+            tourCard: { slug: "ayung-river-rafting-includes-lunch-in-ubud", title: "Ayung River Rafting Includes Lunch in Ubud", description: "A white water rafting trip down the Ayung River with lunch included.", price: "From $30", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ayung-river-rafting-includes-lunch-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior rafting experience is needed — the rapids are grade 2, manageable for beginners while still genuinely fun.",
+          },
+        ],
+        faqs: [
+          { q: "Is Ayung River rafting worth it in Ubud?", a: "Yes, it's Bali's most popular rafting route, with manageable rapids suitable for beginners through genuinely scenic jungle gorges." },
+        ],
+      };
+
+    case "is-bali-swing-worth-it-ubud":
+      return {
+        title: "Is the Bali Swing Worth It in Ubud?",
+        description: "An honest look at the Bali Swing, a giant jungle-set swing experience built almost entirely around dramatic photo opportunities.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/aloha-swing-bali-jungle-views-bali-swing-and-photo-experience-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Bali Swing is built almost entirely around the photo and video it produces, swinging out over jungle views on a giant rope swing — it's a genuinely fun few minutes rather than a deep cultural or natural experience, so set expectations accordingly.",
+            tourCard: { slug: "aloha-swing-bali-jungle-views-bali-swing-and-photo-experience-ubud", title: "Aloha Swing: Bali Jungle Views, Swing & Photo Experience", description: "A giant jungle swing experience with photo package included.", price: "From $53", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/aloha-swing-bali-jungle-views-bali-swing-and-photo-experience-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in with the right expectations — this is a short, fun photo-op activity, not a half-day of substance, so pair it with something else nearby." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the Bali Swing worth it?", a: "Yes, for a fun, genuinely photogenic few minutes — just know it's a quick photo-op activity, not a substantial cultural experience." },
+        ],
+      };
+
+    case "is-arma-museum-worth-it-ubud":
+      return {
+        title: "Is the ARMA Museum Worth It in Ubud?",
+        description: "An honest look at the Agung Rai Museum of Art, Ubud's most significant collection of traditional and modern Balinese and Indonesian paintings.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/agung-rai-museum-of-art-arma-admission-ticket-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "ARMA holds one of the most significant collections of traditional and modern Balinese and Indonesian art anywhere, set within a genuinely peaceful garden compound, a worthwhile quieter alternative for travelers who've had enough of Ubud's busier attractions.",
+            tourCard: { slug: "agung-rai-museum-of-art-arma-admission-ticket-in-ubud", title: "Agung Rai Museum of Art (ARMA) Admission Ticket in Ubud", description: "Admission to the ARMA museum of Balinese and Indonesian art.", price: "From $11", duration: "45 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/agung-rai-museum-of-art-arma-admission-ticket-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good quiet morning activity before the crowds build at Ubud's more popular temple and rice terrace sights." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the ARMA museum worth visiting in Ubud?", a: "Yes, for a genuinely significant collection of Balinese and Indonesian art in a peaceful garden setting, away from the busier crowds." },
+        ],
+      };
+
+    case "is-batik-workshop-worth-it-ubud":
+      return {
+        title: "Is the Batik Workshop Worth It in Ubud?",
+        description: "An honest look at the authentic Balinese batik workshop at a hidden Ubud atelier, a hands-on introduction to the traditional wax-resist dyeing craft.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/authentic-balinese-batik-at-a-hidden-ubud-atelier-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Batik is a traditional wax-resist dyeing technique found across Indonesia, and this workshop at a small, hidden Ubud atelier teaches the hands-on process rather than just selling finished pieces, making it a genuinely different craft activity from Ubud's more common cooking classes.",
+            tourCard: { slug: "authentic-balinese-batik-at-a-hidden-ubud-atelier-ubud", title: "Authentic Balinese Batik at a Hidden Ubud Atelier", description: "A hands-on batik dyeing workshop at a small Ubud atelier.", price: "From $45", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/authentic-balinese-batik-at-a-hidden-ubud-atelier-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "You take home the piece you make yourself, a more meaningful souvenir than shop-bought batik textiles." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the batik workshop worth it in Ubud?", a: "Yes, for a genuinely different hands-on craft activity and a more meaningful souvenir than buying finished batik pieces." },
+        ],
+      };
+
+    case "is-atv-jungle-ride-worth-it-ubud":
+      return {
+        title: "Is the ATV Jungle Ride Worth It in Ubud?",
+        description: "An honest look at the ATV quad bike adventure through jungle, river, and rice fields, one of Ubud's most popular adrenaline activities.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/atv-quad-bike-adventure-through-jungle-river-and-rice-fields-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "ATV riding through Ubud's jungle trails, river crossings, and rice fields is one of the area's single most popular adventure activities, giving a genuinely muddy, active alternative to the area's usual temple and waterfall sightseeing pace.",
+            tourCard: { slug: "atv-quad-bike-adventure-through-jungle-river-and-rice-fields-in-ubud", title: "ATV Quad Bike Adventure Through Jungle, River and Rice Fields", description: "An ATV quad bike ride through Ubud's jungle, river, and rice field terrain.", price: "From $83", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/atv-quad-bike-adventure-through-jungle-river-and-rice-fields-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect to get genuinely muddy — wear clothes you don't mind ruining and bring a change for afterward.",
+          },
+        ],
+        faqs: [
+          { q: "Is the ATV jungle ride worth it in Ubud?", a: "Yes, it's one of the area's most popular adventure activities, for a genuinely active, muddy alternative to temple sightseeing." },
+        ],
+      };
+
     default:
       return null;
   }
