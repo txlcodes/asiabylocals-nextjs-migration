@@ -729,6 +729,7 @@ export const BATUMI_INFO_SLUGS = [
   'batumi-travel-guide-2026', 'best-time-to-visit-batumi',
   'is-sunset-cruise-worth-it-batumi', 'is-khachapuri-cooking-class-worth-it-batumi',
   'is-machakhela-national-park-hike-worth-it-batumi',
+  'is-shipwreck-boat-tour-worth-it-batumi', 'is-pub-crawl-worth-it-batumi',
 ];
 
 export const KUTAISI_INFO_SLUGS = [

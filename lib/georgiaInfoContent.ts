@@ -1297,6 +1297,42 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-shipwreck-boat-tour-worth-it-batumi":
+            return {
+                title: "Is the Shipwreck Boat Adventure Worth It in Batumi?",
+                seoTitle: "Batumi Shipwreck Boat Tour 2026 | Honest Review",
+                description: "An honest look at Batumi's shipwreck boat adventure, a focused Black Sea excursion distinct from the city's standard sunset cruises.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/561a212075f2111f4ea4df61fa5fee8f7d473659b4c605258f74fe20cf1d2c2e.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This boat trip heads out specifically to see a shipwreck off Batumi's coast, a focused adventure activity rather than a relaxed sunset cruise — a different kind of Black Sea outing for travelers wanting something more than scenic views.", tourCard: { slug: "batumi-dive-into-adventure-with-a-shipwreck-boat", title: "Batumi: Dive into Adventure with a Shipwreck Boat Tour", description: "A boat tour to a shipwreck off Batumi's Black Sea coast.", price: "From $439", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/561a212075f2111f4ea4df61fa5fee8f7d473659b4c605258f74fe20cf1d2c2e.jpg" } },
+                    { title: "Practical Tips", content: "Confirm with the operator whether this includes snorkeling or diving access to the wreck itself, or is a surface viewing trip only." },
+                ],
+                faqs: [
+                    { q: "Is the shipwreck boat tour worth it in Batumi?", a: "Yes, for a focused adventure activity on the Black Sea, genuinely different from a relaxed sunset cruise." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the shipwreck boat tour worth it in Batumi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a focused Black Sea adventure activity." } },
+                ] },
+            };
+
+        case "is-pub-crawl-worth-it-batumi":
+            return {
+                title: "Is the Pub Crawl Worth It in Batumi?",
+                seoTitle: "Batumi Pub Crawl 2026 | Honest Review",
+                description: "An honest look at Batumi's pub crawl and bar hopping tour, a social nightlife activity distinct from the city's daytime boat tours and sightseeing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d9f062356269f7f105bb2ff289dcf8cf33edd992c568429b51da7c765077863f.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This pub crawl hops between several of Batumi's bars with a free welcome drink included, a social way to meet other travelers and see the city's nightlife scene beyond its daytime boat tours and botanical garden walks.", tourCard: { slug: "batumi-pub-crawl-bar-hopping-with-free-welcome", title: "Batumi Pub Crawl: Bar Hopping with Free Welcome Drink", description: "A guided pub crawl through Batumi's bars with a free welcome drink.", price: "From $26", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d9f062356269f7f105bb2ff289dcf8cf33edd992c568429b51da7c765077863f.jpg" } },
+                    { title: "Practical Tips", content: "Pace yourself across the stops — this is a long evening, and the free welcome drink is just the start." },
+                ],
+                faqs: [
+                    { q: "Is the pub crawl worth it in Batumi?", a: "Yes, for a social night out meeting other travelers, a different side of the city than its daytime sightseeing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the pub crawl worth it in Batumi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a social night out meeting other travelers." } },
+                ] },
+            };
+
         case "is-vani-sulfur-baths-tour-worth-it-kutaisi":
             return {
                 title: "Is the Vani Museum and Sulfur Baths Tour Worth It from Kutaisi?",
