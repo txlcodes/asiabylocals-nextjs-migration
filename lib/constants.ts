@@ -626,6 +626,14 @@ export const KUTAISI_INFO_SLUGS = [
   'kutaisi-travel-guide-2026',
 ];
 
+// Salalah (Oman) — 93 live tours, launched 2026-11-21.
+export const SALALAH_INFO_SLUGS = [
+  'best-wadi-darbat-tour-salalah', 'best-empty-quarter-desert-safari-salalah',
+  'best-dolphin-watching-tour-salalah', 'best-west-salalah-beach-tour-salalah',
+  'is-frankincense-trail-tour-worth-it-salalah', 'best-city-tour-salalah',
+  'salalah-travel-guide-2026', 'best-time-to-visit-salalah',
+];
+
 export const JOHOR_BAHRU_INFO_SLUGS = [
   'best-jetski-tour-johor-bahru',
   'best-hop-on-hop-off-tour-johor-bahru', 'best-private-city-tour-johor-bahru',

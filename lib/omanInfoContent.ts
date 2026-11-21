@@ -618,6 +618,156 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "best-wadi-darbat-tour-salalah":
+            return {
+                title: "Which Is the Best Wadi Darbat Tour in Salalah?",
+                seoTitle: "Best Wadi Darbat Tour Salalah 2026 | Honest Comparison",
+                description: "Compare real Wadi Darbat tours in Salalah — from a boat-ride-and-cliff combo to a full-day trip adding Jabal Samhan and a sinkhole.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1ff2fa541796bb0de34617031d1241e5ec04842257e7fbfa651c3daf0d33e6c9.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Wadi Darbat's lush lagoon (dramatically different outside Khareef monsoon season vs. during it) is usually paired with a boat ride and a nearby cliff or mountain viewpoint.", tourCard: { slug: "darbat-guided-tour-with-boat-ride-and-taqah-cliff", title: "Darbat Guided Tour with Boat Ride And Taqah Cliff", description: "A Wadi Darbat tour with a boat ride and Taqah Cliff viewpoint.", price: "From $102", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1ff2fa541796bb0de34617031d1241e5ec04842257e7fbfa651c3daf0d33e6c9.jpg" } },
+                    { title: "Best Alternative Route: Taqah and Wadi Darbat Majestic Trip", content: "A similar combo from a different operator, worth comparing on timing and the exact viewpoints included.", tourCard: { slug: "salalah-taqah-and-wadi-darbat-majestic-trip", title: "Salalah: Taqah, and Wadi Darbat - Majestic Trip", description: "An alternative Wadi Darbat and Taqah combo tour.", price: "From $182", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/455a1e02cc2f50d4b97a0685c2a4f0fbb2068f67115ce90dbc52e7d77533550b.png" } },
+                    { title: "Best Full Day: Wadi Derbat, Jabal Samhan & Sinkhole", content: "This extends the day significantly, adding Jabal Samhan's mountain plateau and a natural sinkhole to the Wadi Darbat visit.", tourCard: { slug: "salalah-wadi-derbat-jabal-samhan-sinkhole-full", title: "Salalah: Wadi Derbat, Jabal Samhan, & Sinkhole Full-Day Tour", description: "A full-day tour adding Jabal Samhan and a sinkhole to Wadi Darbat.", price: "From $114", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e428355c3437ffd430726f98cbe03bda3aba48452b33089f8e3f440b333b1c59.jpeg" } },
+                    { title: "Practical Tips", content: "Wadi Darbat looks completely different depending on season — lush and green during and after the Khareef monsoon (June-September), drier the rest of the year. If lush greenery is what you want, time your visit accordingly." }
+                ],
+                faqs: [
+                    { q: "What is the best Wadi Darbat tour in Salalah?", a: "A boat-ride-and-cliff combo for a half-day visit, or the full-day version adding Jabal Samhan and a sinkhole." },
+                    { q: "When is Wadi Darbat at its most scenic?", a: "During and right after the Khareef monsoon (June-September), when it's lush and green." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Wadi Darbat tour?", "acceptedAnswer": { "@type": "Answer", "text": "A boat-ride-and-cliff combo, or the full-day version with Jabal Samhan." } },
+                    { "@type": "Question", "name": "When is it most scenic?", "acceptedAnswer": { "@type": "Answer", "text": "During and after the Khareef monsoon, June-September." } }
+                ] },
+            };
+
+        case "best-empty-quarter-desert-safari-salalah":
+            return {
+                title: "Which Is the Best Empty Quarter Desert Safari from Salalah?",
+                seoTitle: "Best Empty Quarter Desert Safari Salalah 2026 | Comparison",
+                description: "Compare real Rub al Khali (Empty Quarter) desert safaris from Salalah — a day tour versus a legendary overnight desert camping experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5a8943bb9610a18ce5280d8450e8ee0881fac437d5b16427bbea0dd0e6847f31.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "The Rub al Khali (Empty Quarter), one of the largest sand deserts on Earth, is reachable from Salalah as either a day tour or a genuinely memorable overnight camping trip with stargazing.", tourCard: { slug: "the-empty-quarter-desert-tour", title: "The Empty Quarter desert tour", description: "A day tour into the Empty Quarter desert from Salalah.", price: "From $221", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5a8943bb9610a18ce5280d8450e8ee0881fac437d5b16427bbea0dd0e6847f31.jpeg" } },
+                    { title: "Best 4x4 Option: 4x4 Desert Adventure", content: "This emphasizes the 4x4 dune-driving experience itself as a highlight, not just transport to the desert.", tourCard: { slug: "4x4-desert-adventure-empty-quarter-desert-safari", title: "4x4 Desert Adventure - Empty Quarter Desert Safari", description: "A 4x4-focused desert safari into the Empty Quarter.", price: "From $169", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/365e1293cd0a58263de066be5543c73676a26b1f5184d2fb9a73391b5178e203.jpeg" } },
+                    { title: "Best for a Full Experience: Legendary Rub al Khali Overnight Safari", content: "This turns the desert trip into an overnight experience with camping and stargazing, genuinely different from a day tour given how dark and clear the sky gets this far from city lights.", tourCard: { slug: "salalah-legendary-rub-al-khali-overnight-desert", title: "Salalah: Legendary Rub' al Khali Overnight Desert Safari", description: "An overnight desert camping and stargazing experience in the Empty Quarter.", price: "From $293", duration: "20 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6a1f005a6fc1aab49378401fcae8e6def88e63215f6b9f0d54655baffd274b90.jpeg" } },
+                    { title: "Practical Tips", content: "The Empty Quarter is genuinely remote — this isn't a quick desert stop like some Gulf-city desert tours, it's several hours of driving each way. The overnight version is worth the extra cost if stargazing matters to you, since light pollution here is about as low as it gets." }
+                ],
+                faqs: [
+                    { q: "What is the best Empty Quarter desert safari from Salalah?", a: "A day tour covers the basics; the overnight version adds genuinely excellent stargazing." },
+                    { q: "Is the Empty Quarter far from Salalah?", a: "Yes, it's a genuinely remote desert requiring several hours of driving each way." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Empty Quarter safari from Salalah?", "acceptedAnswer": { "@type": "Answer", "text": "A day tour, or overnight for excellent stargazing." } },
+                    { "@type": "Question", "name": "Is it far from Salalah?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, several hours of driving each way." } }
+                ] },
+            };
+
+        case "best-dolphin-watching-tour-salalah":
+            return {
+                title: "Which Is the Best Dolphin Watching Tour in Salalah?",
+                seoTitle: "Best Dolphin Watching Tour Salalah 2026 | Comparison",
+                description: "Compare real dolphin watching boat tours in Salalah — a standard boat trip versus a swimming-with-dolphins experience with lunch.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/92723b6f90716c540a955dc2c8cff11099660b01622ebae05b987391a6702630.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Salalah's coast has resident dolphin pods, and tours range from a standard viewing-only boat trip to a more involved swimming-with-dolphins experience.", tourCard: { slug: "salalah-dolphin-watching-boat-tour-with", title: "Salalah Dolphin Watching Boat Tour with Refreshments", description: "A standard dolphin watching boat tour with refreshments.", price: "From $56", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/92723b6f90716c540a955dc2c8cff11099660b01622ebae05b987391a6702630.jpeg" } },
+                    { title: "Best with Pickup: Dolphin Watching Boat Tour with Pickup", content: "This includes hotel pickup, removing the logistics of getting to the departure point yourself.", tourCard: { slug: "salalah-dolphin-watching-boat-tour-with-pickup", title: "Salalah: Dolphin Watching Boat Tour with Pickup", description: "The dolphin watching tour with hotel pickup included.", price: "From $130", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/939f3737fb48e7b8be383b54852af82e7cf5ea3e20eeab72c3b44a3c12110898.jpg" } },
+                    { title: "Best for Full Immersion: Swimming with Dolphins with Lunch", content: "This goes beyond viewing into an actual in-water swimming experience with the dolphins, with lunch included for a fuller day.", tourCard: { slug: "salalah-swimming-with-dolphins-with-lunch-pickup", title: "Salalah: Swimming with Dolphins with Lunch & Pickup", description: "A swimming-with-dolphins experience with lunch and pickup.", price: "From $260", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/77f078708dae5281a6a1d220e032b904eaa24c5f1c564271bf83fa91f424f2f9.png" } },
+                    { title: "Practical Tips", content: "Dolphin sightings aren't guaranteed on any tour, but Salalah's resident pods make sightings fairly reliable — morning departures generally have calmer seas." }
+                ],
+                faqs: [
+                    { q: "What is the best dolphin watching tour in Salalah?", a: "A standard boat tour for viewing; the swimming experience for full immersion." },
+                    { q: "Are dolphin sightings guaranteed in Salalah?", a: "Not guaranteed, but fairly reliable given the resident pods along the coast." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best dolphin watching tour in Salalah?", "acceptedAnswer": { "@type": "Answer", "text": "A standard boat tour, or the swimming experience for full immersion." } },
+                    { "@type": "Question", "name": "Are sightings guaranteed?", "acceptedAnswer": { "@type": "Answer", "text": "Not guaranteed, but fairly reliable." } }
+                ] },
+            };
+
+        case "best-west-salalah-beach-tour-salalah":
+            return {
+                title: "Which Is the Best West Salalah Beach Tour?",
+                seoTitle: "Best West Salalah Beach Tour 2026 | Honest Comparison",
+                description: "Compare real West Salalah beach day trips — covering Al Fazayah Beach and the Shaat viewpoint, sometimes called Oman's 'Caribbean of the Orient.'",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/76baf05020b76357e4bd8644a93b78602ac439af4d443974f05a231fafa9dda4.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "West Salalah's beaches, especially Al Fazayah, are sometimes nicknamed the 'Caribbean of the Orient' for their turquoise water against dramatic cliffs — most tours combine the beach with the Shaat viewpoint above it.", tourCard: { slug: "salalah-west-tour-al-fazayah-beach-shaat-viewpont", title: "Salalah West Tour (Al fazayah beach, shaat viewpont)", description: "A West Salalah tour covering Al Fazayah Beach and the Shaat viewpoint.", price: "From $156", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/76baf05020b76357e4bd8644a93b78602ac439af4d443974f05a231fafa9dda4.jpeg" } },
+                    { title: "Alternative Operator: West Salalah Tour by VisitSalalah", content: "A similar West Salalah itinerary from a different local operator, worth comparing on exact stops and group size.", tourCard: { slug: "west-salalah-tour-by-visitsalalah", title: "West Salalah Tour by VisitSalalah", description: "An alternative West Salalah beach and viewpoint tour.", price: "From $169", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/416a57f0b3d584fc46bb20cf38b1a03ce4e6f41730fe031fa149d929be216910.jpg" } },
+                    { title: "Practical Tips", content: "Bring a swimsuit — Al Fazayah's water is genuinely swim-worthy, not just a scenic photo stop, and the beach can get busy on weekends with local visitors too." }
+                ],
+                faqs: [
+                    { q: "What is the best West Salalah beach tour?", a: "Either operator's version works; compare exact stops and group size." },
+                    { q: "Is Al Fazayah Beach good for swimming?", a: "Yes, genuinely swim-worthy turquoise water, not just a photo stop." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best West Salalah beach tour?", "acceptedAnswer": { "@type": "Answer", "text": "Either operator's version works." } },
+                    { "@type": "Question", "name": "Is Al Fazayah Beach good for swimming?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, genuinely swim-worthy." } }
+                ] },
+            };
+
+        case "is-frankincense-trail-tour-worth-it-salalah":
+            return {
+                title: "Is the Frankincense Trail Tour in Salalah Worth It?",
+                seoTitle: "Salalah Frankincense Trail Tour 2026 | Honest Review",
+                description: "An honest look at Salalah's Frankincense Trail, camel farm, and beach tour — tracing Dhofar's ancient frankincense trade.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e18f0449a86cf77d568a47117beef9e6e1d275047f94851727f62b7848cc66a4.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Dhofar's frankincense trees and ancient trade routes are genuinely distinct to this region — this tour traces that history along with a camel farm stop and beach time, a worthwhile cultural angle beyond just scenery.", tourCard: { slug: "salalah-frankincense-trail-camel-farm-and-beach", title: "Salalah: Frankincense Trail, Camel Farm, and Beach Tour", description: "A tour tracing the frankincense trail with a camel farm and beach stop.", price: "From $163", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e18f0449a86cf77d568a47117beef9e6e1d275047f94851727f62b7848cc66a4.jpeg" } },
+                    { title: "Practical Tips", content: "Dhofar's frankincense trees still produce resin harvested commercially today — a good guide points out the difference between wild and cultivated trees, which isn't obvious without context." }
+                ],
+                faqs: [
+                    { q: "Is the Frankincense Trail tour worth it?", a: "Yes, for genuine regional history beyond just scenery, plus a camel farm and beach stop." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Frankincense Trail tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine regional history and culture." } }
+                ] },
+            };
+
+        case "best-city-tour-salalah":
+            return {
+                title: "Which Is the Best City Tour in Salalah?",
+                seoTitle: "Best Salalah City Tour 2026 | Honest Comparison",
+                description: "Compare real Salalah city tours — a standard sightseeing tour versus a historical heritage and culture-focused version.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bf519ebb46d8a56584e44d3deacae69b1b0019a5dea512e368c32d671546498b.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Salalah's city tours either cover standard sightseeing (souks, mosques, the port) or lean specifically into the city's heritage and cultural history.", tourCard: { slug: "salalah-city-tour", title: "Salalah City Tour", description: "A standard sightseeing tour of Salalah.", price: "From $124", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bf519ebb46d8a56584e44d3deacae69b1b0019a5dea512e368c32d671546498b.jpg" } },
+                    { title: "Best for History: Historical Salalah Heritage & Culture Tour", content: "This leans specifically into Salalah's heritage and cultural history rather than just general sightseeing stops.", tourCard: { slug: "historical-salalah-guided-city-tour-of-heritage", title: "Historical Salalah: Guided City Tour of Heritage & Culture", description: "A heritage and culture-focused city tour of Salalah.", price: "From $91", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/95cf5c6cce50247c99d0bb855df3094b43c5a376a3d9e5ff5645779af5f1cc39.jpeg" } },
+                    { title: "Practical Tips", content: "Salalah's souks are more low-key than those in Muscat or Dubai — worth it for a genuine shopping experience rather than a tourist spectacle, but set expectations accordingly." }
+                ],
+                faqs: [
+                    { q: "What is the best city tour in Salalah?", a: "A standard sightseeing tour for general highlights, or the heritage version for deeper cultural context." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best city tour in Salalah?", "acceptedAnswer": { "@type": "Answer", "text": "A standard sightseeing tour, or the heritage version for deeper context." } }
+                ] },
+            };
+
+        case "salalah-travel-guide-2026":
+            return {
+                title: "Salalah Travel Guide 2026",
+                description: "What visitors need to know about Salalah, Oman's lush southern city.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1ff2fa541796bb0de34617031d1241e5ec04842257e7fbfa651c3daf0d33e6c9.jpg",
+                sections: [
+                    { title: "Why Visit", content: "Salalah is Oman's green south, known for the Khareef monsoon season's lush landscapes, Wadi Darbat, frankincense heritage, dolphin-watching, and access to the Empty Quarter desert." }
+                ],
+                faqs: [
+                    { q: "Is Salalah worth visiting?", a: "Yes, for its lush Khareef-season landscapes, frankincense heritage, and desert access, genuinely different from Muscat." }
+                ],
+            };
+
+        case "best-time-to-visit-salalah":
+            return {
+                title: "Best Time to Visit Salalah",
+                description: "Salalah's climate is unusual for Oman — the Khareef monsoon shapes when to visit depending on what you want to see.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1ff2fa541796bb0de34617031d1241e5ec04842257e7fbfa651c3daf0d33e6c9.jpg",
+                sections: [
+                    { title: "Weather Patterns", content: "June to September is Khareef monsoon season, when Salalah turns lush and green, a major domestic tourist draw. October to April is drier and hotter, better for desert trips to the Empty Quarter." }
+                ],
+                faqs: [
+                    { q: "What is the best time to visit Salalah?", a: "June-September for lush Khareef-season greenery; October-April for desert trips." }
+                ],
+            };
+
         default:
             return null;
     }
