@@ -913,6 +913,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-moonbay-island-tour-kota-kinabalu', 'is-mengalum-deep-sea-fishing-worth-it-kota-kinabalu',
     'is-party-boat-tour-worth-it-kota-kinabalu', 'is-dreamers-island-worth-it-kota-kinabalu',
     'is-seawalking-tour-worth-it-kota-kinabalu', 'is-scuba-diving-worth-it-kota-kinabalu',
+    'is-mantanani-island-worth-it-kota-kinabalu', 'is-proboscis-monkey-firefly-tour-worth-it-kota-kinabalu',
+    'is-flavours-of-sabah-cooking-class-worth-it-kota-kinabalu',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/kota-kinabalu/${slug}`,
     lastModified: new Date(),

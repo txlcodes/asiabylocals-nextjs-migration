@@ -2660,6 +2660,62 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-mantanani-island-worth-it-kota-kinabalu":
+            return {
+                title: "Is Mantanani Island Worth the Trip from Kota Kinabalu?",
+                seoTitle: "Mantanani Island Kota Kinabalu 2026 | Honest Review",
+                description: "An honest look at Mantanani Island, a more remote island day trip from Kota Kinabalu than the usual Manukan/Sapi island-hopping stops.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/121e82e351946dc430342ccbc5e4120d68cff8b9fb16311e3950c1c51557c2e6.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Mantanani is further out and less crowded than the nearby Tunku Abdul Rahman Park islands most island-hopping tours visit, worth it for travelers who want quieter beaches and good snorkeling without the day-tripper crowds.", tourCard: { slug: "sabah-mantanani-island-and-wildlife-river-cruise", title: "Sabah: Mantanani Island and Wildlife River Cruise Tour", description: "A trip to Mantanani Island combined with a wildlife river cruise.", price: "From $280", duration: "14.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/121e82e351946dc430342ccbc5e4120d68cff8b9fb16311e3950c1c51557c2e6.jpg" } },
+                    { title: "Practical Tips", content: "This is a full and long day (over 14 hours) given the distance, so it's not a casual add-on — plan for an early start." }
+                ],
+                faqs: [
+                    { q: "Is Mantanani Island worth it?", a: "Yes, for quieter beaches and snorkeling compared to the busier Tunku Abdul Rahman Park islands closer to the city." },
+                    { q: "How long is the Mantanani Island trip?", a: "Around 14.5 hours given the distance — a full, early-start day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Mantanani Island worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for quieter beaches and snorkeling away from the busier nearby islands." } }
+                ] },
+            };
+
+        case "is-proboscis-monkey-firefly-tour-worth-it-kota-kinabalu":
+            return {
+                title: "Is the Proboscis Monkey, Firefly & Eco Farm Day Tour Worth It?",
+                seoTitle: "Kota Kinabalu Proboscis Monkey Firefly Tour 2026 | Honest Review",
+                description: "An honest look at this combined proboscis monkey, firefly, and eco farm day tour from Kota Kinabalu, distinct from the city's other firefly river cruise options.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3684e5c2b77a1588c4adcd69f86813ef35bbbf963e4d28f1b64913237923a4b8.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This combines proboscis monkey spotting (a species native to Borneo) with a firefly viewing and an eco farm stop, a fuller day than a standalone firefly river cruise.", tourCard: { slug: "kota-kinabalu-proboscis-monkey-firefly-eco-farm", title: "Kota Kinabalu Proboscis Monkey, Firefly & Eco Farm Day Tour", description: "A combined proboscis monkey, firefly, and eco farm day tour.", price: "From $113", duration: "6.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3684e5c2b77a1588c4adcd69f86813ef35bbbf963e4d28f1b64913237923a4b8.jpg" } },
+                    { title: "Practical Tips", content: "Proboscis monkeys are most active and visible in the late afternoon, which is also when this tour times its wildlife viewing before the evening firefly segment." }
+                ],
+                faqs: [
+                    { q: "What is a proboscis monkey?", a: "A large-nosed monkey species native to Borneo, spotted along riverbanks near Kota Kinabalu." },
+                    { q: "Is this tour worth it over a standalone firefly cruise?", a: "Yes, if you also want proboscis monkey and eco farm stops in the same day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is a proboscis monkey?", "acceptedAnswer": { "@type": "Answer", "text": "A large-nosed monkey species native to Borneo." } }
+                ] },
+            };
+
+        case "is-flavours-of-sabah-cooking-class-worth-it-kota-kinabalu":
+            return {
+                title: "Is the Flavours of Sabah Cooking Class Worth It?",
+                seoTitle: "Kota Kinabalu Sabah Cooking Class 2026 | Honest Review",
+                description: "An honest look at the Flavours of Sabah hands-on cooking class in Kota Kinabalu.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1063996/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This hands-on class teaches Sabahan dishes distinct from standard Malay or Chinese-Malaysian cooking found elsewhere in the country, worth it for travelers who want a cultural, food-focused activity between outdoor days.", tourCard: { slug: "flavours-of-sabah-a-cooking-class", title: "Flavours of Sabah: A Cooking Class", description: "A hands-on cooking class teaching Sabahan dishes.", price: "From $116", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1063996/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good lower-key activity to pair with a more demanding day like island-hopping or a mountain trek." }
+                ],
+                faqs: [
+                    { q: "Is the Sabah cooking class worth it?", a: "Yes, for a cultural, food-focused activity that teaches dishes distinct from standard Malaysian cuisine elsewhere in the country." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Sabah cooking class worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for dishes distinct from standard Malaysian cuisine elsewhere." } }
+                ] },
+            };
+
         case "best-fairy-cave-tour-kuching":
             return {
                 title: "Which Is the Best Fairy Cave Tour from Kuching?",

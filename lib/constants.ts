@@ -232,6 +232,8 @@ export const KOTA_KINABALU_INFO_SLUGS = [
   'best-moonbay-island-tour-kota-kinabalu', 'is-mengalum-deep-sea-fishing-worth-it-kota-kinabalu',
   'is-party-boat-tour-worth-it-kota-kinabalu', 'is-dreamers-island-worth-it-kota-kinabalu',
   'is-seawalking-tour-worth-it-kota-kinabalu', 'is-scuba-diving-worth-it-kota-kinabalu',
+  'is-mantanani-island-worth-it-kota-kinabalu', 'is-proboscis-monkey-firefly-tour-worth-it-kota-kinabalu',
+  'is-flavours-of-sabah-cooking-class-worth-it-kota-kinabalu',
 ];
 
 export const KUCHING_INFO_SLUGS = [
