@@ -922,6 +922,60 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-flyboard-experience-worth-it-salalah":
+            return {
+                title: "Is the Flyboard Experience Worth It in Salalah?",
+                seoTitle: "Salalah Flyboard Experience 2026 | Honest Review",
+                description: "An honest look at Salalah's flyboard experience, a water-jet-powered flying session distinct from the region's usual beach and desert activities.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d51d155529d991f85ad41daee7bd697c1f47ee5cfc3d8f6849f981fc5493ac76.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Flyboarding straps water jets to your feet to lift you above the sea, a genuinely different thrill from Salalah's usual beach and desert-safari activities. Twenty minutes is enough to get a real taste of flight with instructor guidance.", tourCard: { slug: "salalah-flyboard-experience", title: "Salalah Flyboard Experience", description: "A water-jet-powered flyboard session off Salalah's coast.", price: "From $172", duration: "20 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d51d155529d991f85ad41daee7bd697c1f47ee5cfc3d8f6849f981fc5493ac76.jpeg" } },
+                    { title: "Practical Tips", content: "Being a confident swimmer helps, since balance takes practice and you'll fall into the water repeatedly while learning." }
+                ],
+                faqs: [
+                    { q: "Is flyboarding worth it in Salalah?", a: "Yes, for a genuinely different water thrill from the region's usual beach and desert activities." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is flyboarding worth it in Salalah?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different water thrill off Salalah's coast." } }
+                ] },
+            };
+
+        case "is-horse-trek-worth-it-salalah":
+            return {
+                title: "Is the Arabian Horse Trek Worth It in Salalah?",
+                seoTitle: "Salalah Horse Trek 2026 | Honest Review",
+                description: "An honest look at Salalah's authentic Arabian horse trek along the coast, a short equestrian alternative to camel riding or desert ATV adventures.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4db3302bb590f9867c21412c7d02afac1a6a247e00e89b559b12ea1f450a439a.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This half-hour trek on Arabian horses along Salalah's coastline is a relaxed, low-cost way to see the shoreline from a different angle than camel riding or a beach walk, good as a quick add-on rather than the day's main activity.", tourCard: { slug: "authentic-arabian-horse-trek-salalah-coastal", title: "Authentic Arabian Horse Trek: Salalah Coastal", description: "A 30-minute Arabian horse trek along Salalah's coast.", price: "From $41", duration: "30 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4db3302bb590f9867c21412c7d02afac1a6a247e00e89b559b12ea1f450a439a.jpg" } },
+                    { title: "Practical Tips", content: "No riding experience is needed — this is a guided, easy-paced trek rather than independent riding." }
+                ],
+                faqs: [
+                    { q: "Is the Arabian horse trek worth it in Salalah?", a: "Yes, as an inexpensive, relaxed coastal activity, best paired with other things on the same day rather than as a standalone outing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Arabian horse trek worth it in Salalah?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as an inexpensive, relaxed coastal activity." } }
+                ] },
+            };
+
+        case "is-jabal-samhan-atv-tour-worth-it-salalah":
+            return {
+                title: "Is the Jabal Samhan ATV Adventure Worth It in Salalah?",
+                seoTitle: "Salalah Jabal Samhan ATV Tour 2026 | Honest Review",
+                description: "An honest look at the Jabal Samhan ATV adventure near Salalah, an off-road mountain activity distinct from the region's beach and desert-safari tours.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8ddc281d9f4a3fd7f4bbc1780c91752d05095eac8ea403dda0ddb0b4bc71b55d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Riding an ATV up Jabal Samhan's escarpment trails gives scenic mountain views over the Dhofar coastline, a genuinely different landscape and activity type from Salalah's usual beach, wadi, and sand-dune desert safaris.", tourCard: { slug: "salalah-jabal-samhan-atv-adventure-with-scenic", title: "Salalah: Jabal Samhan ATV Adventure with Scenic Views", description: "An off-road ATV adventure up Jabal Samhan with scenic mountain views.", price: "From $221", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8ddc281d9f4a3fd7f4bbc1780c91752d05095eac8ea403dda0ddb0b4bc71b55d.jpg" } },
+                    { title: "Practical Tips", content: "No prior ATV experience is needed — guides brief riders on controls before setting off on the mountain trails." }
+                ],
+                faqs: [
+                    { q: "Is the Jabal Samhan ATV tour worth it in Salalah?", a: "Yes, for a genuinely different mountain landscape and off-road activity from Salalah's beach and desert-safari tours." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Jabal Samhan ATV tour worth it in Salalah?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a different mountain landscape and off-road activity." } }
+                ] },
+            };
+
         case "is-cultural-cart-tour-worth-it-nizwa":
             return {
                 title: "Is the Al Aqur Cultural Cart Tour Worth It near Nizwa?",

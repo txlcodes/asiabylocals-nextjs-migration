@@ -728,6 +728,8 @@ export const SALALAH_INFO_SLUGS = [
   'best-dolphin-watching-tour-salalah', 'best-west-salalah-beach-tour-salalah',
   'is-frankincense-trail-tour-worth-it-salalah', 'best-city-tour-salalah',
   'salalah-travel-guide-2026', 'best-time-to-visit-salalah',
+  'is-flyboard-experience-worth-it-salalah', 'is-horse-trek-worth-it-salalah',
+  'is-jabal-samhan-atv-tour-worth-it-salalah',
 ];
 
 // Bhaktapur & Lumbini (Nepal) — launched 2026-11-21.
