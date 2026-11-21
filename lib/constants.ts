@@ -463,6 +463,7 @@ export const RIYADH_INFO_SLUGS: string[] = [
   'best-al-dahna-desert-tour-riyadh', 'is-tuwaiq-mountains-tour-worth-it-riyadh',
   'best-riyadh-local-culture-experience-riyadh',
   'is-food-trail-tour-worth-it-riyadh',
+  'is-paragliding-buggy-adventure-worth-it-riyadh', 'is-misk-institute-art-tour-worth-it-riyadh',
 ];
 
 // Saudi Arabia batch 2 (2026-11-19): Jeddah and AlUla

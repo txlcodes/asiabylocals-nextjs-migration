@@ -1574,6 +1574,42 @@ export function getSaudiArabiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-paragliding-buggy-adventure-worth-it-riyadh":
+            return {
+                title: "Is the Paragliding and Buggy Sand Dunes Adventure Worth It in Riyadh?",
+                seoTitle: "Riyadh Paragliding and Buggy Adventure 2026 | Honest Review",
+                description: "An honest look at Riyadh's paragliding and buggy sand dunes adventure, a combined aerial-and-off-road activity distinct from the city's standard desert safari.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/538ef5a03a786cf3bb7344af14772beadc8f7908293dcb7a967a0e5b712715f1.png",
+                sections: [
+                    { title: "The Short Answer", content: "This adventure combines a paragliding flight over the sand dunes with a buggy ride across them, a genuinely two-sided activity that gives both an aerial and ground-level perspective — a more active format than a standard desert safari with camel rides and photo stops.", tourCard: { slug: "paragliding-and-buggy-riyadh-sand-dunes-adventure", title: "Paragliding and Buggy: Riyadh Sand Dunes Adventure", description: "A combined paragliding and buggy adventure across Riyadh's sand dunes.", price: "From $286", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/538ef5a03a786cf3bb7344af14772beadc8f7908293dcb7a967a0e5b712715f1.png" } },
+                    { title: "Practical Tips", content: "Both activities depend on weather and wind conditions, so build flexibility into your schedule in case of a reschedule." },
+                ],
+                faqs: [
+                    { q: "Is the paragliding and buggy adventure worth it in Riyadh?", a: "Yes, for a genuinely more active two-sided adventure than a standard desert safari with camel rides and photo stops." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the paragliding and buggy adventure worth it in Riyadh?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a more active aerial-and-off-road combination than a standard desert safari." } },
+                ] },
+            };
+
+        case "is-misk-institute-art-tour-worth-it-riyadh":
+            return {
+                title: "Is the Misk Institute Art Tour Worth It in Riyadh?",
+                seoTitle: "Riyadh Misk Institute Art Tour 2026 | Honest Review",
+                description: "An honest look at Riyadh's art tour at the Misk Institute, a contemporary art venue distinct from the city's historic Diriyah and National Museum sightseeing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5abca193792c67c936ed23949c56aa4f619d1482de43aee1c641063b9bef2bec.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "The Misk Institute showcases contemporary Saudi art and culture, a genuinely different side of Riyadh from the historic Diriyah and National Museum sightseeing most visitors prioritize — worth it for travelers wanting a sense of the city's current creative scene rather than only its history.", tourCard: { slug: "riyadh-art-tour-at-misk-institute-and-jacks", title: "Riyadh: Art Tour at Misk Institute", description: "An art tour at Riyadh's Misk Institute contemporary art venue.", price: "From $372", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5abca193792c67c936ed23949c56aa4f619d1482de43aee1c641063b9bef2bec.jpeg" } },
+                    { title: "Practical Tips", content: "Exhibitions rotate, so check current programming with the operator before booking if a specific exhibit is the draw." },
+                ],
+                faqs: [
+                    { q: "Is the Misk Institute art tour worth it in Riyadh?", a: "Yes, for a genuine sense of Riyadh's current contemporary art and creative scene, distinct from the city's historic sightseeing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Misk Institute art tour worth it in Riyadh?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine sense of Riyadh's contemporary art scene." } },
+                ] },
+            };
+
         default:
             return null;
     }

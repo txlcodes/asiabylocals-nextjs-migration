@@ -550,6 +550,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-al-dahna-desert-tour-riyadh', 'is-tuwaiq-mountains-tour-worth-it-riyadh',
     'best-riyadh-local-culture-experience-riyadh',
     'is-food-trail-tour-worth-it-riyadh',
+    'is-paragliding-buggy-adventure-worth-it-riyadh', 'is-misk-institute-art-tour-worth-it-riyadh',
   ], 'saudi-arabia', 'riyadh');
 
   const jeddahInfoPages = mapInfoSlugs([
