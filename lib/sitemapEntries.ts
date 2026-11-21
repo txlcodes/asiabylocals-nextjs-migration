@@ -472,6 +472,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'baku-shopping-guide', 'baku-nightlife-guide', 'baku-weather-guide',
     'best-gabala-tour-baku', 'is-carpet-museum-worth-it-baku',
     'best-khinalug-lahij-village-tour-baku', 'best-quba-shahdag-tour-baku',
+    'is-ganja-day-trip-worth-it-baku',
   ], 'azerbaijan', 'baku');
   const singaporeInfoPages = mapInfoSlugs([
     'best-gardens-by-the-bay-tour-singapore', 'best-chinatown-walking-tour-singapore',

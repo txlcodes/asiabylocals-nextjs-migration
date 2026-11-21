@@ -508,6 +508,24 @@ export function getAzerbaijanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-ganja-day-trip-worth-it-baku":
+            return {
+                title: "Is a Ganja Day Trip Worth It from Baku?",
+                seoTitle: "Ganja Day Trip from Baku 2026 | Honest Review",
+                description: "An honest look at Ganja, Azerbaijan's second-largest city and a full-day private trip from Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dfabafb346cce53fc22d4bd080db56d32a6f37fc00110122fa9da3dccca323bb.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Ganja, Azerbaijan's second-largest city, has its own distinct historical architecture and atmosphere away from Baku's modern skyline and Old City — a genuinely different side of the country for travelers with an extra day.", tourCard: { slug: "a-full-day-private-ganja-tour", title: "A Full Day Private Ganja Tour", description: "A full-day private tour of Ganja from Baku.", price: "From $254", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dfabafb346cce53fc22d4bd080db56d32a6f37fc00110122fa9da3dccca323bb.jpg" } },
+                    { title: "Practical Tips", content: "This is a long day trip (12 hours) given the distance from Baku — plan for a full day with an early start." }
+                ],
+                faqs: [
+                    { q: "Is Ganja worth visiting from Baku?", a: "Yes, for travelers with an extra day who want to see a genuinely different side of Azerbaijan beyond Baku." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is Ganja?", "acceptedAnswer": { "@type": "Answer", "text": "Azerbaijan's second-largest city, with distinct historical architecture from Baku." } }
+                ] },
+            };
+
         default:
             return null;
     }
