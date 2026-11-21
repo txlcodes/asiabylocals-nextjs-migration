@@ -1122,6 +1122,66 @@ export function getJordanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-petra-hidden-route-tour-petra":
+            return {
+                title: "Which Is the Best Hidden-Route Hike into Petra?",
+                seoTitle: "Best Petra Hidden Hike 2026 | Backdoor & Mount Aaron",
+                description: "Compare two alternative ways into and around Petra beyond the main entrance — the premium backdoor hike and the Mount Aaron sacred summit adventure.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ea6e04e7731367c07707b327af1718f0e94343be527529872a525035688bc8d0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Beyond the main Siq entrance, two hiking routes offer a genuinely different Petra experience — a premium backdoor approach avoiding the crowds, or a summit hike to the shrine of Mount Aaron.", tourCard: { slug: "from-amman-premium-petra-backdoor-guided-hike", title: "From Amman: Premium Petra Backdoor Guided Hike with Lunch", description: "A guided hike into Petra via the backdoor route.", price: "From $573", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ea6e04e7731367c07707b327af1718f0e94343be527529872a525035688bc8d0.jpg" } },
+                    { title: "Also Via the Back Entrance: Private Guided Tour", content: "A shorter, more affordable version of the backdoor route, also avoiding the main entrance crowds.", tourCard: { slug: "petra-private-guided-tour-via-the-back-entrance", title: "Petra: Private Guided Tour via the Back Entrance with Pickup", description: "A private guided tour of Petra via the back entrance.", price: "From $458", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4408dac693e09246a0fc06ebba681f0e51db6a303a6b523f630da865ec03069e.jpg" } },
+                    { title: "For a Sacred Summit: Mount Aaron Adventure", content: "This hike climbs to the shrine of Mount Aaron (Jabal Haroun), revered as the burial place of the Prophet Aaron in Islamic and Jewish tradition, with panoramic views over the Petra region.", tourCard: { slug: "petra-mount-aaron-sacred-summit-adventure", title: "Petra & Mount Aaron: Sacred Summit Adventure", description: "A hike to the summit of Mount Aaron near Petra.", price: "From $430", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6e80b2e9342e91065715278af9f1b88f87bc3307c825e7be5c9fe0f55415f7ba.jpeg" } },
+                    { title: "Practical Tips", content: "These hiking routes require decent fitness and proper footwear — they are a different experience from a standard Siq-entrance Petra visit, not a replacement for it." }
+                ],
+                faqs: [
+                    { q: "What is the Petra backdoor hike?", a: "A guided hiking route into Petra avoiding the main Siq entrance, reducing crowds." },
+                    { q: "What is Mount Aaron?", a: "A summit near Petra revered as the burial place of the Prophet Aaron, reachable by a dedicated hike." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the Petra backdoor hike?", "acceptedAnswer": { "@type": "Answer", "text": "A guided hiking route into Petra avoiding the main Siq entrance." } },
+                    { "@type": "Question", "name": "What is Mount Aaron?", "acceptedAnswer": { "@type": "Answer", "text": "A summit near Petra revered as the burial place of the Prophet Aaron." } }
+                ] },
+            };
+
+        case "is-petra-museum-tour-worth-it-petra":
+            return {
+                title: "Is the Petra & Petra Museum Day Trip Worth It?",
+                seoTitle: "Petra Museum Day Trip 2026 | Honest Review",
+                description: "An honest look at the Petra Museum add-on, which houses artifacts recovered from the ancient site itself.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9cfa4c1fdbb248307b9fc108c967ff9627782becb0e0212c71c8d827c27dbc09.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Petra Museum, near the visitor center, houses artifacts actually excavated from the site — a worthwhile add-on for understanding what you're seeing among the ruins, rather than a separate attraction on its own.", tourCard: { slug: "petra-petra-museum-shared-or-private-day-trip", title: "Petra & Petra Museum: Shared or Private Day Trip from Amman", description: "A day trip combining Petra with the Petra Museum.", price: "From $64", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9cfa4c1fdbb248307b9fc108c967ff9627782becb0e0212c71c8d827c27dbc09.jpg" } },
+                    { title: "Practical Tips", content: "Visiting the museum first, before walking into the site, gives useful context for the carvings and tombs you'll see later in the day." }
+                ],
+                faqs: [
+                    { q: "Is the Petra Museum worth visiting?", a: "Yes, as a context-setting add-on before exploring the site, since it houses artifacts excavated from Petra itself." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Petra Museum worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as context before exploring the site." } }
+                ] },
+            };
+
+        case "best-petra-beyond-the-ruins-experience-petra":
+            return {
+                title: "Best Ways to Experience Petra Beyond the Ruins Themselves",
+                seoTitle: "Petra Pottery Class & VR Experience 2026",
+                description: "Compare two unusual Petra experiences beyond walking the site itself — a hands-on pottery class with dinner, and a virtual reality recreation of Nabatean daily life.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/86dac525fb1bb7ab16cde4d12998e1491185c0435d1626d91ceee62c3d6f56e4.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Two options go beyond simply walking through the ruins — a hands-on pottery class paired with an Old Town walk and dinner, or a short virtual reality recreation of daily Nabatean life.", tourCard: { slug: "petra-pottery-class-old-town-walk-and-dinner", title: "Petra: Pottery Class, Old Town Walk, and Dinner", description: "A pottery class, Old Town walk, and dinner in Petra.", price: "From $647", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/86dac525fb1bb7ab16cde4d12998e1491185c0435d1626d91ceee62c3d6f56e4.jpg" } },
+                    { title: "Quick and Immersive: Virtual Reality Nabateans Experience", content: "A short 20-minute VR experience recreating daily life among the Nabateans who built Petra, a quick add-on rather than a full activity.", tourCard: { slug: "petra-virtual-reality-nabateans-daily-life-3d-8k", title: "Petra: Virtual Reality Nabateans Daily Life 3D 8K", description: "A VR recreation of Nabatean daily life in Petra.", price: "From $20", duration: "20 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/72f247e1d66e127244e8002b36d518e33bcdae720ef265d92e233f6cb99901ee.jpeg" } },
+                    { title: "Practical Tips", content: "The VR experience works well as a short add-on either before or after the main site visit, while the pottery class is a half-day-plus commitment best planned as its own evening." }
+                ],
+                faqs: [
+                    { q: "What are the Nabateans?", a: "The ancient civilization that carved and built Petra." },
+                    { q: "Is the Petra pottery class worth it?", a: "Yes, for a hands-on cultural experience beyond simply viewing the ruins." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What are the Nabateans?", "acceptedAnswer": { "@type": "Answer", "text": "The ancient civilization that carved and built Petra." } }
+                ] },
+            };
+
         default:
             return null;
     }

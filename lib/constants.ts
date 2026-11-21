@@ -328,6 +328,8 @@ export const PETRA_INFO_SLUGS: string[] = [
   'best-wadi-rum-jeep-tour-from-petra', 'petra-travel-guide-2026',
   'best-time-to-visit-petra', 'how-many-days-for-petra',
   'petra-entrance-fee-guide', 'jordan-visa-guide-for-tourists',
+  'best-petra-hidden-route-tour-petra', 'is-petra-museum-tour-worth-it-petra',
+  'best-petra-beyond-the-ruins-experience-petra',
 ];
 export const AMMAN_INFO_SLUGS: string[] = [
   'best-dead-sea-day-trip-tour-amman', 'best-jerash-day-trip-tour-amman',
