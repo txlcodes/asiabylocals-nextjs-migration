@@ -344,6 +344,81 @@ export function getKazakhstanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-kazakh-wine-masterclass-worth-it-almaty":
+            return {
+                title: "Is the Kazakh Wine Masterclass in Almaty Worth It?",
+                seoTitle: "Almaty Kazakh Wine Masterclass 2026 | Honest Review",
+                description: "An honest look at Almaty's Kazakh wine masterclass, a tasting of local Kazakhstani wines most visitors don't expect to find.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/833536f110ad718358721aaf651ee77f86670a7ce1b31a188b8a89cb46911a4c.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Kazakhstan has a small but genuine domestic wine industry, and this English-hosted tasting of 6 wines is a good introduction most visitors don't expect to find here.", tourCard: { slug: "almaty-kazakh-6-wine-masterclass-with-english", title: "Almaty: Kazakh 6-Wine Masterclass with English-Speaking Host", description: "A tasting of 6 Kazakh wines with an English-speaking host.", price: "From $77", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/833536f110ad718358721aaf651ee77f86670a7ce1b31a188b8a89cb46911a4c.jpg" } },
+                    { title: "Practical Tips", content: "This works well as an evening activity paired with dinner, since it only runs about 1.5 hours." }
+                ],
+                faqs: [
+                    { q: "Is the Kazakh wine masterclass worth it?", a: "Yes, a genuine and unexpected introduction to Kazakhstan's small domestic wine industry." },
+                    { q: "Does Kazakhstan produce wine?", a: "Yes, a small but real domestic wine industry exists, mostly unknown to visitors." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Kazakh wine masterclass worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a genuine introduction to Kazakhstan's domestic wine industry." } }
+                ] },
+            };
+
+        case "best-almaty-evening-experience-almaty":
+            return {
+                title: "Which Is the Best Almaty Evening Experience?",
+                seoTitle: "Best Almaty Evening Tour 2026 | Night Lights & Retro Cruise",
+                description: "Compare Almaty's two standout evening experiences — a night lights panoramic tour with a bar stop, and a retro cruise in a vintage 1973 Cadillac.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3af47cc40c93bdf336c4520e474dc8733a86d25f286fd0520dbe0813c160136d.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "For panoramic night views plus a social element, go with the night lights tour; for a more novel, photogenic experience, the vintage Cadillac cruise stands out.", tourCard: { slug: "almaty-night-lights-tour-panoramic-views-local", title: "Almaty: Night Lights Tour, Panoramic Views & Local Bar Stop", description: "An evening tour of Almaty's night views with a bar stop.", price: "From $234", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3af47cc40c93bdf336c4520e474dc8733a86d25f286fd0520dbe0813c160136d.jpeg" } },
+                    { title: "Most Novel: Private Retro Cruise in a 1973 Cadillac", content: "A private cruise through the city in a vintage 1973 Cadillac, a genuinely unusual and photogenic way to see Almaty after dark.", tourCard: { slug: "almaty-private-retro-cruise-in-a-1973-cadillac", title: "Almaty: Private Retro Cruise in a 1973 Cadillac", description: "A private retro cruise through Almaty in a vintage Cadillac.", price: "From $974", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9d33ad251435637ca67c49dfd18b8dcba83b0140383d7ce3543437be4b74466f.jpeg" } },
+                    { title: "Practical Tips", content: "Both work well after a day of mountain or canyon touring, as a relaxed way to end the day back in the city." }
+                ],
+                faqs: [
+                    { q: "What is the best evening activity in Almaty?", a: "A night lights panoramic tour with a bar stop, or a vintage Cadillac cruise for something more novel." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best evening activity in Almaty?", "acceptedAnswer": { "@type": "Answer", "text": "A night lights tour or a vintage Cadillac cruise." } }
+                ] },
+            };
+
+        case "is-tanbaly-gorge-petroglyphs-tour-worth-it-almaty":
+            return {
+                title: "Is the Tanbaly Gorge Petroglyphs Day Tour from Almaty Worth It?",
+                seoTitle: "Tanbaly Gorge Petroglyphs Tour 2026 | Honest Review",
+                description: "An honest look at the Tanbaly Gorge day tour, a UNESCO World Heritage site with ancient petroglyphs a few hours from Almaty.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4712704d5f14a0489eefd7a32e748c6b7ff82e124b3d7717b29ef572feb210a.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Tanbaly Gorge holds thousands of ancient petroglyphs dating back millennia, a genuinely different kind of day trip from Almaty's usual lakes and canyons — worth it for travelers interested in archaeology and ancient history.", tourCard: { slug: "tanbaly-gorge-ancient-petroglyphs-day-tour-at-a", title: "Tanbaly Gorge: Ancient Petroglyphs Day Tour at a UNESCO Site", description: "A day tour to the UNESCO-listed Tanbaly Gorge petroglyphs.", price: "From $384", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4712704d5f14a0489eefd7a32e748c6b7ff82e124b3d7717b29ef572feb210a.jpg" } },
+                    { title: "Practical Tips", content: "This is a less-visited site compared to Charyn Canyon or the Kolsai Lakes, so it suits travelers who prefer a quieter day trip over a crowded one." }
+                ],
+                faqs: [
+                    { q: "Is the Tanbaly Gorge tour worth it?", a: "Yes, for travelers interested in ancient history and archaeology, and as a quieter alternative to Almaty's more crowded nature day trips." },
+                    { q: "What is at Tanbaly Gorge?", a: "Thousands of ancient petroglyphs (rock carvings), a UNESCO World Heritage Site." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Tanbaly Gorge tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for ancient history fans and as a quieter day-trip alternative." } }
+                ] },
+            };
+
+        case "is-wwii-soviet-history-tour-worth-it-almaty":
+            return {
+                title: "Is the WWII & Soviet History Tour in Almaty Worth It?",
+                seoTitle: "Almaty WWII Soviet History Tour 2026 | Honest Review",
+                description: "An honest look at Almaty's private WWII and Soviet history tour, covering the city's museums and monuments from this era.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d2d74513d837099d634897191bccaf8b665503c32aa334cd95464f4990587873.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Almaty has a layer of Soviet and WWII-era history often missed by visitors focused on mountains and lakes — this private tour covers relevant museums and monuments with historical context from a local guide.", tourCard: { slug: "almaty-private-wwii-soviet-history-tour-with", title: "Almaty: Private WWII & Soviet History Tour with Museums", description: "A private tour of Almaty's WWII and Soviet-era history.", price: "From $354", duration: "4.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d2d74513d837099d634897191bccaf8b665503c32aa334cd95464f4990587873.jpg" } },
+                    { title: "Practical Tips", content: "Worth pairing with a general city tour, since this one focuses specifically on the historical angle rather than Almaty's broader highlights." }
+                ],
+                faqs: [
+                    { q: "Is the WWII & Soviet history tour worth it in Almaty?", a: "Yes, for a historical layer of the city most general city tours skip." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the WWII Soviet history tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a historical layer most city tours skip." } }
+                ] },
+            };
+
         case "best-city-tour-astana":
             return {
                 title: "Which Is the Best City Tour in Astana?",

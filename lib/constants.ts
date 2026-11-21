@@ -485,6 +485,8 @@ export const ALMATY_INFO_SLUGS: string[] = [
   'best-time-to-visit-almaty', 'almaty-1-day-itinerary',
   'kazakhstan-visa-guide-for-tourists', 'is-almaty-safe',
   'almaty-food-guide', 'almaty-currency-guide',
+  'is-kazakh-wine-masterclass-worth-it-almaty', 'best-almaty-evening-experience-almaty',
+  'is-tanbaly-gorge-petroglyphs-tour-worth-it-almaty', 'is-wwii-soviet-history-tour-worth-it-almaty',
 ];
 
 // Mongolia launched 2026-11-19 with 139 live tours and zero authority pages.
