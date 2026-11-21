@@ -1178,6 +1178,26 @@ export function getSapporoInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+    case 'is-ramen-making-class-worth-it-sapporo':
+      return {
+        title: "Is a Ramen-Making Class Worth It in Sapporo?",
+        description: "An honest look at Sapporo's hands-on ramen-making class, teaching Hokkaido's famous miso ramen style.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ramen-making-class-in-sapporo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sapporo is the birthplace of miso ramen, and this class teaches you to make it from scratch — a genuinely hands-on way to engage with the dish beyond just eating it at Ramen Yokocho alley.",
+            tourCard: { slug: "ramen-making-class-in-sapporo", title: "Ramen-Making Class in Sapporo", description: "A hands-on ramen-making class in Sapporo.", price: "From $99", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ramen-making-class-in-sapporo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good activity before or after visiting Ramen Yokocho, giving context to the craft behind the bowl you'll eat there." },
+        ],
+        faqs: [
+          { q: "Is Sapporo known for ramen?", a: "Yes, it's the birthplace of miso ramen, one of Japan's most famous regional ramen styles." },
+        ],
+      };
+
     default:
             return null;
     }

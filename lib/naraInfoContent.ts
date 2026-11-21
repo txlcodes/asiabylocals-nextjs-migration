@@ -871,6 +871,26 @@ export function getNaraInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case 'is-tea-ceremony-worth-it-nara':
+      return {
+        title: "Is a Traditional Tea Ceremony Worth It in Nara?",
+        description: "An honest look at Nara's traditional Japanese tea ceremony experience.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/traditional-japanese-tea-ceremony-experience-in-nara/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A traditional tea ceremony teaches the ritual and etiquette behind Japanese matcha preparation — a relaxed, quiet counterpoint to Nara's deer park and temple sightseeing.",
+            tourCard: { slug: "traditional-japanese-tea-ceremony-experience-in-nara", title: "Traditional Japanese Tea Ceremony Experience in Nara", description: "A traditional Japanese tea ceremony experience.", price: "From $46", duration: "50 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/traditional-japanese-tea-ceremony-experience-in-nara/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "At under an hour, this fits easily between a deer park visit and a trip to Todai-ji Temple." },
+        ],
+        faqs: [
+          { q: "Is a tea ceremony worth it in Nara?", a: "Yes, as a relaxed cultural activity that fits easily alongside the deer park and temple sightseeing." },
+        ],
+      };
+
     default:
       return null;
   }

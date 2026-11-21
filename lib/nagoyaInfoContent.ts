@@ -1088,6 +1088,46 @@ export function getNagoyaInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case 'is-miso-brewery-tour-worth-it-nagoya':
+      return {
+        title: "Is the Miso Brewery Tour Worth It in Nagoya?",
+        description: "An honest look at Nagoya's historic miso brewery tour combined with sushi roll making.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/historic-miso-brewery-tour-and-sushi-roll-making-in-nagoya/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nagoya is famous for Hatcho miso, a dark, rich-flavored variety made at centuries-old breweries — this tour shows the production process and pairs it with a hands-on sushi roll-making session.",
+            tourCard: { slug: "historic-miso-brewery-tour-and-sushi-roll-making-in-nagoya", title: "Historic Miso Brewery Tour and Sushi Roll Making in Nagoya", description: "A historic miso brewery tour with sushi roll making.", price: "From $124", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/historic-miso-brewery-tour-and-sushi-roll-making-in-nagoya/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Nagoya's cuisine (miso katsu, miso ramen) is distinct from other regions of Japan — this tour is a good introduction before trying the local dishes." },
+        ],
+        faqs: [
+          { q: "What is Hatcho miso?", a: "A dark, rich-flavored miso variety specific to Nagoya, made at centuries-old breweries." },
+        ],
+      };
+
+    case 'is-inuyama-castle-day-trip-worth-it-nagoya':
+      return {
+        title: "Is the Inuyama Castle Day Trip Worth It from Nagoya?",
+        description: "An honest look at the Inuyama Castle and Nakasendo post towns day trip from Nagoya.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788194246/asiabylocals/tours/nagoya-nagoya-inuyama-castle-magome-juku-tsumago-juku-tour/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Inuyama Castle is one of Japan's oldest surviving original castle keeps, and this day trip pairs it with Magome-juku and Tsumago-juku, preserved Edo-period post towns along the historic Nakasendo trail — a genuinely different day from Nagoya's modern city sights.",
+            tourCard: { slug: "inuyama-castle-full-day-tour", title: "Inuyama Castle & Nakasendo Post Towns Day Trip from Nagoya", description: "A day trip to Inuyama Castle and the Nakasendo post towns.", price: "From $95", duration: "10 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788194246/asiabylocals/tours/nagoya-nagoya-inuyama-castle-magome-juku-tsumago-juku-tour/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a full-day commitment covering multiple stops — a good pick if you want a historical contrast to Nagoya's industrial, modern character." },
+        ],
+        faqs: [
+          { q: "What is special about Inuyama Castle?", a: "It's one of Japan's oldest surviving original castle keeps." },
+        ],
+      };
+
     default:
       return null;
   }

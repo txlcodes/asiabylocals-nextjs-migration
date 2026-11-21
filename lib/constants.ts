@@ -1211,7 +1211,8 @@ export const SAPPORO_INFO_SLUGS = [
   'lake-toya-shikotsu-guide',
   'where-to-stay-in-sapporo',
   'sapporo-with-kids', 'best-tours-in-sapporo', 'should-i-book-sapporo-tour-direct-or-through-app',
-  'how-much-should-a-private-tour-guide-cost-in-sapporo'];
+  'how-much-should-a-private-tour-guide-cost-in-sapporo',
+  'is-ramen-making-class-worth-it-sapporo'];
 
 // Re-add a slug here ONLY once its page exists in lib/naraInfoContent.ts.
 export const NARA_INFO_SLUGS = [
@@ -1225,7 +1226,8 @@ export const NARA_INFO_SLUGS = [
   'mount-yoshino-cherry-blossom-guide',
   'nara-workshops-and-crafts',
   'should-you-stay-overnight-in-nara', 'best-tours-in-nara', 'should-i-book-nara-tour-direct-or-through-app',
-  'how-much-should-a-private-tour-guide-cost-in-nara'];
+  'how-much-should-a-private-tour-guide-cost-in-nara',
+  'is-tea-ceremony-worth-it-nara'];
 
 // Re-add a slug here ONLY once its page exists in lib/nagoyaInfoContent.ts.
 export const NAGOYA_INFO_SLUGS = [
@@ -1244,6 +1246,7 @@ export const NAGOYA_INFO_SLUGS = [
   'best-tours-in-nagoya',
   'should-i-book-nagoya-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-nagoya',
+  'is-miso-brewery-tour-worth-it-nagoya', 'is-inuyama-castle-day-trip-worth-it-nagoya',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/ellaInfoContent.ts.

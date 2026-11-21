@@ -1189,7 +1189,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'furano-biei-guide', 'noboribetsu-onsen-guide', 'asahiyama-zoo-guide', 'sapporo-beer-chocolate-factories', 'lake-toya-shikotsu-guide',
     'where-to-stay-in-sapporo',
     'sapporo-with-kids', 'best-tours-in-sapporo', 'should-i-book-sapporo-tour-direct-or-through-app',
-    'how-much-should-a-private-tour-guide-cost-in-sapporo'].map(slug => ({
+    'how-much-should-a-private-tour-guide-cost-in-sapporo',
+    'is-ramen-making-class-worth-it-sapporo'].map(slug => ({
     url: `${BASE_URL}/japan/sapporo/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -1203,7 +1204,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'kasuga-taisha-guide', 'naramachi-guide', 'nara-food-guide', 'getting-around-nara', 'mount-yoshino-cherry-blossom-guide',
     'nara-workshops-and-crafts',
     'should-you-stay-overnight-in-nara', 'best-tours-in-nara', 'should-i-book-nara-tour-direct-or-through-app',
-    'how-much-should-a-private-tour-guide-cost-in-nara'].map(slug => ({
+    'how-much-should-a-private-tour-guide-cost-in-nara',
+    'is-tea-ceremony-worth-it-nara'].map(slug => ({
     url: `${BASE_URL}/japan/nara/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -1220,6 +1222,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'takayama-shirakawago-day-trip-from-nagoya',
     'nagoya-samurai-experiences', 'best-tours-in-nagoya', 'should-i-book-nagoya-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-nagoya',
+    'is-miso-brewery-tour-worth-it-nagoya', 'is-inuyama-castle-day-trip-worth-it-nagoya',
 ].map(slug => ({
     url: `${BASE_URL}/japan/nagoya/${slug}`,
     lastModified: new Date(),
