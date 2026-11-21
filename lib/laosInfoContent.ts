@@ -1082,6 +1082,132 @@ export function getLaosInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-wat-phou-tour-pakse":
+            return {
+                title: "Which Is the Best Wat Phou Tour from Pakse?",
+                seoTitle: "Best Wat Phou Tour Pakse 2026 | Honest Comparison",
+                description: "Compare real Wat Phou tours from Pakse — a standard full-day World Heritage visit versus a private guided version.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/822ae3f49c37b441c6dda61276e5a1256dba1cee284adab2307d50757886275a.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Wat Phou, a UNESCO-listed pre-Angkorian Khmer temple complex predating Angkor Wat itself, is Pakse's single most significant site — the choice is a standard group full-day tour versus a private version for a more personal pace.", tourCard: { slug: "pakse-wat-phou-world-heritage-site-full-day-tour", title: "Pakse: Wat Phou World Heritage Site Full-Day Tour", description: "A full-day tour of the UNESCO-listed Wat Phou temple complex.", price: "From $312", duration: "7.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/822ae3f49c37b441c6dda61276e5a1256dba1cee284adab2307d50757886275a.jpg" } },
+                    { title: "Best Private Option: Private Tour with a Local Guide", content: "This gives you a private guide and more flexible pacing through the temple complex than the standard group tour.", tourCard: { slug: "in-pakse-private-tour-of-the-unesco-listed-vat", title: "In Pakse: Private tour of the UNESCO-listed Vat Phou Temple", description: "A private guided tour of the Wat Phou temple complex.", price: "From $455", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f0482e32cafbc04a48cc765a8181e100dc075757fc968557453b157c3c678103.jpg" } },
+                    { title: "Practical Tips", content: "Wat Phou predates Angkor Wat and shows an earlier stage of Khmer temple architecture — a knowledgeable guide genuinely adds value here, since the historical significance isn't obvious just from the ruins." }
+                ],
+                faqs: [
+                    { q: "What is the best Wat Phou tour from Pakse?", a: "A standard full-day group tour, or private for a more personal pace." },
+                    { q: "Is Wat Phou older than Angkor Wat?", a: "Yes, it predates Angkor Wat and shows an earlier stage of Khmer temple architecture." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Wat Phou tour?", "acceptedAnswer": { "@type": "Answer", "text": "A standard full-day group tour, or private for flexibility." } },
+                    { "@type": "Question", "name": "Is Wat Phou older than Angkor Wat?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it predates Angkor Wat." } }
+                ] },
+            };
+
+        case "best-4000-islands-tour-pakse":
+            return {
+                title: "Which Is the Best 4000 Islands Tour from Pakse?",
+                seoTitle: "Best 4000 Islands Tour Pakse 2026 | Comparison",
+                description: "Compare real 4000 Islands (Si Phan Don) tours from Pakse — a bike-and-boat day trip versus a private multi-day version with Don Det.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/00943bb0ccdb92d85b7fcb3dae7d9b2eb5869bd71dde911abd70e30f04a94aaa.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The 4000 Islands (Si Phan Don), a sprawling archipelago in the Mekong near the Cambodian border, is reachable as a bike-and-boat day trip from Pakse or as a longer private tour spending real time on Don Det island.", tourCard: { slug: "pakse-4000-islands-bike-tour-with-boat-cruise", title: "Pakse: 4000 Islands Bike Tour with Boat Cruise", description: "A bike tour combined with a boat cruise through the 4000 Islands.", price: "From $224", duration: "5.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/00943bb0ccdb92d85b7fcb3dae7d9b2eb5869bd71dde911abd70e30f04a94aaa.jpg" } },
+                    { title: "Best for More Time: Don Det & 4000 Islands Private Tour", content: "This spends real time on Don Det island with a private guide, rather than a quicker bike-and-boat loop.", tourCard: { slug: "pakse-don-det-and-4000-islands-private-tour-with", title: "Paksé, Don Det, and 4,000 Islands: Private Tour with Local Guide", description: "A private tour spending time on Don Det within the 4000 Islands.", price: "From $585", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/858a63a7c0d30ca0a028e41412586bdf51831f95ab744ae6de7522991e7658ce.jpg" } },
+                    { title: "Practical Tips", content: "The islands have a genuinely slow, laid-back atmosphere — if you want to actually relax rather than just tick off a sightseeing stop, the longer Don Det version suits that pace better." }
+                ],
+                faqs: [
+                    { q: "What is the best 4000 Islands tour from Pakse?", a: "A bike-and-boat day trip for a quicker visit, or the Don Det version for more time to relax." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best 4000 Islands tour?", "acceptedAnswer": { "@type": "Answer", "text": "A bike-and-boat day trip, or the longer Don Det version." } }
+                ] },
+            };
+
+        case "best-bolaven-plateau-tour-pakse":
+            return {
+                title: "Which Is the Best Bolaven Plateau Waterfalls Tour from Pakse?",
+                seoTitle: "Best Bolaven Plateau Tour Pakse 2026 | Comparison",
+                description: "Compare real Bolaven Plateau tours from Pakse — a focused Tad Fane and Tad Yuang waterfalls trip versus a fuller tour adding coffee-growing villages.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c4a538c401bbdbb6509bc639b9d2bb74abf39a619f4a3502e7b4fa15bcdf1c36.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Bolaven Plateau's cool highland climate, waterfalls, and coffee-growing tradition offer a genuine contrast to Laos's lowland heat — the choice is a focused waterfall visit versus a fuller tour adding the coffee villages.", tourCard: { slug: "pakse-visit-bolaven-plateautad-fane-tad-yuang", title: "Pakse: Visit Bolaven Plateau+Tad Fane & Tad Yuang Waterfalls", description: "A focused tour of Tad Fane and Tad Yuang waterfalls on the Bolaven Plateau.", price: "From $325", duration: "7.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c4a538c401bbdbb6509bc639b9d2bb74abf39a619f4a3502e7b4fa15bcdf1c36.jpg" } },
+                    { title: "Best with Coffee Culture: Waterfalls and Villages Tour", content: "This adds visits to coffee-growing villages to the waterfall stops, giving a fuller picture of the plateau's agricultural identity.", tourCard: { slug: "pakse-bolaven-plateau-waterfalls-and-villages-tour", title: "Pakse: Bolaven Plateau Waterfalls and Villages Tour", description: "A tour combining Bolaven Plateau waterfalls with coffee-growing villages.", price: "From $455", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0184ed67eb1493b41ddde37a25c13a206b3a21a307220bc3df6c1480847470db.jpeg" } },
+                    { title: "Practical Tips", content: "The plateau's elevation makes it noticeably cooler than Pakse itself — bring a light jacket, especially useful relief if you've been sweating through lowland sightseeing." }
+                ],
+                faqs: [
+                    { q: "What is the best Bolaven Plateau tour from Pakse?", a: "A focused waterfall tour, or add coffee-growing villages for a fuller picture of the region." },
+                    { q: "Is the Bolaven Plateau cooler than Pakse?", a: "Yes, its elevation makes it noticeably cooler." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Bolaven Plateau tour?", "acceptedAnswer": { "@type": "Answer", "text": "A focused waterfall tour, or add coffee villages." } },
+                    { "@type": "Question", "name": "Is it cooler than Pakse?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, noticeably cooler given the elevation." } }
+                ] },
+            };
+
+        case "pakse-travel-guide-2026":
+            return {
+                title: "Pakse Travel Guide 2026",
+                description: "What visitors need to know about Pakse, the gateway to Wat Phou, Bolaven Plateau, and the 4000 Islands.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/822ae3f49c37b441c6dda61276e5a1256dba1cee284adab2307d50757886275a.jpg",
+                sections: [
+                    { title: "Why Visit", content: "Pakse is southern Laos's main gateway city — the base for reaching the UNESCO-listed Wat Phou temple, the cool coffee-growing Bolaven Plateau, and the 4000 Islands archipelago near the Cambodian border." }
+                ],
+                faqs: [
+                    { q: "Is Pakse worth visiting?", a: "Yes, as the gateway to Wat Phou, the Bolaven Plateau, and the 4000 Islands." }
+                ],
+            };
+
+        case "best-trekking-camping-tour-nong-khiaw":
+            return {
+                title: "Which Is the Best Trekking & Camping Tour in Nong Khiaw?",
+                seoTitle: "Best Nong Khiaw Trekking Camping Tour 2026 | Comparison",
+                description: "Compare real trekking and camping tours in Nong Khiaw — a 1-day 'camping above the clouds' trip versus a fuller 2-day trekking and kayaking tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59946442e16bb13a702769f29d337430335d5c69ed52eeb732f8c79f4e87f3f0.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Nong Khiaw's 'camping above the clouds' treks to Pha Deng viewpoint are genuinely spectacular at sunrise, when you're looking down on cloud cover filling the valley below — the choice is a single overnight trip or a fuller 2-day version adding kayaking.", tourCard: { slug: "nong-khiaw-trekking-to-camping-above-the-clouds", title: "Nong Khiaw: Trekking To Camping Above The Clouds", description: "A trek and overnight camp above the clouds at Pha Deng viewpoint.", price: "From $46", duration: "18 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59946442e16bb13a702769f29d337430335d5c69ed52eeb732f8c79f4e87f3f0.jpeg" } },
+                    { title: "Best Fuller Experience: 2-Day Trekking, Camping and Kayaking", content: "This extends the trip to two days and adds kayaking, a more complete adventure package than the single-night version.", tourCard: { slug: "nong-khiaw-2-day-trekking-camping-and-kayaking", title: "Nong Khiaw: 2-Day Trekking, Camping and Kayaking Tour", description: "A 2-day trekking, camping, and kayaking adventure.", price: "From $91", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a32e59847b7cdd1455b75275538206cfef0705941925b9d80a823d5ed4e239e2.jpg" } },
+                    { title: "Practical Tips", content: "The cloud-viewing payoff depends on weather and season — mornings in the cooler months (roughly November-February) tend to have more reliable cloud inversions to look down on." }
+                ],
+                faqs: [
+                    { q: "What is the best trekking and camping tour in Nong Khiaw?", a: "The 1-day camping above the clouds trip for a focused experience, or 2 days with kayaking for more." },
+                    { q: "When is the best time for the cloud views?", a: "Cooler months, roughly November-February, for more reliable cloud inversions." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best trekking/camping tour in Nong Khiaw?", "acceptedAnswer": { "@type": "Answer", "text": "The 1-day version, or 2 days with kayaking." } },
+                    { "@type": "Question", "name": "Best time for cloud views?", "acceptedAnswer": { "@type": "Answer", "text": "Cooler months, roughly November-February." } }
+                ] },
+            };
+
+        case "is-100-waterfalls-tour-worth-it-nong-khiaw":
+            return {
+                title: "Is the 100 Waterfalls Tour from Nong Khiaw Worth It?",
+                seoTitle: "Nong Khiaw 100 Waterfalls Tour 2026 | Honest Review",
+                description: "An honest look at the 100 Waterfalls, Nam Ou River, and Khmu village day tour from Nong Khiaw.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2db550cd634ff577ef9607a809927977b937975d991b0d82ff79fcdec937c899.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The '100 Waterfalls' is a genuinely scenic cascading waterfall system reached by boat up the Nam Ou River, usually combined with a Khmu ethnic minority village visit — a good full-day mix of nature and culture.", tourCard: { slug: "nong-khiaw-100-waterfalls-nam-ou-khmu-village-day", title: "Nong Khiaw: 100 Waterfalls, Nam Ou & Khmu Village Day Tour", description: "A day tour of the 100 Waterfalls, Nam Ou River, and a Khmu village.", price: "From $46", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2db550cd634ff577ef9607a809927977b937975d991b0d82ff79fcdec937c899.jpg" } },
+                    { title: "Practical Tips", content: "Some walking and light wading is involved to properly explore the waterfall system — footwear that can get wet is worth bringing." }
+                ],
+                faqs: [
+                    { q: "Is the 100 Waterfalls tour worth it?", a: "Yes, for a genuinely scenic mix of waterfalls, river travel, and a Khmu village visit in one day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the 100 Waterfalls tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a scenic mix of nature and culture." } }
+                ] },
+            };
+
+        case "nong-khiaw-travel-guide-2026":
+            return {
+                title: "Nong Khiaw Travel Guide 2026",
+                description: "What visitors need to know about Nong Khiaw, a quieter alternative to Luang Prabang's Mekong scenery.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59946442e16bb13a702769f29d337430335d5c69ed52eeb732f8c79f4e87f3f0.jpeg",
+                sections: [
+                    { title: "Why Visit", content: "Nong Khiaw sits on the scenic Nam Ou River surrounded by dramatic limestone karsts, offering trekking, camping above the clouds, and river travel in a quieter, less touristy setting than Luang Prabang." }
+                ],
+                faqs: [
+                    { q: "Is Nong Khiaw worth visiting?", a: "Yes, for dramatic karst scenery and trekking in a quieter setting than Luang Prabang." }
+                ],
+            };
+
         default:
             return null;
     }

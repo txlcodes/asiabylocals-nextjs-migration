@@ -688,6 +688,17 @@ export const WADI_RUM_INFO_SLUGS = [
   'wadi-rum-travel-guide-2026',
 ];
 
+// Pakse & Nong Khiaw (Laos) — launched 2026-11-21.
+export const PAKSE_INFO_SLUGS = [
+  'best-wat-phou-tour-pakse', 'best-4000-islands-tour-pakse',
+  'best-bolaven-plateau-tour-pakse', 'pakse-travel-guide-2026',
+];
+
+export const NONG_KHIAW_INFO_SLUGS = [
+  'best-trekking-camping-tour-nong-khiaw', 'is-100-waterfalls-tour-worth-it-nong-khiaw',
+  'nong-khiaw-travel-guide-2026',
+];
+
 export const JOHOR_BAHRU_INFO_SLUGS = [
   'best-jetski-tour-johor-bahru',
   'best-hop-on-hop-off-tour-johor-bahru', 'best-private-city-tour-johor-bahru',
