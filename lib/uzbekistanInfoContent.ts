@@ -580,6 +580,42 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-solar-furnace-tour-worth-it-tashkent":
+            return {
+                title: "Is the 1 MW Solar Furnace Tour Worth It from Tashkent?",
+                seoTitle: "Tashkent Solar Furnace Tour 2026 | Honest Review",
+                description: "An honest look at the 1 MW Solar Furnace tour near Tashkent, a unique Soviet-era scientific facility distinct from the city's mosque and bazaar sightseeing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4bbba9c2f5b00f08e0509a8303541b55e564cdd66e155efca288ba6372b97e4a.png",
+                sections: [
+                    { title: "The Short Answer", content: "This Soviet-era solar furnace, one of the largest of its kind in the world, is a genuinely unusual scientific and industrial site that most visitors have never heard of — a sharp contrast to Tashkent's usual mosque, bazaar, and metro sightseeing.", tourCard: { slug: "from-tashkent-1-mw-solar-furnace-tour-new", title: "From Tashkent: 1 MW Solar Furnace Tour", description: "A tour of the massive 1 MW Soviet-era solar furnace near Tashkent.", price: "From $103", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4bbba9c2f5b00f08e0509a8303541b55e564cdd66e155efca288ba6372b97e4a.png" } },
+                    { title: "Practical Tips", content: "This appeals specifically to travelers with an interest in Soviet-era engineering and science — set expectations as an industrial curiosity rather than scenic sightseeing." },
+                ],
+                faqs: [
+                    { q: "Is the Solar Furnace tour worth it from Tashkent?", a: "Yes, for travelers interested in unusual Soviet-era science and engineering, a sharp contrast to the city's usual sightseeing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Solar Furnace tour worth it from Tashkent?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely unusual Soviet-era scientific site." } },
+                ] },
+            };
+
+        case "is-fergana-valley-tour-worth-it-tashkent":
+            return {
+                title: "Is the Fergana Valley Tour Worth It from Tashkent?",
+                seoTitle: "Fergana Valley Tour from Tashkent 2026 | Honest Review",
+                description: "An honest look at the 2-day Fergana Valley tour from Tashkent, a region known for craft traditions and distinct from Uzbekistan's standard Silk Road city circuit.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b24c7baddeea24a6f1f0e43edfaf98e337c6831e14ce94a4e8d3750ebca636f5.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "The Fergana Valley, known for ceramics, silk weaving, and knife-making traditions, sits outside the standard Samarkand-Bukhara-Khiva Silk Road circuit — a genuinely different regional focus for travelers wanting craft culture over monumental architecture.", tourCard: { slug: "from-tashkent-2-day-1-night-fergana-valley", title: "From Tashkent: 2-Day 1-Night Fergana Valley Tour", description: "A 2-day tour of the Fergana Valley's craft traditions from Tashkent.", price: "From $757", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b24c7baddeea24a6f1f0e43edfaf98e337c6831e14ce94a4e8d3750ebca636f5.jpeg" } },
+                    { title: "Practical Tips", content: "This requires crossing a mountain pass to reach the valley, so check seasonal road conditions before booking in winter." },
+                ],
+                faqs: [
+                    { q: "Is the Fergana Valley tour worth it from Tashkent?", a: "Yes, for travelers wanting genuine craft culture and a region outside the standard Silk Road city circuit." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Fergana Valley tour worth it from Tashkent?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine craft culture outside the standard Silk Road circuit." } },
+                ] },
+            };
+
         case "is-seven-lakes-tour-worth-it-samarkand":
             return {
                 title: "Is the Seven Lakes (Fann Mountains) Tour Worth It from Samarkand?",
