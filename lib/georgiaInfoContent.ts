@@ -1297,6 +1297,24 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-full-day-rafting-worth-it-borjomi":
+            return {
+                title: "Is the Full-Day Beginner-Friendly Rafting Trip Worth It in Borjomi?",
+                seoTitle: "Borjomi Full-Day Rafting 2026 | Honest Review",
+                description: "An honest look at Borjomi's full-day beginner-friendly rafting trip, a more extensive format than the standard one-hour Mtkvari River rafting session.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dfa89436ff8e96f4830472e0d3616c4f83f224af54aa6422f1218242424df6ac.png",
+                sections: [
+                    { title: "The Short Answer", content: "This full-day rafting trip covers considerably more river and time than the standard one-hour Mtkvari River session, a fuller rafting day rather than a quick add-on activity — worth it specifically if rafting is the main draw of your trip rather than a short extra.", tourCard: { slug: "rafting-day-trip-beginner-friendly", title: "Rafting Day Trip: Beginner-Friendly", description: "A full-day beginner-friendly rafting trip near Borjomi.", price: "From $494", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dfa89436ff8e96f4830472e0d3616c4f83f224af54aa6422f1218242424df6ac.png" } },
+                    { title: "Practical Tips", content: "No prior rafting experience is needed, but come prepared for a full day on and around the water, not a quick hour-long dip." },
+                ],
+                faqs: [
+                    { q: "Is the full-day rafting trip worth it in Borjomi?", a: "Yes, for travelers who want rafting as the main activity of their day, a fuller experience than the standard one-hour session." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the full-day rafting trip worth it in Borjomi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a fuller rafting experience than the standard one-hour session." } },
+                ] },
+            };
+
         case "is-mount-kazbek-climb-worth-it-kazbegi":
             return {
                 title: "Is the Mount Kazbek Guided Climb Worth It?",

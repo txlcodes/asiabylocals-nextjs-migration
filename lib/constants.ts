@@ -677,6 +677,7 @@ export const ASTANA_INFO_SLUGS = [
 export const BORJOMI_INFO_SLUGS = [
   'best-borjomi-activity-tour-borjomi', 'best-bakuriani-ski-tour-borjomi',
   'borjomi-travel-guide-2026',
+  'is-full-day-rafting-worth-it-borjomi',
 ];
 
 export const KHASAB_INFO_SLUGS = [

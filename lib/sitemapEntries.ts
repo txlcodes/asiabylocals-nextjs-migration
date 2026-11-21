@@ -763,6 +763,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   const borjomiInfoPages = mapInfoSlugs([
     'best-borjomi-activity-tour-borjomi', 'best-bakuriani-ski-tour-borjomi',
     'borjomi-travel-guide-2026',
+    'is-full-day-rafting-worth-it-borjomi',
   ], 'georgia', 'borjomi');
 
   const haifaInfoPages = mapInfoSlugs([
