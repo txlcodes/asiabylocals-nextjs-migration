@@ -899,6 +899,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
 
   const malaccaInfoPages = [
     'malacca-unesco-heritage-guide', 'best-time-to-visit-malacca',
+    'best-food-tour-malacca', 'is-river-cruise-trishaw-tour-worth-it-malacca',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/malacca/${slug}`,
     lastModified: new Date(),

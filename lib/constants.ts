@@ -222,6 +222,7 @@ export const LANGKAWI_INFO_SLUGS = [
 
 export const MALACCA_INFO_SLUGS = [
   'malacca-unesco-heritage-guide', 'best-time-to-visit-malacca',
+  'best-food-tour-malacca', 'is-river-cruise-trishaw-tour-worth-it-malacca',
 ];
 
 export const KOTA_KINABALU_INFO_SLUGS = [

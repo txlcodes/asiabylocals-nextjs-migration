@@ -750,6 +750,44 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
 
         // ============ MALACCA ============
 
+        case "best-food-tour-malacca":
+            return {
+                title: "Which Is the Best Food Tour in Malacca?",
+                seoTitle: "Best Malacca Food Tour 2026 | Comparison",
+                description: "Compare real Malacca (Melaka) food tours, both offering 15+ tastings of the city's distinctive Peranakan and Malay cuisine.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1209075/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Malacca's food scene blends Peranakan (Nyonya), Malay, Chinese, and Portuguese-Eurasian influences — both tours cover 15+ tastings, differing mainly in route and operator.", tourCard: { slug: "melaka-meals-food-tour-with-15-tastings", title: "Melaka Meals Food Tour with 15+ Tastings", description: "A food tour with 15+ tastings of Melaka's cuisine.", price: "From $57", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1d70a4de6df8563302bb97bbc9640114df3be013420890fe18f1002c72e637fc.jpg" } },
+                    { title: "Alternative: Rempah Routes Food Tour", content: "A similarly sized tastings tour with its own route and selection, worth comparing if the first is fully booked.", tourCard: { slug: "melaka-rempah-routes-food-tour-with-15-tastings", title: "Melaka: Rempah Routes Food Tour with 15+ Tastings", description: "An alternative food tour with 15+ tastings.", price: "From $75", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1209075/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Go hungry — both tours pack in enough tastings that a light breakfast beforehand is the right call." }
+                ],
+                faqs: [
+                    { q: "What is the best food tour in Malacca?", a: "Both main options offer 15+ tastings of similar quality — compare route and timing to pick between them." },
+                    { q: "What makes Malacca's food distinctive?", a: "A blend of Peranakan (Nyonya), Malay, Chinese, and Portuguese-Eurasian influences." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What makes Malacca's food distinctive?", "acceptedAnswer": { "@type": "Answer", "text": "A blend of Peranakan, Malay, Chinese, and Portuguese-Eurasian influences." } }
+                ] },
+            };
+
+        case "is-river-cruise-trishaw-tour-worth-it-malacca":
+            return {
+                title: "Is the Malacca River Cruise, Trishaw & Nyonya Lunch Tour Worth It?",
+                seoTitle: "Malacca River Cruise Trishaw Tour 2026 | Honest Review",
+                description: "An honest look at Malacca's combined river cruise, decorated trishaw ride, and Nyonya lunch day trip.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1304040/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This bundles three of Malacca's signature experiences into one day — a river cruise past riverside murals and old godowns, a ride on one of the city's famously decorated trishaws, and a traditional Nyonya (Peranakan) lunch.", tourCard: { slug: "malacca-day-trip-river-cruise-trishaw-nyonya-lunch", title: "Malacca Day Trip: River Cruise, Trishaw & Nyonya Lunch", description: "A day trip combining a river cruise, trishaw ride, and Nyonya lunch.", price: "From $491", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1304040/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Malacca's trishaws are famously decorated with elaborate themes and sound systems — worth the ride as much for the experience as the transport." }
+                ],
+                faqs: [
+                    { q: "What is unique about Malacca's trishaws?", a: "They're famously decorated with elaborate themes and sound systems, a distinctive city tradition." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is unique about Malacca's trishaws?", "acceptedAnswer": { "@type": "Answer", "text": "They're famously decorated with elaborate themes and sound systems." } }
+                ] },
+            };
+
         case "malacca-unesco-heritage-guide":
             return {
                 title: "Malacca UNESCO Heritage Guide: A Famosa, Jonker Street & Baba Nyonya Culture (2026)",
