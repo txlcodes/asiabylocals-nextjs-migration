@@ -1617,6 +1617,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'ha-long-bay-caves-and-islands-guide',
     'ha-long-bay-with-kids',
     'bai-tu-long-bay-guide',
+    'is-hop-on-hop-off-bus-worth-it-ha-long',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/ha-long/${slug}`,
     lastModified: new Date(),

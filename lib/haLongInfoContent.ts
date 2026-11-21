@@ -534,6 +534,27 @@ export function getHaLongInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-hop-on-hop-off-bus-worth-it-ha-long":
+      return {
+        title: "Is the Hop-On Hop-Off Bus Tour Worth It in Ha Long?",
+        description: "An honest look at Ha Long's city sightseeing hop-on hop-off bus tour, a land-based city option distinct from the bay's usual cruise and kayaking tours.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/city-sightseeing-hop-on-hop-off-bus-tour-in-ha-long/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This flexible hop-on hop-off bus covers Ha Long city's land-based sights, a good complement to a bay cruise for travelers who want to see the city itself rather than only the karst islands and water.",
+            tourCard: { slug: "city-sightseeing-hop-on-hop-off-bus-tour-in-ha-long", title: "City Sightseeing Hop-On Hop-Off Bus Tour in Ha Long", description: "A flexible hop-on hop-off bus tour of Ha Long city's sights.", price: "From $25", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/city-sightseeing-hop-on-hop-off-bus-tour-in-ha-long/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Most visitors come to Ha Long specifically for a bay cruise, so treat this as a flexible add-on for extra city time rather than the main reason to visit.",
+          },
+        ],
+        faqs: [
+          { q: "Is the hop-on hop-off bus worth it in Ha Long?", a: "Yes, as a flexible way to see the city's land-based sights, best as a complement to a bay cruise rather than the main activity." },
+        ],
+      };
+
     default:
       return null;
   }

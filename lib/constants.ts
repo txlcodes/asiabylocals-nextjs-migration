@@ -1871,6 +1871,7 @@ export const HA_LONG_INFO_SLUGS = [
   'ha-long-bay-caves-and-islands-guide',
   'ha-long-bay-with-kids',
   'bai-tu-long-bay-guide',
+  'is-hop-on-hop-off-bus-worth-it-ha-long',
 ];
 
 export const HANOI_INFO_SLUGS = [
