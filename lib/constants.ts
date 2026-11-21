@@ -2011,6 +2011,7 @@ export const NUSA_PENIDA_INFO_SLUGS = [
   'nusa-lembongan-vs-nusa-penida',
   'nusa-penida-2-day-itinerary',
   'is-scuba-diving-worth-it-nusa-penida',
+  'is-coral-reef-restoration-worth-it-nusa-penida', 'is-canang-sari-workshop-worth-it-nusa-penida',
 ];
 
 export const DA_NANG_INFO_SLUGS = [

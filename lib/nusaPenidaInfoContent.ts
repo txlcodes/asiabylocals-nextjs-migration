@@ -903,6 +903,48 @@ export function getNusaPenidaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-coral-reef-restoration-worth-it-nusa-penida":
+      return {
+        title: "Is Coral Reef Restoration with Marine Scientists Worth It in Nusa Penida?",
+        description: "An honest look at Nusa Penida's coral reef restoration activity with marine scientists, a hands-on conservation experience distinct from the island's usual snorkeling and diving trips.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/coral-reef-restoration-with-marine-scientists-in-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This activity has you working alongside marine scientists on actual coral restoration, a genuinely hands-on conservation experience rather than a passive snorkeling trip — worth it for travelers who want to contribute to something beyond sightseeing.",
+            tourCard: { slug: "coral-reef-restoration-with-marine-scientists-in-nusa-penida", title: "Coral Reef Restoration with Marine Scientists in Nusa Penida", description: "A hands-on coral reef restoration activity alongside marine scientists.", price: "From $114", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/coral-reef-restoration-with-marine-scientists-in-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Basic swimming comfort is useful, but this is framed as a conservation activity rather than a recreational dive, so set expectations accordingly.",
+          },
+        ],
+        faqs: [
+          { q: "Is coral reef restoration worth it in Nusa Penida?", a: "Yes, for travelers wanting a genuine hands-on conservation activity rather than a standard snorkeling or diving trip." },
+        ],
+      };
+
+    case "is-canang-sari-workshop-worth-it-nusa-penida":
+      return {
+        title: "Is the Canang Sari Workshop Worth It in Nusa Penida?",
+        description: "An honest look at Nusa Penida's canang sari offering-making workshop, a hands-on cultural craft activity distinct from the island's natural sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/canang-sari-workshop-in-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning to make canang sari, the small daily offerings seen throughout Bali, gives genuine insight into Balinese Hindu practice, a hands-on cultural activity that pairs well with the island's natural sightseeing-heavy itineraries.",
+            tourCard: { slug: "canang-sari-workshop-in-nusa-penida", title: "Canang Sari Workshop in Nusa Penida", description: "A hands-on workshop making traditional Balinese canang sari offerings.", price: "From $19", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/canang-sari-workshop-in-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a short, inexpensive add-on, best paired with a half-day of the island's cliff and viewpoint sightseeing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the canang sari workshop worth it in Nusa Penida?", a: "Yes, for genuine insight into Balinese Hindu daily practice, a nice hands-on complement to the island's natural sightseeing." },
+        ],
+      };
+
     default:
       return null;
   }

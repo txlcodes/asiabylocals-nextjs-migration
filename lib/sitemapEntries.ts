@@ -1778,6 +1778,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'nusa-lembongan-vs-nusa-penida',
     'nusa-penida-2-day-itinerary',
     'is-scuba-diving-worth-it-nusa-penida',
+    'is-coral-reef-restoration-worth-it-nusa-penida', 'is-canang-sari-workshop-worth-it-nusa-penida',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/nusa-penida/${slug}`,
     lastModified: new Date(),
