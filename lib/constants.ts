@@ -570,6 +570,40 @@ export const BEIRUT_INFO_SLUGS = [
   'lebanon-visa-guide-for-tourists',
 ];
 
+// Secondary cities batch (2026-11-21): thin-inventory cities in
+// already-covered countries.
+export const DILIJAN_INFO_SLUGS = [
+  'best-wine-tasting-tour-dilijan', 'best-hiking-tour-dilijan',
+  'is-molokans-village-tour-worth-it-dilijan', 'dilijan-travel-guide-2026',
+  'best-time-to-visit-dilijan',
+];
+
+export const GYUMRI_INFO_SLUGS = [
+  'best-architecture-tour-gyumri', 'is-gurdjieff-tour-worth-it-gyumri',
+  'gyumri-travel-guide-2026', 'armenia-visa-guide-for-tourists-gyumri',
+];
+
+export const SHEKI_INFO_SLUGS = [
+  'best-old-town-tour-sheki', 'best-day-trip-from-baku-sheki',
+  'is-sheki-overnight-tour-worth-it', 'sheki-travel-guide-2026',
+  'best-time-to-visit-sheki',
+];
+
+export const ASTANA_INFO_SLUGS = [
+  'best-city-tour-astana', 'is-burabay-national-park-tour-worth-it-astana',
+  'astana-travel-guide-2026', 'best-time-to-visit-astana',
+];
+
+export const HAIFA_INFO_SLUGS = [
+  'best-bahai-gardens-tour-haifa', 'is-nazareth-day-trip-worth-it-haifa',
+  'haifa-travel-guide-2026',
+];
+
+export const EILAT_INFO_SLUGS = [
+  'best-glass-bottom-boat-tour-eilat', 'best-desert-jeep-tour-eilat',
+  'best-snorkeling-diving-tour-eilat', 'eilat-travel-guide-2026',
+];
+
 export const JOHOR_BAHRU_INFO_SLUGS = [
   'best-jetski-tour-johor-bahru',
   'best-hop-on-hop-off-tour-johor-bahru', 'best-private-city-tour-johor-bahru',

@@ -354,6 +354,161 @@ export function getArmeniaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-wine-tasting-tour-dilijan":
+            return {
+                title: "Which Is the Best Wine Tasting Tour at ACOL Estate in Dilijan?",
+                seoTitle: "Best ACOL Estate Wine Tour Dilijan 2026 | Comparison",
+                description: "Compare real ACOL Estate wine tasting tours in Dilijan — from a quick 2-wine tasting to a full 6-wine experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/154cc45fefc3afb3f72cdccaaf9be17da86c5b05e37d757e5b0b0ec64ac39bfd.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "ACOL Estate's wine tastings in Dilijan come in tiers by how many wines you try — the only real difference between the options is how much you want to taste and spend.", tourCard: { slug: "dilijan-acol-estate-tour-wine-tasting-2-wines", title: "Dilijan: ACOL Estate Tour & Wine Tasting – 2 Wines", description: "A quick tasting of 2 wines at ACOL Estate.", price: "From $17", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/154cc45fefc3afb3f72cdccaaf9be17da86c5b05e37d757e5b0b0ec64ac39bfd.jpg" } },
+                    { title: "Cheapest: 2-Wine Tasting", content: "At $17, this is the lowest-priced way to try ACOL Estate's wines.", tourCard: { slug: "dilijan-acol-estate-tour-wine-tasting-2-wines", title: "Dilijan: ACOL Estate Tour & Wine Tasting – 2 Wines", description: "The budget 2-wine tasting.", price: "From $17", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/154cc45fefc3afb3f72cdccaaf9be17da86c5b05e37d757e5b0b0ec64ac39bfd.jpg" } },
+                    { title: "Best Mid-Tier: 3-Wine Tasting", content: "A step up from the base tasting, giving a broader sense of the estate's range without committing to the full 6-wine tier.", tourCard: { slug: "dilijan-acol-estate-tour-wine-tasting-3-wines", title: "Dilijan: ACOL Estate Tour & Wine Tasting – 3 Wines", description: "A mid-tier 3-wine tasting.", price: "From $38", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6d3db7f631c3f7850b1cf9f645b7241b12dc211140e361eb74fd9f3b8a6a0909.jpg" } },
+                    { title: "Most Comprehensive: 6-Wine Tasting", content: "The full tasting flight, best for travellers who want to properly sample the estate's full range in one visit.", tourCard: { slug: "dilijan-acol-estate-tour-wine-tasting-6-wines", title: "Dilijan: ACOL Estate Tour & Wine Tasting – 6 Wines", description: "The full 6-wine tasting experience.", price: "From $52", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0955ab0212100575ca4f2fb7ee9d68e54f0a7a80c7a7ac1b180413e6296930c4.jpeg" } },
+                    { title: "Practical Tips", content: "There's also a juice-tasting version of the same estate tour for non-drinkers or travelling with kids — ask about it if wine isn't for everyone in your group." }
+                ],
+                faqs: [
+                    { q: "What is the best wine tasting tour in Dilijan?", a: "The tasting tier mainly comes down to budget and how many wines you want to try — all run at the same ACOL Estate." },
+                    { q: "Is there a non-alcoholic option?", a: "Yes, ACOL Estate also offers a juice-tasting version of the same tour." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best wine tasting tour in Dilijan?", "acceptedAnswer": { "@type": "Answer", "text": "The tier mainly comes down to how many wines you want to try." } },
+                    { "@type": "Question", "name": "Is there a non-alcoholic option?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a juice-tasting version is also available." } }
+                ] },
+            };
+
+        case "best-hiking-tour-dilijan":
+            return {
+                title: "Which Is the Best Hiking Tour in Dilijan?",
+                seoTitle: "Best Hiking Tour Dilijan 2026 | Honest Comparison",
+                description: "Compare real Dilijan hiking tours — from a Parz Lake to Goshavank monastery hike to a Dimats Mountain waterfall trek.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3801642c546d3a0d6c344e59b669d2c4d7e249d51b254279273d6373fb4195da.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Dilijan's forested hills offer a range of hikes from an easy lake-to-monastery walk to a more demanding mountain trek with a waterfall payoff.", tourCard: { slug: "dilijan-hiking-tour-from-parz-lake-to-goshavank", title: "Dilijan: Hiking Tour from Parz Lake to Goshavank", description: "A scenic hike from Parz Lake to Goshavank Monastery.", price: "From $249", duration: "4.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3801642c546d3a0d6c344e59b669d2c4d7e249d51b254279273d6373fb4195da.jpg" } },
+                    { title: "Best for a Tougher Trek: Dimats Mountain with Waterfall", content: "A longer, more demanding hike up Dimats Mountain with a waterfall as the reward, better suited to travellers wanting a real workout.", tourCard: { slug: "dimats-mountain-hike-with-waterfall-guide", title: "Dimats Mountain Hike with Waterfall & Guide", description: "A demanding mountain hike with a waterfall finish.", price: "From $559", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d654e94a34ee2c0e63b2b2e6656b7bc6301c6a01b510304862d29a94daf6c2b2.jpg" } },
+                    { title: "Practical Tips", content: "Bring sturdy shoes regardless of which hike you choose — both routes cover uneven forest terrain, and the Dimats route in particular involves real elevation gain." }
+                ],
+                faqs: [
+                    { q: "What is the best hiking tour in Dilijan?", a: "The Parz Lake to Goshavank route suits a moderate hike; Dimats Mountain suits travellers wanting a tougher trek." },
+                    { q: "Is hiking in Dilijan difficult?", a: "It varies — the lake-to-monastery route is moderate, while Dimats Mountain involves more serious elevation gain." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best hiking tour in Dilijan?", "acceptedAnswer": { "@type": "Answer", "text": "Parz Lake to Goshavank for moderate hiking; Dimats Mountain for a tougher trek." } },
+                    { "@type": "Question", "name": "Is hiking in Dilijan difficult?", "acceptedAnswer": { "@type": "Answer", "text": "It varies by route — some are moderate, others more demanding." } }
+                ] },
+            };
+
+        case "is-molokans-village-tour-worth-it-dilijan":
+            return {
+                title: "Is the Molokans Village Tour from Dilijan Worth It?",
+                seoTitle: "Molokans Village Tour Dilijan 2026 | Honest Review",
+                description: "An honest look at the Molokans village tour, visiting a Russian religious minority community near Dilijan sometimes called the Amish of the Caucasus.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0b86a6de288c707e1fa206960fe9b450497afe69ec6d2e8ae908ca97ead3538c.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour visits Molokan villages, a Russian religious minority who settled in the Caucasus generations ago and maintain distinct traditions — a genuinely unusual cultural stop most visitors to Armenia never hear about.", tourCard: { slug: "visit-molokans-the-amish-of-the-caucasus", title: "Visit Molokans: The Amish of the Caucasus", description: "A cultural visit to a Molokan religious community near Dilijan.", price: "From $429", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0b86a6de288c707e1fa206960fe9b450497afe69ec6d2e8ae908ca97ead3538c.jpg" } },
+                    { title: "Practical Tips", content: "Approach this as a respectful cultural visit rather than a sightseeing stop — the Molokans are a living religious community, not a museum exhibit." }
+                ],
+                faqs: [
+                    { q: "Is the Molokans village tour worth it?", a: "Yes, for travellers interested in lesser-known cultural communities within Armenia." },
+                    { q: "Who are the Molokans?", a: "A Russian religious minority who settled in the Caucasus generations ago, sometimes compared to the Amish for their traditional way of life." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Molokans tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely unusual cultural stop." } },
+                    { "@type": "Question", "name": "Who are the Molokans?", "acceptedAnswer": { "@type": "Answer", "text": "A Russian religious minority community in the Caucasus." } }
+                ] },
+            };
+
+        case "dilijan-travel-guide-2026":
+            return {
+                title: "Dilijan Travel Guide 2026",
+                description: "What visitors need to know about Dilijan, Armenia's forested 'Little Switzerland.'",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3801642c546d3a0d6c344e59b669d2c4d7e249d51b254279273d6373fb4195da.jpg",
+                sections: [
+                    { title: "Why Visit", content: "Dilijan is known for its dense pine forests, mineral springs, and monasteries, often compared to Switzerland for its alpine scenery — a good contrast to Yerevan's urban pace." }
+                ],
+                faqs: [
+                    { q: "Is Dilijan worth visiting?", a: "Yes, for its forested scenery, hiking, and monasteries — a different pace from Yerevan." }
+                ],
+            };
+
+        case "best-time-to-visit-dilijan":
+            return {
+                title: "Best Time to Visit Dilijan",
+                description: "Dilijan's forested hills mean a different climate than Yerevan's dry plains.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3801642c546d3a0d6c344e59b669d2c4d7e249d51b254279273d6373fb4195da.jpg",
+                sections: [
+                    { title: "Weather Patterns", content: "Late spring through early autumn (May-September) is best for hiking, with lush greenery. Winters are cold and snowy, better suited to those seeking a quieter, cozier visit than hiking." }
+                ],
+                faqs: [
+                    { q: "What is the best time to visit Dilijan?", a: "May to September for hiking and greenery; winter for a quieter, snow-covered visit." }
+                ],
+            };
+
+        case "best-architecture-tour-gyumri":
+            return {
+                title: "Which Is the Best Architecture Tour in Gyumri?",
+                seoTitle: "Best Gyumri Architecture Tour 2026 | Honest Comparison",
+                description: "Compare real Gyumri architecture and heritage walking tours — from a focused architectural walk to a historic town tour with food tasting.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/60562762e48e3699.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Gyumri's 19th-century black-tuff architecture is unlike anywhere else in Armenia, and tours here either focus purely on the buildings or combine the walk with local food.", tourCard: { slug: "gyumri-architectural-walking-tour", title: "Gyumri Architectural Walking Tour", description: "A focused walking tour of Gyumri's distinctive black-tuff architecture.", price: "From $73", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/60562762e48e3699.jpeg" } },
+                    { title: "Best with Food: Historic Town Walking Tour with Food Tasting", content: "This adds local food tastings to the architectural walk, pairing the historic buildings with Gyumri's distinct culinary identity.", tourCard: { slug: "gyumri-historic-town-walking-tour-with-food", title: "Gyumri: Historic Town Walking Tour with Food Tasting", description: "A historic walking tour combined with local food tasting.", price: "From $85", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cfb5f0966e3da5de441e43344916a0f96bb6ee8678e62f02abf222fc418a7730.jpg" } },
+                    { title: "Practical Tips", content: "Gyumri was Armenia's second city historically and suffered badly in the 1988 earthquake — a guide adds real context to both the surviving architecture and the rebuilding since." }
+                ],
+                faqs: [
+                    { q: "What is the best architecture tour in Gyumri?", a: "A focused architectural walk suits purists; add food tasting for a fuller cultural experience." },
+                    { q: "What makes Gyumri's architecture distinct?", a: "Its 19th-century buildings use a distinctive black volcanic tuff stone not seen elsewhere in Armenia." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best architecture tour in Gyumri?", "acceptedAnswer": { "@type": "Answer", "text": "A focused architectural walk suits purists." } },
+                    { "@type": "Question", "name": "What makes the architecture distinct?", "acceptedAnswer": { "@type": "Answer", "text": "A distinctive black volcanic tuff stone." } }
+                ] },
+            };
+
+        case "is-gurdjieff-tour-worth-it-gyumri":
+            return {
+                title: "Is the Gurdjieff Tour in Gyumri Worth It?",
+                seoTitle: "Gyumri Gurdjieff Tour 2026 | Honest Review",
+                description: "An honest look at Gyumri's Gurdjieff tour, visiting the childhood home and cemetery of the influential philosopher G.I. Gurdjieff.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1b62f98419b12996a845e0e52bca9d72b603f1d41380b8d338fec5a7c5a1af4a.png",
+                sections: [
+                    { title: "The Short Answer", content: "This tour visits the childhood home and family cemetery of G.I. Gurdjieff, the influential early-20th-century philosopher and mystic — genuinely worth it if you know his work, a niche interest if you don't.", tourCard: { slug: "gyumri-gurdjieff-tour-with-childhood-home-and", title: "Gyumri: Gurdjieff Tour with Childhood Home and Cemetery", description: "A tour of Gurdjieff's childhood home and family cemetery.", price: "From $104", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1b62f98419b12996a845e0e52bca9d72b603f1d41380b8d338fec5a7c5a1af4a.png" } },
+                    { title: "Practical Tips", content: "Reading up on Gurdjieff beforehand genuinely improves this tour — without that context, the sites themselves are fairly modest." }
+                ],
+                faqs: [
+                    { q: "Is the Gurdjieff tour in Gyumri worth it?", a: "Yes if you're familiar with his philosophical work; otherwise it's a niche interest." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Gurdjieff tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes if you're familiar with his philosophical work." } }
+                ] },
+            };
+
+        case "gyumri-travel-guide-2026":
+            return {
+                title: "Gyumri Travel Guide 2026",
+                description: "What visitors need to know about Gyumri, Armenia's historic second city.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/60562762e48e3699.jpeg",
+                sections: [
+                    { title: "Why Visit", content: "Gyumri offers distinctive black-tuff 19th-century architecture, a strong artisan craft scene (pottery, dolls, traditional doors), and a slower pace than Yerevan, usually visited as a day trip." }
+                ],
+                faqs: [
+                    { q: "Is Gyumri worth visiting?", a: "Yes, for its unique architecture and artisan craft scene — most visit as a day trip from Yerevan." }
+                ],
+            };
+
+        case "armenia-visa-guide-for-tourists-gyumri":
+            return {
+                title: "Armenia Visa Guide for Tourists",
+                description: "Visa requirements for visiting Armenia, including Gyumri and Dilijan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/60562762e48e3699.jpeg",
+                sections: [
+                    { title: "Visa Requirements", content: "Many nationalities get visa-free or visa-on-arrival entry to Armenia for tourism. Check Armenia's official immigration requirements for your specific nationality before travel, since rules vary and change." }
+                ],
+                faqs: [
+                    { q: "Do I need a visa to visit Armenia?", a: "Many nationalities get visa-free or visa-on-arrival entry; verify current requirements for your passport." }
+                ],
+            };
+
         default:
             return null;
     }

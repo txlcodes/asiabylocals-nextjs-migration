@@ -547,6 +547,133 @@ export function getIsraelInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-bahai-gardens-tour-haifa":
+            return {
+                title: "Which Is the Best Bahai Gardens Tour in Haifa?",
+                seoTitle: "Best Bahai Gardens Tour Haifa 2026 | Honest Comparison",
+                description: "Compare real Bahai Gardens tours in Haifa — from a walking-and-car combo tour to a version adding the German Colony and Mediterranean views.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/52f4b772e6a1f985f9bb66c69752a25a67d2aef0e8a110c28f4ba775d5815bbf.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The UNESCO-listed Bahai Gardens cascade down Mount Carmel in terraces, and most tours pair them with either a car ride up for the view or an extended walk into the German Colony below.", tourCard: { slug: "haifa-guided-walking-car-tour-with-bahai-gardens", title: "Haifa: Guided Walking & Car Tour with Bahai Gardens Entry", description: "A combined walking and car tour with Bahai Gardens entry.", price: "From $320", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/52f4b772e6a1f985f9bb66c69752a25a67d2aef0e8a110c28f4ba775d5815bbf.jpg" } },
+                    { title: "Best Full Experience: Bahai Gardens, German Colony & Views", content: "This extends the Bahai Gardens visit into the German Colony neighborhood below and adds Mediterranean viewpoints, a fuller half-day itinerary.", tourCard: { slug: "haifa-bahai-gardens-german-colony-mediterranean", title: "Haifa: Bahai Gardens, German Colony & Mediterranean Views", description: "A fuller tour adding the German Colony and coastal views.", price: "From $439", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/649df316a7b93.jpeg" } },
+                    { title: "Practical Tips", content: "The gardens are terraced down a steep hillside — a car-assisted tour saves real effort over walking the full height, worth considering if mobility or time is a concern." }
+                ],
+                faqs: [
+                    { q: "What is the best Bahai Gardens tour in Haifa?", a: "A walking-and-car combo suits most visitors; add the German Colony for a fuller half-day." },
+                    { q: "Are the Bahai Gardens a UNESCO site?", a: "Yes, listed as a UNESCO World Heritage Site." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Bahai Gardens tour in Haifa?", "acceptedAnswer": { "@type": "Answer", "text": "A walking-and-car combo suits most visitors." } },
+                    { "@type": "Question", "name": "Are the gardens a UNESCO site?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a UNESCO World Heritage Site." } }
+                ] },
+            };
+
+        case "is-nazareth-day-trip-worth-it-haifa":
+            return {
+                title: "Is a Nazareth & Sea of Galilee Day Trip from Haifa Worth It?",
+                seoTitle: "Nazareth Sea of Galilee Day Trip Haifa 2026 | Review",
+                description: "An honest look at the Nazareth and Sea of Galilee guided day trip from Haifa.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/62ea75aa47e1d.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This combines two of Christianity's most significant sites — Nazareth and the Sea of Galilee — in one day, genuinely worthwhile for travellers interested in either religious history or the region's dramatic landscapes.", tourCard: { slug: "from-haifa-guided-day-trip-to-nazareth-and-sea", title: "From Haifa: Guided Day Trip to Nazareth and Sea of Galilee", description: "A guided day trip covering Nazareth and the Sea of Galilee.", price: "From $156", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/62ea75aa47e1d.jpeg" } },
+                    { title: "Practical Tips", content: "This is a full 9-hour day given the driving distances around the Galilee region — comfortable shoes and sun protection help, especially in summer." }
+                ],
+                faqs: [
+                    { q: "Is the Nazareth and Sea of Galilee day trip worth it?", a: "Yes, for religious history or the region's landscapes." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Nazareth/Galilee day trip worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for religious history or landscapes." } }
+                ] },
+            };
+
+        case "haifa-travel-guide-2026":
+            return {
+                title: "Haifa Travel Guide 2026",
+                description: "What visitors need to know about Haifa, Israel's main northern port city.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/52f4b772e6a1f985f9bb66c69752a25a67d2aef0e8a110c28f4ba775d5815bbf.jpg",
+                sections: [
+                    { title: "Why Visit", content: "Haifa is best known for the UNESCO-listed Bahai Gardens cascading down Mount Carmel, and serves as a convenient base for day trips to Acre, Nazareth, and the Sea of Galilee." }
+                ],
+                faqs: [
+                    { q: "Is Haifa worth visiting?", a: "Yes, mainly for the Bahai Gardens and as a base for regional day trips." }
+                ],
+            };
+
+        case "best-glass-bottom-boat-tour-eilat":
+            return {
+                title: "Is the Glass-Bottom Boat Tour in Eilat Worth It?",
+                seoTitle: "Eilat Glass-Bottom Boat Tour 2026 | Honest Review",
+                description: "An honest look at Eilat's glass-bottom boat tour over the Red Sea's coral reefs.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/63c11e1c57ac5.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "A glass-bottom boat is the easiest way to see Eilat's Red Sea coral without getting in the water — genuinely good for travellers who don't swim or snorkel but still want to see the reef.", tourCard: { slug: "eilat-2-hour-glass-bottom-boat-tour", title: "Eilat: 2-Hour Glass-Bottom Boat Tour", description: "A glass-bottom boat tour over Eilat's coral reefs.", price: "From $32", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/63c11e1c57ac5.jpeg" } },
+                    { title: "Practical Tips", content: "Visibility is best on calmer days — if snorkeling or diving is an option for you physically, you'll see considerably more detail that way, but this is the easiest no-effort option." }
+                ],
+                faqs: [
+                    { q: "Is the Eilat glass-bottom boat tour worth it?", a: "Yes, especially for non-swimmers who still want to see the Red Sea coral." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the glass-bottom boat tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, especially for non-swimmers." } }
+                ] },
+            };
+
+        case "best-desert-jeep-tour-eilat":
+            return {
+                title: "Which Is the Best Desert Jeep Tour from Eilat?",
+                seoTitle: "Best Desert Jeep Tour Eilat 2026 | Honest Comparison",
+                description: "Compare real desert jeep tours from Eilat — Timna Park versus Red Canyon versus a sunset jeep adventure to Mount Joash.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5e18bbf3985c0.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Eilat's desert surroundings offer several distinct jeep options — Timna Park's ancient copper mines, Red Canyon's dramatic rock formations, or a sunset-timed trip up Mount Joash.", tourCard: { slug: "from-eilat-timna-park-guided-jeep-tour", title: "From Eilat: Timna Park Guided Jeep Tour", description: "A guided jeep tour of Timna Park's desert landscapes.", price: "From $110", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5e18bbf3985c0.jpeg" } },
+                    { title: "Best for Scenery: Red Canyon Guided Tour", content: "This focuses on Red Canyon's narrow, dramatically colored rock formations rather than Timna's historical mining sites.", tourCard: { slug: "from-eilat-red-canyon-guided-tour", title: "From Eilat: Red Canyon Guided Tour", description: "A guided tour of Red Canyon's dramatic rock formations.", price: "From $110", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5e18db269dcb9.jpeg" } },
+                    { title: "Best at Sunset: Mount Joash Sunset Jeep Adventure", content: "This times the jeep route specifically for sunset views from Mount Joash, trading daytime clarity for golden-hour scenery.", tourCard: { slug: "eilat-mountains-sunset-jeep-adventure-to-mount", title: "Eilat Mountains: Sunset Jeep Adventure to Mount Joash", description: "A sunset-timed jeep adventure to Mount Joash.", price: "From $89", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5e18a87d9241f.jpeg" } },
+                    { title: "Practical Tips", content: "Desert temperatures swing a lot between day and night — bring a layer even for a sunset tour, since it cools quickly once the sun is down." }
+                ],
+                faqs: [
+                    { q: "What is the best desert jeep tour from Eilat?", a: "Timna Park suits history/mining interest, Red Canyon suits scenery, and the Mount Joash tour suits sunset views." },
+                    { q: "Does it get cold in the desert at night near Eilat?", a: "Yes, temperatures drop quickly after sunset — bring a layer." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best desert jeep tour from Eilat?", "acceptedAnswer": { "@type": "Answer", "text": "Timna Park, Red Canyon, or Mount Joash at sunset, depending on interest." } },
+                    { "@type": "Question", "name": "Does it get cold at night?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, bring a layer for after sunset." } }
+                ] },
+            };
+
+        case "best-snorkeling-diving-tour-eilat":
+            return {
+                title: "Which Is the Best Snorkeling or Diving Tour in Eilat?",
+                seoTitle: "Best Eilat Snorkeling Diving Tour 2026 | Comparison",
+                description: "Compare real snorkeling and diving options in Eilat's Red Sea — from a coral reef snorkel trip to an intro scuba dive and a full certification course.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5cf27c269bf9a.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Eilat's Red Sea coral is a major draw, and the right option depends on experience level — snorkeling needs no training, an intro dive is beginner-friendly, and a full course is for those wanting certification.", tourCard: { slug: "eliat-coral-reef-snorkeling-trip-with-instructor", title: "Eliat: Coral Reef Snorkeling Trip with Instructor", description: "A guided snorkeling trip over Eilat's coral reef.", price: "From $140", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5cf27c269bf9a.jpeg" } },
+                    { title: "Best for Beginners: Introduction to Scuba Diving", content: "This is a genuine beginner-friendly intro dive, no certification required, for travellers curious about diving without committing to a full course.", tourCard: { slug: "eliat-introduction-to-scuba-diving", title: "Eliat: Introduction to Scuba Diving", description: "A beginner intro scuba dive, no certification needed.", price: "From $116", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5dfdce73a9e8d.jpeg" } },
+                    { title: "Best for Serious Divers: Open Water + Advanced Course", content: "A full multi-day course covering both Open Water and Advanced certification, the choice for travellers who want to leave Eilat as a certified diver.", tourCard: { slug: "open-water-diver-course-advanced-open-water-diver", title: "Open Water Diver Course + Advanced Open Water Diver Course", description: "A full certification course covering Open Water and Advanced diving.", price: "From $1156", duration: "7 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5cf27b708cd95.jpeg" } },
+                    { title: "Practical Tips", content: "Eilat's Red Sea has notably good year-round visibility compared to many dive destinations, so even outside peak season the diving and snorkeling conditions stay solid." }
+                ],
+                faqs: [
+                    { q: "What is the best snorkeling or diving tour in Eilat?", a: "Snorkeling for no-training coral viewing, an intro dive for curious beginners, or the full course for certification." },
+                    { q: "Is Eilat good for diving year-round?", a: "Yes, the Red Sea here has notably good visibility most of the year." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best snorkeling or diving option in Eilat?", "acceptedAnswer": { "@type": "Answer", "text": "Depends on experience: snorkeling, an intro dive, or a full certification course." } },
+                    { "@type": "Question", "name": "Is Eilat good for diving year-round?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, generally good visibility year-round." } }
+                ] },
+            };
+
+        case "eilat-travel-guide-2026":
+            return {
+                title: "Eilat Travel Guide 2026",
+                description: "What visitors need to know about Eilat, Israel's Red Sea resort city.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5cf27c269bf9a.jpeg",
+                sections: [
+                    { title: "Why Visit", content: "Eilat is Israel's main Red Sea resort town, known for coral reef diving and snorkeling, desert jeep tours into Timna Park and Red Canyon, and a warm, dry climate year-round." }
+                ],
+                faqs: [
+                    { q: "Is Eilat worth visiting?", a: "Yes, mainly for Red Sea diving/snorkeling and desert day trips." }
+                ],
+            };
+
         default:
             return null;
     }

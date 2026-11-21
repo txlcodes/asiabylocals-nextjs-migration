@@ -341,6 +341,92 @@ export function getAzerbaijanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-old-town-tour-sheki":
+            return {
+                title: "Which Is the Best Old Town Tour in Sheki?",
+                seoTitle: "Best Sheki Old Town Tour 2026 | Honest Comparison",
+                description: "Compare real Sheki Old Town tours — from a focused walking tour to a UNESCO heritage and hiking combo.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9465a8f27634e0043ccfd2ece808ec6e8e2ac831eee20baead6484e24a63ba4.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Sheki's UNESCO-listed old town, including the famous Khan's Palace, can be seen with a focused walking tour or extended with hiking into the surrounding hills.", tourCard: { slug: "from-sheki-sheki-old-town-walking-tour", title: "From Sheki: Sheki Old Town Walking Tour", description: "A focused walking tour of Sheki's UNESCO-listed old town.", price: "From $71", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9465a8f27634e0043ccfd2ece808ec6e8e2ac831eee20baead6484e24a63ba4.jpeg" } },
+                    { title: "Best with Hiking: UNESCO Heritage and Hiking Tour", content: "This extends the old town visit into a guided hike through the surrounding hills, good for travellers who want more than a walking tour.", tourCard: { slug: "sheki-unesco-heritage-and-hiking-tour-with-guide", title: "Sheki: UNESCO Heritage and Hiking Tour with Guide", description: "The old town combined with a guided hike.", price: "From $117", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/be37b92d386fdedf6cfbe3e53632fffe635e8b06049088cef173e960ea1904f9.jpg" } },
+                    { title: "Practical Tips", content: "The Khan's Palace's stained-glass shebeke windows (made without glue or nails) are a highlight worth timing for good natural light, since they're most striking with sun coming through them." }
+                ],
+                faqs: [
+                    { q: "What is the best old town tour in Sheki?", a: "A focused walking tour suits most visitors; add hiking for a more active day." },
+                    { q: "Is Sheki's old town a UNESCO site?", a: "Yes, including the Khan's Palace, known for its stained-glass shebeke windows." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best old town tour in Sheki?", "acceptedAnswer": { "@type": "Answer", "text": "A focused walking tour suits most visitors." } },
+                    { "@type": "Question", "name": "Is it a UNESCO site?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, including the Khan's Palace." } }
+                ] },
+            };
+
+        case "best-day-trip-from-baku-sheki":
+            return {
+                title: "Which Is the Best Day Trip to Sheki from Baku?",
+                seoTitle: "Best Sheki Day Trip from Baku 2026 | Comparison",
+                description: "Compare real day trips to Sheki from Baku — from a 4-region tour via Shamakhi and Gabala to a focused Sheki and Kish village trip.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f700c4a27cefe085bf2f2b399903288a3822258df576057624a18f4c338f2a70.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Sheki is far enough from Baku (about 4-5 hours each way) that most day trips bundle in several other regions along the way, since the journey itself takes up a big chunk of the day.", tourCard: { slug: "from-baku-day-trip-to-shamakhi-ismayilli-gabala", title: "From Baku: Day Trip to Shamakhi, Ismayilli, Gabala & Sheki", description: "A 4-region day trip to Sheki via Shamakhi, Ismayilli, and Gabala.", price: "From $117", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f700c4a27cefe085bf2f2b399903288a3822258df576057624a18f4c338f2a70.jpeg" } },
+                    { title: "Best Focused Option: Sheki, Shamakhi & Kish Day Trip", content: "A slightly more focused version of the long day trip, centering on Sheki and Kish village rather than spreading across four regions.", tourCard: { slug: "from-baku-sheki-shamakhi-and-kish-day-trip", title: "From Baku: Sheki, Shamakhi, and Kish Day Trip", description: "A day trip focused on Sheki, Shamakhi, and Kish village.", price: "From $246", duration: "14 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/74b420f808aea116f82cd3760c79c995e3009adf15dcd0bdb14f6ea8cf61fef3.jpeg" } },
+                    { title: "Practical Tips", content: "These are genuinely long days (12-14 hours round trip) — if you'd rather not spend most of the day in a vehicle, consider staying overnight in Sheki instead of a single-day round trip from Baku." }
+                ],
+                faqs: [
+                    { q: "What is the best day trip to Sheki from Baku?", a: "A 4-region tour covers the most ground; a focused Sheki/Kish trip is simpler if you don't want to spread across four regions." },
+                    { q: "How far is Sheki from Baku?", a: "About 4-5 hours each way, making it a long day trip or better as an overnight stay." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best day trip to Sheki from Baku?", "acceptedAnswer": { "@type": "Answer", "text": "A 4-region tour covers the most ground." } },
+                    { "@type": "Question", "name": "How far is Sheki from Baku?", "acceptedAnswer": { "@type": "Answer", "text": "About 4-5 hours each way." } }
+                ] },
+            };
+
+        case "is-sheki-overnight-tour-worth-it":
+            return {
+                title: "Is a 2-Day Sheki Mountain Village Overnight Tour Worth It?",
+                seoTitle: "Sheki Overnight Tour 2026 | Honest Review",
+                description: "An honest look at the 2-day Sheki mountain village overnight experience from Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8b8723cd44be15f403e38339640e8fcdb040d21dc66e3b630df5ddae7680e5a5.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Given Sheki's distance from Baku, an overnight 2-day version genuinely beats a single long day trip — you get a relaxed evening in the mountain town rather than rushing back the same day.", tourCard: { slug: "from-baku-2-day-sheki-mountain-village-experience", title: "From Baku: 2-Day Sheki Mountain Village Experience", description: "An overnight 2-day Sheki experience from Baku.", price: "From $556", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8b8723cd44be15f403e38339640e8fcdb040d21dc66e3b630df5ddae7680e5a5.jpeg" } },
+                    { title: "Practical Tips", content: "Check what accommodation is included — Sheki has a range from basic guesthouses to restored caravanserai hotels, and standards vary significantly between operators." }
+                ],
+                faqs: [
+                    { q: "Is the 2-day Sheki overnight tour worth it?", a: "Yes, given the distance from Baku, an overnight stay is more relaxed than a single long day trip." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the 2-day Sheki tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, more relaxed than a single long day trip." } }
+                ] },
+            };
+
+        case "sheki-travel-guide-2026":
+            return {
+                title: "Sheki Travel Guide 2026",
+                description: "What visitors need to know about Sheki, Azerbaijan's UNESCO-listed mountain town.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9465a8f27634e0043ccfd2ece808ec6e8e2ac831eee20baead6484e24a63ba4.jpeg",
+                sections: [
+                    { title: "Why Visit", content: "Sheki is known for the UNESCO-listed Khan's Palace, traditional caravanserai architecture, and a cooler mountain climate — a genuine change of pace from Baku's coastal city feel." }
+                ],
+                faqs: [
+                    { q: "Is Sheki worth visiting?", a: "Yes, for the Khan's Palace, caravanserai architecture, and mountain scenery." }
+                ],
+            };
+
+        case "best-time-to-visit-sheki":
+            return {
+                title: "Best Time to Visit Sheki",
+                description: "Sheki's mountain setting means a cooler, different climate than Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9465a8f27634e0043ccfd2ece808ec6e8e2ac831eee20baead6484e24a63ba4.jpeg",
+                sections: [
+                    { title: "Weather Patterns", content: "Late spring through early autumn (May-September) is best, with milder temperatures than Baku given the elevation. Winters can be cold and occasionally snowy." }
+                ],
+                faqs: [
+                    { q: "What is the best time to visit Sheki?", a: "May to September for milder mountain weather." }
+                ],
+            };
+
         default:
             return null;
     }

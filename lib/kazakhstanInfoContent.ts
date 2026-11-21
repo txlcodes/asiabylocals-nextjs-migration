@@ -344,6 +344,76 @@ export function getKazakhstanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-city-tour-astana":
+            return {
+                title: "Which Is the Best City Tour in Astana?",
+                seoTitle: "Best Astana City Tour 2026 | Honest Comparison",
+                description: "Compare real Astana city tours — from a landmarks-by-night tour to Baiterek Tower views and Soviet/Imperialist architecture walks.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/32e3be5ef75af5097044c7541b480e89ef8f9efb53bf2bce40b9e798b767ffc6.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Astana's futuristic skyline and Soviet-era old city offer very different sightseeing angles, and most tours pick one focus — night skyline, Baiterek Tower views, or historic architecture.", tourCard: { slug: "astana-city-highlights-tour-with-views-from", title: "Astana: City Highlights Tour with Views from Baiterek Tower", description: "A city highlights tour including views from Baiterek Tower.", price: "From $78", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/32e3be5ef75af5097044c7541b480e89ef8f9efb53bf2bce40b9e798b767ffc6.jpg" } },
+                    { title: "Best at Night: Landmarks by Night Tour", content: "Astana's modern architecture is dramatically lit after dark — this version is timed specifically to see the skyline at its best.", tourCard: { slug: "astana-city-tour-landmarks-by-night-with-a", title: "Astana City Tour: Landmarks by Night with a Certified Guide", description: "A night tour of Astana's illuminated landmarks.", price: "From $78", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/95ba6de3d97cfcc047803f822b385fdc4dbbf08d5595e5bc1b9d6a5f7aff984e.jpg" } },
+                    { title: "Best for History: Old City Soviet & Imperialist Architecture", content: "This focuses on Astana's older architecture rather than the futuristic new city, a genuinely different angle on the city's history.", tourCard: { slug: "astana-old-city-tour-of-imperialistic-soviet", title: "Astana: Old City Tour of Imperialistic & Soviet Architecture", description: "A tour of Astana's Soviet and Imperialist-era architecture.", price: "From $78", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/62d7da0a151ca5fb138acb5f3f97b08fc228f72aa92cc3853394b1346942af7e.jpg" } },
+                    { title: "Best with Entry Included: Baiterek Entry Ticket Tour", content: "This explicitly bundles the Baiterek Tower entrance ticket into the tour price, avoiding a separate purchase at the site.", tourCard: { slug: "astana-city-highlights-tour-with-baiterek-entry", title: "Astana: City Highlights Tour with Baiterek Entry Ticket", description: "A city tour with Baiterek Tower entry included.", price: "From $116", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4d153ebe3d89a82da15f2906aa034bc6aa016ed1bc92c76248583adfd6f3ee85.jpeg" } },
+                    { title: "Practical Tips", content: "Astana's winters are genuinely extreme (often well below -20°C), so dress accordingly if visiting outside summer — the modern architecture is dramatic either way, but outdoor walking time shrinks fast in deep cold." }
+                ],
+                faqs: [
+                    { q: "What is the best city tour in Astana?", a: "A Baiterek Tower highlights tour suits most visitors; go at night for the illuminated skyline or focus on the old city for Soviet-era history." },
+                    { q: "Is Astana's winter severe?", a: "Yes, temperatures regularly drop well below -20°C — dress accordingly for outdoor sightseeing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best city tour in Astana?", "acceptedAnswer": { "@type": "Answer", "text": "A Baiterek Tower highlights tour suits most visitors." } },
+                    { "@type": "Question", "name": "Is Astana's winter severe?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, often well below -20°C." } }
+                ] },
+            };
+
+        case "is-burabay-national-park-tour-worth-it-astana":
+            return {
+                title: "Is a Burabay National Park Tour from Astana Worth It?",
+                seoTitle: "Burabay National Park Tour Astana 2026 | Honest Review",
+                description: "An honest look at Burabay National Park day trips from Astana, often called Kazakhstan's 'Switzerland.'",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b4ca9913dc45d68874ac3286815188bf9dac33ed338d48a57d648f8f07028cf5.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Burabay National Park's lakes and granite rock formations are a genuine contrast to Astana's steppe surroundings, often compared to Switzerland for its scenery — worth the day trip if you want nature alongside the city's architecture.", tourCard: { slug: "astana-burabay-national-park-tour-with-lunch-and", title: "Astana: Burabay National Park Tour with Lunch and Pickup", description: "A day trip to Burabay National Park with lunch included.", price: "From $381", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b4ca9913dc45d68874ac3286815188bf9dac33ed338d48a57d648f8f07028cf5.jpeg" } },
+                    { title: "Best for a Fuller Trip: 2-Day Astana & Burabay Tour", content: "For travellers who want more than a rushed day trip, this private 2-day version adds an overnight stay near the park.", tourCard: { slug: "astana-private-2-day-tour-of-astana-burabay", title: "Astana: Private 2-Day Tour of Astana & Burabay National Park", description: "A private 2-day tour combining Astana and Burabay.", price: "From $649", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/64faf45abec07c0eff820f3f8ed6be30a59da8d560a6ade3c2f7dabe7c2d89e9.jpeg" } },
+                    { title: "Practical Tips", content: "Burabay is about 3 hours from Astana, so the day-trip version is a long but doable round trip — the 2-day version is worth it if you'd rather not spend most of a single day in a vehicle." }
+                ],
+                faqs: [
+                    { q: "Is Burabay National Park worth visiting from Astana?", a: "Yes, for lake and granite-formation scenery genuinely different from the steppe around Astana." },
+                    { q: "How far is Burabay from Astana?", a: "About 3 hours each way, making a day trip long but doable, or better as a 2-day overnight trip." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Burabay National Park worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for scenery genuinely different from the steppe." } },
+                    { "@type": "Question", "name": "How far is Burabay from Astana?", "acceptedAnswer": { "@type": "Answer", "text": "About 3 hours each way." } }
+                ] },
+            };
+
+        case "astana-travel-guide-2026":
+            return {
+                title: "Astana Travel Guide 2026",
+                description: "What visitors need to know about Astana, Kazakhstan's futuristic capital.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/32e3be5ef75af5097044c7541b480e89ef8f9efb53bf2bce40b9e798b767ffc6.jpg",
+                sections: [
+                    { title: "Why Visit", content: "Astana (also known as Nur-Sultan in recent years) is known for its dramatic modern architecture — Baiterek Tower, the Khan Shatyr tent, and a skyline built largely since 1997 when it became the capital." }
+                ],
+                faqs: [
+                    { q: "Is Astana worth visiting?", a: "Yes, for its dramatic modern architecture, built almost entirely since it became the capital in 1997." }
+                ],
+            };
+
+        case "best-time-to-visit-astana":
+            return {
+                title: "Best Time to Visit Astana",
+                description: "Astana has one of the most extreme climates of any capital city — timing matters a lot here.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/32e3be5ef75af5097044c7541b480e89ef8f9efb53bf2bce40b9e798b767ffc6.jpg",
+                sections: [
+                    { title: "Weather Patterns", content: "Summers (June-August) are warm and the best time for outdoor sightseeing and Burabay day trips. Winters are brutally cold, often well below -20°C, though the illuminated skyline still has its own appeal for those who don't mind the cold." }
+                ],
+                faqs: [
+                    { q: "What is the best time to visit Astana?", a: "June to August for warm weather suited to outdoor sightseeing and day trips." }
+                ],
+            };
+
         default:
             return null;
     }
