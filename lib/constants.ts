@@ -1875,6 +1875,8 @@ export const ABU_DHABI_INFO_SLUGS = [
   'abu-dhabi-2-day-itinerary',
   'abu-dhabi-falcon-hospital-guide', 'abu-dhabi-mangrove-kayaking-guide',
   'abu-dhabi-louvre-catamaran-guide', 'is-heritage-village-worth-it-abu-dhabi',
+  'is-al-forsan-sports-pass-worth-it-abu-dhabi', 'is-emirati-dining-experience-worth-it-abu-dhabi',
+  'is-exclusive-helicopter-tour-worth-it-abu-dhabi',
 ];
 
 // Vietnam authority pages (2026-09)

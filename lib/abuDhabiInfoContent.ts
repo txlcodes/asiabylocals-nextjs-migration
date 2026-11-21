@@ -615,6 +615,69 @@ export function getAbuDhabiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-al-forsan-sports-pass-worth-it-abu-dhabi":
+      return {
+        title: "Is the Al Forsan Multi-Activity Sports Pass Worth It in Abu Dhabi?",
+        description: "An honest look at Al Forsan's multi-activity sports pass in Abu Dhabi, a land-based adventure cluster distinct from the city's desert safari and mosque sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1466909/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Al Forsan packs karting, horse riding, and other sports into one multi-activity pass, a genuinely different format from Abu Dhabi's usual desert safari and cultural sightseeing — good for travelers who want variety and activity rather than a single guided excursion.",
+            tourCard: { slug: "abu-dhabi-al-forsan-multi-activity-sports-pass", title: "Abu Dhabi: Al Forsan Multi-Activity Sports Pass", description: "A multi-activity sports pass at Al Forsan covering several activities in one visit.", price: "From $245", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1466909/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check exactly which activities are included in your specific pass tier, since Al Forsan offers several different combinations at different price points.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Al Forsan sports pass worth it in Abu Dhabi?", a: "Yes, for travelers wanting a varied, activity-packed day, genuinely different from the city's usual desert safari and sightseeing tours." },
+        ],
+      };
+
+    case "is-emirati-dining-experience-worth-it-abu-dhabi":
+      return {
+        title: "Is the Emirati Dining Experience Worth It in Abu Dhabi?",
+        description: "An honest look at Abu Dhabi's Emirati dining experience, a dedicated cultural meal distinct from the city's usual restaurant and hotel dining.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788902358/asiabylocals/tours/abu-dhabi-emirati-dining-experience/img1.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This dining experience focuses specifically on traditional Emirati cuisine and hospitality customs, a genuine cultural meal rather than just another restaurant stop, worth it for travelers wanting to understand local food traditions beyond international hotel dining.",
+            tourCard: { slug: "abu-dhabi-emirati-dining-experience", title: "Abu Dhabi: Emirati Dining Experience", description: "A traditional Emirati cultural dining experience in Abu Dhabi.", price: "From $49", duration: "Flexible", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788902358/asiabylocals/tours/abu-dhabi-emirati-dining-experience/img1.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with an appetite for trying unfamiliar dishes — the point is experiencing genuine Emirati cuisine rather than a westernized version.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Emirati dining experience worth it in Abu Dhabi?", a: "Yes, for genuine insight into local food traditions and hospitality customs, distinct from standard hotel or restaurant dining." },
+        ],
+      };
+
+    case "is-exclusive-helicopter-tour-worth-it-abu-dhabi":
+      return {
+        title: "Is the Exclusive Helicopter Tour Worth It in Abu Dhabi?",
+        description: "An honest look at Abu Dhabi's 30-minute exclusive helicopter tour, a premium aerial sightseeing option distinct from the city's ground-based mosque and museum tours.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-466622/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This exclusive helicopter flight gives private aerial views over the Sheikh Zayed Grand Mosque, the Corniche, and the city skyline, a genuinely premium perspective that no ground tour can match — priced accordingly as a top-tier splurge activity.",
+            tourCard: { slug: "abu-dhabi-30min-exclusive-helicopter-tour", title: "Abu Dhabi: 30-Min Exclusive Helicopter Tour", description: "An exclusive 30-minute private helicopter tour over Abu Dhabi's landmarks.", price: "From $2303", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-466622/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is priced as an exclusive, likely private charter rather than a shared-seat flight — confirm exactly what 'exclusive' includes before booking given the premium price.",
+          },
+        ],
+        faqs: [
+          { q: "Is the exclusive helicopter tour worth it in Abu Dhabi?", a: "Yes, for travelers seeking a premium, private aerial view of the city's landmarks, though it's a significant splurge." },
+        ],
+      };
+
     default:
       return null;
   }

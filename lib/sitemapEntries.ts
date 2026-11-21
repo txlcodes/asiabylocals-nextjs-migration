@@ -1365,7 +1365,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'getting-around-abu-dhabi',
     'abu-dhabi-2-day-itinerary',
     'abu-dhabi-falcon-hospital-guide', 'abu-dhabi-mangrove-kayaking-guide',
-    'abu-dhabi-louvre-catamaran-guide', 'is-heritage-village-worth-it-abu-dhabi'].map(slug => ({
+    'abu-dhabi-louvre-catamaran-guide', 'is-heritage-village-worth-it-abu-dhabi',
+    'is-al-forsan-sports-pass-worth-it-abu-dhabi', 'is-emirati-dining-experience-worth-it-abu-dhabi',
+    'is-exclusive-helicopter-tour-worth-it-abu-dhabi'].map(slug => ({
     url: `${BASE_URL}/uae/abu-dhabi/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
