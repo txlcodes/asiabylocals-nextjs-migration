@@ -1498,6 +1498,8 @@ export const OSAKA_INFO_SLUGS = [
   'best-tours-in-osaka',
   'should-i-book-osaka-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-osaka',
+  'is-cup-noodles-museum-worth-it-osaka', 'is-koshien-baseball-tour-worth-it-osaka',
+  'is-ninja-experience-worth-it-osaka',
 ];
 
 export const KASHMIR_INFO_SLUGS = [

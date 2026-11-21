@@ -2060,6 +2060,66 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "is-cup-noodles-museum-worth-it-osaka":
+      return {
+        title: "Is the Cup Noodles Museum Worth It in Osaka?",
+        description: "An honest look at Osaka's Cup Noodles Museum guided tour, where you make your own cup, a genuinely unique attraction distinct from the city's castle and food-tour sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/cup-noodles-museum-guided-tour-90-minutes-in-osaka/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Cup Noodles Museum covers the invention and history of instant ramen, and this guided visit lets you design and make your own personalized cup noodle to take home — a genuinely fun, hands-on attraction distinct from Osaka's castle and food-tour sightseeing.",
+            tourCard: { slug: "cup-noodles-museum-guided-tour-90-minutes-in-osaka", title: "Cup Noodles Museum Guided Tour (90 Minutes) in Osaka", description: "A 90-minute guided tour of the Cup Noodles Museum including making your own cup noodle.", price: "From $108", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/cup-noodles-museum-guided-tour-90-minutes-in-osaka/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A fun activity for families or anyone who grew up eating instant ramen — the personalized cup you design makes a memorable, edible souvenir." },
+        ],
+        faqs: [
+          { q: "Is the Cup Noodles Museum worth it in Osaka?", a: "Yes, for a genuinely fun, hands-on attraction where you design your own cup noodle, distinct from the city's usual sightseeing." },
+        ],
+      };
+
+    case "is-koshien-baseball-tour-worth-it-osaka":
+      return {
+        title: "Is the Koshien Baseball Pilgrimage Tour Worth It in Osaka?",
+        description: "An honest look at Osaka's Koshien Stadium baseball pilgrimage tour, a must for baseball fans and distinct from the city's usual temple and food sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/baseball-pilgrimage-guided-tour-of-iconic-koshien-in-osaka/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Koshien Stadium is a legendary site in Japanese baseball, especially for the national high school tournament, and this guided tour gives real insight into the stadium's history and significance — worth it specifically for baseball fans, a niche but genuine interest distinct from Osaka's usual sightseeing.",
+            tourCard: { slug: "baseball-pilgrimage-guided-tour-of-iconic-koshien-in-osaka", title: "Baseball Pilgrimage: Guided Tour of Iconic Koshien in Osaka", description: "A guided baseball pilgrimage tour of the iconic Koshien Stadium.", price: "From $179", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/baseball-pilgrimage-guided-tour-of-iconic-koshien-in-osaka/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This appeals specifically to baseball fans — check if a game is scheduled during your visit for an even fuller experience." },
+        ],
+        faqs: [
+          { q: "Is the Koshien baseball tour worth it in Osaka?", a: "Yes, for genuine baseball fans wanting real insight into this legendary stadium's history and significance." },
+        ],
+      };
+
+    case "is-ninja-experience-worth-it-osaka":
+      return {
+        title: "Is the Iga Ninja Experience Worth It from Osaka?",
+        description: "An honest look at the full-day private ninja experience in Iga from Osaka, a genuinely unique hands-on activity distinct from the city's castle and food-tour sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/iga-full-day-private-and-unique-guided-ninja-experience-in-osaka/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Iga is historically one of Japan's two main ninja regions, and this full-day private experience teaches genuine ninja history and skills at the source — a completely different kind of day from Osaka Castle and Dotonbori food crawls, worth the day trip specifically for this unique niche interest.",
+            tourCard: { slug: "iga-full-day-private-and-unique-guided-ninja-experience-in-osaka", title: "Iga: Full-Day Private and Unique Guided Ninja Experience", description: "A full-day private ninja experience in Iga, one of Japan's historic ninja regions.", price: "From $568", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/iga-full-day-private-and-unique-guided-ninja-experience-in-osaka/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Since this is priced on the instructor's specific skill rather than general guiding, expect a premium cost reflecting the specialized, hands-on nature of the experience." },
+        ],
+        faqs: [
+          { q: "Is the Iga ninja experience worth it from Osaka?", a: "Yes, for a genuinely unique hands-on experience at the historical source of ninja culture, though it's a premium full-day commitment." },
+        ],
+      };
+
     default:
             return null;
     }

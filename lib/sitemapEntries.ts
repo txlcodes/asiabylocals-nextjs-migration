@@ -1236,6 +1236,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'osaka-kimono-rental-guide',
     'best-tours-in-osaka', 'should-i-book-osaka-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-osaka',
+    'is-cup-noodles-museum-worth-it-osaka', 'is-koshien-baseball-tour-worth-it-osaka',
+    'is-ninja-experience-worth-it-osaka',
 ].map(slug => ({
     url: `${BASE_URL}/japan/osaka/${slug}`,
     lastModified: new Date(),
