@@ -563,6 +563,114 @@ export function getMongoliaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-terelj-genghis-khan-statue-day-tour-worth-it-ulaanbaatar":
+            return {
+                title: "Is the Genghis Khan Statue and Terelj National Park Day Tour Worth It?",
+                seoTitle: "Genghis Khan Statue Terelj Tour 2026 | Honest Review",
+                description: "An honest look at Ulaanbaatar's most popular day tour, combining the giant Genghis Khan equestrian statue with Gorkhi-Terelj National Park's countryside scenery.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fe1b9ef808a184a989e3a517f90192f561559f0eb47160a64dc927b159fb2e6f.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This is easily the single most popular day trip out of Ulaanbaatar, pairing the 40-metre steel Genghis Khan equestrian statue with Gorkhi-Terelj National Park's rock formations and steppe scenery in one manageable 8-hour outing.", tourCard: { slug: "genghis-khan-statue-and-terelj-national-park-day", title: "Genghis Khan Statue and Terelj National Park Day Tour", description: "A day tour combining the Genghis Khan statue with Terelj National Park.", price: "From $143", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fe1b9ef808a184a989e3a517f90192f561559f0eb47160a64dc927b159fb2e6f.jpg" } },
+                    { title: "Practical Tips", content: "A good first-day pick straight off a flight — it covers Mongolia's two biggest near-city draws without an overnight commitment." }
+                ],
+                faqs: [
+                    { q: "Is this the best first day trip from Ulaanbaatar?", a: "Yes, it's the single most popular option, covering both the giant Genghis Khan statue and Terelj's countryside in one day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Genghis Khan statue and Terelj day tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for Mongolia's two biggest near-city draws in a single manageable day." } }
+                ] },
+            };
+
+        case "is-gobi-desert-tour-worth-it-ulaanbaatar":
+            return {
+                title: "Is the Gobi Desert Multi-Day Tour Worth It from Ulaanbaatar?",
+                seoTitle: "Gobi Desert Tour Mongolia 2026 | Honest Review",
+                description: "An honest look at the 8-day Gobi and Central Mongolia tour, a serious multi-day expedition into sand dunes and desert landscapes far beyond the capital.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/496e4dbbc3b72fb0378f02c6d28d32cf601120de531cda0404ca88198df370b4.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Gobi is several days' drive from Ulaanbaatar, so this 8-day itinerary through central Mongolia and the Gobi's sand dunes is a genuinely different trip from the Terelj day tours near the capital, aimed at travellers with real time to spend on Mongolia's vast landscapes.", tourCard: { slug: "8-day-gobi-and-central-mongolia", title: "8-Day Gobi and Central Mongolia", description: "An 8-day tour through central Mongolia and the Gobi Desert.", price: "From $3640", duration: "8 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/496e4dbbc3b72fb0378f02c6d28d32cf601120de531cda0404ca88198df370b4.jpg" } },
+                    { title: "Practical Tips", content: "Long driving days between sights are standard on any Gobi itinerary — this is a landscape trip, not a packed sightseeing schedule." }
+                ],
+                faqs: [
+                    { q: "How far is the Gobi Desert from Ulaanbaatar?", a: "Several days' drive, which is why a proper Gobi tour runs a week or more rather than a day trip from the capital." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Gobi Desert tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travellers with real time to spend on Mongolia's vast landscapes beyond the capital's day-trip range." } }
+                ] },
+            };
+
+        case "is-khuvsgul-lake-tour-worth-it-ulaanbaatar":
+            return {
+                title: "Is the Lake Khuvsgul Tour Worth It from Ulaanbaatar?",
+                seoTitle: "Lake Khuvsgul Mongolia 2026 | Honest Review",
+                description: "An honest look at the 11-day Lake Khuvsgul tour, reaching Mongolia's 'Blue Pearl' in the far north near the Russian border.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e651e09947e163d5df1c8a7ae0968153657e8d98a29ca0bf4fdd95bb07178ce4.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Lake Khuvsgul sits in Mongolia's far north near the Russian border, one of the world's largest freshwater lakes by volume and nicknamed the 'Blue Pearl' for its clarity — this 11-day itinerary is a serious commitment given the distance, but reaches a landscape nothing closer to Ulaanbaatar can match.", tourCard: { slug: "lake-khuvsgul-escape-explore-mongolias-blue-pearl", title: "Lake Khuvsgul Escape: Explore Mongolia's Blue Pearl", description: "An 11-day tour to Lake Khuvsgul in northern Mongolia.", price: "From $2660", duration: "11 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e651e09947e163d5df1c8a7ae0968153657e8d98a29ca0bf4fdd95bb07178ce4.jpg" } },
+                    { title: "Practical Tips", content: "Given the 11-day length, this suits travellers on a dedicated Mongolia trip rather than a short add-on stop." }
+                ],
+                faqs: [
+                    { q: "Why does the Lake Khuvsgul tour take so long?", a: "The lake sits in Mongolia's far north near Russia, a serious distance from Ulaanbaatar that this 11-day itinerary accounts for." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Lake Khuvsgul tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a landscape nothing closer to Ulaanbaatar can match, though it's a real time commitment given the distance." } }
+                ] },
+            };
+
+        case "is-kharkhorin-ancient-capital-tour-worth-it-ulaanbaatar":
+            return {
+                title: "Is the Kharkhorin Ancient Capital Tour Worth It from Ulaanbaatar?",
+                seoTitle: "Kharkhorin Tour Mongolia 2026 | Honest Review",
+                description: "An honest look at the 2-day tour to Kharkhorin, the 13th-century capital of the Mongol Empire, paired with the semi-Gobi steppe.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ce06d771be76c41744fb2ebd2edc3d72913fc2027b85d2183ad5b55ff0482bf2.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Kharkhorin was the capital of the Mongol Empire under Genghis Khan's successors, and this 2-day tour pairs the historic site and the Erdene Zuu monastery with a stretch of semi-Gobi steppe scenery, a genuinely different pairing from the more common Terelj day trips.", tourCard: { slug: "from-ub-old-capital-kharkhorin-and-semi-gobi-2", title: "From UB: Old Capital Kharkhorin and Semi-Gobi 2-Day Tour", description: "A 2-day tour to the ancient Mongol capital of Kharkhorin with semi-Gobi steppe.", price: "From $455", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ce06d771be76c41744fb2ebd2edc3d72913fc2027b85d2183ad5b55ff0482bf2.jpg" } },
+                    { title: "Practical Tips", content: "A good pick for travellers with a genuine historical interest in the Mongol Empire rather than just countryside scenery." }
+                ],
+                faqs: [
+                    { q: "What is Kharkhorin known for?", a: "It was the 13th-century capital of the Mongol Empire under Genghis Khan's successors, now home to the historic Erdene Zuu monastery." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Kharkhorin tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travellers with a genuine historical interest in the Mongol Empire's former capital, paired with semi-Gobi scenery." } }
+                ] },
+            };
+
+        case "is-cow-herding-experience-worth-it-ulaanbaatar":
+            return {
+                title: "Is the Nomadic Cow-Herding Experience Worth It near Ulaanbaatar?",
+                seoTitle: "Mongolia Cow Herding Experience 2026 | Honest Review",
+                description: "An honest look at the 5-day nomadic cow-herding experience, a hands-on stay with a herding family distinct from a scripted cultural show.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/33479c5e472767f42146e226d38a0be106166bd3181240eae623465ed40534e7.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Unlike a scripted nomadic cultural show performed for visitors, this 5-day stay has you actually working alongside a herding family on their daily routine, a genuinely hands-on rather than observational introduction to nomadic life.", tourCard: { slug: "nomadic-cow-herding-experience-tour-5-days", title: "Nomadic Cow-Herding Experience Tour, 5 Days", description: "A 5-day hands-on stay with a nomadic cow-herding family.", price: "From $2925", duration: "5 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/33479c5e472767f42146e226d38a0be106166bd3181240eae623465ed40534e7.jpg" } },
+                    { title: "Practical Tips", content: "Expect genuine physical work and basic ger accommodation — this is a participatory experience, not a comfortable countryside retreat." }
+                ],
+                faqs: [
+                    { q: "Is this different from a nomadic cultural show?", a: "Yes, significantly — this has you actually working with a herding family's daily routine rather than watching a scripted performance." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the cow-herding experience worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travellers wanting a genuinely hands-on, participatory introduction to nomadic life rather than a scripted show." } }
+                ] },
+            };
+
+        case "is-terelj-zipline-worth-it-ulaanbaatar":
+            return {
+                title: "Is the Terelj Zipline and Stargazing Tour Worth It?",
+                seoTitle: "Terelj Zipline Mongolia 2026 | Honest Review",
+                description: "An honest look at the 2-day Terelj zipline, horse riding, and stargazing tour, an adrenaline-and-countryside combo distinct from a standard Terelj sightseeing day trip.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7c8ceab9948d94601f7d44632537d961e22aa220724359e6ecaf4f502f569437.png",
+                sections: [
+                    { title: "The Short Answer", content: "This 2-day package adds a zipline and horse riding on top of an overnight ger stay in Terelj National Park, plus Mongolia's famously dark, light-pollution-free night skies for stargazing — a more activity-packed version of the standard Terelj day trip.", tourCard: { slug: "terelj-2-day-zipline-horse-riding-stargazing-ger", title: "Terelj 2-Day Zipline, Horse Riding, Stargazing & Ger Stay", description: "A 2-day Terelj tour with zipline, horse riding, and stargazing.", price: "From $595", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7c8ceab9948d94601f7d44632537d961e22aa220724359e6ecaf4f502f569437.png" } },
+                    { title: "Practical Tips", content: "The overnight ger stay means genuinely dark skies away from city light pollution — bring warm layers even in summer, as Terelj nights get cold." }
+                ],
+                faqs: [
+                    { q: "Is this different from a standard Terelj day trip?", a: "Yes, it adds a zipline, horse riding, and an overnight stay for proper stargazing, versus a standard single-day sightseeing visit." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Terelj zipline and stargazing tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a more activity-packed overnight version of the standard Terelj day trip, with genuinely dark skies for stargazing." } }
+                ] },
+            };
+
         default:
             return null;
     }

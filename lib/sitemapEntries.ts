@@ -657,6 +657,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-chinggis-khaan-museum-worth-it-ulaanbaatar', 'is-nomadic-cultural-show-worth-it-ulaanbaatar',
     'is-bogd-khan-mountain-hike-worth-it-ulaanbaatar', 'is-aglag-monastery-tour-worth-it-ulaanbaatar',
     'is-altai-horse-trek-worth-it-ulaanbaatar',
+    'is-terelj-genghis-khan-statue-day-tour-worth-it-ulaanbaatar', 'is-gobi-desert-tour-worth-it-ulaanbaatar',
+    'is-khuvsgul-lake-tour-worth-it-ulaanbaatar', 'is-kharkhorin-ancient-capital-tour-worth-it-ulaanbaatar',
+    'is-cow-herding-experience-worth-it-ulaanbaatar', 'is-terelj-zipline-worth-it-ulaanbaatar',
   ], 'mongolia', 'ulaanbaatar');
   const jerusalemInfoPages = mapInfoSlugs([
     'best-old-city-tour-jerusalem', 'best-bethlehem-day-trip-jerusalem',
