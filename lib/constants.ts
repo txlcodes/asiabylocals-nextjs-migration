@@ -1142,6 +1142,7 @@ export const KRABI_INFO_SLUGS = [
   'how-much-should-a-private-tour-guide-cost-in-krabi',
   'best-phi-phi-islands-tour-krabi', 'is-emerald-pool-hot-springs-tour-worth-it-krabi',
   'is-ethical-elephant-sanctuary-worth-it-krabi',
+  'is-zipline-adventure-worth-it-krabi', 'is-freediving-course-worth-it-krabi',
 ];
 // Re-add a slug here ONLY once its page exists in lib/tokyoInfoContent.ts.
 // Registering a slug without content ships a live, indexable page that renders

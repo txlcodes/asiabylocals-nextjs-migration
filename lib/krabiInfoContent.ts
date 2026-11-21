@@ -636,6 +636,44 @@ export function getKrabiInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-zipline-adventure-worth-it-krabi":
+            return {
+                title: "Is the Zipline Adventure Worth It in Krabi?",
+                seoTitle: "Krabi Zipline Adventure 2026 | Honest Review",
+                description: "An honest look at Krabi's canopy zipline courses above Ao Nang, short adventure add-ons rather than all-day excursions.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/10-line-zipline-adventure-with-80m-double-and-high-zip-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Krabi's zipline courses run through canopy platforms on the hills behind Ao Nang, with coastline views and no climbing experience needed. This 10-line version with an 80-metre double zip takes about half an hour, making it an easy add-on before or after a beach day rather than a full excursion.", tourCard: { slug: "10-line-zipline-adventure-with-80m-double-and-high-zip-in-krabi", title: "10-Line Zipline Adventure with 80m Double and High Zip in Krabi", description: "A fast-paced ten-line canopy zipline course above Ao Nang.", price: "From $45", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/10-line-zipline-adventure-with-80m-double-and-high-zip-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Half an hour on the lines is short enough to slot in either side of a longer island or boat trip the same day." }
+                ],
+                faqs: [
+                    { q: "Is the Krabi zipline worth it?", a: "Yes, as a quick half-hour adventure add-on with coastline views above Ao Nang, not a full-day activity." },
+                    { q: "Do I need experience to try the Krabi zipline?", a: "No, guides clip you in at every platform and no prior experience or climbing strength is needed." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Krabi zipline worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a quick half-hour canopy adventure above Ao Nang." } }
+                ] },
+            };
+
+        case "is-freediving-course-worth-it-krabi":
+            return {
+                title: "Is the Freediving Course Worth It in Krabi?",
+                seoTitle: "Krabi Freediving Course 2026 | Honest Review",
+                description: "An honest look at Krabi's AIDA Discover Freediving course, a structured introduction to breath-hold diving rather than a casual snorkel stop.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/1-or-2-day-aida-discover-freediving-course-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This AIDA Discover course covers theory, mobility and breath-hold sessions in confined water, a genuine introduction to freediving technique rather than a quick try-dive. Worth it if you want to actually learn the sport, not just float with a mask on.", tourCard: { slug: "1-or-2-day-aida-discover-freediving-course-in-krabi", title: "1- or 2-Day AIDA Discover Freediving Course in Krabi", description: "A structured AIDA Discover Freediving course with theory and breath-hold training.", price: "From $303", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/1-or-2-day-aida-discover-freediving-course-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "The 1-day format covers the core skills; the 2-day version adds more supervised practice if you want to build confidence before trying it in open water." }
+                ],
+                faqs: [
+                    { q: "Is the Krabi freediving course worth it?", a: "Yes, if you want a real introduction to freediving technique with proper theory and breath-hold training, not just a casual snorkel." },
+                    { q: "Do I need swimming experience for the Krabi freediving course?", a: "Being a comfortable swimmer helps, but the course starts from theory and basic confined-water breath-hold sessions." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Krabi freediving course worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a structured introduction to freediving technique." } }
+                ] },
+            };
+
         default:
             return null;
     }

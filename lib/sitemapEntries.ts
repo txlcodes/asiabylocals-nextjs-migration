@@ -1088,6 +1088,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'how-much-should-a-private-tour-guide-cost-in-krabi',
     'best-phi-phi-islands-tour-krabi', 'is-emerald-pool-hot-springs-tour-worth-it-krabi',
     'is-ethical-elephant-sanctuary-worth-it-krabi',
+    'is-zipline-adventure-worth-it-krabi', 'is-freediving-course-worth-it-krabi',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/krabi/${slug}`,
     lastModified: new Date(),
