@@ -287,6 +287,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'how-much-should-a-private-tour-guide-cost-in-male',
     'maldives-submarine-tour-guide', 'male-atoll-surf-trip-guide',
     'island-to-island-zipline-adventure-guide',
+    'is-maldivian-food-experience-worth-it-male', 'is-cat-island-tour-worth-it-male',
   ].map(slug => ({
     url: `${BASE_URL}/maldives/male/${slug}`,
     lastModified: new Date(),

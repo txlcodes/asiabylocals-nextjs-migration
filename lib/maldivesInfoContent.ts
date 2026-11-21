@@ -744,6 +744,46 @@ export function getMaldivesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-maldivian-food-experience-worth-it-male":
+      return {
+        title: "Is the 6-Course Maldivian Food Experience Worth It?",
+        description: "An honest look at the 6-Course Maldivian Food Experience, a dedicated tasting of local cuisine beyond resort buffets.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/aa9f9f2905dbd3dadd22512f922347d036d3a91834bea03b315c226aa15fb271.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Most visitors never taste genuine Maldivian cuisine beyond resort-buffet versions — this 6-course tasting covers authentic local dishes directly, a genuinely different food experience from the international menus most resorts serve.",
+            tourCard: { slug: "maldives-6-course-maldivian-food-experience", title: "Maldives: 6-Course Maldivian Food Experience", description: "A 6-course tasting of authentic Maldivian cuisine.", price: "From $117", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/aa9f9f2905dbd3dadd22512f922347d036d3a91834bea03b315c226aa15fb271.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Maldivian cuisine leans heavily on fish, coconut, and chili — worth mentioning any spice sensitivity beforehand." },
+        ],
+        faqs: [
+          { q: "Is this different from resort food?", a: "Yes, resort buffets usually serve international menus — this experience focuses specifically on authentic Maldivian dishes." },
+        ],
+      };
+
+    case "is-cat-island-tour-worth-it-male":
+      return {
+        title: "Is the Local Cat Island Tour Worth It from Male?",
+        description: "An honest look at Male's local cat island visit, combined with guided snorkeling.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/758407f681c8812870a55ebce0294d115abb3d3769f626a420602627a2e19a4e.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This local island is known for its large resident cat population alongside normal island life, paired here with guided snorkeling — a quirky, genuinely different stop from the usual resort or sandbank day trip.",
+            tourCard: { slug: "male-visit-a-local-cat-island-with-guided", title: "Malé: Visit a Local Cat Island with Guided Snorkeling", description: "A visit to a local cat island with guided snorkeling.", price: "From $72", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/758407f681c8812870a55ebce0294d115abb3d3769f626a420602627a2e19a4e.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for cat lovers or families wanting a lighter, quirkier day alongside the snorkeling component." },
+        ],
+        faqs: [
+          { q: "Why is this island known for cats?", a: "It has a large resident cat population alongside normal local island life, a genuinely unusual draw." },
+        ],
+      };
+
     default:
       return null;
   }
