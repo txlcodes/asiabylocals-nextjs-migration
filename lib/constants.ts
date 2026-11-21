@@ -2158,6 +2158,9 @@ export const ULUWATU_INFO_SLUGS = [
   // Tour-selling page (2026-11-10)
   'best-kecak-dance-tour-uluwatu',
   'is-devdan-show-worth-it-uluwatu', 'is-tandem-paragliding-worth-it-uluwatu',
+  'is-kecak-sunset-temple-tour-worth-it-uluwatu', 'is-gwk-cultural-park-worth-it-uluwatu',
+  'is-tanjung-benoa-watersports-worth-it-uluwatu', 'is-surf-lessons-worth-it-uluwatu',
+  'is-nusa-dua-snorkeling-turtle-tour-worth-it-uluwatu',
 ];
 
 export const NUSA_PENIDA_INFO_SLUGS = [

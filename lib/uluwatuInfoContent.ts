@@ -1023,6 +1023,111 @@ export function getUluwatuInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-kecak-sunset-temple-tour-worth-it-uluwatu":
+      return {
+        title: "Is the Uluwatu Kecak Fire Dance Sunset Tour Worth It?",
+        description: "An honest look at the Uluwatu sunset temple tour with the Kecak fire dance, Bali's most famous clifftop temple paired with a traditional trance-fire performance.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sunset-temple-tour-in-uluwatu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Uluwatu Temple sits dramatically on a clifftop above the ocean, and timing a visit for sunset to catch the Kecak fire dance, a traditional trance performance with chanting and fire, makes this the single most popular evening activity in south Bali.",
+            tourCard: { slug: "sunset-temple-tour-in-uluwatu", title: "Sunset Temple Tour in Uluwatu", description: "A sunset tour of Uluwatu Temple with the Kecak fire dance.", price: "From $69", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sunset-temple-tour-in-uluwatu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Arrive early for a good seat, since this is genuinely one of the most popular evening activities in south Bali and seating can fill up." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the Kecak fire dance worth seeing at Uluwatu?", a: "Yes, it's the single most popular evening activity in south Bali, pairing a dramatic clifftop temple sunset with a traditional trance-fire performance." },
+        ],
+      };
+
+    case "is-gwk-cultural-park-worth-it-uluwatu":
+      return {
+        title: "Is the GWK Cultural Park Worth It near Uluwatu?",
+        description: "An honest look at Garuda Wisnu Kencana (GWK) Cultural Park, home to one of the tallest statues in the world and a Kecak dance performance venue.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bali-ultimate-gwk-experience-explore-museum-and-kecak-dance-uluwatu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "GWK Cultural Park holds the Garuda Wisnu Kencana statue, one of the tallest statues in the world, alongside a cultural museum and its own Kecak dance venue, making it a worthwhile full-day stop that combines a modern engineering landmark with traditional performance.",
+            tourCard: { slug: "bali-ultimate-gwk-experience-explore-museum-and-kecak-dance-uluwatu", title: "Bali: Ultimate GWK Experience, Museum and Kecak Dance", description: "A full-day visit to GWK Cultural Park including the museum and a Kecak dance show.", price: "From $114", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/bali-ultimate-gwk-experience-explore-museum-and-kecak-dance-uluwatu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The statue's full scale is best appreciated from the park's dedicated viewing plaza — budget time to walk the full grounds rather than rushing through." ,
+          },
+        ],
+        faqs: [
+          { q: "Is GWK Cultural Park worth visiting?", a: "Yes, for one of the tallest statues in the world alongside a cultural museum and its own Kecak dance performance venue." },
+        ],
+      };
+
+    case "is-tanjung-benoa-watersports-worth-it-uluwatu":
+      return {
+        title: "Is the Tanjung Benoa Watersports Package Worth It?",
+        description: "An honest look at the Tanjung Benoa watersports adventure, bundling multiple water activities like banana boat and jet ski into one package.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/exclusive-tanjung-benoa-watersports-adventure-in-uluwatu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Tanjung Benoa is south Bali's watersports hub, and these packages bundle several activities like banana boat rides, jet skiing, and parasailing into one booking, a genuinely efficient way to try multiple activities rather than booking each separately.",
+            tourCard: { slug: "exclusive-tanjung-benoa-watersports-adventure-in-uluwatu", title: "Exclusive Tanjung Benoa Watersports Adventure", description: "A bundled watersports package at Tanjung Benoa.", price: "From $12", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/exclusive-tanjung-benoa-watersports-adventure-in-uluwatu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Packages vary in which activities are included — confirm the exact lineup before booking if you have a specific activity you want to make sure is included." ,
+          },
+        ],
+        faqs: [
+          { q: "Is Tanjung Benoa watersports worth it?", a: "Yes, for an efficient way to try multiple water activities in one bundled package rather than booking each separately." },
+        ],
+      };
+
+    case "is-surf-lessons-worth-it-uluwatu":
+      return {
+        title: "Are Surf Lessons Worth It in Uluwatu?",
+        description: "An honest look at beginner and intermediate surf lessons in Uluwatu, one of the world's most famous surf destinations with breaks for every level.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/surf-lessons-beginner-intermediate-in-uluwatu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Uluwatu is one of the world's most famous surf destinations, but its main breaks are genuinely advanced — a proper lesson with an instructor who knows which specific beginner-friendly spots to use makes this accessible rather than intimidating for first-timers.",
+            tourCard: { slug: "surf-lessons-beginner-intermediate-in-uluwatu", title: "Surf Lessons: Beginner & Intermediate in Uluwatu", description: "Beginner and intermediate surf lessons in Uluwatu.", price: "From $53", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/surf-lessons-beginner-intermediate-in-uluwatu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Uluwatu's main reef breaks are genuinely advanced — make sure your lesson is at a beginner-appropriate spot, not the famous reef break itself." ,
+          },
+        ],
+        faqs: [
+          { q: "Can beginners surf in Uluwatu?", a: "Yes, with a proper lesson at the right beginner-friendly spot — the area's famous reef breaks themselves are genuinely advanced." },
+        ],
+      };
+
+    case "is-nusa-dua-snorkeling-turtle-tour-worth-it-uluwatu":
+      return {
+        title: "Is the Nusa Dua Snorkeling and Turtle Conservation Tour Worth It?",
+        description: "An honest look at the Nusa Dua snorkeling tour with a traditional boat and turtle conservation stop, pairing reef snorkeling with a hands-on conservation visit.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nusa-dua-snorkeling-traditional-boat-and-turtle-conservation-in-uluwatu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This pairs reef snorkeling off Nusa Dua with a stop at a turtle conservation site, giving a genuine wildlife and marine conservation angle alongside the usual beach and reef activities that dominate most south Bali itineraries.",
+            tourCard: { slug: "nusa-dua-snorkeling-traditional-boat-and-turtle-conservation-in-uluwatu", title: "Nusa Dua Snorkeling, Traditional Boat & Turtle Conservation", description: "A snorkeling tour with a turtle conservation stop near Nusa Dua.", price: "From $76", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/nusa-dua-snorkeling-traditional-boat-and-turtle-conservation-in-uluwatu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for families with kids, who often engage more with the hands-on turtle conservation stop than with reef snorkeling alone." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the Nusa Dua turtle conservation tour worth it?", a: "Yes, for a genuine wildlife conservation angle alongside standard reef snorkeling, and a good pick for families." },
+        ],
+      };
+
     default:
       return null;
   }
