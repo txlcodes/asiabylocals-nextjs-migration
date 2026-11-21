@@ -82,6 +82,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-old-delhi-tour', 'best-india-gate-tour', 'best-qutub-minar-tour',
     'best-akshardham-temple-tour-delhi', 'best-lotus-temple-tour-delhi',
     'best-red-fort-tour-delhi',
+    'is-humayuns-tomb-tour-worth-it-delhi', 'is-chandni-chowk-food-tour-worth-it-delhi',
+    'is-cooking-class-worth-it-delhi', 'is-lodhi-art-district-walk-worth-it-delhi',
   ].map(slug => ({
     url: `${BASE_URL}/india/delhi/${slug}`,
     lastModified: new Date(),

@@ -1225,6 +1225,86 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "is-humayuns-tomb-tour-worth-it-delhi":
+      return {
+        title: "Is the Humayun's Tomb Skip-the-Line Tour Worth It in Delhi?",
+        description: "An honest look at Humayun's Tomb, a UNESCO World Heritage Site and an architectural predecessor to the Taj Mahal.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-skip-the-line-humayuns-tomb-tour-with-hotel/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Humayun's Tomb is a UNESCO World Heritage Site and the Mughal garden-tomb style that directly influenced the Taj Mahal's design decades later — a genuinely significant site often skipped in favor of the Red Fort and Qutub Minar.",
+            tourCard: { slug: "delhi-skip-the-line-humayuns-tomb-tour-with-hotel", title: "Delhi: Skip-the-Line Humayun's Tomb Tour with Hotel Pick Up", description: "A skip-the-line tour of Humayun's Tomb with hotel pickup.", price: "From $37", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-skip-the-line-humayuns-tomb-tour-with-hotel/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Worth visiting before or after the Taj Mahal, since seeing the architectural predecessor adds context to the later, more famous monument." },
+        ],
+        faqs: [
+          { q: "Why is Humayun's Tomb significant?", a: "It's a UNESCO World Heritage Site and the Mughal garden-tomb style that directly influenced the Taj Mahal's design." },
+        ],
+      };
+
+    case "is-chandni-chowk-food-tour-worth-it-delhi":
+      return {
+        title: "Is the Chandni Chowk Food Tour Worth It in Delhi?",
+        description: "An honest look at the Chandni Chowk Old Delhi food tour with a local guide.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/chandni-chowk-old-delhi-food-tour-with-local-guide/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Chandni Chowk, one of India's oldest and busiest markets, is best navigated with a local guide who knows which centuries-old stalls are worth the stop — genuinely overwhelming and disorienting without one.",
+            tourCard: { slug: "chandni-chowk-old-delhi-food-tour-with-local-guide", title: "Chandni Chowk Old Delhi Food Tour with Local Guide", description: "A food tour through Chandni Chowk with a local guide.", price: "From $7", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/chandni-chowk-old-delhi-food-tour-with-local-guide/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go hungry and wear comfortable shoes — the market's narrow lanes involve a lot of walking between stalls." },
+        ],
+        faqs: [
+          { q: "Is the Chandni Chowk food tour worth it?", a: "Yes, at a very low price, and a guide makes this chaotic, historic market far easier to navigate." },
+        ],
+      };
+
+    case "is-cooking-class-worth-it-delhi":
+      return {
+        title: "Is an Indian Cooking Class Worth It in Delhi?",
+        description: "An honest look at Delhi's Indian cooking class held in a local home with a meal.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-indian-cooking-class-in-local-home-with-meal/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cooking at a local home rather than a commercial kitchen gives genuine insight into everyday Indian cooking, not just restaurant dishes — a relaxed cultural activity to pair with Delhi's monument-heavy sightseeing.",
+            tourCard: { slug: "delhi-indian-cooking-class-in-local-home-with-meal", title: "Delhi: Indian Cooking Class in Local Home with Meal", description: "An Indian cooking class in a local home with a meal.", price: "From $35", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-indian-cooking-class-in-local-home-with-meal/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good evening activity after a day of temple and fort sightseeing, since it's lower-effort and ends with a meal." },
+        ],
+        faqs: [
+          { q: "Is an Indian cooking class worth it in Delhi?", a: "Yes, especially at a local home, which gives genuine insight beyond restaurant-style dishes." },
+        ],
+      };
+
+    case "is-lodhi-art-district-walk-worth-it-delhi":
+      return {
+        title: "Is the Lodhi Art District Street Art Walk Worth It in Delhi?",
+        description: "An honest look at Delhi's Lodhi Art District, India's first open-air public art district.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-street-art-walk-lodhi-art-district-urban/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Lodhi Art District is India's first open-air public art district, with large-scale murals covering residential buildings by artists from India and abroad — a modern, visually striking contrast to Delhi's historical monuments.",
+            tourCard: { slug: "delhi-street-art-walk-lodhi-art-district-urban", title: "Delhi Street Art Walk: Lodhi Art District & Urban Stories", description: "A street art walk through the Lodhi Art District.", price: "From $37", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-street-art-walk-lodhi-art-district-urban/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good break from monument-heavy sightseeing, and a genuinely photogenic contrast to Delhi's Mughal-era architecture." },
+        ],
+        faqs: [
+          { q: "What is the Lodhi Art District?", a: "India's first open-air public art district, featuring large-scale murals by Indian and international artists." },
+        ],
+      };
+
     default:
       return null;
   }
