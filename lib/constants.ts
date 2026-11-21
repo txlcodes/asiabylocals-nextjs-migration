@@ -1407,6 +1407,7 @@ export const SIGIRIYA_INFO_SLUGS = [
   'best-time-to-visit-sigiriya', 'getting-around-sigiriya', 'polonnaruwa-guide', 'anuradhapura-guide',
   'is-pidurangala-rock-worth-it-sigiriya', 'is-kaudulla-safari-worth-it-sigiriya',
   'is-cooking-class-worth-it-sigiriya', 'is-village-tour-worth-it-sigiriya',
+  'is-trincomalee-day-trip-worth-it-sigiriya', 'is-mihintale-tour-worth-it-sigiriya',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/kandyInfoContent.ts.

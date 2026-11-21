@@ -961,6 +961,46 @@ export function getSigiriyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-trincomalee-day-trip-worth-it-sigiriya":
+      return {
+        title: "Is the Trincomalee Day Trip Worth It from Sigiriya?",
+        description: "An honest look at the Trincomalee temples day trip from Sigiriya, a coastal city distinct from the inland Cultural Triangle ruins.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1241747/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Trincomalee, on Sri Lanka's east coast, offers temples and coastal scenery genuinely different from the inland ancient ruins at Sigiriya, Polonnaruwa, and Anuradhapura — a long but worthwhile day trip for travelers wanting coastal variety alongside the Cultural Triangle.",
+            tourCard: { slug: "day-trip-from-sigiriya-to-trincomalee-temples", title: "Day Trip from Sigiriya to Trincomalee Temples", description: "A day trip to Trincomalee's coastal temples from Sigiriya.", price: "From $203", duration: "12 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1241747/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a long 12-hour day given the distance to the east coast, so budget the full day rather than combining it with other sightseeing." },
+        ],
+        faqs: [
+          { q: "Is the Trincomalee day trip worth it from Sigiriya?", a: "Yes, for coastal temple scenery genuinely different from the inland Cultural Triangle ruins, though it's a long day trip." },
+        ],
+      };
+
+    case "is-mihintale-tour-worth-it-sigiriya":
+      return {
+        title: "Is the Mihintale Sacred Site Tour Worth It from Sigiriya?",
+        description: "An honest look at the Dambulla, Sigiriya, Anuradhapura, and Mihintale tour, visiting the birthplace of Buddhism in Sri Lanka.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-891820/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mihintale is considered the birthplace of Buddhism in Sri Lanka, a genuinely significant pilgrimage site that's often overlooked next to the bigger-name Sigiriya rock and Dambulla caves — this combo tour adds it alongside Anuradhapura for a deeper historical day.",
+            tourCard: { slug: "dambullasigiriya-anuradhapura-and-mihintale", title: "Dambulla, Sigiriya, Anuradhapura & Mihintale Tour", description: "A combo tour covering Dambulla, Sigiriya, Anuradhapura, and Mihintale.", price: "From $214", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-891820/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mihintale involves climbing a long flight of stone steps, so wear comfortable shoes and expect some physical effort." },
+        ],
+        faqs: [
+          { q: "Is the Mihintale tour worth it from Sigiriya?", a: "Yes, for visiting the birthplace of Buddhism in Sri Lanka, a significant site often overlooked next to Sigiriya's bigger-name ruins." },
+        ],
+      };
+
     default:
       return null;
   }
