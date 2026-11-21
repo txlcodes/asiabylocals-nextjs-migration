@@ -2069,6 +2069,9 @@ export const SAPA_INFO_SLUGS = [
   'best-motorbike-tour-sapa',
   'is-ha-giang-loop-worth-it-sapa', 'is-paragliding-worth-it-sapa',
   'is-trail-running-tour-worth-it-sapa',
+  'is-fansipan-summit-trek-worth-it-sapa', 'is-lao-chai-ta-van-trek-worth-it-sapa',
+  'is-mu-cang-chai-trek-worth-it-sapa', 'is-red-dao-herbal-bath-worth-it-sapa',
+  'is-overnight-train-tour-worth-it-sapa',
 ];
 
 export const HOI_AN_INFO_SLUGS = [

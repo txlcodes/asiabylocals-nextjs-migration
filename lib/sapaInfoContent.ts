@@ -790,6 +790,111 @@ export function getSapaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-fansipan-summit-trek-worth-it-sapa":
+      return {
+        title: "Is the Fansipan Summit Trek Worth It?",
+        description: "An honest look at the 2-day trek to Fansipan, Indochina's highest peak, an alternative to the cable car for travelers wanting the full climb.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-day-trek-to-fansipan-indochina-s-highest-peak/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Fansipan is Indochina's highest peak, and while a cable car can get you to the summit in minutes, this 2-day trek is for travelers who want the genuine climbing achievement rather than the shortcut, with an overnight camp partway up.",
+            tourCard: { slug: "2-day-trek-to-fansipan-indochina-s-highest-peak", title: "2-Day Trek to Fansipan, Indochina's Highest Peak", description: "A 2-day guided trek to the summit of Fansipan.", price: "From $246", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/2-day-trek-to-fansipan-indochina-s-highest-peak/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuine physical challenge over 2 days — if you just want the summit views without the climb, the cable car is the far easier option." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the Fansipan trek harder than taking the cable car?", a: "Yes, significantly — the cable car reaches the summit in minutes, while this trek is a genuine 2-day physical challenge for those who want the climb itself." },
+        ],
+      };
+
+    case "is-lao-chai-ta-van-trek-worth-it-sapa":
+      return {
+        title: "Is the Lao Chai and Ta Van Village Trek Worth It?",
+        description: "An honest look at the guided day trek through the Lao Chai and Ta Van ethnic minority villages, Sapa's most classic valley trekking route.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/1-day-guided-trek-to-lao-chai-and-ta-van-with-lunch-in-sapa/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This route through the Muong Hoa Valley passes Hmong and Giay ethnic minority villages along terraced rice fields, widely considered Sapa's classic introductory trek, manageable in a single day without an overnight commitment.",
+            tourCard: { slug: "1-day-guided-trek-to-lao-chai-and-ta-van-with-lunch-in-sapa", title: "1-Day Guided Trek to Lao Chai and Ta Van with Lunch", description: "A guided day trek through the Lao Chai and Ta Van villages.", price: "From $80", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/1-day-guided-trek-to-lao-chai-and-ta-van-with-lunch-in-sapa/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good first trek in Sapa for travelers without the time or fitness for a multi-day homestay trek further out." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the Lao Chai and Ta Van trek worth it?", a: "Yes, it's widely considered Sapa's classic introductory trek, manageable in a single day with genuine ethnic minority village culture along the way." },
+        ],
+      };
+
+    case "is-mu-cang-chai-trek-worth-it-sapa":
+      return {
+        title: "Is the Mu Cang Chai Trek Worth It from Sapa?",
+        description: "An honest look at the Mu Cang Chai trek and homestay, a genuinely less-touristed rice terrace region beyond Sapa's more common valley routes.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-day-private-mu-cang-chai-trek-and-homestay-in-sapa/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mu Cang Chai is famous for some of Vietnam's most dramatic terraced rice fields, genuinely less touristed than Sapa's main valley routes, making this 2-day private trek with a homestay worth it for travelers who've already done the standard Sapa trek and want somewhere quieter.",
+            tourCard: { slug: "2-day-private-mu-cang-chai-trek-and-homestay-in-sapa", title: "2-Day Private Mu Cang Chai Trek and Homestay", description: "A 2-day private trek and homestay in the Mu Cang Chai rice terraces.", price: "From $551", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/2-day-private-mu-cang-chai-trek-and-homestay-in-sapa/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Rice terraces look most dramatic either during the May-June flooding season or the September-October golden harvest — time your trip around one of these windows if the scenery is the priority." ,
+          },
+        ],
+        faqs: [
+          { q: "Is Mu Cang Chai worth visiting instead of Sapa's main valley?", a: "Yes, for genuinely less-touristed rice terrace scenery, some of the most dramatic in Vietnam, if you've already done Sapa's standard routes." },
+        ],
+      };
+
+    case "is-red-dao-herbal-bath-worth-it-sapa":
+      return {
+        title: "Is the Red Dao Herbal Bath Worth It in Sapa?",
+        description: "An honest look at the Red Dao herbal bath and massage, a traditional ethnic minority wellness treatment paired with a trekking trip.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-day-trekking-tour-with-red-dao-herbal-bath-and-massage-in-sapa/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Red Dao ethnic minority group has a traditional herbal bath practice using a specific blend of forest leaves and roots, a genuine wellness tradition rather than a generic spa treatment, and a welcome way to recover after a day of trekking.",
+            tourCard: { slug: "2-day-trekking-tour-with-red-dao-herbal-bath-and-massage-in-sapa", title: "2-Day Trekking Tour with Red Dao Herbal Bath and Massage", description: "A 2-day trek including a traditional Red Dao herbal bath and massage.", price: "From $168", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/2-day-trekking-tour-with-red-dao-herbal-bath-and-massage-in-sapa/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A genuinely good way to recover after a full day of trekking — the specific herbal blend is unique to Red Dao tradition, not a generic spa treatment." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the Red Dao herbal bath worth it?", a: "Yes, it's a genuine ethnic minority wellness tradition using a specific herbal blend, a welcome way to recover after a trek." },
+        ],
+      };
+
+    case "is-overnight-train-tour-worth-it-sapa":
+      return {
+        title: "Is the Sapa Overnight Train Tour Worth It?",
+        description: "An honest look at the 2-day Sapa tour by overnight train, the classic way to reach Sapa from Hanoi without losing a day to driving.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-nights-2-days-sapa-tour-by-overnight-train/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The overnight train from Hanoi is the classic way travelers have reached Sapa for decades, sleeping through the roughly 8-hour journey rather than losing a full day to driving, and arriving refreshed and ready to start trekking.",
+            tourCard: { slug: "2-nights-2-days-sapa-tour-by-overnight-train", title: "2-Nights, 2-Days Sapa Tour by Overnight Train", description: "A Sapa tour package including the overnight train from Hanoi.", price: "From $443", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/2-nights-2-days-sapa-tour-by-overnight-train/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book a soft sleeper cabin rather than a hard seat for a genuinely restful overnight journey — the difference in comfort is significant." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the overnight train to Sapa worth it?", a: "Yes, it's the classic way to reach Sapa without losing a day to driving, sleeping through the roughly 8-hour journey instead." },
+        ],
+      };
+
     default:
       return null;
   }
