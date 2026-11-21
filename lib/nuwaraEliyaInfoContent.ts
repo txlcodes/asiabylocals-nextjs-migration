@@ -368,6 +368,26 @@ export function getNuwaraEliyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-knuckles-range-tour-worth-it-nuwara-eliya":
+      return {
+        title: "Is the 2-Day Knuckles Mountain Range Tour Worth It from Nuwara Eliya?",
+        description: "An honest look at the all-inclusive 2-day Knuckles Mountain Range tour from Nuwara Eliya, a UNESCO World Heritage mountain range distinct from Horton Plains and the tea-estate landscape.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-515139/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Knuckles Mountain Range is a UNESCO World Heritage forest reserve with jagged peaks resembling knuckles, genuinely different rugged terrain from Horton Plains' open grassland or Nuwara Eliya's manicured tea estates — a serious 2-day trek for travelers wanting a wilder hill-country landscape.",
+            tourCard: { slug: "from-nuwara-eliyaall-inclusive-epic-knuckles", title: "From Nuwara Eliya: All-Inclusive Epic Knuckles Range Tour", description: "A 2-day all-inclusive tour of the Knuckles Mountain Range.", price: "From $626", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-515139/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuine multi-day trek requiring real hiking fitness, so come prepared with proper gear rather than expecting a scenic drive-up viewpoint." },
+        ],
+        faqs: [
+          { q: "Is the Knuckles Range tour worth it from Nuwara Eliya?", a: "Yes, for travelers with genuine hiking fitness wanting a wilder, more rugged landscape than Horton Plains or the tea estates." },
+        ],
+      };
+
     default:
       return null;
   }

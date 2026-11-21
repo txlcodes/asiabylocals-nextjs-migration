@@ -1386,6 +1386,7 @@ export const NUWARA_ELIYA_INFO_SLUGS = [
   'should-i-book-nuwara-eliya-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-nuwara-eliya',
   'is-horseback-riding-worth-it-nuwara-eliya', 'is-adams-peak-hike-worth-it-nuwara-eliya',
+  'is-knuckles-range-tour-worth-it-nuwara-eliya',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/bentotaInfoContent.ts.

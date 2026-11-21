@@ -1451,6 +1451,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'nuwara-eliya-tea-guide', 'horton-plains-guide', 'best-tours-in-nuwara-eliya', 'should-i-book-nuwara-eliya-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-nuwara-eliya',
     'is-horseback-riding-worth-it-nuwara-eliya', 'is-adams-peak-hike-worth-it-nuwara-eliya',
+    'is-knuckles-range-tour-worth-it-nuwara-eliya',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/nuwara-eliya/${slug}`,
     lastModified: new Date(),
