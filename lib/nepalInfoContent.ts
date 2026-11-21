@@ -1654,6 +1654,44 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-everest-mountain-flight-worth-it-kathmandu":
+            return {
+                title: "Is the Everest Mountain Flight Worth It from Kathmandu?",
+                seoTitle: "Kathmandu Everest Mountain Flight 2026 | Honest Review",
+                description: "An honest look at the Everest mountain flight from Kathmandu, a one-hour scenic flight for travellers who want Everest views without trekking to Base Camp.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/50b2932be84ae2b9d45d34f7153a565070d20355d0358ceae5c9f4fee01e96f6.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This one-hour flight skims along the Himalayan range with close-up views of Everest and neighboring peaks from the window, a genuine way to see the mountain for travellers who can't or don't want to spend weeks trekking to Base Camp.", tourCard: { slug: "from-kathmandu-everest-experience-mountain-flight", title: "From Kathmandu: Everest Experience Mountain Flight", description: "A scenic one-hour mountain flight past Everest and the Himalayan range.", price: "From $336", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/50b2932be84ae2b9d45d34f7153a565070d20355d0358ceae5c9f4fee01e96f6.jpg" } },
+                    { title: "Practical Tips", content: "Clear mornings give the best visibility — flights can be delayed or rescheduled if weather rolls in, so build in a buffer day if possible." }
+                ],
+                faqs: [
+                    { q: "Is the Everest mountain flight worth it from Kathmandu?", a: "Yes, for seeing Everest and the Himalayan range up close in about an hour, without the weeks-long commitment of a Base Camp trek." },
+                    { q: "What happens if the Everest flight is delayed by weather?", a: "Flights depend on clear visibility and can be rescheduled, so it's worth allowing a flexible day around the booking." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Everest mountain flight worth it from Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for close Everest views in about an hour without a multi-week trek." } }
+                ] },
+            };
+
+        case "is-bungee-jumping-worth-it-kathmandu":
+            return {
+                title: "Is Bungee Jumping Worth It near Kathmandu?",
+                seoTitle: "Kathmandu Bungee Jumping 2026 | Honest Review",
+                description: "An honest look at the bungee jumping adventure near Kathmandu, one of the highest bungee jumps in the world over a deep river gorge.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/08b984733269daf1e64a8621b9e51467a23e8ee1c8413ce87f029fe3f6e6e469.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This jump is set over a deep river gorge outside Kathmandu, among the highest bungee platforms in the world, a serious adrenaline activity rather than a quick novelty stop. Transfers from Kathmandu are included, making logistics simple.", tourCard: { slug: "kathmandu-bungee-jumping-adventure-with-transfers", title: "Kathmandu: Bungee Jumping Adventure with Transfers", description: "A high-altitude bungee jump over a river gorge with hotel transfers included.", price: "From $195", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/08b984733269daf1e64a8621b9e51467a23e8ee1c8413ce87f029fe3f6e6e469.jpeg" } },
+                    { title: "Practical Tips", content: "Weight and health restrictions apply at most bungee operators, so check the minimum/maximum weight limits before booking." }
+                ],
+                faqs: [
+                    { q: "Is bungee jumping worth it near Kathmandu?", a: "Yes, for a serious adrenaline activity at one of the highest bungee platforms in the world, with transfers included for easy logistics." },
+                    { q: "Are there restrictions for the Kathmandu bungee jump?", a: "Yes, weight and health restrictions typically apply — check these with the operator before booking." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is bungee jumping worth it near Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a serious adrenaline activity at one of the highest bungee platforms in the world." } }
+                ] },
+            };
+
         default:
             return null;
     }

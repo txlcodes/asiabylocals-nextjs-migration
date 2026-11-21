@@ -350,6 +350,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-shivapuri-hiking-tour-kathmandu', 'best-pottery-workshop-kathmandu',
     'is-dakshinkali-pharping-tour-worth-it-kathmandu', 'is-thamel-pub-crawl-worth-it-kathmandu',
     'is-momo-masterclass-worth-it-kathmandu', 'is-budhanilkantha-temple-tour-worth-it-kathmandu',
+    'is-everest-mountain-flight-worth-it-kathmandu', 'is-bungee-jumping-worth-it-kathmandu',
   ].map(slug => ({
     url: `${BASE_URL}/nepal/kathmandu/${slug}`,
     lastModified: new Date(),
