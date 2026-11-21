@@ -1560,6 +1560,79 @@ export function getSiemReapInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        case "is-apsara-dance-show-worth-it-siem-reap":
+            return {
+                title: "Is the Apsara Dance Show Worth It in Siem Reap?",
+                seoTitle: "Siem Reap Apsara Dance Show 2026 | Honest Review",
+                description: "An honest look at Siem Reap's Apsara dance show with dinner buffet, a traditional Khmer classical dance performance.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/amazon-angkor-apsara-dance-show-and-dinner-buffet/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Apsara dance is a classical Khmer court dance form, depicted throughout Angkor's temple carvings — seeing it performed live, paired with a dinner buffet, connects the temple art you'll see during the day to a living cultural tradition.", tourCard: { slug: "amazon-angkor-apsara-dance-show-and-dinner-buffet", title: "Amazon Angkor Apsara Dance Show and Dinner Buffet", description: "An Apsara dance show with a dinner buffet.", price: "From $28", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/amazon-angkor-apsara-dance-show-and-dinner-buffet/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Worth doing on the evening of your Angkor temple day, since the dance imagery connects directly to carvings you'll see on the temples themselves." }
+                ],
+                faqs: [
+                    { q: "What is Apsara dance?", a: "A classical Khmer court dance form, depicted throughout Angkor's temple carvings." },
+                    { q: "Is the Apsara dance show worth it?", a: "Yes, especially paired with an Angkor temple day, since it connects to the carvings you'll see." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is Apsara dance?", "acceptedAnswer": { "@type": "Answer", "text": "A classical Khmer court dance form depicted in Angkor's temple carvings." } }
+                ] },
+            };
+
+        case "is-quad-bike-tour-worth-it-siem-reap":
+            return {
+                title: "Is a Quad Bike Tour Worth It in Siem Reap?",
+                seoTitle: "Siem Reap Quad Bike Tour 2026 | Honest Review",
+                description: "An honest look at Siem Reap's countryside quad bike tour, a land-based adventure activity distinct from temple sightseeing.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/4-hour-countryside-quad-bike-tour-in-siem-reap/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Riding a quad bike through rural rice-field countryside near Siem Reap gives a genuinely different view of Cambodian life than the temple circuit, passing through villages most temple tours never reach.", tourCard: { slug: "4-hour-countryside-quad-bike-tour-in-siem-reap", title: "4-Hour Countryside Quad Bike Tour in Siem Reap", description: "A countryside quad bike tour near Siem Reap.", price: "From $143", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/4-hour-countryside-quad-bike-tour-in-siem-reap/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Good for a day you want a break from temple walking — this is active but different, land-based countryside exploration." }
+                ],
+                faqs: [
+                    { q: "Is a quad bike tour worth it in Siem Reap?", a: "Yes, for a genuinely different view of rural Cambodian life beyond the temple circuit." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a quad bike tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a different view of rural Cambodian life beyond temples." } }
+                ] },
+            };
+
+        case "is-cooking-class-worth-it-siem-reap":
+            return {
+                title: "Is a Cooking Class Worth It in Siem Reap?",
+                seoTitle: "Siem Reap Cooking Class 2026 | Honest Review",
+                description: "An honest look at Siem Reap's Angkor Wat cooking class with a local family.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/angkor-wat-cooking-class-with-local-family/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This hands-on class teaches Khmer dishes directly from a local family, a relaxed cultural pairing for an evening after a day of temple exploring.", tourCard: { slug: "angkor-wat-cooking-class-with-local-family", title: "Angkor Wat Cooking Class with Local Family", description: "A Khmer cooking class with a local family.", price: "From $52", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/angkor-wat-cooking-class-with-local-family/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good lower-intensity evening activity after a physically demanding day of temple walking in the heat." }
+                ],
+                faqs: [
+                    { q: "Is a cooking class worth it in Siem Reap?", a: "Yes, as a relaxed cultural activity to pair with the physically demanding temple days." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a cooking class worth it in Siem Reap?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a relaxed cultural pairing with temple-heavy days." } }
+                ] },
+            };
+
+        case "is-silk-farm-tour-worth-it-siem-reap":
+            return {
+                title: "Is the Angkor Silk Farm Tour Worth It in Siem Reap?",
+                seoTitle: "Siem Reap Silk Farm Tour 2026 | Honest Review",
+                description: "An honest look at the Angkor Silk Farm and Artisan d'Angkor tour, covering traditional Khmer silk production.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/angkor-silk-farm-and-artisan-d-angkor-round-trip-transfers/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This tour shows the full traditional silk-making process from silkworm to finished textile at Artisan d'Angkor, a genuine craft heritage stop distinct from temples and nature activities.", tourCard: { slug: "angkor-silk-farm-and-artisan-dangkor-round-trip-tr", title: "Angkor Silk Farm and Artisan D'Angkor Round-Trip Transfers", description: "A tour of the Angkor Silk Farm and Artisan d'Angkor with round-trip transfers.", price: "From $41", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/angkor-silk-farm-and-artisan-d-angkor-round-trip-transfers/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good lower-key half-day stop, often combined with souvenir shopping for genuine Khmer silk products at the attached workshop." }
+                ],
+                faqs: [
+                    { q: "What will I see at the Angkor Silk Farm?", a: "The full traditional silk-making process from silkworm to finished textile." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What will I see at the Angkor Silk Farm?", "acceptedAnswer": { "@type": "Answer", "text": "The full traditional silk-making process from silkworm to finished textile." } }
+                ] },
+            };
+
         default:
             return null;
     }

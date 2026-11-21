@@ -1039,6 +1039,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'angkor-wat-one-day-itinerary', 'banteay-srei-guide', 'ta-prohm-tomb-raider-temple', 'angkor-by-bike', 'where-to-stay-in-siem-reap', 'siem-reap-2-day-itinerary', 'siem-reap-with-kids', 'bayon-and-angkor-thom-guide', 'beng-mealea-and-koh-ker', 'phnom-kulen-guide', 'angkor-photography-guide', 'siem-reap-nightlife-and-pub-street', 'siem-reap-to-battambang', 'angkor-wat-dress-code', 'siem-reap-money-and-costs', 'preah-vihear-temple-guide', 'angkor-temples-in-the-rainy-season', 'angkor-with-limited-mobility', 'angkor-sunset-where-to-go', 'best-tours-in-siem-reap', 'should-i-book-siem-reap-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-siem-reap',
     'best-angkor-wat-sunrise-tour', 'best-floating-village-tour-siem-reap',
+    'is-apsara-dance-show-worth-it-siem-reap', 'is-quad-bike-tour-worth-it-siem-reap',
+    'is-cooking-class-worth-it-siem-reap', 'is-silk-farm-tour-worth-it-siem-reap',
   ].map(slug => ({
     url: `${BASE_URL}/cambodia/siem-reap/${slug}`,
     lastModified: new Date(),

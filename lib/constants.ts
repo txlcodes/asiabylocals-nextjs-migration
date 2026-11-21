@@ -1095,6 +1095,8 @@ export const SIEM_REAP_INFO_SLUGS = [
     'how-much-should-a-private-tour-guide-cost-in-siem-reap',
     // Tour-selling pages (2026-11-01)
     'best-angkor-wat-sunrise-tour', 'best-floating-village-tour-siem-reap',
+    'is-apsara-dance-show-worth-it-siem-reap', 'is-quad-bike-tour-worth-it-siem-reap',
+    'is-cooking-class-worth-it-siem-reap', 'is-silk-farm-tour-worth-it-siem-reap',
 ];
 
 export const KRABI_INFO_SLUGS = [
