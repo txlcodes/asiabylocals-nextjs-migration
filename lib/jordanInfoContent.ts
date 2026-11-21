@@ -1329,6 +1329,42 @@ export function getJordanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-arabic-class-worth-it-amman":
+            return {
+                title: "Is the Conversational Arabic Class Worth It in Amman?",
+                seoTitle: "Amman Arabic Class 2026 | Honest Review",
+                description: "An honest look at Amman's conversational Arabic class paired with a history walk, a genuinely educational activity distinct from the city's usual sightseeing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/33266531af6861ce7d1f44c86bc46c095162ac87851748664a777243b04332a2.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This class teaches practical conversational Arabic phrases alongside a history walk through Amman, a genuinely educational activity that gives you tools to use for the rest of your trip, rather than a passive sightseeing stop.", tourCard: { slug: "amman-conversational-arabic-class-history-walk", title: "Amman: Conversational Arabic Class & History Walk", description: "A conversational Arabic class combined with a history walk in Amman.", price: "From $380", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/33266531af6861ce7d1f44c86bc46c095162ac87851748664a777243b04332a2.jpg" } },
+                    { title: "Practical Tips", content: "Book this early in your trip so you can actually use the phrases you learn during the rest of your time in Jordan." },
+                ],
+                faqs: [
+                    { q: "Is the Arabic class worth it in Amman?", a: "Yes, for travelers wanting genuinely practical language skills to use for the rest of their trip, not just passive sightseeing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Arabic class worth it in Amman?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for practical language skills to use for the rest of the trip." } },
+                ] },
+            };
+
+        case "is-kintsugi-pottery-workshop-worth-it-amman":
+            return {
+                title: "Is the Kintsugi Pottery Workshop Worth It in Amman?",
+                seoTitle: "Amman Kintsugi Pottery Workshop 2026 | Honest Review",
+                description: "An honest look at Amman's Kintsugi pottery workshop, a Japanese-style repair craft activity distinct from the city's usual Jordanian cultural experiences.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/395616bfbfb01e3974d380bc37cf86300f94fec1b7923aa0af62c44c0837a7a7.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Kintsugi, the Japanese art of repairing broken pottery with gold, is a surprising craft to find in Amman — a genuinely unexpected creative workshop rather than a Jordan-specific cultural activity, good for travelers who enjoy hands-on art regardless of its origin.", tourCard: { slug: "amman-kintsugi-pottery-workshop-with-snacks-and", title: "Amman: Kintsugi Pottery Workshop with Snacks and Drinks", description: "A hands-on Kintsugi pottery repair workshop with snacks and drinks.", price: "From $273", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/395616bfbfb01e3974d380bc37cf86300f94fec1b7923aa0af62c44c0837a7a7.jpg" } },
+                    { title: "Practical Tips", content: "No prior pottery experience is needed, and you take your repaired piece home as a unique souvenir." },
+                ],
+                faqs: [
+                    { q: "Is the Kintsugi pottery workshop worth it in Amman?", a: "Yes, for travelers who enjoy hands-on creative workshops, even though the craft itself is Japanese rather than Jordanian in origin." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Kintsugi workshop worth it in Amman?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travelers who enjoy hands-on creative workshops." } },
+                ] },
+            };
+
         default:
             return null;
     }
