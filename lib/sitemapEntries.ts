@@ -1373,7 +1373,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   }));
 
   const sigiriyaInfoPages = [
-    'sigiriya-rock-guide', 'dambulla-cave-temple-guide', 'minneriya-elephant-gathering-guide', 'sigiriya-2-day-itinerary', 'best-time-to-visit-sigiriya', 'getting-around-sigiriya', 'polonnaruwa-guide', 'anuradhapura-guide'
+    'sigiriya-rock-guide', 'dambulla-cave-temple-guide', 'minneriya-elephant-gathering-guide', 'sigiriya-2-day-itinerary', 'best-time-to-visit-sigiriya', 'getting-around-sigiriya', 'polonnaruwa-guide', 'anuradhapura-guide',
+    'is-pidurangala-rock-worth-it-sigiriya', 'is-kaudulla-safari-worth-it-sigiriya',
+    'is-cooking-class-worth-it-sigiriya', 'is-village-tour-worth-it-sigiriya',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/sigiriya/${slug}`,
     lastModified: new Date(),

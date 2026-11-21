@@ -1292,7 +1292,9 @@ export const MIRISSA_INFO_SLUGS = [
 // Re-add a slug here ONLY once its page exists in lib/sigiriyaInfoContent.ts.
 export const SIGIRIYA_INFO_SLUGS = [
   'sigiriya-rock-guide', 'dambulla-cave-temple-guide', 'minneriya-elephant-gathering-guide', 'sigiriya-2-day-itinerary',
-  'best-time-to-visit-sigiriya', 'getting-around-sigiriya', 'polonnaruwa-guide', 'anuradhapura-guide'
+  'best-time-to-visit-sigiriya', 'getting-around-sigiriya', 'polonnaruwa-guide', 'anuradhapura-guide',
+  'is-pidurangala-rock-worth-it-sigiriya', 'is-kaudulla-safari-worth-it-sigiriya',
+  'is-cooking-class-worth-it-sigiriya', 'is-village-tour-worth-it-sigiriya',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/kandyInfoContent.ts.

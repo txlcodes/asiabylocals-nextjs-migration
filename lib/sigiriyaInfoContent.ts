@@ -880,6 +880,87 @@ export function getSigiriyaInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "is-pidurangala-rock-worth-it-sigiriya":
+      return {
+        title: "Is Pidurangala Rock Worth It Instead of (or Alongside) Sigiriya?",
+        description: "An honest look at Pidurangala Rock, the sunrise climb directly across from Sigiriya that offers the best view of the rock itself.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1153776/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pidurangala Rock faces Sigiriya directly, making it the best viewpoint to photograph Sigiriya Rock itself — cheaper, less crowded, and with a rawer, less-developed climb than Sigiriya's famous staircase.",
+            tourCard: { slug: "pidurangala-rock-guided-sunrise-tour", title: "Pidurangala Rock Guided Sunrise Tour", description: "A guided sunrise tour up Pidurangala Rock.", price: "From $25", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1153776/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The final stretch involves some rock-scrambling without the handrails Sigiriya has — wear proper footwear and expect a slightly more adventurous climb." },
+        ],
+        faqs: [
+          { q: "Should I climb Pidurangala or Sigiriya?", a: "Many travelers do both — Pidurangala for the best photo of Sigiriya Rock itself, Sigiriya for the ancient palace ruins at its summit." },
+          { q: "Is Pidurangala cheaper than Sigiriya?", a: "Yes, and it's also less crowded, though the climb is rawer without handrails." },
+        ],
+      };
+
+    case "is-kaudulla-safari-worth-it-sigiriya":
+      return {
+        title: "Is the Kaudulla National Park Safari Worth It from Sigiriya?",
+        description: "An honest look at Kaudulla National Park, a less-crowded elephant safari alternative to Minneriya near Sigiriya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-860098/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kaudulla offers the same large-herd elephant sightings as Minneriya's famous 'Gathering' but with noticeably fewer jeeps — worth it specifically during the months Minneriya is less active, since the elephant herds rotate between the two parks seasonally.",
+            tourCard: { slug: "from-sigiriya-kaudulla-national-park-elephant", title: "From Sigiriya: Kaudulla National Park Elephant Jeep Safari", description: "An elephant jeep safari to Kaudulla National Park.", price: "From $145", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-860098/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask your operator which park currently has the elephants, since herds move between Minneriya and Kaudulla depending on water levels and season." },
+        ],
+        faqs: [
+          { q: "Is Kaudulla better than Minneriya?", a: "Both offer similar elephant sightings; Kaudulla tends to have fewer jeeps, and which is better depends on where the herds currently are." },
+        ],
+      };
+
+    case "is-cooking-class-worth-it-sigiriya":
+      return {
+        title: "Is a Cooking Class Worth It in Sigiriya?",
+        description: "An honest look at Sigiriya's cooking class, including a garden tour and homemade meal.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1443199/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This class pairs a garden tour with hands-on cooking and a homemade meal, a relaxed cultural activity to balance out a day of rock-climbing and safari driving.",
+            tourCard: { slug: "sigiriya-cooking-class-garden-tour-homemade-meal", title: "Sigiriya: Cooking Class, Garden Tour & Homemade Meal", description: "A cooking class with a garden tour and homemade meal.", price: "From $49", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1443199/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good evening activity after an early-morning Sigiriya or Pidurangala climb." },
+        ],
+        faqs: [
+          { q: "Is a cooking class worth it in Sigiriya?", a: "Yes, as a relaxed cultural pairing with the area's more physical activities." },
+        ],
+      };
+
+    case "is-village-tour-worth-it-sigiriya":
+      return {
+        title: "Is the Sigiriya Village Tour Worth It?",
+        description: "An honest look at the all-inclusive Sigiriya village tour, covering rural life beyond the rock fortress and ancient cities.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-513525/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This village tour, typically involving a bullock cart ride, a catamaran crossing, and a traditional lunch in a village home, shows rural Sri Lankan life that the ancient-ruins sightseeing in Sigiriya doesn't cover.",
+            tourCard: { slug: "all-inclusive-sigiriya-village-tour-with-lunch", title: "All-Inclusive Sigiriya Village Tour with Lunch & Transfers", description: "An all-inclusive village tour with lunch and transfers.", price: "From $111", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-513525/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good half-day add-on if you want cultural context alongside Sigiriya's historical sites, rather than just ruins all day." },
+        ],
+        faqs: [
+          { q: "Is the Sigiriya village tour worth it?", a: "Yes, for a look at rural Sri Lankan life that the ancient-ruins sightseeing doesn't cover." },
+        ],
+      };
+
     default:
       return null;
   }
