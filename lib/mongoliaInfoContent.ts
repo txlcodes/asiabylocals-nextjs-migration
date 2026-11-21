@@ -382,6 +382,131 @@ export function getMongoliaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-2-day-terelj-horseback-tour-ulaanbaatar":
+            return {
+                title: "Which Is the Best 2-Day Terelj Horseback Tour from Ulaanbaatar?",
+                seoTitle: "Best 2-Day Terelj Horseback Tour 2026 | Comparison",
+                description: "Compare real 2-day Terelj National Park horseback and nomad-stay tours from Ulaanbaatar — horse trekking, a nomad family homestay, and a horse riding/dog sledding combo.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/87d9d2b2883d9fb80cf0ae7ac1b51576ec837a4f650674926d9cf7908f10eda6.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Spending two days in Terelj National Park rather than rushing through on a day trip means genuine riding time and usually an overnight stay in a traditional ger — the versions differ mainly in exactly how the horseback time is structured.", tourCard: { slug: "2-day-horse-trekking-in-terelj-national-park", title: "2-Day Horse Trekking in Terelj National Park", description: "A 2-day horse trekking experience in Terelj National Park.", price: "From $213", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/87d9d2b2883d9fb80cf0ae7ac1b51576ec837a4f650674926d9cf7908f10eda6.jpeg" } },
+                    { title: "Best for Culture: Nomad Family Home Stay", content: "This centers the two days around staying with a nomad family, with horseback riding woven into daily life rather than being the sole focus.", tourCard: { slug: "nomad-family-home-stay-in-terelj-national-park", title: "Nomad Family Home Stay in Terelj National Park", description: "A 2-day nomad family homestay experience in Terelj.", price: "From $253", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b0c1204e5576c7cbb3af8eb231e6b303c708ba132559af0c95a2d5dcbebe8579.jpeg" } },
+                    { title: "Best for Variety: Horse Riding & Seasonal Dog Sledding", content: "This adds dog sledding (seasonal, snow-dependent) alongside the horseback riding, for travellers visiting in winter who want more than one type of activity.", tourCard: { slug: "terelj-2-day-horse-riding-seasonal-dog-sledding", title: "Terelj 2-Day Horse Riding, Seasonal Dog Sledding", description: "A 2-day combo of horse riding and seasonal dog sledding.", price: "From $332", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/79bc8ed0ac216bd7e49f7ccf7b9f6cb4744ad3ef4539d492ebd4b7701cdbe16e.jpeg" } },
+                    { title: "Practical Tips", content: "Ger accommodation on these tours is genuinely basic (no attached plumbing in most cases) — pack accordingly, and check with the operator what's included for warmth if travelling outside summer." }
+                ],
+                faqs: [
+                    { q: "What is the best 2-day Terelj horseback tour from Ulaanbaatar?", a: "Horse trekking for a riding-focused trip, or the nomad homestay for cultural immersion." },
+                    { q: "What is ger accommodation like?", a: "Basic traditional felt tents, typically without attached plumbing — check what's included for warmth outside summer." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best 2-day Terelj horseback tour?", "acceptedAnswer": { "@type": "Answer", "text": "Horse trekking, or the nomad homestay for cultural immersion." } },
+                    { "@type": "Question", "name": "What is ger accommodation like?", "acceptedAnswer": { "@type": "Answer", "text": "Basic traditional felt tents." } }
+                ] },
+            };
+
+        case "best-gobi-desert-tour-ulaanbaatar":
+            return {
+                title: "Which Is the Best Gobi Desert Multi-Day Tour from Ulaanbaatar?",
+                seoTitle: "Best Gobi Desert Tour Ulaanbaatar 2026 | Comparison",
+                description: "Compare real multi-day Gobi Desert tours from Ulaanbaatar — a 6-day version versus a full 8-day tour with ger accommodation.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3f44b0e1d0cf42d232f14f020c2ec9575e53e0fbe731c171191e621b91a31265.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Gobi Desert is far enough from Ulaanbaatar that any genuine visit requires several days — the real choice is how many days you can commit, since more days means reaching more remote sand dunes and canyons.", tourCard: { slug: "6-day-great-gobi-tour-amazing-memory", title: "6-Day Great Gobi Tour Amazing Memory", description: "A 6-day Gobi Desert tour from Ulaanbaatar.", price: "From $1133", duration: "6 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3f44b0e1d0cf42d232f14f020c2ec9575e53e0fbe731c171191e621b91a31265.jpg" } },
+                    { title: "Alternative 6-Day Route: Discover Mongolia Gobi Tour", content: "A similarly structured 6-day itinerary from a different operator, worth comparing on exact stops included.", tourCard: { slug: "best-6-day-gobi-tour-discover-mongolia", title: "Best 6-Day Gobi Tour Discover Mongolia", description: "An alternative 6-day Gobi Desert itinerary.", price: "From $1200", duration: "6 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b824f526195f41c4416ef570463460310ec6933919a2cb07ae6f60aa202b5023.png" } },
+                    { title: "Best for Full Depth: 8-Day Gobi Desert Tour with Ger Accommodation", content: "The longest standard option, reaching further into the Gobi's remote sand dunes and rock formations with ger stays along the way.", tourCard: { slug: "from-ulaanbaatar-8-day-gobi-desert-tour-with-ger", title: "From Ulaanbaatar: 8-Day Gobi Desert Tour with Ger Accommodation", description: "A comprehensive 8-day Gobi Desert tour with ger stays.", price: "From $1450", duration: "8 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/df72544f8aeb17f148040a2e77a873eb7fa16fae5422fa97b495a31222c6995d.png" } },
+                    { title: "Practical Tips", content: "These are genuine expedition-style trips with long driving days between sights — the Gobi's distances are vast, so don't expect a resort-style pace. Pack for big day-to-night temperature swings, a defining feature of desert climate." }
+                ],
+                faqs: [
+                    { q: "What is the best Gobi Desert tour from Ulaanbaatar?", a: "A 6-day tour covers the main highlights; go 8 days for deeper, more remote access." },
+                    { q: "How many days do I need for the Gobi Desert?", a: "At minimum 6 days given the travel distances involved from Ulaanbaatar." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Gobi Desert tour?", "acceptedAnswer": { "@type": "Answer", "text": "A 6-day tour covers the highlights; 8 days for deeper access." } },
+                    { "@type": "Question", "name": "How many days do I need?", "acceptedAnswer": { "@type": "Answer", "text": "At minimum 6 days." } }
+                ] },
+            };
+
+        case "is-hustai-national-park-tour-worth-it-ulaanbaatar":
+            return {
+                title: "Is a Hustai National Park Day Trip from Ulaanbaatar Worth It?",
+                seoTitle: "Hustai National Park Tour Ulaanbaatar 2026 | Review",
+                description: "An honest look at Hustai National Park day trips from Ulaanbaatar, home to the only wild Przewalski's horses on Earth.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f2535aae77c77fdb23bd52009a90e15aed1a5be8153832627d07493db46d2264.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Hustai National Park is the only place on Earth with wild Przewalski's horses (takhi), a species extinct in the wild until a successful reintroduction program — genuinely worth it for wildlife-focused travellers, and much closer to Ulaanbaatar than the Gobi.", tourCard: { slug: "from-ulaanbaatar-hustai-national-park-day-trip", title: "From Ulaanbaatar: Hustai National Park Day Trip", description: "A day trip to Hustai National Park to see wild Przewalski's horses.", price: "From $169", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/97e72268e660bba7394a8e7243e99189ca7fab37606889f3c085e24f69f9eae1.jpg" } },
+                    { title: "Alternative Operator: Full-Day Trip", content: "A similar full-day itinerary from a different operator, worth comparing on timing and group size.", tourCard: { slug: "ulaanbaatar-khustai-national-park-full-day-trip", title: "Ulaanbaatar: Khustai National Park Full-Day Trip", description: "An alternative full-day Hustai National Park trip.", price: "From $111", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f2535aae77c77fdb23bd52009a90e15aed1a5be8153832627d07493db46d2264.jpg" } },
+                    { title: "Practical Tips", content: "Sightings aren't guaranteed since these are genuinely wild horses, but the park's population is well-established — early morning and evening are generally the best times for wildlife activity." }
+                ],
+                faqs: [
+                    { q: "Is Hustai National Park worth visiting from Ulaanbaatar?", a: "Yes, it's the only place on Earth to see wild Przewalski's horses, and it's much closer than the Gobi." },
+                    { q: "Are horse sightings guaranteed at Hustai?", a: "Not guaranteed since they're genuinely wild, but the population is well-established and sightings are common." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Hustai National Park worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the only place on Earth with wild Przewalski's horses." } },
+                    { "@type": "Question", "name": "Are sightings guaranteed?", "acceptedAnswer": { "@type": "Answer", "text": "Not guaranteed, but common given the established population." } }
+                ] },
+            };
+
+        case "best-kharkhorin-tour-ulaanbaatar":
+            return {
+                title: "Which Is the Best Kharkhorin & Central Mongolia Tour from Ulaanbaatar?",
+                seoTitle: "Best Kharkhorin Tour Ulaanbaatar 2026 | Comparison",
+                description: "Compare real Kharkhorin and Central Mongolia multi-day tours from Ulaanbaatar — a 2-day express version versus a 3-day budget itinerary.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2a7cb6e168c84e8eb3aea89d2693d90a3a323b32301575e857b4691cc3cd64be.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Kharkhorin, the ancient capital of the Mongol Empire under Genghis Khan's successors, is usually visited as a multi-day trip combined with Ugii Lake or the semi-Gobi landscape en route.", tourCard: { slug: "2-day-express-kharkhorin-ugii-lake-semi-gobi-tour", title: "2-Day Express Kharkhorin, Ugii Lake & Semi-Gobi Tour", description: "A 2-day express tour to Kharkhorin with Ugii Lake and semi-Gobi scenery.", price: "From $332", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2a7cb6e168c84e8eb3aea89d2693d90a3a323b32301575e857b4691cc3cd64be.jpg" } },
+                    { title: "Best Budget Option: 3-Day Budget Tour of Kharkhorin", content: "A slightly longer, lower-cost version giving more time at the ancient capital site itself.", tourCard: { slug: "3-day-budget-tour-of-kharkhorin-in-central", title: "3-Day Budget Tour of Kharkhorin in Central Mongolia", description: "A budget-friendly 3-day Kharkhorin tour.", price: "From $425", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8cfeefde57c9f7a2a8c26e8492c33a35082aa45d1cfc82198ce0e04d6eb5ed0c.jpg" } },
+                    { title: "Practical Tips", content: "Erdene Zuu Monastery, built partly from the stones of the original Kharkhorin capital, is the main surviving structure — a good guide helps piece together what the site looked like in the Mongol Empire era, since most of the original capital isn't visibly intact." }
+                ],
+                faqs: [
+                    { q: "What is the best Kharkhorin tour from Ulaanbaatar?", a: "A 2-day express version for a quicker trip, or 3 days for more time at the ancient capital site." },
+                    { q: "What's left of the original Kharkhorin capital?", a: "Mostly Erdene Zuu Monastery, built partly from the original capital's stones — much of the rest isn't visibly intact." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Kharkhorin tour?", "acceptedAnswer": { "@type": "Answer", "text": "A 2-day express version, or 3 days for more time." } },
+                    { "@type": "Question", "name": "What's left of the original capital?", "acceptedAnswer": { "@type": "Answer", "text": "Mostly Erdene Zuu Monastery." } }
+                ] },
+            };
+
+        case "is-chinggis-khaan-museum-worth-it-ulaanbaatar":
+            return {
+                title: "Is the Chinggis Khaan National Museum in Ulaanbaatar Worth It?",
+                seoTitle: "Chinggis Khaan Museum Ulaanbaatar 2026 | Honest Review",
+                description: "An honest look at the Chinggis Khaan National Museum highlights tour in Ulaanbaatar.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c3e0da828a5f70e122fbe90357c5f407db2ec66fbb2d4f8406970b513aaf95fe.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This museum covers Mongolia's history from ancient times through the Mongol Empire and into the modern era — a genuinely useful primer before or after visiting the Chinggis Khaan Statue or Kharkhorin, giving context that a standalone site visit doesn't.", tourCard: { slug: "ulaanbaatar-chinggis-khaan-museum-highlights", title: "Ulaanbaatar: Chinggis Khaan Museum Highlights", description: "A highlights tour of the Chinggis Khaan National Museum.", price: "From $89", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c3e0da828a5f70e122fbe90357c5f407db2ec66fbb2d4f8406970b513aaf95fe.jpeg" } },
+                    { title: "Practical Tips", content: "Visit this before heading out to Terelj or Kharkhorin if your schedule allows — the historical context makes those sites noticeably more meaningful." }
+                ],
+                faqs: [
+                    { q: "Is the Chinggis Khaan Museum worth visiting?", a: "Yes, especially before visiting the Chinggis Khaan Statue or Kharkhorin, for historical context." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the museum worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, especially for historical context before other sites." } }
+                ] },
+            };
+
+        case "is-nomadic-cultural-show-worth-it-ulaanbaatar":
+            return {
+                title: "Is a Nomadic Cultural Performance Night in Ulaanbaatar Worth It?",
+                seoTitle: "Ulaanbaatar Nomadic Cultural Show 2026 | Honest Review",
+                description: "An honest look at Ulaanbaatar's nomadic heritage and cultural performance shows, featuring traditional music, dance, and throat singing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/37648b051873d56f4c085228e874e170b2e32746b5665310864caadd69bf787e.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "These evening shows feature traditional Mongolian music, dance, and throat singing (khöömei) — a genuinely good way to experience Mongolian performing arts if your schedule doesn't allow time in the countryside for the real nomadic lifestyle.", tourCard: { slug: "ulaanbaatar-nomadic-heritage-performance-night", title: "Ulaanbaatar: Nomadic Heritage Performance Night", description: "An evening cultural performance of traditional Mongolian music and dance.", price: "From $55", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/37648b051873d56f4c085228e874e170b2e32746b5665310864caadd69bf787e.jpg" } },
+                    { title: "Alternative: Nomadic Legend Mongolian Cultural Show", content: "A similarly structured evening show from a different venue, worth comparing on exact program content.", tourCard: { slug: "ulaanbaatar-nomadic-legend-mongolian-cultural", title: "Ulaanbaatar: Nomadic Legend Mongolian Cultural Show", description: "An alternative evening cultural performance.", price: "From $68", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dea31ffc3c9546947f78f8249af4cb4de06a619486413955459d9378c6613e3d.jpg" } },
+                    { title: "Practical Tips", content: "Khöömei (throat singing) is a genuinely unique vocal technique specific to Central Asian nomadic cultures — worth looking up beforehand so you know what you're listening for during the show." }
+                ],
+                faqs: [
+                    { q: "Is a nomadic cultural performance worth it in Ulaanbaatar?", a: "Yes, especially if you won't have time in the countryside — a good way to experience Mongolian performing arts." },
+                    { q: "What is khöömei?", a: "Traditional Mongolian throat singing, a unique vocal technique specific to Central Asian nomadic cultures." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a nomadic cultural show worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, especially if you won't have time in the countryside." } },
+                    { "@type": "Question", "name": "What is khöömei?", "acceptedAnswer": { "@type": "Answer", "text": "Traditional Mongolian throat singing." } }
+                ] },
+            };
+
         default:
             return null;
     }

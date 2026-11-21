@@ -554,6 +554,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'ulaanbaatar-travel-guide-2026', 'best-time-to-visit-ulaanbaatar',
     'ulaanbaatar-1-day-itinerary', 'mongolia-visa-guide-for-tourists',
     'ulaanbaatar-food-guide', 'ulaanbaatar-weather-guide',
+    'best-2-day-terelj-horseback-tour-ulaanbaatar', 'best-gobi-desert-tour-ulaanbaatar',
+    'is-hustai-national-park-tour-worth-it-ulaanbaatar', 'best-kharkhorin-tour-ulaanbaatar',
+    'is-chinggis-khaan-museum-worth-it-ulaanbaatar', 'is-nomadic-cultural-show-worth-it-ulaanbaatar',
   ], 'mongolia', 'ulaanbaatar');
   const jerusalemInfoPages = mapInfoSlugs([
     'best-old-city-tour-jerusalem', 'best-bethlehem-day-trip-jerusalem',

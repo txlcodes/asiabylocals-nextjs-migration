@@ -492,6 +492,9 @@ export const ULAANBAATAR_INFO_SLUGS: string[] = [
   // detail route's isInfoSlug() didn't recognise it and both 404'd despite
   // being submitted to Google. Found 2026-11-19 sitemap sweep.
   'ulaanbaatar-food-guide', 'ulaanbaatar-weather-guide',
+  'best-2-day-terelj-horseback-tour-ulaanbaatar', 'best-gobi-desert-tour-ulaanbaatar',
+  'is-hustai-national-park-tour-worth-it-ulaanbaatar', 'best-kharkhorin-tour-ulaanbaatar',
+  'is-chinggis-khaan-museum-worth-it-ulaanbaatar', 'is-nomadic-cultural-show-worth-it-ulaanbaatar',
 ];
 
 // Israel launched 2026-11-19 with 110 live tours and zero authority pages.
