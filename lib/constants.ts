@@ -640,12 +640,13 @@ export const BEIRUT_INFO_SLUGS = [
 export const DILIJAN_INFO_SLUGS = [
   'best-wine-tasting-tour-dilijan', 'best-hiking-tour-dilijan',
   'is-molokans-village-tour-worth-it-dilijan', 'dilijan-travel-guide-2026',
-  'best-time-to-visit-dilijan',
+  'best-time-to-visit-dilijan', 'is-gata-making-class-worth-it-dilijan',
 ];
 
 export const GYUMRI_INFO_SLUGS = [
   'best-architecture-tour-gyumri', 'is-gurdjieff-tour-worth-it-gyumri',
   'gyumri-travel-guide-2026', 'armenia-visa-guide-for-tourists-gyumri',
+  'is-cooking-class-worth-it-gyumri',
 ];
 
 export const SHEKI_INFO_SLUGS = [

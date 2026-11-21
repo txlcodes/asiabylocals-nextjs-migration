@@ -444,6 +444,42 @@ export function getArmeniaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-gata-making-class-worth-it-dilijan":
+            return {
+                title: "Is the Gata-Making Class Worth It in Dilijan?",
+                seoTitle: "Dilijan Gata-Making Class 2026 | Honest Review",
+                description: "An honest look at Dilijan's hands-on Armenian sweet gata-making class, a creative food activity distinct from the town's wine tasting and hiking.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5b3e71744ee4c841.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This class walks you through making gata, Armenia's sweet layered pastry, from dough to decoration, a hands-on creative activity that pairs well with Dilijan's otherwise outdoor-and-wine-focused day trips.", tourCard: { slug: "make-your-own-creative-armenian-sweet-gata", title: "Make Your Own Creative Armenian Sweet Gata", description: "A hands-on class making Armenia's traditional sweet gata pastry.", price: "From $112", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5b3e71744ee4c841.jpeg" } },
+                    { title: "Practical Tips", content: "You take your finished gata home with you, so it works well scheduled toward the end of a Dilijan day." }
+                ],
+                faqs: [
+                    { q: "Is the gata-making class worth it in Dilijan?", a: "Yes, for a creative hands-on food activity that's a nice change of pace from the town's hiking and wine tasting." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the gata-making class worth it in Dilijan?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a hands-on creative food activity distinct from hiking and wine tasting." } }
+                ] },
+            };
+
+        case "is-cooking-class-worth-it-gyumri":
+            return {
+                title: "Is the Armenian Cooking Class Worth It in Gyumri?",
+                seoTitle: "Gyumri Cooking Class 2026 | Honest Review",
+                description: "An honest look at Gyumri's Armenian cooking class, a hands-on food experience distinct from the city's architecture and pottery workshops.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1327ba12564ab6f5bbb69532e0946f6aa9632407941899be9e9b2da3c855b76b.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This cooking class in northern Gyumri runs a full five hours with a local host, covering regional dishes distinct from the Yerevan versions of similar classes, a genuinely local food experience alongside the city's architecture walks.", tourCard: { slug: "northern-gyumri-armenian-cooking-class-with-a", title: "Northern Gyumri: Armenian Cooking Class with a Local", description: "A hands-on Armenian cooking class with a local host in northern Gyumri.", price: "From $202", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1327ba12564ab6f5bbb69532e0946f6aa9632407941899be9e9b2da3c855b76b.jpg" } },
+                    { title: "Practical Tips", content: "The five-hour format is substantial, so plan it as the day's main activity rather than an add-on." }
+                ],
+                faqs: [
+                    { q: "Is the cooking class worth it in Gyumri?", a: "Yes, for a genuinely local food experience with a host in northern Gyumri, distinct from Yerevan's cooking classes." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the cooking class worth it in Gyumri?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely local food experience distinct from Yerevan's cooking classes." } }
+                ] },
+            };
+
         case "best-architecture-tour-gyumri":
             return {
                 title: "Which Is the Best Architecture Tour in Gyumri?",

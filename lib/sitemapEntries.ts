@@ -702,12 +702,13 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   const dilijanInfoPages = mapInfoSlugs([
     'best-wine-tasting-tour-dilijan', 'best-hiking-tour-dilijan',
     'is-molokans-village-tour-worth-it-dilijan', 'dilijan-travel-guide-2026',
-    'best-time-to-visit-dilijan',
+    'best-time-to-visit-dilijan', 'is-gata-making-class-worth-it-dilijan',
   ], 'armenia', 'dilijan');
 
   const gyumriInfoPages = mapInfoSlugs([
     'best-architecture-tour-gyumri', 'is-gurdjieff-tour-worth-it-gyumri',
     'gyumri-travel-guide-2026', 'armenia-visa-guide-for-tourists-gyumri',
+    'is-cooking-class-worth-it-gyumri',
   ], 'armenia', 'gyumri');
 
   const shekiInfoPages = mapInfoSlugs([
