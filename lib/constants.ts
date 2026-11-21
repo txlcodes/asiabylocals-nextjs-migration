@@ -617,6 +617,11 @@ export const ASTANA_INFO_SLUGS = [
   'astana-travel-guide-2026', 'best-time-to-visit-astana',
 ];
 
+export const BORJOMI_INFO_SLUGS = [
+  'best-borjomi-activity-tour-borjomi', 'best-bakuriani-ski-tour-borjomi',
+  'borjomi-travel-guide-2026',
+];
+
 export const KHASAB_INFO_SLUGS = [
   'best-dhow-cruise-khasab', 'best-musandam-adventure-tour-khasab',
   'khasab-travel-guide-2026',

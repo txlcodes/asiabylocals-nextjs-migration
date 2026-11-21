@@ -1126,6 +1126,65 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-borjomi-activity-tour-borjomi":
+            return {
+                title: "Best Things to Do in Borjomi (Beyond the Mineral Water)",
+                seoTitle: "Best Borjomi Activities 2026 | Jeep, Buggy & Horseback Tours",
+                description: "Borjomi is known for its mineral water parks, but local jeep safaris, buggy rides, and horseback tours are a genuinely different way to see the surrounding nature.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7226006672e0d466c8d21b4468582c89539110538dfc3f228d2a312f9a24737d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Beyond the famous Mineral Water Park, Borjomi's forested valley is best explored by jeep, buggy, or on horseback.", tourCard: { slug: "borjomi-jeep-tour-discover-the-beautiful-nature", title: "Borjomi Jeep Tour - Discover the Beautiful Nature", description: "A jeep tour through Borjomi's forested nature.", price: "From $291", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7226006672e0d466c8d21b4468582c89539110538dfc3f228d2a312f9a24737d.jpg" } },
+                    { title: "Most Relaxed: Mineral Water Park & Monastery", content: "The classic in-town visit, pairing the famous mineral water park with the nearby Mtsvane Monastery.", tourCard: { slug: "borjomi-mineral-water-park-and-mtsvane-monastery", title: "Borjomi: Mineral Water Park and Mtsvane Monastery Tour", description: "A tour of Borjomi's mineral water park and monastery.", price: "From $147", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eda4f45cfb2a8c121d19194f9f24f371dbe50383f2103bfb86bc09a6ee864098.jpeg" } },
+                    { title: "Most Scenic: Buggy Tour to the Lakes", content: "A faster-paced buggy ride out to the surrounding lakes for travelers who want more adrenaline than a standard jeep tour.", tourCard: { slug: "buggy-tour-to-the-lakes-from-borjomi", title: "Buggy Tour to the Lakes from Borjomi", description: "A buggy tour to the lakes around Borjomi.", price: "From $208", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/20e87ae07d4fa113d0529608f73ca69c91fb8d5bd7603b1be04ccfcdd3c630a4.png" } },
+                    { title: "Most Traditional: Private Horseback Riding to Kakhisi Lake", content: "A horseback ride to Kakhisi Lake offers a quieter, more traditional way to see the valley.", tourCard: { slug: "borjomi-private-horseback-riding-tour-to-kakhisi", title: "Borjomi: Private Horseback Riding Tour to Kakhisi Lake", description: "A private horseback ride to Kakhisi Lake.", price: "From $143", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/19891a3fa0984b722637e8ea9b2682d88f552a153a7689971069573295618589.jpeg" } },
+                    { title: "Practical Tips", content: "Most visitors combine Borjomi with Vardzia and Rabati Castle as a day trip from Tbilisi or Kutaisi, but these local activities are worth an extra day if you're staying overnight in Borjomi itself." }
+                ],
+                faqs: [
+                    { q: "What is there to do in Borjomi besides the mineral water park?", a: "Jeep safaris, buggy rides to the lakes, and horseback riding to Kakhisi Lake." },
+                    { q: "Is Borjomi worth an overnight stay?", a: "Yes, if you want time for jeep, buggy, or horseback activities beyond the standard day-trip stops." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is there to do in Borjomi besides the mineral water park?", "acceptedAnswer": { "@type": "Answer", "text": "Jeep safaris, buggy rides, and horseback riding." } }
+                ] },
+            };
+
+        case "best-bakuriani-ski-tour-borjomi":
+            return {
+                title: "Which Is the Best Bakuriani Tour from Borjomi?",
+                seoTitle: "Best Bakuriani Ski Tour 2026 | Cable Car, Ski & Snowshoe",
+                description: "Compare ways to visit Bakuriani, Georgia's main ski resort town near Borjomi — cable car sightseeing, ski lessons, and snowshoe hiking.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/abf0964e056dc4babe81b56fcdcdd638461495444a457207d73365aa6ad1ee46.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Bakuriani is Georgia's main ski resort, a short drive from Borjomi — visit by cable car for sightseeing, book a ski lesson in winter, or snowshoe through the Caucasus in the off-season.", tourCard: { slug: "bakuriani-cable-car-ride-mountain-villages-tour", title: "Bakuriani Cable Car Ride: Mountain Villages Tour", description: "A cable car ride over Bakuriani's mountain villages.", price: "From $87", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/abf0964e056dc4babe81b56fcdcdd638461495444a457207d73365aa6ad1ee46.jpeg" } },
+                    { title: "For Winter Visitors: Private or Group Ski Lesson", content: "Bakuriani's ski season runs roughly December through March — a lesson here is a good introduction to Georgian skiing.", tourCard: { slug: "bakuriani-private-or-group-ski-lesson", title: "Bakuriani: Private or Group Ski Lesson", description: "A ski lesson in Bakuriani.", price: "From $169", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0ca7d86fa21d44a5fff7ebbf58902236f27295fb0c797856506fd781bca00331.jpeg" } },
+                    { title: "For Off-Season Visitors: Caucasus Mountains Snowshoe Hike", content: "Outside ski season, a snowshoe hike is the best way to experience the same Caucasus scenery.", tourCard: { slug: "bakuriani-caucasus-mountains-snowshoe-hike", title: "Bakuriani: Caucasus Mountains Snowshoe Hike", description: "A snowshoe hike through the Caucasus mountains near Bakuriani.", price: "From $74", duration: "4.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2bd17027940af683b686508b92c0ff6d8c01a01f8a786bc1bab512f0c6de0da4.jpeg" } },
+                    { title: "Practical Tips", content: "Bakuriani is roughly a 30-minute drive from Borjomi, making it an easy half-day or full-day add-on to a Borjomi visit." }
+                ],
+                faqs: [
+                    { q: "Is Bakuriani worth visiting from Borjomi?", a: "Yes, it is about a 30-minute drive and is Georgia's main ski resort town." },
+                    { q: "When is ski season in Bakuriani?", a: "Roughly December through March." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "When is ski season in Bakuriani?", "acceptedAnswer": { "@type": "Answer", "text": "Roughly December through March." } }
+                ] },
+            };
+
+        case "borjomi-travel-guide-2026":
+            return {
+                title: "Borjomi Travel Guide 2026",
+                description: "Everything to know about visiting Borjomi, Georgia's famous spa town and gateway to the Bakuriani ski resort.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7226006672e0d466c8d21b4468582c89539110538dfc3f228d2a312f9a24737d.jpg",
+                sections: [
+                    { title: "Getting There", content: "Borjomi is roughly 2.5 hours by road from Tbilisi, or about 2 hours from Kutaisi — most visitors see it as part of a Vardzia/Rabati Castle day trip, though it is also worth an overnight stay." },
+                    { title: "What to Do", content: "The Mineral Water Park and Mtsvane Monastery in town, jeep and buggy tours into the surrounding forest, horseback riding to Kakhisi Lake, and day trips to the Bakuriani ski resort." },
+                    { title: "Best Time to Visit", content: "Summer for hiking and the mineral water park; December through March for skiing in nearby Bakuriani." }
+                ],
+                faqs: [
+                    { q: "How far is Borjomi from Tbilisi?", a: "About 2.5 hours by road." },
+                    { q: "What is Borjomi known for?", a: "Its mineral water and spa town atmosphere, and as the gateway to the Bakuriani ski resort." }
+                ],
+            };
+
         default:
             return null;
     }
