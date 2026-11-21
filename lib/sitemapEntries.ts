@@ -348,6 +348,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-sulfur-bath-experience-tbilisi', 'best-bike-tour-tbilisi',
     'tbilisi-travel-guide-2026', 'best-time-to-visit-tbilisi',
     'tbilisi-1-day-itinerary', 'georgia-visa-guide-for-tourists',
+    'best-gudauri-ski-tour-tbilisi', 'best-paragliding-tour-tbilisi',
+    'is-birtvisi-canyon-tour-worth-it-tbilisi', 'is-fishing-tour-worth-it-tbilisi',
   ].map(slug => ({
     url: `${BASE_URL}/georgia/tbilisi/${slug}`,
     lastModified: new Date(),

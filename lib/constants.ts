@@ -281,6 +281,8 @@ export const TBILISI_INFO_SLUGS = [
   // Batch 4 (2026-11-16): guide pages to close the real-inventory ceiling gap
   'tbilisi-travel-guide-2026', 'best-time-to-visit-tbilisi',
   'tbilisi-1-day-itinerary', 'georgia-visa-guide-for-tourists',
+  'best-gudauri-ski-tour-tbilisi', 'best-paragliding-tour-tbilisi',
+  'is-birtvisi-canyon-tour-worth-it-tbilisi', 'is-fishing-tour-worth-it-tbilisi',
 ];
 
 // Oman launched 2026-11-16 with 709 live tours and zero authority pages.

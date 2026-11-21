@@ -886,6 +886,86 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-gudauri-ski-tour-tbilisi":
+            return {
+                title: "Which Is the Best Gudauri Ski Resort Tour from Tbilisi?",
+                seoTitle: "Best Gudauri Ski Tour from Tbilisi 2026 | Comparison",
+                description: "Compare real Gudauri ski resort day trips from Tbilisi — a budget full-day trip, a private tour, and ski lessons for beginners.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/41b5db5f3c907f68a12eaa409b97681e5be82d54dfcadfa7daead3faf8937eea.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Gudauri, Georgia's main ski resort along the Georgian Military Road, is reachable as a day trip from Tbilisi — the choice is mainly budget vs. private transport, plus whether you need lessons.", tourCard: { slug: "from-tbilisi-full-day-gudauri-ski-resort-day-trip", title: "From Tbilisi: Full-Day Gudauri Ski Resort Day Trip", description: "A budget full-day ski trip to Gudauri from Tbilisi.", price: "From $40", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/41b5db5f3c907f68a12eaa409b97681e5be82d54dfcadfa7daead3faf8937eea.jpg" } },
+                    { title: "Best Private Option: Private Gudauri Ski Resort Tour", content: "This gives you a private vehicle and more flexible timing than the shared day trip, worth it if you want to set your own schedule on the slopes.", tourCard: { slug: "from-tbilisi-private-gudauri-ski-resort-tour", title: "From Tbilisi: Private Gudauri Ski Resort Tour", description: "A private transport version of the Gudauri ski day trip.", price: "From $220", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/68c931a9724362a8ac59f846527ae5fa48a17f4dabd3b505c134690fd95aaef8.jpg" } },
+                    { title: "Best for Beginners: Individual and Group Ski Lessons", content: "If you've never skied before, this adds actual instruction rather than just transport and lift access.", tourCard: { slug: "gudauri-individual-and-group-ski-lesson", title: "Gudauri: Individual and Group Ski Lesson", description: "Ski lessons at Gudauri, individual or group format.", price: "From $175", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b5949701380566e0a1d800080913c3cc56aebd0d38bffe43a99842986e2b58a0.jpeg" } },
+                    { title: "Practical Tips", content: "Equipment rental is typically separate from transport-only packages — confirm what's included before you go, since renting on arrival can mean queuing at peak times." }
+                ],
+                faqs: [
+                    { q: "What is the best Gudauri ski tour from Tbilisi?", a: "A budget day trip for transport only, private for flexibility, or lessons if you're a beginner." },
+                    { q: "Is equipment rental included in Gudauri ski day trips?", a: "Usually not in budget transport-only packages — confirm with your operator." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Gudauri ski tour?", "acceptedAnswer": { "@type": "Answer", "text": "A budget day trip, private for flexibility, or lessons for beginners." } },
+                    { "@type": "Question", "name": "Is equipment rental included?", "acceptedAnswer": { "@type": "Answer", "text": "Usually not in budget packages." } }
+                ] },
+            };
+
+        case "best-paragliding-tour-tbilisi":
+            return {
+                title: "Which Is the Best Paragliding Tour from Tbilisi?",
+                seoTitle: "Best Paragliding Tour from Tbilisi 2026 | Comparison",
+                description: "Compare real paragliding tours from Tbilisi — a tandem flight over the Tbilisi Sea versus a full Gudauri mountain paragliding adventure.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/172c5b10b49386be6f6e3cfb7331c2143d765ed1a9c8a8a6b4990b09d2b59487.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Tbilisi offers two genuinely different paragliding settings — a tandem flight over the Tbilisi Sea reservoir close to the city, or a full mountain adventure flight from Gudauri in the Caucasus.", tourCard: { slug: "tbilisi-tandem-paragliding-over-the-tbilisi-sea", title: "Tbilisi: Tandem Paragliding over the Tbilisi Sea", description: "A tandem paragliding flight over the Tbilisi Sea reservoir.", price: "From $221", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/172c5b10b49386be6f6e3cfb7331c2143d765ed1a9c8a8a6b4990b09d2b59487.jpg" } },
+                    { title: "Best for Mountain Views: Gudauri Paragliding Adventure", content: "This flies over the Caucasus mountains near Gudauri instead of the city reservoir, a genuinely more dramatic setting.", tourCard: { slug: "from-tbilisi-gudauri-paragliding-adventure-with", title: "From Tbilisi: Gudauri Paragliding Adventure", description: "A paragliding flight over the Caucasus mountains near Gudauri.", price: "From $423", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/edb588e8e6b38db6b755293eb34e4ca6ed80af4e5e173fdbb9f000792c86aeb6.png" } },
+                    { title: "Practical Tips", content: "The Tbilisi Sea flight is much closer to the city and cheaper, good for a quick taste of paragliding; the Gudauri version is a bigger day out with more dramatic mountain scenery." }
+                ],
+                faqs: [
+                    { q: "What is the best paragliding tour from Tbilisi?", a: "A Tbilisi Sea flight for convenience, or Gudauri for dramatic mountain scenery." },
+                    { q: "Which paragliding option is closer to Tbilisi?", a: "The Tbilisi Sea flight, much closer than the Gudauri mountain option." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best paragliding tour from Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "Tbilisi Sea for convenience, Gudauri for scenery." } },
+                    { "@type": "Question", "name": "Which is closer to Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "The Tbilisi Sea flight." } }
+                ] },
+            };
+
+        case "is-birtvisi-canyon-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Birtvisi Canyon Hike & Zipline Tour from Tbilisi Worth It?",
+                seoTitle: "Birtvisi Canyon Tour Tbilisi 2026 | Honest Review",
+                description: "An honest look at the Birtvisi Canyon hiking, zipline, and lake day tour from Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d3dc9637198a0ce4007317b969a9c953c638af282b3ba2d741e9eee21f07897f.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Birtvisi Canyon combines genuine hiking through dramatic rock formations with a zipline and lake stop — a good active alternative to the standard sightseeing-focused day trips from Tbilisi.", tourCard: { slug: "from-tbilisi-birtvisi-canyon-hike-zipline-lake", title: "From Tbilisi: Birtvisi Canyon Hike, Zipline & Lake", description: "A day trip combining Birtvisi Canyon hiking, a zipline, and a lake visit.", price: "From $130", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d3dc9637198a0ce4007317b969a9c953c638af282b3ba2d741e9eee21f07897f.jpeg" } },
+                    { title: "Practical Tips", content: "This is a more physically active day than most Tbilisi day trips — reasonable fitness helps, and bring proper footwear for the canyon hiking sections." }
+                ],
+                faqs: [
+                    { q: "Is the Birtvisi Canyon tour worth it?", a: "Yes, a good active alternative combining hiking, a zipline, and a lake in one day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Birtvisi Canyon tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a good active day combining hiking, zipline, and a lake." } }
+                ] },
+            };
+
+        case "is-fishing-tour-worth-it-tbilisi":
+            return {
+                title: "Is a Fishing Tour from Tbilisi Worth It?",
+                seoTitle: "Tbilisi Fishing Tour 2026 | Honest Review",
+                description: "An honest look at private fishing tours from Tbilisi, including a Lake Sagamo experience with a local guide.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/18d6ee3b1cfb3c94196d07e67ab6e1f427788c0ba878a3b9ea1f345dd6be3214.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A private fishing tour with a local guide, often including a picnic, is a genuinely relaxed alternative to Tbilisi's more sightseeing-heavy day trips — good if you want a slower, more low-key day in nature.", tourCard: { slug: "tbilisi-private-fishing-tour-with-picnic-and-guide", title: "Tbilisi: Private Fishing Tour with Picnic and Guide", description: "A private fishing tour with a picnic and local guide.", price: "From $455", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/18d6ee3b1cfb3c94196d07e67ab6e1f427788c0ba878a3b9ea1f345dd6be3214.jpg" } },
+                    { title: "Alternative: Lake Sagamo Fishing Experience", content: "A similar relaxed fishing experience at Lake Sagamo with a local guide, worth comparing on location and exact inclusions.", tourCard: { slug: "tbilisi-lake-sagamo-fishing-experience-with-local", title: "Tbilisi: Lake Sagamo Fishing Experience with Local Guide", description: "A fishing experience at Lake Sagamo with a local guide.", price: "From $520", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/30f6bbafc48010231923ba52e8c41197bdbb43bbea306c9e0f264eb011979224.jpeg" } },
+                    { title: "Practical Tips", content: "These are private, guide-led experiences rather than tackle-rental-only trips — your guide typically handles the logistics, making this approachable even without prior fishing experience." }
+                ],
+                faqs: [
+                    { q: "Is a fishing tour from Tbilisi worth it?", a: "Yes, for a relaxed, nature-focused alternative to standard sightseeing day trips." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a fishing tour from Tbilisi worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a relaxed nature-focused day." } }
+                ] },
+            };
+
         default:
             return null;
     }
