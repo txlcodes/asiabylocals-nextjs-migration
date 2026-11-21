@@ -1399,6 +1399,187 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "best-durbar-square-tour-bhaktapur":
+            return {
+                title: "Which Is the Best Durbar Square Tour in Bhaktapur?",
+                seoTitle: "Best Bhaktapur Durbar Square Tour 2026 | Comparison",
+                description: "Compare real Bhaktapur Durbar Square tours — from a spiritual/local-life angle to a half-day World Heritage city overview.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1786438768/tours/bhaktapur/tours/bhaktapur_1786438767711_0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Bhaktapur's Durbar Square, one of three UNESCO-listed Durbar Squares in the Kathmandu Valley, is genuinely less crowded than Kathmandu's own Durbar Square and better preserved — tours here differ mainly in whether they lean into spiritual/local-life context or stick to a general heritage overview.", tourCard: { slug: "bhaktapur-durbar-square-spiritual-tour", title: "Bhaktapur Secrets: Hidden Temples & Local Newari Life", description: "A spiritually-focused tour of Bhaktapur's hidden temples and Newari life.", price: "From $19", duration: "4 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1786438768/tours/bhaktapur/tours/bhaktapur_1786438767711_0.jpg" } },
+                    { title: "Best General Overview: Half-Day World Heritage City Tour", content: "This covers Bhaktapur's main heritage sites more broadly, a good fit if you want the overview rather than a specific spiritual or local-life angle.", tourCard: { slug: "bhaktapur-nepal-half-day-world-heritage-city-tour", title: "Bhaktapur, Nepal: Half-Day World Heritage City Tour", description: "A half-day overview tour of Bhaktapur's World Heritage sites.", price: "From $159", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4ddb4adeaffa442ce291decf08996b64bbc88586257c148f50fa129ff03ff863.jpg" } },
+                    { title: "Practical Tips", content: "Bhaktapur is genuinely walkable once you're there, and its brick-paved squares and Newari architecture are distinct from both Kathmandu and Patan's Durbar Squares — worth seeing all three if you have time, since each has a different character." }
+                ],
+                faqs: [
+                    { q: "What is the best Durbar Square tour in Bhaktapur?", a: "A spiritual/local-life focused tour for deeper context, or the half-day overview for general heritage sightseeing." },
+                    { q: "Is Bhaktapur's Durbar Square different from Kathmandu's?", a: "Yes, each of the valley's three Durbar Squares has distinct architecture and character, and Bhaktapur's is generally less crowded." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Durbar Square tour in Bhaktapur?", "acceptedAnswer": { "@type": "Answer", "text": "A spiritual/local-life tour, or the half-day general overview." } },
+                    { "@type": "Question", "name": "Is it different from Kathmandu's Durbar Square?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, each has distinct architecture and character." } }
+                ] },
+            };
+
+        case "best-pottery-workshop-bhaktapur":
+            return {
+                title: "Which Is the Best Pottery Workshop in Bhaktapur?",
+                seoTitle: "Best Bhaktapur Pottery Workshop 2026 | Comparison",
+                description: "Compare real pottery workshops in Bhaktapur's famous Pottery Square — a standard local-artisan session versus one combined with Changunarayan Temple.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/010029945717dedd73216b6fb96a9198ffa4db8029d08286991b68ab17b74767.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Bhaktapur's Pottery Square is the real deal — working potters still use traditional wheel-throwing techniques here daily, and a hands-on workshop with a local artisan is a genuinely authentic craft experience.", tourCard: { slug: "bhaktapur-pottery-workshop-with-local-artisan", title: "Bhaktapur: Pottery Workshop with Local Artisan", description: "A hands-on pottery workshop with a local Bhaktapur artisan.", price: "From $137", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/010029945717dedd73216b6fb96a9198ffa4db8029d08286991b68ab17b74767.jpeg" } },
+                    { title: "Best Combined with Sightseeing: Changunarayan & Pottery Workshop", content: "This pairs the pottery workshop with a visit to Changunarayan Temple, one of the oldest Hindu temples in the valley, for a fuller day combining craft and heritage.", tourCard: { slug: "bhaktapur-changunarayan-pottery-workshop", title: "Bhaktapur: Changunarayan & Pottery Workshop", description: "A combined Changunarayan Temple visit and pottery workshop.", price: "From $134", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/95df22f1d6c9dab2eec3762e1db9e5241f657195c7e3d93052590eed6d82e741.jpg" } },
+                    { title: "Practical Tips", content: "You'll get muddy — wear clothes you don't mind getting dirty, and ask about pickup timing for your finished piece since it needs to be fired after your session." }
+                ],
+                faqs: [
+                    { q: "What is the best pottery workshop in Bhaktapur?", a: "A standard local-artisan session for the craft itself, or add Changunarayan Temple for a fuller day." },
+                    { q: "Is Bhaktapur's Pottery Square a real working square?", a: "Yes, potters genuinely work there daily using traditional techniques, not just for tourists." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best pottery workshop in Bhaktapur?", "acceptedAnswer": { "@type": "Answer", "text": "A standard local-artisan session, or add Changunarayan Temple." } },
+                    { "@type": "Question", "name": "Is Pottery Square a real working square?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, potters genuinely work there daily." } }
+                ] },
+            };
+
+        case "is-changunarayan-hike-worth-it-bhaktapur":
+            return {
+                title: "Is the Guided Hike to Changunarayan Temple from Bhaktapur Worth It?",
+                seoTitle: "Changunarayan Temple Hike Bhaktapur 2026 | Review",
+                description: "An honest look at the guided hike to Changunarayan Temple from Bhaktapur, one of the oldest Hindu temples in the Kathmandu Valley.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/916552827839ed7c4606a45159e6ca6e6b46460168d6c6d773ca419de57a10c4.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Changunarayan Temple, dating back to the 4th century, is one of the valley's oldest Hindu temples and sits on a hilltop reached by a genuine hike rather than a drive-up visit — worth it for both the temple itself and the valley views along the trail.", tourCard: { slug: "bhaktapur-guided-hike-to-changunarayan-temple", title: "Bhaktapur: Guided Hike to Changunarayan Temple with Transfer", description: "A guided hike to Changunarayan Temple with transfer included.", price: "From $78", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/916552827839ed7c4606a45159e6ca6e6b46460168d6c6d773ca419de57a10c4.jpg" } },
+                    { title: "Practical Tips", content: "The hike is moderate rather than strenuous, suitable for most fitness levels — comfortable shoes are enough, no technical hiking gear needed." }
+                ],
+                faqs: [
+                    { q: "Is the Changunarayan Temple hike worth it?", a: "Yes, for one of the valley's oldest temples and genuine trail views along the way." },
+                    { q: "How difficult is the hike?", a: "Moderate, suitable for most fitness levels with just comfortable shoes needed." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Changunarayan hike worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for one of the valley's oldest temples." } },
+                    { "@type": "Question", "name": "How difficult is it?", "acceptedAnswer": { "@type": "Answer", "text": "Moderate, suitable for most fitness levels." } }
+                ] },
+            };
+
+        case "is-bicycle-heritage-tour-worth-it-bhaktapur":
+            return {
+                title: "Is the Guided Bicycle Heritage Tour of Bhaktapur Worth It?",
+                seoTitle: "Bhaktapur Bicycle Heritage Tour 2026 | Honest Review",
+                description: "An honest look at the guided bicycle heritage tour through Bhaktapur, covering more ground than a walking tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/736cd0a8aa95951d05bbf2e0ed1b0c3811e2a4fe441d61da6d816b1e605a96e7.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Covering Bhaktapur by bicycle lets you reach more of the city's squares, temples, and backstreets than walking alone, while still moving slowly enough to actually see things — a genuinely good middle ground between a car tour and walking.", tourCard: { slug: "bhaktapur-guided-bicycle-heritage-tour", title: "Bhaktapur: Guided Bicycle Heritage Tour", description: "A guided bicycle tour covering Bhaktapur's heritage sites.", price: "From $151", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/736cd0a8aa95951d05bbf2e0ed1b0c3811e2a4fe441d61da6d816b1e605a96e7.jpg" } },
+                    { title: "Practical Tips", content: "Bhaktapur's streets are narrow and sometimes cobbled — comfortable with cycling on uneven surfaces matters more here than raw fitness." }
+                ],
+                faqs: [
+                    { q: "Is the bicycle heritage tour worth it?", a: "Yes, a good middle ground between a car tour and walking, covering more ground while staying slow enough to see things." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the bicycle heritage tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a good middle ground between driving and walking." } }
+                ] },
+            };
+
+        case "is-woodcarving-workshop-worth-it-bhaktapur":
+            return {
+                title: "Is the Woodcarving Workshop in Bhaktapur Worth It?",
+                seoTitle: "Bhaktapur Woodcarving Workshop 2026 | Honest Review",
+                description: "An honest look at Bhaktapur's traditional Newari woodcarving workshop with lunch included.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/20c935b9e63503edf0e230be1f96715ade87e72329847b6a10ff99bd4f4c99e1.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Bhaktapur's intricately carved wooden window frames and temple struts are a Newari craft tradition you can see throughout the city — this workshop teaches the basics hands-on, with a traditional Newari lunch included, genuinely worthwhile if pottery alone doesn't cover your craft interest.", tourCard: { slug: "bhaktapur-tour-with-a-woodcarving-workshop-newari", title: "Bhaktapur: Tour with a Woodcarving Workshop & Newari Lunch", description: "A woodcarving workshop combined with a traditional Newari lunch.", price: "From $151", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/20c935b9e63503edf0e230be1f96715ade87e72329847b6a10ff99bd4f4c99e1.jpg" } },
+                    { title: "Practical Tips", content: "Look up at the carved window frames and temple struts around the city before or after this workshop — it's much easier to appreciate the craft once you've tried it yourself." }
+                ],
+                faqs: [
+                    { q: "Is the woodcarving workshop worth it?", a: "Yes, a genuine Newari craft tradition you'll then recognize throughout the city, plus a traditional lunch." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the woodcarving workshop worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a genuine Newari craft tradition with lunch included." } }
+                ] },
+            };
+
+        case "bhaktapur-travel-guide-2026":
+            return {
+                title: "Bhaktapur Travel Guide 2026",
+                description: "What visitors need to know about Bhaktapur, the Kathmandu Valley's best-preserved medieval city.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1786438768/tours/bhaktapur/tours/bhaktapur_1786438767711_0.jpg",
+                sections: [
+                    { title: "Why Visit", content: "Bhaktapur is the Kathmandu Valley's best-preserved medieval city, with a UNESCO-listed Durbar Square, a genuine working Pottery Square, and Newari woodcarving traditions still visible throughout the city." }
+                ],
+                faqs: [
+                    { q: "Is Bhaktapur worth visiting?", a: "Yes, for its well-preserved medieval architecture and living craft traditions, genuinely distinct from Kathmandu itself." }
+                ],
+            };
+
+        case "best-buddhas-birthplace-tour-lumbini":
+            return {
+                title: "Which Is the Best Buddha's Birthplace Tour in Lumbini?",
+                seoTitle: "Best Lumbini Buddha Birthplace Tour 2026 | Comparison",
+                description: "Compare real Lumbini day tours to Buddha's birthplace — a spiritual-focused version versus a standard guided day tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/36db59dd55bb2788cf80fe08e90573f2d03f5d998a08f81ca2802f52eea97fcb.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Lumbini, the UNESCO-listed birthplace of Buddha, is a significant pilgrimage site for Buddhists worldwide and a genuinely peaceful, meaningful visit even for non-religious travellers interested in the history — both tour versions cover the Maya Devi Temple and sacred garden, differing mainly in depth and pacing.", tourCard: { slug: "lumbini-buddhist-spiritual-tour-of-buddhas", title: "Lumbini: Buddhist Spiritual Tour of Buddha's Birthplace", description: "A spiritually-focused tour of Buddha's birthplace.", price: "From $83", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/36db59dd55bb2788cf80fe08e90573f2d03f5d998a08f81ca2802f52eea97fcb.jpg" } },
+                    { title: "Alternative: Guided Day Tour to Buddha's Birthplace", content: "A standard guided version covering the same core sites at a different pace and price point.", tourCard: { slug: "lumbini-guided-day-tour-to-buddhas-birthplace", title: "Lumbini: Guided Day Tour to Buddha's Birthplace", description: "A standard guided day tour of Buddha's birthplace.", price: "From $124", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eb70d1e873150178.jpeg" } },
+                    { title: "Practical Tips", content: "Lumbini is genuinely quiet and contemplative compared to Nepal's more touristy sites — dress modestly and expect a slower, more reflective pace than a typical sightseeing stop." }
+                ],
+                faqs: [
+                    { q: "What is the best Buddha's birthplace tour in Lumbini?", a: "Either version covers the Maya Devi Temple and sacred garden — the spiritual version leans deeper into the religious context." },
+                    { q: "Is Lumbini worth visiting for non-Buddhists?", a: "Yes, it's a UNESCO World Heritage site with genuine historical significance beyond its religious importance." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Buddha's birthplace tour?", "acceptedAnswer": { "@type": "Answer", "text": "Either version covers the Maya Devi Temple and sacred garden." } },
+                    { "@type": "Question", "name": "Is it worth visiting for non-Buddhists?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a UNESCO site with genuine historical significance." } }
+                ] },
+            };
+
+        case "is-beyond-lumbini-tour-worth-it":
+            return {
+                title: "Is the Beyond Lumbini Tour (Kapilvastu, Ramgram, Devdaha) Worth It?",
+                seoTitle: "Beyond Lumbini Tour 2026 | Honest Review",
+                description: "An honest look at the Beyond Lumbini day tour covering Kapilvastu, Ramgram, and Devdaha — lesser-known Buddhist archaeological sites.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e472178f6514c2d1fc9a8681d5daea3fdc47f3ee0da18c94bb438bad776cb299.png",
+                sections: [
+                    { title: "The Short Answer", content: "These are genuinely lesser-known archaeological sites connected to Buddha's early life — Kapilvastu (his childhood home), Ramgram, and Devdaha — worthwhile specifically for travellers who've already seen Lumbini itself and want deeper Buddhist history rather than a repeat visit.", tourCard: { slug: "beyond-lumbini-kapilvastu-ramgram-devdaha-and", title: "Beyond Lumbini: Kapilvastu, Ramgram & Devdaha and Lunch", description: "A day tour covering Kapilvastu, Ramgram, and Devdaha with lunch.", price: "From $59", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e472178f6514c2d1fc9a8681d5daea3fdc47f3ee0da18c94bb438bad776cb299.png" } },
+                    { title: "Practical Tips", content: "These sites are more archaeological than visually dramatic — a knowledgeable guide adds real value here since the historical significance isn't always obvious from the ruins alone." }
+                ],
+                faqs: [
+                    { q: "Is the Beyond Lumbini tour worth it?", a: "Yes, for travellers who've already seen Lumbini and want deeper Buddhist history at lesser-known sites." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Beyond Lumbini tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for deeper Buddhist history beyond Lumbini itself." } }
+                ] },
+            };
+
+        case "is-crane-watching-tour-worth-it-lumbini":
+            return {
+                title: "Is the Crane Spotting/Watching Tour in Lumbini Worth It?",
+                seoTitle: "Lumbini Crane Watching Tour 2026 | Honest Review",
+                description: "An honest look at Lumbini's crane spotting and watching tour, a genuinely different nature-focused activity in a mainly spiritual destination.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/926d8bfa5c653d5e223b0daeecd15578b770207b19acd2021b2cfdbdf1e389a5.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Lumbini's surrounding wetlands host Sarus cranes, among the tallest flying birds in the world — a genuinely different, nature-focused activity in a destination mostly known for spiritual sites, worth it for birdwatchers or anyone wanting variety beyond temples.", tourCard: { slug: "lumbini-crane-spotting-watching-tour", title: "Lumbini: Crane Spotting/Watching Tour", description: "A crane spotting tour in Lumbini's surrounding wetlands.", price: "From $130", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/926d8bfa5c653d5e223b0daeecd15578b770207b19acd2021b2cfdbdf1e389a5.jpg" } },
+                    { title: "Practical Tips", content: "Early morning or late afternoon gives the best chance of sightings, when the cranes are most active." }
+                ],
+                faqs: [
+                    { q: "Is the crane watching tour in Lumbini worth it?", a: "Yes, a genuinely different nature-focused activity for birdwatchers or those wanting variety beyond temples." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the crane watching tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a different nature-focused activity for birdwatchers." } }
+                ] },
+            };
+
+        case "lumbini-travel-guide-2026":
+            return {
+                title: "Lumbini Travel Guide 2026",
+                description: "What visitors need to know about Lumbini, the UNESCO-listed birthplace of Buddha.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/36db59dd55bb2788cf80fe08e90573f2d03f5d998a08f81ca2802f52eea97fcb.jpg",
+                sections: [
+                    { title: "Why Visit", content: "Lumbini is the UNESCO World Heritage birthplace of Buddha, a major pilgrimage site with the Maya Devi Temple, a sacred garden, and monasteries built by Buddhist communities from around the world." }
+                ],
+                faqs: [
+                    { q: "Is Lumbini worth visiting?", a: "Yes, as a UNESCO World Heritage site of major religious and historical significance." }
+                ],
+            };
+
         default:
             return null;
     }

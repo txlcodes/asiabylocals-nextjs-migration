@@ -657,6 +657,18 @@ export const SALALAH_INFO_SLUGS = [
   'salalah-travel-guide-2026', 'best-time-to-visit-salalah',
 ];
 
+// Bhaktapur & Lumbini (Nepal) — launched 2026-11-21.
+export const BHAKTAPUR_INFO_SLUGS = [
+  'best-durbar-square-tour-bhaktapur', 'best-pottery-workshop-bhaktapur',
+  'is-changunarayan-hike-worth-it-bhaktapur', 'is-bicycle-heritage-tour-worth-it-bhaktapur',
+  'is-woodcarving-workshop-worth-it-bhaktapur', 'bhaktapur-travel-guide-2026',
+];
+
+export const LUMBINI_INFO_SLUGS = [
+  'best-buddhas-birthplace-tour-lumbini', 'is-beyond-lumbini-tour-worth-it',
+  'is-crane-watching-tour-worth-it-lumbini', 'lumbini-travel-guide-2026',
+];
+
 export const JOHOR_BAHRU_INFO_SLUGS = [
   'best-jetski-tour-johor-bahru',
   'best-hop-on-hop-off-tour-johor-bahru', 'best-private-city-tour-johor-bahru',
