@@ -247,6 +247,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'how-much-should-a-private-tour-guide-cost-in-istanbul',
     'best-hagia-sophia-blue-mosque-tour', 'best-bosphorus-cruise-istanbul',
     'best-ephesus-pamukkale-fly-tour-istanbul',
+    'is-pub-crawl-worth-it-istanbul', 'is-card-game-tea-experience-worth-it-istanbul',
   ].map(slug => ({
     url: `${BASE_URL}/turkey/istanbul/${slug}`,
     lastModified: new Date(),

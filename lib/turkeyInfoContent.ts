@@ -1344,6 +1344,48 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         ] },
       };
 
+    case "is-pub-crawl-worth-it-istanbul":
+      return {
+        title: "Is the Nightlife Pub Crawl Worth It in Istanbul?",
+        description: "An honest look at Istanbul's nightlife pub crawl, a social evening activity distinct from the city's daytime mosque, palace, and cistern sightseeing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0f28c583d9eb4720f3dc1080ee13cc547c9d642545b0a18cc863be484db3387f.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This pub crawl hops between several bars in Istanbul's nightlife districts, a social way to meet other travelers and see a different side of the city than its daytime mosques and palaces — worth it specifically if meeting people and bar-hopping is the goal rather than a quiet evening.",
+            tourCard: { slug: "explore-istanbul-night-life-pub-crawl", title: "Explore Istanbul Night Life: Pub Crawl", description: "A guided pub crawl through Istanbul's nightlife districts.", price: "From $30", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0f28c583d9eb4720f3dc1080ee13cc547c9d642545b0a18cc863be484db3387f.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a long evening (6 hours), so pace yourself across the stops rather than treating the first bar as the only one that matters.",
+          },
+        ],
+        faqs: [
+          { q: "Is the pub crawl worth it in Istanbul?", a: "Yes, for a social night out meeting other travelers, a genuinely different experience from the city's daytime sightseeing." },
+        ],
+      };
+
+    case "is-card-game-tea-experience-worth-it-istanbul":
+      return {
+        title: "Is the Card Game and Turkish Tea Experience Worth It in Istanbul?",
+        description: "An honest look at Istanbul's card game and afternoon Turkish tea experience with a local, a slow-paced social activity distinct from the city's major landmark tours.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11c33347cf314f684e91627f8c49c93ecc20f5fb6e56468f74a988da4a156db2.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Spending an afternoon playing a traditional card game over Turkish tea with a local host is a genuinely different pace from Istanbul's major landmark tours, a relaxed way to experience everyday local social life rather than another checklist sight.",
+            tourCard: { slug: "card-game-and-afternoon-turkish-tea-with-local", title: "Card Game and Afternoon Turkish Tea with a Local", description: "A relaxed afternoon of a traditional card game and Turkish tea with a local host.", price: "From $41", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11c33347cf314f684e91627f8c49c93ecc20f5fb6e56468f74a988da4a156db2.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior knowledge of the card game is needed — your host teaches you as you go, so this suits travelers who want genuine local interaction over sightseeing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the card game and tea experience worth it in Istanbul?", a: "Yes, for a relaxed, genuine taste of local everyday social life, a different pace from the city's major landmark tours." },
+        ],
+      };
+
     default:
       return null;
   }
