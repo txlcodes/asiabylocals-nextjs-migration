@@ -3137,6 +3137,24 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-bako-national-park-tour-worth-it-kuching":
+            return {
+                title: "Is the Bako National Park Day Tour Worth It from Kuching?",
+                seoTitle: "Bako National Park Tour 2026 | Honest Review",
+                description: "An honest look at the Bako National Park wildlife day tour, Sarawak's oldest national park and a reliable spot for wild proboscis monkeys.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1309544/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Bako is Sarawak's oldest national park and one of the more reliable places to spot wild proboscis monkeys, reachable only by boat, which gives the park a genuinely remote feel despite being a manageable day trip from Kuching.", tourCard: { slug: "kuching-bako-wildlife-day-tour", title: "Kuching: Bako Wildlife Day Tour", description: "A day tour to Bako National Park for wildlife spotting.", price: "From $367", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1309544/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "The boat transfer depends on tide conditions, so your pickup and return times may shift slightly — build in some flexibility." }
+                ],
+                faqs: [
+                    { q: "Is Bako National Park worth it from Kuching?", a: "Yes, for a genuinely remote-feeling wildlife day trip and a reliable chance to see wild proboscis monkeys, all reachable in a single day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Bako National Park tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a reliable chance to see wild proboscis monkeys in a genuinely remote-feeling park reachable only by boat." } }
+                ] },
+            };
+
         case "johor-bahru-travel-guide-2026":
             return {
                 title: "Johor Bahru Travel Guide 2026",
@@ -3658,6 +3676,60 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ],
                 jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
                     { "@type": "Question", "name": "Is the Blue Tear river tour worth it in Kota Kinabalu?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different bioluminescent nighttime phenomenon." } },
+                ] },
+            };
+
+        case "is-mari-mari-cultural-village-worth-it-kota-kinabalu":
+            return {
+                title: "Is the Mari Mari Cultural Village Worth It in Kota Kinabalu?",
+                seoTitle: "Mari Mari Cultural Village 2026 | Honest Review",
+                description: "An honest look at the Mari Mari Cultural Village day tour, a recreated traditional village showcasing Sabah's indigenous ethnic groups.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-602491/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Mari Mari recreates traditional houses from five of Sabah's indigenous ethnic groups, with guides demonstrating fire-making, traditional skills, and a cultural performance, a genuinely hands-on introduction to Sabah's indigenous heritage rather than a static museum display.", tourCard: { slug: "kota-kinabalu-mari-mari-cultural-village-day-tour", title: "Kota Kinabalu: Mari Mari Cultural Village Day Tour", description: "A day tour to the Mari Mari Cultural Village showcasing Sabah's indigenous groups.", price: "From $211", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-602491/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A traditional lunch is usually included — come ready to try dishes specific to Sabah's indigenous communities rather than standard Malaysian fare." },
+                ],
+                faqs: [
+                    { q: "Is Mari Mari Cultural Village worth it?", a: "Yes, for a genuinely hands-on introduction to Sabah's indigenous heritage, with guides demonstrating traditional skills rather than a static display." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Mari Mari Cultural Village worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely hands-on introduction to Sabah's indigenous heritage." } },
+                ] },
+            };
+
+        case "is-mamutik-island-hopping-worth-it-kota-kinabalu":
+            return {
+                title: "Is Mamutik Island Hopping Worth It in Kota Kinabalu?",
+                seoTitle: "Mamutik Island Kota Kinabalu 2026 | Honest Review",
+                description: "An honest look at the DBKK jetty Mamutik Island hopping ticket, the most affordable way to reach Tunku Abdul Rahman Marine Park's beaches.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1397197/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Mamutik is one of the islands within Tunku Abdul Rahman Marine Park, just a short boat ride from the city jetty, and this basic ferry ticket is the most affordable way to spend a day on clear-water beaches without booking a full guided tour package.", tourCard: { slug: "dbkk-jetty-mamutik-island-hopping-ticket", title: "DBKK Jetty Mamutik Island Hopping Ticket", description: "A ferry ticket to Mamutik Island from the DBKK jetty.", price: "From $33", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1397197/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This is a basic transport ticket rather than a guided tour — bring your own snorkeling gear and food if you want more than just beach time." },
+                ],
+                faqs: [
+                    { q: "Is Mamutik Island hopping worth it?", a: "Yes, it's the most affordable way to reach Tunku Abdul Rahman Marine Park's clear-water beaches for a day." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Mamutik Island hopping worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's the most affordable way to reach the marine park's clear-water beaches for a day." } },
+                ] },
+            };
+
+        case "is-kinabalu-view-fire-show-tour-worth-it-kota-kinabalu":
+            return {
+                title: "Is the 5-in-1 Kinabalu View and Fire Show Tour Worth It?",
+                seoTitle: "Kinabalu View Fire Show Tour 2026 | Honest Review",
+                description: "An honest look at the 5-in-1 Kinabalu View and fire show tour, bundling a mountain viewpoint, hot springs, and an evening fire show into one day.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3ea9be6404029f83ac4732f6e162c2c5b40d868c1a1a62f3e4f3ff6f29d664a8.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This combo tour bundles a Mount Kinabalu viewpoint stop, hot springs, and an evening fire show into one day, a genuinely efficient way to see several of the area's inland attractions without arranging separate trips, for travelers without time for an actual Kinabalu Park hike.", tourCard: { slug: "kota-kinabalu-5-in-1-kinabalu-view-fire-show", title: "Kota Kinabalu: 5-in-1 Kinabalu View & Fire Show", description: "A combo tour with a Mount Kinabalu viewpoint, hot springs, and fire show.", price: "From $93", duration: "7.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3ea9be6404029f83ac4732f6e162c2c5b40d868c1a1a62f3e4f3ff6f29d664a8.jpg" } },
+                    { title: "Practical Tips", content: "This is a viewpoint and combo-activity tour, not an actual Kinabalu Park summit hike — manage expectations if the mountain climb itself is what you're after." },
+                ],
+                faqs: [
+                    { q: "Is the 5-in-1 Kinabalu view tour worth it?", a: "Yes, for efficiently combining a mountain viewpoint, hot springs, and an evening fire show in one day, though it's not an actual summit hike." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the 5-in-1 Kinabalu view tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for efficiently combining a mountain viewpoint, hot springs, and an evening fire show in one day." } },
                 ] },
             };
 

@@ -1094,6 +1094,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-mantanani-island-worth-it-kota-kinabalu', 'is-proboscis-monkey-firefly-tour-worth-it-kota-kinabalu',
     'is-flavours-of-sabah-cooking-class-worth-it-kota-kinabalu',
     'is-walking-food-tour-worth-it-kota-kinabalu', 'is-blue-tear-river-tour-worth-it-kota-kinabalu',
+    'is-mari-mari-cultural-village-worth-it-kota-kinabalu', 'is-mamutik-island-hopping-worth-it-kota-kinabalu',
+    'is-kinabalu-view-fire-show-tour-worth-it-kota-kinabalu',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/kota-kinabalu/${slug}`,
     lastModified: new Date(),
@@ -1113,6 +1115,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-multi-day-sarawak-adventure-kuching', 'best-national-park-tour-kuching',
     'is-siniawan-night-market-worth-it-kuching', 'is-gula-apong-tour-worth-it-kuching',
     'is-weaving-workshop-worth-it-kuching',
+    'is-bako-national-park-tour-worth-it-kuching',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/kuching/${slug}`,
     lastModified: new Date(),

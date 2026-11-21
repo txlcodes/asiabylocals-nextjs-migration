@@ -264,6 +264,8 @@ export const KOTA_KINABALU_INFO_SLUGS = [
   'is-mantanani-island-worth-it-kota-kinabalu', 'is-proboscis-monkey-firefly-tour-worth-it-kota-kinabalu',
   'is-flavours-of-sabah-cooking-class-worth-it-kota-kinabalu',
   'is-walking-food-tour-worth-it-kota-kinabalu', 'is-blue-tear-river-tour-worth-it-kota-kinabalu',
+  'is-mari-mari-cultural-village-worth-it-kota-kinabalu', 'is-mamutik-island-hopping-worth-it-kota-kinabalu',
+  'is-kinabalu-view-fire-show-tour-worth-it-kota-kinabalu',
 ];
 
 export const KUCHING_INFO_SLUGS = [
@@ -278,6 +280,7 @@ export const KUCHING_INFO_SLUGS = [
   'best-multi-day-sarawak-adventure-kuching', 'best-national-park-tour-kuching',
   'is-siniawan-night-market-worth-it-kuching', 'is-gula-apong-tour-worth-it-kuching',
   'is-weaving-workshop-worth-it-kuching',
+  'is-bako-national-park-tour-worth-it-kuching',
 ];
 
 // Nepal launched 2026-11-16 with 1,535 live tours and zero authority pages.
