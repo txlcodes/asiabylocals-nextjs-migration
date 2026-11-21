@@ -1519,6 +1519,43 @@ export function getSaudiArabiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-scuba-certification-course-worth-it-jeddah":
+            return {
+                title: "Is the Beginner Scuba Diving Certification Course Worth It in Jeddah?",
+                seoTitle: "Jeddah Scuba Certification Course 2026 | Honest Review",
+                description: "An honest look at Jeddah's beginner scuba diving course that ends with actual certification, distinct from a standard guided dive or snorkeling trip.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/faf24d0196daf1bc241a7389638a209c1f390148540c3d115e0188e26657418a.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Unlike a one-off guided dive or snorkeling trip, this course ends with an actual diving certification you keep and can use anywhere in the world — worth it specifically if you want to start diving as a hobby, not just try it once.", tourCard: { slug: "jeddah-beginner-scuba-diving-course-with", title: "Jeddah: Beginner Scuba Diving Course with Certification", description: "A beginner scuba diving course ending in certification.", price: "From $247", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/faf24d0196daf1bc241a7389638a209c1f390148540c3d115e0188e26657418a.jpg" } },
+                    { title: "Practical Tips", content: "If you just want to see the Red Sea's reefs once without a long-term commitment, a standard guided dive or snorkeling trip is cheaper and faster than this certification course." }
+                ],
+                faqs: [
+                    { q: "Do I keep the certification from this course?", a: "Yes, it's a real diving certification usable anywhere in the world, not just a one-off guided dive." },
+                    { q: "Is this course worth it for a single Jeddah visit?", a: "Only if you plan to dive again elsewhere — otherwise a standard guided dive or snorkeling trip is more efficient." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Do I keep the certification?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a real certification usable anywhere in the world." } }
+                ] },
+            };
+
+        case "is-local-woman-guided-tour-worth-it-jeddah":
+            return {
+                title: "Is the Jeddah Tour Guided by a Local Woman Worth It?",
+                seoTitle: "Jeddah Local Woman Guided Tour 2026 | Honest Review",
+                description: "An honest look at Jeddah's guided tour led by a local woman, offering a different cultural perspective on the city.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/25a0d7cb7507d6473beb40a701a51babf4221f0ab04a39ec38d917e6604e2b8c.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour is led by a local Saudi woman, offering a personal, firsthand perspective on daily life and culture in Jeddah that a standard guide tour doesn't always provide.", tourCard: { slug: "guided-tour-in-jeddah-by-local-woman", title: "Guided Tour in Jeddah by Local Woman", description: "A guided tour of Jeddah led by a local woman.", price: "From $163", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/25a0d7cb7507d6473beb40a701a51babf4221f0ab04a39ec38d917e6604e2b8c.jpg" } },
+                    { title: "Practical Tips", content: "A good option for travelers specifically interested in a woman's perspective on contemporary life in Saudi Arabia, beyond standard sightseeing commentary." }
+                ],
+                faqs: [
+                    { q: "What makes this tour different from a standard Jeddah tour?", a: "It's led by a local Saudi woman, offering a personal, firsthand perspective on daily life and culture." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What makes this tour different?", "acceptedAnswer": { "@type": "Answer", "text": "It's led by a local Saudi woman, offering a personal perspective on daily life." } }
+                ] },
+            };
+
         default:
             return null;
     }

@@ -455,6 +455,7 @@ export const JEDDAH_INFO_SLUGS: string[] = [
   'jeddah-1-day-itinerary', 'is-jeddah-safe',
   'jeddah-dress-code-guide', 'jeddah-food-guide',
   'is-jet-car-ride-worth-it-jeddah',
+  'is-scuba-certification-course-worth-it-jeddah', 'is-local-woman-guided-tour-worth-it-jeddah',
 ];
 export const ALULA_INFO_SLUGS: string[] = [
   'best-hegra-tour-alula', 'best-dadan-jabal-ikmah-tour-alula',
