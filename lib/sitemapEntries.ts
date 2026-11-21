@@ -260,6 +260,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-basilica-cistern-worth-it-istanbul', 'is-princes-islands-tour-worth-it-istanbul',
     'is-whirling-dervish-ceremony-worth-it-istanbul', 'is-cappadocia-tour-from-istanbul-worth-it',
     'is-ephesus-pamukkale-day-trip-worth-it-istanbul',
+    'is-gallipoli-tour-worth-it-istanbul', 'is-gobekli-tepe-tour-worth-it-istanbul',
+    'is-sapanca-masukiye-tour-worth-it-istanbul', 'is-turkish-coffee-fortune-telling-worth-it-istanbul',
+    'is-food-tour-worth-it-istanbul',
   ].map(slug => ({
     url: `${BASE_URL}/turkey/istanbul/${slug}`,
     lastModified: new Date(),

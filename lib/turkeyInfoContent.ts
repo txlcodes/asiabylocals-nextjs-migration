@@ -1575,6 +1575,111 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-gallipoli-tour-worth-it-istanbul":
+      return {
+        title: "Is the Gallipoli Battlefield Tour Worth It from Istanbul?",
+        description: "An honest look at the full-day Gallipoli battlefield tour from Istanbul, visiting the WWI sites central to Turkish, Australian, and New Zealand history.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/40a6d05dc41af7b03a59df1bed31176bf16773eddf678476b6b8557660418719.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Gallipoli was the site of one of World War I's most significant campaigns, holding deep historical meaning for Turkey as well as Australia and New Zealand through the ANZAC legacy, and this full-day tour covers the key battlefield sites and memorials with a guide who can explain their context.",
+            tourCard: { slug: "from-istanbul-full-day-gallipoli-battlefield-tour", title: "From Istanbul: Full-Day Gallipoli Battlefield Tour", description: "A full-day guided tour of the Gallipoli WWI battlefield sites.", price: "From $276", duration: "18 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/40a6d05dc41af7b03a59df1bed31176bf16773eddf678476b6b8557660418719.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuinely long day given the distance from Istanbul — worth it specifically for travelers with a real historical interest rather than casual sightseers.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Gallipoli tour worth it from Istanbul?", a: "Yes, for travelers with genuine historical interest in WWI and the ANZAC legacy, though it's a long day given the distance." },
+        ],
+      };
+
+    case "is-gobekli-tepe-tour-worth-it-istanbul":
+      return {
+        title: "Is the Göbekli Tepe Day Tour Worth It from Istanbul?",
+        description: "An honest look at the Göbekli Tepe day tour, visiting what's widely considered the world's oldest known temple complex, predating Stonehenge by thousands of years.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2c8195cb3aced779b29cb4d1e321e929130b84e2a97742cbd497a8d08d608857.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Göbekli Tepe is widely considered the world's oldest known temple complex, predating Stonehenge and Egypt's pyramids by thousands of years, and this day trip near Şanlıurfa in southeastern Turkey is a serious commitment given the distance, aimed squarely at travelers with real archaeological interest rather than casual sightseers.",
+            tourCard: { slug: "from-istanbul-gobeklitepe-daily-tour", title: "From Istanbul: Göbekli Tepe Daily Tour", description: "A day tour to the ancient Göbekli Tepe temple complex from Istanbul.", price: "From $850", duration: "15 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2c8195cb3aced779b29cb4d1e321e929130b84e2a97742cbd497a8d08d608857.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Given the price and distance, this is really worth booking only if Göbekli Tepe itself is a genuine priority — it's a long and costly day otherwise.",
+          },
+        ],
+        faqs: [
+          { q: "Is Göbekli Tepe worth visiting from Istanbul?", a: "Yes, for travelers with real archaeological interest in the world's oldest known temple complex, though it's a costly, long-distance day given its remote location." },
+        ],
+      };
+
+    case "is-sapanca-masukiye-tour-worth-it-istanbul":
+      return {
+        title: "Is the Sapanca Lake and Masukiye Tour Worth It from Istanbul?",
+        description: "An honest look at the Sapanca Lake and Masukiye day trip, a forested lake-and-waterfall escape from Istanbul's city sightseeing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9448825ec7a2b519734963e4622f6dc4c4540e558dbc507d7a3e99637a6efd34.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sapanca Lake and the nearby village of Masukiye offer forested, waterfall-dotted countryside scenery, a genuine change of pace from Istanbul's mosques and bazaars, reachable in a single day without an overnight commitment.",
+            tourCard: { slug: "from-istanbul-sapanca-lake-masukiye-trip-with", title: "From Istanbul: Sapanca Lake & Masukiye Trip", description: "A day trip to Sapanca Lake and Masukiye village from Istanbul.", price: "From $66", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9448825ec7a2b519734963e4622f6dc4c4540e558dbc507d7a3e99637a6efd34.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for travelers who've already covered Istanbul's main sights and want a nature day without flying to Cappadocia or driving to the coast.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sapanca Lake tour worth it from Istanbul?", a: "Yes, for a genuine nature and countryside change of pace from the city, reachable in a single day without flying anywhere." },
+        ],
+      };
+
+    case "is-turkish-coffee-fortune-telling-worth-it-istanbul":
+      return {
+        title: "Is the Turkish Coffee and Fortune Telling Experience Worth It?",
+        description: "An honest look at the home-style Turkish coffee making and fortune telling experience, a genuine cultural tradition rather than a novelty tourist show.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7e5412ed1b88864655f421f4d27eb19e21a7397d25554e39c5dd2b3ea7ba22f2.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Reading fortunes from the patterns left in Turkish coffee grounds is a genuine, long-standing social tradition, and learning to brew the coffee yourself before having your own cup read gives real insight into an everyday ritual rather than a staged tourist novelty.",
+            tourCard: { slug: "home-style-turkish-coffee-making-and-fortune", title: "Home-Style Turkish Coffee Making and Fortune Telling", description: "A hands-on Turkish coffee making and fortune telling experience.", price: "From $97", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7e5412ed1b88864655f421f4d27eb19e21a7397d25554e39c5dd2b3ea7ba22f2.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Take the fortune reading in the spirit it's meant — as a genuine cultural tradition and a fun, personal experience, not a literal prediction.",
+          },
+        ],
+        faqs: [
+          { q: "Is Turkish coffee fortune telling a real tradition?", a: "Yes, it's a genuine, long-standing social custom in Turkey, not a tourist invention, which is what makes this a more meaningful experience than a staged show." },
+        ],
+      };
+
+    case "is-food-tour-worth-it-istanbul":
+      return {
+        title: "Is the Istanbul Food Tour Worth It?",
+        description: "An honest look at Istanbul's 10-tastings food tour with a local host, sampling the city's food scene across multiple stops with a guide.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/23d41f9d571253cd5df8a9238dfec1ab6bbfde0ab577940700058a5fa8378791.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Istanbul's food scene spans Ottoman, Middle Eastern, and Mediterranean influences, and this 10-tastings tour with a local host solves the real problem of not knowing which neighborhood stalls and shops are genuinely worth seeking out among the city's huge food scene.",
+            tourCard: { slug: "istanbul-10-tastings-food-tour-with-a-local-host", title: "Istanbul 10 Tastings Food Tour with a Local Host", description: "A guided food tour sampling 10 tastings across Istanbul.", price: "From $138", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/23d41f9d571253cd5df8a9238dfec1ab6bbfde0ab577940700058a5fa8378791.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come hungry and skip a big meal beforehand — 10 tastings across multiple stops adds up to a genuinely filling outing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Istanbul food tour worth it?", a: "Yes, for a local host's knowledge of which stalls and shops are genuinely worth seeking out across the city's huge food scene." },
+        ],
+      };
+
     default:
       return null;
   }

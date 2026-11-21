@@ -999,6 +999,9 @@ export const ISTANBUL_INFO_SLUGS = [
   'is-basilica-cistern-worth-it-istanbul', 'is-princes-islands-tour-worth-it-istanbul',
   'is-whirling-dervish-ceremony-worth-it-istanbul', 'is-cappadocia-tour-from-istanbul-worth-it',
   'is-ephesus-pamukkale-day-trip-worth-it-istanbul',
+  'is-gallipoli-tour-worth-it-istanbul', 'is-gobekli-tepe-tour-worth-it-istanbul',
+  'is-sapanca-masukiye-tour-worth-it-istanbul', 'is-turkish-coffee-fortune-telling-worth-it-istanbul',
+  'is-food-tour-worth-it-istanbul',
 ];
 
 // Qatar launched 2026-10 with 850 live tours (single city: Doha) and
