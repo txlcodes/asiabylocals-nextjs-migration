@@ -1691,6 +1691,24 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-luxury-spa-worth-it-kathmandu":
+            return {
+                title: "Is the Luxury Spa Package Worth It in Kathmandu?",
+                seoTitle: "Kathmandu Luxury Spa Package 2026 | Honest Review",
+                description: "An honest look at Kathmandu's luxury spa package with massage, sauna, and jacuzzi, a restful break after days of temple sightseeing or trekking.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ec73509524078b490a559e2ff60cc68cde3dd86d4b27e97de99c90112f9e6970.png",
+                sections: [
+                    { title: "The Short Answer", content: "This three-hour package combines a full massage with sauna and jacuzzi access, a good way to recover after a Base Camp trek or days of temple-hopping and durbar square walking around the valley.", tourCard: { slug: "kathmandu-luxury-spa-with-massage-sauna-jacuzzi", title: "Kathmandu: Luxury Spa with Massage, Sauna & Jacuzzi", description: "A three-hour luxury spa package with massage, sauna, and jacuzzi.", price: "From $91", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ec73509524078b490a559e2ff60cc68cde3dd86d4b27e97de99c90112f9e6970.png" } },
+                    { title: "Practical Tips", content: "Book this for the end of a trek or a multi-day sightseeing stretch rather than the start of your trip, when it's most useful." }
+                ],
+                faqs: [
+                    { q: "Is the luxury spa package worth it in Kathmandu?", a: "Yes, especially as a recovery day after trekking or several days of sightseeing around the valley." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the luxury spa package worth it in Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, especially as a recovery day after trekking or sightseeing." } }
+                ] },
+            };
+
         case "is-rock-climbing-worth-it-kathmandu":
             return {
                 title: "Is Rock Climbing Worth It near Kathmandu?",
