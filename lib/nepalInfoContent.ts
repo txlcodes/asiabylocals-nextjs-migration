@@ -1115,6 +1115,173 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        case "best-paragliding-tour-pokhara":
+            return {
+                title: "Which Is the Best Paragliding Tour in Pokhara?",
+                seoTitle: "Best Paragliding Tour Pokhara 2026 | Honest Comparison",
+                description: "Compare real tandem paragliding flights in Pokhara — from an $80 budget flight with Annapurna views to combos with a city tour and Phewa Lake.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6a0ef06342ccb1bfdfddbfba209fb927023fc5f3e5c1974d8046dff8a2a65db5.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Nearly every Pokhara paragliding tour launches from Sarangkot with Annapurna range views on the way down — the differences are mainly flight length, photo/video inclusion, and whether extra sightseeing is bundled in.", tourCard: { slug: "pokhara-paragliding-with-annapurna-views-photos", title: "Pokhara: Paragliding with Annapurna Views, Photos & Video", description: "A standard tandem paragliding flight with Annapurna views and photos.", price: "From $80", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6a0ef06342ccb1bfdfddbfba209fb927023fc5f3e5c1974d8046dff8a2a65db5.jpg" } },
+                    { title: "Cheapest: Paragliding with Photos & Video", content: "At $80, this is the lowest-priced standard flight that still includes photo and video of your flight.", tourCard: { slug: "pokhara-paragliding-with-annapurna-views-photos", title: "Pokhara: Paragliding with Annapurna Views, Photos & Video", description: "The budget-friendly paragliding flight with media included.", price: "From $80", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6a0ef06342ccb1bfdfddbfba209fb927023fc5f3e5c1974d8046dff8a2a65db5.jpg" } },
+                    { title: "Best with GoPro: Tandem Flight with GoPro Photos", content: "This version specifically uses a GoPro for your flight footage, a step up in capture quality over a standard phone/camera photo package.", tourCard: { slug: "pokhara-tandem-paragliding-flight-with-gopro", title: "Pokhara: Tandem Paragliding Flight with GoPro Photos", description: "A tandem flight with GoPro footage of the experience.", price: "From $91", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3f9bdd6de60cddee665013ea6d9da3053a9c3246f1273ca782e27887411703c2.jpeg" } },
+                    { title: "Best Full Package: Paragliding with Complimentary Pokhara Tour", content: "This bundles the flight with a complimentary city tour of Pokhara afterward, good value if you also want some ground-level sightseeing the same day.", tourCard: { slug: "pokhara-paragliding-package-with-complimentary", title: "Pokhara: Paragliding Package with Complimentary Pokhara Tour", description: "A paragliding flight bundled with a complimentary city tour.", price: "From $94", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/62be5ac206bfda4c7bb9529444e41dc869627701a1e74777dfd08ad6ded0f387.jpg" } },
+                    { title: "Practical Tips", content: "Flights launch from Sarangkot and land near Phewa Lake, so morning slots (before afternoon winds pick up) tend to be smoother and are often preferred by first-time flyers." }
+                ],
+                faqs: [
+                    { q: "What is the best paragliding tour in Pokhara?", a: "A standard flight with photos suits most visitors; add the Pokhara tour package for a fuller day." },
+                    { q: "Is Pokhara paragliding safe for beginners?", a: "Yes, all flights are tandem with a certified pilot — no experience needed." },
+                    { q: "What's the best time of day to paraglide in Pokhara?", a: "Morning, before afternoon winds pick up, tends to be smoother." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best paragliding tour in Pokhara?", "acceptedAnswer": { "@type": "Answer", "text": "A standard flight with photos suits most visitors." } },
+                    { "@type": "Question", "name": "Is it safe for beginners?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, all flights are tandem with a certified pilot." } },
+                    { "@type": "Question", "name": "Best time of day to fly?", "acceptedAnswer": { "@type": "Answer", "text": "Morning, before afternoon winds pick up." } }
+                ] },
+            };
+
+        case "best-sarangkot-sunrise-tour-pokhara":
+            return {
+                title: "Which Is the Best Sarangkot Sunrise Tour in Pokhara?",
+                seoTitle: "Best Sarangkot Sunrise Tour Pokhara 2026 | Comparison",
+                description: "Compare real Sarangkot sunrise tours from Pokhara — from a $23 standard tour with Annapurna views to a private version and a cable car combo.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/36a7253ae364b9bdacf2f0c0efc53550fc4c2fb8a2dc0143b96c19957aa9e5e1.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Sarangkot's hilltop viewpoint offers one of the best sunrise views of the Annapurna range anywhere near Pokhara, and most tours differ mainly in whether they're shared or private, and whether a cable car ride is included.", tourCard: { slug: "from-pokhara-sarangkot-sunrise-tour-with", title: "From Pokhara: Sarangkot Sunrise Tour with Annapurna Views", description: "A standard shared sunrise tour to Sarangkot.", price: "From $23", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/36a7253ae364b9bdacf2f0c0efc53550fc4c2fb8a2dc0143b96c19957aa9e5e1.jpg" } },
+                    { title: "Cheapest: Standard Sunrise Tour", content: "At $23, this is the lowest-priced way to see the Sarangkot sunrise over the Annapurna range.", tourCard: { slug: "from-pokhara-sarangkot-sunrise-tour-with", title: "From Pokhara: Sarangkot Sunrise Tour with Annapurna Views", description: "The budget-friendly shared sunrise tour.", price: "From $23", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/36a7253ae364b9bdacf2f0c0efc53550fc4c2fb8a2dc0143b96c19957aa9e5e1.jpg" } },
+                    { title: "Best with Panoramic Views: Sunrise Tour with Annapurna Panoramas", content: "A slightly different operator take on the same core experience, emphasizing the full panoramic sweep of the Annapurna range.", tourCard: { slug: "pokhara-sarangkot-sunrise-tour-with-annapurna", title: "Pokhara: Sarangkot Sunrise Tour with Annapurna Panoramas", description: "A sunrise tour emphasizing panoramic Annapurna views.", price: "From $30", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/521071f4c9b591b34f278d60008ddab984f6055c1f349bdebe6513cc54fd5f82.jpg" } },
+                    { title: "Best with Cable Car: Sunrise Tour with Cable Car and Local Guide", content: "This adds a cable car ride to the standard sunrise viewpoint visit, with a local guide providing context along the way.", tourCard: { slug: "pokhara-sarangkot-sunrise-cable-car-tour-with", title: "Pokhara: Sarangkot Sunrise, Cable Car tour with Local Guide", description: "The sunrise tour combined with a cable car ride.", price: "From $33", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4d7f9f625820347c805df9d8dffd863e336ad29d74c48101443662b4b7eb001e.jpeg" } },
+                    { title: "Practical Tips", content: "Departures are very early (typically 4:30-5am pickup) to reach the viewpoint before sunrise — bring a warm layer, since Sarangkot's elevation makes pre-dawn temperatures noticeably cooler than Pokhara's lakeside." }
+                ],
+                faqs: [
+                    { q: "What is the best Sarangkot sunrise tour in Pokhara?", a: "A standard shared tour suits most visitors; add a cable car for extra scenery." },
+                    { q: "What time do Sarangkot sunrise tours depart?", a: "Very early, typically around 4:30-5am, to reach the viewpoint before sunrise." },
+                    { q: "Is it cold at Sarangkot at sunrise?", a: "Yes, noticeably cooler than Pokhara's lakeside given the elevation — bring a warm layer." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Sarangkot sunrise tour?", "acceptedAnswer": { "@type": "Answer", "text": "A standard shared tour suits most visitors." } },
+                    { "@type": "Question", "name": "What time do tours depart?", "acceptedAnswer": { "@type": "Answer", "text": "Around 4:30-5am to reach the viewpoint before sunrise." } },
+                    { "@type": "Question", "name": "Is it cold at sunrise?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, bring a warm layer." } }
+                ] },
+            };
+
+        case "best-annapurna-day-hike-pokhara":
+            return {
+                title: "Which Is the Best Annapurna Day Hike from Pokhara?",
+                seoTitle: "Best Annapurna Day Hike Pokhara 2026 | Comparison",
+                description: "Compare real Annapurna foothills day hikes from Pokhara — a group hike to Australian Camp versus a panorama day hike, no multi-day trek commitment required.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b273225b0582cd12162ff2fdbac7b844732af9843934fd05551b737d6b5c27eb.png",
+                sections: [
+                    { title: "The Short Answer", content: "For travellers who want a taste of the Annapurna foothills without committing to a multi-day trek, these day hikes reach viewpoints like Australian Camp in a single day from Pokhara.", tourCard: { slug: "pokhara-annapurna-foothills-day-group-hike-with", title: "Pokhara: Annapurna Foothills Day Group Hike with Transfers", description: "A group day hike into the Annapurna foothills with transfers.", price: "From $76", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b273225b0582cd12162ff2fdbac7b844732af9843934fd05551b737d6b5c27eb.png" } },
+                    { title: "Best to Australian Camp: Annapurna Panorama Day Hike", content: "This specifically targets Australian Camp, a well-known foothills viewpoint, with panoramic Annapurna views as the reward.", tourCard: { slug: "pokhara-annapurna-panorama-day-hike-to-australian", title: "Pokhara: Annapurna Panorama Day Hike to Australian Camp", description: "A day hike to Australian Camp with panoramic Annapurna views.", price: "From $76", duration: "8.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d2631580acfbb30562fc02a4dc70b5fc77357f8795e439fbfa8e03d05129c696.jpg" } },
+                    { title: "Practical Tips", content: "These day hikes are a realistic option if you don't have the week-plus needed for a full Annapurna Base Camp trek, but still want real trail time and mountain views — reasonable fitness is enough, no technical experience needed." }
+                ],
+                faqs: [
+                    { q: "What is the best Annapurna day hike from Pokhara?", a: "Both options reach similar foothills viewpoints like Australian Camp — pick based on group vs. more flexible pacing." },
+                    { q: "Do I need trekking experience for an Annapurna day hike?", a: "No, reasonable fitness is enough for these single-day foothills hikes." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Annapurna day hike from Pokhara?", "acceptedAnswer": { "@type": "Answer", "text": "Both options reach similar foothills viewpoints like Australian Camp." } },
+                    { "@type": "Question", "name": "Do I need trekking experience?", "acceptedAnswer": { "@type": "Answer", "text": "No, reasonable fitness is enough." } }
+                ] },
+            };
+
+        case "best-phewa-lake-tour-pokhara":
+            return {
+                title: "Which Is the Best Phewa Lake Experience in Pokhara?",
+                seoTitle: "Best Phewa Lake Tour Pokhara 2026 | Honest Comparison",
+                description: "Compare real Phewa Lake experiences in Pokhara — a sunset boat ride with dinner versus a Queen's Forest hike combined with a lake boat ride.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f5e694af9832307acbe55ee3c17a2451fdcaa448d15e8ee90ec8f5e271838995.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Phewa Lake, Pokhara's centerpiece, can be enjoyed as a relaxed sunset boat ride or combined with a forest hike to Santi Stupa for those who want to earn the lake view with some walking first.", tourCard: { slug: "pokhara-sunset-boat-ride-on-phewa-lake-with-dinner", title: "Pokhara: Sunset Boat Ride on Phewa Lake with Dinner", description: "A relaxed sunset boat ride on Phewa Lake with dinner included.", price: "From $80", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f5e694af9832307acbe55ee3c17a2451fdcaa448d15e8ee90ec8f5e271838995.jpg" } },
+                    { title: "Best Combined with Hiking: Queen's Forest Hike & Lake Boat Ride", content: "This pairs a hike up to Santi Stupa through Queen's Forest with a boat ride on Phewa Lake afterward, for a more active full day.", tourCard: { slug: "pokhara-queen-forest-hike-to-santi-stupa-lake", title: "Pokhara: Queen Forest Hike to Santi Stupa & Lake Boat Ride", description: "A forest hike to Santi Stupa combined with a lake boat ride.", price: "From $67", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bdd818d16d6679df4e8f355d11e3258108304bed3d200eb77634a634f07f800e.jpg" } },
+                    { title: "Practical Tips", content: "Sunset boat rides book up on clear evenings — reserve in advance during peak season (October-November, March-April) when Annapurna reflections on the lake are at their clearest." }
+                ],
+                faqs: [
+                    { q: "What is the best Phewa Lake experience in Pokhara?", a: "A sunset boat ride with dinner for relaxation, or the Queen's Forest hike combo for a more active day." },
+                    { q: "When is the best time for Phewa Lake views?", a: "October-November and March-April, when Annapurna reflections on the lake are clearest." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Phewa Lake experience?", "acceptedAnswer": { "@type": "Answer", "text": "A sunset boat ride with dinner, or the Queen's Forest hike combo." } },
+                    { "@type": "Question", "name": "Best time for lake views?", "acceptedAnswer": { "@type": "Answer", "text": "October-November and March-April." } }
+                ] },
+            };
+
+        case "best-zipline-tour-pokhara":
+            return {
+                title: "Which Is the Best Zipline Tour in Pokhara?",
+                seoTitle: "Best Zipline Tour Pokhara 2026 | Honest Comparison",
+                description: "Compare real zipline tours in Pokhara — from a skyscreamer swing combo to one of the world's steepest and fastest ziplines with hotel transfers.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c7ba876b7f05f09483808f079ca7b160527967f4a00e819dba5d4547ef344a92.png",
+                sections: [
+                    { title: "The Short Answer", content: "Pokhara's zipline is known as one of the steepest and fastest in the world, and tours differ mainly in whether extra activities (like a swing) are bundled in and whether hotel transfers are included.", tourCard: { slug: "pokhara-zipline-and-skyscreamer-swing-combo", title: "Pokhara: Zipline and Skyscreamer Swing Combo", description: "The zipline combined with a skyscreamer swing experience.", price: "From $101", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/27f34a2ad45f17c35c6ab2a8e30c777e71f16d16281327f3c7053674c8842f73.jpg" } },
+                    { title: "Best with Transfers: High-Speed Zipline Tour with Hotel Transfers", content: "This bundles hotel pickup and drop-off into the zipline experience, removing the logistics of getting there yourself.", tourCard: { slug: "pokhara-high-speed-zipline-tour-with-hotel", title: "Pokhara: High-Speed Zipline Tour with Hotel Transfers", description: "The high-speed zipline with hotel transfers included.", price: "From $280", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c7ba876b7f05f09483808f079ca7b160527967f4a00e819dba5d4547ef344a92.png" } },
+                    { title: "Practical Tips", content: "Pokhara's zipline reaches genuinely high speeds (among the fastest commercial ziplines anywhere) — if heights and speed aren't for you, the paragliding or boat options are gentler ways to see similar scenery." }
+                ],
+                faqs: [
+                    { q: "What is the best zipline tour in Pokhara?", a: "The skyscreamer combo adds variety; go for the hotel-transfer version if you want the logistics handled." },
+                    { q: "Is Pokhara's zipline really one of the fastest in the world?", a: "Yes, it's marketed and generally regarded as among the steepest and fastest commercial ziplines globally." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best zipline tour in Pokhara?", "acceptedAnswer": { "@type": "Answer", "text": "The skyscreamer combo adds variety." } },
+                    { "@type": "Question", "name": "Is it really one of the fastest in the world?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, among the steepest and fastest commercial ziplines globally." } }
+                ] },
+            };
+
+        case "pokhara-travel-guide-2026":
+            return {
+                title: "Pokhara Travel Guide 2026",
+                description: "What visitors need to know about Pokhara, Nepal's adventure-sports and lakeside hub.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6a0ef06342ccb1bfdfddbfba209fb927023fc5f3e5c1974d8046dff8a2a65db5.jpg",
+                sections: [
+                    { title: "Why Visit", content: "Pokhara is Nepal's adventure capital — paragliding, ziplining, and Annapurna trekking all launch from here, alongside the relaxed lakeside scene around Phewa Lake." }
+                ],
+                faqs: [
+                    { q: "Is Pokhara worth visiting?", a: "Yes, for adventure sports (paragliding, ziplining), Annapurna access, and the lakeside atmosphere." }
+                ],
+            };
+
+        case "best-time-to-visit-pokhara":
+            return {
+                title: "Best Time to Visit Pokhara",
+                description: "Timing matters in Pokhara, especially for mountain views and paragliding conditions.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6a0ef06342ccb1bfdfddbfba209fb927023fc5f3e5c1974d8046dff8a2a65db5.jpg",
+                sections: [
+                    { title: "Weather Patterns", content: "October-November and March-April offer the clearest Annapurna views and best paragliding conditions. The monsoon (June-September) brings heavy cloud cover that often obscures the mountains entirely." }
+                ],
+                faqs: [
+                    { q: "What is the best time to visit Pokhara?", a: "October-November and March-April for clear mountain views and good paragliding weather." }
+                ],
+            };
+
+        case "pokhara-1-day-itinerary":
+            return {
+                title: "Pokhara 1-Day Itinerary",
+                description: "A realistic one-day plan for Pokhara if you don't have time for a multi-day Annapurna trek.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/36a7253ae364b9bdacf2f0c0efc53550fc4c2fb8a2dc0143b96c19957aa9e5e1.jpg",
+                sections: [
+                    { title: "Early Morning", content: "Start before dawn with the Sarangkot sunrise tour for Annapurna views." },
+                    { title: "Midday", content: "Follow with a paragliding flight, which conveniently launches near Sarangkot and lands close to Phewa Lake." },
+                    { title: "Evening", content: "Finish with a relaxed sunset boat ride on Phewa Lake." }
+                ],
+                faqs: [
+                    { q: "Can Pokhara be seen in one day?", a: "Yes, Sarangkot sunrise, paragliding, and a Phewa Lake boat ride fit comfortably into one day." }
+                ],
+            };
+
+        case "pokhara-vs-kathmandu-guide":
+            return {
+                title: "Pokhara vs Kathmandu: Which Should You Visit First?",
+                description: "An honest comparison of Nepal's two most-visited cities for first-time travellers deciding where to spend their time.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6a0ef06342ccb1bfdfddbfba209fb927023fc5f3e5c1974d8046dff8a2a65db5.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Kathmandu is the cultural and historical base (temples, Durbar Square, Everest access), while Pokhara is the adventure and relaxation base (paragliding, lakeside, Annapurna access). Most itineraries include both rather than choosing one." }
+                ],
+                faqs: [
+                    { q: "Should I visit Pokhara or Kathmandu first?", a: "Most travellers do both — Kathmandu for culture and Everest-region access, Pokhara for adventure sports and Annapurna access." }
+                ],
+            };
+
         default:
             return null;
     }

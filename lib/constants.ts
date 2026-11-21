@@ -604,6 +604,15 @@ export const EILAT_INFO_SLUGS = [
   'best-snorkeling-diving-tour-eilat', 'eilat-travel-guide-2026',
 ];
 
+// Pokhara (Nepal) — 504 live tours, launched 2026-11-21.
+export const POKHARA_INFO_SLUGS = [
+  'best-paragliding-tour-pokhara', 'best-sarangkot-sunrise-tour-pokhara',
+  'best-annapurna-day-hike-pokhara', 'best-phewa-lake-tour-pokhara',
+  'best-zipline-tour-pokhara', 'pokhara-travel-guide-2026',
+  'best-time-to-visit-pokhara', 'pokhara-1-day-itinerary',
+  'pokhara-vs-kathmandu-guide',
+];
+
 export const JOHOR_BAHRU_INFO_SLUGS = [
   'best-jetski-tour-johor-bahru',
   'best-hop-on-hop-off-tour-johor-bahru', 'best-private-city-tour-johor-bahru',
