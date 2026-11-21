@@ -307,6 +307,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   const samarkandInfoPages = [
     'best-tours-in-samarkand', 'best-registan-walking-tour-samarkand',
     'best-plov-cooking-class-samarkand',
+    'is-bread-baking-worth-it-samarkand', 'is-jewish-legacy-tour-worth-it-samarkand',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/samarkand/${slug}`,
     lastModified: new Date(),

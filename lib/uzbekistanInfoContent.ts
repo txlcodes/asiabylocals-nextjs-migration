@@ -562,6 +562,42 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-bread-baking-worth-it-samarkand":
+            return {
+                title: "Is the Samarkand Bread Baking Experience Worth It?",
+                seoTitle: "Samarkand Bread Baking 2026 | Honest Review",
+                description: "An honest look at Samarkand's legendary bread baking experience in a local bakery, a hands-on food tradition distinct from the city's Registan and mausoleum sightseeing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a2bab57beca9b890bad9f7471c0b89cc730642bfa1c3c864e60fbccd4c621d28.png",
+                sections: [
+                    { title: "The Short Answer", content: "Samarkand's distinctive round bread, baked in traditional tandoor ovens, is famous across Central Asia, and this hands-on class in a local bakery gives genuine insight into the craft — a different kind of cultural activity from touring mausoleums and the Registan.", tourCard: { slug: "bake-legendary-samarkand-bread-in-a-local-bakery", title: "Bake Legendary Samarkand Bread in a Local Bakery", description: "A hands-on bread baking class in a traditional Samarkand bakery.", price: "From $36", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a2bab57beca9b890bad9f7471c0b89cc730642bfa1c3c864e60fbccd4c621d28.png" } },
+                    { title: "Practical Tips", content: "You take your freshly baked bread with you, so it's a nice activity to do before a picnic or a long travel day." },
+                ],
+                faqs: [
+                    { q: "Is the Samarkand bread baking experience worth it?", a: "Yes, for genuine hands-on insight into a Central Asian food tradition, a nice change of pace from monument sightseeing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Samarkand bread baking experience worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine hands-on insight into a Central Asian food tradition." } },
+                ] },
+            };
+
+        case "is-jewish-legacy-tour-worth-it-samarkand":
+            return {
+                title: "Is the Jewish Legacy Tour Worth It in Samarkand?",
+                seoTitle: "Samarkand Jewish Legacy Tour 2026 | Honest Review",
+                description: "An honest look at Samarkand's Jewish legacy guided tour, exploring the city's Bukharan Jewish history and quarter, distinct from the standard Registan and Silk Road sightseeing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ebf36bb8c338e05565ed7ff1134ea40d2880004c0809164fbbff30c3616412df.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Samarkand has a centuries-old Bukharan Jewish community and quarter, a genuinely distinct historical thread that most standard Registan and Silk Road itineraries skip entirely — worth it for travelers interested in the city's religious and cultural diversity beyond the main monuments.", tourCard: { slug: "discover-jewish-legacy-in-samarkand-guided", title: "Discover Jewish Legacy in Samarkand: Guided Tour", description: "A guided tour exploring Samarkand's Bukharan Jewish history and quarter.", price: "From $104", duration: "6.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ebf36bb8c338e05565ed7ff1134ea40d2880004c0809164fbbff30c3616412df.jpg" } },
+                    { title: "Practical Tips", content: "A knowledgeable local guide makes a real difference here, since the sites themselves often lack obvious signage explaining their significance." },
+                ],
+                faqs: [
+                    { q: "Is the Jewish legacy tour worth it in Samarkand?", a: "Yes, for genuine insight into a distinct historical thread most standard itineraries skip entirely." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Jewish legacy tour worth it in Samarkand?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine insight into Samarkand's Bukharan Jewish history." } },
+                ] },
+            };
+
         default:
             return null;
     }
